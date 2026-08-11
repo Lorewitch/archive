@@ -1,5 +1,6 @@
 # id: quest_eq_41152
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Охотник Экспресс
 # title_en: Good Hunter Express
 # title_zh: 猎鹿急送

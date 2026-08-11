@@ -1,5 +1,6 @@
 # id: quest_eq_10002
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Праздник морских фонарей. День 2
 # title_en: Lantern Rite: Day 2
 # title_zh: 海灯节 第二天

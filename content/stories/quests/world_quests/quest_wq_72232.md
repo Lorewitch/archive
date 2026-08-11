@@ -1,5 +1,6 @@
 # id: quest_wq_72232
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Чистый дом
 # title_en: Clean House
 # title_zh: 门户清理

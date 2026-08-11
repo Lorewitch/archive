@@ -1,5 +1,6 @@
 # id: quest_eq_10237
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/tradeshow.webp
 # title_ru: Игрушки для детей
 # title_en: Toys for the Children
 # title_zh: 留给孩子们的「玩具」

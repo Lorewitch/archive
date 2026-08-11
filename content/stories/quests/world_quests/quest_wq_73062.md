@@ -1,5 +1,6 @@
 # id: quest_wq_73062
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пока вана не исцелится
 # title_en: Until Vana is Healed
 # title_zh: 直到「桓那」痊愈

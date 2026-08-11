@@ -1,5 +1,6 @@
 # id: quest_aq_1404
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Приближение катастрофы
 # title_en: Cataclysm's Quickening
 # title_zh: 谕示胎动的终焉之刻

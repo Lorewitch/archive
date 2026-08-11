@@ -1,5 +1,6 @@
 # id: quest_wq_76677
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Семена, принесённые ветром
 # title_en: Like Seeds on the Wind
 # title_zh: 如风带来的种子

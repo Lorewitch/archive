@@ -1,5 +1,6 @@
 # id: quest_wq_72175
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Приключения забывчивого короля
 # title_en: The Saga of Mr. Forgetful
 # title_zh: 健忘大王历险记

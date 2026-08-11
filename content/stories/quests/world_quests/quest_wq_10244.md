@@ -1,5 +1,6 @@
 # id: quest_wq_10244
 # story_group: world_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Задание летнего события (Бета-тест)
 # title_en: Summer Event Beta Testing Quest
 # title_zh: 夏活beta测试任务

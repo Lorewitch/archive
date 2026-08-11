@@ -1,5 +1,6 @@
 # id: quest_lq_2056
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_mosasaurus.webp
 # title_ru: Легенда о таинственном острове
 # title_en: The Legend of the Mysterious Island
 # title_zh: 神秘岛的传说

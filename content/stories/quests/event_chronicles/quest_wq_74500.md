@@ -1,5 +1,6 @@
 # id: quest_wq_74500
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Игрушечная война: Пристрелка
 # title_en: The Toy War: Shots Fired
 # title_zh: 开火！玩具战争

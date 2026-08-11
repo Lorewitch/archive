@@ -1,5 +1,6 @@
 # id: quest_wq_72812
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Методы сочинения историй
 # title_en: Storytelling Method
 # title_zh: 故事构思法

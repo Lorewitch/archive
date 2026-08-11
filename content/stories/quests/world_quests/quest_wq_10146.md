@@ -1,5 +1,6 @@
 # id: quest_wq_10146
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Великое приключение в Нарциссенкрейце
 # title_en: The Narzissenkreuz Adventure
 # title_zh: 「水仙十字大冒险」

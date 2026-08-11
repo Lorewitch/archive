@@ -1,5 +1,6 @@
 # id: quest_wq_72262
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Восемь мест от гор до морей: Тростниковые пейзажи
 # title_en: Eight Locales Over Mountains and Seas: One Hundred Sights of Dihua
 # title_zh: 山海八所巡礼·荻原川狩百景

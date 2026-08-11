@@ -1,5 +1,6 @@
 # id: quest_wq_73049
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: У Фатуи ума как у статуи
 # title_en: The Foolish Fatuus
 # title_zh: 愚人者人愚之

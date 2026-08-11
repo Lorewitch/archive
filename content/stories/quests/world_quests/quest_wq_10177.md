@@ -1,5 +1,6 @@
 # id: quest_wq_10177
 # story_group: world_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Предзнаменование Ночного дозора
 # title_en: Prelude to the Night Vigil
 # title_zh: 夜巡的先声

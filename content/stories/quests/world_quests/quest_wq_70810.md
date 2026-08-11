@@ -1,5 +1,6 @@
 # id: quest_wq_70810
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Равноценный обмен
 # title_en: Equivalent Exchange
 # title_zh: 等量交换

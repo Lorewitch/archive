@@ -1,5 +1,6 @@
 # id: quest_wq_74509
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Противостояние традиций и инноваций!
 # title_en: A Clash Between the First and the Latest!
 # title_zh: 最初与最新的对决！

@@ -1,5 +1,6 @@
 # id: quest_wq_71063
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Прошлое героя с вершины
 # title_en: A Cliff-Side Hero's Past
 # title_zh: 岩巅大侠往事

@@ -1,5 +1,6 @@
 # id: quest_wq_70531
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путешествие по чудесам
 # title_en: A Tour of Wonders
 # title_zh: 诸景巡礼

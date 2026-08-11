@@ -1,5 +1,6 @@
 # id: quest_wq_74675
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Прибытие аквабуса на станцию!
 # title_en: The Arrival of a...!
 # title_zh: 进站！

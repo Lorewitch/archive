@@ -1,5 +1,6 @@
 # id: quest_wq_73800
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Всеядные гурманы: В рамках долга
 # title_en: Gourmet Supremos: Within Our Duties
 # title_zh: 全能美食队·职责之内

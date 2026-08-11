@@ -1,5 +1,6 @@
 # id: quest_wq_71816
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Фонарь путника
 # title_en: Lantern of the Wayfarer
 # title_zh: 灯下未归人

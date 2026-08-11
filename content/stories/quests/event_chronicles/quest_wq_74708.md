@@ -1,5 +1,6 @@
 # id: quest_wq_74708
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Появились злые рыбки?
 # title_en: The Emergence of Irate Fish?
 # title_zh: 暴躁鱼儿在出没？

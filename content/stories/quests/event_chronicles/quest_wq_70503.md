@@ -1,5 +1,6 @@
 # id: quest_wq_70503
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лёд растворяется в вине
 # title_en: Solid Ice, Soluble in Wine
 # title_zh: 坚冰，易溶于酒

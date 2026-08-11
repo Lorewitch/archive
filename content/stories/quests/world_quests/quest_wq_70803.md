@@ -1,5 +1,6 @@
 # id: quest_wq_70803
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Снежный силуэт: Воссоединение
 # title_en: Snowy Silhouette: Reunion
 # title_zh: 白皑谜影·重逢

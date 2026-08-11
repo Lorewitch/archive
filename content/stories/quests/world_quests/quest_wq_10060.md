@@ -1,5 +1,6 @@
 # id: quest_wq_10060
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Скорбная песнь Гипериона
 # title_en: Hyperion's Dirge
 # title_zh: 许伯利翁哀歌

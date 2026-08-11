@@ -1,5 +1,6 @@
 # id: quest_eq_10043
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/lunarite.webp
 # title_ru: Шесть-семь-восемь-девять-десять, всё съедаю я на месте!
 # title_en: Three to Get Ready, and Here We Go
 # title_zh: 六情通七仙贺八方飘香九霄得闻十分完满

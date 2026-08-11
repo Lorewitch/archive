@@ -1,5 +1,6 @@
 # id: quest_wq_75504
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путь граффити
 # title_en: On the Graffiti Road
 # title_zh: 涂鸦之路的方向标

@@ -1,5 +1,6 @@
 # id: quest_wq_72717
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Железо Кодзуэ
 # title_en: Kozue's Ironwork
 # title_zh: 梢的铁块需求

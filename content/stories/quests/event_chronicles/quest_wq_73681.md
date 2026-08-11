@@ -1,5 +1,6 @@
 # id: quest_wq_73681
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Настоящее преображение
 # title_en: Good as New
 # title_zh: 装点一新

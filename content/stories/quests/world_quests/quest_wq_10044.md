@@ -1,5 +1,6 @@
 # id: quest_wq_10044
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Сквозь туман
 # title_en: Through the Mists
 # title_zh: 雾海纪行

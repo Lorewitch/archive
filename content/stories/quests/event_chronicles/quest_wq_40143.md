@@ -1,5 +1,6 @@
 # id: quest_wq_40143
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Друг издалека I
 # title_en: Receiver of Friends From Afar: Part I
 # title_zh: 有朋自远方来·其一

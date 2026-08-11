@@ -1,5 +1,6 @@
 # id: quest_wq_10131
 # story_group: world_quests
+# icon: assets/icons/stories/quests/deshret.webp
 # title_ru: Утраченный апокалипсис
 # title_en: Apocalypse Lost
 # title_zh: 已逝去的末日

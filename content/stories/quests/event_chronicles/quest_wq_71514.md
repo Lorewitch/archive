@@ -1,5 +1,6 @@
 # id: quest_wq_71514
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сияющие искры
 # title_en: Radiant Sparks
 # title_zh: 光焰蹈跃

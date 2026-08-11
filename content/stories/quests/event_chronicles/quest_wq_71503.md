@@ -1,5 +1,6 @@
 # id: quest_wq_71503
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Доклад о работе самоциркуляции шипа: запись внешних условий
 # title_en: Spike Self-Circulation Report: Environs Log
 # title_zh: 光钉自循环运作报告·环境记录

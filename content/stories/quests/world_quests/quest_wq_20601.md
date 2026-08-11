@@ -1,5 +1,6 @@
 # id: quest_wq_20601
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хорошая возможность?
 # title_en: A Fine Opportunity?
 # title_zh: 天赐良机？

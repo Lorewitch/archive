@@ -1,5 +1,6 @@
 # id: quest_wq_70508
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ночь. Луна. Причал.
 # title_en: Docked on a Moonlit Night
 # title_zh: 月夜，泊船码头

@@ -1,5 +1,6 @@
 # id: quest_lq_2025
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/yae.webp
 # title_ru: Великое подношение Наруками
 # title_en: The Great Narukami Offering
 # title_zh: 鸣神御祓祈愿祭

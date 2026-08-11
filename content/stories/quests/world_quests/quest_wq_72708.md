@@ -1,5 +1,6 @@
 # id: quest_wq_72708
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный Фатуи
 # title_en: Fatuous Farce
 # title_zh: 愚人众引起的混乱

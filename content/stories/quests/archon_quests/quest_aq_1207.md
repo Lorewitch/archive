@@ -1,5 +1,6 @@
 # id: quest_aq_1207
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/roguelikediary.webp
 # title_ru: Опасная тропа
 # title_en: Perilous Trail
 # title_zh: 危途疑踪

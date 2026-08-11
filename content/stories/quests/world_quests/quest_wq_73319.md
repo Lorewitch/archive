@@ -1,5 +1,6 @@
 # id: quest_wq_73319
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Зов света
 # title_en: Lightcall Resonance
 # title_zh: 浮光鸣召

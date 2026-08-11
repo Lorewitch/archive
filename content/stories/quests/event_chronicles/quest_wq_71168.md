@@ -1,5 +1,6 @@
 # id: quest_wq_71168
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Фонари удачи
 # title_en: Light the Way of Wishes
 # title_zh: 灯逐良愿

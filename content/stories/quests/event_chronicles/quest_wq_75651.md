@@ -1,5 +1,6 @@
 # id: quest_wq_75651
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Честная реклама
 # title_en: An Honest Promotion
 # title_zh: 善良促销

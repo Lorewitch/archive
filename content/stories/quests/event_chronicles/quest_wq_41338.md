@@ -1,5 +1,6 @@
 # id: quest_wq_41338
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Первое праздничное приключение
 # title_en: A Festive First Adventure
 # title_zh: 轻松的冒险初体验

@@ -1,5 +1,6 @@
 # id: quest_wq_70676
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Бесконечная история
 # title_en: Unbegun, Unending Story
 # title_zh: 无始无终的故事

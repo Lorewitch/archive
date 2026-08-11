@@ -1,5 +1,6 @@
 # id: quest_aq_1609
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: И всё возвратится в прах
 # title_en: As All Falls to Emptiness
 # title_zh: 身土坏空，五蕴识转

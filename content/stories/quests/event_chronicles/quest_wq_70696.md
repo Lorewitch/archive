@@ -1,5 +1,6 @@
 # id: quest_wq_70696
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Подарок от издательского дома Яэ
 # title_en: A Gift From Yae Publishing House
 # title_zh: 来自八重堂的礼物

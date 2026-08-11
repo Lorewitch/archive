@@ -1,5 +1,6 @@
 # id: quest_wq_73071
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дарите цветы
 # title_en: Giving Flowers
 # title_zh: 予人以花

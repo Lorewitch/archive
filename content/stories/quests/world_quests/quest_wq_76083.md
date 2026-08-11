@@ -1,5 +1,6 @@
 # id: quest_wq_76083
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Изменчивый лунный свет
 # title_en: Shifting Moonlight
 # title_zh: 月色千变

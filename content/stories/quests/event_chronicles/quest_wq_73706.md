@@ -1,5 +1,6 @@
 # id: quest_wq_73706
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Группа по управлению кризисными ситуациями к работе готова!
 # title_en: Crisis Management Unit, Fully Operational!
 # title_zh: 抗险机构，全量就绪！

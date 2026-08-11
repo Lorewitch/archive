@@ -1,5 +1,6 @@
 # id: quest_wq_73686
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Неожиданный бой
 # title_en: Unexpected Battle
 # title_zh: 意外争斗

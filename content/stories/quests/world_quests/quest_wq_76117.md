@@ -1,5 +1,6 @@
 # id: quest_wq_76117
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Человек, который отбросил прошлое
 # title_en: They Who Abandoned the Past
 # title_zh: 曾抛弃过去的人

@@ -1,5 +1,6 @@
 # id: quest_wq_73109
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пока длится мечта
 # title_en: For a Dream I Tarry
 # title_zh: 趁梦想气息逗留

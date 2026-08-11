@@ -1,5 +1,6 @@
 # id: quest_wq_71805
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Письмо ценою в десять тысяч золотых
 # title_en: Words Worth Their Weight in Mora
 # title_zh: 书抵万金

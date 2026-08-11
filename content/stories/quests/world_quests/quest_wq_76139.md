@@ -1,5 +1,6 @@
 # id: quest_wq_76139
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мелкая торговля
 # title_en: A Small Venture
 # title_zh: 小生意

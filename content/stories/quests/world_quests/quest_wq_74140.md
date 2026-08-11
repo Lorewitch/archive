@@ -1,5 +1,6 @@
 # id: quest_wq_74140
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сквозь тайное зеркало
 # title_en: Through the Looking Glass
 # title_zh: 穿过谜镜

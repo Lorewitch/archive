@@ -1,5 +1,6 @@
 # id: quest_wq_74250
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Беседы у камина
 # title_en: Whispers by the Hearth
 # title_zh: 壁炉畔的絮语

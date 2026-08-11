@@ -1,5 +1,6 @@
 # id: quest_lq_2060
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_drillhead.webp
 # title_ru: Мелодичное пение
 # title_en: Melodious Chant
 # title_zh: 抑扬的吟咏

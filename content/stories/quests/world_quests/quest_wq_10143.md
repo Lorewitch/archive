@@ -1,5 +1,6 @@
 # id: quest_wq_10143
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Незавершённая комедия
 # title_en: Unfinished Comedy
 # title_zh: 未完成的喜剧

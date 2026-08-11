@@ -1,5 +1,6 @@
 # id: quest_wq_71809
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дарю мой стих этому городу
 # title_en: An Ode to Yonder City
 # title_zh: 此诗送此城

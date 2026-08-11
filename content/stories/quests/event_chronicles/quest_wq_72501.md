@@ -1,5 +1,6 @@
 # id: quest_wq_72501
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мир за рамками холста: Озеленение
 # title_en: Outside the Canvas, Inside the Lens: Greenery Chapter
 # title_zh: 画外旅照·青植之篇

@@ -1,5 +1,6 @@
 # id: quest_wq_71708
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Железо для Хань Фэна
 # title_en: Hanfeng's Iron-Mongering
 # title_zh: 寒锋的铁块需求

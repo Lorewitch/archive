@@ -1,5 +1,6 @@
 # id: quest_wq_74663
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мек-хаос
 # title_en: Meka Mess
 # title_zh: 发条机关引起的混乱

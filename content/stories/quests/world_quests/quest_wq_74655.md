@@ -1,5 +1,6 @@
 # id: quest_wq_74655
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Молочный забег Пабана
 # title_en: Paban's Milk Run
 # title_zh: 帕班的牛奶需求

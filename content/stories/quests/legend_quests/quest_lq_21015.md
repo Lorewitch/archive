@@ -1,5 +1,6 @@
 # id: quest_lq_21015
 # story_group: legend_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Книга в лесу
 # title_en: Book in the Woods
 # title_zh: 林中小书

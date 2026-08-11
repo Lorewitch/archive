@@ -1,5 +1,6 @@
 # id: quest_aq_1504
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Пылающая Ода воскресения
 # title_en: Incandescent Ode of Resurrection
 # title_zh: 炽烈的还魂诗

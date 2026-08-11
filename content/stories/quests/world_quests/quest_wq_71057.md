@@ -1,5 +1,6 @@
 # id: quest_wq_71057
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пропавший шахтёр
 # title_en: The Missing Miner
 # title_zh: 失踪的矿工

@@ -1,5 +1,6 @@
 # id: quest_wq_72500
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: После праздника
 # title_en: Festival Afterword
 # title_zh: 祭典后话

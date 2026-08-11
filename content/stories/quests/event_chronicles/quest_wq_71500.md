@@ -1,5 +1,6 @@
 # id: quest_wq_71500
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Курс машинной кулинарии I
 # title_en: Contraption-Contrived Cooking Course: Part I
 # title_zh: 机关烹饪之法·之一

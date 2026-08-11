@@ -1,5 +1,6 @@
 # id: quest_wq_76193
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Особое исследование: Мелюзина?
 # title_en: Special Research: Melusine?
 # title_zh: 特别调查·美露莘？

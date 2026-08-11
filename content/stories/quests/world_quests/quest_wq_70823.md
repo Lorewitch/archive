@@ -1,5 +1,6 @@
 # id: quest_wq_70823
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Проблемы в Черногорье
 # title_en: Blackcliff Woes
 # title_zh: 黑岩之困

@@ -1,5 +1,6 @@
 # id: quest_eq_10117
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/penumbraadventure.webp
 # title_ru: Приглашение издалека!
 # title_en: An Invitation From Afar!
 # title_zh: 远方传来邀请函！

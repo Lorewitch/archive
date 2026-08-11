@@ -1,5 +1,6 @@
 # id: quest_eq_10101
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fungusfighter.webp
 # title_ru: Первое сражение Кубка лотоса нилотпала
 # title_en: Nilotpala Cup: Debut Match
 # title_zh: 「月莲杯」的初战

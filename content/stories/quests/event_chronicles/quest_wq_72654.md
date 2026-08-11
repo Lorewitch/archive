@@ -1,5 +1,6 @@
 # id: quest_wq_72654
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сквозь неизведанные грозовые облака
 # title_en: Crossing Unknown Storm Clouds
 # title_zh: 涉过未知的雷云

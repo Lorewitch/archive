@@ -1,5 +1,6 @@
 # id: quest_wq_72701
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хиличурлский беспредел
 # title_en: Hilichurl Hullaballoo
 # title_zh: 丘丘人引起的混乱

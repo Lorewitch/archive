@@ -1,5 +1,6 @@
 # id: quest_wq_76652
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сортировщик проблем
 # title_en: Problem-Sorting Robot
 # title_zh: 问题分拣机器人

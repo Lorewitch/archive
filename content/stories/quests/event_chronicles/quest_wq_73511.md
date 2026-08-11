@@ -1,5 +1,6 @@
 # id: quest_wq_73511
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Избавление от червей: Заявка
 # title_en: The Culling of the Worms: Proposal
 # title_zh: 沙漠虫害·开题

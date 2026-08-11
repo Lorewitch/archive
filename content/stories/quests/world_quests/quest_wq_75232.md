@@ -1,5 +1,6 @@
 # id: quest_wq_75232
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пайтити мечты
 # title_en: Dreamy Paititi
 # title_zh: 美梦帕依提提

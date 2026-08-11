@@ -1,5 +1,6 @@
 # id: quest_eq_10042
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/lunarite.webp
 # title_ru: Раз-два-три-четыре-пять, что бы мне здесь заказать?
 # title_en: One for the Foodies, Two for the Show
 # title_zh: 一筷食二轮烹三餐尽欢四海扬名五味俱全

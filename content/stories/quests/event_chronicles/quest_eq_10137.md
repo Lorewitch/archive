@@ -1,5 +1,6 @@
 # id: quest_eq_10137
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fleurfair.webp
 # title_ru: Загадка средь людей
 # title_en: A Riddle Amidst the Crowds
 # title_zh: 匿于人海的预言之谜

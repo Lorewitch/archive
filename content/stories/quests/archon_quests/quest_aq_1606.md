@@ -1,5 +1,6 @@
 # id: quest_aq_1606
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Лунный свет в утреннем тумане
 # title_en: Melting Moonlight in the Morning Mist
 # title_zh: 散于晨雾的月芒

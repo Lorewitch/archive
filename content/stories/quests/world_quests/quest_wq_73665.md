@@ -1,5 +1,6 @@
 # id: quest_wq_73665
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный Пустынниками
 # title_en: Eremite Mayhem
 # title_zh: 镀金旅团引起的混乱

@@ -1,5 +1,6 @@
 # id: quest_wq_73105
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путь к знаниям
 # title_en: The Path of Papers
 # title_zh: 求学漫漫路

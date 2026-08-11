@@ -1,5 +1,6 @@
 # id: quest_wq_41170
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Высокий полёт
 # title_en: Fly High
 # title_zh: 展翼高飞

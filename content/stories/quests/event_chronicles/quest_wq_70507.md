@@ -1,5 +1,6 @@
 # id: quest_wq_70507
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Окружённый ароматом чая
 # title_en: Surrounded by the Aroma of Tea
 # title_zh: 茶香氤氲间

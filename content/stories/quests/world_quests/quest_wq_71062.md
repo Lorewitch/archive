@@ -1,5 +1,6 @@
 # id: quest_wq_71062
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пропавший в глубинах отряд
 # title_en: A Company Vanishing Into the Deep
 # title_zh: 连队消失在深岩

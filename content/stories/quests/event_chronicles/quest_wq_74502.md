@@ -1,5 +1,6 @@
 # id: quest_wq_74502
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Игрушечная война: Перемирие
 # title_en: The Toy War: An Armistice
 # title_zh: 停战协议！玩具战争

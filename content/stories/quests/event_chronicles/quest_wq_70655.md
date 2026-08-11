@@ -1,5 +1,6 @@
 # id: quest_wq_70655
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Зов гор
 # title_en: Mountainous Summons
 # title_zh: 山之召唤

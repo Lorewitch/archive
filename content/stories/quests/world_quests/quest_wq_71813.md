@@ -1,5 +1,6 @@
 # id: quest_wq_71813
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Возвращение Нефритового дворца?
 # title_en: Return of the Jade Chamber?
 # title_zh: 群玉阁…再现？

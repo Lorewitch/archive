@@ -1,5 +1,6 @@
 # id: quest_lq_2012
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/tartaglia.webp
 # title_ru: Приключение могучего Одноглазика!
 # title_en: Mighty Cyclops' Adventure!
 # title_zh: 独眼小宝总动员

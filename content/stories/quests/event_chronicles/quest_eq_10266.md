@@ -1,5 +1,6 @@
 # id: quest_eq_10266
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sumeruadventuretraining.webp
 # title_ru: Возвращение из тайны
 # title_en: Return From the Mysterious Realm
 # title_zh: 自谜域归

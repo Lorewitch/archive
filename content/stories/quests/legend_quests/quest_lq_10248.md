@@ -1,5 +1,6 @@
 # id: quest_lq_10248
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/easybreezeholidayresort.webp
 # title_ru: Раскрасим ночь в яркие краски!
 # title_en: A Curtain Call for a Colorful Summer Night!
 # title_zh: 收幕！将夏夜染作缤纷！

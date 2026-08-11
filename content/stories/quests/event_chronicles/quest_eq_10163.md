@@ -1,5 +1,6 @@
 # id: quest_eq_10163
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Одинокий остров в тумане
 # title_en: The Lone Isle Glimpsed Through Fog
 # title_zh: 雾中隐现的孤岛

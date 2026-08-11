@@ -1,5 +1,6 @@
 # id: quest_wq_72183
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Искусство садоводства
 # title_en: The Art of Horticulture
 # title_zh: 栽种之法

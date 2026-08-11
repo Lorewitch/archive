@@ -1,5 +1,6 @@
 # id: quest_wq_70701
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заветное желание Глории
 # title_en: Glory's Wish
 # title_zh: 葛罗丽的心愿

@@ -1,5 +1,6 @@
 # id: quest_lq_2057
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_mosasaurus.webp
 # title_ru: Путешествие на таинственный остров
 # title_en: Journey to the Mysterious Island
 # title_zh: 神秘岛之旅

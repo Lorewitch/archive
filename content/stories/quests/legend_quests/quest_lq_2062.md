@@ -1,5 +1,6 @@
 # id: quest_lq_2062
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_flamingo.webp
 # title_ru: Ночь перед испытанием
 # title_en: The Night Before the Trial
 # title_zh: 试炼前夜

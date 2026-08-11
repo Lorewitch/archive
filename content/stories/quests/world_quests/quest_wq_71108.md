@@ -1,5 +1,6 @@
 # id: quest_wq_71108
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Древние свитки и искусство меча Гухуа
 # title_en: Scrolls and Sword Manuals of Guhua
 # title_zh: 古华书剑谱

@@ -1,5 +1,6 @@
 # id: quest_lq_2054
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_hookwalker.webp
 # title_ru: Сделка с Киничем
 # title_en: Kinich's Deal
 # title_zh: 基尼奇的交易

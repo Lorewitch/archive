@@ -1,5 +1,6 @@
 # id: quest_eq_10104
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fungusfighter.webp
 # title_ru: Самый сильный противник! Самые большие проблемы!
 # title_en: The Strongest Opponent! The Biggest Crisis!
 # title_zh: 最强的对手！至大的危机！

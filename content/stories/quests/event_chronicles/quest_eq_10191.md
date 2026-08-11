@@ -1,5 +1,6 @@
 # id: quest_eq_10191
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/greatfestivalv2.webp
 # title_ru: Грандиозное рок-турне «Многоцветье самой жизни в стиле Аратаки»
 # title_en: ...It's the Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness!
 # title_zh: 是荒泷生命摇滚虹色大巡回

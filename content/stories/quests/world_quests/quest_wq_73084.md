@@ -1,5 +1,6 @@
 # id: quest_wq_73084
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дилемма Афрату
 # title_en: Afratu's Dilemma
 # title_zh: 阿弗拉图之惑

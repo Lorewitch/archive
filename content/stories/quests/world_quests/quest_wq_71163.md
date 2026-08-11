@@ -1,5 +1,6 @@
 # id: quest_wq_71163
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Подарок от Адепта
 # title_en: Adeptus's Gift
 # title_zh: 仙人赠礼

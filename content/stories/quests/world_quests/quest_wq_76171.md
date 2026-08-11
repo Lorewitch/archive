@@ -1,5 +1,6 @@
 # id: quest_wq_76171
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Особая лекция по изучению минералов
 # title_en: Mineral Investigation Special Lecture
 # title_zh: 矿物调查特别授课

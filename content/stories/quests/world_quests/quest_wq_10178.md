@@ -1,5 +1,6 @@
 # id: quest_wq_10178
 # story_group: world_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Поэма Доруда
 # title_en: Darradarljod
 # title_zh: 多鲁德的长诗

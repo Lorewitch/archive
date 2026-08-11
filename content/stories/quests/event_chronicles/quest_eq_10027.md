@@ -1,5 +1,6 @@
 # id: quest_eq_10027
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/goldenappleisles.webp
 # title_ru: Таинственные острова: Путешествие в неизвестное
 # title_en: Mysterious Islands: Journey to the Unknown
 # title_zh: 迷境之岛！无法预测的旅行

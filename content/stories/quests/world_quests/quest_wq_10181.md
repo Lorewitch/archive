@@ -1,5 +1,6 @@
 # id: quest_wq_10181
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Рапсодия Фарсалии
 # title_en: Pharsalia's Rhapsody
 # title_zh: 法沙利亚狂想曲

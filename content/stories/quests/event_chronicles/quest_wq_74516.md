@@ -1,5 +1,6 @@
 # id: quest_wq_74516
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вторжение существ приостановлено...
 # title_en: An Invasion on Hold
 # title_zh: 暂时止息的生物入侵…

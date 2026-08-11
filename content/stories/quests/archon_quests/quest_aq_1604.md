@@ -1,5 +1,6 @@
 # id: quest_aq_1604
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Элегия угасшего лунного света
 # title_en: An Elegy for Faded Moonlight
 # title_zh: 回望湮灭的月光

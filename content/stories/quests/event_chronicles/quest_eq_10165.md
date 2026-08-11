@@ -1,5 +1,6 @@
 # id: quest_eq_10165
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Иволги наслаждаются весной, небеса дарят благословение
 # title_en: The Orioles Bask in Spring, the Heavens Present Auspices
 # title_zh: 风莺梳春，开天呈祥

@@ -1,5 +1,6 @@
 # id: quest_wq_74680
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Спасите бедную работницу!
 # title_en: Rescue the Poor Contract Employee!
 # title_zh: 救救可怜的乙方员工！

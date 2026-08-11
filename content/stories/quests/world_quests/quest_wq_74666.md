@@ -1,5 +1,6 @@
 # id: quest_wq_74666
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный фантазмами мутных вод
 # title_en: Hydro Phantasm Havoc
 # title_zh: 浊水幻灵引起的混乱

@@ -1,5 +1,6 @@
 # id: quest_wq_70706
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заветное желание Тимми
 # title_en: Timmie's Wish
 # title_zh: 提米的心愿

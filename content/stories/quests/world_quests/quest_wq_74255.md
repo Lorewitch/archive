@@ -1,5 +1,6 @@
 # id: quest_wq_74255
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Повторное приглашение на чай: «Настольная труппа»
 # title_en: Tea Party Re-Invitation: Tabletop Troupe
 # title_zh: 茶会的再邀·桌上剧团

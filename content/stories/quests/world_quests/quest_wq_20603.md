@@ -1,5 +1,6 @@
 # id: quest_wq_20603
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Время никого не ждёт
 # title_en: Time Waits For No Man
 # title_zh: 时不再来

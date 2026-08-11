@@ -1,5 +1,6 @@
 # id: quest_wq_73205
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Подаренная роза: Длинные деньки
 # title_en: A Gifted Rose: Long Day Ahead
 # title_zh: 献给某人的蔷薇·度过长日的方式

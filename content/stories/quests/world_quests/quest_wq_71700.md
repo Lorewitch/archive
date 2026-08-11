@@ -1,5 +1,6 @@
 # id: quest_wq_71700
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Давай сделаем венок!
 # title_en: Let's Make A Flower Garland!
 # title_zh: 畅畅想要编花环！

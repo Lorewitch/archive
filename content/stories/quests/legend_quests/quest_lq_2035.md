@@ -1,5 +1,6 @@
 # id: quest_lq_2035
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/alhatham.webp
 # title_ru: Заблуждения толпы
 # title_en: The Illusions of the Mob
 # title_zh: 乌合的虚像

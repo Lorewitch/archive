@@ -1,5 +1,6 @@
 # id: quest_eq_10127
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/poetryfestival.webp
 # title_ru: Задушевная встреча
 # title_en: Congenial Gathering
 # title_zh: 言欢聚

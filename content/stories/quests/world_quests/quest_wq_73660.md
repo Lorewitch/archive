@@ -1,5 +1,6 @@
 # id: quest_wq_73660
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лотосы нилотпала для Арины
 # title_en: Arina's Nilotpala Lotuses
 # title_zh: 阿里娜的月莲需求

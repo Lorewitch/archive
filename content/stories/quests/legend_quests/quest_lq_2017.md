@@ -1,5 +1,6 @@
 # id: quest_lq_2017
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/albedo.webp
 # title_ru: Опыты над путешественником
 # title_en: Traveler Observation Report
 # title_zh: 旅行者观察报告

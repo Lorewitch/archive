@@ -1,5 +1,6 @@
 # id: quest_wq_22016
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Всеядные гурманы: о важности правильного питания
 # title_en: The Gourmet Supremos: The Importance of Eating Well
 # title_zh: 全能美食队·吃饱的重要性

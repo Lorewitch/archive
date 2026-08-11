@@ -1,5 +1,6 @@
 # id: quest_wq_71012
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Время и ветер
 # title_en: Time and Wind
 # title_zh: 时与风

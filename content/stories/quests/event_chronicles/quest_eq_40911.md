@@ -1,5 +1,6 @@
 # id: quest_eq_40911
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Большой шаг для алхимии?
 # title_en: One Giant Step for Alchemy?
 # title_zh: 炼金术，大突破？

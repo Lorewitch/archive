@@ -1,5 +1,6 @@
 # id: quest_wq_71713
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Железо для мастера Чжана
 # title_en: Master Zhang's Metal Commission
 # title_zh: 老章的铁块需求

@@ -1,5 +1,6 @@
 # id: quest_wq_73193
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Изгнание: Всходы
 # title_en: The Exile: Sprouting
 # title_zh: 流放者·萌芽

@@ -1,5 +1,6 @@
 # id: quest_wq_71804
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Необходимые формальности
 # title_en: Necessary Procedures
 # title_zh: 必要手续

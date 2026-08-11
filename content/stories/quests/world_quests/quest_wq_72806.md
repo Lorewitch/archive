@@ -1,5 +1,6 @@
 # id: quest_wq_72806
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Приглашение от издательского дома Яэ
 # title_en: Yae Publishing House's Invitation
 # title_zh: 「八重堂」的邀约

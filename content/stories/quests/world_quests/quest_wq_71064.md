@@ -1,5 +1,6 @@
 # id: quest_wq_71064
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тысячелетние скалы
 # title_en: The Millennial Mountains
 # title_zh: 千年千岩

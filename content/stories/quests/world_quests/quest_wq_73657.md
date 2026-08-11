@@ -1,5 +1,6 @@
 # id: quest_wq_73657
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Обломки белого железа для Дварканат
 # title_en: Dwarkanath's White Iron Chunks
 # title_zh: 妲卡玛忒的白铁块需求

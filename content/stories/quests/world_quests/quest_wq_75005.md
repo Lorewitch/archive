@@ -1,5 +1,6 @@
 # id: quest_wq_75005
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Возвращение ночи в ночь
 # title_en: To the Night, What is the Night's
 # title_zh: 将夜晚放还于夜晚

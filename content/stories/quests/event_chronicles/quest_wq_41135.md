@@ -1,5 +1,6 @@
 # id: quest_wq_41135
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мысли, унесённые ветром...
 # title_en: Thoughts Carried On the Wind
 # title_zh: 风带来的思念

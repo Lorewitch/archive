@@ -1,5 +1,6 @@
 # id: quest_lq_2020
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/zhongli.webp
 # title_ru: Каменное сердце
 # title_en: No Mere Stone
 # title_zh: 匪石

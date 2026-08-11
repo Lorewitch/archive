@@ -1,5 +1,6 @@
 # id: quest_wq_76138
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Исследование утечек
 # title_en: Research Spillover
 # title_zh: 外溢之研究

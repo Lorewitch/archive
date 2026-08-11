@@ -1,5 +1,6 @@
 # id: quest_wq_75165
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Его величество жир!
 # title_en: Sing, Ho, For the Greatness of Fat!
 # title_zh: 哦！伟大的脂肪！

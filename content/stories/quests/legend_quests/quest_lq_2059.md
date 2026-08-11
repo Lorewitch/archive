@@ -1,5 +1,6 @@
 # id: quest_lq_2059
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_drillhead.webp
 # title_ru: Хриплое эхо
 # title_en: Hoarse Echoes
 # title_zh: 喑哑的回声

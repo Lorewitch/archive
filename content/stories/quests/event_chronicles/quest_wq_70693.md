@@ -1,5 +1,6 @@
 # id: quest_wq_70693
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Случайная встреча и удивительное взаимопонимание
 # title_en: Serendipitous Encounters and a Curious Consensus
 # title_zh: 巧合碰面与奇趣共识

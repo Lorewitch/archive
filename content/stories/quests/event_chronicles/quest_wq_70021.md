@@ -1,5 +1,6 @@
 # id: quest_wq_70021
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Взаимная выгода?
 # title_en: Mutual Exchange
 # title_zh: 互通有无？

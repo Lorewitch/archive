@@ -1,5 +1,6 @@
 # id: quest_wq_71006
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пейзаж Лухуа
 # title_en: Luhua Landscape
 # title_zh: 渌华景画

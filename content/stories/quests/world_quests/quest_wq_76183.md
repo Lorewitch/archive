@@ -1,5 +1,6 @@
 # id: quest_wq_76183
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Огонь и лёд
 # title_en: Fire and Ice
 # title_zh: 火与冰

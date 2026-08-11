@@ -1,5 +1,6 @@
 # id: quest_wq_71709
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мондштадтские деликатесы для Гери
 # title_en: Geri's Gastro-Nostalgia
 # title_zh: 杰里的蒙德城美食回忆

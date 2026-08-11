@@ -1,5 +1,6 @@
 # id: quest_wq_74217
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мечты, что сильнее пространства и времени
 # title_en: Daydreams Beyond Space and Time
 # title_zh: 超越时空之空想

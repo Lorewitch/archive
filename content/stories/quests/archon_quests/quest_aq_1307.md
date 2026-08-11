@@ -1,5 +1,6 @@
 # id: quest_aq_1307
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Инверсия бытия
 # title_en: Inversion of Genesis
 # title_zh: 倾落伽蓝

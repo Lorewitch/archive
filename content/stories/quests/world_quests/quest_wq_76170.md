@@ -1,5 +1,6 @@
 # id: quest_wq_76170
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Особая лекция по изучению растений
 # title_en: Flora Investigation Special Lecture
 # title_zh: 植物调查特别授课

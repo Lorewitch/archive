@@ -1,5 +1,6 @@
 # id: quest_wq_76675
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: В ночь, когда все напились
 # title_en: On This Intoxicating Night
 # title_zh: 在他们都喝醉的夜里

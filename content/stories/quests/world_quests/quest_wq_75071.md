@@ -1,5 +1,6 @@
 # id: quest_wq_75071
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Будь со мной
 # title_en: Stand by Me
 # title_zh: 常伴相随

@@ -1,5 +1,6 @@
 # id: quest_wq_76115
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Когда пыль осела
 # title_en: The Dust Settles
 # title_zh: 尘埃落定

@@ -1,5 +1,6 @@
 # id: quest_wq_73803
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ода Гарсии: Подарок совместимости
 # title_en: Garcia's Paean: A Gift of Compatibility
 # title_zh: 加尔恰的赞歌·适配性赠礼

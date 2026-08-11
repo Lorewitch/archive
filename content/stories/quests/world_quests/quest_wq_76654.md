@@ -1,5 +1,6 @@
 # id: quest_wq_76654
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Молитвы Морозной Луне
 # title_en: Blessings of the Frost Moon
 # title_zh: 霜月的祝祷

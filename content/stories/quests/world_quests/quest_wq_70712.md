@@ -1,5 +1,6 @@
 # id: quest_wq_70712
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ботаника Клорис
 # title_en: Chloris's Flora Studies
 # title_zh: 克罗丽丝的植物研究

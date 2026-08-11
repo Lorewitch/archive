@@ -1,5 +1,6 @@
 # id: quest_wq_71074
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Речи ищущего камни
 # title_en: Says He Who Seeks Stone
 # title_zh: 藏石者言

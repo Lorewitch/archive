@@ -1,5 +1,6 @@
 # id: quest_wq_73669
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный драконами руин
 # title_en: Ruin Drake Maelstrom
 # title_zh: 遗迹龙兽引起的混乱

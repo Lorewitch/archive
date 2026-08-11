@@ -1,5 +1,6 @@
 # id: quest_wq_74151
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Леруа: Под опекой
 # title_en: Leroy: Under Guard
 # title_zh: 勒鲁瓦·押解

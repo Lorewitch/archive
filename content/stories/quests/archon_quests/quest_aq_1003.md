@@ -1,5 +1,6 @@
 # id: quest_aq_1003
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Песнь о драконьей свободе
 # title_en: Song of the Dragon and Freedom
 # title_zh: 巨龙与自由之歌

@@ -1,5 +1,6 @@
 # id: quest_wq_73693
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Компендиум зельеварения
 # title_en: Concocted Reaction
 # title_zh: 药剂应对法

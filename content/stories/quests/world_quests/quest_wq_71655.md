@@ -1,5 +1,6 @@
 # id: quest_wq_71655
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Праздный разговор в чайнике
 # title_en: Idle Teapot Talk
 # title_zh: 壶中闲事

@@ -1,5 +1,6 @@
 # id: quest_wq_74039
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: «Это вам не тыквенная похлёбка...»
 # title_en: "Hey, This Isn't Pumpkin Soup..."
 # title_zh: 「这可不是南瓜汤…」

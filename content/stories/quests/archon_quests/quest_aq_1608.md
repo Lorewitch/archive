@@ -1,5 +1,6 @@
 # id: quest_aq_1608
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Истинная луна
 # title_en: True Moon
 # title_zh: 真实之月

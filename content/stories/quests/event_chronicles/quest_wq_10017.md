@@ -1,5 +1,6 @@
 # id: quest_wq_10017
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: В сиянии небесных фонарей
 # title_en: Beneath Splendent Lanterns
 # title_zh: 霄灯玲珑照此地

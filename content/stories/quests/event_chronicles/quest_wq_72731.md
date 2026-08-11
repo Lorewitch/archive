@@ -1,5 +1,6 @@
 # id: quest_wq_72731
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Битвы жуков вечны!
 # title_en: The Beetle Battles Will Never End!
 # title_zh: 永无止境的斗虫较量！

@@ -1,5 +1,6 @@
 # id: quest_wq_73675
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Где падают звёзды будущего
 # title_en: Where the Future Stars Fall
 # title_zh: 未来星坠落的地方

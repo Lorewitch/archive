@@ -1,5 +1,6 @@
 # id: quest_wq_75008
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дорога в будущее
 # title_en: The Road Ahead
 # title_zh: 将行之路

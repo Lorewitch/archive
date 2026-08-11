@@ -1,5 +1,6 @@
 # id: quest_wq_76657
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Обновлённая мастерская
 # title_en: A Whole New Craftshop
 # title_zh: 焕然一新的工坊

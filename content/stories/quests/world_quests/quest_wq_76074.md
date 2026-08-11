@@ -1,5 +1,6 @@
 # id: quest_wq_76074
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Эхо покинутой песни
 # title_en: Echoes of a Forsaken Song
 # title_zh: 放逐者的荒歌

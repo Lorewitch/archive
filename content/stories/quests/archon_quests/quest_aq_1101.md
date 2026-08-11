@@ -1,5 +1,6 @@
 # id: quest_aq_1101
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/liyue.webp
 # title_ru: Загадочная земля тысячи камней
 # title_en: Of the Land Amidst Monoliths
 # title_zh: 浮世浮生千岩间

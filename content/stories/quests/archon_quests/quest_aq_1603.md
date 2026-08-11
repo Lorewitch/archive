@@ -1,5 +1,6 @@
 # id: quest_aq_1603
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Страна, которой нет
 # title_en: A Nation That Doesn't Exist
 # title_zh: 不存在的国土

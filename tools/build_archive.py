@@ -183,11 +183,13 @@ def read_text(path: Path) -> str:
 
 def write_json(path: Path, data: Any, *, compact: bool = False) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(
         json.dumps(data, ensure_ascii=False, indent=None if compact else 2, separators=(",", ":") if compact else None),
         encoding="utf-8",
         newline="\n",
     )
+    temporary.replace(path)
 
 
 def clean_json_dir(path: Path) -> None:

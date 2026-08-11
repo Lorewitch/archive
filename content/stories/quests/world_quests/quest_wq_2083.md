@@ -1,5 +1,6 @@
 # id: quest_wq_2083
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Искрящиеся листья
 # title_en: Witch's Homework: Of Leaves That Spark
 # title_zh: 魔女的课业·火花叶之题

@@ -1,5 +1,6 @@
 # id: quest_eq_10049
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/snowrace.webp
 # title_ru: Сейчас не время для слёз
 # title_en: Now's No Time for Tears
 # title_zh: 现在不是撒娇哭泣的时候

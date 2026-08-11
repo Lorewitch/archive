@@ -1,5 +1,6 @@
 # id: quest_wq_76674
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Беседа с ведьмой
 # title_en: Witch's Chatter
 # title_zh: 魔女的闲谈

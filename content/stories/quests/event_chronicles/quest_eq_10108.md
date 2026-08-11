@@ -1,5 +1,6 @@
 # id: quest_eq_10108
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Тысяча миль вслед за загадочной мелодией
 # title_en: A Thousand Miles for an Enigmatic Tune
 # title_zh: 千里寻音迹难觅

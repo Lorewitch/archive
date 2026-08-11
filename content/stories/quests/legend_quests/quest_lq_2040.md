@@ -1,5 +1,6 @@
 # id: quest_lq_2040
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/liney.webp
 # title_ru: Забытый разбойник
 # title_en: The Forgotten Thief
 # title_zh: 被遗忘的怪盗

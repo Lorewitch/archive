@@ -1,5 +1,6 @@
 # id: quest_wq_10265
 # story_group: world_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: К востоку от луны, на запад от солнца
 # title_en: East of the Moon, West of the Sun
 # title_zh: 月之东，日之西

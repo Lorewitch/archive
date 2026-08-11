@@ -1,5 +1,6 @@
 # id: quest_wq_10095
 # story_group: world_quests
+# icon: assets/icons/stories/quests/firmament.webp
 # title_ru: Ад
 # title_en: Hell
 # title_zh: 地狱

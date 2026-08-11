@@ -1,5 +1,6 @@
 # id: quest_wq_10151
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Синяя тоска сердца и луны
 # title_en: Blue Longing of Heart and Moon
 # title_zh: 心与月蓝色的思念

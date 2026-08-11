@@ -1,5 +1,6 @@
 # id: quest_wq_72715
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мысли Канры
 # title_en: Kanra's Thoughts
 # title_zh: 甘乐的相思之意

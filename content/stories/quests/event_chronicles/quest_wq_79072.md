@@ -1,5 +1,6 @@
 # id: quest_wq_79072
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: «Летающая шляпа»
 # title_en: "Flying Hatter"
 # title_zh: 《飞帽匠》

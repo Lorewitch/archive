@@ -1,5 +1,6 @@
 # id: quest_wq_73350
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Воспоминания одного фонтейнца
 # title_en: Recollections of a Fontainian
 # title_zh: 一个枫丹人的回忆

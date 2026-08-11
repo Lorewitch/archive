@@ -1,5 +1,6 @@
 # id: quest_wq_73531
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Доложите о результатах эксперимента
 # title_en: Report the Experimental Data
 # title_zh: 汇报实验数据

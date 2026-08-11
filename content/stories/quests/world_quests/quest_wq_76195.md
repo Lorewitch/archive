@@ -1,5 +1,6 @@
 # id: quest_wq_76195
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Исследование минералов: Сосновый янтарь
 # title_en: Mineral Research: Pine Amber
 # title_zh: 矿物调查·松珀香

@@ -1,5 +1,6 @@
 # id: quest_wq_10252
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Предмет опровержения
 # title_en: Witch's Homework: Of What Is Contested
 # title_zh: 魔女的课业·辩驳之题

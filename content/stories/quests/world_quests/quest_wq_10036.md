@@ -1,5 +1,6 @@
 # id: quest_wq_10036
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Сказания из Татары
 # title_en: Tatara Tales
 # title_zh: 踏鞴物语

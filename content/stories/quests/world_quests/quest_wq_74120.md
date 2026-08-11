@@ -1,5 +1,6 @@
 # id: quest_wq_74120
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Последний вопрос
 # title_en: The Final Question
 # title_zh: 最后的问题

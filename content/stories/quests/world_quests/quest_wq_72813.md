@@ -1,5 +1,6 @@
 # id: quest_wq_72813
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Удобрений... продавец?
 # title_en: Fertilizer... Salesperson?
 # title_zh: 肥料…推销员？

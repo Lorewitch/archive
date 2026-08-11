@@ -1,5 +1,6 @@
 # id: quest_eq_10235
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/themeparksim.webp
 # title_ru: Пожелание счастливого пути
 # title_en: A Wish For Smooth Sailing
 # title_zh: 一帆风顺的美愿

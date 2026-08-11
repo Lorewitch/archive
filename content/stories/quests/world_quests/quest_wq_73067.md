@@ -1,5 +1,6 @@
 # id: quest_wq_73067
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Храбрость исходит из сердца
 # title_en: Courage Is in the Heart
 # title_zh: 勇气戴于心上

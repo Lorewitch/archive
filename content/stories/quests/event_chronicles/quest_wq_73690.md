@@ -1,5 +1,6 @@
 # id: quest_wq_73690
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Проектирование пути
 # title_en: Project Connectivity
 # title_zh: 通路计划

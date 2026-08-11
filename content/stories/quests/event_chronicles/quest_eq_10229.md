@@ -1,5 +1,6 @@
 # id: quest_eq_10229
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/tradeshow.webp
 # title_ru: Поручение Куратория тайн
 # title_en: A Commission From the Curatorium of Secrets
 # title_zh: 来自秘闻馆的委托

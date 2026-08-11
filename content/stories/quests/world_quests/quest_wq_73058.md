@@ -1,5 +1,6 @@
 # id: quest_wq_73058
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Запись Арагару
 # title_en: Aragaru's Drawing
 # title_zh: 兰迦鲁的涂鸦

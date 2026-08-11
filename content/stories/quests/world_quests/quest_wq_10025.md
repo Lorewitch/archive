@@ -1,5 +1,6 @@
 # id: quest_wq_10025
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Очищение Священной сакуры
 # title_en: Sacred Sakura Cleansing Ritual
 # title_zh: 神樱大祓

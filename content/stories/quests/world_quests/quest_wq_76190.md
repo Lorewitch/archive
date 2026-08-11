@@ -1,5 +1,6 @@
 # id: quest_wq_76190
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Исследование животных: Золотистый аксолотль
 # title_en: Animal Research: Golden Loaches
 # title_zh: 动物调查·金鳅鳅

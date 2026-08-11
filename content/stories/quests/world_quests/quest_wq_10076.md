@@ -1,5 +1,6 @@
 # id: quest_wq_10076
 # story_group: world_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Питомник грёз
 # title_en: Dream Nursery
 # title_zh: 梦中的苗圃

@@ -1,5 +1,6 @@
 # id: quest_wq_75510
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Испытания на свитке
 # title_en: A Scrollbound Skirmish
 # title_zh: 织卷上的挑战

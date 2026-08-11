@@ -1,5 +1,6 @@
 # id: quest_wq_73513
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Избавление от червей: Введение
 # title_en: The Culling of the Worms: Introduction
 # title_zh: 沙漠虫害·引论

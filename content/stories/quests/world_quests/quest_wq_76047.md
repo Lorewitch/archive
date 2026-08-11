@@ -1,5 +1,6 @@
 # id: quest_wq_76047
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ложь никогда не станет правдой
 # title_en: The Spurious Cannot Be Made Genuine
 # title_zh: 假的真不了

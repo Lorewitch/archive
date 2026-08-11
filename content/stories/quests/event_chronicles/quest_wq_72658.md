@@ -1,5 +1,6 @@
 # id: quest_wq_72658
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Цветущие мечты
 # title_en: Dreams of Bloom
 # title_zh: 梦里生花

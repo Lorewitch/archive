@@ -1,5 +1,6 @@
 # id: quest_eq_10224
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/mikawaflower.webp
 # title_ru: Будто поцелуй росы
 # title_en: As Though Kissed by Dew
 # title_zh: 如逢露水

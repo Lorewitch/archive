@@ -1,5 +1,6 @@
 # id: quest_wq_74695
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пророчество ведьмы: Указания надзирателя
 # title_en: Witch's Revelation: Warden's Instruction
 # title_zh: 魔女的谕示·监守之谕

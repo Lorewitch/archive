@@ -1,5 +1,6 @@
 # id: quest_wq_71055
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дары Разлома
 # title_en: The Chasm's Bounty
 # title_zh: 巨渊的馈赠

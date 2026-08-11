@@ -1,5 +1,6 @@
 # id: quest_wq_72674
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Восемь мест от гор до морей
 # title_en: Eight Locales Over Mountains and Seas
 # title_zh: 山海八所巡礼

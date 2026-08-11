@@ -1,5 +1,6 @@
 # id: quest_aq_1403
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: К сиянию звёзд в глубине
 # title_en: To the Stars Shining in the Depths
 # title_zh: 向深水中的晨星

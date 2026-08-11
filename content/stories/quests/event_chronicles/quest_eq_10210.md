@@ -1,5 +1,6 @@
 # id: quest_eq_10210
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/ceremony.webp
 # title_ru: Письмо Ночного Ветра
 # title_en: Night-Wind Letter
 # title_zh: 谜烟之信

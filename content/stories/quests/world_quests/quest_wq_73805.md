@@ -1,5 +1,6 @@
 # id: quest_wq_73805
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Всеядные гурманы: Наведение порядка
 # title_en: The Gourmet Supremos: Cleanup
 # title_zh: 全能美食队·收束

@@ -1,5 +1,6 @@
 # id: quest_eq_10249
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/lolifriends.webp
 # title_ru: Лесной кабан и маленькая ведьма
 # title_en: The Forest Boar and the Little Witch
 # title_zh: 野林猪与小魔女

@@ -1,5 +1,6 @@
 # id: quest_wq_40204
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Странные вопросы, которые наводят на размышления
 # title_en: Those Strange and Intriguing Questions
 # title_zh: 那些古怪又让人思索的问题

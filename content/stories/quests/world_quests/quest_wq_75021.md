@@ -1,5 +1,6 @@
 # id: quest_wq_75021
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пусть звезда исполнит желание
 # title_en: To Wish Upon a Star
 # title_zh: 向星星许愿

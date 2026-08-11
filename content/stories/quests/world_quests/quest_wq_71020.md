@@ -1,5 +1,6 @@
 # id: quest_wq_71020
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Срочная работа
 # title_en: Pressing Deadlines
 # title_zh: 工作迫近

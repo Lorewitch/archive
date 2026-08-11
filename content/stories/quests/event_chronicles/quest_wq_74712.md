@@ -1,5 +1,6 @@
 # id: quest_wq_74712
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Злые рыбки предупреждают!
 # title_en: A Warning From the Wrathful Fish!
 # title_zh: 暴躁鱼儿的警告！

@@ -1,5 +1,6 @@
 # id: quest_wq_74056
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Неоконченная история
 # title_en: Unfinished Story
 # title_zh: 尚未结束的故事

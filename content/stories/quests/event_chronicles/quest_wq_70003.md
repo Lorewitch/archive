@@ -1,5 +1,6 @@
 # id: quest_wq_70003
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Труднодоступные места
 # title_en: Those Hard-to-Reach Places
 # title_zh: 高处清理

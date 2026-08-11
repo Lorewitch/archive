@@ -1,5 +1,6 @@
 # id: quest_aq_1607
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Если однажды зимней ночью путешественник
 # title_en: A Traveler on a Winter's Night
 # title_zh: 如果在冬夜，一个旅人

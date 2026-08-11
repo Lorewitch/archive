@@ -1,5 +1,6 @@
 # id: quest_wq_1105
 # story_group: world_quests
+# icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Дайнслейф
 # title_en: Dainsleif
 # title_zh: 戴因斯雷布

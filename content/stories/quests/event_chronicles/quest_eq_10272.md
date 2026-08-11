@@ -1,5 +1,6 @@
 # id: quest_eq_10272
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/aquarium.webp
 # title_ru: Потерянное нами
 # title_en: Those We Have Lost
 # title_zh: 那些我们所失去的

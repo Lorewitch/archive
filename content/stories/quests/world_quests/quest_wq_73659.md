@@ -1,5 +1,6 @@
 # id: quest_wq_73659
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Яблоки для Яванани
 # title_en: Yavanani's Apples
 # title_zh: 雅瓦娜尼的苹果需求

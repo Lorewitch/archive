@@ -1,5 +1,6 @@
 # id: quest_wq_70143
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мёрзлая разведка
 # title_en: When the Trail Goes Cold
 # title_zh: 低温调查

@@ -1,5 +1,6 @@
 # id: quest_lq_2075
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/skirknew.webp
 # title_ru: Шёпот меж звёздами и тьмой
 # title_en: Whispers Betwixt Stars and Night
 # title_zh: 星与夜的低语

@@ -1,5 +1,6 @@
 # id: quest_wq_70540
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Незваный гость цвета пузырина!
 # title_en: Bulle Fruit-Hued Interloper!
 # title_zh: 泡泡桔色的不速之客！

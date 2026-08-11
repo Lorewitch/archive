@@ -1,5 +1,6 @@
 # id: quest_aq_1505
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Пламя становится единым
 # title_en: All Fires Fuel the Flame
 # title_zh: 万火归一

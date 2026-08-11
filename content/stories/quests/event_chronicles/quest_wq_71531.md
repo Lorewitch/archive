@@ -1,5 +1,6 @@
 # id: quest_wq_71531
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Размышления среди бумажных теней
 # title_en: Paper Shadow Ruminations
 # title_zh: 寻味纸影间

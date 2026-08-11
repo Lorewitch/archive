@@ -1,5 +1,6 @@
 # id: quest_wq_74036
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Некая печать
 # title_en: A Certain Stamp
 # title_zh: 一枚印章

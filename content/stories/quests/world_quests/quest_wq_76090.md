@@ -1,5 +1,6 @@
 # id: quest_wq_76090
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Грех обернётся против грешника
 # title_en: To Turn Each Sin Against the Sinner
 # title_zh: 以罪行惩戒罪人

@@ -1,5 +1,6 @@
 # id: quest_wq_72672
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сеть всевездесущности
 # title_en: Omni-Ubiquity Net
 # title_zh: 四方八方之网

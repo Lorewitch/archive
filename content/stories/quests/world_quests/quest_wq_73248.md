@@ -1,5 +1,6 @@
 # id: quest_wq_73248
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Выступление в лесу
 # title_en: Encounter in the Woods
 # title_zh: 林中小曲

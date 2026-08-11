@@ -1,5 +1,6 @@
 # id: quest_wq_73711
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Открывая мир вместе: Экскурсия по Фонтейну
 # title_en: Sightseeing With Friends: A Trip to Fontaine
 # title_zh: 灵蕈旅记：枫丹之行

@@ -1,5 +1,6 @@
 # id: quest_wq_73677
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тени в лесу
 # title_en: Secret Forest Shadow
 # title_zh: 林中秘影

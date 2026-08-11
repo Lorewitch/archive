@@ -1,5 +1,6 @@
 # id: quest_wq_10072
 # story_group: world_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Варуна-гата
 # title_en: Varuna Gatha
 # title_zh: 水天供书

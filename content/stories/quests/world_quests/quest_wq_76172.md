@@ -1,5 +1,6 @@
 # id: quest_wq_76172
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Особая лекция по изучению животных
 # title_en: Fauna Investigation Special Lecture
 # title_zh: 动物调查特别授课

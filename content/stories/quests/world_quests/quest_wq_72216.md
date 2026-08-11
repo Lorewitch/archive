@@ -1,5 +1,6 @@
 # id: quest_wq_72216
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Кошка Нэко: Запоздавшие добрые дела
 # title_en: Neko Is a Cat: A "Good Turn" Comes Late
 # title_zh: 寝子是只猫·迟来的「好事」

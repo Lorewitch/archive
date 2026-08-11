@@ -1,5 +1,6 @@
 # id: quest_wq_76000
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Приоритеты прежде всего
 # title_en: Priorities First
 # title_zh: 要事优先

@@ -1,5 +1,6 @@
 # id: quest_eq_10141
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/akafes.webp
 # title_ru: Приветствия и прощания
 # title_en: Gatherings and Partings
 # title_zh: 人聚人散

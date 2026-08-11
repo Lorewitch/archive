@@ -1,5 +1,6 @@
 # id: quest_wq_70123
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заблудший в снегах
 # title_en: Lost in the Snow
 # title_zh: 雪山迷踪

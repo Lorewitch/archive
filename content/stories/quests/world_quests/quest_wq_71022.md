@@ -1,5 +1,6 @@
 # id: quest_wq_71022
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Даже горы дрожат
 # title_en: No Restoring This Past Land of Beauty
 # title_zh: 恨繁囿兮作土

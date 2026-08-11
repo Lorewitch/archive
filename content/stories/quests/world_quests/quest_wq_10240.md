@@ -1,5 +1,6 @@
 # id: quest_wq_10240
 # story_group: world_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Дорога к пламенным вершинам
 # title_en: Path to the Flaming Peaks
 # title_zh: 朝向炎崖之路

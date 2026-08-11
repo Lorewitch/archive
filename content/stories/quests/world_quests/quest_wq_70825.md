@@ -1,5 +1,6 @@
 # id: quest_wq_70825
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Последствия катастрофы
 # title_en: In the Aftermath
 # title_zh: 善后工作

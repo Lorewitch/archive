@@ -1,5 +1,6 @@
 # id: quest_lq_2032
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/cyno.webp
 # title_ru: Утопая в песках
 # title_en: Sands of Solitude
 # title_zh: 沉沙归寂

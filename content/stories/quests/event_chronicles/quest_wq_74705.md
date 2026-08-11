@@ -1,5 +1,6 @@
 # id: quest_wq_74705
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мы... в аквариуме?
 # title_en: Us... In the Aquarium?
 # title_zh: 水族箱里的…我们？

@@ -1,5 +1,6 @@
 # id: quest_eq_10218
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Ли Юэ празднует, а Восемь Великих противостоят тайному бедствию
 # title_en: Liyue Celebrates and Eight Adepts Face a Hidden Calamity
 # title_zh: 璃月港佳节兴，八奇现瘴疠隐

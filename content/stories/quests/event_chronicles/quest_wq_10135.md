@@ -1,5 +1,6 @@
 # id: quest_wq_10135
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Три дня фантазий Дайи
 # title_en: Daiya's Three-Day Reverie
 # title_zh: 黛依阿的三日遐想

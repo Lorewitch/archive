@@ -1,5 +1,6 @@
 # id: quest_lq_2089
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/linnea.webp
 # title_ru: Назад к истокам!
 # title_en: Up! Toward Homecoming Wings
 # title_zh: 飞向归羽声

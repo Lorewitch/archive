@@ -1,5 +1,6 @@
 # id: quest_wq_70658
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Песнь ветров
 # title_en: Ballads of Breeze
 # title_zh: 风物之歌

@@ -1,5 +1,6 @@
 # id: quest_wq_10197
 # story_group: world_quests
+# icon: assets/icons/stories/quests/mooncanon.webp
 # title_ru: Первопроходцы
 # title_en: Pioneers
 # title_zh: 先驱

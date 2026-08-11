@@ -1,5 +1,6 @@
 # id: quest_wq_74532
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Популярное развлечение
 # title_en: Popular Entertainment
 # title_zh: 大众化的结局构想

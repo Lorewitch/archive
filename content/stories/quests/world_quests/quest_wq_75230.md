@@ -1,5 +1,6 @@
 # id: quest_wq_75230
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Последний выживший из Теночцитока
 # title_en: The Last Survivor of Tenochtzitoc
 # title_zh: 最后的特诺奇兹托克人

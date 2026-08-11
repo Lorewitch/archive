@@ -1,5 +1,6 @@
 # id: quest_wq_73517
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Избавление от червей: Выводы
 # title_en: The Culling of the Worms: Conclusion
 # title_zh: 沙漠虫害·结论

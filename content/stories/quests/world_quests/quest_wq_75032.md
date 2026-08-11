@@ -1,5 +1,6 @@
 # id: quest_wq_75032
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Завриан возвращается в гнездо
 # title_en: A Saurian Returns to the Nest
 # title_zh: 龙的归巢

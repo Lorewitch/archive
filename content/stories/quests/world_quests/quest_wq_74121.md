@@ -1,5 +1,6 @@
 # id: quest_wq_74121
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Умопомрачительный аромат!
 # title_en: Truly Mouthwatering!
 # title_zh: 真是让人垂涎欲滴！

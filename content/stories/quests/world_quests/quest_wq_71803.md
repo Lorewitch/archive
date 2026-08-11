@@ -1,5 +1,6 @@
 # id: quest_wq_71803
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Множество дел Гильдии искателей приключений
 # title_en: The Adventurers' Guild's Affairs
 # title_zh: 冒险家协会的诸多事宜

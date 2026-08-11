@@ -1,5 +1,6 @@
 # id: quest_wq_76043
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Беспорядки, вызванные кражей
 # title_en: The Disturbance Caused by Theft
 # title_zh: 货物失窃引发的骚乱

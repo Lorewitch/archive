@@ -1,5 +1,6 @@
 # id: quest_wq_76125
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пустой двор
 # title_en: The Empty Courtyard
 # title_zh: 无人的庭园

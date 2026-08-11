@@ -1,5 +1,6 @@
 # id: quest_lq_2018
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/hutao.webp
 # title_ru: И всё же бабочки улетают
 # title_en: Yet the Butterfly Flutters Away
 # title_zh: 奈何蝶飞去

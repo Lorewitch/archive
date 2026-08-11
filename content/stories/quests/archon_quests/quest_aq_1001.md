@@ -1,5 +1,6 @@
 # id: quest_aq_1001
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Чужеземец, поймавший ветер
 # title_en: The Outlander Who Caught the Wind
 # title_zh: 捕风的异乡人

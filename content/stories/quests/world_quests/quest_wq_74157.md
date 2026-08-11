@@ -1,5 +1,6 @@
 # id: quest_wq_74157
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Леруа: Прекрасные друзья
 # title_en: Leroy: Beautiful Friends
 # title_zh: 勒鲁瓦·漂亮朋友

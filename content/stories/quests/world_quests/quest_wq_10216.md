@@ -1,5 +1,6 @@
 # id: quest_wq_10216
 # story_group: world_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Дрожь «Тонатиу»
 # title_en: The Tonatiuh Quivers
 # title_zh: 天蛇颤动

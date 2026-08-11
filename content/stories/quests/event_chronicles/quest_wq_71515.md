@@ -1,5 +1,6 @@
 # id: quest_wq_71515
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вступительная беседа
 # title_en: A Few Words in the Foreground
 # title_zh: 幕前二三言

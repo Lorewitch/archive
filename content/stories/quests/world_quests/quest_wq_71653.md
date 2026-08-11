@@ -1,5 +1,6 @@
 # id: quest_wq_71653
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мы встретились вновь, печальный господин
 # title_en: We Meet Again, Mr. Melancholy
 # title_zh: 与忧郁先生的再会

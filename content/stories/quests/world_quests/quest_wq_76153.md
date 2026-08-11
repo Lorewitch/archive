@@ -1,5 +1,6 @@
 # id: quest_wq_76153
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мелкое поручение
 # title_en: Minor Commission
 # title_zh: 小委托

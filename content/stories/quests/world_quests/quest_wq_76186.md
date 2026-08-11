@@ -1,5 +1,6 @@
 # id: quest_wq_76186
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Скромная попытка
 # title_en: A Small Overture
 # title_zh: 小小的尝试

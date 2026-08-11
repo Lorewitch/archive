@@ -1,5 +1,6 @@
 # id: quest_wq_76077
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Человек, который однажды солгал
 # title_en: The Man Who Once Lied
 # title_zh: 曾许出谎言的人

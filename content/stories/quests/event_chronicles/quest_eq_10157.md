@@ -1,5 +1,6 @@
 # id: quest_eq_10157
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/rainbowprince.webp
 # title_ru: Догадка о водяном
 # title_en: Water Imp's Conjecture
 # title_zh: 水妖的猜想

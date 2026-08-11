@@ -1,5 +1,6 @@
 # id: quest_eq_10172
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/alchemysim.webp
 # title_ru: Чужеземные рынки
 # title_en: International Markets
 # title_zh: 远销各国

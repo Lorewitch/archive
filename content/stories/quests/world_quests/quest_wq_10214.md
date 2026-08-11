@@ -1,5 +1,6 @@
 # id: quest_wq_10214
 # story_group: world_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: От одного дела к другому
 # title_en: From One Case to Another
 # title_zh: 从一案到另一案

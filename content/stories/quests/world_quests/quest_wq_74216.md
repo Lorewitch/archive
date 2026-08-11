@@ -1,5 +1,6 @@
 # id: quest_wq_74216
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Запоздалое возвращение
 # title_en: Latecoming Homecoming
 # title_zh: 迟来的归乡

@@ -1,5 +1,6 @@
 # id: quest_wq_74684
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хроники поисков: Послесловие
 # title_en: Search Chronicle: Afterword
 # title_zh: 参寻战记·后日谈

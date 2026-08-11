@@ -1,5 +1,6 @@
 # id: quest_wq_72276
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Головоломка Бункоку
 # title_en: The Bunkoku Enigma
 # title_zh: 文谷疑云

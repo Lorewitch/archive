@@ -1,5 +1,6 @@
 # id: quest_wq_73654
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Персики зайтун для Песэна
 # title_en: Peseng's Zaytun Peaches
 # title_zh: 帕森的墩墩桃需求

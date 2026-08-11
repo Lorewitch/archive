@@ -1,5 +1,6 @@
 # id: quest_wq_71018
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Одинокий корабль в Гуюнь
 # title_en: A Lone Ship In Guyun
 # title_zh: 孤舰履孤云

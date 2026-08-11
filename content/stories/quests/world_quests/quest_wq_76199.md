@@ -1,5 +1,6 @@
 # id: quest_wq_76199
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Исследование растений: Инеевый цветок
 # title_en: Plant Research: Frostlamp Flowers
 # title_zh: 植物调查·霜盏花

@@ -1,5 +1,6 @@
 # id: quest_wq_2079
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Этот мир
 # title_en: Witch's Homework: Of This World
 # title_zh: 魔女的课业·此世之题

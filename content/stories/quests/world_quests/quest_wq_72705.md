@@ -1,5 +1,6 @@
 # id: quest_wq_72705
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный бродягами
 # title_en: Vagrant Havoc
 # title_zh: 浮浪人引起的混乱

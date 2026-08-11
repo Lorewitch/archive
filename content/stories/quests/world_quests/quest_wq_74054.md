@@ -1,5 +1,6 @@
 # id: quest_wq_74054
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: В поисках прошлого: Север
 # title_en: In Search of Lost Time: North
 # title_zh: 往事追迹·北

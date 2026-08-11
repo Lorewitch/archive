@@ -1,5 +1,6 @@
 # id: quest_wq_73801
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Цена
 # title_en: The Price
 # title_zh: 代价

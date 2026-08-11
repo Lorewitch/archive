@@ -1,5 +1,6 @@
 # id: quest_eq_10250
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/lolifriends.webp
 # title_ru: Если забудешь путь в мир грёз
 # title_en: If You Should Forget the Entrance to Dreams
 # title_zh: 若你遗忘梦的入口

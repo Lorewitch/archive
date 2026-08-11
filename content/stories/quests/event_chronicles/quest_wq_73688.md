@@ -1,5 +1,6 @@
 # id: quest_wq_73688
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Воинский дух
 # title_en: Warrior's Spirit
 # title_zh: 演武传心

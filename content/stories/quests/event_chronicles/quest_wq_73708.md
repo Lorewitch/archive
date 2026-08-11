@@ -1,5 +1,6 @@
 # id: quest_wq_73708
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Встреча с друзьями-плесенниками!
 # title_en: Reunite, My Shroom Buddies!
 # title_zh: 重逢，蕈兽伙伴！

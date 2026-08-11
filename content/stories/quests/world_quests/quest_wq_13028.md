@@ -1,5 +1,6 @@
 # id: quest_wq_13028
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вдруг где-то есть и другой дом
 # title_en: Another Home There May Yet Be
 # title_zh: 若还有另一个家

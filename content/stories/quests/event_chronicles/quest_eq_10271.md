@@ -1,5 +1,6 @@
 # id: quest_eq_10271
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/aquarium.webp
 # title_ru: Если мы встретимся снова
 # title_en: Should We Meet Again
 # title_zh: 若我们再次相见

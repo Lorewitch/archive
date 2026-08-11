@@ -1,5 +1,6 @@
 # id: quest_lq_2047
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/arlecchino.webp
 # title_ru: Когда затухает огонь очага
 # title_en: When the Hearth-Flame Goes Out
 # title_zh: 炉火熄灭之际

@@ -1,5 +1,6 @@
 # id: quest_wq_73658
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Цветы для Куроша
 # title_en: Kourosh's Sumeru Roses
 # title_zh: 库洛什的鲜花需求

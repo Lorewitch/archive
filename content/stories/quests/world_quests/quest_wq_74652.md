@@ -1,5 +1,6 @@
 # id: quest_wq_74652
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Масло для Мюрн
 # title_en: Muirne's Better Butter
 # title_zh: 缪妮的黄油需求

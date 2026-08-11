@@ -1,5 +1,6 @@
 # id: quest_wq_72123
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лечение для Сакуры
 # title_en: Sakura Arborism
 # title_zh: 医樱

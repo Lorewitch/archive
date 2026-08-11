@@ -1,5 +1,6 @@
 # id: quest_wq_73348
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Наставление Пурбируни
 # title_en: Purbiruni's Commandment
 # title_zh: 普尔比鲁尼之诫

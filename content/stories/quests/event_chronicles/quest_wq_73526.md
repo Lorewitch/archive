@@ -1,5 +1,6 @@
 # id: quest_wq_73526
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Королева Фантастических Игрушек и Ревущая лисичка
 # title_en: The Phantom Toy Master and the Barking Fox
 # title_zh: 「幻之玩具王」和「吼吼小狐」

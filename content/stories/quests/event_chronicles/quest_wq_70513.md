@@ -1,5 +1,6 @@
 # id: quest_wq_70513
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Справедливый финал
 # title_en: All's Well That Ends Well
 # title_zh: 恰如其分的收场

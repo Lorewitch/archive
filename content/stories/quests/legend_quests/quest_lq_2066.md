@@ -1,5 +1,6 @@
 # id: quest_lq_2066
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_shamansaurus.webp
 # title_ru: Правда о Битве семи цветов
 # title_en: The Truth of the Battle of Seven Colors
 # title_zh: 七彩之战的真相

@@ -1,5 +1,6 @@
 # id: quest_wq_70802
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Снежный силуэт: Надежда
 # title_en: Snowy Silhouette: Hope
 # title_zh: 白皑谜影·希望

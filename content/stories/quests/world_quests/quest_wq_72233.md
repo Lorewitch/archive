@@ -1,5 +1,6 @@
 # id: quest_wq_72233
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Стоячая вода
 # title_en: The Still Water's Flow
 # title_zh: 止水之潘

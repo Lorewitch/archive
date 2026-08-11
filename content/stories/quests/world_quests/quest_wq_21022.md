@@ -1,5 +1,6 @@
 # id: quest_wq_21022
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Непостоянство сокровищ
 # title_en: Treasure Lost, Treasure Found
 # title_zh: 宝藏归离

@@ -1,5 +1,6 @@
 # id: quest_lq_2004
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/lisa.webp
 # title_ru: Рутинная работа
 # title_en: Troublesome Work
 # title_zh: 麻烦的工作

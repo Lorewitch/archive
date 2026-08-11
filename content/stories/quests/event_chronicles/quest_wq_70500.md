@@ -1,5 +1,6 @@
 # id: quest_wq_70500
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Курс машинной кулинарии III
 # title_en: Contraption-Contrived Cooking Course: Part III
 # title_zh: 机关烹饪之法·之三

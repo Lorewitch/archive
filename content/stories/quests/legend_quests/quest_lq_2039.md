@@ -1,5 +1,6 @@
 # id: quest_lq_2039
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/nahida.webp
 # title_ru: Возвращение домой
 # title_en: Homecoming
 # title_zh: 归乡

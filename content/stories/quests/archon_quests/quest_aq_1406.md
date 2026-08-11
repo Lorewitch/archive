@@ -1,5 +1,6 @@
 # id: quest_aq_1406
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Сказка на ночь
 # title_en: Bedtime Story
 # title_zh: 睡前故事

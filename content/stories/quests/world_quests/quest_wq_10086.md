@@ -1,5 +1,6 @@
 # id: quest_wq_10086
 # story_group: world_quests
+# icon: assets/icons/stories/quests/firmament.webp
 # title_ru: Волшебная гора
 # title_en: Magic Mountain
 # title_zh: 魔山

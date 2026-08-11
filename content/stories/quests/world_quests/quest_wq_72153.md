@@ -1,5 +1,6 @@
 # id: quest_wq_72153
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: На чужой стороне
 # title_en: In Another Land
 # title_zh: 在他乡

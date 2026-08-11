@@ -1,5 +1,6 @@
 # id: quest_wq_79003
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Из внешних земель
 # title_en: From Outer Lands
 # title_zh: 自外而来

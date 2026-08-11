@@ -1,5 +1,6 @@
 # id: quest_wq_10125
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Монументальное исследование
 # title_en: Monumental Study
 # title_zh: 碑铭的研究

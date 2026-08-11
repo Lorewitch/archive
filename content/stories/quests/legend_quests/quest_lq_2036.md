@@ -1,5 +1,6 @@
 # id: quest_lq_2036
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/dehya.webp
 # title_ru: Львиная кровь
 # title_en: Lionsblood
 # title_zh: 「狮之血」

@@ -1,5 +1,6 @@
 # id: quest_wq_73510
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: «Щедрый» бюджет
 # title_en: An Abundant Estimation
 # title_zh: 「丰厚」的预算

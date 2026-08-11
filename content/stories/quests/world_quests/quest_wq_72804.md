@@ -1,5 +1,6 @@
 # id: quest_wq_72804
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Борьба за искупление
 # title_en: Battle of Revenge
 # title_zh: 洗刷耻辱的一战

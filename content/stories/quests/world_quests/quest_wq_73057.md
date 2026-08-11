@@ -1,5 +1,6 @@
 # id: quest_wq_73057
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Старый друг Аранакина
 # title_en: Aranakin's Old Friend
 # title_zh: 兰纳真的老友

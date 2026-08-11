@@ -1,5 +1,6 @@
 # id: quest_eq_10116
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/journey.webp
 # title_ru: Кульминация! Разноголосье радостных грёз
 # title_en: Culminate! Chatter of Joyous Dreams
 # title_zh: 幕收！欢谈如梦

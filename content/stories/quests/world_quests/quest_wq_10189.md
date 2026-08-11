@@ -1,5 +1,6 @@
 # id: quest_wq_10189
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Вопрос без заголовка
 # title_en: Witch's Homework: The Untitled Question
 # title_zh: 魔女的课业·无题之题

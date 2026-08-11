@@ -1,5 +1,6 @@
 # id: quest_wq_71669
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Наши друзья-животные: Эпилог
 # title_en: Our Animal Friends: Epilogue
 # title_zh: 我们的动物朋友·尾声

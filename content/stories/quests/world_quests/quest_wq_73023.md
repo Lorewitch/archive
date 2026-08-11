@@ -1,5 +1,6 @@
 # id: quest_wq_73023
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Короткая встреча с редкой птицей
 # title_en: A Short Encounter with a Rare Bird
 # title_zh: 与珍稀之鸟的短暂邂逅

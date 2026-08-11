@@ -1,5 +1,6 @@
 # id: quest_wq_72151
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Одинокий обитатель моря
 # title_en: Solitary Sea-Beast
 # title_zh: 孤独的海兽

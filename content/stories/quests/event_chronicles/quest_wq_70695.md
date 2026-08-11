@@ -1,5 +1,6 @@
 # id: quest_wq_70695
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Привет от Ордо Фавониус
 # title_en: Greetings From the Knights of Favonius
 # title_zh: 来自骑士团的慰问

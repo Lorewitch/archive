@@ -1,5 +1,6 @@
 # id: quest_wq_72809
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путь Рито
 # title_en: The Ritou Road
 # title_zh: 离岛之路

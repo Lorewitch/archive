@@ -1,5 +1,6 @@
 # id: quest_wq_74511
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Жандарм-изобретатель
 # title_en: The Gardes' Inventor
 # title_zh: 警备队的发明家

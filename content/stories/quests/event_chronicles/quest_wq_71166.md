@@ -1,5 +1,6 @@
 # id: quest_wq_71166
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Счастливые встречи
 # title_en: Good Fortune Shared
 # title_zh: 吉事共赏

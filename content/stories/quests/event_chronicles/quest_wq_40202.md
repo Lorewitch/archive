@@ -1,5 +1,6 @@
 # id: quest_wq_40202
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тайное расследование, грязные финансовые махинации
 # title_en: Covert Investigation, Dirty Money Misdeeds
 # title_zh: 隐行谛勘，秽金之罪

@@ -1,5 +1,6 @@
 # id: quest_wq_71650
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Задания Департамента по делам граждан
 # title_en: Ministry Missions
 # title_zh: 「总务司」的事务

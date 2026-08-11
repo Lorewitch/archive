@@ -1,5 +1,6 @@
 # id: quest_wq_76142
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Эхо павших героев
 # title_en: Reverberation of Heroic Spirits
 # title_zh: 英灵的残响

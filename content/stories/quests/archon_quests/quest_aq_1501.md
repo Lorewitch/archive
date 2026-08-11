@@ -1,5 +1,6 @@
 # id: quest_aq_1501
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Чёрный камень, погребённый под белым
 # title_en: Black Stone Under a White Stone
 # title_zh: 黑石湮落白石下

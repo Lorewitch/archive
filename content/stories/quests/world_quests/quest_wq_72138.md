@@ -1,5 +1,6 @@
 # id: quest_wq_72138
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лечение на острове
 # title_en: Treatment on the Island
 # title_zh: 孤岛诊疗谭

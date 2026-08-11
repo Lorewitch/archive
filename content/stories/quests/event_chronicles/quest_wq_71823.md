@@ -1,5 +1,6 @@
 # id: quest_wq_71823
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: На страже деревни
 # title_en: Guardians of the Countryside
 # title_zh: 守乡人

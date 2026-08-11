@@ -1,5 +1,6 @@
 # id: quest_wq_71707
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Продукты для улыбчивого Янь Сяо
 # title_en: Smiley's Selections
 # title_zh: 言笑的食材需求

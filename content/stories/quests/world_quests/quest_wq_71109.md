@@ -1,5 +1,6 @@
 # id: quest_wq_71109
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Скрытая долина, тайный герой
 # title_en: Shrouded Vale, Hidden Hero
 # title_zh: 秘谷侠隐

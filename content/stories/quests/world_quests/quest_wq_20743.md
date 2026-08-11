@@ -1,5 +1,6 @@
 # id: quest_wq_20743
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Проблема с ветром
 # title_en: Windrise, Windfall
 # title_zh: 风起风息

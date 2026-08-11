@@ -1,5 +1,6 @@
 # id: quest_wq_71829
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Блюдо за пределами человеческих познаний
 # title_en: A Dish Beyond Mortal Ken
 # title_zh: 此菜不应人间有

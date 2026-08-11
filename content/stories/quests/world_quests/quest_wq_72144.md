@@ -1,5 +1,6 @@
 # id: quest_wq_72144
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дозор Хироми
 # title_en: Hiromi's Watch
 # title_zh: 广海的守望

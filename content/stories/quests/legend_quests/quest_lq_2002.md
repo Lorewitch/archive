@@ -1,5 +1,6 @@
 # id: quest_lq_2002
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/diluc.webp
 # title_ru: Алиби Полуночного героя
 # title_en: Darknight Hero's Alibi
 # title_zh: 暗夜英雄的不在场证明

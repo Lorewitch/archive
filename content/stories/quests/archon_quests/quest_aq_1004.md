@@ -1,5 +1,6 @@
 # id: quest_aq_1004
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Паралогизм
 # title_en: Paralogism
 # title_zh: 悖理

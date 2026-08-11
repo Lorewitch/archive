@@ -1,5 +1,6 @@
 # id: quest_lq_2028
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/ayato.webp
 # title_ru: С дерева утун падает лист
 # title_en: The Firmiana Leaf Falls
 # title_zh: 梧桐一叶落

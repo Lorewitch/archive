@@ -1,5 +1,6 @@
 # id: quest_wq_71539
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Персональный подарочный конверт №7
 # title_en: Custom Gift Envelope No. 7
 # title_zh: 如意祝柬·之七

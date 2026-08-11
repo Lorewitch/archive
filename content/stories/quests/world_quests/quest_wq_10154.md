@@ -1,5 +1,6 @@
 # id: quest_wq_10154
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Пробуждение от великого сна
 # title_en: Waking From the Great Dream
 # title_zh: 大梦的醒转

@@ -1,5 +1,6 @@
 # id: quest_eq_10103
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fungusfighter.webp
 # title_ru: Невообразимая защита
 # title_en: Unfathomable Defenses
 # title_zh: 难以揣测的心理防线

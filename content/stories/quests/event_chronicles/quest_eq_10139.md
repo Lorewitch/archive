@@ -1,5 +1,6 @@
 # id: quest_eq_10139
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/akafes.webp
 # title_ru: И тут, и там
 # title_en: Comings and Goings
 # title_zh: 蝶去蝶来

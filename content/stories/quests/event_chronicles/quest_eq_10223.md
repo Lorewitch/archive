@@ -1,5 +1,6 @@
 # id: quest_eq_10223
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/mikawaflower.webp
 # title_ru: Будто среди молний
 # title_en: As Though Surrounded by Thunder
 # title_zh: 如伴雷电

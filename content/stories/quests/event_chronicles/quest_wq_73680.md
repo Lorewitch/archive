@@ -1,5 +1,6 @@
 # id: quest_wq_73680
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Бочонок изобилия
 # title_en: Fecund Hamper
 # title_zh: 丰饶之箱

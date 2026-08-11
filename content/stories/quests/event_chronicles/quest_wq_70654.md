@@ -1,5 +1,6 @@
 # id: quest_wq_70654
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тысячи цветов на ветру
 # title_en: Floral Freefall
 # title_zh: 风中万花

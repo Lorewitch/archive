@@ -1,5 +1,6 @@
 # id: quest_wq_72800
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Всеядные гурманы: кулинарное приключение
 # title_en: The Gourmet Supremos: On the Road
 # title_zh: 全能美食队·寻食之旅

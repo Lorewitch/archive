@@ -1,5 +1,6 @@
 # id: quest_wq_76222
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Повторное приглашение на чай: Нефер
 # title_en: Tea Party Re-Invitation: Nefer
 # title_zh: 茶会的再邀·奈芙尔

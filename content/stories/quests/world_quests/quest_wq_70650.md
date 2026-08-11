@@ -1,5 +1,6 @@
 # id: quest_wq_70650
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мондштадтский рыцарь
 # title_en: Knight of the Realm
 # title_zh: 蒙德城的骑士

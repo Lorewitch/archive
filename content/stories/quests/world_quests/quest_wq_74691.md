@@ -1,5 +1,6 @@
 # id: quest_wq_74691
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Случайные пророчества
 # title_en: Revelations by Chance
 # title_zh: 偶发的谕示

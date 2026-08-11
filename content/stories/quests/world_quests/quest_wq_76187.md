@@ -1,5 +1,6 @@
 # id: quest_wq_76187
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Чай или пузырин?
 # title_en: Tea or Bulle Fruit?
 # title_zh: 茶叶还是泡泡桔？

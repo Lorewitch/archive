@@ -1,5 +1,6 @@
 # id: quest_lq_2029
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/yelan.webp
 # title_ru: Расчётливый гамбит
 # title_en: Calculated Gambit
 # title_zh: 棋生断处

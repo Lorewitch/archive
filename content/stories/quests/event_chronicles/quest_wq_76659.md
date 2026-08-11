@@ -1,5 +1,6 @@
 # id: quest_wq_76659
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Неписанные правила
 # title_en: Unwritten Rules
 # title_zh: 暗处的规则

@@ -1,5 +1,6 @@
 # id: quest_wq_10126
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Бледное пламя
 # title_en: Pale Fire
 # title_zh: 微暗之火

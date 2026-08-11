@@ -1,5 +1,6 @@
 # id: quest_wq_75509
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Смешение стилей
 # title_en: A Style-Fusion Symposium
 # title_zh: 风格融合的思考

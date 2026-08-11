@@ -1,5 +1,6 @@
 # id: quest_wq_76655
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Солнце взойдёт снова
 # title_en: The Sun Rises Once More
 # title_zh: 太阳照常升起

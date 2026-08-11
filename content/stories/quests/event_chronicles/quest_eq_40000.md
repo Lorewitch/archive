@@ -1,5 +1,6 @@
 # id: quest_eq_40000
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ли Юэ: Театр Механикус
 # title_en: Liyue: Theater Mechanicus
 # title_zh: 璃月·机关棋谭

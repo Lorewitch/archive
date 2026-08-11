@@ -1,5 +1,6 @@
 # id: quest_wq_70078
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ветры у подножия Башни безмолвия
 # title_en: Winds Beneath the Tower of Silence
 # title_zh: 寂静之塔下的风向

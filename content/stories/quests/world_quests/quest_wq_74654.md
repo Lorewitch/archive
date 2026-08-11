@@ -1,5 +1,6 @@
 # id: quest_wq_74654
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Белое железо для Прюньера
 # title_en: Pruniere's White Iron Impetration
 # title_zh: 普吕尼埃的白铁块需求

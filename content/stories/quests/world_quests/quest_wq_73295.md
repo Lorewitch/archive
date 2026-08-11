@@ -1,5 +1,6 @@
 # id: quest_wq_73295
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Художник в свободном плавании
 # title_en: An Artist Adrift
 # title_zh: 画家漂流记

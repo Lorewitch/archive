@@ -1,5 +1,6 @@
 # id: quest_lq_2023
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/shougun.webp
 # title_ru: Размышления о бренности
 # title_en: Reflections of Mortality
 # title_zh: 影照浮世风流

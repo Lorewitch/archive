@@ -1,5 +1,6 @@
 # id: quest_wq_41130
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Осада Цинцэ
 # title_en: The Siege of Qingce
 # title_zh: 轻策之围

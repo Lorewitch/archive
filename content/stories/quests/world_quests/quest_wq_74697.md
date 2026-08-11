@@ -1,5 +1,6 @@
 # id: quest_wq_74697
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пророчество ведьмы: Указания вне снов
 # title_en: Witch's Revelation: Instruction Beyond Dreams
 # title_zh: 魔女的谕示·梦外之谕

@@ -1,5 +1,6 @@
 # id: quest_eq_10119
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/penumbraadventure.webp
 # title_ru: История о сне и начале!
 # title_en: Dreams and First Encounters!
 # title_zh: 梦与最初的故事！

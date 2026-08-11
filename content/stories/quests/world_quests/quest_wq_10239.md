@@ -1,5 +1,6 @@
 # id: quest_wq_10239
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Роль наставника?..
 # title_en: Witch's Homework: The Role of a Guide...?
 # title_zh: 魔女的课业·导引之职…？

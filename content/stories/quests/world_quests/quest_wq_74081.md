@@ -1,5 +1,6 @@
 # id: quest_wq_74081
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Коварный свет из глубин
 # title_en: Treacherous Light of the Depths
 # title_zh: 海渊封缠的乖离光

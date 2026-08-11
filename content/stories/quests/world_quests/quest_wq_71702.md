@@ -1,5 +1,6 @@
 # id: quest_wq_71702
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лекарства для травника Гуя
 # title_en: Herbalist's Forage
 # title_zh: 阿桂的药材需求

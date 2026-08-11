@@ -1,5 +1,6 @@
 # id: quest_wq_70106
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ах, свежее мясо!
 # title_en: Ah, Fresh Meat!
 # title_zh: 啊，新鲜的肉！

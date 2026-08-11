@@ -1,5 +1,6 @@
 # id: quest_wq_74700
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Элегантность? Безопасность превыше всего!
 # title_en: Elegance? Safety First!
 # title_zh: 优雅？安全第一！

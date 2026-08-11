@@ -1,5 +1,6 @@
 # id: quest_wq_10201
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Опрос мелюзины и ответ машины II
 # title_en: Questioning Melusine and Answering Machine: Act II
 # title_zh: 问题美露莘与答案机器人 第二幕

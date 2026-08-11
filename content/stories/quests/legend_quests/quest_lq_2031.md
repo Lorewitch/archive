@@ -1,5 +1,6 @@
 # id: quest_lq_2031
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/kazuha.webp
 # title_ru: Странная безлюдная дорога
 # title_en: A Strange and Friendless Road
 # title_zh: 陌野不识故人

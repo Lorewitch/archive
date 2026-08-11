@@ -1,5 +1,6 @@
 # id: quest_lq_2011
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/xiao.webp
 # title_ru: Сон бабочки
 # title_en: Butterfly's Dream
 # title_zh: 槐柯胡蝶，傩佑之梦

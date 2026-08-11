@@ -1,5 +1,6 @@
 # id: quest_wq_10073
 # story_group: world_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Встреча в лесу
 # title_en: Woodland Encounter
 # title_zh: 林中奇遇

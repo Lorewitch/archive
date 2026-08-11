@@ -1,5 +1,6 @@
 # id: quest_lq_2049
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/cyno.webp
 # title_ru: Хранитель клятв
 # title_en: Oathkeeper
 # title_zh: 守诺者

@@ -1,5 +1,6 @@
 # id: quest_wq_70697
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сюрприз от любительницы комиксов
 # title_en: A Surprise From a Fellow Comics Fan
 # title_zh: 来自漫画同好的惊喜

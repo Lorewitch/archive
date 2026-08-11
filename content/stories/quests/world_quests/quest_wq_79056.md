@@ -1,5 +1,6 @@
 # id: quest_wq_79056
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Приключения в подземелье
 # title_en: Domain Adventures
 # title_zh: 秘境冒险的征途

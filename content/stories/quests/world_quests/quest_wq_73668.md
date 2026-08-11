@@ -1,5 +1,6 @@
 # id: quest_wq_73668
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный хиличурлами
 # title_en: Hilichurl Hullaballoo
 # title_zh: 丘丘人引起的混乱

@@ -1,5 +1,6 @@
 # id: quest_eq_10227
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/natlandrill.webp
 # title_ru: Заклинание единства
 # title_en: Spell of Unity
 # title_zh: 团结的魔法

@@ -1,5 +1,6 @@
 # id: quest_eq_10105
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fungusfighter.webp
 # title_ru: Прощайте, друзья-плесенники
 # title_en: Farewell, My Shroom Buddies
 # title_zh: 再见，蕈兽伙伴！

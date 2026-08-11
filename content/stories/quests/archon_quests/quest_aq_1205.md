@@ -1,5 +1,6 @@
 # id: quest_aq_1205
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/qunyuge.webp
 # title_ru: Ветер дует - журавли возвращаются
 # title_en: The Crane Returns on the Wind
 # title_zh: 风起鹤归

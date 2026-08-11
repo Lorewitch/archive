@@ -1,5 +1,6 @@
 # id: quest_wq_70824
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Генеральная уборка на винокурне
 # title_en: Cleanup At Dawn
 # title_zh: 酒庄大扫除

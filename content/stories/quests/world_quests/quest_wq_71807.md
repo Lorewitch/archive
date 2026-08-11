@@ -1,5 +1,6 @@
 # id: quest_wq_71807
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Чан Чан и её спутник
 # title_en: Changchang's Little Friend
 # title_zh: 畅畅和她的小伙伴

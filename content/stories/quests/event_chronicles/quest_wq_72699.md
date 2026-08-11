@@ -1,5 +1,6 @@
 # id: quest_wq_72699
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Бой с Ясухико Таро
 # title_en: Versus Yasuhiko Tarou
 # title_zh: 与安彦太郎之战

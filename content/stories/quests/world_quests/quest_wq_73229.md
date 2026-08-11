@@ -1,5 +1,6 @@
 # id: quest_wq_73229
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дерево и сны
 # title_en: Trees and Dreams
 # title_zh: 梦境与树

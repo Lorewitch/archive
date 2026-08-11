@@ -1,5 +1,6 @@
 # id: quest_wq_73694
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Археологические раскопки
 # title_en: Antiquity Hunt
 # title_zh: 究古考察

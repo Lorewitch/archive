@@ -1,5 +1,6 @@
 # id: quest_wq_76684
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Перья и снаряды
 # title_en: Flower, Feathers, and Bullets
 # title_zh: 花羽伴弹头

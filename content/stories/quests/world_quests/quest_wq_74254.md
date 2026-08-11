@@ -1,5 +1,6 @@
 # id: quest_wq_74254
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вальс Нарцисса
 # title_en: Narcissus's Waltz
 # title_zh: 水仙的圆舞曲

@@ -1,5 +1,6 @@
 # id: quest_wq_72682
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хякунин икки: Золотое торнадо
 # title_en: Hyakunin Ikki: Golden Whirlwind
 # title_zh: 「百人一揆·黄金旋风」

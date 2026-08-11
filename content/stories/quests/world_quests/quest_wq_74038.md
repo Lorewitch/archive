@@ -1,5 +1,6 @@
 # id: quest_wq_74038
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Эхо древнего мира
 # title_en: Echoes of the Ancient World
 # title_zh: 旧世遗音

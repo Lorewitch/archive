@@ -1,5 +1,6 @@
 # id: quest_wq_75197
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Клык разложения
 # title_en: The Festering Fang
 # title_zh: 腐殖之牙

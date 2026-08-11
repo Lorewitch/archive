@@ -1,5 +1,6 @@
 # id: quest_aq_1308
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Кариберт
 # title_en: Caribert
 # title_zh: 卡利贝尔

@@ -1,5 +1,6 @@
 # id: quest_wq_74657
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Соль для Галатеи
 # title_en: Galathee's Salt Solicitation
 # title_zh: 伽拉蒂雅的盐需求

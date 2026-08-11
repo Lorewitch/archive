@@ -1,5 +1,6 @@
 # id: quest_wq_73352
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мчащийся экипаж
 # title_en: Rocking Carriage
 # title_zh: 花车摇曳

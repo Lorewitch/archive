@@ -1,5 +1,6 @@
 # id: quest_wq_72702
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный кайраги
 # title_en: Kairagi Chaos
 # title_zh: 海乱鬼引起的混乱

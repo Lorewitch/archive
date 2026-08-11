@@ -1,5 +1,6 @@
 # id: quest_wq_70684
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ветрам свободы
 # title_en: To the Winds of Freedom
 # title_zh: 致自由之风

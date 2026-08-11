@@ -1,5 +1,6 @@
 # id: quest_eq_10212
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/ceremony.webp
 # title_ru: Дух Ах К'ульбатиль
 # title_en: The Spirit of Ah K'ulbatil
 # title_zh: 阿库乌波蒂尔之灵

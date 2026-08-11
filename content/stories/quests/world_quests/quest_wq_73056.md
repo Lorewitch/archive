@@ -1,5 +1,6 @@
 # id: quest_wq_73056
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Воспоминания Аранаги
 # title_en: Aranaga's Memory
 # title_zh: 兰纳迦的回忆

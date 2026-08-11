@@ -1,5 +1,6 @@
 # id: quest_wq_71008
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Маленькая игра
 # title_en: A Little Game
 # title_zh: 游戏一场

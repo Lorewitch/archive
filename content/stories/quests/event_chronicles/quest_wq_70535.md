@@ -1,5 +1,6 @@
 # id: quest_wq_70535
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Таинственные рыбины? Бомбические приключения!
 # title_en: Mysterious Fish? A Booming Adventure!
 # title_zh: 神秘鱼鱼？轰轰奇遇！

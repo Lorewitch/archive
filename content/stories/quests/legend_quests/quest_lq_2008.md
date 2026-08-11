@@ -1,5 +1,6 @@
 # id: quest_lq_2008
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/xingqiu.webp
 # title_ru: Мечник, который любит читать
 # title_en: Bookworm Swordsman
 # title_zh: 江湖不问出处

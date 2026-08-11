@@ -1,5 +1,6 @@
 # id: quest_wq_74257
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Повторное приглашение на чай: Дом очага
 # title_en: Tea Party Re-Invitation: House of the Hearth
 # title_zh: 茶会的再邀·壁炉之家

@@ -1,5 +1,6 @@
 # id: quest_wq_72238
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Проблеск в Белой ночи
 # title_en: A Glimpse Into the Pale Night
 # title_zh: 窥见白夜

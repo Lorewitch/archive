@@ -1,5 +1,6 @@
 # id: quest_wq_10147
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Дикая фея Эриния
 # title_en: The Wild Fairy of Erinnyes
 # title_zh: 伊黎耶的野精灵

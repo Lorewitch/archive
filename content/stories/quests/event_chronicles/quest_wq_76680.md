@@ -1,5 +1,6 @@
 # id: quest_wq_76680
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Опорный пункт: Легион по охране припасов
 # title_en: Stronghold Guard: Hoard Guard Unit!
 # title_zh: 据点守卫·大门军团！

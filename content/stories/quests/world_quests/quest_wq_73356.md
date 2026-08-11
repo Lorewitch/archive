@@ -1,5 +1,6 @@
 # id: quest_wq_73356
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Встреча «кукол»
 # title_en: A Meeting of "Puppets"
 # title_zh: 「人偶」的相会

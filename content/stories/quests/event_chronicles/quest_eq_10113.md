@@ -1,5 +1,6 @@
 # id: quest_eq_10113
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/journey.webp
 # title_ru: Дуэль начинается! Первые подозрения
 # title_en: Commence! A Suspect Genesis
 # title_zh: 局开！疑云陡生

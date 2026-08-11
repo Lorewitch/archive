@@ -1,5 +1,6 @@
 # id: quest_wq_73516
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Избавление от червей: Доказательство
 # title_en: The Culling of the Worms: Demonstration
 # title_zh: 沙漠虫害·实证

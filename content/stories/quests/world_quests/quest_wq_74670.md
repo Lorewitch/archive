@@ -1,5 +1,6 @@
 # id: quest_wq_74670
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Полуавтоматическая ковка
 # title_en: Semi-Automatic Forging
 # title_zh: 半自动锤锻

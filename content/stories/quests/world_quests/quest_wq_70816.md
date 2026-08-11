@@ -1,5 +1,6 @@
 # id: quest_wq_70816
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Одиночное приключение
 # title_en: Solo Venture
 # title_zh: 孤身犯险

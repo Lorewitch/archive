@@ -1,5 +1,6 @@
 # id: quest_wq_76184
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Как прежде
 # title_en: Just Like Old Times
 # title_zh: 一如往日

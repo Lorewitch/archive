@@ -1,5 +1,6 @@
 # id: quest_wq_73691
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Собрание звёзд
 # title_en: Gathering of Stars
 # title_zh: 明星聚画

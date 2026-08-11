@@ -1,5 +1,6 @@
 # id: quest_wq_72719
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заказ руды от Ята Коки
 # title_en: Yata Kouki's Order of Ore
 # title_zh: 矢田幸喜的白铁块需求

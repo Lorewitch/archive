@@ -1,5 +1,6 @@
 # id: quest_wq_71011
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Следы в долине Тяньцю
 # title_en: Trails in Tianqiu
 # title_zh: 循仙踪兮天遒

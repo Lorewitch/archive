@@ -1,5 +1,6 @@
 # id: quest_wq_74713
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Под водой что-то не так?
 # title_en: Something's Wrong With the Water
 # title_zh: 水域状况不太妙？

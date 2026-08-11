@@ -1,5 +1,6 @@
 # id: quest_wq_75670
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вместе с заврианами
 # title_en: Saurian Sojourn
 # title_zh: 龙龙同游

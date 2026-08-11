@@ -1,5 +1,6 @@
 # id: quest_lq_2030
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/tighnari.webp
 # title_ru: Вопросы без ответов
 # title_en: The Unanswerable Problems
 # title_zh: 没有答案的课题

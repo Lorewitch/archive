@@ -1,5 +1,6 @@
 # id: quest_wq_73353
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Переплетение снов и реальности
 # title_en: Mapping Dreams and Reality
 # title_zh: 梦与现实的映射

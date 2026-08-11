@@ -1,5 +1,6 @@
 # id: quest_lq_2003
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/ambor.webp
 # title_ru: Ветер, храбрость и крылья
 # title_en: Wind, Courage, and Wings
 # title_zh: 风、勇气和翅膀

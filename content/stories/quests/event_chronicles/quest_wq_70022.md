@@ -1,5 +1,6 @@
 # id: quest_wq_70022
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дорогой хиличурлов
 # title_en: Hilichurl Justice
 # title_zh: 替丘丘行道！

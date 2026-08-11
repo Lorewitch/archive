@@ -1,5 +1,6 @@
 # id: quest_lq_2009
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/klee.webp
 # title_ru: Настоящее сокровище
 # title_en: True Treasure
 # title_zh: 真正的宝物

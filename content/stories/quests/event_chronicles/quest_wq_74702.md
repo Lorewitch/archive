@@ -1,5 +1,6 @@
 # id: quest_wq_74702
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Океанариум открывается!
 # title_en: Fisharium Open For Business!
 # title_zh: 水族馆？开业！

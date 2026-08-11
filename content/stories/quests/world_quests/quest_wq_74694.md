@@ -1,5 +1,6 @@
 # id: quest_wq_74694
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пророчество ведьмы: Указания путешествий
 # title_en: Witch's Revelation: Voyaging Instruction
 # title_zh: 魔女的谕示·舶来之谕

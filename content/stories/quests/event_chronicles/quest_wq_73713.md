@@ -1,5 +1,6 @@
 # id: quest_wq_73713
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Открывая мир вместе: Подводное веселье
 # title_en: Sightseeing With Friends: Underwater Fun
 # title_zh: 灵蕈旅记：水下趣览

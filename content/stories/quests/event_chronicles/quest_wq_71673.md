@@ -1,5 +1,6 @@
 # id: quest_wq_71673
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Кисть вдохновения
 # title_en: Vigorous Brushstrokes
 # title_zh: 笔腾墨跃

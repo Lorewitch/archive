@@ -1,5 +1,6 @@
 # id: quest_wq_71820
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: И снова «Ваншу»
 # title_en: Wangshu Once Again
 # title_zh: 再访望舒

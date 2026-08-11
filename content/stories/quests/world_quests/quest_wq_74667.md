@@ -1,5 +1,6 @@
 # id: quest_wq_74667
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Новые горизонты приключений
 # title_en: Another Horizon of Adventure
 # title_zh: 冒险就要朝着远方

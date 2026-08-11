@@ -1,5 +1,6 @@
 # id: quest_lq_2010
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/mona.webp
 # title_ru: Что говорят звёзды этого мира
 # title_en: Beyond This World's Stars
 # title_zh: 在此世的星空之外

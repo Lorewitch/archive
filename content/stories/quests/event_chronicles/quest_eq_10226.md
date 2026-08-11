@@ -1,5 +1,6 @@
 # id: quest_eq_10226
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/natlandrill.webp
 # title_ru: Медицина, рождённая из чувства вины
 # title_en: Medicine Born of Guilt
 # title_zh: 因愧疚而生的医术

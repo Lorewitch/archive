@@ -1,5 +1,6 @@
 # id: quest_wq_70010
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Праздники и искатели приключений
 # title_en: Adventurers in Windblume
 # title_zh: 风花节与冒险家

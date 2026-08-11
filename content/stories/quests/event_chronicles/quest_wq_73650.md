@@ -1,5 +1,6 @@
 # id: quest_wq_73650
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тема для исследования: Он не пройдёт
 # title_en: Thesis Proposal: He Shall not Pass
 # title_zh: 无止境的开题报告

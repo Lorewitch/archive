@@ -1,5 +1,6 @@
 # id: quest_wq_79035
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Подарок бакэ-дануки
 # title_en: The Bake-Danukis' Gift
 # title_zh: 妖狸的赠礼

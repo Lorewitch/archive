@@ -1,5 +1,6 @@
 # id: quest_wq_75675
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Магия вкуса без лишних забот!
 # title_en: A Lighthearted Feast of Magic!
 # title_zh: 不留负担的美味魔法！

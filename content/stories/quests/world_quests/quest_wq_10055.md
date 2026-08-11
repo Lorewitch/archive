@@ -1,5 +1,6 @@
 # id: quest_wq_10055
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: От заката до рассвета в Бякуякоку
 # title_en: From Dusk to Dawn in Byakuyakoku
 # title_zh: 白夜国晨昏记

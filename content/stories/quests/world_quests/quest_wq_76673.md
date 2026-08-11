@@ -1,5 +1,6 @@
 # id: quest_wq_76673
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хижина ведьмы
 # title_en: Witch's Lodge
 # title_zh: 魔女的小屋

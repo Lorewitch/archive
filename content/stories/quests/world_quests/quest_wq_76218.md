@@ -1,5 +1,6 @@
 # id: quest_wq_76218
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Приглашение от леди
 # title_en: A Lady's Invitation
 # title_zh: 淑女之邀

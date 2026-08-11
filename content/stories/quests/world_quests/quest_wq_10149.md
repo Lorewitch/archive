@@ -1,5 +1,6 @@
 # id: quest_wq_10149
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: «Если она больше не мечтает о тебе...»
 # title_en: "If She No Longer Dreams of You..."
 # title_zh: 「假如她不再梦到你…」

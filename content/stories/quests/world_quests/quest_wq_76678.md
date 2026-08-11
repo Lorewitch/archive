@@ -1,5 +1,6 @@
 # id: quest_wq_76678
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вечность, подобная луне
 # title_en: Everlasting as the Moon
 # title_zh: 如月之恒

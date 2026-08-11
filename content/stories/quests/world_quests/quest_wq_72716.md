@@ -1,5 +1,6 @@
 # id: quest_wq_72716
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Здоровая диета Кано Наны
 # title_en: Kano Nana's Healthy Diet
 # title_zh: 鹿野奈奈的健康饮食计划

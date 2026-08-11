@@ -1,5 +1,6 @@
 # id: quest_wq_76681
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Происхождение последовательности
 # title_en: Origin of the Sequence
 # title_zh: 序列之始

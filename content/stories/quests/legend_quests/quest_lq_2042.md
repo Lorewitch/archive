@@ -1,5 +1,6 @@
 # id: quest_lq_2042
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/wriothesley.webp
 # title_ru: Возрождение в землях ропота
 # title_en: Reborn in the Land of Grievances
 # title_zh: 于怨嗟之地重生

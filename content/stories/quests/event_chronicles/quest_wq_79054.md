@@ -1,5 +1,6 @@
 # id: quest_wq_79054
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Память о звёздной ночи
 # title_en: A Starry Night, as Remembered
 # title_zh: 如留旧时的星影

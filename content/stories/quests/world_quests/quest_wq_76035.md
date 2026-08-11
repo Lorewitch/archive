@@ -1,5 +1,6 @@
 # id: quest_wq_76035
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Её прошлое
 # title_en: Her Past
 # title_zh: 她的过去

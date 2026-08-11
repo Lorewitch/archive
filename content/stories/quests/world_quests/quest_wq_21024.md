@@ -1,5 +1,6 @@
 # id: quest_wq_21024
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Крупная сделка
 # title_en: Big Business
 # title_zh: 大生意

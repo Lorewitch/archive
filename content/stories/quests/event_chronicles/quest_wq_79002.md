@@ -1,5 +1,6 @@
 # id: quest_wq_79002
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Кого слушается дикий ветер?
 # title_en: Who Wields the Wild Wind?
 # title_zh: 狂风，听谁号令

@@ -1,5 +1,6 @@
 # id: quest_wq_40215
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Таинственный договор подряда
 # title_en: A Mysterious Outsourced Contract
 # title_zh: 外包的保密事项

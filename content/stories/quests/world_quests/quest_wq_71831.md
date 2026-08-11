@@ -1,5 +1,6 @@
 # id: quest_wq_71831
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дела загробные: Возвращение в горы
 # title_en: Hereafter: Return to the Mountains
 # title_zh: 身后事·归于山中

@@ -1,5 +1,6 @@
 # id: quest_wq_71033
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Стихи и картины Праздника морских фонарей II
 # title_en: Verses and Vistas of Lantern Rite (Part II)
 # title_zh: 海灯节的诗与画之二

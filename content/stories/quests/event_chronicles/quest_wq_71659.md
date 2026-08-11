@@ -1,5 +1,6 @@
 # id: quest_wq_71659
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Эликсир и зелье
 # title_en: Elixirs and Potions
 # title_zh: 丹剂与魔药

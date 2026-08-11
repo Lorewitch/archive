@@ -1,5 +1,6 @@
 # id: quest_wq_72801
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Международные путевые заметки
 # title_en: International Travel Log
 # title_zh: 诸国游记

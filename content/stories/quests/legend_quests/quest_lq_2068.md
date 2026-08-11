@@ -1,5 +1,6 @@
 # id: quest_lq_2068
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/durin.webp
 # title_ru: Магия повествования
 # title_en: The Magic Known as Storytelling
 # title_zh: 名为故事的魔法

@@ -1,5 +1,6 @@
 # id: quest_wq_10079
 # story_group: world_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Питомник утраченных грёз
 # title_en: Nursery of Lost Dreams
 # title_zh: 失梦的苗圃

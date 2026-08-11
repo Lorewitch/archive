@@ -1,5 +1,6 @@
 # id: quest_eq_10021
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fleurfair.webp
 # title_ru: Ода цветам и облакам
 # title_en: Ode to Flower and Cloud
 # title_zh: 花与云之诗

@@ -1,5 +1,6 @@
 # id: quest_wq_72209
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Кошка Нэко: Деревянная стойка
 # title_en: Neko Is a Cat: Wooden Shelf
 # title_zh: 寝子是只猫·木头架

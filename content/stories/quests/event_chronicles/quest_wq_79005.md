@@ -1,5 +1,6 @@
 # id: quest_wq_79005
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путешествие сквозь туман и ветер
 # title_en: A Trip Through Fog and Wind
 # title_zh: 雾与风的旅行

@@ -1,5 +1,6 @@
 # id: quest_wq_10083
 # story_group: world_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Агнихотра-сутра
 # title_en: Agnihotra Sutra
 # title_zh: 正法炬书

@@ -1,5 +1,6 @@
 # id: quest_eq_10007
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/aster.webp
 # title_ru: Кризис усугубляется
 # title_en: The Crisis Deepens
 # title_zh: 蔓延的危机

@@ -1,5 +1,6 @@
 # id: quest_wq_73044
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Спасите аранара
 # title_en: Rescue the Aranara
 # title_zh: 解救兰那罗

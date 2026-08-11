@@ -1,5 +1,6 @@
 # id: quest_wq_74018
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Негодяи
 # title_en: Villains
 # title_zh: 坏蛋们

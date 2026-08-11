@@ -1,5 +1,6 @@
 # id: quest_wq_73500
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Отвергнутая игрушка
 # title_en: The Unappreciated Carving
 # title_zh: 被嫌弃的木刻

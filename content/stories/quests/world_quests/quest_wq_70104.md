@@ -1,5 +1,6 @@
 # id: quest_wq_70104
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Исследование снежной горы
 # title_en: The Great Mountain Survey
 # title_zh: 雪山大勘测

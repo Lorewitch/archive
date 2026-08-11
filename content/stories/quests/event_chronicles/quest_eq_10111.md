@@ -1,5 +1,6 @@
 # id: quest_eq_10111
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/brickbreaker.webp
 # title_ru: Истории о привидениях
 # title_en: Haunted Tales
 # title_zh: 妖雾重重

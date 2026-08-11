@@ -1,5 +1,6 @@
 # id: quest_wq_79021
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Морские сокровища
 # title_en: Treasure Voyage
 # title_zh: 寻物航行

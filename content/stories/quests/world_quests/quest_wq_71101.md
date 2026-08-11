@@ -1,5 +1,6 @@
 # id: quest_wq_71101
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ход времён под сенью веера
 # title_en: The Tales Behind the Fan
 # title_zh: 扇底春秋

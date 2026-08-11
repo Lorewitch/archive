@@ -1,5 +1,6 @@
 # id: quest_aq_1206
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Реквием гулких глубин
 # title_en: Requiem of the Echoing Depths
 # title_zh: 回响渊底的安魂曲

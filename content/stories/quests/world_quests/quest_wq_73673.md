@@ -1,5 +1,6 @@
 # id: quest_wq_73673
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Набор в Бригаду тридцати
 # title_en: Corps of Thirty Recruitment
 # title_zh: 「三十人团」的招募

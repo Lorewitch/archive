@@ -1,5 +1,6 @@
 # id: quest_eq_10267
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sumeruadventuretraining.webp
 # title_ru: К пескам
 # title_en: Headlong Into the Sands
 # title_zh: 向沙中去

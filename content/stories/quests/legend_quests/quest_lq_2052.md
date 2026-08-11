@@ -1,5 +1,6 @@
 # id: quest_lq_2052
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_hookwalker.webp
 # title_ru: Таинственный гость из Уитцтлана
 # title_en: A Mysterious Visitor From Huitztlan
 # title_zh: 维茨特兰的神秘访客

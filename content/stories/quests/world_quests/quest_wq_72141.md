@@ -1,5 +1,6 @@
 # id: quest_wq_72141
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Зловещая инструкция
 # title_en: Sinister Instruction
 # title_zh: 险恶的教喻

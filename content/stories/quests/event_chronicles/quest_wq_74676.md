@@ -1,5 +1,6 @@
 # id: quest_wq_74676
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Воображаемый лабиринт для настоящих героев
 # title_en: Imaginary Maze of True Heroes
 # title_zh: 拟想！强者与迷宫！

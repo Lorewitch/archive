@@ -1,5 +1,6 @@
 # id: quest_wq_74800
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: В Кур-де-Фонтейне опасность поджидает на каждом шагу
 # title_en: Danger Lurks Everywhere in Fontaine
 # title_zh: 危机四伏的枫丹廷

@@ -1,5 +1,6 @@
 # id: quest_wq_76141
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Окно в мир
 # title_en: A Window Into the World
 # title_zh: 眺望世界之窗

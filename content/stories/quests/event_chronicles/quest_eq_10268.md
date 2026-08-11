@@ -1,5 +1,6 @@
 # id: quest_eq_10268
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: В Заоблачном пределе
 # title_en: The Realm of Clouds
 # title_zh: 在云间

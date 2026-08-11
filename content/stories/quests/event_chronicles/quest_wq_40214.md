@@ -1,5 +1,6 @@
 # id: quest_wq_40214
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Горести искателя приключений
 # title_en: An Adventurer's Woes
 # title_zh: 冒险家的烦恼

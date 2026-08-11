@@ -1,5 +1,6 @@
 # id: quest_lq_2019
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/eula.webp
 # title_ru: Волны больше не возвратятся в море
 # title_en: The Spindrift Shall Never Return to the Sea
 # title_zh: 浪花不再归海

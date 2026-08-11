@@ -1,5 +1,6 @@
 # id: quest_wq_72163
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Память Сэйрая
 # title_en: Reminiscence of Seirai
 # title_zh: 清籁旧忆

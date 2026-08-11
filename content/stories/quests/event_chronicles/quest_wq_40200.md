@@ -1,5 +1,6 @@
 # id: quest_wq_40200
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мгновенное опьянение, встреча при лунном свете
 # title_en: An Instant of Intoxication, A Meeting by Moonlight
 # title_zh: 余醺一瞬，月境之约

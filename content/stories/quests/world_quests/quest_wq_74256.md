@@ -1,5 +1,6 @@
 # id: quest_wq_74256
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Повторное приглашение на чай: Фурина
 # title_en: Tea Party Re-Invitation: Furina
 # title_zh: 茶会的再邀·芙宁娜

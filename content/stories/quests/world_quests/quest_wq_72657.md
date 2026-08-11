@@ -1,5 +1,6 @@
 # id: quest_wq_72657
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Поручение комиссии Ясиро
 # title_en: The Commission's Commission
 # title_zh: 社奉行的委任

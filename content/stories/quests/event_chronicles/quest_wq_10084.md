@@ -1,5 +1,6 @@
 # id: quest_wq_10084
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Разрозненное прошлое
 # title_en: The Scattered Past
 # title_zh: 溯及以往

@@ -1,5 +1,6 @@
 # id: quest_wq_41401
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Любопытная фотокамера
 # title_en: Kurious Kamera
 # title_zh: 特别留影

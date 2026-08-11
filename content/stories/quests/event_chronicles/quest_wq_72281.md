@@ -1,5 +1,6 @@
 # id: quest_wq_72281
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Друзья по переписке, обсуждение книг и невероятно везучий генерал
 # title_en: Pen Pals, Book Reviews, and the Super Lucky General
 # title_zh: 笔友、小说鉴赏会与超幸运的大将

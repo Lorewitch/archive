@@ -1,5 +1,6 @@
 # id: quest_eq_10190
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/greatfestivalv2.webp
 # title_ru: Необыкновенный тур «Многоцветье»
 # title_en: This Ain't Your Daddy's Iridescence Tour...
 # title_zh: 不是普通的虹色巡回

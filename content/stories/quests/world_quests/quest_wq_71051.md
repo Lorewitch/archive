@@ -1,5 +1,6 @@
 # id: quest_wq_71051
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Гидрологическое исследование Разлома
 # title_en: Hydrological Investigation in The Chasm
 # title_zh: 水生环境调查

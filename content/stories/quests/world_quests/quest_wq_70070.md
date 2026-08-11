@@ -1,5 +1,6 @@
 # id: quest_wq_70070
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Неожиданное поручение: Эпилог
 # title_en: Unexpected Commission: Epilogue
 # title_zh: 意料之外的委托·尾声

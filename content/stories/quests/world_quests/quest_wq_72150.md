@@ -1,5 +1,6 @@
 # id: quest_wq_72150
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Чудесное растение глубин
 # title_en: Divine Plant of the Depths
 # title_zh: 海渊仙草灵验记

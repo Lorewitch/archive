@@ -1,5 +1,6 @@
 # id: quest_wq_72664
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Куча дел в Лунную охоту
 # title_en: The Many Matters of the Moonchase Festival
 # title_zh: 逐月节的诸多事宜

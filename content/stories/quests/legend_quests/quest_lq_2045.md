@@ -1,5 +1,6 @@
 # id: quest_lq_2045
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/liuyun.webp
 # title_ru: Тысяча лунных миль
 # title_en: A Thousand Moonlit Miles
 # title_zh: 千里月明

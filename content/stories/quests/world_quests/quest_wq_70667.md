@@ -1,5 +1,6 @@
 # id: quest_wq_70667
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Испытание возвышения II
 # title_en: Ascension Challenge II
 # title_zh: 牌手等级突破·二

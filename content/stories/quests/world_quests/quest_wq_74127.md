@@ -1,5 +1,6 @@
 # id: quest_wq_74127
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Письмо
 # title_en: A Letter
 # title_zh: 一份信函

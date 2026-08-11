@@ -1,5 +1,6 @@
 # id: quest_wq_72655
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Встреча с далёким эхо
 # title_en: Facing Distant Echoes
 # title_zh: 直面悠远的回响

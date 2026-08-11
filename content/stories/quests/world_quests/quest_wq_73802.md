@@ -1,5 +1,6 @@
 # id: quest_wq_73802
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Приключения требуют мужества!
 # title_en: Adventure Takes Courage!
 # title_zh: 冒险就要大步向前

@@ -1,5 +1,6 @@
 # id: quest_wq_71821
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Где угасают огни
 # title_en: Where the Light Wanes
 # title_zh: 灯火阑珊处

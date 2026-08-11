@@ -1,5 +1,6 @@
 # id: quest_wq_79041
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Круговорот тысячи чудес
 # title_en: Returning Curios
 # title_zh: 千奇澴回

@@ -1,5 +1,6 @@
 # id: quest_wq_75233
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сияй же, айдол Пипильпан!
 # title_en: Shine On, Pipilpan Idol!
 # title_zh: 闪耀！皮皮潘偶像大赛！

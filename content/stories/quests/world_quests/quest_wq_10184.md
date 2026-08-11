@@ -1,5 +1,6 @@
 # id: quest_wq_10184
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Дворец морского повелителя
 # title_en: In the Hall of the Sea King
 # title_zh: 海魔王的宫殿

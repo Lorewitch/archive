@@ -1,5 +1,6 @@
 # id: quest_wq_73712
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Открывая мир вместе: Возвращение в Сумеру
 # title_en: Sightseeing With Friends: Back to Sumeru
 # title_zh: 灵蕈旅记：须弥重游

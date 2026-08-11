@@ -1,5 +1,6 @@
 # id: quest_wq_20602
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Не упусти!
 # title_en: Not to be Missed
 # title_zh: 机不可失

@@ -1,5 +1,6 @@
 # id: quest_wq_74142
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Погоня
 # title_en: Pursuit
 # title_zh: 追寻

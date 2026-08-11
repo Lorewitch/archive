@@ -1,5 +1,6 @@
 # id: quest_eq_10114
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/journey.webp
 # title_ru: Бросок дайсов! Новые знакомства
 # title_en: Roll! A Sea of New Acquaintances
 # title_zh: 骰落！新朋满座

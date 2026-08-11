@@ -1,5 +1,6 @@
 # id: quest_lq_2041
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/neuvillette.webp
 # title_ru: Раны прошлого
 # title_en: The Remains of the Past Day
 # title_zh: 往日留痕

@@ -1,5 +1,6 @@
 # id: quest_wq_71663
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Гости с запада
 # title_en: A Visitor From Westward Realms
 # title_zh: 西域来客

@@ -1,5 +1,6 @@
 # id: quest_eq_10040
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/onmyomaze.webp
 # title_ru: Долой ложь
 # title_en: Away With Obsessions and Falsehood
 # title_zh: 痴念虚错拂袖去

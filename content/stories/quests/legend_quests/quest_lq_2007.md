@@ -1,5 +1,6 @@
 # id: quest_lq_2007
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/xiangling.webp
 # title_ru: Кулинарный тур по Мондштадту
 # title_en: Mondstadt Gastronomy Trip
 # title_zh: 蒙德食遇之旅

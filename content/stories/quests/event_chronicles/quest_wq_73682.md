@@ -1,5 +1,6 @@
 # id: quest_wq_73682
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пример для подражания!
 # title_en: Exemplary Adventurer!
 # title_zh: 榜样冒险家！

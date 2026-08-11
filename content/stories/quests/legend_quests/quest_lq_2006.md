@@ -1,5 +1,6 @@
 # id: quest_lq_2006
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/qin.webp
 # title_ru: У магистра выходной
 # title_en: Master's Day Off
 # title_zh: 骑士团长的一日假期

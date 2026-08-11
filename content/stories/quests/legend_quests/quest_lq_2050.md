@@ -1,5 +1,6 @@
 # id: quest_lq_2050
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/clorinde.webp
 # title_ru: Ночь безмолвна
 # title_en: Silent Night
 # title_zh: 夜色无声

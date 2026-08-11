@@ -1,5 +1,6 @@
 # id: quest_wq_74658
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сырое мясо для Этьена
 # title_en: Etienne's Raw Meat Request
 # title_zh: 安托万的兽肉需求

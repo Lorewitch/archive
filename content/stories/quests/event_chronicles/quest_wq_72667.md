@@ -1,5 +1,6 @@
 # id: quest_wq_72667
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пополнение запаса наживки
 # title_en: Bait Resupply Plan
 # title_zh: 鱼饵补充计划

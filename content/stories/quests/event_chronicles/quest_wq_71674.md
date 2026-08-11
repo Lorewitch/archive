@@ -1,5 +1,6 @@
 # id: quest_wq_71674
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дары судьбы
 # title_en: Wishes Contended, Fortunes Won
 # title_zh: 如意斗彩

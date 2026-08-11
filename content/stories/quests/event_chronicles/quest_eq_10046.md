@@ -1,5 +1,6 @@
 # id: quest_eq_10046
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/wintercamp.webp
 # title_ru: Тени сгущаются
 # title_en: The Shadows Deepen
 # title_zh: 暗影重重

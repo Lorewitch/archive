@@ -1,5 +1,6 @@
 # id: quest_wq_21023
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Временные меры
 # title_en: A Provisional Arrangement
 # title_zh: 暂行之策

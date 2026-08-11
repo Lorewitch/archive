@@ -1,5 +1,6 @@
 # id: quest_wq_70530
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ветреные снимки
 # title_en: Breezy Snapshots
 # title_zh: 风物留影

@@ -1,5 +1,6 @@
 # id: quest_lq_2069
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/mizuki.webp
 # title_ru: Меланхолия поедательницы снов
 # title_en: Dream Eater's Melancholia
 # title_zh: 食梦者的忧郁

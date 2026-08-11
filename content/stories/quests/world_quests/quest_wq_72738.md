@@ -1,5 +1,6 @@
 # id: quest_wq_72738
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Истории путешествий: Предначертание судьбы
 # title_en: Travelers' Tales: Destiny Drawn
 # title_zh: 游逸旅闻·相缘绘愿

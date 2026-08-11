@@ -1,5 +1,6 @@
 # id: quest_wq_76085
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тост в лунном свете
 # title_en: A Toast Beneath the Moon
 # title_zh: 月下小酌

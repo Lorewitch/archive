@@ -1,5 +1,6 @@
 # id: quest_lq_2005
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/razor.webp
 # title_ru: Что значит Лупикал?
 # title_en: The Meaning of Lupical
 # title_zh: 卢皮卡的意义

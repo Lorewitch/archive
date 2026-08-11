@@ -1,5 +1,6 @@
 # id: quest_wq_70517
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Неразгаданная тайна?
 # title_en: Any Unsolved Mysteries?
 # title_zh: 残留的谜团？

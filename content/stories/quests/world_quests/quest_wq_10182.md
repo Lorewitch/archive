@@ -1,5 +1,6 @@
 # id: quest_wq_10182
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: В кандалах
 # title_en: Prisoner in Shackles
 # title_zh: 被缚的囚徒

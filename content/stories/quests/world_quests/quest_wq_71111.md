@@ -1,5 +1,6 @@
 # id: quest_wq_71111
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заоблачный и Перчик
 # title_en: Chili Con Cloudy
 # title_zh: 云云椒椒

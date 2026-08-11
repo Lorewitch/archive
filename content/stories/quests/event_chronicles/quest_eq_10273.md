@@ -1,5 +1,6 @@
 # id: quest_eq_10273
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/aquarium.webp
 # title_ru: Сохранённое нами
 # title_en: Those We Have Kept
 # title_zh: 那些我们所留驻的

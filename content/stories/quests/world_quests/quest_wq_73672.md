@@ -1,5 +1,6 @@
 # id: quest_wq_73672
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный плесенниками
 # title_en: Fungal Fracas
 # title_zh: 蕈兽引起的混乱

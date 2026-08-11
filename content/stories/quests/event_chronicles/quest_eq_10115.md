@@ -1,5 +1,6 @@
 # id: quest_eq_10115
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/journey.webp
 # title_ru: Карты на стол! Прощание с обидами
 # title_en: Cards Out! Grievances Begone
 # title_zh: 牌出！旧怨弭散

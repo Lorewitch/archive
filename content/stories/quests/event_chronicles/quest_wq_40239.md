@@ -1,5 +1,6 @@
 # id: quest_wq_40239
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Возвращайтесь домой, дети пустыни
 # title_en: Return Home, Children of the Desert
 # title_zh: 返乡吧，来自沙漠的孩子们

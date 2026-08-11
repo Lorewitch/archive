@@ -1,5 +1,6 @@
 # id: quest_wq_71811
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Улыбочку
 # title_en: Snapshots
 # title_zh: 暂留此影

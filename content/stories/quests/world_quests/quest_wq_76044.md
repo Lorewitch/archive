@@ -1,5 +1,6 @@
 # id: quest_wq_76044
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пропавшая цель заказа
 # title_en: The Vanishing Bounty Target
 # title_zh: 销声匿迹的悬赏对象

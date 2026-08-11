@@ -1,5 +1,6 @@
 # id: quest_wq_71817
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сумасшедшая кухня Янь Сяо
 # title_en: Yanxiao's Crazy Kitchen
 # title_zh: 言笑的喧闹厨房

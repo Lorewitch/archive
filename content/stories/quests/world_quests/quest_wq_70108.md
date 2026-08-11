@@ -1,5 +1,6 @@
 # id: quest_wq_70108
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Повторное исследование снежной горы
 # title_en: The Great Mountain Survey II
 # title_zh: 雪山再勘测

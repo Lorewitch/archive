@@ -1,5 +1,6 @@
 # id: quest_wq_70681
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Зов мистических боевых искусств
 # title_en: The Call of Mystical Martial Arts
 # title_zh: 神秘武学的召唤

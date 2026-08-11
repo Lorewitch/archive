@@ -1,5 +1,6 @@
 # id: quest_wq_2077
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Тест на проницательность
 # title_en: Witch's Homework: Of Untested Insight
 # title_zh: 魔女的课业·干慧之题

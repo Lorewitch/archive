@@ -1,5 +1,6 @@
 # id: quest_eq_10062
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/snowrace.webp
 # title_ru: Вперёд! Вперёд! Фиетена!
 # title_en: Go, Fietena, Go!
 # title_zh: 冲！冲！菲耶蒂娜！

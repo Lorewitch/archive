@@ -1,5 +1,6 @@
 # id: quest_wq_71818
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Фонарь в подарок
 # title_en: The Gift of a Lantern
 # title_zh: 此灯寄何人

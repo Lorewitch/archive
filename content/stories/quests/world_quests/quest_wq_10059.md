@@ -1,5 +1,6 @@
 # id: quest_wq_10059
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Тайна Эреб
 # title_en: Erebos' Secret
 # title_zh: 厄瑞玻斯的秘密

@@ -1,5 +1,6 @@
 # id: quest_wq_72728
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: «Акицу Югэй»
 # title_en: Akitsu Yuugei
 # title_zh: 秋津游艺

@@ -1,5 +1,6 @@
 # id: quest_wq_75672
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Яркие краски!
 # title_en: Don't Let the Colors Escape!
 # title_zh: 斑斓色彩不许逃！

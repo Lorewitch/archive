@@ -1,5 +1,6 @@
 # id: quest_wq_73656
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Фрукты харра для Хусеина
 # title_en: Housein's Harra Fruits
 # title_zh: 侯赛因的香辛果需求

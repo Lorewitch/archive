@@ -1,5 +1,6 @@
 # id: quest_wq_72695
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хороши у нас игрушки: Запас энергии
 # title_en: A-Toymaking We Shall Go: Energy Storage
 # title_zh: 进军玩具市场·能源储备

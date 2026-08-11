@@ -1,5 +1,6 @@
 # id: quest_lq_2074
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/escoffier.webp
 # title_ru: Сокровище из сокровищ
 # title_en: Treasured Above All
 # title_zh: 珍上至珍

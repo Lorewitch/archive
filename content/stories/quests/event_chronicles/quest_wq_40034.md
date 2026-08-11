@@ -1,5 +1,6 @@
 # id: quest_wq_40034
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дело Бантан Санго: Признание
 # title_en: Bantan Sango Case File: Recognition
 # title_zh: 万端珊瑚事件簿·它的认可

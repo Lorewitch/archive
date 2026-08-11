@@ -1,5 +1,6 @@
 # id: quest_wq_73676
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Великая звезда будущего
 # title_en: Great Future Star
 # title_zh: 大未来星

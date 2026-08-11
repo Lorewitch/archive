@@ -1,5 +1,6 @@
 # id: quest_aq_1602
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Возвращение домой
 # title_en: The Journey Home
 # title_zh: 归途

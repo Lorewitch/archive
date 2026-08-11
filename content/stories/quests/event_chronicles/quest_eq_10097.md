@@ -1,5 +1,6 @@
 # id: quest_eq_10097
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/vintage.webp
 # title_ru: Весть, прилетевшая издалека
 # title_en: Sounds From Afar
 # title_zh: 自远方吹来的音讯

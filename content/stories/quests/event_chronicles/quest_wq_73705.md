@@ -1,5 +1,6 @@
 # id: quest_wq_73705
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Центр полевых исследований, только вперёд!
 # title_en: Fieldwise Mastery, Unyielding Progress!
 # title_zh: 稳健知行，完备冲刺！

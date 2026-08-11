@@ -1,5 +1,6 @@
 # id: quest_eq_10140
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/akafes.webp
 # title_ru: Начало и конец
 # title_en: Beginnings and Endings
 # title_zh: 沙起沙落

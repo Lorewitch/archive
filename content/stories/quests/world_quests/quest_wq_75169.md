@@ -1,5 +1,6 @@
 # id: quest_wq_75169
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путь внутрь горы
 # title_en: The Way Into the Mountain
 # title_zh: 觐山之路

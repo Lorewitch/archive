@@ -1,5 +1,6 @@
 # id: quest_wq_74661
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный бронекрабами
 # title_en: Crabby Chaos
 # title_zh: 重甲蟹引起的混乱

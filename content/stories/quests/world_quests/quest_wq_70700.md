@@ -1,5 +1,6 @@
 # id: quest_wq_70700
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Особый чай для Хелен
 # title_en: Helen's Special Blend
 # title_zh: 海伦的特效润喉茶

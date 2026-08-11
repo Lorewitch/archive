@@ -1,5 +1,6 @@
 # id: quest_wq_73678
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Беглецы с фермы
 # title_en: Farmland Fugitives
 # title_zh: 农园逸犯

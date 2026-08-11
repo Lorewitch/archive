@@ -1,5 +1,6 @@
 # id: quest_wq_74037
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Восстановление фонтана
 # title_en: The Fountain Flows Again
 # title_zh: 泉有重喷日

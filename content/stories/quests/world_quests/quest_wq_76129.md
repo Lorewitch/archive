@@ -1,5 +1,6 @@
 # id: quest_wq_76129
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Совместное поручение
 # title_en: Collaborative Commission
 # title_zh: 协力之委托

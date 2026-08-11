@@ -1,5 +1,6 @@
 # id: quest_wq_10156
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Сцены жизни в крепости Меропид
 # title_en: Scenes from Life in Meropide
 # title_zh: 梅洛彼得生活场景

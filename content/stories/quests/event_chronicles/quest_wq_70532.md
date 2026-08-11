@@ -1,5 +1,6 @@
 # id: quest_wq_70532
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Карточные вечера
 # title_en: Zero Hour Invokation
 # title_zh: 零时召唤

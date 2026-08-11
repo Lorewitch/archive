@@ -1,5 +1,6 @@
 # id: quest_wq_70556
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лётное испытание: Новые высоты
 # title_en: Gliding Challenge: New Heights
 # title_zh: 飞行挑战·全新演绎

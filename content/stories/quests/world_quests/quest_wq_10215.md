@@ -1,5 +1,6 @@
 # id: quest_wq_10215
 # story_group: world_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Сон о далёком небе
 # title_en: A Dream of Gazing Upon the Distant Sky
 # title_zh: 遥望苍天之梦

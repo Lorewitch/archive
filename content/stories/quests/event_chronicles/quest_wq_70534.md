@@ -1,5 +1,6 @@
 # id: quest_wq_70534
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Стратегические дайсы
 # title_en: Heart of the Dice
 # title_zh: 妙骰战法

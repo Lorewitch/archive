@@ -1,5 +1,6 @@
 # id: quest_eq_10028
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/goldenappleisles.webp
 # title_ru: Летние каникулы! Смотри в оба
 # title_en: Summer Vacation: Proceed With Caution
 # title_zh: 夏日征程！千万要注意安全

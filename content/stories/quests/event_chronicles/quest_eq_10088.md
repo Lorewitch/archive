@@ -1,5 +1,6 @@
 # id: quest_eq_10088
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/summertimev2.webp
 # title_ru: Ещё один отпуск на архипелаге Золотого яблока!
 # title_en: The Golden Apple Vacation Returns!
 # title_zh: 再临！金苹果假日

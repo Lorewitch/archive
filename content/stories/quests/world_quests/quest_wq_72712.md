@@ -1,5 +1,6 @@
 # id: quest_wq_72712
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сандэн запрашивает ресурсы
 # title_en: Sanden's Resource Request
 # title_zh: 三田的面具绘材需求

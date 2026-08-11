@@ -1,5 +1,6 @@
 # id: quest_wq_41332
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сытый клиент - довольный клиент
 # title_en: Keeping Wanmin's Patrons Fed
 # title_zh: 勺起万民足

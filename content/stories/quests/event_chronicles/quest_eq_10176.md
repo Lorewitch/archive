@@ -1,5 +1,6 @@
 # id: quest_eq_10176
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/bubbledrama.webp
 # title_ru: Вариации песни о драконьей свободе
 # title_en: Variations on the Song of the Dragon and Freedom
 # title_zh: 巨龙与自由的变奏

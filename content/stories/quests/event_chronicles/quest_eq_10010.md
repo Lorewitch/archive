@@ -1,5 +1,6 @@
 # id: quest_eq_10010
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/dragonspine.webp
 # title_ru: Осквернённое желание
 # title_en: Festering Desire
 # title_zh: 腐殖之剑

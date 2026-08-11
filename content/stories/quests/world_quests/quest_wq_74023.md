@@ -1,5 +1,6 @@
 # id: quest_wq_74023
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хорошие вещи в неумелых руках: Продолжение
 # title_en: Good Stuff, but Terrible Taste — Continued
 # title_zh: 好东西，坏品味·续

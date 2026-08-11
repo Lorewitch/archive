@@ -1,5 +1,6 @@
 # id: quest_eq_10054
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Желания, запечатлённые в звёздах
 # title_en: The Stars Inscribe the Year's Wishes
 # title_zh: 飞星聚彩，愿刻华年

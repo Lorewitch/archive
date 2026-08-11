@@ -1,5 +1,6 @@
 # id: quest_wq_74040
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Призрак одинокого парусника
 # title_en: The Lone Phantom Sail
 # title_zh: 孤帆幽影

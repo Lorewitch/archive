@@ -1,5 +1,6 @@
 # id: quest_wq_74686
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дружба, проверенная временем
 # title_en: A Time-Tested Friendship
 # title_zh: 友谊地久天长

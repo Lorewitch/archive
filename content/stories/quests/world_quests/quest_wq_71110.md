@@ -1,5 +1,6 @@
 # id: quest_wq_71110
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путешествие по Чэньюй
 # title_en: Our Chenyu Vale Trek
 # title_zh: 沉玉之旅

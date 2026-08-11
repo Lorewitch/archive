@@ -1,5 +1,6 @@
 # id: quest_aq_1503
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Радуга обречена сгореть
 # title_en: The Rainbow Destined to Burn
 # title_zh: 命定将焚的虹光

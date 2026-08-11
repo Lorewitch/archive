@@ -1,5 +1,6 @@
 # id: quest_wq_71652
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Печальный господин
 # title_en: Mr. Melancholy
 # title_zh: 忧郁先生

@@ -1,5 +1,6 @@
 # id: quest_wq_75076
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тайна пляжа Теколоапан
 # title_en: The Mystery of Tecoloapan Beach
 # title_zh: 浮羽之滨的迷局

@@ -1,5 +1,6 @@
 # id: quest_wq_76660
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путешествие к лунному свету
 # title_en: Venture Towards the Moonlight
 # title_zh: 朝着月光的冒险

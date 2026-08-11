@@ -1,5 +1,6 @@
 # id: quest_wq_71812
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сокровища долины Тяньцю
 # title_en: Tianqiu Treasure Trail
 # title_zh: 天遒宝迹

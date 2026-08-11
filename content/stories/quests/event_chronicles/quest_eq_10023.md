@@ -1,5 +1,6 @@
 # id: quest_eq_10023
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fleurfair.webp
 # title_ru: Царство тумана и ветра
 # title_en: Realm of Fog and Wind
 # title_zh: 雾与风之境

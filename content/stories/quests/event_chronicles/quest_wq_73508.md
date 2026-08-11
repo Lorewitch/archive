@@ -1,5 +1,6 @@
 # id: quest_wq_73508
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Обещание разлуки
 # title_en: Parting Arrangement
 # title_zh: 暂别时的约定

@@ -1,5 +1,6 @@
 # id: quest_wq_10061
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Подорожная грамота острова Рито
 # title_en: Ritou Travel Permit
 # title_zh: 离岛通行凭证

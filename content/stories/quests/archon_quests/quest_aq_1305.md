@@ -1,5 +1,6 @@
 # id: quest_aq_1305
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Пульс Акаши и пламя кальпы
 # title_en: Akasha Pulses, the Kalpa Flame Rises
 # title_zh: 虚空鼓动，劫火高扬

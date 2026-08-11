@@ -1,5 +1,6 @@
 # id: quest_aq_1304
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Царь Дешрет и три волхва
 # title_en: King Deshret and the Three Magi
 # title_zh: 赤土之王与三朝圣者

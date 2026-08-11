@@ -1,5 +1,6 @@
 # id: quest_wq_73357
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Повторное приглашение на чай: Мастер Шляпка
 # title_en: Tea Party Re-Invitation: Hat Guy
 # title_zh: 茶会的再邀·阿帽

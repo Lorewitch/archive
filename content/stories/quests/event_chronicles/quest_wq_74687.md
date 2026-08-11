@@ -1,5 +1,6 @@
 # id: quest_wq_74687
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: И у пушки есть уши
 # title_en: The Cannon Has Ears
 # title_zh: 重炮在聆听

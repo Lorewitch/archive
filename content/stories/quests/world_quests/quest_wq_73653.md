@@ -1,5 +1,6 @@
 # id: quest_wq_73653
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мясо для Амира
 # title_en: Amir's Raw Meat Commission
 # title_zh: 阿米尔的兽肉需求

@@ -1,5 +1,6 @@
 # id: quest_wq_71802
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Подношение Адептам
 # title_en: An Adeptal Summons
 # title_zh: 承仙所托

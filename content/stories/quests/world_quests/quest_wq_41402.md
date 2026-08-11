@@ -1,5 +1,6 @@
 # id: quest_wq_41402
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Идеальный снимок
 # title_en: Perfect Shot
 # title_zh: 完美留影

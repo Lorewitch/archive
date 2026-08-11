@@ -1,5 +1,6 @@
 # id: quest_eq_10004
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Праздник морских фонарей. День 4
 # title_en: Lantern Rite: Day 4
 # title_zh: 海灯节 第四天

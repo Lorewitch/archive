@@ -1,5 +1,6 @@
 # id: quest_wq_74104
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Путь к сингулярности
 # title_en: Road to the Singularity
 # title_zh: 通往奇点之路

@@ -1,5 +1,6 @@
 # id: quest_wq_71541
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Военная игра под фонарями
 # title_en: Drills by Lamplight
 # title_zh: 灯下演武

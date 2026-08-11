@@ -1,5 +1,6 @@
 # id: quest_wq_74656
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пузырин для Исменора
 # title_en: Ismenor's Bulle Fruit Bulletin
 # title_zh: 伊斯梅诺的泡泡桔需求

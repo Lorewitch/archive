@@ -1,5 +1,6 @@
 # id: quest_wq_74060
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сила и смекалка
 # title_en: Both Brains and Brawn
 # title_zh: 智勇双拳

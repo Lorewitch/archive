@@ -1,5 +1,6 @@
 # id: quest_wq_72710
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный кайраги и бродягами
 # title_en: Kairagi-Vagrant Pandemonium
 # title_zh: 海乱鬼与浮浪人引起的混乱

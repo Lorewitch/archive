@@ -1,5 +1,6 @@
 # id: quest_eq_10164
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Там, где цветут розы
 # title_en: Where the Roses Bloom
 # title_zh: 何处盛放的蔷薇

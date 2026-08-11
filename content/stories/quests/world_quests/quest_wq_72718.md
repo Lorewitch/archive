@@ -1,5 +1,6 @@
 # id: quest_wq_72718
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Жареные яйца для Мацумото
 # title_en: Matsumoto's Fried Egg Fracas
 # title_zh: 松本的煎蛋需求

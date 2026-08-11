@@ -1,5 +1,6 @@
 # id: quest_wq_71059
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пропавшая на чужбине: По следам
 # title_en: Lost in a Foreign Land: Seeking
 # title_zh: 他乡迷失客·觅迹

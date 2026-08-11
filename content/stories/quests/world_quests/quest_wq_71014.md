@@ -1,5 +1,6 @@
 # id: quest_wq_71014
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Океанская жемчужина
 # title_en: The Ocean Pearl
 # title_zh: 海上盛珠钿

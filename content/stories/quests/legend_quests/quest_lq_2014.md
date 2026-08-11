@@ -1,5 +1,6 @@
 # id: quest_lq_2014
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/zhongli.webp
 # title_ru: Соляной цветок
 # title_en: Sal Flore
 # title_zh: 盐花

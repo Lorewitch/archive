@@ -1,5 +1,6 @@
 # id: quest_wq_70515
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вечно движущаяся картина: Конец
 # title_en: Evermotion Mechanical Painting: Finale
 # title_zh: 恒动械画·终

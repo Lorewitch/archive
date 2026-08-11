@@ -1,5 +1,6 @@
 # id: quest_wq_20740
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Унесённые цветы Флоры
 # title_en: Flighty Flora... and Flora
 # title_zh: 轻飘飘的花与芙萝拉

@@ -1,5 +1,6 @@
 # id: quest_wq_73692
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Миметическая репликация
 # title_en: Mimetic Replication
 # title_zh: 仿生摹行

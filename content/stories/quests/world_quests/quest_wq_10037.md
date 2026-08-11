@@ -1,5 +1,6 @@
 # id: quest_wq_10037
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Наследие Оробаси
 # title_en: Orobashi's Legacy
 # title_zh: 远吕羽氏遗事

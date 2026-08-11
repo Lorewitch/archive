@@ -1,5 +1,6 @@
 # id: quest_wq_76511
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Технический турнир боевых искусств
 # title_en: Technical Martial Challenge
 # title_zh: 「有限制冷静格斗赛」

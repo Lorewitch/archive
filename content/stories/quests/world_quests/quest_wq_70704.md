@@ -1,5 +1,6 @@
 # id: quest_wq_70704
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Алкогольные ингредиенты для Коннора
 # title_en: Connor's Brew
 # title_zh: 康纳的酿酒材料需求

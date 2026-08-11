@@ -1,5 +1,6 @@
 # id: quest_wq_70801
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вопросы и ответы
 # title_en: Question and Answer
 # title_zh: 骑士团手册问答

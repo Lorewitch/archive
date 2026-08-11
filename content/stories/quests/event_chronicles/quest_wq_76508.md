@@ -1,5 +1,6 @@
 # id: quest_wq_76508
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Открытие «Танцевального обмена»
 # title_en: Dance Exchanges — A Beautiful Start
 # title_zh: 「舞力交流」的开幕

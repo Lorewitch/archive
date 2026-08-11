@@ -1,5 +1,6 @@
 # id: quest_wq_74153
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Леруа: Час расплаты
 # title_en: Leroy: High Noon
 # title_zh: 勒鲁瓦·午时已至

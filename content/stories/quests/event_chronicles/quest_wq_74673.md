@@ -1,5 +1,6 @@
 # id: quest_wq_74673
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Морские сокровища
 # title_en: Treasures Under the Sea
 # title_zh: 水中秘宝

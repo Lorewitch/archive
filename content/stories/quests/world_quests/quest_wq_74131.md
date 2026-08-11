@@ -1,5 +1,6 @@
 # id: quest_wq_74131
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Предполагаемый план
 # title_en: An Expected Plan
 # title_zh: 一份预期内的计划

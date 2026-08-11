@@ -1,5 +1,6 @@
 # id: quest_wq_70536
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Кризис миновал! Счастье осталось!
 # title_en: Crisis Relieved! A Happy Memento!
 # title_zh: 危机解除！开心留念！

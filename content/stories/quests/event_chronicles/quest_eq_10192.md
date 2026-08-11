@@ -1,5 +1,6 @@
 # id: quest_eq_10192
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fairytales.webp
 # title_ru: История начинается в лесу, где нет дождя
 # title_en: The Story Begins in a Forest Without Rain
 # title_zh: 故事始于无雨的森林

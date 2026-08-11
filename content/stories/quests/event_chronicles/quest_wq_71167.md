@@ -1,5 +1,6 @@
 # id: quest_wq_71167
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Благословенные надежды
 # title_en: Wishing Wonderful Wishes
 # title_zh: 上许佳愿

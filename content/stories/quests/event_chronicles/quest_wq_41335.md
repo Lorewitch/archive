@@ -1,5 +1,6 @@
 # id: quest_wq_41335
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Праздничные стихи и пейзажи I
 # title_en: Verses and Vistas of Lantern Rite (Part I)
 # title_zh: 海灯节的诗与画之一

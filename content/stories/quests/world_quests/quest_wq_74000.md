@@ -1,5 +1,6 @@
 # id: quest_wq_74000
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: На цветочном лугу
 # title_en: Upon a Flowery Field of Grass
 # title_zh: 在开满鲜花的草地上

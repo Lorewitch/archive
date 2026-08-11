@@ -1,5 +1,6 @@
 # id: quest_wq_73233
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Цветок пустыни
 # title_en: Blooming Sands
 # title_zh: 沙上花

@@ -1,5 +1,6 @@
 # id: quest_lq_2055
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_mosasaurus.webp
 # title_ru: Ищущие таинственный остров
 # title_en: Those Searching for the Mysterious Island
 # title_zh: 寻找神秘岛的人

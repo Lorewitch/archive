@@ -1,5 +1,6 @@
 # id: quest_wq_72713
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ингредиенты для Мураками
 # title_en: Murakami's Meal-Making
 # title_zh: 村上的食材需求

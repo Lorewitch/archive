@@ -1,5 +1,6 @@
 # id: quest_wq_10160
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Бесплатный обед
 # title_en: A Free Lunch
 # title_zh: 免费的午餐

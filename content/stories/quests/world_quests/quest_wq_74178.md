@@ -1,5 +1,6 @@
 # id: quest_wq_74178
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Импровизированная поэма о рассвете
 # title_en: Impromptu Poem of the Crimson Dawn
 # title_zh: 曙红即兴诗

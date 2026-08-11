@@ -1,5 +1,6 @@
 # id: quest_wq_22050
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Следы Наруками
 # title_en: The Narukami Trail
 # title_zh: 鸣神寻踪

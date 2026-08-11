@@ -1,5 +1,6 @@
 # id: quest_wq_74143
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: С днём рождения
 # title_en: Happy Birthday
 # title_zh: 生日快乐

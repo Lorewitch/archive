@@ -1,5 +1,6 @@
 # id: quest_wq_70657
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Прямо в яблочко
 # title_en: Bullseye Balloons
 # title_zh: 百发百中

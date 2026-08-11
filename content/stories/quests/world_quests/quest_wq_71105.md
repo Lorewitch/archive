@@ -1,5 +1,6 @@
 # id: quest_wq_71105
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Странствующая обитель
 # title_en: The Roaming Abode
 # title_zh: 仙人游庄

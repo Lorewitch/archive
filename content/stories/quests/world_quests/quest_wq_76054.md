@@ -1,5 +1,6 @@
 # id: quest_wq_76054
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Луна на ночном небосводе
 # title_en: The Moon Adorning the Night
 # title_zh: 夜空中的月亮

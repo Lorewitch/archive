@@ -1,5 +1,6 @@
 # id: quest_wq_76023
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Движущая сила науки
 # title_en: The Power of Research
 # title_zh: 科研的动力

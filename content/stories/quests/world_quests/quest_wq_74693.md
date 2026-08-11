@@ -1,5 +1,6 @@
 # id: quest_wq_74693
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пророчество ведьмы: Указания долга
 # title_en: Witch's Revelation: Duty's Instruction
 # title_zh: 魔女的谕示·履职之谕

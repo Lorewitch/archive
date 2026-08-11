@@ -1,5 +1,6 @@
 # id: quest_wq_72264
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Восемь мест от гор до морей: Среди гор и снегов
 # title_en: Eight Locales Over Mountains and Seas: Snowswept Fairytale
 # title_zh: 山海八所巡礼·大雪隐御伽话

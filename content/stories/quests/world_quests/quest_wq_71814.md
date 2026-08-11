@@ -1,5 +1,6 @@
 # id: quest_wq_71814
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Нефритовая рыбалка
 # title_en: Fishing For Jade
 # title_zh: 海上拾玉

@@ -1,5 +1,6 @@
 # id: quest_wq_10242
 # story_group: world_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Превыше серебра и злата
 # title_en: Beyond Silver and Fine Gold
 # title_zh: 胜过白银与精金

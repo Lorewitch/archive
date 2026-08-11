@@ -1,5 +1,6 @@
 # id: quest_wq_79027
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Последнее сокровище
 # title_en: The Final Treasure
 # title_zh: 最后的宝藏

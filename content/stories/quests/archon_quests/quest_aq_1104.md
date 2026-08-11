@@ -1,5 +1,6 @@
 # id: quest_aq_1104
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Мы встретимся снова
 # title_en: We Will Be Reunited
 # title_zh: 我们终将重逢

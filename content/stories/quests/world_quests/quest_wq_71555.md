@@ -1,5 +1,6 @@
 # id: quest_wq_71555
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: И сокровище достаётся...
 # title_en: And This Treasure Goes To...
 # title_zh: 灵矩有宝予何人

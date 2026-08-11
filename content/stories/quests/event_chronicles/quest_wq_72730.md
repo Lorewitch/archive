@@ -1,5 +1,6 @@
 # id: quest_wq_72730
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Эпичный бой жуков великолепного Аратаки!
 # title_en: Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl!
 # title_zh: 荒泷极意堂堂斗虫大试合！

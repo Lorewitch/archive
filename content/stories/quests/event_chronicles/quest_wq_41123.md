@@ -1,5 +1,6 @@
 # id: quest_wq_41123
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Непредвиденные обстоятельства
 # title_en: Contingencies
 # title_zh: 紧急措施

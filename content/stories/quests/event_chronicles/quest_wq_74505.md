@@ -1,5 +1,6 @@
 # id: quest_wq_74505
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Настольный искатель приключений
 # title_en: Tabletop Adventurer
 # title_zh: 桌上冒险家

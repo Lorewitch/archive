@@ -1,5 +1,6 @@
 # id: quest_wq_72199
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сокровище фермера
 # title_en: The Farmer's Treasure
 # title_zh: 农民的宝藏

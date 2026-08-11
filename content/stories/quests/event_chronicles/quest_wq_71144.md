@@ -1,5 +1,6 @@
 # id: quest_wq_71144
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Командиры и военные игры
 # title_en: Commanders and Wargames
 # title_zh: 将才与推演

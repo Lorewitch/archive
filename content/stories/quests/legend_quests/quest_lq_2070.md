@@ -1,5 +1,6 @@
 # id: quest_lq_2070
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_bisonsaurus.webp
 # title_ru: Пылающая земля изобилия
 # title_en: Ardent Land of Plenty
 # title_zh: 炽热的沃陆

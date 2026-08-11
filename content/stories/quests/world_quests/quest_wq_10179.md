@@ -1,5 +1,6 @@
 # id: quest_wq_10179
 # story_group: world_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Звезда иного времени
 # title_en: A Star Out of Time
 # title_zh: 异时的流星

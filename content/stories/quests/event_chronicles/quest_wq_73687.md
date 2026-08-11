@@ -1,5 +1,6 @@
 # id: quest_wq_73687
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Облачение божественного посланника
 # title_en: The Sight of the Divine Emissary
 # title_zh: 御神使的风姿

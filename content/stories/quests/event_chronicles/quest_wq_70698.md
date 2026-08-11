@@ -1,5 +1,6 @@
 # id: quest_wq_70698
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Приглашение от Рыцаря Искорки
 # title_en: An Invitation From the Spark Knight
 # title_zh: 来自火花骑士的邀请

@@ -1,5 +1,6 @@
 # id: quest_wq_73710
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Парк плесенников готовится к открытию
 # title_en: A New Day at the Lil' Fungi Playground
 # title_zh: 小小灵蕈乐园，准备开张

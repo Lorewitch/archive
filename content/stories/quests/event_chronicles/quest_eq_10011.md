@@ -1,5 +1,6 @@
 # id: quest_eq_10011
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/dragonspine.webp
 # title_ru: Враг Архонта
 # title_en: Archon's Rival
 # title_zh: 敌神者

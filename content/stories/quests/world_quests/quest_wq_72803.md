@@ -1,5 +1,6 @@
 # id: quest_wq_72803
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: О, Архонт! Правильно ли я поступил?
 # title_en: O Archon, Have I Done Right?
 # title_zh: 神明啊，我做得对吗？

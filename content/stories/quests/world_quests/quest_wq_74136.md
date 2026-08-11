@@ -1,5 +1,6 @@
 # id: quest_wq_74136
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ожидаемая ложь
 # title_en: An Expected Lie
 # title_zh: 一场预期内的谎言

@@ -1,5 +1,6 @@
 # id: quest_eq_10066
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/irodori.webp
 # title_ru: Что осталось от синих цветов
 # title_en: What the Blue Flowers Left Behind
 # title_zh: 青花卷底残章

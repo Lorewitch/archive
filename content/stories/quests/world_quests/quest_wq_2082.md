@@ -1,5 +1,6 @@
 # id: quest_wq_2082
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Цветы из сказочной страны
 # title_en: Witch's Homework: Of Wonderland Flowers
 # title_zh: 魔女的课业·仙境花之题

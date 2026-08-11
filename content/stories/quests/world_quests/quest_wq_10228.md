@@ -1,5 +1,6 @@
 # id: quest_wq_10228
 # story_group: world_quests
+# icon: assets/icons/stories/quests/mooncanon.webp
 # title_ru: Проект «Созерцатель луны»
 # title_en: Project Moongazer
 # title_zh: 望月者计划

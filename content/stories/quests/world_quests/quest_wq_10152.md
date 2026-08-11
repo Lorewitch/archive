@@ -1,5 +1,6 @@
 # id: quest_wq_10152
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Поиск в Море водорослей
 # title_en: Search in the Algae Sea
 # title_zh: 藻海的寻踪

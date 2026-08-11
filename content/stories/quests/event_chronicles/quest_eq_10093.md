@@ -1,5 +1,6 @@
 # id: quest_eq_10093
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/summertimev2.webp
 # title_ru: Рифма и мелодия летнего сна
 # title_en: Like Rhyme and Song, the Summer Reverie
 # title_zh: 如诗如歌，夏之梦

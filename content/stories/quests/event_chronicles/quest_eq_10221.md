@@ -1,5 +1,6 @@
 # id: quest_eq_10221
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/mikawaflower.webp
 # title_ru: Будто во сне
 # title_en: As Though Caught in a Dream
 # title_zh: 如入幻梦

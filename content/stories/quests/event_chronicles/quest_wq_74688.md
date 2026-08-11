@@ -1,5 +1,6 @@
 # id: quest_wq_74688
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Комплексное решение
 # title_en: Pre-Packaged Solution
 # title_zh: 打包解决方案

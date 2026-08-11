@@ -1,5 +1,6 @@
 # id: quest_wq_76069
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Безымянный окровавленный памятник
 # title_en: Nameless Bloodstained Monument
 # title_zh: 无铭染血之碑

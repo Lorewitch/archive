@@ -1,5 +1,6 @@
 # id: quest_lq_2027
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/shougun.webp
 # title_ru: Мимолётные сны
 # title_en: Transient Dreams
 # title_zh: 须臾百梦

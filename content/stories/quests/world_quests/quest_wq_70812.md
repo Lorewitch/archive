@@ -1,5 +1,6 @@
 # id: quest_wq_70812
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Страдания после бури
 # title_en: Lingering Malady
 # title_zh: 风暴后遗症

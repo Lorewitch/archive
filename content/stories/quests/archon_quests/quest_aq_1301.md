@@ -1,5 +1,6 @@
 # id: quest_aq_1301
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Сквозь дым и тёмные леса
 # title_en: Through Mists of Smoke and Forests Dark
 # title_zh: 穿越烟帷与暗林

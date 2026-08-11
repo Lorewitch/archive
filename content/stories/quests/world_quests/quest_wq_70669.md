@@ -1,5 +1,6 @@
 # id: quest_wq_70669
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Испытание возвышения IV
 # title_en: Ascension Challenge IV
 # title_zh: 牌手等级突破·四

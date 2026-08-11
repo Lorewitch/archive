@@ -1,5 +1,6 @@
 # id: quest_wq_73341
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сердце амриты
 # title_en: Heart of Amrita
 # title_zh: 甘露之心

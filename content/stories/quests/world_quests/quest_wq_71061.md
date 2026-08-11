@@ -1,5 +1,6 @@
 # id: quest_wq_71061
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Погасший гриб просит помощи
 # title_en: Dimming Mushroom's Call for Help
 # title_zh: 黯淡蘑菇的求救

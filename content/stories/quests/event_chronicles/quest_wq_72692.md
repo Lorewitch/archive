@@ -1,5 +1,6 @@
 # id: quest_wq_72692
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Поэзия Иродори. Часть II
 # title_en: Irodori Poetry: Part II
 # title_zh: 容彩诗镜·其二

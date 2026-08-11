@@ -1,5 +1,6 @@
 # id: quest_wq_72239
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Поедатель лотоса
 # title_en: Lotus Eater
 # title_zh: 食莲者

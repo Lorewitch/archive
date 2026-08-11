@@ -1,5 +1,6 @@
 # id: quest_wq_75029
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вперёд! Только вперёд!
 # title_en: Charge Forward! Go, Go, Go!
 # title_zh: 向前冲！冲！冲！

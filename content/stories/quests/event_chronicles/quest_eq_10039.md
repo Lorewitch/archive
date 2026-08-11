@@ -1,5 +1,6 @@
 # id: quest_eq_10039
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/onmyomaze.webp
 # title_ru: Решимость двигаться вперёд
 # title_en: Pushing On
 # title_zh: 决意自分野

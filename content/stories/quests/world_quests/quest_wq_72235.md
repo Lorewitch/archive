@@ -1,5 +1,6 @@
 # id: quest_wq_72235
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Собрание драконов и змей
 # title_en: Collection of Dragons and Snakes
 # title_zh: 龙蛇藏归辑录

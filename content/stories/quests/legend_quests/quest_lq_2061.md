@@ -1,5 +1,6 @@
 # id: quest_lq_2061
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_flamingo.webp
 # title_ru: Бескрылая в Тлалокане
 # title_en: The Wingless One of Tlalocan
 # title_zh: 特拉洛坎的失翼者

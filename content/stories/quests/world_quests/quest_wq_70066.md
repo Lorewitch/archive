@@ -1,5 +1,6 @@
 # id: quest_wq_70066
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Аллан Смити, автор Фишль: Эпилог
 # title_en: Alan Smithee, Author of Fischl: Epilogue
 # title_zh: 艾伦·史密西，菲谢尔的作者·尾声

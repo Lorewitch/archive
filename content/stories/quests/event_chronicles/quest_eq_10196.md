@@ -1,5 +1,6 @@
 # id: quest_eq_10196
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Записки о странствиях Белой Лошади
 # title_en: White Horse's Leisurely Journey
 # title_zh: 白马闲游记

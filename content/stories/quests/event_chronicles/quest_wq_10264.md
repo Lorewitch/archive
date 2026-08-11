@@ -1,5 +1,6 @@
 # id: quest_wq_10264
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/nodkraitour.webp
 # title_ru: Динь-дили-динь! Празднество!
 # title_en: Ding Ding Dinggg! A Great Feast!
 # title_zh: 叮叮叮，大聚餐！

@@ -1,5 +1,6 @@
 # id: quest_wq_72720
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Бой с Мисима Мититоси
 # title_en: Versus Mishima Michitoshi
 # title_zh: 与三岛道世之战

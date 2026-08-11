@@ -1,5 +1,6 @@
 # id: quest_lq_2073
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_bisonsaurus.webp
 # title_ru: Шёпот грибов на полях
 # title_en: Field Fungal Traces
 # title_zh: 田地里的蕈息

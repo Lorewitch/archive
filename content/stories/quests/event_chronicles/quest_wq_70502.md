@@ -1,5 +1,6 @@
 # id: quest_wq_70502
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Глоток пьянящей мечты
 # title_en: Of Drink A-Dreaming
 # title_zh: 曲生酌微梦

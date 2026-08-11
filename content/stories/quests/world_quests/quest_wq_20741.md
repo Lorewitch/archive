@@ -1,5 +1,6 @@
 # id: quest_wq_20741
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Анемо Архонт и Мондштадт
 # title_en: Mondstadt and its Archon
 # title_zh: 风神与蒙德

@@ -1,5 +1,6 @@
 # id: quest_wq_10150
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Градиент из снов и охры
 # title_en: A Gradient of Dreams and Ochre
 # title_zh: 梦与赭黄色的渐变

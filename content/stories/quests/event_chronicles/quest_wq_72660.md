@@ -1,5 +1,6 @@
 # id: quest_wq_72660
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хякунин икки: великая битва
 # title_en: Hyakunin Ikki: The Greatest Battle
 # title_zh: 「百人一揆·最强武斗大会」

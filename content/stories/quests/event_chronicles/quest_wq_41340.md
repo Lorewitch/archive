@@ -1,5 +1,6 @@
 # id: quest_wq_41340
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Праздничные недуги
 # title_en: A Very Festive Problem
 # title_zh: 佳节里的小问题

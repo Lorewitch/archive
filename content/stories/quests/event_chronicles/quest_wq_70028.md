@@ -1,5 +1,6 @@
 # id: quest_wq_70028
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Автономный источник механической энергии. Живой образец
 # title_en: Autonomous Mechanical Energy Source: Live Sample
 # title_zh: 自律机关能源研究·实践样例

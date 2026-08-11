@@ -1,5 +1,6 @@
 # id: quest_wq_70821
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: После бури...
 # title_en: After the Storm
 # title_zh: 风后宝矿

@@ -1,5 +1,6 @@
 # id: quest_wq_71810
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Бесконечное исследование
 # title_en: Endless Research
 # title_zh: 永无止境的研究

@@ -1,5 +1,6 @@
 # id: quest_wq_74008
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Следы прилива
 # title_en: Aqueous Tidemarks
 # title_zh: 水色潮痕

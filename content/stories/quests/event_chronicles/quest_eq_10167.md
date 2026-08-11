@@ -1,5 +1,6 @@
 # id: quest_eq_10167
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Коршун возвращается в павильон
 # title_en: The Glede Returns to the Pavilion
 # title_zh: 故鸢吹归，再宿堂楼

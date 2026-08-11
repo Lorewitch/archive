@@ -1,5 +1,6 @@
 # id: quest_eq_10234
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/themeparksim.webp
 # title_ru: У всего есть цена
 # title_en: The Price of Every Price
 # title_zh: 一切代价的回旋

@@ -1,5 +1,6 @@
 # id: quest_wq_71106
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Трёхкратные ожидания
 # title_en: Threefold Expectations
 # title_zh: 攸望三叠

@@ -1,5 +1,6 @@
 # id: quest_wq_71005
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Девять мировых колонн
 # title_en: Nine Pillars of Peace
 # title_zh: 靖世九柱

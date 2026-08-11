@@ -1,5 +1,6 @@
 # id: quest_aq_1600
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Танец вьюги в сизой чаще
 # title_en: A Dance of Snowy Tides and Hoarfrost Groves
 # title_zh: 雪浪与苍林之舞

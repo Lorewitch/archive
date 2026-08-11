@@ -1,5 +1,6 @@
 # id: quest_wq_71665
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хроники поисков: Зажигай!
 # title_en: Search Chronicle: Burning Up!
 # title_zh: 参寻战记·燃起来了！

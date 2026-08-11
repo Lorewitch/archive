@@ -1,5 +1,6 @@
 # id: quest_wq_72211
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Кошка Нэко: Рецепт святилища
 # title_en: Neko Is a Cat: Shrine Recipe
 # title_zh: 寝子是只猫·神社食谱

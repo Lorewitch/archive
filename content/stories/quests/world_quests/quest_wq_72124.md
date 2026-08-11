@@ -1,5 +1,6 @@
 # id: quest_wq_72124
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мечты о фехтовании
 # title_en: Dreams of Sword Art
 # title_zh: 刀剑成梦

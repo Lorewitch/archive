@@ -1,5 +1,6 @@
 # id: quest_wq_74517
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Симуляция операции «Ливень»
 # title_en: Operation Downpour Simulation
 # title_zh: 雨阵奔流之述演

@@ -1,5 +1,6 @@
 # id: quest_lq_2063
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_flamingo.webp
 # title_ru: Оружие и крылья
 # title_en: Guns and Wings
 # title_zh: 枪与翼

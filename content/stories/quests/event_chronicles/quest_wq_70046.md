@@ -1,5 +1,6 @@
 # id: quest_wq_70046
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Встреча с инвазивными видами
 # title_en: A Very Fishy Encounter
 # title_zh: 再遇异域鱼鱼？

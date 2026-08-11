@@ -1,5 +1,6 @@
 # id: quest_wq_73652
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Управляемый взрыв
 # title_en: Controllable Explosion
 # title_zh: 可控性爆炸

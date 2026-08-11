@@ -1,5 +1,6 @@
 # id: quest_wq_72236
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Трёхцветный архив
 # title_en: Tricolor File
 # title_zh: 三色档案

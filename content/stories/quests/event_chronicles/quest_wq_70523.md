@@ -1,5 +1,6 @@
 # id: quest_wq_70523
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мастер коктейлей из горной деревни
 # title_en: Mountain Mixologist
 # title_zh: 山间的饮品调配师

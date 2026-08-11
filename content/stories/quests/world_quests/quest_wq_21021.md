@@ -1,5 +1,6 @@
 # id: quest_wq_21021
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Секрет Чи
 # title_en: The Chi of Yore
 # title_zh: 古云有「螭」

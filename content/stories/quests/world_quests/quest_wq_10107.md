@@ -1,5 +1,6 @@
 # id: quest_wq_10107
 # story_group: world_quests
+# icon: assets/icons/stories/quests/deshret.webp
 # title_ru: Древний язык, новые знания
 # title_en: Old Notes and New Friends
 # title_zh: 旧语新知

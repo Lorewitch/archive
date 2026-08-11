@@ -1,5 +1,6 @@
 # id: quest_wq_72237
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Антигон
 # title_en: Antigonus
 # title_zh: 安提戈努斯

@@ -1,5 +1,6 @@
 # id: quest_wq_70099
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ветер стих
 # title_en: The Wind Has Ceased
 # title_zh: 风停了

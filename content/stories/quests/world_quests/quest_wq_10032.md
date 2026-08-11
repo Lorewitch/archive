@@ -1,5 +1,6 @@
 # id: quest_wq_10032
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Охотники за грозами Сэйрая
 # title_en: Seirai Stormchasers
 # title_zh: 清籁逐雷记

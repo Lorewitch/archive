@@ -1,5 +1,6 @@
 # id: quest_wq_71114
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Привыкание к местности
 # title_en: Temporary Acclimatization
 # title_zh: 水土暂服

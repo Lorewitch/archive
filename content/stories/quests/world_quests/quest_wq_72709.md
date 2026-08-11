@@ -1,5 +1,6 @@
 # id: quest_wq_72709
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Атака автоматонов
 # title_en: Automaton Attack
 # title_zh: 自律机关引起的混乱

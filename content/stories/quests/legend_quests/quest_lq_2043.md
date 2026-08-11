@@ -1,5 +1,6 @@
 # id: quest_lq_2043
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/furina.webp
 # title_ru: «Маленькая океанида»
 # title_en: "The Little Oceanid"
 # title_zh: 「水的女儿」

@@ -1,5 +1,6 @@
 # id: quest_wq_70714
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мясоеды и Брук
 # title_en: Brook the Carnivore
 # title_zh: 肉食者，布洛克

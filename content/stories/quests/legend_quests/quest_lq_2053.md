@@ -1,5 +1,6 @@
 # id: quest_lq_2053
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_hookwalker.webp
 # title_ru: Церемония героя
 # title_en: A Hero's Rite
 # title_zh: 英雄的仪式

@@ -90,7 +90,7 @@ const SECTIONS = [
   },
   {
     id: "bestiary",
-    icon: `${UI_ICON_BASE}/inventory.webp`,
+    icon: `${UI_ICON_BASE}/enemy_bestiary_icon.webp`,
     title: "Бестиарий",
     description: "Противники, существа и фракции Тейвата: не только боевые цели, но и следы цивилизаций, организаций и древних катастроф.",
     data: () => ENEMIES,
@@ -109,7 +109,7 @@ const SECTIONS = [
   },
   {
     id: "stories",
-    icon: `${UI_ICON_BASE}/stories.webp`,
+    icon: `${UI_ICON_BASE}/quest_icon.webp`,
     title: "Истории",
     description: "Сюжетные истории, личные главы персонажей и хроники мира: отдельная полка для больших повествований Тейвата.",
     data: () => STORIES,

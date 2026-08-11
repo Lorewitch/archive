@@ -1,5 +1,6 @@
 # id: quest_wq_72162
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Древнее сокровище Сэйрая
 # title_en: Relics of Seirai
 # title_zh: 清籁旧宝

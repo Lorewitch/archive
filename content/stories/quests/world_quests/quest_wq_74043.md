@@ -1,5 +1,6 @@
 # id: quest_wq_74043
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: По-прежнему невозможно удержаться!
 # title_en: Still Mouthwatering!
 # title_zh: 依旧让人垂涎欲滴！

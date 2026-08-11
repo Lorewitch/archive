@@ -1,5 +1,6 @@
 # id: quest_wq_71116
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Песок договорённостей
 # title_en: The Dealing Sands
 # title_zh: 契约之砂

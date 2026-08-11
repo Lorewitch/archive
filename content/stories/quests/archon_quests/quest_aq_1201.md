@@ -1,5 +1,6 @@
 # id: quest_aq_1201
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/inazuma.webp
 # title_ru: Осенний ветер, багряные листья
 # title_en: Autumn Winds, Scarlet Leaves
 # title_zh: 振袖秋风问红叶

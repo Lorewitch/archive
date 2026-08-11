@@ -1,5 +1,6 @@
 # id: quest_wq_41342
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Здоровяк и Молот
 # title_en: Hammer and Wrench
 # title_zh: 扳手与锤子

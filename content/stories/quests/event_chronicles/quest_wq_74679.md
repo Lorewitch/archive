@@ -1,5 +1,6 @@
 # id: quest_wq_74679
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Разброс менее угловой минуты!
 # title_en: Spread Out Less Than an Arcminute!
 # title_zh: 散布小于一角分！

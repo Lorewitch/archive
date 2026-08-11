@@ -1,5 +1,6 @@
 # id: quest_wq_79000
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Те, что слышат море
 # title_en: They Who Hear the Sea
 # title_zh: 听海人

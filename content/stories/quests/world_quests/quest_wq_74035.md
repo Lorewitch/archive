@@ -1,5 +1,6 @@
 # id: quest_wq_74035
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Некий пустячок
 # title_en: A Certain Trifle
 # title_zh: 一件小事

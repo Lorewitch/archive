@@ -1,5 +1,6 @@
 # id: quest_aq_1502
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: За дымом и зеркалами
 # title_en: Beyond the Smoke and Mirrors
 # title_zh: 镜与谜烟的彼方

@@ -1,5 +1,6 @@
 # id: quest_wq_10051
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Записи о путешествии вглубь Разлома
 # title_en: The Chasm Delvers
 # title_zh: 层岩巨渊深游记

@@ -1,5 +1,6 @@
 # id: quest_wq_70651
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Шахтёрское ремесло
 # title_en: Mine Craft
 # title_zh: 采矿之道

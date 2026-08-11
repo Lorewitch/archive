@@ -1,5 +1,6 @@
 # id: quest_wq_75020
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Готовность к неприятностям
 # title_en: Ripe For Trouble
 # title_zh: 熟是生非

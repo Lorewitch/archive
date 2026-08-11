@@ -1,5 +1,6 @@
 # id: quest_wq_10168
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Нефритовое благословение
 # title_en: Chenyu's Blessings of Sunken Jade
 # title_zh: 沉玉祝珑

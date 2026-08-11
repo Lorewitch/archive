@@ -1,5 +1,6 @@
 # id: quest_wq_70675
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Новая доска приглашений
 # title_en: Brand-New Invitation Board!
 # title_zh: 新鲜邀请板

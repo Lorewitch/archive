@@ -1,5 +1,6 @@
 # id: quest_wq_10155
 # story_group: world_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: След за кормой
 # title_en: Rowboat's Wake
 # title_zh: 溪舟的尾波

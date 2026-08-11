@@ -1,5 +1,6 @@
 # id: quest_wq_73279
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сокол Тадлэ
 # title_en: Tadhla the Falcon
 # title_zh: 「猎鹰」塔德菈

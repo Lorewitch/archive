@@ -1,5 +1,6 @@
 # id: quest_wq_73524
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Под занавес
 # title_en: When the Curtains Close
 # title_zh: 落幕时分

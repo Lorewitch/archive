@@ -1,5 +1,6 @@
 # id: quest_lq_2016
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/ganyu.webp
 # title_ru: Море облаков, море людей
 # title_en: Sea of Clouds, Sea of People
 # title_zh: 云之海，人之海

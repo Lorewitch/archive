@@ -1,5 +1,6 @@
 # id: quest_wq_74034
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Некое уведомление
 # title_en: A Certain Notice
 # title_zh: 一份通知

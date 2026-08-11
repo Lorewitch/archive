@@ -1,5 +1,6 @@
 # id: quest_eq_10158
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/rainbowprince.webp
 # title_ru: Королевство принца
 # title_en: Prince's Country
 # title_zh: 王子的国度

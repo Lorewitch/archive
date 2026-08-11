@@ -1,5 +1,6 @@
 # id: quest_lq_10247
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/easybreezeholidayresort.webp
 # title_ru: Сюрприз для всех!
 # title_en: The Surprise That Awaits Us All!
 # title_zh: 惊遇！等待众人的将是…？

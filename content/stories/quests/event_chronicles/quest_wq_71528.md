@@ -1,5 +1,6 @@
 # id: quest_wq_71528
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Бесконечный бой жуков!
 # title_en: Provisionally Perpetual Beetle Battle!
 # title_zh: 暂无止境的斗虫之路！

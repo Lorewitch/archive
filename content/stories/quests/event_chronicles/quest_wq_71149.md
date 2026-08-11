@@ -1,5 +1,6 @@
 # id: quest_wq_71149
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Свет фонарей в лунном сиянии
 # title_en: Bright Moon, Lantern Glow
 # title_zh: 月引明霄

@@ -1,5 +1,6 @@
 # id: quest_wq_71667
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хроники поисков: Холодный круглый животик!
 # title_en: Search Chronicle: Cold, Round Belly!
 # title_zh: 参寻战记·冷酷圆肚皮！

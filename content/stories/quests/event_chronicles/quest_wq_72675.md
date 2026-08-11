@@ -1,5 +1,6 @@
 # id: quest_wq_72675
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Восемь мест от гор до морей: Думы одинокой горы
 # title_en: Eight Locales Over Mountains and Seas: Soliloquy of Distant Island Peaks
 # title_zh: 山海八所巡礼·远岛孤山独语

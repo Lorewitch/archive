@@ -1,5 +1,6 @@
 # id: quest_wq_70814
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Что будут делать искатели приключений?
 # title_en: ...What Do Adventurers Do Again?
 # title_zh: 冒险家…该干嘛？

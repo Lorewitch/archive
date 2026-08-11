@@ -1,5 +1,6 @@
 # id: quest_wq_71107
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Прогулка по Залу Ваншань, которую стоит запомнить
 # title_en: A Wangshan Walk to Remember
 # title_zh: 哐哐锵锵王山行

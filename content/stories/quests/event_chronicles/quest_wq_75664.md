@@ -1,5 +1,6 @@
 # id: quest_wq_75664
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Да начнутся Испытания расцвета!
 # title_en: Let the Bloomflower Trials Begin!
 # title_zh: 荣花演武，开幕！

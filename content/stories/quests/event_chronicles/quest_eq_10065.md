@@ -1,5 +1,6 @@
 # id: quest_eq_10065
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/irodori.webp
 # title_ru: Странная история хмельной настойки Суико
 # title_en: The Strange Tale of Suikou's Tipsy Tincture
 # title_zh: 翠庵酩酊疑闻

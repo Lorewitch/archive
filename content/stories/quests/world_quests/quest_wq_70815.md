@@ -1,5 +1,6 @@
 # id: quest_wq_70815
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Воля камня
 # title_en: Will of Stone
 # title_zh: 重岩之意

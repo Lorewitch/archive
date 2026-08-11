@@ -1,5 +1,6 @@
 # id: quest_eq_10052
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Гори, волшебная звезда
 # title_en: The Blazing Stars Ring in Fortune
 # title_zh: 吉星似火，福禄成喜

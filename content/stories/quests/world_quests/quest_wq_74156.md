@@ -1,5 +1,6 @@
 # id: quest_wq_74156
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Леруа: Ария Царицы ночи
 # title_en: Leroy: Queen of the Night's Aria
 # title_zh: 勒鲁瓦·夜后咏叹调

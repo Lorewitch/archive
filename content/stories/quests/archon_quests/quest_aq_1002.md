@@ -1,5 +1,6 @@
 # id: quest_aq_1002
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Горькие слёзы
 # title_en: For a Tomorrow Without Tears
 # title_zh: 为了没有眼泪的明天

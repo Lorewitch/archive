@@ -1,5 +1,6 @@
 # id: quest_wq_74137
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Калейдоскоп огней: Причина и следствие
 # title_en: Radiant Harvest: Cause and Effect
 # title_zh: 集光撷彩·因果

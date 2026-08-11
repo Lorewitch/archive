@@ -1,5 +1,6 @@
 # id: quest_wq_72686
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вперёд, Золотое торнадо!
 # title_en: Go Forth, Golden Whirlwind!
 # title_zh: 去吧！黄金旋风！

@@ -1,5 +1,6 @@
 # id: quest_wq_10071
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: В поисках сокровищ четырёх рифов
 # title_en: The Treasure of the Four Skerries
 # title_zh: 四礁觅宝记

@@ -1,5 +1,6 @@
 # id: quest_wq_74049
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Успех не даётся легко
 # title_en: Were It So Easy
 # title_zh: 好事多磨

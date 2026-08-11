@@ -1,5 +1,6 @@
 # id: quest_wq_73098
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Статичные пейзажи
 # title_en: Static Views
 # title_zh: 静态风景

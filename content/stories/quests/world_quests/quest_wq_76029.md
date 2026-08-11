@@ -1,5 +1,6 @@
 # id: quest_wq_76029
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лунная соната
 # title_en: Moonlight Sonata
 # title_zh: 月光奏鸣曲

@@ -1,5 +1,6 @@
 # id: quest_eq_10207
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sumerubirth.webp
 # title_ru: Сюрприз для неё
 # title_en: Give Her Surprises
 # title_zh: 赠予她惊喜

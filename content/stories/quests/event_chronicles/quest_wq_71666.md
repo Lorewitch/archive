@@ -1,5 +1,6 @@
 # id: quest_wq_71666
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Подготовительный лагерь Аратаки для боевых жуков!
 # title_en: Arataki Blazing Armor Beetle Battle Boot Camp!
 # title_zh: 荒泷甲光烈烈斗虫大修行！

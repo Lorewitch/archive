@@ -1,5 +1,6 @@
 # id: quest_wq_71054
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Проникновение в стан врага
 # title_en: Undetected Infiltration
 # title_zh: 潜身敌营无人知

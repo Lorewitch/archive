@@ -1,5 +1,6 @@
 # id: quest_aq_1611
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Миллионы путей, изменение и угасание
 # title_en: Of Myriad Paths, Flux, and Dissolution
 # title_zh: 道成千壑，因果异灭

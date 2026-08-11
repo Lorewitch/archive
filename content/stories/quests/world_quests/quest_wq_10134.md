@@ -1,5 +1,6 @@
 # id: quest_wq_10134
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Решение
 # title_en: Witch's Homework: Solution
 # title_zh: 魔女的课业·题解

@@ -1,5 +1,6 @@
 # id: quest_wq_73059
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Эпилог: Воспоминания
 # title_en: Memory's Final Chapter
 # title_zh: 回忆终章

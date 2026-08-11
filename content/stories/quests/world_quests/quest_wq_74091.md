@@ -1,5 +1,6 @@
 # id: quest_wq_74091
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Наша цель в другом трубопроводе
 # title_en: Our Purpose Is in Another Canal
 # title_zh: 我们的目标在另一条管道

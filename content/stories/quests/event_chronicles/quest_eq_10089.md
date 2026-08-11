@@ -1,5 +1,6 @@
 # id: quest_eq_10089
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/summertimev2.webp
 # title_ru: Весенний дворик прошлых лет
 # title_en: As the Courtyard in Spring Once Appeared
 # title_zh: 春庭景如旧

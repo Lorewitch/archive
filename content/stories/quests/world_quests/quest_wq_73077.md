@@ -1,5 +1,6 @@
 # id: quest_wq_73077
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Легенды каменного замка
 # title_en: Legends of the Stone Lock
 # title_zh: 石锁机关秘话

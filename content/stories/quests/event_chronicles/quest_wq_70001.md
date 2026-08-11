@@ -1,5 +1,6 @@
 # id: quest_wq_70001
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Праздничный раздор
 # title_en: The Sound of Discord
 # title_zh: 节日里的不谐音

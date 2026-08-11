@@ -1,5 +1,6 @@
 # id: quest_wq_70520
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вкуснота и милота от Фавониуса!
 # title_en: Favonian Goodies and Buddies
 # title_zh: 西风哗哗义卖联盟！

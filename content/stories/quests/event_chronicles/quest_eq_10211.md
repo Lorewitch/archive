@@ -1,5 +1,6 @@
 # id: quest_eq_10211
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/ceremony.webp
 # title_ru: Видение пепельного запустения
 # title_en: Vision of Ashen Desolation
 # title_zh: 烬寂之视

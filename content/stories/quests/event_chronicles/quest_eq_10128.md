@@ -1,5 +1,6 @@
 # id: quest_eq_10128
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/poetryfestival.webp
 # title_ru: Слёзы в листве
 # title_en: Tears Among the Leaves
 # title_zh: 叶间泪

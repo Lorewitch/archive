@@ -1,5 +1,6 @@
 # id: quest_lq_2048
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/sigewinne.webp
 # title_ru: Тепло лжи
 # title_en: The Warmth of Lies
 # title_zh: 谎言的温度

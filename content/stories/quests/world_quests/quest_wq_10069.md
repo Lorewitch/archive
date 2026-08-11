@@ -1,5 +1,6 @@
 # id: quest_wq_10069
 # story_group: world_quests
+# icon: assets/icons/stories/quests/common.webp
 # title_ru: Кулинарная мечта
 # title_en: An Unwavering Culinary Dream
 # title_zh: 愿为一炊之梦

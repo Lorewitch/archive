@@ -1,5 +1,6 @@
 # id: quest_wq_73354
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тень меча рыцаря
 # title_en: Shadow of the Knight's Blade
 # title_zh: 骑士的剑影

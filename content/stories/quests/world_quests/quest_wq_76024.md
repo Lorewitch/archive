@@ -1,5 +1,6 @@
 # id: quest_wq_76024
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Друзья из долины Кроти
 # title_en: Friends of Moleyvalley
 # title_zh: 莫雷谷的伙伴们

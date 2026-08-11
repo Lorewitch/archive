@@ -1,5 +1,6 @@
 # id: quest_wq_10231
 # story_group: world_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Финальные всполохи пламени
 # title_en: A Finale Emberforged
 # title_zh: 溯火而归的终局

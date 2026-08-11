@@ -1,5 +1,6 @@
 # id: quest_wq_71523
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Обряд бросков на сто шагов
 # title_en: Hundred-Pace Hurling Rites
 # title_zh: 百步礼掷

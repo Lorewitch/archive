@@ -1,5 +1,6 @@
 # id: quest_wq_40142
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Суета жизни
 # title_en: Hustle and Bustle
 # title_zh: 人来人往

@@ -1,5 +1,6 @@
 # id: quest_wq_72196
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Судьба бойца
 # title_en: Fate of a Fighter
 # title_zh: 武者的宿命

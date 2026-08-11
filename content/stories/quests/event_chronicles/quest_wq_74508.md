@@ -1,5 +1,6 @@
 # id: quest_wq_74508
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Плесенники тебе не тидалья!
 # title_en: Fungi Are Not Tidalga!
 # title_zh: 蕈兽可不是汐藻！

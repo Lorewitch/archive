@@ -1,5 +1,6 @@
 # id: quest_wq_71115
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Бабочка, что тихо летит сквозь долину
 # title_en: Silently the Butterfly Crosses the Valley
 # title_zh: 彩蝶翩然过谷中

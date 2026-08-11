@@ -1,5 +1,6 @@
 # id: quest_wq_70518
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Благотворительная ярмарка? Сбор средств?
 # title_en: Charity Event? Securing Funds?
 # title_zh: 义卖活动？资金筹备？

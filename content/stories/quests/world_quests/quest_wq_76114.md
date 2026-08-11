@@ -1,5 +1,6 @@
 # id: quest_wq_76114
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Странный отшельник
 # title_en: The Suspicious Hermit
 # title_zh: 形迹反常的隐士

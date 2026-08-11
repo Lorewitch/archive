@@ -1,5 +1,6 @@
 # id: quest_wq_70504
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Когда доспехи сняты
 # title_en: When They Take Off Their Armor
 # title_zh: 卸去铠甲之时

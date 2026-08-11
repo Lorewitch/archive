@@ -1,5 +1,6 @@
 # id: quest_wq_76084
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лунная соната: затянувшийся резонанс
 # title_en: Moonlight Sonata: Lingering Resonance
 # title_zh: 月光奏鸣曲·遐音

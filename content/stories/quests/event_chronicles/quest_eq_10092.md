@@ -1,5 +1,6 @@
 # id: quest_eq_10092
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/summertimev2.webp
 # title_ru: Древние лазурные звёзды
 # title_en: The Ancient Azure Stars
 # title_zh: 亘古的苍星

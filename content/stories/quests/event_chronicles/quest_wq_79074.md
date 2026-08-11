@@ -1,5 +1,6 @@
 # id: quest_wq_79074
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: «Храбрый северный ветер»
 # title_en: "Brave Northerly Wind"
 # title_zh: 《勇敢的北风》

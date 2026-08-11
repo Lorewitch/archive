@@ -1,5 +1,6 @@
 # id: quest_wq_73674
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Сокровища под лозой
 # title_en: Treasures Beneath the Vines
 # title_zh: 蔓下秘宝

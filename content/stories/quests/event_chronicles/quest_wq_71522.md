@@ -1,5 +1,6 @@
 # id: quest_wq_71522
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Прорыв вдохновения
 # title_en: Inspiration Eruption
 # title_zh: 灵感喷激

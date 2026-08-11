@@ -1,5 +1,6 @@
 # id: quest_lq_10246
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/easybreezeholidayresort.webp
 # title_ru: Мир - холст!
 # title_en: The World Is Your Canvas!
 # title_zh: 畅玩！举目之处皆为画布！

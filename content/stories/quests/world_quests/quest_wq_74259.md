@@ -1,5 +1,6 @@
 # id: quest_wq_74259
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Повторное приглашение на чай: Воссоединение Ордо Нарциссенкрейц
 # title_en: Tea Party Re-Invitation: Narzissenkreuz Reunion
 # title_zh: 茶会的再邀·水仙的重聚

@@ -1,5 +1,6 @@
 # id: quest_wq_74134
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Оглашение разгадки ожидается
 # title_en: Riddles Awaiting Answers
 # title_zh: 待揭晓的谜底

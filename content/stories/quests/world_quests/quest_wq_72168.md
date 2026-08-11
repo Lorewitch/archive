@@ -1,5 +1,6 @@
 # id: quest_wq_72168
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Всеядные гурманы!
 # title_en: Gourmet Supremos, Assemble!
 # title_zh: 全能美食队！

@@ -1,5 +1,6 @@
 # id: quest_wq_71808
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Загадка Южных небесных врат
 # title_en: The Secret of Nantianmen
 # title_zh: 南天门之谜

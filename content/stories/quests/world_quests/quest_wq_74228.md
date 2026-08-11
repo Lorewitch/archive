@@ -1,5 +1,6 @@
 # id: quest_wq_74228
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дар морских духов
 # title_en: A Gift From the Sea Spirits
 # title_zh: 海精灵们的礼物

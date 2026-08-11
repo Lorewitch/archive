@@ -1,5 +1,6 @@
 # id: quest_wq_2076
 # story_group: world_quests
+# icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Неожиданное задание
 # title_en: Witch's Homework: Of the Unexpected
 # title_zh: 魔女的课业·意外之题

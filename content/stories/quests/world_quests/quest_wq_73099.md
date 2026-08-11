@@ -1,5 +1,6 @@
 # id: quest_wq_73099
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Статичные пейзажи II
 # title_en: Static Views, Part 2
 # title_zh: 静态风景·后篇

@@ -1,5 +1,6 @@
 # id: quest_wq_70822
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Спокойный день в порту Ли Юэ
 # title_en: A Quiet Day in Liyue Harbor
 # title_zh: 璃月港平静的一天

@@ -1,5 +1,6 @@
 # id: quest_wq_70555
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Особый рецепт, ставший классикой
 # title_en: A Special Blend, A Timeless Masterpiece
 # title_zh: 特调佳作，列为经典

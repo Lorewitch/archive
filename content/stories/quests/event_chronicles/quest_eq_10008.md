@@ -1,5 +1,6 @@
 # id: quest_eq_10008
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/aster.webp
 # title_ru: Вода покажет, что небо скрывает
 # title_en: What the Skies Conceal, the Water Reveals
 # title_zh: 天之谜，水之解

@@ -1,5 +1,6 @@
 # id: quest_wq_76033
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Жалобы повара
 # title_en: The Chef's Tale
 # title_zh: 厨子的诉说

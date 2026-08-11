@@ -1,5 +1,6 @@
 # id: quest_eq_10261
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/nodkraitour.webp
 # title_ru: Динь-дон-дон! Беда!
 # title_en: Dun Dun Dunnn! A Major Crisis!
 # title_zh: 铛铛铛，大危机！

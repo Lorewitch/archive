@@ -1,5 +1,6 @@
 # id: quest_wq_74653
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Берилловые ракушки для Сильви
 # title_en: Sylvie's Beryl Conch Commission
 # title_zh: 希尔维娅的苍晶螺需求

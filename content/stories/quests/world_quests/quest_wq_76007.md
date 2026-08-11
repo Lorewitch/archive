@@ -1,5 +1,6 @@
 # id: quest_wq_76007
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Смена профессии всегда вызывает беспокойство
 # title_en: The Stress of Changing Careers
 # title_zh: 转行总是令人焦虑

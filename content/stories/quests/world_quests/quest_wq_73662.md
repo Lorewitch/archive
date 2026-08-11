@@ -1,5 +1,6 @@
 # id: quest_wq_73662
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Варенье для Араеша
 # title_en: Arayesh's Jam
 # title_zh: 阿拉耶什的果酱需求

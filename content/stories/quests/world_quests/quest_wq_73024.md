@@ -1,5 +1,6 @@
 # id: quest_wq_73024
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Встреча в лесу
 # title_en: Woodland Encounter
 # title_zh: 林中奇遇

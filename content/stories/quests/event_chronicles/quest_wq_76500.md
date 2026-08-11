@@ -1,5 +1,6 @@
 # id: quest_wq_76500
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дар воспоминаний
 # title_en: A Gift of Memories
 # title_zh: 定格回忆的赠礼

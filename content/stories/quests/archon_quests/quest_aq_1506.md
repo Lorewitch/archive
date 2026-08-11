@@ -1,5 +1,6 @@
 # id: quest_aq_1506
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Пространство и время для тебя
 # title_en: A Space and Time for You
 # title_zh: 你存在的时空

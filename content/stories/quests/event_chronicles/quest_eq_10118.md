@@ -1,5 +1,6 @@
 # id: quest_eq_10118
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/penumbraadventure.webp
 # title_ru: Переполох в саду призрачных зеркал!
 # title_en: Mirage Paradise in Crisis!
 # title_zh: 蜃境乐园大危机！

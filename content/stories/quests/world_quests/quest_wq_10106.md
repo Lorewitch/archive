@@ -1,5 +1,6 @@
 # id: quest_wq_10106
 # story_group: world_quests
+# icon: assets/icons/stories/quests/gcg.webp
 # title_ru: Поле битвы дайсов, карт и котов
 # title_en: Battlefield of Dice, Cats, and Cards
 # title_zh: 骰子、猫与卡牌的战场

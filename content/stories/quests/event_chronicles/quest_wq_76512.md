@@ -1,5 +1,6 @@
 # id: quest_wq_76512
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Финал турнира, определение чемпиона
 # title_en: Final Match Concludes, Champion Decided
 # title_zh: 赛事终场，冠军落定

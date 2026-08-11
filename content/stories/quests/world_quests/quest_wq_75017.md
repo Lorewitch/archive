@@ -1,5 +1,6 @@
 # id: quest_wq_75017
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Откройте мне своё сердце
 # title_en: Open Your Heart to Me
 # title_zh: 为我敞开心扉

@@ -1,5 +1,6 @@
 # id: quest_eq_10233
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/themeparksim.webp
 # title_ru: Серия поворотов
 # title_en: A Series of Twists and Turns
 # title_zh: 一波三折的辗转

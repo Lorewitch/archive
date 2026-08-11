@@ -1,5 +1,6 @@
 # id: quest_eq_10194
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fairytales.webp
 # title_ru: До конца мира
 # title_en: Until the End of the World
 # title_zh: 直至世界尽头

@@ -1,5 +1,6 @@
 # id: quest_wq_10203
 # story_group: world_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Между обещанием и забвением
 # title_en: Between Pledge and Forgettance
 # title_zh: 在应许与遗忘之间

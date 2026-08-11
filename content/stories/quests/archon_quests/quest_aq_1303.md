@@ -1,5 +1,6 @@
 # id: quest_aq_1303
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Сны, пустота и обман
 # title_en: Dreams, Emptiness, Deception
 # title_zh: 迷梦与空幻与欺骗

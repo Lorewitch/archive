@@ -1,5 +1,6 @@
 # id: quest_wq_71830
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Дела загробные: Всё хорошо
 # title_en: Hereafter: All is Well
 # title_zh: 身后事·诸事平安

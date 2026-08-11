@@ -1,5 +1,6 @@
 # id: quest_wq_74506
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Цель: противостоять вору-пухленю!
 # title_en: Goal: Counter the "Phantom Blubberbeast!"
 # title_zh: 目标，反制「膨膨兽怪盗」！

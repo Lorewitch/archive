@@ -1,5 +1,6 @@
 # id: quest_wq_70050
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Цяоин, деревня историй
 # title_en: Qiaoying, the Village of Many Tales
 # title_zh: 故事繁多的翘英庄

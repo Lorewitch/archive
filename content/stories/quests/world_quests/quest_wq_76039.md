@@ -1,5 +1,6 @@
 # id: quest_wq_76039
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Жалобы спецотряда поддержки
 # title_en: The Special Support Squad's Tale
 # title_zh: 援助小队的诉说

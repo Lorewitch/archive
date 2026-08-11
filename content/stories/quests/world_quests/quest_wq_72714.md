@@ -1,5 +1,6 @@
 # id: quest_wq_72714
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Яйца для Рику
 # title_en: Riku's Eggy Endeavor
 # title_zh: 陆的鸟蛋需求

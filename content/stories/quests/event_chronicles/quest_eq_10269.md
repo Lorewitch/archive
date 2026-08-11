@@ -1,5 +1,6 @@
 # id: quest_eq_10269
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Среди скал
 # title_en: The Realm of Rocks
 # title_zh: 在岩间

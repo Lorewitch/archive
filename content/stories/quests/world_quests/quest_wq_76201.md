@@ -1,5 +1,6 @@
 # id: quest_wq_76201
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Исследование растений: Ночноцвет
 # title_en: Plant Research: Nocturnal Blossoms
 # title_zh: 植物调查·宿影花

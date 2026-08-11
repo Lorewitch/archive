@@ -1,5 +1,6 @@
 # id: quest_wq_40187
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заключительная строфа: Освящение Тао Доу
 # title_en: Final Stanza: The Sanctification of Tao Dou
 # title_zh: 终回：八奇炼桃都

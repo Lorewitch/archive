@@ -1,5 +1,6 @@
 # id: quest_wq_76683
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Магия прицеливания и перспективы
 # title_en: Sightlines and Camera Tricks
 # title_zh: 瞄准线与视角魔法

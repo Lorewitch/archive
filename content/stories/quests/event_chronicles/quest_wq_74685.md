@@ -1,5 +1,6 @@
 # id: quest_wq_74685
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: И снова пушки...
 # title_en: We Meet Again, Cannon...
 # title_zh: 炮炮，又见炮炮。

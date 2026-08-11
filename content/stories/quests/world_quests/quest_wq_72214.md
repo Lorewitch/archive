@@ -1,5 +1,6 @@
 # id: quest_wq_72214
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Кошка Нэко: Столовая святилища
 # title_en: Neko Is a Cat: Shrine Canteen
 # title_zh: 寝子是只猫·神社食堂

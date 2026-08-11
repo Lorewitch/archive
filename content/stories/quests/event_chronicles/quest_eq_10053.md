@@ -1,5 +1,6 @@
 # id: quest_eq_10053
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: В путь за звёздами
 # title_en: Sky-Gazers, Land-Walkers
 # title_zh: 品星观月，遍踏山河

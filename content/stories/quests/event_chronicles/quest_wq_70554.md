@@ -1,5 +1,6 @@
 # id: quest_wq_70554
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заметки почётного рыцаря о приготовлении коктейлей
 # title_en: Honorary Knight's Notes on Mixology
 # title_zh: 荣誉骑士的调饮心得

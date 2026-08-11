@@ -1,5 +1,6 @@
 # id: quest_aq_1102
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/liyue.webp
 # title_ru: Прощайте, древний лорд.
 # title_en: Farewell, Archaic Lord
 # title_zh: 辞行久远之躯

@@ -1,5 +1,6 @@
 # id: quest_lq_2064
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_shamansaurus.webp
 # title_ru: Зов Повелителей Ночного Ветра
 # title_en: Calling from the Masters of the Night-Wind
 # title_zh: 来自烟谜主的使命

@@ -1,5 +1,6 @@
 # id: quest_wq_72170
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Всеядные гурманы: глубинные ныряльщики
 # title_en: The Gourmet Supremos: The Deep Divers
 # title_zh: 全能美食队·深潜者

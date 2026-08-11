@@ -1,5 +1,6 @@
 # id: quest_eq_10030
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/goldenappleisles.webp
 # title_ru: Последняя тайна! День ответов
 # title_en: The Final Riddle: A Secret Uncovered
 # title_zh: 最终谜题！秘藏至今的答案

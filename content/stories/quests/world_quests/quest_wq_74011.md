@@ -1,5 +1,6 @@
 # id: quest_wq_74011
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Тайны «Книги Откровения»
 # title_en: Book of Esoteric Revelations
 # title_zh: 秘诲揭示之书

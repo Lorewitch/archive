@@ -1,5 +1,6 @@
 # id: quest_wq_76509
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Лунное патрулирование
 # title_en: Moonlit Patrol Exercise
 # title_zh: 月引周巡之述演

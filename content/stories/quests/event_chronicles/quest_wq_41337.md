@@ -1,5 +1,6 @@
 # id: quest_wq_41337
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Фонари прошлого и Гухуа настоящего
 # title_en: Yesteryear's Lanterns and the Guhua of Today
 # title_zh: 去年霄灯，今日古华

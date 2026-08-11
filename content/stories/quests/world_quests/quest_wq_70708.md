@@ -1,5 +1,6 @@
 # id: quest_wq_70708
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Букет Альфреда
 # title_en: Alfred's Bouquet
 # title_zh: 阿尔弗雷德的花束

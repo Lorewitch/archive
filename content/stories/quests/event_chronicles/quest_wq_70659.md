@@ -1,5 +1,6 @@
 # id: quest_wq_70659
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Классическая игра
 # title_en: A Timeless Classic
 # title_zh: 经典游戏

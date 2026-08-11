@@ -1,5 +1,6 @@
 # id: quest_wq_79073
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: «Хорошая полка»
 # title_en: "Good Shelf"
 # title_zh: 《好架子》

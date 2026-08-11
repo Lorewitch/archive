@@ -1,5 +1,6 @@
 # id: quest_wq_71824
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Праздничные обещания
 # title_en: Promises Remembered as Lanterns Rise
 # title_zh: 佳节赴旧约…？

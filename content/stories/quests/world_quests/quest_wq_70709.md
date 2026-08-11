@@ -1,5 +1,6 @@
 # id: quest_wq_70709
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Мужественный путь мужественного Джека
 # title_en: Manly Jack's Manly Journey of Manliness
 # title_zh: 男子汉杰克的男子汉之路

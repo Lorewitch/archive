@@ -1,5 +1,6 @@
 # id: quest_eq_10012
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/dragonspine.webp
 # title_ru: Налётчики в снежной пелене
 # title_en: Raiders Amidst Snow Mist
 # title_zh: 雪山上的贼影

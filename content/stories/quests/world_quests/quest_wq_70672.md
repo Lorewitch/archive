@@ -1,5 +1,6 @@
 # id: quest_wq_70672
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Гость из Ли Юэ
 # title_en: A Guest From Liyue
 # title_zh: 璃月来客

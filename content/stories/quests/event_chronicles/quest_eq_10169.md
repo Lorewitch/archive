@@ -1,5 +1,6 @@
 # id: quest_eq_10169
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/filmfest.webp
 # title_ru: Триумф «Двух мушкетёров»
 # title_en: The Two Musketeers' Triumph
 # title_zh: 两个铳枪手的凯旋

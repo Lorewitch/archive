@@ -1,5 +1,6 @@
 # id: quest_eq_10162
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Вымысел и реальность в кадре и за его пределами
 # title_en: Fiction and Reality Inside and Outside the Frame
 # title_zh: 景框内外的虚实

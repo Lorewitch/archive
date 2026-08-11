@@ -1,5 +1,6 @@
 # id: quest_wq_76225
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Повторное приглашение на чай: Коломбина
 # title_en: Tea Party Re-Invitation: Columbina
 # title_zh: 茶会的再邀·哥伦比娅

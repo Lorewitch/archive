@@ -1,5 +1,6 @@
 # id: quest_wq_70121
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Погребённое королевство
 # title_en: A Land Entombed
 # title_zh: 覆雪之国

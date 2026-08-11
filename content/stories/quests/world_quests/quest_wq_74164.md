@@ -1,5 +1,6 @@
 # id: quest_wq_74164
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Охота за сокровищами, исполняющими желания
 # title_en: Wish-Fulfilling Treasure Hunt
 # title_zh: 得偿所愿的寻宝之旅

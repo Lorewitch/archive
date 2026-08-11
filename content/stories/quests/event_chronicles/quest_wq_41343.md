@@ -1,5 +1,6 @@
 # id: quest_wq_41343
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Приключения мондштадтцев в Ли Юэ
 # title_en: Mondstadters in Liyue
 # title_zh: 蒙德人，在璃月

@@ -1,5 +1,6 @@
 # id: quest_wq_74154
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Леруа: Петля на шее
 # title_en: Leroy: Hangman's Noose
 # title_zh: 勒鲁瓦·绞索

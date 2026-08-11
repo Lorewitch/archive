@@ -1,5 +1,6 @@
 # id: quest_wq_10070
 # story_group: world_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Вимана-агама
 # title_en: Vimana Agama
 # title_zh: 吉祥具书

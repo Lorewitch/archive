@@ -1,5 +1,6 @@
 # id: quest_wq_74149
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Леруа: Предсмертное просветление
 # title_en: Leroy: Dying Flash
 # title_zh: 勒鲁瓦·回光返照

@@ -1,5 +1,6 @@
 # id: quest_lq_2013
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/venti.webp
 # title_ru: Ежели тебя не поддерживают ветра
 # title_en: Should You Be Trapped in a Windless Land
 # title_zh: 若你困于无风之地

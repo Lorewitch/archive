@@ -1,5 +1,6 @@
 # id: quest_eq_10019
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Течения под фонарями
 # title_en: Currents Deep Beneath the Lanterns
 # title_zh: 灯下暗流深

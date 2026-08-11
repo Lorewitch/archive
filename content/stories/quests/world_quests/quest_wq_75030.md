@@ -1,5 +1,6 @@
 # id: quest_wq_75030
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Период линьки
 # title_en: Molting Season
 # title_zh: 换羽时节

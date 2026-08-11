@@ -1,5 +1,6 @@
 # id: quest_wq_72707
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Хаос, вызванный монстрами
 # title_en: Monster Mayhem
 # title_zh: 魔物引起的混乱

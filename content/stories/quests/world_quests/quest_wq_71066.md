@@ -1,5 +1,6 @@
 # id: quest_wq_71066
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Украдено владельцем
 # title_en: Stolen, by the Rightful Owner
 # title_zh: 物归原主又归原主

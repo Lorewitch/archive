@@ -1,5 +1,6 @@
 # id: quest_eq_10067
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/irodori.webp
 # title_ru: Новый рисунок бледно-алой тушью
 # title_en: A New Painting in Pale Scarlet
 # title_zh: 薄墨淡朱新绘

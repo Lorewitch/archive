@@ -1,5 +1,6 @@
 # id: quest_lq_2058
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/natlan_drillhead.webp
 # title_ru: Диссонанс Тепетли
 # title_en: Tepetli Dissonance
 # title_zh: 嵴锋的异响

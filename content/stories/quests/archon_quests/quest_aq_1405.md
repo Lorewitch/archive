@@ -1,5 +1,6 @@
 # id: quest_aq_1405
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Маскарад виновных
 # title_en: Masquerade of the Guilty
 # title_zh: 罪人舞步旋

@@ -1,5 +1,6 @@
 # id: quest_wq_72184
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пицца из далёких краёв
 # title_en: Pizza From Another Land
 # title_zh: 异国的披萨

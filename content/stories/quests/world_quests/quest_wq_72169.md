@@ -1,5 +1,6 @@
 # id: quest_wq_72169
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Всеядные гурманы: прибрежные отшельники
 # title_en: The Gourmet Supremos: The Seashore Strider
 # title_zh: 全能美食队·海滩的横行者

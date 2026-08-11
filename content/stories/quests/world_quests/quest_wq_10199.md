@@ -1,5 +1,6 @@
 # id: quest_wq_10199
 # story_group: world_quests
+# icon: assets/icons/stories/quests/mooncanon.webp
 # title_ru: Гости со звёзд
 # title_en: Visitors From the Stars
 # title_zh: 天外来客

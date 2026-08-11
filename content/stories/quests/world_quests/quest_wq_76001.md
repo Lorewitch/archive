@@ -1,5 +1,6 @@
 # id: quest_wq_76001
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Отзвуки скорбного колокола
 # title_en: The Bell of Mourning Echoes
 # title_zh: 哀铃的余响

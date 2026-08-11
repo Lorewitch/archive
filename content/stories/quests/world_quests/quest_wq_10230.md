@@ -1,5 +1,6 @@
 # id: quest_wq_10230
 # story_group: world_quests
+# icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Записи о заброшенном городе
 # title_en: Chronicler of the Crumbling City
 # title_zh: 荒落之城的记述人

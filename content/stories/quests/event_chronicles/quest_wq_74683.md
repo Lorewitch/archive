@@ -1,5 +1,6 @@
 # id: quest_wq_74683
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заметки режиссёра
 # title_en: Filmmaking Notes
 # title_zh: 映影制作札记

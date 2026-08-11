@@ -1,5 +1,6 @@
 # id: quest_wq_72690
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Подворье цветов. Часть IV
 # title_en: The Floral Courtyard: Part IV
 # title_zh: 花影瑶庭·其四

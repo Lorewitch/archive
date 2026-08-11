@@ -1,5 +1,6 @@
 # id: quest_wq_74118
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вся его жизнь
 # title_en: Where His Life Lies
 # title_zh: 他的生命在那边

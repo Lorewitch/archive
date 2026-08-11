@@ -1,5 +1,6 @@
 # id: quest_wq_75238
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Небольшой подарок
 # title_en: A Small Token
 # title_zh: 小小的心意

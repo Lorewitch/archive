@@ -1,5 +1,6 @@
 # id: quest_lq_2021
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/yoimiya.webp
 # title_ru: Мечтательное безвременье
 # title_en: Dreamlike Timelessness
 # title_zh: 如梦如电的隽永

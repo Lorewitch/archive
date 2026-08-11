@@ -1,5 +1,6 @@
 # id: quest_lq_2088
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/lohen.webp
 # title_ru: Наследие рыцаря
 # title_en: A Knight's Legacy
 # title_zh: 骑士之铭

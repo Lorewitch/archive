@@ -1,5 +1,6 @@
 # id: quest_eq_10193
 # story_group: event_chronicles
+# icon: assets/icons/stories/quests/fairytales.webp
 # title_ru: Они идут по звёздам.
 # title_en: They Once Walked the Starry Sky
 # title_zh: 他们行过星空

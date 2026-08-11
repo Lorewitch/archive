@@ -1,5 +1,6 @@
 # id: quest_wq_71036
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Отблески храбрости
 # title_en: Valor's Afterglow
 # title_zh: 勇气的余晖

@@ -1,5 +1,6 @@
 # id: quest_wq_70692
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Заврискаут, вперёд!
 # title_en: Let's Go, Saury-Saury Scout!
 # title_zh: 前哨龙龙，起航！

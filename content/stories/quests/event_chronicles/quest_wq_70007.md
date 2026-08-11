@@ -1,5 +1,6 @@
 # id: quest_wq_70007
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Соблюдайте тишину!
 # title_en: "Quiet, please, this is a library!"
 # title_zh: 图书馆请安静！

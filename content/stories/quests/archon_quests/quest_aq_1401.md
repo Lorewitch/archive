@@ -1,5 +1,6 @@
 # id: quest_aq_1401
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Прелюдия белых рос и чёрных волн
 # title_en: Prelude of Blancheur and Noirceur
 # title_zh: 白露与黑潮的序诗

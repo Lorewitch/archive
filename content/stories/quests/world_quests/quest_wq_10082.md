@@ -1,5 +1,6 @@
 # id: quest_wq_10082
 # story_group: world_quests
+# icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: В конце концов, лес помнит всё
 # title_en: In the End, the Forest Will Remember
 # title_zh: 最终，森林会记住一切

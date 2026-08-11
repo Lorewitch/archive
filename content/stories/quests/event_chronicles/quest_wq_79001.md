@@ -1,5 +1,6 @@
 # id: quest_wq_79001
 # story_group: event_chronicles
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Извилистая дорога домой
 # title_en: The Winding Homeward Way
 # title_zh: 归乡漫漫路

@@ -1,5 +1,6 @@
 # id: quest_wq_71098
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Ода Гарсии
 # title_en: Garcia's Paean
 # title_zh: 加尔恰的赞歌

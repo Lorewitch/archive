@@ -1,5 +1,6 @@
 # id: quest_wq_10241
 # story_group: world_quests
+# icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Полька под луной
 # title_en: Polkka Beneath the Moon's Oracle
 # title_zh: 月谕的半步舞

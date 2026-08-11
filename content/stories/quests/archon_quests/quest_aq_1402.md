@@ -1,5 +1,6 @@
 # id: quest_aq_1402
 # story_group: archon_quests
+# icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Словно лёгкий дождь без причины
 # title_en: As Light Rain Falls Without Reason
 # title_zh: 仿若无因飘落的轻雨

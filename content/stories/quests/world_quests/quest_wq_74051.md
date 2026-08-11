@@ -1,5 +1,6 @@
 # id: quest_wq_74051
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Из троих идущих... сначала нужно отыскать учителя. Часть 1
 # title_en: In Expert Company? (I)
 # title_zh: 三人行…先寻明师·之一

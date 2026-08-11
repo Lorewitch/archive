@@ -1,5 +1,6 @@
 # id: quest_wq_74251
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Истории из прошлого
 # title_en: Stories of the Past
 # title_zh: 过去的故事

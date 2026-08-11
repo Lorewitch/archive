@@ -1,5 +1,6 @@
 # id: quest_lq_2046
 # story_group: legend_quests
+# icon: assets/icons/stories/quests/chiori.webp
 # title_ru: Когда они поговорят
 # title_en: When They Talk About Tonight
 # title_zh: 当他们谈起今夜

@@ -1,5 +1,6 @@
 # id: quest_wq_75650
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Вперёд к пылающим приключениям!
 # title_en: Toward Red-Hot Adventure!
 # title_zh: 朝着炽热的冒险！

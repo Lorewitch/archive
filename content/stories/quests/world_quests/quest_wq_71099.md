@@ -1,5 +1,6 @@
 # id: quest_wq_71099
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: На сцене и за кулисами
 # title_en: On the Stage, Behind the Stage
 # title_zh: 台上台下

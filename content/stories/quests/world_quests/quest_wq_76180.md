@@ -1,5 +1,6 @@
 # id: quest_wq_76180
 # story_group: world_quests
+# icon: assets/icons/ui/quest_icon.webp
 # title_ru: Пристанище белой голубки
 # title_en: Where the White Dove Rests
 # title_zh: 白鸽的栖处
