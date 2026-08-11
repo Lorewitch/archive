@@ -45,6 +45,7 @@ KNOWN_ENEMY_GROUPS = {
 KNOWN_ENEMY_TYPES = {"common_enemy", "world_boss", "weekly_boss", "boss"}
 KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles", "character_stories", "world_stories"}
 QUEST_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
+FORBIDDEN_QUEST_IDS = {"quest_wq_10244"}  # Internal beta/test quest; must not be published.
 KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
 KNOWN_CHARACTER_FILTERS = {"lunar_omen", "witchcraft", "star_blade"}
 KNOWN_QUEST_COLLECTIONS = {"witch_homework"}
@@ -552,17 +553,81 @@ def check_lore_corpus() -> None:
 def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
     quests = {item_id: item for item_id, item in stories.items() if item.get("story_group") in QUEST_STORY_GROUPS}
     quest_ids = set(quests)
-    expected_counts = {"archon_quests": 47, "legend_quests": 81, "world_quests": 628, "event_chronicles": 633}
-    actual_counts = Counter(str(item.get("story_group") or "") for item in quests.values())
-    if dict(actual_counts) != expected_counts:
-        fail(f"quest corpus: wrong group counts: {dict(actual_counts)}")
+
+    # The quest corpus is intentionally dynamic: new quests are added over time,
+    # so fixed per-category counts would turn every legitimate addition/removal
+    # into a CI failure. Instead, compare the generated JSON corpus with the
+    # Markdown source files by exact quest IDs.
+    generated_ids_by_group = {
+        group: {item_id for item_id, item in quests.items() if item.get("story_group") == group}
+        for group in QUEST_STORY_GROUPS
+    }
+    source_ids_by_group: dict[str, set[str]] = {group: set() for group in QUEST_STORY_GROUPS}
+    source_id_paths: dict[str, list[Path]] = {}
+
+    quests_root = ROOT / "content" / "stories" / "quests"
+    for group in sorted(QUEST_STORY_GROUPS):
+        group_dir = quests_root / group
+        if not group_dir.exists():
+            fail(f"content/stories/quests/{group}: category folder is missing")
+            continue
+
+        for path in sorted(group_dir.glob("*.md")):
+            markdown = path.read_text(encoding="utf-8")
+
+            id_match = re.search(r"^#\s*id\s*:\s*(.+?)\s*$", markdown, re.MULTILINE)
+            if not id_match:
+                fail(f"{rel(path)}: quest Markdown has no # id field")
+                continue
+            item_id = id_match.group(1).strip()
+            if not item_id:
+                fail(f"{rel(path)}: quest Markdown has an empty # id field")
+                continue
+
+            source_ids_by_group[group].add(item_id)
+            source_id_paths.setdefault(item_id, []).append(path)
+
+            group_match = re.search(r"^#\s*story_group\s*:\s*(.+?)\s*$", markdown, re.MULTILINE)
+            declared_group = group_match.group(1).strip() if group_match else ""
+            if declared_group != group:
+                fail(
+                    f"{rel(path)}: story_group={declared_group or 'пусто'}, "
+                    f"но файл лежит в категории {group}"
+                )
+
+            if item_id in FORBIDDEN_QUEST_IDS:
+                fail(f"{rel(path)}: служебный beta/test quest {item_id} не должен публиковаться")
+
+    for item_id, paths in sorted(source_id_paths.items()):
+        if len(paths) > 1:
+            locations = ", ".join(rel(path) for path in paths)
+            fail(f"quest corpus: duplicate Markdown id {item_id}: {locations}")
+
+    for item_id in sorted(FORBIDDEN_QUEST_IDS & quest_ids):
+        fail(f"data/stories/{item_id}.json: служебный beta/test quest не должен попадать в собранный архив")
+
+    # Compare source and generated data per category. This catches stale builds,
+    # accidental deletions, additions that were not rebuilt, and quests placed
+    # in the wrong category without relying on a hard-coded file count.
+    for group in sorted(QUEST_STORY_GROUPS):
+        source_ids = source_ids_by_group[group]
+        generated_ids = generated_ids_by_group[group]
+
+        missing_from_build = sorted(source_ids - generated_ids)
+        stale_in_build = sorted(generated_ids - source_ids)
+        if missing_from_build:
+            fail(
+                f"quest corpus/{group}: Markdown quests missing from generated data: "
+                + ", ".join(missing_from_build[:10])
+            )
+        if stale_in_build:
+            fail(
+                f"quest corpus/{group}: generated quests have no Markdown source: "
+                + ", ".join(stale_in_build[:10])
+            )
+
     if (DATA_DIR / "lore_corpus").exists():
         fail("data/lore_corpus: obsolete parallel JSON corpus must not exist")
-
-    for group, expected in expected_counts.items():
-        markdown_count = len(list((ROOT / "content" / "stories" / "quests" / group).glob("*.md")))
-        if markdown_count != expected:
-            fail(f"content/stories/quests/{group}: {markdown_count} Markdown files, expected {expected}")
 
     for item_id, quest in quests.items():
         owner = f"data/stories/{item_id}.json"
