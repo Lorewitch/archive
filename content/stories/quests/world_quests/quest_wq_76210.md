@@ -1,11 +1,11 @@
 # id: quest_wq_76210
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Затаившийся дракон, парящий феникс
 # title_en: Submerged Dragon, Soaring Phoenix
 # title_zh: 潜龙飞凤
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76210

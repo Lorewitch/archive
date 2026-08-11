@@ -1,11 +1,11 @@
 # id: quest_wq_10204
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/littledrillhead.webp
 # title_ru: По следам избранника драконов
 # title_en: In the Footsteps of the Chosen of Dragons
 # title_zh: 龙选者的旅迹
-# region: Тейват
+# region: Натлан
 # game_version: 5.0
 # release_versions: 5.0,5.2,5.5
 # source_id: 10204

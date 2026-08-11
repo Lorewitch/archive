@@ -5,7 +5,7 @@
 # title_ru: Элегантность? Безопасность превыше всего!
 # title_en: Elegance? Safety First!
 # title_zh: 优雅？安全第一！
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74700

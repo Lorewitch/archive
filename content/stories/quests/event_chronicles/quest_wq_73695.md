@@ -1,11 +1,11 @@
 # id: quest_wq_73695
 # story_group: event_chronicles
-# display_category: Ивент · A Parade of Providence
+# display_category: Ивент · Торжество разума
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Археологические раскопки. Заключение
 # title_en: Antiquity Hunt: Conclusion
 # title_zh: 究古考察·收尾
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73695

@@ -5,7 +5,7 @@
 # title_ru: Опасность? Не приближаться!
 # title_en: Danger? Keep Away!
 # title_zh: 危险？请勿靠近！
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74701

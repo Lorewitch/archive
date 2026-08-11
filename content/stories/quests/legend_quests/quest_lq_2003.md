@@ -6,6 +6,7 @@
 # title_en: Wind, Courage, and Wings
 # title_zh: 风、勇气和翅膀
 # region: Мондштадт
+# rarity: 4
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2003

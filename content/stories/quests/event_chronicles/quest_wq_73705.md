@@ -1,11 +1,11 @@
 # id: quest_wq_73705
 # story_group: event_chronicles
-# display_category: Ивент · Ruins Exploration: Fieldwise Center
+# display_category: Ивент · Исследование руин: Верный путь
 # icon: assets/icons/stories/quests/ruins_exploration_fieldwise_center.webp
 # title_ru: Центр полевых исследований, только вперёд!
 # title_en: Fieldwise Mastery, Unyielding Progress!
 # title_zh: 稳健知行，完备冲刺！
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 73705

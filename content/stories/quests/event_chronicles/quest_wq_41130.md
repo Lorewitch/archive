@@ -1,6 +1,6 @@
 # id: quest_wq_41130
 # story_group: event_chronicles
-# display_category: Ивент · Unreconciled Stars
+# display_category: Ивент · Заблудшие звёзды
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Осада Цинцэ
 # title_en: The Siege of Qingce

@@ -1,11 +1,11 @@
 # id: quest_wq_70512
 # story_group: event_chronicles
-# display_category: Ивент · Hidden Strife
+# display_category: Ивент · Тайная война
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Призраки прошлого
 # title_en: Phantom of the Past
 # title_zh: 往日的谜影
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 70512

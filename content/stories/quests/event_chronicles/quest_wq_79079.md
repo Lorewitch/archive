@@ -1,11 +1,11 @@
 # id: quest_wq_79079
 # story_group: event_chronicles
-# display_category: Ивент · Summertide Scales and Tales
+# display_category: Ивент · Лето! Драконы? Сказка!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Финал текста
 # title_en: Text's Coda
 # title_zh: 正文的尾声
-# region: Тейват
+# region: Иной мир
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 79079

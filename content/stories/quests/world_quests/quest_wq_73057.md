@@ -1,11 +1,11 @@
 # id: quest_wq_73057
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Старый друг Аранакина
 # title_en: Aranakin's Old Friend
 # title_zh: 兰纳真的老友
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73057
@@ -15,8 +15,8 @@
 # part_source_ids: 73057
 # previous_quests:
 # next_quests: quest_wq_73059
-# related_quests: quest_wq_73056,quest_wq_73058,quest_wq_73059
-# quest_chain: quest_wq_73056,quest_wq_73057,quest_wq_73058,quest_wq_73059
+# related_quests:
+# quest_chain: quest_wq_73057
 # quest_series:
 # version_source: wiki_release_category
 

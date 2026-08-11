@@ -5,7 +5,7 @@
 # title_ru: Восемь мест от гор до морей
 # title_en: Eight Locales Over Mountains and Seas
 # title_zh: 山海八所巡礼
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72674

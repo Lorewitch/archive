@@ -1,11 +1,11 @@
 # id: quest_wq_74019
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Хорошие вещи в неумелых руках
 # title_en: Good Stuff, but Terrible Taste
 # title_zh: 好东西，坏品味
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74019
@@ -15,8 +15,8 @@
 # part_source_ids: 74019
 # previous_quests:
 # next_quests: quest_wq_74023
-# related_quests: quest_wq_74015,quest_wq_74020,quest_wq_74021,quest_wq_74022,quest_wq_74023
-# quest_chain: quest_wq_74015,quest_wq_74019,quest_wq_74020,quest_wq_74021,quest_wq_74022,quest_wq_74023
+# related_quests:
+# quest_chain: quest_wq_74019
 # quest_series:
 # version_source: wiki_release_category
 

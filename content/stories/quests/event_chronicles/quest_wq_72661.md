@@ -1,11 +1,11 @@
 # id: quest_wq_72661
 # story_group: event_chronicles
-# display_category: Ивент · Lunar Realm
+# display_category: Ивент · Лунное королевство
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Доверяю вам моё нежное горе
 # title_en: To Thee My Tender Grief Confide
 # title_zh: 我本将心
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72661
@@ -421,4 +421,3 @@ What do you plan to do then?
 **鲸井椛:** 我现在回去找父亲留下的物品，他追逐「海中月」一生，留下了很多资料。一定能在里面找到办法。
 
 **鲸井椛:** 我为你准备了一些钓鱼训练，请等我的好消息吧，到时候还要拜托你。
-

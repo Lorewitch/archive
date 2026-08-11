@@ -5,7 +5,7 @@
 # title_ru: Длинный и беззаботный отпуск библиотекаря
 # title_en: A Librarian's Long and Carefree Vacation
 # title_zh: 图书管理员的悠长假期
-# region: Тейват
+# region: Сумеру
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 73506

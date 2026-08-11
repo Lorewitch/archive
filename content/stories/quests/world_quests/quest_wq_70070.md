@@ -5,7 +5,7 @@
 # title_ru: Неожиданное поручение: Эпилог
 # title_en: Unexpected Commission: Epilogue
 # title_zh: 意料之外的委托·尾声
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70070

@@ -1,11 +1,11 @@
 # id: quest_wq_74677
 # story_group: event_chronicles
-# display_category: Ивент · Dance of Resolute Will
+# display_category: Ивент · Танец непреклонной решимости
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Искусство изящного танца с мечом?
 # title_en: The Art of the Elegant Blade Dance?
 # title_zh: 优雅剑舞的艺术？
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74677

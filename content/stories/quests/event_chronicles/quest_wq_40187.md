@@ -1,11 +1,11 @@
 # id: quest_wq_40187
 # story_group: event_chronicles
-# display_category: Ивент · Springtime Charms
+# display_category: Ивент · Талисманы весны
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Заключительная строфа: Освящение Тао Доу
 # title_en: Final Stanza: The Sanctification of Tao Dou
 # title_zh: 终回：八奇炼桃都
-# region: Тейват
+# region: Ли Юэ
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 40187

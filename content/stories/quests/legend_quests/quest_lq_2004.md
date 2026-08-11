@@ -6,6 +6,7 @@
 # title_en: Troublesome Work
 # title_zh: 麻烦的工作
 # region: Мондштадт
+# rarity: 4
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2004

@@ -1,11 +1,11 @@
 # id: quest_wq_10086
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/firmament.webp
 # title_ru: Волшебная гора
 # title_en: Magic Mountain
 # title_zh: 魔山
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 10086

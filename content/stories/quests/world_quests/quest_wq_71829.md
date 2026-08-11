@@ -1,11 +1,11 @@
 # id: quest_wq_71829
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Блюдо за пределами человеческих познаний
 # title_en: A Dish Beyond Mortal Ken
 # title_zh: 此菜不应人间有
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 71829

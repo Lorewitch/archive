@@ -1,11 +1,11 @@
 # id: quest_wq_10058
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Особый гадальный листок
 # title_en: The Very Special Fortune Slip
 # title_zh: 特别的御神签
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 10058

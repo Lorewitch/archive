@@ -1,11 +1,11 @@
 # id: quest_wq_71541
 # story_group: event_chronicles
-# display_category: Ивент · Springtime Charms
+# display_category: Ивент · Талисманы весны
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Военная игра под фонарями
 # title_en: Drills by Lamplight
 # title_zh: 灯下演武
-# region: Тейват
+# region: Ли Юэ
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 71541

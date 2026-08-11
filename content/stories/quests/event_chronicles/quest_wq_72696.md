@@ -5,7 +5,7 @@
 # title_ru: Хороши у нас игрушки: Заряд ядра
 # title_en: A-Toymaking We Shall Go: Core Propulsion
 # title_zh: 进军玩具市场·核心动力
-# region: Тейват
+# region: Инадзума
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 72696

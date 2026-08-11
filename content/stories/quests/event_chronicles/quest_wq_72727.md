@@ -5,7 +5,7 @@
 # title_ru: Хякунин икки: Арена Наруками
 # title_en: Hyakunin Ikki: Narukami Arena
 # title_zh: 「百人一揆·鸣神擂台」
-# region: Тейват
+# region: Инадзума
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 72727

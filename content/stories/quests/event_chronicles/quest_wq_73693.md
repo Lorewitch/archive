@@ -1,11 +1,11 @@
 # id: quest_wq_73693
 # story_group: event_chronicles
-# display_category: Ивент · A Parade of Providence
+# display_category: Ивент · Торжество разума
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Компендиум зельеварения
 # title_en: Concocted Reaction
 # title_zh: 药剂应对法
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73693

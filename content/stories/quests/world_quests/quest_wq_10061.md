@@ -1,11 +1,11 @@
 # id: quest_wq_10061
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Подорожная грамота острова Рито
 # title_en: Ritou Travel Permit
 # title_zh: 离岛通行凭证
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 10061

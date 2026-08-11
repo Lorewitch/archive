@@ -1,11 +1,11 @@
 # id: quest_wq_71515
 # story_group: event_chronicles
-# display_category: Ивент · The Exquisite Night Chimes
+# display_category: Ивент · Ночная гармония струн
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Вступительная беседа
 # title_en: A Few Words in the Foreground
 # title_zh: 幕前二三言
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 71515

@@ -1,11 +1,11 @@
 # id: quest_wq_79026
 # story_group: event_chronicles
-# display_category: Ивент · Summertime Odyssey
+# display_category: Ивент · Летнее морское путешествие
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Драматическая фантасмагория: Сказание о принцессе с мечом
 # title_en: Drama Phantasmagoria: Tale of the Sword-Wielding Princess!
 # title_zh: 极夜幻想剧·王女执剑记！
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 79026

@@ -5,7 +5,7 @@
 # title_ru: Взлёты и падения
 # title_en: The Peaks and Troughs of Life
 # title_zh: 人生的波峰与波谷
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74671

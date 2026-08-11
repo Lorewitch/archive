@@ -6,6 +6,7 @@
 # title_en: Bookworm Swordsman
 # title_zh: 江湖不问出处
 # region: Ли Юэ
+# rarity: 4
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2008

@@ -1,11 +1,11 @@
 # id: quest_wq_41337
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite Tales
+# display_category: Ивент · Истории Праздника морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Фонари прошлого и Гухуа настоящего
 # title_en: Yesteryear's Lanterns and the Guhua of Today
 # title_zh: 去年霄灯，今日古华
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 41337

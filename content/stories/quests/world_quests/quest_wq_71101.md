@@ -1,11 +1,11 @@
 # id: quest_wq_71101
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Ход времён под сенью веера
 # title_en: The Tales Behind the Fan
 # title_zh: 扇底春秋
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71101

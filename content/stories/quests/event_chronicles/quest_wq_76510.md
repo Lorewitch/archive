@@ -1,11 +1,11 @@
 # id: quest_wq_76510
 # story_group: event_chronicles
-# display_category: Ивент · Moonlit Patrol Exercise
+# display_category: Ивент · Учения лунного патруля
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Конец беззаботного отдыха
 # title_en: End of a Leisurely Holiday
 # title_zh: 悠闲假日的尾声
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76510

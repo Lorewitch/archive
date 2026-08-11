@@ -1,11 +1,11 @@
 # id: quest_wq_74684
 # story_group: event_chronicles
-# display_category: Ивент · Specially-Shaped Saurian Search
+# display_category: Ивент · Хроники поисков ящера особой формы
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Хроники поисков: Послесловие
 # title_en: Search Chronicle: Afterword
 # title_zh: 参寻战记·后日谈
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 74684

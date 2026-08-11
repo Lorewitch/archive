@@ -6,6 +6,7 @@
 # title_en: The Spindrift Shall Never Return to the Sea
 # title_zh: 浪花不再归海
 # region: Мондштадт
+# rarity: 5
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 2019

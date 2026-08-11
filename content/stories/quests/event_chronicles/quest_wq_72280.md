@@ -1,11 +1,11 @@
 # id: quest_wq_72280
 # story_group: event_chronicles
-# display_category: Ивент · Festival Deeds
+# display_category: Ивент · Праздничные дела
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Руководство покупателя статуэтки её превосходительства Наруками Огосё, Электро Архонта
 # title_en: Buyer's Guide to the Statue of Her Excellency, the Almighty Narukami Ogosho, God of Thunder
 # title_zh: 「御建鸣神主尊大御所大人像」购入须知
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72280
@@ -15,8 +15,8 @@
 # part_source_ids: 72280
 # previous_quests:
 # next_quests:
-# related_quests:
-# quest_chain: quest_wq_72280
+# related_quests: quest_wq_72278,quest_wq_72279,quest_wq_72281
+# quest_chain: quest_wq_72278,quest_wq_72279,quest_wq_72280,quest_wq_72281
 # quest_series: Festival Deeds || Hues of the Violet Garden
 # version_source: wiki_release_category
 

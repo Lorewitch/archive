@@ -6,6 +6,7 @@
 # title_en: Beyond This World's Stars
 # title_zh: 在此世的星空之外
 # region: Мондштадт
+# rarity: 5
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2010

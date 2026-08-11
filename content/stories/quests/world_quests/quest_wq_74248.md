@@ -1,11 +1,11 @@
 # id: quest_wq_74248
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Лучшие истории к чаю
 # title_en: Stories Make the Best Pastries
 # title_zh: 故事乃最好的茶点
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74248

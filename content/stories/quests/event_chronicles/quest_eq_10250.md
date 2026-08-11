@@ -5,7 +5,7 @@
 # title_ru: Если забудешь путь в мир грёз
 # title_en: If You Should Forget the Entrance to Dreams
 # title_zh: 若你遗忘梦的入口
-# region: Тейват
+# region: Инадзума
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10250

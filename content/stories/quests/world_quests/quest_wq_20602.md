@@ -1,11 +1,11 @@
 # id: quest_wq_20602
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Не упусти!
 # title_en: Not to be Missed
 # title_zh: 机不可失
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 20602
@@ -15,8 +15,8 @@
 # part_source_ids: 20602
 # previous_quests:
 # next_quests: quest_wq_70813
-# related_quests: quest_wq_20603,quest_wq_70813
-# quest_chain: quest_wq_20602,quest_wq_20603,quest_wq_70813
+# related_quests:
+# quest_chain: quest_wq_20602
 # quest_series:
 # version_source: wiki_release_category
 

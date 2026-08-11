@@ -5,7 +5,7 @@
 # title_ru: Восемь мест от гор до морей: Думы одинокой горы
 # title_en: Eight Locales Over Mountains and Seas: Soliloquy of Distant Island Peaks
 # title_zh: 山海八所巡礼·远岛孤山独语
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72675

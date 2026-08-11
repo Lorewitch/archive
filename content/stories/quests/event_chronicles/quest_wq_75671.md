@@ -5,7 +5,7 @@
 # title_ru: Зяблики всё равно самые милые
 # title_en: Finches Are Still the Cutest
 # title_zh: 团雀还会最可爱
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 75671

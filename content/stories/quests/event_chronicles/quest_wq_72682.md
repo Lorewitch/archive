@@ -5,7 +5,7 @@
 # title_ru: Хякунин икки: Золотое торнадо
 # title_en: Hyakunin Ikki: Golden Whirlwind
 # title_zh: 「百人一揆·黄金旋风」
-# region: Тейват
+# region: Инадзума
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 72682

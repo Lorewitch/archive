@@ -6,6 +6,7 @@
 # title_en: Butterfly's Dream
 # title_zh: 槐柯胡蝶，傩佑之梦
 # region: Ли Юэ
+# rarity: 5
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 2011

@@ -1,11 +1,11 @@
 # id: quest_wq_75147
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследователь древних руин
 # title_en: Investigator of Ancient Ruins
 # title_zh: 古遗迹的调查者
-# region: Тейват
+# region: Натлан
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75147

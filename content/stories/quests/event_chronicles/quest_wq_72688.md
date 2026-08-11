@@ -1,11 +1,11 @@
 # id: quest_wq_72688
 # story_group: event_chronicles
-# display_category: Ивент · Hues of the Violet Garden
+# display_category: Ивент · Краски фиалкового сада
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Подворье цветов. Часть II
 # title_en: The Floral Courtyard: Part II
 # title_zh: 花影瑶庭·其二
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72688

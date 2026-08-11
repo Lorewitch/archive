@@ -1,11 +1,11 @@
 # id: quest_wq_76218
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Приглашение от леди
 # title_en: A Lady's Invitation
 # title_zh: 淑女之邀
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76218

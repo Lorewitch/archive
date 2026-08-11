@@ -6,6 +6,7 @@
 # title_en: A Knight's Legacy
 # title_zh: 骑士之铭
 # region: Мондштадт
+# rarity: 5
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 2088

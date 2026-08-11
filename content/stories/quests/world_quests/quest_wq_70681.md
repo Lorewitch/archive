@@ -1,11 +1,11 @@
 # id: quest_wq_70681
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Зов мистических боевых искусств
 # title_en: The Call of Mystical Martial Arts
 # title_zh: 神秘武学的召唤
-# region: Тейват
+# region: Мондштадт
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 70681

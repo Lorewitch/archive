@@ -1,11 +1,11 @@
 # id: quest_wq_73209
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Подаренная роза: Забвению не бывать
 # title_en: A Gifted Rose: Some People Never Fade Away
 # title_zh: 献给某人的蔷薇·曾有人战胜消逝
-# region: Тейват
+# region: Сумеру
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73209
@@ -15,8 +15,8 @@
 # part_source_ids: 73209
 # previous_quests: quest_wq_73207
 # next_quests:
-# related_quests: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207
-# quest_chain: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
+# related_quests: quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207
+# quest_chain: quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
 # quest_series: A Gifted Rose
 # version_source: wiki_release_category
 

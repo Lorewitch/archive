@@ -1,11 +1,11 @@
 # id: quest_wq_73675
 # story_group: event_chronicles
-# display_category: Ивент · Star-Seeker's Sojourn
+# display_category: Ивент · Путешествие искателя звёзд
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Где падают звёзды будущего
 # title_en: Where the Future Stars Fall
 # title_zh: 未来星坠落的地方
-# region: Тейват
+# region: Сумеру
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73675

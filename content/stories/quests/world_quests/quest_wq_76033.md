@@ -1,11 +1,11 @@
 # id: quest_wq_76033
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Жалобы повара
 # title_en: The Chef's Tale
 # title_zh: 厨子的诉说
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76033

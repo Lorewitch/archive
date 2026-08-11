@@ -5,7 +5,7 @@
 # title_ru: Разрозненное прошлое
 # title_en: The Scattered Past
 # title_zh: 溯及以往
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 10084

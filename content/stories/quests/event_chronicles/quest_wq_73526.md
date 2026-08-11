@@ -1,11 +1,11 @@
 # id: quest_wq_73526
 # story_group: event_chronicles
-# display_category: Ивент · Secret Summer Paradise
+# display_category: Ивент · Лето! Парк развлечений? Мираж!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Королева Фантастических Игрушек и Ревущая лисичка
 # title_en: The Phantom Toy Master and the Barking Fox
 # title_zh: 「幻之玩具王」和「吼吼小狐」
-# region: Тейват
+# region: Иной мир
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73526

@@ -5,7 +5,7 @@
 # title_ru: Наука о свете и тени: Фонтан очарования
 # title_en: Studies in Light and Shadow: A Fontaine of Enchantment
 # title_zh: 光影研学·旖旎水界
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74669

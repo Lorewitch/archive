@@ -1,11 +1,11 @@
 # id: quest_wq_74114
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Из троих идущих... сначала нужно отыскать учителя. Часть 2
 # title_en: In Expert Company? (II)
 # title_zh: 三人行…先寻明师·之二
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74114
@@ -15,8 +15,8 @@
 # part_source_ids: 74114
 # previous_quests: quest_wq_74051
 # next_quests: quest_wq_71114
-# related_quests: quest_wq_74051,quest_wq_71114
-# quest_chain: quest_wq_74051,quest_wq_74114,quest_wq_71114
+# related_quests:
+# quest_chain: quest_wq_74114
 # quest_series:
 # version_source: wiki_release_category
 

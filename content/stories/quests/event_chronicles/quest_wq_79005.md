@@ -1,11 +1,11 @@
 # id: quest_wq_79005
 # story_group: event_chronicles
-# display_category: Ивент · Midsummer Island Adventure
+# display_category: Ивент · Лето! Остров? Приключение!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Путешествие сквозь туман и ветер
 # title_en: A Trip Through Fog and Wind
 # title_zh: 雾与风的旅行
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 79005

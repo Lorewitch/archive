@@ -1,11 +1,11 @@
 # id: quest_wq_74043
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: По-прежнему невозможно удержаться!
 # title_en: Still Mouthwatering!
 # title_zh: 依旧让人垂涎欲滴！
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74043
@@ -15,8 +15,8 @@
 # part_source_ids: 74043
 # previous_quests: quest_wq_74121
 # next_quests:
-# related_quests: quest_wq_74121
-# quest_chain: quest_wq_74121,quest_wq_74043
+# related_quests:
+# quest_chain: quest_wq_74043
 # quest_series:
 # version_source: wiki_release_category
 

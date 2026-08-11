@@ -5,7 +5,7 @@
 # title_ru: Резонанс кристаллов
 # title_en: Vibro-Crystal Projections
 # title_zh: 振晶射影
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71664

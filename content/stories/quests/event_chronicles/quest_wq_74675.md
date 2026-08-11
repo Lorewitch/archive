@@ -1,11 +1,11 @@
 # id: quest_wq_74675
 # story_group: event_chronicles
-# display_category: Ивент · Roses and Muskets
+# display_category: Ивент · Розы и мушкеты
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Прибытие аквабуса на станцию!
 # title_en: The Arrival of a...!
 # title_zh: 进站！
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74675

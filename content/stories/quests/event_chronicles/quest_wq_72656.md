@@ -5,7 +5,7 @@
 # title_ru: Театр Механикус
 # title_en: Theater Mechanicus
 # title_zh: 机关棋谭
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72656

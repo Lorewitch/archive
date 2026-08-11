@@ -1,11 +1,11 @@
 # id: quest_wq_76115
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Когда пыль осела
 # title_en: The Dust Settles
 # title_zh: 尘埃落定
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76115
@@ -15,8 +15,8 @@
 # part_source_ids: 76115
 # previous_quests: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76114
 # next_quests:
-# related_quests: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76114
-# quest_chain: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76114,quest_wq_76115
+# related_quests:
+# quest_chain: quest_wq_76115
 # quest_series:
 # version_source: wiki_release_category
 

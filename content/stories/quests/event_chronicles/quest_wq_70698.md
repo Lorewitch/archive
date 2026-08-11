@@ -1,11 +1,11 @@
 # id: quest_wq_70698
 # story_group: event_chronicles
-# display_category: Ивент · Soulblazers' Snowbound Journey
+# display_category: Ивент · Снежное путешествие Пылких Сердец
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Приглашение от Рыцаря Искорки
 # title_en: An Invitation From the Spark Knight
 # title_zh: 来自火花骑士的邀请
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70698

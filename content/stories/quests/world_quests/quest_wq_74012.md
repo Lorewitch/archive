@@ -1,11 +1,11 @@
 # id: quest_wq_74012
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: В поисках прошлого: Запад
 # title_en: In Search of Lost Time: West
 # title_zh: 往事追迹·西
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74012
@@ -15,8 +15,8 @@
 # part_source_ids: 74012
 # previous_quests:
 # next_quests: quest_wq_74041
-# related_quests: quest_wq_74014,quest_wq_74054,quest_wq_74041
-# quest_chain: quest_wq_74012,quest_wq_74014,quest_wq_74054,quest_wq_74041
+# related_quests:
+# quest_chain: quest_wq_74012
 # quest_series:
 # version_source: wiki_release_category
 

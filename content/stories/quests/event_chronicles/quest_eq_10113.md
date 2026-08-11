@@ -5,7 +5,7 @@
 # title_ru: Дуэль начинается! Первые подозрения
 # title_en: Commence! A Suspect Genesis
 # title_zh: 局开！疑云陡生
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 10113

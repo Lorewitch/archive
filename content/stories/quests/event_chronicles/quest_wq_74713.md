@@ -5,7 +5,7 @@
 # title_ru: Под водой что-то не так?
 # title_en: Something's Wrong With the Water
 # title_zh: 水域状况不太妙？
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74713

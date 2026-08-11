@@ -1,11 +1,11 @@
 # id: quest_wq_73531
 # story_group: event_chronicles
-# display_category: Ивент · Fayz Trials/2024-03-22
+# display_category: Ивент · Большие дебаты о реакции Фаиз
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Доложите о результатах эксперимента
 # title_en: Report the Experimental Data
 # title_zh: 汇报实验数据
-# region: Тейват
+# region: Сумеру
 # game_version: 4.5
 # release_versions: 4.5
 # source_id: 73531

@@ -1,11 +1,11 @@
 # id: quest_wq_73207
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Подаренная роза: Баллада ушедших дней
 # title_en: A Gifted Rose: Ballad of Days Gone By
 # title_zh: 献给某人的蔷薇·来自往日的歌谣
-# region: Тейват
+# region: Сумеру
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73207
@@ -15,8 +15,8 @@
 # part_source_ids: 73207
 # previous_quests: quest_wq_73206
 # next_quests: quest_wq_73209
-# related_quests: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73209
-# quest_chain: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
+# related_quests: quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73209
+# quest_chain: quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
 # quest_series: A Gifted Rose
 # version_source: wiki_release_category
 

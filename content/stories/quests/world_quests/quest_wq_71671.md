@@ -1,11 +1,11 @@
 # id: quest_wq_71671
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Оборонительная стратегия
 # title_en: A Defensive Strategy
 # title_zh: 据守的规划
-# region: Тейват
+# region: Ли Юэ
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 71671

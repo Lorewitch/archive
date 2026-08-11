@@ -1,11 +1,11 @@
 # id: quest_wq_71500
 # story_group: event_chronicles
-# display_category: Ивент · Moonlight Merriment
+# display_category: Ивент · Лунное утешение
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Курс машинной кулинарии I
 # title_en: Contraption-Contrived Cooking Course: Part I
 # title_zh: 机关烹饪之法·之一
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 71500

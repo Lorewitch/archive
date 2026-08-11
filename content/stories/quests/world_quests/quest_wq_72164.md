@@ -1,11 +1,11 @@
 # id: quest_wq_72164
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Кошка Нэко: Генеральная уборка в святилище
 # title_en: Neko Is a Cat: Shrine Cleanup
 # title_zh: 寝子是只猫·神社大扫除
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72164

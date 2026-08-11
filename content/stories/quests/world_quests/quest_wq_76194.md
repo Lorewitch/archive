@@ -1,11 +1,11 @@
 # id: quest_wq_76194
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование минералов: Радужный кристалл
 # title_en: Mineral Research: Rainbowdrop Crystals
 # title_zh: 矿物调查·虹滴晶
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76194

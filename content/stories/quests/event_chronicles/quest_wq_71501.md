@@ -5,7 +5,7 @@
 # title_ru: По уши в приключениях
 # title_en: A Muddy Bizarre Adventure
 # title_zh: 深泥奇谭
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71501

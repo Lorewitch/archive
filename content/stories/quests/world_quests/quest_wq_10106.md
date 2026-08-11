@@ -1,11 +1,11 @@
 # id: quest_wq_10106
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/gcg.webp
 # title_ru: Поле битвы дайсов, карт и котов
 # title_en: Battlefield of Dice, Cats, and Cards
 # title_zh: 骰子、猫与卡牌的战场
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 10106
@@ -15,8 +15,8 @@
 # part_source_ids: 70665
 # previous_quests:
 # next_quests: quest_wq_70672
-# related_quests: quest_wq_70526,quest_wq_70672
-# quest_chain: quest_wq_10106,quest_wq_70526,quest_wq_70672
+# related_quests:
+# quest_chain: quest_wq_10106
 # quest_series: Battlefield of Dice, Cats, and Cards
 # version_source: wiki_release_category
 

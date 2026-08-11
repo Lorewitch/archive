@@ -15,8 +15,8 @@
 # part_source_ids: 72145,72146,72147,72148,72149
 # previous_quests:
 # next_quests: quest_wq_72233
-# related_quests: quest_wq_72233,quest_wq_10055
-# quest_chain: quest_wq_10031,quest_wq_72233,quest_wq_10055
+# related_quests:
+# quest_chain: quest_wq_10031
 # quest_series:
 # version_source: wiki_release_category
 

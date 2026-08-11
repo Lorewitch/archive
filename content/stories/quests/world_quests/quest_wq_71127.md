@@ -1,11 +1,11 @@
 # id: quest_wq_71127
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Застланный облаками путь к Обители Чиван
 # title_en: The Cloud-Padded Path to the Chiwang Repose
 # title_zh: 赤望所居，锦落云程
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71127

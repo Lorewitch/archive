@@ -5,7 +5,7 @@
 # title_ru: Честная реклама
 # title_en: An Honest Promotion
 # title_zh: 善良促销
-# region: Тейват
+# region: Натлан
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75651

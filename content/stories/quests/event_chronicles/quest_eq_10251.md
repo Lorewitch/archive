@@ -5,7 +5,7 @@
 # title_ru: Неугасающая магия
 # title_en: The Magic That Never Fails
 # title_zh: 永不失效的魔法
-# region: Тейват
+# region: Инадзума
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10251

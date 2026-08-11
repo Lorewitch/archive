@@ -5,7 +5,7 @@
 # title_ru: Восемь мест от гор до морей: Пылающая поэзия
 # title_en: Eight Locales Over Mountains and Seas: Blazing Poetry
 # title_zh: 山海八所巡礼·炎炎连歌百韵
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72677

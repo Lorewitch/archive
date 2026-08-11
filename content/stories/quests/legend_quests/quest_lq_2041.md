@@ -6,6 +6,7 @@
 # title_en: The Remains of the Past Day
 # title_zh: 往日留痕
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 2041

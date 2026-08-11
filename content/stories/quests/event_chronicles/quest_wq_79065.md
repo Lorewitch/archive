@@ -1,11 +1,11 @@
 # id: quest_wq_79065
 # story_group: event_chronicles
-# display_category: Ивент · Summertide Scales and Tales
+# display_category: Ивент · Лето! Драконы? Сказка!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Лотос и чемпион
 # title_en: The Lotus Leaf and the Champion
 # title_zh: 荷叶与冠军
-# region: Тейват
+# region: Иной мир
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 79065

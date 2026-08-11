@@ -6,6 +6,7 @@
 # title_en: Dreamlike Timelessness
 # title_zh: 如梦如电的隽永
 # region: Инадзума
+# rarity: 5
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 2021

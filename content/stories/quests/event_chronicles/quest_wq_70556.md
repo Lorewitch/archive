@@ -1,11 +1,11 @@
 # id: quest_wq_70556
 # story_group: event_chronicles
-# display_category: Ивент · Homeward, He Who Caught the Wind
+# display_category: Ивент · Возвращение ловца ветра
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Лётное испытание: Новые высоты
 # title_en: Gliding Challenge: New Heights
 # title_zh: 飞行挑战·全新演绎
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 70556

@@ -6,6 +6,7 @@
 # title_en: Star-Pickers' Passage
 # title_zh: 拾星之旅
 # region: Инадзума
+# rarity: 5
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 2038

@@ -1,11 +1,11 @@
 # id: quest_wq_71653
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Мы встретились вновь, печальный господин
 # title_en: We Meet Again, Mr. Melancholy
 # title_zh: 与忧郁先生的再会
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 71653

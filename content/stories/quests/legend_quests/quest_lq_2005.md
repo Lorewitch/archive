@@ -6,6 +6,7 @@
 # title_en: The Meaning of Lupical
 # title_zh: 卢皮卡的意义
 # region: Мондштадт
+# rarity: 4
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2005

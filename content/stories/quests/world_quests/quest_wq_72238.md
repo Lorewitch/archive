@@ -1,11 +1,11 @@
 # id: quest_wq_72238
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Проблеск в Белой ночи
 # title_en: A Glimpse Into the Pale Night
 # title_zh: 窥见白夜
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72238

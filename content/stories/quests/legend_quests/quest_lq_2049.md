@@ -6,6 +6,7 @@
 # title_en: Oathkeeper
 # title_zh: 守诺者
 # region: Сумеру
+# rarity: 5
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 2049
@@ -15,8 +16,8 @@
 # part_source_ids: 13035,13036,13037,13038,13039
 # previous_quests:
 # next_quests:
-# related_quests:
-# quest_chain: quest_lq_2049
+# related_quests: quest_lq_2032
+# quest_chain: quest_lq_2032,quest_lq_2049
 # quest_series: Lupus Aureus Chapter
 # version_source: wiki_release_category
 

@@ -1,11 +1,11 @@
 # id: quest_wq_70816
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Одиночное приключение
 # title_en: Solo Venture
 # title_zh: 孤身犯险
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70816

@@ -5,7 +5,7 @@
 # title_ru: Куда направятся члены тайной организации?
 # title_en: Whither Shall a Member of a "Secret Organization" Go?
 # title_zh: 「秘密组织」的成员将要去向何方
-# region: Тейват
+# region: Натлан
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 75507

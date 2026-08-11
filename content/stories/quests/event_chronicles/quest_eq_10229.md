@@ -5,7 +5,7 @@
 # title_ru: Поручение Куратория тайн
 # title_en: A Commission From the Curatorium of Secrets
 # title_zh: 来自秘闻馆的委托
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 10229

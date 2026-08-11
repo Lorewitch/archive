@@ -1,11 +1,11 @@
 # id: quest_wq_72685
 # story_group: event_chronicles
-# display_category: Ивент · Hues of the Violet Garden
+# display_category: Ивент · Краски фиалкового сада
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Театр Механикус: Этап искусности
 # title_en: Theater Mechanicus: Stage of Brilliance
 # title_zh: 机关棋谭·巧策之局
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72685

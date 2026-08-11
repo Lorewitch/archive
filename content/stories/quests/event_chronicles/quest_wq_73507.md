@@ -1,11 +1,11 @@
 # id: quest_wq_73507
 # story_group: event_chronicles
-# display_category: Ивент · Fungus Mechanicus
+# display_category: Ивент · Грибомеханикус
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Старые друзья и новая игра
 # title_en: Old Friends, New Game
 # title_zh: 老朋友和新游戏
-# region: Тейват
+# region: Сумеру
 # game_version: 3.5
 # release_versions: 3.5
 # source_id: 73507

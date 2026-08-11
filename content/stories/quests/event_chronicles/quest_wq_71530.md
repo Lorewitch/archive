@@ -1,11 +1,11 @@
 # id: quest_wq_71530
 # story_group: event_chronicles
-# display_category: Ивент · Vibrant Harriers Aloft in Spring Breeze
+# display_category: Ивент · Яркие птицы в весеннем небе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Просто танцуй Ушоу!
 # title_en: Just Wushou Dance!
 # title_zh: 碰碰舞兽戏！
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71530

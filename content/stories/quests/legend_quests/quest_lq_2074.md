@@ -6,6 +6,7 @@
 # title_en: Treasured Above All
 # title_zh: 珍上至珍
 # region: Фонтейн
+# rarity: 5
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 2074

@@ -218,18 +218,19 @@ function renderCatalogCardVersion(item) {
 
 function renderCatalogCardMedia(item) {
   const icon = iconFor(item);
+  const rarityClass = entryRarityBackgroundClass(item);
+  const mediaClass = ["catalog-card-media", rarityClass].filter(Boolean).join(" ");
   const iconClass = [
     "catalog-card-img",
-    entryRarityBackgroundClass(item),
     isCharacterStoryEntry(item) ? "is-person" : "",
   ].filter(Boolean).join(" ");
 
   if (!icon) {
-    return `<span class="catalog-card-media"><span class="catalog-card-placeholder" aria-hidden="true">⌁</span></span>`;
+    return `<span class="${escapeHtml(mediaClass)}"><span class="catalog-card-placeholder" aria-hidden="true">⌁</span></span>`;
   }
 
   return `
-    <span class="catalog-card-media">
+    <span class="${escapeHtml(mediaClass)}">
       <img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="96" height="96">
     </span>
   `;

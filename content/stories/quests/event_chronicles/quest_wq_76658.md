@@ -1,11 +1,11 @@
 # id: quest_wq_76658
 # story_group: event_chronicles
-# display_category: Ивент · Clink Clank Clash
+# display_category: Ивент · Дзынь-Клац битва
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Последний этап испытаний
 # title_en: The Last Step of Testing
 # title_zh: 实验的最后一步
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76658

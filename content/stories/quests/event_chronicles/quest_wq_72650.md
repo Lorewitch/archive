@@ -5,7 +5,7 @@
 # title_ru: Призрачный поток. Фантомный клинок
 # title_en: Phantom Flow: Phantasmal Blade
 # title_zh: 幻影心流幻想剑
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72650

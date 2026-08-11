@@ -5,7 +5,7 @@
 # title_ru: Звезда в аквариуме?
 # title_en: A Superstar... In the Aquarium?
 # title_zh: 水族箱里的…明星？
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74706

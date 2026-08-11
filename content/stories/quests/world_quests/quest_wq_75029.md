@@ -1,11 +1,11 @@
 # id: quest_wq_75029
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Вперёд! Только вперёд!
 # title_en: Charge Forward! Go, Go, Go!
 # title_zh: 向前冲！冲！冲！
-# region: Тейват
+# region: Натлан
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75029

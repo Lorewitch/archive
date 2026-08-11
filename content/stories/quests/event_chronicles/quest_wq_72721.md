@@ -1,11 +1,11 @@
 # id: quest_wq_72721
 # story_group: event_chronicles
-# display_category: Ивент · Hues of the Violet Garden
+# display_category: Ивент · Краски фиалкового сада
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бой с Таромару
 # title_en: Versus Taroumaru
 # title_zh: 与太郎丸之战
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72721

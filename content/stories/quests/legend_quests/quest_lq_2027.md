@@ -6,6 +6,7 @@
 # title_en: Transient Dreams
 # title_zh: 须臾百梦
 # region: Инадзума
+# rarity: 5
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 2027

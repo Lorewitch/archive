@@ -1,11 +1,11 @@
 # id: quest_wq_70529
 # story_group: event_chronicles
-# display_category: Ивент · Windblume's Breath
+# display_category: Ивент · Дыхание анемонии
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Песнь ветров
 # title_en: Ballads of Breeze
 # title_zh: 风物之歌
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.5
 # release_versions: 3.5
 # source_id: 70529

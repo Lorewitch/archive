@@ -1,11 +1,11 @@
 # id: quest_wq_73044
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Спасите аранара
 # title_en: Rescue the Aranara
 # title_zh: 解救兰那罗
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73044

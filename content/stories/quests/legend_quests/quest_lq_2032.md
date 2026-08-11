@@ -6,6 +6,7 @@
 # title_en: Sands of Solitude
 # title_zh: 沉沙归寂
 # region: Сумеру
+# rarity: 5
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 2032
@@ -15,8 +16,8 @@
 # part_source_ids: 13009,13010,13011
 # previous_quests:
 # next_quests:
-# related_quests:
-# quest_chain: quest_lq_2032
+# related_quests: quest_lq_2049
+# quest_chain: quest_lq_2032,quest_lq_2049
 # quest_series: Lupus Aureus Chapter
 # version_source: wiki_release_category
 

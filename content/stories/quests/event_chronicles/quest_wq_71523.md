@@ -1,11 +1,11 @@
 # id: quest_wq_71523
 # story_group: event_chronicles
-# display_category: Ивент · Waterborne Poetry
+# display_category: Ивент · Поэзия вод
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Обряд бросков на сто шагов
 # title_en: Hundred-Pace Hurling Rites
 # title_zh: 百步礼掷
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 71523

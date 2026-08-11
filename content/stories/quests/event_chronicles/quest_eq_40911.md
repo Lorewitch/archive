@@ -5,7 +5,7 @@
 # title_ru: Большой шаг для алхимии?
 # title_en: One Giant Step for Alchemy?
 # title_zh: 炼金术，大突破？
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 40911

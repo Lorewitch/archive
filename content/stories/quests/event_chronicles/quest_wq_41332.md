@@ -1,6 +1,6 @@
 # id: quest_wq_41332
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite Tales
+# display_category: Ивент · Истории Праздника морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Сытый клиент - довольный клиент
 # title_en: Keeping Wanmin's Patrons Fed

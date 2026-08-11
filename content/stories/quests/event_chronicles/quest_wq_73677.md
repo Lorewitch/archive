@@ -1,11 +1,11 @@
 # id: quest_wq_73677
 # story_group: event_chronicles
-# display_category: Ивент · Of Ballads and Brews
+# display_category: Ивент · О балладах и кубках
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Тени в лесу
 # title_en: Secret Forest Shadow
 # title_zh: 林中秘影
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73677

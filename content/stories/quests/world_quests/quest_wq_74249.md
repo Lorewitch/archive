@@ -1,11 +1,11 @@
 # id: quest_wq_74249
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: За Фонтейн!
 # title_en: For Fontaine!
 # title_zh: 为了枫丹！
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74249

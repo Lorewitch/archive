@@ -5,7 +5,7 @@
 # title_ru: Зов гор
 # title_en: Mountainous Summons
 # title_zh: 山之召唤
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 70655

@@ -1,11 +1,11 @@
 # id: quest_wq_70558
 # story_group: event_chronicles
-# display_category: Ивент · Surveying & Mapping Studies
+# display_category: Ивент · Изучение картографии
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Обучение картографии
 # title_en: A Knight's Guide to Surveying
 # title_zh: 骑士的测绘教学
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 70558

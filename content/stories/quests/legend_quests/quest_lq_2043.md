@@ -6,6 +6,7 @@
 # title_en: "The Little Oceanid"
 # title_zh: 「水的女儿」
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 2043

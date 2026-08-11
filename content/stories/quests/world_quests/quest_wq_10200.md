@@ -15,8 +15,8 @@
 # part_source_ids: 74113
 # previous_quests: quest_wq_74009
 # next_quests: quest_wq_10201
-# related_quests: quest_wq_74008,quest_wq_74009,quest_wq_10201,quest_wq_10202
-# quest_chain: quest_wq_74008,quest_wq_74009,quest_wq_10200,quest_wq_10201,quest_wq_10202
+# related_quests: quest_wq_10201,quest_wq_10202
+# quest_chain: quest_wq_10200,quest_wq_10201,quest_wq_10202
 # quest_series: Questioning Melusine and Answering Machine
 # version_source: wiki_release_category
 

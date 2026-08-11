@@ -1,11 +1,11 @@
 # id: quest_wq_79067
 # story_group: event_chronicles
-# display_category: Ивент · Summertide Scales and Tales
+# display_category: Ивент · Лето! Драконы? Сказка!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ответ листьев лотоса и леса
 # title_en: The Answer of the Lotus Leaves and Forest
 # title_zh: 荷叶与森林的答案
-# region: Тейват
+# region: Иной мир
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 79067

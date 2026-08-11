@@ -5,7 +5,7 @@
 # title_ru: Бабах-приключения Додоко!
 # title_en: Dodoco's Boom-Bastic Escapades!
 # title_zh: 嘟嘟可砰砰历险记！
-# region: Тейват
+# region: Мондштадт
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 70546

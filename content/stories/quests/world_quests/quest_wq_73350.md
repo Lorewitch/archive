@@ -1,11 +1,11 @@
 # id: quest_wq_73350
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Воспоминания одного фонтейнца
 # title_en: Recollections of a Fontainian
 # title_zh: 一个枫丹人的回忆
-# region: Тейват
+# region: Сумеру
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73350

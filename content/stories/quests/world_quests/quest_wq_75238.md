@@ -1,11 +1,11 @@
 # id: quest_wq_75238
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Небольшой подарок
 # title_en: A Small Token
 # title_zh: 小小的心意
-# region: Тейват
+# region: Натлан
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 75238

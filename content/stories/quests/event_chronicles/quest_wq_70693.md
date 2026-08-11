@@ -1,11 +1,11 @@
 # id: quest_wq_70693
 # story_group: event_chronicles
-# display_category: Ивент · Soulblazers' Snowbound Journey
+# display_category: Ивент · Снежное путешествие Пылких Сердец
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Случайная встреча и удивительное взаимопонимание
 # title_en: Serendipitous Encounters and a Curious Consensus
 # title_zh: 巧合碰面与奇趣共识
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70693

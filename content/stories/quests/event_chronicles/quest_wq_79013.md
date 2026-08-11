@@ -1,11 +1,11 @@
 # id: quest_wq_79013
 # story_group: event_chronicles
-# display_category: Ивент · Summertime Odyssey
+# display_category: Ивент · Летнее морское путешествие
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Напрасный труд
 # title_en: Thus Was the Work Done in Vain
 # title_zh: 正因其徒劳
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 79013

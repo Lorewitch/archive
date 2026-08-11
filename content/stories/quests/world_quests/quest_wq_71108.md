@@ -1,11 +1,11 @@
 # id: quest_wq_71108
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Древние свитки и искусство меча Гухуа
 # title_en: Scrolls and Sword Manuals of Guhua
 # title_zh: 古华书剑谱
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71108
@@ -15,8 +15,8 @@
 # part_source_ids: 71108
 # previous_quests: quest_wq_71107
 # next_quests: quest_wq_71109
-# related_quests: quest_wq_71107,quest_wq_71109
-# quest_chain: quest_wq_71107,quest_wq_71108,quest_wq_71109
+# related_quests:
+# quest_chain: quest_wq_71108
 # quest_series:
 # version_source: wiki_release_category
 

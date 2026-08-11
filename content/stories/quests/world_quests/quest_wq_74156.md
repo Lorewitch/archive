@@ -1,11 +1,11 @@
 # id: quest_wq_74156
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Леруа: Ария Царицы ночи
 # title_en: Leroy: Queen of the Night's Aria
 # title_zh: 勒鲁瓦·夜后咏叹调
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74156
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_74157
 # related_quests: quest_wq_74149,quest_wq_74150,quest_wq_74151,quest_wq_74153,quest_wq_74154,quest_wq_74157
 # quest_chain: quest_wq_74149,quest_wq_74150,quest_wq_74151,quest_wq_74153,quest_wq_74154,quest_wq_74156,quest_wq_74157
-# quest_series:
+# quest_series: Leroy
 # version_source: wiki_release_category
 
 ## RU

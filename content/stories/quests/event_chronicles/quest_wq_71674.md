@@ -5,7 +5,7 @@
 # title_ru: Дары судьбы
 # title_en: Wishes Contended, Fortunes Won
 # title_zh: 如意斗彩
-# region: Тейват
+# region: Ли Юэ
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 71674

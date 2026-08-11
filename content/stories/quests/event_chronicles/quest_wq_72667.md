@@ -1,11 +1,11 @@
 # id: quest_wq_72667
 # story_group: event_chronicles
-# display_category: Ивент · Lunar Realm
+# display_category: Ивент · Лунное королевство
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Пополнение запаса наживки
 # title_en: Bait Resupply Plan
 # title_zh: 鱼饵补充计划
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72667

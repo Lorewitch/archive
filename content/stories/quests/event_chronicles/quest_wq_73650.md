@@ -5,7 +5,7 @@
 # title_ru: Тема для исследования: Он не пройдёт
 # title_en: Thesis Proposal: He Shall not Pass
 # title_zh: 无止境的开题报告
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73650

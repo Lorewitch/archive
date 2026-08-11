@@ -1,11 +1,11 @@
 # id: quest_wq_76190
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование животных: Золотистый аксолотль
 # title_en: Animal Research: Golden Loaches
 # title_zh: 动物调查·金鳅鳅
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76190

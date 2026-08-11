@@ -1,11 +1,11 @@
 # id: quest_wq_23035
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: В следующей части «Короля заклинаний»...
 # title_en: Next Time, On King of Invokations...
 # title_zh: 《召唤王·下集！是…》
-# region: Тейват
+# region: Сумеру
 # game_version: 3.2
 # release_versions: 3.2
 # source_id: 23035

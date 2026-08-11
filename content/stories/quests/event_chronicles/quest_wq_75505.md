@@ -1,11 +1,11 @@
 # id: quest_wq_75505
 # story_group: event_chronicles
-# display_category: Ивент · Aphid Treasure Trace
+# display_category: Ивент · В поисках сокровищ тли
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сокровище тли
 # title_en: Aphid Treasure
 # title_zh: 蜜虫之宝
-# region: Тейват
+# region: Натлан
 # game_version: 5.1
 # release_versions: 5.1
 # source_id: 75505

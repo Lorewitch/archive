@@ -1,11 +1,11 @@
 # id: quest_wq_73341
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Сердце амриты
 # title_en: Heart of Amrita
 # title_zh: 甘露之心
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73341

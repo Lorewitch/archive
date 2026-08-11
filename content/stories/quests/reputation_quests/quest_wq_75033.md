@@ -1,0 +1,852 @@
+# id: quest_wq_75033
+# story_group: reputation_quests
+# display_category: Задание репутации · Клан Цветочного Пера
+# icon: assets/icons/stories/quests/world.webp
+# title_ru: Все грани воина
+# title_en: Every Aspect of a Warrior
+# title_zh: 勇士的每一面
+# region: Натлан
+# game_version: 5.2
+# release_versions: 5.2
+# source_id: 75033
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 75033
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_75033
+# quest_series:
+# version_source: wiki_release_category
+
+## RU
+
+### Все грани воина
+
+«Все тренеры, в том числе и я, не стремятся к успеху...»
+
+#### Поговорите со всеми
+
+**Акомитль:** Зачем это продолжать, почему нельзя бросить?.. Не хочу, хватит! Сестра, помоги мне!
+
+**Матага:** Позор! Здоровый лоб, а бежишь от трудностей, словно ребёнок! Разве так поступают настоящие воины? А ты ещё мой брат!
+
+**Акомитль:** И что, хочешь сказать, тебе никогда не требовалась помощь? Ты никогда не заходил в тупик?
+
+**Матага:** Заходил. Потому и вернулся сюда, чтобы отец с сестрой оценили результаты моих тренировок. Я не такой безвольный, как ты!
+
+**Маньойя:** Акомитль, я думаю, командир отклонил твоё прошение об отставке в надежде, что ты всё как следует обдумаешь. Нельзя принимать такие решения на горячую голову.
+
+**Маньойя:** Успокойся и прислушайся к себе. Главное, чтобы ты потом не пожалел.
+
+**Маньойя:** Я ушла в отставку и теперь не знаю, что мне делать дальше. Боюсь, я не имею права тебе указывать.
+
+**Паймон:** Ого! Так вы одна семья?
+
+- **Путешественник:** Кто бы мог подумать...
+
+- **Путешественник:** Можно было и догадаться.
+
+**Шуэйони:** Это вы?!
+
+**Акомитль:** Плохие новости, благодетель(ница). Мой план провалился.
+
+- **Путешественник:** Кто бы сомневался.
+
+- **Путешественник:** (Пожать плечами)
+
+**Акомитль:** Неужели мне никак не избавиться от этих мучений? Быть воином так тяжело... Почему нельзя, чтобы было проще?
+
+**Шуэйони:** Ты всё думаешь о своём отряде?..
+
+**Шуэйони:** Прости, Акомитль. Опыт подсказывает мне, что проще не будет.
+
+**Шуэйони:** Я только что закончил чинить наручи Матаги. Маньойя, а твоим наручам не нужна починка? М? У нас гости.
+
+**Маньойя:** Папа, это (искательницы)(искатели) приключений, которых мы встретили во время тренировок. И они помогли Акомитлю.
+
+**Шуэйони:** Здравствуйте, добрые друзья. Зовите меня Шуэйони. Я тренер и отец этих ребят.
+
+**Паймон:** Похоже, Акомитль чувствует себя ужасно. Если нужна помощь, только скажите.
+
+**Шуэйони:** Спасибо за предложение, но мне кажется, с Акомитлем всё отлично.
+
+**Паймон:** Что? Вы оставите его в таком состоянии?
+
+**Шуэйони:** Ха-ха, я хочу сказать... Смотри, вы (искательницы)(искатели) приключений, наверняка состоите в Гильдии.
+
+**Шуэйони:** Прекрасная организация! Она создана специально для людей, которые хотят исследовать мир, верно?
+
+**Шуэйони:** И всё равно я уверен, что мотивы у искателей приключений отличаются. Одни занимаются своим делом ради денег, другими движет жажда знаний, третьим просто скучно.
+
+**Шуэйони:** Очень здорово, что Гильдия смогла объединить всех этих людей под своими знамёнами.
+
+**Шуэйони:** Возьмём, к примеру, меня. Я старик, который ушёл в отставку из лётного отряда и стал экспертом по тренировкам в нашем племени. Но я не могу представить, как будет выглядеть гильдия для шести экспертов из разных племён.
+
+**Паймон:** Эм... Но при чём тут Акомитль?
+
+**Маньойя:** Папа всегда так объясняет. Когда он ещё служил в отряде, все внимательно слушали его советы, даже кукузавры.
+
+**Маньойя:** А теперь он эксперт по тренировкам. И каждый, кто хочет стать воином, приходит к папе за советом. Не торопитесь, сейчас он дойдёт до сути.
+
+**Шуэйони:** Маньойя, это всё в прошлом. Но позвольте я договорю.
+
+**Шуэйони:** Эксперты по тренировкам стремятся вылепить из своих воспитанников «настоящих воинов», поэтому так тщательно составляют тренировочные программы.
+
+**Шуэйони:** Каждый из нас мечтает воспитать великого воина, но каким должен быть этот воин, никто не знает.
+
+**Шуэйони:** Потому эксперты по тренировкам и не могут основать свою гильдию. Нам никак не придумать принципы гильдии, не написать устав.
+
+**Шуэйони:** Потому что «великий воин» может предстать в любом облике, у него может быть любой характер.
+
+**Шуэйони:** Воины, которые для многих служат примером, временами тверды и непреклонны, а временами страдают от неуверенности в своих силах. А ещё они стареют и умирают.
+
+**Шуэйони:** Думаете, воины никогда не выгорают? Я покажу вам целую стопку тканых свитков, которые доказывают, что сомнения в себе и выгорание бывают у каждого.
+
+**Шуэйони:** Воин должен быть высоким и могучим? Я знаю примеры, когда у людей с исполинским ростом было такое подлое нутро, что вы не можете себе даже представить. О них тоже есть записи в тканых свитках.
+
+**Шуэйони:** И конечно, каждый воин однажды слабеет. Это закон природы.
+
+**Шуэйони:** Дети называют меня воином, но сами посудите. Я давно не летаю. У старой птицы нет сил, чтобы подняться в небо.
+
+**Шуэйони:** Воин с безупречными чертами лица, человек, который вписывается во все скучнейшие стандарты, никогда не станет героем Натлана.
+
+**Шуэйони:** Маньойя, Акомитль, Матага, я привёл вас сюда, ибо вам суждено стать героями клана Цветочного Пера и смотреть вниз с большой высоты.
+
+**Шуэйони:** Ваши тревоги и чаяния - преходящие состояния на долгом пути героя, с ними не нужно ничего делать.
+
+**Шуэйони:** Думаете, отставка из лётного отряда означает, что человек перестал быть воином? А зачисление в отряд сразу делает его воином? Разумеется нет.
+
+**Шуэйони:** Ты можешь иметь высокие устремления, а можешь сомневаться и чувствовать себя потерянным. Ты воин, а каждый воин должен пройти через испытания, чтобы стать героем.
+
+**Шуэйони:** Прими своё состояние, научись жить с ним и преодолей его. Не давай ему завладеть тобой.
+
+**Шуэйони:** Так поступают в Натлане. Так поступают настоящие герои. Понимаешь?
+
+**Маньойя:** Понимаю, папа.
+
+**Шуэйони:** Акомитль, ты всё сомневаешься?
+
+**Акомитль:** ...
+
+**Шуэйони:** У нас в семье не принято читать друг другу нотации. Полетай лучше вместе с братом и сестрой, как в детстве.
+
+**Шуэйони:** Пусть тело и душа подскажут тебе верное решение. Если сидеть дома и раз за разом прокручивать проблему в голове, ничего путного из этого не выйдет.
+
+**Акомитль:** Хорошо, папа.
+
+**Паймон:** Интересно, все эксперты по тренировкам любят такие отвлечённые рассуждения? Паймон и половины не поняла. Путешественник, а ты?
+
+- **Путешественник:** Я понял(а). Если вкратце, он говорил про Лётное испытание.
+
+- **Путешественник:** Тоже не понял(а). Семейные знания - дело тёмное.
+
+**Шуэйони:** Искатель(ница) приключений, дети рассказывали мне о тебе. Ты весьма интересная личность.
+
+**Шуэйони:** Ты (осмелилась)(осмелился) состязаться с Маньойей, выручил(а) Акомитля, заслужил(а) признание Матаги. Ты (настоящая воительница)(настоящий воин).
+
+**Шуэйони:** Я хочу предложить тебе полетать вместе с ребятами. Что скажешь?
+
+- **Путешественник:** Я готов(а).
+
+- **Путешественник:** Надо подумать.
+
+**Шуэйони:** Ха-ха, хорошо. Как надумаешь, дай мне знать.
+
+**Шуэйони:** Мои дети одни из лучших наездников клана Цветочного Пера. Думаю, тебе понравится с ними летать.
+
+
+**Матага:** Ещё одна гонка? Легко! Сейчас вы увидите, на что я способен!
+
+**Маньойя:** Ты так уверен в себе. Давай, Акомитль, нельзя ему проиграть!
+
+**Акомитль:** Тебе я согласен проиграть, но только не Матаге!
+
+**Акомитль:** Путешественник, ты тоже постарайся! Матага всегда вырывается вперёд ближе к концу гонки, не попадайся на его уловки.
+
+**Акомитль:** Когда будешь готов(а), скажи отцу. Полетим все вместе.
+
+#### Поговорите с Шуэйони, чтобы начать гонку в воздухе
+
+**Шуэйони:** Полетай вместе с моими ребятами! Редко выпадает случай посоревноваться с лучшими наездниками клана Цветочного Пера.
+
+**Шуэйони:** Следуйте по трассе за летящим факелом. Выиграет тот, кто первым догонит факел. Так я тренировал своих ребят, когда они были маленькими.
+
+**Шуэйони:** Факел летит на воздушном шаре, украшенном алыми перьями, которые олицетворяют ответственность и честь, - качества, присущие каждому воину. Моя работа.
+
+**Шуэйони:** Ты сразу его узнаешь. Ну что, попробуешь?
+
+- **Путешественник:** Я готов(а).
+
+- **Путешественник:** Мне нужно приготовиться.
+
+**Шуэйони:** Ха-ха, отлично! Тогда пойдём на старт.
+
+**Шуэйони:** Дай знать, когда будешь готов(а).
+
+**Шуэйони:** Неплохо, юноша / девушка! Ха-ха-ха!
+
+**Шуэйони:** Но чтобы обогнать моих ребят, тебе нужно ещё немного тренировок. Не расстраивайся! Мало кому победа даётся с первого раза!
+
+**Шуэйони:** Если хочешь попробовать ещё раз, дай мне знать.
+
+**Шуэйони:** Неплохо, юноша / девушка! Ха-ха-ха!
+
+**Шуэйони:** Но чтобы обогнать моих ребят, тебе нужно ещё немного тренировок. Не расстраивайся! Мало кому победа даётся с первого раза!
+
+**Шуэйони:** Если хочешь попробовать ещё раз, дай мне знать.
+
+#### Поговорите с Матагой
+
+**Матага:** Опять я проиграл. Столько тренировался, а он(а) всё равно победил(а).
+
+**Акомитль:** Я давно тебе говорил: нельзя думать только о победе, это ни к чему не приведёт. Но я восхищаюсь твоей решимостью и бесстрашием.
+
+**Маньойя:** Когда ты был помладше, то вёл себя так же. Целыми днями ходил за мной по пятам и твердил, что хочешь стать укротителем заврианов...
+
+**Акомитль:** Не смейся надо мной...
+
+**Шуэйони:** У меня замечательные дети, вы все настоящие воины. А всех воинов на разных этапах пути поджидают свои трудности.
+
+**Шуэйони:** Ничего страшного. Пока ваша совесть чиста, я буду вами гордиться.
+
+**Матага:** Ха-ха! Прости, но на этот раз я выиграл!
+
+**Акомитль:** Матага, мелкий ты... Вот всегда ты так! Вырываешься вперёд на середине гонки!
+
+**Матага:** Хочешь отыграться? Тогда вперёд, догони меня, ха-ха!
+
+#### Поговорите с Шуэйони
+
+**Шуэйони:** Отлично, (девушка)(юноша)!
+
+**Акомитль:** Как тебе мой полёт, благодетель(ница)?
+
+- **Путешественник:** Отлично.
+
+- **Путешественник:** Неплохо.
+
+**Акомитль:** Спасибо, что пытаешься меня подбодрить, но я вижу, что ты летаешь намного лучше.
+
+**Матага:** Акомитль...
+
+**Акомитль:** Нет, вы неправильно поняли. Я не расстраиваюсь от того, что уступаю другим. Я знаю, что могу летать.
+
+**Акомитль:** Но я так долго был в плохой форме, что совсем перестал верить в себя. Не могу расслабиться во время полёта.
+
+**Акомитль:** Путешественник, у тебя всё иначе. Ты держишься в полёте намного естественнее. Это видно.
+
+**Акомитль:** Отец, я знаю, вы с сестрой хотите, чтобы я принял собственное решение и перестал прятаться от проблемы.
+
+**Акомитль:** Но если я скажу вам, что моё тело, ум и душа...
+
+**Акомитль:** Отказываются следовать путём, который предназначен не мне... вы всё равно меня поддержите?
+
+**Маньойя:** Конечно. Если это твоё собственное решение. И если ты готов отвечать за его последствия.
+
+**Акомитль:** Матага, ты...
+
+**Матага:** Перестань! Не думай, будто я стану упрекать тебя в такую минуту. Я всегда понимал, какой у тебя характер.
+
+**Матага:** Если больше не можешь, брось. Пока ты верен себе, ты остаёшься воином. Никто не имеет права тебя осуждать.
+
+**Шуэйони:** Иногда работа эксперта по тренировкам довольно проста. Я составляю тренировочные планы для воинов, но сам не участвую в тренировках.
+
+**Шуэйони:** Но когда-то я тоже целыми днями летал верхом на завриане. И хорошо помню, что это за жизнь.
+
+**Шуэйони:** Осуждать другого легко. Заниматься делом намного труднее, чем молоть языком.
+
+**Шуэйони:** Как тренер я предложил бы тебе взять отпуск в отряде, чтобы восстановиться морально и физически. Пусть даже кто-то из товарищей будет недоволен твоим решением.
+
+**Шуэйони:** Как отец я знаю, что ты не хочешь дальше летать в отряде. И я уважаю твоё решение.
+
+**Шуэйони:** Уход из лётного отряда - вовсе не конец света. Воины клана Цветочного Пера могут проявлять себя не только в полётах.
+
+**Акомитль:** Спасибо... А я беспокоился, что вы...
+
+**Маньойя:** Не придумывай. Мы твоя семья, и мы всегда тебе поможем.
+
+**Паймон:** Быть воином совсем не просто! Паймон подумать не могла, что попасть в лётный отряд клана Цветочного Пера будет так трудно!
+
+- **Путешественник:** У нас свои трудности.
+
+- **Путешественник:** Не каждому дано быть воином.
+
+**Паймон:** Да, это точно. Если вспомнить, сколько всего нам пришлось преодолеть, даже гордость берёт!
+
+**Паймон:** Звучит сурово, но это правда. Ладно, Паймон всё равно не хочет быть никакой воительницей. Ещё чего, тренироваться целыми днями...
+
+**Шуэйони:** Стать воином совсем не просто, а превратиться из воина в героя ещё труднее.
+
+**Шуэйони:** Я видел немало воинов. И представляю, какие качества нужны воину, чтобы стать настоящим героем.
+
+**Шуэйони:** (Девушка)(Юноша), тебе довелось пройти через множество испытаний? Я вижу это по твоим глазам.
+
+- **Путешественник:** Вы даже себе не представляете.
+
+- **Путешественник:** (Промолчать)
+
+**Шуэйони:** Я так и думал. Ты идёшь своей дорогой, и может оказаться, что она уведёт тебя очень далеко. Я рад помочь (будущей героине)(будущему герою).
+
+**Шуэйони:** И потом, сама судьба свела тебя с нашей семьёй, так что я должен тебе помочь.
+
+**Шуэйони:** Если хочешь воспользоваться трассой для тренировок, дай мне знать. Ты можешь взлетать отсюда в любое время.
+
+Спасибо.
+
+**Шуэйони:** Не за что. С нетерпением жду, когда ты станешь (героиней)(героем), сияющим / сияющей в небесах.
+
+## EN
+
+### Every Aspect of a Warrior
+
+"What we trainers pursue, myself included, isn't success..."
+
+#### Talk to everyone
+
+**Acomitl:** Why must I persist? Why can't I just give up...? Forget it, I give up! Help me, Manyoya.
+
+**Matahga:** What an embarrassment! Stop acting like a child and giving up whenever things don't go smoothly. How can you even call yourself a warrior? I'm ashamed to call you my brother.
+
+**Acomitl:** And are you telling me you've never been stumped and needed help?
+
+**Matahga:** I have, which is why I'm here to get Father and Manyoya's opinions on the fruits of my special training. I'm not a coward like you!
+
+**Manyoya:** Acomitl, I believe the captain rejected your resignation so that you could give it more thought. Don't make important decisions in the heat of things.
+
+**Manyoya:** Calm down and make your own choice. The most important thing is that you don't come to regret it.
+
+**Manyoya:** I'm retired, and even I don't know what the future holds for me, so I fear I haven't the right to give you any guidance.
+
+**Paimon:** Whoa! So you three are siblings!
+
+- **Traveler:** Didn't see that coming...
+
+- **Traveler:** It was quite obvious.
+
+**Xueyoni:** It's you two!?
+
+**Acomitl:** My apologies, dear benefactor. My escape plan fell through.
+
+- **Traveler:** As expected.
+
+- **Traveler:** (Shrug)
+
+**Acomitl:** Is there no way for me to escape this pain? Being a warrior is so exhausting. Why can't everything be simpler?
+
+**Xueyoni:** Still preoccupied with thoughts of the flying squad?
+
+**Xueyoni:** I'm sorry, Acomitl. Based on my experience, things don't get simpler that way.
+
+**Xueyoni:** Still, I just finished repairing Matahga's arm guards. Manyoya, do yours's need any work? Hmm? We have guests.
+
+**Manyoya:** Ah, they're adventurers we met during our training away from home, father. They even helped Acomitl out.
+
+**Xueyoni:** Then greetings, kind friends. I'm Xueyoni, a training master and their father.
+
+**Paimon:** Acomitl seems to be in terrible condition, so let us know if you need help.
+
+**Xueyoni:** Thank you for the offer, but I think Acomitl is completely fine.
+
+**Paimon:** Huh? You intend to just leave him be?
+
+**Xueyoni:** Haha! What I'm trying to say is... Let's put it this way. You're adventurers, so you must have joined the Adventurers' Guild, right?
+
+**Xueyoni:** Now that's an amazing organization. You adventurers desire to explore the world, right?
+
+**Xueyoni:** Even so, I imagine every adventurer has their motivations. Some explore for the money, others desire knowledge, and some are just bored of doing nothing.
+
+**Xueyoni:** So, it's a most impressive feat the Adventurers' Guild has achieved in uniting all those people under one banner.
+
+**Xueyoni:** Take me for example. I'm an old man who retired after serving as a Saurian rider in the flying squad and went on to become a master trainer in our tribe. Yet, I cannot imagine what a Guild containing the master trainers of all six tribes would look like.
+
+**Paimon:** Uh... What does that have to do with Acomitl?
+
+**Manyoya:** That's how our father explains things. Back when he was still in the flying squad, everyone there, even the Qucusaurs, would willingly hear his opinion.
+
+**Manyoya:** He's now a master trainer for our tribe, and anyone who wishes to become a warrior comes to seek his advice, so relax — just listen for now.
+
+**Xueyoni:** Heh, that's all in the past, Manyoya. But I shall finish the tale all the same.
+
+**Xueyoni:** We master trainers aspire toward the ideal of the "warrior." That's what inspires us to take the time and effort to design and set our training programs up.
+
+**Xueyoni:** We all have a "dream warrior" we wish to see emerge, but no single person can dictate what such a warrior should be.
+
+**Xueyoni:** We master trainers have found agreeing on any principles and regulations impossible, let alone forming a Guild.
+
+**Xueyoni:** That "greatest warrior" has countless faces and personalities.
+
+**Xueyoni:** They are strong-willed at times, but they sometimes struggle with self-doubt — not to mention how they will age and die.
+
+**Xueyoni:** Must warriors be immune to burnout? I can show you multiple woven scrolls that show how self-doubt and exhaustion plague everyone equally.
+
+**Xueyoni:** Must warriors be huge? I know of many who looked like giants yet were despicable beyond compare. Such are recorded upon woven scrolls too.
+
+**Xueyoni:** And of course, warriors will decline, as the law of nature dictates.
+
+**Xueyoni:** My kids call me a warrior, but look at me. I'm an old bird who doesn't fly anymore — I've no strength for it.
+
+**Xueyoni:** A warrior with a perfect face, a person who conforms to every boring standard, will not be recognized as a hero here in Natlan.
+
+**Xueyoni:** Manyoya, Acomitl, Matahga, I've brought you here, for you are to be the heroes of the Flower-Feather Clan, gazing down from a great height.
+
+**Xueyoni:** Your worries and desires are fleeting states on a hero's long journey, not problems that need solving.
+
+**Xueyoni:** Does leaving the flying squad mean one is no longer a warrior? Does joining the flying squad automatically make one a warrior? There are no such things.
+
+**Xueyoni:** It's okay to have ambitions, to hesitate, and to feel lost. You are a warrior, and a warrior must undergo trials to become a hero.
+
+**Xueyoni:** Accept how you are now, learn to live with that state, and overcome it. Never let it control you.
+
+**Xueyoni:** This is the way of Natlan — the way of heroes. Do you understand?
+
+**Manyoya:** I understand, Father.
+
+**Xueyoni:** Acomitl, are you still hesitating?
+
+**Acomitl:** ...
+
+**Xueyoni:** Constant lectures aren't our family's way. Go fly with your brother and sister, just like when you were little.
+
+**Xueyoni:** Let your mind and body help you decide. Staying cooped up in the house and overthinking things won't lead to any good.
+
+**Acomitl:** I got it, Father.
+
+**Paimon:** Do Master Trainers always speak so abstractly? Paimon didn't really get any of it. Did you, Traveler?
+
+- **Traveler:** Yep. Basically, this will involve a Gliding Challenge.
+
+- **Traveler:** Nope. Family upbringing techniques are too profound.
+
+**Xueyoni:** Adventurer, I've heard about you from my kids. You're a fascinating young person.
+
+**Xueyoni:** Having the guts to compete with Manyoya, help little Acomitl... and you even gained Matahga's recognition — a true warrior, you are.
+
+**Xueyoni:** I'd like to invite you to fly with these kids. How about it?
+
+- **Traveler:** Bring it on.
+
+- **Traveler:** Let me think about it.
+
+**Xueyoni:** Haha, alright. When you've decided, come over and let us know.
+
+**Xueyoni:** All three of my kids are top-tier fliers in the Flower-Feather Clan. You'll have a great time flying together.
+
+
+**Matahga:** Another race? Haha! Just wait and see!
+
+**Manyoya:** You're pretty confident. C'mon, Acomitl. We can't lose here!
+
+**Acomitl:** Losing to you is whatever, but there's no way I'm losing to Matahga!
+
+**Acomitl:** Traveler, be sure to give it your all, too. Don't fall for Matahga's late-game pushes. He's been doing that for ages.
+
+**Acomitl:** When you're ready, let my father know, and we'll fly together.
+
+#### Talk to Xueyoni to start the air race
+
+**Xueyoni:** Come and fly with my kids, young one. It's not every day you get to compete with the Flower-Feather Clan's finest.
+
+**Xueyoni:** Chase after the flying torch on the course. Whoever catches it first wins. That's how I trained them when they were little.
+
+**Xueyoni:** The torch is held by a balloon decorated with red feathers, symbolizing the responsibility and honor that a warrior should bear. I made it for them.
+
+**Xueyoni:** You'll recognize it once you see it. So, are you up for the contest?
+
+- **Traveler:** I'm ready.
+
+- **Traveler:** I need a little more time.
+
+**Xueyoni:** Haha, great! Let's head to the starting point and get ready then.
+
+**Xueyoni:** Let us know when you're ready then.
+
+**Xueyoni:** Not bad, young one! Hahahaha!
+
+**Xueyoni:** But you'll need more practice if you want to surpass my kids. Don't take it too hard, though! It's rare for anyone to achieve success in one go.
+
+**Xueyoni:** If you want to try again, just come find me.
+
+**Xueyoni:** Not bad, young one! Hahahaha!
+
+**Xueyoni:** But you'll need more practice if you want to surpass my kids. Don't take it too hard, though! It's rare for anyone to achieve success in one go.
+
+**Xueyoni:** If you want to try again, just come find me.
+
+#### Talk to Matahga
+
+**Matahga:** Aw, I lost again. Even after all that practice, I still lost to him / her.
+
+**Acomitl:** I told you this ages ago. There's no end to thinking about winning. Gotta admire your drive to just charge ahead without fear, though.
+
+**Manyoya:** Well, you were like that when you were younger, too, following behind me every day, talking about how you wanted to become a master Saurian tamer...
+
+**Acomitl:** Quit teasing me, sis...
+
+**Xueyoni:** You are all good children of mine, and fine warriors, too — and all warriors must face different challenges at different points...
+
+**Xueyoni:** Which is fine. So long as your consciences are clear, I am proud of you.
+
+**Matahga:** Haha! Sorry, but I pulled ahead this time!
+
+**Acomitl:** Gah, Matahga, you annoying little... You've been like this since forever, always going all out in the second half!
+
+**Matahga:** Feeling bitter? Catch me if you can, then! Haha!
+
+#### Talk to Xueyoni
+
+**Xueyoni:** You flew well, young one!
+
+**Acomitl:** How was my flying just now?
+
+- **Traveler:** Excellent.
+
+- **Traveler:** Not bad.
+
+**Acomitl:** Thanks for your encouragement, but I can tell you're still a cut above.
+
+**Matahga:** Acomitl...
+
+**Acomitl:** It's not what you think. I'm not discouraged because I can't outdo others. I can fly, I know I can.
+
+**Acomitl:** Still, being in bad form for so long has ruined my self-confidence. I just can't approach flying with any sense of calm.
+
+**Acomitl:** Traveler's different. His / Her posture is way more relaxed. Anyone with eyes can see that.
+
+**Acomitl:** Father, I know that you and sis want me to make up my own mind and not avoid the issue.
+
+**Acomitl:** But if I told you now, that whether it's my body, my brain, or my heart...
+
+**Acomitl:** That they all refuse to continue on a path that's not meant for me... Would you still support me?
+
+**Manyoya:** It's okay, so long as it's your own decision, and you're willing to shoulder the consequences.
+
+**Acomitl:** Matahga, will you...
+
+**Matahga:** Hey! I'm not going to criticize you at a time like this. I've always known the sort of person you are, Big Brother.
+
+**Matahga:** If you can't handle this, then just make a decisive break with it. As long as you stay true to yourself, you remain a warrior. No one has the right to criticize you.
+
+**Xueyoni:** Sometimes, the job of a Master Trainer is quite easy. I make training plans for warriors, but I don't have to take part myself.
+
+**Xueyoni:** However, I, too, once flew around with Saurians day in and day out, and I know the true face of that kind of life.
+
+**Xueyoni:** Criticizing others is easy. Taking action is always harder.
+
+**Xueyoni:** As a trainer, I suggest you request time off to recuperate both physically and mentally, even if it leads to dissatisfaction within the team.
+
+**Xueyoni:** As your father, I know you don't want to continue, and I respect that choice.
+
+**Xueyoni:** No longer being part of the flying squad isn't the end of the world. The warriors of the Flower-Feather Clan don't have to prove their worth through flying alone.
+
+**Acomitl:** Thank you... I was worried you'd...
+
+**Manyoya:** Don't overthink it. We're your family, and we'll always help you find a way, no matter what.
+
+**Paimon:** Being a warrior sure is tough! Paimon never imagined it would be this hard to join the Flower-Feather Clan's flying squad.
+
+- **Traveler:** We have our own hardships.
+
+- **Traveler:** Not everyone can be a warrior.
+
+**Paimon:** Ooh, that's right! Thinking about all the things we've encountered along the way, we've overcome them all. That's something we can be proud of, eh?
+
+**Paimon:** That's kinda strict, but it does make sense. Oh well, not like Paimon wanted to become one anyway, what with all that training every day.
+
+**Xueyoni:** And if becoming a warrior isn't easy in itself, growing from a warrior into a hero is even more so.
+
+**Xueyoni:** I've seen enough of the former to know when someone possesses the qualities needed to become the latter.
+
+**Xueyoni:** You have undergone many trials, haven't you, youngster? I can see it in your eyes.
+
+- **Traveler:** Like you wouldn't believe.
+
+- **Traveler:** (Remain silent)
+
+**Xueyoni:** It seems I wasn't mistaken. Your path differs from ours, and you might still have a ways to go. I'd be happy to assist a future hero.
+
+**Xueyoni:** What's more, you've met and helped our family.
+
+**Xueyoni:** If you want to use the training course here, just let me know. You can take off from here anytime.
+
+Thank you.
+
+**Xueyoni:** Don't mention it. If anything, I'm eager to witness the moment you become a hero, resplendent in the skies.
+
+## ZH
+
+### 勇士的每一面
+
+「包括我在内，所有训练师追求的并不是成功…」
+
+#### 与众人对话
+
+**阿科米蒂:** 为什么我非得坚持不可，我就不能放弃吗…我不干了！姐姐，你帮帮我。
+
+**马塔伽:** 丢人！白长了这么大个子，碰到一点困难就想逃跑还算是勇士吗？你这家伙居然是我的同胞哥哥。
+
+**阿科米蒂:** 你就没有想不出办法，要找人帮忙的时候吗？
+
+**马塔伽:** 有。我是回来找爸爸和姐姐，让他们检验我特训成果的。我不会像你那么没骨气！
+
+**曼尤雅:** 阿科米蒂，我觉得队长拒绝你的退队申请是希望你想想清楚，不要在情绪剧烈波动的时候做决定。
+
+**曼尤雅:** 平静下来之后靠你自己做出决定吧，将来别后悔就好。
+
+**曼尤雅:** 我已经退役了，自己都不知道自己该干什么，恐怕没资格指导你。
+
+**派蒙:** 没想到你们三个人是一家子。
+
+- **旅行者:** 好意外。
+
+- **旅行者:** 倒是不难猜到。
+
+**库约尼:** 是你们？！
+
+**阿科米蒂:** 坏消息，恩人，逃跑计划失败了。
+
+- **旅行者:** 意料之中。
+
+- **旅行者:** （耸耸肩）
+
+**阿科米蒂:** 就没有办法让我摆脱这种痛苦吗？当勇士怎么这么累，所有的一切凭什么不能简单点？
+
+**库约尼:** 还在想飞行队的事啊…
+
+**库约尼:** 抱歉，阿科米蒂，按我的经验来看，应该简单不了。
+
+**库约尼:** 我刚修好马塔伽的护手，曼尤雅，你的护手要不要顺带修了…哦？我们有客人来了。
+
+**曼尤雅:** 爸爸，这是我们在外面训练的时候遇到的冒险家，他们 / 她们还帮了阿科米蒂的忙。
+
+**库约尼:** 你们好，热心的朋友。叫我库约尼就行，我是个训练师，也是这几个孩子的父亲。
+
+**派蒙:** 阿科米蒂的状态好像很糟糕，大叔，需要帮忙的话可以叫我们。
+
+**库约尼:** 谢谢你们，不过我不觉得阿科米蒂有什么问题。
+
+**派蒙:** 欸，大叔不打算管他了吗？
+
+**库约尼:** 哈哈，我的意思是…这样说吧，你们是冒险家的话，应该加入过冒险家协会吧。
+
+**库约尼:** 了不起啊，这样的组织，所谓冒险家是为了探索世界才行动的人对吧？
+
+**库约尼:** 要问具体动机的话，每个冒险家都不同。有的是为了金钱，有的是出于求知欲，有的单纯是闲着无聊。
+
+**库约尼:** 把这样的人统合起来，让他们承认同一个口号，是很厉害的事。
+
+**库约尼:** 像我，一个从飞行队驭龙师的位置上退役了的大叔，后来去做了部族里的训练师，就没法想象六个部族的训练师联合起来建立一个协会是什么样子。
+
+**派蒙:** 唔…这和阿科米蒂的事情有关系吗？
+
+**曼尤雅:** 爸爸说话就是这样。以前他还在飞行队的时候，包括绒翼龙在内，所有的飞行队成员都愿意听他的意见。
+
+**曼尤雅:** 现在爸爸是部族的训练师，所有想要成为勇士的人都会来问他的意见，不用急，听听他的话吧。
+
+**库约尼:** 那都是过去的事了，曼尤雅，不过我还是说完吧。
+
+**库约尼:** 我们所有的训练师都是因为向往「勇士」这个形象，才会花那么多精力去布置、设计训练项目。
+
+**库约尼:** 大家都想要看见自己梦想中那个最了不起的勇士出现，但那个勇士到底该是什么样子，谁也不能规定。
+
+**库约尼:** 所以我们这些训练师根本没办法搞出个协会，什么原则、章程，根本写不出来嘛。
+
+**库约尼:** 那个最了不起的勇士拥有一千万张脸，一千万种性格。
+
+**库约尼:** 那个谁都想成为的勇士一会儿意志坚定，一会儿自我怀疑，还会衰老，会死亡。
+
+**库约尼:** 勇士不会倦怠吗？我可以举出记载在织物上的很多例子，证明自我怀疑和倦怠会平等地困扰每一个人。
+
+**库约尼:** 勇士非得生得高大吗？我知道很多长得有巨人那么高，但是卑劣得让人呕吐的人，他们的事也被记载在织物上了。
+
+**库约尼:** 勇士当然也会衰弱，这是自然的规律。
+
+**库约尼:** 我的孩子们称呼我为勇士，但看看我吧，我现在已经不飞了，老鸟是没有力气再飞的。
+
+**库约尼:** 一个长着一张完美的脸的勇士，一切都合乎一个无聊标准的人，不会是我们纳塔承认的英雄。
+
+**库约尼:** 我的曼尤雅、阿科米蒂、马塔伽，我带你们到飞屋上来，因为你们要做花羽会的英雄，从很高的地方往下看。
+
+**库约尼:** 你们的烦恼与渴望都是英雄漫长征途上一瞬的状态，不是什么该被解决的问题。
+
+**库约尼:** 离开飞行队就不是勇士了吗？进入飞行队就一定是勇士了吗？没有这种话。
+
+**库约尼:** 有雄心壮志也行，犹豫不决也没什么，失落也正常，你是个勇士，勇士必须有所经历才成为英雄。
+
+**库约尼:** 和自己的状态共存，靠自己习惯它，战胜它，不要反过来被它支配。
+
+**库约尼:** 这是纳塔的做法，英雄的做法，明白吗？
+
+**曼尤雅:** 我知道你的意思了，爸爸。
+
+**库约尼:** 阿科米蒂，你还是犹豫吗？
+
+**阿科米蒂:** ……
+
+**库约尼:** 一个劲地讲大道理不是我们家的作风，去跟你的姐姐还有弟弟飞一次吧，就像你小时候那样。
+
+**库约尼:** 让你的身心一起做决定，窝在屋子里闷闷地动死脑筋想不出好主意。
+
+**阿科米蒂:** 我知道了，爸爸。
+
+**派蒙:** 训练大师说话这么抽象的吗？我感觉自己没有听懂，旅行者你听懂了吗？
+
+- **旅行者:** 听懂了，总之是飞行挑战。
+
+- **旅行者:** 没听懂，家庭教育太深奥了。
+
+**库约尼:** 冒险家，我听孩子们说了你的事，你是个有意思的年轻人。
+
+**库约尼:** 有胆量和曼尤雅比赛，帮阿科米蒂这小子的忙，马塔伽也认同你，是个勇士。
+
+**库约尼:** 我想邀请你跟这几个孩子一起飞一次。你觉得怎么样？
+
+- **旅行者:** 来吧。
+
+- **旅行者:** 让我考虑一下。
+
+**库约尼:** 哈哈，好。你要是想好了就过来和我们说一声。
+
+**库约尼:** 我这三个孩子都是花羽会顶尖的飞行好手，你们一起飞应该会很痛快的。
+
+
+**马塔伽:** 又是追逐赛吗？哈哈，你们等着瞧吧！
+
+**曼尤雅:** 你小子很有自信嘛，阿科米蒂，我们两个可不能输啊。
+
+**阿科米蒂:** 输给大姐就算了，马塔伽这个家伙我绝对不要输给他。
+
+**阿科米蒂:** 旅行者，你也加油，当心马塔伽这小子留后手，他从以前就喜欢来这招。
+
+**阿科米蒂:** 你准备好了之后，记得找爸爸说一声，我们一起飞。
+
+#### 与库约尼对话开启飞行比赛
+
+**库约尼:** 来跟我的孩子飞一次吧，年轻人，能跟花羽会的飞行好手一起竞速的机会可不多。
+
+**库约尼:** 去追追看赛道上的飞行火炬，谁先追上谁就是赢家，这几个孩子还小的时候我就是这么训练他们的。
+
+**库约尼:** 火炬被一个气球提着，点缀着红色的羽毛，象征着勇士应当承担的责任与荣誉，是我做给他们的。
+
+**库约尼:** 你看到就能认出来，怎么样，来试试？
+
+- **旅行者:** 我准备好了。
+
+- **旅行者:** 我还要再准备一下。
+
+**库约尼:** 哈哈好，那就去起点预备吧。
+
+**库约尼:** 那我们就等你准备好再说。
+
+**库约尼:** 飞得不错，年轻人！哈哈哈哈！
+
+**库约尼:** 不过想要超过这几个孩子还得再多练习几次，很少有人能一蹴而就，别放在心上。
+
+**库约尼:** 还想再试试的话，来找我就好。
+
+**库约尼:** 飞得不错，年轻人！哈哈哈哈！
+
+**库约尼:** 不过想要超过这几个孩子还得再多练习几次，很少有人能一蹴而就，别放在心上。
+
+**库约尼:** 还想再试试的话，来找我就好。
+
+#### 与马塔伽对话
+
+**马塔伽:** 哎呀，我又输了，练了这么久结果还是输给他 / 她了。
+
+**阿科米蒂:** 早就告诉你了，总是想着赢是不会有尽头的，我真羡慕你这种只知道往前冲，什么都不怕的劲头。
+
+**曼尤雅:** 阿科米蒂小一点的时候也是这样的，那会儿天天跟在我屁股后面说想要当驯龙大师呢。
+
+**阿科米蒂:** 别取笑我了，姐姐…
+
+**库约尼:** 你们都是我的好孩子，也都是勇士，所有的勇士在不同的阶段要面对不同的问题。
+
+**库约尼:** 这没关系，只要做到无愧于心，我以你们为傲。
+
+**马塔伽:** 哈哈，抱歉，这次被我抢先了！
+
+**阿科米蒂:** 这小子从以前就这样，总是半道发力，你很烦啊马塔伽！
+
+**马塔伽:** 不服气的话，就努力追上我吧！哈哈！
+
+#### 与库约尼对话
+
+**库约尼:** 飞得不错，年轻人！
+
+**阿科米蒂:** 恩人，刚才你觉得我飞得怎么样？
+
+- **旅行者:** 很好。
+
+- **旅行者:** 还行。
+
+**阿科米蒂:** 谢谢你愿意给我这些肯定，我看得出来和你相比，我飞得并不好。
+
+**马塔伽:** 阿科米蒂…
+
+**阿科米蒂:** 不是你们想的那样，我不是因为比不过别人又沮丧了。我是能飞的，我自己知道。
+
+**阿科米蒂:** 只是长期处在糟糕的状态里，破坏了我对自己的信任，就算能飞好也没办法从容面对。
+
+**阿科米蒂:** 旅行者不会这样，他 / 她的飞姿就自在得多，大家都能看出来。
+
+**阿科米蒂:** 爸爸，我知道你和姐姐希望我自己做决定，不要逃避。
+
+**阿科米蒂:** 如果我现在告诉你们，不管是我的身体，大脑还是心…
+
+**阿科米蒂:** 都不愿意在不适合自己的道路上继续走下去，你们还会支持我吗？
+
+**曼尤雅:** 没关系，只要是你自己做出的决定，只要你愿意承担后果。
+
+**阿科米蒂:** 马塔伽，你会…
+
+**马塔伽:** 停！别以为我会在这时候跳出来指责你，我哥哥是什么性格我一直知道。
+
+**马塔伽:** 受不了就果断放弃，只要坦荡你就算勇士，谁也没资格批评你。
+
+**库约尼:** 有的时候，训练大师的工作还是挺轻松的，我为勇士们制定训练计划，自己却不用上场。
+
+**库约尼:** 不过，你们的父亲我曾经也过着成天和龙一起飞来飞去的日子，知道这种生活的真正滋味。
+
+**库约尼:** 批评别人很容易，放手去做永远比简单动动嘴皮子难。
+
+**库约尼:** 作为一个训练师，我建议你申请休假调整身心状态，哪怕这会引起队里的不满，你也该这么做。
+
+**库约尼:** 作为一个父亲，知道你不愿意再继续，我尊重你的选择。
+
+**库约尼:** 就算不在飞行队待着了，也没什么大不了，花羽会的勇士也不是只有通过飞行才能证明自己的价值。
+
+**阿科米蒂:** 谢谢你们…我还担心…
+
+**曼尤雅:** 别想太多，我们是你的家人，有什么事我们都会帮你一起想办法。
+
+**派蒙:** 做勇士也不容易啊，没想到进入花羽会的飞行队这么辛苦。
+
+- **旅行者:** 我们有我们的辛苦。
+
+- **旅行者:** 勇士不是谁都可以当的。
+
+**派蒙:** 也是哦，想想我们这一路上遇到的各种事情，都挺过来了我还觉得怪骄傲的。
+
+**派蒙:** 好严格啊，但想想也是。算啦，反正我可不想为了成为勇士，每天那么辛苦训练。
+
+**库约尼:** 成为勇士本来就不简单，要从勇士成长为英雄更难。
+
+**库约尼:** 见的勇士多了，什么样的人拥有成为英雄的气度，我还是能看得出来的。
+
+**库约尼:** 年轻人，你已经经历了很多磨炼吧，你的眼睛这样告诉我。
+
+- **旅行者:** 你难以想象。
+
+- **旅行者:** （保持沉默）
+
+**库约尼:** 看来我没有看走眼。你的路和我们不同，或许你还要走很远，而我很乐意为未来的英雄提供助力。
+
+**库约尼:** 更何况你和我们一家相识一场，这样吧，我也没有什么其他能做的事。
+
+**库约尼:** 如果你想要使用这里的训练赛道，只要和我说一声，随时都可以从这里起飞。
+
+谢谢。
+
+**库约尼:** 不用客气，我很期待看到你成为英雄，在天空闪耀的那一刻。

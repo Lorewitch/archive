@@ -1,11 +1,11 @@
 # id: quest_wq_73686
 # story_group: event_chronicles
-# display_category: Ивент · Warrior's Spirit
+# display_category: Ивент · Воинский дух
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Неожиданный бой
 # title_en: Unexpected Battle
 # title_zh: 意外争斗
-# region: Тейват
+# region: Инадзума
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 73686

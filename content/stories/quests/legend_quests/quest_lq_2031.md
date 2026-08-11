@@ -6,6 +6,7 @@
 # title_en: A Strange and Friendless Road
 # title_zh: 陌野不识故人
 # region: Инадзума
+# rarity: 5
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 2031

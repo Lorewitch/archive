@@ -5,7 +5,7 @@
 # title_ru: Под водой свои законы?
 # title_en: The Underwater Salvage Commandments
 # title_zh: 水域打捞有原则？
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74715

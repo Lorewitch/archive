@@ -1,11 +1,11 @@
 # id: quest_wq_73357
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Мастер Шляпка
 # title_en: Tea Party Re-Invitation: Hat Guy
 # title_zh: 茶会的再邀·阿帽
-# region: Тейват
+# region: Сумеру
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 73357

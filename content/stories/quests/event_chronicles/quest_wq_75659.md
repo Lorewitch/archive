@@ -5,7 +5,7 @@
 # title_ru: Подтверждение героизма!
 # title_en: A Hero's Approval!
 # title_zh: 来自英雄的认证！
-# region: Тейват
+# region: Натлан
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 75659

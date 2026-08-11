@@ -5,7 +5,7 @@
 # title_ru: Морские сокровища: Эпилог
 # title_en: Treasures Under the Sea: Epilogue
 # title_zh: 水中秘宝·尾声
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74674

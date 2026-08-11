@@ -1,11 +1,11 @@
 # id: quest_wq_40239
 # story_group: event_chronicles
-# display_category: Ивент · Where Waves Meet the Reef
+# display_category: Ивент · Где волна набегает на риф
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Возвращайтесь домой, дети пустыни
 # title_en: Return Home, Children of the Desert
 # title_zh: 返乡吧，来自沙漠的孩子们
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 40239

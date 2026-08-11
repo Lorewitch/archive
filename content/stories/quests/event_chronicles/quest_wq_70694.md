@@ -1,11 +1,11 @@
 # id: quest_wq_70694
 # story_group: event_chronicles
-# display_category: Ивент · Soulblazers' Snowbound Journey
+# display_category: Ивент · Снежное путешествие Пылких Сердец
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сила, смелость и испытания
 # title_en: Strength, Courage, and Trials
 # title_zh: 体魄胆识与试炼
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70694

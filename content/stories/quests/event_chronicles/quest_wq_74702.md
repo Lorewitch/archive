@@ -5,7 +5,7 @@
 # title_ru: Океанариум открывается!
 # title_en: Fisharium Open For Business!
 # title_zh: 水族馆？开业！
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74702

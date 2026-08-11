@@ -1,11 +1,11 @@
 # id: quest_wq_72672
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Сеть всевездесущности
 # title_en: Omni-Ubiquity Net
 # title_zh: 四方八方之网
-# region: Тейват
+# region: Инадзума
 # game_version: 2.3
 # release_versions: 2.3
 # source_id: 72672

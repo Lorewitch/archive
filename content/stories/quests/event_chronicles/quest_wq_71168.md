@@ -5,7 +5,7 @@
 # title_ru: Фонари удачи
 # title_en: Light the Way of Wishes
 # title_zh: 灯逐良愿
-# region: Тейват
+# region: Ли Юэ
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 71168

@@ -5,7 +5,7 @@
 # title_ru: Опорный пункт: Легион по охране припасов
 # title_en: Stronghold Guard: Hoard Guard Unit!
 # title_zh: 据点守卫·大门军团！
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 76680

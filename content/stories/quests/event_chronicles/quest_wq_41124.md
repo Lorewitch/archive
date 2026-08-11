@@ -1,11 +1,11 @@
 # id: quest_wq_41124
 # story_group: event_chronicles
-# display_category: Ивент · Unreconciled Stars
+# display_category: Ивент · Заблудшие звёзды
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: План «того господина»
 # title_en: "That Guy"'s Scheme
 # title_zh: 「那位先生」的计划
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 41124

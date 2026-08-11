@@ -1,11 +1,11 @@
 # id: quest_wq_41123
 # story_group: event_chronicles
-# display_category: Ивент · Unreconciled Stars
+# display_category: Ивент · Заблудшие звёзды
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Непредвиденные обстоятельства
 # title_en: Contingencies
 # title_zh: 紧急措施
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 41123

@@ -1,11 +1,11 @@
 # id: quest_wq_75504
 # story_group: event_chronicles
-# display_category: Ивент · Traces of Artistry
+# display_category: Ивент · Следы мастерства
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Путь граффити
 # title_en: On the Graffiti Road
 # title_zh: 涂鸦之路的方向标
-# region: Тейват
+# region: Натлан
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75504

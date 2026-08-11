@@ -1,11 +1,11 @@
 # id: quest_wq_75032
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Завриан возвращается в гнездо
 # title_en: A Saurian Returns to the Nest
 # title_zh: 龙的归巢
-# region: Тейват
+# region: Натлан
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75032

@@ -1,11 +1,11 @@
 # id: quest_wq_71666
 # story_group: event_chronicles
-# display_category: Ивент · Arataki Blazing Armor Beetle Battle Boot Camp
+# display_category: Ивент · Подготовительный лагерь Аратаки для боевых жуков
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Подготовительный лагерь Аратаки для боевых жуков!
 # title_en: Arataki Blazing Armor Beetle Battle Boot Camp!
 # title_zh: 荒泷甲光烈烈斗虫大修行！
-# region: Тейват
+# region: Инадзума
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 71666

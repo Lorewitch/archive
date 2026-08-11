@@ -1,11 +1,11 @@
 # id: quest_wq_73508
 # story_group: event_chronicles
-# display_category: Ивент · Fungus Mechanicus
+# display_category: Ивент · Грибомеханикус
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Обещание разлуки
 # title_en: Parting Arrangement
 # title_zh: 暂别时的约定
-# region: Тейват
+# region: Сумеру
 # game_version: 3.5
 # release_versions: 3.5
 # source_id: 73508

@@ -1,11 +1,11 @@
 # id: quest_wq_71145
 # story_group: event_chronicles
-# display_category: Ивент · Mutual Security Enhancing Simulation
+# display_category: Ивент · Моделирование взаимного повышения безопасности
 # icon: assets/icons/stories/quests/mutual_security_enhancing_simulation.webp
 # title_ru: Учебные сценарии
 # title_en: Scenarios for Study
 # title_zh: 解析与想定
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.7
 # release_versions: 4.7
 # source_id: 71145

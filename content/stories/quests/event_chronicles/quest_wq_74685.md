@@ -5,7 +5,7 @@
 # title_ru: И снова пушки...
 # title_en: We Meet Again, Cannon...
 # title_zh: 炮炮，又见炮炮。
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.7
 # release_versions: 4.7
 # source_id: 74685

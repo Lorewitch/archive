@@ -5,7 +5,7 @@
 # title_ru: Эхо путешествий
 # title_en: Wayfarer's Whispers
 # title_zh: 行者絮语
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75669

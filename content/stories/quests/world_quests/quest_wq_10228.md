@@ -1,11 +1,11 @@
 # id: quest_wq_10228
 # story_group: world_quests
-# display_category: Задание мира · Нод-Край
+# display_category: Задание мира · Луна
 # icon: assets/icons/stories/quests/mooncanon.webp
 # title_ru: Проект «Созерцатель луны»
 # title_en: Project Moongazer
 # title_zh: 望月者计划
-# region: Нод-Край
+# region: Луна
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 10228

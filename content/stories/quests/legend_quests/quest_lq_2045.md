@@ -6,6 +6,7 @@
 # title_en: A Thousand Moonlit Miles
 # title_zh: 千里月明
 # region: Ли Юэ
+# rarity: 5
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 2045

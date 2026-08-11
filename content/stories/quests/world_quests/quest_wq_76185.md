@@ -1,11 +1,11 @@
 # id: quest_wq_76185
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Мех и металл
 # title_en: Cat and Cog
 # title_zh: 猫咪与齿轮
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76185

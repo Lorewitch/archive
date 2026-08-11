@@ -6,6 +6,7 @@
 # title_en: Secret Pirate Treasure
 # title_zh: 海盗秘宝
 # region: Мондштадт
+# rarity: 4
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2001

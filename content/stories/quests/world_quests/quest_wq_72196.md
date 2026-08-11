@@ -1,11 +1,11 @@
 # id: quest_wq_72196
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Судьба бойца
 # title_en: Fate of a Fighter
 # title_zh: 武者的宿命
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72196

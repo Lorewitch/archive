@@ -1,11 +1,11 @@
 # id: quest_wq_72738
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Истории путешествий: Предначертание судьбы
 # title_en: Travelers' Tales: Destiny Drawn
 # title_zh: 游逸旅闻·相缘绘愿
-# region: Тейват
+# region: Инадзума
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 72738
@@ -15,8 +15,8 @@
 # part_source_ids: 72738
 # previous_quests: quest_wq_70689
 # next_quests:
-# related_quests: quest_wq_70689
-# quest_chain: quest_wq_70689,quest_wq_72738
+# related_quests:
+# quest_chain: quest_wq_72738
 # quest_series:
 # version_source: wiki_release_category
 

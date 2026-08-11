@@ -5,7 +5,7 @@
 # title_ru: Восемь мест от гор до морей: Сказания янтарных утёсов
 # title_en: Eight Locales Over Mountains and Seas: The Wonders of Adeptal Amber
 # title_zh: 山海八所巡礼·琥珀仙岳绮语
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72261

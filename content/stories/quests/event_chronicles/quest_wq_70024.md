@@ -1,11 +1,11 @@
 # id: quest_wq_70024
 # story_group: event_chronicles
-# display_category: Ивент · Mimi Tomo
+# display_category: Ивент · Поймай меня, если сможешь
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Поймай меня, если сможешь
 # title_en: Mimi Tomo
 # title_zh: 折箭觅踪
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 70024

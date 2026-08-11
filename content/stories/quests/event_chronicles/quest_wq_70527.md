@@ -5,7 +5,7 @@
 # title_ru: Гости с запада: Аромат свободы
 # title_en: A Visitor From Westward Realms: The Flavor of Freedom
 # title_zh: 西域来客・自由之味
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.5
 # release_versions: 3.5
 # source_id: 70527

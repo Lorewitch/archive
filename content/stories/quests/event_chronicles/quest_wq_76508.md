@@ -1,11 +1,11 @@
 # id: quest_wq_76508
 # story_group: event_chronicles
-# display_category: Ивент · Dance Dance Dynamic Disco
+# display_category: Ивент · Пульс танцпола
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Открытие «Танцевального обмена»
 # title_en: Dance Exchanges — A Beautiful Start
 # title_zh: 「舞力交流」的开幕
-# region: Тейват
+# region: Натлан
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76508

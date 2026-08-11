@@ -5,7 +5,7 @@
 # title_ru: Что здесь делают члены тайной организации?
 # title_en: Why Did a Member of a "Secret Organization" Come Here?
 # title_zh: 「秘密组织」的成员为什么来到这里
-# region: Тейват
+# region: Натлан
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 75658

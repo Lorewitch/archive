@@ -1,11 +1,11 @@
 # id: quest_wq_40033
 # story_group: event_chronicles
-# display_category: Ивент · Bantan Sango Case Files: The Warrior Dog
+# display_category: Ивент · Дело Бантан Санго: Пёс-воин
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Дело Бантан Санго: Истина (почти) становится явью
 # title_en: Bantan Sango Case File: The Truth (Just About) Comes to Light
 # title_zh: 万端珊瑚事件簿·稍欠灵光
-# region: Тейват
+# region: Инадзума
 # game_version: 2.3
 # release_versions: 2.3
 # source_id: 40033

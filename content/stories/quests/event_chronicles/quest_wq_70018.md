@@ -1,11 +1,11 @@
 # id: quest_wq_70018
 # story_group: event_chronicles
-# display_category: Ивент · Mimi Tomo
+# display_category: Ивент · Поймай меня, если сможешь
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Взаимная выгода?
 # title_en: Mutual Exchange
 # title_zh: 互通有无？
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 70018

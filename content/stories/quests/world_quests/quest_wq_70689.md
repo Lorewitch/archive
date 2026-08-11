@@ -1,11 +1,11 @@
 # id: quest_wq_70689
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Не счесть историй в разных землях
 # title_en: The Many Matters Learned in One's Travels
 # title_zh: 游逸诸地，曾听旅闻
-# region: Тейват
+# region: Инадзума
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 70689
@@ -15,8 +15,8 @@
 # part_source_ids: 70689
 # previous_quests:
 # next_quests: quest_wq_72738
-# related_quests: quest_wq_72738
-# quest_chain: quest_wq_70689,quest_wq_72738
+# related_quests:
+# quest_chain: quest_wq_70689
 # quest_series:
 # version_source: wiki_release_category
 

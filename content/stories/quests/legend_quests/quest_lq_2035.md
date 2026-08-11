@@ -6,6 +6,7 @@
 # title_en: The Illusions of the Mob
 # title_zh: 乌合的虚像
 # region: Сумеру
+# rarity: 5
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 2035

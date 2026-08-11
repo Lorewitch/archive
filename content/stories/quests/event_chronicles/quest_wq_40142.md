@@ -1,11 +1,11 @@
 # id: quest_wq_40142
 # story_group: event_chronicles
-# display_category: Ивент · Vibrant Harriers Aloft in Spring Breeze
+# display_category: Ивент · Яркие птицы в весеннем небе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Суета жизни
 # title_en: Hustle and Bustle
 # title_zh: 人来人往
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 40142

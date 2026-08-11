@@ -1,11 +1,11 @@
 # id: quest_wq_75506
 # story_group: event_chronicles
-# display_category: Ивент · Aphid Treasure Trace
+# display_category: Ивент · В поисках сокровищ тли
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Последняя атака отряда охотников за насекомыми
 # title_en: Last Ride of the Bugbuster Squad
 # title_zh: 捉虫小队最后出击
-# region: Тейват
+# region: Натлан
 # game_version: 5.1
 # release_versions: 5.1
 # source_id: 75506

@@ -1,11 +1,11 @@
 # id: quest_wq_76187
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Чай или пузырин?
 # title_en: Tea or Bulle Fruit?
 # title_zh: 茶叶还是泡泡桔？
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76187

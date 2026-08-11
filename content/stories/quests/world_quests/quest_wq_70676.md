@@ -1,11 +1,11 @@
 # id: quest_wq_70676
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Бесконечная история
 # title_en: Unbegun, Unending Story
 # title_zh: 无始无终的故事
-# region: Тейват
+# region: Мондштадт
 # game_version: 4.7
 # release_versions: 4.7
 # source_id: 70676

@@ -6,6 +6,7 @@
 # title_en: Rise Up, Golden Soul
 # title_zh: 赤金魂
 # region: Инадзума
+# rarity: 5
 # game_version: 2.3
 # release_versions: 2.3
 # source_id: 2026

@@ -1,11 +1,11 @@
 # id: quest_wq_75500
 # story_group: event_chronicles
-# display_category: Ивент · Traces of Artistry
+# display_category: Ивент · Следы мастерства
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Передовой взгляд на граффити!
 # title_en: Avant-Garde Graffiti Visionary!
 # title_zh: 前卫理念与涂鸦先锋！
-# region: Тейват
+# region: Натлан
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75500

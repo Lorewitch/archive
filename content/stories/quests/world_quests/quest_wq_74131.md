@@ -1,11 +1,11 @@
 # id: quest_wq_74131
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Предполагаемый план
 # title_en: An Expected Plan
 # title_zh: 一份预期内的计划
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74131
@@ -15,8 +15,8 @@
 # part_source_ids: 74131
 # previous_quests: quest_wq_10145
 # next_quests: quest_wq_74136
-# related_quests: quest_wq_10145,quest_wq_74136
-# quest_chain: quest_wq_10145,quest_wq_74131,quest_wq_74136
+# related_quests:
+# quest_chain: quest_wq_74131
 # quest_series:
 # version_source: wiki_release_category
 

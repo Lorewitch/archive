@@ -1,11 +1,11 @@
 # id: quest_wq_75672
 # story_group: event_chronicles
-# display_category: Ивент · Kaleidoscopic Color Chase
+# display_category: Ивент · Калейдоскоп красок
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Яркие краски!
 # title_en: Don't Let the Colors Escape!
 # title_zh: 斑斓色彩不许逃！
-# region: Тейват
+# region: Натлан
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 75672

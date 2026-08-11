@@ -1,11 +1,11 @@
 # id: quest_wq_75197
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Клык разложения
 # title_en: The Festering Fang
 # title_zh: 腐殖之牙
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 75197

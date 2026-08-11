@@ -1,11 +1,11 @@
 # id: quest_wq_70090
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Альбедо
 # title_en: Tea Party Re-Invitation: Albedo
 # title_zh: 茶会的再邀·阿贝多
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 70090

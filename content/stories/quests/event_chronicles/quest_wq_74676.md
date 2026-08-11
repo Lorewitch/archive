@@ -5,7 +5,7 @@
 # title_ru: Воображаемый лабиринт для настоящих героев
 # title_en: Imaginary Maze of True Heroes
 # title_zh: 拟想！强者与迷宫！
-# region: Тейват
+# region: Мондштадт
 # game_version: 4.7
 # release_versions: 4.7
 # source_id: 74676

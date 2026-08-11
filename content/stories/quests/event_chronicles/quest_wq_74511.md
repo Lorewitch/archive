@@ -1,11 +1,11 @@
 # id: quest_wq_74511
 # story_group: event_chronicles
-# display_category: Ивент · Rolling Crossfire
+# display_category: Ивент · Вихрь перекрёстного огня
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Жандарм-изобретатель
 # title_en: The Gardes' Inventor
 # title_zh: 警备队的发明家
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.5
 # release_versions: 4.5
 # source_id: 74511

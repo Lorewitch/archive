@@ -1,11 +1,11 @@
 # id: quest_wq_70684
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Ветрам свободы
 # title_en: To the Winds of Freedom
 # title_zh: 致自由之风
-# region: Тейват
+# region: Мондштадт
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 70684

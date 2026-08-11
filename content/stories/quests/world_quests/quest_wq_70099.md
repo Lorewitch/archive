@@ -1,11 +1,11 @@
 # id: quest_wq_70099
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Ветер стих
 # title_en: The Wind Has Ceased
 # title_zh: 风停了
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 70099

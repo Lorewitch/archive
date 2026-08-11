@@ -6,6 +6,7 @@
 # title_en: The Unanswerable Problems
 # title_zh: 没有答案的课题
 # region: Сумеру
+# rarity: 5
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 2030

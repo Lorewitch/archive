@@ -1,11 +1,11 @@
 # id: quest_wq_73708
 # story_group: event_chronicles
-# display_category: Ивент · Sightseeing With Friends
+# display_category: Ивент · Открывая мир вместе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Встреча с друзьями-плесенниками!
 # title_en: Reunite, My Shroom Buddies!
 # title_zh: 重逢，蕈兽伙伴！
-# region: Тейват
+# region: Сумеру
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 73708

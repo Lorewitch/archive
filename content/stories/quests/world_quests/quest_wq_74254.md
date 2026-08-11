@@ -1,11 +1,11 @@
 # id: quest_wq_74254
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Вальс Нарцисса
 # title_en: Narcissus's Waltz
 # title_zh: 水仙的圆舞曲
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74254

@@ -1,11 +1,11 @@
 # id: quest_wq_74691
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Случайные пророчества
 # title_en: Revelations by Chance
 # title_zh: 偶发的谕示
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74691

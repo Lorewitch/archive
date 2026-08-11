@@ -1,11 +1,11 @@
 # id: quest_wq_76043
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Беспорядки, вызванные кражей
 # title_en: The Disturbance Caused by Theft
 # title_zh: 货物失窃引发的骚乱
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76043
@@ -15,8 +15,8 @@
 # part_source_ids: 76043
 # previous_quests:
 # next_quests: quest_wq_76115
-# related_quests: quest_wq_76042,quest_wq_76044,quest_wq_76114,quest_wq_76115
-# quest_chain: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76114,quest_wq_76115
+# related_quests:
+# quest_chain: quest_wq_76043
 # quest_series:
 # version_source: wiki_release_category
 

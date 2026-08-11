@@ -5,7 +5,7 @@
 # title_ru: Путь искателя сокровищ... Часть II?
 # title_en: The Path of the Treasure-Seeker... Part II?
 # title_zh: 寻宝的方法…之二？
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72651
@@ -15,8 +15,8 @@
 # part_source_ids: 72651
 # previous_quests: quest_wq_70652
 # next_quests: quest_wq_73674
-# related_quests: quest_wq_70652,quest_wq_73674
-# quest_chain: quest_wq_70652,quest_wq_72651,quest_wq_73674
+# related_quests:
+# quest_chain: quest_wq_72651
 # quest_series:
 # version_source: wiki_release_category
 

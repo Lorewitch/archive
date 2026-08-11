@@ -1,11 +1,11 @@
 # id: quest_wq_75104
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: По радуге, по волнам!
 # title_en: Stride on Rainbows, Split the Waves
 # title_zh: 踏虹破浪！
-# region: Тейват
+# region: Натлан
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75104

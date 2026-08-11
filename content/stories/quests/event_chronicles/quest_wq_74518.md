@@ -1,11 +1,11 @@
 # id: quest_wq_74518
 # story_group: event_chronicles
-# display_category: Ивент · Operation Downpour Simulation
+# display_category: Ивент · Симуляция операции «Ливень»
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Гибкое тактическое мышление
 # title_en: Thinking Outside Every Box...
 # title_zh: 灵活调度的思考…
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 74518

@@ -1,11 +1,11 @@
 # id: quest_wq_76512
 # story_group: event_chronicles
-# display_category: Ивент · Trials of the Brave Warrior
+# display_category: Ивент · Заметки воина
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Финал турнира, определение чемпиона
 # title_en: Final Match Concludes, Champion Decided
 # title_zh: 赛事终场，冠军落定
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 76512

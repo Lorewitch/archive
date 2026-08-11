@@ -1,11 +1,11 @@
 # id: quest_wq_70523
 # story_group: event_chronicles
-# display_category: Ивент · Of Ballads and Brews
+# display_category: Ивент · О балладах и кубках
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Мастер коктейлей из горной деревни
 # title_en: Mountain Mixologist
 # title_zh: 山间的饮品调配师
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 70523

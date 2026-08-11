@@ -6,6 +6,7 @@
 # title_en: Mondstadt Gastronomy Trip
 # title_zh: 蒙德食遇之旅
 # region: Мондштадт
+# rarity: 4
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2007

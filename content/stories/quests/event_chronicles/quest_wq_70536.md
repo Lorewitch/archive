@@ -1,11 +1,11 @@
 # id: quest_wq_70536
 # story_group: event_chronicles
-# display_category: Ивент · Dodoco's Bomb-Tastic Adventure
+# display_category: Ивент · Бомбические приключения Додоко
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Кризис миновал! Счастье осталось!
 # title_en: Crisis Relieved! A Happy Memento!
 # title_zh: 危机解除！开心留念！
-# region: Тейват
+# region: Мондштадт
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 70536

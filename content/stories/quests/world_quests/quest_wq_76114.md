@@ -1,11 +1,11 @@
 # id: quest_wq_76114
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Странный отшельник
 # title_en: The Suspicious Hermit
 # title_zh: 形迹反常的隐士
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76114
@@ -15,8 +15,8 @@
 # part_source_ids: 76114
 # previous_quests:
 # next_quests: quest_wq_76115
-# related_quests: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76115
-# quest_chain: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76114,quest_wq_76115
+# related_quests:
+# quest_chain: quest_wq_76114
 # quest_series:
 # version_source: wiki_release_category
 

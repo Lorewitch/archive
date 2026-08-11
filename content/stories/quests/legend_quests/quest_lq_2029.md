@@ -6,6 +6,7 @@
 # title_en: Calculated Gambit
 # title_zh: 棋生断处
 # region: Ли Юэ
+# rarity: 5
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 2029

@@ -1,11 +1,11 @@
 # id: quest_wq_76684
 # story_group: event_chronicles
-# display_category: Ивент · Final Long-Range Sightlines
+# display_category: Ивент · Рубеж прицеливания
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Перья и снаряды
 # title_en: Flower, Feathers, and Bullets
 # title_zh: 花羽伴弹头
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76684

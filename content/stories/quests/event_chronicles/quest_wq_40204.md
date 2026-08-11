@@ -5,7 +5,7 @@
 # title_ru: Странные вопросы, которые наводят на размышления
 # title_en: Those Strange and Intriguing Questions
 # title_zh: 那些古怪又让人思索的问题
-# region: Тейват
+# region: Сумеру
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 40204

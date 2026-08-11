@@ -1,11 +1,11 @@
 # id: quest_wq_71536
 # story_group: event_chronicles
-# display_category: Ивент · Springtime Charms
+# display_category: Ивент · Талисманы весны
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Персональный подарочный конверт №4
 # title_en: Custom Gift Envelope No. 4
 # title_zh: 如意祝柬·之四
-# region: Тейват
+# region: Ли Юэ
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 71536

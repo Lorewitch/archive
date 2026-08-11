@@ -1,11 +1,11 @@
 # id: quest_wq_71823
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite Tales
+# display_category: Ивент · Истории Праздника морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: На страже деревни
 # title_en: Guardians of the Countryside
 # title_zh: 守乡人
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 71823

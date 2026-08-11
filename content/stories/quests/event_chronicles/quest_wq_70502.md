@@ -1,11 +1,11 @@
 # id: quest_wq_70502
 # story_group: event_chronicles
-# display_category: Ивент · Of Drink A-Dreaming
+# display_category: Ивент · Глоток пьянящей мечты
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Глоток пьянящей мечты
 # title_en: Of Drink A-Dreaming
 # title_zh: 曲生酌微梦
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 70502

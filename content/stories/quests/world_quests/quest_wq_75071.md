@@ -1,11 +1,11 @@
 # id: quest_wq_75071
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Будь со мной
 # title_en: Stand by Me
 # title_zh: 常伴相随
-# region: Тейват
+# region: Натлан
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75071
@@ -15,8 +15,8 @@
 # part_source_ids: 75071
 # previous_quests: quest_wq_75070
 # next_quests:
-# related_quests: quest_wq_75064,quest_wq_75070
-# quest_chain: quest_wq_75064,quest_wq_75070,quest_wq_75071
+# related_quests:
+# quest_chain: quest_wq_75071
 # quest_series:
 # version_source: wiki_release_category
 

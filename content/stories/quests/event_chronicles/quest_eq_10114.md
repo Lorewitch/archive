@@ -5,7 +5,7 @@
 # title_ru: Бросок дайсов! Новые знакомства
 # title_en: Roll! A Sea of New Acquaintances
 # title_zh: 骰落！新朋满座
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 10114

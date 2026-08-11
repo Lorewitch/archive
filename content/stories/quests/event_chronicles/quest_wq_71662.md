@@ -5,7 +5,7 @@
 # title_ru: Божественное мастерство
 # title_en: Divine Ingenuity
 # title_zh: 神工天巧
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 71662

@@ -1,11 +1,11 @@
 # id: quest_wq_76139
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Мелкая торговля
 # title_en: A Small Venture
 # title_zh: 小生意
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76139

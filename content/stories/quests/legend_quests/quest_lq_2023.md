@@ -6,6 +6,7 @@
 # title_en: Reflections of Mortality
 # title_zh: 影照浮世风流
 # region: Инадзума
+# rarity: 5
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 2023

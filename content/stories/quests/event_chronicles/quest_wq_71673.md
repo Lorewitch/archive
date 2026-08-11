@@ -5,7 +5,7 @@
 # title_ru: Кисть вдохновения
 # title_en: Vigorous Brushstrokes
 # title_zh: 笔腾墨跃
-# region: Тейват
+# region: Ли Юэ
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 71673

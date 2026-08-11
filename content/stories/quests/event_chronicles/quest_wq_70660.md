@@ -5,7 +5,7 @@
 # title_ru: По следам ветра
 # title_en: Windtrace
 # title_zh: 风行迷踪
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 70660

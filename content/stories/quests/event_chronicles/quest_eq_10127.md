@@ -5,7 +5,7 @@
 # title_ru: Задушевная встреча
 # title_en: Congenial Gathering
 # title_zh: 言欢聚
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 10127

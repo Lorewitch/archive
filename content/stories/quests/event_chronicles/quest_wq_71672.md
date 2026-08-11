@@ -5,7 +5,7 @@
 # title_ru: Лунная тропа Адепта
 # title_en: The Moonlit Adeptus's Trail
 # title_zh: 月映仙踪
-# region: Тейват
+# region: Ли Юэ
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 71672

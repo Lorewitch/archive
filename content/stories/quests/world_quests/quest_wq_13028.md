@@ -1,11 +1,11 @@
 # id: quest_wq_13028
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Вдруг где-то есть и другой дом
 # title_en: Another Home There May Yet Be
 # title_zh: 若还有另一个家
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 13028
@@ -15,8 +15,8 @@
 # part_source_ids: 13028
 # previous_quests: quest_lq_2039
 # next_quests:
-# related_quests: quest_lq_2034,quest_lq_2039
-# quest_chain: quest_lq_2034,quest_lq_2039,quest_wq_13028
+# related_quests:
+# quest_chain: quest_wq_13028
 # quest_series:
 # version_source: wiki_release_category
 

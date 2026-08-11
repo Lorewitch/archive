@@ -1,11 +1,11 @@
 # id: quest_wq_70046
 # story_group: event_chronicles
-# display_category: Ивент · Invasive Fish Wrangler
+# display_category: Ивент · Ловля инвазивных видов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Встреча с инвазивными видами
 # title_en: A Very Fishy Encounter
 # title_zh: 再遇异域鱼鱼？
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.4
 # release_versions: 5.4
 # source_id: 70046

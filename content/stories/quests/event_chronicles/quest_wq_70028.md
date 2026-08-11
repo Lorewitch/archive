@@ -1,11 +1,11 @@
 # id: quest_wq_70028
 # story_group: event_chronicles
-# display_category: Ивент · Shadow of the Ancients
+# display_category: Ивент · Тень древности
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Автономный источник механической энергии. Живой образец
 # title_en: Autonomous Mechanical Energy Source: Live Sample
 # title_zh: 自律机关能源研究·实践样例
-# region: Тейват
+# region: Инадзума
 # game_version: 2.2
 # release_versions: 2.2
 # source_id: 70028

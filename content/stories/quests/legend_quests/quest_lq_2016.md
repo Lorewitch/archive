@@ -6,6 +6,7 @@
 # title_en: Sea of Clouds, Sea of People
 # title_zh: 云之海，人之海
 # region: Ли Юэ
+# rarity: 5
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 2016

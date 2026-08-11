@@ -1,11 +1,11 @@
 # id: quest_wq_73692
 # story_group: event_chronicles
-# display_category: Ивент · A Parade of Providence
+# display_category: Ивент · Торжество разума
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Миметическая репликация
 # title_en: Mimetic Replication
 # title_zh: 仿生摹行
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73692

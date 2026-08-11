@@ -5,7 +5,7 @@
 # title_ru: Только тридцать процентов!
 # title_en: Just a 30% Cut!
 # title_zh: 营业额？只拿三成！
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74703

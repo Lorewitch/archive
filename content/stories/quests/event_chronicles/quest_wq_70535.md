@@ -1,11 +1,11 @@
 # id: quest_wq_70535
 # story_group: event_chronicles
-# display_category: Ивент · Dodoco's Bomb-Tastic Adventure
+# display_category: Ивент · Бомбические приключения Додоко
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Таинственные рыбины? Бомбические приключения!
 # title_en: Mysterious Fish? A Booming Adventure!
 # title_zh: 神秘鱼鱼？轰轰奇遇！
-# region: Тейват
+# region: Мондштадт
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 70535

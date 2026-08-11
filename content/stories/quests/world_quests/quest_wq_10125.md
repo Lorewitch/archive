@@ -1,11 +1,11 @@
 # id: quest_wq_10125
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Монументальное исследование
 # title_en: Monumental Study
 # title_zh: 碑铭的研究
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 10125

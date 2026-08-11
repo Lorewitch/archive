@@ -1,11 +1,11 @@
 # id: quest_wq_74690
 # story_group: event_chronicles
-# display_category: Ивент · Rapid Capture
+# display_category: Ивент · Скоростная съёмка
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ожесточённый спор
 # title_en: A Robust Theoretical Discussion
 # title_zh: 激烈的开端理论
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 74690

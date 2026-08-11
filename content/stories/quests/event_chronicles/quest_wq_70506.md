@@ -1,11 +1,11 @@
 # id: quest_wq_70506
 # story_group: event_chronicles
-# display_category: Ивент · Of Drink A-Dreaming
+# display_category: Ивент · Глоток пьянящей мечты
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Одуванчик, роза, ветряная астра
 # title_en: Dandelion, Rose, and Windwheel Aster
 # title_zh: 蒲公英、蔷薇、风车菊
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 70506

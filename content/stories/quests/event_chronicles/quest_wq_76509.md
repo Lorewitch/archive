@@ -1,11 +1,11 @@
 # id: quest_wq_76509
 # story_group: event_chronicles
-# display_category: Ивент · Moonlit Patrol Exercise
+# display_category: Ивент · Учения лунного патруля
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Лунное патрулирование
 # title_en: Moonlit Patrol Exercise
 # title_zh: 月引周巡之述演
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76509

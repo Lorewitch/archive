@@ -1,11 +1,11 @@
 # id: quest_wq_73509
 # story_group: event_chronicles
-# display_category: Ивент · Brewing Developments
+# display_category: Ивент · Развитие эликсиров
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Взрывное кипение!
 # title_en: Boiling Over!
 # title_zh: 爆震沸腾！
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73509

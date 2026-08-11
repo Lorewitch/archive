@@ -1,11 +1,11 @@
 # id: quest_wq_71670
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Мрачный натиск
 # title_en: Tumult Subduer
 # title_zh: 肃靖险乱
-# region: Тейват
+# region: Ли Юэ
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 71670

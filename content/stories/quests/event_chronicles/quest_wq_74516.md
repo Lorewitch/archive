@@ -1,11 +1,11 @@
 # id: quest_wq_74516
 # story_group: event_chronicles
-# display_category: Ивент · Invasive Fish Wrangler
+# display_category: Ивент · Ловля инвазивных видов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Вторжение существ приостановлено...
 # title_en: An Invasion on Hold
 # title_zh: 暂时止息的生物入侵…
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.4
 # release_versions: 5.4
 # source_id: 74516

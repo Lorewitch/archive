@@ -6,6 +6,7 @@
 # title_en: The Great Narukami Offering
 # title_zh: 鸣神御祓祈愿祭
 # region: Инадзума
+# rarity: 5
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 2025

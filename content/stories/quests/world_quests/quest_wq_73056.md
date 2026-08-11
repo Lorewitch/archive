@@ -1,11 +1,11 @@
 # id: quest_wq_73056
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Воспоминания Аранаги
 # title_en: Aranaga's Memory
 # title_zh: 兰纳迦的回忆
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73056
@@ -15,8 +15,8 @@
 # part_source_ids: 73056
 # previous_quests:
 # next_quests: quest_wq_73059
-# related_quests: quest_wq_73057,quest_wq_73058,quest_wq_73059
-# quest_chain: quest_wq_73056,quest_wq_73057,quest_wq_73058,quest_wq_73059
+# related_quests:
+# quest_chain: quest_wq_73056
 # quest_series:
 # version_source: wiki_release_category
 

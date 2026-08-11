@@ -5,7 +5,7 @@
 # title_ru: Хякунин икки: великая битва
 # title_en: Hyakunin Ikki: The Greatest Battle
 # title_zh: 「百人一揆·最强武斗大会」
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72660

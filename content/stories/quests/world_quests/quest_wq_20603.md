@@ -1,11 +1,11 @@
 # id: quest_wq_20603
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Время никого не ждёт
 # title_en: Time Waits For No Man
 # title_zh: 时不再来
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 20603
@@ -15,8 +15,8 @@
 # part_source_ids: 20603
 # previous_quests:
 # next_quests: quest_wq_70813
-# related_quests: quest_wq_20602,quest_wq_70813
-# quest_chain: quest_wq_20602,quest_wq_20603,quest_wq_70813
+# related_quests:
+# quest_chain: quest_wq_20603
 # quest_series:
 # version_source: wiki_release_category
 

@@ -1,11 +1,11 @@
 # id: quest_wq_70534
 # story_group: event_chronicles
-# display_category: Ивент · Duel! The Summoners' Summit!
+# display_category: Ивент · Дуэль! К вершинам карточного мастерства!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Стратегические дайсы
 # title_en: Heart of the Dice
 # title_zh: 妙骰战法
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 70534

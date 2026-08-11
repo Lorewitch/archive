@@ -1,11 +1,11 @@
 # id: quest_wq_74045
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Приключения чудесного камня
 # title_en: Strange Stone Chronicle
 # title_zh: 奇石历险记
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74045
@@ -15,8 +15,8 @@
 # part_source_ids: 74045
 # previous_quests:
 # next_quests: quest_wq_74058
-# related_quests: quest_wq_74058,quest_wq_74059
-# quest_chain: quest_wq_74045,quest_wq_74058,quest_wq_74059
+# related_quests:
+# quest_chain: quest_wq_74045
 # quest_series:
 # version_source: wiki_release_category
 

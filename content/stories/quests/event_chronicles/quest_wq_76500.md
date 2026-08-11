@@ -1,11 +1,11 @@
 # id: quest_wq_76500
 # story_group: event_chronicles
-# display_category: Ивент · Lightgleaner's Journey
+# display_category: Ивент · Свет странствий
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Дар воспоминаний
 # title_en: A Gift of Memories
 # title_zh: 定格回忆的赠礼
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76500

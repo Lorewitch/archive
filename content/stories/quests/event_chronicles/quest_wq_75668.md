@@ -5,7 +5,7 @@
 # title_ru: Пиршество чувств
 # title_en: A Feast for the Senses
 # title_zh: 炫音爆光
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75668

@@ -1,11 +1,11 @@
 # id: quest_wq_72698
 # story_group: event_chronicles
-# display_category: Ивент · Hues of the Violet Garden
+# display_category: Ивент · Краски фиалкового сада
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бой с Окубо Сандзаэмоном
 # title_en: Versus Ookubo Sanzaemon
 # title_zh: 与大久保三左卫门之战
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72698

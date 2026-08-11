@@ -1,11 +1,11 @@
 # id: quest_wq_70514
 # story_group: event_chronicles
-# display_category: Ивент · Evermotion Mechanical Painting
+# display_category: Ивент · Вечно движущаяся картина
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Вечно движущаяся картина
 # title_en: Evermotion Mechanical Painting
 # title_zh: 恒动械画
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 70514

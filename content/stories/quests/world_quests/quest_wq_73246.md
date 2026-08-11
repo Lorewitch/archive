@@ -1,11 +1,11 @@
 # id: quest_wq_73246
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Кулинарная мечта
 # title_en: An Unwavering Culinary Dream
 # title_zh: 愿为一炊之梦
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73246

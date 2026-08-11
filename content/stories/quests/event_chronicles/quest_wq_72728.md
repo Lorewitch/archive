@@ -1,11 +1,11 @@
 # id: quest_wq_72728
 # story_group: event_chronicles
-# display_category: Ивент · Akitsu Kimodameshi
+# display_category: Ивент · «Акицу Кимодамэси»
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Акицу Югэй»
 # title_en: Akitsu Yuugei
 # title_zh: 秋津游艺
-# region: Тейват
+# region: Инадзума
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 72728

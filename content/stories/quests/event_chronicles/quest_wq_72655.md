@@ -1,11 +1,11 @@
 # id: quest_wq_72655
 # story_group: event_chronicles
-# display_category: Ивент · Thunder Sojourn
+# display_category: Ивент · Грозовые отпечатки
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Встреча с далёким эхо
 # title_en: Facing Distant Echoes
 # title_zh: 直面悠远的回响
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72655

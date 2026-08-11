@@ -1,11 +1,11 @@
 # id: quest_wq_71163
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Подарок от Адепта
 # title_en: Adeptus's Gift
 # title_zh: 仙人赠礼
-# region: Тейват
+# region: Ли Юэ
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 71163

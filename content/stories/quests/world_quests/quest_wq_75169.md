@@ -1,11 +1,11 @@
 # id: quest_wq_75169
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Путь внутрь горы
 # title_en: The Way Into the Mountain
 # title_zh: 觐山之路
-# region: Тейват
+# region: Натлан
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75169
@@ -15,8 +15,8 @@
 # part_source_ids: 75169
 # previous_quests:
 # next_quests: quest_wq_10240
-# related_quests: quest_wq_10240,quest_wq_10230,quest_wq_10231
-# quest_chain: quest_wq_75169,quest_wq_10240,quest_wq_10230,quest_wq_10231
+# related_quests:
+# quest_chain: quest_wq_75169
 # quest_series:
 # version_source: wiki_release_category
 

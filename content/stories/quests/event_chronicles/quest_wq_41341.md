@@ -1,11 +1,11 @@
 # id: quest_wq_41341
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite Tales
+# display_category: Ивент · Истории Праздника морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Маленький фонарик, маленькое желание
 # title_en: Little Lantern, Little Wish
 # title_zh: 小霄灯与小愿望
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 41341

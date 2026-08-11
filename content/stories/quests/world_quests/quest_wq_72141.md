@@ -1,11 +1,11 @@
 # id: quest_wq_72141
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Зловещая инструкция
 # title_en: Sinister Instruction
 # title_zh: 险恶的教喻
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72141

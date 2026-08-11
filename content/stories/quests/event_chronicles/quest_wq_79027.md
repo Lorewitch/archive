@@ -1,11 +1,11 @@
 # id: quest_wq_79027
 # story_group: event_chronicles
-# display_category: Ивент · Summertime Odyssey
+# display_category: Ивент · Летнее морское путешествие
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Последнее сокровище
 # title_en: The Final Treasure
 # title_zh: 最后的宝藏
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 79027

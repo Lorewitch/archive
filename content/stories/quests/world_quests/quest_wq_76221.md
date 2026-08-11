@@ -1,11 +1,11 @@
 # id: quest_wq_76221
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Тарталья
 # title_en: Tea Party Re-Invitation: Tartaglia
 # title_zh: 茶会的再邀·达达利亚
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76221

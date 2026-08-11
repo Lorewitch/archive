@@ -1,11 +1,11 @@
 # id: quest_wq_74149
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Леруа: Предсмертное просветление
 # title_en: Leroy: Dying Flash
 # title_zh: 勒鲁瓦·回光返照
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74149
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_74150
 # related_quests: quest_wq_74150,quest_wq_74151,quest_wq_74153,quest_wq_74154,quest_wq_74156,quest_wq_74157
 # quest_chain: quest_wq_74149,quest_wq_74150,quest_wq_74151,quest_wq_74153,quest_wq_74154,quest_wq_74156,quest_wq_74157
-# quest_series:
+# quest_series: Leroy
 # version_source: wiki_release_category
 
 ## RU

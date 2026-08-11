@@ -6,6 +6,7 @@
 # title_en: Sal Flore
 # title_zh: 盐花
 # region: Ли Юэ
+# rarity: 5
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 2014

@@ -1,11 +1,11 @@
 # id: quest_wq_72659
 # story_group: event_chronicles
-# display_category: Ивент · Lunar Realm
+# display_category: Ивент · Лунное королевство
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Луна взошла
 # title_en: The Moon Has Risen
 # title_zh: 月升之时
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72659

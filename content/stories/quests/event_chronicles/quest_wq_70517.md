@@ -5,7 +5,7 @@
 # title_ru: Неразгаданная тайна?
 # title_en: Any Unsolved Mysteries?
 # title_zh: 残留的谜团？
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 70517

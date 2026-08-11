@@ -1,11 +1,11 @@
 # id: quest_wq_75233
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Сияй же, айдол Пипильпан!
 # title_en: Shine On, Pipilpan Idol!
 # title_zh: 闪耀！皮皮潘偶像大赛！
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75233

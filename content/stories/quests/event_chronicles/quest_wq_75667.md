@@ -5,7 +5,7 @@
 # title_ru: Путешествуя вместе
 # title_en: Travels Are Fuller With Friends
 # title_zh: 遥遥同旅
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75667

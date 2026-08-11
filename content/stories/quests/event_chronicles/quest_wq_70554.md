@@ -1,11 +1,11 @@
 # id: quest_wq_70554
 # story_group: event_chronicles
-# display_category: Ивент · Homeward, He Who Caught the Wind
+# display_category: Ивент · Возвращение ловца ветра
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Заметки почётного рыцаря о приготовлении коктейлей
 # title_en: Honorary Knight's Notes on Mixology
 # title_zh: 荣誉骑士的调饮心得
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 70554

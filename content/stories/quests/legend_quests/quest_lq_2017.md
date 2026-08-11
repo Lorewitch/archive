@@ -6,6 +6,7 @@
 # title_en: Traveler Observation Report
 # title_zh: 旅行者观察报告
 # region: Мондштадт
+# rarity: 5
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 2017

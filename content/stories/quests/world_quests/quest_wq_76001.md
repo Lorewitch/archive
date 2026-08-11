@@ -1,11 +1,11 @@
 # id: quest_wq_76001
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Отзвуки скорбного колокола
 # title_en: The Bell of Mourning Echoes
 # title_zh: 哀铃的余响
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76001

@@ -6,6 +6,7 @@
 # title_en: Dream Eater's Melancholia
 # title_zh: 食梦者的忧郁
 # region: Инадзума
+# rarity: 5
 # game_version: 5.4
 # release_versions: 5.4
 # source_id: 2069

@@ -1,11 +1,11 @@
 # id: quest_wq_76507
 # story_group: event_chronicles
-# display_category: Ивент · Lightgleaner's Journey
+# display_category: Ивент · Свет странствий
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Тёплое обещание
 # title_en: A Warm Promise
 # title_zh: 定格温暖的约定
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76507

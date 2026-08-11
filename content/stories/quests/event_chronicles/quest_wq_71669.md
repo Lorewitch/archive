@@ -1,11 +1,11 @@
 # id: quest_wq_71669
 # story_group: event_chronicles
-# display_category: Ивент · Claw Convoy
+# display_category: Ивент · Когтистый Конвой
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Наши друзья-животные: Эпилог
 # title_en: Our Animal Friends: Epilogue
 # title_zh: 我们的动物朋友·尾声
-# region: Тейват
+# region: Натлан
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 71669

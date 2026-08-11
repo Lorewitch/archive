@@ -1,11 +1,11 @@
 # id: quest_wq_73510
 # story_group: event_chronicles
-# display_category: Ивент · Brewing Developments
+# display_category: Ивент · Развитие эликсиров
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Щедрый» бюджет
 # title_en: An Abundant Estimation
 # title_zh: 「丰厚」的预算
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73510

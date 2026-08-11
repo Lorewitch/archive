@@ -1,11 +1,11 @@
 # id: quest_wq_73517
 # story_group: event_chronicles
-# display_category: Ивент · Fulminating Sandstorm
+# display_category: Ивент · Неистовая песчаная буря
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Избавление от червей: Выводы
 # title_en: The Culling of the Worms: Conclusion
 # title_zh: 沙漠虫害·结论
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73517

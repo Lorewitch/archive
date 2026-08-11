@@ -5,7 +5,7 @@
 # title_ru: Серия поворотов
 # title_en: A Series of Twists and Turns
 # title_zh: 一波三折的辗转
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 10233

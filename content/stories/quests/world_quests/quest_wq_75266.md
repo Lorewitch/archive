@@ -1,11 +1,11 @@
 # id: quest_wq_75266
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Ситлали
 # title_en: Tea Party Re-Invitation: Citlali
 # title_zh: 茶会的再邀·茜特菈莉
-# region: Тейват
+# region: Натлан
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 75266

@@ -5,7 +5,7 @@
 # title_ru: Заметки режиссёра
 # title_en: Filmmaking Notes
 # title_zh: 映影制作札记
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.4
 # release_versions: 5.4
 # source_id: 74683

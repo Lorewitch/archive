@@ -1,11 +1,11 @@
 # id: quest_wq_75650
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Вперёд к пылающим приключениям!
 # title_en: Toward Red-Hot Adventure!
 # title_zh: 朝着炽热的冒险！
-# region: Тейват
+# region: Натлан
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75650

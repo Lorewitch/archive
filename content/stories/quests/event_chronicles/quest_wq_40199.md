@@ -5,7 +5,7 @@
 # title_ru: Тайное расследование, грязные финансовые махинации
 # title_en: Covert Investigation, Dirty Money Misdeeds
 # title_zh: 隐行谛勘，秽金之罪
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 40199

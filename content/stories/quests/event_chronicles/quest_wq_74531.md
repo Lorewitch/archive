@@ -1,11 +1,11 @@
 # id: quest_wq_74531
 # story_group: event_chronicles
-# display_category: Ивент · Shutterflash Memory Hunt
+# display_category: Ивент · Мгновения странствий
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Прекрасная работа! Что дальше?
 # title_en: Well Done! What's the Next Big Plan?
 # title_zh: 圆满收工！下一个大计划？
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 74531

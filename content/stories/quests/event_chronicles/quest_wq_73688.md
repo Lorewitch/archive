@@ -1,11 +1,11 @@
 # id: quest_wq_73688
 # story_group: event_chronicles
-# display_category: Ивент · Warrior's Spirit
+# display_category: Ивент · Воинский дух
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Воинский дух
 # title_en: Warrior's Spirit
 # title_zh: 演武传心
-# region: Тейват
+# region: Инадзума
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 73688

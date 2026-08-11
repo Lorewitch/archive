@@ -1,11 +1,11 @@
 # id: quest_wq_70007
 # story_group: event_chronicles
-# display_category: Ивент · Invitation of Windblume
+# display_category: Ивент · Праздник ветряных цветов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Соблюдайте тишину!
 # title_en: "Quiet, please, this is a library!"
 # title_zh: 图书馆请安静！
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 70007

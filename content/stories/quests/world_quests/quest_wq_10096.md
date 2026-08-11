@@ -1,11 +1,11 @@
 # id: quest_wq_10096
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Журнал кинематографиста
 # title_en: Film Notes
 # title_zh: 映影书写札记
-# region: Тейват
+# region: Инадзума
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 10096

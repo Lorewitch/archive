@@ -1,11 +1,11 @@
 # id: quest_wq_70539
 # story_group: event_chronicles
-# display_category: Ивент · Feline Fortress Furrdyssey
+# display_category: Ивент · Мяудиссея Замка котиков
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Замок котиков» в опасности!
 # title_en: Furball Fortress's Frightful Fix!
 # title_zh: 「猫茸茸城堡」的大大危机！
-# region: Тейват
+# region: Мондштадт
 # game_version: 4.5
 # release_versions: 4.5
 # source_id: 70539

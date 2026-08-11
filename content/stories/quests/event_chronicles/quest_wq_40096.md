@@ -1,11 +1,11 @@
 # id: quest_wq_40096
 # story_group: event_chronicles
-# display_category: Ивент · The Exquisite Night Chimes
+# display_category: Ивент · Ночная гармония струн
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: В узком кругу
 # title_en: Between Facades and Familiar Faces
 # title_zh: 人前人后
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 40096

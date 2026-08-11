@@ -1,11 +1,11 @@
 # id: quest_wq_79001
 # story_group: event_chronicles
-# display_category: Ивент · Midsummer Island Adventure
+# display_category: Ивент · Лето! Остров? Приключение!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Извилистая дорога домой
 # title_en: The Winding Homeward Way
 # title_zh: 归乡漫漫路
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 79001

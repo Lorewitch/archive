@@ -1,11 +1,11 @@
 # id: quest_wq_41342
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite Tales
+# display_category: Ивент · Истории Праздника морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Здоровяк и Молот
 # title_en: Hammer and Wrench
 # title_zh: 扳手与锤子
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 41342

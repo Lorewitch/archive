@@ -1,11 +1,11 @@
 # id: quest_wq_70143
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Мёрзлая разведка
 # title_en: When the Trail Goes Cold
 # title_zh: 低温调查
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 70143

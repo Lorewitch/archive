@@ -1,11 +1,11 @@
 # id: quest_wq_71528
 # story_group: event_chronicles
-# display_category: Ивент · Arataki Blazing Armor Beetle Battle Boot Camp
+# display_category: Ивент · Подготовительный лагерь Аратаки для боевых жуков
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бесконечный бой жуков!
 # title_en: Provisionally Perpetual Beetle Battle!
 # title_zh: 暂无止境的斗虫之路！
-# region: Тейват
+# region: Инадзума
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 71528

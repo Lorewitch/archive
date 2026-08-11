@@ -1,11 +1,11 @@
 # id: quest_wq_70800
 # story_group: event_chronicles
-# display_category: Ивент · Invitation of Windblume
+# display_category: Ивент · Праздник ветряных цветов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Блюдо со вкусом ветра
 # title_en: Flavor of the Month
 # title_zh: 「风」味美食
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 70800

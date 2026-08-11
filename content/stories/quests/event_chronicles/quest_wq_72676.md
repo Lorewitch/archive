@@ -5,7 +5,7 @@
 # title_ru: Восемь мест от гор до морей: Достопримечательности двух городов
 # title_en: Eight Locales Over Mountains and Seas: Two Cities' Recommendations
 # title_zh: 山海八所巡礼·双城风土名迹
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72676

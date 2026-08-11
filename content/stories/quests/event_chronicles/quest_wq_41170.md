@@ -5,7 +5,7 @@
 # title_ru: Высокий полёт
 # title_en: Fly High
 # title_zh: 展翼高飞
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 41170

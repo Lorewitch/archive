@@ -6,6 +6,7 @@
 # title_en: When They Talk About Tonight
 # title_zh: 当他们谈起今夜
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.5
 # release_versions: 4.5
 # source_id: 2046

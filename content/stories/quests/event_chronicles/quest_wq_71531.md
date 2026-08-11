@@ -1,11 +1,11 @@
 # id: quest_wq_71531
 # story_group: event_chronicles
-# display_category: Ивент · Vibrant Harriers Aloft in Spring Breeze
+# display_category: Ивент · Яркие птицы в весеннем небе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Размышления среди бумажных теней
 # title_en: Paper Shadow Ruminations
 # title_zh: 寻味纸影间
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71531

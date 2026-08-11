@@ -1,11 +1,11 @@
 # id: quest_wq_72657
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Поручение комиссии Ясиро
 # title_en: The Commission's Commission
 # title_zh: 社奉行的委任
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72657

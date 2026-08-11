@@ -1,11 +1,11 @@
 # id: quest_wq_70509
 # story_group: event_chronicles
-# display_category: Ивент · Of Drink A-Dreaming
+# display_category: Ивент · Глоток пьянящей мечты
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Безупречный осенний иней
 # title_en: Untainted Autumn Frost
 # title_zh: 未染尘埃的秋霜
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 70509

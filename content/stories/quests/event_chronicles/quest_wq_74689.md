@@ -1,11 +1,11 @@
 # id: quest_wq_74689
 # story_group: event_chronicles
-# display_category: Ивент · Shutterflash Memory Hunt
+# display_category: Ивент · Мгновения странствий
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Объектив «Особые мгновения»! Мгновенный провал?
 # title_en: Hot in a Flash, or Cold Just as Fast?
 # title_zh: 「瞬影」镜头！瞬间遇冷？
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 74689

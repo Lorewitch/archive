@@ -1,11 +1,11 @@
 # id: quest_wq_73532
 # story_group: event_chronicles
-# display_category: Ивент · Summertide Scales and Tales
+# display_category: Ивент · Лето! Драконы? Сказка!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Тёмная текстуальная тайна
 # title_en: An Odd Textual Mystery
 # title_zh: 奇书疑云
-# region: Тейват
+# region: Иной мир
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 73532

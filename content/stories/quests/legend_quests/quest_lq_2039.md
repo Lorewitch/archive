@@ -6,6 +6,7 @@
 # title_en: Homecoming
 # title_zh: 归乡
 # region: Сумеру
+# rarity: 5
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 2039
@@ -15,8 +16,8 @@
 # part_source_ids: 13019,13027
 # previous_quests: quest_lq_2034
 # next_quests: quest_wq_13028
-# related_quests: quest_lq_2034,quest_wq_13028
-# quest_chain: quest_lq_2034,quest_lq_2039,quest_wq_13028
+# related_quests: quest_lq_2034
+# quest_chain: quest_lq_2034,quest_lq_2039
 # quest_series: Sapientia Oromasdis Chapter
 # version_source: wiki_release_category
 

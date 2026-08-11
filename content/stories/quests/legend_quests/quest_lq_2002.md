@@ -6,6 +6,7 @@
 # title_en: Darknight Hero's Alibi
 # title_zh: 暗夜英雄的不在场证明
 # region: Мондштадт
+# rarity: 5
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2002

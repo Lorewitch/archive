@@ -1,11 +1,11 @@
 # id: quest_wq_79004
 # story_group: event_chronicles
-# display_category: Ивент · Midsummer Island Adventure
+# display_category: Ивент · Лето! Остров? Приключение!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Другая сторона острова и моря
 # title_en: The Other Side of Isle and Sea
 # title_zh: 岛与海的彼端
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 79004

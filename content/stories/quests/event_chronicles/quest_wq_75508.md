@@ -1,11 +1,11 @@
 # id: quest_wq_75508
 # story_group: event_chronicles
-# display_category: Ивент · Rhythm Ball Meztli
+# display_category: Ивент · Мяч под ритмы: Мецтли
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Революция мячей под ритмы!
 # title_en: Rhythm Ball Revolution!
 # title_zh: 撞球迸碰，摇摆律动！
-# region: Тейват
+# region: Натлан
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75508

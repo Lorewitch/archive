@@ -1,11 +1,11 @@
 # id: quest_wq_74670
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Полуавтоматическая ковка
 # title_en: Semi-Automatic Forging
 # title_zh: 半自动锤锻
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74670

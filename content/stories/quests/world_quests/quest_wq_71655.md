@@ -1,11 +1,11 @@
 # id: quest_wq_71655
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Праздный разговор в чайнике
 # title_en: Idle Teapot Talk
 # title_zh: 壶中闲事
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 71655

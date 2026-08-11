@@ -1,11 +1,11 @@
 # id: quest_wq_71532
 # story_group: event_chronicles
-# display_category: Ивент · Vibrant Harriers Aloft in Spring Breeze
+# display_category: Ивент · Яркие птицы в весеннем небе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Забег по радужным облакам
 # title_en: Iridescent Cloud-Striding
 # title_zh: 熠光云行
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71532

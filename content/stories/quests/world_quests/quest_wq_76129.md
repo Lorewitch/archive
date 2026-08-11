@@ -1,11 +1,11 @@
 # id: quest_wq_76129
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Совместное поручение
 # title_en: Collaborative Commission
 # title_zh: 协力之委托
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 76129
@@ -15,8 +15,8 @@
 # part_source_ids: 76129
 # previous_quests: quest_wq_76077,quest_wq_76117
 # next_quests:
-# related_quests: quest_wq_76077,quest_wq_76117
-# quest_chain: quest_wq_76077,quest_wq_76117,quest_wq_76129
+# related_quests:
+# quest_chain: quest_wq_76129
 # quest_series:
 # version_source: wiki_release_category
 

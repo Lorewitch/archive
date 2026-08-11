@@ -5,7 +5,7 @@
 # title_ru: Восемь мест от гор до морей: Среди гор и снегов
 # title_en: Eight Locales Over Mountains and Seas: Snowswept Fairytale
 # title_zh: 山海八所巡礼·大雪隐御伽话
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72264

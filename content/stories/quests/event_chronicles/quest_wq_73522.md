@@ -1,11 +1,11 @@
 # id: quest_wq_73522
 # story_group: event_chronicles
-# display_category: Ивент · A Parade of Providence
+# display_category: Ивент · Торжество разума
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Участник прежних состязаний
 # title_en: The Contestant
 # title_zh: 「当初那位参赛者」
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73522

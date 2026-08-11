@@ -1,11 +1,11 @@
 # id: quest_wq_70513
 # story_group: event_chronicles
-# display_category: Ивент · Hidden Strife
+# display_category: Ивент · Тайная война
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Справедливый финал
 # title_en: All's Well That Ends Well
 # title_zh: 恰如其分的收场
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 70513

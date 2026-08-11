@@ -1,11 +1,11 @@
 # id: quest_wq_75069
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Искажённое расширение
 # title_en: Twisted Extension
 # title_zh: 扭曲的延伸
-# region: Тейват
+# region: Натлан
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75069

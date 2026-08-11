@@ -1,11 +1,11 @@
 # id: quest_wq_74250
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Беседы у камина
 # title_en: Whispers by the Hearth
 # title_zh: 壁炉畔的絮语
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74250

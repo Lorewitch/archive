@@ -6,6 +6,7 @@
 # title_en: The Firmiana Leaf Falls
 # title_zh: 梧桐一叶落
 # region: Инадзума
+# rarity: 5
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 2028

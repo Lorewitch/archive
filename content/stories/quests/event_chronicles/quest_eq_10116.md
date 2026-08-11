@@ -5,7 +5,7 @@
 # title_ru: Кульминация! Разноголосье радостных грёз
 # title_en: Culminate! Chatter of Joyous Dreams
 # title_zh: 幕收！欢谈如梦
-# region: Тейват
+# region: Сумеру
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 10116

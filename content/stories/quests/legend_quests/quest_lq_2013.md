@@ -6,6 +6,7 @@
 # title_en: Should You Be Trapped in a Windless Land
 # title_zh: 若你困于无风之地
 # region: Мондштадт
+# rarity: 5
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2013

@@ -1,11 +1,11 @@
 # id: quest_wq_70650
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Мондштадтский рыцарь
 # title_en: Knight of the Realm
 # title_zh: 蒙德城的骑士
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70650

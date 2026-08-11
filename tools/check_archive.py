@@ -43,8 +43,8 @@ KNOWN_ENEMY_GROUPS = {
     "abyss", "mystical_beasts",
 }
 KNOWN_ENEMY_TYPES = {"common_enemy", "world_boss", "weekly_boss", "boss"}
-KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles", "character_stories", "world_stories"}
-QUEST_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
+KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles", "character_stories", "world_stories"}
+QUEST_STORY_GROUPS = {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}
 FORBIDDEN_QUEST_IDS = {"quest_wq_10244"}  # Internal beta/test quest; must not be published.
 KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
 KNOWN_CHARACTER_FILTERS = {"lunar_omen", "witchcraft", "star_blade"}
@@ -513,7 +513,7 @@ def check_lore_corpus() -> None:
         item_id = str(item.get("id") or "")
         owner = f"data/lore_corpus/index.json#{item_id}"
         group = str(item.get("story_group") or "")
-        if group not in {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}:
+        if group not in {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}:
             fail(f"{owner}: неизвестная группа заданий {group or '—'}")
         actual_counts[group] += 1
         check_languages(item, owner)
@@ -636,6 +636,14 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
             fail(f"{owner}: отсутствует уточнённая классификация задания")
         if re.search(r"[{}<>]|<!--|/20\d{2}-\d{2}-\d{2}", display_category):
             fail(f"{owner}: в классификации задания осталась служебная разметка")
+
+        region = str(quest.get("region") or "").strip()
+        if region == "Тейват":
+            fail(f"{owner}: для задания должен быть указан конкретный регион, а не Тейват")
+
+        if quest.get("story_group") == "legend_quests" and str(quest.get("rarity") or "") not in {"4", "5"}:
+            fail(f"{owner}: задание Легенд должно иметь rarity 4 или 5")
+
         version = str(quest.get("game_version") or "").strip()
         if not re.fullmatch(r"\d+\.\d+(?:\.\d+)?", version):
             fail(f"{owner}: missing verified release version")
@@ -1312,10 +1320,14 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: общий полнотекстовый индекс историй не должен загружаться")
         if "function loadCatalogData(" not in text or "data/indexes/${encodeURIComponent(config.id)}" not in text:
             fail("assets/js/archive.js: сгруппированные каталоги должны загружаться отдельными индексами категорий")
-        if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
-            fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
+        if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'reputation_quests' not in text or 'world_quests' not in text:
+            fail("assets/js/archive.js: истории заданий должны иметь подкатегории Архонтов, Легенд, репутации и мира")
         if "STORY_QUEST_TYPE_FILTERS" not in text or "isQuestStoriesCatalog" not in text or "storyQuestMatchesTypeFilters" not in text:
             fail("assets/js/archive.js: все задания должны открываться единым каталогом с фильтрами по типу")
+        if '${UI_ICON_BASE}/reputation_quest.webp' not in text or 'quest:reputation_quests' not in text:
+            fail("assets/js/archive.js: фильтр заданий репутации должен использовать reputation_quest.webp")
+        if 'label: "Задания Легенд 5★"' not in text or 'label: "Задания Легенд 4★"' not in text:
+            fail("assets/js/archive.js: задания Легенд должны иметь фильтры 5★ и 4★")
         if "WEAPON_KIND_FILTERS" not in text or 'value: "kind:skin"' not in text or 'value: "kind:weapon"' not in text:
             fail("assets/js/archive.js: в оружии должны быть фильтры Оружие и Скины")
         if '["Луна", "Луна"]' not in text:

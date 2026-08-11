@@ -5,7 +5,7 @@
 # title_ru: Повторный резонанс кристаллов
 # title_en: Vibro-Crystal Reharmonization
 # title_zh: 振晶，映射二度
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.5
 # release_versions: 3.5
 # source_id: 73689

@@ -1,11 +1,11 @@
 # id: quest_wq_72730
 # story_group: event_chronicles
-# display_category: Ивент · Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl
+# display_category: Ивент · Эпичный бой жуков великолепного Аратаки
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Эпичный бой жуков великолепного Аратаки!
 # title_en: Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl!
 # title_zh: 荒泷极意堂堂斗虫大试合！
-# region: Тейват
+# region: Инадзума
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 72730

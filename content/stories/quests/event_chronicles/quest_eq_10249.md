@@ -5,7 +5,7 @@
 # title_ru: Лесной кабан и маленькая ведьма
 # title_en: The Forest Boar and the Little Witch
 # title_zh: 野林猪与小魔女
-# region: Тейват
+# region: Инадзума
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10249

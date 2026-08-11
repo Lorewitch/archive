@@ -1,11 +1,11 @@
 # id: quest_wq_73296
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Художник в свободном плавании
 # title_en: An Artist Adrift
 # title_zh: 画家漂流记
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73296
@@ -17,7 +17,7 @@
 # next_quests:
 # related_quests: quest_wq_73294,quest_wq_73295
 # quest_chain: quest_wq_73294,quest_wq_73295,quest_wq_73296
-# quest_series:
+# quest_series: An Artist Adrift
 # version_source: wiki_release_category
 
 ## RU

@@ -1,11 +1,11 @@
 # id: quest_wq_73710
 # story_group: event_chronicles
-# display_category: Ивент · Sightseeing With Friends
+# display_category: Ивент · Открывая мир вместе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Парк плесенников готовится к открытию
 # title_en: A New Day at the Lil' Fungi Playground
 # title_zh: 小小灵蕈乐园，准备开张
-# region: Тейват
+# region: Сумеру
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 73710

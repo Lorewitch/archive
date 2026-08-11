@@ -5,7 +5,7 @@
 # title_ru: Дружба, проверенная временем
 # title_en: A Time-Tested Friendship
 # title_zh: 友谊地久天长
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.4
 # release_versions: 5.4
 # source_id: 74686

@@ -1,11 +1,11 @@
 # id: quest_wq_70657
 # story_group: event_chronicles
-# display_category: Ивент · Invitation of Windblume
+# display_category: Ивент · Праздник ветряных цветов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Прямо в яблочко
 # title_en: Bullseye Balloons
 # title_zh: 百发百中
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 70657

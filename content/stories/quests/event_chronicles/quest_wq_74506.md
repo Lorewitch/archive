@@ -5,7 +5,7 @@
 # title_ru: Цель: противостоять вору-пухленю!
 # title_en: Goal: Counter the "Phantom Blubberbeast!"
 # title_zh: 目标，反制「膨膨兽怪盗」！
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74506

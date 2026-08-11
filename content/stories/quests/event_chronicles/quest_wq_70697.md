@@ -1,11 +1,11 @@
 # id: quest_wq_70697
 # story_group: event_chronicles
-# display_category: Ивент · Soulblazers' Snowbound Journey
+# display_category: Ивент · Снежное путешествие Пылких Сердец
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сюрприз от любительницы комиксов
 # title_en: A Surprise From a Fellow Comics Fan
 # title_zh: 来自漫画同好的惊喜
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70697

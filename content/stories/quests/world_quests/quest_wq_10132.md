@@ -1,11 +1,11 @@
 # id: quest_wq_10132
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/firmament.webp
 # title_ru: Суд
 # title_en: Judgment
 # title_zh: 审判
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 10132

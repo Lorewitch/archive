@@ -6,6 +6,7 @@
 # title_en: No Mere Stone
 # title_zh: 匪石
 # region: Ли Юэ
+# rarity: 5
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 2020

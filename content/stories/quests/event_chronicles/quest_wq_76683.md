@@ -1,11 +1,11 @@
 # id: quest_wq_76683
 # story_group: event_chronicles
-# display_category: Ивент · Final Long-Range Sightlines
+# display_category: Ивент · Рубеж прицеливания
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Магия прицеливания и перспективы
 # title_en: Sightlines and Camera Tricks
 # title_zh: 瞄准线与视角魔法
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76683

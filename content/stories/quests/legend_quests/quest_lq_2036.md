@@ -6,6 +6,7 @@
 # title_en: Lionsblood
 # title_zh: 「狮之血」
 # region: Сумеру
+# rarity: 5
 # game_version: 3.5
 # release_versions: 3.5
 # source_id: 2036

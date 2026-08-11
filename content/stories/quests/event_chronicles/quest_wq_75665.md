@@ -1,11 +1,11 @@
 # id: quest_wq_75665
 # story_group: event_chronicles
-# display_category: Ивент · Tournament of Glory in Bloom
+# display_category: Ивент · Турнир цветущей славы
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Экспедиция заврианов отправляется в путь!
 # title_en: Go Go Saurian Expedition!
 # title_zh: 龙龙远征，出发！
-# region: Тейват
+# region: Натлан
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75665

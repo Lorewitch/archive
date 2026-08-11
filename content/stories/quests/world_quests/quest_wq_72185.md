@@ -1,11 +1,11 @@
 # id: quest_wq_72185
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Пицца из далёких краёв
 # title_en: Pizza From Another Land
 # title_zh: 异国的披萨
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72185

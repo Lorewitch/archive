@@ -5,7 +5,7 @@
 # title_ru: Благословенные надежды
 # title_en: Wishing Wonderful Wishes
 # title_zh: 上许佳愿
-# region: Тейват
+# region: Ли Юэ
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 71167

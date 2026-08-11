@@ -1,11 +1,11 @@
 # id: quest_wq_10120
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Её враги бушуют, словно волны...
 # title_en: Her Foes Rage Like Great Waters...
 # title_zh: 仇敌仿佛众水翻腾…
-# region: Тейват
+# region: Сумеру
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 10120
@@ -15,8 +15,8 @@
 # part_source_ids: 73212,73225,73264
 # previous_quests: quest_wq_10131,quest_wq_73244
 # next_quests:
-# related_quests: quest_wq_10087,quest_wq_10107,quest_wq_10130,quest_wq_73244,quest_wq_73279,quest_wq_73281,quest_wq_73282,quest_wq_10131
-# quest_chain: quest_wq_10087,quest_wq_10107,quest_wq_10130,quest_wq_73244,quest_wq_73279,quest_wq_73281,quest_wq_73282,quest_wq_10131,quest_wq_10120
+# related_quests:
+# quest_chain: quest_wq_10120
 # quest_series:
 # version_source: wiki_release_category
 

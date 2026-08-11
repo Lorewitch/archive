@@ -1,11 +1,11 @@
 # id: quest_wq_76201
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование растений: Ночноцвет
 # title_en: Plant Research: Nocturnal Blossoms
 # title_zh: 植物调查·宿影花
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76201
@@ -15,8 +15,8 @@
 # part_source_ids: 76201
 # previous_quests:
 # next_quests: quest_wq_76170
-# related_quests: quest_wq_76198,quest_wq_76199,quest_wq_76200,quest_wq_76170
-# quest_chain: quest_wq_76198,quest_wq_76199,quest_wq_76200,quest_wq_76201,quest_wq_76170
+# related_quests:
+# quest_chain: quest_wq_76201
 # quest_series:
 # version_source: wiki_release_category
 

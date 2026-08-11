@@ -1,11 +1,11 @@
 # id: quest_wq_76183
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Огонь и лёд
 # title_en: Fire and Ice
 # title_zh: 火与冰
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76183

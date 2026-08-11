@@ -1,6 +1,6 @@
 # id: quest_wq_71820
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite Tales
+# display_category: Ивент · Истории Праздника морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: И снова «Ваншу»
 # title_en: Wangshu Once Again

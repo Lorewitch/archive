@@ -5,7 +5,7 @@
 # title_ru: Восемь мест от гор до морей: Заключения странника
 # title_en: Eight Locales Over Mountains and Seas: Wanderer's Appraisal
 # title_zh: 山海八所巡礼·风来坊内鉴录
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72678

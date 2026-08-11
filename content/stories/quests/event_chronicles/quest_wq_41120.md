@@ -1,11 +1,11 @@
 # id: quest_wq_41120
 # story_group: event_chronicles
-# display_category: Ивент · Unreconciled Stars
+# display_category: Ивент · Заблудшие звёзды
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Падение с небес
 # title_en: That Which Fell From the Sky
 # title_zh: 天降的某物
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 41120

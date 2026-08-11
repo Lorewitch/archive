@@ -5,7 +5,7 @@
 # title_ru: Великая бабах-война
 # title_en: Big Badaboom Battle
 # title_zh: 砰砰大作战
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 79007

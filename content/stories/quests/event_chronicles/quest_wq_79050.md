@@ -1,11 +1,11 @@
 # id: quest_wq_79050
 # story_group: event_chronicles
-# display_category: Ивент · Secret Summer Paradise
+# display_category: Ивент · Лето! Парк развлечений? Мираж!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Игра света и тени
 # title_en: Capturing Light and Shadow
 # title_zh: 捕获我的光影与线条
-# region: Тейват
+# region: Иной мир
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 79050

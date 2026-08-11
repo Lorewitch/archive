@@ -1,11 +1,11 @@
 # id: quest_wq_72654
 # story_group: event_chronicles
-# display_category: Ивент · Thunder Sojourn
+# display_category: Ивент · Грозовые отпечатки
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сквозь неизведанные грозовые облака
 # title_en: Crossing Unknown Storm Clouds
 # title_zh: 涉过未知的雷云
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72654

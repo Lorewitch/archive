@@ -5,7 +5,7 @@
 # title_ru: Слёзы в листве
 # title_en: Tears Among the Leaves
 # title_zh: 叶间泪
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 10128

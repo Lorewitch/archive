@@ -1,11 +1,11 @@
 # id: quest_wq_75509
 # story_group: event_chronicles
-# display_category: Ивент · Rhythm Ball Meztli
+# display_category: Ивент · Мяч под ритмы: Мецтли
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Смешение стилей
 # title_en: A Style-Fusion Symposium
 # title_zh: 风格融合的思考
-# region: Тейват
+# region: Натлан
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75509

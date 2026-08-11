@@ -1,11 +1,11 @@
 # id: quest_wq_76141
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Окно в мир
 # title_en: A Window Into the World
 # title_zh: 眺望世界之窗
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 76141
@@ -15,8 +15,8 @@
 # part_source_ids: 76141
 # previous_quests: quest_wq_10242
 # next_quests:
-# related_quests: quest_wq_10242
-# quest_chain: quest_wq_10242,quest_wq_76141
+# related_quests:
+# quest_chain: quest_wq_76141
 # quest_series:
 # version_source: wiki_release_category
 

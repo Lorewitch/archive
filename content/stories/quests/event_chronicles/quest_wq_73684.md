@@ -5,7 +5,7 @@
 # title_ru: Дикая гонка
 # title_en: Across the Wilderness
 # title_zh: 跨野寻踪
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 73684

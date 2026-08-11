@@ -1,11 +1,11 @@
 # id: quest_wq_73713
 # story_group: event_chronicles
-# display_category: Ивент · Sightseeing With Friends
+# display_category: Ивент · Открывая мир вместе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Открывая мир вместе: Подводное веселье
 # title_en: Sightseeing With Friends: Underwater Fun
 # title_zh: 灵蕈旅记：水下趣览
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 73713

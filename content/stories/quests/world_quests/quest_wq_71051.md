@@ -1,11 +1,11 @@
 # id: quest_wq_71051
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Гидрологическое исследование Разлома
 # title_en: Hydrological Investigation in The Chasm
 # title_zh: 水生环境调查
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71051

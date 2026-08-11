@@ -1,11 +1,11 @@
 # id: quest_wq_41135
 # story_group: event_chronicles
-# display_category: Ивент · Unreconciled Stars
+# display_category: Ивент · Заблудшие звёзды
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Мысли, унесённые ветром...
 # title_en: Thoughts Carried On the Wind
 # title_zh: 风带来的思念
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 41135

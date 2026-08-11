@@ -1,11 +1,11 @@
 # id: quest_wq_10095
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/firmament.webp
 # title_ru: Ад
 # title_en: Hell
 # title_zh: 地狱
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 10095

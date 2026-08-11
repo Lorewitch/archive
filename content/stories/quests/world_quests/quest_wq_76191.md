@@ -1,11 +1,11 @@
 # id: quest_wq_76191
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование животных: Капибара
 # title_en: Animal Research: Capybaras
 # title_zh: 动物调查·豚兽
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76191
@@ -15,8 +15,8 @@
 # part_source_ids: 76191
 # previous_quests:
 # next_quests: quest_wq_76193
-# related_quests: quest_wq_76192,quest_wq_76193
-# quest_chain: quest_wq_76191,quest_wq_76192,quest_wq_76193
+# related_quests:
+# quest_chain: quest_wq_76191
 # quest_series:
 # version_source: wiki_release_category
 

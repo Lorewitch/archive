@@ -1,11 +1,11 @@
 # id: quest_wq_72684
 # story_group: event_chronicles
-# display_category: Ивент · The Almighty Arataki Great and Glorious Drumalong Festival
+# display_category: Ивент · Грандиозный барабанный фестиваль великолепного Аратаки
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Грандиозный барабанный фестиваль великолепного Аратаки
 # title_en: The Almighty Arataki Great and Glorious Drumalong Festival
 # title_zh: 荒泷极上盛世豪鼓大祭典
-# region: Тейват
+# region: Инадзума
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 72684

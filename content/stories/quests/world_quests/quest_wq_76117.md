@@ -1,11 +1,11 @@
 # id: quest_wq_76117
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Человек, который отбросил прошлое
 # title_en: They Who Abandoned the Past
 # title_zh: 曾抛弃过去的人
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 76117
@@ -15,8 +15,8 @@
 # part_source_ids: 76117
 # previous_quests:
 # next_quests: quest_wq_76129
-# related_quests: quest_wq_76077,quest_wq_76129
-# quest_chain: quest_wq_76077,quest_wq_76117,quest_wq_76129
+# related_quests:
+# quest_chain: quest_wq_76117
 # quest_series:
 # version_source: wiki_release_category
 

@@ -5,7 +5,7 @@
 # title_ru: Свет мой, зеркальце, скажи
 # title_en: Tell Me, Mirror Mirror
 # title_zh: 镜子镜子告诉我
-# region: Тейват
+# region: Сумеру
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73703

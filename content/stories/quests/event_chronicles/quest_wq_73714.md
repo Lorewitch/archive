@@ -1,11 +1,11 @@
 # id: quest_wq_73714
 # story_group: event_chronicles
-# display_category: Ивент · Sightseeing With Friends
+# display_category: Ивент · Открывая мир вместе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Открывая мир вместе: Живописные виды
 # title_en: Sightseeing With Friends: Scenic Highlights
 # title_zh: 灵蕈旅记：综景一览
-# region: Тейват
+# region: Сумеру
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 73714

@@ -1,11 +1,11 @@
 # id: quest_wq_71038
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Отблески храбрости: Возвращение к закату
 # title_en: Valor's Afterglow: Return by Sundown
 # title_zh: 勇气的余晖·日落当归
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71038

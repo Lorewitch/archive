@@ -1,11 +1,11 @@
 # id: quest_wq_70559
 # story_group: event_chronicles
-# display_category: Ивент · Surveying & Mapping Studies
+# display_category: Ивент · Изучение картографии
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Полевой пир» после работы
 # title_en: A "Battlefield" Feast After Work
 # title_zh: 收工时的「战地」大餐
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 70559

@@ -1,11 +1,11 @@
 # id: quest_wq_74672
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Давно провалившаяся Технология распознавания преступников...
 # title_en: The Long-Failed "Graph Adversarial Technology"...
 # title_zh: 早早失败的「图形对抗学」…
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74672

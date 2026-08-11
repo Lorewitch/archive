@@ -1,11 +1,11 @@
 # id: quest_wq_73530
 # story_group: event_chronicles
-# display_category: Ивент · Fayz Trials/2024-03-22
+# display_category: Ивент · Большие дебаты о реакции Фаиз
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Научная репутация на кону
 # title_en: Fight for Academic Reputation!
 # title_zh: 为学术声誉而战
-# region: Тейват
+# region: Сумеру
 # game_version: 4.5
 # release_versions: 4.5
 # source_id: 73530

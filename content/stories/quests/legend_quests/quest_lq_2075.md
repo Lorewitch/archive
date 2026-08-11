@@ -6,6 +6,7 @@
 # title_en: Whispers Betwixt Stars and Night
 # title_zh: 星与夜的低语
 # region: Ли Юэ
+# rarity: 5
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 2075

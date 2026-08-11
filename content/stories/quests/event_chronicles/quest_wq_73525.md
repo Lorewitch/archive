@@ -5,7 +5,7 @@
 # title_ru: Комплексная картография
 # title_en: Complex Cartography
 # title_zh: 复杂地图测绘法
-# region: Тейват
+# region: Сумеру
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73525

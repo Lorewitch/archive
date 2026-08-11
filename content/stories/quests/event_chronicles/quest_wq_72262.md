@@ -5,7 +5,7 @@
 # title_ru: Восемь мест от гор до морей: Тростниковые пейзажи
 # title_en: Eight Locales Over Mountains and Seas: One Hundred Sights of Dihua
 # title_zh: 山海八所巡礼·荻原川狩百景
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72262

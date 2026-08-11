@@ -1,11 +1,11 @@
 # id: quest_wq_73193
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Изгнание: Всходы
 # title_en: The Exile: Sprouting
 # title_zh: 流放者·萌芽
-# region: Тейват
+# region: Сумеру
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73193
@@ -15,8 +15,8 @@
 # part_source_ids: 73193
 # previous_quests:
 # next_quests: quest_wq_73203
-# related_quests: quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
-# quest_chain: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
+# related_quests: quest_wq_73203
+# quest_chain: quest_wq_73193,quest_wq_73203
 # quest_series: The Exile (World Quest Series)
 # version_source: wiki_release_category
 

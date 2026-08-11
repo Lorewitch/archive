@@ -1,11 +1,11 @@
 # id: quest_wq_71516
 # story_group: event_chronicles
-# display_category: Ивент · The Exquisite Night Chimes
+# display_category: Ивент · Ночная гармония струн
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: За кулисами
 # title_en: Backstage Helpers
 # title_zh: 幕后人
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 71516

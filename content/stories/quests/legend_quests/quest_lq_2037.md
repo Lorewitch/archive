@@ -6,6 +6,7 @@
 # title_en: The Heart of Healing
 # title_zh: 「医心」
 # region: Ли Юэ
+# rarity: 5
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 2037

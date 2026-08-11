@@ -1,11 +1,11 @@
 # id: quest_wq_74259
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Воссоединение Ордо Нарциссенкрейц
 # title_en: Tea Party Re-Invitation: Narzissenkreuz Reunion
 # title_zh: 茶会的再邀·水仙的重聚
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74259

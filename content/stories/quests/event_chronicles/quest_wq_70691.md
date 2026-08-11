@@ -1,11 +1,11 @@
 # id: quest_wq_70691
 # story_group: event_chronicles
-# display_category: Ивент · Soulblazers' Snowbound Journey
+# display_category: Ивент · Снежное путешествие Пылких Сердец
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Игры в снегу тоже тренировка!
 # title_en: Playing in the Snow Counts as Training Too!
 # title_zh: 雪中游戏，也是修行！
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70691

@@ -1,11 +1,11 @@
 # id: quest_wq_73687
 # story_group: event_chronicles
-# display_category: Ивент · Warrior's Spirit
+# display_category: Ивент · Воинский дух
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Облачение божественного посланника
 # title_en: The Sight of the Divine Emissary
 # title_zh: 御神使的风姿
-# region: Тейват
+# region: Инадзума
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 73687

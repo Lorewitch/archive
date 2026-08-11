@@ -1,11 +1,11 @@
 # id: quest_wq_72197
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Взгляд на три тысячи миль вдаль
 # title_en: Gazing Three Thousand Miles Away
 # title_zh: 执望三千里
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72197

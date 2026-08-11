@@ -1,11 +1,11 @@
 # id: quest_wq_71514
 # story_group: event_chronicles
-# display_category: Ивент · The Exquisite Night Chimes
+# display_category: Ивент · Ночная гармония струн
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сияющие искры
 # title_en: Radiant Sparks
 # title_zh: 光焰蹈跃
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 71514

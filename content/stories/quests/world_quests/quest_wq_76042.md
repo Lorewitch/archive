@@ -1,11 +1,11 @@
 # id: quest_wq_76042
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Обломки пиратского корабля с призраками
 # title_en: The Haunted Pirate Shipwreck
 # title_zh: 闹鬼的海盗船残骸
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76042
@@ -15,8 +15,8 @@
 # part_source_ids: 76042
 # previous_quests:
 # next_quests: quest_wq_76115
-# related_quests: quest_wq_76043,quest_wq_76044,quest_wq_76114,quest_wq_76115
-# quest_chain: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76114,quest_wq_76115
+# related_quests:
+# quest_chain: quest_wq_76042
 # quest_series:
 # version_source: wiki_release_category
 

@@ -6,6 +6,7 @@
 # title_en: Lingering Warmth
 # title_zh: 余温
 # region: Сумеру
+# rarity: 5
 # game_version: 3.2
 # release_versions: 3.2
 # source_id: 2034
@@ -15,8 +16,8 @@
 # part_source_ids: 13013,13014,13015
 # previous_quests:
 # next_quests: quest_lq_2039
-# related_quests: quest_lq_2039,quest_wq_13028
-# quest_chain: quest_lq_2034,quest_lq_2039,quest_wq_13028
+# related_quests: quest_lq_2039
+# quest_chain: quest_lq_2034,quest_lq_2039
 # quest_series: Sapientia Oromasdis Chapter
 # version_source: wiki_release_category
 

@@ -5,7 +5,7 @@
 # title_ru: Игрушки для детей
 # title_en: Toys for the Children
 # title_zh: 留给孩子们的「玩具」
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 10237

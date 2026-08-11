@@ -1,11 +1,11 @@
 # id: quest_wq_70025
 # story_group: event_chronicles
-# display_category: Ивент · Mimi Tomo
+# display_category: Ивент · Поймай меня, если сможешь
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Заблудившийся хиличурл
 # title_en: The Lost Hilichurl
 # title_zh: 迷失的丘丘
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 70025

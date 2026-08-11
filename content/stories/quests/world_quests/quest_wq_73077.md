@@ -1,11 +1,11 @@
 # id: quest_wq_73077
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Легенды каменного замка
 # title_en: Legends of the Stone Lock
 # title_zh: 石锁机关秘话
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73077

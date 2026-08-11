@@ -1,11 +1,11 @@
 # id: quest_wq_73529
 # story_group: event_chronicles
-# display_category: Ивент · Secret Summer Paradise
+# display_category: Ивент · Лето! Парк развлечений? Мираж!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Неистовая и зрелищная танцевальная битва?
 # title_en: Determined and Elegant Battle Dance?
 # title_zh: 锐意与优雅的战舞？
-# region: Тейват
+# region: Иной мир
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73529

@@ -1,11 +1,11 @@
 # id: quest_wq_71058
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Пропавшая на чужбине
 # title_en: Lost in a Foreign Land
 # title_zh: 他乡迷失客
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71058

@@ -5,7 +5,7 @@
 # title_ru: У злых рыбок есть свои тайны?
 # title_en: The Cantankerous Fish Have Their Circumstances?
 # title_zh: 暴躁鱼儿的隐情？
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74709

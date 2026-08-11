@@ -1,11 +1,11 @@
 # id: quest_wq_73098
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Статичные пейзажи
 # title_en: Static Views
 # title_zh: 静态风景
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73098
@@ -15,8 +15,8 @@
 # part_source_ids: 73098
 # previous_quests:
 # next_quests: quest_wq_73099
-# related_quests: quest_wq_73099
-# quest_chain: quest_wq_73098,quest_wq_73099
+# related_quests:
+# quest_chain: quest_wq_73098
 # quest_series:
 # version_source: wiki_release_category
 

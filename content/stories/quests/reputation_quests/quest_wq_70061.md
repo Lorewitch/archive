@@ -1,0 +1,168 @@
+# id: quest_wq_70061
+# story_group: reputation_quests
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
+# title_ru: Лесной кабан замирает над цветком
+# title_en: Forest Boar Pauses for the Bloom
+# title_zh: 山有林猪粗嗅花
+# region: Мондштадт
+# game_version: 6.5
+# release_versions: 6.5
+# source_id: 70061
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 70061
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_70061
+# quest_series:
+# version_source: wiki_release_category
+
+## RU
+
+### Лесной кабан замирает над цветком
+
+...Возле истоптанного цветочного поля в Мельничной Пристани стоит опечаленная женщина. Расспросив её, вы выясняете, что цветочное поле разорил лесной кабан...
+
+
+**Леопольдина:** Ох, опять... Ну почему это никак не прекратится? Наказание какое-то...
+
+**Леопольдина:** Я снова опоздаю с доставкой. И как объяснить покупателям, почему они не получили цветы вовремя?
+
+Что случилось?
+
+**Леопольдина:** Посмотрите, всё поле истоптано... Тут росли такие красивые цветы. А теперь...
+
+**Леопольдина:** И всему виной этот негодник!
+
+Как бесчеловечно!
+
+**Леопольдина:** Вот именно! Хотя... он вообще-то не человек, а лесной кабан.
+
+**Леопольдина:** Почему-то в последнее время он постоянно прибегает сюда, грызёт цветы и катается по грядкам.
+
+**Леопольдина:** Настоящий хитрюга: стоит показаться людям, как он сразу убегает. А недавно чуть не сбил с ног проходящего мимо старика...
+
+**Леопольдина:** Словом, это не кабан, а настоящий свинтус!
+
+**Леопольдина:** Хм, подожди... Ты ведь почётный рыцарь? (Великая героиня, которая спасла)(Великий герой, который спас) Мондштадт? Пожалуйста, помоги мне.
+
+Хорошо, я прогоню его!
+
+**Леопольдина:** Как хорошо, что ты (согласилась)(согласился) помочь... По-моему, он убежал в долину.
+
+**Леопольдина:** Он очень хитёр! Возможно, придётся выманивать его цветами... Правда, вы сами видите, во что превратилось моё поле...
+
+**Леопольдина:** Вот что: соберите по дороге несколько ветроцветов и выманите его! Пусть узнает, каково это - когда тебя обманывают!
+
+#### Сообщите Леопольдине, что вы прогнали лесного кабана
+
+**Леопольдина:** О... вы вернулись? Ну как?
+
+Мы его прогнали!
+
+**Леопольдина:** Огромное вам спасибо! Вот, возьмите это в награду.
+
+**Леопольдина:** Каждый должен быть вознаграждён за свои труды.
+
+**Леопольдина:** Теперь можно снова высадить цветы на поле. Надеюсь, отныне разные «бесчеловечные» гости будут обходить его стороной...
+
+## EN
+
+### Forest Boar Pauses for the Bloom
+
+...Near the flower field of Millhaven, now left in disarray, you notice a woman sighing in frustration. A brief exchange reveals the cause of the chaos — a forest boar has been trampling the flowers...
+
+
+**Leopoldine:** *sigh* Not again... Why does this keep happening? The field's a mess...
+
+**Leopoldine:** At this rate, I won't be able to deliver the flowers on time. What am I supposed to tell my customers?
+
+What happened?
+
+**Leopoldine:** Look at this. The whole field's wrecked... These flowers were coming in beautifully, and now they're ruined.
+
+**Leopoldine:** All because of that menace!
+
+That's inhuman!
+
+**Leopoldine:** I know, right? ...Well. Not human at all, actually. It's a forest boar.
+
+**Leopoldine:** For some reason, it keeps coming down here lately, nibbling the flowers and then flopping around in the middle of the field.
+
+**Leopoldine:** And it's slippery. The moment anyone hears it and heads over, it takes off. Just now it nearly barreled into an elderly man passing by...
+
+**Leopoldine:** It's outrageous. This fellow's a real boor, I tell you!
+
+**Leopoldine:** Oh — wait... hold on. Aren't you the Honorary Knight? The hero who saved Mondstadt? Then please, I really need your help.
+
+Alright. I'll chase it off!
+
+**Leopoldine:** That's such a relief... I think it headed toward the valley.
+
+**Leopoldine:** It's a clever beastie. You might have to lure it out with flowers... though, well, you can see what's left of mine...
+
+**Leopoldine:** Maybe grab a few Windrest Flowers along the way and use them as bait. Would serve it right to get fooled for once!
+
+#### Tell Leopoldine the forest boar is gone
+
+**Leopoldine:** Oh — you're back? How did it go?
+
+We chased it off!
+
+**Leopoldine:** Ah, thank you so much. Here, this is for your trouble.
+
+**Leopoldine:** Work deserves payment, after all.
+
+**Leopoldine:** Now I can finally get the flower field back in order. Let's just hope no more "inhuman" visitors show up again...
+
+## ZH
+
+### 山有林猪粗嗅花
+
+…在风车镇混乱的花田周围，看到了对着花田唉声叹气的女性，打听得知，原来是有一只林猪破坏了花田…
+
+
+**莉奥波汀:** 唉，又是这样，怎么花田又变成这个样子…真是的…
+
+**莉奥波汀:** 这样，花又不能按期交付，该怎么和收花的人说呢。
+
+怎么了？
+
+**莉奥波汀:** 花田被毁了…唉你看看，本来多好的花呀，被祸害成了这样。
+
+**莉奥波汀:** 都是那个家伙干的！
+
+过分，真不是人！
+
+**莉奥波汀:** 是啊！真不是人…虽然这么说，但做出这种事的确实不是人，而是一只林猪。
+
+**莉奥波汀:** 不知道为什么，最近总是跑下来啃花，还在花田里滚来滚去。
+
+**莉奥波汀:** 又特别狡猾，每次弄出动静，一旦有人围过来，就会立刻逃跑，刚刚还差点把路过老人的腰撞坏…
+
+**莉奥波汀:** 过分，真不是…真不是好林猪！
+
+**莉奥波汀:** 唔，仔细一看…哦，你不是荣誉骑士吗，拯救蒙德的大英雄，就，就请帮帮我吧。
+
+好，我来赶跑它！
+
+**莉奥波汀:** 你愿意出手帮忙就太好了…我记得，它好像跑到山谷里去了。
+
+**莉奥波汀:** 但这家伙特别狡猾，说不定得用花才能把它引诱出来…可惜花田现在变成这样…
+
+**莉奥波汀:** 也许你能在路上采几朵风息花，把它骗出来，让它也知道被人捉弄的味道！
+
+#### 告知莉奥波汀林猪被赶跑的消息
+
+**莉奥波汀:** 哦…你们回来了？怎么样？
+
+已经赶跑啦！
+
+**莉奥波汀:** 啊，真是太感谢你了，来，这是给你的酬劳。
+
+**莉奥波汀:** 付出了劳动，就应该拿到报酬。
+
+**莉奥波汀:** 这下也能重新修整花田了，希望这次不会再有什么不是人的家伙来捣乱…

@@ -5,7 +5,7 @@
 # title_ru: Страна кинофантазий, построенная за ночь
 # title_en: An Overnight Fantasyland
 # title_zh: 一夜建成的乐园
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 10232

@@ -5,7 +5,7 @@
 # title_ru: Морские сокровища
 # title_en: Treasures Under the Sea
 # title_zh: 水中秘宝
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74673

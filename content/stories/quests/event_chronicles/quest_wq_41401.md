@@ -5,7 +5,7 @@
 # title_ru: Любопытная фотокамера
 # title_en: Kurious Kamera
 # title_zh: 特别留影
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 41401
@@ -15,8 +15,8 @@
 # part_source_ids: 41401
 # previous_quests:
 # next_quests: quest_wq_41402
-# related_quests: quest_wq_41402
-# quest_chain: quest_wq_41401,quest_wq_41402
+# related_quests:
+# quest_chain: quest_wq_41401
 # quest_series:
 # version_source: wiki_release_category
 

@@ -1,11 +1,11 @@
 # id: quest_wq_76222
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Нефер
 # title_en: Tea Party Re-Invitation: Nefer
 # title_zh: 茶会的再邀·奈芙尔
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76222

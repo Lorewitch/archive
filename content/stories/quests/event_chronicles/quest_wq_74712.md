@@ -5,7 +5,7 @@
 # title_ru: Злые рыбки предупреждают!
 # title_en: A Warning From the Wrathful Fish!
 # title_zh: 暴躁鱼儿的警告！
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74712

@@ -1,11 +1,11 @@
 # id: quest_wq_74251
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Истории из прошлого
 # title_en: Stories of the Past
 # title_zh: 过去的故事
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74251

@@ -1,11 +1,11 @@
 # id: quest_wq_79054
 # story_group: event_chronicles
-# display_category: Ивент · Secret Summer Paradise
+# display_category: Ивент · Лето! Парк развлечений? Мираж!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Память о звёздной ночи
 # title_en: A Starry Night, as Remembered
 # title_zh: 如留旧时的星影
-# region: Тейват
+# region: Иной мир
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 79054

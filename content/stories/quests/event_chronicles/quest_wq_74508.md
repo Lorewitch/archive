@@ -1,11 +1,11 @@
 # id: quest_wq_74508
 # story_group: event_chronicles
-# display_category: Ивент · Lil' Fungi's Fun-Tastic Fiesta
+# display_category: Ивент · Удивительный турнир плесенников
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Плесенники тебе не тидалья!
 # title_en: Fungi Are Not Tidalga!
 # title_zh: 蕈兽可不是汐藻！
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74508

@@ -5,7 +5,7 @@
 # title_ru: Сокровища под лозой
 # title_en: Treasures Beneath the Vines
 # title_zh: 蔓下秘宝
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73674
@@ -15,8 +15,8 @@
 # part_source_ids: 73674
 # previous_quests: quest_wq_72651
 # next_quests:
-# related_quests: quest_wq_70652,quest_wq_72651
-# quest_chain: quest_wq_70652,quest_wq_72651,quest_wq_73674
+# related_quests:
+# quest_chain: quest_wq_73674
 # quest_series:
 # version_source: wiki_release_category
 

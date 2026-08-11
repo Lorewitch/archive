@@ -1,11 +1,11 @@
 # id: quest_wq_75674
 # story_group: event_chronicles
-# display_category: Ивент · Dance Dance Easy-Breezy Disco
+# display_category: Ивент · Оазис танцпола
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Танцы, музыка, каникулы!
 # title_en: Disco in Motion, Holiday Emotion!
 # title_zh: 跃跃律动，假日再临！
-# region: Тейват
+# region: Натлан
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 75674

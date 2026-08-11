@@ -6,6 +6,7 @@
 # title_en: Yet the Butterfly Flutters Away
 # title_zh: 奈何蝶飞去
 # region: Ли Юэ
+# rarity: 5
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 2018

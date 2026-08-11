@@ -1,11 +1,11 @@
 # id: quest_wq_70026
 # story_group: event_chronicles
-# display_category: Ивент · Shadow of the Ancients
+# display_category: Ивент · Тень древности
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Путешествие на Цуруми
 # title_en: Journey to Tsurumi
 # title_zh: 鹤观之行
-# region: Тейват
+# region: Инадзума
 # game_version: 2.2
 # release_versions: 2.2
 # source_id: 70026

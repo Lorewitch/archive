@@ -1,11 +1,11 @@
 # id: quest_wq_74696
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Пророчество ведьмы: Указания причудливой формы
 # title_en: Witch's Revelation: Instruction of Curious Form
 # title_zh: 魔女的谕示·奇躯之谕
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74696

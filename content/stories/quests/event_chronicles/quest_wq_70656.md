@@ -1,11 +1,11 @@
 # id: quest_wq_70656
 # story_group: event_chronicles
-# display_category: Ивент · Invitation of Windblume
+# display_category: Ивент · Праздник ветряных цветов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Увлекательная страна чудес
 # title_en: Peculiar Wonderland
 # title_zh: 奇趣秘园
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 70656

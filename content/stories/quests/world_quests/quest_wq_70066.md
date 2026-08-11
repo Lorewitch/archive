@@ -5,7 +5,7 @@
 # title_ru: Аллан Смити, автор Фишль: Эпилог
 # title_en: Alan Smithee, Author of Fischl: Epilogue
 # title_zh: 艾伦·史密西，菲谢尔的作者·尾声
-# region: Тейват
+# region: Ли Юэ
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70066

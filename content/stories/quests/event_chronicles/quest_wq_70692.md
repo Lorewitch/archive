@@ -1,11 +1,11 @@
 # id: quest_wq_70692
 # story_group: event_chronicles
-# display_category: Ивент · Soulblazers' Snowbound Journey
+# display_category: Ивент · Снежное путешествие Пылких Сердец
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Заврискаут, вперёд!
 # title_en: Let's Go, Saury-Saury Scout!
 # title_zh: 前哨龙龙，起航！
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70692

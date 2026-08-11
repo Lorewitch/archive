@@ -5,7 +5,7 @@
 # title_ru: Мгновенное опьянение, встреча при лунном свете
 # title_en: An Instant of Intoxication, A Meeting by Moonlight
 # title_zh: 余醺一瞬，月境之约
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 40200

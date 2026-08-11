@@ -5,7 +5,7 @@
 # title_ru: Доклад о работе самоциркуляции шипа: запись внешних условий
 # title_en: Spike Self-Circulation Report: Environs Log
 # title_zh: 光钉自循环运作报告·环境记录
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71508

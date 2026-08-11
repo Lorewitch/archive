@@ -5,7 +5,7 @@
 # title_ru: Кристаллы резонанса не меняют своих свойств
 # title_en: "Vibro-Crystals. It's Always Vibro-Crystals..."
 # title_zh: 振晶，归来仍是振晶
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 71125

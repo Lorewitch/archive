@@ -5,7 +5,7 @@
 # title_ru: Классическая игра
 # title_en: A Timeless Classic
 # title_zh: 经典游戏
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 70659

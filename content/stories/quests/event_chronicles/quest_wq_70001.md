@@ -1,11 +1,11 @@
 # id: quest_wq_70001
 # story_group: event_chronicles
-# display_category: Ивент · Invitation of Windblume
+# display_category: Ивент · Праздник ветряных цветов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Праздничный раздор
 # title_en: The Sound of Discord
 # title_zh: 节日里的不谐音
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 70001

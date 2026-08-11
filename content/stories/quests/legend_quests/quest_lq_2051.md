@@ -6,6 +6,7 @@
 # title_en: Floral Debt, Blood Due
 # title_zh: 花债血偿
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 2051

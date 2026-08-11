@@ -1,11 +1,11 @@
 # id: quest_wq_79041
 # story_group: event_chronicles
-# display_category: Ивент · Secret Summer Paradise
+# display_category: Ивент · Лето! Парк развлечений? Мираж!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Круговорот тысячи чудес
 # title_en: Returning Curios
 # title_zh: 千奇澴回
-# region: Тейват
+# region: Иной мир
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 79041

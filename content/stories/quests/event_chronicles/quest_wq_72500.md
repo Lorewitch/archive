@@ -1,11 +1,11 @@
 # id: quest_wq_72500
 # story_group: event_chronicles
-# display_category: Ивент · The Almighty Arataki Great and Glorious Drumalong Festival
+# display_category: Ивент · Грандиозный барабанный фестиваль великолепного Аратаки
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: После праздника
 # title_en: Festival Afterword
 # title_zh: 祭典后话
-# region: Тейват
+# region: Инадзума
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 72500

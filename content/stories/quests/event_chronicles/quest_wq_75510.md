@@ -5,7 +5,7 @@
 # title_ru: Испытания на свитке
 # title_en: A Scrollbound Skirmish
 # title_zh: 织卷上的挑战
-# region: Тейват
+# region: Натлан
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 75510

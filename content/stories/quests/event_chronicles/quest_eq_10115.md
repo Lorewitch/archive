@@ -5,7 +5,7 @@
 # title_ru: Карты на стол! Прощание с обидами
 # title_en: Cards Out! Grievances Begone
 # title_zh: 牌出！旧怨弭散
-# region: Тейват
+# region: Инадзума
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 10115

@@ -1,11 +1,11 @@
 # id: quest_wq_76659
 # story_group: event_chronicles
-# display_category: Ивент · Clink Clank Clash
+# display_category: Ивент · Дзынь-Клац битва
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Неписанные правила
 # title_en: Unwritten Rules
 # title_zh: 暗处的规则
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76659

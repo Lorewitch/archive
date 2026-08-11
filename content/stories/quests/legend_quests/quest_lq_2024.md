@@ -6,6 +6,7 @@
 # title_en: Warriors' Dreams Like Spring Grass Renewing
 # title_zh: 兵戈梦去，春草如茵
 # region: Инадзума
+# rarity: 5
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 2024

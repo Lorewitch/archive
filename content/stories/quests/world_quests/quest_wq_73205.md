@@ -1,11 +1,11 @@
 # id: quest_wq_73205
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Подаренная роза: Длинные деньки
 # title_en: A Gifted Rose: Long Day Ahead
 # title_zh: 献给某人的蔷薇·度过长日的方式
-# region: Тейват
+# region: Сумеру
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73205
@@ -15,8 +15,8 @@
 # part_source_ids: 73205
 # previous_quests: quest_wq_73204
 # next_quests: quest_wq_73206
-# related_quests: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73206,quest_wq_73207,quest_wq_73209
-# quest_chain: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
+# related_quests: quest_wq_73204,quest_wq_73206,quest_wq_73207,quest_wq_73209
+# quest_chain: quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
 # quest_series: A Gifted Rose
 # version_source: wiki_release_category
 

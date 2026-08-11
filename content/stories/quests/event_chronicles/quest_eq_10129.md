@@ -5,7 +5,7 @@
 # title_ru: Сердце глубины
 # title_en: Heart of the Deep
 # title_zh: 幽潭心
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 10129

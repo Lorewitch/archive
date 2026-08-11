@@ -1,11 +1,11 @@
 # id: quest_wq_74011
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Тайны «Книги Откровения»
 # title_en: Book of Esoteric Revelations
 # title_zh: 秘诲揭示之书
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74011

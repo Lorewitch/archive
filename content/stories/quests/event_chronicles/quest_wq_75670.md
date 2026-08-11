@@ -5,7 +5,7 @@
 # title_ru: Вместе с заврианами
 # title_en: Saurian Sojourn
 # title_zh: 龙龙同游
-# region: Тейват
+# region: Натлан
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 75670

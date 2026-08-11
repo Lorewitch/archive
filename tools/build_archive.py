@@ -108,7 +108,7 @@ COMMON_ENEMY_TYPE_ALIASES = {
 
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
-STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles", "character_stories", "world_stories"}
+STORY_GROUPS = {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles", "character_stories", "world_stories"}
 STORY_GROUP_ALIASES = {
     "archon": "archon_quests",
     "archon_quest": "archon_quests",
@@ -116,6 +116,9 @@ STORY_GROUP_ALIASES = {
     "legend": "legend_quests",
     "legend_quest": "legend_quests",
     "legend_quests": "legend_quests",
+    "reputation": "reputation_quests",
+    "reputation_quest": "reputation_quests",
+    "reputation_quests": "reputation_quests",
     "world_quest": "world_quests",
     "world_quests": "world_quests",
     "event": "event_chronicles",
@@ -134,6 +137,8 @@ STORY_FOLDER_GROUPS = {
     "archon_quests": "archon_quests",
     "legend": "legend_quests",
     "legend_quests": "legend_quests",
+    "reputation": "reputation_quests",
+    "reputation_quests": "reputation_quests",
     "world_quests": "world_quests",
     "event": "event_chronicles",
     "events": "event_chronicles",
@@ -1056,7 +1061,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         if story_parts:
             entry["parts"] = story_parts
             entry["part_count"] = len(story_parts)
-        if entry["story_group"] in {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}:
+        if entry["story_group"] in {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}:
             entry["source_id"] = int_from_meta(meta, "source_id", None)
             entry["chapter_num"] = {
                 "ru": meta.get("chapter_num_ru", "").strip(),
@@ -1403,7 +1408,7 @@ def build_collection(
     for md_file in markdown_files(source_dir):
         entry = builder(md_file)
         entries.append(entry)
-        compact = name == "stories" and entry.get("story_group") in {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
+        compact = name == "stories" and entry.get("story_group") in {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}
         write_json(detail_dir / f"{entry['id']}.json", entry, compact=compact)
 
     index = [indexer(entry) for entry in entries]
@@ -1423,7 +1428,7 @@ def write_group_indexes(name: str, entries: list[dict[str, Any]], indexer, group
             grouped.setdefault(key, []).append(indexer(entry))
 
     if name == "stories":
-        quest_groups = {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
+        quest_groups = {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}
         grouped["quest_stories"] = [indexer(entry) for entry in entries if entry.get(group_field) in quest_groups]
 
     for key, rows in grouped.items():

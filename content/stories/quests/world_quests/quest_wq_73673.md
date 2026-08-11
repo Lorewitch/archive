@@ -1,11 +1,11 @@
 # id: quest_wq_73673
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Набор в Бригаду тридцати
 # title_en: Corps of Thirty Recruitment
 # title_zh: 「三十人团」的招募
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73673

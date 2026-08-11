@@ -1,11 +1,11 @@
 # id: quest_wq_20601
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Хорошая возможность?
 # title_en: A Fine Opportunity?
 # title_zh: 天赐良机？
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 20601

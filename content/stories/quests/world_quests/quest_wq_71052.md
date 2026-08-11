@@ -1,11 +1,11 @@
 # id: quest_wq_71052
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Палеонтологическое исследование Разлома
 # title_en: Paleontological Investigation in The Chasm
 # title_zh: 古代生物调查
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71052

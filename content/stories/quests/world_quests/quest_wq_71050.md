@@ -1,11 +1,11 @@
 # id: quest_wq_71050
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Микологическое исследование Разлома
 # title_en: Mycological Investigation in The Chasm
 # title_zh: 层岩菌类调查
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71050

@@ -1,11 +1,11 @@
 # id: quest_wq_40147
 # story_group: event_chronicles
-# display_category: Ивент · Receiver of Friends From Afar
+# display_category: Ивент · Друг издалека
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Друг издалека II
 # title_en: Receiver of Friends From Afar: Part II
 # title_zh: 有朋自远方来·其二
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 40147

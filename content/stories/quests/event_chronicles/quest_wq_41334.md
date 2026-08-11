@@ -1,6 +1,6 @@
 # id: quest_wq_41334
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite Tales
+# display_category: Ивент · Истории Праздника морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Успешный бизнес в праздничное время?
 # title_en: Lantern Rite, Big Business?

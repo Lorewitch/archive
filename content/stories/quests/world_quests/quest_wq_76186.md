@@ -1,11 +1,11 @@
 # id: quest_wq_76186
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Скромная попытка
 # title_en: A Small Overture
 # title_zh: 小小的尝试
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76186

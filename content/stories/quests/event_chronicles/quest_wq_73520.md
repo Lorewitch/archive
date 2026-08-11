@@ -1,11 +1,11 @@
 # id: quest_wq_73520
 # story_group: event_chronicles
-# display_category: Ивент · A Parade of Providence
+# display_category: Ивент · Торжество разума
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Событие двадцатилетней давности»
 # title_en: "That Incident From Twenty Years Ago"
 # title_zh: 「二十年前的事」
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73520

@@ -1,11 +1,11 @@
 # id: quest_wq_73521
 # story_group: event_chronicles
-# display_category: Ивент · A Parade of Providence
+# display_category: Ивент · Торжество разума
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Записи Сачина
 # title_en: Sachin's Article
 # title_zh: 「萨齐因留下的文字」
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73521

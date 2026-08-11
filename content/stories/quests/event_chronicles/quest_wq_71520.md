@@ -5,7 +5,7 @@
 # title_ru: Фаза эксперимента: Неподконтрольные параметры
 # title_en: Experiment Phase: Uncontrolled Parameters
 # title_zh: 不受控的实验规模
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 71520

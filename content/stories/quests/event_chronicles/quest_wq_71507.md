@@ -5,7 +5,7 @@
 # title_ru: Доклад о работе самоциркуляции шипа: краткое описание
 # title_en: Spike Self-Circulation Report: Abstract
 # title_zh: 光钉自循环运作报告·摘要
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71507

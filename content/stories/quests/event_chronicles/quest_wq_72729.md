@@ -1,11 +1,11 @@
 # id: quest_wq_72729
 # story_group: event_chronicles
-# display_category: Ивент · Akitsu Kimodameshi
+# display_category: Ивент · «Акицу Кимодамэси»
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Неуловимая мечта
 # title_en: Dreamlike
 # title_zh: 如梦似幻
-# region: Тейват
+# region: Инадзума
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 72729

@@ -1,11 +1,11 @@
 # id: quest_wq_76196
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование минералов: Серебро захода луны
 # title_en: Mineral Research: Moonfall Silver
 # title_zh: 矿物调查·月落银
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76196

@@ -6,6 +6,7 @@
 # title_en: Braving the Tides Together
 # title_zh: 共渡潮落
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 2044

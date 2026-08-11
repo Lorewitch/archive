@@ -1,11 +1,11 @@
 # id: quest_wq_76676
 # story_group: event_chronicles
-# display_category: Ивент · Dance Dance Dynamic Disco
+# display_category: Ивент · Пульс танцпола
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ещё один танец!
 # title_en: We'll Dance Together Again!
 # title_zh: 下回再舞！
-# region: Тейват
+# region: Натлан
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76676

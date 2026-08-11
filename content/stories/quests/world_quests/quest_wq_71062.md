@@ -1,11 +1,11 @@
 # id: quest_wq_71062
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Пропавший в глубинах отряд
 # title_en: A Company Vanishing Into the Deep
 # title_zh: 连队消失在深岩
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71062

@@ -1,11 +1,11 @@
 # id: quest_wq_79072
 # story_group: event_chronicles
-# display_category: Ивент · Summertide Scales and Tales
+# display_category: Ивент · Лето! Драконы? Сказка!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Летающая шляпа»
 # title_en: "Flying Hatter"
 # title_zh: 《飞帽匠》
-# region: Тейват
+# region: Иной мир
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 79072

@@ -5,7 +5,7 @@
 # title_ru: Ветер из подземелья
 # title_en: Windswept Domain
 # title_zh: 秘境来风
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 70664

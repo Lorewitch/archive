@@ -5,7 +5,7 @@
 # title_ru: Мир за рамками холста
 # title_en: Outside the Canvas, Inside the Lens
 # title_zh: 画外旅照
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72683

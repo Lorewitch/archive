@@ -1,11 +1,11 @@
 # id: quest_wq_79000
 # story_group: event_chronicles
-# display_category: Ивент · Midsummer Island Adventure
+# display_category: Ивент · Лето! Остров? Приключение!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Те, что слышат море
 # title_en: They Who Hear the Sea
 # title_zh: 听海人
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 79000

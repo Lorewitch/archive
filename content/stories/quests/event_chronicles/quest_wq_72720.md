@@ -1,11 +1,11 @@
 # id: quest_wq_72720
 # story_group: event_chronicles
-# display_category: Ивент · Hues of the Violet Garden
+# display_category: Ивент · Краски фиалкового сада
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бой с Мисима Мититоси
 # title_en: Versus Mishima Michitoshi
 # title_zh: 与三岛道世之战
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72720

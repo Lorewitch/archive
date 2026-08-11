@@ -1,11 +1,11 @@
 # id: quest_wq_70658
 # story_group: event_chronicles
-# display_category: Ивент · Invitation of Windblume
+# display_category: Ивент · Праздник ветряных цветов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Песнь ветров
 # title_en: Ballads of Breeze
 # title_zh: 风物之歌
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 70658

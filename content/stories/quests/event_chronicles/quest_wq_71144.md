@@ -1,11 +1,11 @@
 # id: quest_wq_71144
 # story_group: event_chronicles
-# display_category: Ивент · Mutual Security Enhancing Simulation
+# display_category: Ивент · Моделирование взаимного повышения безопасности
 # icon: assets/icons/stories/quests/mutual_security_enhancing_simulation.webp
 # title_ru: Командиры и военные игры
 # title_en: Commanders and Wargames
 # title_zh: 将才与推演
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.7
 # release_versions: 4.7
 # source_id: 71144

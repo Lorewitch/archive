@@ -1,11 +1,11 @@
 # id: quest_wq_76511
 # story_group: event_chronicles
-# display_category: Ивент · Trials of the Brave Warrior
+# display_category: Ивент · Заметки воина
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Технический турнир боевых искусств
 # title_en: Technical Martial Challenge
 # title_zh: 「有限制冷静格斗赛」
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 76511

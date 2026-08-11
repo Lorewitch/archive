@@ -5,7 +5,7 @@
 # title_ru: Красочные брызги
 # title_en: With Flying (Graffiti) Colors
 # title_zh: 飞漆溅彩
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75666

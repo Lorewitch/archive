@@ -5,7 +5,7 @@
 # title_ru: Божественное мастерство: Коллекционирование
 # title_en: Divine Ingenuity: Collector's Chapter
 # title_zh: 神工天巧·宝录之章
-# region: Тейват
+# region: Ли Юэ
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 70674

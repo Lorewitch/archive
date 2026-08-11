@@ -1,11 +1,11 @@
 # id: quest_wq_73709
 # story_group: event_chronicles
-# display_category: Ивент · Sightseeing With Friends
+# display_category: Ивент · Открывая мир вместе
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Обзор достопримечательностей и поиск интересностей
 # title_en: Behold the Grandeur, Seize the Splendor
 # title_zh: 胜地共览，亮点觅捕
-# region: Тейват
+# region: Натлан
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 73709

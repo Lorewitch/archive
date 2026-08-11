@@ -5,7 +5,7 @@
 # title_ru: В кольце пуль и шёлка
 # title_en: Encirclement of Bullets and Silk
 # title_zh: 枪弹与丝线的合围
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 10236

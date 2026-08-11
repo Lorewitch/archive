@@ -1,11 +1,11 @@
 # id: quest_wq_73704
 # story_group: event_chronicles
-# display_category: Ивент · Specially-Shaped Saurian Search
+# display_category: Ивент · Хроники поисков ящера особой формы
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Хроники поисков: За детской мечтой!
 # title_en: Search Chronicle: For Childhood Dreams!
 # title_zh: 参寻战记·为了儿时梦想！
-# region: Тейват
+# region: Сумеру
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 73704

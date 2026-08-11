@@ -1,11 +1,11 @@
 # id: quest_wq_73678
 # story_group: event_chronicles
-# display_category: Ивент · Of Ballads and Brews
+# display_category: Ивент · О балладах и кубках
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Беглецы с фермы
 # title_en: Farmland Fugitives
 # title_zh: 农园逸犯
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73678

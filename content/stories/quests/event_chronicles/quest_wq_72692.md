@@ -1,11 +1,11 @@
 # id: quest_wq_72692
 # story_group: event_chronicles
-# display_category: Ивент · Hues of the Violet Garden
+# display_category: Ивент · Краски фиалкового сада
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Поэзия Иродори. Часть II
 # title_en: Irodori Poetry: Part II
 # title_zh: 容彩诗镜·其二
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72692

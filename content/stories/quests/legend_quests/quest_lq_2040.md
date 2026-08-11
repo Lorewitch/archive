@@ -6,6 +6,7 @@
 # title_en: The Forgotten Thief
 # title_zh: 被遗忘的怪盗
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 2040

@@ -1,11 +1,11 @@
 # id: quest_wq_72276
 # story_group: event_chronicles
-# display_category: Ивент · Three Realms Gateway Offering
+# display_category: Ивент · Подношение врат трёх миров
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Головоломка Бункоку
 # title_en: The Bunkoku Enigma
 # title_zh: 文谷疑云
-# region: Тейват
+# region: Инадзума
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 72276

@@ -1,11 +1,11 @@
 # id: quest_wq_73527
 # story_group: event_chronicles
-# display_category: Ивент · Secret Summer Paradise
+# display_category: Ивент · Лето! Парк развлечений? Мираж!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Крокодилы? Водяные пушки? Это сражение!
 # title_en: Crocs? Water Cannons? It's War!
 # title_zh: 鳄鱼？水炮？大作战！
-# region: Тейват
+# region: Иной мир
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73527

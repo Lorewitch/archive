@@ -1,11 +1,11 @@
 # id: quest_wq_72699
 # story_group: event_chronicles
-# display_category: Ивент · Hues of the Violet Garden
+# display_category: Ивент · Краски фиалкового сада
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бой с Ясухико Таро
 # title_en: Versus Yasuhiko Tarou
 # title_zh: 与安彦太郎之战
-# region: Тейват
+# region: Инадзума
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 72699

@@ -6,6 +6,7 @@
 # title_en: The Warmth of Lies
 # title_zh: 谎言的温度
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.7
 # release_versions: 4.7
 # source_id: 2048

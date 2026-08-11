@@ -5,7 +5,7 @@
 # title_ru: Стрелки в урагане
 # title_en: Strikers Through the Storm
 # title_zh: 急风狙击
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75663

@@ -1,11 +1,11 @@
 # id: quest_wq_71667
 # story_group: event_chronicles
-# display_category: Ивент · Specially-Shaped Saurian Search
+# display_category: Ивент · Хроники поисков ящера особой формы
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Хроники поисков: Холодный круглый животик!
 # title_en: Search Chronicle: Cold, Round Belly!
 # title_zh: 参寻战记·冷酷圆肚皮！
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 71667

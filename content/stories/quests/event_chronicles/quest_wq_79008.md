@@ -1,11 +1,11 @@
 # id: quest_wq_79008
 # story_group: event_chronicles
-# display_category: Ивент · Midsummer Island Adventure
+# display_category: Ивент · Лето! Остров? Приключение!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Летний подарок
 # title_en: Summer Gift
 # title_zh: 夏日赠礼
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 79008

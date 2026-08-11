@@ -1,11 +1,11 @@
 # id: quest_wq_10135
 # story_group: event_chronicles
-# display_category: Ивент · Secret Summer Paradise
+# display_category: Ивент · Лето! Парк развлечений? Мираж!
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Три дня фантазий Дайи
 # title_en: Daiya's Three-Day Reverie
 # title_zh: 黛依阿的三日遐想
-# region: Тейват
+# region: Иной мир
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 10135

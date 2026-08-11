@@ -1,11 +1,11 @@
 # id: quest_wq_10071
 # story_group: event_chronicles
-# display_category: Ивент · Summertime Odyssey
+# display_category: Ивент · Летнее морское путешествие
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: В поисках сокровищ четырёх рифов
 # title_en: The Treasure of the Four Skerries
 # title_zh: 四礁觅宝记
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 10071

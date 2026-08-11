@@ -1,11 +1,11 @@
 # id: quest_wq_70555
 # story_group: event_chronicles
-# display_category: Ивент · Homeward, He Who Caught the Wind
+# display_category: Ивент · Возвращение ловца ветра
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Особый рецепт, ставший классикой
 # title_en: A Special Blend, A Timeless Masterpiece
 # title_zh: 特调佳作，列为经典
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 70555

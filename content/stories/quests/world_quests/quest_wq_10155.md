@@ -15,8 +15,8 @@
 # part_source_ids: 74078
 # previous_quests: quest_wq_10154
 # next_quests:
-# related_quests: quest_wq_10142,quest_wq_10146,quest_wq_10148,quest_wq_10149,quest_wq_10150,quest_wq_10151,quest_wq_74056,quest_wq_74120,quest_wq_10143,quest_wq_74134,quest_wq_74135,quest_wq_10152,quest_wq_10153,quest_wq_10154
-# quest_chain: quest_wq_10142,quest_wq_10146,quest_wq_10148,quest_wq_10149,quest_wq_10150,quest_wq_10151,quest_wq_74056,quest_wq_74120,quest_wq_10143,quest_wq_74134,quest_wq_74135,quest_wq_10152,quest_wq_10153,quest_wq_10154,quest_wq_10155
+# related_quests: quest_wq_10152,quest_wq_10153,quest_wq_10154
+# quest_chain: quest_wq_10152,quest_wq_10153,quest_wq_10154,quest_wq_10155
 # quest_series: In the Wake of Narcissus
 # version_source: wiki_release_category
 

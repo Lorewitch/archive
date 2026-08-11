@@ -5,7 +5,7 @@
 # title_ru: Печальный господин
 # title_en: Mr. Melancholy
 # title_zh: 忧郁先生
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 71652

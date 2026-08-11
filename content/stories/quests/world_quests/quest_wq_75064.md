@@ -1,11 +1,11 @@
 # id: quest_wq_75064
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Танец в лунном свете
 # title_en: Dancin' in the Moonlight
 # title_zh: 月光中共舞
-# region: Тейват
+# region: Натлан
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75064
@@ -15,8 +15,8 @@
 # part_source_ids: 75064
 # previous_quests:
 # next_quests: quest_wq_75070
-# related_quests: quest_wq_75070,quest_wq_75071
-# quest_chain: quest_wq_75064,quest_wq_75070,quest_wq_75071
+# related_quests:
+# quest_chain: quest_wq_75064
 # quest_series:
 # version_source: wiki_release_category
 

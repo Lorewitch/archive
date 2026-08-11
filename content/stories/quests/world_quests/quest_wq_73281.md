@@ -1,11 +1,11 @@
 # id: quest_wq_73281
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Соколиная охота
 # title_en: "The Falcon's Hunt"
 # title_zh: 「鹰猎」
-# region: Тейват
+# region: Сумеру
 # game_version: 3.4
 # release_versions: 3.4
 # source_id: 73281
@@ -15,8 +15,8 @@
 # part_source_ids: 73281
 # previous_quests: quest_wq_73279
 # next_quests: quest_wq_73282
-# related_quests: quest_wq_10087,quest_wq_10107,quest_wq_10130,quest_wq_73244,quest_wq_73279,quest_wq_73282,quest_wq_10131,quest_wq_10120
-# quest_chain: quest_wq_10087,quest_wq_10107,quest_wq_10130,quest_wq_73244,quest_wq_73279,quest_wq_73281,quest_wq_73282,quest_wq_10131,quest_wq_10120
+# related_quests:
+# quest_chain: quest_wq_73281
 # quest_series:
 # version_source: wiki_release_category
 

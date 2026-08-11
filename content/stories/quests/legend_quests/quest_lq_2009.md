@@ -6,6 +6,7 @@
 # title_en: True Treasure
 # title_zh: 真正的宝物
 # region: Мондштадт
+# rarity: 5
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2009

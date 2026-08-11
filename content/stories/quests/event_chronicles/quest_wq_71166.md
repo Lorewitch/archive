@@ -5,7 +5,7 @@
 # title_ru: Счастливые встречи
 # title_en: Good Fortune Shared
 # title_zh: 吉事共赏
-# region: Тейват
+# region: Ли Юэ
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 71166

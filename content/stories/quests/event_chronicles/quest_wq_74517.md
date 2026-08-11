@@ -1,11 +1,11 @@
 # id: quest_wq_74517
 # story_group: event_chronicles
-# display_category: Ивент · Operation Downpour Simulation
+# display_category: Ивент · Симуляция операции «Ливень»
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Симуляция операции «Ливень»
 # title_en: Operation Downpour Simulation
 # title_zh: 雨阵奔流之述演
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 74517

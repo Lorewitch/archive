@@ -1,11 +1,11 @@
 # id: quest_wq_70528
 # story_group: event_chronicles
-# display_category: Ивент · Windblume's Breath
+# display_category: Ивент · Дыхание анемонии
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Цветочная погоня
 # title_en: Floral Pursuit
 # title_zh: 万风逐花
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.5
 # release_versions: 3.5
 # source_id: 70528

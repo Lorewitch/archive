@@ -1,11 +1,11 @@
 # id: quest_wq_76142
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Эхо павших героев
 # title_en: Reverberation of Heroic Spirits
 # title_zh: 英灵的残响
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76142

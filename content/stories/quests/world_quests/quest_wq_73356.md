@@ -1,11 +1,11 @@
 # id: quest_wq_73356
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Встреча «кукол»
 # title_en: A Meeting of "Puppets"
 # title_zh: 「人偶」的相会
-# region: Тейват
+# region: Сумеру
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 73356

@@ -5,7 +5,7 @@
 # title_ru: Хороши у нас игрушки: Запас энергии
 # title_en: A-Toymaking We Shall Go: Energy Storage
 # title_zh: 进军玩具市场·能源储备
-# region: Тейват
+# region: Инадзума
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 72695

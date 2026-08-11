@@ -1,11 +1,11 @@
 # id: quest_wq_71036
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Отблески храбрости
 # title_en: Valor's Afterglow
 # title_zh: 勇气的余晖
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71036

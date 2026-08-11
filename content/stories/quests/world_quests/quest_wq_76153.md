@@ -1,11 +1,11 @@
 # id: quest_wq_76153
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Мелкое поручение
 # title_en: Minor Commission
 # title_zh: 小委托
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 76153

@@ -6,6 +6,7 @@
 # title_en: Reborn in the Land of Grievances
 # title_zh: 于怨嗟之地重生
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 2042

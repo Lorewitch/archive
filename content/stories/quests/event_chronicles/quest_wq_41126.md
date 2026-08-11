@@ -1,11 +1,11 @@
 # id: quest_wq_41126
 # story_group: event_chronicles
-# display_category: Ивент · Unreconciled Stars
+# display_category: Ивент · Заблудшие звёзды
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Проблема с письмами
 # title_en: Trouble With Letters
 # title_zh: 家书难递
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 41126

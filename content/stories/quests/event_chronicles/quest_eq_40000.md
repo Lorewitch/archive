@@ -1,6 +1,6 @@
 # id: quest_eq_40000
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite
+# display_category: Ивент · Праздник морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Ли Юэ: Театр Механикус
 # title_en: Liyue: Theater Mechanicus

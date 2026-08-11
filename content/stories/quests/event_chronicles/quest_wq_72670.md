@@ -5,7 +5,7 @@
 # title_ru: Я, исследователь
 # title_en: I, Researcher
 # title_zh: 我，游学者
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.3
 # release_versions: 2.3
 # source_id: 72670

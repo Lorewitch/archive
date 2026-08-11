@@ -1,11 +1,11 @@
 # id: quest_wq_72236
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Трёхцветный архив
 # title_en: Tricolor File
 # title_zh: 三色档案
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72236

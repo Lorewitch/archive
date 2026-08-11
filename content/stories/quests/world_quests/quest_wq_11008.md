@@ -1,11 +1,11 @@
 # id: quest_wq_11008
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Чайник - полная чаша. Часть I
 # title_en: A Teapot to Call Home: Part I
 # title_zh: 翠石砌玉壶·其一
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 11008
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_71654
 # related_quests: quest_wq_71654
 # quest_chain: quest_wq_11008,quest_wq_71654
-# quest_series:
+# quest_series: A Teapot to Call Home
 # version_source: wiki_release_category
 
 ## RU

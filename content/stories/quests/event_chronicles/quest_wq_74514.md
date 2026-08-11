@@ -5,7 +5,7 @@
 # title_ru: Мир за рамками холста: Поцелуй Росы
 # title_en: Outside the Canvas, Inside the Lens: Dew-Kissed Chapter
 # title_zh: 画外旅照·浮露之章
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 74514

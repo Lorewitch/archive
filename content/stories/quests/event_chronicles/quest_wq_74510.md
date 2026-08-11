@@ -1,11 +1,11 @@
 # id: quest_wq_74510
 # story_group: event_chronicles
-# display_category: Ивент · Lil' Fungi's Fun-Tastic Fiesta
+# display_category: Ивент · Удивительный турнир плесенников
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Скорое прощание
 # title_en: A Not-So-Distant Farewell
 # title_zh: 不遥远的分别
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74510

@@ -1,11 +1,11 @@
 # id: quest_wq_73676
 # story_group: event_chronicles
-# display_category: Ивент · Star-Seeker's Sojourn
+# display_category: Ивент · Путешествие искателя звёзд
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Великая звезда будущего
 # title_en: Great Future Star
 # title_zh: 大未来星
-# region: Тейват
+# region: Сумеру
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73676

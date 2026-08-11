@@ -1,11 +1,11 @@
 # id: quest_wq_76189
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование животных: Барсук-стиляга
 # title_en: Animal Research: Chic Badgers
 # title_zh: 动物调查·帔髦獾
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76189

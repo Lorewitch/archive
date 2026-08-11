@@ -5,7 +5,7 @@
 # title_ru: Путь искателя сокровищ. Часть I
 # title_en: The Path of the Treasure-Seeker, Part I
 # title_zh: 寻宝的方法之一
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 70652
@@ -15,8 +15,8 @@
 # part_source_ids: 70652
 # previous_quests:
 # next_quests: quest_wq_72651
-# related_quests: quest_wq_72651,quest_wq_73674
-# quest_chain: quest_wq_70652,quest_wq_72651,quest_wq_73674
+# related_quests:
+# quest_chain: quest_wq_70652
 # quest_series:
 # version_source: wiki_release_category
 

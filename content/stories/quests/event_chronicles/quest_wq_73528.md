@@ -1,11 +1,11 @@
 # id: quest_wq_73528
 # story_group: event_chronicles
-# display_category: Ивент · Secret Summer Paradise
+# display_category: Ивент · Лето! Парк развлечений? Мираж!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Правда же зяблики самые милые?
 # title_en: Aren't Finches the Cutest?
 # title_zh: 团雀是否最可爱！
-# region: Тейват
+# region: Иной мир
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73528

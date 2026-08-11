@@ -1,11 +1,11 @@
 # id: quest_wq_73706
 # story_group: event_chronicles
-# display_category: Ивент · Ruins Exploration: Fieldwise Center
+# display_category: Ивент · Исследование руин: Верный путь
 # icon: assets/icons/stories/quests/ruins_exploration_fieldwise_center.webp
 # title_ru: Группа по управлению кризисными ситуациями к работе готова!
 # title_en: Crisis Management Unit, Fully Operational!
 # title_zh: 抗险机构，全量就绪！
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 73706

@@ -1,11 +1,11 @@
 # id: quest_wq_73701
 # story_group: event_chronicles
-# display_category: Ивент · The Recollector's Path
+# display_category: Ивент · Путь воспоминаний
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Путь воспоминаний
 # title_en: The Recollector's Path
 # title_zh: 忆昔诸途巡历
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73701

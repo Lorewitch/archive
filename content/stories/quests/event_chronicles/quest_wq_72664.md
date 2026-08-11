@@ -1,11 +1,11 @@
 # id: quest_wq_72664
 # story_group: event_chronicles
-# display_category: Ивент · Moonlight Merriment
+# display_category: Ивент · Лунное утешение
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Куча дел в Лунную охоту
 # title_en: The Many Matters of the Moonchase Festival
 # title_zh: 逐月节的诸多事宜
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72664

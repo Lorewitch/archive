@@ -1,11 +1,11 @@
 # id: quest_wq_75212
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Следы цвета
 # title_en: Traces of Chroma
 # title_zh: 流彩的踪迹
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75212

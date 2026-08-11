@@ -1,11 +1,11 @@
 # id: quest_wq_74502
 # story_group: event_chronicles
-# display_category: Ивент · Mega Meka Melee
+# display_category: Ивент · Мегасхватка меков
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Игрушечная война: Перемирие
 # title_en: The Toy War: An Armistice
 # title_zh: 停战协议！玩具战争
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74502

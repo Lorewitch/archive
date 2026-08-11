@@ -1,11 +1,11 @@
 # id: quest_wq_75246
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Встречи в отпуске
 # title_en: Encounters Always Happen on a Holiday
 # title_zh: 邂逅总在悠闲时
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75246
@@ -15,8 +15,8 @@
 # part_source_ids: 75246
 # previous_quests:
 # next_quests: quest_wq_75247
-# related_quests: quest_wq_75247
-# quest_chain: quest_wq_75246,quest_wq_75247
+# related_quests:
+# quest_chain: quest_wq_75246
 # quest_series:
 # version_source: wiki_release_category
 

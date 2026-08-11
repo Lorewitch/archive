@@ -1,11 +1,11 @@
 # id: quest_wq_70695
 # story_group: event_chronicles
-# display_category: Ивент · Soulblazers' Snowbound Journey
+# display_category: Ивент · Снежное путешествие Пылких Сердец
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Привет от Ордо Фавониус
 # title_en: Greetings From the Knights of Favonius
 # title_zh: 来自骑士团的慰问
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 70695

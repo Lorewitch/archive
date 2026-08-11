@@ -1,11 +1,11 @@
 # id: quest_wq_79002
 # story_group: event_chronicles
-# display_category: Ивент · Midsummer Island Adventure
+# display_category: Ивент · Лето! Остров? Приключение!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Кого слушается дикий ветер?
 # title_en: Who Wields the Wild Wind?
 # title_zh: 狂风，听谁号令
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 79002

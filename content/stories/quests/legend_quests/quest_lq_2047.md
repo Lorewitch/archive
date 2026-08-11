@@ -6,6 +6,7 @@
 # title_en: When the Hearth-Flame Goes Out
 # title_zh: 炉火熄灭之际
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 2047

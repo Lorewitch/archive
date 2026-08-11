@@ -1,11 +1,11 @@
 # id: quest_wq_71659
 # story_group: event_chronicles
-# display_category: Ивент · A Study in Potions
+# display_category: Ивент · Исследование зелий
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Эликсир и зелье
 # title_en: Elixirs and Potions
 # title_zh: 丹剂与魔药
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 71659

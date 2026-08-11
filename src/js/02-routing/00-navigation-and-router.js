@@ -242,7 +242,7 @@ function renderNav() {
 function collectionForCatalog(config) {
   let rows = config.data();
   if (isQuestStoriesCatalog(config)) {
-    const questGroups = new Set(["archon_quests", "legend_quests", "world_quests", "event_chronicles"]);
+    const questGroups = new Set(["archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"]);
     rows = rows.filter(item => questGroups.has(groupValue(item, config)));
   } else if (config.groups && state.subsection) {
     rows = rows.filter(item => groupValue(item, config) === state.subsection);

@@ -1,11 +1,11 @@
 # id: quest_wq_76195
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование минералов: Сосновый янтарь
 # title_en: Mineral Research: Pine Amber
 # title_zh: 矿物调查·松珀香
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76195

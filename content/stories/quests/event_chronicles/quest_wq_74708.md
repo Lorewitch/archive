@@ -5,7 +5,7 @@
 # title_ru: Появились злые рыбки?
 # title_en: The Emergence of Irate Fish?
 # title_zh: 暴躁鱼儿在出没？
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74708

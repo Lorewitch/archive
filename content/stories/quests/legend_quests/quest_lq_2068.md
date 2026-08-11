@@ -6,6 +6,7 @@
 # title_en: The Magic Known as Storytelling
 # title_zh: 名为故事的魔法
 # region: Мондштадт
+# rarity: 5
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 2068

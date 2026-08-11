@@ -1,11 +1,11 @@
 # id: quest_wq_75146
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Краткая история камней
 # title_en: A Brief History of Rocks
 # title_zh: 碎岩及其往事
-# region: Тейват
+# region: Натлан
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75146

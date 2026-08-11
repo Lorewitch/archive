@@ -1,11 +1,11 @@
 # id: quest_wq_74138
 # story_group: event_chronicles
-# display_category: Ивент · Radiant Harvest
+# display_category: Ивент · Калейдоскоп огней
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Калейдоскоп огней: Компенсация
 # title_en: Radiant Harvest: Compensation
 # title_zh: 集光撷彩·报偿
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74138

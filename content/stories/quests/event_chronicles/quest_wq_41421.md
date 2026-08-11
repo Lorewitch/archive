@@ -1,11 +1,11 @@
 # id: quest_wq_41421
 # story_group: event_chronicles
-# display_category: Ивент · Wishful Drops
+# display_category: Ивент · Капли желания
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ручьи жизни I
 # title_en: Life Flows On (I)
 # title_zh: 潺潺向前·其一
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 41421

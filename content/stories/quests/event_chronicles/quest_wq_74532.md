@@ -1,11 +1,11 @@
 # id: quest_wq_74532
 # story_group: event_chronicles
-# display_category: Ивент · Rapid Capture
+# display_category: Ивент · Скоростная съёмка
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Популярное развлечение
 # title_en: Popular Entertainment
 # title_zh: 大众化的结局构想
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 74532

@@ -1,11 +1,11 @@
 # id: quest_wq_70114
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Встреча на Драконьем хребте
 # title_en: A Chat in the Snowy Mountains
 # title_zh: 雪山小叙
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 70114

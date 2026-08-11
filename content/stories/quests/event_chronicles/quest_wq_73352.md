@@ -1,11 +1,11 @@
 # id: quest_wq_73352
 # story_group: event_chronicles
-# display_category: Ивент · Chromatic Ode of Candies and Roses
+# display_category: Ивент · Хроматическая ода конфетам и розам
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Мчащийся экипаж
 # title_en: Rocking Carriage
 # title_zh: 花车摇曳
-# region: Тейват
+# region: Сумеру
 # game_version: 5.1
 # release_versions: 5.1
 # source_id: 73352

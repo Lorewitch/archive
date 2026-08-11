@@ -1,11 +1,11 @@
 # id: quest_wq_74512
 # story_group: event_chronicles
-# display_category: Ивент · Rolling Crossfire
+# display_category: Ивент · Вихрь перекрёстного огня
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Эксперимент во имя будущего
 # title_en: For the Future's Sake, Experiment!
 # title_zh: 奔赴未来的实验
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.5
 # release_versions: 4.5
 # source_id: 74512

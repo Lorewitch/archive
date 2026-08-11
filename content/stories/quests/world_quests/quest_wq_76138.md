@@ -1,11 +1,11 @@
 # id: quest_wq_76138
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование утечек
 # title_en: Research Spillover
 # title_zh: 外溢之研究
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76138

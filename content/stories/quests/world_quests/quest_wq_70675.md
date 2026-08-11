@@ -1,11 +1,11 @@
 # id: quest_wq_70675
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Новая доска приглашений
 # title_en: Brand-New Invitation Board!
 # title_zh: 新鲜邀请板
-# region: Тейват
+# region: Мондштадт
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 70675

@@ -1,11 +1,11 @@
 # id: quest_wq_73501
 # story_group: event_chronicles
-# display_category: Ивент · Graven Innocence
+# display_category: Ивент · Детская сказка
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Популярная игрушка
 # title_en: Selling Like Hot Carvings
 # title_zh: 热销的木刻
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73501

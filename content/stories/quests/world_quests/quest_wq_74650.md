@@ -1,11 +1,11 @@
 # id: quest_wq_74650
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Собеседование в «Паровой птице»
 # title_en: Steambird Interview
 # title_zh: 「蒸汽鸟报」的面试
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74650

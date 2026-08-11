@@ -6,6 +6,7 @@
 # title_en: To Those Who Embark on the Expedition
 # title_zh: 致予远征之人
 # region: Мондштадт
+# rarity: 5
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 2087

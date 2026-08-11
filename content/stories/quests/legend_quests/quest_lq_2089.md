@@ -6,6 +6,7 @@
 # title_en: Up! Toward Homecoming Wings
 # title_zh: 飞向归羽声
 # region: Нод-Край
+# rarity: 5
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 2089

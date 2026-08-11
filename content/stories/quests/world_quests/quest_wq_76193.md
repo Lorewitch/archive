@@ -1,11 +1,11 @@
 # id: quest_wq_76193
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Особое исследование: Мелюзина?
 # title_en: Special Research: Melusine?
 # title_zh: 特别调查·美露莘？
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76193
@@ -15,8 +15,8 @@
 # part_source_ids: 76193
 # previous_quests: quest_wq_76191,quest_wq_76192
 # next_quests:
-# related_quests: quest_wq_76191,quest_wq_76192
-# quest_chain: quest_wq_76191,quest_wq_76192,quest_wq_76193
+# related_quests:
+# quest_chain: quest_wq_76193
 # quest_series:
 # version_source: wiki_release_category
 

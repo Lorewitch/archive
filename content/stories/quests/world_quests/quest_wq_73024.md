@@ -1,11 +1,11 @@
 # id: quest_wq_73024
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Встреча в лесу
 # title_en: Woodland Encounter
 # title_zh: 林中奇遇
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73024

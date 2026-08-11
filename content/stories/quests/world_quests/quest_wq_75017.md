@@ -1,11 +1,11 @@
 # id: quest_wq_75017
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Откройте мне своё сердце
 # title_en: Open Your Heart to Me
 # title_zh: 为我敞开心扉
-# region: Тейват
+# region: Натлан
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75017

@@ -1,11 +1,11 @@
 # id: quest_eq_40061
 # story_group: event_chronicles
-# display_category: Ивент · Three Realms Gateway Offering
+# display_category: Ивент · Подношение врат трёх миров
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Наказ предков
 # title_en: That Which Our Ancestors Entrusted
 # title_zh: 御先祖大人的委托
-# region: Тейват
+# region: Инадзума
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 40061
@@ -15,8 +15,8 @@
 # part_source_ids: 40061
 # previous_quests:
 # next_quests: quest_wq_10059
-# related_quests: quest_wq_10059
-# quest_chain: quest_eq_40061,quest_wq_10059
+# related_quests:
+# quest_chain: quest_eq_40061
 # quest_series: Three Realms Gateway Offering
 # version_source: wiki_release_category
 

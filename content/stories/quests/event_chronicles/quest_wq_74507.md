@@ -1,11 +1,11 @@
 # id: quest_wq_74507
 # story_group: event_chronicles
-# display_category: Ивент · Lil' Fungi's Fun-Tastic Fiesta
+# display_category: Ивент · Удивительный турнир плесенников
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Удивительный турнир плесенников!
 # title_en: Lil' Fungi's Fun-Tastic Fiesta!
 # title_zh: 小小灵蕈大幻戏！
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74507

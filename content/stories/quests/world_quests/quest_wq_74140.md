@@ -1,11 +1,11 @@
 # id: quest_wq_74140
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Сквозь тайное зеркало
 # title_en: Through the Looking Glass
 # title_zh: 穿过谜镜
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74140
@@ -15,8 +15,8 @@
 # part_source_ids: 74140
 # previous_quests:
 # next_quests: quest_wq_74141
-# related_quests: quest_wq_74141,quest_wq_74142,quest_wq_74143
-# quest_chain: quest_wq_74140,quest_wq_74141,quest_wq_74142,quest_wq_74143
+# related_quests:
+# quest_chain: quest_wq_74140
 # quest_series:
 # version_source: wiki_release_category
 

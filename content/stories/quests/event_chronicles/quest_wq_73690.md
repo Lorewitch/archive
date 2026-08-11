@@ -1,11 +1,11 @@
 # id: quest_wq_73690
 # story_group: event_chronicles
-# display_category: Ивент · A Parade of Providence
+# display_category: Ивент · Торжество разума
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Проектирование пути
 # title_en: Project Connectivity
 # title_zh: 通路计划
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73690

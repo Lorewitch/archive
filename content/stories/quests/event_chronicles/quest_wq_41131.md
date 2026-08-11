@@ -1,11 +1,11 @@
 # id: quest_wq_41131
 # story_group: event_chronicles
-# display_category: Ивент · Unreconciled Stars
+# display_category: Ивент · Заблудшие звёзды
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Безграничные возможности
 # title_en: Unlimited Opportunity
 # title_zh: 商机无限
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 41131

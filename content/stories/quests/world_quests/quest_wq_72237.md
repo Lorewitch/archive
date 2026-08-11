@@ -1,11 +1,11 @@
 # id: quest_wq_72237
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Антигон
 # title_en: Antigonus
 # title_zh: 安提戈努斯
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72237

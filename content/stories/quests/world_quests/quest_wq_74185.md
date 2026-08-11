@@ -1,11 +1,11 @@
 # id: quest_wq_74185
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Во имя прошлого и будущего
 # title_en: For Yesterday and Tomorrow
 # title_zh: 为了旧日与明天
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 74185

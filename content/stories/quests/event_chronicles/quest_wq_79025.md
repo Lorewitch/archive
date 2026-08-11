@@ -1,11 +1,11 @@
 # id: quest_wq_79025
 # story_group: event_chronicles
-# display_category: Ивент · Summertime Odyssey
+# display_category: Ивент · Летнее морское путешествие
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бакэ-дануки - любитель путешествий
 # title_en: Bake-Danuki Wanderlust
 # title_zh: 渴望旅行的妖狸
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 79025

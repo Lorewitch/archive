@@ -6,6 +6,7 @@
 # title_en: Mighty Cyclops' Adventure!
 # title_zh: 独眼小宝总动员
 # region: Ли Юэ
+# rarity: 5
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 2012

@@ -1,11 +1,11 @@
 # id: quest_wq_72662
 # story_group: event_chronicles
-# display_category: Ивент · Lunar Realm
+# display_category: Ивент · Лунное королевство
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Одиноко брожу при яркой луне
 # title_en: By Thy Pale Beams I Solitary Rove
 # title_zh: 奈何明月
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72662

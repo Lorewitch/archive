@@ -1,6 +1,6 @@
 # id: quest_wq_41335
 # story_group: event_chronicles
-# display_category: Ивент · Lantern Rite Tales
+# display_category: Ивент · Истории Праздника морских фонарей
 # icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Праздничные стихи и пейзажи I
 # title_en: Verses and Vistas of Lantern Rite (Part I)

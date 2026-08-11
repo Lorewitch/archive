@@ -1,11 +1,11 @@
 # id: quest_wq_76125
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Пустой двор
 # title_en: The Empty Courtyard
 # title_zh: 无人的庭园
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 76125

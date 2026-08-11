@@ -1,11 +1,11 @@
 # id: quest_wq_74257
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Дом очага
 # title_en: Tea Party Re-Invitation: House of the Hearth
 # title_zh: 茶会的再邀·壁炉之家
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74257

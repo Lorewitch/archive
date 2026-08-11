@@ -1,11 +1,11 @@
 # id: quest_wq_10059
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Тайна Эреб
 # title_en: Erebos' Secret
 # title_zh: 厄瑞玻斯的秘密
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 10059
@@ -15,8 +15,8 @@
 # part_source_ids: 72268,72269,72270,72275
 # previous_quests: quest_eq_40061
 # next_quests:
-# related_quests: quest_eq_40061
-# quest_chain: quest_eq_40061,quest_wq_10059
+# related_quests:
+# quest_chain: quest_wq_10059
 # quest_series:
 # version_source: wiki_release_category
 

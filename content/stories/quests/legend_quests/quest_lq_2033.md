@@ -6,6 +6,7 @@
 # title_en: To the Wise
 # title_zh: 致智慧者
 # region: Сумеру
+# rarity: 5
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 2033

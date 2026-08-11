@@ -1,11 +1,11 @@
 # id: quest_wq_73652
 # story_group: event_chronicles
-# display_category: Ивент · Tablet Analytics
+# display_category: Ивент · Изучение таблеток
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Управляемый взрыв
 # title_en: Controllable Explosion
 # title_zh: 可控性爆炸
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73652

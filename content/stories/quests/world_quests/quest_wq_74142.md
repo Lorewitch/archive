@@ -1,11 +1,11 @@
 # id: quest_wq_74142
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Погоня
 # title_en: Pursuit
 # title_zh: 追寻
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74142
@@ -15,8 +15,8 @@
 # part_source_ids: 74142
 # previous_quests: quest_wq_74141
 # next_quests: quest_wq_74143
-# related_quests: quest_wq_74140,quest_wq_74141,quest_wq_74143
-# quest_chain: quest_wq_74140,quest_wq_74141,quest_wq_74142,quest_wq_74143
+# related_quests:
+# quest_chain: quest_wq_74142
 # quest_series:
 # version_source: wiki_release_category
 

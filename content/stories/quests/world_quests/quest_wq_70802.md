@@ -1,11 +1,11 @@
 # id: quest_wq_70802
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Снежный силуэт: Надежда
 # title_en: Snowy Silhouette: Hope
 # title_zh: 白皑谜影·希望
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.3
 # release_versions: 2.3
 # source_id: 70802
@@ -15,8 +15,8 @@
 # part_source_ids: 70802
 # previous_quests: quest_wq_70123
 # next_quests: quest_wq_70803
-# related_quests: quest_wq_70123,quest_wq_70803
-# quest_chain: quest_wq_70123,quest_wq_70802,quest_wq_70803
+# related_quests:
+# quest_chain: quest_wq_70802
 # quest_series:
 # version_source: wiki_release_category
 

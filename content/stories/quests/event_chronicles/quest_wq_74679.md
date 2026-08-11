@@ -1,11 +1,11 @@
 # id: quest_wq_74679
 # story_group: event_chronicles
-# display_category: Ивент · Roses and Muskets
+# display_category: Ивент · Розы и мушкеты
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Разброс менее угловой минуты!
 # title_en: Spread Out Less Than an Arcminute!
 # title_zh: 散布小于一角分！
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74679

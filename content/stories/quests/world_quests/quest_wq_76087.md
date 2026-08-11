@@ -1,11 +1,11 @@
 # id: quest_wq_76087
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Плач потерявшегося ребёнка
 # title_en: The Lost Child's Tale
 # title_zh: 迷路孩童的诉说
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76087

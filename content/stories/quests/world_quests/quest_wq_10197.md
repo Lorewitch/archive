@@ -1,11 +1,11 @@
 # id: quest_wq_10197
 # story_group: world_quests
-# display_category: Задание мира · Нод-Край
+# display_category: Задание мира · Луна
 # icon: assets/icons/stories/quests/mooncanon.webp
 # title_ru: Первопроходцы
 # title_en: Pioneers
 # title_zh: 先驱
-# region: Нод-Край
+# region: Луна
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 10197

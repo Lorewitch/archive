@@ -1,11 +1,11 @@
 # id: quest_wq_71521
 # story_group: event_chronicles
-# display_category: Ивент · Waterborne Poetry
+# display_category: Ивент · Поэзия вод
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Поиск творческих перспектив
 # title_en: Mending Painting Prospects
 # title_zh: 寻景觅画
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 71521

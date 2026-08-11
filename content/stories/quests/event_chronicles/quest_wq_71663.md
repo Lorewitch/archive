@@ -5,7 +5,7 @@
 # title_ru: Гости с запада
 # title_en: A Visitor From Westward Realms
 # title_zh: 西域来客
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71663

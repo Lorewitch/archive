@@ -6,6 +6,7 @@
 # title_en: As the Blazing Sun
 # title_zh: 正如那烈日
 # region: Натлан
+# rarity: 5
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 2067

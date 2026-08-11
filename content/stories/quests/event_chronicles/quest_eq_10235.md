@@ -5,7 +5,7 @@
 # title_ru: Пожелание счастливого пути
 # title_en: A Wish For Smooth Sailing
 # title_zh: 一帆风顺的美愿
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 10235

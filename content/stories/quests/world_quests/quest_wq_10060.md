@@ -1,11 +1,11 @@
 # id: quest_wq_10060
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Скорбная песнь Гипериона
 # title_en: Hyperion's Dirge
 # title_zh: 许伯利翁哀歌
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 10060

@@ -1,11 +1,11 @@
 # id: quest_wq_71098
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Ода Гарсии
 # title_en: Garcia's Paean
 # title_zh: 加尔恰的赞歌
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71098

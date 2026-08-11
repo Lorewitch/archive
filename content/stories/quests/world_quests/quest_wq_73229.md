@@ -1,11 +1,11 @@
 # id: quest_wq_73229
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Дерево и сны
 # title_en: Trees and Dreams
 # title_zh: 梦境与树
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73229

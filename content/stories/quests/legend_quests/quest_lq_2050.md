@@ -6,6 +6,7 @@
 # title_en: Silent Night
 # title_zh: 夜色无声
 # region: Фонтейн
+# rarity: 5
 # game_version: 4.7
 # release_versions: 4.7
 # source_id: 2050

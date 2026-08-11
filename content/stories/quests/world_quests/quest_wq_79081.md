@@ -1,11 +1,11 @@
 # id: quest_wq_79081
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Иной мир
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследовать этот мир
 # title_en: Explore This World
 # title_zh: 探索这个世界
-# region: Тейват
+# region: Иной мир
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 79081

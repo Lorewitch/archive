@@ -5,7 +5,7 @@
 # title_ru: Хороши у нас игрушки
 # title_en: A-Toymaking We Shall Go
 # title_zh: 进军玩具市场
-# region: Тейват
+# region: Инадзума
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 72694

@@ -1,11 +1,11 @@
 # id: quest_wq_76007
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Смена профессии всегда вызывает беспокойство
 # title_en: The Stress of Changing Careers
 # title_zh: 转行总是令人焦虑
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76007

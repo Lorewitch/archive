@@ -5,7 +5,7 @@
 # title_ru: Слушая звуки мира
 # title_en: Tuned to the World's Sounds
 # title_zh: 镜花听世
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.2
 # release_versions: 2.2
 # source_id: 70030

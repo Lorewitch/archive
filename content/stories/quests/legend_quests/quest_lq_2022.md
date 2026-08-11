@@ -6,6 +6,7 @@
 # title_en: The Whispers of the Crane and the White Rabbit
 # title_zh: 鹤与白兔的诉说
 # region: Инадзума
+# rarity: 5
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 2022

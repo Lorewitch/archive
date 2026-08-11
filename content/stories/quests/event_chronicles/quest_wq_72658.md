@@ -5,7 +5,7 @@
 # title_ru: Цветущие мечты
 # title_en: Dreams of Bloom
 # title_zh: 梦里生花
-# region: Тейват
+# region: Инадзума
 # game_version: 2.2
 # release_versions: 2.2
 # source_id: 72658

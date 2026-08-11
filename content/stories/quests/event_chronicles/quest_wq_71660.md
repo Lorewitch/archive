@@ -1,11 +1,11 @@
 # id: quest_wq_71660
 # story_group: event_chronicles
-# display_category: Ивент · A Study in Potions
+# display_category: Ивент · Исследование зелий
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Разговоры о науке
 # title_en: Academic Exchange
 # title_zh: 学术的往来
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 71660

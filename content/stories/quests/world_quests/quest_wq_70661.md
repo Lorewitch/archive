@@ -1,11 +1,11 @@
 # id: quest_wq_70661
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Взрывной рост популяции
 # title_en: Exploding Population
 # title_zh: 鱼群大爆发
-# region: Тейват
+# region: Мондштадт
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 70661

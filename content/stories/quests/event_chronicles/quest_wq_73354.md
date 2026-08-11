@@ -1,11 +1,11 @@
 # id: quest_wq_73354
 # story_group: event_chronicles
-# display_category: Ивент · Chromatic Ode of Candies and Roses
+# display_category: Ивент · Хроматическая ода конфетам и розам
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Тень меча рыцаря
 # title_en: Shadow of the Knight's Blade
 # title_zh: 骑士的剑影
-# region: Тейват
+# region: Сумеру
 # game_version: 5.1
 # release_versions: 5.1
 # source_id: 73354

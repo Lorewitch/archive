@@ -1,11 +1,11 @@
 # id: quest_wq_70540
 # story_group: event_chronicles
-# display_category: Ивент · Feline Fortress Furrdyssey
+# display_category: Ивент · Мяудиссея Замка котиков
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Незваный гость цвета пузырина!
 # title_en: Bulle Fruit-Hued Interloper!
 # title_zh: 泡泡桔色的不速之客！
-# region: Тейват
+# region: Мондштадт
 # game_version: 4.5
 # release_versions: 4.5
 # source_id: 70540

@@ -1,11 +1,11 @@
 # id: quest_wq_72176
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Игра тэмари
 # title_en: Temaria Game
 # title_zh: 「手鞠游戏」
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72176

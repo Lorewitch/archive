@@ -1,11 +1,11 @@
 # id: quest_wq_73319
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Зов света
 # title_en: Lightcall Resonance
 # title_zh: 浮光鸣召
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73319

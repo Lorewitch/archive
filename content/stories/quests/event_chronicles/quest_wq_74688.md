@@ -1,11 +1,11 @@
 # id: quest_wq_74688
 # story_group: event_chronicles
-# display_category: Ивент · Fearsome Ferocious Firepower
+# display_category: Ивент · Опасная огненная сила
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Комплексное решение
 # title_en: Pre-Packaged Solution
 # title_zh: 打包解决方案
-# region: Тейват
+# region: Фонтейн
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 74688

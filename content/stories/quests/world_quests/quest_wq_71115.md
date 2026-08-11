@@ -1,11 +1,11 @@
 # id: quest_wq_71115
 # story_group: world_quests
-# display_category: Задание мира · Тейват
+# display_category: Задание мира · Ли Юэ
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Бабочка, что тихо летит сквозь долину
 # title_en: Silently the Butterfly Crosses the Valley
 # title_zh: 彩蝶翩然过谷中
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71115

@@ -1,11 +1,11 @@
 # id: quest_wq_79062
 # story_group: event_chronicles
-# display_category: Ивент · Summertide Scales and Tales
+# display_category: Ивент · Лето! Драконы? Сказка!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Примечания к истории
 # title_en: Narration Footnotes
 # title_zh: 旁白的注脚
-# region: Тейват
+# region: Иной мир
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 79062

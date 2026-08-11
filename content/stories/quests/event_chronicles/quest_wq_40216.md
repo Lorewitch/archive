@@ -1,11 +1,11 @@
 # id: quest_wq_40216
 # story_group: event_chronicles
-# display_category: Ивент · Clink Clank Clash
+# display_category: Ивент · Дзынь-Клац битва
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Запасной план
 # title_en: Backup Plans
 # title_zh: 备用方案
-# region: Тейват
+# region: Нод-Край
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 40216
