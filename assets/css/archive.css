@@ -1617,7 +1617,7 @@ a {
   align-self: center;
   display: grid;
   place-items: center;
-  background: rgba(113, 107, 96, 0.58);
+  background: var(--icon-bg, rgba(113, 107, 96, 0.58));
 }
 
 .catalog-card-img {
