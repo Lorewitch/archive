@@ -14,6 +14,7 @@ on:
       - 'src/js/**'
       - 'tools/build_archive.py'
       - 'tools/build_bot_mentions_index.py'
+      - 'tools/build_bot_runtime_index.py'
       - 'tools/build_css.py'
       - 'tools/build_js.py'
       - 'tools/check_archive.py'
@@ -45,6 +46,9 @@ jobs:
 
       - name: Build bot mentions index
         run: python tools/build_bot_mentions_index.py
+
+      - name: Build compact bot runtime index
+        run: python tools/build_bot_runtime_index.py
 
       - name: Build CSS bundle
         run: python tools/build_css.py
