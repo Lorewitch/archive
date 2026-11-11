@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": "bot_mentions:92248ac57802",
-  "generated_by": "tools/prune_bot_index.py",
+  "version": "bot_mentions:b77af110011c",
+  "generated_by": "tools/build_bot_mentions_index.py",
   "description": "Compact search/mention index for Alter Lunna Telegram bot. Contains display data, contextual passive phrases, active-search relations and small prebuilt lookups; no full archive texts.",
   "public_sections": [
     "books",
@@ -27144,125 +27144,6 @@
         "биография 梦与赭黄色的渐变",
         "story 梦与赭黄色的渐变",
         "lore 梦与赭黄色的渐变"
-      ]
-    },
-    {
-      "key": "stories:quest_wq_1105",
-      "section": "stories",
-      "id": "quest_wq_1105",
-      "type_label": "История",
-      "emoji": "👤",
-      "title": {
-        "ru": "Дайнслейф",
-        "en": "Dainsleif",
-        "zh": "戴因斯雷布"
-      },
-      "primary_title": "Дайнслейф",
-      "route": "#/stories/world_quests/quest_wq_1105",
-      "button_text": "👤 Дайнслейф",
-      "priority": 50,
-      "names": [
-        "Дайнслейф",
-        "Dainsleif",
-        "戴因斯雷布"
-      ],
-      "aliases": [],
-      "source_tags": [],
-      "tags": [
-        "Dainsleif",
-        "Дайнслейф",
-        "戴因斯雷布",
-        "Diluc",
-        "Jean",
-        "Kaeya",
-        "Traveler",
-        "Venti",
-        "ангел",
-        "Венти",
-        "Джинн",
-        "Дилюк",
-        "Кэйа",
-        "Путешественник",
-        "凯亚",
-        "旅行者",
-        "温迪",
-        "琴",
-        "迪卢克"
-      ],
-      "related_terms": [
-        "Dainsleif",
-        "Дайнслейф",
-        "戴因斯雷布",
-        "Diluc",
-        "Jean",
-        "Kaeya",
-        "Traveler",
-        "Venti",
-        "ангел",
-        "Венти",
-        "Джинн",
-        "Дилюк",
-        "Кэйа",
-        "Путешественник",
-        "凯亚",
-        "旅行者",
-        "温迪",
-        "琴",
-        "迪卢克"
-      ],
-      "signature_owners": [],
-      "signature_aliases": [],
-      "passive_aliases": [
-        "история Дайнслейф",
-        "истории Дайнслейф",
-        "историю Дайнслейф",
-        "история персонажа Дайнслейф",
-        "истории персонажа Дайнслейф",
-        "лор Дайнслейф",
-        "лоре Дайнслейф",
-        "биография Дайнслейф",
-        "story Дайнслейф",
-        "lore Дайнслейф",
-        "история Дайнслейфа",
-        "истории Дайнслейфа",
-        "историю Дайнслейфа",
-        "история персонажа Дайнслейфа",
-        "истории персонажа Дайнслейфа",
-        "лор Дайнслейфа",
-        "лоре Дайнслейфа",
-        "биография Дайнслейфа",
-        "story Дайнслейфа",
-        "lore Дайнслейфа",
-        "история Дайнслейфом",
-        "истории Дайнслейфом",
-        "историю Дайнслейфом",
-        "история персонажа Дайнслейфом",
-        "истории персонажа Дайнслейфом",
-        "лор Дайнслейфом",
-        "лоре Дайнслейфом",
-        "биография Дайнслейфом",
-        "story Дайнслейфом",
-        "lore Дайнслейфом",
-        "история Dainsleif",
-        "истории Dainsleif",
-        "историю Dainsleif",
-        "история персонажа Dainsleif",
-        "истории персонажа Dainsleif",
-        "лор Dainsleif",
-        "лоре Dainsleif",
-        "биография Dainsleif",
-        "story Dainsleif",
-        "lore Dainsleif",
-        "история 戴因斯雷布",
-        "истории 戴因斯雷布",
-        "историю 戴因斯雷布",
-        "история персонажа 戴因斯雷布",
-        "истории персонажа 戴因斯雷布",
-        "лор 戴因斯雷布",
-        "лоре 戴因斯雷布",
-        "биография 戴因斯雷布",
-        "story 戴因斯雷布",
-        "lore 戴因斯雷布"
       ]
     },
     {
@@ -57182,6 +57063,125 @@
         "биография 善恶的赫瓦雷纳",
         "story 善恶的赫瓦雷纳",
         "lore 善恶的赫瓦雷纳"
+      ]
+    },
+    {
+      "key": "stories:quest_wq_1105",
+      "section": "stories",
+      "id": "quest_wq_1105",
+      "type_label": "История",
+      "emoji": "👤",
+      "title": {
+        "ru": "Хранитель ветви: Дайнслейф",
+        "en": "Bough Keeper: Dainsleif",
+        "zh": "拾枝者·戴因斯雷布"
+      },
+      "primary_title": "Хранитель ветви: Дайнслейф",
+      "route": "#/stories/world_quests/quest_wq_1105",
+      "button_text": "👤 Хранитель ветви: Дайнслейф",
+      "priority": 50,
+      "names": [
+        "Хранитель ветви: Дайнслейф",
+        "Bough Keeper: Dainsleif",
+        "拾枝者·戴因斯雷布"
+      ],
+      "aliases": [],
+      "source_tags": [],
+      "tags": [
+        "Bough Keeper: Dainsleif",
+        "Хранитель ветви: Дайнслейф",
+        "拾枝者·戴因斯雷布",
+        "Diluc",
+        "Jean",
+        "Kaeya",
+        "Traveler",
+        "Venti",
+        "ангел",
+        "Венти",
+        "Джинн",
+        "Дилюк",
+        "Кэйа",
+        "Путешественник",
+        "凯亚",
+        "旅行者",
+        "温迪",
+        "琴",
+        "迪卢克"
+      ],
+      "related_terms": [
+        "Bough Keeper: Dainsleif",
+        "Хранитель ветви: Дайнслейф",
+        "拾枝者·戴因斯雷布",
+        "Diluc",
+        "Jean",
+        "Kaeya",
+        "Traveler",
+        "Venti",
+        "ангел",
+        "Венти",
+        "Джинн",
+        "Дилюк",
+        "Кэйа",
+        "Путешественник",
+        "凯亚",
+        "旅行者",
+        "温迪",
+        "琴",
+        "迪卢克"
+      ],
+      "signature_owners": [],
+      "signature_aliases": [],
+      "passive_aliases": [
+        "история Хранитель ветви: Дайнслейф",
+        "истории Хранитель ветви: Дайнслейф",
+        "историю Хранитель ветви: Дайнслейф",
+        "история персонажа Хранитель ветви: Дайнслейф",
+        "истории персонажа Хранитель ветви: Дайнслейф",
+        "лор Хранитель ветви: Дайнслейф",
+        "лоре Хранитель ветви: Дайнслейф",
+        "биография Хранитель ветви: Дайнслейф",
+        "story Хранитель ветви: Дайнслейф",
+        "lore Хранитель ветви: Дайнслейф",
+        "история Хранитель ветви: Дайнслейфа",
+        "истории Хранитель ветви: Дайнслейфа",
+        "историю Хранитель ветви: Дайнслейфа",
+        "история персонажа Хранитель ветви: Дайнслейфа",
+        "истории персонажа Хранитель ветви: Дайнслейфа",
+        "лор Хранитель ветви: Дайнслейфа",
+        "лоре Хранитель ветви: Дайнслейфа",
+        "биография Хранитель ветви: Дайнслейфа",
+        "story Хранитель ветви: Дайнслейфа",
+        "lore Хранитель ветви: Дайнслейфа",
+        "история Хранитель ветви: Дайнслейфом",
+        "истории Хранитель ветви: Дайнслейфом",
+        "историю Хранитель ветви: Дайнслейфом",
+        "история персонажа Хранитель ветви: Дайнслейфом",
+        "истории персонажа Хранитель ветви: Дайнслейфом",
+        "лор Хранитель ветви: Дайнслейфом",
+        "лоре Хранитель ветви: Дайнслейфом",
+        "биография Хранитель ветви: Дайнслейфом",
+        "story Хранитель ветви: Дайнслейфом",
+        "lore Хранитель ветви: Дайнслейфом",
+        "история Bough Keeper: Dainsleif",
+        "истории Bough Keeper: Dainsleif",
+        "историю Bough Keeper: Dainsleif",
+        "история персонажа Bough Keeper: Dainsleif",
+        "истории персонажа Bough Keeper: Dainsleif",
+        "лор Bough Keeper: Dainsleif",
+        "лоре Bough Keeper: Dainsleif",
+        "биография Bough Keeper: Dainsleif",
+        "story Bough Keeper: Dainsleif",
+        "lore Bough Keeper: Dainsleif",
+        "история 拾枝者·戴因斯雷布",
+        "истории 拾枝者·戴因斯雷布",
+        "историю 拾枝者·戴因斯雷布",
+        "история персонажа 拾枝者·戴因斯雷布",
+        "истории персонажа 拾枝者·戴因斯雷布",
+        "лор 拾枝者·戴因斯雷布",
+        "лоре 拾枝者·戴因斯雷布",
+        "биография 拾枝者·戴因斯雷布",
+        "story 拾枝者·戴因斯雷布",
+        "lore 拾枝者·戴因斯雷布"
       ]
     },
     {
@@ -96116,6 +96116,9 @@
     "boreal wolfs weapon ascension materials": [
       "items:boreal_wolfs_weapon_ascension"
     ],
+    "bough keeper dainsleif": [
+      "stories:quest_wq_1105"
+    ],
     "branch of a distant sea": [
       "items:branch_of_a_distant_sea_weapon_ascension"
     ],
@@ -96474,9 +96477,6 @@
       "stories:durin",
       "stories:quest_aq_1004"
     ],
-    "dainsleif": [
-      "stories:quest_wq_1105"
-    ],
     "damaged prism": [
       "items:primal_construct_repulsor_prisms"
     ],
@@ -96580,7 +96580,6 @@
     "diluc": [
       "stories:quest_lq_2002",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:diluc",
       "stories:diona",
       "stories:quest_lq_2087",
@@ -96595,6 +96594,7 @@
       "stories:quest_lq_2012",
       "stories:quest_lq_2041",
       "stories:quest_lq_2006",
+      "stories:quest_wq_1105",
       "stories:quest_lq_2010",
       "stories:quest_aq_1604"
     ],
@@ -97458,7 +97458,6 @@
       "stories:quest_aq_1602",
       "stories:quest_lq_2019",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:jean",
       "stories:diluc",
       "stories:quest_lq_2087",
@@ -97482,6 +97481,7 @@
       "stories:quest_lq_2006",
       "stories:quest_wq_2083",
       "stories:quest_wq_2076",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1001",
       "stories:quest_lq_2075",
       "stories:quest_aq_1604",
@@ -97526,7 +97526,6 @@
     ],
     "kaeya": [
       "stories:quest_lq_2002",
-      "stories:quest_wq_1105",
       "stories:quest_lq_2087",
       "stories:durin",
       "stories:quest_lq_2013",
@@ -97546,6 +97545,7 @@
       "stories:prune",
       "stories:quest_wq_10044",
       "stories:quest_lq_2006",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1001",
       "stories:quest_lq_2075",
       "stories:eula"
@@ -99826,7 +99826,6 @@
       "stories:quest_aq_1002",
       "stories:quest_wq_10199",
       "stories:quest_wq_10150",
-      "stories:quest_wq_1105",
       "stories:quest_wq_74228",
       "stories:quest_wq_73071",
       "stories:quest_wq_10184",
@@ -100042,6 +100041,7 @@
       "stories:quest_wq_10231",
       "stories:fischl",
       "stories:quest_wq_10121",
+      "stories:quest_wq_1105",
       "stories:quest_lq_2049",
       "stories:quest_wq_10145",
       "stories:hu_tao",
@@ -100233,7 +100233,6 @@
       "stories:venti",
       "stories:quest_aq_1204",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:dahlia",
       "stories:quest_lq_2087",
       "stories:durin",
@@ -100250,6 +100249,7 @@
       "stories:quest_lq_2006",
       "stories:quest_wq_2080",
       "stories:quest_wq_10239",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1500"
     ],
     "venture towards the moonlight": [
@@ -100847,7 +100847,6 @@
       "items:etherwing_moth",
       "stories:quest_lq_2002",
       "stories:quest_wq_10086",
-      "stories:quest_wq_1105",
       "stories:quest_lq_2087",
       "stories:durin",
       "stories:quest_lq_2013",
@@ -100874,6 +100873,7 @@
       "stories:quest_wq_10189",
       "stories:quest_wq_10253",
       "stories:quest_wq_10239",
+      "stories:quest_wq_1105",
       "stories:zibai",
       "weapons:angelos_heptades",
       "weapons:azurelight"
@@ -101421,7 +101421,6 @@
       "stories:venti",
       "stories:quest_aq_1204",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:dahlia",
       "stories:quest_lq_2087",
       "stories:durin",
@@ -101438,6 +101437,7 @@
       "stories:quest_lq_2006",
       "stories:quest_wq_2080",
       "stories:quest_wq_10239",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1500",
       "weapons:the_daybreak_chronicles",
       "weapons:elegy_for_the_end"
@@ -101446,7 +101446,6 @@
       "stories:venti",
       "stories:quest_aq_1204",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:dahlia",
       "stories:quest_lq_2087",
       "stories:durin",
@@ -101463,6 +101462,7 @@
       "stories:quest_lq_2006",
       "stories:quest_wq_2080",
       "stories:quest_wq_10239",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1500",
       "weapons:the_daybreak_chronicles",
       "weapons:elegy_for_the_end"
@@ -101918,9 +101918,6 @@
     "громогласный рев ярости": [
       "artifacts:thundering_fury"
     ],
-    "дайнслейф": [
-      "stories:quest_wq_1105"
-    ],
     "дали": [
       "artifacts:long_nights_oath",
       "artifacts:silken_moons_serenade",
@@ -102192,7 +102189,6 @@
       "stories:quest_aq_1602",
       "stories:quest_lq_2019",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:jean",
       "stories:diluc",
       "stories:quest_lq_2087",
@@ -102228,6 +102224,7 @@
       "stories:quest_wq_2083",
       "stories:quest_wq_2076",
       "stories:quest_wq_10131",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1001",
       "stories:quest_lq_2075",
       "stories:quest_aq_1604",
@@ -102253,7 +102250,6 @@
     "дилюк": [
       "stories:quest_lq_2002",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:diluc",
       "stories:diona",
       "stories:quest_lq_2087",
@@ -102268,6 +102264,7 @@
       "stories:quest_lq_2012",
       "stories:quest_lq_2041",
       "stories:quest_lq_2006",
+      "stories:quest_wq_1105",
       "stories:quest_lq_2010",
       "stories:quest_aq_1604",
       "weapons:wolfs_gravestone"
@@ -104043,7 +104040,6 @@
     ],
     "кэйа": [
       "stories:quest_lq_2002",
-      "stories:quest_wq_1105",
       "stories:quest_lq_2087",
       "stories:quest_lq_2013",
       "stories:quest_aq_1308",
@@ -104060,6 +104056,7 @@
       "stories:quest_lq_2001",
       "stories:quest_aq_1506",
       "stories:quest_lq_2006",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1001",
       "stories:quest_lq_2075",
       "stories:eula"
@@ -106904,7 +106901,6 @@
       "stories:quest_aq_1002",
       "stories:quest_wq_10199",
       "stories:quest_wq_10150",
-      "stories:quest_wq_1105",
       "stories:quest_wq_74228",
       "stories:quest_wq_73071",
       "stories:quest_wq_10184",
@@ -107119,6 +107115,7 @@
       "stories:quest_wq_10231",
       "stories:fischl",
       "stories:quest_wq_10121",
+      "stories:quest_wq_1105",
       "stories:quest_lq_2049",
       "stories:quest_wq_10145",
       "stories:quest_aq_1304",
@@ -109779,6 +109776,12 @@
     "холодный осколок панциря теплый панцирь пылающий призмопанцирь": [
       "items:furnace_shell_mountain_weasel_shellshards"
     ],
+    "хранитель ветв дайнслейф": [
+      "stories:quest_wq_1105"
+    ],
+    "хранитель ветви дайнслейф": [
+      "stories:quest_wq_1105"
+    ],
     "хранитель клятв": [
       "stories:quest_lq_2049"
     ],
@@ -110998,7 +111001,6 @@
     ],
     "凯亚": [
       "stories:quest_lq_2002",
-      "stories:quest_wq_1105",
       "stories:quest_lq_2087",
       "stories:durin",
       "stories:quest_lq_2013",
@@ -111018,6 +111020,7 @@
       "stories:prune",
       "stories:quest_wq_10044",
       "stories:quest_lq_2006",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1001",
       "stories:quest_lq_2075",
       "stories:eula"
@@ -112238,9 +112241,6 @@
     "战狂": [
       "artifacts:berserker"
     ],
-    "戴因斯雷布": [
-      "stories:quest_wq_1105"
-    ],
     "托马": [
       "books:robben_versus_chesterton_iridescent_brooch",
       "stories:kamisato_ayaka",
@@ -112295,6 +112295,9 @@
     ],
     "拾星之旅": [
       "stories:quest_lq_2038"
+    ],
+    "拾枝者 戴因斯雷布": [
+      "stories:quest_wq_1105"
     ],
     "振袖秋风问红叶": [
       "stories:quest_aq_1201"
@@ -112424,7 +112427,6 @@
       "stories:quest_aq_1002",
       "stories:quest_wq_10199",
       "stories:quest_wq_10150",
-      "stories:quest_wq_1105",
       "stories:quest_wq_74228",
       "stories:quest_wq_73071",
       "stories:quest_wq_10184",
@@ -112630,6 +112632,7 @@
       "stories:quest_wq_10131",
       "stories:quest_wq_10231",
       "stories:quest_wq_10121",
+      "stories:quest_wq_1105",
       "stories:quest_lq_2049",
       "stories:quest_wq_10145",
       "stories:quest_aq_1304",
@@ -113450,7 +113453,6 @@
       "stories:venti",
       "stories:quest_aq_1204",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:dahlia",
       "stories:quest_lq_2087",
       "stories:durin",
@@ -113467,6 +113469,7 @@
       "stories:quest_lq_2006",
       "stories:quest_wq_2080",
       "stories:quest_wq_10239",
+      "stories:quest_wq_1105",
       "stories:quest_aq_1500"
     ],
     "游医": [
@@ -113829,7 +113832,6 @@
       "stories:quest_lq_2019",
       "stories:quest_wq_73056",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:dahlia",
       "stories:quest_wq_10184",
       "stories:jean",
@@ -113873,6 +113875,7 @@
       "stories:quest_lq_2006",
       "stories:quest_wq_2083",
       "stories:quest_wq_2076",
+      "stories:quest_wq_1105",
       "stories:quest_wq_10145",
       "stories:quest_aq_1001",
       "stories:quest_aq_1501",
@@ -115201,7 +115204,6 @@
     "迪卢克": [
       "stories:quest_lq_2002",
       "stories:quest_aq_1002",
-      "stories:quest_wq_1105",
       "stories:diluc",
       "stories:diona",
       "stories:quest_lq_2087",
@@ -115216,6 +115218,7 @@
       "stories:quest_lq_2012",
       "stories:quest_lq_2041",
       "stories:quest_lq_2006",
+      "stories:quest_wq_1105",
       "stories:quest_lq_2010",
       "stories:quest_aq_1604"
     ],
@@ -126656,6 +126659,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории персонажа хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории персонажа Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории персонажа цветы под палящим солнцемом",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -127236,6 +127247,14 @@
       "key": "stories:quest_wq_10239",
       "source": "passive_alias",
       "original": "история персонажа Уроки ведьм: Роль наставника?..",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история персонажа хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история персонажа Хранитель ветви: Дайнслейфом",
       "priority": 50,
       "exact_only": true
     },
@@ -128120,6 +128139,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории персонажа хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории персонажа Хранитель ветви: Дайнслейфа",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории персонажа цветы под палящим солнцема",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -128628,6 +128655,14 @@
       "key": "stories:quest_wq_10231",
       "source": "passive_alias",
       "original": "история персонажа Финальные всполохи пламени",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история персонажа хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история персонажа Хранитель ветви: Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -129832,6 +129867,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории персонажа хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории персонажа Хранитель ветви: Дайнслейф",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории персонажа царь дешрет и три волхвой",
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
@@ -130332,6 +130375,14 @@
       "key": "stories:quest_lq_2031",
       "source": "passive_alias",
       "original": "история персонажа Странная безлюдная дорогы",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история персонажа хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история персонажа Хранитель ветви: Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -134720,6 +134771,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории персонажа bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории персонажа Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории персонажа cataclysm s quickening",
       "key": "stories:quest_aq_1404",
       "source": "passive_alias",
@@ -135324,6 +135383,14 @@
       "key": "stories:quest_wq_10201",
       "source": "passive_alias",
       "original": "история Опрос мелюзины и ответ машины II",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история персонажа bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история персонажа Bough Keeper: Dainsleif",
       "priority": 50,
       "exact_only": true
     },
@@ -141048,6 +141115,14 @@
       "exact_only": true
     },
     {
+      "phrase": "биография хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "биография Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "биография цветы под палящим солнцемом",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -143780,6 +143855,14 @@
       "key": "stories:quest_wq_10231",
       "source": "passive_alias",
       "original": "биография Финальные всполохи пламени",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "биография хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "биография Хранитель ветви: Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -146840,6 +146923,14 @@
       "exact_only": true
     },
     {
+      "phrase": "биография хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "биография Хранитель ветви: Дайнслейф",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "биография царь дешрет и три волхвой",
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
@@ -147512,6 +147603,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории цветы под палящим солнцемом",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -147884,6 +147983,14 @@
       "key": "stories:quest_wq_10239",
       "source": "passive_alias",
       "original": "историю Уроки ведьм: Роль наставника?..",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "историю хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "историю Хранитель ветви: Дайнслейфом",
       "priority": 50,
       "exact_only": true
     },
@@ -148556,6 +148663,14 @@
       "key": "stories:quest_wq_10239",
       "source": "passive_alias",
       "original": "история Уроки ведьм: Роль наставника?..",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история Хранитель ветви: Дайнслейфом",
       "priority": 50,
       "exact_only": true
     },
@@ -151112,6 +151227,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории Хранитель ветви: Дайнслейфа",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории цветы под палящим солнцема",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -151412,6 +151535,14 @@
       "key": "stories:quest_wq_10231",
       "source": "passive_alias",
       "original": "историю Финальные всполохи пламени",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "историю хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "историю Хранитель ветви: Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -152004,6 +152135,14 @@
       "key": "stories:quest_wq_10231",
       "source": "passive_alias",
       "original": "история Финальные всполохи пламени",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история Хранитель ветви: Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -153936,6 +154075,14 @@
       "exact_only": true
     },
     {
+      "phrase": "story хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "story Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "story цветы под палящим солнцемом",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -154800,6 +154947,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории Хранитель ветви: Дайнслейф",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории царь дешрет и три волхвой",
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
@@ -155092,6 +155247,14 @@
       "key": "stories:quest_lq_2031",
       "source": "passive_alias",
       "original": "историю Странная безлюдная дорогы",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "историю хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "историю Хранитель ветви: Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -155676,6 +155839,14 @@
       "key": "stories:quest_lq_2031",
       "source": "passive_alias",
       "original": "история Странная безлюдная дорогы",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история Хранитель ветви: Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -157480,6 +157651,14 @@
       "exact_only": true
     },
     {
+      "phrase": "lore хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "lore Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "lore цветы под палящим солнцемом",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -157784,6 +157963,14 @@
       "exact_only": true
     },
     {
+      "phrase": "story хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "story Хранитель ветви: Дайнслейфа",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "story цветы под палящим солнцема",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -157854,6 +158041,14 @@
       "original": "Witch's Homework: Of Various Foes",
       "priority": 50,
       "exact_only": false
+    },
+    {
+      "phrase": "биография bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "биография Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
     },
     {
       "phrase": "биография cataclysm s quickening",
@@ -160200,6 +160395,14 @@
       "exact_only": true
     },
     {
+      "phrase": "лоре хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лоре Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "лоре цветы под палящим солнцемом",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -161712,6 +161915,14 @@
       "exact_only": true
     },
     {
+      "phrase": "lore хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "lore Хранитель ветви: Дайнслейфа",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "lore цветы под палящим солнцема",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -162036,6 +162247,14 @@
       "key": "stories:quest_lq_2031",
       "source": "passive_alias",
       "original": "story Странная безлюдная дорогы",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "story хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "story Хранитель ветви: Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -163832,6 +164051,14 @@
       "exact_only": true
     },
     {
+      "phrase": "лор хранитель ветви дайнслейфом",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лор Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "лор цветы под палящим солнцемом",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -164116,6 +164343,14 @@
       "key": "stories:quest_wq_10231",
       "source": "passive_alias",
       "original": "лоре Финальные всполохи пламени",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "лоре хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лоре Хранитель ветви: Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -165840,6 +166075,14 @@
       "exact_only": true
     },
     {
+      "phrase": "lore хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "lore Хранитель ветви: Дайнслейф",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "lore царь дешрет и три волхвой",
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
@@ -166512,6 +166755,14 @@
       "exact_only": false
     },
     {
+      "phrase": "истории bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории cataclysm s quickening",
       "key": "stories:quest_aq_1404",
       "source": "passive_alias",
@@ -166848,6 +167099,14 @@
       "exact_only": true
     },
     {
+      "phrase": "историю bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "историю Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "историю cataclysm s quickening",
       "key": "stories:quest_aq_1404",
       "source": "passive_alias",
@@ -167020,6 +167279,14 @@
       "key": "stories:quest_wq_10131",
       "source": "passive_alias",
       "original": "историю Утраченный апокалипсис",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история Bough Keeper: Dainsleif",
       "priority": 50,
       "exact_only": true
     },
@@ -167616,6 +167883,14 @@
       "exact_only": true
     },
     {
+      "phrase": "лор хранитель ветви дайнслейфа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лор Хранитель ветви: Дайнслейфа",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "лор цветы под палящим солнцема",
       "key": "stories:quest_aq_1500",
       "source": "passive_alias",
@@ -167932,6 +168207,14 @@
       "key": "stories:quest_lq_2031",
       "source": "passive_alias",
       "original": "лоре Странная безлюдная дорогы",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "лоре хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лоре Хранитель ветви: Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -170592,14 +170875,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории персонажа Дайнслейфом",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа окно в мира",
       "key": "stories:quest_wq_76141",
       "source": "passive_alias",
@@ -171160,14 +171435,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история персонажа Дайнслейфом",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа окно в мира",
       "key": "stories:quest_wq_76141",
       "source": "passive_alias",
@@ -171604,6 +171871,14 @@
       "key": "stories:quest_lq_2031",
       "source": "passive_alias",
       "original": "лор Странная безлюдная дорогы",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "лор хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лор Хранитель ветви: Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -174224,6 +174499,14 @@
       "exact_only": false
     },
     {
+      "phrase": "story bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "story Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "story cataclysm s quickening",
       "key": "stories:quest_aq_1404",
       "source": "passive_alias",
@@ -174932,14 +175215,6 @@
       "key": "stories:quest_lq_2037",
       "source": "passive_alias",
       "original": "истории персонажа Врачевание",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории персонажа Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -175716,14 +175991,6 @@
       "key": "stories:quest_lq_2037",
       "source": "passive_alias",
       "original": "история персонажа Врачевание",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история персонажа Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -179216,6 +179483,14 @@
       "exact_only": false
     },
     {
+      "phrase": "lore bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "lore Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "lore cataclysm s quickening",
       "key": "stories:quest_aq_1404",
       "source": "passive_alias",
@@ -180216,14 +180491,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории персонажа Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа pale fire",
       "key": "stories:quest_wq_10126",
       "source": "passive_alias",
@@ -180252,14 +180519,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "истории персонажа Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории персонажа Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -180364,6 +180623,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "истории персонажа 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "истории персонажа 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории персонажа 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -181056,14 +181323,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история персонажа Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа pale fire",
       "key": "stories:quest_wq_10126",
       "source": "passive_alias",
@@ -181092,14 +181351,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "история персонажа Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история персонажа Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -181204,6 +181455,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "история персонажа 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история персонажа 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история персонажа 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -181620,6 +181879,14 @@
       "key": "stories:quest_wq_10131",
       "source": "passive_alias",
       "original": "лор Утраченный апокалипсиса",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "лоре bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лоре Bough Keeper: Dainsleif",
       "priority": 50,
       "exact_only": true
     },
@@ -186734,6 +187001,14 @@
       "original": "Когда затухает огонь очага",
       "priority": 50,
       "exact_only": false
+    },
+    {
+      "phrase": "лор bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лор Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
     },
     {
       "phrase": "лор cataclysm s quickening",
@@ -194316,6 +194591,14 @@
       "key": "stories:quest_lq_2031",
       "source": "name",
       "original": "Странная безлюдная дорога",
+      "priority": 50,
+      "exact_only": false
+    },
+    {
+      "phrase": "хранитель ветви дайнслейф",
+      "key": "stories:quest_wq_1105",
+      "source": "name",
+      "original": "Хранитель ветви: Дайнслейф",
       "priority": 50,
       "exact_only": false
     },
@@ -209680,14 +209963,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории персонажа 戴因斯雷布",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа 执灯人誓言",
       "key": "stories:quest_wq_76076",
       "source": "passive_alias",
@@ -210580,14 +210855,6 @@
       "key": "stories:quest_wq_10179",
       "source": "passive_alias",
       "original": "история персонажа 异时的流星",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история персонажа 戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -218421,6 +218688,14 @@
       "source": "name",
       "original": "Шкатулка с духом Борея",
       "priority": 68,
+      "exact_only": false
+    },
+    {
+      "phrase": "bough keeper dainsleif",
+      "key": "stories:quest_wq_1105",
+      "source": "name",
+      "original": "Bough Keeper: Dainsleif",
+      "priority": 50,
       "exact_only": false
     },
     {
@@ -229344,14 +229619,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "биография Дайнслейфом",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография королевство",
       "key": "stories:quest_wq_10148",
       "source": "passive_alias",
@@ -237624,14 +237891,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "биография Дайнслейфа",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография загадочная",
       "key": "stories:quest_aq_1101",
       "source": "passive_alias",
@@ -244440,14 +244699,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "биография Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография darknight",
       "key": "stories:quest_lq_2002",
       "source": "passive_alias",
@@ -244540,14 +244791,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "биография Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "биография Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -244664,6 +244907,14 @@
       "exact_only": true
     },
     {
+      "phrase": "биография хранитель",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "биография Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "биография цветочный",
       "key": "stories:quest_lq_2051",
       "source": "passive_alias",
@@ -244732,6 +244983,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "биография 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "биография 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "биография 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -244948,14 +245207,6 @@
       "key": "stories:quest_wq_73248",
       "source": "passive_alias",
       "original": "истории Выступление в лесу",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории Дайнслейфом",
       "priority": 50,
       "exact_only": true
     },
@@ -245248,14 +245499,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "историю Дайнслейфом",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю королевство",
       "key": "stories:quest_wq_10148",
       "source": "passive_alias",
@@ -245476,14 +245719,6 @@
       "key": "stories:quest_wq_70099",
       "source": "passive_alias",
       "original": "история Ветер стиха",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история Дайнслейфом",
       "priority": 50,
       "exact_only": true
     },
@@ -252280,14 +252515,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории Дайнслейфа",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории загадочная",
       "key": "stories:quest_aq_1101",
       "source": "passive_alias",
@@ -252656,14 +252883,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "историю Дайнслейфа",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю загадочная",
       "key": "stories:quest_aq_1101",
       "source": "passive_alias",
@@ -252988,14 +253207,6 @@
       "key": "stories:quest_lq_2037",
       "source": "passive_alias",
       "original": "история Врачевание",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -259288,14 +259499,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "story Дайнслейфом",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story королевство",
       "key": "stories:quest_wq_10148",
       "source": "passive_alias",
@@ -260344,14 +260547,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории darknight",
       "key": "stories:quest_lq_2002",
       "source": "passive_alias",
@@ -260444,14 +260639,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "истории Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -261905,6 +262092,14 @@
     },
     {
       "phrase": "истории персонажа",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории персонажа 拾枝者·戴因斯雷布",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "истории персонажа",
       "key": "stories:quest_wq_2076",
       "source": "passive_alias",
       "original": "истории персонажа 魔女的课业·意外之题",
@@ -262624,6 +262819,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории хранитель",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории цветочный",
       "key": "stories:quest_lq_2051",
       "source": "passive_alias",
@@ -262692,6 +262895,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "истории 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "истории 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -262792,14 +263003,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "историю Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю darknight",
       "key": "stories:quest_lq_2002",
       "source": "passive_alias",
@@ -262892,14 +263095,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "историю Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "историю Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -263016,6 +263211,14 @@
       "exact_only": true
     },
     {
+      "phrase": "историю хранитель",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "историю Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "историю цветочный",
       "key": "stories:quest_lq_2051",
       "source": "passive_alias",
@@ -263084,6 +263287,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "историю 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "историю 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "историю 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -263168,14 +263379,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история pale fire",
       "key": "stories:quest_wq_10126",
       "source": "passive_alias",
@@ -263204,14 +263407,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "история Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -263316,6 +263511,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "история 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "история 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "история 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -269656,14 +269859,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "lore Дайнслейфом",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore королевство",
       "key": "stories:quest_wq_10148",
       "source": "passive_alias",
@@ -269956,14 +270151,6 @@
       "key": "stories:quest_aq_1204",
       "source": "passive_alias",
       "original": "story Всевидящий бог, бренный миром",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "story Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -272548,14 +272735,6 @@
       "key": "stories:quest_wq_73248",
       "source": "passive_alias",
       "original": "лоре Выступление в лесу",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лоре Дайнслейфом",
       "priority": 50,
       "exact_only": true
     },
@@ -279792,14 +279971,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "lore Дайнслейфа",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore загадочная",
       "key": "stories:quest_aq_1101",
       "source": "passive_alias",
@@ -280096,14 +280267,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "story Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story darknight",
       "key": "stories:quest_lq_2002",
       "source": "passive_alias",
@@ -280196,14 +280359,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "story Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "story Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -280320,6 +280475,14 @@
       "exact_only": true
     },
     {
+      "phrase": "story хранитель",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "story Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "story цветочный",
       "key": "stories:quest_lq_2051",
       "source": "passive_alias",
@@ -280388,6 +280551,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "story 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "story 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "story 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -280492,6 +280663,14 @@
       "key": "stories:quest_aq_1501",
       "source": "passive_alias",
       "original": "биография Black Stone Under a White Stone",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "биография bough",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "биография Bough Keeper: Dainsleif",
       "priority": 50,
       "exact_only": true
     },
@@ -281156,14 +281335,6 @@
       "key": "stories:quest_wq_10179",
       "source": "passive_alias",
       "original": "биография 异时的流星",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "биография 戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -283384,14 +283555,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор дайнслейфом",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лор Дайнслейфом",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор королевство",
       "key": "stories:quest_wq_10148",
       "source": "passive_alias",
@@ -283668,14 +283831,6 @@
       "key": "stories:quest_aq_1204",
       "source": "passive_alias",
       "original": "лоре Всевидящий бог, бренный миром",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лоре Дайнслейфа",
       "priority": 50,
       "exact_only": true
     },
@@ -292376,14 +292531,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "lore Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore darknight",
       "key": "stories:quest_lq_2002",
       "source": "passive_alias",
@@ -292476,14 +292623,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "lore Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "lore Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -292600,6 +292739,14 @@
       "exact_only": true
     },
     {
+      "phrase": "lore хранитель",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "lore Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "lore цветочный",
       "key": "stories:quest_lq_2051",
       "source": "passive_alias",
@@ -292668,6 +292815,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "lore 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "lore 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "lore 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -296160,14 +296315,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор дайнслейфа",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лор Дайнслейфа",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор загадочная",
       "key": "stories:quest_aq_1101",
       "source": "passive_alias",
@@ -296464,14 +296611,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лоре dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лоре Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лоре darknight",
       "key": "stories:quest_lq_2002",
       "source": "passive_alias",
@@ -296564,14 +296703,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "лоре Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лоре Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -296688,6 +296819,14 @@
       "exact_only": true
     },
     {
+      "phrase": "лоре хранитель",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лоре Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "лоре цветочный",
       "key": "stories:quest_lq_2051",
       "source": "passive_alias",
@@ -296756,6 +296895,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "лоре 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "лоре 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лоре 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -307016,6 +307163,14 @@
       "exact_only": true
     },
     {
+      "phrase": "истории bough",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "истории Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "истории dream",
       "key": "stories:quest_lq_2069",
       "source": "passive_alias",
@@ -307680,14 +307835,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "истории 戴因斯雷布",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории 执灯人誓言",
       "key": "stories:quest_wq_76076",
       "source": "passive_alias",
@@ -307892,6 +308039,14 @@
       "key": "stories:quest_aq_1501",
       "source": "passive_alias",
       "original": "историю Black Stone Under a White Stone",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "историю bough",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "историю Bough Keeper: Dainsleif",
       "priority": 50,
       "exact_only": true
     },
@@ -308560,14 +308715,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "историю 戴因斯雷布",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю 执灯人誓言",
       "key": "stories:quest_wq_76076",
       "source": "passive_alias",
@@ -308872,14 +309019,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "история 戴因斯雷布",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история 执灯人誓言",
       "key": "stories:quest_wq_76076",
       "source": "passive_alias",
@@ -309112,14 +309251,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор dainsleif",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лор Dainsleif",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор darknight",
       "key": "stories:quest_lq_2002",
       "source": "passive_alias",
@@ -309212,14 +309343,6 @@
       "key": "stories:quest_wq_72237",
       "source": "passive_alias",
       "original": "лор Антигоном",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор дайнслейф",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лор Дайнслейф",
       "priority": 50,
       "exact_only": true
     },
@@ -309336,6 +309459,14 @@
       "exact_only": true
     },
     {
+      "phrase": "лор хранитель",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лор Хранитель ветви: Дайнслейфом",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "лор цветочный",
       "key": "stories:quest_lq_2051",
       "source": "passive_alias",
@@ -309404,6 +309535,14 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "лор 失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
+      "phrase": "лор 拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лор 拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -331200,6 +331339,14 @@
       "exact_only": true
     },
     {
+      "phrase": "story bough",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "story Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "story dream",
       "key": "stories:quest_lq_2069",
       "source": "passive_alias",
@@ -331860,14 +332007,6 @@
       "key": "stories:quest_wq_10179",
       "source": "passive_alias",
       "original": "story 异时的流星",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "story 戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -340136,6 +340275,14 @@
       "exact_only": true
     },
     {
+      "phrase": "lore bough",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "lore Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "lore dream",
       "key": "stories:quest_lq_2069",
       "source": "passive_alias",
@@ -340796,14 +340943,6 @@
       "key": "stories:quest_wq_10179",
       "source": "passive_alias",
       "original": "lore 异时的流星",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "lore 戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -343040,6 +343179,14 @@
       "exact_only": true
     },
     {
+      "phrase": "лоре bough",
+      "key": "stories:quest_wq_1105",
+      "source": "passive_alias",
+      "original": "лоре Bough Keeper: Dainsleif",
+      "priority": 50,
+      "exact_only": true
+    },
+    {
       "phrase": "лоре dream",
       "key": "stories:quest_lq_2069",
       "source": "passive_alias",
@@ -343700,14 +343847,6 @@
       "key": "stories:quest_wq_10179",
       "source": "passive_alias",
       "original": "лоре 异时的流星",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лоре 戴因斯雷布",
       "priority": 50,
       "exact_only": true
     },
@@ -348200,14 +348339,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор 戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "passive_alias",
-      "original": "лор 戴因斯雷布",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор 执灯人誓言",
       "key": "stories:quest_wq_76076",
       "source": "passive_alias",
@@ -348892,6 +349023,14 @@
       "key": "stories:quest_wq_73244",
       "source": "name",
       "original": "失而复得者一同欢喜",
+      "priority": 50,
+      "exact_only": false
+    },
+    {
+      "phrase": "拾枝者 戴因斯雷布",
+      "key": "stories:quest_wq_1105",
+      "source": "name",
+      "original": "拾枝者·戴因斯雷布",
       "priority": 50,
       "exact_only": false
     },
@@ -361936,14 +362075,6 @@
       "exact_only": false
     },
     {
-      "phrase": "戴因斯雷布",
-      "key": "stories:quest_wq_1105",
-      "source": "name",
-      "original": "戴因斯雷布",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
       "phrase": "执灯人誓言",
       "key": "stories:quest_wq_76076",
       "source": "name",
@@ -366115,9 +366246,9 @@
     "signature_entries": 67,
     "signature_aliases": 6043,
     "related_terms": 8714,
-    "related_lookup_terms": 4987,
+    "related_lookup_terms": 4988,
     "signature_lookup_terms": 107,
-    "mention_phrases": 31221,
+    "mention_phrases": 31237,
     "noisy_related_terms": 26,
     "noisy_related_samples": [
       "albedo",
