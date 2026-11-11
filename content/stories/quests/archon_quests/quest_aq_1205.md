@@ -13,9 +13,9 @@
 # chapter_num_en: Interlude Chapter: Act I
 # chapter_num_zh: 间章 第一幕
 # part_source_ids: 11009,11013,11014,11015,11017
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_aq_1205
 # quest_series: Interlude || Interlude Chapter
 # version_source: wiki_release_category

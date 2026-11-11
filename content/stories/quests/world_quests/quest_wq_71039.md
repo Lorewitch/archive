@@ -14,7 +14,7 @@
 # chapter_num_zh:
 # part_source_ids: 71039
 # previous_quests: quest_wq_71038
-# next_quests:
+# next_quests: 
 # related_quests: quest_wq_71036,quest_wq_71038
 # quest_chain: quest_wq_71036,quest_wq_71038,quest_wq_71039
 # quest_series: Valor's Afterglow

@@ -13,9 +13,9 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 71653
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_71653
 # quest_series:
 # version_source: verified_override

@@ -13,9 +13,9 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 73248
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_73248
 # quest_series: Aranyaka
 # version_source: wiki_release_category

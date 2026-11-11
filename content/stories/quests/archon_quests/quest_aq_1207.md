@@ -13,9 +13,9 @@
 # chapter_num_en: Interlude Chapter: Act II
 # chapter_num_zh: 间章 第二幕
 # part_source_ids: 1019,1028,1029,1030,1031
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_aq_1207
 # quest_series: Interlude || Interlude Chapter
 # version_source: wiki_release_category

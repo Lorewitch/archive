@@ -13,7 +13,7 @@
 # chapter_num_en: Ann of the Narzissenkreuz: Act I
 # chapter_num_zh: 水仙的安·第一幕
 # part_source_ids: 74001,74002
-# previous_quests:
+# previous_quests: 
 # next_quests: quest_wq_10148
 # related_quests: quest_wq_10148,quest_wq_10149
 # quest_chain: quest_wq_10146,quest_wq_10148,quest_wq_10149

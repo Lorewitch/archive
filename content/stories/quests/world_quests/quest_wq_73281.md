@@ -15,7 +15,7 @@
 # part_source_ids: 73281
 # previous_quests: quest_wq_73279
 # next_quests: quest_wq_73282
-# related_quests:
+# related_quests: 
 # quest_chain: quest_wq_73281
 # quest_series:
 # version_source: wiki_release_category

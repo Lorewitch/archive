@@ -13,7 +13,7 @@
 # chapter_num_en: A Long Day in the Mountains: Prologue
 # chapter_num_zh: 山中好长日·序章
 # part_source_ids: 70065
-# previous_quests:
+# previous_quests: 
 # next_quests: quest_wq_10094
 # related_quests: quest_wq_70099,quest_wq_10094,quest_wq_10095,quest_wq_10132
 # quest_chain: quest_wq_10086,quest_wq_70099,quest_wq_10094,quest_wq_10095,quest_wq_10132

@@ -1036,6 +1036,14 @@
   background: var(--icon-bg, rgba(113, 107, 96, 0.58));
 }
 
+/* В каталогах книг, артефактов и оружия цвет редкости виден только в нижней полосе.
+   Фон иконки совпадает с нейтральным фоном Бестиария. */
+.catalog-card--books .catalog-card-media,
+.catalog-card--artifacts .catalog-card-media,
+.catalog-card--weapons .catalog-card-media {
+  background: rgba(113, 107, 96, 0.58);
+}
+
 .catalog-card-img {
   display: block;
   max-width: 84px;

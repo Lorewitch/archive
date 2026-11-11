@@ -14,7 +14,7 @@
 # chapter_num_zh:
 # part_source_ids: 71059
 # previous_quests: quest_wq_71058
-# next_quests:
+# next_quests: 
 # related_quests: quest_wq_71058
 # quest_chain: quest_wq_71058,quest_wq_71059
 # quest_series: Lost in a Foreign Land

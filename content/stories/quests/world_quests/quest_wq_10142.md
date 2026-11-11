@@ -13,7 +13,7 @@
 # chapter_num_en: Ancient Colors: Act I
 # chapter_num_zh: 古老的颜色·第一幕
 # part_source_ids: 74005
-# previous_quests:
+# previous_quests: 
 # next_quests: quest_wq_10150
 # related_quests: quest_wq_10150,quest_wq_10151
 # quest_chain: quest_wq_10142,quest_wq_10150,quest_wq_10151

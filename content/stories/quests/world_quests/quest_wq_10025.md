@@ -14,7 +14,7 @@
 # chapter_num_zh:
 # part_source_ids: 72100,72105,72106,72107,72108
 # previous_quests: quest_eq_40053
-# next_quests:
+# next_quests: 
 # related_quests: quest_eq_40053
 # quest_chain: quest_eq_40053,quest_wq_10025
 # quest_series: Sacred Sakura Cleansing Ritual

@@ -81,24 +81,21 @@ const ITEM_GROUPS = [
   ["common_enemies", "Обычные противники", "Повседневная добыча с монстров и вражеских отрядов: маски, знаки, обломки и другие маленькие улики мира."],
   ["development_materials", "Материалы развития", "Книги талантов и материалы возвышения: тихие ступени роста, через которые персонажи становятся сильнее."],
   ["teyvat_resources", "Ресурсы Тейвата", "Руды, растения, диковины, ингредиенты и собираемые редкости: природные следы регионов, спрятанные в траве, камне и лунном свете."],
-  ["serenitea_pot", "Чайник Безмятежности", "Древесина, чертежи, семена и прочие вещи для обустройства собственной тихой обители."],
+  ["serenitea_pot", "Чайник Безмятежности", "Чертежи и предметы обстановки, чьи описания рассказывают об истории и культуре Тейвата."],
   ["useful_items", "Полезные предметы", "Инструменты, гаджеты и особые вещицы: маленькие помощники путешествия, без которых дорога становится куда капризнее."],
   ["misc", "Прочее", "Редкие и странные находки без отдельной полки: всё, что не пожелало аккуратно вписаться в другие разделы."]
 ];
 
 const STORY_GROUPS = [
   ["quest_stories", "Квесты и задания", "Сюжетные записи и пересказы квестов: от главных арок до тихих историй мира."],
-  ["character_stories", "Истории персонажей", "Личные истории, профили и тексты персонажей: маленькие ключи к их прошлому и мотивам."],
-  ["world_stories", "Истории мира", "Мифы, хроники и разрозненные предания Тейвата, которые помогают собрать общую картину мира."]
+  ["character_stories", "Истории персонажей", "Личные истории, профили и тексты персонажей: маленькие ключи к их прошлому и мотивам."]
 ];
 
 const STORY_CHILD_GROUPS = {
   quest_stories: [
     ["archon_quests", "Задания Архонтов", "Главные сюжетные главы: путешествие, регионы, Архонты и большие повороты истории."],
-    ["legend_quests", "Задания Легенд", "Истории персонажей в формате личных квестов: их выборы, связи и тихие раскрытия."],
-    ["reputation_quests", "Задания репутации", "Задания региональной репутации, племён Натлана, Мест встречи Нод-Края и других локальных систем репутации."],
-    ["world_quests", "Задания мира", "Местные истории и побочные цепочки, где Тейват говорит через людей, руины и странные находки."],
-    ["event_chronicles", "Хроники событий", "Сюжет временных событий, который исчез из игры, но остался важной частью истории мира."]
+    ["legend_quests", "Задания легенд", "Личные сюжетные главы персонажей и богов, раскрывающие их прошлое и тайны Тейвата."],
+    ["world_quests", "Крупные задания мира", "Основные сюжетные цепочки, древние цивилизации, исторические открытия и важные тайны Тейвата."]
   ]
 };
 
@@ -149,12 +146,8 @@ const STORY_CHARACTER_TYPE_FILTERS = [
 
 const STORY_QUEST_TYPE_FILTERS = [
   { value: "quest:archon_quests", label: "Задания Архонтов", group: "quest-type" },
-  { value: "quest:legend_quests", label: "Задания Легенд", group: "quest-type" },
-  { value: "rarity:5", label: "Задания Легенд 5★", icon: `${UI_ICON_BASE}/star.webp`, color: ICON_COLORS.rarity5, group: "rarity" },
-  { value: "rarity:4", label: "Задания Легенд 4★", icon: `${UI_ICON_BASE}/star.webp`, color: ICON_COLORS.rarity4, group: "rarity" },
-  { value: "quest:reputation_quests", label: "Задания репутации", icon: `${UI_ICON_BASE}/reputation_quest.webp`, group: "quest-type" },
-  { value: "quest:world_quests", label: "Задания мира", group: "quest-type" },
-  { value: "quest:event_chronicles", label: "Ивенты", group: "quest-type" },
+  { value: "quest:legend_quests", label: "Задания легенд", group: "quest-type" },
+  { value: "quest:world_quests", label: "Крупные задания мира", group: "quest-type" },
   {
     value: "collection:witch_homework",
     label: "Уроки ведьм",
@@ -243,10 +236,7 @@ const ITEM_GROUP_TYPE_FILTERS = {
     ["ingredient", "Ингредиенты"],
   ],
   serenitea_pot: [
-    ["wood", "Древесина"],
     ["blueprint", "Чертежи"],
-    ["seed", "Семена"],
-    ["misc", "Прочее"],
   ],
   useful_items: [
     ["tool", "Инструменты"],
@@ -296,10 +286,7 @@ const ITEM_GROUP_TYPE_LABELS = {
     ingredient: { ru: "Ингредиент", en: "Ingredient", zh: "食材" },
   },
   serenitea_pot: {
-    wood: { ru: "Древесина", en: "Wood", zh: "木材" },
     blueprint: { ru: "Чертёж", en: "Blueprint", zh: "图纸" },
-    seed: { ru: "Семена", en: "Seed", zh: "种子" },
-    misc: { ru: "Прочее", en: "Miscellaneous", zh: "其他" },
   },
   useful_items: {
     tool: { ru: "Инструмент", en: "Tool", zh: "道具" },
@@ -434,32 +421,12 @@ function storyCharacterMatchesTypeFilters(item, activeTypeSet) {
 }
 
 function storyQuestMatchesTypeFilters(item, activeTypeSet) {
-  const selectedGroups = ["archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"]
+  const selectedGroups = ["archon_quests", "legend_quests", "world_quests"]
     .filter(group => activeTypeSet.has(`quest:${group}`));
-  const selectedRarities = ["5", "4"]
-    .filter(rarity => activeTypeSet.has(`rarity:${rarity}`));
-  const selectedCollections = ["witch_homework"]
-    .filter(collection => activeTypeSet.has(`collection:${collection}`));
-
-  const storyGroup = String(item?.story_group || "").trim();
-  const itemRarity = String(item?.rarity || "").trim();
+  const onlyWitches = activeTypeSet.has("collection:witch_homework");
   const collections = Array.isArray(item?.quest_collections) ? item.quest_collections : [];
-  const collectionOk = !selectedCollections.length || selectedCollections.some(collection => collections.includes(collection));
-  if (!collectionOk) return false;
-
-  // A rarity filter is specifically a Story Quest (Legend Quest) filter.
-  // Used alone, it implicitly selects Legend Quests. When several quest types
-  // are selected, it narrows only the Legend Quest part of that selection.
-  if (selectedRarities.length) {
-    if (!selectedGroups.length) {
-      return storyGroup === "legend_quests" && selectedRarities.includes(itemRarity);
-    }
-    if (!selectedGroups.includes(storyGroup)) return false;
-    if (storyGroup === "legend_quests") return selectedRarities.includes(itemRarity);
-    return true;
-  }
-
-  return !selectedGroups.length || selectedGroups.includes(storyGroup);
+  if (onlyWitches && !collections.includes("witch_homework")) return false;
+  return !selectedGroups.length || selectedGroups.includes(String(item?.story_group || ""));
 }
 
 function itemTypeFilterValue(item, config = getSectionConfig()) {

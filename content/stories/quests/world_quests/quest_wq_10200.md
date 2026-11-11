@@ -13,7 +13,7 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 74113
-# previous_quests: quest_wq_74009
+# previous_quests: 
 # next_quests: quest_wq_10201
 # related_quests: quest_wq_10201,quest_wq_10202
 # quest_chain: quest_wq_10200,quest_wq_10201,quest_wq_10202

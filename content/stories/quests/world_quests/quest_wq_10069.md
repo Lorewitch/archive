@@ -14,7 +14,7 @@
 # chapter_num_zh:
 # part_source_ids: 73013,73019,73020,73021,73022
 # previous_quests: quest_wq_73246
-# next_quests:
+# next_quests: 
 # related_quests: quest_wq_73246
 # quest_chain: quest_wq_73246,quest_wq_10069
 # quest_series: An Unwavering Culinary Dream

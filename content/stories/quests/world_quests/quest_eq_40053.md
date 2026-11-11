@@ -13,7 +13,7 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 40053
-# previous_quests:
+# previous_quests: 
 # next_quests: quest_wq_10025
 # related_quests: quest_wq_10025
 # quest_chain: quest_eq_40053,quest_wq_10025

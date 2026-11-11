@@ -13,7 +13,7 @@
 # chapter_num_en: Prologue: Act I
 # chapter_num_zh: 序章 第一幕
 # part_source_ids: 306,307,308,351,352,353,354,355,356,357,358,360
-# previous_quests:
+# previous_quests: 
 # next_quests: quest_aq_1002
 # related_quests: quest_aq_1002,quest_aq_1003
 # quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003

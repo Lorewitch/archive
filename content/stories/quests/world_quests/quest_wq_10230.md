@@ -15,7 +15,7 @@
 # part_source_ids: 75149,75150,75166,75175,75176,75181,75189,75200,75201,75202
 # previous_quests: quest_wq_10240
 # next_quests: quest_wq_10231
-# related_quests:
+# related_quests: 
 # quest_chain: quest_wq_10230
 # quest_series:
 # version_source: wiki_release_category

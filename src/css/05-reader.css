@@ -23,6 +23,13 @@
   margin-top: 0.18em;
 }
 
+/* В читалке тоже нет цветных подложек у этих трёх типов записей. */
+.book-page .reader-head-icon,
+.artifact-page .reader-head-icon,
+.weapon-page .reader-head-icon {
+  background: rgba(113, 107, 96, 0.58);
+}
+
 .story-detail-icon {
   width: 128px;
   height: 128px;

@@ -44,7 +44,7 @@ KNOWN_ENEMY_GROUPS = {
 }
 KNOWN_ENEMY_TYPES = {"common_enemy", "world_boss", "weekly_boss", "boss"}
 KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles", "character_stories", "world_stories"}
-QUEST_STORY_GROUPS = {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}
+QUEST_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests"}
 FORBIDDEN_QUEST_IDS = {"quest_wq_10244"}  # Internal beta/test quest; must not be published.
 KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
 KNOWN_CHARACTER_FILTERS = {"lunar_omen", "witchcraft", "star_blade"}
@@ -1166,10 +1166,9 @@ def check_content_structure() -> None:
             match = re.search(r"^#\s*item_type\s*:\s*(.+?)\s*$", text, re.MULTILINE)
             if match:
                 teapot_types.add(match.group(1).strip())
-        required = {"wood", "seed", "misc"}
-        missing = required - teapot_types
-        if missing:
-            fail(f"content/items/serenitea_pot: не найдены типы Чайника: {', '.join(sorted(missing))}")
+        unwanted = teapot_types - {"blueprint"}
+        if unwanted:
+            fail(f"content/items/serenitea_pot: после лорной очистки допускаются только чертежи: {', '.join(sorted(unwanted))}")
 
 
 def check_infrastructure_files() -> None:
@@ -1270,8 +1269,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: в иконковых фильтрах не должно быть общей галочки")
         if '["craft", "Крафт"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
             fail("assets/js/archive.js: в фильтрах ресурсов Тейвата должны быть Крафт и Ингредиенты")
-        if '["serenitea_pot", "Чайник Безмятежности"' not in text or '["wood", "Древесина"]' not in text or '["blueprint", "Чертежи"]' not in text or '["seed", "Семена"]' not in text or '["misc", "Прочее"]' not in text:
-            fail("assets/js/archive.js: Чайник Безмятежности должен быть отдельной подкатегорией с фильтрами древесины, чертежей, семян и прочего")
+        if '["serenitea_pot", "Чайник Безмятежности"' not in text or '["blueprint", "Чертежи"]' not in text:
+            fail("assets/js/archive.js: Чайник Безмятежности должен быть отдельной подкатегорией для лорных чертежей")
         if 'food_potions' in text or 'Еда и зелья' in text or '["teapot", "Чайник"]' in text:
             fail("assets/js/archive.js: старая категория Еда и зелья или старый фильтр Чайник не должны оставаться в клиенте")
         if 'title: "Инвентарь"' not in text:
@@ -1320,14 +1319,12 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: общий полнотекстовый индекс историй не должен загружаться")
         if "function loadCatalogData(" not in text or "data/indexes/${encodeURIComponent(config.id)}" not in text:
             fail("assets/js/archive.js: сгруппированные каталоги должны загружаться отдельными индексами категорий")
-        if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'reputation_quests' not in text or 'world_quests' not in text:
-            fail("assets/js/archive.js: истории заданий должны иметь подкатегории Архонтов, Легенд, репутации и мира")
+        if 'quest_stories' not in text or 'archon_quests' not in text or 'world_quests' not in text:
+            fail("assets/js/archive.js: истории заданий должны иметь подкатегории Архонтов и крупных заданий мира")
+        if 'value: "quest:legend_quests"' not in text or '["legend_quests", "Задания легенд"' not in text:
+            fail("assets/js/archive.js: задания легенд должны отображаться в меню и фильтрах")
         if "STORY_QUEST_TYPE_FILTERS" not in text or "isQuestStoriesCatalog" not in text or "storyQuestMatchesTypeFilters" not in text:
             fail("assets/js/archive.js: все задания должны открываться единым каталогом с фильтрами по типу")
-        if '${UI_ICON_BASE}/reputation_quest.webp' not in text or 'quest:reputation_quests' not in text:
-            fail("assets/js/archive.js: фильтр заданий репутации должен использовать reputation_quest.webp")
-        if 'label: "Задания Легенд 5★"' not in text or 'label: "Задания Легенд 4★"' not in text:
-            fail("assets/js/archive.js: задания Легенд должны иметь фильтры 5★ и 4★")
         if "WEAPON_KIND_FILTERS" not in text or 'value: "kind:skin"' not in text or 'value: "kind:weapon"' not in text:
             fail("assets/js/archive.js: в оружии должны быть фильтры Оружие и Скины")
         if '["Луна", "Луна"]' not in text:
@@ -1340,8 +1337,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: фильтры заданий должны быть одной строкой, а Уроки ведьм — кнопкой с иконкой witchcraft")
         if 'label: "Тип задания"' in text or 'label: "Особая подборка"' in text:
             fail("assets/js/archive.js: надписи Тип задания и Особая подборка должны быть удалены")
-        if 'event_chronicles' not in text or 'id: "bestiary"' not in text or 'BESTIARY_GROUPS' not in text:
-            fail("assets/js/archive.js: хроники событий и сгруппированный Бестиарий должны быть подключены в клиенте")
+        if 'id: "bestiary"' not in text or 'BESTIARY_GROUPS' not in text:
+            fail("assets/js/archive.js: сгруппированный Бестиарий должен быть подключён в клиенте")
         if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'CHARACTER_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
             fail("assets/js/archive.js: истории персонажей должны иметь фильтры и колонки элемента/редкости")
         if '${UI_ICON_BASE}/pyro.webp' not in text or 'element:${value}' not in text or 'trait:${value}' not in text or 'rarity:5' not in text or 'rarity:4' not in text or 'Лунное знамение' not in text:

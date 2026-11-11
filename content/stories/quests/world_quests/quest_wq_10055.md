@@ -13,9 +13,9 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 72177,72190,72191,72192,72242
-# previous_quests: quest_wq_72233
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10055
 # quest_series:
 # version_source: wiki_release_category

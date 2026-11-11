@@ -14,7 +14,7 @@
 # chapter_num_zh: 望月·第三幕
 # part_source_ids: 76131,76143
 # previous_quests: quest_wq_10199
-# next_quests:
+# next_quests: 
 # related_quests: quest_wq_10197,quest_wq_10199
 # quest_chain: quest_wq_10197,quest_wq_10199,quest_wq_10228
 # quest_series: Moon Gazing

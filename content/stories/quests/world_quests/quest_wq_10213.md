@@ -13,7 +13,7 @@
 # chapter_num_en: Lost Traveler in the Ashen Realm: Act I
 # chapter_num_zh: 流灰之国的迷旅人·第一章
 # part_source_ids: 75048
-# previous_quests:
+# previous_quests: 
 # next_quests: quest_wq_10215
 # related_quests: quest_wq_10215,quest_wq_10216,quest_wq_10217
 # quest_chain: quest_wq_10213,quest_wq_10215,quest_wq_10216,quest_wq_10217

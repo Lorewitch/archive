@@ -1620,6 +1620,14 @@ a {
   background: var(--icon-bg, rgba(113, 107, 96, 0.58));
 }
 
+/* В каталогах книг, артефактов и оружия цвет редкости виден только в нижней полосе.
+   Фон иконки совпадает с нейтральным фоном Бестиария. */
+.catalog-card--books .catalog-card-media,
+.catalog-card--artifacts .catalog-card-media,
+.catalog-card--weapons .catalog-card-media {
+  background: rgba(113, 107, 96, 0.58);
+}
+
 .catalog-card-img {
   display: block;
   max-width: 84px;
@@ -1974,6 +1982,13 @@ a {
   background: var(--icon-bg, rgba(216, 206, 192, 0.72));
   border: 1px solid rgba(91, 74, 62, 0.16);
   margin-top: 0.18em;
+}
+
+/* В читалке тоже нет цветных подложек у этих трёх типов записей. */
+.book-page .reader-head-icon,
+.artifact-page .reader-head-icon,
+.weapon-page .reader-head-icon {
+  background: rgba(113, 107, 96, 0.58);
 }
 
 .story-detail-icon {

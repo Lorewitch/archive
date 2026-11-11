@@ -15,7 +15,7 @@
 # chapter_num_zh: 智慧主之章 第二幕
 # part_source_ids: 13019,13027
 # previous_quests: quest_lq_2034
-# next_quests: quest_wq_13028
+# next_quests: 
 # related_quests: quest_lq_2034
 # quest_chain: quest_lq_2034,quest_lq_2039
 # quest_series: Sapientia Oromasdis Chapter

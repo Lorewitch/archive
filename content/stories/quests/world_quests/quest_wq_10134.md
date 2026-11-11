@@ -13,10 +13,10 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 70690
-# previous_quests:
-# next_quests: quest_wq_70070
-# related_quests: quest_wq_70070
-# quest_chain: quest_wq_10134,quest_wq_70070
+# previous_quests: 
+# next_quests: 
+# related_quests: 
+# quest_chain: quest_wq_10134
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
 

@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 71108
 # previous_quests: quest_wq_71107
-# next_quests: quest_wq_71109
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_71108
 # quest_series:
 # version_source: wiki_release_category
