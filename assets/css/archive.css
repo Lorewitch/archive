@@ -2000,9 +2000,6 @@ a {
 .archon-collections-back:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
 .archon-collection-head { margin: 0 0 22px; }
 .archon-collection-head .archon-collection-chapter { display: block; margin-top: 16px; color: #737b52; }
-.quest-category-nav { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
-.quest-category-nav button { border: 1px solid var(--line-strong); background: var(--surface-soft); padding: 9px 12px; color: var(--ink); font: inherit; font-size: .78rem; font-weight: 700; cursor: pointer; }
-.quest-category-nav button:hover { background: var(--surface-muted); }
 .catalog-card-chapter { color: rgba(243,236,223,.92); font-weight: 710; }
 .catalog-card-archon-region { display: block; margin-top: 6px; color: rgba(243,236,223,.73); font-size: .8rem; }
 

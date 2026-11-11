@@ -1433,10 +1433,6 @@ def write_group_indexes(name: str, entries: list[dict[str, Any]], indexer, group
         if key:
             grouped.setdefault(key, []).append(indexer(entry))
 
-    if name == "stories":
-        quest_groups = {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}
-        grouped["quest_stories"] = [indexer(entry) for entry in entries if entry.get(group_field) in quest_groups]
-
     for key, rows in grouped.items():
         write_json(index_dir / f"{key}.json", rows, compact=(name == "stories"))
 

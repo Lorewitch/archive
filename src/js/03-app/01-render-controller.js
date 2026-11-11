@@ -65,8 +65,8 @@ async function render() {
 
   const config = getSectionConfig();
 
-  if (!state.entryId && config.groups && (!state.subsection || (hasChildGroups(config, state.subsection) && !isQuestStoriesCatalog(config)))) {
-    renderGroupSelector(config, state.subsection || "");
+  if (!state.entryId && config.groups && !state.subsection) {
+    renderGroupSelector(config);
     markRouteRendered(routeKey, routeChanged);
     return;
   }
@@ -120,7 +120,7 @@ async function render() {
     try {
       if (config.id === "stories") {
         // Переход по прямой ссылке тоже должен подгрузить индекс для списка связанных глав.
-        const sourceGroup = state.subsection || "quest_stories";
+        const sourceGroup = state.subsection;
         await loadCatalogData(config, sourceGroup);
         if (sequence !== renderSequence) return;
       }

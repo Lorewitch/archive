@@ -86,22 +86,16 @@ const ITEM_GROUPS = [
   ["misc", "Прочее", "Редкие и странные находки без отдельной полки: всё, что не пожелало аккуратно вписаться в другие разделы."]
 ];
 
+// В меню «Истории» четыре самостоятельные категории без вложенной «Квесты и задания».
 const STORY_GROUPS = [
-  ["quest_stories", "Квесты и задания", "Сюжетные записи и пересказы квестов: от главных арок до тихих историй мира."],
-  ["character_stories", "Истории персонажей", "Личные истории, профили и тексты персонажей: маленькие ключи к их прошлому и мотивам."]
+  ["archon_quests", "Задания Архонтов", "Главный сюжет, разбитый на региональные сборки и историю Близнецов."],
+  ["legend_quests", "Задания легенд", "Сюжетные главы персонажей и богов."],
+  ["world_quests", "Задания мира", "Крупные сюжетные цепочки и важные истории мира."],
+  ["character_stories", "Истории персонажей", "Личные истории, профили и тексты персонажей."]
 ];
 
-const STORY_CHILD_GROUPS = {
-  quest_stories: [
-    ["archon_quests", "Задания Архонтов", "Главные сюжетные главы: путешествие, регионы, Архонты и большие повороты истории."],
-    ["legend_quests", "Задания легенд", "Личные сюжетные главы персонажей и богов, раскрывающие их прошлое и тайны Тейвата."],
-    ["world_quests", "Крупные задания мира", "Основные сюжетные цепочки, древние цивилизации, исторические открытия и важные тайны Тейвата."]
-  ]
-};
-
-// Группы заданий Архонтов повторяют структуру журнала: тома по регионам,
-// задания Близнецов и Промежуточный том — отдельные сборки.
-// География действия остаётся в поле region и НЕ переопределяет принадлежность к тому.
+// Главы Архонтов распределены по игровым региональным разделам.
+// История Близнецов остаётся отдельной, Промежуточные главы входят в регионы.
 const ARCHON_COLLECTIONS = [
   { id: "mondstadt", title: "Мондштадт", chapter: "Пролог", description: "Начало путешествия и история Двалина." },
   { id: "liyue", title: "Ли Юэ", chapter: "Том I", description: "Контракты, Гео Архонт и судьба гавани." },
@@ -112,7 +106,6 @@ const ARCHON_COLLECTIONS = [
   { id: "nod-krai", title: "Нод-Край", chapter: "Песня полой луны", description: "Увертюра и региональные главы «Песни полой луны» в Нод-Крае." },
   { id: "snezhnaya", title: "Снежная", chapter: "Снежная", description: "Сюжетные главы Снежной, когда они будут добавлены в архив." },
   { id: "twins", title: "Задания Близнецов", chapter: "История Близнецов", description: "Встречи с Дайнслейфом, Каэнри’ах и поиски Близнеца — независимо от региона." },
-  { id: "interlude", title: "Промежуточный том", chapter: "Промежуточный том", description: "Самостоятельные главы Промежуточного тома." },
   { id: "other", title: "Другие главы", chapter: "Задания Архонтов", description: "Новые главы, которые пока не отнесены к основным сюжетным сборкам." },
 ];
 
@@ -121,7 +114,12 @@ function archonCollectionFor(item) {
   const manual = String(item?.archon_collection || "").trim();
   if (manual && archonCollectionDefinition(manual)) return manual;
   const chapter = String(item.chapter_num?.ru || "");
-  if (chapter.startsWith("Промежуточный том")) return "interlude";
+  // Промежуточные главы принадлежат региону игрового журнала,
+  // но сохраняют номер Промежуточного тома в заголовке.
+  if (chapter.startsWith("Промежуточный том")) {
+    const byRegion = { "Мондштадт": "mondstadt", "Ли Юэ": "liyue", "Сумеру": "sumeru" };
+    return byRegion[String(item.region || "").trim()] || "other";
+  }
   if (chapter.startsWith("Песня полой луны")) {
     // В игровом журнале IX и X отображаются в Сумеру, хотя цикл называется общим.
     const journalRegion = String(item.region || "").trim();
@@ -177,12 +175,8 @@ const BESTIARY_GROUPS = [
   ["mystical_beasts", "Мистические звери", "Древние, освящённые и необычные создания, в чьих описаниях сохранились легенды мира."]
 ];
 
-const STORY_GROUP_PARENT = Object.fromEntries(
-  Object.entries(STORY_CHILD_GROUPS).flatMap(([parent, children]) => children.map(([child]) => [child, parent]))
-);
-
 const STORY_GROUP_LABELS = Object.fromEntries(
-  [...STORY_GROUPS, ...Object.values(STORY_CHILD_GROUPS).flat()].map(([key, label]) => [key, label])
+  STORY_GROUPS.map(([key, label]) => [key, label])
 );
 
 const ELEMENT_FILTERS = [
@@ -210,19 +204,6 @@ const STORY_CHARACTER_TYPE_FILTERS = [
   ...ELEMENT_FILTERS.map(([value, label, icon, color]) => ({ value: `element:${value}`, label, icon, color, group: "element" })),
   ...CHARACTER_FILTERS.map(([value, label, icon, color]) => ({ value: `trait:${value}`, label, icon, color, group: "trait" })),
   ...RARITY_FILTERS.filter(option => option.value === "rarity:5" || option.value === "rarity:4"),
-];
-
-const STORY_QUEST_TYPE_FILTERS = [
-  { value: "quest:archon_quests", label: "Задания Архонтов", group: "quest-type" },
-  { value: "quest:legend_quests", label: "Задания легенд", group: "quest-type" },
-  { value: "quest:world_quests", label: "Крупные задания мира", group: "quest-type" },
-  {
-    value: "collection:witch_homework",
-    label: "Уроки ведьм",
-    icon: `${UI_ICON_BASE}/witchcraft.webp`,
-    color: ICON_COLORS.witchcraft,
-    group: "quest-collection",
-  },
 ];
 
 const ELEMENT_LABELS = Object.fromEntries(ELEMENT_FILTERS.map(([value, label, icon, color]) => [value, { label, icon, color }]));
@@ -274,10 +255,6 @@ function isDevelopmentMaterialsCatalog(config = getSectionConfig()) {
 
 function isCharacterStoriesCatalog(config = getSectionConfig()) {
   return config?.id === "stories" && state.subsection === "character_stories";
-}
-
-function isQuestStoriesCatalog(config = getSectionConfig()) {
-  return config?.id === "stories" && state.subsection === "quest_stories";
 }
 
 
@@ -488,15 +465,6 @@ function storyCharacterMatchesTypeFilters(item, activeTypeSet) {
   return elementOk && traitOk && rarityOk;
 }
 
-function storyQuestMatchesTypeFilters(item, activeTypeSet) {
-  const selectedGroups = ["archon_quests", "legend_quests", "world_quests"]
-    .filter(group => activeTypeSet.has(`quest:${group}`));
-  const onlyWitches = activeTypeSet.has("collection:witch_homework");
-  const collections = Array.isArray(item?.quest_collections) ? item.quest_collections : [];
-  if (onlyWitches && !collections.includes("witch_homework")) return false;
-  return !selectedGroups.length || selectedGroups.includes(String(item?.story_group || ""));
-}
-
 function itemTypeFilterValue(item, config = getSectionConfig()) {
   const prepared = String(item?.filter_type || "").trim();
   if (prepared) return prepared;
@@ -512,7 +480,6 @@ function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
   if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
   if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_MATERIAL_TYPE_FILTERS;
   if (isCharacterStoriesCatalog(config)) return STORY_CHARACTER_TYPE_FILTERS;
-  if (isQuestStoriesCatalog(config)) return STORY_QUEST_TYPE_FILTERS;
   if (config.id === "items") return ITEM_GROUP_TYPE_FILTERS[state.subsection] || [];
   return [];
 }
@@ -579,10 +546,6 @@ function renderTypeFilters(config) {
     const traitOptions = options.filter(option => typeFilterOptionGroup(option) === "trait");
     const rarityOptions = options.filter(option => typeFilterOptionGroup(option) === "rarity");
     return renderTypeFilterRow([...rarityOptions, ...elementOptions, ...traitOptions], activeTypes, { scope: "character-stories", showToggle: false });
-  }
-
-  if (isQuestStoriesCatalog(config)) {
-    return renderTypeFilterRow(options, activeTypes, { scope: "quest-stories" });
   }
 
   return renderTypeFilterRow(options, activeTypes);

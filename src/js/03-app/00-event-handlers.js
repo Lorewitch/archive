@@ -105,6 +105,11 @@ function handleAppClick(event) {
     return;
   }
 
+  if (event.target.closest("[data-story-categories]")) {
+    setRoute("stories");
+    return;
+  }
+
   if (event.target.closest("#back-groups")) {
     const target = catalogBackTarget(currentCatalogConfig(), state.subsection);
     setRoute(target.section, null, target.subsection);

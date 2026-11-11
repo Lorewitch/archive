@@ -280,19 +280,6 @@ def check_lazy_category_indexes(indexes: dict[str, list[dict[str, Any]]]) -> Non
             if actual_ids != expected_ids:
                 fail(f"{rel(group_path)}: состав категории не совпадает с полным индексом")
 
-    quest_path = DATA_DIR / "indexes" / "stories" / "quest_stories.json"
-    quest_rows = read_json(quest_path) if quest_path.exists() else None
-    if not isinstance(quest_rows, list):
-        fail(f"{rel(quest_path)}: отсутствует объединённый ленивый индекс заданий")
-    else:
-        expected_ids = {
-            str(item.get("id") or "")
-            for item in indexes.get("stories", [])
-            if item.get("story_group") in QUEST_STORY_GROUPS
-        }
-        actual_ids = {str(item.get("id") or "") for item in quest_rows if isinstance(item, dict)}
-        if actual_ids != expected_ids:
-            fail(f"{rel(quest_path)}: состав объединённого каталога заданий неверен")
 
 
 def check_books(books: dict[str, dict[str, Any]]) -> None:

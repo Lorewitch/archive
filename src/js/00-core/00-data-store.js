@@ -130,8 +130,7 @@ async function loadCatalogData(config, subsection = state.subsection) {
 
   // Только текущий маршрут может менять активную коллекцию.
   // Иначе отставший запрос прежней категории подменит данные после перехода.
-  const activeSubsection = config.id === "stories" && state.entryId && !state.subsection
-    ? "quest_stories" : state.subsection;
+  const activeSubsection = state.subsection;
   if (state.section === config.id && catalogCacheKey(config, activeSubsection) === key) {
     assignSectionData(config.id, rows);
   }

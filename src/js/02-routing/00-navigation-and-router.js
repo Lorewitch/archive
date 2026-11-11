@@ -43,31 +43,8 @@ function toggleMenu() {
   else openMenu();
 }
 
-function childGroupsFor(config, groupKey) {
-  return config.childGroups?.[groupKey] || [];
-}
-
-function hasChildGroups(config, groupKey) {
-  return childGroupsFor(config, groupKey).length > 0;
-}
-
-function parentGroupFor(config, groupKey) {
-  return config.groupParents?.[groupKey] || "";
-}
-
-function groupsForSelector(config, parentKey = "") {
-  return parentKey ? childGroupsFor(config, parentKey) : (config.groups || []);
-}
-
-function groupKeys(config) {
-  return [
-    ...(config.groups || []).map(([key]) => key),
-    ...Object.values(config.childGroups || {}).flat().map(([key]) => key),
-  ];
-}
-
 function isKnownGroup(config, value) {
-  return Boolean(value && groupKeys(config).includes(value));
+  return Boolean(value && (config.groups || []).some(([key]) => key === value));
 }
 
 function groupValue(item, config) {
@@ -83,8 +60,7 @@ function catalogBackTarget(config, groupKey = state.subsection) {
   if (config.id === "stories" && groupKey === "archon_quests" && state.collection) {
     return { section: "stories", subsection: "archon_quests" };
   }
-  const parent = parentGroupFor(config, groupKey);
-  return parent ? { section: config.id, subsection: parent } : { section: config.id, subsection: null };
+  return { section: config.id, subsection: null };
 }
 
 function catalogBackLabel(config, groupKey = state.subsection) {
@@ -134,6 +110,12 @@ function parseHash() {
 
   const config = getSectionConfig(section);
   state.section = config.id;
+
+  // Старые ссылки на упразднённую страницу «Квесты и задания» не ломаем.
+  if (config.id === "stories" && parts[1] === "quest_stories") {
+    state.entryId = parts[2] || null;
+    return;
+  }
 
   if (config.groups && isKnownGroup(config, parts[1])) {
     state.subsection = parts[1];
@@ -212,10 +194,16 @@ function childActive(sectionId, key) {
   if (state.section !== sectionId) return false;
   if (state.subsection === key) return true;
   const section = getSectionConfig(sectionId);
-  return parentGroupFor(section, state.subsection) === key;
+  return false;
 }
 
+// При входе в раздел раскрываем его меню один раз; ручное сворачивание уважаем.
+let lastNavSection = null;
 function renderNav() {
+  if (state.section !== lastNavSection) {
+    if (MENU_CHILDREN[state.section]?.length) expandedMenuSections.add(state.section);
+    lastNavSection = state.section;
+  }
   const rows = [HOME_SECTION, ...SECTIONS].map(section => {
     const children = menuChildren(section);
     const hasChildren = children.length > 0;
@@ -258,12 +246,9 @@ function renderNav() {
 
 
 function collectionForCatalog(config) {
-  let rows = config.data();
-  if (isQuestStoriesCatalog(config)) {
-    const questGroups = new Set(["archon_quests", "legend_quests", "world_quests"]);
-    rows = rows.filter(item => questGroups.has(groupValue(item, config)));
-  } else if (config.groups && state.subsection) {
-    rows = rows.filter(item => groupValue(item, config) === state.subsection);
+  const rows = config.data();
+  if (config.groups && state.subsection) {
+    return rows.filter(item => groupValue(item, config) === state.subsection);
   }
   return rows;
 }

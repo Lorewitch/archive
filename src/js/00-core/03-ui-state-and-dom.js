@@ -42,8 +42,7 @@ const state = {
       page: 1,
       pageSize: 10,
       typeFiltersByGroup: {
-        character_stories: [],
-        quest_stories: []
+        character_stories: []
       }
     }
   }
