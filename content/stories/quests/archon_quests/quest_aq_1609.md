@@ -1,5 +1,6 @@
 # id: quest_aq_1609
 # story_group: archon_quests
+# archon_collection: sumeru
 # display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: И всё возвратится в прах

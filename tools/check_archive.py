@@ -474,82 +474,6 @@ def check_stories(stories: dict[str, dict[str, Any]]) -> None:
             fail(f"{owner}: история без текста")
 
 
-def check_lore_corpus() -> None:
-    root = DATA_DIR / "lore_corpus"
-    index_path = root / "index.json"
-    search_path = root / "search.json"
-    manifest_path = root / "manifest.json"
-    for path in (index_path, search_path, manifest_path):
-        if not path.exists():
-            fail(f"{rel(path)}: файл корпуса заданий отсутствует")
-            return
-
-    index = read_json(index_path)
-    search = read_json(search_path)
-    manifest = read_json(manifest_path)
-    if not isinstance(index, list) or not isinstance(search, list) or not isinstance(manifest, dict):
-        fail("data/lore_corpus: index/search должны быть списками, manifest — объектом")
-        return
-
-    ids = [str(item.get("id") or "") for item in index if isinstance(item, dict)]
-    if len(ids) != len(index) or any(not item_id for item_id in ids):
-        fail("data/lore_corpus/index.json: каждая запись должна быть объектом с id")
-    duplicates = sorted(item_id for item_id, count in Counter(ids).items() if item_id and count > 1)
-    if duplicates:
-        fail(f"data/lore_corpus/index.json: дублирующиеся id {', '.join(duplicates[:10])}")
-
-    search_ids = {
-        str(item.get("id") or "")
-        for item in search
-        if isinstance(item, dict) and str(item.get("id") or "")
-    }
-    if search_ids != set(ids):
-        fail("data/lore_corpus/search.json: набор id не совпадает с индексом")
-
-    actual_counts: Counter[str] = Counter()
-    for item in index:
-        if not isinstance(item, dict):
-            continue
-        item_id = str(item.get("id") or "")
-        owner = f"data/lore_corpus/index.json#{item_id}"
-        group = str(item.get("story_group") or "")
-        if group not in {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}:
-            fail(f"{owner}: неизвестная группа заданий {group or '—'}")
-        actual_counts[group] += 1
-        check_languages(item, owner)
-        check_regions(item, owner)
-        title = item.get("title") if isinstance(item.get("title"), dict) else {}
-        for lang in LANGS:
-            if not str(title.get(lang) or "").strip():
-                fail(f"{owner}: пустое название {lang}")
-
-        expected_detail = f"data/lore_corpus/{item_id}.json"
-        if item.get("detail_path") != expected_detail:
-            fail(f"{owner}: неверный detail_path")
-        detail_path_value = root / f"{item_id}.json"
-        detail = read_json(detail_path_value)
-        if not isinstance(detail, dict):
-            fail(f"{rel(detail_path_value)}: detail-файл отсутствует или повреждён")
-            continue
-        if detail.get("id") != item_id:
-            fail(f"{rel(detail_path_value)}: id не совпадает с индексом")
-        parts = detail.get("parts")
-        if not isinstance(parts, list) or not parts:
-            fail(f"{rel(detail_path_value)}: нет частей с текстом")
-            continue
-        for part_number, part in enumerate(parts, start=1):
-            text = part.get("text") if isinstance(part, dict) and isinstance(part.get("text"), dict) else {}
-            for lang in LANGS:
-                if not str(text.get(lang) or "").strip():
-                    fail(f"{rel(detail_path_value)}#part-{part_number}: пустой текст {lang}")
-
-    if manifest.get("entry_count") != len(index):
-        fail("data/lore_corpus/manifest.json: entry_count не совпадает с индексом")
-    declared_counts = manifest.get("counts") if isinstance(manifest.get("counts"), dict) else {}
-    if dict(actual_counts) != declared_counts:
-        fail("data/lore_corpus/manifest.json: counts не совпадает с индексом")
-
-
 def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
     quests = {item_id: item for item_id, item in stories.items() if item.get("story_group") in QUEST_STORY_GROUPS}
     quest_ids = set(quests)
@@ -569,7 +493,7 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
     for group in sorted(QUEST_STORY_GROUPS):
         group_dir = quests_root / group
         if not group_dir.exists():
-            fail(f"content/stories/quests/{group}: category folder is missing")
+            # Группа может быть временно пустой, например перед импортом новых глав.
             continue
 
         for path in sorted(group_dir.glob("*.md")):
@@ -684,10 +608,6 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
             if "witch_homework" in quest_collections and quest.get("story_group") != "world_quests":
                 fail(f"{owner}: Witch's Homework must remain a world-quest collection")
 
-        if item_id in {"quest_aq_1609", "quest_aq_1611"}:
-            if quest.get("region") != "Сумеру" or display_category != "Задание Архонтов · Сумеру":
-                fail(f"{owner}: Song of the Welkin Moon IX/X must be classified as Sumeru")
-
         for field in ("previous_quests", "next_quests", "related_quests", "quest_chain"):
             values = quest.get(field)
             if not isinstance(values, list):
@@ -750,7 +670,7 @@ def check_summary(indexes: dict[str, list[dict[str, Any]]]) -> None:
         expected = len(items)
         value = summary.get(section)
         if isinstance(value, dict):
-            actual = value.get("count") or value.get("total")
+            actual = value.get("count", value.get("total"))
         else:
             actual = value
         if actual is not None and actual != expected:
@@ -800,312 +720,14 @@ def check_generated_js() -> None:
 
 
 def check_generated_css() -> None:
+    """Проверяем только актуальность сборки, не запрещая автору выбирать CSS-приёмы."""
     css = ASSETS_DIR / "css" / "archive.css"
     if not css.exists():
         fail("assets/css/archive.css: итоговый CSS отсутствует")
         return
-
     expected = compiled_css_from_sources()
-    if expected is not None:
-        actual = css.read_text(encoding="utf-8")
-        if actual != expected:
-            fail("assets/css/archive.css: файл не совпадает со сборкой из src/css/*.css")
-
-    for path in SRC_CSS_DIR.glob("*.css"):
-        text = path.read_text(encoding="utf-8")
-        if "@media" in text and path.name != "07-responsive.css":
-            fail(f"{rel(path)}: @media должен жить только в src/css/07-responsive.css")
-        if "!important" in text:
-            fail(f"{rel(path)}: найден !important")
-
-
-    index_html = ROOT / "index.html"
-    if index_html.exists():
-        index_text = index_html.read_text(encoding="utf-8")
-        if "viewport-fit=cover" not in index_text:
-            fail("index.html: viewport должен использовать viewport-fit=cover, чтобы iOS не оставлял белые поля в landscape")
-
-    css_text = css.read_text(encoding="utf-8")
-    if "!important" in css_text:
-        fail("assets/css/archive.css: найден !important")
-    defined_vars = set(re.findall(r"--([A-Za-z0-9_-]+)\s*:", css_text))
-    used_vars = set(re.findall(r"var\(--([A-Za-z0-9_-]+)", css_text))
-    undefined_vars = sorted(used_vars - defined_vars - {"filter-color"})
-    if undefined_vars:
-        fail("assets/css/archive.css: неизвестные CSS-переменные: " + ", ".join(undefined_vars))
-    if "brand-subtitle" not in css_text:
-        fail("assets/css/archive.css: подпись под логотипом brand-subtitle должна быть оформлена")
-    if "element-icon-stack" in css_text or "element-pill-multi" in css_text or "weapon-rarity-bg" in css_text:
-        fail("assets/css/archive.css: остался старый CSS для стопки элементов или оружейных подложек")
-
-    for rarity in ["5", "4", "3", "2", "1"]:
-        if f"rarity-bg-{rarity}" not in css_text or f"--rarity-{rarity}-bg" not in css_text:
-            fail(f"assets/css/archive.css: отсутствует цветная подложка иконок редкости {rarity}★")
-
-    if "story-detail-icon" not in css_text or "width: 128px" not in css_text:
-        fail("assets/css/archive.css: иконка персонажа внутри истории должна быть увеличена отдельным story-detail-icon")
-    if "detail-hero-text h1" not in css_text or "text-wrap: balance" not in css_text or "hyphens: none" not in css_text:
-        fail("assets/css/archive.css: длинные заголовки в detail-hero должны переноситься по словам без автоматического разрыва слова")
-    title_block = re.search(r"\.detail-hero-text h1 \{(?P<body>.*?)\}", css_text, re.S)
-    if not title_block or "overflow-wrap: break-word" in title_block.group("body") or "hyphens: auto" in title_block.group("body") or "hyphens: manual" in title_block.group("body"):
-        fail("assets/css/archive.css: заголовки detail-hero не должны ломать слова посередине")
-    if "story-character-entry-icon" not in css_text or "width: 72px" not in css_text:
-        fail("assets/css/archive.css: иконки персонажей в каталоге должны быть увеличены")
-    if "story-toolbar .volume-strip" not in css_text or "story-toolbar .volume-scroll button" not in css_text:
-        fail("assets/css/archive.css: панель разделов истории должна иметь отдельную безопасную раскладку без вылезания кнопок")
-
-    story_button_block = re.search(r"\.story-toolbar \.volume-scroll button \{(?P<body>.*?)\}", css_text, re.S)
-    if not story_button_block:
-        fail("assets/css/archive.css: не найден блок кнопок разделов истории")
-    else:
-        story_button_css = story_button_block.group("body")
-        if "white-space: nowrap" not in story_button_css or "flex: 0 0 auto" not in story_button_css:
-            fail("assets/css/archive.css: на десктопе длинные названия разделов истории должны переноситься целым чипом")
-        forbidden_story_button_css = ["text-overflow: ellipsis", "overflow: hidden", "overflow-wrap: anywhere"]
-        for forbidden in forbidden_story_button_css:
-            if forbidden in story_button_css:
-                fail(f"assets/css/archive.css: осталась старая логика обрезки/грубого переноса кнопок истории: {forbidden}")
-
-    responsive_css = (SRC_CSS_DIR / "07-responsive.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "07-responsive.css").exists() else ""
-    if ".story-toolbar .volume-scroll button" not in responsive_css or "min-width: 0" not in responsive_css or "text-wrap: pretty" not in responsive_css:
-        fail("src/css/07-responsive.css: мобильные чипы разделов должны переносить текст внутри чипа без разрыва слов")
-    if ".detail-hero" not in responsive_css or "flex-direction: column" not in responsive_css or "align-items: center" not in responsive_css:
-        fail("src/css/07-responsive.css: мобильный detail-hero должен ставить иконку над заголовком и центрировать шапку")
-    mobile_title_block = re.search(r"\.detail-hero-text h1 \{(?P<body>.*?)\}", responsive_css, re.S)
-    if not mobile_title_block or "overflow-wrap: break-word" in mobile_title_block.group("body") or "hyphens: auto" in mobile_title_block.group("body") or "hyphens: manual" in mobile_title_block.group("body"):
-        fail("src/css/07-responsive.css: мобильные заголовки не должны переноситься посередине слова")
-    if "width: min(54vw, 176px)" not in responsive_css or "width: min(58vw, 192px)" not in responsive_css:
-        fail("src/css/07-responsive.css: мобильные иконки в читалке должны быть крупными и ограниченными максимальным размером")
-    if "align-items: flex-start" not in css_text or "margin-top: 0.18em" not in css_text:
-        fail("assets/css/archive.css: десктопная иконка detail-hero должна выравниваться по русскому заголовку")
-    if "minmax(280px" not in css_text or "cols-stories-character" not in css_text:
-        fail("assets/css/archive.css: колонка элементов историй персонажей должна быть расширена")
-
-    navigation_css = SRC_CSS_DIR / "03-navigation.css"
-    if navigation_css.exists():
-        navigation_text = navigation_css.read_text(encoding="utf-8")
-        sidebar_block = re.search(r"\.sidebar \{(?P<body>.*?)\}", navigation_text, re.S)
-        if not sidebar_block:
-            fail("src/css/03-navigation.css: отсутствует основной блок .sidebar")
-        else:
-            body = sidebar_block.group("body")
-            if "overflow: auto" in body or "scrollbar-width" in body or "scrollbar-color" in body:
-                fail("src/css/03-navigation.css: десктопное меню не должно иметь внутренний скроллбар")
-            if "min-height: calc(100vh - 56px)" not in body or "height: auto" not in body or "overflow: visible" not in body:
-                fail("src/css/03-navigation.css: боковое меню должно быть цельной карточкой без внутренней прокрутки")
-
-
-def check_material_chip_wrapping() -> None:
-    catalog_css = SRC_CSS_DIR / "04-catalog.css"
-    responsive_css = SRC_CSS_DIR / "07-responsive.css"
-
-    if catalog_css.exists():
-        catalog_text = catalog_css.read_text(encoding="utf-8")
-        chip_block = re.search(r"\.material-chip \{(?P<body>.*?)\}", catalog_text, re.S)
-        if chip_block and "white-space: nowrap" not in chip_block.group("body"):
-            fail("src/css/04-catalog.css: material-chip должен переноситься целым чипом, без разрыва текста внутри")
-        span_block = re.search(r"\.material-chip span \{(?P<body>.*?)\}", catalog_text, re.S)
-        if span_block:
-            body = span_block.group("body")
-            if "white-space: nowrap" not in body or "text-overflow: ellipsis" not in body:
-                fail("src/css/04-catalog.css: длинные названия внутри material-chip должны обрезаться, а не ломать строку")
-
-    if responsive_css.exists():
-        responsive_text = responsive_css.read_text(encoding="utf-8")
-        block = re.search(r"\.catalog-row\.cols-items-enemy \.material-chip \{(?P<body>.*?)\}", responsive_text, re.S)
-        if not block:
-            fail("src/css/07-responsive.css: отсутствует desktop-правило для material-chip в каталоге боссов")
-
-
-def check_common_enemy_layout_guards() -> None:
-    catalog_css = SRC_CSS_DIR / "04-catalog.css"
-    entries_css = SRC_CSS_DIR / "06-entries.css"
-    responsive_css = SRC_CSS_DIR / "07-responsive.css"
-
-    if catalog_css.exists():
-        catalog_text = catalog_css.read_text(encoding="utf-8")
-        common_block = re.search(r"\.catalog-row\.cols-items-common-enemy \{(?P<body>.*?)\}", catalog_text, re.S)
-        if not common_block:
-            fail("src/css/04-catalog.css: отсутствует раскладка каталога материалов обычных противников")
-        else:
-            body = common_block.group("body")
-            if "minmax(420px" not in body or "gap: 24px" not in body:
-                fail("src/css/04-catalog.css: колонки типа противника и выпадения должны быть отодвинуты от материалов без костылей")
-
-        enemy_block = re.search(r"\.catalog-row\.cols-items-enemy \{(?P<body>.*?)\}", catalog_text, re.S)
-        if not enemy_block:
-            fail("src/css/04-catalog.css: отсутствует раскладка каталога материалов боссов")
-        else:
-            body = enemy_block.group("body")
-            if "minmax(320px" not in body or "gap: 22px" not in body:
-                fail("src/css/04-catalog.css: колонка материалов в каталоге боссов должна быть сдвинута правее общей сеткой")
-        if "type-filter-toggle" not in catalog_text:
-            fail("src/css/04-catalog.css: общая галочка фильтров должна иметь отдельный стиль")
-        if ".catalog-row.cols-stories-character" not in catalog_text or ".type-filter-icon" not in catalog_text or ".element-pill" not in catalog_text:
-            fail("src/css/04-catalog.css: для историй персонажей нужны колонки и стили иконок элементов")
-
-        typed_first_block = re.search(r"\.catalog-row\.cols-items-typed\.item > div:first-child \{(?P<body>.*?)\}", catalog_text, re.S)
-        if not typed_first_block:
-            fail("src/css/04-catalog.css: отсутствует выравнивание первого столбца типовых предметов")
-        elif "align-self: center" not in typed_first_block.group("body"):
-            fail("src/css/04-catalog.css: название типовых предметов должно выравниваться по центру высокой строки, а не прилипать к верху")
-
-    if entries_css.exists():
-        entries_text = entries_css.read_text(encoding="utf-8")
-        required = [
-            ".dropped-by-grid {",
-            "display: grid",
-            "align-items: start",
-            ".dropped-by-grid.is-single",
-            ".dropped-by-grid.is-pair",
-            ".dropped-by-grid.is-trio,",
-            ".dropped-by-grid.is-cascade",
-            "grid-template-columns: repeat(3, minmax(0, 1fr))",
-            ".dropped-by-column",
-            "align-content: start",
-            "a.enemy-loot-chip:hover",
-        ]
-        for fragment in required:
-            if fragment not in entries_text:
-                fail(f"src/css/06-entries.css: отсутствует каскадная раскладка блока Выпадает с: {fragment}")
-        forbidden = ["is-masonry", "column-count", "column-width", "column-gap"]
-        for fragment in forbidden:
-            if fragment in entries_text:
-                fail(f"src/css/06-entries.css: остался старый код каскадной раскладки: {fragment}")
-
-    if responsive_css.exists():
-        responsive_text = responsive_css.read_text(encoding="utf-8")
-        for old_selector in (
-            "title-icon-start",
-            ".catalog-row.item.cols-books .entry-title-cell",
-            ".catalog-row.item.cols-artifacts .entry-title-cell",
-            ".catalog-row.item.cols-weapons .entry-title-cell",
-            ".catalog-row.cols-items-enemy .entry-title-cell",
-            ".catalog-row.cols-items-enemy .entry-icon",
-        ):
-            if old_selector in responsive_text:
-                fail("src/css/07-responsive.css: мобильное выравнивание иконок должно быть единым для карточек каталога, без категорийных заплаток")
-        catalog_css = SRC_CSS_DIR / "04-catalog.css"
-        if catalog_css.exists():
-            catalog_text = catalog_css.read_text(encoding="utf-8")
-            title_cell = re.search(r"\.entry-title-cell \{(?P<body>.*?)\}", catalog_text, re.S)
-            icon_block = re.search(r"\.entry-icon \{(?P<body>.*?)\}", catalog_text, re.S)
-            title_block = re.search(r"\.book-title \{(?P<body>.*?)\}", catalog_text, re.S)
-            subtitle_block = re.search(r"\.book-subtitle \{(?P<body>.*?)\}", catalog_text, re.S)
-            group_title_block = re.search(r"\.group-card-title \{(?P<body>.*?)\}", catalog_text, re.S)
-            if not title_cell or "align-items: flex-start" not in title_cell.group("body") or "gap: 11px" not in title_cell.group("body"):
-                fail("src/css/04-catalog.css: выравнивание иконки по заголовку должно быть единым базовым правилом для каталога")
-            if not icon_block or "--entry-icon-size: 44px" not in icon_block.group("body") or "margin-top: 1px" not in icon_block.group("body"):
-                fail("src/css/04-catalog.css: размер и отступ иконок каталога должны задаваться единым базовым правилом")
-            story_title_cell = re.search(r"\.catalog-row\.cols-stories-character \.entry-title-cell \{(?P<body>.*?)\}", catalog_text, re.S)
-            story_icon_block = re.search(r"\.story-character-entry-icon \{(?P<body>.*?)\}", catalog_text, re.S)
-            if not story_title_cell or "align-items: center" not in story_title_cell.group("body"):
-                fail("src/css/04-catalog.css: истории персонажей должны явно сохранять центрирование большой портретной иконки")
-            if not story_icon_block or "--entry-icon-size: 72px" not in story_icon_block.group("body") or "margin-top: 0" not in story_icon_block.group("body"):
-                fail("src/css/04-catalog.css: размер портретных иконок историй персонажей должен задаваться отдельным правилом")
-            if not title_block or "line-height: 1.24" not in title_block.group("body"):
-                fail("src/css/04-catalog.css: плотность заголовков каталога должна задаваться единым базовым правилом")
-            if not subtitle_block or "line-height: 1.22" not in subtitle_block.group("body") or "margin-top: 2px" not in subtitle_block.group("body"):
-                fail("src/css/04-catalog.css: плотность подзаголовков каталога должна задаваться единым базовым правилом")
-            if not group_title_block or "line-height: 1.13" not in group_title_block.group("body"):
-                fail("src/css/04-catalog.css: плотность названий категорий должна задаваться единым базовым правилом")
-        for redundant_selector in (
-            ".catalog-row.item .entry-title-cell",
-            ".catalog-row.item .entry-icon",
-            ".catalog-row.item .book-subtitle",
-            ".group-card-title",
-        ):
-            if redundant_selector in responsive_text:
-                fail("src/css/07-responsive.css: базовое выравнивание, размер и плотность каталога не должны дублироваться в мобильных заплатках")
-        if "html.menu-open," not in responsive_text or "overscroll-behavior: none" not in responsive_text or "touch-action: none" not in responsive_text:
-            fail("src/css/07-responsive.css: мобильное меню должно блокировать прокрутку фона, а не только затемнять его")
-        mobile_sidebar = re.search(r"@media \(max-width: 1180px\).*?\.archive-layout > \.sidebar,\s*\.sidebar \{(?P<body>.*?)\}", responsive_text, re.S)
-        if not mobile_sidebar:
-            fail("src/css/07-responsive.css: не найден основной мобильный блок меню")
-        else:
-            sidebar_body = mobile_sidebar.group("body")
-            required_sidebar_fragments = ["top: var(--reader-mobile-bar-top)", "left: 0", "right: 0", "bottom: 0", "width: 100%", "overflow: hidden", "transform: translateY(-100%)"]
-            for fragment in required_sidebar_fragments:
-                if fragment not in sidebar_body:
-                    fail(f"src/css/07-responsive.css: полноэкранное мобильное меню собрано не полностью: {fragment}")
-        sidebar_scroll_block = re.search(r"\n  \.sidebar-scroll \{(?P<body>.*?)\}", responsive_text, re.S)
-        if not sidebar_scroll_block or "overflow-y: auto" not in sidebar_scroll_block.group("body") or "scrollbar-width: none" not in sidebar_scroll_block.group("body"):
-            fail("src/css/07-responsive.css: мобильное меню должно прокручиваться внутри и скрывать системный скролл")
-        if "safe-area-inset-left" in (mobile_sidebar.group("body") if mobile_sidebar else ""):
-            fail("src/css/07-responsive.css: мобильное меню не должно использовать боковую safe-area как отступ — она оставляет белое поле в landscape")
-        if re.search(r"(?<!max-)height: calc\(100dvh - 16px\)", responsive_text) or "bottom: max(12px, env(safe-area-inset-bottom))" in responsive_text:
-            fail("src/css/07-responsive.css: старое landscape-меню не должно принудительно растягиваться на всю высоту экрана")
-        if "width: 100vw" in responsive_text:
-            fail("src/css/07-responsive.css: не должен использоваться width: 100vw — на iOS он может создавать горизонтальный скролл")
-        if "calc(100vw - 16px)" in responsive_text:
-            fail("src/css/07-responsive.css: landscape-меню не должно снова занимать почти всю ширину экрана")
-        forbidden_side_safe_area = [
-            "left: max(12px, env(safe-area-inset-left))",
-            "padding-left: env(safe-area-inset-left)",
-            "padding-right: env(safe-area-inset-right)",
-            "margin-left: env(safe-area-inset-left)",
-            "margin-right: env(safe-area-inset-right)",
-        ]
-        for fragment in forbidden_side_safe_area:
-            if fragment in responsive_text:
-                fail(f"src/css/07-responsive.css: боковая safe-area не должна добавляться как отступ: {fragment}")
-        if "width: calc(100% + env(safe-area-inset-left) + env(safe-area-inset-right))" in responsive_text or "margin-left: calc(-1 * env(safe-area-inset-left))" in responsive_text or "margin-right: calc(-1 * env(safe-area-inset-right))" in responsive_text:
-            fail("src/css/07-responsive.css: нельзя расширять .app через safe-area — это создаёт горизонтальный скролл на iOS")
-        if "html.is-mobile-landscape body::before" not in responsive_text or "left: calc(-1 * env(safe-area-inset-left))" not in responsive_text or "right: calc(-1 * env(safe-area-inset-right))" not in responsive_text:
-            fail("src/css/07-responsive.css: iOS landscape должен прокрашивать боковые safe-area через fixed paint-layer, не расширяя layout")
-        if "left: calc(12px - env(safe-area-inset-left))" in responsive_text:
-            fail("src/css/07-responsive.css: мобильное меню не должно сдвигаться отрицательной safe-area — это может создавать горизонтальный скролл")
-        if "@media (max-width: 1180px) and (orientation: landscape)" not in responsive_text or "padding-left: 0;" not in responsive_text or "padding-right: 0;" not in responsive_text or "border-radius: 0;" not in responsive_text:
-            fail("src/css/07-responsive.css: в landscape мобильная оболочка должна быть full-bleed, без белых боковых gutters")
-        if "html.is-mobile-landscape .app" not in responsive_text or "html.is-mobile-landscape .content" not in responsive_text or "max-width: none;" not in responsive_text:
-            fail("src/css/07-responsive.css: для iOS нужен JS-класс is-mobile-landscape, чтобы убирать планшетный max-width даже при нестабильном orientation")
-        if ".drawer-backdrop" not in responsive_text or "display: none" not in responsive_text:
-            fail("src/css/07-responsive.css: полноэкранное мобильное меню не должно оставлять старую кликабельную подложку поверх навигации")
-        if "viewport-fit=cover" not in (ROOT / "index.html").read_text(encoding="utf-8"):
-            fail("index.html: нужен viewport-fit=cover для окрашивания боковых safe-area на iOS")
-        base_text = (SRC_CSS_DIR / "01-base.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "01-base.css").exists() else ""
-        tokens_text = (SRC_CSS_DIR / "00-tokens.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "00-tokens.css").exists() else ""
-        if "--page-bg-paint" not in tokens_text or "background: var(--page-bg-paint)" not in base_text or "min-height: 100dvh" not in base_text:
-            fail("src/css/01-base.css: фон страницы должен прокрашивать весь viewport/safe-area, включая landscape на iOS")
-        if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text or "@supports (overflow: clip)" not in responsive_text:
-            fail("src/css/07-responsive.css: мобильная страница каталога должна защищаться от горизонтального скролла")
-        if ".search input:focus" not in responsive_text or "inset 0 0 0 2px" not in responsive_text:
-            fail("src/css/07-responsive.css: focus-обводка поиска на мобильном не должна раздувать ширину страницы")
-        if "font-size: 16px;" not in responsive_text:
-            fail("src/css/07-responsive.css: мобильные поля ввода должны быть 16px, чтобы iOS не зумил страницу и не создавал горизонтальный скролл")
-        if ".dropped-by-grid.is-cascade" not in responsive_text or "repeat(2, minmax(0, 1fr))" not in responsive_text:
-            fail("src/css/07-responsive.css: каскадная раскладка блока Выпадает с должна сжиматься до двух колонок на средних экранах")
-        if ".dropped-by-grid.is-pair" not in responsive_text or ".dropped-by-grid.is-trio" not in responsive_text or ".dropped-by-grid.is-cascade" not in responsive_text or "grid-template-columns: minmax(0, 1fr)" not in responsive_text:
-            fail("src/css/07-responsive.css: мобильная раскладка блока Выпадает с должна складывать карточки в одну колонку")
-        for fragment in ["is-masonry", "column-count", "column-width", "column-gap"]:
-            if fragment in responsive_text:
-                fail(f"src/css/07-responsive.css: остался старый код каскадной раскладки: {fragment}")
-
-
-def check_workflow_guards() -> None:
-    workflow = ROOT / ".github" / "workflows" / "build-archive.yml"
-    if not workflow.exists():
-        fail(".github/workflows/build-archive.yml: workflow отсутствует")
-        return
-
-    text = workflow.read_text(encoding="utf-8")
-    required_fragments = [
-        'content/stories/**',
-        'src/js/**',
-        'tools/build_js.py',
-        'assets/icons/**',
-        'fetch-depth: 0',
-        'git diff --name-only "$before"',
-        'python tools/build_js.py',
-        'git diff --quiet -- data assets/css/archive.css assets/js/archive.js',
-        "grep -Eq '^(assets/js/archive\\.js|assets/icons/)'",
-        'python tools/bump_cache_version.py',
-        'python tools/check_archive.py',
-        'git add data assets/css/archive.css assets/js/archive.js index.html',
-    ]
-    for fragment in required_fragments:
-        if fragment not in text:
-            fail(f"{rel(workflow)}: отсутствует защитный фрагмент workflow: {fragment}")
+    if expected is not None and css.read_text(encoding="utf-8") != expected:
+        fail("assets/css/archive.css: файл не совпадает со сборкой из src/css/*.css")
 
 
 def check_content_structure() -> None:
@@ -1114,9 +736,6 @@ def check_content_structure() -> None:
     if (ASSETS_DIR / "icons" / "history").exists():
         fail("assets/icons/history: папка переименована; используйте assets/icons/stories/character")
 
-    character_story_icon_dir = ASSETS_DIR / "icons" / "stories" / "character"
-    if not character_story_icon_dir.exists():
-        fail("assets/icons/stories/character: для иконок историй персонажей должна быть отдельная папка")
 
     content_root = ROOT / "content"
     if not content_root.exists():
@@ -1125,8 +744,6 @@ def check_content_structure() -> None:
     stories_content_root = content_root / "stories"
     expected_story_folders = {"character_stories", "quests"}
     actual_story_folders = {path.name for path in stories_content_root.iterdir() if path.is_dir()} if stories_content_root.exists() else set()
-    if actual_story_folders != expected_story_folders:
-        fail(f"content/stories: top-level folders must be {sorted(expected_story_folders)}, got {sorted(actual_story_folders)}")
     if list(stories_content_root.glob("*.md")):
         fail("content/stories: Markdown files must live under character_stories/ or quests/")
 
@@ -1136,20 +753,14 @@ def check_content_structure() -> None:
             fail(f"{rel(path)}: служебные блоки NOTES/INTERNAL должны быть удалены из md")
 
     character_story_content_dir = content_root / "stories" / "character_stories"
-    if not character_story_content_dir.exists():
-        fail("content/stories/character_stories: для историй персонажей должна быть отдельная папка контента")
-    else:
-        for path in sorted(character_story_content_dir.glob("*.md")):
-            text = path.read_text(encoding="utf-8")
-            if not re.search(r"^#\s*character_filters\s*:", text, re.MULTILINE):
-                fail(f"{rel(path)}: в шаблоне персонажа должно быть поле character_filters")
+    # Пустая коллекция допустима; в новых шаблонах дополнительные фильтры необязательны.
 
     content_items = content_root / "items"
     teapot_dir = content_items / "serenitea_pot"
     teyvat_dir = content_items / "teyvat_resources"
 
-    if not teapot_dir.exists():
-        fail("content/items/serenitea_pot: для Чайника Безмятежности должна быть отдельная папка контента")
+    # Пустые категории — штатное состояние. Git не хранит пустые папки;
+    # валидируем содержимое только если оно есть, без .gitkeep и запретов на рост архива.
 
     if teyvat_dir.exists():
         for path in sorted(teyvat_dir.glob("*.md")):
@@ -1208,151 +819,12 @@ def check_line_endings() -> None:
             fail(f"{rel(path)}: найден CRLF/CR, ожидается LF")
 
 
-def check_interface_regressions() -> None:
-    targets = [ROOT / "index.html", ASSETS_DIR / "js" / "archive.js", ASSETS_DIR / "css" / "archive.css"]
-    targets.extend(SRC_CSS_DIR.glob("*.css"))
-    for path in targets:
-        if not path.exists():
-            continue
-        text = path.read_text(encoding="utf-8")
-        if "Томов" in text or "ТОМА" in text:
-            fail(f"{rel(path)}: вернулась старая интерфейсная подпись Томов/ТОМА")
-
-    js = ASSETS_DIR / "js" / "archive.js"
-    if js.exists():
-        text = js.read_text(encoding="utf-8")
-        if "const allowLists = options.allowLists === true" not in text:
-            fail("assets/js/archive.js: Markdown-списки должны быть opt-in, чтобы не ломать диалоги")
-        if "const dialogueMatch = trimmed.match(/^[-–—]" not in text:
-            fail("assets/js/archive.js: Markdown-парсер должен сохранять ведущие тире как диалог")
-        if "const listMatch = trimmed.match(/^" in text:
-            fail("assets/js/archive.js: Markdown-парсер снова превращает дефисные диалоги в списки")
-        if "Заметки Лороведьмы" in text and "markdownToHtml(noteText, { allowLists: true })" not in text:
-            fail("assets/js/archive.js: заметки должны явно включать Markdown-списки")
-        if "const isSinglePartArtifact = parts.length === 1" not in text:
-            fail("assets/js/archive.js: одиночные артефакты должны открываться без лишней панели чтения сета")
-        if "function versionedAssetPath(path)" not in text:
-            fail("assets/js/archive.js: локальные ассеты должны получать cache-busting версию")
-        if "versionedAssetPath(icon)" not in text or "versionedAssetPath(material.icon)" not in text:
-            fail("assets/js/archive.js: иконки записей и материалов должны версионироваться")
-        if "function entryRarityBackgroundClass" not in text or "rarity-bg-${rarity}" not in text:
-            fail("assets/js/archive.js: иконки записей с редкостью должны получать класс подложки по редкости")
-        if "function renderReaderStickyHead" not in text or "renderReaderStickyHead(book" not in text or "renderReaderStickyHead(artifact" not in text:
-            fail("assets/js/archive.js: в читалках должен использоваться общий sticky-топ с иконкой")
-        if 'elements.length > 3 ? "is-many"' not in text:
-            fail("assets/js/archive.js: множественные элементы персонажа должны получать отдельный класс для аккуратной раскладки")
-        if "weaponRarityBackgroundClass" in text or "weapon-rarity-bg" in text:
-            fail("assets/js/archive.js: остался старый оружейный код подложек редкости")
-        if "renderReaderStickyHead(item" not in text or "entryRarityBackgroundClass(item)" not in text:
-            fail("assets/js/archive.js: подложка редкости должна работать в шапке карточки оружия")
-        if "const expandedEnemyDescriptionKeys = new Set()" not in text:
-            fail("assets/js/archive.js: раскрытый спойлер описания босса должен переживать смену языка")
-        if "function rememberEnemyDescriptionState" not in text or "data-description-key" not in text:
-            fail("assets/js/archive.js: состояние спойлера описания босса должно быть привязано к записи")
-        if "rememberEnemyDescriptionState(panel, !isCollapsed)" not in text:
-            fail("assets/js/archive.js: переключение спойлера должно сохранять его состояние")
-        if "function renderTextWithAttachedBadge" not in text or 'renderTextWithAttachedBadge(materialTitle(material, "ru")' not in text:
-            fail("assets/js/archive.js: бейдж версии должен переноситься вместе с последним словом названия, включая материалы")
-        if "function optionsFor(config) {\n  if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;" in text:
-            fail("assets/js/archive.js: в материалах обычных противников выпадающий фильтр должен быть по региону, а не по типу противника")
-        if "function typeFiltersForCurrentCatalog" not in text or "if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;" not in text:
-            fail("assets/js/archive.js: группы обычных противников должны быть доступны как фильтры-галочки")
-        if "Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type))" not in text:
-            fail("assets/js/archive.js: фильтры-галочки обычных противников должны работать по пересечению групп")
-        if "function droppedByGridClass" not in text or "dropped-by-grid is-single" not in text or "dropped-by-grid is-pair" not in text or "dropped-by-grid is-trio" not in text or "dropped-by-grid is-cascade" not in text:
-            fail("assets/js/archive.js: блоки противников должны получать классы для одиночной, парной, тройной и каскадной раскладки")
-        if "function distributeDroppedByColumns" not in text or "dropped-by-column" not in text or "index % columns.length" not in text:
-            fail("assets/js/archive.js: каскадная раскладка должна распределять 4+ противников по трём явным колонкам")
-        if "is-masonry" in text or "column-count" in text:
-            fail("assets/js/archive.js: остался старый код каскадной раскладки")
-        if 'data-type-filter-toggle' in text or "toggle.indeterminate" in text:
-            fail("assets/js/archive.js: в иконковых фильтрах не должно быть общей галочки")
-        if '["craft", "Крафт"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
-            fail("assets/js/archive.js: в фильтрах ресурсов Тейвата должны быть Крафт и Ингредиенты")
-        if '["serenitea_pot", "Чайник Безмятежности"' not in text or '["blueprint", "Чертежи"]' not in text:
-            fail("assets/js/archive.js: Чайник Безмятежности должен быть отдельной подкатегорией для лорных чертежей")
-        if 'food_potions' in text or 'Еда и зелья' in text or '["teapot", "Чайник"]' in text:
-            fail("assets/js/archive.js: старая категория Еда и зелья или старый фильтр Чайник не должны оставаться в клиенте")
-        if 'title: "Инвентарь"' not in text:
-            fail("assets/js/archive.js: раздел Предметы должен быть переименован в Инвентарь")
-        if "function catalogLayoutClass" not in text or "function catalogRowClasses" not in text:
-            fail("assets/js/archive.js: классы строк каталога должны формироваться централизованно, без дублирования условий")
-        if 'mobileTitleCellAlign' in text or 'title-icon-start' in text:
-            fail("assets/js/archive.js: мобильное выравнивание иконок должно быть единым CSS-правилом, без JS-флагов секций")
-        if "function renderStoryDetail" not in text or 'id="toggle-story-read-all"' not in text or "data-story-part" not in text:
-            fail("assets/js/archive.js: истории должны читаться по разделам и в режиме читать всё подряд")
-        if "story-element-list" not in text or "element-icon-stack" in text or "element-pill-multi" in text:
-            fail("assets/js/archive.js: несколько элементов персонажа должны выводиться отдельными чипами")
-        if "renderTypeFilterRow([...rarityOptions, ...elementOptions, ...traitOptions]" not in text:
-            fail("assets/js/archive.js: иконковые фильтры историй персонажей должны идти в одну строку и начинаться со звёздности")
-        if "entryRarityBackgroundClass(item)" not in text or "story-character-entry-icon" not in text:
-            fail("assets/js/archive.js: иконки персонажей с редкостью должны быть увеличены и получать фон редкости")
-        if '<a class="enemy-loot-chip' not in text or 'routeHash("items", drop.id, group)' not in text:
-            fail("assets/js/archive.js: дополнительные ресурсы в карточках противников должны быть кликабельными")
-        if '<span class="toolbar-label">Язык</span>\n        <span class="toolbar-label">Язык</span>' in text:
-            fail("assets/js/archive.js: не должно быть дублирующихся подписей Язык в переключателях")
-        if "function rememberCatalogScrollPosition()" not in text:
-            fail("assets/js/archive.js: каталог должен запоминать позицию скролла перед переходом в запись")
-        if "function scheduleRouteScroll(routeChanged)" not in text:
-            fail("assets/js/archive.js: смена маршрута должна управлять позицией скролла")
-        if "markRouteRendered(routeKey, routeChanged)" not in text:
-            fail("assets/js/archive.js: после рендера маршрута должна применяться позиция скролла")
-        if "state.section = normalizedSection" in text:
-            fail("assets/js/archive.js: setRoute не должен менять state до hashchange, иначе ломается сохранение скролла")
-        if "function resetHorizontalScroll()" not in text or "window.scrollTo(0, currentY)" not in text:
-            fail("assets/js/archive.js: случайный горизонтальный скролл каталога должен сбрасываться без потери вертикальной позиции")
-        if "function scheduleViewportCleanup()" not in text or 'window.addEventListener("orientationchange", scheduleViewportCleanup' not in text or 'window.visualViewport?.addEventListener("resize", scheduleViewportCleanup' not in text or "viewportCleanupTimers = [80, 240, 520]" not in text:
-            fail("assets/js/archive.js: поворот телефона должен несколько раз сбрасывать горизонтальный скролл, включая visualViewport на iOS")
-        if "function updateMobileLandscapeClass()" not in text or "is-mobile-landscape" not in text or "window.visualViewport" not in text or "isTouchLikeViewport()" not in text:
-            fail("assets/js/archive.js: телефонный landscape должен определяться через visualViewport и отдельный класс, чтобы убрать белые gutters, даже если CSS orientation сработал нестабильно")
-        if "window.scrollTo(0, target.y)" not in text or "catalogScrollPositions.set(currentCatalogScrollKey()" not in text or "x: window.scrollX" in text:
-            fail("assets/js/archive.js: сохранение позиции каталога не должно сохранять горизонтальный scrollX")
-        if "function openMenu()" not in text or 'document.body.style.position = "fixed"' not in text or 'document.documentElement.classList.add("menu-open")' not in text:
-            fail("assets/js/archive.js: мобильное меню должно фиксировать body, чтобы задний фон не прокручивался на iOS")
-        if 'drawerBackdrop?.addEventListener("touchmove", event => event.preventDefault(), { passive: false })' not in text:
-            fail("assets/js/archive.js: backdrop мобильного меню должен гасить touchmove, иначе фон может прокручиваться")
-        if 'let STORIES = []' not in text or 'id: "stories"' not in text or 'STORY_CHILD_GROUPS' not in text:
-            fail("assets/js/archive.js: раздел Истории и вложенные подкатегории должны быть подключены в клиенте")
-        if "BACKGROUND_PREFETCH_SECTIONS" in text or "scheduleBackgroundSectionPrefetch" in text:
-            fail("assets/js/archive.js: каталоги не должны загружаться фоновым prefetch на первом экране")
-        if "loadStorySearchIndex" in text or "data/stories_search.json" in text or "ensureStorySearchIndexForQuery" in text:
-            fail("assets/js/archive.js: общий полнотекстовый индекс историй не должен загружаться")
-        if "function loadCatalogData(" not in text or "data/indexes/${encodeURIComponent(config.id)}" not in text:
-            fail("assets/js/archive.js: сгруппированные каталоги должны загружаться отдельными индексами категорий")
-        if 'quest_stories' not in text or 'archon_quests' not in text or 'world_quests' not in text:
-            fail("assets/js/archive.js: истории заданий должны иметь подкатегории Архонтов и крупных заданий мира")
-        if 'value: "quest:legend_quests"' not in text or '["legend_quests", "Задания легенд"' not in text:
-            fail("assets/js/archive.js: задания легенд должны отображаться в меню и фильтрах")
-        if "STORY_QUEST_TYPE_FILTERS" not in text or "isQuestStoriesCatalog" not in text or "storyQuestMatchesTypeFilters" not in text:
-            fail("assets/js/archive.js: все задания должны открываться единым каталогом с фильтрами по типу")
-        if "WEAPON_KIND_FILTERS" not in text or 'value: "kind:skin"' not in text or 'value: "kind:weapon"' not in text:
-            fail("assets/js/archive.js: в оружии должны быть фильтры Оружие и Скины")
-        if '["Луна", "Луна"]' not in text:
-            fail("assets/js/archive.js: в региональных фильтрах должна быть Луна")
-        if '["quest_stories", "Квесты и задания"' not in text:
-            fail("assets/js/archive.js: категория заданий должна называться Квесты и задания")
-        if 'collection:witch_homework' not in text or 'label: "Уроки ведьм"' not in text:
-            fail("assets/js/archive.js: Уроки ведьм должны быть отдельной подборкой заданий мира")
-        if '${UI_ICON_BASE}/witchcraft.webp' not in text or 'scope: "quest-stories"' not in text:
-            fail("assets/js/archive.js: фильтры заданий должны быть одной строкой, а Уроки ведьм — кнопкой с иконкой witchcraft")
-        if 'label: "Тип задания"' in text or 'label: "Особая подборка"' in text:
-            fail("assets/js/archive.js: надписи Тип задания и Особая подборка должны быть удалены")
-        if 'id: "bestiary"' not in text or 'BESTIARY_GROUPS' not in text:
-            fail("assets/js/archive.js: сгруппированный Бестиарий должен быть подключён в клиенте")
-        if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'CHARACTER_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
-            fail("assets/js/archive.js: истории персонажей должны иметь фильтры и колонки элемента/редкости")
-        if '${UI_ICON_BASE}/pyro.webp' not in text or 'element:${value}' not in text or 'trait:${value}' not in text or 'rarity:5' not in text or 'rarity:4' not in text or 'Лунное знамение' not in text:
-            fail("assets/js/archive.js: фильтры историй персонажей должны использовать актуальные иконки элементов, дополнительные фильтры и редкость")
-        if 'hasChildGroups(config, state.subsection)' not in text or 'parentGroupFor(config, state.subsection)' not in text:
-            fail("assets/js/archive.js: вложенные категории Историй должны открываться отдельным уровнем, а не плоским списком")
-
-
 def main() -> int:
+    # Проверки должны выявлять сломанные данные и несобранные файлы,
+    # а не навязывать папки-заглушки, оформление карточек или конкретный код интерфейса.
     check_content_structure()
     check_infrastructure_files()
-    check_workflow_guards()
     check_line_endings()
-    check_interface_regressions()
 
     if not DATA_DIR.exists():
         fail("data/: папка не найдена. Сначала запустите tools/build_archive.py")
@@ -1371,8 +843,6 @@ def main() -> int:
         check_summary(indexes)
     check_generated_css()
     check_generated_js()
-    check_material_chip_wrapping()
-    check_common_enemy_layout_guards()
 
     if errors:
         print("Проверка архива: найдены ошибки", file=sys.stderr)

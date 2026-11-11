@@ -99,6 +99,74 @@ const STORY_CHILD_GROUPS = {
   ]
 };
 
+// Группы заданий Архонтов повторяют структуру журнала: тома по регионам,
+// задания Близнецов и Промежуточный том — отдельные сборки.
+// География действия остаётся в поле region и НЕ переопределяет принадлежность к тому.
+const ARCHON_COLLECTIONS = [
+  { id: "mondstadt", title: "Мондштадт", chapter: "Пролог", description: "Начало путешествия и история Двалина." },
+  { id: "liyue", title: "Ли Юэ", chapter: "Том I", description: "Контракты, Гео Архонт и судьба гавани." },
+  { id: "inazuma", title: "Инадзума", chapter: "Том II", description: "Указ об Охоте на Глаза Бога и Вечность." },
+  { id: "sumeru", title: "Сумеру", chapter: "Том III и Песня полой луны", description: "Академия, Дендро Архонт и главы IX–X «Песни полой луны», относящиеся к Сумеру в игровом журнале." },
+  { id: "fontaine", title: "Фонтейн", chapter: "Том IV", description: "Пророчество и суд над Гидро Архонтом." },
+  { id: "natlan", title: "Натлан", chapter: "Том V", description: "Война с Бездной и священное пламя." },
+  { id: "nod-krai", title: "Нод-Край", chapter: "Песня полой луны", description: "Увертюра и региональные главы «Песни полой луны» в Нод-Крае." },
+  { id: "snezhnaya", title: "Снежная", chapter: "Снежная", description: "Сюжетные главы Снежной, когда они будут добавлены в архив." },
+  { id: "twins", title: "Задания Близнецов", chapter: "История Близнецов", description: "Встречи с Дайнслейфом, Каэнри’ах и поиски Близнеца — независимо от региона." },
+  { id: "interlude", title: "Промежуточный том", chapter: "Промежуточный том", description: "Самостоятельные главы Промежуточного тома." },
+  { id: "other", title: "Другие главы", chapter: "Задания Архонтов", description: "Новые главы, которые пока не отнесены к основным сюжетным сборкам." },
+];
+
+function archonCollectionFor(item) {
+  if (item?.story_group !== "archon_quests") return "";
+  const manual = String(item?.archon_collection || "").trim();
+  if (manual && archonCollectionDefinition(manual)) return manual;
+  const chapter = String(item.chapter_num?.ru || "");
+  if (chapter.startsWith("Промежуточный том")) return "interlude";
+  if (chapter.startsWith("Песня полой луны")) {
+    // В игровом журнале IX и X отображаются в Сумеру, хотя цикл называется общим.
+    const journalRegion = String(item.region || "").trim();
+    if (journalRegion === "Сумеру") return "sumeru";
+    if (journalRegion === "Снежная") return "snezhnaya";
+    return "nod-krai";
+  }
+  if (/^Том (?:VI|VII)\./.test(chapter) || chapter.startsWith("Снежная")) return "snezhnaya";
+  const chapterMap = [
+    ["Пролог.", "mondstadt"],
+    ["Том I.", "liyue"],
+    ["Том II.", "inazuma"],
+    ["Том III.", "sumeru"],
+    ["Том IV.", "fontaine"],
+    ["Том V.", "natlan"],
+  ];
+  return chapterMap.find(([prefix]) => chapter.startsWith(prefix))?.[1] || "other";
+}
+
+function archonCollectionDefinition(id) {
+  return ARCHON_COLLECTIONS.find(collection => collection.id === id) || null;
+}
+
+function romanToNumber(text) {
+  const values = { I: 1, V: 5, X: 10, L: 50 };
+  let total = 0;
+  const source = String(text || "").toUpperCase();
+  for (let i = 0; i < source.length; i += 1) {
+    const value = values[source[i]] || 0;
+    total += value < (values[source[i + 1]] || 0) ? -value : value;
+  }
+  return total;
+}
+
+function archonChapterOrder(item) {
+  const en = String(item?.chapter_num?.en || "");
+  if (/Prelude|Prologue|Увертюра/i.test(en)) return 0;
+  // Межглава Натлана появилась между IV и V и должна находиться там же.
+  if (/Interlude|Интерлюдия/i.test(en + " " + String(item?.chapter_num?.ru || ""))) return 4.5;
+  const match = en.match(/Act\s+([IVXL]+)\b/i);
+  const chapter = match ? romanToNumber(match[1]) : 99;
+  const finale = /Финал/i.test(String(item?.title?.ru || "")) ? 0.5 : 0;
+  return chapter + finale;
+}
+
 const BESTIARY_GROUPS = [
   ["hilichurls", "Хиличурлы", "Племена, шаманы и воины хиличурлов: их разновидности, обычаи и следы утраченной истории."],
   ["elementals", "Элементальные существа", "Существа, чья природа тесно связана с элементами, артериями земли и законами Тейвата."],
@@ -450,7 +518,7 @@ function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
 }
 
 function activeTypeFilters(config = getSectionConfig()) {
-  const filterState = state.filters[config.id];
+  const filterState = catalogFilterState(config);
   const options = typeFiltersForCurrentCatalog(config);
   const allowedValues = options.map(typeFilterOptionValue);
 

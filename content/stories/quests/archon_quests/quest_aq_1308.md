@@ -1,6 +1,7 @@
 # id: quest_aq_1308
 # story_group: archon_quests
-# display_category: Задание Архонтов · Сумеру
+# archon_collection: twins
+# display_category: Задание Архонтов · Близнецы
 # icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Кариберт
 # title_en: Caribert

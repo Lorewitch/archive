@@ -1,6 +1,6 @@
 # id: quest_aq_1004
 # story_group: archon_quests
-# display_category: Задание Архонтов · Мондштадт
+# display_category: Задание Архонтов · Промежуточный том
 # icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Паралогизм
 # title_en: Paralogism

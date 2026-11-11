@@ -706,3 +706,15 @@
 .reader-page .text-card:first-of-type {
   margin-top: 0;
 }
+
+/* Прокрутка цепочки: тихая тонкая дорожка, как на основной странице архива. */
+.quest-chain-list {
+  scrollbar-width: thin;
+  scrollbar-color: var(--rail-thumb) transparent;
+  scrollbar-gutter: stable;
+  overscroll-behavior: contain;
+}
+.quest-chain-list::-webkit-scrollbar { width: 5px; }
+.quest-chain-list::-webkit-scrollbar-track { background: transparent; }
+.quest-chain-list::-webkit-scrollbar-thumb { background: var(--rail-thumb); border-radius: 4px; }
+.quest-chain-list::-webkit-scrollbar-thumb:hover { background: var(--rail-thumb-hover); }

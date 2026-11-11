@@ -33,11 +33,20 @@ function currentCatalogConfig() {
   return getSectionConfig();
 }
 
-function currentFilterState() {
-  return state.filters[currentCatalogConfig().id];
+function rememberStoryCatalogOrigin(sectionId) {
+  if (sectionId === "stories" && !state.entryId) {
+    state.storyReturnRoute = { subsection: state.subsection, collection: state.collection };
+  }
 }
 
-const debouncedCatalogUpdate = debounce(() => updateCatalogTable(currentCatalogConfig()));
+function currentFilterState() {
+  return catalogFilterState(currentCatalogConfig());
+}
+
+const debouncedCatalogUpdate = debounce((sectionId, subsection, collection) => {
+  if (state.section !== sectionId || state.subsection !== subsection || state.collection !== collection) return;
+  updateCatalogTable(getSectionConfig(sectionId));
+});
 
 function renderActiveDetail() {
   if (!activeDetail) {
@@ -114,7 +123,20 @@ function handleAppClick(event) {
 
   if (event.target.closest("#back-section")) {
     const config = activeDetail ? getSectionConfig(activeDetail.configId || state.section) : currentCatalogConfig();
-    setRoute(config.id, null, state.subsection);
+    if (config.id === "stories" && state.storyReturnRoute) {
+      const target = state.storyReturnRoute;
+      setRoute("stories", null, target.subsection, target.collection);
+    } else if (config.id === "stories" && activeDetail?.data?.story_group === "archon_quests") {
+      setRoute("stories", null, "archon_quests", archonCollectionFor(activeDetail.data));
+    } else {
+      setRoute(config.id, null, state.subsection);
+    }
+    return;
+  }
+
+  const archonCollectionButton = event.target.closest("[data-archon-collection]");
+  if (archonCollectionButton) {
+    setRoute("stories", null, "archon_quests", archonCollectionButton.dataset.archonCollection);
     return;
   }
 
@@ -219,6 +241,7 @@ function handleAppClick(event) {
   const row = event.target.closest("[data-entry-id]");
   if (row && !event.target.closest("button, a, input, select, label")) {
     const sectionId = row.dataset.sectionId || currentCatalogConfig().id;
+    rememberStoryCatalogOrigin(sectionId);
     setRoute(sectionId, row.dataset.entryId, state.subsection);
   }
 }
@@ -228,6 +251,7 @@ function handleAppKeydown(event) {
   if (!row || (event.key !== "Enter" && event.key !== " ")) return;
   event.preventDefault();
   const sectionId = row.dataset.sectionId || currentCatalogConfig().id;
+  rememberStoryCatalogOrigin(sectionId);
   setRoute(sectionId, row.dataset.entryId, state.subsection);
 }
 
@@ -243,12 +267,12 @@ function handleAppInput(event) {
   filterState.query = event.target.value;
   filterState.page = 1;
   document.getElementById("clear-search")?.classList.toggle("visible", Boolean(filterState.query));
-  debouncedCatalogUpdate();
+  debouncedCatalogUpdate(state.section, state.subsection, state.collection);
 }
 
 function handleAppChange(event) {
   const config = currentCatalogConfig();
-  const filterState = state.filters[config.id];
+  const filterState = catalogFilterState(config);
 
   if (event.target.matches("#catalog-filter")) {
     filterState.filter = event.target.value;

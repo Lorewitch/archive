@@ -80,11 +80,12 @@
   }
 
   async function fetchOptionalJson(path) {
-    try {
-      return await fetchJson(path);
-    } catch (_) {
-      return [];
-    }
+    // Только отсутствие файла допустимо (например, пустая категория).
+    // Сетевые ошибки и повреждённый JSON не должны маскироваться под пустые данные.
+    const response = await fetch(versionedDataPath(path));
+    if (response.status === 404) return [];
+    if (!response.ok) throw new Error(`Не удалось загрузить ${path}: ${response.status}`);
+    return response.json();
   }
 
   function normalizeList(data, fallbackKey) {
@@ -120,22 +121,31 @@
 
   async function loadCatalogData(config, subsection = state.subsection) {
     const key = catalogCacheKey(config, subsection);
-    if (CATALOG_CACHE.has(key)) {
-      assignSectionData(config.id, CATALOG_CACHE.get(key));
-      return;
+    let rows = CATALOG_CACHE.get(key);
+
+    if (!rows) {
+      let load = CATALOG_LOADS.get(key);
+      if (!load) {
+        load = fetchOptionalJson(catalogIndexPath(config, subsection))
+          .then(data => {
+            const list = normalizeList(data, config.id);
+            CATALOG_CACHE.set(key, list);
+            return list;
+          })
+          .finally(() => CATALOG_LOADS.delete(key));
+        CATALOG_LOADS.set(key, load);
+      }
+      rows = await load;
     }
-    if (CATALOG_LOADS.has(key)) return CATALOG_LOADS.get(key);
 
-    const promise = fetchOptionalJson(catalogIndexPath(config, subsection))
-      .then(data => {
-        const list = normalizeList(data, config.id);
-        CATALOG_CACHE.set(key, list);
-        assignSectionData(config.id, list);
-      })
-      .finally(() => CATALOG_LOADS.delete(key));
-
-    CATALOG_LOADS.set(key, promise);
-    return promise;
+    // Только текущий маршрут может менять активную коллекцию.
+    // Иначе отставший запрос прежней категории подменит данные после перехода.
+    const activeSubsection = config.id === "stories" && state.entryId && !state.subsection
+      ? "quest_stories" : state.subsection;
+    if (state.section === config.id && catalogCacheKey(config, activeSubsection) === key) {
+      assignSectionData(config.id, rows);
+    }
+    return rows;
   }
 
   async function getBookById(id) {
@@ -260,6 +270,74 @@
       ["world_quests", "Крупные задания мира", "Основные сюжетные цепочки, древние цивилизации, исторические открытия и важные тайны Тейвата."]
     ]
   };
+
+  // Группы заданий Архонтов повторяют структуру журнала: тома по регионам,
+  // задания Близнецов и Промежуточный том — отдельные сборки.
+  // География действия остаётся в поле region и НЕ переопределяет принадлежность к тому.
+  const ARCHON_COLLECTIONS = [
+    { id: "mondstadt", title: "Мондштадт", chapter: "Пролог", description: "Начало путешествия и история Двалина." },
+    { id: "liyue", title: "Ли Юэ", chapter: "Том I", description: "Контракты, Гео Архонт и судьба гавани." },
+    { id: "inazuma", title: "Инадзума", chapter: "Том II", description: "Указ об Охоте на Глаза Бога и Вечность." },
+    { id: "sumeru", title: "Сумеру", chapter: "Том III и Песня полой луны", description: "Академия, Дендро Архонт и главы IX–X «Песни полой луны», относящиеся к Сумеру в игровом журнале." },
+    { id: "fontaine", title: "Фонтейн", chapter: "Том IV", description: "Пророчество и суд над Гидро Архонтом." },
+    { id: "natlan", title: "Натлан", chapter: "Том V", description: "Война с Бездной и священное пламя." },
+    { id: "nod-krai", title: "Нод-Край", chapter: "Песня полой луны", description: "Увертюра и региональные главы «Песни полой луны» в Нод-Крае." },
+    { id: "snezhnaya", title: "Снежная", chapter: "Снежная", description: "Сюжетные главы Снежной, когда они будут добавлены в архив." },
+    { id: "twins", title: "Задания Близнецов", chapter: "История Близнецов", description: "Встречи с Дайнслейфом, Каэнри’ах и поиски Близнеца — независимо от региона." },
+    { id: "interlude", title: "Промежуточный том", chapter: "Промежуточный том", description: "Самостоятельные главы Промежуточного тома." },
+    { id: "other", title: "Другие главы", chapter: "Задания Архонтов", description: "Новые главы, которые пока не отнесены к основным сюжетным сборкам." },
+  ];
+
+  function archonCollectionFor(item) {
+    if (item?.story_group !== "archon_quests") return "";
+    const manual = String(item?.archon_collection || "").trim();
+    if (manual && archonCollectionDefinition(manual)) return manual;
+    const chapter = String(item.chapter_num?.ru || "");
+    if (chapter.startsWith("Промежуточный том")) return "interlude";
+    if (chapter.startsWith("Песня полой луны")) {
+      // В игровом журнале IX и X отображаются в Сумеру, хотя цикл называется общим.
+      const journalRegion = String(item.region || "").trim();
+      if (journalRegion === "Сумеру") return "sumeru";
+      if (journalRegion === "Снежная") return "snezhnaya";
+      return "nod-krai";
+    }
+    if (/^Том (?:VI|VII)\./.test(chapter) || chapter.startsWith("Снежная")) return "snezhnaya";
+    const chapterMap = [
+      ["Пролог.", "mondstadt"],
+      ["Том I.", "liyue"],
+      ["Том II.", "inazuma"],
+      ["Том III.", "sumeru"],
+      ["Том IV.", "fontaine"],
+      ["Том V.", "natlan"],
+    ];
+    return chapterMap.find(([prefix]) => chapter.startsWith(prefix))?.[1] || "other";
+  }
+
+  function archonCollectionDefinition(id) {
+    return ARCHON_COLLECTIONS.find(collection => collection.id === id) || null;
+  }
+
+  function romanToNumber(text) {
+    const values = { I: 1, V: 5, X: 10, L: 50 };
+    let total = 0;
+    const source = String(text || "").toUpperCase();
+    for (let i = 0; i < source.length; i += 1) {
+      const value = values[source[i]] || 0;
+      total += value < (values[source[i + 1]] || 0) ? -value : value;
+    }
+    return total;
+  }
+
+  function archonChapterOrder(item) {
+    const en = String(item?.chapter_num?.en || "");
+    if (/Prelude|Prologue|Увертюра/i.test(en)) return 0;
+    // Межглава Натлана появилась между IV и V и должна находиться там же.
+    if (/Interlude|Интерлюдия/i.test(en + " " + String(item?.chapter_num?.ru || ""))) return 4.5;
+    const match = en.match(/Act\s+([IVXL]+)\b/i);
+    const chapter = match ? romanToNumber(match[1]) : 99;
+    const finale = /Финал/i.test(String(item?.title?.ru || "")) ? 0.5 : 0;
+    return chapter + finale;
+  }
 
   const BESTIARY_GROUPS = [
     ["hilichurls", "Хиличурлы", "Племена, шаманы и воины хиличурлов: их разновидности, обычаи и следы утраченной истории."],
@@ -612,7 +690,7 @@
   }
 
   function activeTypeFilters(config = getSectionConfig()) {
-    const filterState = state.filters[config.id];
+    const filterState = catalogFilterState(config);
     const options = typeFiltersForCurrentCatalog(config);
     const allowedValues = options.map(typeFilterOptionValue);
 
@@ -939,7 +1017,9 @@
   const state = {
     section: "home",
     subsection: null,
+    collection: null, // Сборка заданий Архонтов, если открыта.
     entryId: null,
+    storyReturnRoute: null, // Каталог, из которого открыли сюжет (сохраняется при переходе по цепочке).
     lang: "ru",
     volume: 1,
     readAll: false,
@@ -1041,6 +1121,22 @@
     } else {
       window.requestAnimationFrame(syncReaderSectionScrollbars);
     }
+  }
+
+  // Для каждого подраздела Историй — собственные поиск, регион, страница и доп. фильтры.
+  // При переходах между связанными записями исходные настройки не теряются.
+  function catalogFilterState(config = getSectionConfig()) {
+    if (config.id !== "stories") return state.filters[config.id];
+    const root = state.filters.stories;
+    const key = `${state.subsection || "all"}:${state.collection || "all"}`;
+    if (!root.byCatalog) root.byCatalog = Object.create(null);
+    if (!root.byCatalog[key]) {
+      root.byCatalog[key] = {
+        query: "", filter: "all", sort: "version", page: 1, pageSize: 10,
+        typeFiltersByGroup: Object.create(null),
+      };
+    }
+    return root.byCatalog[key];
   }
 
   // src/js/00-core/04-text-and-scroll-utils.js
@@ -1825,6 +1921,9 @@
   }
 
   function catalogBackTarget(config, groupKey = state.subsection) {
+    if (config.id === "stories" && groupKey === "archon_quests" && state.collection) {
+      return { section: "stories", subsection: "archon_quests" };
+    }
     const parent = parentGroupFor(config, groupKey);
     return parent ? { section: config.id, subsection: parent } : { section: config.id, subsection: null };
   }
@@ -1835,16 +1934,22 @@
     return "← Назад к спискам";
   }
 
-  function routeHash(section, entryId = null, subsection = null) {
+  function routeHash(section, entryId = null, subsection = null, collection = null) {
+    if (collection && subsection === "archon_quests" && !entryId) {
+      return `#/${section}/archon_quests/collections/${encodeURIComponent(collection)}`;
+    }
     if (entryId && subsection) return `#/${section}/${subsection}/${entryId}`;
     if (entryId) return `#/${section}/${entryId}`;
     if (subsection) return `#/${section}/${subsection}`;
     return `#/${section}`;
   }
 
-  function setRoute(section, entryId = null, subsection = null) {
+  function setRoute(section, entryId = null, subsection = null, collection = null) {
     const normalizedSection = section === "home" ? "home" : getSectionConfig(section).id;
-    const nextHash = normalizedSection === "home" ? "#/home" : routeHash(normalizedSection, entryId, subsection);
+    const nextHash = normalizedSection === "home" ? "#/home" : routeHash(normalizedSection, entryId, subsection, collection);
+    if (!entryId && state.storyReturnRoute && normalizedSection !== "stories") {
+      state.storyReturnRoute = null;
+    }
 
     closeMenu();
 
@@ -1860,6 +1965,7 @@
     const parts = window.location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
     const section = parts[0] || "home";
     state.subsection = null;
+    state.collection = null;
     state.entryId = null;
 
     if (section === "home") {
@@ -1872,18 +1978,23 @@
 
     if (config.groups && isKnownGroup(config, parts[1])) {
       state.subsection = parts[1];
-      state.entryId = parts[2] || null;
+      if (config.id === "stories" && parts[1] === "archon_quests" && parts[2] === "collections") {
+        const collectionId = parts[3] || "";
+        state.collection = archonCollectionDefinition(collectionId) ? collectionId : null;
+      } else {
+        state.entryId = parts[2] || null;
+      }
     } else {
       state.entryId = parts[1] || null;
     }
   }
 
   function currentRouteKey() {
-    return [state.section || "home", state.subsection || "", state.entryId || ""].join("/");
+    return [state.section || "home", state.subsection || "", state.collection || "", state.entryId || ""].join("/");
   }
 
   function currentCatalogScrollKey() {
-    return [state.section || "home", state.subsection || ""].join("/");
+    return [state.section || "home", state.subsection || "", state.collection || ""].join("/");
   }
 
   function isCatalogRoute() {
@@ -1939,7 +2050,10 @@
   }
 
   function childActive(sectionId, key) {
-    return state.section === sectionId && state.subsection === key;
+    if (state.section !== sectionId) return false;
+    if (state.subsection === key) return true;
+    const section = getSectionConfig(sectionId);
+    return parentGroupFor(section, state.subsection) === key;
   }
 
   function renderNav() {
@@ -2134,13 +2248,14 @@
   }
 
   function filteredEntries(config) {
-    const filterState = state.filters[config.id];
+    const filterState = catalogFilterState(config);
     const query = filterState.query.trim().toLocaleLowerCase("ru-RU");
     const activeTypeSet = typeFiltersForCurrentCatalog(config).length
       ? new Set(activeTypeFilters(config))
       : null;
 
     const rows = collectionForCatalog(config).filter(item => {
+      if (config.id === "stories" && state.subsection === "archon_quests" && state.collection && archonCollectionFor(item) !== state.collection) return false;
       const queryOk = !query || searchableTextForCatalog(item, config).includes(query);
       const filterOk = itemMatchesFilter(item, config, filterState.filter, activeTypeSet);
       return queryOk && filterOk;
@@ -2150,6 +2265,13 @@
       if (filterState.sort === "asc" || filterState.sort === "desc") {
         const result = compareByTitle(a, b);
         return filterState.sort === "asc" ? result : -result;
+      }
+      if (config.id === "stories" && state.subsection === "archon_quests" && state.collection) {
+        if (filterState.sort === "version") {
+          return archonChapterOrder(a) - archonChapterOrder(b)
+            || entrySortVersion(a) - entrySortVersion(b)
+            || compareByTitle(a, b);
+        }
       }
       return compareByGameVersionDesc(a, b);
     });
@@ -2301,6 +2423,14 @@
   }
 
   function renderCatalogCardMeta(item, config) {
+    if (config.id === "stories" && item.story_group === "archon_quests") {
+      const chapter = String(item.chapter_num?.ru || "").trim();
+      const collection = archonCollectionDefinition(archonCollectionFor(item));
+      const region = String(item.region || "").trim();
+      const physicalRegion = region && collection?.title !== region
+        ? `<span class="catalog-card-archon-region">Место действия: ${escapeHtml(region)}</span>` : "";
+      return `<span class="catalog-card-chapter">${escapeHtml(chapter)}</span>${physicalRegion}`;
+    }
     const columns = typeof config.columns === "function" ? config.columns() : config.columns;
     const cells = config.row(item);
 
@@ -2371,8 +2501,60 @@
     `;
   }
 
+  function renderArchonCollections(config) {
+    activeDetail = null;
+    const all = config.data().filter(item => item.story_group === "archon_quests");
+    const cards = ARCHON_COLLECTIONS.map(collection => {
+      const entries = all.filter(item => archonCollectionFor(item) === collection.id);
+      if (!entries.length) return "";
+      const versions = entries.map(item => item.game_version).filter(Boolean);
+      const range = [...new Set(versions)].sort((a, b) => gameVersionSortValue(a) - gameVersionSortValue(b));
+      const versionLabel = range.length ? `Версии ${range[0]}${range.length > 1 ? `–${range[range.length - 1]}` : ""}` : "";
+      return `
+        <button class="archon-collection-card" type="button" data-archon-collection="${escapeHtml(collection.id)}">
+          <span class="archon-collection-chapter">${escapeHtml(collection.chapter)}</span>
+          <span class="archon-collection-title">${escapeHtml(collection.title)}</span>
+          <span class="archon-collection-description">${escapeHtml(collection.description)}</span>
+          <span class="archon-collection-footer"><span>${entries.length} ${entries.length === 1 ? "глава" : "глав"}</span><span>${escapeHtml(versionLabel)}</span></span>
+        </button>
+      `;
+    }).filter(Boolean).join("");
+
+    app.innerHTML = `
+      <section class="page-card archon-collections-page">
+        <div class="archon-collections-intro">
+          <button type="button" class="archon-collections-back" data-group="quest_stories">← Все задания</button>
+          <h1>Задания Архонтов</h1>
+          <p>Главы собраны по разделам игрового журнала. История Близнецов и Промежуточный том вынесены отдельно; название сюжетного цикла и место действия сохранены у каждой главы.</p>
+        </div>
+        <div class="archon-collections-grid">${cards}</div>
+      </section>
+    `;
+  }
+
+  function renderQuestCategoryNavigation() {
+    if (state.section !== "stories" || state.subsection !== "quest_stories") return "";
+    return `
+      <nav class="quest-category-nav" aria-label="Перейти к типу заданий">
+        ${STORY_CHILD_GROUPS.quest_stories.map(([key, label]) => `<button type="button" data-group="${escapeHtml(key)}">${escapeHtml(label)}</button>`).join("")}
+      </nav>`;
+  }
+
+  function renderArchonCollectionHeader() {
+    if (state.section !== "stories" || state.subsection !== "archon_quests" || !state.collection) return "";
+    const album = archonCollectionDefinition(state.collection);
+    if (!album) return "";
+    return `
+      <div class="archon-collection-head">
+        <button class="archon-collections-back" type="button" data-group="archon_quests">← Все сборки</button>
+        <span class="archon-collection-chapter">${escapeHtml(album.chapter)}</span>
+        <h1>${escapeHtml(album.title)}</h1>
+        <p>${escapeHtml(album.description)}</p>
+      </div>`;
+  }
+
   function catalogPageSize(config) {
-    const value = Number(state.filters[config.id]?.pageSize);
+    const value = Number(catalogFilterState(config)?.pageSize);
     return [10, 25, 50].includes(value) ? value : DEFAULT_CATALOG_PAGE_SIZE;
   }
 
@@ -2415,7 +2597,7 @@
 
   function renderCatalogTable(config) {
     const allRows = filteredEntries(config);
-    const filterState = state.filters[config.id];
+    const filterState = catalogFilterState(config);
     const pageSize = catalogPageSize(config);
     const totalPages = Math.max(1, Math.ceil(allRows.length / pageSize));
     const currentPage = Math.min(Math.max(1, Number(filterState.page) || 1), totalPages);
@@ -2433,7 +2615,7 @@
 
 
   function hasActiveCatalogFilters(config = currentCatalogConfig()) {
-    const filterState = state.filters[config.id];
+    const filterState = catalogFilterState(config);
     return Boolean(
       filterState.filter !== "all" ||
       activeTypeFilters(config).length
@@ -2445,7 +2627,7 @@
   }
 
   function resetCatalogFilters(config = currentCatalogConfig()) {
-    const filterState = state.filters[config.id];
+    const filterState = catalogFilterState(config);
     filterState.filter = "all";
     filterState.page = 1;
     if (config.id === "items" || config.id === "stories") {
@@ -2466,15 +2648,17 @@
 
   function renderCatalog(config) {
     activeDetail = null;
-    const filterState = state.filters[config.id];
+    const filterState = catalogFilterState(config);
     const options = optionsFor(config);
     const allowedFilters = new Set(["all", ...options.map(([value]) => value)]);
     if (!allowedFilters.has(filterState.filter)) {
       filterState.filter = "all";
     }
     const isNestedStoryGroup = config.id === "stories" && Boolean(parentGroupFor(config, state.subsection));
+    const isArchonCollection = config.id === "stories" && state.subsection === "archon_quests" && Boolean(state.collection);
     app.innerHTML = `
-      <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}${isNestedStoryGroup ? " has-parent-group" : ""}">
+      <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}${isNestedStoryGroup ? " has-parent-group" : ""}${isArchonCollection ? " is-archon-collection" : ""}">
+        ${renderArchonCollectionHeader()}
         <div class="catalog-sticky-head">
           <div class="toolbar">
             <div class="catalog-search-bar">
@@ -2512,6 +2696,7 @@
               `;
             })()}
           </div>
+          ${renderQuestCategoryNavigation()}
         </div>
 
         <div id="catalog-holder">${renderCatalogTable(config)}</div>
@@ -2915,7 +3100,15 @@
   }
 
   function renderQuestRelations(story) {
-    const chainIds = Array.isArray(story?.quest_chain) ? story.quest_chain : [];
+    const isArchon = story?.story_group === "archon_quests";
+    const albumId = isArchon ? archonCollectionFor(story) : "";
+    const albumEntries = isArchon ? STORIES
+      .filter(item => item.story_group === "archon_quests" && archonCollectionFor(item) === albumId)
+      .sort((a, b) => archonChapterOrder(a) - archonChapterOrder(b)
+        || entrySortVersion(a) - entrySortVersion(b) || compareByTitle(a, b)) : [];
+    const chainIds = albumEntries.length
+      ? albumEntries.map(item => item.id)
+      : (Array.isArray(story?.quest_chain) ? story.quest_chain : []);
     if (chainIds.length < 2) return "";
 
     const labels = {
@@ -2930,7 +3123,7 @@
       if (!linked) return "";
       const current = String(id) === String(story.id);
       const title = titleOf(linked, state.lang) || String(id);
-      const version = linked.game_version ? `<span class="quest-chain-version">${escapeHtml(linked.game_version)}</span>` : "";
+      const version = linked.game_version ? `<span class="quest-chain-version" title="Версия выхода">v${escapeHtml(linked.game_version)}</span>` : "";
       const body = `<span class="quest-chain-number">${index + 1}</span><span class="quest-chain-title">${escapeHtml(title)}</span>${version}${current ? `<span class="quest-chain-current">${escapeHtml(label.current)}</span>` : ""}`;
       return current
         ? `<div class="quest-chain-link is-current" aria-current="page">${body}</div>`
@@ -3086,11 +3279,20 @@
     return getSectionConfig();
   }
 
-  function currentFilterState() {
-    return state.filters[currentCatalogConfig().id];
+  function rememberStoryCatalogOrigin(sectionId) {
+    if (sectionId === "stories" && !state.entryId) {
+      state.storyReturnRoute = { subsection: state.subsection, collection: state.collection };
+    }
   }
 
-  const debouncedCatalogUpdate = debounce(() => updateCatalogTable(currentCatalogConfig()));
+  function currentFilterState() {
+    return catalogFilterState(currentCatalogConfig());
+  }
+
+  const debouncedCatalogUpdate = debounce((sectionId, subsection, collection) => {
+    if (state.section !== sectionId || state.subsection !== subsection || state.collection !== collection) return;
+    updateCatalogTable(getSectionConfig(sectionId));
+  });
 
   function renderActiveDetail() {
     if (!activeDetail) {
@@ -3167,7 +3369,20 @@
 
     if (event.target.closest("#back-section")) {
       const config = activeDetail ? getSectionConfig(activeDetail.configId || state.section) : currentCatalogConfig();
-      setRoute(config.id, null, state.subsection);
+      if (config.id === "stories" && state.storyReturnRoute) {
+        const target = state.storyReturnRoute;
+        setRoute("stories", null, target.subsection, target.collection);
+      } else if (config.id === "stories" && activeDetail?.data?.story_group === "archon_quests") {
+        setRoute("stories", null, "archon_quests", archonCollectionFor(activeDetail.data));
+      } else {
+        setRoute(config.id, null, state.subsection);
+      }
+      return;
+    }
+
+    const archonCollectionButton = event.target.closest("[data-archon-collection]");
+    if (archonCollectionButton) {
+      setRoute("stories", null, "archon_quests", archonCollectionButton.dataset.archonCollection);
       return;
     }
 
@@ -3272,6 +3487,7 @@
     const row = event.target.closest("[data-entry-id]");
     if (row && !event.target.closest("button, a, input, select, label")) {
       const sectionId = row.dataset.sectionId || currentCatalogConfig().id;
+      rememberStoryCatalogOrigin(sectionId);
       setRoute(sectionId, row.dataset.entryId, state.subsection);
     }
   }
@@ -3281,6 +3497,7 @@
     if (!row || (event.key !== "Enter" && event.key !== " ")) return;
     event.preventDefault();
     const sectionId = row.dataset.sectionId || currentCatalogConfig().id;
+    rememberStoryCatalogOrigin(sectionId);
     setRoute(sectionId, row.dataset.entryId, state.subsection);
   }
 
@@ -3296,12 +3513,12 @@
     filterState.query = event.target.value;
     filterState.page = 1;
     document.getElementById("clear-search")?.classList.toggle("visible", Boolean(filterState.query));
-    debouncedCatalogUpdate();
+    debouncedCatalogUpdate(state.section, state.subsection, state.collection);
   }
 
   function handleAppChange(event) {
     const config = currentCatalogConfig();
-    const filterState = state.filters[config.id];
+    const filterState = catalogFilterState(config);
 
     if (event.target.matches("#catalog-filter")) {
       filterState.filter = event.target.value;
@@ -3463,6 +3680,12 @@
     if (state.entryId) {
       renderLoading("Открываю запись…");
       try {
+        if (config.id === "stories") {
+          // Переход по прямой ссылке тоже должен подгрузить индекс для списка связанных глав.
+          const sourceGroup = state.subsection || "quest_stories";
+          await loadCatalogData(config, sourceGroup);
+          if (sequence !== renderSequence) return;
+        }
         const item = await getGenericDetail(config.id, state.entryId);
         if (sequence !== renderSequence) return;
         if (config.id === "items" && isEnemyDropEntry(item)) {
@@ -3481,7 +3704,11 @@
       return;
     }
 
-    renderCatalog(config);
+    if (config.id === "stories" && state.subsection === "archon_quests" && !state.collection) {
+      renderArchonCollections(config);
+    } else {
+      renderCatalog(config);
+    }
     markRouteRendered(routeKey, routeChanged);
   }
 
@@ -3587,8 +3814,16 @@
       observer.observe(railEl);
     }
     if ("MutationObserver" in window) {
-      const observer = new MutationObserver(update);
-      observer.observe(scrollEl, { childList: true, subtree: true, characterData: true });
+      let pending = false;
+      const observer = new MutationObserver(() => {
+        if (pending) return;
+        pending = true;
+        requestAnimationFrame(() => {
+          pending = false;
+          update();
+        });
+      });
+      observer.observe(scrollEl, { childList: true, subtree: true });
     }
     update();
     return update;

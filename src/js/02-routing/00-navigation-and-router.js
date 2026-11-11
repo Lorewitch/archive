@@ -80,6 +80,9 @@ function storyGroupLabel(key) {
 }
 
 function catalogBackTarget(config, groupKey = state.subsection) {
+  if (config.id === "stories" && groupKey === "archon_quests" && state.collection) {
+    return { section: "stories", subsection: "archon_quests" };
+  }
   const parent = parentGroupFor(config, groupKey);
   return parent ? { section: config.id, subsection: parent } : { section: config.id, subsection: null };
 }
@@ -90,16 +93,22 @@ function catalogBackLabel(config, groupKey = state.subsection) {
   return "← Назад к спискам";
 }
 
-function routeHash(section, entryId = null, subsection = null) {
+function routeHash(section, entryId = null, subsection = null, collection = null) {
+  if (collection && subsection === "archon_quests" && !entryId) {
+    return `#/${section}/archon_quests/collections/${encodeURIComponent(collection)}`;
+  }
   if (entryId && subsection) return `#/${section}/${subsection}/${entryId}`;
   if (entryId) return `#/${section}/${entryId}`;
   if (subsection) return `#/${section}/${subsection}`;
   return `#/${section}`;
 }
 
-function setRoute(section, entryId = null, subsection = null) {
+function setRoute(section, entryId = null, subsection = null, collection = null) {
   const normalizedSection = section === "home" ? "home" : getSectionConfig(section).id;
-  const nextHash = normalizedSection === "home" ? "#/home" : routeHash(normalizedSection, entryId, subsection);
+  const nextHash = normalizedSection === "home" ? "#/home" : routeHash(normalizedSection, entryId, subsection, collection);
+  if (!entryId && state.storyReturnRoute && normalizedSection !== "stories") {
+    state.storyReturnRoute = null;
+  }
 
   closeMenu();
 
@@ -115,6 +124,7 @@ function parseHash() {
   const parts = window.location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
   const section = parts[0] || "home";
   state.subsection = null;
+  state.collection = null;
   state.entryId = null;
 
   if (section === "home") {
@@ -127,18 +137,23 @@ function parseHash() {
 
   if (config.groups && isKnownGroup(config, parts[1])) {
     state.subsection = parts[1];
-    state.entryId = parts[2] || null;
+    if (config.id === "stories" && parts[1] === "archon_quests" && parts[2] === "collections") {
+      const collectionId = parts[3] || "";
+      state.collection = archonCollectionDefinition(collectionId) ? collectionId : null;
+    } else {
+      state.entryId = parts[2] || null;
+    }
   } else {
     state.entryId = parts[1] || null;
   }
 }
 
 function currentRouteKey() {
-  return [state.section || "home", state.subsection || "", state.entryId || ""].join("/");
+  return [state.section || "home", state.subsection || "", state.collection || "", state.entryId || ""].join("/");
 }
 
 function currentCatalogScrollKey() {
-  return [state.section || "home", state.subsection || ""].join("/");
+  return [state.section || "home", state.subsection || "", state.collection || ""].join("/");
 }
 
 function isCatalogRoute() {
@@ -194,7 +209,10 @@ function menuChildren(section) {
 }
 
 function childActive(sectionId, key) {
-  return state.section === sectionId && state.subsection === key;
+  if (state.section !== sectionId) return false;
+  if (state.subsection === key) return true;
+  const section = getSectionConfig(sectionId);
+  return parentGroupFor(section, state.subsection) === key;
 }
 
 function renderNav() {

@@ -5,7 +5,9 @@ const expandedMenuSections = new Set();
 const state = {
   section: "home",
   subsection: null,
+  collection: null, // Сборка заданий Архонтов, если открыта.
   entryId: null,
+  storyReturnRoute: null, // Каталог, из которого открыли сюжет (сохраняется при переходе по цепочке).
   lang: "ru",
   volume: 1,
   readAll: false,
@@ -107,4 +109,20 @@ function syncCustomScrollbarsSoon() {
   } else {
     window.requestAnimationFrame(syncReaderSectionScrollbars);
   }
+}
+
+// Для каждого подраздела Историй — собственные поиск, регион, страница и доп. фильтры.
+// При переходах между связанными записями исходные настройки не теряются.
+function catalogFilterState(config = getSectionConfig()) {
+  if (config.id !== "stories") return state.filters[config.id];
+  const root = state.filters.stories;
+  const key = `${state.subsection || "all"}:${state.collection || "all"}`;
+  if (!root.byCatalog) root.byCatalog = Object.create(null);
+  if (!root.byCatalog[key]) {
+    root.byCatalog[key] = {
+      query: "", filter: "all", sort: "version", page: 1, pageSize: 10,
+      typeFiltersByGroup: Object.create(null),
+    };
+  }
+  return root.byCatalog[key];
 }

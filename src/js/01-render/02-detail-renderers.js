@@ -386,7 +386,15 @@ function renderStoryTextArea(story) {
 }
 
 function renderQuestRelations(story) {
-  const chainIds = Array.isArray(story?.quest_chain) ? story.quest_chain : [];
+  const isArchon = story?.story_group === "archon_quests";
+  const albumId = isArchon ? archonCollectionFor(story) : "";
+  const albumEntries = isArchon ? STORIES
+    .filter(item => item.story_group === "archon_quests" && archonCollectionFor(item) === albumId)
+    .sort((a, b) => archonChapterOrder(a) - archonChapterOrder(b)
+      || entrySortVersion(a) - entrySortVersion(b) || compareByTitle(a, b)) : [];
+  const chainIds = albumEntries.length
+    ? albumEntries.map(item => item.id)
+    : (Array.isArray(story?.quest_chain) ? story.quest_chain : []);
   if (chainIds.length < 2) return "";
 
   const labels = {
@@ -401,7 +409,7 @@ function renderQuestRelations(story) {
     if (!linked) return "";
     const current = String(id) === String(story.id);
     const title = titleOf(linked, state.lang) || String(id);
-    const version = linked.game_version ? `<span class="quest-chain-version">${escapeHtml(linked.game_version)}</span>` : "";
+    const version = linked.game_version ? `<span class="quest-chain-version" title="Версия выхода">v${escapeHtml(linked.game_version)}</span>` : "";
     const body = `<span class="quest-chain-number">${index + 1}</span><span class="quest-chain-title">${escapeHtml(title)}</span>${version}${current ? `<span class="quest-chain-current">${escapeHtml(label.current)}</span>` : ""}`;
     return current
       ? `<div class="quest-chain-link is-current" aria-current="page">${body}</div>`

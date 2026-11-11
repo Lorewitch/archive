@@ -118,6 +118,12 @@ async function render() {
   if (state.entryId) {
     renderLoading("Открываю запись…");
     try {
+      if (config.id === "stories") {
+        // Переход по прямой ссылке тоже должен подгрузить индекс для списка связанных глав.
+        const sourceGroup = state.subsection || "quest_stories";
+        await loadCatalogData(config, sourceGroup);
+        if (sequence !== renderSequence) return;
+      }
       const item = await getGenericDetail(config.id, state.entryId);
       if (sequence !== renderSequence) return;
       if (config.id === "items" && isEnemyDropEntry(item)) {
@@ -136,7 +142,11 @@ async function render() {
     return;
   }
 
-  renderCatalog(config);
+  if (config.id === "stories" && state.subsection === "archon_quests" && !state.collection) {
+    renderArchonCollections(config);
+  } else {
+    renderCatalog(config);
+  }
   markRouteRendered(routeKey, routeChanged);
 }
 

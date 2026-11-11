@@ -78,8 +78,16 @@ function setupCustomScrollbar(scrollEl, railEl, thumbEl) {
     observer.observe(railEl);
   }
   if ("MutationObserver" in window) {
-    const observer = new MutationObserver(update);
-    observer.observe(scrollEl, { childList: true, subtree: true, characterData: true });
+    let pending = false;
+    const observer = new MutationObserver(() => {
+      if (pending) return;
+      pending = true;
+      requestAnimationFrame(() => {
+        pending = false;
+        update();
+      });
+    });
+    observer.observe(scrollEl, { childList: true, subtree: true });
   }
   update();
   return update;

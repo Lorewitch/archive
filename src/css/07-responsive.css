@@ -833,3 +833,17 @@ html.is-mobile-landscape .app,
 html.is-mobile-landscape .content {
   max-width: none;
 }
+
+/* Архив заданий Архонтов и портреты историй персонажей. */
+@media (max-width: 740px) {
+  .archon-collections-grid { grid-template-columns: 1fr; }
+  .archon-collection-card { padding: 18px; }
+  .catalog-card--character-story { grid-template-columns: 94px minmax(0, 1fr); }
+  .catalog-card--character-story .catalog-card-media { width: 90px; height: 90px; }
+  .catalog-card--character-story .catalog-card-img.is-person { width: 86px; height: 86px; max-width: 86px; max-height: 86px; }
+}
+@media (max-width: 380px) {
+  .catalog-card--character-story { grid-template-columns: 78px minmax(0, 1fr); }
+  .catalog-card--character-story .catalog-card-media { width: 76px; height: 76px; }
+  .catalog-card--character-story .catalog-card-img.is-person { width: 73px; height: 73px; max-width: 73px; max-height: 73px; }
+}

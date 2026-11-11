@@ -1063,6 +1063,11 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
             entry["part_count"] = len(story_parts)
         if entry["story_group"] in {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}:
             entry["source_id"] = int_from_meta(meta, "source_id", None)
+            # Optional manual collection membership, useful for cross-region chapters
+            # and the Twins; region and quest_series remain independent metadata.
+            collection_override = meta.get("archon_collection", "").strip()
+            if collection_override:
+                entry["archon_collection"] = collection_override
             entry["chapter_num"] = {
                 "ru": meta.get("chapter_num_ru", "").strip(),
                 "en": meta.get("chapter_num_en", "").strip(),
@@ -1380,6 +1385,7 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "story_group": story_group,
         "category_type": story_group,
         "display_category": item.get("display_category", ""),
+        **({"archon_collection": item["archon_collection"]} if item.get("archon_collection") else {}),
         "element": item.get("element", ""),
         "elements": item.get("elements", []),
         "character_filters": character_filters,

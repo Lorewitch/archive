@@ -1,5 +1,6 @@
 # id: quest_aq_1104
 # story_group: archon_quests
+# archon_collection: twins
 # display_category: Задание Архонтов · Близнецы
 # icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Мы встретимся снова

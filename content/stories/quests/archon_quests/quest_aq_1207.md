@@ -1,6 +1,6 @@
 # id: quest_aq_1207
 # story_group: archon_quests
-# display_category: Задание Архонтов · Ли Юэ
+# display_category: Задание Архонтов · Промежуточный том
 # icon: assets/icons/stories/quests/roguelikediary.webp
 # title_ru: Опасная тропа
 # title_en: Perilous Trail

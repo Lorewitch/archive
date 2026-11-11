@@ -70,11 +70,12 @@ async function fetchJson(path) {
 }
 
 async function fetchOptionalJson(path) {
-  try {
-    return await fetchJson(path);
-  } catch (_) {
-    return [];
-  }
+  // Только отсутствие файла допустимо (например, пустая категория).
+  // Сетевые ошибки и повреждённый JSON не должны маскироваться под пустые данные.
+  const response = await fetch(versionedDataPath(path));
+  if (response.status === 404) return [];
+  if (!response.ok) throw new Error(`Не удалось загрузить ${path}: ${response.status}`);
+  return response.json();
 }
 
 function normalizeList(data, fallbackKey) {
@@ -110,22 +111,31 @@ function catalogIndexPath(config, subsection = state.subsection) {
 
 async function loadCatalogData(config, subsection = state.subsection) {
   const key = catalogCacheKey(config, subsection);
-  if (CATALOG_CACHE.has(key)) {
-    assignSectionData(config.id, CATALOG_CACHE.get(key));
-    return;
+  let rows = CATALOG_CACHE.get(key);
+
+  if (!rows) {
+    let load = CATALOG_LOADS.get(key);
+    if (!load) {
+      load = fetchOptionalJson(catalogIndexPath(config, subsection))
+        .then(data => {
+          const list = normalizeList(data, config.id);
+          CATALOG_CACHE.set(key, list);
+          return list;
+        })
+        .finally(() => CATALOG_LOADS.delete(key));
+      CATALOG_LOADS.set(key, load);
+    }
+    rows = await load;
   }
-  if (CATALOG_LOADS.has(key)) return CATALOG_LOADS.get(key);
 
-  const promise = fetchOptionalJson(catalogIndexPath(config, subsection))
-    .then(data => {
-      const list = normalizeList(data, config.id);
-      CATALOG_CACHE.set(key, list);
-      assignSectionData(config.id, list);
-    })
-    .finally(() => CATALOG_LOADS.delete(key));
-
-  CATALOG_LOADS.set(key, promise);
-  return promise;
+  // Только текущий маршрут может менять активную коллекцию.
+  // Иначе отставший запрос прежней категории подменит данные после перехода.
+  const activeSubsection = config.id === "stories" && state.entryId && !state.subsection
+    ? "quest_stories" : state.subsection;
+  if (state.section === config.id && catalogCacheKey(config, activeSubsection) === key) {
+    assignSectionData(config.id, rows);
+  }
+  return rows;
 }
 
 async function getBookById(id) {
