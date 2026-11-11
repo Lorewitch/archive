@@ -1,6 +1,6 @@
 # id: quest_wq_2082
 # story_group: world_quests
-# display_category: Уроки Ведьм · Сахароза
+# display_category: Уроки ведьм · Сахароза
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Цветы из сказочной страны
 # title_en: Witch's Homework: Of Wonderland Flowers
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 10009
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_2082
 # quest_series: Witch's Homework
 # version_source: verified_override
+
+# quest_subject_ru: Сахароза
+
+# quest_collections: witch_homework
+
+# quest_series_ru: Уроки ведьм
 
 ## RU
 

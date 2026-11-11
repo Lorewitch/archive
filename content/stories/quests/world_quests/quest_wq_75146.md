@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 75146
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75146
 # quest_series:
 # version_source: wiki_release_category

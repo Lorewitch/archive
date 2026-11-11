@@ -20,6 +20,8 @@
 # quest_series: Lost Traveler in the Ashen Realm
 # version_source: wiki_release_category
 
+# quest_series_ru: Потерянный путешественник в царстве пепла
+
 ## RU
 
 ### Приключение в Царстве туманов

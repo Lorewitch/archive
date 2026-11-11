@@ -23,7 +23,7 @@
 
 ## RU
 
-### Без названия 5027
+### Дополнительный диалог — Разговор о Шбаланке
 
 
 **Муалани:** Восхищаюсь Пиро Архонтом! Она такая храбрая! Не побоялась помериться силами с великим Шбаланке!
@@ -1938,7 +1938,7 @@
 
 ## EN
 
-### Untitled 5027
+### Additional dialogue — Conversation about Xbalanque
 
 
 **Mualani:** Whoa, our Archon really is amazing! And super brave, too. She even went toe to toe with Lord Xbalanque!
@@ -3853,7 +3853,7 @@ Did you ever falter, or wonder if you might lose to him, even for a second?
 
 ## ZH
 
-### 未命名 5027
+### 补充对话——谈论修巴兰克
 
 
 **玛拉妮:** 火神大人真厉害！而且很有勇气，敢和希巴拉克大人过招。

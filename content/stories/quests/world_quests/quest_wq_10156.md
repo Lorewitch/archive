@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 74030,74031,74032,74033,74061,74062,74063,74064,74065,74066,74067,74068
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10156
 # quest_series:
 # version_source: wiki_release_category

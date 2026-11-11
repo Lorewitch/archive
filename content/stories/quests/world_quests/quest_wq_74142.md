@@ -15,10 +15,12 @@
 # part_source_ids: 74142
 # previous_quests: quest_wq_74141
 # next_quests: 
-# related_quests: 
+# related_quests:
 # quest_chain: quest_wq_74142
-# quest_series:
+# quest_series: Pursuit
 # version_source: wiki_release_category
+
+# quest_series_ru: Погоня
 
 ## RU
 

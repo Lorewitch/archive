@@ -17,8 +17,10 @@
 # next_quests: quest_wq_74142
 # related_quests: 
 # quest_chain: quest_wq_74141
-# quest_series:
+# quest_series: Pursuit
 # version_source: wiki_release_category
+
+# quest_series_ru: Погоня
 
 ## RU
 

@@ -1,10 +1,10 @@
 # id: quest_wq_1105
 # story_group: world_quests
-# display_category: Задание мира · Мондштадт
-# icon: assets/icons/stories/quests/traveler.webp
-# title_ru: Дайнслейф
-# title_en: Dainsleif
-# title_zh: 戴因斯雷布
+# display_category: Задание мира · История Близнецов
+# icon: assets/icons/stories/quests/world.webp
+# title_ru: Хранитель ветви: Дайнслейф
+# title_en: Bough Keeper: Dainsleif
+# title_zh: 拾枝者·戴因斯雷布
 # region: Мондштадт
 # game_version: 1.3
 # release_versions: 1.3
@@ -19,6 +19,8 @@
 # quest_chain: quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104
 # quest_series: I
 # version_source: wiki_release_category
+
+# storyline: twins
 
 ## RU
 

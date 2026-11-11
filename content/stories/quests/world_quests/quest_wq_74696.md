@@ -1,6 +1,6 @@
 # id: quest_wq_74696
 # story_group: world_quests
-# display_category: Задание мира · Фонтейн
+# display_category: Пророчество ведьмы · Ци Ци
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Пророчество ведьмы: Указания причудливой формы
 # title_en: Witch's Revelation: Instruction of Curious Form
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 74696
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74696
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
+
+# quest_subject_ru: Ци Ци
+
+# quest_collections: witch_revelation
+
+# quest_series_ru: Пророчество ведьмы
 
 ## RU
 

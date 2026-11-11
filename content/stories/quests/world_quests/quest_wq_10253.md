@@ -1,6 +1,6 @@
 # id: quest_wq_10253
 # story_group: world_quests
-# display_category: Уроки Ведьм · Николь
+# display_category: Уроки ведьм · Лоэн
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: О различных врагах
 # title_en: Witch's Homework: Of Various Foes
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 70096
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10253
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
+
+# quest_subject_ru: Лоэн
+
+# quest_collections: witch_homework
+
+# quest_series_ru: Уроки ведьм
 
 ## RU
 

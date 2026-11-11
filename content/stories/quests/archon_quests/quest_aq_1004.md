@@ -14,8 +14,8 @@
 # chapter_num_zh: 间章 第四幕
 # part_source_ids: 600,601,602
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_aq_1004
 # quest_series: Interlude Chapter
 # version_source: wiki_release_category

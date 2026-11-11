@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 76076
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76076
 # quest_series:
 # version_source: verified_override

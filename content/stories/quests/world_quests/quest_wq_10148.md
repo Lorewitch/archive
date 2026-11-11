@@ -20,6 +20,8 @@
 # quest_series: Ann of the Narzissenkreuz
 # version_source: wiki_release_category
 
+# quest_series_ru: Анн из Нарциссенкрейца
+
 ## RU
 
 ### История Анн

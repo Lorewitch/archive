@@ -1,6 +1,6 @@
 # id: quest_wq_2081
 # story_group: world_quests
-# display_category: Уроки Ведьм · Рэйзор
+# display_category: Уроки ведьм · Рэйзор
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Волчата
 # title_en: Witch's Homework: Of the Little Wolf Pack
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 10008
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_2081
 # quest_series: Witch's Homework
 # version_source: verified_override
+
+# quest_subject_ru: Рэйзор
+
+# quest_collections: witch_homework
+
+# quest_series_ru: Уроки ведьм
 
 ## RU
 

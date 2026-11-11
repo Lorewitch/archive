@@ -6,6 +6,23 @@ let WEAPONS = [];
 let ITEMS = [];
 let STORIES = [];
 let ENEMIES = [];
+// Cross-category quest links resolve through one compact shared index, fetched lazily.
+let STORY_REFERENCE_ROWS = null;
+let STORY_REFERENCE_LOAD = null;
+
+async function loadStoryReferences() {
+  if (STORY_REFERENCE_ROWS) return STORY_REFERENCE_ROWS;
+  if (!STORY_REFERENCE_LOAD) {
+    STORY_REFERENCE_LOAD = fetchJson("data/stories_index.json")
+      .then(data => {
+        STORY_REFERENCE_ROWS = normalizeList(data, "stories");
+        return STORY_REFERENCE_ROWS;
+      })
+      .finally(() => { STORY_REFERENCE_LOAD = null; });
+  }
+  return STORY_REFERENCE_LOAD;
+}
+
 const DETAILS = new Map();
 const CATALOG_CACHE = new Map();
 const CATALOG_LOADS = new Map();
@@ -130,8 +147,7 @@ async function loadCatalogData(config, subsection = state.subsection) {
 
   // Только текущий маршрут может менять активную коллекцию.
   // Иначе отставший запрос прежней категории подменит данные после перехода.
-  const activeSubsection = config.id === "stories" && state.entryId && !state.subsection
-    ? "quest_stories" : state.subsection;
+  const activeSubsection = state.subsection;
   if (state.section === config.id && catalogCacheKey(config, activeSubsection) === key) {
     assignSectionData(config.id, rows);
   }

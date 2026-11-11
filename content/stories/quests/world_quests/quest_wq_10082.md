@@ -20,6 +20,8 @@
 # quest_series: Aranyaka
 # version_source: wiki_release_category
 
+# quest_series_ru: Араньяка
+
 ## RU
 
 ### «Здравствуй», «спасибо» и «прощай»

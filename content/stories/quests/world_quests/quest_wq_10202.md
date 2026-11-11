@@ -20,6 +20,8 @@
 # quest_series: Questioning Melusine and Answering Machine
 # version_source: wiki_release_category
 
+# quest_series_ru: Опрос мелюзины и ответ машины
+
 ## RU
 
 ### Вопросы и ответы

@@ -20,6 +20,8 @@
 # quest_series: Nightingale's Song
 # version_source: wiki_release_category
 
+# quest_series_ru: Песнь соловья
+
 ## RU
 
 ### Лёгкая рябь на воде

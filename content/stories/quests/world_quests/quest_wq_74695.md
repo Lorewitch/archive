@@ -1,6 +1,6 @@
 # id: quest_wq_74695
 # story_group: world_quests
-# display_category: Задание мира · Фонтейн
+# display_category: Пророчество ведьмы · Ризли
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Пророчество ведьмы: Указания надзирателя
 # title_en: Witch's Revelation: Warden's Instruction
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 74695
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74695
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
+
+# quest_subject_ru: Ризли
+
+# quest_collections: witch_revelation
+
+# quest_series_ru: Пророчество ведьмы
 
 ## RU
 

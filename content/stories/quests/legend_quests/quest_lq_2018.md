@@ -1220,7 +1220,7 @@
 
 **Ху Тао:** А это значит, что для них стать управляющим ритуального бюро было верным решением, о котором они не пожалели.
 
-### Без названия 11114
+### Дополнительный диалог — Разговор с дядюшкой Мэном
 
 
 **Дядюшка Мэн:** Раз я сюда возвращаться не собираюсь, то хотел бы побыть здесь подольше.
@@ -2428,7 +2428,7 @@ You promised that you'll help us in our search.
 
 **Hu Tao:** This means that becoming the Director of Wangsheng Funeral Parlor was the right decision for them and left them with no regrets.
 
-### Untitled 11114
+### Additional dialogue — Conversation with Uncle Meng
 
 
 **Meng:** Since I don't plan to ever come back here, I'd like to make the most of this opportunity and stay a bit longer.
@@ -3636,7 +3636,7 @@ You promised that you'll help us in our search.
 
 **胡桃:** 那就说明，成为往生堂的堂主，一定是非常正确，而且绝对不会留下遗憾的事。
 
-### 未命名 11114
+### 补充对话——与孟叔交谈
 
 
 **老孟:** 既然以后都不打算回来了，现在我想再多待一会儿。

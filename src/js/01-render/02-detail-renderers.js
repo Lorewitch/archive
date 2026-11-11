@@ -403,7 +403,7 @@ function renderQuestRelations(story) {
     zh: { title: "相关任务链", item: "个任务", current: "当前" },
   };
   const label = labels[state.lang] || labels.ru;
-  const storyById = new Map(STORIES.map(item => [String(item.id), item]));
+  const storyById = new Map([...(STORY_REFERENCE_ROWS || []), ...STORIES].map(item => [String(item.id), item]));
   const items = chainIds.map((id, index) => {
     const linked = storyById.get(String(id));
     if (!linked) return "";

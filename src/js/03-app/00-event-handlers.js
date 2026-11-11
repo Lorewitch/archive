@@ -94,6 +94,13 @@ function handleNavClick(event) {
 }
 
 function handleAppClick(event) {
+  const seriesEntry = event.target.closest("[data-series-entry-id]");
+  if (seriesEntry) {
+    rememberStoryCatalogOrigin("stories");
+    setRoute("stories", seriesEntry.dataset.seriesEntryId, "world_quests");
+    return;
+  }
+
   const enemyToggle = event.target.closest(".enemy-description-toggle");
   if (enemyToggle) {
     const panel = enemyToggle.closest(".enemy-description-panel");
@@ -102,6 +109,11 @@ function handleAppClick(event) {
     rememberEnemyDescriptionState(panel, !isCollapsed);
     enemyToggle.setAttribute("aria-expanded", String(!isCollapsed));
     enemyToggle.textContent = isCollapsed ? "Показать полностью" : "Свернуть";
+    return;
+  }
+
+  if (event.target.closest("[data-story-categories]")) {
+    setRoute("stories");
     return;
   }
 

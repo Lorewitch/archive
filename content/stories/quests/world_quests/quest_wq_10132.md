@@ -20,6 +20,8 @@
 # quest_series: A Long Day in the Mountains
 # version_source: wiki_release_category
 
+# quest_series_ru: Долгий день в горах
+
 ## RU
 
 ### Последний суд

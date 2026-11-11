@@ -48,7 +48,7 @@ QUEST_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests"}
 FORBIDDEN_QUEST_IDS = {"quest_wq_10244"}  # Internal beta/test quest; must not be published.
 KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
 KNOWN_CHARACTER_FILTERS = {"lunar_omen", "witchcraft", "star_blade"}
-KNOWN_QUEST_COLLECTIONS = {"witch_homework"}
+KNOWN_QUEST_COLLECTIONS = {"witch_homework", "witch_revelation"}
 TECHNICAL_TEXT_PATTERN = re.compile(
     r"\{(?:REALNAME|PLAYERAVATAR|MATEAVATAR|RUBY|REGEX|TMPVALUE|ABYSSWAR|NON_BREAK_SPACE|B)(?:[#[(])|\$(?:HIDDEN|UNRELEASED)",
     flags=re.I,
@@ -280,19 +280,6 @@ def check_lazy_category_indexes(indexes: dict[str, list[dict[str, Any]]]) -> Non
             if actual_ids != expected_ids:
                 fail(f"{rel(group_path)}: состав категории не совпадает с полным индексом")
 
-    quest_path = DATA_DIR / "indexes" / "stories" / "quest_stories.json"
-    quest_rows = read_json(quest_path) if quest_path.exists() else None
-    if not isinstance(quest_rows, list):
-        fail(f"{rel(quest_path)}: отсутствует объединённый ленивый индекс заданий")
-    else:
-        expected_ids = {
-            str(item.get("id") or "")
-            for item in indexes.get("stories", [])
-            if item.get("story_group") in QUEST_STORY_GROUPS
-        }
-        actual_ids = {str(item.get("id") or "") for item in quest_rows if isinstance(item, dict)}
-        if actual_ids != expected_ids:
-            fail(f"{rel(quest_path)}: состав объединённого каталога заданий неверен")
 
 
 def check_books(books: dict[str, dict[str, Any]]) -> None:
@@ -605,7 +592,7 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
             unknown_collections = sorted(str(value) for value in quest_collections if str(value) not in KNOWN_QUEST_COLLECTIONS)
             if unknown_collections:
                 fail(f"{owner}: unknown quest collections {', '.join(unknown_collections)}")
-            if "witch_homework" in quest_collections and quest.get("story_group") != "world_quests":
+            if any(value in quest_collections for value in ("witch_homework", "witch_revelation")) and quest.get("story_group") != "world_quests":
                 fail(f"{owner}: Witch's Homework must remain a world-quest collection")
 
         for field in ("previous_quests", "next_quests", "related_quests", "quest_chain"):

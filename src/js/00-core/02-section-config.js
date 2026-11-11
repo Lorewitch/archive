@@ -114,10 +114,8 @@ const SECTIONS = [
     description: "Главный сюжет, задания легенд, ключевые задания мира и истории персонажей — без повторяющихся поручений и временных событий.",
     data: () => STORIES,
     groups: STORY_GROUPS,
-    childGroups: STORY_CHILD_GROUPS,
-    groupParents: STORY_GROUP_PARENT,
     groupField: "story_group",
-    defaultGroup: "quest_stories",
+    defaultGroup: "world_quests",
     filter: "region",
     filterLabel: "Все регионы",
     columns: () => state.subsection === "character_stories"

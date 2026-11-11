@@ -20,6 +20,8 @@
 # quest_series: Moon Gazing
 # version_source: wiki_release_category
 
+# quest_series_ru: Созерцание луны
+
 ## RU
 
 ### Гости со звёзд

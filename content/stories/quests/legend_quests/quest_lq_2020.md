@@ -1264,7 +1264,7 @@
 
 **Чжун Ли:** На твоём пути к тому человеку возникнут преграды. Важно верить, что путь твой правильный, и тогда ничто не потеряет смысл.
 
-### Без названия 11124
+### Дополнительный диалог — Разговор с Чжун Ли об Аждахе
 
 
 **Чжун Ли:** Эту каменную стелу воздвиг Творец Гор. Она называет Аждаху ужасным драконом и служит напоминанием потомкам держаться подальше от этого места... от печати.
@@ -2525,7 +2525,7 @@ Perhaps.
 
 **Zhongli:** If you take the same road as that person, there may be more difficulties ahead. But as long as you firmly believe that you are on the right path... everything has meaning.
 
-### Untitled 11124
+### Additional dialogue — Zhongli on Azhdaha
 
 
 **Zhongli:** This tablet was erected by Mountain Shaper. It names Azhdaha as a terrible dragon, and serves as a warning for later generations to stay away from this place... from the seal.
@@ -3786,7 +3786,7 @@ Perhaps.
 
 **钟离:** 在你走向那个人的路上，也许会有更多困难，但只要你坚信这条路通往「正确」，一切就有意义。
 
-### 未命名 11124
+### 补充对话——钟离谈若陀龙王
 
 
 **钟离:** 此碑由理水叠山真君所立。碑文中称若陀为恶龙，是为提醒后人远离这处封印。

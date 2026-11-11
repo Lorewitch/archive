@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 73014,73015,73016,73017,73018,73060
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10072
 # quest_series:
 # version_source: wiki_release_category
@@ -1387,7 +1387,7 @@
 
 **Арапанду:** Мы встретимся вновь в Ванаране. Желаю (золотой)(золотому) наре хорошо провести время. Да хранит вас Арамухукунда!
 
-### Без названия 73060
+### Дополнительный диалог — Разговор с аранарами
 
 
 **Арапанду:** Аранакула в Монументе ясны, Арабалика в руинах Дахри, а Аракунти в роще Сновидений. Нара Путешественник, Паймон, будьте осторожны.
@@ -2786,7 +2786,7 @@ I hope to see you at Festival Utsava.
 
 **Arapandu:** We will meet again in Vanarana. May you have a carefree time, Golden Nara, and may Aramuhukunda watch over you.
 
-### Untitled 73060
+### Additional dialogue — Conversation with the Aranara
 
 
 **Arapandu:** Aranakula is at the Yasna Monument, Arabalika went to the Ruins of Dahri, and Arakunti is in the Grove of Dreams. Nara Traveler and Paimon must be careful.
@@ -4185,7 +4185,7 @@ I hope to see you at Festival Utsava.
 
 **兰般度:** 我们会再次相见的，在桓那兰那，祝愿金色的那菈度过一段无忧的时光，兰穆护昆达看顾你们。
 
-### 未命名 73060
+### 补充对话——与兰那罗交谈
 
 
 **兰般度:** 兰那库拉在谒颂幽境，兰百梨迦去了荼诃之座，兰贡迪在梦景林莽，那菈旅行者和派蒙也要小心。

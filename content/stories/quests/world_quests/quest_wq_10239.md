@@ -1,6 +1,6 @@
 # id: quest_wq_10239
 # story_group: world_quests
-# display_category: Уроки Ведьм · Николь
+# display_category: Уроки ведьм · Николь
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Роль наставника?..
 # title_en: Witch's Homework: The Role of a Guide...?
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 76159
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10239
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
+
+# quest_subject_ru: Николь
+
+# quest_collections: witch_homework
+
+# quest_series_ru: Уроки ведьм
 
 ## RU
 

@@ -20,6 +20,8 @@
 # quest_series: Sacred Sakura Cleansing Ritual
 # version_source: wiki_release_category
 
+# quest_series_ru: Очищение Священной сакуры
+
 ## RU
 
 ### Очищение от скверны

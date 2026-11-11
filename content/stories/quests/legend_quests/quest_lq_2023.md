@@ -1223,7 +1223,7 @@
 
 **Яэ Мико:** Но ты не принадлежишь этому миру. Возможно, именно такой человек, как ты, ей и нужен.
 
-### Без названия 12019
+### Дополнительный диалог — Разговор с Яэ Мико после истории Эи
 
 
 **Яэ Мико:** Что такое? Ты хочешь поговорить о чём-то ещё?
@@ -2454,7 +2454,7 @@ Will you rule Inazuma directly?
 
 **Yae Miko:** But you don't belong to this world. Perhaps you are just the company she needs.
 
-### Untitled 12019
+### Additional dialogue — Conversation with Yae Miko after Ei’s story
 
 
 **Yae Miko:** Hmm? Was there something else you wanted to talk about?
@@ -3685,7 +3685,7 @@ Will you rule Inazuma directly?
 
 **八重神子:** 但你，不属于此世之人，说不定是很好的选择呢。
 
-### 未命名 12019
+### 补充对话——影的故事之后与八重神子交谈
 
 
 **八重神子:** 怎么了，还想聊点什么吗？

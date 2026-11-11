@@ -20,6 +20,8 @@
 # quest_series: Aranyaka
 # version_source: wiki_release_category
 
+# quest_series_ru: Араньяка
+
 ## RU
 
 ### Мир аранар
@@ -1818,7 +1820,7 @@
 
 **Араканта:** Спасибо! Вот цветочек специально для (золотой)(золотого) нары!
 
-### Без названия 73047
+### Дополнительный диалог — Праздник Утсава: разговор с Араджей
 
 
 **Араджа:** Нара Путешественник, Паймон, а вот и вы. Хе-хе-хе...
@@ -1857,7 +1859,7 @@
 
 **Араджа:** Время нар гораздо ценнее времени аранар. Не буду мешать вам наслаждаться весельем. Позже я бы хотел, чтобы вы отыскали Аракави. Он тоже готовится к церемонии Праздника Утсава.
 
-### Без названия 73048
+### Дополнительный диалог — Праздник Утсава: воспоминания Арамухукунды
 
 
 **Арамухукунда:** Ах, вот это воспоминания. Прошли уже, наверное, сотни лет с тех пор, как последний раз удавалось увидеть такое зрелище... Вам очень повезло вновь увидеть виденную во сне Ванарану.
@@ -1918,7 +1920,7 @@
 
 **Паймон:** Какой странный аранар. Ну ладно, пойдём проверим остальных!
 
-### Без названия 73050
+### Дополнительный диалог — Праздник Утсава: машина Варуны
 
 
 **Арапанду:** Нара Путешественник и Паймон! Благодаря вам с машиной Варуны всё в полном порядке, как и с землёй Ашаван...
@@ -4898,7 +4900,7 @@ Why would the Rishboland Tiger chase Aranara?
 
 **Arakanta:** Thank you, Nara. Here is an Aranara flower for Golden Nara!
 
-### Untitled 73047
+### Additional dialogue — Festival Utsava: Conversation with Araja
 
 
 **Araja:** Nara Traveler, Paimon, we meet again. Hehehe...
@@ -4937,7 +4939,7 @@ Why would the Rishboland Tiger chase Aranara?
 
 **Araja:** Nara time is much more precious than Aranara time, so I will not keep you from enjoying yourselves. Go look for Arakavi later. He is also preparing for the Festival Utsava ceremony.
 
-### Untitled 73048
+### Additional dialogue — Festival Utsava: Aramuhukunda’s memories
 
 
 **Aramuhukunda:** How nostalgic. It's been hundreds of years since I last saw such a sight... It's thanks to you that I could see Vanarana's dreamscape again.
@@ -4998,7 +5000,7 @@ Arana mentioned the power of memory...
 
 **Paimon:** What a strange Aranara! Come on, let's go check on the others!
 
-### Untitled 73050
+### Additional dialogue — Festival Utsava: Varuna Contraption
 
 
 **Arapandu:** Nara Traveler and Paimon! Thanks to your help, the Varuna Contraption is now in good shape, and so is the Ashavan Realm.
@@ -7979,7 +7981,7 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰犍多:** 谢谢你，那菈。兰那罗的花花，送给金色的那菈！
 
-### 未命名 73047
+### 补充对话——无忧节：与兰拉迦交谈
 
 
 **兰拉迦:** 那菈旅行者、派蒙，又见面了。呵呵呵…
@@ -8018,7 +8020,7 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰拉迦:** 那菈的时间比兰那罗珍贵许多，老身便不耽误你们了，尽情享受吧。晚点你们去找找兰加惟，他也在准备无忧节的仪式。
 
-### 未命名 73048
+### 补充对话——无忧节：兰穆护昆达的回忆
 
 
 **兰穆护昆达:** 真怀念哪。上次见到这样的景象，距今已经有数百年了吧…能以这双眼睛，再度看见桓那兰那的梦乡，也是托你们的福。
@@ -8079,7 +8081,7 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **派蒙:** 真是个奇怪的兰那罗呢！不管了，我们去看看别的兰那罗吧！
 
-### 未命名 73050
+### 补充对话——无忧节：法留纳神机
 
 
 **兰般度:** 那菈旅行者还有派蒙！多亏你们帮忙，法留纳神机现在很好，善见地也很好…

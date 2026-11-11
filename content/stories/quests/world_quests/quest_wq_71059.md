@@ -20,6 +20,8 @@
 # quest_series: Lost in a Foreign Land
 # version_source: wiki_release_category
 
+# quest_series_ru: Пропавшая на чужбине
+
 ## RU
 
 ### Пропавшая на чужбине: По следам

@@ -65,8 +65,8 @@ async function render() {
 
   const config = getSectionConfig();
 
-  if (!state.entryId && config.groups && (!state.subsection || (hasChildGroups(config, state.subsection) && !isQuestStoriesCatalog(config)))) {
-    renderGroupSelector(config, state.subsection || "");
+  if (!state.entryId && config.groups && !state.subsection) {
+    renderGroupSelector(config);
     markRouteRendered(routeKey, routeChanged);
     return;
   }
@@ -119,9 +119,9 @@ async function render() {
     renderLoading("Открываю запись…");
     try {
       if (config.id === "stories") {
-        // Переход по прямой ссылке тоже должен подгрузить индекс для списка связанных глав.
-        const sourceGroup = state.subsection || "quest_stories";
-        await loadCatalogData(config, sourceGroup);
+        // Keep both the active catalog and cross-category quest chains available.
+        const sourceGroup = state.subsection;
+        await Promise.all([loadCatalogData(config, sourceGroup), loadStoryReferences()]);
         if (sequence !== renderSequence) return;
       }
       const item = await getGenericDetail(config.id, state.entryId);
@@ -157,6 +157,12 @@ async function init() {
 
 nav.addEventListener("click", handleNavClick);
 app.addEventListener("click", handleAppClick);
+app.addEventListener("toggle", event => {
+  const details = event.target;
+  if (!(details instanceof HTMLDetailsElement) || !details.dataset.worldSeries) return;
+  if (details.open) expandedWorldSeries.add(details.dataset.worldSeries);
+  else expandedWorldSeries.delete(details.dataset.worldSeries);
+}, true);
 app.addEventListener("keydown", handleAppKeydown);
 app.addEventListener("input", handleAppInput);
 app.addEventListener("change", handleAppChange);

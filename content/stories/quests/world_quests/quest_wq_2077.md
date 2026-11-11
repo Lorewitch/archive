@@ -1,6 +1,6 @@
 # id: quest_wq_2077
 # story_group: world_quests
-# display_category: Уроки Ведьм · Барбелот
+# display_category: Уроки ведьм · Мона
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Тест на проницательность
 # title_en: Witch's Homework: Of Untested Insight
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 10004
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_2077
 # quest_series: Witch's Homework
 # version_source: verified_override
+
+# quest_subject_ru: Мона
+
+# quest_collections: witch_homework
+
+# quest_series_ru: Уроки ведьм
 
 ## RU
 

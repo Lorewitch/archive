@@ -1,6 +1,6 @@
 # id: quest_wq_10134
 # story_group: world_quests
-# display_category: Уроки Ведьм · Алиса
+# display_category: Уроки ведьм · Вступительное задание
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Решение
 # title_en: Witch's Homework: Solution
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 70690
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10134
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
+
+# quest_subject_ru: Вступительное задание
+
+# quest_collections: witch_homework
+
+# quest_series_ru: Уроки ведьм
 
 ## RU
 

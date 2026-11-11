@@ -14,8 +14,8 @@
 # chapter_num_zh: 间章 第一幕
 # part_source_ids: 11009,11013,11014,11015,11017
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_aq_1205
 # quest_series: Interlude || Interlude Chapter
 # version_source: wiki_release_category
@@ -1676,7 +1676,7 @@
 
 **Шэнь Хэ:** Мне очень приятно с вами познакомиться.
 
-### Без названия 11017
+### Дополнительный диалог — Разговор с Бай Вэнь в Нефритовом дворце
 
 
 **Бай Вэнь:** Хотите подняться в Нефритовый дворец? Тогда следуйте за мной.
@@ -3337,7 +3337,7 @@ It seems she still has a long way to go.
 
 **Shenhe:** I'm sure I have much to learn from you in the future.
 
-### Untitled 11017
+### Additional dialogue — Conversation with Baiwen at the Jade Chamber
 
 
 **Baiwen:** Want to go up to the Jade Chamber? Come with me, then.
@@ -4998,7 +4998,7 @@ It seems she still has a long way to go.
 
 **申鹤:** 今后，也请多关照了。
 
-### 未命名 11017
+### 补充对话——在群玉阁与百闻交谈
 
 
 **百闻:** 要去群玉阁吗？跟我来吧。

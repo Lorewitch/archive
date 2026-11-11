@@ -1,6 +1,7 @@
 // Состояние интерфейса и ссылки на основные DOM-узлы.
 
 const expandedMenuSections = new Set();
+const expandedWorldSeries = new Set();
 
 const state = {
   section: "home",
@@ -42,8 +43,7 @@ const state = {
       page: 1,
       pageSize: 10,
       typeFiltersByGroup: {
-        character_stories: [],
-        quest_stories: []
+        character_stories: []
       }
     }
   }

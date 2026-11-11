@@ -1,6 +1,6 @@
 # id: quest_wq_74692
 # story_group: world_quests
-# display_category: Задание мира · Фонтейн
+# display_category: Пророчество ведьмы · Диона
 # icon: assets/icons/stories/quests/world.webp
 # title_ru: Пророчество ведьмы: Указания фирменного коктейля
 # title_en: Witch's Revelation: Special Blend's Instruction
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 74692
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74692
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
+
+# quest_subject_ru: Диона
+
+# quest_collections: witch_revelation
+
+# quest_series_ru: Пророчество ведьмы
 
 ## RU
 

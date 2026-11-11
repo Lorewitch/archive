@@ -14,8 +14,8 @@
 # chapter_num_zh: 间章 第三幕
 # part_source_ids: 3029,3030,3031,3032
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_aq_1307
 # quest_series: Interlude || Interlude Chapter
 # version_source: wiki_release_category

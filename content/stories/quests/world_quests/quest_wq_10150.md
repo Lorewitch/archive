@@ -20,6 +20,8 @@
 # quest_series: Ancient Colors
 # version_source: wiki_release_category
 
+# quest_series_ru: Древние цвета
+
 ## RU
 
 ### Собирается дождь

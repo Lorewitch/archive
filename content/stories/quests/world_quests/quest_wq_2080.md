@@ -1,6 +1,6 @@
 # id: quest_wq_2080
 # story_group: world_quests
-# display_category: Уроки Ведьм · Венти
+# display_category: Уроки ведьм · Венти
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Пробуждение ветра
 # title_en: Witch's Homework: Of the Waking of Wind
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 10007
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_2080
 # quest_series: Witch's Homework
 # version_source: verified_override
+
+# quest_subject_ru: Венти
+
+# quest_collections: witch_homework
+
+# quest_series_ru: Уроки ведьм
 
 ## RU
 

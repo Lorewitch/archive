@@ -20,6 +20,8 @@
 # quest_series: Valor's Afterglow
 # version_source: wiki_release_category
 
+# quest_series_ru: Отблески храбрости
+
 ## RU
 
 ### Отблески храбрости

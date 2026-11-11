@@ -15,7 +15,7 @@
 # part_source_ids: 75000,75002,75019
 # previous_quests: quest_aq_1500
 # next_quests: 
-# related_quests: 
+# related_quests:
 # quest_chain: quest_wq_10203
 # quest_series: Between Pledge and Forgettance
 # version_source: wiki_release_category

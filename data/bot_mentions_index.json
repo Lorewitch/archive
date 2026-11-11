@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": "bot_mentions:023237cfc7f0",
-  "generated_by": "tools/build_bot_mentions_index.py",
+  "version": "bot_mentions:92248ac57802",
+  "generated_by": "tools/prune_bot_index.py",
   "description": "Compact search/mention index for Alter Lunna Telegram bot. Contains display data, contextual passive phrases, active-search relations and small prebuilt lookups; no full archive texts.",
   "public_sections": [
     "books",
@@ -15,9 +15,9 @@
     "artifacts": 61,
     "weapons": 234,
     "items": 251,
-    "stories": 389
+    "stories": 385
   },
-  "entry_count": 1040,
+  "entry_count": 1036,
   "entries": [
     {
       "key": "artifacts:gambler",
@@ -34800,93 +34800,6 @@
       ]
     },
     {
-      "key": "stories:quest_wq_73246",
-      "section": "stories",
-      "id": "quest_wq_73246",
-      "type_label": "История",
-      "emoji": "👤",
-      "title": {
-        "ru": "Кулинарная мечта",
-        "en": "An Unwavering Culinary Dream",
-        "zh": "愿为一炊之梦"
-      },
-      "primary_title": "Кулинарная мечта",
-      "route": "#/stories/world_quests/quest_wq_73246",
-      "button_text": "👤 Кулинарная мечта",
-      "priority": 50,
-      "names": [
-        "Кулинарная мечта",
-        "An Unwavering Culinary Dream",
-        "愿为一炊之梦"
-      ],
-      "aliases": [],
-      "source_tags": [],
-      "tags": [
-        "An Unwavering Culinary Dream",
-        "Кулинарная мечта",
-        "愿为一炊之梦"
-      ],
-      "related_terms": [
-        "An Unwavering Culinary Dream",
-        "Кулинарная мечта",
-        "愿为一炊之梦"
-      ],
-      "signature_owners": [],
-      "signature_aliases": [],
-      "passive_aliases": [
-        "история Кулинарная мечта",
-        "истории Кулинарная мечта",
-        "историю Кулинарная мечта",
-        "история персонажа Кулинарная мечта",
-        "истории персонажа Кулинарная мечта",
-        "лор Кулинарная мечта",
-        "лоре Кулинарная мечта",
-        "биография Кулинарная мечта",
-        "story Кулинарная мечта",
-        "lore Кулинарная мечта",
-        "история Кулинарная мечты",
-        "истории Кулинарная мечты",
-        "историю Кулинарная мечты",
-        "история персонажа Кулинарная мечты",
-        "истории персонажа Кулинарная мечты",
-        "лор Кулинарная мечты",
-        "лоре Кулинарная мечты",
-        "биография Кулинарная мечты",
-        "story Кулинарная мечты",
-        "lore Кулинарная мечты",
-        "история Кулинарная мечтой",
-        "истории Кулинарная мечтой",
-        "историю Кулинарная мечтой",
-        "история персонажа Кулинарная мечтой",
-        "истории персонажа Кулинарная мечтой",
-        "лор Кулинарная мечтой",
-        "лоре Кулинарная мечтой",
-        "биография Кулинарная мечтой",
-        "story Кулинарная мечтой",
-        "lore Кулинарная мечтой",
-        "история An Unwavering Culinary Dream",
-        "истории An Unwavering Culinary Dream",
-        "историю An Unwavering Culinary Dream",
-        "история персонажа An Unwavering Culinary Dream",
-        "истории персонажа An Unwavering Culinary Dream",
-        "лор An Unwavering Culinary Dream",
-        "лоре An Unwavering Culinary Dream",
-        "биография An Unwavering Culinary Dream",
-        "story An Unwavering Culinary Dream",
-        "lore An Unwavering Culinary Dream",
-        "история 愿为一炊之梦",
-        "истории 愿为一炊之梦",
-        "историю 愿为一炊之梦",
-        "история персонажа 愿为一炊之梦",
-        "истории персонажа 愿为一炊之梦",
-        "лор 愿为一炊之梦",
-        "лоре 愿为一炊之梦",
-        "биография 愿为一炊之梦",
-        "story 愿为一炊之梦",
-        "lore 愿为一炊之梦"
-      ]
-    },
-    {
       "key": "stories:quest_lq_2007",
       "section": "stories",
       "id": "quest_lq_2007",
@@ -38386,93 +38299,6 @@
       ]
     },
     {
-      "key": "stories:quest_wq_71653",
-      "section": "stories",
-      "id": "quest_wq_71653",
-      "type_label": "История",
-      "emoji": "👤",
-      "title": {
-        "ru": "Мы встретились вновь, печальный господин",
-        "en": "We Meet Again, Mr. Melancholy",
-        "zh": "与忧郁先生的再会"
-      },
-      "primary_title": "Мы встретились вновь, печальный господин",
-      "route": "#/stories/world_quests/quest_wq_71653",
-      "button_text": "👤 Мы встретились вновь, печальный господин",
-      "priority": 50,
-      "names": [
-        "Мы встретились вновь, печальный господин",
-        "We Meet Again, Mr. Melancholy",
-        "与忧郁先生的再会"
-      ],
-      "aliases": [],
-      "source_tags": [],
-      "tags": [
-        "We Meet Again, Mr. Melancholy",
-        "Мы встретились вновь, печальный господин",
-        "与忧郁先生的再会"
-      ],
-      "related_terms": [
-        "We Meet Again, Mr. Melancholy",
-        "Мы встретились вновь, печальный господин",
-        "与忧郁先生的再会"
-      ],
-      "signature_owners": [],
-      "signature_aliases": [],
-      "passive_aliases": [
-        "история Мы встретились вновь, печальный господин",
-        "истории Мы встретились вновь, печальный господин",
-        "историю Мы встретились вновь, печальный господин",
-        "история персонажа Мы встретились вновь, печальный господин",
-        "истории персонажа Мы встретились вновь, печальный господин",
-        "лор Мы встретились вновь, печальный господин",
-        "лоре Мы встретились вновь, печальный господин",
-        "биография Мы встретились вновь, печальный господин",
-        "story Мы встретились вновь, печальный господин",
-        "lore Мы встретились вновь, печальный господин",
-        "история Мы встретились вновь, печальный господина",
-        "истории Мы встретились вновь, печальный господина",
-        "историю Мы встретились вновь, печальный господина",
-        "история персонажа Мы встретились вновь, печальный господина",
-        "истории персонажа Мы встретились вновь, печальный господина",
-        "лор Мы встретились вновь, печальный господина",
-        "лоре Мы встретились вновь, печальный господина",
-        "биография Мы встретились вновь, печальный господина",
-        "story Мы встретились вновь, печальный господина",
-        "lore Мы встретились вновь, печальный господина",
-        "история Мы встретились вновь, печальный господином",
-        "истории Мы встретились вновь, печальный господином",
-        "историю Мы встретились вновь, печальный господином",
-        "история персонажа Мы встретились вновь, печальный господином",
-        "истории персонажа Мы встретились вновь, печальный господином",
-        "лор Мы встретились вновь, печальный господином",
-        "лоре Мы встретились вновь, печальный господином",
-        "биография Мы встретились вновь, печальный господином",
-        "story Мы встретились вновь, печальный господином",
-        "lore Мы встретились вновь, печальный господином",
-        "история We Meet Again, Mr. Melancholy",
-        "истории We Meet Again, Mr. Melancholy",
-        "историю We Meet Again, Mr. Melancholy",
-        "история персонажа We Meet Again, Mr. Melancholy",
-        "истории персонажа We Meet Again, Mr. Melancholy",
-        "лор We Meet Again, Mr. Melancholy",
-        "лоре We Meet Again, Mr. Melancholy",
-        "биография We Meet Again, Mr. Melancholy",
-        "story We Meet Again, Mr. Melancholy",
-        "lore We Meet Again, Mr. Melancholy",
-        "история 与忧郁先生的再会",
-        "истории 与忧郁先生的再会",
-        "историю 与忧郁先生的再会",
-        "история персонажа 与忧郁先生的再会",
-        "истории персонажа 与忧郁先生的再会",
-        "лор 与忧郁先生的再会",
-        "лоре 与忧郁先生的再会",
-        "биография 与忧郁先生的再会",
-        "story 与忧郁先生的再会",
-        "lore 与忧郁先生的再会"
-      ]
-    },
-    {
       "key": "stories:quest_aq_1104",
       "section": "stories",
       "id": "quest_aq_1104",
@@ -38845,93 +38671,6 @@
         "биография 飞向归羽声",
         "story 飞向归羽声",
         "lore 飞向归羽声"
-      ]
-    },
-    {
-      "key": "stories:quest_wq_73046",
-      "section": "stories",
-      "id": "quest_wq_73046",
-      "type_label": "История",
-      "emoji": "👤",
-      "title": {
-        "ru": "Найдите и спасите аранара",
-        "en": "Look for and rescue the Aranara",
-        "zh": "寻找并解救兰那罗"
-      },
-      "primary_title": "Найдите и спасите аранара",
-      "route": "#/stories/world_quests/quest_wq_73046",
-      "button_text": "👤 Найдите и спасите аранара",
-      "priority": 50,
-      "names": [
-        "Найдите и спасите аранара",
-        "Look for and rescue the Aranara",
-        "寻找并解救兰那罗"
-      ],
-      "aliases": [],
-      "source_tags": [],
-      "tags": [
-        "Look for and rescue the Aranara",
-        "Найдите и спасите аранара",
-        "寻找并解救兰那罗"
-      ],
-      "related_terms": [
-        "Look for and rescue the Aranara",
-        "Найдите и спасите аранара",
-        "寻找并解救兰那罗"
-      ],
-      "signature_owners": [],
-      "signature_aliases": [],
-      "passive_aliases": [
-        "история Найдите и спасите аранара",
-        "истории Найдите и спасите аранара",
-        "историю Найдите и спасите аранара",
-        "история персонажа Найдите и спасите аранара",
-        "истории персонажа Найдите и спасите аранара",
-        "лор Найдите и спасите аранара",
-        "лоре Найдите и спасите аранара",
-        "биография Найдите и спасите аранара",
-        "story Найдите и спасите аранара",
-        "lore Найдите и спасите аранара",
-        "история Найдите и спасите аранары",
-        "истории Найдите и спасите аранары",
-        "историю Найдите и спасите аранары",
-        "история персонажа Найдите и спасите аранары",
-        "истории персонажа Найдите и спасите аранары",
-        "лор Найдите и спасите аранары",
-        "лоре Найдите и спасите аранары",
-        "биография Найдите и спасите аранары",
-        "story Найдите и спасите аранары",
-        "lore Найдите и спасите аранары",
-        "история Найдите и спасите аранарой",
-        "истории Найдите и спасите аранарой",
-        "историю Найдите и спасите аранарой",
-        "история персонажа Найдите и спасите аранарой",
-        "истории персонажа Найдите и спасите аранарой",
-        "лор Найдите и спасите аранарой",
-        "лоре Найдите и спасите аранарой",
-        "биография Найдите и спасите аранарой",
-        "story Найдите и спасите аранарой",
-        "lore Найдите и спасите аранарой",
-        "история Look for and rescue the Aranara",
-        "истории Look for and rescue the Aranara",
-        "историю Look for and rescue the Aranara",
-        "история персонажа Look for and rescue the Aranara",
-        "истории персонажа Look for and rescue the Aranara",
-        "лор Look for and rescue the Aranara",
-        "лоре Look for and rescue the Aranara",
-        "биография Look for and rescue the Aranara",
-        "story Look for and rescue the Aranara",
-        "lore Look for and rescue the Aranara",
-        "история 寻找并解救兰那罗",
-        "истории 寻找并解救兰那罗",
-        "историю 寻找并解救兰那罗",
-        "история персонажа 寻找并解救兰那罗",
-        "истории персонажа 寻找并解救兰那罗",
-        "лор 寻找并解救兰那罗",
-        "лоре 寻找并解救兰那罗",
-        "биография 寻找并解救兰那罗",
-        "story 寻找并解救兰那罗",
-        "lore 寻找并解救兰那罗"
       ]
     },
     {
@@ -52581,93 +52320,6 @@
         "биография 诡镇之梦",
         "story 诡镇之梦",
         "lore 诡镇之梦"
-      ]
-    },
-    {
-      "key": "stories:quest_wq_73044",
-      "section": "stories",
-      "id": "quest_wq_73044",
-      "type_label": "История",
-      "emoji": "👤",
-      "title": {
-        "ru": "Спасите аранара",
-        "en": "Rescue the Aranara",
-        "zh": "解救兰那罗"
-      },
-      "primary_title": "Спасите аранара",
-      "route": "#/stories/world_quests/quest_wq_73044",
-      "button_text": "👤 Спасите аранара",
-      "priority": 50,
-      "names": [
-        "Спасите аранара",
-        "Rescue the Aranara",
-        "解救兰那罗"
-      ],
-      "aliases": [],
-      "source_tags": [],
-      "tags": [
-        "Rescue the Aranara",
-        "Спасите аранара",
-        "解救兰那罗"
-      ],
-      "related_terms": [
-        "Rescue the Aranara",
-        "Спасите аранара",
-        "解救兰那罗"
-      ],
-      "signature_owners": [],
-      "signature_aliases": [],
-      "passive_aliases": [
-        "история Спасите аранара",
-        "истории Спасите аранара",
-        "историю Спасите аранара",
-        "история персонажа Спасите аранара",
-        "истории персонажа Спасите аранара",
-        "лор Спасите аранара",
-        "лоре Спасите аранара",
-        "биография Спасите аранара",
-        "story Спасите аранара",
-        "lore Спасите аранара",
-        "история Спасите аранары",
-        "истории Спасите аранары",
-        "историю Спасите аранары",
-        "история персонажа Спасите аранары",
-        "истории персонажа Спасите аранары",
-        "лор Спасите аранары",
-        "лоре Спасите аранары",
-        "биография Спасите аранары",
-        "story Спасите аранары",
-        "lore Спасите аранары",
-        "история Спасите аранарой",
-        "истории Спасите аранарой",
-        "историю Спасите аранарой",
-        "история персонажа Спасите аранарой",
-        "истории персонажа Спасите аранарой",
-        "лор Спасите аранарой",
-        "лоре Спасите аранарой",
-        "биография Спасите аранарой",
-        "story Спасите аранарой",
-        "lore Спасите аранарой",
-        "история Rescue the Aranara",
-        "истории Rescue the Aranara",
-        "историю Rescue the Aranara",
-        "история персонажа Rescue the Aranara",
-        "истории персонажа Rescue the Aranara",
-        "лор Rescue the Aranara",
-        "лоре Rescue the Aranara",
-        "биография Rescue the Aranara",
-        "story Rescue the Aranara",
-        "lore Rescue the Aranara",
-        "история 解救兰那罗",
-        "истории 解救兰那罗",
-        "историю 解救兰那罗",
-        "история персонажа 解救兰那罗",
-        "истории персонажа 解救兰那罗",
-        "лор 解救兰那罗",
-        "лоре 解救兰那罗",
-        "биография 解救兰那罗",
-        "story 解救兰那罗",
-        "lore 解救兰那罗"
       ]
     },
     {
@@ -96177,8 +95829,7 @@
       "books:an_ode_to_khvarena"
     ],
     "an unwavering culinary dream": [
-      "stories:quest_wq_10069",
-      "stories:quest_wq_73246"
+      "stories:quest_wq_10069"
     ],
     "ancient investigation journal part i": [
       "books:ancient_investigation_journal_part_i"
@@ -98203,9 +97854,6 @@
     "long night s oath": [
       "artifacts:long_nights_oath"
     ],
-    "look for and rescue the aranara": [
-      "stories:quest_wq_73046"
-    ],
     "lord of eroded primal fire": [
       "items:03_lord_of_eroded_primal_fire"
     ],
@@ -99182,9 +98830,6 @@
     ],
     "requiem of the echoing depths": [
       "stories:quest_aq_1206"
-    ],
-    "rescue the aranara": [
-      "stories:quest_wq_73044"
     ],
     "resistance": [
       "items:resistance_talent_books"
@@ -100723,9 +100368,6 @@
     ],
     "wayward hermetic spiritspeaker": [
       "items:wayward_hermetic_spiritspeaker"
-    ],
-    "we meet again mr melancholy": [
-      "stories:quest_wq_71653"
     ],
     "we will be reunited": [
       "stories:quest_aq_1104"
@@ -104311,12 +103953,10 @@
       "items:goldflame_qucusaur_tyrant"
     ],
     "кулинарн мечт": [
-      "stories:quest_wq_10069",
-      "stories:quest_wq_73246"
+      "stories:quest_wq_10069"
     ],
     "кулинарная мечта": [
-      "stories:quest_wq_10069",
-      "stories:quest_wq_73246"
+      "stories:quest_wq_10069"
     ],
     "кулинарный тур по мондштадт": [
       "stories:quest_lq_2007"
@@ -105451,9 +105091,6 @@
     "мутная лужица": [
       "items:tainted_water_splitting_phantasm_materials"
     ],
-    "мы встретились вновь печальный господин": [
-      "stories:quest_wq_71653"
-    ],
     "мы встретимс снов": [
       "stories:quest_aq_1104"
     ],
@@ -105505,12 +105142,6 @@
     ],
     "назад к истокам": [
       "stories:quest_lq_2089"
-    ],
-    "найдит и спасит аранар": [
-      "stories:quest_wq_73046"
-    ],
-    "найдите и спасите аранара": [
-      "stories:quest_wq_73046"
     ],
     "напитанный силой драконий клык": [
       "items:empowered_dragontooth"
@@ -108659,12 +108290,6 @@
     "сотрясающий землю": [
       "weapons:earth_shaker"
     ],
-    "спасит аранар": [
-      "stories:quest_wq_73044"
-    ],
-    "спасите аранара": [
-      "stories:quest_wq_73044"
-    ],
     "спор плесенник": [
       "items:floating_hydro_fungus_spores"
     ],
@@ -110950,9 +110575,6 @@
     "与君致意的黎明": [
       "weapons:01_golden_frostbound_oath"
     ],
-    "与忧郁先生的再会": [
-      "stories:quest_wq_71653"
-    ],
     "与神性同行": [
       "books:along_with_divinity_prologue"
     ],
@@ -112265,9 +111887,6 @@
     "寻宝鸦印 藏银鸦印 攫金鸦印": [
       "items:treasure_hoarders_scout_insignias"
     ],
-    "寻找并解救兰那罗": [
-      "stories:quest_wq_73046"
-    ],
     "导能绘卷": [
       "items:samachurl_scrolls"
     ],
@@ -112605,8 +112224,7 @@
       "items:rock_cavernous_wayob_manifestation_of_a_wills"
     ],
     "愿为一炊之梦": [
-      "stories:quest_wq_10069",
-      "stories:quest_wq_73246"
+      "stories:quest_wq_10069"
     ],
     "慕风蘑菇": [
       "items:philanemo_mushroom"
@@ -115325,9 +114943,6 @@
     "角逐 的教导 角逐 的指引 角逐 的哲学": [
       "items:contention_talent_books"
     ],
-    "解救兰那罗": [
-      "stories:quest_wq_73044"
-    ],
     "讨龙英杰谭": [
       "weapons:thrilling_tales_of_dragon_slayers"
     ],
@@ -117825,14 +117440,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории персонажа Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа пророчество ведьмы указания великого екаи",
       "key": "stories:quest_wq_74698",
       "source": "passive_alias",
@@ -117885,14 +117492,6 @@
       "key": "stories:quest_wq_71127",
       "source": "passive_alias",
       "original": "история персонажа Застланный облаками путь к Обители Чивана",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история персонажа Мы встретились вновь, печальный господином",
       "priority": 50,
       "exact_only": true
     },
@@ -118025,14 +117624,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории персонажа Мы встретились вновь, печальный господина",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа палеонтологическое исследование разломой",
       "key": "stories:quest_wq_71052",
       "source": "passive_alias",
@@ -118109,14 +117700,6 @@
       "key": "stories:quest_wq_71127",
       "source": "passive_alias",
       "original": "история персонажа Застланный облаками путь к Обители Чиван",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история персонажа Мы встретились вновь, печальный господина",
       "priority": 50,
       "exact_only": true
     },
@@ -118229,14 +117812,6 @@
       "key": "stories:quest_wq_74695",
       "source": "passive_alias",
       "original": "истории персонажа Witch's Revelation: Warden's Instruction",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории персонажа Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": true
     },
@@ -118381,14 +117956,6 @@
       "key": "stories:quest_wq_74695",
       "source": "passive_alias",
       "original": "история персонажа Witch's Revelation: Warden's Instruction",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история персонажа Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": true
     },
@@ -120753,14 +120320,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "биография Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография пророчество ведьмы указания великого екаи",
       "key": "stories:quest_wq_74698",
       "source": "passive_alias",
@@ -121405,14 +120964,6 @@
       "key": "stories:quest_wq_71127",
       "source": "passive_alias",
       "original": "биография Застланный облаками путь к Обители Чиван",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "биография Мы встретились вновь, печальный господина",
       "priority": 50,
       "exact_only": true
     },
@@ -122281,14 +121832,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "биография Мы встретились вновь, печальный господин",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография отблески храбрости возвращение к закату",
       "key": "stories:quest_wq_71038",
       "source": "passive_alias",
@@ -122401,14 +121944,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа black stone under a white stone",
       "key": "stories:quest_aq_1501",
       "source": "passive_alias",
@@ -122429,14 +121964,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "истории персонажа King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории персонажа Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -122657,14 +122184,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "историю Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю пророчество ведьмы указания великого екаи",
       "key": "stories:quest_wq_74698",
       "source": "passive_alias",
@@ -122721,14 +122240,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа black stone under a white stone",
       "key": "stories:quest_aq_1501",
       "source": "passive_alias",
@@ -122749,14 +122260,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "история персонажа King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история персонажа Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -123241,14 +122744,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории Мы встретились вновь, печальный господина",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории палеонтологическое исследование разломой",
       "key": "stories:quest_wq_71052",
       "source": "passive_alias",
@@ -123545,14 +123040,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "историю Мы встретились вновь, печальный господина",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю палеонтологическое исследование разломой",
       "key": "stories:quest_wq_71052",
       "source": "passive_alias",
@@ -123613,14 +123100,6 @@
       "key": "stories:quest_wq_71127",
       "source": "passive_alias",
       "original": "история Застланный облаками путь к Обители Чиван",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история Мы встретились вновь, печальный господина",
       "priority": 50,
       "exact_only": true
     },
@@ -124137,14 +123616,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "story Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story пророчество ведьмы указания великого екаи",
       "key": "stories:quest_wq_74698",
       "source": "passive_alias",
@@ -124301,14 +123772,6 @@
       "key": "stories:quest_wq_74695",
       "source": "passive_alias",
       "original": "истории Witch's Revelation: Warden's Instruction",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": true
     },
@@ -124657,14 +124120,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "историю Мы встретились вновь, печальный господин",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю отблески храбрости возвращение к закату",
       "key": "stories:quest_wq_71038",
       "source": "passive_alias",
@@ -124773,14 +124228,6 @@
       "key": "stories:quest_wq_74695",
       "source": "passive_alias",
       "original": "история Witch's Revelation: Warden's Instruction",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": true
     },
@@ -125361,14 +124808,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "lore Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore пророчество ведьмы указания великого екаи",
       "key": "stories:quest_wq_74698",
       "source": "passive_alias",
@@ -125429,14 +124868,6 @@
       "key": "stories:quest_wq_71127",
       "source": "passive_alias",
       "original": "story Застланный облаками путь к Обители Чиван",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "story Мы встретились вновь, печальный господина",
       "priority": 50,
       "exact_only": true
     },
@@ -125675,14 +125106,6 @@
     {
       "phrase": "истории персонажа an unwavering culinary dream",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "истории персонажа An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "истории персонажа An Unwavering Culinary Dream",
       "priority": 50,
@@ -126065,14 +125488,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "история персонажа An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа beyond the smoke and mirrors",
       "key": "stories:quest_aq_1502",
       "source": "passive_alias",
@@ -126401,14 +125816,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лоре мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лоре Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лоре пророчество ведьмы указания великого екаи",
       "key": "stories:quest_wq_74698",
       "source": "passive_alias",
@@ -126577,14 +125984,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "lore Мы встретились вновь, печальный господина",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore палеонтологическое исследование разломой",
       "key": "stories:quest_wq_71052",
       "source": "passive_alias",
@@ -126645,14 +126044,6 @@
       "key": "stories:quest_wq_74695",
       "source": "passive_alias",
       "original": "story Witch's Revelation: Warden's Instruction",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "story Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": true
     },
@@ -127053,14 +126444,6 @@
       "key": "stories:quest_wq_10154",
       "source": "passive_alias",
       "original": "истории персонажа Waking From the Great Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории персонажа We Meet Again, Mr. Melancholy",
       "priority": 50,
       "exact_only": true
     },
@@ -127649,14 +127032,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история персонажа We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа великое подношение наруками",
       "key": "stories:quest_lq_2025",
       "source": "passive_alias",
@@ -127961,14 +127336,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор мы встретились вновь печальный господином",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лор Мы встретились вновь, печальный господином",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор пророчество ведьмы указания великого екаи",
       "key": "stories:quest_wq_74698",
       "source": "passive_alias",
@@ -128021,14 +127388,6 @@
       "key": "stories:quest_wq_71127",
       "source": "passive_alias",
       "original": "лоре Застланный облаками путь к Обители Чиван",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лоре Мы встретились вновь, печальный господина",
       "priority": 50,
       "exact_only": true
     },
@@ -128197,14 +127556,6 @@
       "key": "stories:quest_wq_74695",
       "source": "passive_alias",
       "original": "lore Witch's Revelation: Warden's Instruction",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "lore Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": true
     },
@@ -128661,14 +128012,6 @@
       "key": "stories:quest_lq_2047",
       "source": "passive_alias",
       "original": "истории персонажа Когда затухает огонь очагы",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории персонажа Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -129185,14 +128528,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история персонажа Найдите и спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа опыты над путешественником",
       "key": "stories:quest_lq_2017",
       "source": "passive_alias",
@@ -129417,14 +128752,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор мы встретились вновь печальный господина",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лор Мы встретились вновь, печальный господина",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор палеонтологическое исследование разломой",
       "key": "stories:quest_wq_71052",
       "source": "passive_alias",
@@ -129485,14 +128812,6 @@
       "key": "stories:quest_wq_74695",
       "source": "passive_alias",
       "original": "лоре Witch's Revelation: Warden's Instruction",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лоре Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": true
     },
@@ -130417,22 +129736,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории персонажа Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории персонажа Найдите и спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа особый гадальный листоком",
       "key": "stories:quest_wq_10058",
       "source": "passive_alias",
@@ -130937,22 +130240,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история персонажа Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история персонажа Найдите и спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа особый гадальный листоком",
       "key": "stories:quest_wq_10058",
       "source": "passive_alias",
@@ -131117,14 +130404,6 @@
       "key": "stories:quest_wq_74695",
       "source": "passive_alias",
       "original": "лор Witch's Revelation: Warden's Instruction",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лор Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": true
     },
@@ -133269,14 +132548,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "биография King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "биография Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -137249,14 +136520,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории Look for and rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории reverberation of heroic spirits",
       "key": "stories:quest_wq_76142",
       "source": "passive_alias",
@@ -137665,14 +136928,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "историю Look for and rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю reverberation of heroic spirits",
       "key": "stories:quest_wq_76142",
       "source": "passive_alias",
@@ -137853,14 +137108,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "история King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -138431,14 +137678,6 @@
       "original": "лоре Сто свежих роз приносит утро: Финал",
       "priority": 50,
       "exact_only": true
-    },
-    {
-      "phrase": "мы встретились вновь печальный господин",
-      "key": "stories:quest_wq_71653",
-      "source": "name",
-      "original": "Мы встретились вновь, печальный господин",
-      "priority": 50,
-      "exact_only": false
     },
     {
       "phrase": "отблески храбрости возвращение к закату",
@@ -139059,14 +138298,6 @@
     {
       "phrase": "биография an unwavering culinary dream",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "биография An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "биография An Unwavering Culinary Dream",
       "priority": 50,
@@ -141281,14 +140512,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "story Look for and rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story reverberation of heroic spirits",
       "key": "stories:quest_wq_76142",
       "source": "passive_alias",
@@ -141613,14 +140836,6 @@
       "key": "stories:quest_wq_10154",
       "source": "passive_alias",
       "original": "биография Waking From the Great Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "биография We Meet Again, Mr. Melancholy",
       "priority": 50,
       "exact_only": true
     },
@@ -143889,14 +143104,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "lore Look for and rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore reverberation of heroic spirits",
       "key": "stories:quest_wq_76142",
       "source": "passive_alias",
@@ -144473,14 +143680,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "биография Найдите и спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография опыты над путешественником",
       "key": "stories:quest_lq_2017",
       "source": "passive_alias",
@@ -144651,14 +143850,6 @@
     {
       "phrase": "истории an unwavering culinary dream",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "истории An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "истории An Unwavering Culinary Dream",
       "priority": 50,
@@ -144893,14 +144084,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "истории персонажа Petrichorror Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории персонажа Rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -145185,14 +144368,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "историю An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю beyond the smoke and mirrors",
       "key": "stories:quest_aq_1502",
       "source": "passive_alias",
@@ -145441,14 +144616,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "история An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история beyond the smoke and mirrors",
       "key": "stories:quest_aq_1502",
       "source": "passive_alias",
@@ -145677,14 +144844,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "история персонажа Petrichorror Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история персонажа Rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -146189,14 +145348,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "лоре King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лоре Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -147593,22 +146744,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "биография Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "биография Найдите и спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография особый гадальный листоком",
       "key": "stories:quest_wq_10058",
       "source": "passive_alias",
@@ -147869,14 +147004,6 @@
       "key": "stories:quest_wq_10154",
       "source": "passive_alias",
       "original": "истории Waking From the Great Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории We Meet Again, Mr. Melancholy",
       "priority": 50,
       "exact_only": true
     },
@@ -148241,14 +147368,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "истории персонажа Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа маскарад виновных",
       "key": "stories:quest_aq_1405",
       "source": "passive_alias",
@@ -148557,14 +147676,6 @@
       "key": "stories:quest_wq_10154",
       "source": "passive_alias",
       "original": "историю Waking From the Great Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "историю We Meet Again, Mr. Melancholy",
       "priority": 50,
       "exact_only": true
     },
@@ -148945,14 +148056,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история великое подношение наруками",
       "key": "stories:quest_lq_2025",
       "source": "passive_alias",
@@ -149313,14 +148416,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "история персонажа Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа маскарад виновных",
       "key": "stories:quest_aq_1405",
       "source": "passive_alias",
@@ -149517,14 +148612,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "лор King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лор Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -150881,14 +149968,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "story An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story beyond the smoke and mirrors",
       "key": "stories:quest_aq_1502",
       "source": "passive_alias",
@@ -151641,14 +150720,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории Найдите и спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории опыты над путешественником",
       "key": "stories:quest_lq_2017",
       "source": "passive_alias",
@@ -151857,24 +150928,8 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "истории персонажа Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "истории персонажа Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "истории персонажа Кулинарная мечты",
       "priority": 50,
@@ -151973,14 +151028,6 @@
       "key": "stories:quest_lq_2014",
       "source": "passive_alias",
       "original": "истории персонажа Соляной цветоком",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории персонажа Спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -152261,14 +151308,6 @@
       "key": "stories:quest_lq_2047",
       "source": "passive_alias",
       "original": "историю Когда затухает огонь очагы",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "историю Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -152577,14 +151616,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история Найдите и спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история опыты над путешественником",
       "key": "stories:quest_lq_2017",
       "source": "passive_alias",
@@ -152793,24 +151824,8 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "история персонажа Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "история персонажа Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "история персонажа Кулинарная мечты",
       "priority": 50,
@@ -152909,14 +151924,6 @@
       "key": "stories:quest_lq_2014",
       "source": "passive_alias",
       "original": "история персонажа Соляной цветоком",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история персонажа Спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -154345,14 +153352,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "lore An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore beyond the smoke and mirrors",
       "key": "stories:quest_aq_1502",
       "source": "passive_alias",
@@ -154725,14 +153724,6 @@
       "key": "stories:quest_wq_10154",
       "source": "passive_alias",
       "original": "story Waking From the Great Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "story We Meet Again, Mr. Melancholy",
       "priority": 50,
       "exact_only": true
     },
@@ -155425,22 +154416,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории Найдите и спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории особый гадальный листоком",
       "key": "stories:quest_wq_10058",
       "source": "passive_alias",
@@ -155701,22 +154676,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "истории персонажа Сон о Петрикоре",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории персонажа Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории персонажа Спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -156041,22 +155000,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "историю Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "историю Найдите и спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю особый гадальный листоком",
       "key": "stories:quest_wq_10058",
       "source": "passive_alias",
@@ -156353,22 +155296,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история Найдите и спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история особый гадальный листоком",
       "key": "stories:quest_wq_10058",
       "source": "passive_alias",
@@ -156629,22 +155556,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "история персонажа Сон о Петрикоре",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история персонажа Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история персонажа Спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -157035,14 +155946,6 @@
     {
       "phrase": "лоре an unwavering culinary dream",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "лоре An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "лоре An Unwavering Culinary Dream",
       "priority": 50,
@@ -158369,14 +157272,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "lore We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore великое подношение наруками",
       "key": "stories:quest_lq_2025",
       "source": "passive_alias",
@@ -158781,14 +157676,6 @@
       "key": "stories:quest_lq_2047",
       "source": "passive_alias",
       "original": "story Когда затухает огонь очагы",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "story Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -160737,14 +159624,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "лор An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор beyond the smoke and mirrors",
       "key": "stories:quest_aq_1502",
       "source": "passive_alias",
@@ -161109,14 +159988,6 @@
       "key": "stories:quest_wq_10154",
       "source": "passive_alias",
       "original": "лоре Waking From the Great Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лоре We Meet Again, Mr. Melancholy",
       "priority": 50,
       "exact_only": true
     },
@@ -162585,14 +161456,6 @@
       "exact_only": false
     },
     {
-      "phrase": "look for and rescue the aranara",
-      "key": "stories:quest_wq_73046",
-      "source": "name",
-      "original": "Look for and rescue the Aranara",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
       "phrase": "lore braving the tides together",
       "key": "stories:quest_lq_2044",
       "source": "passive_alias",
@@ -162741,14 +161604,6 @@
       "key": "stories:quest_lq_2047",
       "source": "passive_alias",
       "original": "lore Когда затухает огонь очагы",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "lore Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -163085,22 +161940,6 @@
       "key": "stories:quest_lq_2018",
       "source": "passive_alias",
       "original": "story И всё же бабочки улетаюта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "story Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "story Найдите и спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -164785,14 +163624,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лор We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор великое подношение наруками",
       "key": "stories:quest_lq_2025",
       "source": "passive_alias",
@@ -165181,14 +164012,6 @@
       "key": "stories:quest_lq_2047",
       "source": "passive_alias",
       "original": "лоре Когда затухает огонь очагы",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лоре Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -166917,22 +165740,6 @@
       "key": "stories:quest_lq_2018",
       "source": "passive_alias",
       "original": "lore И всё же бабочки улетаюта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "lore Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "lore Найдите и спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -168705,14 +167512,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор найдите и спасите аранарой",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лор Найдите и спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор опыты над путешественником",
       "key": "stories:quest_lq_2017",
       "source": "passive_alias",
@@ -169037,22 +167836,6 @@
       "key": "stories:quest_lq_2018",
       "source": "passive_alias",
       "original": "лоре И всё же бабочки улетаюта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лоре Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лоре Найдите и спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -172729,22 +171512,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лор Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор найдите и спасите аранары",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лор Найдите и спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор особый гадальный листоком",
       "key": "stories:quest_wq_10058",
       "source": "passive_alias",
@@ -175161,14 +173928,6 @@
       "exact_only": false
     },
     {
-      "phrase": "an unwavering culinary dream",
-      "key": "stories:quest_wq_73246",
-      "source": "name",
-      "original": "An Unwavering Culinary Dream",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
       "phrase": "beyond the smoke and mirrors",
       "key": "stories:quest_aq_1502",
       "source": "name",
@@ -175701,14 +174460,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "биография Petrichorror Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "биография Rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -180921,14 +179672,6 @@
       "exact_only": false
     },
     {
-      "phrase": "we meet again mr melancholy",
-      "key": "stories:quest_wq_71653",
-      "source": "name",
-      "original": "We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
       "phrase": "биография a knight s legacy",
       "key": "stories:quest_lq_2088",
       "source": "passive_alias",
@@ -181139,14 +179882,6 @@
     {
       "phrase": "биография кулинарная мечтой",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "биография Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "биография Кулинарная мечтой",
       "priority": 50,
@@ -186633,24 +185368,8 @@
       "exact_only": true
     },
     {
-      "phrase": "биография кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "биография Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "биография Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "биография Кулинарная мечты",
       "priority": 50,
@@ -186761,14 +185480,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "биография Спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография утопая в пескаха",
       "key": "stories:quest_lq_2032",
       "source": "passive_alias",
@@ -186861,14 +185572,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "истории Petrichorror Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории Rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -187065,14 +185768,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории персонажа 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -187117,14 +185812,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "истории персонажа 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории персонажа 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -187349,14 +186036,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "историю Petrichorror Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "историю Rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -187633,14 +186312,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история the festering fang",
       "key": "stories:quest_wq_75197",
       "source": "passive_alias",
@@ -187825,14 +186496,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история персонажа 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -187877,14 +186540,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "история персонажа 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история персонажа 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -193377,22 +192032,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "биография Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "биография Спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография утопая в песках",
       "key": "stories:quest_lq_2032",
       "source": "passive_alias",
@@ -193659,14 +192298,6 @@
     {
       "phrase": "истории кулинарная мечтой",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "истории Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "истории Кулинарная мечтой",
       "priority": 50,
@@ -194385,14 +193016,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "историю Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю маскарад виновных",
       "key": "stories:quest_aq_1405",
       "source": "passive_alias",
@@ -194683,14 +193306,6 @@
     {
       "phrase": "история кулинарная мечтой",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "история Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "история Кулинарная мечтой",
       "priority": 50,
@@ -195663,14 +194278,6 @@
       "original": "лоре Уроки ведьм: Этот мир",
       "priority": 50,
       "exact_only": true
-    },
-    {
-      "phrase": "найдите и спасите аранара",
-      "key": "stories:quest_wq_73046",
-      "source": "name",
-      "original": "Найдите и спасите аранара",
-      "priority": 50,
-      "exact_only": false
     },
     {
       "phrase": "очищение священной сакуры",
@@ -201049,14 +199656,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "story Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story the festering fang",
       "key": "stories:quest_wq_75197",
       "source": "passive_alias",
@@ -201793,24 +200392,8 @@
       "exact_only": true
     },
     {
-      "phrase": "истории кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "истории Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "истории Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "истории Кулинарная мечты",
       "priority": 50,
@@ -202019,14 +200602,6 @@
     {
       "phrase": "истории персонажа 愿为一炊之梦",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "истории персонажа 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "истории персонажа 愿为一炊之梦",
       "priority": 50,
@@ -202385,14 +200960,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории Спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории утопая в пескаха",
       "key": "stories:quest_lq_2032",
       "source": "passive_alias",
@@ -202577,24 +201144,8 @@
       "exact_only": true
     },
     {
-      "phrase": "историю кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "историю Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "историю Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "историю Кулинарная мечты",
       "priority": 50,
@@ -202701,14 +201252,6 @@
       "key": "stories:quest_lq_2014",
       "source": "passive_alias",
       "original": "историю Соляной цветоком",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "историю Спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -202897,24 +201440,8 @@
       "exact_only": true
     },
     {
-      "phrase": "история кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "история Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "история Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "история Кулинарная мечты",
       "priority": 50,
@@ -203123,14 +201650,6 @@
     {
       "phrase": "история персонажа 愿为一炊之梦",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "история персонажа 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история персонажа 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "история персонажа 愿为一炊之梦",
       "priority": 50,
@@ -203477,14 +201996,6 @@
       "key": "stories:quest_lq_2014",
       "source": "passive_alias",
       "original": "история Соляной цветоком",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история Спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -210081,14 +208592,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "lore Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore the festering fang",
       "key": "stories:quest_wq_75197",
       "source": "passive_alias",
@@ -210539,14 +209042,6 @@
     {
       "phrase": "story кулинарная мечтой",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "story Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "story Кулинарная мечтой",
       "priority": 50,
@@ -211345,14 +209840,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории персонажа 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории персонажа 解救兰那罗",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории персонажа 谎言的温度",
       "key": "stories:quest_lq_2048",
       "source": "passive_alias",
@@ -211493,22 +209980,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "истории Сон о Петрикоре",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории Спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -211813,22 +210284,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "историю Сон о Петрикоре",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "историю Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "историю Спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -212289,14 +210744,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история персонажа 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история персонажа 解救兰那罗",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история персонажа 谎言的温度",
       "key": "stories:quest_lq_2048",
       "source": "passive_alias",
@@ -212437,22 +210884,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "история Сон о Петрикоре",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история Спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -212845,14 +211276,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "лоре Petrichorror Dream",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лоре Rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -220249,14 +218672,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "lore Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore маскарад виновных",
       "key": "stories:quest_aq_1405",
       "source": "passive_alias",
@@ -220529,24 +218944,8 @@
       "exact_only": true
     },
     {
-      "phrase": "story кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "story Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "story Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "story Кулинарная мечты",
       "priority": 50,
@@ -220653,14 +219052,6 @@
       "key": "stories:quest_lq_2014",
       "source": "passive_alias",
       "original": "story Соляной цветоком",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "story Спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -222617,14 +221008,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лор Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор the festering fang",
       "key": "stories:quest_wq_75197",
       "source": "passive_alias",
@@ -223067,14 +221450,6 @@
     {
       "phrase": "лоре кулинарная мечтой",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "лоре Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "лоре Кулинарная мечтой",
       "priority": 50,
@@ -230409,24 +228784,8 @@
       "exact_only": true
     },
     {
-      "phrase": "lore кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "lore Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "lore Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "lore Кулинарная мечты",
       "priority": 50,
@@ -230533,14 +228892,6 @@
       "key": "stories:quest_lq_2014",
       "source": "passive_alias",
       "original": "lore Соляной цветоком",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "lore Спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -230829,22 +229180,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "story Сон о Петрикоре",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "story Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "story Спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -232273,14 +230608,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор кулинарная мечтой",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "лор Кулинарная мечтой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор маскарад виновных",
       "key": "stories:quest_aq_1405",
       "source": "passive_alias",
@@ -232529,24 +230856,8 @@
       "exact_only": true
     },
     {
-      "phrase": "лоре кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "лоре Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лоре кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "лоре Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "лоре Кулинарная мечты",
       "priority": 50,
@@ -232653,14 +230964,6 @@
       "key": "stories:quest_lq_2014",
       "source": "passive_alias",
       "original": "лоре Соляной цветоком",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лоре Спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -238825,22 +237128,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "lore Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "lore Спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore утопая в песках",
       "key": "stories:quest_lq_2032",
       "source": "passive_alias",
@@ -240625,24 +238912,8 @@
       "exact_only": true
     },
     {
-      "phrase": "лор кулинарная мечта",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "лор Кулинарная мечта",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор кулинарная мечты",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "лор Кулинарная мечты",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор кулинарная мечты",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "лор Кулинарная мечты",
       "priority": 50,
@@ -240749,14 +239020,6 @@
       "key": "stories:quest_lq_2014",
       "source": "passive_alias",
       "original": "лор Соляной цветоком",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор спасите аранарой",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лор Спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -241037,22 +239300,6 @@
       "key": "stories:quest_wq_10183",
       "source": "passive_alias",
       "original": "лоре Сон о Петрикоре",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лоре Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лоре Спасите аранары",
       "priority": 50,
       "exact_only": true
     },
@@ -247585,22 +245832,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лор Спасите аранара",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор спасите аранары",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лор Спасите аранары",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор утопая в песках",
       "key": "stories:quest_lq_2032",
       "source": "passive_alias",
@@ -253257,14 +251488,6 @@
       "exact_only": false
     },
     {
-      "phrase": "rescue the aranara",
-      "key": "stories:quest_wq_73044",
-      "source": "name",
-      "original": "Rescue the Aranara",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
       "phrase": "story darradarljod",
       "key": "stories:quest_wq_10178",
       "source": "passive_alias",
@@ -253825,14 +252048,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "биография 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -253877,14 +252092,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "биография 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "биография 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -261633,14 +259840,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография найдите",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "биография Найдите и спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография ноктюрн",
       "key": "stories:quest_aq_1605",
       "source": "passive_alias",
@@ -263890,14 +262089,6 @@
     },
     {
       "phrase": "истории персонажа",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории персонажа We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа",
       "key": "stories:quest_wq_72141",
       "source": "passive_alias",
       "original": "истории персонажа Sinister Instruction",
@@ -263933,22 +262124,6 @@
       "key": "stories:quest_wq_73024",
       "source": "passive_alias",
       "original": "истории персонажа Woodland Encounter",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории персонажа Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории персонажа Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -264013,14 +262188,6 @@
       "key": "stories:quest_wq_73244",
       "source": "passive_alias",
       "original": "истории персонажа Rejoice With Me, for What Was Lost Is Now Found",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории персонажа",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "истории персонажа An Unwavering Culinary Dream",
       "priority": 50,
       "exact_only": true
     },
@@ -272241,14 +270408,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография rescue",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "биография Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография sacred",
       "key": "stories:quest_wq_10025",
       "source": "passive_alias",
@@ -272699,14 +270858,6 @@
     {
       "phrase": "биография 愿为一炊之梦",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "биография 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "биография 愿为一炊之梦",
       "priority": 50,
@@ -273321,14 +271472,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -273373,14 +271516,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "истории 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -273777,14 +271912,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "историю 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -273829,14 +271956,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "историю 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "историю 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -273985,14 +272104,6 @@
       "exact_only": true
     },
     {
-      "phrase": "история 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "история 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "история 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -274037,14 +272148,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "история 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "история 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -274139,14 +272242,6 @@
     {
       "phrase": "кулинарная мечта",
       "key": "stories:quest_wq_10069",
-      "source": "name",
-      "original": "Кулинарная мечта",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
-      "phrase": "кулинарная мечта",
-      "key": "stories:quest_wq_73246",
       "source": "name",
       "original": "Кулинарная мечта",
       "priority": 50,
@@ -283225,14 +281320,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "биография 解救兰那罗",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография 谎言的温度",
       "key": "stories:quest_lq_2048",
       "source": "passive_alias",
@@ -283581,14 +281668,6 @@
       "key": "stories:quest_wq_73077",
       "source": "passive_alias",
       "original": "истории Легенды каменного замкой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории найдите",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -284325,14 +282404,6 @@
       "key": "stories:quest_wq_73077",
       "source": "passive_alias",
       "original": "историю Легенды каменного замкой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю найдите",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "историю Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -285965,14 +284036,6 @@
       "key": "stories:quest_wq_10183",
       "source": "name",
       "original": "Сон о Петрикоре",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
-      "phrase": "спасите аранара",
-      "key": "stories:quest_wq_73044",
-      "source": "name",
-      "original": "Спасите аранара",
       "priority": 50,
       "exact_only": false
     },
@@ -295025,14 +293088,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "story 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -295077,14 +293132,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "story 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "story 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -295221,14 +293268,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "биография King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография look",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "биография Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -295985,14 +294024,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории rescue",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории sacred",
       "key": "stories:quest_wq_10025",
       "source": "passive_alias",
@@ -296449,14 +294480,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "истории 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории 我们终将重逢",
       "key": "stories:quest_aq_1104",
       "source": "passive_alias",
@@ -296837,14 +294860,6 @@
       "key": "stories:quest_lq_2042",
       "source": "passive_alias",
       "original": "историю Reborn in the Land of Grievances",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю rescue",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "историю Rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -297305,14 +295320,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "историю 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю 我们终将重逢",
       "key": "stories:quest_aq_1104",
       "source": "passive_alias",
@@ -297763,14 +295770,6 @@
     {
       "phrase": "история 愿为一炊之梦",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "история 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "история 愿为一炊之梦",
       "priority": 50,
@@ -298853,14 +296852,6 @@
       "key": "stories:quest_lq_2027",
       "source": "name",
       "original": "Мимолётные сны",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
-      "phrase": "мы встретились",
-      "key": "stories:quest_wq_71653",
-      "source": "name",
-      "original": "Мы встретились вновь, печальный господин",
       "priority": 50,
       "exact_only": false
     },
@@ -307873,14 +305864,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "lore 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -307925,14 +305908,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "lore 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "lore 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -308333,14 +306308,6 @@
       "key": "stories:quest_wq_73077",
       "source": "passive_alias",
       "original": "story Легенды каменного замкой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story найдите",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "story Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -309873,14 +307840,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "истории 解救兰那罗",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории 谎言的温度",
       "key": "stories:quest_lq_2048",
       "source": "passive_alias",
@@ -310761,14 +308720,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "историю 解救兰那罗",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю 谎言的温度",
       "key": "stories:quest_lq_2048",
       "source": "passive_alias",
@@ -311077,14 +309028,6 @@
       "key": "stories:quest_wq_10182",
       "source": "passive_alias",
       "original": "история 被缚的囚徒",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "история 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "история 解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -311849,14 +309792,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лоре 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лоре 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лоре 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -311901,14 +309836,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "лоре 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лоре 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -320649,14 +318576,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore найдите",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "lore Найдите и спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore ноктюрн",
       "key": "stories:quest_aq_1605",
       "source": "passive_alias",
@@ -321225,14 +319144,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story rescue",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "story Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story sacred",
       "key": "stories:quest_wq_10025",
       "source": "passive_alias",
@@ -321689,14 +319600,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
-      "source": "passive_alias",
-      "original": "story 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story 我们终将重逢",
       "key": "stories:quest_aq_1104",
       "source": "passive_alias",
@@ -322057,14 +319960,6 @@
       "exact_only": true
     },
     {
-      "phrase": "биография we",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "биография We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "биография ад",
       "key": "stories:quest_wq_10095",
       "source": "passive_alias",
@@ -322085,14 +319980,6 @@
       "key": "stories:quest_aq_1104",
       "source": "passive_alias",
       "original": "биография Мы встретимся сновой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "биография мы",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "биография Мы встретились вновь, печальный господином",
       "priority": 50,
       "exact_only": true
     },
@@ -322317,14 +320204,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "истории King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории look",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "истории Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -322941,14 +320820,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "историю King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю look",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "историю Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -324249,14 +322120,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор 与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "лор 与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор 仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "passive_alias",
@@ -324301,14 +322164,6 @@
       "key": "stories:quest_lq_2010",
       "source": "passive_alias",
       "original": "лор 在此世的星空之外",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор 寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лор 寻找并解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -324685,14 +322540,6 @@
       "key": "stories:quest_wq_73077",
       "source": "passive_alias",
       "original": "лоре Легенды каменного замкой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре найдите",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лоре Найдите и спасите аранарой",
       "priority": 50,
       "exact_only": true
     },
@@ -332609,14 +330456,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore rescue",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "lore Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore sacred",
       "key": "stories:quest_wq_10025",
       "source": "passive_alias",
@@ -333067,14 +330906,6 @@
     {
       "phrase": "lore 愿为一炊之梦",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "lore 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "lore 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "lore 愿为一炊之梦",
       "priority": 50,
@@ -334193,14 +332024,6 @@
       "exact_only": true
     },
     {
-      "phrase": "story 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "story 解救兰那罗",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "story 谎言的温度",
       "key": "stories:quest_lq_2048",
       "source": "passive_alias",
@@ -335025,14 +332848,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор найдите",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "лор Найдите и спасите аранарой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор ноктюрн",
       "key": "stories:quest_aq_1605",
       "source": "passive_alias",
@@ -335585,14 +333400,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лоре rescue",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лоре Rescue the Aranara",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лоре sacred",
       "key": "stories:quest_wq_10025",
       "source": "passive_alias",
@@ -336043,14 +333850,6 @@
     {
       "phrase": "лоре 愿为一炊之梦",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "лоре 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "лоре 愿为一炊之梦",
       "priority": 50,
@@ -343161,14 +340960,6 @@
       "exact_only": true
     },
     {
-      "phrase": "lore 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "lore 解救兰那罗",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "lore 谎言的温度",
       "key": "stories:quest_lq_2048",
       "source": "passive_alias",
@@ -343277,14 +341068,6 @@
       "key": "stories:quest_aq_1304",
       "source": "passive_alias",
       "original": "story King Deshret and the Three Magi",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "story look",
-      "key": "stories:quest_wq_73046",
-      "source": "passive_alias",
-      "original": "story Look for and rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -343937,14 +341720,6 @@
       "exact_only": true
     },
     {
-      "phrase": "истории we",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "истории ад",
       "key": "stories:quest_wq_10095",
       "source": "passive_alias",
@@ -343965,14 +341740,6 @@
       "key": "stories:quest_aq_1104",
       "source": "passive_alias",
       "original": "истории Мы встретимся сновой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "истории мы",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "истории Мы встретились вновь, печальный господином",
       "priority": 50,
       "exact_only": true
     },
@@ -344153,14 +341920,6 @@
       "exact_only": true
     },
     {
-      "phrase": "историю we",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "историю We Meet Again, Mr. Melancholy",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "историю ад",
       "key": "stories:quest_wq_10095",
       "source": "passive_alias",
@@ -344181,14 +341940,6 @@
       "key": "stories:quest_aq_1104",
       "source": "passive_alias",
       "original": "историю Мы встретимся сновой",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "историю мы",
-      "key": "stories:quest_wq_71653",
-      "source": "passive_alias",
-      "original": "историю Мы встретились вновь, печальный господином",
       "priority": 50,
       "exact_only": true
     },
@@ -344549,14 +342300,6 @@
       "key": "stories:quest_lq_2042",
       "source": "passive_alias",
       "original": "лор Reborn in the Land of Grievances",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор rescue",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лор Rescue the Aranara",
       "priority": 50,
       "exact_only": true
     },
@@ -345011,14 +342754,6 @@
     {
       "phrase": "лор 愿为一炊之梦",
       "key": "stories:quest_wq_10069",
-      "source": "passive_alias",
-      "original": "лор 愿为一炊之梦",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лор 愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
       "source": "passive_alias",
       "original": "лор 愿为一炊之梦",
       "priority": 50,
@@ -346125,14 +343860,6 @@
       "key": "stories:quest_wq_10182",
       "source": "passive_alias",
       "original": "лоре 被缚的囚徒",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
-      "phrase": "лоре 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лоре 解救兰那罗",
       "priority": 50,
       "exact_only": true
     },
@@ -350633,14 +348360,6 @@
       "exact_only": true
     },
     {
-      "phrase": "лор 解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "passive_alias",
-      "original": "лор 解救兰那罗",
-      "priority": 50,
-      "exact_only": true
-    },
-    {
       "phrase": "лор 谎言的温度",
       "key": "stories:quest_lq_2048",
       "source": "passive_alias",
@@ -354665,14 +352384,6 @@
       "exact_only": true
     },
     {
-      "phrase": "与忧郁先生的再会",
-      "key": "stories:quest_wq_71653",
-      "source": "name",
-      "original": "与忧郁先生的再会",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
       "phrase": "仇敌仿佛众水翻腾",
       "key": "stories:quest_wq_10120",
       "source": "name",
@@ -354717,14 +352428,6 @@
       "key": "stories:quest_lq_2010",
       "source": "name",
       "original": "在此世的星空之外",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
-      "phrase": "寻找并解救兰那罗",
-      "key": "stories:quest_wq_73046",
-      "source": "name",
-      "original": "寻找并解救兰那罗",
       "priority": 50,
       "exact_only": false
     },
@@ -361641,14 +359344,6 @@
       "exact_only": false
     },
     {
-      "phrase": "愿为一炊之梦",
-      "key": "stories:quest_wq_73246",
-      "source": "name",
-      "original": "愿为一炊之梦",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
       "phrase": "我们终将重逢",
       "key": "stories:quest_aq_1104",
       "source": "name",
@@ -364397,14 +362092,6 @@
       "key": "stories:quest_wq_10182",
       "source": "name",
       "original": "被缚的囚徒",
-      "priority": 50,
-      "exact_only": false
-    },
-    {
-      "phrase": "解救兰那罗",
-      "key": "stories:quest_wq_73044",
-      "source": "name",
-      "original": "解救兰那罗",
       "priority": 50,
       "exact_only": false
     },
@@ -368422,15 +366109,15 @@
       "artifacts": 61,
       "books": 105,
       "items": 251,
-      "stories": 389,
+      "stories": 385,
       "weapons": 234
     },
     "signature_entries": 67,
     "signature_aliases": 6043,
-    "related_terms": 8726,
-    "related_lookup_terms": 4998,
+    "related_terms": 8714,
+    "related_lookup_terms": 4987,
     "signature_lookup_terms": 107,
-    "mention_phrases": 31462,
+    "mention_phrases": 31221,
     "noisy_related_terms": 26,
     "noisy_related_samples": [
       "albedo",

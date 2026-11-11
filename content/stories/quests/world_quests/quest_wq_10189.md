@@ -1,6 +1,6 @@
 # id: quest_wq_10189
 # story_group: world_quests
-# display_category: Уроки Ведьм · Варка
+# display_category: Уроки ведьм · Варка
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Вопрос без заголовка
 # title_en: Witch's Homework: The Untitled Question
@@ -14,11 +14,17 @@
 # chapter_num_zh:
 # part_source_ids: 70074
 # previous_quests: 
-# next_quests: 
-# related_quests: 
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10189
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
+
+# quest_subject_ru: Варка
+
+# quest_collections: witch_homework
+
+# quest_series_ru: Уроки ведьм
 
 ## RU
 

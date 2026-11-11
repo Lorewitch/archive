@@ -1079,6 +1079,9 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
             entry["related_quests"] = comma_list_from_meta(meta, "related_quests")
             entry["quest_chain"] = comma_list_from_meta(meta, "quest_chain")
             entry["quest_series"] = [value.strip() for value in meta.get("quest_series", "").split("||") if value.strip()]
+            entry["quest_series_ru"] = meta.get("quest_series_ru", "").strip()
+            entry["quest_subject_ru"] = meta.get("quest_subject_ru", "").strip()
+            entry["storyline"] = meta.get("storyline", "").strip()
             entry["quest_collections"] = comma_list_from_meta(meta, "quest_collections")
             normalized_series = {
                 re.sub(r"[^a-z0-9]+", " ", value.casefold()).strip()
@@ -1368,6 +1371,9 @@ def story_catalog_search_values(item: dict[str, Any], story_group: str) -> tuple
         item.get("chapter_num", {}),
         item.get("quest_series", []),
         item.get("quest_collections", []),
+        item.get("quest_series_ru", ""),
+        item.get("quest_subject_ru", ""),
+        item.get("storyline", ""),
         item.get("display_category", ""),
     )
 
@@ -1394,7 +1400,11 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "languages": item.get("languages", LANGS),
         "part_count": item.get("part_count", 0),
         "chapter_num": item.get("chapter_num", {}),
+        "quest_chain": item.get("quest_chain", []),
         "quest_series": item.get("quest_series", []),
+        "quest_series_ru": item.get("quest_series_ru", ""),
+        "quest_subject_ru": item.get("quest_subject_ru", ""),
+        "storyline": item.get("storyline", ""),
         "quest_collections": item.get("quest_collections", []),
         **index_runtime_fields(item, story_group),
         "search_text": make_search_text(*story_catalog_search_values(item, story_group), character_filters),
@@ -1432,10 +1442,6 @@ def write_group_indexes(name: str, entries: list[dict[str, Any]], indexer, group
         key = str(entry.get(group_field) or "").strip()
         if key:
             grouped.setdefault(key, []).append(indexer(entry))
-
-    if name == "stories":
-        quest_groups = {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}
-        grouped["quest_stories"] = [indexer(entry) for entry in entries if entry.get(group_field) in quest_groups]
 
     for key, rows in grouped.items():
         write_json(index_dir / f"{key}.json", rows, compact=(name == "stories"))

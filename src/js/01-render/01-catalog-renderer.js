@@ -1,6 +1,8 @@
 // Фильтрация, сортировка, пагинация и каталог.
 
 function optionsFor(config) {
+  // В сборках Архонтов регион уже выбран; второй селектор избыточен.
+  if (config.id === "stories" && state.subsection === "archon_quests") return [];
   if (config.filter === "region") return REGION_FILTERS;
   if (config.fixedOptions) return config.fixedOptions;
   return [];
@@ -48,8 +50,10 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
     if (isCharacterStoriesCatalog(config)) {
       return storyCharacterMatchesTypeFilters(item, activeTypeSet);
     }
-    if (isQuestStoriesCatalog(config)) {
-      return storyQuestMatchesTypeFilters(item, activeTypeSet);
+    if (config.id === "stories" && state.subsection === "world_quests") {
+      if (!activeTypeSet.has("witch:any")) return true;
+      return (item.quest_collections || []).some(value =>
+        value === "witch_homework" || value === "witch_revelation");
     }
     return activeTypeSet.has(itemTypeFilterValue(item, config));
   }
@@ -156,8 +160,8 @@ function filteredEntries(config) {
     }
     if (config.id === "stories" && state.subsection === "archon_quests" && state.collection) {
       if (filterState.sort === "version") {
-        return archonChapterOrder(a) - archonChapterOrder(b)
-          || entrySortVersion(a) - entrySortVersion(b)
+        return entrySortVersion(a) - entrySortVersion(b)
+          || archonChapterOrder(a) - archonChapterOrder(b)
           || compareByTitle(a, b);
       }
     }
@@ -360,17 +364,12 @@ function renderCatalogCard(item, config) {
 }
 
 function groupEntryCount(config, groupKey) {
-  const children = childGroupsFor(config, groupKey);
-  if (children.length) {
-    const childKeys = new Set(children.map(([key]) => key));
-    return config.data().filter(item => childKeys.has(groupValue(item, config))).length;
-  }
   return config.data().filter(item => groupValue(item, config) === groupKey).length;
 }
 
-function renderGroupSelector(config, parentKey = "") {
+function renderGroupSelector(config) {
   activeDetail = null;
-  const groups = groupsForSelector(config, parentKey);
+  const groups = config.groups || [];
   app.innerHTML = `
     <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}">
       <div class="group-grid">
@@ -398,12 +397,14 @@ function renderArchonCollections(config) {
     const versions = entries.map(item => item.game_version).filter(Boolean);
     const range = [...new Set(versions)].sort((a, b) => gameVersionSortValue(a) - gameVersionSortValue(b));
     const versionLabel = range.length ? `Версии ${range[0]}${range.length > 1 ? `–${range[range.length - 1]}` : ""}` : "";
+    const chapterNoun = entries.length % 10 === 1 && entries.length % 100 !== 11 ? "глава"
+      : [2, 3, 4].includes(entries.length % 10) && ![12, 13, 14].includes(entries.length % 100) ? "главы" : "глав";
     return `
       <button class="archon-collection-card" type="button" data-archon-collection="${escapeHtml(collection.id)}">
         <span class="archon-collection-chapter">${escapeHtml(collection.chapter)}</span>
         <span class="archon-collection-title">${escapeHtml(collection.title)}</span>
         <span class="archon-collection-description">${escapeHtml(collection.description)}</span>
-        <span class="archon-collection-footer"><span>${entries.length} ${entries.length === 1 ? "глава" : "глав"}</span><span>${escapeHtml(versionLabel)}</span></span>
+        <span class="archon-collection-footer"><span>${entries.length} ${chapterNoun}</span><span>${escapeHtml(versionLabel)}</span></span>
       </button>
     `;
   }).filter(Boolean).join("");
@@ -411,21 +412,13 @@ function renderArchonCollections(config) {
   app.innerHTML = `
     <section class="page-card archon-collections-page">
       <div class="archon-collections-intro">
-        <button type="button" class="archon-collections-back" data-group="quest_stories">← Все задания</button>
+        <button type="button" class="archon-collections-back" data-story-categories>← Все истории</button>
         <h1>Задания Архонтов</h1>
-        <p>Главы собраны по разделам игрового журнала. История Близнецов и Промежуточный том вынесены отдельно; название сюжетного цикла и место действия сохранены у каждой главы.</p>
+        <p>Главы собраны по разделам игрового журнала. История Близнецов вынесена отдельно. Промежуточные главы входят в соответствующие региональные сборки, сохраняя своё название и номер.</p>
       </div>
       <div class="archon-collections-grid">${cards}</div>
     </section>
   `;
-}
-
-function renderQuestCategoryNavigation() {
-  if (state.section !== "stories" || state.subsection !== "quest_stories") return "";
-  return `
-    <nav class="quest-category-nav" aria-label="Перейти к типу заданий">
-      ${STORY_CHILD_GROUPS.quest_stories.map(([key, label]) => `<button type="button" data-group="${escapeHtml(key)}">${escapeHtml(label)}</button>`).join("")}
-    </nav>`;
 }
 
 function renderArchonCollectionHeader() {
@@ -483,18 +476,90 @@ function renderPaginationControls(config, currentPage, totalPages, totalRows) {
   `;
 }
 
+
+// Group only quests whose shared series is explicitly recorded in their source.
+// No directories, extra route, or inferred grouping from prerequisite links.
+function worldQuestSeriesKey(item) {
+  if (item?.story_group !== "world_quests") return "";
+  return String(item?.quest_series?.[0] || "").trim();
+}
+
+function worldQuestSeriesOrder(a, b) {
+  const aLinks = Array.isArray(a.quest_chain) ? a.quest_chain : [];
+  const bLinks = Array.isArray(b.quest_chain) ? b.quest_chain : [];
+  const aOrder = aLinks.indexOf(a.id);
+  const bOrder = aLinks.indexOf(b.id);
+  if (aOrder >= 0 && bOrder >= 0) return aOrder - bOrder;
+  const bOrderFromB = bLinks.indexOf(b.id);
+  const aOrderFromB = bLinks.indexOf(a.id);
+  if (aOrderFromB >= 0 && bOrderFromB >= 0) return aOrderFromB - bOrderFromB;
+  return entrySortVersion(a) - entrySortVersion(b) || compareByTitle(a, b);
+}
+
+function worldCatalogUnits(rows, config) {
+  if (config.id !== "stories" || state.subsection !== "world_quests") {
+    return rows.map(item => ({ kind: "entry", item }));
+  }
+  const groups = new Map();
+  for (const item of rows) {
+    const key = worldQuestSeriesKey(item);
+    if (!key) continue;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(item);
+  }
+  const consumed = new Set();
+  return rows.flatMap(item => {
+    if (consumed.has(item.id)) return [];
+    const key = worldQuestSeriesKey(item);
+    const siblings = groups.get(key);
+    if (!key || !siblings || siblings.length < 2) return [{ kind: "entry", item }];
+    siblings.forEach(sibling => consumed.add(sibling.id));
+    const entries = [...siblings].sort(worldQuestSeriesOrder);
+    return [{ kind: "series", key, title: entries[0].quest_series_ru || key, entries }];
+  });
+}
+
+function renderWorldSeriesCard(unit) {
+  const open = expandedWorldSeries.has(unit.key) ? " open" : "";
+  const versions = [...new Set(unit.entries.map(item => item.game_version).filter(Boolean))]
+    .sort((a, b) => gameVersionSortValue(a) - gameVersionSortValue(b));
+  const range = versions.length === 1 ? `v${versions[0]}`
+    : versions.length ? `v${versions[0]}–${versions[versions.length - 1]}` : "";
+  return `<details class="quest-series-card" data-world-series="${escapeHtml(unit.key)}"${open}>
+    <summary class="quest-series-summary">
+      <span class="quest-series-symbol" aria-hidden="true">▸</span>
+      <span class="quest-series-heading"><strong>${escapeHtml(unit.title)}</strong>
+        <small>Серия заданий мира · ${unit.entries.length} частей</small></span>
+      ${range ? `<span class="quest-series-version">${escapeHtml(range)}</span>` : ""}
+    </summary>
+    <div class="quest-series-members">
+    ${unit.entries.map((item, index) => `<button type="button" class="quest-series-member" data-series-entry-id="${escapeHtml(item.id)}">
+      <span class="quest-series-index">${index + 1}</span>
+      <span class="quest-series-member-title">${escapeHtml(titleOf(item, "ru"))}
+      ${item.chapter_num?.ru ? `<small>${escapeHtml(item.chapter_num.ru)}</small>` : ""}
+      ${item.quest_subject_ru ? `<small>${item.quest_subject_ru === "Вступительное задание" ? "Этап" : item.quest_collections?.includes("witch_homework") ? "Испытуемый" : item.quest_collections?.includes("witch_revelation") ? "Адресат" : "Персонаж"}: ${escapeHtml(item.quest_subject_ru)}</small>` : ""}
+      </span>
+      <span class="quest-series-member-version">${item.game_version ? `v${escapeHtml(item.game_version)}` : ""}</span>
+    </button>`).join("")}
+    </div>
+  </details>`;
+}
+
 function renderCatalogTable(config) {
   const allRows = filteredEntries(config);
   const filterState = catalogFilterState(config);
+  const units = worldCatalogUnits(allRows, config);
   const pageSize = catalogPageSize(config);
-  const totalPages = Math.max(1, Math.ceil(allRows.length / pageSize));
+  const totalPages = Math.max(1, Math.ceil(units.length / pageSize));
   const currentPage = Math.min(Math.max(1, Number(filterState.page) || 1), totalPages);
   filterState.page = currentPage;
-  const rows = allRows.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+  const pageUnits = units.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
   return `
     <div class="catalog-card-grid ${escapeHtml(catalogLayoutClass(config))}" id="catalog-table">
-      ${rows.map(item => renderCatalogCard(item, config)).join("") || `<div class="empty"><div class="empty-card">${escapeHtml(config.empty)}</div></div>`}
+      ${pageUnits.map(unit => unit.kind === "series"
+        ? renderWorldSeriesCard(unit)
+        : renderCatalogCard(unit.item, config)).join("") || `<div class="empty"><div class="empty-card">${escapeHtml(config.empty)}</div></div>`}
     </div>
     ${renderPaginationControls(config, currentPage, totalPages, allRows.length)}
   `;
@@ -542,10 +607,9 @@ function renderCatalog(config) {
   if (!allowedFilters.has(filterState.filter)) {
     filterState.filter = "all";
   }
-  const isNestedStoryGroup = config.id === "stories" && Boolean(parentGroupFor(config, state.subsection));
   const isArchonCollection = config.id === "stories" && state.subsection === "archon_quests" && Boolean(state.collection);
   app.innerHTML = `
-    <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}${isNestedStoryGroup ? " has-parent-group" : ""}${isArchonCollection ? " is-archon-collection" : ""}">
+    <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}${isArchonCollection ? " is-archon-collection" : ""}">
       ${renderArchonCollectionHeader()}
       <div class="catalog-sticky-head">
         <div class="toolbar">
@@ -584,7 +648,6 @@ function renderCatalog(config) {
             `;
           })()}
         </div>
-        ${renderQuestCategoryNavigation()}
       </div>
 
       <div id="catalog-holder">${renderCatalogTable(config)}</div>

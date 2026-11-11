@@ -23,7 +23,7 @@
 
 ## RU
 
-### Без названия 12032
+### Дополнительный диалог — Дополнительный разговор с сёгуном Райдэн
 
 
 **Сёгун Райдэн:** Инадзуме предстоит ещё множество испытаний, но я готова к ним.
@@ -1498,7 +1498,7 @@
 
 ## EN
 
-### Untitled 12032
+### Additional dialogue — Further conversation with the Raiden Shogun
 
 
 **Raiden Shogun:** Many challenges still lie ahead for Inazuma, but I am prepared for them.
@@ -2973,7 +2973,7 @@ But out of those challenges will be born new opportunities.
 
 ## ZH
 
-### 未命名 12032
+### 补充对话——与雷电将军的补充对话
 
 
 **雷电将军:** 接下来，稻妻一定会迎来更多挑战，不过我已经做好准备了。

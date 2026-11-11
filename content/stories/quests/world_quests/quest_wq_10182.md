@@ -20,6 +20,8 @@
 # quest_series: Canticles of Harmony
 # version_source: wiki_release_category
 
+# quest_series_ru: Оды гармонии
+
 ## RU
 
 ### Последний день Ремурии

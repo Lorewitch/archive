@@ -2199,7 +2199,7 @@
 
 **Яэ Мико:** Продолжай своё путешествие, и такой момент настанет.
 
-### Без названия 2024
+### Дополнительный диалог — Разговор с Яэ Мико о происхождении Сказителя
 
 
 **Яэ Мико:** Знания, по которым создавали эту куклу, уже утеряны. Наверное, лишь ей, как божеству, известно их происхождение...
@@ -4553,7 +4553,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **Yae Miko:** Continue on your journey and maybe that moment will come to pass.
 
-### Untitled 2024
+### Additional dialogue — Yae Miko on the Balladeer’s origins
 
 
 **Yae Miko:** That puppet was built with technology that has been lost to time. Perhaps she, as a god, is the only one privy to the knowledge of its origins...
@@ -6907,7 +6907,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **八重神子:** 就在你接下来的旅途中，去见证那一刻吧。
 
-### 未命名 2024
+### 补充对话——八重神子谈散兵的起源
 
 
 **八重神子:** 「人偶」将军的技术源自于某些现今已然失落的知识，或许只有身为神明的她才能知会其中源头…

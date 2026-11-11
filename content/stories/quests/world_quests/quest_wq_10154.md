@@ -20,6 +20,8 @@
 # quest_series: In the Wake of Narcissus
 # version_source: wiki_release_category
 
+# quest_series_ru: По следам Нарцисса
+
 ## RU
 
 ### Пробуждение от великого сна
