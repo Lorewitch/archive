@@ -4,6 +4,9 @@ function renderBookDetail(book) {
   activeDetail = { type: "book", data: book };
   const volumes = Array.isArray(book.volumes) ? book.volumes : [];
   const isSingleVolumeBook = volumes.length <= 1;
+  if (!volumes.some(volume => volume.number === state.volume)) {
+    state.volume = volumes[0]?.number || 1;
+  }
 
   if (isSingleVolumeBook) {
     state.readAll = false;
@@ -39,14 +42,9 @@ function renderBookDetail(book) {
 
 function renderTextArea(book) {
   const volumes = state.readAll ? book.volumes : book.volumes.filter(volume => volume.number === state.volume);
-  const generalNote = cleanPublicNote(book.notes?.general || "");
-  const volumeNotes = book.notes?.byVolume || {};
 
-  return volumes.map((volume, index) => {
+  return volumes.map(volume => {
     const volumeTitle = escapeHtml(volume.title?.[state.lang] || "Том " + volume.number);
-    const volumeNote = cleanPublicNote(volumeNotes[volume.number] || "");
-    const noteText = volumeNote || (index === 0 ? generalNote : "");
-    const notesBlock = "";
 
     return `
       <article class="text-card" id="volume-${volume.number}">
@@ -54,7 +52,7 @@ function renderTextArea(book) {
           <div class="volume-title-main"><h3>${volumeTitle}</h3></div>
         </div>
         <div class="prose">${markdownToHtml(volume.text?.[state.lang] || "[нет текста]")}</div>
-        ${notesBlock}
+
       </article>
     `;
   }).join("");
@@ -103,13 +101,9 @@ function renderArtifactDetail(artifact) {
 function renderArtifactTextArea(artifact) {
   const parts = Array.isArray(artifact.parts) ? artifact.parts : [];
   const selectedParts = parts.length === 1 || state.artifactReadAll ? parts : parts.filter(part => part.key === state.artifactPart);
-  const generalNote = cleanPublicNote(artifact.notes?.general || "");
-  const partNotes = artifact.notes?.byPart || artifact.notes?.byVolume || {};
 
-  return selectedParts.map((part, index) => {
+  return selectedParts.map(part => {
     const partTitle = escapeHtml(artifactPartTitle(part, state.lang));
-    const noteText = cleanPublicNote(partNotes[part.key] || "") || (index === 0 ? generalNote : "");
-    const notesBlock = "";
 
     return `
       <article class="text-card artifact-text-card" id="artifact-part-${escapeHtml(part.key)}">
@@ -117,7 +111,7 @@ function renderArtifactTextArea(artifact) {
           <div class="volume-title-main"><h3>${partTitle}</h3></div>
         </div>
         <div class="prose">${markdownToHtml(emphasizeArtifactLabels(part.text?.[state.lang] || "[нет текста]"))}</div>
-        ${notesBlock}
+
       </article>
     `;
   }).join("");
@@ -136,34 +130,10 @@ function localizedEntryText(item) {
   return text || description || "";
 }
 
-function genericNotes(item) {
-  const notes = item?.notes;
-  if (!notes) return "";
-  if (typeof notes === "string") return cleanPublicNote(notes);
-  return cleanPublicNote(notes.general || "");
-}
-
-
 function localizedMaterialText(material) {
   const text = material?.text;
   if (text && typeof text === "object") return text[state.lang] || text.ru || text.en || text.zh || "";
   return text || "";
-}
-
-function enemyDescriptionKey(item = activeDetail?.data, configId = activeDetail?.configId || state.section) {
-  const id = item?.id || state.entryId || "";
-  const group = item?.item_group || state.subsection || "";
-  return id ? `${configId}:${group}:${id}` : "";
-}
-
-function rememberEnemyDescriptionState(panel, expanded) {
-  const key = panel?.dataset?.descriptionKey || enemyDescriptionKey();
-  if (!key) return;
-  if (expanded) {
-    expandedEnemyDescriptionKeys.add(key);
-  } else {
-    expandedEnemyDescriptionKeys.delete(key);
-  }
 }
 
 function renderBossOverviewCard(item) {
@@ -172,7 +142,7 @@ function renderBossOverviewCard(item) {
   const icon = renderInventoryIcon(item, "inventory-card-icon boss-overview-icon", 112);
 
   return `
-    <article class="text-card inventory-card boss-overview-card" data-description-key="${escapeHtml(enemyDescriptionKey(item, activeDetail?.configId || state.section))}">
+    <article class="text-card inventory-card boss-overview-card">
       <div class="volume-title">
         ${renderInventoryTitleBlock(item)}
       </div>
@@ -219,7 +189,6 @@ function renderEnemyMaterialsTextArea(item) {
   return materials.map(material => {
     const text = localizedMaterialText(material) || "Описание материала будет добавлено позже.";
     const iconMarkup = material.icon ? `<img class="inventory-card-icon material-float-icon" src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="112" height="112">` : "";
-    const notesBlock = "";
 
     return `
       <article class="text-card artifact-text-card inventory-card inventory-material-card" id="item-material-${escapeHtml(material.key)}">
@@ -227,7 +196,7 @@ function renderEnemyMaterialsTextArea(item) {
           ${renderInventoryMaterialTitleBlock(material)}
         </div>
         <div class="prose material-reader-body inventory-card-body">${iconMarkup}${markdownToHtml(text)}</div>
-        ${notesBlock}
+
       </article>
     `;
   }).join("");
@@ -371,7 +340,6 @@ function renderStoryTextArea(story) {
   const visibleParts = state.storyReadAll ? parts : parts.filter(part => Number(part.number) === Number(state.storyPart));
 
   return visibleParts.map(part => {
-    const notesBlock = "";
 
     return `
       <article class="text-card story-text-card" id="story-part-${escapeHtml(part.number)}">
@@ -379,7 +347,7 @@ function renderStoryTextArea(story) {
           <div class="volume-title-main"><h3>${escapeHtml(storyPartTitle(part))}</h3></div>
         </div>
         <div class="prose">${markdownToHtml(storyPartText(part))}</div>
-        ${notesBlock}
+
       </article>
     `;
   }).join("");
@@ -473,8 +441,6 @@ function renderGenericDetail(item, config) {
   }
 
   const text = localizedEntryText(item) || "Текст этой записи будет добавлен позже.";
-  const noteText = genericNotes(item);
-  const notesBlock = "";
   const isWeapon = config.id === "weapons";
   const isSimpleItem = config.id === "items";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
@@ -504,7 +470,7 @@ function renderGenericDetail(item, config) {
   const detailMarkup = isWeapon ? `
       ${weaponDescriptionBlock || `${renderReaderBlockHeading(readerSectionLabel("description"), "reader-block-heading-accent")}<article class="weapon-description-panel ${config.id}-detail-card"><div class="prose">${markdownToHtml(text)}</div></article>`}
       ${weaponHistoryBlock}
-      ${notesBlock}
+
   ` : `
       <article class="text-card generic-text-card ${config.id}-detail-card">
         <div class="volume-title generic-title">
@@ -512,7 +478,7 @@ function renderGenericDetail(item, config) {
         </div>
         ${bodyBlock}
         ${droppedByBlock}
-        ${notesBlock}
+
       </article>
   `;
 

@@ -44,7 +44,7 @@ function currentFilterState() {
 }
 
 const debouncedCatalogUpdate = debounce((sectionId, subsection, collection) => {
-  if (state.section !== sectionId || state.subsection !== subsection || state.collection !== collection) return;
+  if (state.entryId || state.section !== sectionId || state.subsection !== subsection || state.collection !== collection) return;
   updateCatalogTable(getSectionConfig(sectionId));
 });
 
@@ -101,17 +101,6 @@ function handleAppClick(event) {
     return;
   }
 
-  const enemyToggle = event.target.closest(".enemy-description-toggle");
-  if (enemyToggle) {
-    const panel = enemyToggle.closest(".enemy-description-panel");
-    if (!panel) return;
-    const isCollapsed = panel.classList.toggle("is-collapsed");
-    rememberEnemyDescriptionState(panel, !isCollapsed);
-    enemyToggle.setAttribute("aria-expanded", String(!isCollapsed));
-    enemyToggle.textContent = isCollapsed ? "Показать полностью" : "Свернуть";
-    return;
-  }
-
   if (event.target.closest("[data-story-categories]")) {
     setRoute("stories");
     return;
@@ -157,7 +146,6 @@ function handleAppClick(event) {
     setRoute(currentCatalogConfig().id, null, groupCard.dataset.group);
     return;
   }
-
 
   const pageButton = event.target.closest("[data-catalog-page]");
   if (pageButton) {
@@ -260,13 +248,12 @@ function handleAppClick(event) {
 
 function handleAppKeydown(event) {
   const row = event.target.closest("[data-entry-id]");
-  if (!row || (event.key !== "Enter" && event.key !== " ")) return;
+  if (event.target !== row || !row || (event.key !== "Enter" && event.key !== " ")) return;
   event.preventDefault();
   const sectionId = row.dataset.sectionId || currentCatalogConfig().id;
   rememberStoryCatalogOrigin(sectionId);
   setRoute(sectionId, row.dataset.entryId, state.subsection);
 }
-
 
 function syncCatalogResetButton(config = currentCatalogConfig()) {
   const resetButton = document.getElementById("reset-filters");
@@ -311,7 +298,6 @@ function handleAppChange(event) {
       .filter(input => input.checked)
       .map(input => input.value)
       .filter(value => defaultValues.includes(value));
-
 
     filterState.page = 1;
     if (config.id === "items" || config.id === "stories") {

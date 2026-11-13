@@ -12,7 +12,11 @@ on:
       - 'content/enemies/**'
       - 'src/css/**'
       - 'src/js/**'
+      - 'index.html'
+      - 'README.md'
       - 'tools/build_archive.py'
+      - 'tools/check_bot_index.py'
+      - 'tools/test_client.cjs'
       - 'tools/build_bot_mentions_index.py'
       - 'tools/build_bot_runtime_index.py'
       - 'tools/build_css.py'
@@ -20,6 +24,7 @@ on:
       - 'tools/check_archive.py'
       - 'tools/bump_cache_version.py'
       - 'assets/js/archive.js'
+      - 'assets/css/archive.css'
       - 'assets/icons/**'
       - '.github/workflows/build-archive.yml'
   workflow_dispatch:
@@ -77,7 +82,7 @@ jobs:
             git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" > "$changed_files"
           fi
 
-          if grep -Eq '^(assets/js/archive\.js|assets/icons/)' "$changed_files"; then
+          if grep -Eq '^(data/|assets/(css/|js/|icons/)|index\.html$)' "$changed_files"; then
             public_changed=true
           fi
 
@@ -89,6 +94,11 @@ jobs:
 
       - name: Check generated archive
         run: python tools/check_archive.py
+
+      - name: Check browser script and client regressions
+        run: |
+          node --check assets/js/archive.js
+          node --test tools/test_client.cjs
 
       - name: Commit generated files
         shell: bash

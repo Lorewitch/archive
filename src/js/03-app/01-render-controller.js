@@ -2,29 +2,24 @@
 
 function prefetchDetail(sectionId, entryId) {
   if (!entryId) return;
-  const key = `${sectionId}:${entryId}`;
-  if (key === lastPrefetchedEntryKey) return;
-  lastPrefetchedEntryKey = key;
-
   const loader = sectionId === "books" ? getBookById(entryId) : getGenericDetail(sectionId, entryId);
   loader.catch(() => {});
 }
 
 function handleAppPrefetch(event) {
   const row = event.target.closest("[data-entry-id]");
-  if (!row) return;
+  if (!row || row.contains(event.relatedTarget)) return;
   prefetchDetail(row.dataset.sectionId || currentCatalogConfig().id, row.dataset.entryId);
 }
-
 
 function renderHome() {
   activeDetail = null;
   app.innerHTML = `
     <section class="page-card home-page">
-      <article class="home-intro" aria-label="О Библиотеке">
-        <p>Библиотека Лороведьмы — это тихий архив игровых текстов. Не википедия, не справочник с числовыми обозначениями и не таблица характеристик, а место, где можно спокойно читать книги, записки, описания предметов, оружия и артефактов.</p>
+      <article class="home-intro" aria-label="Об Архиве">
+        <p>Архив Лороведьмы — это тихое собрание игровых текстов. Не википедия, не справочник с числовыми обозначениями и не таблица характеристик, а место, где можно спокойно читать книги, записки, описания предметов, оружия и артефактов.</p>
         <p>Здесь собраны тексты Тейвата в удобной форме: без лишнего шума, без пересказов и без попытки заменить сам источник. Только строки, которые уже есть в игре, аккуратно разложенные по полкам.</p>
-        <p>Эта библиотека создана Лороведьмой для лороведов — для тех, кто любит возвращаться к деталям, сверять формулировки, искать связи и просто читать мир внимательнее.</p>
+        <p>Этот архив создан Лороведьмой для лороведов — для тех, кто любит возвращаться к деталям, сверять формулировки, искать связи и просто читать мир внимательнее.</p>
       </article>
     </section>
   `;
@@ -66,6 +61,15 @@ async function render() {
   const config = getSectionConfig();
 
   if (!state.entryId && config.groups && !state.subsection) {
+    try {
+      await loadArchiveSummary();
+    } catch (error) {
+      if (sequence !== renderSequence) return;
+      renderError(error.message || "Не удалось загрузить категории.");
+      markRouteRendered(routeKey, routeChanged);
+      return;
+    }
+    if (sequence !== renderSequence) return;
     renderGroupSelector(config);
     markRouteRendered(routeKey, routeChanged);
     return;
@@ -169,10 +173,16 @@ app.addEventListener("change", handleAppChange);
 app.addEventListener("mouseover", handleAppPrefetch);
 app.addEventListener("focusin", handleAppPrefetch);
 document.getElementById("open-menu")?.addEventListener("click", toggleMenu);
-const drawerBackdrop = document.getElementById("drawer-backdrop");
-drawerBackdrop?.addEventListener("click", closeMenu);
-drawerBackdrop?.addEventListener("touchmove", event => event.preventDefault(), { passive: false });
 window.addEventListener("hashchange", render);
 window.addEventListener("keydown", event => {
   if (event.key === "Escape") closeMenu();
+  if (event.key !== "Tab" || !document.body.classList.contains("menu-open")) return;
+  const buttons = [document.getElementById("open-menu"), ...sidebar.querySelectorAll("button")]
+    .filter(button => button.getClientRects().length && !button.disabled);
+  const first = buttons[0], last = buttons[buttons.length - 1];
+  if (event.shiftKey && document.activeElement === first) {
+    event.preventDefault(); last?.focus();
+  } else if (!event.shiftKey && document.activeElement === last) {
+    event.preventDefault(); first?.focus();
+  }
 });

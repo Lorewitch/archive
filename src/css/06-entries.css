@@ -42,16 +42,6 @@
   align-content: start;
 }
 
-.catalog-material-card,
-.catalog-material-plain,
-.enemy-card {
-  width: 100%;
-  min-width: 0;
-  border: 1px solid rgba(91, 74, 62, 0.14);
-  background: rgba(203, 191, 175, 0.20);
-  overflow: hidden;
-}
-
 .dropped-by-card {
   width: 100%;
   min-width: 0;
@@ -175,4 +165,9 @@ a.enemy-loot-chip:focus-visible {
   height: 22px;
   object-fit: contain;
   flex: 0 0 22px;
+}
+
+.enemy-loot-chip > span {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }

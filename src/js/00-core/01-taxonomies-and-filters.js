@@ -54,7 +54,6 @@ const RARITY_FILTERS = [
   { value: "rarity:1", label: "1★", icon: `${UI_ICON_BASE}/star.webp`, color: ICON_COLORS.rarity1, group: "rarity" },
 ];
 
-
 const BOOK_TYPE_FILTERS = [
   ["book_series", "Книжные серии"],
   ["notes", "Записки"],
@@ -261,7 +260,6 @@ function isCharacterStoriesCatalog(config = getSectionConfig()) {
   return config?.id === "stories" && state.subsection === "character_stories";
 }
 
-
 const DEVELOPMENT_MATERIAL_TYPE_FILTERS = [
   ["talents", "Таланты"],
   ["character_ascension", "Возвышение персонажа"],
@@ -273,7 +271,6 @@ const DEVELOPMENT_MATERIAL_TYPE_LABELS = {
   character_ascension: { ru: "Возвышение персонажа", en: "Character Ascension", zh: "角色突破" },
   weapon_ascension: { ru: "Возвышение оружия", en: "Weapon Ascension", zh: "武器突破" },
 };
-
 
 const ITEM_GROUP_TYPE_FILTERS = {
   teyvat_resources: [
@@ -351,12 +348,6 @@ function normalizeDevelopmentMaterialType(value) {
     .replace(/[^a-z0-9]+/g, "_")
     .replace(/^_+|_+$/g, "");
   return DEVELOPMENT_MATERIAL_TYPE_LABELS[key] ? key : "talents";
-}
-
-function developmentMaterialTypeTitle(item, lang = "ru") {
-  const key = normalizeDevelopmentMaterialType(item?.material_type);
-  const labels = DEVELOPMENT_MATERIAL_TYPE_LABELS[key] || DEVELOPMENT_MATERIAL_TYPE_LABELS.talents;
-  return item?.material_type_title?.[lang] || labels[lang] || labels.ru;
 }
 
 function itemGroupUsesTypeFilters(group = state.subsection) {
@@ -556,7 +547,6 @@ function renderTypeFilters(config) {
   return renderTypeFilterRow(options, activeTypes);
 }
 
-
 const COMMON_ENEMY_TYPE_FILTERS = [
   ["hilichurls", "Хиличурлы"],
   ["elementals", "Элементали"],
@@ -629,18 +619,6 @@ function catalogFilterLabel(config) {
     return "Все регионы";
   }
   return config.filterLabel;
-}
-
-function commonEnemyTypeLabel(value) {
-  const normalized = normalizeCommonEnemyType(value);
-  const known = COMMON_ENEMY_TYPE_FILTERS.find(([key]) => key === normalized);
-  return known?.[1] || String(value || "").trim() || "Другие";
-}
-
-function itemCommonEnemyTypeLabels(item) {
-  return Array.from(itemCommonEnemyTypes(item))
-    .map(type => commonEnemyTypeLabel(type))
-    .filter(Boolean);
 }
 
 const ARTIFACT_PART_LABELS = {

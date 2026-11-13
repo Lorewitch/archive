@@ -11,16 +11,6 @@
   letter-spacing: -0.045em;
 }
 
-.page-head .lead,
-.lead {
-  max-width: 780px;
-  margin: 18px 0 0;
-  color: var(--muted);
-  font-size: var(--font-size-lead);
-  line-height: 1.55;
-}
-
-
 .catalog-sticky-head {
   position: sticky;
   top: 0;
@@ -46,74 +36,6 @@
   pointer-events: none;
 }
 
-.catalog-top {
-  margin: 0 0 24px;
-}
-
-.catalog-top h1 {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  max-width: 100%;
-  min-height: 48px;
-  margin: 0;
-  padding: 0 18px;
-  background: var(--accent);
-  color: #f6f2eb;
-  border: 1px solid rgba(246, 242, 235, 0.16);
-  border-radius: 10px;
-  font-size: var(--font-size-category-title);
-  font-weight: 760;
-  line-height: 1.1;
-  letter-spacing: 0.055em;
-  text-transform: uppercase;
-  text-wrap: balance;
-}
-
-.catalog-page.is-subsection .catalog-top h1 {
-  font-size: var(--font-size-subcategory-title);
-  font-weight: 760;
-  line-height: 1.1;
-  letter-spacing: 0.05em;
-}
-
-.home-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 14px;
-  margin-top: 26px;
-}
-
-.home-tile {
-  min-height: 126px;
-  display: grid;
-  align-content: space-between;
-  gap: 12px;
-  padding: 18px;
-  background: rgba(232, 222, 212, 0.70);
-  border: 1px solid rgba(91, 74, 62, 0.16);
-  text-align: left;
-  box-shadow: none;
-}
-
-.home-tile:hover {
-  background: rgba(225, 214, 200, 0.78);
-}
-
-.home-tile-title {
-  color: #211b17;
-  font-size: var(--font-size-home-title);
-  font-weight: 890;
-  letter-spacing: -0.035em;
-}
-
-.home-tile-text {
-  color: var(--muted);
-  font-size: var(--font-size-home-text);
-  line-height: 1.45;
-}
-
-
 .toolbar {
   display: grid;
   grid-template-columns: 1fr;
@@ -122,8 +44,7 @@
   margin: 0;
 }
 
-.catalog-search-bar,
-.search-panel {
+.catalog-search-bar {
   display: grid;
   grid-template-columns: minmax(250px, 1fr) auto;
   gap: 20px;
@@ -148,7 +69,6 @@
 }
 
 .search input,
-.search-input,
 .select,
 .pagination-size select {
   min-width: 0;
@@ -167,7 +87,6 @@
 }
 
 .search input:focus,
-.search-input:focus,
 .select:focus,
 .pagination-size select:focus {
   outline: 0;
@@ -236,9 +155,7 @@
   background: transparent;
 }
 
-.toolbar-filter-scroll .type-filter-row,
-.toolbar-filter-scroll .type-filter-stack,
-.toolbar-filter-scroll .filter-row {
+.toolbar-filter-scroll .type-filter-row {
   flex: 0 0 auto;
   grid-column: auto;
   width: max-content;
@@ -260,9 +177,7 @@
   color: #211b17;
 }
 
-.type-filter-row,
-.type-filter-stack,
-.filter-row {
+.type-filter-row {
   display: flex;
   flex-wrap: nowrap;
   gap: 9px;
@@ -273,14 +188,6 @@
   overflow-y: hidden;
   scrollbar-width: thin;
 }
-
-.type-filter-stack {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 9px;
-  grid-column: 1 / -1;
-}
-
 
 .filter-reset-button {
   flex: 0 0 auto;
@@ -326,8 +233,7 @@
   transform: translateY(-1px);
 }
 
-.type-filter-row::-webkit-scrollbar,
-.type-filter-stack::-webkit-scrollbar {
+.type-filter-row::-webkit-scrollbar {
   height: 0;
   display: none;
 }
@@ -343,14 +249,11 @@
 }
 
 .type-filter-chip,
-.filter-button,
 .mode-button,
 .lang-switch button,
 .volume-scroll button,
 .pagination button,
-.sortable-head,
-.enemy-loot-chip,
-.type-filter-toggle {
+.enemy-loot-chip {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -368,8 +271,6 @@
 }
 
 .type-filter-chip:hover,
-.filter-button:hover,
-.filter-button.is-active,
 .mode-button:hover,
 .mode-button.active,
 .lang-switch button:hover,
@@ -455,7 +356,6 @@
 }
 
 .type-filter-icon,
-.rarity-icon,
 .element-icon {
   display: block;
   width: 23px;
@@ -472,30 +372,14 @@
   mask-mode: alpha;
 }
 
-.rarity-icon-pill {
-  display: inline-grid;
-  place-items: center;
-  width: 34px;
-  height: 34px;
-  background: transparent;
-  box-shadow: none;
-}
-
-.rarity-icon {
-  width: 22px;
-  height: 22px;
-}
-
-.group-grid,
-.section-grid {
+.group-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 12px;
   margin-top: 18px;
 }
 
-.group-card,
-.entry-card {
+.group-card {
   min-height: 132px;
   display: grid;
   align-content: start;
@@ -507,8 +391,7 @@
   box-shadow: none;
 }
 
-.group-card:hover,
-.entry-card:hover {
+.group-card:hover {
   background: rgba(225, 214, 200, 0.78);
 }
 
@@ -520,32 +403,17 @@
   letter-spacing: -0.035em;
 }
 
-
-.entry-title {
-  color: #211b17;
-  font-size: var(--font-size-list-title);
-  font-weight: 880;
-  line-height: 1.13;
-  letter-spacing: -0.035em;
-}
-
 .group-card-meta,
-.entry-meta,
-.entry-tags,
 .subtitle,
-.catalog-subtitle,
-.detail-meta,
 .tiny-pill,
 .pagination-count,
-.pagination-size,
-.search-count {
+.pagination-size {
   color: var(--muted);
   font-size: var(--font-size-control);
   line-height: 1.45;
 }
 
-.tiny-pill,
-.tag {
+.tiny-pill {
   display: inline-flex;
   align-items: center;
   min-height: 23px;
@@ -556,10 +424,6 @@
   font-weight: 760;
 }
 
-.catalog-subhead,
-.detail-topline,
-.reader-toolbar,
-.volume-strip,
 .parts-row,
 .volume-title,
 .pagination {
@@ -567,173 +431,6 @@
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
-}
-
-.catalog-subhead {
-  justify-content: space-between;
-  margin: -8px 0 16px;
-}
-
-.catalog-table {
-  display: grid;
-  gap: 7px;
-  margin-top: 16px;
-}
-
-.catalog-row {
-  display: grid;
-  grid-template-columns: var(--catalog-columns, minmax(260px, 1.9fr) minmax(180px, 1fr) 90px);
-  gap: 16px;
-  align-items: center;
-  min-width: 0;
-  min-height: 64px;
-  padding: 10px 14px;
-  background: rgba(232, 222, 212, 0.58);
-  border: 1px solid rgba(91, 74, 62, 0.14);
-}
-
-.catalog-row > div {
-  min-width: 0;
-}
-
-.catalog-row.cols-books {
-  --catalog-columns: minmax(360px, 1.7fr) 84px minmax(150px, 0.58fr) minmax(170px, 0.78fr);
-}
-
-.catalog-row.cols-books > div:nth-child(2) {
-  justify-self: center;
-  text-align: center;
-}
-
-.catalog-row.cols-books > div:nth-child(4) {
-  justify-self: start;
-  text-align: left;
-}
-
-.catalog-row.cols-artifacts {
-  --catalog-columns: minmax(260px, 1.8fr) minmax(170px, 1fr) 120px;
-}
-
-.catalog-row.cols-weapons {
-  --catalog-columns: minmax(260px, 1.8fr) minmax(160px, 0.9fr) 100px;
-}
-
-.catalog-row.cols-items {
-  --catalog-columns: minmax(260px, 1.8fr) minmax(180px, 0.9fr);
-}
-
-.catalog-row.cols-items-enemy {
-  --catalog-columns: minmax(320px, 1.52fr) minmax(300px, 1.12fr) minmax(150px, 0.66fr);
-  gap: 22px;
-}
-
-.catalog-row.cols-items-common-enemy {
-  --catalog-columns: minmax(420px, 1.45fr) minmax(190px, 0.6fr) minmax(340px, 0.95fr);
-  gap: 24px;
-}
-
-.catalog-row.cols-items-common-enemy .material-list {
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 8px;
-}
-
-.catalog-row.cols-items-development {
-  --catalog-columns: minmax(340px, 1.35fr) minmax(190px, 0.62fr) minmax(150px, 0.48fr);
-}
-
-.catalog-row.cols-items-development.item > div {
-  align-self: center;
-}
-
-.catalog-row.cols-items-development.item > div:first-child {
-  align-self: start;
-}
-
-.catalog-row.cols-items-development .catalog-material-plain-list {
-  gap: 10px;
-}
-
-.catalog-row.cols-items-typed {
-  --catalog-columns: minmax(300px, 1.45fr) minmax(180px, 0.7fr) minmax(150px, 0.55fr);
-}
-
-.catalog-row.cols-items-typed.item > div {
-  align-self: center;
-}
-
-.catalog-row.cols-items-typed.item > div:first-child {
-  align-self: center;
-}
-
-.catalog-row.cols-stories-character {
-  --catalog-columns: minmax(310px, 1.05fr) minmax(280px, 0.95fr) minmax(110px, 0.34fr) minmax(170px, 0.58fr);
-}
-
-.catalog-row.cols-stories-character.item > div {
-  align-self: center;
-}
-
-.catalog-row.head {
-  min-height: 42px;
-  background: rgba(91, 74, 62, 0.10);
-  color: var(--muted);
-  font-size: var(--font-size-control-small);
-  font-weight: 840;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
-
-.catalog-row:not(.head):hover {
-  background: rgba(225, 214, 200, 0.76);
-}
-
-.catalog-row.items-row,
-.catalog-row.stories-row,
-.catalog-row.books-row,
-.catalog-row.weapons-row,
-.catalog-row.artifacts-row,
-.catalog-row.item {
-  cursor: pointer;
-}
-
-.title-cell,
-.catalog-title-cell,
-.entry-main {
-  min-width: 0;
-  display: grid;
-  gap: 4px;
-}
-
-.entry-title-cell {
-  min-width: 0;
-  display: flex;
-  align-items: flex-start;
-  gap: 11px;
-}
-
-.catalog-row.cols-stories-character .entry-title-cell {
-  align-items: center;
-}
-
-.catalog-title-link,
-.title-main,
-.catalog-title,
-.book-title {
-  color: #211b17;
-  font-size: var(--font-size-catalog-row-title);
-  font-weight: 840;
-  line-height: 1.24;
-}
-
-.catalog-title-sub,
-.title-sub,
-.catalog-sub,
-.book-subtitle {
-  margin-top: 2px;
-  color: var(--muted);
-  font-size: var(--font-size-control-small);
-  line-height: 1.22;
 }
 
 .entry-icon {
@@ -746,8 +443,6 @@
   margin-top: 1px;
 }
 
-.catalog-icon,
-.detail-icon,
 .item-description-float-icon {
   --entry-icon-size: 44px;
   width: var(--entry-icon-size);
@@ -756,13 +451,6 @@
   background: var(--icon-bg, rgba(216, 206, 192, 0.72));
   border: 1px solid rgba(91, 74, 62, 0.16);
   margin-top: 1px;
-}
-
-.story-character-entry-icon {
-  --entry-icon-size: 72px;
-  width: 72px;
-  height: 72px;
-  margin-top: 0;
 }
 
 .element-pill,
@@ -781,11 +469,6 @@
 .element-icon {
   width: 22px;
   height: 22px;
-}
-
-.entry-material-preview {
-  display: none;
-  margin-top: 10px;
 }
 
 .material-list {
@@ -824,66 +507,6 @@
   height: 23px;
   flex: 0 0 28px;
   object-fit: contain;
-}
-
-.catalog-material-title-label {
-  min-width: 0;
-}
-
-.catalog-material-plain-list {
-  display: grid;
-  gap: 10px;
-  min-width: 0;
-}
-
-.catalog-material-plain-item {
-  display: grid;
-  grid-template-columns: 38px minmax(0, 1fr);
-  gap: 10px;
-  align-items: center;
-  min-width: 0;
-}
-
-.catalog-material-plain-item img {
-  width: 38px;
-  height: 38px;
-  object-fit: contain;
-  flex: 0 0 38px;
-}
-
-.catalog-material-plain-text {
-  display: grid;
-  gap: 2px;
-  min-width: 0;
-}
-
-.catalog-material-plain-ru {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 5px 7px;
-  min-width: 0;
-  color: #211b17;
-  font-size: var(--font-size-material-title);
-  font-weight: 900;
-  line-height: 1.24;
-  overflow-wrap: anywhere;
-}
-
-.catalog-material-plain-sub {
-  color: var(--muted);
-  font-size: var(--font-size-card-meta);
-  font-weight: 520;
-  line-height: 1.25;
-  overflow-wrap: anywhere;
-}
-
-.common-enemy-type-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 7px;
-  align-items: center;
-  min-width: 0;
 }
 
 .common-enemy-type-chip {
@@ -935,7 +558,6 @@
   object-fit: contain;
   flex: 0 0 22px;
 }
-
 
 .catalog-card-grid {
   display: grid;
@@ -1028,6 +650,7 @@
 
 /* В каталогах книг, артефактов и оружия цвет редкости виден только в нижней полосе.
    Фон иконки совпадает с нейтральным фоном Бестиария. */
+
 .catalog-card--books .catalog-card-media,
 .catalog-card--artifacts .catalog-card-media,
 .catalog-card--weapons .catalog-card-media {
@@ -1044,8 +667,6 @@
   border: 0;
   box-shadow: none;
 }
-
-
 
 .catalog-card-placeholder {
   display: grid;
@@ -1070,7 +691,6 @@
   flex-direction: column;
 }
 
-
 .catalog-card-title {
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -1084,7 +704,6 @@
   text-transform: uppercase;
   overflow-wrap: anywhere;
 }
-
 
 .catalog-card-subtitle {
   margin-top: 7px;
@@ -1162,7 +781,6 @@
 
 .catalog-card-meta-item.has-chip-list .material-list,
 .catalog-card-meta-item.has-chip-list .dropped-by-catalog-list,
-.catalog-card-meta-item.has-chip-list .common-enemy-type-list,
 .catalog-card-meta-item.has-chip-list .story-element-list {
   display: flex;
   flex: 1 1 auto;
@@ -1224,7 +842,6 @@
 
 .catalog-card-meta-value .material-list,
 .catalog-card-meta-value .dropped-by-catalog-list,
-.catalog-card-meta-value .common-enemy-type-list,
 .catalog-card-meta-value .story-element-list {
   gap: 6px;
 }
@@ -1253,12 +870,6 @@
   flex-basis: 20px;
 }
 
-.catalog-card-meta-value .rarity-icon-pill {
-  width: 24px;
-  height: 24px;
-}
-
-.catalog-card-meta-value .rarity-icon,
 .catalog-card-meta-value .element-icon {
   width: 19px;
   height: 19px;
@@ -1270,13 +881,29 @@
   color: rgba(243, 236, 223, 0.92);
 }
 
-.card-rarity-5 { --card-rarity: #ffb13d; }
-.card-rarity-4 { --card-rarity: #b072ff; }
-.card-rarity-3 { --card-rarity: #55c5ff; }
-.card-rarity-2 { --card-rarity: #8fda69; }
-.card-rarity-1 { --card-rarity: #c5bbae; }
-.card-neutral { --card-rarity: #8b8177; }
+.card-rarity-5 {
+  --card-rarity: #ffb13d;
+}
 
+.card-rarity-4 {
+  --card-rarity: #b072ff;
+}
+
+.card-rarity-3 {
+  --card-rarity: #55c5ff;
+}
+
+.card-rarity-2 {
+  --card-rarity: #8fda69;
+}
+
+.card-rarity-1 {
+  --card-rarity: #c5bbae;
+}
+
+.card-neutral {
+  --card-rarity: #8b8177;
+}
 
 .pagination {
   justify-content: flex-start;
@@ -1325,18 +952,11 @@
   cursor: default;
 }
 
-.empty,
-.empty-state,
-.status-line {
+.empty {
   display: grid;
   place-items: center;
   min-height: 160px;
   color: var(--muted);
-}
-
-.catalog-table .empty {
-  display: block;
-  min-height: 0;
 }
 
 .empty-card {
@@ -1345,33 +965,31 @@
   border: 1px solid rgba(91, 74, 62, 0.14);
 }
 
-
-
 .toolbar,
-.search-panel,
 .search,
 .select,
 .pagination-size select,
 .group-card,
-.entry-card,
-.catalog-row,
 .material-chip,
 .common-enemy-type-chip,
 .dropped-by-catalog-chip,
-.home-tile,
 .empty-card,
 .filter-reset-button {
   box-shadow: none;
 }
 
-
 /* Истории персонажей: крупный портрет без цветного градиента под иконкой. */
-.catalog-card--character-story { grid-template-columns: 120px minmax(0, 1fr); }
+
+.catalog-card--character-story {
+  grid-template-columns: 120px minmax(0, 1fr);
+}
+
 .catalog-card--character-story .catalog-card-media {
   width: 116px;
   height: 116px;
   background: rgba(113, 107, 96, 0.58);
 }
+
 .catalog-card--character-story .catalog-card-img.is-person {
   width: 110px;
   height: 110px;
@@ -1381,13 +999,29 @@
 }
 
 /* Задания Архонтов: сначала тома, затем главы с версиями выхода. */
-.archon-collections-page { min-width: 0; }
-.archon-collections-intro { margin: 4px 0 24px; }
+
+.archon-collections-page {
+  min-width: 0;
+}
+
+.archon-collections-intro {
+  margin: 4px 0 24px;
+}
+
 .archon-collections-intro h1,
-.archon-collection-head h1 { color: var(--ink); margin: 12px 0 8px; font-size: clamp(27px, 2.4vw, 38px); }
+.archon-collection-head h1 {
+  color: var(--ink); margin: 12px 0 8px; font-size: clamp(27px, 2.4vw, 38px);
+}
+
 .archon-collections-intro p,
-.archon-collection-head p { margin: 0; max-width: 76ch; color: var(--muted); line-height: 1.6; }
-.archon-collections-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.archon-collection-head p {
+  margin: 0; max-width: 76ch; color: var(--muted); line-height: 1.6;
+}
+
+.archon-collections-grid {
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px;
+}
+
 .archon-collection-card {
   display: flex; flex-direction: column; align-items: flex-start; text-align: left;
   gap: 12px; min-width: 0; padding: 22px;
@@ -1395,32 +1029,71 @@
   border: 0; border-bottom: 4px solid var(--accent-soft); cursor: pointer;
   transition: background-color .16s ease;
 }
-.archon-collection-card:hover { background: var(--accent-hover); }
-.archon-collection-card:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: 2px; }
-.archon-collection-chapter { color: var(--accent-soft); font-size: .76rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
-.archon-collection-title { font-size: clamp(19px, 1.6vw, 25px); font-weight: 750; letter-spacing: .03em; }
-.archon-collection-description { color: rgba(243,236,223,.83); font-size: .87rem; line-height: 1.5; flex: 1; }
-.archon-collection-footer { width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 9px; font-size: .77rem; font-weight: 700; color: rgba(243,236,223,.7); border-top: 1px solid rgba(243,236,223,.18); padding-top: 12px; }
-.archon-collections-back { border: 0; background: transparent; color: var(--muted); padding: 3px 0; cursor: pointer; font-size: .85rem; font-weight: 650; }
-.archon-collections-back:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
-.archon-collection-head { margin: 0 0 22px; }
-.archon-collection-head .archon-collection-chapter { display: block; margin-top: 16px; color: #737b52; }
-.catalog-card-chapter { color: rgba(243,236,223,.92); font-weight: 710; }
-.catalog-card-archon-region { display: block; margin-top: 6px; color: rgba(243,236,223,.73); font-size: .8rem; }
+
+.archon-collection-card:hover {
+  background: var(--accent-hover);
+}
+
+.archon-collection-card:focus-visible {
+  outline: 2px solid var(--accent-soft); outline-offset: 2px;
+}
+
+.archon-collection-chapter {
+  color: var(--accent-soft); font-size: .76rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase;
+}
+
+.archon-collection-title {
+  font-size: clamp(19px, 1.6vw, 25px); font-weight: 750; letter-spacing: .03em;
+}
+
+.archon-collection-description {
+  color: rgba(243,236,223,.83); font-size: .87rem; line-height: 1.5; flex: 1;
+}
+
+.archon-collection-footer {
+  width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 9px; font-size: .77rem; font-weight: 700; color: rgba(243,236,223,.7); border-top: 1px solid rgba(243,236,223,.18); padding-top: 12px;
+}
+
+.archon-collections-back {
+  border: 0; background: transparent; color: var(--muted); padding: 3px 0; cursor: pointer; font-size: .85rem; font-weight: 650;
+}
+
+.archon-collections-back:hover {
+  color: var(--ink); text-decoration: underline; text-underline-offset: 3px;
+}
+
+.archon-collection-head {
+  margin: 0 0 22px;
+}
+
+.archon-collection-head .archon-collection-chapter {
+  display: block; margin-top: 16px; color: #737b52;
+}
+
+.catalog-card-chapter {
+  color: rgba(243,236,223,.92); font-weight: 710;
+}
+
+.catalog-card-archon-region {
+  display: block; margin-top: 6px; color: rgba(243,236,223,.73); font-size: .8rem;
+}
 
 /* Заголовок сборки должен оставаться над поиском, не перекрываться липкой шапкой. */
+
 .catalog-page.is-archon-collection .catalog-sticky-head {
   margin-top: 0;
   padding-top: 18px;
   border-radius: 0;
 }
+
 /* В читалке историй персонажей нет заливки редкости за портретом. */
+
 .story-page .reader-head-icon.story-detail-icon {
   background: rgba(113, 107, 96, 0.58);
 }
 
-
 /* Мировые серии: раскрываются в том же каталоге, без новой вложенной страницы. */
+
 .quest-series-card {
   min-width: 0;
   color: var(--menu-ink);
@@ -1428,6 +1101,7 @@
   border-bottom: 4px solid var(--accent-soft);
   align-self: start;
 }
+
 .quest-series-summary {
   display: flex;
   align-items: center;
@@ -1438,36 +1112,100 @@
   list-style: none;
   transition: background-color .14s ease;
 }
-.quest-series-summary::-webkit-details-marker { display: none; }
-.quest-series-summary:hover { background: var(--accent-hover); }
-.quest-series-summary:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: -3px; }
+
+.quest-series-summary::-webkit-details-marker {
+  display: none;
+}
+
+.quest-series-summary:hover {
+  background: var(--accent-hover);
+}
+
+.quest-series-summary:focus-visible {
+  outline: 2px solid var(--accent-soft); outline-offset: -3px;
+}
+
 .quest-series-symbol {
   color: var(--accent-soft);
   font-size: 20px;
   line-height: 1;
   transition: transform .14s ease;
 }
-.quest-series-card[open] .quest-series-symbol { transform: rotate(90deg); }
-.quest-series-heading { display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 0; }
-.quest-series-heading strong { font-size: 17px; font-weight: 750; line-height: 1.3; }
-.quest-series-heading small { color: rgba(243,236,223,.72); font-size: 12px; }
-.quest-series-version { flex-shrink: 0; color: rgba(243,236,223,.78); font-size: 12px; }
-.quest-series-members { border-top: 1px solid rgba(243,236,223,.18); padding: 6px 10px 12px; }
+
+.quest-series-card[open] .quest-series-symbol {
+  transform: rotate(90deg);
+}
+
+.quest-series-heading {
+  display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 0;
+}
+
+.quest-series-heading strong {
+  font-size: 17px; font-weight: 750; line-height: 1.3;
+}
+
+.quest-series-heading small {
+  color: rgba(243,236,223,.72); font-size: 12px;
+}
+
+.quest-series-version {
+  flex-shrink: 0; color: rgba(243,236,223,.78); font-size: 12px;
+}
+
+.quest-series-members {
+  border-top: 1px solid rgba(243,236,223,.18); padding: 6px 10px 12px;
+}
+
 .quest-series-member {
   display: flex; gap: 12px; align-items: center; width: 100%;
   color: var(--menu-ink); background: transparent; border: 0;
   padding: 12px 10px; text-align: left; cursor: pointer;
   transition: background-color .14s ease;
 }
-.quest-series-member + .quest-series-member { border-top: 1px solid rgba(243,236,223,.12); }
-.quest-series-member:hover { background: rgba(243,236,223,.08); }
-.quest-series-member:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: -2px; }
-.quest-series-index { flex: 0 0 22px; color: var(--accent-soft); font-weight: 750; font-size: 13px; }
-.quest-series-member-title { flex: 1; min-width: 0; font-size: 13px; font-weight: 630; line-height: 1.38; }
-.quest-series-member-title small { display: block; color: rgba(243,236,223,.7); font-weight: 400; margin-top: 5px; }
-.quest-series-member-version { flex-shrink: 0; color: rgba(243,236,223,.7); font-size: 11px; }
+
+.quest-series-member + .quest-series-member {
+  border-top: 1px solid rgba(243,236,223,.12);
+}
+
+.quest-series-member:hover {
+  background: rgba(243,236,223,.08);
+}
+
+.quest-series-member:focus-visible {
+  outline: 2px solid var(--accent-soft); outline-offset: -2px;
+}
+
+.quest-series-index {
+  flex: 0 0 22px; color: var(--accent-soft); font-weight: 750; font-size: 13px;
+}
+
+.quest-series-member-title {
+  flex: 1; min-width: 0; font-size: 13px; font-weight: 630; line-height: 1.38;
+}
+
+.quest-series-member-title small {
+  display: block; color: rgba(243,236,223,.7); font-weight: 400; margin-top: 5px;
+}
+
+.quest-series-member-version {
+  flex-shrink: 0; color: rgba(243,236,223,.7); font-size: 11px;
+}
+
 @media(max-width: 650px) {
-  .quest-series-summary { padding: 14px; min-height: 94px; }
-  .quest-series-heading strong { font-size: 15px; }
-  .quest-series-version { display: none; }
+  .quest-series-summary {
+    padding: 14px; min-height: 94px;
+  }
+
+  .quest-series-heading strong {
+    font-size: 15px;
+  }
+
+  .quest-series-version {
+    display: none;
+  }
+}
+
+.search:focus-within {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }

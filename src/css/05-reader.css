@@ -1,7 +1,5 @@
 .book-detail-head,
-.artifact-detail-head,
-.detail-hero,
-.generic-detail-head {
+.artifact-detail-head {
   display: grid;
   grid-template-columns: 96px minmax(0, 1fr);
   gap: 18px;
@@ -9,11 +7,6 @@
   margin: 18px 0 20px;
 }
 
-.detail-hero {
-  align-items: flex-start;
-}
-
-.detail-icon,
 .item-description-float-icon {
   width: 96px;
   height: 96px;
@@ -24,9 +17,9 @@
 }
 
 /* В читалке тоже нет цветных подложек у этих трёх типов записей. */
+
 .book-page .reader-head-icon,
-.artifact-page .reader-head-icon,
-.weapon-page .reader-head-icon {
+.artifact-page .reader-head-icon {
   background: rgba(113, 107, 96, 0.58);
 }
 
@@ -39,27 +32,6 @@
   margin-top: 0.18em;
 }
 
-.detail-hero-text h1 {
-  margin: 0;
-  color: #211b17;
-  font-size: var(--font-size-reader-hero-title);
-  line-height: 1;
-  letter-spacing: -0.065em;
-  text-wrap: balance;
-  overflow-wrap: normal;
-  word-break: normal;
-  hyphens: none;
-}
-
-.reader-toolbar {
-  margin: 0 0 16px;
-  padding: 12px;
-  background: rgba(232, 222, 212, 0.45);
-  border: 1px solid rgba(91, 74, 62, 0.14);
-}
-
-.story-toolbar .volume-strip,
-.volume-strip,
 .parts-row {
   width: 100%;
 }
@@ -75,20 +47,12 @@
   scrollbar-width: none;
 }
 
-.story-toolbar .volume-scroll button {
-  flex: 0 0 auto;
-  white-space: nowrap;
-}
-
 .volume-scroll button {
   flex: 0 0 auto;
   white-space: nowrap;
 }
 
-.text-card,
-.detail-block,
-.catalog-meta,
-.notes {
+.text-card {
   margin-top: 14px;
   padding: 18px;
   background: color-mix(in srgb, var(--surface-muted) 78%, var(--surface-solid));
@@ -102,7 +66,6 @@
 }
 
 .volume-title h3,
-.notes-title,
 .dropped-by-title {
   margin: 0;
   color: #211b17;
@@ -120,16 +83,14 @@
   flex-wrap: wrap;
 }
 
-.prose,
-.detail-text,
-.notes-body {
+.prose {
   color: #342d27;
   font-size: var(--font-size-reader-body);
   line-height: var(--line-height-description);
+  overflow-wrap: anywhere;
 }
 
-.prose p,
-.notes-body p {
+.prose p {
   margin: 0 0 1em;
 }
 
@@ -142,25 +103,10 @@
   letter-spacing: -0.035em;
 }
 
-.tag-list,
-.entry-tags,
 .enemy-loot-list {
   display: flex;
   flex-wrap: wrap;
   gap: 5px;
-}
-
-.catalog-meta summary {
-  cursor: pointer;
-  font-weight: 820;
-  color: var(--accent);
-}
-
-.catalog-meta-body {
-  display: grid;
-  gap: 8px;
-  margin-top: 12px;
-  color: var(--muted);
 }
 
 .material-reader-body::after,
@@ -188,6 +134,7 @@
 
 .material-title-subtitle {
   margin-top: 5px;
+  overflow-wrap: anywhere;
   color: var(--muted);
   font-size: var(--font-size-material-subtitle);
   font-weight: 520;
@@ -281,10 +228,6 @@
   color: var(--accent);
 }
 
-.enemy-description-content .prose {
-  min-width: 0;
-}
-
 .weapon-detail-main-text {
   margin-top: 0;
 }
@@ -306,11 +249,7 @@
   color: #4d4037;
   font-size: var(--font-size-reader-body);
   line-height: var(--line-height-description);
-}
-
-.catalog-meta,
-.notes {
-  display: none;
+  overflow-wrap: anywhere;
 }
 
 .reader-sticky-head {
@@ -356,7 +295,6 @@
 .reader-sticky-head.book-detail-head,
 .reader-sticky-head.artifact-detail-head,
 .reader-sticky-head.story-detail-head,
-.reader-sticky-head.generic-detail-head,
 .reader-sticky-head.items-detail-head,
 .reader-sticky-head.weapons-detail-head {
   grid-template-columns: 1fr;
@@ -369,7 +307,7 @@
 .reader-head-nav {
   position: fixed;
   top: var(--stage-pad-y);
-  left: calc(var(--sidebar-width) + var(--menu-rail-width) + var(--layout-gap) + var(--stage-center-offset));
+  left: calc(var(--sidebar-width) + var(--layout-gap) + var(--stage-center-offset));
   right: calc(var(--stage-pad-right) + var(--stage-center-offset) + var(--content-rail-width) + var(--stage-grid-gap));
   z-index: 21;
   display: flex;
@@ -708,13 +646,26 @@
 }
 
 /* Прокрутка цепочки: тихая тонкая дорожка, как на основной странице архива. */
+
 .quest-chain-list {
   scrollbar-width: thin;
   scrollbar-color: var(--rail-thumb) transparent;
   scrollbar-gutter: stable;
   overscroll-behavior: contain;
 }
-.quest-chain-list::-webkit-scrollbar { width: 5px; }
-.quest-chain-list::-webkit-scrollbar-track { background: transparent; }
-.quest-chain-list::-webkit-scrollbar-thumb { background: var(--rail-thumb); border-radius: 4px; }
-.quest-chain-list::-webkit-scrollbar-thumb:hover { background: var(--rail-thumb-hover); }
+
+.quest-chain-list::-webkit-scrollbar {
+  width: 5px;
+}
+
+.quest-chain-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.quest-chain-list::-webkit-scrollbar-thumb {
+  background: var(--rail-thumb); border-radius: 4px;
+}
+
+.quest-chain-list::-webkit-scrollbar-thumb:hover {
+  background: var(--rail-thumb-hover);
+}

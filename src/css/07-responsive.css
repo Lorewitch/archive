@@ -7,11 +7,10 @@
     --content-pad-x: 20px;
     --content-pad-bottom: 34px;
     --content-radius: 0px;
-    --reader-mobile-bar-top: 56px;
+    --reader-mobile-bar-top: calc(56px + env(safe-area-inset-top, 0px));
     --reader-mobile-bar-side: 10px;
     --reader-mobile-row-height: 40px;
     --reader-mobile-row-gap: 8px;
-    --reader-mobile-controls-scroll: 14px;
     --reader-mobile-button-width: 142px;
   }
 
@@ -45,7 +44,7 @@
     justify-content: flex-start;
     gap: 14px;
     height: var(--reader-mobile-bar-top);
-    padding: 7px 14px;
+    padding: calc(7px + env(safe-area-inset-top, 0px)) max(14px, env(safe-area-inset-right, 0px)) 7px max(14px, env(safe-area-inset-left, 0px));
     background: linear-gradient(180deg, color-mix(in srgb, var(--menu-bg) 96%, #fff 4%) 0%, var(--menu-bg-deep) 100%);
     border-bottom: 1px solid var(--menu-line);
     color: var(--menu-ink);
@@ -74,16 +73,14 @@
   }
 
   .menu-button:active,
-  .menu-button:hover,
-  .menu-button:focus-visible {
+  .menu-button:hover {
     background: transparent;
     color: #fffaf2;
     outline: 0;
   }
 
-
   .archive-layout {
-    grid-template-columns: 0 0 minmax(0, 1fr);
+    grid-template-columns: 0 minmax(0, 1fr);
   }
 
   .archive-layout > .sidebar,
@@ -124,7 +121,7 @@
     overflow-x: hidden;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
-    padding: 22px 18px 42px;
+    padding: 22px max(18px, env(safe-area-inset-right, 0px)) max(42px, env(safe-area-inset-bottom, 0px)) max(18px, env(safe-area-inset-left, 0px));
     scrollbar-width: none;
     -ms-overflow-style: none;
   }
@@ -140,8 +137,7 @@
   }
 
   .nav-button,
-  .nav-child,
-  .nav-item {
+  .nav-child {
     min-height: 48px;
     padding: 13px 14px;
     gap: 12px;
@@ -153,29 +149,19 @@
     white-space: normal;
   }
 
-  .drawer-backdrop,
-  body.menu-open .drawer-backdrop,
-  html.menu-open .drawer-backdrop {
-    display: none;
-  }
-
-  .menu-rail {
-    display: none;
-  }
-
   .stage {
-    grid-column: 3;
+    grid-column: 2;
     grid-template-columns: minmax(0, 1fr) var(--content-rail-width);
     gap: 8px;
     width: 100%;
     height: 100dvh;
-    padding: calc(var(--reader-mobile-bar-top) + 8px) 10px 12px;
+    padding: calc(var(--reader-mobile-bar-top) + 8px) max(10px, env(safe-area-inset-right, 0px)) max(12px, env(safe-area-inset-bottom, 0px)) max(10px, env(safe-area-inset-left, 0px));
     overflow: hidden;
   }
 
   .content-card,
   .content-rail {
-    height: calc(100dvh - var(--reader-mobile-bar-top) - 20px);
+    height: calc(100dvh - var(--reader-mobile-bar-top) - 8px - max(12px, env(safe-area-inset-bottom, 0px)));
   }
 
   .content-card,
@@ -187,11 +173,8 @@
   .catalog-card,
   .catalog-card-media,
   .text-card,
-  .detail-block,
-  .volume-card,
   .inventory-card,
   .weapon-description-panel,
-  .weapon-story-panel,
   .dropped-by-card,
   .boss-overview-card,
   .search,
@@ -199,14 +182,11 @@
   .search input,
   .select select,
   .type-filter-chip,
-  .filter-button,
   .mode-button,
   .lang-switch button,
   .volume-scroll button,
   .pagination button,
-  .sortable-head,
   .enemy-loot-chip,
-  .type-filter-toggle,
   .reader-head-nav .back-link,
   .reader-corner-controls .mode-button,
   .reader-corner-controls .reader-content-type-button,
@@ -256,15 +236,13 @@
   }
 
   .toolbar,
-  .catalog-search-bar,
-  .search-panel {
+  .catalog-search-bar {
     grid-template-columns: 1fr;
     gap: 12px;
   }
 
   .search,
   .select,
-  .search-input,
   .pagination-size select {
     width: 100%;
     min-width: 0;
@@ -275,9 +253,7 @@
     box-shadow: inset 0 0 0 2px rgba(91, 74, 62, 0);
   }
 
-  .type-filter-row,
-  .type-filter-stack,
-  .filter-row {
+  .type-filter-row {
     justify-content: flex-start;
     max-width: 100%;
     overflow-x: auto;
@@ -287,30 +263,10 @@
     -ms-overflow-style: none;
   }
 
-  .type-filter-row::-webkit-scrollbar,
-  .type-filter-stack::-webkit-scrollbar,
-  .filter-row::-webkit-scrollbar {
+  .type-filter-row::-webkit-scrollbar {
     display: none;
     width: 0;
     height: 0;
-  }
-
-  .catalog-row,
-  .catalog-row.common-enemies,
-  .catalog-row.development-materials,
-  .catalog-row.cols-items-common-enemy,
-  .catalog-row.cols-items-enemy,
-  .catalog-row.cols-stories-character {
-    grid-template-columns: 1fr;
-  }
-
-  .catalog-row.head {
-    display: none;
-  }
-
-  .catalog-row.cols-items-enemy .material-chip {
-    white-space: normal;
-    min-width: 0;
   }
 
   .catalog-card-grid {
@@ -384,87 +340,21 @@
     gap: 7px 8px;
   }
 
-  .catalog-row.item {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr);
-    gap: 0;
-    width: 100%;
-    padding: 16px;
-    background: rgba(246, 242, 235, 0.88);
-    border: 1px solid rgba(91, 74, 62, 0.16);
-    box-shadow: none;
-  }
-
-  .catalog-row.item > div:not(:first-child) {
-    display: none;
-  }
-
-  .catalog-row.cols-items-common-enemy.item,
-  .catalog-row.cols-items-development.item,
-  .catalog-row.cols-items-typed.item {
-    gap: 12px;
-  }
-
-  .catalog-row.cols-items-common-enemy.item > div,
-  .catalog-row.cols-items-development.item > div,
-  .catalog-row.cols-items-typed.item > div {
-    display: block;
-  }
-
-  .catalog-row.cols-items-common-enemy.item > div:nth-child(2) {
-    display: none;
-  }
-
-  .catalog-row.cols-items-common-enemy.item > div:nth-child(3),
-  .catalog-row.cols-items-development.item > div:not(:first-child),
-  .catalog-row.cols-items-typed.item > div:not(:first-child) {
-    margin-top: 0;
-    padding-top: 10px;
-    border-top: 1px solid rgba(91, 74, 62, 0.12);
-  }
-
-  .catalog-row.cols-items-development.item > div::before,
-  .catalog-row.cols-items-typed.item > div::before {
-    display: block;
-    margin-bottom: 7px;
-    color: var(--soft);
-    font-size: var(--font-size-mobile-control);
-    font-weight: 900;
-    letter-spacing: 0.075em;
-    line-height: 1.2;
-    text-transform: uppercase;
-  }
-
-  .catalog-row.cols-items-development.item > div:nth-child(2)::before { content: "Тип материала"; }
-  .catalog-row.cols-items-development.item > div:nth-child(3)::before { content: "Регион"; }
-  .catalog-row.cols-items-typed.item > div:nth-child(2)::before { content: "Тип"; }
-  .catalog-row.cols-items-typed.item > div:nth-child(3)::before { content: "Регион"; }
-
   .book-detail-head,
-  .artifact-detail-head,
-  .detail-hero,
-  .generic-detail-head {
+  .artifact-detail-head {
     grid-template-columns: 1fr;
     flex-direction: column;
     align-items: center;
     text-align: center;
   }
 
-  .detail-hero-text h1 {
-    text-wrap: balance;
-    overflow-wrap: normal;
-    word-break: normal;
-    hyphens: none;
-  }
-
   .reader-head-titles h1 {
     text-wrap: balance;
-    overflow-wrap: normal;
+    overflow-wrap: anywhere;
     word-break: normal;
     hyphens: none;
   }
 
-  .detail-icon,
   .item-description-float-icon {
     width: min(54vw, 176px);
     height: min(54vw, 176px);
@@ -633,16 +523,6 @@
     min-width: 0;
   }
 
-  .story-toolbar .volume-scroll button {
-    min-width: 0;
-    text-wrap: pretty;
-    white-space: normal;
-  }
-
-  .home-grid {
-    grid-template-columns: 1fr;
-  }
-
   .dropped-by-grid.is-cascade {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -669,8 +549,8 @@
   .stage {
     grid-template-columns: minmax(0, 1fr);
     gap: 6px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: max(8px, env(safe-area-inset-left, 0px));
+    padding-right: max(8px, env(safe-area-inset-right, 0px));
   }
 
   .content-rail {
@@ -765,7 +645,6 @@
 }
 
 @media (max-width: 380px) {
-
   .menu-button {
     flex-basis: 38px;
     width: 38px;
@@ -792,58 +671,73 @@
 
 @media (max-width: 1180px) and (orientation: landscape) {
   body {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: env(safe-area-inset-left, 0px);
+    padding-right: env(safe-area-inset-right, 0px);
   }
 
   :root {
-    --reader-mobile-bar-top: 50px;
+    --reader-mobile-bar-top: calc(50px + env(safe-area-inset-top, 0px));
   }
 
   .mobile-top {
     height: var(--reader-mobile-bar-top);
-    padding-top: 5px;
+    padding-top: calc(5px + env(safe-area-inset-top, 0px));
     padding-bottom: 5px;
   }
 
   .stage {
     padding-top: calc(var(--reader-mobile-bar-top) + 8px);
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: env(safe-area-inset-left, 0px);
+    padding-right: env(safe-area-inset-right, 0px);
   }
 
   .content-card,
   .content-rail {
-    height: calc(100dvh - var(--reader-mobile-bar-top) - 20px);
+    height: calc(100dvh - var(--reader-mobile-bar-top) - 8px - max(12px, env(safe-area-inset-bottom, 0px)));
   }
 }
 
-html.is-mobile-landscape body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: calc(-1 * env(safe-area-inset-left));
-  right: calc(-1 * env(safe-area-inset-right));
-  z-index: -1;
-  background: var(--page-bg-paint);
-}
-
-html.is-mobile-landscape .app,
-html.is-mobile-landscape .content {
-  max-width: none;
-}
-
 /* Архив заданий Архонтов и портреты историй персонажей. */
+
 @media (max-width: 740px) {
-  .archon-collections-grid { grid-template-columns: 1fr; }
-  .archon-collection-card { padding: 18px; }
-  .catalog-card--character-story { grid-template-columns: 94px minmax(0, 1fr); }
-  .catalog-card--character-story .catalog-card-media { width: 90px; height: 90px; }
-  .catalog-card--character-story .catalog-card-img.is-person { width: 86px; height: 86px; max-width: 86px; max-height: 86px; }
+  .archon-collections-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .archon-collection-card {
+    padding: 18px;
+  }
+
+  .catalog-card--character-story {
+    grid-template-columns: 94px minmax(0, 1fr);
+  }
+
+  .catalog-card--character-story .catalog-card-media {
+    width: 90px; height: 90px;
+  }
+
+  .catalog-card--character-story .catalog-card-img.is-person {
+    width: 86px; height: 86px; max-width: 86px; max-height: 86px;
+  }
 }
+
 @media (max-width: 380px) {
-  .catalog-card--character-story { grid-template-columns: 78px minmax(0, 1fr); }
-  .catalog-card--character-story .catalog-card-media { width: 76px; height: 76px; }
-  .catalog-card--character-story .catalog-card-img.is-person { width: 73px; height: 73px; max-width: 73px; max-height: 73px; }
+  .catalog-card--character-story {
+    grid-template-columns: 78px minmax(0, 1fr);
+  }
+
+  .catalog-card--character-story .catalog-card-media {
+    width: 76px; height: 76px;
+  }
+
+  .catalog-card--character-story .catalog-card-img.is-person {
+    width: 73px; height: 73px; max-width: 73px; max-height: 73px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    transition: none !important;
+  }
 }

@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+from collections import Counter
 import re
 import sys
 from pathlib import Path
@@ -1559,6 +1560,14 @@ def build() -> None:
         "items": len(items),
         "stories": len(stories),
         "enemies": len(enemies),
+    }
+    summary["groups"] = {
+        name: dict(sorted(Counter(str(entry.get(field) or "") for entry in entries).items()))
+        for name, entries, field in (
+            ("items", items, "item_group"),
+            ("stories", stories, "story_group"),
+            ("bestiary", enemies, "enemy_group"),
+        )
     }
     write_json(DATA_DIR / "archive_summary.json", summary)
     print("Built archive data:", summary)

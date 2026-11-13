@@ -5,26 +5,16 @@
   --font-size-base: 16px;
   --font-size-body: var(--font-size-base);
   --font-size-description: var(--font-size-body);
-  --font-size-small: 13px;
-  --font-size-meta: 12px;
-  --font-size-meta-tiny: 10px;
   --font-size-control: 13px;
   --font-size-control-small: 12px;
   --font-size-chip: 12px;
-  --font-size-chip-strong: 13px;
   --font-size-pill-tiny: 11px;
   --font-size-logo: clamp(22px, 1.3vw, 25px);
   --font-size-nav: 15px;
   --font-size-nav-child: 13px;
   --font-size-nav-meta: 12px;
   --font-size-page-title: clamp(40px, 4.8vw, 62px);
-  --font-size-category-title: clamp(17px, 1.7vw, 24px);
-  --font-size-subcategory-title: clamp(16px, 1.55vw, 22px);
-  --font-size-lead: 19px;
-  --font-size-home-title: 22px;
-  --font-size-home-text: 14px;
   --font-size-list-title: 19px;
-  --font-size-catalog-row-title: 15px;
   --font-size-card-title: 17px;
   --font-size-card-title-mobile-lg: 16px;
   --font-size-card-title-mobile: 15px;
@@ -33,45 +23,31 @@
   --font-size-card-label: 10px;
   --font-size-reader-body: var(--font-size-description);
   --font-size-reader-title: clamp(28px, 2.75vw, 42px);
-  --font-size-reader-title-mobile-lg: clamp(22px, 7vw, 32px);
-  --font-size-reader-title-mobile: clamp(22px, 8vw, 30px);
-  --font-size-reader-hero-title: clamp(36px, 5vw, 58px);
   --font-size-reader-section-title: 21px;
   --font-size-reader-subtitle: 15px;
   --font-size-material-subtitle: 17px;
-  --font-size-material-title: 16px;
   --font-size-dropped-title: 16px;
   --font-size-dropped-meta: 13px;
   --font-size-block-heading: 14px;
   --font-size-icon-inline: 19px;
   --font-size-icon-large: 22px;
   --font-size-open-arrow: 24px;
-  --font-size-placeholder: 24px;
   --font-size-reader-placeholder: 30px;
-  --font-size-mobile-logo: clamp(16px, 4.4vw, 22px);
-  --font-size-sidebar-logo-mobile: 22px;
   --font-size-mobile-control: 11px;
-  --font-size-mobile-menu-button: 12px;
-  --font-size-mobile-form: 16px;
   --line-height-description: 1.78;
   --page-bg-paint: radial-gradient(circle at 18% 0%, rgba(32, 32, 27, 0.52), transparent 44%), linear-gradient(135deg, #151512 0%, #20201b 100%);
   --surface: rgba(232, 226, 216, 0.97);
   --surface-solid: #e8e2d8;
-  --surface-soft: #ded5c9;
   --surface-muted: #d1c7ba;
   --surface-main: var(--surface-solid);
   --surface-line: var(--surface-muted);
   --ink: #1f1a15;
   --text-dark: var(--ink);
   --muted: #5b554c;
-  --soft: #777166;
   --line: rgba(86, 81, 72, 0.20);
-  --line-strong: rgba(86, 81, 72, 0.34);
   --accent: #565148;
   --accent-hover: #625d52;
   --card-bg: var(--accent);
-  --card-hover: var(--accent-hover);
-  --card-icon: #716b60;
   --accent-soft: #a9b17c;
   --menu-bg: #1b1a16;
   --menu-bg-deep: #151512;
@@ -83,8 +59,6 @@
   --shadow-soft: none;
   --shadow-card: none;
   --sidebar-width: clamp(300px, 16.67vw, 340px);
-  --sidebar: var(--sidebar-width);
-  --menu-rail-width: 0px;
   --content-rail-width: 10px;
   --content-max-width: 1560px;
   --stage-grid-gap: 12px;
@@ -94,13 +68,10 @@
   --content-pad-top: clamp(38px, 2.3vw, 46px);
   --content-pad-x: clamp(34px, 2.3vw, 46px);
   --content-pad-bottom: clamp(48px, 3vw, 58px);
-  --stage-inline-available: calc(100vw - var(--sidebar-width) - var(--menu-rail-width) - var(--layout-gap) - var(--stage-pad-right));
+  --stage-inline-available: calc(100vw - var(--sidebar-width) - var(--layout-gap) - var(--stage-pad-right));
   --stage-content-set: calc(var(--content-max-width) + var(--content-rail-width) + var(--stage-grid-gap));
   --stage-center-offset: max(0px, calc((var(--stage-inline-available) - var(--stage-content-set)) / 2));
   --content-radius: 28px;
-  --radius-page: 28px;
-  --radius-card: 0;
-  --radius-control: 0;
   --rail-thumb: #8b9270;
   --rail-thumb-hover: #a9b17c;
   --rail-track: rgba(243, 236, 223, 0.08);
@@ -111,8 +82,22 @@
   --rarity-1-bg: linear-gradient(135deg, #827b72 0%, #d9d0c4 100%);
 }
 
-.rarity-bg-5 { --icon-bg: var(--rarity-5-bg); }
-.rarity-bg-4 { --icon-bg: var(--rarity-4-bg); }
-.rarity-bg-3 { --icon-bg: var(--rarity-3-bg); }
-.rarity-bg-2 { --icon-bg: var(--rarity-2-bg); }
-.rarity-bg-1 { --icon-bg: var(--rarity-1-bg); }
+.rarity-bg-5 {
+  --icon-bg: var(--rarity-5-bg);
+}
+
+.rarity-bg-4 {
+  --icon-bg: var(--rarity-4-bg);
+}
+
+.rarity-bg-3 {
+  --icon-bg: var(--rarity-3-bg);
+}
+
+.rarity-bg-2 {
+  --icon-bg: var(--rarity-2-bg);
+}
+
+.rarity-bg-1 {
+  --icon-bg: var(--rarity-1-bg);
+}

@@ -18,14 +18,14 @@ const state = {
   storyReadAll: false,
   storyContentType: "stories",
   filters: {
-    books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
-    artifacts: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 },
-    weapons: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
-    bestiary: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
+    books: { query: "", filter: "all", page: 1, pageSize: 10, typeFilters: [] },
+    artifacts: { query: "", filter: "all", page: 1, pageSize: 10 },
+    weapons: { query: "", filter: "all", page: 1, pageSize: 10, typeFilters: [] },
+    bestiary: { query: "", filter: "all", page: 1, pageSize: 10, typeFilters: [] },
     items: {
       query: "",
       filter: "all",
-      sort: "version",
+
       page: 1,
       pageSize: 10,
       typeFiltersByGroup: {
@@ -39,7 +39,7 @@ const state = {
     stories: {
       query: "",
       filter: "all",
-      sort: "version",
+
       page: 1,
       pageSize: 10,
       typeFiltersByGroup: {
@@ -53,7 +53,6 @@ const app = document.getElementById("app");
 const nav = document.getElementById("nav");
 const contentCard = document.querySelector(".content-card");
 const contentScroll = document.getElementById("content-scroll");
-const sidebarScroll = document.getElementById("sidebar-scroll");
 
 function syncReaderModeClass() {
   contentCard?.classList.toggle("has-reader-page", Boolean(app?.querySelector(".reader-page")));
@@ -104,11 +103,7 @@ function syncReaderSectionScrollbars() {
 }
 
 function syncCustomScrollbarsSoon() {
-  if (typeof window.__archiveSyncScrollbars === "function") {
-    window.requestAnimationFrame(() => window.__archiveSyncScrollbars());
-  } else {
-    window.requestAnimationFrame(syncReaderSectionScrollbars);
-  }
+  window.requestAnimationFrame(syncCustomScrollbars);
 }
 
 // Для каждого подраздела Историй — собственные поиск, регион, страница и доп. фильтры.
@@ -120,7 +115,7 @@ function catalogFilterState(config = getSectionConfig()) {
   if (!root.byCatalog) root.byCatalog = Object.create(null);
   if (!root.byCatalog[key]) {
     root.byCatalog[key] = {
-      query: "", filter: "all", sort: "version", page: 1, pageSize: 10,
+      query: "", filter: "all", page: 1, pageSize: 10,
       typeFiltersByGroup: Object.create(null),
     };
   }

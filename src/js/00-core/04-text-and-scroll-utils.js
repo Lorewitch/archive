@@ -21,7 +21,6 @@ function escapeHtml(value) {
   }[char]));
 }
 
-
 function inlineMarkdown(value) {
   return escapeHtml(value)
     .replace(/\*\*\*([^*]+?)\*\*\*/g, "<strong><em>$1</em></strong>")
@@ -112,7 +111,6 @@ function markdownToHtml(value, options = {}) {
   return blocks.join("\n");
 }
 
-
 function splitWeaponDescriptionText(value) {
   const raw = String(value ?? "").replace(/\r\n/g, "\n").trim();
   if (!raw) return { description: "", details: "" };
@@ -160,53 +158,6 @@ function stripLeadingMarkdownHeading(value, fallbackTitle) {
 
 function renderReaderBlockHeading(title, className = "") {
   return `<div class="reader-block-heading ${escapeHtml(className)}">${escapeHtml(title)}</div>`;
-}
-
-
-function isTemplatePublicNote(value) {
-  const text = String(value ?? "")
-    .toLowerCase()
-    .replace(/[#*`>\-–—•]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-
-  if (!text) return true;
-
-  const markers = [
-    "заметки пока не заполнены",
-    "сюда можно писать",
-    "общий комментарий по всей",
-    "общий комментарий по сету",
-    "связи с персонажами",
-    "связи с регионом",
-    "связи с регионом персонажами событиями",
-    "подозрительные формулировки",
-    "заметка к первому тому",
-    "заметка ко второму тому",
-    "заметка к третьему тому",
-    "заметка к цветку",
-    "заметка к перу",
-    "заметка к часам",
-    "заметка к кубку",
-    "заметка к короне",
-    "здесь можно написать общий комментарий",
-    "здесь можно написать заметки",
-    "здесь можно написать заметки по группе материалов",
-    "здесь можно оставить внутренние заметки",
-    "внутренние заметки по серии материалов",
-    "здесь можно оставить внутренние заметки по предмету",
-    "здесь можно написать заметки по предмету",
-    "заметка к первому материалу",
-    "заметка ко второму материалу",
-    "заметка к третьему материалу"
-  ];
-
-  return markers.some(marker => text.includes(marker));
-}
-
-function cleanPublicNote(value) {
-  const text = String(value ?? "").trim();
-  return isTemplatePublicNote(text) ? "" : text;
 }
 
 function emphasizeArtifactLabels(value) {

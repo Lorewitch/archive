@@ -38,32 +38,6 @@ function normalizedGameVersion(value) {
   return version || text;
 }
 
-function renderGameVersionBadge(item) {
-  const version = normalizedGameVersion(item?.game_version || item?.release_version);
-  if (!version) return "";
-  return `<span class="game-version-badge" title="Версия игры ${escapeHtml(version)}" aria-label="Версия игры ${escapeHtml(version)}">v${escapeHtml(version)}</span>`;
-}
-
-function renderTextWithAttachedBadge(value, badge) {
-  const rawText = String(value || "").trim();
-
-  if (!badge) return escapeHtml(rawText);
-  if (!rawText) return badge;
-  const match = rawText.match(/^([\s\S]*?)(\S+)$/u);
-  if (!match) {
-    return `${escapeHtml(rawText)}${badge}`;
-  }
-
-  const prefix = match[1] || "";
-  const lastWord = match[2] || rawText;
-
-  return `${escapeHtml(prefix)}<span class="book-title-tail">${escapeHtml(lastWord)}${badge}</span>`;
-}
-
-function renderTitleWithGameVersion(item) {
-  return renderTextWithAttachedBadge(titleOf(item, "ru"), renderGameVersionBadge(item));
-}
-
 function bookTypeValue(item) {
   return item?.subtype || item?.book_type || "book_series";
 }
@@ -87,28 +61,6 @@ function isCharacterStoryEntry(item) {
   return item?.category === "stories" && (item?.story_group || state.subsection) === "character_stories";
 }
 
-function renderTitleCell(item) {
-  const en = titleOf(item, "en");
-  const zh = titleOf(item, "zh");
-  const subtitles = [en, zh].filter(Boolean).join(" · ");
-  const icon = iconFor(item);
-  const iconClass = ["entry-icon", entryRarityBackgroundClass(item), isCharacterStoryEntry(item) ? "story-character-entry-icon" : ""].filter(Boolean).join(" ");
-  const iconMarkup = icon
-    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="42" height="42">`
-    : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
-  const materialsPreview = isEnemyDropEntry(item) ? `<div class="entry-material-preview">${renderMaterialsCell(item)}</div>` : "";
-  return `
-    <div class="entry-title-cell">
-      ${iconMarkup}
-      <div class="entry-title-text">
-        <div class="book-title">${renderTitleWithGameVersion(item)}</div>
-        <div class="book-subtitle">${escapeHtml(subtitles)}</div>
-        ${materialsPreview}
-      </div>
-    </div>
-  `;
-}
-
 function detailHeaderIconFor(item) {
   const directIcon = iconFor(item);
   if (directIcon) return directIcon;
@@ -129,7 +81,6 @@ function detailTitleVariant(item, lang = "ru") {
 
   return lang === "ru" ? titleOf(item, "ru") : "";
 }
-
 
 function renderReaderLangControl(extraClass = "", options = {}) {
   const label = options.showLabel === false ? "" : `<span class="toolbar-label">Язык</span>`;
@@ -167,7 +118,7 @@ function renderReaderTabBlock(label, buttonsMarkup, options = {}) {
     <div class="${escapeHtml(rowClass)}">
       ${labelMarkup}
       <div class="reader-tabs-track">
-        <div class="volume-scroll reader-section-scroll" data-scroll-preserve="${escapeHtml(scrollKey)}">
+        <div class="volume-scroll reader-section-scroll" data-scroll-preserve="${escapeHtml(scrollKey)}" tabindex="0" role="region" aria-label="Разделы текста">
           ${buttonsMarkup}
         </div>
         <div class="reader-section-scrollbar" data-scrollbar-for="${escapeHtml(scrollKey)}" aria-hidden="true">
@@ -268,12 +219,6 @@ function renderInventoryIcon(entry, className, size) {
     : "";
 }
 
-function renderCommonEnemyMaterialsCell(item) {
-  const materials = Array.isArray(item?.materials) ? item.materials : [];
-  if (!materials.length) return "—";
-  return renderMaterialsCell(item);
-}
-
 function renderMaterialsCell(item) {
   const materials = Array.isArray(item?.materials) ? item.materials : [];
   if (!materials.length) return "—";
@@ -283,7 +228,7 @@ function renderMaterialsCell(item) {
     <div class="material-list${rest > 0 ? " has-more" : ""}">
       ${visible.map(material => {
         const icon = material.icon ? `<img src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="28" height="28">` : "";
-        return `<span class="material-chip">${icon}<span>${renderTextWithAttachedBadge(materialTitle(material, "ru"), "")}</span></span>`;
+        return `<span class="material-chip">${icon}<span>${escapeHtml(materialTitle(material, "ru"))}</span></span>`;
       }).join("")}
       ${rest > 0 ? `<span class="tiny-pill catalog-more-pill">+${rest}</span>` : ""}
     </div>
@@ -292,11 +237,6 @@ function renderMaterialsCell(item) {
 
 function droppedByEnemies(item) {
   return Array.isArray(item?.dropped_by_enemies) ? item.dropped_by_enemies : [];
-}
-
-function renderDevelopmentMaterialTypeCell(item) {
-  const label = developmentMaterialTypeTitle(item, "ru");
-  return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
 }
 
 function renderGenericItemTypeCell(item) {
@@ -324,26 +264,6 @@ function renderStoryElementCell(item) {
   if (!elements.length) return "—";
   const className = ["story-element-list", elements.length > 3 ? "is-many" : ""].filter(Boolean).join(" ");
   return `<div class="${escapeHtml(className)}">${elements.map(renderStoryElementPill).join("")}</div>`;
-}
-
-
-function renderStoryRarityCell(item) {
-  const rarity = String(item?.rarity || "").trim();
-  const option = RARITY_FILTERS.find(entry => entry.value === `rarity:${rarity}`);
-  if (!option) return rarity ? `${escapeHtml(rarity)}★` : "—";
-  const iconStyle = maskIconStyle(option.icon, option.color);
-  return `<span class="rarity-icon-pill" style="--filter-color: ${escapeHtml(option.color)}" title="${escapeHtml(option.label)}" aria-label="${escapeHtml(option.label)}"><span class="rarity-icon" style="${escapeHtml(iconStyle)}" aria-hidden="true"></span></span>`;
-}
-
-function renderCommonEnemyTypesCell(item) {
-  const labels = itemCommonEnemyTypeLabels(item);
-  if (!labels.length) return "—";
-
-  return `
-    <div class="common-enemy-type-list">
-      ${labels.map(label => `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`).join("")}
-    </div>
-  `;
 }
 
 function renderDroppedByCell(item) {

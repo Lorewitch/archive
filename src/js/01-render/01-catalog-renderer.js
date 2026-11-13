@@ -4,7 +4,6 @@ function optionsFor(config) {
   // В сборках Архонтов регион уже выбран; второй селектор избыточен.
   if (config.id === "stories" && state.subsection === "archon_quests") return [];
   if (config.filter === "region") return REGION_FILTERS;
-  if (config.fixedOptions) return config.fixedOptions;
   return [];
 }
 
@@ -106,11 +105,6 @@ function searchableText(item) {
   return text;
 }
 
-function searchableTextForCatalog(item, config) {
-  void config;
-  return searchableText(item);
-}
-
 function gameVersionSortValue(value) {
   const text = String(value ?? "").trim().replace(",", ".");
   if (!text) return -1;
@@ -148,54 +142,21 @@ function filteredEntries(config) {
 
   const rows = collectionForCatalog(config).filter(item => {
     if (config.id === "stories" && state.subsection === "archon_quests" && state.collection && archonCollectionFor(item) !== state.collection) return false;
-    const queryOk = !query || searchableTextForCatalog(item, config).includes(query);
+    const queryOk = !query || searchableText(item).includes(query);
     const filterOk = itemMatchesFilter(item, config, filterState.filter, activeTypeSet);
     return queryOk && filterOk;
   });
 
   rows.sort((a, b) => {
-    if (filterState.sort === "asc" || filterState.sort === "desc") {
-      const result = compareByTitle(a, b);
-      return filterState.sort === "asc" ? result : -result;
-    }
     if (config.id === "stories" && state.subsection === "archon_quests" && state.collection) {
-      if (filterState.sort === "version") {
-        return entrySortVersion(a) - entrySortVersion(b)
-          || archonChapterOrder(a) - archonChapterOrder(b)
-          || compareByTitle(a, b);
-      }
+      return entrySortVersion(a) - entrySortVersion(b)
+        || archonChapterOrder(a) - archonChapterOrder(b)
+        || compareByTitle(a, b);
     }
     return compareByGameVersionDesc(a, b);
   });
 
   return rows;
-}
-
-function catalogLayoutClass(config) {
-  if (config.id === "stories" && state.subsection === "character_stories") {
-    return "cols-stories-character";
-  }
-  if (config.id === "items" && state.subsection === "common_enemies") {
-    return "cols-items-common-enemy";
-  }
-  if (config.id === "items" && state.subsection === "development_materials") {
-    return "cols-items-development";
-  }
-  if (config.id === "items" && itemGroupUsesTypeFilters(state.subsection)) {
-    return "cols-items-typed";
-  }
-  if (config.id === "items" && isEnemyDropGroup(state.subsection)) {
-    return "cols-items-enemy";
-  }
-  return `cols-${config.id}`;
-}
-
-function catalogRowClasses(config, modifiers = []) {
-  return [
-    "catalog-row",
-    ...modifiers,
-    catalogLayoutClass(config),
-  ].filter(Boolean).join(" ");
 }
 
 function cssClassToken(value) {
@@ -206,7 +167,7 @@ function cssClassToken(value) {
     .replace(/^-+|-+$/g, "") || "none";
 }
 
-function catalogCardRarityClass(item, config) {
+function catalogCardRarityClass(item) {
   const rarity = String(item?.rarity || "").trim();
   if (["5", "4", "3", "2", "1"].includes(rarity)) return `card-rarity-${rarity}`;
   return "card-neutral";
@@ -216,7 +177,7 @@ function catalogCardClasses(item, config) {
   return [
     "catalog-card",
     `catalog-card--${cssClassToken(config.id)}`,
-    catalogCardRarityClass(item, config),
+    catalogCardRarityClass(item),
     isCharacterStoryEntry(item) ? "catalog-card--character-story" : "",
     isEnemyDropEntry(item) ? "catalog-card--enemy-drops" : "",
   ].filter(Boolean).join(" ");
@@ -248,44 +209,6 @@ function renderCatalogCardMedia(item) {
   `;
 }
 
-const CATALOG_CARD_FIELD_RULES = {
-  default: {
-    hidden: ["редкость", "регион", "тип противника", "тип материала"],
-    labels: [],
-    chipColumns: ["материалы", "выпадает с", "элемент", "категория"],
-  },
-  books: {
-    hidden: ["регион"],
-    labels: ["частей"],
-    chipColumns: [],
-  },
-  artifacts: {
-    hidden: ["регион", "частей"],
-    labels: [],
-  },
-};
-
-function catalogCardFieldRules(config) {
-  const specific = CATALOG_CARD_FIELD_RULES[config?.id] || {};
-  const base = CATALOG_CARD_FIELD_RULES.default;
-  return {
-    hidden: new Set([...(base.hidden || []), ...(specific.hidden || [])]),
-    labels: new Set([...(base.labels || []), ...(specific.labels || [])]),
-    chipColumns: new Set([...(base.chipColumns || []), ...(specific.chipColumns || [])]),
-  };
-}
-
-function catalogCardFieldDefinition(column, config) {
-  const normalized = normalizeCatalogCardMetaColumn(column);
-  const rules = catalogCardFieldRules(config);
-  return {
-    key: normalized,
-    hidden: rules.hidden.has(normalized) || (normalized === "частей" && config?.id !== "books"),
-    keepLabel: rules.labels.has(normalized),
-    chipLike: rules.chipColumns.has(normalized),
-  };
-}
-
 function catalogCellHasContent(cell) {
   const html = String(cell || "").trim();
   if (!html) return false;
@@ -298,22 +221,6 @@ function catalogCellHasContent(cell) {
   return /<(img|span|div)[\s>]/i.test(html);
 }
 
-function normalizeCatalogCardMetaColumn(column) {
-  return String(column || "")
-    .trim()
-    .toLowerCase()
-    .replace(/ё/g, "е")
-    .replace(/\s+/g, " ");
-}
-
-function catalogCardMetaColumnIsHidden(column, config) {
-  return catalogCardFieldDefinition(column, config).hidden;
-}
-
-function catalogCardMetaColumnKeepsLabel(column, config) {
-  return catalogCardFieldDefinition(column, config).keepLabel;
-}
-
 function renderCatalogCardMeta(item, config) {
   if (config.id === "stories" && item.story_group === "archon_quests") {
     const chapter = String(item.chapter_num?.ru || "").trim();
@@ -323,20 +230,12 @@ function renderCatalogCardMeta(item, config) {
       ? `<span class="catalog-card-archon-region">Место действия: ${escapeHtml(region)}</span>` : "";
     return `<span class="catalog-card-chapter">${escapeHtml(chapter)}</span>${physicalRegion}`;
   }
-  const columns = typeof config.columns === "function" ? config.columns() : config.columns;
-  const cells = config.row(item);
-
-  return columns.slice(1).map((column, index) => {
-    if (catalogCardMetaColumnIsHidden(column, config)) return "";
-    const cell = cells[index + 1] || "";
-    if (!catalogCellHasContent(cell)) return "";
-    const keepLabel = catalogCardMetaColumnKeepsLabel(column, config);
-    const field = catalogCardFieldDefinition(column, config);
-    const chipListClass = field.chipLike || /class="(?:material-list|catalog-material-plain-list|dropped-by-catalog-list|common-enemy-type-list|story-element-list)"/.test(cell) ? "has-chip-list" : "";
+  return (config.meta?.(item) || []).map(field => {
+    if (!catalogCellHasContent(field.value)) return "";
     return `
-      <span class="catalog-card-meta-item ${keepLabel ? "has-label" : "is-value-only"} ${chipListClass}">
-        ${keepLabel ? `<span class="catalog-card-meta-label">${escapeHtml(column)}</span>` : ""}
-        <span class="catalog-card-meta-value">${cell}</span>
+      <span class="catalog-card-meta-item ${field.showLabel ? "has-label" : "is-value-only"} ${field.chips ? "has-chip-list" : ""}">
+        ${field.showLabel ? `<span class="catalog-card-meta-label">${escapeHtml(field.label)}</span>` : ""}
+        <span class="catalog-card-meta-value">${field.value}</span>
       </span>
     `;
   }).filter(Boolean).join("");
@@ -363,8 +262,17 @@ function renderCatalogCard(item, config) {
   `;
 }
 
+function recordCountText(value) {
+  const count = Number(value) || 0;
+  const lastTwo = count % 100;
+  const last = count % 10;
+  const noun = lastTwo >= 11 && lastTwo <= 14 ? "записей"
+    : last === 1 ? "запись" : last >= 2 && last <= 4 ? "записи" : "записей";
+  return `${count} ${noun}`;
+}
+
 function groupEntryCount(config, groupKey) {
-  return config.data().filter(item => groupValue(item, config) === groupKey).length;
+  return ARCHIVE_SUMMARY?.groups?.[config.id]?.[groupKey] ?? 0;
 }
 
 function renderGroupSelector(config) {
@@ -379,7 +287,7 @@ function renderGroupSelector(config) {
             <button class="group-card" type="button" data-group="${escapeHtml(key)}">
               <span class="group-card-title">${escapeHtml(label)}</span>
               <span class="group-card-meta">${escapeHtml(description || "")}</span>
-              <span class="tiny-pill">${count} записей</span>
+              <span class="tiny-pill">${recordCountText(count)}</span>
             </button>
           `;
         }).join("")}
@@ -457,12 +365,12 @@ function renderPaginationControls(config, currentPage, totalPages, totalRows) {
     <nav class="pagination" aria-label="Страницы каталога">
       <div class="pagination-pages">
         ${totalPages > 1 ? `
-          <button type="button" data-catalog-page="${currentPage - 1}" ${currentPage <= 1 ? "disabled" : ""}>‹</button>
+          <button type="button" aria-label="Предыдущая страница" data-catalog-page="${currentPage - 1}" ${currentPage <= 1 ? "disabled" : ""}>‹</button>
           ${pages.map(page => page === "…"
             ? `<span class="pagination-gap">…</span>`
             : `<button type="button" data-catalog-page="${page}" class="${page === currentPage ? "active" : ""}" aria-current="${page === currentPage ? "page" : "false"}">${page}</button>`
           ).join("")}
-          <button type="button" data-catalog-page="${currentPage + 1}" ${currentPage >= totalPages ? "disabled" : ""}>›</button>
+          <button type="button" aria-label="Следующая страница" data-catalog-page="${currentPage + 1}" ${currentPage >= totalPages ? "disabled" : ""}>›</button>
         ` : ""}
       </div>
       <label class="pagination-size">
@@ -471,11 +379,10 @@ function renderPaginationControls(config, currentPage, totalPages, totalRows) {
           ${[10, 25, 50].map(size => `<option value="${size}" ${size === pageSize ? "selected" : ""}>${size}</option>`).join("")}
         </select>
       </label>
-      <span class="pagination-count">${totalRows} записей</span>
+      <span class="pagination-count">${recordCountText(totalRows)}</span>
     </nav>
   `;
 }
-
 
 // Group only quests whose shared series is explicitly recorded in their source.
 // No directories, extra route, or inferred grouping from prerequisite links.
@@ -556,7 +463,7 @@ function renderCatalogTable(config) {
   const pageUnits = units.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
   return `
-    <div class="catalog-card-grid ${escapeHtml(catalogLayoutClass(config))}" id="catalog-table">
+    <div class="catalog-card-grid" id="catalog-table">
       ${pageUnits.map(unit => unit.kind === "series"
         ? renderWorldSeriesCard(unit)
         : renderCatalogCard(unit.item, config)).join("") || `<div class="empty"><div class="empty-card">${escapeHtml(config.empty)}</div></div>`}
@@ -564,8 +471,6 @@ function renderCatalogTable(config) {
     ${renderPaginationControls(config, currentPage, totalPages, allRows.length)}
   `;
 }
-
-
 
 function hasActiveCatalogFilters(config = currentCatalogConfig()) {
   const filterState = catalogFilterState(config);
@@ -596,8 +501,6 @@ function renderCatalogFilterReset(config = currentCatalogConfig()) {
   const disabled = hasActiveCatalogFilters(config) ? "" : " disabled";
   return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры"${disabled}><span class="filter-reset-icon" aria-hidden="true">&#128465;&#xfe0e;</span></button>`;
 }
-
-
 
 function renderCatalog(config) {
   activeDetail = null;
@@ -636,7 +539,7 @@ function renderCatalog(config) {
                 ${resetFilter}
                 ${typeFilters ? `
                   <div class="toolbar-filter-track reader-tabs-row">
-                    <div class="toolbar-filter-scroll reader-section-scroll" data-scroll-preserve="catalog-filters">
+                    <div class="toolbar-filter-scroll reader-section-scroll" data-scroll-preserve="catalog-filters" tabindex="0" role="region" aria-label="Дополнительные фильтры">
                       ${typeFilters}
                     </div>
                     <div class="reader-section-scrollbar toolbar-filter-scrollbar" data-scrollbar-for="catalog-filters" aria-hidden="true">

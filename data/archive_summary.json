@@ -4,5 +4,29 @@
   "weapons": 234,
   "items": 251,
   "stories": 385,
-  "enemies": 257
+  "enemies": 257,
+  "groups": {
+    "items": {
+      "common_enemies": 47,
+      "development_materials": 51,
+      "teyvat_resources": 95,
+      "weekly_bosses": 14,
+      "world_bosses": 44
+    },
+    "stories": {
+      "archon_quests": 47,
+      "character_stories": 117,
+      "legend_quests": 58,
+      "world_quests": 163
+    },
+    "bestiary": {
+      "abyss": 23,
+      "automatons": 26,
+      "elementals": 28,
+      "fatui": 29,
+      "hilichurls": 29,
+      "human_factions": 58,
+      "mystical_beasts": 64
+    }
+  }
 }

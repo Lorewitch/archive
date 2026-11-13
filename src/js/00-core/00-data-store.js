@@ -24,17 +24,16 @@ async function loadStoryReferences() {
 }
 
 const DETAILS = new Map();
+const DETAIL_LOADS = new Map();
+const DETAIL_CACHE_LIMIT = 24;
 const CATALOG_CACHE = new Map();
 const CATALOG_LOADS = new Map();
 const SEARCH_TEXT_CACHE = new WeakMap();
 const COMMON_ENEMY_TYPES_CACHE = new WeakMap();
-const expandedEnemyDescriptionKeys = new Set();
 const catalogScrollPositions = new Map();
 let renderSequence = 0;
 let renderedRouteKey = "";
 let activeDetail = null;
-let lastPrefetchedEntryKey = "";
-let menuScrollY = 0;
 
 function currentAssetVersion() {
   const script = document.currentScript || document.querySelector('script[src*="archive.js"]');
@@ -60,7 +59,6 @@ function versionedAssetPath(path) {
 function cssUrl(value) {
   return `url("${String(value || "").replace(/"/g, "%22")}")`;
 }
-
 
 function maskIconStyle(icon, color = "") {
   const parts = [];
@@ -154,23 +152,46 @@ async function loadCatalogData(config, subsection = state.subsection) {
   return rows;
 }
 
-async function getBookById(id) {
-  const cacheKey = `books:${id}`;
-  if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
-  const book = await fetchJson(`data/books/${encodeURIComponent(id)}.json`);
-  DETAILS.set(cacheKey, book);
-  return book;
+async function loadDetail(sectionId, id) {
+  const cacheKey = `${sectionId}:${id}`;
+  if (DETAILS.has(cacheKey)) {
+    const detail = DETAILS.get(cacheKey);
+    DETAILS.delete(cacheKey);
+    DETAILS.set(cacheKey, detail);
+    return detail;
+  }
+  if (!DETAIL_LOADS.has(cacheKey)) {
+    const directory = sectionId === "bestiary" ? "enemies" : sectionId;
+    const pending = fetchJson(`data/${directory}/${encodeURIComponent(id)}.json`)
+      .then(detail => {
+        if (!detail?.id) throw new Error("Запись не найдена.");
+        DETAILS.set(cacheKey, detail);
+        if (DETAILS.size > DETAIL_CACHE_LIMIT) DETAILS.delete(DETAILS.keys().next().value);
+        return detail;
+      })
+      .finally(() => DETAIL_LOADS.delete(cacheKey));
+    DETAIL_LOADS.set(cacheKey, pending);
+  }
+  return DETAIL_LOADS.get(cacheKey);
 }
 
-async function getGenericDetail(sectionId, id) {
-  const cacheKey = `${sectionId}:${id}`;
-  if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
-  const collection = getSectionConfig(sectionId).data();
-  const fromIndex = collection.find(item => item.id === id) || null;
-  const detailDirectory = sectionId === "bestiary" ? "enemies" : sectionId;
-  const detailPath = fromIndex?.detail_path || `data/${detailDirectory}/${encodeURIComponent(id)}.json`;
-  const detail = await fetchOptionalJson(detailPath);
-  const result = detail?.id ? detail : fromIndex;
-  DETAILS.set(cacheKey, result);
-  return result;
+function getBookById(id) {
+  return loadDetail("books", id);
+}
+
+function getGenericDetail(sectionId, id) {
+  return loadDetail(sectionId, id);
+}
+
+let ARCHIVE_SUMMARY = null;
+let ARCHIVE_SUMMARY_LOAD = null;
+
+async function loadArchiveSummary() {
+  if (ARCHIVE_SUMMARY) return ARCHIVE_SUMMARY;
+  if (!ARCHIVE_SUMMARY_LOAD) {
+    ARCHIVE_SUMMARY_LOAD = fetchJson("data/archive_summary.json")
+      .then(summary => { ARCHIVE_SUMMARY = summary; return summary; })
+      .finally(() => { ARCHIVE_SUMMARY_LOAD = null; });
+  }
+  return ARCHIVE_SUMMARY_LOAD;
 }

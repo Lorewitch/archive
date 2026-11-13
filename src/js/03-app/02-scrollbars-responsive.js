@@ -93,18 +93,15 @@ function setupCustomScrollbar(scrollEl, railEl, thumbEl) {
   return update;
 }
 
-const updateMenuRail = setupCustomScrollbar(sidebarScroll, document.getElementById("menu-rail"), document.getElementById("menu-thumb"));
 const updateContentRail = setupCustomScrollbar(contentScroll, document.getElementById("content-rail"), document.getElementById("content-thumb"));
-window.__archiveSyncScrollbars = function archiveSyncScrollbars() {
-  updateMenuRail();
+function syncCustomScrollbars() {
   updateContentRail();
   syncReaderSectionScrollbars();
   requestAnimationFrame(() => {
-    updateMenuRail();
     updateContentRail();
     syncReaderSectionScrollbars();
   });
-};
+}
 
 let readerSectionScrollbarDrag = null;
 
@@ -172,53 +169,15 @@ app?.addEventListener("pointerup", stopReaderSectionScrollbarDrag);
 app?.addEventListener("pointercancel", stopReaderSectionScrollbarDrag);
 
 const toTopButton = document.getElementById("to-top-button");
-let responsiveFitFrame = 0;
-let viewportCleanupFrame = 0;
-let viewportCleanupTimers = [];
-
-function isTouchLikeViewport() {
-  return Boolean(
-    window.matchMedia?.("(hover: none) and (pointer: coarse)").matches ||
-    navigator.maxTouchPoints > 0 ||
-    "ontouchstart" in window
-  );
-}
-
-function updateMobileLandscapeClass() {
-  const viewport = window.visualViewport;
-  const width = viewport?.width || window.innerWidth || document.documentElement.clientWidth || 0;
-  const height = viewport?.height || window.innerHeight || document.documentElement.clientHeight || 0;
-  const isMobileLandscape = isTouchLikeViewport() && width > height && width <= 1180;
-  document.documentElement.classList.toggle("is-mobile-landscape", isMobileLandscape);
-}
-
-function scheduleResponsiveFit() {
-  if (responsiveFitFrame) return;
-  responsiveFitFrame = window.requestAnimationFrame(() => {
-    responsiveFitFrame = 0;
-    syncReaderSectionScrollbars();
-  });
-}
-
-function applyViewportCleanup() {
-  viewportCleanupFrame = 0;
-  updateMobileLandscapeClass();
-  resetHorizontalScroll();
-  scheduleResponsiveFit();
-}
+let viewportFrame = 0;
 
 function scheduleViewportCleanup() {
-  if (!viewportCleanupFrame) {
-    viewportCleanupFrame = window.requestAnimationFrame(applyViewportCleanup);
-  }
-  for (const timer of viewportCleanupTimers) {
-    window.clearTimeout(timer);
-  }
-  viewportCleanupTimers = [80, 240, 520].map(delay => window.setTimeout(() => {
-    updateMobileLandscapeClass();
+  if (viewportFrame) return;
+  viewportFrame = window.requestAnimationFrame(() => {
+    viewportFrame = 0;
     resetHorizontalScroll();
-    scheduleResponsiveFit();
-  }, delay));
+    syncCustomScrollbars();
+  });
 }
 
 function updateToTopButton() {
@@ -231,10 +190,8 @@ toTopButton?.addEventListener("click", () => {
 });
 
 contentScroll?.addEventListener("scroll", updateToTopButton, { passive: true });
-window.addEventListener("scroll", updateToTopButton, { passive: true });
 updateToTopButton();
 
-updateMobileLandscapeClass();
 init();
 
 window.addEventListener("resize", scheduleViewportCleanup, { passive: true });

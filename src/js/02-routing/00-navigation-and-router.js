@@ -9,34 +9,44 @@ function updateMobileMenuButton() {
   button.textContent = isOpen ? "×" : "☰";
 }
 
+const sidebar = document.getElementById("sidebar");
+const stage = document.querySelector(".stage");
+const mobileMenuMedia = window.matchMedia("(max-width: 1180px)");
+
+function syncMenuVisibility() {
+  const mobile = mobileMenuMedia.matches;
+  const open = mobile && document.body.classList.contains("menu-open");
+  if (!mobile) {
+    document.documentElement.classList.remove("menu-open");
+    document.body.classList.remove("menu-open");
+  }
+  sidebar.inert = mobile && !open;
+  sidebar.setAttribute("aria-hidden", String(mobile && !open));
+  stage.inert = open;
+  document.getElementById("to-top-button").inert = open;
+  updateMobileMenuButton();
+}
+
 function openMenu() {
-  if (document.body.classList.contains("menu-open")) return;
-  menuScrollY = primaryScrollY();
+  if (!mobileMenuMedia.matches || document.body.classList.contains("menu-open")) return;
   document.documentElement.classList.add("menu-open");
   document.body.classList.add("menu-open");
-  document.body.style.position = "fixed";
-  document.body.style.top = `-${menuScrollY}px`;
-  document.body.style.left = "0";
-  document.body.style.right = "0";
-  document.body.style.width = "100%";
-  document.body.style.overflow = "hidden";
-  updateMobileMenuButton();
+  syncMenuVisibility();
+  sidebar.querySelector(".nav-button.is-active, .nav-button")?.focus();
   syncCustomScrollbarsSoon();
 }
 
 function closeMenu() {
   if (!document.body.classList.contains("menu-open")) return;
+  const restoreFocus = sidebar.contains(document.activeElement);
   document.documentElement.classList.remove("menu-open");
   document.body.classList.remove("menu-open");
-  document.body.style.position = "";
-  document.body.style.top = "";
-  document.body.style.left = "";
-  document.body.style.right = "";
-  document.body.style.width = "";
-  document.body.style.overflow = "";
-  updateMobileMenuButton();
-  scrollPrimaryTo(menuScrollY || 0);
+  syncMenuVisibility();
+  if (restoreFocus) document.getElementById("open-menu")?.focus();
 }
+
+mobileMenuMedia.addEventListener("change", syncMenuVisibility);
+syncMenuVisibility();
 
 function toggleMenu() {
   if (document.body.classList.contains("menu-open")) closeMenu();
@@ -63,9 +73,7 @@ function catalogBackTarget(config, groupKey = state.subsection) {
   return { section: config.id, subsection: null };
 }
 
-function catalogBackLabel(config, groupKey = state.subsection) {
-  void config;
-  void groupKey;
+function catalogBackLabel() {
   return "← Назад к спискам";
 }
 
@@ -193,7 +201,6 @@ function menuChildren(section) {
 function childActive(sectionId, key) {
   if (state.section !== sectionId) return false;
   if (state.subsection === key) return true;
-  const section = getSectionConfig(sectionId);
   return false;
 }
 
@@ -243,7 +250,6 @@ function renderNav() {
   nav.innerHTML = rows;
   syncCustomScrollbarsSoon();
 }
-
 
 function collectionForCatalog(config) {
   const rows = config.data();
