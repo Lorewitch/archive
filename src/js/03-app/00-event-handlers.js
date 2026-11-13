@@ -94,6 +94,10 @@ function handleNavClick(event) {
 }
 
 function handleAppClick(event) {
+  if (event.target.closest("[data-retry-load]")) {
+    render();
+    return;
+  }
   const seriesEntry = event.target.closest("[data-series-entry-id]");
   if (seriesEntry) {
     rememberStoryCatalogOrigin("stories");

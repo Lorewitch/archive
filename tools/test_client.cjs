@@ -23,7 +23,7 @@ function fixture(fetch = async () => { throw new Error('unexpected request'); })
   };
   const window = {location:{href:'https://lorewitch.github.io/archive/',hash:''},matchMedia:()=>({matches:false,addEventListener(){}}),requestAnimationFrame(){}};
   const context=vm.createContext({document,window,fetch,URL,Intl,console});
-  vm.runInContext(modules.map(p=>fs.readFileSync(path.join(root,'src/js',p),'utf8')).join('\n') + `\nthis.api={state,parseHash,loadDetail,loadCatalogData,DETAILS,DETAIL_LOADS,renderBookDetail,itemMatchesFilter,getSectionConfig,escapeHtml,markdownToHtml,groupEntryCount,renderCatalogCard, get items(){return ITEMS;},setSummary(value){ARCHIVE_SUMMARY=value;}};`,context);
+  vm.runInContext(modules.map(p=>fs.readFileSync(path.join(root,'src/js',p),'utf8')).join('\n') + `\nthis.api={state,parseHash,loadDetail,loadCatalogData,DETAILS,DETAIL_LOADS,renderBookDetail,itemMatchesFilter,getSectionConfig,escapeHtml,markdownToHtml,groupEntryCount,renderCatalogCard,fetchJson,fetchOptionalJson, get items(){return ITEMS;},setSummary(value){ARCHIVE_SUMMARY=value;}};`,context);
   return {api:context.api,app,window};
 }
 const json = p => JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
@@ -89,4 +89,11 @@ test('category counts are available before visiting any category',()=>{
 test('game text is escaped before Markdown formatting',()=>{
   const {api}=fixture();const html=api.markdownToHtml('**Имя:** <img src=x onerror=alert(1)>');
   assert.ok(html.includes('<strong>Имя:</strong>'));assert.ok(!html.includes('<img'));assert.ok(html.includes('&lt;img'));
+});
+
+test('offline misses are distinguishable from genuinely empty optional categories',async()=>{
+  const {api}=fixture(async()=>({ok:false,status:503,headers:new Headers({'X-Archive-Offline-Miss':'1'})}));
+  await assert.rejects(api.fetchOptionalJson('data/indexes/items/anything.json'),/ещё не сохранён/);
+  const {api:empty}=fixture(async()=>({ok:false,status:404}));
+  assert.equal((await empty.fetchOptionalJson('data/indexes/items/empty.json')).length,0);
 });

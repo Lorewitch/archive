@@ -19,6 +19,7 @@ MODULES = [
     "03-app/00-event-handlers.js",
     "03-app/01-render-controller.js",
     "03-app/02-scrollbars-responsive.js",
+    "03-app/03-pwa.js",
 ]
 
 HEADER = """/*

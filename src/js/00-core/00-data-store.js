@@ -77,20 +77,32 @@ function maskIconStyle(icon, color = "") {
   return parts.join("; ");
 }
 
-async function fetchJson(path) {
-  const url = versionedDataPath(path);
-  const response = await fetch(url);
-  if (!response.ok) throw new Error(`Не удалось загрузить ${path}: ${response.status}`);
-  return response.json();
+function notifyLoadedData(url, savedCopy = false) {
+  if (typeof CustomEvent !== "function" || !window.dispatchEvent) return;
+  window.dispatchEvent(new CustomEvent("archive:data-loaded", { detail: { url, savedCopy } }));
+  if (savedCopy) window.dispatchEvent(new CustomEvent("archive:saved-copy"));
 }
 
-async function fetchOptionalJson(path) {
-  // Только отсутствие файла допустимо (например, пустая категория).
-  // Сетевые ошибки и повреждённый JSON не должны маскироваться под пустые данные.
-  const response = await fetch(versionedDataPath(path));
-  if (response.status === 404) return [];
+async function fetchArchiveJson(path, optional = false) {
+  const url = versionedDataPath(path);
+  const response = await fetch(url);
+  if (response.headers?.get("X-Archive-Offline-Miss") === "1") {
+    throw new Error("Этот материал ещё не сохранён для чтения без сети. Открой его с интернетом, и он станет доступен в следующий раз.");
+  }
+  if (optional && response.status === 404) return [];
   if (!response.ok) throw new Error(`Не удалось загрузить ${path}: ${response.status}`);
-  return response.json();
+  const data = await response.json();
+  notifyLoadedData(url, response.headers?.get("X-Archive-Saved-Copy") === "1");
+  return data;
+}
+
+function fetchJson(path) {
+  return fetchArchiveJson(path);
+}
+
+function fetchOptionalJson(path) {
+  // Only an actual online 404 means an empty category; an offline miss is an error.
+  return fetchArchiveJson(path, true);
 }
 
 function normalizeList(data, fallbackKey) {

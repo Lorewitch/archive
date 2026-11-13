@@ -37,7 +37,7 @@ function renderError(message) {
   app.innerHTML = `
     <section class="page-card">
       <div class="page-head"><h1>Ошибка загрузки</h1></div>
-      <div class="empty"><div class="empty-card">${escapeHtml(message)}</div></div>
+      <div class="empty"><div class="empty-card archive-load-error"><p>${escapeHtml(message)}</p><button class="error-retry" type="button" data-retry-load>Повторить загрузку</button></div></div>
     </section>
   `;
 }

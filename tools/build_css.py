@@ -15,6 +15,7 @@ MODULES = [
     "05-reader.css",
     "06-entries.css",
     "07-responsive.css",
+    "08-pwa.css",
 ]
 
 HEADER = """/*

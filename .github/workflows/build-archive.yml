@@ -12,6 +12,11 @@ on:
       - 'content/enemies/**'
       - 'src/css/**'
       - 'src/js/**'
+      - 'src/pwa/**'
+      - 'manifest.webmanifest'
+      - 'sw.js'
+      - 'tools/build_pwa.py'
+      - 'tools/test_pwa.cjs'
       - 'index.html'
       - 'README.md'
       - 'tools/build_archive.py'
@@ -82,7 +87,7 @@ jobs:
             git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" > "$changed_files"
           fi
 
-          if grep -Eq '^(data/|assets/(css/|js/|icons/)|index\.html$)' "$changed_files"; then
+          if grep -Eq '^(data/|assets/(css/|js/|icons/)|index\.html$|manifest\.webmanifest$|src/pwa/)' "$changed_files"; then
             public_changed=true
           fi
 
@@ -92,13 +97,17 @@ jobs:
             echo "Public assets are unchanged; cache version stays as is."
           fi
 
+      - name: Build installable offline application
+        run: python tools/build_pwa.py
+
       - name: Check generated archive
         run: python tools/check_archive.py
 
       - name: Check browser script and client regressions
         run: |
           node --check assets/js/archive.js
-          node --test tools/test_client.cjs
+          node --check sw.js
+          node --test tools/test_client.cjs tools/test_pwa.cjs
 
       - name: Commit generated files
         shell: bash
@@ -106,7 +115,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data assets/css/archive.css assets/js/archive.js index.html
+          git add data assets/css/archive.css assets/js/archive.js index.html sw.js
           if git diff --cached --quiet; then
             echo "No generated file changes."
           else
