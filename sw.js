@@ -1,13 +1,13 @@
 /* Source for sw.js. Run tools/build_pwa.py after changing public files. */
 "use strict";
 
-const BUILD_ID = "1279a57c50b58c3f";
+const BUILD_ID = "1fa350387c0009cb";
 const APP_SHELL = [
-  "assets/css/archive.css?v=782",
-  "assets/icons/apple-touch-icon.png?v=782",
-  "assets/icons/favicon.ico?v=782",
-  "assets/icons/favicon.svg?v=782",
-  "assets/icons/logo_menu_symbol.webp?v=782",
+  "assets/css/archive.css?v=783",
+  "assets/icons/apple-touch-icon.png?v=783",
+  "assets/icons/favicon.ico?v=783",
+  "assets/icons/favicon.svg?v=783",
+  "assets/icons/logo_menu_symbol.webp?v=783",
   "assets/icons/pwa-192.png",
   "assets/icons/pwa-512.png",
   "assets/icons/pwa-maskable-512.png",
@@ -34,7 +34,7 @@ const APP_SHELL = [
   "assets/icons/ui/sword.webp",
   "assets/icons/ui/weapons.webp",
   "assets/icons/ui/witchcraft.webp",
-  "assets/js/archive.js?v=782",
+  "assets/js/archive.js?v=783",
   "data/archive_summary.json",
   "data/artifacts_index.json",
   "data/books_index.json",
@@ -59,7 +59,7 @@ const APP_SHELL = [
   "data/stories_index.json",
   "data/weapons_index.json",
   "index.html",
-  "manifest.webmanifest?v=782"
+  "manifest.webmanifest?v=783"
 ];
 const EMPTY_CATALOGS = new Set(["data/indexes/items/serenitea_pot.json", "data/indexes/items/useful_items.json", "data/indexes/items/misc.json"]);
 const BASE_URL = new URL(self.registration.scope);
@@ -256,6 +256,9 @@ self.addEventListener("install", event => {
         const url = new URL(path, BASE_URL).href;
         const response = await fetchFresh(url);
         if (!response.ok) throw new Error(`Cannot save ${path}: ${response.status}`);
+        if (localPath(url) === "index.html" && /^(?:<{7} |={7}\s*$|>{7} )/m.test(await response.clone().text())) {
+          throw new Error("Cannot save index.html: unresolved Git conflict");
+        }
         await cache.put(cacheKey(url), response);
       }));
       const failure = results.find(result => result.status === "rejected");

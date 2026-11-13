@@ -7,6 +7,7 @@ from html.parser import HTMLParser
 import json
 from pathlib import Path
 from urllib.parse import urlsplit
+from check_source import assert_clean_text
 
 ROOT = Path(__file__).resolve().parents[1]
 TEMPLATE = ROOT / "src/pwa/service-worker.js"
@@ -27,7 +28,9 @@ class PublicAssets(HTMLParser):
 
 def shell_paths() -> list[str]:
     parser = PublicAssets()
-    parser.feed((ROOT / "index.html").read_text(encoding="utf-8"))
+    html = (ROOT / "index.html").read_text(encoding="utf-8")
+    assert_clean_text(html, "index.html")
+    parser.feed(html)
     paths = {"index.html", "manifest.webmanifest", "data/archive_summary.json", *parser.urls}
     paths.update(path.relative_to(ROOT).as_posix() for path in (ROOT / "assets/icons/ui").glob("*.webp"))
     paths.update(path.relative_to(ROOT).as_posix() for path in (ROOT / "data").glob("*_index.json") if not path.name.startswith("bot_"))

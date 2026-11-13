@@ -3311,8 +3311,19 @@
           <p>Здесь собраны тексты Тейвата в удобной форме: без лишнего шума, без пересказов и без попытки заменить сам источник. Только строки, которые уже есть в игре, аккуратно разложенные по полкам.</p>
           <p>Этот архив создан Лороведьмой для лороведов — для тех, кто любит возвращаться к деталям, сверять формулировки, искать связи и просто читать мир внимательнее.</p>
         </article>
+        <section class="pwa-controls" aria-labelledby="pwa-about-title">
+          <h2 id="pwa-about-title">Архив как приложение</h2>
+          <p>Добавь Архив на компьютер или телефон, чтобы открывать его по собственной иконке. Нужные материалы можно читать без интернета — сначала открой их с подключением к сети.</p>
+          <div class="pwa-actions">
+            <button class="pwa-button" id="pwa-install" type="button" hidden>Как установить Архив</button>
+            <button class="pwa-button" id="pwa-update" type="button" hidden>Обновить Архив</button>
+          </div>
+          <p class="pwa-hint" id="pwa-offline-hint" hidden></p>
+          <p class="pwa-network-status" id="pwa-network-status" role="status" aria-live="polite" hidden></p>
+        </section>
       </section>
     `;
+    connectPwaControls();
   }
 
   function renderLoading(message = "Загружаю архив…") {
@@ -3672,8 +3683,6 @@
   contentScroll?.addEventListener("scroll", updateToTopButton, { passive: true });
   updateToTopButton();
 
-  init();
-
   window.addEventListener("resize", scheduleViewportCleanup, { passive: true });
   window.addEventListener("orientationchange", scheduleViewportCleanup, { passive: true });
   window.visualViewport?.addEventListener("resize", scheduleViewportCleanup, { passive: true });
@@ -3681,10 +3690,6 @@
   // src/js/03-app/03-pwa.js
   // Установка приложения, подсказки и сохранение первого посещения для чтения без сети.
 
-  const pwaInstall = document.getElementById("pwa-install");
-  const pwaUpdate = document.getElementById("pwa-update");
-  const pwaOfflineHint = document.getElementById("pwa-offline-hint");
-  const pwaNetworkStatus = document.getElementById("pwa-network-status");
   const pwaDialog = document.getElementById("pwa-install-dialog");
   const pwaStandalone = window.matchMedia("(display-mode: standalone)");
   const firstVisitUrls = new Set();
@@ -3693,19 +3698,47 @@
   let pwaInstalledThisSession = false;
   let pwaReloadRequested = false;
   let pwaLastUpdateCheck = 0;
+  let pwaOfflineMessage = "";
+  let pwaNetworkMessage = navigator.onLine === false ? "Без сети · доступны сохранённые материалы" : "";
+  let pwaPromptPending = false;
+
+  function connectPwaControls() {
+    // About-page controls are recreated on navigation; application state survives.
+    document.getElementById("pwa-install")?.addEventListener("click", installArchivePwa);
+    document.getElementById("pwa-update")?.addEventListener("click", updateArchivePwa);
+    syncPwaControls();
+  }
+
+  function syncPwaControls() {
+    syncPwaInstallButton();
+    showPwaUpdate();
+    const hint = document.getElementById("pwa-offline-hint");
+    if (hint) {
+      hint.hidden = !pwaOfflineMessage;
+      hint.textContent = pwaOfflineMessage;
+    }
+    const status = document.getElementById("pwa-network-status");
+    if (status) {
+      status.hidden = !pwaNetworkMessage;
+      status.textContent = pwaNetworkMessage;
+    }
+  }
 
   function isInstalledArchive() {
     return pwaStandalone.matches || navigator.standalone === true;
   }
 
   function syncPwaInstallButton() {
+    const pwaInstall = document.getElementById("pwa-install");
+    if (!pwaInstall) return;
     pwaInstall.hidden = pwaInstalledThisSession || isInstalledArchive() || !window.isSecureContext;
+    pwaInstall.disabled = pwaPromptPending;
     pwaInstall.textContent = pwaPrompt ? "Установить Архив" : "Как установить Архив";
   }
 
   function syncPwaNetworkStatus() {
-    pwaNetworkStatus.hidden = navigator.onLine !== false;
-    pwaNetworkStatus.textContent = "Без сети · доступны сохранённые материалы";
+    pwaNetworkMessage = navigator.onLine === false ? "Без сети · доступны сохранённые материалы" : "";
+    syncPwaControls();
   }
 
   function sendFirstVisitUrls() {
@@ -3731,7 +3764,11 @@
   }
 
   function showPwaUpdate() {
+    const pwaUpdate = document.getElementById("pwa-update");
+    if (!pwaUpdate) return;
     pwaUpdate.hidden = !pwaRegistration?.waiting;
+    pwaUpdate.disabled = pwaReloadRequested;
+    pwaUpdate.textContent = pwaReloadRequested ? "Обновляю…" : "Обновить Архив";
   }
 
   function showPwaInstallHelp() {
@@ -3753,25 +3790,27 @@
   window.addEventListener("appinstalled", () => {
     pwaInstalledThisSession = true;
     pwaPrompt = null;
-    pwaInstall.hidden = true;
+    syncPwaInstallButton();
   });
 
   pwaStandalone.addEventListener("change", syncPwaInstallButton);
-  pwaInstall.addEventListener("click", async () => {
+  async function installArchivePwa() {
+    if (pwaPromptPending) return;
     if (!pwaPrompt) return showPwaInstallHelp();
     const prompt = pwaPrompt;
     pwaPrompt = null;
-    pwaInstall.disabled = true;
+    pwaPromptPending = true;
+    syncPwaInstallButton();
     try {
       await prompt.prompt();
       await prompt.userChoice;
     } catch (_) {
       showPwaInstallHelp();
     } finally {
-      pwaInstall.disabled = false;
+      pwaPromptPending = false;
       syncPwaInstallButton();
     }
-  });
+  }
 
   pwaDialog.addEventListener("click", event => {
     if (event.target !== pwaDialog) return;
@@ -3779,16 +3818,15 @@
     if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) pwaDialog.close();
   });
   pwaDialog.addEventListener("close", () => {
-    (mobileMenuMedia.matches ? document.getElementById("open-menu") : pwaInstall)?.focus();
+    (document.getElementById("pwa-install") || document.getElementById("open-menu"))?.focus();
   });
 
-  pwaUpdate.addEventListener("click", () => {
+  function updateArchivePwa() {
     if (!pwaRegistration?.waiting) return;
     pwaReloadRequested = true;
-    pwaUpdate.disabled = true;
-    pwaUpdate.textContent = "Обновляю…";
+    showPwaUpdate();
     pwaRegistration.waiting.postMessage({ type: "ARCHIVE_SKIP_WAITING" });
-  });
+  }
 
   window.addEventListener("archive:data-loaded", event => {
     if (!navigator.serviceWorker?.controller) rememberFirstVisitUrl(event.detail?.url);
@@ -3796,8 +3834,8 @@
   });
 
   window.addEventListener("archive:saved-copy", () => {
-    pwaNetworkStatus.hidden = false;
-    pwaNetworkStatus.textContent = "Чтение сохранённой копии";
+    pwaNetworkMessage = "Чтение сохранённой копии";
+    syncPwaControls();
   });
   window.addEventListener("offline", syncPwaNetworkStatus);
   window.addEventListener("online", () => {
@@ -3822,8 +3860,8 @@
     });
     navigator.serviceWorker.addEventListener("message", event => {
       if (event.data?.type === "ARCHIVE_STORAGE_UNAVAILABLE") {
-        pwaOfflineHint.hidden = false;
-        pwaOfflineHint.textContent = "Браузеру не удалось сохранить часть материалов для чтения без сети.";
+        pwaOfflineMessage = "Браузеру не удалось сохранить часть материалов для чтения без сети.";
+        syncPwaControls();
       }
     });
     pwaRegistration = await navigator.serviceWorker.register(new URL("sw.js", new URL("./", window.location.href)), {
@@ -3837,13 +3875,14 @@
       });
     });
     await navigator.serviceWorker.ready;
-    pwaOfflineHint.hidden = false;
-    pwaOfflineHint.textContent = "Каталог доступен без сети. Открытые материалы сохраняются для чтения.";
+    pwaOfflineMessage = "Каталог доступен без сети. Открытые материалы сохраняются для чтения.";
+    syncPwaControls();
     warmFirstVisit();
     // Include resources that were already loading while the first worker installed.
     window.addEventListener("load", warmFirstVisit, { once: true });
   }
 
+  init();
   initArchivePwa().catch(error => {
     console.warn("Архив: офлайн-режим пока недоступен", error);
   });

@@ -190,10 +190,11 @@ async function uiFixture({installed=false,waiting=false,mobile=false}={}) {
  const navigator={onLine:true,userAgent:'Desktop browser',platform:'Linux',maxTouchPoints:0,serviceWorker:{controller:worker,ready:Promise.resolve(registration),addEventListener:(name,fn)=>swEvents[name]=fn,async register(url,options){assert.equal(url.href,scope+'sw.js');assert.equal(options.updateViaCache,'none');return registration;}}};
  const window={isSecureContext:true,location:{href:scope,reload(){reloads++;}},matchMedia:()=>media,addEventListener:(name,fn)=>events[name]=fn,setTimeout};
  const document={getElementById:node,addEventListener(){},visibilityState:'visible'};
- const context=vm.createContext({window,document,navigator,URL,performance:{getEntriesByType:()=>[]},console,mobileMenuMedia:{matches:mobile},closeMenu(){closedMenus++;},app:{querySelector(){return null;}},render(){}});
+ const context=vm.createContext({window,document,navigator,URL,performance:{getEntriesByType:()=>[]},console,mobileMenuMedia:{matches:mobile},closeMenu(){closedMenus++;},app:{querySelector(){return null;}},render(){},init(){}});
  let source=fs.readFileSync(path.join(root,'src/js/03-app/03-pwa.js'),'utf8').replace('initArchivePwa().catch(', 'this.boot=initArchivePwa().catch(');
  vm.runInContext(source,context);await context.boot;
- return {nodes,events,swEvents,posted,navigator,get reloads(){return reloads;},get closedMenus(){return closedMenus;}};
+ vm.runInContext('connectPwaControls()',context);
+ return {nodes,events,swEvents,posted,navigator,remount(){for(const id of ['pwa-install','pwa-update','pwa-offline-hint','pwa-network-status'])delete nodes[id];vm.runInContext('connectPwaControls()',context);},get reloads(){return reloads;},get closedMenus(){return closedMenus;}};
 }
 
 test('native installation is offered only after a user clicks, and standalone windows hide the install button',async()=>{
@@ -227,4 +228,27 @@ test('an available update never reloads reading until the user chooses it',async
  f.nodes['pwa-update'].listeners.click();
  assert.equal(f.posted.at(-1).type,'ARCHIVE_SKIP_WAITING');assert.equal(f.reloads,0);
  f.swEvents.controllerchange();assert.equal(f.reloads,1);
+});
+
+test('returning to About restores native installation, update and offline status',async()=>{
+ const f=await uiFixture({waiting:true});
+ f.events.beforeinstallprompt({preventDefault(){},async prompt(){},userChoice:Promise.resolve({outcome:'dismissed'})});
+ f.events['archive:saved-copy']();
+ f.remount();
+ assert.equal(f.nodes['pwa-install'].textContent,'Установить Архив');
+ assert.equal(f.nodes['pwa-update'].hidden,false);
+ assert.equal(f.nodes['pwa-network-status'].textContent,'Чтение сохранённой копии');
+ assert.ok(f.nodes['pwa-offline-hint'].textContent.includes('Каталог доступен'));
+ await f.nodes['pwa-install'].listeners.click();
+});
+
+test('conflicted online HTML cannot replace a usable offline release',async()=>{
+ const f=fixture();await f.lifecycle('install');
+ const old=f.api.CACHE_PREFIX+'shell:previous';await f.caches.open(old);
+ f.setNetwork(async input=>{
+  const url=typeof input==='string'?input:input.url;
+  return new Response(url.includes('index.html') ? '<!doctype html>\n'+'<'.repeat(7)+' HEAD\n' : '{}');
+ });
+ await assert.rejects(f.lifecycle('install'),/unresolved Git conflict/);
+ assert.ok((await f.caches.keys()).includes(old));
 });

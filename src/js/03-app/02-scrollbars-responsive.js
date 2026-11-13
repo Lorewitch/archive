@@ -192,8 +192,6 @@ toTopButton?.addEventListener("click", () => {
 contentScroll?.addEventListener("scroll", updateToTopButton, { passive: true });
 updateToTopButton();
 
-init();
-
 window.addEventListener("resize", scheduleViewportCleanup, { passive: true });
 window.addEventListener("orientationchange", scheduleViewportCleanup, { passive: true });
 window.visualViewport?.addEventListener("resize", scheduleViewportCleanup, { passive: true });

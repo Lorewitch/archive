@@ -198,6 +198,9 @@ self.addEventListener("install", event => {
         const url = new URL(path, BASE_URL).href;
         const response = await fetchFresh(url);
         if (!response.ok) throw new Error(`Cannot save ${path}: ${response.status}`);
+        if (localPath(url) === "index.html" && /^(?:<{7} |={7}\s*$|>{7} )/m.test(await response.clone().text())) {
+          throw new Error("Cannot save index.html: unresolved Git conflict");
+        }
         await cache.put(cacheKey(url), response);
       }));
       const failure = results.find(result => result.status === "rejected");

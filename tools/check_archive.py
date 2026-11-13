@@ -10,6 +10,7 @@ from typing import Any
 
 from check_bot_index import check_bot_indexes
 from build_pwa import compiled_worker, shell_paths
+from check_source import source_errors
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
@@ -870,6 +871,7 @@ def check_line_endings() -> None:
 
 
 def main() -> int:
+    errors.extend(source_errors())
     # Проверки должны выявлять сломанные данные и несобранные файлы,
     # а не навязывать папки-заглушки, оформление карточек или конкретный код интерфейса.
     check_content_structure()

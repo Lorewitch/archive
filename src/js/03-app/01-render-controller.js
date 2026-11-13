@@ -21,8 +21,19 @@ function renderHome() {
         <p>Здесь собраны тексты Тейвата в удобной форме: без лишнего шума, без пересказов и без попытки заменить сам источник. Только строки, которые уже есть в игре, аккуратно разложенные по полкам.</p>
         <p>Этот архив создан Лороведьмой для лороведов — для тех, кто любит возвращаться к деталям, сверять формулировки, искать связи и просто читать мир внимательнее.</p>
       </article>
+      <section class="pwa-controls" aria-labelledby="pwa-about-title">
+        <h2 id="pwa-about-title">Архив как приложение</h2>
+        <p>Добавь Архив на компьютер или телефон, чтобы открывать его по собственной иконке. Нужные материалы можно читать без интернета — сначала открой их с подключением к сети.</p>
+        <div class="pwa-actions">
+          <button class="pwa-button" id="pwa-install" type="button" hidden>Как установить Архив</button>
+          <button class="pwa-button" id="pwa-update" type="button" hidden>Обновить Архив</button>
+        </div>
+        <p class="pwa-hint" id="pwa-offline-hint" hidden></p>
+        <p class="pwa-network-status" id="pwa-network-status" role="status" aria-live="polite" hidden></p>
+      </section>
     </section>
   `;
+  connectPwaControls();
 }
 
 function renderLoading(message = "Загружаю архив…") {

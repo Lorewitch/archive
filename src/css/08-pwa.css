@@ -1,18 +1,38 @@
-/* App controls remain secondary to the archive's navigation and reading. */
+/* Installation and offline information belong to the About page. */
 .pwa-controls {
   display: grid;
-  gap: 10px;
-  margin-top: 24px;
-  padding: 16px 12px 4px;
-  border-top: 1px solid var(--menu-line);
+  gap: 16px;
+  margin-top: 36px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+.pwa-controls h2 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 1.25;
+}
+
+.pwa-controls p {
+  margin: 0;
+}
+
+.pwa-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+}
+
+.pwa-actions:not(:has(button:not([hidden]))) {
+  display: none;
 }
 
 .pwa-button {
   width: fit-content;
   max-width: 100%;
   min-height: 36px;
-  color: var(--menu-ink);
-  font-size: 13px;
+  color: var(--accent);
+  font-size: 15px;
   line-height: 1.35;
   text-align: left;
   text-decoration: underline;
@@ -20,7 +40,7 @@
 }
 
 .pwa-button:hover {
-  color: var(--menu-active-bar);
+  color: var(--ink);
 }
 
 .pwa-button:disabled {
@@ -31,14 +51,14 @@
 .pwa-hint,
 .pwa-network-status {
   margin: 0;
-  color: var(--menu-muted);
-  font-size: 12px;
+  color: var(--muted);
+  font-size: 14px;
   line-height: 1.5;
   overflow-wrap: anywhere;
 }
 
 .pwa-network-status {
-  color: var(--menu-active-bar);
+  color: var(--accent);
 }
 
 .pwa-dialog {

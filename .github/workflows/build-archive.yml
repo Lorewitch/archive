@@ -17,6 +17,8 @@ on:
       - 'sw.js'
       - 'tools/build_pwa.py'
       - 'tools/test_pwa.cjs'
+      - 'tools/check_source.py'
+      - 'tools/test_source.py'
       - 'index.html'
       - 'README.md'
       - 'tools/build_archive.py'
@@ -50,6 +52,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Check unresolved Git conflicts
+        run: python tools/check_source.py
 
       - name: Build JSON data from Markdown
         run: python tools/build_archive.py
@@ -105,6 +110,7 @@ jobs:
 
       - name: Check browser script and client regressions
         run: |
+          python -m unittest discover -s tools -p 'test_source.py'
           node --check assets/js/archive.js
           node --check sw.js
           node --test tools/test_client.cjs tools/test_pwa.cjs
