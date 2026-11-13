@@ -1,13 +1,13 @@
 /* Source for sw.js. Run tools/build_pwa.py after changing public files. */
 "use strict";
 
-const BUILD_ID = "422dd7640a14c035";
+const BUILD_ID = "1279a57c50b58c3f";
 const APP_SHELL = [
-  "assets/css/archive.css?v=781",
-  "assets/icons/apple-touch-icon.png?v=781",
-  "assets/icons/favicon.ico?v=781",
-  "assets/icons/favicon.svg?v=781",
-  "assets/icons/logo_menu_symbol.webp?v=781",
+  "assets/css/archive.css?v=782",
+  "assets/icons/apple-touch-icon.png?v=782",
+  "assets/icons/favicon.ico?v=782",
+  "assets/icons/favicon.svg?v=782",
+  "assets/icons/logo_menu_symbol.webp?v=782",
   "assets/icons/pwa-192.png",
   "assets/icons/pwa-512.png",
   "assets/icons/pwa-maskable-512.png",
@@ -34,7 +34,7 @@ const APP_SHELL = [
   "assets/icons/ui/sword.webp",
   "assets/icons/ui/weapons.webp",
   "assets/icons/ui/witchcraft.webp",
-  "assets/js/archive.js?v=781",
+  "assets/js/archive.js?v=782",
   "data/archive_summary.json",
   "data/artifacts_index.json",
   "data/books_index.json",
@@ -59,7 +59,7 @@ const APP_SHELL = [
   "data/stories_index.json",
   "data/weapons_index.json",
   "index.html",
-  "manifest.webmanifest?v=781"
+  "manifest.webmanifest?v=782"
 ];
 const EMPTY_CATALOGS = new Set(["data/indexes/items/serenitea_pot.json", "data/indexes/items/useful_items.json", "data/indexes/items/misc.json"]);
 const BASE_URL = new URL(self.registration.scope);
