@@ -144,5 +144,1100 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "О Юмэмидзуки Мидзуки...",
+        "en": "About Yumemizuki Mizuki",
+        "zh": "关于梦见月瑞希…"
+      },
+      "text": {
+        "ru": "Странный фиолетовый ёкай... Когда она смотрит на меня, кажется, что она хочет меня съесть... Ох! Опасно! Лучше держаться от неё подальше!",
+        "en": "That strange, purple youkai... Every time she looks at me, I get this feeling like she could devour me whole... Eek! I can't afford to get on her bad side, so I'm just gonna stay out of her way!",
+        "zh": "奇怪的紫色妖怪…被她盯着的时候，感觉好像要被吃掉一样…唔！惹不起，我还是躲着她走吧！"
+      },
+      "source_id": 53005
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Пока!",
+        "en": "Bye!",
+        "zh": "走啦…唔。"
+      },
+      "source_id": 53009
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Мне пора бежать.",
+        "en": "Gotta dash~!",
+        "zh": "溜咯…啊。"
+      },
+      "source_id": 53010
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Пуф!",
+        "en": "Poof!",
+        "zh": "咕噜，哈！…嘿呀。"
+      },
+      "source_id": 53011
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Меня здесь уже нет.",
+        "en": "I'm outta here.",
+        "zh": "极意遁走。"
+      },
+      "source_id": 53012
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Не поймаешь!",
+        "en": "Can't catch me~!",
+        "zh": "抓不住我…呜。"
+      },
+      "source_id": 53013
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Как ветром сдуло...",
+        "en": "And away I go.",
+        "zh": "随风而遁…呜。"
+      },
+      "source_id": 53014
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Двойная ниндзя!",
+        "en": "Twinjutsu!",
+        "zh": "分身之术。"
+      },
+      "source_id": 53015
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Давай, выходи!",
+        "en": "Come on out!",
+        "zh": "出来吧！"
+      },
+      "source_id": 53016
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Хм...",
+        "en": "Hah! ...Phew...",
+        "zh": "嘿咻…呜。"
+      },
+      "source_id": 53017
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Скрыться под покровом бури!",
+        "en": "Make my escape.",
+        "zh": "疾风遁术。"
+      },
+      "source_id": 53018
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "А здесь довольно уютно... Можно поспать!",
+        "en": "Looks kinda cozy in here... Nap time!",
+        "zh": "这个箱子…好像可以睡进去。"
+      },
+      "source_id": 53019
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Задание выполнено! Можно мне вернуться и поспать?",
+        "en": "Mission accomplished! Can I go back and sleep now?",
+        "zh": "大丰收！可以睡觉了吗？"
+      },
+      "source_id": 53020
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Что здесь? Может, эликсир роста?",
+        "en": "Ooh, what's in here? Maybe a growth serum?",
+        "zh": "是对长高有帮助的东西吗？"
+      },
+      "source_id": 53021
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Что это был за способ скрыться?..",
+        "en": "What was that escape method again...?",
+        "zh": "逃跑的话，该用…"
+      },
+      "source_id": 53022
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Что-то меня мутит...",
+        "en": "I feel kinda woozy.",
+        "zh": "头晕乎乎的。"
+      },
+      "source_id": 53023
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Фух, как я устала.",
+        "en": "Whew, so tired.",
+        "zh": "呼，好累。"
+      },
+      "source_id": 53024
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Я тебя защищу.",
+        "en": "I'll protect you.",
+        "zh": "我来掩护。"
+      },
+      "source_id": 53025
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Отдохни пять минуток. Или десять.",
+        "en": "Take 5. Or maybe 10.",
+        "zh": "先退下休息。"
+      },
+      "source_id": 53026
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Почти... получилось... скрыться...",
+        "en": "Almost. Got. Away...",
+        "zh": "没能...逃掉..."
+      },
+      "source_id": 53027
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Спо... спо-койной ночи...",
+        "en": "Uh, sw—sweet dreams...",
+        "zh": "…晚、晚安了…"
+      },
+      "source_id": 53028
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Не нужно было лениться...",
+        "en": "My fault for being so lazy...",
+        "zh": "不该偷懒的…"
+      },
+      "source_id": 53029
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Ай!",
+        "en": "Ow.",
+        "zh": "痛。"
+      },
+      "source_id": 53030
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Почти удалось увернуться...",
+        "en": "Almost dodged that.",
+        "zh": "没躲开。"
+      },
+      "source_id": 53031
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Я теряю сознание.",
+        "en": "I'm about to pass out over here.",
+        "zh": "呜，要晕倒了。"
+      },
+      "source_id": 53032
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Спать-то как хочется!",
+        "en": "So sleepy.",
+        "zh": "好困。"
+      },
+      "source_id": 53033
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Может я пойду отосплюсь?",
+        "en": "Can I go catch up on my sleep?",
+        "zh": "可以睡觉吗？"
+      },
+      "source_id": 53034
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Эх! Меня словили.",
+        "en": "Drat, you caught me.",
+        "zh": "呜，居然被抓住了。"
+      },
+      "source_id": 53035
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Саю из Сюмацубан к вашим услугам! Фух... Если прямо сейчас я вам не нужна, то я пойду вздремну немного. Кстати, не надо гладить меня по голове, когда я сплю.",
+        "en": "Sayu, Shuumatsuban, at your disposal! Whew, but if you don't need me right now, I'm gonna grab some sleep. Nope, no need to tuck me in — I need the extra room to grow into.",
+        "zh": "「终末番」早柚，参上。\n呼——如果没有什么事情的话，我先去睡觉了。对了，不准趁我睡觉的时候偷偷摸我的头。"
+      },
+      "source_id": 53036
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Поболтаем: Сон",
+        "en": "Chat: Asleep",
+        "zh": "闲聊·睡着"
+      },
+      "text": {
+        "ru": "*зевает* *храпит*",
+        "en": "*yawns* *snoring*",
+        "zh": "呼啊…呼噜呼噜——"
+      },
+      "source_id": 53037
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Поболтаем: Работа",
+        "en": "Chat: Work",
+        "zh": "闲聊·工作"
+      },
+      "text": {
+        "ru": "Кажется, не стоило сегодня вообще вылезать из кровати.",
+        "en": "Seems like I should have just stayed in bed today.",
+        "zh": "工作还不如睡觉。"
+      },
+      "source_id": 53038
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Поболтаем: Рост",
+        "en": "Chat: Height",
+        "zh": "闲聊·长高"
+      },
+      "text": {
+        "ru": "Когда же я уже подрасту?",
+        "en": "Surely I should be due a growth spurt by now?",
+        "zh": "什么时候才能长高呢？"
+      },
+      "source_id": 53039
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Ой, давай быстрее найдём укрытие! Полив идёт на пользу растениям, а не людям...",
+        "en": "Eek, let's find shelter, quick! Watering works on plants, but not people...",
+        "zh": "快躲雨，被雨淋到就长不高了。"
+      },
+      "source_id": 53040
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Фух, ну и погодка! Лучшее, что сейчас можно сделать, - это забраться под одеялко, где темно, уютно и тепло...",
+        "en": "Phew, this weather is wild! Best thing to do is dive under the covers where it's dark and snug and warm and nyam nyam nyam~ *sleeps*",
+        "zh": "好大的动静，不过只要整个人都钻到被子里就能安稳睡觉了。"
+      },
+      "source_id": 53041
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "В такую погоду спрятаться несложно. Есть такая техника под названием «снежный покров». Позволяет стать практически невидимым. Всё, что люди будут видеть, глядя на тебя - танцующие снежинки. Ой! Это же был секрет... Не говори жрицам, что я проговорилась.",
+        "en": "It's really easy to hide in weather like this. There's this ninjutsu technique called Cloak of Snow where you can pretty much make yourself invisible — all other people see when they look at you is the snowflakes dancing in the air. Wait, it's confidential though! Don't tell any of this to the shrine maiden...",
+        "zh": "雪天很方便躲藏。比如说「雪降之隐」这种忍术，借助飘雪隐去身形，等别人察觉的时候，对方的眼前就只剩下飘落的雪花了。啊，你千万不要把这些告诉巫女姐姐。"
+      },
+      "source_id": 53042
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Обожаю такую уютную погоду! *зевает* Поспать бы сейчас...",
+        "en": "Loooove it when the weather's like this, just makes you wanna... *yawn* doze off for a while.",
+        "zh": "舒舒服服的好天气，啊——好困哦。"
+      },
+      "source_id": 53043
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Ветреный день - лучший день для побега.",
+        "en": "A windy day is a good day for a getaway.",
+        "zh": "风起之时，便是开溜的好时机。"
+      },
+      "source_id": 53044
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Если ветер такой сильный, что глаза всё равно не открываются, то я предпочитаю посмотреть какой-нибудь сладкий сон.",
+        "en": "I always know it's time to get some shut-eye when the wind's so strong that I can't open my eyes anyway.",
+        "zh": "风吹得眼睛睁不开了，不如就这样，闭起眼睛睡一觉吧。"
+      },
+      "source_id": 53045
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "...Утро? Уже? Ну ладно, я только десять минуточек ещё подремлю... Пожалуйста, всего десять минут... Нет? Ну хорошо, тогда пять? *храпит*",
+        "en": "...Morning? Already? Okay, I'm just gonna snooze for, like, 10 more minutes... Please, just 10 minutes... No? Okay, 5 minutes then? *snores*",
+        "zh": "已经…已经早上了吗？再睡10分钟…就10分钟嘛…那、那5分钟也行…呼…"
+      },
+      "source_id": 53046
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Сейчас полдень? Ну наконец-то можно прикорнуть.",
+        "en": "Is it noon yet? Finally, I'm so ready for my nap.",
+        "zh": "好困，午睡时间还没到吗？"
+      },
+      "source_id": 53047
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Разведка окончена, признаков жрицы в радиусе 3 миль не обнаружено. Переход к следующей фазе: тихий час!",
+        "en": "Recon confirms, no sign of the shrine maiden within a 3-mile radius. Moving to the next phase: sleepy time!",
+        "zh": "确认完毕，方圆十里内没有巫女姐姐的踪影。今晚可以睡个好觉啦~"
+      },
+      "source_id": 53048
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Доброй ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Ну неужели... отбой... Сладких снов...",
+        "en": "At long last... bed time... G'night...",
+        "zh": "终于…可以睡觉了…晚…晚安…"
+      },
+      "source_id": 53049
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "О Саю: Сюмацубан",
+        "en": "About Sayu: Shuumatsuban",
+        "zh": "关于早柚自己·终末番"
+      },
+      "text": {
+        "ru": "Да, я из Сюмацубан, но мне поручают лишь всякую мелочь вроде сбора информации или мелкого воровства. Поэтому, если вдруг какая-то работа останется невыполненной... ну что ж, ничего страшного.",
+        "en": "Yeah, I'm in the Shuumatsuban, but they only ever get me to do stuff like... *yawn* information gathering and stealing. So, y'know... it's not really a big deal if the work doesn't get done.",
+        "zh": "我虽然属于「终末番」，但交给我的工作无非就是些情报收集、偷取物品之类的琐事。所以…所以不做也没有什么关系嘛。"
+      },
+      "source_id": 53050
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "О Саю: Увиливание",
+        "en": "About Sayu: Skiving",
+        "zh": "关于早柚自己·旷工"
+      },
+      "text": {
+        "ru": "В Сюмацубан мне не поручают ничего серьёзного, а если какую-нибудь работу откладывать на потом достаточно долго, то её обязательно сделает кто-нибудь другой. И сделает лучше. А вот сон - это крайне важно. Если я буду недосыпать, то как же я вырасту?",
+        "en": "So I don't do any important work at the Shuumatsuban, and anything that gets put off for long enough ends up getting done by someone who's more suited to it anyway. Sleep, on the other hand — that is of the utmost importance. Because I need to get enough sleep to make sure I get my growth spurt.",
+        "zh": "「终末番」的工作本来就没什么意义嘛，一直拖着不做，就会有更合适的人去做。但是睡觉不一样啊，只要睡得够久，说不定哪天就能长高了，这可是意义非凡的。"
+      },
+      "source_id": 53051
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "О нас: Любезность",
+        "en": "About Us: Favor",
+        "zh": "关于我们·帮个忙"
+      },
+      "text": {
+        "ru": "Не окажешь услугу? Предупреди, если вдруг увидишь жрицу. Я лишь... на минутку прикрою глаза.",
+        "en": "Hey, will you do me a favor and let me know if you see the shrine maiden coming? I'm just gonna, um... rest my eyes for a moment.",
+        "zh": "如果巫女姐姐来了，记得告诉我一声哦，我稍微睡…啊不，休息会儿。"
+      },
+      "source_id": 53052
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "О нас: Поглаживание по голове",
+        "en": "About Us: Headpats",
+        "zh": "关于我们·摸摸头"
+      },
+      "text": {
+        "ru": "Я тебе не домашний питомец, знаешь ли! Гм, раз ты уже... Ладно, можешь погладить меня по голове, я обещаю не кусаться. Но только совсем недолго! Ведь это может привести к задержке роста...",
+        "en": "I'm not a pet, y'know! Hmm, but since it's you... Okay, you can pat my head and I promise not to bite your hand. Just a little, though! If you pat someone's head too much, it stunts their growth.",
+        "zh": "摸摸头？唔，如果是你的话...那好吧，我不会咬你的，但是不能摸太久了，否则会长不高的！"
+      },
+      "source_id": 53053
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Мой меч безумно тяжёлый. И хотя я владею искусством ниндзя, я всё равно могу поднять его только с помощью Глаза Бога. Так что да, Глаз Бога здорово меня выручает.",
+        "en": "My sword is crazy heavy, even with my ninjutsu training there's no way I could lift it without the help of my Vision. So yeah, having a Vision is a huge help for me.",
+        "zh": "双手剑真的很重，光靠忍术的话，我肯定举不起来。但是有了「神之眼」就不一样了，所以不管怎么说，「神之眼」对我帮助很大。"
+      },
+      "source_id": 53054
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Сэнсэй говорит, что я буду последней ниндзя нашей школы. Что уж тут поделаешь... Тем более, что в бою это направление ниндзюцу не особо-то полезно - я только и умею, что скрываться и заметать следы.",
+        "en": "Sensei says I'll be the last ninja ever in our line. I guess it can't be helped, because this style of ninjutsu wouldn't be much help in a fight anyway — all I've been taught is how to escape and how to cover your tracks.",
+        "zh": "老师说我是我们流派最后一代传人了。毕竟也不是什么特别适合战斗的流派，我学的也都是些逃跑和隐蔽气息用的忍术，这也是没办法的事情吧…"
+      },
+      "source_id": 53055
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Ты знаешь кто такой мудзина? Это как тануки, но гораздо милее. Я тебе покажу в следующий раз!",
+        "en": "Do you know the mujina? It looks similar to a tanuki, but it's way cuter. I'll take you to see one next time!",
+        "zh": "你知道貉吗？一种比狸猫可爱得多的小动物，下次带你一起去看看吧~"
+      },
+      "source_id": 53056
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "О Камисато Аяке...",
+        "en": "About Kamisato Ayaka",
+        "zh": "关于神里绫华…"
+      },
+      "text": {
+        "ru": "Она старшая дочь клана Камисато и всегда выглядит очень достойно и изящно. Но она попросила одну из жриц присматривать за мной, чтобы я не увиливала от работы. Ну за что?",
+        "en": "As the eldest daughter of the Kamisato Clan, she always looks very graceful and elegant. But she got one of the shrine maidens to keep tabs on me and make sure I don't slack off... Why would she do that?",
+        "zh": "神里家的大小姐优雅又端庄，但是她专门任命了一位巫女姐姐来监督我，不让我偷懒…怎会如此…"
+      },
+      "source_id": 53057
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "О Камисато Аято...",
+        "en": "About Kamisato Ayato",
+        "zh": "关于神里绫人…"
+      },
+      "text": {
+        "ru": "Иногда, когда я отдыхаю на ветке дерева, мне слышно как жрицы ведут о нём разговоры. Кажется, он очень важная персона, ещё и страшно занят большую часть времени. Впрочем, я его совсем не понимаю - в конце концов, это всего лишь работа. Её ведь можно просто... не делать.",
+        "en": "Sometimes, when I'm taking a rest up in a tree, I overhear the shrine maidens talking about him. Sounds like he's pretty important and super busy most of the time. I don't get it, though — it's only work, or whatever, so why doesn't he just... not do it?",
+        "zh": "我在树上休息的时候，经常会听到巫女姐姐们在聊他，似乎是一位工作很忙的大人。真是奇怪，工作什么的明明旷掉就好了…"
+      },
+      "source_id": 53058
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "О Томе...",
+        "en": "About Thoma",
+        "zh": "关于托马…"
+      },
+      "text": {
+        "ru": "У него есть Глаз Бога, но каждый раз, когда я его встречаю, он досаждает меня разговорами об изучении искусства ниндзя. Я не знаю в чем его проблема. Не то, чтобы у меня было время его обучать. Я и так жутко не высыпаюсь.",
+        "en": "He's got a Vision, and yet for some reason he pesters me about learning ninjutsu every time I run into him. I don't know what his deal is. It's not like I'd have the time to teach him anyway, I barely get enough sleep as it is.",
+        "zh": "明明都有神之眼了，他每次出现还是缠着我说想要学忍术，真是搞不懂。而且我睡觉的时间都不够，哪有时间教他嘛。"
+      },
+      "source_id": 53059
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "О Ёимии...",
+        "en": "About Yoimiya",
+        "zh": "关于宵宫…"
+      },
+      "text": {
+        "ru": "Каждый раз при встрече она говорит: «Здравствуй, крошка тануки! Идём на праздник, будет весело!» Во-первых, я не тануки. Во-вторых, я не хочу ни на какой праздник. А в-третьих, она говорит, что будет весело, а на самом деле только и мечтает о том, чтобы я продемонстрировала искусство ниндзя во время фейерверков. А это даже с моей работой в Сюмацубан никак не связано!",
+        "en": "Every time she sees me she says, \"Hey, little tanuki! Let's go hang out at the festival.\" Firstly, I'm not a tanuki. Secondly, I don't wanna go to a festival. Thirdly, she says she wants to hang out — but really, she just wants me to do a ninjutsu performance during the fireworks show. That's not even related to my work for the Shuumatsuban!",
+        "zh": "她每次碰到我就说什么，小狸猫我们一起去祭典玩之类的话。我才不是狸猫，也不想去祭典。说是一起去玩，其实就是想着在祭典上让我配合她的烟火表演忍术，但是这和「终末番」的工作有什么关联嘛！"
+      },
+      "source_id": 53060
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "О сёгуне Райдэн...",
+        "en": "About the Raiden Shogun",
+        "zh": "关于雷电将军…"
+      },
+      "text": {
+        "ru": "Её превосходительство? Вот уж кого я точно никогда не повстречаю. Если хочешь узнать побольше, попробуй спросить у госпожи Аяки.",
+        "en": "Her Excellency? Definitely not someone I'd ever get to meet. If you've got questions, maybe Miss Ayaka's the person to ask.",
+        "zh": "那位大人…不是我能见到的人物。想知道更多事情的话，或许问问绫华大小姐比较好。"
+      },
+      "source_id": 53061
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "О Яэ Мико...",
+        "en": "About Yae Miko",
+        "zh": "关于八重神子…"
+      },
+      "text": {
+        "ru": "Она постоянно гладит меня по голове... Но я её ещё ни разу не укусила и даже не возмущалась. Я не знаю как она воспримет, если я дам ей отпор. Но что же мне делать?.. Если она продолжит поглаживать меня, я навсегда останусь маленького роста!",
+        "en": "She's always patting me on the head... I've never bitten her, though, or even said anything, because I'm frightened of how she'd react if I stood up to her. But what am I gonna do? Because if she keeps on patting my head, I'm gonna get stuck at this height forever!",
+        "zh": "她总喜欢摸我的头，可是我不敢咬她，也不敢反抗，总感觉如果拒绝了她会发生很可怕的事情。但是，再这样被摸下去，我会不会真的长不高了？怎么办呀…"
+      },
+      "source_id": 53062
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Об Аратаки Итто...",
+        "en": "About Arataki Itto",
+        "zh": "关于荒泷一斗…"
+      },
+      "text": {
+        "ru": "Почему вокруг него всегда столько шума? И как он вырос таким высоким?",
+        "en": "Why does he have to make such a racket? And how did he get so tall!?",
+        "zh": "怎么会有这么吵吵嚷嚷的人，而且他还能长这么高！"
+      },
+      "source_id": 53063
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "О Куки Синобу...",
+        "en": "About Kuki Shinobu",
+        "zh": "关于久岐忍…"
+      },
+      "text": {
+        "ru": "Это имя мне ни о чём не говорит, дай-ка подумать... Что? Это маленькая помощница Аратаки Итто? Ну, тогда она тоже наверняка не даст поспать. Яблоко от яблони...",
+        "en": "Doesn't ring a bell, umm... What? Arataki Itto's little sidekick? Ugh, well she's definitely gotta be a sleep disturbance then. Birds of a feather flock together...",
+        "zh": "没什么印象的名字，让我想想…欸？她是荒泷一斗的小弟吗？那肯定也是干扰睡眠的人，毕竟有个词叫做一丘之貉，啊不对，是一丘之狸！"
+      },
+      "source_id": 53064
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Узнать больше о Саю I",
+        "en": "More About Sayu: I",
+        "zh": "想要了解早柚·其一"
+      },
+      "text": {
+        "ru": "Вжуух...",
+        "en": "Zzzz...",
+        "zh": "呼——"
+      },
+      "source_id": 53065
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Узнать больше о Саю II",
+        "en": "More About Sayu: II",
+        "zh": "想要了解早柚·其二"
+      },
+      "text": {
+        "ru": "Да? Ты хочешь знать, как называется моя школа ниндзюцу? Эмм... Знаешь, я сейчас не могу собраться с мыслями, я ещё в полусне. Дай мне ещё немного подремать. Может быть, я вспомню, когда проснусь.",
+        "en": "Huh? You wanna know the name of my style of ninjutsu? Uhh... Y'know what, I can't think straight right now, I'm still half asleep here. Lemme snooze a while longer, maybe my mind'll be clearer when I wake up.",
+        "zh": "呃…你是问我忍术流派的名字吗？那个…想不起来了啦，我还没睡醒，我再去睡一觉，睡醒后说不定就能想起来了。"
+      },
+      "source_id": 53066
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Узнать больше о Саю III",
+        "en": "More About Sayu: III",
+        "zh": "想要了解早柚·其三"
+      },
+      "text": {
+        "ru": "Ну ладно, ладно... Я расскажу тебе. Но если ты будешь смеяться, то я больше никогда с тобой не заговорю. Моя школа ниндзюцу называется Искусство Юху. Якобы наше направление строится вокруг высмеивания врага, но... да что тут скажешь...",
+        "en": "Alright, fine... I'll tell you. But you'd better not laugh, or I'm never talking to you again. Uh so, my style of ninjutsu is called... um... Yoohoo Art.\nThe reason is supposedly that our style focuses on making fun of the enemy, but still... I mean... *sigh*",
+        "zh": "好吧，告诉你也行。你先答应我不准笑，不然我就再也不理你了。我们流派叫做——呜呼流…\n说是因为我们流派的忍术以戏弄敌人为长而取的名字，可是，可是…唉。"
+      },
+      "source_id": 53067
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Узнать больше о Саю IV",
+        "en": "More About Sayu: IV",
+        "zh": "想要了解早柚·其四"
+      },
+      "text": {
+        "ru": "Ты умеешь лазить по деревьям? Я в этом спец, могу научить. Возле храма есть одно дерево. Оно просто идеально подходит для того, чтобы спать на нём весь день. Никто в жизни тебя там не найдёт... Эм, точнее, я хотела сказать, что там неплохо можно устроиться, чтобы слегка передохнуть. В следующий раз, когда захочешь вздремнуть, скажи мне - и я отведу тебя к нему.",
+        "en": "Do you know how to climb trees? I'm an expert, I can teach you. There's this tree down at the shrine — it's the perfect place, you could just literally sleep there all day if you wanted and no one would ever find you... Uh, I just mean, it's a great place for a power nap. Next time you wanna take a nap, let me know, I'll take you there.",
+        "zh": "你会爬树吗？我非常擅长这个，可以教你哦。还有，神社那边有棵树特别适合偷…啊不，特别适合小憩。下次你想睡午觉的时候，记得来找我，我们一起爬上去午睡吧。"
+      },
+      "source_id": 53068
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Узнать больше о Саю V",
+        "en": "More About Sayu: V",
+        "zh": "想要了解早柚·其五"
+      },
+      "text": {
+        "ru": "Этот наряд мне подарил сэнсэй. Сказал, что он вдохновлён мудзиной и это поможет мне скрываться или ещё чем-то... А потом сэнсэй сказал, что я уже взрослая и готова справляться со всем в одиночку, но мне всё равно нужно быть осторожной и беречь себя... А потом сэнсэй ушёл. Как я могу быть готова справляться со всем в одиночку, с моим-то ростом?\nАга? Ты... ты составишь мне компанию? Обещаешь меня не бросать?",
+        "en": "It was actually Sensei who gave me this outfit. They said it was modeled after the mujina, and it could help with escapes, or something... and then Sensei said that I was all grown up and ready to go it alone, but that I should still be careful to protect myself... then they left me. Am I really ready to go it alone, at my height?\nUm... Hmm? Y—You'll keep my company? Really? Promise you won't leave me?",
+        "zh": "其实这套衣服是老师给我的，说是以貉为原型做的，还有助于我逃跑什么的…然后又说我已经长大了可以独当一面了，但也要保护好自己，说完老师就离开了我。可我这个身高，真的能独当一面吗…\n唔…欸？你是说你会陪着我吗？你真的不会离开我吗？"
+      },
+      "source_id": 53069
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Хобби Саю",
+        "en": "Sayu's Hobbies",
+        "zh": "早柚的爱好…"
+      },
+      "text": {
+        "ru": "Когда я надеваю капюшон, то могу спать сладким сном сколько угодно, ничуть не беспокоясь о том, что жрица меня найдёт. Эх, должно быть, это лучшее в мире чувство.",
+        "en": "When I put my hood on, I can snooze away to my heart's content without having to worry about the shrine maiden finding me. *sigh* I think it must be one of the best feelings in the whole world.",
+        "zh": "套上衣服上的帽子，不用担心会被巫女姐姐找到，然后睡个天昏地暗，这应该是世界上最幸福的事情了吧。"
+      },
+      "source_id": 53070
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Проблемы Саю: Недопонимание",
+        "en": "Sayu's Troubles: Misunderstanding",
+        "zh": "早柚的烦恼·误会"
+      },
+      "text": {
+        "ru": "Когда люди впервые меня видят, они почему-то всегда называют меня «тануки», «плюшевый мишка» или «котёночек»... Но Саю - это Саю. И уж точно никакой не тануки.",
+        "en": "For some reason, when people meet me for the first time, they always call me tanuki, or teddy-bear, or kitty-cat... But Sayu is just Sayu — and definitely not a tanuki.",
+        "zh": "很多人第一次见到我的时候，都会大呼小叫，还把我当成狸猫。可早柚就是早柚，才不是狸猫。"
+      },
+      "source_id": 53071
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Проблемы Саю: Рост",
+        "en": "Sayu's Troubles: Height",
+        "zh": "早柚的烦恼·身高"
+      },
+      "text": {
+        "ru": "Когда же у меня произойдёт скачок роста? Все мои ровесники уже практически в два раза выше меня, а я всё ещё... Ай, довольно! Мне нужен сон, сон - вот что мне поможет. Спокойной ночи!",
+        "en": "When is my growth spurt gonna come? Everyone my age practically twice my height, and I'm still... Ugh, enough, I need sleep, sleep is the answer. Good night!",
+        "zh": "什么时候才能长高呢？跟我同年的人身高都快是我的两倍了，可我还…不行，再睡久一点一定能长高的！我要睡觉了，晚安。"
+      },
+      "source_id": 53072
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Проблемы Саю: Раздражительность",
+        "en": "Sayu's Troubles: Feedback Loop",
+        "zh": "早柚的烦恼·死循环"
+      },
+      "text": {
+        "ru": "Недавно кто-то мне сказал, что излишняя раздражительность тоже может помешать росту! Ох! Даже не знаю, что теперь с этим делать...",
+        "en": "Recently someone told me that if you get annoyed too easily, that'll stunt your growth, too! ...Gah! I dunno what I can do about that...",
+        "zh": "我上次听人说，烦恼太多也会长不高…呜，我该怎么办才好…"
+      },
+      "source_id": 53073
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Высокоуглеводная пища, как онигири, например, даёт немедленный прилив энергии. Съедаешь что-нибудь такое сразу после пробуждения - и никакого осоловелого взгляда или спутанности мыслей. А после можно снова прилечь.",
+        "en": "High-carb foods that give you instant energy, like rice balls. If you eat one the moment you wake up, it stops you feeling so groggy and bleary-eyed. Then, you can just relax and get straight back to sleep.",
+        "zh": "能一下子提供很多能量的食物吧，比如说饭团。睡醒了吃一个就不会头晕眼花，然后又能继续睡觉了。"
+      },
+      "source_id": 53074
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Нельзя быть привередливой в еде, если тебе ещё расти и расти! Хотя, по правде сказать, за последнее время в росте я совсем не прибавила. Может, я ем недостаточно овощей? Но салат не насыщает и бывает таким горьким...",
+        "en": "Can't be picky about food when you've still got growing to do! ...That said, I haven't gained any height recently — maybe I'm not eating enough vegetables? But salad isn't filling enough and sometimes it can be really bitter... *sigh*",
+        "zh": "想要长高的话，就不能挑食！说来最近好像身高也没有变化，是不是因为蔬菜吃少了，但是沙拉真的没有办法提供饱腹感，而且还苦苦的，呜欸——"
+      },
+      "source_id": 53075
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Хочешь освоить несколько навыков ниндзя? Я могу тебя научить кое-чему! Только тому, что сама умею, разумеется. Хм? Почему я не сплю? Э-э, потому что мне не хочется... И ещё потому что сегодня особенный день! Сегодня я не сплю, чтобы не упустить возможность лично поздравить тебя. С днём рождения!",
+        "en": "Wanna learn some ninja skills? I can teach you! Well, only the skills I know, of course. Hmm? Why aren't I asleep? ...Uhh, because I'm not sleepy... and also because today is a special day! I had to stay awake today so I'd have the chance to say it to you in person: Happy Birthday.",
+        "zh": "你有什么想学的忍术吗？我可以教你！当然仅限于我会的。呃？你问我为什么不睡觉？嗯…我还不困，而且，而且今天是特别的日子，我不可以睡过去，因为我想亲口对你说——生日快乐呀。"
+      },
+      "source_id": 53076
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Мне кажется, или я стала немножечко выше?!",
+        "en": "Is it just me, or did I get a little taller!?",
+        "zh": "我有长高一点点吗？"
+      },
+      "source_id": 53077
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Класс! Теперь я могу ускользать быстрее, чем когда-либо раньше! Хи-хи, теперь меня никто не поймает.",
+        "en": "Awesome, now I can slip away faster than ever. Hee-hee, they can't catch me now.",
+        "zh": "太好了，能溜得更快了，这下子肯定不会被抓住了。"
+      },
+      "source_id": 53078
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Спасибо за помощь в сборе всех этих материалов. Я бы и сама это сделала, но... наверняка бы уснула, не завершив начатое.",
+        "en": "Hey, thanks for going and gathering all those materials for me. I would've gone myself, but... I probably would've got about halfway before falling asleep.",
+        "zh": "谢谢你帮我收集了那么多材料，要是我自己来的话…肯定在路上就会睡着了。"
+      },
+      "source_id": 53079
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Я думаю, я наконец готова справляться со всем сама, как мне говорил сэнсэй. И... может быть, не так уж и страшно, если я больше не вырасту. В конце концов, важно другое... что у меня есть ты.",
+        "en": "I think I'm finally ready to go it alone now, just like Sensei said I should. And... maybe it's not such a big deal now if I can't grow any taller. Because what really matters... is that I have you to keep me company.",
+        "zh": "我好像确实像老师说的那样，可以独当一面了。这样子长不长高或许对我来说也没有那么重要了，因为现在重要的是…有你陪在我身边。"
+      },
+      "source_id": 53080
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ну вот, поели, теперь можно и поспать...",
+        "en": "I'm soooo full, time for a nap...",
+        "zh": "肚子好饱。这下可以安心睡觉啦。"
+      },
+      "source_id": 53081
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Поешь этого... и точно захочется спать.",
+        "en": "If you eat enough of this... it makes you really sleepy.",
+        "zh": "吃着吃着…就困了。"
+      },
+      "source_id": 53082
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "О нет... Нужен план побега.",
+        "en": "Uh oh... Need an escape plan.",
+        "zh": "要想个办法…逃走。"
+      },
+      "source_id": 53083
+    },
+    {
+      "number": 77,
+      "title": {
+        "ru": "О Кираре...",
+        "en": "About Kirara",
+        "zh": "关于绮良良…"
+      },
+      "text": {
+        "ru": "Однажды я проснулась от послеобеденного сна и почувствовала необычное тепло за спиной. Когда я обернулась, то увидела что там, свернувшись калачиком, спит кошка. И что удивительно - у неё было целых два пушистых хвоста вместо одного! Я так удивилась, что чуть с дерева не упала! Это какая-то техника ниндзюцу?",
+        "en": "One time, when I woke up from an afternoon nap, I felt something warm against my back. I turned around and saw a cat curled up fast asleep. You wouldn't believe this — it had not only one, but two fluffy tails! I almost fell from the tree in surprise. I—Is this some form of ninjutsu too?",
+        "zh": "有次我午觉睡醒，感觉身后暖和和的，一转头就看见有只猫正蜷着睡觉，关键是有一对毛茸茸的尾巴！吓得我差点从树枝上掉下去。这，这也是变身术吗？"
+      },
+      "source_id": 53084
+    },
+    {
+      "number": 78,
+      "title": {
+        "ru": "О Прюн...",
+        "en": "About Prune",
+        "zh": "关于布伦妮…"
+      },
+      "text": {
+        "ru": "Она подарила мне толстую книгу «Введение в диетологию» и сказала, что, чтобы вырасти, нужно не только спать, но и правильно питаться. Но странно... при всех её знаниях мы всё равно почти одного роста. Может, она на самом деле не хочет становиться выше?",
+        "en": "She gave me this big, thick book called \"An Introduction to Nutrition\" and told me that if I wanna grow taller, I also need to eat well — apparently, just sleeping all the time isn't enough. Kinda weird, though... Despite everything she knows, we're still pretty much the same height. I dunno, maybe she actually doesn't wanna grow taller?",
+        "zh": "她送了我一本很厚的书，叫《营养学导论》，她说光睡觉是不够的，还要按照上面的公式吃饭才能长高。但是，她明明懂这么多，我们好像也差不多高嘛…奇怪，难道她不想长高吗？"
+      },
+      "source_id": 53085
+    }
+  ],
+  "replica_count": 78
 }

@@ -1,0 +1,375 @@
+{
+  "id": "material_set_112146",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/item_112146.webp",
+  "title": {
+    "ru": "Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя",
+    "en": "Ethereal Glimmershard / Ethereal Crystal / Ethereal Crystalscale Stone",
+    "zh": "幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+  },
+  "region": "Снежная",
+  "rarity": null,
+  "game_version": "7.0",
+  "tags": [
+    "материалы"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "glacial_warden",
+    "glaciomancer",
+    "winged_halberd_knight",
+    "winged_soarer_knight"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "glacial_warden",
+      "title": {
+        "ru": "Стражник льдов",
+        "en": "Glacial Warden",
+        "zh": "凝冰戍卫"
+      },
+      "icon": "assets/icons/enemies/common_enemies/glacial_warden.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Снеговик, рождённый среди льдов и снегов ради любви.\nМужчины-снеговики - прирождённые рыцари. Большинство из них с рождения способны свободно конструировать собственное оружие изо льда и снега.\nЛегенда гласит, что в битве, где Белый царь сражался с Чёрным потоком разложения, один из снеговиков, служивший его стражем, пробудил силу, не свойственную своему народу, и превратился в настоящего исполина.\nЧем закончилась его история, неизвестно. Но нарушение запрета, надо полагать, не могло привести ни к чему хорошему.",
+        "en": "A Snegovik born of love amid the snow and ice.\nMale Snegovik are natural-born knights, and most are born able to freely forge weapons from ice and snow.\nLegend tells that during the Belyi Tsar's campaign against the dark tide, a Snegovik serving as his guard unleashed a power that didn't belong to his kind, transforming into a towering giant.\nThough his final fate remains unknown, one who violated such a taboo surely could not have met with a happy end.",
+        "zh": "于冰雪之中，为爱而生的雪精。\n雪精中的男性是天然的骑士，其中的大多数生来都能够自由利用冰雪凝造自己的武器。\n传说在白沙皇抵抗漆黑蚀流的战役中，有作为其护卫的雪精催动了不属于这一族群的力量，身形变化得相当巨大。\n虽然不知其最终的结局为何，但触犯了禁忌，想必不会有太好的后果吧。"
+      },
+      "description": {
+        "ru": "Снеговик, рождённый среди льдов и снегов ради любви.\nМужчины-снеговики - прирождённые рыцари. Большинство из них с рождения способны свободно конструировать собственное оружие изо льда и снега.\nЛегенда гласит, что в битве, где Белый царь сражался с Чёрным потоком разложения, один из снеговиков, служивший его стражем, пробудил силу, не свойственную своему народу, и превратился в настоящего исполина.\nЧем закончилась его история, неизвестно. Но нарушение запрета, надо полагать, не могло привести ни к чему хорошему.",
+        "en": "A Snegovik born of love amid the snow and ice.\nMale Snegovik are natural-born knights, and most are born able to freely forge weapons from ice and snow.\nLegend tells that during the Belyi Tsar's campaign against the dark tide, a Snegovik serving as his guard unleashed a power that didn't belong to his kind, transforming into a towering giant.\nThough his final fate remains unknown, one who violated such a taboo surely could not have met with a happy end.",
+        "zh": "于冰雪之中，为爱而生的雪精。\n雪精中的男性是天然的骑士，其中的大多数生来都能够自由利用冰雪凝造自己的武器。\n传说在白沙皇抵抗漆黑蚀流的战役中，有作为其护卫的雪精催动了不属于这一族群的力量，身形变化得相当巨大。\n虽然不知其最终的结局为何，但触犯了禁忌，想必不会有太好的后果吧。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112146",
+          "title": {
+            "ru": "Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя",
+            "en": "Ethereal Glimmershard / Ethereal Crystal / Ethereal Crystalscale Stone",
+            "zh": "幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112146.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112146",
+              "title": {
+                "ru": "Осколок эфирного сияния",
+                "en": "Ethereal Glimmershard",
+                "zh": "幻造萤屑"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112146.webp"
+            },
+            {
+              "key": "material_112147",
+              "title": {
+                "ru": "Эфирный кристалл",
+                "en": "Ethereal Crystal",
+                "zh": "幻造裂晶"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112147.webp"
+            },
+            {
+              "key": "material_112148",
+              "title": {
+                "ru": "Эфирная кристальная чешуя",
+                "en": "Ethereal Crystalscale Stone",
+                "zh": "幻造晶鳞石"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112148.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "glaciomancer",
+      "title": {
+        "ru": "Колдун льдов",
+        "en": "Glaciomancer",
+        "zh": "凝冰秘法师"
+      },
+      "icon": "assets/icons/enemies/common_enemies/glaciomancer.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Снеговик, рождённый среди льдов и снегов ради любви.\nЖенщин-снеговиков называют снегурочками, и большинство из них с рождения способны свободно управлять силой льда и снега. Легенда гласит, что души снеговиков при сотворении остаются неполными и, лишь полюбив человека, они обретают совершенство.\nНо нужна ли любовь тому, кто уже стал совершенным? Возможно, нет.\nНаверное, именно поэтому так много историй любви между снеговиками и людьми заканчиваются трагедией.",
+        "en": "A Snegovik born of love amid the snow and ice.\nFemale Snegovik are known as Snegurochka, and most are born as mages capable of freely wielding the power of ice and snow. It's said that when Snegovik were first created, their souls were incomplete, and only by falling in love with humans could they make themselves whole.\nYet once a Snegovik has attained wholeness, does it still need love? Perhaps not.\nMaybe this is why so many stories of love between Snegovik and human end in tragedy.",
+        "zh": "于冰雪之中，为爱而生的雪精。\n雪精中的女性被称呼为雪孃，其中的大多数生来都是能够自由运用冰雪之力的法师。传说雪精在受造时灵魂残缺，需要爱上人类以令自身达成完美。\n但是达成完美之后的雪精是否仍然需要爱呢？或许答案是否定的。\n这也是诸多雪精与人类相爱的故事最后却都以悲剧收尾的原因吧。"
+      },
+      "description": {
+        "ru": "Снеговик, рождённый среди льдов и снегов ради любви.\nЖенщин-снеговиков называют снегурочками, и большинство из них с рождения способны свободно управлять силой льда и снега. Легенда гласит, что души снеговиков при сотворении остаются неполными и, лишь полюбив человека, они обретают совершенство.\nНо нужна ли любовь тому, кто уже стал совершенным? Возможно, нет.\nНаверное, именно поэтому так много историй любви между снеговиками и людьми заканчиваются трагедией.",
+        "en": "A Snegovik born of love amid the snow and ice.\nFemale Snegovik are known as Snegurochka, and most are born as mages capable of freely wielding the power of ice and snow. It's said that when Snegovik were first created, their souls were incomplete, and only by falling in love with humans could they make themselves whole.\nYet once a Snegovik has attained wholeness, does it still need love? Perhaps not.\nMaybe this is why so many stories of love between Snegovik and human end in tragedy.",
+        "zh": "于冰雪之中，为爱而生的雪精。\n雪精中的女性被称呼为雪孃，其中的大多数生来都是能够自由运用冰雪之力的法师。传说雪精在受造时灵魂残缺，需要爱上人类以令自身达成完美。\n但是达成完美之后的雪精是否仍然需要爱呢？或许答案是否定的。\n这也是诸多雪精与人类相爱的故事最后却都以悲剧收尾的原因吧。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112146",
+          "title": {
+            "ru": "Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя",
+            "en": "Ethereal Glimmershard / Ethereal Crystal / Ethereal Crystalscale Stone",
+            "zh": "幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112146.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112146",
+              "title": {
+                "ru": "Осколок эфирного сияния",
+                "en": "Ethereal Glimmershard",
+                "zh": "幻造萤屑"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112146.webp"
+            },
+            {
+              "key": "material_112147",
+              "title": {
+                "ru": "Эфирный кристалл",
+                "en": "Ethereal Crystal",
+                "zh": "幻造裂晶"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112147.webp"
+            },
+            {
+              "key": "material_112148",
+              "title": {
+                "ru": "Эфирная кристальная чешуя",
+                "en": "Ethereal Crystalscale Stone",
+                "zh": "幻造晶鳞石"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112148.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "winged_halberd_knight",
+      "title": {
+        "ru": "Крылатый рыцарь с алебардой",
+        "en": "Winged Halberd-Knight",
+        "zh": "持戟羽骑士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/winged_halberd_knight.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Вила - крылатый альв, способный летать.\nСогласно записям, в течение ста лет после восшествия Царицы на престол народ вил пережил немало смутных времён. Говорят, некоторые альвы, недовольные политикой Царицы в отношении знати, даже подняли небольшой мятеж.\nВосстание быстро подавили, однако тот факт, что его возглавили потомки древней знати вил, на некоторое время привёл к глубокому расколу внутри этого народа.",
+        "en": "A winged Vila capable of flight.\nRecords show that in the century after the Tsaritsa ascended the throne, the Vila went through many turbulent periods. Among them were fae who launched small-scale rebellions out of dissatisfaction with the Tsaritsa's policies toward the fae nobility.\nThe rebellions were soon suppressed, but the fact that their leaders were descendants of the old Vila nobility once led to a major split within the Vila people.",
+        "zh": "生有双翼，能于空中飞行的风仙。\n根据记载，风仙一族曾于女皇登基后的百年中经历过了不少动荡的时期。其中，据说有不满女皇针对妖精贵族的政策而掀起小规模叛乱的妖灵。\n叛乱倒是很快就被平息，不过发起叛乱的是昔日风仙贵族的后裔，这件事一度导致了风仙族群的大规模分化。"
+      },
+      "description": {
+        "ru": "Вила - крылатый альв, способный летать.\nСогласно записям, в течение ста лет после восшествия Царицы на престол народ вил пережил немало смутных времён. Говорят, некоторые альвы, недовольные политикой Царицы в отношении знати, даже подняли небольшой мятеж.\nВосстание быстро подавили, однако тот факт, что его возглавили потомки древней знати вил, на некоторое время привёл к глубокому расколу внутри этого народа.",
+        "en": "A winged Vila capable of flight.\nRecords show that in the century after the Tsaritsa ascended the throne, the Vila went through many turbulent periods. Among them were fae who launched small-scale rebellions out of dissatisfaction with the Tsaritsa's policies toward the fae nobility.\nThe rebellions were soon suppressed, but the fact that their leaders were descendants of the old Vila nobility once led to a major split within the Vila people.",
+        "zh": "生有双翼，能于空中飞行的风仙。\n根据记载，风仙一族曾于女皇登基后的百年中经历过了不少动荡的时期。其中，据说有不满女皇针对妖精贵族的政策而掀起小规模叛乱的妖灵。\n叛乱倒是很快就被平息，不过发起叛乱的是昔日风仙贵族的后裔，这件事一度导致了风仙族群的大规模分化。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112146",
+          "title": {
+            "ru": "Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя",
+            "en": "Ethereal Glimmershard / Ethereal Crystal / Ethereal Crystalscale Stone",
+            "zh": "幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112146.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112146",
+              "title": {
+                "ru": "Осколок эфирного сияния",
+                "en": "Ethereal Glimmershard",
+                "zh": "幻造萤屑"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112146.webp"
+            },
+            {
+              "key": "material_112147",
+              "title": {
+                "ru": "Эфирный кристалл",
+                "en": "Ethereal Crystal",
+                "zh": "幻造裂晶"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112147.webp"
+            },
+            {
+              "key": "material_112148",
+              "title": {
+                "ru": "Эфирная кристальная чешуя",
+                "en": "Ethereal Crystalscale Stone",
+                "zh": "幻造晶鳞石"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112148.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "winged_soarer_knight",
+      "title": {
+        "ru": "Крылатый парящий рыцарь",
+        "en": "Winged Soarer Knight",
+        "zh": "舞空羽骑士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/winged_soarer_knight.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Вила - крылатый альв, способный летать.\nГоворят, народ вил последовал за Белым царём ещё тогда, когда тот только начал объединять земли вечной мерзлоты. Их способность ненадолго подниматься в воздух делает их необычайно манёвренными. Разведка вражеских позиций и стремительные рейды на большие расстояния - всё это им по плечу.\nБольшинство бойцов Дружины, личной гвардии, созданной Белым царём, составляли именно вилы.",
+        "en": "A winged Vila capable of flight.\nIt's said that the Vila were among the fae clans that followed the Belyi Tsar from the very beginning of his campaign to unify the frozen lands. Their ability to take brief flight gives them exceptional mobility, allowing them to scout enemy formations and carry out long-distance raids with ease.\nMost members of the Druzhna, the personal guard founded during the Belyi Tsar reign, were Vila.",
+        "zh": "生有双翼，能于空中飞行的风仙。\n据说风仙一族是在白沙皇开始统一整个冻土之时就跟随在其后的妖精氏族。在空中短暂飞翔的能力，让他们有相当灵活的机动性。作为斥候探查敌群，或是进行长距离的奔袭都不在话下。\n白沙皇时期组建的亲卫「冬契军」，其中大部分成员都是风仙。"
+      },
+      "description": {
+        "ru": "Вила - крылатый альв, способный летать.\nГоворят, народ вил последовал за Белым царём ещё тогда, когда тот только начал объединять земли вечной мерзлоты. Их способность ненадолго подниматься в воздух делает их необычайно манёвренными. Разведка вражеских позиций и стремительные рейды на большие расстояния - всё это им по плечу.\nБольшинство бойцов Дружины, личной гвардии, созданной Белым царём, составляли именно вилы.",
+        "en": "A winged Vila capable of flight.\nIt's said that the Vila were among the fae clans that followed the Belyi Tsar from the very beginning of his campaign to unify the frozen lands. Their ability to take brief flight gives them exceptional mobility, allowing them to scout enemy formations and carry out long-distance raids with ease.\nMost members of the Druzhna, the personal guard founded during the Belyi Tsar reign, were Vila.",
+        "zh": "生有双翼，能于空中飞行的风仙。\n据说风仙一族是在白沙皇开始统一整个冻土之时就跟随在其后的妖精氏族。在空中短暂飞翔的能力，让他们有相当灵活的机动性。作为斥候探查敌群，或是进行长距离的奔袭都不在话下。\n白沙皇时期组建的亲卫「冬契军」，其中大部分成员都是风仙。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112146",
+          "title": {
+            "ru": "Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя",
+            "en": "Ethereal Glimmershard / Ethereal Crystal / Ethereal Crystalscale Stone",
+            "zh": "幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112146.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112146",
+              "title": {
+                "ru": "Осколок эфирного сияния",
+                "en": "Ethereal Glimmershard",
+                "zh": "幻造萤屑"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112146.webp"
+            },
+            {
+              "key": "material_112147",
+              "title": {
+                "ru": "Эфирный кристалл",
+                "en": "Ethereal Crystal",
+                "zh": "幻造裂晶"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112147.webp"
+            },
+            {
+              "key": "material_112148",
+              "title": {
+                "ru": "Эфирная кристальная чешуя",
+                "en": "Ethereal Crystalscale Stone",
+                "zh": "幻造晶鳞石"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112148.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 4,
+  "item_group": "common_enemies",
+  "entry_type": "material_set",
+  "materials": [
+    {
+      "key": "material_112146",
+      "title": {
+        "ru": "Осколок эфирного сияния",
+        "en": "Ethereal Glimmershard",
+        "zh": "幻造萤屑"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112146.webp",
+      "text": {
+        "ru": "Останки альва Снежной после боя.\nОсыпавшиеся с поверхности тела альва кристаллические чешуйки, потерявшие свой цвет при падении, подобно чешуйкам мотылька.",
+        "en": "The remains of a Snezhnayan fae left behind after battle.\nThese shards once coated the creature's body like crystalline scales. Upon falling away, they stripped themselves of all colors, shifting into something akin to the dusty dross of a moth's wings.",
+        "zh": "至冬妖精在战斗后的残留。\n生长在妖精身躯表面的晶片的碎屑，在掉落下来时失去了颜色，就犹如虫蛾的鳞屑一般。"
+      }
+    },
+    {
+      "key": "material_112147",
+      "title": {
+        "ru": "Эфирный кристалл",
+        "en": "Ethereal Crystal",
+        "zh": "幻造裂晶"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112147.webp",
+      "text": {
+        "ru": "Останки альва Снежной после боя.\nОбломок кристаллической пластины, росшей на поверхности тела альва. Хоть он уже и опустел, в нём всё ещё можно ощутить следы некогда заключённой в нём уникальной силы.",
+        "en": "The remains of a Snezhnayan fae left behind after battle.\nA shattered fragment of the crystalline scales that once grew upon the fae's body. Though it is now a mere empty shell, one can still sense the echo of the unique power that once dwelt within.",
+        "zh": "至冬妖精在战斗后的残留。\n生长在妖精身躯表面的晶片的碎块，虽然已经空空如也，但是也能够感受到其中曾蕴含的独特力量。"
+      }
+    },
+    {
+      "key": "material_112148",
+      "title": {
+        "ru": "Эфирная кристальная чешуя",
+        "en": "Ethereal Crystalscale Stone",
+        "zh": "幻造晶鳞石"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112148.webp",
+      "text": {
+        "ru": "Останки альва Снежной после сражения.\nОсколки кристаллов, растущие на поверхности тела альва. Говорят, что альвы, чьё тело покрыто большим количеством осколков, способны управлять большей силой. Однако никто не знает, скрыта ли эта сила в самом альве и лишь высвобождается через кристаллы, или же именно кристаллы служат её носителями.",
+        "en": "The remains of a Snezhnayan fae left behind after battle.\nA crystalline scale that once grew upon the fae's body. It is said that fae possessing a greater abundance of these scales command far greater power. Yet, none can say whether this magic truly originates from within their forms — merely channeled outward through the crystal chunks — or if the chunks themselves are the very vessels of their power.",
+        "zh": "至冬妖精在战斗后的残留。\n生长在妖精身躯表面的晶片，据说体表拥有更多晶片的妖精，便能驱使更多的力量。但没人知道力量究竟是蕴藏在他们身躯之中，只是借由晶块发散，还是晶块才是那些力量的载体。"
+      }
+    }
+  ],
+  "material_count": 3
+}

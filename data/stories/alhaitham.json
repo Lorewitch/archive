@@ -144,5 +144,946 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я аль-Хайтам, секретарь Академии. Если хотите ознакомиться с архивом, пожалуйста, подайте заявку по установленной форме. Не заполнили заявку? Ничего страшного. Приходите в другой раз. С приёмными часами можете ознакомиться возле кабинета.",
+        "en": "I'm Alhaitham, the Akademiya's scribe. If you wish to access an archived file, please submit an application according to the prescribed format.\nOh, your form isn't ready? Not to worry. You can come again on the next working day. My work hours are posted outside the office.",
+        "zh": "我是教令院的书记官艾尔海森。想调阅档案的话，请把你的需求按照正规格式填好申请表后递交。\n还没整理完？没关系。我的工作时间贴在办公室门外，等下个工作日再来吧。"
+      },
+      "source_id": 78000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Работа",
+        "en": "Chat: Work",
+        "zh": "闲聊·工作"
+      },
+      "text": {
+        "ru": "У секретаря простая работа, поэтому я и выбрал эту должность.",
+        "en": "The scribe's work is simple, which is exactly why I took the position.",
+        "zh": "书记官的工作很简单，我就是因此才做了这个职位。"
+      },
+      "source_id": 78001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Чтение",
+        "en": "Chat: Reading",
+        "zh": "闲聊·读书"
+      },
+      "text": {
+        "ru": "Одних лишь книг недостаточно для развития интеллекта. Учёные Академии - яркий тому пример.",
+        "en": "Book learning alone is not enough to cultivate intelligence. All those scholars in the Akademiya are prime examples.",
+        "zh": "读书并不会让人变聪明，看看教令院里的那些家伙就知道了。"
+      },
+      "source_id": 78002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Размышления",
+        "en": "Chat: Thinking",
+        "zh": "闲聊·思考"
+      },
+      "text": {
+        "ru": "Хм, в последнее время плохо заполненных заявок стало многовато. Думаю, мне придётся их все отклонить.",
+        "en": "Hmm, there have been many poorly written applications lately. I guess I'll just have to reject them all.",
+        "zh": "嗯…最近乱七八糟的申请表有点多，都驳回吧。"
+      },
+      "source_id": 78003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Нет ничего хуже, чем выходить из дома в дождь.",
+        "en": "Going out on a rainy day is the worst.",
+        "zh": "雨天出门是最麻烦的。"
+      },
+      "source_id": 78004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Это просто природное явление, так что бояться нечего... если, конечно, вы не стоите под деревом.",
+        "en": "It's just a natural phenomenon, so there's nothing to be afraid of... unless you're beneath a tree.",
+        "zh": "没什么可怕的，自然现象而已。除非你往大树下躲。"
+      },
+      "source_id": 78005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Холодает? А по мне, так неплохо.",
+        "en": "It's getting cold, you say? I feel fine.",
+        "zh": "很冷吗？我还好。"
+      },
+      "source_id": 78006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Отличная погода, чтобы ничего не делать.",
+        "en": "This weather is perfect for doing nothing at all.",
+        "zh": "这种好天气，最适合什么都不干。"
+      },
+      "source_id": 78007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Проклятье, полные сапоги песка.",
+        "en": "Curses, there's sand in my shoes.",
+        "zh": "糟糕，鞋里进沙子了…"
+      },
+      "source_id": 78008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Рановато для меня, позволь мне сначала выпить чашку кофе.",
+        "en": "It's a little early for me... Let me get a cup of coffee first.",
+        "zh": "时间还早，我先去喝杯咖啡。"
+      },
+      "source_id": 78009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Если дел нет, я просто надеваю звуконепроницаемые наушники и дремлю.",
+        "en": "If there's nothing to do, then I'll just put on my soundproof earpieces and nap for a while.",
+        "zh": "没什么事的话，我要戴着隔音耳机睡一会儿。"
+      },
+      "source_id": 78010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Теперь у меня наконец будет немного времени для себя. До свидания.",
+        "en": "I'll be taking some time for myself now. Goodbye.",
+        "zh": "接下来就是私人时间了。再见。"
+      },
+      "source_id": 78011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Надеюсь, мой сосед по комнате не будет корпеть всю ночь над очередным проектом... Я бы предпочёл, чтобы его вообще не было дома. Не имею ни малейшего желания надевать наушники на время сна.",
+        "en": "I hope my roommate won't be hammering away on another one of his projects in the dead of night... Actually, I'd prefer if he wasn't home at all. I really don't want to wear my soundproof earpieces to bed.",
+        "zh": "希望室友不要半夜敲敲打打做模型…或者他不在家最好。我不想晚上睡觉还得戴着耳机。"
+      },
+      "source_id": 78012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Об аль-Хайтаме: Факты",
+        "en": "About Alhaitham: Facts",
+        "zh": "关于艾尔海森自己·事实"
+      },
+      "text": {
+        "ru": "Не люблю расцвечивать слова пустой риторикой, я предпочитаю говорить о фактах.",
+        "en": "Rather than lacing my words with rhetoric, I prefer speaking factually.",
+        "zh": "比起辞藻的包装，我更喜欢用事实说话。"
+      },
+      "source_id": 78013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "Об аль-Хайтаме: Слухи",
+        "en": "About Alhaitham: Rumors",
+        "zh": "关于艾尔海森自己·流言"
+      },
+      "text": {
+        "ru": "Что? Тебя беспокоят слухи обо мне? Тревожиться не о чем. Мне всё равно, веришь ты в них или нет. Главное, чтобы из-за этого лишних проблем не возникало.",
+        "en": "Oh? You're concerned about all the rumors you've heard about me?\nDon't bother, because I don't care whether you believe those rumors. Just don't throw extra trouble my way, and we'll be fine.",
+        "zh": "哦？听过不少关于我为人的传言吗？很在意？\n没必要，因为我也并不在意你相信与否，只要别徒增额外的事端就好。"
+      },
+      "source_id": 78014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Приветствие",
+        "en": "About Us: Greetings",
+        "zh": "关于我们·打招呼"
+      },
+      "text": {
+        "ru": "Не обижайся, если я не отвечу на твоё приветствие на улице. Просто я ношу звуконепроницаемые наушники, вот и всё.",
+        "en": "Don't be offended if you try to greet me on the street and I don't respond. It's simply because I'm wearing my soundproof earpieces, that's all.",
+        "zh": "要是在街上和我打招呼我却没有反应的话，不要见怪。我只是开了耳机隔音而已。"
+      },
+      "source_id": 78015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Взаимопомощь",
+        "en": "About Us: Helping Each Other",
+        "zh": "关于我们·互助"
+      },
+      "text": {
+        "ru": "Похоже, у тебя достаточно сил, чтобы позаботиться о себе и даже присмотреть за своей маленькой спутницей. Так что не думаю, что мне есть что тебе предложить - по-моему, ты в моей помощи не нуждаешься.",
+        "en": "It seems you're perfectly capable of taking care of yourself, so much so that you even look after that little companion of yours. I don't have any suggestions to offer you, and frankly, you probably don't need my help.",
+        "zh": "你是自理能力非常强的人，甚至能兼顾身边的伙伴。我没什么要给你的建议，你应该也不需要我的帮助。"
+      },
+      "source_id": 78016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Честно говоря, этот Дендро Глаз Бога не слишком помогает мне в исследованиях. Но не буду отрицать, в физических столкновениях сила элементов бывает как нельзя кстати, так что какая-то польза от него есть.",
+        "en": "To be completely honest, this Dendro Vision isn't of much help to my research... However, there's no denying the effectiveness of elemental powers when settling a physical dispute, so it still proves useful at times.",
+        "zh": "说实话，草元素「神之眼」对我的研究帮助不大。不过有了元素力后打人倒是更疼了，所以还算有用。"
+      },
+      "source_id": 78017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "У истины нет хозяина. Человечество - не средство для получения знаний, а знания - не главная цель человечества.",
+        "en": "Truth serves no master. Humankind is not a vehicle for knowledge, nor is knowledge the aim of humankind.",
+        "zh": "真理诞生不是为了服务于谁。人类不是知识的载体，知识也不是人类的目的。"
+      },
+      "source_id": 78018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Многое в мире может привлечь наше внимание, но не стоит слишком доверяться глазам. Если бы истина лежала на поверхности, то и думать бы не пришлось, не так ли?",
+        "en": "There are many things in this world that may catch our eye, but don't always believe what you see. If what we see in the world were all there was to it, then there'd be no need to think, would there?",
+        "zh": "这世上吸引人注意力的东西有很多，不要太相信自己的双眼。如果所见即为真实，人就不需要思考了。"
+      },
+      "source_id": 78019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О малой властительнице Кусанали...",
+        "en": "About Lesser Lord Kusanali",
+        "zh": "关于小吉祥草王…"
+      },
+      "text": {
+        "ru": "Богов не стоит отвергать, но и чрезмерное почитание ни к чему. Божествам нужны последователи, и в то же время они лишь часть иерархии живых существ. Поэтому я не горжусь тем, что помог спасти Архонта. Надеюсь, малая властительница Кусанали на меня за это не в обиде.",
+        "en": "One should neither dismiss nor overly revere the divine. Gods require followers, and they are also part of a biological hierarchy. That's why I don't take any pride in the fact that I helped rescue a god. I hope Lesser Lord Kusanali doesn't take offense.",
+        "zh": "过于小瞧或敬畏神明都是不可取的。神明需要信徒，同时神明也是生物链中的一环。所以我并不因为参与拯救过神明而自豪，希望小吉祥草王也不必介怀。"
+      },
+      "source_id": 78020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Кавехе: Излишняя чувствительность...",
+        "en": "About Kaveh: Overly Sensitive",
+        "zh": "关于卡维·关怀…"
+      },
+      "text": {
+        "ru": "Кавех слишком трепетно относится ко всему и ко всем на своём пути и вечно суетится по пустякам. Возможно, это из-за того, что он очень раним.",
+        "en": "Kaveh tends to be overly sensitive about everyone and everything he crosses paths with, and he's constantly making a fuss about nothing. Maybe it's because he's too emotionally fragile...",
+        "zh": "他对所有人和事都抱有过度的关怀心，可能是因为他自己太脆弱了吧，整天大惊小怪的。"
+      },
+      "source_id": 78021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Кавехе: Жертва обмана...",
+        "en": "About Kaveh: Getting Duped",
+        "zh": "关于卡维·上当…"
+      },
+      "text": {
+        "ru": "Как-то на улице продавали со стенда брелоки ручной работы, уверяя, что прибыль от продажи пойдёт на бесплатную еду для детей из бедных семей. Кавех купил не меньше дюжины. И это в Сумеру, где даже лечение для всех бесплатно... Что тут скажешь?",
+        "en": "Someone set up a stand on the street saying that for each handmade keychain they sold, a child in poverty would be given a meal. Kaveh bought at least a dozen.\n...This is Sumeru, where even healthcare is free. I needn't say more.",
+        "zh": "有人在路边摆摊，说只要卖出一个手工钥匙扣，就会有一个贫困家庭的孩子吃上饱饭。卡维买了十几个回来。\n在医疗服务都免费提供的须弥…我不多说了。"
+      },
+      "source_id": 78022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Тигнари...",
+        "en": "About Tighnari",
+        "zh": "关于提纳里…"
+      },
+      "text": {
+        "ru": "Многие, наверно, считают, что у него дурной нрав, но не думаю, что они объективны. Когда Кавех построил дом прямо в зоне Увядания и устроил там ту ещё неразбериху, Лесному дозору это добавило немало хлопот. Но лесной страж не держал зла на Кавеха. Он даже пригласил его к себе домой поужинать. Хм, может, благодаря таким добрым людям и выживают подобные Кавеху.",
+        "en": "Apparently, a lot of people think he has a bad temperament, but I don't think they're giving him a fair chance. When Kaveh built a house right over a Withering Zone and created a huge mess, it ended up being a real headache for the Forest Rangers. Even so, this Forest Ranger didn't hold it against Kaveh. He even invited Kaveh to his house for a meal. Hmm, maybe it's good people like him who allow people like Kaveh to survive.",
+        "zh": "好像很多人觉得他脾气不够好，我倒认为有失偏颇。当初卡维把房子建在死域上，搞出很大一个烂摊子，给巡林队添了不少麻烦。即使如此这位巡林官也没有记恨卡维，还愿意请他在家里吃饭…可能就是因为世界上有这样的好人，才能让卡维继续生存下去吧。"
+      },
+      "source_id": 78023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Дори...",
+        "en": "About Dori",
+        "zh": "关于多莉…"
+      },
+      "text": {
+        "ru": "Она хитроумна и бдительна. Умеет брать власть над жизнью в свои руки и воплощать мечты в реальность. Я не оправдываю её действия, но, хоть мы и на разных сторонах, ценю её отношение к жизни.",
+        "en": "She's sharp and always keeps an eye out for herself. She knows how to take life by the reins and make her dreams a reality. I'm not condoning her actions, but just because we stand on different sides doesn't mean that I can't appreciate her attitude towards life.",
+        "zh": "她精明又警觉，懂得如何将梦想落实到实际，是能把生活过得很好的聪明人。没有要包庇她的意思，但立场不同并不影响我认可她的生活态度。"
+      },
+      "source_id": 78024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Сайно...",
+        "en": "About Cyno",
+        "zh": "关于赛诺…"
+      },
+      "text": {
+        "ru": "Дело с коллективным сознанием, конечно, прибавило матрам работы, но моя совесть чиста, я к произошедшему отношения не имею. Уверен, что Сайно тоже это понимает, потому и не обращался ко мне по этому поводу.",
+        "en": "The hivemind case certainly added to the matra's workload, but my conscience is clear. The root cause of what ultimately transpired actually has nothing to do with me at all. I'm sure Cyno appreciates that, as he hasn't once approached me about the incident.",
+        "zh": "「集群意识」的案件增加了风纪官们的工作量，但我并没有什么心理压力。说到底，该起事件的根本成因并不在我。赛诺应该也是明白人，后来没再为这事找过我。"
+      },
+      "source_id": 78025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Нилу...",
+        "en": "About Nilou",
+        "zh": "关于妮露…"
+      },
+      "text": {
+        "ru": "Достоинства и недостатки артиста у всех на виду. Нилу умеет играть на своих сильных сторонах и благодаря этому живёт простой и счастливой жизнью.",
+        "en": "The strengths and weaknesses of a performing artist are quite clear. Nilou knows how to play to her strengths, which enables her to live a happy and simple life.",
+        "zh": "艺术家的优点和缺点都很明显。妮露在扬长避短方面做得非常好，所以能过得简单又快乐。"
+      },
+      "source_id": 78026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Дэхье...",
+        "en": "About Dehya",
+        "zh": "关于迪希雅…"
+      },
+      "text": {
+        "ru": "У неё столько способностей, жаль, что она попусту растрачивает их среди Пустынников. Если бы только она приняла моё предложение поступить на службу в Академию... С такой помощницей наша работа была бы куда легче. Но спокойная жизнь ей не по нраву, могу это понять. Эх, очень жаль.",
+        "en": "It's a waste for such a capable person to remain among the Eremites. If only she'd consider my suggestion to join the Akademiya... Our work would become a lot easier with someone like her around, but a predictable life isn't exactly her cup of tea — I can understand that. *sigh* What a pity.",
+        "zh": "能力很强的人，留在镀金旅团里有些浪费。要是她能接受我的提议来教令院任职就好了，有这样的帮手，我们的工作也会轻松不少。不过她对安稳的生活不感兴趣，我能理解。可惜了。"
+      },
+      "source_id": 78027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше об аль-Хайтаме I",
+        "en": "More About Alhaitham: I",
+        "zh": "想要了解艾尔海森·其一"
+      },
+      "text": {
+        "ru": "По большей части люди избегают общения со мной. Может, боятся или думают, что со мной трудно поладить. Меня это полностью устраивает.",
+        "en": "Most people are wary of interacting with me. Perhaps they're afraid, or maybe they think I'm difficult to get along with. I hope to keep things this way.",
+        "zh": "大部分人都不会主动与我接触，也许是因为忌惮，也许是因为性格不合。对此我很满意。"
+      },
+      "source_id": 78028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше об аль-Хайтаме II",
+        "en": "More About Alhaitham: II",
+        "zh": "想要了解艾尔海森·其二"
+      },
+      "text": {
+        "ru": "Общение с другими людьми никогда меня особо не интересовало, и, как видишь, жизнь моя куда комфортнее, чем у многих. Я бы сказал, что это в достаточной мере доказывает: социальные взаимодействия не входят в число жизненно необходимых вещей.",
+        "en": "I've never been interested in social interactions, and as you can see, my life is more comfortable than most. I'd say this is proof enough that being social is not one of life's necessities.",
+        "zh": "我向来对社交不感兴趣。如你所见，我的生活过得比大部分人舒适，这足够证明社交不是生活的必需品了。"
+      },
+      "source_id": 78029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше об аль-Хайтаме III",
+        "en": "More About Alhaitham: III",
+        "zh": "想要了解艾尔海森·其三"
+      },
+      "text": {
+        "ru": "Каждый должен во что-то верить и не терять на этот счёт ясности с начала и до конца. В противном случае слишком легко сбиться с пути при столкновении с неожиданностями.",
+        "en": "Every person should have something that they believe in and hold on to from beginning to end. Otherwise, it's easy to succumb to the vicissitudes of life and find yourself being led astray.",
+        "zh": "每个人都应该有自己的主张，并始终保持清醒，不然很容易被各种突发状况绑架，甚至误入歧途。"
+      },
+      "source_id": 78030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше об аль-Хайтаме IV",
+        "en": "More About Alhaitham: IV",
+        "zh": "想要了解艾尔海森·其四"
+      },
+      "text": {
+        "ru": "Стоит порядку нарушиться, и последствия распространяются как лесной пожар. Я бы этого не хотел, ведь это нарушит мирное течение моей жизни.",
+        "en": "Once order is disrupted, the consequences spread like wildfire. I'd like to avoid such a scenario, so I can keep my life intact and uninterrupted.",
+        "zh": "一旦秩序被破坏，其后果会迅速蔓延。我不喜欢这样，会打扰到我现在的生活。"
+      },
+      "source_id": 78031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше об аль-Хайтаме V",
+        "en": "More About Alhaitham: V",
+        "zh": "想要了解艾尔海森·其五"
+      },
+      "text": {
+        "ru": "После работы я иногда захожу в таверну пропустить стаканчик. Тебе не это хотелось узнать? Хм, а мне казалось, что информация о том, как я провожу свободное время, куда более личная, чем мои мысли и мнения. Их-то и на доске объявлений любой прочитать может.",
+        "en": "I'll occasionally go to the tavern for a drink after work.\nThat's not what you needed to know about? Huh, I was under the impression that sharing what you do in your free time is more personal than telling someone your thoughts or opinions. After all, you can get those from anybody on the Message Board.",
+        "zh": "下班后我偶尔会去酒馆喝一杯。\n不是想知道这个？什么，我还以为分享闲暇时间是比分享个人观点更隐私的事情。毕竟，无论谁都可以在留言板上侃侃而谈呢。"
+      },
+      "source_id": 78032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Хобби аль-Хайтама...",
+        "en": "Alhaitham's Hobbies",
+        "zh": "艾尔海森的爱好…"
+      },
+      "text": {
+        "ru": "Мне нравится читать заумные книги и любоваться тем, как окружающие недоумённо чешут в затылке. Шучу. Чужие страдания мне не в радость. Да и редко какая книга кажется мне заумной.",
+        "en": "I like reading difficult and abstruse books, and seeing others scratch their heads in confusion.\nI'm only joking. I don't delight in others' misery, and rarely do I encounter a book that's difficult for me.",
+        "zh": "看晦涩难懂的书，欣赏其他人抓耳挠腮的样子。 \n开玩笑的，别人的痛苦并不会给我带来快乐，我也很少碰到读不懂的书。"
+      },
+      "source_id": 78033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Беспокойство аль-Хайтама...",
+        "en": "Alhaitham's Troubles",
+        "zh": "艾尔海森的烦恼…"
+      },
+      "text": {
+        "ru": "По моим наблюдениям, многие люди сами создают себе неприятности. В жизни и так хватает трудностей, не стоит самим их себе устраивать.",
+        "en": "Based on my observations, many people inflict trouble upon themselves. Life already has enough hardships — no need to add to them.",
+        "zh": "据我观察，很多人的烦恼都是自找的。生活中已经有不少难处，就别自添烦忧了。"
+      },
+      "source_id": 78034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Вкус важнее внешней красоты, иначе приоритеты расставлены неверно. Думаю, это довольно легко понять.",
+        "en": "Taste supersedes presentation, else you risk overcomplicating the purpose of food. I think this is simple enough to understand.",
+        "zh": "美味程度高于美观程度的。很简单的要求吧？不然就是本末倒置了。"
+      },
+      "source_id": 78035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "За супом читать неудобно.",
+        "en": "It's difficult to eat soup-like dishes while reading.",
+        "zh": "有汤有水的菜肴很难在看书时吃。"
+      },
+      "source_id": 78036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Мм, я вижу, ты разбираешься в приправах.",
+        "en": "Mmm, I can taste your mastery of the seasonings.",
+        "zh": "嗯，可以看出对调味配比的精准把控。"
+      },
+      "source_id": 78037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Очень в духе времени, неплохо.",
+        "en": "Hmm, a contemporary flavor. Not bad.",
+        "zh": "是流行的味道，我不讨厌。"
+      },
+      "source_id": 78038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Давай не будем есть это здесь. Не возражаешь, если я... заберу домой?",
+        "en": "Let's not eat here. Mind if I... take it home?",
+        "zh": "不在这吃了。介意我打包回家吗？"
+      },
+      "source_id": 78039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения. Мне всегда казалось, что люди придают этому празднику слишком большое значение. Не лучше ли обратить этот пыл на то, чтобы сделать свои будни ярче и счастливее? Но, похоже, у тебя с этим всё в порядке. Я не знал, что подарить, поэтому создал для тебя личный канал подачи заявок.",
+        "en": "Happy birthday. I've always thought people are a little too enthusiastic about celebrating the day they were born. Wouldn't it be better to apply all that enthusiasm towards their daily lives and improve their standards of living? But you seem to have done well for yourself. I didn't know what kind of gift to get, so I'll just set up a special application channel, reserved for your submissions alone.",
+        "zh": "生日快乐。我总觉得人们在庆祝出生这一天上付出了不必要的热情，不如把这些精力用在让自己生活中的每一天过得更愉快上来得实际。你这方面做得还可以。\n不知道送什么礼物合适，就给你预留一次申请表的特批通道吧。"
+      },
+      "source_id": 78040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Спасибо.",
+        "en": "Thank you.",
+        "zh": "谢谢。"
+      },
+      "source_id": 78041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "А, так это не один раз действует.",
+        "en": "Ah, so it wasn't a one-time-only thing.",
+        "zh": "原来不是一次性的。"
+      },
+      "source_id": 78042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Кажется, ты радуешься моим успехам больше меня.",
+        "en": "I think you're more excited than me about this progress.",
+        "zh": "在奋进这件事上，你比我要热心。"
+      },
+      "source_id": 78043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Нельзя дать учёным лентяям из Академии проведать о моих успехах. Если узнают, непременно добавят мне хлопот. Я, конечно, откажусь от всех их предложений, но на общение по этому поводу придётся потратить немало моего времени.",
+        "en": "We mustn't let those lazy Akademiya scholars know about the progress I'm making. If they catch wind of this, they'll stop at nothing to make my life even more of a hassle. I'll reject anything they send my way, of course, but the communication required to do so is a huge waste of my time.",
+        "zh": "不能让教令院那些喜欢偷懒的家伙知道我又在进步，否则他们会想方设法把麻烦事推给我。我当然不会接了，但沟通起来总要浪费些时间。"
+      },
+      "source_id": 78044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Получи.",
+        "en": "Here you are.",
+        "zh": "接好了。"
+      },
+      "source_id": 78045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Вспышка.",
+        "en": "Flicker.",
+        "zh": "镜闪。"
+      },
+      "source_id": 78046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Рассеивание.",
+        "en": "Scatter.",
+        "zh": "散射。"
+      },
+      "source_id": 78047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Преломление.",
+        "en": "Diffract.",
+        "zh": "分光。"
+      },
+      "source_id": 78048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Процесс исключения.",
+        "en": "A process of elimination.",
+        "zh": "理论的推演。"
+      },
+      "source_id": 78049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Возьми себе.",
+        "en": "Here you go.",
+        "zh": "你自己收好。"
+      },
+      "source_id": 78050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Поторопись, пока это не унёс кто-нибудь ещё.",
+        "en": "Don't let any of it roll away now.",
+        "zh": "动作快，东西掉远就难捡了。"
+      },
+      "source_id": 78051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Вот докука.",
+        "en": "What a drag.",
+        "zh": "麻烦事。"
+      },
+      "source_id": 78052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Планы изменились.",
+        "en": "The plan's changed.",
+        "zh": "计划有变。"
+      },
+      "source_id": 78053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Мне нужно больше времени.",
+        "en": "I need more time.",
+        "zh": "要多花时间了。"
+      },
+      "source_id": 78054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Позволь-ка я этим займусь.",
+        "en": "Allow me.",
+        "zh": "我来吧。"
+      },
+      "source_id": 78055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Неудивительно.",
+        "en": "As expected.",
+        "zh": "不意外。"
+      },
+      "source_id": 78056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Этого... я не предвидел...",
+        "en": "I didn't... foresee this...",
+        "zh": "预期之外…"
+      },
+      "source_id": 78057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Я... ошибся...",
+        "en": "I... miscalculated...",
+        "zh": "失策。"
+      },
+      "source_id": 78058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Серьёзный просчёт...",
+        "en": "A grave... oversight...",
+        "zh": "我的误算。"
+      },
+      "source_id": 78059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "О, какая дерзость.",
+        "en": "Tch, how bold.",
+        "zh": "啧，谁啊。"
+      },
+      "source_id": 78060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Хм... Ладно.",
+        "en": "Well now...",
+        "zh": "呃…行。"
+      },
+      "source_id": 78061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Да?",
+        "en": "Yes?",
+        "zh": "有事？"
+      },
+      "source_id": 78062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Перейдём к делу.",
+        "en": "Let's get down to business.",
+        "zh": "公事公办吧。"
+      },
+      "source_id": 78063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Сколько именно времени на это потребуется?",
+        "en": "How long will this require, exactly?",
+        "zh": "不需要太长时间吧？"
+      },
+      "source_id": 78064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Ох...",
+        "en": "Huh.",
+        "zh": "哦。"
+      },
+      "source_id": 78065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Хм.",
+        "en": "Hmph.",
+        "zh": "哼。"
+      },
+      "source_id": 78066
+    }
+  ],
+  "replica_count": 67
 }

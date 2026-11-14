@@ -14,12 +14,14 @@
 # chapter_num_en: Cisoria Chapter: Act I
 # chapter_num_zh: 丝切铗之章 第一幕
 # part_source_ids: 14020,14021,14022
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_lq_2046
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 14020,14021,14022
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -43,7 +45,7 @@
 
 **Летиция:** Ты... ты уверена?
 
-**Тиори:** Я ведь сказала, мне хватило суммы, оставшейся от аванса. Или ты боишься, что я сэкономила на материале?
+**???:** Я ведь сказала, мне хватило суммы, оставшейся от аванса. Или ты боишься, что я сэкономила на материале?
 
 **Летиция:** Нет, что ты, Тиори! Я никогда бы о тебе так не подумала!
 
@@ -51,13 +53,19 @@
 
 **Паймон:** Значит, это и есть хозяйка «Дома Тиори»? Раньше мы её не встречали.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Наверное, у неё много работы.
+
+##### Вариант ответа 2
 
 - **Путешественник:** С покупателями вместо неё работает Элоф...
 
+##### Общее продолжение
+
 **Паймон:** Ой, это же Тиори! Она сегодня в магазине!
 
-Наверное, это из-за Недели моды?
+- **Путешественник:** Наверное, это из-за Недели моды?
 
 **Паймон:** Да, наверное! Давай подождём, когда она освободится, и спросим!
 
@@ -85,7 +93,7 @@
 
 **Паймон:** Паймон не ребёнок!
 
-Мы хотели расспросить тебя о Неделе моды в Фонтейне...
+- **Путешественник:** Мы хотели расспросить тебя о Неделе моды в Фонтейне...
 
 **Тиори:** Гм... Если новость о Неделе моды дошла и до вас, значит, Ассоциация моды Фонтейна не зря потратила мору на рекламу.
 
@@ -125,7 +133,9 @@
 
 **Тиори:** Нет, об этом я не беспокоюсь. Чтобы все ткани приехали ко мне в целости и сохранности, я пользуюсь услугами «Комании экспресс», а моими заказами занимается самый надёжный курьер.
 
-**Кирара:** ...Извините! Пропустите! Пропустите!
+**Тиори:** Я ведь сказала, мне хватило суммы, оставшейся от аванса. Или ты боишься, что я сэкономила на материале?
+
+**???:** ...Извините! Пропустите! Пропустите!
 
 **Кирара:** ...Тиори, вот твоя... твоя посылка. Прошу... прошу прощения за задержку.
 
@@ -143,11 +153,17 @@
 
 **Кирара:** Путешественник и Паймон? Вы тоже в Фонтейне? Давно не виделись!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Давно не виделись.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Давай сыграем в «Священный призыв семерых»!
 
 **Кирара:** Ха-ха! Давай в другой раз! Я доставила посылку с большой задержкой, так что не уверена, что сейчас подходящее время для игры... И эта посылка очень важна для Тиори, я должна убедиться, что всё в порядке.
+
+##### Общее продолжение
 
 **Кирара:** Подождите.... Получается, вы уже второй раз видите, как я опаздываю с доставкой? Я опять выставила себя перед вами в плохом свете...
 
@@ -159,9 +175,15 @@
 
 **Кирара:** Гм... Нет, нет... Просто я немного заблудилась.
 
+##### Вариант ответа 1
+
 - **Путешественник:** ...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Твои хвосты...
+
+##### Общее продолжение
 
 **Тиори:** Хвосты выдают тебя с головой.
 
@@ -239,11 +261,29 @@
 
 **Кирара:** Путешественник, Паймон! Могу я попросить вас пойти за ней и проследить, чтобы всё было в порядке? Всё-таки я курьер «Комании экспресс», мне вмешиваться в такие дела неуместно.
 
-Хорошо.
+- **Путешественник:** Хорошо.
 
 **Паймон:** Да! Мы защитим Тиори!
 
 **Кирара:** Эм, если честно... Я больше беспокоюсь за Утера...
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
 
 #### Догоните Тиори
 
@@ -269,13 +309,19 @@
 
 **Шеврёз:** Рада знакомству. Я давно о вас наслышана.
 
-**Шеврёз:** А? Это ведь (путешественница)(путешественник) и Паймон?
+**Шеврёз:** А? Это ведь путешественник и Паймон? / А? Это ведь путешественница и Паймон?
 
 **Паймон:** Шеврёз! Вот мы и встретились снова!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты на дежурстве?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Как успехи?
+
+##### Общее продолжение
 
 **Шеврёз:** У меня всё хорошо. Благодаря нашему фильму в отряд мушкетёров пришло много новеньких.
 
@@ -312,6 +358,14 @@
 **Шеврёз:** Ладно. И где он?
 
 **Тиори:** Следуйте за мной.
+
+**Кирара:** Пожалуйста, позаботьтесь о Тиори.
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
 
 #### Следуйте за Тиори
 
@@ -383,7 +437,7 @@
 
 **Утер:** Офицер! На меня напали! Вы должны что-то предпринять!
 
-**Шеврёз:** Конечно, я проведу расследование. К сожалению, я отвлеклась на разговор с (путешественницей)(путешественником) и не увидела, что у вас произошло...
+**Шеврёз:** Конечно, я проведу расследование. К сожалению, я отвлеклась на разговор с путешественником и не увидела, что у вас произошло... / Конечно, я проведу расследование. К сожалению, я отвлеклась на разговор с путешественницей и не увидела, что у вас произошло...
 
 **Шеврёз:** Но не беспокойтесь, сейчас я осмотрю место преступления, соберу улики. Вы ведь не возражаете? Надеюсь, внутри нет ничего такого, что могло бы уличить вас в незаконной деятельности...
 
@@ -403,9 +457,15 @@
 
 **Паймон:** Паймон до смерти перепугалась! Он буквально вылетел наружу!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вот это сила...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Какая красивая траектория...
+
+##### Общее продолжение
 
 **Тиори:** Спасибо за комплимент.
 
@@ -469,11 +529,17 @@
 
 **Тиори:** И пусть эти негодяи знают, что бывает с теми, кто обидел друзей Тиори.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Она уже поговорила с капитаном особого патруля...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Считай, что Тиори платит тебе услугой за услугу...
 
 **Тиори:** Да, именно.
+
+##### Общее продолжение
 
 **Кирара:** Путешественник, если ты так говоришь, ладно...
 
@@ -517,13 +583,19 @@
 
 **Паймон:** Похоже, работа непыльная!
 
-- **Путешественник:** Нам нужно будет ходить по подиуму?
+##### Вариант ответа 1
 
-- **Путешественник:** А ты подаришь нам новые костюмы?
+- **Путешественник:** Нам нужно будет ходить по подиуму?
 
 **Тиори:** Нет, с подиумными моделями мы уже договорились, этим я вас утруждать не буду.
 
+##### Вариант ответа 2
+
+- **Путешественник:** А ты подаришь нам новые костюмы?
+
 **Тиори:** Костюмы, которые показывают на Неделе моды, слишком концептуальны. Носить их в повседневной жизни будет неудобно.
+
+##### Общее продолжение
 
 **Тиори:** Но если захотите, можете прогуляться по «Дому Тиори» и выбрать себе что-нибудь подходящее, а я сделаю вам хорошую скидку.
 
@@ -533,9 +605,37 @@
 
 **Паймон:** Хорошо! Стоп, подожди... Паймон не ребёнок! Сколько можно повторять?
 
+**Рекламный плакат Недели моды:** Долгожданная Неделя моды уже не за горами!
+
+**Рекламный плакат Недели моды:** В этом году Неделя моды собрала множество известнейших модельеров. Публика сможет увидеть их новые коллекции во время последнего модного показа.
+
+**Рекламный плакат Недели моды:** Пусть город искусств озарится светом моды!
+
+**Грасиет:** ...Неделя моды совсем скоро...
+
 ### Пятна, которых не отмыть
 
 Если подол платья испачкан, можно ли выйти в нём на сцену?
+
+#### Дождитесь утра (06:00 - 10:00)
+
+**Тиори:** Кстати... Кирара, тебе ничего не нужно зашить?
+
+**Кирара:** Ха-ха, раз уж ты спросила... вот здесь, на талии...
+
+**Тиори:** Так-так... Костюм стал тесноват в талии?
+
+**Кирара:** Нет! Он порвался, пока я сражалась с бандитами!
+
+**Грасиет:** Скоро начнётся Неделя моды. Муж обещал подарить мне копию самой интересной модели с модного показа.
+
+**Труден:** Какая щедрость! Ничего удивительного, ведь твой муж влиятельный негоциант!
+
+**Труден:** Но каково совпадение, ведь мой муж пообещал мне то же самое.
+
+**Грасиет:** Ой, а если нам с тобой понравится одно и то же платье? Что тогда делать?
+
+**Труден:** Пусть лучше над этим ломают головы наши мужья. Согласна?
 
 #### Отправляйтесь в «Дом Тиори»
 
@@ -591,8 +691,9 @@
 
 **Тиори:** Уверена, вы справитесь.
 
+#### Помогите Тиори с расстановкой
 
-**Элоф:** Госпожа Тиори никогда не отчаивается. Ей просто нужно побыть наедине с собой и немного успокоиться.
+**Тиори:** Распредели одежду по типам и фасонам. Буду тебе очень благодарна.
 
 #### Поговорите с Тиори
 
@@ -696,7 +797,7 @@
 
 **Паймон:** Тиори...
 
-Как быть со слухами...
+- **Путешественник:** Как быть со слухами...
 
 **Тиори:** Совершенно очевидно, что эти слухи высосаны из пальца. Не стоит беспокоиться. Пройдёт пара дней, и волна утихнет.
 
@@ -736,13 +837,25 @@
 
 **Тиори:** ...Элоф, ты останешься в магазине. А я пойду и поговорю с поставщиком.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы с тобой.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Заодно узнаем, что случилось.
+
+##### Общее продолжение
 
 **Паймон:** Да! И мы можем поручиться за тебя перед поставщиком! Объясним ему, что с твоими костюмами всё в порядке!
 
 **Тиори:** Спасибо. Тогда идите за мной.
+
+**Тиори:** Гм, неплохо. Кажется, у вас талант к дизайну.
+
+**Тиори:** ...Вас что, подкупили мои конкуренты? Это ведь просто...
+
+**Тиори:** ...Не берите в голову. На первый взгляд кажется, что в магазине беспорядок, но будем считать это особым приёмом для смены настроения. И быть может, однажды ваша расстановка войдёт в моду.
 
 #### Отправляйтесь к поставщику
 
@@ -798,9 +911,15 @@
 
 **Венгер:** Я не знаю, что у вас случилось. И мне не хочется делать выводы о том, чему я лично не был свидетелем. Но на этом снимке видно, что ты ведёшь себя недостойно...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Сначала Утер повёл себя недостойно...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Он нанял грабителей...
+
+##### Общее продолжение
 
 **Паймон:** Да! Он первый начал!
 
@@ -881,6 +1000,10 @@
 **Шарлотта:** Кстати, а где сейчас госпожа Тиори? Элоф сказала, что вы были с ней вместе.
 
 **Паймон:** М? Она только что была здесь. Наверное, пошла в ту сторону. Давайте проверим!
+
+**Элоф:** Госпожа Тиори столько сил вложила в подготовку к Неделе моды...
+
+**Элоф:** Надеюсь, вы сможете убедить поставщика.
 
 #### Догоните Тиори
 
@@ -980,13 +1103,19 @@
 
 **Тиори:** Посидите со мной? Здесь красивый вид.
 
-- **Путешественник:** Как высоко...
+##### Вариант ответа 1
 
-- **Путешественник:** Кажется, здесь не так много места...
+- **Путешественник:** Как высоко...
 
 **Тиори:** Не бойся, я поймаю тебя, если упадёшь.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Кажется, здесь не так много места...
+
 **Тиори:** Да, извини. Обычно я тут сижу одна.
+
+##### Общее продолжение
 
 **Паймон:** Ладно, мы от приглашения не откажемся!
 
@@ -1036,9 +1165,15 @@
 
 **Тиори:** Конечно, со временем я поняла, что всё совсем не так просто. Тем более - в мире моды.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Многим нравятся костюмы, которые ты шьёшь...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...а многие о них мечтают.
+
+##### Общее продолжение
 
 **Тиори:** Ты про Летицию?
 
@@ -1092,19 +1227,19 @@
 
 **Паймон:** Что? Тиори, подожди!..
 
+**Элоф:** Госпожа Тиори никогда не отчаивается. Ей просто нужно побыть наедине с собой и немного успокоиться.
+
+**Шарлотта:** Как бы ты описала госпожу Тиори? Что она за человек?
+
+**Летиция:** Ну... Она не боится говорить правду в глаза, но при этом всегда заботится о своих клиентах, даже в мелочах...
+
 #### Нырните в море
 
-**Тиори:** Распредели одежду по типам и фасонам. Буду тебе очень благодарна.
+#### Соберите материалы для аксессуаров
 
 #### Соберите материалы для аксессуаров
 
-**Тиори:** Гм, неплохо. Кажется, у вас талант к дизайну.
-
 #### Соберите материалы для аксессуаров
-
-**Тиори:** ...Вас что, подкупили мои конкуренты? Это ведь просто...
-
-**Тиори:** ...Не берите в голову. На первый взгляд кажется, что в магазине беспорядок, но будем считать это особым приёмом для смены настроения. И быть может, однажды ваша расстановка войдёт в моду.
 
 #### Встретьтесь с Тиори
 
@@ -1128,13 +1263,19 @@
 
 **Паймон:** Что значит «не будешь спать»? Постой... кажется, Паймон уже спорила с кем-то по этому поводу...
 
-- **Путешественник:** Очень похоже на разговор с Гань Юй.
+##### Вариант ответа 1
 
-- **Путешественник:** Наверное, так делают все люди, у которых есть цель.
+- **Путешественник:** Очень похоже на разговор с Гань Юй.
 
 **Тиори:** Гань Юй? Кто это?
 
 **Паймон:** Наша подруга, которая обожает работать, когда надо отдыхать!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Наверное, так делают все люди, у которых есть цель.
+
+##### Общее продолжение
 
 **Паймон:** И всё равно... Сон очень важен! Ты Паймон не переубедишь!
 
@@ -1170,10 +1311,6 @@
 
 #### Разорвите одежду на лоскуты
 
-**Элоф:** Госпожа Тиори столько сил вложила в подготовку к Неделе моды...
-
-**Элоф:** Надеюсь, вы сможете убедить поставщика.
-
 #### Поговорите с Тиори
 
 **Тиори:** Отлично. Этого должно хватить.
@@ -1186,13 +1323,19 @@
 
 **Паймон:** Эм, Навия, успокойся... Видишь ли...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это... это я.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Босс, смилуйтесь...
 
+##### Общее продолжение
+
 **Навия:** Что?.. ЧТО?
 
-**Тиори:** Что за нелепая сцена? Это я велела (путешественнице)(путешественнику) распороть костюмы, чтобы использовать ткань и украшения в новых нарядах.
+**Тиори:** Что за нелепая сцена? Это я велела путешественнику распороть костюмы, чтобы использовать ткань и украшения в новых нарядах. / Что за нелепая сцена? Это я велела путешественнице распороть костюмы, чтобы использовать ткань и украшения в новых нарядах.
 
 **Навия:** Вот оно что... Это правда? Ха-ха... Наверное, я погорячилась. Давайте притворимся, что вы ничего не слышали...
 
@@ -1226,7 +1369,7 @@
 
 **Тиори:** И ещё, Путешественник и Паймон, можно попросить вас передать кое-что Лини и Линетт? Их помощь мне тоже понадобится.
 
-С удовольствием.
+- **Путешественник:** С удовольствием.
 
 **Шарлотта:** Интервью готово! Госпожа Тиори вернулась? Ох! Что случилось с магазином?
 
@@ -1278,9 +1421,53 @@
 
 **Паймон:** Паймон надеется, что Тиори не сильно устанет, пока будет шить коллекцию для показа...
 
+**Навия:** Что теперь делать с этой одеждой? Нужна моя помощь?
+
+**Тиори:** Нужно рассортировать вещи по типу ткани, а затем в каждой категории рассортировать вещи по цветам. Да, и не забудьте отпороть все украшения и аксессуары, их пока откладывайте в сторону.
+
+**Шарлотта:** Кажется, ничего сложного. Я тоже помогу!
+
+**Разговоры прохожих:** Я думаю, теперь на «Доме Тиори» можно поставить крест.
+
+**Разговоры прохожих:** А как она хотела? Обманывать своих покупателей, якшаться с преступниками...
+
+**Разговоры прохожих:** А так и не скажешь. Мне доводилось покупать у неё одежду...
+
+**Разговоры прохожих:** Правда? И как тебе?
+
+**Разговоры прохожих:** К хозяйке страшно даже подойти. Ничего удивительного, ведь она знается с преступниками... У меня при одной мысли о ней мороз по коже...
+
+**Рекламный плакат Недели моды:** Долгожданная Неделя моды уже не за горами!
+
+**Рекламный плакат Недели моды:** В этом году Неделя моды собрала множество известнейших модельеров. Публика сможет увидеть их новые коллекции во время последнего модного показа.
+
+**Рекламный плакат Недели моды:** Пусть город искусств озарится светом моды!
+
+**Грасиет:** Ты читала сегодняшние газеты?
+
+**Труден:** Да! Клянусь локонами месье Нёвиллета, это просто ужасно!
+
+**Грасиет:** Как думаешь, это правда? Ты у мужа не спрашивала? Он ведь судья?
+
+**Труден:** Пф, ему подобные новости совсем не интересны. Но он велел мне пока ничего не покупать в её магазине.
+
+**Грасиет:** Да, осторожность никогда не повредит. Посмотрим, как дальше сложится. Мой муж тоже так сказал.
+
+**Труден:** Да, да. Не хочу оказаться в центре скандала из-за того, что купила себе новое платье!
+
+**Грасиет:** ...Неделя моды совсем скоро...
+
+**Грасиет:** ...Вы читали сегодняшние газеты?
+
+Вы вместе с Тиори возвращаетесь в магазин...
+
 ### Искусство кройки и шитья
 
 Чем можно пожертвовать, а что нужно отстаивать до самого конца? Вопрос, который приходится решать каждому модельеру...
+
+#### Подождите два дня
+
+- **Путешественник:** (Тиори сказала, ей нужно время, чтобы подготовить коллекцию к показу. Лучше пока её не отвлекать...)
 
 #### Отправляйтесь на швейную фабрику Утера
 
@@ -1312,6 +1499,10 @@
 
 **Тиори:** Ты права. Надо быть настороже.
 
+#### Войдите на фабрику Утера
+
+#### Осмотрите фабрику Утера
+
 #### Исследуйте окружающую территорию
 
 **Листы бумаги на книжной полке:** (Наброски старых моделей, над которыми работал Утер. Здесь нет ничего интересного.)
@@ -1323,6 +1514,8 @@
 #### Исследуйте окружающую территорию
 
 **Записи на столе:** (...курьер... прибудет в город... утром...)
+
+#### Осмотрите примерочную
 
 #### Пройдите вглубь фабрики
 
@@ -1354,7 +1547,7 @@
 
 **Паймон:** Что? Что это такое? Обратный путь заблокирован!
 
-Он хочет поймать нас в ловушку...
+- **Путешественник:** Он хочет поймать нас в ловушку...
 
 **Тиори:** ...
 
@@ -1387,6 +1580,8 @@
 **Тиори:** Пропустив показ, мы подарим ему лёгкую победу.
 
 **Паймон:** Смотрите, панели управления! Давайте проверим, вдруг какая-нибудь кнопка сработает?
+
+#### Покиньте фабрику Утера
 
 #### Покиньте фабрику Утера
 
@@ -1436,9 +1631,15 @@
 
 **Утер:** Ах ты!
 
+##### Вариант ответа 1
+
 - **Путешественник:** ...Тиори, тебе пора.
 
+##### Вариант ответа 2
+
 - **Путешественник:** До показа осталось совсем немного.
+
+##### Общее продолжение
 
 **Паймон:** Да, а мы здесь обо всём позаботимся!
 
@@ -1450,9 +1651,15 @@
 
 **Тиори:** А с Утером я справлюсь. Этот урок я должна преподать ему лично.
 
+##### Вариант ответа 1
+
 - **Путешественник:** ...Хорошо.
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...Будь осторожна.
+
+##### Общее продолжение
 
 **Паймон:** ...Тиори, только постарайся успеть к показу!
 
@@ -1510,7 +1717,7 @@
 
 **Линетт:** Им там будет тесновато...
 
-**Шарлотта:** Госпожа Тиори, съёмка закончена. Статья вместе с доказательствами, которые предоставил(а) мне Путешественник, выйдет в «Паровой птице» уже завтра.
+**Шарлотта:** Госпожа Тиори, съёмка закончена. Статья вместе с доказательствами, которые предоставил мне Путешественник, выйдет в «Паровой птице» уже завтра. / Госпожа Тиори, съёмка закончена. Статья вместе с доказательствами, которые предоставила мне Путешественник, выйдет в «Паровой птице» уже завтра.
 
 **Тиори:** Спасибо, Шарлотта.
 
@@ -1598,9 +1805,15 @@
 
 **Тиори:** Я успела сделать только две. Подумала и решила подарить их вам.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Спасибо...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Я буду её беречь.
+
+##### Общее продолжение
 
 **Тиори:** Вы очень меня выручили. Вы были рядом в самые тяжёлые минуты.
 
@@ -1630,8 +1843,31 @@
 
 **Тиори:** Могу с уверенностью сказать, что сегодня самый прекрасный вечер с тех пор, как я приехала в Фонтейн.
 
+**Рекламный плакат Недели моды:** Долгожданная Неделя моды уже не за горами!
 
-(Тиори сказала, ей нужно время, чтобы подготовить коллекцию к показу. Лучше пока её не отвлекать...)
+**Рекламный плакат Недели моды:** В этом году Неделя моды собрала множество известнейших модельеров. Публика сможет увидеть их новые коллекции во время последнего модного показа.
+
+**Рекламный плакат Недели моды:** Пусть город искусств озарится светом моды!
+
+**Записи на столе:** План путешествия
+
+**Записи на столе:** Говорят, жители Натлана пристально следят за модой. Надо будет туда наведаться...
+
+**Записи на столе:** Элементы костюмов Снежной можно использовать в зимней коллекции... если будет по пути...
+
+**Записи на столе:** Письмо для Шеврёз
+
+**Записи на столе:** Сотрудник... Палаты Жардинаж. В магазине зашёл разговор о сделке... между хозяевами и... звучало неопровержимо.
+
+**Записи на столе:** Кто-то... видел там разыскиваемого преступника... возможно, всего лишь слухи...
+
+**Записи на столе:** Письмо от Эмилии:
+
+**Записи на столе:** ...Госпожа Тиори, благодарю за отзыв о духах. К письму прикладываю мою последнюю разработку, образец с ароматом ромарина...
+
+**Записи на столе:** Да, и насчёт следующей дегустации...
+
+**Паймон:** После показа ваша компания возвращается в «Дом Тиори»...
 
 ## EN
 
@@ -1655,7 +1891,7 @@ A fashion festival is being held in Fontaine. You and Paimon decide to check it 
 
 **Laetitia:** Is... Is this really okay?
 
-**Chiori:** I told you I could do it using the leftover funds from the original deposit. Don't tell me you're afraid that I cheaped out on the dress?
+**???:** I told you I could do it using the leftover funds from the original deposit. Don't tell me you're afraid that I cheaped out on the dress?
 
 **Laetitia:** No, not at all! I have only the fullest faith in your work, Miss Chiori.
 
@@ -1663,13 +1899,19 @@ A fashion festival is being held in Fontaine. You and Paimon decide to check it 
 
 **Paimon:** Ooh, is that lady the owner of Chioriya Boutique? We've never seen her before!
 
+##### Response branch 1
+
 - **Traveler:** Her work probably keeps her very busy.
+
+##### Response branch 2
 
 - **Traveler:** Well, Eloffe is usually the one staffing the shop...
 
+##### Shared continuation
+
 **Paimon:** Wait, isn't that Chiori? She's actually at her shop today!
 
-Perhaps it's because of "Fontaine Fashion Week"?
+- **Traveler:** Perhaps it's because of "Fontaine Fashion Week"?
 
 **Paimon:** Ooh, you've got a point there! Well, once she's done with her customer, we can go and ask her!
 
@@ -1697,7 +1939,7 @@ Perhaps it's because of "Fontaine Fashion Week"?
 
 **Paimon:** Hey, Paimon's not a kid!
 
-We actually wanted to ask about "Fontaine Fashion Week"...
+- **Traveler:** We actually wanted to ask about "Fontaine Fashion Week"...
 
 **Chiori:** Ah, that. Well, if news of the event has reached your ears, I suppose the Fontaine Apparel Association's advertising efforts have paid off.
 
@@ -1737,7 +1979,9 @@ We actually wanted to ask about "Fontaine Fashion Week"...
 
 **Chiori:** No need to worry. I've already taken steps to ensure that it will arrive safely — I've entrusted the job to Komaniya Express's most reliable courier.
 
-**Kirara:** ...Excuse me! Coming through, coming through!
+**Chiori:** I told you I could do it using the leftover funds from the original deposit. Don't tell me you're afraid that I cheaped out on the dress?
+
+**???:** ...Excuse me! Coming through, coming through!
 
 **Kirara:** ...Chiori, your... Your shipment's here. I know it's quite late, so I'm... really... really sorry...
 
@@ -1755,11 +1999,17 @@ We actually wanted to ask about "Fontaine Fashion Week"...
 
 **Kirara:** Oh hey, Traveler and Paimon! Fancy seeing you here in Fontaine! It's been a while.
 
+##### Response branch 1
+
 - **Traveler:** It has indeed.
+
+##### Response branch 2
 
 - **Traveler:** How about a game of Genius Invokation TCG?
 
 **Kirara:** Ahahaha... Maybe next time! Considering how late this delivery is, I'm not sure this is the time to play cards. Plus, I know this shipment is really important to Chiori, so I should probably make sure everything's in order...
+
+##### Shared continuation
 
 **Kirara:** Wait a second... This is the second time that you've seen me flub a delivery job now, isn't it... You somehow always happen to catch me off my game, huh...
 
@@ -1771,9 +2021,15 @@ We actually wanted to ask about "Fontaine Fashion Week"...
 
 **Kirara:** Uh... Well, I didn't run into anyone, exactly. I just got a little lost...
 
+##### Response branch 1
+
 - **Traveler:** ...
 
+##### Response branch 2
+
 - **Traveler:** Your tails...
+
+##### Shared continuation
 
 **Chiori:** Keeping you honest as always, I see.
 
@@ -1851,11 +2107,29 @@ We actually wanted to ask about "Fontaine Fashion Week"...
 
 **Kirara:** Traveler, Paimon, could you go after her and check out the situation for me? As a formal employee of the Komaniya Express, it wouldn't be appropriate for me to get involved.
 
-Sure.
+- **Traveler:** Sure.
 
 **Paimon:** Yeah! We'll take good care of Chiori.
 
 **Kirara:** Uh, well, to be honest... I'm more worried about that Uther guy's safety...
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
 
 #### Catch up with Chiori
 
@@ -1885,9 +2159,15 @@ Sure.
 
 **Paimon:** Chevreuse! We meet again!
 
+##### Response branch 1
+
 - **Traveler:** Are you out on patrol?
 
+##### Response branch 2
+
 - **Traveler:** Has everything been going well?
+
+##### Shared continuation
 
 **Chevreuse:** Well, things have been fine on my end. We were able to bring in a large number of recruits thanks to that film we made.
 
@@ -1924,6 +2204,14 @@ Sure.
 **Chevreuse:** Alright, where is this person?
 
 **Chiori:** Follow me.
+
+**Kirara:** Anyway, please look after Chiori for me.
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
 
 #### Follow Chiori
 
@@ -2015,9 +2303,15 @@ Sure.
 
 **Paimon:** Woah, that scared the heck out of Paimon! How did he just go... flying out like that?
 
+##### Response branch 1
+
 - **Traveler:** Such incredible strength...
 
+##### Response branch 2
+
 - **Traveler:** Such a graceful arc...
+
+##### Shared continuation
 
 **Chiori:** You're too kind.
 
@@ -2081,11 +2375,17 @@ Sure.
 
 **Chiori:** It'll also show those guys what'll happen to those who dare to mess with my friends.
 
+##### Response branch 1
+
 - **Traveler:** Since she's already talked to the Patrol...
+
+##### Response branch 2
 
 - **Traveler:** Just think of it as a "you scratch my back, I'll scratch yours" type of situation...
 
 **Chiori:** Yes, well put.
+
+##### Shared continuation
 
 **Kirara:** Well, if you think it's a good idea, Traveler, then I guess it's fine...
 
@@ -2129,13 +2429,19 @@ Sure.
 
 **Paimon:** Sounds easy enough!
 
-- **Traveler:** Do you need us for the runway, too?
+##### Response branch 1
 
-- **Traveler:** Can we keep the outfits?
+- **Traveler:** Do you need us for the runway, too?
 
 **Chiori:** No need. We've already booked the models for that.
 
+##### Response branch 2
+
+- **Traveler:** Can we keep the outfits?
+
 **Chiori:** Most of the clothes you see during Fashion Week are meant to showcase the designer's vision. They're not exactly suitable for ready-to-wear use.
+
+##### Shared continuation
 
 **Chiori:** If you like them, though, feel free to visit the boutique and see if anything catches your eye. I'll even give you a special discount.
 
@@ -2145,9 +2451,37 @@ Sure.
 
 **Paimon:** Yep, sounds goo— Wait... Kids clothes? Paimon told you already. She's not a little kid!
 
+**Fashion Week Promotional Poster:** The much-anticipated Fontaine Fashion Week has begun!
+
+**Fashion Week Promotional Poster:** Many renowned designers have gathered for this event. Their meticulously crafted, brand-new works will be on display during the final show.
+
+**Fashion Week Promotional Poster:** Let the light of fashion shine upon the City of the Arts!
+
+**Graciette:** ...It's Fashion Week right now...
+
 ### Stained Spots
 
 If the hem of a skirt is stained, can it still take the stage?
+
+#### Wait till the next morning (06:00 – 10:00)
+
+**Chiori:** Speaking of clothes... Do yours happen to need any mending right now, Kirara?
+
+**Kirara:** Ehehehe... Well since you asked, Chiori, there's this part around my waist...
+
+**Chiori:** Oh? Need a bit of letting out around the middle?
+
+**Kirara:** No! It's a tear! Those bad guys did it!
+
+**Graciette:** Fashion Week is coming up! My husband promised to get me a replica of the most eye-catching outfit from the show.
+
+**Trudaine:** Oh, I say! As expected of a high-flying merchant! How generous of him!
+
+**Trudaine:** Well, what a coincidence, though — my husband promised me precisely the same thing!
+
+**Graciette:** Oh dear! Whatever are we going to do, then, if we fall in love with the same dress?
+
+**Trudaine:** Well, let's leave our gentlemen to figure that one out for themselves, shall we?
 
 #### Go to Chioriya Boutique
 
@@ -2203,8 +2537,9 @@ If the hem of a skirt is stained, can it still take the stage?
 
 **Chiori:** Well then, I'll leave the displays to you.
 
+#### Set up Chioriya Boutique
 
-**Eloffe:** Miss Chiori isn't the sort to just give up. She probably just needs a place where she can think in peace.
+**Chiori:** Please organize the clothes with an eye towards their types and styles. I'm counting on you.
 
 #### Talk to Chiori
 
@@ -2308,7 +2643,7 @@ If the hem of a skirt is stained, can it still take the stage?
 
 **Paimon:** Chiori...
 
-These rumors...
+- **Traveler:** These rumors...
 
 **Chiori:** They couldn't be more fabricated if you tried. No need to worry about them. I'm sure they'll go away on their own in a few days.
 
@@ -2348,13 +2683,25 @@ These rumors...
 
 **Chiori:** ...Eloffe, you stay and watch the shop. I'll go talk to the supplier myself.
 
+##### Response branch 1
+
 - **Traveler:** We'll go with you.
 
+##### Response branch 2
+
 - **Traveler:** Maybe we'll be able to find out what happened.
+
+##### Shared continuation
 
 **Paimon:** Yeah! And we can vouch for you too! We'll make sure your supplier knows there's nothing wrong with your clothes!
 
 **Chiori:** Thank you. In that case, please come with me.
+
+**Chiori:** Hmm, not bad. You might just have an eye for design.
+
+**Chiori:** ...You didn't get bought out by my competitors, did you? This arrangement... It's...
+
+**Chiori:** ...Never mind. It might look like a chaotic mess, but I suppose it works as a change of pace — and who knows? This style arrangement might come into vogue someday.
 
 #### Go to the supplier
 
@@ -2410,9 +2757,15 @@ These rumors...
 
 **Wenger:** I don't know what happened, and I don't want to comment on things that I didn't see with my own eyes. Still, that photo shows you to be the clear aggressor.
 
+##### Response branch 1
+
 - **Traveler:** But Uther harassed Chiori first...
 
+##### Response branch 2
+
 - **Traveler:** He even hired some goons to attack her courier...
+
+##### Shared continuation
 
 **Paimon:** Yeah! He was the one who started it, that little...
 
@@ -2493,6 +2846,10 @@ These rumors...
 **Charlotte:** Speaking of Miss Chiori, do you know where she went? Eloffe told me you all were together.
 
 **Paimon:** ...Huh? She was just here... Maybe she went over there. Let's go and check.
+
+**Eloffe:** I know Miss Chiori has put a lot of work into making Fashion Week a success...
+
+**Eloffe:** I hope you can talk things through with the supplier.
 
 #### Catch up with Chiori
 
@@ -2592,13 +2949,19 @@ These rumors...
 
 **Chiori:** Want to sit here with me? The view's quite stunning.
 
-- **Traveler:** It's pretty high up...
+##### Response branch 1
 
-- **Traveler:** It doesn't look like there's a lot of space...
+- **Traveler:** It's pretty high up...
 
 **Chiori:** Don't worry, I'll catch you if you fall.
 
+##### Response branch 2
+
+- **Traveler:** It doesn't look like there's a lot of space...
+
 **Chiori:** Ah, sorry about that. I'm the only one here most of the time.
+
+##### Shared continuation
 
 **Paimon:** Alright. Don't mind if we do!
 
@@ -2648,9 +3011,15 @@ These rumors...
 
 **Chiori:** Of course, as I spent more and more time in the industry, I learned nothing was ever that simple, least of all "fashion."
 
+##### Response branch 1
+
 - **Traveler:** Well, I know someone who absolutely adored your designs...
 
+##### Response branch 2
+
 - **Traveler:** And dreamed of wearing one at her wedding...
+
+##### Shared continuation
 
 **Chiori:** Oh, you mean Laetitia?
 
@@ -2704,19 +3073,19 @@ These rumors...
 
 **Paimon:** Huh!? Chiori, wait, hold up!
 
+**Eloffe:** Miss Chiori isn't the sort to just give up. She probably just needs a place where she can think in peace.
+
+**Charlotte:** So, in your opinion, what is Miss Chiori like as a person?
+
+**Laetitia:** Let's see... Well, she's certainly not afraid to say what she means, but she always looks out for her customers however she can...
+
 #### Dive into the sea
 
-**Chiori:** Please organize the clothes with an eye towards their types and styles. I'm counting on you.
+#### Collect materials for the accessories
 
 #### Collect materials for the accessories
 
-**Chiori:** Hmm, not bad. You might just have an eye for design.
-
 #### Collect materials for the accessories
-
-**Chiori:** ...You didn't get bought out by my competitors, did you? This arrangement... It's...
-
-**Chiori:** ...Never mind. It might look like a chaotic mess, but I suppose it works as a change of pace — and who knows? This style arrangement might come into vogue someday.
 
 #### Meet up with Chiori
 
@@ -2740,13 +3109,19 @@ These rumors...
 
 **Paimon:** Nuh-uh, skipping out on sleep is not the answer! Wait... How come this conversation is giving Paimon major deja vu...
 
-- **Traveler:** Sounds pretty similar to one we've had with Ganyu before.
+##### Response branch 1
 
-- **Traveler:** I guess going after what you want means making certain sacrifices.
+- **Traveler:** Sounds pretty similar to one we've had with Ganyu before.
 
 **Chiori:** Ganyu? Who's that?
 
 **Paimon:** A friend of ours who does way too much overtime!
+
+##### Response branch 2
+
+- **Traveler:** I guess going after what you want means making certain sacrifices.
+
+##### Shared continuation
 
 **Paimon:** Well, anyway... Sleep is important! You're not gonna convince Paimon otherwise!
 
@@ -2782,10 +3157,6 @@ These rumors...
 
 #### Dismantle the clothes
 
-**Eloffe:** I know Miss Chiori has put a lot of work into making Fashion Week a success...
-
-**Eloffe:** I hope you can talk things through with the supplier.
-
 #### Talk to Chiori
 
 **Chiori:** Good job. That should do it.
@@ -2798,9 +3169,15 @@ These rumors...
 
 **Paimon:** M—Maybe you should calm down a bit first, cause you see, um...
 
+##### Response branch 1
+
 - **Traveler:** I—I was the one who did it...
 
+##### Response branch 2
+
 - **Traveler:** Boss... Please, go easy on us...
+
+##### Shared continuation
 
 **Navia:** Huh...? HUH?
 
@@ -2838,7 +3215,7 @@ These rumors...
 
 **Chiori:** Oh and, Traveler and Paimon — could you help me pass word to Lyney and Lynette? I'll need their help as well.
 
-Gladly.
+- **Traveler:** Gladly.
 
 **Charlotte:** I'm done with my interview! Has Miss Chiori made it back yet— Aahhhh!! What happened to the boutique!?
 
@@ -2890,9 +3267,53 @@ Gladly.
 
 **Paimon:** Paimon sure hopes she won't have a hard time making all of those new outfits for the show...
 
+**Navia:** What should we do about these clothes everywhere? Need any help?
+
+**Chiori:** Sort them by the type of fabric first, and then by color. Oh and, don't forget to remove any accessories and put them to the side.
+
+**Charlotte:** That sounds pretty straightforward. I'll help, too!
+
+**Person Idly Chatting by the Roadside:** If you ask me, I think Chioriya Boutique is done for.
+
+**Person Idly Chatting by the Roadside:** I mean, what did they expect? Engaging with criminals behind their customers' backs...
+
+**Person Idly Chatting by the Roadside:** They kept up a solid front, though. I've even bought from them before...
+
+**Person Idly Chatting by the Roadside:** Really? How was it?
+
+**Person Idly Chatting by the Roadside:** The owner was plenty fierce, that's for sure. Makes sense if she regularly deals with criminals, I guess. I've got the chills just thinking about it...
+
+**Fashion Week Promotional Poster:** The much-anticipated Fontaine Fashion Week has begun!
+
+**Fashion Week Promotional Poster:** Many renowned designers have gathered for this event. Their meticulously crafted, brand-new works will be on display during the final show.
+
+**Fashion Week Promotional Poster:** Let the light of fashion shine upon the City of the Arts!
+
+**Graciette:** Did you read the paper today?
+
+**Trudaine:** Oh I did! My goodness, I couldn't believe what I was reading!
+
+**Graciette:** Do you think there's any truth to it? Have you asked your husband? He's a judge isn't he?
+
+**Trudaine:** Pfft, he would never indulge in such idle gossip! Still, he advised me to hold off on buying any more related wares for the time being.
+
+**Graciette:** Yes, how prudent — wait for the dust to settle. My husband said the same.
+
+**Trudaine:** Indeed, indeed! I wouldn't want to invite scandal through one of my purchases, now would I?
+
+**Graciette:** ...It's Fashion Week right now...
+
+**Graciette:** Did you read the paper today?
+
+You return to the boutique with Chiori...
+
 ### The Woven and the Cut
 
 What should one forsake, and where should one persist? The answer that the designer gives amidst cutting and knitting is...
+
+#### Wait until two days later
+
+- **Traveler:** (Chiori said that she needs all the time she can get to make the clothes for the fashion show. Best not to disturb her for now...)
 
 #### Go to Uther's clothing factory
 
@@ -2924,6 +3345,10 @@ What should one forsake, and where should one persist? The answer that the desig
 
 **Chiori:** You make a good point. Let's all be on our guard.
 
+#### Enter Uther's factory
+
+#### Investigate Uther's factory
+
 #### Investigate the surrounding area
 
 **Paper on the Bookshelf:** (Some examples of Uther's old designs. There's nothing strange about them.)
@@ -2935,6 +3360,8 @@ What should one forsake, and where should one persist? The answer that the desig
 #### Investigate the surrounding area
 
 **Notes on the Table:** (The courier... shall arrive at the city... in the morning, via...)
+
+#### Investigate the fitting room
 
 #### Go deeper into the factory
 
@@ -2966,7 +3393,7 @@ What should one forsake, and where should one persist? The answer that the desig
 
 **Paimon:** Huh!? What's going on? Our way in's been blocked!
 
-He wants to trap us in the factory...
+- **Traveler:** He wants to trap us in the factory...
 
 **Chiori:** ...
 
@@ -2999,6 +3426,8 @@ He wants to trap us in the factory...
 **Chiori:** Missing the show is as good as letting him win.
 
 **Paimon:** Ah, there are some control panels over there! Let's see if any of those buttons do anything!
+
+#### Leave Uther's factory
 
 #### Leave Uther's factory
 
@@ -3048,9 +3477,15 @@ He wants to trap us in the factory...
 
 **Uther:** You...!
 
+##### Response branch 1
+
 - **Traveler:** ...Chiori, you go first.
 
+##### Response branch 2
+
 - **Traveler:** ...You've got a show to catch.
+
+##### Shared continuation
 
 **Paimon:** Yeah, just leave this guy to us!
 
@@ -3062,9 +3497,15 @@ He wants to trap us in the factory...
 
 **Chiori:** I'll deal with him. Some lessons... are best delivered in person.
 
+##### Response branch 1
+
 - **Traveler:** ...Alright.
 
+##### Response branch 2
+
 - **Traveler:** ...Stay safe.
+
+##### Shared continuation
 
 **Paimon:** Catch up with us soon!
 
@@ -3210,9 +3651,15 @@ He wants to trap us in the factory...
 
 **Chiori:** I've only made two for now. After much consideration, I decided to give them to you two.
 
+##### Response branch 1
+
 - **Traveler:** Thank you...
 
+##### Response branch 2
+
 - **Traveler:** I'll take good care of it.
+
+##### Shared continuation
 
 **Chiori:** You've been a great help. Even when things were looking bleak, you stayed by my side.
 
@@ -3242,8 +3689,31 @@ He wants to trap us in the factory...
 
 **Chiori:** You know? Of all the nights I've spent in Fontaine, I'd say this is the loveliest by far.
 
+**Fashion Week Promotional Poster:** The much-anticipated Fontaine Fashion Week has begun!
 
-(Chiori said that she needs all the time she can get to make the clothes for the fashion show. Best not to disturb her for now...)
+**Fashion Week Promotional Poster:** Many renowned designers have gathered for this event. Their meticulously crafted, brand-new works will be on display during the final show.
+
+**Fashion Week Promotional Poster:** Let the light of fashion shine upon the City of the Arts!
+
+**Notes on the Table:** Travel Plans—
+
+**Notes on the Table:** I've heard there's a new clothing trend in Natlan. Will check it out when I have some time...
+
+**Notes on the Table:** Snezhnayan designs can be used as reference for winter wear... if it's on the way...
+
+**Notes on the Table:** Letter to Chevreuse—
+
+**Notes on the Table:** Maison Gardiennage... employee... speaking in the store of a deal between their superior and... tone was conclusive...
+
+**Notes on the Table:** Someone... witnessed a wanted criminal... coming and going. I fear that is just a rumor...
+
+**Notes on the Table:** Letter From Emilie—
+
+**Notes on the Table:** ...Thank you, Ms. Chiori, for your feedback on the fragrances. I've placed a sample of my newest product in this letter. It's a recent experiment with a Romaritime fragrance...
+
+**Notes on the Table:** Also, about the schedule for the next test...
+
+**Paimon:** After the fashion show, everyone returns to Chioriya Boutique...
 
 ## ZH
 
@@ -3267,7 +3737,7 @@ He wants to trap us in the factory...
 
 **莱提西娅:** …这，真的可以吗？
 
-**千织:** 说了是订金里用剩下的。怎么，怕我偷工减料？
+**？？？:** 说了是订金里用剩下的。怎么，怕我偷工减料？
 
 **莱提西娅:** 没有没有！我绝对没有怀疑千织小姐的意思。
 
@@ -3275,13 +3745,19 @@ He wants to trap us in the factory...
 
 **派蒙:** 原来那位就是「千织屋」的老板吗，以前都没见过她呢。
 
+##### 对话分支 1
+
 - **旅行者:** 可能平时很忙吧。
+
+##### 对话分支 2
 
 - **旅行者:** 毕竟销售交给了爱洛芙…
 
+##### 共同后续
+
 **派蒙:** 咦？那不是千织吗，今天她居然在店里欸！
 
-说不定是因为「时装周」？
+- **旅行者:** 说不定是因为「时装周」？
 
 **派蒙:** 哦，有道理，我们待会儿去问问她！
 
@@ -3309,7 +3785,7 @@ He wants to trap us in the factory...
 
 **派蒙:** 我才不是小孩子呢！
 
-关于「枫丹时装周」…
+- **旅行者:** 关于「枫丹时装周」…
 
 **千织:** 哦，这个呀。既然连你们也听说了，那看来「枫丹服装协会」的宣传效果的确不错。
 
@@ -3349,7 +3825,9 @@ He wants to trap us in the factory...
 
 **千织:** 这我不担心。为保证万无一失，我用了「狛荷屋」的指名服务，让最信得过的快递员来送。
 
-**绮良良:** …不好意思！借过，借过一下！
+**千织:** 说了是订金里用剩下的。怎么，怕我偷工减料？
+
+**？？？:** …不好意思！借过，借过一下！
 
 **绮良良:** …千织姐，你的…你的快递到了…超时了不少，实在是…非常，非常抱歉…
 
@@ -3357,7 +3835,7 @@ He wants to trap us in the factory...
 
 **绮良良:** 咦？你们是千织姐的客人？呜…抱歉，让你们见笑了。
 
-**千织:** 这是旅行者和派蒙，你跑这么多地方，应该听过他们 / 她们的名字。
+**千织:** 这是旅行者和派蒙，你跑这么多地方，应该听过他们的名字。 / 这是旅行者和派蒙，你跑这么多地方，应该听过她们的名字。
 
 **千织:** 这位是绮良良，稻妻「狛荷屋」最优秀的快递员。哦对了，她是只猫又，免得你们待会儿要问那两条尾巴的事。
 
@@ -3367,11 +3845,17 @@ He wants to trap us in the factory...
 
 **绮良良:** 旅行者和派蒙？原来你们也在枫丹啊！好久不见了！
 
+##### 对话分支 1
+
 - **旅行者:** 好久不见。
+
+##### 对话分支 2
 
 - **旅行者:** 来一局「七圣召唤」吧！
 
 **绮良良:** 啊哈哈…还是下次吧，超时这么久，也不是悠哉悠哉打牌的时候…我知道这包裹对千织姐来说还挺重要的。
+
+##### 共同后续
 
 **绮良良:** 哎…怎么感觉，又是在我出丑的时候被你们看到了…
 
@@ -3383,9 +3867,15 @@ He wants to trap us in the factory...
 
 **绮良良:** 呃…没，没有，其实只是稍微迷了点路…
 
+##### 对话分支 1
+
 - **旅行者:** ……
 
+##### 对话分支 2
+
 - **旅行者:** 你的尾巴…
+
+##### 共同后续
 
 **千织:** 你这尾巴比人诚实的毛病还是没改。
 
@@ -3463,11 +3953,29 @@ He wants to trap us in the factory...
 
 **绮良良:** 旅行者，派蒙，能请你们跟上去看看吗？我作为「狛荷屋」的快递员，不太好掺和到这些事里去。
 
-没问题。
+- **旅行者:** 没问题。
 
 **派蒙:** 嗯！我们会保护好千织的。
 
 **绮良良:** 呃…其实比起千织姐，我更担心那位「厄舍」先生的安全…
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
 
 #### 跟上千织
 
@@ -3497,9 +4005,15 @@ He wants to trap us in the factory...
 
 **派蒙:** 夏沃蕾！我们又见面了呢！
 
+##### 对话分支 1
+
 - **旅行者:** 在巡逻吗？
 
+##### 对话分支 2
+
 - **旅行者:** 工作顺利吗？
+
+##### 共同后续
 
 **夏沃蕾:** 嗯，一切正常。托映影的福，铳枪队也招到了不少新人。
 
@@ -3536,6 +4050,14 @@ He wants to trap us in the factory...
 **夏沃蕾:** …好吧，人在哪儿。
 
 **千织:** 跟我来吧。
+
+**绮良良:** 千织姐就拜托你们了。
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
 
 #### 跟随千织
 
@@ -3627,9 +4149,15 @@ He wants to trap us in the factory...
 
 **派蒙:** 刚才吓死我了，他怎么就飞出来了呀？
 
+##### 对话分支 1
+
 - **旅行者:** 好大的力气…
 
+##### 对话分支 2
+
 - **旅行者:** 好漂亮的弧线…
+
+##### 共同后续
 
 **千织:** 多谢夸奖。
 
@@ -3693,11 +4221,17 @@ He wants to trap us in the factory...
 
 **千织:** 也让那些人知道，再敢碰我朋友的话，会有什么下场。
 
+##### 对话分支 1
+
 - **旅行者:** 话都到这份上了…
+
+##### 对话分支 2
 
 - **旅行者:** 绮良良就当「礼尚往来」…
 
 **千织:** 哦，这说得好。
+
+##### 共同后续
 
 **绮良良:** 既然连你们也这么说的话，那好吧…
 
@@ -3741,13 +4275,19 @@ He wants to trap us in the factory...
 
 **派蒙:** 听起来是很轻松的工作呢。
 
-- **旅行者:** 需要上台走秀吗？
+##### 对话分支 1
 
-- **旅行者:** 新衣服会送我们吗？
+- **旅行者:** 需要上台走秀吗？
 
 **千织:** 这次上台的模特已经约好了，不用劳烦你们。
 
+##### 对话分支 2
+
+- **旅行者:** 新衣服会送我们吗？
+
 **千织:** 时装周的衣服更多是用来展示理念，不适合平时穿。
+
+##### 共同后续
 
 **千织:** 喜欢的话，可以来光顾「千织屋」的生意，我给你们特别优惠。
 
@@ -3757,9 +4297,37 @@ He wants to trap us in the factory...
 
 **派蒙:** 好！欸…等等。都说了我不是小孩子！
 
+**时装周宣传画报:** 万众瞩目的「枫丹时装周」隆重开幕！
+
+**时装周宣传画报:** 本届时装周汇聚了众多知名设计师。他们精心雕琢的品牌新作，也将于最后的时装秀上与大家见面。
+
+**时装周宣传画报:** 就让这时尚之光，点亮这座艺术之都吧！
+
+**格蕾希艾:** …最近可是时装周哟…
+
 ### 衣上的污点
 
 若是裙摆沾上了污渍，那它还能否登上舞台…
+
+#### 等待至次日早晨（6~10点）
+
+**千织:** 说到衣服，你现在有哪里要补吗？
+
+**绮良良:** 欸嘿嘿…既然千织姐你都这么问了，其实腰这里…
+
+**千织:** 长胖了？
+
+**绮良良:** 是被坏蛋刮破了啦！
+
+**格蕾希艾:** 最近可是时装周哟，我老公答应说，要送我一套时装秀上最抢眼的衣服。
+
+**特洛黛:** 哟，真不愧是您家那位大商人。就是阔气。
+
+**特洛黛:** 不过还真是巧了，我老公也说了一样的话呢。
+
+**格蕾希艾:** 哎呀，那要是我俩都看上了同一件衣服可怎么办？
+
+**特洛黛:** 这个问题，就留给两位男士去烦恼。你说对吧？
 
 #### 前往「千织屋」
 
@@ -3815,8 +4383,9 @@ He wants to trap us in the factory...
 
 **千织:** 那么，这边就交给你们了。
 
+#### 布置「千织屋」
 
-**爱洛芙:** 千织小姐不是那种轻易气馁的人。她只是…需要一个地方安静地思考。
+**千织:** 把成衣按种类和款式进行合理排布。看你们的了。
 
 #### 与千织对话
 
@@ -3920,7 +4489,7 @@ He wants to trap us in the factory...
 
 **派蒙:** 千织…
 
-谣言的处理…
+- **旅行者:** 谣言的处理…
 
 **千织:** 这明摆着就是捕风捉影虚构出的谎言，不用去管。过几天这些荒谬的声音自然就会下去。
 
@@ -3960,13 +4529,25 @@ He wants to trap us in the factory...
 
 **千织:** …爱洛芙，你留在店里。我亲自去找供应商谈谈。
 
+##### 对话分支 1
+
 - **旅行者:** 我们也去。
 
+##### 对话分支 2
+
 - **旅行者:** 顺带了解发生了什么。
+
+##### 共同后续
 
 **派蒙:** 我们还可以做你的担保人，向供应商解释你的衣服绝对没有问题！
 
 **千织:** 好，那就辛苦你们了。
+
+**千织:** 嗯，摆得不错。你们说不定挺有设计天赋。
+
+**千织:** …你们，该不会是同行派来我这里的吧。这个布置…
+
+**千织:** …算了。虽然看起来杂乱无序，但就当换个心情吧。说不定这种风格，以后哪天就流行起来了呢？
 
 #### 前往供应商处
 
@@ -4022,9 +4603,15 @@ He wants to trap us in the factory...
 
 **维格尔:** 我不知道发生了什么，也不想妄自评论。但那画片拍得，的确会让人觉得是你的不对…
 
+##### 对话分支 1
+
 - **旅行者:** 是厄舍不对在先…
 
+##### 对话分支 2
+
 - **旅行者:** 他还雇人抢劫…
+
+##### 共同后续
 
 **派蒙:** 就是！明明是他…
 
@@ -4105,6 +4692,10 @@ He wants to trap us in the factory...
 **夏洛蒂:** 说到千织小姐，她没和你们在一起吗？我听爱洛芙说你们是一起来的。
 
 **派蒙:** 咦？刚才还在呀，可能往那边走了吧，我们追上去看看。
+
+**爱洛芙:** 我知道千织小姐为这次时装周付出了很多。
+
+**爱洛芙:** 希望你们的商谈能够顺利吧…
 
 #### 跟上千织
 
@@ -4204,13 +4795,19 @@ He wants to trap us in the factory...
 
 **千织:** 要来这边坐坐吗？风景很好的。
 
-- **旅行者:** 好高…
+##### 对话分支 1
 
-- **旅行者:** 好挤…
+- **旅行者:** 好高…
 
 **千织:** 放心，掉下去了我接着你。
 
+##### 对话分支 2
+
+- **旅行者:** 好挤…
+
 **千织:** 那还真是对不起，平时都只有我一个人坐。
+
+##### 共同后续
 
 **派蒙:** 好吧，那我们就不客气了。
 
@@ -4260,9 +4857,15 @@ He wants to trap us in the factory...
 
 **千织:** 哎…但现在哪还有简单剩下，只剩鬼了。
 
+##### 对话分支 1
+
 - **旅行者:** 有人喜欢你设计的衣服…
 
+##### 对话分支 2
+
 - **旅行者:** 还有人把它当成了梦想…
+
+##### 共同后续
 
 **千织:** 你说莱提西娅吗？
 
@@ -4316,19 +4919,19 @@ He wants to trap us in the factory...
 
 **派蒙:** 欸？！千织你等等我们呀…！
 
+**爱洛芙:** 千织小姐不是那种轻易气馁的人。她只是…需要一个地方安静地思考。
+
+**夏洛蒂:** 那么，在你看来，千织小姐是一个怎样的人呢？
+
+**莱提西娅:** 她啊，虽然有时说话不好听，但实际却在种种细节里照顾着她的顾客…
+
 #### 跳入海中
 
-**千织:** 把成衣按种类和款式进行合理排布。看你们的了。
+#### 采集作为饰品的材料
 
 #### 采集作为饰品的材料
 
-**千织:** 嗯，摆得不错。你们说不定挺有设计天赋。
-
 #### 采集作为饰品的材料
-
-**千织:** …你们，该不会是同行派来我这里的吧。这个布置…
-
-**千织:** …算了。虽然看起来杂乱无序，但就当换个心情吧。说不定这种风格，以后哪天就流行起来了呢？
 
 #### 与千织会合
 
@@ -4352,13 +4955,19 @@ He wants to trap us in the factory...
 
 **派蒙:** 不睡觉怎么行！咦？总觉得这对话在哪里发生过…
 
-- **旅行者:** 可能是对甘雨说过。
+##### 对话分支 1
 
-- **旅行者:** 可能有梦想的人都这样。
+- **旅行者:** 可能是对甘雨说过。
 
 **千织:** 那是谁？
 
 **派蒙:** 一个爱加班的朋友啦。
+
+##### 对话分支 2
+
+- **旅行者:** 可能有梦想的人都这样。
+
+##### 共同后续
 
 **派蒙:** 不管了，总之不休息是不对的！
 
@@ -4394,10 +5003,6 @@ He wants to trap us in the factory...
 
 #### 拆解衣物
 
-**爱洛芙:** 我知道千织小姐为这次时装周付出了很多。
-
-**爱洛芙:** 希望你们的商谈能够顺利吧…
-
 #### 与千织对话
 
 **千织:** 拆得漂亮，这应该就差不多了。
@@ -4410,9 +5015,15 @@ He wants to trap us in the factory...
 
 **派蒙:** 娜…娜维娅你先冷静！
 
+##### 对话分支 1
+
 - **旅行者:** 是…是我干的…
 
+##### 对话分支 2
+
 - **旅行者:** 老板手下留情…
+
+##### 共同后续
 
 **娜维娅:** 咦…啊？
 
@@ -4450,7 +5061,7 @@ He wants to trap us in the factory...
 
 **千织:** 另外，旅行者和派蒙，能请你们帮我去给林尼和琳妮特传个话吗？我也需要他们帮忙。
 
-乐意效劳。
+- **旅行者:** 乐意效劳。
 
 **夏洛蒂:** 我采访完了，千织小姐回来了吗…欸？！这…这店里怎么这样了？
 
@@ -4502,9 +5113,53 @@ He wants to trap us in the factory...
 
 **派蒙:** 希望做衣服的过程，一定要顺利啊。
 
+**娜维娅:** 现在这些衣服怎么处理？要搭把手吗？
+
+**千织:** 先按布料分类，然后再各自按颜色分类，饰品拆下来单独放一边。
+
+**夏洛蒂:** 听着不难，我也来帮忙！
+
+**路边闲聊的人:** 依我看，这次「千织屋」是开不下去了。
+
+**路边闲聊的人:** 都瞒着顾客干出这种事，当然开不下去。
+
+**路边闲聊的人:** 你别说，我还真去过「千织屋」买衣服。
+
+**路边闲聊的人:** 真的吗？到底怎么样啊？
+
+**路边闲聊的人:** 那老板看起来的确挺凶的，一想到可能和罪犯经常打交道，我现在都后怕…
+
+**时装周宣传画报:** 万众瞩目的「枫丹时装周」隆重开幕！
+
+**时装周宣传画报:** 本届时装周汇聚了众多知名设计师。他们精心雕琢的品牌新作，也将于最后的时装秀上与大家见面。
+
+**时装周宣传画报:** 就让这时尚之光，点亮这座艺术之都吧！
+
+**格蕾希艾:** 你看今早的报纸了吗？
+
+**特洛黛:** 看了呀，哎哟，这也太可怕了吧？
+
+**格蕾希艾:** 这是真的还是假的呀？能不能问问您家那位审判官？
+
+**特洛黛:** 哎，他哪在乎这种事呀？不过，他也劝我先不要来买衣服了呢。
+
+**格蕾希艾:** 先看看风声，对吧？我家那位也是这么说呢。
+
+**特洛黛:** 就是就是，我也不想买了以后被别人指手画脚呢。
+
+**格蕾希艾:** …最近可是时装周哟…
+
+**格蕾希艾:** …你看今早的报纸了吗？
+
+与千织一起回到了「千织屋」…
+
 ### 所织与所斩
 
 该舍弃什么，又该坚持什么？这是设计师在裁剪与编织中要给出的答案…
+
+#### 等待至两天后
+
+- **旅行者:** （千织说过要抓紧时间做时装秀的衣服，还是先不去打扰她了吧…）
 
 #### 前往厄舍的工厂
 
@@ -4536,6 +5191,10 @@ He wants to trap us in the factory...
 
 **千织:** 你说得对，待会儿也多加小心。
 
+#### 进入厄舍的工厂
+
+#### 调查厄舍的工厂
+
 #### 在周围调查
 
 **书柜上的纸张:** （看起来像是以前的设计手稿，没有什么特别的地方。）
@@ -4547,6 +5206,8 @@ He wants to trap us in the factory...
 #### 在周围调查
 
 **桌上的笔记:** 「…快递员…将于…上午进城，途经…」
+
+#### 调查试衣间
 
 #### 深入工厂
 
@@ -4578,7 +5239,7 @@ He wants to trap us in the factory...
 
 **派蒙:** 呃！怎么回事？进来的路被堵住了！
 
-是想把我们困在工厂里…
+- **旅行者:** 是想把我们困在工厂里…
 
 **千织:** ……
 
@@ -4611,6 +5272,8 @@ He wants to trap us in the factory...
 **千织:** 要是赶不上时装秀，那就真让他得逞了。
 
 **派蒙:** 啊，那边有几个操作台！去看看有没有什么能动的按钮吧！
+
+#### 离开厄舍的工厂
 
 #### 离开厄舍的工厂
 
@@ -4660,9 +5323,15 @@ He wants to trap us in the factory...
 
 **厄舍:** 你…！
 
+##### 对话分支 1
+
 - **旅行者:** …千织，你先走。
 
+##### 对话分支 2
+
 - **旅行者:** …时装秀要紧。
+
+##### 共同后续
 
 **派蒙:** 没错，这里交给我们！
 
@@ -4674,9 +5343,15 @@ He wants to trap us in the factory...
 
 **千织:** 这里，必须由我「亲自」给他一个教训。
 
+##### 对话分支 1
+
 - **旅行者:** …我明白了。
 
+##### 对话分支 2
+
 - **旅行者:** …千万小心。
+
+##### 共同后续
 
 **派蒙:** …千织你一定要赶上啊！
 
@@ -4822,9 +5497,15 @@ He wants to trap us in the factory...
 
 **千织:** 暂时只做了这两枚，想来想去，还是决定先送给你们。
 
+##### 对话分支 1
+
 - **旅行者:** 谢谢…
 
+##### 对话分支 2
+
 - **旅行者:** 我会好好保管…
+
+##### 共同后续
 
 **千织:** 这次你们帮了我很大的忙，而且几乎一直陪着我。
 
@@ -4854,5 +5535,28 @@ He wants to trap us in the factory...
 
 **千织:** 我敢肯定，这会是我来枫丹之后，所见过最美的一晚。
 
+**时装周宣传画报:** 万众瞩目的「枫丹时装周」隆重开幕！
 
-（千织说过要抓紧时间做时装秀的衣服，还是先不去打扰她了吧…）
+**时装周宣传画报:** 本届时装周汇聚了众多知名设计师。他们精心雕琢的品牌新作，也将于最后的时装秀上与大家见面。
+
+**时装周宣传画报:** 就让这时尚之光，点亮这座艺术之都吧！
+
+**桌上散落的笔记:** 旅行计划——
+
+**桌上散落的笔记:** 听说纳塔的人们穿着新潮，有时间去看看…
+
+**桌上散落的笔记:** 至冬的设计能作为冬装参考…顺路的话…
+
+**桌上散落的笔记:** 寄给夏沃蕾的信——
+
+**桌上散落的笔记:** 执律庭…的职员，于店内提及上司与…的交易，语气确凿…
+
+**桌上散落的笔记:** 有人于…目击到通缉犯…出没，恐怕是谣言…
+
+**桌上散落的笔记:** 艾梅莉埃寄来的信——
+
+**桌上散落的笔记:** …非常感谢千织小姐对于香氛的宝贵意见，信中附上新款样品，是我最近尝试的海露香调…
+
+**桌上散落的笔记:** 另外，关于下一次试香的安排…
+
+**派蒙:** 时装秀结束后，众人回到了「千织屋」…

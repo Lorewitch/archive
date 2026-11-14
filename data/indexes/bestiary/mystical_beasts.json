@@ -306,6 +306,40 @@
     "search_text": "воплощение вайоб губительного пламени burning-aflame wayob manifestation 焚燃 · 大灵显化身 mystical_beasts common_enemy натлан 5.2 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
   },
   {
+    "id": "channel_contact",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/channel_contact.webp",
+    "title": {
+      "ru": "Связной канала",
+      "en": "Channel Contact",
+      "zh": "渠道联络人"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Связной канала",
+      "Channel Contact",
+      "渠道联络人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "связной канала channel contact 渠道联络人 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
+  },
+  {
     "id": "cherubic_sea_hare",
     "category": "enemies",
     "enemy_group": "mystical_beasts",
@@ -338,6 +372,210 @@
     "filter_type": "mystical_beasts",
     "sort_version": 4000000,
     "search_text": "премилый морской заяц cherubic sea hare 大天使海兔 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "chimeric_armored_beast",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/chimeric_armored_beast.webp",
+    "title": {
+      "ru": "Бронешлемовый зверь",
+      "en": "Chimeric Armored Beast",
+      "zh": "嵌合鍪甲兽"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Бронешлемовый зверь",
+      "Chimeric Armored Beast",
+      "嵌合鍪甲兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "бронешлемовый зверь chimeric armored beast 嵌合鍪甲兽 mystical_beasts common_enemy снежная 7.0 ядро химеры / симбиотическое ядро химеры / сердцевина химеры chimeric core / symbiotic chimeric nucleus / prime chimeric nexus 嵌合种 / 并生嵌合胞 / 源生嵌合体"
+  },
+  {
+    "id": "chimeric_burrowbeast",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/chimeric_burrowbeast.webp",
+    "title": {
+      "ru": "Химера-землерой",
+      "en": "Chimeric Burrowbeast",
+      "zh": "嵌合梭地兽"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Химера-землерой",
+      "Chimeric Burrowbeast",
+      "嵌合梭地兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "химера-землерой chimeric burrowbeast 嵌合梭地兽 mystical_beasts common_enemy снежная 7.0 ядро химеры / симбиотическое ядро химеры / сердцевина химеры chimeric core / symbiotic chimeric nucleus / prime chimeric nexus 嵌合种 / 并生嵌合胞 / 源生嵌合体"
+  },
+  {
+    "id": "chimeric_crocohoof",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/chimeric_crocohoof.webp",
+    "title": {
+      "ru": "Копытная химера-крокодил",
+      "en": "Chimeric Crocohoof",
+      "zh": "嵌合鳄蹄兽"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "tags": [
+      "Копытная химера-крокодил",
+      "Chimeric Crocohoof",
+      "嵌合鳄蹄兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 0,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7002000,
+    "search_text": "копытная химера-крокодил chimeric crocohoof 嵌合鳄蹄兽 mystical_beasts common_enemy снежная 7.2"
+  },
+  {
+    "id": "chimeric_horned_bear",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/chimeric_horned_bear.webp",
+    "title": {
+      "ru": "Рогатая химера-медведь",
+      "en": "Chimeric Horned Bear",
+      "zh": "嵌合角熊"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Рогатая химера-медведь",
+      "Chimeric Horned Bear",
+      "嵌合角熊"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "рогатая химера-медведь chimeric horned bear 嵌合角熊 mystical_beasts common_enemy снежная 7.0 ядро химеры / симбиотическое ядро химеры / сердцевина химеры chimeric core / symbiotic chimeric nucleus / prime chimeric nexus 嵌合种 / 并生嵌合胞 / 源生嵌合体"
+  },
+  {
+    "id": "chimeric_skorp",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/chimeric_skorp.webp",
+    "title": {
+      "ru": "Химера-скорпион",
+      "en": "Chimeric Skorp",
+      "zh": "嵌合蝎尾怪"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "tags": [
+      "Химера-скорпион",
+      "Chimeric Skorp",
+      "嵌合蝎尾怪"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 0,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7002000,
+    "search_text": "химера-скорпион chimeric skorp 嵌合蝎尾怪 mystical_beasts common_enemy снежная 7.2"
+  },
+  {
+    "id": "chimeric_winged_elephant",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/chimeric_winged_elephant.webp",
+    "title": {
+      "ru": "Крылатая химера-слон",
+      "en": "Chimeric Winged Elephant",
+      "zh": "嵌合翼象兽"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Крылатая химера-слон",
+      "Chimeric Winged Elephant",
+      "嵌合翼象兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "крылатая химера-слон chimeric winged elephant 嵌合翼象兽 mystical_beasts common_enemy снежная 7.0 ядро химеры / симбиотическое ядро химеры / сердцевина химеры chimeric core / symbiotic chimeric nucleus / prime chimeric nexus 嵌合种 / 并生嵌合胞 / 源生嵌合体"
   },
   {
     "id": "consecrated_fanged_beast",
@@ -619,6 +857,40 @@
     "filter_type": "mystical_beasts",
     "sort_version": 5000000,
     "search_text": "разлагающееся воплощение лавы eroding avatar of lava 熔岩游像 · 蚀土者 mystical_beasts common_enemy натлан 5.0 пламенный камень / пламенное семя жизни / пламенное око igniteds 聚燃的石块 / 聚燃的命种 / 聚燃的游像眼"
+  },
+  {
+    "id": "fanged_zealot",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fanged_zealot.webp",
+    "title": {
+      "ru": "Безумец с бивнями",
+      "en": "Fanged Zealot",
+      "zh": "牙兽狂徒"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Безумец с бивнями",
+      "Fanged Zealot",
+      "牙兽狂徒"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "безумец с бивнями fanged zealot 牙兽狂徒 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
   },
   {
     "id": "floating_anemo_fungus",
@@ -927,6 +1199,74 @@
     "search_text": "детёныш геовишапа geovishap hatchling 幼岩龙蜥 mystical_beasts common_enemy ли юэ 1.0 хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片"
   },
   {
+    "id": "glacial_warden",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/glacial_warden.webp",
+    "title": {
+      "ru": "Стражник льдов",
+      "en": "Glacial Warden",
+      "zh": "凝冰戍卫"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Стражник льдов",
+      "Glacial Warden",
+      "凝冰戍卫"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "стражник льдов glacial warden 凝冰戍卫 mystical_beasts common_enemy снежная 7.0 осколок эфирного сияния / эфирный кристалл / эфирная кристальная чешуя ethereal glimmershard / ethereal crystal / ethereal crystalscale stone 幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+  },
+  {
+    "id": "glaciomancer",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/glaciomancer.webp",
+    "title": {
+      "ru": "Колдун льдов",
+      "en": "Glaciomancer",
+      "zh": "凝冰秘法师"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Колдун льдов",
+      "Glaciomancer",
+      "凝冰秘法师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "колдун льдов glaciomancer 凝冰秘法师 mystical_beasts common_enemy снежная 7.0 осколок эфирного сияния / эфирный кристалл / эфирная кристальная чешуя ethereal glimmershard / ethereal crystal / ethereal crystalscale stone 幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+  },
+  {
     "id": "grounded_geoshroom",
     "category": "enemies",
     "enemy_group": "mystical_beasts",
@@ -1131,6 +1471,40 @@
     "search_text": "детёныш иктомизавра iktomisaurus chick 幼暝视龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
   },
   {
+    "id": "juvenile_tree_segment",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/juvenile_tree_segment.webp",
+    "title": {
+      "ru": "Часть молодого дерева",
+      "en": "Juvenile Tree Segment",
+      "zh": "幼嫩的分节树"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Часть молодого дерева",
+      "Juvenile Tree Segment",
+      "幼嫩的分节树"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "часть молодого дерева juvenile tree segment 幼嫩的分节树 mystical_beasts common_enemy снежная 7.0 опустевший корень жизни / росток узла жизни / свернувшееся ядро жизни hollow root of life / sprout node of life / coiled core of life 灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+  },
+  {
     "id": "koholasaur_whelp",
     "category": "enemies",
     "enemy_group": "mystical_beasts",
@@ -1197,6 +1571,74 @@
     "filter_type": "mystical_beasts",
     "sort_version": 5000000,
     "search_text": "кохолазавр koholasaurus 鳍游龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "leomastiff_guard",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/leomastiff_guard.webp",
+    "title": {
+      "ru": "Левмастиф-страж",
+      "en": "Leomastiff Guard",
+      "zh": "狮獒护卫"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Левмастиф-страж",
+      "Leomastiff Guard",
+      "狮獒护卫"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "левмастиф-страж leomastiff guard 狮獒护卫 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
+  },
+  {
+    "id": "long_eared_striker",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/long_eared_striker.webp",
+    "title": {
+      "ru": "Длинноухий штурмовик",
+      "en": "Long-Eared Striker",
+      "zh": "长耳强袭者"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Длинноухий штурмовик",
+      "Long-Eared Striker",
+      "长耳强袭者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "длинноухий штурмовик long-eared striker 长耳强袭者 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
   },
   {
     "id": "praetorian_golem",
@@ -1577,6 +2019,40 @@
     "search_text": "воплощение вайоб пещер и скал rock-cavernous wayob manifestation 窟岩 · 大灵显化身 mystical_beasts common_enemy натлан 5.0 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
   },
   {
+    "id": "rugged_elder_leshy",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/rugged_elder_leshy.webp",
+    "title": {
+      "ru": "Суровый леший-старейшина",
+      "en": "Rugged Elder Leshy",
+      "zh": "苍遒的木灵长"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Суровый леший-старейшина",
+      "Rugged Elder Leshy",
+      "苍遒的木灵长"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "суровый леший-старейшина rugged elder leshy 苍遒的木灵长 mystical_beasts common_enemy снежная 7.0 опустевший корень жизни / росток узла жизни / свернувшееся ядро жизни hollow root of life / sprout node of life / coiled core of life 灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+  },
+  {
     "id": "sternshield_crab",
     "category": "enemies",
     "enemy_group": "mystical_beasts",
@@ -1917,6 +2393,176 @@
     "search_text": "воплощение вайоб раскатов грома thundering wayob manifestation 雳震·大灵显化身 mystical_beasts common_enemy натлан 5.5 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
   },
   {
+    "id": "volkodlak_basher",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/volkodlak_basher.webp",
+    "title": {
+      "ru": "Волкодлак-громила",
+      "en": "Volkodlak Basher",
+      "zh": "兽怪敲打者"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Волкодлак-громила",
+      "Volkodlak Basher",
+      "兽怪敲打者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "волкодлак-громила volkodlak basher 兽怪敲打者 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
+  },
+  {
+    "id": "volkodlak_lobber",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/volkodlak_lobber.webp",
+    "title": {
+      "ru": "Волкодлак-метатель",
+      "en": "Volkodlak Lobber",
+      "zh": "兽怪投掷者"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Волкодлак-метатель",
+      "Volkodlak Lobber",
+      "兽怪投掷者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "волкодлак-метатель volkodlak lobber 兽怪投掷者 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
+  },
+  {
+    "id": "volkodlak_raider",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/volkodlak_raider.webp",
+    "title": {
+      "ru": "Волкодлак-налётчик",
+      "en": "Volkodlak Raider",
+      "zh": "兽怪捷掠者"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Волкодлак-налётчик",
+      "Volkodlak Raider",
+      "兽怪捷掠者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "волкодлак-налётчик volkodlak raider 兽怪捷掠者 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
+  },
+  {
+    "id": "volkodlak_sharpshooter",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/volkodlak_sharpshooter.webp",
+    "title": {
+      "ru": "Волкодлак-снайпер",
+      "en": "Volkodlak Sharpshooter",
+      "zh": "兽怪瞄击者"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Волкодлак-снайпер",
+      "Volkodlak Sharpshooter",
+      "兽怪瞄击者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "волкодлак-снайпер volkodlak sharpshooter 兽怪瞄击者 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
+  },
+  {
+    "id": "voywolf_hunter",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/voywolf_hunter.webp",
+    "title": {
+      "ru": "Ловчий воющих волков",
+      "en": "Voywolf Hunter",
+      "zh": "嗥狼追猎者"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Ловчий воющих волков",
+      "Voywolf Hunter",
+      "嗥狼追猎者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "ловчий воющих волков voywolf hunter 嗥狼追猎者 mystical_beasts common_enemy снежная 7.0 наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物"
+  },
+  {
     "id": "whirling_cryo_fungus",
     "category": "enemies",
     "enemy_group": "mystical_beasts",
@@ -2085,6 +2731,74 @@
     "filter_type": "mystical_beasts",
     "sort_version": 2006000,
     "search_text": "крылатый дендро моровик winged dendroshroom 有翼草本真蕈 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "winged_halberd_knight",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/winged_halberd_knight.webp",
+    "title": {
+      "ru": "Крылатый рыцарь с алебардой",
+      "en": "Winged Halberd-Knight",
+      "zh": "持戟羽骑士"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Крылатый рыцарь с алебардой",
+      "Winged Halberd-Knight",
+      "持戟羽骑士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "крылатый рыцарь с алебардой winged halberd-knight 持戟羽骑士 mystical_beasts common_enemy снежная 7.0 осколок эфирного сияния / эфирный кристалл / эфирная кристальная чешуя ethereal glimmershard / ethereal crystal / ethereal crystalscale stone 幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+  },
+  {
+    "id": "winged_soarer_knight",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/winged_soarer_knight.webp",
+    "title": {
+      "ru": "Крылатый парящий рыцарь",
+      "en": "Winged Soarer Knight",
+      "zh": "舞空羽骑士"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "tags": [
+      "Крылатый парящий рыцарь",
+      "Winged Soarer Knight",
+      "舞空羽骑士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 7000000,
+    "search_text": "крылатый парящий рыцарь winged soarer knight 舞空羽骑士 mystical_beasts common_enemy снежная 7.0 осколок эфирного сияния / эфирный кристалл / эфирная кристальная чешуя ethereal glimmershard / ethereal crystal / ethereal crystalscale stone 幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
   },
   {
     "id": "xuanwen_beast",

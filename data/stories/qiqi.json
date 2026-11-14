@@ -144,5 +144,988 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я Ци Ци, я зомби... Ээ, чего дальше говорить?",
+        "en": "I am Qiqi. I am a zombie. And I... forgot what comes next.",
+        "zh": "我是七七，是个僵尸…啊，还要说什么来着。"
+      },
+      "source_id": 24009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Разговоры с собой",
+        "en": "Chat: Talking to Herself",
+        "zh": "闲聊·自言自语"
+      },
+      "text": {
+        "ru": "Эй, знаешь что? Эээ... я тоже. О чём это я...",
+        "en": "Hey, do you know what? Uhh... neither do I. I... already forgot.",
+        "zh": "咦，刚刚…我想说什么来着…"
+      },
+      "source_id": 24010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Страх жары",
+        "en": "Chat: Afraid of Heat",
+        "zh": "闲聊·怕热"
+      },
+      "text": {
+        "ru": "Хочу куда-нибудь попрохладней.",
+        "en": "Let's go somewhere cooler.",
+        "zh": "想去凉快点的地方。"
+      },
+      "source_id": 24011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Тренировка",
+        "en": "Chat: Training",
+        "zh": "闲聊·锻炼"
+      },
+      "text": {
+        "ru": "Один, два, три, четыре... Два... Два, три, четыре...",
+        "en": "One, two, three, four. Two, two, three, four...",
+        "zh": "七二三四，七二三四…五六七七，五六七七…"
+      },
+      "source_id": 24012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Опять зонтик забыла.",
+        "en": "I forgot my umbrella again.",
+        "zh": "又忘记带伞了。"
+      },
+      "source_id": 24013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Хочу снеговика слепить... Поможешь?",
+        "en": "I want to build a snowman. Will you help?",
+        "zh": "想堆雪人…可以陪我吗？"
+      },
+      "source_id": 24014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Не стоило выходить из дома.",
+        "en": "I should have stayed indoors today.",
+        "zh": "今天不该出门的。"
+      },
+      "source_id": 24015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Прохладненький, очень хорошо.",
+        "en": "The wind is... frigid. I like it.",
+        "zh": "凉凉的，很舒服。"
+      },
+      "source_id": 24016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Хватай... хватай меня... А то меня сдует...",
+        "en": "Hold my hand please. This wind could blow me away.",
+        "zh": "拉手…拉手！要、要被吹跑了！…"
+      },
+      "source_id": 24017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Утром нужно проверить дневник. Дневник знает, что нужно делать утром.",
+        "en": "Morning means it's time to check my diary. Because my diary reminds me what I'm supposed to do in the morning.",
+        "zh": "早上了吗？今天要做的是…我看看笔记。"
+      },
+      "source_id": 24018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Вспомнила... Забыла разложить лекарства для господина Бая.",
+        "en": "I just remembered something. I forgot to help Dr. Baizhu prepare medications.",
+        "zh": "…忘记帮白先生分拣药材了。"
+      },
+      "source_id": 24019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер. Как прошёл твой день? Мой - хорошо. Кажется... Но я не помню...",
+        "en": "Good evening. How was your day? My day was... fine, I think. But I can't remember.",
+        "zh": "晚上好。今天…我做了什么来着…"
+      },
+      "source_id": 24020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Ты иди отдыхай, а мне ещё надо гимнастику сделать. ...Не подглядывай.",
+        "en": "It's time for you to sleep now. I will do my stretches. ...Do not watch me, please.",
+        "zh": "你先休息吧，我该去做柔软体操了…不要偷看。"
+      },
+      "source_id": 24021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Ци Ци...",
+        "en": "About Qiqi",
+        "zh": "关于七七自己…"
+      },
+      "text": {
+        "ru": "А, ты мне?.. Извини, я не помню...",
+        "en": "Did you ask me something? Sorry... I forgot.",
+        "zh": "你问我吗…？对不起，我不记得了…"
+      },
+      "source_id": 24022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Память",
+        "en": "About Us: Memory",
+        "zh": "关于我们·记忆力"
+      },
+      "text": {
+        "ru": "Я много что забываю, но... в этом нет ничего страшного.",
+        "en": "I have a poor memory for most things. But as far as I know, that doesn't matter.",
+        "zh": "很多事情我都记不起来了，但是…也没什么不好。"
+      },
+      "source_id": 24023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Тренировка памяти",
+        "en": "About Us: Memory Training",
+        "zh": "关于我们·记忆力锻炼"
+      },
+      "text": {
+        "ru": "Я теперь делаю много упражнений на память, так что я тебя не забуду, не волнуйся.",
+        "en": "I started memory training exercises recently. So don't worry, I won't forget who you are.",
+        "zh": "最近我努力做了很多记忆力锻炼，所以不用担心我会忘记你了。"
+      },
+      "source_id": 24024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Глаз Бога не может остановить время, но теперь я могу защитить дорогих мне людей.",
+        "en": "My Vision can't turn back time. But at least it gives me the power to protect the people that matter most.",
+        "zh": "「神之眼」，虽然无法停住时间，但是给了我守护重要之人的力量。"
+      },
+      "source_id": 24025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "На самом деле, моё физическое состояние намного лучше, чем у господина Бая...",
+        "en": "I may be a corpse, but I am in a much better physical condition than Dr. Baizhu.",
+        "zh": "其实我的身体状况比白先生好很多…"
+      },
+      "source_id": 24026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Иногда к аптеке прилетает стайка зябликов. Маленькая такая стайка.",
+        "en": "Sometimes I see finches near the pharmacy. A nice little group of finches.",
+        "zh": "药庐附近有时候会有小团雀出没，小小的一团。"
+      },
+      "source_id": 24027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Бай Чжу...",
+        "en": "About Baizhu",
+        "zh": "关于白术…"
+      },
+      "text": {
+        "ru": "Никак не запомню, как выглядит господин Бай, но это ничего...",
+        "en": "I can never remember Dr. Baizhu's face. But I don't mind.",
+        "zh": "我记不起来白先生的脸了，但是也没什么关系…"
+      },
+      "source_id": 24028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Ху Тао...",
+        "en": "About Hu Tao",
+        "zh": "关于胡桃…"
+      },
+      "text": {
+        "ru": "Жара, фальшивая улыбка и смерть... Ненавижу Ху Тао.",
+        "en": "Warm. Fake smile. Death. I despise Hu Tao.",
+        "zh": "高温、假笑和死亡…讨厌。"
+      },
+      "source_id": 24029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Сяо: Имя",
+        "en": "About Xiao: Name",
+        "zh": "关于魈·名字"
+      },
+      "text": {
+        "ru": "Хм, звучит как что-то антикварное...",
+        "en": "Sounds like a historical artifact to me.",
+        "zh": "唔，听起来像老古董…"
+      },
+      "source_id": 24030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Сяо: Память",
+        "en": "About Xiao: Memory",
+        "zh": "关于魈·记忆"
+      },
+      "text": {
+        "ru": "Я его уже видела?..",
+        "en": "Remind me, have I met him before?",
+        "zh": "我见过他吗…？"
+      },
+      "source_id": 24031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Синь Янь...",
+        "en": "About Xinyan",
+        "zh": "关于辛焱…"
+      },
+      "text": {
+        "ru": "...Кто?",
+        "en": "...Who?",
+        "zh": "…是谁？"
+      },
+      "source_id": 24032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Яо Яо...",
+        "en": "About Yaoyao",
+        "zh": "关于瑶瑶…"
+      },
+      "text": {
+        "ru": "Милая... Похожа на зяблика.",
+        "en": "Cute. Like a nice little finch.",
+        "zh": "可爱…像小团雀。"
+      },
+      "source_id": 24033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О малышке Мин...",
+        "en": "About Dusky Ming",
+        "zh": "关于小冥…"
+      },
+      "text": {
+        "ru": "Вечером... иногда такое ощущение, что кто-то делает гимнастику вместе со мной... Или кажется?",
+        "en": "On some nights, I almost feel like someone is doing stretches together with me. But maybe I just have an overactive imagination.",
+        "zh": "晚上…偶尔会感觉到有人和我一起做体操…是错觉吗？"
+      },
+      "source_id": 24034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Узнать больше о Ци Ци I",
+        "en": "More About Qiqi: I",
+        "zh": "想要了解七七·其一"
+      },
+      "text": {
+        "ru": "Что такое?",
+        "en": "What's going on?",
+        "zh": "有什么事吗？"
+      },
+      "source_id": 24035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Ци Ци II",
+        "en": "More About Qiqi: II",
+        "zh": "想要了解七七·其二"
+      },
+      "text": {
+        "ru": "Гимнастика позволяет мне сохранять подвижность, как у нормальных людей. Но стоит перестать и всё станет как раньше...",
+        "en": "I perform stretches regularly to help me maintain the same range of movement as a normal human being. But as soon as I stop doing them, the rigor mortis starts to set in again.",
+        "zh": "柔软体操，让我能够保持和人类一样的身体状态。但是如果放松下来的话，就会变回去…"
+      },
+      "source_id": 24036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Ци Ци III",
+        "en": "More About Qiqi: III",
+        "zh": "想要了解七七·其三"
+      },
+      "text": {
+        "ru": "Некоторые люди пытаются меня использовать, некоторые - боятся. Но ты... совсем другой. / Некоторые люди пытаются меня использовать, некоторые - боятся. Но ты... совсем другая.",
+        "en": "Some people want to take advantage of me. Others are terrified of me. But you... You are not like any of those people.",
+        "zh": "有的人想要利用我，有的人很害怕我。但是你…和他们都不一样。"
+      },
+      "source_id": 24037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Ци Ци IV",
+        "en": "More About Qiqi: IV",
+        "zh": "想要了解七七·其四"
+      },
+      "text": {
+        "ru": "С первой нашей встречи у меня появилось ощущение тепла. Не той жары, от которой мне нехорошо, а что-то другое. Тепло в моём сердце. Спасибо тебе... Я очень рада. Жаль, что я знаю только нынешнего тебя. Если я тебя забуду... то мы... нет, я прикажу себе помнить тебя. / С первой нашей встречи у меня появилось ощущение тепла. Не той жары, от которой мне нехорошо, а что-то другое. Тепло в моём сердце. Спасибо тебе... Я очень рада. Жаль, что я знаю только нынешнюю тебя. Если я тебя забуду... то мы... нет, я прикажу себе помнить тебя.",
+        "en": "Since we first met, I have had a warm feeling inside. Not the kind of warmth that makes me feel rotten. The other kind of warm. The one that happens inside my heart. Thank you. I am happy. Sadly I only recognize the current you. If I forget you... No. I will order myself to remember you.",
+        "zh": "从第一次见面开始，你就给我一种很温暖的感觉。和让人不舒服的热不一样，是我的心，感觉到了温暖。谢谢你…我很高兴。可惜我只认识现在的你，如果以后我忘记了…我们就…不，我会「命令」自己记住你。"
+      },
+      "source_id": 24038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Ци Ци V",
+        "en": "More About Qiqi: V",
+        "zh": "想要了解七七·其五"
+      },
+      "text": {
+        "ru": "Раньше я только хотела продолжать жить, хотя и не знала, зачем мне это... Но теперь я, кажется, знаю. Я хочу жить с тобой. Мы можем быть вместе всю жизнь?.. До самой смерти?.. Да или нет? Да? Правда? Хорошо! Я буду тебя защищать!",
+        "en": "In the past, my only thought was: I must stay alive. Even though I didn't know what to live for. But now, I think I know. I want to live with you. I want to ask, can we always stay together, for the rest of life, until death? Yes or no? Yes? Is that your real answer? Good, excellent. I promise to always protect you.",
+        "zh": "以前我只想要活下去，虽然不知道为了什么活下去…但现在我好像知道了，以后想要和你一起活下去。我、我们可以…永远一直在一起吗？啊…真的可以吗？嗯！我会保护好你的！"
+      },
+      "source_id": 24039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Хобби Ци Ци...",
+        "en": "Qiqi's Hobbies",
+        "zh": "七七的爱好…"
+      },
+      "text": {
+        "ru": "Хочу завести домашнее животное... типа зяблика.",
+        "en": "I want to have a pet. For example, a nice little finch.",
+        "zh": "想要一只小宠物…小团雀那样子的。"
+      },
+      "source_id": 24040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Беспокойство Ци Ци...",
+        "en": "Qiqi's Troubles",
+        "zh": "七七的烦恼…"
+      },
+      "text": {
+        "ru": "Не знаю почему, но от жары мне как-то неприятно в теле...",
+        "en": "I don't know why, but high temperatures make me feel... disgusting.",
+        "zh": "我不明白，但是，温度高会让身体很难受…"
+      },
+      "source_id": 24041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Мне нравится кокосовое молоко. Но... я не чувствую вкуса.",
+        "en": "I like coconut milk... But, I don't know what it tastes like.",
+        "zh": "喜欢椰奶。但是…尝不出味道。"
+      },
+      "source_id": 24042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Извини, я не знаю...",
+        "en": "Sorry, I have no idea.",
+        "zh": "对不起，我不知道…"
+      },
+      "source_id": 24043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Счастливых тебе воскрешений! Вот тебе мешочек с целебными травами. Удивлён, что я вспомнила? Когда ты мне сказал, я записала, а потом каждый день смотрела. Теперь это не сотрётся у меня из памяти. / Счастливых тебе воскрешений! Вот тебе мешочек с целебными травами. Удивлена, что я вспомнила? Когда ты мне сказала, я записала, а потом каждый день смотрела. Теперь это не сотрётся у меня из памяти.",
+        "en": "Many happy returns. Here is a bag of herbal medicine for you. You must be very surprised that I remembered? Let me explain. Last time you told me, I wrote your birthday down on a piece of paper. If I look at something once a day, it eventually goes into my long-term memory, and it will stay there forever.",
+        "zh": "生辰快乐。给，草药香囊。很惊讶吗？上次你告诉我的时候，我就记在纸上了。每天都看一遍的话，今后也不会忘记的…"
+      },
+      "source_id": 24044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "О, я стала сильнее?.. А как это? Объясни, пожалуйста. Спасибо.",
+        "en": "Now, I have more power. But... what does that mean? Please explain. Thank you.",
+        "zh": "啊，变强了吗…变强，是什么呢？"
+      },
+      "source_id": 24045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "А, поняла. Если стать сильнее, то нужно больше усилий, чтобы контролировать силу.",
+        "en": "Ah, I understand. When I get stronger, I need to put more effort into controlling my strength.",
+        "zh": "啊，理解了。变强之后，控制力量需要更多的精力了。"
+      },
+      "source_id": 24046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Раньше я не понимала, как это - стать сильнее. Но теперь... я хочу стать ещё немного сильнее.",
+        "en": "In the past, I did not understand the idea of being stronger than I already was. Now that I understand it well, I wish I was just a little stronger still.",
+        "zh": "以前我对更加强大并没有概念，但是现在…我希望能够再强一点。"
+      },
+      "source_id": 24047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Это всё благодаря тебе. Спасибо... Можно попросить тебя кое о чём? Отныне... я буду тебя защищать. Можно?",
+        "en": "All of this is because of you. Thank you very much. Can you make me a promise? From now on, please, let me protect you. Do you accept? Yes or no?",
+        "zh": "这一切都是因为你在，谢谢你…可以答应我一个愿望吗？今后…就让我来保护你吧，好不好？"
+      },
+      "source_id": 24048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Круговорот жизни.",
+        "en": "Wheel of life.",
+        "zh": "流转不息。"
+      },
+      "source_id": 24049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Жизнь продолжается.",
+        "en": "Life goes on.",
+        "zh": "生生不绝。"
+      },
+      "source_id": 24050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Иди.",
+        "en": "Go.",
+        "zh": "去。"
+      },
+      "source_id": 24051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Восстань.",
+        "en": "Rise.",
+        "zh": "起。"
+      },
+      "source_id": 24052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Приказы отданы. Приказы получены.",
+        "en": "Orders given. Orders received.",
+        "zh": "听诏，宣此诰命。"
+      },
+      "source_id": 24053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Священное имя: Хранитель Фортуны",
+        "en": "Sacred name: Fortune Preserver.",
+        "zh": "真名，度厄真君。"
+      },
+      "source_id": 24054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Открываю шкатулку Искусства Адепта.",
+        "en": "Opening box of Adepti tricks.",
+        "zh": "玉签，仙法开匣。"
+      },
+      "source_id": 24055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Быстрее? Ладно, быстрее.",
+        "en": "Faster? Okay, faster.",
+        "zh": "要更快一点吗？"
+      },
+      "source_id": 24056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Запуск планера I",
+        "en": "Deploying Wind Glider: I",
+        "zh": "打开风之翼·其一"
+      },
+      "text": {
+        "ru": "А?",
+        "en": "Uh... Huh...",
+        "zh": "欸？"
+      },
+      "source_id": 24057
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Красиво.",
+        "en": "Ooh, pretty.",
+        "zh": "好看。"
+      },
+      "source_id": 24059
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Сундук... Хм... Нам нравятся сундуки?",
+        "en": "Treasure chests... hmm... do we like treasure chests?",
+        "zh": "宝箱…有用吗？"
+      },
+      "source_id": 24060
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Разве секунду назад здесь ничего не было?..",
+        "en": "Wasn't there something in here a second ago...?",
+        "zh": "里面，是什么？不记得…"
+      },
+      "source_id": 24061
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Ох...",
+        "en": "Ow.",
+        "zh": "痛。"
+      },
+      "source_id": 24062
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "О нет...",
+        "en": "Oh no...",
+        "zh": "啊——"
+      },
+      "source_id": 24063
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Мне надо жить дальше...",
+        "en": "I must live on...",
+        "zh": "要活下去…"
+      },
+      "source_id": 24064
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Опасно.",
+        "en": "Danger.",
+        "zh": "危险。"
+      },
+      "source_id": 24065
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Стой. Позволь мне.",
+        "en": "Stop. Let me do it.",
+        "zh": "我来吧。"
+      },
+      "source_id": 24066
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Я не хочу... снова... в заточение...",
+        "en": "Don't want... to be sealed... back up...",
+        "zh": "还会...被封印吗…"
+      },
+      "source_id": 24067
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Холодно... Как холодно...",
+        "en": "Cold... So cold...",
+        "zh": "好冷…"
+      },
+      "source_id": 24068
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Нет...",
+        "en": "No...",
+        "zh": "不要…"
+      },
+      "source_id": 24069
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Пустяки.",
+        "en": "I didn't feel that.",
+        "zh": "没感觉…"
+      },
+      "source_id": 24070
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ух ты!",
+        "en": "Wow.",
+        "zh": "居然…"
+      },
+      "source_id": 24071
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Ой...",
+        "en": "Oh...",
+        "zh": "糟了…"
+      },
+      "source_id": 24072
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Я здесь.",
+        "en": "I'm here.",
+        "zh": "…我来了。"
+      },
+      "source_id": 24073
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Что происходит?",
+        "en": "What's happening?",
+        "zh": "有什么事吗？"
+      },
+      "source_id": 24074
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Я захвачу... свою тетрадь.",
+        "en": "I will... bring my notebook.",
+        "zh": "我带着…笔记。"
+      },
+      "source_id": 24075
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Холодненькое. Нравится. Но вкуса нет...",
+        "en": "Cold. I like it. But, no flavor...",
+        "zh": "凉凉的，很喜欢。虽然没有味道…"
+      },
+      "source_id": 24076
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Эм...",
+        "en": "Huh...",
+        "zh": "唔…"
+      },
+      "source_id": 24077
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Язык горит...",
+        "en": "It's burning my tongue...",
+        "zh": "有点烫…"
+      },
+      "source_id": 24078
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "О Прюн...",
+        "en": "About Prune",
+        "zh": "关于布伦妮…"
+      },
+      "text": {
+        "ru": "С виду она строгая... но руки у неё мягкие и тёплые. Она хорошая.",
+        "en": "She looks tough on the outside... but her palms are nice and soft. I like her.",
+        "zh": "外表硬硬的女孩…但手心很软。喜欢。"
+      },
+      "source_id": 24079
+    }
+  ],
+  "replica_count": 70
 }

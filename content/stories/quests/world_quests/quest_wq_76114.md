@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 76114
 # previous_quests: 
-# next_quests: quest_wq_76115
+# next_quests: 
 # related_quests: 
 # quest_chain: quest_wq_76114
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 76114
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -54,11 +56,11 @@
 
 **Ягода:** Господин Дервент, вы здесь?
 
-**Дервент:** ...Кто там?
+**Дервент?:** ...Кто там?
 
 **Ягода:** Это Ягода из Куратория тайн. Хотела задать вам пару вопросов.
 
-**Дервент:** ...Ладно, спрашивай. Я болен, вставать тяжело.
+**Дервент?:** ...Ладно, спрашивай. Я болен, вставать тяжело.
 
 **Ягода:** (Странно. Дети из Банды Раковины говорили, что господин Дервент учил их грамоте и говорил мягко, спокойно...)
 
@@ -66,31 +68,31 @@
 
 **Ягода:** Вам плохо? Может, врача позвать?
 
-**Дервент:** ...Нет, не надо. Скоро пройдёт.
+**Дервент?:** ...Нет, не надо. Скоро пройдёт.
 
 **Ягода:** Ладно. Как поправитесь - посетите Нашгород. Ваши друзья за вас волнуются.
 
-**Дервент:** ...
+**Дервент?:** ...
 
 **Ягода:** (...Почему он молчит? Кажется, в доме кто-то ходит, слышны тяжёлые шаги...)
 
 **Ягода:** Вы ведь почти не выходите из дома последнее время?
 
-**Дервент:** Потому что усиленно занимаюсь самосовершенствованием.
+**Дервент?:** Потому что усиленно занимаюсь самосовершенствованием.
 
 **Ягода:** Говорят, что и одеваетесь вы теперь не так, как раньше. Никто и не подумал бы, что вы такой крепкий, пока на вас была одежда отшельника.
 
 **Ягода:** И ещё эта маска, отсекающая энергию куувяки. Это что, новая мода?
 
-**Дервент:** ...Она отсекает лишний шум из внешнего мира.
+**Дервент?:** ...Она отсекает лишний шум из внешнего мира.
 
 **Ягода:** То есть это тоже часть вашего совершенствования?
 
-**Дервент:** ...
+**Дервент?:** ...
 
 **Ягода:** Недавно к вам заходил странствующий торговец. Вы не знаете, куда он потом ушёл?
 
-**Дервент:** ...Без понятия.
+**Дервент?:** ...Без понятия.
 
 **Ягода:** Х-хорошо... Тогда не буду больше мешать.
 
@@ -146,11 +148,11 @@ In the northern Lempo Isle, east of the Nothing Passage, lived a hermit called D
 
 **Jahoda:** Mr. Derwent? Are you home?
 
-**Derwent:** ...Who's there?
+**Derwent?:** ...Who's there?
 
 **Jahoda:** The name's Jahoda. I'm here from the Curatorium of Secrets. I was wondering if I could ask you a few questions...
 
-**Derwent:** ...You can ask from there. I'm ill, don't expect me to get up for you.
+**Derwent?:** ...You can ask from there. I'm ill, don't expect me to get up for you.
 
 **Jahoda:** (How strange... The Conch Gang kids said Mr. Derwent taught them how to read. They said he always spoke softly...)
 
@@ -158,31 +160,31 @@ In the northern Lempo Isle, east of the Nothing Passage, lived a hermit called D
 
 **Jahoda:** Are you alright? If it's serious, I could help you find a doctor...
 
-**Derwent:** ...No need. I'll be right in a bit.
+**Derwent?:** ...No need. I'll be right in a bit.
 
 **Jahoda:** Alright. In that case, you should head to Nasha Town when you're better — your friends have been worried about you.
 
-**Derwent:** ...
+**Derwent?:** ...
 
 **Jahoda:** (...Why's he not saying anything? I can hear someone walking around in there, but the footsteps are heavy...)
 
 **Jahoda:** Have you not been outside much recently?
 
-**Derwent:** ...I've been cultivating myself.
+**Derwent?:** ...I've been cultivating myself.
 
 **Jahoda:** Yeah, word on the street is that you've recently had a bit of a makeover... Someone was saying they couldn't believe how strong you look — they said you used to look so thin when you were wearing robes.
 
 **Jahoda:** And a mask to block out kuuvahki... Is that the latest fashion?
 
-**Derwent:** ...It's to block out the noise.
+**Derwent?:** ...It's to block out the noise.
 
 **Jahoda:** So you can better cultivate yourself...?
 
-**Derwent:** ...
+**Derwent?:** ...
 
 **Jahoda:** Anyway, there was a merchant who came to visit you not long ago. Do you know where he went?
 
-**Derwent:** ...No idea.
+**Derwent?:** ...No idea.
 
 **Jahoda:** A—Alright, then... Sorry to bother you.
 
@@ -238,11 +240,11 @@ In the northern Lempo Isle, east of the Nothing Passage, lived a hermit called D
 
 **雅珂达:** 德文特先生——您在家吗？
 
-**德文特:** …是谁？
+**德文特？:** …是谁？
 
 **雅珂达:** 是「秘闻馆」的雅珂达，有些事想要问问您，所以特意来拜访。
 
-**德文特:** …你就这么问吧。我病了，起不来。
+**德文特？:** …你就这么问吧。我病了，起不来。
 
 **雅珂达:** （奇怪，之前听海螺帮的孩子们说，德文特先生教他们认字，说话温声细语…）
 
@@ -250,31 +252,31 @@ In the northern Lempo Isle, east of the Nothing Passage, lived a hermit called D
 
 **雅珂达:** 您没事吧？如果病得厉害，我可以去请医生…
 
-**德文特:** …不用。过阵子就好了。
+**德文特？:** …不用。过阵子就好了。
 
 **雅珂达:** 好吧，那等您恢复了再去那夏镇吧，您的朋友也很牵挂您呢。
 
-**德文特:** ……
+**德文特？:** ……
 
 **雅珂达:** （…他怎么不说话了？能听到屋里有人走动的声音，不过步子很沉…）
 
 **雅珂达:** 您最近好像都没怎么出门吧？
 
-**德文特:** …是为了专心修行。
+**德文特？:** …是为了专心修行。
 
 **雅珂达:** 听说您近来的装扮也和过去不太一样，有人说完全没想到原来您那么健硕，之前穿隐者长袍的时候都没看出来。
 
 **雅珂达:** 呃，还有隔绝月矩力的面罩…是新的流行吗？
 
-**德文特:** …是为了隔绝外界的杂音。
+**德文特？:** …是为了隔绝外界的杂音。
 
 **雅珂达:** 也是为了修行？
 
-**德文特:** ……
+**德文特？:** ……
 
 **雅珂达:** 那前阵子拜访过您的游商，您知道他在那之后去哪儿了吗？
 
-**德文特:** …不知道。
+**德文特？:** …不知道。
 
 **雅珂达:** 好、好吧…那我就先不打扰了。
 

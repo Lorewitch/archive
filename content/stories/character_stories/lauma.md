@@ -349,3 +349,860 @@ So she held that puzzling Moon Wheel in her palm, silently reciting the three pr
 然后她马上制止了自己，以免陷入谎言的陷阱。
 又或许这就是这枚月之轮的作用，是对她的警戒、限制，与以及责任的象征。
 于是她将那枚令她不解的月之轮握在手心，在心中又默念了一遍三条戒律。
+
+# voice_source_ids: 119000,119001,119002,119003,119004,119005,119006,119007,119008,119009,119010,119011,119012,119013,119014,119015,119016,119017,119018,119019,119020,119021,119022,119023,119024,119025,119026,119027,119028,119029,119030,119031,119032,119033,119034,119035,119036,119037,119038,119039,119040,119041,119042,119043,119044,119045,119046,119047,119048,119049,119050,119051,119052,119053,119054,119055,119056,119057,119058,119059,119060,119061,119062,119063,119064,119065,119066,119067,119068
+
+## REPLICAS_RU
+
+### Привет...
+
+Открой глаза. Меня зовут Лаума, и здесь, в тишине этого леса, свет Морозной Луны щедро озаряет всех. Глаза небес будут следить за тобой, куда бы ни лежал твой путь. А теперь закрой глаза... ты больше не заблудишься.
+
+### Поболтаем: Лунный свет
+
+Даже когда ночь прошла, даже когда небо скрыто от глаз, Луна всегда освещает тебя своим светом.
+
+### Поболтаем: Животные
+
+Если когда-нибудь ты заметишь, что животные в Нод-Крае ведут себя необъяснимым образом, спроси меня, и я всё разъясню.
+
+### Поболтаем: Путешествия
+
+Уже знаешь, куда пойдёшь дальше? Если нет, давай найдём участок с мягкой травой и немного отдохнём.
+
+### Когда идёт дождь...
+
+Ах, снова приближается сезон пробуждения природы...
+
+### Когда гремит гром...
+
+Его мимолётное сияние даже труднее уловить, чем лунный свет.
+
+### Когда идёт снег...
+
+Я слышала, что нельзя слишком долго смотреть на ярко-белую поверхность... Это правда? Но это так красиво, что я не могу отвести взгляд...
+
+### В пустыне...
+
+Когда Нефер рассказала мне об этом месте, я с трудом могла себе его представить... Но вот я здесь, вижу всё своими глазами.
+
+### Доброе утро...
+
+Доброе утро. Да снизойдёт на тебя благословение Богини Луны, ночью и днём.
+
+### Доброе утро...
+
+Доброе утро. Ночью или днём, пусть лунный свет соединит нас
+
+### Добрый день...
+
+Ой, я заснула? Прости. Чем могу помочь?
+
+### Добрый вечер...
+
+Сегодня лунный свет такой умиротворяющий. Прогуляемся по лесу?
+
+### Спокойной ночи...
+
+Звёзды на небе пожелали друг другу спокойной ночи. Настал наш черёд.
+
+### О Лауме: Долг
+
+Учение без законов - сборник хитростей, а лидер без совести - ложный бог. Там, где есть люди, нужны правила. Даже Детям Морозной Луны, которые разделяют общую веру, правила необходимы, чтобы направлять их.
+
+### О Лауме: Успокоение
+
+Я Голос Лунного Гимна, и в мои обязанности входит слушать о бедах своего народа, а затем успокаивать их беспокойные умы. Но, как мне кажется, я провожу большую часть времени, слушая разговоры животных... Хе-хе...
+
+### О нас: Ручьи
+
+Ручей в лесу всегда стремится к морю. Возможно, наша встреча была предначертана судьбой.
+
+### О нас: Растения
+
+Деревья пускают корни глубоко в землю, к непостижимой Бездне, а их ветви тянутся к звёздам, далеко за пределы неба. Пусть и наше будущее даст нам безграничные возможности для роста и процветания.
+
+### О Лунном колесе...
+
+Это знак милости богов, который, по слухам, является мерилом человеческих стремлений.
+Почему «по слухам»? Хм... Потому, что нет возможности подтвердить это.
+
+### Давай поделимся...
+
+Поставьте блюдо под Луной и наполните его водой, а затем расскажите ему обо всех своих радостях и печалях. Если на поверхности воды появится отражение Луны, значит, на тебя снизошло благословение лунного света.
+
+### Интересные вещи...
+
+Хочешь узнать, что о тебе думают животные? Хе-хе... об этом можно рассказывать много лун.
+
+### Об Инеффе...
+
+Многие в Нод-Крае подвергают себя модификациям, но полностью механические тела - это совсем другое... И всё же она более человечна, чем многие блуждающие души. Она нежна, добра и любознательна. Можно сказать, что она настолько человек, насколько это вообще возможно.
+
+### Об Айно...
+
+Она очень одарённый ребёнок, но судьба не была к ней благосклонна. Её изобретения помогли многим людям - Нод-Край должен гордиться тем, что она является его уроженкой. Если она когда-нибудь захочет жить среди Детей Морозной Луны, я позабочусь о том, чтобы все её потребности в питании были удовлетворены, начиная с большого количества свежих фруктов, овощей и родниковой воды.
+
+### О Флинсе...
+
+Он производит впечатление очень вежливого и обходительного человека, но по какой-то причине животные боятся его... Я настороже в его присутствии, но поскольку я его почти не знаю и у меня нет доказательств его вины, я воздержусь от суждений. Каждый раз, когда он будет проходить мимо Анклава Морозной Луны, я буду угощать его «Хлебом нашим насущным».
+...Что? Его имя слишком длинное, но в остальном он нормальный...? Хм... Правда?
+
+### О Нефер...
+
+Очевидно, что мы разные люди с разными подходами к делу, но я никогда не считала, что это помешает нам ладить друг с другом.
+Независимо ни от чего, лунный свет всегда будет благосклонно освещать её.
+
+### О Ягоде...
+
+До того как мы объединились, чтобы проникнуть в Экспериментальное конструкторское бюро, я не знала о ней почти ничего. Только то, что она работает в Куратории тайн в качестве верной помощницы Нефер. Наверное, нелегко быть между Нефер, с одной стороны, и всевозможными клиентами, с другой. Я всегда мечтала однажды показать ей настоящее гостеприимство Детей Морозной Луны... Хех, интересно, что Нефер рассказала ей обо мне.
+
+### О Варке...
+
+Несмотря на то, что Нод-Край является многонациональным регионом, редко когда можно увидеть, чтобы приезжий так легко влился в местную жизнь. В его отношении к людям есть естественная теплота, которую я очень ценю. Помню, когда мы впервые встретились, он был в восторге от еды Детей Морозной Луны... Я не помню, чтобы мы когда-либо делили с ним еду, но не сомневаюсь в его искренности.
+
+### О Куутар...
+
+Никто не учит новорождённое божество, как жить в гармонии со своими последователями. У неё, вероятно, было очень трудное прошлое...
+В надежде достичь примирения, я обратилась к ней с просьбой, которая, вероятно, показалась ей невежливой. Она утверждает, что предпочитает жить в одиночестве, но я не перестаю мечтать о том дне, когда Куутар и Дети Морозной Луны, Луна и её последователи, соберутся за одним столом.
+
+### Узнать больше о Лауме I
+
+Посмотри на Луну. Она всегда там, всегда неподвижна и всегда безмолвна.
+
+### Узнать больше о Лауме II
+
+Во многих местах убывающая луна воспринимается как предзнаменование несчастья.
+Возможно, люди забывают, что Луны тоже страдают от несчастий... Они не желали себе такой судьбы, не желали быть уничтоженными.
+
+### Узнать больше о Лауме III
+
+Иногда мне кажется, что люди ожидают от меня большей благочестивости, чем от богини, которую я представляю. Верующие проявляют бесконечную терпимость к своенравному поведению своего божества, но не прощают того же его посланнику.
+
+### Узнать больше о Лауме IV
+
+Фрукты начинают источать запах алкоголя, когда слишком долго лежат на воздухе. Я не пью, но этот запах всегда меня успокаивает... Наверное, это знак того, что мне не стоит начинать пить, как думаешь?
+
+### Узнать больше о Лауме V
+
+Среди Детей Морозной Луны часто можно увидеть малышей, бегающих с белой простынёй над головой. Взрослые говорят им, что это защищает их от несчастья, поскольку белая ткань напоминает лунный свет. Когда они вырастают, то вместо этого начинают молиться Луне с наступлением ночи.
+И я? Конечно, это неотъемлемая часть взросления. Мы все когда-то были детьми.
+
+### Хобби Лаумы
+
+Мне нравится проводить время в одиночестве в темноте ночи. Птицы и звери успокаиваются, и единственный звук, который я слышу, - это ветер, тихо шелестящий в кронах деревьев... Вокруг тишина и покой.
+
+### Беспокойство Лаумы...
+
+Голова... тяжёлая.
+
+### Любимая еда...
+
+Простая еда с минимальным количеством приправ. Это не имеет ничего общего с моими убеждениями или пищевыми ограничениями, просто я считаю, что лёгкая пища мне больше подходит.
+
+### Нелюбимая еда...
+
+Слишком жирное или слишком сухое... Это не для меня.
+
+### Подарок I
+
+Такие свежие ингредиенты... Не могу представить, скольких усилий это стоило. С радостью поделюсь ими со своим народом... Что? Всё для меня одной?..
+
+### Подарок II
+
+Спасибо за подарок. Давай разделим его.
+
+### Подарок III
+
+Наверняка есть те, кто нуждается в пропитании больше, чем я. Я поищу.
+
+### День рождения...
+
+Я дарю этот благословенный кинжал тебе, нашему почётному гостю, которого ласкают лунный свет и наш тихий лес. Кинжал не обязательно должен быть орудием насилия. Его часто используют как символический предмет в молитвенных церемониях.
+Разумеется, ты можешь использовать его для любых целей по своему усмотрению.
+
+### Чувство возвышения: Начало
+
+Не ищи лёгких путей...
+
+### Чувство возвышения: Нарастание
+
+Не стремись к великой силе...
+
+### Чувство возвышения: Кульминация
+
+Но если твоя цель - узнать правду...
+
+### Чувство возвышения: Окончание
+
+Я принесу в жертву свою кровь и слёзы ради тех, кто ищет истину.
+
+### Элементальный навык I
+
+Лес, защити нас.
+
+### Элементальный навык II
+
+Бедная, заблудшая овечка...
+
+### Элементальный навык III
+
+Ступай.
+
+### Элементальный навык IV
+
+Великолепный, словно лунный свет.
+
+### Элементальный навык V
+
+Ода лесному ветру.
+
+### Элементальный навык VI
+
+Благословляю тебя.
+
+### Взрыв стихии I
+
+Да останется неизменной Морозная Луна.
+
+### Взрыв стихии II
+
+Пусть лес будет вечным.
+
+### Взрыв стихии III
+
+Мы молимся единодушно.
+
+### Открытие сундука I
+
+Не унывай. Твои труды не напрасны.
+
+### Открытие сундука II
+
+Мироздание благословляет тебя.
+
+### Открытие сундука III
+
+Возможно, это сокровище ждало тебя всё это время.
+
+### Низкий уровень HP I
+
+Хр-р...
+
+### Низкий уровень HP II
+
+Это испытание для меня...
+
+### Низкий уровень HP III
+
+Нужно поразмыслить над своим поведением.
+
+### Низкий уровень HP компаньона I
+
+Найди убежище в тени леса.
+
+### Низкий уровень HP компаньона II
+
+Вернись в объятия Морозной Луны.
+
+### Без сознания I
+
+О лес, прими мои сломанные рога...
+
+### Без сознания II
+
+Приливы и отливы... закончились...
+
+### Без сознания III
+
+Безлунная ночь... приближается.
+
+### Получен тяжёлый удар I
+
+Прошу, не надо...
+
+### Получен тяжёлый удар II
+
+...Серьёзное нарушение.
+
+### Присоединяется к группе I
+
+Следуй за мной и наслаждайся мягким светом Луны.
+
+### Присоединяется к группе II
+
+Даже когда наступает тьма, верующие не должны сбиваться с праведного пути.
+
+### Присоединяется к группе III
+
+Не бойся, ибо я с тобой.
+
+## REPLICAS_EN
+
+### Hello
+
+Open your eyes. My name is Lauma, and here in the stillness of these woods, the light of the frost moon shines down generously on all. The gaze of the heavens will fall on you wherever you go. Now, close your eyes... you are no longer lost.
+
+### Chat: Moonlight
+
+Even when the night is gone, and even when the sky is hidden from view, still the moon shines its light upon you.
+
+### Chat: Animals
+
+If ever you find that the animals in Nod-Krai behave in ways you do not understand, just ask me, and I will explain.
+
+### Chat: Journey
+
+Have you decided where you will go from here? If not, why not find a patch of soft grass and rest awhile?
+
+### When It Rains
+
+Ah, the season of verdure draws near once again...
+
+### When Thunder Strikes
+
+Gone in a flash... A light harder to grasp even than that of the moon.
+
+### When It Snows
+
+I heard that you're not supposed to stare at bright-white surfaces for too long... is that really true? It's so beautiful, I can't look away...
+
+### In the Desert
+
+When Nefer told me about this place, I could hardly imagine it... But here I am, seeing it with my own two eyes.
+
+### Good Morning
+
+Good morning. Come night or day, may the blessings of the Moon Goddess shine down upon you.
+
+### Good Morning
+
+Good morning. Come night or day, may the moonlight connect us.
+
+### Good Afternoon
+
+...Oh, I must have drifted off. Sorry. If you need anything, please ask.
+
+### Good Evening
+
+The moonlight is so calm tonight. Join me for a walk in the woods.
+
+### Good Night
+
+The stars above have bidden each other good night. Now, it falls to us to do the same.
+
+### About Lauma: Responsibility
+
+A doctrine without laws is but a book of tricks, and a leader without conscience is a false god. Wherever communities of people gather, rules are needed. Even for the Frostmoon Scions, who share a common faith, rules are indispensable to guide them.
+
+### About Lauma: Soothing Troubled Minds
+
+As the Moonchanter, I'm supposed to listen while my flock shares their woes, then soothe their troubled minds. But I seem to spend most of my time listening to the chatter of the animals instead... hehe...
+
+### About Us: Streams
+
+Perhaps fate ordained that our paths would cross, just as it ensures that every stream in the forest finds its way to the sea.
+
+### About Us: Trees
+
+Trees send roots down deep into the earth, towards the unfathomable Abyss, while their branches climb up towards the stars, far beyond the sky. May our future, too, provide endless room to grow and to flourish.
+
+### About the Moon Wheel
+
+This is a sign of the gods' mercy, which is, allegedly, a measure of human aspiration.
+Why "allegedly"? Well... because there's no way to verify it.
+
+### Something to Share
+
+Place a dish beneath the moon and fill it with water, then tell it all your joys and sorrows. If a reflection of the moon appears on the water's surface, you have the moonlight's blessing.
+
+### Interesting Things
+
+You want to know what the animals think of you? Haha... that tale is one that would take many moons to tell.
+
+### About Ineffa
+
+It's not unusual to come across prosthetically augmented people in Nod-Krai, but a wholly mechanical person from the inside out is quite a different story... And yet, she has far more humanity than many of the errant souls out there. She's gentle, kind, and full of curiosity. You could say she's as human as can be.
+
+### About Aino
+
+She is a very precocious child, but fate has not given her an easy ride. Her inventions have helped many people — Nod-Krai should feel honored to count her as one of their own. If she ever wished to come and live among the Frostmoon Scions, I would make sure that all her nutritional needs are met, starting with plenty of fresh fruit, vegetables, and spring water.
+
+### About Flins
+
+He comes across as very polite and courteous, but for some reason the animals seem to fear him... I will keep my guard up around him — but since I barely know him and have no evidence of wrongdoing, I will also reserve judgment. Whenever he passes by the Frostmoon Enclave, I will share some of the daily harvest with him.
+...What? His name's too long, but otherwise he's fine..? Uh... Are you sure?
+
+### About Nefer
+
+Clearly, we are different people with different ways of doing things, but I have never taken that to mean that we cannot get along.
+No matter what, the light of the moon will always fall favorably upon her.
+
+### About Jahoda
+
+I didn't know much about her before we partnered up to infiltrate the Experimental Design Bureau — only that she worked for the Curatorium of Secrets as Nefer's trusted assistant. It can't be easy, being caught between Nefer on the one hand and all manner of clients on the other. I've always wished I could show her some proper Frostmoon Scions hospitality one day... Heh, I'm also a little curious to know what Nefer has said to her about me.
+
+### About Varka
+
+As cosmopolitan as Nod-Krai may be, it's rare to see an outsider integrate as readily as he has. There is a natural warmth to the way he treats people, which I highly admire. I remember the first time we met, he was full of praise for the Frostmoon Scions' delicious food... Oddly enough, I don't recall ever having shared any food with him, and yet I still believe he was being sincere.
+
+### About Kuutar
+
+No one teaches a newborn god how to live in harmony with their followers. She must have had a very difficult past...
+In the hopes of achieving some sort of reconciliation, I made a request of her that must have seemed a little rude. She claims that she prefers living alone, but I still dream of a day that Kuutar and the Frostmoon Scions, the moon and her believers, can come together and share a toast.
+
+### More About Lauma: I
+
+Look at the moon. It is always there, ever still and ever silent.
+
+### More About Lauma: II
+
+In many places, a waning moon is seen as an omen of ill fortune.
+Perhaps people forget that the moons, too, are the victims of misfortune... Their destruction was not a fate that they wished upon themselves.
+
+### More About Lauma: III
+
+Sometimes, it feels like people expect more "godliness" from me than the god I represent. Believers seem to have infinite tolerance for unruly or capricious behavior by their god, but not by that same god's emissaries.
+
+### More About Lauma: IV
+
+Fruit start to give off an alcoholic smell when they've been left out for too long. I don't drink, but I always find that scent relaxes me... Probably a sign that I shouldn't take up drinking, don't you think?
+
+### More About Lauma: V
+
+Among the Frostmoon Scions, you'll often see kids running around holding a white sheet above their heads. The adults tell them that it protects them from bad luck, since being draped in white cloth looks a lot like being covered in moonlight. Of course, they get to a certain age and stop doing that — instead, they start praying to the moon at nightfall.
+Me? Of course, it's a rite of passage. We were all children once.
+
+### Lauma's Hobbies
+
+I enjoy spending time in solitude in the darkness of night. The birds and beasts quiet down, and the only sound I can hear is the wind blowing gently through the trees... Everything is so peaceful.
+
+### Lauma's Troubles
+
+My head... it's so heavy to carry around.
+
+### Favorite Food
+
+Simple food, with minimal seasoning. It has nothing to do with my beliefs or dietary restrictions, I just find that lighter food is what agrees with me.
+
+### Least Favorite Food
+
+Anything too greasy, or too dry... It's just not for me.
+
+### Receiving a Gift: I
+
+Such fresh ingredients... I can't imagine the lengths you went to. I will gladly share it with my flock... What? All for me...?
+
+### Receiving a Gift: II
+
+Thank you for your kind gift. Let us both share it.
+
+### Receiving a Gift: III
+
+There must surely be those in greater need than I of sustenance. I will watch out for them.
+
+### Birthday
+
+To you, our honored guest, cherished by the moonlight and our tranquil forest, I give this blessed dagger. For a dagger does not have to be an object of violence — indeed, they are often used as symbolic items in prayer ceremonies.
+That said, you're of course free to use it for whatever purpose you wish.
+
+### Feelings About Ascension: Intro
+
+I seek not to tread the expedient path...
+
+### Feelings About Ascension: Building Up
+
+Nor do I yearn to wield great power...
+
+### Feelings About Ascension: Climax
+
+But if our goal in all of this is to find the truth...
+
+### Feelings About Ascension: Conclusion
+
+I shall offer my blood and tears as a truth seeker.
+
+### Elemental Skill: I
+
+Forest, protect us.
+
+### Elemental Skill: II
+
+You poor, lost lamb...
+
+### Elemental Skill: III
+
+Leave this place.
+
+### Elemental Skill: IV
+
+Lush as the moonlight.
+
+### Elemental Skill: V
+
+Branch into song.
+
+### Elemental Skill: VI
+
+Receive my blessing.
+
+### Elemental Burst: I
+
+By the Frostmoon of old.
+
+### Elemental Burst: II
+
+For the everlasting forest.
+
+### Elemental Burst: III
+
+With one heart, we pray.
+
+### Opening Treasure Chest: I
+
+Take heart. You toil not in vain.
+
+### Opening Treasure Chest: II
+
+The world wishes you well.
+
+### Opening Treasure Chest: III
+
+Perhaps this treasure has been waiting for you all along.
+
+### Low HP: I
+
+*pant*
+
+### Low HP: II
+
+I am being tested...
+
+### Low HP: III
+
+Have I brought this on myself?
+
+### Ally at Low HP: I
+
+Seek refuge in the shade of the forest.
+
+### Ally at Low HP: II
+
+Return to the Frostmoon's embrace.
+
+### Fallen: I
+
+O forest, take my broken crown...
+
+### Fallen: II
+
+The ebb and flow... is over...
+
+### Fallen: III
+
+A moonless night... approaches...
+
+### Heavy Hit Taken: I
+
+Stay your hand...
+
+### Heavy Hit Taken: II
+
+...A grave transgression.
+
+### Joining Party: I
+
+Follow me, and bask in the soft light of the moon.
+
+### Joining Party: II
+
+Even when darkness falls, the faithful shall not stray from the righteous path.
+
+### Joining Party: III
+
+Do not be afraid, for I am with you.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+睁开眼睛。我名菈乌玛，此地乃霜月之光慷慨弥散的谧林。无论去往何方，皆在天目所及之处。现在，闭上眼睛，你不再迷路了。
+
+### 闲聊·月光
+
+即使不在夜晚，即使看不到天空，月光也从未消散。
+
+### 闲聊·动物
+
+在挪德卡莱，如果有动物的行为让你不解，可以来找我。
+
+### 闲聊·旅途
+
+想好要去哪边了吗？或者，找块草坪休息一会吧。
+
+### 下雨的时候…
+
+啊，又快到草木繁茂的季节了…
+
+### 打雷的时候…
+
+一瞬的闪耀，比月光更难捕捉…
+
+### 下雪的时候…
+
+听说不能长时间注视如此纯粹的白，是这样的吗？我还挺喜欢的…
+
+### 在沙漠的时候…
+
+听奈芙尔提过世界上有像这样的地方…原来是这般风貌。
+
+### 早上好…
+
+早安。月神保佑，不论日夜。
+
+### 早上好…
+
+早安。月光联系着你我，不论日夜。
+
+### 中午好…
+
+…啊，我刚刚打瞌睡了吗？抱歉。有什么需要，请讲吧。
+
+### 晚上好…
+
+今晚的月光很平静。要一起去树林里走走吗？
+
+### 晚安…
+
+群星已互道过晚安，轮到我们了。
+
+### 关于菈乌玛自己·责任
+
+诸律无法则为把戏，人之无心即为伪神。无论何地，人群聚集的地方都需要规则。即使是像「霜月之子」这样有着共同信仰的地方，也必须要有属于人的规矩。
+
+### 关于菈乌玛自己·解忧
+
+我本应是听取教众烦恼、为他人解忧的神使，但很多时候却在听动物们叽喳呢…呵呵…
+
+### 关于我们·溪流
+
+林间溪流总是朝向大海而行，或许我们的相遇也是既定的命运。
+
+### 关于我们·草木
+
+草木扎根于泥土，向上，也同时向下生长。星辰与深渊都难以穷尽，希望我们的未来亦是如此。
+
+### 关于「月之轮」…
+
+这是神明的慈悲，据称以愿望衡量。
+为什么说「据称」？嗯…因为没有地方去确认啊。
+
+### 有什么想要分享…
+
+置一盆水于月下，对其诉说你的快乐与烦恼吧。如果月影应邀浮现在水面，那么你便得到了月光的祝福。
+
+### 感兴趣的见闻…
+
+想听动物们对你的评价吗？呵呵…那可能得讲上好多轮月升月落。
+
+### 关于伊涅芙…
+
+在挪德卡莱有不少经过义体改造的人，但全身都由机械构成就是别的问题了…不过转念一想，和那些心怀不轨的人相比，如此温和、友善、又充满好奇心的她，反而更像理想化的人类呢。
+
+### 关于爱诺…
+
+十分聪慧，却又命运坎坷的孩子。她的发明帮助了许多人，挪德卡莱应当为拥有这样的宝物感到荣幸。如果她想来霜月之坊生活，我一定会保证她营养充足，摄取足够的新鲜蔬果与甘泉。
+
+### 关于菲林斯…
+
+他看上去是位很讲究礼节的先生，然而动物们却似乎畏惧着他的存在…我会保持警惕，但不想在没有证据的前提下就对不熟悉的人妄下定论。每次他路过霜月之坊时，我都会让他收下一份今日收获。
+你说他不是坏人，只是名字太长…嗯…真的吗？
+
+### 关于奈芙尔…
+
+她和我的行事风格很不一样，但我始终认为，我们并不是无法相处的类型。
+无论如何，月光都会庇佑她的。
+
+### 关于雅珂达…
+
+在结伴潜入试验设计局前，我只知道她是「秘闻馆」的成员，是奈芙尔值得信赖的部下。夹在奈芙尔和各种客户之间一定很辛苦吧，我一直想好好招待她一次…呵呵，不知道奈芙尔以前是怎么在她面前称呼我的呢。
+
+### 关于法尔伽…
+
+虽然挪德卡莱一向人员混杂，但也很难见到比这位先生融入得更好的外乡人了。他待人接物时有一种天然的亲和力，是难能可贵的品质。记得第一次见面，他便向我称赞「霜月之子」分发餐品的美味…虽然我不记得自己曾给过他任何食物，但奇怪的是，我并不怀疑他的诚恳。
+
+### 关于「库塔尔」…
+
+新生的神明无法从任何地方学到与信众共处的方法，过去的她一定很难过吧…
+为了能找到调和这种关系的办法，我对神明提出了近乎无礼的要求。虽然她声称自己的确更喜欢独处，但我总还是怀有一丝希望，希望有朝一日，「库塔尔」与「霜月之子」，明月与仰望明月的人，能够在同一片天空下共饮。
+
+### 想要了解菈乌玛·其一
+
+看看月亮吧。它永远在那里，无声无息。
+
+### 想要了解菈乌玛·其二
+
+在很多地方，残月都是厄运的征兆。
+但月亮并不是自己想要破碎的…它们也只是命运颠簸的结果。
+
+### 想要了解菈乌玛·其三
+
+有时，神的代言人需要比神本身表现得更有「神性」，这样才能符合人们的期待。信众对神明的任性往往表现出超脱常识的宽容，但对使节就不一样了。
+
+### 想要了解菈乌玛·其四
+
+水果放得时间稍微长一点，就会散发酒的味道。我没有喝酒的习惯，但闻到这种气味时总觉得会更放松些…我，应该不太适合喝酒吧？
+
+### 想要了解菈乌玛·其五
+
+「霜月之子」的小孩子们，很喜欢将轻薄的白纱举过头顶奔跑，因为大人们总是哄他们说，身披白纱就像被月光照拂，一切灾厄都将被隔绝在外。不过一旦过了一定年纪，大家便不再这样嬉闹，转而对着夜幕下苍白的月色礼拜。
+我也做过么？当然。人都是从小孩开始，一点一点长大的。
+
+### 菈乌玛的爱好…
+
+我喜欢漆黑的夜色中，独自一人的时光。只有风吹过树叶的声响，鸟兽也不再言语。这样最安静。
+
+### 菈乌玛的烦恼…
+
+头顶…很重。
+
+### 喜欢的食物…
+
+无关戒律与信仰，清淡的饮食对我来说最易入口。
+
+### 讨厌的食物…
+
+油脂丰富，或者缺乏水汽的…我适应不来。
+
+### 收到赠礼·其一
+
+这样新鲜的食材，让你费心了，就由我带给教众们吧。…什么，只给我吗？
+
+### 收到赠礼·其二
+
+感谢你的礼物，不如一起分享吧。
+
+### 收到赠礼·其三
+
+应该有比我更需要的人，我会帮你留意的。
+
+### 生日…
+
+一柄带着祝福的匕首，赠与被月辉与谧林宠爱的贵客。匕首并非一定是凶物，偶尔也作为礼器在祝祷仪式中出现。
+当然，你想用它做什么都是自由的。
+
+### 突破的感受·起
+
+不可贪求捷径…
+
+### 突破的感受·承
+
+不可贪享力量…
+
+### 突破的感受·转
+
+若一切都是为了与「真实」相见——
+
+### 突破的感受·合
+
+我愿意为此献上求道者的血泪。
+
+### 元素战技·其一
+
+苍林的守护。
+
+### 元素战技·其二
+
+迷途之子啊…
+
+### 元素战技·其三
+
+去吧。
+
+### 元素战技·其四
+
+如月辉绽放。
+
+### 元素战技·其五
+
+林风之颂。
+
+### 元素战技·其六
+
+带去我的祝福。
+
+### 元素爆发·其一
+
+愿霜月如故。
+
+### 元素爆发·其二
+
+愿林野如初。
+
+### 元素爆发·其三
+
+祈祷，为众心之所向。
+
+### 打开宝箱·其一
+
+对辛劳者的赠礼。
+
+### 打开宝箱·其二
+
+是世界在对你示好。
+
+### 打开宝箱·其三
+
+或许，它一直在等你的到来。
+
+### 生命值低·其一
+
+呼…
+
+### 生命值低·其二
+
+是对我的考验…
+
+### 生命值低·其三
+
+应当反省。
+
+### 同伴生命值低·其一
+
+密林的影子会为你掩护。
+
+### 同伴生命值低·其二
+
+送还霜月的怀抱。
+
+### 倒下·其一
+
+深林啊，请收下，这折断的角冠…
+
+### 倒下·其二
+
+月汐的扰动，终于结束了…
+
+### 倒下·其三
+
+无月的夜幕…降临。
+
+### 重受击·其一
+
+请别这样…
+
+### 重受击·其二
+
+…不义之举。
+
+### 加入队伍·其一
+
+走吧，去月色温柔的地方。
+
+### 加入队伍·其二
+
+圣者自会走上正途，无光亦然。
+
+### 加入队伍·其三
+
+无需顾虑，我应愿而来。

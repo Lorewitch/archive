@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 74692
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74692
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
@@ -25,10 +25,17 @@
 # quest_collections: witch_revelation
 
 # quest_series_ru: Пророчество ведьмы
+# game_source_ids: 74692
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 20
 
 ## RU
 
 ### Пророчество ведьмы: Указания фирменного коктейля
+
+#### Журнал
+
+**Барбелот:** Как интересно... Не ожидала, что «возмущение» внутри тебя разрастается с такой силой.
 
 У гадального киоска Барбелот вы встречаете Диону...
 
@@ -60,19 +67,33 @@
 
 **Диона:** (Но раз она так хорошо разбирается в предсказаниях, её советы действительно могут быть полезны... Нужно выбирать тщательно!)
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не пугай ребёнка.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Давненько не виделись, Диона.
+
+##### Общее продолжение
 
 **Диона:** А? Путешественник и Паймон?
 
 **Барбелот:** Как всегда вовремя. Это так на тебя похоже.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Спасибо за комплимент.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Чувство времени - моя сильная сторона.
 
-- **Путешественник:** Иначе как бы я (справлялась)(справлялся) с таким количеством поручений?
+##### Вариант ответа 3
+
+- **Путешественник:** Иначе как бы я справлялся с таким количеством поручений? / Иначе как бы я справлялась с таким количеством поручений?
+
+##### Общее продолжение
 
 **Барбелот:** Ха-ха-ха, верно. По сравнению с неосязаемостью судьбы, вознаграждение гораздо более ощутимо влияет на наши слова и поступки.
 
@@ -80,13 +101,19 @@
 
 **Паймон:** Как можно доверять странной гадалке, которая поставила свой киоск в глухомани?
 
-**Диона:** (Путешественник, кажется, хорошо знаком(а) с этой гадалкой? Отлично, наконец-то можно расспросить надёжного человека!)
+**Диона:** (Путешественник, кажется, хорошо знаком с этой гадалкой? Отлично, наконец-то можно расспросить надёжного человека!) / (Путешественник, кажется, хорошо знакома с этой гадалкой? Отлично, наконец-то можно расспросить надёжного человека!)
 
 **Диона:** ...Путешественник, Паймон, подойдите сюда, я хочу спросить вас кое о чём.
 
-- **Путешественник:** Я тоже хотел(а) кое о чём спросить...
+##### Вариант ответа 1
+
+- **Путешественник:** Я тоже хотел кое о чём спросить... / Я тоже хотела кое о чём спросить...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Что ты делаешь в Фонтейне?
+
+##### Общее продолжение
 
 **Диона:** Ищу новые ингредиенты, это же очевидно! Хм, мой прежний подход к приготовлению коктейлей был слишком ограничен... Я всё время замыкалась на пищевых продуктах...
 
@@ -94,17 +121,29 @@
 
 **Диона:** В общем, на съедобном! Если сжать зубы и закрыть глаза, то можно заставить себя проглотить всё что угодно.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Так что ты собираешься найти?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Что-то совершенно несъедобное?
+
+##### Общее продолжение
 
 **Диона:** Ага, например... я уже нашла множество ржавых винтов, старых кабелей и затвердевших кусков масляной краски.
 
 **Диона:** Я смогла всё это найти благодаря дяде из Исследовательского института Фонтейна, который делает Фонту.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Айнри?!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Вы знакомы?
+
+##### Общее продолжение
 
 **Диона:** Хм... Я слышала, что самые вкусные газированные напитки делают в Исследовательском институте Фонтейна, поэтому первым делом собиралась туда заглянуть.
 
@@ -138,25 +177,37 @@
 
 **Диона:** Ты... ты ведь не обманешь меня? Путешественник, скажи...
 
+##### Вариант ответа 1
+
 - **Путешественник:** На госпожу Барбелот можно положиться.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Не переживай, вытяни карту.
 
+##### Общее продолжение
+
 **Диона:** ...Ладно, раз уж Путешественник так говорит, тогда вытяну одну...
 
-*Под пристальным взглядом Барбелот Диона протягивает руку и медленно вытягивает Лунный аркан...*
+Под пристальным взглядом Барбелот Диона протягивает руку и медленно вытягивает Лунный аркан...
 
 **Диона:** Я... я вытянула. Это...
 
-**Барбелот:** Как интересно... Не ожидала, что «возмущение» внутри тебя разрастается с такой силой.
+**Барбелот:** Как любопытно... Не ожидала, что «возмущение» вокруг тебя так разрослось.
 
 **Барбелот:** Оно больше не росток, а крепкая ветвь. Очень интересно...
 
 **Диона:** А? Что это значит? Мои коктейли будут становиться всё вкуснее и вкуснее?!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не похоже, чтобы это было что-то плохое...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Но если вспомнить всё, что мы знаем о том, что движет Дионой...
+
+##### Общее продолжение
 
 **Барбелот:** Судя по твоему состоянию, так и есть. К тому же ты вытянула перевёрнутую «Верховную Жрицу».
 
@@ -202,9 +253,15 @@
 
 **Диона:** Спасибо, что составили мне компанию, Путешественник и Паймон.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не стоит благодарности.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Если понадоблюсь, обращайся в любое время.
+
+##### Общее продолжение
 
 **Паймон:** Именно! Что бы ни случилось, Паймон и Путешественник сразу примчатся к тебе на помощь.
 
@@ -225,6 +282,14 @@
 **Диона:** Ага, запомнила! Астомо... мантер Барбелот Трисмегистус... Фух, какое длинное имя...
 
 **Диона:** Кстати, у Моны тоже ведь очень длинное имя. Кажется, оно называется Астроло... Как же там...
+
+#### Послушайте историю Дионы...
+
+#### Послушайте историю Дионы...
+
+#### Выслушайте историю Дионы...
+
+#### Покиньте историю
 
 ## EN
 
@@ -260,19 +325,33 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **Diona:** (But since she's so good at it, her advice could prove really helpful... I have to choose my card carefully!)
 
+##### Response branch 1
+
 - **Traveler:** You're scaring her.
 
+##### Response branch 2
+
 - **Traveler:** Long time no see, Diona.
+
+##### Shared continuation
 
 **Diona:** Huh? Traveler, Paimon?
 
 **Barbeloth:** True to form, here you are at just the right moment.
 
+##### Response branch 1
+
 - **Traveler:** You're too kind.
+
+##### Response branch 2
 
 - **Traveler:** Timing is my strong suit.
 
+##### Response branch 3
+
 - **Traveler:** How else could I handle so many commissions?
+
+##### Shared continuation
 
 **Barbeloth:** Hahaha, well said. Compared to an intangible thing like Fate, commissions have a far more intuitive effect on shaping our words and deeds.
 
@@ -284,9 +363,15 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **Diona:** ...Traveler, Paimon, come over here a second. I need to talk to you in private.
 
+##### Response branch 1
+
 - **Traveler:** I was just about to ask...
 
+##### Response branch 2
+
 - **Traveler:** What are you doing in Fontaine?
+
+##### Shared continuation
 
 **Diona:** Looking for new ingredients, of course! Hmph, my previous approach to mixing drinks was far too narrow-minded... I kept limiting myself to actual food...
 
@@ -294,17 +379,29 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **Diona:** Weeeell, it's all technically edible! As long as you grit your teeth and close your eyes, it's stuff you can force yourself to swallow.
 
+##### Response branch 1
+
 - **Traveler:** So, you're planning to find...
 
+##### Response branch 2
+
 - **Traveler:** Completely inedible ingredients?
+
+##### Shared continuation
 
 **Diona:** Exactly! ...I've already found a bunch of rusted screws, scrapped cables, coagulated chunks of grease, dustbunnies, toejam...
 
 **Diona:** And it's all thanks to that guy from the Fontaine Research Institute who makes Fonta. He's been a real help!
 
+##### Response branch 1
+
 - **Traveler:** You know Heinry!?
 
+##### Response branch 2
+
 - **Traveler:** Where did you run into him?
+
+##### Shared continuation
 
 **Diona:** Well... I heard that really tasty fizzy drink stuff comes from the Fontaine Research Institute, so I headed over to take a look.
 
@@ -338,13 +435,19 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **Diona:** You... you're not just humoring me, are you? Traveler, what do you think...
 
+##### Response branch 1
+
 - **Traveler:** Barbeloth is very reliable.
+
+##### Response branch 2
 
 - **Traveler:** Just relax and draw a card.
 
+##### Shared continuation
+
 **Diona:** ...Alright, if you say so, then I'll take one...
 
-*Under Barbeloth's watchful gaze, Diona reaches out and slowly draws a Lunar Arcanum...*
+Under Barbeloth's watchful gaze, Diona reaches out and slowly draws a Lunar Arcanum...
 
 **Diona:** Alright, h—here we go. Looks like it's...
 
@@ -354,9 +457,15 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **Diona:** Huh? W—What are you saying? Does... does this mean the drinks I mix will taste even better from now on!?
 
+##### Response branch 1
+
 - **Traveler:** That doesn't sound like a bad thing in itself...
 
+##### Response branch 2
+
 - **Traveler:** But given everything we know about Diona's motivations...
+
+##### Shared continuation
 
 **Barbeloth:** If we judge solely by your affliction, that would indeed be the case. Furthermore, the card you drew is the reversed High Priestess.
 
@@ -402,9 +511,15 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **Diona:** And thank you for helping me out, Traveler and Paimon.
 
+##### Response branch 1
+
 - **Traveler:** You're welcome!
 
+##### Response branch 2
+
 - **Traveler:** If you ever need help, just let me know.
+
+##### Shared continuation
 
 **Paimon:** No matter the trouble, Paimon and Traveler will swoop in and save the day!
 
@@ -426,9 +541,21 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **Diona:** Come to think of it, isn't Mona's name really long, too? I think it was... the Astrolo... What was it again?
 
+#### Listen to Diona's story...
+
+#### Listen to Diona's story...
+
+#### Finish listening to Diona's story
+
+#### Leave the story
+
 ## ZH
 
 ### 魔女的谕示·特调之谕
+
+#### 任务记录
+
+**芭比洛斯:** …哦呀，真是奇了…没想到你身上的那团「扰动」居然成长地如此茁壮。
 
 在芭比洛斯的占卜摊前，你遇见了迪奥娜…
 
@@ -460,19 +587,33 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **迪奥娜:** （但她既然是这么厉害的占卜师，那她的建议，说不定真能帮上我…必须认真选才行！）
 
+##### 对话分支 1
+
 - **旅行者:** 别吓小孩了。
 
+##### 对话分支 2
+
 - **旅行者:** 好久不见，迪奥娜。
+
+##### 共同后续
 
 **迪奥娜:** 咦？旅行者，小派蒙？
 
 **芭比洛斯:** 不愧是你，每次都出现得恰到好处。
 
+##### 对话分支 1
+
 - **旅行者:** 谢谢夸奖。
+
+##### 对话分支 2
 
 - **旅行者:** 我很擅长及时出现。
 
+##### 对话分支 3
+
 - **旅行者:** 不然怎么处理那么多委托。
+
+##### 共同后续
 
 **芭比洛斯:** 呵呵呵呵呵，确实如此，比起捉摸不透的「命运」，还是实打实的委托更能直观地塑造人的言行啊。
 
@@ -484,9 +625,15 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **迪奥娜:** …旅行者，小派蒙，过来过来，我悄悄问你们点事。
 
+##### 对话分支 1
+
 - **旅行者:** 我正好也想问问…
 
+##### 对话分支 2
+
 - **旅行者:** 迪奥娜怎么来枫丹了？
+
+##### 共同后续
 
 **迪奥娜:** 当然是为了寻找新的调酒材料啦。哼，我之前的调酒思路还是太狭窄了，总是找食材用来调酒…
 
@@ -494,17 +641,29 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **迪奥娜:** 总、总之，都是一些能入口的东西嘛！只要咬着牙闭着眼，怎么样都能吃下肚子。
 
+##### 对话分支 1
+
 - **旅行者:** 所以，你打算找一些…
 
+##### 对话分支 2
+
 - **旅行者:** 压根不能入口的东西？
+
+##### 共同后续
 
 **迪奥娜:** 是啊，比如…我已经拿到了好多锈蚀的螺丝、废弃的线缆、凝结的油污块，还有…
 
 **迪奥娜:** 还是多亏了枫丹科学院那个做枫达的大叔帮忙，我才能顺利找到这么多好东西。
 
+##### 对话分支 1
+
 - **旅行者:** 安里？
 
+##### 对话分支 2
+
 - **旅行者:** 你怎么遇见他了？
+
+##### 共同后续
 
 **迪奥娜:** 嗯…我之前就听说，那种很好喝的气泡饮料是枫丹科学院做的，所以一开始就打算过去看看。
 
@@ -538,25 +697,37 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **迪奥娜:** 你…你不会骗我吧？旅行者，你说…
 
+##### 对话分支 1
+
 - **旅行者:** 芭比洛斯女士很可靠的。
+
+##### 对话分支 2
 
 - **旅行者:** 放轻松抽一张牌吧。
 
+##### 共同后续
+
 **迪奥娜:** …好吧，既然旅行者都这么说了，那我就抽一张…
 
-*在芭比洛斯的注视下，迪奥娜伸出手，缓缓抽出了一张「月谕圣牌」…*
+在芭比洛斯的注视下，迪奥娜伸出手，缓缓抽出了一张「月谕圣牌」…
 
 **迪奥娜:** 我、我抽好了。这张牌是…
 
-**芭比洛斯:** …哦呀，真是奇了…没想到你身上的那团「扰动」居然成长地如此茁壮。
+**芭比洛斯:** …哦呀，真是奇了…没想到你身上的那团「扰动」居然成长得如此茁壮。
 
 **芭比洛斯:** 它已经不再是「新苗」，而是一根健壮的枝干了。真是奇了…
 
 **迪奥娜:** 啊？什么意思，是…是我以后调酒会越来越好喝的意思吗？！
 
+##### 对话分支 1
+
 - **旅行者:** 听着不像是坏事…
 
+##### 对话分支 2
+
 - **旅行者:** 但从气势上来说也不算好事呢…
+
+##### 共同后续
 
 **芭比洛斯:** 如果单从你的体质上来说，确实会如此。而且，你抽到的牌是逆位的「女祭司」。
 
@@ -602,9 +773,15 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 
 **迪奥娜:** 也谢谢你们陪我，旅行者，还有小派蒙。
 
+##### 对话分支 1
+
 - **旅行者:** 没事的。
 
+##### 对话分支 2
+
 - **旅行者:** 之后要帮忙的话，随时叫我。
+
+##### 共同后续
 
 **派蒙:** 没错。无论是什么麻烦事，我和旅行者都会马上赶过去帮你的。
 
@@ -625,3 +802,11 @@ You encounter Diona at Barbeloth's fortune-telling booth...
 **迪奥娜:** 嗯，我记住了！亚斯妥…妥曼瑟·芭比洛斯·崔斯梅姬斯图斯…好长的名字…
 
 **迪奥娜:** 这么说来，莫娜姐姐的名字是不是也很长，好像是叫阿斯托洛吉…什么来着…
+
+#### 聆听迪奥娜的故事…
+
+#### 聆听迪奥娜的故事…
+
+#### 听完迪奥娜的故事
+
+#### 离开故事

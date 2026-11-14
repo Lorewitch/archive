@@ -265,3 +265,959 @@ The moment she realized this, a Vision began to shine brightly at her hip.
 安柏察觉到，她不该等待谁人的指引，而应成为充满勇气的飞鸟，振翅飞向苍穹。
 一定存在「只有我才会做的事」，一定存在「只有我才能做到的事」。
 理解这一点的瞬间，一颗「神之眼」在安柏腰间绽放出璀璨光辉。
+
+# voice_source_ids: 10100,10101,10102,10103,10104,10105,10106,10107,10108,10109,10110,10111,10112,10113,10114,10115,10116,10117,10118,10119,10120,10121,10122,10123,10124,10125,10126,10127,10128,10129,10130,10131,10132,10133,10134,10135,10136,10137,10138,10139,10140,10141,10142,10143,10144,10145,10146,10147,10148,10149,10150,10151,10152,10153,10154,10155,10156,10159,10160,10161,10162,10163,10164,10165,10166,10167,10168,10169,10170,10171,10172,10173,10174,10175,10176,10177,10178,10179,10180
+
+## REPLICAS_RU
+
+### Привет...
+
+Скаут Эмбер готова к службе! Найдите меня, если вам понадобится помощь!
+
+### Поболтаем: Увлечения
+
+Хочется пробежаться.
+
+### Поболтаем: Волнения
+
+Джинн расстроится, если увидит, что мы валяем дурака.
+
+### Поболтаем: Открытия
+
+Смотри, что это там? Пойдём проверим!
+
+### Когда идёт дождь: Тревога
+
+О нет, пошёл дождь... Теперь моя форма вся промокнет...
+
+### Когда идёт дождь: Напоминание
+
+Снова пошёл дождь... Наша видимость уменьшится, мы должны быть начеку.
+
+### После дождя...
+
+Ого! Погода такая классная!
+
+### Когда светит солнце...
+
+Если бы только ветер был немного сильнее...
+
+### Когда дует ветер: Удовлетворение
+
+Ветерок такой приятный...
+
+### Когда дует ветер: Отдых
+
+Мне нравится такая погода. Ах... Так расслабляет!
+
+### Доброе утро...
+
+Доброе утро! Хочешь пойти на утреннюю пробежку вместе?
+
+### Добрый день...
+
+Можно пообедать вместе с тобой?
+
+### Добрый вечер...
+
+Темнеет... Мне зажечь факел?
+
+### Спокойной ночи...
+
+Правильно, отдых очень важен! Встретимся завтра здесь же, пока!
+
+### Об Эмбер...
+
+Чемпион полётов Мондштадта. Да, это я!
+
+### О нас: Соревнования
+
+Запомни, что я не уступлю победу даже тебе!
+
+### О нас: Полёты
+
+Когда я учу тебя летать, сама чувствую, что могу лететь ещё быстрее... Что? Почему ты смеёшься? Я докажу это! Давай наперегонки, прямо сейчас!
+
+### Глаз Бога...
+
+Мой Глаз Бога - это знак того, что Архонты верят в меня. Да, я должна стать лучшим скаутом!
+
+### Давай поделимся...
+
+Вид с башен собора просто великолепный, тебе обязательно надо туда подняться!
+
+### Интересные вещи...
+
+Смотри, это голуби! Эх... Я бы хотела летать вместе с ними.
+
+### О Джинн: Помощь
+
+После того как магистр ордена отправился в экспедицию, все дела ордена, большие и маленькие, легли на плечи Джинн. Я так хочу ей помочь...
+
+### О Джинн: Забота
+
+Джинн всё ещё работает? Нам следует пригласить её на кофе... Пойдём!
+
+### О Лизе: Истории
+
+Мы должны заглянуть к Лизе, когда выдастся свободная минутка! Когда мы виделись в последний раз, она рассказывала историю о сокровище на Драконьем хребте, но тогда её отвлекли, и она не смогла закончить. Не могу дождаться услышать конец этой истории!
+
+### О Лизе: Восторг
+
+Если Лиза не спит, то она читает! Не понимаю, как ей это удаётся, я бы не смогла сидеть так долго и не шевелиться.
+
+### О Кэйе: Тревога
+
+У меня странное предчувствие... Ты недавно общался с Кэйей? Он не досаждал тебе? / У меня странное предчувствие... Ты недавно общалась с Кэйей? Он не досаждал тебе?
+
+### О Кэйе: Смутьян
+
+С одуванчиками в саду что-то не так... Я уверена, что Кэйа имеет к этому какое-то отношение!
+
+### О Беннете...
+
+Кто? Беннет? Хм... Кажется, я уже слышала это имя. Ах, точно! Это тот непоседливый парень из Гильдии искателей приключений! Я иногда натыкаюсь на него в своих патрулях. Кажется, он очень любит искать сокровища.
+
+### О Кли...
+
+Кли? Иногда она бывает капризной, но все в Ордо Фавониус её обожают. Но всё же... мне нужно следить за ней, иначе Джинн снова посадит её под замок.
+
+### Об Альбедо...
+
+Всё своё время Альбедо проводит в своей мастерской, копаясь в своём крутом оборудовании. Но при разговоре с ним никогда непонятно, о чём он думает... Кто знает, что творится у него в голове...
+
+### О Ноэлль...
+
+Хочешь спросить о Ноэлль? Она очень-очень сильная. Но всё же она младше нас, поэтому нам нужно заботиться о ней.
+
+### Об Эоле...
+
+Эола - моя лучшая подруга! Как только ты привыкнешь к её шуткам, ты увидишь, что она на самом деле очень милая. Тем не менее из-за её фамилии люди часто относятся к ней предвзято. Как можно заставить людей понять её?
+
+### Узнать больше об Эмбер I
+
+А я отличный охотник! Хочешь посмотреть, на что я способна? А хочешь устроить охотничье состязание?
+
+### Узнать больше об Эмбер II
+
+А теперь я раскрою тебе самый главный секрет чемпиона полётов! Самое главное - это быть храбрым!
+
+### Узнать больше об Эмбер III
+
+У меня не получается решать загадки. Во время Луди Гарпастума я всегда обхожу сцену с загадками стороной... А ты любишь загадки?
+
+### Узнать больше об Эмбер IV
+
+Я присоединилась к рыцарям из-за дедушки, осталась из-за Джинн, а благодаря тебе увидела мир за стенами Мондштадта. Я так счастлива!
+
+### Узнать больше об Эмбер V
+
+Я хочу увидеть другие миры, хочу знать, насколько велика вселенная! Ты же будешь со мной, да? Будешь?
+
+### Хобби Эмбер...
+
+Барон Зайчик, смотрите, какой сегодня безупречный день!
+
+### Беспокойство Эмбер...
+
+А ты знаешь, как печь вкусные лунные пироги?
+
+### Любимая еда...
+
+Джинн готовит невероятно вкусный кофе! Тебе обязательно стоит его попробовать.
+
+### Нелюбимая еда...
+
+Я могу вытерпеть всё что угодно, но только не холодный сок из волчьих крюков... Фу...
+
+### День рождения...
+
+С днём рождения тебя! Вот, держи, это мой подарок - Барон Зайчик, особый экземпляр. Я сама его сшила для тебя, а это значит, что он не взорвётся. Не бойся!
+
+### Чувство возвышения: Начало
+
+Да! Быстра как ветер!
+
+### Чувство возвышения: Нарастание
+
+На такой скорости никто не сможет меня обогнать!
+
+### Чувство возвышения: Кульминация
+
+Небеса над Мондштадтом стали меньше... или это мой взгляд стал видеть дальше?
+
+### Чувство возвышения: Окончание
+
+Кажется, что с нашей первой встречи я стала намного сильнее. Хи-хи, спасибо тебе большое! Можно, я угощу тебя медовым мясом с морковкой? Ну давай же, пойдём!
+
+### Элементальный навык I
+
+Взять!
+
+### Элементальный навык II
+
+Вперёд, Барон Зайчик!
+
+### Элементальный навык III
+
+♪М-ммм-ммм-ммм... М-ммм-ммм-ммм...
+
+### Взрыв стихии I
+
+От моего взгляда не ускользнуть!
+
+### Взрыв стихии II
+
+Град стрел!
+
+### Взрыв стихии III
+
+Вам не сбежать!
+
+### Начало спринта I
+
+Встретимся там!
+
+### Начало спринта II
+
+Спорим, ты меня не догонишь!
+
+### Конец спринта I
+
+Говорю же - победа за мной!
+
+### Конец спринта II
+
+Так-то лучше!
+
+### Запуск планера I
+
+Чемпион полётов Мондштадта. Да, это я!
+
+### Запуск планера II
+
+Я не подведу!
+
+### Открытие сундука I
+
+Открывать сундук - всё равно что разворачивать подарок!
+
+### Открытие сундука II
+
+Скаут Эмбер нашла ещё одну цель!
+
+### Открытие сундука III
+
+Ого, это пригодится!
+
+### Низкий уровень HP I
+
+Я никогда не сдамся!
+
+### Низкий уровень HP II
+
+Ай! Злюка...
+
+### Низкий уровень HP III
+
+*тяжело дышит* О... ты... заплатишь за это!
+
+### Низкий уровень HP компаньона I
+
+Осторожно!
+
+### Низкий уровень HP компаньона II
+
+Эй... Нужна помощь?
+
+### Без сознания I
+
+Больше нет сил...
+
+### Без сознания II
+
+Надо больше... тренировок...
+
+### Без сознания III
+
+Победа за тобой...
+
+### Получен лёгкий удар I
+
+Эй!
+
+### Получен тяжёлый удар I
+
+Эй, не так сильно!
+
+### Получен тяжёлый удар II
+
+Это жульничество!
+
+### Присоединяется к группе I
+
+Предоставь это мне!
+
+### Присоединяется к группе II
+
+Приготовились!
+
+### Присоединяется к группе III
+
+Скаут Эмбер, докладываю!
+
+### Подарок I
+
+Ого! Как вкусно, да ты превосходный повар!
+
+### Подарок II
+
+Хотела бы я готовить так же хорошо...
+
+### Подарок III
+
+Эм, я просто не привыкла к такому вкусу, прости! Ты здесь совершенно ни при чём!
+
+### О Коллеи...
+
+Коллеи мне написала, что её элеазар совсем прошёл... Я так за неё рада! Очень хотелось бы подлететь к ней и крепко-крепко обнять! Ещё она говорит, что очень по всем в Мондштадте соскучилась и, как будет готова, обязательно к нам приедет и всё расскажет... Ах, было бы здорово, если бы она успела к следующему Луди Гарпастуму. Скорее бы её увидеть!
+
+### О Мике...
+
+О, Мика - ветеран отряда Эолы. Поначалу он всё время называл меня «командир» - наверное, потому что у меня неплохие отношения с Эолой. Потом я рассказала ему, что я скаут, но он всё равно обращается ко мне на «вы»... Мне очень неловко. У нас разные обязанности, он специалист по картографии, и в этом мне с ним никогда не сравниться.
+
+## REPLICAS_EN
+
+### Hello
+
+Outrider Amber reporting for duty! Just say the word if you ever need my help!
+
+### Chat: Hobbies
+
+I feel like running.
+
+### Chat: Longings
+
+Jean will be upset if she catches us lazing around like this.
+
+### Chat: New Discoveries
+
+Hey, there's something strange over there... C'mon, let's take a look!
+
+### When It Rains: Worries
+
+Oh no, it's raining... now my uniform will get all wet...
+
+### When It Rains: Reminder
+
+It's raining again... This will hinder our vision, we must remain vigilant!
+
+### After the Rain
+
+Wow~ This weather is awesome!
+
+### When the Sun Is Out
+
+If only the wind was a little stronger...
+
+### When It's Windy: Pleasant
+
+This breeze... so refreshing!
+
+### When It's Windy: Relax
+
+I love this kind of weather, ahh... so relaxing~
+
+### Good Morning
+
+Morning! Want to go on a jog?
+
+### Good Afternoon
+
+Can I get lunch with you?
+
+### Good Evening
+
+It's getting late, should I light a torch?
+
+### Good Night
+
+Agreed, getting rest is essential! Let's meet here tomorrow then. See ya!
+
+### About Amber
+
+Mondstadt Gliding Champion, yep, that's me! Gliding Champion!
+
+### About Us: Contests
+
+Remember that I don't go easy on anyone, even you!
+
+### About Us: Gliding
+
+When I'm teaching you to glide, I feel like I can go even faster than usual... Huh? What are you laughing at? I'll prove it! We can race — right now!
+
+### About the Vision
+
+My Vision... Is a sign that the Archons believe in me. Yes, I must become the best Outrider I can possibly be!
+
+### Something to Share
+
+The view from the Cathedral's clock tower is amazing! You should check it out.
+
+### Interesting Things
+
+Look, there's a pigeon over there! *giggle* I wish I could fly alongside them.
+
+### About Jean: Help
+
+After the Grand Master left on his expedition, all the affairs of the Knights of Favonius, both big and small, have been left up to Jean. If only there was more I could do to help her...
+
+### About Jean: Care
+
+Jean might still be working? We should invite her for coffee... Let's go.
+
+### About Lisa: Listening to Stories
+
+When you have time, we should go see Lisa! Last time I saw her, she was telling me about a story involving a treasure in the Dragonspine area. But, we got cut off before she could finish. I can't wait to hear the rest of her story!
+
+### About Lisa: Admiration
+
+If Lisa's not sleeping, she'll be reading! I don't know how she does it, I wouldn't be able to sit still for that long.
+
+### About Kaeya: Concerns
+
+...I'm feeling uneasy all of a sudden! Was that Kaeya with you earlier? Did he give you any trouble?
+
+### About Kaeya: Culprit
+
+There's something weird-looking about the dandelions in the garden... Hmm, I bet Kaeya had something to do with this!
+
+### About Bennett
+
+Hmm? Bennett... I feel like I've heard that name before... Oh! Yes, he's that hot-blooded guy from the Adventurers' Guild, right! I tend to come across him way out in the wild from time to time, he seems to really love treasure hunting.
+
+### About Klee
+
+Klee? She can be a bit cheeky sometimes, but everyone in the Knights of Favonius likes her. Although... I really ought to keep a closer eye on her if I wanna keep her from getting put in confinement by Jean again.
+
+### About Albedo
+
+Albedo spends most of his time in his workshop, tinkering away with all of his awesome stuff. But, when you see him in person, you can never quite tell what he is thinking, not a clue at all.
+
+### About Noelle
+
+You wanna know about Noelle? She's super resilient. Still, since she's younger than us, we should look out for her.
+
+### About Eula
+
+Eula is a great friend of mine! You just need to get used to her sense of humor and you'll get along fine! The only reason she's misunderstood by so many people is her family name. How can I get them to see her for who she really is?
+
+### More About Amber: I
+
+I'm a pro at hunting, you know! How about I show you some of my skills? Or even better... how about a little competition?
+
+### More About Amber: II
+
+I'll share my ultimate Gliding Champion secret with you! The most important thing to remember, is to have courage!
+
+### More About Amber: III
+
+I'm really not that good with riddles. I always try to avoid the riddles stand during Ludi Harpastum... What about you?
+
+### More About Amber: IV
+
+I joined the Knights because of my grandpa, I stayed because of Jean. And now, you're the one that showed me the world beyond Mondstadt. I couldn't be happier.
+
+### More About Amber: V
+
+I would like to explore the other worlds beyond. I wanna see how deep the rabbit hole goes! You'll keep me company, right?
+
+### Amber's Hobbies
+
+Baron Bunny, today is another squeaky clean day!
+
+### Amber's Troubles
+
+Oh... Do you have any idea how to make a decent Moon Pie?
+
+### Favorite Food
+
+Jean makes the most amazing cup of coffee! You'll have to try it sometime.
+
+### Least Favorite Food
+
+I can handle anything and everything! As long as it isn't cold Wolfhook juice... Ugh, yuck...
+
+### Birthday
+
+Hey, happy birthday! Here, I have a gift for you: an exclusive, custom-made version of Baron Bunny that I sewed for you myself. Uh... don't worry, "custom-made" means that it won't explode!
+
+### Feelings About Ascension: Intro
+
+Yeah! As fast as riding the wind!
+
+### Feelings About Ascension: Building Up
+
+At this speed, no one can keep up with me!
+
+### Feelings About Ascension: Climax
+
+The skies over Mondstadt seem to have gotten smaller... or is it that my sight reaches further than ever before?
+
+### Feelings About Ascension: Conclusion
+
+It seems that now... I've improved so much compared to when we first met! Hehe, thank you so much! Let me treat you to a Sticky Honey Roast! Let's go, let's go!
+
+### Elemental Skill: I
+
+Get them!
+
+### Elemental Skill: II
+
+Go go Baron Bunny!
+
+### Elemental Skill: III
+
+♪Hmm~ hmm~ hmm~ hmm~ hmm~
+
+### Elemental Burst: I
+
+No one escapes my sights!
+
+### Elemental Burst: II
+
+Let it rain!
+
+### Elemental Burst: III
+
+No escape!
+
+### Sprint Start: I
+
+I'll race you there!
+
+### Sprint Start: II
+
+Betcha can't keep up with me!
+
+### Sprint End: I
+
+Told you I'd win.
+
+### Sprint End: II
+
+That's more like it!
+
+### Deploying Wind Glider: I
+
+Get ready for the Gliding Champion of Mondstadt!
+
+### Deploying Wind Glider: II
+
+I won't let you down!
+
+### Opening Treasure Chest: I
+
+Opening a chest is like unwrapping a gift!
+
+### Opening Treasure Chest: II
+
+Another target tracked down by Outrider Amber!
+
+### Opening Treasure Chest: III
+
+Wow, these will come in handy!
+
+### Low HP: I
+
+I'll never surrender!
+
+### Low HP: II
+
+Ouch! Meanie...
+
+### Low HP: III
+
+*panting* Ugh... You'll... pay for that!
+
+### Ally at Low HP: I
+
+Take cover!
+
+### Ally at Low HP: II
+
+Hey... Need some help?
+
+### Fallen: I
+
+Tired...
+
+### Fallen: II
+
+Must keep... training...
+
+### Fallen: III
+
+You got me...
+
+### Light Hit Taken: I
+
+Hey!
+
+### Heavy Hit Taken: I
+
+Ugh, not so hard!
+
+### Heavy Hit Taken: II
+
+That's cheating!
+
+### Joining Party: I
+
+Leave it to me!
+
+### Joining Party: II
+
+At the ready!
+
+### Joining Party: III
+
+Outrider Amber, reporting!
+
+### Receiving a Gift: I
+
+Wow! This is delicious, you're an amazing cook!
+
+### Receiving a Gift: II
+
+I wish I was as good at cooking as you...
+
+### Receiving a Gift: III
+
+Uh, I'm just not used to this taste, sorry! Nothing to do with you of course!
+
+### About Collei
+
+Collei wrote to me saying that her Eleazar has been completely cured... I'm so happy for her! I wish I could fly to her side right now and give her the biggest hug! She also said she misses everyone in Mondstadt, and that once she's ready, she'll come visit us in person and tell us all about her progress... Oh, it would be great if she could make it in time for the next Ludi Harpastum. Aaah I can't wait to see her again!
+
+### About Mika
+
+Oh! Mika's a veteran of Eula's team. When he first arrived, it was always "Yes, Commander!" every time he spoke to me — I guess it must have been because he saw how close I was with Eula. But then, even after I told him I was actually an Outrider, he still called me "Ma'am"... It was so embarrassing. We have completely different responsibilities, after all. I definitely could never match his expertise in cartography.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+侦察骑士安柏，前来报到！今后有什么需要帮忙的，尽管说好啦！
+
+### 闲聊·兴趣
+
+好想跑一会儿步呀。
+
+### 闲聊·挂念
+
+要是被琴发现我们在偷懒，她会不高兴的。
+
+### 闲聊·新发现
+
+那边好像有什么奇怪的东西耶…不去看吗、不去看看吗？
+
+### 下雨的时候·担忧
+
+下雨了…蝴蝶结会淋湿的…
+
+### 下雨的时候·提醒
+
+下雨了啊…视野会有影响，要小心哦。
+
+### 雨过天晴…
+
+唔哇~天气真好。
+
+### 阳光很好…
+
+嗯…要是风大点就好了。
+
+### 起风的时候·惬意
+
+真舒服呀…
+
+### 起风的时候·放松
+
+我喜欢这种天气，嗯…真轻松！
+
+### 早上好…
+
+早上好哟！要不要一起晨跑？
+
+### 中午好…
+
+可以跟你一起吃午饭吗？
+
+### 晚上好…
+
+天黑了，要我点个火把吗？
+
+### 晚安…
+
+没错，休息也很重要！那就说好了哦，明天见！
+
+### 关于安柏自己…
+
+蒙德城的飞行冠军，就是我啦！
+
+### 关于我们·比赛
+
+就算是你，比赛我也不会放水！
+
+### 关于我们·飞行
+
+教你飞…与你一起飞行的时候，我自己好像也能飞得更快…欸，你在笑什么啊？来比赛吧！现在就比！
+
+### 关于「神之眼」…
+
+「神之眼」，是神对我的认可吧。嗯，我要成为最优秀的侦察骑士才行！
+
+### 有什么想要分享…
+
+走嘛~去大教堂的钟楼上看看，风景超棒的！
+
+### 感兴趣的见闻…
+
+看，那里有鸽子！嗯…想跟它们一起飞呢。
+
+### 关于琴·帮忙
+
+大团长出征之后，大大小小的事务都压在了琴的身上。如果我也能多帮到她一点就好了…
+
+### 关于琴·关怀
+
+琴可能还在工作？…走，一起请她喝杯咖啡吧。
+
+### 关于丽莎·听故事
+
+等你有空，我们一起去找丽莎吧！她上次和我讲了一个龙脊雪山宝藏的故事，只讲到一半。唔，我还想知道后续！
+
+### 关于丽莎·钦佩
+
+丽莎好像除了睡觉的时间都在看书！真厉害啊，我就坐不住那么长时间。
+
+### 关于凯亚·忧虑
+
+…有种不安的感觉！刚才是凯亚陪着你吧？他没给你添麻烦吧？
+
+### 关于凯亚·祸首
+
+花圃里的蒲公英看上去蔫蔫的，哼…一定又是凯亚捣的鬼！
+
+### 关于班尼特…
+
+嗯？班尼特…好像在哪里听过…哦！你说的是冒险家协会那个热血的男孩子啊！嗯，我有时会在秘境附近见到他，好像对寻宝很有热情呢。
+
+### 关于可莉…
+
+可莉呀，偶尔会有点调皮，但骑士团的大家都很喜欢她！唔…为了不让她又被琴抓去关禁闭，还是看紧她一点吧。
+
+### 关于阿贝多…
+
+阿贝多，大多数时候都呆在自己的工坊里，捣鼓一些很厉害的东西。但是，见到他的时候，会有种猜不透他在想些什么的感觉。嗯，猜不透呢…
+
+### 关于诺艾尔…
+
+你问诺艾尔吗？她的韧性可是很强的。作为前辈，你也要多照顾她一点哦。
+
+### 关于优菈…
+
+优菈是我的好伙伴！只要习惯了优菈开的玩笑，你就会发现，其实她是很好相处的。只不过，优菈因为自己的姓氏，经常被很多人误解，怎么样才能让大家理解她呢…
+
+### 想要了解安柏·其一
+
+狩猎我也很擅长哦！怎么样，想不想看看我的身手？还是…要来个狩猎比赛？
+
+### 想要了解安柏·其二
+
+和你分享我的飞行冠军经验吧！最重要的，就是要有勇气！
+
+### 想要了解安柏·其三
+
+其实我不擅长解谜，羽球节里看到猜谜的摊位都要绕着走…你呢？
+
+### 想要了解安柏·其四
+
+我因为爷爷才加入骑士团，因为琴留在了团里。现在，是你陪我见到了蒙德以外的天空。我真的很开心。
+
+### 想要了解安柏·其五
+
+我还想去更远的世界。我想去看天空的尽头！你也会继续陪着我的，对吧、对吧？
+
+### 安柏的爱好…
+
+兔兔伯爵，今天也是干干净净的一天！
+
+### 安柏的烦恼…
+
+唔…你知道，怎样才能做出好吃的月亮派吗？
+
+### 喜欢的食物…
+
+琴泡的咖啡真的好香！有机会你要尝尝哦。
+
+### 讨厌的食物…
+
+只要不是冰钩钩果汁…唔…我都应付得来！
+
+### 生日…
+
+嘿嘿嘿，生日快乐！来，这个给你，是我亲手缝的「兔兔伯爵·特别定制版」…放心放心，是特别定制版哦，不会爆炸的！
+
+### 突破的感受·起
+
+哇！像乘着风一样轻快~
+
+### 突破的感受·承
+
+现在的速度，没有人能追得上了吧！
+
+### 突破的感受·转
+
+蒙德的天空好像变小了…还是因为我的视野变大了？
+
+### 突破的感受·合
+
+我现在…比起最初跟你认识的时候，又进步了不少吧。嘿嘿，非常感谢！让我请你吃蜜酱胡萝卜煎肉吧，跟我来跟我来！
+
+### 元素战技·其一
+
+靠你咯。
+
+### 元素战技·其二
+
+兔兔伯爵，出击！
+
+### 元素战技·其三
+
+♪哼哼~哼哼哼~
+
+### 元素爆发·其一
+
+百发百中！
+
+### 元素爆发·其二
+
+箭如…雨下！
+
+### 元素爆发·其三
+
+你没有退路了！
+
+### 冲刺开始·其一
+
+来比赛吧！
+
+### 冲刺开始·其二
+
+跟得上我吗？
+
+### 冲刺结束·其一
+
+说了你们跑不过我。
+
+### 冲刺结束·其二
+
+就是这种感觉！
+
+### 打开风之翼·其一
+
+我可是蒙德城的飞行冠军！
+
+### 打开风之翼·其二
+
+尽管交给我吧！
+
+### 打开宝箱·其一
+
+打开宝箱的一瞬间，最兴奋了！
+
+### 打开宝箱·其二
+
+侦察骑士，发现目标！
+
+### 打开宝箱·其三
+
+哇，都是好东西！
+
+### 生命值低·其一
+
+…我可不会认输！
+
+### 生命值低·其二
+
+好痛…这家伙…
+
+### 生命值低·其三
+
+别小瞧我！
+
+### 同伴生命值低·其一
+
+小心啊！
+
+### 同伴生命值低·其二
+
+你…要不要紧？我来帮帮你吧？
+
+### 倒下·其一
+
+跑累了…
+
+### 倒下·其二
+
+训练…还不够…
+
+### 倒下·其三
+
+这次我…输了啊…
+
+### 普通受击·其一
+
+真难缠！
+
+### 重受击·其一
+
+好痛！
+
+### 重受击·其二
+
+犯规啦！
+
+### 加入队伍·其一
+
+交给我吧！
+
+### 加入队伍·其二
+
+准备就绪！
+
+### 加入队伍·其三
+
+侦察骑士登场！
+
+### 收到赠礼·其一
+
+哇，这个太好吃了。你真厉害！
+
+### 收到赠礼·其二
+
+要是我也有这样的手艺就好了…
+
+### 收到赠礼·其三
+
+我不太习惯这种味道，抱歉啦！不是你的问题！
+
+### 关于柯莱…
+
+柯莱和我写信说，她的「魔鳞病」已经彻底康复…我太为她高兴了！真想下一秒就飞到她身边，紧紧地抱住她。她还说很想念蒙德的大家，想等哪一天独当一面之后，亲口来汇报自己的成长…啊，要是能赶上下一次羽球节就好了，我都快等不及了！
+
+### 关于米卡…
+
+哦，米卡是优菈那儿的老队员了，最初可能是看我和优菈关系比较好吧，总是长官长官地叫我。在我跟他分享自己的侦察心得之后，他又改叫我前辈了…弄得我挺不好意思的。明明我们的职责不一样，他在绘制地图上的专业性，是我怎么都比不上的。

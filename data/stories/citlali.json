@@ -144,5 +144,974 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я Ситлали из Повелителей Ночного Ветра. Звёзды рассеяли дым, скрывающий твоё будущее, и поведали мне тайны твоей судьбы. Тебя ждут удача и помощь могущественных союзников. Позволь мне присоединиться к тебе. Эй, я могу быть серьёзной! Перестань так на меня смотреть!",
+        "en": "I am Citlali from the Masters of the Night-Wind. I have read the stars and seen the future through the obscuring smoke. You shall be blessed with good fortune and have the aid of powerful allies during your journey. Allow me to join you — Hey, I can be serious! Stop looking at me like that!",
+        "zh": "「烟谜主」的茜特菈莉，已经透过迷烟看到了未来的道路。诸恶曜必不会伤害你，诸吉星必环绕你。你会拥有强大的「盟友」。请让我也同行。——呃，见到认真的我很奇怪吗？不要用这种眼神看着我啦！"
+      },
+      "source_id": 107000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Романы",
+        "en": "Chat: Novels",
+        "zh": "闲聊·小说"
+      },
+      "text": {
+        "ru": "Я... Я прочитала почти все романы от издательского дома Яэ. Это... Это нормально, правда?",
+        "en": "I—I've read almost every novel from Yae Publishing House. P—Pretty normal, right?",
+        "zh": "基、基本上八重堂出版过的小说我都看过。也、也不奇怪吧！"
+      },
+      "source_id": 107001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Выпивка",
+        "en": "Chat: Drinking",
+        "zh": "闲聊·喝酒"
+      },
+      "text": {
+        "ru": "Выпьем за жизнь! Пусть мора и вино текут рекой!",
+        "en": "Here's to a life where the drinks keep flowing and the Mora keeps rolling!",
+        "zh": "岁月献给小酒杯，借钱九出十三归。"
+      },
+      "source_id": 107002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Транс",
+        "en": "Chat: Trance",
+        "zh": "闲聊·出神"
+      },
+      "text": {
+        "ru": "Вход в транс опасен для большинства людей, так что даже не вздумай. Понятно?",
+        "en": "Going into a trance is risky for most people, so don't get any ideas.",
+        "zh": "「出神仪式」对旁人来说还是挺不稳定的，就不要太好奇了吧。"
+      },
+      "source_id": 107003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Лучшее время, чтобы остаться дома и почитать книжку.",
+        "en": "A perfect day to stay home and read.",
+        "zh": "在家里看小说的好日子。"
+      },
+      "source_id": 107004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Сегодня ночью будет видно звёзды.",
+        "en": "We should be able to see the stars tonight.",
+        "zh": "今晚应该能看到星星了。"
+      },
+      "source_id": 107005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Ох... Я никогда такого ещё не видела.",
+        "en": "Argh! I've never seen this stuff before!",
+        "zh": "呜啊，从来没有见过！"
+      },
+      "source_id": 107006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Тьфу! Ой, это не я плевалась на землю. Я знаю, как себя вести! Просто песок в рот попал, клянусь!",
+        "en": "*spitting noise* Oh, that wasn't me spitting on the ground. I know better than that! I just had some sand in my mouth, I swear!",
+        "zh": "呸——啊，我不是在随地吐痰，我怎么可能那么没有素质？是嘴里进飞沙了！你相信我！"
+      },
+      "source_id": 107007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро. В последний раз я вставала так рано, когда ещё была студенткой. А теперь, став мастером, могу позволить себе поспать. Так что, чем могу помочь?",
+        "en": "*yawn* Morning. The last time I woke up this early, I was still a student. Now that I'm a master, I get to sleep in. Anyway, what do you need?",
+        "zh": "啊——早上好啊。上次这么早起床都是出师以前了。独当一面之后，我都是睡到自然醒。说吧，什么事？"
+      },
+      "source_id": 107008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Добрый день! Я человек с большой выдержкой, знаешь ли. После того как проснусь, никогда не пью до полудня... Хотя иногда мне приходится проводить церемонию всю ночь, и я вообще не сплю. Так что, когда это случается, никаких обещаний дать не могу...",
+        "en": "Afternoon! I'm someone with a lot of restraint, y'know. After I wake up, I never drink before noon... Although, sometimes it takes me all night to perform a ceremony and I don't sleep at all. So, no promises when that happens...",
+        "zh": "中午好啊。其实我还是很节制的，起床到中午的时间内是不会喝酒的…至于熬夜主持仪式结果彻夜不眠直到第二天天亮就是另一码事了…"
+      },
+      "source_id": 107009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер! В районах с высокой активностью флогистона всегда тепло, но в более отдалённых частях Натлана ночью температура может сильно упасть, так что не забудь укутаться потеплее. А? Ты не спрашивал? Ну, всё равно рассказываю! / Добрый вечер! В районах с высокой активностью флогистона всегда тепло, но в более отдалённых частях Натлана ночью температура может сильно упасть, так что не забудь укутаться потеплее. А? Ты не спрашивалa? Ну, всё равно рассказываю!",
+        "en": "Evening! Areas with large amounts of phlogiston activity are warm no matter what, but in more remote parts of Natlan, the temperature really drops at night, so remember to bundle up. Huh? You didn't ask? Well, I'm telling you anyway!",
+        "zh": "晚上好啊。纳塔有些荒野晚上会有很大幅度的降温，别凉着了。燃素活跃的地方倒是白天晚上都一样。你没问？没问也听着！"
+      },
+      "source_id": 107010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Спокойной ночи! Дымка, укрывшая землю, и духи природы дремлют в лёгком сне, а зловещие звёзды едва видны - во всех отношениях прекрасный вечер. Стоп, а как это моя подушка оказалась на полу?..",
+        "en": "Good night! The obscuring smoke and spirits of the earth are in a light slumber, and the inauspicious stars are faint — a fine evening by all accounts. Wait, how did my pillow get on the floor...",
+        "zh": "晚安。今晚恶曜不显，地灵微眠，迷烟浅睡。是个好夜晚。我的枕头怎么掉地上了…"
+      },
+      "source_id": 107011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Ситлали: Воины миражей",
+        "en": "About Citlali: Mirage Warriors",
+        "zh": "关于茜特菈莉自己·蜃楼战记"
+      },
+      "text": {
+        "ru": "Ах, похоже, кто-то заинтересовался! «Война миражей» - это фэнтези-роман Накадзимы Дзюна, одна из первых известных работ издательства Яэ. Действие разворачивается в островном королевстве под названием Асихара. Главный герой большинства глав - Хигаси но Санкун, отшельник с головой кошки, приплывший из-за восточных морей. Однако его истинная личность оказывается гораздо глубже - он древний вассал, Наместник Востока. Роман невероятно длинный... За время написания автор сменился трижды, но в итоге истина о «Хоко» так и не была раскрыта...",
+        "en": "Ah, looks like someone's interested! \"Mirage Warriors\" is a fantasy novel by Nakajima Jun — it's one of the oldest and most renowned works to come out of Yae Publishing House. The story takes place in an island kingdom known as \"Ashihara.\" The protagonist for most of the chapters is \"Higashi no Sankun,\" a feline-headed hermit who came from across the eastern seas, but their true identity is actually the ancient vassal, the Viceroy of the East. The story is incredibly long... The author changed three times, but in the end, the truth of the \"Houko\" was still never revealed...",
+        "zh": "哦，你感兴趣啊。《蜃楼战记》是稻妻八重堂中岛纯先生所著的幻想小说，算是八重堂活化石级别的老系列了。故事发生在名叫「苇之原」的幻想岛国。大部分章节的主角都是东渡而来的猫头道士「东之山君」，其真身正是超古代诸侯东王公。小说的篇幅很长很长，中间换过三次作者，最终还是没有揭开「方壶」的真相…"
+      },
+      "source_id": 107012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Ситлали: Концовка",
+        "en": "About Citlali: Endings",
+        "zh": "关于茜特菈莉自己·终结"
+      },
+      "text": {
+        "ru": "Ода воскресения может вернуть наши тела, но всё когда-нибудь заканчивается - даже солнце и звёзды. Ах, ты хочешь знать, что такое смерть? Представь себе застывший во времени полдень: ты скачешь верхом на завриане через бескрайнюю равнину, а на горизонте стоит некая фигура. Как бы быстро ты ни мчался, эта фигура остаётся недосягаемой - пока внезапно не бросается на тебя. Некуда спрятаться, и когда вы сталкиваетесь лицом к лицу, всё заканчивается.",
+        "en": "The Ode of Resurrection can bring back our physical bodies, but everything will meet its end one day, even the sun and the stars. Oh, you want to know what death is like? Picture an afternoon suspended in time — you're riding a Saurian through a vast plain, and an unknown figure stands on the horizon. No matter how fast you ride, the figure is always out of reach — until it charges toward you without warning. There's nowhere to hide, and when you come face to face, that is the end.",
+        "zh": "纵使「还魂诗」可以唤回血气之身，但星曜、太阳尚有终结，何况生命。你问死亡是什么样的？那就像是在永恒的午后，你骑着龙驰骋在大平原上，天际线那边有一张看不清的脸。无论你速度多快，它都在天边不动。突然某一刻它动了起来，以恐怖的速度和你迎面撞上。你来不及躲避，当看清那张脸时，一切都结束了。"
+      },
+      "source_id": 107013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Помощь",
+        "en": "About Us: Giving Help",
+        "zh": "关于我们·帮助"
+      },
+      "text": {
+        "ru": "Кроме своего старшинства в племени, я даже не знаю, чем могу быть тебе полезна. Твои союзники сильны, а будущее у тебя светлое - ты прекрасно справишься и самостоятельно... К тому же, разве старейшина не заслужила честный отдых? Если, конечно, тебе не нужно, чтобы я кого-то приструнила... Постой, но ты ведь не всерьёз это имеешь в виду, правда?",
+        "en": "*sigh* Other than my seniority in the tribe, I really don't know what I can offer you. Your allies are powerful, and your future is bright — you should be perfectly fine on your own... Besides, shouldn't an old-timer like me be allowed to relax at home all day? Unless you need me to get someone to fall in line... Wait, you don't really need that, right?",
+        "zh": "欸，除了辈分虚高，我也不知道我在纳塔能帮你什么。你的「盟友」强大，前途光明。在这方面我已经没什么能为你做的了，更何况像我这种年纪的奶奶，一般不都该在家里找把椅子躺着了吗？除非你真的要我帮忙用辈分去压人…你不会真的需要这种吧…"
+      },
+      "source_id": 107014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Неловкость",
+        "en": "About Us: Awkwardness",
+        "zh": "关于我们·局促"
+      },
+      "text": {
+        "ru": "Я... я отношусь к тебе так же, как и ко всем, честное слово! Ну ладно, люди в моём племени знают меня только по слухам, которые передаются из поколения в поколение. Но ты видишь меня настоящую. Моя уверенность и беззаботность - это лишь маска, потому что все этого от меня ждут... Но вот неловкость, тревоги, сомнения - вот такая я на самом деле. Я не стану лгать тебе, но и не жди, что я буду открывать душу больше одного раза.",
+        "en": "I—I treat you just like everyone else, I swear! Fine, the people in my tribe only know me through rumors that have been around for generations. But, you see the real me. My confident and uninhibited persona is just an act, because that's what people expect out of me... But, the awkwardness, the anxiety, the uncertainty — that's who I really am. I won't lie to you, but don't expect me to pour my heart out more than once.",
+        "zh": "我、我对你的态度和对其他人一样啊。没、没什么差别吧。呼…好吧，村里人对我的误会已经传了几代人，我早就放弃努力了。但是你不一样，你面前的我才是真正的我。对外无所顾忌、大大咧咧的模样，都是我努力装出来去迎合外界忌惮的…在你面前的局促才是真的我。我就是一个谨小慎微的人啊。我从来都不骗你，但是这个真心话我只说一次。"
+      },
+      "source_id": 107015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "В каком-то смысле получение Глаза Бога - это как обретение могущественного союзника. Но сказать, что у кого-то есть сильные союзники, - значит подчеркнуть, насколько этот человек уже исключителен. В конце концов, союзники лишь усиливают твою собственную мощь. А вот раскрыть эту силу - это уже полностью зависит от твоей воли.",
+        "en": "In a way, obtaining a Vision is like gaining a powerful ally. But, saying someone has powerful allies is more of a comment on how extraordinary that person already is. After all, allies only augment your existing strength. Unleashing that strength depends entirely on your own will.",
+        "zh": "获得神之眼就是获得了另一种强大的「盟友」。不过当我们说某人「盟友」强大的时候，本质上还是在说其人本身超凡。毕竟「盟友」只是协助你的力量，只有你自己拥有无坚不摧的意志，才能把力量发挥出来。"
+      },
+      "source_id": 107016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "До Натлана роман из Инадзумы в виде отдельных глав добирается за две недели, а вот на то, чтобы издать их в одном томе, уходит целый год. Есть ли в этом какой-то глубокий смысл? Не знаю. Но за эти две недели появляются такие безумные спойлеры и утечки, что невозможно понять, где догадки, а где откровенная чушь.",
+        "en": "It takes two weeks for a serialized Inazuma novel to reach Natlan, and a whole year for the chapters to come out in a single volume. I'm not sure if there's some kind of deeper meaning behind this, but during those two weeks, there are so many crazy spoilers and leaks. It's impossible to tell speculation from complete misinformation.",
+        "zh": "稻妻的小说连载运到纳塔会晚两周，而合订本要整整晚一年。不知道背后有什么深意。这时间差的两周内，各种稀奇古怪的内部消息、先行透露满天飞，不知道多少是造谣、多少是自己编的。"
+      },
+      "source_id": 107017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Согласно легенде, в Натлане когда-то существовал особый вид кактуса, который мастер моего мастера называл «мескалито». Говорят, что если его съесть, даже обычный смертный сможет заглянуть в иной мир. Но это всё лишь слухи - я понятия не имею, сохранился ли он до наших дней. Однако, если вдруг встретишь такой, ни за что не пробуй, ладно?",
+        "en": "According to legend, there was once a special kind of cactus in Natlan that my master's master called the \"mescalito.\" Eating it is supposed to allow even mortal eyes to see into another realm. It was just all a rumor, of course — I have no idea if it still exists. But, if you ever see one, don't try it, okay?",
+        "zh": "传说纳塔曾有一种特殊的仙人掌，被我老师的老师称呼为「梅斯卡利脱」。据说食用它能让凡目也看到另一重世界。我也就说说，现在不知道「梅斯卡利脱」灭绝没有。你遇到了可千万别吃。"
+      },
+      "source_id": 107018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Об Оророне...",
+        "en": "About Ororon",
+        "zh": "关于欧洛伦…"
+      },
+      "text": {
+        "ru": "Хм.",
+        "en": "Hmph.",
+        "zh": "哼哼。"
+      },
+      "source_id": 107019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Муалани...",
+        "en": "About Mualani",
+        "zh": "关于玛拉妮…"
+      },
+      "text": {
+        "ru": "Что касается меня и Муалани, честно говоря, я уже не знаю, кто кому должен. Она ломает мою дверь, занимает у меня мору, ворует еду... но потом приносит мне закуски и оплачивает всякие мелочи. За всем этим сложно уследить. Я бы с радостью просто решила, что мы квиты, лишь бы она перестала будить меня в одиннадцать утра... Ой, то есть... Эм... Забудь! Она просто пугает меня громким стуком в дверь, вот и всё.",
+        "en": "Between me and Mualani, I honestly don't know who owes who anymore. She breaks my door, owes me Mora, steals my food, but then she brings me snacks and pays for other things... It's too hard to keep track. I'm more than happy to just call it even at this point. Anything to get her to stop waking me up at eleven in the morning... Oh, I mean, um... Never mind! She just startles me with her knocking, that's all.",
+        "zh": "玛拉妮和我之间有笔算不清楚的账。她应该付我的报酬、弄坏我家门的赔偿、实付报酬、蹭我零食、给我带的小吃…总之算不清了。如果她不介意的话，我倒是想就此两清。正应该睡觉的周末上午十一点…啊，没什么！总之，突然被她咚咚咚锤门，太可怕了。"
+      },
+      "source_id": 107020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Шилонен...",
+        "en": "About Xilonen",
+        "zh": "关于希诺宁…"
+      },
+      "text": {
+        "ru": "Она совершенно игнорирует слухи обо мне и не перегибает палку с дружелюбием, поэтому с ней легко. Ой! Не то чтобы с тобой было сложно! Просто... Как обычно, всё усложняю. Замечательно, теперь ты и это знаешь.",
+        "en": "She's someone who completely ignores the rumors about me and doesn't go overboard with friendliness. So, I always feel comfortable around her. Oh! Not that I feel uncomfortable around you! I'm just... overthinking everything, as usual... Great, now you know that, too.",
+        "zh": "像她这样既不在乎关于我的奇怪谣言，又不会过分热情的人相处起来最轻松不过了。啊，不是——在你面前我也很轻松。我拘谨的本性都不自觉流露了！"
+      },
+      "source_id": 107021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Мавуике...",
+        "en": "About Mavuika",
+        "zh": "关于玛薇卡…"
+      },
+      "text": {
+        "ru": "Хех, Мавуика... кхм, то есть Архонт как-то недавно зашла поговорить. Только ночью, перекусывая, я поняла, что всё это время она, по сути, хвасталась! Есть древняя пословица из другого края: «Архонты скромны, пока не спросишь их о долге - тогда гордость берёт верх». Кажется, это как раз про неё.",
+        "en": "Heh, Mavuika... *ahem* I mean, the Archon came to talk to me the other day. It wasn't until I was eating snacks in the middle of the night that I realized she was basically bragging the whole time! There's an ancient saying from another land that goes, \"Saints are humble until you ask them about their duty — that's when their pride stands tall.\" I think that fits her perfectly.",
+        "zh": "玛薇卡这家伙…咳咳，不好意思，火神大人她前些日子突然过来找我说了一大堆话。后来我半夜吃宵夜时才明白她过来炫耀了什么。有一句异邦的古话，想想还挺适合她的。「圣者谦卑，只有谈到自己责任时，会骄傲地加一句『我说句大话…』」。"
+      },
+      "source_id": 107022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Камисато Аяке...",
+        "en": "About Kamisato Ayaka",
+        "zh": "对神里绫华…"
+      },
+      "text": {
+        "ru": "Юная леди, обернитесь, дайте-ка на вас взглянуть... Ах, так это из «Дела госпожи Орит». А я подумала, что это вторая героиня из «Великого детектива Харлока». Все эти наряды из Фонтейна для меня выглядят одинаково. Ладно, вы свободны. Мне больше нечего сказать.",
+        "en": "...You, young lady over there, turn around and let me have a look. Ah, so this is from The Case Files of Miss Orith. I thought it was the second female lead from Great Detective Hurlock. All Fontaine clothes look the same to me. Alright, you can be on your way now. That's all I wanted to say.",
+        "zh": "…哈，小妹，你转过来给我看看。嘶，这是《奥西兹小姐事件簿》啊，嗨，我还以为是《赫尔洛克》系列的女二号呢。枫丹的衣服在我看来都一样。行了，你继续吧，我没事了。"
+      },
+      "source_id": 107023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Киниче...",
+        "en": "About Kinich",
+        "zh": "关于基尼奇…"
+      },
+      "text": {
+        "ru": "Мелочь, что постоянно крутится возле него, - та ещё дрянь. О, Кинич твой друг? Хм, что ещё могу о нём сказать... Наверное, на него можно положиться.",
+        "en": "The small thing that follows him around is a nasty piece of work. Oh, Kinich is a friend of yours? Huh, what else can I say about him... He's pretty reliable, I suppose.",
+        "zh": "他身边的那个小东西有点烦人。他是你朋友吗？那我想想还有什么别的印象…他本人还是挺可靠的。嗯。"
+      },
+      "source_id": 107024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Об Иансан...",
+        "en": "About Iansan",
+        "zh": "关于伊安珊…"
+      },
+      "text": {
+        "ru": "Я не так хорошо её знаю, но я разбираюсь в лёгких романах. У кого-то, кто настолько силён, несмотря на свои размеры, должно быть какое-то секретное усиление, которое она использует, чтобы вырасти аж до двух метров и сражаться в несколько раз яростнее.",
+        "en": "I don't know her that well, but I do know light novels... Someone who's that powerful despite her size must have some kind of power-up that she uses to shoot up to seven feet tall and fight with 200% strength.",
+        "zh": "好像对她没什么更深了解。不过根据八重堂小说的套路来看，这人能力这么强，个子这么小，是不是遇到紧急情况会有一个两米三的百分之二百出力模式啊？"
+      },
+      "source_id": 107025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Узнать больше о Ситлали I",
+        "en": "More About Citlali: I",
+        "zh": "想要了解茜特菈莉·其一"
+      },
+      "text": {
+        "ru": "Что? Это ещё откуда взялось? Очередные слухи обо мне? Эх, ну ладно. Это всё правда... Я самая старая, самая странная и самая страшная шаманка в племени. Верь во что захочешь... Мне уже давным-давно надоело объясняться.",
+        "en": "Huh? Where is this coming from all of a sudden? Did you hear one of the rumors about me? *sigh* Fine, it's true! I'm the oldest, strangest, and scariest shaman in the tribe. Believe what you want — I gave up explaining myself a long time ago.",
+        "zh": "啊？你怎么突然过来和我说这个？是听到了关于我的传闻？唉，对对，我就是萨满里的老妖怪，想信就信吧。我已经放弃解释了。"
+      },
+      "source_id": 107026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Ситлали II",
+        "en": "More About Citlali: II",
+        "zh": "想要了解茜特菈莉·其二"
+      },
+      "text": {
+        "ru": "Хочешь, чтобы я всё-таки объяснилась? В моём племени есть негласная традиция. Мастера-шаманы намеренно разжигают соперничество между своими учениками и другим мастером. Чтобы победить мастера, ученикам приходится усердно тренироваться. Большинство шаманов в племени принадлежат к школе, основанной моей подругой. Они выбрали меня в роли злой ведьмы, которую нужно одолеть, - ну что я могу с этим поделать? Я не пытаюсь усложнять им жизнь! Это не моя вина, что никто из них не может дать мне достойный бой! В общем, слухи, что я страшная старая ведьма... вот откуда всё началось.",
+        "en": "You want me to explain anyway? *sigh* There's an unspoken tradition in my tribe. Shaman masters deliberately foster rivalries between their students and a rival master. That way, if the students want to defeat that master without getting obliterated, they need to work hard to surpass the previous generation. Most of the shamans in the tribe belong to the school founded by my friend. They chose me as the evil witch to defeat, so what can I do? I'm not trying to make their lives difficult! It's not my fault none of them can put up a fight! *sigh* Anyway, the rumors about me being a terrifying old hag... That's how it all started.",
+        "zh": "你还是想听我解释吗？唉。「烟谜主」有一个秘而不宣的传统：为了敦促后辈进步，老师会故意算计徒弟，让他们和师叔们结下梁子。为了不挨长辈的揍，后辈就必须拼命努力反超长辈。如今「烟谜主」大半都是我朋友的谱系。他们所有人都喜欢找我来当这个坏人巫婆。怎么办呢？我根本没想为难后生，可这么多年没有一个人能赢过我！唉！于是关于我多恐怖、脾气多差的谣言就根深蒂固了。"
+      },
+      "source_id": 107027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Ситлали III",
+        "en": "More About Citlali: III",
+        "zh": "想要了解茜特菈莉·其三"
+      },
+      "text": {
+        "ru": "Верно. На людях я притворяюсь, но это моя настоящая личность. Всё довольно просто, на самом деле. Если люди ожидают, что ты будешь говорить как старик с акцентом, а ты отвечаешь изящной литературной речью, они впадают в ступор. Это обыкновенное невежество. Но невежество самая сложная вещь, с которой нужно бороться. Ведь, если честно, когда мы встретились, я и от тебя не ожидала ничего другого.",
+        "en": "That's right. I put on an act in front of other people, but this is my real personality. It's pretty simple, actually. If people expect you to speak like an old-timer with an accent, and you respond with elegant, standard speech, people will be shocked out of their minds. Yeah, you're right — it's the stupidity of ignorance. But, ignorance is the hardest thing to overcome. After all, when we first met, I didn't expect you to be any different from the rest of them.",
+        "zh": "没错。我在人前的状态是装出来的，这才是我本来的性格。这也很好理解吧，所有人都期待着你说话带着口音和过时表达的时候，你说出了优雅、字正腔圆的标准口音，对面也会愣住的。你说的没错，这就是一种不自知的愚蠢。但是这种愚蠢很难从习性上摒弃，你看，我一开始还以为你也和其他人一样呢，嘿嘿。"
+      },
+      "source_id": 107028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Ситлали IV",
+        "en": "More About Citlali: IV",
+        "zh": "想要了解茜特菈莉·其四"
+      },
+      "text": {
+        "ru": "Итак, мастера-шаманы в моём племени обманывают своих учеников, заставляя их затаить на меня обиду. Хочешь узнать как? Самый традиционный метод - заявить, что тебя обманул мошенник, а затем отправить учеников разрисовывать его дом граффити. Праведный гнев заставит их сделать всё что угодно! Видишь, как это несправедливо? Правда, теперь большинство хотя бы отличает мой дом от дома случайного мошенника, так что такое со мной случается реже.",
+        "en": "So, the shaman masters in my tribe trick their students into forming a grudge against me, but do you want to know how? This is the most traditional method — say you were cheated by a scammer, then send your students to graffiti the scammer's house. With a little righteous indignation on your side, you can get them to do anything! See how unfair that is? At least most people can recognize my house from a random scammer now, so I don't get that one as much.",
+        "zh": "你想知道「烟谜主」的后辈是怎么被他们师父算计，和我结下梁子的吗？最传统的做法就是师父骗徒弟自己被骗了，要去骗子家门口涂鸦。一般徒弟听了就会义愤填膺，捋起袖子就涂。真的很过分欸，对吧？不过最近大家都知道我家在哪里了，所以这招不怎么能见到了。"
+      },
+      "source_id": 107029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Ситлали V",
+        "en": "More About Citlali: V",
+        "zh": "想要了解茜特菈莉·其五"
+      },
+      "text": {
+        "ru": "О, эти бутылки вина? Это реликвии, найденные Ассоциацией реликвий заврианов. Нет-нет, это не мои! Хе-хе, так небрежно раскидать их, это Оророн их выпил, верно, Оророн? Выходи и извиняйся! У меня высокая стойкость, понимаешь, так что я не пьянею так легко. И даже если бы я напилась, я никогда не стала бы мусорить вот так. Кроме того, Ассоциация сказала, что их нашли в дикой местности. О, в абсолютно безопасном месте, конечно, не то чтобы это важно, потому что я их не разбрасывала, и какая разница. Просто поверь мне!",
+        "en": "Oh, these wine bottles? The Saurian Relics Association found them... No, no, they're not mine. Heh, tossing them carelessly like this... Ororon must have drank them! Isn't that right, Ororon!? Come out and apologize! My tolerance is high, you see, so I don't get drunk easily. Even when I am drunk, I never litter like this. Besides, the Association said they were found in the wild. Oh! In a completely harmless location, of course — NOT that it matters, anyway, because I wasn't the one who tossed them, and... Who cares! Just trust me!",
+        "zh": "这些龙遗迹研究协会送回来的酒瓶…啊，这，这是，对，是欧洛伦他喝完了随地乱扔的，和我没关系。对吧，欧洛伦，快出来认错！我酒量还不错，不会轻易喝醉的，就算醉了也不会乱扔垃圾。何况协会说是野外找到的在野外也没有给别人添麻烦而且这也不是我丢的…啊，解释不清楚了！请你相信我！"
+      },
+      "source_id": 107030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Хобби Ситлали",
+        "en": "Citlali's Hobbies",
+        "zh": "茜特菈莉的爱好…"
+      },
+      "text": {
+        "ru": "Моя жизнь почти полностью лишена смысла. Остались лишь мутный ступор после сна, бредовые фантазии из романов и утешение на дне бутылки.",
+        "en": "My life is nearly completely devoid of meaning. Nothing remains but groggy stupor after sleeping, delusional fantasies from novels, and the comfort at the bottom of a bottle.",
+        "zh": "我的生命太过无意义，只剩下喝酒的迷醉、看小说的妄想和睡觉的昏沉了。"
+      },
+      "source_id": 107031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Беспокойство Ситлали...",
+        "en": "Citlali's Troubles",
+        "zh": "茜特菈莉的烦恼…"
+      },
+      "text": {
+        "ru": "Ты всерьёз спрашиваешь? Я притворяюсь, что мне всё безразлично. Это мой защитный механизм. А на самом деле я только и делаю, что беспокоюсь обо всём на свете.",
+        "en": "You really have to ask? I pretend not to care about anything as a shield. In reality, all I do is worry about things.",
+        "zh": "这你还看不出来吗？看起来什么都不在乎只是我的保护色，其实我什么都很在乎。"
+      },
+      "source_id": 107032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Во-первых, я люблю мясо средней прожарки, чтобы оно сохраняло оригинальный вкус жертвенного подношения. Потом что-нибудь, что можно легко есть одной рукой, чтобы можно было читать и есть одновременно. Ну и, конечно, всё, что ты порекомендуешь!",
+        "en": "First, I like my meat cooked medium, so it retains some of the original flavor of a sacrificial offering. Next would be anything that's easy to eat with one hand so I can read at the same time. Oh, and then anything you recommend, of course!",
+        "zh": "我喜欢五成熟的肉，比较接近祭祀品本来的味道。然后就是吃起来简单，可以一只手拿着另一只手翻小说的东西。再然后就是，你推荐的我都喜欢！"
+      },
+      "source_id": 107033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я не совсем понимаю, в чём смысл кислой еды. Ешь, когда голоден, пей, когда хочешь пить, и спи, когда устал. Если кислая еда должна разжигать аппетит, разве это не значит, что ты изначально не был голоден?",
+        "en": "I don't quite... get the point of sour foods. You eat when you're hungry, drink when you're thirsty, and sleep when you're tired. If sour foods are meant to whet the appetite, doesn't that mean you weren't hungry in the first place?",
+        "zh": "就是…稍微有些不理解酸味的食物。饿了就吃东西，困了就睡觉，渴了就喝水。既然需要酸味开胃，那不就是不饿不需要吃东西吗？"
+      },
+      "source_id": 107034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ого, это просто восхитительно! Я перепробовала всё, что можно найти у Повелителей Ночного Ветра, но ничего настолько потрясающего мне ещё не встречалось!",
+        "en": "Whoa, this is delicious! I've tried every place around the Masters of the Night-Wind, and I've never had anything as amazing as this — I swear!",
+        "zh": "呜啊，太好吃了。「烟谜主」附近的吃食我都尝过了，全都没你做的好吃。真的真的。"
+      },
+      "source_id": 107035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Хм, я обычно такое не ем... Нет, подожди! Я не говорю, что это плохо! Ты... познакомил меня с новым вкусом! Это комплимент, честное слово! / Хм, я обычно такое не ем... Нет, подожди! Я не говорю, что это плохо! Ты... познакомилa меня с новым вкусом! Это комплимент, честное слово!",
+        "en": "Huh, I don't usually eat things like this... No, wait! I'm not saying it's bad! You... introduced me to a new flavor! It's a compliment — cross my heart!",
+        "zh": "平常吃这种东西不多…不不不，不是说不好吃的意思！就是…现在感觉吃出来了另一番风味。是夸奖，真的是夸奖！"
+      },
+      "source_id": 107036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Как, как это может быть невкусно? Ха-ха-ха...",
+        "en": "M—Must be something wrong with my tastebuds, ahahaha...",
+        "zh": "怎、怎么会不好吃呢。啊哈哈哈…"
+      },
+      "source_id": 107037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения! Честно говоря, я понятия не имею, что тебе подарить. На твоём пути нет неблагоприятных звёзд. Что касается любви, сражений или будущих начинаний, твои перспективы выглядят просто великолепно. Благословение в стиле Миктлан вряд ли тебе понадобится. Я думала подарить тебе экземпляр «Цветы для принцессы Фишль», чтобы подсадить тебя на лёгкие романы, но, похоже, что у кого-то ещё больше книг издательского дома Яэ, чем у меня... Ах, что же делать, что же делать?",
+        "en": "Happy birthday! Honestly, I don't know what to get you. There are no inauspicious stars in your path. Whether in regard to love, battle, or your future endeavors, your prospects seem great. A Mictlan-style blessing won't do much for you. I thought about getting you a copy of \"Flowers for Princess Fischl\" to get you hooked on light novels, but it seems like someone owns more books from Yae Publishing House than me... Ahh, what to do... what to do?",
+        "zh": "生日快乐！我也不知道有什么可以送你的，你的前途上灾星恶曜不显，爱情、功业、武勋的运势也很通畅。米克特兰式的祝福对你效果甚微。之前本想送你我传教用的《菲谢尔皇女夜谭》，但是看到你好像有很多八重堂藏书，我都羡慕…这可为难了，送你什么好呢？"
+      },
+      "source_id": 107038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Хм, это не похоже на технику гадания потустороннего мира. Моя школа шаманизма опирается на землю, а не на небо. Когда лживые зловещие звёзды начинают скалить зубы, я связываю их духом земли, костями мёртвых животных и силой затмевающего дыма.",
+        "en": "Hmm, this doesn't feel like a divination technique from beyond this world. My school of shamanism relies on the earth rather than the sky. When the fake inauspicious stars show their teeth, I bind them with the spirit of the earth, the bones of dead animals, and the power of the obscuring smoke.",
+        "zh": "不像是提瓦特外面世界的占卜技术，我——至少我这一系不依靠天，反而更依靠大地。天上虚假的凶星恶曜显露之时，我就依靠迷烟、大地之灵和动物骨头将其绑缚。"
+      },
+      "source_id": 107039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Небеса управляют человеческой судьбой, как кукловод управляет марионеткой. Так что сами зловещие звёзды не обладают свободной волей. Но как только я запечатываю их силу внутри куклы и связываю её с костями животных, остаточные мысли, заключённые в костях, позволяют им обрести сознание. Я называю эти, э-э, маленькие создания «цицимитли». Ты можешь думать о них как о воплощениях зловещих звёзд.",
+        "en": "The heavens control human fate like a puppeteer controls a marionette. So, the inauspicious stars themselves do not have free will. But, once I seal their power inside of a doll and bind it with animal bones, the residual thoughts within the bones allow them to develop awareness. I call these, uh, little creations, \"Tzitzimimeh.\" You can think of them as manifestations of the inauspicious stars.",
+        "zh": "天上对人间命运的操控如同木偶提线，这些恶曜本身并没有自我意志。但是这些力量被封进布偶体内之后，凭着小动物骨头附着的念头，它们呈现出了意识。我把这些玩意…咳…小家伙叫做「星魔」，可以说是凶星恶曜的化现吧。"
+      },
+      "source_id": 107040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Каждый цицимитль содержит кости мелких животных, и, если задуматься, это немного жуткая техника. Так что, когда дело доходит до того, почему люди меня боятся... думаю, на мне лежит, может быть, процентов десять ответственности. Я ведь сама не причиняю вреда животным! Я просто нахожу кости в дикой природе!",
+        "en": "Each Tzitzimitl contains the bones of small animals, which is kind of a creepy technique if you think about it. So, when it comes to people being afraid of me... I guess I bear, maybe, ten percent of the responsibility. But, I don't harm any animals! I just find the bones in the wild!",
+        "zh": "每个布偶里都有小动物的骨头，仔细想想确实也有点瘆人吧。用这样的秘术，被其他人所恐惧，可能有十分之一的责任确实在我。但是这都是我游历野外时收捡的，我可没有伤害小动物！你可不能误会我！"
+      },
+      "source_id": 107041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "С этого момента я всегда буду рядом с тобой, пока звёзды не померкнут, огонь не угаснет и дым не рассеется.",
+        "en": "From this point on, I will always be by your side — until the stars diminish, the flames die out, and the smoke dissipates into nothing.",
+        "zh": "从今以后，我会一直与你同行。直到所有星辰消隐，直到所有的火熄灭，直到迷烟散尽。"
+      },
+      "source_id": 107042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "За дело!",
+        "en": "Get to work!",
+        "zh": "出来干活！"
+      },
+      "source_id": 107043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Цицимитль, исполни договор.",
+        "en": "Fulfill our pact.",
+        "zh": "履行盟约吧，星魔们。"
+      },
+      "source_id": 107044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Пощады не будет.",
+        "en": "Show no mercy.",
+        "zh": "不必留情。"
+      },
+      "source_id": 107045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Осторожно... Осторожно...",
+        "en": "Carefully... carefully...",
+        "zh": "小心…小心地…"
+      },
+      "source_id": 107046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Рука не дрогнет.",
+        "en": "Steady now...",
+        "zh": "不会手抖的。"
+      },
+      "source_id": 107047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Вот так!",
+        "en": "Just like that...",
+        "zh": "好的。"
+      },
+      "source_id": 107048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Вы двое, пора покончить с ними!",
+        "en": "You two — time to end them!",
+        "zh": "灭口交给你们俩了！"
+      },
+      "source_id": 107049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Ситлалин, Ицпапа, за дело!",
+        "en": "Citlalin, Itzpapa, get 'em!",
+        "zh": "茜特菈琳、伊兹帕帕，给我上！"
+      },
+      "source_id": 107050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Познай гнев Ицтли!",
+        "en": "Suffer the wrath of Itztli!",
+        "zh": "让你见识见识恶曜伤人！"
+      },
+      "source_id": 107051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Неплохо. Это всё тебе.",
+        "en": "Hm, not bad. It's all yours.",
+        "zh": "挺好的，收下吧。"
+      },
+      "source_id": 107052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Забирай. Я отблагодарю за это звёзды.",
+        "en": "Go on, take them. I'll thank the stars for you later.",
+        "zh": "先收下，答谢诸星的祈祷我替你做。"
+      },
+      "source_id": 107053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Тяжело нести всё это? Давай, я помогу.",
+        "en": "Is it too much to carry? Here, lemme help.",
+        "zh": "两只手都抱不下的话我来帮你。"
+      },
+      "source_id": 107054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Надо было остаться дома...",
+        "en": "Should've stayed inside...",
+        "zh": "不该出门的…"
+      },
+      "source_id": 107055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Я хочу домой...",
+        "en": "*sigh* I wanna go home...",
+        "zh": "唉，想回家啊。"
+      },
+      "source_id": 107056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Нужно... быть сильной...",
+        "en": "Gotta... be strong...",
+        "zh": "不能…在你面前…"
+      },
+      "source_id": 107057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Эй, нельзя умирать!",
+        "en": "...Hey, no dying!",
+        "zh": "…不许死！"
+      },
+      "source_id": 107058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Надо было быть поосторожнее.",
+        "en": "Reckless much?",
+        "zh": "给奶奶我小心点。"
+      },
+      "source_id": 107059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Ввысь... к звёздам...",
+        "en": "Take me... stars above...",
+        "zh": "天上的诸曜啊…"
+      },
+      "source_id": 107060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Вниз... в землю...",
+        "en": "Take me... earth below...",
+        "zh": "大地的迷烟啊…"
+      },
+      "source_id": 107061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Прости... меня...",
+        "en": "I'm... sorry...",
+        "zh": "对不起…"
+      },
+      "source_id": 107062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Мощно!",
+        "en": "How dare you!",
+        "zh": "好胆子！"
+      },
+      "source_id": 107063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Ай-ай-ай!",
+        "en": "Ow ow ow...",
+        "zh": "疼疼！"
+      },
+      "source_id": 107064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Я всегда вовремя.",
+        "en": "I'm never late...",
+        "zh": "我可没迟到…"
+      },
+      "source_id": 107065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Оставь меня в поко... Ах, забудь! Пойдём!",
+        "en": "Leave me alo— Ahh, never mind! Let's go!",
+        "zh": "哈？干什——啊，没事的，准备好了！"
+      },
+      "source_id": 107066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Как пожелаешь.",
+        "en": "Whatever you need.",
+        "zh": "那我肯定帮忙呀。"
+      },
+      "source_id": 107067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "О Варесе...",
+        "en": "About Varesa",
+        "zh": "关于瓦雷莎…"
+      },
+      "text": {
+        "ru": "Воины в масках способны поражать воображение людей... В них часто видят воплощение героев, природы или богов. Одна из любимых городских легенд рассказывает о герое в маске, который доблестно спас пьяную ведьму, а затем с ней на плече ходил от двери к двери, перебудив весь район посреди ночи. У меня и так почти не осталось репутации приличной девушки, так что меня это не волнует. А почему меня это должно волновать? Я желаю ей только добра. В качестве платы... Я имею в виду, чтобы отплатить ей за помощь... пусть все её блюда будут грибами в течение десяти дней.",
+        "en": "Warriors in masks have a way of capturing people's imaginations... They're often seen as incarnations of heroes, nature, or the gods. One much-loved urban legend tells the tale of a masked hero who valiantly rescued a drunken witch, and then went door to door waking up the entire neighborhood in the middle of the night, all while carrying her over her shoulder. I mean, I hardly had much of a reputation left anyway, so it's not like I care. Why would I care? I wish nothing but the best for her, obviously. As payback... I mean, to pay her back for her help... may all of her meals be mushrooms for ten days.",
+        "zh": "带上面具的战士会被认为是「英雄」、「自然」、「神灵」的化身。曾经就有一个大家喜闻乐见的英雄扛着被酒打败的巫婆耀武扬威的故事，还是在半夜足足敲了一百户人家的门。我倒是也不剩什么好名声了，所以没有很在意。嗯，没有。为了她饮食健康，我要给她下连吃十天蘑菇的诅…呃，祝福！"
+      },
+      "source_id": 107068
+    }
+  ],
+  "replica_count": 69
 }

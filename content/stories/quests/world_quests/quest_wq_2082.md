@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 10009
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_2082
 # quest_series: Witch's Homework
 # version_source: verified_override
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 10009
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 80
 
 ## RU
 
@@ -58,7 +61,7 @@
 
 **Сахароза:** Нельзя считать это обычным «провалом». Принципы, лежащие в основе задания, немного сложнее, чем кажутся...
 
-Что же это за задание такое?..
+- **Путешественник:** Что же это за задание такое?..
 
 **Паймон:** Да! Ты так и не рассказала, в чём именно заключается эксперимент.
 
@@ -78,13 +81,19 @@
 
 **Паймон:** Хе-хе... Паймон точно знает, что нужно делать!
 
-- **Путешественник:** Позволь помочь с экспериментом!
+##### Вариант ответа 1
 
-- **Путешественник:** Можно использовать Паймон в качестве ингредиента...
+- **Путешественник:** Позволь помочь с экспериментом!
 
 **Паймон:** Да! Мы именно за этим и пришли!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Можно использовать Паймон в качестве ингредиента...
+
 **Паймон:** Наверняка получится отличное алхимическое зелье... Подожди! Что значит «использовать Паймон в качестве ингредиента»?
+
+##### Общее продолжение
 
 **Сахароза:** Если добавить Паймон, придётся менять пропорции исходных ингредиентов, и эффект может быть не таким хорошим, как у проверенного рецепта...
 
@@ -100,9 +109,11 @@
 
 **Паймон:** Отлично! Вперёд!
 
-#### Отправляйтесь в Спрингвейл
+#### Отправляйтесь в долину Ветров
 
-Дай-ка перепроверю рецепт...
+#### Одолейте Глаз бури
+
+#### Отправляйтесь в Спрингвейл
 
 #### Отправляйтесь к алхимическому верстаку в Мондштадте
 
@@ -114,7 +125,7 @@
 
 **Сахароза:** Я знаю, что многие не любят, когда за ними наблюдают во время экспериментов...
 
-Конечно, без проблем.
+- **Путешественник:** Конечно, без проблем.
 
 **Сахароза:** Спасибо. Если вы готовы, давайте начнём. Я обязательно всё тщательно запишу и не упущу ни одной детали.
 
@@ -126,15 +137,13 @@
 
 #### Поговорите с Сахарозой
 
-Да, вперёд.
-
 **Сахароза:** Готово... Всё прошло идеально.
 
 **Паймон:** Правда?
 
 **Сахароза:** Да, я не вижу недостатков в приготовлении... Позвольте извлечь немного продукта и проверить его состав. Минуточку...
 
-*Сахароза берёт немного готового зелья и тщательно проверяет его состав с помощью лабораторного оборудования...*
+Сахароза берёт немного готового зелья и тщательно проверяет его состав с помощью лабораторного оборудования...
 
 **Сахароза:** Как я и сказала, безупречное качество. Зелье идеальное. Именно такое, каким я его себе представляла.
 
@@ -174,7 +183,7 @@
 
 **Сахароза:** Это как... «спецификация», закреплённая в законе, который регулирует всё сущее. Одна из целей проведения множественных экспериментов - определить, является ли эта «спецификация» стабильной.
 
-Неудачный результат тоже результат...
+- **Путешественник:** Неудачный результат тоже результат...
 
 **Сахароза:** Да, это доказывает «неизменное существование» границ.
 
@@ -187,6 +196,10 @@
 **Сахароза:** Осторожно, это... это попрыгунья. Но обычно, даже случайно поглотив зелье, они не достигают таких больших размеров... Что это значит?..
 
 **Паймон:** Сейчас не время об этом говорить, давайте сначала разберёмся с этой громадиной!
+
+#### Победите попрыгунью-переростка
+
+#### Победите попрыгунью-переростка
 
 #### Поговорите с Сахарозой
 
@@ -218,7 +231,7 @@
 
 **Паймон:** Если понадобится помощь, мы обязательно поможем!
 
-Можно дать Паймон зелье роста?
+- **Путешественник:** Можно дать Паймон зелье роста?
 
 **Паймон:** Хе-хе, только представь... Паймон смогла бы разгромить целую банду Похитителей сокровищ, если бы была в шестнадцать раз больше!
 
@@ -239,6 +252,10 @@
 **Сахароза:** Точно! Когда я извлеку сахар из нектара, я поделюсь им с вами.
 
 **Паймон:** Хе-хе, договорились!
+
+- **Путешественник:** Да, вперёд.
+
+- **Путешественник:** Дай-ка перепроверю рецепт...
 
 ## EN
 
@@ -272,7 +289,7 @@ Sucrose is working on a new alchemical potion, but no matter how she tweaks the 
 
 **Sucrose:** It's not as simple as just "failing." The whole theoretical framework behind this task is a bit more complicated than I imagined...
 
-So, what's this task exactly...
+- **Traveler:** So, what's this task exactly...
 
 **Paimon:** Oh, right! You still haven't told us what kind of experiment it is.
 
@@ -292,13 +309,19 @@ So, what's this task exactly...
 
 **Paimon:** Ohhh... Hehe, then Paimon knows just what to do!
 
-- **Traveler:** Let us help!
+##### Response branch 1
 
-- **Traveler:** Perhaps we could try adding a little essence of Paimon.
+- **Traveler:** Let us help!
 
 **Paimon:** Yeah! We came here to do just that, after all!
 
+##### Response branch 2
+
+- **Traveler:** Perhaps we could try adding a little essence of Paimon.
+
 **Paimon:** Hehe, well that's why we're helping ou— Wait a second, Paimon is NOT an ingredient!
+
+##### Shared continuation
 
 **Sucrose:** Um, we could try, it's just... I would need to adjust the ratios in the original formula, and that might make the potion even more unstable...
 
@@ -314,9 +337,11 @@ So, what's this task exactly...
 
 **Paimon:** We've got this! Let's go!
 
-#### Go to Springvale
+#### Go to Windrise
 
-Let me look at the formula again...
+#### Defeat the Eye of the Storm
+
+#### Go to Springvale
 
 #### Go to the Crafting Bench in Mondstadt
 
@@ -328,7 +353,7 @@ Let me look at the formula again...
 
 **Sucrose:** I know lots of people don't like being scrutinized during experiments, so...
 
-That's no problem at all.
+- **Traveler:** That's no problem at all.
 
 **Sucrose:** Thanks. Then, I'm ready to go whenever you are. I'll make sure to take detailed notes, too.
 
@@ -340,15 +365,13 @@ That's no problem at all.
 
 #### Talk to Sucrose
 
-Yep, let's go.
-
 **Sucrose:** That's it... Your execution was perfect.
 
 **Paimon:** Really?
 
 **Sucrose:** Yes, I don't see any flaws in the brewing at all... Let me extract some and test the product's composition. One moment...
 
-*Sucrose extracts some of the potion and uses a device to examine its composition...*
+Sucrose extracts some of the potion and uses a device to examine its composition...
 
 **Sucrose:** Yes, like I said — flawless execution. The potion is perfect. It's exactly what I was expecting.
 
@@ -388,7 +411,7 @@ Yep, let's go.
 
 **Sucrose:** It's like... a "specification" etched into the law that governs all things. Part of the purpose of doing multiple experiments is to determine if this "specification" is stable.
 
-So, "failure" is also a viable result...
+- **Traveler:** So, "failure" is also a viable result...
 
 **Sucrose:** Exactly. It proves that the limit "continues to exist."
 
@@ -401,6 +424,10 @@ So, "failure" is also a viable result...
 **Sucrose:** Careful! I—It's a Whopperflower! It must have absorbed some of the potion. Wait. But that's happened before, and it's never gotten this big, either. Can this mean...?
 
 **Paimon:** We can talk about this later. Let's get rid of it first!
+
+#### Defeat the overgrown Whopperflower
+
+#### Defeat the overgrown Whopperflower
 
 #### Talk to Sucrose
 
@@ -432,7 +459,7 @@ So, "failure" is also a viable result...
 
 **Paimon:** Well, we're here if you ever need some help!
 
-Could we try using that growth serum on Paimon?
+- **Traveler:** Could we try using that growth serum on Paimon?
 
 **Paimon:** Hehe, just think about it... Paimon could probably beat a whole gang of Treasure Hoarders to a pulp if she were 16 times bigger!
 
@@ -453,6 +480,10 @@ Could we try using that growth serum on Paimon?
 **Sucrose:** That's right! Once I've extracted the sugar from the nectar, I'll give you some.
 
 **Paimon:** Hehe, you got it!
+
+- **Traveler:** Yep, let's go.
+
+- **Traveler:** Let me look at the formula again...
 
 ## ZH
 
@@ -486,7 +517,7 @@ Could we try using that growth serum on Paimon?
 
 **砂糖:** 不能简单地认为那是「失败」，这个「课题」背后所蕴含的原理要比想象中复杂一些…
 
-所以到底是什么课题呢…
+- **旅行者:** 所以到底是什么课题呢…
 
 **派蒙:** 对哦，说了半天，具体到底是要做什么样的实验呢？
 
@@ -506,13 +537,19 @@ Could we try using that growth serum on Paimon?
 
 **派蒙:** 哼哼…很显然，这个别的要素…
 
-- **旅行者:** 就让我们来帮忙实验吧！
+##### 对话分支 1
 
-- **旅行者:** 就让派蒙以身入药…
+- **旅行者:** 就让我们来帮忙实验吧！
 
 **派蒙:** 嗯嗯，我们本来就是来看看能帮上什么忙的嘛！
 
+##### 对话分支 2
+
+- **旅行者:** 就让派蒙以身入药…
+
 **派蒙:** 那肯定能做出了不起的炼金药剂…才不对！什么叫让我入药啦！
+
+##### 共同后续
 
 **砂糖:** 加入派蒙的话，原本的材料配比就得做出调整，效果说不定不如之前已经稳定的配方…
 
@@ -528,9 +565,11 @@ Could we try using that growth serum on Paimon?
 
 **派蒙:** 好，我们这就出发吧！
 
-#### 前往清泉镇
+#### 前往风起地
 
-稍等，我再看看配方…
+#### 击败狂风之核
+
+#### 前往清泉镇
 
 #### 前往蒙德的合成台
 
@@ -542,7 +581,7 @@ Could we try using that growth serum on Paimon?
 
 **砂糖:** 其实有很多人做实验的时候不喜欢被看着…我就…
 
-那当然没问题啦。
+- **旅行者:** 那当然没问题啦。
 
 **砂糖:** 谢谢。那准备好的话，我们就开始吧，我一定会好好做好记录，不会放过任何细节。
 
@@ -554,15 +593,13 @@ Could we try using that growth serum on Paimon?
 
 #### 与砂糖对话
 
-嗯，现在开始吧…
-
 **砂糖:** 完成了…过程非常完美。
 
 **派蒙:** 真的吗？
 
 **砂糖:** 嗯，从药剂转化的过程来看，没有丝毫的瑕疵…我提取一点去试验一下成分，稍等…
 
-*砂糖从炼制完成的药剂中提取了一点，用一旁的试验用器仔细做了成分的勘验…*
+砂糖从炼制完成的药剂中提取了一点，用一旁的试验用器仔细做了成分的勘验…
 
 **砂糖:** 嗯，炼制的过程很完美，所以得到的也是完美的结果，很符合理性直觉的过程。
 
@@ -602,7 +639,7 @@ Could we try using that growth serum on Paimon?
 
 **砂糖:** 正如…「规格」是一种刻写在万物之中的法则，所以反复的实验也是为了确认「规格」界限的稳定。
 
-所以「实验失败」也是结果…
+- **旅行者:** 所以「实验失败」也是结果…
 
 **砂糖:** 对，证明界限的「始终存在」。
 
@@ -615,6 +652,10 @@ Could we try using that growth serum on Paimon?
 **砂糖:** 小心，这是…这是骗骗花，可是以往就算不小心被骗骗花吸收，也不会到达这样的大小规格…究竟是…
 
 **派蒙:** 以前也有被骗骗花吸收过哦…啊，不是说这些的时间了，先解决这个大家伙再说！
+
+#### 击败过度生长的骗骗花
+
+#### 击败过度生长的骗骗花
 
 #### 与砂糖对话
 
@@ -646,7 +687,7 @@ Could we try using that growth serum on Paimon?
 
 **派蒙:** 是嘛，那如果有需要的话，我和旅行者一定会来帮忙的！
 
-「变大药」能给派蒙用吗？
+- **旅行者:** 「变大药」能给派蒙用吗？
 
 **派蒙:** 吃了「变大药」，说不定我也能变成「十六倍大派蒙」，一拳打倒来抢东西的盗宝团！
 
@@ -667,3 +708,7 @@ Could we try using that growth serum on Paimon?
 **砂糖:** 是的。等从这些花蜜里提取出糖，也送给你们一份吧。
 
 **派蒙:** 嘿嘿，一言为定！
+
+- **旅行者:** 嗯，现在开始吧…
+
+- **旅行者:** 稍等，我再看看配方…

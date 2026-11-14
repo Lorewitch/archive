@@ -144,5 +144,1044 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Приветствую! Меня зовут Сян Лин, я повар родом из Ли Юэ. Больше всего я люблю тушить пожары... Ой, то есть тушить и жарить! Ну вот, каждый раз, когда нужно представиться, я нервничаю.",
+        "en": "Hello, nice to meet you! My name is Xiangling, I'm a chef from Liyue! My favorite place is the chicken... I mean, the kitchen! Ugh, I practiced so hard, but I still get nervous when introducing myself... Heh.",
+        "zh": "我是来自璃月的厨师香菱，最擅长的是做各种捞…捞，料理…哎呀，练了那么多次，还是会紧张，嘿。"
+      },
+      "source_id": 12100
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Сладости",
+        "en": "Chat: Snacks",
+        "zh": "闲聊·点心"
+      },
+      "text": {
+        "ru": "Время перекусить? Я мигом приготовлю!",
+        "en": "Is there time for a quick snack? I'll whip one up in no time!",
+        "zh": "要吃点点心休息一下吗？我准备了一箩！"
+      },
+      "source_id": 12101
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Пиро слайм",
+        "en": "Chat: Pyro Slime",
+        "zh": "闲聊·火史莱姆"
+      },
+      "text": {
+        "ru": "С чем же Пиро слайм вкуснее, с солью и перцем или с чесноком и травами?",
+        "en": "I can't decide whether Pyro slimes taste better with salt and pepper or garlic and herbs...",
+        "zh": "火史莱姆，是椒盐…还是做成蒜香的好呢？"
+      },
+      "source_id": 12102
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Поиск ингредиентов",
+        "en": "Chat: Looking for Food",
+        "zh": "闲聊·觅食"
+      },
+      "text": {
+        "ru": "Если у тебя нет других дел, мы можем отправиться на поиски ингредиентов!",
+        "en": "If there's nothing better to do, we could go foraging for ingredients...",
+        "zh": "嗯，闲着也是闲着，还不如一起找找食材去！"
+      },
+      "source_id": 12103
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь: Отношение",
+        "en": "When It Rains: Attitude",
+        "zh": "下雨的时候·态度"
+      },
+      "text": {
+        "ru": "Ой... Я не люблю дождь.",
+        "en": "Oh... I don't like the rain.",
+        "zh": "嗯…我不太喜欢雨天。"
+      },
+      "source_id": 12104
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт дождь: Небрежность",
+        "en": "When It Rains: Negligence",
+        "zh": "下雨的时候·疏忽"
+      },
+      "text": {
+        "ru": "Я вот думаю... Не оставила ли я фартук сушиться снаружи?",
+        "en": "Wait... did I leave my apron outside to dry?",
+        "zh": "我想想…今天有没有晒衣服出去…"
+      },
+      "source_id": 12105
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Скорее, скорее, пошли искать мацутакэ!",
+        "en": "The rain has stopped! Come with me, let's pick some matsutake.",
+        "zh": "走走走，我带你去找松茸！"
+      },
+      "source_id": 12106
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Анемо слаймы обожают такую погоду, пойдём их ловить! Я сделаю тебе слаймовый смузи!",
+        "en": "Anemo Slimes always come out in this weather. If you catch some, I'll make you a Slime Slushie!",
+        "zh": "风史莱姆最喜欢在这种天气活动，快趁机多收集点儿！我给你做史莱姆沙冰！"
+      },
+      "source_id": 12107
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Ты как раз вовремя! Как насчёт того, чтобы пополнить припасы съестного?",
+        "en": "Perfect timing! Wanna get a few cooking supplies?",
+        "zh": "来得正好！一起去补充点食材吧？"
+      },
+      "source_id": 12108
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Обед готов, налетай скорей! Кто опоздает, тому не достанется!",
+        "en": "Lunch is ready! Come and get it while it lasts! *munching*",
+        "zh": "午饭已经做好了，快过来吃哦！啊呜…来晚了可就没了。"
+      },
+      "source_id": 12109
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Хочешь перекусить перед сном? Я как раз поджарила шашлычки из ящериц! Не стой столбом, скорее пробуй!",
+        "en": "You're just in time for a midnight snack! I made some barbecued lizard skewers. Well, don't just stand there — dig in!",
+        "zh": "要吃夜宵吗？我这正好做了串炭烤岩蜥蜴。哎呀，别盯着了，快尝尝吧！"
+      },
+      "source_id": 12110
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Эй... Ты же не собираешься есть на ночь без меня?.. А, идёшь спать? Тогда спокойной ночи!",
+        "en": "Hey! You're not sneaking off to get a midnight snack without me, are you? ...Bedtime? Oh. Well, good night then!",
+        "zh": "喂…你不会是想背着我偷偷吃什么好东西吧？哦，只是休息啊…嘿嘿，那晚安喔。"
+      },
+      "source_id": 12111
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Сян Лин...",
+        "en": "About Xiangling",
+        "zh": "关于香菱自己…"
+      },
+      "text": {
+        "ru": "Ты видел мондштадтского дракона? Большой был? Что?! Не может быть! Ты только представь, какого размера будет стейк из такого дракона! / Ты видела мондштадтского дракона? Большой был? Что?! Не может быть! Ты только представь, какого размера будет стейк из такого дракона!",
+        "en": "You've seen the dragon in Mondstadt? How big was it? What!? No way! Imagine how big a steak a dragon that huge would make!",
+        "zh": "你见过蒙德城的龙？有多大？哇，不是吧。那要是做成龙肉排——嗯，该有多棒啊！"
+      },
+      "source_id": 12112
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Преимущества",
+        "en": "About Us: Strengths",
+        "zh": "关于我们·长处"
+      },
+      "text": {
+        "ru": "Конечно, готовлю я лучше, чем ориентируюсь на местности, но... Если пойдёшь куда-нибудь, зови меня с собой!",
+        "en": "I'm much better at cooking than navigating... but if you do go out, definitely take me with you!",
+        "zh": "虽然比起认路我更擅长做饭，但…不管啦，出门喊我准没错！"
+      },
+      "source_id": 12113
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Новые знания",
+        "en": "About Us: New Knowledge",
+        "zh": "关于我们·新知识"
+      },
+      "text": {
+        "ru": "После знакомства с тобой я узнала много нового не только о кулинарии. О чём ещё? Ну... Хм... Вот так сразу и не скажешь... Ай, ладно, забудь, я лучше снова займусь готовкой и сделаю для тебя пару новых блюд.",
+        "en": "Meeting you has really opened my eyes to things other than cooking. Like what? Well, such as... um... for example... I can't think when you put me on the spot! Forget it, I'll stick to cooking from now on. I have a new recipe for you to try, actually...",
+        "zh": "自从认识你，我好像学会了不少料理以外的知识。欸？呃…你问我都有些什么？嗯…嗯…你突然这样问，我又有点想不起来了。算了算了，我原本就不擅长这些，还是给你做两道新菜尝尝吧！"
+      },
+      "source_id": 12114
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "В любое время дня и ночи я готова сделать блюдо, которое всем понравится. Думаю, боги заметили эту мою страсть, иначе зачем они дали мне Глаз Бога, которого нет даже у моей наставницы... Наверное, это чтобы я ещё сильнее старалась!",
+        "en": "Any time, night or day, I am always willing to make dishes everyone loves. I think the Archons agree with my passion, or else they wouldn't have given me this Vision, something even my master doesn't have... I know they want me to keep going!",
+        "zh": "无论什么时候，我都要做出所有人都爱吃的料理。神一定也认为这是正确的事情，才授予了我这个连大师父也没有的「神之眼」…唔，怎么说来着…哦，以资鼓励！"
+      },
+      "source_id": 12115
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Если у тебя болит живот, выпей чашечку свежезаваренного чая с цветами шелковицы! Что? Конечно, мы, повара, немного разбираемся и в травах!",
+        "en": "If you get a stomach ache, a cup of herbal tea with Silk Flowers will clear it up in no time! Huh? Of course you can trust my herbal remedies! We chefs are expected to know a thing or two about medicine as well, you know!",
+        "zh": "如果拉肚子了，喝一杯霓裳花泡的茶就会好的！欸？我懂一点食疗方法也不用奇怪吧！"
+      },
+      "source_id": 12116
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Обожаю лук! Я испробовала десяток способов нарезки лука, но так и не нашла тот, от которого не буду плакать. Однако я всё равно обожаю лук!",
+        "en": "I love onions! I've tried cutting them dozens of ways, and they still make me cry... No matter, I still love them!",
+        "zh": "我喜欢洋葱！…我试过十几种切洋葱不会流泪的方法，没一个对我有用。但这也阻止不了我喜欢洋葱！"
+      },
+      "source_id": 12117
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О Бай Чжу...",
+        "en": "About Baizhu",
+        "zh": "关于白术…"
+      },
+      "text": {
+        "ru": "А? Я чую запах туманной травы! Это господин Бай! Господин Бай пришёл к тебе? Тебе плохо?! Где болит? Голова кружится или живот скрутило? Может, горло?.. Или у тебя упадок сил? А, всё в порядке? Фух! Это хорошо, иначе господин Бай заставил бы тебя пить очень горькое лекарство!",
+        "en": "I can smell Mist Grass! It must be Dr. Baizhu! What is he doing here? *Shocked* Are you OK? Do you feel faint? Is your stomach sore? Or is it a sore throat? I've got it, you're fatigued from all that adventuring! No?... You're fine? Phew! Otherwise, he would've made you drink some traditional herbal medicine — it's so bitter!",
+        "zh": "嗯？我闻到了雾虚花的香气！是白先生，白先生来帮你看病了吗？你是哪里不舒服，头晕还是胃疼？还是嗓子痒？还是没力气？哦…没生病啊。那还好。不然白先生会给你超——苦的药哦。"
+      },
+      "source_id": 12118
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Нин Гуан...",
+        "en": "About Ningguang",
+        "zh": "关于凝光…"
+      },
+      "text": {
+        "ru": "О, это же госпожа Воля Небес! Видишь? Иди сюда. Ближе, ближе... Я тебе вот что скажу: она ух какая, знает всё, что творится в Ли Юэ! Так что осторожнее, не попадайся ей на глаза!",
+        "en": "That was the Tianquan! Did you see? She just walked past. Come here... closer... Let me tell you, she knows everything that happens in Liyue, so... keep a low profile, don't attract her attention!",
+        "zh": "哦！刚才那个，是「天权」大人啊…嗯，你凑过来点。再，再过来点。我跟你说哦，她可是一个特别厉害的人，港内的事情她什么都知道。所以，你也要小心一点，不要被她盯上了…"
+      },
+      "source_id": 12119
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Ху Тао...",
+        "en": "About Hu Tao",
+        "zh": "关于胡桃…"
+      },
+      "text": {
+        "ru": "О, Ху Тао и тебя задирает? Она вечно прячется у меня за спиной, а потом выпрыгивает и... Бу-у! И покатывается со смеху. Пф-ф. Но я не в обиде. Она часто приносит мне цветы сливы, чтобы я могла испечь цветочный пирог... Так что я не придаю значения её выходкам.",
+        "en": "Is Hu Tao picking on you too? Ugh, that prankster always waits till I least expect it, creeps up on me from behind and then... Boo! ...then laughs herself silly. Hmph. But I can handle it, and she does bring me fermented plum blossoms once in a while so I can make flower cakes... so I don't hold a grudge.",
+        "zh": "唔，你是不是也被胡桃欺负过？她老是趁我不注意躲到我后面，这样突然拍我的后背，得逞了还嘿嘿地笑，哼。但我大人大量，看在她每次都会给我带酿梅花做线花糕的份上，才没跟她斤斤计较。"
+      },
+      "source_id": 12120
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Дионе...",
+        "en": "About Diona",
+        "zh": "关于迪奥娜…"
+      },
+      "text": {
+        "ru": "Диона из Спрингвейла! Говорят, она делает отличные напитки, поэтому я решила специально нанести ей визит! Думаю, я могла бы использовать её секреты смешивания напитков в кулинарии, чтобы получить новые вкусы. Но рецепты, которые она мне дала - например, пиво с хвостом ящерицы или вино из одуванчиков с копчёной рыбой - выходят не очень. Может, мне лучше поэкспериментировать самой?",
+        "en": "Diona, from Springvale! Ah, I heard she mixes a great drink, so I came specifically to see her! I thought perhaps I could use her secrets in my cooking, and bring out more flavors. But the tips that she gave me — like soaking lizard tails in beer, or putting bits of smoked fish in dandelion wine — all came out really awful. *sigh* Guess it's up to me to work it out myself, then.",
+        "zh": "清泉镇的迪奥娜！啊啊，听说她能调出特别好喝的酒，我专门拜访过她！想着如果能把调酒的秘方借鉴到料理上，说不定也能做出美味。但是，她给我的秘方，比如啤酒里泡蜥蜴尾巴，蒲公英酒里放小块熏鱼…做出来都不是很好吃。呜，果然还是要靠自己吗？"
+      },
+      "source_id": 12121
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Бэй Доу...",
+        "en": "About Beidou",
+        "zh": "关于北斗…"
+      },
+      "text": {
+        "ru": "Бэй Доу - лучшая! Каждый раз, когда я выхожу с ней в море, мы вылавливаем много свежих ингредиентов! Осьминожьи щупальца - отличная основа для супа, а водоросли очень вкусны, если пожарить их с перцем. Мои блюда любит не только Бэй Доу, но и весь экипаж Южного Креста.",
+        "en": "Oh, Beidou is the greatest! Every time I go out sailing with her, she always manages to fish up lots of fresh ingredients! Octopus tentacles go great in soup, and seaweed fries up great with some chilis. Not just Beidou, but everyone on board The Crux loves my cooking.",
+        "zh": "北斗姐姐人特别好！跟着她出去航海的话，每次都能捕获到好多新鲜的食材！章鱼脚拿来煲汤最好，海天青就要用辣椒好好炝一炝。不光北斗姐姐，「南十字」的船员们都很喜欢我做的菜呢。"
+      },
+      "source_id": 12122
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Чжун Ли...",
+        "en": "About Zhongli",
+        "zh": "关于钟离…"
+      },
+      "text": {
+        "ru": "Мне встречалось немало привередливых клиентов, но таких прямолинейных и утончённых ценителей, как Чжун Ли, я больше не встречала! В тот день я подала ему тофу с солью и перцем. Он откусил кусочек и тут же спросил, какой солью я пользовалась. Потом он сказал: «Стоит попробовать добавить очищенную морскую соль с мелководья в каменном лесу Гуюнь, она придаст тофу большую свежесть и глубину вкуса». Я попробовала, и вкус действительно был другой! Чжун Ли - потрясающий человек!",
+        "en": "I've come across a lot of fussy eaters, but Mr. Zhongli is very particular and has no problem getting straight to what he has to say. The first time I served him salt and pepper tofu, he took just one bite, and then proceeded to say: \"It would be better to try sea salt extracted from the shallow seas of Guyun Stone Forest, because it would bring a fresh sense of depth to the tofu.\" I tried it and the taste was just so different! He's just amazing, don't you think!?",
+        "zh": "我遇到过不少挑剔的食客，但像钟离先生那种嘴巴上讲究，还能一针见血的，真的就只有他一个！那天我给他上的第一道菜是「椒盐豆腐」，他只尝了一口，就问我用的是什么盐，然后又说什么「不妨试试孤云阁浅海处提炼的海盐吧，它的层次感能够为豆腐赋予更多鲜味」。我试过之后味道真的大有不同。你说，他是不是好厉害！"
+      },
+      "source_id": 12123
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Чун Юне...",
+        "en": "About Chongyun",
+        "zh": "关于重云…"
+      },
+      "text": {
+        "ru": "Чун Юнь? Он часто вместе с Син Цю ходит в ресторан «Народный выбор»... Или лучше сказать, Син Цю тащит его туда? Но Чун Юнь не ест горячую пищу. Каждый раз, когда подают горячее блюдо, Син Цю вежливо извиняется, а потом берёт палочки и начинает пробовать каждое блюдо. Я тоже так хочу! Выражение Чун Юня в такие моменты надо видеть, ха-ха. Эти двое - интересные личности.",
+        "en": "Chongyun? I always see him on his way to eat at Wanmin Restaurant with Xingqiu... Ah... or perhaps I should say I see him being dragged there by Xingqiu? Chongyun doesn't eat hot food. Every time the hot food arrives, Xingqiu politely apologizes and proceeds to try every dish. I just wanna dig in with him! The look on Chongyun's face is priceless. They're quite interesting, those two.",
+        "zh": "重云啊，他总是跟着行秋一起来「万民堂」吃饭…呃，或者应该说，是被行秋拖来的？但是重云不吃热食。每次热菜上桌，行秋就会客客气气地说一声「失敬」，然后动起筷子逐一评点起每道菜的美味之处，他那夸得呀，我都想冲过去尝一口！你是没见到重云那种眼神，哈哈哈。还挺有趣的呢，他俩。"
+      },
+      "source_id": 12124
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Гань Юй...",
+        "en": "About Ganyu",
+        "zh": "关于甘雨…"
+      },
+      "text": {
+        "ru": "Гань Юй? Хм... А, помню, помню! Она вегетарианка! Она редко ходит в ресторан «Народный выбор», а когда приходит, занимает столик в углу и молча ест в одиночестве. Бедняжка! Когда я на это смотрю, мне становится так жалко её... Поэтому я всегда накладываю ей двойную порцию. Забавно, но она каждый раз съедает всё до крошки! А по внешности и не скажешь, что она на такое способна.",
+        "en": "Ganyu? Oh... Oh yeah! I remember her — vegetarian, right? She doesn't come to the Wanmin Restaurant very often — but when she does, she sits alone in the corner and eats her meal in total silence. Poor girl, she seems kinda lonely... I always give her an extra-large portion because I feel sorry for her. Funniest thing is, she eats every last bite, every time! I wouldn't have guessed she had such an appetite just by looking at her.",
+        "zh": "甘雨？嗯…啊啊有印象有印象，是那位只吃素食的客人吧！她来「万民堂」的次数不算多，每次都是一个人躲在小角落里不吭声地吃着饭。我嘛，看她孤孤单单有些可怜，就总帮她多舀两大勺菜。没想到，她每次都能全部吃完！真是不可貌相。"
+      },
+      "source_id": 12125
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Яо Яо...",
+        "en": "About Yaoyao",
+        "zh": "关于瑶瑶…"
+      },
+      "text": {
+        "ru": "Хе-хе, я горжусь тем, что могу назвать её младшей коллегой! Но она давно не приходила в ресторан «Народный выбор». Возможно, наставница опять беспокоится о ней... В прошлый раз я собиралась попробовать сырого осьминога из Облачного моря, но Яо Яо тогда не только не позволила мне это сделать, но и рассказала наставнице, и она отчитала меня... Хм. Иногда я не знаю, кто из нас старший шеф-повар...",
+        "en": "Hee-hee, I'm proud to call her my junior! She hasn't swung by the Wanmin Restaurant in ages, though. Maybe master is trying to protect her from me or something... Last time we hung out, I was about to dig into some fresh raw octopus from the Sea of Clouds, but not only did she stop me from eating it, she sent master to tell me off too! Ugh... Honestly, sometimes it feels like I'm the one who gets treated like the junior...",
+        "zh": "嘿嘿，她啊，是我引以为豪的小师妹喔！不过呀，她很久没来「万民堂」玩儿了。是大师父放心不下吧…哼，明明生的云来大章鱼那么好吃，瑶瑶上次不光不让我吃，还叫上大师父一起训斥我，呜…有时候真不知道，到底谁才是师姐了。"
+      },
+      "source_id": 12126
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Синь Янь...",
+        "en": "About Xinyan",
+        "zh": "关于辛焱…"
+      },
+      "text": {
+        "ru": "Синь Янь часто приходит в ресторан «Народный выбор», чтобы перекусить перед сном! Она без колебаний пробует новые блюда, к которым Чун Юнь и Син Цю даже близко не подходят... К тому же эти блюда нравятся ей в восьмидесяти процентах случаев! Эх, славная девчонка.",
+        "en": "Xinyan always comes to the Wanmin Restaurant for a late-night snack! She gobbles up all the new dishes that the likes of Xingqiu and Chongyun don't go near... and nine times out of ten, she enjoys them too! She's great.",
+        "zh": "辛焱经常来「万民堂」吃夜宵喔！像行秋、重云他们不敢试吃的新品，辛焱就会毫不犹豫地下筷…而且有八成以上的概率喜欢！哎，真是很不错的人呐。"
+      },
+      "source_id": 12127
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Е Лань...",
+        "en": "About Yelan",
+        "zh": "关于夜兰…"
+      },
+      "text": {
+        "ru": "Е Лань? Ну конечно же я её помню! Когда мы впервые встретились, мне показалось, что она из тех, кто предпочитает лёгкие блюда... Оказалось, что она ест специи больше всех! Мои блюда даже оказались недостаточно острыми для неё, потому что она начала закусывать сырым заоблачным перчиком! Невероятно.",
+        "en": "Yelan? Of course, I remember her! When I first met her, I was certain she'd be the kind of gal who'd prefer lighter dishes... turned out that she can handle the most spice out of all my customers! Apparently, my dishes weren't spicy enough for her, because she started taking bites of raw Jueyun Chilis! Truly amazing.",
+        "zh": "夜兰姐？我当然记得她啦。第一次见面时，我还猜她会喜欢那种清淡的菜式，没想到她是我见过最能吃辣的客人！菜肴里的辣味她觉得不够，居然把绝云椒椒直接嚼来吃！真了不起。"
+      },
+      "source_id": 12128
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Сян Лин I",
+        "en": "More About Xiangling: I",
+        "zh": "想要了解香菱·其一"
+      },
+      "text": {
+        "ru": "Шашлычки из жареного голубиного мяса! Что, никто не хочет?.. Попробуйте! Это мой особый рецепт, вам понравится!",
+        "en": "Roasted pigeon skewers, anyone? C'mon, it's my secret recipe, you'll love it!",
+        "zh": "烤鸽子肉，来两串？哎呀~尝尝嘛。加了我的独门秘方，绝对跟其他家的不一样！"
+      },
+      "source_id": 12129
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Сян Лин II",
+        "en": "More About Xiangling: II",
+        "zh": "想要了解香菱·其二"
+      },
+      "text": {
+        "ru": "Наставница научила меня владению копьём, здорово, правда? Если хочешь, я тоже могу тебя научить! Но... Если ты хочешь поучиться у меня кулинарии, то я буду только рада! Я хочу, чтобы мои техники и рецепты были известны по всему Тейвату!",
+        "en": "My master did a good job teaching me spear fighting, don't you think? If you want, I could teach you too. Although... I'd much rather teach you my cooking, if you're interested! I want my recipes to spread all around Teyvat!",
+        "zh": "大师父教我的枪法，很厉害吧？你想学的话我也可以教给你哦！不过说到这个…要是你愿意跟我学厨就好了！我的这些技巧和配方，要流传得远远的才好呢。"
+      },
+      "source_id": 12130
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Сян Лин III",
+        "en": "More About Xiangling: III",
+        "zh": "想要了解香菱·其三"
+      },
+      "text": {
+        "ru": "Чего я хочу больше всего на свете? Конечно, создать своё новое направление в кулинарии! Кухни Ли и Юэ хороши, но ограничены. Чего в них не хватает? Перца! Давай я прямо сейчас пожарю для тебя перчик Гобы!",
+        "en": "My heart's desire? To start my very own cooking tradition, of course! Li-style and Yue-style cooking are good, but they have a limited palate. The missing ingredient? Chili pepper! Come, let me fry up one of Guoba's chili peppers for you...",
+        "zh": "问我的愿望吗？那当然是要创造全新的新菜系！璃菜和月菜都是有极限的。哦，关键一定在于辣味吧！事不宜迟，让我爆炒个锅巴辣椒给你尝尝！"
+      },
+      "source_id": 12131
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Сян Лин IV",
+        "en": "More About Xiangling: IV",
+        "zh": "想要了解香菱·其四"
+      },
+      "text": {
+        "ru": "О! Смотрю, тебя покорило моё кулинарное мастерство? Настало время попробовать моё прекрасное новое блюдо - Изумительные разноцветные суперблинчики! Да, это тонкий яичный блинчик, на котором слоями выложены красная беличья ветчина, оранжевая морковь, мясо жёлтой солнечной лягушки, зелёные листья лилии каллы, синие крылья бабочки... Что? Уже совсем не хочешь? Ну ладно...",
+        "en": "I think I've won you over with my cooking now, right? It's time to introduce you to my latest masterpiece — I call it the \"most marvelous multi-colored super pancake\"! Bright red squirrel ham, orange carrot, yellow sunfrog meat, green calla lily and blue butterfly wings, beautifully wrapped in a thin egg pancake— What? I thought you said you were starving! *sigh* Okay.",
+        "zh": "嗯！我看你已经快被我的厨艺征服了嘛~是时候给你品尝我苦心研制的新菜品了——七彩琉璃大煎饼。喏喏，这薄薄一层蛋皮里面包着红色的松鼠火腿，橙色的胡萝卜，黄色的太阳蛙肉，绿色的嘟嘟莲，蓝色的蝴蝶翅膀…呃？真的不想吃吗？"
+      },
+      "source_id": 12132
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Сян Лин V",
+        "en": "More About Xiangling: V",
+        "zh": "想要了解香菱·其五"
+      },
+      "text": {
+        "ru": "Меня мучит один вопрос... Довольно странно, обычно я сплю спокойно и не задумываюсь долго над такими вещами... Нет, не так. Лучше я сейчас задам этот вопрос тебе. Понимаешь, я обожаю, когда ты пробуешь мои новые блюда, но боюсь, что твой желудок с таким не справится... Я этого не вынесу! Так что же мне делать?",
+        "en": "I'm in a dilemma and I don't know how to solve it... It isn't like me to get so worked up over nothing... Ah! Well, here's the thing. I always love getting you to try my latest recipes, but... I'm worried that my food might not agree with your stomach and... I can't bear the thought of that happening. What should I do?",
+        "zh": "我…有点想不明白，明明以前睡一觉就好了的，这可不是我的风格。啊呀，不行！还是让你来想吧！嗯…我很想让你一直试吃我的新菜，但不知道从什么时候起，如果你吃坏了肚子，我也会特别难受。我，我到底该怎么办呢？"
+      },
+      "source_id": 12133
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Хобби Сян Лин...",
+        "en": "Xiangling's Hobbies",
+        "zh": "香菱的爱好…"
+      },
+      "text": {
+        "ru": "Смотри, смотри! Нагреваешь масло на сковороде, вот так, потом берёшь горсть кристальных бабочек без крыльев, бросаешь - и хоп! Жареные кристальные бабочки почти готовы... Эй, не уходи, лучше попробуй!",
+        "en": "Watch carefully! Heat the oil in a pan, then take a handful of crystalflies — wings removed — pop them in, and voila! Delicious deep-fried crystal— Hey! Where are you going?",
+        "zh": "看着点哦！像这样烧热一锅油，然后，把去掉翅膀的晶蝶这样放下去炸…哎呀你别走啊，超香的啦！"
+      },
+      "source_id": 12134
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Беспокойство Сян Лин...",
+        "en": "Xiangling's Troubles",
+        "zh": "香菱的烦恼…"
+      },
+      "text": {
+        "ru": "Хм. Почему же рагу из слаймов с грибами так плохо продаётся... Может, потому что выглядит неаппетитно? Вкус-то у него отличный...",
+        "en": "It's been a month and I still haven't sold a single bowl of Mushroom Slime Stew. Gee, is it just because it looks sticky and gooey? It's their loss if they don't have a spoonful...",
+        "zh": "呜，史莱姆滑蘑菇一份也没卖出去。就因为卖相不好吗？口感明明很棒的呀…"
+      },
+      "source_id": 12135
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Моя любимая еда... Конечно, та, которую я ещё не пробовала! Нет, я не уклоняюсь от ответа, это правда!",
+        "en": "My favorite thing to eat is... whatever exotic ingredient I haven't tried yet! No, I'm not dodging the question, that's my honest answer!",
+        "zh": "喜欢的食物呀，嘿，那当然是尚且不知道味道的新菜啦！欸，我这样回答很狡猾？呜，明明说的是实话嘛。"
+      },
+      "source_id": 12136
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я ем всё! Нет плохих продуктов, есть плохая готовка!",
+        "en": "I'll eat absolutely anything! There are no bad ingredients, only bad cooking!",
+        "zh": "我是不会对食物有什么偏见的！只有不合适的做法，没有不合格的食物！"
+      },
+      "source_id": 12137
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Ага, я тебя нашла! Скорее, я накрыла для тебя целый стол! Хе-хе, подожди с похвалой, сначала попробуй всё, а потом говори!",
+        "en": "Ah, there you are! Come with me, I've prepared a birthday feast all for you! ... No really, I insist! Which dish is your favorite? It's okay, take your time, try them all first, then let me know!",
+        "zh": "啊，找到你了！快来，我给你做了一整桌的菜喔！嘿嘿，不用急着夸我，先等你尝过味道再慢慢说吧！"
+      },
+      "source_id": 12138
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Ух ты! Хорошо-то как! Я полна энергии!",
+        "en": "Oh wow! This feels great! My whole body is bursting with energy!",
+        "zh": "呼哇~！好爽！全身上下都充满了力量！"
+      },
+      "source_id": 12139
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Ха-ха, здорово! Да я могу с любым зверем одним махом управиться! Вот мой залог свежести ингредиентов!",
+        "en": "Hey! Ha! Hua! I can slay a beast with one punch, locking in that freshness!",
+        "zh": "嘿、哈！好！一拳就能把野物打晕…保证食材新鲜！"
+      },
+      "source_id": 12140
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Да с такой силой я могу приготовить... Могу приготовить... Ой, даже слюнки потекли!",
+        "en": "Finally... with this power, I can cook... *giggle* ...Oh no, I've started salivating!",
+        "zh": "有这种力量的话…终于可以…不好，口水要流下来了！"
+      },
+      "source_id": 12141
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Отец мне всегда говорил: «Блюдо на сто баллов требует энтузиазма на все сто двадцать». Я поняла, поняла! Я добилась таких результатов благодаря твоим ста двадцати баллам энтузиазма, с которыми ты готовил вместе со мной. Поэтому... Поэтому я отблагодарю тебя с двойным, нет, с тройным энтузиазмом! / Отец мне всегда говорил: «Блюдо на сто баллов требует энтузиазма на все сто двадцать». Я поняла, поняла! Я добилась таких результатов благодаря твоим ста двадцати баллам энтузиазма, с которыми ты готовила вместе со мной. Поэтому... Поэтому я отблагодарю тебя с двойным, нет, с тройным энтузиазмом!",
+        "en": "As my father always says: \"To make a five-star dish, you need ten-star passion!\" I know, I know! To be able to come this far is definitely thanks to your ten-star passion when it comes to practicing with me, so I'll be sure to pay you back with two— no, three times the passion!",
+        "zh": "父亲曾经说过：「想做出十分的菜肴，就要投入十二分的热情。」我懂的、我懂的！能走到今天这个地步，一定是因为有你付出了十二分的热情陪我练习。嗯，那我也要再加倍…用再加倍的热情来回应你！"
+      },
+      "source_id": 12142
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Гоба, огонь!",
+        "en": "Guoba, get them!",
+        "zh": "锅巴，喷火！"
+      },
+      "source_id": 12143
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Вкусно и остренько!",
+        "en": "Nice and spicy!",
+        "zh": "热和热和嘛。"
+      },
+      "source_id": 12144
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Со сковороды да в огонь!",
+        "en": "Out of the frying pan, into the fire!",
+        "zh": "开锅了开锅了！"
+      },
+      "source_id": 12145
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Эй... Да!",
+        "en": "Hey... Yah!",
+        "zh": "嘿…哈！"
+      },
+      "source_id": 12146
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Я поджарю тебя!",
+        "en": "You're toast!",
+        "zh": "讲不通，就打扁咯！"
+      },
+      "source_id": 12147
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "На тебе копьём!",
+        "en": "Eat this!",
+        "zh": "见识下师父的枪法！"
+      },
+      "source_id": 12148
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Обгоню!",
+        "en": "Race you!",
+        "zh": "跑起来跑起来！"
+      },
+      "source_id": 12149
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Конец спринта I",
+        "en": "Sprint End: I",
+        "zh": "冲刺结束·其一"
+      },
+      "text": {
+        "ru": "Ну вот, живот скрутило...",
+        "en": "Now I've got stomach cramps...",
+        "zh": "肚子岔气了…"
+      },
+      "source_id": 12150
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Сезам, откройся! Ну вот, теперь я проголодалась...",
+        "en": "Open sesame! Oh, now I'm hungry...",
+        "zh": "是新的食材！"
+      },
+      "source_id": 12151
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Какой обильный урожай!",
+        "en": "What a bountiful harvest!",
+        "zh": "大丰收大丰收！"
+      },
+      "source_id": 12152
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Ничто из этого не пропадёт даром!",
+        "en": "None of this will go to waste!",
+        "zh": "我会物尽其用！"
+      },
+      "source_id": 12153
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "На сегодня ингредиентов нет...",
+        "en": "No ingredients for me today...",
+        "zh": "呜，今天的食材好凶啊。"
+      },
+      "source_id": 12154
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Ох... *гримаса*",
+        "en": "Ow! Oh...",
+        "zh": "哎呀，疼疼疼…"
+      },
+      "source_id": 12155
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Ну всё, укатали!",
+        "en": "Now I'm really in a pickle!",
+        "zh": "我是不是惹了个不得了的家伙！"
+      },
+      "source_id": 12156
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Не торопись. Может, сделаем перерыв на перекус?",
+        "en": "Take a snack break!",
+        "zh": "别着急，歇会儿再打吧？"
+      },
+      "source_id": 12157
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Борись!",
+        "en": "Scramble!",
+        "zh": "快回来！"
+      },
+      "source_id": 12158
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Ужин подгорит...",
+        "en": "Dinner's gonna burn...",
+        "zh": "搞砸了呢…"
+      },
+      "source_id": 12159
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Воды...",
+        "en": "Water...",
+        "zh": "突然…好渴啊…"
+      },
+      "source_id": 12160
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Нет... Всё испорчено?",
+        "en": "No... Did I ruin everything?",
+        "zh": "是不是…连累你了…"
+      },
+      "source_id": 12161
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Не бей меня...",
+        "en": "Don't hit me...",
+        "zh": "不要打我…"
+      },
+      "source_id": 12162
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "На помощь! Мой ужин напал на меня!",
+        "en": "Help! My dinner is attacking me!",
+        "zh": "救命啊，食材打人啦！"
+      },
+      "source_id": 12163
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Это так больно!",
+        "en": "That really hurt!",
+        "zh": "还挺疼的唔…"
+      },
+      "source_id": 12164
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Возьму с собой пряности!",
+        "en": "I'll bring my seasonings!",
+        "zh": "佐料带全了！"
+      },
+      "source_id": 12165
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Копьё уже наточено!",
+        "en": "Just sharpened my spear!",
+        "zh": "长枪磨亮了！"
+      },
+      "source_id": 12166
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Я не могу больше ждать!",
+        "en": "I can't wait any longer!",
+        "zh": "一刻都不想多等！"
+      },
+      "source_id": 12167
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ого! Узнаю этот вкус... Это же бум шака-лака!",
+        "en": "Mmm... wow! I know this taste, it's... boom shaka-laka!",
+        "zh": "哇，这就是…「噼咔」的味道！"
+      },
+      "source_id": 12168
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Должна признать, ты отлично готовишь. В следующий раз мой черёд тебя угощать.",
+        "en": "I gotta admit, you're really good at cooking. Next time, it's my turn to show you a thing or two.",
+        "zh": "嗯，你做菜真有一套。下次就换我来露两手吧。"
+      },
+      "source_id": 12169
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Ты точно следовал рецепту? Вкус какой-то странный... / Ты точно следовала рецепту? Вкус какой-то странный...",
+        "en": "Are you sure you followed the recipe? Something is definitely off here...",
+        "zh": "难道是做法的问题吗？总觉得哪里怪怪的…"
+      },
+      "source_id": 12170
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "О Ка Мине...",
+        "en": "About Gaming",
+        "zh": "关于嘉明…"
+      },
+      "text": {
+        "ru": "Ох, как узнаю, что Ка Мин придёт, так обязательно заранее ставлю большой чайник чая, чтобы было чем запивать острую еду. Я предлагала приготовить ему неострое, но он настаивает, что ему больше нравится оригинальный вкус... И он говорит это не из вежливости. Уж поверь мне, я настоящего гурмана сразу вижу! Ну, если ему так больше нравится, то я-то уж его не разочарую!",
+        "en": "Oh boy, once I know Gaming is coming, I make sure to prepare a huge pot of tea in advance. You know, so he can wash some of the spicy food down. I've offered to tone down the spice a bit for him, but he absolutely insists that he prefers the authentic flavor... And he's not even just saying that to be polite. Believe me, I know a true foodie when I see one! Anyway, if that's what he prefers, then who am I to disappoint, hehe!",
+        "zh": "哎呀，知道嘉明要来，我就会早早备上一大壶茶水，方便他涮辣菜。我提议说给他做一份不辣的，但他却摆着手说就喜欢原汁原味的配方…不会错的，那不是客套话，我能分辨出真正食客的眼神！嘿嘿，那我当然也不能让他失望啦！"
+      },
+      "source_id": 12171
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "О Лань Янь...",
+        "en": "About Lan Yan",
+        "zh": "关于蓝砚…"
+      },
+      "text": {
+        "ru": "Гоба обожает Лань Янь! Когда они впервые встретились, они так долго пожимали друг другу руки, словно знали друг друга целую вечность, ха-ха. Лань Янь даже пообещала взять меня на сбор диких грибов и насекомых... Хе-хе, как только я приготовлю своё новое блюдо, ты просто обязан будешь его попробовать! / Гоба обожает Лань Янь! Когда они впервые встретились, они так долго пожимали друг другу руки, словно знали друг друга целую вечность, ха-ха. Лань Янь даже пообещала взять меня на сбор диких грибов и насекомых... Хе-хе, как только я приготовлю своё новое блюдо, ты просто обязанa будешь его попробовать!",
+        "en": "Guoba loves Lan Yan! They spent soooooo long shaking hands when they first met, it was like they'd known each other forever, haha. Lan Yan actually promised to take me foraging for wild mushrooms and insects... Hehe, once my new dish is ready, you've gotta come try it!",
+        "zh": "锅巴很喜欢她！第一天见面就不停地跟她握手，不知道的还以为他们认识了很久呢哈哈！我已经跟蓝师傅约好啦，让她带我去抓昆虫，采野蕈…嘻嘻，等我的新菜创作出来之后，你们都要来吃哦！"
+      },
+      "source_id": 12172
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "Об Эскофье...",
+        "en": "About Escoffier",
+        "zh": "关于爱可菲…"
+      },
+      "text": {
+        "ru": "А! Ты про того повара из Фонтейна, да? Она великолепна! На днях я попробовала несколько её новых блюд. Все они были такими... как бы это сказать... точными! Как будто она взяла все ароматы и ингредиенты в своих блюдах и превратила их в искусство! Я была поражена тем, как тщательно всё было продумано: каждый этап, каждый приём - всё исполнено в совершенстве! Я хочу, чтобы Шэнь Хэ попросила тётю Сянь Юнь собрать мне машину для точного приготовления пищи. Тогда я тоже смогу опробовать кулинарный стиль Эскофье!",
+        "en": "Oh! You mean that chef from Fontaine, right? She's great! I got to try a bunch of her new dishes the other day. They were all so... what's the word... precise! It was like she took all the flavors and ingredients in her dishes and transformed them into art! I was amazed at how meticulous everything was — every measurement, every technique executed to perfection! I kinda want Shenhe to ask Aunty Xianyun to make me a precision cooking machine of my own, so I can try out Escoffier's style of cooking!",
+        "zh": "啊！那个枫丹的厨师姐姐，我很喜欢她！那天她请我试吃了许多新奇的菜品，里边的口感非常…那个词怎么说的来着？哦，是「精准」！就像用各种味道的食材，在嘴里精雕细琢地制成了一尊雕塑！她对做菜过程中每个环节、每种原料的控制手法，都让我眼界大开。我是不是也该托申鹤去找闲云姨，做个能够定时定量还定温度的机关，再来学学她的手法呢？"
+      },
+      "source_id": 12173
+    }
+  ],
+  "replica_count": 74
 }

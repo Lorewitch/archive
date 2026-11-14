@@ -146,5 +146,946 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я Альбедо, главный алхимик Ордо Фавониус. От тебя веет аурой звёзд. Очень интересно... Я бы хотел изучить тебя поближе, если ты не против. Думаю, у нас будет ещё много возможностей остаться наедине.",
+        "en": "I am Albedo, Chief Alchemist of the Knights of Favonius. You carry the aura of the stars, interesting... I would like to study you, if you do not mind. I'm certain we will have many opportunities to be alone in the future.",
+        "zh": "我是阿贝多，西风骑士团首席炼金术士。我对你身上星海的气息很感兴趣，想要就近观察研究。相信以后我们会有很多独处的机会。"
+      },
+      "source_id": 35009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Живопись",
+        "en": "Chat: Still Life",
+        "zh": "闲聊·写生"
+      },
+      "text": {
+        "ru": "Какой вид... Давай сделаем небольшой привал, чтобы я успел сделать набросок этого великолепного пейзажа?",
+        "en": "What a view... How about a quick break so I can sketch this beautiful scenery?",
+        "zh": "风景不错，趁着休息，就把这一幕画下来吧。"
+      },
+      "source_id": 35010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Поиски",
+        "en": "Chat: Investigation",
+        "zh": "闲聊·探究"
+      },
+      "text": {
+        "ru": "«Истина мира»... Что же это может быть?",
+        "en": "\"The truth of this world\"... *sigh* What could it be?",
+        "zh": "「世界的真相」…究竟是什么呢？"
+      },
+      "source_id": 35011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Воспоминания",
+        "en": "Chat: Reminiscing",
+        "zh": "闲聊·怀旧"
+      },
+      "text": {
+        "ru": "Бродить по миру и исследовать его, превращая непознанное в познанное... Я так по этому скучал.",
+        "en": "Going out into the world and investigating, turning the \"unknown\" into the \"known.\" ...Ahhh, I missed this feeling.",
+        "zh": "用自己的双脚丈量土地，将「未知」变为知识。…这种感觉，真怀念啊。"
+      },
+      "source_id": 35012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Когда почва влажная, хорошо собирать корни бум-огурца. Ничего, я сам справлюсь.",
+        "en": "The soil is moist, ideal for collecting the roots of Boom Blossoms. No please, allow me to handle this.",
+        "zh": "土壤湿润，适合采集爆爆瓜的根。没事，我来动手就可以。"
+      },
+      "source_id": 35013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Учитель...",
+        "en": "Master...",
+        "zh": "师父…"
+      },
+      "source_id": 35014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Хорошее освещение... активные биологические организмы... Пожалуй, сделаю набросок этого места.",
+        "en": "Ample light... active biological organisms... Yes, this is a good place to sketch.",
+        "zh": "光线充足，生物行为活跃，嗯，很适合写生。"
+      },
+      "source_id": 35015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро. Собираешься на поиски древних реликвий?",
+        "en": "Good morning. Are we going to search for ancient relics today?",
+        "zh": "早安，是准备出门寻找古代遗物吗？"
+      },
+      "source_id": 35016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Добрый день. Я услышал твои шаги. Ох, как же снаружи шумно.",
+        "en": "Good afternoon. I heard your footsteps. My, it certainly is lively outside of the workshop.",
+        "zh": "午安，我听到了你的脚步声。工坊之外真是热闹啊。"
+      },
+      "source_id": 35017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Хм... Снаружи стало тихо...",
+        "en": "*sigh* It's gotten quiet outside...",
+        "zh": "外面安静下来了，呼。"
+      },
+      "source_id": 35018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Спокойной ночи. Иди отдыхай, а я проведу ещё один эксперимент, последний на сегодня... Можешь узнать о результатах завтра, если тебе интересно.",
+        "en": "Good night, you go ahead and rest. I will just finish one last experiment before bed... If you are interested in the results, I can discuss them with you tomorrow.",
+        "zh": "晚安，你先去休息吧，我打算把最后一个实验做完。既然你那么感兴趣…明日再会时，我再与你一起探讨实验结果吧。"
+      },
+      "source_id": 35019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Об Альбедо: Гений",
+        "en": "About Albedo: Genius",
+        "zh": "关于阿贝多自己·天才"
+      },
+      "text": {
+        "ru": "Гений? ...Многие так меня называют. Но я не считаю себя «гением».",
+        "en": "Genius? ...A number of people call me that. But I don't think I'm any \"genius.\"",
+        "zh": "天才？…不少人这么称呼我。其实，我不这样认为。"
+      },
+      "source_id": 35020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Об Альбедо: Отношения",
+        "en": "About Albedo: Socializing",
+        "zh": "关于阿贝多自己·人际"
+      },
+      "text": {
+        "ru": "Общаться с людьми... очень сложно. Отношения постоянно нужно поддерживать, а если вы перестали общаться, то, чтобы их восстановить, придётся потратить ещё больше времени...",
+        "en": "Relationships are... *sigh* quite troublesome. Once you establish a relation with someone, you must continue to maintain it; if you lose contact, you must reestablish the relation. This taxing cycle requires...a lot of time.",
+        "zh": "与人交往…很麻烦。一旦开始就要不断维持，如果联系中断了，想再重新恢复，就得消耗更多的时间。"
+      },
+      "source_id": 35021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Эксперименты",
+        "en": "About Us: Experiments",
+        "zh": "关于我们·实验"
+      },
+      "text": {
+        "ru": "Ты... хочешь провести эксперимент вместе со мной? Ах, это честь для меня. Не стоит волноваться. Мои эксперименты опасные, но без жертв... обычно.",
+        "en": "You... want to accompany me while I experiment? I'm honored.\nOh, don't be nervous. My experiments may be dangerous, but no one gets hurt... most of the time.",
+        "zh": "你…这是准备陪我做实验吗？呼，真荣幸。\n啊，不用紧张。我的实验虽然危险，通常不会伤及无辜。"
+      },
+      "source_id": 35022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Помощник",
+        "en": "About Us: Assistant",
+        "zh": "关于我们·助手"
+      },
+      "text": {
+        "ru": "Не мог бы ты оказать мне услугу и стать моим помощником? Наблюдая за столькими экспериментами, ты явно стал лучше разбираться в алхимии. Не волнуйся, я буду рядом. Не думаю, что могут возникнуть какие-либо проблемы. Я верю в своё умение учить, но ещё больше я верю в твои исключительные таланты. / Не могла бы ты оказать мне услугу и стать моим помощником? Наблюдая за столькими экспериментами, ты явно стала лучше разбираться в алхимии. Не волнуйся, я буду рядом. Не думаю, что могут возникнуть какие-либо проблемы. Я верю в своё умение учить, но ещё больше я верю в твои исключительные таланты.",
+        "en": "Would you oblige me by serving as my assistant? After observing so many experiments, you surely know a good deal about alchemy by now. Relax, we will work together. I don't think you will have any problems. I have faith in my ability to instruct you, and even more faith in your exceptional talents.",
+        "zh": "能麻烦你当我的助手吗？鉴于你旁观了那么多次，想必早就熟练了吧。放心，我在你旁边。就算是第一次实际操作，也不会有问题的。我相信我的指导能力，更相信你的天赋。"
+      },
+      "source_id": 35023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Мой Глаз Бога? Ах, это всего лишь инструмент, помогающий проводить эксперименты, как реторта или тигель. Что меня в нём интересует, так это принцип его работы... Когда-нибудь я узнаю его секрет, это лишь вопрос времени.",
+        "en": "My Vision? Ah, that's nothing more than a tool to aid in my experiments, no different from a beaker or crucible. The one thing about it that really intrigues me is the principle behind how it works... One day, I will uncover its secrets. It's only a matter of time.",
+        "zh": "「神之眼」？不过就是个实验用的工具罢了，和烧杯、坩埚没什么不同。唯一让我感兴趣的，就是它的原理…我总有一天会研究明白的，这只是时间问题。"
+      },
+      "source_id": 35024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Я всё хотел спросить, но боялся отказа и разочарования... Эм... Меня очень интересует твой летающий компаньон, могу я одолжить её ненадолго для опытов?",
+        "en": "There's something I've always wanted to ask you, but feared rejection and disappointment...\nAhem... I am very interested in your... little floating companion. May I borrow her to investigate for a short while?",
+        "zh": "一直有些难以开口，因为假设被你拒绝的话，我可能会失落吧…\n嗯…我对你身边那个飞着的小家伙很感兴趣，方便让我拿去研究一下吗？"
+      },
+      "source_id": 35025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Хочешь узнать об Окаменевших деревьях? Хм... Вообще, деревья, которые тебе встречаются в подземельях, не такие древние. Действительно древние деревья вырастают до двух-трёх километров в высоту, а среди их корней живут огромные пауки. Если обвязать их гардениями и лемонграссом, посыпать кардамоном и покоптить несколько часов - то их вкус... Он просто незабываем.",
+        "en": "You would like to know more about petrified trees? Um... ahem. Actually, the petrified trees you have come across in domains aren't that ancient. Truly ancient trees usually grow to around one or two miles in height? Oh, and there's a kind of large spider that lives around their roots — if you tie one up in cape jasmine and lemongrass and sprinkle on some cardamom, smoke it for a few hours — you get a fragrant taste that's simply... unforgettable.",
+        "zh": "想知道更多石化古树的事情？唔…你在附近秘境里观测到的那些，其实不算古老。稍微成熟一些的树，一般能长到两三公里高；在树的根部，常常聚集着一种大蜘蛛。那种蜘蛛啊，用地栀子和香茅草捆紧，抹上白豆蔻，熏烤上几个小时，那香味，是真的很…令我难忘。"
+      },
+      "source_id": 35026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О семье...",
+        "en": "About Family",
+        "zh": "关于亲人…"
+      },
+      "text": {
+        "ru": "Семья? Алиса всегда просила называть её матерью... Но при слове «семья» я сразу вспоминаю о своём учителе. Мои первые воспоминания о наших с ней путешествиях. Она научила меня искусству алхимии и многому другому о мире. Пожалуй... слова «семья» и «учитель» не совсем точно описывают её роль в моей жизни.",
+        "en": "Family? Although Alice has always asked me to call her \"Mother,\" when I think of the idea of \"family,\" my master comes to mind first. My earliest memories in life are of going on adventures with her. She taught me the art of alchemy and much knowledge about the world. Perhaps... even the words \"family\" and \"master\" are incapable of fully expressing her meaning to me.",
+        "zh": "亲人吗？虽然艾莉丝总希望我喊她妈妈…唔，但在我心里，谈起亲人第一时间想到的还是师父吧。我从记事起就和她在一起探险了，她教会了我炼金术和无数世间的知识。或许…「亲人」或者「师父」，这些词汇都不足以描绘出她对我来说的意义吧。"
+      },
+      "source_id": 35027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Сахарозе: Направление",
+        "en": "About Sucrose: Direction",
+        "zh": "关于砂糖·方向"
+      },
+      "text": {
+        "ru": "Сахароза? Думаю, я более-менее понимаю, почему она так интересуется биоалхимией... Я очень рад её успехам.",
+        "en": "Sucrose? I think I more or less understand why she is so dedicated to her research in bio-alchemy... Either way, I'm happy to see her succeed more and more in her endeavors.",
+        "zh": "砂糖吗？我大概能理解她一心专攻「生物炼金」的理由…不管怎样，看到她的研究越来越顺利，我也为她感到高兴。"
+      },
+      "source_id": 35028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Сахарозе: Упрямство",
+        "en": "About Sucrose: Habits",
+        "zh": "关于砂糖·坚持"
+      },
+      "text": {
+        "ru": "Мне очень нравится заниматься с ней алхимией, но она такая упрямая в том, что не касается исследований. Например, я ей много раз говорил, что мы с ней почти ровесники и можно называть меня просто Альбедо. Но она продолжает обращаться ко мне со всей формальностью... Ну, главное, чтобы ей удобно было.",
+        "en": "Working with Sucrose on alchemy research is quite pleasant, but she has some... stubborn qualities in regards to certain aspects unrelated to research. For example, I have told her numerous times to just call me \"Albedo\" since we are hardly generations apart, but she insists on addressing me in an excessively formal manner. *sigh* ...Whatever she prefers, I guess.",
+        "zh": "虽然在学术方面的合作非常愉快，但课题以外的部分，砂糖也有很多她自己的坚持。比如我告诉她我们是平辈，叫我阿贝多就好，她却坚持要用尊称。…只好随她去了。"
+      },
+      "source_id": 35029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Лиза? Она всегда привносит в разговор интересные точки зрения. Но почему человек с такими талантами работает обычным библиотекарем? Для этого должна быть скрытая причина.",
+        "en": "Lisa? I always am impressed by the valuable perspectives she brings to discussions. But is a person with her talents satisfied with such a basic occupation as librarian? There must be some hidden reason for this.",
+        "zh": "丽莎吗？和她讨论总会得到很有价值的观点。如此有才华却满足于图书管理员一职，想必背后藏着与那才华等重的因缘吧。"
+      },
+      "source_id": 35030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Кли...",
+        "en": "About Klee",
+        "zh": "关于可莉…"
+      },
+      "text": {
+        "ru": "Я считаю Кли своей младшей сестрой, поэтому каждый раз, когда она создаёт проблемы, я только и успокаиваю себя тем, что её разрушительная сила ещё далека от той, которой владеет госпожа Алиса.",
+        "en": "Indeed, I view Klee as my younger sister. Whenever she gets herself into some explosive sort of trouble, I can only console myself with the fact that her current destructiveness is nothing compared to that of Miss Alice.",
+        "zh": "我的确把可莉当作亲妹妹一样看，所以每次当这位妹妹惹出麻烦的时候，我都只能安慰自己，至少她现在的破坏力，还不及艾莉丝女士的零头。"
+      },
+      "source_id": 35031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Джинн...",
+        "en": "About Jean",
+        "zh": "关于琴…"
+      },
+      "text": {
+        "ru": "Джинн? Она замечательно справляется с обязанностями действующего магистра. Можно даже сказать, что она надёжнее магистра Варки. Может быть, в глубине сердца все даже мечтают о том дне, когда она станет настоящим магистром.",
+        "en": "Jean? She has served exceptionally well as Acting Grand Master. One can even say she is more reliable than Grand Master Varka. Perhaps in our hearts, we all eagerly await the day she can become the official Grand Master herself.",
+        "zh": "琴吗？她是一位正直的代理团长，甚至可以说比那位团长大人更为可靠。可能大家心中都在期待着她成为正式团长的那一天吧。"
+      },
+      "source_id": 35032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Син Цю...",
+        "en": "About Xingqiu",
+        "zh": "关于行秋…"
+      },
+      "text": {
+        "ru": "Син Цю? Он очень интересно пишет. Издательство «Яэ» в Инадзуме постоянно просит меня поработать с другими писателями. Говорят, что так процент с продаж будет выше. Пф, неужто мне нужна эта мора?",
+        "en": "Oh, Xingqiu? I find his written works quite interesting. The Yae Publishing House in Inazuma has been asking that I cooperate with a different author for greater royalties. Hmph, do I seem the type to be swayed by a few extra Mora?",
+        "zh": "行秋吗？他写的小说挺有趣的。稻妻那边的「八重堂」一直在旁敲侧击希望让我和别的作者合作，说这样版税收入也会更好。哼，我缺这点钱吗？"
+      },
+      "source_id": 35033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Барбаре...",
+        "en": "About Barbara",
+        "zh": "关于芭芭拉…"
+      },
+      "text": {
+        "ru": "Барбара? Она очень добросовестный пастор. Как-то раз мне выдалась возможность сделать набросок её портрета... Что с ним стало? Ах, да... Альберт хотел купить его, но я отказал и подарил портрет действующему магистру. На отношения с людьми уходит так много сил...",
+        "en": "Barbara? She's a very earnest Deaconess. I once had the opportunity to sketch her a simple portrait... What happened to the sketch? Ah yes... Albert offered to purchase it, but I rejected his bid and gave it to the Acting Grand Master. Social relations... really require a lot of effort.",
+        "zh": "芭芭拉吗？她是一位认真的牧师，说来以前碰巧有机会给她画过速写…你问画哪儿去了？嗯…我拒绝了艾伯特的开价，直接把画送给了代理团长。人际交往…真是耗费精力啊。"
+      },
+      "source_id": 35034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Узнать больше об Альбедо I",
+        "en": "More About Albedo: I",
+        "zh": "想要了解阿贝多·其一"
+      },
+      "text": {
+        "ru": "Хочешь что-то спросить? Спрашивай. Один вопрос вряд ли займёт много времени. А то мой эксперимент приближается к финальной стадии.",
+        "en": "Have a question for me? Go ahead, ask. It doesn't take too long to ask a single question, does it? I'm about to begin the final stage of an experiment...",
+        "zh": "有问题想问我？请说吧。啊，冒昧地问一句，应该不会花费太长时间吧？手头的研究马上要进入最后一个阶段了。"
+      },
+      "source_id": 35035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше об Альбедо II",
+        "en": "More About Albedo: II",
+        "zh": "想要了解阿贝多·其二"
+      },
+      "text": {
+        "ru": "Ах, кстати. Ты знал, что без человеческого вмешательства для возникновения золота понадобилась бы энергия солнца в восемь раз больше нашего? / Ах, кстати. Ты знала, что без человеческого вмешательства для возникновения золота понадобилась бы энергия солнца в восемь раз больше нашего?",
+        "en": "Oh, by the way. Did you know that without human manipulation, you would need to harness the power of a sun eight times the size of our own in order to naturally create gold?",
+        "zh": "啊，只是随口一提。不人为介入的话，黄金需要杀死一个八倍大的太阳才能自然生成。"
+      },
+      "source_id": 35036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше об Альбедо III",
+        "en": "More About Albedo: III",
+        "zh": "想要了解阿贝多·其三"
+      },
+      "text": {
+        "ru": "Время, требуемое на зарисовку портрета, зависит от настроения. Портрет Хоффмана я могу растянуть на полдня, а для портрета Кэйи хватит трёх штрихов: кружок - это лицо, вторая линия - это ремешок повязки... и третья - сама повязка.",
+        "en": "The time required to sketch portraits closely correlates with one's mood. I could spend half a day sketching Huffman, while I might only need three strokes of the pencil to sketch Kaeya — one for the face, one for the eyepatch string... and one for the eyepatch.",
+        "zh": "人物画的耗时主要和心情有关。有时候霍夫曼我也能画半天，有时候凯亚都只需要三笔——这个圆是脸，这个是眼罩的带子…这个是眼罩。"
+      },
+      "source_id": 35037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше об Альбедо IV",
+        "en": "More About Albedo: IV",
+        "zh": "想要了解阿贝多·其四"
+      },
+      "text": {
+        "ru": "Чем я занимаюсь в свободное от рисования и исследований время?.. Иногда читаю романы из Инадзумы и Ли Юэ. Зачастую в них попадаются интересные идеи, можно даже почерпнуть вдохновение для собственной работы.",
+        "en": "What do I do besides sketching and research...? I will occasionally read novels from Inazuma and Liyue. They contain many fascinating ideas which can sometimes provide me with unexpected inspirations for my own creations.",
+        "zh": "除了画画和研究之外的生活…我偶尔会去看稻妻和璃月的小说吧，能看到很多很有趣的想法，有时也会为创作提供意想不到的灵感。"
+      },
+      "source_id": 35038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше об Альбедо V",
+        "en": "More About Albedo: V",
+        "zh": "想要了解阿贝多·其五"
+      },
+      "text": {
+        "ru": "Даже сейчас в алхимическом процессе нигредо, оставленным учителем, для меня много непонятного. Что же она хотела создать этим методом?.. Мои исследования ещё далеки от завершения, и для их продолжения мне понадобится твоя помощь.",
+        "en": "Even now, I find the nigredo processing stage of alchemy passed down by my master to be full of mystery. What did my master want to create using this technique...? My research is far from over. I will require your help to investigate further.",
+        "zh": "即便到了现在，师父传授给我的「黑土之术」仍是充满了谜团，师父到底想要用这个技术创造出什么呢？…研究之期还远未到尽头，得麻烦你和我一起继续探索了。"
+      },
+      "source_id": 35039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Хобби Альбедо...",
+        "en": "Albedo's Hobbies",
+        "zh": "阿贝多的爱好…"
+      },
+      "text": {
+        "ru": "Хм... Кроме исследований, мне, пожалуй, больше всего нравится рисовать. Поначалу я расценивал рисование лишь как подспорье для исследований, позволяющее лучше понимать структуру объектов и материалов. Но потом это стало моим хобби. Помогает мне расслабиться.",
+        "en": "Hmm... Besides research, the activity I spend most of my time on is probably sketching. At first I saw it simply as a way to better study the structure of living things and materials so as to aid me in my experiments, but it eventually became a hobby of mine. Indeed, it is a very good way to relax.",
+        "zh": "嗯…研究之外我最愿意花时间去做的应该是画画吧。一开始只是为了理解物体与材料的构成，便于研究开展，不过到了后来就变成了爱好。嗯，也是一种很好的放松方式。"
+      },
+      "source_id": 35040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Беспокойство Альбедо...",
+        "en": "Albedo's Troubles",
+        "zh": "阿贝多的烦恼…"
+      },
+      "text": {
+        "ru": "Времени никогда не хватает. Даже если избавиться от всех хлопот - всё равно не хватает.",
+        "en": "There's just never enough time, is there? Even when I remove the most troublesome matters from my schedule, I still can't find enough time for everything.",
+        "zh": "时间真是不够用啊，即使把大部分麻烦的事情都推掉还是会觉得时间不够。"
+      },
+      "source_id": 35041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я люблю десерты. Как бы сказать... Когда умственные и физические силы на исходе, высококалорийные вещества - это простая и эффективная поддержка.",
+        "en": "I really do enjoy having dessert. How can I put it...? When both physical and mental capacity are spent, high-energy materials further provide a kind of primordial, highly-effective boost.",
+        "zh": "我挺喜欢甜点的。怎么说呢…在体力和精力同时消耗殆尽的时候，高能量的物质会提供原始而高效的支持吧。"
+      },
+      "source_id": 35042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Какая еда мне не нравится? ...Не люблю большие порции мяса в ресторанах. Я не могу много съесть, и либо я ужасно объемся, либо еду придётся выкинуть. Поэтому я просто не хожу больше в рестораны, хотя и приходится тратить время на готовку...",
+        "en": "What food do I dislike? ...Large portions of meat at restaurants. I have a rather small appetite, so a meal like that only ends up in tragedy — either I overeat and the joy of the taste is lost, or I don't finish it and the food is wasted. I decided to simply not go to restaurants, although that has also meant I must spend more time preparing my own food...",
+        "zh": "讨厌的食物？餐馆里分量比较大的肉吧。我的胃口吃不了多少，只会面临「浪费」或者「失去风味」的结局。后来我就干脆不去餐馆了，虽然这也意味着要花更多时间在做菜上…"
+      },
+      "source_id": 35043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения. Ты выглядишь особенно счастливым, можно я тебя нарисую? Объём нашего мозга ограничен, поэтому мы постоянно что-то забываем. Но если запечатлеть событие на бумаге, то рисунок становится продолжением нашей памяти. Потом, смотря на эти рисунки, мы сможем вспомнить свои ощущения. / С днём рождения. Ты выглядишь особенно счастливой, можно я тебя нарисую? Объём нашего мозга ограничен, поэтому мы постоянно что-то забываем. Но если запечатлеть событие на бумаге, то рисунок становится продолжением нашей памяти. Потом, смотря на эти рисунки, мы сможем вспомнить свои ощущения.",
+        "en": "Happy birthday. You look especially happy, would you mind if I sketched you? The capacity of our brains is limited, so we are bound to forget things. But when an image is transferred onto paper or canvas, the sketch becomes an extension of our memory. We can remember that past feeling when we later look at the sketch.",
+        "zh": "生日快乐。你看起来很高兴，可以将你的样子画下来吗？大脑的容量是有限的，人总会不断忘记。如果画在纸上，那么这些画就成了记忆的延伸，在未来重新看到这些画面时，一定能回想起当时的感觉吧。"
+      },
+      "source_id": 35044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Нигредо - это первая ступень алхимии, выходящая из первородных форм. Живя в этом мире, смертные вроде нас обязаны искать свой собственный смысл.",
+        "en": "Nigredo is the first step in alchemy, drawing from primordial forms. As beings who live in this world, we must find our own meaning.",
+        "zh": "「黑土」，是炼金术的词源，也是最初的状态。活在这个世界上，我等俗类必须寻找意义。"
+      },
+      "source_id": 35045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Альбедо - это ступень, на которой начинаются изменения. Избавиться от примесей, быть готовым принять любые знания. Ты готов исследовать мир вместе со мной? / Альбедо - это ступень, на которой начинаются изменения. Избавиться от примесей, быть готовым принять любые знания. Ты готова исследовать мир вместе со мной?",
+        "en": "Albedo is the step in which change begins. Clearing away the excess so we can take on all the knowledge that is available. Would you like to investigate this world with me?",
+        "zh": "「白垩」，即是变化的开始。抽离了杂质，准备好接受一切知识。要和我一起去探索世界吗？"
+      },
+      "source_id": 35046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Рубедо в алхимии означает очищение чувств. Я чувствую, как благодаря тебе очищаются мои мысли.",
+        "en": "Rubedo in alchemy refers to the refining of feeling. I feel the refining of my own emotions is also thanks to you.",
+        "zh": "「赤成」，炼金术中的意思是，情感的炼化。我的赤色好像来自于你。"
+      },
+      "source_id": 35047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Цитринитас - последняя ступень алхимического процесса трансмутации. Наконец раскрывается истинный смысл трансмутации объекта: стать золотом и осознать свою ценность... Я тоже смог найти свой собственный смысл.",
+        "en": "Citrinitas is the final stage of the alchemical transmutation process. The meaning of the object being transmuted has finally been brought to light, becoming gold and revealing its true value... I too have found my own meaning.",
+        "zh": "「黄金」，炼金术最后的阶段。无价值的事物终于找到了自己的意义，变化成了黄金。我，也找到了意义。"
+      },
+      "source_id": 35048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Расцвети.",
+        "en": "Burst forth.",
+        "zh": "绽放吧。"
+      },
+      "source_id": 35049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Явись из небытия!",
+        "en": "Come into being!",
+        "zh": "拟造阳华。"
+      },
+      "source_id": 35050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Живи.",
+        "en": "Live.",
+        "zh": "创生之法。"
+      },
+      "source_id": 35051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Момент рождения.",
+        "en": "Moment of birth.",
+        "zh": "此即，诞生之刻。"
+      },
+      "source_id": 35052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Почувствуй эту древнюю силу.",
+        "en": "Feel this ancient power.",
+        "zh": "冥古，于此显生。"
+      },
+      "source_id": 35053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Узри моё великое творение.",
+        "en": "Witness my great undertaking.",
+        "zh": "见证伟业吧。"
+      },
+      "source_id": 35054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Этот мир хранит много редких сокровищ.",
+        "en": "This world holds many a rare treasure.",
+        "zh": "大地的秘宝。"
+      },
+      "source_id": 35055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Если бы сокровище могло говорить...",
+        "en": "If this treasure could talk...",
+        "zh": "无言的叙事。"
+      },
+      "source_id": 35056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Пусть это и не золото, оно определённо блестит.",
+        "en": "Although it's not gold, it certainly glitters.",
+        "zh": "虽无法比拟「黄金」，但终有价值。"
+      },
+      "source_id": 35057
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Кажется, мои расчеты меня подвели...",
+        "en": "My calculations were off...",
+        "zh": "计算失误…"
+      },
+      "source_id": 35058
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Пора провести повторную оценку...",
+        "en": "Time to reassess...",
+        "zh": "需要重新评估…"
+      },
+      "source_id": 35059
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Необходима новая стратегия.",
+        "en": "A new strategy's required.",
+        "zh": "必须改变策略。"
+      },
+      "source_id": 35060
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Дай мне попробовать!",
+        "en": "I'll take over from here.",
+        "zh": "交给我吧。"
+      },
+      "source_id": 35061
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Это слишком опасно для тебя.",
+        "en": "This is too dangerous for you.",
+        "zh": "换人，对你来说太危险了。"
+      },
+      "source_id": 35062
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Пепел к пеплу, прах к праху...",
+        "en": "Ashes to ashes, dust to dust...",
+        "zh": "尘归尘，土归土…"
+      },
+      "source_id": 35063
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Мой эксперимент... провалился...",
+        "en": "My... experiment... failed...",
+        "zh": "实验失败了吗？"
+      },
+      "source_id": 35064
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Похоже, моему исследованию конец...",
+        "en": "Seems my research... is over...",
+        "zh": "我的研究，结束了…"
+      },
+      "source_id": 35065
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Пороговые значения не превышены.",
+        "en": "Still within my threshold.",
+        "zh": "阈值以内…"
+      },
+      "source_id": 35066
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Я просчитался...",
+        "en": "A miscalculation...",
+        "zh": "失算了…"
+      },
+      "source_id": 35067
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Конечно.",
+        "en": "Understood.",
+        "zh": "了解。"
+      },
+      "source_id": 35068
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Займёмся полевыми исследованиями?",
+        "en": "Some in-the-field research?",
+        "zh": "是拓展课题吗？"
+      },
+      "source_id": 35069
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Давайте изучим это подробнее.",
+        "en": "Let's investigate this further.",
+        "zh": "一起探索吧。"
+      },
+      "source_id": 35070
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Если бы вкусы имели цвет... этот определённо был бы золотым.",
+        "en": "If flavors were colors... this one would be gold.",
+        "zh": "味觉仿佛折射出了色彩…我想它是金色的。"
+      },
+      "source_id": 35071
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Ты тратишь много времени на улучшение своих кулинарных навыков. Именно поэтому тебе удаётся так вкусно готовить.",
+        "en": "You're willing to spend so much time on improving your cooking, and that's precisely how you're able to make it taste so good.",
+        "zh": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。"
+      },
+      "source_id": 35072
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Боюсь, я столько не съем... Может, разделим пополам?",
+        "en": "This is more than I can manage... maybe we could split it between us?",
+        "zh": "量有点大…要一起分享吗？"
+      },
+      "source_id": 35073
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "О Дурине...",
+        "en": "About Durin",
+        "zh": "关于杜林…"
+      },
+      "text": {
+        "ru": "Мой брат познаёт новое, он умён и склонен к размышлениям. Иногда это создаёт трудности, но ничуть не ослабляет его страсть к познанию мира. Его появление, точнее, его появление как члена семьи, дало мне новое понимание человеческих отношений. Теперь, когда у меня есть самый близкий мне подобный, в доме стало оживлённее - несомненно, это перемена к лучшему.",
+        "en": "My brother is learning all manner of new things. He's intelligent and passionately philosophical. This sometimes causes difficulties, but it does nothing to dull his passion for the world. His arrival — or should I say, his joining the family — has given me a new understanding of human relations. With my closest kin around, home has become a lively place — which is a positive thing, for sure.",
+        "zh": "我的这位兄弟正在探索很多新事物，他很聪明，也热衷于思考。尽管他时常因此陷入某些认知困境，但这并不妨碍他对这个世界保持热情。他的到来，或者说，他作为家人的到来让我对人类关系的理解有了新的心得。现在，有了最亲近的同类，家里变得热闹起来，这无疑是一种好的改变。"
+      },
+      "source_id": 35074
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "О Прюн...",
+        "en": "About Prune",
+        "zh": "关于布伦妮…"
+      },
+      "text": {
+        "ru": "Она часто приходит ко мне поговорить о «сущности бытия», но стоит мне задать пару встречных вопросов, как разговор быстро заканчивается. Впрочем, в следующий раз она неизменно возвращается с блокнотом, полным записанных ответов.",
+        "en": "She often comes to me asking about the \"nature of being,\" though our discussions tend to end as soon as I pose a few counter-questions. Still, I'm pleased to say she always returns later with a notebook full of answers.",
+        "zh": "她时常找我探讨「存在的本质」。不过，每当我提出几个反问，讨论就会提前结束。值得高兴的是，她下次还会带着写满答案的笔记本再来。"
+      },
+      "source_id": 35075
+    }
+  ],
+  "replica_count": 67
 }

@@ -359,3 +359,854 @@ Did he let me replace him on purpose? ...Could a false father have harbored genu
 ——有「神之眼」的人肯定比快老死的贼厉害。再说，你吃得也少，还能节约些粮食。
 罗莎莉亚冰块般凝结的心中忽然浮出一个疑问：
 他是故意让我顶替他吗？…捡来的孩子，也会让虚假的父亲产生包庇之心吗？
+
+# voice_source_ids: 37009,37010,37011,37012,37013,37014,37015,37016,37017,37018,37019,37020,37021,37022,37023,37024,37025,37026,37027,37028,37029,37030,37031,37032,37033,37034,37035,37036,37037,37038,37039,37040,37041,37042,37043,37044,37045,37046,37047,37048,37049,37050,37051,37052,37053,37054,37055,37056,37057,37058,37059,37060,37061,37062,37063,37064,37065,37066,37067,37068,37069,37070,37071,37072,37073,37074,37075,37076,37077,37078
+
+## REPLICAS_RU
+
+### Привет...
+
+Слушай, прихожанин. Если у тебя трудноразрешимые проблемы, можешь обращаться ко мне. Ежели тебе просто помолиться, обратись к любой другой из сестёр.
+...Хм? Разве ты не прихожанин?
+
+### Поболтаем: Скука
+
+Разве у нас не полно дел?
+
+### Поболтаем: Работа сверхурочно
+
+Мы можем поговорить обо всём кроме работы сверхурочно.
+
+### Поболтаем: Жизнь в Мондштадте
+
+Работай на совесть и живи каждый день с толком. Такова жизнь в Мондштадте, разве нет?
+
+### Когда идёт дождь...
+
+Эх... От него падает эффективность.
+
+### Когда гремит гром...
+
+Пфф, надоедает только.
+
+### Когда идёт снег...
+
+Мы должны идти дальше. Смотри под ноги.
+
+### Когда дует сильный ветер...
+
+Нам так покровительствует Анемо Архонт Барсибатос? Погоди, кажется, его зовут Бартобас...
+
+### Доброе утро...
+
+Доброе утро! Что, утренняя молитва уже началась? Какая рань...
+
+### Добрый день...
+
+Послеполуденное солнце благотворно влияет на сон. Попробуй как-нибудь.
+
+### Добрый вечер...
+
+Добрый вечер. Я на вечернюю молитву не пойду. Почему? Потому.
+
+### Спокойной ночи...
+
+Отдыхай и ни о чём не беспокойся. Я обо всём позабочусь.
+
+### О Розарии: Сестра
+
+Я? Я самый обычный, скучный человек. Как видишь, мне не нравится ни собор, ни моя работа.
+
+### О Розарии: Тягости
+
+Эти дежурные монашки одна другой надоедливее: если не тащат на молитву, так зовут петь в хоре. Не говори им, что я здесь.
+
+### О нас: Вера
+
+Боги могут защитить всех, но делать они этого не станут. В противном случае человеческие страдания были бы шуткой.
+
+### О нас: Молитвы
+
+Давай, молись. Но не ради богов или других людей, а ради себя.
+
+### О нас: Бой
+
+Не напрягайся. Я всё сама сделаю.
+
+### Глаз Бога...
+
+Глаз Бога может служить доказательством силы или наградой за то, что выжил... Кто его знает. У каждой хорошей вещи две стороны. Я не берусь судить, что есть Глаз Бога. Мы просто молча наблюдаем друг за другом.
+
+### Давай поделимся...
+
+Знаешь, чему стоит радоваться?.. Это так, предположение. Если однажды у тебя возникнет неразрешимая проблема, ты не думай, будто это конец. Может случиться так, что вместо тебя её решит кто-нибудь другой.
+
+### Интересные вещи...
+
+Травка с цветочками в круг моих интересов не входит. Исключение - одуванчики. Из них получается вкуснейшее вино. Выпить бокал во время отдыха куда приятнее, чем подремать в воскресенье.
+
+### О Дилюке...
+
+С первого взгляда видно, что этот богач совсем непрост. Сдержан, уверен в себе... и от него веет опасностью.
+
+### О Кэйе...
+
+Обычно люди не показывают своё истинное лицо, пока не напьются. Развязный, сладкоречивый язык Кэйи - уловка, от которой несёт притворством. Но я-то вижу его насквозь. Как-нибудь выпей с ним и посмотри.
+
+### О Венти...
+
+Бард этот очень особенный... Я ещё не поняла, почему, но он не такой, как остальные.
+
+### О Барбаре...
+
+Барбара меня уже просто достала... Постоянно зовёт молиться или петь в хоре. Уж не приказала ли ей Виктория следить за мной?
+
+### О Джинн...
+
+Не только делает свою работу, но и помогает справляться другим. Она достойна восхищения.
+
+### Об Альбедо...
+
+Он словно картина маслом в старинном доме... Солидный, загадочный. Его так просто не разгадать. Мне нравятся люди с историей.
+
+### О Лизе...
+
+Я не жалую людей, которые отлынивают от работы. Но я понимаю всех, кто уходит с работы вовремя, как она.
+
+### О Кли...
+
+Ох, от неё ничего, кроме неприятностей. Очень милых, но неприятностей.
+
+### О Варке...
+
+Варка - добрейший и заботливейший человек, хоть и болтлив, как старуха. Ох уж этот Варка...
+
+### Об отце...
+
+Отец? Какое чужое слово. Можно сказать, его у меня не было, или что их у меня было много. Ты чего так удивляешься?
+
+### Узнать больше о Розарии I
+
+Обойдёмся без любезностей. Я здесь, чтобы выполнить свою работу. Если ты с чем-то не справляешься, предоставь это мне.
+
+### Узнать больше о Розарии II
+
+Неверующих монахинь не так уж и мало. Это как охотник, что не любит есть дичь, или рыбак, которого тошнит от рыбы. Ты не обязан любить то, что делаешь. И не нужно избегать того, что не любишь. Это касается любой работы.
+
+### Узнать больше о Розарии III
+
+Выпьем по бокалу? У меня тут вино из одуванчиков этого года. Очень недурно.
+
+### Узнать больше о Розарии IV
+
+Зверь света Мондштадт одновременно молод и стар: достаточно стар, чтобы ему требовалась защита, и слишком молод, чтобы выжить в одиночку. Только такому месту нужны подобные мне люди. Я забочусь о Мондштадте, как сёстры заботятся о горожанах, и слежу за тем, чтобы он оставался свободным. Почему Мондштадт зверь света? ...Потому что такие, как я, погружены во тьму.
+
+### Узнать больше о Розарии V
+
+Иногда я чувствую, будто существуют «я» из прошлого, они совсем рядом, поддерживают меня... Тебе наверняка приходилось испытывать нечто подобное. Даже если ты выбрал другой путь, никогда не забывай, каким ты был раньше. Каждое из твоих прошлых «я» - фундамент, на котором стоишь ты сегодня. Не бойся прошлого, и не бойся вступать с ним в схватку.
+
+### Хобби Розарии...
+
+Некоторые проблемы можно решить только алкоголем. Однако же я никогда не пьянею.
+
+### Беспокойство Розарии...
+
+Уф... Я так не хочу каждый месяц участвовать в этих хоровых пениях, но Виктория уже отобрала меня лично...
+
+### Любимая еда...
+
+Как тебе тушёное мясо с красным вином? Бокал вина и куски мяса на блюде - вот пища богов.
+
+### Нелюбимая еда...
+
+Нужно макать картофельные оладьи в варенье? Извращение какое-то!
+
+### День рождения...
+
+Сегодня у тебя день рождения. Нужно ли с чем-нибудь или кем-нибудь разобраться? Я тебе помогу, только никому не говори, ясно?
+
+### Чувство возвышения: Начало
+
+То что нужно.
+
+### Чувство возвышения: Нарастание
+
+Нужна помощь? Я как раз свободна.
+
+### Чувство возвышения: Кульминация
+
+Ничего так. Чем лучше навыки, тем выше эффективность.
+
+### Чувство возвышения: Окончание
+
+Я умею сражаться и убивать, но я никогда не обладала такой огромной силой. Спасибо тебе за благословение.
+
+### Элементальный навык I
+
+Кия!
+
+### Элементальный навык II
+
+Правосудие!
+
+### Элементальный навык III
+
+Тебе не уйти!
+
+### Взрыв стихии I
+
+Наказание!
+
+### Взрыв стихии II
+
+Трепещи!
+
+### Взрыв стихии III
+
+Спокойной ночи...
+
+### Открытие сундука I
+
+...Хм, здесь есть несколько интересных безделушек.
+
+### Открытие сундука II
+
+Полагаю, это не составило особого труда.
+
+### Открытие сундука III
+
+Это было... довольно здорово.
+
+### Низкий уровень HP I
+
+Гм! Становится интересно...
+
+### Низкий уровень HP II
+
+Кажется, сегодня я работаю сверхурочно.
+
+### Низкий уровень HP III
+
+А ты знаешь своё дело!
+
+### Низкий уровень HP компаньона I
+
+Позволь мне всё уладить!
+
+### Низкий уровень HP компаньона II
+
+Не строй из себя героя!
+
+### Без сознания I
+
+Ну... хоть работать... больше не придётся...
+
+### Без сознания II
+
+Возможно это... было предопределено...
+
+### Без сознания III
+
+Это... мое последнее задание?
+
+### Получен лёгкий удар I
+
+Вот оно как!
+
+### Получен тяжёлый удар I
+
+Ха, что за ерунда?
+
+### Присоединяется к группе I
+
+Слыхала, у вас есть для меня работа.
+
+### Присоединяется к группе II
+
+Смотри не отставай.
+
+### Присоединяется к группе III
+
+Чем быстрее мы справимся, тем лучше.
+
+### Подарок I
+
+Кажется, в еде наши вкусы совпадают.
+
+### Подарок II
+
+По крайней мере, я смогу наесться.
+
+### Подарок III
+
+Тебе правда нравится эта еда?
+
+### О Далии...
+
+Мне нравится, что он всегда предлагает оплатить счёт. Кроме того, он знает, как вести себя в таверне: что можно спросить, а каких вопросов лучше избегать. Но с тех пор как мы узнали друг друга поближе, мне не нужно быть с ним настороже. Гораздо легче находить общий язык с умными людьми, такими как он.
+
+## REPLICAS_EN
+
+### Hello
+
+Listen disciple, if you've got a problem you can't handle, then I'm the one for the job. But if you're looking for prayer, you'd better find some other Sister
+...Huh? You're not a disciple?
+
+### Chat: Boredom
+
+Don't we have a job to do?
+
+### Chat: Overtime
+
+Everything is negotiable, except overtime.
+
+### Chat: Life in Mondstadt
+
+Work hard and live each day to the fullest. That is what life in Mondstadt is all about, isn't it?
+
+### When It Rains
+
+This will slow things down.
+
+### When Thunder Strikes
+
+...What a nuisance.
+
+### When It Snows
+
+We should keep moving, but watch your step in the snow.
+
+### When the Wind Is Blowing
+
+Blessings from the Anemo Archon Barsibato? Wait... no, it's Bartobas...?
+
+### Good Morning
+
+*yawn* Good morning... I've missed morning mass, haven't I? Ugh, it starts too early anyway.
+
+### Good Afternoon
+
+I'd say I sleep even better in the afternoon sun. You should try it sometime.
+
+### Good Evening
+
+Good evening. Don't expect to see me at prayer tonight... And don't ask why.
+
+### Good Night
+
+Go ahead, take a break. I'll handle things here.
+
+### About Rosaria: Sister
+
+Me? I'm just another ordinary person. Church, work... I just do what I have to do.
+
+### About Rosaria: Troubles
+
+Each of the Sisters is worse than the next. If it's not about prayer, then it's about choir or some other thing I'm supposed to participate in... I'm trying to stay out of sight, so don't you dare tell them you saw me here.
+
+### About Us: Beliefs
+
+Perhaps a god has the power to protect everyone if they would choose to do so, but that would never happen. Otherwise, people's suffering couldn't ever be taken seriously.
+
+### About Us: Prayer
+
+Pray. Not for the gods, nor the betterment of others... but for yourself.
+
+### About Us: Battle
+
+Don't overdo it. Let me take care of the dirty work.
+
+### About the Vision
+
+A Vision... Could be proof of strength, or a medal for having survived... who knows? There're two sides to every coin. I won't limit my Vision with ceremonies and definitions. It witnesses me, and I witness it, that's all.
+
+### Something to Share
+
+You don't always know why good things happen, or why we should be happy about them. Heh... But if you ever face a problem too big to handle, don't give up hope. You never know, someone may be there to help, even if you can't see them.
+
+### Interesting Things
+
+I take no interest in plant life and the sort, but the dandelion is an exception. How such a simple flower could turn into such a delectable wine is beyond me. A glass of dandelion wine after work is even better than sleeping in on Sunday.
+
+### About Diluc
+
+Isn't it obvious? There's more than meets the eye to that rich tycoon. He's confident, yet discreet... and even a little bit dangerous.
+
+### About Kaeya
+
+Wine has its uses... like revealing someone's true colors, for example. Smooth talk is Kaeya's veil, but being me, I can see right through it. Hah, you should see him when he's drunk.
+
+### About Venti
+
+There's something extremely interesting about this bard... I can't quite put my finger on it. There's something that makes him different from the others in Mondstadt.
+
+### About Barbara
+
+Barbara is like a thorn in my side, always nagging me about mass and choir practice. I wouldn't be surprised if Sister Victoria specifically asked her to keep an eye on me.
+
+### About Jean
+
+She's not only competent in her own work but also somehow manages to clear up various matters for others... Huh. Now that's a woman who deserves admiration.
+
+### About Albedo
+
+He's like an oil painting you find hanging on the wall in some ancient hall, profound and mysterious... hard to see through. But what can I say, I find people with stories... interesting.
+
+### About Lisa
+
+Although I deplore those who play truant on a job, I respect her punctuality when it comes to closing up for the day.
+
+### About Klee
+
+Trouble, and lots of it. Although, it is sort of a cute kind of trouble...
+
+### About Varka
+
+I'm sure Varka means well, but his long-winded conversations get real old real quick. Although, he does really care for those around him, doesn't he?
+
+### About Her Father
+
+Father? I'm not familiar with the word. You could say that I don't have one — could also say I have many, too. What's it to you?
+
+### More About Rosaria: I
+
+Let's forgo the formalities. I'm here to finish a job. Just leave the dirty work to me.
+
+### More About Rosaria: II
+
+What's weird about a Sister without reverence for the gods? There are hunters who don't eat pork, and fisherman who don't eat fish, aren't there? Just because you do something doesn't mean you love to do it. That's how every job goes.
+
+### More About Rosaria: III
+
+This year's Dandelion Wine is sinfully good. Care for a glass?
+
+### More About Rosaria: IV
+
+Mondstadt is a beast of light, both old and young. Old in the sense that it constantly requires someone's protection, yet too young to ever survive on its own. That's why there's people like me. I care for Mondstadt just as the other Sisters care for the believers, we are all guiding that which we love onward on the path towards freedom. Huh? Why do I call it a beast of light? Because people like myself can only be found in the dark...
+
+### More About Rosaria: V
+
+I sometimes feel that my former selves from years past still exist alongside me, urging me on. I'm sure you know the feeling, too. Even if you decide to venture down a new path, don't just abandon the former you. For that is the foundation upon which you now take footing. Do not fear your past, and do not be scared to come to grips with it.
+
+### Rosaria's Hobbies
+
+There are some troubles that only a stiff drink can take away. That being said, I never get drunk.
+
+### Rosaria's Troubles
+
+Ugh, definitely skipping next month's choir concert, but I bet Sister Victoria will be personally taking roll... What a nuisance.
+
+### Favorite Food
+
+Have you ever tried Beef Bourguignon? Big chunks of meat with the smooth taste of alcohol... Mmm, it's delectable.
+
+### Least Favorite Food
+
+You mean I'm supposed to dip this hash brown in jam? Ugh, this is sacrilege!
+
+### Birthday
+
+Today's your birthday, so if you have any dirty work that needs taking care of, I can give you a hand... Just don't tell anybody, got it?
+
+### Feelings About Ascension: Intro
+
+Hmm, just what I needed.
+
+### Feelings About Ascension: Building Up
+
+You have a job for me? I've got time.
+
+### Feelings About Ascension: Climax
+
+Good. Getting stronger means finishing jobs quicker.
+
+### Feelings About Ascension: Conclusion
+
+I'm no stranger to spilling blood, but never have I possessed such power before. For such blessings, I give you thanks.
+
+### Elemental Skill: I
+
+Hyah!
+
+### Elemental Skill: II
+
+Judgment!
+
+### Elemental Skill: III
+
+You can't run!
+
+### Elemental Burst: I
+
+Punishment!
+
+### Elemental Burst: II
+
+Shiver!
+
+### Elemental Burst: III
+
+Lights out...
+
+### Opening Treasure Chest: I
+
+...Hm, there are a few interesting trinkets here.
+
+### Opening Treasure Chest: II
+
+I suppose it wasn't too much trouble.
+
+### Opening Treasure Chest: III
+
+That felt... pretty good.
+
+### Low HP: I
+
+Hmph. Things are getting interesting...
+
+### Low HP: II
+
+Looks like overtime today.
+
+### Low HP: III
+
+So you know your stuff, huh?
+
+### Ally at Low HP: I
+
+Let me handle this!
+
+### Ally at Low HP: II
+
+Don't try to be a hero!
+
+### Fallen: I
+
+At least... no more... work.
+
+### Fallen: II
+
+Maybe this is just... fate's dark design.
+
+### Fallen: III
+
+Is this... my final job?
+
+### Light Hit Taken: I
+
+I see how it is.
+
+### Heavy Hit Taken: I
+
+Ugh, what a nuisance!
+
+### Joining Party: I
+
+I hear you've got a job for me.
+
+### Joining Party: II
+
+Make sure to keep up.
+
+### Joining Party: III
+
+Sooner we're done, the better.
+
+### Receiving a Gift: I
+
+It seems that our tastes are aligned when it comes to food.
+
+### Receiving a Gift: II
+
+At least I'll be able to eat my fill with this.
+
+### Receiving a Gift: III
+
+Do you really like this food?
+
+### About Dahlia
+
+I like that he's in the habit of always offering to pick up the tab. In fact, his tavern etiquette in general is very good: He knows which questions he can ask and which ones to avoid. But since we figured each other out, I don't need to be too guarded around him anymore. It's so much easier to get along with people when they're smart like him.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+这位信徒，如果遇到难以解决的麻烦，可以来找我，如果只想祈祷，还请找其他修女。
+…嗯？你不是信徒吗？
+
+### 闲聊·无聊
+
+还不走吗？
+
+### 闲聊·加班
+
+什么都可以商量，除了加班。
+
+### 闲聊·蒙德生活
+
+好好完成工作，好好度过每一天。蒙德的生活不就是如此吗？
+
+### 下雨的时候…
+
+唉，影响效率。
+
+### 打雷的时候…
+
+嘁，麻烦。
+
+### 下雪的时候…
+
+雪天赶路，最好小心一些。
+
+### 刮大风了…
+
+是风神巴斯巴托的庇佑吗？等等，好像是巴托巴斯…
+
+### 早上好…
+
+早安，哈…晨祷已经开始了吗？也太早了。
+
+### 中午好…
+
+午后的阳光对睡眠有好处。你也试试吧。
+
+### 晚上好…
+
+晚上好。晚间祷告的话，我不参加。嗯？不为什么。
+
+### 晚安…
+
+去休息吧，不用操心，剩下的事我会处理。
+
+### 关于罗莎莉亚自己·修女
+
+我？只是个无趣的人而已。如你所见，不爱教会也不爱工作。
+
+### 关于罗莎莉亚自己·麻烦
+
+那些值班修女一个比一个麻烦，不是抓人去祷告，就是叫人去唱诗班。你可别告诉她们我在这里。
+
+### 关于我们·信仰
+
+神或许能庇护所有人，可他不会这样做。否则，人的苦难就成了笑话。
+
+### 关于我们·祷告
+
+祈祷吧。不是为了神或其他任何人，而是为了自己。
+
+### 关于我们·战斗
+
+不要勉强，有困难可以叫我。
+
+### 关于「神之眼」…
+
+「神之眼」可以是实力的证明，也可以是幸存的勋章…谁知道呢？真正的好东西总是具有两面性。我不会定义「神之眼」。我和它只是互相见证的关系罢了。
+
+### 有什么想要分享…
+
+要说什么是值得高兴的好事…呵，只是假设而已。如果有一天你遇到无法解决的难题，也别认为那就是人生的终点。说不定，会有人替你解决困境呢。
+
+### 感兴趣的见闻…
+
+花草不属于我感兴趣的范畴。不过，蒲公英是个例外，它能酿出相当美味的蒲公英酒。休息时间来一杯，比睡懒觉还舒服。
+
+### 关于迪卢克…
+
+一看就知道了吧？那位富豪老爷可不是个简单的人物。低调、自信…还有一点危险的气息。
+
+### 关于凯亚…
+
+人往往要到醉酒以后才会露出真面目。油嘴滑舌算是凯亚的保护色吧，呵，一目了然的伪装。你该看看他喝醉的样子。
+
+### 关于温迪…
+
+这个吟游诗人身上有种非常特殊的气息…我还不能确定真相，但他与别的市民似乎很不一样。
+
+### 关于芭芭拉…
+
+芭芭拉总是缠着我，叫我参加礼拜和唱诗班。难道维多利亚给她下了监督我工作的命令？
+
+### 关于琴…
+
+不仅完成本职工作，还会替他人收尾。值得钦佩的女人。
+
+### 关于阿贝多…
+
+他就像一副挂在古旧房屋里的油画…厚重、神秘，无法被一眼看透。我不讨厌有故事的人。
+
+### 关于丽莎…
+
+我不喜欢上班偷懒的人，不过也很能理解她准点下班的心情。
+
+### 关于可莉…
+
+唉，除了麻烦就是麻烦，虽然是可爱的麻烦。
+
+### 关于法尔伽…
+
+虽说是出于好意，但法尔伽啰嗦起来像个老头一样，相当在意身边的人呢。唉，那家伙。
+
+### 关于父亲…
+
+父亲？好遥远的词汇啊。对我而言可以说没有，也可以说有不止一个。怎么？很惊讶吗？
+
+### 想要了解罗莎莉亚·其一
+
+跳过寒暄吧。我来这里是为了完成工作，你解决不了的问题可以移交给我。
+
+### 想要了解罗莎莉亚·其二
+
+不信神的修女并不稀奇，就像世上也有不喜欢吃猪肉的猎人、讨厌鱼肉的渔民。做某一件事不代表爱它，不爱一件事也不意味着必须远离。工作就是这样的东西。
+
+### 想要了解罗莎莉亚·其三
+
+来一杯吗？这是今年的蒲公英酒，味道很不错。
+
+### 想要了解罗莎莉亚·其四
+
+蒙德是一头既古老又年轻的白色野兽，古老到需要人去保护，也年轻到无法独立生存。只有这样的地方才会需要我这样的人。我像其他修女照顾市民那样照顾着蒙德，让它在自由的道路上平稳前进。你问我为什么它是白色的？…因为像我这样的人，是黑色的。
+
+### 想要了解罗莎莉亚·其五
+
+我偶尔能感觉到过去每一年的自己都存在着、围绕着我…对我有所寄托。你一定也有相同的感觉，所以，哪怕如今你已走上截然不同的道路，也不要否认从前的自己。从前的每一个你，都是你脚下的基石。不要害怕过去，不要畏惧与它抗衡。
+
+### 罗莎莉亚的爱好…
+
+小酌怡情，有些烦心事只能靠酒精解决。话虽如此，我是不会醉的。
+
+### 罗莎莉亚的烦恼…
+
+唉…真不想参加下个月的合唱活动，可维多利亚亲自点名了…
+
+### 喜欢的食物…
+
+试过红酒炖兽肉吗？酒精和大块的动物肉出现在一个盘子里，相当有品味。
+
+### 讨厌的食物…
+
+这个…这个土豆饼的蘸料居然是果酱？完全不合理！
+
+### 生日…
+
+今天是你生日，有什么想处理的人或事吗？我可以帮个小忙，别告诉其他人就行。
+
+### 突破的感受·起
+
+嗯，感觉不错。
+
+### 突破的感受·承
+
+需要帮忙吗？我现在有空。
+
+### 突破的感受·转
+
+也好。能力越强，效率越高。
+
+### 突破的感受·合
+
+哪怕是擅长战斗与杀戮的我，也从未拥有过如此强大的力量，谢谢你的祝福。
+
+### 元素战技·其一
+
+嘿呀！
+
+### 元素战技·其二
+
+审判！
+
+### 元素战技·其三
+
+别想跑！
+
+### 元素爆发·其一
+
+制裁！
+
+### 元素爆发·其二
+
+战栗吧！
+
+### 元素爆发·其三
+
+晚安了…
+
+### 打开宝箱·其一
+
+…倒也有不错的玩意。
+
+### 打开宝箱·其二
+
+还行，不算很麻烦。
+
+### 打开宝箱·其三
+
+心情不错。
+
+### 生命值低·其一
+
+没想到…哼。
+
+### 生命值低·其二
+
+得加个班了。
+
+### 生命值低·其三
+
+有两下子！
+
+### 同伴生命值低·其一
+
+退后！
+
+### 同伴生命值低·其二
+
+不要恋战！
+
+### 倒下·其一
+
+这样也好…
+
+### 倒下·其二
+
+或许是…命中注定…
+
+### 倒下·其三
+
+唔…到此为止了吗…
+
+### 普通受击·其一
+
+不过如此。
+
+### 重受击·其一
+
+啧，真麻烦！
+
+### 加入队伍·其一
+
+又有新工作了？
+
+### 加入队伍·其二
+
+但愿配合顺利。
+
+### 加入队伍·其三
+
+呼…速战速决。
+
+### 收到赠礼·其一
+
+看来这方面，我们品味相投。
+
+### 收到赠礼·其二
+
+至少能填饱肚子。
+
+### 收到赠礼·其三
+
+你对这种食物很感兴趣吗？
+
+### 关于塔利雅…
+
+主动请客是个好习惯，除此之外，他在酒桌上也很有分寸，知道什么该问，什么不该问。摸清彼此底牌后，我不必过多防备他，和聪明人打交道总是轻松的。

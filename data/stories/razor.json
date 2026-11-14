@@ -146,5 +146,932 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Ты вкусно пахнешь... Давай охотиться вместе!",
+        "en": "You smell... *sniff* nice! Let's hunt.",
+        "zh": "你的气味…好闻。一起狩猎吧！"
+      },
+      "source_id": 9100
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Запах",
+        "en": "Chat: Scent",
+        "zh": "闲聊·气味"
+      },
+      "text": {
+        "ru": "Ммм, кролик...",
+        "en": "*sniff* I smell rabbit.",
+        "zh": "唔，兔子的味道…"
+      },
+      "source_id": 9101
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Голод",
+        "en": "Chat: Hunger",
+        "zh": "闲聊·饿"
+      },
+      "text": {
+        "ru": "Голоден. Давай охотиться.",
+        "en": "I'm hungry. Let's hunt.",
+        "zh": "走吗，肚子饿了。"
+      },
+      "source_id": 9102
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Буревестник",
+        "en": "Chat: Wind-gazing",
+        "zh": "闲聊·望风"
+      },
+      "text": {
+        "ru": "Я охранять. Уйдёшь - позови меня.",
+        "en": "I keep watch. You leave, you call me.",
+        "zh": "我去望风，走了叫我。"
+      },
+      "source_id": 9103
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда гремит гром: Напоминание",
+        "en": "When Thunder Strikes: Warning",
+        "zh": "打雷的时候·提醒"
+      },
+      "text": {
+        "ru": "Боишься грома - прячься.",
+        "en": "If you're scared of lightning, hide now.",
+        "zh": "怕就快点躲起来。"
+      },
+      "source_id": 9104
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром: Провожать",
+        "en": "When Thunder Strikes: Guidance",
+        "zh": "打雷的时候·带路"
+      },
+      "text": {
+        "ru": "Обходи деревья, иди за мной!",
+        "en": "Avoid the trees. Follow me.",
+        "zh": "避开树，跟我来！"
+      },
+      "source_id": 9105
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Ветер... Да... Нравится.",
+        "en": "Wind... I like the wind.",
+        "zh": "风…唔…舒服。"
+      },
+      "source_id": 9106
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Ветер сильный... Кусает больно.",
+        "en": "The wind... bites hard.",
+        "zh": "风…嗯…扎扎的，有点疼。"
+      },
+      "source_id": 9107
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Солнце высоко. Пора охотиться.",
+        "en": "The sun is up. Time to hunt.",
+        "zh": "太阳出来了。狩猎一起去？"
+      },
+      "source_id": 9108
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Я наелся. Большие куски мяса. Мне хорошо!",
+        "en": "I had a big lunch. Lots of meat. Mm, I'm happy.",
+        "zh": "大块吃肉，开心！"
+      },
+      "source_id": 9109
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Посмотрю на луну... Спи!",
+        "en": "Go to sleep. I watch the moon.",
+        "zh": "你去睡觉吧，我看月亮。"
+      },
+      "source_id": 9110
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Ты спи, я сторожить.",
+        "en": "You sleep now. I keep watch.",
+        "zh": "你睡觉，我看守。明天一起狩猎。"
+      },
+      "source_id": 9111
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Рэйзоре...",
+        "en": "About Razor",
+        "zh": "关于雷泽自己…"
+      },
+      "text": {
+        "ru": "Я волк. Люди, семья - нет.",
+        "en": "I have no human family. I am a wolf.",
+        "zh": "我是狼。人的爸爸、妈妈，没有。"
+      },
+      "source_id": 9112
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Друзья",
+        "en": "About Us: Friends",
+        "zh": "关于我们·朋友"
+      },
+      "text": {
+        "ru": "Ты мой друг. Мы охотимся. Вместе.",
+        "en": "You are my friend. We can hunt. Together!",
+        "zh": "你是朋友。我和你一起狩猎。"
+      },
+      "source_id": 9113
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Оружие",
+        "en": "About Us: Weapons",
+        "zh": "关于我们·武器"
+      },
+      "text": {
+        "ru": "У меня железные когти и громовые клыки. Я буду защищать тебя.",
+        "en": "I have iron claws and teeth of thunder. I protect you.",
+        "zh": "我有铁的爪子和雷的牙。我保护你。"
+      },
+      "source_id": 9114
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Учитель и Глаз Бога помогают. Громовой клык защищает Лупикал.",
+        "en": "Vision helps Razor... fight with lightning tooth! Protect Lupical!",
+        "zh": "「神之眼」，师父帮忙。雷的牙打架，保护「卢皮卡」。"
+      },
+      "source_id": 9115
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Я люблю звёзды. Много звёзд. В небе, в воде. И в городе.",
+        "en": "I like the stars at night. So many stars. In the sky, in the lake. And in the city.",
+        "zh": "晚上，星星很好看。天空，湖里，都有很多很多星星。\n晚上，城市里，也有很多星星。"
+      },
+      "source_id": 9116
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Волчья стая - это моя Лупикал... Моя семья.",
+        "en": "The wolves are my Lupical. My family.",
+        "zh": "我的「卢皮卡」的狼。它们是家人。"
+      },
+      "source_id": 9117
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Учитель бьёт молнией, небо темнеет. Она сильная. Я боюсь.",
+        "en": "Lisa lightning makes the sky black. She is strong. She is scary.",
+        "zh": "师父的雷，天空会变黑。很可怕，很强。"
+      },
+      "source_id": 9118
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Барбаре...",
+        "en": "About Barbara",
+        "zh": "关于芭芭拉…"
+      },
+      "text": {
+        "ru": "Барбара, яркая девушка. Очень добрая.",
+        "en": "Shining Barbara is a good child. Very good child.",
+        "zh": "芭芭拉，亮晶晶的女孩子。很善良。"
+      },
+      "source_id": 9119
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克…"
+      },
+      "text": {
+        "ru": "Дилюк красный и чёрный. Холодный и горячий.",
+        "en": "Diluc is red and black. Hot and cold.",
+        "zh": "迪卢克，红红的、黑黑的。又冷又热。"
+      },
+      "source_id": 9120
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Венти...",
+        "en": "About Venti",
+        "zh": "关于温迪…"
+      },
+      "text": {
+        "ru": "Стихи? Не понимаю. Не понимаю, но Лупикал любит.",
+        "en": "Razor doesn't know poems, but... Lupical likes them.",
+        "zh": "诗歌…唔，不明白。虽然不明白，「卢皮卡」喜欢。"
+      },
+      "source_id": 9121
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Беннете...",
+        "en": "About Bennett",
+        "zh": "关于班尼特…"
+      },
+      "text": {
+        "ru": "Беннет, говорит много. Кушаем вместе, всегда мало.",
+        "en": "Bennett... Much talking. Eat with him, never full.",
+        "zh": "班尼特，话很多，和他一起，吃不饱。"
+      },
+      "source_id": 9122
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Кли...",
+        "en": "About Klee",
+        "zh": "关于可莉…"
+      },
+      "text": {
+        "ru": "Кли - друг! Друг, но... шумная.",
+        "en": "Klee, friend! Friend, but... big hassle.",
+        "zh": "可莉，朋友！朋友，但是，头疼。"
+      },
+      "source_id": 9123
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Варке: Незнакомец",
+        "en": "About Varka: Stranger",
+        "zh": "关于法尔伽·陌生"
+      },
+      "text": {
+        "ru": "Варка? Не знаю...",
+        "en": "Varka? Razor doesn't know...",
+        "zh": "法尔伽？不认识…"
+      },
+      "source_id": 9124
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Варке: Воспоминания",
+        "en": "About Varka: Memory",
+        "zh": "关于法尔伽·回忆"
+      },
+      "text": {
+        "ru": "Ох... Варка - это имя. Тот мужчина, большой. Моё имя, Рэйзор, стальные когти, он дал. Хочу увидеться.",
+        "en": "Oh, Varka is... a name. That man big. Big steelclaw, Razor's name — Varka gave him. Oh... want to see him.",
+        "zh": "哦…法尔伽，是名字。那个男人，高大。雷泽名字，铁的爪子，他给的。唔…想见他。"
+      },
+      "source_id": 9125
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Узнать больше о Рэйзоре I",
+        "en": "More About Razor: I",
+        "zh": "想要了解雷泽·其一"
+      },
+      "text": {
+        "ru": "Твой запах, добрый. Любишь мясо?",
+        "en": "*sniff* Hmm... You smell kind. Do you like meat?",
+        "zh": "你的气味，善良的味道。喜欢吃肉？"
+      },
+      "source_id": 9126
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Рэйзоре II",
+        "en": "More About Razor: II",
+        "zh": "想要了解雷泽·其二"
+      },
+      "text": {
+        "ru": "Ты сильный. Как волк. Хочу охотиться с тобой. Мы много поймаем. / Ты сильная. Как волк. Хочу охотиться с тобой. Мы много поймаем.",
+        "en": "You are strong. Like a wolf. I like to hunt with you. We catch a lot.",
+        "zh": "你很强。和狼一样强。喜欢和你狩猎。收获很多。"
+      },
+      "source_id": 9127
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Рэйзоре III",
+        "en": "More About Razor: III",
+        "zh": "想要了解雷泽·其三"
+      },
+      "text": {
+        "ru": "«Лупикал» - это волчий дом. Нет, это волчья семья. Моя Лупикал живёт в лесу. Они говорят, я их Лупикал.",
+        "en": "Lupical means wolf home— no, Lupical means wolf family. My Lupical lives in the woods. They say I am their Lupical.",
+        "zh": "卢皮卡是「狼的家」。不对，是「狼的家人」。我的卢皮卡在树林里。它们保护我，说我是卢皮卡。"
+      },
+      "source_id": 9128
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Рэйзоре IV",
+        "en": "More About Razor: IV",
+        "zh": "想要了解雷泽·其四"
+      },
+      "text": {
+        "ru": "У меня есть только Лупикал. Но у меня не четыре ноги, не как у них. Потому что я не настоящий волк. Иногда мне грустно.",
+        "en": "My Lupical is my only family. But I don't have four legs, not like them. Because I'm not a real wolf. Sometimes, this makes me sad.",
+        "zh": "我只有卢皮卡。\n但是，就算是卢皮卡，我没有四只脚，不是真的狼。有时候心里难过。"
+      },
+      "source_id": 9129
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Рэйзоре V",
+        "en": "More About Razor: V",
+        "zh": "想要了解雷泽·其五"
+      },
+      "text": {
+        "ru": "Когда я бегаю с тобой, когда я охочусь с тобой, мне хорошо. С тобой я не волк и не человек, я просто я, Рэйзор. Потому что ты мой друг. Ты моя Лупикал. Надеюсь, тебе тоже хорошо.",
+        "en": "When I run with you, when I hunt with you, I am happy. With you, I am not a wolf, I am not a boy, I am just me. I am Razor. Because you are my friend. You are my Lupical. I hope you feel happy, too!",
+        "zh": "和你一起奔跑开心，和你一起狩猎开心。和你一起，我是狼，我是人，都没关系。\n你是朋友，你是我的「卢皮卡」。我想要你也开心。"
+      },
+      "source_id": 9130
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Хобби Рэйзора...",
+        "en": "Razor's Hobbies",
+        "zh": "雷泽的爱好…"
+      },
+      "text": {
+        "ru": "Я люблю Лупикал. Я люблю лес. Я люблю друзей. Я люблю бегать!",
+        "en": "I like Lupical. I like the woods. I like my friend. I like to run!",
+        "zh": "喜欢卢皮卡。喜欢树林。喜欢朋友。喜欢奔跑。"
+      },
+      "source_id": 9131
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Беспокойство Рэйзора...",
+        "en": "Razor's Troubles",
+        "zh": "雷泽的烦恼…"
+      },
+      "text": {
+        "ru": "Много разговоров, я устаю. Разговаривать тяжело. Но я буду пытаться.",
+        "en": "Talking makes me tired. Talking is... hard. But... I have to try.",
+        "zh": "说话很累，很难。但是，不说话不行。"
+      },
+      "source_id": 9132
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Мне нравится мясо и картошка.",
+        "en": "I like meat, and... I like potatoes.",
+        "zh": "喜欢肉。喜欢土豆。"
+      },
+      "source_id": 9133
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Трава невкусная. Животные едят траву. Я ем животных.",
+        "en": "Greens are bad. Animal eats green things. Then I eat animal!",
+        "zh": "蔬菜不好。我吃的肉才吃菜。"
+      },
+      "source_id": 9134
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Сегодня твой день. Ты родился сегодня, много лун прошло. Я хочу сделать тебе хорошо. Пошли вместе есть мясо? / Сегодня твой день. Ты родилась сегодня, много лун прошло. Я хочу сделать тебе хорошо. Пошли вместе есть мясо?",
+        "en": "Today is your day. You were born on this day, many moons ago. I want to make you happy today. Can we eat meat together?",
+        "zh": "今天是你的…你是在很多很多个月以前的，今天出生的。想和你一起开心。今天一起吃肉。"
+      },
+      "source_id": 9135
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Руки... больше?",
+        "en": "Arms... bigger!",
+        "zh": "手臂，更粗了…？"
+      },
+      "source_id": 9136
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Ррр! Острые когти. Острые клыки. Ещё сильнее!",
+        "en": "Grr! Sharpen claws. Sharpen teeth. Become stronger!",
+        "zh": "磨爪子，磨牙，要更强！"
+      },
+      "source_id": 9137
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Бегать, охотиться... Мало, надо ещё, надо сильнее!",
+        "en": "Run... Hunt... No. No! Must... become stronger!",
+        "zh": "跑，狩猎。不够，不行！我要…更强。"
+      },
+      "source_id": 9138
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Клыки, когти, ноги, всё больше, всё сильнее! Чтобы защитить тебя.",
+        "en": "Teeth. Claws. Legs. All bigger. All stronger! To protect you.",
+        "zh": "牙齿，爪子，腿。更强，更有力气…保护你！"
+      },
+      "source_id": 9139
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Вернись!",
+        "en": "Get back!",
+        "zh": "走开！"
+      },
+      "source_id": 9140
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "А!",
+        "en": "Ah!",
+        "zh": "啊！"
+      },
+      "source_id": 9141
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Ой!",
+        "en": "Heyah!",
+        "zh": "嗷！"
+      },
+      "source_id": 9142
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Назад!",
+        "en": "Keep back!",
+        "zh": "别过来！"
+      },
+      "source_id": 9143
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Ар-р-р!",
+        "en": "Raaaarrr!",
+        "zh": "嗷——"
+      },
+      "source_id": 9144
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Блиц!",
+        "en": "*howls*",
+        "zh": "Blitz！"
+      },
+      "source_id": 9145
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "*рычит*",
+        "en": "*roars*",
+        "zh": "嚎——"
+      },
+      "source_id": 9146
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии IV",
+        "en": "Elemental Burst: IV",
+        "zh": "元素爆发·其四"
+      },
+      "text": {
+        "ru": "Рар-р-р!",
+        "en": "Rar!",
+        "zh": "啊——"
+      },
+      "source_id": 9147
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Эти штуки... полезны?",
+        "en": "These things... useful?",
+        "zh": "这些东西，可能有用？"
+      },
+      "source_id": 9148
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Пустой сундук... Можно хранить.",
+        "en": "Empty chest... good for storage.",
+        "zh": "箱子，用完可以，装东西。"
+      },
+      "source_id": 9149
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Запах сокровищ... странный.",
+        "en": "Smell of treasure... strange.",
+        "zh": "宝藏的气味。奇怪。"
+      },
+      "source_id": 9150
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Ар-р!",
+        "en": "Argh!",
+        "zh": "疼。"
+      },
+      "source_id": 9151
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Ау-у-у-у!",
+        "en": "*grunt* A-a-awoooo!",
+        "zh": "嗷——"
+      },
+      "source_id": 9152
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Я убью тебя!",
+        "en": "I kill you!",
+        "zh": "杀了你！…"
+      },
+      "source_id": 9153
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Нет!",
+        "en": "No!",
+        "zh": "不行。"
+      },
+      "source_id": 9154
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Очнись!",
+        "en": "Wake up!",
+        "zh": "活下来！"
+      },
+      "source_id": 9155
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Не могу... дышать...",
+        "en": "Can't... breathe...",
+        "zh": "唔，好难呼吸…"
+      },
+      "source_id": 9156
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Заберите меня...",
+        "en": "Take me back...",
+        "zh": "想回去…"
+      },
+      "source_id": 9157
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Лупикал... моя Лупикал...",
+        "en": "Lupical... my Lupical...",
+        "zh": "我的…卢皮卡…"
+      },
+      "source_id": 9158
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Я чувствую вкус крови...",
+        "en": "I taste blood...",
+        "zh": "嘴里，咸的…"
+      },
+      "source_id": 9159
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Я на разведку.",
+        "en": "I'll scout ahead.",
+        "zh": "我打头阵。"
+      },
+      "source_id": 9160
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Мы идём на охоту!",
+        "en": "We're going to hunt!",
+        "zh": "要去哪里？"
+      },
+      "source_id": 9161
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Я прикрою тебя.",
+        "en": "I'll watch your back.",
+        "zh": "背后，交给我。"
+      },
+      "source_id": 9162
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Запах хороший. Вкус хороший. Мне нравится.",
+        "en": "Smells good, also tastes good, I like it.",
+        "zh": "气味很香，味道一样好。喜欢。"
+      },
+      "source_id": 9163
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Еда даёт энергию. Приносит счастье.",
+        "en": "Eating this gives me energy, makes me happy.",
+        "zh": "吃了有力气，很开心。"
+      },
+      "source_id": 9164
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Есть - плохо. Не есть - плохо. Грустно.",
+        "en": "Eating it, bad. Not eating it, also bad. I'm a bit sad.",
+        "zh": "吃，不好。不吃，不好。有些难过。"
+      },
+      "source_id": 9165
+    }
+  ],
+  "replica_count": 66
 }

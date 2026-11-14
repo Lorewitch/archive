@@ -277,7 +277,6 @@
 
   const BOOK_TYPE_FILTERS = [
     ["book_series", "Книжные серии"],
-    ["notes", "Записки"],
   ];
 
   const REGION_FILTERS = [
@@ -301,9 +300,6 @@
     ["common_enemies", "Обычные противники", "Повседневная добыча с монстров и вражеских отрядов: маски, знаки, обломки и другие маленькие улики мира."],
     ["development_materials", "Материалы развития", "Книги талантов и материалы возвышения: тихие ступени роста, через которые персонажи становятся сильнее."],
     ["teyvat_resources", "Ресурсы Тейвата", "Руды, растения, диковины, ингредиенты и собираемые редкости: природные следы регионов, спрятанные в траве, камне и лунном свете."],
-    ["serenitea_pot", "Чайник Безмятежности", "Чертежи и предметы обстановки, чьи описания рассказывают об истории и культуре Тейвата."],
-    ["useful_items", "Полезные предметы", "Инструменты, гаджеты и особые вещицы: маленькие помощники путешествия, без которых дорога становится куда капризнее."],
-    ["misc", "Прочее", "Редкие и странные находки без отдельной полки: всё, что не пожелало аккуратно вписаться в другие разделы."]
   ];
 
   // В меню «Истории» четыре самостоятельные категории без вложенной «Квесты и задания».
@@ -328,7 +324,7 @@
     { id: "fontaine", title: "Фонтейн", chapter: "Том IV", description: "Пророчество и суд над Гидро Архонтом." },
     { id: "natlan", title: "Натлан", chapter: "Том V", description: "Война с Бездной и священное пламя." },
     { id: "nod-krai", title: "Нод-Край", chapter: "Песня полой луны", description: "Увертюра и региональные главы «Песни полой луны» в Нод-Крае." },
-    { id: "snezhnaya", title: "Снежная", chapter: "Снежная", description: "Сюжетные главы Снежной, когда они будут добавлены в архив." },
+    { id: "snezhnaya", title: "Снежная", chapter: "Том VII", description: "Сюжетные главы Снежной: от первых шагов в царстве льда до событий версии 7.2." },
     { id: "twins", title: "Задания Близнецов", chapter: "История Близнецов", description: "Встречи с Дайнслейфом, Каэнри’ах и поиски Близнеца — независимо от региона." },
     { id: "other", title: "Другие главы", chapter: "Задания Архонтов", description: "Новые главы, которые пока не отнесены к основным сюжетным сборкам." },
   ];
@@ -502,14 +498,6 @@
       ["craft", "Крафт"],
       ["ingredient", "Ингредиенты"],
     ],
-    serenitea_pot: [
-      ["blueprint", "Чертежи"],
-    ],
-    useful_items: [
-      ["tool", "Инструменты"],
-      ["seelie", "Феи"],
-      ["equipment", "Снаряжение"],
-    ],
   };
 
   function typeFilterOptionValue(option) {
@@ -551,14 +539,6 @@
       animal: { ru: "Животное", en: "Animal", zh: "动物" },
       craft: { ru: "Крафт", en: "Crafting", zh: "合成" },
       ingredient: { ru: "Ингредиент", en: "Ingredient", zh: "食材" },
-    },
-    serenitea_pot: {
-      blueprint: { ru: "Чертёж", en: "Blueprint", zh: "图纸" },
-    },
-    useful_items: {
-      tool: { ru: "Инструмент", en: "Tool", zh: "道具" },
-      seelie: { ru: "Фея", en: "Seelie", zh: "仙灵" },
-      equipment: { ru: "Снаряжение", en: "Equipment", zh: "装备" },
     },
   };
 
@@ -894,7 +874,7 @@
       data: () => ITEMS,
       groups: ITEM_GROUPS,
       groupField: "item_group",
-      defaultGroup: "misc",
+      defaultGroup: "teyvat_resources",
       filter: "region",
       filterLabel: "Все регионы",
       empty: "В этой категории пока нет предметов.",
@@ -980,9 +960,7 @@
         typeFiltersByGroup: {
           common_enemies: [],
           development_materials: [],
-          teyvat_resources: [],
-          serenitea_pot: [],
-          useful_items: []
+          teyvat_resources: []
         }
       },
       stories: {
@@ -2298,14 +2276,13 @@
   }
 
   function worldQuestSeriesOrder(a, b) {
-    const aLinks = Array.isArray(a.quest_chain) ? a.quest_chain : [];
-    const bLinks = Array.isArray(b.quest_chain) ? b.quest_chain : [];
-    const aOrder = aLinks.indexOf(a.id);
-    const bOrder = aLinks.indexOf(b.id);
-    if (aOrder >= 0 && bOrder >= 0) return aOrder - bOrder;
-    const bOrderFromB = bLinks.indexOf(b.id);
-    const aOrderFromB = bLinks.indexOf(a.id);
-    if (aOrderFromB >= 0 && bOrderFromB >= 0) return aOrderFromB - bOrderFromB;
+    const aOrder = Number(a.quest_series_order || 0);
+    const bOrder = Number(b.quest_series_order || 0);
+    if (aOrder > 0 && bOrder > 0 && aOrder !== bOrder) return aOrder - bOrder;
+    const sharedChain = [a.quest_chain, b.quest_chain].find(chain =>
+      Array.isArray(chain) && chain.includes(a.id) && chain.includes(b.id)
+    );
+    if (sharedChain) return sharedChain.indexOf(a.id) - sharedChain.indexOf(b.id);
     return entrySortVersion(a) - entrySortVersion(b) || compareByTitle(a, b);
   }
 

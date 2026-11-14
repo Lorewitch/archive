@@ -144,5 +144,946 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Привет! Я Нилу из Театра Зубаира. Сегодня на сцене я буду танцевать вот такой танец. Не зевай, представление начинается...",
+        "en": "Hello, I'm Nilou from Zubayr Theater. We have one dance scheduled for today, and it's about to start — keep your eyes peeled!",
+        "zh": "你好，我是来自祖拜尔剧场的妮露。今天上演的剧目是这一支舞。请你不要眨眼哦，要开始了——"
+      },
+      "source_id": 70000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Тренировки",
+        "en": "Chat: Practice",
+        "zh": "闲聊·练习"
+      },
+      "text": {
+        "ru": "Сначала вот так... Следующее движение... Так... Да... Хорошо!",
+        "en": "First get into position like this, then move like that... Yep, that's it.",
+        "zh": "先这样…下一个动作是…这样吧，嗯…嗯！"
+      },
+      "source_id": 70001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Сонливость",
+        "en": "Chat: Sleepiness",
+        "zh": "闲聊·困意"
+      },
+      "text": {
+        "ru": "Нужно сделать глубокий вдох и представить, что выдыхаешь огромный пузырь, а в нём - твоя усталость. Выдох... Улетай, пузырь!",
+        "en": "Take a deep breath, as if you're about to blow up a huge balloon. Exhale all your sleepiness into it, and then, poof — it's now flying away!",
+        "zh": "深呼吸，吹一个大大的气球，把困意放进气球里，呼——气球飞走吧。"
+      },
+      "source_id": 70002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Отдых",
+        "en": "Chat: Rest",
+        "zh": "闲聊·休息"
+      },
+      "text": {
+        "ru": "А хорошо иногда устроить себе такой выходной... Можно отдыхать и ни о чём не думать.",
+        "en": "Relaxing days like this are nice... Let's take it easy.",
+        "zh": "这样清闲的日子倒也不错嘛，优哉游哉。"
+      },
+      "source_id": 70003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Погода - как настроение, иногда на небо набегают хмурые тучи, но это не повод расстраиваться. Ведь после дождя небо станет ещё светлее.",
+        "en": "The weather and our moods are the same — they can both get gloomy. It's all right, though, because the sky will become even brighter after the rain.",
+        "zh": "天气和心情一样，有时候会变得阴沉沉的，但是不用着急，雨后的天空会更加澄澈。"
+      },
+      "source_id": 70004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Слушать раскаты грома бывает страшновато. Боишься? Могу научить тебя одному волшебному приёму.",
+        "en": "Thunder is kinda scary. Are you afraid of it? If so, I can share a nifty method to help with that.",
+        "zh": "雷声有点恐怖呢，你会害怕吗？我可以分享你一个神奇的方法哦。"
+      },
+      "source_id": 70005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "А? Ничего себе, снег! Слышишь, как шуршат снежинки? А как они кружатся! Правда похоже на танец духов природы?",
+        "en": "Huh? Wow, it's snowing. You can really hear the snow falling. Add in the swirling snowflakes, and it feels like the spirit of nature is dancing.",
+        "zh": "欸？哇——下雪了。你听，下雪的簌簌声，加上旋转着的雪花，像不像自然的精灵在跳舞？"
+      },
+      "source_id": 70006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "В ясную погоду... солнце светит так ласково... Эх, даже в сон клонит.",
+        "en": "Sunny days are so warm and cozy... *yawn* They make me sleepy...",
+        "zh": "阳光明媚的日子…晒得暖洋洋的。唔，会犯困…"
+      },
+      "source_id": 70007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "С тобой всё в порядке? Берегись песчаных бурь.",
+        "en": "Are you all right? Watch out for sandstorms.",
+        "zh": "你还好吗？小心风沙哦。"
+      },
+      "source_id": 70008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! А? Почему ты так смотришь? Н-наверное, у меня волосы растрепались? Ой, не смотри на меня, я сейчас причешусь.",
+        "en": "Good morning! Huh, why are you staring at me? ...M—My hair's sticking up? Ahh, don't look! I'll go fix it right now.",
+        "zh": "早上好哦。欸？你盯着我看是…哦头、头发翘起来了吗？啊，先别看我，唔，我马上整理好。"
+      },
+      "source_id": 70009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Ммм... Гм... Чем бы пообедать, выпечкой или рисом?.. Или хумусом?",
+        "en": "Uhh... Mmm... Should I eat some baked goods, or should I get something with rice? Or maybe... I can have some hummus instead?",
+        "zh": "唔…嗯…中午吃饼好呢，还是吃饭呢…要不吃豆泥吧？"
+      },
+      "source_id": 70010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер! Сегодня у меня выступление в Театре Зубаира. Дать два билетика?",
+        "en": "Good evening! I have a performance at Zubayr Theater tonight. Want some tickets?",
+        "zh": "晚上好，今晚我在祖拜尔剧场有演出。给你两张剧票吧？"
+      },
+      "source_id": 70011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Перед сном нужно как следует выговориться и прогнать все тревоги. Тогда спать будешь крепко. Если хочешь, я тебя выслушаю.",
+        "en": "Remember, let out all your frustrations before bedtime for a better night's rest. If you want, I'm more than happy to be your audience.",
+        "zh": "睡前把烦恼全部都倾诉掉，会睡得比较香哦。如果你愿意，我很乐意当你的听众。"
+      },
+      "source_id": 70012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Нилу: Язык тела",
+        "en": "About Nilou: Body Language",
+        "zh": "关于妮露自己·肢体语言"
+      },
+      "text": {
+        "ru": "Иногда танец передаёт чувства точнее слов. Когда не знаешь, что сказать, танцуй!",
+        "en": "Sometimes, you can convey more with dance than words. If you don't know what to say, then just dance.",
+        "zh": "有时候，舞蹈比语言更能传达出心情，不知道该说什么好的时候，就跳舞吧。"
+      },
+      "source_id": 70013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Нилу: Танцы и знания",
+        "en": "About Nilou: Dance and Wisdom",
+        "zh": "关于妮露自己·舞蹈与知识"
+      },
+      "text": {
+        "ru": "Чтобы постигать знания, нужен настоящий дар, многие люди ужасно стараются, но в результате получают только усталость и разочарование... Танец - другое дело, можно совсем не разбираться в танцах и наслаждаться представлением. А если мой танец раскроет публике красоту и ценность искусства, я буду просто счастлива.",
+        "en": "You need an extreme amount of talent to pursue knowledge and wisdom. Many people throw their entire lives into it, only to end up burned out and depressed... Dance isn't like that. You don't have to understand what you're seeing to enjoy watching it. If I can use my movements to demonstrate the beauty and meaning of dance, then I'm happy.",
+        "zh": "探究知识需要很高很高的天赋，很多人拼了命地努力，结果劳累又沮丧…但跳舞就不一样了，就算看不懂门道，也能看个热闹。要是能从这份肢体动作中品味到艺术的美丽与价值，那我就更开心了。"
+      },
+      "source_id": 70014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Как прогнать злость",
+        "en": "About Us: Dealing with Anger",
+        "zh": "关于我们·缓解生气"
+      },
+      "text": {
+        "ru": "Ты сердишься? Гм, надо это прекращать. Смотри, я тебя научу. Нарисуй правой рукой большой круг прямо перед собой, потом представь, что вытаскиваешь всю злость из груди и бросаешь в этот круг. А теперь оттолкни его подальше! Ну как, стало легче?",
+        "en": "Are you sulking? That's no good — c'mon, follow my lead. First, use your right hand to draw a biiig circle in front of you. Then, use both hands to take all those negative feelings off your chest and into the circle. Next, push it away as hard as you can! So? Feeling better now?",
+        "zh": "你会生闷气吗？嗯，生闷气是不好的。来，跟着我做。先在身前用右手画一个大大的圆，然后，双手把讨厌的事都从胸口里取出来，放在圆里。接着，用力地推出去！怎么样，心情好起来了吗？"
+      },
+      "source_id": 70015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Приключения на чужбине",
+        "en": "About Us: Going on Adventures",
+        "zh": "关于我们·外出冒险"
+      },
+      "text": {
+        "ru": "Я никогда не покидала Сумеру, но... Мне так хочется отправиться с тобой на поиски приключений. В незнакомом месте нужно просто немного освоиться, и всё будет хорошо. Ой, а на пляжах в Инадзуме случайно нет большущих песчаных червей, которые неожиданно выскакивают из песка?",
+        "en": "I've never left Sumeru City, but... I want to go on adventures with you. Going to new places will be fine as long as I can adjust... Umm, quick question: Inazuma's beaches won't have huge Wenut that'll suddenly jump out at us, right?",
+        "zh": "尽管我之前没离开过须弥城，但…我想和你一起去冒险。哦，到陌生的地方，我适应一下就好…唔，稻妻的沙滩下，真的不会有很大很大的沙虫，突然钻出来吗？"
+      },
+      "source_id": 70016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Я получила Глаз Бога, когда впервые вышла на сцену. Думаю, если милостивая Архонт удостоила вниманием моё выступление, значит, она признаёт красоту мирского искусства.",
+        "en": "I received my Vision when I debuted on stage. If even the goddess was willing to watch my performance, then that must mean she had acknowledged the beauty of human-made art.",
+        "zh": "我的神之眼是第一次登台跳舞时拿到的。我想，神明大人会成为我的观众，一定也认可了人类艺术的美丽之处吧。"
+      },
+      "source_id": 70017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Иногда старания не приносят результата, это нормально. Например, как бы я ни старалась, учение даршана Ртавахист для меня - тёмный лес. Если ничего не получается, нужно встряхнуть головой, чтобы мысли потекли по другому руслу, и тогда всё будет в порядке.",
+        "en": "It's normal for hard work to produce no results. For example, no matter how hard I try, I can never understand the Rtawahists' teachings. When you're stuck, shake up your mind, flip your brain around, and change the direction you're going in.",
+        "zh": "努力没有结果，也是很正常的。就像我不管怎么努力，也没办法理解明论派的知识。嗯，这个时候晃一晃脑袋，让大脑转个弯，换个方向就好了。"
+      },
+      "source_id": 70018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи: Танец кристальных бабочек",
+        "en": "Interesting Things: Dance of the Crystalflies",
+        "zh": "感兴趣的见闻·晶蝶之舞"
+      },
+      "text": {
+        "ru": "Кристальные бабочки бывают самых разных цветов. Если ты не вытерпишь и протянешь руку, чтобы прикоснуться к этой красоте, она сразу полетит прочь, выписывая в воздухе невероятные пируэты. Эх, если бы я умела летать, научилась бы у кристальных бабочек их танцу.",
+        "en": "Crystalflies come in all sorts of colors. They're so pretty that you can't not be curious. When you quietly reach out to one, it instantly steps into an elegant and nimble dance, and flies away from you. Hehe, if I could fly, I'd take dance lessons from them.",
+        "zh": "晶蝶有各种各样的颜色，很漂亮。当你实在按捺不住好奇心，悄悄伸出手的时候，它们就会一下子跳起优美而迅疾的舞步，离你远去。啊，我要是会飞的话，就能学会晶蝶之舞了。"
+      },
+      "source_id": 70019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Интересные вещи: Падисара",
+        "en": "Interesting Things: Padisarahs",
+        "zh": "感兴趣的见闻·帕蒂沙兰"
+      },
+      "text": {
+        "ru": "Когда богиня цветов пускается в танец, на её следах распускаются настоящие падисары. Это, наверное, очень красиво... Хотелось бы посмотреть.",
+        "en": "When the Goddess of Flowers danced, real Padisarahs would bloom underneath her feet. That sounds like such a beautiful scene. I'd love to see it.",
+        "zh": "花神大人跳舞的时候，真正的帕蒂沙兰会在她踏足过的地上盛开。…啊，听起来就非常美好，真想见一见这样的场景。"
+      },
+      "source_id": 70020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Сайно...",
+        "en": "About Cyno",
+        "zh": "关于赛诺…"
+      },
+      "text": {
+        "ru": "Он из Академии, а я побаиваюсь людей из Академии. Они там невысокого мнения о песнях и танцах. Я иногда думаю, а как они вообще развлекаются, если не любят танцы? А, значит, Сайно играет в «Священный призыв семерых»? Да уж, трудно себе представить.",
+        "en": "I don't really like interacting with people from the Akademiya because they don't view the arts too kindly. I often wonder what they do when they're bored... Huh, Cyno plays Genius Invokation TCG? I can't believe it...",
+        "zh": "教令院的人，我不太敢接触，毕竟他们对歌舞艺术的印象都不好。我常常会想，那他们会通过什么来解闷呢？呃…你说赛诺的话，会玩「七圣召唤」？真是不可思议呢。"
+      },
+      "source_id": 70021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Тигнари...",
+        "en": "About Tighnari",
+        "zh": "关于提纳里…"
+      },
+      "text": {
+        "ru": "Говорят, он настоящий специалист в ботанике. Значит, и в грибах наверняка разбирается, отличает съедобные от несъедобных... Завидую!",
+        "en": "I hear he's a really talented botanist. He must be good at telling apart mushrooms. At least, he would never have to worry about eating a poisonous one... I'm so jealous.",
+        "zh": "据说他是很厉害的植物学家。那他分辨蘑菇的本领肯定很厉害，至少不会吃到毒蘑菇…好羡慕呀。"
+      },
+      "source_id": 70022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Коллеи...",
+        "en": "About Collei",
+        "zh": "关于柯莱…"
+      },
+      "text": {
+        "ru": "Она иногда приходит на мои представления. Стажёр Лесного дозора, такая ответственная. Как-то раз она попросила меня быть внимательней, чтобы не заблудиться в лесу. Как думаешь, с чего бы это? Ни разу такого не было, чтобы я заблудилась.",
+        "en": "She sometimes comes to watch my performances. She's a really hard-working Trainee Forest Ranger. One time, she warned me about getting lost. What did she mean by that? It's not like I've gotten lost before...",
+        "zh": "她偶尔会来看我的演出，是一位很热心的见习巡林员呢。她还提醒过我小心迷路，这是为什么呢？我也没有迷路过呀。"
+      },
+      "source_id": 70023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кавехе...",
+        "en": "About Kaveh",
+        "zh": "关于卡维…"
+      },
+      "text": {
+        "ru": "Я слышала, он построил великолепный Алькасар-сарай. Должно быть, это настоящее счастье - работать над такой красотой. Когда во время репетиции я вспоминаю, что публика скоро увидит мой танец, сердце тотчас же наполняется радостной силой.",
+        "en": "I heard he was the one who built the magnificent Palace of Alcazarzaray. He must have had a wonderful time making such a masterpiece, like when I'm in the middle of dance practice. Just thinking about dancing for everyone gives me so much happiness and motivation.",
+        "zh": "我听说是他建造了华美的艾尔卡萨扎莱宫，能建造出那样的作品，过程应该快乐又陶醉吧。就像我练舞的时候一样，只要一想到能跳给大家看，就充满了喜悦和动力呢。"
+      },
+      "source_id": 70024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Дэхье...",
+        "en": "About Dehya",
+        "zh": "关于迪希雅…"
+      },
+      "text": {
+        "ru": "В последнее время столько всего произошло, самой не верится. Вообще-то, я хотела выбрать подарки для Дэхьи и Дуньярзады... Но до сих пор так и не знаю, что им подарить. А если дарить всё, что советуют друзья с Большого базара, получится слишком много. Как же мне быть...",
+        "en": "It's hard to believe that so many things have happened recently... I wanted to pick out a good present for Dehya and Dunyarzad, but I just can't make up my mind. Everyone at the Grand Bazaar has given me many suggestions, but if I took them all, it'd be too much... What should I do...",
+        "zh": "最近发生了那么多事情，总觉得很不可思议。我原本想为迪希雅和迪娜泽黛挑选一些合适的礼物。但我自己拿不定主意，嗯…要是把大巴扎朋友们推荐的品种全送去，又太多了。哎呀，到底该怎么办才好呢？"
+      },
+      "source_id": 70025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Дори...",
+        "en": "About Dori",
+        "zh": "关于多莉…"
+      },
+      "text": {
+        "ru": "Щедрая негоциантка Дори тоже приходила на мои представления. Но потом у неё был какой-то разговор с Зубаиром, и после она у нас не появлялась. Интересно, что случилось? Гм... А? То есть она хотела устроить мне турне по Тейвату? Не может быть. Надеюсь, Зубаир ей отказал? Правда ведь, отказал?..",
+        "en": "The big-spending merchant Dori has watched me dance before. I remember that she talked with Mr. Zubayr once, and then never came back. Did something happen? ...Huh? She wanted me to go on tour around Teyvat? No way, Mr. Zubayr definitely would've refused for me! ...Ahh, please tell me he has...",
+        "zh": "出手阔绰的多莉大商人也曾看过我跳舞。我记得，有一次她和祖拜尔先生商量了什么事情，之后就再也没来过了。会是什么事情呢？嗯…呃？你是说她可能想带我进行一场提瓦特巡演？不会吧，祖拜尔先生肯定帮忙拒绝了吧…应该拒绝了吧…"
+      },
+      "source_id": 70026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О малой властительнице Кусанали...",
+        "en": "About Lesser Lord Kusanali",
+        "zh": "关于小吉祥草王…"
+      },
+      "text": {
+        "ru": "Все на Большом базаре обожают малую властительницу Кусанали. Так хочется узнать, что она думает о моём танце Сабзеруз... Ой, нет, лучше не надо. Если она и правда появится на представлении, я от страха с ума сойду.",
+        "en": "The people of the Great Bazaar love Lesser Lord Kusanali. I'd love to hear her thoughts on my Dance of Sabzeruz... Oh, no, no, forget it... If she were in the audience, I'd get stage fright...",
+        "zh": "大巴扎的大家都很喜欢小吉祥草王大人，好想听听她对我跳的花神之舞的评价呀…啊！不、不，还是算了算了。她真的来了，我肯定会紧张得不得了。"
+      },
+      "source_id": 70027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Нилу I",
+        "en": "More About Nilou: I",
+        "zh": "想要了解妮露·其一"
+      },
+      "text": {
+        "ru": "Гм... Ой! Извини, я как раз думала, что бы такого съесть. Немного отвлеклась... Тебе нужна помощь?",
+        "en": "Aaagh! Sorry, I'm trying to decide what to eat, and I got lost in thought. Hee-hee, do you need help with anything?",
+        "zh": "唔——啊！抱歉，我在想等下去吃什么好呢？有点出神了…你需要帮忙吗？"
+      },
+      "source_id": 70028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Нилу II",
+        "en": "More About Nilou: II",
+        "zh": "想要了解妮露·其二"
+      },
+      "text": {
+        "ru": "Моя наставница научила меня всему, что нужно знать о танце, но она всегда говорила, что самое главное - наполнить чувствами каждое движение. Только такой танец вызовет отклик у публики. А выразить можно лишь те чувства, которые испытываешь. Чтобы выразить танцем красоту, я сама должна стать воплощением красоты.",
+        "en": "My teacher taught me everything there is to know about dance, but she said that the most important thing is putting feeling into your movements. Only then can you move your audience and convey emotion. To express beauty, I must first become the embodiment of beauty.",
+        "zh": "我的老师教过我很多跳舞的要领，但她说，最重要的还是要把情感都投入到舞蹈里，因为这样才是最能打动人的。有所感，才能抒发。想要传达美丽的话，我就要成为美丽本身吧。"
+      },
+      "source_id": 70029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Нилу III",
+        "en": "More About Nilou: III",
+        "zh": "想要了解妮露·其三"
+      },
+      "text": {
+        "ru": "Иногда мне приходят письма от зрителей, они говорят, что мои танцы поднимают им настроение. Я стараюсь разделить эту радость со всеми работниками театра. Публика видит на сцене одну меня, но я помню, что каждое наше представление - результат работы всех участников труппы.",
+        "en": "Sometimes, I receive letters from showgoers who say that my dancing has cheered them up. I always share this kind of happy news with everyone at Zubayr Theater. Even though I'm the one the audience sees on the stage, it's because of everyone's collective efforts that I can stand up there in the first place.",
+        "zh": "有时候我会收到观众们的来信，说他们因为我的舞蹈打起了精神。我会和祖拜尔剧场的大家共同分享这份快乐。虽然在观众眼里，我是在台前的那一个，但在我心中，这永远是靠所有人的努力才能取得的成果。"
+      },
+      "source_id": 70030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Нилу IV",
+        "en": "More About Nilou: IV",
+        "zh": "想要了解妮露·其四"
+      },
+      "text": {
+        "ru": "Иногда на Большом базаре выступают жонглёры из цирка, они подбрасывают мячики в воздух и ловят, подбрасывают и ловят. Я как-то тоже пробовала жонглировать, но все мячики упали мне на голову. Зубаир и все остальные очень смеялись. Наверное, они думали, что у меня прекрасная координация... Да, теперь они знают моё слабое место.",
+        "en": "The Grand Bazaar occasionally hosts other kinds of performances, such as juggling showcases. I've tried juggling before, but I always end up catching the balls with my head... Mr. Zubayr and everyone else just laughed at me. They probably thought I had really good hand-eye coordination. Hee-hee, I've been exposed.",
+        "zh": "大巴扎有时候会有一些杂技表演，比如说不停抛起球来又不停接住。以前我也试过这个，但是不知道怎么回事就是接不住球，反而全掉头上了。当时祖拜尔先生他们都笑了起来。嗯…好像在他们眼里，我的身体协调能力应该特别强一样…暴露短处了呢。"
+      },
+      "source_id": 70031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Нилу V",
+        "en": "More About Nilou: V",
+        "zh": "想要了解妮露·其五"
+      },
+      "text": {
+        "ru": "Однажды мне сказали, что я похожа на солнечный оазис - дарю людям отдохновение и тепло. Конечно, мне было приятно, но на самом деле я стремлюсь к другому... Я хочу стать для людей чем-то большим. Но теперь, подружившись с тобой, я знаю, каково это - когда о тебе заботятся и окружают вниманием. Теперь... теперь, я понимаю, что настоящий оазис - это ты!",
+        "en": "Someone once told me that I was like a shining oasis that restored life and happiness to others with its warmth. That was nice of them to say, and I was happy to hear it, but... what I want to show people is much more than that. After spending so much time with you, though, I finally understand how it feels to have someone care for and look after you. Now... Now, I feel like that comparison is a far better one for you.",
+        "zh": "以前有人说我就像是暖阳下的绿洲，让人感到治愈与温暖。我多多少少会高兴一下，但我的追求、我试图向大家呈现的价值不止在此。不过，和你相处久了我才知道，被人照顾和关怀是这样的感觉。现在…现在，我感觉那个比喻更适合你。"
+      },
+      "source_id": 70032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Хобби Нилу...",
+        "en": "Nilou's Hobbies",
+        "zh": "妮露的爱好…"
+      },
+      "text": {
+        "ru": "Вся моя жизнь - танец, а танец - моя жизнь... Как бы это объяснить? Да уж, логика - не сильная моя сторона. Словом, я просто танцую и всегда буду танцевать. Своими представлениями я хочу донести до людей красоту танца.",
+        "en": "\"My life is dance,\" or \"Dance is my life\"... Which phrase is the better way to describe it? Agh, I'm no good at logical things like this. Anyway, I'll just keep on dancing. I want to use my performances to show the beauty of art to more people.",
+        "zh": "我的人生就是跳舞，跳舞就是我的人生…到底该说哪个才比较好呢？哎呀，我果然不适合思考这些太有逻辑的东西。总之，我会一直跳下去的。用我的表演，让这份艺术之美被更多人看见。"
+      },
+      "source_id": 70033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Беспокойство Нилу...",
+        "en": "Nilou's Troubles",
+        "zh": "妮露的烦恼…"
+      },
+      "text": {
+        "ru": "Я так и не научилась отличать съедобные грибы от несъедобных... Говорят, от цвета это не зависит, ядовитыми могут оказаться и яркие грибы, и самые невзрачные. Эх, вроде понятно, но всё равно непонятно...",
+        "en": "I still can't tell poisonous mushrooms apart from non-poisonous ones... Apparently, color doesn't mean much — poisonous mushrooms can be bright or dull. Mmm, I feel like I understand, but I also don't...",
+        "zh": "我还是搞不懂哪些蘑菇有毒，哪些又没有…据说，颜色不管是鲜艳还是朴素的蘑菇，都有可能有毒。唔，好像明白了什么，又好像什么都没明白…"
+      },
+      "source_id": 70034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Сладости всегда поднимают настроение, в Сумеру почти все любят сладкое! Может, попробуешь? Я устрою тебе настоящую дегустацию...",
+        "en": "Sweets always make you feel better! Most people in Sumeru love them. Wanna try some? I'll get some for you!",
+        "zh": "甜食总能让人心情愉快，须弥大多数人都喜欢甜食哦！欸，你要不要也试试看？我可以给你一一介绍。"
+      },
+      "source_id": 70035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я редко ем грибы, я их боюсь. Нет, я не пускаюсь бежать, увидев на дороге гриб! Просто... в детстве я случайно съела ядовитый гриб и потом несколько дней провалялась в постели... Если хочешь попробовать какой-нибудь из грибных деликатесов Сумеру, прежде убедись, что грибы в нём съедобные!",
+        "en": "I have a hard time eating mushrooms, mostly because I'm scared... Not the type of scared that makes you want to run away, though! When I was little, I once ate a poisonous mushroom and was bedridden for days... If you want to eat any of Sumeru's mushroom dishes, please make sure to check that the ingredients are all edible!",
+        "zh": "我有点难以接受菌菇那一类，主要是害怕。不是那种见到了想逃走的害怕啦。我…我是小时候误吃过毒蘑菇，在床上躺了好几天…如果你想尝一尝须弥的菌菇美食，要记得确保是无毒蘑菇哦。"
+      },
+      "source_id": 70036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Оказывается, вот что имеют в виду, когда говорят, что вкус настоящего деликатеса танцует на кончике языка... Настоящее чудо!",
+        "en": "This must be what it feels like to have flavors dancing on your tongue... How wonderful!",
+        "zh": "原来美食在舌尖起舞，指的就是这样的感觉…好神奇呀！"
+      },
+      "source_id": 70037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Спасибо. Каждый мой танец - результат усердных тренировок. Наверное, и ты много стараний вложил в это блюдо. / Спасибо. Каждый мой танец - результат усердных тренировок. Наверное, и ты много стараний вложила в это блюдо.",
+        "en": "Thank you. You must have put a lot of love and effort into this dish, just like I put so much of me into my dance practice.",
+        "zh": "谢谢你。就像我不断练习跳舞一样，这道菜肴，一定也凝结着你的心血吧。"
+      },
+      "source_id": 70038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Извини, у меня в последнее время совсем нет аппетита. Не обижайся!",
+        "en": "Sorry, my appetite's been a bit off lately. Please don't take offense.",
+        "zh": "抱歉，可能是我最近胃口不太好，你别介意。"
+      },
+      "source_id": 70039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Гм-гм... С днём рождения! Я тут недавно разучила новый танец, хочу тебе показать. А, волнуюсь ли я? Фух, от тебя ничего не скроешь! Я хотела передать свои чувства в движениях, но хореография получилась сложновата... В общем, желаю, чтобы тебе всегда сопутствовали радость и красота!",
+        "en": "Umm... Happy birthday! I learned a new dance, and I want to show it to you. Uh, am I nervous? *sigh* You saw right through me. It's because... I wanted to incorporate my feelings into the moves, but then the choreography just got more and more difficult... Anyway, I just wish that your life will always be full of wonder and happiness.",
+        "zh": "那个…生日快乐！我最近学会了一支新的舞蹈，想要跳给你看。呃，你问我紧张吗？呼——被你看出来了呀。因为，想要融合心意与技巧，不知不觉编得越来越难…总之，希望美好与快乐能永远留在你身边。"
+      },
+      "source_id": 70040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "А? Что за странное чувство?",
+        "en": "Huh? What's this feeling...?",
+        "zh": "啊，这是什么感觉？"
+      },
+      "source_id": 70041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Я разогрелась, сейчас покажу настоящий класс!",
+        "en": "I'm done warming up. I can do even better now!",
+        "zh": "身体舒展开了，能比以往发挥得更出色吧。"
+      },
+      "source_id": 70042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Я как будто лежу на спине огромного Анемо слайма. Так легко и приятно...",
+        "en": "I feel like I'm lying down on the back of a massive Anemo Slime. Ahh, it's so light and comfy~",
+        "zh": "我就像躺在一只大大的风史莱姆背上，好轻好轻。"
+      },
+      "source_id": 70043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "С тобой так хорошо. Мне всё время кажется, что сейчас у меня из груди полетят бабочки... Давай я лучше станцую, и ты всё поймёшь.",
+        "en": "I really like being with you. I don't know why, but it feels like a butterfly is trying to burst out of my chest... Anyway, how about I show a new dance to you?",
+        "zh": "我喜欢和你待在一起。嗯…我也不知道为什么，总感觉好像有蝴蝶要从胸腔飞出来一般…还是让我跳一支舞给你看吧。"
+      },
+      "source_id": 70044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Вот и я.",
+        "en": "Here!",
+        "zh": "来了哟。"
+      },
+      "source_id": 70045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Танец начинается!",
+        "en": "Positions!",
+        "zh": "准备跳喽。"
+      },
+      "source_id": 70046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Я сделаю всё возможное!",
+        "en": "With all my strength!",
+        "zh": "全力以赴。"
+      },
+      "source_id": 70047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Потанцуй с волнами!",
+        "en": "Dance with the waves!",
+        "zh": "和浪花共舞吧。"
+      },
+      "source_id": 70048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Смотрите на меня!",
+        "en": "All eyes on me!",
+        "zh": "请看好了哦。"
+      },
+      "source_id": 70049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Этот танец я посвящаю тебе.",
+        "en": "This dance is for you.",
+        "zh": "这支舞，献给你。"
+      },
+      "source_id": 70050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Это всё тебе.",
+        "en": "For you~",
+        "zh": "都给你。"
+      },
+      "source_id": 70051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Давай я помогу собрать.",
+        "en": "Let me help you pack this up.",
+        "zh": "我来帮忙一起收吧。"
+      },
+      "source_id": 70052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Ого, какая приятная неожиданность.",
+        "en": "Wow, what a lovely surprise!",
+        "zh": "哇，是意外之喜。"
+      },
+      "source_id": 70053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Со мной всё в порядке...",
+        "en": "Ah, don't worry about me...",
+        "zh": "唔，不用担心我…"
+      },
+      "source_id": 70054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Неприятно...",
+        "en": "How troublesome...",
+        "zh": "真伤脑筋呀…"
+      },
+      "source_id": 70055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Глубокий вдох...",
+        "en": "Deep breaths...",
+        "zh": "得快点深呼吸…"
+      },
+      "source_id": 70056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Не бойся, я рядом.",
+        "en": "Don't worry, I'm here.",
+        "zh": "别急，我来了。"
+      },
+      "source_id": 70057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Я тебя прикрою!",
+        "en": "I'll stand in for you!",
+        "zh": "请让我来抵挡一阵！"
+      },
+      "source_id": 70058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Я хотела... выйти на поклон...",
+        "en": "It's time for the curtain... to fall...",
+        "zh": "还没来得及…谢幕…"
+      },
+      "source_id": 70059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Мой танец... окончен...",
+        "en": "The show... can't go on...",
+        "zh": "不能…继续跳舞了吗…"
+      },
+      "source_id": 70060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Красота, не покидай меня...",
+        "en": "Beauty... Don't leave me...",
+        "zh": "美丽之物，不要远去…"
+      },
+      "source_id": 70061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ай, надо держать баланс...",
+        "en": "Ah, I gotta keep my balance...",
+        "zh": "啊，要稳住平衡。"
+      },
+      "source_id": 70062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Немного... больно.",
+        "en": "That... hurt a little.",
+        "zh": "有点…疼。"
+      },
+      "source_id": 70063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Где сегодня станцуем?",
+        "en": "Where are we dancing today?",
+        "zh": "今天要去哪里跳舞呢？"
+      },
+      "source_id": 70064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Чем я могу помочь?",
+        "en": "Anything I can help you with?",
+        "zh": "有什么我能帮忙的吗？"
+      },
+      "source_id": 70065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "А? Меня зовёте? Уже иду!",
+        "en": "...Oh, you're calling for me? Coming!",
+        "zh": "啊…是叫我吗？来啦。"
+      },
+      "source_id": 70066
+    }
+  ],
+  "replica_count": 67
 }

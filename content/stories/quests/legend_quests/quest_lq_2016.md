@@ -14,12 +14,14 @@
 # chapter_num_en: Sinae Unicornis Chapter: Act I
 # chapter_num_zh: 仙麟之章 第一幕
 # part_source_ids: 11030,11031,11032
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_lq_2016
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 11030,11031,11032
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -39,13 +41,19 @@
 
 **Бай Сяо:** Кхм... Мы не слуги госпожи Нин Гуан, а её личные секретари.
 
-**Бай Вэнь:** Путешественни(ца)(к), ты случайно не видел(а) госпожу Гань Юй?
+**Бай Вэнь:** Путешественник, ты случайно не видел госпожу Гань Юй? / Путешественница, ты случайно не видела госпожу Гань Юй?
 
 **Бай Вэнь:** Прошло несколько дней с тех пор, как госпожа Гань Юй отправилась в Заоблачный предел. Она главный секретарь Цисин, и мы временно выполняем её обязанности...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что-то случилось?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Почему она ушла в Заоблачный предел?
+
+##### Общее продолжение
 
 **Бай Сяо:** Ну, после того, как Адепты осудили Ли Юэ, хоть и был заключён мир, Цисин всё равно пожелали отдать просветлённым дань уважения...
 
@@ -69,7 +77,11 @@
 
 **Бай Сяо:** Мы и представить не могли, что ежедневный объём работы госпожи Гань Юй настолько превышает наш вместе взятый...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Кровь Адептов просто поразительна...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Не пора ли вам вернуться к работе?
 
@@ -77,21 +89,31 @@
 
 **Паймон:** Похоже, у вас серьёзный аврал.
 
-**Бай Вэнь:** Раз уж об этом речь... Мы слышали, что ты можешь беспрепятственно посещать Заоблачный предел, путешественни(ца)(к).
+##### Общее продолжение
+
+**Бай Вэнь:** Раз уж об этом речь... Мы слышали, что ты можешь беспрепятственно посещать Заоблачный предел, путешественник. / Раз уж об этом речь... Мы слышали, что ты можешь беспрепятственно посещать Заоблачный предел, путешественница.
 
 **Паймон:** Конечно! Мы там были уже много раз.
 
 **Бай Сяо:** Ох, это очень хорошо... Не могли бы вы отправиться в Заоблачный предел и отыскать госпожу Гань Юй? Желательно до того, как мы от всей этой работы упадём замертво...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Выходит, что сделать это могу только я...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Хорошо. Ведь на кону стоят ваши жизни.
+
+##### Общее продолжение
 
 **Бай Сяо:** Фух... Мы спасены. Помню, госпожа Гань Юй говорила, что сначала пойдёт в обитель Хранителя Облаков. Вы могли бы начать поиски оттуда.
 
 **Бай Вэнь:** Если она скорее не вернётся, мы... Эх...
 
 **Бай Ши:** Нет. Наверное, мы сначала обсудим с госпожой Нин Гуан сверхурочные...
+
+#### Разыщите Гань Юй у горы Аоцан
 
 #### Найдите Гань Юй и поговорите с ней
 
@@ -101,9 +123,15 @@
 
 **Гань Юй:** Ах, мне не стоит... Я покинула мир смертных. Если вы по поводу торгового порта, то обратитесь, пожалуйста, в павильон Лунного моря.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Покинула мир смертных?
 
+##### Вариант ответа 2
+
 - **Путешественник:** В тебе что-то переменилось...
+
+##### Общее продолжение
 
 **Паймон:** Так ты больше не хочешь быть секретарём Цисин? Они там уже заждались тебя...
 
@@ -121,9 +149,15 @@
 
 **Гань Юй:** Может, задание это было лишь предлогом избавиться от меня. Цисин дали мне шанс уйти с достоинством, и я решила проявить такт...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Думаю, что это было недоразумение.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Никто не собирался от тебя избавляться...
+
+##### Общее продолжение
 
 **Гань Юй:** Я благодарна вам за доброту, но слова утешения сейчас не к месту.
 
@@ -141,9 +175,15 @@
 
 **Хранитель Облаков:** Какими судьбами вас сюда занесло? Пришли побеседовать с Гань Юй о былом? Кажется, вы хорошо ладите...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Побеседовать о былом?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Хорошо ладим?
+
+##### Общее продолжение
 
 **Гань Юй:** ...
 
@@ -157,9 +197,15 @@
 
 **Хранитель Облаков:** Ха-ха-ха... Тебе нечего стесняться! Ты была такой милашкой. Твои друзья несомненно хотели бы послушать.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мне и правда любопытно...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это отличная тема для разговора.
+
+##### Общее продолжение
 
 **Паймон:** Слушаем, слушаем!
 
@@ -185,9 +231,15 @@
 
 **Гань Юй:** Ох... Ладно. Мне пора тренироваться. Ну, я пошла!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Похоже, Гань Юй расстроилась...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Кажется, этого не стоило рассказывать...
+
+##### Общее продолжение
 
 **Хранитель Облаков:** Ах, я просто хотела сгладить неловкость, что возникла между вами...
 
@@ -221,9 +273,9 @@
 
 **Гань Юй:** А вы зачем сюда пришли?
 
-- **Путешественник:** Составить тебе компанию.
+##### Вариант ответа 1
 
-- **Путешественник:** Потренироваться с тобой.
+- **Путешественник:** Составить тебе компанию.
 
 **Гань Юй:** Я, эм... Смертным не следует долго находиться в царстве Адептов.
 
@@ -231,7 +283,13 @@
 
 **Паймон:** Ура!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Потренироваться с тобой.
+
 **Гань Юй:** Да? Я не знала, что тебя интересует путь Адептов...
+
+##### Общее продолжение
 
 **Гань Юй:** Это испытание подготовил для меня Хранитель Облаков. Оно должно помочь мне снова почувствовать себя Адептом.
 
@@ -239,21 +297,33 @@
 
 **Паймон:** А оно трудное?
 
-**Гань Юй:** Нет. Твои силы, путешественни(ца)(к), мне известны. Сокрытая в тебе мощь не уступает моей.
+**Гань Юй:** Нет. Твои силы, путешественник, мне известны. Сокрытая в тебе мощь не уступает моей. / Нет. Твои силы, путешественница, мне известны. Сокрытая в тебе мощь не уступает моей.
 
-**Гань Юй:** Если ты готов(а), начинаем.
+**Гань Юй:** Если ты готов, начинаем. / Если ты готова, начинаем.
+
+**Хранитель Облаков:** Испытанию подвергнется её дух.
+
+**Хранитель Облаков:** Надеюсь, она благополучно со всем справится...
+
+#### Завершите испытание Хранителя Облаков
 
 #### Поговорите с Гань Юй
 
 **Гань Юй:** Мы отлично справились. Ну, как ощущения?
 
-- **Путешественник:** Из меня бы вышел хороший Адепт.
+##### Вариант ответа 1
 
-- **Путешественник:** Быть Адептом непросто...
+- **Путешественник:** Из меня бы вышел хороший Адепт.
 
 **Гань Юй:** Согласна. Ты обладаешь многими качествами Адептов, хоть в тебе ни капли их крови нет.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Быть Адептом непросто...
+
 **Гань Юй:** Трудности - часть жизни любого живого существа, не только Адептов.
+
+##### Общее продолжение
 
 **Паймон:** Гань Юй, а чем ты хотела заняться после тренировки?
 
@@ -261,9 +331,15 @@
 
 **Паймон:** Что?! То есть для тебя приготовили испытания и другие Адепты?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Кто, Творец Гор?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Кто, Владыка Лун?
+
+##### Общее продолжение
 
 **Гань Юй:** Нет. Только один Адепт может раскрыть мой истинный потенциал...
 
@@ -273,9 +349,15 @@
 
 **Паймон:** А, так это же Сяо! Как получилось, что этот чёрствый одиночка подготовил для тебя испытание?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вот так неожиданность...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Как интересно...
+
+##### Общее продолжение
 
 **Гань Юй:** Сначала он мне тоже казался нелюдимым. Но я думаю... встреча с ним - важная часть моего «возвращения».
 
@@ -284,10 +366,6 @@
 **Паймон:** Конечно интересно! Путешественник, идём!
 
 #### Поговорите с Сяо у Южных небесных врат
-
-**Хранитель Облаков:** Испытанию подвергнется её дух.
-
-**Хранитель Облаков:** Надеюсь, она благополучно со всем справится...
 
 **Сяо:** Ты опоздала на четверть часа... Вижу, от дурных людских привычек ты ещё не избавилась.
 
@@ -303,9 +381,15 @@
 
 **Гань Юй:** Мне... нечего скрывать.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Похоже, Сяо прекрасно понимает Гань Юй.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Наверное, Сяо всё-таки хороший учитель.
+
+##### Общее продолжение
 
 **Сяо:** Душа и тело едины. Если что-то беспокоит душу, выход может подсказать тело.
 
@@ -329,9 +413,15 @@
 
 **Паймон:** У Сяо обо всём есть своё мнение...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вот только ему стоит быть деликатнее.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Его независимость достойна восхищения.
+
+##### Общее продолжение
 
 **Сяо:** С завтрашнего дня сложность твоих тренировок начнёт повышаться. Тебе придётся...
 
@@ -353,11 +443,17 @@
 
 **Паймон:** Так это паломник...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Какие приземлённые пожелания...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Теперь понятно, почему Сяо его не переваривает...
 
 **Паймон:** Ага. Он с лёгкостью кромсает демонов, но когда доходит до обычных чудиков...
+
+##### Общее продолжение
 
 **Гань Юй:** Я... тоже Адепт. Можно сказать, что я готовлюсь стать Адептом.
 
@@ -385,13 +481,19 @@
 
 **Синь Чэн:** Вы точно не из тех обманщиков, что прикидываются Адептами и разводят людей на деньги?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вот не надо валить с больной головы на здоровую...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Будь любезен, прояви хоть немного уважения!
 
 **Синь Чэн:** Вы чего это мне выговариваете? Вы ведь тоже пришли к Адептам.
 
 **Паймон:** Вообще-то он прав. Мы всё же пришли сюда за Гань Юй...
+
+##### Общее продолжение
 
 **Синь Чэн:** Ай, хватит. Настоящий вы Адепт или нет, толку от вас никакого. Я ухожу.
 
@@ -407,17 +509,29 @@
 
 **Гань Юй:** Но после его расспросов я поняла, что я...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Давай вместе вернёмся в Ли Юэ.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Для тебя естественнее оставаться человеком.
 
+##### Общее продолжение
+
 **Гань Юй:** Но... В Ли Юэ мне не рады. Как Адепт, я...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Мы уже сказали тебе, что это было недоразумение!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты можешь просто поверить мне, как человеку, хоть раз?
 
-**Паймон:** Это правда! Просто поверь путешественни(це)(ку)!
+##### Общее продолжение
+
+**Паймон:** Это правда! Просто поверь путешественнику! / Это правда! Просто поверь путешественнице!
 
 **Гань Юй:** Эх...
 
@@ -430,6 +544,8 @@
 ### Секретарь в море смертных
 
 Блуждавшая между смертными и Адептами Гань Юй зашла в тупик. Ей кажется, что Ли Юэ отверг её, но план вернуться в Заоблачный предел потерпел неудачу. Возвращаясь с Гань Юй в Ли Юэ, вы пытаетесь убедить её, что всё это просто недоразумение...
+
+#### Возвращайтесь в Ли Юэ вместе с Гань Юй
 
 #### Поговорите с Гань Юй
 
@@ -448,6 +564,8 @@
 **Гань Юй:** Давайте погуляем в порту.
 
 **Паймон:** С радостью!
+
+#### Прогуляйтесь по порту Ли Юэ
 
 #### Прогуляйтесь по порту Ли Юэ
 
@@ -471,11 +589,17 @@
 
 **Паймон:** Э-этот старик назвал её «сестрёнкой»!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Как неловко...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Сестрёнка Гань Юй!
 
 **Гань Юй:** Ах... Пожалуйста, не начинайте звать меня так...
+
+##### Общее продолжение
 
 **Гань Юй:** Кхм-кхм... Позвольте мне вас познакомить. Это дядюшка Тянь. Он...
 
@@ -495,9 +619,15 @@
 
 **Гань Юй:** Дядюшка Тянь очень скромен. Невзирая на его почтенный возраст, столь благородного и уважаемого человека, как он, заменить некем.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Говорят, нельзя судить по одёжке...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мы ведь никогда его не обижали?..
+
+##### Общее продолжение
 
 **Дядюшка Тянь:** Ха-ха-ха-ха... Благодаря твоим добрым словам, моя сестрёнка Гань Юй, я чувствую, что десятки лет тяжкого труда не прошли даром.
 
@@ -523,9 +653,15 @@
 
 **Паймон:** (Как естественно она вернулась в свою роль...)
 
+##### Вариант ответа 1
+
 - **Путешественник:** Он помогает Гань Юй, как её настоящий коллега.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Боюсь, Гань Юй этого даже не замечает...
+
+##### Общее продолжение
 
 **Паймон:** Тогда вперёд, к павильону Лунного моря!
 
@@ -561,7 +697,7 @@
 
 **Гань Юй:** Мне приходилось решать такие проблемы сотни раз. Дай подумать, как лучше всего поступить в этом случае...
 
-«Тысяча лет опыта» неплохо бы смотрелось в резюме...
+- **Путешественник:** «Тысяча лет опыта» неплохо бы смотрелось в резюме...
 
 **Гань Юй:** Хм... Применим следующий подход: «Никто не знает тебя лучше, чем твой враг».
 
@@ -573,21 +709,29 @@
 
 **Хуэй Синь:** Поэтому... Я всё поняла, госпожа Гань Юй!
 
-- **Путешественник:** Мне вот ничего не понятно...
+##### Вариант ответа 1
 
-- **Путешественник:** Они могут разоблачить друг друга?
+- **Путешественник:** Мне вот ничего не понятно...
 
 **Хуэй Синь:** Госпожа Гань Юй хочет заставить их разоблачить друг друга.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Они могут разоблачить друг друга?
+
 **Гань Юй:** Именно.
+
+##### Общее продолжение
 
 **Гань Юй:** Начнём с «Тысячи мелочей». Хозяина зовут... Бо Лай, не так ли?
 
 **Хуэй Синь:** Вы правы. Прошу, следуйте за мной!
 
+**Дядюшка Тянь:** Давайте обойдёмся без лишних рассуждений. Моей дочери в самом деле нужна помощь Гань Юй, и не более, хе-хе...
+
 #### Поговорите с Бо Лаем из «Тысячи мелочей»
 
-**Бо Лай:** О, путешественни(ца)(к), какая встреча! А вы, стало быть, из павильона Лунного моря?
+**Бо Лай:** О, путешественник, какая встреча! А вы, стало быть, из павильона Лунного моря? / О, путешественница, какая встреча! А вы, стало быть, из павильона Лунного моря?
 
 **Бо Лай:** Хе-хе, неужели вы собираетесь почтить меня крупным заказом?
 
@@ -615,9 +759,15 @@
 
 **Бо Лай:** Я предпочту потерять деньги, чем дать этому прохвосту заработать!
 
+##### Вариант ответа 1
+
 - **Путешественник:** На здоровое соперничество это непохоже...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мелочный ты человек!
+
+##### Общее продолжение
 
 **Гань Юй:** Тогда прошу вас взглянуть на эту декларацию. Мы пересмотрим кредит доверия «Второй жизни» с учётом ваших замечаний.
 
@@ -705,15 +855,21 @@
 
 **Паймон:** О! Паймон тоже увидела... Это же Фатуи!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что они здесь забыли?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Что они собираются делать?
+
+##### Общее продолжение
 
 **Гань Юй:** Они точно замышляют что-то против Ли Юэ...
 
 **Паймон:** Может быть, это и есть те канальи, что захватили склад мастера Лу!
 
-Может, нам стоит сперва за ним понаблюдать?
+- **Путешественник:** Может, нам стоит сперва за ним понаблюдать?
 
 **Гань Юй:** После того, как Осиал атаковал город, репутация Фатуи в Ли Юэ упала на самое дно.
 
@@ -724,6 +880,10 @@
 **Гань Юй:** ...Интуиция секретаря Цисин.
 
 **Паймон:** Чего тогда мы ждём? Давайте как следует его поколотим!
+
+#### Победите подозрительного Фатуи
+
+**Мастер Лу:** Не забудьте этих поганцев прогнать. Мне тогда не придётся идти к Миллелитам...
 
 #### Поговорите с подозрительным Фатуи
 
@@ -739,9 +899,15 @@
 
 **Гань Юй:** ...То последуют ягодки.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы и так его не пожалели...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Быстро всё выкладывай!
+
+##### Общее продолжение
 
 **Застрельщик Фатуи:** Это правда... Нет никакого плана...
 
@@ -771,9 +937,15 @@
 
 **Паймон:** Значит, склад мастера Лу захватили не Фатуи...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Наверное, не надо было сразу его бить.
 
+##### Вариант ответа 2
+
 - **Путешественник:** И что, всё?
+
+##### Общее продолжение
 
 **Гань Юй:** Я тоже чувствую... что он не лжёт.
 
@@ -797,9 +969,15 @@
 
 **Застрельщик Фатуи:** ...Я продолжу собирать ягоды.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Правильный выбор.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Фатуи получили по заслугам!
+
+##### Общее продолжение
 
 **Паймон:** Парня, конечно, жалко, но Паймон радостно!
 
@@ -811,11 +989,7 @@
 
 #### Освободите склад от захватчиков
 
-**Дядюшка Тянь:** Давайте обойдёмся без лишних рассуждений. Моей дочери в самом деле нужна помощь Гань Юй, и не более, хе-хе...
-
 #### Найдите расписку магазина «Вторая жизнь»
-
-**Мастер Лу:** Не забудьте этих поганцев прогнать. Мне тогда не придётся идти к Миллелитам...
 
 #### Вернитесь к Хуэй Синь у павильона Лунного моря
 
@@ -833,7 +1007,7 @@
 
 #### Поговорите с Дун Шэном из «Второй жизни»
 
-Насчёт деклараций...
+- **Путешественник:** Насчёт деклараций...
 
 **Дун Шэн:** Вы ведь... Хуэй Синь из павильона Лунного моря. Я вас помню.
 
@@ -847,9 +1021,15 @@
 
 **Дун Шэн:** А?.. Нет-нет, что вы такое говорите. Я честный торговец. Я ни за что не стал бы прибегать к сомнительным практикам ради прибыли.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Каков бесстыдник...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Что, уже не такой дерзкий?
+
+##### Общее продолжение
 
 **Гань Юй:** Я недостаточно ясно выражаюсь? Господин Дун Шэн, то, что вы уклонялись от уплаты налогов, уже доказано. Мне просто было интересно, признаетесь ли вы в содеянном.
 
@@ -911,15 +1091,21 @@
 
 **Гань Юй:** Ах, в этом вовсе нет нужды. Не воспринимай всё так серьёзно. Право, сущие пустяки...
 
-**Хуэй Синь:** Тогда позвольте угостить вас обедом! Путешественни(ца)(к) и Паймон, присоединяйтесь к нам! Вы мне здорово помогли!
+**Хуэй Синь:** Тогда позвольте угостить вас обедом! Путешественник и Паймон, присоединяйтесь к нам! Вы мне здорово помогли! / Тогда позвольте угостить вас обедом! Путешественница и Паймон, присоединяйтесь к нам! Вы мне здорово помогли!
 
 **Паймон:** С удовольствием! Соглашайся, Гань Юй! Нас ждёт еда!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Паймон, это невежливо...
+
+**Паймон:** Ладно тебе, это же просто обед!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Посмотрим, что скажет Гань Юй.
 
-**Паймон:** Ладно тебе, это же просто обед!
+##### Общее продолжение
 
 **Гань Юй:** Ну, если это просто обед... Тогда нет причин отказываться. Я принимаю твоё приглашение, Хуэй Синь.
 
@@ -933,9 +1119,13 @@
 
 Выполняя поручение дядюшки Тяня, «Опоры Небес» Цисин, Гань Юй непринуждённо вернулась в своё обычное состояние и помогла Хуэй Синь со служебными затруднениями. В знак благодарности Хуэй Синь приглашает вас на обед в шатёр «Синьюэ»...
 
+#### Отправляйтесь на обед в шатёр «Синьюэ»
+
 #### Поговорите с Хуэй Синь
 
-**Хуэй Синь:** Спасибо, что приняли моё приглашение, госпожа Гань Юй. Путешественни(ца)(к) и Паймон, здорово, что вы тоже пришли.
+#### Поговорите с Хуэй Синь
+
+**Хуэй Синь:** Спасибо, что приняли моё приглашение, госпожа Гань Юй. Путешественник и Паймон, здорово, что вы тоже пришли. / Спасибо, что приняли моё приглашение, госпожа Гань Юй. Путешественница и Паймон, здорово, что вы тоже пришли.
 
 **Паймон:** Мелочи, мелочи!
 
@@ -1013,9 +1203,15 @@
 
 **Гань Юй:** Я не подведу вас. Я продолжу выполнять контракт и работать секретарём Цисин.
 
-- **Путешественник:** Ух... Я ведь столько раз тебе уже говорил(а)...
+##### Вариант ответа 1
+
+- **Путешественник:** Ух... Я ведь столько раз тебе уже говорил... / Ух... Я ведь столько раз тебе уже говорила...
+
+##### Вариант ответа 2
 
 - **Путешественник:** От тебя избавиться не пытались. Это просто недоразумение.
+
+##### Общее продолжение
 
 **Гань Юй:** В общем, я сейчас сама во всём разберусь.
 
@@ -1026,6 +1222,8 @@
 **Хуэй Синь:** Удачи, госпожа Гань Юй!
 
 **Паймон:** Что-о-о? Уже уходишь? Паймон ещё не поела!
+
+#### Поговорите с секретарями из Нефритового дворца
 
 #### Поговорите с секретарями из Нефритового дворца
 
@@ -1063,11 +1261,17 @@
 
 **Гань Юй:** Ах, да, вот ещё что...
 
-**Гань Юй:** Путешественни(ца)(к), я хочу от всего сердца поблагодарить тебя. Без тебя я бы так и не избавилась от душевных терзаний.
+**Гань Юй:** Путешественник, я хочу от всего сердца поблагодарить тебя. Без тебя я бы так и не избавилась от душевных терзаний. / Путешественница, я хочу от всего сердца поблагодарить тебя. Без тебя я бы так и не избавилась от душевных терзаний.
 
-- **Путешественник:** Я был(а) рад(а) пройти с тобой этот путь.
+##### Вариант ответа 1
+
+- **Путешественник:** Я был рад пройти с тобой этот путь. / Я была рада пройти с тобой этот путь.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Хорошо, что ты взяла себя в руки.
+
+##### Общее продолжение
 
 **Гань Юй:** Я на седьмом небе от счастья, что смогла подружиться с человеком вне работы.
 
@@ -1101,9 +1305,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Baiwen:** It has been several days since Ganyu left for Jueyun Karst. She's the General Secretary of the Liyue Qixing. We've only taken over her responsibilities until she gets back...
 
+##### Response branch 1
+
 - **Traveler:** What happened?
 
+##### Response branch 2
+
 - **Traveler:** Why did she go to Jueyun Karst?
+
+##### Shared continuation
 
 **Baixiao:** Ah, even though the Qixing have made peace with the adepti after the latter had denounced Liyue, they still want to pay their respects to the illuminated ones...
 
@@ -1127,7 +1337,11 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Baixiao:** We couldn't have imagined that Ms. Ganyu's daily workload far exceeds what the three of us are used to doing.
 
+##### Response branch 1
+
 - **Traveler:** The adeptus lineage is truly remarkable.
+
+##### Response branch 2
 
 - **Traveler:** Shouldn't you get back to work?
 
@@ -1135,21 +1349,31 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Paimon:** Looks like you've got a serious emergency on your hands.
 
+##### Shared continuation
+
 **Baiwen:** Speaking of Jueyun Karst, Traveler, I've heard that you can go in and out of there as you please.
 
 **Paimon:** Of course! We've been there lots of times.
 
 **Baixiao:** Ah, that's good news... Could you go to Jueyun Karst and find Ms. Ganyu for us? Preferably before we collapse under this workload...
 
+##### Response branch 1
+
 - **Traveler:** Seems like I'm the only one who can do it, indeed...
 
+##### Response branch 2
+
 - **Traveler:** I'll do it. Lives are at stake here.
+
+##### Shared continuation
 
 **Baixiao:** Phew... We're saved. I remember Ms. Ganyu said that she'd be visiting Cloud Retainer's abode. You might as well start looking for her there.
 
 **Baiwen:** It's about time she came back to work, otherwise... *sigh*
 
 **Baishi:** No. Perhaps we should go to Lady Ningguang first and bring up our overtime pay again.
+
+#### Head near Mt. Aocang to look for Ganyu
 
 #### Find and talk to Ganyu
 
@@ -1159,9 +1383,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Ganyu:** Ah, I shouldn't... I have left the human world. Please contact the Yuehai Pavilion regarding matters concerning the commercial port.
 
+##### Response branch 1
+
 - **Traveler:** Left the human world?
 
+##### Response branch 2
+
 - **Traveler:** You seem different...
+
+##### Shared continuation
 
 **Paimon:** Huh, you don't want to be the Qixing's secretary anymore? But they're all waiting for you to come back...
 
@@ -1179,9 +1409,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Ganyu:** Perhaps that mission of mine was just a pretext to remove me. Since the Qixing gave me a chance to leave with dignity, I decided to be tactful, as well.
 
+##### Response branch 1
+
 - **Traveler:** I believe there's been a huge misunderstanding.
 
+##### Response branch 2
+
 - **Traveler:** Nobody wants to get rid of you...
+
+##### Shared continuation
 
 **Ganyu:** I appreciate your kindness but there's no need for your words of comfort.
 
@@ -1199,9 +1435,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Cloud Retainer:** Come here to chat about the old times with Ganyu? It looks like you get along quite well...
 
+##### Response branch 1
+
 - **Traveler:** Chat about the old times?
 
+##### Response branch 2
+
 - **Traveler:** Get along?
+
+##### Shared continuation
 
 **Ganyu:** ...
 
@@ -1215,9 +1457,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Cloud Retainer:** Hahaha... Nothing to be ashamed of! You were so cute as a child, one is most certain that your friends would like to hear of it.
 
+##### Response branch 1
+
 - **Traveler:** I'm a bit curious, indeed...
 
+##### Response branch 2
+
 - **Traveler:** Now that's a good topic.
+
+##### Shared continuation
 
 **Paimon:** Ooh, Paimon wants to hear it!
 
@@ -1243,9 +1491,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Ganyu:** *sigh* Forget it. It's about time for my training. I will take my leave!
 
+##### Response branch 1
+
 - **Traveler:** I think you upset Ganyu...
 
+##### Response branch 2
+
 - **Traveler:** It seems you didn't read the room...
+
+##### Shared continuation
 
 **Cloud Retainer:** Ah, one's intention was merely to relieve the awkward tension...
 
@@ -1279,9 +1533,9 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Ganyu:** Why did you come here?
 
-- **Traveler:** We want to keep you company.
+##### Response branch 1
 
-- **Traveler:** I'd like to try this adeptus training.
+- **Traveler:** We want to keep you company.
 
 **Ganyu:** Ah, I... Humans should not remain in the realm of adepti for too long.
 
@@ -1289,7 +1543,13 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Paimon:** Yay~!
 
+##### Response branch 2
+
+- **Traveler:** I'd like to try this adeptus training.
+
 **Ganyu:** Is that so? You really are interested in the ways of adepti.
+
+##### Shared continuation
 
 **Ganyu:** This trial was prepared by Cloud Retainer. Its goal is to help me feel like an adeptus again.
 
@@ -1301,17 +1561,29 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Ganyu:** If you're ready, we shall begin the training.
 
+**Cloud Retainer:** This trial will test her spirit.
+
+**Cloud Retainer:** Even so, one hopes that it shall trouble her little...
+
+#### Complete Cloud Retainer's trial
+
 #### Talk to Ganyu
 
 **Ganyu:** We've completed the task. What do you think?
 
-- **Traveler:** Perhaps I'd make a good adeptus.
+##### Response branch 1
 
-- **Traveler:** Being an adeptus is not easy...
+- **Traveler:** Perhaps I'd make a good adeptus.
 
 **Ganyu:** I agree. You possess many qualities similar to those of adepti, despite having none of their blood.
 
+##### Response branch 2
+
+- **Traveler:** Being an adeptus is not easy...
+
 **Ganyu:** Hardships are a fact of life, both for the adepti and humans alike.
+
+##### Shared continuation
 
 **Paimon:** Ganyu, what were you planning to do once your training was over?
 
@@ -1319,9 +1591,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Paimon:** Huh? So there are more trials, prepared by other adepti?
 
+##### Response branch 1
+
 - **Traveler:** Is Mountain Shaper next?
 
+##### Response branch 2
+
 - **Traveler:** Is it Moon Carver?
+
+##### Shared continuation
 
 **Ganyu:** No. The only adeptus who can unlock my true potential is...
 
@@ -1331,9 +1609,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Paimon:** Huh! So it's Xiao! That cold-hearted loner? How come he's prepared a trial for you?
 
+##### Response branch 1
+
 - **Traveler:** What a surprise...
 
+##### Response branch 2
+
 - **Traveler:** How interesting...
+
+##### Shared continuation
 
 **Ganyu:** I found him unapproachable at first, too. But I believe... that being able to face him is an important part of my "homecoming."
 
@@ -1342,10 +1626,6 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 **Paimon:** Of course we are! Let's go, Traveler!
 
 #### Go to Nantianmen and speak with Xiao
-
-**Cloud Retainer:** This trial will test her spirit.
-
-**Cloud Retainer:** Even so, one hopes that it shall trouble her little...
 
 **Xiao:** You're half an hour late... I see you still haven't abandoned the wrongful ways of humankind.
 
@@ -1361,9 +1641,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Ganyu:** I... I have nothing to hide.
 
+##### Response branch 1
+
 - **Traveler:** It seems that Xiao understands Ganyu quite well.
 
+##### Response branch 2
+
 - **Traveler:** Xiao might be a good teacher after all.
+
+##### Shared continuation
 
 **Xiao:** The body and the mind are one. If something worries your mind, your body can help you find a solution.
 
@@ -1387,9 +1673,15 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Paimon:** Xiao always has such strong opinions.
 
+##### Response branch 1
+
 - **Traveler:** He could be nicer while sharing them.
 
+##### Response branch 2
+
 - **Traveler:** That lone wolf is truly admirable.
+
+##### Shared continuation
 
 **Xiao:** From tomorrow on, I'll start raising the difficulty of your training, so you'll have to...
 
@@ -1411,11 +1703,17 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Paimon:** Oh, so it's a pilgrim.
 
+##### Response branch 1
+
 - **Traveler:** Such a materialist...
+
+##### Response branch 2
 
 - **Traveler:** I can see why Xiao finds his type troublesome.
 
 **Paimon:** Eh, he can handle any battle, but talking to strange humans is a different story, huh...
+
+##### Shared continuation
 
 **Ganyu:** I... am also one of the adepti. You can say that I'm an adeptus in training.
 
@@ -1443,13 +1741,19 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Xin Cheng:** You sure you're not of those swindlers who pose as an adeptus to cheat people out of their money?
 
+##### Response branch 1
+
 - **Traveler:** He just can't take criticism.
+
+##### Response branch 2
 
 - **Traveler:** Show some respect!
 
 **Xin Cheng:** Ugh... How dare you reprove me! I bet you came here looking for the adepti yourself!
 
 **Paimon:** Hmm, he might sorta have a point. We did come here looking for Ganyu, after all.
+
+##### Shared continuation
 
 **Xin Cheng:** Eh, enough. Doesn't matter if you're a real adeptus or not, you're useless. I'm leaving.
 
@@ -1465,15 +1769,27 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 
 **Ganyu:** But being questioned by him made me realize that I...
 
+##### Response branch 1
+
 - **Traveler:** Go back to Liyue Harbor with us.
+
+##### Response branch 2
 
 - **Traveler:** You're better off sticking to your human side.
 
+##### Shared continuation
+
 **Ganyu:** But... I'm unwelcome in Liyue Harbor. As an adeptus, I...
+
+##### Response branch 1
 
 - **Traveler:** We told you it was a misunderstanding!
 
+##### Response branch 2
+
 - **Traveler:** Can you believe a human like me just this once?
+
+##### Shared continuation
 
 **Paimon:** It's true! Just believe us!
 
@@ -1488,6 +1804,8 @@ The three secretaries who originally worked at the Jade Chamber have appeared at
 ### A Secretary in a Sea of Humanity
 
 Caught between the world of humans and adepti, Ganyu has descended into a funk. After she hits a snag in her plan to return to Jueyun Karst, you follow Ganyu back to Liyue Harbor, intending to resolve her misunderstanding that she has been dismissed from her post...
+
+#### Accompany Ganyu to return to Liyue Harbor
 
 #### Talk to Ganyu
 
@@ -1506,6 +1824,8 @@ Caught between the world of humans and adepti, Ganyu has descended into a funk. 
 **Ganyu:** Let's go for a walk in the port.
 
 **Paimon:** Happy to come with!
+
+#### Stroll around Liyue Harbor's wharf
 
 #### Stroll around Liyue Harbor's wharf
 
@@ -1529,11 +1849,17 @@ Caught between the world of humans and adepti, Ganyu has descended into a funk. 
 
 **Paimon:** "Lady Ganyu"? Why are you calling her that?
 
+##### Response branch 1
+
 - **Traveler:** It's a bit awkward.
+
+##### Response branch 2
 
 - **Traveler:** Little Miss Ganyu!
 
 **Ganyu:** Ah... Please don't also start calling me that...
+
+##### Shared continuation
 
 **Ganyu:** Ahem... Allow me to introduce Uncle Tian, he is...
 
@@ -1553,9 +1879,15 @@ Caught between the world of humans and adepti, Ganyu has descended into a funk. 
 
 **Ganyu:** Uncle Tian is too modest. He's been around for a long time. There's no one who can replace a person of such noble character.
 
+##### Response branch 1
+
 - **Traveler:** Don't judge a book by its cover, they say...
 
+##### Response branch 2
+
 - **Traveler:** I'm trying to remember if I've ever messed with him...
+
+##### Shared continuation
 
 **Uncle Tian:** Hahahaha... Ah, what an honor to receive such high praise from Lady Ganyu herself! I guess I must have done something right over the last... however many decades.
 
@@ -1581,9 +1913,15 @@ Caught between the world of humans and adepti, Ganyu has descended into a funk. 
 
 **Paimon:** (She's back in character, just like that, huh...)
 
+##### Response branch 1
+
 - **Traveler:** As expected of a Qixing member, he's actually helping Ganyu.
 
+##### Response branch 2
+
 - **Traveler:** I'm afraid Ganyu didn't even notice.
+
+##### Shared continuation
 
 **Paimon:** Let's move then! To Yuehai Pavilion!
 
@@ -1619,7 +1957,7 @@ Caught between the world of humans and adepti, Ganyu has descended into a funk. 
 
 **Ganyu:** Naturally. I've dealt with similar issues hundreds of times. Give me a moment to consider the best approach in this scenario...
 
-That's a thousand years of work experience for you...
+- **Traveler:** That's a thousand years of work experience for you...
 
 **Ganyu:** Alright... Let's approach it this way, then: "Your enemy knows you best."
 
@@ -1631,17 +1969,25 @@ That's a thousand years of work experience for you...
 
 **Huixin:** In that case... Ah, I know what you mean, Ms. Ganyu!
 
-- **Traveler:** I still don't get it.
+##### Response branch 1
 
-- **Traveler:** You want them to expose each other?
+- **Traveler:** I still don't get it.
 
 **Huixin:** Ms. Ganyu plans to let them expose each other.
 
+##### Response branch 2
+
+- **Traveler:** You want them to expose each other?
+
 **Ganyu:** Exactly.
+
+##### Shared continuation
 
 **Ganyu:** Let's start with Wanyou Boutique. The owner's name is... Bolai, isn't it?
 
 **Huixin:** Yes, you're right. Follow me, please!
+
+**Uncle Tian:** Eh, don't think too much about it. My daughter really needs Ganyu's help, and there's nothing more to it, hehe...
 
 #### Go to the Wanyou Boutique and talk to Bolai
 
@@ -1673,9 +2019,15 @@ That's a thousand years of work experience for you...
 
 **Bolai:** I'd rather lose money myself than see that rascal make some!
 
+##### Response branch 1
+
 - **Traveler:** Is that how competitors behave?
 
+##### Response branch 2
+
 - **Traveler:** That's real petty!
+
+##### Shared continuation
 
 **Ganyu:** Well then, please look over this tax record. We'll review Second Life's credit based on your observations.
 
@@ -1763,15 +2115,21 @@ That's a thousand years of work experience for you...
 
 **Paimon:** Oh! Paimon sees them, too. It's one of the Fatui!
 
+##### Response branch 1
+
 - **Traveler:** What are they doing here?
 
+##### Response branch 2
+
 - **Traveler:** What is he trying to do?
+
+##### Shared continuation
 
 **Ganyu:** They must be plotting something against Liyue Harbor.
 
 **Paimon:** Maybe they're the scoundrels who invaded Master Lu's warehouse.
 
-Shouldn't we observe him for a while first?
+- **Traveler:** Shouldn't we observe him for a while first?
 
 **Ganyu:** Ever since Osial attacked the harbor, the Fatui's reputation in Liyue has reached rock bottom.
 
@@ -1782,6 +2140,10 @@ Shouldn't we observe him for a while first?
 **Ganyu:** ...My intuition as the secretary of the Qixing.
 
 **Paimon:** Then what are we waiting for? Let's go teach him a lesson!
+
+#### Defeat the suspicious Fatui underling
+
+**Master Lu:** Don't forget to drive those hooligans away. It'll save me the trouble of asking for the Millelith's help, too...
 
 #### Talk to the suspicious Fatui underling
 
@@ -1797,9 +2159,15 @@ Shouldn't we observe him for a while first?
 
 **Ganyu:** We'll be forced to use harsher methods.
 
+##### Response branch 1
+
 - **Traveler:** I think we were harsh enough.
 
+##### Response branch 2
+
 - **Traveler:** Quick, tell us everything!
+
+##### Shared continuation
 
 **Fatui Skirmisher:** I'm telling the truth. There's no scheme.
 
@@ -1829,9 +2197,15 @@ Shouldn't we observe him for a while first?
 
 **Paimon:** So it wasn't the Fatui who took over Master Lu's warehouse, after all...
 
+##### Response branch 1
+
 - **Traveler:** We might have blamed him for nothing.
 
+##### Response branch 2
+
 - **Traveler:** So that's it?
+
+##### Shared continuation
 
 **Ganyu:** I also feel... that he's telling the truth.
 
@@ -1855,9 +2229,15 @@ Shouldn't we observe him for a while first?
 
 **Fatui Skirmisher:** ...I'll get back to my Berries.
 
+##### Response branch 1
+
 - **Traveler:** Good choice.
 
+##### Response branch 2
+
 - **Traveler:** The Fatui get what they deserve!
+
+##### Shared continuation
 
 **Paimon:** What a bittersweet ending!
 
@@ -1869,11 +2249,7 @@ Shouldn't we observe him for a while first?
 
 #### Clear the warehouse of its occupants
 
-**Uncle Tian:** Eh, don't think too much about it. My daughter really needs Ganyu's help, and there's nothing more to it, hehe...
-
 #### Look for the invoice from Second Life
-
-**Master Lu:** Don't forget to drive those hooligans away. It'll save me the trouble of asking for the Millelith's help, too...
 
 #### Return to Yuehai Pavilion and speak to Huixin
 
@@ -1891,7 +2267,7 @@ Shouldn't we observe him for a while first?
 
 #### Talk to Dongsheng at Second Life
 
-So, about those tax records...
+- **Traveler:** So, about those tax records...
 
 **Dongsheng:** Isn't it... Huixin from the Yuehai Pavilion? I remember you.
 
@@ -1905,9 +2281,15 @@ So, about those tax records...
 
 **Dongsheng:** Ah... No, no, I'm an honest merchant. I would never get involved with any fraudulent sources of profit.
 
+##### Response branch 1
+
 - **Traveler:** You've got no shame.
 
+##### Response branch 2
+
 - **Traveler:** Not so confident now, are you?
+
+##### Shared continuation
 
 **Ganyu:** Haven't I made myself clear? Mr. Dongsheng, you've already been proven guilty of tax evasion. I just came here to see if you'd confess.
 
@@ -1973,11 +2355,17 @@ So, about those tax records...
 
 **Paimon:** Alright! Come on, Ganyu, just say yes! Let's eat!
 
+##### Response branch 1
+
 - **Traveler:** Paimon, don't forget your manners.
+
+**Paimon:** Oh, come on, it's just a meal!
+
+##### Response branch 2
 
 - **Traveler:** Let's wait for Ganyu's decision.
 
-**Paimon:** Oh, come on, it's just a meal!
+##### Shared continuation
 
 **Ganyu:** If it's just a meal... there's no reason for me to decline. It'll be my pleasure, Huixin.
 
@@ -1990,6 +2378,10 @@ So, about those tax records...
 ### A Pact That Crosses Time
 
 Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips into her work mode, coming to the aid of her junior colleague Huixin with ease in the latter's time of need. To express her thanks, Huixin invites you all to Xinyue Kiosk to have a meal...
+
+#### Go to Xinyue Kiosk for the meal appointment
+
+#### Talk to Huixin
 
 #### Talk to Huixin
 
@@ -2071,9 +2463,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **Ganyu:** I won't let you down. I'm going to fulfill my contract and keep working as the Qixing's secretary.
 
+##### Response branch 1
+
 - **Traveler:** Uh... I told you, you haven't been...
 
+##### Response branch 2
+
 - **Traveler:** You haven't been fired. It's a misunderstanding.
+
+##### Shared continuation
 
 **Ganyu:** Regardless, I'll go back and see for myself.
 
@@ -2084,6 +2482,8 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 **Huixin:** Good luck, Ms. Ganyu!
 
 **Paimon:** Huuuuh!? We leaving already? Paimon's still hungry!
+
+#### Talk to the Jade Chamber secretaries
 
 #### Talk to the Jade Chamber secretaries
 
@@ -2123,9 +2523,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **Ganyu:** I'd like to earnestly thank you, Traveler. If it weren't for your companionship, I would still be embroiled in my inner conflict right now.
 
+##### Response branch 1
+
 - **Traveler:** It was a fun adventure for me, too.
 
+##### Response branch 2
+
 - **Traveler:** It's good that you've pulled yourself together.
+
+##### Shared continuation
 
 **Ganyu:** Hehe, to think that I'd gain a human friend outside of work. It makes me happier than I could've imagined.
 
@@ -2159,9 +2565,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **百闻:** 自从她前往绝云间之后，已经有很多天没回来了。她是辅助「璃月七星」这个整体的秘书，我们正在替她打理工作…
 
+##### 对话分支 1
+
 - **旅行者:** 发生什么事了？
 
+##### 对话分支 2
+
 - **旅行者:** 她为什么会去绝云间？
+
+##### 共同后续
 
 **百晓:** 唔，之前众仙来璃月问罪，虽说事情已经谈和，但「七星」还是希望能展现对仙人们敬重的一面…
 
@@ -2185,7 +2597,11 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **百晓:** 嗯，可想不到，原来甘雨小姐一个人的日常工作，就远远超过我们三人可以处理的范畴了…
 
+##### 对话分支 1
+
 - **旅行者:** 仙人的血脉果然非同一般…
+
+##### 对话分支 2
 
 - **旅行者:** 要不你们再多加加班？
 
@@ -2193,21 +2609,31 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 那还真是，不得了，很紧急的情况了。
 
+##### 共同后续
+
 **百闻:** 说到这，听说旅行者您也可以自由出入绝云间？
 
 **派蒙:** 当然，我们去过很多次啦。
 
 **百晓:** 果然，太好了…请问您能不能代我们去绝云间找找甘雨小姐呢？在我们倒在工作岗位上之前…
 
+##### 对话分支 1
+
 - **旅行者:** 好像确实只有我才行…
 
+##### 对话分支 2
+
 - **旅行者:** 人命关天，好吧。
+
+##### 共同后续
 
 **百晓:** 呼…得救了。还记得甘雨小姐说过准备先去留云借风真君那里，不妨您先去那边找找。
 
 **百闻:** 时间也差不多了，再不回去继续工作的话…
 
 **百识:** 不，又或者，是不是应该先去跟凝光大人再提一提加班补贴的事…
+
+#### 前往奥藏山附近，寻找甘雨
 
 #### 找到甘雨并与她对话
 
@@ -2217,9 +2643,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 啊…不对，如今我已脱离尘世，如果是商港事务的话，还请到月海亭去咨询。
 
+##### 对话分支 1
+
 - **旅行者:** 脱离尘世？
 
+##### 对话分支 2
+
 - **旅行者:** 感觉气场和以前不一样…
+
+##### 共同后续
 
 **派蒙:** 欸，甘雨小姐难道不做「七星」的秘书了吗？他们都还在等你回去呢…
 
@@ -2237,9 +2669,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 想必这次送信的工作，也只是将我支开的借口吧？既然「七星」给了我体面退场的机会，我也自然应该识趣…
 
+##### 对话分支 1
+
 - **旅行者:** 我感觉…有很大的误解。
 
+##### 对话分支 2
+
 - **旅行者:** 没有人打算排挤你…
+
+##### 共同后续
 
 **甘雨:** 二位的好意，甘雨心领，不过无需再讲这些安慰我的话了。
 
@@ -2257,9 +2695,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **留云借风真君:** 如何，你们是专程来找甘雨叙旧的吧？看你们相谈甚欢…
 
+##### 对话分支 1
+
 - **旅行者:** 叙旧？
 
+##### 对话分支 2
+
 - **旅行者:** 相谈甚欢？
+
+##### 共同后续
 
 **甘雨:** ……
 
@@ -2273,9 +2717,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **留云借风真君:** 哈哈哈…这有什么，你小时候那么可爱，你的朋友们也肯定很想知道吧？
 
+##### 对话分支 1
+
 - **旅行者:** 确实…有点兴趣…
 
+##### 对话分支 2
+
 - **旅行者:** 很不错的话题。
+
+##### 共同后续
 
 **派蒙:** 想听想听！
 
@@ -2301,9 +2751,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** …呼，算了，差不多到了「修行」的时间了，我先走了。
 
+##### 对话分支 1
+
 - **旅行者:** 甘雨好像有点生气…
 
+##### 对话分支 2
+
 - **旅行者:** 您讲话好像有点不看气氛…
+
+##### 共同后续
 
 **留云借风真君:** 唔，我只是想缓解一下你们之前的尴尬而已…
 
@@ -2337,9 +2793,9 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 二位为什么跟到这里来了？
 
-- **旅行者:** 想来陪陪你。
+##### 对话分支 1
 
-- **旅行者:** 想体验一下仙人的修行。
+- **旅行者:** 想来陪陪你。
 
 **甘雨:** 啊，我…仙家境地，凡人本就不该久留。
 
@@ -2347,7 +2803,13 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 欸~！
 
+##### 对话分支 2
+
+- **旅行者:** 想体验一下仙人的修行。
+
 **甘雨:** 原来如此，你们对仙家修行感兴趣啊…
+
+##### 共同后续
 
 **甘雨:** 我现在要做的修行是留云真君为我安排的，旨在帮我找回一些作为仙人的感觉。
 
@@ -2359,17 +2821,29 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 做好准备的话，就开始吧？
 
+**留云借风真君:** 这一劫，是内心的劫啊。
+
+**留云借风真君:** 但愿甘雨可以平安度过…
+
+#### 完成留云借风真君的修炼内容
+
 #### 与甘雨对话
 
 **甘雨:** 顺利完成了呢，感觉如何？
 
-- **旅行者:** 我可能很适合当仙人。
+##### 对话分支 1
 
-- **旅行者:** 当仙人真是辛苦…
+- **旅行者:** 我可能很适合当仙人。
 
 **甘雨:** 没错，虽然没有仙人的血脉，但你好像具备了许多仙人的资质呢。
 
+##### 对话分支 2
+
+- **旅行者:** 当仙人真是辛苦…
+
 **甘雨:** 辛苦吗…不仅仙人如此，世间众生也是如此吧。
+
+##### 共同后续
 
 **派蒙:** 做完修行以后，甘雨还有什么打算呢？
 
@@ -2377,9 +2851,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 欸！那也就是说，还有其他仙人安排的修行？
 
+##### 对话分支 1
+
 - **旅行者:** 是理水叠山真君的？
 
+##### 对话分支 2
+
 - **旅行者:** 是削月筑阳真君的？
+
+##### 共同后续
 
 **甘雨:** 不是的，想要激发我全部的潜能…就只能找那位仙人了…
 
@@ -2389,9 +2869,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 欸！原来是魈吗！那个冷冰冰的特立独行的家伙，居然会给你安排修行？
 
+##### 对话分支 1
+
 - **旅行者:** 令人惊讶…
 
+##### 对话分支 2
+
 - **旅行者:** 令人很感兴趣…
+
+##### 共同后续
 
 **甘雨:** 一开始，我也觉得他很难以接近。但我想…能够面对他，也是「归隐」重要的一环。
 
@@ -2400,10 +2886,6 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 **派蒙:** 当然有兴趣！旅行者我们也去吧？
 
 #### 前往南天门附近，与魈对话
-
-**留云借风真君:** 这一劫，是内心的劫啊。
-
-**留云借风真君:** 但愿甘雨可以平安度过…
 
 **魈:** 迟了四分之一个时辰…你还是甩不开那些人类的陋习。
 
@@ -2419,9 +2901,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 我…没有遮掩什么。
 
+##### 对话分支 1
+
 - **旅行者:** 其实魈…好像很理解甘雨。
 
+##### 对话分支 2
+
 - **旅行者:** 其实魈…可能是个好老师。
+
+##### 共同后续
 
 **魈:** 躯壳与神魂是统一的，神魂如果遇上困境，从躯壳寻求突破也是一种选择。
 
@@ -2445,9 +2933,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 魈总是有一套自己的见解呢…
 
+##### 对话分支 1
+
 - **旅行者:** 要是委婉点就更好了。
 
+##### 对话分支 2
+
 - **旅行者:** 令人敬佩的特立独行。
+
+##### 共同后续
 
 **魈:** 明日我会继续提高修炼的难度，你要…
 
@@ -2469,11 +2963,17 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 原来是访仙者呀…
 
+##### 对话分支 1
+
 - **旅行者:** 好功利…
+
+##### 对话分支 2
 
 - **旅行者:** 确实是魈不擅长应付的类型…
 
 **派蒙:** 嗯，降妖除魔他在行，对付奇奇怪怪的人类，就…
+
+##### 共同后续
 
 **甘雨:** 我…应该也算仙人吧，也可以说是还在修行中的仙人。
 
@@ -2501,13 +3001,19 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **辛程:** 该不会是那种冒充仙人传道，其实是想骗钱的骗术吧？
 
+##### 对话分支 1
+
 - **旅行者:** 居然还倒打一耙…
+
+##### 对话分支 2
 
 - **旅行者:** 请你态度尊重一点！
 
 **辛程:** 唔…你突然凶我干什么，你不也是来访仙的？
 
 **派蒙:** 这么说来，毕竟也是找甘雨有所求，不能说不算…
+
+##### 共同后续
 
 **辛程:** 唉，算了，不管仙人是真是假，看起来都没什么用了。下山吧下山吧。
 
@@ -2523,15 +3029,27 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 可被他质疑了以后，我果然还是…
 
+##### 对话分支 1
+
 - **旅行者:** 那就回到璃月港吧。
+
+##### 对话分支 2
 
 - **旅行者:** 还是人类的一面更适合你。
 
+##### 共同后续
+
 **甘雨:** 可是…璃月港已经不欢迎我了，作为仙人，我…
+
+##### 对话分支 1
 
 - **旅行者:** 都说了是误会！
 
+##### 对话分支 2
+
 - **旅行者:** 相信作为人类的我一次？
+
+##### 共同后续
 
 **派蒙:** 是呀！就相信旅行者吧！
 
@@ -2546,6 +3064,8 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 ### 人之海的秘书
 
 内心徘徊于人类与仙人的夹缝间，甘雨陷入了精神上的困境。在回归绝云间的计划受挫后，你陪同甘雨回到了璃月港，试图解除甘雨自认为被排挤的误会…
+
+#### 陪同甘雨回到璃月港
 
 #### 与甘雨对话
 
@@ -2564,6 +3084,8 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 **甘雨:** 那我们先去港口转转吧。
 
 **派蒙:** 乐意奉陪！
+
+#### 到璃月港码头附近逛逛
 
 #### 到璃月港码头附近逛逛
 
@@ -2587,11 +3109,17 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 这、这位大爷在叫「甘雨姐姐」！
 
+##### 对话分支 1
+
 - **旅行者:** 感觉好别扭…
+
+##### 对话分支 2
 
 - **旅行者:** 甘雨姐姐！
 
 **甘雨:** 啊…请不要借机…
+
+##### 共同后续
 
 **甘雨:** 咳咳…还没有向二位介绍，这位是天叔，身份是…
 
@@ -2611,9 +3139,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 天叔是在自谦了。他虽然年事已高，但由于德高望重，一直没有别人能替代他的位置。
 
+##### 对话分支 1
+
 - **旅行者:** 人不可貌相…
 
+##### 对话分支 2
+
 - **旅行者:** 赶紧回忆一下有没有惹过他…
+
+##### 共同后续
 
 **天叔:** 哈哈哈哈…能被甘雨姐姐这么说，几十年的工作就算没有白费了。
 
@@ -2639,9 +3173,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** （很自然地又进入角色了欸…）
 
+##### 对话分支 1
+
 - **旅行者:** 不愧是七星，其实是在帮甘雨…
 
+##### 对话分支 2
+
 - **旅行者:** 甘雨恐怕自己都没留意…
+
+##### 共同后续
 
 **派蒙:** 那就出发！去月海亭！
 
@@ -2677,7 +3217,7 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 自然有，类似的事件我处理过成百上千次，让我想想这次该用什么方法…
 
-这就是千年级的工作经验吗…
+- **旅行者:** 这就是千年级的工作经验吗…
 
 **甘雨:** 嗯…这次就选用这种方法吧——「最了解一个人的，往往是他的敌人。」
 
@@ -2689,17 +3229,25 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **慧心:** 既然如此…啊，我明白你的意思了，甘雨前辈！
 
-- **旅行者:** 我还没明白…
+##### 对话分支 1
 
-- **旅行者:** 是要让他们相互揭发？
+- **旅行者:** 我还没明白…
 
 **慧心:** 甘雨前辈的意思，是要让他们相互揭发。
 
+##### 对话分支 2
+
+- **旅行者:** 是要让他们相互揭发？
+
 **甘雨:** 没错。
+
+##### 共同后续
 
 **甘雨:** 我们先去「万有铺子」吧，记得老板叫…博来，对吧？
 
 **慧心:** 嗯，是的，请跟我来！
+
+**天叔:** 欸，不必多说。我女儿那边也确实需要甘雨帮忙，没有什么别的意思，呵呵…
 
 #### 前往「万有铺子」，与博来对话
 
@@ -2731,9 +3279,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **博来:** 看到那小子挣钱，比我自己亏钱还难受！
 
+##### 对话分支 1
+
 - **旅行者:** 这就是「竞争关系」吗？
 
+##### 对话分支 2
+
 - **旅行者:** 你也太小心眼了吧！
+
+##### 共同后续
 
 **甘雨:** 那么，这份税单请过目吧，根据你反映的情况，我们会对「荣发商铺」的信用重新进行评估。
 
@@ -2821,15 +3375,21 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 哦！看穿着…是愚人众！
 
+##### 对话分支 1
+
 - **旅行者:** 居然会在这里…
 
+##### 对话分支 2
+
 - **旅行者:** 看不出他想干什么…
+
+##### 共同后续
 
 **甘雨:** 一定是在谋划什么对璃月港不利的事情…
 
 **派蒙:** 说不定占据了路爷仓库的坏蛋，就是他们！
 
-可是…真的不先观察一下吗？
+- **旅行者:** 可是…真的不先观察一下吗？
 
 **甘雨:** 自上次魔神进攻港口的事件发生之后，愚人众的风评已在璃月降至低谷。
 
@@ -2840,6 +3400,10 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 **甘雨:** …作为「七星秘书」的直觉。
 
 **派蒙:** 既然如此，那还等什么？我们去揍他一顿吧！
+
+#### 击败可疑的愚人众手下
+
+**路爷:** 记得把那些家伙赶走，正好省得我去找千岩军了…
 
 #### 与可疑的愚人众手下对话
 
@@ -2855,9 +3419,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 那么我将不惜采用一些不那么客气的办法…
 
+##### 对话分支 1
+
 - **旅行者:** 其实已经很不客气了…
 
+##### 对话分支 2
+
 - **旅行者:** 快老实交代！
+
+##### 共同后续
 
 **愚人众先遣队:** 真的…没打算做什么…
 
@@ -2887,9 +3457,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 难道说占据了路爷家仓库的家伙，并不是愚人众…
 
+##### 对话分支 1
+
 - **旅行者:** 我们可能真的错怪他了。
 
+##### 对话分支 2
+
 - **旅行者:** 就这样吗？
+
+##### 共同后续
 
 **甘雨:** 我也感觉…他说的是真的了。
 
@@ -2913,9 +3489,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **愚人众先遣队:** …我去继续摘树莓了。
 
+##### 对话分支 1
+
 - **旅行者:** 不错的选择。
 
+##### 对话分支 2
+
 - **旅行者:** 愚人众也有今天！
+
+##### 共同后续
 
 **派蒙:** 虽然很可怜，但是很痛快！
 
@@ -2927,11 +3509,7 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 #### 清理占据仓库的敌人
 
-**天叔:** 欸，不必多说。我女儿那边也确实需要甘雨帮忙，没有什么别的意思，呵呵…
-
 #### 寻找与「荣发商铺」交易的收据
-
-**路爷:** 记得把那些家伙赶走，正好省得我去找千岩军了…
 
 #### 回到月海亭，与慧心对话
 
@@ -2949,7 +3527,7 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 #### 前往「荣发商铺」，与东升对话
 
-关于税单…
+- **旅行者:** 关于税单…
 
 **东升:** 这不是…月海亭的慧心吗，我记得你。
 
@@ -2963,9 +3541,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **东升:** 啊…没、没有，不会的，我光明正大地做生意，从来不贪图什么乱七八糟的蝇头小利。
 
+##### 对话分支 1
+
 - **旅行者:** 真是大言不惭…
 
+##### 对话分支 2
+
 - **旅行者:** 之前的自信好像少了很多。
+
+##### 共同后续
 
 **甘雨:** 难道是我解释得不够清楚？东升先生，您漏税的事实已经确凿，我们只是来看看您的态度而已。
 
@@ -3031,11 +3615,17 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **派蒙:** 好欸！快答应吧，甘雨小姐！吃饭吃饭！
 
+##### 对话分支 1
+
 - **旅行者:** 派蒙你这样很不礼貌…
+
+**派蒙:** 欸，一顿饭而已嘛！
+
+##### 对话分支 2
 
 - **旅行者:** 还是要看甘雨小姐的意思。
 
-**派蒙:** 欸，一顿饭而已嘛！
+##### 共同后续
 
 **甘雨:** 只是一顿饭的话…我好像也没理由好推辞了，那就听你的安排吧，慧心。
 
@@ -3048,6 +3638,10 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 ### 跨越时间的托付
 
 受到身为「天枢星」的天叔委托，甘雨很自然地进入了工作状态，顺利帮助了后辈慧心解决了工作上的困扰。为了表示感谢，慧心邀请你们来到新月轩参加饭局…
+
+#### 前往新月轩赴宴
+
+#### 与慧心对话
 
 #### 与慧心对话
 
@@ -3129,9 +3723,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 为了不辜负你对我的托付，我也还想继续履行「契约」，继续作为「七星」的秘书。
 
+##### 对话分支 1
+
 - **旅行者:** 唉…我从一开始就说过…
 
+##### 对话分支 2
+
 - **旅行者:** 你被排挤的事是场误会。
+
+##### 共同后续
 
 **甘雨:** 总之，我现在要回去看看。
 
@@ -3142,6 +3742,8 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 **慧心:** 请加油！甘雨前辈！
 
 **派蒙:** 欸欸！就这样要走了吗，我还没吃饱呢！
+
+#### 与「群玉阁」的秘书们对话
 
 #### 与「群玉阁」的秘书们对话
 
@@ -3181,9 +3783,15 @@ Accepting the commission of the Tianshu, Uncle Tian, Ganyu very naturally slips 
 
 **甘雨:** 旅行者，我要郑重向你道谢，多亏了你这段时间的陪伴…不然我可能还陷在内心的困境里。
 
+##### 对话分支 1
+
 - **旅行者:** 这一路上我也很开心。
 
+##### 对话分支 2
+
 - **旅行者:** 甘雨能振作就好。
+
+##### 共同后续
 
 **甘雨:** 呵呵，在工作之外，能拥有一位人类朋友的感觉，真是超乎预想的开心呢。
 

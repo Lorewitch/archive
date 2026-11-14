@@ -276,3 +276,926 @@ Ningguang, for her part, seemed annoyed instead.
 近侍推门进来，看见凝光手中觉醒的「神之眼」，连忙高声恭贺主人喜得至宝。
 凝光却满脸不悦，没好气地说：
 「有什么好恭喜的？都已经拆封了，这还卖得出去吗？！」
+
+# voice_source_ids: 15100,15101,15102,15103,15104,15105,15106,15107,15108,15109,15110,15111,15112,15113,15114,15115,15116,15117,15118,15119,15120,15121,15122,15123,15124,15125,15126,15127,15128,15129,15130,15131,15132,15133,15134,15135,15136,15137,15138,15139,15140,15141,15142,15143,15144,15145,15146,15147,15148,15149,15150,15151,15152,15153,15154,15155,15156,15157,15158,15159,15160,15161,15162,15163,15164,15165,15166,15167,15168,15169,15170,15171,15172,15173,15174,15175
+
+## REPLICAS_RU
+
+### Привет...
+
+Я госпожа Нин Гуан, Воля Небес группировки Цисин. Хочешь торговать? Будь моим телохранителем, а я покажу тебе, как превзойти всех в Ли Юэ.
+
+### Поболтаем: Антиквариат
+
+Хотя предметы старины и бесценны, они дарят радость только в момент приобретения.
+
+### Поболтаем: Торговая война
+
+В торговых войнах идеальный охотник не оставляет улик.
+
+### Поболтаем: Вложения
+
+Нам следует найти новый объект для инвестиций. В конце концов моры много не бывает.
+
+### Когда идёт дождь...
+
+Дождь начался. Будь добр, подержи мне зонт. / Дождь начался. Будь добра, подержи мне зонт.
+
+### Когда идёт снег...
+
+Обыкновенный снег. Когда-нибудь я возьму тебя с собой посмотреть на настоящий снегопад.
+
+### Когда светит солнце...
+
+Штиль? Не верь глазам своим. Им свойственно лгать.
+
+### Когда дует сильный ветер...
+
+Такой ветер - беда для рыболовов и для... А, неважно.
+
+### Доброе утро...
+
+Доброе утро. Доложи о делах в порядке важности.
+
+### Добрый день...
+
+Где ты предпочитаешь отобедать: «Глазурный павильон» или шатёр «Синьюэ»?
+
+### Добрый вечер...
+
+В чайном домике нет мест? Тогда пойдём в Нефритовый дворец... Если ты можешь себе это позволить.
+
+### Спокойной ночи...
+
+Да, иди, отдохни. Если возникнет важное дело, я за тобой пошлю.
+
+### О Нин Гуан: Взгляд на мир
+
+Будь то переговоры о цене или полноценная торговая война, слава и деньги второстепенны. Чтобы добиться победы, нужно знать, какие карты у вашего оппонента на руках.
+
+### О Нин Гуан: Впечатление
+
+Ты считаешь, что моё отношение к тебе изменилось? Хм... Когда мы встретились, мне нужна была твоя помощь. Конечно, мне нужно было демонстрировать дружелюбие. Но теперь ты для меня - важный партнёр по контракту, и мне больше не нужно притворяться.
+
+### О нас: Слухи
+
+Я думаю, ты слышал немало слухов обо мне. Так кто же я, в конце концов? Решать только тебе. Естественно, твои умозаключения тоже станут частью слухов. / Я думаю, ты слышала немало слухов обо мне. Так кто же я, в конце концов? Решать только тебе. Естественно, твои умозаключения тоже станут частью слухов.
+
+### О нас: Наблюдения
+
+Ты уже давно путешествуешь со мной. Ты научился наблюдать? Тогда наблюдай за мной. Постарайся узнать мою душу. / Ты уже давно путешествуешь со мной. Ты научилась наблюдать? Тогда наблюдай за мной. Постарайся узнать мою душу.
+
+### О нас: Нефритовый дворец
+
+Выйди, встань наравне со мной. Ты видишь Нефритовый дворец? Сначала он был размером с комнату, а теперь заслоняет собой весь Ли Юэ. Когда он станет столь велик, что бросит тень на все семь королевств, ты точно так же встанешь со мной плечом к плечу.
+
+### Глаз Бога...
+
+Нет необходимости пользоваться Глазом Бога там, где всё можно решить морой. Что касается ситуаций, где мора не сможет помочь... Я сталкивалась только с одной.
+
+### Давай поделимся: Крупье
+
+Азартные игроки всегда ставят всё на последний бросок игральных костей... Но все ставки, конечно, отходят крупье, который ни разу в жизни не прикасался к костям.
+
+### Давай поделимся: Цель
+
+Властелин Камня покинул нас, и это стало испытанием что для Ли Юэ, что для Цисин. Я тоже давно не сталкивалась с такими масштабными трудностями. 
+Однако я не могу отказаться от своей цели. Однажды я сделаю так, что тень Нефритового дворца накроет все семь королевств...
+
+### Интересные вещи...
+
+В древней поэзии Ли Юэ часто воспевается красота глазурных лилий, но сейчас они на грани вымирания. Они сохранились только в садах террасы Юйцзин. Поскольку эти цветы весьма известны и крайне редко встречаются, стоят они недёшево.
+
+### О Бэй Доу: Штрафы
+
+Эта... Капитан. Она снискала уважение многих, но она же - первая, кто презирает правила. Она платит такие штрафы, каких хватило бы, чтобы купить новый корабль.
+
+### О Бэй Доу: Отношение
+
+Возможно, ты никогда не слышал, чтобы я так плохо говорила о ком-то. Все хорошие и плохие слова были сказаны, но она всё равно делает так, как ей заблагорассудится... Ладно, хватит. Просто сделай так, чтобы я не видела капитана Бэй Доу. / Возможно, ты никогда не слышала, чтобы я так плохо говорила о ком-то. Все хорошие и плохие слова были сказаны, но она всё равно делает так, как ей заблагорассудится... Ладно, хватит. Просто сделай так, чтобы я не видела капитана Бэй Доу.
+
+### О Чжун Ли...
+
+Чжун Ли... Тот господин из ритуального бюро «Ваншэн». Он хорошо разбирается в вещах, которых многие даже не знают. Но даже лучшие фигуры бесполезны для меня, пока я не узнаю их слабости.
+
+### О Син Цю...
+
+Второй наследник торговой гильдии «Фэйюнь». Люди такого склада характера терпеть меня не могут, но это естественно. У меня нет намерений вредить ему. Люди с разными убеждениями не способны плодотворно сотрудничать.
+
+### О Сян Лин...
+
+А, эта девочка из ресторана «Народный выбор»... Её недоверие ко мне всегда написано у неё на лице. Ха, интересно, какое бы у неё было выражение лица, узнай она, на какую сумму я оказала материальную помощь ресторану в этом году...
+
+### О Гань Юй...
+
+Даже Гань Юй не может полностью полагаться на кого-либо. В Ли Юэ говорят, «чтобы секрет перестал быть секретом, достаточно одного человека». В важных делах ты можешь положиться только на себя.
+
+### О Яо Яо...
+
+Я полагаю, ты имеешь в виду девушку, которую Гань Юй взяла под своё крыло. Не волнуйся, я не планирую делать этот вопрос публичным. Я даже рада проявить некоторую снисходительность к её хитрому маневрированию. Однако в последнее время Яо Яо, похоже, слишком увлеклась морепродуктами. Тебе следует убедить её включить в свой рацион больше овощей и фруктов.
+
+### О Кэ Цин...
+
+Нефритовое Равновесие... Она сильно изменилась в последнее время. Какое Нефритовое Равновесие нужно Ли Юэ - то, что было в прошлом, или то, что есть сейчас? Время покажет.
+
+### О Джинн...
+
+Действующий магистр в Мондштадте, должно быть, дама строгая и безупречная. Даже бумагу для писем она всегда аккуратно складывает согласно предписанным правилам. Именно такие незаметные мелочи позволяют познакомиться с истинными качествами человека.
+
+### О Янь Фэй...
+
+Янь Фэй? В некотором смысле она «лучший враг». Если бы не её «ловкие» толкования закона и различные «оригинальные» предложения для своих клиентов, у меня ушли бы месяцы на то, чтобы самостоятельно найти пробелы в кодексе и постепенно улучшить его.
+
+### О Шэнь Хэ...
+
+Как поживает госпожа Шэнь Хэ? Прошу, заботься о ней как следует. Я глубоко признательна тебе за помощь в восстановлении Нефритового дворца. А если отставить церемонии - то просто заходи, когда у тебя будет свободная минутка, тебя всегда будет ждать чашка великолепного чая.
+
+### О Юнь Цзинь...
+
+Юнь Цзинь... Ты можешь оценить её выступления? Поначалу это может быть трудно, но я советую всё же дать шанс. Причина, по которой я решила вложить деньги в её труппу, довольно проста: такое изящное искусство заслуживает того, чтобы передаваться из поколения в поколение.
+
+### О Е Лань...
+
+Очень интересная девушка. Могу сказать с уверенностью, что я безоговорочно доверяю ей. Она идеальна буквально во всём. Хе-хе, вы оба довольно умны, так что, надеюсь, вы поладите. / Очень интересная девушка. Могу сказать с уверенностью, что я безоговорочно доверяю ей. Она идеальна буквально во всём. Хе-хе, вы обе довольно умны, так что, надеюсь, вы поладите.
+
+### Узнать больше о Нин Гуан I
+
+Ты можешь позволить себе опустить некоторые формальности. Но я прошу тебя ценить моё время. Если нужно ко мне обратиться - говори кратко и по делу.
+
+### Узнать больше о Нин Гуан II
+
+Я считаю, что дети - самые чистые и наивные создания, поэтому сведения, предоставляемые ими, наиболее ценны. Так что насчёт тебя? Какие у тебя для меня сведения?
+
+### Узнать больше о Нин Гуан III
+
+Последнее время я размышляю над одним вопросом. Если бы я могла оставить тебя в Ли Юэ, возможно... Постепенно я смогла бы привести этот город... Ах, это только мысли вслух. Мне предстоит подумать, стоит ли того это вложение.
+
+### Узнать больше о Нин Гуан IV
+
+Ты можешь последовать моему примеру и использовать мору для получения выгоды. Но тебе следует помнить, что отношения, построенные на море, не могут длиться долго. Ха, да, именно поэтому я не прибегаю к использованию моры в наших с тобой отношениях.
+
+### Узнать больше о Нин Гуан V
+
+Неплохое капиталовложение. Конечно, накоплению моры оно не служит, но время, проведённое с тобой, само по себе есть прекрасная капиталоотдача. Думаю, я опять выиграла... Поставив на тебя.
+
+### Хобби Нин Гуан...
+
+Не хочешь попробовать сыграть в «Тысяча лет в Ли Юэ»? Я смогу оценить, насколько хорошо ты играешь в шахматы.
+
+### Беспокойство Нин Гуан...
+
+Что меня беспокоит?.. Думаешь, ты смог бы вынести то бремя, которое я возложу на тебя, поделившись своим беспокойством о группировке Цисин? К тому же если ты проговоришься по неосторожности... / Что меня беспокоит?.. Думаешь, ты смогла бы вынести то бремя, которое я возложу на тебя, поделившись своим беспокойством о группировке Цисин? К тому же если ты проговоришься по неосторожности...
+
+### Любимая еда...
+
+Бульон, сваренный на медленном огне из куриного мяса и свиных костей, заправленный листьями свежей молодой капусты. Я неприхотлива в еде. В простые дни такого рода блюд мне вполне хватает.
+
+### Нелюбимая еда...
+
+Я встречала людей, которые на каждом приёме требовали сервировать им золотистого краба. Это блюдо дорого выглядит, но я нахожу такое вульгарным. Если ты хочешь пригласить на подобный приём меня, лучше просто заплати мне морой.
+
+### День рождения...
+
+Дарю тебе эту парчу высшего качества из Ли Юэ, сплетённую из шелковиц. И ещё одну... Однажды ты сможешь подарить её своей сестре и, надеюсь, она ей понравится. Поздравляю вас обоих с днём рождения. / Дарю тебе эту парчу высшего качества из Ли Юэ, сплетённую из шелковиц. Сделай из неё одежду и хорошенько отпразднуй свой день рождения.
+
+### Чувство возвышения: Начало
+
+Решение проблем насилием - это наихудшее решение.
+
+### Чувство возвышения: Нарастание
+
+Делать своей силой время и мору... Интересно. Это лишний раз доказывает их ценность.
+
+### Чувство возвышения: Кульминация
+
+Что заставляет тебя не сдаваться? Нет, не говори мне. Дай мне больше времени, и я пойму сама.
+
+### Чувство возвышения: Окончание
+
+Обычно я не доверяю людям, но ты заслужил моё доверие. Хорошая работа. Нужно больше таких людей, как ты... А возможно, кроме тебя, никого не надо. / Обычно я не доверяю людям, но ты заслужила моё доверие. Хорошая работа. Нужно больше таких людей, как ты... А возможно, кроме тебя, никого не надо.
+
+### Элементальный навык I
+
+...Пустяки.
+
+### Элементальный навык II
+
+Не трать моё время.
+
+### Элементальный навык III
+
+Фи! Сдавайся!
+
+### Взрыв стихии I
+
+Твоя жизнь - моя!
+
+### Взрыв стихии II
+
+Сдайся!
+
+### Взрыв стихии III
+
+Счастливо!
+
+### Открытие сундука I
+
+Острый глаз.
+
+### Открытие сундука II
+
+Нельзя, чтобы сокровища пропали зря.
+
+### Открытие сундука III
+
+Богатство... Чем больше, тем лучше.
+
+### Низкий уровень HP I
+
+Ты смеешь бить меня?!
+
+### Низкий уровень HP II
+
+Я не забуду этого.
+
+### Низкий уровень HP III
+
+Ух!
+
+### Низкий уровень HP компаньона I
+
+У тебя нет шансов на победу.
+
+### Низкий уровень HP компаньона II
+
+В таком случае, я помогу тебе.
+
+### Без сознания I
+
+Мы всего лишь пешки...
+
+### Без сознания II
+
+Победитель определён...
+
+### Без сознания III
+
+Таков исход Воли Небес?
+
+### Получен лёгкий удар I
+
+Хм... грубо.
+
+### Получен тяжёлый удар I
+
+Ох! Ну, погоди!
+
+### Получен тяжёлый удар II
+
+Ох! Кровь за кровь!
+
+### Присоединяется к группе I
+
+Понятно.
+
+### Присоединяется к группе II
+
+Поспешим.
+
+### Присоединяется к группе III
+
+Не разочаруй меня.
+
+### Подарок I
+
+Неплохо. Ты снова превзошёл мои ожидания. / Неплохо. Ты снова превзошла мои ожидания.
+
+### Подарок II
+
+Иногда, если не понимаешь основы, то вся работа становится бесполезной... Понимаешь, о чём я?
+
+### Подарок III
+
+Я ценю твои намерения.
+
+### О Сянь Юнь...
+
+Я думаю пригласить Сянь Юнь на беседу за чашечкой чая. У меня оказалось несколько механических устройств, и мне было бы интересно узнать её мнение об их конструкции и применении. Я также хотела бы использовать эту возможность, чтобы расспросить её о том, как проходит жизнь Адепта в гавани Ли Юэ. Осталось лишь найти подходящего человека, чтобы доставить ей от меня приглашения. Возможно, тебя это заинтересует?
+
+### Об Адепте Белая Лошадь...
+
+Я была удивлена, когда в гавани Ли Юэ появился ещё один новый Адепт. Адепт Белая Лошадь... К счастью, она любит странствовать и редко бывает в Ли Юэ, иначе мне пришлось бы признать правдивость любимой шутки Е Лань об Адептах... Что за шутка? Цитирую: «Говорят, Адепты стремятся к миру и спокойствию, но я думаю, что им просто нравится разгуливать по Ли Юэ...»
+
+## REPLICAS_EN
+
+### Hello
+
+I am Ningguang, Tianquan of Qixing. You wish to trade? You be my personal bodyguard, and I will show you how to get ahead in Liyue.
+
+### Chat: Antiques
+
+Even if an antique is priceless, the happiness it brings lasts for only the moment that you obtain it.
+
+### Chat: Trade War
+
+In a trade war, the perfect hunter leaves no trace.
+
+### Chat: Investments
+
+We should look for a new investment. Mora doesn't grow on trees.
+
+### When It Rains
+
+Huh, it's raining. Fetch an umbrella for me, would you?
+
+### When It Snows
+
+Nothing more than regular snowfall. One day I'll take you to see the "snow" that falls over Liyue.
+
+### When the Sun Is Out
+
+Calm weather? Do not trust your eyes. Your eyes can lie to you.
+
+### When the Wind Is Blowing
+
+Gales like this can be the demise of fishermen, not to mention... Heh, never mind.
+
+### Good Morning
+
+Morning. Report your affairs, in order of priority.
+
+### Good Afternoon
+
+Liuli Pavilion or Xinyue Kiosk. Which would you prefer to go to for lunch?
+
+### Good Evening
+
+The tea house has no more rooms? Then come, sit in the Jade Chamber... if you can afford the price.
+
+### Good Night
+
+Sure. Go rest. If anything important comes up, I will be sure to send for you.
+
+### About Ningguang: Worldview
+
+Be it simple price negotiation or a full-blown trade war, momentum and bargaining chips are but minor factors. To win, you need to be first to find out what cards your opponent is holding.
+
+### About Ningguang: Impression
+
+Your impressions of me have changed? Haha, well, at first I required your strength, so naturally I had to be as cordial as possible. But now that we are partners bound by contract, we may do away with such pretentious formalities.
+
+### About Us: Rumors
+
+I suppose you've heard enough rumors about me. Hehe... What kind of person am I? I shall leave that for you to decide... Of course, your judgment will become a part of the rumor.
+
+### About Us: Observing
+
+You've been with me for some time now. Have you learned to observe? Then observe me. Observe me right down to my very core.
+
+### About Us: Jade Chamber
+
+Come forward, stand beside me. Do you see the Jade Chamber? At first it was just a room, and now it clouds Liyue. When the time comes that it hangs above all of the seven nations, you shall stand by my side on that day too.
+
+### About the Vision
+
+There's no need to use a Vision in affairs that Mora can solve. As far as affairs only a Vision can solve go, I know of only one...
+
+### Something to Share: Banker
+
+Gamblers always place their bets on the next dice roll... But the bankers always have the last laugh, and they never touch a single die.
+
+### Something to Share: Goal
+
+The departure of Rex Lapis will be no small test for both the Qixing and the city of Liyue. Seldom has any matter kept me tossing and turning at night like recent events.
+Nevertheless, I shall not lose sight of my goal. There will come a day when the shadow cast by the Jade Chamber reaches every end of Teyvat.
+
+### Interesting Things
+
+In Liyue's ancient texts, there's no shortage of mentioning the beauty of the glaze lily, but in the modern era, the flower is on the brink of extinction. Now they can only be found in Yujing Terrace, and as such come with a hefty price tag.
+
+### About Beidou: Fines
+
+That... captain. She clearly receives the adoration of many, but will always be the first to disregard the rules. The fines she has paid would be enough to buy her a whole new ship...
+
+### About Beidou: Attitude
+
+Perhaps you've never heard me speak like this. All that can be said has been said — both the good and the bad — but she still does as she pleases. Forget it. Keep Beidou out of my sight.
+
+### About Zhongli
+
+Zhongli... Of the Wangsheng Funeral Parlor. He's very versed in a great deal of affairs. Although... such excellent pawns are of no use to me until I know their weaknesses.
+
+### About Xingqiu
+
+The second son of the Feiyun Commerce Guild. People like him can't stand the sight of me, which is only to be expected. I have no intention of troubling him either. Those who have different beliefs should not work together.
+
+### About Xiangling
+
+That girl from Wanmin Restaurant... Her suspicion towards me is always written all over her face... Hehe, I wonder what face she would make if only she knew how much I helped finance that restaurant...
+
+### About Ganyu
+
+One cannot afford to be overly reliant on others — even when it comes to Ganyu. There is a Liyue saying which goes, "even the most meticulous can fall prey to happenstance." When there are important affairs to deal with, it is always safer to investigate and resolve them personally.
+
+### About Yaoyao
+
+I presume you mean the girl whom Ganyu has taken under her wing. Do not worry, I have no plans to make this matter public. I am content to extend some leniency to the odd bit of mischievous maneuvering by that boat captain. One thing, though — Yaoyao seems to have become somewhat enamored with seafood lately. You should try to convince her to include some more fruits and vegetables in her diet.
+
+### About Keqing
+
+The Yuheng... She has changed a lot recently. But is Liyue better off with the Yuheng we have now, or the Yuheng we used to know? Only time will tell.
+
+### About Jean
+
+The Acting Grand Master of Mondstadt, a strict and impeccable woman. Her flawless etiquette knows no fault, even her letters are meticulously written and creased according to the prescribed rules. It is such easily overlooked details that offer a glimpse into the true qualities of one's character.
+
+### About Yanfei
+
+Yanfei? I suppose you could say she's a dear rival of mine... Were she not so deft at explaining the meanders of the law and providing her clients with all sorts of cunning suggestions, it would take me many more months to identify existing loopholes in the legal codices and tighten them one by one.
+
+### About Shenhe
+
+How is Miss Shenhe doing as of late? Please, look out for her whenever you can. I am most grateful to both of you for your assistance with rebuilding the Jade Chamber. Ahem, and on a more personal note — please know that if you are ever free, a cup of the finest tea will always be waiting for you here.
+
+### About Yun Jin
+
+Yun Jin... Are you able to appreciate her performances? It might be difficult at first, but I would encourage you to give it a chance. The reason I decided to invest into her opera troupe is quite simple: Elegant art forms like these deserve to be passed down to future generations.
+
+### About Yelan
+
+She's a very interesting character. I can say with the utmost confidence that she is someone I trust unreservedly. She handles herself impeccably, which means she stays beyond reproach. Hehe, since you both have high intelligence in common, hopefully you will get along very well.
+
+### More About Ningguang: I
+
+Seeing as it's you, there's no need to keep up the formalities. You can be a little more casual. But I still ask that you respect my time. If you have something to say, be concise — I have no time to waste.
+
+### More About Ningguang: II
+
+I've always believed that children are the most naive and innocent. The reports they give me are of the most value. So what about you? What will you have for me?
+
+### More About Ningguang: III
+
+I've been thinking about something lately. If I were to keep you in Liyue, perhaps... at the right time, I might be able to leverage this city to... For now, it's mere conjecture. I should really consider whether the investment is worth it some more.
+
+### More About Ningguang: IV
+
+You can learn from me, and use Mora to make things a little easier for yourself. But remember, relationships built on Mora can only be relied on for a time. Hehe... and that is why I have never brought Mora into our relationship.
+
+### More About Ningguang: V
+
+This is truly a great investment. Sure, no Mora has been made from it, but the time I've spent with you is already a solid return. Haha, seems I win again — I put my money on the right person.
+
+### Ningguang's Hobbies
+
+Care for a game of Liyue Millennial? It'll give me an opportunity to see exactly how good you are as a player.
+
+### Ningguang's Troubles
+
+Concerns? If I told you of the concerns of the Liyue Qixing, do you think your shoulders could bear the burden? And, if you ever made the mistake of mentioning them to others...
+
+### Favorite Food
+
+A slow-boiled soup of leftover chicken and pork bones drenched over some cabbage leaves. I have few culinary requirements. Having a few staple dishes like this is enough.
+
+### Least Favorite Food
+
+I've come across those who demand golden crab for every meal. Though it all seems so grandiose, I really have no desire for such frivolousness. If you're ever thinking of taking me out for such a dinner, you'd be better off just giving the Mora to me directly.
+
+### Birthday
+
+These are some of Liyue's finest brocades, woven from Silk Flowers. This one is for you, and this one... I hope that someday soon, you will be able to give it to your sister, and I hope that she'll like it. I wish you both a happy birthday. / This is one of Liyue's finest brocades, woven from Silk Flowers. You can use it to have some clothing made, and have a happy birthday.
+
+### Feelings About Ascension: Intro
+
+There's no style in resorting to violence. It's simply the worst of all the bad decisions you could make.
+
+### Feelings About Ascension: Building Up
+
+Cashing in time and Mora for power... Interesting. This shows their true value.
+
+### Feelings About Ascension: Climax
+
+What is it that you hold so dear that is making you so persistent...? No, don't tell me. Give me more time to understand you myself.
+
+### Feelings About Ascension: Conclusion
+
+I'm usually not so quick to place my trust in others, but it seems I will no longer be able to make such claims. You've done splendidly. If only I had more like you... No, perhaps... you alone are enough.
+
+### Elemental Skill: I
+
+It's nothing.
+
+### Elemental Skill: II
+
+Don't waste my time.
+
+### Elemental Skill: III
+
+Hmph! Give up.
+
+### Elemental Burst: I
+
+Your life is mine.
+
+### Elemental Burst: II
+
+Submit!
+
+### Elemental Burst: III
+
+Goodbye!
+
+### Opening Treasure Chest: I
+
+A keen eye.
+
+### Opening Treasure Chest: II
+
+We can't have treasure unaccounted for.
+
+### Opening Treasure Chest: III
+
+Wealth... why settle for less than more?
+
+### Low HP: I
+
+You dare to hit me?
+
+### Low HP: II
+
+I'll remember that.
+
+### Low HP: III
+
+Urgh!
+
+### Ally at Low HP: I
+
+You're out of moves.
+
+### Ally at Low HP: II
+
+Given the circumstances, I'm happy to help.
+
+### Fallen: I
+
+We are all but pawns...
+
+### Fallen: II
+
+The victor has been decided...
+
+### Fallen: III
+
+Is this the end of Tianquan?
+
+### Light Hit Taken: I
+
+Ugh... rude.
+
+### Heavy Hit Taken: I
+
+Ugh! You wait!
+
+### Heavy Hit Taken: II
+
+Ugh! Blood repays blood!
+
+### Joining Party: I
+
+Understood.
+
+### Joining Party: II
+
+Let's make haste.
+
+### Joining Party: III
+
+Don't disappoint me.
+
+### Receiving a Gift: I
+
+Mmm... You have surpassed my expectations, again.
+
+### Receiving a Gift: II
+
+With some things, if you haven't grasped the essentials, all the hard work in the world can go to waste... Know what I mean?
+
+### Receiving a Gift: III
+
+Ugh... It's the thought that counts.
+
+### About Xianyun
+
+I plan to have Lady Xianyun over for a casual conversation over tea in a few days. I happen to have in my possession a number of mechanical devices, and I would be most interested to hear her insights on their design and use. It would also be a fine opportunity to hear about her experiences as an adeptus adapting to a new life in Liyue Harbor. All I require now is a suitable candidate to deliver the invitation to her on my behalf... Would you be interested, Traveler?
+
+### About the White Horse Adeptus
+
+I was surprised when I learned that a new adeptus had joined the ranks. The White Horse Adeptus... It's a good thing she prefers to spend her time traveling, or I'd have to accept the truth behind Yelan's favorite adepti quip. ...You want to hear it? Heh, okay. I quote: "Everyone says that the adepti want peace and tranquility, but I think they just like hanging around Liyue..."
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我是七星之「天权」，凝光。要做个交易吗？你来做我的贴身侍卫，而我，会教导你在璃月出人头地的技巧。
+
+### 闲聊·古玩
+
+就算古玩价值连城，给人的快乐也只有刚拥有的一瞬。
+
+### 闲聊·商战
+
+在商战中，完美的猎手不会留下任何痕迹。
+
+### 闲聊·投资
+
+找笔新的投资吧。无论如何，摩拉都不会嫌多。
+
+### 下雨的时候…
+
+哦？下雨了啊。替我打伞吧。
+
+### 下雪的时候…
+
+不过是寻常雪景。我带你见见，真正的「碎雪」。
+
+### 阳光很好…
+
+风平浪静？呵，不要相信你的眼睛，眼睛会说谎。
+
+### 刮大风了…
+
+这样的大风天，会成为捕鱼人的灾难。也会成为…呵，没什么。
+
+### 早上好…
+
+早，按事情的轻重缓急向我禀报吧。
+
+### 中午好…
+
+「琉璃亭」和「新月轩」，你更常去哪一家？
+
+### 晚上好…
+
+茶馆已经客满了？那就来「群玉阁」坐坐吧。只要…你付得起价钱。
+
+### 晚安…
+
+嗯，去休息吧。要是发生了重要的事情，我会派人通知你的。
+
+### 关于凝光自己·观点
+
+无论是价格谈判还是商战博弈，声势和筹码都是次要的。想要取得胜利，就需要先去了解对手的底牌。
+
+### 关于凝光自己·印象
+
+觉得我给你的印象变了？呵…那时我需要借助你的力量，当然要让你觉得我亲切热情。但现在我已将你当作重要的「契约」伙伴，伙伴之间，就不用这些虚情假意了。
+
+### 关于我们·传言
+
+关于我的传言，最近听了不少吧。我究竟是怎样的人？用你自己的双眼分辨吧…当然，你的看法，也会成为传言的一部分。
+
+### 关于我们·观察
+
+跟了我那么久，你学会「观察」了吗。那么，试着来「观察」我吧，直到成为我的心腹为止。
+
+### 关于我们·群玉阁
+
+上前来，和我并肩站着。看到「群玉阁」了吗。它起初只有房间大小，如今却能遮蔽璃月上空。等到它的规模有朝一日笼罩七国，那时候，也这样和我并肩而立吧。
+
+### 关于「神之眼」…
+
+能用摩拉解决的事情，就无需使用「神之眼」。至于用摩拉也解决不了的事情…至今我只遇到过一件。
+
+### 有什么想要分享·庄家
+
+赌徒永远会把希望寄托在下一颗骰子上…但最后赚钱的，当然是从来不碰骰子的庄家。
+
+### 有什么想要分享·目标
+
+帝君的离去，无论对璃月还是七星来说，都是不小的考验。我也很久没有像最近这样辗转反侧了。
+不过，我不会放弃我的目标。总有一日，我会让群玉阁投下的影子笼罩七国——
+
+### 感兴趣的见闻…
+
+璃月古代辞赋中不乏对于「琉璃百合」的溢美，但它现今却近乎灭绝，只在「玉京台」还有保留。名声在外却又不可多得，因此更加价格不菲。
+
+### 关于北斗·罚金
+
+那位…船长。明明也受到不少人推崇，却总是带头漠视规则。她缴纳的罚金，都够买一艘崭新的远洋船了吧。
+
+### 关于北斗·态度
+
+或许你没有遇到过这种糟糕的交流体验。将好话坏话说尽了，对方却依然自行其是。罢了，尽可能不要让我见到那位北斗船长。
+
+### 关于钟离…
+
+钟离…「往生堂」口中的这位先生，精通许多旁人不知的事物。但在掌握他的弱点之前，再优秀的棋子，也还不能为我所用。
+
+### 关于行秋…
+
+飞云商会的二公子，那种性格的人看不惯我，是很自然的，而我也不会去为难他。「道不同不相为谋」，说的就是这个道理。
+
+### 关于香菱…
+
+「万民堂」的小丫头…总是把对我的猜疑写在脸上。呵，要是让她知道了，这些年来我对「万民堂」的资助…她会露出怎样的表情来呢？
+
+### 关于甘雨…
+
+即使是甘雨，也不可过度依赖。璃月俗语说「百密终有一疏」。重要事情当前，只有自己亲手处理，亲眼查证，才可放心。
+
+### 关于瑶瑶…
+
+是在谈论甘雨正帮忙照看着的小姑娘么。呵，不用紧张，此事我并无声张的打算。就当那个船长，总能做一两件聪明事吧。对了，这瑶瑶，近来光顾着吃海产了，你得想办法劝劝甘雨，叫她为瑶瑶多补充些瓜果蔬菜才对。
+
+### 关于刻晴…
+
+「玉衡星」…她最近的变化可真不小。璃月究竟更需要曾经的她，还是更需要现在的她呢？可能要多花一些时间，才能判断吧。
+
+### 关于琴…
+
+蒙德城的代理团长，想必是一位严谨而又细腻的女性吧。且不说她恰如其分的用词，连每张信纸的边缘都折叠得一丝不苟。越是这些容易被人忽视的细节，越能透过它窥见一个人真正的品质。
+
+### 关于烟绯…
+
+烟绯？呵，某种意义上，她是个贴心的对手呢。若不是她「灵巧」地解释律法，为咨询者们提供各种「奇妙」的建议，要让我独自找到律法的缺口，逐步完善法典，怕是要多花数月的时间。
+
+### 关于申鹤…
+
+申鹤小姐近来可好？有劳你多多关照她了。你们帮忙重建群玉阁的事，我一直记在心里，也很是感激。啊，客套话就不多说了，我备了好茶，闲时多来坐坐吧。
+
+### 关于云堇…
+
+云堇啊…怎么样，你听得惯她的戏吗？起初可能是有些难懂，试着耐下性子多品味一下吧。我投资她的戏班不为别的，只是觉得，这般典雅的艺术，值得被一直传承下去。
+
+### 关于夜兰…
+
+她是个很有意思的人，对我而言，也是绝对可信之人。八面玲珑，才能无可挑剔。呵呵，既然同为聪明人，希望你们能相处愉快。
+
+### 想要了解凝光·其一
+
+既然是你，就不用恪守那些繁文缛节了，可以随意一些。不过，希望你能珍惜我的时间，言简意赅地进行说明。
+
+### 想要了解凝光·其二
+
+我向来以为，孩子们最为天真纯粹，他们提供的情报也最有价值。那么，你又如何呢？你向我提供的东西，会是些什么呢。
+
+### 想要了解凝光·其三
+
+最近我在思考一个问题。如果能把你留在璃月，假以时日…或许能撬动这座城市的…呵，只是设想而已。这笔投资值不值，我还得再考虑考虑。
+
+### 想要了解凝光·其四
+
+你可以学我的做法，靠摩拉来为自己获取一些便利。但你要记住，摩拉维持的关系只能依仗一时。呵，这也是我从不用摩拉来试探你的理由。
+
+### 想要了解凝光·其五
+
+真是一笔不错的投资。虽然没有收益多少摩拉，但与你度过的这些时光，已是很不错的回报。呵，看来我又赢了——我，赌对了人。
+
+### 凝光的爱好…
+
+想来试试棋戏「璃月千年」么？正好也让我看看，你作为一名棋手的素质，究竟如何呢。
+
+### 凝光的烦恼…
+
+烦恼…哦？「璃月七星」的烦恼告诉了你…你的肩膀，能够承受得住吗？而且，如果你一不小心说出去了的话…
+
+### 喜欢的食物…
+
+用老鸡和猪骨小火久煮熬制高汤，淋在只取菜心的鲜嫩白菜上。我对饮食追求不深。平日里吃点这样的东西，也就够了。
+
+### 讨厌的食物…
+
+我见过有人每次宴会必点「黄金蟹」这种看上去显得大富大贵的食物，但我对此始终不敢恭维。如果你想用这样的料理宴请我，还不如直接给我摩拉。
+
+### 生日…
+
+这是选用上等的霓裳花织出的锦缎。这份是留给你的，这一份…等你找到自己的妹妹之后，拿去做件她喜欢的衣服吧。祝你们，生日快乐。 / 这是选用上等的霓裳花织出的锦缎。拿去做件自己喜欢的衣服，过个开心点的生日吧。
+
+### 突破的感受·起
+
+「武斗」缺乏风度，只能作为下策中的下策。
+
+### 突破的感受·承
+
+将时间和摩拉作为筹码，等价交换到「力量」吗…有趣。我认可它的价值。
+
+### 突破的感受·转
+
+你是怀着怎样的心情坚持的呢？嘘…不要说出来。让我多花一点时间来看透你。
+
+### 突破的感受·合
+
+我并不轻易肯定别人，但现在看来，我这赞扬是留不住了。呵…你做得很出色。要是我的手下能多一点像你这样的人…不，或许，有你一个就够了。
+
+### 元素战技·其一
+
+雕虫小技。
+
+### 元素战技·其二
+
+别白费功夫。
+
+### 元素战技·其三
+
+哼，劝你放弃。
+
+### 元素爆发·其一
+
+你的性命，我收下了。
+
+### 元素爆发·其二
+
+向我臣服吧。
+
+### 元素爆发·其三
+
+永别了。
+
+### 打开宝箱·其一
+
+好一双慧眼。
+
+### 打开宝箱·其二
+
+颗粒归仓。
+
+### 打开宝箱·其三
+
+财富，多多益善。
+
+### 生命值低·其一
+
+竟然敢伤我。
+
+### 生命值低·其二
+
+我记下了。
+
+### 生命值低·其三
+
+哼。
+
+### 同伴生命值低·其一
+
+如今的局面，你没有几成胜算。
+
+### 同伴生命值低·其二
+
+既然如此，就帮你一把。
+
+### 倒下·其一
+
+这世上之人，皆为棋子…
+
+### 倒下·其二
+
+胜负已分…真是无可奈何。
+
+### 倒下·其三
+
+这就是，「天权」的终焉？…
+
+### 普通受击·其一
+
+无礼。
+
+### 重受击·其一
+
+等着吧。
+
+### 重受击·其二
+
+血债血还。
+
+### 加入队伍·其一
+
+知道了。
+
+### 加入队伍·其二
+
+抓紧时间吧。
+
+### 加入队伍·其三
+
+不要让我失望。
+
+### 收到赠礼·其一
+
+不错。你总能出乎我的意料。
+
+### 收到赠礼·其二
+
+有时，没有把握关键要素，就等于徒劳无功…能明白么？
+
+### 收到赠礼·其三
+
+心意我领了。
+
+### 关于闲云…
+
+再过些时日，我打算约闲云女士去茶室小坐。我恰巧收集了一些机巧玩物，想听听她的高见，也想趁此机会，听她讲讲仙人在璃月港生活的趣事。至于为我递这份邀请函的人选…你可有意？
+
+### 关于白马仙人…
+
+没想到，如今的璃月港里竟然又添了一位新仙人。好在这位白马仙人喜爱云游，不常在璃月港居住，不然真要应了夜兰那句打趣的话了…她说什么？呵呵，她说：「都说仙人最喜欢清净，我看璃月的仙人，还是最喜欢璃月啊…」

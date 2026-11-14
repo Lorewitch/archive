@@ -14,6 +14,7 @@ DATA_DIR = ROOT / "data"
 
 LANGS = ["ru", "en", "zh"]
 LANG_HEADERS = {"RU": "ru", "EN": "en", "ZH": "zh"}
+REPLICA_HEADERS = {"REPLICAS_RU": "ru", "REPLICAS_EN": "en", "REPLICAS_ZH": "zh"}
 META_RE = re.compile(r"^#\s*([a-zA-Z0-9_]+)\s*:\s*(.*)$")
 SUBHEADING_RE = re.compile(r"^###\s+(.+?)\s*$")
 
@@ -43,7 +44,7 @@ ARTIFACT_PART_LABELS = {
 
 ITEM_GROUPS = {
     "weekly_bosses", "world_bosses", "common_enemies", "development_materials",
-    "teyvat_resources", "serenitea_pot", "useful_items", "misc",
+    "teyvat_resources",
 }
 
 DEVELOPMENT_MATERIAL_TYPES = {
@@ -61,20 +62,6 @@ ITEM_TYPE_DEFINITIONS = {
         "animal": {"ru": "Животное", "en": "Animal", "zh": "动物"},
         "craft": {"ru": "Крафт", "en": "Crafting", "zh": "合成"},
         "ingredient": {"ru": "Ингредиент", "en": "Ingredient", "zh": "食材"},
-    },
-    "serenitea_pot": {
-        "wood": {"ru": "Древесина", "en": "Wood", "zh": "木材"},
-        "blueprint": {"ru": "Чертёж", "en": "Blueprint", "zh": "图纸"},
-        "seed": {"ru": "Семена", "en": "Seed", "zh": "种子"},
-        "misc": {"ru": "Прочее", "en": "Miscellaneous", "zh": "其他"},
-    },
-    "useful_items": {
-        "tool": {"ru": "Инструмент", "en": "Tool", "zh": "道具"},
-        "seelie": {"ru": "Фея", "en": "Seelie", "zh": "仙灵"},
-        "equipment": {"ru": "Снаряжение", "en": "Equipment", "zh": "装备"},
-    },
-    "misc": {
-        "misc": {"ru": "Прочее", "en": "Miscellaneous", "zh": "其他"},
     },
 }
 
@@ -278,7 +265,7 @@ def split_top_sections(body: str) -> dict[str, str]:
         header = re.match(r"^##\s+(.+?)\s*$", stripped)
         if header:
             name = header.group(1).strip().upper()
-            if name in LANG_HEADERS or name in {"NOTES", "INTERNAL"}:
+            if name in LANG_HEADERS or name in REPLICA_HEADERS or name in {"NOTES", "INTERNAL"}:
                 current = name
                 sections.setdefault(current, [])
                 if sections[current]:
@@ -722,8 +709,10 @@ def normalized_weapon_type(meta: dict[str, str]) -> str:
 
 
 def normalized_item_group(meta: dict[str, str]) -> str:
-    value = (meta.get("item_group") or meta.get("group") or meta.get("subtype") or "misc").strip()
-    return value if value in ITEM_GROUPS else "misc"
+    value = (meta.get("item_group") or meta.get("group") or meta.get("subtype") or "teyvat_resources").strip()
+    if value not in ITEM_GROUPS:
+        raise ValueError(f"Unsupported inventory group: {value}")
+    return value
 
 
 def normalized_material_type(meta: dict[str, str]) -> str:
@@ -1062,6 +1051,12 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         if story_parts:
             entry["parts"] = story_parts
             entry["part_count"] = len(story_parts)
+        if entry["story_group"] == "character_stories":
+            replica_text = {lang: sections.get(label, "") for label, lang in REPLICA_HEADERS.items()}
+            replicas = build_story_parts(replica_text, comma_list_from_meta(meta, "voice_source_ids"))
+            if replicas:
+                entry["replicas"] = replicas
+                entry["replica_count"] = len(replicas)
         if entry["story_group"] in {"archon_quests", "legend_quests", "reputation_quests", "world_quests", "event_chronicles"}:
             entry["source_id"] = int_from_meta(meta, "source_id", None)
             # Optional manual collection membership, useful for cross-region chapters
@@ -1081,6 +1076,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
             entry["quest_chain"] = comma_list_from_meta(meta, "quest_chain")
             entry["quest_series"] = [value.strip() for value in meta.get("quest_series", "").split("||") if value.strip()]
             entry["quest_series_ru"] = meta.get("quest_series_ru", "").strip()
+            entry["quest_series_order"] = int_from_meta(meta, "quest_series_order", 0)
             entry["quest_subject_ru"] = meta.get("quest_subject_ru", "").strip()
             entry["storyline"] = meta.get("storyline", "").strip()
             entry["quest_collections"] = comma_list_from_meta(meta, "quest_collections")
@@ -1309,7 +1305,7 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "title": item.get("title", {}),
         "region": item.get("region", ""),
         "game_version": item.get("game_version", ""),
-        "item_group": item.get("item_group", "misc"),
+        "item_group": item.get("item_group", "teyvat_resources"),
         "entry_type": item.get("entry_type", "item"),
         "item_type": item.get("item_type", ""),
         "item_type_title": item.get("item_type_title", {}),
@@ -1404,6 +1400,7 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "quest_chain": item.get("quest_chain", []),
         "quest_series": item.get("quest_series", []),
         "quest_series_ru": item.get("quest_series_ru", ""),
+        "quest_series_order": item.get("quest_series_order", 0),
         "quest_subject_ru": item.get("quest_subject_ru", ""),
         "storyline": item.get("storyline", ""),
         "quest_collections": item.get("quest_collections", []),

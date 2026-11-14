@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 71052
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_71052
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 71052
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,33 +28,37 @@
 
 В Разломе вы увидели камни с необычными узорами. Стоит сделать пару снимков. Может, кто-нибудь знает, что они такое...
 
-
 **Сделать снимок:** Сделай снимок A
-
 
 **Сделать снимок:** Сделай снимок B
 
-
 **Сделать снимок:** Сделай снимок C
-
 
 **Сделать снимок:** Сделай снимок D
 
-Насчёт странных камней...
+**Сделать снимок:** Сделай снимок E
+
+- **Путешественник:** Насчёт странных камней...
 
 **Хедив:** Тех, что на фотографии?
 
 **Хедив:** Дай взглянуть!
 
-Вот...
+- **Путешественник:** Вот...
 
 **Хедив:** Сразу видно, что снимок сделан на новое устройство из Фонтейна. Поразительная чёткость изображения.
 
 **Хедив:** Я уже пробовал одну экспериментальную камеру, но снимки получались размытыми, а чтобы поднять её, требовалось два человека. В итоге теперь она пылится где-то в Академии...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Пылится...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Довольно расточительно...
+
+##### Общее продолжение
 
 **Хедив:** И не говори... Я отдал за неё стоимость своего обеда. Похоже, придётся купить новую.
 
@@ -60,7 +66,7 @@
 
 **Хедив:** Да, это определённо окаменелость.
 
-Окаменелость?
+- **Путешественник:** Окаменелость?
 
 **Хедив:** Да, и здесь можно увидеть представителей морской фауны... Как интересно. В Ли Юэ говорят «бескрайнее море поглощает леса и поля». Или как-то в этом роде.
 
@@ -74,14 +80,15 @@
 
 **Хедив:** Если увидишь другие такие окаменелости, принеси мне их фотографии.
 
-Сколько фотографий тебе нужно?
+- **Путешественник:** Сколько фотографий тебе нужно?
 
 **Хедив:** Дай подумать. Четырёх или пяти фотографий для отчёта будет вполне достаточно. Да, принеси мне пять фотографий.
 
 **Хедив:** Я дам за них хорошую цену. Это потрясающая находка.
 
+#### Сделайте больше снимков окаменелостей
 
-**Сделать снимок:** Сделай снимок E
+- **Путешественник:** Вот снимки окаменелостей, которые ты просил...
 
 #### Отдайте снимки окаменелостей Хедиву
 
@@ -99,9 +106,15 @@
 
 **Хедив:** Но...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Но?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Тебе нужно больше снимков?
+
+##### Общее продолжение
 
 **Хедив:** Этих снимков должно хватить.
 
@@ -111,9 +124,17 @@
 
 **Хедив:** Окаменелости Разлома встречаются только на определённой высоте.
 
+##### Вариант ответа 1
+
 - **Путешественник:** На определённом уровне?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Разница в высоте между верхом и низом довольно велика, но...
+
+##### Общее продолжение
+
+**Хедив:** С точки зрения геологии она ничтожно мала.
 
 **Хедив:** Они образовались за очень короткий промежуток времени и находятся довольно близко друг к другу... Это свидетельство серьёзных и стремительных экологических изменений.
 
@@ -121,41 +142,43 @@
 
 **Хедив:** Что же всё-таки произошло в Разломе?
 
-**Хедив:** С точки зрения геологии она ничтожно мала.
-
 ## EN
 
 ### Paleontological Investigation in The Chasm
 
 You notice some rocks with peculiar markings on them. It's better to take a few pictures. Perhaps someone might know what these are...
 
-
 **Photo:** Photograph A
-
 
 **Photo:** Photograph B
 
-
 **Photo:** Photograph C
-
 
 **Photo:** Photograph D
 
-About the strange rock we found...
+**Photo:** Photograph E
+
+- **Traveler:** About the strange rock we found...
 
 **Khedive:** So, you took a picture or two of some strange rocks?
 
 **Khedive:** Do show me, please!
 
-Here you are...
+- **Traveler:** Here you are...
 
 **Khedive:** Ah! Look at the picture! It's so clear — seems the new Kamera models from Fontaine are as good as they say.
 
 **Khedive:** I once bought some prototype ones, but the images captured weren't clear enough. Besides, they were too clumsy to be handled by one person alone. So they ended up rotting away in some corner in the Akademiya.
 
+##### Response branch 1
+
 - **Traveler:** Rotting away...
 
+##### Response branch 2
+
 - **Traveler:** That's a bit of a waste...
+
+##### Shared continuation
 
 **Khedive:** Yep, it cost me a meal's worth of Mora. Um... Looks like it's time that I bought some new Kameras.
 
@@ -163,7 +186,7 @@ Here you are...
 
 **Khedive:** Yes, it's a fossil!
 
-A fossil?
+- **Traveler:** A fossil?
 
 **Khedive:** Yes, and you can see many fossilized marine creatures in it... How curious! In Liyue, there's a saying for this — I don't know the exact wording, but it goes something like "forests and fields are eventually engulfed by the vast ocean."
 
@@ -177,14 +200,15 @@ A fossil?
 
 **Khedive:** If you come across other such fossils, please take pictures for me.
 
-How many do you need?
+- **Traveler:** How many do you need?
 
 **Khedive:** Let me see. I need four or five for my report... You know what? Let's make it five. Bring me five pictures of similar rocks.
 
 **Khedive:** I'll offer a reasonable price for this, of course. It is a big discovery, and that is no understatement.
 
+#### Take pictures of more fossils
 
-**Photo:** Photograph E
+- **Traveler:** Here's the pictures of the fossils you asked for...
 
 #### Give the fossil pictures to Khedive
 
@@ -202,9 +226,15 @@ How many do you need?
 
 **Khedive:** But...
 
+##### Response branch 1
+
 - **Traveler:** But?
 
+##### Response branch 2
+
 - **Traveler:** You're not gonna tell me you need more pictures, are you?
+
+##### Shared continuation
 
 **Khedive:** I'll... settle for these ones.
 
@@ -214,9 +244,17 @@ How many do you need?
 
 **Khedive:** Nearly all fossils you found at The Chasm are located at a fixed altitude.
 
+##### Response branch 1
+
 - **Traveler:** A fixed altitude?
 
+##### Response branch 2
+
 - **Traveler:** It's not that fixed, is it?
+
+##### Shared continuation
+
+**Khedive:** Well, geologically speaking, the difference in height is minuscule.
 
 **Khedive:** This means it was a quick process — and nearly all fossils here formed at almost the same time. Basically, something must've radically altered the ecosystem here in a split-second.
 
@@ -224,41 +262,43 @@ How many do you need?
 
 **Khedive:** Hmm, what could've happened in The Chasm?
 
-**Khedive:** Well, geologically speaking, the difference in height is minuscule.
-
 ## ZH
 
 ### 古代生物调查
 
 在层岩巨渊看到了纹路奇怪的岩石，不如先拍下来，不知道有没有人知道这是什么…
 
-
 **拍摄:** 拍A
-
 
 **拍摄:** 拍B
 
-
 **拍摄:** 拍C
-
 
 **拍摄:** 拍D
 
-关于奇怪的岩石…
+**拍摄:** 拍E
+
+- **旅行者:** 关于奇怪的岩石…
 
 **海迪夫:** 拍到了奇怪的岩石的照片？
 
 **海迪夫:** 请务必给我看一眼！
 
-就是这个…
+- **旅行者:** 就是这个…
 
 **海迪夫:** 诶呀，这照片！真不愧是枫丹那边做出来的新机型，拍摄得相当清晰。
 
 **海迪夫:** 之前倒是买过一批试验机型，拍得很模糊，而且一台机子还要两个人抬，最后只能放在教令院积灰…
 
+##### 对话分支 1
+
 - **旅行者:** 积灰…
 
+##### 对话分支 2
+
 - **旅行者:** 有点浪费…
+
+##### 共同后续
 
 **海迪夫:** 是啊，好歹也是我一顿饭的钱。嗯…看来是时候再买一批新的了。
 
@@ -266,7 +306,7 @@ How many do you need?
 
 **海迪夫:** 嗯，这是化石！
 
-化石？
+- **旅行者:** 化石？
 
 **海迪夫:** 是啊，而且有很多海洋生物…有趣。璃月有一句话叫做…「林园和田野，被茫茫的大海淹没」？说的就是这个。
 
@@ -280,14 +320,15 @@ How many do you need?
 
 **海迪夫:** 这样你要是还有这样的化石，就拍下来给我吧。
 
-那要拍几张才行啊？
+- **旅行者:** 那要拍几张才行啊？
 
 **海迪夫:** 我想想，要放进报告里的话，类似的照片4、5张应该足够了…那就5张吧，给我5张类似岩石的照片。
 
 **海迪夫:** 我会给出合适的价钱买下的，这可是大发现啊。
 
+#### 拍摄更多的化石照片
 
-**拍摄:** 拍E
+- **旅行者:** 你要的化石照片…
 
 #### 将拍摄完成的化石照片交给海迪夫
 
@@ -305,9 +346,15 @@ How many do you need?
 
 **海迪夫:** 不过…
 
+##### 对话分支 1
+
 - **旅行者:** 不过？
 
+##### 对话分支 2
+
 - **旅行者:** 难道是照片不够？
+
+##### 共同后续
 
 **海迪夫:** 这些照片…勉强算是足够了。
 
@@ -317,14 +364,20 @@ How many do you need?
 
 **海迪夫:** 层岩巨渊的化石，基本上只出现在某个固定的高度区域。
 
+##### 对话分支 1
+
 - **旅行者:** 固定高度？
 
+##### 对话分支 2
+
 - **旅行者:** 上下高度差挺大的吧…
+
+##### 共同后续
+
+**海迪夫:** 哎呀，从地质学的角度上来说，这个等级的差异可以忽略不计。
 
 **海迪夫:** 总之，这就说明形成化石的时期很短，而且都相当接近…说明在很短暂的时间段里发生了特别大的生态变化。
 
 **海迪夫:** 譬如说，巨大的冲击导致的…之类。
 
 **海迪夫:** 嗯，层岩巨渊，到底发生过什么呢？
-
-**海迪夫:** 哎呀，从地质学的角度上来说，这个等级的差异可以忽略不计。

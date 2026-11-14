@@ -1,0 +1,82 @@
+{
+  "id": "chimeric_burrowbeast",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/chimeric_burrowbeast.webp",
+  "title": {
+    "ru": "Химера-землерой",
+    "en": "Chimeric Burrowbeast",
+    "zh": "嵌合梭地兽"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Химера-землерой",
+    "Chimeric Burrowbeast",
+    "嵌合梭地兽"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nЕсли чудовище, свободно передвигающееся под землёй и снегом, обретёт зрение, позволяющее видеть даже во тьме, станет ли оно ещё более грозным хищником?\nРезультат эксперимента превзошёл все ожидания. Эти землеройные звери по ночам бродят под поверхностью земли, устраивая во тьме ловушки и подстерегая добычу из засады.\nПо сообщению «Вестника», рабочие из Светлолёдовки якобы видели гигантского землеройного зверя ростом почти с двух человек... Впрочем, это всего лишь слухи.",
+    "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nIf a monster that burrows and moves through earth and snow were granted vision that could see all within the shadows, could it become an even stronger predator?\nThe experiment proved astonishingly successful. These Burrowbeasts move beneath the surface at night, digging traps in the dark or hiding in the shadows to hunt.\nAccording to a report in Vestnik, a worker living in Svetloledovka once saw a giant Burrowbeast nearly as tall as two people... though that is probably nothing more than a wild rumor.",
+    "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n穿梭于土地与冰雪中的魔物如果拥有了在阴影中看清一切的视觉，是否能够成为更为强大的捕猎者呢？\n实验的结果居然超乎寻常的成功，这种梭地兽会在夜晚穿梭于地表之下，在黑暗中挖掘陷阱或是躲在暗处狩猎。\n据《先驱报》的报道所述，曾有在彩冰镇生活的工人看到过几乎有两人高的巨大梭地兽…不过应该是无稽之谈吧。"
+  },
+  "description": {
+    "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nЕсли чудовище, свободно передвигающееся под землёй и снегом, обретёт зрение, позволяющее видеть даже во тьме, станет ли оно ещё более грозным хищником?\nРезультат эксперимента превзошёл все ожидания. Эти землеройные звери по ночам бродят под поверхностью земли, устраивая во тьме ловушки и подстерегая добычу из засады.\nПо сообщению «Вестника», рабочие из Светлолёдовки якобы видели гигантского землеройного зверя ростом почти с двух человек... Впрочем, это всего лишь слухи.",
+    "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nIf a monster that burrows and moves through earth and snow were granted vision that could see all within the shadows, could it become an even stronger predator?\nThe experiment proved astonishingly successful. These Burrowbeasts move beneath the surface at night, digging traps in the dark or hiding in the shadows to hunt.\nAccording to a report in Vestnik, a worker living in Svetloledovka once saw a giant Burrowbeast nearly as tall as two people... though that is probably nothing more than a wild rumor.",
+    "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n穿梭于土地与冰雪中的魔物如果拥有了在阴影中看清一切的视觉，是否能够成为更为强大的捕猎者呢？\n实验的结果居然超乎寻常的成功，这种梭地兽会在夜晚穿梭于地表之下，在黑暗中挖掘陷阱或是躲在暗处狩猎。\n据《先驱报》的报道所述，曾有在彩冰镇生活的工人看到过几乎有两人高的巨大梭地兽…不过应该是无稽之谈吧。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112149",
+      "title": {
+        "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+        "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+        "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112149.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112149",
+          "title": {
+            "ru": "Ядро химеры",
+            "en": "Chimeric Core",
+            "zh": "嵌合种"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112149.webp"
+        },
+        {
+          "key": "material_112150",
+          "title": {
+            "ru": "Симбиотическое ядро химеры",
+            "en": "Symbiotic Chimeric Nucleus",
+            "zh": "并生嵌合胞"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112150.webp"
+        },
+        {
+          "key": "material_112151",
+          "title": {
+            "ru": "Сердцевина химеры",
+            "en": "Prime Chimeric Nexus",
+            "zh": "源生嵌合体"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112151.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

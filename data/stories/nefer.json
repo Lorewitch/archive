@@ -146,5 +146,1016 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Приятно познакомиться. Я Нефер, хозяйка Куратория тайн. Обо мне ходят разные слухи, но советую не придавать им значения. Правдивы они или нет, на наше сотрудничество они не повлияют.",
+        "en": "Pleasure to meet you. I'm Nefer, head of the Curatorium of Secrets. You may have heard a few rumors about me, but don't let that trouble you — fact or fiction, I assure you it won't impact our collaboration.",
+        "zh": "幸会，我是「秘闻馆」的老板，奈芙尔。你也许听过许多有关于我的流言，但你不用为此忧心，无论那些流言是真是假，都不会影响我们目前的合作事务。"
+      },
+      "source_id": 122000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Ашру",
+        "en": "Chat: Ashru",
+        "zh": "闲聊·阿舍鲁"
+      },
+      "text": {
+        "ru": "Почему Ашру сидит на стойке? Встречает гостей. Котик сам должен зарабатывать себе на пропитание!",
+        "en": "Why does Ashru sit up on the counter? To welcome our clients, of course. A kitty's gotta earn his kibble somehow.",
+        "zh": "阿舍鲁为什么在柜台上？喔，那是它在进行招待客人的工作。阿舍鲁得自力更生，为自己挣点猫粮。"
+      },
+      "source_id": 122001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Наблюдения",
+        "en": "Chat: Observation",
+        "zh": "闲聊·观察"
+      },
+      "text": {
+        "ru": "Изучая мир, не слишком доверяйся зрению. Человек склонен замечать только то, что хочет. Не попадай в эту ловушку.",
+        "en": "Don't trust your eyes uncritically. People only see what they want to — so don't be your own fool.",
+        "zh": "观察事物时，别太依赖眼睛。人只爱看到自己想看的东西，别被自己骗了。"
+      },
+      "source_id": 122002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Чувства",
+        "en": "Chat: Emotions",
+        "zh": "闲聊·情绪"
+      },
+      "text": {
+        "ru": "Чувства подобны бурному потоку в человеческом разуме. Если попытаешься его остановить, упадёшь в пучину отчаяния, а если не будешь обращать на него внимания... он разорвёт тебя на части.",
+        "en": "Emotions are like a raging torrent that surges through the mind. More often than not, if you try to hold them back, you'll be swept away by their unstoppable force. And if you try to ignore them entirely... you'll end up tearing yourself to pieces.",
+        "zh": "情绪是奔流在人们脑海的怒涛，试图阻挡它的人，大多数都被卷入了内心的深渊之底。而试图忽视它的人，却总是被它把心灵摧残成一片狼藉。"
+      },
+      "source_id": 122003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Дар богов, милость небес.",
+        "en": "The blessings of the heavens do not fall impartially.",
+        "zh": "由天恩赐，也由天偏爱。"
+      },
+      "source_id": 122004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Очередная ложь раскрыта.",
+        "en": "Another liar exposed.",
+        "zh": "又有人的谎言被揭穿了。"
+      },
+      "source_id": 122005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Надо послушать, какие дурные вести он несёт...",
+        "en": "Sounds like more trouble is blowing in.",
+        "zh": "让我听听，风带来了什么坏消息。"
+      },
+      "source_id": 122006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Неприятное ощущение дежавю.",
+        "en": "A deja vu I could've done without.",
+        "zh": "让人不快的熟悉感。"
+      },
+      "source_id": 122007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! А ты ранняя пташка? Ягоде стоит поучиться у тебя.",
+        "en": "Morning. Ever the early bird, huh? Wish I could say the same for Jahoda...",
+        "zh": "早上好，你每天都这么勤快，雅珂达真应该向你学习。"
+      },
+      "source_id": 122008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "*зевает* Кажется, сегодня посетителей нет. Можно ещё вздремнуть.",
+        "en": "*yawn* There are never any clients at this time of day. Guess I'll go take a nap.",
+        "zh": "呼啊…没什么人来啊，先去午睡一会吧。"
+      },
+      "source_id": 122009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Так... Пора собираться. Я ненадолго отлучусь, чай готов, угощайся.",
+        "en": "Oh, look at the time... If you'll excuse me, there's somewhere I need to be. In the meantime, the tea should be ready — help yourself.",
+        "zh": "嗯…差不多是时候了，我要出门一趟，茶已经泡好了，你自己倒。"
+      },
+      "source_id": 122010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Пора бы уже спать. Задёрни плотнее шторы, чтобы луна не подглядывала.",
+        "en": "It's almost bedtime. Pull those curtains nice and tight, now — the moon is always watching.",
+        "zh": "差不多是睡觉时间了，拉好窗帘，别被月亮偷看了。"
+      },
+      "source_id": 122011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Нефер: Тайны Куратория",
+        "en": "About Nefer: Secrets of the Curatorium",
+        "zh": "关于奈芙尔自己·秘中之秘"
+      },
+      "text": {
+        "ru": "Кураторий тайн предоставляет... скажем так, спектр самых разных услуг. Обычные клиенты просят нас найти пропавшую кошку, прогнать собаку, разыскать человека или вернуть долг - но такими мелочами я редко занимаюсь сама.",
+        "en": "What kind of work do we do at the Curatorium of Secrets? Well, most clients seem to think that we're in the business of rescuing cats, chasing off dogs, and collecting debts... But personally, I don't tend to get involved in menial errands like that.",
+        "zh": "「秘闻馆」的工作是什么？普通的客人会拜托我们去抓猫赶狗，寻人追债，但这些事一般也轮不到我出面。"
+      },
+      "source_id": 122012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Нефер: Кураторий тайн",
+        "en": "About Nefer: The Curatorium of Secrets",
+        "zh": "关于奈芙尔自己·秘闻馆"
+      },
+      "text": {
+        "ru": "Двери Куратория открыты для всех, но лишь тем, у кого есть «ключ», дан доступ в святая святых - в Северную разведсеть. А вот что вы оттуда унесёте: блестящие подделки или настоящие драгоценности... зависит только от ваших собственных способностей.",
+        "en": "The Curatorium's doors are open to all, but only those with a \"key\" are granted access to the inner sanctum that is the Northern Intelligence Network. But whether they walk away with fool's gold or the real deal... Well, that depends entirely on their own abilities.",
+        "zh": "只有当握有「钥匙」的客人来访时，「秘闻馆」里那扇有关「北大陆情报网」的大门，才会单独为他敞开。在大门后，既有光辉烁烁的黄铁，也有暗淡失色的金杯…到底能拿走哪一个，就得看来客自己的本事了。"
+      },
+      "source_id": 122013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Родной дом",
+        "en": "About Us: Homeland",
+        "zh": "关于我们·故乡"
+      },
+      "text": {
+        "ru": "Обычно люди вспоминают «родной дом» с ностальгией. Но в моём прошлом нет ничего, что стоило бы вспоминать, - лишь будущее пока заслуживает того, чтобы бросить на него беглый взгляд.",
+        "en": "When people talk of their \"homeland,\" they often speak with great nostalgia. But there is nothing in my past to remember fondly. If there is a glimmer of hope to be found, it lies in what has yet to come...",
+        "zh": "人在念及「故乡」的时候，往往是在怀念自己的过去。但我的过去没什么好怀念的，只有未来尚且值得我略作展望。"
+      },
+      "source_id": 122014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Мысли",
+        "en": "About Us: Inner Thoughts",
+        "zh": "关于我们·心思"
+      },
+      "text": {
+        "ru": "Обычные люди не умеют скрывать свои эмоции - стоит лишь внимательно понаблюдать за изменением выражений их лиц, и ты проникнешь в их мысли. А если не получается? Тогда пригодится сила, дарованная мне Тотом... Шучу. До сих пор я ещё не встречала человека, которого не смогла бы разгадать.",
+        "en": "Most people are incapable of hiding their true feelings. As long as I watch their faces closely, I can see right through them. And when I can't? That's when Thoth's little blessing comes in handy... Hah, just kidding. To this day, I've never met anyone I couldn't read like a book.",
+        "zh": "普通人并不会掩藏自己的情绪，只要仔细观察表情变化，就能窥破他们的心思。要是看不穿怎么办？那图特赐予我的力量就有用处了…开玩笑的，到现在为止，我还没遇见过看不穿的人。"
+      },
+      "source_id": 122015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О Лунном колесе...",
+        "en": "About the Moon Wheel",
+        "zh": "关于「月之轮」…"
+      },
+      "text": {
+        "ru": "Связь Тота с Луной, видимо, и даровала мне Лунное колесо. Однако вместо «внимания божества» я чувствую, будто за мной следит старый обманщик. Никаких доказательств у меня нет, но... ирония в том, что хорошие лжецы всегда ждут обмана от других.",
+        "en": "Maybe there really is some mysterious link between Thoth and the moon, and that's why I ended up with this thing. But I wouldn't exactly say it feels like \"the gaze of the gods\" — more like the gaze of that old trickster, watching my every step from behind. Not that I have any proof, of course, but... Heh, I guess a good liar is always afraid of being lied to themselves.",
+        "zh": "或许是由于图特和「月亮」之间也有些关联，让我获得了这枚「月之轮」。但比起什么「神明的注视」，这枚「月之轮」总让我感觉是那个老骗子在背后盯着我，虽然明知道没什么根据，呵，但善骗者总是担心自己亦被欺骗。"
+      },
+      "source_id": 122016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "В Академии меня зачислили в даршан Вахумана, который занимается изучением истории и социологии. В то время считалось, что весь смысл существования выходцев из пустыни сводится к тому, чтобы записать историю своего племени, тем самым подарив людям материал для поучительных историй и светских бесед. Может, кто-то и обронил слезу сострадания к нам, убогим... но помощи от них ждать не приходилось, только слёзы.",
+        "en": "Back when I was at the Akademiya, I belonged to the Vahumana Darshan, which specializes in social studies and historical research. Back then, we desert-dwellers had only one purpose in the Akademiya's eyes: to record our tragic history as material for cautionary tales and polite conversation. Perhaps a few of them would even shed a few noble tears of pity for us poor souls... though, of course, they'd never actually lift a finger to help us.",
+        "zh": "我在教令院学习时，所属的学派是「因论派」。就是研究历史和社会的那一派，在彼时的教令院眼里，我们沙漠人唯一的意义就是把自己的历史写下来，为人们提供教训与谈资，或许还有人会为我们这群倒霉蛋流下几滴高贵的同情泪水…即使他们除了垂泪之外，什么都不会为我们做。"
+      },
+      "source_id": 122017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Пустыня скрывает немало источников влаги: сок, добытый из стеблей, вода из глубин прохладного песка... Но избегай звериной крови - она не утолит жажду, а лишь облепит рот и глотку липкой плёнкой, которую не снять ни языком, ни пальцами.",
+        "en": "There are actually plenty of things to drink in the desert — like the moisture from plant roots, or water from damp sand, deep underground. But whatever you do, don't go drinking animal blood. It'll only make you thirstier, and it coats your throat like glue, making it impossible to spit out or swallow.",
+        "zh": "沙漠中其实有许多能够饮用的东西，比如植物根茎里的汁液，深处的潮湿沙子里挤出来的水分…但是，别轻易喝动物的血，这么做只会让你越喝越渴，而且那些没咽下去的血会黏在你的嘴和喉咙里，吐不出来，也舔不下去。"
+      },
+      "source_id": 122018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Лауме...",
+        "en": "About Lauma",
+        "zh": "关于菈乌玛…"
+      },
+      "text": {
+        "ru": "Наша милосердная и непорочная госпожа Голос Лунного Гимна, она столь полна сострадания, доброты и нежности, что каждому хочется быть к ней ближе. Даже звери, проходя мимо, жаждут прикоснуться к её руке. Но помни об осторожности и не подходи слишком близко к Лауме, иначе рано или поздно окажешься среди её обращённых последователей.\nВсё ясно. Она уже тебя обратила.",
+        "en": "Our pure and merciful Lady Moonchanter... So kind, so gentle, and full of compassion for all. It's no wonder that people are drawn to her. Even the local wildlife can't help but nuzzle up against her hand as they walk by... But don't get too close, or you might just wake up one day to find she's charmed you into embracing a whole new religion...\nOh, I see... She's won you over already, hasn't she?",
+        "zh": "咱们慈悲又圣洁的「咏月使」大人，时时刻刻心怀悲悯，温柔善良，是个多么让人想要亲近的人呐，就连动物路过她身边，都想跑过去蹭蹭她的手，你可要小心，别太靠近菈乌玛，不然说不定哪天就被她感化成信徒了。\n啊，你不会已经是了吧？"
+      },
+      "source_id": 122019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Флинсе...",
+        "en": "About Flins",
+        "zh": "关于菲林斯…"
+      },
+      "text": {
+        "ru": "Говорят, учтивость - лучший щит против чужаков. Господин Флинс возвёл этот принцип в абсолют, выковав себе идеальные доспехи из «этикета». Но ты не подумай, я его друг, я умею читать между строк и играть по правилам. Мне всё равно, кто он: ратник или альв, уроженец Нод-Края или выходец из Снежной. Мы прежде всего друзья, а дружба держится на доверии.",
+        "en": "It is often said that politeness is the most effective means of keeping strangers at bay. I guess that makes Mr. Flins a master of the art of social distancing. He wears his etiquette like a suit of shining armor — impeccable, impenetrable, hiding whatever lies beneath. Don't get me wrong, I pride myself on being a tactful friend, and I know how to smile and play along. But whether Mr. Flins is a Lightkeeper or a fae, from Nod-Krai or Snezhnaya, it makes no difference to me. First and foremost, we are friends, and the foundation of friendship... is trust.",
+        "zh": "常言总说，礼貌是对陌生人最好的拒止手段。在这一点上，菲林斯先生显然做得很好，他用「礼节」为自己编出了一个漂亮且无可指摘的伪装。别误会，我是一个很识趣的朋友，很擅长捧场。无论菲林斯先生是执灯士还是妖精，是生于挪德卡莱还是来自至冬，我都并不在意。在一切事情之前，我们首先是朋友，而朋友之间最重要的，就是信任。"
+      },
+      "source_id": 122020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Ягоде...",
+        "en": "About Jahoda",
+        "zh": "关于雅珂达…"
+      },
+      "text": {
+        "ru": "Ягода - самый способный и ценный сотрудник в Куратории тайн. Без неё дело точно остановится. В ней есть грубость и заносчивость, но она очень храбрая и добрая девочка. Возможно, со стороны она кажется незрелой, но я считаю, что это скорее достоинство. Ведь следующий этап после «зрелости» - это «увядание». Ха-ха, а я рассчитываю, что она послужит мне верой и правдой ещё несколько лет.",
+        "en": "Jahoda is the most capable — and frankly, the most valuable — of the Curatorium's employees. Without her, the whole place would surely grind to a halt. Yes, she can be reckless and proud, but she is also brave and kind. Some might call her immature, but I see that as a blessing. After all, once you've reached maturity in life, it's all downhill from there... heh, and I'm counting on her to run my errands for a few years yet.",
+        "zh": "我们「秘闻馆」最能干，也是最重要的员工，要是离了雅珂达，这「秘闻馆」非停转了不可。她鲁莽又骄傲，但也勇敢且善良，或许在旁人看来，她是个不成熟的年轻人，但我觉得不成熟反而是件好事。毕竟，「成熟」的下一步就是「凋落」了。呵呵，我还指望着她多给我跑几年腿呢。"
+      },
+      "source_id": 122021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "Об Айно...",
+        "en": "About Aino",
+        "zh": "关于爱诺…"
+      },
+      "text": {
+        "ru": "Она сделала для Ягоды отличный протез, правда, и стоил он немало. Не беспокойся - я уже оплатила все расходы на его изготовление и обслуживание. Ягода - мой самый ценный сотрудник, так что я даже освободила её от уплаты процентов.",
+        "en": "The robotic arm she made for Jahoda works surprisingly well, though it certainly didn't come cheap. Relax — I covered the manufacture and maintenance costs up front. Jahoda is my most valuable employee, after all — I'm not even charging interest on the repayments.",
+        "zh": "她给雅珂达做的那副手臂挺好用的，就是价格不菲。噢，放心，制作费用和保养费我都已经垫付了。雅珂达是我最重要的员工，这些钱我就给她免除利息了。"
+      },
+      "source_id": 122022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Дэхье...",
+        "en": "About Dehya",
+        "zh": "关于迪希雅…"
+      },
+      "text": {
+        "ru": "Слухи о добросердечной Пламенной Гриве дошли до меня давно. Не каждый день встречаешь наёмников, готовых потратить такие деньги на воспитание ребёнка. Кроме того, говорят, сила в её перчатках связана с царём Дешретом? Вот как устроена пустыня Сумеру: на поверхности всё кажется несвязанным, но невидимые нити тайно сплетаются воедино, и вот однажды, когда люди меньше всего этого ожидают, запутанная паутина вырывается наружу.\nНо хорошо, что Дэхья нашла себе место под солнцем. Я слышала, она устроилась телохранителем в обычную состоятельную семью.",
+        "en": "Word of the kind-hearted Flame-Mane reached my ears long ago. It's not every day you hear of mercenaries willing to spend that kind of money on raising a child... And if the rumors are true, the power in her gauntlets has some ties to King Deshret, too... That's life in the desert of Sumeru for you. Things that seem completely unrelated turn out to be connected by unseen threads — and then one day, when people least expect it, the tangled web of complexity bursts out into the open.\nAnyway, it sounds like Dehya's done pretty well for herself. I hear she managed to get hired by a nice wealthy family.",
+        "zh": "我早就听说过好心的「炽鬃之狮」的名号，愿意付那么多钱照顾孩子的佣兵可不多见。另外，听说她手铠中的力量也和赤王有些瓜葛？瞧瞧，须弥沙漠的事就是这样，虽然表面上看毫无联系，但总有些看不见的脉络在暗地里勾连串结，直到时机到来，它们才彼此纠结着挤出地面，给大家一个「惊喜」。\n不过，雇佣迪希雅小姐干活的老板，是一个普通的富贵人家，这倒是个好消息。"
+      },
+      "source_id": 122023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кандакии...",
+        "en": "About Candace",
+        "zh": "关于坎蒂丝…"
+      },
+      "text": {
+        "ru": "Кандакию можно назвать моей старой знакомой. Мы встретились, когда я оказалась в деревне Аару. Она была одной из немногих детей, которые соглашались со мной разговаривать. Мы вместе отгоняли диких зверей, отражали набеги разбойников, помогали попавшим в беду... Возможно, это и есть то, что зовётся «дружбой».",
+        "en": "Candace and I go way back. We met when I first arrived at Aaru Village after losing my home. She was one of the few children willing to talk to me. We did all sorts of things together — drove off wild beasts, fought off bandits, cared for those in hardship... If that's not \"friendship,\" I'm not sure what is.",
+        "zh": "坎蒂丝算是我的旧识了，当初我流落到阿如村时，就和她见过面，在当时的村里，她是为数不多愿意和我说话的小孩。我们一起驱赶过野兽，击退过盗贼，照顾过落难者…或许，这能算是「朋友」了。"
+      },
+      "source_id": 122024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Сайно...",
+        "en": "About Cyno",
+        "zh": "关于赛诺…"
+      },
+      "text": {
+        "ru": "Германубис оказался проницательным - он нашёл человека с поистине безграничным чувством ответственности для своей работы. Вот только участи генерала махаматры не позавидуешь: на него давит не только контроль со стороны Академии, но и пристальное внимание неутомимого «большого босса». Интересно, как он вообще расслабляется при такой нагрузке?",
+        "en": "You've got to hand it to Hermanubis — he's a good judge of character. He managed to recruited someone with a very solid work ethic to do his bidding. And the General Mahamatra certainly has his work cut out for him... the Akademiya breathing down his neck on the one hand, and a tireless \"boss\" watching his every move on the other... I honestly wonder how he ever manages to unwind.",
+        "zh": "赫曼努比斯看人真够准的，居然能找到这么一位责任心大过天的人给自己干活。不过，倒是也苦了这位「大风纪官」了，不仅被教令院督着工，背后还有这么一位勤勉的「大老板」时刻盯着，也不知道他平时是用什么方法放松精神的。"
+      },
+      "source_id": 122025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Дори...",
+        "en": "About Dori",
+        "zh": "关于多莉…"
+      },
+      "text": {
+        "ru": "Госпожа Сангема-бай - мой постоянный деловой партнёр. Она не только приносит мне мору, но и рассказывает новости о Сумеру: о бедняжке, которая лунатит в библиотеке, о девочке, исцелившейся от элеазара, о возросшей популярности даршана Вахумана и о многом другом... Кажется, в Академию наконец вернулась жизнь. Что ж, рада за них.",
+        "en": "Lord Sangemah Bay is a regular business partner of mine. Besides Mora, she also brings me news from Sumeru — of insomniac students sleepwalking through the library, poor souls cured of Eleazar, and a Vahumana Darshan now bustling with people and showing great promise... From the sounds of it, the Akademiya is finally beginning to show some signs of life. How very heartwarming.",
+        "zh": "桑歌玛哈巴依老爷经常和我做生意。她在给我带来摩拉的同时，也会给我捎来一些须弥的消息。比如在图书馆里梦游的倒霉学生，从魔鳞病里解脱的小可怜，还有如今人丁兴旺，未来可期的因论派…看来，教令院里也难得热闹起来了，真是可喜可贺啊。"
+      },
+      "source_id": 122026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克…"
+      },
+      "text": {
+        "ru": "Господин Дилюк Рагнвиндр - мой ключевой осведомитель в Мондштадте. Я зову его «Сова». Как именно мы познакомились и договорились о сотрудничестве, я не стану рассказывать из уважения к приватности господина Дилюка. Однако работать с ним невероятно приятно - по крайней мере... он платит вовремя.",
+        "en": "Master Diluc Ragnvindr is a key informant of mine in Mondstadt. I generally refer to him by the codename \"Owl.\" As for how we met and came to work together... Well, out of consideration for his privacy, I won't go into the details. What I can say is this: working with Master Diluc is always a pleasure. At the very least... he pays promptly.",
+        "zh": "迪卢克·莱艮芬德老爷是我在蒙德城重要的线人，我对他的呼号是「夜枭」。我们具体如何结识，又是如何达成合作的，出于对迪卢克老爷隐私的考量，我就不和你细说了。不过，和迪卢克老爷合作是一件非常愉快的事，至少…他付钱的时候非常爽快。"
+      },
+      "source_id": 122027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Е Лань...",
+        "en": "About Yelan",
+        "zh": "关于夜兰…"
+      },
+      "text": {
+        "ru": "Госпожа Е Лань, пожалуй, является важнейшим клиентом нашего Куратория тайн... точнее, Северной разведсети. Когда она покупает сведения, то всегда расплачивается наличными единовременно - не оставляя мне ни малейшего шанса для торговли «в долг». Даже за самую ценную и запретную информацию она без колебаний выкладывает вдвое или втрое больше моры, пока её щедрость не заставляет меня капитулировать и передать ей всё, что она желает.\nВ Ли Юэ всегда платят щедро. Хорошо иметь такие возможности...",
+        "en": "Miss Yelan is one of the Curatorium's... No, make that the entire Northern Intelligence Network's most valued clients. Whenever she comes looking for intel, she pays up front, in cash, and in full. She never leaves me even the slightest room to cash in a favor in the future — even with the most sensitive intel, which I don't give out easily. She'll throw down twice, even three times the asking price without flinching... until I finally cave in and hand it over.\nPeople from Liyue Harbor sure know how to spend, I'll give them that. Must be nice having that kind of money...",
+        "zh": "夜兰小姐也算是我们「秘闻馆」…啊不，「北大陆情报网」的大贵客了，她来购买情报的时候，从来都是一次性用现金全部付清款项，一点卖人情的余地都不留给我。就算是那些不能轻易卖出的贵重情报，她也会眼睛都不眨地砸下两倍三倍的摩拉，直到用钱砸到我认输，把情报卖给她为止。\n璃月港的人，出手就是阔绰，有钱真好啊…"
+      },
+      "source_id": 122028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Нефер I",
+        "en": "More About Nefer: I",
+        "zh": "想要了解奈芙尔·其一"
+      },
+      "text": {
+        "ru": "Как видишь, я хозяйка Куратория тайн. Помогаю людям решать проблемы, с которыми они не могут или не хотят разобраться сами. К счастью (или к несчастью), в Нод-Крае всегда хватает таких проблем, так что мой доход позволяет не голодать.",
+        "en": "As you're no doubt aware, I'm the one in charge of the Curatorium of Secrets. My job? Solving problems that other people can't — or won't — deal with themselves. And for better or worse, there's plenty of those people around in Nod-Krai... So, I don't think I'll be going hungry any time soon.",
+        "zh": "如你所见，我是「秘闻馆」的老板，帮人们处理一些他们不知道如何处理，或是不方便自己处理的问题。幸运——或者不幸——的是，挪德卡莱有很多问题需要解决，所以我的收入尚可，饿不着肚子。"
+      },
+      "source_id": 122029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Нефер II",
+        "en": "More About Nefer: II",
+        "zh": "想要了解奈芙尔·其二"
+      },
+      "text": {
+        "ru": "В Нод-Крае собрались самые разные люди: амбициозные искатели приключений, беззаконные безумцы, преступники, живущие в вечном страхе, и скитальцы, потерявшие кров... Все эти мечтатели горят жаждой разбогатеть и возвыситься на этой земле без правил и законов. А я? Хотела бы я жить в погоне за мечтой? Ха-ха, нет - я не стану заниматься бизнесом с высокими рисками и мизерной отдачей. Вместо «погони за мечтой» я предпочитаю помогать другим преследовать их мечты.\nПусть мечты эфемерны, зато люди, которые их преследуют, вполне реальны... и более чем готовы платить за свои мечты.",
+        "en": "Nod-Krai draws in all sorts — ambitious adventurers, lawless rogues, wanted criminals, and drifters with nowhere else left to go. They all come chasing dreams, eyes bright with aspiration, hoping to strike it rich or make a name for themselves in this anarchist's paradise. Me, you ask? Haha... Chasing your dreams is a high-risk, low-return venture — not my style at all. I'd rather help others chase theirs\nAfter all, dreams are illusory and fleeting — but the dreamers themselves? They're real as real can be. And more than willing to pay for a little help.",
+        "zh": "挪德卡莱聚集着各色人等，有志向远大的冒险家、无法无天的狂徒、惶惶不可终日的罪人，还有失去家园，无处容身的流浪者…这些追逐着梦想的人都目光炯炯，指望在这片无法之地里发家致富，出人头地。我也想追梦？哈哈哈，我可不会做这种风险大，回报低的生意。比起「追梦」，我更愿意「帮助人追梦」。\n毕竟，梦想虽然虚无缥缈，但追梦的人们却是真实存在…而且很愿意为自己的梦想付钱的。"
+      },
+      "source_id": 122030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Нефер III",
+        "en": "More About Nefer: III",
+        "zh": "想要了解奈芙尔·其三"
+      },
+      "text": {
+        "ru": "Я не считаю Сумеру своим домом. Эта страна никогда не дарила мне тепла или нежности, лишь вложила в мою руку клинок и поставила перед выбором: сражайся или умри. Но зато у меня была возможность самой проложить себе дорогу вперёд.\nГоворят, в Сумеру теперь всё иначе? Надо бы туда наведаться... Даже любопытно, в царстве уныния под названием Академия стало с тех пор хоть немного интересней?",
+        "en": "I don't regard Sumeru as my \"homeland.\" It never offered me warmth or tenderness, just shoved a blade in my hand and left me to fight or die. Still, at least I had the chance to carve out my own path.\nThey say that the winds of change are blowing in Sumeru. Perhaps I ought to see what all the fuss is about — though I find it hard to imagine that the Akademiya is any less dull than it used to be...",
+        "zh": "在我看来，须弥不是我的「故乡」。它没给过我任何怜悯和温情，只是把刀塞到我手里，让我自生自灭。还好，它至少给了我一柄刀，让我有能力为自己扒拉出一条生路。\n如今的须弥不一样了？那说不定我也该回去看看了。原先那个无趣的教令院，会变得有趣起来吗？"
+      },
+      "source_id": 122031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Нефер IV",
+        "en": "More About Nefer: IV",
+        "zh": "想要了解奈芙尔·其四"
+      },
+      "text": {
+        "ru": "Как по мне, дом - это убежище, где можно спать без тревог и забыть о тяготах. Там хранятся нежные воспоминания, там ждут надёжные друзья и родные, которые примут тебя даже после долгих лет разлуки. Это место, где ты восполняешь ресурсы и набираешься мужества, чтобы с новыми силами двигаться вперёд.\nРасскажи мне о своём доме?",
+        "en": "The way I see it, a person's \"hometown\" should be somewhere they can sleep soundly and breathe easy, free from fears and burdens... A place full of warm memories, old friends, and family, who welcome you back with open arms no matter how long you've been away. Somewhere you can stop to rest and gather your strength before setting out once more to face whatever the future holds.\nTell me, is that what your hometown is like?",
+        "zh": "所谓「故乡」，我想应该是一处能够让人安睡歇息，远离恐惧和劳碌的地方。在「故乡」里，你有着温柔美好的回忆，感情坚实的旧友，还有虽然你久未归乡，但仍对你无条件敞开怀抱的家人，你在这里稍作休憩，重新给心胸填满勇气和志向，然后再整装出发，迈向远大的未来…\n你的故乡，是这样的么？"
+      },
+      "source_id": 122032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Нефер V",
+        "en": "More About Nefer: V",
+        "zh": "想要了解奈芙尔·其五"
+      },
+      "text": {
+        "ru": "Не думаю, что когда-нибудь найду место, которое смогу назвать настоящим домом, где я почувствую настоящий покой. По моему опыту, любая связь, которую я строю, рано или поздно обрывается. Может быть, это цена, которую я плачу за то, что приняла подарок от обманщика? Ни ты, ни Ягода, ни Ашру, ни даже Нод-Край... никто не избежит этой участи.\n...Ты будешь часто навещать меня? И поддерживать связь? Пусть даже и в переписке?\nХа-ха-ха! Ты хочешь бросить вызов проклятию пустыни таким способом? Звучит наивно... но мне это нравится. Что ж, буду ждать твоих писем - надеюсь, переписка с тобой не оборвётся внезапно.",
+        "en": "I don't expect I'll ever find somewhere to truly call home, where I genuinely feel at peace. In my experience, every connection I ever make seems to get torn away eventually. Maybe that's just the price of accepting a gift from a trickster, huh? In the end, it is a fate that nothing and no one will escape — not you, not Jahoda, not Ashru... not even Nod-Krai itself.\nYou'd still come to see me? Or at the very least, stay in touch?\nHah, you really think that'll be enough to break the desert's curse? A little naive, but sure, why not. I'll be expecting your letters... and hoping they don't suddenly stop coming.",
+        "zh": "我并不奢望能找到一处可以让我真心安歇的「故乡」，毕竟以我的经验来看，任何与我产生联系的事物，都会在某个契机之后，与我彻底割离。或许这也是接受骗子的礼物所需要付出的代价吧，无论是你、雅珂达、阿舍鲁，甚至是挪德卡莱，都逃不开这个结局。\n…你会常常来看我？还会和我保持联系，至少会经常写信？\n哈哈哈哈哈，你想用这种方法挑战沙漠的诅咒吗？虽然听着有点笨，但我不讨厌，那我就期待着你的信件了，希望它不会突然中断。"
+      },
+      "source_id": 122033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Хобби Нефер...",
+        "en": "Nefer's Hobbies",
+        "zh": "奈芙尔的爱好…"
+      },
+      "text": {
+        "ru": "Я иногда наблюдаю за людьми из окна, просто анализируя их мысли и поступки. Это своеобразная тренировка для ума - если будет время, попробуй, потом не оторвёшься. К тому же, если друг или клиент появится в подходящий момент, ты сможешь блеснуть: скажем, угадать профессию незнакомца или его проблему. Это гарантированно вызовет у них восторг или уважение к твоей проницательности.",
+        "en": "Every now and then, I watch people from my window and try to deduce what they're thinking or where they might be headed. You should try it sometime — it's good mental training, and actually surprisingly entertaining. Plus, if a friend or client happens to visit at the right moment, you can casually mention what that person outside does for a living, or what's been weighing on their mind lately. They'll either be thoroughly stunned... or thoroughly impressed.",
+        "zh": "我偶尔在窗边观察人群，单纯用思维推理某个人的想法和动向。这是一种有趣的思想训练，有空的时候你也可以试试，挺有趣的。而且，如果朋友或客人登门的时机恰当，你就可以顺便告诉他窗外的某个人是何职业，被何事所困恼，这一定能让你的朋友大吃一惊，或者让客户高看你一眼。"
+      },
+      "source_id": 122034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Беспокойство Нефер...",
+        "en": "Nefer's Troubles",
+        "zh": "奈芙尔的烦恼…"
+      },
+      "text": {
+        "ru": "Ответ для Тота всё ещё ускользает от меня, а быть пешкой в чужих (пусть даже божественных) руках - сомнительное удовольствие. Царь ибисов счёл мой ответ весьма остроумным, но «верный ответ», который искал царь Дешрет, был другим. Но вот что интересно: если я однажды найду верный ответ, этот плут получит свободу - а я не намерена одаривать его таким сокровищем... Парадокс, не правда ли?",
+        "en": "I still haven't found the answer Thoth needs, and I must say — being led around by someone else, mortal or divine, is not a particularly pleasant experience. The Ibis King seemed to find my response amusing enough, it's just a shame that it wasn't the \"correct\" answer King Deshret was looking for. Then again, if I ever do find it, Thoth will be set free... and frankly, I'm not too keen on the idea of handing over such a precious gift on a silver platter, least of all to that old swindler. So there it is... a classic lose-lose situation.",
+        "zh": "我尚未找到图特所需要的答案，被人…或者神明牵着走的感觉并不是那么好受。虽然鹮之王认为我的回答足够有趣，但很遗憾，那并非赤王所承认的「正确」。不过转念一想，假若我找到了正确的答案，那图特就会获得自由，我可不想把这么宝贵的礼物奉给这个老骗子…你瞧，一个糟糕的两难选择。"
+      },
+      "source_id": 122035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "У меня нет особенных предпочтений в еде, но я всегда пью много воды. Тебе тоже стоит последовать этому правилу - вода полезна для организма. Почему я пью именно воду? Всего лишь старая привычка, корнями уходящая в... не самые светлые дни.",
+        "en": "I don't really have any strong food preferences, but I am in the habit of drinking a lot of water. You should, too — it's good for you. Why water? Oh, just an old habit... born from less-than-pleasant experiences.",
+        "zh": "我对食物并没有太大的偏爱。不过，大量饮水倒是我的一个习惯，你也多喝点水，对身体好。为什么是水？只是个不值一提的习惯，源于我不那么愉快的过去。"
+      },
+      "source_id": 122036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я не привередлива в еде, но терпеть не могу есть сырое и ещё разные деликатесы из крови животных. Мне больше по душе безопасная пища.",
+        "en": "I'm not picky when it comes to food, but I do prefer it to be fully cooked. It just feels safer, that's all. As long as it's not raw or made with animal blood, I'm good.",
+        "zh": "我没有特别讨厌的食物，只要别让我吃生食，或者动物血液制品就好，我更愿意吃安全的全熟食物。"
+      },
+      "source_id": 122037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Превосходное блюдо, я серьёзно! Не хочешь стать шеф-поваром в Куратории тайн и разнообразить наше меню? Жалованием мы тебя не обидим.",
+        "en": "Well, color me impressed... Ever thought about getting a day job? The Curatorium could use a chef like you. We'd pay top Mora for it, too.",
+        "zh": "这道菜色还真不错，有考虑来「秘闻馆」做厨师，改善改善我们的伙食吗？待遇从优。"
+      },
+      "source_id": 122038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Неплохо. Я не подозревала, что ты ещё и готовить умеешь.",
+        "en": "Not bad, not bad at all... Didn't peg you for a cook.",
+        "zh": "吃起来还挺不错的，没想到你还有这手艺。"
+      },
+      "source_id": 122039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Гм. Вкус... неординарный. Надо оставить Ягоде попробовать.",
+        "en": "Hmm. Well, it certainly has a... distinctive flavor... I'll see what Jahoda thinks of it later.",
+        "zh": "嗯，让人印象深刻的味道…待会让雅珂达尝尝。"
+      },
+      "source_id": 122040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Я не умею выбирать подарки. Давай я задам тебе три вопроса, и если ты ответишь верно, то я... А, не хмурься, это шутка. Держи вот эту книгу - в ней собраны легенды и сказки пустынного народа. Один из самых полных сборников. На этих сказках выросли поколения обитателей песков. Почитай внимательно: кто знает, возможно, после чтения и ты станешь настоящим жителем пустыни.",
+        "en": "I'm not the best at picking gifts, so how about this: I'll pose three questions to you, and if you find the correct answers, I'll... Relax, that was meant to be a joke. Here, take this book. It's a collection of desert folklore and fairy tales — some of the most complete versions that exist. Generations of desert-dwellers have grown up hearing them, then passed them on themselves. Who knows? Once you've finished reading them, perhaps you'll be able to thrive in the desert too.",
+        "zh": "我不太会给人挑选礼物，这样吧，不如我也给你出三个问题，只要你找到了正确答案，我就可以…别皱眉，我只是开个玩笑。喏，拿着这本书，里面记载着流传在沙漠人之中的民俗传说和童话，这几篇算是相对完整的故事了。这些故事可是教育了一代又一代的沙漠人，好好看吧，说不定读完之后，你也可以成为一个优秀的沙漠人呢。"
+      },
+      "source_id": 122041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Ха, интересно.",
+        "en": "Huh, interesting.",
+        "zh": "呵，原来如此。"
+      },
+      "source_id": 122042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Крупицы правды... Сущая мелочь.",
+        "en": "A grain of truth... but a mere drop in the ocean.",
+        "zh": "些许真相…微不足道。"
+      },
+      "source_id": 122043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Ещё один путь к истине.",
+        "en": "Another path to the truth opens before me.",
+        "zh": "又一条通向真理的路径。"
+      },
+      "source_id": 122044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Кажется, связь между нами не так просто разрушить, правда?",
+        "en": "It looks like the bond between us won't be broken so easily after all, wouldn't you say?",
+        "zh": "看来，我们两人之间的联系，并不会那么容易就被摧毁了，对么？"
+      },
+      "source_id": 122045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Всё ясно.",
+        "en": "It all adds up.",
+        "zh": "我看懂了。"
+      },
+      "source_id": 122046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Больше никакой лжи.",
+        "en": "No more lies.",
+        "zh": "别说谎。"
+      },
+      "source_id": 122047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Истина подобна тени.",
+        "en": "Can't hide the truth.",
+        "zh": "真言如影。"
+      },
+      "source_id": 122048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Вот оно как...",
+        "en": "It all falls into place.",
+        "zh": "原来如此。"
+      },
+      "source_id": 122049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Говори правду.",
+        "en": "Time to come clean.",
+        "zh": "说点真话。"
+      },
+      "source_id": 122050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Посмотрим, что ты скрываешь.",
+        "en": "Let's see what you're made of.",
+        "zh": "剖析时间。"
+      },
+      "source_id": 122051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Положим конец обману.",
+        "en": "The deception ends here.",
+        "zh": "欺谎的唤声。"
+      },
+      "source_id": 122052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Ответ таится внутри.",
+        "en": "Seek within.",
+        "zh": "索见诸心。"
+      },
+      "source_id": 122053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Тайна раскрыта.",
+        "en": "The mystery unravels.",
+        "zh": "如是观想，真谜具解。"
+      },
+      "source_id": 122054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Твоё любопытство вознаграждено... Бери всё, но не теряй бдительность.",
+        "en": "This time, your curiosity paid off... But don't get careless.",
+        "zh": "对你好奇心的嘉奖，都拿着吧，但还是得留点心。"
+      },
+      "source_id": 122055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Хм... Это не ловушка. Нам повезло.",
+        "en": "Hmm... We got lucky. It could have been a trap.",
+        "zh": "嗯…并不是陷阱，我们的运气不错。"
+      },
+      "source_id": 122056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Ценная находка... Бери себе. Не бойся, других свидетелей тут нет.",
+        "en": "That looks like it's worth a pretty sum... Relax, your secret's safe with me.",
+        "zh": "好东西，能值不少钱，收着吧，除了我没人看见。"
+      },
+      "source_id": 122057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Что за недоразумение.",
+        "en": "How farcical.",
+        "zh": "一场闹剧。"
+      },
+      "source_id": 122058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Пора закругляться.",
+        "en": "I better wrap this up.",
+        "zh": "该收场了。"
+      },
+      "source_id": 122059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Как нелепо.",
+        "en": "What a joke.",
+        "zh": "真可笑。"
+      },
+      "source_id": 122060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "У тебя что, семь жизней?",
+        "en": "Do you have a death wish?",
+        "zh": "你应该再惜命一点。"
+      },
+      "source_id": 122061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Не стоит так рисковать...",
+        "en": "Don't risk your neck for nothing...",
+        "zh": "白白送死不是个好习惯。"
+      },
+      "source_id": 122062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Песок... настигает меня...",
+        "en": "The sands of time got me...",
+        "zh": "黄沙…追上我了…"
+      },
+      "source_id": 122063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Загадка... осталась без решения...",
+        "en": "The riddle remains unsolved...",
+        "zh": "无解的…谜题…"
+      },
+      "source_id": 122064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Я знала... чем всё закончится...",
+        "en": "I saw this... coming...",
+        "zh": "能预见的…结局…"
+      },
+      "source_id": 122065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Какая досада.",
+        "en": "How unfortunate.",
+        "zh": "真不巧。"
+      },
+      "source_id": 122066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Получен лёгкий удар II",
+        "en": "Light Hit Taken: II",
+        "zh": "普通受击·其二"
+      },
+      "text": {
+        "ru": "Как невежливо.",
+        "en": "Shameless.",
+        "zh": "够无礼的。"
+      },
+      "source_id": 122067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Бред...",
+        "en": "Absurd...",
+        "zh": "荒唐。"
+      },
+      "source_id": 122068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Есть хорошие зацепки?",
+        "en": "Any promising leads?",
+        "zh": "有好生意？"
+      },
+      "source_id": 122069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Вознаграждение обсудим после.",
+        "en": "We'll discuss my fee afterwards.",
+        "zh": "任务结束再计费吧。"
+      },
+      "source_id": 122070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Тебе повезло. Мне как раз нечего делать.",
+        "en": "Lucky you. I have some time to kill.",
+        "zh": "就当做是打发时间。"
+      },
+      "source_id": 122071
+    }
+  ],
+  "replica_count": 72
 }

@@ -20,7 +20,10 @@
 # quest_series: Nightingale's Song
 # version_source: wiki_release_category
 
-# quest_series_ru: Песнь соловья
+# quest_series_ru: Соловьиная трель
+# game_source_ids: 76101
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 30
 
 ## RU
 
@@ -29,38 +32,6 @@
 Вы забрали Спиральный меч. Нужно скорее вернуться в Пирамиду.
 
 #### Отправляйтесь в Пирамиду
-
-**Иллуги:** Путешественник! Паймон!
-
-**Паймон:** Хе-хе, а вот и мы! Как тут оживлённо!
-
-**Иллуги:** За последнее время все здорово устали, и наконец, когда последствия почти устранены, у нас появилось время попировать.
-
-Ты тоже потрудился на славу!
-
-**Иллуги:** На самом деле, я не сделал ничего особенного. И потом, если бы не ваша помощь, даже в случае победы, боюсь, нам бы пришлось заплатить куда более высокую цену...
-
-**Паймон:** Мы же твои соратники! Все свои.
-
-**Иллуги:** Да, ты права. О, старик готов выступать.
-
-**Никита:** Товарищи по оружию, братья и сёстры, сегодня мы собрались здесь не просто для празднования, а чтобы отметить эту доставшуюся нам нелёгкой ценой победу.
-
-**Никита:** Поднимая кружки, вспомним о тех, кто уже никогда не сможет поднять их вместе с нами, - тех, кто ценой своей крови и плоти исполнил данную клятву.
-
-**Никита:** В этой битве исследовательский отряд «Соловьи Ночного Кошмара» под командованием Иллуги взял на себя самую сложную задачу...
-
-**Никита:** Особенное спасибо вам, Путешественник и Паймон. Несмотря на опасность, вы без колебаний присоединились к нам и сыграли неоценимую роль в операции.
-
-**Никита:** Они бесстрашно шли на жертвы, смело встречали трудности и проложили нам путь к победе через опасности.
-
-**Никита:** Их подвиги, как и подвиги всех тех, кто боролся за живых и за будущее, навсегда останутся в истории.
-
-**Никита:** Да, мы победили! Несмотря на огромную цену. Мы можем плакать, можем скорбеть, но не должны позволить горю сломить нас.
-
-**Никита:** Потому что будущее, за которое мы боролись, вот-вот наступит. И чтобы передать искру жизни, чтобы путеводный свет продолжал сиять, мы не должны опускать руки.
-
-**Никита:** Но сегодня давайте выпьем за победу, за наших храбрых и бессмертных товарищей и за будущее!
 
 #### Поговорите со Светоносцем
 
@@ -72,9 +43,15 @@
 
 **Паймон:** Паймон помнит, как он назвал себя обычным ратником...
 
+##### Вариант ответа 1
+
 - **Путешественник:** И правда...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Нет, он совсем не похож на обычного ратника.
+
+##### Общее продолжение
 
 **Иллуги:** Вот старик даёт! Эх, считайте, что он пошутил.
 
@@ -88,9 +65,15 @@
 
 **Паймон:** Паймон помнит, как он назвал себя обычным ратником...
 
+##### Вариант ответа 1
+
 - **Путешественник:** И правда...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Нет, он совсем не похож на обычного ратника.
+
+##### Общее продолжение
 
 **Иллуги:** Вот старик даёт! Эх, считайте, что он пошутил.
 
@@ -128,13 +111,19 @@
 
 **Никита:** Глупышка, вы уже давно видите её! Точнее сказать, мы находимся внутри Стрелы Терпикераунаса.
 
-- **Путешественник:** Что?
+##### Вариант ответа 1
 
-- **Путешественник:** Вы и меня запустите?
+- **Путешественник:** Что?
 
 **Паймон:** Н-неужели нас собираются запустить в... Это же невозможно!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Вы и меня запустите?
+
 **Паймон:** Так значит Путешественник - наше секретное оружие для финальной битвы?! Да ну, не может быть!
+
+##### Общее продолжение
 
 **Никита:** Этот Медовый зал был построен вокруг Стрелы Терпикераунаса, а Спиральный меч, который вы принесли, является её недостающим наконечником.
 
@@ -150,41 +139,37 @@
 
 **Никита:** Запуск Стрелы Терпикераунаса возлагается на вас.
 
+**Олаф:** Не задерживайтесь. Старшина ждёт вас в Медовом зале.
+
 #### Вставьте Спиральный меч
 
 **Никита:** Давай, вставь чудесный меч!
 
+#### Вставьте Спиральный меч
+
 #### Отправляйтесь на площадь
-
-**Иллуги:** Если бы только Бьорн был здесь...
-
-Он будет очень горд.
-
-**Иллуги:** Да. Через несколько дней навещу его снова, расскажу о последних событиях в городе, чтобы он не беспокоился.
 
 #### Активируйте усилитель
 
-**Роллон:** Путешественник, тебе понравились блюда на банкете?
+#### Победите чудовищ
 
-Хорошо бы такие пиры были каждый день...
+#### Активируйте усилитель
 
-**Роллон:** Каждый день? Это, пожалуй, слишком...
+#### Активируйте оставшиеся усилители
 
-Да я шучу!
+#### Победите чудовищ
 
-**Роллон:** Ха-ха, вот как? Впрочем, это можно понять. Надеюсь, впереди нас ждёт больше таких дней, достойных празднования.
+#### Победите чудовищ
+
+#### Активируйте оставшиеся усилители
+
+#### Активируйте оставшиеся усилители
 
 #### Отправляйтесь в рубку управления
 
-**Никита:** Вы хорошо потрудились, на сегодня можете отложить все обязанности и как следует отдохнуть.
-
 #### Отправляйтесь в рубку управления
-
-**Олаф:** Редкая возможность, с тех пор как старик назначил меня командиром отряда. Только в такие моменты есть шанс как следует пообщаться с братьями по оружию.
 
 #### Уничтожьте Яйцо бедствия
-
-**Олаф:** Не задерживайтесь. Старшина ждёт вас в Медовом зале.
 
 #### Поговорите с Иллуги
 
@@ -231,16 +216,75 @@
 
 После этого вы провели несколько дней в Пирамиде...
 
+#### Отправляйтесь в Медовый зал
+
+#### Поговорите с Иллуги
+
+**Иллуги:** Путешественник! Паймон!
+
+**Паймон:** Хе-хе, а вот и мы! Как тут оживлённо!
+
+**Иллуги:** За последнее время все здорово устали, и наконец, когда последствия почти устранены, у нас появилось время попировать.
+
+- **Путешественник:** Ты тоже потрудился на славу!
+
+**Иллуги:** На самом деле, я не сделал ничего особенного. И потом, если бы не ваша помощь, даже в случае победы, боюсь, нам бы пришлось заплатить куда более высокую цену...
+
+**Паймон:** Мы же твои соратники! Все свои.
+
+**Иллуги:** Да, ты права. О, старик готов выступать.
+
+**Никита:** Товарищи по оружию, братья и сёстры, сегодня мы собрались здесь не просто для празднования, а чтобы отметить эту доставшуюся нам нелёгкой ценой победу.
+
+**Никита:** Поднимая кружки, вспомним о тех, кто уже никогда не сможет поднять их вместе с нами, - тех, кто ценой своей крови и плоти исполнил данную клятву.
+
+**Никита:** В этой битве исследовательский отряд «Соловьи Ночного Кошмара» под командованием Иллуги взял на себя самую сложную задачу...
+
+**Никита:** Особенное спасибо вам, Путешественник и Паймон. Несмотря на опасность, вы без колебаний присоединились к нам и сыграли неоценимую роль в операции.
+
+**Никита:** Они бесстрашно шли на жертвы, смело встречали трудности и проложили нам путь к победе через опасности.
+
+**Никита:** Их подвиги, как и подвиги всех тех, кто боролся за живых и за будущее, навсегда останутся в истории.
+
+**Никита:** Да, мы победили! Несмотря на огромную цену. Мы можем плакать, можем скорбеть, но не должны позволить горю сломить нас.
+
+**Никита:** Потому что будущее, за которое мы боролись, вот-вот наступит. И чтобы передать искру жизни, чтобы путеводный свет продолжал сиять, мы не должны опускать руки.
+
+**Никита:** Но сегодня давайте выпьем за победу, за наших храбрых и бессмертных товарищей и за будущее!
+
+**Иллуги:** Если бы только Бьорн был здесь...
+
+- **Путешественник:** Он будет очень горд.
+
+**Иллуги:** Да. Через несколько дней навещу его снова, расскажу о последних событиях в городе, чтобы он не беспокоился.
 
 **Анлейв:** За здоровье, Путешественник!
 
-- **Путешественник:** До дна!
+##### Вариант ответа 1
 
-- **Путешественник:** Тебе не стоит так много пить!
+- **Путешественник:** До дна!
 
 Весело беседуя и выпивая со всеми, вы приятно провели время...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Тебе не стоит так много пить!
+
 **Анлейв:** Ха-ха, знаю, знаю!
+
+**Роллон:** Путешественник, тебе понравились блюда на банкете?
+
+- **Путешественник:** Хорошо бы такие пиры были каждый день...
+
+**Роллон:** Каждый день? Это, пожалуй, слишком...
+
+- **Путешественник:** Да я шучу!
+
+**Роллон:** Ха-ха, вот как? Впрочем, это можно понять. Надеюсь, впереди нас ждёт больше таких дней, достойных празднования.
+
+**Никита:** Вы хорошо потрудились, на сегодня можете отложить все обязанности и как следует отдохнуть.
+
+**Олаф:** Редкая возможность, с тех пор как старик назначил меня командиром отряда. Только в такие моменты есть шанс как следует пообщаться с братьями по оружию.
 
 ## EN
 
@@ -249,38 +293,6 @@
 The Spiralblade has been retrieved. You must return to Piramida without delay.
 
 #### Head to Piramida
-
-**Illuga:** Traveler, Paimon!
-
-**Paimon:** Hehe, looks like we're right on time! This place is absolutely buzzin'!
-
-**Illuga:** Everyone's been hard at work these past few days. Now that things have finally settled down, we were able to find a moment to bring everyone together.
-
-It couldn't have been easy for you either.
-
-**Illuga:** I only did what was expected of me. But... if you hadn't stepped in when you did, I imagine things might've ended very differently. We might've still won... but not without paying a steeper price.
-
-**Paimon:** Come on, we're in this together, aren't we? No need to be so serious!
-
-**Illuga:** Yeah, you're right. Oh, looks like Gramps is about to speak.
-
-**Nikita:** To all our comrades and kin — this isn't just a celebration. It's a moment to honor the struggle behind our triumph.
-
-**Nikita:** Let us not forget, while we toast this victory, those who gave everything to make it possible. With their blood, they fulfilled the vow we all once made.
-
-**Nikita:** During this battle, the "Nightmare Orioles" Investigation Squad, led by Illuga, took on what was perhaps the most perilous assignment of all.
-
-**Nikita:** Notably, Traveler and his / her companion stepped forward without hesitation in a time of crisis and stood with us, playing a vital role in the operation's success.
-
-**Nikita:** They braved every danger, pressed on through the storm, and carved a path to victory from the depths of despair.
-
-**Nikita:** The legacy of their deeds, and of all who fought for the living and those yet to come, will be written into history, never to fade.
-
-**Nikita:** Yes, we are victorious! That victory came at a heavy price, yes, and we may pause to mourn, to remember the fallen... but we must not be broken by grief.
-
-**Nikita:** The future we fought for is within reach, and we carry the fire of those who lit the way before us. Their light must keep shining, and so we must press on.
-
-**Nikita:** But today, let us raise our glasses: to victory, to the brave souls whose courage will never be forgotten, and to the future we vowed to protect.
 
 #### Talk to the Lightkeeper
 
@@ -292,9 +304,15 @@ It couldn't have been easy for you either.
 
 **Paimon:** Didn't he say he was just a regular Ratnik?
 
+##### Response branch 1
+
 - **Traveler:** Yeah...
 
+##### Response branch 2
+
 - **Traveler:** He didn't really seem like an ordinary Ratnik...
+
+##### Shared continuation
 
 **Illuga:** Ah, my old pops... He probably just meant it as a bit of fun.
 
@@ -308,9 +326,15 @@ It couldn't have been easy for you either.
 
 **Paimon:** Didn't he say he was just a regular Ratnik?
 
+##### Response branch 1
+
 - **Traveler:** Yeah...
 
+##### Response branch 2
+
 - **Traveler:** He didn't really seem like an ordinary Ratnik...
+
+##### Shared continuation
 
 **Illuga:** Ah, my old pops... He probably just meant it as a bit of fun.
 
@@ -348,13 +372,19 @@ You give a quick rundown of what happened...
 
 **Nikita:** You've seen it already, silly. In fact, we're inside it.
 
-- **Traveler:** What!?
+##### Response branch 1
 
-- **Traveler:** Am I to be shot out along with the arrow?
+- **Traveler:** What!?
 
 **Paimon:** Y—You're not about to fire us off with it or something... right? Right!?
 
+##### Response branch 2
+
+- **Traveler:** Am I to be shot out along with the arrow?
+
 **Paimon:** So Traveler really is our last-resort weapon! ... No, wait, that's gotta be a joke!
+
+##### Shared continuation
 
 **Nikita:** This great mead hall was built to house the Arrow of Terpikeraunas, and the Spiralblade you retrieved is the arrowhead it had long been missing.
 
@@ -370,41 +400,37 @@ You give a quick rundown of what happened...
 
 **Nikita:** The launching of the Arrow of Terpikeraunas is in your hands.
 
+**Olav:** Stop dallying. The Starshyna is waiting for you at the great mead hall.
+
 #### Load the Spiralblade
 
 **Nikita:** Go now. Get the sacred blade in place.
 
+#### Load the Spiralblade
+
 #### Go to the plaza
-
-**Illuga:** I just wish Bjorn could've been here too...
-
-He would've been proud.
-
-**Illuga:** Yeah, I'll go visit him in a few days. Let him know how things are in the city... He'd want to know.
 
 #### Activate the amplifier(s)
 
-**Rollon:** I hope the food's to your liking, Traveler.
+#### Defeat the monsters
 
-If only we could party like this every day...
+#### Activate the amplifier(s)
 
-**Rollon:** Every day? That might be a bit much...
+#### Activate the remaining amplifier(s)
 
-I'm just joking!
+#### Defeat the monsters
 
-**Rollon:** Are you? Still, I can see your point. Let's hope we get more days like this to celebrate.
+#### Defeat the monsters
+
+#### Activate the remaining amplifier(s)
+
+#### Activate the remaining amplifier(s)
 
 #### Go to the control room
 
-**Nikita:** Good work, everyone. Let's set our duties aside for now. Rest well.
-
 #### Go to the control room
-
-**Olav:** Moments like this are rare. Ever since the old man made me squad leader, these gatherings are the only time I really get to catch up with the guys.
 
 #### Destroy the Cataclysm Egg
-
-**Olav:** Stop dallying. The Starshyna is waiting for you at the great mead hall.
 
 #### Talk to Illuga
 
@@ -451,16 +477,75 @@ Standing alongside the courageous Ratniki, you defeat the "Professor" at long la
 
 For several days afterward, you stay in Piramida...
 
+#### Go to the great mead hall
+
+#### Talk to Illuga
+
+**Illuga:** Traveler, Paimon!
+
+**Paimon:** Hehe, looks like we're right on time! This place is absolutely buzzin'!
+
+**Illuga:** Everyone's been hard at work these past few days. Now that things have finally settled down, we were able to find a moment to bring everyone together.
+
+- **Traveler:** It couldn't have been easy for you either.
+
+**Illuga:** I only did what was expected of me. But... if you hadn't stepped in when you did, I imagine things might've ended very differently. We might've still won... but not without paying a steeper price.
+
+**Paimon:** Come on, we're in this together, aren't we? No need to be so serious!
+
+**Illuga:** Yeah, you're right. Oh, looks like Gramps is about to speak.
+
+**Nikita:** To all our comrades and kin — this isn't just a celebration. It's a moment to honor the struggle behind our triumph.
+
+**Nikita:** Let us not forget, while we toast this victory, those who gave everything to make it possible. With their blood, they fulfilled the vow we all once made.
+
+**Nikita:** During this battle, the "Nightmare Orioles" Investigation Squad, led by Illuga, took on what was perhaps the most perilous assignment of all.
+
+**Nikita:** Notably, Traveler and his companion stepped forward without hesitation in a time of crisis and stood with us, playing a vital role in the operation's success. / Notably, Traveler and her companion stepped forward without hesitation in a time of crisis and stood with us, playing a vital role in the operation's success.
+
+**Nikita:** They braved every danger, pressed on through the storm, and carved a path to victory from the depths of despair.
+
+**Nikita:** The legacy of their deeds, and of all who fought for the living and those yet to come, will be written into history, never to fade.
+
+**Nikita:** Yes, we are victorious! That victory came at a heavy price, yes, and we may pause to mourn, to remember the fallen... but we must not be broken by grief.
+
+**Nikita:** The future we fought for is within reach, and we carry the fire of those who lit the way before us. Their light must keep shining, and so we must press on.
+
+**Nikita:** But today, let us raise our glasses: to victory, to the brave souls whose courage will never be forgotten, and to the future we vowed to protect.
+
+**Illuga:** I just wish Bjorn could've been here too...
+
+- **Traveler:** He would've been proud.
+
+**Illuga:** Yeah, I'll go visit him in a few days. Let him know how things are in the city... He'd want to know.
 
 **Anleifr:** Cheers! Traveler!
 
-- **Traveler:** Cheers!
+##### Response branch 1
 
-- **Traveler:** Hey, don't go overboard.
+- **Traveler:** Cheers!
 
 With good company, warm laughter, and flowing drinks, you enjoy a brief moment of peace...
 
+##### Response branch 2
+
+- **Traveler:** Hey, don't go overboard.
+
 **Anleifr:** Alright, alright, I hear you!
+
+**Rollon:** I hope the food's to your liking, Traveler.
+
+- **Traveler:** If only we could party like this every day...
+
+**Rollon:** Every day? That might be a bit much...
+
+- **Traveler:** I'm just joking!
+
+**Rollon:** Are you? Still, I can see your point. Let's hope we get more days like this to celebrate.
+
+**Nikita:** Good work, everyone. Let's set our duties aside for now. Rest well.
+
+**Olav:** Moments like this are rare. Ever since the old man made me squad leader, these gatherings are the only time I really get to catch up with the guys.
 
 ## ZH
 
@@ -469,38 +554,6 @@ With good company, warm laughter, and flowing drinks, you enjoy a brief moment o
 成功回收了「螺旋剑」，得立刻返回皮拉米达城。
 
 #### 前往皮拉米达城
-
-**叶洛亚:** 旅行者、派蒙！
-
-**派蒙:** 嘿嘿，我们来啦！这里好热闹呀。
-
-**叶洛亚:** 这段时间大家都辛苦了，总算是将善后的工作也处理得差不多了，这才有时间组织宴会。
-
-你也辛苦了。
-
-**叶洛亚:** 我做的这些实在不算什么。而且，如果没有你们的协助，即使最终能够获胜，恐怕也会付出更多的牺牲…
-
-**派蒙:** 我们可是你的队员呢！就不要说这种见外的话啦。
-
-**叶洛亚:** 嗯，说得也是。啊，老爷子准备发言了。
-
-**尼基塔:** 各位战友，各位兄弟姐妹，今天我们汇聚一堂，不是为了单纯的欢庆，而是为了纪念这场来之不易的胜利。
-
-**尼基塔:** 在我们举杯之时，不要忘记那些再也无法与我们举杯同庆的人，他们以血肉为代价，兑现了誓言。
-
-**尼基塔:** 在此次的战役中，叶洛亚率领的「魇夜之莺」调查分队承担了最为艰巨的任务…
-
-**尼基塔:** 尤其是旅行者两位，在这危难之际仍义无反顾加入我们，在作战中发挥了不容忽视的作用。
-
-**尼基塔:** 他们不畏牺牲，迎难而上，从危难中为我们开拓了通向胜利的道路。
-
-**尼基塔:** 他们的功绩，所有为了生者和未来而奋斗的人的功绩，都将被永远铭刻于历史之中。
-
-**尼基塔:** 是的，我们胜利了！尽管付出了巨大的代价。我们可以流泪，可以哀悼，但绝不能被悲痛击垮。
-
-**尼基塔:** 因为我们所为之奋斗的「未来」将要到来，为了让火种传递，为了让引路的明灯继续照耀，我们还不能停下脚步。
-
-**尼基塔:** 但是，只在今日，让我们为了胜利，为了英勇不朽的战友们，也为了未来，干杯吧！
 
 #### 与执灯人对话
 
@@ -512,9 +565,15 @@ With good company, warm laughter, and flowing drinks, you enjoy a brief moment o
 
 **派蒙:** 我记得他明明说自己只是个普通的执灯士…
 
+##### 对话分支 1
+
 - **旅行者:** 是啊…
 
+##### 对话分支 2
+
 - **旅行者:** 不，他怎么看都不像普通执灯士吧…
+
+##### 共同后续
 
 **叶洛亚:** 老爷子可真是的…唉，你们就当是他的恶作剧吧。
 
@@ -528,9 +587,15 @@ With good company, warm laughter, and flowing drinks, you enjoy a brief moment o
 
 **派蒙:** 我记得他明明说自己只是个普通的执灯士…
 
+##### 对话分支 1
+
 - **旅行者:** 是啊…
 
+##### 对话分支 2
+
 - **旅行者:** 不，他怎么看都不像普通执灯士吧…
+
+##### 共同后续
 
 **叶洛亚:** 老爷子可真是的…唉，你们就当是他的恶作剧吧。
 
@@ -568,13 +633,19 @@ With good company, warm laughter, and flowing drinks, you enjoy a brief moment o
 
 **尼基塔:** 傻孩子，你们早就见过了，不如说，我们就在「德肋庇革劳诺之箭」里。
 
-- **旅行者:** 啊？
+##### 对话分支 1
 
-- **旅行者:** 是要把我也发射出去吗？
+- **旅行者:** 啊？
 
 **派蒙:** 难、难道是要把我们一起发射出去…怎么想都不可能吧！
 
+##### 对话分支 2
+
+- **旅行者:** 是要把我也发射出去吗？
+
 **派蒙:** 原来旅行者就是我们的最终决战兵器！…才不是吧！
+
+##### 共同后续
 
 **尼基塔:** 这座麦酒大厅就是围绕「德肋庇革劳诺之箭」建造的，而你们带回的「螺旋剑」，正是它所缺失的箭头。
 
@@ -590,41 +661,37 @@ With good company, warm laughter, and flowing drinks, you enjoy a brief moment o
 
 **尼基塔:** 发射「德肋庇革劳诺之箭」的重任，就交给你们了。
 
+**奥拉维:** 别耽搁了，执灯长在麦酒大厅等你们。
+
 #### 装填「螺旋剑」
 
 **尼基塔:** 去吧，将圣剑装填进去吧。
 
+#### 装填「螺旋剑」
+
 #### 前往广场
-
-**叶洛亚:** 要是比约恩也在就好了…
-
-他一定会非常自豪的。
-
-**叶洛亚:** 是啊。过几天再去看看他好了，告诉他城里的近况，让他放心。
 
 #### 激活增幅器
 
-**罗洛:** 旅行者，宴会的餐饮还合你的口味吗？
+#### 击败魔物
 
-要是每天都有宴会就好了…
+#### 激活增幅器
 
-**罗洛:** 每天吗？那或许有些勉强…
+#### 激活剩余的增幅器
 
-只是开个玩笑！
+#### 击败魔物
 
-**罗洛:** 哈哈，是吗？不过也不是不能理解。希望今后能多一些像今天这样值得庆祝的日子。
+#### 击败魔物
+
+#### 激活剩余的增幅器
+
+#### 激活剩余的增幅器
 
 #### 前往操作间
 
-**尼基塔:** 辛苦你们了，今天就暂且放下责任，好好休息吧。
-
 #### 前往操作间
-
-**奥拉维:** 机会难得，自从老爷子让我当了分队长，就只有这种场合才有机会跟兄弟们叙叙旧了。
 
 #### 击溃「恶卵」
-
-**奥拉维:** 别耽搁了，执灯长在麦酒大厅等你们。
 
 #### 与叶洛亚对话
 
@@ -671,13 +738,72 @@ With good company, warm laughter, and flowing drinks, you enjoy a brief moment o
 
 之后，在皮拉米达城盘桓了数日…
 
+#### 前往麦酒大厅
+
+#### 与叶洛亚对话
+
+**叶洛亚:** 旅行者、派蒙！
+
+**派蒙:** 嘿嘿，我们来啦！这里好热闹呀。
+
+**叶洛亚:** 这段时间大家都辛苦了，总算是将善后的工作也处理得差不多了，这才有时间组织宴会。
+
+- **旅行者:** 你也辛苦了。
+
+**叶洛亚:** 我做的这些实在不算什么。而且，如果没有你们的协助，即使最终能够获胜，恐怕也会付出更多的牺牲…
+
+**派蒙:** 我们可是你的队员呢！就不要说这种见外的话啦。
+
+**叶洛亚:** 嗯，说得也是。啊，老爷子准备发言了。
+
+**尼基塔:** 各位战友，各位兄弟姐妹，今天我们汇聚一堂，不是为了单纯的欢庆，而是为了纪念这场来之不易的胜利。
+
+**尼基塔:** 在我们举杯之时，不要忘记那些再也无法与我们举杯同庆的人，他们以血肉为代价，兑现了誓言。
+
+**尼基塔:** 在此次的战役中，叶洛亚率领的「魇夜之莺」调查分队承担了最为艰巨的任务…
+
+**尼基塔:** 尤其是旅行者两位，在这危难之际仍义无反顾加入我们，在作战中发挥了不容忽视的作用。
+
+**尼基塔:** 他们不畏牺牲，迎难而上，从危难中为我们开拓了通向胜利的道路。
+
+**尼基塔:** 他们的功绩，所有为了生者和未来而奋斗的人的功绩，都将被永远铭刻于历史之中。
+
+**尼基塔:** 是的，我们胜利了！尽管付出了巨大的代价。我们可以流泪，可以哀悼，但绝不能被悲痛击垮。
+
+**尼基塔:** 因为我们所为之奋斗的「未来」将要到来，为了让火种传递，为了让引路的明灯继续照耀，我们还不能停下脚步。
+
+**尼基塔:** 但是，只在今日，让我们为了胜利，为了英勇不朽的战友们，也为了未来，干杯吧！
+
+**叶洛亚:** 要是比约恩也在就好了…
+
+- **旅行者:** 他一定会非常自豪的。
+
+**叶洛亚:** 是啊。过几天再去看看他好了，告诉他城里的近况，让他放心。
 
 **安莱夫:** 干杯！旅行者！
 
-- **旅行者:** 干杯！
+##### 对话分支 1
 
-- **旅行者:** 你别喝太多了。
+- **旅行者:** 干杯！
 
 和众人一边谈笑，一边畅饮，度过了一段轻松愉快的时光…
 
+##### 对话分支 2
+
+- **旅行者:** 你别喝太多了。
+
 **安莱夫:** 哈哈，知道知道！
+
+**罗洛:** 旅行者，宴会的餐饮还合你的口味吗？
+
+- **旅行者:** 要是每天都有宴会就好了…
+
+**罗洛:** 每天吗？那或许有些勉强…
+
+- **旅行者:** 只是开个玩笑！
+
+**罗洛:** 哈哈，是吗？不过也不是不能理解。希望今后能多一些像今天这样值得庆祝的日子。
+
+**尼基塔:** 辛苦你们了，今天就暂且放下责任，好好休息吧。
+
+**奥拉维:** 机会难得，自从老爷子让我当了分队长，就只有这种场合才有机会跟兄弟们叙叙旧了。

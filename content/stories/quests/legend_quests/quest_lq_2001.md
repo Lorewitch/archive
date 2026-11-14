@@ -14,12 +14,14 @@
 # chapter_num_en: Pavo Ocellus Chapter: Act I
 # chapter_num_zh: 孔雀羽之章 第一幕
 # part_source_ids: 461,462,463
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_lq_2001
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 461,462,463
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -31,21 +33,33 @@
 
 **Кэйа:** Плохо, плохо, всё очень плохо... Что же делать?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что случилось, Кэйа?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Обычно ты выглядишь гораздо спокойнее.
 
+##### Общее продолжение
+
 **Кэйа:** О, тысячи ветров! Хвала Архонтам, я так рад, что вы здесь!
 
-**Кэйа:** Посланец / ница Анемо Архонта, найдётся ли у тебя минута свободного времени?
+**Кэйа:** Посланец Анемо Архонта, найдётся ли у тебя минута свободного времени? / Посланница Анемо Архонта, найдётся ли у тебя минута свободного времени?
 
 **Паймон:** Какая откровенная лесть...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Может быть...
+
+**Кэйа:** Отлично!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Расскажи, что произошло.
 
-**Кэйа:** Отлично!
+##### Общее продолжение
 
 **Кэйа:** Рыцари не должны об этом узнать. Кроме тебя, никто не сможет мне помочь.
 
@@ -55,120 +69,7 @@
 
 **Паймон:** К чему эта таинственность?
 
-#### Разузнайте в Гильдии искателей приключений
-
-**Паймон:** Пфф! Мы здесь не просто так!
-
-**Паймон:** Мы ищем нереально крутой меч!
-
-**Паймон:** Меч, который упал с Небес! Меч, которым отрубили все восемь голов у банши! Меч, который сразил сребровласую гидру!
-
-- **Путешественник:** Восьмиглавая гидра и сребровласая банши.
-
-- **Путешественник:** Ты и так сказала слишком много.
-
-**Паймон:** Да-да! Эпический меч!
-
-**Паймон:** В любом случае я не должна говорить, где этот меч находится.
-
-**Паймон:** Ничего страшного! Я же не сказала, где искать этот меч.
-
-**Паймон:** Так что, мистер Сайрус? Вы знаете, где находятся руины Аркадии?
-
-(А вот сейчас сказала...)
-
-**Сайрус:** Руины Аркадии... Никогда раньше не слышал об этом месте...
-
-**Сайрус:** Но, спасибо тебе за наводку. Если я вдруг обнаружу эти руины, я буду рад на них посмотреть.
-
-**Паймон:** А? Наводку?
-
-
-**Паймон:** Не-а! Нам только надо узнать, где находятся руины Аркадии.
-
-**Стэнли:** Руины Аркадии? Представить только...
-
-**Паймон:** Даже сам Стэнли не знает?
-
-**Стэнли:** Забудьте вы про эту Аркадию... Я расскажу, что произошло со мной в Пепельном море и Королевстве Гейзеров.
-
-**Паймон:** У нас нет времени на твои истории. Может что-нибудь всё-таки что-нибудь вспомнишь?
-
-**Стэнли:** Пепельное море... Мёртвое место...
-
-**Паймон:** Началось...
-
-**Паймон:** Когда мы найдём наше сокровище, «История о сокровищах Аркадии» будет в сто раз круче всех ваших дурацких историй.
-
-(Она сказала об этом вслух...)
-
-**Стэнли:** Сокровища? Охота за сокровищами?
-
-**Паймон:** Пф! Мы зря тратим здесь время. Пойдём отсюда.
-
-Нет, мы здесь...
-
-
-**Паймон:** Привет! Ты знаешь что-нибудь о руинах Аркадии?
-
-**Джек:** Аркадия... Нет, не слышал. Но я недавно здесь.
-
-**Паймон:** Понятненько.
-
-**Джек:** Почему бы вам не разместить объявление и не попросить помощи у более опытных искателей приключений?
-
-**Паймон:** Нет-нет-нет, так не пойдёт.
-
-**Паймон:** Мы должны добраться до сокровища первыми.
-
-(Она сказала об этом вслух...)
-
-**Джек:** Неужели?
-
-**Джек:** Ну, тогда я поищу твои сокровища... то есть я хотел сказать, твои руины.
-
-**Паймон:** Отлично. Спасибо!
-
-Я бы хотел(а) узнать о...
-
-#### Доложите Кэйе
-
-**Кэйа:** Вы вернулись. Нашли что-нибудь?
-
-**Паймон:** Мы расспросили членов Гильдии искателей приключений, но ничегошеньки не узнали...
-
-**Кэйа:** Ха-ха! Так я и думал.
-
-**Паймон:** Почему это?
-
-**Кэйа:** Тебе не кажется, что это было бы слишком просто? Узнать о руинах от других путешественников.
-
-**Кэйа:** Но у меня есть несколько зацепок.
-
-**Кэйа:** Мой осведомитель добыл данные на чёрном рынке... Кажется, что этот человек может рассказать нам больше о руинах.
-
-**Паймон:** Правда? Где же он?
-
-**Кэйа:** Не спеши. Мы должны соблюдать правила чёрного рынка.
-
-**Кэйа:** Встреча с осведомителем пройдёт в Шепчущем лесу.
-
-**Паймон:** Чего же мы ждём? Пойдём скорее.
-
-- **Путешественник:** Кэйа не хотел бы лично присутствовать при этой встрече.
-
-- **Путешественник:** Мы с Паймон добудем эту информацию.
-
-**Кэйа:** Верно. Ты всё правильно понял(а).
-
-**Кэйа:** Рыцарь Ордо Фавониус не может позволить себе контактов с чёрным рынком.
-
-**Кэйа:** Благодарю.
-
-**Кэйа:** Конечно же, рыцари вас щедро вознаградят.
-
-**Паймон:** Ха-ха! Замётано!
-
+#### Поговорите с Кэйей на месте встречи
 
 **Кэйа:** Нет времени. Хочу найти как можно больше зацепок... хочу найти сокровища.
 
@@ -190,13 +91,19 @@
 
 **Кэйа:** Эта повязка досталась мне по наследству от деда!
 
-- **Путешественник:** Не знал(а), что повязки передают по наследству.
+##### Вариант ответа 1
 
-- **Путешественник:** Невероятно.
+- **Путешественник:** Не знал, что повязки передают по наследству. / Не знала, что повязки передают по наследству.
 
 **Кэйа:** Ха-ха! Путешественник, это знают все!
 
 **Кэйа:** Также все знают, что причёски дети получают от родителей.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Невероятно.
+
+##### Общее продолжение
 
 **Кэйа:** Вчера я копался в старых бумагах деда и обнаружил записку, в которой упоминались какие-то сокровища...
 
@@ -230,11 +137,17 @@
 
 **Кэйа:** Чтобы избежать ненужных конфликтов, мой дед спрятал меч.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Гидра, банши... Они существуют?
+
+**Кэйа:** Наш потрясающий мир полон необъяснимого и невероятного.
+
+##### Вариант ответа 2
 
 - **Путешественник:** ...
 
-**Кэйа:** Наш потрясающий мир полон необъяснимого и невероятного.
+##### Общее продолжение
 
 **Кэйа:** Только пираты могут рассказать о таких захватывающих приключениях!
 
@@ -254,20 +167,171 @@
 
 **Паймон:** Эй, Путешественник! Здорово, да? Невероятно крутой меч!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Он существует?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Он правда существует?
+
+##### Общее продолжение
 
 **Паймон:** Ну... Давай для начала посмотрим, что мы можем узнать в Гильдии искателей приключений.
 
 **Паймон:** Искатели приключений ведь должны много знать о руинах, не так ли?
 
+#### Разузнайте в Гильдии искателей приключений
 
-Мы ищем...
+**Сайрус:** Эй! Добро пожаловать в Гильдию искателей приключений, малыш! / Эй! Добро пожаловать в Гильдию искателей приключений, малышка!
+
+**Стэнли:** Меня зовут Стэнли. Запомни это имя. Ты тоже пришёл послушать мои истории? / Меня зовут Стэнли. Запомни это имя. Ты тоже пришла послушать мои истории?
+
+**Джек:** Привет! Ты тоже искатель приключений? Хочешь присоединиться к моему отряду?
+
+**Паймон:** Пфф! Мы здесь не просто так!
+
+**Паймон:** Мы ищем нереально крутой меч!
+
+**Паймон:** Меч, который упал с Небес! Меч, которым отрубили все восемь голов у банши! Меч, который сразил сребровласую гидру!
+
+##### Вариант ответа 1
+
+- **Путешественник:** Восьмиглавая гидра и сребровласая банши.
+
+**Паймон:** Да-да! Эпический меч!
+
+**Паймон:** В любом случае я не должна говорить, где этот меч находится.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Ты и так сказала слишком много.
+
+**Паймон:** Ничего страшного! Я же не сказала, где искать этот меч.
+
+**Паймон:** Так что, мистер Сайрус? Вы знаете, где находятся руины Аркадии?
+
+##### Общее продолжение
+
+- **Путешественник:** (А вот сейчас сказала...)
+
+**Сайрус:** Руины Аркадии... Никогда раньше не слышал об этом месте...
+
+**Сайрус:** Но, спасибо тебе за наводку. Если я вдруг обнаружу эти руины, я буду рад на них посмотреть.
+
+**Паймон:** А? Наводку?
+
+**???:** ...
+
+- **Путешественник:** Мы ищем...
+
+**Сайрус:** Расскажи о руинах Аркадии.
+
+**Сайрус:** Очень интересно, я ничего о них не знаю.
+
+- **Путешественник:** Нет, мы здесь...
+
+**Паймон:** Не-а! Нам только надо узнать, где находятся руины Аркадии.
+
+**Стэнли:** Руины Аркадии? Представить только...
+
+**Паймон:** Даже сам Стэнли не знает?
+
+**Стэнли:** Забудьте вы про эту Аркадию... Я расскажу, что произошло со мной в Пепельном море и Королевстве Гейзеров.
+
+**Паймон:** У нас нет времени на твои истории. Может что-нибудь всё-таки что-нибудь вспомнишь?
+
+**Стэнли:** Пепельное море... Мёртвое место...
+
+**Паймон:** Началось...
+
+**Паймон:** Когда мы найдём наше сокровище, «История о сокровищах Аркадии» будет в сто раз круче всех ваших дурацких историй.
+
+- **Путешественник:** (Она сказала об этом вслух...)
+
+**Стэнли:** Сокровища? Охота за сокровищами?
+
+**Паймон:** Пф! Мы зря тратим здесь время. Пойдём отсюда.
+
+- **Путешественник:** Расскажи мне о руинах Аркадии.
+
+**Стэнли:** Раз ты не хочешь слушать мои истории, нам не о чём говорить.
+
+- **Путешественник:** Я бы хотел узнать о... / Я бы хотела узнать о...
+
+**Паймон:** Привет! Ты знаешь что-нибудь о руинах Аркадии?
+
+**Джек:** Аркадия... Нет, не слышал. Но я недавно здесь.
+
+**Паймон:** Понятненько.
+
+**Джек:** Почему бы вам не разместить объявление и не попросить помощи у более опытных искателей приключений?
+
+**Паймон:** Нет-нет-нет, так не пойдёт.
+
+**Паймон:** Мы должны добраться до сокровища первыми.
+
+- **Путешественник:** (Она сказала об этом вслух...)
+
+**Джек:** Неужели?
+
+**Джек:** Ну, тогда я поищу твои сокровища... то есть я хотел сказать, твои руины.
+
+**Паймон:** Отлично. Спасибо!
+
+- **Путешественник:** Расскажи мне о руинах Аркадии.
+
+**Джек:** Может мне стоит самому их поискать? Ха-ха! Шутка! Надеюсь, у вас получится их найти.
+
+#### Доложите Кэйе
+
+**Кэйа:** Вы вернулись. Нашли что-нибудь?
+
+**Паймон:** Мы расспросили членов Гильдии искателей приключений, но ничегошеньки не узнали...
+
+**Кэйа:** Ха-ха! Так я и думал.
+
+**Паймон:** Почему это?
+
+**Кэйа:** Тебе не кажется, что это было бы слишком просто? Узнать о руинах от других путешественников.
+
+**Кэйа:** Но у меня есть несколько зацепок.
+
+**Кэйа:** Мой осведомитель добыл данные на чёрном рынке... Кажется, что этот человек может рассказать нам больше о руинах.
+
+**Паймон:** Правда? Где же он?
+
+**Кэйа:** Не спеши. Мы должны соблюдать правила чёрного рынка.
+
+**Кэйа:** Встреча с осведомителем пройдёт в Шепчущем лесу.
+
+**Паймон:** Чего же мы ждём? Пойдём скорее.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Кэйа не хотел бы лично присутствовать при этой встрече.
+
+**Кэйа:** Верно. Ты всё правильно понял. / Верно. Ты всё правильно поняла.
+
+**Кэйа:** Рыцарь Ордо Фавониус не может позволить себе контактов с чёрным рынком.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Мы с Паймон добудем эту информацию.
+
+##### Общее продолжение
+
+**Кэйа:** Благодарю.
+
+**Кэйа:** Конечно же, рыцари вас щедро вознаградят.
+
+**Паймон:** Ха-ха! Замётано!
 
 ### Тайна руин Аркадии
 
 Если верить Кэйе, его дед был пиратом. Этот пират оставил после себя легендарный меч и спрятал его в руинах Аркадии. Чтобы это сокровище не попало в плохие руки, вы решаете отправиться на поиски руин.
+
+#### Отправляйтесь на встречу с осведомителем в обозначенном месте
 
 #### Одолейте врагов, напавших на осведомителя
 
@@ -281,9 +345,9 @@
 
 **Вэл:** Спасибо вам! На вас можно положиться, в отличие от этих рыцарей из ордена.
 
-**Паймон:** Пустяки! Путешественник - путешественник / ца. Он(а) занимается этим каждый день.
+**Паймон:** Пустяки! Путешественник - путешественник. Он занимается этим каждый день. / Пустяки! Путешественник - путешественница. Она занимается этим каждый день.
 
-**Вэл:** Путешественн(ица)(ик)? Значит, это ты... Забавно, что мы встретились при таких обстоятельствах.
+**Вэл:** Путешественник? Значит, это ты... Забавно, что мы встретились при таких обстоятельствах. / Путешественница? Значит, это ты... Забавно, что мы встретились при таких обстоятельствах.
 
 **Паймон:** Значит ты...
 
@@ -291,11 +355,17 @@
 
 **Вэл:** Личные связи в нашем деле имеют огромное значение.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Серьёзно?
+
+**Вэл:** Да, вы спасли мне жизнь.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Спасибо тебе, подруга.
 
-**Вэл:** Да, вы спасли мне жизнь.
+##### Общее продолжение
 
 **Паймон:** Какая удача!
 
@@ -307,27 +377,49 @@
 
 **Паймон:** Ага... Это всё?
 
+**Вэл:** К этой записке прилагается карта.
+
 **Паймон:** На карте показано, где сокровища?
 
 **Паймон:** Это больше похоже на загадку!
 
 **Паймон:** Для тебя это должно быть проще простого! Да, Путешественник? Займёшься этим?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Конечно!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Да... проще простого...
 
+##### Общее продолжение
+
 **Паймон:** Если у тебя не получится решить эту загадку, то пусть попробует Кэйа. Похоже, у него тоже котелок неплохо варит.
+
+**Вэл:** Я оставлю эти данные тебе.
+
+**Паймон:** Спасибо, Вэл!
 
 **Паймон:** «В том городе на озере живут три великана о шести руках. Двое защищают статую божества, третий охраняет сокровища богов».
 
 **Паймон:** Что это может означать? Кэйа поможет нам, если ты не справишься.
 
-**Вэл:** К этой записке прилагается карта.
+**Вэл:** «В том городе на озере живут три великана о шести руках. Двое защищают статую божества, третий охраняет сокровища богов». Запомнил? / «В том городе на озере живут три великана о шести руках. Двое защищают статую божества, третий охраняет сокровища богов». Запомнила?
 
-**Вэл:** Я оставлю эти данные тебе.
+**Паймон:** Дай мне посмотреть! Что там?
 
-**Паймон:** Спасибо, Вэл!
+**Паймон:** «Она вовсе не любила его. Источник бьёт ключом, но это лишь фальшивый образ, и в час холодного одиночества её сердце явит истину».
+
+**Паймон:** Ещё одна карта.
+
+**Паймон:** Опять загадка! Больше загадок!
+
+**Паймон:** Голова уже идёт кругом! Мозг закипает!
+
+- **Путешественник:** Мозг? У тебя есть мозг?
+
+**Паймон:** Разбирайся с этим сам! Или попроси Кэйю о помощи! / Разбирайся с этим сама! Или попроси Кэйю о помощи!
 
 #### Разгадайте загадку (Можете попросить Кэйю о помощи, он находится в штабе Ордо Фавониус)
 
@@ -341,13 +433,21 @@
 
 **Кэйа:** Город на озере - это Мондштадт. А шестирукие гиганты... Хм...
 
-Крабы?
+- **Путешественник:** Крабы?
 
 **Паймон:** Гигантские крабы!
 
 **Кэйа:** Я не видел в Мондштадте никаких гигантских крабов, к тому же...
 
 **Кэйа:** У крабов восемь ног, а не шесть.
+
+- **Путешественник:** Мельницы?
+
+- **Путешественник:** Это... мельницы?
+
+**Кэйа:** Хм. Ветряные мельницы. Неплохо.
+
+**Кэйа:** У мельниц по шесть лопастей. Всё сходится.
 
 **Паймон:** Да! Всё верно!
 
@@ -361,13 +461,9 @@
 
 **Паймон:** Пойдём, Путешественник! Проверим эту ветряную мельницу!
 
-Мельницы?
+#### Найдите место, описанное в подсказке
 
-Это... мельницы?
-
-**Кэйа:** Хм. Ветряные мельницы. Неплохо.
-
-**Кэйа:** У мельниц по шесть лопастей. Всё сходится.
+**Кэйа:** Если я не ошибаюсь, подсказка ждёт нас у самой дальней от статуи мельницы. Но это неточно.
 
 #### Разгадайте загадку (Можете попросить Кэйю о помощи, он находится в штабе Ордо Фавониус)
 
@@ -393,7 +489,7 @@
 
 **Кэйа:** Возьми с собой друзей с Крио способностями.
 
-Спасибо за помощь, Кэйа.
+- **Путешественник:** Спасибо за помощь, Кэйа.
 
 **Кэйа:** Не за что! Если рыцарь Ордо Фавониус не сможет решить загадку, то как тогда он будет расследовать настоящие преступления?
 
@@ -403,30 +499,33 @@
 
 **Паймон:** Я имела в виду расследованиями настоящих преступлений.
 
+- **Путешественник:** Может, это про тех, кто купается в ручье?
+
+- **Путешественник:** От чего меняется уровень воды в ручье?
+
+**Кэйа:** Это же неприлично! В Мондштадте так не делают, хвала Архонтам.
+
+**Кэйа:** Ты тоже купаешься в ручьях?
+
+**Кэйа:** В таком случае приношу извинения. Я не осуждаю.
+
+**Паймон:** Эй! Путешественник совсем не такой! / Эй! Путешественник совсем не такая!
+
+- **Путешественник:** Эээ... Может речь идёт об изменении уровня воды в ручье?
+
+**Кэйа:** Ха-ха! «Стремительная страсть» исходит не от ручья, а от тех, кто в ручье купается!
+
+**Кэйа:** Хорошая идея! Водопады!
+
+**Кэйа:** Ключ к тайне спрятан за водопадом в Спрингвейле!
+
+**Кэйа:** Настоящая страсть находится там.
+
 #### Найдите место, описанное в подсказке
-
-**Кэйа:** Это в Шепчущем лесу, ты помнишь?
-
-#### Найдите место, описанное в подсказке
-
-**Кэйа:** Если я не ошибаюсь, подсказка ждёт нас у самой дальней от статуи мельницы. Но это неточно.
-
 
 **Кэйа:** Давай поищем у водопада рядом со Спрингвейлом. Не забудь взять друзей с Крио способностями. Меня, например.
 
-**Паймон:** Дай мне посмотреть! Что там?
-
-**Паймон:** «Она вовсе не любила его. Источник бьёт ключом, но это лишь фальшивый образ, и в час холодного одиночества её сердце явит истину».
-
-**Паймон:** Опять загадка! Больше загадок!
-
-**Паймон:** Голова уже идёт кругом! Мозг закипает!
-
-Мозг? У тебя есть мозг?
-
-**Паймон:** Разбирайся с этим сам(а)! Или попроси Кэйю о помощи!
-
-**Паймон:** Ещё одна карта.
+**Кэйа:** Это в Шепчущем лесу, ты помнишь?
 
 ### Выгода Кэйи
 
@@ -436,13 +535,21 @@
 
 **Паймон:** Нам пришлось хорошенько постараться, чтобы разгадать все эти загадки.
 
+**Паймон:** Не хочу никого обидеть, но эта карта выглядит ужасно... Словно её пират нарисовал.
+
 **Паймон:** Значит мы...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Кэйа ждёт наш доклад.
 
+**Паймон:** Ну... Можно же НЕ ДЕЛАТЬ ЭТОТ ДОКЛАД!
+
+##### Вариант ответа 2
+
 - **Путешественник:** Пойдём за сокровищами!
 
-**Паймон:** Ну... Можно же НЕ ДЕЛАТЬ ЭТОТ ДОКЛАД!
+##### Общее продолжение
 
 **Паймон:** Ты читаешь мои мысли! Пойдём скорей!
 
@@ -460,8 +567,29 @@
 
 **Паймон:** Охота за сокровищами Аркадии продолжается!
 
-**Паймон:** Не хочу никого обидеть, но эта карта выглядит ужасно... Словно её пират нарисовал.
+#### Найдите сокровища с помощью карты
 
+**Паймон:** А вот и руины Аркадии.
+
+**Паймон:** Слишком просто.
+
+**Паймон:** А, я поняла! Если хочешь что-то спрятать, положи это на самое видное место!
+
+**Паймон:** Дедушка Кэйи отлично придумал!
+
+**???:** *Топот*
+
+- **Путешественник:** Паймон, ты это слышала?
+
+**Паймон:** Это мышь.
+
+- **Путешественник:** Послушай!
+
+**Паймон:** На это нет времени. Нас ждут сокровища!
+
+**Паймон:** Поспешим!
+
+#### Исследуйте глубины руин
 
 **Паймон:** Это всё?
 
@@ -473,15 +601,21 @@
 
 **???:** Теперь этим займусь я.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Похитители сокровищ?
 
-- **Путешественник:** Чёрный рынок?
+**???:** Ты догадался, но уже слишком поздно! / Ты догадалась, но уже слишком поздно!
 
-**???:** Ты догадался / ась, но уже слишком поздно!
+##### Вариант ответа 2
+
+- **Путешественник:** Чёрный рынок?
 
 **???:** Ха-ха-ха! Я работал с ними.
 
 **???:** Но они слишком глупы, чтобы разбогатеть.
+
+##### Общее продолжение
 
 **Иззард:** Приветствую! Моё имя - Иззард.
 
@@ -491,7 +625,7 @@
 
 **Паймон:** Как вы узнали? Мы старались всё сделать по-тихому.
 
-Неудивительно, что вы об этом узнали.
+- **Путешественник:** Неудивительно, что вы об этом узнали.
 
 **Паймон:** Я не отдам сокровище без боя! Это моя прелесть!
 
@@ -539,6 +673,7 @@
 
 **Иззард:** Чт... Что? Я не нарочно...
 
+#### Одолейте стража руин
 
 **Иззард:** Рыцарь спас мне жизнь... Какой позор...
 
@@ -558,11 +693,19 @@
 
 **Кэйа:** Если бы они не распространили нашу дезинформацию, мы никогда бы не поймали Похитителей сокровищ.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Дезинформация?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Нет никаких сокровищ.
 
+##### Вариант ответа 3
+
 - **Путешественник:** Нас обманули.
+
+##### Общее продолжение
 
 **Паймон:** Ах ты... Ты обманул нас! Рыцарям должно быть стыдно!
 
@@ -582,6 +725,8 @@
 
 **Кэйа:** «Предрассветный победоносный меч триумфатора»! Как следует из названия, это - символ победы и рассвета.
 
+**Кэйа:** Если вы не против, я хочу вручить вам «Предвестника зари» в качестве награды!
+
 **Паймон:** «Предвестник зари»?
 
 **Кэйа:** Верно. Мне кажется, он отлично подойдёт для такой умной и культурной леди, как ты, мисс Паймон.
@@ -596,36 +741,57 @@
 
 **Кэйа:** Прими мои извинения за этот обман. Такое больше не повторится.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Кажется, Паймон очарована.
+
+##### Вариант ответа 2
 
 - **Путешественник:** В следующий раз ты придумаешь что-нибудь новенькое.
 
-**Кэйа:** Какой прекрасный день! Надо допросить подозреваемого.
+##### Общее продолжение
 
-**Кэйа:** Если вы не против, я хочу вручить вам «Предвестника зари» в качестве награды!
+**Кэйа:** Какой прекрасный день! Надо допросить подозреваемого.
 
 **Кэйа:** Прошу меня извинить. Заходите в штаб Ордо Фавониус. Если понадоблюсь, я буду там.
 
+**Кэйа:** Прошу меня извинить. Заходите в штаб Ордо Фавониус. Если понадоблюсь, я буду там.
 
-**Паймон:** А вот и руины Аркадии.
+##### Вариант ответа 1
 
-**Паймон:** Слишком просто.
+##### Вариант ответа 2
 
-**Паймон:** А, я поняла! Если хочешь что-то спрятать, положи это на самое видное место!
+##### Вариант ответа 3
 
-**Паймон:** Дедушка Кэйи отлично придумал!
+##### Общее продолжение
 
-**???:** *Топот*
+##### Вариант ответа 1
 
-Паймон, ты это слышала?
+##### Вариант ответа 2
 
-**Паймон:** Это мышь.
+##### Общее продолжение
 
-Послушай!
+**Кэйа:** Удивительно, что вы решили все загадки самостоятельно.
 
-**Паймон:** На это нет времени. Нас ждут сокровища!
+**Паймон:** То есть ты сам придумал все эти загадки?
 
-**Паймон:** Поспешим!
+**Кэйа:** Да. Но я намеренно делал их как можно более неясными и размытыми.
+
+**Кэйа:** Я собирался сам ответить на ваши вопросы.
+
+**Кэйа:** Впечатляет. Не ожидал, что вы сами справитесь.
+
+- **Путешественник:** Детские загадки.
+
+- **Путешественник:** Пришлось постараться...
+
+**Паймон:** Ха! Это было проще простого!
+
+**Кэйа:** Как бы то ни было, вы честно доказали свою мудрость и интеллект.
+
+**Паймон:** А кто-то использовал свой интеллект, что обмануть других!
+
+**Кэйа:** Ха-ха!
 
 ## EN
 
@@ -637,9 +803,15 @@ You bump into Kaeya, whom you first met during Stormterror's attack, at the Knig
 
 **Kaeya:** This is bad... Such a hassle... What am I going to do...
 
+##### Response branch 1
+
 - **Traveler:** What's wrong, Kaeya?
 
+##### Response branch 2
+
 - **Traveler:** You don't usually lose your chill.
+
+##### Shared continuation
 
 **Kaeya:** Oh, thank the Thousand Winds! Traveler, your arrival must be the grace of the gods!
 
@@ -647,11 +819,17 @@ You bump into Kaeya, whom you first met during Stormterror's attack, at the Knig
 
 **Paimon:** Ewwww, cut it out!
 
+##### Response branch 1
+
 - **Traveler:** Can't say I don't have time...
+
+**Kaeya:** Marvelous!
+
+##### Response branch 2
 
 - **Traveler:** Tell me what happened.
 
-**Kaeya:** Marvelous!
+##### Shared continuation
 
 **Kaeya:** I cannot let my peers hear about this! I cannot seek help from anyone else but you.
 
@@ -661,123 +839,7 @@ You bump into Kaeya, whom you first met during Stormterror's attack, at the Knig
 
 **Paimon:** What's with the sneakiness...
 
-#### Go to the Adventurers' Guild and listen to their report
-
-**Paimon:** Hmph! We're not here for something that boring!
-
-**Paimon:** We're looking for a sword that fell from Celestia... One that can kill eight-headed banshees and silver-haired hydras.
-
-**Paimon:** It's super, mega, uber powerful!
-
-- **Traveler:** It's eight-headed hydras and silver-haired banshees...
-
-- **Traveler:** You've said too much.
-
-**Paimon:** That's what Paimon said! It's a super epic sword!
-
-**Paimon:** Anyway, it's fine as long as Paimon doesn't tell them the treasure's location!
-
-**Paimon:** It's fine! As long as Paimon doesn't tell them the treasure's location!
-
-**Paimon:** So, Cyrus, do you know where the Lost Arcadian Ruins are supposed to be?
-
-(Now she's done it...)
-
-**Cyrus:** Arcadian Ruins... Never heard of them.
-
-**Cyrus:** Thanks for your intel anyway. If you do find these ruins, I'd love to see them.
-
-**Paimon:** Uh... my... intel...?
-
-#### Talk
-
-**Paimon:** Nope. We just want to know if you've been to the Arcadian Ruins?
-
-**Stanley:** Arcadian Ruins? Imagine that... So there are places that I haven't been to...
-
-**Paimon:** Oh? Even the great Stanley doesn't know?
-
-**Stanley:** Never mind this Arcadia... You need to know what happened to me on the Mare Jivari and in the Geyser Realm...
-
-**Paimon:** We don't have time for your stories. Think hard, please. We need clues.
-
-**Stanley:** The Mare Jivari... It was a place of death...
-
-**Paimon:** Gosh...
-
-**Paimon:** When we find the Arcadiantreasure, our story will definitely be better than your stupid stories!
-
-(Now she's done it...)
-
-**Stanley:** Treasure...? Even Tales too?
-
-**Paimon:** Hmph! It's a waste of time talking to him. Let's go already.
-
-No. We're here for...
-
-#### Talk
-
-**Paimon:** Hey! Do you have any intel on the Arcadian Ruins?
-
-**Jack:** Arcadian... Can't say I've heard of it. Sorry, I'm still new here, so...
-
-**Paimon:** Really...
-
-**Jack:** But you can try posting a commission and see if there are any adventurers who know about it.
-
-**Paimon:** That's a no-no! No way.
-
-**Paimon:** We can't afford them beating us to the treasure!
-
-(Now she's done it...)
-
-**Jack:** Really!?
-
-**Jack:** Well then, I'll keep a lookout for your treasure — I mean, your Arcadian Ruins.
-
-**Paimon:** Great! Thanks!
-
-I'd like to ask...
-
-#### Report to Kaeya
-
-**Kaeya:** Oh, you're back. Do you have news for me?
-
-**Paimon:** Listen, we asked around the Adventurers' Guild and found... Well, nothing.
-
-**Kaeya:** Haha... That much is expected.
-
-**Paimon:** Why is that?
-
-**Kaeya:** Oh, I only mean that, what's the fun in finding it without the hard work?
-
-**Kaeya:** However, I do have some clues.
-
-**Kaeya:** I sent someone to collate black market intel. It seems that someone does know about the Arcadian Ruins.
-
-**Paimon:** Really? Where's the guy?
-
-**Kaeya:** Now, now, as per the black market's rules, they will send someone to meet us to prevent leaks.
-
-**Kaeya:** We will be meeting the informant at the Whispering Woods.
-
-**Paimon:** Then, what are we waiting here for?
-
-- **Traveler:** It's not ideal for Kaeya to show his face.
-
-- **Traveler:** We'll get the intel back to you.
-
-**Kaeya:** That's right. You read my mind.
-
-**Kaeya:** I am a knight... so I shouldn't have any dealings with the black market.
-
-**Kaeya:** You have my thanks.
-
-**Kaeya:** Of course, you'll be compensated for your troubles... by the Knights.
-
-**Paimon:** Ooh, no problemo!
-
-#### Get to the destination
+#### Talk to Kaeya at the meeting spot
 
 **Kaeya:** I'm a bit busy right now. Do try to find more... clues... You know what I mean.
 
@@ -799,13 +861,19 @@ I'd like to ask...
 
 **Kaeya:** Look at my eye patch! I inherited it from my grandfather and this is solid proof that we are related by blood!
 
-- **Traveler:** I never knew you could inherit eye patches.
+##### Response branch 1
 
-- **Traveler:** How surprising.
+- **Traveler:** I never knew you could inherit eye patches.
 
 **Kaeya:** My! Traveler, how could you not know such common knowledge!
 
 **Kaeya:** This is no different from children inheriting their hairstyles from their parents!
+
+##### Response branch 2
+
+- **Traveler:** How surprising.
+
+##### Shared continuation
 
 **Kaeya:** Yesterday I was glancing through the notes my grandfather left and stumbled upon records that spoke of a treasure...
 
@@ -839,11 +907,17 @@ I'd like to ask...
 
 **Kaeya:** To avoid meaningless conflicts, my grandfather hid the magic sword.
 
+##### Response branch 1
+
 - **Traveler:** Eight-headed hydras, silver-haired banshees... Do they really exist?
+
+**Kaeya:** The world we live in is fascinating, full of unknown and inexplicable wonders.
+
+##### Response branch 2
 
 - **Traveler:** ...
 
-**Kaeya:** The world we live in is fascinating, full of unknown and inexplicable wonders.
+##### Shared continuation
 
 **Kaeya:** These incredibly thrilling adventures are romances that could only be told by pirates.
 
@@ -863,20 +937,171 @@ I'd like to ask...
 
 **Paimon:** Hey! So whatcha think, Traveler? Isn't it exciting? We're talking about a super-duper powerful sword!
 
+##### Response branch 1
+
 - **Traveler:** Is it true?
 
+##### Response branch 2
+
 - **Traveler:** Is it really, really true?
+
+##### Shared continuation
 
 **Paimon:** Well... let's go to the Adventurers' Guild and see if we can find out more.
 
 **Paimon:** The adventurers should know more about the ruins, right?
 
+#### Go to the Adventurers' Guild and listen to their report
 
-We're looking for...
+**Cyrus:** Hey, kiddo! Welcome to the Adventurers' Guild!
+
+**Stanley:** I'm Stanley. Remember my name. You're also here for my stories, aren't you?
+
+**Jack:** Hey! Are you a new adventurer? Wanna join my adventure team?
+
+**Paimon:** Hmph! We're not here for something that boring!
+
+**Paimon:** We're looking for a sword that fell from Celestia... One that can kill eight-headed banshees and silver-haired hydras.
+
+**Paimon:** It's super, mega, uber powerful!
+
+##### Response branch 1
+
+- **Traveler:** It's eight-headed hydras and silver-haired banshees...
+
+**Paimon:** That's what Paimon said! It's a super epic sword!
+
+**Paimon:** Anyway, it's fine as long as Paimon doesn't tell them the treasure's location!
+
+##### Response branch 2
+
+- **Traveler:** You've said too much.
+
+**Paimon:** It's fine! As long as Paimon doesn't tell them the treasure's location!
+
+**Paimon:** So, Cyrus, do you know where the Lost Arcadian Ruins are supposed to be?
+
+##### Shared continuation
+
+- **Traveler:** (Now she's done it...)
+
+**Cyrus:** Arcadian Ruins... Never heard of them.
+
+**Cyrus:** Thanks for your intel anyway. If you do find these ruins, I'd love to see them.
+
+**Paimon:** Uh... my... intel...?
+
+**???:** ...
+
+- **Traveler:** We're looking for...
+
+**Cyrus:** Tell me about the Arcadian Ruins
+
+**Cyrus:** I am interested in your search, but I just don't have any intel for you.
+
+- **Traveler:** No. We're here for...
+
+**Paimon:** Nope. We just want to know if you've been to the Arcadian Ruins?
+
+**Stanley:** Arcadian Ruins? Imagine that... So there are places that I haven't been to...
+
+**Paimon:** Oh? Even the great Stanley doesn't know?
+
+**Stanley:** Never mind this Arcadia... You need to know what happened to me on the Mare Jivari and in the Geyser Realm...
+
+**Paimon:** We don't have time for your stories. Think hard, please. We need clues.
+
+**Stanley:** The Mare Jivari... It was a place of death...
+
+**Paimon:** Gosh...
+
+**Paimon:** When we find the Arcadiantreasure, our story will definitely be better than your stupid stories!
+
+- **Traveler:** (Now she's done it...)
+
+**Stanley:** Treasure...? Even Tales too?
+
+**Paimon:** Hmph! It's a waste of time talking to him. Let's go already.
+
+- **Traveler:** Tell me about the Arcadian Ruins
+
+**Stanley:** If you are not here for my stories, we have nothing to talk about.
+
+- **Traveler:** I'd like to ask...
+
+**Paimon:** Hey! Do you have any intel on the Arcadian Ruins?
+
+**Jack:** Arcadian... Can't say I've heard of it. Sorry, I'm still new here, so...
+
+**Paimon:** Really...
+
+**Jack:** But you can try posting a commission and see if there are any adventurers who know about it.
+
+**Paimon:** That's a no-no! No way.
+
+**Paimon:** We can't afford them beating us to the treasure!
+
+- **Traveler:** (Now she's done it...)
+
+**Jack:** Really!?
+
+**Jack:** Well then, I'll keep a lookout for your treasure — I mean, your Arcadian Ruins.
+
+**Paimon:** Great! Thanks!
+
+- **Traveler:** Tell me about the Arcadian Ruins
+
+**Jack:** Should I go look for it as well...? Oh, haha! I'm just joking. I hope you guys find it!
+
+#### Report to Kaeya
+
+**Kaeya:** Oh, you're back. Do you have news for me?
+
+**Paimon:** Listen, we asked around the Adventurers' Guild and found... Well, nothing.
+
+**Kaeya:** Haha... That much is expected.
+
+**Paimon:** Why is that?
+
+**Kaeya:** Oh, I only mean that, what's the fun in finding it without the hard work?
+
+**Kaeya:** However, I do have some clues.
+
+**Kaeya:** I sent someone to collate black market intel. It seems that someone does know about the Arcadian Ruins.
+
+**Paimon:** Really? Where's the guy?
+
+**Kaeya:** Now, now, as per the black market's rules, they will send someone to meet us to prevent leaks.
+
+**Kaeya:** We will be meeting the informant at the Whispering Woods.
+
+**Paimon:** Then, what are we waiting here for?
+
+##### Response branch 1
+
+- **Traveler:** It's not ideal for Kaeya to show his face.
+
+**Kaeya:** That's right. You read my mind.
+
+**Kaeya:** I am a knight... so I shouldn't have any dealings with the black market.
+
+##### Response branch 2
+
+- **Traveler:** We'll get the intel back to you.
+
+##### Shared continuation
+
+**Kaeya:** You have my thanks.
+
+**Kaeya:** Of course, you'll be compensated for your troubles... by the Knights.
+
+**Paimon:** Ooh, no problemo!
 
 ### Mystery of the Arcadian Ruins
 
 According to Kaeya, his pirate grandfather left behind a treasured sword that has been buried in the Lost Arcadian Ruins. To prevent it from falling into the wrong hands, you search high and low for intelligence regarding the ruins.
+
+#### Meet with the informant at the designated location
 
 #### Defeat the opponents attacking the informant
 
@@ -890,7 +1115,7 @@ According to Kaeya, his pirate grandfather left behind a treasured sword that ha
 
 **Vile:** Thanks so much for saving me! You're far more reliable than those Favonius guys.
 
-**Paimon:** It's nothing. He / She's a traveler, he / she has to deal with stuff like this all the time.
+**Paimon:** It's nothing. He's a traveler, he has to deal with stuff like this all the time. / It's nothing. She's a traveler, she has to deal with stuff like this all the time.
 
 **Vile:** Traveler? I've heard stories about you. I didn't think I'd be saved by the one I'm here to meet.
 
@@ -900,11 +1125,17 @@ According to Kaeya, his pirate grandfather left behind a treasured sword that ha
 
 **Vile:** People in our circle know how important the network is.
 
+##### Response branch 1
+
 - **Traveler:** Really?
+
+**Vile:** Well, you did save my life.
+
+##### Response branch 2
 
 - **Traveler:** Thank you, friend.
 
-**Vile:** Well, you did save my life.
+##### Shared continuation
 
 **Paimon:** LUCKY!
 
@@ -916,27 +1147,49 @@ According to Kaeya, his pirate grandfather left behind a treasured sword that ha
 
 **Paimon:** Right... Wait, is that it?
 
+**Vile:** There's also this map that came with it.
+
 **Paimon:** Could... this be the X-marks-the-spot?
 
 **Paimon:** So the clue is more like a riddle...
 
 **Paimon:** Well, should be a piece of cake for ya, right Traveler? Paimon'll leave it to you then!
 
+##### Response branch 1
+
 - **Traveler:** Sure thing.
+
+##### Response branch 2
 
 - **Traveler:** Sure... I hope.
 
+##### Shared continuation
+
 **Paimon:** Well, if you can't solve it, we can ask Kaeya. He seems like a nerd too.
+
+**Vile:** I'll leave you the intel so you can review it at any time.
+
+**Paimon:** Thanks, Vile.
 
 **Paimon:** "Three six-armed giants reside in the city in the lake. Two guard the statue, one, the treasure."
 
 **Paimon:** What does that mean? If you don't wanna ask Kaeya, you better figure it out!
 
-**Vile:** There's also this map that came with it.
+**Vile:** "Three six-armed giants reside in the city in the lake. Two guard the statue, one, the treasure." Got it?
 
-**Vile:** I'll leave you the intel so you can review it at any time.
+**Paimon:** Ooh, lemme see what's inside!
 
-**Paimon:** Thanks, Vile.
+**Paimon:** "She doesn't love him at all. The passion rushing through the clear spring is just a front. When she's cold and alone, her true heart is revealed."
+
+**Paimon:** There's another map.
+
+**Paimon:** More riddles?
+
+**Paimon:** Paimon's dizzy already. Oh, no! Paimon used up all her brain juice!
+
+- **Traveler:** You never had any to begin with...
+
+**Paimon:** Paimon'll let you have all the fun. Or, you could get Kaeya to help.
 
 #### Solve the mystery (Go to Kaeya at the Knights of Favonius HQ for a hint)
 
@@ -950,13 +1203,21 @@ According to Kaeya, his pirate grandfather left behind a treasured sword that ha
 
 **Kaeya:** "City in the lake" is clearly Mondstadt... As for the Six-Armed Giants... Hmm...
 
-Crabs?
+- **Traveler:** Crabs?
 
 **Paimon:** Giant crabs!
 
 **Kaeya:** Aside from asking just where we would find giant crabs...
 
 **Kaeya:** Crabs have eight legs, not six...
+
+- **Traveler:** The windmills, then?
+
+- **Traveler:** Should be... the windmills?
+
+**Kaeya:** Hey! That's smart!
+
+**Kaeya:** A windmill has six blades... It fits.
 
 **Paimon:** Wow! That makes sense!
 
@@ -970,13 +1231,9 @@ Crabs?
 
 **Paimon:** Come on, Traveler! Let's go take a look around that windmill!
 
-The windmills, then?
+#### Look for the location in the riddle
 
-Should be... the windmills?
-
-**Kaeya:** Hey! That's smart!
-
-**Kaeya:** A windmill has six blades... It fits.
+**Kaeya:** If I'm right, the location described by the clue is the windmill the furthest away from the statue... I'm not completely certain though.
 
 #### Solve the mystery (Go to Kaeya at the Knights of Favonius HQ for a hint)
 
@@ -1002,7 +1259,7 @@ Should be... the windmills?
 
 **Kaeya:** You should probably take someone who can manipulate Cryo with you.
 
-Thanks for the help, Kaeya.
+- **Traveler:** Thanks for the help, Kaeya.
 
 **Kaeya:** It's nothing. If a Knight of Favonius couldn't even answer a riddle, how could we be trusted to solve criminal mysteries?
 
@@ -1012,31 +1269,33 @@ Thanks for the help, Kaeya.
 
 **Paimon:** No, wait... Leave you to SOLVING your criminal mysteries!
 
+- **Traveler:** Maybe when there are people bathing in the spring water?
+
+- **Traveler:** When the water level changes?
+
+**Kaeya:** Such inappropriate behavior... I feel like it has been creeping into Mondstadt for quite a while now.
+
+**Kaeya:** Unless... that's something you two get up to?
+
+**Kaeya:** Oh, my apologies. I shouldn't judge what one does in their own time.
+
+**Paimon:** What's wrong with you? What kind of people do you think we are?
+
+- **Traveler:** Hmm... Maybe it's when the water level of the clear spring changes?
+
+**Kaeya:** Haha. The thing is, if the "rushing passion" isn't coming from the clear spring, then it's coming from the people bathing.
+
+**Kaeya:** Not a bad idea! Like when... there's a waterfall, for example...
+
+**Kaeya:** It appears the solution to this enigma relates to the waterfall behind Springvale.
+
+**Kaeya:** Only the clear spring that blesses Mondstadt can reveal the passion described here.
+
 #### Look for the location in the riddle
-
-**Kaeya:** The location is in the Whispering Woods — you haven't forgotten, right?
-
-#### Look for the location in the riddle
-
-**Kaeya:** If I'm right, the location described by the clue is the windmill the furthest away from the statue... I'm not completely certain though.
-
-#### Disappears after controlling Paimon to talk
 
 **Kaeya:** Take a look around the waterfall near Springvale. Remember to bring a friend who can manipulate Cryo. Huh? Oh... Me?
 
-**Paimon:** Ooh, lemme see what's inside!
-
-**Paimon:** "She doesn't love him at all. The passion rushing through the clear spring is just a front. When she's cold and alone, her true heart is revealed."
-
-**Paimon:** More riddles?
-
-**Paimon:** Paimon's dizzy already. Oh, no! Paimon used up all her brain juice!
-
-You never had any to begin with...
-
-**Paimon:** Paimon'll let you have all the fun. Or, you could get Kaeya to help.
-
-**Paimon:** There's another map.
+**Kaeya:** The location is in the Whispering Woods — you haven't forgotten, right?
 
 ### Kaeya's Gain
 
@@ -1046,13 +1305,21 @@ After much thinking, you finally solve the riddles contained within the intel yo
 
 **Paimon:** This time, the mysteries have all been solved, it sure took a lot of work.
 
+**Paimon:** But in all fairness, this treasure map really is terrible... It looks like it was drawn by a pirate...
+
 **Paimon:** So now...
+
+##### Response branch 1
 
 - **Traveler:** Let's report to Kaeya first.
 
+**Paimon:** Hmm? Paimon believes that there is no need!
+
+##### Response branch 2
+
 - **Traveler:** Let's go to the treasure location directly!
 
-**Paimon:** Hmm? Paimon believes that there is no need!
+##### Shared continuation
 
 **Paimon:** You read my mind! Paimon's so happy!
 
@@ -1070,9 +1337,29 @@ After much thinking, you finally solve the riddles contained within the intel yo
 
 **Paimon:** Arcadian treasure hunt, here we go!
 
-**Paimon:** But in all fairness, this treasure map really is terrible... It looks like it was drawn by a pirate...
+#### Use the map to find the buried treasure
 
-#### Finish conversation
+**Paimon:** This must be the Arcadian Ruins.
+
+**Paimon:** Is it just me, or does it look... plain?
+
+**Paimon:** Oh, Paimon gets it! The perfect disguise is always in plain sight!
+
+**Paimon:** Kaeya's grandpa sure is impressive.
+
+**???:** *pitter-patter*
+
+- **Traveler:** Listen, Paimon...
+
+**Paimon:** Oh! Mice.
+
+- **Traveler:** You didn't even try, did you?
+
+**Paimon:** It's no time to get suspicious. We're close!
+
+**Paimon:** Hurry! The treasure is waiting for us!
+
+#### Enter the depths of the ruin
 
 **Paimon:** Ugh... Is this the end?
 
@@ -1084,15 +1371,21 @@ After much thinking, you finally solve the riddles contained within the intel yo
 
 **???:** How about you let me take over?
 
+##### Response branch 1
+
 - **Traveler:** The Treasure Hoarders?
 
-- **Traveler:** The black market?
-
 **???:** Sharp eye, but too slow.
+
+##### Response branch 2
+
+- **Traveler:** The black market?
 
 **???:** Well, I did have dealings with them.
 
 **???:** But them and their stupid principles... Losers who can't make a fortune.
+
+##### Shared continuation
 
 **Izzard:** I'm Izzard.
 
@@ -1102,7 +1395,7 @@ After much thinking, you finally solve the riddles contained within the intel yo
 
 **Paimon:** We've been keeping a low profile, how did word get out?
 
-Low... profile...?
+- **Traveler:** Low... profile...?
 
 **Paimon:** Hmph! Paimon won't let you have the treasure without a fight!
 
@@ -1150,7 +1443,7 @@ Low... profile...?
 
 **Izzard:** Okay... Oh god... Wh—What is this? I didn't mean it!
 
-#### Talk to Kaeya
+#### Defeat the Ruin Guard
 
 **Izzard:** How embarrassing... Having my life saved by a knight...
 
@@ -1170,11 +1463,19 @@ Low... profile...?
 
 **Kaeya:** Without them spreading our fabricated intel, we wouldn't have been able to catch the Treasure Hoarders.
 
+##### Response branch 1
+
 - **Traveler:** So the intel is fake.
+
+##### Response branch 2
 
 - **Traveler:** There is no treasure.
 
+##### Response branch 3
+
 - **Traveler:** You lied to us?
+
+##### Shared continuation
 
 **Paimon:** *cries* You're a bad man for lying to me... Shame on the Knights!
 
@@ -1194,6 +1495,8 @@ Low... profile...?
 
 **Kaeya:** This is the "Triumphant Harbinger of Dawn That Points Towards Victory." As its name suggests, it symbolizes light and victory.
 
+**Kaeya:** If you don't mind, I would like to present you with this Harbinger of Dawn as a reward.
+
 **Paimon:** Harbinger of Dawn?
 
 **Kaeya:** That's right. It suits a well-cultured and disciplined person such as yourself, wouldn't you say, Paimon?
@@ -1208,36 +1511,57 @@ Low... profile...?
 
 **Kaeya:** You have my apologies for the deception. I will not use the same method twice.
 
+##### Response branch 1
+
 - **Traveler:** ...Paimon has been completely charmed.
+
+##### Response branch 2
 
 - **Traveler:** Means you'll use a different method next time?
 
-**Kaeya:** What a wonderful day. Now, I have to go interrogate my suspect...
+##### Shared continuation
 
-**Kaeya:** If you don't mind, I would like to present you with this Harbinger of Dawn as a reward.
+**Kaeya:** What a wonderful day. Now, I have to go interrogate my suspect...
 
 **Kaeya:** Please excuse me. Do come visit me at our headquarters when you have the chance.
 
+**Kaeya:** Please excuse me. Do come visit me at our headquarters when you have the chance.
 
-**Paimon:** This must be the Arcadian Ruins.
+##### Response branch 1
 
-**Paimon:** Is it just me, or does it look... plain?
+##### Response branch 2
 
-**Paimon:** Oh, Paimon gets it! The perfect disguise is always in plain sight!
+##### Response branch 3
 
-**Paimon:** Kaeya's grandpa sure is impressive.
+##### Shared continuation
 
-**???:** *pitter-patter*
+##### Response branch 1
 
-Listen, Paimon...
+##### Response branch 2
 
-**Paimon:** Oh! Mice.
+##### Shared continuation
 
-You didn't even try, did you?
+**Kaeya:** What a surprise that you solved the puzzles all by yourself and arrived before me.
 
-**Paimon:** It's no time to get suspicious. We're close!
+**Paimon:** So it was you who left all those clues?
 
-**Paimon:** Hurry! The treasure is waiting for us!
+**Kaeya:** Indeed. However, even I believed the clues were too vague to be of any help to you.
+
+**Kaeya:** I was prepared to answer your questions...
+
+**Kaeya:** Quite impressive. This was the only thing that I did not anticipate in the entire operation.
+
+- **Traveler:** It was a cakewalk!
+
+- **Traveler:** Uh, actually, I tapped into other sources for help...
+
+**Paimon:** Hah! That was nothing!
+
+**Kaeya:** No matter what you say, I acknowledge your wisdom. After all, wisdom itself does not deceive.
+
+**Paimon:** But some people do enjoy deceiving others with their wits!
+
+**Kaeya:** Hahaha...
 
 ## ZH
 
@@ -1249,9 +1573,15 @@ You didn't even try, did you?
 
 **凯亚:** 啊啊糟了…伤脑筋…这可怎么办呢……
 
+##### 对话分支 1
+
 - **旅行者:** 怎么了，凯亚？
 
+##### 对话分支 2
+
 - **旅行者:** 你好像不是会这么慌张的人。
+
+##### 共同后续
 
 **凯亚:** 哦，感谢千风。旅行者，你的出现一定是神对我的恩赐。
 
@@ -1259,11 +1589,17 @@ You didn't even try, did you?
 
 **派蒙:** 唔哇，好肉麻。
 
+##### 对话分支 1
+
 - **旅行者:** 也不能说没空…
+
+**凯亚:** 那可太好了！
+
+##### 对话分支 2
 
 - **旅行者:** 先说说究竟发生了什么？
 
-**凯亚:** 那可太好了！
+##### 共同后续
 
 **凯亚:** 其实有件事不方便让骑士团的同事知道，非你帮忙不可。
 
@@ -1273,123 +1609,7 @@ You didn't even try, did you?
 
 **派蒙:** 怎么搞得这么神神秘秘的…
 
-#### 前往冒险家协会打听情报
-
-**派蒙:** 哼，我们才不是为了那么无聊的事来的。
-
-**派蒙:** 我们是在找一柄从天空岛上掉下来的，斩杀过八头女妖，银发海蛇的…
-
-**派蒙:** 超级超级厉害的神剑！
-
-- **旅行者:** 是八头海蛇，银发女妖…
-
-- **旅行者:** 你透露太多情报了。
-
-**派蒙:** 欸，都差不多啦，反正就是…很厉害。
-
-**派蒙:** 总而言之，只要不把藏宝地点说出去就好。
-
-**派蒙:** 没关系啦，只要不把藏宝地点说出去就好。
-
-**派蒙:** 那么，塞琉斯先生，你知道「失落的阿卡狄亚遗迹」在哪里吗？
-
-（就这么说出去了…）
-
-**塞琉斯:** 「阿卡狄亚遗迹」…没听说过这名字。
-
-**塞琉斯:** 不过还是谢谢你们分享的情报。如果找到的话，记得拿来让我见识见识。
-
-**派蒙:** 嗯？分享…情报…？
-
-#### 与冒险家对话，打听情报
-
-**派蒙:** 抱歉哦，我们只是想问你知不知道「阿卡狄亚遗迹」在哪里。
-
-**斯坦利:** …「阿卡狄亚遗迹」？居然还有我斯坦利没去过的地方…
-
-**派蒙:** 斯坦利先生也不知道吗？
-
-**斯坦利:** 唔…先别管什么阿卡狄亚了，不如听我讲讲我在烬寂海、泉之境发生的事…
-
-**派蒙:** 我们没时间听故事啦，再帮忙好好想想有没有什么线索嘛。
-
-**斯坦利:** 当初，我在烬寂海，那可是一片死亡之地…
-
-**派蒙:** 呜——
-
-**派蒙:** 等我们找到宝藏，「阿卡狄亚寻宝记」的故事一定比你的要精彩得多！
-
-（就这么说出去了…）
-
-**斯坦利:** 宝藏？还有…寻宝记？
-
-**派蒙:** 唉，算了。看来他这边问不出什么，我们走吧。
-
-不，我们是来…
-
-#### 与冒险家对话，打听情报
-
-**派蒙:** 你好！请问有没有什么关于「阿卡狄亚遗迹」的消息？
-
-**杰克:** 阿卡狄亚…好像没听说过。对不起，我还是协会的新人，了解的情报比较少。
-
-**派蒙:** 这样啊…
-
-**杰克:** 不如试着去协会里挂个委托看看？有实力的老手们也是很活跃的。
-
-**派蒙:** 不行不行不行，这可不行。
-
-**派蒙:** 万一被那些冒险家们捷足先登，把宝藏拿走就完了。
-
-（就这么说出去了…）
-
-**杰克:** 哦~↑↓
-
-**杰克:** 那就没办法了。宝藏的事我会替你们留意的，呃，不，是遗迹的事…
-
-**派蒙:** 好呀，非常感谢！
-
-想请教一下…
-
-#### 向凯亚报告
-
-**凯亚:** 哦，你们回来了。有带来什么好消息吗？
-
-**派蒙:** 唔嗯…我们在冒险家协会打听了一圈，但还是没找到什么线索。
-
-**凯亚:** 呼呼，那是当然的。
-
-**派蒙:** 嗯？
-
-**凯亚:** 没什么。我是说，不经历一些挫折，又怎么会有得到宝藏时的喜悦呢？
-
-**凯亚:** 对了，正巧我这边倒是有一些消息。
-
-**凯亚:** 我刚托人去了趟地下情报交易所…似乎有人知道「阿卡狄亚遗迹」的相关情报。
-
-**派蒙:** 真的吗？那人在哪里？
-
-**凯亚:** 别急，按照交易所的规矩，他们会安排线人来和我们接头，防止情报泄露。
-
-**凯亚:** 那个线人，我已经约她在低语森林见面了。
-
-**派蒙:** 那我们还在等什么呀，不去找她吗？
-
-- **旅行者:** 这件事凯亚自己不方便出面吧。
-
-- **旅行者:** 我和派蒙会把情报带回来的。
-
-**凯亚:** 没错！真不愧是阁下。
-
-**凯亚:** 毕竟我是骑士嘛，理论上是完全不了解这些地下活动的。
-
-**凯亚:** 那就有劳二位替我跑一趟了，不胜感激。
-
-**凯亚:** 情报费用方面，当然，我也会替你们报销的。
-
-**派蒙:** 嘿嘿。包在我身上！
-
-#### 到达目标地点
+#### 在约定地点与凯亚对话
 
 **凯亚:** 抱歉，我现在有点忙。有空请务必帮忙收集些…线索，你明白的。
 
@@ -1411,13 +1631,19 @@ You didn't even try, did you?
 
 **凯亚:** 看！我的眼罩就是海盗爷爷的遗传，这就是血亲的证明！
 
-- **旅行者:** 眼罩原来还能遗传的吗？
+##### 对话分支 1
 
-- **旅行者:** 真令人惊讶。
+- **旅行者:** 眼罩原来还能遗传的吗？
 
 **凯亚:** 啊哈哈，旅行者，你还真是没有常识呀。
 
 **凯亚:** 这就像许多孩子头上的辫子也遗传自妈妈，是一样的道理啊。
+
+##### 对话分支 2
+
+- **旅行者:** 真令人惊讶。
+
+##### 共同后续
 
 **凯亚:** 昨晚我翻阅爷爷留下来的手记，偶然发现了爷爷留下的宝藏信息…
 
@@ -1451,11 +1677,17 @@ You didn't even try, did you?
 
 **凯亚:** 为了避免争端，爷爷只能把神剑藏了起来。
 
+##### 对话分支 1
+
 - **旅行者:** 八头海蛇、银发女妖…真的存在吗？
+
+**凯亚:** 这世界就是因为充满了未知，所以才会有趣的嘛。
+
+##### 对话分支 2
 
 - **旅行者:** ……
 
-**凯亚:** 这世界就是因为充满了未知，所以才会有趣的嘛。
+##### 共同后续
 
 **凯亚:** 精彩到令人难以置信的冒险，只属于海盗的浪漫，不是吗？
 
@@ -1475,20 +1707,171 @@ You didn't even try, did you?
 
 **派蒙:** 喂，怎么样，旅行者？不觉得很激动吗？那可是超——级厉害的神剑呀。
 
+##### 对话分支 1
+
 - **旅行者:** 那是真的吗？
 
+##### 对话分支 2
+
 - **旅行者:** 那真的是真的吗？
+
+##### 共同后续
 
 **派蒙:** 嗯…不如先去冒险家协会附近打探一下情报？
 
 **派蒙:** 关于遗迹的情报，冒险家们会比较清楚吧。
 
+#### 前往冒险家协会打听情报
 
-我们正在寻找…
+**塞琉斯:** 啊哈！小鬼，欢迎加入冒险家协会！
+
+**斯坦利:** 我是斯坦利，好好记住我的名字！你也是来听我的冒险故事的吧？
+
+**杰克:** 你好！你也是新人冒险家吗？要不要来我的冒险团？
+
+**派蒙:** 哼，我们才不是为了那么无聊的事来的。
+
+**派蒙:** 我们是在找一柄从天空岛上掉下来的，斩杀过八头女妖，银发海蛇的…
+
+**派蒙:** 超级超级厉害的神剑！
+
+##### 对话分支 1
+
+- **旅行者:** 是八头海蛇，银发女妖…
+
+**派蒙:** 欸，都差不多啦，反正就是…很厉害。
+
+**派蒙:** 总而言之，只要不把藏宝地点说出去就好。
+
+##### 对话分支 2
+
+- **旅行者:** 你透露太多情报了。
+
+**派蒙:** 没关系啦，只要不把藏宝地点说出去就好。
+
+**派蒙:** 那么，塞琉斯先生，你知道「失落的阿卡狄亚遗迹」在哪里吗？
+
+##### 共同后续
+
+- **旅行者:** （就这么说出去了…）
+
+**塞琉斯:** 「阿卡狄亚遗迹」…没听说过这名字。
+
+**塞琉斯:** 不过还是谢谢你们分享的情报。如果找到的话，记得拿来让我见识见识。
+
+**派蒙:** 嗯？分享…情报…？
+
+**???:** ……
+
+- **旅行者:** 我们正在寻找…
+
+**塞琉斯:** 关于「阿卡狄亚遗迹」
+
+**塞琉斯:** 我对你们说的还是蛮有兴趣的，可惜线索方面真的帮不上忙。
+
+- **旅行者:** 不，我们是来…
+
+**派蒙:** 抱歉哦，我们只是想问你知不知道「阿卡狄亚遗迹」在哪里。
+
+**斯坦利:** …「阿卡狄亚遗迹」？居然还有我斯坦利没去过的地方…
+
+**派蒙:** 斯坦利先生也不知道吗？
+
+**斯坦利:** 唔…先别管什么阿卡狄亚了，不如听我讲讲我在烬寂海、泉之境发生的事…
+
+**派蒙:** 我们没时间听故事啦，再帮忙好好想想有没有什么线索嘛。
+
+**斯坦利:** 当初，我在烬寂海，那可是一片死亡之地…
+
+**派蒙:** 呜——
+
+**派蒙:** 等我们找到宝藏，「阿卡狄亚寻宝记」的故事一定比你的要精彩得多！
+
+- **旅行者:** （就这么说出去了…）
+
+**斯坦利:** 宝藏？还有…寻宝记？
+
+**派蒙:** 唉，算了。看来他这边问不出什么，我们走吧。
+
+- **旅行者:** 关于「阿卡狄亚遗迹」
+
+**斯坦利:** 既然不是来听我的故事，咱们也没什么好说的了。
+
+- **旅行者:** 想请教一下…
+
+**派蒙:** 你好！请问有没有什么关于「阿卡狄亚遗迹」的消息？
+
+**杰克:** 阿卡狄亚…好像没听说过。对不起，我还是协会的新人，了解的情报比较少。
+
+**派蒙:** 这样啊…
+
+**杰克:** 不如试着去协会里挂个委托看看？有实力的老手们也是很活跃的。
+
+**派蒙:** 不行不行不行，这可不行。
+
+**派蒙:** 万一被那些冒险家们捷足先登，把宝藏拿走就完了。
+
+- **旅行者:** （就这么说出去了…）
+
+**杰克:** 哦~↑↓
+
+**杰克:** 那就没办法了。宝藏的事我会替你们留意的，呃，不，是遗迹的事…
+
+**派蒙:** 好呀，非常感谢！
+
+- **旅行者:** 关于「阿卡狄亚遗迹」
+
+**杰克:** 嗯…要不要也出发去找找看呢…哦？没事没事，祝你们能早日找到那处遗迹，哈哈。
+
+#### 向凯亚报告
+
+**凯亚:** 哦，你们回来了。有带来什么好消息吗？
+
+**派蒙:** 唔嗯…我们在冒险家协会打听了一圈，但还是没找到什么线索。
+
+**凯亚:** 呼呼，那是当然的。
+
+**派蒙:** 嗯？
+
+**凯亚:** 没什么。我是说，不经历一些挫折，又怎么会有得到宝藏时的喜悦呢？
+
+**凯亚:** 对了，正巧我这边倒是有一些消息。
+
+**凯亚:** 我刚托人去了趟地下情报交易所…似乎有人知道「阿卡狄亚遗迹」的相关情报。
+
+**派蒙:** 真的吗？那人在哪里？
+
+**凯亚:** 别急，按照交易所的规矩，他们会安排线人来和我们接头，防止情报泄露。
+
+**凯亚:** 那个线人，我已经约她在低语森林见面了。
+
+**派蒙:** 那我们还在等什么呀，不去找她吗？
+
+##### 对话分支 1
+
+- **旅行者:** 这件事凯亚自己不方便出面吧。
+
+**凯亚:** 没错！真不愧是阁下。
+
+**凯亚:** 毕竟我是骑士嘛，理论上是完全不了解这些地下活动的。
+
+##### 对话分支 2
+
+- **旅行者:** 我和派蒙会把情报带回来的。
+
+##### 共同后续
+
+**凯亚:** 那就有劳二位替我跑一趟了，不胜感激。
+
+**凯亚:** 情报费用方面，当然，我也会替你们报销的。
+
+**派蒙:** 嘿嘿。包在我身上！
 
 ### 阿卡狄亚遗迹之谜
 
 据凯亚说，他的海盗爷爷留下一处「剑」之宝藏，埋藏于「失落的阿卡狄亚遗迹」。为了抢在窃贼之前将宝藏保护起来，你们四处打听，努力收集有关「失落的阿卡狄亚遗迹」的情报。
+
+#### 在约定地点与线人见面
 
 #### 击退围攻线人的怪物
 
@@ -1512,11 +1895,17 @@ You didn't even try, did you?
 
 **薇尔:** 做情报生意的，都知道多交朋友的重要性呢。
 
+##### 对话分支 1
+
 - **旅行者:** 真的可以吗？
+
+**薇尔:** 当然，毕竟是救命恩人嘛。
+
+##### 对话分支 2
 
 - **旅行者:** 谢谢你，朋友。
 
-**薇尔:** 当然，毕竟是救命恩人嘛。
+##### 共同后续
 
 **派蒙:** 嘿，真是好运！
 
@@ -1528,27 +1917,49 @@ You didn't even try, did you?
 
 **派蒙:** …嗯？这就完啦？
 
+**薇尔:** 记录着情报的纸上还附了这样一张图…
+
 **派蒙:** 唔…这图上画的难道就是藏宝地？
 
 **派蒙:** 唔…好不容易拿到了线索，原来还要猜谜呀。
 
 **派蒙:** 不过以旅行者的聪明才智应该不是问题吧~！
 
+##### 对话分支 1
+
 - **旅行者:** 那是当然！
+
+##### 对话分支 2
 
 - **旅行者:** …应该…没问题吧…
 
+##### 共同后续
+
 **派蒙:** 唔嗯，就算解不出来，至少还可以去问问凯亚，他好像脑袋也很好用的样子呢。
+
+**薇尔:** 那这份情报就先放在你们这边吧，如果忘记了可以随时拿出来看。
+
+**派蒙:** 嘿嘿，谢谢薇尔小姐啦。
 
 **派蒙:** 「湖中之城里住着三只六臂巨人，两位守护着神像，一位守护着众神的财宝」
 
 **派蒙:** …究竟是指什么呢？如果不想麻烦凯亚，就自己好好想想吧~！
 
-**薇尔:** 记录着情报的纸上还附了这样一张图…
+**薇尔:** 「在那湖中之城里，住着三只六臂巨人。两位守护着神像，一位守护着众神的财宝」…记住了吗。
 
-**薇尔:** 那这份情报就先放在你们这边吧，如果忘记了可以随时拿出来看。
+**派蒙:** 快让我看看~！藏起来的是什么东西？
 
-**派蒙:** 嘿嘿，谢谢薇尔小姐啦。
+**派蒙:** 「她根本不爱他。清泉的热情奔放只是虚浮表象，冰冷寂寞之时，她的心才显露真实」。
+
+**派蒙:** 这次同样也附了一张图呢。
+
+**派蒙:** 什么嘛，还要猜谜吗？
+
+**派蒙:** 不行了，派蒙觉得好累，头晕晕的，大概是用脑过度了吧。
+
+- **旅行者:** 你明明就没动过脑…
+
+**派蒙:** 总之这次也靠你了，嘻嘻。没有想法的话，就再去找凯亚帮忙吧~！
 
 #### 破解谜题（到骑士团找凯亚可获取提示）
 
@@ -1562,13 +1973,21 @@ You didn't even try, did you?
 
 **凯亚:** 湖中之城应该指的是蒙德城没错…六臂巨人？六…什么东西与六相关来着…
 
-难道是螃蟹脚？
+- **旅行者:** 难道是螃蟹脚？
 
 **派蒙:** 所以六臂巨人是巨大的螃蟹！
 
 **凯亚:** …先不说哪里有巨大螃蟹的问题…
 
 **凯亚:** 螃蟹是有八只蟹脚的吧。
+
+- **旅行者:** …那应该是指风车？
+
+- **旅行者:** 应该是指…风车？
+
+**凯亚:** 哦~！不愧是你。
+
+**凯亚:** 风车上的扇叶刚好有六个，称它为「六臂巨人」似乎很形象呢。
 
 **派蒙:** 呜哇！你这么一说！
 
@@ -1582,13 +2001,9 @@ You didn't even try, did you?
 
 **派蒙:** 走吧走吧，旅行者我们快去那座风车下看看吧！
 
-…那应该是指风车？
+#### 寻找谜题中所指的地点
 
-应该是指…风车？
-
-**凯亚:** 哦~！不愧是你。
-
-**凯亚:** 风车上的扇叶刚好有六个，称它为「六臂巨人」似乎很形象呢。
+**凯亚:** 没猜错的话，线索指向的是离神像最远的风车处…我也不是那么确定哦。
 
 #### 破解谜题（到骑士团找凯亚可获取提示）
 
@@ -1614,7 +2029,7 @@ You didn't even try, did you?
 
 **凯亚:** 你最好带上一位能够掌控冰元素的朋友一起去。
 
-多亏了凯亚帮忙。
+- **旅行者:** 多亏了凯亚帮忙。
 
 **凯亚:** 不足挂齿，作为西风骑士如果连猜谜都不擅长的话，还怎么看穿罪犯的阴谋诡计呢？
 
@@ -1624,31 +2039,33 @@ You didn't even try, did you?
 
 **派蒙:** 哦不对…是不打扰你看穿罪犯的阴谋诡计！
 
+- **旅行者:** 有人在泉水里洗澡的时候？
+
+- **旅行者:** 遇到高低落差的时候？
+
+**凯亚:** …这种有伤风化的事，感觉蒙德已经很少见了呢。
+
+**凯亚:** 难道…这是你的兴趣？
+
+**凯亚:** 哦哦，真是抱歉，我本不该对他人的兴趣评头论足的。
+
+**派蒙:** 喂，你把旅行者想象成什么人了呀！
+
+- **旅行者:** 嗯…难道说是清泉遇到高低落差的时候？
+
+**凯亚:** 呵呵。关键是如果那样，热情奔放的就不是清泉，而是在洗澡的人了吧。
+
+**凯亚:** 不错的想法！比如…遇到瀑布之类的…
+
+**凯亚:** 这样看来，我想它指的应该是清泉镇后山的瀑布。
+
+**凯亚:** 只有在那里，恩泽蒙德的清泉才会显露热情奔放的一面。
+
 #### 寻找谜题中所指的地点
-
-**凯亚:** 地点在低语森林，你没忘记吧。
-
-#### 寻找谜题中所指的地点
-
-**凯亚:** 没猜错的话，线索指向的是离神像最远的风车处…我也不是那么确定哦。
-
-#### 控制派蒙对话后消失
 
 **凯亚:** 去清泉镇的瀑布上找找吧，记得带上一位善用冰元素的朋友。哦？嗯…我自己吗…
 
-**派蒙:** 快让我看看~！藏起来的是什么东西？
-
-**派蒙:** 「她根本不爱他。清泉的热情奔放只是虚浮表象，冰冷寂寞之时，她的心才显露真实」。
-
-**派蒙:** 什么嘛，还要猜谜吗？
-
-**派蒙:** 不行了，派蒙觉得好累，头晕晕的，大概是用脑过度了吧。
-
-你明明就没动过脑…
-
-**派蒙:** 总之这次也靠你了，嘻嘻。没有想法的话，就再去找凯亚帮忙吧~！
-
-**派蒙:** 这次同样也附了一张图呢。
+**凯亚:** 地点在低语森林，你没忘记吧。
 
 ### 凯亚的收获
 
@@ -1658,13 +2075,21 @@ You didn't even try, did you?
 
 **派蒙:** 这下谜团都解开啦，真是花了很多功夫呢。
 
+**派蒙:** 不过话说回来，这张藏宝图画的还真是潦草呢…确实像是出自海盗之手。
+
 **派蒙:** 那么现在…
+
+##### 对话分支 1
 
 - **旅行者:** 先去向凯亚汇报一下。
 
+**派蒙:** 嗯…？派蒙觉得，不，需，要，哦。
+
+##### 对话分支 2
+
 - **旅行者:** 直奔藏宝地点吧！
 
-**派蒙:** 嗯…？派蒙觉得，不，需，要，哦。
+##### 共同后续
 
 **派蒙:** 不愧是派蒙的伙伴！和派蒙想的…完，全，一，样！
 
@@ -1682,9 +2107,29 @@ You didn't even try, did you?
 
 **派蒙:** 阿卡狄亚寻宝之旅——正式启程！
 
-**派蒙:** 不过话说回来，这张藏宝图画的还真是潦草呢…确实像是出自海盗之手。
+#### 根据地图找到宝藏埋藏地
 
-#### 与派蒙对话
+**派蒙:** 「阿卡狄亚遗迹」就是这里了吧。
+
+**派蒙:** 怎么说…感觉稍微有些普通？
+
+**派蒙:** 我明白了，正所谓越是普通的地方，越容易被人忽视。
+
+**派蒙:** 真是深刻，凯亚的爷爷果然厉害。
+
+**???:** ——沙沙，咯噔。
+
+- **旅行者:** 嗯？派蒙，你听…
+
+**派蒙:** 是老鼠。
+
+- **旅行者:** 回答得太轻易了吧。
+
+**派蒙:** 唔…别疑神疑鬼了，不会有什么问题的。
+
+**派蒙:** 动作要快！宝藏已经在里面等我们很久啦！
+
+#### 进入遗迹深处
 
 **派蒙:** 呼…这里就是尽头了？
 
@@ -1696,15 +2141,21 @@ You didn't even try, did you?
 
 **???:** 剩下的，由我来接手就好。
 
+##### 对话分支 1
+
 - **旅行者:** 盗宝团的人？
 
-- **旅行者:** …是情报交易所的人吗？
-
 **???:** 真是机灵，不过现在才发现是不是有点太晚了？
+
+##### 对话分支 2
+
+- **旅行者:** …是情报交易所的人吗？
 
 **???:** 哈哈哈，情报交易所。我倒是和他们打过交道。
 
 **???:** 都是些守规矩的商人，发不了大财的家伙们…
+
+##### 共同后续
 
 **伊扎德:** 你们好，我是伊扎德。
 
@@ -1714,7 +2165,7 @@ You didn't even try, did you?
 
 **派蒙:** 真是奇怪，我们明明一直都在暗中行动，宝藏的秘密是怎么泄露的？
 
-我倒是完全不觉得奇怪。
+- **旅行者:** 我倒是完全不觉得奇怪。
 
 **派蒙:** 哼！我可不会甘心的。喂，盗宝贼！你以为我们不会反抗吗！
 
@@ -1762,7 +2213,7 @@ You didn't even try, did you?
 
 **伊扎德:** 这…这是什么？我不是故意的！
 
-#### 听凯亚解释「宝藏」的真相
+#### 击败遗迹守卫
 
 **伊扎德:** 呼…没想到居然混到了被骑士团救命的地步，真是丢脸。
 
@@ -1782,11 +2233,19 @@ You didn't even try, did you?
 
 **凯亚:** 没有他们散布假情报，我们也没那么容易搞定盗宝团。
 
+##### 对话分支 1
+
 - **旅行者:** 果然是假情报。
+
+##### 对话分支 2
 
 - **旅行者:** 果然根本没有什么宝藏。
 
+##### 对话分支 3
+
 - **旅行者:** 原来我被骗了！震惊！
+
+##### 共同后续
 
 **派蒙:** 呜呜呜…骗子！喜欢说谎的坏人！骑士团的败类！
 
@@ -1806,6 +2265,8 @@ You didn't even try, did you?
 
 **凯亚:** 这柄剑名为「斩开黎明指向胜利的拂晓神剑」，如它的名字一样，是象征光明与胜利之剑。
 
+**凯亚:** 不嫌弃的话，这柄我珍藏已久的「黎明神剑」就作为给两位的谢礼吧。
+
 **派蒙:** 「黎明神剑」？
 
 **凯亚:** 没错。与通情达理的派蒙阁下很相称吧？
@@ -1820,33 +2281,54 @@ You didn't even try, did you?
 
 **凯亚:** 这次的事实在抱歉，但请派蒙阁下放心，同样的伎俩我是不会用两次的。
 
+##### 对话分支 1
+
 - **旅行者:** …派蒙已经完全被掌控了呢。
+
+##### 对话分支 2
 
 - **旅行者:** …不同的伎俩就可以继续用吗。
 
-**凯亚:** 真是愉快的一天。那么，我还要回去审讯嫌犯…
+##### 共同后续
 
-**凯亚:** 不嫌弃的话，这柄我珍藏已久的「黎明神剑」就作为给两位的谢礼吧。
+**凯亚:** 真是愉快的一天。那么，我还要回去审讯嫌犯…
 
 **凯亚:** 今天就先告辞了。以后也欢迎来骑士团找我，我们下次再见吧。
 
+**凯亚:** 今天就先告辞了。以后也欢迎来骑士团找我，我们下次再见吧。
 
-**派蒙:** 「阿卡狄亚遗迹」就是这里了吧。
+##### 对话分支 1
 
-**派蒙:** 怎么说…感觉稍微有些普通？
+##### 对话分支 2
 
-**派蒙:** 我明白了，正所谓越是普通的地方，越容易被人忽视。
+##### 对话分支 3
 
-**派蒙:** 真是深刻，凯亚的爷爷果然厉害。
+##### 共同后续
 
-**???:** ——沙沙，咯噔。
+##### 对话分支 1
 
-嗯？派蒙，你听…
+##### 对话分支 2
 
-**派蒙:** 是老鼠。
+##### 共同后续
 
-回答得太轻易了吧。
+**凯亚:** 话说回来，你们居然完全依靠自己的力量解开谜题，找到了这里。
 
-**派蒙:** 唔…别疑神疑鬼了，不会有什么问题的。
+**派蒙:** 那些线索也是你给的咯？
 
-**派蒙:** 动作要快！宝藏已经在里面等我们很久啦！
+**凯亚:** 没错。可那些线索模糊的程度，连我都觉得对你们有些苛刻了。
+
+**凯亚:** 本来已经做好准备，随时可以替你们答疑解惑的…
+
+**凯亚:** 呵呵，这应该算是这次行动中，唯一出乎我意料的地方了。
+
+- **旅行者:** 只是小菜一碟！
+
+- **旅行者:** 其实我用了些别的办法…
+
+**派蒙:** 嘿嘿，这点程度而已，当然不在话下啦！
+
+**凯亚:** 不管怎么说，我认可你们的智慧，毕竟智慧本身是不会骗人的。
+
+**派蒙:** 只是有些人喜欢拿智慧来骗人而已~！
+
+**凯亚:** 哈哈哈哈…

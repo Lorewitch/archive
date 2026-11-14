@@ -1,0 +1,138 @@
+{
+  "removed_card_count": 185,
+  "removed_new_image_count": 61,
+  "removed_group_count": 3,
+  "automated_tests": {
+    "python": 5,
+    "node": 29,
+    "failed": 0
+  },
+  "build_commands": [
+    {
+      "command": "python3 tools/prune_bot_index.py",
+      "chunk_id": "2afd1e",
+      "wall_time_seconds": 0.801776621,
+      "exit_code": 0,
+      "original_token_count": 13,
+      "output": "Pruned bot mentions: 1219 entries and 35536 phrases\n"
+    },
+    {
+      "command": "python3 tools/build_bot_runtime_index.py",
+      "chunk_id": "93e3f3",
+      "wall_time_seconds": 0.285545381,
+      "exit_code": 0,
+      "original_token_count": 19,
+      "output": "Built bot runtime index: 1219 entries, 35536 phrases; 5.4 MB (was 14.1 MB)\n"
+    },
+    {
+      "command": "python3 tools/build_js.py",
+      "chunk_id": "2e9ded",
+      "wall_time_seconds": 2.7131e-05,
+      "exit_code": 0,
+      "original_token_count": 12,
+      "output": "Built assets/js/archive.js from 13 JS modules.\n"
+    },
+    {
+      "command": "python3 tools/bump_cache_version.py",
+      "chunk_id": "d0e855",
+      "wall_time_seconds": 3.1648e-05,
+      "exit_code": 0,
+      "original_token_count": 5,
+      "output": "Cache version: 795\n"
+    },
+    {
+      "command": "python3 tools/build_pwa.py",
+      "chunk_id": "11543d",
+      "wall_time_seconds": 0.735956382,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Built sw.js: release e8d3af9b4a1e0039, 57 offline shell/catalog assets\n"
+    }
+  ],
+  "validation_commands": [
+    {
+      "command": "python3 tools/check_source.py",
+      "chunk_id": "33b2c7",
+      "wall_time_seconds": 2.260575445,
+      "exit_code": 0,
+      "original_token_count": 12,
+      "output": "Проверка конфликтов Git: OK\n"
+    },
+    {
+      "command": "python3 tools/check_archive.py",
+      "chunk_id": "e7e489",
+      "wall_time_seconds": 5.153141849,
+      "exit_code": 0,
+      "original_token_count": 29,
+      "output": "Проверка архива: OK (books: 169, artifacts: 63, weapons: 253, items: 291, stories: 443, enemies: 280)\n"
+    },
+    {
+      "command": "python3 tools/check_bot_index.py",
+      "chunk_id": "277fd2",
+      "wall_time_seconds": 0.477142813,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "Индексы Альтер: OK (состав записей, маршруты, поисковые связи, формат v2/v3)\n"
+    },
+    {
+      "command": "python3 -m unittest discover -s tools -p 'test_*.py'",
+      "chunk_id": "b5f0d3",
+      "wall_time_seconds": 0.025338036,
+      "exit_code": 0,
+      "original_token_count": 26,
+      "output": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.002s\n\nOK\n"
+    },
+    {
+      "command": "node --test tools/test_client.cjs tools/test_pwa.cjs",
+      "chunk_id": "297366",
+      "wall_time_seconds": 0.805884124,
+      "exit_code": 0,
+      "original_token_count": 699,
+      "output": "✔ every Alter deep link resolves to its original section, group and entry (615.224782ms)\n✔ opening a different book with fewer volumes displays its first volume (2.577138ms)\n✔ hover and click share one request; failed requests can be retried (1.981902ms)\n✔ the reading cache stays bounded after a long browsing session (2.480873ms)\n✔ a late catalog response cannot replace the newly selected category (1.759928ms)\n✔ character specialty filters and combined weapon filters return matching entries (5.432574ms)\n✔ category counts are available before visiting any category (2.05338ms)\n✔ game text is escaped before Markdown formatting (1.516792ms)\n✔ offline misses are distinguishable from genuinely empty optional categories (3.412745ms)\n✔ the manifest is portable under /archive/, with both regular and maskable install icons (2.370837ms)\n✔ installation saves the shell and catalogs, without downloading every text or Alter indexes (67.020739ms)\n✔ a failed first install never replaces a usable older release (4.142975ms)\n✔ an active release keeps HTML paired with its cached JS until the update is accepted (42.728856ms)\n✔ saved text works offline across HTML cache-version changes, and fresh online text replaces it (6.81833ms)\n✔ HTTP 500 falls back to saved text, while an unknown offline entry stays a distinct error (4.434403ms)\n✔ an authoritative deletion removes both dynamic and precached catalog copies (5.659465ms)\n✔ malformed online JSON cannot poison a valid saved copy (2.918261ms)\n✔ only known empty categories return an empty list offline (7.048807ms)\n✔ offline page reload and deep links keep the archive shell, while other project scopes are untouched (9.780607ms)\n✔ activation preserves saved texts, removes older catalogs, and retains unrelated application caches (1.908452ms)\n✔ first-visit warmup saves an opened text but rejects external, bot and source-file URLs (2.197126ms)\n✔ simultaneous cache writes keep the storage limit and evict the oldest records (5.702471ms)\n✔ storage failures do not interrupt fresh online reading (2.606662ms)\n✔ native installation is offered only after a user clicks, and standalone windows hide the install button (2.740584ms)\n✔ manual installation help closes the mobile menu before opening a focusable dialog (1.168318ms)\n✔ a fresh online response clears the saved-copy status after network recovery (0.936239ms)\n✔ an available update never reloads reading until the user chooses it (1.025363ms)\n✔ returning to About restores native installation, update and offline status (1.118243ms)\n✔ conflicted online HTML cannot replace a usable offline release (15.957552ms)\nℹ tests 29\nℹ suites 0\nℹ pass 29\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 796.096948\n"
+    },
+    {
+      "command": "node --check assets/js/archive.js",
+      "chunk_id": "b08f90",
+      "wall_time_seconds": 1.9329e-05,
+      "exit_code": 0,
+      "original_token_count": 0,
+      "output": ""
+    },
+    {
+      "command": "node --check sw.js",
+      "chunk_id": "402a95",
+      "wall_time_seconds": 0.025227044,
+      "exit_code": 0,
+      "original_token_count": 0,
+      "output": ""
+    }
+  ],
+  "all_remaining_markdown_byte_exact_to_previous_zip": 1499,
+  "inventory_group_counts": {
+    "common_enemies": 53,
+    "development_materials": 58,
+    "teyvat_resources": 118,
+    "weekly_bosses": 14,
+    "world_bosses": 48
+  },
+  "menu_group_keys": [
+    "weekly_bosses",
+    "world_bosses",
+    "common_enemies",
+    "development_materials",
+    "teyvat_resources"
+  ],
+  "removed_menu_groups_filters_and_group_indexes_absent": true,
+  "removed_card_ids_absent_from_all_public_json": true,
+  "surviving_individual_material_json_byte_exact": true,
+  "css_unchanged": true,
+  "remaining_images_byte_exact": true,
+  "deleted_images_exactly_match_cleanup_record": true,
+  "world_quests_preserved": 209,
+  "mandatory_source_parts_preserved": 34,
+  "character_voiceovers_preserved": 9330,
+  "new_material_cards": 220,
+  "old_material_cards": 1279,
+  "browser_visual_check": "Not performed. Menu configuration, compiled client, data integrity, routes and offline behavior validated by automated checks.",
+  "verification_scope": "Historical stage before notes removal and world-series metadata update; current verification: final_source_audit.json"
+}

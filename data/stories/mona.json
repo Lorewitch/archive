@@ -146,5 +146,946 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Меня зовут Астрологист Мона Мегистус и это означает «великий астролог Мона». Если тебе нужны предсказания, то запомнить моё имя - это базовая вежливость... И надо произнести его с первой попытки!",
+        "en": "I am Astrologist Mona Megistus, meaning \"The Great Astrologist Mona.\" If it is divination you seek from me, then I ask you respect my name by learning it wholly, here and now.",
+        "zh": "我的名字是阿斯托洛吉斯·莫娜·梅姬斯图斯，意为「伟大的占星术士莫娜」。如果想找我占卜，记住我的名字是最基本的尊重…而且要一次性全念对！"
+      },
+      "source_id": 30009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Гадание",
+        "en": "Chat: Astrology",
+        "zh": "闲聊·占卜"
+      },
+      "text": {
+        "ru": "Суть гадания - верно предсказать уже установленную судьбу. Приукрашивание ведёт лишь к недопониманию.",
+        "en": "Divination is about precisely foretelling one's written destiny. Over-embellishing that fate only leads to misconception.",
+        "zh": "占卜就是把既定的命运准确地展示出来。过度的修饰，只会让人们产生误解。"
+      },
+      "source_id": 30010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Жизнь",
+        "en": "Chat: Life",
+        "zh": "闲聊·生活"
+      },
+      "text": {
+        "ru": "Астролог должен избавиться от мирских желаний. Только ведя простую жизнь, можно постичь суть мира.",
+        "en": "Astrologers must rid themselves of material desires. Only by ridding oneself of clutter can one see the true world around them.",
+        "zh": "限制物欲是占星术士修行的一部分，只有简朴地生活，才能窥探到世界的真实。"
+      },
+      "source_id": 30011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Судьба",
+        "en": "Chat: Fate",
+        "zh": "闲聊·命运"
+      },
+      "text": {
+        "ru": "Судьбу нельзя изменить, ей нельзя противиться, её можно только принять. Поэтому она называется судьбой.",
+        "en": "Fate is called as such, for it cannot be changed, nor can it be reversed. It can only but be accepted.",
+        "zh": "正是因为无法更改，无可违逆，只能接受，命运才会被称之为命运。"
+      },
+      "source_id": 30012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Какой сильный дождь... Не только звёзд не видно, но и вода вся рябью покрылась.",
+        "en": "With rain this heavy, not only are the stars clouded, so too is my scryglass hazy.",
+        "zh": "这么大的雨…不仅看不见星光，连水占盘都模糊了。"
+      },
+      "source_id": 30013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "С какого звёздного неба падают эти молнии?",
+        "en": "Which of the starry skies do these thunderbolts fall from?",
+        "zh": "这些落雷…究竟是从哪个星空降下的呢？"
+      },
+      "source_id": 30014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Чистая вода из растаявшего снега лучше всего подходит для гидромантии.",
+        "en": "The pure waters of melted snow are optimal for hydromancy.",
+        "zh": "纯净的融雪之水，很适合用在水占盘里。"
+      },
+      "source_id": 30015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Не нужно быть астрологом, чтобы понять, что погода хорошая.",
+        "en": "One need not scry to know today's weather will be good.",
+        "zh": "嗯，是个无须占卜也能感觉到的好天气。"
+      },
+      "source_id": 30016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Ты пришёл не вовремя, утренняя звезда только что пропала... Завтракать? Я уже позавтракала. / Ты пришла не вовремя, утренняя звезда только что пропала... Завтракать? Я уже позавтракала.",
+        "en": "Your arrival is untimely. The morning star has just waned... Breakfast? No, I—I've already eaten.",
+        "zh": "你来得不巧，清晨的启明星刚刚消失了…早餐？我，我已经吃过了。"
+      },
+      "source_id": 30017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Уже полдень, пора обедать. А? Я... я только салат поем. Вести простую жизнь - один из обетов астролога!",
+        "en": "Noon is upon us, we should eat. Hm? I... I will have a salad, for simplicity is the way of the astrologer.",
+        "zh": "已经正午了，去吃点东西吧，嗯？我…我吃份沙拉就行了，呃…简朴的生活是…是占星术士修行的一环！"
+      },
+      "source_id": 30018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Наступает ночь, скоро можно будет приступать к гаданию... Так, а вчерашнюю колонку я дописала или нет...",
+        "en": "Nightfall has arrived. I will soon be able to begin my divination. Ah... Did I finish writing my astrology column last night...?",
+        "zh": "入夜了，过会就可以开始占卜…呃，昨天的稿子我写了没…"
+      },
+      "source_id": 30019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Уже так поздно, а я так и не написала колонку в завтрашнюю газету... Что? Спать идёшь? Эх... Тоже спать хочу...",
+        "en": "It's already so late, and I'm no further along on finishing tomorrow's astrology column. What? You're off to sleep? *sigh* I wish I could sleep now too...",
+        "zh": "已经这么晚了，明天截稿的稿子一点没动…什么？你要去休息了？呜…我也想去睡觉…"
+      },
+      "source_id": 30020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Моне...",
+        "en": "About Mona",
+        "zh": "关于莫娜自己…"
+      },
+      "text": {
+        "ru": "Работа астролога - показывать людям, что судьба для них приготовила. Этим я и занимаюсь. Но некоторые люди не желают принимать правду.",
+        "en": "The work of the astrologer is to show people what fate has in store for them, and that's exactly what I do. There will always be those, however, who are unable to accept what they are told.",
+        "zh": "占星术士的工作，是向人们明确地展示他们即将面对的命运，我也是这么做的…不过，总有些人不愿意接受。"
+      },
+      "source_id": 30021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Работа",
+        "en": "About Us: Work",
+        "zh": "关于我们·工作"
+      },
+      "text": {
+        "ru": "Почему я веду колонку в газете, а не зарабатываю деньги гаданием? Я никогда не использовала гидромантию ради моры - не для этого я её изучала.",
+        "en": "Why do I write reports rather than using my divination to earn Mora? I would never use hydromancy for the sake of Mora, nor did I learn hydromancy for that purpose.",
+        "zh": "为什么要写稿，不用占卜来赚钱？…我才不会为摩拉而使用「水占术」…我也不是因为这个而学习「水占术」的。"
+      },
+      "source_id": 30022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Моё предназначение",
+        "en": "About Us: My Fate",
+        "zh": "关于我们·我的命运"
+      },
+      "text": {
+        "ru": "Не знаю. Астролог может предсказать свою судьбу только в случае крайней необходимости. Старуха говорила, что это может привести к противоречию в судьбе. Очень опасно.",
+        "en": "I don't know. Unless left with no other choice, astrologers do not foretell their own fate. The elders of my art warned against it, for it can turn fate in on itself, which is incredibly dangerous.",
+        "zh": "我不知道。除非万不得已，占星术士不会占卜自己的命运。老太婆以前说过，这种行为可能会导致命运的自相矛盾，很危险。"
+      },
+      "source_id": 30023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Твоё предназначение",
+        "en": "About Us: Your Fate",
+        "zh": "关于我们·你的命运"
+      },
+      "text": {
+        "ru": "Ты не из этого мира, поэтому я не могу предсказать твою судьбу. Но я знаю, что тебе предстоит ещё долгий путь.",
+        "en": "As you are not from this world, I am unable to give you a prediction. All I can tell you is that your journey is far from over.",
+        "zh": "你不是这个世界的人，所以我无法准确地为你预言。我只能告诉你，你要走的路还远未到尽头。"
+      },
+      "source_id": 30024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога: Отрицание",
+        "en": "About the Vision: Disdain",
+        "zh": "关于「神之眼」·嫌弃"
+      },
+      "text": {
+        "ru": "Когда я получила Глаз Бога, та старуха фальшиво так мне сказала: «Пусть вечно твоё сердце стремится к истине». В итоге эта штука оказалась абсолютно бесполезна для гидромантии, только водой меня окатило.",
+        "en": "When I first received my Vision, the elderly woman that gave it to me, she put on this air and said \"May your heart of truth be with you.\" And yet this thing does nothing for my hydromancy, all it does is get me wet.",
+        "zh": "我刚刚拿到「神之眼」的时候，那个老太婆还假模假样地说什么「愿你求真之心永在」。结果这东西在「水占术」上一点用场都派不上，只会糊我一身水…"
+      },
+      "source_id": 30025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога: Цена",
+        "en": "About the Vision: Value",
+        "zh": "关于「神之眼」·价值"
+      },
+      "text": {
+        "ru": "Хотя в качестве брошки этот Глаз Бога вполне ничего. В конце концов, хоть раз эта жадная старуха дала мне что-то для учёбы.",
+        "en": "That said, a Vision doesn't hurt to have as a little accessory. It is, after all, the one useful study tool that miserly old lady ever gave me, in a rare act of generosity.",
+        "zh": "哎…不过，「神之眼」当成个小饰品，装在身上倒是无所谓。毕竟，这也算那个抠门老太婆破天荒送我的「教具」。"
+      },
+      "source_id": 30026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Ты слышал о созвездиях? Астрологи считают, что в них отражаются судьбы тех, у кого есть Глаз Бога. Прошлое, настоящее, будущее - всё в них показано. / Ты слышала о созвездиях? Астрологи считают, что в них отражаются судьбы тех, у кого есть Глаз Бога. Прошлое, настоящее, будущее - всё в них показано.",
+        "en": "Do you know about constellations? Astrologers believe that the patterns of the stars map out the destiny of Vision bearers — past, present, and future, everything is written in the stars.",
+        "zh": "你听说过「命之座」吗？占星术士认为，「命之座」是「神之眼」持有者的命运在星空上的映射，过去，现在和未来，所有的一切都在其中昭示。"
+      },
+      "source_id": 30027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "А этот твой спутник, она откуда? Как я ни старалась, так и не нашла следов её судьбы. ...А?! Ты тоже не знаешь?",
+        "en": "This... travel companion of yours — do you know anything of her origins? No matter what, I cannot seem to discern a single shred of information regarding this floating fairy's fate.\n...Oh? So you don't know where she comes from, either?",
+        "zh": "欸——你身边带着的这个小家伙，到底来自哪里？无论我用什么方法，都没法找到一丝关于她命运的踪迹。\n…哈？你也不知道？"
+      },
+      "source_id": 30028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Джинн...",
+        "en": "About Jean",
+        "zh": "关于琴…"
+      },
+      "text": {
+        "ru": "Действующий магистр Ордо Фавониус? Она ещё слишком молода для той ответственности, что предначертана ей её созвездием, Благородной Львицей. Лев рано покинул прайд, но она ещё растёт и рано или поздно унаследует честь прайда.",
+        "en": "You mean the Acting Grand Master of the Knights of Favonius? Her constellation is Leo Minor, which represents strength and responsibility shouldered too young... Though the lioness has been separated from her pride for a long time, she grows from strength to strength, and the day will come when she is ready to return as its glorious leader.",
+        "zh": "那位西风骑士团代理团长？她的「命之座」是「幼狮座」，象征着力量，还有过早担负的责任。「雄狮」早早离群，但她会继续成长，直到能完全继承狮群的荣耀。"
+      },
+      "source_id": 30029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Об Альбедо...",
+        "en": "About Albedo",
+        "zh": "关于阿贝多…"
+      },
+      "text": {
+        "ru": "Альбедо? Ах... я так ему завидую. Как это прекрасно: не заботиться ни о чём, кроме своих исследований. Если бы у старухи с головой было чуть получше, то я бы тоже смогла так жить...",
+        "en": "Albedo? Ah... I envy his ability to solely focus on his research without getting bogged down in mundane worldly affairs. What a wonderful life! If that batty old lady hadn't had one too many screws loose, perhaps that's the life I'd be living by now myself...",
+        "zh": "阿贝多？啊…我真羡慕他，只用专注于研究就好，不用管其他的杂事，真是美好的生活啊。如果那个老太婆脑筋正常一点，我应该也过着这种生活吧…"
+      },
+      "source_id": 30030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Кли...",
+        "en": "About Klee",
+        "zh": "关于可莉…"
+      },
+      "text": {
+        "ru": "Ты о дочке Алисы? Она живёт в Ордо Фавониус и за ней приглядывает Альбедо... Как бы сказать... Созвездие Четырёхлистного Клевера не зря символизирует удачу. Я ей даже завидую... Хотя, если бы я была такой удачливой, то и старуху бы я, скорее всего, не встретила...",
+        "en": "Ah yes, Alice's daughter. She's in the custody of the Knights of Favonius, and Albedo looks after her too. She's blessed to have Trifolium as her constellation, which represents good luck. I'm slightly envious... *smirk*\nAlthough, if I'd been blessed with good luck, I suppose I never would have had the great honor of running into that old woman, would I...",
+        "zh": "你是说，艾莉丝的女儿啊。她住在西风骑士团，还有阿贝多照顾…怎么说呢，哎…她的「命之座」不愧是象征着幸运的「四叶草」啊，真羡慕…\n啊不过，要是我也有这么好的运气，首先就不会遇见那个老太婆了。"
+      },
+      "source_id": 30031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克…"
+      },
+      "text": {
+        "ru": "Дилюк Рагнвиндр. Его созвездие, Мудрая Сова, символизирует бдительность в ночи. Как одинокий страж в дозоре, он жаждет яркую зарю, но предназначен тьме. Погоди-ка, или сова означает богатство?",
+        "en": "Diluc Ragnvindr. His constellation, Noctua, represents vigilance in the darkness of night... A lone guardian keeping watch, longing for the splendor of dawn, yet destined to solitude in the dark days preceding its arrival.\n...Or, wait, maybe Noctua's the one tied to wealth...?",
+        "zh": "迪卢克·莱艮芬德。「夜枭」是他的「命之座」，象征着黑夜中的警觉，和孤独的守望。在他所认可的白昼来临之前，他都将孤独前行。\n等等，「夜枭」象不象征财富来着？"
+      },
+      "source_id": 30032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кэйе...",
+        "en": "About Kaeya",
+        "zh": "关于凯亚…"
+      },
+      "text": {
+        "ru": "Кэйа Альберих? Созвездие Павлиньего Пера - символ величия, но прекрасная занавесь скрывает страшную правду. Он думает, что порвал с прошлым, но когда судьба нагонит его, ему придётся сделать выбор.",
+        "en": "Kaeya Alberich? He's a Pavo Ocellus. Destined for greatness and grandeur... and to hide ugly realities behind a layer of charm and elegance. He believes he has made a clean break with his past, but one day fate will catch up with him. When it does, he will have a major decision to make.",
+        "zh": "凯亚·亚尔伯里奇吗？他的「孔雀羽座」象征着高贵，但同时也象征着「华丽的掩饰」。他以为已经和过去一刀两断。但到了命中注定的那天，他依然必须做出自己的选择。"
+      },
+      "source_id": 30033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Песочные Часы. Символ знания, времени и равноценного обмена. С каждой песчинкой время - можно даже сказать, жизнь - безвозвратно уходит. Остановить течение песка можно только положив часы на бок. Хмм... Короче, надо стать ленивым.",
+        "en": "A Tempus Fugit... The constellation derives its name from the hourglass, and stands for knowledge and time — or rather, the trade-off between them. As each grain of sand falls down, a moment of time — of life, even, dies for good. To stop the unrelenting flow of sand, one would have to turn the hourglass on its side. But once the sand comes to rest, it remains motionless forever... Hmm, maybe \"becomes lazy\" is more accurate than \"comes to rest,\" in this case.",
+        "zh": "她的「命之座」以「沙漏」为名，象征着知识、时间与等价交换。一粒沙子落下，时间…或者说生命，就消逝一刹。如果想要止住沙粒奔流，只能平放沙漏，让它永不流动。嗨…简单来说，就是变着法偷懒啦。"
+      },
+      "source_id": 30034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Венти...",
+        "en": "About Venti",
+        "zh": "关于温迪…"
+      },
+      "text": {
+        "ru": "Венти? Бард, который целыми днями ничего не делает? А он-то тебя чем заинтересовал? Ладно, я посмотрю... А?! В чаше... ничего не видно... и этот ветер... Я даже глаза открыть не могу! Моя шляпа! Мою одежду сейчас сдует! Хватит! Я больше не буду! Не буду!",
+        "en": "Venti? The bard that sits around doing nothing all day? What's so interesting about him? Sure, I guess I can take a look...\nHuh, that's weird, the scryglass, it's... I can't see a thing... this wind... I can't... open my eyes! No, my hat! Ah! My clothes, stop! The wind's going to strip all my clothes off! Make it stop, make it stop! ...Alright, alright! I'll never do this again!",
+        "zh": "温迪？那个成天无所事事的吟游诗人？咦，他有什么有趣的吗？我占卜看看…\n咦，水占盘怎么…什么也看不清，怎，怎么起风了，眼睛都睁不开了！我的帽子！衣服，衣服要被吹跑了！停下来！我不干了！我不干了！"
+      },
+      "source_id": 30035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Моне I",
+        "en": "More About Mona: I",
+        "zh": "想要了解莫娜·其一"
+      },
+      "text": {
+        "ru": "То есть... хочешь просто поболтать? Хм, я обычно не трачу время на такое, да и свою колонку я ещё не дописала... Хотя с тобой можно и поговорить. Хе-хе, сменить обстановку, так сказать.",
+        "en": "You want to chat... for fun? Oh... I don't usually have spare time for such activities, especially when I have so many columns left to write... Then again, since it's you, it might be worth it. Hehe, a change of pace once in a while isn't such a bad thing.",
+        "zh": "你的意思是…想要闲聊？唔，我很少做这种浪费时间的事，而且稿子还有很多没写…嗯，不过，对象是你的话，也不是不行。呵呵，就当是换个心情吧。"
+      },
+      "source_id": 30036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Моне II",
+        "en": "More About Mona: II",
+        "zh": "想要了解莫娜·其二"
+      },
+      "text": {
+        "ru": "Доход от гадания?.. Деньгами нельзя... Астрологию нельзя мерить вещами! Пойми, что моя гидромантия - единственный во всём Тейвате способ познать истинную судьбу! Ни морой, ни драгоценностями Судьбу не измерить! Так что не задавай больше дурацких вопросов!",
+        "en": "Income? From astrology...? You can't use... things like Mora to determine the value of astrology! You need to understand: hydromancy is the one and only means of discerning people's true destiny in the whole of Teyvat! No matter how much Mora or gems you might have, the value of fate is quite simply incalculable! Perhaps not the smartest question you might have had for me...",
+        "zh": "占卜的收入…？不要用钱财这种…「东西」来衡量占星术！你听好了，我的「水占术」可是这片提瓦特大陆上，唯一能窥探到真实命运的占卜术！无论是摩拉还是宝石，都无法用来称量「命运」！所以，不要再问这种蠢问题了！"
+      },
+      "source_id": 30037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Моне III",
+        "en": "More About Mona: III",
+        "zh": "想要了解莫娜·其三"
+      },
+      "text": {
+        "ru": "Гадание? Даже если объясню, всё равно не поймёшь. Хм, хотя... почему бы и не попробовать. Моя гидромантия основана на трактовании образа звёзд в воде. Лживое небо отражается в обманчивой воде и порождает истину мира. Это единственный достойный результат старухиных исследований.",
+        "en": "You want me to explain how astrology works? I'm not sure you'd understand even if I told you. But since you ask... The method I use is called hydromancy. The art of inferring fate from the illusory reflection of the stars on the water's surface. The inverted reflection in the water is an image of the heavens from within which the truth of our world can be observed. ...It is the one and only success story of that old lady's research endeavors.",
+        "zh": "我的占卜术？说了你也不明白，哼，不过…给你解释一下也不是不行。\n我使用的是「水占术」。是基由星空映射在水面上的幻象进行推演的占卜术，以水中幻相倒映虚假之天，以此来窥探着世界的真实。这是那个老太婆唯一一个正经的研究成果。"
+      },
+      "source_id": 30038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Моне IV",
+        "en": "More About Mona: IV",
+        "zh": "想要了解莫娜·其四"
+      },
+      "text": {
+        "ru": "Астрологист Мона Мегистус - это имя мы придумали вместе со старухой. Она говорила, что в написании сокрыт хороший смысл. Но потом она стала называть меня «Мэгги», а это, в отличие от нормального «Мона», похоже на детское имя... Так! Нельзя меня так называть! Это неприлично! Если бы знала... никогда бы не рассказала!",
+        "en": "Mona Megistus, the Astrologist — we came up with that name together, the old lady and me. She said it had a nice ring to it... But then she started calling me 'Meg' for short, which is obviously unnecessary, because clearly 'Mona' is already suffice for a shorter name— No! You are NOT allowed to call me that, it's embarrassing! Gah! I knew I shouldn't have told you!",
+        "zh": "阿斯托洛吉斯·莫娜·梅姬斯图斯。这是那个老太婆之前和我一起定的名字，她说这名字的拼写里有一些她很喜欢的要素。哼，不过她有时会叫我「梅姬」，和常用的「莫娜」不一样，更像是小名…喂！你不能这么叫！很害羞的！早知道…早知道就不告诉你了！"
+      },
+      "source_id": 30039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Моне V",
+        "en": "More About Mona: V",
+        "zh": "想要了解莫娜·其五"
+      },
+      "text": {
+        "ru": "У гадателей есть правило: излагать судьбу, не давать советов. Иначе можно запутаться в чужой судьбе. Но на тебя это правило уже не распространяется. Наши судьбы давно уже переплетены.",
+        "en": "The golden rule all fortune-tellers abide by is: never offer advice. Only state the results of the divination. Otherwise, you risk your fate becoming tangled up with that of your subject. But for you, I will make an exception to this rule — because our fates have been intertwined from the beginning.",
+        "zh": "占卜师有一个禁忌：在占卜时只陈述预言，绝不提出任何建议。以免自己也陷入别人的「命运」之中。但如果占卜对象是你，那这个「禁忌」就无所谓了。\n因为，我们的「命运」早就交织在一起了。"
+      },
+      "source_id": 30040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Хобби Моны...",
+        "en": "Mona's Hobbies",
+        "zh": "莫娜的爱好…"
+      },
+      "text": {
+        "ru": "Моё хобби? Смотреть на звёзды. В этом слишком реальном мире каждый должен иногда смотреть на звёзды. Не говоря уже о том, что я астролог.",
+        "en": "My hobby? Stargazing! In this all-too-real world in which we live, we all need to look up from the dust once in a while and fix our gaze on the stars, in a spirit of wonder... That, plus the whole thing about me being an astrologer.",
+        "zh": "我的爱好？仰望星空。在这个真实得太过分的世界里，每个人都需要仰望星空，更何况，我还是个占星术士。"
+      },
+      "source_id": 30041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Беспокойство Моны...",
+        "en": "Mona's Troubles",
+        "zh": "莫娜的烦恼…"
+      },
+      "text": {
+        "ru": "Надо оплатить ремонт приборов, предоплату за звёздный глобус внести, подписка на научный альманах заканчивается, за квартиру скоро платить... Что же важнее... Всё же за звёздный глобус надо заплатить, а то, если раскупят, будет ужасно...",
+        "en": "*sigh* The equipment repair bill is due, and so is the final payment for that celestial globe I ordered... Also, I still need to renew my journal subscriptions, not to mention pay the rent... Hmm, which one to prioritize? ...Ah, I'll pay off the celestial globe first. If I leave it any longer, they'll sell out, and then I'll never get my hands on one...",
+        "zh": "仪器修缮费，预订的星象仪要补款了，学术杂志的订购钱也没交，还有下个月的房租…到底先交哪个比较好。果然还是…先把星象仪的尾款补了，不然被抢购光了就糟糕了…"
+      },
+      "source_id": 30042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Салат. Салат - это лучшая еда на свете. Стоит дёшево, готовить легко, живот набивает. Да и есть удобно, когда работаешь над колонкой или чинишь приборы. У кого вообще есть время на готовку?",
+        "en": "Salad. Salad is by far the best food in the world. Cheap to buy, easy to whip up, filling, and it's the most convenient thing there is when you're working on a column or fixing some equipment — I mean, who's got time for a proper dinner anyway?",
+        "zh": "沙拉，沙拉是天底下最棒的食物。原料便宜，容易做，饱肚子。而且吃起来很方便，在写稿或者修理仪器的时候，可以很快吃掉。"
+      },
+      "source_id": 30043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Эти вот все... дорогие, затейливые блюда. Лично я считаю, что потворствовать себе во всех мимолётных желаниях - пошло и просто опасно.",
+        "en": "You know, all those... overpriced, fancy foods. Personally, I think it's uncivilized and, frankly, dangerous to splash out and indulge yourself every time you have a little hunger pang.",
+        "zh": "各种…价格很昂贵，吃起来又很麻烦的食物。因为，呃…用摩拉去满足不必要的食欲，是低俗又危险的。"
+      },
+      "source_id": 30044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения. В этом мешочке - совет, который поможет в трудную минуту. Не открывай пока. В этом году он сам откроется в подходящий момент.",
+        "en": "Happy Birthday. Here's my gift to you — it's a bag containing some words of advice that may help you through tough patches. ...No, don't open it yet. During the year ahead, this bag will open itself when the right time comes.",
+        "zh": "生日快乐。这个袋子给你，里面有一个帮你渡过难关的「建议」。别着急打开，在往后的一年之内，这个袋子会有自己打开的机会。"
+      },
+      "source_id": 30045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Так предначертано судьбой, я долго этого ждала.",
+        "en": "This was ordained by fate! Long had I foreseen it.",
+        "zh": "命中当如此，我早已预知到了。"
+      },
+      "source_id": 30046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "...Ещё ближе на шаг, где же истина мира?",
+        "en": "...One step closer. Maybe soon I shall finally uncover the truth of this world?",
+        "zh": "…再进一步，就能找到世界的真实了吗？"
+      },
+      "source_id": 30047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Лживое небо знает о судьбах под звёздами.",
+        "en": "My scryglass has long since preordained all that will take place beneath the stars it reflects.",
+        "zh": "虚假之天，星空下的命运早已注定。"
+      },
+      "source_id": 30048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "В водном отражении восходит утренняя звезда.",
+        "en": "In the reflection of the water, I see the ascension of the morning star.",
+        "zh": "水中之影，涟漪中窥见启明星升起。"
+      },
+      "source_id": 30049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Да откроется мне воля рока!",
+        "en": "Let me scry!",
+        "zh": "水中幻愿。"
+      },
+      "source_id": 30050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Тени судьбы!",
+        "en": "Shadows of fate!",
+        "zh": "…命运的虚影。"
+      },
+      "source_id": 30051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Проникни в тайны фортуны!",
+        "en": "Delve into destiny!",
+        "zh": "命运，倒映水中。"
+      },
+      "source_id": 30052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Судьба настигла тебя.",
+        "en": "Fate is upon you.",
+        "zh": "命运，在此显现。"
+      },
+      "source_id": 30053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Так предначертано небесами!",
+        "en": "Written in the stars!",
+        "zh": "命定于此。"
+      },
+      "source_id": 30054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Определено волей рока!",
+        "en": "Decided by destiny!",
+        "zh": "天命既定！"
+      },
+      "source_id": 30055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Запуск планера I",
+        "en": "Deploying Wind Glider: I",
+        "zh": "打开风之翼·其一"
+      },
+      "text": {
+        "ru": "Как отчётливо сейчас видны звёзды.",
+        "en": "Scry the sky!",
+        "zh": "这样更能看清星空了…"
+      },
+      "source_id": 30056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Мора нам бы не помешала...",
+        "en": "We could do with some more fortune...",
+        "zh": "希望这种好事能多来几次…"
+      },
+      "source_id": 30058
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Этого хватит на еду и арендную плату!",
+        "en": "This should cover food and rent for a while!",
+        "zh": "房租和伙食费，都有着落了！"
+      },
+      "source_id": 30059
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Находить сокровища довольно волнующе!",
+        "en": "Ah, finding treasure is pretty exhilarating!",
+        "zh": "呜…找到宝物的感觉真棒啊…"
+      },
+      "source_id": 30060
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Перед глазами словно пелена...",
+        "en": "My vision is clouded...",
+        "zh": "无法判断…"
+      },
+      "source_id": 30061
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Какой гнусный удел...",
+        "en": "Odius fate...",
+        "zh": "讨厌的命运…"
+      },
+      "source_id": 30062
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Об этом не было пророчеств!",
+        "en": "This was not foretold!",
+        "zh": "还没…推算到这！"
+      },
+      "source_id": 30063
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Не искушай судьбу.",
+        "en": "Do not tempt fate.",
+        "zh": "再硬撑，你就会倒下咯。"
+      },
+      "source_id": 30064
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Это не твой удел.",
+        "en": "This is not your destiny.",
+        "zh": "你还没到命运的终点。"
+      },
+      "source_id": 30065
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Звезды тускнеют...",
+        "en": "The stars... are fading...",
+        "zh": "星空…黯淡…"
+      },
+      "source_id": 30066
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Судьбы... не избежать...",
+        "en": "Destiny cannot be... denied.",
+        "zh": "无法违抗的…命运…"
+      },
+      "source_id": 30067
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Настал час... моей расплаты...",
+        "en": "My reckoning... has come...",
+        "zh": "推算结束了…"
+      },
+      "source_id": 30068
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Проклятие!",
+        "en": "Curses.",
+        "zh": "烦人。"
+      },
+      "source_id": 30069
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Прочь от меня!",
+        "en": "Leave my space!",
+        "zh": "离我…远点！"
+      },
+      "source_id": 30070
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Это судьба.",
+        "en": "This is destiny.",
+        "zh": "此乃，命运。"
+      },
+      "source_id": 30071
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Иначе быть не могло.",
+        "en": "This is how it must be.",
+        "zh": "真没办法。"
+      },
+      "source_id": 30072
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Так было предначертано небесами.",
+        "en": "It is as the stars foretold.",
+        "zh": "繁星，尽在掌握。"
+      },
+      "source_id": 30073
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "О, замечательно... Кто бы мог подумать, что знакомство с тобой принесёт столько пользы.",
+        "en": "Ah, so satisfied... Who would have thought knowing you would bear so many benefits.",
+        "zh": "啊，好满足——没想到，认识你还是挺不错的嘛。"
+      },
+      "source_id": 30074
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Давай проясним... Мне точно не придётся платить... за всё это?",
+        "en": "Just to be clear... you're sure I don't have to pay... for any of this?",
+        "zh": "我再确认一下。真的是…你请客吗？"
+      },
+      "source_id": 30075
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Не хочу придираться, просто... я что-то не наелась.",
+        "en": "I don't mean to nitpick, or anything, it's just... I haven't quite eaten enough.",
+        "zh": "我没有什么想挑剔的。就是…唔…没怎么吃饱。"
+      },
+      "source_id": 30076
+    }
+  ],
+  "replica_count": 67
 }

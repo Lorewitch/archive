@@ -172,6 +172,33 @@
     "search_text": "черногорский боевой лук blackcliff warbow 黑岩战弓 bow weapon 4 1.0 оружие лук"
   },
   {
+    "id": "breezeborne_refrain",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/breezeborne_refrain.webp",
+    "title": {
+      "ru": "Напевы нежного ветра",
+      "en": "Breezeborne Refrain",
+      "zh": "柔风游弦"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.1",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7001000,
+    "search_text": "напевы нежного ветра breezeborne refrain 柔风游弦 bow weapon 4 7.1 оружие"
+  },
+  {
     "id": "chain_breaker",
     "category": "weapons",
     "icon": "assets/icons/weapons/bow/chain_breaker.webp",
@@ -255,6 +282,33 @@
     "filter_type": "4",
     "sort_version": 1000000,
     "search_text": "составной лук compound bow 钢轮弓 bow weapon 4 1.0 оружие лук"
+  },
+  {
+    "id": "covenant_of_frost_and_snow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/covenant_of_frost_and_snow.webp",
+    "title": {
+      "ru": "Завет льда и снега",
+      "en": "Covenant of Frost and Snow",
+      "zh": "霜雪誓约"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "завет льда и снега covenant of frost and snow 霜雪誓约 bow weapon 4 7.0 оружие"
   },
   {
     "id": "elegy_for_the_end",
@@ -509,6 +563,33 @@
     "filter_type": "4",
     "sort_version": 3007000,
     "search_text": "клюв ибиса ibis piercer 鹮穿之喙 bow weapon 4 3.7 оружие лук"
+  },
+  {
+    "id": "jade_vista",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/jade_vista.webp",
+    "title": {
+      "ru": "Поникшая артемизия",
+      "en": "Jade Vista",
+      "zh": "悬黎千钧"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "поникшая артемизия jade vista 悬黎千钧 bow weapon 4 7.0 оружие"
   },
   {
     "id": "kings_squire",
@@ -1555,6 +1636,33 @@
     "search_text": "казначейский надзор cashflow supervision 金流监督 catalyst weapon 5 4.1 оружие катализатор ризли"
   },
   {
+    "id": "clash_of_kings",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/clash_of_kings.webp",
+    "title": {
+      "ru": "Игры королей",
+      "en": "Clash of Kings",
+      "zh": "群王局戏"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "игры королей clash of kings 群王局戏 catalyst weapon 4 7.0 оружие"
+  },
+  {
     "id": "cranes_echoing_call",
     "category": "weapons",
     "icon": "assets/icons/weapons/catalyst/cranes_echoing_call.webp",
@@ -1639,6 +1747,33 @@
     "filter_type": "4",
     "sort_version": 1006000,
     "search_text": "истории додоко dodoco tales 嘟嘟可故事集 catalyst weapon 4 1.6 оружие катализатор кли"
+  },
+  {
+    "id": "echoes_of_the_heart",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/echoes_of_the_heart.webp",
+    "title": {
+      "ru": "Отголоски сердца",
+      "en": "Echoes of the Heart",
+      "zh": "寸心余响"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "отголоски сердца echoes of the heart 寸心余响 catalyst weapon 4 7.0 оружие"
   },
   {
     "id": "emerald_orb",
@@ -1892,6 +2027,33 @@
     "filter_type": "4",
     "sort_version": 2000000,
     "search_text": "кольцо хакусин hakushin ring 白辰之环 catalyst weapon 4 2.0 оружие катализатор"
+  },
+  {
+    "id": "hymn_of_the_maelstrom",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/hymn_of_the_maelstrom.webp",
+    "title": {
+      "ru": "Ода водоворота",
+      "en": "Hymn of the Maelstrom",
+      "zh": "漩流颂歌"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "entry_kind": "weapon",
+    "rarity": 5,
+    "game_version": "7.1",
+    "tags": [
+      "сигна: Водяница"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "5",
+    "sort_version": 7001000,
+    "search_text": "ода водоворота hymn of the maelstrom 漩流颂歌 catalyst weapon 5 7.1 сигна: водяница"
   },
   {
     "id": "jadefalls_splendor",
@@ -2462,6 +2624,33 @@
     "search_text": "бдение взывающего к звёздам starcaller's watch 祭星者之望 catalyst weapon 5 5.3 оружие катализатор ситлали"
   },
   {
+    "id": "starsealed_edict",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/starsealed_edict.webp",
+    "title": {
+      "ru": "Звёздный указ",
+      "en": "Starsealed Edict",
+      "zh": "秘星典谕"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "entry_kind": "weapon",
+    "rarity": 5,
+    "game_version": "7.2",
+    "tags": [
+      "сигна: Митя"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "5",
+    "sort_version": 7002000,
+    "search_text": "звёздный указ starsealed edict 秘星典谕 catalyst weapon 5 7.2 сигна: митя"
+  },
+  {
     "id": "sunny_morning_sleep_in",
     "category": "weapons",
     "icon": "assets/icons/weapons/catalyst/sunny_morning_sleep_in.webp",
@@ -2775,6 +2964,33 @@
     "search_text": "вино и песни wine and song 暗巷的酒与诗 catalyst weapon 4 1.4 оружие катализатор"
   },
   {
+    "id": "winter_s_heavy_heart",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/winter_s_heavy_heart.webp",
+    "title": {
+      "ru": "Застывшее сердце зимы",
+      "en": "Winter's Heavy Heart",
+      "zh": "凝雪沉心"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.1",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7001000,
+    "search_text": "застывшее сердце зимы winter's heavy heart 凝雪沉心 catalyst weapon 4 7.1 оружие"
+  },
+  {
     "id": "a_teaspoon_of_transcendence",
     "category": "weapons",
     "icon": "assets/icons/weapons/claymore/a_teaspoon_of_transcendence.webp",
@@ -2914,6 +3130,33 @@
     "filter_type": "4",
     "sort_version": 1000000,
     "search_text": "черногорская бритва blackcliff slasher 黑岩斩刀 claymore weapon 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "blade_of_atonement",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/blade_of_atonement.webp",
+    "title": {
+      "ru": "Клинок искупления",
+      "en": "Blade of Atonement",
+      "zh": "救赎之斩"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "клинок искупления blade of atonement 救赎之斩 claymore weapon 4 7.0 оружие"
   },
   {
     "id": "bloodtainted_greatsword",
@@ -3139,6 +3382,33 @@
     "filter_type": "4",
     "sort_version": 3000000,
     "search_text": "регалия леса forest regalia 森林王器 claymore weapon 4 3.0 оружие двуручное"
+  },
+  {
+    "id": "forged_by_the_golden_melody",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/forged_by_the_golden_melody.webp",
+    "title": {
+      "ru": "Творение золотой мелодии",
+      "en": "Forged by the Golden Melody",
+      "zh": "金律铸影"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "творение золотой мелодии forged by the golden melody 金律铸影 claymore weapon 4 7.0 оружие"
   },
   {
     "id": "fruitful_hook",
@@ -4469,6 +4739,33 @@
     "search_text": "расколотый ореол fractured halo 支离轮光 polearm weapon 5 5.8 оружие древковое инеффа"
   },
   {
+    "id": "frostbreath",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/frostbreath.webp",
+    "title": {
+      "ru": "Морозное дыхание",
+      "en": "Frostbreath",
+      "zh": "寒息"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "морозное дыхание frostbreath 寒息 polearm weapon 4 7.0 оружие"
+  },
+  {
     "id": "halberd",
     "category": "weapons",
     "icon": "assets/icons/weapons/polearm/halberd.webp",
@@ -4919,6 +5216,33 @@
     "search_text": "небесная ось skyward spine 天空之脊 polearm weapon 5 1.0 оружие древковое"
   },
   {
+    "id": "song_of_the_vigil",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/song_of_the_vigil.webp",
+    "title": {
+      "ru": "Песнь бдения",
+      "en": "Song of the Vigil",
+      "zh": "戍望谣歌"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "песнь бдения song of the vigil 戍望谣歌 polearm weapon 4 7.0 оружие"
+  },
+  {
     "id": "staff_of_homa",
     "category": "weapons",
     "icon": "assets/icons/weapons/polearm/staff_of_homa.webp",
@@ -5283,6 +5607,33 @@
     "search_text": "лазурное сияние azurelight 苍耀 sword weapon 5 5.7 скирк ангел койтар"
   },
   {
+    "id": "beyond_the_chrysalis",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/beyond_the_chrysalis.webp",
+    "title": {
+      "ru": "За пределами кокона",
+      "en": "Beyond the Chrysalis",
+      "zh": "蝶变"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "entry_kind": "weapon",
+    "rarity": 5,
+    "game_version": "7.1",
+    "tags": [
+      "сигна: Весна"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "5",
+    "sort_version": 7001000,
+    "search_text": "за пределами кокона beyond the chrysalis 蝶变 sword weapon 5 7.1 сигна: весна"
+  },
+  {
     "id": "blackcliff_longsword",
     "category": "weapons",
     "icon": "assets/icons/weapons/sword/blackcliff_longsword.webp",
@@ -5450,6 +5801,60 @@
     "filter_type": "1",
     "sort_version": 1000000,
     "search_text": "тупой меч dull blade 无锋剑 sword weapon 1 1.0 оружие одноручное"
+  },
+  {
+    "id": "emberwell",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/emberwell.webp",
+    "title": {
+      "ru": "Источник пламени",
+      "en": "Emberwell",
+      "zh": "引火之源"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "источник пламени emberwell 引火之源 sword weapon 4 7.0 оружие"
+  },
+  {
+    "id": "exaiphanes_blade",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/exaiphanes_blade.webp",
+    "title": {
+      "ru": "Клинок озарения",
+      "en": "Exaiphanes Blade",
+      "zh": "星锋剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "entry_kind": "weapon",
+    "rarity": 5,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "5",
+    "sort_version": 7000000,
+    "search_text": "клинок озарения exaiphanes blade 星锋剑 sword weapon 5 7.0 оружие"
   },
   {
     "id": "favonius_sword",
@@ -5702,6 +6107,33 @@
     "search_text": "предвестник зари harbinger of dawn 黎明神剑 sword weapon 3 1.0 оружие одноручное"
   },
   {
+    "id": "heretic_s_molten_blade",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/heretic_s_molten_blade.webp",
+    "title": {
+      "ru": "Расплавленный клинок еретика",
+      "en": "Heretic's Molten Blade",
+      "zh": "熔猎异端之刃"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.0",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7000000,
+    "search_text": "расплавленный клинок еретика heretic's molten blade 熔猎异端之刃 sword weapon 4 7.0 оружие"
+  },
+  {
     "id": "iron_sting",
     "category": "weapons",
     "icon": "assets/icons/weapons/sword/iron_sting.webp",
@@ -5924,6 +6356,33 @@
     "search_text": "рассвет прядильщицы луны moonweaver's dawn 织月者的曙色 sword weapon 4 6.0 оружие одноручное"
   },
   {
+    "id": "new_bough",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/new_bough.webp",
+    "title": {
+      "ru": "Новая ветвь",
+      "en": "New Bough",
+      "zh": "新枝"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.1",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7001000,
+    "search_text": "новая ветвь new bough 新枝 sword weapon 4 7.1 оружие"
+  },
+  {
     "id": "peak_patrol_song",
     "category": "weapons",
     "icon": "assets/icons/weapons/sword/peak_patrol_song.webp",
@@ -6114,6 +6573,33 @@
     "filter_type": "4",
     "sort_version": 6000000,
     "search_text": "зов безмятежности serenity's call 谧音吹哨 sword weapon 4 6.0 оружие одноручное"
+  },
+  {
+    "id": "silver_light",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/silver_light.webp",
+    "title": {
+      "ru": "Серебряный свет",
+      "en": "Silver Light",
+      "zh": "银釭"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "entry_kind": "weapon",
+    "rarity": 4,
+    "game_version": "7.1",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "4",
+    "sort_version": 7001000,
+    "search_text": "серебряный свет silver light 银釭 sword weapon 4 7.1 оружие"
   },
   {
     "id": "silver_sword",
@@ -6527,6 +7013,33 @@
     "filter_type": "5",
     "sort_version": 4005000,
     "search_text": "ураку мисугири uraku misugiri 有乐御簾切 sword weapon 5 4.5 тиори"
+  },
+  {
+    "id": "whitelake_frostfeather",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/whitelake_frostfeather.webp",
+    "title": {
+      "ru": "Морозное перо белого озера",
+      "en": "Whitelake Frostfeather",
+      "zh": "白湖冬羽"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "entry_kind": "weapon",
+    "rarity": 5,
+    "game_version": "7.0",
+    "tags": [
+      "сигна: Одетта"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "5",
+    "sort_version": 7000000,
+    "search_text": "морозное перо белого озера whitelake frostfeather 白湖冬羽 sword weapon 5 7.0 сигна: одетта"
   },
   {
     "id": "wolf_fang",

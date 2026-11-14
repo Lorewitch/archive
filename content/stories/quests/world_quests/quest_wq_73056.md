@@ -14,11 +14,15 @@
 # chapter_num_zh:
 # part_source_ids: 73056
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_73056
-# quest_series:
+# quest_series: Aranyaka || # version_source: wiki_release_category
 # version_source: wiki_release_category
+# game_source_ids: 73056
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_ru: Араньяка
+# quest_series_order: 110
 
 ## RU
 
@@ -26,12 +30,11 @@
 
 В лесу вы познакомились с человеком по имени Хайям, который, кажется, как-то связан с аранарами. Лучше согласиться на его просьбу...
 
-
-**Хайям:** Ха-ха, ну и ну, ну и дела... Оживает... Этот лес оживает...
+**???:** Ха-ха, ну и ну, ну и дела... Оживает... Этот лес оживает...
 
 **Паймон:** Привет! Дедушка, ты заблудился?
 
-**Хайям:** Гм-гм... Кто простудился? А, вы это мне? Ха-ха, думали, я заблудился? Нет, нет...
+**???:** Гм-гм... Кто простудился? А, вы это мне? Ха-ха, думали, я заблудился? Нет, нет...
 
 **Хайям:** Здравствуйте, дети. Я Гийят Хайям, дастур из Амурты, ха-ха... Зовите меня просто Хайям.
 
@@ -43,13 +46,19 @@
 
 **Хайям:** Да! Хорошо! Ну, теперь твоя очередь, златокудрое дитя.
 
-- **Путешественник:** Хай... я... м...
+##### Вариант ответа 1
 
-- **Путешественник:** Почтенный Хайям, что ты тут делаешь?
+- **Путешественник:** Хай... я... м...
 
 **Хайям:** Ха-ха, отлично! У тебя получается намного лучше, чем у белой крохи. Смотри-ка, а ведь я давно говорил, что вполне способен преподавать языки!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Почтенный Хайям, что ты тут делаешь?
+
 **Хайям:** Гм... Ты очень торопишься, слишком частишь. Ничего страшного, просто постарайся говорить чуть-чуть помедленнее.
+
+##### Общее продолжение
 
 **Паймон:** Ну так, почтенный Хайям... Если ты не заблудился, что тебя сюда привело?
 
@@ -65,17 +74,23 @@
 
 **Паймон:** Вот оно что...
 
-- **Путешественник:** Расскажи мне о своей догадке...
+##### Вариант ответа 1
 
-- **Путешественник:** Тебе нужна наша помощь?
+- **Путешественник:** Расскажи мне о своей догадке...
 
 **Хайям:** Ха-ха, это было шестьдесят лет назад... Я уже стар, плохо помню подробности. Но я уверен, что нынешнее очищение леса от зоны Увядания связано с тем, что случилось тогда.
 
 **Хайям:** Поэтому сейчас я собираюсь зайти в эту пещеру и собрать там кое-какие образцы, чтобы проверить свою догадку.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Тебе нужна наша помощь?
+
 **Хайям:** Ха-ха... Спасибо, доброе дитя. Кости у меня старые, плохо слушаются, но голова пока соображает, не стоит меня недооценивать.
 
 **Хайям:** Во всяком случае, я знаю, как обрадовать этот лес, и он не причинит мне вреда.
+
+##### Общее продолжение
 
 **Паймон:** И всё-таки... Хоть в пещере больше нет Мараны, но там ещё довольно опасно.
 
@@ -83,9 +98,15 @@
 
 **Хайям:** Э, погоди-ка... Повтори, чего нет в пещере?..
 
+##### Вариант ответа 1
+
 - **Путешественник:** Марана?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Зоны Увядания?
+
+##### Общее продолжение
 
 **Хайям:** Гм... Наверное, мне всё же понадобится ваша помощь.
 
@@ -93,7 +114,7 @@
 
 **Хайям:** Гм, простите мою бестактность... Но я так и не спросил, как вас зовут...
 
-Зови меня Путешественник.
+- **Путешественник:** Зови меня Путешественник.
 
 **Паймон:** А это Паймон! Пай-мон!
 
@@ -119,6 +140,8 @@
 
 **Хайям:** Ха-ха... Я изучаю лес уже по меньшей мере двадцать, а то и все тридцать лет. Так что не стоит недооценивать мою физическую форму. Идите вперёд. Я вас догоню.
 
+#### Направляйтесь к Мотийиме
+
 #### Поговорите с Хайямом
 
 **Хайям:** Мне нужно изучить здесь три точки. Ха-ха, в последний раз я наведывался сюда тридцать лет назад, но что-то ещё помню... Идите за мной, я покажу дорогу.
@@ -127,45 +150,41 @@
 
 **Паймон:** Не за что, почтенный Хайям! Мы ведь джавансы!
 
-#### Поговорите с Хайямом
+#### Изучите растения в указанном месте
 
 **Хайям:** Интересно... Растения здесь как будто оживают. Значит, Мотийима снова им помогает... Настоящее чудо!
 
 **Паймон:** А?.. Почтенный Хайям тоже знает про Мотийиму? А Паймон думала, что только аранарам это известно...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Паймон, тихо!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Паймон!..
+
+##### Общее продолжение
 
 **Хайям:** «Аранары», так ты сказала? Значит, вы тоже их видели...
 
 **Паймон:** А?.. Гм, да... Да.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что такое, почтенный Хайям?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты тоже видел аранар?
+
+##### Общее продолжение
 
 **Хайям:** «Где розы пышные твои, Ирем? Где кубок Джемшида, кто скажет нам?»
 
 **Хайям:** Идём дальше, к следующей точке.
 
 #### Изучите растения в указанном месте
-
-**Хайям:** Здешние растения здорово вымахали...
-
-- **Путешественник:** Насчёт растений...
-
-- **Путешественник:** Насчёт воображаемых друзей...
-
-**Хайям:** Мне даже в голову не приходило, что на земле, испорченной Мараной, могут снова буйным цветом цвести растения.
-
-**Хайям:** Считать удивительных существ, которых дети называют «аранарами», воображаемыми друзьями... несомненно, неправильно.
-
-**Хайям:** Их существование могут доказать только маленькие дети, даже детектор нирнама не способен их засечь.
-
-**Хайям:** Вот почему Амурта классифицировала их как «неопознанные существа».
-
-#### Поговорите с Хайямом
 
 **Хайям:** Ха, глядите! Посмотрите на это!
 
@@ -179,7 +198,7 @@
 
 **Паймон:** ...
 
-...
+- **Путешественник:** ...
 
 **Хайям:** Эх... Кхм-кхм... Простите, дети. Я... Я немного переволновался.
 
@@ -191,15 +210,21 @@
 
 **Хайям:** Ирфан прекрасно владел музыкальными инструментами, Симан была высокой и сильной, и никто не мог одолеть её в драке. А я? Ха-ха, я просто любил читать, и дома у нас водились лишние моры.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это место ваших детских игр?
 
-- **Путешественник:** Всё это осталось от ваших игр?..
-
 **Хайям:** Нет, это наше секретное королевство, всё было очень серьёзно. Мы с ними поклялись, что не забудем друг друга, и когда повзрослеем, приведём сюда Армию возрождения, чтобы вернуть нашему замку былую славу...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Всё это осталось от ваших игр?..
 
 **Хайям:** Нет, не всё. Однажды мы поклялись, что подрастём и вернёмся сюда с Армией возрождения родины, чтобы вернуть этому месту былую славу... Хе-хе...
 
 **Хайям:** Потом я стал изучать ботанику в Академии и вернулся с кое-какими преобразованиями - то приносил сюда разный хлам, то уносил его обратно.
+
+##### Общее продолжение
 
 **Хайям:** Ха-ха, прошло двадцать лет, должно быть, они всё забыли... Я сделал из этого места свою маленькую лесную базу, но тридцать лет назад мне пришлось её оставить.
 
@@ -211,9 +236,15 @@
 
 **Паймон:** «Воображаемые друзья»... Ты сейчас об аранарах?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Паймон!.. Тсс!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Паймон, сколько можно болтать!
+
+##### Общее продолжение
 
 **Хайям:** ...
 
@@ -221,31 +252,29 @@
 
 **Хайям:** Простите старика за болтливость. Давайте приступим к делу!
 
+#### Вернитесь к Хайяму
+
+#### Осмотрите новые растения
+
+**Хайям:** Здешние растения здорово вымахали...
+
+##### Вариант ответа 1
+
+- **Путешественник:** Насчёт растений...
+
+**Хайям:** Мне даже в голову не приходило, что на земле, испорченной Мараной, могут снова буйным цветом цвести растения.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Насчёт воображаемых друзей...
+
+**Хайям:** Считать удивительных существ, которых дети называют «аранарами», воображаемыми друзьями... несомненно, неправильно.
+
+**Хайям:** Их существование могут доказать только маленькие дети, даже детектор нирнама не способен их засечь.
+
+**Хайям:** Вот почему Амурта классифицировала их как «неопознанные существа».
+
 #### Поговорите с Хайямом
-
-**Хайям:** Смотрите, смотрите!.. Как прекрасно здесь всё растёт! Даже пережив нашествие Мараны, земля по-прежнему дарит жизнь!
-
-**Хайям:** Ха-ха! Мотийима, старая ты проказница! Тебя не взять голыми руками!
-
-**Паймон:** Надо же, почтенный Хайям как будто разом помолодел!
-
-- **Путешественник:** Надо же, а Паймон разом стала такой разговорчивой!
-
-- **Путешественник:** Хорошо!
-
-**Паймон:** Эй! Ты чего?!
-
-**Паймон:** Не знаю, что именно хорошо, но хорошо!
-
-**Хайям:** Гм... Этих образцов должно хватить, спасибо вам за помощь. Мы закончили, давайте поворачивать назад.
-
-**Хайям:** Ха-ха, просто замечательно... Возможно, эти образцы помогут мне продвинуться в изучении секретов и слабостей зоны Увядания.
-
-**Хайям:** Спасибо вам! Давайте вернёмся той же дорогой... И у меня есть для вас кое-что...
-
-**Паймон:** Отлично, подарок!
-
-**Хайям:** Ха-ха, почти.
 
 #### Вернитесь в лагерь Хайяма
 
@@ -259,9 +288,15 @@
 
 **Паймон:** Ой!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Аранары...
+
+##### Общее продолжение
 
 **Хайям:** Да. И если моя догадка верна... Вам они тоже такой подарили?
 
@@ -271,11 +306,17 @@
 
 **Паймон:** Гм, конечно, вот только...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Скорее всего, они меня не помнят.
+
+**Хайям:** ...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Возможно, они тебя уже не помнят.
 
-**Хайям:** ...
+##### Общее продолжение
 
 **Хайям:** И я их больше не вижу... Я даже не могу поверить, что они на самом деле существуют, ведь может быть... Что это просто мои детские фантазии.
 
@@ -291,15 +332,21 @@
 
 **Аранага:** Так... Вы - зачем пришли?
 
-- **Путешественник:** Это долгая история...
+##### Вариант ответа 1
 
-- **Путешественник:** Мы - друзья.
+- **Путешественник:** Это долгая история...
 
 **Паймон:** Ты очень многого не помнишь, но мы желаем вам только добра! Мы всегда были на вашей стороне! Всегда помогали Мотийиме!
 
 **Аранага:** Мотийима... Вы - знаете?
 
+##### Вариант ответа 2
+
+- **Путешественник:** Мы - друзья.
+
 **Аранага:** Друзья?..
+
+##### Общее продолжение
 
 **Аранага:** Гм... Не похожи на негодяев - вы.
 
@@ -307,13 +354,13 @@
 
 **Паймон:** Эй... Подожди!
 
-У нас есть для тебя кое-что!
+- **Путешественник:** У нас есть для тебя кое-что!
 
 **Аранага:** Для - меня?
 
 **Аранага:** Дай сюда.
 
-Вот.
+- **Путешественник:** Вот.
 
 **Аранага:** ...
 
@@ -321,11 +368,17 @@
 
 **Аранага:** Да... Вы мне - друзья? Важный цветок. Почему - у вас?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Гм...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Долгая история...
 
-*Вы рассказываете Аранаге о ваших приключениях, о том, как спасли Мотийиму из зоны Увядания.*
+##### Общее продолжение
+
+Вы рассказываете Аранаге о ваших приключениях, о том, как спасли Мотийиму из зоны Увядания.
 
 **Аранага:** ...
 
@@ -335,25 +388,65 @@
 
 **Паймон:** Эх!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Эх...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это было ожидаемо...
+
+##### Общее продолжение
 
 **Аранага:** Но вам - спасибо. Мой сад - если помнит вас. Приходите.
 
 **Аранага:** Очень важный цветок. Посадит его в землю Аранага.
 
-*Аранага уходит, забрав цветок.*
+Аранага уходит, забрав цветок.
 
 **Паймон:** Ушёл...
 
-- **Путешественник:** Ушёл.
+##### Вариант ответа 1
 
-- **Путешественник:** Но он оставил приглашение.
+- **Путешественник:** Ушёл.
 
 **Паймон:** Но он пригласил нас в свой сад... Значит, он согласен быть нашим другом, да? Обязательно навестим его, как будет время!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Но он оставил приглашение.
+
 **Паймон:** Гм... Точно! Как будет время, навестим Аранагу?
+
+**Хайям:** Смотрите, смотрите!.. Как прекрасно здесь всё растёт! Даже пережив нашествие Мараны, земля по-прежнему дарит жизнь!
+
+**Хайям:** Ха-ха! Мотийима, старая ты проказница! Тебя не взять голыми руками!
+
+**Паймон:** Надо же, почтенный Хайям как будто разом помолодел!
+
+##### Вариант ответа 1
+
+- **Путешественник:** Надо же, а Паймон разом стала такой разговорчивой!
+
+**Паймон:** Эй! Ты чего?!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Хорошо!
+
+**Паймон:** Не знаю, что именно хорошо, но хорошо!
+
+##### Общее продолжение
+
+**Хайям:** Гм... Этих образцов должно хватить, спасибо вам за помощь. Мы закончили, давайте поворачивать назад.
+
+**Хайям:** Ха-ха, просто замечательно... Возможно, эти образцы помогут мне продвинуться в изучении секретов и слабостей зоны Увядания.
+
+**Хайям:** Спасибо вам! Давайте вернёмся той же дорогой... И у меня есть для вас кое-что...
+
+**Паймон:** Отлично, подарок!
+
+**Хайям:** Ха-ха, почти.
 
 ## EN
 
@@ -361,14 +454,13 @@
 
 You meet an old man named Khayyam in the forest. He seems to share a past with Aranara. It should do no harm to respond to his request for help...
 
-
-**Khayyam:** Haha, interesting... That's really curious. It's reviving, the forest is... reviving...
+**???:** Haha, interesting... That's really curious. It's reviving, the forest is... reviving...
 
 **Paimon:** Hello, grandpa! Are you lost?
 
-**Khayyam:** Hmm...hmm? Rost...? Ah, are you talking to me? Haha, lost, is that what you said? No, no, I'm not lost...
+**???:** Hmm...hmm? Rost...? Ah, are you talking to me? Haha, lost, is that what you said? No, no, I'm not lost...
 
-**Khayyam:** Good day, kids. I am Giyath Khayyam, an AmuBiologyrta Dastur, haha... Just call me Khayyam.
+**Khayyam:** Good day, kids. I am Giyath Khayyam, an Amu(Biology)rta Dastur, haha... Just call me Khayyam.
 
 **Paimon:** Hmm... Hello, Mr. Khayyam!
 
@@ -378,13 +470,19 @@ You meet an old man named Khayyam in the forest. He seems to share a past with A
 
 **Khayyam:** That's right! Well done! Now, golden one, repeat that.
 
-- **Traveler:** Khaaa... Yyaaa... Mmm...
+##### Response branch 1
 
-- **Traveler:** What are you doing here, Khayyam?
+- **Traveler:** Khaaa... Yyaaa... Mmm...
 
 **Khayyam:** Haha, nice! You did much better than the white little thing! See? I said I could teach phonetics!
 
+##### Response branch 2
+
+- **Traveler:** What are you doing here, Khayyam?
+
 **Khayyam:** Hmm... Your pronunciation was too fast, too rapid. But it's fine... Slowing it down would be all you need.
+
+##### Shared continuation
 
 **Paimon:** So, Mr. Khayyam... If you're not lost, what are you doing here?
 
@@ -400,17 +498,23 @@ You meet an old man named Khayyam in the forest. He seems to share a past with A
 
 **Paimon:** Paimon sees...
 
-- **Traveler:** About validating your guess...
+##### Response branch 1
 
-- **Traveler:** Do you need our help?
+- **Traveler:** About validating your guess...
 
 **Khayyam:** Haha, that happened 60 years ago... Lower your expectations, an old man like me might not remember it well. But I am convinced that the disappearance of The Withering is related to that specific matter...
 
 **Khayyam:** Therefore, I am entering this cave to collect some samples to prove my guess.
 
+##### Response branch 2
+
+- **Traveler:** Do you need our help?
+
 **Khayyam:** Haha... Many thanks to you, my helpful children. I am physically old, but still mentally capable. Don't underestimate me.
 
 **Khayyam:** After all, I know how to please the forest, so that it won't hurt me.
+
+##### Shared continuation
 
 **Paimon:** Paimon gets it... But it's still dangerous there, even without any Marana in the cave.
 
@@ -418,9 +522,15 @@ You meet an old man named Khayyam in the forest. He seems to share a past with A
 
 **Khayyam:** Hmm, wait... What did you just say? What was that in the cave?
 
+##### Response branch 1
+
 - **Traveler:** Marana?
 
+##### Response branch 2
+
 - **Traveler:** The Withering?
+
+##### Shared continuation
 
 **Khayyam:** Hmm... On second thought, maybe I do need your help.
 
@@ -428,7 +538,7 @@ You meet an old man named Khayyam in the forest. He seems to share a past with A
 
 **Khayyam:** Hehe, please pardon me... But I haven't asked for your names.
 
-Just call me Traveler.
+- **Traveler:** Just call me Traveler.
 
 **Paimon:** And Paimon's Paimon! Paiii...monnn...!
 
@@ -454,6 +564,8 @@ Just call me Traveler.
 
 **Khayyam:** Haha... I've been studying the forest for almost 30 years, so don't underestimate this old man's stamina! Just go on ahead, I'll catch up real soon.
 
+#### Go to Mawtiyima
+
 #### Talk to Khayyam
 
 **Khayyam:** I am focusing my investigation mainly on three sites. Haha, I hope my memories of 30 years ago haven't totally faded... I should be able to identify the locations.
@@ -462,45 +574,41 @@ Just call me Traveler.
 
 **Paimon:** Don't mention it, Mr. Khayyam! That's what we Javans should do!
 
-#### Talk to Khayyam
+#### Investigate the plants in the specified locations
 
 **Khayyam:** Interesting... The plants here seem to be... reviving. So Mawtiyima is back in effect... Magical.
 
 **Paimon:** Eh... So Mr. Khayyam knows about Mawtiyima, too? Paimon thought only Aranara know that...
 
+##### Response branch 1
+
 - **Traveler:** Paimon, shush!
 
+##### Response branch 2
+
 - **Traveler:** Paimon...!
+
+##### Shared continuation
 
 **Khayyam:** Aranara, right? So you have also seen them...
 
 **Paimon:** Huh...? Um... Y—Yes.
 
+##### Response branch 1
+
 - **Traveler:** What's the matter, Mr. Khayyam?
 
+##### Response branch 2
+
 - **Traveler:** Have you seen Aranara, too?
+
+##### Shared continuation
 
 **Khayyam:** "Iram indeed is gone with all its Rose, and Jamshyd's Sev'n-ring'd Cup where no one Knows."
 
 **Khayyam:** We should proceed to the next site.
 
 #### Investigate the plants in the specified locations
-
-**Khayyam:** The plants here are growing pretty nicely...
-
-- **Traveler:** About the plants...
-
-- **Traveler:** About those "imaginary friends"...
-
-**Khayyam:** I never thought soil that had been tainted by Marana could ever provide nourishment for plants again.
-
-**Khayyam:** Dismissing the unique lifeforms that kids call Aranara as "imaginary friends" is undoubtedly incorrect.
-
-**Khayyam:** Since the Akademiya sensors couldn't detect them either, only young kids could prove that they exist.
-
-**Khayyam:** Hence, AmuBiologyrta has classified them as "unidentified lifeforms."
-
-#### Talk to Khayyam
 
 **Khayyam:** Ha! Here! Look at this!
 
@@ -514,7 +622,7 @@ Just call me Traveler.
 
 **Paimon:** ...
 
-...
+- **Traveler:** ...
 
 **Khayyam:** Ah... Ahem, my apologies, children. I... I was carried away.
 
@@ -526,15 +634,21 @@ Just call me Traveler.
 
 **Khayyam:** Irfan was talented in music; Siman was tall and strong, beyond comparison; and me? Haha, I was just an avid reader born in a family with a little extra Mora.
 
+##### Response branch 1
+
 - **Traveler:** Is this where you played house in childhood?
 
-- **Traveler:** Did you and your friends make all this...?
-
 **Khayyam:** No, this is our secret world — I'm serious about it. We made a promise together, saying that we will never forget each other, and will lead the Reconquest Army to take back the castle...
+
+##### Response branch 2
+
+- **Traveler:** Did you and your friends make all this...?
 
 **Khayyam:** No, not all of these. We promised that we will lead the Reconquest Army to take back the castle... Hehe.
 
 **Khayyam:** I grew up to be a botanical researcher in the Akademiya, and I happened to return here for some reconstruction. I visited multiple times, bringing and taking away plenty of rubbish here.
+
+##### Shared continuation
 
 **Khayyam:** Hehe, 20 years have passed, and they might have forgotten our promise... It became my own research campsite in the forest, which was kept in operation till 30 years ago.
 
@@ -546,9 +660,15 @@ Just call me Traveler.
 
 **Paimon:** "Imaginary friends"... Do you mean Aranara?
 
+##### Response branch 1
+
 - **Traveler:** Paimon, shush!
 
+##### Response branch 2
+
 - **Traveler:** You talk too much, Paimon!
+
+##### Shared continuation
 
 **Khayyam:** ...
 
@@ -556,31 +676,29 @@ Just call me Traveler.
 
 **Khayyam:** Please forgive this old man for talking too much nonsense. Let's continue.
 
+#### Go to where Khayyam is
+
+#### Investigate the newly grown plants
+
+**Khayyam:** The plants here are growing pretty nicely...
+
+##### Response branch 1
+
+- **Traveler:** About the plants...
+
+**Khayyam:** I never thought soil that had been tainted by Marana could ever provide nourishment for plants again.
+
+##### Response branch 2
+
+- **Traveler:** About those "imaginary friends"...
+
+**Khayyam:** Dismissing the unique lifeforms that kids call Aranara as "imaginary friends" is undoubtedly incorrect.
+
+**Khayyam:** Since the Akademiya sensors couldn't detect them either, only young kids could prove that they exist.
+
+**Khayyam:** Hence, Amu(Biology)rta has classified them as "unidentified lifeforms."
+
 #### Talk to Khayyam
-
-**Khayyam:** Look, look here... The plants are thriving! It seems that the soil devastated by Marana could still nourish lively plants!
-
-**Khayyam:** Haha, Mawtiyima you old pal! Still active, aren't you?
-
-**Paimon:** Wow, Mr. Khayyam seems to get younger all of a sudden!
-
-- **Traveler:** And Paimon seems to know what to say all of a sudden!
-
-- **Traveler:** Yay!
-
-**Paimon:** Hey! What's that supposed to mean?
-
-**Paimon:** Paimon's not sure what you mean, but yay!
-
-**Khayyam:** Hmm... These should be enough. Thanks for coming all the way here with me. Since we have done everything planned, we should go now.
-
-**Khayyam:** Haha, this is excellent... These samples might really help my research on the secrets and weaknesses of The Withering...
-
-**Khayyam:** Thanks for your hard work, let us take the same route back... I have something for you.
-
-**Paimon:** Yay! Rewards!
-
-**Khayyam:** Hehe, it could be.
 
 #### Return to Khayyam's camp
 
@@ -594,9 +712,15 @@ Just call me Traveler.
 
 **Paimon:** Ehhh!
 
+##### Response branch 1
+
 - **Traveler:** This is...
 
+##### Response branch 2
+
 - **Traveler:** Aranara...
+
+##### Shared continuation
 
 **Khayyam:** Yes. If I'm right... They must have gifted you the same thing, right?
 
@@ -606,11 +730,17 @@ Just call me Traveler.
 
 **Paimon:** Sure, we can do that, but...
 
+##### Response branch 1
+
 - **Traveler:** They might have forgotten me.
+
+**Khayyam:** ...
+
+##### Response branch 2
 
 - **Traveler:** They might have forgotten you.
 
-**Khayyam:** ...
+##### Shared continuation
 
 **Khayyam:** I can't see them, either... I can't even believe in their existence. Maybe... they are just my childhood fantasies...
 
@@ -626,15 +756,21 @@ Just call me Traveler.
 
 **Aranaga:** So... why come here?
 
-- **Traveler:** This is hard to explain...
+##### Response branch 1
 
-- **Traveler:** We're friends.
+- **Traveler:** This is hard to explain...
 
 **Paimon:** Even if you have forgotten many things, you should know that we don't mean any harm! We're always on your side, and we'll always help Mawtiyima!
 
 **Aranaga:** Mawtiyima... You know?
 
+##### Response branch 2
+
+- **Traveler:** We're friends.
+
 **Aranaga:** Friends...?
+
+##### Shared continuation
 
 **Aranaga:** Hmph, don't look like bad guys, you.
 
@@ -642,13 +778,13 @@ Just call me Traveler.
 
 **Paimon:** Hey, wait!
 
-We have something for you!
+- **Traveler:** We have something for you!
 
 **Aranaga:** Something, for me?
 
 **Aranaga:** Give me.
 
-Here.
+- **Traveler:** Here.
 
 **Aranaga:** ...
 
@@ -656,11 +792,17 @@ Here.
 
 **Aranaga:** Really... are friends with me? Very important flower, why here, with you?
 
+##### Response branch 1
+
 - **Traveler:** Uh...
+
+##### Response branch 2
 
 - **Traveler:** It's a long story...
 
-*You explain all the adventures in detail to Aranaga, as well as how you saved Mawtiyima from The Withering.*
+##### Shared continuation
+
+You explain all the adventures in detail to Aranaga, as well as how you saved Mawtiyima from The Withering.
 
 **Aranaga:** ...
 
@@ -670,25 +812,65 @@ Here.
 
 **Paimon:** Whaaat!?
 
+##### Response branch 1
+
 - **Traveler:** *sigh*
 
+##### Response branch 2
+
 - **Traveler:** That's not unexpected...
+
+##### Shared continuation
 
 **Aranaga:** But, thank you. My garden, if remember. Please come.
 
 **Aranaga:** Very important flower, will plant, Aranaga.
 
-*Aranaga leaves with the flower.*
+Aranaga leaves with the flower.
 
 **Paimon:** Aranaga just... left.
 
-- **Traveler:** Yeah, he left.
+##### Response branch 1
 
-- **Traveler:** But he invited us.
+- **Traveler:** Yeah, he left.
 
 **Paimon:** Well, Aranaga invited us to his garden, though... That means he didn't refuse to be friends with us, right? Let's pay him a visit sometime!
 
+##### Response branch 2
+
+- **Traveler:** But he invited us.
+
 **Paimon:** Hmm... That's right. Let's visit Aranaga sometime, shall we?
+
+**Khayyam:** Look, look here... The plants are thriving! It seems that the soil devastated by Marana could still nourish lively plants!
+
+**Khayyam:** Haha, Mawtiyima you old pal! Still active, aren't you?
+
+**Paimon:** Wow, Mr. Khayyam seems to get younger all of a sudden!
+
+##### Response branch 1
+
+- **Traveler:** And Paimon seems to know what to say all of a sudden!
+
+**Paimon:** Hey! What's that supposed to mean?
+
+##### Response branch 2
+
+- **Traveler:** Yay!
+
+**Paimon:** Paimon's not sure what you mean, but yay!
+
+##### Shared continuation
+
+**Khayyam:** Hmm... These should be enough. Thanks for coming all the way here with me. Since we have done everything planned, we should go now.
+
+**Khayyam:** Haha, this is excellent... These samples might really help my research on the secrets and weaknesses of The Withering...
+
+**Khayyam:** Thanks for your hard work, let us take the same route back... I have something for you.
+
+**Paimon:** Yay! Rewards!
+
+**Khayyam:** Hehe, it could be.
 
 ## ZH
 
@@ -696,12 +878,11 @@ Here.
 
 你们在森林中遇到了一位名叫海亚姆的老人，他似乎曾与兰那罗们有着一段过往。不如回应他的求助…
 
-
-**海亚姆:** 哈哈，真是有趣…真是有意思。好起来了，这片森林…好起来了啊…
+**？？？:** 哈哈，真是有趣…真是有意思。好起来了，这片森林…好起来了啊…
 
 **派蒙:** 你好！老爷爷，你是迷路了吗？
 
-**海亚姆:** 嗯…嗯？麋鹿…？啊，你们是在叫我吗？哈哈，迷路，是吧？没有的事，没有的事…
+**？？？:** 嗯…嗯？麋鹿…？啊，你们是在叫我吗？哈哈，迷路，是吧？没有的事，没有的事…
 
 **海亚姆:** 你们好呀，孩子们。我是生论派的陀裟多，吉亚斯·海亚姆，哈哈…叫我海亚姆就好。
 
@@ -713,13 +894,19 @@ Here.
 
 **海亚姆:** 对啦！真不错！好，金发的孩子，你再来一遍。
 
-- **旅行者:** 海——亚——姆——
+##### 对话分支 1
 
-- **旅行者:** 海亚姆先生，你在这里做什么呢？
+- **旅行者:** 海——亚——姆——
 
 **海亚姆:** 哈哈，不错！比白色的小东西强多了！你看，我早说过我也能去教语音学的！
 
+##### 对话分支 2
+
+- **旅行者:** 海亚姆先生，你在这里做什么呢？
+
 **海亚姆:** 嗯…你发音太快了，太急促了。不过没关系…慢下来就好。
+
+##### 共同后续
 
 **派蒙:** 所以，海亚姆先生…既然你没有迷路，那来这种地方做什么呀？
 
@@ -735,17 +922,23 @@ Here.
 
 **派蒙:** 这样啊…
 
-- **旅行者:** 关于验证想法…
+##### 对话分支 1
 
-- **旅行者:** 需要我们帮助吗？
+- **旅行者:** 关于验证想法…
 
 **海亚姆:** 哈哈，六十年前的事情了…可不要期待我这老家伙记得多清楚。但我相信，「死域」的清除，和那件事情有关。
 
 **海亚姆:** 所以，接下来，我要进入这个洞穴里面采集一些样本，验证我的猜想。
 
+##### 对话分支 2
+
+- **旅行者:** 需要我们帮助吗？
+
 **海亚姆:** 哈哈…谢谢你们，热情的孩子。我这把老骨头虽然不灵活了，但脑子还好使，可不要小看我呀。
 
 **海亚姆:** 毕竟，我知道怎样让森林高兴，森林就不会让我受伤害。
+
+##### 共同后续
 
 **派蒙:** 这样呀…洞里的「无留陀」虽然没有了，可还是很危险呀。
 
@@ -753,9 +946,15 @@ Here.
 
 **海亚姆:** 唔，等等…你刚刚说什么？洞里的…？
 
+##### 对话分支 1
+
 - **旅行者:** 「无留陀」？
 
+##### 对话分支 2
+
 - **旅行者:** 「死域」？
+
+##### 共同后续
 
 **海亚姆:** 嗯…再想想，我可能确实需要你们帮忙。
 
@@ -763,7 +962,7 @@ Here.
 
 **海亚姆:** 嘿嘿，请恕我冒昧…但还没有问过两位朋友的名字呢？
 
-叫我旅行者就好。
+- **旅行者:** 叫我旅行者就好。
 
 **派蒙:** 而我是派蒙！派——蒙——！
 
@@ -789,6 +988,8 @@ Here.
 
 **海亚姆:** 哈哈…我可有二三十年的森林考察经验，不要小瞧老年人的体能呀！你们尽管走便是，我很快就能跟上。
 
+#### 前往「无郁夷摩」
+
 #### 和海亚姆对话
 
 **海亚姆:** 我要调查的，主要是三个地点。哈哈，三十年前来到这里的记忆应该还没有消退干净…我还能给你们指出来。
@@ -797,45 +998,41 @@ Here.
 
 **派蒙:** 不要客气啦，海亚姆先生！这都是我们「杰万」应该做的！
 
-#### 和海亚姆对话
+#### 调查特定地点的植物
 
 **海亚姆:** 有意思…这里的植物看起来…重新焕发生机了啊。「无郁夷摩」重新发挥作用了…真是神奇。
 
 **派蒙:** 欸…海亚姆先生也知道「无郁夷摩」吗？我还以为只有兰那罗知道…
 
+##### 对话分支 1
+
 - **旅行者:** 派蒙，嘘！
 
+##### 对话分支 2
+
 - **旅行者:** 派蒙…！
+
+##### 共同后续
 
 **海亚姆:** 「兰那罗」，是吗？你们也看到过他们啊…
 
 **派蒙:** 欸…？嗯…是、是的。
 
+##### 对话分支 1
+
 - **旅行者:** 怎么了，海亚姆先生？
 
+##### 对话分支 2
+
 - **旅行者:** 你也见过兰那罗吗？
+
+##### 共同后续
 
 **海亚姆:** 「伊兰杳随蔷薇没，夷王神杯何所终…」
 
 **海亚姆:** 我们继续吧，去下一个地点。
 
 #### 调查特定地点的植物
-
-**海亚姆:** 这里的植物长势真不错呀…
-
-- **旅行者:** 关于植物…
-
-- **旅行者:** 关于「幻想朋友」…
-
-**海亚姆:** 我还从没想过，被「无留陀」侵犯过的土地，仍然能够重新孕育出供植物葱茏生长的养分。
-
-**海亚姆:** 孩子们叫「兰那罗」的奇特生物体，说它们是「幻想朋友」…无疑是不准确的。
-
-**海亚姆:** 因为教令院的探测仪也无法看到它们，只有那些幼小的孩子们才能证明它们存在。
-
-**海亚姆:** 所以，生论派对这种生物的归类是「未确认生物」。
-
-#### 和海亚姆对话
 
 **海亚姆:** 哈！你瞧！看看这个！
 
@@ -849,7 +1046,7 @@ Here.
 
 **派蒙:** ……
 
-……
+- **旅行者:** ……
 
 **海亚姆:** 呃…咳咳，抱歉，孩子们。我…我有点太兴奋了。
 
@@ -861,15 +1058,21 @@ Here.
 
 **海亚姆:** 伊尔凡弹得一手好琴；熙蔓她个子高，胳膊壮，没人打得过；而我呢？哈哈，读书多一点，家里多点摩拉而已。
 
+##### 对话分支 1
+
 - **旅行者:** 这里是你儿时玩耍的地方？
 
-- **旅行者:** 这些都是你和玩伴留下来的吗…？
-
 **海亚姆:** 不，这里是我们的秘密国度，我很严肃的。我们和他们约好了切莫相忘，长大后举「复国军」回来光复城堡…
+
+##### 对话分支 2
+
+- **旅行者:** 这些都是你和玩伴留下来的吗…？
 
 **海亚姆:** 不，不全是。最初我们还约定了，等长大以后，举「复国军」回来光复这里…呵呵。
 
 **海亚姆:** 我后来在教令院做植物学研究，正巧回来把这里改造了一番，一波一波搬来又搬走了不少垃圾。
+
+##### 共同后续
 
 **海亚姆:** 呵呵，二十年过去，他们或许都已经忘记了…这里就被我当做了研究森林的小小据点，一直运作到三十年前。
 
@@ -881,9 +1084,15 @@ Here.
 
 **派蒙:** 「幻想朋友」…你是说兰那罗吗？
 
+##### 对话分支 1
+
 - **旅行者:** 派蒙…！嘘！
 
+##### 对话分支 2
+
 - **旅行者:** 就你话多，派蒙！
+
+##### 共同后续
 
 **海亚姆:** ……
 
@@ -891,31 +1100,29 @@ Here.
 
 **海亚姆:** 请原谅我这糟老头子话太多，我们继续吧。
 
+#### 前往海亚姆所在地点
+
+#### 调查新生的植物
+
+**海亚姆:** 这里的植物长势真不错呀…
+
+##### 对话分支 1
+
+- **旅行者:** 关于植物…
+
+**海亚姆:** 我还从没想过，被「无留陀」侵犯过的土地，仍然能够重新孕育出供植物葱茏生长的养分。
+
+##### 对话分支 2
+
+- **旅行者:** 关于「幻想朋友」…
+
+**海亚姆:** 孩子们叫「兰那罗」的奇特生物体，说它们是「幻想朋友」…无疑是不准确的。
+
+**海亚姆:** 因为教令院的探测仪也无法看到它们，只有那些幼小的孩子们才能证明它们存在。
+
+**海亚姆:** 所以，生论派对这种生物的归类是「未确认生物」。
+
 #### 和海亚姆对话
-
-**海亚姆:** 看呀，看呀…这里的植物长势真好！被「无留陀」蹂躏过的土壤，还是能生出有精神的植物来嘛！
-
-**海亚姆:** 哈哈，「无郁夷摩」呀「无郁夷摩」，你这个老小子！活力还是蛮足的嘛！
-
-**派蒙:** 哇，海亚姆先生好像突然变年轻了！
-
-- **旅行者:** 派蒙也突然变得会说话了！
-
-- **旅行者:** 好耶！
-
-**派蒙:** 你是什么意思啦！
-
-**派蒙:** 虽然不是很清楚，但是好耶！
-
-**海亚姆:** 嗯…你采摘的这些应该够了，辛苦你们陪我来跑一趟了。既然没有其他事情，我们离开这里吧。
-
-**海亚姆:** 哈哈，真好呀…有了这些样本，或许对「死域」秘密和弱点的研究，会有更多进展吧…
-
-**海亚姆:** 辛苦两位了，我们顺原路回去吧…我还有东西交给你们。
-
-**派蒙:** 好耶，是谢礼！
-
-**海亚姆:** 呵呵，算是吧。
 
 #### 返回海亚姆的营地
 
@@ -929,9 +1136,15 @@ Here.
 
 **派蒙:** 欸——！
 
+##### 对话分支 1
+
 - **旅行者:** 这是…
 
+##### 对话分支 2
+
 - **旅行者:** 兰那罗们…
+
+##### 共同后续
 
 **海亚姆:** 没错。而如果我没有猜错的话…他们也一定给了你同样的礼物吧？
 
@@ -941,11 +1154,17 @@ Here.
 
 **派蒙:** 嗯，可以是可以啦，只是…
 
+##### 对话分支 1
+
 - **旅行者:** 他们应该不记得我了。
+
+**海亚姆:** ……
+
+##### 对话分支 2
 
 - **旅行者:** 他们可能不记得你了。
 
-**海亚姆:** ……
+##### 共同后续
 
 **海亚姆:** 我也看不到他们了啊…我甚至无法相信，他们真的存在，还是说…仅仅是我的童年幻想而已…
 
@@ -961,15 +1180,21 @@ Here.
 
 **兰纳迦:** 所以…为什么来这里，你们？
 
-- **旅行者:** 这个问题不太好解释…
+##### 对话分支 1
 
-- **旅行者:** 我们是朋友。
+- **旅行者:** 这个问题不太好解释…
 
 **派蒙:** 虽然很多事情你都记不起来了，但是我们没有恶意的！我们一直都站在你们这边！一直都会帮助「无郁夷摩」！
 
 **兰纳迦:** 「无郁夷摩」…你们知道？
 
+##### 对话分支 2
+
+- **旅行者:** 我们是朋友。
+
 **兰纳迦:** 朋友…？
+
+##### 共同后续
 
 **兰纳迦:** 哼…看起来不像是坏蛋，你们。
 
@@ -977,13 +1202,13 @@ Here.
 
 **派蒙:** 欸…等等呀！
 
-我们有东西要交给你！
+- **旅行者:** 我们有东西要交给你！
 
 **兰纳迦:** 东西，给我？
 
 **兰纳迦:** 给我。
 
-就是这个。
+- **旅行者:** 就是这个。
 
 **兰纳迦:** ……
 
@@ -991,11 +1216,17 @@ Here.
 
 **兰纳迦:** 真的…和我是朋友，你们？很重要的花，为什么有，你们？
 
+##### 对话分支 1
+
 - **旅行者:** 这个嘛…
+
+##### 对话分支 2
 
 - **旅行者:** 说来话长…
 
-*你们向兰纳迦具言了此前的一切冒险，以及从死域中拯救「无郁夷摩」的经历。*
+##### 共同后续
+
+你们向兰纳迦具言了此前的一切冒险，以及从死域中拯救「无郁夷摩」的经历。
 
 **兰纳迦:** ……
 
@@ -1005,22 +1236,62 @@ Here.
 
 **派蒙:** 欸——！
 
+##### 对话分支 1
+
 - **旅行者:** 唉……
 
+##### 对话分支 2
+
 - **旅行者:** 这也在意料之中…
+
+##### 共同后续
 
 **兰纳迦:** 但是，谢谢你们。我的园地，如果还记得，你们。请你们来吧。
 
 **兰纳迦:** 很重要的花，会种下，兰纳迦。
 
-*兰纳迦带着花朵离开了。*
+兰纳迦带着花朵离开了。
 
 **派蒙:** 离开了…呢。
 
-- **旅行者:** 他离开了。
+##### 对话分支 1
 
-- **旅行者:** 但他留下了邀请。
+- **旅行者:** 他离开了。
 
 **派蒙:** 不过，他还邀请我们一起去他的园地…说明他也不抗拒和我们做朋友，对吧？有时间我们一起去看看吧！
 
+##### 对话分支 2
+
+- **旅行者:** 但他留下了邀请。
+
 **派蒙:** 嗯…说的是呢，我们有时间去看看兰纳迦吧？
+
+**海亚姆:** 看呀，看呀…这里的植物长势真好！被「无留陀」蹂躏过的土壤，还是能生出有精神的植物来嘛！
+
+**海亚姆:** 哈哈，「无郁夷摩」呀「无郁夷摩」，你这个老小子！活力还是蛮足的嘛！
+
+**派蒙:** 哇，海亚姆先生好像突然变年轻了！
+
+##### 对话分支 1
+
+- **旅行者:** 派蒙也突然变得会说话了！
+
+**派蒙:** 你是什么意思啦！
+
+##### 对话分支 2
+
+- **旅行者:** 好耶！
+
+**派蒙:** 虽然不是很清楚，但是好耶！
+
+##### 共同后续
+
+**海亚姆:** 嗯…你采摘的这些应该够了，辛苦你们陪我来跑一趟了。既然没有其他事情，我们离开这里吧。
+
+**海亚姆:** 哈哈，真好呀…有了这些样本，或许对「死域」秘密和弱点的研究，会有更多进展吧…
+
+**海亚姆:** 辛苦两位了，我们顺原路回去吧…我还有东西交给你们。
+
+**派蒙:** 好耶，是谢礼！
+
+**海亚姆:** 呵呵，算是吧。

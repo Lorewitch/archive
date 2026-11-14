@@ -14,11 +14,15 @@
 # chapter_num_zh:
 # part_source_ids: 73058
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_73058
-# quest_series:
+# quest_series: Aranyaka || # version_source: wiki_release_category
 # version_source: wiki_release_category
+# game_source_ids: 73058
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_ru: Араньяка
+# quest_series_order: 130
 
 ## RU
 
@@ -28,17 +32,23 @@
 
 #### Поговорите с Арагару
 
-**Арагару:** Золотой / Золотая нара, белая леталка! Опять вы!
+**Арагару:** Золотой нара, белая леталка! Опять вы! / Золотая нара, белая леталка! Опять вы!
 
 **Паймон:** Ой! В другой раз сначала здоровайся! Паймон опять перепугалась.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы - друзья.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Мы помогли тебе прогнать негодяев.
 
-**Арагару:** Гм... Может, и правда... Значит, золотой / золотая нара и белая леталка, непохожие на негодяев, могут помочь мне ещё кое в чём?
+##### Общее продолжение
 
-Буду рад(а) помочь. Я Путешественник.
+**Арагару:** Гм... Может, и правда... Значит, золотой нара и белая леталка, непохожие на негодяев, могут помочь мне ещё кое в чём? / Гм... Может, и правда... Значит, золотая нара и белая леталка, непохожие на негодяев, могут помочь мне ещё кое в чём?
+
+- **Путешественник:** Буду рад помочь. Я Путешественник. / Буду рада помочь. Я Путешественник.
 
 **Паймон:** А я Паймон! На этот раз запомни как следует!
 
@@ -46,19 +56,25 @@
 
 **Паймон:** Мы уже были с тобой здесь однажды, но ты всё забыл... Эх, как тебе объяснить... Путешественник, давай расскажем ему?
 
-*Вы рассказываете Арагару о ваших общих приключениях.*
+Вы рассказываете Арагару о ваших общих приключениях.
 
 **Арагару:** Вот как... Я ничего не помню, но мне почему-то хочется вам верить... К тому же у вас есть мой цветок, я его чувствую.
 
 **Арагару:** Да, точно! Плохие нары ушли из лагеря, давайте посмотрим, что они оставили после себя? Вдруг сможем узнать, что они замышляют!
 
-#### Поговорите с Арагару
+#### Исследуйте лагерь Пустынников
+
+#### Исследуйте лагерь Пустынников
+
+#### Исследуйте лагерь Пустынников
 
 **Арагару:** Давайте отправимся в лагерь плохих нар! Нужно узнать, что они здесь делают!
 
-Как ты определяешь, что они плохие?
+- **Путешественник:** Как ты определяешь, что они плохие?
 
 **Арагару:** Ну... Это сложно объяснить! Но я знаю наверняка, что нара Путешественник и белая леталка не такие! Я в это верю!
+
+#### Поговорите с Арагару
 
 **Арагару:** Ну как, что-нибудь нашлось?
 
@@ -70,11 +86,11 @@
 
 **Арагару:** Не беспокойся, этот цветок я уже видел... Кто-то знакомый... Можешь отдать цветок мне?
 
-Возьми.
+- **Путешественник:** Возьми.
 
 **Арагару:** Спасибо, нара Путешественник и белая леталка!
 
-*Арагару относит засохшие цветы в лес Мотийимы...*
+Арагару относит засохшие цветы в лес Мотийимы...
 
 ## EN
 
@@ -88,13 +104,19 @@ You helped Aragaru defeat the Eremites in Chatrakam Cave. Their goal, however, s
 
 **Paimon:** Whoa! Say hello before jumping out next time! You scared Paimon again!
 
+##### Response branch 1
+
 - **Traveler:** We're not bad guys.
+
+##### Response branch 2
 
 - **Traveler:** We chased the bad guys away for you.
 
+##### Shared continuation
+
 **Aragaru:** Hmph... You're right... So, Golden Nara and White Floaty who don't look like bad guys, could you do me a favor?
 
-Sure thing. I'm Traveler.
+- **Traveler:** Sure thing. I'm Traveler.
 
 **Paimon:** And Paimon is Paimon, don't forget that again!
 
@@ -102,19 +124,25 @@ Sure thing. I'm Traveler.
 
 **Paimon:** We have been here with you, but you forgot it all... Ugh, too much explanation! Traveler, why don't we do that together?
 
-*You describe your adventure with Aragaru in detail.*
+You describe your adventure with Aragaru in detail.
 
 **Aragaru:** Is that so...? I can't remember, but I somehow want to believe you... And you have the flower I gave, I can feel her.
 
 **Aragaru:** Ah, right! The bad Nara set up a campsite. Let's see what they left there. Maybe we could know their plans!
 
-#### Talk to Aragaru
+#### Investigate the Eremites' camp
+
+#### Investigate the Eremites' camp
+
+#### Investigate the Eremites' camp
 
 **Aragaru:** Let's go to the bad Nara's campsite and find out what they're up to!
 
-How can you tell if someone's bad?
+- **Traveler:** How can you tell if someone's bad?
 
 **Aragaru:** Well, I can't really explain it, but Nara Traveler and White Floaty are not baddies for sure! I believe that!
+
+#### Talk to Aragaru
 
 **Aragaru:** How is it? Did you find anything?
 
@@ -126,11 +154,11 @@ How can you tell if someone's bad?
 
 **Aragaru:** No need to worry, I have seen the flower before... The person, I should know... Please give it to me, okay?
 
-Of course, here.
+- **Traveler:** Of course, here.
 
 **Aragaru:** Thank you! Nara Traveler and White Floaty!
 
-*Aragaru brought the little dried flower to Mawtiyima Forest...*
+Aragaru brought the little dried flower to Mawtiyima Forest...
 
 ## ZH
 
@@ -144,13 +172,19 @@ Of course, here.
 
 **派蒙:** 呜哇，下次突然出现请打声招呼啦！又吓我一跳！
 
+##### 对话分支 1
+
 - **旅行者:** 我们不是坏人。
+
+##### 对话分支 2
 
 - **旅行者:** 我们帮你打跑了坏人。
 
+##### 共同后续
+
 **兰迦鲁:** 哼…你们说的有道理啦…所以，看起来不像坏蛋的金色那菈和白飞飞，可以再帮我一个忙吗？
 
-乐意效劳，我是旅行者。
+- **旅行者:** 乐意效劳，我是旅行者。
 
 **派蒙:** 我是派蒙，这次可别忘啦！
 
@@ -158,19 +192,25 @@ Of course, here.
 
 **派蒙:** 我们和你一起来过这里哦，但是你忘记啦…唔，好难解释！旅行者，我们一起给他讲讲吧？
 
-*你们具言了与兰迦鲁冒险的所见所闻。*
+你们具言了与兰迦鲁冒险的所见所闻。
 
 **兰迦鲁:** 这样吗…虽然我不记得了，但不知为什么，我愿意相信你们…而且你们有我送的花，我能感知到她在。
 
 **兰迦鲁:** 啊，对了！坏蛋那菈留下了营地，我们去找找看他们留下了什么东西，说不定能知道他们在盘算什么！
 
-#### 和兰迦鲁对话
+#### 调查镀金旅团的营地
+
+#### 调查镀金旅团的营地
+
+#### 调查镀金旅团的营地
 
 **兰迦鲁:** 去看看坏蛋那菈的营地吧！一定能知道他们是来做什么的！
 
-你是怎么分辨坏蛋的？
+- **旅行者:** 你是怎么分辨坏蛋的？
 
 **兰迦鲁:** 唔…不知道，说不清楚！但是我知道，那菈旅行者和白飞飞一定不是坏人！兰迦鲁相信！
+
+#### 和兰迦鲁对话
 
 **兰迦鲁:** 怎么样，有发现什么吗？
 
@@ -182,8 +222,8 @@ Of course, here.
 
 **兰迦鲁:** 不需要担心，我见过这朵花…那个人，我应该见过…请你交给我，好吗？
 
-请你拿去吧。
+- **旅行者:** 请你拿去吧。
 
 **兰迦鲁:** 谢谢你！那菈旅行者和白飞飞！
 
-*兰迦鲁将风干的小花带去了无郁稠林…*
+兰迦鲁将风干的小花带去了无郁稠林…

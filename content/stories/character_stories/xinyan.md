@@ -365,3 +365,839 @@ Thus did her musical journey begin, with showers of sparks and explosions keepin
 滚烫火热的「神之眼」，成为了画龙点睛的最后一笔。
 辛焱跑下山去，在璃月港举行了她的第一次摇滚音乐会。
 火花与爆炸为她打着节拍，她的音乐之路，由此开始。
+
+# voice_source_ids: 33009,33010,33011,33012,33013,33014,33015,33016,33017,33018,33019,33020,33021,33022,33023,33024,33025,33026,33027,33028,33029,33030,33031,33032,33033,33034,33035,33036,33037,33038,33039,33040,33041,33042,33043,33044,33045,33046,33047,33048,33049,33050,33051,33052,33053,33054,33055,33056,33057,33058,33059,33060,33061,33062,33063,33064,33065,33066,33067,33068,33069,33070,33071,33072,33073,33074,33075,33076,33077
+
+## REPLICAS_RU
+
+### Привет...
+
+Меня зовут Синь Янь, и я единственный рок-музыкант в Ли Юэ. Подумываю о том, чтобы отправиться в турне, а вот куда... А, я слышала, ты, путешественник, во многих местах бывал, верно? Как насчёт того, чтобы путешествовать вместе? Куда угодно! / Меня зовут Синь Янь, и я единственный рок-музыкант в Ли Юэ. Подумываю о том, чтобы отправиться в турне, а вот куда... А, я слышала, ты, путешественница, во многих местах бывала, верно? Как насчёт того, чтобы путешествовать вместе? Куда угодно!
+
+### Поболтаем: Энергия
+
+Нет жизни без рок-н-ролла! Давай, не стой столбом, пошли скорее!
+
+### Поболтаем: Новая песня
+
+О, я только что придумала новую песню, хочешь послушать?
+
+### Поболтаем: Смотри!
+
+Скорее, глянь туда! Вот это рок-н-ролл!
+
+### Когда идёт дождь...
+
+Ух, какой сильный дождь... Нельзя, чтобы гитара намокла!
+
+### Когда гремит гром...
+
+Видимо, дождь нескоро закончится... Но шоу должно продолжаться!
+
+### Когда идёт снег...
+
+Ну и как в такую погоду привлекать публику? А! Знаю! Как насчёт рока, пока ты противостоишь буре?
+
+### Когда дует сильный ветер...
+
+Ай! Надо найти где спрятаться, скорее! А то причёска испортится!
+
+### Доброе утро...
+
+Утречко! А я как раз распеваюсь. Я сегодня в хорошей форме!
+
+### Добрый день...
+
+Ух, вот это круговерть... Если дел больше не осталось, то я пойду вздремну.
+
+### Добрый вечер...
+
+Скоро выступление! Ты со мной?
+
+### Спокойной ночи...
+
+Я? Ну, мне нужно привести гитару в порядок, переписать парочку мелодий... И потом, я только что со сцены, не смогу уснуть.
+
+### Поболтаем: Пугающий вид
+
+Ты что, не боишься меня? А, некоторые говорят, будто мой взгляд остёр, как нож, одежда неправильная, говорю я неправильно. Они как меня видят, сразу прячутся кто куда, вот уж... Но у нас просто разные стили, я же не монстр какой-то...
+
+### Поболтаем: Рок-н-ролл
+
+Рок-н-ролл пришёл к нам из Фонтейна, это штука новая. Но в Ли Юэ такое не любят. Многие думают, что рок-н-ролл - это не музыка, а ужасный шум. Поэтому я рада каждому, кто слушает мои песни, ха-ха!
+
+### Поболтаем: Зрители
+
+Хочешь послушать моё выступление? Подходи ближе, тут лучше слышно! Хэй, представление на единственной рок-сцене Ли Юэ начинается!
+
+### Поболтаем: Общий язык
+
+Я вот подумала, знаешь, почему мы с тобой так легко общий язык нашли? Ты же не из этого мира, значит, тебя и его правила не волнуют! Вот так нужно жить! Ну их, эти все церемонии, да здравствует свобода!
+
+### О нас: Приглашение
+
+Я хочу немного разнообразить свой рок-н-ролл. У тебя неплохое чувство ритма, не хочешь стать моим барабанщиком? Никогда не пробовал? Ай, не напрягайся, главное - желание. Попробуй, уверена, у тебя получится! / Я хочу немного разнообразить свой рок-н-ролл. У тебя неплохое чувство ритма, не хочешь стать моей барабанщицей? Никогда не пробовала? Ай, не напрягайся, главное - желание. Попробуй, уверена, у тебя получится!
+
+### Глаз Бога...
+
+Мне кажется, во всём Тейвате я одна использую огонь из Глаза Бога в своих выступлениях. Некоторые критикуют меня, мол, я должна уважать данную мне силу... Но раз боги дали Глаз Бога именно мне, значит, они не против, чтобы я использовала его именно так, а?
+
+### Давай поделимся: Дать имя
+
+Я сделала эту гитару сама. Сначала я взяла за основу инструмент для рок-н-ролла из Фонтейна, но в процессе она отошла от оригинала. Я хотела дать ей звучное имя, например, «Огнегитара», или «Нефритолом», или «Могучая Гора», но это всё не то... У тебя, случаем, нет идей?
+
+### Давай поделимся: Опера
+
+Ты слышал оперу? Эти песни, которые слушают богачи на своих банкетах. Ты должен уметь спеть так, потом вот так, и всё должно быть идеально... Я тебе вот что скажу: такая музыка - это ну совсем не рок-н-ролл. / Ты слышала оперу? Эти песни, которые слушают богачи на своих банкетах. Ты должен уметь спеть так, потом вот так, и всё должно быть идеально... Я тебе вот что скажу: такая музыка - это ну совсем не рок-н-ролл.
+
+### Интересные вещи...
+
+Мне больше всего нравится тот сценический костюм, который я сделала из шелковицы. Ты, наверное, видел эти цветы, да? Они такие ярко-алые, идеально сочетаются с моим рок-н-роллом! / Мне больше всего нравится тот сценический костюм, который я сделала из шелковицы. Ты, наверное, видела эти цветы, да? Они такие ярко-алые, идеально сочетаются с моим рок-н-роллом!
+
+### О Сян Лин...
+
+Я часто захожу в ресторан «Народный выбор», чтобы перекусить перед сном. Если Сян Лин не торопится, то мы с ней можем до ночи проболтать. А? Спрашиваешь, что я заказываю? Ну... Что Сян Лин делает, то и ем, хи-хи. Блюда всегда разные, вкусы тоже, и вообще, она просто рок-звезда кулинарии!
+
+### О Чжун Ли...
+
+Раньше, когда ещё мало кто слушал мою музыку, этот тип пригласил меня выступить у него. Я обрадовалась, ну, думаю, хоть кто-то понимает мою музыку! Конечно, я тут же согласилась. Но когда пришла, оказалось, что он консультант в ритуальном бюро «Ваншэн». Это же совсем неуместно. Представляешь, какой чудак?
+
+### О Нин Гуан...
+
+Знаешь же Миллелитов? Они раньше всё время мне мешали, говорили, мол, тут нельзя строить сцену, там нельзя выступать, надоели мне до смерти. Хе-хе, но потом я подала жалобу в Департамент по делам граждан, и, говорят, после этого Воля Небес внесла поправки в этот... как его... в какой-то закон Ли Юэ и выделила в городе специальные площадки для выступлений. Но, чтобы выступать, всё ещё нужно получить разрешение. Эх... Сложно всё это, но лучше, чем раньше: теперь хоть не прогоняют.
+
+### О Бай Чжу...
+
+Рецепты господина Бай Чжу для горла - самые лучшие. Чтобы отблагодарить его, я выступила перед ним с импровизацией... Но змея, которая у него на шее, упала в обморок от моей музыки. С тех пор она прячется в рукаве господина Бай Чжу, как только видит меня, ха-ха. А я теперь знаю, что змеи очень чувствительны к вибрациям.
+
+### О Бэй Доу...
+
+Бэй Доу? Она честная, сильная, а ещё мы с ней хорошо ладим. Истории о приключениях «Алькора» действительно грандиозные, они так вдохновляют меня! Я даже специально написала песню для команды. Теперь, стоит мне запеть, как они подхватывают, да ещё и поют мои песни как морские!
+
+### О Чун Юне...
+
+Он очень интересный! Выглядит скромным и замкнутым, но однажды пришёл на моё выступление. Его, кажется, привёл друг, а потом он пытался перекинуться со мной парой слов, но я не слышала его из-за музыки. И тогда он запрыгнул на сцену и стал зажигать со мной! Вот что называется «внешность обманчива».
+
+### О Ху Тао...
+
+Не знаю, о чём она думает, когда каждый день ходит радостная и шутит шуточки. Она же хозяйка ритуального бюро «Ваншэн»! Когда мы встречаемся на улице, она радостно здоровается и говорит что-то типа «люблю людей, которые играют с огнём! Вы - гарант нашего процветания!» Странная она...
+
+### О Юнь Цзинь...
+
+Поделюсь с тобой секретиком, но ты никому, ага? Юнь Цзинь очень любит рок-н-ролл. Хотя она и очень занятой человек, но она приходит послушать мои концерты три раза в неделю. Казалось бы, глава труппы чайного дома «Хэюй» должна любить высокое искусство и всё такое, да? Но, я думаю, это приедается, ха-ха.
+
+### Узнать больше о Синь Янь I
+
+Хочешь узнать обо мне побольше? Ну разве ты не странный? Большинство людей наоборот хотят от меня отдалиться. Что ж, с чего бы начать?.. Может, начнём с рок-н-ролла? / Хочешь узнать обо мне побольше? Ну разве ты не странная? Большинство людей наоборот хотят от меня отдалиться. Что ж, с чего бы начать?.. Может, начнём с рок-н-ролла?
+
+### Узнать больше о Синь Янь II
+
+В детстве взрослые хотели, чтобы я вела себя так, как и положено девочке, училась делать всякие девчачьи штучки. Но ничего не получалось, поэтому меня всё время ругали. С рок-н-роллом всё по-другому: никто не учил меня, но получалось хорошо. И, конечно, взрослые говорили: «Это занятие совсем не подходит девочке!» Эх... К слову о предубеждениях.
+
+### Узнать больше о Синь Янь III
+
+Ты заметил что-нибудь особое во мне сегодня? Я сделала массаж лица, чтобы расслабить мимические мышцы, и полчаса училась улыбаться перед зеркалом. Скажи, как оно? Я стала менее жутко выглядеть? Что... Стало ещё хуже? Эх... / Ты заметила что-нибудь особое во мне сегодня? Я сделала массаж лица, чтобы расслабить мимические мышцы, и полчаса училась улыбаться перед зеркалом. Скажи, как оно? Я стала менее жутко выглядеть? Что... Стало ещё хуже? Эх...
+
+### Узнать больше о Синь Янь IV
+
+Спасибо, что остался со мной на репетиции! Время обеда. Пойдём, поедим - я и для тебя приготовила! Вот помидоры, сосиски, яичница... Что? Я не похожа на того, кто будет о таком заботиться? Эй! Не надо меня недооценивать! Нет ничего такого в том, чтобы приготовить вкусный и красивый обед! / Спасибо, что осталась со мной на репетиции! Время обеда. Пойдём, поедим - я и для тебя приготовила! Вот помидоры, сосиски, яичница... Что? Я не похожа на того, кто будет о таком заботиться? Эй! Не надо меня недооценивать! Нет ничего такого в том, чтобы приготовить вкусный и красивый обед!
+
+### Узнать больше о Синь Янь V
+
+Я верю в бунтарский дух рок-н-ролла, но это не значит, что я буду этим кичиться. У меня тоже может быть нормальная жизнь. Да, я могу шить, выращивать цветы и держать рыбок, могу делать очаровательные обеды. Я имею право любить всё что угодно... И кого угодно, правда?
+
+### Хобби Синь Янь
+
+Хобби? Конечно рок-н-ролл! Было ли у тебя когда-нибудь такое дело, в которое ты вкладывал всю душу? Когда ты становишься единым целым с тем, что любишь, время и место уже не имеют значения. Нужно лишь наслаждаться всей душой, дать волю чувствам! Кажется, мне всегда будет мало этих ощущений! / Хобби? Конечно рок-н-ролл! Было ли у тебя когда-нибудь такое дело, в которое ты вкладывала всю душу? Когда ты становишься единым целым с тем, что любишь, время и место уже не имеют значения. Нужно лишь наслаждаться всей душой, дать волю чувствам! Кажется, мне всегда будет мало этих ощущений!
+
+### Беспокойство Синь Янь
+
+Каждый раз, когда я случайно встречаюсь взглядом с детьми, они начинают рыдать от страха. Эх. Неужели нет ничего, что могло бы сделать меня менее страшной? Я всё перепробовала, но ничего не помогает...
+
+### Любимая еда...
+
+Обожаю перекусывать в доках Ли Юэ! Всё такое жирное, мяса много! Правда, маловато овощей, но мне никогда не приедаются местные блюда! Я считаю, обед там стоит того, чтобы провести весь день в доках!
+
+### Нелюбимая еда...
+
+Мне всё равно что есть, но я терпеть не могу пресные блюда. Солёное, острое - неважно, но пусть вкус будет насыщенным! Даже если продуктов хватит только на то, чтобы сделать одну порцию супа из украшений, я сделаю её отлично!
+
+### День рождения...
+
+С днём рождения! Смотри, я вышила это специально для тебя! Видишь, это мы с тобой в стиле тех кукол из Фонтейна, очень мило, правда? Эм... Почему ты так смотришь на меня? Эй, то, что я умею вышивать - это ничуть не странно!
+
+### Чувство возвышения: Начало
+
+Ю-ху! Вот это ритм! То что нужно!
+
+### Чувство возвышения: Нарастание
+
+Да я в ударе! Жди моего следующего выступления!
+
+### Чувство возвышения: Кульминация
+
+Да с этой силой я могу исполнять такой рок-н-ролл, какого ещё никто не слышал! Спасибо тебе! Мои следующие работы тебя не разочаруют!
+
+### Чувство возвышения: Окончание
+
+Ух, круто! Я чувствую твой энтузиазм! знаешь, что? Я напишу для тебя рок-песню. Это будет твоя песня - и я исполню её только для тебя!
+
+### Элементальный навык I
+
+Почувствуй ритм!
+
+### Элементальный навык II
+
+Дай жару!
+
+### Элементальный навык III
+
+Фейерверки!
+
+### Взрыв стихии I
+
+Время рок-н-ролла!
+
+### Взрыв стихии II
+
+Рок жив!
+
+### Взрыв стихии III
+
+Могу ещё громче!
+
+### Открытие сундука I
+
+Время праздновать! Готов? 1, 2, 3, 4... / Время праздновать! Готова? 1, 2, 3, 4...
+
+### Открытие сундука II
+
+Вот это рок-н-ролл!
+
+### Открытие сундука III
+
+Ю-ху! Я вас не слышу!
+
+### Низкий уровень HP I
+
+Это было всего лишь вступление...
+
+### Низкий уровень HP II
+
+Ладно, здесь и правда прозвучало бездарно.
+
+### Низкий уровень HP III
+
+Мне к такому не привыкать.
+
+### Низкий уровень HP компаньона I
+
+Спешу на помощь!
+
+### Низкий уровень HP компаньона II
+
+Это не круто!
+
+### Без сознания I
+
+Совсем в такт не попадаю...
+
+### Без сознания II
+
+Даже до припева... не добрались...
+
+### Без сознания III
+
+Может, и правда слуха нет...
+
+### Получен лёгкий удар I
+
+Так не круто!
+
+### Получен тяжёлый удар I
+
+Эй! Не трожь гитару!
+
+### Присоединяется к группе I
+
+Теперь мой выход!
+
+### Присоединяется к группе II
+
+Рок-н-ролл жив!
+
+### Присоединяется к группе III
+
+Сейчас зажжём!
+
+### Подарок I
+
+Ого, настоящий рок-н-ролл! Хочется двигаться в ритме твоих потрясающих блюд!
+
+### Подарок II
+
+Вкус неплох, но не хватает изюминки... Я могу помочь с презентацией, если хочешь.
+
+### Подарок III
+
+Если ты не против, я бы добавила перчинки в это блюдо!
+
+### О Ка Мине...
+
+Когда Ка Мин мне сказал, что у меня «рок-н-ролльная лихорадка», я первым делом потрогала свой лоб, чтобы проверить. Температуры не было, так что я сказала, что нет её, но он продолжал настаивать. Мы с ним часами спорили, пока до меня не дошло, что мы друг друга не так поняли. Ка Мин объяснил, что это такое выражение, которое обозначает фаната. Ха-ха-ха, с Ка Мином никогда не соскучишься! А «рок-н-ролльная лихорадка» ко мне так и прилипла - надо будет добавить эту фразу в слова какой-нибудь песни.
+
+## REPLICAS_EN
+
+### Hello
+
+Xinyan's the name, an' rock 'n' roll's the game — and I'm the only one who plays it in Liyue Harbor. Been thinking about staging concerts elsewhere lately, but... Hmm... Well, word is that you've been all over the place, Traveler. So, what say you sign me up for your world tour? Anywhere's good!
+
+### Chat: Vigor
+
+If there's fire in your soul, you gotta rock 'n' roll. So c'mon! Let's get movin'!
+
+### Chat: New Song
+
+I just came up with an awesome new riff, wanna hear it?
+
+### Chat: Look!
+
+Whatever's going on over there... Looks pretty rock 'n' roll to me!
+
+### When It Rains
+
+It's really comin' down... Would be all sorts of bad if my guitar got wet.
+
+### When Thunder Strikes
+
+This rain ain't clearin' any time soon... but the show's still on, people!
+
+### When It Snows
+
+Hmm... How do we attract more folks in this weather? Right! How about we stage a rock-till-you-drop snowstorm endurance challenge?
+
+### When the Wind Is Blowing
+
+Ack! Gotta find some cover, quick, or my hairdo's gonna fall apart!
+
+### Good Morning
+
+Mornin'! I was just warmin' my voice up. We're in real good shape today.
+
+### Good Afternoon
+
+Alright, that's a wrap! *yawns* If there's nothin' else, I'll go take a nap somewhere...
+
+### Good Evening
+
+Almost about to go live over here. You comin'?
+
+### Good Night
+
+Me? Oh, I've got a guitar to maintain, tunes to rewrite... I mean, I just got offstage, there's no way I can sleep right now.
+
+### About Xinyan: Frightening
+
+Not afraid of me, are you? Some folks say I've got eyes like knives, that I don't wear my clothes right, that I don't speak right. They give me a pretty wide berth, too. Really, can't a girl sport her own style without bein' looked at like she's some weird creature outta who-knows-where?
+
+### About Xinyan: Rock 'N' Roll
+
+Rock 'n' roll came to Liyue from Fontaine, so I guess you could call it a new thing. But it's not too hot around here. Most think it's an awful racket not fit for human ears. And that's why I appreciate everyone who does come listen, haha!
+
+### About Us: The Audience
+
+You wanna hear me play? Come to the front — it sounds best from there! *clears throat* Alright then, comin' at you from the one and only rock stage in Liyue!
+
+### About Us: Kindred Spirits
+
+And here I was wonderin' why we got on so well! So you're not from this world, and that's why you don't care for its rules. Now that's how life should be like! Lose the red tape, and live free!
+
+### About Us: Invitation
+
+I'd sure love to add some extra flavor to my rock 'n' roll. Wanna get on the drums next time? You've got a good sense of rhythm. ...You've never played? Don't sweat it, it's a question of soul, not skill! Give it a go, I just know you'll be great!
+
+### About the Vision
+
+I'm guessin' that I'm the only person in Teyvat who uses the fire from their Vision in rock performances. Some say I should respect that power more... But the way I see it, the gods gave the Vision to me, so they like my style, don'cha think?
+
+### Something to Share: Naming
+
+I made this guitar myself, y'know? Based it off a rock 'n' roll instrument from Fontaine at first, but it stopped looking like the original real fast. I wanted to give it a rad name, like "The Fyre Lyre," or "The Jadebreaker," or "The Hill Stiller." Still, feels like we're missin' something... Any ideas?
+
+### Something to Share: Opera
+
+You ever heard of opera? It's what those rich guys listen to at their banquets. It's all tenor this and falsetto that... Gettin' so uptight about music, ugh — it's just not rock 'n' roll.
+
+### Interesting Things
+
+My favorite stage outfit's one I made by hand outta Silk Flowers. You must've seen those flowers before, haven'tcha? Passion-red, they are — a perfect match for my music!
+
+### About Xiangling
+
+I have dinner at the Wanmin Restaurant often. If Xiangling's got some time on her hands, we'll chat till it's real late. Eh? You wanna know what I order? See... I actually eat everything she makes. It's never the same thing, and the flavor's different each time, too. Ooh, she's the rock star of the culinary world, she is!
+
+### About Zhongli
+
+There was this one fellow who invited me to perform at his place, back when there weren't many who would give my music the time of day. I was touched, let me tell you what. Like, hey, someone gets it! I agreed right away... But when I got there, I found out that he was the consultant at the Wangsheng Funeral Parlor. What a weird guy. I mean, how was that appropriate?
+
+### About Ningguang
+
+Y'know, the Millelith used to get in my way all the time. Can't set up a stage here, can't perform there. Real bother, it was... Ahem. But after I wrote to the Ministry of Civil Affairs, I heard that the Tianquan amended one of Liyue's... Uh, some rule or something. She designated some spots for performances to take place, so long as you apply. *sigh* It's still a load of trouble if you ask me, but it's better than being harangued by those Millelith every time, so...
+
+### About Baizhu
+
+Dr. Baizhu's prescriptions are the tops at preserving my voice. I did an impromptu performance for him as thanks, but... the snake he keeps around his neck fainted away. Haha, now it ducks up Dr. Baizhu's sleeve every time I'm around. I only discovered afterwards that snakes are very sensitive to vibrations.
+
+### About Beidou
+
+Her? She speaks her mind and has a big heart, and we get on great. The Crux's adventures are real epic. They've given me tons of inspiration in the past! I even wrote them a song. Nowadays, I just need to sing the first line, and most all the sailors will join in. It's fast becoming a new sea shanty, it is.
+
+### About Chongyun
+
+He's one interesting guy. He looks introverted enough, but there was this one time when he came to one of my performances. A friend brought him or something, and he had some words for me, but I couldn't hear 'em over the music. Before I knew it, he was right up there on the stage with me, singing and rockin' his heart out. Guess you really can't judge a book by its cover!
+
+### About Hu Tao
+
+I've no clue what she's thinking, going around looking all happy-clappy like that when she's the head of the Wangsheng Funeral Parlor. Always greets me cheerily too, saying "I like people who play with fire, they're good for business" or somethin' like that... She's a bit bizarre, I tell you.
+
+### About Yun Jin
+
+Tell you a secret — but you gotta keep it that way, you hear? She's real fond of rock 'n' roll. Comes to watch me at least three times a week no matter how packed her schedule is. You'd think that the head of Heyu Tea House's troupe would be into finer arts and all, eh? But I guess it gets suffocating after a while. Haha.
+
+### More About Xinyan: I
+
+You wanna know more about me? Haha! Well, aren't you just odd? Most people would do just the opposite. Well, where should we start? ...Eh, I guess we'll start with rock 'n' roll.
+
+### More About Xinyan: II
+
+Back when I was little, the adults all said I had to be more girly, that I should learn and study all these things. Wasn't ever any good at it, though, and I'd often get roasted bad. Rock 'n' roll's a different story. No one ever taught me, but I can do it just fine. And of course, the adults say "that's unladylike!" *sigh* Talk about prejudice.
+
+### More About Xinyan: III
+
+Say, do you notice anything different 'bout me today? I did some facial massages to relax my mouth and eyes, and practiced smiling less broadly in front of a mirror for half an hour. So, how'd it go? Do I look a bit less fierce than usual? ...Even scarier? Huh, okay...
+
+### More About Xinyan: IV
+
+Thanks for staying to jam with me! It's almost time for lunch. I've brought your share as well! We've got tomatoes, sausages, fried eggs... Say what? I don't seem like the type? H—Hey now, don't you look down on me. M—Making a nice-looking meal was no problem at all!
+
+### More About Xinyan: V
+
+I believe in rock 'n' roll's spirit of resistance, but I don't think it means that I have to go around shoving it in people's faces. I'm perfectly capable of living normally. I can sew, I can grow flowers and keep fish, and make nice-looking meals. I'm allowed to like anything... or anyone I want, right?
+
+### Xinyan's Hobbies
+
+Hobbies? Rock 'n' roll, of course! You ever have that something you put your all into? When everything you love comes together into one thing, the place and time loses all importance. You just need to enjoy it to the fullest, and express yourself to your heart's content! Haha... Ah, I can never get enough of that feeling.
+
+### Xinyan's Troubles
+
+*sigh* I send children a-crying every time I accidentally lock eyes with them on the road. *sigh* If only there was a way to make me look a little less scary. But I've tried everythin', and nothing sticks...
+
+### Favorite Food
+
+The lunch down at the Liyue dockyards rocks! Ahh, oily, meaty... Bit skimpy on the vegetables, but I could never get tired of it! Far as I'm concerned, a whole day in the dockyards is worth it just for the lunch!
+
+### Least Favorite Food
+
+Not that I'm picky, but I can't stand bland food. If it's supposed to be salty or spicy, make it salty or spicy! You can't have a good time if you don't go all-in on the flavor! Even if all I had on hand were enough ingredients for one serving of Jewelry Soup, I'd make sure I'd do right by them!
+
+### Birthday
+
+Happy birthday! I made some embroidery especially for you. Check it out — I sewed both our images on in the style of Fontaine's dolls. Pretty cute, eh? ...Why are you looking at me like that? Wh—What, it's not that weird that I can do embroidery!
+
+### Feelings About Ascension: Intro
+
+That's the groove, alright! That's what I'm talkin' about!
+
+### Feelings About Ascension: Building Up
+
+I'm on fire lately. Look out for my next performance!
+
+### Feelings About Ascension: Climax
+
+With such power, who knows what never-before-seen bangers I'll be able to come up with? Thanks so much! My next work won't disappoint!
+
+### Feelings About Ascension: Conclusion
+
+I feel your awesome, overflowing passion! Tell you what, I'll write you a rock song. It'll be your song — and I'll play it just for you!
+
+### Elemental Skill: I
+
+Feel the beat!
+
+### Elemental Skill: II
+
+Power chord!
+
+### Elemental Skill: III
+
+Pyrotechnics!
+
+### Elemental Burst: I
+
+Time to rock!
+
+### Elemental Burst: II
+
+Shred 'til I'm dead!
+
+### Elemental Burst: III
+
+Amp it up!
+
+### Opening Treasure Chest: I
+
+Time to celebrate! Ready? 1, 2, 3, 4...
+
+### Opening Treasure Chest: II
+
+This rocks!
+
+### Opening Treasure Chest: III
+
+Woohoo! Let me hear ya!
+
+### Low HP: I
+
+That was jus' the intro...
+
+### Low HP: II
+
+Alright, that sounded kinda bad.
+
+### Low HP: III
+
+I'm used to this much.
+
+### Ally at Low HP: I
+
+Rockin' to the rescue!
+
+### Ally at Low HP: II
+
+Hey now, don't rock till you drop!
+
+### Fallen: I
+
+The beat's all... messed up.
+
+### Fallen: II
+
+Didn't make it... to the chorus...
+
+### Fallen: III
+
+Went... out of tune...
+
+### Light Hit Taken: I
+
+Tch! Not cool.
+
+### Heavy Hit Taken: I
+
+Hey! Not the guitar!
+
+### Joining Party: I
+
+I'm takin' the stage!
+
+### Joining Party: II
+
+Aw yeah, rock on!
+
+### Joining Party: III
+
+Let's jam!
+
+### Receiving a Gift: I
+
+Wowee, you've rocked my socks off with this one. I am moving to the groove of your awesome food! Mm-mm!
+
+### Receiving a Gift: II
+
+The taste ain't bad, but it's lackin' that special spark... I can help you with the presentation if you want?
+
+### Receiving a Gift: III
+
+Hmm... You don't mind if I add a little something to spice things up, do ya?
+
+### About Gaming
+
+The first time Gaming told me I had a bad case of "rock 'n' roll fever," I checked my forehead to see if he was right. My temperature was fine, so I denied it. But he insisted it was true. We went back and forth arguing about it for hours before I realized it was all just a misunderstanding. Gaming explained that it was just another way to say you're a fan of something. Hahaha, there's never a dull moment when Gaming's around. Anyway, I've definitely come 'round to "rock 'n' roll fever" as an expression — I'll have to work it into the lyrics next time I write a song!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我是辛焱，璃月港唯一的摇滚乐手，最近在想要不要去其他地方巡回演出，目的地的话…啊，听说你是走遍了很多地方的旅行者，对吧？让我加入你们吧！去哪里都行。
+
+### 闲聊·气势
+
+摇滚不可缺少的，就是激情——喂，别发呆了，快动起来！
+
+### 闲聊·新曲
+
+要不我来弹首曲子给你听，我新写的哦？
+
+### 闲聊·注目
+
+快看那边！好像有很摇滚的东西！
+
+### 下雨的时候…
+
+这么大的雨…可不能让琴被淋到了啊。
+
+### 打雷的时候…
+
+看样子这雨一时半会儿不会停…嗯，但演出不会推迟！
+
+### 下雪的时候…
+
+唔…这种天气要怎么吸引观众呢？对了！来一场「暴风雪极限耐力摇滚挑战」怎么样！
+
+### 刮大风了…
+
+呜哇，快找个地方躲躲，不然发型要塌了！
+
+### 早上好…
+
+早啊，我刚刚在开嗓，今天嗓子的状态也好得很呢。
+
+### 中午好…
+
+啊，收工了收工了，哈…没什么事的话，我去打个盹儿。
+
+### 晚上好…
+
+马上就要演出了，你也一起来嗨吗？
+
+### 晚安…
+
+哦，好的，你先去睡吧。我吗？我还要保养我的琴，还想改改曲子，嘿嘿，刚从舞台下来，睡也睡不着的。
+
+### 关于辛焱自己·凶恶
+
+你居然不怕我？唉，有人说，我眼神跟刀子一样，衣服不好好穿，讲话也不守规矩。他们一看到我就躲得远远的，哎，真是…只是风格不一样而已，我又不是什么怪物…
+
+### 关于辛焱自己·摇滚
+
+摇滚是从枫丹传过来的，算是新东西吧。不过啊，在璃月挺不受欢迎的，一般人都觉得吵吵嚷嚷，不喜欢听。所以我啊，很感激每一个能来听我唱歌的人，哈哈。
+
+### 关于我们·观演
+
+来看我演出？哈，到前面来吧！前面的感觉更好。咳咳，那么，璃月港独一份的摇滚现场，现在开始！
+
+### 关于我们·投缘
+
+我还在想为什么和你这么聊得来，原来你不是这个世界的人，那也就用不着关心这个世界的条条框框了——人生就该是这样！繁文缛节什么的统统闪一边去，无拘无束，自由自在。
+
+### 关于我们·邀请
+
+我想让我摇滚的音乐元素更丰富一点。其实，你的节奏感很好嘛，要不要试试帮我打鼓？没打过？唉呀，不要怯场，关键是气势。来试试看嘛，你绝对很有天赋的。
+
+### 关于「神之眼」…
+
+会把「神之眼」的火用来给摇滚伴奏的，估计全提瓦特也就我一个。有人批评我，应该好好敬重这种力量…不过，既然神都把「神之眼」给了我，就说明他对我的用法，也是认可的吧。
+
+### 有什么想要分享·命名
+
+这把琴，是我亲手做的哦。本来是按照枫丹的摇滚乐器来做的，但做着做着就不再是一个东西了。我一直想给它取一个好听又好记的名字，比如「焱琴」「碎玉」「定山」什么的，但还是差点味道…你有什么好主意吗？
+
+### 有什么想要分享·宴乐
+
+欸，你知道「宴乐」吗？就是有钱人在宴会上听的曲子。一会儿唱这个多有本事，一会儿又唱那个多了不起…把音乐用成这个样子，哎呀，一点儿都不摇滚。
+
+### 感兴趣的见闻…
+
+我最喜欢的一套演出服，是我亲手用「霓裳花」织的。你肯定也见过那种花吧，红得够激情。而且，和我的摇滚也很搭呢。
+
+### 关于香菱…
+
+我经常去「万民堂」吃夜宵，香菱如果手头不忙，还经常跟我聊天，一直聊到很晚很晚。啊？你问我都点的啥？嗯…其实是香菱做啥我吃啥，哈哈。每次都不一样，味道也千变万化，她可以说是料理界的「摇滚明星」了！
+
+### 关于钟离…
+
+以前没什么人听我的摇滚，有一天他突然来邀请我，说可以去他那里试试，合适的话可以去当驻唱歌手，我心里激动啊，终于有人理解我的音乐了！就直接答应了下来。结果去了场地才知道，他居然是那个「往生堂」的客卿…这明显不合适啊，真是个怪人。
+
+### 关于凝光…
+
+你知道千岩军吧？他们以前总是妨碍我，说什么这里也不准搭舞台，那里也不准，麻烦死了。咳咳，不过在我找总务司申诉之后，听说那个「天权星」专门修订了璃月的什么…呃…反正是某个规则，划定了演出专属场地，还要申请什么许可。哎…其实还是很麻烦，不过，好歹不用像之前一样，被赶得到处乱跑了嘛。
+
+### 关于白术…
+
+白术先生开的药方保养嗓子效果一流，为了答谢他，我在他面前来了一段即兴摇滚，结果…他养的那条蛇就晕了过去。从那以后，那条蛇看到我就一个劲儿地往白术先生的衣领里面钻，哈哈哈。我从那以后才知道，蛇原来对震动很敏感。
+
+### 关于北斗…
+
+她啊，说话直爽，气量也大，聊起来特别投缘。「死兆星」号乘风破浪的故事，实在是太帅了，给了我很多摇滚的灵感。嘿嘿，我还专门写了一首歌给他们。现在，只要我唱第一句，好多船员都能跟我唱下去，都快变成船歌啦。
+
+### 关于重云…
+
+他超有意思！看上去文静内向，但有一次演出，他好像是被朋友叫过来，要跟我说什么话。舞台上声音太大，我还没听清呢，他已经一个箭步跳上台来和我一起唱了，还唱得特别摇滚。这就叫「人不可貌相」吧。
+
+### 关于胡桃…
+
+她明明是往生堂的堂主，却每天一副开开心心的样子，完全不知道在想什么。街上碰到的话，还会大大方方地和我打招呼，说什么「喜欢玩火的人，是生意兴隆的保障呢。」…呃，有、有点诡异。
+
+### 关于云堇…
+
+告诉你个小秘密，别到处乱讲哦。那个人可喜欢摇滚了，不管多忙，一周都来听我三场，只多不少。按理说，「和裕茶馆」的戏班头牌，该喜欢什么琴棋书画，花鸟虫鱼才对吧？肯定是平时被憋坏了，哈哈哈。
+
+### 想要了解辛焱·其一
+
+想要了解我？哈，一般人看到我就躲得远远的了，你还真是奇怪。那好吧，那就…从了解我的摇滚开始？
+
+### 想要了解辛焱·其二
+
+小时候，大人都让我要像个女孩子，让我学这个，学那个，但我天赋不行，总是挨骂。摇滚就不一样，没人教我，我也能做得很好，但却被大人说「没个女孩儿样」，唉，这就叫成见。
+
+### 想要了解辛焱·其三
+
+你有注意到我今天有什么区别吗？其实为了见你，我出门之前做了面部的按摩，放松了眼睛和嘴，还对着镜子练习了半小时的微笑。怎么样？是不是看上去没那么凶了？比原来更凶了？唉…
+
+### 想要了解辛焱·其四
+
+陪我练琴辛苦了！欸？差不多到中午了，来吃午饭吧，你的份我也准备了！喏，里面有西红柿，香肠，煎蛋…什么？我不像是做这种事的人？别、别小看我啊！做个吃的，摆个可爱的造型，也、也没什么不行的吧。
+
+### 想要了解辛焱·其五
+
+我很信奉摇滚的反抗精神，但我觉得这不代表我就一定要去张扬个性，我也可以有很正常的生活，可以做缝纫，可以养花养鱼，可以做造型可爱的菜肴，可以喜欢任何事，还有…任何人，对吧。
+
+### 辛焱的爱好…
+
+爱好那当然是摇滚！你有没有全情投入过某件事呢？当你与你最爱的东西合二为一，时间空间什么的都不再重要，只需要尽情享受，尽情宣泄——对对！这样沉醉进去的感觉，上百次上千次都不够！
+
+### 辛焱的烦恼…
+
+我每次不小心和路边的小孩子对上眼，都会把他们吓哭。唉，到底有没有办法，能让我看起来不那么凶啊？能想到的办法我全试过了，都没什么用…
+
+### 喜欢的食物…
+
+璃港船局的午饭真的超好吃！油水很多，肉也管够，虽然菜就那么几样，但我怎么吃都吃不腻！要我说，光是为了尝尝他们的午饭，就值得去船局干一天活！
+
+### 讨厌的食物…
+
+我几乎不挑食，但我讨厌清汤寡水的菜。咸就是咸，辣就是辣，有滋有味吃着才过瘾！哪怕食材只够做一道「珍珠翡翠白玉汤」，我也会事先备好干碟蘸水。
+
+### 生日…
+
+生日快乐！你看，这是我特地做的刺绣，我参考枫丹的洋娃娃的样子，把我们两个纹在了上面，特别可爱对吧？欸…为什么这样看着我呀，我、我会刺绣是很奇怪的事吗？
+
+### 突破的感受·起
+
+嗯！就是这样的节奏！
+
+### 突破的感受·承
+
+状态火热，期待我的下一次演出吧！
+
+### 突破的感受·转
+
+掌握了这么强的力量，说不定也能创作出前所未有的摇滚！谢谢你，我的新作不会让你失望的！
+
+### 突破的感受·合
+
+酷！我感受到你饱满的「激情」了！那么，就让我写一首专属于你的摇滚，只为你而奏响吧！
+
+### 元素战技·其一
+
+能跟上节拍吗？
+
+### 元素战技·其二
+
+热情还不够！
+
+### 元素战技·其三
+
+来点火花吧！
+
+### 元素爆发·其一
+
+摇滚时间到！
+
+### 元素爆发·其二
+
+为反抗高歌！
+
+### 元素爆发·其三
+
+听我的最强音！
+
+### 打开宝箱·其一
+
+为了庆祝，演奏一曲吧！
+
+### 打开宝箱·其二
+
+很「摇滚」嘛！
+
+### 打开宝箱·其三
+
+气氛嗨起来了！
+
+### 生命值低·其一
+
+都还只是前奏…
+
+### 生命值低·其二
+
+乐感不太好啊。
+
+### 生命值低·其三
+
+这种程度，早习惯了。
+
+### 同伴生命值低·其一
+
+我的摇滚会支援你的。
+
+### 同伴生命值低·其二
+
+这可不摇滚！
+
+### 倒下·其一
+
+节拍…乱了。
+
+### 倒下·其二
+
+还不够…激昂…
+
+### 倒下·其三
+
+不该…跑调的。
+
+### 普通受击·其一
+
+这可不摇滚。
+
+### 重受击·其一
+
+啊，我的琴！
+
+### 加入队伍·其一
+
+轮到我登场了！
+
+### 加入队伍·其二
+
+非常摇滚的选择！
+
+### 加入队伍·其三
+
+一起演奏吧！
+
+### 收到赠礼·其一
+
+身体情不自禁想要跟着律动起来。太酷了！
+
+### 收到赠礼·其二
+
+味道不错，稍微欠点「火花」…需要我帮你摆个盘吗？
+
+### 收到赠礼·其三
+
+你不介意我调点佐料，配着吃吧？
+
+### 关于嘉明…
+
+他第一次说我是「摇滚发烧友」的时候，我还仔细摸了摸额头，回答他说「没有啊」，结果他来了句「你绝对是」，我们争论了小半天，最后才发现是误会，他跟我说「发烧友」就是「爱好者」的意思。哈哈哈，他可真好玩，我要把这个词写进歌里！

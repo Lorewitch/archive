@@ -144,5 +144,1030 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я предводитель банды Аратаки, и все знают моё имя... или имена? Итто «Величайший» Аратаки, Итто «Король сумо» Аратаки, Итто «Гордость óни» Аратаки, Итто «Жучиный гладиатор» Аратаки, Итто «Первый картёжник» Аратаки, Итто «Если проиграет, ни за что не признает» Аратаки... Вот так меня частенько и называют. Выбирай, какое нравится. Не стоит благодарности, ха-ха-ха-ха.",
+        "en": "I'm the head honcho of the Arataki Gang, and everyone knows my name...s. Names, I have many. Arataki \"The One and Oni\" Itto, Arataki \"The Oni Sumo King\" Itto, Arataki \"The Pride of Oni\" Itto, Arataki \"Beetle Gladiator\" Itto, Arataki \"The Ultimate TCG Champion\" Itto, Arataki \"He Might Lose but He'll Never Admit Defeatto\"... Anyway, these are some of the ones I usually go by, so go ahead, take your pick. I'll respond to whichever one you choose, I promise. Hehe, you're welcome.",
+        "zh": "作为荒泷派的大哥大，本大爷的名号早就威震四方了。「荒泷天下独尊一斗」、「荒泷相扑鬼王一斗」、「荒泷鬼族骄傲一斗」、「荒泷鬼兜虫角斗士一斗」、「荒泷卡牌游戏王中王一斗」、「荒泷可以输但绝不认输名副其实男子汉一斗」…这些都是我常用的名字，你可以挑个喜欢的随便叫，不用客气，哈哈哈哈。"
+      },
+      "source_id": 57000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Здесь был Итто",
+        "en": "Chat: Itto's Here",
+        "zh": "闲聊·到此一游"
+      },
+      "text": {
+        "ru": "Хе-хе, Итто «Номер один» Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...",
+        "en": "Arataki \"Numero Uno\" Itto, here in the flesh! Hahaha... *cough*",
+        "zh": "嘿嘿，荒泷天下第一斗到此一游！ 哈哈哈哈…咳…"
+      },
+      "source_id": 57001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Закуски",
+        "en": "Chat: Snacks",
+        "zh": "闲聊·零食"
+      },
+      "text": {
+        "ru": "Что в мире самое вкусное? Сладкая, сладкая победа. Поэтому я ни единой моры ещё не потратил на закуски - я их по-честному выиграл... Вот так.",
+        "en": "Best flavor in the world? The sweet, sweet taste of victory. And that's why I've never spent a single Mora on any of my snacks — I've won 'em all fair and square... That's right.",
+        "zh": "轻易得到的东西哪有滋味？所以，零食我从来不会用摩拉买，都是堂堂正正地赢回来。"
+      },
+      "source_id": 57002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Бои жуков",
+        "en": "Chat: Beetle Fighting",
+        "zh": "闲聊·斗虫"
+      },
+      "text": {
+        "ru": "Ты не смотри, что жуки такие маленькие - они ребята жёсткие. Знаешь, чем питается этот жук? Потом и слезами, вот чем! Так он становится сильнее... Думаю, нам тут есть чему поучиться!",
+        "en": "Don't underestimate the beetle — they can be some of the toughest little guys around! Yes you can, yes you can— Wanna know what's on this beetle's diet? Sweat and tears, that's what! That's how it gets stronger... I think we can all learn somethin' from that!",
+        "zh": "不要小瞧斗虫啊。在一次次拼搏中，用汗和泪浇灌出更强的自己，这就是人生啊！"
+      },
+      "source_id": 57003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Пфф, настоящему мужчине зонт ни к чему... Ой, сейчас хлынет. Давай, раскрывай свой, скорее-скорее-скорее!",
+        "en": "Pff, real men don't carry umbrellas... Oh boy, wow, it's really starting to pick up. Uh quick, c'mon, get yours out! C'mon, quick, quick, quick!",
+        "zh": "男子汉从不打伞…啊这雨也太大了吧，快，快，快开伞！"
+      },
+      "source_id": 57004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Эй! Не ты ли это, сёгун Райдэн? Ты мне не начальство, слыхала? Ну, давай, разрази меня!",
+        "en": "Hey! Raiden Shogun, is that you? Well guess what — you're not the boss of me. Uh-huh, that's right, you heard me! Go ahead, strike me down!",
+        "zh": "喂！雷电将军对吧？听着，本大爷就是不服！有本事，劈我啊！"
+      },
+      "source_id": 57005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Ох-хо, пора поиграть в снежки! Но тебе меня не победить! А... а... апчхи! ...Ух.",
+        "en": "Alright, it's time for a snowball fight! You're never gonna win, though, I... Ha, ah... Ah-choo!!! Whew.",
+        "zh": "喔吼…来滚雪球吧！你是赢不了我的！阿…阿嚏！…呼。"
+      },
+      "source_id": 57006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Отличная погодка! Пора достать оникабуто для тренировки! Давай, малыш, пошёл!",
+        "en": "The sky is clear and the sun is shining... Time to get the Onikabuto out for some training! C'mon little guy, let's go!",
+        "zh": "天气真好！该把我珍藏的鬼兜虫拉出来训练一番了！唔！"
+      },
+      "source_id": 57007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Главное - не давать ветру добраться до тебя. Особенно если у тебя такая сногсшибательная причёска, как у меня. О да!",
+        "en": "Bottom line: Never let the wind get to you. Especially when you've got a killer hairstyle like mine. Oh yeah!",
+        "zh": "风再大，发型也不能乱，这是男人的底线。"
+      },
+      "source_id": 57008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "С добрым утречком! У меня кончилась мора... опять. Но зачем работать, если можно отправиться на прогулку. Что скажешь?",
+        "en": "Morning, sunshine! Hey, uh... So listen, I'm fresh out of Mora... again. But hey, who needs some lousy job when we can just go find somewhere fun to hang out! Haha, whaddya say?",
+        "zh": "早啊！…已经没有摩拉了，但今天还是不想干活。不如想想去哪里玩吧？"
+      },
+      "source_id": 57009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Раз уж мы перекусили, почему бы не сходить куда-нибудь? Ханамидзака? Нет, скучно. Комиссия Тэнрё? Тоже не пойдёт... Ай, ладно, пойдём на Рито!",
+        "en": "Now that we've had some grub, why don't we go find somewhere to kick it for a while? Hanamizaka? Nah, boring. Tenryou Commission... No, no, no... Ah, forget it, let's go hang around Ritou!",
+        "zh": "吃饱了去哪里逛好呢？花见坂…都逛烂了，嗯，也不适合去天领奉行那闹…嗯算了，去离岛遛遛吧。"
+      },
+      "source_id": 57010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Тсс! Слышишь?.. О нет, это привидение, беги!!! ...Ха-ха-ха, шутка! А тебе ведь страшно стало, да?",
+        "en": "Shh! You hear that? *gasp* Oh no... it's a ghost, RUN!!! ... Haha, psyche! Ah, I got you good there! ... I got you, didn't I?",
+        "zh": "嘘！是谁在讲话…？是鬼啊！哈哈哈…被吓到了吗？"
+      },
+      "source_id": 57011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Если сил больше нет, ложись отдыхать. Хм? Я? За меня не переживай... Я сплю с открытыми глазами, хе-хе.",
+        "en": "If you're tired, go ahead and call it a night. Hmm? Me? Oh, don't worry... I sleep with my eyes open... Haha... Literally.",
+        "zh": "累了就快睡吧，别逞强，我？哼，我睁着眼也能睡觉，嘿嘿。"
+      },
+      "source_id": 57012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Об Аратаки Итто: Нормальная работа",
+        "en": "About Itto: Getting a Real Job",
+        "zh": "关于荒泷一斗自己·不务正业"
+      },
+      "text": {
+        "ru": "Значит, говорят, что я не могу удержаться на нормальной работе? Ха-ха-ха, чушь какая! Видишь ли, я бродяга, а бродягам работать не положено. Ну а если это кому-то не нравится... Кому не нравится?! Тебе не нравится?! Хм... прости, что-то я завёлся. Так о чём это мы? Ах да, работать не по мне, но ты не волнуйся - я не вор и не грабитель какой. Когда я совсем на мели, то подрабатываю маленько: перевозкой товара, доставкой писем, привлечением клиентов и другой подобной мелочёвкой... лишь бы день простоять да ночь продержаться, хе-хе!",
+        "en": "Oh, so they're saying I can't hold down a real job, huh? Well! Hahaha! Sorry to break it to ya, but I'm a delinquent. That means it's my job to not have a real job, and if anyone's got a problem with that... Who's got a problem with that, huh? You got a problem with that!? You got a problem with— *coughing* Sorry. Got a little worked up there. Where was I? Ah yeah, so work isn't really my thing, but don't worry — I don't rob or steal or anything like that. When I'm really runnin' low on funds, I just take the odd job here and there to make ends meet. You know, like transporting stuff, delivering documents, helping businesses attract customers... Just enough to keep the wolf from the door. Hehe!",
+        "zh": "他们说我不务正业？哈哈哈哈！胡扯！本大爷是混混啊，混混的正业就是不务正业，有什么问题吗？咳，不好意思激动了些…哎呀，放心放心，我不偷不抢，快活不下去了，就去做点临时工赚摩拉，搬货送信都是小儿科，开业现场帮忙充场子也是常干的事，只要摩拉日结就行了，嘿嘿！"
+      },
+      "source_id": 57013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "Об Аратаки Итто: Óни",
+        "en": "About Itto: Oni",
+        "zh": "关于荒泷一斗自己·鬼族"
+      },
+      "text": {
+        "ru": "Óни пришлось пережить многое, чтобы добиться теперешнего положения и зажить в мире рядом с людьми. Жаль только, что многие до сих пор таят на нас злобу. Хм? Что делать? Конечно же, нужны перемены. Вот только я ни за что перед ними заискивать не стану. Я пойду своим путём, и люди зауважают меня.",
+        "en": "The oni have been through a lot to get to where we are today, and look at us now — living peacefully alongside the humans. Unfortunately, there's still plenty of people out there who've got a bone to pick with us. Hmm? Change? Oh yeah, things are gonna change, alright! You can count on that! But I'll tell you what, it won't involve any sucking up to the humans on my part, nuh-uh! I'm gonna let my actions do the talkin'. They'll come to respect me eventually.",
+        "zh": "鬼族经历了很多事情，才迎来了现在这个好时代，可以与人类共同生活。只可惜啊，时至今日还有许多人对鬼族心存芥蒂。嗯？怎么办？当然要改变啦。哼，但我不会刻意去讨好他们，我要用自己的方式，赢得人类的尊重。"
+      },
+      "source_id": 57014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Сотрудничество",
+        "en": "About Us: Cooperation",
+        "zh": "关于我们·合拍"
+      },
+      "text": {
+        "ru": "Слушай, я вот постоянно наблюдаю, как ты суетишься, помогая другим. Это же не ради моры, да? Да, ты просто справедливый и отзывчивый человек. Больше всего я ценю отношения со справедливыми людьми. Из нас обязательно получится отличная команда!",
+        "en": "Hey, so I always see you running around everywhere doing this and that for other people, but you're not in it for the Mora, are you? No, you're just straight-up lookin' out for your fellow man. I know a true homie when I see one, and no one appreciates a homies' homie more than yours truly. Put it here, partner! You and I are gonna make a great team, I just know it!",
+        "zh": "喂，我看你总是东奔西跑地替人办事，图的不止是摩拉吧？你一定也是个豪爽仗义的人！哈正好，本大爷最喜欢跟仗义的人打交道，我们绝对能成为超级合拍的搭档！"
+      },
+      "source_id": 57015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Зов",
+        "en": "About Us: Response",
+        "zh": "关于我们·响应"
+      },
+      "text": {
+        "ru": "Если честно, я восхищаюсь тобой. Всегда восхищался. В банде Аратаки для тебя вполне может найтись место. Я даже прозвище тебе придумал: Номер Два, потому что я первый номер, а вместе мы будем лучшими из лучших! Ха-ха-ха, ох... Если серьёзно, я знаю, что у тебя куда более важная цель... Давай, делай то, что считаешь нужным. И не забывай, что банда Аратаки всегда откликнется на твой зов.",
+        "en": "You know what, I gotta admit — I respect you, always have. I could really see you as a member of the gang, you know — I mean, you really have what it takes... Whaddya say? I've even come up with a catchy title to tag on after your name, get this: \"The Traveler, 'Second to One'\"! Get it? 'Cause y'know, I'm numero uno, you're my number two, and together we're the most powerful duo in the whole friggin' world, baby! Hahaha! Ah... But, uh, all jokes aside, I know you're on some important journey or whatever. So, go ahead! Get out there and do whatcha wanna do! Just remember, the Arataki Gang will always answer your call.",
+        "zh": "说实话，我很欣赏你，一直很欣赏你。当然希望你能留在荒泷派啦，欸，连给你的称号我都想好了，在你名字里添上「天下第二」，我俩就是「数一数二」组合！哈哈哈。哎呀…玩笑归玩笑，我知道你还有更重要的使命…去吧，去做你想做的事情。总之你记住，荒泷派会无条件响应你。"
+      },
+      "source_id": 57016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Даже не спрашивай. Одна мысль об этом выводит меня из себя! Сначала армия сёгуната отнимает у всех драгоценные Глаза Бога, что само по себе уже большое злодеяние, а потом их вставляют в ту статую, причём вставляют как попало! Подумай только, чем сильнее Глаз Бога, тем выше он должен быть на статуе. Но, видите ли, какому-то болвану из комиссии Тэнрё вздумалось поместить мой Глаз Бога в самое основание! Эх, чтоб ему!..",
+        "en": "Ugh, don't even ask. Just the thought of it makes my blood boil! First, the Shogun's Army goes out and steals everyone's precious Visions — which, already a heinous crime, right? But then... then they go and stick them all over that statue with absolutely no sense of organization whatsoever. I mean, think about it... the more powerful the Vision, the higher up on the statue it should go, that would make sense, right? But nooo, some class-A jerk in the Tenryou Commission thought it'd be funny to put my Vision right at the very bottom! Ugh... Come on!",
+        "zh": "别问，说起这个我就火大。那群幕府军夺走人们珍视的东西，罪大恶极，竟然还敢乱摆神之眼！欸，照理说，越强的人，神之眼就应该嵌在越上面才对吧，到底是哪个不识抬举的将本大爷的神之眼嵌在最下面啊！"
+      },
+      "source_id": 57017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся: Госпожа Хина",
+        "en": "Something to Share: Hina",
+        "zh": "有什么想要分享·希娜小姐"
+      },
+      "text": {
+        "ru": "О своих заботах ты всегда можешь попробовать написать в колонку советов журнала «Это жизнь». Каждому читателю госпожа Хина непременно даст тёплый и ободряющий ответ. Вот я когда-то был заблудшей душой, но благодаря ей это изменилось. ...Да, я ещё записался на встречу с ней. Ох, скорее бы она состоялась. Дни тянутся так долго...",
+        "en": "If you ever have something on your mind, you can always try writing in to \"That's Life\" magazine's advice column. Ms. Hina always manages to come up with an encouraging and heartwarming response for all her readers. Just look at me — I used to be a lost soul, but not anymore, and it's all thanks to her. Oh, that reminds me, I managed to sign up for one of her upcoming meet-and-greets! I've been counting down the days — wish it would go faster...",
+        "zh": "你要是有什么烦恼，可以试着给《闲事月刊》的问答栏目投稿，希娜小姐一定会给你一个温暖人心的答案。啊…托她的福，我的灵魂已经不再迷茫了…对了，我还报名了希娜小姐的线下见面会，唉这日子怎么就过得那么慢呢。"
+      },
+      "source_id": 57018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Давай поделимся: Рога",
+        "en": "Something to Share: Horns",
+        "zh": "有什么想要分享·双角"
+      },
+      "text": {
+        "ru": "У меня к тебе вопрос! Скажи, после того как привыкаешь к моим рогам, они начинают смотреться скучно? Я тут подумал, а не выкрасить ли мне их во все цвета радуги и на кончики привязать по светлячку? И щеголял бы я такой по улицам, и все бы просто очумели от этой красоты! Да это же гениальная мысль! Решено, я собираю банду, пусть всё устроят!",
+        "en": "Question for ya! Do my horns look boring once you get used to them? 'Cause, uh, I was thinking of switching up the style, going for a total overhaul, you know? I'm thinking paint them in rainbow stripes and then strap a few Fireflies on for good measure! Eh, eh? I bet that would turn some heads on the streets... like \"Dude, you're rockin' those sweet rainbow horns, man!\" ...Ah, man, this is totally genius! I'm gonna round up the gang and get them working on it ASAP.",
+        "zh": "我头上的角，看久了会单调吗？要不用涂料把它弄成彩虹色吧，再抓点萤火虫绑在上面，走在街上炫彩夺目，想想就觉得很帅！本大爷果然是天才，我这就让兄弟们行动起来！"
+      },
+      "source_id": 57019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Поделюсь с тобой настоящим секретом ловли оникабуто. Всё дело в глазах - они должны быть кристально чистыми. Особенно в грозу, когда льёт дождь и бушует ветер, оникабуто по неосторожности можно перепутать с фиалковой дыней.",
+        "en": "Wanna know the real secret to catching Onikabuto? It's all in the eyeballs. You gotta keep those bad boys squeaky clean at all times, make sure your eyesight's as sharp as a hawk. Trust me, when you're in the middle of a thunderstorm, and the rain's coming down, and the wind's blowing in your face, you gotta watch out, because Lavender Melons and Onikabuto? Well, they can really start to look the same... believe me, I know.",
+        "zh": "抓鬼兜虫的唯一秘诀就是——抓之前一定要擦亮双眼看清楚，尤其是在风乱吹雨乱下的雷雨天，一不小心就会把堇瓜和鬼兜虫弄混。"
+      },
+      "source_id": 57020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Томе...",
+        "en": "About Thoma",
+        "zh": "关于托马…"
+      },
+      "text": {
+        "ru": "Я слышал от ребят, что он был главным героем на церемонии сотого Глаза Бога. Что за дела? В честь чего ему устроили особую церемонию? Сотый Глаз Бога что, круче девяносто девятого? Пф... Нетушки. Будь это так, им следовало выбрать меня!",
+        "en": "Some of the boys have been telling me that he was the star of the show at the Vision Hunt Ceremony. I'm like — are you kidding me??? How come he gets his own special ceremony!? Was the hundredth Vision supposed to be, like, stronger than the other ninety-nine, or something? Pff, nah, it can't have been that, 'cause, uh, hello! They would've chosen me if that's what they were going for.",
+        "zh": "听弟兄们说，他是第一百颗神之眼狩眼仪式的主角？嗯？为什么他会有专属的仪式啊？欸，难道说第一百颗神之眼是比前九十九颗厉害吗？嘶…不对，真是那样的话，那应该是本大爷来当这第一百颗才对！"
+      },
+      "source_id": 57021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Камисато Аято...",
+        "en": "About Kamisato Ayato",
+        "zh": "关于神里绫人…"
+      },
+      "text": {
+        "ru": "Ха-ха-ха-ха, жаль, что мы с Аято не встретились раньше! Однажды он сказал мне следующее: «Даже в самом слабом из жуков можно разжечь боевой дух». Если бы не эти мудрые слова, после семьсот восьмидесятого поражения я бы точно забросил бои жуков. Хех, наверное, лишь воин поймёт другого воина. Когда мы с ним играем в карты или устраиваем бои жуков, то обходимся почти что без слов.",
+        "en": "Haha, I only wish I could have met my bro Ayato sooner. He really taught me something. \"You can kindle the warrior spirit in even the weakest of bugs\"... Yep, I really took that one to heart. If it weren't for those words of wisdom, I'm pretty sure I would have given up beetle fighting after losing for the 780th time... Heh, I guess sometimes it takes a warrior to understand a warrior. When we're playing trading card games or battling beetles, we're always totally on the same wavelength.",
+        "zh": "哈哈哈哈，我跟绫人兄可以说是相见恨晚啊！如果不是他提醒我「让温顺的虫子燃起斗志」是我一生都该坚守的觉悟，也许早在第七百八十次战败时，我就放弃斗虫了…哈哈，果然只有男人最懂男人，哎呀，我和他之间无需多言，在打牌和斗虫时，默契就已经悉数体现了。"
+      },
+      "source_id": 57022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Ёимии...",
+        "en": "About Yoimiya",
+        "zh": "关于宵宫…"
+      },
+      "text": {
+        "ru": "Ох уж эта девица... Только и дело что развлекает детей своими модными игрушками и фейерверками. Мне это уже надоело! Это я должен быть в центре внимания! Это меня должны обожать дети! И ты тоже поддержи меня... В смысле? Что значит, ты не ребёнок? Пустяки. Все, кто ниже меня - дети!",
+        "en": "Hmph, she's always showing off her fancy fireworks and toys to the kids. Well, I'm sick of it! Nobody steals my thunder! I'm the one that's supposed to be adored by the kids! Me! That goes for you too, you're siding with me on this, okay... Huh? Whaddya mean, you're not a kid? Eh, details. If you're shorter than me, you're a kid as far as I'm concerned.",
+        "zh": "那家伙，仗着自己会做烟花和小玩具，哄起小孩来一套一套的…不行，不能让她抢尽风头，「孩子王」本大爷是当定了！你也要站我这边…什么？你不是孩子？呵，在我眼里，比我矮的，全是孩子！"
+      },
+      "source_id": 57023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кадзухе...",
+        "en": "About Kaedehara Kazuha",
+        "zh": "关于枫原万叶…"
+      },
+      "text": {
+        "ru": "Слыхал я, что после вашего побега из Тэнсюкаку он смог блокировать удар Мусо но хитотати. Это правда? С ума сойти! Как это вообще ему удалось? Если подумать, мы оба из падших кланов... Это в некотором смысле делает нас равными, ха-ха! Значит, когда в следующий раз на тебя нападут, клинок заблокирую я!",
+        "en": "Word on the street is that he blocked the Musou no Hitotachi after you escaped from Tenshukaku. Seriously? 'Cause I mean, that is awesome! Who knows how he pulled it off. Hey, now that I think about it, he's from a fallen clan, and I'm from a fallen clan... That kinda makes us equals, haha! Yeah, so next time someone attacks you, it's my turn to block the blade!",
+        "zh": "听说你从天守阁逃出来后，是他挡下了「无想的一刀」？帅啊！到底怎么做到的。你想，他是没落的贵族，我是没落的鬼族…某种意义上，我和他旗鼓相当啊。哈哈哈哈，那么，下一刀，本大爷替你挡了！"
+      },
+      "source_id": 57024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О сёгуне Райдэн...",
+        "en": "About the Raiden Shogun",
+        "zh": "关于雷电将军…"
+      },
+      "text": {
+        "ru": "Во время Охоты сёгун послала свою лучшую тэнгу отнять мой Глаз Бога. Видать, я был ей как кость в горле. Но, раз она Охоту на Глаза Бога уже отменила, то не так уж она и безнадёжна. Хе, надеюсь, Райдэн усвоила этот урок. Если она учудит нечто подобное ещё раз, эта кость вернётся, и будет куда больнее.",
+        "en": "During the Vision Hunt Decree, the Shogun had to send her top tengu in person to get my Vision off me. Heh, means she must have found me to be quite the pain in the neck. But, y'know, she's abolished the Vision Hunt Decree now, so no hard feelings, I guess. As long as she's learned her lesson, of course. 'Cause if she pulls something like that again, this old pain in the neck will be back with a vengeance.",
+        "zh": "搞眼狩令的时候，需要出动她得意的天狗才能制服我，说明本大爷一定让她很头痛吧？不过，既然她决定废除眼狩令，也不算无可救药。哼，她最好记住这次的教训，别再有下次，不然，我一定会让她更头痛，哼。"
+      },
+      "source_id": 57025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О даме с ушами кицунэ...",
+        "en": "About the Lady with Fox Ears",
+        "zh": "关于狐耳女人…"
+      },
+      "text": {
+        "ru": "Я тогда победил в состязании по поеданию рамэна кицунэ. Мне даже жареный тофу не помешал - ей было меня не одолеть! А после этого... после этого я целый месяц был прикован к постели. Но лучше уж валяться в лучах победы, чем уйти на своих двоих с поражением! Вдобавок ей пришлось с позором заплатить за тридцать две миски лапши, ха-ха-ха-ха!..",
+        "en": "I crushed that Kitsune Ramen eating contest we had. Even all that Fried Tofu couldn't stand in my way — she didn't come close to beating me! ... I was, uh, bedridden for more than a month after that, but you know what? I'd rather lie in bed a winner than walk away a loser! So... Anyway, I had the last laugh, 'cause she had to foot the bill for 32 bowls of noodles! Haha!",
+        "zh": "那场狐狸拉面比赛，是我赢了，就算面里有油豆腐，她也别想赢我！那之后…那之后我躺了一个多月，但我至少守住了胜者的荣耀！而她，就要承受付清三十二碗面钱的耻辱。哈哈哈哈…"
+      },
+      "source_id": 57026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Кудзё Саре...",
+        "en": "About Kujou Sara",
+        "zh": "关于九条裟罗…"
+      },
+      "text": {
+        "ru": "Да, я проиграл ей во время Охоты на Глаза Бога и без стыда признаю это. Раз уж проиграл, проигрывай с достоинством, а совершил ошибку - честно признай её, как настоящий мужчина! Вот только не будем забывать, кто из нас не решился на реванш - она, бравая тэнгу! Это же всего лишь матч сумо на перекрёстке. Чего она испугалась? Если она откажет в реванше опять, я вместо Кудзё Тэнгу стану называть её Кудзё Трусихой!",
+        "en": "You know what, yeah, she beat me during the Vision Hunt Decree. I'm not ashamed to admit it. When you lose, you admit defeat, and when you screw up, you take it on the chin, like a man! And anyway, let's not forget which one of us won't agree to a rematch — her, the tengu warrior! It's just a sumo street fight, I mean, what's she so afraid of? If she keeps snubbing me, I'm gonna have to stop calling her Kujou Tengu and start calling her Kujou Chicken! Heh, we'll see what she thinks of that.",
+        "zh": "眼狩令那会我确实败给她了，呵，这也没什么好羞耻的，输了就堂堂正正投降，错了就老老实实挨打，这才是真男人！反倒是她，堂堂天狗，不敢应我的复仇之约。哼，不过是在十字路口相扑而已，这就怕了？她要是再不来应战我就不叫她九条天狗了，我要叫她——九条乌龟！"
+      },
+      "source_id": 57027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Горо...",
+        "en": "About Gorou",
+        "zh": "关于五郎…"
+      },
+      "text": {
+        "ru": "А, пёсик-генерал сопротивления. Стоит отдать ему должное - хоть он и крохотный, но чрезвычайно отважен. Также я чую в нём что-то до боли знакомое, от чего на душе становится тепло... Это странно, потому что мы с ним практически не знакомы...",
+        "en": "Oh yeah, the doggy general in the resistance... Hey, I've gotta hand it to him, he may be on the small side, but he's got quite the fighting spirit. Also, he gives off this vibe that makes me feel all warm and fuzzy inside, almost as if he understands my innermost feelings... I mean, I've barely met the guy, so that's kinda weird.",
+        "zh": "哦，反抗军的小狗大将嘛，身材小小但气魄非凡，不错不错！而且，他身上散发着一种让人内心温暖的熟悉感…奇怪，明明没见过他几面…"
+      },
+      "source_id": 57028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Куки Синобу...",
+        "en": "About Kuki Shinobu",
+        "zh": "关于久岐忍…"
+      },
+      "text": {
+        "ru": "Члены банды Аратаки всегда делают так, как скажу я. Все, кроме Синобу. Она постоянно мне перечит! Но это ещё ничего. Добычу, которая достаётся мне таким тяжёлым трудом, она возвращает! Но также Синобу вытаскивает меня из тюрьмы и всех тех передряг, в которые мы попадаем, так что это ей простительно. К тому же лучше мне её не злить, иначе она превратит мою жизнь в сущий кошмар...",
+        "en": "Nobody questions my leadership in the gang, what I say goes — except when it comes to Shinobu. She's always challenging everything I say. And not only that — all the hard-earned loot I bring back and share with everyone? She goes and returns it! But also, she gets me out of jail, and out of every mess we get ourselves into, so I'll let it slide. Besides, I don't wanna get on her bad side... An angry Shinobu would make my life a nightmare.",
+        "zh": "荒泷派的弟兄们一般都会顺着我意，唯独这个忍啊，老是跟我唱反调！本大爷辛辛苦苦赢来的战利品，竟然被她一件件还了回去。哎呀，算了，看在她每次都会把我从牢房里捞出来，还替我们收拾了不少烂摊子，就不计较了。毕竟惹怒了她，我也没有好日子过…"
+      },
+      "source_id": 57029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "О Саю...",
+        "en": "About Sayu",
+        "zh": "关于早柚…"
+      },
+      "text": {
+        "ru": "Стоило мне однажды легонько погладить Саю по голове, когда та отвлеклась, как теперь она при каждой встрече бросается на меня с кулаками. Ха-ха-ха, что я могу ещё сказать? Тануки такие милахи! Нельзя же просто вот так взять и не погладить их по головке. Ещё кое-что... она также взрывается, если её назвать тануки. А что тут такого? Разве она не тануки? Ишь ты, погладили - так сразу драться лезет...",
+        "en": "All I did was give her a little pat on the head this one time when she wasn't looking, and now, she pounces to attack every time she lays eyes on me. Haha, what can I say? Tanuki are adorable! What am I supposed to do — not pat one on the head? ...Oh yeah, and that's the other thing — she beats you up for calling her a tanuki, too! What's up with that? I mean, a tanuki's what she's going for, right? Sheesh, talk about getting your fur all ruffled over nothing...",
+        "zh": "不过是趁她不注意的时候，摸了摸她的头而已，现在一见面就要跳起来打我。哈哈哈没办法，这么可爱的小狸猫，谁见了都会忍不住想去摸摸头吧？噢对了…喊她狸猫也会被揍。为什么啊，那不就是狸猫吗…？"
+      },
+      "source_id": 57030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше об Аратаки Итто I",
+        "en": "More About Itto: I",
+        "zh": "想要了解荒泷一斗·其一"
+      },
+      "text": {
+        "ru": "Тебе наверняка любопытно, каким образом я стал неоспоримым предводителем банды Аратаки, умея только играть в карты да устраивать бои жуков? Хм, твоя правда, это просто детские забавы. Хочешь узнать, что мне на самом деле позволило добиться такого положения? Я умею есть рамэн, стоя на руках, спать с открытыми глазами, играть на гармошке носом и прихлопывать мух собственными волосами. Теперь-то ты понимаешь, да?",
+        "en": "I know what you're thinking: \"I don't see it — how did this guy get to become the boss of the Arataki Gang on the back of beetle fighting and trading card games?\" Well, you're right, those are just child's play. Wanna know the hard skills that really got me where I am? Eating ramen standing upside down, sleeping with my eyes open, playing the harmonica with my nose, and swatting houseflies with my hair. Yeah, I know. Betcha see it now, huh?",
+        "zh": "你一定很想问，为什么我只会斗虫和打牌，却能稳坐荒泷派老大的宝座？哼，的确，只会这些小儿科难以服众。干脆就一口气告诉你吧！我还会倒立吃拉面、睁着眼睡觉、用鼻孔吹口琴、用发梢拍苍蝇这类绝活。怎么样，消除你心中的疑惑了吧？"
+      },
+      "source_id": 57031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше об Аратаки Итто II",
+        "en": "More About Itto: II",
+        "zh": "想要了解荒泷一斗·其二"
+      },
+      "text": {
+        "ru": "В Инадзуме на каждый праздник, новоселье, болезнь, да и вообще любое сколь-нибудь значимое событие разбрасывают бобы и напевают всякое вроде «Боб счастливый я бросаю, óни злого изгоняю» или «Óни уйди, счастье приди, óни уйди, счастье приди». Эти напевы у меня в печёнках сидят... Но главное, как мне, с моей-то аллергией, ходить по усыпанным бобами улицам?! Возмутительно! Óни невинны, и я докажу это ради всего нашего рода! И хватит в любой непонятной ситуации прибегать к экзорцизму.",
+        "en": "People in Inazuma have this ritual every time there's a holiday, or they move, or get sick, or whatever, where they throw beans around and chant: \"Fortune beans are falling down, send the oni out of town. Fortune in, oni out. Fortune in, oni out!\" ...Ugh, the chant gets worse every time I hear it, but the streets full of beans, with my allergies? Total disaster. I've gotta fix this, for every oni out there! We're innocent, people! Quit trying to ward us off and drive us out every time there's a minor life event!",
+        "zh": "稻妻人每逢过节、搬家、生病，都爱撒豆子，一边撒还一边念念叨叨，「福豆撒落，鬼怪败挫」、「福来福来，鬼去鬼去」…我都听出耳茧了。关键是豆子还经常撒出路面来，害我过敏…可恶啊！我一定要为鬼族正名，鬼啥也没干！别有事没事就想着驱鬼驱魔的。"
+      },
+      "source_id": 57032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше об Аратаки Итто III",
+        "en": "More About Itto: III",
+        "zh": "想要了解荒泷一斗·其三"
+      },
+      "text": {
+        "ru": "Однажды, чтобы покончить с предрассудками людей насчёт óни, я приказал банде снять на фотокамеру то, как я показываю свою добрую и мягкую сторону, а снимок прикрепить на доске объявлений Инадзумы. В итоге какие-то негодники разрисовали его, но самое возмутительное вот что: дуралеи из комиссии Тэнрё обвинили меня в нарушении общественного порядка, комиссия Ясиро пожаловалась, что снимок портит атмосферу, а Кандзё прислали ко мне своих прихвостней с требованием оплатить какой-то налог на рекламу... Ох... Ну и кто из нас теперь плохие ребята?",
+        "en": "In a... \"attempt\"... to end human prejudice toward the oni, I had the gang use a Kamera to take a picture of me showing my softer side and stick it to the Message Board in Inazuma City. Next thing we know, some jerks have graffitied all over it! Tsk! Then, some ashigaru blockheads from the Tenryou Commission accused me of disrupting the peace, next it was the Yashiro Commission, complaining it ruined the atmosphere in the area, and finally, even the Kanjou Commission got involved — they sent some lackeys over demanding advertising tax! Ugh, they have no idea who the bad guys are here!",
+        "zh": "为了消除人类对鬼族的偏见，有次我让弟兄们把我温柔和蔼的形象用留影机拍成画片，贴在稻妻城的留言板上。欸，结果有些人竟敢在画片上乱涂乱画！更可恨的是，天领奉行的蠢货足轻说我引起社会治安恐慌，社奉行又说什么败坏风气，连勘定奉行的走狗都要来要什么广告营业税…嘶…真是不识好歹！"
+      },
+      "source_id": 57033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше об Аратаки Итто IV",
+        "en": "More About Itto: IV",
+        "zh": "想要了解荒泷一斗·其四"
+      },
+      "text": {
+        "ru": "Банда Аратаки с гордостью принимает в свои ряды всех, кому не повезло в жизни. Некоторые называют нас чудаками и ненормальными, но ты их не слушай. Банда для меня как семья, да и мои ребята считают так же. Что бы ни случилось, мы разделим все радости и печали вместе.",
+        "en": "In the Arataki Gang, we're proud to welcome people who've experienced adversity in their lives. Don't listen to the people who call us freaks, or weirdos. Every member of my gang is like family to me, and they all feel the same way. Whatever happens, the gang will face it together — both the highs and the lows.",
+        "zh": "包容和理解这些有过不幸经历的人，这才是我荒泷派的「骄傲」。…你别听外面的人说什么怪不怪人的，在我眼里，他们每一位都是我重要的家人。呵，这群小子也抱着和我一样的想法，不管怎样都会和荒泷派同甘共苦。"
+      },
+      "source_id": 57034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше об Аратаки Итто V",
+        "en": "More About Itto: V",
+        "zh": "想要了解荒泷一斗·其五"
+      },
+      "text": {
+        "ru": "Я, конечно, уважаю синих óни за то, что они принесли себя в жертву ради выживания багровых, но я в корне не согласен с этим поступком. Никто не должен жертвовать собой ради лучшего будущего. Будущее будет лучшим только тогда, когда оно лучше для всех. Нужно действовать сообща, а не замыкаться в себе, а потом приносить себя в жертву, пытаясь произвести впечатление. Увы, прошлого уже не изменить... Но можно изменить будущее. Я никому не позволю жертвовать собой. Захочешь принести себя в жертву - я помешаю тебе!",
+        "en": "I gotta respect the Blue Oni for sacrificing themselves so that the Crimson Oni could live on... In principle, though, I'm absolutely against it. No one should have to sacrifice their own kind for the sake of a better tomorrow, period. It's only a better tomorrow if it's a better tomorrow for everyone. We need to work together, not have everyone just focused on themselves, making their own sacrifice, trying to look cool in the process... Eh, I guess there's no changing the past, what's done is done. But from this day forward, no more sacrificing, not on my watch! You go to sacrifice yourself, I'll stand right in your way!",
+        "zh": "我很敬佩青鬼「牺牲自己换取赤鬼延续」的行为，但绝不认同他们的理念。「更好地活下去」绝不该靠牺牲同类换取，应该是「一起更好地活着」才对。自顾自地牺牲…独自耍帅的行为算什么嘛…唉…过去已经没办法改变了。但今后，在我荒泷一斗的眼皮子底下，没有人可以随便牺牲自己。本大爷，要挡在你们前面！"
+      },
+      "source_id": 57035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Хобби Аратаки Итто...",
+        "en": "Itto's Hobbies",
+        "zh": "荒泷一斗的爱好…"
+      },
+      "text": {
+        "ru": "Бои жуков, карты, юла, кэндама, прятки... Словом, я во что угодно играть умею! Выбери одну из игр и посоревнуемся, что скажешь? Только приготовься к тотальному поражению! Ха-ха-ха-ха!",
+        "en": "Beetle fighting, trading card games, spinning tops, kendama, hide-and-seek, you name it, I can play it! Whaddya say, pick one and we'll have a little contest? Just make sure you're ready to get thrashed! Hahaha!",
+        "zh": "斗虫、打牌、陀螺、剑玉、捉迷藏…总之你想得到的想不到的，我全都会！怎么样？要比什么？做好全盘皆输的准备吧！哈哈哈哈！"
+      },
+      "source_id": 57036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Беспокойство Аратаки Итто...",
+        "en": "Itto's Troubles",
+        "zh": "荒泷一斗的烦恼…"
+      },
+      "text": {
+        "ru": "Бабушка Óни на деле никакая не óни... Она просто самый добрый в мире человек. Её прозвали так потому, что она приютила меня. Если я кому-нибудь не нравлюсь, ну и ладно, мне всё равно, что обо мне думают... Ах, лишь бы её из-за меня не беспокоили...",
+        "en": "Granny Oni isn't an oni at all... In fact, she's the kindest human that has ever lived. She only got her nickname because she took me in. If people have got a problem with me, fine, I don't care what other people think anyway... *sigh* But I wish people wouldn't go after her because of me.",
+        "zh": "「鬼婆婆」不是鬼，她可是世界上对我最好的人类，只是因为收养了我才会被叫鬼婆婆的。我怎么样都无所谓，反正我也不在乎别人的看法…唉，但我不想她因为我而被别人指指点点…"
+      },
+      "source_id": 57037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Нет ничего лучше леденцов на палочке. Это не только вкуснейшая конфета, но и палочка, которая так круто торчит изо рта. С ней я выгляжу как реально плохой парень. Вот, попробуй и ты!",
+        "en": "Lollipops are pretty much the best things ever. The candy tastes awesome, but also, it looks really cool just having a stick hanging out of your mouth. It gives me, like... a real punk kind of vibe. Here, you try it!",
+        "zh": "棒棒糖全身都是宝，不但糖好吃，棍子叼在嘴里还很帅，为我增添了一丝不羁的气质，来，你也试试吧。"
+      },
+      "source_id": 57038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Ну, я же óни! Понятно, что больше всего я ненавижу бобы! Сою, фасоль, да и вообще все бобовые. Если я даже не съем, а просто прикоснусь к ним, у меня тут же начнётся аллергическая реакция. Ах, поскорее бы люди отвыкли швыряться ими!",
+        "en": "Uh, well I am an oni! So there's nothing I hate more than beans. Soybeans, Mung Beans, whatever, I hate 'em all. Just touching one is enough to set off my allergies, let alone eating them. We have to get people to resist this constant urge to throw beans everywhere!",
+        "zh": "我是鬼我是鬼啊！最讨厌的当然是豆子啊！黄豆、绿豆通通不行，别说吃了，光是碰到身上都会过敏。唉，所以说，撒豆子这种陋习还是赶紧灭绝吧。"
+      },
+      "source_id": 57039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Сегодня важный день. Банду пришлось отправить по своим делам, иначе они обвинили бы меня в пристрастности. Вот, посмотри. Я приготовил тебе первоклассный деньрожденьский подарок! Один оникабуто высшего сорта - на его поимку у меня ушло три дня и три ночи; вышедшая из печати игральная карта, которая досталась мне после победы в трёхстах партиях; о, а ещё деньрожденьская песня в моём собственном исполнении. Кхм-кхм... С днём рождения тебя, с днём рождения тебя, с днём рождения, дорогой путешественник, с днём рождения тебя-я-я!.. / Сегодня важный день. Банду пришлось отправить по своим делам, иначе они обвинили бы меня в пристрастности. Вот, посмотри. Я приготовил тебе первоклассный деньрожденьский подарок! Один оникабуто высшего сорта - на его поимку у меня ушло три дня и три ночи; вышедшая из печати игральная карта, которая досталась мне после победы в трёхстах партиях; о, а ещё деньрожденьская песня в моём собственном исполнении. Кхм-кхм... С днём рождения тебя, с днём рождения тебя, с днём рождения, дорогая путешественница, с днём рождения тебя-я-я!..",
+        "en": "Today's an important day. I had to send the gang away, otherwise they'd be accusing me of favoritism. Here, take a look at this. I got you the greatest birthday gift combo ever! One top-grade Onikabuto — I'll have you know it took me three whole days and nights to catch this bad boy — one out-of-print collectible trading card that took me 300 rounds to get my hands on, and finally, a birthday song performance performed personally by yours truly! Happy Birthday to you, Happy Birthday to you, Happy Biiiirthday dear Traveler, Happy Birthday to youuuu!",
+        "zh": "今天是个重要的日子，我特意把弟兄们支开了，不然他们肯定要说我偏心。来，看看，我给你准备的生日礼物可是最高规格的！抓了三天三夜才抓到的特级鬼兜虫一只、大战了三百回合赢来的绝版卡牌一张，哦还有本大爷亲自演唱的生日歌一首——咳咳…祝你生日快乐…祝你生日快乐…"
+      },
+      "source_id": 57040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Ох-хо, вот это я понимаю! Берегитесь, теперь я куда сильнее!",
+        "en": "Now that's what I'm talking about, baby! Woo-haha! Better look out, I'm way stronger now!",
+        "zh": "喔喔…就是这样就是这样！力气更大了！"
+      },
+      "source_id": 57041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Какая силища... Мой показатель побед устремится к небесам!",
+        "en": "Ah yeah, this is gonna do wonders for my win ratio!",
+        "zh": "好强的力量…胜率绝对会提升吧！"
+      },
+      "source_id": 57042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Почувствуй эту мощь! Хочешь посмотреть, как я разбиваю валуны?",
+        "en": "Feel the power, baby! Wanna see me smash a boulder?",
+        "zh": "这力气，一拳砸碎岩石，应该不在话下吧？"
+      },
+      "source_id": 57043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Теперь моё прозвище «Номер один» стало реальностью. Я не забуду того, что ты для меня сделал. Ты всегда можешь рассчитывать на мою защиту. / Теперь моё прозвище «Номер один» стало реальностью. Я не забуду того, что ты для меня сделала. Ты всегда можешь рассчитывать на мою защиту.",
+        "en": "I think \"Numero Uno\" just went from nickname to reality, boom! Haha! Hey, but just because I made it to the top doesn't mean I'm gonna forget all the things you've done for me, okay? I've still got your back, anytime, anywhere.",
+        "zh": "这样一来，我就是名副其实的荒泷天下第一斗了啊！你的功劳，本大爷不会忘。以后，就由本大爷来保护你了。"
+      },
+      "source_id": 57044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Понеслась!",
+        "en": "Let's roll!",
+        "zh": "斗战岩牛！"
+      },
+      "source_id": 57045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Бах!",
+        "en": "Haha! Bam!",
+        "zh": "给我砸！"
+      },
+      "source_id": 57046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Так держать!",
+        "en": "Attaboy!",
+        "zh": "就是你了！"
+      },
+      "source_id": 57047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Посторонись, óни идёт!",
+        "en": "Oni, comin' through!",
+        "zh": "鬼王游巡，通通闪开！"
+      },
+      "source_id": 57048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Ну, кто хочет выхватить?!",
+        "en": "Who wants some of this!",
+        "zh": "鬼蜮狂欢！"
+      },
+      "source_id": 57049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Шоу начинается!",
+        "en": "It's SHOWTIME!!!",
+        "zh": "哈哈，到我表演了！"
+      },
+      "source_id": 57050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Отлично, новые игрушки для ребят!",
+        "en": "Alriiiight! New toys for the boys!",
+        "zh": "快看看有没有新鲜玩意儿？"
+      },
+      "source_id": 57051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Мне нереально везёт!",
+        "en": "I'm on a roll, haha!",
+        "zh": "本大爷果然运气超凡！"
+      },
+      "source_id": 57052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Привет, даровые деньги. Прощай, работа!",
+        "en": "Hello, free money, goodbye working for a living.",
+        "zh": "这些够我躺三天不干活了吧？"
+      },
+      "source_id": 57053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Не догонишь!",
+        "en": "Can't catch me!",
+        "zh": "追不上我！"
+      },
+      "source_id": 57054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Не стоит недооценивать óни!",
+        "en": "Never underestimate an oni!",
+        "zh": "别太小看鬼族了！"
+      },
+      "source_id": 57055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Я не проигрываю! Это всё... часть плана...",
+        "en": "I'm not losing! It's all... part of the plan...",
+        "zh": "你以为我这就会认输吗？"
+      },
+      "source_id": 57056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Всего лишь царапина, не о чем беспокоиться!",
+        "en": "It's just a scratch, I swear!",
+        "zh": "区区小伤，不用管不用管！"
+      },
+      "source_id": 57057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "За меня!",
+        "en": "Lemme at 'em!",
+        "zh": "站在本大爷身后！"
+      },
+      "source_id": 57058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Я не позволю тебе пасть!",
+        "en": "Tag me in! I got this!",
+        "zh": "我不允许你倒下！"
+      },
+      "source_id": 57059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Увидимся на... реванше...",
+        "en": "See you at the... rematch...",
+        "zh": "复仇之战，未完待续…"
+      },
+      "source_id": 57060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Я пал... но пал красиво...",
+        "en": "At least I'm going down... with style...",
+        "zh": "倒下的姿势…得帅才行。"
+      },
+      "source_id": 57061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Ребята, я подвёл вас...",
+        "en": "My boys... I've let you down...",
+        "zh": "辜负弟兄们的期待了…"
+      },
+      "source_id": 57062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Получить хочешь?!",
+        "en": "You want some of this!?",
+        "zh": "胆子不小！"
+      },
+      "source_id": 57063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен лёгкий удар II",
+        "en": "Light Hit Taken: II",
+        "zh": "普通受击·其二"
+      },
+      "text": {
+        "ru": "Что так слабо?!",
+        "en": "Hah! Is that all you got!?",
+        "zh": "用点力！"
+      },
+      "source_id": 57064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "А вот это было больно!",
+        "en": "Okay, that one hurt!",
+        "zh": "太用力了吧！"
+      },
+      "source_id": 57065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Тебе не стыдно исподтишка бить?",
+        "en": "Hey! I wasn't ready!",
+        "zh": "偷袭可耻！"
+      },
+      "source_id": 57066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "В сторонку, Итто вернулся!",
+        "en": "Step aside! Itto's back in town!",
+        "zh": "都给本大爷让道！"
+      },
+      "source_id": 57067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Я лучший!",
+        "en": "I am the MAN!",
+        "zh": "救世主来喽！"
+      },
+      "source_id": 57068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Толпа ликует!",
+        "en": "And the crowd goes wild!!!",
+        "zh": "多大点事，看我来摆平！"
+      },
+      "source_id": 57069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ха-ха-ха-ха-ха! Я целых три года такой вкуснятины не ел!",
+        "en": "Hahahahahahahaha! Mm, mm, mm! I haven't eaten somethin' this good in three whole years!",
+        "zh": "哈哈哈哈哈哈——已经三年没吃到那么好吃的菜了！"
+      },
+      "source_id": 57070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Ладно! Я позволю тебе меня угостить, но помни, что банда Аратаки всегда платит по счетам.",
+        "en": "Fine! I'll let you treat me to a meal today, but know that the Arataki Gang always pays its debts.",
+        "zh": "好！你今天孝敬本大爷的，我都记在账上了。"
+      },
+      "source_id": 57071
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Эй, ты точно не пытаешься меня отравить?! А!..",
+        "en": "Hey, are you sure you ain't trying to poison me!? Ah!",
+        "zh": "喂，你…难不成…给我下毒了？！啊…"
+      },
+      "source_id": 57072
+    }
+  ],
+  "replica_count": 73
 }

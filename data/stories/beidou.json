@@ -144,5 +144,1002 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я Бэй Доу. Знаешь о моём корабле, Южном Кресте, и его команде? Если тебе тоже нравятся приключения, присоединяйся к нам. Я тебя прикрою.",
+        "en": "I'm Beidou. You've heard of my ship, The Crux and its crew? If you too love adventure, then join me. I've got your back.",
+        "zh": "我是北斗，听过我的「南十字」船队吗？如果你也喜欢冒险，那就跟着我吧。我罩你。"
+      },
+      "source_id": 14100
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Обмен опытом",
+        "en": "Chat: Sparring",
+        "zh": "闲聊·切磋"
+      },
+      "text": {
+        "ru": "Если захочешь обменяться опытом, я всегда готова.",
+        "en": "If you ever want to trade tactics, I'm always ready.",
+        "zh": "想切磋的话，我随时奉陪。"
+      },
+      "source_id": 14101
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Пьянство",
+        "en": "Chat: Drinking",
+        "zh": "闲聊·畅饮"
+      },
+      "text": {
+        "ru": "Ах, что может быть лучше кружки-другой холодного пива после тяжёлого трудового дня?",
+        "en": "Ah! A cold beer after a hard day's work... Nothing like it!",
+        "zh": "啊——干完活，喝口酒。真畅快。"
+      },
+      "source_id": 14102
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Суша",
+        "en": "Chat: Land",
+        "zh": "闲聊·陆地"
+      },
+      "text": {
+        "ru": "Тяжко быть на суше так долго. Всё никак не привыкну.",
+        "en": "It's hard to remain on dry land for so long. Can never seem to quite get my land legs back.",
+        "zh": "难得在陆地上逗留那么久，居然有点不习惯了。"
+      },
+      "source_id": 14103
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Когда застрял на необитаемом острове, дождь - прекрасный источник пресной воды. Впрочем, сейчас в ней нет необходимости...",
+        "en": "When stuck on a deserted island, rain is a precious source of drinking water. There's no need for it now though.",
+        "zh": "被困荒岛的时候，雨水就是宝贵的淡水来源。嗯…虽然现在是用不上啦。"
+      },
+      "source_id": 14104
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Эй, это всего лишь гроза. Её не стоит бояться в открытом море, а уж на суше - тем более.",
+        "en": "Hey, it's just a little lightning. No need to fear it on the open ocean, so there's even less need to fear it on dry land.",
+        "zh": "喂，打雷而已。在海上不用怕，在陆地上，就更不用怕了。"
+      },
+      "source_id": 14105
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Прекрасная погода для выхода в море.",
+        "en": "This weather would be great for setting sail.",
+        "zh": "这天气，很适合出航啊。"
+      },
+      "source_id": 14106
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Ветер усиливается. Если песок попадёт тебе в глаза, не три их.",
+        "en": "Wind's picking up. If sand gets in your eyes, be sure not to rub them.",
+        "zh": "注意扬起来的风沙，别揉眼睛。"
+      },
+      "source_id": 14107
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Хэй, доброе утро. Я готова отправляться. Ты со мной?",
+        "en": "Yo, good morning. I'm about to head off, coming with me?",
+        "zh": "哟，早。我准备出发了，一起来？"
+      },
+      "source_id": 14108
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Пойдём к Сян Лин, пообедаем. Поверь, её горячий обед гораздо лучше, чем жареная рыба да солонина, которую мы едим в море.",
+        "en": "Let's get Xiangling to whip us up something for lunch. Believe me, a hot meal from her is far better than the salted fish we eat out at sea.",
+        "zh": "去香菱那吃午饭吧。你别说，这大锅热油炒出来的，还真和海上的烤鱼腌肉不一样。"
+      },
+      "source_id": 14109
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Ладно, я за выпивкой. Хм? Ха-ха, что, тебе не продают ничего крепче сока? Пожалуй, я могла бы...",
+        "en": "Alright, I'm off for a drink. Hahaha, no one willing to sell you a proper drink, huh? Perhaps I can...",
+        "zh": "好，出发喝酒去喽！嗯？哈哈哈，平时没人卖酒给你是吧？那不如——"
+      },
+      "source_id": 14110
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Время быстро течёт. Иди, попутного ветра.",
+        "en": "Time moves quickly. Haha, go, may the wind be at your back.",
+        "zh": "这时间过得可真快。去吧，一帆风顺。"
+      },
+      "source_id": 14111
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Бэй Доу...",
+        "en": "About Beidou",
+        "zh": "关于北斗自己…"
+      },
+      "text": {
+        "ru": "Готовимся к отплытию! По местам, братцы! Новое приключение начинается!",
+        "en": "We're setting sail! Men, to your posts! A new adventure is about to begin!",
+        "zh": "航海准备，兄弟们，各就各位，全新的冒险要开始了！"
+      },
+      "source_id": 14112
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Звания",
+        "en": "About Us: Titles",
+        "zh": "关于我们·称呼"
+      },
+      "text": {
+        "ru": "Я капитан, а ты можешь быть мне братцем, как тебе? Что, такие обращения вышли из моды? Ну тогда мы можем звать друг друга как захочешь. / Я капитан, а ты можешь быть мне сестрицей, как тебе? Что, такие обращения вышли из моды? Ну тогда мы можем звать друг друга как захочешь.",
+        "en": "I'm the captain, so you can be my first mate! Deal? Ha? Such names are too outdated for you huh? We'll call each other whatever you wish then.",
+        "zh": "我是老大，你是我兄弟，没问题吧？哈？这些叫法太老土？行。那就按你喜欢的方式叫吧。"
+      },
+      "source_id": 14113
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Разборчивость в людях",
+        "en": "About Us: Eye for People",
+        "zh": "关于我们·识人"
+      },
+      "text": {
+        "ru": "Я хорошо читаю характеры людей. Когда ты умеешь читать океан, лица людей становятся понятными, как мелководье. Ха-ха, поэтому я с первого взгляда поняла, что мы поладим.",
+        "en": "I tend to be a good judge of character. When you've learned to read the open ocean, reading people is a cinch. Haha, and that's how I knew you're the good sort the second I laid eyes on ya!",
+        "zh": "我认人很准。当你见过大海，那么普通人脸上的小水花，可就太好读懂了。哈哈，所以，我第一眼就认准了你这个家伙。"
+      },
+      "source_id": 14114
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Выбор",
+        "en": "About Us: Choices",
+        "zh": "关于我们·选择"
+      },
+      "text": {
+        "ru": "Ты для меня как член экипажа, как брат. Я горжусь тем, что могу тебя так называть. / Ты для меня как член экипажа, как сестра. Я горжусь тем, что могу тебя так называть.",
+        "en": "I chose you as my crewmate, as my comrade on the sea. It gives me great pride to be able to say that.",
+        "zh": "你是我选择的船员，是我选择的兄弟。就说这一点，都够我自豪很久。"
+      },
+      "source_id": 14115
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Тем, у кого Глаза Бога нет, люди его имеющие кажутся избранниками богов, которым те дали в руки знамя и сказали «Веди». Знамя нужно нести соответствующе. Это меня мотивирует.",
+        "en": "To those that don't have a Vision, it must seem that those with Visions are like flagships from the Archons to follow. As such, I make sure to fly my flag with pride. That is my motivation.",
+        "zh": "在那些没有「神之眼」的家伙心中，拥有「神之眼」，获得了神的认可的人，应该是旗帜吧。那么，旗帜就该有旗帜的样子。我是这样鞭策自己的。"
+      },
+      "source_id": 14116
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Сложности? Если не знаешь, что делать дальше, просто сделай первый шаг. Всё остальное станет понятно само собой.",
+        "en": "At a loss? When you don't know what to do, just take the first step. The rest will figure itself out naturally.",
+        "zh": "遇到难题了吗？不知道如何向前的话，总之先迈出第一步，后面的道路就会自然而然地展开了。"
+      },
+      "source_id": 14117
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Каждый раз, когда, возвращаясь из плавания, я вижу в небе каменных коршунов, я чувствую, что скоро буду дома. Если долго смотреть на морские пейзажи, они рано или поздно приедаются. Конечно, эти коршуны - хищники, но когда видишь их, свободно парящих в воздухе, на сердце становится тепло.",
+        "en": "Every time I return from a long journey and I see the lapis gledes, I'm reminded that I'm almost home. The scenery out on the open ocean gets familiar real quick. Sure, they're birds of prey, but seeing them fly so freely is heart-warming.",
+        "zh": "每次远航回来看见石鸢的时候，就说明差不多快到家了。海上的景色看多了难免单调，相比之下，虽说是猛禽，但那副自在翱翔的模样，总觉得亲切可爱。"
+      },
+      "source_id": 14118
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Нин Гуан: Группировка Цисин",
+        "en": "About Ningguang: Liyue Qixing",
+        "zh": "关于凝光·璃月七星"
+      },
+      "text": {
+        "ru": "Нин Гуан? С точки зрения группировки Цисин она отлично справляется с работой. Но я отвечаю только за свой корабль и свою команду, а не за группировку Цисин.",
+        "en": "Ningguang, eh? As far as Liyue Qixing is concerned, she seems to be doing a good job. But for me, my responsibility lies with my ship and my men, and not with Liyue Qixing.",
+        "zh": "凝光啊，从「璃月七星」的角度上来说已经做得很好了吧。只是，我要负责的对象从来就是我的船和兄弟们，不是什么「璃月七星」啊。"
+      },
+      "source_id": 14119
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Нин Гуан: Отношение",
+        "en": "About Ningguang: Attitudes",
+        "zh": "关于凝光·态度"
+      },
+      "text": {
+        "ru": "Нин Гуан никогда не говорит прямо, но некогда она довольно чётко высказала мне своё недовольство. Ха-ха, любит она меня или ненавидит - её дело. Я на это повлиять не могу.",
+        "en": "Ningguang is never really one to speak frankly, but she has been very direct with her criticism of me in the past. Haha... But hey, whether she likes me or hates me is her choice, nothing I can do to sway her.",
+        "zh": "凝光一向不怎么坦率，但她曾经很直接地表露过对我的不满。哈哈，不过啊，喜欢和讨厌都是她自己的事情，我是不可能动摇的。"
+      },
+      "source_id": 14120
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Сян Лин: Кулинарные навыки",
+        "en": "About Xiangling: Culinary Skills",
+        "zh": "关于香菱·好厨艺"
+      },
+      "text": {
+        "ru": "Когда мы ходим в открытом океане, мы все скучаем по еде, которую готовит Сян Лин. Когда боевой дух падает, одна мысль о вкусе её жареного заоблачного перчика наполняет силами.",
+        "en": "When we're out on the open ocean, the one thing we do all miss is Xiangling's cooking. When spirits are low, just thinking of her fried jueyun chili, bursting with flavor... It gives everyone just that little extra kick.",
+        "zh": "香菱的一手好菜，可是我们一众人在远航时的念想。没力气的时候，要是想想干煸绝云椒椒那满嘴留香的滋味，都能精神几分。"
+      },
+      "source_id": 14121
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Сян Лин: Дегустация",
+        "en": "About Xiangling: Food Tasting",
+        "zh": "关于香菱·试吃"
+      },
+      "text": {
+        "ru": "Сян Лин? Она иногда использует очень интересные ингредиенты, чтобы получить исключительный вкус блюда. Но если никто не будет пробовать стряпню Сян Лин, она не сможет совершенствоваться, поэтому я с удовольствием помогаю ей в этом.",
+        "en": "Xiangling huh? She sometimes uses some... interesting ingredients in her dishes to bring about some, ah... intriguing flavors. Though... there's no way she can improve without having someone to taste-test — a role that I am more than happy to fill.",
+        "zh": "香菱啊，她偶尔也会用一些说不上好滋味的食材，做出一些很是了不得的味道。不过嘛，没有尝试就不会有进步，我倒是挺乐意帮她试吃的。"
+      },
+      "source_id": 14122
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Чжун Ли...",
+        "en": "About Zhongli",
+        "zh": "关于钟离…"
+      },
+      "text": {
+        "ru": "Ты говоришь о том джентльмене из ритуального бюро «Ваншэн»? Иногда я слышу кое-какие слухи о нём от моих людей. Говорят, человек он интересный. Я бы познакомилась с ним при случае.",
+        "en": "You mean the gentleman from Wangsheng Funeral Parlor? My men sometimes speak of the rumors surrounding him — he sounds interesting. Yes, if I get the chance I'd like to meet him someday.",
+        "zh": "你说「往生堂」的那位先生吗？兄弟们有时会聊起他的传言，听上去是个很有意思的人啊。嗯，有机会去结交一下吧。"
+      },
+      "source_id": 14123
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Сяо...",
+        "en": "About Xiao",
+        "zh": "关于魈…"
+      },
+      "text": {
+        "ru": "Однажды накануне Праздника морских Фонарей мы попали в шторм на пути домой. Мы старались как могли, но вернулись в гавань Ли Юэ только глубокой ночью. К тому времени все фонари уже улетели. Когда я взглянула в сторону каменного леса Гуюнь, то увидела парящего в воздухе Адепта. Выглядел он как юноша. Похоже, слухи правдивы и они правда хранят гавань Ли Юэ, оставаясь незримыми.",
+        "en": "One year on the eve of the Lantern Rite, we ran into a storm as we were returning to port. Try as we did, we only made it back to Liyue Harbor in the dead of night, long after the lanterns had all been released. As I looked towards Guyun Stone Forest, I saw an adeptus, floating in the air, in the form of what appeared to be a young boy. I guess it is like the legends say — there really must be those that watch over Liyue, even if they cannot be seen.",
+        "zh": "有一年海灯节前夕，船队在归航时遭遇了风暴，紧赶慢赶才在入夜时分回到了璃月港。那时候海灯早就散了。我却在孤云阁的方向，看到了空中悬着一个少年模样的仙人。想必就如传闻一样，在人们看不见的地方，也有人在守护这个璃月港吧。"
+      },
+      "source_id": 14124
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Гань Юй...",
+        "en": "About Ganyu",
+        "zh": "关于甘雨…"
+      },
+      "text": {
+        "ru": "Мы неплохо ладим с Гань Юй! Но знаешь, она же секретарь Цисин, а они меня ох как недолюбливают. Ха, мне-то всё равно, но я не хочу доставлять проблемы Гань Юй. Так что давай мои слова останутся между нами, ладно?",
+        "en": "Privately, Ganyu and I get on like a house on fire! But as you know, she's the secretary to the Liyue Qixing... and I'm not exactly in their good books right now! Doesn't bother me, but I wouldn't want to put Ganyu in a difficult position. So just keep what I said between us, yeah?",
+        "zh": "我和甘雨那丫头私交不错！但你也知道，她是「璃月七星」的秘书，「七星」不待见我那可不是一天两天了。哈，我倒是无所谓，要连累了那丫头可不行。嗯，对外还是保密得好。"
+      },
+      "source_id": 14125
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Синь Янь...",
+        "en": "About Xinyan",
+        "zh": "关于辛焱…"
+      },
+      "text": {
+        "ru": "Ха, интересная девчонка! Команда обожает её «рок-н-ролл». Я? Как сказать... У нас, конечно, есть общие темы для разговоров, но музыкальные вкусы совсем не совпадают.",
+        "en": "She's got a great personality, that one! The guys in the crew love that rock and roll of hers. Me? We have common ground, just... not when it comes to taste in music.",
+        "zh": "哈，很有意思的丫头！船上的兄弟们也有喜欢听她「摇滚」的。嗯…我本人？怎么说呢，虽然在某些方面跟辛焱有共同话题，但我的音乐品味却是另一方面的…"
+      },
+      "source_id": 14126
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Яо Яо...",
+        "en": "About Yaoyao",
+        "zh": "关于瑶瑶…"
+      },
+      "text": {
+        "ru": "Когда мы в порту, Яо Яо всегда поднимается на борт, чтобы поиграть. Но когда она жалобно заглядывает в глаза в этой своей особой манере, ни у кого рука не поднимается выпроводить её с корабля. Поэтому мы всегда тянем до последнего и каждый раз рискуем опоздать по графику.",
+        "en": "Yaoyao always comes on board to play when we're in the harbor. Trouble is, when it's time for her to go she gives you the puppy eyes, and no one has the heart to send her away... Means we're always cutting it quite close by the time we manage to set sail.",
+        "zh": "瑶瑶这个小家伙啊，总是爱到船上来玩。但她那副扑闪着眼睛，见什么都新奇的样子，让谁都狠不下心来赶她走。唉，差点要打乱出航的计划。"
+      },
+      "source_id": 14127
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Кадзухе...",
+        "en": "About Kaedehara Kazuha",
+        "zh": "关于枫原万叶…"
+      },
+      "text": {
+        "ru": "Кадзуха? Этот паренёк заблокировал удар сёгуна Райдэн в резиденции Тэнсюкаку. Впечатляет! После окончания войны он вернулся в флот Южного Креста, сказав, что будет путешествовать с нами некоторое время. Я, конечно, очень рада. Если однажды он решит отправиться в путешествие один, я выпью бочонок за его проводы. Ха-ха.",
+        "en": "Kazuha? That scallywag actually blocked a strike from the Raiden Shogun outside Tenshukaku! Easier said than done... After the battle he came to the Crux Fleet — said he'd voyage with us a while longer. I was more than happy to oblige. If the day comes when he decides to set off again by himself on the next stage of his journey, I'll send him off with a drink, haha...",
+        "zh": "听说万叶那小子在天守阁外挡了雷电将军的一刀，不简单嘛！嗯…战争结束后，他回了我们南十字船队，说是继续和我们同行一段时间。我当然是非常欢迎了，如果哪天他决定要独自踏上下一段旅程，我再打一壶好酒为他送行，哈哈。"
+      },
+      "source_id": 14128
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Бэй Доу I",
+        "en": "More About Beidou: I",
+        "zh": "想要了解北斗·其一"
+      },
+      "text": {
+        "ru": "Прежде чем ты поднимешься на борт «Алькора», я хочу задать тебе один вопрос. Океан полон опасностей. Так скажи: почему же ты хочешь ступить на борт моего корабля?",
+        "en": "Before you step foot on The Alcor, you need to answer one question. When the sea is full of perils — why is it that you still wish to come aboard my ship?",
+        "zh": "想要踏上我的「死兆星」号，得先回答我一个问题。大海之中充满凶险，告诉我——你为什么想上我的船？"
+      },
+      "source_id": 14130
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Бэй Доу II",
+        "en": "More About Beidou: II",
+        "zh": "想要了解北斗·其二"
+      },
+      "text": {
+        "ru": "Интересуешься легендами обо мне? Ха-ха, их любит моя команда. Они всегда приукрашивают, когда рассказывают. Но, если ты спрашиваешь, боюсь ли я встретиться с монстром из морских глубин, когда выхожу в плавание, то я тебе отвечу: конечно нет.",
+        "en": "You want to know of my legendary tales? Hahaha, that's just my men exaggerating, adding in their own little details. Although, if you were to ask me if I'm afraid of what monsters lurk in the deep, I'd tell you I have no fear of them.",
+        "zh": "那些关于我的传奇故事？哈哈哈，那是兄弟们看重，才在夸我的时候添油加醋。不过，你要问我怕不怕在出海的时候遇到什么魔物，那自然是不怕的。"
+      },
+      "source_id": 14131
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Бэй Доу III",
+        "en": "More About Beidou: III",
+        "zh": "想要了解北斗·其三"
+      },
+      "text": {
+        "ru": "Почему я помогаю простым людям? Ха, а почему бы и нет? У каждого бывает чёрная полоса в жизни. Для меня помочь им - пустяк, а для них - шаг к светлому будущему.",
+        "en": "You wanna know why I help the common folk? Why not? Everyone has their low points in life. I don't really do anything, other than help steer those who are truly lost towards a brighter future.",
+        "zh": "问我帮助平民的用意？哈，哪有什么用意不用意的。谁的人生还没有个低谷。我的帮助是小事，但对他们而言，迈不迈得过去那道坎，可能就是两条路啊。"
+      },
+      "source_id": 14132
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Бэй Доу IV",
+        "en": "More About Beidou: IV",
+        "zh": "想要了解北斗·其四"
+      },
+      "text": {
+        "ru": "Мне довелось пережить трудные времена. Когда я была маленькой, у нас не было моры даже на еду. Мы жили за счёт того, что воровали фрукты из чужих садов. Даже когда у меня появился собственный корабль, горделивые купцы пытались притеснять нас при каждом удобном случае. Но я рассказываю тебе это просто так. Я совсем не хочу, чтобы ты проходил через подобное. / Мне довелось пережить трудные времена. Когда я была маленькой, у нас не было моры даже на еду. Мы жили за счёт того, что воровали фрукты из чужих садов. Даже когда у меня появился собственный корабль, горделивые купцы пытались притеснять нас при каждом удобном случае. Но я рассказываю тебе это просто так. Я совсем не хочу, чтобы ты проходила через подобное.",
+        "en": "I've been through some hard times. When I was a child we had little money, so nothing to eat, and lived for years by stealing fruit off of people's trees. Even after I got my own ship, I was cast out by pompous merchants. But me telling you such stories is merely for your amusement. I have no intention of making you live through it too.",
+        "zh": "我经历过痛苦的时光。小时候没摩拉买吃的，只好偷人家树上的果子，讨了几年生活。等到有了自己的船队，还是被趾高气昂的商人们排挤在外。但是，这些事当作茶余饭后的笑谈讲给你听，就足够了，我绝不会让你再经历一遍。"
+      },
+      "source_id": 14133
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Бэй Доу V",
+        "en": "More About Beidou: V",
+        "zh": "想要了解北斗·其五"
+      },
+      "text": {
+        "ru": "У меня в команде много людей. Я всегда спрашиваю и всегда помню, зачем каждый из них ступил на борт моего корабля. С тобой иначе. Я знаю, что тебе нужно закончить свои дела, а потому не буду предлагать тебе стать частью нашей команды. Но куда бы тебя ни привела дорога, знай: для тебя всегда есть место на «Алькоре».",
+        "en": "I have many brothers that sail with me. I have asked, and remember, why each and every one of them came on board. You, however, are special. I know you still have your own things to deal with, and as such, I won't try to rope you into coming onboard permanently. But remember, there is always a place for you onboard The Alcor.",
+        "zh": "追随我的兄弟有很多，我问过，我也记得他们每一个人上船的理由。你是很特别的。我知道你还有需要完成的事情，我不会授予你职务和头衔。但无论你的旅途去往何方，「死兆星」号上，永远都有你的位置。"
+      },
+      "source_id": 14134
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Хобби Бэй Доу...",
+        "en": "Beidou's Hobbies",
+        "zh": "北斗的爱好…"
+      },
+      "text": {
+        "ru": "Хобби... Дай-ка подумать. Искать приключения, вести корабль, заводить друзей, выпивать, хорошо есть... Э, пальцев на руке не хватит, чтобы посчитать.",
+        "en": "My hobbies...? Eh, lemme think... Well, there's adventure, sailing, making friends, drinking, eating... more than I can count on one hand.",
+        "zh": "爱好啊…我想想。冒险算一个，掌舵算一个，交朋友算一个，喝酒算一个，吃好吃的算一个…啧，一个手都数不过来啊。"
+      },
+      "source_id": 14135
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Беспокойство Бэй Доу...",
+        "en": "Beidou's Troubles",
+        "zh": "北斗的烦恼…"
+      },
+      "text": {
+        "ru": "Если можешь что-то изменить - действуй. Если не можешь - нет смысла мучиться. Я так считаю. Но если у тебя будут трудности, найди меня. Я помогу.",
+        "en": "If you can change something, change it. If you can't, don't waste time thinking about it. That's how I go about things. But really, if you get stuck, come find me. I'll help you deal with it.",
+        "zh": "搞得定的事不必烦恼，搞不定的事烦恼也没有意义。我就这样过得快快活活的。哦，要是你遇到什么想不通的事情，你可以来找我。我帮你一起解决。"
+      },
+      "source_id": 14136
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я обожаю сытные блюда! Больше всего люблю обжаренные ломтики мяса и мапо тофу. Нет ничего лучше, чем атмосфера большого застолья, когда все собираются вместе и едят досыта. Ха, от этих разговоров я хочу есть!",
+        "en": "I like food with robust flavors. Spicy fried meat or spicy tofu are my favorites. Sitting down to a big hearty meal together, where everyone can fill their bellies — now that's when things get lively! Haha, alright, alright, all this talk is making me hungry!",
+        "zh": "我喜欢味道重的菜！什么炝炒肉片啊，麻婆豆腐啊我就很喜欢。能填饱肚子，大家围坐一圈一起吃的时候，气氛也会变得火热火热的。哈，说得我都想去吃一顿了。"
+      },
+      "source_id": 14137
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я не люблю холодную пищу. Она не вызывает у меня аппетита. Я лучше пару рыбёшек поджарю.",
+        "en": "I'm not a fan of anything cold, it does nothing to fire up my appetite. I'd rather fry up a few fish.",
+        "zh": "我不太喜欢吃凉菜冷盘。有这慢悠悠开胃的功夫，鱼都能烤熟几条了。"
+      },
+      "source_id": 14138
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Давай, поднимайся на борт. Мы с командой давно ждём тебя, и стол уже накрыт. У тебя день рождения, значит, сегодня ты капитан! Ха-ха, ну что, куда направим паруса?",
+        "en": "Come, board my ship. I've gathered the crew. The food and drink are all prepared. Today is your birthday, so you are the captain. Haha, so: where should we set sail?",
+        "zh": "来，上船。我早就跟兄弟们约好把时间腾出来了，吃的喝的也都准备好了。今天你生日，让你做一天老大。哈！嗯，想去哪？"
+      },
+      "source_id": 14139
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Ух, хорошо! Я чувствую себя сильнее.",
+        "en": "Great! I feel much stronger.",
+        "zh": "痛快！又变强了不少。"
+      },
+      "source_id": 14140
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Мы делаем успехи! Давай откупорим бутылку вина и отпразднуем как следует!",
+        "en": "We're making progress. Let's crack open a bottle to celebrate!",
+        "zh": "这满载而归的滋味，开瓶美酒来庆祝吧！"
+      },
+      "source_id": 14141
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Для меня честь иметь в команде такого человека, как ты! Мне следует держаться твоего уровня, чтобы не упасть в грязь лицом.",
+        "en": "A prime example! It is an honor to have you aboard. I need to keep up if I'm to keep the respect of my crew.",
+        "zh": "好样的，有你这种得力的兄弟，是我北斗的荣光！我也不能让你小瞧了啊。"
+      },
+      "source_id": 14142
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "После всех этих тренировок мне кажется, я достигла превосходных результатов в искусстве сражения. Спасибо... Хэй, не хочешь поупражняться ещё?",
+        "en": "After all this training, I feel like I'm finally at my best. Thank you... But please, I'd still like for you to keep me on my toes.",
+        "zh": "这几番操练下来，算是达到了我武艺的巅峰状态了吧。谢谢你…对了，不如再陪我过两招吧。"
+      },
+      "source_id": 14143
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Назад!",
+        "en": "Back off!",
+        "zh": "闪开！"
+      },
+      "source_id": 14144
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Хэх!",
+        "en": "Ha!",
+        "zh": "哈！"
+      },
+      "source_id": 14145
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Получай!",
+        "en": "Back at ya!",
+        "zh": "悉数奉还！"
+      },
+      "source_id": 14146
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "На, получай!",
+        "en": "Take this!",
+        "zh": "接下吧！"
+      },
+      "source_id": 14147
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Гр-р-р!",
+        "en": "Hurrrh!",
+        "zh": "——喝啊！"
+      },
+      "source_id": 14148
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Сила, что одолела Хай Шаня!",
+        "en": "Power that ended Haishan!",
+        "zh": "这是斩灭「海山」的力量！"
+      },
+      "source_id": 14149
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Всем смотреть на меня!",
+        "en": "Eyes on me!",
+        "zh": "给我瞧好了！"
+      },
+      "source_id": 14150
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "В пепел!",
+        "en": "To ashes!",
+        "zh": "化作焦炭吧！"
+      },
+      "source_id": 14151
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "А, где ты прятался?",
+        "en": "Huh, where've you been hiding?",
+        "zh": "哟，真让人开心。"
+      },
+      "source_id": 14152
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Здорово, я начинаю сбиваться со счёта!",
+        "en": "Nice, I'm starting to lose count!",
+        "zh": "不错嘛，又有收获了！"
+      },
+      "source_id": 14153
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Чем больше моры, тем веселее. Вся выпивка за мой счёт!",
+        "en": "The Mora the merrier. First round's on me!",
+        "zh": "找到了财宝，就来喝酒助兴吧！"
+      },
+      "source_id": 14154
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Это не конец!",
+        "en": "It's not over!",
+        "zh": "还没完呢！"
+      },
+      "source_id": 14155
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Ха, а мой удар ещё ничего!",
+        "en": "Hah, I've still got some kick.",
+        "zh": "哼，我来精神了。"
+      },
+      "source_id": 14156
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Я никогда не сдаюсь.",
+        "en": "I never yield.",
+        "zh": "我绝不屈服。"
+      },
+      "source_id": 14157
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Встань позади меня!",
+        "en": "Get behind me!",
+        "zh": "到我身后！"
+      },
+      "source_id": 14158
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Отойди! Не геройствуй.",
+        "en": "Get back! Don't be a hero.",
+        "zh": "退下！别逞英雄。"
+      },
+      "source_id": 14159
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Не нравится мне это...",
+        "en": "This isn't good...",
+        "zh": "糟透了。"
+      },
+      "source_id": 14160
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Друзья... отступаем...",
+        "en": "Men... Fall... back...",
+        "zh": "兄弟们…先…撤…"
+      },
+      "source_id": 14161
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Команда... Поднять паруса... Домой...",
+        "en": "Crew... Set sail for home...",
+        "zh": "全员…归航…"
+      },
+      "source_id": 14162
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Просто царапина.",
+        "en": "Just a scratch.",
+        "zh": "区区小伤。"
+      },
+      "source_id": 14163
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Это ещё не победа!",
+        "en": "You haven't won yet.",
+        "zh": "输赢还说不定呢。"
+      },
+      "source_id": 14164
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Недурно.",
+        "en": "Not bad.",
+        "zh": "有两下子。"
+      },
+      "source_id": 14165
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Ладно, вперёд!",
+        "en": "Alright, let's go!",
+        "zh": "好，出发吧！"
+      },
+      "source_id": 14166
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Пойдём со мной.",
+        "en": "Come with me.",
+        "zh": "跟我来吧。"
+      },
+      "source_id": 14167
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Я тебе доверяю.",
+        "en": "I trust you.",
+        "zh": "我相信你。"
+      },
+      "source_id": 14168
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Очень вкусно, мне нравится! А рис есть? Можно мне две пиалы?",
+        "en": "Tastes good, I like it! Mind giving me a bowl of rice with this?",
+        "zh": "好味道，我喜欢！有米饭吗，帮忙添两碗？"
+      },
+      "source_id": 14169
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Ты здорово готовишь. Твоя стряпня поднимает мне настроение.",
+        "en": "Your cooking skills aren't bad at all, eating your food has me in a good mood.",
+        "zh": "你的手艺真不错，让人心情也变得不一样了。"
+      },
+      "source_id": 14170
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Знаешь, по большому счёту, еда есть еда, и меня это устраивает.",
+        "en": "You know, at the end of the day, food is food, and that's fine by me.",
+        "zh": "菜是好菜，这就够了。"
+      },
+      "source_id": 14171
+    }
+  ],
+  "replica_count": 71
 }

@@ -14,12 +14,14 @@
 # chapter_num_en: Trulla Chapter: Act I
 # chapter_num_zh: 长杓之章 第一幕
 # part_source_ids: 11000,11001,11002,11003,11004,11005
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_lq_2007
 # quest_series:
 # version_source: verified_override
+# game_source_ids: 11000,11001,11002,11003,11004,11005
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -27,21 +29,29 @@
 
 В один ясный солнечный день вы с Паймон приходите в Спрингвейл...
 
+#### Наткнитесь на девушку в лесу
+
 #### Поговорите с Сян Лин
 
-**Сян Лин:** Тсс! Потише, пожалуйста. Я охочусь.
+**???:** Тсс! Потише, пожалуйста. Я охочусь.
 
-**Сян Лин:** Я слышала, что в Мондштадте можно найти любые ингредиенты. И это действительно оказалось так!
+**???:** Я слышала, что в Мондштадте можно найти любые ингредиенты. И это действительно оказалось так!
+
+##### Вариант ответа 1
 
 - **Путешественник:** Ты охотница?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты искательница приключений?
 
-**Сян Лин:** Нет, я шеф-повар! Я ищу самые необычные продукты по всему континенту!
+##### Общее продолжение
+
+**???:** Нет, я шеф-повар! Я ищу самые необычные продукты по всему континенту!
 
 **Сян Лин:** Меня зовут Сян Лин, я из Ли Юэ. А вы кто такие?
 
-Меня зовут Путешественник.
+- **Путешественник:** Меня зовут Путешественник.
 
 **Паймон:** Здрасьте, я Паймон!
 
@@ -51,13 +61,19 @@
 
 **Сян Лин:** Какое необычное создание... Интересно, вкусная ли она?
 
-- **Путешественник:** Это мой хороший друг.
+##### Вариант ответа 1
 
-- **Путешественник:** Давай попробуем!
+- **Путешественник:** Это мой хороший друг.
 
 **Сян Лин:** Как жаль. Друзей есть нельзя.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Давай попробуем!
+
 **Паймон:** Нельзя! НЕЛЬЗЯ! Паймон несъедобная!
+
+##### Общее продолжение
 
 **Сян Лин:** Похоже, что вы и вправду хорошие друзья! У меня тоже есть хороший друг. Его зовут Гоба.
 
@@ -77,9 +93,15 @@
 
 **Паймон:** Особое угощение? Да Путешественник всем охотникам охотник! Конечно мы тебе поможем.
 
+##### Вариант ответа 1
+
 - **Путешественник:** На чьей ты стороне?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ладно...
+
+##### Общее продолжение
 
 **Сян Лин:** Не переживай, твой маленький друг уже дал ответ.
 
@@ -97,13 +119,19 @@
 
 **Сян Лин:** Ого, сколько всего! Так... Это я потушу, а это пожарю с грибами. Интересно, как это будет сочетаться со слаймовым желе.
 
-- **Путешественник:** Она сейчас словно в другом мире...
+##### Вариант ответа 1
 
-- **Путешественник:** Я хочу попробовать слаймовое желе!
+- **Путешественник:** Она сейчас словно в другом мире...
 
 **Паймон:** Совсем забыла про нас...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Я хочу попробовать слаймовое желе!
+
 **Паймон:** Ха-ха! Путешественник, похоже у тебя появляется вкус!
+
+##### Общее продолжение
 
 **Сян Лин:** Прошу прощения, я слишком глубоко задумалась о новых рецептах.
 
@@ -127,9 +155,15 @@
 
 **Сян Лин:** Цветок-сахарок для сладости. А в пещере неподалёку есть соляное месторождение. Там мы возьмём соль.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Она говорит об этом с такой лёгкостью...
 
-- **Путешественник:** Я даже слушать это всё устал(а)!
+##### Вариант ответа 2
+
+- **Путешественник:** Я даже слушать это всё устал! / Я даже слушать это всё устала!
+
+##### Общее продолжение
 
 **Сян Лин:** Ха-ха! Мне ни за что не устоять перед возможностью попробовать что-нибудь новенькое. Но не могу же я носить с собой целую кухню?!
 
@@ -147,9 +181,15 @@
 
 **Сян Лин:** Это будет большая потеря для кулинарного искусства! Да что там, для всего человечества!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хм. Можно и так сказать.
 
+##### Вариант ответа 2
+
 - **Путешественник:** На самом деле, не совсем.
+
+##### Общее продолжение
 
 **Сян Лин:** Прости, пожалуйста. Я слишком увлеклась и не подумала о последствиях...
 
@@ -157,13 +197,19 @@
 
 **Аллан:** Он всегда настаивает на том, чтобы мы неукоснительно соблюдали правила охоты. Сейчас он, должно быть, очень расстроен.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что же делать?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Охотники правы.
 
+##### Общее продолжение
+
 **Сян Лин:** Следует принести извинения.
 
-Мы пойдём с тобой.
+- **Путешественник:** Мы пойдём с тобой.
 
 **Сян Лин:** Спасибо, ребята! Я приготовлю вам много всего вкусного!
 
@@ -175,6 +221,8 @@
 
 На пути вы встретили чудаковатую девушку. Её зовут Сян Лин. Она - шеф-повар из Ли Юэ. Отправившись на поиски экзотических ингредиентов, она случайно разозлила Драффа, лидера охотников. Вы решили извиниться перед Драффом.
 
+#### Проводите Сян Лин до Спрингвейла
+
 #### Извинитесь перед Драффом
 
 **Драфф:** Ты, должно быть, Сян Лин.
@@ -185,9 +233,15 @@
 
 **Паймон:** Ох...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Насилием проблему не решить!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Если хочешь драки, я могу тебе её устроить!
+
+##### Общее продолжение
 
 **Драфф:** Помоги мне рекламировать наши мясные продукты!
 
@@ -223,11 +277,19 @@
 
 **Сян Лин:** Я не готова загонять своё творчество в рамки определённого списка продуктов. Так ничего дельного не приготовишь, поверь мне!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Атмосфера накаляется...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Знаменитые шеф-повара обычно очень вспыльчивы.
 
+##### Общее продолжение
+
 **Драфф:** Эх... Раз ты так смотришь на вещи, то нам не по пути. Жаль...
+
+#### Следуйте за Сян Лин
 
 #### Поговорите с Сян Лин рядом с источником аромата
 
@@ -237,7 +299,7 @@
 
 **Паймон:** Ого! Должно быть, это нереально вкусно!
 
-Странно. Мне казалось, что известные повара не стоят в очередях...
+- **Путешественник:** Странно. Мне казалось, что известные повара не стоят в очередях...
 
 **Паймон:** Зачем Драффу нужна помощь Сян Лин, когда в Спрингвейле уже есть свой повар-суперзвезда?
 
@@ -273,9 +335,15 @@
 
 **Паймон:** Воу-воу-воу! Полегче!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Они даже не слышат друг друга.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Битва кулинарных титанов.
+
+##### Общее продолжение
 
 **Сян Лин:** Хм. Есть только один способ выяснить, кто из нас прав!
 
@@ -301,6 +369,8 @@
 
 К вашему удивлению, Драфф не собирался наказывать Сян Лин. Напротив охотник хотел, чтобы Сян Лин рекламировала мясо из Спрингвейла. Принципиальная Сян Лин отказалась готовить в рекламных целях. Она уже собралась навсегда покинуть Спрингвейл, но её привлёк запах, исходящий из котла Брук.
 
+#### Перехватите Сян Лин на пути в Ли Юэ
+
 #### Поговорите с Сян Лин
 
 **Сян Лин:** Мы уже близко!
@@ -321,21 +391,41 @@
 
 **Сян Лин:** Осмотрись кругом. Дай мне знать, если найдёшь что-то интересное.
 
+#### Продолжите поиск подходящих ингредиентов
+
+#### Соберите три чашечки лотоса
+
+#### Продолжайте искать подходящие ингредиенты
+
+#### Соберите три заоблачных перчика
+
 #### Поговорите с Сян Лин
 
 **Сян Лин:** Всё равно чего-то не хватает...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Чего именно нам не хватает?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Хочешь сказать, что этого недостаточно?
+
+##### Общее продолжение
 
 **Сян Лин:** Не хватает... Шака-лакa!
 
 **Паймон:** Точно! Не хватает немного шака-лака бум-бум!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Шака-лака?!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Паймон, ты поняла о чём речь?
+
+##### Общее продолжение
 
 **Паймон:** Да-да-да!
 
@@ -351,13 +441,19 @@
 
 **Сян Лин:** Надо будет угостить тебя слизнегрибом.
 
-- **Путешественник:** Жду не дождусь.
+##### Вариант ответа 1
 
-- **Путешественник:** Спасибо, но не стоит.
+- **Путешественник:** Жду не дождусь.
 
 **Сян Лин:** Ты не пожалеешь! Хотя в первый раз этот вкус может показаться слегка странным.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Спасибо, но не стоит.
+
 **Сян Лин:** Почему? Это же такая вкуснятина!
+
+##### Общее продолжение
 
 **Сян Лин:** Ладно, забудь. Давай проверим ещё одно место.
 
@@ -366,6 +462,8 @@
 ### Приятный сюрприз
 
 Сян Лин думает, что для победы ей не будет достаточно чашечек и острого перца. Она хочет найти ингредиенты поинтереснее.
+
+#### Отправляйтесь в место, указанное Сян Лин
 
 #### Поговорите с Сян Лин и дрожащим человеком
 
@@ -381,9 +479,17 @@
 
 **Сян Лин:** Помню, как по пути сюда мы наткнулись на лагерь хиличурлов. Наверняка ты найдёшь там котёл.
 
-Конечно.
+- **Путешественник:** Конечно.
 
 **Сян Лин:** Отлично. Возвращайся скорее!
+
+#### Приготовьте вкусный овощной суп
+
+**Сян Лин:** По пути сюда мы наткнулись на лагерь хиличурлов. Наверняка ты найдёшь там котёл.
+
+**Сян Лин:** Путешественник, я присмотрю за ним, а ты приготовь вкусный суп, хорошо?
+
+**Олаф:** Как же... Холодно...
 
 #### Отдайте суп охотнику
 
@@ -391,7 +497,7 @@
 
 **Олаф:** Спасибо тебе! Этот суп буквально спас меня.
 
-Что произошло?
+- **Путешественник:** Что произошло?
 
 **Олаф:** Я преследовал дикого кабана, и он завёл меня к этим подземным руинам.
 
@@ -407,9 +513,15 @@
 
 **Сян Лин:** Очень вкусный!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Э... Что?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты когда-нибудь думаешь о чём-нибудь кроме еды?
+
+##### Общее продолжение
 
 **Сян Лин:** Это тот самый ингредиент, которого не хватает! Вишенка на торте!
 
@@ -419,9 +531,15 @@
 
 **Паймон:** Эх... Опять она за своё.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Нам нужно идти.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Возвращайся в Спрингвейл.
+
+##### Общее продолжение
 
 **Олаф:** Обо мне не беспокойтесь, я справлюсь. Позаботьтесь лучше о ней!
 
@@ -429,19 +547,29 @@
 
 Сян Лин заинтересовал слух о гигантском Крио папоротнике. Она немедленно отправилась на поиски. Вы решили помочь безудержному шеф-повару.
 
+#### Встретьтесь с Сян Лин в руинах
+
+#### Найдите редкий ингредиент в руинах
+
 #### Поговорите с Сян Лин
 
 **Сян Лин:** Крио папоротник принесли домой, и его мы, милого, съели всей толпой!
 
 **Паймон:** Крио папоротник!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты идёшь у неё на поводу!
+
+**Сян Лин:** Ты чего такой серьёзный? Разве может быть что-то веселее, чем поиск ингредиентов? / Ты чего такая серьёзная? Разве может быть что-то веселее, чем поиск ингредиентов?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Крио папоротник!
 
-**Сян Лин:** Ты чего так(ая)(ой) серьёзн(ая)(ый)? Разве может быть что-то веселее, чем поиск ингредиентов?
-
 **Сян Лин:** Ха-ха-ха! Ты так странно поёшь...
+
+##### Общее продолжение
 
 **Сян Лин:** Погоди! Тут есть что-то ещё!
 
@@ -455,19 +583,25 @@
 
 **Паймон:** Ого! Этот кабан так хорошо сохранился.
 
-- **Путешественник:** Случайная заморозка?
+##### Вариант ответа 1
 
-- **Путешественник:** Может быть, он долгожитель?
+- **Путешественник:** Случайная заморозка?
 
 **Паймон:** Может быть...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Может быть, он долгожитель?
+
 **Паймон:** Оченьдолгожитель...
+
+##### Общее продолжение
 
 **Сян Лин:** Охота за ценным мясом этих кабанов привела к вымиранию целого вида.
 
 **Сян Лин:** Крио папоротник и кабан. Не одно, а два редчайших сокровища!
 
-Считай, что победа у нас в кармане!
+- **Путешественник:** Считай, что победа у нас в кармане!
 
 **Сян Лин:** Ладно! Пора возвращаться в Спрингвейл.
 
@@ -485,29 +619,47 @@
 
 **Драфф:** Очень странные дела...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Неужели это...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Кажется, я знаю в чём дело.
 
+##### Общее продолжение
+
 **Паймон:** В чём?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Охотнику тоже больше трёхсот лет.
 
-- **Путешественник:** Он говорит об очень старом Спрингвейле.
-
 **Паймон:** Что?! Люди так долго не живут!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Он говорит об очень старом Спрингвейле.
 
 **Паймон:** Насколько старом? На несколько веков?
 
+##### Общее продолжение
+
 **Сян Лин:** Это... Что это значит?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Он был заморожен вместе с кабаном.
 
-- **Путешественник:** Холод помогает продуктам оставаться свежими.
-
 **Сян Лин:** Он выглядит очень свежо. Совсем как охлаждённые продукты.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Холод помогает продуктам оставаться свежими.
+
 **Сян Лин:** Вот сейчас я тебя понимаю!
+
+##### Общее продолжение
 
 **Драфф:** Но в это всё равно трудно поверить...
 
@@ -523,7 +675,7 @@
 
 **Сян Лин:** Получается, это твой прапрапрапрадедушка. Только ещё больше «пра».
 
-Ну не настолько «пра», конечно...
+- **Путешественник:** Ну не настолько «пра», конечно...
 
 **Паймон:** Вот это поворот!
 
@@ -553,9 +705,15 @@
 
 **Паймон:** Я на такое не подписывалась...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты можешь рассчитывать на мою помощь.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Видимо, у нас не остаётся другого выбора...
+
+##### Общее продолжение
 
 **Паймон:** Отлично. Ради вкусной еды я готова постараться.
 
@@ -569,6 +727,12 @@
 
 **Сян Лин:** Принеси мне редис, пожалуйста! И не забудь его помыть!
 
+#### Найдите редис
+
+**Сян Лин:** Принеси мне немного редиса. И не забудь помыть его в реке!
+
+#### Отправляйтесь к озеру и помойте редис
+
 #### Отдайте помытый редис Сян Лин
 
 **Сян Лин:** Ммм! Сочно! Выглядит идеально. Спасибо, ребятки!
@@ -581,19 +745,11 @@
 
 **Сян Лин:** Путешественник, помоги мне! Потуши огонь, иначе блюдо пропало!
 
+#### Поддерживайте правильную температуру трёх готовящихся блюд
+
+**Сян Лин:** Контролируй огонь, или наше блюдо превратится в уголёк!
+
 #### Продолжайте помогать Сян Лин
-
-**Сян Лин:** Эх... Всё сгорело. Придётся начинать сначала.
-
-**Сян Лин:** Нашему главному блюду чего-то не хватает... Нужно его немного оживить!
-
-**Сян Лин:** Приготовь куриный шашлычок с грибами! Только такой, чтобы он был прямо «о-ля-ля»! Максимальный «ка-чинг»!
-
-- **Путешественник:** Я не понимаю...
-
-- **Путешественник:** Паймон, переведи!
-
-**Паймон:** Приготовь идеальный куриный шашлычок с грибами!
 
 **Сян Лин:** Фух... Спасибо! Я уже думала, что всё пропало. Но, кажется, пронесло...
 
@@ -601,11 +757,29 @@
 
 **Сян Лин:** Приготовь куриный шашлычок с грибами! Только такой, чтобы он был прямо «о-ля-ля»! Максимальный «ка-чинг»!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я не понимаю...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Паймон, переведи!
 
+##### Общее продолжение
+
 **Паймон:** Приготовь идеальный куриный шашлычок с грибами!
+
+**Сян Лин:** Эх... Всё сгорело. Придётся начинать сначала.
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+#### Приготовьте вкусный куриный шашлычок с грибами
+
+**Сян Лин:** ♪О-ля-ля! О-ля-ля! Ка-чинг!♪
 
 #### Отдайте Сян Лин вкусный куриный шашлычок с грибами
 
@@ -619,9 +793,15 @@
 
 **Паймон:** Точно! Не хватает «шака-лака бум-бум»!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Как ты её понимаешь?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Вы говорите на каком-то неведомом диалекте Ли Юэ?
+
+##### Общее продолжение
 
 **Сян Лин:** Подавать этот стейк в таком виде было бы пустой тратой продуктов.
 
@@ -643,7 +823,11 @@
 
 **Сян Лин:** Спасибо, ребятки! А теперь покажите, что вы принесли.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Передать ингредиенты Сян Лин.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Я продолжу поиски.
 
@@ -665,17 +849,35 @@
 
 **Сян Лин:** Если мне ещё понадобится помощь, я непременно к вам обращусь.
 
+**Олаф:** Я и не думал, что готовка может быть такой сложной... Оказывается, пожарить кабана не так-то и просто!
+
+**Зигфрия:** Пахнет божественно! Возьму кусочек... Маленький...
+
+**Зигфрия:** Нет! Нельзя! Мы здесь соревнуемся! Думай о победе!
+
+**Брук:** В чём дело? Шпионишь?
+
+**Брук:** Хе-хе, у меня такие роскошные продукты. У тебя нет шансов!
+
+**Драфф:** Смесь вкусов Мондштадта и Ли Юэ! Как же это интересно!
+
 #### Узнайте у Сян Лин, нужна ли её помощь
 
 **Сян Лин:** Ах, да! Гарнир! Чуть не забыла...
 
-- **Путешественник:** Я займусь гарниром.
+##### Вариант ответа 1
 
-- **Путешественник:** Ты заставляешь нас этим заниматься...
+- **Путешественник:** Я займусь гарниром.
 
 **Сян Лин:** Эй! Всё в порядке?
 
+##### Вариант ответа 2
+
+- **Путешественник:** Ты заставляешь нас этим заниматься...
+
 **Сян Лин:** Спасибо! Вы меня отлично понимаете.
+
+##### Общее продолжение
 
 **Сян Лин:** Вот, возьми это. Я нацарапала тут пару строк.
 
@@ -689,23 +891,25 @@
 
 **Сян Лин:** Главное готовить с душой! Так меня учил папа.
 
-**Сян Лин:** Ты ведь любишь готовить! Иначе ты бы не возил(ась)(ся) здесь со мной.
+**Сян Лин:** Ты ведь любишь готовить! Иначе ты бы не возился здесь со мной. / Ты ведь любишь готовить! Иначе ты бы не возилась здесь со мной.
 
 **Сян Лин:** Я верю в вас, ребятки! У вас всё получится.
 
-- **Путешественник:** Я этим займусь.
+##### Вариант ответа 1
 
-- **Путешественник:** Надеюсь, мы не сильно испортим твоё блюдо.
+- **Путешественник:** Я этим займусь.
 
 **Сян Лин:** Мне нравится твой настрой.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Надеюсь, мы не сильно испортим твоё блюдо.
+
 **Сян Лин:** Думай позитивно! Кулинария - это в первую очередь про удовольствие, так что расслабься и получай удовольствие.
 
+##### Общее продолжение
+
 **Сян Лин:** Давай! Остался последний рывок!
-
-#### Ветчина
-
-**Драфф:** Смесь вкусов Мондштадта и Ли Юэ! Как же это интересно!
 
 #### Приготовьте вкусные «Нефритовые мешочки»
 
@@ -755,7 +959,7 @@
 
 **Сян Лин:** Твоё блюдо тоже невероятное. Отличная слоёная текстура...
 
-**Сян Лин:** Если бы Путешественник не помог(ла) мне, то победа была бы за тобой!
+**Сян Лин:** Если бы Путешественник не помог мне, то победа была бы за тобой! / Если бы Путешественник не помогла мне, то победа была бы за тобой!
 
 **Паймон:** Моя очередь пробовать!
 
@@ -765,7 +969,7 @@
 
 **Олаф:** Это вкус Спрингвейла! То есть это был самый настоящий вкус Спрингвейла...
 
-Так вкусно, что слёзы на глазах наворачиваются.
+- **Путешественник:** Так вкусно, что слёзы на глазах наворачиваются.
 
 **Олаф:** Это последний раз, когда я смогу попробовать еду из своей эпохи... *Плачет*
 
@@ -787,7 +991,7 @@
 
 **Паймон:** Кажется, я объелась...
 
-Куда ты отправишься теперь?
+- **Путешественник:** Куда ты отправишься теперь?
 
 **Сян Лин:** Ещё не знаю. Пойду обратно в сторону Ли Юэ, но, может, по пути я передумаю.
 
@@ -803,15 +1007,21 @@
 
 **Сян Лин:** Если захочешь, то я поделюсь с тобой своими последними рецептами.
 
-- **Путешественник:** Договорились.
+##### Вариант ответа 1
 
-- **Путешественник:** Только давай обойдёмся без слаймового желе.
+- **Путешественник:** Договорились.
 
 **Сян Лин:** Договорились!
 
-**Сян Лин:** Оу... Как ты догадал(ась)(ся)?
+##### Вариант ответа 2
 
-**Сян Лин:** Увидимся в Ли Юэ, дорог(ая)(ой) Путешественник!
+- **Путешественник:** Только давай обойдёмся без слаймового желе.
+
+**Сян Лин:** Оу... Как ты догадался? / Оу... Как ты догадалась?
+
+##### Общее продолжение
+
+**Сян Лин:** Увидимся в Ли Юэ, дорогой Путешественник! / Увидимся в Ли Юэ, дорогая Путешественник!
 
 ## EN
 
@@ -819,21 +1029,29 @@
 
 On a clear and sunny day, you go for a walk to Springvale with Paimon.
 
+#### Meet the girl in the forest
+
 #### Talk to Xiangling
 
-**Xiangling:** Shh! Keep it down, I'm hunting...
+**???:** Shh! Keep it down, I'm hunting...
 
-**Xiangling:** I've always heard about the wide range of ingredients you can find in Mondstadt, and it looks like it's true!
+**???:** I've always heard about the wide range of ingredients you can find in Mondstadt, and it looks like it's true!
+
+##### Response branch 1
 
 - **Traveler:** Are you a hunter?
 
+##### Response branch 2
+
 - **Traveler:** Are you an adventurer?
 
-**Xiangling:** No — I'm a chef! A chef on a mission to find rare and exotic ingredients from all corners of the world!
+##### Shared continuation
+
+**???:** No — I'm a chef! A chef on a mission to find rare and exotic ingredients from all corners of the world!
 
 **Xiangling:** My name's Xiangling, I'm from Liyue Harbor. And you?
 
-I'm Traveler.
+- **Traveler:** I'm Traveler.
 
 **Paimon:** Hello, my name's Paimon!
 
@@ -843,13 +1061,19 @@ I'm Traveler.
 
 **Xiangling:** What an exotic creature, is it edible?
 
-- **Traveler:** We're friends.
+##### Response branch 1
 
-- **Traveler:** Dig in.
+- **Traveler:** We're friends.
 
 **Xiangling:** What a bummer. Can't eat it if it's your friend.
 
+##### Response branch 2
+
+- **Traveler:** Dig in.
+
 **Paimon:** No! For the last time, Paimon is NOT EMERGENCY FOOD!
+
+##### Shared continuation
 
 **Xiangling:** You seem like good friends. I have a good friend too, called Guoba.
 
@@ -869,9 +1093,15 @@ I'm Traveler.
 
 **Paimon:** Ooh, you had me at tasty snack! Don't worry, we're the bestest hunters ever!
 
+##### Response branch 1
+
 - **Traveler:** Whose side are you on!?
 
+##### Response branch 2
+
 - **Traveler:** You could always ask me first...
+
+##### Shared continuation
 
 **Xiangling:** Hee-hee, don't worry about it, your friend has already given me a response.
 
@@ -889,13 +1119,19 @@ I'm Traveler.
 
 **Xiangling:** Wowee! This is great! Some of it I'll shallow fry, some of it I'll deep fry with mushrooms— ooh, and I wonder how well it goes with Slime Condensate...
 
-- **Traveler:** She's off in her own world...
+##### Response branch 1
 
-- **Traveler:** I want to try Slime Condensate!
+- **Traveler:** She's off in her own world...
 
 **Paimon:** Paimon thinks she's forgotten about us...
 
+##### Response branch 2
+
+- **Traveler:** I want to try Slime Condensate!
+
 **Paimon:** Yay! Traveler has finally come around to my food preferences.
+
+##### Shared continuation
 
 **Xiangling:** Uh, sorry! I got all excited thinking about new recipes.
 
@@ -919,9 +1155,15 @@ I'm Traveler.
 
 **Xiangling:** Sweet flowers will do for sugar. As for salt, I found a load of rock salt in a cave the other day, there's still plenty left.
 
+##### Response branch 1
+
 - **Traveler:** Seems like she's done this a million times before...
 
+##### Response branch 2
+
 - **Traveler:** I'm tired just listening to it!
+
+##### Shared continuation
 
 **Xiangling:** Hee-hee, I just can't help myself when there's a chance to try something new. But I can't exactly bring my whole kitchen with me every time I leave the house either.
 
@@ -939,9 +1181,15 @@ I'm Traveler.
 
 **Xiangling:** ...It would be a major blow to gastronomy— no, to all mankind!
 
+##### Response branch 1
+
 - **Traveler:** That's, uh, one way of understanding it.
 
+##### Response branch 2
+
 - **Traveler:** That's not even close to what he meant...
+
+##### Shared continuation
 
 **Xiangling:** I'm sorry. I got excited and didn't think of the impact we'd have.
 
@@ -949,13 +1197,19 @@ I'm Traveler.
 
 **Allan:** As our leader, he always stresses the importance of respecting the rules of the hunt. I'm afraid he is very upset right now.
 
+##### Response branch 1
+
 - **Traveler:** What are we going to do?
+
+##### Response branch 2
 
 - **Traveler:** I think the hunter is right.
 
+##### Shared continuation
+
 **Xiangling:** I made a mistake, and I should go and apologize.
 
-Let us come with you.
+- **Traveler:** Let us come with you.
 
 **Xiangling:** Hee-hee, thanks guys. I'll cook up some more tasty snacks for you once this is over.
 
@@ -967,6 +1221,8 @@ Let us come with you.
 
 While out on a stroll, you bumped into a strange girl. This girl, a chef from Liyue by the name of Xiangling, is on a journey to seek out exotic ingredients. She enlists your help in a hunt, but your private hunting expedition appears to have earned the ire of Draff, the leader of the hunters. You head off to apologize to him...
 
+#### Go with Xiangling to Springvale
+
 #### Apologize to Draff
 
 **Draff:** You must be Xiangling.
@@ -977,9 +1233,15 @@ While out on a stroll, you bumped into a strange girl. This girl, a chef from Li
 
 **Paimon:** Ooh, he's gonna let her have it!
 
+##### Response branch 1
+
 - **Traveler:** Violence is not the answer!
 
+##### Response branch 2
+
 - **Traveler:** If you're looking for a fight, bring it on!
+
+##### Shared continuation
 
 **Draff:** ...Please help me promote my meat!
 
@@ -1015,11 +1277,19 @@ While out on a stroll, you bumped into a strange girl. This girl, a chef from Li
 
 **Xiangling:** I will not stand for having my creativity shackled by what ingredients I can and can't use! Food cooked like that is destined to be boring, period!
 
+##### Response branch 1
+
 - **Traveler:** That escalated quickly...
+
+##### Response branch 2
 
 - **Traveler:** Celebrity chefs are known to be somewhat strong-minded...
 
+##### Shared continuation
+
 **Draff:** *sigh* Well, since you feel so strongly about it, forget it. But it really is a pity...
+
+#### Catch up to Xiangling
 
 #### Talk to Xiangling at the source of the aroma
 
@@ -1029,7 +1299,7 @@ While out on a stroll, you bumped into a strange girl. This girl, a chef from Li
 
 **Paimon:** Wow, it must be delicious if it's that popular.
 
-Odd... This woman is clearly a very popular chef...
+- **Traveler:** Odd... This woman is clearly a very popular chef...
 
 **Paimon:** Yeah, good point. Why does Draff want Xiangling to help when Springvale already has this lady?
 
@@ -1065,9 +1335,15 @@ Odd... This woman is clearly a very popular chef...
 
 **Paimon:** Whoa whoa whoa, stop arguing!
 
+##### Response branch 1
+
 - **Traveler:** I don't think they can hear anyone but themselves...
 
+##### Response branch 2
+
 - **Traveler:** I guess this is a sort of culinary clash of the titans.
+
+##### Shared continuation
 
 **Xiangling:** Hmph. Well, there's only one sure-fire way out of a cooking dispute...
 
@@ -1093,6 +1369,8 @@ Odd... This woman is clearly a very popular chef...
 
 To your surprise, Draff did not intend to reprimand Xiangling, but instead wanted her to help promote Springvale's meat products instead. Sticking to her principles, Xiangling refused to cook for advertising, and would have left if she was not attracted to the smell of Brook's cooking. What began as a chat devolved into disagreement about how to prepare food, and ended in the declaration of a cook-off between the head chef of Springvale and the chef from Liyue.
 
+#### Intercept Xiangling on her way to Liyue
+
 #### Talk to Xiangling
 
 **Xiangling:** I think we're getting close...
@@ -1113,21 +1391,41 @@ To your surprise, Draff did not intend to reprimand Xiangling, but instead wante
 
 **Xiangling:** Let's look around here, I'll let you know when I find something I like.
 
+#### Continue looking for the right ingredients
+
+#### Collect three Lotus Heads
+
+#### Continue looking for the right ingredients
+
+#### Collect three Jueyun Chilis
+
 #### Talk to Xiangling
 
 **Xiangling:** I still feel like we're lacking something...
 
+##### Response branch 1
+
 - **Traveler:** What do you mean?
 
+##### Response branch 2
+
 - **Traveler:** Do you mean it's not impressive enough?
+
+##### Shared continuation
 
 **Xiangling:** It's missing a little boom shaka-laka!
 
 **Paimon:** Yeah, now that you mention it, it is a little boom shaka-laka-lacking.
 
+##### Response branch 1
+
 - **Traveler:** A shaka-laka-loada what now?
 
+##### Response branch 2
+
 - **Traveler:** Paimon, you understand this?
+
+##### Shared continuation
 
 **Paimon:** Hehehe...
 
@@ -1143,13 +1441,19 @@ To your surprise, Draff did not intend to reprimand Xiangling, but instead wante
 
 **Xiangling:** I'll make some for you next time!
 
-- **Traveler:** Can't wait to try it.
+##### Response branch 1
 
-- **Traveler:** Eh... No need.
+- **Traveler:** Can't wait to try it.
 
 **Xiangling:** Hee-hee, you won't be disappointed when you taste it, although it looks a teensy bit gross.
 
+##### Response branch 2
+
+- **Traveler:** Eh... No need.
+
 **Xiangling:** I don't get it, what's not to love...?
+
+##### Shared continuation
 
 **Xiangling:** Never mind that, I've just remembered there's somewhere I never checked out last time.
 
@@ -1158,6 +1462,8 @@ To your surprise, Draff did not intend to reprimand Xiangling, but instead wante
 ### Lucky Find
 
 Xiangling believes that Lotus Heads and Jueyun Chilis alone will not let her prevail in the cook-off, and sets off to find more ingredients.
+
+#### Go to the place Xiangling mentioned
 
 #### Talk to Xiangling and the shivering man
 
@@ -1173,9 +1479,17 @@ Xiangling believes that Lotus Heads and Jueyun Chilis alone will not let her pre
 
 **Xiangling:** We passed a hilichurl camp on the way here. There'll almost certainly be a campfire there to cook on.
 
-Sure.
+- **Traveler:** Sure.
 
 **Xiangling:** Great. Be as quick as you can!
+
+#### Make a Delicious Radish Veggie Soup
+
+**Xiangling:** We passed a hilichurl camp on the way here. There'll almost certainly be a campfire there to cook on.
+
+**Xiangling:** I'll stay here and look after him while you go and make him a nice warm bowl of soup.
+
+**Olaf:** So cold... S—so c—cold in there...
 
 #### Give the hunter the soup you prepared
 
@@ -1183,7 +1497,7 @@ Sure.
 
 **Olaf:** Thank you. That soup really did the trick.
 
-What happened, did you get frozen?
+- **Traveler:** What happened, did you get frozen?
 
 **Olaf:** Yes. I was chasing a boar, and after chasing him all this way he slipped into those underground ruins over there.
 
@@ -1199,9 +1513,15 @@ What happened, did you get frozen?
 
 **Xiangling:** It sounds delicious!
 
+##### Response branch 1
+
 - **Traveler:** ...Seriously?
 
+##### Response branch 2
+
 - **Traveler:** Does anything NOT make you think about food?
+
+##### Shared continuation
 
 **Xiangling:** That's it! The missing ingredient! The icing on the cake!
 
@@ -1211,9 +1531,15 @@ What happened, did you get frozen?
 
 **Paimon:** *sigh* Off she goes again...
 
+##### Response branch 1
+
 - **Traveler:** We need to go.
 
+##### Response branch 2
+
 - **Traveler:** You should get back to Springvale.
+
+##### Shared continuation
 
 **Olaf:** Do not worry about me, I'll be fine. But you must stop her, she is putting herself in grave danger.
 
@@ -1221,19 +1547,29 @@ What happened, did you get frozen?
 
 Xiangling took a keen interest in the rumor that the ruins contain a gigantic Cryo Regisvine, and ran inside to investigate. Worried about her safety, you quickly follow the impetuous chef.
 
+#### Catch up to Xiangling in the ruins
+
+#### Go into the depths of the ruins in search of ingredients
+
 #### Talk to Xiangling
 
 **Xiangling:** ♪ Got myself a Cryo Regisvine, cook it up for dinner time... ♪
 
 **Paimon:** ♪ Even better if it's paired with a bit of swine... ♪
 
-- **Traveler:** Stop encouraging her!
+##### Response branch 1
 
-- **Traveler:** ♪ Wash 'em down with a glass of wine... ♪
+- **Traveler:** Stop encouraging her!
 
 **Xiangling:** Lighten up a little! What in the world could bring more joy than finding rare ingredients?
 
+##### Response branch 2
+
+- **Traveler:** ♪ Wash 'em down with a glass of wine... ♪
+
 **Xiangling:** Hee-hee... Your version just ruins it.
+
+##### Shared continuation
 
 **Xiangling:** Wait, there's something else here too!
 
@@ -1247,19 +1583,25 @@ Xiangling took a keen interest in the rumor that the ruins contain a gigantic Cr
 
 **Paimon:** Wow! How is this one still alive after so long!?
 
-- **Traveler:** Accidental cryopreservation?
+##### Response branch 1
 
-- **Traveler:** Won the genetic lottery?
+- **Traveler:** Accidental cryopreservation?
 
 **Paimon:** Could be...
 
+##### Response branch 2
+
+- **Traveler:** Won the genetic lottery?
+
 **Paimon:** Paimon's pretty sure that's not really possible...
+
+##### Shared continuation
 
 **Xiangling:** I read that this boar was hunted to extinction because its meat was so highly prized.
 
 **Xiangling:** Cryo Regisvine and extinct boar. Not one, but two priceless treasures!
 
-This'll be our winning ticket.
+- **Traveler:** This'll be our winning ticket.
 
 **Xiangling:** Right. Now let's get back to Springvale!
 
@@ -1277,29 +1619,47 @@ After obtaining the rare ingredients, Xiangling is finally ready for the cook-of
 
 **Draff:** This is strange, what is going on?
 
+##### Response branch 1
+
 - **Traveler:** Surely, it couldn't be...
+
+##### Response branch 2
 
 - **Traveler:** I think I see what's going on here.
 
+##### Shared continuation
+
 **Paimon:** What is it?
+
+##### Response branch 1
 
 - **Traveler:** This hunter is also a survivor from 300 years ago.
 
-- **Traveler:** He's talking about Springvale a long, long time in the past.
-
 **Paimon:** Whaaaat!? Can humans really live that long?
+
+##### Response branch 2
+
+- **Traveler:** He's talking about Springvale a long, long time in the past.
 
 **Paimon:** How long? ...Surely not hundreds of years!?
 
+##### Shared continuation
+
 **Xiangling:** Er... Does that really make sense?
+
+##### Response branch 1
 
 - **Traveler:** He and the boar were both frozen.
 
-- **Traveler:** The ice kept him fresh all this time, like with your ingredients.
-
 **Xiangling:** Oh! Like the way that you keep food fresh!
 
+##### Response branch 2
+
+- **Traveler:** The ice kept him fresh all this time, like with your ingredients.
+
 **Xiangling:** Hee-hee, it all makes sense now that you're speaking my language!
+
+##### Shared continuation
 
 **Draff:** Still, it's hard to believe...
 
@@ -1315,7 +1675,7 @@ After obtaining the rare ingredients, Xiangling is finally ready for the cook-of
 
 **Xiangling:** So, a great-great-great-great grandfather, but with a whole load more greats?
 
-They don't look so distantly related.
+- **Traveler:** They don't look so distantly related.
 
 **Paimon:** What an unusual turn of events!
 
@@ -1345,9 +1705,15 @@ They don't look so distantly related.
 
 **Paimon:** *sigh* Paimon doesn't remember applying for that job...
 
+##### Response branch 1
+
 - **Traveler:** Well, I'm going to see this through.
 
+##### Response branch 2
+
 - **Traveler:** Ugh, I guess there's no backing out now...
+
+##### Shared continuation
 
 **Paimon:** Okay. Paimon'll do it for the sake of the food.
 
@@ -1361,6 +1727,12 @@ They don't look so distantly related.
 
 **Xiangling:** Go find me a radish — there should be some in the area. Oh, and make sure you wash it because it's going straight into the dish!
 
+#### Find some Radishes
+
+**Xiangling:** Go fetch me some radishes. And don't forget to wash them in the lake!
+
+#### Go to the lakeside and wash the Radish
+
 #### Give the washed Radish to Xiangling
 
 **Xiangling:** Wowee! Big and luscious. It's perfect. Thanks, you guys!
@@ -1373,19 +1745,11 @@ They don't look so distantly related.
 
 **Xiangling:** Traveler, get the fire under control! Without using water though, or this dish is a goner!
 
+#### Extinguish the pan fires
+
+**Xiangling:** Bring the fire down! It's gonna burn to a crisp!
+
 #### Continue to help Xiangling
-
-**Xiangling:** Ugh, this is practically charcoal now... Wah, I'm gonna have to start from scratch.
-
-**Xiangling:** Also, I'm thinking our main is a little weak... We need to mix it up a bit.
-
-**Xiangling:** Make me a Chicken-Mushroom Skewer. And make sure it's got that ooh la-la on the outside, then hits you with a cha-ching in the middle!
-
-- **Traveler:** Did not understand that one bit.
-
-- **Traveler:** Paimon, translate for me!
-
-**Paimon:** Just make it taste friggin' awesome!
 
 **Xiangling:** Whew, thanks! That was a close call, but I had a little taste and I think we can get away with it.
 
@@ -1393,11 +1757,29 @@ They don't look so distantly related.
 
 **Xiangling:** Make me a Chicken-Mushroom Skewer. And make sure it's got that ooh la-la on the outside, then hits you with a cha-ching in the middle!
 
+##### Response branch 1
+
 - **Traveler:** Did not understand that one bit.
+
+##### Response branch 2
 
 - **Traveler:** Paimon, translate for me!
 
+##### Shared continuation
+
 **Paimon:** Just make it taste friggin' awesome!
+
+**Xiangling:** Ugh, this is practically charcoal now... Wah, I'm gonna have to start from scratch.
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+#### Cook a Delicious Chicken-Mushroom Skewer
+
+**Xiangling:** ♪ Ooh la-la-la, cha-ching cha-ching. Ooh la-la-la, cha-ching cha-ching ♪
 
 #### Give the Delicious Chicken-Mushroom Skewer to Xiangling
 
@@ -1411,9 +1793,15 @@ They don't look so distantly related.
 
 **Paimon:** Yes! Definitely needs some boom shaka-laka — or perhaps a little shaka-laka boom-pow!
 
+##### Response branch 1
+
 - **Traveler:** Again, how is this making sense to you!?
 
+##### Response branch 2
+
 - **Traveler:** Is that really from an obscure Liyue dialect or did you just make it up?
+
+##### Shared continuation
 
 **Xiangling:** I just mean it would be a waste of such amazing ingredients to just serve this as-is.
 
@@ -1435,7 +1823,11 @@ They don't look so distantly related.
 
 **Xiangling:** Thanks, you guys! Now show me what you got!
 
+##### Response branch 1
+
 - **Traveler:** Give cooking ingredients to Xiangling
+
+##### Response branch 2
 
 - **Traveler:** Let me keep looking...
 
@@ -1457,17 +1849,35 @@ They don't look so distantly related.
 
 **Xiangling:** But I'll be sure to annoy you again if I need anything else, hee-hee!
 
+**Olaf:** I never knew cooking could be so complicated... The roast boar I am used to is quite basic by comparison!
+
+**Siegfria:** Smells divine! ...One little bite can't hurt, surely?
+
+**Siegfria:** No, I mustn't... I'm here to help... eyes on the prize, eyes on the prize...
+
+**Brook:** What's this? Culinary espionage?
+
+**Brook:** Haha, well you don't stand a chance, anyway. I have the winning ingredients right here.
+
+**Draff:** Fusion cuisine that blends elements of Mondstadt and Liyue cooking... I am excited.
+
 #### Ask Xiangling if she needs any more help
 
 **Xiangling:** I almost forgot — side dish! We need a side dish!
 
-- **Traveler:** Allow me!
+##### Response branch 1
 
-- **Traveler:** You'd make me do it even if I didn't offer...
+- **Traveler:** Allow me!
 
 **Xiangling:** Are you sure it's no trouble?
 
+##### Response branch 2
+
+- **Traveler:** You'd make me do it even if I didn't offer...
+
 **Xiangling:** Thanks! Hee-hee, you know me too well.
+
+##### Shared continuation
 
 **Xiangling:** Here, take this. I just scrawled it down at the last minute.
 
@@ -1485,19 +1895,21 @@ They don't look so distantly related.
 
 **Xiangling:** I trust you guys. I know you'll nail this side dish!
 
-- **Traveler:** Leave it to me.
+##### Response branch 1
 
-- **Traveler:** I hope I don't cramp your style...
+- **Traveler:** Leave it to me.
 
 **Xiangling:** Confident, I like it!
 
+##### Response branch 2
+
+- **Traveler:** I hope I don't cramp your style...
+
 **Xiangling:** Don't be so negative. Cooking is fun! Just relax and enjoy it.
 
+##### Shared continuation
+
 **Xiangling:** Come on, this is the final push!
-
-#### Ham
-
-**Draff:** Fusion cuisine that blends elements of Mondstadt and Liyue cooking... I am excited.
 
 #### Make Delicious Jade Parcels
 
@@ -1557,7 +1969,7 @@ They don't look so distantly related.
 
 **Olaf:** This is the taste of Springvale! ...Or rather... it used to be.
 
-It tastes so good I want to weep tears of joy.
+- **Traveler:** It tastes so good I want to weep tears of joy.
 
 **Olaf:** *sob* This is the last time I will be able to taste the food of my era...
 
@@ -1579,7 +1991,7 @@ It tastes so good I want to weep tears of joy.
 
 **Paimon:** Also wouldn't have gotten so full...
 
-Where will you go now?
+- **Traveler:** Where will you go now?
 
 **Xiangling:** Not sure. I'll probably start heading back to Liyue, but I might change my plan on the way.
 
@@ -1595,13 +2007,19 @@ Where will you go now?
 
 **Xiangling:** And if you want, I'll teach you how to cook some of my latest inventions too.
 
-- **Traveler:** It's a deal!
+##### Response branch 1
 
-- **Traveler:** I'll pass on the slime jus though...
+- **Traveler:** It's a deal!
 
 **Xiangling:** You have a deal!
 
+##### Response branch 2
+
+- **Traveler:** I'll pass on the slime jus though...
+
 **Xiangling:** How did you know what dish I was thinking of!?
+
+##### Shared continuation
 
 **Xiangling:** Hee-hee, see you again soon, Traveler!
 
@@ -1611,21 +2029,29 @@ Where will you go now?
 
 在一个风清日朗的日子，你和派蒙散步到了清泉镇附近…
 
+#### 接近林中的少女
+
 #### 与香菱交谈
 
-**香菱:** 小声点，我正在打猎呢。
+**？？？:** 小声点，我正在打猎呢。
 
-**香菱:** 早就听说蒙德有很多好食材，现在一看果然名不虚传！
+**？？？:** 早就听说蒙德有很多好食材，现在一看果然名不虚传！
+
+##### 对话分支 1
 
 - **旅行者:** 你是猎人？
 
+##### 对话分支 2
+
 - **旅行者:** 你是冒险家？
 
-**香菱:** 不不不，我是个厨师，立志走遍各地，搜寻珍奇食材的厨师！
+##### 共同后续
+
+**？？？:** 不不不，我是个厨师，立志走遍各地，搜寻珍奇食材的厨师！
 
 **香菱:** 我叫香菱，从璃月港来，你们呢？
 
-我叫旅行者。
+- **旅行者:** 我叫旅行者。
 
 **派蒙:** 你好啊，我是派蒙。
 
@@ -1635,13 +2061,19 @@ Where will you go now?
 
 **香菱:** 好奇妙的生物，这个可以吃吗？
 
-- **旅行者:** 她是我的好朋友。
+##### 对话分支 1
 
-- **旅行者:** 当然可以。
+- **旅行者:** 她是我的好朋友。
 
 **香菱:** 可惜了，朋友那就是不能吃的。
 
+##### 对话分支 2
+
+- **旅行者:** 当然可以。
+
 **派蒙:** 不可以！派蒙不是吃的！
+
+##### 共同后续
 
 **香菱:** 你们的关系真好，其实我也有这样的好朋友，叫作锅巴。
 
@@ -1661,9 +2093,15 @@ Where will you go now?
 
 **派蒙:** 好、好吃的？一言为定，旅行者可擅长这个了！
 
+##### 对话分支 1
+
 - **旅行者:** 一点立场都没有啊…
 
+##### 对话分支 2
+
 - **旅行者:** 别无视我的意见啊。
+
+##### 共同后续
 
 **香菱:** 嘿嘿，别在意别在意，你的朋友都已经答应了。
 
@@ -1681,13 +2119,19 @@ Where will you go now?
 
 **香菱:** 哇，有这么多，一部分用来煎，一部分配上蘑菇炒，还有些和史莱姆凝液试试看…
 
-- **旅行者:** 她瞬间就入迷了…
+##### 对话分支 1
 
-- **旅行者:** 我想尝尝史莱姆凝液！
+- **旅行者:** 她瞬间就入迷了…
 
 **派蒙:** 我们很自然地被忽略了…
 
+##### 对话分支 2
+
+- **旅行者:** 我想尝尝史莱姆凝液！
+
 **派蒙:** 嘿嘿，旅行者你终于能理解我的喜好了。
+
+##### 共同后续
 
 **香菱:** 啊啊，不好意思不好意思，一不小心就去想菜谱了。
 
@@ -1711,9 +2155,15 @@ Where will you go now?
 
 **香菱:** 糖用甜甜花，至于盐，我之前在一个洞穴里找到了很多崖盐，够用好几天的。
 
+##### 对话分支 1
+
 - **旅行者:** 这、这也太轻车熟路了…
 
+##### 对话分支 2
+
 - **旅行者:** 听起来就很费事！
+
+##### 共同后续
 
 **香菱:** 嘿嘿，我总按捺不住尝试新菜的心情。但又不能每次出门都带好锅碗瓢盆什么的。
 
@@ -1731,9 +2181,15 @@ Where will you go now?
 
 **香菱:** 不行不行，那绝对是美食界…不对，是全人类的一大损失！
 
+##### 对话分支 1
+
 - **旅行者:** 真是有个性的理解方式。
 
+##### 对话分支 2
+
 - **旅行者:** 其实完全没懂吧…
+
+##### 共同后续
 
 **香菱:** 对不起，没想到会造成这么大的影响！
 
@@ -1741,13 +2197,19 @@ Where will you go now?
 
 **艾伦:** 他是我们这些猎人的领头人，他很看重狩猎的规矩，现在特别生气。
 
+##### 对话分支 1
+
 - **旅行者:** 现在该怎么办？
+
+##### 对话分支 2
 
 - **旅行者:** 还是听这位猎人的吧。
 
+##### 共同后续
+
 **香菱:** 我觉得应该去和他道歉的，毕竟做错了事嘛。
 
-让我们陪你一起去吧。
+- **旅行者:** 让我们陪你一起去吧。
 
 **香菱:** 嘿嘿，谢谢你们。那这件事结束之后我再做菜给你们吃！
 
@@ -1759,6 +2221,8 @@ Where will you go now?
 
 散步途中，你们偶然遇到了一位奇妙的少女。名叫香菱的少女来自璃月，是一位厨师，为了搜寻珍奇食材，她邀你们一道打猎。但你们私自狩猎野猪的行为似乎惹恼了猎户们的领头人杜拉夫，你们不得不去向他道歉。
 
+#### 陪香菱去清泉镇
+
 #### 向杜拉夫道歉
 
 **杜拉夫:** 你就是香菱，是吧？
@@ -1769,9 +2233,15 @@ Where will you go now?
 
 **派蒙:** 好、好可怕！
 
+##### 对话分支 1
+
 - **旅行者:** 暴、暴力是不对的！
 
+##### 对话分支 2
+
 - **旅行者:** 真要动手的话…冲着我来吧！
+
+##### 共同后续
 
 **杜拉夫:** ——请帮帮我们推广我们的肉产品吧！
 
@@ -1807,11 +2277,19 @@ Where will you go now?
 
 **香菱:** 我不能让材料束缚我的灵感，那样做出来的东西注定是无聊的。
 
+##### 对话分支 1
+
 - **旅行者:** 气场突然变得好强…
+
+##### 对话分支 2
 
 - **旅行者:** 这就是大厨的执着吗？
 
+##### 共同后续
+
 **杜拉夫:** 唉，既然态度这么坚决，那就算了吧。但是真的很可惜啊…
+
+#### 跟上打算离开的香菱
 
 #### 在香味的源头和香菱对话
 
@@ -1821,7 +2299,7 @@ Where will you go now?
 
 **派蒙:** 这么受欢迎啊…那一定很好吃！
 
-奇怪，明明有这么受欢迎的厨师…
+- **旅行者:** 奇怪，明明有这么受欢迎的厨师…
 
 **派蒙:** 对哦，为什么杜拉夫先生还要找香菱啊？
 
@@ -1857,9 +2335,15 @@ Where will you go now?
 
 **派蒙:** 呜哇，别吵架，不要吵架啊！
 
+##### 对话分支 1
+
 - **旅行者:** 已经听不到其他人的声音了…
 
+##### 对话分支 2
+
 - **旅行者:** 这就是所谓的棋逢对手吧。
+
+##### 共同后续
 
 **香菱:** 哼，既然这样，烹饪的问题就用烹饪来解决好了！
 
@@ -1885,6 +2369,8 @@ Where will you go now?
 
 然而杜拉夫却没有责备香菱，而是请她推广清泉镇的肉产品。坚守原则的香菱拒绝为了宣传而烹饪，正打算离开时却意外地被清泉镇大厨布洛克的料理所吸引。交谈中，两人在如何处理食材的问题上产生了分歧，约定以料理决一高下。
 
+#### 寻找前往璃月的香菱
+
 #### 与香菱交谈
 
 **香菱:** 应该是在这个附近吧…
@@ -1905,21 +2391,41 @@ Where will you go now?
 
 **香菱:** 先在周围随便看看吧，如果我看到中意的材料我会告诉你的。
 
+#### 沿路向上，寻找合适的食材
+
+#### 采集三朵莲蓬
+
+#### 继续前进，寻找合适的食材
+
+#### 采集三个绝云椒椒
+
 #### 与香菱交谈
 
 **香菱:** 总觉得还缺点什么…
 
+##### 对话分支 1
+
 - **旅行者:** 什么？
 
+##### 对话分支 2
+
 - **旅行者:** 不够印象深刻吗？
+
+##### 共同后续
 
 **香菱:** 嗯，少一种「噼咔」的感觉。
 
 **派蒙:** 这么一说确实不够「噼咔」呢。
 
+##### 对话分支 1
+
 - **旅行者:** 「噼咔」？！
 
+##### 对话分支 2
+
 - **旅行者:** 为什么派蒙能明白？！
+
+##### 共同后续
 
 **派蒙:** 哼哼哼。
 
@@ -1935,13 +2441,19 @@ Where will you go now?
 
 **香菱:** 有机会做给你们尝尝吧！
 
-- **旅行者:** 好想吃。
+##### 对话分支 1
 
-- **旅行者:** 不、不用了。
+- **旅行者:** 好想吃。
 
 **香菱:** 嘿嘿，味道不会让你失望的，就是卖相稍微有一点点奇怪。
 
+##### 对话分支 2
+
+- **旅行者:** 不、不用了。
+
 **香菱:** 欸？明明就很好吃的…
+
+##### 共同后续
 
 **香菱:** 先不说这个了，我想起来上次有个地方我还没去过。
 
@@ -1950,6 +2462,8 @@ Where will you go now?
 ### 意外的收获
 
 香菱认为只凭莲蓬和绝云椒椒这样的食材还不足以取胜，为了寻找特别的食材她再次踏上寻找之路。
+
+#### 前往香菱提到的地方
 
 #### 与香菱和瑟瑟发抖的人交谈
 
@@ -1965,9 +2479,17 @@ Where will you go now?
 
 **香菱:** 我记得来的路上有个丘丘人营地，那里多半就有能做汤的地方。
 
-没问题。
+- **旅行者:** 没问题。
 
 **香菱:** 好的，准备好了就尽快回来！
+
+#### 烹制「美味的萝卜时蔬汤」
+
+**香菱:** 我们来的时候路过了一个丘丘人的营地，那里应该有能做汤的地方。
+
+**香菱:** 我在这里照顾他，麻烦你去准备一碗美味的热汤，给他暖暖身子吧！
+
+**奥拉夫:** 好冷啊…里面冷死了…
 
 #### 给猎人送上做好的汤
 
@@ -1975,7 +2497,7 @@ Where will you go now?
 
 **奥拉夫:** 谢谢你们，这碗汤真好喝。
 
-怎么会冻成这个样子？
+- **旅行者:** 怎么会冻成这个样子？
 
 **奥拉夫:** 我本来在追一只野猪，追了好远，它逃进了那边的地下遗迹里。
 
@@ -1991,9 +2513,15 @@ Where will you go now?
 
 **香菱:** 说不定会很好吃！
 
+##### 对话分支 1
+
 - **旅行者:** …啊？
 
+##### 对话分支 2
+
 - **旅行者:** 这也能联想到吃的？
+
+##### 共同后续
 
 **香菱:** 就是这个！一锤定音的食材，肯定会很好吃的！
 
@@ -2003,9 +2531,15 @@ Where will you go now?
 
 **派蒙:** 又跑掉了…
 
+##### 对话分支 1
+
 - **旅行者:** 我们要先走一步了。
 
+##### 对话分支 2
+
 - **旅行者:** 你先回清泉镇吧。
+
+##### 共同后续
 
 **奥拉夫:** 没事，不用管我，但一定要阻止她，很危险的。
 
@@ -2013,19 +2547,29 @@ Where will you go now?
 
 听说遗迹中有巨大的急冻树，香菱产生了兴趣，急急忙忙跑进了地下遗迹。你们担心香菱冲动之下遇到危险，紧跟着也进入了遗迹。
 
+#### 追上闯入遗迹的香菱
+
+#### 深入遗迹，寻找食材
+
 #### 与香菱交谈
 
 **香菱:** 急冻树，急冻树，好吃的~急冻树~
 
 **派蒙:** 急冻树~
 
-- **旅行者:** 你太捧场了吧。
+##### 对话分支 1
 
-- **旅行者:** 急冻树~
+- **旅行者:** 你太捧场了吧。
 
 **香菱:** 那是你太拘谨了！拿到珍稀的食材，这世界上还会有比这更开心的事吗？
 
+##### 对话分支 2
+
+- **旅行者:** 急冻树~
+
 **香菱:** 哈哈哈，为什么你们唱出来就怪怪的。
+
+##### 共同后续
 
 **香菱:** 啊，这边好像还有什么东西！
 
@@ -2039,19 +2583,25 @@ Where will you go now?
 
 **派蒙:** 欸？！这么长时间，但为什么会还活着？
 
-- **旅行者:** 因为被冻住了吧。
+##### 对话分支 1
 
-- **旅行者:** 因为比较长寿？
+- **旅行者:** 因为被冻住了吧。
 
 **派蒙:** 有道理。
 
+##### 对话分支 2
+
+- **旅行者:** 因为比较长寿？
+
 **派蒙:** 那也太长寿了吧！
+
+##### 共同后续
 
 **香菱:** 书里讲过，这种野猪就是因为肉质太鲜美，所以被捕杀灭绝了。
 
 **香菱:** 急冻树和野猪，捡到两个宝贝了！
 
-这下胜券在握了。
+- **旅行者:** 这下胜券在握了。
 
 **香菱:** 嗯，我们这就回清泉镇吧！
 
@@ -2069,29 +2619,47 @@ Where will you go now?
 
 **杜拉夫:** 这就奇怪了，到底是怎么回事啊？
 
+##### 对话分支 1
+
 - **旅行者:** 难道说？
+
+##### 对话分支 2
 
 - **旅行者:** 我大概明白了。
 
+##### 共同后续
+
 **派蒙:** 你想到什么了？
+
+##### 对话分支 1
 
 - **旅行者:** 这位猎人也是三百多年前幸存下来的。
 
-- **旅行者:** 他说的是很久以前的清泉镇。
-
 **派蒙:** 欸欸——！人类可以活这么长时间吗？
+
+##### 对话分支 2
+
+- **旅行者:** 他说的是很久以前的清泉镇。
 
 **派蒙:** 很久以前…难道是几百年前？！
 
+##### 共同后续
+
 **香菱:** 这这这…这真的说得通吗？
+
+##### 对话分支 1
 
 - **旅行者:** 他和野猪都被冻僵了。
 
-- **旅行者:** 冰冻可以保鲜，这么说你更容易理解吧。
-
 **香菱:** 哦哦，是不是和食材保鲜的道理一样啊！
 
+##### 对话分支 2
+
+- **旅行者:** 冰冻可以保鲜，这么说你更容易理解吧。
+
 **香菱:** 嘿嘿，你这么解释我一下子就明白啦。
+
+##### 共同后续
 
 **杜拉夫:** 但就算这么说，还是难以置信。
 
@@ -2107,7 +2675,7 @@ Where will you go now?
 
 **香菱:** 也就说，是曾曾曾曾…好多个曾的祖父了！
 
-其实也没隔得那么远。
+- **旅行者:** 其实也没隔得那么远。
 
 **派蒙:** 居然还有这么神奇的事啊。
 
@@ -2137,9 +2705,15 @@ Where will you go now?
 
 **派蒙:** 什么时候变成副手了…
 
+##### 对话分支 1
+
 - **旅行者:** 奉陪到底吧。
 
+##### 对话分支 2
+
 - **旅行者:** 拿她没办法…
+
+##### 共同后续
 
 **派蒙:** 好吧，为了好吃的我也会努力的！
 
@@ -2153,6 +2727,12 @@ Where will you go now?
 
 **香菱:** 麻烦你去找一下白萝卜吧，这附近应该就有。对了对了，要洗干净！因为是直接入菜的！
 
+#### 寻找白萝卜
+
+**香菱:** 麻烦找些白萝卜回来，记得要去湖边洗干净哦？
+
+#### 前往湖边清洗白萝卜
+
 #### 将洗干净的白萝卜交给香菱
 
 **香菱:** 哇，又大又水灵，太完美了，谢谢你们！
@@ -2165,19 +2745,11 @@ Where will you go now?
 
 **香菱:** 旅行者，快帮我把锅的火控制下来！记得别用水去浇啊，不然也白做了！
 
+#### 控制三口锅的火势
+
+**香菱:** 快把火压下去，要烧焦了！
+
 #### 继续帮助香菱
-
-**香菱:** 啊啊…全都烧焦了，呜呜呜，只好再做一些了。
-
-**香菱:** 对了，我在考虑主菜是不是单薄了一些，想要有一些变化。
-
-**香菱:** 帮我做一份野菇鸡肉串吧！外面咔嚓咔嚓，里面滴答滴答的那种！
-
-- **旅行者:** 听不懂…
-
-- **旅行者:** 派蒙帮我翻译一下！
-
-**派蒙:** 就是要美味的，最美味的那种！
 
 **香菱:** 谢谢你，总算全都保住了，我尝了一下，味道还算过得去。
 
@@ -2185,11 +2757,29 @@ Where will you go now?
 
 **香菱:** 帮我做一份野菇鸡肉串吧！外面咔嚓咔嚓，里面滴答滴答的那种！
 
+##### 对话分支 1
+
 - **旅行者:** 听不懂…
+
+##### 对话分支 2
 
 - **旅行者:** 派蒙帮我翻译一下！
 
+##### 共同后续
+
 **派蒙:** 就是要美味的，最美味的那种！
+
+**香菱:** 啊啊…全都烧焦了，呜呜呜，只好再做一些了。
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+#### 烹饪「美味的野菇鸡肉串」
+
+**香菱:** 咔嚓咔嚓，滴答滴答~咔嚓咔嚓，滴答滴答~
 
 #### 将「美味的野菇鸡肉串」交给香菱
 
@@ -2203,9 +2793,15 @@ Where will you go now?
 
 **派蒙:** 啊啊，原来是「噼咔」的感觉！
 
+##### 对话分支 1
+
 - **旅行者:** 为什么你又理解了！
 
+##### 对话分支 2
+
 - **旅行者:** 所以这到底是外语还是方言啊！
+
+##### 共同后续
 
 **香菱:** 如果只是这样端上去，太浪费这么好的材料了。
 
@@ -2227,7 +2823,11 @@ Where will you go now?
 
 **香菱:** 辛苦了辛苦了！快让我看看你找到了什么？
 
+##### 对话分支 1
+
 - **旅行者:** 将食材交给香菱。
+
+##### 对话分支 2
 
 - **旅行者:** 我还得再去找找…
 
@@ -2249,17 +2849,35 @@ Where will you go now?
 
 **香菱:** 如果还有需要帮忙的事，还要再麻烦你们了，嘿嘿！
 
+**奥拉夫:** 我们原来都是烤一烤就直接吃，现在居然有这么多花样了…
+
+**齐格芙丽雅:** 好香啊…偷吃一点点应该没关系吧？
+
+**齐格芙丽雅:** 不行不行，我是来帮忙的…比赛要紧，比赛要紧！
+
+**布洛克:** 怎么？来打探敌情？
+
+**布洛克:** 哼哼，我已经拿到了必胜的材料，你们不可能赢的。
+
+**杜拉夫:** 蒙德与璃月的料理碰撞，想想就让人觉得兴奋。
+
 #### 询问香菱是否还需帮忙
 
 **香菱:** 对了对了，配菜。还需要一道配菜！
 
-- **旅行者:** 我来做吧。
+##### 对话分支 1
 
-- **旅行者:** 就算我不说也会让我来做吧。
+- **旅行者:** 我来做吧。
 
 **香菱:** 欸？没问题吗？
 
+##### 对话分支 2
+
+- **旅行者:** 就算我不说也会让我来做吧。
+
 **香菱:** 谢谢！你很了解我嘛，嘿嘿。
+
+##### 共同后续
 
 **香菱:** 那么这个就交给你了，这是我临时写的！
 
@@ -2277,19 +2895,21 @@ Where will you go now?
 
 **香菱:** 我相信你们，绝对能做出最美味的配菜的！
 
-- **旅行者:** 交给我吧。
+##### 对话分支 1
 
-- **旅行者:** 希望不会拖后腿。
+- **旅行者:** 交给我吧。
 
 **香菱:** 我喜欢这么有自信的回答！
 
+##### 对话分支 2
+
+- **旅行者:** 希望不会拖后腿。
+
 **香菱:** 别这么想，烹饪是件很快乐的事，放轻松放轻松！
 
+##### 共同后续
+
 **香菱:** 准备好，最后冲刺啦！
-
-#### 火腿
-
-**杜拉夫:** 蒙德与璃月的料理碰撞，想想就让人觉得兴奋。
 
 #### 烹饪「美味的翡玉什锦袋」
 
@@ -2349,7 +2969,7 @@ Where will you go now?
 
 **奥拉夫:** 是清泉镇…不，应该说是以前的清泉镇的味道。
 
-好吃到哭了…
+- **旅行者:** 好吃到哭了…
 
 **奥拉夫:** 呜呜，这是…这是，最后几口那个时代的味道了…
 
@@ -2371,7 +2991,7 @@ Where will you go now?
 
 **派蒙:** 好饱好饱。
 
-接下来打算去哪里？
+- **旅行者:** 接下来打算去哪里？
 
 **香菱:** 不知道，打算回一趟璃月港，但可能中途就改变了计划。
 
@@ -2387,12 +3007,18 @@ Where will you go now?
 
 **香菱:** 如果想学的话，还能教你几道创新菜！
 
-- **旅行者:** 一言为定。
+##### 对话分支 1
 
-- **旅行者:** 史莱姆滑野蘑菇就免了…
+- **旅行者:** 一言为定。
 
 **香菱:** 一言为定！
 
+##### 对话分支 2
+
+- **旅行者:** 史莱姆滑野蘑菇就免了…
+
 **香菱:** 啊？为什么你会知道我在想什么？！
+
+##### 共同后续
 
 **香菱:** 嘿嘿，那我们有机会再见啦，旅行者！

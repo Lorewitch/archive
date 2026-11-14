@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 10006
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_2079
 # quest_series: Witch's Homework
 # version_source: verified_override
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 10006
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 50
 
 ## RU
 
@@ -48,9 +51,15 @@
 
 **Дурин:** Я последовал её совету и сделал букет. Когда она увидела его, у неё сделалось очень странное выражение лица...
 
+##### Вариант ответа 1
+
 - **Путешественник:** У тебя своеобразный вкус.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Дело не в тебе, дело в ней.
+
+##### Общее продолжение
 
 **Дурин:** Позже Альбедо объяснил, что это потому, что я пока не понимаю «скрытый смысл» в словах людей.
 
@@ -60,21 +69,33 @@
 
 **Дурин:** Кажется, я потерял счёт времени... Кстати, зачем вы меня искали?
 
-- **Путешественник:** Друзья должны чаще навещать друг друга.
+##### Вариант ответа 1
 
-- **Путешественник:** Мы здесь из-за ведьмы...
+- **Путешественник:** Друзья должны чаще навещать друг друга.
 
 **Дурин:** Вот оно что. Видимо, это тоже часть правил. Каждый день узнаю что-то новое.
 
 **Паймон:** Это так, но мы по важному делу.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Мы здесь из-за ведьмы...
+
+##### Общее продолжение
+
 **Паймон:** Мы принесли «послание» от Рэйндоттир для тебя.
 
 **Дурин:** Так это от... тёти Рэйндоттир?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты в порядке?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Не надо так волноваться.
+
+##### Общее продолжение
 
 **Дурин:** Хм, я немного удивлён... Рэйндоттир - подруга моей мамы и мать дракона, который когда-то существовал в этом мире.
 
@@ -82,9 +103,15 @@
 
 **Дурин:** Если она возненавидит меня... я даже не знаю, что мне тогда делать.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Она не столь мелочна.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мы с тобой.
+
+##### Общее продолжение
 
 **Паймон:** Да, Дурин, не волнуйся, ничего плохого не случится. К тому же мы рядом!
 
@@ -94,13 +121,7 @@
 
 #### Поговорите с Дурином
 
-**Себас:** Кхм... В общем, это всё, что наставница Рэйндоттир хотела сказать, кхе-кхе.
-
-Спасибо большое, Себас. Ты молодец!
-
-**Паймон:** Хех. Кот, который может имитировать чужой голос. К такому сложно привыкнуть.
-
-**Себас:** Ну, не надо так удивляться. Я же не обычный кот.
+#### Поговорите с Дурином
 
 #### Поговорите с Дурином
 
@@ -124,31 +145,13 @@
 
 #### Победите появившихся монстров
 
-**Себас:** Кхм... В общем, это всё, что наставница Рэйндоттир хотела сказать, кхе-кхе.
-
-Ты не представился.
-
-**Паймон:** Да! Паймон видела говорящих кошек, но котов, которые могут подражать чужой речи, видит впервые. К такому сложно привыкнуть.
-
-**Себас:** Не понимаю, почему это важно, но если вам угодно... Я Себас, скромный дворецкий.
-
-**Себас:** Вы друзья Альбедо? Строго говоря, я его «старший», так что не стоит сравнивать меня с обычными котами.
+#### Победите появившихся монстров
 
 #### Победите появившихся монстров
 
-И снова здравствуй, Себас.
-
-**Себас:** Кхе, я принёс сообщение по приказу наставницы Рэйндоттир.
-
-**Себас:** Кхе-кхе...
-
 #### Победите появившихся монстров
 
-Знакомое начало.
-
-**Себас:** Кхе, я принёс сообщение по приказу наставницы Рэйндоттир.
-
-**Себас:** Кхе-кхе...
+#### Поговорите с Себасом
 
 #### Поговорите с Себасом
 
@@ -180,7 +183,7 @@
 
 **Дурин:** Я знаю! Себас, должно быть, имел в виду...
 
-Не надо, Дурин.
+- **Путешественник:** Не надо, Дурин.
 
 **Паймон:** Эй! Что за подтекст?
 
@@ -189,6 +192,36 @@
 **Себас:** Мало что может заставить наставницу Рэйндоттир беспокоиться. Я в тебе не ошибся, парень.
 
 **Себас:** Ладно, мне пора. Нужно доставить и другие сообщения. Возможно, мы ещё встретимся.
+
+- **Путешественник:** И снова здравствуй, Себас.
+
+**Себас:** Кхе, я принёс сообщение по приказу наставницы Рэйндоттир.
+
+**Себас:** Кхе-кхе...
+
+- **Путешественник:** Знакомое начало.
+
+**???:** Кхе, я принёс сообщение по приказу наставницы Рэйндоттир.
+
+**???:** Кхе-кхе...
+
+**Себас:** Кхм... В общем, это всё, что наставница Рэйндоттир хотела сказать, кхе-кхе.
+
+- **Путешественник:** Спасибо большое, Себас. Ты молодец!
+
+**Паймон:** Хех. Кот, который может имитировать чужой голос. К такому сложно привыкнуть.
+
+**Себас:** Ну, не надо так удивляться. Я же не обычный кот.
+
+**???:** Кхм... В общем, это всё, что наставница Рэйндоттир хотела сказать, кхе-кхе.
+
+- **Путешественник:** Ты не представился.
+
+**Паймон:** Да! Паймон видела говорящих кошек, но котов, которые могут подражать чужой речи, видит впервые. К такому сложно привыкнуть.
+
+**Себас:** Не понимаю, почему это важно, но если вам угодно... Я Себас, скромный дворецкий.
+
+**Себас:** Вы друзья Альбедо? Строго говоря, я его «старший», так что не стоит сравнивать меня с обычными котами.
 
 ## EN
 
@@ -212,9 +245,15 @@ Inside the witch's dictionary, you discover an unusual message that must be deli
 
 **Durin:** So I did as she said. But when I showed her the finished bouquet, she gave me a frankly terrifying look...
 
+##### Response branch 1
+
 - **Traveler:** You have a unique perspective, Durin.
 
+##### Response branch 2
+
 - **Traveler:** Feels like she's the one with the issue here.
+
+##### Shared continuation
 
 **Durin:** Later, Albedo opined that this happened because I have trouble understanding the "meaning behind words."
 
@@ -224,21 +263,33 @@ Inside the witch's dictionary, you discover an unusual message that must be deli
 
 **Durin:** And, well, I guess I lost track of time... So, um, did you guys need something?
 
-- **Traveler:** Friends do often drop by just to say hi, Durin.
+##### Response branch 1
 
-- **Traveler:** So we're here at the Hexenzirkel's behest...
+- **Traveler:** Friends do often drop by just to say hi, Durin.
 
 **Durin:** Oh, I see. That's another rule learned, then.
 
 **Paimon:** Yep! That said, we did have business we needed to discuss, right?
 
+##### Response branch 2
+
+- **Traveler:** So we're here at the Hexenzirkel's behest...
+
+##### Shared continuation
+
 **Paimon:** Yeah, we have a message to pass along from Rhinedottir.
 
 **Durin:** Oh... It... It's from Aunt Rhinedottir?
 
+##### Response branch 1
+
 - **Traveler:** Are you okay?
 
+##### Response branch 2
+
 - **Traveler:** Don't be nervous.
+
+##### Shared continuation
 
 **Durin:** No, I... I'm just surprised. Rhinedottir is my mom's friend... And the mother of the dragon that once existed in my stead.
 
@@ -246,9 +297,15 @@ Inside the witch's dictionary, you discover an unusual message that must be deli
 
 **Durin:** So, if she dislikes me... Well, I'm not sure what I'd do.
 
+##### Response branch 1
+
 - **Traveler:** I don't think she holds it against you.
 
+##### Response branch 2
+
 - **Traveler:** Either way, you have us.
+
+##### Shared continuation
 
 **Paimon:** Yeah! We're here for you! But, seriously, Paimon doesn't think it's anything bad.
 
@@ -258,13 +315,7 @@ Inside the witch's dictionary, you discover an unusual message that must be deli
 
 #### Talk to Durin
 
-**Sebas:** Ahem... And that's all Master Rhinedottir has to say. *coughs*...
-
-Good work, Sebas. Can't be easy being you.
-
-**Paimon:** Heh. A cat that can imitate someone else's voice is just as strange to witness as the first time.
-
-**Sebas:** Well, do not be so shocked. I am hardly an ordinary cat.
+#### Talk to Durin
 
 #### Talk to Durin
 
@@ -288,31 +339,13 @@ Good work, Sebas. Can't be easy being you.
 
 #### Defeat the attacking monsters
 
-**Sebas:** Ahem... And that's all Master Rhinedottir has to say. *coughs*...
-
-Uh, could we get a self-introduction, at least?
-
-**Paimon:** Yeah! We're used to talking cats at this point, but one that can imitate someone else's voice... That's a first.
-
-**Sebas:** I don't see how that's important, but if you must know... I am Sebas, a simple butler.
-
-**Sebas:** You're friends of Albedo, yes? Strictly speaking, I am his "elder." So, make no mistake — I am no ordinary cat.
+#### Defeat the attacking monsters
 
 #### Defeat the attacking monsters
 
-We meet again, Sebas.
-
-**Sebas:** Ahem. I have a message to deliver on Master Rhinedottir's behalf.
-
-**Sebas:** Ahem...
-
 #### Defeat the attacking monsters
 
-Well, this is familiar.
-
-**Sebas:** Ahem. I have a message to deliver on Master Rhinedottir's behalf.
-
-**Sebas:** Ahem...
+#### Talk to Sebas
 
 #### Talk to Sebas
 
@@ -344,7 +377,7 @@ Well, this is familiar.
 
 **Durin:** Oh, I know! Sebas is implying that you're—
 
-Maybe don't finish that thought, Durin.
+- **Traveler:** Maybe don't finish that thought, Durin.
 
 **Paimon:** What thought? Hey!
 
@@ -353,6 +386,36 @@ Maybe don't finish that thought, Durin.
 **Sebas:** Few and far between are the people that can make her reconsider. Quite the impressive feat, young man.
 
 **Sebas:** With that done, I'll be going now. I have another message to pass along. Perhaps we'll meet again sometime.
+
+- **Traveler:** We meet again, Sebas.
+
+**Sebas:** Ahem. I have a message to deliver on Master Rhinedottir's behalf.
+
+**Sebas:** Ahem...
+
+- **Traveler:** Well, this is familiar.
+
+**???:** Ahem. I have a message to deliver on Master Rhinedottir's behalf.
+
+**???:** Ahem...
+
+**Sebas:** Ahem... And that's all Master Rhinedottir has to say. *coughs*...
+
+- **Traveler:** Good work, Sebas. Can't be easy being you.
+
+**Paimon:** Heh. A cat that can imitate someone else's voice is just as strange to witness as the first time.
+
+**Sebas:** Well, do not be so shocked. I am hardly an ordinary cat.
+
+**???:** Ahem... And that's all Master Rhinedottir has to say. *coughs*...
+
+- **Traveler:** Uh, could we get a self-introduction, at least?
+
+**Paimon:** Yeah! We're used to talking cats at this point, but one that can imitate someone else's voice... That's a first.
+
+**Sebas:** I don't see how that's important, but if you must know... I am Sebas, a simple butler.
+
+**Sebas:** You're friends of Albedo, yes? Strictly speaking, I am his "elder." So, make no mistake — I am no ordinary cat.
 
 ## ZH
 
@@ -376,9 +439,15 @@ Maybe don't finish that thought, Durin.
 
 **杜林:** 结果，等我按照她的说法，把做好的花束拿去给她看的时候，她却露出了非常可怕的表情…
 
+##### 对话分支 1
+
 - **旅行者:** 杜林的眼光很独特呢。
 
+##### 对话分支 2
+
 - **旅行者:** 总感觉是她的问题。
+
+##### 共同后续
 
 **杜林:** 后来阿贝多说，这是因为我还没办法听懂大家话语中的「言外之意」。
 
@@ -388,21 +457,33 @@ Maybe don't finish that thought, Durin.
 
 **杜林:** 结果我不知不觉就看到了现在…对了，还没问你们找我有什么事情呢？
 
-- **旅行者:** 朋友之间应该经常互相拜访。
+##### 对话分支 1
 
-- **旅行者:** 我们是为了魔女…
+- **旅行者:** 朋友之间应该经常互相拜访。
 
 **杜林:** 原来是这样，这也是「规则」的一部分吧，又学到了。
 
 **派蒙:** 虽然是这样没错，不过我们还有正事要说吧。
 
+##### 对话分支 2
+
+- **旅行者:** 我们是为了魔女…
+
+##### 共同后续
+
 **派蒙:** 是这样的，其实我们带来了莱茵多特要交给你的「口信」。
 
 **杜林:** 居然是…莱茵多特阿姨吗…
 
+##### 对话分支 1
+
 - **旅行者:** 怎么了？
 
+##### 对话分支 2
+
 - **旅行者:** 别紧张。
+
+##### 共同后续
 
 **杜林:** 嗯，我只是有些意外…莱茵多特是妈妈的朋友，也是曾经存在于这个世界的「魔龙」的母亲。
 
@@ -410,9 +491,15 @@ Maybe don't finish that thought, Durin.
 
 **杜林:** 所以如果她讨厌我的话…我也不知道该怎么办才好了。
 
+##### 对话分支 1
+
 - **旅行者:** 她应该没那么小气。
 
+##### 对话分支 2
+
 - **旅行者:** 有我们在呢。
+
+##### 共同后续
 
 **派蒙:** 嗯嗯，杜林你别担心，一定不会是什么坏事的。而且还有我们在呢！
 
@@ -422,13 +509,7 @@ Maybe don't finish that thought, Durin.
 
 #### 与杜林对话
 
-**赛巴斯:** 咳…以上，莱茵多特主人就说了这些，咳咳。
-
-真是辛苦你了。
-
-**派蒙:** 虽然已经不是第一次见了，不过能模仿别人说话的猫感觉还挺稀奇的。
-
-**赛巴斯:** 可不要把我和普通的猫相提并论啊。
+#### 与杜林对话
 
 #### 与杜林对话
 
@@ -452,31 +533,13 @@ Maybe don't finish that thought, Durin.
 
 #### 击败出现的魔物
 
-**赛巴斯:** 咳…以上，莱茵多特主人就说了这些，咳咳。
-
-你还没自我介绍呢。
-
-**派蒙:** 对哦，虽然猫会说话这种事已经习惯了，不过能模仿别人说话的猫还是第一次见。
-
-**赛巴斯:** 我吗？这不重要。我叫赛巴斯，只是一位管家罢了。
-
-**赛巴斯:** 你们是阿贝多的朋友，对吧。严格来说，我可是他的「长辈」呢，所以不要把我和普通的猫相提并论。
+#### 击败出现的魔物
 
 #### 击败出现的魔物
 
-又见面了赛巴斯。
-
-**赛巴斯:** 咳，受莱茵多特主人所命，我带来了要传达的口信。
-
-**赛巴斯:** 咳咳…
-
 #### 击败出现的魔物
 
-已经习惯了。
-
-**赛巴斯:** 咳，受莱茵多特主人所命，我带来了要传达的口信。
-
-**赛巴斯:** 咳咳…
+#### 与赛巴斯对话
 
 #### 与赛巴斯对话
 
@@ -508,7 +571,7 @@ Maybe don't finish that thought, Durin.
 
 **杜林:** 我知道，这就是「言外之意」对吧？所以赛巴斯应该是想说…
 
-别说出来啊，杜林。
+- **旅行者:** 别说出来啊，杜林。
 
 **派蒙:** 喂，你们什么意思啦！
 
@@ -517,3 +580,33 @@ Maybe don't finish that thought, Durin.
 **赛巴斯:** 能让莱茵多特主人多虑的机会可不多，小哥我很看好你啊。
 
 **赛巴斯:** 好了，现在我得走了。我还有别的口信要送，说不定我们还会再见面的。
+
+- **旅行者:** 又见面了赛巴斯。
+
+**赛巴斯:** 咳，受莱茵多特主人所命，我带来了要传达的口信。
+
+**赛巴斯:** 咳咳…
+
+- **旅行者:** 已经习惯了。
+
+**？？？:** 咳，受莱茵多特主人所命，我带来了要传达的口信。
+
+**？？？:** 咳咳…
+
+**赛巴斯:** 咳…以上，莱茵多特主人就说了这些，咳咳。
+
+- **旅行者:** 真是辛苦你了。
+
+**派蒙:** 虽然已经不是第一次见了，不过能模仿别人说话的猫感觉还挺稀奇的。
+
+**赛巴斯:** 可不要把我和普通的猫相提并论啊。
+
+**？？？:** 咳…以上，莱茵多特主人就说了这些，咳咳。
+
+- **旅行者:** 你还没自我介绍呢。
+
+**派蒙:** 对哦，虽然猫会说话这种事已经习惯了，不过能模仿别人说话的猫还是第一次见。
+
+**赛巴斯:** 我吗？这不重要。我叫赛巴斯，只是一位管家罢了。
+
+**赛巴斯:** 你们是阿贝多的朋友，对吧。严格来说，我可是他的「长辈」呢，所以不要把我和普通的猫相提并论。

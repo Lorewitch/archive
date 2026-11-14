@@ -23,7 +23,7 @@ function fixture(fetch = async () => { throw new Error('unexpected request'); })
   };
   const window = {location:{href:'https://lorewitch.github.io/archive/',hash:''},matchMedia:()=>({matches:false,addEventListener(){}}),requestAnimationFrame(){}};
   const context=vm.createContext({document,window,fetch,URL,Intl,console});
-  vm.runInContext(modules.map(p=>fs.readFileSync(path.join(root,'src/js',p),'utf8')).join('\n') + `\nthis.api={state,parseHash,loadDetail,loadCatalogData,DETAILS,DETAIL_LOADS,renderBookDetail,itemMatchesFilter,getSectionConfig,escapeHtml,markdownToHtml,groupEntryCount,renderCatalogCard,fetchJson,fetchOptionalJson, get items(){return ITEMS;},setSummary(value){ARCHIVE_SUMMARY=value;}};`,context);
+  vm.runInContext(modules.map(p=>fs.readFileSync(path.join(root,'src/js',p),'utf8')).join('\n') + `\nthis.api={state,parseHash,loadDetail,loadCatalogData,DETAILS,DETAIL_LOADS,renderBookDetail,itemMatchesFilter,getSectionConfig,escapeHtml,markdownToHtml,groupEntryCount,renderCatalogCard,fetchJson,fetchOptionalJson,worldCatalogUnits,worldQuestSeriesOrder, get items(){return ITEMS;},setSummary(value){ARCHIVE_SUMMARY=value;}};`,context);
   return {api:context.api,app,window};
 }
 const json = p => JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
@@ -96,4 +96,29 @@ test('offline misses are distinguishable from genuinely empty optional categorie
   await assert.rejects(api.fetchOptionalJson('data/indexes/items/anything.json'),/ещё не сохранён/);
   const {api:empty}=fixture(async()=>({ok:false,status:404}));
   assert.equal((await empty.fetchOptionalJson('data/indexes/items/empty.json')).length,0);
+});
+
+test('world series preserve every retained quest and place the Tsaritsa orders chronologically',()=>{
+ const {api}=fixture();api.state.section='stories';api.state.subsection='world_quests';
+ const rows=json('data/indexes/stories/world_quests.json');
+ const units=api.worldCatalogUnits(rows,api.getSectionConfig('stories'));
+ const allIds=units.flatMap(unit=>unit.kind==='series' ? Array.from(unit.entries,q=>q.id) : [unit.item.id]);
+ assert.equal(new Set(allIds).size,209);assert.equal(allIds.length,209);
+ assert.equal(units.filter(unit=>unit.kind==='series').length,29);
+ const orders=units.find(unit=>unit.kind==='series' && unit.title==='Тайные приказы ледяного дворца');
+ assert.equal(orders.entries.length,12);
+ assert.equal(orders.entries[0].id,'quest_wq_77664');
+ assert.equal(orders.entries[5].id,'quest_wq_77669');
+ assert.equal(orders.entries[11].id,'quest_wq_77686');
+});
+
+test('independent quest links do not override explicit series order or hide a single search match',()=>{
+ const {api}=fixture();api.state.section='stories';api.state.subsection='world_quests';
+ const first={id:'first',story_group:'world_quests',quest_series:['shared'],quest_series_ru:'Серия',quest_series_order:10,quest_chain:['first']};
+ const second={id:'second',story_group:'world_quests',quest_series:['shared'],quest_series_ru:'Серия',quest_series_order:20,quest_chain:['second']};
+ const config=api.getSectionConfig('stories');
+ const grouped=api.worldCatalogUnits([second,first],config);
+ assert.deepEqual(Array.from(grouped[0].entries,q=>q.id),['first','second']);
+ const filtered=api.worldCatalogUnits([second],config);
+ assert.equal(filtered.length,1);assert.equal(filtered[0].kind,'entry');assert.equal(filtered[0].item.id,'second');
 });

@@ -14,12 +14,14 @@
 # chapter_num_en: Vultur Volans Chapter: Act I
 # chapter_num_zh: 天隼之章 第一幕
 # part_source_ids: 13020,13021,13022
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_lq_2035
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 13020,13021,13022
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -73,7 +75,7 @@
 
 **Паймон:** Ой, что такое? Тебе нехорошо?
 
-**Ильяс:** Матра...
+**???:** Матра...
 
 **Паймон:** Матра?
 
@@ -88,6 +90,12 @@
 **Ильяс:** Помогите мне дойти. Это важное дело, мне очень нужно.
 
 **Паймон:** Раз ты так говоришь... Ладно, мы тебя отведём!
+
+#### Найдите матру
+
+**Рэнчо:** Кстати, у меня в Мондштадте живёт один старый друг. Может, отправимся туда вместе? Он устроит нам экскурсию, покажет все достопримечательности.
+
+**Пия:** Отличная идея, спасибо!
 
 #### Поговорите с матрой
 
@@ -143,7 +151,7 @@
 
 **Аарав:** Прошу вас, подождите здесь. А мы скоро вернёмся.
 
-*Ожидание немного затянулось...*
+Ожидание немного затянулось...
 
 **Паймон:** О, аль-Хайтам?
 
@@ -179,6 +187,8 @@
 
 **Паймон:** Да ладно тебе! Мы же договорились, что идём вместе!
 
+#### Отправляйтесь в таверну
+
 #### Задержите подозреваемых
 
 **Аарав:** Мы на месте, господин аль-Хайтам. Что дальше?
@@ -203,7 +213,7 @@
 
 **Аль-Хайтам:** Отвечая на никудышные вопросы, ты только потворствуешь тому, кто их задаёт. И я должен был чётко обозначить ему свою позицию.
 
-Что ты хочешь сказать?
+- **Путешественник:** Что ты хочешь сказать?
 
 **Аль-Хайтам:** Аарав был столь же озадачен моим желанием участвовать в расследовании, как и вы.
 
@@ -281,6 +291,8 @@
 
 **Аль-Хайтам:** Идите за мной.
 
+#### Найдите тихое место
+
 #### Поговорите с аль-Хайтамом
 
 **Паймон:** Сирадж не пришёл в таверну, Нарендра ничего не знает... Получается, расследование забуксовало.
@@ -291,7 +303,7 @@
 
 **Паймон:** А? Паймон ни о чём не догадывается! Путешественник, а ты?
 
-Ты знаком с Сираджем?
+- **Путешественник:** Ты знаком с Сираджем?
 
 **Аль-Хайтам:** Да, мы учились на одном курсе.
 
@@ -359,9 +371,21 @@
 
 **Аль-Хайтам:** Ясно. Тогда пойдём туда и поговорим с руководителем центра.
 
+**Рэнчо:** (Интересно, как продвигается её работа?)
+
+**Пия:** (Ох...)
+
+**Рэнчо:** (Вот бы поехать с ней вместе в Мондштадт!)
+
+**Пия:** (Долгожданный отдых...)
+
+**Аарав:** (Стражи порядка должны серьёзно относиться к своей работе.)
+
 ### Тщательное расследование
 
 Ильяс помнит, что должен выполнить две важные задачи. Одна из них - забрать жалованье в Центре подготовки исследований.
+
+#### Отправляйтесь в Центр подготовки исследований
 
 #### Поговорите с руководителем Центра подготовки исследований
 
@@ -398,6 +422,12 @@
 **Макеш:** Вы согласны с моим решением, господин аль-Хайтам?
 
 **Аль-Хайтам:** У меня нет возражений.
+
+#### Найдите Чандру
+
+**Макеш:** В Академии творится что-то непонятное. Число учёных, которые хотят заниматься исследованиями, резко сократилось.
+
+**Макеш:** А если так пойдёт дальше...
 
 #### Поговорите с Чандрой
 
@@ -455,9 +485,15 @@
 
 **Аль-Хайтам:** Это суть исследований Сираджа. Так называлась и тема исследования, которую он заявлял: «Коллективное сознание и эволюционное развитие».
 
+##### Вариант ответа 1
+
 - **Путешественник:** «Коллективное сознание»?
 
+##### Вариант ответа 2
+
 - **Путешественник:** «Эволюционное развитие»?
+
+##### Общее продолжение
 
 **Аль-Хайтам:** По мнению Сираджа, для создания коллективного сознания, которое является венцом эволюции человека, нужно выполнить всего три условия.
 
@@ -467,7 +503,7 @@
 
 **Аль-Хайтам:** Наконец, участники коллективного сознания должны иметь возможность быстрого обмена информацией, в идеале - иметь доступ к воспоминаниям и чувствам друг друга.
 
-...
+- **Путешественник:** ...
 
 **Паймон:** Паймон всё равно не понимает. Какой в этом смысл?
 
@@ -511,6 +547,10 @@
 
 **Чандра:** Если вам интересно, можете поговорить с ней. Скорее всего, она сейчас в саду, сидит с книгой в павильоне.
 
+#### Найдите Джанаки
+
+**Чандра:** Да-да? У вас остались вопросы?
+
 #### Поговорите с Джанаки
 
 **Паймон:** Ты Джанаки? Мы хотели бы расспросить тебя о Сирадже!
@@ -553,7 +593,7 @@
 
 **Аль-Хайтам:** Вот оно что. Он решил, что энергию джняны можно использовать для оценки вычислительной способности мозга...
 
-Это так?
+- **Путешественник:** Это так?
 
 **Аль-Хайтам:** Даже если данные в документе верны, совершенно бессмысленно полагаться на количество извлечённой энергии джняны для оценки способностей человека.
 
@@ -629,14 +669,21 @@
 
 **Аль-Хайтам:** Так, все важные дела за последние несколько лет должны быть в этом архиве.
 
+**Макеш:** Вот твоё жалованье. В другой раз предупреждай заранее, если понадобится отпуск.
 
-«Вакансии мудрецов до сих пор пустуют, и в последнее время в Сумеру наблюдается наплыв подозрительных личностей, распространяющих всевозможную информацию. Бригада тридцати пополняет состав для выслеживания подобных личностей, чтобы обеспечить мир и порядок в Сумеру...»
+**Ильяс:** Понял, спасибо.
 
-«В даршане Ртавахист всегда было много чудаков. В последнее время появились слухи о некой студентке, научные работы которой якобы "падают с неба". Обстоятельства выясняются...»
+**Макеш:** Ерунда. И знай, я всегда готов помочь, если у тебя что-то случилось.
 
-«Согласно показаниям некоторых свидетелей, по ночам в Пардис Дхяй бродит загадочная тень. Была проведена проверка, состава преступления не обнаружено, дело закрыто».
+#### Подождите, пока аль-Хайтам отыщет нужные документы
 
-«В Пардис Дхяй всё благополучно, за последнее время не замечено никаких аномалий».
+- **Путешественник:** «Вакансии мудрецов до сих пор пустуют, и в последнее время в Сумеру наблюдается наплыв подозрительных личностей, распространяющих всевозможную информацию. Бригада тридцати пополняет состав для выслеживания подобных личностей, чтобы обеспечить мир и порядок в Сумеру...»
+
+- **Путешественник:** «В даршане Ртавахист всегда было много чудаков. В последнее время появились слухи о некой студентке, научные работы которой якобы "падают с неба". Обстоятельства выясняются...»
+
+- **Путешественник:** «Согласно показаниям некоторых свидетелей, по ночам в Пардис Дхяй бродит загадочная тень. Была проведена проверка, состава преступления не обнаружено, дело закрыто».
+
+- **Путешественник:** «В Пардис Дхяй всё благополучно, за последнее время не замечено никаких аномалий».
 
 #### Поговорите с аль-Хайтамом
 
@@ -682,6 +729,8 @@
 
 **Паймон:** Значит, сейчас мы отправляемся в Гандхарву, чтобы отнести жалованье сестре Ильяса? В путь!
 
+#### Отправляйтесь в Гандхарву
+
 #### Поговорите с родителями Ильяса
 
 **Ильяс:** Где-то здесь. Сейчас вспомню... Дальше надо идти сюда...
@@ -708,13 +757,13 @@
 
 **Паймон:** Похоже, Ильяс не хочет рассказывать им, что потерял память...
 
-Не хочет расстраивать родных.
+- **Путешественник:** Не хочет расстраивать родных.
 
 **Иезавель:** Ладно, давайте успокоимся, у брата и так голова разболелась! Дома поворчите в своё удовольствие!
 
 **Иезавель:** Братец, давай поговорим в другом месте.
 
-*Сестра Ильяса приводит вас в тихое место.*
+Сестра Ильяса приводит вас в тихое место.
 
 **Иезавель:** Братец, как твоя голова?
 
@@ -788,15 +837,35 @@
 
 **Паймон:** Ты прав. Тогда - в путь!
 
+**Макеш:** (Из уважения к господину аль-Хайтаму...)
+
+**Чандра:** (Какой горький сегодня кофе...)
+
+**Чандра:** (Да... Я бы тоже хотел присоединиться к проекту Сираджа...)
+
+**Ильяс:** (Можно будет купить сестрице новое платье...)
+
+**Макеш:** (Откуда этот Ильяс знает господина аль-Хайтама?)
+
+**Макеш:** (Как же много работы...)
+
+**Джанаки:** (Не слишком ли дорого я заплатила за это украшение?)
+
 ### Гордость и предубеждение
 
 В Гандхарве к Ильясу вернулась память. Он утверждает, что вспомнил, где прячется Сирадж. Отправляйтесь туда вместе с ним!
+
+#### Отправляйтесь в укрытие, где прячется Сирадж
 
 #### Поговорите с Ильясом
 
 **Ильяс:** Мы на месте.
 
 **Паймон:** Да, с маскировкой здесь всё в порядке... Но опасностей на первый взгляд нет. Давайте зайдём и посмотрим, что там!
+
+#### Пройдите на экспериментальную базу
+
+#### Продолжайте исследование экспериментальной базы
 
 #### Поговорите с аль-Хайтамом
 
@@ -812,9 +881,11 @@
 
 **Паймон:** Ладно, пойдём. Может, он нас догонит!
 
+#### Двигайтесь вглубь экспериментальной базы
+
 #### Выслушайте мысли Ильяса
 
-*Вы вдруг чувствуете головокружение, и перед глазами разворачивается сцена...*
+Вы вдруг чувствуете головокружение, и перед глазами разворачивается сцена...
 
 **Раджу:** Довольно, Ильяс. Ты и так многое для меня сделал...
 
@@ -842,13 +913,13 @@
 
 **Раджу:** Брось, хватит. Ничего, осталось потерпеть немного, и скоро всё закончится...
 
-*На этом месте сцена обрывается.*
+На этом месте сцена обрывается.
 
 **Паймон:** Ты что?
 
-Похоже, я увидел(а) прошлое Ильяса.
+- **Путешественник:** Похоже, я увидел прошлое Ильяса. / Похоже, я увидела прошлое Ильяса.
 
-**Паймон:** А? Ты что, умеешь мысли читать? И не говорил(а) Паймон?
+**Паймон:** А? Ты что, умеешь мысли читать? И не говорил Паймон? / А? Ты что, умеешь мысли читать? И не говорила Паймон?
 
 **Аль-Хайтам:** Это вряд ли.
 
@@ -860,13 +931,15 @@
 
 **Аль-Хайтам:** Проект создания коллективного сознания завершён. А сейчас Ильяс возвращается в Улей.
 
-Он нас обманул?
+- **Путешественник:** Он нас обманул?
 
 **Аль-Хайтам:** Не совсем. Пойдём дальше, и скоро ты всё поймёшь.
 
 #### Двигайтесь вглубь экспериментальной базы
 
-*Перед глазами разворачивается новая сцена...*
+#### Выслушайте мысли Ильяса
+
+Перед глазами разворачивается новая сцена...
 
 **Джанаки:** Целый год нашей работы пошёл прахом. И всё ради чего? Ради твоей репутации? Ты хоть понимаешь, сколько людей из-за тебя пострадало?
 
@@ -888,17 +961,19 @@
 
 **Джанаки:** Не извиняйся, я всё равно не приму твоих извинений. Но ты обязательно за всё заплатишь.
 
-*На этом месте сцена обрывается.*
+На этом месте сцена обрывается.
 
-**Паймон:** Ты чего стоишь столбом? Опять что-то увидел(а)?
+**Паймон:** Ты чего стоишь столбом? Опять что-то увидел? / Ты чего стоишь столбом? Опять что-то увидела?
 
-Ильяс...
+- **Путешественник:** Ильяс...
 
 **Аль-Хайтам:** Не переживай. Скоро мы его увидим и сможем задать все свои вопросы.
 
+#### Двигайтесь вглубь экспериментальной базы
+
 #### Выслушайте мысли Ильяса
 
-*На сей раз происходящее видно очень отчётливо. Наверное, это события из недавнего прошлого...*
+На сей раз происходящее видно очень отчётливо. Наверное, это события из недавнего прошлого...
 
 **Питэр:** Это очень странно, Ильяс. Тебя не принимают ни в одну исследовательскую группу?
 
@@ -910,7 +985,7 @@
 
 **Ильяс:** ...
 
-**Сирадж:** Вижу, тебе приходится несладко.
+**???:** Вижу, тебе приходится несладко.
 
 **Ильяс:** Кто ты?..
 
@@ -926,13 +1001,19 @@
 
 **Сирадж:** Ну, что скажешь?
 
-*На этом месте сцена обрывается.*
+На этом месте сцена обрывается.
 
-**Аль-Хайтам:** Что ты увидел(а)?
+**Аль-Хайтам:** Что ты увидел? / Что ты увидела?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Как Сирадж уговаривает Ильяса присоединиться к Улью.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ильяса не заставляли участвовать в эксперименте.
+
+##### Общее продолжение
 
 **Паймон:** Вот оно что! Он нас обманул! Негодяй!
 
@@ -1070,9 +1151,9 @@
 
 **Аль-Хайтам:** Вернувшись в Улей, Ильяс разделил свои воспоминания и чувства с остальными. В том числе и воспоминания обо мне.
 
-**Ильяс:** Большое тебе спасибо. В конце концов, не такой ты и ужасный человек.
+**Голос памяти:** Большое тебе спасибо. В конце концов, не такой ты и ужасный человек.
 
-**Ильяс:** Странно. Почему у меня тогда появилось такое ощущение?
+**Голос памяти:** Странно. Почему у меня тогда появилось такое ощущение?
 
 **Аль-Хайтам:** Эти воспоминания противоречат той ненависти, которую ты им внушил. В результате получается конфликт.
 
@@ -1108,11 +1189,15 @@
 
 **Паймон:** Ладно... Паймон не знает, откуда в тебе столько уверенности, но мы их задержим!
 
+#### Победите монстров
+
 #### Поговорите с Сираджем
 
 **Сирадж:** Вот! Это и есть коллективная воля.
 
 **Сирадж:** Даже когда ненависть исчезла, они не перестают действовать. Никакие аномалии не способны поколебать коллективную волю.
+
+#### Победите монстров
 
 #### Поговорите с Сираджем
 
@@ -1120,85 +1205,15 @@
 
 **Сирадж:** Тихо! Это приказание Сверхразума...
 
+#### Победите монстров
+
 #### Станьте свидетелем смуты в Улье
-
-**Карван:** Ох, нет... Я участвовал в разработке плана по ликвидации исполняющего обязанности великого мудреца?
-
-**Карван:** Какая муха меня укусила? Почему я на это пошёл?..
-
-**Голи:** Мы просто сообщники, но я боюсь, что аль-Хайтам надавит на матр, чтобы нам вынесли суровые приговоры.
-
-**Голи:** Нам не стоило с ним связываться, будь он хоть секретарь, хоть исполняющий обязанности великого мудреца. Теперь он не даст нам жизни в Академии.
-
-**Пуян:** О будущем поговорим потом. Но после выхода из коллектива меня снедает чувство вины.
-
-**Пуян:** Аль-Хайтам был не особенно известен, и я не успел составить о нём своего мнения. А в рассказах других людей он представал довольно неприятным типом.
-
-**Пуян:** Сирадж заставил нас возненавидеть аль-Хайтама, и мы верили, что аль-Хайтам - негодяй, не подвергая этот тезис сомнениям.
-
-**Пуян:** Сейчас я понимаю, что мы допустили много ошибок.
-
-**Карван:** Но винить здесь можно только себя. Эх... Не могли бы вы передать наши извинения аль-Хайтаму?
-
-**Паймон:** Хорошо! Паймон замолвит за вас словечко перед аль-Хайтамом. Вот только не знаю, согласится ли он вас простить.
-
-**Карван:** Ничего, по крайней мере, так нам будет намного легче. А если он затаил на нас обиду, мы готовы понести наказание.
-
-**Аарав:** Пора.
-
-**Голи:** Да, идём.
-
-**Паймон:** Все они... были жертвами обмана? Или нет?
-
-**Паймон:** Давай спросим у аль-Хайтама, когда выберемся наружу?
-
-**Ильяс:** Кажется, я так и не смог стать «Сираджем номер 36». Придётся дальше жить как Ильяс.
-
-**Ильяс:** В Гандхарве я даже хотел взять и рассказать вам правду...
-
-**Ильяс:** Но... мне не хватило смелости.
-
-**Ильяс:** Я растерял своё чувство справедливости, но так и не смог стать частью коллектива.
-
-**Паймон:** Ильяс...
-
-**Ильяс:** Не переживайте. Я виноват перед вами.
-
-**Ильяс:** Но я ухожу отсюда не с пустыми руками. Когда Улей распался, мне в голову пришла одна мысль.
-
-**Ильяс:** Оказывается, коллектив, частью которого мне хотелось стать, вовсе не так силён, как мне казалось.
-
-**Ильяс:** Осознав это, я вдруг почувствовал себя намного смелее... Возможно, однажды я тоже стану таким, как аль-Хайтам, равнодушным к чужому мнению.
-
-**Паймон:** Паймон верит, что у тебя всё получится.
-
-**Ильяс:** Спасибо. Мне тоже пора идти. Я должен предстать перед судом как один из главных преступников.
-
-**Ильяс:** Могу я попросить вас не говорить ничего моим родителям и сестре? Не хочу, чтобы они беспокоились.
-
-**Ильяс:** И извинитесь за меня перед господином аль-Хайтамом. До встречи!
-
-**Сайно:** Мы увели всех участников эксперимента.
-
-**Сайно:** Мои люди всё здесь опечатают, соберут документацию и уничтожат оборудование.
-
-**Сайно:** Вы не ранены? Я взял с собой бинты и средство для остановки кровотечения.
-
-**Паймон:** Мы в порядке! Только немного устали...
-
-**Сайно:** Отдохните как следует. Думаю, аль-Хайтам ждёт вас у входа. Если здесь вы закончили, можете идти к нему.
-
-**Сайно:** Будьте осторожны. У Сираджа могут быть сообщники, о которых мы не знаем. Если случится что-то серьёзное, ищите меня в Академии.
-
-**Паймон:** Хорошо! Сайно, ты тоже будь осторожен!
-
-**Паймон:** Путешественник, давай пойдём к аль-Хайтаму!
 
 #### Поговорите с аль-Хайтамом
 
 **Паймон:** «Улей»... отключён?
 
-Всё кончено.
+- **Путешественник:** Всё кончено.
 
 **Паймон:** Что сейчас произошло?
 
@@ -1208,7 +1223,7 @@
 
 **Аль-Хайтам:** Но этот эффект имеет и обратную сторону. По той же логике, когда в коллективном сознании появляются негативные эмоции, они порождают центробежные силы, которые почти не поддаются контролю.
 
-«Личные устремления»...
+- **Путешественник:** «Личные устремления»...
 
 **Аль-Хайтам:** Возмущение Ильяса было не лишено смысла: оно заставило рой усомниться в Сверхразуме.
 
@@ -1292,6 +1307,82 @@
 
 **Паймон:** Взял и ушёл. Хм... Здесь столько людей, которые участвовали в эксперименте... Нам лучше остаться и понаблюдать за ними.
 
+#### Поговорите с участниками эксперимента
+
+**Карван:** Ох, нет... Я участвовал в разработке плана по ликвидации исполняющего обязанности великого мудреца?
+
+**Карван:** Какая муха меня укусила? Почему я на это пошёл?..
+
+**Голи:** Мы просто сообщники, но я боюсь, что аль-Хайтам надавит на матр, чтобы нам вынесли суровые приговоры.
+
+**Голи:** Нам не стоило с ним связываться, будь он хоть секретарь, хоть исполняющий обязанности великого мудреца. Теперь он не даст нам жизни в Академии.
+
+**Пуян:** О будущем поговорим потом. Но после выхода из коллектива меня снедает чувство вины.
+
+**Пуян:** Аль-Хайтам был не особенно известен, и я не успел составить о нём своего мнения. А в рассказах других людей он представал довольно неприятным типом.
+
+**Пуян:** Сирадж заставил нас возненавидеть аль-Хайтама, и мы верили, что аль-Хайтам - негодяй, не подвергая этот тезис сомнениям.
+
+**Пуян:** Сейчас я понимаю, что мы допустили много ошибок.
+
+**Карван:** Но винить здесь можно только себя. Эх... Не могли бы вы передать наши извинения аль-Хайтаму?
+
+**Паймон:** Хорошо! Паймон замолвит за вас словечко перед аль-Хайтамом. Вот только не знаю, согласится ли он вас простить.
+
+**Карван:** Ничего, по крайней мере, так нам будет намного легче. А если он затаил на нас обиду, мы готовы понести наказание.
+
+**Аарав:** Пора.
+
+**Голи:** Да, идём.
+
+**Паймон:** Все они... были жертвами обмана? Или нет?
+
+**Паймон:** Давай спросим у аль-Хайтама, когда выберемся наружу?
+
+**Ильяс:** Кажется, я так и не смог стать «Сираджем номер 36». Придётся дальше жить как Ильяс.
+
+**Ильяс:** В Гандхарве я даже хотел взять и рассказать вам правду...
+
+**Ильяс:** Но... мне не хватило смелости.
+
+**Ильяс:** Я растерял своё чувство справедливости, но так и не смог стать частью коллектива.
+
+**Паймон:** Ильяс...
+
+**Ильяс:** Не переживайте. Я виноват перед вами.
+
+**Ильяс:** Но я ухожу отсюда не с пустыми руками. Когда Улей распался, мне в голову пришла одна мысль.
+
+**Ильяс:** Оказывается, коллектив, частью которого мне хотелось стать, вовсе не так силён, как мне казалось.
+
+**Ильяс:** Осознав это, я вдруг почувствовал себя намного смелее... Возможно, однажды я тоже стану таким, как аль-Хайтам, равнодушным к чужому мнению.
+
+**Паймон:** Паймон верит, что у тебя всё получится.
+
+**Ильяс:** Спасибо. Мне тоже пора идти. Я должен предстать перед судом как один из главных преступников.
+
+**Ильяс:** Могу я попросить вас не говорить ничего моим родителям и сестре? Не хочу, чтобы они беспокоились.
+
+**Ильяс:** И извинитесь за меня перед господином аль-Хайтамом. До встречи!
+
+**Сайно:** Мы увели всех участников эксперимента.
+
+**Сайно:** Мои люди всё здесь опечатают, соберут документацию и уничтожат оборудование.
+
+**Сайно:** Вы не ранены? Я взял с собой бинты и средство для остановки кровотечения.
+
+**Паймон:** Мы в порядке! Только немного устали...
+
+**Сайно:** Отдохните как следует. Думаю, аль-Хайтам ждёт вас у входа. Если здесь вы закончили, можете идти к нему.
+
+**Сайно:** Будьте осторожны. У Сираджа могут быть сообщники, о которых мы не знаем. Если случится что-то серьёзное, ищите меня в Академии.
+
+**Паймон:** Хорошо! Сайно, ты тоже будь осторожен!
+
+**Паймон:** Путешественник, давай пойдём к аль-Хайтаму!
+
+#### Покиньте подземелье
+
 #### Поговорите с аль-Хайтамом
 
 **Аль-Хайтам:** Дело сделано, можно уходить.
@@ -1300,9 +1391,15 @@
 
 **Аль-Хайтам:** Судя по лицам, у вас осталось много вопросов?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Да.
 
-- **Путешественник:** Я заинтригован(а).
+##### Вариант ответа 2
+
+- **Путешественник:** Я заинтригован. / Я заинтригована.
+
+##### Общее продолжение
 
 **Аль-Хайтам:** Понимаю твоё любопытство, но мой рабочий день на сегодня окончен, так что ответов не жди.
 
@@ -1330,6 +1427,8 @@
 
 **Аль-Хайтам:** Как придём - увидишь.
 
+#### Следуйте за аль-Хайтамом
+
 #### Выслушайте соображения аль-Хайтама
 
 **Паймон:** Ты здесь... живёшь?
@@ -1338,13 +1437,13 @@
 
 **Паймон:** Ого, так ты пригласил нас к себе в гости! Ха-ха-ха, какая честь...
 
-**Кавех:** Это ты? Ну-ка, посмотри, картина ровно висит? Ой... Это ещё кто?
+**???:** Это ты? Ну-ка, посмотри, картина ровно висит? Ой... Это ещё кто?
 
 **Аль-Хайтам:** Чего ты так пугаешься? Разве не ясно - это гости.
 
 **Кавех:** Вы... вы ведь не из Академии?
 
-Нет.
+- **Путешественник:** Нет.
 
 **Паймон:** Паймон тебя уже где-то встречала... А? Точно, вспомнила!
 
@@ -1364,7 +1463,7 @@
 
 **Паймон:** ...
 
-...
+- **Путешественник:** ...
 
 **Кавех:** ...
 
@@ -1390,13 +1489,15 @@
 
 **Паймон:** Что? Обычный вопрос! Ты сам подставился!
 
+**Кавех:** Но... ты ведь не будешь относиться ко мне так же, как он?
+
 **Аль-Хайтам:** Вижу, вы отлично поладили. Шум стоит на весь дом.
 
 **Кавех:** Хм. Занимайся сам своими гостями.
 
 **Аль-Хайтам:** Вот книги.
 
-*Вы пролистали книги, которые принёс аль-Хайтам, но они так написаны, что смысл ускользает...*
+Вы пролистали книги, которые принёс аль-Хайтам, но они так написаны, что смысл ускользает...
 
 **Паймон:** У Паймон голова разболелась... Ничего не понятно, ни слова по делу. Лучше мы будем задавать вопросы, а ты - отвечать...
 
@@ -1436,13 +1537,21 @@
 
 **Кавех:** Настроил против вас?.. Вы в порядке?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Скорее, против аль-Хайтама.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мы с Паймон случайно там оказались.
+
+##### Общее продолжение
 
 **Кавех:** Вот оно что...
 
 **Кавех:** Да, жизнь постоянно подкидывает нам проблемы. Знали бы заранее, что всё так обернётся, сидели бы сегодня дома, да?
+
+**Кавех:** Мог бы хоть раз помочь мне навести порядок. Например, книги - пылятся там целую вечность. Если ты их не читаешь, поставь в шкаф, а не складывай в кучу!
 
 **Паймон:** Эм... эм...
 
@@ -1456,11 +1565,11 @@
 
 **Кавех:** Ах ты!.. Ты ничего, ровным счётом ничего не понимаешь в искусстве! Так что не лезь не в своё дело.
 
-(Похоже, Кавех опять рассердился...)
+- **Путешественник:** (Похоже, Кавех опять рассердился...)
 
 **Паймон:** Паймон даже не знает, кто из них больший психопат... Давай скорее закончим разговор и пойдём отсюда.
 
-Это всё твоё любопытство...
+- **Путешественник:** Это всё твоё любопытство...
 
 **Аль-Хайтам:** Ваши перешёптывания прекрасно слышно.
 
@@ -1486,7 +1595,7 @@
 
 **Паймон:** Гм... У Паймон больше нет вопросов. А у тебя?
 
-Что тебя на самом деле заинтересовало в этом деле?
+- **Путешественник:** Что тебя на самом деле заинтересовало в этом деле?
 
 **Паймон:** Гм... Да, любопытно узнать.
 
@@ -1498,7 +1607,7 @@
 
 **Аль-Хайтам:** Сейчас я понял.
 
-Это связано с обстановкой в Академии?
+- **Путешественник:** Это связано с обстановкой в Академии?
 
 **Аль-Хайтам:** Да. Свержение мудрецов и отключение терминалов Акаши повлияло на настроения в Академии.
 
@@ -1526,19 +1635,37 @@
 
 **Аль-Хайтам:** Если долго занимать пост исполняющего обязанности великого мудреца, велика вероятность, что из исполняющего обязанности станешь постоянным великим мудрецом. Не хотелось бы тратить на это свою жизнь.
 
-Ты хорошо знаешь, чего хочешь.
+- **Путешественник:** Ты хорошо знаешь, чего хочешь.
 
 **Аль-Хайтам:** Очень важно помнить о своих приоритетах. Ладно, время вышло. Вам, наверное, тоже пора ужинать.
 
 **Паймон:** Да, Паймон и правда проголодалась! Пока! Мы пойдём на поиски вкусняшек!
 
-Пока!
+- **Путешественник:** Пока!
 
 **Аль-Хайтам:** До свидания.
 
-**Кавех:** Но... ты ведь не будешь относиться ко мне так же, как он?
+**Ильяс:** (Я должен... вернуться... в Улей.)
 
-**Кавех:** Мог бы хоть раз помочь мне навести порядок. Например, книги - пылятся там целую вечность. Если ты их не читаешь, поставь в шкаф, а не складывай в кучу!
+**Один из «коллектива»:** (Пока я здесь, всё хорошо... Я должен действовать со всеми вместе...)
+
+**Одна из «коллектива»:** (Нет ни выбора, ни ответственности. Такая жизнь намного легче...)
+
+**Сайно:** (Стадо баранов без пастуха.)
+
+**Аарав:** (Господин Сайно как всегда на высоте...)
+
+**Ильяс:** (Это моя ошибка?)
+
+**Карван:** (Что я сделал?)
+
+**Голи:** (Он нам отомстит!)
+
+**Пуян:** (Гордость и предубеждение очень опасны...)
+
+**Один из «коллектива»:** ...
+
+**Одна из «коллектива»:** ...
 
 ## EN
 
@@ -1592,7 +1719,7 @@ You've heard that Alhaitham has become the Acting Grand Sage. Considering his pe
 
 **Paimon:** Hey, are you okay? Uh, you don't look too good...
 
-**Ilyas:** The matra...
+**???:** The matra...
 
 **Paimon:** The matra?
 
@@ -1607,6 +1734,12 @@ You've heard that Alhaitham has become the Acting Grand Sage. Considering his pe
 **Ilyas:** Sorry, can you lend me your arm...? This is an important matter. Failure is not an option.
 
 **Paimon:** Since you put it that way, fine, we'll take you to a matra!
+
+#### Look for a matra
+
+**Rancho:** Say, an old friend of mine is also in Mondstadt. Why don't we go together? We can even ask him to be our guide and show us around.
+
+**Piah:** That sounds great! Thanks a lot.
 
 #### Talk to the matra
 
@@ -1662,7 +1795,7 @@ You've heard that Alhaitham has become the Acting Grand Sage. Considering his pe
 
 **Aarav:** Sorry, but can you two wait out here a little while? We'll be back soon.
 
-*You wait somewhat longer than expected...*
+You wait somewhat longer than expected...
 
 **Paimon:** Huh? Alhaitham?
 
@@ -1698,6 +1831,8 @@ You've heard that Alhaitham has become the Acting Grand Sage. Considering his pe
 
 **Paimon:** Oh, come on! We already said that we're coming!
 
+#### Go to the tavern
+
 #### Round up the suspects
 
 **Aarav:** We're here, Acting Grand Sage Alhaitham. What's our next course of action?
@@ -1722,7 +1857,7 @@ You've heard that Alhaitham has become the Acting Grand Sage. Considering his pe
 
 **Alhaitham:** Answering a simplistic question only enables the questioner. Besides, I need him to understand my position clearly.
 
-What do you mean?
+- **Traveler:** What do you mean?
 
 **Alhaitham:** Aarav has just as many doubts about my coming along as you do.
 
@@ -1800,6 +1935,8 @@ What do you mean?
 
 **Alhaitham:** Follow me.
 
+#### Find a quiet place
+
 #### Talk to Alhaitham
 
 **Paimon:** Siraj didn't show up at the tavern, and Narendra didn't give us any leads... That means we're stuck!
@@ -1810,7 +1947,7 @@ What do you mean?
 
 **Paimon:** Huh? Paimon has no clue. Hey, do you know?
 
-Do you know Siraj?
+- **Traveler:** Do you know Siraj?
 
 **Alhaitham:** Yes. We were classmates.
 
@@ -1878,9 +2015,21 @@ Do you know Siraj?
 
 **Alhaitham:** I see. In that case, let's go and find whoever's in charge there.
 
+**Rancho:** (I wonder if things are going smoothly with her thesis...)
+
+**Piah:** (*sigh*)
+
+**Rancho:** (I wish I could travel to Mondstadt with her.)
+
+**Piah:** (My long-awaited time off...)
+
+**Aarav:** (There is no room for laziness if we wish to uphold order.)
+
 ### A Thorough Investigation
 
 Ilyas remembered two things that he had to do, one of which is to collect his pay at the Research Preparation Center.
+
+#### Head towards the Research Preparation Center
 
 #### Talk with the staff at the Research Preparation Center
 
@@ -1917,6 +2066,12 @@ Ilyas remembered two things that he had to do, one of which is to collect his pa
 **Makesh:** Is this acceptable, Acting Grand Sage Alhaitham?
 
 **Alhaitham:** I have no objections.
+
+#### Look for Chandra
+
+**Makesh:** Things at the Akademiya have been strange lately. People have become much less interested in doing research.
+
+**Makesh:** This will definitely be bad in the long run...
 
 #### Talk to Chandra
 
@@ -1974,9 +2129,15 @@ Ilyas remembered two things that he had to do, one of which is to collect his pa
 
 **Alhaitham:** It's what Siraj was researching, and the topic of the thesis he had submitted: "collective consciousness and the path of evolution."
 
+##### Response branch 1
+
 - **Traveler:** "Collective consciousness"?
 
+##### Response branch 2
+
 - **Traveler:** "Path of evolution"?
+
+##### Shared continuation
 
 **Alhaitham:** Siraj believed that by achieving three objectives, he could create a collective consciousness in human society and drive humans toward their ultimate evolution.
 
@@ -1986,7 +2147,7 @@ Ilyas remembered two things that he had to do, one of which is to collect his pa
 
 **Alhaitham:** Lastly, this system must support the rapid exchange of information within the collective, or even better, allow its members to share their memories and emotions.
 
-...
+- **Traveler:** ...
 
 **Paimon:** Paimon still doesn't get it. What's the point of all that?
 
@@ -2030,6 +2191,10 @@ Ilyas remembered two things that he had to do, one of which is to collect his pa
 
 **Chandra:** If you're interested, you can try to find her. She's usually reading at the pavilion in the garden.
 
+#### Look for Janaki
+
+**Chandra:** Hmm? What can I do for you?
+
 #### Talk to Janaki
 
 **Paimon:** Are you Janaki? We'd like to ask you a couple of things about Siraj!
@@ -2072,7 +2237,7 @@ Ilyas remembered two things that he had to do, one of which is to collect his pa
 
 **Alhaitham:** Hmm, I see. He believes that this data can be used to evaluate a person's computing power...
 
-Is it true, though?
+- **Traveler:** Is it true, though?
 
 **Alhaitham:** Putting aside the validity of the data, it is meaningless to judge individuals based solely on their Jnana Energy.
 
@@ -2148,14 +2313,21 @@ Is it true, though?
 
 **Alhaitham:** Okay, the important files from the last few years should all be here.
 
+**Makesh:** Here's your paycheck. Next time, remember to give us a heads-up if you'll be absent.
 
-"There are many vacancies for sages, and the number of suspicious people spreading various news in Sumeru City has increased significantly recently. The Corps of Thirty are looking to recruit for surveillance to ensure the city's peace and stability..."
+**Ilyas:** Got it. Thank you so much.
 
-"The Rtawahist Darshan has also had an abundance of weirdos. Recently, there is a new rumor that a student has the ability to write 'the Heaven-Sent Thesis.' The circumstances are still under investigation..."
+**Makesh:** No problem. Let me know if you ever run into any trouble.
 
-"There are witnesses that say that there is a mysterious shadow wandering around Pardis Dhyai at night. The investigation found nothing suspicious and the case was closed."
+#### Wait for Alhaitham to look through the information
 
-"Pardis Dhyai has been peaceful recently, and there's nothing out of the ordinary."
+- **Traveler:** "There are many vacancies for sages, and the number of suspicious people spreading various news in Sumeru City has increased significantly recently. The Corps of Thirty are looking to recruit for surveillance to ensure the city's peace and stability..."
+
+- **Traveler:** "The Rtawahist Darshan has also had an abundance of weirdos. Recently, there is a new rumor that a student has the ability to write 'the Heaven-Sent Thesis.' The circumstances are still under investigation..."
+
+- **Traveler:** "There are witnesses that say that there is a mysterious shadow wandering around Pardis Dhyai at night. The investigation found nothing suspicious and the case was closed."
+
+- **Traveler:** "Pardis Dhyai has been peaceful recently, and there's nothing out of the ordinary."
 
 #### Talk to Alhaitham
 
@@ -2201,6 +2373,8 @@ Is it true, though?
 
 **Paimon:** Let's head to Gandharva Ville and deliver Ilyas's paycheck to his sister! Come on!
 
+#### Go to Gandharva Ville
+
 #### Talk to Ilyas's parents
 
 **Ilyas:** We should be close. Let me think... It should be this way.
@@ -2227,13 +2401,13 @@ Is it true, though?
 
 **Paimon:** Ilyas doesn't seem like he wants them to know that he has amnesia...
 
-He doesn't want his family to worry.
+- **Traveler:** He doesn't want his family to worry.
 
 **Izebel:** Hey, hey, that's enough, you two. Ilyas isn't feeling well. You can keep nagging him once we get home.
 
 **Izebel:** Ilyas, let's find somewhere to talk.
 
-*Ilyas's sister brings you to a quieter place.*
+Ilyas's sister brings you to a quieter place.
 
 **Izebel:** So, how's your headache?
 
@@ -2307,15 +2481,35 @@ He doesn't want his family to worry.
 
 **Paimon:** You're right. Let's head out!
 
+**Makesh:** (Well, seeing as it's Acting Grand Sage Alhaitham...)
+
+**Chandra:** (The coffee is really bitter today...)
+
+**Chandra:** (*sigh* I wish I could've joined Siraj's research project, too...)
+
+**Ilyas:** (I can buy my sister a new dress...)
+
+**Makesh:** (What is Ilyas's relation to Acting Grand Sage Alhaitham?)
+
+**Makesh:** (There's just too much to do...)
+
+**Janaki:** (Did I pay too much for that piece of jewelry today?)
+
 ### Pride and Prejudice
 
 While stopping by Gandharva Ville, Ilyas managed to recover his memories. It's now time to follow him to Siraj's hideout.
+
+#### Head to Siraj's hideout
 
 #### Talk to Ilyas
 
 **Ilyas:** This is the place.
 
 **Paimon:** It's so well-hidden, but there's nothing spooky about it. Hm, let's go inside and take a look!
+
+#### Enter the research base
+
+#### Continue to explore the research base
 
 #### Talk to Alhaitham
 
@@ -2331,9 +2525,11 @@ While stopping by Gandharva Ville, Ilyas managed to recover his memories. It's n
 
 **Paimon:** Uhh, alright. We'll continue in and see if he catches up to us.
 
+#### Head into the heart of the research base
+
 #### Listen to Ilyas's thoughts
 
-*A sudden dizziness sets in, and a scene starts to play in your mind...*
+A sudden dizziness sets in, and a scene starts to play in your mind...
 
 **Raju:** It's okay, Ilyas. You've done more than enough for me already...
 
@@ -2361,11 +2557,11 @@ While stopping by Gandharva Ville, Ilyas managed to recover his memories. It's n
 
 **Raju:** Enough. It's fine. I just need to suck it up and get it done.
 
-*The scene ends there.*
+The scene ends there.
 
 **Paimon:** What's the matter?
 
-I think I saw a glimpse of Ilyas's past.
+- **Traveler:** I think I saw a glimpse of Ilyas's past.
 
 **Paimon:** Eh? You could read minds this whole time and you never told Paimon!?
 
@@ -2379,13 +2575,15 @@ I think I saw a glimpse of Ilyas's past.
 
 **Alhaitham:** The collective consciousness project is already complete, and Ilyas is now returning to the collective.
 
-So he tricked us?
+- **Traveler:** So he tricked us?
 
 **Alhaitham:** Not entirely... Keep walking and you'll see why.
 
 #### Head into the heart of the research base
 
-*A new scene plays in your mind...*
+#### Listen to Ilyas's thoughts
+
+A new scene plays in your mind...
 
 **Janaki:** An entire year's worth of work down the drain, and for what? Your reputation? Do you have any idea how many people you've brought down?
 
@@ -2407,17 +2605,19 @@ So he tricked us?
 
 **Janaki:** There's no need for an apology. It's not like I'll accept it, anyway. You'll pay for this.
 
-*The scene ends there.*
+The scene ends there.
 
 **Paimon:** Hey, you're blanking out again... What did you see this time?
 
-Ilyas...
+- **Traveler:** Ilyas...
 
 **Alhaitham:** Don't jump to conclusions just yet. Save your words for when we see him.
 
+#### Head into the heart of the research base
+
 #### Listen to Ilyas's thoughts
 
-*The scene is much clearer this time, likely because it happened recently...*
+The scene is much clearer this time, likely because it happened recently...
 
 **Pitar:** Ilyas, this is all very strange. Is there really no research group that will take you?
 
@@ -2429,7 +2629,7 @@ Ilyas...
 
 **Ilyas:** ...
 
-**Siraj:** You seem troubled.
+**???:** You seem troubled.
 
 **Ilyas:** Who are you?
 
@@ -2445,13 +2645,19 @@ Ilyas...
 
 **Siraj:** How about it? Want to have a go?
 
-*The scene ends there.*
+The scene ends there.
 
 **Alhaitham:** What did you see?
 
+##### Response branch 1
+
 - **Traveler:** Siraj persuaded Ilyas to join the Hive.
 
+##### Response branch 2
+
 - **Traveler:** Ilyas wasn't forced.
+
+##### Shared continuation
 
 **Paimon:** Paimon can't believe it! He really did trick us, that giga jerk!
 
@@ -2589,9 +2795,9 @@ Ilyas...
 
 **Alhaitham:** However, when Ilyas returned to the collective, his memories and emotions were shared with the rest of its members. This includes his perception of me.
 
-**Ilyas:** Thanks for that. You know, you don't seem like such a bad person.
+**Thoughts From Memory:** Thanks for that. You know, you don't seem like such a bad person.
 
-**Ilyas:** Strange, isn't it? Why did I have those thoughts at that time?
+**Thoughts From Memory:** Strange, isn't it? Why did I have those thoughts at that time?
 
 **Alhaitham:** This contradicts the hatred you had provided them, and these two differing emotions will give rise to new conflict.
 
@@ -2627,11 +2833,15 @@ Ilyas...
 
 **Paimon:** Well, all right. Paimon doesn't know how you get so confident, but we'll hold them off for as long as we can!
 
+#### Defeat opponents
+
 #### Talk to Siraj
 
 **Siraj:** You see? That is the will of the collective.
 
 **Siraj:** Even with the hatred gone, they continue their work. An external anomaly cannot shake the collective's stability.
+
+#### Defeat opponents
 
 #### Talk to Siraj
 
@@ -2639,85 +2849,15 @@ Ilyas...
 
 **Siraj:** Silence! As the Overmind, I command you—
 
+#### Defeat opponents
+
 #### Witness the internal conflict within the Hive
-
-**Karwan:** Oh no, oh no... I was involved in all these plans to get rid of the Acting Grand Sage?
-
-**Karwan:** What came over me? How could I do something like this...?
-
-**Goli:** We were accomplices without knowing it, but I'm afraid that Alhaitham might pressure the matra into giving us heavier sentences.
-
-**Goli:** Whether he's the scribe or the Acting Grand Sage, we can't afford to offend him. It seems our future at the Akademiya will be full of uncertainties...
-
-**Pouyan:** We can discuss the future later. Leaving the collective left me with a strange sense of guilt.
-
-**Pouyan:** I didn't feel anything towards Alhaitham at first since he wasn't well-known. All the opinions I heard about him were negative, though.
-
-**Pouyan:** Siraj made us hate Alhaitham, and we blindly accepted that hatred and thought of him as a bad person.
-
-**Pouyan:** From how things look, we've done a lot of irrational things.
-
-**Karwan:** I guess we're getting what we deserve. *sigh* ...Could you help us apologize to Alhaitham?
-
-**Paimon:** Sure, Paimon will help you tell Alhaitham, but whether he chooses to forgive you is up to him.
-
-**Karwan:** It's okay. No matter what he chooses, apologizing will make us feel slightly better. If he chooses to remember this, we're prepared for our punishment.
-
-**Aarav:** It's time to go.
-
-**Goli:** *sigh* Let's go.
-
-**Paimon:** So... were they all duped?
-
-**Paimon:** We can ask Alhaitham about that later.
-
-**Ilyas:** ...Looks like I can't exist as Siraj Number 36, yet my life as Ilyas goes on.
-
-**Ilyas:** When I was at Gandharva Ville, I thought about whether I should just come forward with the truth.
-
-**Ilyas:** But... I didn't have the courage then.
-
-**Ilyas:** So in the end, I lost my sense of justice, but I also wasn't able to conform.
-
-**Paimon:** Ilyas...
-
-**Ilyas:** Don't be sad. I'm the one who deceived you.
-
-**Ilyas:** However, I didn't come out of this completely empty-handed. The moment the Hive collapsed, an idea popped into my head.
-
-**Ilyas:** I realized that the "collective" I was always trying to fit into wasn't as powerful as I had imagined.
-
-**Ilyas:** Understanding that gave me courage somehow... Perhaps one day, I can be just like Alhaitham and not care about what anyone else thinks.
-
-**Paimon:** You can do it! Paimon believes in you.
-
-**Ilyas:** Thanks. Well, I should get going. I'm one of the primary suspects in the case, so I'll have to receive my due punishment.
-
-**Ilyas:** Can you keep this a secret from my parents and my sister? I just don't want them to worry.
-
-**Ilyas:** Also, please apologize to Alhaitham for me. Goodbye, you two.
-
-**Cyno:** All the test subjects have been taken away.
-
-**Cyno:** I'll have my subordinates seal the place, retrieve all documentation, and destroy the system.
-
-**Cyno:** Are you two hurt? I brought bandages and hemostatics.
-
-**Paimon:** Paimon's fine! Whew, just a little tired.
-
-**Cyno:** Get some rest. Alhaitham is probably waiting for you at the entrance. Go see him when you're done here.
-
-**Cyno:** Watch out for any of Siraj's associates who might still be in hiding. If you encounter anything you can't take care of, come find me at the Akademiya.
-
-**Paimon:** Okay! You stay safe too, Cyno!
-
-**Paimon:** Let's go meet up with Alhaitham!
 
 #### Talk to Alhaitham
 
 **Paimon:** The Hive... shut down?
 
-It's over.
+- **Traveler:** It's over.
 
 **Paimon:** What happened just now?
 
@@ -2727,7 +2867,7 @@ It's over.
 
 **Alhaitham:** However, this system is far from perfect. Based on this logic, the collective consciousness will generate an intractable diffusion effect upon encountering negative emotions.
 
-Selfish desires...
+- **Traveler:** Selfish desires...
 
 **Alhaitham:** The disturbance that Ilyas caused wasn't for naught. It made the collective question the Overmind.
 
@@ -2811,6 +2951,82 @@ Selfish desires...
 
 **Paimon:** And off he goes... *sigh* There still are a lot of test subjects here, so let's stick around for a while.
 
+#### Talk to the test subjects
+
+**Karwan:** Oh no, oh no... I was involved in all these plans to get rid of the Acting Grand Sage?
+
+**Karwan:** What came over me? How could I do something like this...?
+
+**Goli:** We were accomplices without knowing it, but I'm afraid that Alhaitham might pressure the matra into giving us heavier sentences.
+
+**Goli:** Whether he's the scribe or the Acting Grand Sage, we can't afford to offend him. It seems our future at the Akademiya will be full of uncertainties...
+
+**Pouyan:** We can discuss the future later. Leaving the collective left me with a strange sense of guilt.
+
+**Pouyan:** I didn't feel anything towards Alhaitham at first since he wasn't well-known. All the opinions I heard about him were negative, though.
+
+**Pouyan:** Siraj made us hate Alhaitham, and we blindly accepted that hatred and thought of him as a bad person.
+
+**Pouyan:** From how things look, we've done a lot of irrational things.
+
+**Karwan:** I guess we're getting what we deserve. *sigh* ...Could you help us apologize to Alhaitham?
+
+**Paimon:** Sure, Paimon will help you tell Alhaitham, but whether he chooses to forgive you is up to him.
+
+**Karwan:** It's okay. No matter what he chooses, apologizing will make us feel slightly better. If he chooses to remember this, we're prepared for our punishment.
+
+**Aarav:** It's time to go.
+
+**Goli:** *sigh* Let's go.
+
+**Paimon:** So... were they all duped?
+
+**Paimon:** We can ask Alhaitham about that later.
+
+**Ilyas:** ...Looks like I can't exist as Siraj Number 36, yet my life as Ilyas goes on.
+
+**Ilyas:** When I was at Gandharva Ville, I thought about whether I should just come forward with the truth.
+
+**Ilyas:** But... I didn't have the courage then.
+
+**Ilyas:** So in the end, I lost my sense of justice, but I also wasn't able to conform.
+
+**Paimon:** Ilyas...
+
+**Ilyas:** Don't be sad. I'm the one who deceived you.
+
+**Ilyas:** However, I didn't come out of this completely empty-handed. The moment the Hive collapsed, an idea popped into my head.
+
+**Ilyas:** I realized that the "collective" I was always trying to fit into wasn't as powerful as I had imagined.
+
+**Ilyas:** Understanding that gave me courage somehow... Perhaps one day, I can be just like Alhaitham and not care about what anyone else thinks.
+
+**Paimon:** You can do it! Paimon believes in you.
+
+**Ilyas:** Thanks. Well, I should get going. I'm one of the primary suspects in the case, so I'll have to receive my due punishment.
+
+**Ilyas:** Can you keep this a secret from my parents and my sister? I just don't want them to worry.
+
+**Ilyas:** Also, please apologize to Alhaitham for me. Goodbye, you two.
+
+**Cyno:** All the test subjects have been taken away.
+
+**Cyno:** I'll have my subordinates seal the place, retrieve all documentation, and destroy the system.
+
+**Cyno:** Are you two hurt? I brought bandages and hemostatics.
+
+**Paimon:** Paimon's fine! Whew, just a little tired.
+
+**Cyno:** Get some rest. Alhaitham is probably waiting for you at the entrance. Go see him when you're done here.
+
+**Cyno:** Watch out for any of Siraj's associates who might still be in hiding. If you encounter anything you can't take care of, come find me at the Akademiya.
+
+**Paimon:** Okay! You stay safe too, Cyno!
+
+**Paimon:** Let's go meet up with Alhaitham!
+
+#### Leave the Domain
+
 #### Talk to Alhaitham
 
 **Alhaitham:** The matter's settled. We can return now.
@@ -2819,9 +3035,15 @@ Selfish desires...
 
 **Alhaitham:** Judging by your faces, it seems like you two still have some questions.
 
+##### Response branch 1
+
 - **Traveler:** That's right.
 
+##### Response branch 2
+
 - **Traveler:** I'm quite curious.
+
+##### Shared continuation
 
 **Alhaitham:** I respect your curiosity, but I'm off the clock now, so I'm not going to field any questions.
 
@@ -2849,6 +3071,8 @@ Selfish desires...
 
 **Alhaitham:** You'll know when we get there.
 
+#### Follow Alhaitham
+
 #### Listen to Alhaitham's thoughts
 
 **Paimon:** Is this... your home?
@@ -2857,13 +3081,13 @@ Selfish desires...
 
 **Paimon:** Pfft... What's with you all of a sudden, being all polite and inviting us over?
 
-**Kaveh:** Ah, you're back. Quick, come help me see if this painting's all straightened... Huh? Who are they!?
+**???:** Ah, you're back. Quick, come help me see if this painting's all straightened... Huh? Who are they!?
 
 **Alhaitham:** Stop making a fuss. They're obviously guests.
 
 **Kaveh:** You're... not from the Akademiya, are you?
 
-No, we're not.
+- **Traveler:** No, we're not.
 
 **Paimon:** Paimon's sure she's seen you before... Huh!? You're the person from that time, in that one place!
 
@@ -2883,7 +3107,7 @@ No, we're not.
 
 **Paimon:** ...
 
-...
+- **Traveler:** ...
 
 **Kaveh:** ...
 
@@ -2909,13 +3133,15 @@ No, we're not.
 
 **Paimon:** What!? That was a normal response! You exposed your own weakness!
 
+**Kaveh:** Still... Why do you have to treat me like he does?
+
 **Alhaitham:** Judging by the deafening din coming from the living room, you all must be getting along quite well.
 
 **Kaveh:** Hmph, entertain your own friends, why don't you?
 
 **Alhaitham:** I'll leave the books here.
 
-*You skim through a few pages, but its contents are too esoteric and difficult to understand...*
+You skim through a few pages, but its contents are too esoteric and difficult to understand...
 
 **Paimon:** Uh, Paimon's dizzy from reading... This is way too complicated... Why don't we just ask questions instead?
 
@@ -2955,13 +3181,21 @@ No, we're not.
 
 **Kaveh:** ...Are you all okay?
 
+##### Response branch 1
+
 - **Traveler:** To be more precise, they had it out for Alhaitham.
 
+##### Response branch 2
+
 - **Traveler:** We just happened to be there.
+
+##### Shared continuation
 
 **Kaveh:** Huh, so that's how things went...
 
 **Kaveh:** *sigh* Such is life. If only he'd known, Alhaitham could have stayed indoors today, and the whole thing could have been avoided. Right?
+
+**Kaveh:** Plus, he could have helped me with the housework for once. See those books? They've been sitting there waiting for someone to sort through them for an age. If you're not gonna read them, tidy them away! They don't belong there!
 
 **Paimon:** Ah... Uh...
 
@@ -2975,11 +3209,11 @@ No, we're not.
 
 **Kaveh:** You...! You don't understand anything! Stop criticizing my taste in decoration!
 
-(Kaveh seems to be upset again...)
+- **Traveler:** (Kaveh seems to be upset again...)
 
 **Paimon:** Paimon can't tell which of them is more problematic... Let's just get this over with and leave...
 
-I blame your curiosity, Paimon...
+- **Traveler:** I blame your curiosity, Paimon...
 
 **Alhaitham:** You whisper very loudly.
 
@@ -3005,7 +3239,7 @@ I blame your curiosity, Paimon...
 
 **Paimon:** Paimon doesn't have any more questions. How about you?
 
-What were you actually interested in, Alhaitham?
+- **Traveler:** What were you actually interested in, Alhaitham?
 
 **Paimon:** Ooh yeah, that's a good question.
 
@@ -3017,7 +3251,7 @@ What were you actually interested in, Alhaitham?
 
 **Alhaitham:** I now understand the reason.
 
-Something to do with the current atmosphere at the Akademiya, I suppose?
+- **Traveler:** Something to do with the current atmosphere at the Akademiya, I suppose?
 
 **Alhaitham:** Correct. The fall of the sages and the shutdown of the Akasha Terminals deeply affected the Akademiya.
 
@@ -3045,19 +3279,37 @@ Something to do with the current atmosphere at the Akademiya, I suppose?
 
 **Alhaitham:** If I serve as Acting Grand Sage for too long, the position might become permanent. That would be troublesome. This job isn't something I want to spend the rest of my life doing.
 
-You have a pretty clear direction for yourself.
+- **Traveler:** You have a pretty clear direction for yourself.
 
 **Alhaitham:** It's important to keep your priorities straight. Well, it's about time. You two should grab some dinner, as well.
 
 **Paimon:** Oh, now that you say that, Paimon's kinda hungry! See ya! We're gonna grab some yummies!
 
-Goodbye!
+- **Traveler:** Goodbye!
 
 **Alhaitham:** See ya.
 
-**Kaveh:** Still... Why do you have to treat me like he does?
+**Ilyas:** (I must... return... to the Hive.)
 
-**Kaveh:** Plus, he could have helped me with the housework for once. See those books? They've been sitting there waiting for someone to sort through them for an age. If you're not gonna read them, tidy them away! They don't belong there!
+**Member of the Collective Consciousness:** (I just have to stay here... Just follow the collective...)
+
+**Member of the Collective Consciousness:** (No need to choose, no responsibilities. Life has become so easy, just like that...)
+
+**Cyno:** (Sheep without a shepherd.)
+
+**Aarav:** (As expected of Mahamatra Cyno...)
+
+**Ilyas:** (Was I wrong?)
+
+**Karwan:** (What have I done?)
+
+**Goli:** (He's sure to get revenge on us!)
+
+**Pouyan:** (Pride and prejudice are frightening...)
+
+**Member of the Collective Consciousness:** ...
+
+**Member of the Collective Consciousness:** ...
 
 ## ZH
 
@@ -3111,7 +3363,7 @@ Goodbye!
 
 **派蒙:** 咦，你怎么了，身体不舒服吗？
 
-**伊利亚斯:** 风纪官…
+**？？？:** 风纪官…
 
 **派蒙:** 风纪官？
 
@@ -3126,6 +3378,12 @@ Goodbye!
 **伊利亚斯:** 拜托你们扶我一把，这件事很重要，绝对不能出差错。
 
 **派蒙:** 既然你都这么说了…好吧，我们带你去找风纪官！
+
+#### 前往寻找风纪官
+
+**兰丘:** 说起来，我有个老朋友也在蒙德，不如我们一起去？还能拜托他当导游，领我们到处逛逛。
+
+**皮雅:** 好呀，谢谢前辈。
 
 #### 与风纪官对话
 
@@ -3181,7 +3439,7 @@ Goodbye!
 
 **阿拉夫:** 劳烦两位在这稍等一会儿，我们很快就会回来。
 
-*等待的时间似乎比预期中更长一些…*
+等待的时间似乎比预期中更长一些…
 
 **派蒙:** 咦，艾尔海森？你怎么在这？
 
@@ -3217,6 +3475,8 @@ Goodbye!
 
 **派蒙:** 都说了我们要一起去啦！
 
+#### 前往酒馆
+
 #### 搜捕嫌疑人
 
 **阿拉夫:** 我们到了，艾尔海森大人。接下来该怎么做？
@@ -3241,7 +3501,7 @@ Goodbye!
 
 **艾尔海森:** 回答没水平的问题，是对发问者的纵容，而且我需要让他清楚地明白我的态度。
 
-什么意思？
+- **旅行者:** 什么意思？
 
 **艾尔海森:** 和你们一样，阿拉夫也疑惑我为什么会跟来。
 
@@ -3319,6 +3579,8 @@ Goodbye!
 
 **艾尔海森:** 跟我来。
 
+#### 寻找一个安静的地方
+
 #### 与艾尔海森对话
 
 **派蒙:** 结果西拉杰根本没来酒馆，纳兰德拉也没有什么线索…好像陷入僵局了。
@@ -3329,7 +3591,7 @@ Goodbye!
 
 **派蒙:** 欸？我没猜到呀，旅行者，你猜到了吗？
 
-你认识西拉杰？
+- **旅行者:** 你认识西拉杰？
 
 **艾尔海森:** 嗯，同届的同学。
 
@@ -3397,9 +3659,21 @@ Goodbye!
 
 **艾尔海森:** 我明白了。那就先去找那边的负责人，走吧。
 
+**兰丘:** （不知道学妹的课题还顺利吗？）
+
+**皮雅:** （松了口气…）
+
+**兰丘:** （好想跟学妹一起去蒙德玩啊。）
+
+**皮雅:** （难得的休息…）
+
+**阿拉夫:** （维护风纪，不能有丝毫懈怠。）
+
 ### 明察暗访
 
 伊利亚斯记得自己有两件不得不做的事，其中一件是去调研筹备处领取薪水。
+
+#### 前往调研筹备处
 
 #### 与调研筹备处负责人对话
 
@@ -3436,6 +3710,12 @@ Goodbye!
 **麦凯什:** 这样可以吗，艾尔海森大人？
 
 **艾尔海森:** 我没意见，就这么办吧。
+
+#### 前往寻找钱德拉
+
+**麦凯什:** 教令院最近的风气很奇怪，热衷调研的人突然减少了很多。
+
+**麦凯什:** 长此以往，可不是什么好事…
 
 #### 与钱德拉对话
 
@@ -3493,9 +3773,15 @@ Goodbye!
 
 **艾尔海森:** 那就是西拉杰研究的内容。和他当初提交的课题一样，叫做「集群意识与进化之路」。
 
+##### 对话分支 1
+
 - **旅行者:** 「集群意识」？
 
+##### 对话分支 2
+
 - **旅行者:** 「进化之路」？
+
+##### 共同后续
 
 **艾尔海森:** 西拉杰认为只要实现三点，就可以在人类社会中实现集群意识，帮助人类完成进化。
 
@@ -3505,7 +3791,7 @@ Goodbye!
 
 **艾尔海森:** 最后，集群成员必须有办法快速交换信息，最好是能够共享记忆与情感。
 
-……
+- **旅行者:** ……
 
 **派蒙:** 我还是不明白，这样有什么意义吗？
 
@@ -3549,6 +3835,10 @@ Goodbye!
 
 **钱德拉:** 你们要是感兴趣，不如找她问问？她平时会在花园的凉亭里看书。
 
+#### 前往寻找杰娜姬
+
+**钱德拉:** 嗯？几位还有什么事吗？
+
 #### 与杰娜姬对话
 
 **派蒙:** 你就是杰娜姬吗？我们想向你打听一下关于西拉杰的事情！
@@ -3591,7 +3881,7 @@ Goodbye!
 
 **艾尔海森:** 原来如此，他认为这个数据可以用来衡量人脑的运算能力…
 
-这是真的吗？
+- **旅行者:** 这是真的吗？
 
 **艾尔海森:** 先不提数据的真假，根据知能评价一个人原本就毫无意义。
 
@@ -3667,14 +3957,21 @@ Goodbye!
 
 **艾尔海森:** 嗯，近几年内的重要档案应该都在这里了。
 
+**麦凯什:** 这是你应得的薪酬，好好收着。下次记得提前请假。
 
-「贤者之位多有空缺，近来在须弥城散播各种消息的可疑人士明显增多。三十人团想招募人手进行盯梢，保证须弥城内太平安定…」
+**伊利亚斯:** 我明白，多谢您了。
 
-「梨多梵谛学院的怪人向来不少。近来又有新的传闻，据说一位学生有『天降论文』的本领。具体情况尚在调查之中…」
+**麦凯什:** 小事一桩。遇到什么麻烦，可以跟我讲。
 
-「有目击者称禅那园夜晚有神秘黑影徘徊，经调查并未发现可疑之处，已结案。」
+#### 等待艾尔海森查资料
 
-「近来禅那园一片祥和，未见明显异常。」
+- **旅行者:** 「贤者之位多有空缺，近来在须弥城散播各种消息的可疑人士明显增多。三十人团想招募人手进行盯梢，保证须弥城内太平安定…」
+
+- **旅行者:** 「梨多梵谛学院的怪人向来不少。近来又有新的传闻，据说一位学生有『天降论文』的本领。具体情况尚在调查之中…」
+
+- **旅行者:** 「有目击者称禅那园夜晚有神秘黑影徘徊，经调查并未发现可疑之处，已结案。」
+
+- **旅行者:** 「近来禅那园一片祥和，未见明显异常。」
 
 #### 与艾尔海森对话
 
@@ -3720,6 +4017,8 @@ Goodbye!
 
 **派蒙:** 那接下来就是去化城郭，把薪水交给伊利亚斯的妹妹吧？我们出发！
 
+#### 前往化城郭
+
 #### 与伊利亚斯的父母对话
 
 **伊利亚斯:** 应该就是这附近了。我想想，接下来应该是往这边走…
@@ -3746,13 +4045,13 @@ Goodbye!
 
 **派蒙:** 伊利亚斯好像不太希望他们知道自己失忆了…
 
-不想让家人担心吧。
+- **旅行者:** 不想让家人担心吧。
 
 **伊洁贝儿:** 好啦好啦，您两位也少说几句。大哥本来就头疼，等回去再念叨好不好？
 
 **伊洁贝儿:** 哥，我们换个地方说话吧。
 
-*伊利亚斯的妹妹带我们到了一个安静些的地方。*
+伊利亚斯的妹妹带我们到了一个安静些的地方。
 
 **伊洁贝儿:** 哥，你头疼好点了吗？
 
@@ -3782,7 +4081,7 @@ Goodbye!
 
 **伊洁贝儿:** 欸…等等，总觉得你有点眼熟，你是不是来过化城郭？
 
-**艾尔海森:** 比起我，这两位更适合朋友这个词。我的名字是艾尔海森，他们 / 她们是旅行者和派蒙。
+**艾尔海森:** 比起我，这两位更适合朋友这个词。我的名字是艾尔海森，他们是旅行者和派蒙。 / 比起我，这两位更适合朋友这个词。我的名字是艾尔海森，她们是旅行者和派蒙。
 
 **伊洁贝儿:** 啊！好像听谁说起过…不管怎么说，知道大哥有朋友，我就放心了。
 
@@ -3826,15 +4125,35 @@ Goodbye!
 
 **派蒙:** 也是，那我们现在就出发！
 
+**麦凯什:** （看在艾尔海森大人的面子上…）
+
+**钱德拉:** （今天的咖啡好苦…）
+
+**钱德拉:** （真好啊，我也想加入西拉杰的研究项目…）
+
+**伊利亚斯:** （可以给妹妹买条新裙子…）
+
+**麦凯什:** （伊利亚斯这小子，跟艾尔海森大人到底是什么关系？）
+
+**麦凯什:** （要处理的事也太多了…）
+
+**杰娜姬:** （今天那件首饰是不是买贵了？）
+
 ### 傲慢偏见
 
 在化城郭，伊利亚斯恢复了过去的记忆。他说自己想起来了西拉杰的藏身之所，跟他一起去看看吧。
+
+#### 前往西拉杰的藏身之所
 
 #### 与伊利亚斯对话
 
 **伊利亚斯:** 就是这里了。
 
 **派蒙:** 确实很隐蔽…不过没什么好怕的，我们进去看看！
+
+#### 进入实验基地
+
+#### 继续探索实验基地
 
 #### 与艾尔海森对话
 
@@ -3850,9 +4169,11 @@ Goodbye!
 
 **派蒙:** 好吧，那我们继续前进，到开阔的地方等他好了！
 
+#### 前往实验基地深处
+
 #### 倾听伊利亚斯的心声
 
-*突然的一阵眩晕过后，一些画面涌入脑海…*
+突然的一阵眩晕过后，一些画面涌入脑海…
 
 **拉杜:** 已经可以了，伊利亚斯。你为我做的已经足够多了…
 
@@ -3880,11 +4201,11 @@ Goodbye!
 
 **拉杜:** 好了，别说了。没事的，忍一忍就过去了。
 
-*画面到这里就结束了。*
+画面到这里就结束了。
 
 **派蒙:** 你怎么了？
 
-好像看到了伊利亚斯的过去。
+- **旅行者:** 好像看到了伊利亚斯的过去。
 
 **派蒙:** 欸？难道说，你其实有读心的能力？
 
@@ -3898,13 +4219,15 @@ Goodbye!
 
 **艾尔海森:** 有关集群意识的研究项目已经完成，现在，伊利亚斯正在回归集群。
 
-伊利亚斯骗了我们？
+- **旅行者:** 伊利亚斯骗了我们？
 
 **艾尔海森:** 这个说法不全面。继续往里走，你就知道了。
 
 #### 前往实验基地深处
 
-*新的画面浮现在脑海…*
+#### 倾听伊利亚斯的心声
+
+新的画面浮现在脑海…
 
 **杰娜姬:** 为了成全你一个人的名声，搭上了我们长达一年的努力。你知不知道你连累了多少人？
 
@@ -3926,17 +4249,19 @@ Goodbye!
 
 **杰娜姬:** 你不需要道歉，我也不会接受你的道歉。但你一定会为此付出代价的。
 
-*画面到这里就结束了。*
+画面到这里就结束了。
 
 **派蒙:** 别发呆啦，你又看到了什么吗？
 
-伊利亚斯…
+- **旅行者:** 伊利亚斯…
 
 **艾尔海森:** 别多想，有什么话当面问他就好。
 
+#### 前往实验基地深处
+
 #### 倾听伊利亚斯的心声
 
-*这次看到的画面十分清晰，也许是最近发生的事…*
+这次看到的画面十分清晰，也许是最近发生的事…
 
 **皮塔尔:** 奇怪，伊利亚斯，没有研究小组愿意要你吗？
 
@@ -3948,7 +4273,7 @@ Goodbye!
 
 **伊利亚斯:** ……
 
-**西拉杰:** 你看起来好像很苦恼。
+**？？？:** 你看起来好像很苦恼。
 
 **伊利亚斯:** 你是…？
 
@@ -3964,13 +4289,19 @@ Goodbye!
 
 **西拉杰:** 怎么样，要来试一试吗？
 
-*画面到这里就结束了。*
+画面到这里就结束了。
 
 **艾尔海森:** 看到了什么？
 
+##### 对话分支 1
+
 - **旅行者:** 西拉杰劝说伊利亚斯加入蜂巢。
 
+##### 对话分支 2
+
 - **旅行者:** 伊利亚斯并不是被强迫的。
+
+##### 共同后续
 
 **派蒙:** 居然是这样！他真的骗了我们，那个大坏蛋！
 
@@ -4108,9 +4439,9 @@ Goodbye!
 
 **艾尔海森:** 当伊利亚斯回归集群，他的记忆与情感会共享给其他成员，其中也包括对我的「认知」。
 
-**伊利亚斯:** 刚刚多谢你了，总觉得你也没有很让人讨厌啊。
+**回忆心声:** 刚刚多谢你了，总觉得你也没有很让人讨厌啊。
 
-**伊利亚斯:** 奇怪，当时为什么会有这样的想法呢？
+**回忆心声:** 奇怪，当时为什么会有这样的想法呢？
 
 **艾尔海森:** 这与你给予他们的憎恶相违背，两种不同的情感会带来全新的冲突。
 
@@ -4146,11 +4477,15 @@ Goodbye!
 
 **派蒙:** 好吧，虽然不知道你哪来的自信…不过我们上，尽可能拖住它们！
 
+#### 击败魔物
+
 #### 与西拉杰对话
 
 **西拉杰:** 看到了吗？这就是集群的意志。
 
 **西拉杰:** 纵使憎恶消失，他们依旧没有停下脚步，外在的异常根本无法动摇集群的稳定。
+
+#### 击败魔物
 
 #### 与西拉杰对话
 
@@ -4158,85 +4493,15 @@ Goodbye!
 
 **西拉杰:** 都安静点！我以主控意识的身份命令你们…
 
+#### 击败魔物
+
 #### 见证蜂巢内乱
-
-**卡万:** 完了完了，我竟然参与制定了这么多计划，想要干掉代理贤者？
-
-**卡万:** 我是哪根弦搭错了，居然搞出这种事…
-
-**戈莉:** 我们应该只是从犯，就怕艾尔海森给风纪官施压，重判我们。
-
-**戈莉:** 代理贤者、书记官，不管是哪个身份我们都得罪不起，以后在教令院的日子怕是难熬了。
-
-**普扬:** 先不谈以后的事。离开集群后，我隐约觉得有点愧疚。
-
-**普扬:** 之前没什么感觉，是因为艾尔海森本来就没什么名气，我所听到的评价也不是什么好话。
-
-**普扬:** 西拉杰让我们憎恨艾尔海森，我们只当他是个坏人，也就心安理得地接受了这种情绪。
-
-**普扬:** 现在看来，我们确实做了很多不合理的事。
-
-**卡万:** 这也算我们自作自受吧。唉…你们能帮我们向艾尔海森道个歉吗？
-
-**派蒙:** 好吧，我替你们跟艾尔海森说，不过他愿不愿意原谅你们，我就不知道了。
-
-**卡万:** 没事，不管他接不接受，我们心里都会好受一点。他如果记恨我们，我们也甘愿受罚。
-
-**阿拉夫:** 该走了。
-
-**戈莉:** 唉…走吧。
-
-**派蒙:** 他们…到底算不算「被蒙蔽」呢？
-
-**派蒙:** 等出去后，我们找机会问问艾尔海森吧。
-
-**伊利亚斯:** …看来，我还是做不了「西拉杰36号」，仍然要以伊利亚斯的身份活着。
-
-**伊利亚斯:** 在化城郭的时候，其实我也想过自己是不是应该站出来，把真相告诉你们。
-
-**伊利亚斯:** 但是…当时的我果然还是没有这个勇气。
-
-**伊利亚斯:** 到头来，我失去了曾经的正义感，却没有变得「合群」。
-
-**派蒙:** 伊利亚斯…
-
-**伊利亚斯:** 别难过，是我对不起你们。
-
-**伊利亚斯:** 不过，我也不是全无收获。蜂巢崩塌的那一瞬间，我的脑海中忽然有了一个念头。
-
-**伊利亚斯:** 原来我一直想要融入的「集群」，并没有我想象中的那么强大。
-
-**伊利亚斯:** 在明白这一点之后，心里不知道为什么又多了些许勇气…也许有一天，我也可以像艾尔海森那样，完全不在意他人的态度。
-
-**派蒙:** 嗯，我相信你肯定能做到的。
-
-**伊利亚斯:** 多谢。我也该走了，作为主要案犯之一，去接受审判。
-
-**伊利亚斯:** 这次的事情，可以先对我的父母与妹妹保密吗？我不希望他们再为我担心了。
-
-**伊利亚斯:** 另外，也替我向艾尔海森道歉。再见了，两位。
-
-**赛诺:** 所有的实验者我们都带走了。
-
-**赛诺:** 我会派人查封这里，回收资料、销毁装置。
-
-**赛诺:** 你们有受伤吗？我带了绷带和止血药。
-
-**派蒙:** 没事！嗯…就是有点累。
-
-**赛诺:** 早点休息。艾尔海森估计在门口等你们，没什么事就和他会合吧。
-
-**赛诺:** 注意安全，提防西拉杰还有潜藏的同伙。遇到解决不了的麻烦，就来教令院找我。
-
-**派蒙:** 好，赛诺也注意安全！
-
-**派蒙:** 旅行者，那我们就先去和艾尔海森会合吧！
 
 #### 与艾尔海森对话
 
 **派蒙:** 「蜂巢」…停止运行了吗？
 
-已经结束了。
+- **旅行者:** 已经结束了。
 
 **派蒙:** 刚刚到底发生了什么？
 
@@ -4246,7 +4511,7 @@ Goodbye!
 
 **艾尔海森:** 但这并不完美。基于这种逻辑，集群意识在处理负面情绪时，将产生难以抑制的扩散效应。
 
-「私欲」…
+- **旅行者:** 「私欲」…
 
 **艾尔海森:** 伊利亚斯所引发的骚动并非毫无意义，它让集群对主控意识产生了质疑。
 
@@ -4330,6 +4595,82 @@ Goodbye!
 
 **派蒙:** 他自顾自地走掉了。唔…这里有这么多实验者，我们还是先留下来看看吧。
 
+#### 与实验者对话
+
+**卡万:** 完了完了，我竟然参与制定了这么多计划，想要干掉代理贤者？
+
+**卡万:** 我是哪根弦搭错了，居然搞出这种事…
+
+**戈莉:** 我们应该只是从犯，就怕艾尔海森给风纪官施压，重判我们。
+
+**戈莉:** 代理贤者、书记官，不管是哪个身份我们都得罪不起，以后在教令院的日子怕是难熬了。
+
+**普扬:** 先不谈以后的事。离开集群后，我隐约觉得有点愧疚。
+
+**普扬:** 之前没什么感觉，是因为艾尔海森本来就没什么名气，我所听到的评价也不是什么好话。
+
+**普扬:** 西拉杰让我们憎恨艾尔海森，我们只当他是个坏人，也就心安理得地接受了这种情绪。
+
+**普扬:** 现在看来，我们确实做了很多不合理的事。
+
+**卡万:** 这也算我们自作自受吧。唉…你们能帮我们向艾尔海森道个歉吗？
+
+**派蒙:** 好吧，我替你们跟艾尔海森说，不过他愿不愿意原谅你们，我就不知道了。
+
+**卡万:** 没事，不管他接不接受，我们心里都会好受一点。他如果记恨我们，我们也甘愿受罚。
+
+**阿拉夫:** 该走了。
+
+**戈莉:** 唉…走吧。
+
+**派蒙:** 他们…到底算不算「被蒙蔽」呢？
+
+**派蒙:** 等出去后，我们找机会问问艾尔海森吧。
+
+**伊利亚斯:** …看来，我还是做不了「西拉杰36号」，仍然要以伊利亚斯的身份活着。
+
+**伊利亚斯:** 在化城郭的时候，其实我也想过自己是不是应该站出来，把真相告诉你们。
+
+**伊利亚斯:** 但是…当时的我果然还是没有这个勇气。
+
+**伊利亚斯:** 到头来，我失去了曾经的正义感，却没有变得「合群」。
+
+**派蒙:** 伊利亚斯…
+
+**伊利亚斯:** 别难过，是我对不起你们。
+
+**伊利亚斯:** 不过，我也不是全无收获。蜂巢崩塌的那一瞬间，我的脑海中忽然有了一个念头。
+
+**伊利亚斯:** 原来我一直想要融入的「集群」，并没有我想象中的那么强大。
+
+**伊利亚斯:** 在明白这一点之后，心里不知道为什么又多了些许勇气…也许有一天，我也可以像艾尔海森那样，完全不在意他人的态度。
+
+**派蒙:** 嗯，我相信你肯定能做到的。
+
+**伊利亚斯:** 多谢。我也该走了，作为主要案犯之一，去接受审判。
+
+**伊利亚斯:** 这次的事情，可以先对我的父母与妹妹保密吗？我不希望他们再为我担心了。
+
+**伊利亚斯:** 另外，也替我向艾尔海森道歉。再见了，两位。
+
+**赛诺:** 所有的实验者我们都带走了。
+
+**赛诺:** 我会派人查封这里，回收资料、销毁装置。
+
+**赛诺:** 你们有受伤吗？我带了绷带和止血药。
+
+**派蒙:** 没事！嗯…就是有点累。
+
+**赛诺:** 早点休息。艾尔海森估计在门口等你们，没什么事就和他会合吧。
+
+**赛诺:** 注意安全，提防西拉杰还有潜藏的同伙。遇到解决不了的麻烦，就来教令院找我。
+
+**派蒙:** 好，赛诺也注意安全！
+
+**派蒙:** 旅行者，那我们就先去和艾尔海森会合吧！
+
+#### 离开秘境
+
 #### 与艾尔海森对话
 
 **艾尔海森:** 事情顺利解决，可以回去了。
@@ -4338,9 +4679,15 @@ Goodbye!
 
 **艾尔海森:** 看你们的表情，好像还有很多问题想问？
 
+##### 对话分支 1
+
 - **旅行者:** 没错。
 
+##### 对话分支 2
+
 - **旅行者:** 我很好奇。
+
+##### 共同后续
 
 **艾尔海森:** 尊重你的好奇心，但现在是下班时间，我不会回答了。
 
@@ -4368,6 +4715,8 @@ Goodbye!
 
 **艾尔海森:** 到了就知道了。
 
+#### 跟随艾尔海森
+
 #### 听听艾尔海森的想法
 
 **派蒙:** 这是…你家？
@@ -4376,13 +4725,13 @@ Goodbye!
 
 **派蒙:** 居然请我们到你家做客…啊哈哈，怎么这么客气了…
 
-**卡维:** 你回来了？快来帮我看看挂画这样摆正不正…呃！这些是谁啊？！
+**？？？:** 你回来了？快来帮我看看挂画这样摆正不正…呃！这些是谁啊？！
 
 **艾尔海森:** 大惊小怪，这明显是客人。
 
 **卡维:** 你们…你们应该不是教令院的人吧？
 
-不是哦。
+- **旅行者:** 不是哦。
 
 **派蒙:** 我好像在哪里见过你…唔…欸？！是那时候那个人！
 
@@ -4402,7 +4751,7 @@ Goodbye!
 
 **派蒙:** ……
 
-……
+- **旅行者:** ……
 
 **卡维:** ……
 
@@ -4428,13 +4777,15 @@ Goodbye!
 
 **派蒙:** 什么啊！很正常的反应吧！是你自己暴露了弱点的啊！
 
+**卡维:** 那…那你也不能像他一样对我吧？
+
 **艾尔海森:** 我看你们挺合得来，客厅里全是你们的噪音。
 
 **卡维:** 哼，自己的朋友麻烦你亲自招待。
 
 **艾尔海森:** 书我放这里了。
 
-*粗略读了读面前的书。但内容有些深奥，一时难以消化…*
+粗略读了读面前的书。但内容有些深奥，一时难以消化…
 
 **派蒙:** 看晕了…好复杂好绕啊，要不我们还是提问吧…
 
@@ -4474,13 +4825,21 @@ Goodbye!
 
 **卡维:** 针对…你们没事吧？
 
+##### 对话分支 1
+
 - **旅行者:** 主要是针对艾尔海森。
 
+##### 对话分支 2
+
 - **旅行者:** 我们只是不巧也在场。
+
+##### 共同后续
 
 **卡维:** 这样啊…
 
 **卡维:** 唉，人生就是会有麻烦啊。早知道今天别出门，就不会遇到那些烦心事了…对吧？
+
+**卡维:** 还不如在家帮我大扫除呢，你看那边那些书，很久没打理过了。既然是平时不看的书就别堆在外面啊！
 
 **派蒙:** 呃…呃…
 
@@ -4494,11 +4853,11 @@ Goodbye!
 
 **卡维:** 你…！你根本什么都不懂，少对我的装修品味指手画脚！
 
-（卡维好像又生气了…）
+- **旅行者:** （卡维好像又生气了…）
 
 **派蒙:** 我都说不清他们谁更有问题…快点聊完走吧…
 
-都怪派蒙的好奇心…
+- **旅行者:** 都怪派蒙的好奇心…
 
 **艾尔海森:** 说悄悄话的声音有点响啊。
 
@@ -4524,7 +4883,7 @@ Goodbye!
 
 **派蒙:** 嗯…我好像没什么想问的了，你呢？
 
-你「感兴趣」的到底是什么？
+- **旅行者:** 你「感兴趣」的到底是什么？
 
 **派蒙:** 嗯…确实很让人好奇。
 
@@ -4536,7 +4895,7 @@ Goodbye!
 
 **艾尔海森:** 现在我已经明白原因了。
 
-跟教令院的风气有关？
+- **旅行者:** 跟教令院的风气有关？
 
 **艾尔海森:** 没错。贤者倒台，虚空装置关停，这些都影响到了教令院的氛围。
 
@@ -4564,16 +4923,34 @@ Goodbye!
 
 **艾尔海森:** 代理贤者当得太久，很可能会被转正。那就是大麻烦了，我不想把人生耗费在上面。
 
-方向真明确。
+- **旅行者:** 方向真明确。
 
 **艾尔海森:** 清醒很重要。好了，时间差不多，你们或许也该去吃个晚饭了。
 
 **派蒙:** 这么一说我确实饿了，那再见啦，我们要去吃好吃的了！
 
-再见啦！
+- **旅行者:** 再见啦！
 
 **艾尔海森:** 再见。
 
-**卡维:** 那…那你也不能像他一样对我吧？
+**伊利亚斯:** （我必须…回到…蜂巢。）
 
-**卡维:** 还不如在家帮我大扫除呢，你看那边那些书，很久没打理过了。既然是平时不看的书就别堆在外面啊！
+**「集群」成员:** （我只要呆在这里就好…只要跟随集群行动就好…）
+
+**「集群」成员:** （无需选择，无需负责，人生一下子就轻松了啊…）
+
+**赛诺:** （乌合之众。）
+
+**阿拉夫:** （不愧是赛诺大人…）
+
+**伊利亚斯:** （是我错了吗。）
+
+**卡万:** （我都做了些什么？）
+
+**戈莉:** （他肯定会报复我们的！）
+
+**普扬:** （傲慢与偏见真是可怕…）
+
+**「集群」成员:** ……
+
+**「集群」成员:** ……

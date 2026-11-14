@@ -1,0 +1,735 @@
+{
+  "id": "material_set_112152",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/item_112152.webp",
+  "title": {
+    "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+    "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+    "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+  },
+  "region": "Снежная",
+  "rarity": null,
+  "game_version": "7.0",
+  "tags": [
+    "материалы"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "channel_contact",
+    "fanged_zealot",
+    "leomastiff_guard",
+    "long_eared_striker",
+    "volkodlak_basher",
+    "volkodlak_lobber",
+    "volkodlak_raider",
+    "volkodlak_sharpshooter",
+    "voywolf_hunter"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "channel_contact",
+      "title": {
+        "ru": "Связной канала",
+        "en": "Channel Contact",
+        "zh": "渠道联络人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/channel_contact.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Хитрый волкодлак, маскирующий ручную пушку под древесный ствол.\nБлагодаря мастерству маскировки оружия и грузов ему часто поручают перевозку товаров и передачу важных сведений.\nСвою ручную пушку он, вероятно, тоже изготовил сам в свободное время. Иногда из неё даже запускают сигнальные ракеты, замаскированные под фейерверки.\nНе позволяйте внешности ввести себя в заблуждение - перед вами чрезвычайно расчётливый и хитрый альв.",
+        "en": "A cunning Volkodlak that disguises its hand cannon as a tree trunk.\nSkilled at disguising the weapons and cargo they carry, they are often entrusted with transporting goods or relaying intelligence.\nThe hand cannon they carry was likely something they made in their spare time. At times, they also use it to fire signal rounds disguised as fireworks.\nDon't be fooled by their appearance. These fae are far more shrewd and cunning than they seem.",
+        "zh": "将手砲伪装成树干的狡猾兽怪。\n因为擅长对手头上的武器和货物进行伪装，所以经常被委托进行运送货物或者传递情报之类的工作。\n手中的手砲想必也是利用闲暇之余制作的吧。有的时候也会用手砲发射伪装成烟花的信号弹。\n不要被其外表欺骗，实则是相当精明和狡猾的妖精。"
+      },
+      "description": {
+        "ru": "Хитрый волкодлак, маскирующий ручную пушку под древесный ствол.\nБлагодаря мастерству маскировки оружия и грузов ему часто поручают перевозку товаров и передачу важных сведений.\nСвою ручную пушку он, вероятно, тоже изготовил сам в свободное время. Иногда из неё даже запускают сигнальные ракеты, замаскированные под фейерверки.\nНе позволяйте внешности ввести себя в заблуждение - перед вами чрезвычайно расчётливый и хитрый альв.",
+        "en": "A cunning Volkodlak that disguises its hand cannon as a tree trunk.\nSkilled at disguising the weapons and cargo they carry, they are often entrusted with transporting goods or relaying intelligence.\nThe hand cannon they carry was likely something they made in their spare time. At times, they also use it to fire signal rounds disguised as fireworks.\nDon't be fooled by their appearance. These fae are far more shrewd and cunning than they seem.",
+        "zh": "将手砲伪装成树干的狡猾兽怪。\n因为擅长对手头上的武器和货物进行伪装，所以经常被委托进行运送货物或者传递情报之类的工作。\n手中的手砲想必也是利用闲暇之余制作的吧。有的时候也会用手砲发射伪装成烟花的信号弹。\n不要被其外表欺骗，实则是相当精明和狡猾的妖精。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fanged_zealot",
+      "title": {
+        "ru": "Безумец с бивнями",
+        "en": "Fanged Zealot",
+        "zh": "牙兽狂徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fanged_zealot.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nСреди всех волкодлаков именно те, что обликом напоминают гигантских слонов или мамонтов, принадлежат к самым благородным кровным линиям. В прошлом их кланы дали миру множество выдающихся полководцев, а многие даже входили в личную свиту Царя Зверей.\nОднако чем сильнее отдельный альв и чем дольше он живёт, тем труднее ему образовать многочисленное сообщество. Поэтому в современной Снежной такие волкодлаки встречаются гораздо реже остальных.",
+        "en": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\nAmong the many different Volkodlaks, those resembling giant elephants or mammoths possess some of the noblest bloodlines. Their clan once produced many formidable war leaders, many of whom even served as close retainers to the King of Beasts.\nYet the greater an individual fae's power and the longer its life, the harder it becomes for such beings to form a clan. Compared with other Volkodlaks, this type is now far rarer in Snezhnaya.",
+        "zh": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\n在诸多不同的兽怪之中，形如巨象或猛犸的兽怪也是血脉最为高贵的一类。从前他们的氏族中多是了不起的战将，其中许多甚至是兽之王的长随。\n只不过个体力量越是强大，寿命越是悠久的妖精，就越发难以构成族群。相较其他兽怪，在如今的至冬，这类兽怪要罕见许多。"
+      },
+      "description": {
+        "ru": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nСреди всех волкодлаков именно те, что обликом напоминают гигантских слонов или мамонтов, принадлежат к самым благородным кровным линиям. В прошлом их кланы дали миру множество выдающихся полководцев, а многие даже входили в личную свиту Царя Зверей.\nОднако чем сильнее отдельный альв и чем дольше он живёт, тем труднее ему образовать многочисленное сообщество. Поэтому в современной Снежной такие волкодлаки встречаются гораздо реже остальных.",
+        "en": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\nAmong the many different Volkodlaks, those resembling giant elephants or mammoths possess some of the noblest bloodlines. Their clan once produced many formidable war leaders, many of whom even served as close retainers to the King of Beasts.\nYet the greater an individual fae's power and the longer its life, the harder it becomes for such beings to form a clan. Compared with other Volkodlaks, this type is now far rarer in Snezhnaya.",
+        "zh": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\n在诸多不同的兽怪之中，形如巨象或猛犸的兽怪也是血脉最为高贵的一类。从前他们的氏族中多是了不起的战将，其中许多甚至是兽之王的长随。\n只不过个体力量越是强大，寿命越是悠久的妖精，就越发难以构成族群。相较其他兽怪，在如今的至冬，这类兽怪要罕见许多。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "leomastiff_guard",
+      "title": {
+        "ru": "Левмастиф-страж",
+        "en": "Leomastiff Guard",
+        "zh": "狮獒护卫"
+      },
+      "icon": "assets/icons/enemies/common_enemies/leomastiff_guard.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Волкодлак из псового клана, обычно производящий впечатление ленивого.\nСреди множества кланов волкодлаков именно псовый клан пользуется наилучшей репутацией. Они преданны, дружелюбны и, как правило, обладают спокойным нравом. Но стоит тому, кому они поклялись служить, или близкому другу оказаться в опасности - и они с яростью обрушиваются на врага.\nГоворят, в древней войне их клан до последнего защищал своего владыку от царя, и именно этим заслужил его уважение.",
+        "en": "A Volkodlak of the canine clans that usually appears somewhat lazy.\nAmong the many Volkodlak clans, the canine clans have always enjoyed a better reputation. Loyal, friendly, and usually mild-mannered. Though they will turn ferocious when those they have sworn to serve, or friends they know well, are placed in danger, striking down anyone they deem enemies.\nIt is said that during a war long ago, their clan fought His Majesty the Tsar to the last in defense of their own king, and for this, earned His Majesty's favor.",
+        "zh": "平时看上去有些慵懒的犬类氏族的兽怪。\n在诸多不同种类的兽怪氏族中，犬类氏族的名声总是会更好一些，它们忠诚、友好、大多数时候性格相对温顺。但是当宣誓效忠的对象或是熟识的朋友陷入危险之时，则会以狂暴的姿态击倒被视为敌人的对象。\n据说在从前的战争中，他们的氏族曾为了他们的王抵抗沙皇陛下直到最后一刻，却因此获得了沙皇陛下的青睐。"
+      },
+      "description": {
+        "ru": "Волкодлак из псового клана, обычно производящий впечатление ленивого.\nСреди множества кланов волкодлаков именно псовый клан пользуется наилучшей репутацией. Они преданны, дружелюбны и, как правило, обладают спокойным нравом. Но стоит тому, кому они поклялись служить, или близкому другу оказаться в опасности - и они с яростью обрушиваются на врага.\nГоворят, в древней войне их клан до последнего защищал своего владыку от царя, и именно этим заслужил его уважение.",
+        "en": "A Volkodlak of the canine clans that usually appears somewhat lazy.\nAmong the many Volkodlak clans, the canine clans have always enjoyed a better reputation. Loyal, friendly, and usually mild-mannered. Though they will turn ferocious when those they have sworn to serve, or friends they know well, are placed in danger, striking down anyone they deem enemies.\nIt is said that during a war long ago, their clan fought His Majesty the Tsar to the last in defense of their own king, and for this, earned His Majesty's favor.",
+        "zh": "平时看上去有些慵懒的犬类氏族的兽怪。\n在诸多不同种类的兽怪氏族中，犬类氏族的名声总是会更好一些，它们忠诚、友好、大多数时候性格相对温顺。但是当宣誓效忠的对象或是熟识的朋友陷入危险之时，则会以狂暴的姿态击倒被视为敌人的对象。\n据说在从前的战争中，他们的氏族曾为了他们的王抵抗沙皇陛下直到最后一刻，却因此获得了沙皇陛下的青睐。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "long_eared_striker",
+      "title": {
+        "ru": "Длинноухий штурмовик",
+        "en": "Long-Eared Striker",
+        "zh": "长耳强袭者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/long_eared_striker.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Волкодлак, обычно скрывающий своё стройное тело под плащом и предпочитающий действовать незаметно.\nГоворят, когда-то мастера Золотого города, владевшие силой творения, создавали тела альвов для самых разных целей, а этот вид волкодлаков был создан, чтобы испытать пределы способности к размножению.\nОднако после катастрофы, превратившей Золотое царство в руины, длинноухий народ сумел сохраниться благодаря своей многочисленности.\nТеперь они сами распоряжаются собственной судьбой. А их ловкость, позволяющая легко передвигаться даже по глубокому снегу, делает их опасными противниками для путников, пересекающих снежные равнины.",
+        "en": "A Volkodlak that usually conceals its slender body beneath a cloak and moves in secrecy.\nIt is said that long ago, the artisans of the Golden City, who held the authority of creation, fashioned bodies for fae for many different purposes. This type of Volkodlak was originally created to test the limits of reproductive capability.\nYet after the calamity that reduced that golden realm to ruins, the long-eared clan survived to the present day thanks to their great numbers.\nNow, they are masters of their own bodies. Agile enough to move deftly even across snow, they have become a threat that those crossing the snowy plains must handle with care.",
+        "zh": "平时将纤细的身躯藏在斗篷之下隐秘行动的兽怪。\n据说从前，掌握了创生权能的黄金城的工匠们为诸多目的打造妖灵的身躯，而此等类型的兽怪本为测试繁育能力的极限所造。\n只不过在经历令那黄金的国度都化作遗迹的打击之后，长耳的一族因族众甚多残留到了今日。\n如今，他们已是自己身躯的主人。而在雪地也能灵巧活动的敏捷，令他们成为了穿越雪原的人们需要小心应对的威胁。"
+      },
+      "description": {
+        "ru": "Волкодлак, обычно скрывающий своё стройное тело под плащом и предпочитающий действовать незаметно.\nГоворят, когда-то мастера Золотого города, владевшие силой творения, создавали тела альвов для самых разных целей, а этот вид волкодлаков был создан, чтобы испытать пределы способности к размножению.\nОднако после катастрофы, превратившей Золотое царство в руины, длинноухий народ сумел сохраниться благодаря своей многочисленности.\nТеперь они сами распоряжаются собственной судьбой. А их ловкость, позволяющая легко передвигаться даже по глубокому снегу, делает их опасными противниками для путников, пересекающих снежные равнины.",
+        "en": "A Volkodlak that usually conceals its slender body beneath a cloak and moves in secrecy.\nIt is said that long ago, the artisans of the Golden City, who held the authority of creation, fashioned bodies for fae for many different purposes. This type of Volkodlak was originally created to test the limits of reproductive capability.\nYet after the calamity that reduced that golden realm to ruins, the long-eared clan survived to the present day thanks to their great numbers.\nNow, they are masters of their own bodies. Agile enough to move deftly even across snow, they have become a threat that those crossing the snowy plains must handle with care.",
+        "zh": "平时将纤细的身躯藏在斗篷之下隐秘行动的兽怪。\n据说从前，掌握了创生权能的黄金城的工匠们为诸多目的打造妖灵的身躯，而此等类型的兽怪本为测试繁育能力的极限所造。\n只不过在经历令那黄金的国度都化作遗迹的打击之后，长耳的一族因族众甚多残留到了今日。\n如今，他们已是自己身躯的主人。而在雪地也能灵巧活动的敏捷，令他们成为了穿越雪原的人们需要小心应对的威胁。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "volkodlak_basher",
+      "title": {
+        "ru": "Волкодлак-громила",
+        "en": "Volkodlak Basher",
+        "zh": "兽怪敲打者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/volkodlak_basher.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\nОбладая звериной силой и человекоподобным телом, они инстинктивно умеют использовать свою физическую мощь. Если неподготовленный человек с оружием вступит в бой с таким волкодлаком, победитель не вызовет никаких сомнений.",
+        "en": "A relatively large and powerfully built type of Volkodlak found among the many that roam Snezhnaya.\nWith the strength of beasts and humanoid bodies, they possess a feral instinct for bringing their own power to bear. Should an untrained human face such a Volkodlak with weapons in hand, victory would undoubtedly belong to the latter.",
+        "zh": "在至冬的诸多兽怪之中，相对壮硕的那类。\n拥有野兽的力量和类人的躯体，在驱使自身的力量上有一种天然的野性的本能。如果是未经受训练的人类和这种兽怪用武器对峙的话，获胜的毫无疑问将是后者。"
+      },
+      "description": {
+        "ru": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\nОбладая звериной силой и человекоподобным телом, они инстинктивно умеют использовать свою физическую мощь. Если неподготовленный человек с оружием вступит в бой с таким волкодлаком, победитель не вызовет никаких сомнений.",
+        "en": "A relatively large and powerfully built type of Volkodlak found among the many that roam Snezhnaya.\nWith the strength of beasts and humanoid bodies, they possess a feral instinct for bringing their own power to bear. Should an untrained human face such a Volkodlak with weapons in hand, victory would undoubtedly belong to the latter.",
+        "zh": "在至冬的诸多兽怪之中，相对壮硕的那类。\n拥有野兽的力量和类人的躯体，在驱使自身的力量上有一种天然的野性的本能。如果是未经受训练的人类和这种兽怪用武器对峙的话，获胜的毫无疑问将是后者。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "volkodlak_lobber",
+      "title": {
+        "ru": "Волкодлак-метатель",
+        "en": "Volkodlak Lobber",
+        "zh": "兽怪投掷者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/volkodlak_lobber.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\nОбладая звериной силой и человекоподобным телом, они способны метать предметы с огромной силой и поразительной точностью. Волкодлаки не слишком искусны в конструировании из вечного льда и управлении стихиями, однако по владению собственным телом они по праву входят в число сильнейших среди многочисленных народов альвов.",
+        "en": "A relatively large and powerfully built type of Volkodlak found among the many that roam Snezhnaya.\nWith the strength of beasts and humanoid bodies, their powerful upper bodies allow them to throw with greater force and precision. Volkodlak may not excel at shaping Prime Ice or wielding elemental power, but among the many fae lineages, few can match their command over physical strength.",
+        "zh": "在至冬的诸多兽怪之中，相对壮硕的那类。\n拥有野兽的力量和类人的躯体，强壮的上肢力量令他们在进行投掷时能拥有更强的威力和更高的精准度。兽怪或许并不精通臻冰凝造的技艺或是元素力的使用，但是要说到对于身躯力量的掌控，在诸多妖精的族裔中也能算得上名列前茅。"
+      },
+      "description": {
+        "ru": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\nОбладая звериной силой и человекоподобным телом, они способны метать предметы с огромной силой и поразительной точностью. Волкодлаки не слишком искусны в конструировании из вечного льда и управлении стихиями, однако по владению собственным телом они по праву входят в число сильнейших среди многочисленных народов альвов.",
+        "en": "A relatively large and powerfully built type of Volkodlak found among the many that roam Snezhnaya.\nWith the strength of beasts and humanoid bodies, their powerful upper bodies allow them to throw with greater force and precision. Volkodlak may not excel at shaping Prime Ice or wielding elemental power, but among the many fae lineages, few can match their command over physical strength.",
+        "zh": "在至冬的诸多兽怪之中，相对壮硕的那类。\n拥有野兽的力量和类人的躯体，强壮的上肢力量令他们在进行投掷时能拥有更强的威力和更高的精准度。兽怪或许并不精通臻冰凝造的技艺或是元素力的使用，但是要说到对于身躯力量的掌控，在诸多妖精的族裔中也能算得上名列前茅。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "volkodlak_raider",
+      "title": {
+        "ru": "Волкодлак-налётчик",
+        "en": "Volkodlak Raider",
+        "zh": "兽怪捷掠者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/volkodlak_raider.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Среди многочисленных волкодлаков Снежной эта разновидность отличается небольшими размерами и превосходной ловкостью.\nИменно благодаря своей проворности и чувствам, значительно превосходящим человеческие, они способны инстинктивно уклоняться от множества атак, что делает их крайне опасными противниками в ближнем бою.",
+        "en": "A relatively small and agile type of Volkodlak found among the many that roam Snezhnaya.\nWith their swift movements and senses keener than a human's, they can evade many attacks in battle by instinct alone, making them quite troublesome opponents in close-quarters combat.",
+        "zh": "在至冬的诸多兽怪之中，相对小巧和敏捷的那类。\n正是因为行为敏捷，而五感要比人类更为敏锐，在战斗中可以依靠直觉躲避很多攻击，在近距离缠斗时是相当麻烦的对手。"
+      },
+      "description": {
+        "ru": "Среди многочисленных волкодлаков Снежной эта разновидность отличается небольшими размерами и превосходной ловкостью.\nИменно благодаря своей проворности и чувствам, значительно превосходящим человеческие, они способны инстинктивно уклоняться от множества атак, что делает их крайне опасными противниками в ближнем бою.",
+        "en": "A relatively small and agile type of Volkodlak found among the many that roam Snezhnaya.\nWith their swift movements and senses keener than a human's, they can evade many attacks in battle by instinct alone, making them quite troublesome opponents in close-quarters combat.",
+        "zh": "在至冬的诸多兽怪之中，相对小巧和敏捷的那类。\n正是因为行为敏捷，而五感要比人类更为敏锐，在战斗中可以依靠直觉躲避很多攻击，在近距离缠斗时是相当麻烦的对手。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "volkodlak_sharpshooter",
+      "title": {
+        "ru": "Волкодлак-снайпер",
+        "en": "Volkodlak Sharpshooter",
+        "zh": "兽怪瞄击者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/volkodlak_sharpshooter.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Среди многочисленных волкодлаков Снежной эта разновидность отличается небольшими размерами и высокой ловкостью.\nИх чувства острее человеческих: будь то ощущение силы ветра или зрение в особых условиях. Благодаря этому они стреляют из луков, арбалетов и огнестрельного оружия на больших дистанциях значительно точнее обычного человека.",
+        "en": "A relatively small and agile type of Volkodlak found among the many that roam Snezhnaya.\nThey possess senses keener than those of humans. Whether in their perception of wind speed or their vision under certain conditions, these traits give them unique advantages, allowing them to achieve far greater accuracy than ordinary people when firing bows, crossbows, or cannons from long range.",
+        "zh": "在至冬的诸多兽怪之中，相对小巧和敏捷的那类。\n拥有比人类更敏锐的感官，不管是对于风速的感受，还是在特定环境下的视力都成为了他们独有的优势，能让他们在进行远距离的弓弩或火炮射击时命中率要远远高于常人。"
+      },
+      "description": {
+        "ru": "Среди многочисленных волкодлаков Снежной эта разновидность отличается небольшими размерами и высокой ловкостью.\nИх чувства острее человеческих: будь то ощущение силы ветра или зрение в особых условиях. Благодаря этому они стреляют из луков, арбалетов и огнестрельного оружия на больших дистанциях значительно точнее обычного человека.",
+        "en": "A relatively small and agile type of Volkodlak found among the many that roam Snezhnaya.\nThey possess senses keener than those of humans. Whether in their perception of wind speed or their vision under certain conditions, these traits give them unique advantages, allowing them to achieve far greater accuracy than ordinary people when firing bows, crossbows, or cannons from long range.",
+        "zh": "在至冬的诸多兽怪之中，相对小巧和敏捷的那类。\n拥有比人类更敏锐的感官，不管是对于风速的感受，还是在特定环境下的视力都成为了他们独有的优势，能让他们在进行远距离的弓弩或火炮射击时命中率要远远高于常人。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "voywolf_hunter",
+      "title": {
+        "ru": "Ловчий воющих волков",
+        "en": "Voywolf Hunter",
+        "zh": "嗥狼追猎者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/voywolf_hunter.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nКогда-то его клан был настолько могущественным, что мог выставить собственное войско под началом Царя Зверей. Но после того как Белый царь, владыка Двора Бледной звезды, объединил все земли вечной мерзлоты, клан, почти не понёсший потерь в войне, оказался под подозрением, постепенно пришёл в упадок и ко времени восшествия Ледяной Царицы окончательно покинул центр власти Снежной. Сегодня большинство волкодлаков волчьего рода обитают среди снежных равнин и горных лесов.",
+        "en": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\nTheir clan once prospered to the point that they could serve as an independent army under the King of Beasts. Yet after the Belyi Tsar, master of the Pale Star's royal court, unified the frozen lands, the clan's relatively small losses in the war caused them to fall under suspicion. They gradually declined, and by the time the Tsaritsa ascended the throne, they had withdrawn from the center of power in Snezhnaya. Today, most wolf-pack Volkodlak make their homes in the snowy plains and mountain forests.",
+        "zh": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\n其曾经的氏族曾一度昌盛到能够在兽之王的麾下独立成军，而在白沙皇作为苍星王廷的主人统一冻土全境之后，在战争中没有太大损失的氏族却不被信任，逐渐衰落，于冰之女皇登临王座时期离开了至冬权力的中心。如今群狼的兽怪大多寓居于雪原与山林之中。"
+      },
+      "description": {
+        "ru": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nКогда-то его клан был настолько могущественным, что мог выставить собственное войско под началом Царя Зверей. Но после того как Белый царь, владыка Двора Бледной звезды, объединил все земли вечной мерзлоты, клан, почти не понёсший потерь в войне, оказался под подозрением, постепенно пришёл в упадок и ко времени восшествия Ледяной Царицы окончательно покинул центр власти Снежной. Сегодня большинство волкодлаков волчьего рода обитают среди снежных равнин и горных лесов.",
+        "en": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\nTheir clan once prospered to the point that they could serve as an independent army under the King of Beasts. Yet after the Belyi Tsar, master of the Pale Star's royal court, unified the frozen lands, the clan's relatively small losses in the war caused them to fall under suspicion. They gradually declined, and by the time the Tsaritsa ascended the throne, they had withdrawn from the center of power in Snezhnaya. Today, most wolf-pack Volkodlak make their homes in the snowy plains and mountain forests.",
+        "zh": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\n其曾经的氏族曾一度昌盛到能够在兽之王的麾下独立成军，而在白沙皇作为苍星王廷的主人统一冻土全境之后，在战争中没有太大损失的氏族却不被信任，逐渐衰落，于冰之女皇登临王座时期离开了至冬权力的中心。如今群狼的兽怪大多寓居于雪原与山林之中。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112152",
+          "title": {
+            "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+            "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+            "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112152",
+              "title": {
+                "ru": "Наросший осколок",
+                "en": "Accreted Fragment",
+                "zh": "沉积残片"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112152.webp"
+            },
+            {
+              "key": "material_112153",
+              "title": {
+                "ru": "Осадочный сгусток",
+                "en": "Accreted Mass",
+                "zh": "沉积结块"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112153.webp"
+            },
+            {
+              "key": "material_112154",
+              "title": {
+                "ru": "Осадочный нарост",
+                "en": "Accreted Growth",
+                "zh": "沉积增生物"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112154.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 9,
+  "item_group": "common_enemies",
+  "entry_type": "material_set",
+  "materials": [
+    {
+      "key": "material_112152",
+      "title": {
+        "ru": "Наросший осколок",
+        "en": "Accreted Fragment",
+        "zh": "沉积残片"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112152.webp",
+      "text": {
+        "ru": "Остаточные отложения, образованные могучими волкодлаками.\nОтложения, которые поначалу прикрепляются к внутренним органам или костям, по мере роста силы, возможно, полностью покроют определённую часть тела или определённый орган.",
+        "en": "An accretion formed by powerful Volkodlak.\nAn accretion that has only just begun to attach to an internal organ or bone. As the Volkodlak's power grows, it may eventually cover an entire region of the body, or a whole organ.",
+        "zh": "力量强大的兽怪形成的残积物。\n刚开始在体内器官或骨骼上附着的残积物，随着力量的增长，或许会完整覆盖某一片躯体或某一个器官吧。"
+      }
+    },
+    {
+      "key": "material_112153",
+      "title": {
+        "ru": "Осадочный сгусток",
+        "en": "Accreted Mass",
+        "zh": "沉积结块"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112153.webp",
+      "text": {
+        "ru": "Остаточные отложения, образованные могучими волкодлаками.\nОстаточные отложения, которые долгое время были прикреплены к внутренним органам или костям. После извлечения эти отложения считаются символом силы и бережно хранятся потомками клана.",
+        "en": "An accretion formed by powerful Volkodlak.\nAn accretion that has clung to an internal organ or bone for a long time. Once removed, such accretions are regarded as symbols of power and carefully preserved by the creature's descendants.",
+        "zh": "力量强大的兽怪形成的残积物。\n已经附着体内器官或骨骼许久的残积物。这些残积物在被取出后，将被视为力量的象征，会被该族群的后裔好好保存。"
+      }
+    },
+    {
+      "key": "material_112154",
+      "title": {
+        "ru": "Осадочный нарост",
+        "en": "Accreted Growth",
+        "zh": "沉积增生物"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112154.webp",
+      "text": {
+        "ru": "Остаточные отложения, образованные могучими волкодлаками.\nНарост, полностью сросшийся с органом или костью. Можно сказать, что это новая кость или новый орган, выросшие в узлах циркуляции силы волкодлака. Лишь волкодлаки, которые долгие годы непрерывно оттачивали свою силу, способны сформировать подобные наросты внутри своего тела.",
+        "en": "An accretion formed by powerful Volkodlak.\nAn accretion that has fully fused with an organ or bone. One could even say it's a newly grown bone or organ at the nodes of the Volkodlak's power circulation. Only long-lived Volkodlaks who have ceaselessly honed their strength can form such growths within their bodies.",
+        "zh": "力量强大的兽怪形成的残积物。\n完整附着器官或骨骼的残积物，甚至可以说在力量循环的节点增生了新的骨骼或器官。唯有寿数漫长而修行不怠的兽怪能在体内形成这样的增生物。"
+      }
+    }
+  ],
+  "material_count": 3
+}

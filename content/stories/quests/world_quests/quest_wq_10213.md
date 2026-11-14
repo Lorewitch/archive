@@ -20,17 +20,174 @@
 # quest_series: Lost Traveler in the Ashen Realm
 # version_source: wiki_release_category
 
-# quest_series_ru: Потерянный путешественник в царстве пепла
+# quest_series_ru: Заблудший путник в обители пепла
+# game_source_ids: 75048
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 10
 
 ## RU
 
 ### Сквозь утренний туман
 
+#### Журнал
+
+**Паймон:** Что? Неужели тот же самый золотой узор, как когда нам встретился Малыш?
+
+**Паймон:** Что такое? Малыш, ты как?
+
+**Паймон:** А Паймон зовут Паймон! Мы тоже искатели приключений! А это наш друг Малыш!
+
+**Паймон:** А это наш друг Малыш, мы вместе путешествуем!
+
+**Паймон:** Не расстраивайся! Малыш, Паймон вовсе не хотела сказать, что ты бесполезен!
+
+**Паймон:** Путешественник, помоги Паймон всё объяснить! У каждого свои сильные стороны! Малыш не проявил себя, потому что его время пока не пришло!
+
+**Паймон:** Да! Малыш, скоро и ты покажешь, на что способен!
+
+**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, скорее всего, историю о Тонакорабль «Летучий змей»тиу вы тоже не слышали?
+
+**Паймон:** И Малыш тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
+
+**Паймон:** Хм. Тот же самый золотой узор мы видели, когда нам встретился Малыш? Неужели Малыш как-то связан со злым драконом?
+
+**Паймон:** Нет, Малыш! Паймон ни в чём тебя не подозревает! Но такое ощущение, будто кто-то ведёт нас с той самой секунды, как мы ступили в древний город...
+
+**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, наверное, историю о Тонкорабль «Летучий змей»атиу вы тоже не слышали?
+
+**Паймон:** И Малыш тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
+
 Чтобы найти неведомое сокровище, известное как Нефрит Возвращения, и выследить злого дракона, вы ступили в древние запретные руины...
 
 #### Отправляйтесь в башню, где находится статуя
 
+#### Отправляйтесь в башню, где находится статуя
+
 Раздаётся оглушительный взрыв, черепки и обломки камней осыпаются к основанию башни, увлекая вас за собой...
+
+**Паймон:** Кхе-кхе... Ох, как же так?
+
+**Паймон:** Путешественник, ты в порядке?
+
+##### Вариант ответа 1
+
+- **Путешественник:** Да. А ты?
+
+**Паймон:** С Паймон всё в порядке, только пыли немного наглоталась... Ничего себе, он и башню разрушил...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Больно! Паймон, мне больно!
+
+**Паймон:** Где, где? Дай посмотреть! Паймон тебя перевяжет... Что? Да у тебя ни одной царапины! Зачем ты обманываешь Паймон?
+
+##### Общее продолжение
+
+**[Имя]:** Р-р-р!.. Р-р!
+
+**Паймон:** Похоже, [Имя] тоже не пострадал. Фух.
+
+**Паймон:** Неужели злой дракон опять от нас улетел? Возмутительно! Чего он к нам привязался?
+
+**Паймон:** Ладно бы он охранял сокровища, как сказочные драконы, а мы их у него украли. Так ведь нет! Ничего мы пока не украли!
+
+##### Вариант ответа 1
+
+- **Путешественник:** Может, он умеет читать мысли?
+
+**Паймон:** Э... Вряд ли. Что? Не говори ерунду! Паймон ничего такого не думала!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Нам и украсть отсюда нечего.
+
+**Паймон:** Да! И без него мы бы сюда даже не попали!
+
+##### Вариант ответа 3
+
+- **Путешественник:** Может, всё дело в пламенном тушёном мясе, которое ты съела на завтрак?
+
+**Паймон:** Что? Думаешь, он охотился за мясом в животе у Паймон?
+
+##### Общее продолжение
+
+**[Имя]:** Р-р-р?
+
+**Паймон:** [Имя]? Ты что-то нашёл?
+
+**Паймон:** Ой, смотри! Там целая стопка свитков! Путешественник, взгляни скорее!
+
+**Паймон:** Гм... Похоже на записки искателя приключений...
+
+**Паймон:** «Древний город, захваченный злым и жестоким драконом...» Может, это и есть тот самый город?
+
+**Паймон:** В записках сказано, что многие искатели приключений пропали там без следа. Значит, на счету злого дракона множество человеческих жизней!
+
+**Паймон:** А город называется... Очканатлан. Странное название.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Звучит знакомо...
+
+**Паймон:** И правда... Когда мы получили Золотое прошение, оказалось, что второе прошение находится в Очканатлане!
+
+**Паймон:** Но в Ассоциации реликвий заврианов нам сказали, что это запретное место, куда они сами не отваживаются отправиться. Вот оно что...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Наверное, это какое-то важное место.
+
+**Паймон:** Да, смотри! В слове «Очканатлан» есть «Натлан»! А если раньше в этом городе тоже жили натланцы? Но Паймон ничего подобного не слышала...
+
+##### Общее продолжение
+
+**Паймон:** «Чтобы отыскать "Нефрит Возвращения", за которым охотится множество искателей приключений...» Наверное, он отправился в древний город на поиски какого-то сокровища.
+
+**Паймон:** Нефрит Возвращения... Наверное, красивая вещица. А вдруг мы его найдём? Наверняка он стоит целое состояние!
+
+##### Вариант ответа 1
+
+- **Путешественник:** Скорее всего, дело было давным-давно.
+
+**Паймон:** Ну да! Но вдруг за несколько столетий никто так и не отыскал это сокровище? И оно ждёт нас, великих искателей приключений! / Ну да! Но вдруг за несколько столетий никто так и не отыскал это сокровище? И оно ждёт нас, великих искательниц приключений!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Может быть, его нашёл тот, кто оставил этот свиток.
+
+**Паймон:** Может быть, а может, и нет! Если стольким искателям приключений не удалось его найти, вполне вероятно, что он тоже ничего не нашёл!
+
+##### Общее продолжение
+
+**Паймон:** И посмотри, до чего огромные руины! Будет жаль, если мы даже не попробуем туда заглянуть!
+
+##### Вариант ответа 1
+
+- **Путешественник:** Да, тогда получится, что он напал на нас просто так.
+
+**Паймон:** Ого, тебе не терпится отомстить злому дракону? Мы наверняка встретим его в руинах, будет знать, как нападать на искателей приключений!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Мы должны наказать злого дракона.
+
+**Паймон:** Точно! Проучим его как следует! Будет знать, как нападать на искателей приключений!
+
+##### Общее продолжение
+
+**[Имя]:** Р-р-р!
+
+**Паймон:** [Имя] всегда оживает, если разговор заходит о драконах!
+
+**Паймон:** Тогда в путь! В Очканатлан!
+
+#### Отправляйтесь в Очканатлан
+
+#### Продолжайте исследовать Очканатлан
+
+#### Найдите способ попасть в башню
+
+#### Исследуйте башню
 
 #### Исследуйте башню
 
@@ -38,59 +195,81 @@
 
 **Паймон:** Паймон не показалось? Нас только что спас золотой луч?
 
-- **Путешественник:** Я видел(а) золотой узор...
+##### Вариант ответа 1
 
-- **Путешественник:** Так или иначе, мы спасены.
+- **Путешественник:** Я видел золотой узор... / Я видела золотой узор...
 
-**Паймон:** Что? Неужели тот же самый золотой узор, как когда нам встретился Малыш?
+**Паймон:** Что? Неужели тот же самый золотой узор, как когда нам встретился [Имя]?
 
 **Паймон:** Значит, нам помогает какая-то высшая сила!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Так или иначе, мы спасены.
+
+##### Общее продолжение
+
 **Паймон:** Да, похоже, здесь мы в безопасности! Ох, Паймон и подумать не могла, что нам придётся убегать от хиличурлов!
 
-**Малыш:** Р-р... Р-р?
+**[Имя]:** Р-р... Р-р?
 
-**Паймон:** Что такое? Малыш, ты как?
+**Паймон:** Что такое? [Имя], ты как?
 
-**Малыш:** Р-р-р...
+**[Имя]:** Р-р-р...
 
 **Паймон:** Ты заметил что-то необычное?
 
 **Паймон:** Гм... Пока они торчат у входа, нам всё равно отсюда не выбраться. Давайте осмотримся?
 
+#### Исследуйте башню
+
+#### Исследуйте башню
+
 #### Поговорите с загадочным искателем приключений
 
-**Бона:** Эй вы!
+**???:** Эй вы!
 
-**Бона:** Да, вы трое! Ну-ка повернулись.
+**???:** Да, вы трое! Ну-ка повернулись.
 
-**Бона:** Вижу, вы понимаете, что я говорю.
+**???:** Вижу, вы понимаете, что я говорю.
 
-**Бона:** Фух, вы меня напугали. Думала, это монстры из Бездны в человеческом облике. Хорошо, что вы обернулись. А то я уже собиралась идти в атаку.
+**???:** Фух, вы меня напугали. Думала, это монстры из Бездны в человеческом облике. Хорошо, что вы обернулись. А то я уже собиралась идти в атаку.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Кто ещё кого напугал.
 
-- **Путешественник:** Хорошо, что у меня быстрая реакция.
-
 **Паймон:** Да! Мы не знали, что здесь кто-то есть!
 
-**Бона:** Поэтому ты так уверенно (повернулась)(повернулся) ко мне спиной?
+##### Вариант ответа 2
+
+- **Путешественник:** Хорошо, что у меня быстрая реакция.
+
+**???:** Поэтому ты так уверенно повернулся ко мне спиной? / Поэтому ты так уверенно повернулась ко мне спиной?
 
 **Паймон:** Мы ведь не думали, что здесь ещё кто-то есть!
 
+##### Общее продолжение
+
 **Бона:** Ладно, наверное, сама судьба свела нас вместе. Я главная искательница приключений в клане Цветочного Пера. Зовите меня Бона.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Я Путешественник.
 
-- **Путешественник:** Это Паймон, моя нанимательница.
+**Паймон:** А Паймон зовут Паймон! Мы тоже искатели приключений! А это наш друг [Имя]!
 
-**Паймон:** А Паймон зовут Паймон! Мы тоже искатели приключений! А это наш друг Малыш!
+##### Вариант ответа 2
+
+- **Путешественник:** Это Паймон, моя нанимательница.
 
 **Паймон:** Что? Интересно, что ты дальше скажешь? Что ты проводник Паймон? Ладно, это Путешественник. Мы искатели приключений, недавно здесь оказались.
 
-**Паймон:** А это наш друг Малыш, мы вместе путешествуем!
+**Паймон:** А это наш друг [Имя], мы вместе путешествуем!
 
-**Малыш:** Р-р-р!
+##### Общее продолжение
+
+**[Имя]:** Р-р-р!
 
 **Паймон:** Ты тоже пришла сюда за Нефритом Возвращения, как все остальные искатели приключений?
 
@@ -98,7 +277,7 @@
 
 **Паймон:** Ага! Значит, мы не ошиблись! Пока его никто не нашёл.
 
-**Бона:** Но... Искатель(ница) приключений, не (готовая)(готовый) к внезапному нападению, бесцеремонная белая феечка в роли проводника и детёныш тепетлизавра, который вообще не понимает, что происходит...
+**Бона:** Но... Искатель приключений, не готовый к внезапному нападению, бесцеремонная белая феечка в роли проводника и детёныш тепетлизавра, который вообще не понимает, что происходит... / Но... Искательница приключений, не готовая к внезапному нападению, бесцеремонная белая феечка в роли проводника и детёныш тепетлизавра, который вообще не понимает, что происходит...
 
 **Бона:** Так и есть. Передо мной новички, которые полезли на опасную территорию без всякой подготовки, не имея понятия, что их здесь ждёт.
 
@@ -106,13 +285,19 @@
 
 **Паймон:** Что ты там сказала про белую феечку? И вообще, ты нас явно недооцениваешь! Никакие мы не новички.
 
-- **Путешественник:** У нас большой опыт.
+##### Вариант ответа 1
 
-- **Путешественник:** Паймон - лучшая искательница приключений во всём Тейвате.
+- **Путешественник:** У нас большой опыт.
 
 **Паймон:** Если не веришь, спроси у Катерины из Гильдии искателей приключений. И узнаешь, кто мы такие!
 
-**Паймон:** Что? Ну, это преувеличение. Но вместе мы одни из сильнейших (искательниц)(искателей) приключений в Тейвате!
+##### Вариант ответа 2
+
+- **Путешественник:** Паймон - лучшая искательница приключений во всём Тейвате.
+
+**Паймон:** Что? Ну, это преувеличение. Но вместе мы одни из сильнейших искателей приключений в Тейвате! / Что? Ну, это преувеличение. Но вместе мы одни из сильнейших искательниц приключений в Тейвате!
+
+##### Общее продолжение
 
 **Паймон:** Да, взгляни на нашу лицензию искателя приключений! Она заверена Гильдией, там подробно перечислены все наши подвиги!
 
@@ -132,21 +317,29 @@
 
 **Бона:** Но самое главное, нужна смелость, чтобы сделать первый шаг! Как только вы решились и сделали первый шаг, вы стали искателями приключений.
 
+##### Вариант ответа 1
+
 - **Путешественник:** У Паймон столько любопытства, что на двоих хватит.
-
-- **Путешественник:** Обожаю совать свой нос в чужие дела.
-
-- **Путешественник:** Главное - смелость.
 
 **Паймон:** Да, это точно! Паймон очень любопытна! Особенно если дело касается сокровищ и вкусностей!
 
 **Паймон:** Кстати, сегодня у Паймон на завтрак было пламенное тушёное мясо. Объедение!
 
-Это что, намёк?
+- **Путешественник:** Это что, намёк?
 
-**Паймон:** Ты хотел(а) сказать, помогать другим людям? Зачем себя принижать?
+##### Вариант ответа 2
+
+- **Путешественник:** Обожаю совать свой нос в чужие дела.
+
+**Паймон:** Ты хотел сказать, помогать другим людям? Зачем себя принижать? / Ты хотела сказать, помогать другим людям? Зачем себя принижать?
+
+##### Вариант ответа 3
+
+- **Путешественник:** Главное - смелость.
 
 **Бона:** Да, если вы решились пройти в запретный город, смелости у вас не отнимешь.
+
+##### Общее продолжение
 
 **Бона:** Но как вы сюда попали? Единственный вход должен быть запечатан. Если вы вошли, значит, и монстры снаружи...
 
@@ -170,17 +363,23 @@
 
 **Паймон:** Какой милый малыш! Похож на зелёное привидение!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что милого в зелёном привидении?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Паймон, ну ты даёшь.
 
+##### Общее продолжение
+
 **Бона:** Не называй его привидением! Его зовут Кокоуик! Я сама придумала ему имя. Подходит, правда?
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
 **Кокоуик:** Ку-р-ру?
 
-**Малыш:** Р-р... Р-р-р!
+**[Имя]:** Р-р... Р-р-р!
 
 **Паймон:** Кажется, вы поладили. Значит, он и был золотым лучом, который нас спас? Вот это да!
 
@@ -198,13 +397,19 @@
 
 **Бона:** Не знаю, на что вы способны, но объединить силы всегда полезно. Да и потом, я не могу бросить вас тут одних!
 
-- **Путешественник:** Я в деле!
+##### Вариант ответа 1
 
-- **Путешественник:** Это мы не можем тебя бросить.
+- **Путешественник:** Я в деле!
 
 **Бона:** Твоя решительность мне по душе.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Это мы не можем тебя бросить.
+
 **Бона:** Хм, не стоит меня недооценивать. Но твоя решительность мне по душе.
+
+##### Общее продолжение
 
 **Паймон:** Пф! Мы должны ещё раз повидаться со злым драконом! Хотя бы для того, чтобы он не навредил больше ни одному искателю приключений!
 
@@ -222,6 +427,12 @@
 
 **Бона:** Осколки Таинственного источника, что защищают древний город, рассыпаны повсюду. Гм... Нужно собрать их, а луч Коко подскажет нам, где искать!
 
+#### Покиньте башню
+
+#### Покиньте башню
+
+#### Исследуйте Пепельную улицу и соберите осколки таинственного источника
+
 #### Исследуйте Пепельную улицу
 
 **Бона:** Ну наконец-то. Вот бы подстрелить его прямо отсюда...
@@ -231,6 +442,10 @@
 **Бона:** Да, этого будет достаточно. Путешественник, попробуй положить руку на Коко...
 
 **Бона:** Супермощный сверхлазер, огонь!
+
+#### Сбейте злого дракона с помощью Супермощного сверхлазера
+
+#### Сбейте злого дракона с помощью Супермощного сверхлазера
 
 #### Выследите злого дракона
 
@@ -244,17 +459,23 @@
 
 **Кокоуик:** Ку...
 
-**Малыш:** У-у-у...
+**[Имя]:** У-у-у...
 
-**Паймон:** Не расстраивайся! Малыш, Паймон вовсе не хотела сказать, что ты бесполезен!
+**Паймон:** Не расстраивайся! [Имя], Паймон вовсе не хотела сказать, что ты бесполезен!
+
+##### Вариант ответа 1
 
 - **Путешественник:** Паймон, ты могла бы выразиться иначе.
 
+**Паймон:** Путешественник, помоги Паймон всё объяснить! У каждого свои сильные стороны! [Имя] не проявил себя, потому что его время пока не пришло!
+
+##### Вариант ответа 2
+
 - **Путешественник:** У каждого свои сильные стороны.
 
-**Паймон:** Путешественник, помоги Паймон всё объяснить! У каждого свои сильные стороны! Малыш не проявил себя, потому что его время пока не пришло!
+**Паймон:** Да! [Имя], скоро и ты покажешь, на что способен!
 
-**Паймон:** Да! Малыш, скоро и ты покажешь, на что способен!
+##### Общее продолжение
 
 **Паймон:** Кстати, а куда улетел злой дракон? Туда?
 
@@ -266,13 +487,25 @@
 
 **Бона:** Но вместе... Да и потом, ты отлично сражаешься. Уверена, мы справимся.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не стоит рассчитывать, что я в одиночку сделаю всю работу.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Прости, у меня срочные дела...
+
+##### Общее продолжение
 
 **Бона:** Ох, не беспокойся, я пойду первая. А вы меня прикроете!
 
 **Бона:** Время не ждёт! Идём!
+
+#### Выследите злого дракона
+
+#### Победите злого дракона в его логове
+
+#### Победите злого дракона в его логове
 
 #### Заберите пирофосфорит
 
@@ -280,15 +513,21 @@
 
 **Паймон:** Мы почти его схватили! Но к нему почему-то резко вернулись силы...
 
-- **Путешественник:** «Это ещё не конец...»
+##### Вариант ответа 1
 
-- **Путешественник:** Золотой узор...
+- **Путешественник:** «Это ещё не конец...»
 
 **Паймон:** Ты что, понимаешь, что сказал дракон?
 
-Это сказал золотой узор...
+- **Путешественник:** Это сказал золотой узор...
 
-**Паймон:** Что? Ты снова (видела)(видел) золотой узор? Неужели очередная подсказка от... как его там? Мудреца украденного пламени?
+##### Вариант ответа 2
+
+- **Путешественник:** Золотой узор...
+
+##### Общее продолжение
+
+**Паймон:** Что? Ты снова видел золотой узор? Неужели очередная подсказка от... как его там? Мудреца украденного пламени? / Что? Ты снова видела золотой узор? Неужели очередная подсказка от... как его там? Мудреца украденного пламени?
 
 **Паймон:** Неужели поиск сокровищ в древнем городе - очередное испытание, которое он для нас приготовил?
 
@@ -310,7 +549,7 @@
 
 **Бона:** Записки в башне? Серьёзно? Вас надоумили отправиться в запретный город Очканатлан какие-то неизвестные записки? Да уж, не зря говорят, смелость всегда сопутствует таланту.
 
-**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, скорее всего, историю о Тонакорабль «Летучий змей»тиу вы тоже не слышали?
+**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, скорее всего, историю о Тона(корабле «Летучий змей»)тиу вы тоже не слышали?
 
 **Бона:** Как явствует из названия, это легендарный небесный корабль, построенный царём питонов Оч-каном, тираном Очканатлана. Корабль был доверху нагружен сокровищами, и множество искателей приключений из Натлана пытались его найти.
 
@@ -320,19 +559,25 @@
 
 **Бона:** Несколько десятилетий назад Бездна почти до основания разрушила наше племя. Тогда же в древнем городе поселился злой дракон.
 
-**Бона:** Говорили, среди бесчисленных сокровищ на «Тонатиу» хранится Нефрит ВоОметеотльзвращения, а тот, кто его отыщет, сможет усмирить этот древний город, отравленный Бездной.
+**Бона:** Говорили, среди бесчисленных сокровищ на «Тонатиу» хранится Нефрит Во(Ометеотль)звращения, а тот, кто его отыщет, сможет усмирить этот древний город, отравленный Бездной.
 
 **Бона:** Тогда память о кошмаре, который сотворила Бездна, была ещё очень свежа. Если отыскать Нефрит и усмирить скверну, то и племени больше не придётся жить в вечном страхе.
 
 **Бона:** Отец отправился в путь, чтобы найти сокровище... и больше не вернулся. Остался только пирофосфорит, который он нашёл в руинах.
 
-- **Путешественник:** Мне очень жаль...
+##### Вариант ответа 1
 
-- **Путешественник:** Неужели злой дракон...
+- **Путешественник:** Мне очень жаль...
 
 **Бона:** Всё в порядке. Я ведь никогда его даже не видела. Историю отца позже рассказала мне искательница приключений из его отряда.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Неужели злой дракон...
+
 **Бона:** Как теперь узнаешь? Я ведь никогда его даже не видела. Историю отца позже рассказала мне искательница приключений из его отряда.
+
+##### Общее продолжение
 
 **Бона:** В надписи, которую отец нашёл в руинах, говорилось, что ветры далёкого прошлого укажут дорогу к «Тонатиу» тому, кто возложит пирофосфорит на Алтарь Первозданного огня.
 
@@ -354,13 +599,19 @@
 
 **Бона:** Но наконец мы его прогнали! Я вернула себе пирофосфорит и теперь могу отправиться на поиски Алтаря Первозданного огня.
 
-- **Путешественник:** Ты непременно должна отыскать Нефрит Возвращения?
+##### Вариант ответа 1
 
-- **Путешественник:** Ты не хочешь взять нас с собой?
+- **Путешественник:** Ты непременно должна отыскать Нефрит Возвращения?
 
 **Бона:** Да. Только ради этого я и стала искательницей приключений.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Ты не хочешь взять нас с собой?
+
 **Бона:** Почему? Я как раз хотела предложить вам ко мне присоединиться!
+
+##### Общее продолжение
 
 **Бона:** Следуя указаниям Коко, мы обязательно найдём Алтарь Первозданного огня, а потом доберёмся до «Тонатиу» на небе...
 
@@ -376,27 +627,33 @@
 
 **Бона:** Ха-ха, правда? Отлично, я знала, что вы согласитесь! Уверена, с вашей помощью я смогу исполнить последнюю волю отца.
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
-**Паймон:** И Малыш тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
+**Паймон:** И [Имя] тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
 
 **Паймон:** Опять удрал! Да что же это такое!
 
 **Паймон:** Мы почти его схватили! Но к нему почему-то резко вернулись силы...
 
-- **Путешественник:** «Это ещё не конец...»
+##### Вариант ответа 1
 
-- **Путешественник:** Золотой узор...
+- **Путешественник:** «Это ещё не конец...»
 
 **Паймон:** Ты что, понимаешь, что сказал дракон?
 
-Это сказал золотой узор...
+- **Путешественник:** Это сказал золотой узор...
 
-**Паймон:** Хм. Тот же самый золотой узор мы видели, когда нам встретился Малыш? Неужели Малыш как-то связан со злым драконом?
+##### Вариант ответа 2
 
-**Малыш:** Р-р-р...
+- **Путешественник:** Золотой узор...
 
-**Паймон:** Нет, Малыш! Паймон ни в чём тебя не подозревает! Но такое ощущение, будто кто-то ведёт нас с той самой секунды, как мы ступили в древний город...
+##### Общее продолжение
+
+**Паймон:** Хм. Тот же самый золотой узор мы видели, когда нам встретился [Имя]? Неужели [Имя] как-то связан со злым драконом?
+
+**[Имя]:** Р-р-р...
+
+**Паймон:** Нет, [Имя]! Паймон ни в чём тебя не подозревает! Но такое ощущение, будто кто-то ведёт нас с той самой секунды, как мы ступили в древний город...
 
 **Паймон:** Наверное, Паймон придумывает...
 
@@ -418,7 +675,7 @@
 
 **Бона:** Записки в башне? Серьёзно? Вас надоумили отправиться в запретный город Очканатлан какие-то неизвестные записки? Да уж, не зря говорят, смелость всегда сопутствует таланту.
 
-**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, наверное, историю о Тонкорабль «Летучий змей»атиу вы тоже не слышали?
+**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, наверное, историю о Тон(корабле «Летучий змей»)атиу вы тоже не слышали?
 
 **Бона:** Как явствует из названия, это легендарный небесный корабль, построенный царём питонов Оч-каном, тираном Очканатлана. Корабль был доверху нагружен сокровищами, и множество искателей приключений из Натлана пытались его найти.
 
@@ -428,19 +685,25 @@
 
 **Бона:** Несколько десятилетий назад Бездна почти до основания разрушила наше племя. Тогда же в древнем городе поселился злой дракон.
 
-**Бона:** Говорили, среди бесчисленных сокровищ на «Тонатиу» хранится Нефрит ВоОметеотльзвращения, а тот, кто его отыщет, сможет усмирить этот древний город, отравленный Бездной.
+**Бона:** Говорили, среди бесчисленных сокровищ на «Тонатиу» хранится Нефрит Во(Ометеотль)звращения, а тот, кто его отыщет, сможет усмирить этот древний город, отравленный Бездной.
 
 **Бона:** Тогда память о кошмаре, который сотворила Бездна, была ещё очень свежа. Если отыскать Нефрит и усмирить скверну, то и племени больше не придётся жить в вечном страхе.
 
 **Бона:** Отец отправился в путь, чтобы найти сокровище... и больше не вернулся. Остался только пирофосфорит, который он нашёл в руинах.
 
-- **Путешественник:** Мне очень жаль...
+##### Вариант ответа 1
 
-- **Путешественник:** Неужели злой дракон...
+- **Путешественник:** Мне очень жаль...
 
 **Бона:** Всё в порядке. Я ведь никогда его даже не видела. Историю отца позже рассказала мне искательница приключений из его отряда.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Неужели злой дракон...
+
 **Бона:** Как теперь узнаешь? Я ведь никогда его даже не видела. Историю отца позже рассказала мне искательница приключений из его отряда.
+
+##### Общее продолжение
 
 **Бона:** В надписи, которую отец нашёл в руинах, говорилось, что ветры далёкого прошлого укажут дорогу к «Тонатиу» тому, кто возложит пирофосфорит на Алтарь Первозданного огня.
 
@@ -462,13 +725,19 @@
 
 **Бона:** Но наконец мы его прогнали! Я вернула себе пирофосфорит и теперь могу отправиться на поиски Алтаря Первозданного огня.
 
-- **Путешественник:** Ты непременно должна отыскать Нефрит Возвращения?
+##### Вариант ответа 1
 
-- **Путешественник:** Ты не хочешь взять нас с собой?
+- **Путешественник:** Ты непременно должна отыскать Нефрит Возвращения?
 
 **Бона:** Да. Только ради этого я и стала искательницей приключений.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Ты не хочешь взять нас с собой?
+
 **Бона:** Почему? Я как раз хотела предложить вам ко мне присоединиться!
+
+##### Общее продолжение
 
 **Бона:** Вы ведь тоже пришли сюда за Нефритом Возвращения? Хотите отправиться на поиски вместе со мной? Нам будет намного проще действовать вместе, объединив вашу силу и мои знания.
 
@@ -484,19 +753,173 @@
 
 **Бона:** Ха-ха, правда? Отлично, я знала, что вы согласитесь! Уверена, с вашей помощью я смогу исполнить последнюю волю отца.
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
-**Паймон:** И Малыш тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
+**Паймон:** И [Имя] тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
+
+#### Сбейте злого дракона с помощью Супермощного сверхлазера
 
 ## EN
 
 ### Vaulting the Wall of Morning Mist
 
+#### Quest log
+
+**Paimon:** Could it be the same kind of gold pattern that we saw when we encountered Little One? Did the pattern guide us here?
+
+**Paimon:** What's wrong? Are you okay, Little One?
+
+**Paimon:** And my name's Paimon. We're also adventurers exploring this place. This little one here is our companion, Little One!
+
+**Paimon:** This little one here is our companion, Little One!
+
+**Bona:** Coco's my companion, like Little One is yours. Anyway, come with me and see for yourself.
+
+**Paimon:** Don't be sad! We're not saying that you didn't do anything, Little One.
+
+**Paimon:** C'mon, just help Paimon explain, Traveler! We've all got different strengths! This just wasn't the time for Little One to shine yet!
+
+**Paimon:** That's right. You'll get your chance soon, Little One, Paimon knows it!
+
+**Paimon:** Little One concurs! It's settled, then. Let's get going before the dragon comes back!
+
+**Paimon:** Hmm, is that the same pattern we saw when we encountered Little One? Could this evil dragon be related to him somehow?
+
+**Paimon:** Oh, Paimon isn't suspecting you or anything, Little One! But it feels like someone has been guiding us ever since we stepped into this ancient city...
+
+**Paimon:** Little One concurs! It's settled, then. Let's get going before the dragon comes back!
+
 To find the unknown treasure known as the Jade of Return and track the evil dragon down, you have stepped into ancient ruins to which entry is considered forbidden...
 
 #### Go to the tower containing the statue
 
+#### Go to the tower containing the statue
+
 As an enormous explosion rings out, you all slide to the bottom amidst sloughing rubble and sand...
+
+**Paimon:** *cough* Ugh, how did this happen?
+
+**Paimon:** Are you okay, Traveler?
+
+##### Response branch 1
+
+- **Traveler:** I'm alright. How about you?
+
+**Paimon:** Paimon's fine, she's just choked a little by all the dust. So it took down the whole tower, huh? That's unexpected.
+
+##### Response branch 2
+
+- **Traveler:** Ow, ow, Paimon, it hurts!
+
+**Paimon:** Oh no! Where? Let Paimon take a look... Wait, you're not hurt at all! Why'd you have to lie like that?
+
+##### Shared continuation
+
+**[Name]:** Rooo... Rawr!
+
+**Paimon:** Looks like [Name] isn't hurt either. Phew.
+
+**Paimon:** So has that nasty dragon really flown away this time? Paimon doesn't understand why it kept coming after us. So rude!
+
+**Paimon:** Paimon would understand if it were protecting treasure, like in the fairy tales, and we'd stolen some of it. But we haven't done anything yet!
+
+##### Response branch 1
+
+- **Traveler:** Can it read minds, then?
+
+**Paimon:** Umm... No? Stop making things up. Paimon hasn't had the chance to think about that yet!
+
+##### Response branch 2
+
+- **Traveler:** Not that there's anything here for us to take anyway.
+
+**Paimon:** Yeah, and we couldn't have entered this place without it, either!
+
+##### Response branch 3
+
+- **Traveler:** Could it be the Blazed Meat Stew you had this morning?
+
+**Paimon:** Hmm? You mean it's after the Blazed Meat Stew in Paimon's stomach?
+
+##### Shared continuation
+
+**[Name]:** Ehhrrr...?
+
+**Paimon:** [Name]? Did you find something?
+
+**Paimon:** Ooh, would you look at that? There's a stack of scrolls underneath! Come take a look, Traveler.
+
+**Paimon:** Looks like notes left behind by an adventurer...
+
+**Paimon:** "An ancient city occupied by a violent and evil dragon"... Could this be the city we're looking at?
+
+**Paimon:** The notes said that many adventurers entered, but never returned. Looks like our dragon's already killed plenty of people!
+
+**Paimon:** The city is called... Ochkanatlan? What a strange name.
+
+##### Response branch 1
+
+- **Traveler:** I've heard that one before...
+
+**Paimon:** Now that you mention it... When we got the Golden Entreaty, Paimon remembers something about the other disc being in Ochkanatlan!
+
+**Paimon:** But the Saurian Relics Association people said it's a forbidden area that even they are afraid to enter. Guess we now know why, huh...
+
+##### Response branch 2
+
+- **Traveler:** Must be a very important location, then.
+
+**Paimon:** Now that you mention it, there is "Natlan" in the name! Might the people of Natlan have lived in cities way back when? Paimon doesn't remember hearing that.
+
+##### Shared continuation
+
+**Paimon:** "For the sake of the 'Jade of Return' sought by countless adventurers"... Guess this person entered the ancient city in search of something.
+
+**Paimon:** The Jade of Return... Sounds like something pretty sweet. If we can find it, we might make a whole boat-load of money!
+
+##### Response branch 1
+
+- **Traveler:** This could've taken place a long time ago.
+
+**Paimon:** W—Well, you're right! But maybe, just maybe, no one's found it all these hundreds of years, and so it's sat here, just waiting for great adventurers like us to show up!
+
+##### Response branch 2
+
+- **Traveler:** This person could've found it already.
+
+**Paimon:** Th—That could be true! But y'know, it's just as likely that they didn't! If all those other adventurers couldn't find it, this one probably didn't either.
+
+##### Shared continuation
+
+**Paimon:** And look at the massive ruins! It would be a shame if we didn't go inside and explore a bit.
+
+##### Response branch 1
+
+- **Traveler:** Yes, we would've been attacked in vain otherwise.
+
+**Paimon:** Uh, that sure was spoken with a vengeance! Well, we'll no doubt bump into that evil dragon again, and we can't just let it keep hurting adventurers!
+
+##### Response branch 2
+
+- **Traveler:** We have to do something about the evil dragon.
+
+**Paimon:** Exactly. If we bump into it again, we'll make sure it won't hurt more adventurers!
+
+##### Shared continuation
+
+**[Name]:** Rawr!
+
+**Paimon:** Huh, you sure do get excited whenever we mention dragons, [Name]!
+
+**Paimon:** Alright then — to Ochkanatlan!
+
+#### Go to Ochkanatlan
+
+#### Keep exploring Ochkanatlan
+
+#### Try to get into the tower up ahead
+
+#### Explore the tower
 
 #### Explore the tower
 
@@ -504,59 +927,81 @@ As an enormous explosion rings out, you all slide to the bottom amidst sloughing
 
 **Paimon:** Was Paimon seeing things? We were saved by a flash of golden light.
 
+##### Response branch 1
+
 - **Traveler:** I did see a pattern in gold...
 
-- **Traveler:** Whatever it was, it saved us.
-
-**Paimon:** Could it be the same kind of gold pattern that we saw when we encountered Little One? Did the pattern guide us here?
+**Paimon:** Could it be the same kind of gold pattern that we saw when we encountered [Name]? Did the pattern guide us here?
 
 **Paimon:** Feels like we're being helped by some kind of higher power somehow!
 
+##### Response branch 2
+
+- **Traveler:** Whatever it was, it saved us.
+
+##### Shared continuation
+
 **Paimon:** And this looks like a safer spot either way. Ugh, Paimon never thought we'd have to run from hilichurls!
 
-**Little One:** Rawr... Ehrr?
+**[Name]:** Rawr... Ehrr?
 
-**Paimon:** What's wrong? Are you okay, Little One?
+**Paimon:** What's wrong? Are you okay, [Name]?
 
-**Little One:** Rrroo...
+**[Name]:** Rrroo...
 
 **Paimon:** Did something in here catch your attention?
 
 **Paimon:** Well, not that we'll be leaving anytime soon with them blocking the door, so let's just explore this place.
 
+#### Explore the tower
+
+#### Explore the tower
+
 #### Talk to the mysterious adventurer
 
-**Bona:** Hey, you over there!
+**???:** Hey, you over there!
 
-**Bona:** Yes, I'm talking about the three of you! Turn around.
+**???:** Yes, I'm talking about the three of you! Turn around.
 
-**Bona:** Looks like you understand what I'm saying.
+**???:** Looks like you understand what I'm saying.
 
-**Bona:** Phew. You scared me back there, you know? I thought you were Abyss monsters pretending to be humans. If you hadn't responded, I'd have struck first.
+**???:** Phew. You scared me back there, you know? I thought you were Abyss monsters pretending to be humans. If you hadn't responded, I'd have struck first.
+
+##### Response branch 1
 
 - **Traveler:** We should be the scared ones.
 
-- **Traveler:** Thank goodness for my quick reactions, then.
-
 **Paimon:** Yeah, we sure didn't think there would be other people here!
 
-**Bona:** Is that why you exposed your back to me with such confidence?
+##### Response branch 2
+
+- **Traveler:** Thank goodness for my quick reactions, then.
+
+**???:** Is that why you exposed your back to me with such confidence?
 
 **Paimon:** Well, we didn't think there would be other people here!
 
+##### Shared continuation
+
 **Bona:** Heh. Anyway, the way we're meeting here, I'd call it destiny. I'm the ace adventurer of the Flower-Feather Clan. Call me Bona.
+
+##### Response branch 1
 
 - **Traveler:** I'm Traveler.
 
+**Paimon:** And my name's Paimon. We're also adventurers exploring this place. This little one here is our companion, [Name]!
+
+##### Response branch 2
+
 - **Traveler:** This is Paimon, my employer.
 
-**Paimon:** And my name's Paimon. We're also adventurers exploring this place. This little one here is our companion, Little One!
+**Paimon:** Huh? Seriously? What are you gonna do next, tell her that you're Paimon's guide? Anyway, he's Traveler. We're also adventurers who just arrived. / Huh? Seriously? What are you gonna do next, tell her that you're Paimon's guide? Anyway, she's Traveler. We're also adventurers who just arrived.
 
-**Paimon:** Huh? Seriously? What are you gonna do next, tell her that you're Paimon's guide? Anyway, he / she's Traveler. We're also adventurers who just arrived.
+**Paimon:** This little one here is our companion, [Name]!
 
-**Paimon:** This little one here is our companion, Little One!
+##### Shared continuation
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
 **Paimon:** Are you also looking for the Jade of Return, like the other adventurers were?
 
@@ -572,13 +1017,19 @@ As an enormous explosion rings out, you all slide to the bottom amidst sloughing
 
 **Paimon:** What was that about a guiding spirit? Also, watch your words, 'cause we're decidedly not rookies!
 
-- **Traveler:** We're very experienced, as it happens.
+##### Response branch 1
 
-- **Traveler:** This is Paimon, the best adventurer in Teyvat.
+- **Traveler:** We're very experienced, as it happens.
 
 **Paimon:** If you don't believe us, you can ask Katheryne at the Adventurers' Guild about us. You'll find out just how good we are pretty quick!
 
+##### Response branch 2
+
+- **Traveler:** This is Paimon, the best adventurer in Teyvat.
+
 **Paimon:** Now that's exaggerating. But between the two of us, Paimon thinks we're top-notch adventurers all the same.
+
+##### Shared continuation
 
 **Paimon:** Why don't you take a look at our Adventurer Handbooks first? It's certified by the Adventurers' Guild and contains all our adventures!
 
@@ -598,21 +1049,29 @@ As an enormous explosion rings out, you all slide to the bottom amidst sloughing
 
 **Bona:** But most importantly, you need the courage to take that first step! Once you make the decision and start on a journey, you've become an adventurer.
 
+##### Response branch 1
+
 - **Traveler:** Paimon has enough curiosity for both of us.
-
-- **Traveler:** I sure love sticking my nose in other people's businesses.
-
-- **Traveler:** It's the courage that counts most.
 
 **Paimon:** That's right, that's totally Paimon's thing! Whether it's treasures or gourmet, Paimon's always curious!
 
 **Paimon:** By the way, Paimon had the most amazing Blazed Meat Stew this morning.
 
-This isn't foreshadowing, is it?
+- **Traveler:** This isn't foreshadowing, is it?
+
+##### Response branch 2
+
+- **Traveler:** I sure love sticking my nose in other people's businesses.
 
 **Paimon:** You mean you enjoy helping others! Why would you put yourself down like that?
 
+##### Response branch 3
+
+- **Traveler:** It's the courage that counts most.
+
 **Bona:** Fine, I will give you that. You're a bold lot, stepping into this forbidden city.
+
+##### Shared continuation
 
 **Bona:** Still, how did you get in at all? The only entrance should have been sealed shut. If you're in here, does that mean the monsters outside...
 
@@ -624,7 +1083,7 @@ This isn't foreshadowing, is it?
 
 **Paimon:** Coco? Who's that? You mean there's someone else here?
 
-**Bona:** Coco's my companion, like Little One is yours. Anyway, come with me and see for yourself.
+**Bona:** Coco's my companion, like [Name] is yours. Anyway, come with me and see for yourself.
 
 You follow Bona and return to ground level.
 
@@ -636,17 +1095,23 @@ You follow Bona and return to ground level.
 
 **Paimon:** What a cute little guy! Looks like a green Specter.
 
+##### Response branch 1
+
 - **Traveler:** That doesn't sound cute at all.
+
+##### Response branch 2
 
 - **Traveler:** Those words are not exactly flattering, Paimon.
 
+##### Shared continuation
+
 **Bona:** Don't call it a Specter, that's mean! Its name is Cocouik. I chose the name, by the way, and given how shiny it is, I'd say it's pretty spot on too!
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
 **Cocouik:** Kuru?
 
-**Little One:** Rawr... Rawr!
+**[Name]:** Rawr... Rawr!
 
 **Paimon:** You seem to be getting along just fine. So the light that saved us came from this little guy, huh? Incredible!
 
@@ -664,13 +1129,19 @@ You follow Bona and return to ground level.
 
 **Bona:** I don't know how good you are, but we can't go wrong by joining forces, whether it's to explore this place or fight the dragon.
 
-- **Traveler:** Well, this works for me.
+##### Response branch 1
 
-- **Traveler:** That's our line. We can't just leave you here, right?
+- **Traveler:** Well, this works for me.
 
 **Bona:** Heh! I like your decisiveness.
 
+##### Response branch 2
+
+- **Traveler:** That's our line. We can't just leave you here, right?
+
 **Bona:** Hah, you shouldn't underestimate me like that... but still, I like your decisiveness.
+
+##### Shared continuation
 
 **Paimon:** Hmph. That's right, we've gotta face off with that nasty dragon again to make sure it doesn't hurt more people!
 
@@ -688,6 +1159,12 @@ You follow Bona and return to ground level.
 
 **Bona:** The Secret Source Scraps that defend the ancient city are scattered across its grounds. Hmm... We should find them so long as we follow the light Coco projects!
 
+#### Leave the tower
+
+#### Leave the tower
+
+#### Explore Ashflow Street and collect Secret Source Scrap(s)
+
 #### Explore Ashflow Street
 
 **Bona:** About time, too. If we can shoot it down from here...
@@ -697,6 +1174,10 @@ You follow Bona and return to ground level.
 **Bona:** Yes, we just need to use that thing. Try putting your hand on Coco, Traveler...
 
 **Bona:** "Super Awesomesauce Laser," fire!
+
+#### Shoot the evil dragon down with the Super Awesomesauce Laser
+
+#### Shoot the evil dragon down with the Super Awesomesauce Laser
 
 #### Track the evil dragon down
 
@@ -710,17 +1191,23 @@ You follow Bona and return to ground level.
 
 **Cocouik:** Kru...
 
-**Little One:** Wrrooo...
+**[Name]:** Wrrooo...
 
-**Paimon:** Don't be sad! We're not saying that you didn't do anything, Little One.
+**Paimon:** Don't be sad! We're not saying that you didn't do anything, [Name].
+
+##### Response branch 1
 
 - **Traveler:** Not great with words, are we?
 
+**Paimon:** C'mon, just help Paimon explain, Traveler! We've all got different strengths! This just wasn't the time for [Name] to shine yet!
+
+##### Response branch 2
+
 - **Traveler:** Everyone has their strengths.
 
-**Paimon:** C'mon, just help Paimon explain, Traveler! We've all got different strengths! This just wasn't the time for Little One to shine yet!
+**Paimon:** That's right. You'll get your chance soon, [Name], Paimon knows it!
 
-**Paimon:** That's right. You'll get your chance soon, Little One, Paimon knows it!
+##### Shared continuation
 
 **Paimon:** Anyway, the evil dragon flew off in that direction, huh?
 
@@ -732,13 +1219,25 @@ You follow Bona and return to ground level.
 
 **Bona:** But we're a group now, and you're pretty good... I think we'll be fine.
 
+##### Response branch 1
+
 - **Traveler:** I'm not sure I can shoulder this burden...
 
+##### Response branch 2
+
 - **Traveler:** Sorry, I've suddenly got some urgent matters to attend to...
+
+##### Shared continuation
 
 **Bona:** Haha, come on! Don't you worry, I'll go in first. Just watch my back!
 
 **Bona:** Time is of the essence. Let's go!
+
+#### Track the evil dragon down
+
+#### Defeat the evil dragon in its lair
+
+#### Defeat the evil dragon in its lair
 
 #### Retrieve the Pyrophosphorite
 
@@ -746,13 +1245,19 @@ You follow Bona and return to ground level.
 
 **Paimon:** We almost had it, but the dragon's strength was suddenly restored somehow...
 
-- **Traveler:** "This is not the end"...
+##### Response branch 1
 
-- **Traveler:** The golden pattern...
+- **Traveler:** "This is not the end"...
 
 **Paimon:** Huh? You could understand what that dragon was saying?
 
-The words came from the golden pattern.
+- **Traveler:** The words came from the golden pattern.
+
+##### Response branch 2
+
+- **Traveler:** The golden pattern...
+
+##### Shared continuation
 
 **Paimon:** Eh? You saw the golden pattern again? Was it a hint left behind by that, uh, Sage of the Stolen Flame?
 
@@ -776,7 +1281,7 @@ The words came from the golden pattern.
 
 **Bona:** Wait, you came to Ochkanatlan, the forbidden city, on account of some notes you just... happened to pick up? Heh. "The more skilled the person, the more bold their deeds," I guess.
 
-**Bona:** Since you don't know anything about the Jade of Return, you probably haven't heard about the story of the TonaSkyserpent Shiptiuh, then?
+**Bona:** Since you don't know anything about the Jade of Return, you probably haven't heard about the story of the Tona(Skyserpent Ship)tiuh, then?
 
 **Bona:** As the name suggests, it was a sky-faring ship built by Python King Och-Kan, the tyrant who ruled Ochkanatlan. The ship was filled to the brim with treasures, and countless adventurers from Natlan have pursued it.
 
@@ -786,19 +1291,25 @@ The words came from the golden pattern.
 
 **Bona:** The Abyss calamity devastated our tribe decades ago, and the evil dragon that occupies this ancient city also appeared around the same time.
 
-**Bona:** Rumor had it that one of the countless treasures aboard the ship was the Jade ofOmeteotl Return, and that locating it would quell this Abyss-tainted ancient city.
+**Bona:** Rumor had it that one of the countless treasures aboard the ship was the Jade of(Ometeotl) Return, and that locating it would quell this Abyss-tainted ancient city.
 
 **Bona:** At that time, we'd just witnessed the nightmare of the Abyss. So if we could find the Jade and suppress the contamination here in the city, our tribe would no longer have to live in fear.
 
 **Bona:** My old man set off on a journey for that purpose... but he never returned. All that remains is this Pyrophosphorite chunk, which he found in the ruins.
 
-- **Traveler:** I'm sorry for your loss...
+##### Response branch 1
 
-- **Traveler:** Did the evil dragon...
+- **Traveler:** I'm sorry for your loss...
 
 **Bona:** Don't be. I've actually never met him. I heard all this from a woman who adventured alongside him.
 
+##### Response branch 2
+
+- **Traveler:** Did the evil dragon...
+
 **Bona:** Who knows? I've actually never met him. I heard all this from a woman who adventured alongside him.
+
+##### Shared continuation
 
 **Bona:** The inscriptions on a monument in the ruins say that the winds of the distant past will guide the way to the Tonatiuh once Pyrophosphorite is placed on the Altar of Primal Flame within the ancient city.
 
@@ -820,13 +1331,19 @@ The words came from the golden pattern.
 
 **Bona:** But it's gone now, thanks to you, and I got my Pyrophosphorite back. Now, I can go seek the Altar of Primal Flame.
 
-- **Traveler:** Must you find the Jade of Return?
+##### Response branch 1
 
-- **Traveler:** You don't want us to go with you?
+- **Traveler:** Must you find the Jade of Return?
 
 **Bona:** Yes, I have to. I became an adventurer because I wanted to find it.
 
+##### Response branch 2
+
+- **Traveler:** You don't want us to go with you?
+
 **Bona:** No way! I was just about to ask, actually!
+
+##### Shared continuation
 
 **Bona:** As long as we follow Coco's directions, we should be able to find it and access the Tonatiuh up in the air together...
 
@@ -842,27 +1359,33 @@ The words came from the golden pattern.
 
 **Bona:** Hehe, really? That's great to hear! I knew you'd agree to help! With you around, I'm sure I'll be able to fulfill my father's last wish.
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
-**Paimon:** Little One concurs! It's settled, then. Let's get going before the dragon comes back!
+**Paimon:** [Name] concurs! It's settled, then. Let's get going before the dragon comes back!
 
 **Paimon:** Ugh, Paimon can't believe it got away again!
 
 **Paimon:** We almost had it, but the dragon's strength was suddenly restored somehow...
 
-- **Traveler:** "This is not the end"...
+##### Response branch 1
 
-- **Traveler:** The golden pattern...
+- **Traveler:** "This is not the end"...
 
 **Paimon:** Huh? You could understand what that dragon was saying?
 
-The words came from the golden pattern.
+- **Traveler:** The words came from the golden pattern.
 
-**Paimon:** Hmm, is that the same pattern we saw when we encountered Little One? Could this evil dragon be related to him somehow?
+##### Response branch 2
 
-**Little One:** Rroo...
+- **Traveler:** The golden pattern...
 
-**Paimon:** Oh, Paimon isn't suspecting you or anything, Little One! But it feels like someone has been guiding us ever since we stepped into this ancient city...
+##### Shared continuation
+
+**Paimon:** Hmm, is that the same pattern we saw when we encountered [Name]? Could this evil dragon be related to him somehow?
+
+**[Name]:** Rroo...
+
+**Paimon:** Oh, Paimon isn't suspecting you or anything, [Name]! But it feels like someone has been guiding us ever since we stepped into this ancient city...
 
 **Paimon:** Maybe Paimon's overthinking this...
 
@@ -884,7 +1407,7 @@ The words came from the golden pattern.
 
 **Bona:** Wait, you came to Ochkanatlan, the forbidden city, on account of some notes you just... happened to pick up? Heh. "The more skilled the person, the more bold their deeds," I guess.
 
-**Bona:** Since you don't know anything about the Jade of Return, you probably haven't heard about the story of TonaThe Skyserpent Shiptiuh, then?
+**Bona:** Since you don't know anything about the Jade of Return, you probably haven't heard about the story of Tona(The Skyserpent Ship)tiuh, then?
 
 **Bona:** As the name suggests, it was a sky-faring ship built by Python King Och-Kan, the tyrant who ruled Ochkanatlan. The ship was filled to the brim with treasures, and countless adventurers from Natlan have pursued it.
 
@@ -894,19 +1417,25 @@ The words came from the golden pattern.
 
 **Bona:** The Abyss calamity devastated our tribe decades ago, and the evil dragon that occupies this ancient city also appeared around the same time.
 
-**Bona:** Rumor had it that one of the countless treasures aboard the ship was the Jade ofOmeteotl Return, and that locating it would quell this Abyss-tainted ancient city.
+**Bona:** Rumor had it that one of the countless treasures aboard the ship was the Jade of(Ometeotl) Return, and that locating it would quell this Abyss-tainted ancient city.
 
 **Bona:** At that time, we'd just witnessed the nightmare of the Abyss. So if we could find the Jade and suppress the contamination here in the city, our tribe would no longer have to live in fear.
 
 **Bona:** My old man set off on a journey for that purpose... but he never returned. All that remains is this Pyrophosphorite chunk, which he found in the ruins.
 
-- **Traveler:** I'm sorry for your loss...
+##### Response branch 1
 
-- **Traveler:** Did the evil dragon...
+- **Traveler:** I'm sorry for your loss...
 
 **Bona:** Don't be. I've actually never met him. I heard all this from a woman who adventured alongside him.
 
+##### Response branch 2
+
+- **Traveler:** Did the evil dragon...
+
 **Bona:** Who knows? I've actually never met him. I heard all this from a woman who adventured alongside him.
+
+##### Shared continuation
 
 **Bona:** The inscriptions on a monument in the ruins say that the winds of the distant past will guide the way to the Tonatiuh once Pyrophosphorite is placed on the Altar of Primal Flame within the ancient city.
 
@@ -928,13 +1457,19 @@ The words came from the golden pattern.
 
 **Bona:** But it's gone now, thanks to you, and I got my Pyrophosphorite back. Now, I can go seek the Altar of Primal Flame.
 
-- **Traveler:** Must you find the Jade of Return?
+##### Response branch 1
 
-- **Traveler:** You don't want us to go with you?
+- **Traveler:** Must you find the Jade of Return?
 
 **Bona:** Yes, I have to. I became an adventurer because I wanted to find it.
 
+##### Response branch 2
+
+- **Traveler:** You don't want us to go with you?
+
 **Bona:** No way! I was just about to ask, actually!
+
+##### Shared continuation
 
 **Bona:** You're also here for the Jade of Return, aren't you? In that case, would you like to come with me? This'll be easier by far if we join your strength to my knowledge.
 
@@ -950,19 +1485,173 @@ The words came from the golden pattern.
 
 **Bona:** Hehe, really? That's great to hear! I knew you'd agree to help! With you around, I'm sure I'll be able to fulfill my father's last wish.
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
-**Paimon:** Little One concurs! It's settled, then. Let's get going before the dragon comes back!
+**Paimon:** [Name] concurs! It's settled, then. Let's get going before the dragon comes back!
+
+#### Shoot the evil dragon down with the Super Awesomesauce Laser
 
 ## ZH
 
 ### 翻越朝霭之墙
 
+#### 任务记录
+
+**派蒙:** 欸？难道是之前遇见小家伙的时候也见过的那种金色花纹？是那个花纹把我们指引到这里来的吗？
+
+**派蒙:** 怎么了，小家伙你没事吧？
+
+**派蒙:** 嗯嗯，然后我是派蒙，我们也是来这里探险的冒险家。还有这个小家伙，小家伙，是和我们一起的伙伴！
+
+**派蒙:** 还有这个小家伙，小家伙，是和我们一起冒险的伙伴！
+
+**玻娜:** 嗯，类比来说的话就像你们和小家伙，可以算是我的伙伴呢…哎呀，总之你们跟我来就知道了。
+
+**派蒙:** 欸？我不是说小家伙没派上用场的意思啦，别难过呀。
+
+**派蒙:** 旅行者你也帮我解释一下啊，每个人擅长的地方都不一样，只是这里不适合小家伙发挥而已吧。
+
+**派蒙:** 对啊，接下来说不定就到了小家伙大放异彩的时候了呢。
+
+**派蒙:** 小家伙也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
+
+**派蒙:** 欸？又是我们遇见小家伙的时候看到的那种花纹吗，唔…该不会这条坏龙和小家伙有什么关联？
+
+**派蒙:** 啊，小家伙，我不是在怀疑你的意思啦！但是从进到这座古城开始就感觉很奇怪，像是有人一直在指引着我们一样…
+
+**派蒙:** 小家伙也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
+
 为了寻找未知的宝物「回还之玉」，也为了追寻恶龙的踪迹，你们踏入了被人们视作禁域的古老城墟…
 
 #### 前往神像所在的高塔
 
+#### 前往神像所在的高塔
+
 在巨大的爆炸声中，你们随着碎石和沙砾一同落到了塔底…
+
+**派蒙:** 咳咳…呜，怎么会变成这样…
+
+**派蒙:** 呼…旅行者，你没事吧?
+
+##### 对话分支 1
+
+- **旅行者:** 我还好，派蒙也没事吧？
+
+**派蒙:** 我没事啦，除了有点被呛到了…没想到连这座塔都被它弄成这样。
+
+##### 对话分支 2
+
+- **旅行者:** 我好痛啊，派蒙…
+
+**派蒙:** 哇！你哪里痛我帮你包扎一下…嗯？明明就没受伤嘛，你可不要骗我呀。
+
+##### 共同后续
+
+**[名字]:** 呜…呀！
+
+**派蒙:** 喔，看起来[名字]也没什么事的样子，真是太好了。
+
+**派蒙:** 哎，这次那条坏龙是真的飞走了吧？实在是太可恶了，干嘛一直盯着我们不放啦！
+
+**派蒙:** 就算是童话里那种守护财宝的巨龙，要是我们偷拿了什么宝藏那还好说，可我们明明就什么都还没干嘛！
+
+##### 对话分支 1
+
+- **旅行者:** 难道它会读心术？
+
+**派蒙:** 欸？不会吧…喂，你可不要乱说，我根本连想都没来得及想啦！
+
+##### 对话分支 2
+
+- **旅行者:** 就算想拿这里也什么都没有。
+
+**派蒙:** 对啊，而且要不是它，我们还进不来这里面呢！
+
+##### 对话分支 3
+
+- **旅行者:** 难道是你早上吃的火焰炖肉？
+
+**派蒙:** 欸？哇，它该不会是盯上了我肚子里的火焰炖肉吧！
+
+##### 共同后续
+
+**[名字]:** 啊嗯…？
+
+**派蒙:** 嗯？[名字]，你发现什么了吗？
+
+**派蒙:** 哦哦，这下面藏着一叠织卷呢！旅行者，你快看看。
+
+**派蒙:** 嗯…似乎是某个冒险家留下来的笔记…
+
+**派蒙:** 「被残暴的恶龙据为巢穴的古城」…就是我们面前的这座城市吗？
+
+**派蒙:** 上面说有许多冒险家进去那里后就音信全无了，看起来这条作恶多端的坏龙已经害了不少人了！
+
+**派蒙:** 古城的名字好像是叫「奥奇卡纳塔」，唔，真是个奇怪的名字…
+
+##### 对话分支 1
+
+- **旅行者:** 似乎在哪里听过…
+
+**派蒙:** 你这样一说确实欸，之前拿到「通牒金盘」的时候，我记得是说另外一枚就在奥奇卡纳塔吧！
+
+**派蒙:** 不过龙遗物研究协会的人也说，那是连他们都不敢涉足的禁地，怪不得会是这样…
+
+##### 对话分支 2
+
+- **旅行者:** 听起来是个很重要的地方。
+
+**派蒙:** 哇，你这样一说确实，名字里有纳塔呢！唔，该不会过去的纳塔人也住在城市里？这倒没听大家说过呢。
+
+##### 共同后续
+
+**派蒙:** 「为了无数冒险家所追寻的『回还之玉』」，这家伙似乎是为了寻找什么东西才进入前面那座古城的。
+
+**派蒙:** 「回还之玉」…听上去是件了不得的宝物呢，要是我们能找到的话，肯定能大赚一笔吧！
+
+##### 对话分支 1
+
+- **旅行者:** 可能已经是很久以前的事情了。
+
+**派蒙:** 对、对哦！不过也说不定几百年来一直没人找到那个宝物，就等着我们这样伟大冒险家的到来呢！
+
+##### 对话分支 2
+
+- **旅行者:** 可能已经被这个人找到了。
+
+**派蒙:** 对、对哦，不过也说不定吧！既然那么多冒险家都找不到，这家伙也一样没找到的可能性更大呢！
+
+##### 共同后续
+
+**派蒙:** 再说有个这么大的遗迹在这里，不进去看看也不是我们的风格吧。
+
+##### 对话分支 1
+
+- **旅行者:** 确实也不能被白砸那两下。
+
+**派蒙:** 哇，没想到你的报复心这么重。虽然我们肯定还是会遇到那条坏龙的，可不能再让它祸害别的冒险家了！
+
+##### 对话分支 2
+
+- **旅行者:** 不能放过那条坏龙。
+
+**派蒙:** 是哦，要是再遇到那条坏龙的话可得好好教训它一顿，不能让它再祸害别的冒险家了！
+
+##### 共同后续
+
+**[名字]:** 呀！
+
+**派蒙:** 听到和龙有关的事情，[名字]似乎也很有干劲呢！
+
+**派蒙:** 那么我们就出发吧，目标，「奥奇卡纳塔」！
+
+#### 前往奥奇卡纳塔
+
+#### 继续探索奥奇卡纳塔
+
+#### 设法躲入前方的塔楼
+
+#### 在塔楼中探索
 
 #### 在塔楼中探索
 
@@ -970,59 +1659,81 @@ The words came from the golden pattern.
 
 **派蒙:** 是我的错觉吗，好像是一道金光保护了我们。
 
+##### 对话分支 1
+
 - **旅行者:** 刚才确实有看到金色的花纹…
 
-- **旅行者:** 总之是得救了。
-
-**派蒙:** 欸？难道是之前遇见小家伙的时候也见过的那种金色花纹？是那个花纹把我们指引到这里来的吗？
+**派蒙:** 欸？难道是之前遇见[名字]的时候也见过的那种金色花纹？是那个花纹把我们指引到这里来的吗？
 
 **派蒙:** 怎么说，感觉就像是有什么力量在暗中帮助我们呢！
 
+##### 对话分支 2
+
+- **旅行者:** 总之是得救了。
+
+##### 共同后续
+
 **派蒙:** 至少这里面看起来还比较安全啦…呃啊，没想到竟然有一天会被丘丘人追着跑！
 
-**小家伙:** 呀…嗯？
+**[名字]:** 呀…嗯？
 
-**派蒙:** 怎么了，小家伙你没事吧？
+**派蒙:** 怎么了，[名字]你没事吧？
 
-**小家伙:** 唔…
+**[名字]:** 唔…
 
 **派蒙:** 难不成是这里面有什么你在意的地方吗？
 
 **派蒙:** 唔…被那些家伙堵在门口一时半会也出不去，我们就先在这里面探索看看吧。
 
+#### 在塔楼中探索
+
+#### 在塔楼中探索
+
 #### 与神秘的冒险家对话
 
-**玻娜:** 喂，前面的家伙！
+**？？？:** 喂，前面的家伙！
 
-**玻娜:** 嗯嗯，没错，说的就是你们三位，转过身来啦。
+**？？？:** 嗯嗯，没错，说的就是你们三位，转过身来啦。
 
-**玻娜:** 哦？看起来听得懂人话嘛！
+**？？？:** 哦？看起来听得懂人话嘛！
 
-**玻娜:** 真是吓了我一跳，我还以为是什么假扮成人类模样的深渊魔物。要是你们不回话的话，我可就打算先下手为强了。
+**？？？:** 真是吓了我一跳，我还以为是什么假扮成人类模样的深渊魔物。要是你们不回话的话，我可就打算先下手为强了。
+
+##### 对话分支 1
 
 - **旅行者:** 被吓到的是我们吧。
 
-- **旅行者:** 幸好我反应快。
-
 **派蒙:** 对啊，我们也没想到这里会有其他人吧！
 
-**玻娜:** 哦？所以才这么自信地把背后暴露给我吗？
+##### 对话分支 2
+
+- **旅行者:** 幸好我反应快。
+
+**？？？:** 哦？所以才这么自信地把背后暴露给我吗？
 
 **派蒙:** 我们也没想到这里会有其他人吧！
 
+##### 共同后续
+
 **玻娜:** 嘿，不管怎么说，能在这里相遇也是一种机缘呢。我是来自「花羽会」的王牌冒险家，叫我玻娜就好。
+
+##### 对话分支 1
 
 - **旅行者:** 我是旅行者。
 
+**派蒙:** 嗯嗯，然后我是派蒙，我们也是来这里探险的冒险家。还有这个小家伙，[名字]，是和我们一起的伙伴！
+
+##### 对话分支 2
+
 - **旅行者:** 这是我的雇主派蒙。
 
-**派蒙:** 嗯嗯，然后我是派蒙，我们也是来这里探险的冒险家。还有这个小家伙，小家伙，是和我们一起的伙伴！
+**派蒙:** 嗯？什么啦，接下来你该不会是想说你是我的向导吧？好啦，总之他是旅行者，我们也是刚到这里的冒险家。 / 嗯？什么啦，接下来你该不会是想说你是我的向导吧？好啦，总之她是旅行者，我们也是刚到这里的冒险家。
 
-**派蒙:** 嗯？什么啦，接下来你该不会是想说你是我的向导吧？好啦，总之他 / 她是旅行者，我们也是刚到这里的冒险家。
+**派蒙:** 还有这个小家伙，[名字]，是和我们一起冒险的伙伴！
 
-**派蒙:** 还有这个小家伙，小家伙，是和我们一起冒险的伙伴！
+##### 共同后续
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
 **派蒙:** 对了，该不会玻娜也是为了寻找那个什么「回还之玉」而来到这里的冒险家吧？
 
@@ -1038,13 +1749,19 @@ The words came from the golden pattern.
 
 **派蒙:** 喂，首先导航精灵是什么乱七八糟的啦！而且你也太小看我们了，我们可不是什么新人。
 
-- **旅行者:** 我们经验很丰富。
+##### 对话分支 1
 
-- **旅行者:** 她可是提瓦特最厉害的冒险家派蒙。
+- **旅行者:** 我们经验很丰富。
 
 **派蒙:** 没错，你要是不相信的话，可以去冒险家协会找凯瑟琳小姐打听打听，我们可是很厉害的！
 
+##### 对话分支 2
+
+- **旅行者:** 她可是提瓦特最厉害的冒险家派蒙。
+
 **派蒙:** 什么啦？倒是也没有这么夸张，不过我们两个加起来的话，怎么也算是提瓦特超一流的冒险家吧！
+
+##### 共同后续
 
 **派蒙:** 对了，要不让你看看我们的冒险之证吧。这可是经过冒险家协会认证的，我们的冒险经历在上面可是记录得很清楚呢！
 
@@ -1064,21 +1781,29 @@ The words came from the golden pattern.
 
 **玻娜:** 当然最重要的，就是踏出第一步的勇气！在你做好觉悟踏上冒险之路的时候，就已经成为冒险家了。
 
+##### 对话分支 1
+
 - **旅行者:** 我的好奇心就交给派蒙了。
-
-- **旅行者:** 我很喜欢多管闲事。
-
-- **旅行者:** 重要的是勇气啊。
 
 **派蒙:** 嘿嘿，就交给我吧！不管是对宝藏还是对好吃的，我的好奇心可是无穷无尽的！
 
 **派蒙:** 顺带一提，今天早上我吃了超级好吃的火焰炖肉。
 
-这应该不是伏笔吧。
+- **旅行者:** 这应该不是伏笔吧。
+
+##### 对话分支 2
+
+- **旅行者:** 我很喜欢多管闲事。
 
 **派蒙:** 那应该叫助人为乐吧？哪有这样说自己的啊！
 
+##### 对话分支 3
+
+- **旅行者:** 重要的是勇气啊。
+
 **玻娜:** 好吧，敢于踏足这座禁忌的古城，你们的勇气我也是看到啦。
+
+##### 共同后续
 
 **玻娜:** 不过你们到底是怎么跑到这里面来的？唯一的入口应该已经封闭了啊。既然你们能进来的话，该不会外面的魔物也…
 
@@ -1090,7 +1815,7 @@ The words came from the golden pattern.
 
 **派蒙:** 绿宝？绿宝又是谁啊，难道说这里还有其他人？
 
-**玻娜:** 嗯，类比来说的话就像你们和小家伙，可以算是我的伙伴呢…哎呀，总之你们跟我来就知道了。
+**玻娜:** 嗯，类比来说的话就像你们和[名字]，可以算是我的伙伴呢…哎呀，总之你们跟我来就知道了。
 
 跟随玻娜的脚步，你们一同回到了地上。
 
@@ -1102,17 +1827,23 @@ The words came from the golden pattern.
 
 **派蒙:** 好可爱的小家伙。感觉就像是绿色的飘浮灵。
 
+##### 对话分支 1
+
 - **旅行者:** 听起来一点也不可爱吧。
+
+##### 对话分支 2
 
 - **旅行者:** 派蒙好过分。
 
+##### 共同后续
+
 **玻娜:** 哇，说是飘浮灵也太过分了！这孩子叫「绿松石」，是我起的名字喔，怎么样？看起来闪闪亮亮的很贴切吧！
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
 **「绿松石」:** 咕噜？
 
-**小家伙:** 呀…呀！
+**[名字]:** 呀…呀！
 
 **派蒙:** 欸，你们两个倒是很聊得来嘛。所以说刚才发出那道光芒救了我们的就是这个小家伙咯，真是不可思议！
 
@@ -1130,13 +1861,19 @@ The words came from the golden pattern.
 
 **玻娜:** 虽然你们的实力我还不是很清楚，但是这种情况，结伴同行总是没错的，毕竟也不能抛下你们不管嘛！
 
-- **旅行者:** 正合我意！
+##### 对话分支 1
 
-- **旅行者:** 我们才是不能抛下你不管吧。
+- **旅行者:** 正合我意！
 
 **玻娜:** 很果断嘛，这种气势我喜欢！
 
+##### 对话分支 2
+
+- **旅行者:** 我们才是不能抛下你不管吧。
+
 **玻娜:** 哦？可别小看我哦，不过这种气势我很喜欢！
+
+##### 共同后续
 
 **派蒙:** 哼，就算是为了不让那家伙再祸害别人，我们也得再去会会那条坏龙！
 
@@ -1154,6 +1891,12 @@ The words came from the golden pattern.
 
 **玻娜:** 守护古城的秘源碎屑散布在古城的各处，嗯…顺着光芒所指示的方向就能找到吧！
 
+#### 离开塔楼
+
+#### 离开塔楼
+
+#### 探索流灰之街并收集秘源碎屑
+
 #### 探索流灰之街
 
 **玻娜:** 哼，差不多是时候了呢，如果能在这里将它击落的话…
@@ -1163,6 +1906,10 @@ The words came from the golden pattern.
 **玻娜:** 嗯嗯，只要使出那个就可以了。旅行者，试着把手放到绿宝身上吧…
 
 **玻娜:** 「超能特攻光线」，发射！
+
+#### 使用「超能特攻光线」击落恶龙
+
+#### 使用「超能特攻光线」击落恶龙
 
 #### 寻找恶龙的踪迹
 
@@ -1176,17 +1923,23 @@ The words came from the golden pattern.
 
 **「绿松石」:** 咕…
 
-**小家伙:** 呜呜…
+**[名字]:** 呜呜…
 
-**派蒙:** 欸？我不是说小家伙没派上用场的意思啦，别难过呀。
+**派蒙:** 欸？我不是说[名字]没派上用场的意思啦，别难过呀。
+
+##### 对话分支 1
 
 - **旅行者:** 派蒙真不会说话。
 
+**派蒙:** 旅行者你也帮我解释一下啊，每个人擅长的地方都不一样，只是这里不适合[名字]发挥而已吧。
+
+##### 对话分支 2
+
 - **旅行者:** 每个人都有擅长的领域。
 
-**派蒙:** 旅行者你也帮我解释一下啊，每个人擅长的地方都不一样，只是这里不适合小家伙发挥而已吧。
+**派蒙:** 对啊，接下来说不定就到了[名字]大放异彩的时候了呢。
 
-**派蒙:** 对啊，接下来说不定就到了小家伙大放异彩的时候了呢。
+##### 共同后续
 
 **派蒙:** 话说回来，坏龙是往那个方向飞了吗？
 
@@ -1198,13 +1951,25 @@ The words came from the golden pattern.
 
 **玻娜:** 不过这次我们有这么多人，你们又这么能打，看来是不用担心啦。
 
+##### 对话分支 1
+
 - **旅行者:** 可别光指望我。
 
+##### 对话分支 2
+
 - **旅行者:** 不好意思，我有点急事…
+
+##### 共同后续
 
 **玻娜:** 哎呀放心啦，这次当然是我打头阵，不过我的后背就交给你们了。
 
 **玻娜:** 时间紧迫，我们出发吧！
+
+#### 寻找恶龙的踪迹
+
+#### 击败盘踞龙巢的恶龙
+
+#### 击败盘踞龙巢的恶龙
 
 #### 取回火磷石
 
@@ -1212,13 +1977,19 @@ The words came from the golden pattern.
 
 **派蒙:** 刚才明明差一点就能抓住它了吧。也不知道怎么回事，它像是突然又恢复了力量一样…
 
-- **旅行者:** 「这里还不是终点」…
+##### 对话分支 1
 
-- **旅行者:** 是金色的花纹…
+- **旅行者:** 「这里还不是终点」…
 
 **派蒙:** 嗯？难不成你能听懂那条坏龙说话？
 
-是金色的花纹上说的啦。
+- **旅行者:** 是金色的花纹上说的啦。
+
+##### 对话分支 2
+
+- **旅行者:** 是金色的花纹…
+
+##### 共同后续
 
 **派蒙:** 欸？你又看到那个金色花纹了吗，难道又是那个什么「盗火贤者」留下来的启示？
 
@@ -1242,7 +2013,7 @@ The words came from the golden pattern.
 
 **玻娜:** 捡到的笔记？因为这种理由就跑到了这座禁忌之城「奥奇卡纳塔」里来，该说不说，还真是艺高人胆大呢。
 
-**玻娜:** 既然你们连「回还之玉」的事情都不清楚，应该也没听说过「托纳天蛇船蒂乌」的故事吧？
+**玻娜:** 既然你们连「回还之玉」的事情都不清楚，应该也没听说过「托纳(天蛇船)蒂乌」的故事吧？
 
 **玻娜:** 那是曾经统治奥奇卡纳塔的暴君，蛇王奥奇坎所建造的满载宝物的天船，是无数纳塔的冒险家所追逐的目标。
 
@@ -1252,19 +2023,25 @@ The words came from the golden pattern.
 
 **玻娜:** 数十年前，深渊灾厄曾一度摧毁我们的部族，盘踞在这座古城的邪龙，也是那个时候才出现的。
 
-**玻娜:** 而据说在「天蛇船」上无数的宝物中有一件「回还奥梅忒托之玉」，据说只要找到它便能镇压这座被深渊浸染的古城。
+**玻娜:** 而据说在「天蛇船」上无数的宝物中有一件「回还(奥梅忒托)之玉」，据说只要找到它便能镇压这座被深渊浸染的古城。
 
 **玻娜:** 那时大家刚刚目睹了深渊带来的噩梦，如果能够找到这件宝物，镇压这里的污秽的话，部族的大家也就不用再生活在恐惧中了。
 
 **玻娜:** 老爹就是为了这个才踏上旅途的…虽然，最后他也没能成功回来，只留下了这块在遗迹中寻到的火磷石…
 
-- **旅行者:** 我很抱歉…
+##### 对话分支 1
 
-- **旅行者:** 难道是因为那条邪龙…
+- **旅行者:** 我很抱歉…
 
 **玻娜:** 没关系的，其实我都从来没见过老爹，这些事情都是曾和老爹一同冒险的阿姨告诉我的。
 
+##### 对话分支 2
+
+- **旅行者:** 难道是因为那条邪龙…
+
 **玻娜:** 谁知道呢？其实我都从来没见过老爹，这些事情都是曾和老爹一同冒险的阿姨告诉我的。
+
+##### 共同后续
 
 **玻娜:** 老爹他们在遗迹中找到的铭文上说，只要将火磷石奉献到古城里的源火祭坛上，来自久远过去的风便会指明通往天蛇船的道路。
 
@@ -1286,13 +2063,19 @@ The words came from the golden pattern.
 
 **玻娜:** 不过现在好啦，多亏有你们帮忙才赶跑了邪龙，拿回了火磷石，我也可以继续出发去找源火祭坛了。
 
-- **旅行者:** 一定要找到「回还之玉」不可吗？
+##### 对话分支 1
 
-- **旅行者:** 你没算上我们？
+- **旅行者:** 一定要找到「回还之玉」不可吗？
 
 **玻娜:** 嗯，一定要去的，毕竟就是为了找到它，我才会成为冒险家的。
 
+##### 对话分支 2
+
+- **旅行者:** 你没算上我们？
+
 **玻娜:** 怎么会，我现在正打算求你们呢！
+
+##### 共同后续
 
 **玻娜:** 只要跟随绿宝的指示，一定就能找到源火祭坛，然后一起去往空中的天蛇船…
 
@@ -1308,27 +2091,33 @@ The words came from the golden pattern.
 
 **玻娜:** 真的吗？太好了，我果然没看错人，我就知道你们一定会答应的！有你们在，这次一定能完成老爹的夙愿了。
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
-**派蒙:** 小家伙也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
+**派蒙:** [名字]也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
 
 **派蒙:** 可恶，结果这次还是让它跑掉了！
 
 **派蒙:** 刚才明明差一点就能抓住它了吧。也不知道怎么回事，它像是突然又恢复了力量一样…
 
-- **旅行者:** 「这里还不是终点」…
+##### 对话分支 1
 
-- **旅行者:** 是金色的花纹…
+- **旅行者:** 「这里还不是终点」…
 
 **派蒙:** 嗯？难不成你能听懂那条坏龙说话？
 
-是金色的花纹上说的啦。
+- **旅行者:** 是金色的花纹上说的啦。
 
-**派蒙:** 欸？又是我们遇见小家伙的时候看到的那种花纹吗，唔…该不会这条坏龙和小家伙有什么关联？
+##### 对话分支 2
 
-**小家伙:** 唔…
+- **旅行者:** 是金色的花纹…
 
-**派蒙:** 啊，小家伙，我不是在怀疑你的意思啦！但是从进到这座古城开始就感觉很奇怪，像是有人一直在指引着我们一样…
+##### 共同后续
+
+**派蒙:** 欸？又是我们遇见[名字]的时候看到的那种花纹吗，唔…该不会这条坏龙和[名字]有什么关联？
+
+**[名字]:** 唔…
+
+**派蒙:** 啊，[名字]，我不是在怀疑你的意思啦！但是从进到这座古城开始就感觉很奇怪，像是有人一直在指引着我们一样…
 
 **派蒙:** 唔，或许是我想多了吧。
 
@@ -1350,7 +2139,7 @@ The words came from the golden pattern.
 
 **玻娜:** 捡到的笔记？因为这种理由就跑到了这座禁忌之城「奥奇卡纳塔」里来，该说不说，还真是艺高人胆大呢。
 
-**玻娜:** 既然你们连「回还之玉」的事情都不清楚，估计也没听说过「托纳天蛇船蒂乌」的故事吧？
+**玻娜:** 既然你们连「回还之玉」的事情都不清楚，估计也没听说过「托纳(天蛇船)蒂乌」的故事吧？
 
 **玻娜:** 那是曾经统治奥奇卡纳塔的暴君，蛇王奥奇坎所建造的满载宝物的天船，是无数纳塔的冒险家所追逐的目标。
 
@@ -1360,19 +2149,25 @@ The words came from the golden pattern.
 
 **玻娜:** 数十年前，深渊灾厄曾一度摧毁我们的部族，盘踞在这座古城的邪龙，也是那个时候才出现的。
 
-**玻娜:** 而据说在「天蛇船」上无数的宝物中有一件「回还奥梅忒托之玉」，据说只要找到它便能镇压这座被深渊浸染的古城。
+**玻娜:** 而据说在「天蛇船」上无数的宝物中有一件「回还(奥梅忒托)之玉」，据说只要找到它便能镇压这座被深渊浸染的古城。
 
 **玻娜:** 那时大家刚刚目睹了深渊带来的噩梦，如果能够找到这件宝物，镇压这里的污秽的话，部族的大家也就不用再生活在恐惧中了。
 
 **玻娜:** 老爹就是为了这个才踏上旅途的…虽然，最后他也没能成功回来，只留下了这块在遗迹中寻到的火磷石…
 
-- **旅行者:** 我很抱歉…
+##### 对话分支 1
 
-- **旅行者:** 难道是因为那条邪龙…
+- **旅行者:** 我很抱歉…
 
 **玻娜:** 没关系的，其实我都从来没见过老爹，这些事情都是曾和老爹一同冒险的阿姨告诉我的。
 
+##### 对话分支 2
+
+- **旅行者:** 难道是因为那条邪龙…
+
 **玻娜:** 谁知道呢？其实我都从来没见过老爹，这些事情都是曾和老爹一同冒险的阿姨告诉我的。
+
+##### 共同后续
 
 **玻娜:** 老爹他们在遗迹中找到的铭文上说，只要将火磷石奉献到古城里的源火祭坛上，来自久远过去的风便会指明通往天蛇船的道路。
 
@@ -1394,13 +2189,19 @@ The words came from the golden pattern.
 
 **玻娜:** 不过现在好啦，多亏有你们帮忙才赶跑了邪龙，拿回了火磷石，我也可以继续出发去找源火祭坛了。
 
-- **旅行者:** 一定要找到「回还之玉」不可吗？
+##### 对话分支 1
 
-- **旅行者:** 你没算上我们？
+- **旅行者:** 一定要找到「回还之玉」不可吗？
 
 **玻娜:** 嗯，一定要去的，毕竟就是为了找到它，我才会成为冒险家的。
 
+##### 对话分支 2
+
+- **旅行者:** 你没算上我们？
+
 **玻娜:** 怎么会，我现在正打算求你们呢！
+
+##### 共同后续
 
 **玻娜:** 你们也是为了「回还之玉」而来的吧，那么愿意和我一起吗？你们的战力加上我的知识，一起行动的话可以说是事半功倍呢。
 
@@ -1416,6 +2217,8 @@ The words came from the golden pattern.
 
 **玻娜:** 真的吗？太好了，我果然没看错人，我就知道你们一定会答应的！有你们在，这次一定能完成老爹的夙愿了。
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
-**派蒙:** 小家伙也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
+**派蒙:** [名字]也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
+
+#### 使用「超能特攻光线」击落恶龙

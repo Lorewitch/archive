@@ -540,3 +540,857 @@ It was a Vision, silently glowing in her hand.
 「师父，我变强了哦！我不会让大家的努力就这么白费——从今天起，由我来保护大家。」
 
 一枚神之眼，在她手中安静地绽放着光芒。
+
+# voice_source_ids: 67000,67001,67002,67003,67004,67005,67006,67007,67008,67009,67010,67011,67012,67013,67014,67015,67016,67017,67018,67019,67020,67021,67022,67023,67024,67025,67026,67027,67028,67029,67030,67031,67032,67033,67034,67035,67036,67037,67038,67039,67040,67041,67042,67043,67044,67045,67046,67047,67048,67049,67050,67051,67052,67053,67054,67055,67056,67057,67058,67059,67060,67061,67062,67063,67064,67065,67066,67067,67068,67069
+
+## REPLICAS_RU
+
+### Привет...
+
+Стажёр Лесного дозора Коллеи готова к службе! Я буду отвечать за твою безопасность в лесу Авидья... Уф, кажется, всё сказала правильно, нигде не сбилась...
+
+### Поболтаем: Маршрут патрулирования леса
+
+Сегодня у нас такой маршрут... Сначала сюда, потом туда... Ох, сколько же тут всего написано...
+
+### Поболтаем: Самочувствие
+
+Гм, сегодня я неплохо себя чувствую. А раз так, надо побольше всего успеть.
+
+### Поболтаем: Воспоминания
+
+Когда сидишь без дела, в голове всё время крутятся разные мысли... Гм... Вспомнилось кое-что неприятное...
+
+### После дождя...
+
+Дождь прошёл, но после него осталось много луж, будь осторожен! Так и разные события проходят, оставляя после себя воспоминания... Хе-хе! / Дождь прошёл, но после него осталось много луж, будь осторожна! Так и разные события проходят, оставляя после себя воспоминания... Хе-хе!
+
+### Когда гремит гром...
+
+Во время грозы лучше держаться подальше от высоких деревьев. А дозорным следует быть особенно внимательными и следить, чтобы не случилось лесного пожара.
+
+### Когда светит солнце...
+
+Какая славная погода. Погреться на солнышке и для здоровья полезно.
+
+### Когда дует сильный ветер...
+
+Гм, ветер - это здорово. Эмбер обожает такую погоду, для неё это отличная возможность испытать себя.
+
+### Доброе утро...
+
+Доброе утро!.. Уа-а-х... Извини, я вчера опять занималась допоздна...
+
+### Добрый день...
+
+Если выходишь на длинный маршрут, не всегда удаётся вернуться в лагерь к обеденному перерыву. Я взяла с собой немного питы. Хочешь попробовать?
+
+### Добрый вечер...
+
+Скоро стемнеет, в такое время в лесу нельзя терять бдительности.
+
+### Спокойной ночи...
+
+Собираешься спать? Костёр разведён, ты ложись, а я подежурю.
+
+### О Коллеи: Лесной дозор
+
+Перед тем, как оказаться в Сумеру, я какое-то время бродяжничала, приходилось есть всё подряд: и съедобное, и несъедобное. Зато с тех пор я не боюсь дикой природы, потому и устроилась в Лесной дозор. Если бы у нас был экзамен по предмету «Выживание в дикой местности», я сдала бы его на отлично... Устный экзамен, конечно. С письменным возникли бы трудности.
+
+### О Коллеи: Дополнительные занятия
+
+А? Ты хочешь спросить, чему посвящены мои дополнительные занятия? Думаешь, наставник передаёт мне какие-то сокровенные знания?.. Гм... Как тебе сказать... Я изучаю «Основы грамотности Тейвата»...
+
+### О нас: Старое знакомство
+
+Эмбер писала мне про тебя. Не думала, что в Мондштадте за это время столько всего случится. Жаль, я пока плохо читаю, некоторые слова не могу разобрать... Может, расскажешь мне ещё раз, что там у вас произошло?
+
+### О нас: Новая дружба
+
+Пока я не попала в Мондштадт, думала, что у меня никогда в жизни не будет друзей... Потом в Сумеру я познакомилась с наставником, а теперь встретилась с тобой. Всё-таки мне очень повезло.
+
+### Глаз Бога...
+
+Ха... Не думала, что и мне однажды будет дарован Глаз Бога. Раньше я верила, что Архонты жалуют своей милостью только тех людей, которые с самого детства окружены любовью... Гм... Да... Признаю, у меня много предрассудков. Надо их исправлять.
+
+### Давай поделимся: Названия техник
+
+Наставник говорит, что главное в обучении - практика, поэтому я иногда беру почитать какие-нибудь лёгкие романы, чтобы выучить новые слова... Во всяком случае, их читать интереснее, чем научные работы наставника. Но в последней книге главный герой владеет разными техниками, и у всех такие непонятные названия... А? Как называется книга? Гм, кажется... «Онибудо»? Ты тоже её читал? / Наставник говорит, что главное в обучении - практика, поэтому я иногда беру почитать какие-нибудь лёгкие романы, чтобы выучить новые слова... Во всяком случае, их читать интереснее, чем научные работы наставника. Но в последней книге главный герой владеет разными техниками, и у всех такие непонятные названия... А? Как называется книга? Гм, кажется... «Онибудо»? Ты тоже её читала?
+
+### Давай поделимся: Запечатанная сила
+
+Ох... «Это проделки запечатанной силы»... «Держись от меня подальше!» Почему жители Инадзумы так легко бросаются подобными словами? Неужели им потом не стыдно? Ай... Нет, не могу больше читать!
+
+### Интересные вещи...
+
+Животные и растения... Одни съедобные, другие нет, вот и вся разница. Тсс, если наставник услышит, мне конец. Знаешь, я очень люблю деревья, у которых есть дупла. Особенно когда хочется спрятаться... Каждому человеку бывает нужно куда-нибудь спрятаться. Разве нет?
+
+### О Тигнари...
+
+Наставник бывает резок в словах, часто ругает искателей приключений, которые любят наесться ядовитых грибов, но на самом деле он очень добрый человек. Он много со мной занимается, а ещё читает мне письма из Мондштадта. Я так ему благодарна!
+
+### О Дори...
+
+Я встретила её во время одного из патрулей, она как будто знала, что я хочу пить, и вытащила из своего мешка бутылку прохладного сока... Хорошо, что наставник был рядом, он её остановил. Иначе я бы потратила на этот сок всю накопленную мору...
+
+### О малой властительнице Кусанали...
+
+Дендро Архонт... В детстве я часто хотела спросить Архонтов, почему на мою долю выпало столько невзгод. Эх, наверное, Архонты тоже не всесильны.
+
+### О Сайно...
+
+Ой, можешь не говорить о нём при мне? Нет, махаматра - не плохой человек, это он забрал меня из Мондштадта, и теперь в Сумеру у меня появился безопасный дом. Но стоит вспомнить, как они накладывали мне эту «печать»... Ох... Шея снова заныла...
+
+### О Кавехе...
+
+Однажды махаматра приводил его к нам на ужин. Только успели поставить на стол первые фрукты, как он завёл бесконечный рассказ о своём бесчувственном и упрямом соседе, мы даже слова не могли вставить. Только кивали и улыбались, так и прошёл весь ужин. Да, непростой он человек.
+
+### О Нилу...
+
+Она какая-то рассеянная. Если бы её пригласили выступить в окрестностях Гандхарвы, она бы наверняка заблудилась в лесу... Нет, я бы не дала ей заблудиться, ведь я стажёр Лесного дозора.
+
+### Об Эмбер...
+
+Эмбер такая молодец, она добрая, весёлая, смелая и справедливая... Я никого так не уважаю, я перед ней просто преклоняюсь! Она вся светится, словно огонёк, и людям вокруг становится теплее. Не знаю, где бы я сейчас была, если бы не она... Так много времени прошло, она наверняка повзрослела и стала ещё красивей! Не знаю, смогу ли когда-нибудь за ней угнаться.
+
+### О Кэйе...
+
+Как поживают наши друзья в Мондштадте? Я тогда доставила им много хлопот, надо бы вернуться и извиниться... Гм, вот только в Мондштадте мне придётся слушать постоянные издёвки от этого капитана кавалерии... Ладно, подождём, подождём ещё немного...
+
+### О Лизе...
+
+Прошло так много времени, но в письмах Лиза до сих пор называет меня «малышка Коллеи», даже не знаю... А? Тебя она называет милашкой? Пха-ха... Извини, я не над тобой смеюсь... Просто настроение сразу поднялось!
+
+### О Фишль...
+
+«Принцесса осуждения»? Извини, я пробыла в Мондштадте не так долго, ничего о ней не слышала. Но это имя... Хм... Да нет, ничего.
+
+### Узнать больше о Коллеи I
+
+Обо мне? Хочешь узнать, что я делала до того, как попасть в Сумеру? Гм... Может, напишешь Эмбер? Ай, нет, если Кэйа узнает, то всё... А он точно узнает! Гм-гм, ладно, тогда я сама расскажу... Уф, извини! Мне нужно пару дней, чтобы настроиться.
+
+### Узнать больше о Коллеи II
+
+Оказавшись в Мондштадте, я наговорила Эмбер и всем остальным много такого, о чём сейчас жалею... Как я могла, ведь они хотели мне помочь! Что они тогда обо мне подумали? Даже представить страшно... Ох, извини. Давай пока остановимся здесь? А то завтра... Мне снова будет стыдно за свои слова.
+
+### Узнать больше о Коллеи III
+
+Из-за элеазара меня отправили лечиться к «Доктору»... Нет, это было не лечение, а «эксперименты». Шло время, и я стала невольно задумываться, что я сделала не так? Почему никто не приходит мне на помощь... И возненавидела всех людей, даже тех, кто не имел отношения к Фатуи. Вспоминаю себя тогда... Я была такой глупой.
+
+### Узнать больше о Коллеи IV
+
+Благодаря вам, мой элеазар пропал без следа. Это чудо, о котором я даже не мечтала. Я и не смела надеяться на полное выздоровление, я просто хотела побольше успеть, пока моё тело ещё живёт. Сначала это была месть, потом Лесной дозор... Теперь я свободна жить собственной жизнью.
+
+### Узнать больше о Коллеи V
+
+Ты ведь продолжишь путешествовать? Позволь и мне помочь? Я всему буду усердно учиться... Грамоте, медицине, сражениям, оценке опасностей... Даже мелочам вроде проверки фонарей! Надеюсь, что по пути мы поможем ещё многим людям... Как ты помог мне. / Ты ведь продолжишь путешествовать? Позволь и мне помочь? Я всему буду усердно учиться... Грамоте, медицине, сражениям, оценке опасностей... Даже мелочам вроде проверки фонарей! Надеюсь, что по пути мы поможем ещё многим людям... Как ты помогла мне.
+
+### Хобби Коллеи...
+
+Хобби... Шить, оттачивать свои лётные навыки, помогать людям! А? Говоришь, где-то уже это слышал? Потому что... Я тоже хочу стать человеком, рядом с которым «всем становится теплее». / Хобби... Шить, оттачивать свои лётные навыки, помогать людям! А? Говоришь, где-то уже это слышала? Потому что... Я тоже хочу стать человеком, рядом с которым «всем становится теплее».
+
+### Беспокойство Коллеи...
+
+«В настоящее время... В целях унификации... различных сортов сельскохозяйственных культур... Во избежание длительного употребления в пищу съедобных грибов... Принимаются меры по импорту...» Что это такое? Почему в научных работах Академии всё так непонятно? Почему нельзя просто написать: «Мы не хотим есть одни грибы»?
+
+### Любимая еда...
+
+Наверное, пита? Её удобно брать с собой в дозор, а ещё она отлично утоляет голод. А если помечтать... Тогда, наверное, моё любимое блюдо - редисовые шарики.
+
+### Нелюбимая еда...
+
+Скитаясь, я так голодала, что ела даже волчьи крюки, раскрошенные в порошок. Так что нелюбимой еды у меня нет. Разве что грибы я стараюсь не трогать... Дело не во вкусе, просто не хочется оказаться среди тех самых людей, которых так критикует наставник.
+
+### Подарок I
+
+Ого, как вкусно! Научишь меня такому рецепту?
+
+### Подарок II
+
+С таким кулинарным талантом ты не будешь голодать, даже если однажды окажешься на улице.
+
+### Подарок III
+
+Извини, наставник не разрешает мне пробовать странную еду.
+
+### День рождения...
+
+С днём... С днём рождения! А это тортик, я испекла его для тебя, а вот запасная свечка... Эмбер писала, что этого должно хватить... Ой, а ещё, чуть не забыла, вот мой подарок!
+Извини, я никогда ещё не поздравляла друзей с днём рождения, не знаю, понравится ли тебе мой подарок... Но я старалась. Если что-то не так, обязательно скажи, в следующем году я подготовлюсь лучше!
+
+### Чувство возвышения: Начало
+
+Я становлюсь лучше?
+
+### Чувство возвышения: Нарастание
+
+Я чувствую, что я теперь... Не такая, какой была раньше.
+
+### Чувство возвышения: Кульминация
+
+Даже если моя жизнь окажется под угрозой, я не стану пользоваться их силой.
+
+### Чувство возвышения: Окончание
+
+Если я сейчас освобожу запечатанную силу, она ведь всё равно будет мне подвластна, правда?
+Шучу! Моя настоящая сила - опыт, который я получила во время наших с тобой приключений!
+
+### Элементальный навык I
+
+Уходи.
+
+### Элементальный навык II
+
+Лети.
+
+### Взрыв стихии I
+
+Куйлейн-Анбар, помоги!
+
+### Взрыв стихии II
+
+Попробуй-ка вот это!
+
+### Взрыв стихии III
+
+Потанцуем!
+
+### Открытие сундука I
+
+В лесу нужно своевременно пополнять свои запасы.
+
+### Открытие сундука II
+
+Какая удача!
+
+### Открытие сундука III
+
+Гм... Вроде ядовитых грибов там нет.
+
+### Низкий уровень HP I
+
+Мы ещё поквитаемся...
+
+### Низкий уровень HP II
+
+Ерунда, царапина! Бывало и хуже.
+
+### Низкий уровень HP III
+
+Врача... Скорее...
+
+### Низкий уровень HP компаньона I
+
+Здоровье превыше всего!
+
+### Низкий уровень HP компаньона II
+
+Нет, так не пойдёт.
+
+### Без сознания I
+
+Я хотела стать... хорошим дозорным.
+
+### Без сознания II
+
+И это... всё?
+
+### Без сознания III
+
+Значит... этот день настал...
+
+### Получен тяжёлый удар I
+
+Как же так...
+
+### Получен тяжёлый удар II
+
+Не трогай меня!
+
+### Присоединяется к группе I
+
+Вы под моей защитой.
+
+### Присоединяется к группе II
+
+Готовы? В путь!
+
+### Присоединяется к группе III
+
+Стажёр Лесного дозора готова к службе!
+
+### О Фарузан...
+
+Гм... Честно говоря, я не знаю, как себя с ней вести... Она всё время хвалит меня за усердие в учёбе, но мне приходится так много учиться только потому, что у меня ничего не получается! А однажды я случайно увидела её исследовательские заметки - я только пробежала глазами по странице, ничего толком не успела прочитать, но это самая страшная книга во всём Сумеру! Страница была испещрена древними письменами, ни одного слова не разобрать...
+
+### Элементальный навык III
+
+Хи-хи!
+
+## REPLICAS_EN
+
+### Hello
+
+Trainee Forest Ranger Collei, reporting for duty! I will ensure your safe passage through this forest. ...Phew, I think I've finally got that line down! ...I—I didn't get any of it wrong, did I?
+
+### Chat: Forest Patrol Route Map
+
+According to today's forest patrol route map... we need to head here first, then make our way over to there... Hmm... There's a loooot of writing...
+
+### Chat: Status
+
+Ah, I'm feeling alright today. I'll take the chance to try and get some more done than usual.
+
+### Chat: Memory
+
+When I don't have much to keep me occupied, old thought patterns start to creep back in, and— Soon as I start talking about it, the flashbacks start...
+
+### After the Rain
+
+Even though the rain has stopped, you still need to watch out for puddles. Just like how the past stays in the memory, long after... Ah, ahem, sorry!
+
+### When Thunder Strikes
+
+When you hear thunder, it's best practice to stay away from tall trees. Rangers must also be on the lookout for any signs of a forest fire.
+
+### When the Sun Is Out
+
+The weather's not bad. Let's get some sun! Hehe, after all, it's excellent for your health.
+
+### When the Wind Is Blowing
+
+Ahh, the wind is perfect. Not too light, not too strong... Hehe, I bet Amber would be itching to test her limits in this weather.
+
+### Good Morning
+
+Good morning! *yawn* Sorry, I was catching up on my studying again last night...
+
+### Good Afternoon
+
+It's quite normal to be out until midday on the longer patrol routes. I brought a few extra Pita Pockets — would you like one?
+
+### Good Evening
+
+It's getting dark out. You need to be extra careful if you're going through the forest at this hour.
+
+### Good Night
+
+Are you ready to get some sleep? Okay. The campfire's lit — I'll keep watch tonight.
+
+### About Collei: Forest Ranger
+
+I wandered the wilderness for quite a long time before arriving in Sumeru, and I've eaten everything out there countless times — edible or not. Since I'm familiar with the wilderness, the work of a Forest Ranger seemed a natural fit for me when I arrived here. If they did courses in wilderness survival, I'm pretty sure I could pass... well, as long as there was no written test.
+
+### About Collei Herself: Cram
+
+Hmm? You wanna know what it is that I'm studying every day? ...Y—Yes, my master is a brilliant intellectual, but no, he's not teaching me anything heavily academic at the moment. It's, um... heh, "Basic Literacy in Teyvat"...
+
+### About Us: Old Friends
+
+Amber's mentioned you before in her letters. I can't believe how much has happened in Mondstadt since I was there. Too bad I had to skip the words I didn't know, so I missed out on a lot of details... Oh, but since you're here now, would you be willing to tell me the whole story?
+
+### About Us: New Friends
+
+I used to think that I'd never make a single friend in my whole life, but things changed when I went to Mondstadt... Then after that, I met Master in Sumeru. Now I've met you, too. All in all, I think I've been really lucky.
+
+### About the Vision
+
+I never thought there'd come a day where I get my own Vision. In the past, I used to think that the gods only cared about people who were born popular... Um, but I was in a bad place back then. Sorry.
+
+### Something to Share: Skill Names
+
+Master is always reminding me that practice makes perfect, so I sometimes try reading some light novels to improve my reading ability... Because they're at least easier to read than Master's essays. But recently, I was reading this book where the main character has loads of different skills. Each one has a name, and I didn't know a single word in any of them... Hmm? The title? I think it was, um... "Onibudou"? Have you read it before?
+
+### Something to Share: Sealed Power
+
+Ugh... Here we go again: "The power sealed within me grows restless"... and "You'd be wise to stay away from me"... Why are people in Inazuma casually coming out with lines like these all the time? Doesn't it embarrass them when they think back on it later? Aaah... no, it's too cringey. I can't read any more of this!
+
+### Interesting Things
+
+Well, there's plants and animals, there's ones you can eat and ones you can't, but beyond that it's all much of a... uh, muchness really? ...Shh, don't tell Master I said that. Although... personally, I guess I quite like trees that have a hollow in it? Especially in those moments where I just want to curl up in a ball and hide away. Everyone must have moments like that, right? ...No?
+
+### About Tighnari
+
+Although Master can be quite stern and is always criticizing adventurers for carelessly eating poisonous mushrooms, he is actually a gentle soul. He's so patient when he tutors me, and he even reads out letters from Mondstadt for me. I've always been very grateful to him.
+
+### About Dori
+
+I ran into her once on forest ranger duty. She pulled out a bottle of fruit juice from her bag that looked really tasty, as if she somehow knew I was thirsty... Fortunately, Master was there, and he stopped me from spending all of my hard-earned Mora in a moment of weakness...
+
+### About Lesser Lord Kusanali
+
+The Dendro Archon... When I was a kid, there were so many times when I just wanted to scream out to the gods and ask them why, why did I have to go through so much pain...? *sigh* But, for all I know, maybe the gods feel just as helpless about everything they have to endure as I did back then.
+
+### About Cyno
+
+Um... I'd rather not talk about him, if that's okay? Oh, no — the General Mahamatra isn't a bad guy or anything. Matter of fact, I have him to thank for bringing me back from Mondstadt to Sumeru and finding me a safe place to stay. It's just that... whenever I'm reminded of the sealing process just before leaving Mondstadt... ooh... the back of my neck starts hurting again...
+
+### About Kaveh
+
+The General Mahamatra once brought him to our place for a meal. From the moment the fruit arrived on the table, he ranted non-stop about his difficult and stubborn roommate for the entire meal. We didn't get a single word in the whole time. We just nodded along and tried to stifle our laughter. It took a lot of effort.
+
+### About Nilou
+
+She seems a little absent-minded. If she ever comes to perform around Gandharva Ville, I'm worried she'll end up wandering off into the forest and getting lost... So I'll have to watch out for her, as a responsible trainee forest ranger should.
+
+### About Amber
+
+Amber is amazing. She's friendly and has tons of enthusiasm, plus she's really brave and always does the right thing... She's the person I admire most of all! She's like a cozy fire that makes everyone around her feel warm. There's no way I'd be where I am today without her... So much time has gone by — I bet she's even more cool and confident than ever these days! Who knows if I'll ever be able to match her.
+
+### About Kaeya
+
+How's everyone in Mondstadt, are they good? I caused so much trouble back then, I sometimes wonder if I should make some time to go back there and apologize... Hmm, but what if I ran into the Cavalry Captain, and he started teasing me? ...Yeah, there's no rush, maybe I'll leave it a while longer.
+
+### About Lisa
+
+After all this time, Lisa still calls me "Little Collei" when she writes to me. I feel like by now she... hmm? She calls you "cutie"? Hahaha... Sorry, I don't mean to laugh, um... but I must say, that makes me feel a lot better.
+
+### About Fischl
+
+..."Prinzessin der Verurteilung"? ...Mmm, nope, sorry. I wasn't in Mondstadt for very long, so I didn't hear of her. That name, though... *grimace*... Ahem, nothing.
+
+### More About Collei: I
+
+You wanna know more about me? If you mean about before I came to Sumeru, then, um... M—Maybe you could write to Amber and ask her about it? Wait wait wait, no, not that. If Kaeya found out, that would be a disaster. What am I saying — of course he'd find out! O—Okay, I'll tell you myself, then. Whew... I'm sorry! Please give me a few days to work up to it...
+
+### More About Collei: II
+
+When I ended up in Mondstadt, I said a lot of things to Amber and the others that I shouldn't have. I still feel ashamed whenever I think about it... How could I talk like that to people who were just trying to help me? I shudder to think what they must have thought of me back then... Uhh, sorry, maybe we can leave it there for today? If I go any further than that, I know I'll regret it tomorrow.
+
+### More About Collei: III
+
+I was once taken to someone they call "The Doctor" for treatment for my Eleazar... well, actually "treatment" is the wrong word — it was more... experimentation. After so long in that place, I couldn't help but start to wonder, what have I done wrong to deserve this? Why won't anyone come to rescue me? Gradually, I went from hating just the Fatui to hating everyone in the world. Thinking about it now... it was quite childish.
+
+### More About Collei: IV
+
+Thanks to you guys, my Eleazar has disappeared without a trace. It's the miracle that I never dared to wish for. ...I never held out hope for a cure, I just figured I'd try and just do as much as I could before my body stops moving. First I was focused on revenge, then forest patrol... and now, finally, I am free to live my life.
+
+### More About Collei: V
+
+Are you going to keep traveling? Let me do my part, please? I'll study hard... whether it's reading, medicine, combat, or assessing the danger... even something small, like checking the streetlights! I hope that many more people will get the help they need along the way... just like how you saved me.
+
+### Collei's Hobbies
+
+My hobbies? ...Sewing, practicing gliding, and helping people! Hmm? Sounds familiar? Well, that's because... I want to be someone that gives people that warm feeling, too.
+
+### Collei's Troubles
+
+"In response to the homo— homogenization of crop species... taken import measures... avoid long-term consumption of fungal foods..." What is the point of all this... They're literally saying, "I don't wanna eat mushrooms," but because they're from the Akademiya, they have to make it sound all complicated!
+
+### Favorite Food
+
+Pita pockets are travel-friendly and filling, so they're probably the food I eat the most. But if we're talking about more than just "filling," my favorite food would be... mmm, Fried Radish Balls, I think.
+
+### Least Favorite Food
+
+During my wandering days, there were times when I had to crack open Wolfhooks and force them down if I didn't want to go hungry, so there aren't really any foods that I especially hate. If I had to pick one thing that I won't touch, it would be mushrooms of any kind. Nothing to do with the flavor — I just don't want to ever be the one on the receiving end of one of Master's stern lectures...
+
+### Receiving a Gift: I
+
+Mmm... It's delicious! Could you teach me?
+
+### Receiving a Gift: II
+
+With skills like this, I bet you never go hungry when you're out in the wilderness, huh?
+
+### Receiving a Gift: III
+
+Sorry, Master says I'm not supposed to eat anything that looks suspicious.
+
+### Birthday
+
+Uh, H—Happy Birthday! Here's the cake I made for you, and here are the candles, so yeah... Amber said in her letter that this would do the job... Oh! And, and here's the gift I got for you!
+...I'm sorry, I don't have much experience arranging birthday parties. I have no idea if you'll like it... Aah, I'm getting all flustered now. If anything's not how you like it, please say, and I'll make absolutely sure to plan a nicer birthday celebration for you next year!
+
+### Feelings About Ascension: Intro
+
+Does this mean I'm making progress?
+
+### Feelings About Ascension: Building Up
+
+I'm starting to feel like... I'm finally a better person than I used to be.
+
+### Feelings About Ascension: Climax
+
+Even if it's a life-or-death situation, I'll never need to rely on their power again.
+
+### Feelings About Ascension: Conclusion
+
+It probably wouldn't even matter if I unsealed that power now — I've come so far, I think I'd be able to control it, don't you? Well — only one way to find out! Hu-uh!
+...Just kidding. My real superpower is all about the adventure experience I've had with you.
+
+### Elemental Skill: I
+
+Go!
+
+### Elemental Skill: II
+
+Fly.
+
+### Elemental Burst: I
+
+Cuilein-Anbar, help!
+
+### Elemental Burst: II
+
+Try this on for size!
+
+### Elemental Burst: III
+
+Just like we rehearsed!
+
+### Opening Treasure Chest: I
+
+It's important to replenish your supplies often when you're out in the wild.
+
+### Opening Treasure Chest: II
+
+Wow, this is so lucky.
+
+### Opening Treasure Chest: III
+
+Phew, glad there weren't any poisonous mushrooms inside.
+
+### Low HP: I
+
+I—I can keep going!
+
+### Low HP: II
+
+I've been through worse!
+
+### Low HP: III
+
+Uh... I'm hurt pretty bad...
+
+### Ally at Low HP: I
+
+Don't push yourself!
+
+### Ally at Low HP: II
+
+You're gonna get injured...
+
+### Fallen: I
+
+A Forest Ranger... forever.
+
+### Fallen: II
+
+No... not like this...
+
+### Fallen: III
+
+I knew... this day would come...
+
+### Heavy Hit Taken: I
+
+How the...
+
+### Heavy Hit Taken: II
+
+D—Don't touch me!
+
+### Joining Party: I
+
+I'll ensure your safety.
+
+### Joining Party: II
+
+Everything's ready, let's go!
+
+### Joining Party: III
+
+Trainee Forest Ranger Collei, reporting!
+
+### About Faruzan
+
+Um... To be honest, I don't really know how to handle people like Madam Faruzan... She's always saying that I'm a hardworking student and eager to learn, but that's because I have to be! I'm a slow learner, so I have to put in the extra effort. Oh, there was a time when I accidentally saw her research journal — only for a second, though. It was all written in old script, and I couldn't even make out half of it... Definitely the scariest book in Teyvat!
+
+### Elemental Skill: III
+
+Hai!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+见习巡林员柯莱，前来报到！我会保障你在林间出行时的安全——呼，总算能说出这句出场词了，我没念错字吧…
+
+### 闲聊·巡林路线图
+
+今天的巡林路线图…先往这里再拐到那里…嗯，字好多…
+
+### 闲聊·状态
+
+呼，今天的状态不错，趁着这个机会，多做一点事吧。
+
+### 闲聊·回忆
+
+手头没有事情，心里就容易东想西想——唔，一说就想起了不好的事…
+
+### 雨过天晴…
+
+雨虽然停了，还是要小心水洼。就像一些事，明明过去了还是会留下回忆…咳咳！
+
+### 打雷的时候…
+
+打雷的时候，最好避开大树。对巡林员来说，还要格外注意检查，谨防森林火灾。
+
+### 阳光很好…
+
+天气不错，多晒晒太阳，对身体也好。
+
+### 刮大风了…
+
+嗯，风力正好。安柏应该会很喜欢趁这样的天气挑战自己吧。
+
+### 早上好…
+
+早上好！哈…抱歉，昨晚又在补习…
+
+### 中午好…
+
+巡林路线一长，中午回不来也很正常。我多准备了一些「口袋饼」，要来一份吗？
+
+### 晚上好…
+
+天快黑了，走在林子里一定要加倍小心。
+
+### 晚安…
+
+准备休息了吗？篝火已经生好了，我会为你守夜的。
+
+### 关于柯莱自己·巡林
+
+来须弥之前，我在野外流浪过一段日子，能吃不能吃的东西都尝过了好几遍，对野外还算熟悉，所以来这儿之后就做起了巡林的工作。如果「野外生存」也算一门课目的话，我还是有自信考到及格的…嗯，不做笔试的话。
+
+### 关于柯莱自己·补习
+
+欸？你问我每天都在补习什么？跟着这么厉害的师父，是不是什么很高深的知识…呃…这个么…《提瓦特识字大全》…
+
+### 关于我们·旧识
+
+我听安柏在信里提起过你，没想到在蒙德又发生了这么多事。可惜跳着字读，好多细节都没弄懂…欸，你愿意再跟我讲一遍吗？
+
+### 关于我们·新交
+
+我曾经以为「朋友」什么的，这辈子都不会和我扯上关系，直到去了蒙德…后来在须弥遇见了师父，现在又遇到了你。果然，我还是很幸运的啊。
+
+### 关于「神之眼」…
+
+哈…真没想到，我也会有拿到神之眼的一天。以前总觉得神明会看的，都是那些生来就被大家喜欢的人…唔，我…我承认我有很多不好的偏见。是我不对。
+
+### 有什么想要分享·技能名
+
+师父常说最有效的学习就是实践，所以我偶尔也会找些轻小说来看，想多认些字…起码比师父的论文好读。不过，我最近读到的一本书里，主角有好多能力，起的名字全是我看不懂的词…嗯？书的名字？应该是叫…《鬼武道》？你也读过吗？
+
+### 有什么想要分享·封印之力
+
+唔哇…又是「被封印的力量在躁动」…还有什么「离我远点才是上策」…为什么稻妻人都能这么自然地说出这些话，他们以后不会觉得尴尬吗？啊…不行，不能再读下去了！
+
+### 感兴趣的见闻…
+
+花草动物吗…除了能不能吃，好像也没有太大区别。嘘，这话不能被师父听见。要问我的话，我比较喜欢有树洞的树？尤其是在想要「找个地方钻进去」的时候…每个人都会有的吧？不是吗？
+
+### 关于提纳里…
+
+师父虽然平时说话有些严厉，还经常批评那些乱吃毒蘑菇的冒险家，但他其实是个很温柔的人。不仅会耐心地给我补课，还会为我读蒙德寄来的信。我一直很感激他！
+
+### 关于多莉…
+
+有次我在巡林路上遇见了她，像是知道我口渴一样，她从袋子里掏出了一瓶看起来特别好喝的果汁…还好当时师父在场，制止了她。不然，我差点就一个冲动，把好不容易攒起来的摩拉都花出去了…
+
+### 关于小吉祥草王…
+
+草神啊…小时候我很多次想大声问问神明，为什么要让我经历这么多苦难。唉，说不定就连神明自己，也经历着各种无奈的事吧。
+
+### 关于赛诺…
+
+欸…我们能不提他吗？不，大风纪官不是什么坏人，当初就是他带着我从蒙德回到了须弥，才让我有了安身的地方。只是一想起回须弥前那个「封印」的过程…唔…脖子后边又开始觉得痛了…
+
+### 关于卡维…
+
+大风纪官曾带着他来我们这里吃过一顿饭。在餐前水果刚端上桌的时候，他就开始大谈他那个又不讲情理又固执的室友，我们连插话的时机都找不到。只能点点头，憋着笑，吃完了整顿饭。唉，真是不容易。
+
+### 关于妮露…
+
+感觉她有点迷迷糊糊的样子，如果来化城郭附近表演的话，不会走着走着就迷路在深林里吧…那我可一定要好好看着她，尽我见习巡林员的职责。
+
+### 关于安柏…
+
+安柏她真的很厉害，又热情又活泼，又勇敢又正义…是我最钦佩、最崇拜的人了！她总能像一团火一样照亮别人，要不是她，我肯定没法走到今天这一步…过了这么久，她现在一定变得更加沉稳、更加帅气了吧！真不知道什么时候才能赶上她。
+
+### 关于凯亚…
+
+蒙德的大家都还好吗？那阵子我可是惹了不少麻烦啊，要不要找个时间回去道歉呢…唔，但感觉一露面就会被那位骑兵队长捉弄…还是再等等吧，再等等…
+
+### 关于丽莎…
+
+明明已经过去了那么久，丽莎给我写信的时候，还是在叫我「小柯莱」，总感觉…嗯？你说她也叫你小可爱？噗…对不起，我不是有意要笑出来的…一下子就开心了好多啊。
+
+### 关于菲谢尔…
+
+…「断罪之皇女」？抱歉，我在蒙德待的时间不长，没有听过这样的人物。不过这个名字…嘶…咳，没什么。
+
+### 想要了解柯莱·其一
+
+我的事情么？如果你问的是来须弥之前的…唔，要不…你写信问一下安柏？啊，不行，要是让凯亚发现了就全完了…不对，他肯定会发现的吧！还、还是我自己来说吧，呼——对不起！请先让我再做几天心理准备…
+
+### 想要了解柯莱·其二
+
+流浪到蒙德的时候，我对安柏他们说了很多不该说的话，现在回想起来还是会很羞愧…我这人真是的，怎么能对想帮我的人说那些话呢！他们那时候究竟是怎么看我的？想想就又…呜，抱歉，今天先到这里可以吗？不然等到明天…我又要为刚刚说过的话后悔了。
+
+### 想要了解柯莱·其三
+
+因为「魔鳞病」的关系，我曾经被送到「博士」手下治疗…不，那不是治疗，而是「实验」。在那种环境里待久了，我也不由开始想，自己到底做错了什么？为什么没有人来救我…渐渐地，就连「愚人众」以外的人也一并恨上了。现在想想…实在是，太幼稚了。
+
+### 想要了解柯莱·其四
+
+多亏有你们在，「魔鳞病」消失了，是我从前想都不敢想的奇迹。嗯…我一直对完全治愈不抱希望，只想在身体不能活动前，多做一些事情。起初是复仇，后来是巡林…现在，我终于可以自由地活下去了。
+
+### 想要了解柯莱·其五
+
+你接下来还会继续旅行吗，请让我多尽一份力吧。我会努力学习…不管是认字还是学医术，还有战斗、排查危险…甚至是检查路灯这种小事！希望这一路上，能有更多和我一样的人得到帮助——就像你拯救了我一样。
+
+### 柯莱的爱好…
+
+爱好嘛…缝纫、练习飞行，还有帮助他人！嗯？你说听着有点耳熟？因为…我也想成为「能照亮别人的人」。
+
+### 柯莱的烦恼…
+
+「针对当前…农作物品种…单一化…避兔长期食用菌类…采取的进口错施…」——这都是什么和什么啊？为什么教令院的论文连「不想吃蘑菇」都能写得这么复杂啊！
+
+### 喜欢的食物…
+
+「口袋饼」方便携带，又容易吃饱，应该是我最常吃的东西了？如果不考虑肚子的需要，我最喜欢的食物…嗯，应该是「炸萝卜丸子」吧。
+
+### 讨厌的食物…
+
+流浪的时候肚子饿了，连钩钩果都要掰碎了吃下去，所以我没有什么特别讨厌的食物。一定要说的话，我不会碰的只有各种蘑菇吧？和口味无关，只是不希望被师父长篇大论批评的人是自己而已…
+
+### 收到赠礼·其一
+
+嗯——真好吃！你能教教我吗？
+
+### 收到赠礼·其二
+
+有这手艺，流浪在外也不会饿肚子了吧。
+
+### 收到赠礼·其三
+
+抱歉，师父交代过我，不能吃奇怪的东西。
+
+### 生日…
+
+生、生日快乐！这个是我准备的蛋糕，这个是备用的蜡烛…安柏在信里说这样就行…啊，还有、还有这个是送给你的礼物！
+…不好意思，我没什么办生日会的经验，也不知道合不合你的心意…弄得手忙脚乱的。有什么不足一定要跟我说，明年，我一定会准备得更好！
+
+### 突破的感受·起
+
+我这是在进步吗？
+
+### 突破的感受·承
+
+我能感觉得到，我已经…不再是以前的我了。
+
+### 突破的感受·转
+
+就算到生死关头，也不必再依靠「它们」的力量了。
+
+### 突破的感受·合
+
+现在的我，即使解开被封印的力量，也可以驾驭自如了吧？嘿！
+说笑的，和你一起辛苦冒险的经历，才是我现在拥有的力量啊。
+
+### 元素战技·其一
+
+去。
+
+### 元素战技·其二
+
+飞吧。
+
+### 元素爆发·其一
+
+拜托了，柯里安巴！
+
+### 元素爆发·其二
+
+试、试试这个！
+
+### 元素爆发·其三
+
+来跳舞吧！
+
+### 打开宝箱·其一
+
+在野外要时刻注意补给。
+
+### 打开宝箱·其二
+
+真幸运啊。
+
+### 打开宝箱·其三
+
+嗯…箱里没长毒蘑菇吧。
+
+### 生命值低·其一
+
+我…还撑得住！
+
+### 生命值低·其二
+
+这点小痛，不算什么！
+
+### 生命值低·其三
+
+需要…尽快治疗…
+
+### 同伴生命值低·其一
+
+身体要紧！
+
+### 同伴生命值低·其二
+
+这样下去不太妙啊。
+
+### 倒下·其一
+
+得做优秀的…巡林员。
+
+### 倒下·其二
+
+居然会…这么倒下…
+
+### 倒下·其三
+
+还是…到这一天了…
+
+### 重受击·其一
+
+怎么会…
+
+### 重受击·其二
+
+别碰我！
+
+### 加入队伍·其一
+
+就由我来保护。
+
+### 加入队伍·其二
+
+准备齐全，出发吧！
+
+### 加入队伍·其三
+
+见习巡林员报到！
+
+### 关于珐露珊…
+
+呃…老实说，我不太擅长应付这位前辈…虽然她经常夸我勤奋好学，但我真的是因为学得太慢，没办法了，才总是在补习啊！还有一回，我不小心看到了她的研究笔记，虽然只瞟了一眼，但那绝对是全须弥最可怕的书！——上面全是古文，我连半个字都看不懂。
+
+### 元素战技·其三
+
+嘿。

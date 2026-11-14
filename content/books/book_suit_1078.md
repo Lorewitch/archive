@@ -1,0 +1,123 @@
+# id: book_suit_1078
+# category: books
+# title_ru: Белый и Чёрный
+# title_en: Belyi and Chernyi
+# title_zh: 白与黑
+# game_source_ids: 1078,121767
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# subtype: book_series
+# volume_count: 1
+# rarity: 3
+# region: Снежная
+# icon:
+# tags: книги, Белый и Чёрный
+# game_version: 7.2
+
+## RU
+
+### Том 1
+
+...
+
+Юная приятельница, с которой мы встретились после долгой разлуки, заговорила со мной о сэре Стивенсоне, с которым давно не виделись ни она, ни я.
+«Удивительно, - сказала моя юная приятельница, - он будто совершенно переменился. Прежде из одной моры старался сделать две, а теперь стал щедрым сверх всякой меры. Да и к людям этот благородный альв нынче относится иначе... Раньше при виде человека у него тотчас вытягивалось лицо, а недавно я видела, как он с широкой улыбкой раздавал людям гуманитарную помощь».
+«Люди меняются. Что уж говорить об альвах?» - был мой ответ.
+«Но эта перемена слишком резкая и слишком странная. Её трудно объяснить», - сказала моя юная приятельница. Видимо, это пробудило в ней какие-то воспоминания: она принялась вертеть бокал на столе. «Когда вы с ним виделись в последний раз?»
+Её вопрос невольно вызвал в моей памяти вечер нашей последней встречи с сэром Стивенсоном.
+
+...
+
+По правде говоря, наши отношения с сэром Стивенсоном нельзя было назвать особенно тёплыми. Если выразиться точнее, мы были почти что смертельными врагами. Поэтому его приглашение на ужин немало меня удивило.
+На том ужине он изменил своему обычному выражению лица, словно весь мир задолжал ему три миллиона моры. С заботливостью, от которой было даже немного не по себе, он знакомил меня с каждым из деликатесов, которые подавали на стол его слуги, и предавался со мной воспоминаниям, будто пытался воскресить бесплотный сон о прошлом, которого никогда не было.
+После ужина он даже показал мне свой зал с коллекцией оружия, куда прежде не пускал ни одного гостя. Самый дорогой ему экспонат он вложил мне в руки, чтобы я мог в полной мере оценить его достоинства. По его словам, эта шпага когда-то принадлежала самой Стривоже, великой княгине вил.
+Вот тогда-то и произошла перемена.
+В тусклом желтоватом свете оружейного зала его тело забилось в судорогах, словно из одной тени пыталась родиться другая. Из горла Стивенсона вырвался нечленораздельный рык.
+«Ах, проклятье... Проклятье! Положи шпагу. Такой черни, как ты, нельзя к ней прикасаться...»
+Я наконец увидел Стивенсона, которого хорошо знал. Бессильный и измученный, он поведал мне о страданиях, которые начались после того, как он принял таинственное снадобье.
+«Тебе никогда не понять... - говорил он. - Меня тошнит от того, как моё другое я заискивает перед этой чернью и с подхалимской улыбкой привечает людишек!»
+Хотя в глубине души я считал, что Стивенсон изменился к лучшему.
+И всё же под конец его злобные слова вдруг превратились в мольбу: «Такова уж судьба. Теперь ты, мой смертельный враг, - единственный, на кого я могу надеяться. Я так долго не вынесу. В тот день, когда меня уже не останется, убей меня. Так ты меня спасёшь!»
+Я не ответил ему ни согласием, ни отказом.
+
+...
+
+Вскоре после того, как мы с моей юной приятельницей закончили беседовать, ко мне подошёл дворецкий.
+Дворецкий, мой лучший друг, сообщил, что в дом доставили подарок.
+Это была та самая шпага. Шпага из коллекции сэра Стивенсона, некогда принадлежавшая великой княгине вил Стривоже.
+Возможно, этой шпагой несчастный Стивенсон пытался сообщить мне о своём последнем выборе.
+Он послал мне шпагу, и я прекрасно понимал, что это значит. Ведь все эти годы я был его единственным смертельным врагом и знал его лучше, чем кто бы то ни было.
+Итак, условленный день настал.
+Пора было найти того, кто возьмёт в руки эту шпагу.
+
+## EN
+
+### Volume 1
+
+...
+
+A young friend I had not seen in a long while spoke to me of Sir Stevenson, whom neither of us had crossed paths with for quite some time.
+"Unexpected, isn't it?" My young friend remarked. "He seems to have become an entirely different person. He used to be the sort to split a single Mora in two just to make it go further, but now he's almost absurdly generous. And that attitude of his toward humans... The fae lord used to scowl at the mere sight of a human, yet lately, I've seen him handing out relief funds to them with a smile on his face."
+"People change, don't they? And the fae, of all folk, are no exception," I replied.
+"But his transformation has been far too drastic, far too strange. It's hard to make sense of it," my young friend remarked. Something seemed to have stirred a memory in her, and she idly toyed with the wineglass on the table. "When was the last time you saw him?"
+Her question brought to mind the night I had last encountered Sir Stevenson.
+
+...
+
+To be honest, Sir Stevenson and I have never been on good terms. In fact, to put it more accurately, we're practically mortal enemies. So you can imagine my surprise when I received an invitation from him to attend a private dinner.
+At that dinner, he abandoned his usual expression, as though the whole world owed him three million Mora. Instead, he was almost nauseatingly considerate, introducing me to each delicacy served by his attendants and reminiscing with me about a past that had never truly existed, as though trying to conjure up some long-lost dream from nothing.
+After the meal, he even showed me his private weapons gallery, a place he had never allowed any guest to enter before. He placed one of his most treasured pieces in my hands for me to admire. It was said to be a rapier once wielded by the Grand Duchess of the Vila, Strivozha.
+But it was then that everything took a turn.
+Beneath the somewhat dim, yellowish lights of the weapons gallery, his body began to convulse, as though another shadow were struggling to emerge from within his own. Unintelligible growls escaped his throat.
+"Curses... Curses! Put that sword down! It's not something a lowborn wretch like you should ever lay hands on..."
+Perhaps this was the Sir Stevenson I knew. Helpless and wracked with pain, he told me of the torment he had endured since taking that mysterious potion, pouring out his anguish to me.
+"You could never understand..." he said. "The way my other self panders to those lowly creatures, smiling and fawning over those humans... It makes me sick to my stomach!"
+Though, deep down, I thought it was a good thing.
+But in the end, even his venomous words turned into a plea. "It's fate, I suppose, that now, of all people, the only one I can turn to is you, my mortal enemy. I can't take much more of this. When the day comes that I cease to exist, you must kill me. It would be a mercy!"
+I made no comment.
+
+...
+
+Not long after I finished recounting the matter to my young friend, my butler brought word...
+My butler, my dearest friend, told me that someone had delivered a gift to the estate.
+It was the sword. The very sword that had been kept in Sir Stevenson's private weapons gallery, once wielded by Strivozha, Grand Duchess of the Vila.
+Perhaps the sword was the poor gentleman's way of telling me what he had finally decided to do.
+He had placed the sword in my hands, and I understood his meaning better than anyone. After all, I had been his sole nemesis for all these years. I knew him better than anyone else.
+And so, the appointed day had come at last.
+It was time to seek out someone who could wield such a blade.
+
+## ZH
+
+### 卷 1
+
+……
+
+许久没有见面的年轻朋友与我谈及了我们都很久没见的史蒂文森爵士。
+「出乎意料，」那位年轻的朋友说，「他仿佛完全变了个人，从前是要将一枚摩拉分成两枚用的人，现在却慷慨得有些过分。那位妖精爵士对待人类的态度也是…从前看到人类就摆起了一张臭脸，最近却看到他满脸笑容地将救济金发放到了人类手里。」
+「人都是会变的，更何况是妖精呢？」我如此回复。
+「可是他的变化太过剧烈也太过诡异了，这很难解释。」年轻的朋友如此说道，大概是唤起了她的什么回忆，她用手摆弄着桌上的酒杯，「你上次见他是在什么时候？」
+她的问题不禁让我想起上次见到史蒂文森爵士的那晚。
+
+……
+
+说句实话，我和史蒂文森爵士的关系并不太好，如果要描述得更真切一些：几乎等于死敌。所以当收到他的邀请要前往一场晚宴的时候我还挺惊讶的。
+那场私宴上，他一改往日那副仿佛所有人都欠他三百万摩拉的面孔，贴心到甚至令人有点恶心地，向我介绍侍者奉上的种种佳肴，像是要唤起旧日根本不存在的虚无之梦那样与我回忆过往。
+他甚至在饭后向我展示了他以前从不让任何客人进入的私人武器藏馆，将他最为珍爱的藏品交到我的手中，供我品鉴，据说那是从前风仙大公丝翠维莎曾持有的刺剑。
+但事情也是在那里发生了变化。
+在武器藏馆有些昏黄的灯光里，他的身体开始抽搐，仿佛要从影子中生出另一个影子那样，喉咙里也发出不成型的嘶吼。
+「哦，该死的…该死的，放下那把剑，那不是你那种出身低贱的人能触摸的东西…」
+或许这才是我熟悉的史蒂文森，他无可奈何又痛苦地告诉我，痛苦地向我倾吐服下那神秘药剂后的折磨。
+「你永远无法理解…」他说，「我的另一个自己去迎合那些卑贱之人，去对那些人类笑脸相迎的谄媚模样实在是令我自己感到作呕！」
+虽然我打从心底认为那是好事。
+但是到最后他那恶毒的话语居然变成哀求，「这也是命运使然，到了如今，我现在唯一能指望的居然只有你了，我的死敌，我已快要受不了，到了我将不复存在的那日，你就杀死我吧，那也是救我！」
+我不置可否。
+
+……
+
+与年轻的朋友谈毕此事未久，管家便通报…
+我的管家，我最好的朋友说，有人将一件礼物送到了府上。
+那是那把剑，那把藏于史蒂文森爵士私人武器藏馆的剑，曾被风仙大公丝翠维莎持有的剑。
+那剑或许说明了最后那位可怜绅士的选择。
+他将剑交到了我的手上，我比任何人都明白他的意思，毕竟这么多年来，我是他唯一的死敌，也比任何人都了解他。
+如此，那曾约定好的时日已到来。
+当是寻找这样一位持剑之人的时刻了。
+

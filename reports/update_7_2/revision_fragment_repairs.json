@@ -1,0 +1,29 @@
+[
+  {
+    "path": "content/artifacts/nymphs_dream.md",
+    "old_fragment": "Цветои Нарциссеные хранительницы",
+    "new_fragment": "Цветочные хранительницы",
+    "reason": "Восстановлена исходная формулировка пользовательского архива: частичное обновление повредило слово.",
+    "source": "original_user_archive",
+    "before_sha256": "0afd40e403f3f03f307cb7587f81c6e8bb30ef722f2bec083abe843240dde27d",
+    "after_sha256": "e9169aa9f7201593523bc7e7826a277b80eeea84f1bda83399971bd19cf6188f"
+  },
+  {
+    "path": "content/books/a_brief_history_of_the_pale_starborn.md",
+    "old_fragment": "геликий князь Альвис",
+    "new_fragment": "великий князь Альвис",
+    "reason": "Исправлена склейка первой буквы прежнего титула с новым титулом.",
+    "source": "existing_revision_intent",
+    "before_sha256": "d0942d83139ebec8381c334e7ab25e87231e8353bc98666804839a51b4d0e1a7",
+    "after_sha256": "92bf8c7f28fb33a7a1e34de88b300eeff1ee79c210559f7b1e4ad8e8153299e8"
+  },
+  {
+    "path": "content/weapons/catalyst/angelos_heptades.md",
+    "old_fragment": "в мягких лазурных объятиях лазурного сияния",
+    "new_fragment": "в мягких объятиях лазурного сияния",
+    "reason": "Устранён оставшийся при обновлении дубль определения; формулировка сверена с игровым текстом.",
+    "source": "https://genshin.honeyhunterworld.com/i_n14523/?lang=RU",
+    "before_sha256": "e5cfee5ec22c95e8c159940b142946872124c55305531daf94decd709a085e62",
+    "after_sha256": "e6295e3ae63d25d1a7f67ce59f00bd46870e49a0a3d3e62de1beef9f3b764b1f"
+  }
+]

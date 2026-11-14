@@ -334,3 +334,903 @@ Yae Miko gave a thin, enigmatic smile as she was faced with the traveler's curio
 「不也挺有趣的么？毕竟你们想听的，无非就是这样那样的『故事』吧？」
 面对旅者的好奇，八重神子露出促狭而莫测的微笑。
 「何况就算我如实相告：『我的神之眼只是件装装样子的首饰』你会信吗，小家伙？」
+
+# voice_source_ids: 58000,58001,58002,58003,58004,58005,58006,58007,58008,58009,58010,58011,58012,58013,58014,58015,58016,58017,58018,58019,58020,58021,58022,58023,58024,58025,58026,58027,58028,58029,58030,58031,58032,58033,58034,58035,58036,58037,58038,58039,58040,58041,58042,58043,58044,58045,58046,58047,58048,58049,58050,58051,58052,58053,58054,58055,58056,58057,58058,58059,58060,58061,58062,58063,58064,58065,58066,58067,58068,58069,58070,58071,58072,58073
+
+## REPLICAS_RU
+
+### Привет...
+
+Я Гудзи Великого храма Наруками. Цель моего визита - следить за каждым твоим шагом, ибо таков порядок в храме... Да ладно, не надо так нервничать. Ради всего святого, мне просто положено так говорить. Я же не могу просто так слоняться без дела. А теперь давай, развлеки меня.
+
+### Поболтаем: Литературное творчество
+
+Такое чувство, что сейчас все вокруг пишут об одних только путешествиях в другие миры. Ха, одним Архонтам известно, что этих писателей так разочаровывает в собственном мире.
+
+### Поболтаем: Истории
+
+Большинство людей могли бы описать всю свою мимолётную жизнь всего лишь в нескольких коротких строках... Их истории действительно ужасно скучно читать.
+
+### Поболтаем: Бренный мир
+
+Лично я считаю, что идея о том, чтобы всё оставалось неизменным вечно, просто прекрасна. Эх, но, увы, мир устроен совсем не так.
+
+### Когда идёт дождь...
+
+Если дождь не прекратится, мой мех промокнет насквозь...
+
+### Когда гремит гром...
+
+Многие боятся грома, но для меня он словно старый друг.
+
+### Когда идёт снег...
+
+Неразумные кицунэ бросаются головой в снег в поисках пищи... Хм? Хочешь посмотреть, как это делаю я? Ха! Ну ещё бы.
+
+### Доброе утро...
+
+Утречка. Ты ужасно сонный, ты плохо спал? В чём дело? Творил пакости прошлой ночью? / Утречка. Ты ужасно сонная, ты плохо спала? В чём дело? Творила пакости прошлой ночью?
+
+### Добрый день...
+
+Хм... Как же сложно. Что бы съесть на обед? Только не жареный тофу, хочу чего-нибудь полегче. А, знаю. Давненько я не видела ту девочку из комиссии Ясиро. Давай попросим её приготовить для нас что-нибудь.
+
+### Добрый вечер...
+
+Луна сегодня просто великолепна. Нельзя упускать такой момент. Давай прогуляемся вместе при лунном свете. Отказ не принимается.
+
+### Спокойной ночи...
+
+Полагаю, мне следует немного поспать. Хм, должна признать, мне трудно заснуть, если я не слышу успокаивающих раскатов грома.
+
+### О Яэ Мико: Вечность
+
+Вечность означает, что никогда не придётся расставаться с тем, что мы имеем. Но, с другой стороны, это также означает отказ от возможности получить что-то новое. Так уж устроен мир... Нельзя получить всё и сразу.
+
+### О Яэ Мико: Интересы
+
+Люди - просто очаровательные существа, поэтому я их так люблю. Их жизни коротки, но пока они рядом, они сияют столь же ярко, как полуденное солнце. Есть такие, чей свет никогда не тускнеет, даже через много лет... Истории их жизни - сплошное удовольствие.
+
+### О нас: Писательство
+
+Скучно. И тут тоже тоска зелёная... С чего эти люди решили стать писателями? Слушай, почему бы тебе не написать рассказ и не отправить его в издательский дом Яэ? Уверена, меня бы это позабавило... Кхм, точнее, я уверена, что это был бы бестселлер.
+
+### О нас: Эрозия
+
+Изолирование себя от остального мира может только ускорить эрозию... Представь себе мир, где есть только ты, и никто не может послужить тебе «зеркалом», отражающим твои черты... Как это было бы ужасно. Мы вместе, и жизненно важно, чтобы мы служили друг другу путеводным светом. Довольно трудно оставаться просветлёнными в темноте.
+
+### Глаз Бога...
+
+Говоришь... тебе нравится, как я ношу свой Глаз Бога? У тебя намётанный глаз. Держу пари, ты бы хотел его погладить. / Говоришь... тебе нравится, как я ношу свой Глаз Бога? У тебя намётанный глаз. Держу пари, ты бы хотела его погладить.
+
+### Давай поделимся...
+
+Нагрей масло в кастрюле на среднем огне. Добавь тофу и уменьши огонь. Обжаривай до золотисто-коричневого цвета, вынь его, затем подавай горячим. Готово, жареный тофу. В этом мире нет ничего вкуснее. Ну, я же рассказала тебе рецепт? Тогда почему ты ещё не начал готовить? / Нагрей масло в кастрюле на среднем огне. Добавь тофу и уменьши огонь. Обжаривай до золотисто-коричневого цвета, вынь его, затем подавай горячим. Готово, жареный тофу. В этом мире нет ничего вкуснее. Ну, я же рассказала тебе рецепт? Тогда почему ты ещё не начала готовить?
+
+### Интересные вещи...
+
+Хоть иногда я немного устаю от её вида, - ведь, в конце концов, я не могу избежать встречи с ней в Великом храме Наруками, - моя судьба тесно связана со Священной сакурой.
+
+### О сёгуне Райдэн...
+
+Запираться в Царстве эвтюмии, когда она явно хочет выйти - это просто умышленное самоистязание, серьёзно... С другой стороны, пусть она и упрямая, но при этом довольно милая, тебе не кажется?
+
+### О Камисато Аято...
+
+Подлец из Ясиро... Он всегда был непредсказуемым, даже в детстве. Не поддавайся его тёплой улыбке. Неизвестно, какой коварный план зреет у него в голове. Это просто сводит с ума... Что ты имеешь в виду, говоря «хитрый, как лиса»? Хм, если ты пытаешься намекнуть, что мы с ним в чём-то похожи, то сильно ошибаешься.
+
+### О Камисато Аяке...
+
+Мне и правда очень нравится эта девочка из комиссии Ясиро. Она ловко справляется со всеми трудностями, с которыми сталкивается. К сожалению, зачастую это неблагодарная работа. Жаль. Если бы она не была из клана Камисато, я бы уже давно забрала её в издательский дом Яэ.
+
+### О Кудзё Саре...
+
+Не самая сообразительная тэнгу в лесу. Она не унаследовала блестящий ум папочки, это точно. Эх, как бы это сказать? Я полагаю, что прямота и отсутствие такта имеют свои преимущества... Но я очень надеюсь, что в следующий раз, когда она посетит храм, то будет держаться подальше. У меня есть дела поважнее, чем отвечать на её непрекращающиеся вопросы об Эи.
+
+### О Ёимии...
+
+Фейерверки Наганохары стоят того, чтобы ждать их каждый год. Ходят слухи, что недавно она вызвала настоящий переполох в комиссии Тэнрё, устроив большой фейерверк. Хех, уверена, что члены клана Кудзё просто побагровели от ярости... Жаль, что мне не удалось увидеть это своими глазами.
+
+### О Гань Юй...
+
+Хм, прошло уже много времени с тех пор, как я в последний раз видела Гань Юй. До того, как указ Сакоку вступил в силу, мы часто встречались, чтобы обсудить отношения между нашими странами. Я всегда считала её вполне надёжной. В следующий раз, когда отправишься в Ли Юэ, передай ей немного свежего морского гриба от меня.
+
+### О Сангономии Кокоми...
+
+Божественные жрицы, кажется, становятся всё симпатичнее с каждым поколением. Интересно, как она выглядит, исполняя танец Божественного покоя... Возможно, когда она крутится вокруг своей оси, рядом даже появляются маленькие косяки рыб. Если ей когда-нибудь понадобится более опытная жрица, у которой можно было бы поучиться, я с радостью поделюсь с ней знаниями... Хе-хе, если она, конечно, вежливо меня попросит.
+
+### О Куникудзуси...
+
+Я ещё тогда думала, что из-за него могут возникнуть проблемы. Но она настаивала, что и пальцем не шевельнёт против своего собственного творения. Если бы я знала, как всё обернётся, я бы просто избавилась от него без её ведома. Хм? А что сейчас? Ну, сейчас проблемы уже возникли.
+
+### Об Аратаки Итто...
+
+Ах, чудак-óни. Хех, я слышала, что он доставил много неприятностей клану Кудзё. Комиссия Тэнрё хотела снять его сообщения с доски объявлений, утверждая, что они «наносят ущерб общественному порядку». Я позаботилась о том, чтобы они остались нетронутыми, ха-ха. Он такой забавный... В наши дни нечасто встретишь таких óни, как он.
+
+### О Горо...
+
+У него красивый хвост. Правда... мой всё же мягче.
+
+### О Саю...
+
+Ах да, маленькая ниндзя... Если что она и умеет, так это прятаться. Кано Нана постоянно жалуется мне на это. Она тратит так много времени на поиски Саю, что у неё почти не остаётся времени на чтение. Как по мне, то у Саю есть тайный союзник, который всё время помогает ей скрыться...
+
+### О Куки Синобу...
+
+Я много слышала о младшей сестре Миюки. Интересная девочка. Хотя она и происходит из семьи жриц, но не пошла по их стопам, а попробовала свои силы во многих различных профессиях, училась в Ли Юэ и даже присоединилась к банде Аратаки... Очаровательно. Возможно, мне стоит попросить Миюки представить меня. Да, Миюки и в голову не придёт отказать мне в просьбе.
+
+### Узнать больше о Яэ Мико I
+
+О? Ты хочешь узнать обо мне побольше? Я готова рассказать, но что я получу взамен? Это должна быть честная сделка. Ты расскажи мне всё о себе, а я поведаю тебе всё о себе. Договорились?
+
+### Узнать больше о Яэ Мико II
+
+Кицунэ Сайгу сказала, что отправляется в долгое путешествие и с тех пор так и не вернулась. Эх, тогда я совсем не хотела брать на себя бремя управления Великим храмом Наруками. Поэтому она сказала мне, что как Гудзи я смогу съесть столько жареного тофу, сколько захочу. Что за нелепый аргумент... Честно говоря, она несла столько чепухи, что порой была просто невыносима...
+
+### Узнать больше о Яэ Мико III
+
+Я решила основать издательский дом Яэ просто потому, что хотела читать больше интересных лёгких романов, вот и всё. Но, оказывается, видеть измотанных авторов, из последних сил отчаянно пытающихся закончить свои романы, - вот настоящее развлечение. Ты даже представить себе не можешь оправдания, которые они придумывают, когда пытаются получить отсрочку. В них они вкладывают гораздо больше фантазии, чем в сами романы.
+
+### Узнать больше о Яэ Мико IV
+
+Даже сверхъестественные существа в конце концов умирают, включая Архонтов. Ужасно обидно, когда их истории теряются во времени вместе с ними, так что их больше никогда не вспомнят. Но, чтобы перенести эти истории на бумагу, нужны первоклассные сочинители с отточенным стилем. И раз уж в мире не хватает таких писателей, значит нужно их вырастить... вырастить писателей, которые смогут изложить эти истории.
+
+### Узнать больше о Яэ Мико V
+
+Хотя я заядлая читательница романов, написанных другими, самой мне ещё не довелось взяться за перо. Всё-таки написание романа - довольно сложное дело. Но если настанет день, когда ты достигнешь конца своего приключения и захочешь, чтобы кто-нибудь описал его, и если у меня будет время, когда этот день наступит... Посмотрим.
+
+### Хобби Яэ Мико...
+
+Моё любимое развлечение - читать истории других людей. Моё второе любимое развлечение - наблюдать за чужим беспокойством... Если бы я могла объединить их, ха-ха... О, это было бы истинным развлечением.
+
+### Беспокойство Яэ Мико...
+
+Мир и спокойствие, кажется, сейчас в моде, но через некоторое время они ужасно надоедают...
+
+### Любимая еда...
+
+Ты когда-нибудь слышал о блюде под названием «Удон кицунэ»? На самом деле всё довольно просто... Это обычный жареный тофу, подаваемый с удоном. Что думаешь? Лапша и жареный тофу, вот и всё. Разве это не звучит божественно? / Ты когда-нибудь слышала о блюде под названием «Удон кицунэ»? На самом деле всё довольно просто... Это обычный жареный тофу, подаваемый с удоном. Что думаешь? Лапша и жареный тофу, вот и всё. Разве это не звучит божественно?
+
+### Нелюбимая еда...
+
+Всё маринованное для меня категорически запрещено... Мне всё равно, оризия это или кивиак, - кто вообще может вынести эту отвратительную вонь? Я Гудзи Великого храма Наруками, и я отказываюсь осквернять себя, прикасаясь к этой мерзости.
+
+### День рождения...
+
+Ах, так сегодня твой день рождения... «В этот торжественный день годовщины твоего рождения я поручаю своему роду позаботиться о том, чтобы то, что ты ищешь, обязательно нашлось, а то, что ты жаждешь, обязательно было тобой получено. Пусть сердце твоё остаётся чистым, а дух - стойким, и тогда их защита всегда будет с тобой». Как-то так. Пусть следующий год будет удачным, а все твои желания исполнятся. Ну, мы закончили?
+
+### Чувство возвышения: Начало
+
+При обучении жриц титул «тёккай» присваивается после того, как ученица завершила учёбу и может правильно петь во время церемоний. Это может быть очень просто для людей, но это самый трудный шаг для кицунэ... В конце концов, мы всего лишь лисы.
+
+### Чувство возвышения: Нарастание
+
+Обучение, которое необходимо пройти для того, чтобы стать помощницей Гудзи, или «сэйкай», очень трудное. Приходится соблюдать множество жёстких ограничений... Есть только один способ пройти через это: есть ночью, убедившись, что никто тебя не поймает.
+
+### Чувство возвышения: Кульминация
+
+Достижение ранга «мэйкай» требует понимания устройства мира, преодоления его ограничений и понимания всех явлений внутри него. Обычно любому, кто достигает этого уровня, даруется Глаз Бога и продолжительность жизни куда длиннее, чем у обычной кицунэ.
+
+### Чувство возвышения: Окончание
+
+На протяжении всей истории только Гудзи Великого храма Наруками носили звание «дзёкай». Это почетное звание, не связанное со способностями обладателя. Но я не вижу ничего дурного в том, чтобы объявить себя самым могущественным дзёкаем в истории.
+
+### Элементальный навык I
+
+Здесь!
+
+### Элементальный навык II
+
+Сейчас!
+
+### Элементальный навык III
+
+Явись!
+
+### Элементальный навык IV
+
+Предстань!
+
+### Элементальный навык V
+
+Покажи им!
+
+### Взрыв стихии I
+
+Я наблюдаю!
+
+### Взрыв стихии II
+
+Ничто не длится вечно.
+
+### Взрыв стихии III
+
+Зрелище, достойное созерцания.
+
+### Открытие сундука I
+
+Так, что тут у нас?
+
+### Открытие сундука II
+
+Только не говори, что это всё...
+
+### Открытие сундука III
+
+Быстрее, открой его, покажи, что внутри.
+
+### Низкий уровень HP I
+
+С меня довольно.
+
+### Низкий уровень HP II
+
+Больше никаких игр.
+
+### Низкий уровень HP III
+
+Вот теперь вы привлекли моё внимание.
+
+### Низкий уровень HP компаньона I
+
+Не заставляй себя.
+
+### Низкий уровень HP компаньона II
+
+Я разберусь с этим.
+
+### Без сознания I
+
+Веселье окончено...
+
+### Без сознания II
+
+Какая нелепая концовка...
+
+### Без сознания III
+
+Вот тебе и «вечность»...
+
+### Получен лёгкий удар I
+
+И это всё?
+
+### Получен тяжёлый удар I
+
+Какая досада.
+
+### Присоединяется к группе I
+
+Что бы ты делал без меня? / Что бы ты делала без меня?
+
+### Присоединяется к группе II
+
+Ладно, позабавь меня.
+
+### Присоединяется к группе III
+
+Ну, раз ты так вежливо просишь...
+
+### Подарок I
+
+Ого! А ты и вправду знаешь, что мне нравится!
+
+### Подарок II
+
+Раз уж ты сам это приготовил, попробовать - меньшее, что я могу сделать, ха-ха... / Раз уж ты сама это приготовила, попробовать - меньшее, что я могу сделать, ха-ха...
+
+### Подарок III
+
+Как бы выразиться... На фоне этого любые старания будут прогрессом.
+
+### О Кираре...
+
+В последнее время ёкаев всё больше интересует мир людей. Интересно, выйдет ли из этого что-то хорошее? Хочешь знать, что я об этом думаю? Хи-хи, как по мне, нет ничего лучше, чем жить сегодняшним днём. К тому же как я могу не любить малышку-ёкая, которая охотно приглашает меня на ужин, а потом оплачивает счёт?
+
+### О Юмэмидзуки Мидзуки: Конкуренция
+
+«Те, кто страдает от тревоги и усталости, не могут в полной мере погрузиться в чтение книг?» Что ж, полагаю, издательскому дому Яэ нужно приложить больше усердия. Судя по всему, мы не опубликовали ни одного романа, который бы понравился госпоже Мидзуки. Я дам редакторам и писателям больше времени... Если мы всё равно не сможем удовлетворить её запросы, то мне, как главному редактору, полагаю, придётся написать такую книгу самой. Хм... «Хроники баку» - неплохое название, да?
+
+### О Юмэмидзуки Мидзуки: Повторная встреча
+
+Когда Мидзуки только вернулась в Инадзуму, она всегда выглядела обеспокоенной. Даже когда она видела меня на улице, то старалась не смотреть в мою сторону... А я? Ну, конечно, я не окликала её. Иногда она оборачивалась, чтобы украдкой взглянуть на меня, когда мы проходили мимо друг друга... Я думала, не повернуться ли к ней, но уверена, это напугало бы её, она тут же превратилась бы в баку и убежала в горы.
+Но теперь... она освоилась. По крайней мере, она чувствует себя достаточно комфортно, чтобы критиковать меня, отвечая на письма читателей в журнале «Это жизнь». Юмэкуй-баку быстро адаптируются.
+
+## REPLICAS_EN
+
+### Hello
+
+I am the Guuji of the Grand Narukami Shrine. The purpose of my visit is to monitor your every move, for such is the order of the shrine... Oh, come on, don't be so nervous. It's only officialese, for goodness' sake. I couldn't just go gallivanting around for no reason at all, could I? Now, come on, do something amusing for me.
+
+### Chat: Creative Writing
+
+Traveling to other worlds is all that anyone seems to be writing about these days. Huh, goodness knows what they find so disappointing about their own world.
+
+### Chat: Stories
+
+Most humans could have the entirety of their fleeting lives chronicled in but a few short lines... Their stories really make for terribly dull reading.
+
+### Chat: Mortal World
+
+Personally, I think the idea of things staying the same forever is quite beautiful. *sigh* But alas, that is simply not the way the world works.
+
+### When It Rains
+
+If this rain keeps up, my fur will be dripping wet...
+
+### When Thunder Strikes
+
+Many people dread the sound of thunder... To me, it sounds fondly familiar.
+
+### When It Snows
+
+I always see these non-sentient kitsune pouncing headfirst into the snow, scavenging for food... Hmm? You'd like to see me do that? Hah! I'm sure you would.
+
+### Good Morning
+
+Morning. You look awfully drowsy, didn't you sleep well? Tsk-tsk, come on then, what is it? What mischief were you up to last night, hmm?
+
+### Good Afternoon
+
+Hmm... ugh, what a headache. What should I have for lunch? Not Fried Tofu again, I'm in the mood for something a little lighter today. Ah — I know. I haven't seen the Yashiro Commission girl in a while. Let's get her to make us a little something.
+
+### Good Evening
+
+The moon is simply magnificent tonight. We mustn't squander it. Come, join me for a moonlight stroll — I won't take no for an answer.
+
+### Good Night
+
+I suppose I should get some sleep. Hmm, I must say, I do find it hard to doze off peacefully without the soothing sound of thunder booming in the background.
+
+### About Yae Miko: Eternity
+
+Eternity means never having to let go of what you already have. But on the other hand, it also means giving up on all other possibilities. That's just the way of the world... No one can have everything.
+
+### About Yae Miko: Interests
+
+Humans are just fascinating creatures, that's why I'm so fond of them. They live such short lives, but for the time they're around, they shine as bright as the midday sun. There are some whose light never grows dim, even over great stretches of time... These are the lives that make for real page-turners.
+
+### About Us: Authorship
+
+Boring. Utterly boring... Ugh, what could have possibly persuaded these people to become authors? Say, why don't you write out your story and submit it to Yae Publishing House? I'm sure that would keep me amused— Ahem, I mean, I'm sure it would be a best-seller.
+
+### About Us: Erosion
+
+Sealing yourself away from the rest of the world may only serve to accelerate the effects of erosion... Imagine, a world consisting of you and you alone, with no one else to reflect you back at yourself... how awful that would be. Whenever we are together, it is vital that we always shine a light for each other, okay? It's rather difficult to remain enlightened in the dark.
+
+### About the Vision
+
+You're saying... you like how I wear my Vision? You certainly have an eye for a priceless treasure. Well then, I bet you'd like to pet it.
+
+### Something to Share
+
+Heat oil on a medium-high flame in a pot. Add the tofu and reduce the heat to a low flame. Cook until golden-brown, take it out, then serve piping hot. There you have it, Fried Tofu. There is nothing more delicious in this world. Well, I've told you how to make it, have I not? Why are you still standing there?
+
+### Interesting Things
+
+Though I occasionally get a little weary of the sight of it — I can't exactly avoid seeing it at the Grand Narukami Shrine, after all — my fate is intimately intertwined with the Sacred Sakura.
+
+### About the Raiden Shogun
+
+Locking herself away in the Plane of Euthymia when she clearly wants to be out — it's just willful self-torture, really... On the other hand, it's also rather stubborn-but-cute, don't you think?
+
+### About Kamisato Ayato
+
+The Yashiro rascal... he's always been an unpredictable one, even as a child. Don't be taken in by his warm smile. There's no knowing what devious scheme might be brewing inside his head — it's really quite maddening... What do you mean, "sly as a fox"? Hmph, if you're trying to insinuate that he and I are anything alike, you are sorely mistaken.
+
+### About Kamisato Ayaka
+
+I'm very fond indeed of the Yashiro Commission girl. She adroitly handles every matter that comes before her. Unfortunately, it's often thankless work. Pity. Were she not a member of the Kamisato Clan, I would have long since snatched her up for the Yae Publishing House.
+
+### About Kujou Sara
+
+Not the sharpest tengu in the forest — she certainly didn't inherit the brilliant mind of daddy tengu, that's for sure. *sigh* How shall I put this? I suppose being blunt and dispensing with tact has its own advantages... But I do hope that the next time she visits the shrine, she keeps to herself. I've got better things to do than answer her incessant questions about Ei.
+
+### About Yoimiya
+
+Naganohara fireworks are well worth the wait every year. Word is that she caused quite an uproar among the Tenryou Commission recently by setting off fireworks all over the place. Heh, I'm sure the members of the Kujou Clan must've turned purple with rage... A pity that I couldn't be there to see it for myself.
+
+### About Ganyu
+
+Hmm, now that you mention it, it's been a while since I last saw Ganyu. Before the Sakoku Decree came into effect, the two of us would often meet to discuss bilateral relations between our two nations. I always found her quite reliable. The next time you go to Liyue, take her some more fresh Sea Ganoderma for me.
+
+### About Sangonomiya Kokomi
+
+These Divine Priestesses seem to be getting cuter every generation. I wonder how she looks performing the Dance of Divine Peace... Perhaps even little schools of fish swish around her while she spins. If she's ever looking for a more experienced head shrine maiden to learn from, I'd be quite happy to share a few tips with her... Hehe, as long as she asked me nicely, of course.
+
+### About Kunikuzushi
+
+I thought it was a disaster waiting to happen at the time, but she insisted that she wasn't going to lift a finger against the object of her own creation. Had I known how things would unfold, I would have simply disposed of it without her knowing. Hmm? What about now? Hehe... Well, we're no longer waiting for the disaster to happen, are we?
+
+### About Arataki Itto
+
+Ah, the oddball oni. Heh, I hear that he's been quite a pain for the Kujou Clan. The Tenryou Commission wanted to remove his messages on the bulletin board, claiming that they were "harmful to public order." I made quite sure they stayed put, haha. He's an entertaining character... you don't often see oni like him in this day and age.
+
+### About Gorou
+
+He certainly has a beautiful tail. Although... mine's a little softer.
+
+### About Sayu
+
+Ah yes, the little ninja child... If there's one thing she can do, it's stay hidden. Kano Nana constantly complains to me about it. Apparently, she now spends so much of her time searching for Sayu that she barely has any time to read anymore. If you ask me, I'd say that Sayu has a secret ally who is helping her hide all the time...
+
+### About Kuki Shinobu
+
+I've heard a lot about Miyuki's little sister. Quite the character, I'm told. Although she comes from a family of shrine maidens, she's gone her own way in life — tried her hand at many different trades, studied abroad in Liyue, even ended up joining the Arataki Gang... Fascinating girl. Maybe I should have Miyuki introduce me. Yes, that'll work — Miyuki wouldn't dream of refusing my request.
+
+### More About Yae Miko: I
+
+Oh? You'd like to know more about me? I'm willing to tell, but what will I gain in exchange, hmm? It has to be a fair trade. So you tell me all about you, and I'll tell you all about me. Deal?
+
+### More About Yae Miko: II
+
+Kitsune Saiguu said that she was going off on a long trip, and she's never been back since. *sigh* At the time, I wasn't the least bit inclined to take on the burden of managing the Grand Narukami Shrine. So she told me that as Guuji, I would be able to eat all the Fried Tofu I desired. As if that would be a convincing reason... That woman spoke so much nonsense, honestly, she could be so insufferable...
+
+### More About Yae Miko: III
+
+I decided to found Yae Publishing House simply because I wished to read more interesting light novels, that's all. But, it turns out that seeing frazzled authors scraping the bottom of their barrel in a desperate attempt to get their novels finished is where the real amusement comes from. You wouldn't believe some of the excuses they come up with when they're trying to get a deadline extension. Oh, so much more creative than the novels themselves.
+
+### More About Yae Miko: IV
+
+Even supernatural beings eventually pass away, including gods. It's a terrible shame when their tales are lost to time along with them, never to be remembered again. The problem is, only those with first-class writing and composition skills are qualified to commit these stories to paper. If there is no qualified writing talent in the world, we must cultivate it... Yes, home-grown writers are what we need, capable of adequately capturing these stories with the written word.
+
+### More About Yae Miko: V
+
+Though I'm an avid reader of novels written by others, I've yet to pick up the pen myself. Writing a novel is quite an undertaking, after all. But, if there comes a day when you reach the end of your adventure and want somebody to record it — and if I happen to have the time when that day comes... We'll see.
+
+### Yae Miko's Hobbies
+
+My favorite pastime is reading other people's stories. My second favorite is watching other people squirm... If I could find a way to combine the two, haha... Oh, that would be entertainment in its purest form.
+
+### Yae Miko's Troubles
+
+Peace and tranquility seems to be all the rage nowadays, but it gets dreadfully boring after a while...
+
+### Favorite Food
+
+Have you ever heard of a dish called "Kitsune Udon"? It's quite simple, really... Just Fried Tofu served on top of Udon noodles. What do you think? Noodles and Fried Tofu, that's all. Doesn't it sound heavenly?
+
+### Least Favorite Food
+
+Anything that has been pickled is firmly off-limits for me... I don't care whether it's Medaka or Kiviak, what sort of person can stand that vile stench? I, for one, am Guuji of the Grand Narukami Shrine, and I refuse to defile myself by ingesting such pungent things.
+
+### Birth Date
+
+Ah, so today is your birthday... "On your ceremonious reckoning of years, I task my kin with seeing to it that that which you seek, you shall surely find, and that that for which your heart longs, you shall surely receive. Remain pure of heart and true of spirit, and their protection shall be bestowed on you." There you go. May all go well in your year ahead, and may all your wishes be fulfilled. Are we done?
+
+### Feelings About Ascension: Intro
+
+When training to become a shrine maiden, the title of "Chokkai" is granted once one has completed their requisite studies and can correctly chant for ceremonies. This might be very straightforward for humans, but it's the most difficult step for the kitsune... We are only foxes, after all.
+
+### Feelings About Ascension: Building Up
+
+The training required to become a Guuji's Assistant, or "Seikai," is arduous indeed. You must observe a myriad of harsh restrictions... There is only one way to make it through: snack at night, and make sure you don't get caught.
+
+### Feelings About Ascension: Climax
+
+Attaining the rank of "Meikai" requires one to decipher the workings of the world, transcend its limitations, and fathom all phenomena within. Usually, any who reach this level are granted a Vision and a lifespan far beyond that of the average kitsune.
+
+### Feelings About Ascension: Conclusion
+
+Throughout history, only the Guuji of the Grand Narukami Shrine has ever held the rank of "Joukai." It is an honorary title, not related to the capabilities of the holder. But of course, if I were to declare myself the most powerful Joukai in history, I don't see why there'd be anything wrong with that.
+
+### Elemental Skill: I
+
+Right here.
+
+### Elemental Skill: II
+
+Right now.
+
+### Elemental Skill: III
+
+Emerge!
+
+### Elemental Skill: IV
+
+Come on out.
+
+### Elemental Skill: V
+
+Show them.
+
+### Elemental Burst: I
+
+I'm always watching.
+
+### Elemental Burst: II
+
+Nothing lasts forever.
+
+### Elemental Burst: III
+
+A sight to behold.
+
+### Opening Treasure Chest: I
+
+Well, what do we have here?
+
+### Opening Treasure Chest: II
+
+Don't tell me that's everything...
+
+### Opening Treasure Chest: III
+
+Go on. Open it up, show me what's inside.
+
+### Low HP: I
+
+That's quite enough.
+
+### Low HP: II
+
+Ugh, no more games.
+
+### Low HP: III
+
+Now, you've got my attention.
+
+### Ally at Low HP: I
+
+My, you're cutting it close.
+
+### Ally at Low HP: II
+
+I shall handle this.
+
+### Fallen: I
+
+The fun's over...
+
+### Fallen: II
+
+What a dreadful ending...
+
+### Fallen: III
+
+So much for "eternity"...
+
+### Light Hit Taken: I
+
+Is that all?
+
+### Heavy Hit Taken: I
+
+What a nuisance.
+
+### Joining Party: I
+
+Whatever would you do without me?
+
+### Joining Party: II
+
+Alright, amuse me.
+
+### Joining Party: III
+
+Well, since you asked so nicely...
+
+### Receiving a Gift: I
+
+My, my! You really know what appeals to my tastes, don't you.
+
+### Receiving a Gift: II
+
+Since you've made it yourself, I guess having a little taste is the least I can do, haha...
+
+### Receiving a Gift: III
+
+How should I put this... There's so much room for improvement that the only way is up.
+
+### About Kirara
+
+More youkai have expressed an interest in the human world lately. I wonder if that's a good thing or not. You want to know what I think? Hehe, I would tell them to live for the moment. Besides, how could I ever dislike a little youkai who would willingly take us out to dinner and pay for the meal?
+
+### About Yumemizuki Mizuki: Business Rivalry
+
+"Anxiety and exhaustion strip people of the emotional energy for novels"? Hmph, well, I suppose Yae Publishing House needs to work harder, then. Apparently, we haven't published a single volume to Miss Mizuki's liking. I'll give my editors and writers more time... If we still can't satisfy her, then as the Editor-in-Chief, I suppose I'll have to write one myself. Hm..."The Baku Chronicles" has a nice ring to it, hmm?
+
+### About Yumemizuki Mizuki: Reunion
+
+When Mizuki first returned to Inazuma, she was so skittish. Whenever she saw me on the street, she would immediately avert her eyes... Oh, me? No, I didn't call her out on it. It was pretty fun to watch her squirm, actually. Sometimes, she would turn back to sneak a glance once we passed each other... I thought about turning around to face her, but I'm sure it would have scared her straight back into her baku form and sent her running for the hills.
+But, now... she's a lot more comfortable. Well, comfortable enough to criticize me in the reader correspondence column of That's Life, at least. The baku are quick to adapt, I suppose.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我是鸣神大社的宫司，此番造访，自是为了确认你的一举一动，此为大社诏令…呵，不用那么紧张，场面话罢了，这样才有正当理由休沐嘛。快，去做些有趣的事让我看看吧。
+
+### 闲聊·创作体裁
+
+最近八重堂穿越异世的小说也太多了，哼，就对自己的世界如此不满吗。
+
+### 闲聊·故事
+
+很多人的一生，写于纸上也不过几行，大多都是些无聊的故事啊。
+
+### 闲聊·尘世
+
+于我而言，不变也是一种美好，哎呀，可尘世哪是如此不变之物。
+
+### 下雨的时候…
+
+下起雨后，浑身的毛发都会变得湿漉漉的…
+
+### 打雷的时候…
+
+很多人会害怕打雷，不过我听到雷声只会觉得亲近。
+
+### 下雪的时候…
+
+未生灵智的小狐狸，往往会一头栽入雪地来觅食…想看我那样做？哼。
+
+### 早上好…
+
+早，嗯？怎么一副无精打采的样子，没有睡好吗？哎呀，昨晚是去做什么坏事了么？
+
+### 中午好…
+
+嗯~伤脑筋，中午吃些什么呢？油豆腐吃腻了，想吃点清淡的。话说好久没见到社奉行家的小姑娘了，我们不如就去吃她做的点心吧。
+
+### 晚上好…
+
+今夜的月光如此清亮，不做些什么真是浪费。随我一同去月下漫步吧，不许拒绝。
+
+### 晚安…
+
+该入眠了，呵，在夜里不听到连绵的雷声，甚至都会睡不安稳呢。
+
+### 关于八重神子自己·永恒
+
+所谓的永恒，就是不再失去已拥有之物，但从别的角度说，也放弃了得到更多的可能，不过世事总是如此，没人能够得到全部。
+
+### 关于八重神子自己·趣味
+
+人类很有趣，所以我才如此喜欢人类。明明生命短暂，却能散发映昼光辉。他们之中，有些人的光芒，即使隔开久远时间长河都不曾黯淡。阅读这样的人生，是一大乐事啊。
+
+### 关于我们·作家
+
+无聊，这本也无聊透顶…啊呀，这些人都是为了什么才成为作家的。欸，对了，不如你把自己的经历写下来投给八重堂吧，感觉一定能给我一点乐…一定能大受欢迎吧。
+
+### 关于我们·磨损
+
+将自己封闭起来，或许会更快地遭受「磨损」。只有自己的世界，无他人作镜以对映，可是很可怕的事…你我共处之时，重要的就是互相观照哦。
+
+### 关于「神之眼」…
+
+你说…你很喜欢我佩戴「神之眼」的方式？真有眼光。那么…要来摸摸看吗？
+
+### 有什么想要分享…
+
+在油温到八成热时，沿锅下豆腐，再开成小火，等到煎至金黄的时候再夹出来，热乎乎的，这世上没有比油豆腐更好吃的东西了。咦，做法都已经告诉你了，你怎么还愣在这里呢？
+
+### 感兴趣的见闻…
+
+虽然因为在鸣神大社，日日抬头都能得见，有时也会觉得厌烦。不过，那棵神樱毕竟已经是我命运所系之物了啊。
+
+### 关于雷电将军…
+
+明明想要出来，却一直把自己关在一心净土里，简直就是自我折磨嘛…从另一个角度来说，也挺可爱的不是吗。
+
+### 关于神里绫人…
+
+社奉行家的那个小子啊，从小就不安分，别看他表面上笑得春风和煦，暗地里可不知道在盘算什么呢，令人讨厌…哼，我可跟他不是一类人，哪来同类相斥的说法。
+
+### 关于神里绫华…
+
+我很喜欢社奉行家的小姑娘，任何事都安排得井井有条。不过社奉行一直都在做些吃力不讨好的活，可怜，如果她不是神里家的人，我早就把她挖到八重堂了。
+
+### 关于九条裟罗…
+
+这块愚笨的木头啊，远不如她那天狗爹爹心思活络…哎呀，怎么说呢，虽说木讷耿直也有木讷耿直的好处吧，不过还是希望下次不要在神社拦着我，一个劲追问影的事了。
+
+### 关于宵宫…
+
+长野原的烟花嘛，也是每年难得的值得期盼之物了。据说前些天她还大闹天领奉行，在敷地大放烟花。呵，九条家的人恐怕气得脸都变青了，真是可惜呀，没能亲眼看到那副场景。
+
+### 关于甘雨…
+
+这么说来，很久没有见过甘雨姐姐了。稻妻尚未锁国时，璃月与稻妻往来事务都是我与她接洽，真是相当可靠，下次若有机会去璃月，再给她带些新鲜的海灵芝吧。
+
+### 关于珊瑚宫心海…
+
+现在的巫女，一个比一个可爱。不知道这孩子跳起太平神乐之舞会是什么样子，说不好群鱼也会跟着旋转吧。只要她肯叫我一声神子姐姐，呵呵…我倒有些心得愿意分享。
+
+### 关于国崩…
+
+我当时就觉得那是个麻烦，不过她却说毕竟是自己创造之物不愿出手。早知变成现在这样，还不如当初就瞒着她处理掉算了。现在？呵…现在，已经变麻烦啦。
+
+### 关于荒泷一斗…
+
+他呀，鬼族的奇怪小子，呵，听说他找了九条家不少的麻烦。天领奉行的人想要以有伤风化为由将他写于街上的留言擦掉，是我找人保留的，呵，这么有趣的小鬼，这些年可是难能一见了。
+
+### 关于五郎…
+
+五郎的尾巴色泽很漂亮，不过…还是我的更柔软一些。呵…
+
+### 关于早柚…
+
+这个子小小的孩子，躲倒是挺会躲的，鹿野奈奈经常向我抱怨，得花很多时间找她，连看小说的时间都变少了。要我说啊，或许是有人在暗中帮助早柚呢？
+
+### 关于久岐忍…
+
+听说阿幸的这位妹妹很有个性，虽说出自巫女世家，却远离神社，学了许多门手艺，甚至去过璃月留学，最后还加入了荒泷派…如此有趣的女孩子，应该让阿幸帮忙引荐一下，嗯，阿幸肯定不会拒绝我的。
+
+### 想要了解八重神子·其一
+
+想知道更多我的事？也不是不行，不过世事都讲究一个互惠互利，想了解我，就拿你自己的事来交换如何？
+
+### 想要了解八重神子·其二
+
+狐斋宫大人啊，说着出一趟远门，就再也没有回来。唉，我那时可一点都不想接手鸣神大社的麻烦事，她对我说，说我要是当了神社的宫司，就可以随心所欲地吃油豆腐了。什么糟糕的理由呀，吵吵闹闹的，令人头疼的女人…
+
+### 想要了解八重神子·其三
+
+最开始建立八重堂的动机当然是为了看有趣的小说，不过到后来乐趣就变成看那些小说家殚精竭虑的样子了。呵，你永远想不出来那些人在拖稿的时候说出的理由，哎呀，比他们自己写的小说要有趣多了。
+
+### 想要了解八重神子·其四
+
+无论如何，魔神皆有消亡之时，若是他们的那些故事随时间一起散佚于天地，再无人忆起，那就太可惜了。以及，有资格写他们故事的人，必须得有上乘的文思与笔法…如果世上没有这样的人，那就培养出…培养出足以书写那些故事的作家吧。
+
+### 想要了解八重神子·其五
+
+说来，虽然看过许多人写的小说，我自己倒是从未动笔过，写小说毕竟还是很麻烦的事嘛。不过，如果你的冒险结束了，想要有人记录你的故事，而我那时正好有空的话…
+
+### 八重神子的爱好…
+
+我第一喜欢的是他人的故事，第二喜欢的就是看他人烦恼的神色，两者若是在一起，哈，那可是相得益彰的有趣啊。
+
+### 八重神子的烦恼…
+
+过度安稳的日子实在是太过无聊了啊…
+
+### 喜欢的食物…
+
+你有听说过一物，其名为「狐狸乌冬」吗，其实也就是加了油豆腐的乌冬啦。怎么样，油豆腐加乌冬，听上去就很好吃吧。
+
+### 讨厌的食物…
+
+不行，腌制过的东西不行，不管是花鳉还是腌海雀，不觉得都有一股不能让人接受的臭味吗？本宫身为鸣神大社的宫司，怎么能咽下如此不洁不净之物。
+
+### 生辰…
+
+今日是你的生辰啊…
+「凡御岁之祝礼，以徒名之令，遇其其之所求，遂其其之所愿，正心明神，以受萌荫庇佑。」好了，就这样。祝你这一年能够诸事顺遂，得偿所愿吧。
+
+### 突破的感受·起
+
+所谓巫女修行阶位，在修习毕业之后，能准确开口念诵祭言即可称为「直阶」。对于人类来说很方便，不过对狐族来说倒是最困难的一步…毕竟是狐狸嘛。
+
+### 突破的感受·承
+
+成为宫司代理，也就是「正阶」的修行可是很辛苦的，要受诸多清修戒律，修行的秘诀唯有一条，就是晚上偷偷进食时，不要被人发现。
+
+### 突破的感受·转
+
+升为「明阶」，即要求进入天地明察的境界，神通宇内，世事洞明。只要进入了这个境界，一般都会受获神之眼，拥有远超一般狐族的悠长寿命了哦。
+
+### 突破的感受·合
+
+鸣神大社的「净阶」，历来只有鸣神大社的宫司具有，仅此一位。「净阶」只是类似荣誉职位的东西，跟实力倒没什么关系，不过我若是自称实力最强的「净阶」，倒也无何不可。
+
+### 元素战技·其一
+
+律令。
+
+### 元素战技·其二
+
+咒禁。
+
+### 元素战技·其三
+
+敕！
+
+### 元素战技·其四
+
+显化。
+
+### 元素战技·其五
+
+留形。
+
+### 元素爆发·其一
+
+真瞳显现！
+
+### 元素爆发·其二
+
+雷霆侘寂！
+
+### 元素爆发·其三
+
+雷光凄美啊。
+
+### 打开宝箱·其一
+
+有什么有趣的东西吗？
+
+### 打开宝箱·其二
+
+就只有这些么…
+
+### 打开宝箱·其三
+
+快，打开来给我看看。
+
+### 生命值低·其一
+
+这样下去可不行啊。
+
+### 生命值低·其二
+
+可不能再玩下去了。
+
+### 生命值低·其三
+
+好了，要认真一些了哦。
+
+### 同伴生命值低·其一
+
+别再勉强了。
+
+### 同伴生命值低·其二
+
+交给我就好。
+
+### 倒下·其一
+
+哎呀，玩过头了…
+
+### 倒下·其二
+
+结局真是糟糕啊…
+
+### 倒下·其三
+
+止步于此，何谈永恒…
+
+### 普通受击·其一
+
+就这样？
+
+### 重受击·其一
+
+真是麻烦。
+
+### 加入队伍·其一
+
+这时候想起我了？
+
+### 加入队伍·其二
+
+去做点有意思的事吧。
+
+### 加入队伍·其三
+
+好吧，既然你都来邀请我了…
+
+### 收到赠礼·其一
+
+哎呀，小家伙，你对我的口味了解得很清楚嘛。
+
+### 收到赠礼·其二
+
+既然是你亲手做的，我就尝尝看吧，呵呵…
+
+### 收到赠礼·其三
+
+怎么说呢…小家伙，需要努力的地方还有不少哦？
+
+### 关于绮良良…
+
+最近对人类社会感兴趣的妖怪真是越来越多了。这种趋势，该说是好事吗？我的态度？哎呀，当然是劝大家及时行乐啦。再说，乖乖掏钱请客吃饭的小后辈，谁会不喜欢呢？
+
+### 关于梦见月瑞希·产业竞争
+
+「焦虑劳累之人根本读不进小说」？唉，我们「八重堂」真是失败啊，旗下的小说还是趣味性不足，到现在为止，还没能推出足够获得瑞希小姐认可的小说。再给我的编辑和作家一点时间吧，要是接下来的作品还是没法让瑞希店长点头，我这个没用的主编，就只能亲自给瑞希小姐写一本小说咯，名字…就叫「梦貘记」好了。
+
+### 关于梦见月瑞希·重遇
+
+瑞希刚回来稻妻那一会，总是一副揣着心事的样子，明明在路上看见了我，却还要把目光撇开…我？我当然没有主动搭讪她。还想多看一阵她那副别扭的模样呢。如果我没想错，等我们俩擦肩而过之后，她还要扭过头，瞪着眼睛瞅我两眼…要是我这时候再回头看她，只怕瑞希要被我吓得露出原形，捂着耳朵飘走了。
+不过现在嘛…她都已经会在闲事月刊的读者来信里给我挑刺了。食梦貘的成长，真是迅速哪。

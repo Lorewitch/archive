@@ -146,5 +146,1002 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Поболтаем: Бдительность",
+        "en": "Chat: On Guard",
+        "zh": "闲聊·警惕"
+      },
+      "text": {
+        "ru": "Говорят, что чем спокойнее место на первый взгляд, тем больше вероятность, что в нём таится опасность... Не знаю, всегда ли это так, но быть начеку никогда не помешает.",
+        "en": "They say that the calmer things seem on the surface, the more likely that danger lurks in the shadows... Not sure if that's always true, but it never hurts to stay alert.",
+        "zh": "越是平静的地方，就越有可能隐藏着危险…我也不知道这话对不对，但警惕点总没错。"
+      },
+      "source_id": 127000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Ночное дежурство",
+        "en": "Chat: Night Patrol",
+        "zh": "闲聊·巡夜"
+      },
+      "text": {
+        "ru": "Тебе холодно? Во время ночного дежурства легко простудиться. Я приготовлю тебе горячий суп.",
+        "en": "You cold? Gotta be careful you don't catch a chill. C'mon, I'll fix you a bowl of hot soup.",
+        "zh": "你是不是觉得冷？巡夜的时候很容易受凉，我煮碗暖汤给你喝吧。"
+      },
+      "source_id": 127001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Трудности",
+        "en": "Chat: Adversity",
+        "zh": "闲聊·困难"
+      },
+      "text": {
+        "ru": "Нельзя делать только то, что у тебя хорошо получается. Иногда единственный способ стать сильнее - заставить себя делать по-настоящему трудные вещи.",
+        "en": "Just doing what you're good at won't cut it, y'know. Sometimes, the only way to grow stronger is to step out of your comfort zone.",
+        "zh": "只做擅长的事情可不行，只有强迫自己去做困难的事，才能在挣扎中变强嘛。"
+      },
+      "source_id": 127002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Привет! Я Иллуги, командир разведывательного отряда Светоносцев. Ты заблудился? Не волнуйся, такое часто случается. Эти тропы не из самых удобных для путешественников, даже в лучшие дни. Следуй за мной - я освещу тебе путь. / Привет! Я Иллуги, командир разведывательного отряда Светоносцев. Ты заблудилась? Не волнуйся, такое часто случается. Эти тропы не из самых удобных для путешественников, даже в лучшие дни. Следуй за мной - я освещу тебе путь.",
+        "en": "Hey there! I'm Illuga, leader of the Lightkeepers' investigation squad. Lost your way, huh? Heh, don't worry... that happens a lot. These paths aren't exactly \"traveler-friendly,\" even on the best of days. Just follow my lead — I'll light the way ahead.",
+        "zh": "你好呀，我是叶洛亚，执灯人调查分队的队长。请问是遇上什么麻烦了吗？这也是常有的事，附近的路的确不太好走。不过别担心，跟我来吧，我会帮你照亮前方的路。"
+      },
+      "source_id": 127003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Солнце вышло! Похоже, в этот раз победила светлая сторона.",
+        "en": "Sun is back! Looks like the light won again.",
+        "zh": "太阳出来了，看来这次是光明的一方打赢了。"
+      },
+      "source_id": 127004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Старик говорит, что это боги сражаются на небесах. Я лишь надеюсь, что они не причинят вреда невинным.",
+        "en": "As my old pops always says, \"the gods are at it again.\" Just hope they don't drag the rest of us into it...",
+        "zh": "老爹说这是天上的神明们在交战，我只希望他们不要殃及无辜。"
+      },
+      "source_id": 127005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Хорошая погода - большая редкость. Если бы она всегда была такой, нам, ратникам, было бы гораздо легче работать.",
+        "en": "Finally, some decent weather for a change. If only it were like this more often, us Lightkeepers wouldn't have half as much to worry about.",
+        "zh": "难得的好天气啊。要是能一直这么好，我们执灯士的工作也会轻松很多吧。"
+      },
+      "source_id": 127006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Поднялся ветер... У меня плохое предчувствие... Укроемся в ближайшем лагере.",
+        "en": "Wind's kicking up... That's never a good sign. We'd better make camp before it turns nasty.",
+        "zh": "起风了，总感觉会有不好的事情发生…要不我们还是去附近的营地躲躲吧？"
+      },
+      "source_id": 127007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Ночь прошла... Мы пережили ещё одну ночь.",
+        "en": "Another dawn... Another night safely behind us.",
+        "zh": "夜晚过去了，看来我们又度过了平安的一天。"
+      },
+      "source_id": 127008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Солнце светит так ярко! Нужно воспользоваться моментом и проверить, нет ли в округе скрытых опасностей... Хм, но что-то меня клонит в сон...",
+        "en": "Now the sun's up, I should probably take the chance to scout out our surroundings. Problem is... I could really use a nap.",
+        "zh": "阳光正好，应该趁这个时候观察一下周围有没有什么隐患…唔，不过好像有点困了…"
+      },
+      "source_id": 127009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Никогда не знаешь, что может скрываться в тени ночи. Будь осторожен, когда путешествуешь в ночи. / Никогда не знаешь, что может скрываться в тени ночи. Будь осторожна, когда путешествуешь в ночи.",
+        "en": "You never know what might be lurking in the shadows of night. If you really have to travel, make sure to stay sharp.",
+        "zh": "天黑之后说不定会有魔物出没。走夜路的话，请一定要小心谨慎。"
+      },
+      "source_id": 127010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Уже поздно, тебе пора отдохнуть. Не беспокойся, я буду стоять на страже этой ночью.",
+        "en": "It's getting late. You go ahead and get some rest — I'll keep watch tonight.",
+        "zh": "嗯，时候不早了，你先休息吧。放心，今晚我会替你守夜的。"
+      },
+      "source_id": 127011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Об Иллуги: Светоносец",
+        "en": "About Illuga: Lightkeepers",
+        "zh": "关于叶洛亚自己·执灯人"
+      },
+      "text": {
+        "ru": "Пришлось долго уговаривать старика, пока он наконец разрешил мне вступить в ряды Светоносцев. Я не мог смириться с мыслью, что буду сидеть в Пирамиде в безопасности, пока другие рискуют жизнью. Как я и сказал ему, я предпочитаю быть на передовой и помогать сдерживать Дикую Охоту.",
+        "en": "Hehe, it took a lot of pestering before my old pops finally let me join the Lightkeepers. I just couldn't bear the idea of staying in Piramida safe and sound while others were out there risking their lives. Like I told him, I'd rather be on the frontlines helping keep the Wild Hunt at bay.",
+        "zh": "加入执灯人的事，是我求了老爷子好几次才说服他同意的。比起一直待在皮拉米达城被前辈们保护，我更想要去到战场的最前方，和大家一起成为阻挡狂猎前进的力量。"
+      },
+      "source_id": 127012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Об Иллуги: Командир отряда",
+        "en": "About Illuga: Squad Leader",
+        "zh": "关于叶洛亚自己·分队长"
+      },
+      "text": {
+        "ru": "Как командир отряда я несу ответственность за жизни своих товарищей. Иногда я задаюсь вопросом, подхожу ли я для этой работы... Но они доверились мне, и я не могу их подвести.",
+        "en": "Being squad leader essentially means I'm responsible for keeping my comrades alive. Some days I still wonder if I'm really cut out for it... but since they've placed their trust in me, I can't let them down.",
+        "zh": "成为分队长意味着要肩负起同僚的性命，虽然我还是时常怀疑自己是否有这样的资格…但是既然大家都选择了相信我，那我也不可以辜负大家的信任，对吧？"
+      },
+      "source_id": 127013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Обязанности",
+        "en": "About Us: Duty",
+        "zh": "关于我们·职责"
+      },
+      "text": {
+        "ru": "Обязанность Светоносцев - защищать торговцев и путешественников, которые проходят через наши земли. Включает ли это и искателей приключений? Ну... формально это не входит в мои обязанности, но я могу сказать одно - пока я на страже, никто не пострадает.",
+        "en": "It's a Lightkeeper's duty to protect the merchants and travelers who pass through our lands. Does that include adventurers, you ask? Well... technically, it's not part of the job description, but I can tell you this — no one's getting hurt on my watch.",
+        "zh": "为往来的商旅提供保护，是我们执灯人的职责…你问保护对象包不包括冒险家？嗯…虽然理论上这确实超出了我的责任范围，但我可不能允许任何人在我负责巡察的区域里受到伤害。"
+      },
+      "source_id": 127014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Член отряда",
+        "en": "About Us: Squad Members",
+        "zh": "关于我们·队员"
+      },
+      "text": {
+        "ru": "Теперь ты официально член нашего разведывательного отряда, а это значит, я несу ответственность за твою безопасность... Говорят, ты снова отправился на поиски приключений в опасные места. Я рад, что ты не пострадал. Может, в следующий раз я пойду с тобой? / Теперь ты официально член нашего разведывательного отряда, а это значит, я несу ответственность за твою безопасность... Говорят, ты снова отправилась на поиски приключений в опасные места. Я рад, что ты не пострадала. Может, в следующий раз я пойду с тобой?",
+        "en": "Now that you're a member of the investigation squad, I'm responsible for your safety, and a whole squad's worth of \"little birds\" tell me you've been off adventuring in dangerous places again. Seeing you safe and sound puts my mind at ease, but I'd feel even better if you let me come with you!",
+        "zh": "现在你已经算是我们调查分队的队员了，这就意味着，我必须为你的生命安全负责…听他们说你最近又去了危险的地方冒险，现在看到你平安无事，我稍微安心了一点…所以说，下次要不还是让我跟你一起去吧？"
+      },
+      "source_id": 127015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О Глазе Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Мне говорили, что это просто красивый самоцвет, но когда мне наконец выпал шанс подержать его в руках, я понял, какой вес он имеет. Думаю, судьба вложила его в мои руки не случайно, и я должен стараться быть достойным его.",
+        "en": "Someone once told me these were no more than pretty gemstones. It wasn't until I held one myself that I understood what it truly meant. I don't think fate gave it to me by accident, but still... the onus is on me to prove I'm worthy.",
+        "zh": "曾经有人告诉我这只是枚好看的宝石，直到终于有机会将它掂在手里，我才明白其中承载的重量。我想，命运把它交到我的手上并非偶然，我得努力配得上它。"
+      },
+      "source_id": 127016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "С самой высокой точки Пирамиды, глядя на север, можно увидеть бескрайнюю снежную равнину. Говорят, это родина нашего первого Старшины, Литейщика факелов Соловья. Человек, потерявший всё и не способный вернуться домой, в итоге нашёл здесь своё пристанище... Возможно, эта крепость с самого начала существовала для того, чтобы такие, как мы, могли найти поддержку друг в друге.",
+        "en": "If you look north from the highest point in Piramida, you can just about make out the edge of the Snezhnayan tundra. They say that was the homeland of our first Starshyna, Torchforger Solovei. He ended up losing everything, even his home... Yet here, he found a place to belong. Maybe that's why this fortress exists — as a refuge for people like us, a place to find warmth in each other.",
+        "zh": "从皮拉米达城的最高处向北眺望，可以看到至冬雪原的一角。据说那里就是我们的初代执灯长，铸灯者索洛维的家乡。失去一切而无法回到家园的人，最后在这里找到了归宿…说不定，这座城堡从一开始就是为了让我们这样的人抱团取暖而存在的。"
+      },
+      "source_id": 127017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "В окрестностях Пирамиды обитает множество удивительных существ, излучающих куувяки, таких как мандрагора и ленивая овечка... Но не позволяй их внешности обмануть тебя. Они могут выглядеть как знакомые тебе животные, но на самом деле это растения, мимикрирующие под животных... Честно говоря, на вкус они довольно неплохи. Если хочешь, в следующий раз я могу приготовить их для тебя. А? Откуда я это знаю? Ну, во время ночного патрулирования случаются разные непредвиденные ситуации...",
+        "en": "Around Piramida, you'll run into all sorts of strange creatures brimming with kuuvahki... Mandragoras, Slothsheep, you name it. They might look like animals, but they're actually plants — so don't be fooled by the mimicry. Still, they taste delicious! I could whip something up for you to try if you'd like... How do I know how they taste...? Uhh, let's just say... when you're out in the middle of nowhere on night patrol, a little improvisation goes a long way.",
+        "zh": "皮拉米达城附近有许多散发着月矩力的奇妙生物，像是曼陀草、獭懒羊…可不要被它们的表象所欺骗，虽然看上去像是你们见过的动物，但它们其实是拟态成动物模样的植物…不过实话说，它们的味道还不错。不介意的话，下次可以做一份给你尝尝。嗯？你问我为什么会知道这个？巡夜的时候总会有许多不得已的情况嘛…"
+      },
+      "source_id": 127018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Флинсе: Визиты",
+        "en": "About Flins: Drop-Ins",
+        "zh": "关于菲林斯·拜访…"
+      },
+      "text": {
+        "ru": "Когда я впервые встретил господина Флинса, я подумал, что он живёт один, потому что не любит общаться с людьми или просто немного... эксцентричен. Оказалось, что всё совсем наоборот, по крайней мере, в том, что касается его социальных потребностей. Вот только каждый раз, когда мы разговариваем, он всегда заканчивает свои рассказы на самом интересном месте... Иногда я задаюсь вопросом, неужели это его способ заставить меня почаще навещать его, чтобы услышать продолжение?",
+        "en": "When I first met Mr. Flins, I assumed that the reason he lived alone was either because he didn't like being around people, or that he was just a little... eccentric. Turns out that the complete opposite is true — well, at least in terms of his social appetite. Only thing is, every time we talk, he always seems to end his stories on a cliffhanger... Sometimes, I wonder if that's his way of making sure I'll come back to hear the rest.",
+        "zh": "刚认识菲林斯先生的时候，还以为他是不善交际或者性格乖僻才选择离群索居的呢，但没过多久，我就发现事情与我想的恰恰相反…不过每次我们聊天，他总是在故事最后加入些吊胃口的情节，我在想，这是不是因为…他其实欢迎我多去拜访呢？"
+      },
+      "source_id": 127019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Флинсе: Секреты",
+        "en": "About Flins: Secrets",
+        "zh": "关于菲林斯·秘密…"
+      },
+      "text": {
+        "ru": "Говоришь, у господина Флинса много секретов? Для ратников это не редкость. Мы происходим из разных слоёв общества, и у каждого есть секреты, которыми он не хочется делиться? Даже старик редко рассказывает мне о временах своей молодости. Что касается господина Флинса... я стал гораздо лучше его понимать, и после всего, что произошло в последнее время, у меня сложилось примерное представление о том, что он может скрывать. Я однажды спросил его об этом, но он ни подтвердил, ни опроверг мои догадки. Это тоже своего рода ответ.",
+        "en": "You're saying there's a lot more to Mr. Flins than meets the eye? Hah... Well, that's hardly unusual for a Ratnik. We're all from different walks of life, so who doesn't have a few things they'd rather keep to themselves? Even my old pops rarely talks about his past. As for Mr. Flins... well, I've certainly got to know him a lot better, and after everything that's been going on lately, I've got a rough idea of what he might be hiding. I actually asked about it once, but he neither confirmed nor denied my suspicions. In a way, I guess that's an answer in itself.",
+        "zh": "你是说菲林斯先生身上藏着许多秘密？当然，这在执灯士当中并不稀奇。我的同僚们出身各不相同，谁能没有几个不想告诉别人的秘密呢？就连老爹也很少向我提及他年轻时的往事。至于菲林斯先生嘛…最近发生了那么多事，好歹也是朋友，他的秘密我多少能猜到一点点。我试着求证过，他既没有否认，也没有承认，可能那也是一种表态。"
+      },
+      "source_id": 127020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Лауме...",
+        "en": "About Lauma",
+        "zh": "关于菈乌玛…"
+      },
+      "text": {
+        "ru": "Наша дружба с Детьми Морозной Луны уходит корнями ко временам самого Литейщика факелов. Но даже без этого я бы не перестал восхищаться нынешним Голосом Лунного Гимна. Она добрая, нежная, и каждый раз, когда я прихожу к ней, узнаю что-то новое. В такие времена её работа не легче нашей, но она всегда сохраняет спокойствие. Готов поспорить, что она несёт на своих плечах гораздо больше, чем показывает.",
+        "en": "Our friendship with the Frostmoon Scions goes all the way back to the days of the Torchforger himself. Truth is, though, even if it didn't, I'd still have nothing but admiration for the current Moonchanter. She's kind, gentle, and I end up learning something new every time I visit. In times like these, her job can't be any easier than ours — yet somehow, she always manages to stay so serene. I'd bet that she's been shouldering a lot more than she lets on.",
+        "zh": "自铸灯者的时代开始，我们与霜月之子就保持着传统的友谊。这一代的咏月使是位温柔又和善的小姐，每次拜访我都能从她那里学到很多。以如今这个世道，当咏月使不会比做执灯人轻松。她能始终保持这种态度，想必也承受了许多吧。"
+      },
+      "source_id": 127021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Варке...",
+        "en": "About Varka",
+        "zh": "关于法尔伽…"
+      },
+      "text": {
+        "ru": "Я сражался бок о бок с Варкой против Дикой Охоты, и могу сказать одно - он выдающийся воин. Я слышал, что рыцари Ордо Фавониус были созданы для защиты своей родины, так же как и мы, Светоносцы. Возможно, однажды, когда мы положим конец Дикой Охоте в Нод-Крае, мы сможем путешествовать за пределы этих земель и сражаться за тех, кто терпит лишения в других краях.",
+        "en": "I've fought side-by-side with Mr. Varka against the Wild Hunt, and I can tell you this — his fighting skills are up there with the best of them. I've heard that the Knights of Favonius were founded to defend their homeland, just like us Lightkeepers. I hope that someday, once we've finally driven the Wild Hunt from Nod-Krai, we'll be able to travel beyond these lands and fight for those living in hardship elsewhere as well.",
+        "zh": "法尔伽先生是位了不起的战士，我们曾并肩对抗过狂猎。听说西风骑士团也和我们执灯人一样，是为了守护家园而建立的组织。或许有一天，等挪德卡莱的狂猎都被消灭干净了，我们也能远赴异域，为更多生活在苦难中的人们而战。"
+      },
+      "source_id": 127022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Нефер...",
+        "en": "About Nefer",
+        "zh": "关于奈芙尔…"
+      },
+      "text": {
+        "ru": "Благодаря Кураторию тайн нам стало намного удобнее действовать в Нашгороде. Раньше всё было не так. Говорят, до прибытия госпожи Нефер в Нод-Край, ратники часто конфликтовали с бандами, и старик очень переживал из-за этого... С тех пор ситуация значительно улучшилась. Правда, госпожа Нефер, как и господин Флинс, любит подшучивать надо мной... и должен признать, иногда это бывает неприятно.",
+        "en": "Our operations in Nasha Town have become way smoother in recent times, and it's mostly thanks to the Curatorium of Secrets. It sure wasn't like this before, I'll tell you that. Before Miss Nefer arrived on the scene, it was like we were locked in a constant battle with the town's gangs, and it used to worry my old pops sick. Things have improved immensely since then, though. That said, Miss Nefer seems to love teasing me just as much as Mr. Flins does... and I have to admit, that can be a bit of a headache sometimes.",
+        "zh": "多亏了秘闻馆的关照，我们在那夏镇的行动才会如此方便，以前可不是这样的。据说在奈芙尔小姐来到挪德卡莱之前，执灯士们和那些不守规矩的帮派分子经常发生冲突，老爷子还一度为此苦恼…现在真是好多了呢。不过，奈芙尔小姐也和菲林斯先生一样爱拿我寻开心，也让我有些苦恼就是了。"
+      },
+      "source_id": 127023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Об Айно...",
+        "en": "About Aino",
+        "zh": "关于爱诺…"
+      },
+      "text": {
+        "ru": "Когда Светоносцам нужна помощь в ремонте сложного оборудования, мы обычно обращаемся к Айно. Однако она, похоже, твёрдо намерена научить нас проводить ремонтные работы самостоятельно. С тех пор как она однажды увидела, как я ремонтирую механизм, она настойчиво требует, чтобы я ходил на её занятия... Как именно я пытался его починить? Я использовал трюк, которому меня научил старик. Как он любит говорить: «Если что-то не работает, нужно пару раз как следует стукнуть!» Кто же знал, что она так разозлится...",
+        "en": "Whenever the Lightkeepers need help fixing complex machinery, we tend to ask for Miss Aino's assistance. She really seems determined to teach us how to do it ourselves, though. Ever since she caught me trying to repair something on my own, she's been constantly insisting that I attend her classes... How exactly was I trying to fix it, you ask? Hah, well, if you must know, it was a trick I learned from my old pops. As he likes to put it, \"if something's not working, just whack it a few times!\" To my shock, that set her off something fierce...",
+        "zh": "我们执灯人维修复杂机关，一般都会请爱诺小姐来帮忙，不过她看起来好像是真的想教会我们…自从有一次，我被她看到在自己修理机关之后，她就大吵着怎么说也要拉我去上课…嗯？你问我是怎么修的？那我当然是跟老爹学的，机关不灵，只要用力敲两下就好了，谁知道她会这么生气…"
+      },
+      "source_id": 127024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Линнее...",
+        "en": "About Linnea",
+        "zh": "关于莉奈娅…"
+      },
+      "text": {
+        "ru": "Такие альвы, как госпожа Линнея, редко встречаются даже в пёстром Нод-Крае. До знакомства с ней я думал, что она будет более сдержанной. Но когда мы впервые встретились, она увидела Аэдона и сразу же бросилась к нему со сверкающими глазами... Аэдон - почтовая птица, он никогда не отступал даже перед Дикой Охотой, но теперь, лишь заслышав её голос, сразу прячется в фонарь и не хочет выходить...",
+        "en": "Even in a place as diverse as Nod-Krai, Fae ladies like Miss Linnea are few and far between. I originally figured she'd be the quiet, graceful type, but it turns out that was WAY off. For instance, the first time she saw Aedon, she got so excited that she practically pounced on him. It spooked him so bad that now, the second he hears her voice, he bolts for my lamp. And remember, this is Aedon we're talking about here — a messenger bird who's usually so \"unflappable\" that he wouldn't flinch for anything, not even the Wild Hunt...",
+        "zh": "像莉奈娅这样的妖精小姐，即便在鱼龙混杂的挪德卡莱也很少见。在认识之前，我原本以为她会是更加沉稳的类型。没想到第一次见面，她看到阿咚之后直接两眼放光地扑了上来…阿咚可是面对狂猎都从不退缩的信鸟，但现在每次只要一听到她的声音，就会马上躲进灯里不肯出来…"
+      },
+      "source_id": 127025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Богине Луны...",
+        "en": "About the Moon Goddess",
+        "zh": "关于「月神」…"
+      },
+      "text": {
+        "ru": "Нод-Край - это «рай», сотворённый руками людей, мечта, которая веками поддерживалась кровью и жертвами бесчисленных поколений Светоносцев. Возможно, здесь и появилось новое божество, но я не думаю, что наш образ жизни из-за этого внезапно изменится. Я не ставлю под сомнение саму Богиню Луны, вовсе нет. Просто я считаю, что... вместо того, чтобы ждать, пока кто-то придёт и спасёт нас, лучше полагаться на свои собственные силы.",
+        "en": "Nod-Krai is an \"elysium\" built by human hands, a dream kept alive over the centuries by the blood and sacrifice of countless generations of Lightkeepers. There might be a new deity in town, but I don't think our way of life will suddenly change because of that. It's not that I doubt the Moon Goddess herself — far from it. I just believe that... rather than waiting for someone else to save us, we'd do better to rely on our own strength.",
+        "zh": "挪德卡莱是「人」的乐园，这条道路是由数百年来无数执灯士的血与骨所铺就的。就算如今迎来了一位新的神明，属于挪德卡莱的生存方式也不会因此而改变吧。不是不相信那位「月神」小姐…只是我觉得，比起等待别人来拯救，还是拥有能主动保护身边人的力量更安心。"
+      },
+      "source_id": 127026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше об Иллуги I",
+        "en": "More About Illuga: I",
+        "zh": "想要了解叶洛亚·其一"
+      },
+      "text": {
+        "ru": "Хочешь узнать о мoём прошлом? Хм, дай подумать... Нет, не думаю, что там есть что-то, что могло бы вызвать у тебя улыбку. Ты действительно хочешь это услышать?",
+        "en": "You want to know about my past? Hmm, let me think... Nope, I don't think there's anything in there that would put a smile on your face. You... sure you wanna hear it?",
+        "zh": "想要了解我的过去？嗯…让我想想…好像没有那种说出来能让人开心的部分啊，你真的想听吗？"
+      },
+      "source_id": 127027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше об Иллуги II",
+        "en": "More About Illuga: II",
+        "zh": "想要了解叶洛亚·其二"
+      },
+      "text": {
+        "ru": "Аэдон - моя почтовая птица, я всегда беру его с собой во время ночных патрулей. Он не только предупреждает меня об опасностях, но и освещает путь. Честно говоря, я не мог бы пожелать лучшего компаньона. А? За время путешествий тебе никогда не встречалась светящаяся птица вроде Аэдона? Хм... Неужели он и правда не обычная почтовая птица...",
+        "en": "Meet Aedon, my messenger bird — the trusty little guy who comes with me whenever I head out on night patrol. Honestly, I couldn't ask for a better companion. Not only does he alert me to danger, he even lights the way ahead... Huh? You mean, despite all that traveling, even you've never seen a bird that glows like this before? Hold up... Could he... actually be more than just a regular messenger bird?",
+        "zh": "阿咚是我的信鸟，每次出门巡夜的时候我都会带上它。它不仅会提醒我周围的危险，还能帮我照亮前方的路，是非常可靠的伙伴…嗯？你是说你走过这么多国家也从没见过这种会发光的鸟？等等…该不会它真的不是普通的信鸟吧…"
+      },
+      "source_id": 127028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше об Иллуги III",
+        "en": "More About Illuga: III",
+        "zh": "想要了解叶洛亚·其三"
+      },
+      "text": {
+        "ru": "Как видишь, мой Фонарь клятвы отличается от других. Это не потому, что я командир отряда и у меня есть особые привилегии. Я использовал его, когда служил в отряде материально-технического обеспечения. Позже, когда наше снаряжение было модернизировано, этот фонарь стал последним в своём роде. Можно сказать, что я к нему привязался. Когда думаю о его замене, мне становится как-то не по себе.",
+        "en": "You've probably noticed that my Oath Lantern is a bit different from the standard-issue ones that everyone else carries. It's not because I'm a squad leader or anything like that — it's just the signal lamp I used back when I served in the logistics squad. Later, when our equipment was upgraded, this became the last of its kind. I guess you could say I've grown kinda attached to it. The idea of replacing it... doesn't quite feel right.",
+        "zh": "如你所见，我的誓言之灯与大家的制式并不相同。这可不是因为我是分队长就有什么特殊，它是我在后勤分队的时候所用的信号灯。后来执灯人的装备更新换代，就只剩下了我手上这最后一盏…我大概是习惯了吧，每次想到要换掉它就觉得很难受。"
+      },
+      "source_id": 127029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше об Иллуги IV",
+        "en": "More About Illuga: IV",
+        "zh": "想要了解叶洛亚·其四"
+      },
+      "text": {
+        "ru": "Ты знаешь, что я называю Никиту «стариком»? Тебя, наверное, не удивит, что все остальные тоже называют его «стариком». Несмотря на это, я не думаю, что он так уж сильно постарел. Он лучше меня помнит расположение всех маяков и имена всех, кто несёт там службу, и как бы я ни старался, у меня не получается ничего от него скрыть. Именно поэтому я не могу не задаться вопросом: что же будет, когда однажды годы наконец настигнут его?",
+        "en": "You know how I call Nikita \"my old pops\"? Well, it probably wouldn't surprise you to hear that the others all call him \"old man\" too. Despite that, though, I don't actually think he's aged much at all. He still remembers the positions of every lighthouse and who's stationed there even better than I do, and no matter how hard I try, I can never hide a thing from him. But that's exactly why I can't help but wonder — what will happen someday when the years finally catch up to him?",
+        "zh": "我的老爹尼基塔，同僚们都叫他老爷子。说是这么说，我可一点没觉得他老。各地灯塔的部署情况，他比我记得还清楚，我的事情也从来瞒不过他。不过越是这样我就越忍不住想，要是有一天他真的老了该怎么办呢？"
+      },
+      "source_id": 127030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше об Иллуги V",
+        "en": "More About Illuga: V",
+        "zh": "想要了解叶洛亚·其五"
+      },
+      "text": {
+        "ru": "Всякий раз, когда появляется Дикая Охота, за ней следуют стенания мёртвых... и каждый раз, когда я слышу эти крики, я чувствую, что вернулся на то поле битвы, переживая заново день, когда старик взял меня к себе. Возможно, пока Дикая Охота бродит по этой земле, меня не покинут кошмары, которые преследуют меня.",
+        "en": "Whenever the Wild Hunt comes forth, the wails of the dead follow in its wake... and every time I hear those cries, I feel like I'm back on that battlefield, reliving the day that my old pops took me in. Perhaps as long as the Wild Hunt still roams this land, the nightmares that haunt me will never truly fade.",
+        "zh": "狂猎到来时，我总能听到狂风中夹杂着逝者的哀鸣。每到这个时候，就仿佛又回到了那个地狱般的战场，回到了被老爹捡回来的那一天。或许只要狂猎还没被彻底消灭，缠绕着我的梦魇就不会离去。"
+      },
+      "source_id": 127031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Хобби Иллуги...",
+        "en": "Illuga's Hobbies",
+        "zh": "叶洛亚的爱好…"
+      },
+      "text": {
+        "ru": "Раз уж мы об этом заговорили, пожалуй, я тоже провожу большую часть свободного времени со своими товарищами по отряду. В последнее время мы все увлечены новой игрой под названием «Настольная труппа». Но нам не хватает пары игроков... Ну как, присоединишься к нам?",
+        "en": "Now you mention it, I guess I spend most of my downtime with my squadmates too. Lately, we've all been hooked on this new game called \"Tabletop Troupe.\" We're still short a couple of players, though... So how about it? Wanna join us?",
+        "zh": "你这样一说，我的闲暇时间好像也都和同僚们待在一起…最近执灯士中很流行一种叫作「桌上剧团」的游戏，我们还没凑够一起玩的人，你要不要也来参加？"
+      },
+      "source_id": 127032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Беспокойство Иллуги...",
+        "en": "Illuga's Troubles",
+        "zh": "叶洛亚的烦恼…"
+      },
+      "text": {
+        "ru": "Я никогда не смогу смириться с мыслью о том, что невинные люди гибнут в результате внезапных, бессмысленных бедствий. Всё, что я делаю, я делаю ради того, чтобы подобное никогда не происходило с другими.",
+        "en": "The thought of innocent people dying in sudden, meaningless calamities is something I can never accept. I just wish that no one else ever has to go through something like that again... That's all I've ever worked for.",
+        "zh": "无辜之人因为突如其来的灾难而莫名其妙地丢掉性命，这种事情我无法原谅。我所做的一切努力，都是为了让这样的事不再发生在其他人身上。"
+      },
+      "source_id": 127033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Честно говоря, я не очень привередлив в еде. Если мы соберёмся все вместе у костра и поделимся горячей едой, любое блюдо будет казаться самым изысканным деликатесом.",
+        "en": "To be honest, I don't really have any strong preferences when it comes to food. The way I see it, as long as we can all gather around the fire and share a warm meal, whatever's on the table tastes like the finest cuisine there is.",
+        "zh": "食物嘛…我倒是没什么特别的偏好。在我看来，只要能和大家一起围着炉火，热热闹闹地吃上一顿，无论煮的是什么，那都是最好的美食。"
+      },
+      "source_id": 127034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Главное, чтобы еда была горячей, тогда я готов есть что угодно. А вот холодная... Вряд ли. Представь себе: ты дежуришь ночью в зимнюю стужу, и тебе подают миску ледяной каши. При одной мысли об этом мне хочется сказать то, чего не следует...",
+        "en": "As long as it's hot, I'm fine with just about anything. Cold food, though... Yeah, not so much. Imagine — you're out on night watch in the dead of winter, and you're handed a bowl of stone cold gruel. The mere thought of it makes me wanna say something I really shouldn't...",
+        "zh": "只要是热乎乎的食物都没问题，凉的最好不要…你想想啊，要是等到了冬天，大晚上值夜的时候吃到的饭菜还是凉的，想想都忍不住要说难听的话了…"
+      },
+      "source_id": 127035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Удивительный вкус! Поделишься рецептом? Я хочу научиться готовить это сам!",
+        "en": "Wow, now that's what I call flavor... Seriously, what's the secret ingredient? I wanna learn how to make this myself!",
+        "zh": "令人惊艳的味道，能告诉我调味的秘方吗？我也想学学看。"
+      },
+      "source_id": 127036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Неплохо, хочу, чтобы мои товарищи тоже это попробовали.",
+        "en": "Not bad! Heh, wait till my comrades get a taste of this!",
+        "zh": "不错啊，真想让同僚们也尝尝。"
+      },
+      "source_id": 127037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Хм... пожалуй, я научу тебя готовить ещё несколько блюд.",
+        "en": "Ahem... Hey, I can teach you a few other dishes, if you'd like!",
+        "zh": "嗯…要不还是让我再多教你几道料理吧。"
+      },
+      "source_id": 127038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения, дорогой член отряда! Забудь о заданиях и приключениях - такие дни предназначены для близких друзей, вкусной еды и отдыха! Я буду стоять на страже, а ты расслабься и наслаждайся. А если вдруг к нам заглянут незваные гости, я прогоню их своим фонарём.",
+        "en": "Happy birthday, squadmate! Forget about commissions and adventures — days like this are reserved for close friends, full bellies, and catching up on sleep! I'll be standing watch, so you just focus on letting your hair down. And on the off-chance we get gate-crashers, I'll scare 'em off with my trusty lamp.",
+        "zh": "生日快乐，亲爱的队员。今天就别管什么委托了，也暂且忘掉那些冒险吧。这么重要的日子，就应该一整天都跟朋友们待在一起，吃饱喝足然后睡个好觉，你说对不对？放心，我会替你守着的。要是有什么烦人的家伙敢来打扰你，我就用我手上的这盏灯把他们都赶走。"
+      },
+      "source_id": 127039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Оказывается, есть и такой способ стать сильнее. В два раза быстрее.",
+        "en": "Huh, if only I'd known about this sooner. Now that's what I call a game-changer.",
+        "zh": "原来还有这种变强的方法，事半功倍了啊。"
+      },
+      "source_id": 127040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Я стал сильнее, но этого недостаточно, чтобы защитить всех...",
+        "en": "I'm certainly feeling stronger... but I can tell I've still got a long way to go.",
+        "zh": "力量有所提升，但要用来保护大家还远远不够…"
+      },
+      "source_id": 127041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Как много я узнал, и всё благодаря тебе. Хе-хе, я стал увереннее...",
+        "en": "Can't believe how much I've learned, and it's all thanks to you. Heh, I might finally be starting to believe in myself...",
+        "zh": "多谢你教我，这段时间我学到了很多，对自己稍微有些信心了。"
+      },
+      "source_id": 127042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "До сих пор я постоянно полагался на тебя, и я очень благодарен тебе за помощь. Теперь я чувствую прилив сил и надеюсь, что ты позволишь мне вернуть долг.",
+        "en": "I've relied on you so much up till now, and I really appreciate your help. Now that I'm feeling up to it, I hope you'll let me return the favor... once in a while, at least.",
+        "zh": "真是惭愧，一直在麻烦你。不过现在我已经变得足够强大了，所以接下来希望你也能多依赖我一点。"
+      },
+      "source_id": 127043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Вперёд, Аэдон!",
+        "en": "Go get 'em, Aedon!",
+        "zh": "去吧，阿咚！"
+      },
+      "source_id": 127044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Это наш шанс!",
+        "en": "While the light shines bright!",
+        "zh": "趁现在！"
+      },
+      "source_id": 127045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Я рассчитываю на тебя!",
+        "en": "You got this!",
+        "zh": "交给你了！"
+      },
+      "source_id": 127046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Цель захвачена.",
+        "en": "Target acquired.",
+        "zh": "瞄准好了。"
+      },
+      "source_id": 127047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Тебе не сбежать.",
+        "en": "You're in my sights.",
+        "zh": "你跑不掉的。"
+      },
+      "source_id": 127048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Не упусти этот шанс!",
+        "en": "Press the advantage!",
+        "zh": "机不可失。"
+      },
+      "source_id": 127049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Прочь, тьма!",
+        "en": "Begone, shadow of darkness!",
+        "zh": "我的灯下没有阴霾！"
+      },
+      "source_id": 127050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Свет покарает тебя!",
+        "en": "The light compels you!",
+        "zh": "接受明光的制裁吧！"
+      },
+      "source_id": 127051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Встречай рассвет!",
+        "en": "Behold the dawn!",
+        "zh": "迎接黎明的曙光！"
+      },
+      "source_id": 127052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Сокровища должны достаться тем, кто в них нуждается.",
+        "en": "This should go to those that need it.",
+        "zh": "宝藏应该交给需要它们的人。"
+      },
+      "source_id": 127053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Это не ловушка. Я зря беспокоился.",
+        "en": "So it wasn't a trap, after all.",
+        "zh": "居然不是陷阱，看来是我多虑了。"
+      },
+      "source_id": 127054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Раньше не замечал... Нужно усилить патрулирование.",
+        "en": "Huh, how'd this slip through the net...",
+        "zh": "之前没注意到啊…得加强巡察了。"
+      },
+      "source_id": 127055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "У меня дурное предчувствие...",
+        "en": "This looks bad...",
+        "zh": "有种不祥的预感…"
+      },
+      "source_id": 127056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Похоже, я переоценил себя...",
+        "en": "Guess I got cocky...",
+        "zh": "我还是高估自己的实力了啊…"
+      },
+      "source_id": 127057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Ещё не поздно позвать подкрепление?",
+        "en": "Is it... too late to call for backup?",
+        "zh": "现在叫增援还来得及吗？"
+      },
+      "source_id": 127058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Не исчезай из моего поля зрения.",
+        "en": "Stay behind me!",
+        "zh": "别离开我的视野。"
+      },
+      "source_id": 127059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Теперь моя очередь защищать тебя.",
+        "en": "My turn!",
+        "zh": "该轮到我来保护你了。"
+      },
+      "source_id": 127060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Если бы я мог... сделать чуть больше...",
+        "en": "I could've... done more...",
+        "zh": "要是能再努力一点的话…"
+      },
+      "source_id": 127061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Нужно... доставить информацию...",
+        "en": "Just... make sure the intel gets back.",
+        "zh": "至少要将情报带回去…"
+      },
+      "source_id": 127062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Я не смог... защитить всех...",
+        "en": "I couldn't... keep you all safe...",
+        "zh": "还是，没能保护大家…"
+      },
+      "source_id": 127063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Проклятье...",
+        "en": "Argh...",
+        "zh": "可恶…"
+      },
+      "source_id": 127064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Получен лёгкий удар II",
+        "en": "Light Hit Taken: II",
+        "zh": "普通受击·其二"
+      },
+      "text": {
+        "ru": "Стоило отвлечься...",
+        "en": "I got careless...",
+        "zh": "大意了。"
+      },
+      "source_id": 127065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Не на моём дежурстве...",
+        "en": "Not on my watch...",
+        "zh": "还能忍受。"
+      },
+      "source_id": 127066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Держись!",
+        "en": "Gotta hold fast!",
+        "zh": "再坚持下。"
+      },
+      "source_id": 127067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Ратник заступил на службу!",
+        "en": "Ratnik reporting for duty!",
+        "zh": "明白了，这也是执灯士的职责。"
+      },
+      "source_id": 127068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Я освещу путь.",
+        "en": "I'll light the path ahead.",
+        "zh": "让我来替你掌灯吧。"
+      },
+      "source_id": 127069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Я не подведу тебя.",
+        "en": "I won't let you down.",
+        "zh": "我会努力不让你失望的。"
+      },
+      "source_id": 127070
+    }
+  ],
+  "replica_count": 71
 }

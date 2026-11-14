@@ -457,3 +457,863 @@ This was indeed a gift from the world. The gemstone weighed heavy in his palm, m
 从墓园回来后，叶洛亚递交了接任调查分队队长的申请——伊瓦尔受伤残疾，已无法再参加战斗，这个分队其实也只剩下他一人了。
 与上次申请加入执灯人时不同，这次他很快就收到了回复。和预想中的不太一样，委任书有些沉重。打开时，一颗闪亮亮的宝石掉了出来。他曾在菲林斯那里见到过类似式样的宝石，直到此时他才相信了那个听起来不太靠谱的故事。
 这的确是世界送来的礼物，宝石在手中沉甸甸的，就像是他正准备要去承担起的责任。
+
+# voice_source_ids: 127000,127001,127002,127003,127004,127005,127006,127007,127008,127009,127010,127011,127012,127013,127014,127015,127016,127017,127018,127019,127020,127021,127022,127023,127024,127025,127026,127027,127028,127029,127030,127031,127032,127033,127034,127035,127036,127037,127038,127039,127040,127041,127042,127043,127044,127045,127046,127047,127048,127049,127050,127051,127052,127053,127054,127055,127056,127057,127058,127059,127060,127061,127062,127063,127064,127065,127066,127067,127068,127069,127070
+
+## REPLICAS_RU
+
+### Поболтаем: Бдительность
+
+Говорят, что чем спокойнее место на первый взгляд, тем больше вероятность, что в нём таится опасность... Не знаю, всегда ли это так, но быть начеку никогда не помешает.
+
+### Поболтаем: Ночное дежурство
+
+Тебе холодно? Во время ночного дежурства легко простудиться. Я приготовлю тебе горячий суп.
+
+### Поболтаем: Трудности
+
+Нельзя делать только то, что у тебя хорошо получается. Иногда единственный способ стать сильнее - заставить себя делать по-настоящему трудные вещи.
+
+### Привет...
+
+Привет! Я Иллуги, командир разведывательного отряда Светоносцев. Ты заблудился? Не волнуйся, такое часто случается. Эти тропы не из самых удобных для путешественников, даже в лучшие дни. Следуй за мной - я освещу тебе путь. / Привет! Я Иллуги, командир разведывательного отряда Светоносцев. Ты заблудилась? Не волнуйся, такое часто случается. Эти тропы не из самых удобных для путешественников, даже в лучшие дни. Следуй за мной - я освещу тебе путь.
+
+### После дождя...
+
+Солнце вышло! Похоже, в этот раз победила светлая сторона.
+
+### Когда гремит гром...
+
+Старик говорит, что это боги сражаются на небесах. Я лишь надеюсь, что они не причинят вреда невинным.
+
+### Когда светит солнце...
+
+Хорошая погода - большая редкость. Если бы она всегда была такой, нам, ратникам, было бы гораздо легче работать.
+
+### Когда дует сильный ветер...
+
+Поднялся ветер... У меня плохое предчувствие... Укроемся в ближайшем лагере.
+
+### Доброе утро...
+
+Ночь прошла... Мы пережили ещё одну ночь.
+
+### Добрый день...
+
+Солнце светит так ярко! Нужно воспользоваться моментом и проверить, нет ли в округе скрытых опасностей... Хм, но что-то меня клонит в сон...
+
+### Добрый вечер...
+
+Никогда не знаешь, что может скрываться в тени ночи. Будь осторожен, когда путешествуешь в ночи. / Никогда не знаешь, что может скрываться в тени ночи. Будь осторожна, когда путешествуешь в ночи.
+
+### Спокойной ночи...
+
+Уже поздно, тебе пора отдохнуть. Не беспокойся, я буду стоять на страже этой ночью.
+
+### Об Иллуги: Светоносец
+
+Пришлось долго уговаривать старика, пока он наконец разрешил мне вступить в ряды Светоносцев. Я не мог смириться с мыслью, что буду сидеть в Пирамиде в безопасности, пока другие рискуют жизнью. Как я и сказал ему, я предпочитаю быть на передовой и помогать сдерживать Дикую Охоту.
+
+### Об Иллуги: Командир отряда
+
+Как командир отряда я несу ответственность за жизни своих товарищей. Иногда я задаюсь вопросом, подхожу ли я для этой работы... Но они доверились мне, и я не могу их подвести.
+
+### О нас: Обязанности
+
+Обязанность Светоносцев - защищать торговцев и путешественников, которые проходят через наши земли. Включает ли это и искателей приключений? Ну... формально это не входит в мои обязанности, но я могу сказать одно - пока я на страже, никто не пострадает.
+
+### О нас: Член отряда
+
+Теперь ты официально член нашего разведывательного отряда, а это значит, я несу ответственность за твою безопасность... Говорят, ты снова отправился на поиски приключений в опасные места. Я рад, что ты не пострадал. Может, в следующий раз я пойду с тобой? / Теперь ты официально член нашего разведывательного отряда, а это значит, я несу ответственность за твою безопасность... Говорят, ты снова отправилась на поиски приключений в опасные места. Я рад, что ты не пострадала. Может, в следующий раз я пойду с тобой?
+
+### О Глазе Бога...
+
+Мне говорили, что это просто красивый самоцвет, но когда мне наконец выпал шанс подержать его в руках, я понял, какой вес он имеет. Думаю, судьба вложила его в мои руки не случайно, и я должен стараться быть достойным его.
+
+### Давай поделимся...
+
+С самой высокой точки Пирамиды, глядя на север, можно увидеть бескрайнюю снежную равнину. Говорят, это родина нашего первого Старшины, Литейщика факелов Соловья. Человек, потерявший всё и не способный вернуться домой, в итоге нашёл здесь своё пристанище... Возможно, эта крепость с самого начала существовала для того, чтобы такие, как мы, могли найти поддержку друг в друге.
+
+### Интересные вещи...
+
+В окрестностях Пирамиды обитает множество удивительных существ, излучающих куувяки, таких как мандрагора и ленивая овечка... Но не позволяй их внешности обмануть тебя. Они могут выглядеть как знакомые тебе животные, но на самом деле это растения, мимикрирующие под животных... Честно говоря, на вкус они довольно неплохи. Если хочешь, в следующий раз я могу приготовить их для тебя. А? Откуда я это знаю? Ну, во время ночного патрулирования случаются разные непредвиденные ситуации...
+
+### О Флинсе: Визиты
+
+Когда я впервые встретил господина Флинса, я подумал, что он живёт один, потому что не любит общаться с людьми или просто немного... эксцентричен. Оказалось, что всё совсем наоборот, по крайней мере, в том, что касается его социальных потребностей. Вот только каждый раз, когда мы разговариваем, он всегда заканчивает свои рассказы на самом интересном месте... Иногда я задаюсь вопросом, неужели это его способ заставить меня почаще навещать его, чтобы услышать продолжение?
+
+### О Флинсе: Секреты
+
+Говоришь, у господина Флинса много секретов? Для ратников это не редкость. Мы происходим из разных слоёв общества, и у каждого есть секреты, которыми он не хочется делиться? Даже старик редко рассказывает мне о временах своей молодости. Что касается господина Флинса... я стал гораздо лучше его понимать, и после всего, что произошло в последнее время, у меня сложилось примерное представление о том, что он может скрывать. Я однажды спросил его об этом, но он ни подтвердил, ни опроверг мои догадки. Это тоже своего рода ответ.
+
+### О Лауме...
+
+Наша дружба с Детьми Морозной Луны уходит корнями ко временам самого Литейщика факелов. Но даже без этого я бы не перестал восхищаться нынешним Голосом Лунного Гимна. Она добрая, нежная, и каждый раз, когда я прихожу к ней, узнаю что-то новое. В такие времена её работа не легче нашей, но она всегда сохраняет спокойствие. Готов поспорить, что она несёт на своих плечах гораздо больше, чем показывает.
+
+### О Варке...
+
+Я сражался бок о бок с Варкой против Дикой Охоты, и могу сказать одно - он выдающийся воин. Я слышал, что рыцари Ордо Фавониус были созданы для защиты своей родины, так же как и мы, Светоносцы. Возможно, однажды, когда мы положим конец Дикой Охоте в Нод-Крае, мы сможем путешествовать за пределы этих земель и сражаться за тех, кто терпит лишения в других краях.
+
+### О Нефер...
+
+Благодаря Кураторию тайн нам стало намного удобнее действовать в Нашгороде. Раньше всё было не так. Говорят, до прибытия госпожи Нефер в Нод-Край, ратники часто конфликтовали с бандами, и старик очень переживал из-за этого... С тех пор ситуация значительно улучшилась. Правда, госпожа Нефер, как и господин Флинс, любит подшучивать надо мной... и должен признать, иногда это бывает неприятно.
+
+### Об Айно...
+
+Когда Светоносцам нужна помощь в ремонте сложного оборудования, мы обычно обращаемся к Айно. Однако она, похоже, твёрдо намерена научить нас проводить ремонтные работы самостоятельно. С тех пор как она однажды увидела, как я ремонтирую механизм, она настойчиво требует, чтобы я ходил на её занятия... Как именно я пытался его починить? Я использовал трюк, которому меня научил старик. Как он любит говорить: «Если что-то не работает, нужно пару раз как следует стукнуть!» Кто же знал, что она так разозлится...
+
+### О Линнее...
+
+Такие альвы, как госпожа Линнея, редко встречаются даже в пёстром Нод-Крае. До знакомства с ней я думал, что она будет более сдержанной. Но когда мы впервые встретились, она увидела Аэдона и сразу же бросилась к нему со сверкающими глазами... Аэдон - почтовая птица, он никогда не отступал даже перед Дикой Охотой, но теперь, лишь заслышав её голос, сразу прячется в фонарь и не хочет выходить...
+
+### О Богине Луны...
+
+Нод-Край - это «рай», сотворённый руками людей, мечта, которая веками поддерживалась кровью и жертвами бесчисленных поколений Светоносцев. Возможно, здесь и появилось новое божество, но я не думаю, что наш образ жизни из-за этого внезапно изменится. Я не ставлю под сомнение саму Богиню Луны, вовсе нет. Просто я считаю, что... вместо того, чтобы ждать, пока кто-то придёт и спасёт нас, лучше полагаться на свои собственные силы.
+
+### Узнать больше об Иллуги I
+
+Хочешь узнать о мoём прошлом? Хм, дай подумать... Нет, не думаю, что там есть что-то, что могло бы вызвать у тебя улыбку. Ты действительно хочешь это услышать?
+
+### Узнать больше об Иллуги II
+
+Аэдон - моя почтовая птица, я всегда беру его с собой во время ночных патрулей. Он не только предупреждает меня об опасностях, но и освещает путь. Честно говоря, я не мог бы пожелать лучшего компаньона. А? За время путешествий тебе никогда не встречалась светящаяся птица вроде Аэдона? Хм... Неужели он и правда не обычная почтовая птица...
+
+### Узнать больше об Иллуги III
+
+Как видишь, мой Фонарь клятвы отличается от других. Это не потому, что я командир отряда и у меня есть особые привилегии. Я использовал его, когда служил в отряде материально-технического обеспечения. Позже, когда наше снаряжение было модернизировано, этот фонарь стал последним в своём роде. Можно сказать, что я к нему привязался. Когда думаю о его замене, мне становится как-то не по себе.
+
+### Узнать больше об Иллуги IV
+
+Ты знаешь, что я называю Никиту «стариком»? Тебя, наверное, не удивит, что все остальные тоже называют его «стариком». Несмотря на это, я не думаю, что он так уж сильно постарел. Он лучше меня помнит расположение всех маяков и имена всех, кто несёт там службу, и как бы я ни старался, у меня не получается ничего от него скрыть. Именно поэтому я не могу не задаться вопросом: что же будет, когда однажды годы наконец настигнут его?
+
+### Узнать больше об Иллуги V
+
+Всякий раз, когда появляется Дикая Охота, за ней следуют стенания мёртвых... и каждый раз, когда я слышу эти крики, я чувствую, что вернулся на то поле битвы, переживая заново день, когда старик взял меня к себе. Возможно, пока Дикая Охота бродит по этой земле, меня не покинут кошмары, которые преследуют меня.
+
+### Хобби Иллуги...
+
+Раз уж мы об этом заговорили, пожалуй, я тоже провожу большую часть свободного времени со своими товарищами по отряду. В последнее время мы все увлечены новой игрой под названием «Настольная труппа». Но нам не хватает пары игроков... Ну как, присоединишься к нам?
+
+### Беспокойство Иллуги...
+
+Я никогда не смогу смириться с мыслью о том, что невинные люди гибнут в результате внезапных, бессмысленных бедствий. Всё, что я делаю, я делаю ради того, чтобы подобное никогда не происходило с другими.
+
+### Любимая еда...
+
+Честно говоря, я не очень привередлив в еде. Если мы соберёмся все вместе у костра и поделимся горячей едой, любое блюдо будет казаться самым изысканным деликатесом.
+
+### Нелюбимая еда...
+
+Главное, чтобы еда была горячей, тогда я готов есть что угодно. А вот холодная... Вряд ли. Представь себе: ты дежуришь ночью в зимнюю стужу, и тебе подают миску ледяной каши. При одной мысли об этом мне хочется сказать то, чего не следует...
+
+### Подарок I
+
+Удивительный вкус! Поделишься рецептом? Я хочу научиться готовить это сам!
+
+### Подарок II
+
+Неплохо, хочу, чтобы мои товарищи тоже это попробовали.
+
+### Подарок III
+
+Хм... пожалуй, я научу тебя готовить ещё несколько блюд.
+
+### День рождения...
+
+С днём рождения, дорогой член отряда! Забудь о заданиях и приключениях - такие дни предназначены для близких друзей, вкусной еды и отдыха! Я буду стоять на страже, а ты расслабься и наслаждайся. А если вдруг к нам заглянут незваные гости, я прогоню их своим фонарём.
+
+### Чувство возвышения: Начало
+
+Оказывается, есть и такой способ стать сильнее. В два раза быстрее.
+
+### Чувство возвышения: Нарастание
+
+Я стал сильнее, но этого недостаточно, чтобы защитить всех...
+
+### Чувство возвышения: Кульминация
+
+Как много я узнал, и всё благодаря тебе. Хе-хе, я стал увереннее...
+
+### Чувство возвышения: Окончание
+
+До сих пор я постоянно полагался на тебя, и я очень благодарен тебе за помощь. Теперь я чувствую прилив сил и надеюсь, что ты позволишь мне вернуть долг.
+
+### Элементальный навык I
+
+Вперёд, Аэдон!
+
+### Элементальный навык II
+
+Это наш шанс!
+
+### Элементальный навык III
+
+Я рассчитываю на тебя!
+
+### Элементальный навык IV
+
+Цель захвачена.
+
+### Элементальный навык V
+
+Тебе не сбежать.
+
+### Элементальный навык VI
+
+Не упусти этот шанс!
+
+### Взрыв стихии I
+
+Прочь, тьма!
+
+### Взрыв стихии II
+
+Свет покарает тебя!
+
+### Взрыв стихии III
+
+Встречай рассвет!
+
+### Открытие сундука I
+
+Сокровища должны достаться тем, кто в них нуждается.
+
+### Открытие сундука II
+
+Это не ловушка. Я зря беспокоился.
+
+### Открытие сундука III
+
+Раньше не замечал... Нужно усилить патрулирование.
+
+### Низкий уровень HP I
+
+У меня дурное предчувствие...
+
+### Низкий уровень HP II
+
+Похоже, я переоценил себя...
+
+### Низкий уровень HP III
+
+Ещё не поздно позвать подкрепление?
+
+### Низкий уровень HP компаньона I
+
+Не исчезай из моего поля зрения.
+
+### Низкий уровень HP компаньона II
+
+Теперь моя очередь защищать тебя.
+
+### Без сознания I
+
+Если бы я мог... сделать чуть больше...
+
+### Без сознания II
+
+Нужно... доставить информацию...
+
+### Без сознания III
+
+Я не смог... защитить всех...
+
+### Получен лёгкий удар I
+
+Проклятье...
+
+### Получен лёгкий удар II
+
+Стоило отвлечься...
+
+### Получен тяжёлый удар I
+
+Не на моём дежурстве...
+
+### Получен тяжёлый удар II
+
+Держись!
+
+### Присоединяется к группе I
+
+Ратник заступил на службу!
+
+### Присоединяется к группе II
+
+Я освещу путь.
+
+### Присоединяется к группе III
+
+Я не подведу тебя.
+
+## REPLICAS_EN
+
+### Chat: On Guard
+
+They say that the calmer things seem on the surface, the more likely that danger lurks in the shadows... Not sure if that's always true, but it never hurts to stay alert.
+
+### Chat: Night Patrol
+
+You cold? Gotta be careful you don't catch a chill. C'mon, I'll fix you a bowl of hot soup.
+
+### Chat: Adversity
+
+Just doing what you're good at won't cut it, y'know. Sometimes, the only way to grow stronger is to step out of your comfort zone.
+
+### Hello
+
+Hey there! I'm Illuga, leader of the Lightkeepers' investigation squad. Lost your way, huh? Heh, don't worry... that happens a lot. These paths aren't exactly "traveler-friendly," even on the best of days. Just follow my lead — I'll light the way ahead.
+
+### After the Rain
+
+Sun is back! Looks like the light won again.
+
+### When Thunder Strikes
+
+As my old pops always says, "the gods are at it again." Just hope they don't drag the rest of us into it...
+
+### When the Sun Is Out
+
+Finally, some decent weather for a change. If only it were like this more often, us Lightkeepers wouldn't have half as much to worry about.
+
+### When the Wind Is Blowing
+
+Wind's kicking up... That's never a good sign. We'd better make camp before it turns nasty.
+
+### Good Morning
+
+Another dawn... Another night safely behind us.
+
+### Good Afternoon
+
+Now the sun's up, I should probably take the chance to scout out our surroundings. Problem is... I could really use a nap.
+
+### Good Evening
+
+You never know what might be lurking in the shadows of night. If you really have to travel, make sure to stay sharp.
+
+### Good Night
+
+It's getting late. You go ahead and get some rest — I'll keep watch tonight.
+
+### About Illuga: Lightkeepers
+
+Hehe, it took a lot of pestering before my old pops finally let me join the Lightkeepers. I just couldn't bear the idea of staying in Piramida safe and sound while others were out there risking their lives. Like I told him, I'd rather be on the frontlines helping keep the Wild Hunt at bay.
+
+### About Illuga: Squad Leader
+
+Being squad leader essentially means I'm responsible for keeping my comrades alive. Some days I still wonder if I'm really cut out for it... but since they've placed their trust in me, I can't let them down.
+
+### About Us: Duty
+
+It's a Lightkeeper's duty to protect the merchants and travelers who pass through our lands. Does that include adventurers, you ask? Well... technically, it's not part of the job description, but I can tell you this — no one's getting hurt on my watch.
+
+### About Us: Squad Members
+
+Now that you're a member of the investigation squad, I'm responsible for your safety, and a whole squad's worth of "little birds" tell me you've been off adventuring in dangerous places again. Seeing you safe and sound puts my mind at ease, but I'd feel even better if you let me come with you!
+
+### About the Vision
+
+Someone once told me these were no more than pretty gemstones. It wasn't until I held one myself that I understood what it truly meant. I don't think fate gave it to me by accident, but still... the onus is on me to prove I'm worthy.
+
+### Something to Share
+
+If you look north from the highest point in Piramida, you can just about make out the edge of the Snezhnayan tundra. They say that was the homeland of our first Starshyna, Torchforger Solovei. He ended up losing everything, even his home... Yet here, he found a place to belong. Maybe that's why this fortress exists — as a refuge for people like us, a place to find warmth in each other.
+
+### Interesting Things
+
+Around Piramida, you'll run into all sorts of strange creatures brimming with kuuvahki... Mandragoras, Slothsheep, you name it. They might look like animals, but they're actually plants — so don't be fooled by the mimicry. Still, they taste delicious! I could whip something up for you to try if you'd like... How do I know how they taste...? Uhh, let's just say... when you're out in the middle of nowhere on night patrol, a little improvisation goes a long way.
+
+### About Flins: Drop-Ins
+
+When I first met Mr. Flins, I assumed that the reason he lived alone was either because he didn't like being around people, or that he was just a little... eccentric. Turns out that the complete opposite is true — well, at least in terms of his social appetite. Only thing is, every time we talk, he always seems to end his stories on a cliffhanger... Sometimes, I wonder if that's his way of making sure I'll come back to hear the rest.
+
+### About Flins: Secrets
+
+You're saying there's a lot more to Mr. Flins than meets the eye? Hah... Well, that's hardly unusual for a Ratnik. We're all from different walks of life, so who doesn't have a few things they'd rather keep to themselves? Even my old pops rarely talks about his past. As for Mr. Flins... well, I've certainly got to know him a lot better, and after everything that's been going on lately, I've got a rough idea of what he might be hiding. I actually asked about it once, but he neither confirmed nor denied my suspicions. In a way, I guess that's an answer in itself.
+
+### About Lauma
+
+Our friendship with the Frostmoon Scions goes all the way back to the days of the Torchforger himself. Truth is, though, even if it didn't, I'd still have nothing but admiration for the current Moonchanter. She's kind, gentle, and I end up learning something new every time I visit. In times like these, her job can't be any easier than ours — yet somehow, she always manages to stay so serene. I'd bet that she's been shouldering a lot more than she lets on.
+
+### About Varka
+
+I've fought side-by-side with Mr. Varka against the Wild Hunt, and I can tell you this — his fighting skills are up there with the best of them. I've heard that the Knights of Favonius were founded to defend their homeland, just like us Lightkeepers. I hope that someday, once we've finally driven the Wild Hunt from Nod-Krai, we'll be able to travel beyond these lands and fight for those living in hardship elsewhere as well.
+
+### About Nefer
+
+Our operations in Nasha Town have become way smoother in recent times, and it's mostly thanks to the Curatorium of Secrets. It sure wasn't like this before, I'll tell you that. Before Miss Nefer arrived on the scene, it was like we were locked in a constant battle with the town's gangs, and it used to worry my old pops sick. Things have improved immensely since then, though. That said, Miss Nefer seems to love teasing me just as much as Mr. Flins does... and I have to admit, that can be a bit of a headache sometimes.
+
+### About Aino
+
+Whenever the Lightkeepers need help fixing complex machinery, we tend to ask for Miss Aino's assistance. She really seems determined to teach us how to do it ourselves, though. Ever since she caught me trying to repair something on my own, she's been constantly insisting that I attend her classes... How exactly was I trying to fix it, you ask? Hah, well, if you must know, it was a trick I learned from my old pops. As he likes to put it, "if something's not working, just whack it a few times!" To my shock, that set her off something fierce...
+
+### About Linnea
+
+Even in a place as diverse as Nod-Krai, Fae ladies like Miss Linnea are few and far between. I originally figured she'd be the quiet, graceful type, but it turns out that was WAY off. For instance, the first time she saw Aedon, she got so excited that she practically pounced on him. It spooked him so bad that now, the second he hears her voice, he bolts for my lamp. And remember, this is Aedon we're talking about here — a messenger bird who's usually so "unflappable" that he wouldn't flinch for anything, not even the Wild Hunt...
+
+### About the Moon Goddess
+
+Nod-Krai is an "elysium" built by human hands, a dream kept alive over the centuries by the blood and sacrifice of countless generations of Lightkeepers. There might be a new deity in town, but I don't think our way of life will suddenly change because of that. It's not that I doubt the Moon Goddess herself — far from it. I just believe that... rather than waiting for someone else to save us, we'd do better to rely on our own strength.
+
+### More About Illuga: I
+
+You want to know about my past? Hmm, let me think... Nope, I don't think there's anything in there that would put a smile on your face. You... sure you wanna hear it?
+
+### More About Illuga: II
+
+Meet Aedon, my messenger bird — the trusty little guy who comes with me whenever I head out on night patrol. Honestly, I couldn't ask for a better companion. Not only does he alert me to danger, he even lights the way ahead... Huh? You mean, despite all that traveling, even you've never seen a bird that glows like this before? Hold up... Could he... actually be more than just a regular messenger bird?
+
+### More About Illuga: III
+
+You've probably noticed that my Oath Lantern is a bit different from the standard-issue ones that everyone else carries. It's not because I'm a squad leader or anything like that — it's just the signal lamp I used back when I served in the logistics squad. Later, when our equipment was upgraded, this became the last of its kind. I guess you could say I've grown kinda attached to it. The idea of replacing it... doesn't quite feel right.
+
+### More About Illuga: IV
+
+You know how I call Nikita "my old pops"? Well, it probably wouldn't surprise you to hear that the others all call him "old man" too. Despite that, though, I don't actually think he's aged much at all. He still remembers the positions of every lighthouse and who's stationed there even better than I do, and no matter how hard I try, I can never hide a thing from him. But that's exactly why I can't help but wonder — what will happen someday when the years finally catch up to him?
+
+### More About Illuga: V
+
+Whenever the Wild Hunt comes forth, the wails of the dead follow in its wake... and every time I hear those cries, I feel like I'm back on that battlefield, reliving the day that my old pops took me in. Perhaps as long as the Wild Hunt still roams this land, the nightmares that haunt me will never truly fade.
+
+### Illuga's Hobbies
+
+Now you mention it, I guess I spend most of my downtime with my squadmates too. Lately, we've all been hooked on this new game called "Tabletop Troupe." We're still short a couple of players, though... So how about it? Wanna join us?
+
+### Illuga's Troubles
+
+The thought of innocent people dying in sudden, meaningless calamities is something I can never accept. I just wish that no one else ever has to go through something like that again... That's all I've ever worked for.
+
+### Favorite Food
+
+To be honest, I don't really have any strong preferences when it comes to food. The way I see it, as long as we can all gather around the fire and share a warm meal, whatever's on the table tastes like the finest cuisine there is.
+
+### Least Favorite Food
+
+As long as it's hot, I'm fine with just about anything. Cold food, though... Yeah, not so much. Imagine — you're out on night watch in the dead of winter, and you're handed a bowl of stone cold gruel. The mere thought of it makes me wanna say something I really shouldn't...
+
+### Receiving a Gift: I
+
+Wow, now that's what I call flavor... Seriously, what's the secret ingredient? I wanna learn how to make this myself!
+
+### Receiving a Gift: II
+
+Not bad! Heh, wait till my comrades get a taste of this!
+
+### Receiving a Gift: III
+
+Ahem... Hey, I can teach you a few other dishes, if you'd like!
+
+### Birthday
+
+Happy birthday, squadmate! Forget about commissions and adventures — days like this are reserved for close friends, full bellies, and catching up on sleep! I'll be standing watch, so you just focus on letting your hair down. And on the off-chance we get gate-crashers, I'll scare 'em off with my trusty lamp.
+
+### Feelings About Ascension: Intro
+
+Huh, if only I'd known about this sooner. Now that's what I call a game-changer.
+
+### Feelings About Ascension: Building Up
+
+I'm certainly feeling stronger... but I can tell I've still got a long way to go.
+
+### Feelings About Ascension: Climax
+
+Can't believe how much I've learned, and it's all thanks to you. Heh, I might finally be starting to believe in myself...
+
+### Feelings About Ascension: Conclusion
+
+I've relied on you so much up till now, and I really appreciate your help. Now that I'm feeling up to it, I hope you'll let me return the favor... once in a while, at least.
+
+### Elemental Skill: I
+
+Go get 'em, Aedon!
+
+### Elemental Skill: II
+
+While the light shines bright!
+
+### Elemental Skill: III
+
+You got this!
+
+### Elemental Skill: IV
+
+Target acquired.
+
+### Elemental Skill: V
+
+You're in my sights.
+
+### Elemental Skill: VI
+
+Press the advantage!
+
+### Elemental Burst: I
+
+Begone, shadow of darkness!
+
+### Elemental Burst: II
+
+The light compels you!
+
+### Elemental Burst: III
+
+Behold the dawn!
+
+### Opening Treasure Chest: I
+
+This should go to those that need it.
+
+### Opening Treasure Chest: II
+
+So it wasn't a trap, after all.
+
+### Opening Treasure Chest: III
+
+Huh, how'd this slip through the net...
+
+### Low HP: I
+
+This looks bad...
+
+### Low HP: II
+
+Guess I got cocky...
+
+### Low HP: III
+
+Is it... too late to call for backup?
+
+### Ally at Low HP: I
+
+Stay behind me!
+
+### Ally at Low HP: II
+
+My turn!
+
+### Fallen: I
+
+I could've... done more...
+
+### Fallen: II
+
+Just... make sure the intel gets back.
+
+### Fallen: III
+
+I couldn't... keep you all safe...
+
+### Light Hit Taken: I
+
+Argh...
+
+### Light Hit Taken: II
+
+I got careless...
+
+### Heavy Hit Taken: I
+
+Not on my watch...
+
+### Heavy Hit Taken: II
+
+Gotta hold fast!
+
+### Joining Party: I
+
+Ratnik reporting for duty!
+
+### Joining Party: II
+
+I'll light the path ahead.
+
+### Joining Party: III
+
+I won't let you down.
+
+## REPLICAS_ZH
+
+### 闲聊·警惕
+
+越是平静的地方，就越有可能隐藏着危险…我也不知道这话对不对，但警惕点总没错。
+
+### 闲聊·巡夜
+
+你是不是觉得冷？巡夜的时候很容易受凉，我煮碗暖汤给你喝吧。
+
+### 闲聊·困难
+
+只做擅长的事情可不行，只有强迫自己去做困难的事，才能在挣扎中变强嘛。
+
+### 初次见面…
+
+你好呀，我是叶洛亚，执灯人调查分队的队长。请问是遇上什么麻烦了吗？这也是常有的事，附近的路的确不太好走。不过别担心，跟我来吧，我会帮你照亮前方的路。
+
+### 雨过天晴…
+
+太阳出来了，看来这次是光明的一方打赢了。
+
+### 打雷的时候…
+
+老爹说这是天上的神明们在交战，我只希望他们不要殃及无辜。
+
+### 阳光很好…
+
+难得的好天气啊。要是能一直这么好，我们执灯士的工作也会轻松很多吧。
+
+### 刮大风了…
+
+起风了，总感觉会有不好的事情发生…要不我们还是去附近的营地躲躲吧？
+
+### 早上好…
+
+夜晚过去了，看来我们又度过了平安的一天。
+
+### 中午好…
+
+阳光正好，应该趁这个时候观察一下周围有没有什么隐患…唔，不过好像有点困了…
+
+### 晚上好…
+
+天黑之后说不定会有魔物出没。走夜路的话，请一定要小心谨慎。
+
+### 晚安…
+
+嗯，时候不早了，你先休息吧。放心，今晚我会替你守夜的。
+
+### 关于叶洛亚自己·执灯人
+
+加入执灯人的事，是我求了老爷子好几次才说服他同意的。比起一直待在皮拉米达城被前辈们保护，我更想要去到战场的最前方，和大家一起成为阻挡狂猎前进的力量。
+
+### 关于叶洛亚自己·分队长
+
+成为分队长意味着要肩负起同僚的性命，虽然我还是时常怀疑自己是否有这样的资格…但是既然大家都选择了相信我，那我也不可以辜负大家的信任，对吧？
+
+### 关于我们·职责
+
+为往来的商旅提供保护，是我们执灯人的职责…你问保护对象包不包括冒险家？嗯…虽然理论上这确实超出了我的责任范围，但我可不能允许任何人在我负责巡察的区域里受到伤害。
+
+### 关于我们·队员
+
+现在你已经算是我们调查分队的队员了，这就意味着，我必须为你的生命安全负责…听他们说你最近又去了危险的地方冒险，现在看到你平安无事，我稍微安心了一点…所以说，下次要不还是让我跟你一起去吧？
+
+### 关于「神之眼」…
+
+曾经有人告诉我这只是枚好看的宝石，直到终于有机会将它掂在手里，我才明白其中承载的重量。我想，命运把它交到我的手上并非偶然，我得努力配得上它。
+
+### 有什么想要分享…
+
+从皮拉米达城的最高处向北眺望，可以看到至冬雪原的一角。据说那里就是我们的初代执灯长，铸灯者索洛维的家乡。失去一切而无法回到家园的人，最后在这里找到了归宿…说不定，这座城堡从一开始就是为了让我们这样的人抱团取暖而存在的。
+
+### 感兴趣的见闻…
+
+皮拉米达城附近有许多散发着月矩力的奇妙生物，像是曼陀草、獭懒羊…可不要被它们的表象所欺骗，虽然看上去像是你们见过的动物，但它们其实是拟态成动物模样的植物…不过实话说，它们的味道还不错。不介意的话，下次可以做一份给你尝尝。嗯？你问我为什么会知道这个？巡夜的时候总会有许多不得已的情况嘛…
+
+### 关于菲林斯·拜访…
+
+刚认识菲林斯先生的时候，还以为他是不善交际或者性格乖僻才选择离群索居的呢，但没过多久，我就发现事情与我想的恰恰相反…不过每次我们聊天，他总是在故事最后加入些吊胃口的情节，我在想，这是不是因为…他其实欢迎我多去拜访呢？
+
+### 关于菲林斯·秘密…
+
+你是说菲林斯先生身上藏着许多秘密？当然，这在执灯士当中并不稀奇。我的同僚们出身各不相同，谁能没有几个不想告诉别人的秘密呢？就连老爹也很少向我提及他年轻时的往事。至于菲林斯先生嘛…最近发生了那么多事，好歹也是朋友，他的秘密我多少能猜到一点点。我试着求证过，他既没有否认，也没有承认，可能那也是一种表态。
+
+### 关于菈乌玛…
+
+自铸灯者的时代开始，我们与霜月之子就保持着传统的友谊。这一代的咏月使是位温柔又和善的小姐，每次拜访我都能从她那里学到很多。以如今这个世道，当咏月使不会比做执灯人轻松。她能始终保持这种态度，想必也承受了许多吧。
+
+### 关于法尔伽…
+
+法尔伽先生是位了不起的战士，我们曾并肩对抗过狂猎。听说西风骑士团也和我们执灯人一样，是为了守护家园而建立的组织。或许有一天，等挪德卡莱的狂猎都被消灭干净了，我们也能远赴异域，为更多生活在苦难中的人们而战。
+
+### 关于奈芙尔…
+
+多亏了秘闻馆的关照，我们在那夏镇的行动才会如此方便，以前可不是这样的。据说在奈芙尔小姐来到挪德卡莱之前，执灯士们和那些不守规矩的帮派分子经常发生冲突，老爷子还一度为此苦恼…现在真是好多了呢。不过，奈芙尔小姐也和菲林斯先生一样爱拿我寻开心，也让我有些苦恼就是了。
+
+### 关于爱诺…
+
+我们执灯人维修复杂机关，一般都会请爱诺小姐来帮忙，不过她看起来好像是真的想教会我们…自从有一次，我被她看到在自己修理机关之后，她就大吵着怎么说也要拉我去上课…嗯？你问我是怎么修的？那我当然是跟老爹学的，机关不灵，只要用力敲两下就好了，谁知道她会这么生气…
+
+### 关于莉奈娅…
+
+像莉奈娅这样的妖精小姐，即便在鱼龙混杂的挪德卡莱也很少见。在认识之前，我原本以为她会是更加沉稳的类型。没想到第一次见面，她看到阿咚之后直接两眼放光地扑了上来…阿咚可是面对狂猎都从不退缩的信鸟，但现在每次只要一听到她的声音，就会马上躲进灯里不肯出来…
+
+### 关于「月神」…
+
+挪德卡莱是「人」的乐园，这条道路是由数百年来无数执灯士的血与骨所铺就的。就算如今迎来了一位新的神明，属于挪德卡莱的生存方式也不会因此而改变吧。不是不相信那位「月神」小姐…只是我觉得，比起等待别人来拯救，还是拥有能主动保护身边人的力量更安心。
+
+### 想要了解叶洛亚·其一
+
+想要了解我的过去？嗯…让我想想…好像没有那种说出来能让人开心的部分啊，你真的想听吗？
+
+### 想要了解叶洛亚·其二
+
+阿咚是我的信鸟，每次出门巡夜的时候我都会带上它。它不仅会提醒我周围的危险，还能帮我照亮前方的路，是非常可靠的伙伴…嗯？你是说你走过这么多国家也从没见过这种会发光的鸟？等等…该不会它真的不是普通的信鸟吧…
+
+### 想要了解叶洛亚·其三
+
+如你所见，我的誓言之灯与大家的制式并不相同。这可不是因为我是分队长就有什么特殊，它是我在后勤分队的时候所用的信号灯。后来执灯人的装备更新换代，就只剩下了我手上这最后一盏…我大概是习惯了吧，每次想到要换掉它就觉得很难受。
+
+### 想要了解叶洛亚·其四
+
+我的老爹尼基塔，同僚们都叫他老爷子。说是这么说，我可一点没觉得他老。各地灯塔的部署情况，他比我记得还清楚，我的事情也从来瞒不过他。不过越是这样我就越忍不住想，要是有一天他真的老了该怎么办呢？
+
+### 想要了解叶洛亚·其五
+
+狂猎到来时，我总能听到狂风中夹杂着逝者的哀鸣。每到这个时候，就仿佛又回到了那个地狱般的战场，回到了被老爹捡回来的那一天。或许只要狂猎还没被彻底消灭，缠绕着我的梦魇就不会离去。
+
+### 叶洛亚的爱好…
+
+你这样一说，我的闲暇时间好像也都和同僚们待在一起…最近执灯士中很流行一种叫作「桌上剧团」的游戏，我们还没凑够一起玩的人，你要不要也来参加？
+
+### 叶洛亚的烦恼…
+
+无辜之人因为突如其来的灾难而莫名其妙地丢掉性命，这种事情我无法原谅。我所做的一切努力，都是为了让这样的事不再发生在其他人身上。
+
+### 喜欢的食物…
+
+食物嘛…我倒是没什么特别的偏好。在我看来，只要能和大家一起围着炉火，热热闹闹地吃上一顿，无论煮的是什么，那都是最好的美食。
+
+### 讨厌的食物…
+
+只要是热乎乎的食物都没问题，凉的最好不要…你想想啊，要是等到了冬天，大晚上值夜的时候吃到的饭菜还是凉的，想想都忍不住要说难听的话了…
+
+### 收到赠礼·其一
+
+令人惊艳的味道，能告诉我调味的秘方吗？我也想学学看。
+
+### 收到赠礼·其二
+
+不错啊，真想让同僚们也尝尝。
+
+### 收到赠礼·其三
+
+嗯…要不还是让我再多教你几道料理吧。
+
+### 生日…
+
+生日快乐，亲爱的队员。今天就别管什么委托了，也暂且忘掉那些冒险吧。这么重要的日子，就应该一整天都跟朋友们待在一起，吃饱喝足然后睡个好觉，你说对不对？放心，我会替你守着的。要是有什么烦人的家伙敢来打扰你，我就用我手上的这盏灯把他们都赶走。
+
+### 突破的感受·起
+
+原来还有这种变强的方法，事半功倍了啊。
+
+### 突破的感受·承
+
+力量有所提升，但要用来保护大家还远远不够…
+
+### 突破的感受·转
+
+多谢你教我，这段时间我学到了很多，对自己稍微有些信心了。
+
+### 突破的感受·合
+
+真是惭愧，一直在麻烦你。不过现在我已经变得足够强大了，所以接下来希望你也能多依赖我一点。
+
+### 元素战技·其一
+
+去吧，阿咚！
+
+### 元素战技·其二
+
+趁现在！
+
+### 元素战技·其三
+
+交给你了！
+
+### 元素战技·其四
+
+瞄准好了。
+
+### 元素战技·其五
+
+你跑不掉的。
+
+### 元素战技·其六
+
+机不可失。
+
+### 元素爆发·其一
+
+我的灯下没有阴霾！
+
+### 元素爆发·其二
+
+接受明光的制裁吧！
+
+### 元素爆发·其三
+
+迎接黎明的曙光！
+
+### 打开宝箱·其一
+
+宝藏应该交给需要它们的人。
+
+### 打开宝箱·其二
+
+居然不是陷阱，看来是我多虑了。
+
+### 打开宝箱·其三
+
+之前没注意到啊…得加强巡察了。
+
+### 生命值低·其一
+
+有种不祥的预感…
+
+### 生命值低·其二
+
+我还是高估自己的实力了啊…
+
+### 生命值低·其三
+
+现在叫增援还来得及吗？
+
+### 同伴生命值低·其一
+
+别离开我的视野。
+
+### 同伴生命值低·其二
+
+该轮到我来保护你了。
+
+### 倒下·其一
+
+要是能再努力一点的话…
+
+### 倒下·其二
+
+至少要将情报带回去…
+
+### 倒下·其三
+
+还是，没能保护大家…
+
+### 普通受击·其一
+
+可恶…
+
+### 普通受击·其二
+
+大意了。
+
+### 重受击·其一
+
+还能忍受。
+
+### 重受击·其二
+
+再坚持下。
+
+### 加入队伍·其一
+
+明白了，这也是执灯士的职责。
+
+### 加入队伍·其二
+
+让我来替你掌灯吧。
+
+### 加入队伍·其三
+
+我会努力不让你失望的。

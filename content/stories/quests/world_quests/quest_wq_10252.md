@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 70092
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10252
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 70092
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 120
 
 ## RU
 
@@ -42,7 +45,7 @@
 
 **Паймон:** Прюн всегда была настроена враждебно по отношению к Алисе. Провокация может вывести её из себя...
 
-Очевидно, что Алиса делает это нарочно.
+- **Путешественник:** Очевидно, что Алиса делает это нарочно.
 
 **Паймон:** Нужно рассказать об этом Прюн, но поделикатнее.
 
@@ -78,9 +81,15 @@
 
 **Паймон:** Успокойся, Прюн! Не ломай его...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Остановись, Прюн...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Вокруг полно фонографов!
+
+##### Общее продолжение
 
 **Прюн:** А... А... Алиса!
 
@@ -104,6 +113,8 @@
 
 #### Отправляйтесь в магически созданное пространство
 
+#### Отправляйтесь в магически созданное пространство
+
 **Алиса:** Добро пожаловать в самое драматичное место Тейвата - оперный театр «Эпиклез»... Точнее, в его волшебную копию!
 
 **Алиса:** Твоя задача - выиграть дебаты. Вот зачем было создано это магическое пространство. Неплохо, да? Не говори, что зрелищность тебя не впечатляет!
@@ -114,19 +125,31 @@
 
 **Алиса:** Я знаю, как ты любишь спорить, поэтому подготовила прекрасный тезис, который даже ты не сможешь опровергнуть!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Прошу прощения, что прерываю...
+
+##### Вариант ответа 2
 
 - **Путешественник:** А что я вообще здесь делаю?
 
+##### Общее продолжение
+
 **Алиса:** Оживлённым дебатам не обойтись без справедливого и беспристрастного судьи. Уверена, все согласятся, что ты лучший кандидат на эту роль.
 
-Тогда... что Паймон здесь делает?
+- **Путешественник:** Тогда... что Паймон здесь делает?
 
 **Прюн:** Я ждала подходящего момента, чтобы сказать, что Паймон с места для почётных гостей уже довольно долго держит внушительную позу...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Знакомая фраза...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Не только фраза, но и ситуация!
+
+##### Общее продолжение
 
 **Паймон:** Хе-хе... Раз уж мы телепортировались сюда, Паймон решила, что нам стоит последовать примеру нашей подруги. Она ведь настоящая суперзвезда Фонтейна!
 
@@ -146,9 +169,9 @@
 
 **Алиса:** ...Кли - плохая девочка!
 
-**Паймон:** А?
+**Паймон и Прюн:** А?
 
-А?
+- **Путешественник:** А?
 
 **Алиса:** Это тезис, который тебе нужно опровергнуть. Если сможешь доказать, что Кли не плохая девочка, я подарю тебе небольшой подарок.
 
@@ -182,7 +205,7 @@
 
 **Прюн:** Если уж на кого и вешать ярлык плохого ребёнка, так это на тебя! Нет, плохого взрослого! Хотя какой из тебя взрослый, если ты такая инфантильная? Плохой большой ребёнок! Вот ты кто!
 
-Ситуация перевернулась!
+- **Путешественник:** Ситуация перевернулась!
 
 **Паймон:** Впечатляюще... Весомый аргумент! И как теперь ответит Алиса?
 
@@ -194,7 +217,7 @@
 
 **Прюн:** В глазах окружающих Кли очень милая, поэтому её все прощают!
 
-Точно!
+- **Путешественник:** Точно!
 
 **Паймон:** Точно! Кли очень милая. Ну и что, что она делает ошибки? В глазах Паймон она не может быть плохой!
 
@@ -222,9 +245,9 @@
 
 **Алиса:** Быстро соображаешь! Давайте сразу перейдём к объявлению результатов. Уважаемый судья, прошу вас...
 
-Кхе-кхе... Ведьмочка Прюн успешно прошла ведьминское испытание! И теперь получает ведьминское благословение...
+- **Путешественник:** Кхе-кхе... Ведьмочка Прюн успешно прошла ведьминское испытание! И теперь получает ведьминское благословение...
 
-«Желаю тебе, как и Кли, быть здоровой, хорошо кушать, меньше переживать и быть счастливым ребёнком».
+- **Путешественник:** «Желаю тебе, как и Кли, быть здоровой, хорошо кушать, меньше переживать и быть счастливым ребёнком».
 
 **Алиса:** Вы с Кли - хорошие дети. Вам позволено время от времени ошибаться и капризничать.
 
@@ -258,7 +281,7 @@ Inside the witch's dictionary, you discover a rather infantile "declaration of w
 
 **Paimon:** Prune isn't exactly Alice's biggest fan... Paimon can see her really blowing her top over a challenge like this...
 
-Alice clearly knows what she's doing.
+- **Traveler:** Alice clearly knows what she's doing.
 
 **Paimon:** Should we try to... tone things down a bit when we tell Prune?
 
@@ -294,9 +317,15 @@ Alice clearly knows what she's doing.
 
 **Paimon:** Calm down, Prune! There's no need for violence...
 
+##### Response branch 1
+
 - **Traveler:** Pull it together, Prune...
 
+##### Response branch 2
+
 - **Traveler:** We're surrounded by phonographs...
+
+##### Shared continuation
 
 **Prune:** A... A... ALICE!
 
@@ -320,6 +349,8 @@ Alice clearly knows what she's doing.
 
 #### Go to the magical simulated space
 
+#### Go to the magical simulated space
+
 **Alice:** Welcome to the pinnacle of the dramatic arts in all of Teyvat — the Opera Epiclese... or rather, a magical facsimile of it!
 
 **Alice:** Your challenge is to win a debate, which is exactly why this magical space was created. Not bad, huh? Go on, try telling me the sense of spectacle isn't overwhelming you!
@@ -330,19 +361,31 @@ Alice clearly knows what she's doing.
 
 **Alice:** I know how much you like to argue, so I've prepared a wonderful topic that even you won't be able to refute!
 
+##### Response branch 1
+
 - **Traveler:** I'm sorry to interrupt...
+
+##### Response branch 2
 
 - **Traveler:** Am I supposed to be here?
 
+##### Shared continuation
+
 **Alice:** A spirited debate requires a fair and impartial judge. Naturally, you were the only candidate worth considering, and I'm sure everyone else here agrees.
 
-Then... is Paimon supposed to be up there?
+- **Traveler:** Then... is Paimon supposed to be up there?
 
 **Prune:** Actually, I've been wanting to say this for ages. Paimon's been sitting up there in the VIP seats striking a pose for quite a while now...
 
+##### Response branch 1
+
 - **Traveler:** That line sounds oddly familiar...
 
+##### Response branch 2
+
 - **Traveler:** Now I think about it, so is this entire scene!
+
+##### Shared continuation
 
 **Paimon:** Hehe... Seeing as we teleported right here, I figured we should imitate our friend. She's quite the superstar in Fontaine, y'know!
 
@@ -362,9 +405,9 @@ Then... is Paimon supposed to be up there?
 
 **Alice:** ...Klee Is a Bad Kid!
 
-**Paimon:** Huh?
+**Paimon & Prune:** Huh?
 
-Huh?
+- **Traveler:** Huh?
 
 **Alice:** This is the topic for you to refute. If you can convince our judge that "Klee is not a bad kid," you'll earn yourself a gift.
 
@@ -398,7 +441,7 @@ Huh?
 
 **Prune:** At the end of the day, there's only one person here who deserves the title of "Bad Kid"! No, wait... "Bad Adult"! Hmm... But then what adult is so immature? ...I know, "Bad Kid-ult"!
 
-That's what I call a comeback!
+- **Traveler:** That's what I call a comeback!
 
 **Paimon:** Oh, very compelling... A truly forceful argument! How's Alice going to respond?
 
@@ -410,7 +453,7 @@ That's what I call a comeback!
 
 **Prune:** "In other people's eyes," Klee is cute, so they will always forgive her actions!
 
-Hear, hear!
+- **Traveler:** Hear, hear!
 
 **Paimon:** Exactly! Klee is so cute, who cares if she makes a few itsy-bitsy mistakes? In Paimon's eyes, she couldn't possibly be bad!
 
@@ -438,9 +481,9 @@ Hear, hear!
 
 **Alice:** You catch on quick! Seeing as you already know the deal, let's jump straight to announcing the results. Esteemed judge, if you will...
 
-Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch's Blessing"...
+- **Traveler:** Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch's Blessing"...
 
-"May you be as happy, healthy, well-fed, and worry-free as Klee herself."
+- **Traveler:** "May you be as happy, healthy, well-fed, and worry-free as Klee herself."
 
 **Alice:** When it comes down to it, you and Klee are both good kids. You're allowed to make mistakes from time to time, or even throw cutey-wutey little tantrums, hehe.
 
@@ -474,7 +517,7 @@ Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch
 
 **派蒙:** 布伦妮一直对艾莉丝敌意很大，收到这种挑衅会不会被激怒呀…
 
-很明显，艾莉丝是故意的。
+- **旅行者:** 很明显，艾莉丝是故意的。
 
 **派蒙:** 我们要不要换个委婉点的方式告诉布伦妮？
 
@@ -510,9 +553,15 @@ Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch
 
 **派蒙:** 冷静一下布伦妮！先不要砸了…
 
+##### 对话分支 1
+
 - **旅行者:** 收手吧，布伦妮…
 
+##### 对话分支 2
+
 - **旅行者:** 周围全是留声机！
+
+##### 共同后续
 
 **布伦妮:** 啊…艾——莉——丝！
 
@@ -536,6 +585,8 @@ Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch
 
 #### 前往魔法拟造空间
 
+#### 前往魔法拟造空间
+
 **艾莉丝:** 欢迎来到提瓦特最具戏剧张力的地方——欧庇克莱歌剧院…的魔法拟造空间！
 
 **艾莉丝:** 这次的课题是「辩论」，为此我专门打造了这样的魔法空间。还不错吧？诚意多多仪式感满满。
@@ -546,19 +597,31 @@ Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch
 
 **艾莉丝:** 考虑到你是反驳型人格…所以这次我准备了一个你无法反驳的绝妙论题！
 
+##### 对话分支 1
+
 - **旅行者:** 不好意思打扰一下…
+
+##### 对话分支 2
 
 - **旅行者:** 我在这个位置合适吗？
 
+##### 共同后续
+
 **艾莉丝:** 一场精彩绝伦的辩论少不了一位公平公正的评委，我们几个中你是最佳的人选，我想没有人会反对。
 
-那…派蒙在那个位置合适吗？
+- **旅行者:** 那…派蒙在那个位置合适吗？
 
 **布伦妮:** 其实我早就想说了，派蒙那家伙已经在高处的贵宾席位上摆了很久的姿势了…
 
+##### 对话分支 1
+
 - **旅行者:** 这句话似曾相识…
 
+##### 对话分支 2
+
 - **旅行者:** 这个场面也是！
+
+##### 共同后续
 
 **派蒙:** 嘻嘻…居然被传送到这个位置上，我就突发奇想模仿一下我们的朋友，她可是枫丹的大明星噢！
 
@@ -578,9 +641,9 @@ Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch
 
 **艾莉丝:** 可莉是个坏孩子！
 
-**派蒙:** 欸？
+**派蒙＆布伦妮:** 欸？
 
-欸？
+- **旅行者:** 欸？
 
 **艾莉丝:** 这就是你要反驳的辩题。如果你能证明「可莉不是坏孩子」，我就送你一份小礼物。
 
@@ -614,7 +677,7 @@ Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch
 
 **布伦妮:** 归根到底，你才是那个最该被扣上坏孩子帽子的人！不对，坏大人！也不对，哪有这么幼稚的大人，坏大孩！
 
-形势反转了！
+- **旅行者:** 形势反转了！
 
 **派蒙:** 听上去好有气势…是很漂亮的一击！对方辩手又该如何应对呢？
 
@@ -626,7 +689,7 @@ Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch
 
 **布伦妮:** 因为可莉很可爱，所以大家都会原谅她。
 
-对！
+- **旅行者:** 对！
 
 **派蒙:** 没错！可莉这么可爱，犯点小错怎么了，反正她在我眼里不是坏孩子！
 
@@ -654,9 +717,9 @@ Ahem. "Little Prune's Witch Challenge: Passed! Please accept the following Witch
 
 **艾莉丝:** 真聪明。那就快进到宣布挑战结果的环节吧。有请评委老师——
 
-咳咳，「布伦妮小朋友的魔女挑战课题，合格！现送出魔女的祝福」…
+- **旅行者:** 咳咳，「布伦妮小朋友的魔女挑战课题，合格！现送出魔女的祝福」…
 
-「祝你和可莉一样，身体好好吃饭饱饱烦恼少少，当个快乐的小孩」。
+- **旅行者:** 「祝你和可莉一样，身体好好吃饭饱饱烦恼少少，当个快乐的小孩」。
 
 **艾莉丝:** 你和可莉都是好孩子，即便偶尔犯错或闹脾气，也是可以被允许的哦。
 

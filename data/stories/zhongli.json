@@ -144,5 +144,1086 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Новый контракт? Что ж, хорошо... Хотя я всё ещё в отпуске, я могу составить тебе компанию один раз. Каким именем мне подписать наше соглашение? У меня много имён... Отпуск я провожу под именем «Чжун Ли». А каким именем подпишешь контракт ты, путешественник? / Новый контракт? Что ж, хорошо... Хотя я всё ещё в отпуске, я могу составить тебе компанию один раз. Каким именем мне подписать наше соглашение? У меня много имён... Отпуск я провожу под именем «Чжун Ли». А каким именем подпишешь контракт ты, путешественница?",
+        "en": "A new contract? Okay. I'm still on leave, but I can accompany you for a while. What name should I use on the contract? I have a great many names, though when on leave I tend to go by Zhongli. And you, Traveler? What name will you be signing on this contract?",
+        "zh": "一份新的「契约」？好吧…虽然我还在度假，但也可以陪你走一趟。契约书上，该签什么名字呢？我有许多名字，度假期间的话…我会自称「钟离」。你呢，旅行者？你会签下什么名字？"
+      },
+      "source_id": 17100
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Путешествия",
+        "en": "Chat: Journeys",
+        "zh": "闲聊·旅程"
+      },
+      "text": {
+        "ru": "Все пути однажды приведут к концу. Не стоит торопиться.",
+        "en": "Every journey has its final day. Don't rush.",
+        "zh": "旅程总有一天会迎来终点，不必匆忙。"
+      },
+      "source_id": 17101
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Туры",
+        "en": "Chat: Tours",
+        "zh": "闲聊·游览"
+      },
+      "text": {
+        "ru": "Куда направимся? Если хочешь посмотреть на достопримечательности Ли Юэ, то у меня есть несколько неплохих вариантов.",
+        "en": "Where do you want to go next? If you'd like to see Liyue's tourist spots, I have a few references.",
+        "zh": "接下来想去哪里？如果想游历璃月名胜的话，我有一些不错的参考方案。"
+      },
+      "source_id": 17102
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Ли Юэ",
+        "en": "Chat: Liyue",
+        "zh": "闲聊·璃月"
+      },
+      "text": {
+        "ru": "Корабли созданы, чтобы перевозить товары по морям. Они с удовольствием бросают якорь в гавани Ли Юэ. Поэтому здесь оседают богатства.",
+        "en": "Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle.",
+        "zh": "为「流通」而造的船，遇到港口也会停泊，所以璃月是一切财富「沉淀」的地方。"
+      },
+      "source_id": 17103
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Поболтаем: Воспоминания",
+        "en": "Chat: Reminiscing",
+        "zh": "闲聊·怀旧"
+      },
+      "text": {
+        "ru": "Вкус вина из османтуса не изменился... Но где же те, кто разделит воспоминания?",
+        "en": "Osmanthus wine tastes the same as I remember... But where are those who share the memory?",
+        "zh": "欲买桂花同载酒…只可惜故人，何日再见呢？"
+      },
+      "source_id": 17104
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Стеклянные колокольчики предпочитают сырую погоду, их лучше всего собирать после дождя. Если встретишь эти цветы, собери несколько впрок.",
+        "en": "Violetgrass is a plant that enjoys a moist environment and is best picked after it rains. If you should choose to pick any, be sure to store them appropriately.",
+        "zh": "「琉璃袋」这种植物，它偏爱潮湿的环境，最适合雨后采摘。如果发现的话，适当储备些吧。"
+      },
+      "source_id": 17105
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Давай найдём место, где можно спрятаться от снега. Мне всё равно, но вот ты можешь простудиться.",
+        "en": "We should look for a place to take shelter. I'll be fine, but we don't want you catching a cold.",
+        "zh": "找个地方避避雪吧。我不会有事，但你可能着凉。"
+      },
+      "source_id": 17106
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Хм... Не лучшая погода для отпуска. Пойдём в театр, послушаем оперу.",
+        "en": "This weather is no good for being on vacation. We should go and take in an opera.",
+        "zh": "嗯…不适合度假的天气。去听听戏吧。"
+      },
+      "source_id": 17107
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Надеюсь, экономическая ситуация сегодня будет благоприятна.",
+        "en": "I hope today too shall be prosperous.",
+        "zh": "希望今日也有好景气。"
+      },
+      "source_id": 17108
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Хочешь поесть, чтобы взбодриться? Хм. На горе Тигра есть неплохой ресторан...",
+        "en": "Want a quick meal to pick us back up? I know a good place in Chihu Rock.",
+        "zh": "想要吃点提神的？嗯，吃虎岩倒是有爿不错的店…"
+      },
+      "source_id": 17109
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Хотя к этому времени постановки госпожи Юнь уже заканчиваются, в ночном Ли Юэ есть много других мест, стоящих того, чтобы их посетить.",
+        "en": "By this time of night, we will have already missed Ms. Yun's play, but Liyue is full of interesting places to explore, even at night.",
+        "zh": "虽然这种时候已经错过了云先生的戏，但夜晚的璃月仍有许多好去处。"
+      },
+      "source_id": 17110
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Рынок закрыт, спит причал крепким сном. Иди и ты отдохни.",
+        "en": "The market is closed and the port has settled. Go get some rest.",
+        "zh": "集市已收，喧闹的码头也已沉睡。去休息吧。"
+      },
+      "source_id": 17111
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Чжун Ли...",
+        "en": "About Zhongli",
+        "zh": "关于钟离自己…"
+      },
+      "text": {
+        "ru": "Нет жизни без правил. Будь то Адепт или простой смертный, каждый должен выполнять свою работу. Вот почему в Ли Юэ царит спокойствие.",
+        "en": "Nothing can be accomplished without rules or standards. No matter if it is mortals or adepti, everyone has their place. This rule is what keeps Liyue in peace.",
+        "zh": "不以规矩，不能成方圆。不管是常人还是仙人，惟有各司其职，方能保璃月长久太平。"
+      },
+      "source_id": 17112
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Золото",
+        "en": "About Us: Gold",
+        "zh": "关于我们·黄金"
+      },
+      "text": {
+        "ru": "Золото - это богатство Ли Юэ, это кровь, которая заставляет биться сердце города. Сияет ли золотом твоё сердце?.. Время покажет.",
+        "en": "Gold is Liyue's treasure. It is the blood that runs through her heart. As for whether your own heart shines like gold — we will have to wait and see.",
+        "zh": "黄金是璃月的财富，是令璃月的心脏搏动的血液。你是否拥有黄金般闪耀的心，就让我拭目以待吧。"
+      },
+      "source_id": 17113
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Соглашение",
+        "en": "About Us: Contracts",
+        "zh": "关于我们·契约"
+      },
+      "text": {
+        "ru": "Между нами существует контракт, и в его рамках ты можешь обратиться ко мне с чем угодно.",
+        "en": "You and I have a contract, so feel free to discuss anything at all within the scope of said contract.",
+        "zh": "你我既有「契约」之交——那么凡在契约范围内的事，都可同我商量。"
+      },
+      "source_id": 17114
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Честность",
+        "en": "About Us: Fairness",
+        "zh": "关于我们·公平"
+      },
+      "text": {
+        "ru": "Впрочем, мы можем обсудить и дела, не входящие в рамки контракта. В конце концов я давно живу на этой земле и знаю многие вещи. В то же время я надеюсь, что и ты сможешь помочь мне. Ведь так будет справедливо.",
+        "en": "We can discuss matters that fall outside of our contract, too. After all, I have been on this land for a time, and have come to know a thing or two. Of course, I do hope you can do some things for me as well. That would only be fair.",
+        "zh": "「契约」之外的事也可与我相谈。毕竟我在这片土地上活了这么久，凡事都略通一二。哦，虽说如此，我也有希望你能为我做的事情。毕竟，这样才符合「公平」嘛。"
+      },
+      "source_id": 17115
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Недоразумение",
+        "en": "About Us: Confusion",
+        "zh": "关于我们·困惑"
+      },
+      "text": {
+        "ru": "Контракт не может определить границы дружбы, не может исчислить её в какой-либо величине. Так как нам измерить те отношения, что возникли между нами? Ты знаешь ответ на этот вопрос, мой друг?",
+        "en": "Contracts cannot be used to define friendship, nor measure sentiment. So just what can we use to measure the weight of our emotions? Do you know the answer, friend?",
+        "zh": "「契约」无法界定「友谊」、无法丈量「情谊」，那到底用什么才能称量你我之间情感的重量呢？「朋友」，你知道答案吗？"
+      },
+      "source_id": 17116
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Глаз Бога... Это тоже своего рода «контракт». Нужно понимать, что всё имеет свою цену. С великой силой приходит большая ответственность.",
+        "en": "Visions... are also a type of contract. You should know that all power comes at a price. For every bit of power you gain, so too do you gain more responsibility.",
+        "zh": "「神之眼」…也是一种「契约」。须知一切力量皆有其代价，一千种权力伴随着一千种责任。"
+      },
+      "source_id": 17117
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Торговля - это и правила, и справедливость. Это то, о чём не должны забывать заключающие контракт: лишённый справедливости, договор превращается в свидетельство обмана.",
+        "en": "Trade relies on both contracts and fairness. There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception.",
+        "zh": "「交易」的规矩是「契约」，准则是「公平」。这是订立、遵循「契约」者绝不可忘却之事：倘若失了公平，那契约便成了欺瞒的凭据。"
+      },
+      "source_id": 17118
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Если ты направляешься в Заоблачный предел, будь добр, принеси мне цветы цинсинь. Да, букета будет достаточно. Что касается расходов на дорогу... А, чуть не забыл, в период действия контракта все путевые расходы ложатся на тебя. Благодарю за любезность. / Если ты направляешься в Заоблачный предел, будь добра, принеси мне цветы цинсинь. Да, букета будет достаточно. Что касается расходов на дорогу... А, чуть не забыл, в период действия контракта все путевые расходы ложатся на тебя. Благодарю за любезность.",
+        "en": "If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin. Just one bunch is enough. Travel expenses...? Ah, I almost forgot. During the effective period of our contract, travel expenses are to be paid for by yourself. Sorry to bother you.",
+        "zh": "你若去往「绝云间」，便替我采来一束「清心」吧。一束就好。此行的旅费…啊，差些忘了，「契约」生效期间，旅费由你代为垫付。那就有劳了。"
+      },
+      "source_id": 17119
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Сяо...",
+        "en": "About Xiao",
+        "zh": "关于魈…"
+      },
+      "text": {
+        "ru": "Говоришь, юный Адепт из долины Гуйли... Хм... Он и поныне беспрекословно исполняет свои обязанности... Пожалуйста, передай ему от меня это лекарство. Ах да, ни в коем случае не давай малышке Паймон съесть его. Это лекарство... Слишком сильное для простых смертных.",
+        "en": "You speak of the young adeptus of Guili Plains... *sigh* Still fulfilling his duty to this very day. Please, give this Remedium Tertiorum to him on my behalf. Oh, yes... be sure not to let Paimon eat them. Nothing of this world can withstand the power of this medicine.",
+        "zh": "你说，归离原的少年仙人…啊…直至今日，他仍在履行他的职责…哦，这副「连理镇心散」，请替我带给他。对了，可千万不能让小派蒙偷吃了去，这里的药力…绝非常人所能承受。"
+      },
+      "source_id": 17120
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Венти...",
+        "en": "About Venti",
+        "zh": "关于温迪…"
+      },
+      "text": {
+        "ru": "Хм... Я чую винный перегар. Здесь только что был этот бард, да? Этот пьяница - позор для искусства... Постой, ты невнятно говоришь. Он и тебя обманом напоил?.. Подожди, я заварю для тебя освежающий чай. Через шесть часов будет готов... Подожди, хорошо?",
+        "en": "*sniff* Tsk... It reeks of wine. That bard has just been through here, hasn't he? That drunkard is a disgrace to the arts. Oh... Has he tricked you into getting drunk? You're slurring a little. Wait a moment, I'll brew a pot of sobering tea. It'll be ready in only six hours, so just wait a moment.",
+        "zh": "嘶...好浓的酒气。那个诗人刚刚来过吧，那个和风雅二字搭不上一点关系的酒鬼诗人！你这里…唔，被他诱骗着灌了酒，话也说不清了么…你等一下，我去沏一壶「醒神茶」，只需三个时辰便好。你等一下…"
+      },
+      "source_id": 17121
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Нин Гуан...",
+        "en": "About Ningguang",
+        "zh": "关于凝光…"
+      },
+      "text": {
+        "ru": "Хотя Нин Гуан приходится заботиться о множестве дел каждый день, она продолжает идти вперёд. Это такая редкость. Напоминает мне те времена, когда она босиком шла с отмели Яогуан на южный причал и продавала по дороге свои товары. Время не щадит смертных...",
+        "en": "Despite the multitude of affairs that she deals with in a day, Ningguang always continues to press on. A rare gem indeed. I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went. Time is cruel to humans.",
+        "zh": "即便每日经手的事务千条万缕，她仍不失进取之心，实属难得。让我想起，彼时的她赤着脚从瑶光滩走到南码头，一路叫卖货品的样子。时间对于常人，真是残酷…"
+      },
+      "source_id": 17122
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Ху Тао...",
+        "en": "About Hu Tao",
+        "zh": "关于胡桃…"
+      },
+      "text": {
+        "ru": "Нынешняя хозяйка ритуального бюро? Кхм, я не справляюсь с этим ребёнком.",
+        "en": "The current overseer of the funeral parlor? Ahem. I cannot deal with that child.",
+        "zh": "当代堂主？嗯…那孩子，我应付不来。"
+      },
+      "source_id": 17123
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Тарталье: Хладнокровие",
+        "en": "About Tartaglia: Composed",
+        "zh": "关于达达利亚·沉着"
+      },
+      "text": {
+        "ru": "Тот пройдоха из Снежной ещё не покинул Ли Юэ? Ничего страшного. Если он будет докучать, позови меня, я с ним справлюсь.",
+        "en": "That rascal from Snezhnaya has yet to depart from Liyue? Heh, no matter. Just let me know if he gives you any trouble. I shall deal with the matter swiftly.",
+        "zh": "那位来自至冬的武人，还没离开璃月吗？没关系，要是他找你麻烦，你可以唤我去应付他。"
+      },
+      "source_id": 17124
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Тарталье: Ужин",
+        "en": "About Tartaglia: Drinks",
+        "zh": "关于达达利亚·酒桌"
+      },
+      "text": {
+        "ru": "Я слышал, что репутация Чайльда среди Фатуи пошатнулась. Но таким, как он, не составляет труда свергнуть недовольных. Хм... Похоже, когда мы вновь соберёмся за одним столом, нас ждёт много интересных историй. Путешественник, ты присоединишься к нам? / Я слышал, что репутация Чайльда среди Фатуи пошатнулась. Но таким, как он, не составляет труда свергнуть недовольных. Хм... Похоже, когда мы вновь соберёмся за одним столом, нас ждёт много интересных историй. Путешественница, ты присоединишься к нам?",
+        "en": "It's said that Childe and his reputation have yet again stirred up waves among the inner ranks of the Fatui. Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions. Hmm... Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks. Care to join me when the time comes, Traveler?",
+        "zh": "听说「公子」最近在愚人众的风评又变糟了不少。但像他这样的人，一定会用积极的行动去扫清那些对他的怨言吧。嗯…这样想来，下回酒桌上又有不少趣事可以听了。旅者，你也一起来吗？"
+      },
+      "source_id": 17125
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Гань Юй...",
+        "en": "About Ganyu",
+        "zh": "关于甘雨…"
+      },
+      "text": {
+        "ru": "Процветание Ли Юэ основано не только на провидении Властелина Камня, но и на людях, заключивших с ним контракт. Среди них Гань Юй дольше всех исполняет свои обязанности. Что касается её прошлого... Пусть она расскажет сама. Боюсь, что мой рассказ будет не столь тактичным по отношению к ней.",
+        "en": "Liyue's prosperity has not merely been built on Rex Lapis' oracles or wisdom. It is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. Of them, Ganyu is the one who has served for the longest time. If you want to know about her past... You should ask her about it. I fear my wording would not be delicate enough to receive her approval.",
+        "zh": "璃月这个国度的繁荣，靠得绝不仅是「岩王帝君」的神谕，而是无数响应「契约」的岩神子民。在这之中，甘雨已是就职时间最长的一位了。关于她的往事…我怕她怪罪，让她自己和你说吧。"
+      },
+      "source_id": 17126
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Кэ Цин...",
+        "en": "About Keqing",
+        "zh": "关于刻晴…"
+      },
+      "text": {
+        "ru": "В группировке Цисин она меньше всех проявляет уважение к богам, но я восхищаюсь такими людьми. «Громко заявлять о том, что правильно, и неуклонно двигаться вперёд» - раз в Ли Юэ есть мыслящие так люди, я могу спокойно задуматься об уходе от дел.",
+        "en": "She is the most impious of the Qixing — but I actually find the conviction of such people quite endearing. The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her. People who speak up when they believe themselves to be right, and then go and do something decisive about it.",
+        "zh": "她是当代七星中最「不敬神」的，但我还挺欣赏这样的人。「觉得自己是正确的，就大声地说出来、坚决地去行动」——就是因为璃月有这样的人，我才会考虑退休一事。"
+      },
+      "source_id": 17127
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Янь Фэй...",
+        "en": "About Yanfei",
+        "zh": "关于烟绯…"
+      },
+      "text": {
+        "ru": "Она не заключала со мной контракт, но она поддерживает порядок в Ли Юэ, исправляет несправедливость и искореняет предрассудки. Если её отец однажды вернётся из долгого путешествия, думаю, он будет ещё более доволен ею, чем я.",
+        "en": "Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases... Should her father one day return from his travels, I imagine that he would be even more delighted than I.",
+        "zh": "她未曾与我签订「契约」，却在以自己的方式维护璃月各界的规矩，并将有失偏颇的观念纠正。倘若某天，她的父亲远游归来，想来会比我更欣慰吧。"
+      },
+      "source_id": 17128
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Чжун Ли I",
+        "en": "More About Zhongli: I",
+        "zh": "想要了解钟离·其一"
+      },
+      "text": {
+        "ru": "Тебе редко выпадает возможность отдохнуть, но, вместо того, чтобы ею воспользоваться, ты приходишь ко мне. Хочешь послушать мои истории?",
+        "en": "Why is it that once you finally get a break, rather than taking a rest, you instead come to me? Is it that you want to hear one of my stories?",
+        "zh": "怎么，难得闲暇，不好好休息却反来找我。是想听我讲故事吗？"
+      },
+      "source_id": 17129
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Чжун Ли II",
+        "en": "More About Zhongli: II",
+        "zh": "想要了解钟离·其二"
+      },
+      "text": {
+        "ru": "Знаешь, как появилась кузница Черногорья? \nВ далёком прошлом люди добывали руду в горах Тяньхэн и сооружали там цеха для работы с ней. Постепенно они отстроили крупнейший завод на восточном побережье континента. В горах осталось множество дорог и туннелей, и некоторые из них ведут к древним руинам, что погребены глубоко под землёй. Сейчас, пожалуй, не осталось никого, кто знал бы все эти пути.",
+        "en": "Have you heard of the origin of the Blackcliff Forge? In the past, they would mine the ore veins of Mt. Tianheng, and then replace the cavities with factory equipment. Tunnels run in all directions throughout the mountain — some even run to the ruins deep within the earth. I doubt there is a person today who could map out all the tunnels.",
+        "zh": "「黑岩厂」的起源，听说过吗？\n在过去，人们一边将天衡山中的矿脉挖空，一边在里面修建工场设施，渐渐建成了东大陆最大的工厂。山中黯道四通八达，一些甚至能通往大地深处的古遗迹。能掌握其中一切通路的人，如今大概没有了吧。"
+      },
+      "source_id": 17130
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Чжун Ли III",
+        "en": "More About Zhongli: III",
+        "zh": "想要了解钟离·其三"
+      },
+      "text": {
+        "ru": "А знаешь ли ты историю Праздника морских фонарей? \nВо времена древней войны по ночам люди запускали ярко горящие фонари, чтобы отчаянно сражавшиеся на полях брани солдаты не забыли дорогу домой и чтобы сердца их не забывали о доброте. Наверное, сейчас никто уже не помнит об этом.",
+        "en": "Have you heard of the origins of the Lantern Rite? In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves. Though in this day and age, I doubt there are any that remember.",
+        "zh": "「海灯节」的起源，听说过吗？\n在很久以前的战争中，璃月人会在夜里放飞明亮的灯，让厮杀的战士不迷失回家的方向，不迷失自己的心。这种事情，如今大概已经没有人记得了。"
+      },
+      "source_id": 17131
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Чжун Ли IV",
+        "en": "More About Zhongli: IV",
+        "zh": "想要了解钟离·其四"
+      },
+      "text": {
+        "ru": "Ты слышал, что говорят о боге контрактов? \nУ него прекрасная память. Он помнит имя каждого соперника и даты спуска на воду всех созданных на верфи Ли Юэ кораблей. В конце концов только обладатель такой памяти может хранить в ней все контракты до последней буквы. \nНо... не все воспоминания приносят радость. / Ты слышала, что говорят о боге контрактов? \nУ него прекрасная память. Он помнит имя каждого соперника и даты спуска на воду всех созданных на верфи Ли Юэ кораблей. В конце концов только обладатель такой памяти может хранить в ней все контракты до последней буквы. \nНо... не все воспоминания приносят радость.",
+        "en": "The God of Contracts. Have you heard of him? He has an impressive memory. He remembers the name of every person he comes across, and the date that every ship built in Liyue sets sail. After all, only in being able to do so can he memorize all of the contracts he holds. With that said, not every memory is a happy one...",
+        "zh": "「契约之神」的事情，听说过吗？\n他的记性很好。每位对手的名字，璃港船局建成以来制造的每一艘船起航的日子，都不曾忘却。毕竟，有这样的记忆力，才能铭记一切「契约」。\n然而，记性很好有时是令人不快的事。"
+      },
+      "source_id": 17132
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Чжун Ли V",
+        "en": "More About Zhongli: V",
+        "zh": "想要了解钟离·其五"
+      },
+      "text": {
+        "ru": "Удел тех, кто живёт слишком долго - искать в памяти образы друзей из давних времён и вспоминать пейзажи прошлого. \nНо я всё равно не жалею, что встретил тебя, друг мой. Если однажды нам придётся расстаться, в моей памяти ты всегда будешь сиять, как золото.",
+        "en": "For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories. As such, I have no regrets in meeting you, friend. Should the day ever come that we are not together, you will continue to shine like gold in my memories.",
+        "zh": "活得太久的人，只能在记忆中寻访往昔的战友、过去的景色。\n即使如此我也不后悔与你相识，「朋友」。假使有一日不得不同你相别，你在我的记忆中也会如黄金般闪耀。"
+      },
+      "source_id": 17133
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Хобби Чжун Ли...",
+        "en": "Zhongli's Hobbies",
+        "zh": "钟离的爱好…"
+      },
+      "text": {
+        "ru": "Люблю прогуляться по городу на досуге. Такие прогулки расслабляют и развеивают тревоги... Хм. С каких это пор меня посещают такие чувства?",
+        "en": "I enjoy partaking in walks through the city — when time permits. I find it very calming. Yes... Just when did this feeling begin...?",
+        "zh": "得闲时在城内散步，就能让我心安不少。嗯…这种心情，是从何时开始…？"
+      },
+      "source_id": 17134
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Беспокойство Чжун Ли...",
+        "en": "Zhongli's Troubles",
+        "zh": "钟离的烦恼…"
+      },
+      "text": {
+        "ru": "Я сделал так, чтобы люди руководствовались контрактами и прописанными в них правилами, в надежде, что благодаря этому они начнут руководствоваться и понятием справедливости. Это совсем не сложно. Вот только всегда остаются люди, которые этого не осознают.",
+        "en": "To get people to abide by a contract and act in accordance with the guidelines set out within is simply to ask them to respect the concept of fairness. It is not a large request. How are there those who still do not understand such simplicity?",
+        "zh": "让人们遵循「契约」，依照契约的规矩行事，其实是希望人们能遵循「公平」。只是这一点，总有人意识不到。"
+      },
+      "source_id": 17135
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Давным-давно я пил вино с друзьями. Как жаль, что я больше не могу насладиться тем мягким вкусом. Хм, возможно, это из-за изменения климата?",
+        "en": "There was once a drink I used to enjoy with friends — long ago... Is it because the climate has changed? A shame I will never be able to relish in its smooth flavor again.",
+        "zh": "很久以前，与朋友共饮的酒。是因为气候变了吗？唉，过去的滋味，或许再也不能重现了吧。"
+      },
+      "source_id": 17136
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я не люблю морепродукты. Как только я их вижу, тут же возникает это ощущение чего-то липкого, скользкого, вспоминается запах сырой рыбы, который ничем не вытравить... Спрашиваешь, почему такие ассоциации? \nДолгая история. Просто у меня слишком хорошая память.",
+        "en": "I don't like seafood. Just seeing it reminds me of that... slimy texture, and that scent that just won't wash off. As for why I hate it... *sigh* It's a long story, so let's just say my memory is a little too good.",
+        "zh": "我不喜欢海鲜。仅仅是看到海鲜，就会想到那种…该怎么说呢，滑溜溜的触感，洗不净的腥味。哦，原因的话…\n唉，说来话长，就当是因为我记性太好了吧。"
+      },
+      "source_id": 17137
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения. Это засушенные цветы глазурной лилии, распустившейся в тот день, когда ты родился. \nВ давние времена жители Ли Юэ говорили, что эти цветы впитывают прекрасные воспоминания и молитвы земли, на которой распустились. Мне хочется верить, что твоё рождение подобно их цветению. / С днём рождения. Это засушенные цветы глазурной лилии, распустившейся в тот день, когда ты родилась. \nВ давние времена жители Ли Юэ говорили, что эти цветы впитывают прекрасные воспоминания и молитвы земли, на которой распустились. Мне хочется верить, что твоё рождение подобно их цветению.",
+        "en": "Happy birthday. This is a dried Glaze Lily that came into bloom on the day of your birth. Long ago, the people of Liyue would say that this flower blooms bearing the weight of the beautiful memories and prayers of the land. I believe this to have applied on the day you were born as well.",
+        "zh": "生日快乐。这是曾在你出生的那天盛开的，「琉璃百合」的干花。\n很久以前的璃月人会说，这种花承载着大地中的美好记忆与祈愿而盛开。我愿意相信，你的诞生也是同样的道理。"
+      },
+      "source_id": 17138
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Кажется, прежние силы начинают возвращаться ко мне. Это немного, но лучше, чем ничего.",
+        "en": "It seems my strength is returning. Not a lot, but enough.",
+        "zh": "力量似乎渐渐回来了。不多，但有用。"
+      },
+      "source_id": 17139
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Сила растёт, и с ней увеличивается нагрузка на физическое тело... О, не волнуйся, моя конституция отличается от той, что присуща простым смертным. Я буду в порядке.",
+        "en": "My power is growing, and so with it grows the burden on my body... I'm okay. My structure is not the same as that of normal people. Please, do not worry yourself.",
+        "zh": "力量增长了，身体的负担随之剧增…哦，我没事，我的构造不同常人，请不用担心。"
+      },
+      "source_id": 17140
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Оказывается, управлять элементами через Глаз Бога - сложная задача для простого смертного. Вот как... В те времена они осознавали это и всё равно стояли со мной плечом к плечу...",
+        "en": "I see. Using a Vision harnesses elements. As far as the common folk are concerned, this is no small feat. So... back then... they were aware of this as they stood beside me...",
+        "zh": "原来如此，驱动「神之眼」驾驭元素力，对于常人而言不啻伟业。哦，原来如此…那时的他们，是抱着这样的觉悟站在我身旁啊…"
+      },
+      "source_id": 17141
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Я и не думал, что, отдав Сердце Бога, ещё смогу увидеть такую картину. Спасибо тебе, друг мой. Ах, да, у меня есть новый контракт... Посмотрим вместе?",
+        "en": "After letting go of my Gnosis, I never expected to see a day like this again. Thank you, friend. Ah, yes, I have a new contract here. Care to take a look at it together?",
+        "zh": "不曾料想，放下「神之心」后，还能看到这种景色——感谢你，「朋友」...对了，我这里有一份新的「契约」，不一起来看看么？"
+      },
+      "source_id": 17142
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Подъём!",
+        "en": "Rise!",
+        "zh": "壁立千仞。"
+      },
+      "source_id": 17143
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Встряска!",
+        "en": "Quake!",
+        "zh": "震天撼地。"
+      },
+      "source_id": 17144
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "В крошку!",
+        "en": "Crumble!",
+        "zh": "靡坚不摧。"
+      },
+      "source_id": 17145
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Сбор!",
+        "en": "Gather.",
+        "zh": "俱收并蓄。"
+      },
+      "source_id": 17146
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Стабилизация!",
+        "en": "Stabilize.",
+        "zh": "安如磐石。"
+      },
+      "source_id": 17147
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Закрепление!",
+        "en": "Solidify.",
+        "zh": "固若金汤。"
+      },
+      "source_id": 17148
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Следуй приказу.",
+        "en": "Order guide you.",
+        "zh": "天理长驱。"
+      },
+      "source_id": 17149
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Это приказ.",
+        "en": "This is order.",
+        "zh": "此乃天道。"
+      },
+      "source_id": 17150
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Приказывать буду я!",
+        "en": "I will have order!",
+        "zh": "天动万象。"
+      },
+      "source_id": 17151
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Что для одного - мусор, для другого - сокровище.",
+        "en": "One man's stone is another man's gem...",
+        "zh": "遗珠弃璧，吉光片裘…"
+      },
+      "source_id": 17152
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Неожиданно... И потому более ценно.",
+        "en": "Unsolicited... and all the more valuable for it.",
+        "zh": "偶遇之物，亦有风雅。"
+      },
+      "source_id": 17153
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Путь того стоил.",
+        "en": "Certainly worth the extra mile.",
+        "zh": "不虚此行。"
+      },
+      "source_id": 17154
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Я вижу твою мощь.",
+        "en": "I see your power.",
+        "zh": "你的实力我姑且认可。"
+      },
+      "source_id": 17155
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Ха, это уже интересно!",
+        "en": "Ha, this is getting interesting.",
+        "zh": "哈，有点意思。"
+      },
+      "source_id": 17156
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Срочные контрмеры - это не моё.",
+        "en": "Emergency countermeasures aren't my thing.",
+        "zh": "不太擅长危机应对啊。"
+      },
+      "source_id": 17157
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Не нападай опрометчиво.",
+        "en": "Don't try to rush your enemy.",
+        "zh": "不可贸然进攻。"
+      },
+      "source_id": 17158
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Отдохни. Предоставь это мне.",
+        "en": "Take a rest. Leave it to me.",
+        "zh": "下去休息。这里交给我。"
+      },
+      "source_id": 17159
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Ох... я слегка... не в себе...",
+        "en": "Ugh... I'm feeling a little... off...",
+        "zh": "啊，略感疲惫…"
+      },
+      "source_id": 17160
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Тебе нельзя смотреть на меня в таком виде...",
+        "en": "You shouldn't see me like this...",
+        "zh": "让你看到，难堪的一面了啊。"
+      },
+      "source_id": 17161
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Даже скалы рассыпаются в прах...",
+        "en": "Even bedrock can be turned to dust...",
+        "zh": "磐石…也会归于尘土…"
+      },
+      "source_id": 17162
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Какая беспечность...",
+        "en": "Careless...",
+        "zh": "大意了吗。"
+      },
+      "source_id": 17163
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Бояться нечего.",
+        "en": "Nothing to fear.",
+        "zh": "不足为惧。"
+      },
+      "source_id": 17164
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Идёт.",
+        "en": "Sure.",
+        "zh": "也好。"
+      },
+      "source_id": 17165
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Прогуляться было бы неплохо.",
+        "en": "A walk would be nice.",
+        "zh": "就当是散心了。"
+      },
+      "source_id": 17166
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Что будем делать?",
+        "en": "What shall we do?",
+        "zh": "做些什么好呢…"
+      },
+      "source_id": 17167
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "О Баал...",
+        "en": "About Baal",
+        "zh": "关于巴尔…"
+      },
+      "text": {
+        "ru": "Время закаляет волю. Она одна из тех, кто отдаст всё, что у неё есть, за убеждения. Возможно, именно поэтому она зашла так далеко. Я бы хотел увидеть «вечность», ради которой она пожертвовала всем.",
+        "en": "Time tempers all volition. Yet she would give up everyone for her beliefs. Perhaps it is for this very reason that she has come to where she stands today... Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors.",
+        "zh": "时间会淬炼一切意志。而她，恰好是会为信念付出所有的人。或许正因如此，她才能走到这一步。如有机会，我也想见识一下她为之倾尽一切的「永恒」。"
+      },
+      "source_id": 17168
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Лучшие ингредиенты, приготовленные с истинным профессионализмом. Настоящий кулинарный подвиг.",
+        "en": "The finest ingredients cooked with true expertise. This is no small feat.",
+        "zh": "用料讲究，做法地道。属实不易。"
+      },
+      "source_id": 17169
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Искусство гастрономии невероятно увлекательно. Неудивительно, что тебе нравится.",
+        "en": "The art of gastronomy is a fascinating one. That it appeals to you comes as no surprise.",
+        "zh": "烹饪是一件饶有趣味的事，想来对你而言也是如此。"
+      },
+      "source_id": 17170
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Раз у тебя столько свободного времени, давай лучше найдём тихое местечко, и я расскажу тебе одну из своих историй.",
+        "en": "Since you seem to have some time on your hands, why don't we find a quiet place and I'll share one of my stories with you.",
+        "zh": "既有闲暇，不如找一处庭院，和你说一段故事吧。"
+      },
+      "source_id": 17171
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "О Буер...",
+        "en": "About Buer",
+        "zh": "关于布耶尔…"
+      },
+      "text": {
+        "ru": "Божество мудрости Буер не только управляет всем Сумеру - на ней лежит долг защищать Ирминсуль. Такое по плечу только тем, кто обладает великой мудростью. Все существа Тейвата должны быть благодарны ей за спасение Ирминсуля.",
+        "en": "As well as ruling over all of Sumeru, the God of Wisdom, Buer, has a duty to guard Irminsul. Only one who possesses great wisdom could hope to shoulder these responsibilities. All life in Teyvat owes her gratitude for saving Irminsul.",
+        "zh": "智慧之神布耶尔，不仅统管整个须弥，还肩负着守护世界树的职责。若非有大智慧，的确难以司掌这些。拯救世界树一事，整个提瓦特的生灵都理应向她致谢。"
+      },
+      "source_id": 17172
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "О Фурине...",
+        "en": "About Furina",
+        "zh": "关于芙宁娜…"
+      },
+      "text": {
+        "ru": "Подписать контракт с «самой собой» о спасении страны, строго следовать ему в течение пяти веков и в итоге обмануть небесный порядок... Я уважаю все формы справедливости, которые люди для себя устанавливают. Хотя её божественность исчезла, а трон Архонта прекратил существование, Фурина по праву остаётся достойной признания Богиней справедливости.",
+        "en": "She made a contract with her own self to save the nation, strictly adhered to it for over five centuries without once wavering, and even fooled the Heavenly Principles in the end... I have great respect for approaches to justice that place exacting demands not only on others, but also on the self. Though her divinity has vanished and the throne of the Archon is no more, Furina will go down in Fontaine's history as a God of Justice worthy of recognition.",
+        "zh": "与「自我」签订下拯救国家的契约，并严守五百年，最终骗过了天理…我尊敬一切需要自我践行的「正义」。即便神性的部分已经消散，神座不复存在，但对于整个枫丹的历史来说，芙宁娜依旧是值得被认可的正义之神。"
+      },
+      "source_id": 17173
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "О Сянь Юнь...",
+        "en": "About Xianyun",
+        "zh": "关于闲云…"
+      },
+      "text": {
+        "ru": "Я слышал от многих торговцев рассказы о Сянь Юнь. Говорят, на первый взгляд она кажется гордой и неприветливой, но в разговоре оказывается, что она честная и прямолинейная. В итоге все очень рады знакомству с ней. Это замечательно. Но ещё от многих я слышал, что она «сорит деньгами»...",
+        "en": "I hear many merchants of Liyue tell tales of a Ms. Xianyun. By most accounts, she appears proud and taciturn upon first glance, yet in conversation, people find her to be forthright and fair-minded, and they are pleased to make her acquaintance. I am glad to hear this. But... I have also heard a great many accounts lauding her readiness to part with large sums of Mora...",
+        "zh": "我听不少商人聊起过「闲云」的逸闻。说是这位女子看似倨傲，不喜言谈，交谈一番却发现她性格耿直，作风正派，是位值得结交的良友。我为她高兴。但「出手阔绰」这条评价，嗯，也有不少人对我说过…"
+      },
+      "source_id": 17174
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "О Хаборим...",
+        "en": "About Haborym",
+        "zh": "关于赫布里穆…"
+      },
+      "text": {
+        "ru": "Долгая история борьбы Натлана закалила его воинов, позволив им одолеть Бездну и превзойти судьбу, чтобы выковать новое будущее. За этим триумфом стоит лидер, который умеет повелевать временем и историей, превращая их в свое оружие. Её сила сопоставима с божественной. Она действительно впечатляет.",
+        "en": "Natlan's long history of struggle fueled its warriors to overcome the Abyss and transcend fate to forge a new future. Behind this triumph stands a leader who wields both time and history as her weapons, with a level of strength that rivals the gods. She is impressive indeed.",
+        "zh": "纳塔将悠久的抗争历史谱写成诗，激励无数战士前仆后继，由此得以跨越深渊与宿命的威胁，创造出新的未来。而率领他们的，是一位将时间与历史化作武器的人类战士，她足以与神明比肩的实力，令人叹服。"
+      },
+      "source_id": 17175
+    },
+    {
+      "number": 77,
+      "title": {
+        "ru": "Об Адепте Белая Лошадь...",
+        "en": "About the White Horse Adeptus",
+        "zh": "关于白马仙人…"
+      },
+      "text": {
+        "ru": "Белая Лошадь... Старый друг, с которым я не виделся очень давно... Весенние ночи коротки, осенние дни быстротечны. Лошадь срывается и мчится во весь опор, словно трепещущая на ветру свеча...",
+        "en": "The white horse... An old acquaintance, and one I haven't met in a very long time... One laments spring nights, how short they last, and autumn days that quickly pass. A steed that bolts and swiftly flees, a candle shivering in the breeze.",
+        "zh": "白马，白马…这位仙人，其实也是我许久未见的一位故人。只可叹，春夜短，秋日速，隙过驹，风过烛。"
+      },
+      "source_id": 17176
+    }
+  ],
+  "replica_count": 77
 }

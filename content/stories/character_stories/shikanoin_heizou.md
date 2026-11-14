@@ -440,3 +440,827 @@ Accompanying him on this journey was a green stone, but it was not the pebble th
 那是浮于世间所有罪的合集，像一团遮蔽天空的巨大黑影，高高在上，冰冷地俯视这人世间的美好，然后想方设法令其消亡。
 一个月后的清晨，平藏留下了一张告别的纸条，便静悄悄地离家远去，他找到了自己的敌人，他也将要走上与敌人斗争的路。
 伴他上路的是一枚绿莹莹的石头，这次不再是那枚象征友情的鹅卵石，而是饱含决心的神之眼。
+
+# voice_source_ids: 59000,59001,59002,59003,59004,59005,59006,59007,59008,59009,59010,59011,59012,59013,59014,59015,59016,59017,59018,59019,59020,59021,59022,59023,59024,59025,59026,59027,59028,59029,59030,59031,59032,59033,59034,59035,59036,59037,59038,59039,59040,59041,59042,59043,59044,59045,59046,59047,59048,59049,59050,59051,59052,59053,59054,59055,59056,59057,59058,59059,59060,59061,59062,59063,59064,59065,59066,59067
+
+## REPLICAS_RU
+
+### Привет...
+
+Меня зовут Сиканоин Хэйдзо, самый успешный и проницательный детектив комиссии Тэнрё... Похоже, жизнь в последнее время сильно потрепала тебя, не так ли? Присаживайся и расскажи мне всё с самого начала.
+
+### Поболтаем: Преступление
+
+В воздухе что-то витает... я чувствую запах преступления.
+
+### Поболтаем: Работа детектива
+
+Детектив должен ходить как детектив. В буквальном смысле этого слова - мне нужно искать улики повсюду.
+
+### Поболтаем: Интуиция
+
+Интуиция подсказывает мне, что сейчас произойдёт что-то интересное...
+
+### После дождя...
+
+Будем надеяться, что дождь не смыл все улики.
+
+### Когда гремит гром...
+
+Хм... Интересно, кто из коварных преступников только что заявил в суде о своей невиновности... Лжец, судя по всему.
+
+### Когда идёт снег...
+
+Известно ли тебе о случае с мстительным духом Драконьего хребта? Случилось это давным-давно одной тёмной и снежной ночью...
+
+### Когда дует сильный ветер...
+
+Ещё сильнее! Чтобы образовался ураган, нужно больше ветра!
+
+### Доброе утро...
+
+Доброе утро. Выглядишь неважно. Тебе приснился кошмар? Эх... Я должен был догадаться, что ты ещё не готов к такому шокирующему делу. / Доброе утро. Выглядишь неважно. Тебе приснился кошмар? Эх... Я должен был догадаться, что ты ещё не готова к такому шокирующему делу.
+
+### Добрый день...
+
+Теперь, когда мы закончили обед, как насчет игры для поддержания остроты ума? Релейные камни? Хе-хе... ладно, думаю, подойдёт.
+
+### Добрый вечер...
+
+Когда солнце уходит на покой, наблюдение за преступниками возлагается на звёзды.
+
+### Спокойной ночи...
+
+Отлично, пора ложиться спать! Интересно, что мне сегодня приснится?
+
+### О Сиканоине Хэйдзо: Детектив
+
+Детектив должен использовать свой ум, чтобы разрушить надежды преступников избежать наказания. Вот почему настоящему детективу даже не нужно использовать оружие.
+
+### О Сиканоине Хэйдзо: Ключевые слова
+
+У меня выработалась привычка записывать в памяти всё, что я вижу, и ассоциировать это с ключевыми словами. Они очень помогают мне, когда я должен сделать выводы. Возьмём, к примеру, этого человека: кошачья шерсть на чистых штанах и царапина на запястье. Похоже, он неравнодушен к животным, но не может добиться от кошек взаимности... Что касается вон того парня, то он, похоже, очень озабочен своей раненой рукой, и на нём совершенно новая пара обуви, которая не сочетается с его поношенной одеждой... Погоди, похоже, у меня тут новое дело!
+
+### О нас: Поручения
+
+Мне кажется, эти ваши поручения словно неиссякаемый колодец. Почему бы тебе время от времени не подбрасывать мне одно-два поручения? Только не те, которые связаны с драками, беготнёй или поиском потерянных вещей. Как тебе известно, это не мой стиль. Я берусь только за большие, важные дела, в которых нужно разгадать много тайн... Так что не забывай меня, когда у тебя будет что-то подобное, хорошо? Хе-хе.
+
+### О нас: Предначертанный результат
+
+Совпадение - хорошее слово. Создаётся впечатление, что всё предопределено судьбой. К сожалению, как детектив, я не верю в совпадения. Наша встреча - это кульминация всех наших решений и действий, которые мы сделали до этого момента. Я имею в виду, что... мы сами творим свою судьбу.
+
+### Глаз Бога...
+
+Значит, ходят слухи, что я могу превзойти своих коллег из комиссии, даже не используя Глаз Бога? Что ж, позволь мне прояснить ситуацию. Во-первых, хотя я и досин, я, прежде всего, детектив. Мой главный инструмент - разум, а не мускулы. Во-вторых, мы с коллегами обычно не ссоримся. И, в-третьих... Ох, похоже, тебя не так легко обмануть. Ладно, забудь.
+
+### Давай поделимся: Ощущение успеха
+
+По мере того как я собираю воедино улики, появляется след, который приводит меня к преступнику... И когда я наконец ставлю на место последний кусочек головоломки... Я испытываю чувство удовлетворения. Как это волнующе!
+
+### Давай поделимся: Досин
+
+Статус досина даёт престиж и позволяет находиться ближе к месту преступления. Эта должность определённо расширила мой кругозор по сравнению с тем временем, когда я работал в детективном агентстве. Что касается других задач, патрулирования, задержания преступников и так далее, я, разумеется, оставляю это более квалифицированным специалистам. Есть пределы того, что детектив может сделать в одиночку.
+
+### Интересные вещи...
+
+Вопрос: как много ты знаешь о древесине? Да, я говорю о древесине любого обычного дерева, которое можно встретить на обочине дороги. Преступник, скорее всего, оставит след на коре, наткнувшись на дерево, опрокинув кучу опилок или наступив на листья. Добавь к этому знание того, какие деревья растут в тех или иных районах, и ты сможешь выяснить некоторые важные детали. Поэтому справедливо будет сказать, что деревья - лучший друг детектива.
+
+### О Кудзё Саре...
+
+Госпожа Кудзё Сара? Она, без сомнения, самый строгий человек во всей комиссии Тэнрё! Было бы неплохо, если бы она немного сбавила обороты и дала всем больше свободы. Она всегда на меня косится из-за моих периодических необъяснимых отлучек, но что я могу сказать... Я просто иду по следу из улик.
+
+### Об Аратаки Итто...
+
+Я несколько раз оказывал услугу, принося ему в тюрьму жареные фиалковые дыни. Однажды я застал его за пением. Слова были так себе, но пел он весьма недурно. Да и не каждый день видишь заключённого, который в настроении петь от души.
+
+### О Куки Синобу...
+
+Банда Аратаки - это свободная и разношёрстная организация, которая принимает всех, независимо от их происхождения. Потрясающе, просто потрясающе. Им повезло, что у них есть Синобу, которая помогает им не сбиться с курса. Хм? Откуда я всё это знаю? Ха-ха, ну... это же элементарная дедукция.
+
+### О Яэ Мико...
+
+Если подумать, издательский дом Яэ также публикует криминальные романы, верно? Так... когда ты сможешь представить меня? В наши дни, чтобы стать знаменитым детективом, мало быть хорошим специалистом - нужна ещё и известность. Верно? Ай, да нет у меня никаких скрытых мотивов!
+
+### О Каэдэхаре Кадзухе: Сходство
+
+Кадзуха? Да, на него можно положиться. Когда он помогает тебе, он будто открывает сундук с уликами и высыпает перед тобой его содержимое. Если бы только я мог так же тонко чувствовать природу... О, теперь я понимаю! Ветер для него то же самое, что интуиция для меня!
+
+### О Каэдэхаре Кадзухе: Приглашение
+
+Как жаль! С отменой Охоты на Глаза Бога у меня не осталось оснований для его официального ареста. С другой стороны... Теперь я могу просто пригласить его в комиссию Тэнрё, чтобы обсудить с ним дела.
+
+### О Горо...
+
+Постоянная подозрительность генерала Горо сделала мою поездку на остров Ватацуми гораздо более насыщенной событиями, чем я предполагал... Куда бы я ни пошёл, везде за мной пристально наблюдали солдаты. Честно говоря, я был обыкновеннейшим туристом, как и все остальные. Кому какое дело, что я детектив? Я не лез не в свои дела, в конце концов.
+
+### О Сангономии Кокоми...
+
+Я никогда раньше не видел госпожу Сангономию. Когда она появляется, вся деревня толпится вокруг неё, а я не собираюсь с ними соревноваться. О, и даже если бы я смог прорваться через кольцо из жителей деревни, её всегда окружает второй круг из жриц святилища! Для такой молодой особы, как она, добиться такого признания, должно быть, стоило большого труда.
+
+### О Камисато Аяке...
+
+Я едва знаком с молодой госпожой клана Камисато. К счастью, я из обычной семьи... Такая жизнь точно не для меня.
+
+### Узнать больше о Сиканоине Хэйдзо I
+
+Даже если кто-то предпочитает хранить полное молчание, о нём всё равно можно многое узнать по одежде, позе и мимике. Вот если бы наш разговор закончился на этом... Что ты можешь сказать только по моему внешнему виду?
+
+### Узнать больше о Сиканоине Хэйдзо II
+
+Однажды, присутствуя на судебном процессе, я вдруг понял, что раскрыл дело. Поэтому я прервал суд как раз в тот момент, когда они собирались объявить приговор. Если бы моё возражение оказалось несостоятельным, то этот судьбоносный момент не сделал бы меня детективом. Вместо этого было бы: «Сиканоин Хэйдзо, приказываю немедленно заключить вас под стражу за неуважение к суду!» Ха-ха-ха...
+
+### Узнать больше о Сиканоине Хэйдзо III
+
+Расследование внебрачных связей, розыск сбежавших домашних животных... это практически единственные дела, которые можно найти в детективном агентстве. Мне лично нужны дела более высокого уровня. Поэтому единственным выходом для меня было вступить в комиссию Тэнрё. Кроме того, мы с Санго не всегда сходились во взглядах на некоторые вещи... Ничего не поделаешь.
+
+### Узнать больше о Сиканоине Хэйдзо IV
+
+Когда я только вступил в комиссию Тэнрё, я начал оттачивать свои навыки, рассматривая нераскрытые дела. Не успел я оглянуться, как от горы старых дел не осталось и следа... Жаль, что сейчас у меня нет времени копаться в них. Меня постоянно просят помочь раскрыть самые сложные дела, и я едва успеваю перевести дух... Ну, что поделаешь. Как только становишься детективом такого уровня, дела приходят к тебе сами.
+
+### Узнать больше о Сиканоине Хэйдзо V
+
+Когда детектив сталкивается с преступником, он в некотором смысле уже потерпел неудачу. Что бы вы ни сделали для установления истины и выявления преступника, вы никогда не сможете предотвратить совершённое преступление. Поэтому я хочу, чтобы моя репутация росла. Я хочу стать знаменитым детективом, который выслеживает потенциальных преступников и пресекает их планы на корню! Теперь, когда ты всё знаешь, почему бы тебе не протянуть мне руку помощи?
+
+### Хобби Сиканоина Хэйдзо...
+
+Хочешь поприсутствовать на судебном процессе комиссии Тэнрё? Это похоже на наблюдение за тем, как медленно всплывает истина, как коллаж из фактов собирается воедино... Я могу занять тебе очень хорошее место, но нам придётся притвориться, что мы не знакомы... Просто притвориться.
+
+### Беспокойство Сиканоина Хэйдзо...
+
+Всегда есть люди, которые в самую последнюю секунду прибегают к насилию, будто это решит их проблемы. Для меня победа - это видеть лицо обвиняемого, признающегося в своём преступлении перед моими неопровержимыми доказательствами и безупречными умозаключениями... Если детективу приходится применять грубую силу, значит, он проиграл.
+
+### Любимая еда...
+
+Нет ничего вкуснее жареной еды. Будь то мясо или овощи, если они пожарены в масле, я буду в восторге! Я не думаю, что найдётся хоть один голодный человек, способный устоять перед этим ароматом.
+
+### Нелюбимая еда...
+
+Я терпеть не могу ужины в участке. Это всегда одни и те же блюда, а о вкусе я вообще молчу. Вот какая радость от еды, если нельзя выбрать то, что тебе нравится? Бедный я! Мне приходится довольствоваться перекусами на скорую руку, которые я могу себе позволить, когда удаётся ускользнуть с работы.
+
+### День рождения...
+
+Когда я узнал, что у тебя сегодня день рождения, мне на мгновение захотелось запереть тебя в полной механизмов и подарков комнате, откуда можно выбраться, только решив все головоломки... Хе-хе, шучу! Я бы никогда не стал этого делать, не убедившись, что тебе это действительно понравится. Пойдём, есть одно прекрасное место, которое я должен показать тебе до захода солнца.
+
+### Чувство возвышения: Начало
+
+По мере того как я становлюсь сильнее, моя интуиция становится острее!
+
+### Чувство возвышения: Нарастание
+
+Похоже, мои боевые навыки становятся лучше. Если бы только мои интеллектуальные способности могли развиваться подобным образом...
+
+### Чувство возвышения: Кульминация
+
+Вот это да! Скоро меня все станут называть «Ураган».
+
+### Чувство возвышения: Окончание
+
+Спасибо за доверие и поддержку, мой дорогой партнёр. Без твоей помощи я бы не смог так далеко продвинуться. Давай, дай пять! Нам предстоит разгадать ещё много тайн!
+
+### Элементальный навык I
+
+Получи!
+
+### Элементальный навык II
+
+Правда ранит!
+
+### Элементальный навык III
+
+Давай, смелей!
+
+### Взрыв стихии I
+
+Признайся!
+
+### Взрыв стихии II
+
+Ураган!
+
+### Взрыв стихии III
+
+Меня не одурачишь!
+
+### Открытие сундука I
+
+О, теперь всё понятно!
+
+### Открытие сундука II
+
+Видишь? Моя интуиция никогда не ошибается.
+
+### Открытие сундука III
+
+Мне нравится то, что я вижу!
+
+### Низкий уровень HP I
+
+Уф, раз ты этого хочешь...
+
+### Низкий уровень HP II
+
+Это обескураживает...
+
+### Низкий уровень HP III
+
+Это не работа для детектива...
+
+### Низкий уровень HP компаньона I
+
+Ай, осторожно!
+
+### Низкий уровень HP компаньона II
+
+Дело серьёзное, давай лучше я.
+
+### Без сознания I
+
+Правда... раскроется...
+
+### Без сознания II
+
+Был детективом... стал жертвой...
+
+### Без сознания III
+
+Меня... перехитрили...
+
+### Получен лёгкий удар I
+
+Я бы не советовал это делать.
+
+### Получен тяжёлый удар I
+
+У нас проблемка!
+
+### Присоединяется к группе I
+
+Новое дело?
+
+### Присоединяется к группе II
+
+Не можешь решить проблему? Расскажи мне.
+
+### Присоединяется к группе III
+
+Пора выдвигаться, пока след не остыл.
+
+### Подарок I
+
+Ммм, мне нравится! На этот раз ты превзошёл сам себя. Молодец! / Ммм, мне нравится! На этот раз ты превзошла саму себя. Молодец!
+
+### Подарок II
+
+Как думаешь, приготовление пищи - это больше физический труд или умственный? Думаю, и то, и другое... Неудивительно, что ты так хорошо готовишь!
+
+### Подарок III
+
+Ох... Дай подумать, где ты ошибся... / Ох... Дай подумать, где ты ошиблась...
+
+## REPLICAS_EN
+
+### Hello...
+
+The name's Shikanoin Heizou, sharpest and most successful detective of the Tenryou Commission... Ooh, my goodness, life's really put you through the wringer recently, hasn't it? I can tell. Here, why don't you take a seat, tell me the whole story.
+
+### Chat: Criminal Cases
+
+There's something in the air... something that tells me a new case is brewing.
+
+### Chat: Detective Work
+
+Doing detective work means you gotta walk the walk. No... I mean literally — I need to search high and low for evidence.
+
+### Chat: Intuition
+
+Huh, my intuition tells me that something very interesting is about to happen...
+
+### After the Rain
+
+Let's just hope the rain hasn't washed all the clues away.
+
+### When Thunder Strikes...
+
+Hmm... I wonder which criminal mastermind just protested their innocence in court... A liar by the sounds of it. Hehe.
+
+### When It Snows
+
+Have you ever heard of the case of the vengeful spirit of Dragonspine? It all happened on a dark, snowy night long ago...
+
+### When the Wind Is Blowing
+
+Heh, it's gonna take a little more wind than that to form a cyclone!
+
+### Good Morning
+
+Morning. Oh my, you don't look so good. You didn't have a nightmare, did you? *sigh* I should've known not to expose you to such a shocking case so soon.
+
+### Good Afternoon
+
+Alright. Now that lunch is over, whaddya say we play a game to keep our minds sharp? Relay Stones? Hehe... okay, I guess we can warm up with that.
+
+### Good Evening
+
+Once the sun has clocked out for the day, it's up to the stars to keep criminals under their watchful gaze.
+
+### Good Night
+
+Great, it's time to hit the hay! I wonder what dreams await me tonight?
+
+### About Shikanoin Heizou: Detective
+
+A detective should be using their smarts to crush criminals' hopes of getting away with their crimes. So really, a true detective should never even have to touch their weapon.
+
+### About Shikanoin Heizou: Keywords
+
+I've made it a habit of mine to remember everything I observe in the form of keywords. They're a big help to me when I'm trying to make deductions. Take this person for example: we've got "cat hair on clean trousers," and "scratch on the wrist." Looks like they have a soft spot for animals, but they can't get cats to reciprocate... Meanwhile, that one seems very troubled about their "injured hand," and they're wearing a pair of "brand-new shoes that don't match their well-worn attire"... Hold on, it looks like I might have a new case on my hands here!
+
+### About Us: Commissions
+
+Seems to me like these commissions of yours are an endless gold mine of cases, and you'll never be able to finish them all. So maybe you could throw one my way every once in a while? Not the ones that involve fighting, running errands, or searching for lost items — as you know, not my style. I only take on big, important cases with lots of mysteries to solve... So, keep an eye out for me, yeah? Hehe.
+
+### About Us: Destined Outcome
+
+"Coincidence" is a nice word. It makes things sound like they were meant to be. Unfortunately, as a detective, I don't believe in coincidences. The two of us meeting each other is really the culmination of every choice and move we've made up to this point. So what I'm saying is... our destiny is something we choose.
+
+### About the Vision
+
+Oh? So there are rumors that I can overpower my Tenryou colleagues without even using my Vision? Hehe, well, let me set the record straight. One: Although I am technically a Doushin, I'm strictly a detective. My mind is my greatest tool, not my muscles. Two: It's not like my colleagues and I are getting into fights with each other all the time. And three... *sigh* Alright, seems like there's no fooling you. Just... never mind then, okay?
+
+### Something to Share: Sense of Achievement
+
+As you piece together the trail of clues, it brings you closer and closer to the culprit... and then, that moment when you finally put the last piece of the puzzle into place... I always get such a sense of accomplishment. It's exhilarating!
+
+### Something to Share: Doushin
+
+Not only does being a Doushin come with a certain amount of prestige, it also puts me closer to the action on some of the toughest cases, so the position has definitely broadened my horizons compared to when I was at the detective agency. As for the other duties — patrolling, apprehending criminals, and so on — obviously, I leave that to the more... qualified individuals. There's a limit to how much a single detective can do, you know.
+
+### Interesting Things
+
+Question, Traveler, how much do you know about timber? That's right, I'm talking about wood from any ordinary tree you might find along the roadside. Whether a criminal bumps into the bark, disturbs a pile of sawdust, or treads on some leaves, the chances are, they're always gonna leave a trace somehow. Add to that some knowledge of which trees grow in what areas, and if you're lucky, you can infer some crucial details. So, you know: trees. They're a sleuth's best friend.
+
+### About Kujou Sara
+
+Madam Kujou Sara? Yeah, that lady's gotta be the most serious person in the entire Tenryou Commission. It would be nice if she could cut us a little slack and give everyone some breathing room — and she's always on my case about my occasional unexplained absences, but what can I say... I just go wherever the evidence leads me.
+
+### About Arataki Itto
+
+I've done a few favors before to deliver Roasted Lavender Melon to him in prison. This one time, I overheard him singing. The lyrics... were complete trash, but I gotta say — he has a pretty good set of pipes. And it's not every day you come across an inmate who's in the mood to sing their heart out.
+
+### About Kuki Shinobu
+
+The Arataki Gang is a free and diverse organization that accepts anyone, regardless of their background. Pretty amazing if you ask me. They're lucky to have Shinobu to help keep them all in line. Hmm? How do I know all this? Haha, I mean... as deductions go, this one was pretty elementary.
+
+### About Yae Miko
+
+Come to think of it, Lady Guuji's publishing house also publishes murder mysteries, right? So... when can you introduce me? In this day and age, becoming a famous detective requires more than just ability — you need publicity, too. Huh? C'mon, I'm being serious here!
+
+### About Kaedehara Kazuha: Things in Common
+
+Oh, Kazuha? Yeah, he's a solid guy. With his help, I felt like a locked treasure chest of clues had been bust wide open and emptied all over the ground for me to see. If only I had his sensitivity to the natural world... Oh, I get it now! The wind to him must be like my intuition to me!
+
+### About Kaedehara Kazuha: Invitation
+
+Ohh... It's such a pity! Since the Vision Hunt Decree's been repealed, I no longer have any grounds to officially arrest him. But then again... I guess now, I can just openly invite him to come to the Tenryou Commission and discuss cases with me.
+
+### About Gorou
+
+General Gorou's constant suspicion made my trip to Watatsumi Island much more eventful... Everywhere I went, there were soldiers keeping me under close surveillance. Honestly, I was a regular, boring tourist just like everybody else. So what if I happen to be a detective in my day job? I was clearly minding my own business there.
+
+### About Sangonomiya Kokomi
+
+I've actually never seen Madam Sangonomiya before. Whenever she appears, practically the whole village crowds around her... I'm not about to contend with that. Oh, and even if you made it through all the villagers, there'd still be a circle of shrine maidens around her! For one of us young people to gain that kind of recognition from everyone, it must have taken a lot of work.
+
+### About Kamisato Ayaka
+
+I'm barely acquainted with the daughter of the Kamisato Clan. I'm glad that I'm not from some sort of prestigious family like that... it's definitely not the kind of life for me.
+
+### More About Shikanoin Heizou: I
+
+Even if someone chooses to remain absolutely silent, you can still learn a lot about them just by observing their clothes, posture, and facial expressions. Now, if this conversation ended here... what could you gather from my appearance alone?
+
+### More About Shikanoin Heizou: II
+
+Once, when I was sitting in on a criminal trial, I suddenly realized I'd cracked the case. So I interrupted the court just as they were about to declare the verdict. If my objection had turned out to be invalid, then that moment wouldn't have been the turning point that saw me become a detective. Instead, it would have been... "Shikanoin Heizou, I hereby find you in contempt of court and order your immediate detention!" Hahaha!
+
+### More About Shikanoin Heizou: III
+
+Investigating extramarital affairs, tracking down runaway pets... Those are pretty much the only cases you'll find at a detective agency. I personally need cases of a higher caliber... so, obviously, my only option was to jump ship and join the Tenryou Commission. Another factor was that Sango and I didn't quite see eye to eye in a lot of areas... Just one of those things, I guess.
+
+### More About Shikanoin Heizou: IV
+
+When I first joined the Tenryou Commission, I started honing my craft by reviewing some cold cases. Before I knew it, "Mt. Coldcase" had been completely leveled... It is a pity, these days I no longer have the time to go back and look through old files. I'm forever being brought in to help out on the toughest cases, and I barely have a moment to catch my breath in between jobs... Well, what can you do. Once you're a detective of this caliber, the cases come to you.
+
+### More About Shikanoin Heizou: V
+
+By the time a detective is facing a criminal, they have in some sense already failed. Whatever you might do to establish the truth and identify the culprit, you'll never be able to undo the damage caused by the crime. That's why I want my reputation to spread. I want to be a famous detective that makes would-be criminals quake in their boots and quit while they're ahead! In other words, I want to nip crime in the bud. Well, now that you've heard my spiel, why don't you lend me a hand?
+
+### Shikanoin Heizou's Hobbies
+
+Would you like to sit in on a court trial at the Tenryou Commission some time? It's like watching the truth slowly emerge as a collage of facts is pieced together... I can save you a really good seat, but we'll have to pretend like we don't know each other... You know, just pretend.
+
+### Shikanoin Heizou's Troubles
+
+There are always those people who resort to violence at the very last second, as if that'll somehow solve their problems. It's a real bummer. Victory for me is to see the look on the defendant's face as they finally confess to their crime in the face of my ironclad evidence and watertight deductions... The moment a detective has to use brute force, they've already lost.
+
+### Favorite Food
+
+Name me one item of food that doesn't taste better deep-fried. You can't, right? Whether it's meat or veggies, as long as it's been pulled out of the fryer, I'll love it! I don't think anyone with an empty stomach can resist the smell of fried food.
+
+### Least Favorite Food
+
+I cannot stand dinner at the Police Station. It's always the same regimented meals, and don't even get me started on the taste. When it comes to food, you can't enjoy it unless you get to pick exactly what you want, right? But nope, poor me has to make do with slipping out and grabbing a quick bite. *sigh*
+
+### Birthday
+
+After I learned that today was your birthday, there was a brief moment when I really wanted to take you to a locked room chock-full of mechanisms and gifts, where you could only get out by solving all the puzzles... Hehe, it's actually really fun! You know, of course I wouldn't do anything like that unless I was sure you'd actually enjoy it. Here, come with me. There's this beautiful scenic spot I've gotta show you before the sun goes down.
+
+### Feelings About Ascension: Intro
+
+As I get stronger, my intuition gets sharper!
+
+### Feelings About Ascension: Building Up
+
+It appears my combat abilities are advancing. Too bad it's not all cognitive.
+
+### Feelings About Ascension: Climax
+
+My, my! At this rate, the name "Cyclone" is really gonna stick, isn't it...
+
+### Feelings About Ascension: Conclusion
+
+Thanks for your trust and support, my dear partner. I couldn't have made it this far without your help. Hmm... I suppose we have time for a quick high five, but then let's get back out there and solve some more mysteries!
+
+### Elemental Skill: I
+
+Fracture!
+
+### Elemental Skill: II
+
+The truth hurts!
+
+### Elemental Skill: III
+
+Bring it on!
+
+### Elemental Burst: I
+
+Confess!
+
+### Elemental Burst: II
+
+Cyclone!
+
+### Elemental Burst: III
+
+Can't fool me!
+
+### Opening Treasure Chest: I
+
+Oh, it's all coming out now!
+
+### Opening Treasure Chest: II
+
+See? Just follow my intuition.
+
+### Opening Treasure Chest: III
+
+Hmph, I'm liking the look of this!
+
+### Low HP: I
+
+Ugh, if that's how you want it...
+
+### Low HP: II
+
+That was discombobulating...
+
+### Low HP: III
+
+This is no job for a detective...
+
+### Ally at Low HP: I
+
+Whoa there, watch it!
+
+### Ally at Low HP: II
+
+That's it, I'm taking this case over.
+
+### Fallen: I
+
+The truth... will come out...
+
+### Fallen: II
+
+From detective... to victim...
+
+### Fallen: III
+
+I've been... outsmarted...
+
+### Light Hit Taken: I
+
+You don't want to do this.
+
+### Heavy Hit Taken: I
+
+Ugh, we got a situation!
+
+### Joining Party: I
+
+I'm on the case!
+
+### Joining Party: II
+
+Got a problem you can't solve? Clue me in.
+
+### Joining Party: III
+
+Let's move before the trail goes cold.
+
+### Receiving a Gift: I
+
+Mmm, I love it! You really outdid yourself this time. Well done!
+
+### Receiving a Gift: II
+
+Would you say cooking is more of a physical or a cognitive task? Hmm, I believe it's both... No wonder you're such a good cook!
+
+### Receiving a Gift: III
+
+Hurk! Mmm... let me think. Where did you go wrong here...
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我叫鹿野院平藏，是天领奉行里破案最多最快的侦探…哎呀呀，你身上一股麻烦缠身的味道。快坐下，这边坐，从头说给我听听吧。
+
+### 闲聊·罪案
+
+唔…我好像闻到了罪案的味道。
+
+### 闲聊·侦探
+
+侦探就要有侦探的样子，所以就得到处走走，搜集罪证才对嘛。
+
+### 闲聊·直觉
+
+我的直觉告诉我，马上就要有精彩的事件发生了。
+
+### 雨过天晴…
+
+刚才那场雨，可别冲散了线索啊。
+
+### 打雷的时候…
+
+哦？是哪个狡猾的犯人在发誓吗？
+
+### 下雪的时候…
+
+你听说过吗？很久以前，发生在龙脊雪山上的午夜凶灵事件…
+
+### 刮大风了…
+
+加油呀！这么点风力是成不了「风暴」的。
+
+### 早上好…
+
+早呀，看你精神不好，没做噩梦吧？早知道的话，就该晚些再让你接触重案嘛。
+
+### 中午好…
+
+吃饱了玩点锻炼脑力的游戏吧！继电石？哈哈，这个只能锻炼心态吧。
+
+### 晚上好…
+
+太阳下班的时候，就轮到星星盯着犯人了。
+
+### 晚安…
+
+真好啊，又到了睡觉时间！今天会做怎样的梦呢？
+
+### 关于鹿野院平藏自己·侦探
+
+侦探，就该用脑力摧毁那些犯人企图逃脱的侥幸，所以说，真正的侦探，根本犯不着使用武力嘛。
+
+### 关于鹿野院平藏自己·关键词
+
+我习惯将见到的东西以关键词的形式记在脑子里，它们对推理大有帮助。你看这边这个人，干净裤腿上的猫毛，手腕处的抓痕，看来是想和动物玩，但却不太懂怎么逗猫。那位，很在意自己受伤的手，穿着和身份不符的新鞋…等等，说不定我要有新委托了。
+
+### 关于我们·委托
+
+我看你身边的委托，就像永不干涸的井口一样，捞都捞不完。那我就来沾点便宜吧。你懂的，打架、跑腿、找东西之类的活我是不做的。只做解谜推理，只解重案要案…嘿嘿，记得帮我留意哦。
+
+### 关于我们·必然结果
+
+「巧合」是个好词，听起来就像是命中注定。但可惜侦探不相信巧合，我和你的相遇，是此前每一个选择、每一次行动的必然结果，也就是说，是我们自己决定的哦。
+
+### 关于「神之眼」…
+
+有传言说我不用神之眼也能放倒同僚？唔…我更正一下。第一，我虽然是奉行所同心，但也只是个侦探，动的是脑力。第二，我们平时是不会打架的。第三…欸，蒙不过你啊。那算了~
+
+### 有什么想要分享·成就感
+
+把线索串联起来，一步步找出真凶，直到亲手为拼图嵌上最后一块。那种成就感，哎呀呀，实在是太迷人了。
+
+### 有什么想要分享·同心
+
+同心这个职位，既能带来声望，又离凶案现场最近，这舞台，比我在侦探社的时候大了不少。当然，当然…巡逻和抓捕这种活还是请厉害的人代劳吧，侦探的精力是有限的嘛。
+
+### 感兴趣的见闻…
+
+你对木材有什么研究吗？啊，没错，说的就是那种路边随处可见的树木。犯人蹭到了树皮啦，刮到了木屑啦，踩到了树叶啦，说不好就会留下些什么。根据它们的生长区域，有时还能推断出重要的线索。完全可以说，树是侦探的好朋友啊。
+
+### 关于九条裟罗…
+
+九条裟罗大人啊…绝对是全天领奉行最严肃的人！真希望她能变得宽容一些，多多体谅下属，别再因为偶尔的缺勤责备我了。说到底，我也是为了查案嘛。
+
+### 关于荒泷一斗…
+
+受人所托，我去牢里给他捎过几次烤堇瓜，有次还正巧听到他在唱歌。说实话，歌词很烂，但唱得不错。蹲牢房的人能有这样的精神状态，不算多见。
+
+### 关于久岐忍…
+
+荒泷派真是个自由多元的组织呀，无论是怎样的风格都能接纳。了不起，了不起，多亏那位阿忍小姐管教有方。我是怎么知道的？哈哈，这已经简单到连推理都算不上了吧？
+
+### 关于八重神子…
+
+说起来，宫司大人的八重堂也会出版推理小说吧？什么时候能请你当面引荐一番？在这个时代，要成为名侦探，实力以外，宣传也不能落下。哎呀呀，我哪有别的心思啦。
+
+### 关于枫原万叶·共通点
+
+万叶他呀，太可靠了。在他的提醒下，线索就像装宝石的匣子被翻倒一样，滚落得满地都是了。我要是也有他那种对于自然的感知力…哦！我明白了！「风」之于他，就像是「直觉」之于我吧！
+
+### 关于枫原万叶·邀请
+
+好可惜呀！眼狩令废除后，我就不能堂堂正正地逮捕他了！不过这样一来，也就意味着…我可以光明正大地邀请他来天领奉行，跟我一起讨论案情了吧！
+
+### 关于五郎…
+
+在这位大将的叮嘱下，我的海祇岛之旅可是热闹了不少，到哪都有军士们盯着。天地良心，我不过是个平平无奇的观光群众，最多算个小小侦探，连白萝卜也不会惦记半根的呀。
+
+### 关于珊瑚宫心海…
+
+珊瑚宫大人我是没见过的。毕竟有她出席的场合，村民们会围个里三圈外三圈吧，我就不凑热闹啦。啊，对，最里面那层还要算上巫女！像我们这样的年轻人，想要获得大家的认可，总要多付出一点努力的。
+
+### 关于神里绫华…
+
+我和神里家的大小姐，只能算点头之交吧。还好我的家族不是什么名门。那种生活，可不适合我呀。
+
+### 想要了解鹿野院平藏·其一
+
+就算一个人保持沉默，也能从他的衣着、动作、表情来掌握信息哦。如果接下来我的话就此打住…你又能从我身上读到什么呢？
+
+### 想要了解鹿野院平藏·其二
+
+某次旁听时，我受脑海中的推导鼓动，阻止了判决的下达。如果当时提出的异议无效，那它就不会成为我当侦探的契机，而会是——鹿野院平藏，因扰乱庭审秩序受到拘留处罚，哈哈哈…
+
+### 想要了解鹿野院平藏·其三
+
+调查外遇、寻找宠物…从侦探社接到的案件总是那么几类，不够我挑战自己的呀。我只好找机会溜去天领奉行喽。另一部分的原因，是我跟珊瑚社长的理念不太合拍啦，这也没办法。
+
+### 想要了解鹿野院平藏·其四
+
+刚进天领奉行时，我拿未结案的卷宗来练手，不知不觉间，那座「卷宗山」也快被我咻地推平了…可惜啊，现在已经没时间再看以前的卷宗喽，很多案子都点名要我支援，忙得喘不过气啊…也没办法嘛。足够优秀的侦探，案子会自己找上门来。
+
+### 想要了解鹿野院平藏·其五
+
+面对犯罪的时候，侦探已经失败了。无论怎样还原真相，找出真正的犯人，都无法挽回事件发生造成的损失。所以，我才会想要扩大自己的名声，成为能让坏人想想就感到害怕的名侦探！也就是，扼杀犯罪在摇篮之中。好了，既然把这一点都告诉你了，就快来一起帮我的忙吧。
+
+### 鹿野院平藏的爱好…
+
+要来旁听天领奉行的法庭判决吗？看着真相就像碎裂的剪贴画一样被拼接完整…我可以替你占个绝好的观看席位。我们只要装作不认识就行了，装作。
+
+### 鹿野院平藏的烦恼…
+
+总有人在最后关头暴力反抗，好像那就会管用一样。真是的，我明明期待的是对方在完整的证据和推理面前，认罪伏法的样子。侦探要是动手，不就已经输了吗。
+
+### 喜欢的食物…
+
+被油炸过的食物就没有不好吃的吧？不管是肉还是蔬菜，只要是从油锅里捞上来的，我都爱吃！而且…这种香味，对那些饿肚子的人来说，也很难拒绝得了吧。
+
+### 讨厌的食物…
+
+我很讨厌奉行所的晚饭，总是固定的菜品，规规矩矩的，味道也说不上好。食物嘛，要想吃什么就能吃到什么才会开心。可怜的我，就只能溜出去垫肚子喽。
+
+### 生日…
+
+在知道今天是你的生日之后，有那么一瞬间，我想把你带到一间摆满了机关与礼物的密室里，让你解出谜题后再出来…嘿嘿，开玩笑的啦，在确认你是否喜欢之前，我是不会这么做的。来，和我一起走吧，趁着太阳还没落山，有非常漂亮的景色想和你分享哦！
+
+### 突破的感受·起
+
+我的直觉告诉我…你想让我变强！
+
+### 突破的感受·承
+
+武力是增加了，脑力也有这样的增幅就好了…
+
+### 突破的感受·转
+
+哎呀呀，我真要变成大家口中的「风暴」了。
+
+### 突破的感受·合
+
+谢谢你对我的信任和付出，我的搭档，能做到这一步多亏了你。来击掌吧，接下来也一起去解开更多的谜团！
+
+### 元素战技·其一
+
+吃拳！
+
+### 元素战技·其二
+
+别抵赖！
+
+### 元素战技·其三
+
+来吧！
+
+### 元素爆发·其一
+
+认罪吧！
+
+### 元素爆发·其二
+
+风暴！
+
+### 元素爆发·其三
+
+破开迷雾！
+
+### 打开宝箱·其一
+
+别让宝物翻箱出逃哦~
+
+### 打开宝箱·其二
+
+就是这个，我的直觉不错吧？
+
+### 打开宝箱·其三
+
+哇，好耀眼！
+
+### 生命值低·其一
+
+唉，就非要动武吗？
+
+### 生命值低·其二
+
+好猖狂哦。
+
+### 生命值低·其三
+
+这在侦探的职能以外了吧？
+
+### 同伴生命值低·其一
+
+哎呀呀，小心哦！
+
+### 同伴生命值低·其二
+
+事关重大，换我来。
+
+### 倒下·其一
+
+这不是真相…
+
+### 倒下·其二
+
+呵，侦探变成受害人了…
+
+### 倒下·其三
+
+我竟然会…失算…
+
+### 普通受击·其一
+
+别这样。
+
+### 重受击·其一
+
+真麻烦！
+
+### 加入队伍·其一
+
+有新案子？
+
+### 加入队伍·其二
+
+遇上难题了？和我说说。
+
+### 加入队伍·其三
+
+出发吧，我的搭档。
+
+### 收到赠礼·其一
+
+喔…好吃好吃！费了不少力气吧，太谢谢你啦。
+
+### 收到赠礼·其二
+
+烹饪该算体力活还是脑力活呢，或许都算吧，难怪你能做得这么好！
+
+### 收到赠礼·其三
+
+让我想想…你是在哪个步骤出错了…

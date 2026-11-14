@@ -13,128 +13,17 @@
 # chapter_num_ru: Озорной Кролик. Глава I
 # chapter_num_en: Lepus Chapter: Act I
 # chapter_num_zh: 小兔之章 第一幕
-# part_source_ids: 427,480,481,482,484,485
-# previous_quests:
-# next_quests:
-# related_quests:
+# part_source_ids: 481,480,427,484,485
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_lq_2003
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 481,480,427,484,485,482
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
-
-### Планерист Мондштадта
-
-Оказалось, что Эмбер вручила вам вовсе не руководство, а книжку с детскими сказками... После завершения первого испытания вы узнали, что вторая часть экзамена пройдёт в городской черте Мондштадта. Эмбер уже ждёт вас там.
-
-#### Поговорите с Эмбер
-
-**Эмбер:** Эй! Я здесь!
-
-**Эмбер:** Всё готово. Мы можем продолжать.
-
-**Эмбер:** Условия те же. Тебе нужно пролететь через отметки и добраться до финиша без остановок.
-
-Я готов(а).
-
-#### Послушайте инструкции Эмбер и сдайте экзамен ещё раз
-
-Я хочу попробовать ещё раз.
-
-**Эмбер:** Держись крепко и пусть ветер направит тебя!
-
-#### Поговорите с Эмбер
-
-**Эмбер:** А у тебя неплохо получается! Остался последний этап.
-
-**Паймон:** Проще простого. Ты уже здесь парил(а).
-
-**Эмбер:** Последний этап! Как только ты его пройдёшь, рыцари выдадут тебе лётную лицензию.
-
-**Эмбер:** Думай о лицензии. Приготовились!
-
-Начали!
-
-#### Следуйте установленному маршруту и доберитесь до финиша в указанное время
-
-Я готов(а).
-
-**Эмбер:** У тебя всё получится!
-
-#### Пройти проверку Ордо Фавониус
-
-**Отто:** Здравствуй. Я Отто из Ордо Фавониус.
-
-**Паймон:** Что происходит?
-
-**Отто:** Пожалуйста, предъявите свою лётную лицензию.
-
-- **Путешественник:** Лё... лётную лицензию?
-
-- **Путешественник:** Её съел Барон Зайчик!
-
-**Отто:** Пункт седьмой статьи двенадцатой гражданского кодекса Мондштадта гласит, что полёты над городом без лётной лицензии запрещены. Вы арестованы!
-
-**Отто:** У вас есть право хранить молчание. Всё сказанное вами запомнит ветер.
-
-**Эмбер:** Подождите! Я инструктор по полётам, мы сейчас сдаём экзамен.
-
-**Отто:** Хм. Понятно.
-
-**Отто:** Не лучшее время вы выбрали для своего экзамена.
-
-**Эмбер:** В чём дело?
-
-**Отто:** Одна из сестёр рассказала рыцарям ордена, что видела, как Птеродактиль парит вокруг собора. Я принял твоего / ю ученика / цу за его подельника.
-
-**Паймон:** Птеродактиля?
-
-**Отто:** Известный мондштадтский преступник. Он всегда парит на планере, поэтому его называют Птеродактилем.
-
-**Эмбер:** Должно быть, он летает очень быстро.
-
-**Отто:** Пока что нам не удалось его поймать. Мы хотели заманить его в собор и устроить там засаду.
-
-**Отто:** Но он смог улизнуть с награбленным.
-
-**Отто:** К счастью, сестра отметила артефакты специальными магическими знаками.
-
-**Отто:** Но Птеродактиль слишком быстр, мы не смогли его догнать.
-
-**Эмбер:** Погоня за летающим преступником! Я могу помочь! В какую сторону он полетел?
-
-**Отто:** В последний раз его видели недалеко от Спрингвейла.
-
-**Эмбер:** Доверь эту работу нам! Путешественник и я не оставим ему никаких шансов.
-
-- **Путешественник:** Хорошо.
-
-- **Путешественник:** Получается, я сдал(а) экзамен?
-
-**Эмбер:** Не переживай, мы закончим с этим, как только поймаем Птеродактиля.
-
-**Эмбер:** Мне нужно поговорить с Джинн.
-
-### Разрешение на полёт
-
-Эмбер подготовила для вас специальный экзамен по управлению планером. Также она вручила вам руководство по управлению планером и попросила прочитать его перед экзаменом.
-
-#### Поговорите с Эмбер
-
-**Эмбер:** Эй! Я здесь!
-
-**Эмбер:** Летать над равниной проще простого. Вперёд!
-
-
-**Эмбер:** Отлично! У тебя здорово получается! Неудивительно, что ты смог(ла) парить во время шторма.
-
-**Эмбер:** Следующий этап экзамена пройдёт в Мондштадте. Увидимся там!
-
-#### Послушайте инструкции Эмбер и сдайте экзамен ещё раз
-
-Я хочу попробовать ещё раз.
-
-**Эмбер:** Хорошо! На этот раз точно получится. Я в тебя верю!
 
 ### Лети как ветер
 
@@ -144,13 +33,19 @@
 
 **Эмбер:** Путешественник! Я искала тебя повсюду. Как тебе планер? Нравится парить на ветру?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Неплохо.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Иногда мне кажется, что я летаю слишком высоко.
 
+##### Общее продолжение
+
 **Эмбер:** Похоже, что тебе нравится парящий полёт!
 
-**Эмбер:** Но ты ещё не получил(а) лётную лицензию, верно?
+**Эмбер:** Но ты ещё не получил лётную лицензию, верно? / Но ты ещё не получила лётную лицензию, верно?
 
 **Паймон:** Лётная лицензия? Это ещё что такое?
 
@@ -174,15 +69,21 @@
 
 **Паймон:** Экзамен! Ненавижу экзамены. Но если его будет принимать Эмбер...
 
-- **Путешественник:** Ты же не будешь слишком строга ко мне?
+##### Вариант ответа 1
 
-- **Путешественник:** Ладно, я сам(а) справлюсь.
+- **Путешественник:** Ты же не будешь слишком строга ко мне?
 
 **Эмбер:** Даже не думай об этом! Точка!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Ладно, я сам справлюсь. / Ладно, я сама справлюсь.
+
 **Эмбер:** Путешественник, я уверена, что у тебя не возникнет проблем.
 
-**Эмбер:** Давай устроим быструю проверку твоих лётных навыков. Весь город видел, как ты преследовал(а) дракона!
+##### Общее продолжение
+
+**Эмбер:** Давай устроим быструю проверку твоих лётных навыков. Весь город видел, как ты преследовал дракона! / Давай устроим быструю проверку твоих лётных навыков. Весь город видел, как ты преследовала дракона!
 
 **Эмбер:** Однако мы обязаны соблюдать закон и летать по правилам.
 
@@ -196,13 +97,239 @@
 
 **Эмбер:** Отлично! Когда дочитаешь, ищи меня в долине Ветров.
 
-### Тренировка Полётов в Долине Ветров
+**Паймон:** «Руководство по управлению планером» не звучит как очень интересная книжка.
 
-Мини-игра: Бомбардировка
+- **Путешественник:** Мне ничего не остаётся делать...
+
+- **Путешественник:** Больше похоже на сказку.
+
+**Паймон:** Ладно, пойдём скорее к Эмбер.
+
+- **Путешественник:** Жители Мондштадта чувствуют романтику в обучении полётам.
+
+**Паймон:** Какая увлекательная история! Но для «Руководства по управлению» она написана в слишком странном стиле..
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+### Разрешение на полёт
+
+Эмбер подготовила для вас специальный экзамен по управлению планером. Также она вручила вам руководство по управлению планером и попросила прочитать его перед экзаменом.
+
+#### Пройдите к месту сдачи экзамена
+
+#### Поговорите с Эмбер
+
+**Эмбер:** Эй! Я здесь!
+
+**Эмбер:** Летать над равниной проще простого. Вперёд!
+
+- **Путешественник:** Прочитали, но...
+
+**Эмбер:** Да, понимаю тебя. Это всё непросто.
+
+**Эмбер:** Руководство написано таким сухим языком. Мне совсем не понравилось. Только не говори об этом действующему магистру Джинн.
+
+**Паймон:** Правда? А мне понравились интересные истории из руководства...
+
+**Эмбер:** Интересные истории? Ты имеешь в виду примеры?
+
+**Эмбер:** Мне они тоже нравятся. Мой любимый - про взлёт с помощью Анемо слайма.
+
+**Эмбер:** Если проткнуть слайма, то он оттолкнёт тебя ооочень высоко. Всегда хотела попробовать!
+
+**Паймон:** Я не об этом! Я про маленькую птичку, которая хотела летать.
+
+**Эмбер:** Что? Какая ещё птичка?
+
+**Эмбер:** Дай мне посмотреть! Ой, это же моя детская книжка со сказками...
+
+**Эмбер:** Я перепутала книжки. Прости меня, пожалуйста.
+
+**Паймон:** Как ты могла перепутать детские сказки и руководство по управлению планером?
+
+**Эмбер:** Ох... Мне очень стыдно.
+
+**Эмбер:** Наверное, это потому, что на самом деле именно эти сказки научили меня летать...
+
+**Эмбер:** «Тебе нужен не ветер, а смелость! Смелость позволила первой птице подняться в небо!»
+
+**Эмбер:** Эти сказки дали мне смелость летать, смелость быть скаутом, смелость стать Чемпионом Полётов Мондштадта.
+
+**Эмбер:** Вернёмся к экзамену!
+
+**Эмбер:** Не переживай, просто пари, как обычно.
+
+**Эмбер:** Следуй за метками до самого финиша.
+
+- **Путешественник:** Я готов. / Я готова.
+
+- **Путешественник:** Не могу сказать, что...
+
+**Эмбер:** А вот и вы! Прочитали руководство? Всё запомнили?
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+#### Следуйте установленному маршруту и доберитесь до финиша в указанное время
+
+#### Послушайте инструкции Эмбер и сдайте экзамен ещё раз
+
+**Эмбер:** Обрати особое внимание на свою технику полёта.
+
+**Эмбер:** Если хочешь попробовать ещё раз, просто скажи мне.
+
+- **Путешественник:** Я хочу попробовать ещё раз.
+
+**Эмбер:** Хорошо! На этот раз точно получится. Я в тебя верю!
+
+#### Поговорите с Эмбер
+
+**Эмбер:** Отлично! У тебя здорово получается! Неудивительно, что ты смог парить во время шторма. / Отлично! У тебя здорово получается! Неудивительно, что ты смогла парить во время шторма.
+
+**Эмбер:** Следующий этап экзамена пройдёт в Мондштадте. Увидимся там!
+
+- **Путешественник:** Мне нужно приготовиться.
+
+**Эмбер:** Конечно. Перед полётом всё должно быть готово на 100%.
+
+### Планерист Мондштадта
+
+Оказалось, что Эмбер вручила вам вовсе не руководство, а книжку с детскими сказками... После завершения первого испытания вы узнали, что вторая часть экзамена пройдёт в городской черте Мондштадта. Эмбер уже ждёт вас там.
+
+#### Подойдите к дверям собора в Мондштадте
+
+#### Поговорите с Эмбер
+
+**Эмбер:** Эй! Я здесь!
+
+**Эмбер:** Всё готово. Мы можем продолжать.
+
+**Эмбер:** Условия те же. Тебе нужно пролететь через отметки и добраться до финиша без остановок.
+
+- **Путешественник:** Я готов. / Я готова.
+
+#### Следуйте установленному маршруту и доберитесь до финиша в указанное время
+
+#### Послушайте инструкции Эмбер и сдайте экзамен ещё раз
+
+**Эмбер:** Ты в порядке?
+
+**Эмбер:** Когда будешь готов, попробуем ещё раз. / Когда будешь готова, попробуем ещё раз.
+
+- **Путешественник:** Я хочу попробовать ещё раз.
+
+**Эмбер:** Держись крепко и пусть ветер направит тебя!
+
+#### Поговорите с Эмбер
+
+**Эмбер:** А у тебя неплохо получается! Остался последний этап.
+
+**Паймон:** Проще простого. Ты уже здесь парил. / Проще простого. Ты уже здесь парила.
+
+**Эмбер:** Последний этап! Как только ты его пройдёшь, рыцари выдадут тебе лётную лицензию.
+
+**Эмбер:** Думай о лицензии. Приготовились!
+
+- **Путешественник:** Начали!
+
+#### Пройдите дистанцию за заданное время, следуя меткам
+
+#### Следуйте установленному маршруту и доберитесь до финиша в указанное время
+
+**Эмбер:** Не забывай дышать! Тебе нужна смелость, чтобы взлететь. Но для хорошего приземления тебе нужно успокоиться.
+
+- **Путешественник:** Я готов. / Я готова.
+
+**Эмбер:** У тебя всё получится!
+
+#### Подойдите ко входу в Гильдию искателей приключений
+
+#### Пройти проверку Ордо Фавониус
+
+**Отто:** Здравствуй. Я Отто из Ордо Фавониус.
+
+**Паймон:** Что происходит?
+
+**Отто:** Пожалуйста, предъявите свою лётную лицензию.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Лё... лётную лицензию?
+
+##### Вариант ответа 2
+
+- **Путешественник:** Её съел Барон Зайчик!
+
+##### Общее продолжение
+
+**Отто:** Пункт седьмой статьи двенадцатой гражданского кодекса Мондштадта гласит, что полёты над городом без лётной лицензии запрещены. Вы арестованы!
+
+**Отто:** У вас есть право хранить молчание. Всё сказанное вами запомнит ветер.
+
+**Эмбер:** Подождите! Я инструктор по полётам, мы сейчас сдаём экзамен.
+
+**Отто:** Хм. Понятно.
+
+**Отто:** Не лучшее время вы выбрали для своего экзамена.
+
+**Эмбер:** В чём дело?
+
+**Отто:** Одна из сестёр рассказала рыцарям ордена, что видела, как Птеродактиль парит вокруг собора. Я принял твоего ученика за его подельника. / Одна из сестёр рассказала рыцарям ордена, что видела, как Птеродактиль парит вокруг собора. Я принял твою ученицу за его подельника.
+
+**Паймон:** Птеродактиля?
+
+**Отто:** Известный мондштадтский преступник. Он всегда парит на планере, поэтому его называют Птеродактилем.
+
+**Эмбер:** Должно быть, он летает очень быстро.
+
+**Отто:** Пока что нам не удалось его поймать. Мы хотели заманить его в собор и устроить там засаду.
+
+**Отто:** Но он смог улизнуть с награбленным.
+
+**Отто:** К счастью, сестра отметила артефакты специальными магическими знаками.
+
+**Отто:** Но Птеродактиль слишком быстр, мы не смогли его догнать.
+
+**Эмбер:** Погоня за летающим преступником! Я могу помочь! В какую сторону он полетел?
+
+**Отто:** В последний раз его видели недалеко от Спрингвейла.
+
+**Эмбер:** Доверь эту работу нам! Путешественник и я не оставим ему никаких шансов.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Хорошо.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Получается, я сдал экзамен? / Получается, я сдала экзамен?
+
+##### Общее продолжение
+
+**Эмбер:** Не переживай, мы закончим с этим, как только поймаем Птеродактиля.
+
+**Эмбер:** Мне нужно поговорить с Джинн.
+
+- **Путешественник:** Я подумаю над этим.
+
+**Эмбер:** Перед полётом всё должно быть готово на сто процентов.
+
+- **Путешественник:** Я посмотрю сначала.
+
+**Эмбер:** Не спеши. Я буду ждать тебя здесь.
 
 ### Его называют Птеродактилем
 
 Во время экзамена Отто, рыцарь Ордо Фавониус, принял вас за преступника по кличке Птеродактиль. Когда вы прояснили недопонимание, то предложили помочь с арестом Птеродактиля. Погоня начинается!
+
+#### Выследите Птеродактиля
 
 #### Поговорите с Эмбер
 
@@ -211,6 +338,14 @@
 **Эмбер:** Сестра из собора оставила Анемо метки на похищенном артефакте.
 
 **Паймон:** Используй чувство стихий и смотри в оба!
+
+#### Выследите Птеродактиля
+
+#### Выследите Птеродактиля
+
+#### Выследите Птеродактиля
+
+#### Обсудите с Эмбер подробности охоты на Птеродактиля
 
 #### Обсудите с Эмбер подробности охоты на Птеродактиля
 
@@ -222,7 +357,19 @@
 
 **Эмбер:** Если это след Птеродактиля, то значит его планер сломан.
 
-#### Обсудите с Эмбер подробности охоты на Птеродактиля
+**Эмбер:** Элементальные метки ведут туда.
+
+**Паймон:** Думаешь, он побежал в ту сторону?
+
+**Эмбер:** Мы не узнаем, пока не проверим.
+
+**Эмбер:** Путешественник, давай продолжим искать следы!
+
+**Паймон:** Кажется, там что-то происходит...
+
+**Эмбер:** Какой-то шум... Птеродактиль?
+
+**Эмбер:** Скорее!
 
 **Паймон:** Хм... А как мы поймём, что это следы Птеродактиля, а не Анемо слайма?
 
@@ -232,19 +379,7 @@
 
 **Эмбер:** Помни об этих метках. Их должно быть несложно заметить.
 
-#### Выследите Птеродактиля
-
-**Паймон:** Куда мы пришли?
-
-Здесь следы заканчиваются.
-
-**Эмбер:** Должно быть, элементальная сила артефакта иссякла.
-
-**Эмбер:** Птеродактиль догадался, что артефакт может выдать его местоположение, и послал своих приспешников задержать нас.
-
-**Эмбер:** Так он смог дождаться, пока артефакт перестанет оставлять следы, и скрылся...
-
-**Эмбер:** Ему не уйти!
+#### Проверьте источник странного звука
 
 #### Поговорите с Фаррой
 
@@ -282,13 +417,77 @@
 
 **Эмбер:** Ах, да! Не переживай, рыцари помогут тебе разобраться с оставшимися хиличурлами.
 
+**Фарра:** Если поспешите, то ещё успеете поймать того чудика.
+
+#### Найдите Птеродактиля
+
+#### Одолейте налётчиков
+
+#### Найдите следы Птеродактиля
+
+#### Найдите следы Птеродактиля
+
+#### Найдите следы Птеродактиля
+
+#### Найдите следы Птеродактиля
+
+#### Найдите следы Птеродактиля
+
+#### Выследите Птеродактиля
+
+**Паймон:** Куда мы пришли?
+
+- **Путешественник:** Здесь следы заканчиваются.
+
+**Эмбер:** Должно быть, элементальная сила артефакта иссякла.
+
+**Эмбер:** Птеродактиль догадался, что артефакт может выдать его местоположение, и послал своих приспешников задержать нас.
+
+**Эмбер:** Так он смог дождаться, пока артефакт перестанет оставлять следы, и скрылся...
+
+**Эмбер:** Ему не уйти!
+
 ### Так работают скауты
 
 Вам удалось выследить логово Птеродактиля. Без колебаний вы решаете зайти внутрь. Настало время вершить справедливость!
 
+#### Войдите в убежище Птеродактиля
+
 #### Поговорите с Эмбер
 
 **Эмбер:** Здесь только одна дорога. Птеродактилю больше некуда деваться.
+
+**Эмбер:** Чтобы поймать его, нам придётся немного полетать.
+
+**Паймон:** Внизу полно чудовищ. Они постараются напасть на нас сразу после взлёта.
+
+**Эмбер:** Если мы действительно собираемся это сделать, то нам придётся победить их всех.
+
+**Эмбер:** Путешественник, тебе осталось сдать ещё один этап экзамена, верно?
+
+**Паймон:** Да, но что это за экзамен такой?
+
+**Эмбер:** Этот полёт будет твоим финальным заданием.
+
+**Паймон:** Ты уверена, что так можно?
+
+**Эмбер:** Это уникальное задание, разработанное мной специально для тебя, Путешественник!
+
+**Эмбер:** Разве герой Мондштадта может сдавать стандартный экзамен?
+
+- **Путешественник:** Я сдам экзамен.
+
+- **Путешественник:** Я поймаю Птеродактиля.
+
+**Эмбер:** Что скажешь, Путешественник?
+
+**Эмбер:** Отлично!
+
+**Эмбер:** Путешественник, готовься ко взлёту! Птеродактиль и лётная лицензия ждут тебя. Тебе нужно победить всех врагов!
+
+#### Победите всех монстров
+
+#### Поймайте Птеродактиля
 
 #### Поймайте Птеродактиля
 
@@ -308,31 +507,45 @@
 
 **Эмбер:** Выбирайте выражения, мистер! Вы разговариваете со скаутом Ордо Фавониус! Когда я до вас доберусь, вы пожалеете о своих словах.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Спокойнее, Эмбер.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Давай внимательно осмотримся, как ты меня учила.
 
-**Эмбер:** Ты прав(а).
+##### Общее продолжение
+
+**Эмбер:** Ты прав. / Ты права.
 
 **Эмбер:** Он прямо напротив нас. Если бы только мы могли перелететь к нему...
 
 **Паймон:** Но как он сам туда попал?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Должно быть, здесь есть какой-то механизм.
-
-- **Путешественник:** Элементальная магия?
-
-- **Путешественник:** Крюк? Шипы? Что-нибудь в этом роде?
 
 **Эмбер:** Я не вижу никакого механизма, а зрение у меня очень хорошее.
 
 **Эмбер:** К тому же на скале просто негде его построить.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Элементальная магия?
+
 **Паймон:** Путешественник, ты видишь здесь элементальные следы? Нет? Ну и ладно...
+
+##### Вариант ответа 3
+
+- **Путешественник:** Крюк? Шипы? Что-нибудь в этом роде?
 
 **Паймон:** Слишком большое расстояние.
 
 **Эмбер:** Никаких следов крюков.
+
+##### Общее продолжение
 
 **Птеродактиль:** Пока-пока, девчонка!
 
@@ -346,9 +559,15 @@
 
 **Птеродактиль:** Ха-ха! Эй, девчонка-скаут! С таким же успехом ты можешь спрыгнуть со статуи Анемо Архонта без планера!
 
-- **Путешественник:** Я соглас(е)н(а) с Эмбер.
+##### Вариант ответа 1
+
+- **Путешественник:** Я согласен с Эмбер. / Я согласна с Эмбер.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Рискованный ход, но у нас нет другого выбора.
+
+##### Общее продолжение
 
 **Паймон:** Я понимаю тебя, Путешественник. Похоже, что нам ничего больше не остаётся.
 
@@ -358,7 +577,7 @@
 
 **Эмбер:** Смотри внимательно!
 
-Вперёд, скаут!
+- **Путешественник:** Вперёд, скаут!
 
 **Эмбер:** Давай покажем ему, на что способны рыцари Ордо Фавониус!
 
@@ -367,6 +586,10 @@
 **Эмбер:** Птеродактиль думает, что у меня не получится. Что это за звук? Прислушайся...
 
 **Эмбер:** Ветер говорит, что у меня ПОЛУЧИТСЯ!
+
+#### Перелетите через пропасть
+
+#### Найдите и арестуйте Птеродактиля!
 
 #### Поговорите с Эмбер
 
@@ -402,31 +625,51 @@
 
 **Паймон:** Путешественник, давай как-нибудь возьмём у действующего магистра Джинн копию «Руководства по управлению планером».
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хорошая идея.
 
+##### Вариант ответа 2
+
 - **Путешественник:** У Джинн так много работы...
+
+##### Общее продолжение
 
 **Эмбер:** Я должна сопроводить Птеродактиля в город.
 
 **Эмбер:** Увидимся рядом с собором, я выдам тебе лётную лицензию.
 
+#### Получите лётную лицензию в соборе
+
 #### Поговорите с Эмбер
 
 **Эмбер:** Поздравляю, вот твоя лицензия! У тебя получилось!
 
-**Эмбер:** Хотя, я в этом не сомневалась ни минуты. Ты рождён / ена для полётов.
+**Эмбер:** Хотя, я в этом не сомневалась ни минуты. Ты рождён для полётов. / Хотя, я в этом не сомневалась ни минуты. Ты рождена для полётов.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Это было несложно.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Пришлось постараться.
+
+##### Общее продолжение
 
 **Эмбер:** Тебе обязательно надо принять участие в мондштадтском чемпионате полётов!
 
 **Эмбер:** Я летаю слишком быстро, никто не может поспеть за мной. Становится скучно.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Отлично! Я попробую победить тебя!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Против меня у тебя нет ни единого шанса, Эмбер.
+
+##### Общее продолжение
 
 **Эмбер:** Ха! Да ты даже представить себе не можешь насколько сложный маршрут на чемпионате!
 
@@ -438,9 +681,185 @@
 
 ## EN
 
+### Glide With the Wind
+
+Amber wishes to discuss the matter of how you've been using your wind glider...
+
+#### Talk to Amber
+
+**Amber:** Hey Traveler! I've been looking for you everywhere! How's that wind glider I gave you last time?
+
+##### Response branch 1
+
+- **Traveler:** Pretty good.
+
+##### Response branch 2
+
+- **Traveler:** I keep getting carried away and gliding too high.
+
+##### Shared continuation
+
+**Amber:** Seems like it's really growing on you!
+
+**Amber:** But then again, you don't have a gliding license, do you?
+
+**Paimon:** A gliding license? Hmm... What's that?
+
+**Amber:** Isn't it obvious? You gotta have a gliding license to legally glide in Mondstadt.
+
+**Paimon:** Oh... but Traveler and Paimon have been gliding for ages now. This is the first we've heard about it!
+
+**Amber:** Yeah, you've been gliding all over the place... Everyone's noticed!
+
+**Paimon:** Eh-he.
+
+**Paimon:** Sooo... You came looking for us because you wanna give us a gliding license?
+
+**Amber:** No way! The Knights of Favonius have strict rules.
+
+**Amber:** You need to pass an exam, and only then will the Knights issue your license.
+
+**Amber:** Today I'm here as an examiner, to oversee Traveler's official gliding exam!
+
+**Amber:** I gave you your wind glider, so this is my responsibility — at least, that's what Acting Grand Master Jean would say.
+
+**Paimon:** An exam! What a pain in the butt. Then again, since Amber is the examiner...
+
+##### Response branch 1
+
+- **Traveler:** ...Maybe you can cut me some slack?
+
+**Amber:** No with a capital N-O! Do not challenge the authority of examiner Amber!
+
+##### Response branch 2
+
+- **Traveler:** It's fine. I can do this.
+
+**Amber:** I'm sure Traveler will glide through it!
+
+##### Shared continuation
+
+**Amber:** I mean... The whole city saw how well you flew the day that Stormterror attacked, so I'm sure you'll have no problems!
+
+**Amber:** But we do need to respect the rules and glide properly.
+
+**Amber:** Here. Take this gliding manual. No need to memorize it, just be familiar with everything in there.
+
+**Amber:** For example: only one person per wind glider, no carrying anything over the set weight limit, no taking off using an Anemo Slime, and so on and so forth.
+
+**Amber:** Anyway, be sure to read it, okay? I had to read a load of big, thick books too when Lisa was teaching me magic...
+
+**Paimon:** Wow, that's a big old book... Paimon thinks we best get started!
+
+**Amber:** Great. Come find me when you're done, I'll be at Windrise.
+
+**Paimon:** *sigh* The Knights of Favonius gliding manual does NOT sound like a fun read...
+
+- **Traveler:** Well, guess I'd better get started.
+
+- **Traveler:** It reads like a fairytale...
+
+**Paimon:** Huh. Anyway, let's go find Amber.
+
+- **Traveler:** People in Mondstadt really understand the romance in learning to glide.
+
+**Paimon:** Hmm... That's a cool story... But is the Knights' gliding manual really written in that style?
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+### License to Glide
+
+Amber has specially prepared a gliding exam for you. She has also provided a gliding manual, which she has asked you to read before taking the exam.
+
+#### Go to the exam point
+
+#### Talk to Amber
+
+**Amber:** Hey — here, over here!
+
+**Amber:** Gliding at Windrise is easy-peasy. Off you go!
+
+- **Traveler:** I mean, I read it but...
+
+**Amber:** Sounds like it was a real drag. I would know, I've been there...
+
+**Amber:** The gliding manual is super dry... I couldn't get into it at all. Don't tell Jean though...
+
+**Paimon:** Really? Hmm... Paimon thought there were some pretty cool stories in the gliding manual.
+
+**Amber:** Cool stories? Oh, you must mean the example cases in the Appendix.
+
+**Amber:** Some of them I like. My favorite one is about the illegal Anemo Slime take-off.
+
+**Amber:** Apparently, if you pop an Anemo Slime and take off in the burst of wind, it shoots you up really, really high... I really wanna try it!
+
+**Paimon:** No, not that story. Paimon meant the one with the little bird who wanted to learn to fly.
+
+**Amber:** Ah... What...?
+
+**Amber:** Lemme take a look... Shoot, this is the storybook I used to read as a kid!
+
+**Amber:** Oops, sorry! I put both books in the same pile and must have grabbed the wrong one when I was leaving.
+
+**Paimon:** How in the heck do you confuse a bedtime story with an instruction manual?
+
+**Amber:** Ahh... This is so embarrassing...
+
+**Amber:** It's because... Maybe deep down inside, that fairytale is the thing that truly taught me how to glide...
+
+**Amber:** "What you lacked was not wind. It's courage that's allowed you to become the first flying birds of this world."
+
+**Amber:** Reading that gave me the courage to glide, to become an Outrider, and to become the Gliding Champion of Mondstadt.
+
+**Amber:** ...But anyway, let's get back to the exam!
+
+**Amber:** Don't be nervous, just glide like you're used to.
+
+**Amber:** Okay then. You just need to follow the marked route to the finish.
+
+- **Traveler:** I'm ready.
+
+- **Traveler:** I can't say I really grasped the rules...
+
+**Amber:** Great, you're here! Did you have a good read-through of the gliding manual? Got all the rules down?
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+#### Follow the route and fly to the finish line in time
+
+#### Follow Amber's instructions and take the exam again
+
+**Amber:** You gotta focus on your technique when you're gliding.
+
+**Amber:** If you wanna try again, just let me know.
+
+- **Traveler:** Let's try this again.
+
+**Amber:** Cool. You'll make it this time, I just know it!
+
+#### Talk to Amber
+
+**Amber:** You nailed it! But it's no surprise, given the way you handle your glider in a storm.
+
+**Amber:** The next part of the exam is in Mondstadt. See you there, don't keep me waiting!
+
+- **Traveler:** Let me get myself ready.
+
+**Amber:** Sure. But you gotta be 100% ready to glide.
+
 ### Mondstadt Glider
 
 As it turned out, the book Amber gave you wasn't a manual, but a fairy tale... After completing the first test out in the wild, you learn that the second test is to take place within the city of Mondstadt itself. Amber is waiting for you there.
+
+#### Go to the door of Mondstadt Cathedral
 
 #### Talk to Amber
 
@@ -450,11 +869,17 @@ As it turned out, the book Amber gave you wasn't a manual, but a fairy tale... A
 
 **Amber:** Same deal as before, glide through the markers and get to the finish without stopping in the middle.
 
-I'm ready.
+- **Traveler:** I'm ready.
+
+#### Follow the route and fly to the finish line in time
 
 #### Follow Amber's instructions and take the exam again
 
-I'm ready.
+**Amber:** You didn't hurt yourself, did you?
+
+**Amber:** Once you're ready, let's try again.
+
+- **Traveler:** I'm ready.
 
 **Amber:** Keep a firm grasp on the wind glider and let the wind guide you.
 
@@ -468,13 +893,19 @@ I'm ready.
 
 **Amber:** Just keep thinking about that license. Ready...
 
-...Go!
+- **Traveler:** ...Go!
+
+#### Follow the markers to arrive at the finish line in time
 
 #### Follow the route and fly to the finish line in time
 
-I'm ready.
+**Amber:** Try to stay calm. You need to be brave at takeoff, but the trick to a good landing is to keep your cool.
+
+- **Traveler:** I'm ready.
 
 **Amber:** You can do it! Your gliding license is within your grasp!
+
+#### Reach the doors of the Adventurers' Guild
 
 #### Undergo inspection by the Knights of Favonius
 
@@ -484,9 +915,15 @@ I'm ready.
 
 **Otto:** Please show me your gliding license.
 
+##### Response branch 1
+
 - **Traveler:** Ahh... my um, gliding license is, uh...
 
+##### Response branch 2
+
 - **Traveler:** It got eaten by Baron Bunny...
+
+##### Shared continuation
 
 **Otto:** It is against the law to glide without a license! I am arresting you under Section 7, Article 12 of the Mondstadt Penal Code.
 
@@ -522,102 +959,33 @@ I'm ready.
 
 **Amber:** Leave it to me! With me and Traveler chasing him down together, he doesn't stand a chance.
 
+##### Response branch 1
+
 - **Traveler:** Sure.
 
+##### Response branch 2
+
 - **Traveler:** So... I passed?
+
+##### Shared continuation
 
 **Amber:** Once we've got this Raptor guy, we'll pick up where we left off.
 
 **Amber:** But no need to worry... I'll be sure to have a word with Jean.
 
-### License to Glide
+- **Traveler:** I'll think about it.
 
-Amber has specially prepared a gliding exam for you. She has also provided a gliding manual, which she has asked you to read before taking the exam.
+**Amber:** Before you launch, make sure you're completely ready.
 
-#### Talk to Amber
+- **Traveler:** I'm going to take another look around.
 
-**Amber:** Hey — here, over here!
-
-**Amber:** Gliding at Windrise is easy-peasy. Off you go!
-
-
-**Amber:** You nailed it! But it's no surprise, given the way you handle your glider in a storm.
-
-**Amber:** The next part of the exam is in Mondstadt. See you there, don't keep me waiting!
-
-#### Follow Amber's instructions and take the exam again
-
-Let's try this again.
-
-**Amber:** Cool. You'll make it this time, I just know it!
-
-### Glide With the Wind
-
-Amber wishes to discuss the matter of how you've been using your wind glider...
-
-#### Talk to Amber
-
-**Amber:** Hey Traveler! I've been looking for you everywhere! How's that wind glider I gave you last time?
-
-- **Traveler:** Pretty good.
-
-- **Traveler:** I keep getting carried away and gliding too high.
-
-**Amber:** Seems like it's really growing on you!
-
-**Amber:** But then again, you don't have a gliding license, do you?
-
-**Paimon:** A gliding license? Hmm... What's that?
-
-**Amber:** Isn't it obvious? You gotta have a gliding license to legally glide in Mondstadt.
-
-**Paimon:** Oh... but Traveler and Paimon have been gliding for ages now. This is the first we've heard about it!
-
-**Amber:** Yeah, you've been gliding all over the place... Everyone's noticed!
-
-**Paimon:** Eh-he.
-
-**Paimon:** Sooo... You came looking for us because you wanna give us a gliding license?
-
-**Amber:** No way! The Knights of Favonius have strict rules.
-
-**Amber:** You need to pass an exam, and only then will the Knights issue your license.
-
-**Amber:** Today I'm here as an examiner, to oversee Traveler's official gliding exam!
-
-**Amber:** I gave you your wind glider, so this is my responsibility — at least, that's what Acting Grand Master Jean would say.
-
-**Paimon:** An exam! What a pain in the butt. Then again, since Amber is the examiner...
-
-- **Traveler:** ...Maybe you can cut me some slack?
-
-- **Traveler:** It's fine. I can do this.
-
-**Amber:** No with a capital N-O! Do not challenge the authority of examiner Amber!
-
-**Amber:** I'm sure Traveler will glide through it!
-
-**Amber:** I mean... The whole city saw how well you flew the day that Stormterror attacked, so I'm sure you'll have no problems!
-
-**Amber:** But we do need to respect the rules and glide properly.
-
-**Amber:** Here. Take this gliding manual. No need to memorize it, just be familiar with everything in there.
-
-**Amber:** For example: only one person per wind glider, no carrying anything over the set weight limit, no taking off using an Anemo Slime, and so on and so forth.
-
-**Amber:** Anyway, be sure to read it, okay? I had to read a load of big, thick books too when Lisa was teaching me magic...
-
-**Paimon:** Wow, that's a big old book... Paimon thinks we best get started!
-
-**Amber:** Great. Come find me when you're done, I'll be at Windrise.
-
-### Gliding Training at Windrise
-
-Gliding Bombardment Minigame
+**Amber:** Take your time, I'll be right here when you're done.
 
 ### They Call Him Raptor
 
 During the exam, you were mistaken for the thief Raptor by Otto, a Knight of Favonius, and were stopped. After clearing the misunderstanding, you volunteer to help arrest Raptor — and so begins the chase.
+
+#### Track Raptor
 
 #### Talk to Amber
 
@@ -626,6 +994,14 @@ During the exam, you were mistaken for the thief Raptor by Otto, a Knight of Fav
 **Amber:** The Sister from the Cathedral put some secret Anemo markings on the artifact he took.
 
 **Paimon:** Use your Elemental Sight and keep your eyes peeled for clues.
+
+#### Look for clues to track Raptor
+
+#### Look for clues to track Raptor
+
+#### Look for clues to track Raptor
+
+#### Discuss the details of hunting down "Raptor" with Amber
 
 #### Discuss the details of hunting down "Raptor" with Amber
 
@@ -637,7 +1013,19 @@ During the exam, you were mistaken for the thief Raptor by Otto, a Knight of Fav
 
 **Amber:** If this really belongs to Raptor, it must mean his wind glider is broken.
 
-#### Discuss the details of hunting down "Raptor" with Amber
+**Amber:** It appears that the elemental markings point this way.
+
+**Paimon:** Huh. Well... D'you think he ran off ahead?
+
+**Amber:** There's only one way to find out!
+
+**Amber:** C'mon Traveler, we should keep following the markings.
+
+**Paimon:** Ooh, what's that? Looks like something's going on up ahead...
+
+**Amber:** It sounds like there's a battle going on — could that be Raptor?
+
+**Amber:** Quick, let's keep going!
 
 **Paimon:** Hmm... How do we know if this was left by Raptor or an Anemo Slime?
 
@@ -647,19 +1035,7 @@ During the exam, you were mistaken for the thief Raptor by Otto, a Knight of Fav
 
 **Amber:** Either way, let's make a mental note of these markings. They're very clear.
 
-#### The direction of Raptor
-
-**Paimon:** Huh, look where we are...
-
-There are no more elemental markings ahead.
-
-**Amber:** The elemental power on the artifact must have worn off.
-
-**Amber:** Raptor must have realized the markings would give away his position, and sent his minions to slow us down.
-
-**Amber:** That way, when the effect wears off, he can make his escape.
-
-**Amber:** He won't get away with this! After him!
+#### Investigate the strange sound up ahead
 
 #### Talk to Farrah
 
@@ -697,13 +1073,77 @@ There are no more elemental markings ahead.
 
 **Amber:** Oh, and don't worry — as soon as I get back I'll tell the Knights to mop up the rest of the hilichurls as soon as possible.
 
+**Farrah:** If you're quick, you might be able to catch up with those weirdos.
+
+#### Look for Raptor
+
+#### Defeat the ambush
+
+#### Look for the marks left by Raptor
+
+#### Look for the marks left by Raptor
+
+#### Look for the marks left by Raptor
+
+#### Look for the marks left by Raptor
+
+#### Look for the marks left by Raptor
+
+#### The direction of Raptor
+
+**Paimon:** Huh, look where we are...
+
+- **Traveler:** There are no more elemental markings ahead.
+
+**Amber:** The elemental power on the artifact must have worn off.
+
+**Amber:** Raptor must have realized the markings would give away his position, and sent his minions to slow us down.
+
+**Amber:** That way, when the effect wears off, he can make his escape.
+
+**Amber:** He won't get away with this! After him!
+
 ### Outrider Style
 
 During your pursuit, you track Raptor to his hideout. You plunge into its depths without hesitation. Time to bring this criminal to justice.
 
+#### Enter Raptor's Hideout
+
 #### Talk to Amber
 
 **Amber:** There's only one way over there. Raptor must be up ahead.
+
+**Amber:** However, it looks like the only way we can catch up is if we glide.
+
+**Paimon:** But there's a ton of enemies below... They'll definitely attack us after we take off.
+
+**Amber:** If we're gonna do this, we'll have to glide and defeat them in one fell swoop...
+
+**Amber:** Traveler, you still had one stage to go in your exam, right?
+
+**Paimon:** Yeah, but what's that got to do with anything?
+
+**Amber:** How about we make this the third and final stage of your gliding exam, Traveler?
+
+**Paimon:** Are you sure that's how the exam is supposed to go!?
+
+**Amber:** It's a custom version of the exam for Traveler, designed by yours truly!
+
+**Amber:** Besides, the normal version of the exam wouldn't be fit for the hero of Mondstadt himself! / Besides, the normal version of the exam wouldn't be fit for the hero of Mondstadt herself!
+
+- **Traveler:** Watch me nail this exam.
+
+- **Traveler:** Watch me nail Raptor.
+
+**Amber:** So, what do you say, Traveler?
+
+**Amber:** Woohoo! Good answer.
+
+**Amber:** Traveler, prepare for take-off! Raptor awaits you once you defeat all these enemies, then that gliding license is yours!
+
+#### Defeat all opponents
+
+#### Hunt down Raptor
 
 #### Hunt down Raptor
 
@@ -723,9 +1163,15 @@ During your pursuit, you track Raptor to his hideout. You plunge into its depths
 
 **Amber:** Hey, watch it! You're talking to a Knights of Favonius Outrider! You'll be sorry when I arrest you!
 
+##### Response branch 1
+
 - **Traveler:** Deep breaths, Amber.
 
+##### Response branch 2
+
 - **Traveler:** Let's examine our surroundings — just like you taught me.
+
+##### Shared continuation
 
 **Amber:** ...You're right.
 
@@ -733,21 +1179,29 @@ During your pursuit, you track Raptor to his hideout. You plunge into its depths
 
 **Paimon:** So how did HE get across?
 
+##### Response branch 1
+
 - **Traveler:** Some sort of mechanism?
-
-- **Traveler:** Some kind of elemental magic?
-
-- **Traveler:** A grappling hook, or spikes, or something?
 
 **Amber:** I don't see a mechanism, and I have good eyesight.
 
 **Amber:** Besides, there's nowhere on the ledge that you could build one.
 
+##### Response branch 2
+
+- **Traveler:** Some kind of elemental magic?
+
 **Paimon:** Traveler, can you see anything with your Elemental Sight...? No? Oh, okay... Never mind...
+
+##### Response branch 3
+
+- **Traveler:** A grappling hook, or spikes, or something?
 
 **Paimon:** If it's too far to glide, it's definitely too far for anything like that.
 
 **Amber:** There's also no sign of an anchor point.
+
+##### Shared continuation
 
 **Raptor:** Bye-bye, kiddo...
 
@@ -761,9 +1215,15 @@ During your pursuit, you track Raptor to his hideout. You plunge into its depths
 
 **Raptor:** Oi, Outrider! You have less chance of surviving this than jumping off the Anemo God statue in Mondstadt without your wind glider! Haha!
 
+##### Response branch 1
+
 - **Traveler:** I'm with Amber.
 
+##### Response branch 2
+
 - **Traveler:** This will take some serious guts, but it's not completely impossible.
+
+##### Shared continuation
 
 **Paimon:** Paimon sees your point Traveler... If you rule out everything that's completely impossible, gliding is the only idea left.
 
@@ -773,7 +1233,7 @@ During your pursuit, you track Raptor to his hideout. You plunge into its depths
 
 **Amber:** Be my witness.
 
-Go! Go! Outrider!
+- **Traveler:** Go! Go! Outrider!
 
 **Amber:** Roger! Let's show this guy what an Outrider is made of!
 
@@ -782,6 +1242,10 @@ Go! Go! Outrider!
 **Amber:** Raptor says I'll never make it. But, if you listen carefully...
 
 **Amber:** The wind! The wind says I WILL make it, and that's good enough for me!
+
+#### Glide over the chasm
+
+#### Track down Raptor and arrest him!
 
 #### Talk to Amber
 
@@ -817,13 +1281,21 @@ Go! Go! Outrider!
 
 **Paimon:** ...Traveler, let's go and get a copy of the real gliding manual from Acting Grand Master Jean some time.
 
+##### Response branch 1
+
 - **Traveler:** Sounds good.
 
+##### Response branch 2
+
 - **Traveler:** I feel sorry for Jean...
+
+##### Shared continuation
 
 **Amber:** I'll head off first because I need to escort Raptor back to the city.
 
 **Amber:** Once you're back in the city don't forget to come find me at the Cathedral. I'll issue your gliding license there.
+
+#### Go to the Cathedral to get your gliding license
 
 #### Talk to Amber
 
@@ -831,17 +1303,29 @@ Go! Go! Outrider!
 
 **Amber:** I'm not surprised though, you are a natural after all.
 
+##### Response branch 1
+
 - **Traveler:** Yeah, it was easy.
 
+##### Response branch 2
+
 - **Traveler:** I actually put a lot of effort into this.
+
+##### Shared continuation
 
 **Amber:** Oh — and I'll sign you up for the next Wind Gliding Championship!
 
 **Amber:** I glide so fast that no one can keep up — it's just me up there, on my own, gliding around... It's kinda boring.
 
+##### Response branch 1
+
 - **Traveler:** Cool. I'm definitely gonna win.
 
+##### Response branch 2
+
 - **Traveler:** You won't stand a chance of winning if you sign me up.
+
+##### Shared continuation
 
 **Amber:** Ooh... Fighting talk! Heh. It seems you have no idea how terrifying the championship really is...
 
@@ -853,9 +1337,189 @@ Go! Go! Outrider!
 
 ## ZH
 
+### 风之翼随风而起
+
+#### 任务记录
+
+飞行轰炸玩法
+
+安柏想要与你讨论关于使用风之翼的问题…
+
+#### 与安柏对话
+
+**安柏:** 旅行者！找你好久了，上次给你的风之翼，用起来怎么样？
+
+##### 对话分支 1
+
+- **旅行者:** 感觉还不错。
+
+##### 对话分支 2
+
+- **旅行者:** 总是不自觉飞太高。
+
+##### 共同后续
+
+**安柏:** 看来你用风之翼玩得很开心的样子。
+
+**安柏:** 不过话说回来，你现在肯定还没有飞行执照吧。
+
+**派蒙:** 飞行执照？那是什么东西？
+
+**安柏:** 从名字看也已经很明显了吧？只有拿到飞行执照，才能在蒙德城合法飞行。
+
+**派蒙:** 唔…旅行者都飞了这么久了，之前都没有听说这种东西…
+
+**安柏:** 就是因为你们成天在城里飞来飞去，弄得大家都注意到了！
+
+**派蒙:** 欸嘿。
+
+**派蒙:** 所以，你今天是特意来把飞行执照送来的吗？
+
+**安柏:** 怎么可能！骑士是很有原则的。
+
+**安柏:** 飞行执照先要考试合格，然后再由骑士团统一签发。
+
+**安柏:** 我今天是专门来做你的考官，监督旅行者进行飞行执照考试的！
+
+**安柏:** 毕竟是我把风之翼给你的嘛，要负起责任来——琴团长一定会这么说吧。
+
+**派蒙:** 考试…听起来就很麻烦。但既然是安柏监考，那么…
+
+##### 对话分支 1
+
+- **旅行者:** 能不能稍微通融…
+
+**安柏:** 别这么看着人家，绝·对·不·行。
+
+##### 对话分支 2
+
+- **旅行者:** 我靠自己考就好了。
+
+**安柏:** 旅行者肯定能顺利通过啦。
+
+##### 共同后续
+
+**安柏:** 只是一点小小的测验，你击退风魔龙时的飞行能力全蒙德有目共睹，肯定没问题的。
+
+**安柏:** 不过，规章制度和飞行标准还是需要遵守的。
+
+**安柏:** 这本飞行指南给你，虽然不用背下来，但还是要熟悉一遍才行。
+
+**安柏:** 比如不允许双人共用一架风之翼，不允许携带超规格重物起飞，不允许使用风史莱姆起飞什么什么的…
+
+**安柏:** 总之，你就好好读一下吧，丽莎姐姐教我魔法的时候，也是要我先看很多厚厚的书的…
+
+**派蒙:** 看起来好厚…没办法了，总之先读读看吧。
+
+**安柏:** 嗯！读完以后就来风起地找我吧。
+
+**派蒙:** 西风骑士团的飞行指南，听起来就很难读…
+
+- **旅行者:** 总之先读读看吧。
+
+- **旅行者:** 完全是一本寓言。
+
+**派蒙:** 不管了，我们还是快去找安柏吧。
+
+- **旅行者:** 蒙德人学习飞行的方式真浪漫…
+
+**派蒙:** 是个很好的故事呢…但是骑士团的飞行指南…是这种风格的么？
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+### 飞行的许可
+
+安柏专门为你准备了一场考试，在那之前，她还给了你一本「飞行指南」，要你考试前通读一遍。
+
+#### 前往考试地点
+
+#### 与安柏对话
+
+**安柏:** 喂——我在这我在这。
+
+**安柏:** 风起地简易飞行，开始！
+
+- **旅行者:** 倒是看完了，但…
+
+**安柏:** 唔，这个勉强的语气，我了解我了解。
+
+**安柏:** 飞行指南就是这么枯燥无趣啦，我也一点都看不下去…呀，别告诉琴团长我说过这话。
+
+**派蒙:** 是吗？我觉得这本「飞行指南」里讲的故事其实还蛮有趣的？
+
+**安柏:** 有趣的故事？哦——你是说后面附录的案例啊？
+
+**安柏:** 有些我也挺喜欢，最喜欢的是用风史莱姆违规起飞的那个。
+
+**安柏:** 借助风史莱姆被打破的时候爆发的气流，说是能一下子飞得很高很高，真想试试看哪——
+
+**派蒙:** 不是这个啦！是一只小鸟想要学会飞行的故事…
+
+**安柏:** 咦…啊？！
+
+**安柏:** 我看看…呀！这不是我小时候最喜欢读的寓言书吗？
+
+**安柏:** 对不起！我昨天把它和骑士团飞行指南放在一起，肯定是出门的时候拿错了。
+
+**派蒙:** 这两本书…有拿错的可能性吗？
+
+**安柏:** 呃…事到如今再聊这个，实在有些不好意思。
+
+**安柏:** 但拿错的原因，也许是因为在我心里，这本书才是教会我飞行的指南吧…
+
+**安柏:** 「重要的不是强风而是勇气，是它让你们成为世上最初的飞鸟」。
+
+**安柏:** 就是这句话给了我飞行的勇气，让我成为侦察骑士，和蒙德城的飞行冠军…
+
+**安柏:** 好了好了，不说这些了，我们赶紧开始考试吧。
+
+**安柏:** 别紧张，只要发挥出你平时的飞行水准就好啦。
+
+**安柏:** 按照我给你标记好的路线，一路平稳地飞到终点吧。
+
+- **旅行者:** 我准备好了。
+
+- **旅行者:** 规章制度…实在熟悉不了…
+
+**安柏:** 啊，你来了。已经把飞行指南好好看过了吗？规章制度都熟悉了吧？
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+#### 按指定路线限时飞抵终点
+
+#### 在安柏的指导下重考
+
+**安柏:** 飞行的时候，要把握好诀窍啦。
+
+**安柏:** 想要再试一次的话，就来告诉我吧。
+
+- **旅行者:** 我再试一次。
+
+**安柏:** 好，这次一定没问题。
+
+#### 与安柏对话
+
+**安柏:** 很好！不愧是在暴风里也能掌握平衡的你，顺利通过了。
+
+**安柏:** 接下来的测验是在蒙德城，那么我先去城里了，你也快点过来吧。
+
+- **旅行者:** 我还要再准备一下。
+
+**安柏:** 没问题，起飞之前可要好好准备。
+
 ### 蒙德城的飞行者
 
 原来那本书不是指南，而是童话…这之后你在蒙德野外接受了第一场考试，第二场考试则是在蒙德城。为此，安柏正在城内等你。
+
+#### 到达蒙德大教堂门前
 
 #### 与安柏对话
 
@@ -865,11 +1529,17 @@ Go! Go! Outrider!
 
 **安柏:** 还是和之前的考试形式一样，穿过标记，一口气飞到终点吧。
 
-我准备好了。
+- **旅行者:** 我准备好了。
+
+#### 按指定路线限时飞抵终点
 
 #### 在安柏的指导下重考
 
-再来一次。
+**安柏:** 没有受伤吧！？
+
+**安柏:** 好好准备之后，我们再来一次吧。
+
+- **旅行者:** 再来一次。
 
 **安柏:** 嗯，控制住风之翼，让风带着你飞吧。
 
@@ -883,13 +1553,19 @@ Go! Go! Outrider!
 
 **安柏:** 朝着飞行执照，预备…
 
-…开始！
+- **旅行者:** …开始！
+
+#### 跟随标识，在规定时间内飞到终点
 
 #### 按指定路线限时飞抵终点
 
-我准备好了。
+**安柏:** 不要心急啊，起飞的诀窍在于勇气，降落的要点却是冷静呢。
+
+- **旅行者:** 我准备好了。
 
 **安柏:** 加油，飞行执照近在眼前啦。
+
+#### 到达冒险家协会门口
 
 #### 接受西风骑士团检查
 
@@ -899,9 +1575,15 @@ Go! Go! Outrider!
 
 **奥特:** 请出示一下您的飞行执照。
 
+##### 对话分支 1
+
 - **旅行者:** 飞，飞行执照…
 
+##### 对话分支 2
+
 - **旅行者:** 被，被兔兔伯爵吃掉…
+
+##### 共同后续
 
 **奥特:** 无证非法飞行，依据蒙德城治安管理法第七条第十二款，请跟我走一趟！
 
@@ -937,102 +1619,33 @@ Go! Go! Outrider!
 
 **安柏:** 就放心交给我吧，正好旅行者也在，我们一起追上去，把这只怪鸟抓捕归案吧。
 
+##### 对话分支 1
+
 - **旅行者:** 没问题。
 
+##### 对话分支 2
+
 - **旅行者:** 那飞行执照的考试是不是…
+
+##### 共同后续
 
 **安柏:** 别担心啦，等抓到怪鸟之后，我就直接…
 
 **安柏:** …去帮你向琴团长说明情况，咳。
 
-### 飞行的许可
+- **旅行者:** 我再思考一下。
 
-安柏专门为你准备了一场考试，在那之前，她还给了你一本「飞行指南」，要你考试前通读一遍。
+**安柏:** 嗯…起飞之前，一定要做好万全的准备。
 
-#### 与安柏对话
+- **旅行者:** 我再观察一下。
 
-**安柏:** 喂——我在这我在这。
-
-**安柏:** 风起地简易飞行，开始！
-
-
-**安柏:** 很好！不愧是在暴风里也能掌握平衡的你，顺利通过了。
-
-**安柏:** 接下来的测验是在蒙德城，那么我先去城里了，你也快点过来吧。
-
-#### 在安柏的指导下重考
-
-我再试一次。
-
-**安柏:** 好，这次一定没问题。
-
-### 风之翼随风而起
-
-安柏想要与你讨论关于使用风之翼的问题…
-
-#### 与安柏对话
-
-**安柏:** 旅行者！找你好久了，上次给你的风之翼，用起来怎么样？
-
-- **旅行者:** 感觉还不错。
-
-- **旅行者:** 总是不自觉飞太高。
-
-**安柏:** 看来你用风之翼玩得很开心的样子。
-
-**安柏:** 不过话说回来，你现在肯定还没有飞行执照吧。
-
-**派蒙:** 飞行执照？那是什么东西？
-
-**安柏:** 从名字看也已经很明显了吧？只有拿到飞行执照，才能在蒙德城合法飞行。
-
-**派蒙:** 唔…旅行者都飞了这么久了，之前都没有听说这种东西…
-
-**安柏:** 就是因为你们成天在城里飞来飞去，弄得大家都注意到了！
-
-**派蒙:** 欸嘿。
-
-**派蒙:** 所以，你今天是特意来把飞行执照送来的吗？
-
-**安柏:** 怎么可能！骑士是很有原则的。
-
-**安柏:** 飞行执照先要考试合格，然后再由骑士团统一签发。
-
-**安柏:** 我今天是专门来做你的考官，监督旅行者进行飞行执照考试的！
-
-**安柏:** 毕竟是我把风之翼给你的嘛，要负起责任来——琴团长一定会这么说吧。
-
-**派蒙:** 考试…听起来就很麻烦。但既然是安柏监考，那么…
-
-- **旅行者:** 能不能稍微通融…
-
-- **旅行者:** 我靠自己考就好了。
-
-**安柏:** 别这么看着人家，绝·对·不·行。
-
-**安柏:** 旅行者肯定能顺利通过啦。
-
-**安柏:** 只是一点小小的测验，你击退风魔龙时的飞行能力全蒙德有目共睹，肯定没问题的。
-
-**安柏:** 不过，规章制度和飞行标准还是需要遵守的。
-
-**安柏:** 这本飞行指南给你，虽然不用背下来，但还是要熟悉一遍才行。
-
-**安柏:** 比如不允许双人共用一架风之翼，不允许携带超规格重物起飞，不允许使用风史莱姆起飞什么什么的…
-
-**安柏:** 总之，你就好好读一下吧，丽莎姐姐教我魔法的时候，也是要我先看很多厚厚的书的…
-
-**派蒙:** 看起来好厚…没办法了，总之先读读看吧。
-
-**安柏:** 嗯！读完以后就来风起地找我吧。
-
-### 风起地飞行特训
-
-飞行轰炸玩法
+**安柏:** 要仔细观察喔，我就在这等你。
 
 ### 那家伙叫「怪鸟」
 
 考试途中骑士奥特错将你当成文物盗贼「怪鸟」的同伙拦下。你们向他澄清误会后，自告奋勇帮忙缉捕「怪鸟」。一场追踪开始了。
+
+#### 追踪「怪鸟」
 
 #### 与安柏对话
 
@@ -1041,6 +1654,14 @@ Go! Go! Outrider!
 **安柏:** 他带着的文物上，有修女们偷偷标记的风元素痕迹…
 
 **派蒙:** 那就开启元素视野，仔细留意周围吧。
+
+#### 搜集线索，追踪「怪鸟」
+
+#### 搜集线索，追踪「怪鸟」
+
+#### 搜集线索，追踪「怪鸟」
+
+#### 与安柏讨论追缉「怪鸟」的细节
 
 #### 与安柏讨论追缉「怪鸟」的细节
 
@@ -1052,7 +1673,19 @@ Go! Go! Outrider!
 
 **安柏:** 嗯，如果真是怪鸟，那他的风之翼应该已经坏掉了。
 
-#### 与安柏讨论追缉「怪鸟」的细节
+**安柏:** 元素的痕迹一直指向了前面。
+
+**派蒙:** 难道怪鸟一直往前方逃走了？
+
+**安柏:** 光是这么猜不会得出结论。
+
+**安柏:** 旅行者，我们顺着痕迹追下去吧。
+
+**派蒙:** 咦，前面好像有什么动静…
+
+**安柏:** 好像是战斗的声音，难道是怪鸟？！
+
+**安柏:** 快，我们赶紧过去吧。
 
 **派蒙:** 这痕迹，会是怪鸟还是风史莱姆呢…
 
@@ -1062,19 +1695,7 @@ Go! Go! Outrider!
 
 **安柏:** 总之，很清晰的痕迹，把这里先记下来吧。
 
-#### 怪鸟的去向
-
-**派蒙:** 居然跑到这里来了…
-
-前面已经没有元素痕迹了。
-
-**安柏:** 文物上面的元素力要耗尽了。
-
-**安柏:** 原来是这样，怪鸟一伙知道自己没法处理元素的痕迹，才让手下拖住我们。
-
-**安柏:** 是想等元素的痕迹自然消失吧。
-
-**安柏:** 他不会得逞的，我们赶紧追上去。
+#### 上前查看前方异响
 
 #### 与法拉对话
 
@@ -1112,13 +1733,77 @@ Go! Go! Outrider!
 
 **安柏:** 哦对了，别担心，我回去也会报告骑士团，把残留的丘丘人营地尽快处理掉的。
 
+**法拉:** 你们赶紧向前追去，说不定还能遇到那些奇怪的家伙。
+
+#### 向前寻找怪鸟
+
+#### 消灭埋伏的敌人
+
+#### 寻找怪鸟遗留的痕迹
+
+#### 寻找怪鸟遗留的痕迹
+
+#### 寻找怪鸟遗留的痕迹
+
+#### 寻找怪鸟遗留的痕迹
+
+#### 寻找怪鸟遗留的痕迹
+
+#### 怪鸟的去向
+
+**派蒙:** 居然跑到这里来了…
+
+- **旅行者:** 前面已经没有元素痕迹了。
+
+**安柏:** 文物上面的元素力要耗尽了。
+
+**安柏:** 原来是这样，怪鸟一伙知道自己没法处理元素的痕迹，才让手下拖住我们。
+
+**安柏:** 是想等元素的痕迹自然消失吧。
+
+**安柏:** 他不会得逞的，我们赶紧追上去。
+
 ### 侦察骑士的作风
 
 循着踪迹，你们一路追至「怪鸟藏身地」。为了将他抓捕归案，你们毫不犹豫向深处挺进。
 
+#### 进入「怪鸟藏身地」
+
 #### 与安柏对话
 
 **安柏:** 这里只有一条路，看来怪鸟就在前面。
+
+**安柏:** 看前面的情况，想要追上去只能用飞的了。
+
+**派蒙:** 但是底下有这么多敌人，飞起来一定会被攻击的。
+
+**安柏:** 如果想要过去，必须一边飞一边消灭这些敌人呢…
+
+**安柏:** 对了，旅行者还差最后一项考试没考对吧？
+
+**派蒙:** 是啊，怎么突然问这个？
+
+**安柏:** 那么旅行者的第三项考试，就以这个为主题怎么样？
+
+**派蒙:** 原来考试内容是这样的吗？！
+
+**安柏:** 是我专门为旅行者现场定制的特别版。
+
+**安柏:** 毕竟是拯救了蒙德城的英雄，普通的考试形式怎么配得上嘛。
+
+- **旅行者:** 一定会通过考试的。
+
+- **旅行者:** 一定会抓住怪鸟的。
+
+**安柏:** 旅行者，你怎么说？
+
+**安柏:** 嘿嘿，不错的回答。
+
+**安柏:** 那么，起飞吧旅行者。消灭所有敌人，怪鸟和飞行执照都在前方！
+
+#### 消灭所有魔物
+
+#### 向前追击「怪鸟」
 
 #### 向前追击「怪鸟」
 
@@ -1138,9 +1823,15 @@ Go! Go! Outrider!
 
 **安柏:** 你这是在挑衅西风骑士团的侦察骑士吗？看我现在就飞过去抓住你！
 
+##### 对话分支 1
+
 - **旅行者:** 先冷静一下。
 
+##### 对话分支 2
+
 - **旅行者:** 观察一下周围…这是你教我的。
+
+##### 共同后续
 
 **安柏:** 唔…你说得对。
 
@@ -1148,21 +1839,29 @@ Go! Go! Outrider!
 
 **派蒙:** 但这个怪鸟是怎么过去的？
 
+##### 对话分支 1
+
 - **旅行者:** 难道有可以来回的机关？
-
-- **旅行者:** 活用了某种元素魔法？
-
-- **旅行者:** 用了抓钩或者刺钉之类的？
 
 **安柏:** 以我的眼力，也看不出这种机关的痕迹。
 
 **安柏:** 而且周围也没有能建机关的岩壁。
 
+##### 对话分支 2
+
+- **旅行者:** 活用了某种元素魔法？
+
 **派蒙:** 在旅行者的元素视野里有痕迹吗？…唔，果然也没有？
+
+##### 对话分支 3
+
+- **旅行者:** 用了抓钩或者刺钉之类的？
 
 **派蒙:** 连飞都飞不过去，这种东西也不可能丢过去吧。
 
 **安柏:** 地面上也没有钉桩的痕迹。
+
+##### 共同后续
 
 **「怪鸟」:** 再见了，小姑娘——
 
@@ -1176,9 +1875,15 @@ Go! Go! Outrider!
 
 **「怪鸟」:** 喂，侦察骑士，想要送死的话，不带风之翼从蒙德城的风神像上跳下去才更适合你。
 
+##### 对话分支 1
+
 - **旅行者:** 我明白安柏的意思了。
 
+##### 对话分支 2
+
 - **旅行者:** 虽然需要勇气，但这不是自杀。
+
+##### 共同后续
 
 **派蒙:** 说得没错…除了「飞行」以外的答案，旅行者也认为都已经排除了呢。
 
@@ -1188,7 +1893,7 @@ Go! Go! Outrider!
 
 **安柏:** 接下来，请你见证我吧。
 
-加油！侦察骑士！
+- **旅行者:** 加油！侦察骑士！
 
 **安柏:** 收到！就让那家伙见识一下侦察骑士的勇气吧！
 
@@ -1197,6 +1902,10 @@ Go! Go! Outrider!
 **安柏:** 怪鸟，你是这么觉得的吗？可是你仔细听听，周围微小的声音…
 
 **安柏:** 风说——可以飞了。
+
+#### 飞过断崖
+
+#### 向前追踪，逮捕「怪鸟」！
 
 #### 与安柏对话
 
@@ -1232,13 +1941,21 @@ Go! Go! Outrider!
 
 **派蒙:** …旅行者，之后有空的话，我们去琴团长那里拿一份正经的飞行指南吧。
 
+##### 对话分支 1
+
 - **旅行者:** 好的…
 
+##### 对话分支 2
+
 - **旅行者:** 琴团长真是辛苦了。
+
+##### 共同后续
 
 **安柏:** 总之，我还要把怪鸟押回蒙德城，就先走一步了。
 
 **安柏:** 你回蒙德城之后，记得来大教堂找我，飞行执照还要在那颁发给你呢。
+
+#### 前往大教堂，领取飞行执照
 
 #### 与安柏对话
 
@@ -1246,17 +1963,29 @@ Go! Go! Outrider!
 
 **安柏:** 不过你的飞行技术已经这么好了，顺利通过也是意料之内。
 
+##### 对话分支 1
+
 - **旅行者:** 嗯，很顺利。
 
+##### 对话分支 2
+
 - **旅行者:** 其实挺不容易的。
+
+##### 共同后续
 
 **安柏:** 对了，下次蒙德城飞行大赛，我会帮你报名的！
 
 **安柏:** 我飞得太快了，谁也跟不上，所以总是一个人飞来飞去，也很无聊啦。
 
+##### 对话分支 1
+
 - **旅行者:** 好啊。我会赢下比赛的。
 
+##### 对话分支 2
+
 - **旅行者:** 安柏要拿不到下届冠军咯。
+
+##### 共同后续
 
 **安柏:** 哦？真是大胆的宣言啊。哼哼哼…看来你还不知道飞行大赛的恐怖之处…
 

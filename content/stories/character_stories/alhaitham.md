@@ -257,3 +257,826 @@ And just like the knowledge he has acquired, what he has obtained shall always r
 他不打算花太多时间打量他的神之眼。既然是属于他的东西，什么时候查看都一样。
 
 就像已学会的知识一样，到手的东西跑不了。
+
+# voice_source_ids: 78000,78001,78002,78003,78004,78005,78006,78007,78008,78009,78010,78011,78012,78013,78014,78015,78016,78017,78018,78019,78020,78021,78022,78023,78024,78025,78026,78027,78028,78029,78030,78031,78032,78033,78034,78035,78036,78037,78038,78039,78040,78041,78042,78043,78044,78045,78046,78047,78048,78049,78050,78051,78052,78053,78054,78055,78056,78057,78058,78059,78060,78061,78062,78063,78064,78065,78066
+
+## REPLICAS_RU
+
+### Привет...
+
+Я аль-Хайтам, секретарь Академии. Если хотите ознакомиться с архивом, пожалуйста, подайте заявку по установленной форме. Не заполнили заявку? Ничего страшного. Приходите в другой раз. С приёмными часами можете ознакомиться возле кабинета.
+
+### Поболтаем: Работа
+
+У секретаря простая работа, поэтому я и выбрал эту должность.
+
+### Поболтаем: Чтение
+
+Одних лишь книг недостаточно для развития интеллекта. Учёные Академии - яркий тому пример.
+
+### Поболтаем: Размышления
+
+Хм, в последнее время плохо заполненных заявок стало многовато. Думаю, мне придётся их все отклонить.
+
+### Когда идёт дождь...
+
+Нет ничего хуже, чем выходить из дома в дождь.
+
+### Когда гремит гром...
+
+Это просто природное явление, так что бояться нечего... если, конечно, вы не стоите под деревом.
+
+### Когда идёт снег...
+
+Холодает? А по мне, так неплохо.
+
+### Когда светит солнце...
+
+Отличная погода, чтобы ничего не делать.
+
+### В пустыне...
+
+Проклятье, полные сапоги песка.
+
+### Доброе утро...
+
+Рановато для меня, позволь мне сначала выпить чашку кофе.
+
+### Добрый день...
+
+Если дел нет, я просто надеваю звуконепроницаемые наушники и дремлю.
+
+### Добрый вечер...
+
+Теперь у меня наконец будет немного времени для себя. До свидания.
+
+### Спокойной ночи...
+
+Надеюсь, мой сосед по комнате не будет корпеть всю ночь над очередным проектом... Я бы предпочёл, чтобы его вообще не было дома. Не имею ни малейшего желания надевать наушники на время сна.
+
+### Об аль-Хайтаме: Факты
+
+Не люблю расцвечивать слова пустой риторикой, я предпочитаю говорить о фактах.
+
+### Об аль-Хайтаме: Слухи
+
+Что? Тебя беспокоят слухи обо мне? Тревожиться не о чем. Мне всё равно, веришь ты в них или нет. Главное, чтобы из-за этого лишних проблем не возникало.
+
+### О нас: Приветствие
+
+Не обижайся, если я не отвечу на твоё приветствие на улице. Просто я ношу звуконепроницаемые наушники, вот и всё.
+
+### О нас: Взаимопомощь
+
+Похоже, у тебя достаточно сил, чтобы позаботиться о себе и даже присмотреть за своей маленькой спутницей. Так что не думаю, что мне есть что тебе предложить - по-моему, ты в моей помощи не нуждаешься.
+
+### Глаз Бога...
+
+Честно говоря, этот Дендро Глаз Бога не слишком помогает мне в исследованиях. Но не буду отрицать, в физических столкновениях сила элементов бывает как нельзя кстати, так что какая-то польза от него есть.
+
+### Давай поделимся...
+
+У истины нет хозяина. Человечество - не средство для получения знаний, а знания - не главная цель человечества.
+
+### Интересные вещи...
+
+Многое в мире может привлечь наше внимание, но не стоит слишком доверяться глазам. Если бы истина лежала на поверхности, то и думать бы не пришлось, не так ли?
+
+### О малой властительнице Кусанали...
+
+Богов не стоит отвергать, но и чрезмерное почитание ни к чему. Божествам нужны последователи, и в то же время они лишь часть иерархии живых существ. Поэтому я не горжусь тем, что помог спасти Архонта. Надеюсь, малая властительница Кусанали на меня за это не в обиде.
+
+### О Кавехе: Излишняя чувствительность...
+
+Кавех слишком трепетно относится ко всему и ко всем на своём пути и вечно суетится по пустякам. Возможно, это из-за того, что он очень раним.
+
+### О Кавехе: Жертва обмана...
+
+Как-то на улице продавали со стенда брелоки ручной работы, уверяя, что прибыль от продажи пойдёт на бесплатную еду для детей из бедных семей. Кавех купил не меньше дюжины. И это в Сумеру, где даже лечение для всех бесплатно... Что тут скажешь?
+
+### О Тигнари...
+
+Многие, наверно, считают, что у него дурной нрав, но не думаю, что они объективны. Когда Кавех построил дом прямо в зоне Увядания и устроил там ту ещё неразбериху, Лесному дозору это добавило немало хлопот. Но лесной страж не держал зла на Кавеха. Он даже пригласил его к себе домой поужинать. Хм, может, благодаря таким добрым людям и выживают подобные Кавеху.
+
+### О Дори...
+
+Она хитроумна и бдительна. Умеет брать власть над жизнью в свои руки и воплощать мечты в реальность. Я не оправдываю её действия, но, хоть мы и на разных сторонах, ценю её отношение к жизни.
+
+### О Сайно...
+
+Дело с коллективным сознанием, конечно, прибавило матрам работы, но моя совесть чиста, я к произошедшему отношения не имею. Уверен, что Сайно тоже это понимает, потому и не обращался ко мне по этому поводу.
+
+### О Нилу...
+
+Достоинства и недостатки артиста у всех на виду. Нилу умеет играть на своих сильных сторонах и благодаря этому живёт простой и счастливой жизнью.
+
+### О Дэхье...
+
+У неё столько способностей, жаль, что она попусту растрачивает их среди Пустынников. Если бы только она приняла моё предложение поступить на службу в Академию... С такой помощницей наша работа была бы куда легче. Но спокойная жизнь ей не по нраву, могу это понять. Эх, очень жаль.
+
+### Узнать больше об аль-Хайтаме I
+
+По большей части люди избегают общения со мной. Может, боятся или думают, что со мной трудно поладить. Меня это полностью устраивает.
+
+### Узнать больше об аль-Хайтаме II
+
+Общение с другими людьми никогда меня особо не интересовало, и, как видишь, жизнь моя куда комфортнее, чем у многих. Я бы сказал, что это в достаточной мере доказывает: социальные взаимодействия не входят в число жизненно необходимых вещей.
+
+### Узнать больше об аль-Хайтаме III
+
+Каждый должен во что-то верить и не терять на этот счёт ясности с начала и до конца. В противном случае слишком легко сбиться с пути при столкновении с неожиданностями.
+
+### Узнать больше об аль-Хайтаме IV
+
+Стоит порядку нарушиться, и последствия распространяются как лесной пожар. Я бы этого не хотел, ведь это нарушит мирное течение моей жизни.
+
+### Узнать больше об аль-Хайтаме V
+
+После работы я иногда захожу в таверну пропустить стаканчик. Тебе не это хотелось узнать? Хм, а мне казалось, что информация о том, как я провожу свободное время, куда более личная, чем мои мысли и мнения. Их-то и на доске объявлений любой прочитать может.
+
+### Хобби аль-Хайтама...
+
+Мне нравится читать заумные книги и любоваться тем, как окружающие недоумённо чешут в затылке. Шучу. Чужие страдания мне не в радость. Да и редко какая книга кажется мне заумной.
+
+### Беспокойство аль-Хайтама...
+
+По моим наблюдениям, многие люди сами создают себе неприятности. В жизни и так хватает трудностей, не стоит самим их себе устраивать.
+
+### Любимая еда...
+
+Вкус важнее внешней красоты, иначе приоритеты расставлены неверно. Думаю, это довольно легко понять.
+
+### Нелюбимая еда...
+
+За супом читать неудобно.
+
+### Подарок I
+
+Мм, я вижу, ты разбираешься в приправах.
+
+### Подарок II
+
+Очень в духе времени, неплохо.
+
+### Подарок III
+
+Давай не будем есть это здесь. Не возражаешь, если я... заберу домой?
+
+### День рождения...
+
+С днём рождения. Мне всегда казалось, что люди придают этому празднику слишком большое значение. Не лучше ли обратить этот пыл на то, чтобы сделать свои будни ярче и счастливее? Но, похоже, у тебя с этим всё в порядке. Я не знал, что подарить, поэтому создал для тебя личный канал подачи заявок.
+
+### Чувство возвышения: Начало
+
+Спасибо.
+
+### Чувство возвышения: Нарастание
+
+А, так это не один раз действует.
+
+### Чувство возвышения: Кульминация
+
+Кажется, ты радуешься моим успехам больше меня.
+
+### Чувство возвышения: Окончание
+
+Нельзя дать учёным лентяям из Академии проведать о моих успехах. Если узнают, непременно добавят мне хлопот. Я, конечно, откажусь от всех их предложений, но на общение по этому поводу придётся потратить немало моего времени.
+
+### Элементальный навык I
+
+Получи.
+
+### Элементальный навык II
+
+Вспышка.
+
+### Взрыв стихии I
+
+Рассеивание.
+
+### Взрыв стихии II
+
+Преломление.
+
+### Взрыв стихии III
+
+Процесс исключения.
+
+### Открытие сундука I
+
+Возьми себе.
+
+### Открытие сундука II
+
+Поторопись, пока это не унёс кто-нибудь ещё.
+
+### Низкий уровень HP I
+
+Вот докука.
+
+### Низкий уровень HP II
+
+Планы изменились.
+
+### Низкий уровень HP III
+
+Мне нужно больше времени.
+
+### Низкий уровень HP компаньона I
+
+Позволь-ка я этим займусь.
+
+### Низкий уровень HP компаньона II
+
+Неудивительно.
+
+### Без сознания I
+
+Этого... я не предвидел...
+
+### Без сознания II
+
+Я... ошибся...
+
+### Без сознания III
+
+Серьёзный просчёт...
+
+### Получен тяжёлый удар I
+
+О, какая дерзость.
+
+### Получен тяжёлый удар II
+
+Хм... Ладно.
+
+### Присоединяется к группе I
+
+Да?
+
+### Присоединяется к группе II
+
+Перейдём к делу.
+
+### Присоединяется к группе III
+
+Сколько именно времени на это потребуется?
+
+### Открытие сундука III
+
+Ох...
+
+### Элементальный навык III
+
+Хм.
+
+## REPLICAS_EN
+
+### Hello
+
+I'm Alhaitham, the Akademiya's scribe. If you wish to access an archived file, please submit an application according to the prescribed format.
+Oh, your form isn't ready? Not to worry. You can come again on the next working day. My work hours are posted outside the office.
+
+### Chat: Work
+
+The scribe's work is simple, which is exactly why I took the position.
+
+### Chat: Reading
+
+Book learning alone is not enough to cultivate intelligence. All those scholars in the Akademiya are prime examples.
+
+### Chat: Thinking
+
+Hmm, there have been many poorly written applications lately. I guess I'll just have to reject them all.
+
+### When It Rains
+
+Going out on a rainy day is the worst.
+
+### When Thunder Strikes
+
+It's just a natural phenomenon, so there's nothing to be afraid of... unless you're beneath a tree.
+
+### When It Snows
+
+It's getting cold, you say? I feel fine.
+
+### When the Sun Is Out
+
+This weather is perfect for doing nothing at all.
+
+### In the Desert
+
+Curses, there's sand in my shoes.
+
+### Good Morning
+
+It's a little early for me... Let me get a cup of coffee first.
+
+### Good Afternoon
+
+If there's nothing to do, then I'll just put on my soundproof earpieces and nap for a while.
+
+### Good Evening
+
+I'll be taking some time for myself now. Goodbye.
+
+### Good Night
+
+I hope my roommate won't be hammering away on another one of his projects in the dead of night... Actually, I'd prefer if he wasn't home at all. I really don't want to wear my soundproof earpieces to bed.
+
+### About Alhaitham: Facts
+
+Rather than lacing my words with rhetoric, I prefer speaking factually.
+
+### About Alhaitham: Rumors
+
+Oh? You're concerned about all the rumors you've heard about me?
+Don't bother, because I don't care whether you believe those rumors. Just don't throw extra trouble my way, and we'll be fine.
+
+### About Us: Greetings
+
+Don't be offended if you try to greet me on the street and I don't respond. It's simply because I'm wearing my soundproof earpieces, that's all.
+
+### About Us: Helping Each Other
+
+It seems you're perfectly capable of taking care of yourself, so much so that you even look after that little companion of yours. I don't have any suggestions to offer you, and frankly, you probably don't need my help.
+
+### About the Vision
+
+To be completely honest, this Dendro Vision isn't of much help to my research... However, there's no denying the effectiveness of elemental powers when settling a physical dispute, so it still proves useful at times.
+
+### Something to Share
+
+Truth serves no master. Humankind is not a vehicle for knowledge, nor is knowledge the aim of humankind.
+
+### Interesting Things
+
+There are many things in this world that may catch our eye, but don't always believe what you see. If what we see in the world were all there was to it, then there'd be no need to think, would there?
+
+### About Lesser Lord Kusanali
+
+One should neither dismiss nor overly revere the divine. Gods require followers, and they are also part of a biological hierarchy. That's why I don't take any pride in the fact that I helped rescue a god. I hope Lesser Lord Kusanali doesn't take offense.
+
+### About Kaveh: Overly Sensitive
+
+Kaveh tends to be overly sensitive about everyone and everything he crosses paths with, and he's constantly making a fuss about nothing. Maybe it's because he's too emotionally fragile...
+
+### About Kaveh: Getting Duped
+
+Someone set up a stand on the street saying that for each handmade keychain they sold, a child in poverty would be given a meal. Kaveh bought at least a dozen.
+...This is Sumeru, where even healthcare is free. I needn't say more.
+
+### About Tighnari
+
+Apparently, a lot of people think he has a bad temperament, but I don't think they're giving him a fair chance. When Kaveh built a house right over a Withering Zone and created a huge mess, it ended up being a real headache for the Forest Rangers. Even so, this Forest Ranger didn't hold it against Kaveh. He even invited Kaveh to his house for a meal. Hmm, maybe it's good people like him who allow people like Kaveh to survive.
+
+### About Dori
+
+She's sharp and always keeps an eye out for herself. She knows how to take life by the reins and make her dreams a reality. I'm not condoning her actions, but just because we stand on different sides doesn't mean that I can't appreciate her attitude towards life.
+
+### About Cyno
+
+The hivemind case certainly added to the matra's workload, but my conscience is clear. The root cause of what ultimately transpired actually has nothing to do with me at all. I'm sure Cyno appreciates that, as he hasn't once approached me about the incident.
+
+### About Nilou
+
+The strengths and weaknesses of a performing artist are quite clear. Nilou knows how to play to her strengths, which enables her to live a happy and simple life.
+
+### About Dehya
+
+It's a waste for such a capable person to remain among the Eremites. If only she'd consider my suggestion to join the Akademiya... Our work would become a lot easier with someone like her around, but a predictable life isn't exactly her cup of tea — I can understand that. *sigh* What a pity.
+
+### More About Alhaitham: I
+
+Most people are wary of interacting with me. Perhaps they're afraid, or maybe they think I'm difficult to get along with. I hope to keep things this way.
+
+### More About Alhaitham: II
+
+I've never been interested in social interactions, and as you can see, my life is more comfortable than most. I'd say this is proof enough that being social is not one of life's necessities.
+
+### More About Alhaitham: III
+
+Every person should have something that they believe in and hold on to from beginning to end. Otherwise, it's easy to succumb to the vicissitudes of life and find yourself being led astray.
+
+### More About Alhaitham: IV
+
+Once order is disrupted, the consequences spread like wildfire. I'd like to avoid such a scenario, so I can keep my life intact and uninterrupted.
+
+### More About Alhaitham: V
+
+I'll occasionally go to the tavern for a drink after work.
+That's not what you needed to know about? Huh, I was under the impression that sharing what you do in your free time is more personal than telling someone your thoughts or opinions. After all, you can get those from anybody on the Message Board.
+
+### Alhaitham's Hobbies
+
+I like reading difficult and abstruse books, and seeing others scratch their heads in confusion.
+I'm only joking. I don't delight in others' misery, and rarely do I encounter a book that's difficult for me.
+
+### Alhaitham's Troubles
+
+Based on my observations, many people inflict trouble upon themselves. Life already has enough hardships — no need to add to them.
+
+### Favorite Food
+
+Taste supersedes presentation, else you risk overcomplicating the purpose of food. I think this is simple enough to understand.
+
+### Least Favorite Food
+
+It's difficult to eat soup-like dishes while reading.
+
+### Receiving a Gift: I
+
+Mmm, I can taste your mastery of the seasonings.
+
+### Receiving a Gift: II
+
+Hmm, a contemporary flavor. Not bad.
+
+### Receiving a Gift: III
+
+Let's not eat here. Mind if I... take it home?
+
+### Birthday
+
+Happy birthday. I've always thought people are a little too enthusiastic about celebrating the day they were born. Wouldn't it be better to apply all that enthusiasm towards their daily lives and improve their standards of living? But you seem to have done well for yourself. I didn't know what kind of gift to get, so I'll just set up a special application channel, reserved for your submissions alone.
+
+### Feelings About Ascension: Intro
+
+Thank you.
+
+### Feelings About Ascension: Building Up
+
+Ah, so it wasn't a one-time-only thing.
+
+### Feelings About Ascension: Climax
+
+I think you're more excited than me about this progress.
+
+### Feelings About Ascension: Conclusion
+
+We mustn't let those lazy Akademiya scholars know about the progress I'm making. If they catch wind of this, they'll stop at nothing to make my life even more of a hassle. I'll reject anything they send my way, of course, but the communication required to do so is a huge waste of my time.
+
+### Elemental Skill: I
+
+Here you are.
+
+### Elemental Skill: II
+
+Flicker.
+
+### Elemental Burst: I
+
+Scatter.
+
+### Elemental Burst: II
+
+Diffract.
+
+### Elemental Burst: III
+
+A process of elimination.
+
+### Opening Treasure Chest: I
+
+Here you go.
+
+### Opening Treasure Chest: II
+
+Don't let any of it roll away now.
+
+### Low HP: I
+
+What a drag.
+
+### Low HP: II
+
+The plan's changed.
+
+### Low HP: III
+
+I need more time.
+
+### Ally at Low HP: I
+
+Allow me.
+
+### Ally at Low HP: II
+
+As expected.
+
+### Fallen: I
+
+I didn't... foresee this...
+
+### Fallen: II
+
+I... miscalculated...
+
+### Fallen: III
+
+A grave... oversight...
+
+### Heavy Hit Taken: I
+
+Tch, how bold.
+
+### Heavy Hit Taken: II
+
+Well now...
+
+### Joining Party: I
+
+Yes?
+
+### Joining Party: II
+
+Let's get down to business.
+
+### Joining Party: III
+
+How long will this require, exactly?
+
+### Opening Treasure Chest: III
+
+Huh.
+
+### Elemental Skill: III
+
+Hmph.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我是教令院的书记官艾尔海森。想调阅档案的话，请把你的需求按照正规格式填好申请表后递交。
+还没整理完？没关系。我的工作时间贴在办公室门外，等下个工作日再来吧。
+
+### 闲聊·工作
+
+书记官的工作很简单，我就是因此才做了这个职位。
+
+### 闲聊·读书
+
+读书并不会让人变聪明，看看教令院里的那些家伙就知道了。
+
+### 闲聊·思考
+
+嗯…最近乱七八糟的申请表有点多，都驳回吧。
+
+### 下雨的时候…
+
+雨天出门是最麻烦的。
+
+### 打雷的时候…
+
+没什么可怕的，自然现象而已。除非你往大树下躲。
+
+### 下雪的时候…
+
+很冷吗？我还好。
+
+### 阳光很好…
+
+这种好天气，最适合什么都不干。
+
+### 在沙漠的时候…
+
+糟糕，鞋里进沙子了…
+
+### 早上好…
+
+时间还早，我先去喝杯咖啡。
+
+### 中午好…
+
+没什么事的话，我要戴着隔音耳机睡一会儿。
+
+### 晚上好…
+
+接下来就是私人时间了。再见。
+
+### 晚安…
+
+希望室友不要半夜敲敲打打做模型…或者他不在家最好。我不想晚上睡觉还得戴着耳机。
+
+### 关于艾尔海森自己·事实
+
+比起辞藻的包装，我更喜欢用事实说话。
+
+### 关于艾尔海森自己·流言
+
+哦？听过不少关于我为人的传言吗？很在意？
+没必要，因为我也并不在意你相信与否，只要别徒增额外的事端就好。
+
+### 关于我们·打招呼
+
+要是在街上和我打招呼我却没有反应的话，不要见怪。我只是开了耳机隔音而已。
+
+### 关于我们·互助
+
+你是自理能力非常强的人，甚至能兼顾身边的伙伴。我没什么要给你的建议，你应该也不需要我的帮助。
+
+### 关于「神之眼」…
+
+说实话，草元素「神之眼」对我的研究帮助不大。不过有了元素力后打人倒是更疼了，所以还算有用。
+
+### 有什么想要分享…
+
+真理诞生不是为了服务于谁。人类不是知识的载体，知识也不是人类的目的。
+
+### 感兴趣的见闻…
+
+这世上吸引人注意力的东西有很多，不要太相信自己的双眼。如果所见即为真实，人就不需要思考了。
+
+### 关于小吉祥草王…
+
+过于小瞧或敬畏神明都是不可取的。神明需要信徒，同时神明也是生物链中的一环。所以我并不因为参与拯救过神明而自豪，希望小吉祥草王也不必介怀。
+
+### 关于卡维·关怀…
+
+他对所有人和事都抱有过度的关怀心，可能是因为他自己太脆弱了吧，整天大惊小怪的。
+
+### 关于卡维·上当…
+
+有人在路边摆摊，说只要卖出一个手工钥匙扣，就会有一个贫困家庭的孩子吃上饱饭。卡维买了十几个回来。
+在医疗服务都免费提供的须弥…我不多说了。
+
+### 关于提纳里…
+
+好像很多人觉得他脾气不够好，我倒认为有失偏颇。当初卡维把房子建在死域上，搞出很大一个烂摊子，给巡林队添了不少麻烦。即使如此这位巡林官也没有记恨卡维，还愿意请他在家里吃饭…可能就是因为世界上有这样的好人，才能让卡维继续生存下去吧。
+
+### 关于多莉…
+
+她精明又警觉，懂得如何将梦想落实到实际，是能把生活过得很好的聪明人。没有要包庇她的意思，但立场不同并不影响我认可她的生活态度。
+
+### 关于赛诺…
+
+「集群意识」的案件增加了风纪官们的工作量，但我并没有什么心理压力。说到底，该起事件的根本成因并不在我。赛诺应该也是明白人，后来没再为这事找过我。
+
+### 关于妮露…
+
+艺术家的优点和缺点都很明显。妮露在扬长避短方面做得非常好，所以能过得简单又快乐。
+
+### 关于迪希雅…
+
+能力很强的人，留在镀金旅团里有些浪费。要是她能接受我的提议来教令院任职就好了，有这样的帮手，我们的工作也会轻松不少。不过她对安稳的生活不感兴趣，我能理解。可惜了。
+
+### 想要了解艾尔海森·其一
+
+大部分人都不会主动与我接触，也许是因为忌惮，也许是因为性格不合。对此我很满意。
+
+### 想要了解艾尔海森·其二
+
+我向来对社交不感兴趣。如你所见，我的生活过得比大部分人舒适，这足够证明社交不是生活的必需品了。
+
+### 想要了解艾尔海森·其三
+
+每个人都应该有自己的主张，并始终保持清醒，不然很容易被各种突发状况绑架，甚至误入歧途。
+
+### 想要了解艾尔海森·其四
+
+一旦秩序被破坏，其后果会迅速蔓延。我不喜欢这样，会打扰到我现在的生活。
+
+### 想要了解艾尔海森·其五
+
+下班后我偶尔会去酒馆喝一杯。
+不是想知道这个？什么，我还以为分享闲暇时间是比分享个人观点更隐私的事情。毕竟，无论谁都可以在留言板上侃侃而谈呢。
+
+### 艾尔海森的爱好…
+
+看晦涩难懂的书，欣赏其他人抓耳挠腮的样子。 
+开玩笑的，别人的痛苦并不会给我带来快乐，我也很少碰到读不懂的书。
+
+### 艾尔海森的烦恼…
+
+据我观察，很多人的烦恼都是自找的。生活中已经有不少难处，就别自添烦忧了。
+
+### 喜欢的食物…
+
+美味程度高于美观程度的。很简单的要求吧？不然就是本末倒置了。
+
+### 讨厌的食物…
+
+有汤有水的菜肴很难在看书时吃。
+
+### 收到赠礼·其一
+
+嗯，可以看出对调味配比的精准把控。
+
+### 收到赠礼·其二
+
+是流行的味道，我不讨厌。
+
+### 收到赠礼·其三
+
+不在这吃了。介意我打包回家吗？
+
+### 生日…
+
+生日快乐。我总觉得人们在庆祝出生这一天上付出了不必要的热情，不如把这些精力用在让自己生活中的每一天过得更愉快上来得实际。你这方面做得还可以。
+不知道送什么礼物合适，就给你预留一次申请表的特批通道吧。
+
+### 突破的感受·起
+
+谢谢。
+
+### 突破的感受·承
+
+原来不是一次性的。
+
+### 突破的感受·转
+
+在奋进这件事上，你比我要热心。
+
+### 突破的感受·合
+
+不能让教令院那些喜欢偷懒的家伙知道我又在进步，否则他们会想方设法把麻烦事推给我。我当然不会接了，但沟通起来总要浪费些时间。
+
+### 元素战技·其一
+
+接好了。
+
+### 元素战技·其二
+
+镜闪。
+
+### 元素爆发·其一
+
+散射。
+
+### 元素爆发·其二
+
+分光。
+
+### 元素爆发·其三
+
+理论的推演。
+
+### 打开宝箱·其一
+
+你自己收好。
+
+### 打开宝箱·其二
+
+动作快，东西掉远就难捡了。
+
+### 生命值低·其一
+
+麻烦事。
+
+### 生命值低·其二
+
+计划有变。
+
+### 生命值低·其三
+
+要多花时间了。
+
+### 同伴生命值低·其一
+
+我来吧。
+
+### 同伴生命值低·其二
+
+不意外。
+
+### 倒下·其一
+
+预期之外…
+
+### 倒下·其二
+
+失策。
+
+### 倒下·其三
+
+我的误算。
+
+### 重受击·其一
+
+啧，谁啊。
+
+### 重受击·其二
+
+呃…行。
+
+### 加入队伍·其一
+
+有事？
+
+### 加入队伍·其二
+
+公事公办吧。
+
+### 加入队伍·其三
+
+不需要太长时间吧？
+
+### 打开宝箱·其三
+
+哦。
+
+### 元素战技·其三
+
+哼。

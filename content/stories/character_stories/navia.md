@@ -342,3 +342,928 @@ Thus were her thoughts as she lay at dreamland's door, still clutching the Visio
 等到深夜，生日会现场和她的兴奋劲儿均已收拾妥当，娜维娅平躺在床上，却怎么也回忆不起获得神之眼时自己正在想些什么。是在感叹历经千辛万苦的游戏终于得到胜利，还是在许愿今后的每个生日都能有亲朋好友陪伴？
 如果是前者，似乎侧面说明想迎来圆满的结局必先遭遇重重困境…所以，还是后一个吧。
 娜维娅在半梦半醒间这么想着，手握神之眼慢慢睡着。
+
+# voice_source_ids: 91000,91001,91002,91003,91004,91005,91006,91007,91008,91009,91010,91011,91012,91013,91014,91015,91016,91017,91018,91019,91020,91021,91022,91023,91024,91025,91026,91027,91028,91029,91030,91031,91032,91033,91034,91035,91036,91037,91038,91039,91040,91041,91042,91043,91044,91045,91046,91047,91048,91049,91050,91051,91052,91053,91054,91055,91056,91057,91058,91059,91060,91061,91062,91063,91064,91065,91066,91067,91068,91069,91070,91071,91072,91073,91074
+
+## REPLICAS_RU
+
+### Привет...
+
+Приятно познакомиться! Я Навия, действующая глава, лидер, командир, исполнительный директор и босс Спина-ди-Росула. Ты похож на человека выдающихся талантов. Что-то мне подсказывает, что это начало долгого взаимовыгодного сотрудничества... Может, даже настолько же долгого, насколько длинно перечисление титулов перед моим именем. / Приятно познакомиться! Я Навия, действующая глава, лидер, командир, исполнительный директор и босс Спина-ди-Росула. Ты похожа на человека выдающихся талантов. Что-то мне подсказывает, что это начало долгого взаимовыгодного сотрудничества... Может, даже настолько же долгого, насколько длинно перечисление титулов перед моим именем.
+
+### Поболтаем: Путешествия
+
+Очень хочу попутешествовать! Неважно, куда мы поедем, лишь бы с друзьями, хе-хе.
+
+### Поболтаем: Опыт
+
+За годы в Спина-ди-Росула я осознала, что носить ненадёжное оружие хуже, чем не иметь оружия вовсе.
+
+### Поболтаем: Логотип
+
+Мне очень нравится логотип Спина-ди-Росула. Его создала моя мама. Ты заметил, что он похож на сердце? / Мне очень нравится логотип Спина-ди-Росула. Его создала моя мама. Ты заметила, что он похож на сердце?
+
+### Когда идёт дождь...
+
+Эх... Опять дождь...
+
+### Когда гремит гром...
+
+Ой! Надо было уши заткнуть, когда увидела молнию!
+
+### Когда идёт снег...
+
+Пожалуй, мне стоит снять шляпу, и пусть снежинки падают на лицо... Думаю, ощущу приятную прохладу.
+
+### Когда светит солнце...
+
+Смотри скорее! Вон, в небе! Видишь палящее солнце, словно доменная печь? Знаешь, что это значит? Это значит, что пора нам всё бросить и бежать за мороженым! Мы купим два самых больших рожка, которые у них есть, и посмотрим, кто из нас успеет съесть рожок, пока он не растает!
+
+### После дождя...
+
+Наконец-то! Дождь прекратился!
+
+### Когда дует сильный ветер...
+
+Ах... Моя шляпа! Моя юбка! Не заставляйте меня выбирать!
+
+### В пустыне...
+
+Тёмные очки защищают глаза от песка, так что можно видеть, куда идёшь! Разве что ночью совсем ничего не видно...
+
+### Доброе утро...
+
+Доброе утро! Есть планы на сегодня? Если нет, то почему бы не провести день вместе?
+
+### Добрый день...
+
+Я слышала о недавно появившемся новом виде лазаньи. Может, вместе попробуем? Уверена, что она совсем не вкусная, но я обязательно должна её попробовать!
+
+### Добрый вечер...
+
+Сегодня в заголовках вечерних газет: «Глава Спина-ди-Росула провела прекрасный день со своим любимым напарником!» / Сегодня в заголовках вечерних газет: «Глава Спина-ди-Росула провела прекрасный день со своей любимой напарницей!»
+
+### Спокойной ночи...
+
+Скорее, время очистить разум и хорошенько выспаться! Увидимся завтра!
+
+### О Навии: Оптимизм
+
+Я всегда говорю, что слепой оптимизм никуда не годится - счастья в жизни нужно добиваться своими руками! Так что подойди сюда... Возьмёмся за руки. Ну как? Разве не здорово?
+
+### О Навии: Удача
+
+Те, кто знает о моём прошлом, могут подумать, что на мою долю выпало немало несчастий, но я так не считаю. Я думаю, что мне очень повезло, ведь я окружена любовью.
+
+### О нас: Напарники
+
+Некоторые называют меня боссом, некоторые - демуазелью, но меня это не волнует. Больше всего мне нравится, когда ты называешь меня напарницей. Так что, пожалуйста, потешь моё тщеславие, и называй меня так чаще.
+
+### О нас: Секреты
+
+Говорят, что рассказанный секрет уже не секрет, но я считаю, что друзья хранят секреты друг друга... Что? Завуалированная угроза? Нет, вовсе нет! Конечно, как у главы Спина-ди-Росула, у меня есть свои способы заставить людей держать язык за зубами, но ты не волнуйся - обещаю, что не стану применять их к тебе.
+
+### Глаз Бога...
+
+Вот, посмотри на мой Глаз Бога! Блестящий такой. Очень подходит к моему платью, да? Но это ничто в сравнении с тем, что ты используешь элементы без Глаза Бога... И без всяких тренировок же, да? Так здорово.
+
+### Давай поделимся: Собаки
+
+Из всех пород собак мне больше всего нравятся тёмно-каштановые гончие. У них такие пятнышки над глазами, прямо как брови, да? Поэтому они выглядят очень невинно и искренне. Но, пожалуйста, никому об этом не рассказывай - не хочу обидеть других собак.
+
+### Давай поделимся: Надёжная Спина-ди-Росула
+
+Если проведёшь достаточно времени во Флёв Сандр, то заметишь, что в Фонтейне кроме Спина-ди-Росула есть много других организаций. Остерегайся их - у каждой свои планы, и не все они так дружелюбны, как мы. Если окажешься в затруднительном положении, то всегда можешь обратиться за помощью к господину Тетро в баре. Но если имеешь дело с кем-то, кто не настроен сидеть и разговаривать, то... Белая Перчатка всё уладит. Можешь на него рассчитывать.
+
+### Интересные вещи...
+
+Мне очень нравится дожделотос - такой красивый оттенок. А ещё, когда они полностью распускаются, это значит, что сезон дождей наконец закончился.
+
+### О Клоринде...
+
+Она мало говорит и мало показывает свои эмоции, но я вижу, что её переполняют переживания. После смерти отца я... это нас сильно отдалило. Тогда мне очень не нравилось, как она осторожничала рядом со мной... Сейчас всё-таки намного лучше.
+
+### О Шарлотте...
+
+Шарлотта известна своими сенсационными репортажами, но меня больше впечатляет её мастерство фотографа. Однажды она на ходу сфотографировала меня, сделав поясной портрет. Результат оказался потрясающим - словно смотришь на картину маслом. У неё талант писать выдающиеся репортажи и делать захватывающие фотографии. Она прирождённый репортёр.
+
+### О Тиори...
+
+А, модельер, которая познакомила фонтейнцев с самыми модными трендами Инадзумы? На самом деле она втайне во многом помогла Спина-ди-Росула. Она говорит, что мои нестандартные идеи всегда вдохновляют её, и, судя по всему, это действительно так. Но всё же на мою просьбу о шляпе десяти метров высотой она ответила отказом. Ах, только представь, как бы этот головной убор смотрелся перед магазином. Такая реклама была бы.
+
+### О Фурине...
+
+В юности мне посчастливилось увидеть её выступление в опере. Она выступала на благотворительном шоу, но достать билеты было практически невозможно! Она тогда предстала в другом образе, но мне показалось, что она была более естественна, чем когда-либо в роли Архонта, произносящего речи в ложе оперы... Вспоминая об этом сейчас, понимаю, что была права.
+
+### О Нёвиллете...
+
+Ах, как описать месье Нёвиллета... Он... сложный в одних вопросах, но очень простой в других. Думаю, хорошей аналогией будут скалистые рифы в море: пытаясь пройти через препятствия, которых не видишь, будешь судорожно бросаться из стороны в сторону, но если сможешь понять принципы действия, увидишь подсказки.
+
+### О Ризли...
+
+Пытаться обсуждать что-либо с этим человеком очень утомительно. Клоринда говорит, что мне не стоит опасаться сотрудничать с ним в рамках ранее заключённого соглашения. Однако мне не стоит верить всему, что он говорит. Неудивительно, что мой отец никогда не пытался вмешиваться в дела крепости... Лучше быть осторожнее и продолжать придерживаться той же линии.
+
+### О Слуге...
+
+Она грозный, но заботливый лидер, и, безусловно, главная в доме. Но она всё же Предвестница Фатуи, а значит, у неё должна быть и более безжалостная сторона. Не волнуйся: хоть я всегда буду ценить то, что она сделала для Пуассона, я не собираюсь полностью терять с ней бдительность.
+
+### О Лини и Линетт...
+
+Я знаю, что фокусники часто кичатся и пускают пыль в глаза, но я могу сказать, что Лини - искренний парень, который очень заботится о своих друзьях и семье. Он настолько по-взрослому мыслит для своего возраста, что иногда это застает меня врасплох... О, и как я могла забыть? Было так мило с его стороны попытаться развеселить детей в Пуассоне, устроив импровизированное бесплатное магическое шоу во время наводнения! Надо будет пригласить его и Линетт к себе и угостить пирожными-макаронами, когда будет возможность. Я знаю, что Линетт постоянно создаёт чашки с чаем из воздуха, так что, по крайней мере, она точно любит правильные чаепития.
+
+### Узнать больше о Навии I
+
+Работа в Спина-ди-Росула в основном... ну, понемногу занимаемся всем подряд, но главное - это решение проблем других людей. ...Хотя, наверное, это звучит негативнее, чем есть на самом деле. Конечно, я беру на себя чужие проблемы, но всегда получаю много радости от того, что могу кому-то помочь.
+
+### Узнать больше о Навии II
+
+Я убеждена, что важно ценить красоту мира. Распускающиеся цветы весной, лето у моря, улыбки на лицах друзей... Не стоит воспринимать всё это как должное.
+
+### Узнать больше о Навии III
+
+Иногда я люблю выбраться на природу, найти тихое место, где никого нет, и пострелять по мишеням. Это отличный способ отдохнуть! Хочешь попробовать? Я могу всё показать тебе шаг за шагом. Ты будешь моим первым учеником, но я уверена, что буду отличным учителем. Я до сих пор помню всё, чему меня учили папа и няня Бракари! / Иногда я люблю выбраться на природу, найти тихое место, где никого нет, и пострелять по мишеням. Это отличный способ отдохнуть! Хочешь попробовать? Я могу всё показать тебе шаг за шагом. Ты будешь моей первой ученицей, но я уверена, что буду отличным учителем. Я до сих пор помню всё, чему меня учили папа и няня Бракари!
+
+### Узнать больше о Навии IV
+
+Я не стану таким же человеком, каким был мой отец. Некоторые ветераны Спина-ди-Росула считают, что я всё больше и больше похожа на него, но я думаю, что это поверхностное суждение, порождённое тем простым фактом, что у некоторых проблем есть только одно решение. Спина-ди-Росула сильно изменилась со времён моего отца, и я намерена по-иному руководить нашей организацией, отвечая на вызовы современности.
+
+### Узнать больше о Навии V
+
+Я также не думаю, что буду подобна моей матери. Говорят, у нас схожие характеры, и я могу понять, почему она вынуждена была принять те решения, но даже в этом случае... Мне вдруг захотелось проехаться по линии Клементина. Ты со мной? У меня нет определённой цели, но... может быть, мы могли бы потом прогуляться по городу?
+
+### Хобби Навии...
+
+Я с детства люблю выпечку. В ней есть что-то волшебное. Сваливаешь в кучу случайные ингредиенты в нужных количествах, ставишь смесь в духовку, а потом наблюдаешь, как тесто медленно поднимается и превращается во вкусное лакомство... Хочешь как-нибудь вместе испечь пряники? Мы можем превратить это в весёлое соревнование - кто построит самый большой и красивый пряничный домик!
+
+### Беспокойство Навии...
+
+Уборка после выпекания торта - сущий кошмар. Мука повсюду, а остатки яичных белков и крема липкие и противные... Я... Я найду себе помощника!
+
+### Любимая еда...
+
+Я люблю пробовать новое и удивляться. Прежде чем ты усомнишься в моём чувстве вкуса, позволь пояснить: да, мне нравятся незнакомые блюда, но это не значит, что все они потрясающие по моему мнению.
+
+### Нелюбимая еда...
+
+Терпеть не могу остатки еды, пролежавшие слишком долго. Кощунство - пренебрегать пищей, когда она свежая, а потом есть зачерствевшую...
+
+### Подарок I
+
+Кулинария - чудесное занятие! В следующий раз, когда мы отправимся в путь, мне стоит взять с собой ингредиенты и посуду, а ты будешь шеф-поваром.
+
+### Подарок II
+
+Неплохо! В следующий раз ты приготовишь, а я сервирую для подачи. Тогда будет не только вкусно, но и красиво.
+
+### Подарок III
+
+Не падай духом! Миру нужны люди, которые не боятся нового.
+
+### День рождения...
+
+Веришь ли ты в то, что желания сбываются? Ну, знаешь, как когда бросаешь монетку в фонтан на удачу? Если бросить достаточно монет, то какое-то из желаний обязательно сбудется, верно? Сегодня твой день рождения, поэтому я не оставляю ничего на волю случая - у меня здесь целый мешок моры, чтобы исполнить твоё желание. Я постараюсь исполнить всё, что ни пожелаешь!
+
+### Чувство возвышения: Начало
+
+Это чувство похоже на... лимонный чизкейк!
+
+### Чувство возвышения: Нарастание
+
+Когда крем тает на кончике языка, все переживания тают вместе с ним.
+
+### Чувство возвышения: Кульминация
+
+Доводилось видеть шоколадные конфеты в форме пули? Они такие сладкие, что как будто мгновенно заряжают энергией. Вот я сейчас чувствую то же самое!
+
+### Чувство возвышения: Окончание
+
+Всё, что мне сейчас нужно, - это чайник успокаивающего чая с небольшим количеством молока, и наше чаепитие наконец-то начнётся... Но если серьёзно, одним чаепитием не отплатить тебе за всё, что ты делаешь. Так что, если тебе что-нибудь понадобится в Фонтейне, знай, что Спина-ди-Росула всегда будет рада помочь.
+
+### Элементальный навык I
+
+Осторожно!
+
+### Элементальный навык II
+
+Атакую!
+
+### Элементальный навык III
+
+Эй ты!
+
+### Элементальный навык IV
+
+Думаешь, сможешь уклониться?
+
+### Элементальный навык V
+
+Вот это по твою душу!
+
+### Элементальный навык VI
+
+Зонтичное оружие, полагаю?
+
+### Взрыв стихии I
+
+Огонь! Хоть и камнями.
+
+### Взрыв стихии II
+
+Получи подарочек! От Спина-ди-Росула с любовью.
+
+### Взрыв стихии III
+
+Мощная атака! Угу, вот так.
+
+### Открытие сундука I
+
+Ого! Какая удача!
+
+### Открытие сундука II
+
+Давай быстрее заберём!
+
+### Открытие сундука III
+
+Обожаю охоту за сокровищами!
+
+### Низкий уровень HP I
+
+Слабовато...
+
+### Низкий уровень HP II
+
+Делай что должен!..
+
+### Низкий уровень HP III
+
+Сосредоточься, Навия!
+
+### Низкий уровень HP компаньона I
+
+Глава решит этот вопрос!
+
+### Низкий уровень HP компаньона II
+
+Помощь прибыла!
+
+### Без сознания I
+
+Как будто я... вернулась домой...
+
+### Без сознания II
+
+Прости, напарник... / Прости, напарница...
+
+### Без сознания III
+
+Нет... даже я...
+
+### Получен лёгкий удар I
+
+В чём дело?
+
+### Получен тяжёлый удар I
+
+Откуда такой удар?!
+
+### Получен тяжёлый удар II
+
+А... Ничего страшного!
+
+### Присоединяется к группе I
+
+Я с вами.
+
+### Присоединяется к группе II
+
+Спина-ди-Росула берётся за дело!
+
+### Присоединяется к группе III
+
+Сегодня я поведу вас!
+
+### Об Эскофье...
+
+Моя хорошая подруга Эскофье наконец прервала своё затворничество... Давно пора. Заперлась у себя, чтобы превзойти собственный шедевр - торт «Дебор». Удивительно, что она вообще переносит солнечный свет после стольких дней взаперти. Знаешь что? Нам всем стоит как-нибудь выбраться на пикник! Я обязательно захвачу ей солнцезащитные очки и зонтик. Поверь, ты будешь в восторге! С Эскофье даже самая простая прогулка превращается в изысканный обед!
+
+## REPLICAS_EN
+
+### Hello
+
+Nice to meet you! I am Navia, the esteemed president, leader, commander-in-chief, executive director, and Boss of Spina di Rosula. You strike me as somebody special — a person of character. Something tells me that this is the beginning of a long partnership between us... perhaps even as long as all the titles in front of my name.
+
+### Chat: Traveling
+
+I really wanna go traveling! I don't mind where we go, as long as I have my friends with me, hehe.
+
+### Chat: Speaking From Experience
+
+My time with the Spina has taught me that carrying an unreliable weapon is worse than not carrying one at all.
+
+### Chat: Logo
+
+I do love Spina di Rosula's logo. It was designed by my mother. Have you noticed how it's shaped like a heart?
+
+### When It Rains
+
+Ugh... It's raining again...
+
+### When Thunder Strikes
+
+Aaah! Ugh, I should have covered my ears when I saw the flash!
+
+### When It Snows
+
+Maybe I should take off my hat, and let the snowflakes fall onto my face... I feel like that would be really refreshing.
+
+### When the Sun Is Out
+
+Quick, look! Up in the sky! Look at that scorching sun, it's like a blast furnace! You know what this means? It means we have to drop everything, right now, and make a run for the ice cream store! We need to get two of the biggest cones they sell, and then it's an all-out race to see who can finish before it melts!
+
+### After the Rain
+
+Finally! The rain has stopped!
+
+### When the Wind Is Blowing
+
+*gasp* My hat! No, my skirt! Aah, don't make me choose!
+
+### In the Desert
+
+Sunglasses are great at keeping the sand out of your eyes so you can see your way! Except at night... then you can't see anything at all...
+
+### Good Morning
+
+Morning! Any plans for the day yet? If not, why don't you hang out with me?
+
+### Good Afternoon
+
+I've heard about this weird new kind of lasagna that's just come out. You wanna try it together? Sounds like it'll taste pretty strange... but I still gotta try it!
+
+### Good Evening
+
+In the headlines tonight, President of Spina di Rosula in "awesome" mood after spending another fantastic day with her favorite partner!
+
+### Good Night
+
+Come on now, time to empty your mind and get a good night's sleep! I'll see you tomorrow~
+
+### About Navia: Optimism
+
+I always say that blind optimism isn't the answer — if you want a bright future, you have to go out and seize it with your own two hands! So, come over here... Now, take my hands in yours and give them a good shake. There! See, doesn't that feel good?
+
+### About Navia: Luck
+
+People who know about my past might think I've suffered a lot of misfortune, but I don't see it like that at all.
+I count myself lucky to have received so much love in life.
+
+### About Us: Partners
+
+Some people call me "Boss," others "Demoiselle," but none of that does anything for me. My favorite thing to be called is "partner" — but only by you, of course. So, just know that my vainer side would be over the moon if you could indulge me a little more often.
+
+### About Us: Keeping Secrets
+
+People say that a secret shared is a secret no more, but I like to think that true friends keep each other's secrets. ...What? Veiled threat? No, of course not! Granted, as president of Spina di Rosula, I do have my ways of making people keep their mouths shut, but don't worry — I promise not to use those on you.
+
+### About the Vision
+
+Here, take a look at my Vision! I love how shiny it is. Doesn't it go great with my dress?
+Still, it's nothing compared to using the elements without a Vision... And with no training or anything either, right? So cool.
+
+### Something to Share: Dogs
+
+My favorite dog breed of all is the chestnut hunting hound. You know how they have the little spots above their eyes? They look just like eyebrows, don't they? That's why they look so innocent and earnest all the time. Please keep this a secret for me, though — I don't wanna hurt the other dogs' feelings!
+
+### Something to Share: The Dependable Spina di Rosula
+
+If you've spent long enough in the Fleuve Cendre, you might have noticed that there are a lot of other groups in Fontaine besides the Spina di Rosula. Beware of them — they each have their own agenda, and they're not all friendly like us. If you ever find yourself in a tight spot, you can always ask Mr. Tetreaux at the bar for help. Unless you're dealing with someone who isn't in the mood to sit down and have a conversation, in which case... White Glove will sort things out. You can count on him.
+
+### Interesting Things
+
+I really love the Pluie Lotus — it's such a beautiful color. Plus, when you see them in full bloom, it's a sure sign that the rainy season is finally over.
+
+### About Clorinde
+
+She might not say much, or show a lot of emotion, but I can tell that she feels deeply. After my father's death, I... well, it caused quite a rift between us for a long time. But even then, I never did like having her constantly walking on eggshells around me... I much prefer how things are now.
+
+### About Charlotte
+
+Charlotte's known for her fast-and-furious reporting, but it's her photography skills that really impress me. She once snapped a quick photo of me, a waist-up shot, and the result was absolutely stunning — it was like looking at an oil painting. She seems to have a knack for writing extraordinary news stories and taking the most eye-catching photos. Guess she was born to be a journalist.
+
+### About Chiori
+
+Ah, the fashion designer who brought the coolest Inazuman trends to Fontaine? She's actually been a great help to the Spina behind the scenes. She says my unorthodox ideas always give her a lot of inspiration for her work, and from what I can tell, I think she means it. Still, she drew the line at my request for a ten-meter-tall top hat. *sigh* Missed opportunity, if you ask me... Imagine seeing one of those in front of the shop! It would be a great way to draw in customers.
+
+### About Furina
+
+I was lucky enough to catch her in an opera when I was young. Even though it was a charity show, the tickets were nearly impossible to get! She was performing in character then, but I thought she seemed more in her element then than she ever did as an Archon, giving speeches up in the opera box... Looking back, I guess my intuition was right.
+
+### About Neuvillette
+
+Ah, how to describe Monsieur Neuvillette... He's... complex, in some ways — but very straightforward in others. I guess a good analogy would be rocky reefs in the sea: Trying to navigate through obstacles you can't see makes for a bumpy ride, but if you can figure out how they work, you start to spot the signs.
+
+### About Wriothesley
+
+Trying to discuss anything with that guy is an exhausting process. Clorinde says I needn't have any reservations about collaborating with him in the scope of our preexisting agreement, but I still shouldn't trust everything that comes out of his mouth. No wonder my father never tried to get involved with the affairs of the Fortress... I think I'll play it safe and keep things that way.
+
+### About The Knave
+
+She is a formidable but caring leader, and definitely comes across like a master of the house. But she's still a Fatui Harbinger, and that means she must have a more ruthless side. So don't worry — while I'll always appreciate what she did for Poisson, I'm not about to let my guard down around her completely.
+
+### About Lyney and Lynette
+
+I know magicians can often be all bravado and razzmatazz, but I can tell that Lyney is a sincere guy who cares deeply about his friends and family. He's so mature for his age, it catches me off guard sometimes... Oh, and how could I forget — it was so kind of him to try and cheer up the children in Poisson with an impromptu free magic show during the flood! I'll have to invite him and Lynette over for some macarons at my place when I get the chance. I know Lynette's always conjuring teacups out of thin air, so surely at least she's a fan of a proper tea break?
+
+### More About Navia: I
+
+The Spina's work is basically... well, a little bit of everything, but the focus is always on solving other people's problems. ...That probably makes it sound worse than it is, though. Sure, I'm making other people's problems my own, but I always get a real boost out of being able to help people.
+
+### More About Navia: II
+
+I've always thought that it's important to appreciate the beauty in the world. The blossoms in the spring, summers by the sea, the smiles on your friends' faces... You shouldn't take those things for granted.
+
+### More About Navia: III
+
+Sometimes, I like to go out into the wild, find a quiet place with no one else around, and do some target practice.
+It's a great way to destress! Wanna try? I can walk you through it step by step. You'd be my first student, but I feel like I'd be a great teacher. I still remember everything that my father and Nanny Bracari ever taught me!
+
+### More About Navia: IV
+
+I won't become the same kind of person as my father was. Some veterans of the Spina think that I'm becoming more and more like him, but I think the trend they're referring to is a superficial one, born out of the simple fact that some problems only have so many solutions. Spina di Rosula has changed a lot since my father's day, and I intend to be the president for the Spina of today.
+
+### More About Navia: V
+
+I also don't think I'm going to turn into my mother, either. People say we have similar personalities, and I can kind of understand her reasons for making the decisions she did back in the day, but even so...
+Huh, I have a sudden urge to take a trip on the Clementine Line. Could you come with me? I don't have a particular goal in mind, but... maybe we could take a walk around the city afterwards?
+
+### Navia's Hobbies
+
+I've loved baking ever since I was a child. Don't you think it's magical? You throw a bunch of random ingredients together in the right amounts, put the mixture in the oven, and then just watch as it slowly balloons up and transforms into a delicious treat...
+Hey, do you wanna make gingerbread together sometime? We can make it into a fun little competition — see who can build the biggest, most beautiful gingerbread house!
+
+### Navia's Troubles
+
+Ugh, cleaning up after baking a cake is a nightmare. The flour just gets everywhere, and the leftover egg whites and cream go all sticky and gross... I'll, um... I'll just go find a helper!
+
+### Favorite Food
+
+I like trying new things, for the surprise factor. But before you question my sense of taste, let me clarify that just because I can appreciate the novelty in a dish doesn't mean I'm claiming it tastes amazing.
+
+### Least Favorite Food
+
+I never enjoy leftovers that have been left too long. It just feels like sacrilege to neglect the poor food when it's fresh, then eat after it's gone stale...
+
+### Receiving a Gift: I
+
+This is some incredible cooking! Next time we head out together, looks like I should carry the ingredients and cookware, and let you be the chef.
+
+### Receiving a Gift: II
+
+Not bad! Next time, you cook the food and I'll plate it. Then, it'll look as good as it tastes.
+
+### Receiving a Gift: III
+
+Don't feel discouraged! The world needs people who aren't afraid to innovate.
+
+### Birthday
+
+Do you believe that wishes can come true? You know, like when you toss a coin into a fountain for good luck? As long as you throw enough coins in, one of your wishes is sure to come true, right?
+Well anyway, today's your birthday, so I'm not leaving anything to chance — I've got a whole bag of Mora here dedicated to making your birthday wish come true. Whatever you want, I'll do everything in my power to make it happen!
+
+### Feelings About Ascension: Intro
+
+This feeling, it's like... Like a lemon cheesecake!
+
+### Feelings About Ascension: Building Up
+
+As the cream melts on the tip of my tongue, all my stress fades away.
+
+### Feelings About Ascension: Climax
+
+Do you know that chocolate candy that's made in the shape of a bullet? It's so sweet, it's like an instant shot of energy to your whole body. Well, that's what this feels like!
+
+### Feelings About Ascension: Conclusion
+
+All I need now is a nice pot of soothing tea with a little milk, and our tea party can finally commence... But seriously, one tea party wouldn't begin to repay you after everything you've done for me. So if there's ever something you need in Fontaine, know that Spina di Rosula will always be happy to help you.
+
+### Elemental Skill: I
+
+Watch out~!
+
+### Elemental Skill: II
+
+Comin' at ya!
+
+### Elemental Skill: III
+
+Hey there!
+
+### Elemental Skill: IV
+
+Feelin' lucky?
+
+### Elemental Skill: V
+
+This one's got your name on it!
+
+### Elemental Skill: VI
+
+...Umbrella warfare, I guess?
+
+### Elemental Burst: I
+
+Fire!!! ...Well, with rocks.
+
+### Elemental Burst: II
+
+A proper sendoff! From the Spina, with love.
+
+### Elemental Burst: III
+
+Attack! Mm-hmm, that's the way.
+
+### Opening Treasure Chest: I
+
+Whoa! What a stroke of good luck!
+
+### Opening Treasure Chest: II
+
+Quick! Let's pack it up!
+
+### Opening Treasure Chest: III
+
+I'm loving this treasure hunt~!
+
+### Low HP: I
+
+Just... a little longer!
+
+### Low HP: II
+
+...I must do my duty!
+
+### Low HP: III
+
+C'mon, Navia, focus!
+
+### Ally at Low HP: I
+
+Leave it to the president!
+
+### Ally at Low HP: II
+
+Reinforcements are here!
+
+### Fallen: I
+
+Guess I'm... going home...
+
+### Fallen: II
+
+Sorry, partner...
+
+### Fallen: III
+
+No... not me, too...
+
+### Light Hit Taken: I
+
+What's your problem?
+
+### Heavy Hit Taken: I
+
+Where'd that come from!?
+
+### Heavy Hit Taken: II
+
+Ow... I'm fine!
+
+### Joining Party: I
+
+Count me in.
+
+### Joining Party: II
+
+The Spina's on the case!
+
+### Joining Party: III
+
+I'll take the lead today!
+
+### About Escoffier
+
+My good friend Escoffier is finally out and about again... It's about time. Shutting herself away like that, all to try and surpass her own magnum opus, Gateau Debord. It's a wonder she can even stand the sunlight after all that time inside. You know what? We should all go for a picnic sometime! I'll make sure to bring her a pair of sunglasses and a parasol. Believe me, you're in for a treat! With Escoffier, even the simplest of outings feel like fine dining!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+大名鼎鼎的刺玫会现任会长、领导者、总指挥、话事人、老板娜维娅，很高兴认识你！看你才貌出众、气度不凡，我有种预感，我们的缘分会像我的名号一样长呢。
+
+### 闲聊·旅行
+
+好想去旅游呀——！去哪无所谓啦，主要是想跟朋友们一起玩，嘿嘿。
+
+### 闲聊·经验之谈
+
+多年的帮派经验告诉我，身边有一把不称手的武器会比没有更危险。
+
+### 闲聊·会标
+
+刺玫会的标志是母亲设计的，我非常喜欢。你看，轮廓像颗心脏一样呢。
+
+### 下雨的时候…
+
+啊…又是雨天…
+
+### 打雷的时候…
+
+哎呀！刚才看到闪电就该捂住耳朵的！
+
+### 下雪的时候…
+
+是不是应该摘掉帽子，让雪花落在脸上？感觉一定很清爽。
+
+### 阳光很好…
+
+就是现在，立刻，马上，抬头！你看天上，是不是烈日炎炎，骄阳似火！知道这说明什么吗？
+说明我们现在应当立刻，马上，去买最大号的超级冰冰凉甜筒，然后比赛谁能在它融化前全部吃完！
+
+### 雨过天晴…
+
+太好了，雨停了！
+
+### 刮大风了…
+
+帽子和裙摆…好难取舍！
+
+### 在沙漠的时候…
+
+戴上墨镜就不会被沙子迷住眼睛了！但天黑时会看不清路…
+
+### 早上好…
+
+早上好！想好今天要做什么了吗？没想好的话，要不要跟我来？
+
+### 中午好…
+
+听说最近出了一种新口味的千层面，你有没有兴趣？感觉一定不会好吃，但我还是想去试试！
+
+### 晚上好…
+
+晚间新闻播报：「今天的刺玫会会长也和她的好搭档度过了完美的一天。」真棒！
+
+### 晚安…
+
+快，速速清空大脑，睡个好觉！明天见。
+
+### 关于娜维娅自己·乐观
+
+盲目乐观可不行，幸福的生活要靠自己的双手去争取！所以，来，握住我的双手，左右摇晃几下——怎么样，是不是很开心？
+
+### 关于娜维娅自己·运气
+
+了解我经历的人可能会觉得我运气不好吧，但我不这么认为哦。
+能得到这么多的爱，是我一生最幸运的事情了吧。
+
+### 关于我们·搭档
+
+他们有人叫我老板，有人叫我大小姐，我都无所谓啦。最开心的还是你称呼我为「搭档」的时候，所以请多叫几次，满足我的虚荣心吧！
+
+### 关于我们·保密
+
+有人说秘密一旦说出口就不是秘密了，但能和朋友分享的秘密不是更加珍贵吗？
+…什么啊，我不是在威胁你啦！虽然身为刺玫会的会长，我当然知道很多让人保守秘密的诀窍，但我是不会用在你身上的，安心啦。
+
+### 关于「神之眼」…
+
+给你看，这就是我的神之眼！亮晶晶，很称我衣服的颜色吧？
+不过还是你比较厉害，不需要神之眼就能使用很多种元素，应该不是靠练习就能做到的吧？
+
+### 有什么想要分享·狗狗
+
+在所有的品种里，我最喜欢深栗猎犬。你看它们眼睛上方的花纹，是不是很像眉毛？所以它们总是一副憨厚又认真的样子呢。
+不过这件事还请帮我保密，千万不要告诉别的狗狗！
+
+### 有什么想要分享·可靠的刺玫会
+
+假如你在灰河待过一段时间，应该会发现枫丹还是有不少其他帮派的。他们的目的不一，并不都像刺玫会那样友善，你可要多加留心。如有必要，可以向酒保泰托先生求助。若是对方不愿意坐下来谈的话…嗯，那就只好请我们可靠的白手套先生出马咯。
+
+### 感兴趣的见闻…
+
+久雨莲的颜色真好看啊。而且当你看到它们纷纷绽放的时候，就说明漫长的雨季终于过去了。
+
+### 关于克洛琳德…
+
+她平时话不多，表情也不多，但还是能看出来喜怒哀乐的。之前老爹的事卡在我们之间，唔…有些隔阂吧，就算是那段日子，我也不爱她小心翼翼的样子…还是现在这样比较好。
+
+### 关于夏洛蒂…
+
+比起跑新闻时的热情和速度，夏洛蒂的拍照技术更让我惊讶。她之前随手给我拍过一张半身照，光影效果好像精心绘制的油画一样。既能写出意想不到的报道，又能拍出最能抓人眼球的画片，她大概天生就是要做记者的吧。
+
+### 关于千织…
+
+这位为枫丹时尚带来异国风情的服装设计师，私下里帮过刺玫会不少忙呢。她说我的奇思妙想给她提供了好多创作灵感，以我对她的了解来看，应该不是客气话。但当我请她做一个十米高的礼帽时，她却严词拒绝了。唉，要是能摆在店门前，应该是很惹眼的宣传手段呀！
+
+### 关于芙宁娜…
+
+小时候有幸观看过一次芙宁娜大人参与义演的歌剧，票可难买了！虽然扮演的是别的角色，但她看起来反而比平常站在高处演讲时更自然些…现在回想起来，竟然不是错觉。
+
+### 关于那维莱特…
+
+那维莱特先生啊，既复杂又简单。怎么说呢…就像海里的礁石，磕磕绊绊的，但假如理解了其中的规律，也不是完全没法观测。
+
+### 关于莱欧斯利…
+
+想和他谈点东西可费劲了。克洛琳德说在既定的合约基础上可以放心与他合作，但千万不要相信他说的每一句话。怪不得老爹以前从不插手水下的事，保险起见，还是维持原样吧。
+
+### 关于「仆人」…
+
+她是一位威严却又慈爱的领导者，有「一家之主」的风范。不过能成为愚人众的执行官，她一定也有手段狠厉的一面。
+所以放心吧，我会永远记得她帮助过白淞镇的恩情，但在其他方面也会留心的。
+
+### 关于林尼和琳妮特…
+
+我知道大魔术师说话总会有些浮夸啦，但能看出，林尼是真心对待身边亲友的。有时候他表现出的责任感，可比他的年纪大多了…
+哦对了，他之前免费给白淞镇的小朋友们变过魔术呢！有机会的话，下次也请他和琳妮特小姐一起来吃马卡龙吧。琳妮特小姐经常凭空变出茶杯来喝茶，那应该不会讨厌甜点吧？
+
+### 想要了解娜维娅·其一
+
+刺玫会的工作嘛，杂七杂八的什么都有吧，不过核心目的都是帮助大家解决各种麻烦。这里的「麻烦」只用来指代问题本身，不代表我觉得这些事情烦心哦。相反，能帮到大家会让我觉得神清气爽呢。
+
+### 想要了解娜维娅·其二
+
+人还是要有些浪漫情怀才行。春天的花，夏天的海，还有朋友的笑容，都不该是被忽略的景色。
+
+### 想要了解娜维娅·其三
+
+有时我会找个人迹罕至的野外，摆一些物件作为目标，然后练习打靶。
+很解压的！你想试试吗？我来手把手教你。虽然你是我的第一个学生，但我觉得我会成为一名好老师的。老爹还有布莱卡利奶奶教我的东西我都还没忘呢！
+
+### 想要了解娜维娅·其四
+
+我不会变成和老爹一样的人。有刺玫会里的老干部觉得我和老爹越来越像了，但我认为那只是很小的倾斜，要归因为有些问题只能用固定的几种办法来解决。刺玫会已经不是当年的样子了，那么会长也不会相同。
+
+### 想要了解娜维娅·其五
+
+我觉得我也不会变成和母亲一样的人。虽然很多人都说我性格和她很像，我也大约能想象到她当年做出很多选择的理由，但是…
+哎，突然很想去坐一次克莱门汀线。就现在，可以陪我吗？倒也没什么特别的目的，就当是我邀请你去城里闲逛吧？
+
+### 娜维娅的爱好…
+
+我从小就喜欢烘焙。看着一堆零散的食材按照比例融合在一起，就能在烘烤的过程中一点点膨胀、定型，变成香喷喷的样子，是不是很神奇？
+对了，有机会一起来烤姜饼吧？比比看谁能用饼干搭出最高最漂亮的小屋！
+
+### 娜维娅的烦恼…
+
+呃，烤完蛋糕以后散落的面粉好难收拾啊，还有粘在容器里的蛋清和奶油…我、我去叫帮手来！
+
+### 喜欢的食物…
+
+我喜欢能带来惊喜的食物，但请不要怀疑我的味觉。我只是欣赏其中包含的创意，但这也不会改变很多菜品难吃的事实就是了。
+
+### 讨厌的食物…
+
+我不喜欢存放了很久的剩菜，感觉辜负了新鲜食材的一生…
+
+### 收到赠礼·其一
+
+惊人的厨艺！跟你出门的话，我才是应该带着食材和厨具的那个。
+
+### 收到赠礼·其二
+
+味道真不错，再让我加些摆盘艺术就更完美了。
+
+### 收到赠礼·其三
+
+不要气馁，世界需要这种创新精神。
+
+### 生日…
+
+你相信许愿吗？向泉水中丢一枚摩拉，然后等待好运降临在头上。我想，只要摩拉丢得够多，其中总有一个愿望能够实现吧？
+所以与其寄希望于这样的随机事件，我决定直接用一袋摩拉为你实现今天的愿望。只要是我娜维娅力所能及的，一定都帮你办到！
+
+### 突破的感受·起
+
+这种感觉…好像柠檬乳酪蛋糕！
+
+### 突破的感受·承
+
+奶油融化在舌尖，压力也跟着消散了。
+
+### 突破的感受·转
+
+你知道有一种子弹形状的巧克力糖吗？它的甜度能瞬间让你全身充满力量，就像我现在的感受一样！
+
+### 突破的感受·合
+
+最后再来一壶熨帖的奶茶，属于你我的茶歇时间就可以开始了。不过你为我做了这么多，用一顿茶点作为感谢还是不太够呀。以后你在枫丹要是有什么需要帮忙的，就来找刺玫会吧！
+
+### 元素战技·其一
+
+小心咯！
+
+### 元素战技·其二
+
+正面偷袭！
+
+### 元素战技·其三
+
+你好呀！
+
+### 元素战技·其四
+
+试着躲躲看？
+
+### 元素战技·其五
+
+猜我还有几颗子弹？
+
+### 元素战技·其六
+
+是…伞弹枪？
+
+### 元素爆发·其一
+
+开火！虽然是岩元素啦。
+
+### 元素爆发·其二
+
+玫瑰礼花！刺玫会特别定制版。
+
+### 元素爆发·其三
+
+持续打击！嗯嗯，就是这样。
+
+### 打开宝箱·其一
+
+喔！好运连连！
+
+### 打开宝箱·其二
+
+快，快收好！
+
+### 打开宝箱·其三
+
+寻宝大成功！
+
+### 生命值低·其一
+
+再…再撑一会儿！
+
+### 生命值低·其二
+
+…得尽到责任！
+
+### 生命值低·其三
+
+注意力集中。
+
+### 同伴生命值低·其一
+
+交给会长吧！
+
+### 同伴生命值低·其二
+
+增援到了！
+
+### 倒下·其一
+
+就当是…回家了…
+
+### 倒下·其二
+
+是我的错吗…
+
+### 倒下·其三
+
+就连我也…
+
+### 普通受击·其一
+
+怎么了？
+
+### 重受击·其一
+
+哪来的？！
+
+### 重受击·其二
+
+啊…不算什么！
+
+### 加入队伍·其一
+
+说走就走。
+
+### 加入队伍·其二
+
+刺玫会出马！
+
+### 加入队伍·其三
+
+今天我带路！
+
+### 关于爱可菲…
+
+我的好朋友爱可菲呀，她总算是结束闭关了。听说，她在开发超越「德波大蛋糕」的新品，一直闷在自己的专属厨房里。再这样下去，眼睛都要畏光了吧？不如，我们约上她，找个时间出门野餐吧？阳伞和墨镜随她选。和爱可菲出行，普普通通的郊游都会变成一场美食之旅哦。

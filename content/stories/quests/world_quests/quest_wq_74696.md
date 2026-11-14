@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 74696
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74696
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_revelation
 
 # quest_series_ru: Пророчество ведьмы
+# game_source_ids: 74696
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 60
 
 ## RU
 
@@ -44,13 +47,13 @@
 
 **Ци Ци:** А! Путешественник и... Пай... Паймон...
 
-Привет.
+- **Путешественник:** Привет.
 
 **Блесин:** Вы знакомы с Ци Ци? Отлично! Я встретила её, когда проводила расследование возле порта Люмидус... Судя по телосложению, я решила, что она человеческий ребёнок... Она же ребёнок?
 
 **Ци Ци:** Ци Ци... Ци Ци...
 
-Наша подруга!
+- **Путешественник:** Наша подруга!
 
 **Паймон:** Да-да! Мы знакомы уже очень давно. Мы лучшие друзья!
 
@@ -80,15 +83,21 @@
 
 **Паймон:** Бай Чжу вместе с Ци Ци отправился в порт Илун, чтобы осмотреть пациентов. Ци Ци заблудилась, собирая лекарственные травы в тех краях, случайно встретила фею и последовала за ней до порта Люмидус.
 
-**Паймон:** Хм-хм, хорошо, что Паймон вместе с (путешественницей)(путешественником) читала «Бандитов и сыщиков»! Простые дедуктивные рассуждения для Паймон - пара пустяков.
+**Паймон:** Хм-хм, хорошо, что Паймон вместе с путешественником читала «Бандитов и сыщиков»! Простые дедуктивные рассуждения для Паймон - пара пустяков. / Хм-хм, хорошо, что Паймон вместе с путешественницей читала «Бандитов и сыщиков»! Простые дедуктивные рассуждения для Паймон - пара пустяков.
 
-Но ведь это выдуманная история...
+- **Путешественник:** Но ведь это выдуманная история...
 
 **Блесин:** О-о! Всё сходится! Я сейчас же отведу Ци Ци обратно в порт Илун. Доктор Бай Чжу - опекун Ци Ци? Он наверняка сильно переживает!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Постой. Среди тех, кого ждёт Барбелот...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...есть и Ци Ци.
+
+##### Общее продолжение
 
 **Паймон:** Точно! Паймон чуть не забыла об этом. Барбелот, ты здесь? Слышишь нас?
 
@@ -98,37 +107,37 @@
 
 **Ци Ци:** По... гадать?
 
-**Барбелот:** Барби, позволь перебить тебя. Ты совсем не умеешь разговаривать с детьми. Напугала бедную девочку.
+**Алиса:** Барби, позволь перебить тебя. Ты совсем не умеешь разговаривать с детьми. Напугала бедную девочку.
 
-**Барбелот:** Позволь мне. А теперь смотри и учись, как нужно преподносить такого рода сюрпризы.
+**Алиса:** Позволь мне. А теперь смотри и учись, как нужно преподносить такого рода сюрпризы.
 
-**Барбелот:** Кхе-кхе! Юная участница Маленького ведьмина шабаша Ци Ци, я тётя Алиса, мама твоей союзницы Кли, величайшая ведьма в мире.
+**Алиса:** Кхе-кхе! Юная участница Маленького ведьмина шабаша Ци Ци, я тётя Алиса, мама твоей союзницы Кли, величайшая ведьма в мире.
 
 **Ци Ци:** Здравствуйте... тётя Алиса...
 
-**Барбелот:** Какая милая и воспитанная девочка. Позволь подруге тёти, ещё одной замечательной ведьме, устроить для тебя особую вечеринку с гаданием.
+**Алиса:** Какая милая и воспитанная девочка. Позволь подруге тёти, ещё одной замечательной ведьме, устроить для тебя особую вечеринку с гаданием.
 
 **Ци Ци:** Вечеринка... с гаданием?
 
-**Барбелот:** Точно! Посмотри на карты перед собой. Красивые, да? Нравятся?
+**Алиса:** Точно! Посмотри на карты перед собой. Красивые, да? Нравятся?
 
 **Ци Ци:** Очень... нравятся...
 
-**Барбелот:** Замечательно! Тогда вытащи одну карту!
+**Алиса:** Замечательно! Тогда вытащи одну карту!
 
 **Ци Ци:** Мм... эту... можно?
 
-**Барбелот:** Конечно. А за то, что ты так хорошо себя вела, эта карта останется у тебя!
+**Алиса:** Конечно. А за то, что ты так хорошо себя вела, эта карта останется у тебя!
 
 **Ци Ци:** ...Спасибо?
 
-**Барбелот:** Ладно, Барби, перерыв окончен. Пришло время помочь малышке Ци Ци с толкованием.
+**Алиса:** Ладно, Барби, перерыв окончен. Пришло время помочь малышке Ци Ци с толкованием.
 
 **Барбелот:** Не нужно меня трясти. Я внимательно слушала... Ах, «Повешенный» в прямом положении.
 
 **Барбелот:** Не многим попадается эта карта.
 
-**Барбелот:** Это значит, что ты особенная, малышка Ци Ци.
+**Алиса:** Это значит, что ты особенная, малышка Ци Ци.
 
 **Барбелот:** Она символизирует превосходство и ожидание, а также отрешённость от мирской суеты.
 
@@ -140,21 +149,21 @@
 
 **Барбелот:** Что касается твоего будущего, тебе остаётся только ждать. Впрочем, времени у тебя предостаточно. Но... ой-ой, странно, очень странно...
 
-**Барбелот:** Подожди-ка! Ты слишком много болтаешь. Дай бедному ребёнку перевести дух.
+**Алиса:** Подожди-ка! Ты слишком много болтаешь. Дай бедному ребёнку перевести дух.
 
-**Барбелот:** Позволим малышке Ци Ци как следует насладиться этим подарком. Нужно быть терпеливее с детьми...
+**Алиса:** Позволим малышке Ци Ци как следует насладиться этим подарком. Нужно быть терпеливее с детьми...
 
-**Барбелот:** Ну что, малышка Ци Ци, тебе понравился этот маленький сюрприз?
+**Алиса:** Ну что, малышка Ци Ци, тебе понравился этот маленький сюрприз?
 
 **Ци Ци:** Карта красивая... Спасибо, тётя Алиса.
 
-**Барбелот:** Ой, какая хорошая девочка! Запомнила имя тёти. Тёте очень хотелось бы ещё поболтать с тобой, но тебе пора домой.
+**Алиса:** Ой, какая хорошая девочка! Запомнила имя тёти. Тёте очень хотелось бы ещё поболтать с тобой, но тебе пора домой.
 
-**Барбелот:** Если тётя Барби хочет что-то добавить, то в следующий раз, когда Маленький ведьмин шабаш соберётся вместе, она сможет сделать предсказание для каждой маленькой ведьмы! Разве это не прекрасно?
+**Алиса:** Если тётя Барби хочет что-то добавить, то в следующий раз, когда Маленький ведьмин шабаш соберётся вместе, она сможет сделать предсказание для каждой маленькой ведьмы! Разве это не прекрасно?
 
 **Барбелот:** ...Не могла бы ты не увеличивать мою рабочую нагрузку, не спросив меня предварительно?
 
-**Барбелот:** Вот и договорились! Увидимся в следующий раз, малышка Ци Ци и все присутствующие.
+**Алиса:** Вот и договорились! Увидимся в следующий раз, малышка Ци Ци и все присутствующие.
 
 **Ци Ци:** Пока-пока... тётя Алиса и... хорошие друзья... тёти Алисы.
 
@@ -164,17 +173,29 @@
 
 **Ци Ци:** ...Да, время вышло, Ци Ци пора возвращаться. До встречи... Путешественник и Паймон.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Будь осторожна.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Береги себя.
 
-**Ци Ци:** Карта... подарок... мм... красивая...
+##### Общее продолжение
 
-#### Завершите историю Ци Ци
+**Ци Ци:** Карта... подарок... мм... красивая...
 
 **Бай Чжу:** Я осмотрел всех, кого планировал осмотреть. Но где же Ци Ци? Неужели до сих пор собирает травы?
 
-**Бай Чжу:** Тебе стоит прописать себе лекарство, которое поможет не зацикливаться на переживаниях. До назначенного времени ещё целый час.
+**Чан Шэн:** Тебе стоит прописать себе лекарство, которое поможет не зацикливаться на переживаниях. До назначенного времени ещё целый час.
+
+#### Послушайте историю Ци Ци...
+
+#### Послушайте историю Ци Ци...
+
+#### Завершите историю Ци Ци
+
+#### Покиньте историю
 
 ## EN
 
@@ -194,13 +215,13 @@ You encounter Qiqi at Barbeloth's fortune-telling booth...
 
 **Qiqi:** Ah! Traveler, and... Pai... Paimon...
 
-Hello.
+- **Traveler:** Hello.
 
 **Blathine:** You know Qiqi? Fantastic news! I ran into her while investigating near Lumidouce Harbor... Judging by her size, I figured she was a human child... She is a child, right?
 
 **Qiqi:** I am... am...
 
-Our good friend!
+- **Traveler:** Our good friend!
 
 **Paimon:** Right, right! We go way back. We're the best of friends!
 
@@ -232,13 +253,19 @@ Our good friend!
 
 **Paimon:** Hehe, good thing Paimon and Traveler read Robben versus Chesterton! Simple deductions like these are a piece of cake for Paimon now.
 
-You do know that book's a work of fiction, right?
+- **Traveler:** You do know that book's a work of fiction, right?
 
 **Blathine:** Aha! Well, that checks out! I'll take Qiqi back to Yilong Wharf right away. Dr. Baizhu is Qiqi's guardian, is he? He must be worried sick!
 
+##### Response branch 1
+
 - **Traveler:** Wait... Those people in Barbeloth's prophecy...
 
+##### Response branch 2
+
 - **Traveler:** Wasn't Qiqi one of them?
+
+##### Shared continuation
 
 **Paimon:** Oh, you're right! Paimon almost forgot about that. Barbeloth — are you there? Can you hear us?
 
@@ -248,37 +275,37 @@ You do know that book's a work of fiction, right?
 
 **Qiqi:** For... tune...?
 
-**Barbeloth:** Oh dear, Barbie, allow me to interject. You're really not suited to talking to children, you know — you're scaring the poor girl.
+**Alice:** Oh dear, Barbie, allow me to interject. You're really not suited to talking to children, you know — you're scaring the poor girl.
 
-**Barbeloth:** Let me take this one. Now listen closely — this is how you deliver a little surprise gift.
+**Alice:** Let me take this one. Now listen closely — this is how you deliver a little surprise gift.
 
-**Barbeloth:** Ahem... Little Qiqi, member of the Little Hexenzirkel, I'm the mother of your ally Klee — Auntie Alice, the greatest witch in the world.
+**Alice:** Ahem... Little Qiqi, member of the Little Hexenzirkel, I'm the mother of your ally Klee — Auntie Alice, the greatest witch in the world.
 
 **Qiqi:** Nice to meet you, Auntie Alice...
 
-**Barbeloth:** Ah, what a sweet, polite little child. Come now, let Auntie's friend, another great witch, throw you a wonderful surprise fortune-telling party!
+**Alice:** Ah, what a sweet, polite little child. Come now, let Auntie's friend, another great witch, throw you a wonderful surprise fortune-telling party!
 
 **Qiqi:** Fortune-telling... party?
 
-**Barbeloth:** That's right! Look at the cards in front of you. Aren't they pretty? Do you like them?
+**Alice:** That's right! Look at the cards in front of you. Aren't they pretty? Do you like them?
 
 **Qiqi:** I... like them...
 
-**Barbeloth:** That's wonderful! Now, can you pick one for me?
+**Alice:** That's wonderful! Now, can you pick one for me?
 
 **Qiqi:** Uhm... Is this one alright?
 
-**Barbeloth:** Of course. And because you were so wonderfully well-behaved, that card is yours to keep!
+**Alice:** Of course. And because you were so wonderfully well-behaved, that card is yours to keep!
 
 **Qiqi:** Uh... Thank you?
 
-**Barbeloth:** Alright, Barbie, break time's over. Come help little Qiqi with her reading.
+**Alice:** Alright, Barbie, break time's over. Come help little Qiqi with her reading.
 
 **Barbeloth:** You don't need to shake me awake... I've been listening the whole time. Ah, upright Hanged Man.
 
 **Barbeloth:** Very few people draw this card.
 
-**Barbeloth:** That means you're very special, Qiqi.
+**Alice:** That means you're very special, Qiqi.
 
 **Barbeloth:** It symbolizes transcendence and waiting, and also detachment from the everyday world.
 
@@ -290,21 +317,21 @@ You do know that book's a work of fiction, right?
 
 **Barbeloth:** As for your future, all you need to do is wait. Of course, it's not like you lack for time... But... Oh my, how strange, how very strange...
 
-**Barbeloth:** Hold up a second! You're saying too much at once. Give the poor child a moment to breathe.
+**Alice:** Hold up a second! You're saying too much at once. Give the poor child a moment to breathe.
 
-**Barbeloth:** Let Qiqi savor her little gift first. You really do need to show a little more patience with children...
+**Alice:** Let Qiqi savor her little gift first. You really do need to show a little more patience with children...
 
-**Barbeloth:** What do you think, Qiqi? Do you like your surprise?
+**Alice:** What do you think, Qiqi? Do you like your surprise?
 
 **Qiqi:** This card is pretty... Thank you, Auntie Alice.
 
-**Barbeloth:** Aww, good girl — you did such a good job remembering Auntie's name. Auntie would love to chat with you some more, but it's time for you to go home.
+**Alice:** Aww, good girl — you did such a good job remembering Auntie's name. Auntie would love to chat with you some more, but it's time for you to go home.
 
-**Barbeloth:** If Auntie Barbie has more to say, then next time the Hexenzirkel meets, she can make a prophecy for every little witch who attends! Wouldn't that be lovely?
+**Alice:** If Auntie Barbie has more to say, then next time the Hexenzirkel meets, she can make a prophecy for every little witch who attends! Wouldn't that be lovely?
 
 **Barbeloth:** ...Could you not add to my workload without asking me first?
 
-**Barbeloth:** Then it's settled! See you next time, Qiqi, and all of you witnesses, hehe.
+**Alice:** Then it's settled! See you next time, Qiqi, and all of you witnesses, hehe.
 
 **Qiqi:** Bye-bye... Auntie Alice... and Auntie Alice's... best of friends.
 
@@ -314,17 +341,29 @@ You do know that book's a work of fiction, right?
 
 **Qiqi:** ...Mmhmm, it's time... Qiqi should go home. See you... next time, Traveler... and Paimon.
 
+##### Response branch 1
+
 - **Traveler:** Take care.
+
+##### Response branch 2
 
 - **Traveler:** Stay safe.
 
-**Qiqi:** Card... Gift... Hmm... Pretty...
+##### Shared continuation
 
-#### Finish Qiqi's story
+**Qiqi:** Card... Gift... Hmm... Pretty...
 
 **Baizhu:** I think that's everyone I needed to see, but where's Qiqi? She can't still be gathering herbs, can she?
 
-**Baizhu:** Perhaps you should prescribe yourself some medicine to stop you overthinking... There's still plenty of time left until her orders say to be back.
+**Changsheng:** Perhaps you should prescribe yourself some medicine to stop you overthinking... There's still plenty of time left until her orders say to be back.
+
+#### Listen to Qiqi's story...
+
+#### Listen to Qiqi's story...
+
+#### Finish Qiqi's story
+
+#### Leave the story
 
 ## ZH
 
@@ -344,13 +383,13 @@ You do know that book's a work of fiction, right?
 
 **七七:** 啊！旅行者，还有…派…派蒙…
 
-你们好。
+- **旅行者:** 你们好。
 
 **布蕾莘:** 是七七的熟人吗？太好了，我在柔灯港附近查案的时候遇到了这个走失的孩子…是孩子吧？按照体型来看，应该是人类的孩子。
 
 **七七:** 七七是…是…
 
-我们的好朋友！
+- **旅行者:** 我们的好朋友！
 
 **派蒙:** 对、对！我们很久以前就认识啦，是要好的朋友！
 
@@ -382,13 +421,19 @@ You do know that book's a work of fiction, right?
 
 **派蒙:** 哼哼，还好我和旅行者一起看过《怪盗与名侦探》，这种简单的推理还难不倒我。
 
-其实那个故事完全是虚构的吧…
+- **旅行者:** 其实那个故事完全是虚构的吧…
 
 **布蕾莘:** 噢噢！确实非常合理，那我立刻动身把七七送回遗珑埠去。白术先生是七七的监护人是吧？他肯定急坏了！
 
+##### 对话分支 1
+
 - **旅行者:** 等等，芭比洛斯女士在等的人里面…
 
+##### 对话分支 2
+
 - **旅行者:** 也有七七吧？
+
+##### 共同后续
 
 **派蒙:** 对哦！差点就把这件事情给忘记了。芭比洛斯女士——你在吗？听得到吗？
 
@@ -398,37 +443,37 @@ You do know that book's a work of fiction, right?
 
 **七七:** 占…卜？
 
-**芭比洛斯:** 哎呀，打扰一下。芭比，你这种公事公办的态度会吓坏小朋友哦？
+**艾莉丝:** 哎呀，打扰一下。芭比，你这种公事公办的态度会吓坏小朋友哦？
 
-**芭比洛斯:** 你先让一让。看好了，要像我这样，把这份惊喜小礼物给送出去才对。
+**艾莉丝:** 你先让一让。看好了，要像我这样，把这份惊喜小礼物给送出去才对。
 
-**芭比洛斯:** 咳咳，小魔女会成员七七小朋友，我是你的盟友可莉的妈妈，这个世界上最棒的大魔女艾莉丝阿姨。
+**艾莉丝:** 咳咳，小魔女会成员七七小朋友，我是你的盟友可莉的妈妈，这个世界上最棒的大魔女艾莉丝阿姨。
 
 **七七:** 艾莉丝阿姨好…
 
-**芭比洛斯:** 真是个有礼貌的可爱好孩子。来吧，让大魔女来给小魔女主持一场惊喜预言仪式。
+**艾莉丝:** 真是个有礼貌的可爱好孩子。来吧，让大魔女来给小魔女主持一场惊喜预言仪式。
 
 **七七:** 预言…仪式？
 
-**芭比洛斯:** 没错！看看你眼前的牌，好不好看？喜不喜欢？
+**艾莉丝:** 没错！看看你眼前的牌，好不好看？喜不喜欢？
 
 **七七:** 喜欢…
 
-**芭比洛斯:** 喜欢就好，那就抽一张牌吧！
+**艾莉丝:** 喜欢就好，那就抽一张牌吧！
 
 **七七:** 唔…这张，可以吗？
 
-**芭比洛斯:** 当然可以。作为好好配合的奖励，你手上的牌就归你了！
+**艾莉丝:** 当然可以。作为好好配合的奖励，你手上的牌就归你了！
 
 **七七:** …谢谢？
 
-**芭比洛斯:** 好了，芭比，你的休息时间已经结束咯，该来帮七七小朋友解读了。
+**艾莉丝:** 好了，芭比，你的休息时间已经结束咯，该来帮七七小朋友解读了。
 
 **芭比洛斯:** 不用晃我的肩膀…我在看着呢，哦，是「倒吊人」，正位。
 
 **芭比洛斯:** 能抽出它来的人可不多。
 
-**芭比洛斯:** 也就是说你非常特别哟，七七小朋友。
+**艾莉丝:** 也就是说你非常特别哟，七七小朋友。
 
 **芭比洛斯:** 它象征着超越与等待，也意味着超脱于世俗之外。
 
@@ -440,21 +485,21 @@ You do know that book's a work of fiction, right?
 
 **芭比洛斯:** 关于未来，你只需要等待即可。当然，对你来说，最不缺的应该就是时间。但是…哦呀，怪了，怪了…
 
-**芭比洛斯:** 好了好了，打住！一口气说太多，会加重小朋友的负担哦！
+**艾莉丝:** 好了好了，打住！一口气说太多，会加重小朋友的负担哦！
 
-**芭比洛斯:** 先让七七小朋友好好感受一下手头的这份礼物吧，对小朋友要耐心一点，多给一点时间。
+**艾莉丝:** 先让七七小朋友好好感受一下手头的这份礼物吧，对小朋友要耐心一点，多给一点时间。
 
-**芭比洛斯:** 怎么样，七七小朋友，喜欢这份小小惊喜吗？
+**艾莉丝:** 怎么样，七七小朋友，喜欢这份小小惊喜吗？
 
 **七七:** 卡牌，好看…谢谢艾莉丝阿姨。
 
-**芭比洛斯:** 哎呀，真乖，努力记住了阿姨的名字呢。虽然阿姨还想和你多聊聊天。但时间差不多了，好孩子该回家了。
+**艾莉丝:** 哎呀，真乖，努力记住了阿姨的名字呢。虽然阿姨还想和你多聊聊天。但时间差不多了，好孩子该回家了。
 
-**芭比洛斯:** 芭比要是还有话想说，那等下次小魔女会成员再次相聚的时候，再给每一位小魔女都做一次预言吧！大家一定都会很开心的！
+**艾莉丝:** 芭比要是还有话想说，那等下次小魔女会成员再次相聚的时候，再给每一位小魔女都做一次预言吧！大家一定都会很开心的！
 
 **芭比洛斯:** …可以不要擅自增加我的工作量吗？
 
-**芭比洛斯:** 就这么说定了！我们下次再见啦，七七小朋友和各位见证者们。
+**艾莉丝:** 就这么说定了！我们下次再见啦，七七小朋友和各位见证者们。
 
 **七七:** 再见…艾莉丝阿姨和艾莉丝阿姨的…好朋友。
 
@@ -464,14 +509,26 @@ You do know that book's a work of fiction, right?
 
 **七七:** …嗯，时间到了，七七该回去了。下次…再见，旅行者，派蒙。
 
+##### 对话分支 1
+
 - **旅行者:** 路上小心。
+
+##### 对话分支 2
 
 - **旅行者:** 注意安全喔。
 
-**七七:** 卡牌…礼物，嗯…好看…
+##### 共同后续
 
-#### 完成七七的故事
+**七七:** 卡牌…礼物，嗯…好看…
 
 **白术:** 这次的看诊差不多了，只是七七采药怎么还没回来？
 
-**白术:** 你是不是应该给自己开个治疗思虑过重的方子？距离她敕令规定好的时间还有一时辰呢。
+**长生:** 你是不是应该给自己开个治疗思虑过重的方子？距离她敕令规定好的时间还有一时辰呢。
+
+#### 聆听七七的故事…
+
+#### 聆听七七的故事…
+
+#### 完成七七的故事
+
+#### 离开故事

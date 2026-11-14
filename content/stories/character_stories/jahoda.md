@@ -592,3 +592,782 @@ A lie repeated a thousand times had somehow willed itself into truth.
 已经起身离开的奈芙尔，突然瞥见了一抹转瞬即逝的青色微光。
 秘闻馆的老板有些讶异，然后又不禁失笑。
 某个重复了一千遍的谎言，居然成真了。
+
+# voice_source_ids: 124000,124001,124002,124003,124004,124005,124006,124007,124008,124009,124010,124011,124012,124013,124014,124015,124016,124017,124018,124019,124020,124021,124022,124023,124024,124025,124026,124027,124028,124029,124030,124031,124032,124033,124034,124035,124036,124037,124038,124039,124040,124041,124042,124043,124044,124045,124046,124047,124048,124049,124050,124051,124052,124053,124054,124055,124056,124057,124058,124059,124060,124061,124062,124063
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет, рада встрече. Если у тебя есть заказ, выкладывай. Если оплата хорошая, я помогу тебе с чем угодно... Э-э, почти с чем угодно... Я могу помочь тебе почти во всём.
+
+### Поболтаем: Нефер
+
+Эх... Босс Неф, когда мне повысят зарплату? Я хочу купить столько всего...
+
+### Поболтаем: Шоппинг
+
+Пойдём, прогуляемся по городу. Я покажу тебе одно интересное место... Только никому не говори, договорились?
+
+### Поболтаем: Ашру
+
+В прошлый раз, когда я попыталась погладить Ашру, этот маленький пушистый комочек убежал. Хм! Кто-то не получит сушёную рыбу!
+
+### Когда идёт дождь...
+
+Дождь? Скорее, нужно найти укрытие, пока мы не промокли.
+
+### Когда идёт снег...
+
+А-а-а! Снег попал за шиворот, как же холодно...
+
+### В пустыне...
+
+Тьфу-тьфу-тьфу, песок в рот попал!
+
+### Доброе утро...
+
+Доброе утро. Хочешь позавтракать? Пойдём поедим что-нибудь вкусненькое.
+
+### Добрый день...
+
+Пожалуй, вернусь в лавку и вздремну. Спать очень хочется...
+
+### Добрый вечер...
+
+Уже так поздно, пора заканчивать работу и погладить Ашру.
+
+### Спокойной ночи...
+
+Пора спать... Эй! Ещё не спишь? Тебе тоже пора бы отдохнуть.
+
+### О Ягоде: Жизненный опыт
+
+До того как я пришла в Кураторий тайн, моя трудовая биография была... пёстрой. Встреча с боссом Неф, когда я едва сводила концы с концами, - настоящий переломный момент.
+
+### О Ягоде: Кураторий тайн
+
+Босс Неф хорошо ко мне относится, и Ашру тоже. Хм... но иногда я забываю называть Неф боссом. Старые привычки трудно изжить, наверное...
+
+### О нас: Родной дом
+
+Моя родина? Не помню... и, честно говоря, меня это не особо волнует. Для меня дом - это любое место, где я могу досыта поесть и сладко поспать.
+
+### О нас: Друзья
+
+Мы вместе прошли сквозь огонь и воду. Конечно же, мы друзья! В следующий раз, когда у меня будут проблемы, я знаю, что ты меня поддержишь. И постарайся не предать меня... или, по крайней мере, убедись, что получишь хорошую оплату, если всё же предашь. Ха! Шучу, я знаю, что ты никогда не предашь меня. В тебе слишком много благородства, чтобы совершить такое корыстное деяние.
+
+### О Глазе Бога...
+
+Хе-хе, это мое сокровище, с ним работа стала намного легче. Кто бы мог подумать, что мне, Ягоде, так повезёт...
+
+### Давай поделимся: Охотник за сокровищами
+
+Тебе попадались те, кто называет себя «охотниками за сокровищами»? Не дай этому громкому названию себя обмануть - считай их обычными наёмниками из Нод-Края. Они готовы работать на любого, кто хорошо заплатит. Если тебе действительно понадобится их помощь, я знаю нескольких способных ребят и могу тебя с ними познакомить.
+
+### Давай поделимся: Пушка
+
+Когда стреляет энергетическая пушка «Выстрел и удар куувяки», это выглядит действительно круто. Хм... было бы здорово иметь уменьшенную модель этой пушки. Интересно, Айно сможет сделать одну для меня, ведь эту пушку создала именно она...
+
+### Интересные вещи...
+
+Вчера я вдруг задумалась... сколько песчинок должно собраться вместе, чтобы это можно было назвать «кучей песка»? Сто? Тысяча? Всё не то... На днях пойду спрошу у Айно, она точно знает.
+
+### О Лауме...
+
+Госпожа Лаума? Хм... Я не очень хорошо её знаю, но мне известно, что у неё высокий статус и она очень сильная. К тому же она умеет разговаривать с животными. Получается, что все животные на острове Хийси - это глаза и уши госпожи Лаумы? Неудивительно, что ни один охотник за сокровищами не осмеливается отправиться на остров Хийси «искать сокровища» - ведь это всё равно что угодить в ловушку...
+
+### Об Инеффе...
+
+Глупый робот... Она хорошо готовит крумкаке, но постоянно забывает, что ей говорят, и совсем не понимает юмора. Стоит пошутить, так она с серьёзным видом спрашивает, что в этом смешного. Но её крумкаке действительно очень вкусные, обязательно попробуй при случае.
+
+### О Нефер...
+
+Неф - лучший босс в мире! Хе-хе, она не только вовремя платит мне зарплату, но и оплачивает питание и проживание! Пожалуй, я её единственный сотрудник... Нет, постой, чуть не забыла про Ашру! Но его ведь нельзя назвать сотрудником? Он ещё ни одного поручения не выполнил! Хм! Нельзя позволять никому жить за чужой счёт... В следующий раз он пойдёт со мной!
+
+### Об Айно...
+
+У Айно отличные навыки. Независимо от того, что я делаю со своей рукой, она всегда приводит её в порядок. Просто... каждый раз, когда она её лечит, то всегда рисует на ней. Говорит, что так симпатичнее. Да, так и правда симпатичнее, но почему она никогда не рисует на Инеффе?
+
+### О Флинсе...
+
+Я слышала, как Неф говорила о том, что Светоносцы - очень старая организация, полная влиятельных и умных людей, знающих множество древних секретов. Как ты думаешь... Флинс знает что-нибудь о древних сокровищах? Или, может быть, о нетронутых древних руинах? Э-э, просто мысли вслух. Я бы никогда его не спросила! Иначе Неф снова меня отругает.
+
+### О Варке...
+
+Варка? Он говорил, что он магистр Ордо Фавониус, но, честно говоря, он совсем не похож на магистра рыцарского ордена. Разве магистр не должен быть серьёзным и надёжным? Э-э, я не говорю, что он безответственный! Просто... Если магистр Ордо Фавониус здесь, то кто же в Мондштадте командует рыцарями?.. А? Некто серьёзный и надёжный? Ну, ладно, ха-ха... Рыцари Ордо Фавониус - это что-то с чем-то...
+
+### О Куутар...
+
+Эта важная персона... Раньше, если бы я встретила кого-то с таким туманным прошлым, я бы бросилась наутёк! Чем дальше, тем лучше! Но... она спасла меня, так что теперь я у неё в долгу, а долг есть долг.
+Легко говорить, но у меня всего одна жизнь, а при таком раскладе никакого количества жизней не хватит, чтобы расплатиться... О, босс Неф! Спаси меня, ты моя единственная надежда...
+
+### О Марионетке...
+
+Я больше никогда не пойду в такое место! И... Ладно, даже если и пойду, босс Неф обязана пойти со мной. Дикая Охота, Фатуи... какой смысл зарабатывать мору, если умрёшь и не сможешь её потратить?!
+
+### Узнать больше о Ягоде I
+
+В Куратории тайн Неф занимается важными делами, я - мелкими, а Ашру дежурит на входе. Что считается важным, а что нет? Это решает босс Неф...
+
+### Узнать больше о Ягоде II
+
+Хорошо зарабатывать, хорошо питаться - вот мой нынешний жизненный принцип. Если я буду следовать за Неф, то точно буду сыта каждый день, хе-хе-хе...
+
+### Узнать больше о Ягоде III
+
+Моя рука? А, это... ничего страшного. «Цена», которую я заплатила. Не волнуйся, всё в порядке! Оно того стоило. На самом деле, я бы сказала, что приобрела больше, чем потеряла.
+
+### Узнать больше о Ягоде IV
+
+Это ничем не отличается от привычного использования моры для покупки вещей. Если ты чего-то хочешь, тебе придётся заплатить за это определённую «цену». Очевидные цены можно предусмотреть, но незримые цены невозможно рассчитать. Они скрываются в тени, выжидая подходящего момента, когда ты будешь наиболее уязвима... И тогда они появляются, требуя от тебя непомерной платы.
+
+### Узнать больше о Ягоде V
+
+Если тебе когда-нибудь понадобится заплатить «цену», обращайся ко мне. Даже если я сама не смогу собрать нужную сумму, я проглочу свою гордость и попрошу Неф. В худшем случае... Я снова отработаю долг. Но не смей обращаться к Неф напрямую. Если ты кому-то задолжаешь, лучше пусть это буду я. Самые тяжёлые долги - это долги в книге Неф... Откуда я это знаю? Ну, я... Послушай, не спрашивай, просто поверь мне на слово!
+
+### Хобби Ягоды...
+
+Иногда в свободное время я шью тряпичных кукол. Я не брала уроков у мастера, но мои старые... знакомые все говорили, что у меня неплохо получается. В следующий раз я сошью тебе одну.
+
+### Беспокойство Ягоды...
+
+Не знаю почему, но я не могу заснуть, если кровать слишком мягкая. Дайте мне лечь на твёрдый пол, и я не только мгновенно усну, но и буду спать как младенец! Почему так происходит? Так уж сложилось...
+
+### Любимая еда...
+
+Любимая еда? Даже не знаю... Я люблю и мясо, и рыбу, и сахарные фигурки, и печенье... Хе-хе, если честно, я люблю всё, что вкусно!
+
+### Нелюбимая еда...
+
+Я не люблю густые рагу, в которые бросают все ингредиенты и варят до тех пор, пока всё не превратится в кашу... Э-э, если непременно нужно, я могу их съесть, просто... я стараюсь избегать таких ситуаций...
+
+### Подарок I
+
+Как вкусно! Ты прекрасно готовишь, положи мне ещё немножко, хе-хе-хе. Даже лучше, чем Неф... Кхе! Ты уже поел? Если нет... может, поедим вместе? / Как вкусно! Ты прекрасно готовишь, положи мне ещё немножко, хе-хе-хе. Даже лучше, чем Неф... Кхе! Ты уже поела? Если нет... может, поедим вместе?
+
+### Подарок II
+
+Неплохо, хе-хе! Давай кушать! Надо подкрепиться перед работой.
+
+### Подарок III
+
+Э... Я... я смогу всё съесть. Не буду тратить еду впустую, ха-ха-ха...
+
+### День рождения...
+
+С днём рождения! Вот, держи, эта кукла для тебя! Я только что закончила её шить. Я впервые пробовала эту технику - заняло целую вечность, знаешь ли! Я набила её успокаивающими травами, которые помогут тебе заснуть. Положи её рядом с подушкой, и я обещаю, что ты будешь спать крепко и спокойно, без кошмаров. Почему на руке пластырь? Ах... небольшая царапина от... игры с Ашру, ха-ха-ха... Всё в порядке...
+
+### Чувство возвышения: Начало
+
+О? Неплохо!
+
+### Чувство возвышения: Нарастание
+
+Ты становишься ещё ловче.
+
+### Чувство возвышения: Кульминация
+
+Хм... пора размяться!
+
+### Чувство возвышения: Окончание
+
+Хе-хе, я чувствую, что готова к серьёзной работе... Ну как? Пойдём вместе?
+
+### Элементальный навык I
+
+Цель - это ты!
+
+### Элементальный навык II
+
+Пора грабить!
+
+### Элементальный навык III
+
+Не убежишь!
+
+### Взрыв стихии I
+
+Всё моё!
+
+### Взрыв стихии II
+
+Давай сюда!
+
+### Взрыв стихии III
+
+Я никогда не ухожу с пустыми руками.
+
+### Открытие сундука I
+
+О! Теперь всё это наше!
+
+### Открытие сундука II
+
+Неплохая добыча, не зря пришли.
+
+### Открытие сундука III
+
+Снова хорошо заработали.
+
+### Низкий уровень HP I
+
+Х-хорошо...
+
+### Низкий уровень HP II
+
+Ну, погоди...
+
+### Низкий уровень HP III
+
+Я тебе сейчас...
+
+### Низкий уровень HP компаньона I
+
+Ты в своём уме?!
+
+### Низкий уровень HP компаньона II
+
+Вернись!
+
+### Без сознания I
+
+Всё равно... не скрыться...
+
+### Без сознания II
+
+Мой долг... погашен...
+
+### Без сознания III
+
+Вот так... хорошо...
+
+### Присоединяется к группе I
+
+Есть работа?
+
+### Присоединяется к группе II
+
+Положись на меня!
+
+### Присоединяется к группе III
+
+Смотри, что я могу.
+
+## REPLICAS_EN
+
+### Hello
+
+Hey, nice to meet you. If you've got a commission, spit it out. As long as the pay's right, I can help you with anything... Uh, most things... I can help you with most things.
+
+### Chat: Nefer
+
+Ugh... Boss Nef, when can I get a raise? There's so much stuff I wanna buy...
+
+### Chat: Walking the Streets
+
+Come on, let's hit the town. I'll show you someplace fun... But keep it quiet, yeah? Mum's the word.
+
+### Chat: Ashru
+
+Last time I tried to pet Ashru, the little fluffball ran away. Hmph! Someone's not getting their dried fish today!
+
+### When It Rains
+
+Rain? Gogogo, we gotta find some cover before we get soaked.
+
+### When It Snows
+
+Waaah! Snow down my back, coldcoldcold...
+
+### In the Desert
+
+*Pfft!* *Pfft!* *Pfft!* Ugh, sand in my mouth!
+
+### Good Morning
+
+Morning. Have breakfast yet? I know a good place.
+
+### Good Afternoon
+
+*yawn* How about we head back to the shop for a nap? I'm so sleepy...
+
+### Good Evening
+
+It's that late already? Pack it up, worktime's over, it's Ashru time~
+
+### Good Night
+
+*yawn* Better hit the sack... Hey! You still at it? You should probably call it a night, too.
+
+### About Jahoda: Experience
+
+Before I came to the Curatorium of Secrets, my work history was... checkered. Finally meeting Boss Nef after barely scraping by was a real turning point.
+
+### About Jahoda: Curatorium of Secrets
+
+Boss Nef's good to me, and Ashru's pretty friendly, too. Sometimes I forget to call Nef "Boss." Old habits die hard, I guess...
+
+### About Us: Homeland
+
+My hometown? Don't remember... and I don't really care about that kinda thing anyway. Anywhere I can have a full belly and a good night's sleep is "home" enough for me.
+
+### About Us: Friends
+
+We've been through hell and back together, of course we're friends! Next time I'm in trouble, I know you'll have my back. And try not to sell me out... or at least, make sure you get a good price if you do. Hah! I'm joking, I know you'd never betray me. You're too noble to do something that greedy.
+
+### About the Vision
+
+Hehe, it's my pride and joy! Ever since I got it, work's been way less stress! Never imagined I'd ever be this lucky...
+
+### Something to Share: Treasure Hunters
+
+You ever run into anyone calling themselves a "treasure hunter"? Don't let the fancy title fool you, they're just Nod-Krai mercenaries. Give 'em enough money and they'll do pretty much anything for you. If you ever wanna hire some, let me know. I can introduce you to a few of the more reliable ones.
+
+### Something to Share: Cannon
+
+When the Boom and Blast Kuuvahki Energy Cannon gets going, it's a thing of beauty. *sigh* If only I could get my hands on a scale mechanical model... Wonder if Aino could make one for me? After all, she made the original.
+
+### Interesting Things
+
+So, yesterday, I was just thinking... How many grains of sand does it take to make a pile? Is a hundred a pile? What about a thousand? Doesn't seem right... I'll go ask Aino in a few days, she definitely knows!
+
+### About Lauma
+
+Miss Lauma? Uhm... I don't really know too much about her, but I know she's kind of a big deal, and she's powerful... and she can talk to animals... Thinking about it, she must have eyes and furry little ears all over Hiisi Island. No wonder treasure hunters don't go "looking for treasure" there, you'd be walking straight into a trap...
+
+### About Ineffa
+
+Oh, that dumb clanker? She's good at baking krumkakes, but she's got a memory like a leaky sieve and zero humor. Every time I crack a joke she asks me to explain why it's funny. But her krumkakes are the bomb, you have got to try them.
+
+### About Nefer
+
+Nef's the best boss in the whole world! Hehe, not only does she pay me on time, she even covers food and board! I might be her only actual employee... No, wait, I almost forgot about Ashru! Though he's not exactly an employee, right? He's never even completed a single commission! Hmph! Can't have anyone freeloading... Next job, he's coming with me!
+
+### About Aino
+
+Aino's got some serious skills. No matter what I put my arm through, she always gets it working again. It's just... every time she fixes it, she always doodles on it. Says it's cuter that way. I mean, it is kinda cute, but why doesn't she ever draw on Ineffa?
+
+### About Flins
+
+I've heard Nef talk about how the Lightkeepers are a really old organization, chock full of powerful, smart people who know tons of ancient secrets. Say... You think Flins has any leads on ancient treasures? Or maybe some untouched old ruins? Uh, I'm just thinking out loud here, I'd never actually ask! Otherwise, Nef'd chew me out again.
+
+### About Varka
+
+Ohh, Varka? Yeah, he told me he was the Grand Master of the Knights of Favonius, but seriously, he sure doesn't seem like it. Shouldn't a Grand Master be all serious and dependable-looking? Uh, not trying to say he's not responsible! It's just... If the Grand Master of the Knights of Favonius is here, then who's back in Mondstadt actually managing the Knights...? Eh? Someone serious and dependable-looking? Well, okay, haha... The Knights of Favonius sure are something...
+
+### About Kuutar
+
+That VIP... *sigh* Back in the day, if I came across someone with a background that murky, I'd have run for the hills! The farther the better! But... she saved me, so now I owe her, and debts are debts.
+Still, that's easy to say, but I've only got one life to lose, and at this rate, no amount of lives would be enough to cover the tab... O Boss Nef! Save me, you're my only hope...
+
+### About Marionette
+
+I'm never going anywhere like that ever again! And... Okay, even if I did, Boss Nef would have to go with me. Between the Wild Hunt and Fatui... what's the point of making money if you're not alive to spend it!?
+
+### More About Jahoda: I
+
+At the Curatorium, Nef handles the big stuff, I take the small stuff, and Ashru's on door duty. What counts as big and what doesn't? That's up to Boss Nef, she calls the shots...
+
+### More About Jahoda: II
+
+Earn well, eat well, that's my motto these days. Point is, as long as I stick with Nef, I know I won't go hungry, hehehe...
+
+### More About Jahoda: III
+
+My arm? Ah, that... no big deal. It was just the "price" I paid in a trade. Don't worry, it's fine! It was well worth it. In fact, I'd say I came out ahead.
+
+### More About Jahoda: IV
+
+It's no different than how you gotta use Mora to buy stuff. If you want something, you have to pay some kind of "price." Visible prices you can plan for, calculate, but some of the invisible ones are impossible to gauge. They lurk in your shadow, biding their time, waiting until you're at your most vulnerable... that's when they appear, demanding a ransom from you that you could never hope to pay.
+
+### More About Jahoda: V
+
+Hey, if you ever need to pay a "ransom" for some reason, you can come to me. Even if I can't drum up the money myself, I can swallow my pride and ask Nef. Worst comes to worst... I'll work off the debt again. But don't you dare ask Nef yourself. If you're gonna owe someone, better it be me. The hardest debt to repay is a debt in Nef's ledger... How do I know that? Uh, well, I, um... Look, don't ask, just take my word for it, okay!?
+
+### Jahoda's Hobbies
+
+Sometimes, I sew rag dolls when I've got some downtime. It's not like I had formal lessons from a teacher or anything, but my old... acquaintances all said I was pretty good. I'll make you one next time.
+
+### Jahoda's Troubles
+
+I dunno why, but I can't sleep if the bed's too soft. Give me a rock-hard floor to lie on, and not only am I out like a light, I sleep like a baby! Wonder why that is? Just one of those things, I guess...
+
+### Favorite Food
+
+Favorite food? Tough call... I like meat and fish, but sugar sculptures and cookies are great too... Hehe, as long as it's tasty, I'm all for it!
+
+### Least Favorite Food
+
+I don't like those thick stews where all the ingredients are thrown in together and boiled forever, until it's all melted into mush... Uh, if I absolutely have to have some, it's not like I can't, it's just... I'd really rather not...
+
+### Receiving a Gift: I
+
+YUM! Wow, since when can you cook like this? Seconds, please, hehehe. This is so much better than Nef's... *cough*! Uh, you eat already? If not... wanna share?
+
+### Receiving a Gift: II
+
+Not bad! Hehe. Let's chow down! Gotta fuel up for work.
+
+### Receiving a Gift: III
+
+Ugh... I can— I can finish this... Must... not... waste... food. Haha... ha...
+
+### Birthday
+
+Happy birthday! Here ya go, this doll's for you! I just finished sewing it. It was my first time trying this technique — took ages, you know! I stuffed it with calming herbs that'll help you sleep, so just put it next to your pillow and I promise you'll sleep nice and soundly, 100% nightmare-free. The bandage on my hand...? Ah... just a little scratch from... playing with Ashru, hahaha... It's nothing, really...
+
+### Feelings About Ascension: Intro
+
+Oh? Not bad at all!
+
+### Feelings About Ascension: Building Up
+
+Nimbler than ever.
+
+### Feelings About Ascension: Climax
+
+Alright... Time to get moving!
+
+### Feelings About Ascension: Conclusion
+
+Hehe, I'm feeling ready for a big job now... How 'bout it? You wanna join me?
+
+### Elemental Skill: I
+
+You're my target!
+
+### Elemental Skill: II
+
+Smash-'n'-grab!
+
+### Elemental Skill: III
+
+You're not going anywhere!
+
+### Elemental Burst: I
+
+Finders keepers!
+
+### Elemental Burst: II
+
+Hand it over!
+
+### Elemental Burst: III
+
+I never leave empty-handed.
+
+### Opening Treasure Chest: I
+
+Oh! It's alllll ours!
+
+### Opening Treasure Chest: II
+
+Not a bad haul, makes it worth our while.
+
+### Opening Treasure Chest: III
+
+Let's add it to the pile~
+
+### Low HP: I
+
+Okay... okay...
+
+### Low HP: II
+
+Just you wait...!
+
+### Low HP: III
+
+I'm gonna...!
+
+### Ally at Low HP: I
+
+You got a death wish!?
+
+### Ally at Low HP: II
+
+Get back!
+
+### Fallen: I
+
+Still couldn't... get away...
+
+### Fallen: II
+
+My debts... are settled...
+
+### Fallen: III
+
+I guess... this'll do...
+
+### Joining Party: I
+
+Got work for me?
+
+### Joining Party: II
+
+Leave it to me!
+
+### Joining Party: III
+
+Watch and learn.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+哟，初次见面，有什么要委托的事尽管说吧。无论是什么事，只要钱付够，我都能帮你…呃，大部分的事…肯定能帮你搞定。
+
+### 闲聊·奈芙尔
+
+唔…老板什么时候给我涨点工资呢，还有好多想买的东西…
+
+### 闲聊·逛街
+
+走，逛街去啊，带你见识点好玩的东西…别声张啊，我们悄悄去。
+
+### 闲聊·阿舍鲁
+
+上次我摸阿舍鲁的时候，它居然哧溜一下跑掉了，哼，今天不给它买鱼干吃了。
+
+### 下雨的时候…
+
+下雨了？走走走，躲躲雨去，别被淋湿了。
+
+### 下雪的时候…
+
+呜哇！雪飞进脖子了，冷死了冷死了——
+
+### 在沙漠的时候…
+
+呸呸呸，沙子飞嘴里了！
+
+### 早上好…
+
+早啊，吃早饭了没，我带你去吃点好吃的？
+
+### 中午好…
+
+唔，不然还是回店里睡个午觉吧，总觉得好困…
+
+### 晚上好…
+
+都这个时间了，收工收工，回去摸阿舍鲁去喽~
+
+### 晚安…
+
+呼啊——该睡觉了…喂，你还在忙啊？差不多也该休息去啦。
+
+### 关于雅珂达自己·经历
+
+来「秘闻馆」之前，我的「工作经历」可杂了，摸爬滚打了那么长时间，才遇见了奈姐这么一个好老板，也算是我苦尽甘来吧。
+
+### 关于雅珂达自己·秘闻馆
+
+老板对我挺好的，阿舍鲁对我也还算不错。嗯…但我有时候会不由自主地把老板叫做奈姐，怎么也改不过来…
+
+### 关于我们·故乡
+
+我的故乡？我都不记得了…我也不在意这种东西，只要能吃饱饭，能安稳睡觉的地方，就算是我的「故乡」喽。
+
+### 关于我们·朋友
+
+我们都一起出生入死过了，当然已经是朋友了。下次遇见麻烦的时候，我的背后就交给你喽，尽量别出卖我，好么？就算要卖，也请卖一个好价钱，不然我的身价可要跌了…哎呀，开玩笑的，我知道你不会出卖我，你是一个好人，不会做这种自私的事。
+
+### 关于「神之眼」…
+
+嘿嘿，它可是我的宝贝，有了它之后，干活都轻松不少。没想到啊没想到，我雅珂达也有运气这么好的时候…
+
+### 有什么想要分享·宝藏猎人
+
+你在街上是不是遇见过自称「宝藏猎人」的家伙？别被这个名号唬住了，你就把他们理解成挪德卡莱的「雇佣兵」就好了，只要给够钱，他们就会愿意给你办事。如果你真想找这群人帮忙的话，我认识几个好手，到时候介绍给你啊。
+
+### 有什么想要分享·大炮
+
+「轰隆隆月矩力能量炮」开炮的时候，真的很帅气啊。唔…要是能买一台那门大炮的等比例缩小机械模型就好了，爱诺能不能帮我做一台呢，反正这门大炮也是她造的…
+
+### 感兴趣的见闻…
+
+我昨天突然胡思乱想，你说…到底多少粒沙子聚在一起，才能被称为「一堆沙」呢？一百粒？一千粒？好像都不太对喔，过几天我去找爱诺问问好了，她肯定知道。
+
+### 关于菈乌玛…
+
+菈乌玛小姐？嗯…虽然我不怎么了解她，但我也知道她的身份可高了，实力也很强，而且她还能和动物说话呢，这么一来，希汐岛上的那些动物，不都等于是菈乌玛小姐的耳目了？怪不得没有宝藏猎人敢去希汐岛「寻宝」呢，这一上岛不就等于自投罗网吗…
+
+### 关于伊涅芙…
+
+啊，那个笨蛋机器人啊，做蛋卷挺好吃的啊，就是总记不住人说话，而且也没什么幽默感，随便说个玩笑都要认真地问我哪里好笑，但她的蛋卷真的很好吃喔，有机会你一定要尝尝。
+
+### 关于奈芙尔…
+
+奈姐当然是我最最亲爱的老板啦！嘿嘿嘿，她不仅给我开工资，还管吃管住。不过，她手底下好像也就只有我一个正式员工…啊，还有阿舍鲁，差点忘了。不过，阿舍鲁说是员工，却一次委托都没出过…哼，居然吃闲饭，下次我就抱着它出外勤去！
+
+### 关于爱诺…
+
+爱诺的手艺可好了，无论我把胳膊折腾成什么样，她都能修好。但是每次修理手臂的时候，爱诺都会在上面画画，说什么这样比较可爱，虽然确实挺可爱的，但她怎么不在伊涅芙身上画呢？
+
+### 关于菲林斯…
+
+我听奈姐说过，执灯人是一个历史很悠久的组织，里面的人又厉害又聪明，还知道很多古老的秘辛。你说…菲林斯会不会也知道某些宝藏的线索？或者是知道哪里有没被挖过的遗迹？呃，我就是想想，不会去问的，不然奈姐又要训我了。
+
+### 关于法尔伽…
+
+你说法尔伽大叔啊，他倒是和我说过自己是西风骑士团大团长…但是根本看不出来嘛，骑士团团长不应该是那种很认真，看着就很可靠的人么？啊！我可没有说法尔伽大叔不可靠的意思啊。不过，西风骑士团的大团长在这里，那留在蒙德的骑士们又归谁管呢…欸？一个很认真，看着就很可靠的人，哈哈…西风骑士团，真是复杂啊…
+
+### 关于「库塔尔」…
+
+那位大人物啊…唉，要是放在之前，遇见背景这么复杂的人，我一定会离她远远的，跑得越远越好！不过…她之前救过我，我也要还她的人情才行，不然也太不讲义气了。
+虽然话是这么说，但我总共就只有一条命，再这么折腾下去，我看多少条命都不够往里面赔的，老板保佑老板保佑…
+
+### 关于「木偶」…
+
+下次，我绝对不会去那种地方了！就、就算要去，也要老板和我一起去才行，这又是狂猎又是愚人众的，我有命赚钱，没命花钱啊！
+
+### 想要了解雅珂达·其一
+
+在「秘闻馆」里，大事归奈姐，小事归我，开门接待的事归阿舍鲁。什么算大，什么算小？那就得看奈姐了，她是老板嘛，说什么就是什么…
+
+### 想要了解雅珂达·其二
+
+好好赚钱，好好吃饭，这就是我现在的人生信条，反正只要跟紧奈姐的脚步，我肯定天天能吃饱，嘿嘿嘿…
+
+### 想要了解雅珂达·其三
+
+我的右胳膊？啊…没什么大不了的，它只不过是被我作为「代价」交换出去了，放心啦，那一笔买卖做得很划算，至少在我看来，不算是亏本买卖。
+
+### 想要了解雅珂达·其四
+
+就像买东西需要付出摩拉一样，如果你想要获得某种东西，就一定会付出某种「代价」。那些有形的「代价」能够被计算规划，但某些无形的「代价」，却总是难以估量，它们会蛰伏在你的影子里静候时机，待到你孤立无援时，它们就会现出身形，向你索要一份你根本无法付清的赎金。
+
+### 想要了解雅珂达·其五
+
+喂，如果你也要为什么事情支付「赎金」的话，可以来找我帮忙喔，就算我的钱不够，我也可以厚着脸皮找奈姐的，大不了…我就再给她白打工一段时间。但你可千万别直接找奈姐，如果你一定要欠一个人的钱，那你还是欠我的好，记在奈姐手上的债，可能是世界上最难还的了…我怎么知道？呃，啊…你、你别问这么多，听我的就是了！
+
+### 雅珂达的爱好…
+
+我闲下来的时候，偶尔会缝一缝布娃娃，虽然没真正找哪位大师学过，但我之前…认识的人都说，我缝的像模像样，下次也做一个送给你。
+
+### 雅珂达的烦恼…
+
+不知道为什么，只要我睡的床太软，我就会失眠，但我睡在硬邦邦的地板上时，却能迅速睡着，而且睡得特别香，到底是为什么呢？真奇怪…
+
+### 喜欢的食物…
+
+特别喜欢的食物？一时半会我还真想不到，肉和鱼我喜欢，糖雕和饼干我也喜欢…嘿嘿，只要是好吃的，我都喜欢！
+
+### 讨厌的食物…
+
+我不喜欢那种混合着很多食材，煮了很久…煮到食材都完全融化的大浓汤…呃，但如果非要喝的话，我也不是不能喝啦，就是尽量不喝嘛…
+
+### 收到赠礼·其一
+
+好吃！你手艺居然这么好，再给我盛一点，嘿嘿嘿，比奈姐的手艺还…咳！那个…你吃了没？不然…一起吃？
+
+### 收到赠礼·其二
+
+不错啊，嘿嘿，快快吃饱，好去干活。
+
+### 收到赠礼·其三
+
+呃…我能…能吃完，不会浪费食物的，哈哈哈…
+
+### 生日…
+
+生日快乐！喏，这个布娃娃给你，我刚缝好的，我第一次用这种方法缝娃娃，花了不少时间呢，娃娃里面还放了助眠安神的草药呢，你就把它放在枕头旁边吧，保证你睡得安安稳稳，绝对不会做噩梦。手怎么包着创可贴…啊…和阿舍鲁玩的时候，被它的爪子挠了一下，没事啦，哈哈哈…没事…
+
+### 突破的感受·起
+
+喔？不错啊！
+
+### 突破的感受·承
+
+身手更灵巧了。
+
+### 突破的感受·转
+
+嗯…该活动活动筋骨了！
+
+### 突破的感受·合
+
+嘿嘿，足够我干一票大的了…怎么样？要一起吗？
+
+### 元素战技·其一
+
+目标就是你！
+
+### 元素战技·其二
+
+该明抢了！
+
+### 元素战技·其三
+
+哪里跑！
+
+### 元素爆发·其一
+
+都是我的！
+
+### 元素爆发·其二
+
+拿来吧！
+
+### 元素爆发·其三
+
+我从不走空。
+
+### 打开宝箱·其一
+
+喔！都是我们的了！
+
+### 打开宝箱·其二
+
+收获不错，总算没白跑。
+
+### 打开宝箱·其三
+
+又赚了一笔。
+
+### 生命值低·其一
+
+好…好…
+
+### 生命值低·其二
+
+你等着…！
+
+### 生命值低·其三
+
+看我不把你…
+
+### 同伴生命值低·其一
+
+你傻了吗？！
+
+### 同伴生命值低·其二
+
+回来！
+
+### 倒下·其一
+
+还是…难逃…
+
+### 倒下·其二
+
+我的债…还清了…
+
+### 倒下·其三
+
+这样…就好…
+
+### 加入队伍·其一
+
+有活干了？
+
+### 加入队伍·其二
+
+包在我身上。
+
+### 加入队伍·其三
+
+瞧我的吧。

@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 76159
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10239
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 76159
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 110
 
 ## RU
 
@@ -38,53 +41,83 @@
 
 **Николь:** ...мне.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы не вовремя?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мы зайдём попозже...
+
+##### Общее продолжение
 
 **Николь:** Вовсе нет. Ваше появление соответствует предсказанию Барби... Хотя, если честно, я думала, что вы придёте чуть позже.
 
 **Николь:** Прежде чем перейти к делу, не хотите ли... перекусить?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Неужели в пророчестве Барбелот говорилось, что мы придём голодными?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Неужели и такое можно предсказать?
+
+##### Общее продолжение
 
 **Николь:** Нет, конечно! Но у меня довольно острый слух, и я за километр услышала урчание в животе у Паймон...
 
 **Паймон:** *Ур-р-р...*
 
-**Паймон:** Ах! У Паймон в животе заурчало только после того, как заурчало в животе у (путешественницы)(путешественника). Нам (обеим)(обоим) очень хочется есть...
+**Паймон:** Ах! У Паймон в животе заурчало только после того, как заурчало в животе у путешественника. Нам обоим очень хочется есть... / Ах! У Паймон в животе заурчало только после того, как заурчало в животе у путешественницы. Нам обеим очень хочется есть...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Откуда мне было знать, что у них закончатся стейки?..
 
+##### Вариант ответа 2
+
 - **Путешественник:** Одним салатом не наешься...
+
+##### Общее продолжение
 
 **Николь:** Не волнуйся, ведьма не даст гостям, пришедшим издалека, остаться голодными. Я приготовила для вас печенье и торт.
 
-*Вы с Паймон с удовольствием лакомитесь печеньем и тортом, запивая их чаем. Странно, но сколько бы вы ни ели и ни пили, чайник остаётся наполовину полным, а на ваших тарелках неизменно появляются свежее печенье и тортик...*
+Вы с Паймон с удовольствием лакомитесь печеньем и тортом, запивая их чаем. Странно, но сколько бы вы ни ели и ни пили, чайник остаётся наполовину полным, а на ваших тарелках неизменно появляются свежее печенье и тортик...
 
 **Паймон:** П-Паймон больше не может. Сколько ни ешь - всё не кончается...
 
-- **Путешественник:** Это и есть... чаепитие ведьм?
+##### Вариант ответа 1
 
-- **Путешественник:** В следующий раз обязательно приведём с собой Варесу...
+- **Путешественник:** Это и есть... чаепитие ведьм?
 
 **Николь:** Да. Во время чаепития на столе должно быть достаточно сладостей и чая.
 
 **Николь:** Как ни крути, сложно сохранить ведьминскую элегантность, наевшись досыта. Именно поэтому чайник всегда наполовину полон, а на каждой тарелке лежит всего одно печенье или кусочек торта.
 
+##### Вариант ответа 2
+
+- **Путешественник:** В следующий раз обязательно приведём с собой Варесу...
+
 **Николь:** Ту девочку из Натлана, из Удела Благодатных Земель, которая много ест? Алиса мне о ней рассказывала. Удивительная.
 
 **Николь:** Если она придёт в гости, перед ней обязательно нужно поставить три... нет, семь тарелок.
+
+##### Общее продолжение
 
 **Паймон:** Паймон больше не может... Не может... Паймон правда объелась... Давайте лучше поговорим о деле. Ик... Ой, извините...
 
 **Николь:** Полагаю, вы пришли, чтобы передать мне урок, который предсказала для меня Барби?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты всё знаешь...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Неужели только что Барбелот...
+
+##### Общее продолжение
 
 **Николь:** Нет, я обсуждала с Барбелот другое дело. Из-за резкого смещения Луны её гидромантия вышла из равновесия, поэтому ей необходимо на время уединиться для медитации.
 
@@ -92,9 +125,15 @@
 
 **Паймон:** Э? Разве ответственного можно менять так внезапно?!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ну, если кто-то и способен на это...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...то это Николь!
+
+##### Общее продолжение
 
 **Николь:** Мне и выбора-то не оставили! Барбелот и Алиса записали мой особый урок в словарь, прежде чем сообщить мне об этом.
 
@@ -102,9 +141,15 @@
 
 **Николь:** Октавия так и не вернулась, не говоря уже о Рэйндоттир... Все ведьмы заняты своими делами, так что мне пришлось временно взять на себя обязанность контролировать уроки.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ведьмы такие занятые...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Вас довольно много.
+
+##### Общее продолжение
 
 **Николь:** Да. Я и не помню, когда мы в последний раз устраивали нормальное чаепитие.
 
@@ -116,19 +161,33 @@
 
 **Паймон:** Ты права, Николь! Мы заглянули туда перед тем, как прийти, и там нет подробных инструкций. Только эти два предложения...
 
+##### Вариант ответа 1
+
 - **Путешественник:** «Николь выполнит свои обязанности».
+
+##### Вариант ответа 2
 
 - **Путешественник:** «Она не позволит тебе работать даром!»
 
+##### Вариант ответа 3
+
 - **Путешественник:** Больше здесь ничего не написано.
+
+##### Общее продолжение
 
 **Николь:** Ладно. Первое предложение совершенно точно написала Барби, а последнее - Алиса.
 
 **Николь:** Ладно, давайте приступим к выполнению этого урока! Дайте подумать, с чего бы начать...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Постой, ты поняла, что от тебя хотят?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ни слова не понятно...
+
+##### Общее продолжение
 
 **Николь:** Барби только что рассказала, что мне нужно сделать.
 
@@ -140,47 +199,65 @@
 
 **Николь:** К тому же, когда Барби готовила для меня этот урок, она перелистнула сразу на последнюю страницу моей истории и заранее сказала, чем она закончится.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это же спойлер! Разве так можно?!
 
-- **Путешественник:** Значит, я зря сюда (пришла)(пришёл)?..
+**Николь:** Ты прав, но между пророчеством и спойлером нет никакой разницы. Следуйте за мной. Сначала мы пойдём... Хм, сначала пойдём туда... / Ты права, но между пророчеством и спойлером нет никакой разницы. Следуйте за мной. Сначала мы пойдём... Хм, сначала пойдём туда...
 
-**Николь:** Ты прав(а), но между пророчеством и спойлером нет никакой разницы. Следуйте за мной. Сначала мы пойдём... Хм, сначала пойдём туда...
+##### Вариант ответа 2
+
+- **Путешественник:** Значит, я зря сюда пришёл?.. / Значит, я зря сюда пришла?..
 
 **Николь:** Что ты имеешь в виду? Этот урок нужно сдать лично тебе. Это важный момент. Чтобы урок был засчитан, необходимо соблюсти определённые формальности.
 
 **Николь:** Но об этом мы поговорим позже. Нельзя медлить. Давайте, идите за мной. Мы пойдём... Хм, да, это место вполне подходит...
 
+##### Общее продолжение
+
 **Паймон:** Что? Прямо сейчас? Подожди, а как мы туда доберёмся?
 
-*В мгновение ока вы оказались на краю обрыва...*
+В мгновение ока вы оказались на краю обрыва...
 
 #### Поговорите с Николь
 
-*В мгновение ока вы оказались на краю обрыва...*
+В мгновение ока вы оказались на краю обрыва...
 
 **Николь:** Ну вот, мы на месте. Из этого сада феи открывается потрясающий вид, не правда ли? Видите то место вон там? Оттуда и начнём.
 
+##### Вариант ответа 1
+
 - **Путешественник:** ...Сад феи?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Неужели ты используешь его, чтобы...
+
+##### Общее продолжение
 
 **Николь:** Да, это ускоряет перемещение. Он связан с артериями земли. Обычно его никто не использует, поэтому он очень удобный.
 
 **Николь:** К тому же мы с феями когда-то были ангелами, то есть бывшими коллегами. Если я изредка использую их сад, они точно не будут против.
 
-Здесь никого нет...
+- **Путешественник:** Здесь никого нет...
 
 **Николь:** Время ещё не пришло. Через некоторое время поэт исполнит древнюю песнь и призовёт тысячу ветров, что бродят в вечности...
 
-Неужели это урок для...
+- **Путешественник:** Неужели это урок для...
 
 **Николь:** Не торопись. Скоро всё прояснится. В недалёком будущем ты станешь частью той оды, и тысячи ветров будут кружиться вокруг тебя.
 
 **Николь:** Но до этого времени... давай позволим оде спокойно дремать. Идёмте к следующему месту.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это место...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Когда-то мы с Венти выступали дуэтом на далёком острове.
+
+##### Общее продолжение
 
 **Николь:** Да, я читала об этом в словаре. Судя по результату, вы с Барбатосом сыграли прекрасную мелодию. Очень жаль, что Барби не удалось услышать ни одной ноты.
 
@@ -196,9 +273,15 @@
 
 **Волчья стая:** ...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Волки ушли...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Неужели это урок для...
+
+##### Общее продолжение
 
 **Николь:** Малыш ещё не пришёл? Наверное, мы опять слишком рано. Но не волнуйтесь, пока рядом с ним Лупикал, он сможет победить любого противника.
 
@@ -208,9 +291,15 @@
 
 **Николь:** Ты права, Паймон, но ему нужно понять гораздо больше, чем волчий вой...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это место...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мы с Рэйзором здесь сражались.
+
+##### Общее продолжение
 
 **Николь:** Да, мальчик по имени Рэйзор уже одержал победу в той неминуемой яростной битве.
 
@@ -224,9 +313,15 @@
 
 **Паймон:** А-а-а! Откуда здесь эта дверь?!
 
+##### Вариант ответа 1
+
 - **Путешественник:** На ней наклейка...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Этот стиль выглядит знакомо...
+
+##### Общее продолжение
 
 **Николь:** Похоже на почерк Алисы. Посмотрим...
 
@@ -236,7 +331,7 @@
 
 **Николь:** Домой? Подождите, эта дверь выглядит знакомо. Неужели за ней...
 
-*Николь распахивает дверь, а затем решительно входит. Вы следуете за ней и через мгновение оказываетесь в комнате...*
+Николь распахивает дверь, а затем решительно входит. Вы следуете за ней и через мгновение оказываетесь в комнате...
 
 #### Войдите в комнату
 
@@ -248,15 +343,27 @@
 
 **Паймон:** Опять мы переместились. Это же...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Подождите, там...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Там огромный сад феи!
 
+##### Общее продолжение
+
 **Николь:** Неудивительно, что Алиса в тот день внезапно пришла ко мне и попросила ключи. Сказала, что хочет обустроить красивую чайную комнату... Хотя я ей говорила, что у меня уже есть чайная комната...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Это подарок Алисы?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Почему она подарила тебе сад феи?
+
+##### Общее продолжение
 
 **Николь:** Он символизирует конец наставничества, завершение путешествия... и исполнение пророчества.
 
@@ -266,7 +373,7 @@
 
 **Николь:** Только так мою историю можно вплести в истории всех остальных, не мешая другим урокам.
 
-Ты ведь не фея?
+- **Путешественник:** Ты ведь не фея?
 
 **Николь:** Ну... мы не так уж и отличаемся друг от друга. Когда-то мы все были ангелами... Но это не имеет никакого значения. Важно то, что это символизирует.
 
@@ -276,21 +383,33 @@
 
 **Николь:** Это мило, но ощущение словно... концовку придумали на ходу. Если бы Аня была здесь, я уверена, она предложила бы что-то более остроумное...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Понятно...
 
-- **Путешественник:** А я думал(а), что всё закончится после появления сундука.
+##### Вариант ответа 2
+
+- **Путешественник:** А я думал, что всё закончится после появления сундука. / А я думала, что всё закончится после появления сундука.
+
+##### Общее продолжение
 
 **Николь:** Не волнуйся, это тоже важный элемент...
 
-**Паймон:** Сундук!
+**Паймон и Путешественник:** Сундук!
 
-Сундук!
+- **Путешественник:** Сундук!
 
 **Паймон:** Урок начинает обретать смысл.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вот каково это, когда все детали складываются воедино...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Общая структура действительно очень важна!
+
+##### Общее продолжение
 
 **Николь:** Что я вам говорила? Эта небольшая прогулка всё-таки оказалась плодотворной!
 
@@ -298,7 +417,7 @@
 
 **Николь:** А это значит, что сегодняшний урок на этом заканчивается. И что в будущем у нас появится официальный наставник, который будет помогать с уроками.
 
-А ещё сундуки будут?
+- **Путешественник:** А ещё сундуки будут?
 
 **Николь:** Это зависит от того, какие уроки будут созданы в будущем.
 
@@ -308,7 +427,11 @@
 
 #### Откройте сундук!
 
+**Николь:** Моё «наставничество» не закончится, пока ты не откроешь этот сундук! Ради словаря, посмотри, пожалуйста, что там внутри.
+
 **Покинуть помещение:** Покинуть комнату
+
+**Покинуть помещение:** (Замок не поддаётся. Возможно, сначала нужно открыть сундук Николь...)
 
 ## EN
 
@@ -322,17 +445,29 @@ At the site of the mages' tea party, you meet Nicole, who seems to be talking to
 
 **Nicole:** ...me.
 
+##### Response branch 1
+
 - **Traveler:** Is this a bad time...?
 
+##### Response branch 2
+
 - **Traveler:** Maybe we should come back later...
+
+##### Shared continuation
 
 **Nicole:** Nonsense, your arrival is more or less in line with Barbie's prophecy... Though to be honest, I did think you'd be here a little later.
 
 **Nicole:** Anyway... Before we get down to business, it might be best if you two... have something to eat?
 
+##### Response branch 1
+
 - **Traveler:** D—Did Barbeloth's prophecy say we'd be hungry?
 
+##### Response branch 2
+
 - **Traveler:** Is hunger something that can be prophesied, too?
+
+##### Shared continuation
 
 **Nicole:** No, of course not! But my hearing happens to be quite sharp, and I heard Paimon's stomach rumbling a mile away...
 
@@ -340,35 +475,53 @@ At the site of the mages' tea party, you meet Nicole, who seems to be talking to
 
 **Paimon:** Whoa! Paimon's stomach is rumbling for two... We must both be super famished...
 
+##### Response branch 1
+
 - **Traveler:** How was I supposed to know that place would run out of steak...
+
+##### Response branch 2
 
 - **Traveler:** We ate all that salad, but it just felt like a bowl of green air...
 
+##### Shared continuation
+
 **Nicole:** Don't you worry about that! I've got plenty of cookies and cake — and as you know, nothing bad ever happened to hungry travelers who accepted food from a "witch"...
 
-*You and Paimon munch happily on cookies and cake while gulping down tea. Strangely, no matter how much you eat or drink, the teapot remains half full, and there is always a fresh cookie and slice of cake on your plates...*
+You and Paimon munch happily on cookies and cake while gulping down tea. Strangely, no matter how much you eat or drink, the teapot remains half full, and there is always a fresh cookie and slice of cake on your plates...
 
 **Paimon:** Paimon's so full... No matter how much she puts in her tummy, there's always more on her plate...
 
-- **Traveler:** Is this what mages' tea parties are like...
+##### Response branch 1
 
-- **Traveler:** We'll have to bring Varesa next time...
+- **Traveler:** Is this what mages' tea parties are like...
 
 **Nicole:** Of course! You can't have a tea party without an ample supply of food and drink.
 
 **Nicole:** Though it's true, it is hard to display an appropriate "magely" elegance after stuffing one's face. That's why the teapot is usually only half full, and there's only one cookie or piece of cake on each plate.
 
+##### Response branch 2
+
+- **Traveler:** We'll have to bring Varesa next time...
+
 **Nicole:** Is she the champion eater from Natlan's Collective of Plenty? Alice mentioned her to me once — apparently, she's a fascinating young lady.
 
 **Nicole:** I imagine if she were to attend one of our parties, we'd need to set out three... maybe even seven plates.
+
+##### Shared continuation
 
 **Paimon:** Paimon really can't eat any more! She's coming apart at the seams... Can we get down to business now? *burp* Oh... well, sorry...
 
 **Nicole:** Alright. I gather you're here to deliver my "homework" — the one that Barbie prophesied?
 
+##### Response branch 1
+
 - **Traveler:** You knew all along...
 
+##### Response branch 2
+
 - **Traveler:** So just now, Barbeloth was...
+
+##### Shared continuation
 
 **Nicole:** Nothing of the sort. We were discussing something completely different. The moon's massive shift has knocked her hydromancy out of whack, so she needs to head back for a while to undergo a period of silent meditation.
 
@@ -376,9 +529,15 @@ At the site of the mages' tea party, you meet Nicole, who seems to be talking to
 
 **Paimon:** Huh? You can just swap the person in charge like that!?
 
+##### Response branch 1
+
 - **Traveler:** Well, if anyone can do it...
 
+##### Response branch 2
+
 - **Traveler:** ...It's Nicole!
+
+##### Shared continuation
 
 **Nicole:** Not like I had much choice! Before Barbie and Alice even told me about it, they'd already inscribed my "special homework" in the dictionary.
 
@@ -386,9 +545,15 @@ At the site of the mages' tea party, you meet Nicole, who seems to be talking to
 
 **Nicole:** Octavia didn't bother to come back, and you can forget about Rhinedottir... The other mages all have their own affairs to attend to, so the duty of supervising this homework has fallen to me.
 
+##### Response branch 1
+
 - **Traveler:** I didn't realize the Hexenzirkel was so busy...
 
+##### Response branch 2
+
 - **Traveler:** Now you mention it, there's quite a lot of you.
+
+##### Shared continuation
 
 **Nicole:** There really are. I don't even know how long it's been since we all got together to make this a proper tea party.
 
@@ -400,19 +565,33 @@ At the site of the mages' tea party, you meet Nicole, who seems to be talking to
 
 **Paimon:** You're right, Nicole! We had a look before coming over, and there aren't any detailed instructions at all. There's only these two sentences...
 
+##### Response branch 1
+
 - **Traveler:** "Nicole will fulfill her duty."
+
+##### Response branch 2
 
 - **Traveler:** "She definitely won't allow you to work for free!"
 
+##### Response branch 3
+
 - **Traveler:** That's all there is.
+
+##### Shared continuation
 
 **Nicole:** Alright. That first sentence was clearly written by Barbie, but I'd bet my bottom Mora it was Alice who added the second.
 
 **Nicole:** Anyway, let's get cracking on this homework! Just let me think, where should we begin...
 
+##### Response branch 1
+
 - **Traveler:** Hold on, you actually understood what they want you to do?
 
+##### Response branch 2
+
 - **Traveler:** I didn't understand a word of it...
+
+##### Shared continuation
 
 **Nicole:** Huh? Oh, Barbie gave me a rundown of my tasks just now.
 
@@ -424,47 +603,65 @@ At the site of the mages' tea party, you meet Nicole, who seems to be talking to
 
 **Nicole:** Besides, when Barbie wrote this homework of mine, all she actually did was flip straight to the final page of my story and tell me the ending in advance.
 
+##### Response branch 1
+
 - **Traveler:** Isn't that a massive spoiler!?
 
-- **Traveler:** Does this mean I came here for nothing...
-
 **Nicole:** Hmm... You make a fair point, but then what's the difference between a prophecy and a spoiler anyway? Alright, enough dawdling — come on, follow me. We're going to... Hmm, yes, that seems like as good a place as any...
+
+##### Response branch 2
+
+- **Traveler:** Does this mean I came here for nothing...
 
 **Nicole:** What do you mean? This homework had to be delivered by you — that's a very important step. Certain formalities must be observed in order for homework to count.
 
 **Nicole:** But we can talk about that later. Anyway, enough dawdling — come on, follow me. We're going to... Hmm, yes, that seems like as good a place as any...
 
+##### Shared continuation
+
 **Paimon:** Just like that? Hold on, how are we supposed to get the—
 
-*In the blink of an eye, you find yourselves standing at the edge of a cliff...*
+In the blink of an eye, you find yourselves standing at the edge of a cliff...
 
 #### Talk to Nicole
 
-*In the blink of an eye, you find yourselves standing at the edge of a cliff...*
+In the blink of an eye, you find yourselves standing at the edge of a cliff...
 
 **Nicole:** Alright, we're here. This Seelie Court has some really great views, don't you think? See that spot over there? That's the starting point.
 
+##### Response branch 1
+
 - **Traveler:** ...Seelie Court?
 
+##### Response branch 2
+
 - **Traveler:** Did you just use it to...
+
+##### Shared continuation
 
 **Nicole:** Did I use it to get us here faster? You bet I did! These Seelie Courts are connected to the Ley Lines, and nobody really uses them. They're very handy when it comes to traveling about.
 
 **Nicole:** Besides, the Seelie and I used to be angels, so we're old colleagues. I'm sure they won't mind me borrowing their homes every once in a while.
 
-There doesn't seem to be anyone else around...
+- **Traveler:** There doesn't seem to be anyone else around...
 
 **Nicole:** We're early. In but a short while, a bard will come to sing odes of old and call back the thousand winds that wander the ages...
 
-I don't suppose this homework is for...
+- **Traveler:** I don't suppose this homework is for...
 
 **Nicole:** Shh... Patience. All will be revealed in time. Before long, you will become a single lilting melody ensconced in an ode, and the thousand winds will swirl around you.
 
 **Nicole:** But before that happens, we should allow it to slumber in peace... Come, let's head to our next location.
 
+##### Response branch 1
+
 - **Traveler:** Hey, isn't this...
 
+##### Response branch 2
+
 - **Traveler:** Venti and I once performed a duet on that island in the distance.
+
+##### Shared continuation
 
 **Nicole:** Yes, I read about that in the dictionary. Based on how it ended, you and Lord Barbatos must have played quite a beautiful tune. Such a shame that Barbie couldn't hear a single note.
 
@@ -480,9 +677,15 @@ I don't suppose this homework is for...
 
 **Wolf Pack:** ...
 
+##### Response branch 1
+
 - **Traveler:** The wolves have gone...
 
+##### Response branch 2
+
 - **Traveler:** I don't suppose this homework is for...
+
+##### Shared continuation
 
 **Nicole:** Shh. Has that child not arrived yet? Perhaps we've come too early again. Not to worry, as long as he stands beside his "lupical", he can overcome any foe.
 
@@ -492,9 +695,15 @@ I don't suppose this homework is for...
 
 **Nicole:** You're not wrong, Paimon, but there's a lot more he'd need to understand than just the chatter of wolves...
 
+##### Response branch 1
+
 - **Traveler:** Hey, isn't this...
 
+##### Response branch 2
+
 - **Traveler:** Razor and I once fought here together.
+
+##### Shared continuation
 
 **Nicole:** That's right. That child already claimed victory in the battle he was destined to fight.
 
@@ -508,9 +717,15 @@ I don't suppose this homework is for...
 
 **Paimon:** Whoa! When did this door appear!?
 
+##### Response branch 1
+
 - **Traveler:** There's a note stuck to it...
 
+##### Response branch 2
+
 - **Traveler:** This style... It feels familiar...
+
+##### Shared continuation
 
 **Nicole:** This looks like Alice's handwriting. Let's take a look...
 
@@ -520,7 +735,7 @@ I don't suppose this homework is for...
 
 **Nicole:** Hurry home? Wait a second, why does this door look so familiar? There's no way it could lead to...
 
-*Nicole pushes the door open, then strides through purposefully as you follow. A moment later, you find yourselves standing inside a room...*
+Nicole pushes the door open, then strides through purposefully as you follow. A moment later, you find yourselves standing inside a room...
 
 #### Enter the room
 
@@ -532,15 +747,27 @@ I don't suppose this homework is for...
 
 **Paimon:** Somewhere new? Hey, isn't this...
 
+##### Response branch 1
+
 - **Traveler:** Hold on, over there...
+
+##### Response branch 2
 
 - **Traveler:** There's a huge Seelie Court in here!
 
+##### Shared continuation
+
 **Nicole:** No wonder Alice wanted to borrow the lodge key... She said she wanted to set up a tea room, even though I told her I already had one...
+
+##### Response branch 1
 
 - **Traveler:** So this is a gift from Alice?
 
+##### Response branch 2
+
 - **Traveler:** But why would she give you a Seelie Court...?
+
+##### Shared continuation
 
 **Nicole:** It symbolizes "the completion of guidance," "the end of a journey," and "the fulfillment of prophecy."
 
@@ -550,7 +777,7 @@ I don't suppose this homework is for...
 
 **Nicole:** This is the only way for my story to be inscribed among everyone else's without interfering with their own homework.
 
-But you're not a Seelie, are you?
+- **Traveler:** But you're not a Seelie, are you?
 
 **Nicole:** Ah... Uhm, well, we're not all that different. Once upon a time, we were all angels, after all... But that doesn't really matter. What's important is what it symbolizes.
 
@@ -560,21 +787,33 @@ But you're not a Seelie, are you?
 
 **Nicole:** It's a nice touch, but it feels like... the ending to a story written on the fly. If Anya were here, I'm sure she'd have come up with something more clever...
 
+##### Response branch 1
+
 - **Traveler:** I see...
+
+##### Response branch 2
 
 - **Traveler:** And here was me thinking it would end with a treasure chest...
 
+##### Shared continuation
+
 **Nicole:** Don't you worry, that's an essential element as well...
 
-**Paimon:** Hey, a treasure chest!
+**Paimon & Traveler:** Hey, a treasure chest!
 
-Hey, a treasure chest!
+- **Traveler:** Hey, a treasure chest!
 
 **Paimon:** Now this homework's starting to make sense!
 
+##### Response branch 1
+
 - **Traveler:** So this is what it feels like when the pieces all fall into place...
 
+##### Response branch 2
+
 - **Traveler:** Guess the outline really is key!
+
+##### Shared continuation
 
 **Nicole:** What did I tell you? It seems like this has been a fruitful little excursion after all!
 
@@ -582,7 +821,7 @@ Hey, a treasure chest!
 
 **Nicole:** Which means... that today's homework ends here, and also, that there'll be a formal tutor to provide guidance on all future assignments.
 
-...Will there be more chests for those assignments, too?
+- **Traveler:** ...Will there be more chests for those assignments, too?
 
 **Nicole:** Well, that depends on what assignments are... assigned.
 
@@ -592,7 +831,11 @@ Hey, a treasure chest!
 
 #### Open the chest!
 
+**Nicole:** Anyway... My "guidance" doesn't end until you open that chest! For the sake of the dictionary, can you please see what's inside?
+
 **Leave:** Leave the room.
+
+**Leave:** (The lock won't budge at all. Perhaps you should open Nicole's treasure chest first...)
 
 ## ZH
 
@@ -606,17 +849,29 @@ Hey, a treasure chest!
 
 **尼可:** …我。
 
+##### 对话分支 1
+
 - **旅行者:** 我们是不是来的…
 
+##### 对话分支 2
+
 - **旅行者:** 不太是时候…？
+
+##### 共同后续
 
 **尼可:** 没有，你们来的时间差不多符合芭比对我做出的「预言」…我还以为会再晚点呢。
 
 **尼可:** 不过，在谈正事之前，你们不如…先吃点东西？
 
+##### 对话分支 1
+
 - **旅行者:** 是、是芭比洛斯女士的预言吗？
 
+##### 对话分支 2
+
 - **旅行者:** 居然连这种事都能预言到…
+
+##### 共同后续
 
 **尼可:** 没有啦。只是我的听力比较好，听见了小派蒙的肚子…
 
@@ -624,35 +879,53 @@ Hey, a treasure chest!
 
 **派蒙:** 呜哇！我…我的肚子是替旅行者响的，我们的肚子都很饿呢…
 
+##### 对话分支 1
+
 - **旅行者:** 谁知道肉排卖光了…
+
+##### 对话分支 2
 
 - **旅行者:** 总不能吃一肚子沙拉吧…
 
+##### 共同后续
+
 **尼可:** 放心吧，魔女可不会让远道而来的客人饿肚子，来，饼干和蛋糕都给你们准备好了。
 
-*你和派蒙开心地吃起了蛋糕和饼干，也咕咚咕咚地喝了很多茶，但奇怪的是，无论你们怎么吃喝，茶壶却永远都是半满，盘子里也永远盛着一块新的饼干和蛋糕…*
+你和派蒙开心地吃起了蛋糕和饼干，也咕咚咕咚地喝了很多茶，但奇怪的是，无论你们怎么吃喝，茶壶却永远都是半满，盘子里也永远盛着一块新的饼干和蛋糕…
 
 **派蒙:** 我…我不能吃了，怎么吃都吃不完，呜…
 
-- **旅行者:** 这就是…魔女的茶会吗…
+##### 对话分支 1
 
-- **旅行者:** 下次一定要把瓦雷莎带来…
+- **旅行者:** 这就是…魔女的茶会吗…
 
 **尼可:** 是啊。开茶会嘛，桌上肯定要有充足的甜点和茶水供应。
 
 **尼可:** 当然，吃太多不利于大家展现魔女的优雅气质，在大多数情况下，茶壶只是半满，盘子里只有一块饼干或一块蛋糕。
 
+##### 对话分支 2
+
+- **旅行者:** 下次一定要把瓦雷莎带来…
+
 **尼可:** 是纳塔「沃陆之邦」的那位很能吃的女孩？艾莉丝倒是和我提起过她，是一位很有趣的小姑娘。
 
 **尼可:** 如果她来做客的话，那必须要在她面前摆上三个…哦不，七个盘子才行了。
+
+##### 共同后续
 
 **派蒙:** 不吃了不吃了，我真的饱了…我们还是聊正事吧。嗝…呜哇，不好意思…
 
 **尼可:** 嗯，你们这次来，是为了传达芭比为我预知的「课业」，对吧？
 
+##### 对话分支 1
+
 - **旅行者:** 你这不是已经都知道了嘛…
 
+##### 对话分支 2
+
 - **旅行者:** 难道刚才芭比洛斯女士也是…
+
+##### 共同后续
 
 **尼可:** 没有，我刚才和芭比在谈另外一件事。她说因为月亮的巨大异动，导致自己的水占术出现了偏差，必须回去静修一段时间。
 
@@ -660,9 +933,15 @@ Hey, a treasure chest!
 
 **派蒙:** 欸？这种事情还能临时换负责人的啊？！
 
+##### 对话分支 1
+
 - **旅行者:** 不愧是尼可。
 
+##### 对话分支 2
+
 - **旅行者:** 就连这种事情也能办到。
+
+##### 共同后续
 
 **尼可:** 我一点也不想办到！但芭比和艾莉丝在告诉我这件事之前，就已经把我的那一份特别「课业」嵌入进辞典里了。
 
@@ -670,9 +949,15 @@ Hey, a treasure chest!
 
 **尼可:** 欧科塔维亚压根没回来，更别提莱茵多特了…魔女们各有各的事务，也只能暂时由我担起监督「课业」的职责了。
 
+##### 对话分支 1
+
 - **旅行者:** 原来魔女会这么忙啊…
 
+##### 对话分支 2
+
 - **旅行者:** 仔细一算还挺多人的。
+
+##### 共同后续
 
 **尼可:** 是啊，我都不知道大家有多久没有好好办一场茶会了。
 
@@ -684,19 +969,33 @@ Hey, a treasure chest!
 
 **派蒙:** 确实欸，我们从那本辞典里看见的，的确不是什么超复杂的「课业」。准确来说就只有两句话…
 
+##### 对话分支 1
+
 - **旅行者:** 「尼可将履行自己的职责。」
+
+##### 对话分支 2
 
 - **旅行者:** 「肯定不会让你打白工的！」
 
+##### 对话分支 3
+
 - **旅行者:** 书里是这么写的。
+
+##### 共同后续
 
 **尼可:** 好吧。前面的话应该是芭比写的，但后面那一句一定是艾莉丝加的。
 
 **尼可:** 那我们就开始履行这次的「课业」吧，让我想想，先去哪里…
 
+##### 对话分支 1
+
 - **旅行者:** 等会，你已经弄明白了？
 
+##### 对话分支 2
+
 - **旅行者:** 我都没完全读懂这句话…
+
+##### 共同后续
 
 **尼可:** 刚才芭比已经把我要做的事都顺便告诉我了。
 
@@ -708,47 +1007,65 @@ Hey, a treasure chest!
 
 **尼可:** 我的这篇「课业」由芭比执笔，她只不过是提前将故事翻到了最后一页，把结尾告诉我而已。
 
+##### 对话分支 1
+
 - **旅行者:** 听着完全就是剧透啊！
 
-- **旅行者:** 那我不是白跑一趟…
-
 **尼可:** 哎呀，预言和剧透本来就没什么区别啦，走吧走吧，跟着我，我们先去…唔，先去这里应该不要紧…
+
+##### 对话分支 2
+
+- **旅行者:** 那我不是白跑一趟…
 
 **尼可:** 这可不算白跑！「课业」必须由你传达，这种「形式」可是很重要的，如果缺了这一环，「课业」本身说不定都不成立了。
 
 **尼可:** 先不说这些，走吧走吧，跟着我，我们先去…唔，先去这里应该不要紧…
 
+##### 共同后续
+
 **派蒙:** 咦？现在就去？等一下，我们要怎么去啊——
 
-*只是一眨眼的功夫，你们就来到了一处悬崖的边上…*
+只是一眨眼的功夫，你们就来到了一处悬崖的边上…
 
 #### 与尼可对话
 
-*只是一眨眼的功夫，你们就来到了一处悬崖的边上…*
+只是一眨眼的功夫，你们就来到了一处悬崖的边上…
 
 **尼可:** 好，我们到了。这个「仙灵之庭」的位置真不错，你们看对面，那里就是「课业起始地」了。
 
+##### 对话分支 1
+
 - **旅行者:** 仙灵之庭？
 
+##### 对话分支 2
+
 - **旅行者:** 难道你是借助它来…
+
+##### 共同后续
 
 **尼可:** 对啊，我只是暂时借用一下「仙灵之庭」来赶路，这东西和地脉相连，平时还没人用，可好使了。
 
 **尼可:** 而且，我和仙灵们之前都曾经是天使，也就是「前同事」，偶尔借用一下，它们肯定不会生气的啦。
 
-这里好像没有其他人啊…
+- **旅行者:** 这里好像没有其他人啊…
 
 **尼可:** 还没到时候呢。再过一段时间，诗人就会唱响久远之前的颂歌，唤回徘徊在亘古中的千风…
 
-要在这里处理课业的人，难道是…
+- **旅行者:** 要在这里处理课业的人，难道是…
 
 **尼可:** 别着急嘛。在不久的将来，你将成为那曲颂歌之中的一缕旋律，千风也会环绕你身。
 
 **尼可:** 但在那之前，咱们就先让那首颂歌安心沉眠吧…走，我们去下一个地方。
 
+##### 对话分支 1
+
 - **旅行者:** 这个地方是…
 
+##### 对话分支 2
+
 - **旅行者:** 我和温迪在远处的海岛合奏过。
+
+##### 共同后续
 
 **尼可:** 我从辞典里读到了。从结果上来看，你和巴巴托斯大人合奏了一首不错的曲子。唯一的美中不足是…没让芭比听见一个音符。
 
@@ -764,9 +1081,15 @@ Hey, a treasure chest!
 
 **狼群:** ……
 
+##### 对话分支 1
+
 - **旅行者:** 狼群离开了…
 
+##### 对话分支 2
+
 - **旅行者:** 要在这里处理课业的人，难道是…
+
+##### 共同后续
 
 **尼可:** 那孩子还没有来么？或许是时机还未到吧。不过，只要和「卢皮卡」并肩，无论面对任何敌人，那孩子都更胜一筹。
 
@@ -776,9 +1099,15 @@ Hey, a treasure chest!
 
 **尼可:** 是啊，但除此之外，他还要懂得更多东西才行。
 
+##### 对话分支 1
+
 - **旅行者:** 这个地方是…
 
+##### 对话分支 2
+
 - **旅行者:** 我和雷泽在这里战斗过。
+
+##### 共同后续
 
 **尼可:** 嗯，那位叫做雷泽的孩子，已经在那场他必定要面对的鏖战里取胜了。
 
@@ -792,9 +1121,15 @@ Hey, a treasure chest!
 
 **派蒙:** 呜哇！这扇门是什么时候出现的！
 
+##### 对话分支 1
+
 - **旅行者:** 上面怎么还有贴纸…
 
+##### 对话分支 2
+
 - **旅行者:** 这风格，怎么感觉有点眼熟…
+
+##### 共同后续
 
 **尼可:** 这贴纸看着就像是艾莉丝写的，上面还有字…我看看。
 
@@ -804,7 +1139,7 @@ Hey, a treasure chest!
 
 **尼可:** 回家？等一下，我说这门怎么看起来这么熟悉，这后面不会通往…
 
-*尼可一把推开了门，带着你们大步跨入其中。随后，你们发现自己身处在一间屋子里…*
+尼可一把推开了门，带着你们大步跨入其中。随后，你们发现自己身处在一间屋子里…
 
 #### 进入房间
 
@@ -816,15 +1151,27 @@ Hey, a treasure chest!
 
 **派蒙:** 又换地方了。这里是…
 
+##### 对话分支 1
+
 - **旅行者:** 等一下，屋子里…
+
+##### 对话分支 2
 
 - **旅行者:** 有好大一个「仙灵之庭」！
 
+##### 共同后续
+
 **尼可:** 怪不得艾莉丝那一天，突然来找我要屋子的钥匙，说什么要布置一间漂亮的茶话室…我都跟她说了我已经有茶话室了…
+
+##### 对话分支 1
 
 - **旅行者:** 这是艾莉丝的礼物？
 
+##### 对话分支 2
+
 - **旅行者:** 这座「仙灵之庭」是…
+
+##### 共同后续
 
 **尼可:** 在意象上，它象征着「引导的结束」、「旅行的终点」…还有「圆满的预言」。
 
@@ -834,7 +1181,7 @@ Hey, a treasure chest!
 
 **尼可:** 只有这样，才能在不干扰其他「课业」的同时，将我的故事嵌入进大家的故事之中。
 
-但尼可也不是仙灵啊？
+- **旅行者:** 但尼可也不是仙灵啊？
 
 **尼可:** 啊…呃，差一点就是了，大家之前都是天使嘛…哎呀，没关系的，差不多是那个意思就行。
 
@@ -844,21 +1191,33 @@ Hey, a treasure chest!
 
 **尼可:** 但话又说回来，临时写的故事也只能这个样子了…要是安雅在的话，说不定能想出更简洁巧妙的故事…
 
+##### 对话分支 1
+
 - **旅行者:** 这样啊…
+
+##### 对话分支 2
 
 - **旅行者:** 我还以为宝箱出现才算结束呢。
 
+##### 共同后续
+
 **尼可:** 嗨，这个环节当然也必不可少啦。
 
-**派蒙:** 出现了！宝箱！
+**派蒙&旅行者:** 出现了！宝箱！
 
-出现了！宝箱！
+- **旅行者:** 出现了！宝箱！
 
 **派蒙:** 突、突然感觉，这一段「课业」确实很合理了。
 
+##### 对话分支 1
+
 - **旅行者:** 这就是细节被圆上的感觉吗…
 
+##### 对话分支 2
+
 - **旅行者:** 果然大框架很重要啊！
+
+##### 共同后续
 
 **尼可:** 就是这种感觉！看来我这个课业辅导工作也没白做啊！
 
@@ -866,7 +1225,7 @@ Hey, a treasure chest!
 
 **尼可:** 那么，这次的课业到此为止，大家之后的「课业」，也有了一位正式的辅导老师了。
 
-那个…之后还有宝箱吗？
+- **旅行者:** 那个…之后还有宝箱吗？
 
 **尼可:** 这个啊，就得看大家之后会设计出怎么样的「课业」了。
 
@@ -876,4 +1235,8 @@ Hey, a treasure chest!
 
 #### 开启宝箱！
 
+**尼可:** 哎，要打开宝箱，这段「引导」才算结束！看在那本辞典的份上，快点快点！
+
 **离开房间:** 从房间离开。
+
+**离开房间:** （门锁纹丝不动，或许，还是先打开尼可的宝箱再说吧…）

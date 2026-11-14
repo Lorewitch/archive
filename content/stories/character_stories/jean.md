@@ -344,3 +344,885 @@ Jean will never forget the moment she received her Vision. At that moment, all s
 但琴独自扛住了来自外界的压力，引领一众骑士粉碎深渊教团的诸多阴谋，重新为西风骑士团树立威望。
 琴永远不会忘记得到「神之眼」的那一刻。感受着掌间升起的微风，顷刻间，四周沉寂下来，空间化作黑白，唯有古恩希尔德家族古老而严厉的家训浮现在她脑海之中。
 「永护蒙德。」
+
+# voice_source_ids: 4100,4101,4102,4103,4104,4105,4106,4107,4108,4109,4110,4111,4112,4113,4114,4115,4116,4117,4118,4119,4120,4121,4122,4123,4124,4125,4126,4127,4128,4129,4130,4131,4132,4133,4134,4135,4136,4137,4138,4139,4140,4141,4142,4143,4144,4145,4146,4147,4148,4149,4150,4151,4152,4153,4154,4155,4156,4157,4158,4159,4160,4161,4162,4163,4164,4165,4166,4167,4168,4169,4170,4171
+
+## REPLICAS_RU
+
+### Привет...
+
+Я Джинн, Рыцарь Одуванчик, прошу разрешения вступить в твой отряд. Начиная с этого дня моя честь и преданность принадлежат тебе!
+
+### Поболтаем: Движение вперёд
+
+Пора двигаться, нам нельзя стоять на одном месте.
+
+### Поболтаем: Ордо Фавониус
+
+Я надеюсь, что рыцари Ордо Фавониус добросовестно выполняют свой долг.
+
+### Поболтаем: Цель
+
+Вперёд! Нас ждёт следующая цель!
+
+### Когда идёт дождь...
+
+Дождь мне не помеха.
+
+### После дождя...
+
+Погода великолепна, нам пора двигаться.
+
+### Когда идёт снег...
+
+Пошёл снег. Не забудь высушить обувь, когда вернёмся.
+
+### Когда дует ветер...
+
+Такая хорошая погода...
+
+### Когда дует сильный ветер...
+
+В легендах говорится, что в тот день тоже дул сильный ветер...
+
+### Доброе утро...
+
+Продуктивный день начинается с утра. Давай же сегодня постараемся на славу.
+
+### Добрый день...
+
+Рано останавливаться, у нас всё ещё осталась работа.
+
+### Добрый вечер...
+
+Кажется, я выработала иммунитет к кофе. Может быть, стоит попросить у Лизы что-нибудь... покрепче?
+
+### Спокойной ночи...
+
+На сегодня тренировки окончены. Отличная работа, ты заслужил отдых. / На сегодня тренировки окончены. Отличная работа, ты заслужила отдых.
+
+### О Джинн...
+
+Сегодня, чтобы защитить жителей города, мне пришлось уничтожить пять стражей руин... Нет, я должна быть усерднее. Они опасны, но для нас большая потеря уничтожать столь ценные артефакты древности. Я должна найти другой, более безопасный способ...
+
+### О нас: Вера...
+
+Я полностью поддерживаю твои решения, но если ты собьёшься с пути справедливости, я не постесняюсь тебе об этом сказать.
+
+### О нас: Присяга...
+
+Клянусь своим мечом, что победа будет за тобой.
+
+### О нас: Миссия...
+
+Наша работа сама себя не сделает, но, я думаю, мы можем позволить себе иногда немного отдохнуть. Давай присядем на пару минут.
+
+### Глаз Бога...
+
+«За Мондштадт, как и всегда!» - это девиз клана Гуннхильдр. Каждое использование Глаза Бога напоминает мне о моей матери и надеждах жителей Мондштадта. За Мондштадт, за свободу - вот за что я борюсь.
+
+### Давай поделимся...
+
+Я хотела бы выразить тебе благодарность от имени рыцарей Ордо Фавониус за всё, что ты сделал для Мондштадта. Пожалуйста, не забывай время от времени отдыхать... Я что-то пропустила? Почему ты смеёшься? Я сказала что-то не так? / Я хотела бы выразить тебе благодарность от имени рыцарей Ордо Фавониус за всё, что ты сделала для Мондштадта. Пожалуйста, не забывай время от времени отдыхать... Я что-то пропустила? Почему ты смеёшься? Я сказала что-то не так?
+
+### Интересные вещи...
+
+Лети, лети, одуванчик, в дальние миры... Кто знает, может быть, ветер отнесёт его семена в Селестию?
+
+### О Барбаре...
+
+Барбара очень усердно работает, но иногда мне кажется, что она слишком строго относится к себе... Что? Ты спрашиваешь, откуда я всё это знаю? Это потому, что Ордо Фавониус также заведует церковью Фавония.
+
+### О Лизе...
+
+У меня всегда спокойно на душе, когда рядом есть Лиза.
+
+### Об Эмбер...
+
+Должна признать, что Эмбер в последнее время меня очень впечатляет. Я надеюсь, что однажды барды будут сочинять песни о её подвигах.
+
+### О Кэйе...
+
+Правда? Кэйа тоже поделился с тобой советом? Он один из лучших рыцарей Ордо Фавониус, и это неоспоримый факт.
+
+### О Кли...
+
+Все дети любят играть, но Кли играет с очень недетскими игрушками. Я не могу спускать с неё глаз.
+
+### Об Альбедо...
+
+Иногда мне кажется, что такие слова, как «гениальность», были придуманы специально для Альбедо.
+
+### О Варке...
+
+Магистр Варка - легенда своего поколения. В день его триумфального возвращения я обязательно представлю тебя ему. Уверена, что ты тоже будешь в восторге от его величия.
+
+### О Ноэлль...
+
+Ноэлль... Она очень стремится стать рыцарем Ордо Фавониус, но я боюсь, что она не готова к опасностям, что таятся за стенами Мондштадта.
+
+### О Розарии...
+
+Кому-то может показаться, что сестра Розария много жалуется на утомительную работу, но она с ней отлично справляется. Когда я её видела в прошлый раз, я сказала ей, что если ей понадобится помощь, она может обратиться ко мне, на что она просто ответила, что так будет только хуже. Мне тоже нужно работать усерднее, чтобы больше помогать жителям Мондштадта.
+
+### О Дилюке: Разочарование
+
+У Дилюка есть свои причины скептически относиться к Ордо Фавониус. Я не горжусь тем, как всё вышло, но и прошлого изменить не могу. Всё, что я могу, - это усерднее работать над тем, чтобы однажды он смог увидеть нас в лучшем свете... Это мой долг.
+
+### О Дилюке: Уважение
+
+Господин Дилюк старше меня, и я его очень уважаю. Просто мы пошли разными путями, но я чувствую, что мы оба стремимся защитить Мондштадт любой ценой.
+
+### О Сахарозе...
+
+Такой интеллект, как у Сахарозы, редко встречается среди алхимиков. Альбедо обязательно сможет раскрыть её таланты, и я уверена, что в будущем её ждёт огромный успех. Вот только... Кхм, я потеряла мысль. Ничего страшного... или плохого.
+
+### Об Эоле...
+
+Эола? Пожалуйста, не зацикливайся на её прошлом. Рыцари Ордо Фавониус честно оценивают каждого человека. Она может отличить добро от зла, она очень талантлива. Иногда она говорит опасные вещи, но это просто часть её характера. Даже если она всегда говорит, что бросит мне вызов, я не против.
+
+### Узнать больше о Джинн I
+
+Рыцари верят мне, а народ возлагает на меня свои надежды. Именно поэтому я должна сохранять бдительность.
+
+### Узнать больше о Джинн II
+
+Титул Веннессы - «Рыцарь Одуванчик» - передавался из поколения в поколение. Бесчисленное количество великих рыцарей были удостоены этой чести, и я не опозорю это имя. Я должна продолжать идти вперёд. Я должна стать мечом и щитом народа.
+
+### Узнать больше о Джинн III
+
+В легендах и учебниках истории записаны только победы. Несомненно, даже у великих рыцарей древности были свои переживания и сомнения. Ветер, прошу, укажи мне путь.
+
+### Узнать больше о Джинн IV
+
+Когда я всем сердцем предана работе, все мои проблемы и даже моё чувство времени будто ускользают от меня. Магистр Варка сказал мне: «Джинн, лучшего кандидата для этой задачи мне не найти...»
+
+### Узнать больше о Джинн V
+
+Чем больше времени я следую за тобой, тем яснее становится мой путь. Кажется, что я наконец нашла кого-то, кому могу доверять. Интересно, а что, если... Нет, тогда это будет значить, что я всё ещё недостаточно сильна... Я не должна сдаваться, я не подведу... Я не могу подвести рыцарей и народ Мондштадта. Но всё же... спасибо тебе.
+
+### Хобби Джинн...
+
+Мы могли бы обсудить истории о героях легенд. Ты слышал истории о героических подвигах короля Каэнри’ах? / Мы могли бы обсудить истории о героях легенд. Ты слышала истории о героических подвигах короля Каэнри’ах?
+
+### Беспокойство Джинн...
+
+Если бы только у меня было какое-нибудь волшебное зелье, которое бы не давало мне спать... Нужно завтра поговорить с Лизой.
+
+### Любимая еда...
+
+Кажется, что я уже целую вечность не ела пиццу в «Кошкином хвосте». Эх, если бы только у них была доставка...
+
+### Нелюбимая еда...
+
+Настоящий рыцарь не может позволить себе быть разборчивым в еде.
+
+### День рождения...
+
+Сегодня день, который стоит отметить. Если ты спросишь почему, то позволь мне напомнить, что именно сегодня ты, благословлённый ветром, пришёл в этот мир. Поскольку это твой день рождения, я позволю тебе отдохнуть и расслабиться. Кхм-кхм... ♪С днём рождения тебя...♪ Эм... Прошу простить меня за фамильярность. Надеюсь, этот подарок тебе понравится. / Сегодня день, который стоит отметить. Если ты спросишь почему, то позволь мне напомнить, что именно сегодня ты, благословлённая ветром, пришла в этот мир. Поскольку это твой день рождения, я позволю тебе отдохнуть и расслабиться. Кхм-кхм... ♪С днём рождения тебя...♪ Эм... Прошу простить меня за фамильярность. Надеюсь, этот подарок тебе понравится.
+
+### Чувство возвышения: Начало
+
+Хорошо, а теперь вперёд к следующей цели!
+
+### Чувство возвышения: Нарастание
+
+Я буду продолжать бороться, пока дует ветер!
+
+### Чувство возвышения: Кульминация
+
+Хоть и наступило мирное время, нам нельзя расслабляться. Будучи действующим магистром ордена, я должна сохранять бдительность.
+
+### Чувство возвышения: Окончание
+
+Я всё ещё недостаточно хороша. С тех пор, как мы встретились, я в долгу перед тобой за твою помощь. Моя благодарность... Ветер, прости мой эгоизм. Не как действующий магистр ордена, а как Джинн, я клянусь, что мой меч всегда будет с тобой.
+
+### Элементальный навык I
+
+Все как один!
+
+### Элементальный навык II
+
+Хэх!
+
+### Элементальный навык III
+
+Ух!
+
+### Взрыв стихии I
+
+Услышь меня, ветер!
+
+### Взрыв стихии II
+
+Клянусь своим клинком!
+
+### Взрыв стихии III
+
+Укажи нам путь, Барбатос!
+
+### Открытие сундука I
+
+Какая приятная неожиданность.
+
+### Открытие сундука II
+
+Хм, сегодня всё идёт слишком гладко...
+
+### Открытие сундука III
+
+Надеюсь, другие тоже что-нибудь найдут.
+
+### Низкий уровень HP I
+
+Я... Ох! Всё хорошо...
+
+### Низкий уровень HP II
+
+Мои спутники... нуждаются во мне...
+
+### Низкий уровень HP III
+
+Я не могу сдаться...
+
+### Низкий уровень HP компаньона I
+
+Серьёзное ранение... Беги в безопасное место!
+
+### Низкий уровень HP компаньона II
+
+Я помогу.
+
+### Без сознания I
+
+Мондштадт...
+
+### Без сознания II
+
+У каждого свой предел сил...
+
+### Без сознания III
+
+Меня постигла неудача...
+
+### Получен тяжёлый удар I
+
+Ох! Просто царапина!
+
+### Присоединяется к группе I
+
+Можем выдвигаться в любое время.
+
+### Присоединяется к группе II
+
+Готовы ко всему!
+
+### Присоединяется к группе III
+
+Да направит нас ветер.
+
+### Подарок I
+
+Не только вкусно, но и полезно. Спасибо за заботу.
+
+### Подарок II
+
+Я чувствую себя намного бодрее. Спасибо.
+
+### Подарок III
+
+Эм... Спасибо за старания.
+
+### О Мике...
+
+Магистр ордена назначил Мику ключевым участником разведки не только в силу служебной необходимости, но ещё и потому, что оценил его ответственность и преданность Ордену. Для меня тоже большая честь работать рядом с таким человеком, как Мика.
+
+## REPLICAS_EN
+
+### Hello
+
+I am Jean, the Dandelion Knight, requesting approval to join your party. From this day onwards, my honor and loyalty lie with you.
+
+### Chat: Operation
+
+It's time to move on, we shouldn't stay here.
+
+### Chat: Knights of Favonius
+
+I do hope the Knights of Favonius are all working hard...
+
+### Chat: Target
+
+Onwards! We have work to do.
+
+### When It Rains
+
+The rain won't slow me down.
+
+### After the Rain
+
+This weather is perfect, we should move out.
+
+### When It Snows
+
+Huh, snow. Remember — tend to your boots when we return.
+
+### When It's Windy
+
+Such fine weather.
+
+### When the Wind Is Blowing
+
+Legend has it the wind was unusually strong on that day, too...
+
+### Good Morning
+
+A successful day starts from the morning. Let's give it our all today.
+
+### Good Afternoon
+
+We've still got work to do. Let's keep going.
+
+### Good Evening
+
+Huh, it seems I'm immune to coffee now. Perhaps I need to ask Lisa for something... a little stronger...
+
+### Good Night
+
+Training is finished for today. Great work, you've earned a good rest.
+
+### About Jean
+
+Today I had no choice but to cut down five Ruin Guards to protect the people of our city... Ugh, I must continue to work harder. Though hostile, destroying such precious artifacts is still a loss to us all. I must find a less destructive way to bring them down next time...
+
+### About Us: Creed
+
+You have my complete and full support. Of course, if your path ever deviates from justice, I will not hesitate to point it out.
+
+### About Us: Oath
+
+I swear by this sword, victory shall be yours.
+
+### About Us: Quest
+
+Our work will not handle itself... But, I suppose the occasional short break is warranted. Let us rest for a couple of minutes.
+
+### About the Vision
+
+For Mondstadt, as always is the Gunnhildr family motto. Every time I use my Vision, I am reminded of my mother and the hopes of the people of Mondstadt. For Mondstadt, for freedom — that is what I fight for.
+
+### Something to Share
+
+On behalf of the Knights of Favonius, I would like to extend my gratitude to you for all you have done for Mondstadt. Please remember to rest from time to ti... Did I miss something? What are you laughing at? Did I say something odd?
+
+### Interesting Things
+
+"Dandelion, Dandelion, ride the wind to a faraway land." Who knows, the wind might take it all the way to Celestia.
+
+### About Barbara
+
+Barbara is a hard worker, but I feel she's too hard on herself sometimes... What? You ask me how I know all of this? It's because the order also manages the Church.
+
+### About Lisa
+
+When Lisa is around, I always have peace of mind.
+
+### About Amber
+
+I must say that Amber's development has impressed me recently. I hope that one day, her deeds will become the words of a bard's tale.
+
+### About Kaeya
+
+Is that right...? Kaeya also gave you some suggestions. He is an excellent knight after all — this is a fact no one can deny.
+
+### About Klee
+
+Though it may be said that it is in a child's nature to play, the things Klee plays with are far from toys. I can never take my eye off her.
+
+### About Albedo
+
+Sometimes I feel that terms like "genius" were originally created for Albedo.
+
+### About Varka
+
+Grand Master Varka is the legend of his generation. On the day of his triumphant return, I shall be sure to personally introduce you to him. I'm sure you too will be in awe of his greatness.
+
+### About Noelle
+
+Noelle... She puts enormous effort into trying to become a Knight of Favonius. However, I fear she is not quite ready for the dangers that lie beyond Mondstadt's walls.
+
+### About Rosaria
+
+Some may see Sister Rosaria as one who complains about how bothersome her work is, but she does her job well. Last time I saw her I told her she could come find me should she ever need help, to which she simply replied that doing so would be even more bothersome. I need to work harder to become of more assistance to the people of Mondstadt.
+
+### About Diluc: Disillusion
+
+Master Diluc has his reasons for being so critical of the Knights of Favonius. I am not proud of the way things went, but I cannot change the past. All I can do is keep working hard, in the hope he may one day see us in a better light... This is my duty.
+
+### About Diluc: Respect
+
+Master Diluc is my senior, and I have the utmost respect for him. Though we have gone separate ways, I can sense we share the same strong commitment to protecting Mondstadt at all costs.
+
+### About Sucrose
+
+Sucrose is also a rare talent in the field of alchemy. Under Albedo's mentorship, she is sure to flourish. I am sure her future will be bright. The only thing is... Ahem, I was momentarily lost in thought. It is nothing. Nothing bad, anyway.
+
+### About Eula
+
+Eula? Um... Please, do not hold her unfortunate background against her. The Knights of Favonius evaluate each person impartially. Eula has a clear sense of right and wrong and is more talented than most. The controversial statements that she makes from time to time are just a product of her personality. For instance, she always mentions wanting to challenge me, but I don't mind.
+
+### More About Jean: I
+
+I shoulder the knights' trust and the people's hope. It is for this reason, I must stay vigilant.
+
+### More About Jean: II
+
+Vennessa's title — "Dandelion Knight" — has been passed down from generation to generation. Countless great knights were awarded with this honor and I will not bring shame to this name. Thus, I must keep going. I must become the sword and aegis of the people.
+
+### More About Jean: III
+
+Only glorious victories are recorded in legends and history books. Surely even the great knights of old must have had their struggles?
+Wind, please show me the path.
+
+### More About Jean: IV
+
+When I'm wholeheartedly devoted to my work, all of my troubles and even my sense of time seem to just slip away. Hmm, Grand Master Varka did say to me: "Jean, there is no better candidate for this task"...
+
+### More About Jean: V
+
+As I walk with you, the path ahead becomes clearer. It's almost as if I have finally found someone I can trust. I wonder if...
+No, this must mean that I am still lacking in strength... I must not give up, I will not — I cannot fail the Knights and the people of Mondstadt. Still... thank you.
+
+### Jean's Hobbies
+
+Maybe we can discuss the tales of legendary heroes. Have you heard the story of the heroic king of Khaenri'ah?
+
+### Jean's Troubles
+
+If only there was some kind of mysterious potion that could keep me awake forever... I need to have a talk with Lisa tomorrow.
+
+### Favorite Food
+
+It's been ages since I had pizza at Cat's Tail. If only they delivered...
+
+### Least Favorite Food
+
+A true knight can't afford to be a picky eater.
+
+### Birthday
+
+Today is a day worth celebrating. If you must ask why, well, let me remind you that today is when you, the one who is blessed by the wind, came into the world. Since this is your birthday, I'll allow you to take it easy.
+Ahem... ♪Happy birthday to you...♪
+Uh... Please forgive my presumptuousness. I hope this gift is to your liking.
+
+### Feelings About Ascension: Intro
+
+Good. On to our next objective.
+
+### Feelings About Ascension: Building Up
+
+As the wind continues to blow, so too shall I continue to fight.
+
+### Feelings About Ascension: Climax
+
+Although we have peace, we must not become complacent. As the Acting Grand Master, I must remain vigilant.
+
+### Feelings About Ascension: Conclusion
+
+I am still not good enough. Ever since I met you, I have been indebted to you for your assistance. My gratitude...
+Wind, please forgive my selfishness. Not as the Acting Grand Master, but as Jean — I hereby swear that my sword shall always go with you.
+
+### Elemental Skill: I
+
+Go as one!
+
+### Elemental Skill: II
+
+Hah!
+
+### Elemental Skill: III
+
+Huh!
+
+### Elemental Burst: I
+
+Wind, hear me!
+
+### Elemental Burst: II
+
+I swear by my sword!
+
+### Elemental Burst: III
+
+Barbatos, guide us.
+
+### Opening Treasure Chest: I
+
+What a pleasant surprise.
+
+### Opening Treasure Chest: II
+
+Hmm, things are going a little too smoothly today...
+
+### Opening Treasure Chest: III
+
+I hope the others find some.
+
+### Low HP: I
+
+I'm... I'm fine...
+
+### Low HP: II
+
+My companions... need me...
+
+### Low HP: III
+
+I can not give up...
+
+### Ally at Low HP: I
+
+You're injured... get to safety!
+
+### Ally at Low HP: II
+
+I'll take over.
+
+### Fallen: I
+
+Mondstadt...
+
+### Fallen: II
+
+Everyone has their limits...
+
+### Fallen: III
+
+I have failed...
+
+### Heavy Hit Taken: I
+
+Ugh! Barely a scratch!
+
+### Joining Party: I
+
+We may leave at any time.
+
+### Joining Party: II
+
+Ready for anything.
+
+### Joining Party: III
+
+Let the wind lead.
+
+### Receiving a Gift: I
+
+Not only is the taste magnificent, but you've also made sure it was healthy. You have my gratitude.
+
+### Receiving a Gift: II
+
+Hmm yes, I feel a lot more energetic now, thanks to you.
+
+### Receiving a Gift: III
+
+Ahem... all in all, I appreciate the effort.
+
+### About Mika
+
+The Grand Master placed Mika on the front line of the expedition team not simply because he met the requirements of the mission — more importantly, he was impressed by Mika's hardworking and grounded nature. From my own perspective, I feel very honored to work with someone like him.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+「蒲公英骑士」，琴，申请入队。从今往后，我的荣誉与忠诚将与你同在！
+
+### 闲聊·行动
+
+行动起来吧，我们不该在这里停留。
+
+### 闲聊·骑士团
+
+骑士团的大家…有没有认真工作呢？
+
+### 闲聊·目标
+
+走吧，前往下一个目标！
+
+### 下雨的时候…
+
+下雨也无法阻挡我的脚步。
+
+### 雨过天晴…
+
+这样的天气，正适合行动。
+
+### 下雪的时候…
+
+下雪了，要注意战靴的保养啊。
+
+### 起风的时候…
+
+舒适的天气。
+
+### 刮大风了…
+
+传说，那天也刮着罕见的大风…
+
+### 早上好…
+
+「一日之计在于晨」，今天也请加油。
+
+### 中午好…
+
+好，现在开始处理任务吧。
+
+### 晚上好…
+
+看样子，差不多已经对咖啡免疫了。如果有什么替代品的话…问问丽莎好了。
+
+### 晚安…
+
+今日的修炼就到此为止，做得很棒，辛苦你了。
+
+### 关于琴自己…
+
+今天为了保护民众，把五座遗迹守卫斩成了碎片。唉，我还需要继续磨练自己…这么珍贵的文化遗产，下次应该尝试空手制服…
+
+### 关于我们·信条
+
+我会全力帮助你，当然，如果你的方向偏离了正义，我也会毫不犹豫地指出。
+
+### 关于我们·誓言
+
+我以此剑起誓，必将胜利献给你。
+
+### 关于我们·任务
+
+任务可是不会自动完成的，但适当放松一下也好。今天就破例午休几分钟吧。
+
+### 关于「神之眼」…
+
+「永护蒙德」是古恩希尔德家族的家训。每当驱动「神之眼」，我都会想起母亲、还有蒙德民众的期盼。为蒙德而战，为自由而战——我，在所不辞。
+
+### 有什么想要分享…
+
+我谨代表西风骑士团，向你为蒙德所做的一切致以谢意。还请你劳逸结合，量力而…怎么了，你突然笑了起来，我说了什么奇怪的话吗？
+
+### 感兴趣的见闻…
+
+「蒲公英，蒲公英，跟风一起，到远方去吧。」…它乘上风，说不定连天空岛都能飞到呢。
+
+### 关于芭芭拉…
+
+芭芭拉非常努力，只不过有时过于勉强自己…嗯？问我为什么了解得这么清楚？因为西风教会也归属骑士团管辖。
+
+### 关于丽莎…
+
+丽莎，有她在的话，我会安心很多。
+
+### 关于安柏…
+
+安柏这段时间确实有所成长。希望有朝一日，她的事迹也会被吟游诗人传颂。
+
+### 关于凯亚…
+
+是吗…凯亚也向你提出建言了啊。他是一名优秀的西风骑士，这点毋庸置疑。
+
+### 关于可莉…
+
+虽说玩乐是孩子的天性，但可莉中意的玩具却都是些危险品。让人难以放心。
+
+### 关于阿贝多…
+
+「天才」这种名词，或许正是为了阿贝多这样的人准备的吧。
+
+### 关于法尔伽…
+
+法尔伽大团长，他是西风骑士团的当代传奇。等到他凯旋归来的那一天，就请你亲自和他交谈吧。相信你也能从中受益。
+
+### 关于诺艾尔…
+
+诺艾尔，嗯…那个努力想要成为西风骑士的少女。她的内心仍有软弱之处，现在这个阶段，也许还不适合让她接触外界的凶险。
+
+### 关于罗莎莉亚…
+
+罗莎莉亚修女总是把「麻烦」挂在嘴边，实际却十分称职。上次我和她说「如果觉得麻烦也可以找我帮忙」，她却回答「这样更麻烦」。嗯…我果然还有很多欠缺啊。
+
+### 关于迪卢克·愧欠
+
+迪卢克前辈对骑士团的指摘事出有因，即使心中愧疚也无法改变既定的结果…我只想通过我的努力，让他对骑士团有所改观…嗯，这是我的责任。
+
+### 关于迪卢克·敬重
+
+迪卢克…是一位非常可敬的前辈。虽然我们选择的道路不同，但这份共通的守护蒙德的心意，我能感受得到。
+
+### 关于砂糖…
+
+作为炼金术士，砂糖也算天赋异禀。况且她的身边还有阿贝多指点，未来应该不用担心。只是…不，没什么，沉浸在自己的世界里，也不算坏事吧。
+
+### 关于优菈…
+
+优菈？咳…请不要对她的身世耿耿于怀，西风骑士会公正地评价每个人。优菈明辨是非，才华出众，偶尔发表危险言论，也只是她的性格使然。哪怕她总是说要挑战我，我也不介意。
+
+### 想要了解琴·其一
+
+我肩负着西风骑士团的信任，还有蒙德民众的期待。为此，我不能松懈。
+
+### 想要了解琴·其二
+
+温妮莎的「蒲公英骑士」之名传承至今，曾经有无数伟大的骑士获授这一荣誉。我不能辱没这个名字。因此，决不能松懈。要成为守护众人的坚盾与利剑。
+
+### 想要了解琴·其三
+
+无论是传奇故事还是史书，都只记载了伟大骑士的功绩。难道，他们一次也不曾迷失过吗…？
+风啊，请指引我前进的道路。
+
+### 想要了解琴·其四
+
+全身心投入工作的时候，烦恼和时间会一并被忘却。「你是最适合做这种事情的人选。」…那个时候，大团长法尔伽就是这样对我说的。
+
+### 想要了解琴·其五
+
+与你同行时，前进的道路变得无比清晰。就好像，终于有人能依靠，这究竟是…
+不，一定是我还不够努力。绝对不能松懈，不能辜负西风骑士团和蒙德…但是，谢谢你。
+
+### 琴的爱好…
+
+或许可以和你聊聊书上那些英雄传记。嗯，你听说过「坎瑞亚英雄王」的故事吗？
+
+### 琴的烦恼…
+
+假如有什么神奇的药剂，喝了就不需要睡觉…嗯，要不明天问问丽莎吧？
+
+### 喜欢的食物…
+
+猫尾酒馆的披萨…很久没吃过了。如果能外送到办公室就好了呢。
+
+### 讨厌的食物…
+
+优秀的骑士不能挑食。
+
+### 生日…
+
+今天是值得庆祝的日子。要说为何的话，因为这是受风护佑的你，诞生的日子啊。既然是生日，那就好好休息一下吧。
+咳咳…祝你生日快乐…
+啊，请原谅我的冒昧。不知这份礼物，是否能令你满意呢？
+
+### 突破的感受·起
+
+好，一鼓作气前往下一个目标。
+
+### 突破的感受·承
+
+只要风不停歇，我就不会停下脚步。
+
+### 突破的感受·转
+
+就算暂时获得了平静，也不能掉以轻心。身为代理团长，我必须未雨绸缪。
+
+### 突破的感受·合
+
+我做得还不够好。自从与你相遇，一直承蒙你的关照。这份感激…
+风啊，请容许我的私心。并非作为代理团长，只是作为「琴」，在此起誓——我的剑将与你同在。
+
+### 元素战技·其一
+
+一决胜负！
+
+### 元素战技·其二
+
+…哈！
+
+### 元素战技·其三
+
+…散！
+
+### 元素爆发·其一
+
+风，回应我吧。
+
+### 元素爆发·其二
+
+以剑为誓！
+
+### 元素爆发·其三
+
+风之神，请指引我们。
+
+### 打开宝箱·其一
+
+惊喜的收获。
+
+### 打开宝箱·其二
+
+嗯，真是幸运的一天。
+
+### 打开宝箱·其三
+
+希望大家都能获得宝藏。
+
+### 生命值低·其一
+
+我，没事…！
+
+### 生命值低·其二
+
+还有同伴…需要保护…
+
+### 生命值低·其三
+
+还不能放弃…
+
+### 同伴生命值低·其一
+
+你受伤了…请暂时退后吧！
+
+### 同伴生命值低·其二
+
+让我来吧。
+
+### 倒下·其一
+
+蒙德…
+
+### 倒下·其二
+
+个人的力量是有极限的…
+
+### 倒下·其三
+
+我…还不够称职…
+
+### 重受击·其一
+
+这点伤而已！
+
+### 加入队伍·其一
+
+随时可以出发。
+
+### 加入队伍·其二
+
+已做好万全准备。
+
+### 加入队伍·其三
+
+听凭风引。
+
+### 收到赠礼·其一
+
+不仅味道好，还兼顾了健康。让你费心了。
+
+### 收到赠礼·其二
+
+嗯，精神振奋不少。谢谢你。
+
+### 收到赠礼·其三
+
+呼…总之，辛苦你了。
+
+### 关于米卡…
+
+大团长选中米卡作为远征队的前侦骨干，不仅是出于任务需要，更是看中了他踏实勤恳的品质。从我个人角度而言，我也很荣幸能与这样的同伴共事。

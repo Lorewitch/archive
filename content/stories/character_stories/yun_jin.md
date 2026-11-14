@@ -261,3 +261,842 @@ Yun Jin could no longer recall how she returned backstage after the epiphany. Al
 她务必像戏中人一样呼吸、生活，她的心情也随戏中人一颦一笑而牵动。
 这千千万万个角色的生命轨迹交织，造就一个有情世界，这才是她想要的戏，她想讲述的故事。
 在今天，云堇已经不记得自己顿悟后是如何回到后台的，她只记得，等到她终于得空脱去戏服时，她的袖中竟多了一枚神之眼。
+
+# voice_source_ids: 64000,64001,64002,64003,64004,64005,64006,64007,64008,64009,64010,64011,64012,64013,64014,64015,64016,64017,64018,64019,64020,64021,64022,64023,64024,64025,64026,64027,64028,64029,64030,64031,64032,64033,64034,64035,64036,64037,64038,64039,64040,64041,64042,64043,64044,64045,64046,64047,64048,64049,64050,64051,64052,64053,64054,64055,64056,64057,64058,64059,64060,64061,64062,64063,64064,64065,64066,64067,64068
+
+## REPLICAS_RU
+
+### Привет...
+
+Как говорится, никакие истории о человеке не сравнятся с личным знакомством. Наконец-то мне выпала честь повстречать тебя. Меня зовут Юнь Цзинь. Я всего лишь скромный руководитель оперной труппы Юнь Хань. Последнее время мы выступаем в чайном доме «Хэюй». Надеюсь, ты почтишь нас своим присутствием.
+
+### Поболтаем: Чувствительная тема
+
+Последние пару дней мне что-то тесновато в талии. Быть может... я излишествовала в еде?
+
+### Поболтаем: Отдых
+
+Ах... Сегодня я не стану делать причёску и макияж и с радостью предамся отдыху!
+
+### Поболтаем: Исполнение оперы
+
+Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам.
+
+### Когда гремит гром...
+
+...Ох, т-ты слышал это? / ...Ох, т-ты слышала это?
+
+### Когда идёт снег...
+
+Б-р-р! Этот холод погубит меня!
+
+### Когда светит солнце...
+
+Тёплый солнечный день, какая красота...
+
+### Доброе утро...
+
+Доброе утро! Рассветная роса отлично подходит для заваривания чая. Попьём чаю и в путь!
+
+### Добрый день...
+
+Хорошо бы после обеда подремать... Хм? Ты не устал? / Хорошо бы после обеда подремать... Хм? Ты не устала?
+
+### Добрый вечер...
+
+Давай сегодня сходим и послушаем рассказчиков. «Дождь клинков» в исполнении господина Лю Су неповторим.
+
+### Спокойной ночи...
+
+Сегодня в воздухе витает прохлада, так что ложись пораньше. Спокойной ночи.
+
+### О Юнь Цзинь: Учёба
+
+Моё обучение началось очень рано. Одно из самых ранних моих воспоминаний - как отец учит меня читать. К сожалению, я даже наполовину не так одарена, как он. Для написания опер этого достаточно, но до его уровня эрудиции мне далеко.
+
+### О Юнь Цзинь: Театральное обучение
+
+В молодости моя мать была знаменитой оперной певицей гавани Ли Юэ. Все известные мне оперы я узнала от неё. Но ты и представить себе не можешь, каким строгим учителем она была. Стоит мне только вспомнить... Нет-нет-нет, лучше этого не вспоминать.
+
+### О нас: Оперная труппа
+
+Нам скоро предстоит дать несколько крупных выступлений, и так уж получилось, что на одну из ролей нам нужен опытный фехтовальщик. Думаю, ты замечательно подходишь. Что скажешь, хочешь присоединиться к труппе? А в перерывах мы бы наслаждались чаем.
+
+### О нас: Рок-н-ролл
+
+Хм? Тебе нравится рок-н-ролл? Вот здорово! В следующий раз пойдём на концерт вместе. А когда я вернусь, то скажу старшим, что проведывала тебя. Хе-хе, тогда у них не найдётся причин ворчать по поводу моего отсутствия.
+
+### Глаз Бога...
+
+Мой Глаз Бога?.. Наверное, Властелину Камня нравится опера. Быть может, старику так понравилось моё выступление, что он решил одарить меня Глазом Бога, ха-ха.
+
+### Давай поделимся: Напитки
+
+Больше всего мне нравится пробовать разные напитки. Я испробовала все изысканные сорта чая, изобретённые прошлыми поколениями, например, Сосновый нектар и Снежная слива. Я уже начинаю беспокоиться, что скоро не останется новых для меня напитков. Порекомендуешь что-нибудь?
+
+### Давай поделимся: Мечты
+
+Иногда мне хочется сбросить мой театральный костюм и отправиться путешествовать в другие края, посмотреть мир... А пока я должна упорно трудиться, чтобы когда-нибудь эта мечта осуществилась.
+
+### Интересные вещи...
+
+Пение птиц на рассвете всегда поднимает мне настроение.
+
+### О Синь Янь...
+
+Старшие члены труппы беспрестанно твердят о дурном влиянии рок-н-ролла и, само собой, не позволяют мне ходить на концерты Синь Янь. Мол, это для моего же блага. Хе, они просто неспособны принять новое. Эти старики мне не указ. Я ходила на концерты Синь Янь каждую неделю и буду ходить, и всё тут.
+
+### О Ху Тао...
+
+Ах да, Ху Тао. Очень выразительное лицо и острый ум. Даже в разговоре о самых заурядных вещах она сыплет остроумными замечаниями. Я ею восхищаюсь! С такими друзьями, как она, не соскучишься.
+
+### О Чжун Ли...
+
+Оперные традиции очень своеобразны и передаются из поколения в поколение. Иногда я обнаруживаю, что знаю только «как», но не «почему». Но в разговорах с Чжун Ли становится совершенно очевидно, что он знает происхождение практически всего. Кто не был бы рад иметь среди своей публики такого знатока?
+
+### О Нин Гуан...
+
+Воля Небес щедра и уже немало пожертвовала нашей труппе. Отплатить за её щедрость я могу лишь своей лучшей игрой.
+
+### О Син Цю...
+
+О, так вы с Син Цю знакомы? Ха-ха, он весьма умён и остроумен. Если ослабишь бдительность, то тут же станешь объектом его розыгрышей... Не говори, что я не предупреждала.
+
+### О Шэнь Хэ...
+
+Сценарий «Созерцания богини уничтожения» я знаю практически наизусть уже много лет, но лишь недавно я обнаружила, что та самая «богиня» - реальная личность. Жизнь поистине полна неожиданностей! Я надеюсь, что она найдёт настоящих друзей и больше никогда не будет одинокой.
+
+### О Кэ Цин...
+
+Я ни разу не видела Нефритовое Равновесие в опере. Да что там, каждый раз, когда я вижу её на улице, она постоянно куда-то спешит.
+
+### О Кадзухе...
+
+Немало иноземцев любит оперу Ли Юэ, и Каэдэхара Кадзуха один из них. Будь то партия струнно-духовых или ударных, он всегда сидит тихо и слушает. Образцовый зритель!
+
+### Узнать больше о Юнь Цзинь I
+
+Многие из опер, которые мы сейчас исполняем, новые. Я написала их после того, как стала руководителем труппы. Думаю, именно то, что я могу писать собственный материал и исполнять его, способствовало росту моей популярности в Ли Юэ.
+
+### Узнать больше о Юнь Цзинь II
+
+По традиции актёрам перед выходом на сцену нужно стянуть волосы, наложить грим, надеть костюм и совершить множество других приготовлений. Звезда оперы в полном облачении, конечно, выглядит эффектно, но как же это утомительно. Поэтому я по возможности стараюсь выступать без грима, а если необходимо выступать в костюме и гриме, я стараюсь выбирать костюм полегче. К счастью, чайный дом «Хэюй», с которым мы сотрудничаем, уже давно, даёт нам послабления. В противном случае мы бы валились от изнеможения.
+
+### Узнать больше о Юнь Цзинь III
+
+В самом начале моей оперной карьеры любовь публики вскружила мне голову, что не могло не сказаться на поведении. Не нравится сценарий? Не выступаю. Сцена тесновата? Не выступаю. Мало зрителей? Не выступаю. Сейчас я понимаю, какой я была... высокомерной. Никогда больше такого себе не позволю.
+
+### Узнать больше о Юнь Цзинь IV
+
+Оперная труппа Юнь Хань вот уже некоторое время находится под моим руководством. До этого я лишь умела писать оперы и исполнять их на сцене. Я никогда не задумывалась над тем, как управлять труппой. Когда я стала руководителем, мне пришлось быстро научиться многим вещам и пережить немало взлётов и падений в общении с людьми... Только теперь я понимаю, что жизнь отражает оперу, как и опера отражает жизнь.
+
+### Узнать больше о Юнь Цзинь V
+
+Многие из легенд Ли Юэ повествуют об Архонтах и Адептах, поэтому и у большинства опер главная тема - сверхъестественное. Под эту категорию подпадает и наша последняя постановка, «Созерцание богини уничтожения». Давним поклонникам оперы такие истории по душе, но в наш век человечества мне хотелось бы рассказывать о людях. Да, было бы здорово петь о мечтах и надеждах простых людей. Я ещё ни с кем не делилась этой мыслью... Спасибо, что терпеливо выслушал меня. Мне очень повезло иметь такого друга, как ты. / Многие из легенд Ли Юэ повествуют об Архонтах и Адептах, поэтому и у большинства опер главная тема - сверхъестественное. Под эту категорию подпадает и наша последняя постановка, «Созерцание богини уничтожения». Давним поклонникам оперы такие истории по душе, но в наш век человечества мне хотелось бы рассказывать о людях. Да, было бы здорово петь о мечтах и надеждах простых людей. Я ещё ни с кем не делилась этой мыслью... Спасибо, что терпеливо выслушала меня. Мне очень повезло иметь такого друга, как ты.
+
+### Хобби Юнь Цзинь...
+
+Хобби? Ну конечно же, опера! Это моя истинная страсть, и я решила петь до конца своей жизни.
+
+### Беспокойство Юнь Цзинь...
+
+Эх... Чтобы оставаться в форме, мне всегда приходится ограничивать себя в еде. Это очень обидно, потому что искушение отведать все лакомства города у меня так же сильно, как и у остальных.
+
+### Любимая еда...
+
+Мясо «Тяньшу», чёрный окунь, ветчина на сковороде... Всё бы съела! К сожалению, обычно эти блюда мне есть не приходится, но... Если ты не возражаешь, я хотела бы спросить... Ты умеешь готовить какие-нибудь из этих блюд?
+
+### Нелюбимая еда...
+
+Каждый день одно и то же - обжаренные креветки... И как бы их ни приготовили, вкус всегда одинаковый. Как же они мне надоели...
+
+### День рождения...
+
+Так у тебя сегодня день рождения? Ну, организовывать пиршества я не умею... но я могла бы спеть тебе. И только тебе одному. Какую песню тебе хотелось бы услышать? Выбирай. / Так у тебя сегодня день рождения? Ну, организовывать пиршества я не умею... но я могла бы спеть тебе. И только тебе одной. Какую песню тебе хотелось бы услышать? Выбирай.
+
+### Чувство возвышения: Начало
+
+Есть такая пословица: «Мастерство достигается трудом и гибнет от праздности».
+
+### Чувство возвышения: Нарастание
+
+Похоже, тяжёлые тренировки наконец-то дают результат.
+
+### Чувство возвышения: Кульминация
+
+Я начала тренироваться с копьём для того, чтобы мои боевые выступления на сцене выглядели лучше. Но я продолжила заниматься ради освоения техник самозащиты. Обе из этих целей достигнуты.
+
+### Чувство возвышения: Окончание
+
+Искусство владения копьём изменчиво и загадочно, как ни одно другое. Я рада, что во время моих тренировок ты рядом. Основы я уже освоила. В наших будущих спаррингах ты должен быть осторожным. / Искусство владения копьём изменчиво и загадочно, как ни одно другое. Я рада, что во время моих тренировок ты рядом. Основы я уже освоила. В наших будущих спаррингах ты должна быть осторожной.
+
+### Элементальный навык I
+
+Шаг!
+
+### Элементальный навык II
+
+Прыжок!
+
+### Элементальный навык III
+
+Поднять знамёна!
+
+### Элементальный навык IV
+
+Реют знамёна!
+
+### Элементальный навык V
+
+Смотри!
+
+### Взрыв стихии I
+
+Слушай мою команду!
+
+### Взрыв стихии II
+
+Объединим усилия!
+
+### Взрыв стихии III
+
+Одним ударом!
+
+### Открытие сундука I
+
+Труппа рада любому пожертвованию.
+
+### Открытие сундука II
+
+Хм... Есть что-нибудь, что может пригодиться труппе во время путешествия?
+
+### Открытие сундука III
+
+Не стоит церемониться. Просто бери.
+
+### Низкий уровень HP I
+
+Только не костюм!..
+
+### Низкий уровень HP II
+
+Ещё не опустился занавес...
+
+### Низкий уровень HP III
+
+Этот сценарий надо переписать...
+
+### Низкий уровень HP компаньона I
+
+Сначала ты.
+
+### Низкий уровень HP компаньона II
+
+Я здесь, чтобы спасти положение.
+
+### Без сознания I
+
+Всем спасибо... доброй ночи...
+
+### Без сознания II
+
+Истинная трагедия...
+
+### Без сознания III
+
+Шоу... должно продолжаться...
+
+### Получен лёгкий удар I
+
+Остаёмся в образе...
+
+### Получен тяжёлый удар I
+
+Как неловко...
+
+### Получен тяжёлый удар II
+
+Это не постановочный бой...
+
+### Присоединяется к группе I
+
+Кхм! О, маэстро!
+
+### Присоединяется к группе II
+
+Хм, какую оперу исполняем сегодня?
+
+### Присоединяется к группе III
+
+Да начнётся представление!
+
+### Подарок I
+
+Ммм! Нет ничего лучше, чем насладиться любимой едой... Жаль, что я могу позволить себе только маленький кусочек.
+
+### Подарок II
+
+Ох, настоящий пир! Подожди минутку, я принесу напитки!
+
+### Подарок III
+
+Прости... Эта еда мне не подходит.
+
+## REPLICAS_EN
+
+### Hello
+
+As the saying goes, you never truly know someone until you meet them in person, and at long last, I finally have the great honor of meeting you today. My name is Yun Jin, and I am humbled to be the director of the Yun-Han Opera Troupe. We have been performing at Heyu Tea House as of late, and we'd be honored to have you attend a performance sometime.
+
+### Chat: Sensitive Topic
+
+My waistband has been feeling a little snug these last couple of days... Methinks I perchance have overindulged...
+
+### Chat: Relaxing
+
+Ahhh... Yes, I shall spare myself the hair and makeup routine today, and happily idle my time away!
+
+### Chat: Singing Opera
+
+(Translated) How gently do the clouds and flowers sway, as dancing winds meander through the vales.
+
+### When Thunder Strikes
+
+*gasp* D—Did you hear that? Whew, it really startled me!
+
+### When It Snows
+
+(Translated) Fie! This cold shall be mine end!
+
+### When the Sun Is Out
+
+What a sight to behold, the sun so warm and radiant...
+
+### Good Morning
+
+Good morning! The dew at dawn is perfect for brewing tea, so I made some for you. Drink up, and then we'll head off!
+
+### Good Afternoon
+
+I'd like to indulge in a nap after lunch. Oh? ...You're not tired?
+
+### Good Evening
+
+Let's go listen to tonight's storytelling performance together. Liu Su's rendition of "Ring of Raining Blades" is most sublime!
+
+### Good Night
+
+There's a chill in the air tonight, so you mustn't stay out late. Good night!
+
+### About Yun Jin: Schooling
+
+My schooling started very early. In fact, my earliest memories are of my father teaching me to read. Despite my best efforts, my ability is not half of his. Enough to write operas, but compared to his level of erudition, I still have much to strive for.
+
+### About Yun Jin: Opera Training
+
+In her youth, my mother was a famous opera singer in Liyue Harbor, and I learned all the operas I know from her. But, you could never imagine how strict she was with me as a teacher. Thinking back on it now, I... *sigh* No, no, no, I'd rather not think about it at all.
+
+### About Us: Opera Troupe
+
+We have some grand performances coming up soon, and it just so happens that we have an opening for someone to play the part of a skilled swordfighter. I think you'd be a perfect match for the part. How about it? Would you like to join our troupe? We can even enjoy some tea together in between acts.
+
+### About Us: Rock 'n' Roll
+
+Huh? You like rock 'n' roll? Oh, that's great! I'll be sure to bring you along the next time I go out to see a show. And when I get back, I can just tell the senior troupe members that I went out to visit you... Hehe, that way, they won't have any reason to get on my case about going out.
+
+### About the Vision
+
+Hmm? My Vision? Hehe, I suppose the Lord of Geo must be a fan of the opera. Perhaps the old man was so delighted with my performance that he decided to grant me a Vision.
+
+### Something to Share: Drinks
+
+One of my absolute favorite pastimes is trying out all kinds of new beverages. I've already tried all the sophisticated-sounding drinks that previous generations came up with — you know, like Pine Nectar Tea and Snow Blossom Tea. I'm beginning to worry that I'll run out of new drinks to try soon. You don't happen to have any recommendations, do you?
+
+### Something to Share: Dreams
+
+Sometimes, I just feel like casting off my opera costume and going traveling overseas. You know, to explore the outside world. For now, I'll need to keep working hard at what I'm doing, so someday that dream can come true.
+
+### Interesting Things
+
+The chirping of the songbirds at daybreak always puts me in the best of moods.
+
+### About Xinyan
+
+The elders of the troupe are always harping on about rock 'n' roll being a bad influence. Needless to say, they never approve of me going to see Xinyan's shows. "It's for your own good," they say. Hmph, all it's really about is their inability to accept anything new. Whatever, those old fogies can't tell me what to do. I'm going to keep rocking out at Xinyan's gigs, every week, and that's that.
+
+### About Hu Tao
+
+Ah yes, Hu Tao. Very expressive face, and she has a sharp mind too — you can be discussing the most mundane thing in the world, and she'll always bring out a string of witty remarks. I admire her a lot. There's never a dull moment when you have friends like her around.
+
+### About Zhongli
+
+The customs of the opera are very particular, and are passed down from generation to generation. Sometimes I find that I only know the hows but not the whys behind what we do. But when speaking with Zhongli, it is abundantly evident that he knows the origins behind almost everything. Who wouldn't be delighted to have such a connoisseur in their audience?
+
+### About Ningguang
+
+The Tianquan is a big spender and has made several very generous donations to our troupe. I can only return her generosity by delivering my best possible performance.
+
+### About Xingqiu
+
+Oh, so you are also acquainted with Xingqiu? Haha, he is quite the clever one, and with a sharp wit as well. The moment you let your guard down, you're at risk of becoming the butt of one of his practical jokes... Don't say I didn't warn you.
+
+### About Shenhe
+
+I have long since known "The Divine Damsel of Devastation" inside out, back to front, but it was only very recently that I learned that the "divine damsel" in question is actually a real person. Life is full of strange twists sometimes! My only hope is that she can find true friendship and never be lonely again.
+
+### About Keqing
+
+I have yet to see the Yuheng ever attend an opera performance. Now that I think about it, whenever I happen to see her out on the street, she always seems to be in a great hurry.
+
+### About Kaedehara Kazuha
+
+Kaedehara Kazuha is among the many outlanders who enjoy Liyue opera. Whether it's an orchestral section or a percussive piece, he always sits there and listens quietly. Talk about great manners!
+
+### More About Yun Jin: I
+
+Many of the operas we've been performing recently are new ones that I wrote after assuming the directorship of the troupe. I suppose the fact that I can both write and sing my own material has contributed to my rising popularity in Liyue Harbor.
+
+### More About Yun Jin: II
+
+Per the tradition, actors must wrap their hair, put on full-face makeup and an elaborate costume, and make all sorts of other preparations before they take the stage. There's no doubt that an opera star in full attire looks spectacular, but achieving this look is frightfully exhausting. So I perform without hair and makeup whenever I have the option — and if I must perform in full dress, I try to select a costume that isn't too heavy. Fortunately, the good folks at Heyu Tea House are quite lenient with us. Otherwise, we'd be working ourselves to early graves.
+
+### More About Yun Jin: III
+
+At the start of my opera career, I have to say I did let the standing ovations from our audiences go to my head a little. It wasn't long before I developed a captious attitude... If I didn't like the script, or if the stage was too small, or if I thought there weren't enough people in the audience, I would refuse to perform. Looking back now, it was all terribly arrogant of me... my goodness. I shall never let myself become so vain again.
+
+### More About Yun Jin: IV
+
+Now that I think about it, the Yun-Han Opera Troupe has been under my leadership for quite some time now. Before taking it over, I only knew two things: how to write opera and how to perform it on stage. I never gave any thought to how to run a troupe. Becoming the troupe's director gave me a crash course in this unfamiliar area and I've experienced all the highs and lows of working with people along the way... Only now do I understand that life mirrors opera, just as opera reflects life.
+
+### More About Yun Jin: V
+
+Well you know, many of Liyue's legends are centered around stories of gods and the adepti, so most operas focus on the supernatural, too. A prime example would be "The Divine Damsel of Devastation," which we have been performing recently. Long-time opera fans adore this sort of material, but in this age of humanity, I would rather like to tell stories about ordinary people. Yes, how grand it would be to sing about the hopes and dreams of ordinary people for all to hear. I've never shared these thoughts with anyone before... Thank you for listening so patiently. I'm fortunate to have a close friend like you.
+
+### Yun Jin's Hobbies
+
+My hobbies? Well, opera, of course! It's what I truly love and it's what I will be pursuing for the rest of my life.
+
+### Yun Jin's Troubles
+
+*sigh* Well, as you can probably imagine, I always have to be mindful of what I eat and make sure I stay in shape. It's a shame, because the temptation to indulge in all the tasty delicacies the city has to offer is just as strong to me as to anyone else...
+
+### Favorite Food
+
+Tianshu Meat, Black-Back Perch Stew, Cured Pork Dry Hotpot... Oh, I just want them all! Unfortunately, I basically never get to eat such things, but... um, if you don't mind me asking... Can you cook any of those dishes?
+
+### Least Favorite Food
+
+Every day's the same... Stir-Fried Shrimp, day in and day out. No matter how they prepare it, it always tastes the same. Ugh, ghastly! I really can't stand it anymore...
+
+### Birthday
+
+Oh, so today's your birthday? Well, I wouldn't know how to throw you a feast if I tried... so how about I sing you a song? For you alone, an audience of one. So... what song would you like to hear me sing? The choice is yours.
+
+### Feelings About Ascension: Intro
+
+As the saying goes: "Achievement in a field is the result of how hard you are willing to work at it, not how much you enjoy it."
+
+### Feelings About Ascension: Building Up
+
+It looks like all my rigorous training is finally paying off.
+
+### Feelings About Ascension: Climax
+
+I began my training in the art of the spear hoping to enhance my performance in stage combat. I stuck with it hoping to master the techniques of self-defense. Today, it looks like I have finally achieved both of these goals.
+
+### Feelings About Ascension: Conclusion
+
+The art of the spear is a vast and profound discipline... There is an almost infinite number of things one can learn. I am glad to have had you by my side during my training. Haha, I believe I've grasped the basics now. I daresay you'd better be careful when we're sparring together in the future.
+
+### Elemental Skill: I
+
+And step!
+
+### Elemental Skill: II
+
+And leap!
+
+### Elemental Skill: III
+
+Flags up!
+
+### Elemental Skill: IV
+
+Flags fly!
+
+### Elemental Skill: V
+
+Observe!
+
+### Elemental Burst: I
+
+Break a leg!
+
+### Elemental Burst: II
+
+Strike as one!
+
+### Elemental Burst: III
+
+Your grand finale!
+
+### Opening Treasure Chest: I
+
+The troupe appreciates any donation.
+
+### Opening Treasure Chest: II
+
+Hmm... Anything the troupe could use on our journey?
+
+### Opening Treasure Chest: III
+
+No need to stand on ceremony. I'll just take this.
+
+### Low HP: I
+
+Oof, watch the costume!
+
+### Low HP: II
+
+Ugh, the curtain's not down yet...
+
+### Low HP: III
+
+This script needs a rewrite...
+
+### Ally at Low HP: I
+
+Exit stage right!
+
+### Ally at Low HP: II
+
+I'll save the show!
+
+### Fallen: I
+
+Thank you... And goodnight...
+
+### Fallen: II
+
+A true tragedy...
+
+### Fallen: III
+
+The show... Must go on...
+
+### Light Hit Taken: I
+
+Stay in character...
+
+### Heavy Hit Taken: I
+
+How embarrassing...
+
+### Heavy Hit Taken: II
+
+This isn't stage fighting...
+
+### Joining Party: I
+
+(Translated) Ahem! Oh, Maestro!
+
+### Joining Party: II
+
+Hmm, which opera shall we perform today?
+
+### Joining Party: III
+
+Let's get this show on the road!
+
+### Receiving a Gift: I
+
+Mmm! There's no better feeling than indulging in your favorite food... It's a shame that I can only afford to have a little bite.
+
+### Receiving a Gift: II
+
+Oh, what a magnificent feast! Wait a second, I'll grab us some drinks to accompany the meal.
+
+### Receiving a Gift: III
+
+I'm sorry... This meal isn't really agreeing with me.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+有道是闻名不如见面，今天终于有缘与你相会，实属荣幸。我姓云，单名一个堇字，不才正是云翰社当家主事的人。我们戏社最近挂靠在和裕茶馆，日后还请多多赏光，常来听戏。
+
+### 闲聊·敏感话题
+
+这两天总觉得身上腰封有点紧，难道…我胖了？
+
+### 闲聊·闲适
+
+不勒头，不画脸，今天乐得清闲。
+
+### 闲聊·清唱
+
+云婵娟来花婵娟，风流尽在山水间。
+
+### 打雷的时候…
+
+…嘶，你听、听见打雷没有？吓我一跳。
+
+### 下雪的时候…
+
+喂呀，冻煞我了。
+
+### 阳光很好…
+
+暖阳和煦，真是好风光呀。
+
+### 早上好…
+
+早，清晨露水正好煎茶，喝完这杯茶再出发吧。
+
+### 中午好…
+
+午饭吃完之后，想睡一觉…哈…你不困吗？
+
+### 晚上好…
+
+一道去听听晚场说书吧，刘苏先生讲《裁雨声》是一绝。
+
+### 晚安…
+
+夜里寒气重，早点歇息，晚安。
+
+### 关于云堇自己·开蒙
+
+我开蒙早，刚记事的时候父亲就在教我读书了。可惜，他的本事要是有十分，我恐怕只学到了三分。写戏是够用了，但要和饱学之士相比，还差得太远。
+
+### 关于云堇自己·坐科
+
+我母亲早年是璃月港内大有名气的角儿，我学的戏都是她教的。你是不知道她有多严厉，一想起以前学戏的经历…不不不，我还是别想了。
+
+### 关于我们·搭班
+
+最近有几场大戏，正好缺一位擅长舞剑的演员，我觉得你各方面都挺适合。怎么样，有兴趣搭班吗？休息时，还能一起品茶。
+
+### 关于我们·摇滚
+
+欸，你还听摇滚？正好正好，下回我想出去听演唱会的时候，就找你一块去。回来的时候，我就说是拜访你去了，这下戏社里的老人肯定找不到借口唠叨我。
+
+### 关于「神之眼」…
+
+这神之眼嘛…说不定岩王爷也喜欢听戏呢？大概他老人家听得开心，就把神之眼送给我了，哈哈。
+
+### 有什么想要分享·饮品
+
+我最喜欢尝试各种各样的饮品。老一辈发明的那些讲究茶饮，什么松间露呀梅上雪的，都让我试了个遍。现在正愁没有新饮品可以喝呢，欸，你有什么推荐吗？
+
+### 有什么想要分享·心愿
+
+我偶尔也想脱下戏服，远游海外，去更大的世界看看。为了实现这个心愿，得更加努力才行。
+
+### 感兴趣的见闻…
+
+每天天刚破晓就能听见莺雀鸣啭，心情总能变得很好。
+
+### 关于辛焱…
+
+戏社里那几个老人天天念叨，说是听多了摇滚会被带坏，不让我去听辛焱的演唱会。嘴上说着为我好，哼，我看他们只是接受不了新事物而已。我才不会听他们的，辛焱的演唱会我每周都要去，就是这样。
+
+### 关于胡桃…
+
+胡桃她呀，表情丰富，脑筋还转得快，哪怕只是聊些家常都能「妙语连珠」。真让人羡慕。和这样的朋友在一起，无论做什么事情都很有趣。
+
+### 关于钟离…
+
+我们这行的规矩代代相传，讲究多得很。有些事我只知其然，却不知其所以然。但钟离先生讲起这些竟能如数家珍，有这样懂行的观众，谁不开心呢？
+
+### 关于凝光…
+
+天权星出手阔绰，没少资助我们戏社。领了她的情，自然也要回报给她最好的演出。
+
+### 关于行秋…
+
+原来你也认识行秋。哈哈，他聪明得很，鬼主意那么多，怕是一不留神就会捉弄你，可得留个心眼啊。
+
+### 关于申鹤…
+
+《神女劈观》的剧本我早就念得烂熟，但直到今天我才知道「神女」原来真有其人，世上缘分果然奇妙。惟愿她往后都有好友相伴，不再孤寂。
+
+### 关于刻晴…
+
+我倒没见过玉衡星来听戏。印象里，路边偶遇这位时，她也总是一副行色匆匆的样子。
+
+### 关于枫原万叶…
+
+爱听戏的外国人士也有不少，这位枫原万叶就是其中之一。不论台上演的是文场还是武场，他总是安安静静地听，是个规矩的好观众。
+
+### 想要了解云堇·其一
+
+我们戏社现在常唱的几出戏，有不少是我当家之后新写出来的。写也是我，唱也是我，一人多职，大概是因为这一点，我在璃月港有了些名气。
+
+### 想要了解云堇·其二
+
+按照传统，伶人登台之前要勒头、画脸、穿行头，还有其他一些零碎的准备工作。虽然这样「全副武装」之后扮相会更好看，但也累人。所以我能清唱时就清唱，非得彩唱的话，我往往会挑轻便点的行头。
+幸好和我们戏社长期合作的和裕茶馆管得宽松，要不然我真是要累惨了。
+
+### 想要了解云堇·其三
+
+当初我刚登台唱戏，凭着观众抬爱，不免有些心高气傲。戏本不喜欢就不唱，戏台子小了也不唱，观众少了还是不唱。现在想来，那时候可真是…太傲慢了…以后万万不能这样。
+
+### 想要了解云堇·其四
+
+回想起来，云翰社传到我手上也有段时间了。原本我只懂得写戏、唱戏，从来没把心思放在经营交际上。做了戏社的当家之后，才不得不在这些事上多长点心眼，因此体味到不少人情冷暖…
+这时候我才真知道，人生如戏，戏如人生啊。
+
+### 想要了解云堇·其五
+
+璃月多传说，大都是些魔神、仙人故事，所以璃月戏里最多的就是神仙戏。最近新演的《神女劈观》就属此类。虽然老戏迷们最爱听的就是这类故事，但如今是「人」的时代，我想多写些属于人类的故事，把天下人心唱给大家听。
+这些想法，过去我不曾向人提起。多谢你能耐心听我说这些。有一知音，我很幸运。
+
+### 云堇的爱好…
+
+爱好？当然是戏了。我是打定主意要唱一辈子的。
+
+### 云堇的烦恼…
+
+烦恼…唉，为了保持体型，我平时一口都不能多吃。人生在世，连美食都不能奢求，真是遗憾哪。
+
+### 喜欢的食物…
+
+天枢肉、水煮黑背鲈、干锅腊肉…我都想吃。可惜平时基本吃不了，那个…我就随便问一问，你…会做这几道菜吗？
+
+### 讨厌的食物…
+
+天天都是清炒虾仁，天天都是…再怎么做都还是那个味道，我是真的吃腻了。
+
+### 生日…
+
+原来今天是你的生日吗？我没有置办宴席的本事，只能为你唱一曲了。不过，这一曲只为你一个人唱，要听什么？你来定。
+
+### 突破的感受·起
+
+俗语说：「业精于勤而荒于嬉。」
+
+### 突破的感受·承
+
+勤学苦练至今，总算是有了些成果。
+
+### 突破的感受·转
+
+学枪一事，原先是为了台上舞枪好看，后来是为了掌握傍身武技。如今这两个目标都已达到。
+
+### 突破的感受·合
+
+枪术千变万化，奥妙无比，让我庆幸的是，练枪时一直有你相伴。我已经领悟到其中旨要。往后切磋时，你可得小心了。
+
+### 元素战技·其一
+
+着！
+
+### 元素战技·其二
+
+崩！
+
+### 元素战技·其三
+
+旗来！
+
+### 元素战技·其四
+
+飞云旗！
+
+### 元素战技·其五
+
+看枪！
+
+### 元素爆发·其一
+
+听我号令！
+
+### 元素爆发·其二
+
+勠力同心！
+
+### 元素爆发·其三
+
+一鼓作气！
+
+### 打开宝箱·其一
+
+我来瞧瞧。
+
+### 打开宝箱·其二
+
+是旅行中用得上的物资吗？
+
+### 打开宝箱·其三
+
+别客气，你收着就行。
+
+### 生命值低·其一
+
+别把裙子弄坏了…
+
+### 生命值低·其二
+
+得重整旗鼓才行。
+
+### 生命值低·其三
+
+哼，好戏在后面。
+
+### 同伴生命值低·其一
+
+你先下场。
+
+### 同伴生命值低·其二
+
+我来救场。
+
+### 倒下·其一
+
+曲终…人散…
+
+### 倒下·其二
+
+罢了…
+
+### 倒下·其三
+
+没办法…唱下去了…
+
+### 普通受击·其一
+
+要沉住气…
+
+### 重受击·其一
+
+有点狼狈…
+
+### 重受击·其二
+
+下手好重…
+
+### 加入队伍·其一
+
+走——了——
+
+### 加入队伍·其二
+
+今天该唱哪出呢？
+
+### 加入队伍·其三
+
+你叫我，我当然要来了。
+
+### 收到赠礼·其一
+
+美食，总会让人倍感幸福…可惜只能点到为止，不能再多吃了。
+
+### 收到赠礼·其二
+
+看着就很丰盛！稍等，我去找些饮品来，配着饭菜一起享用吧。
+
+### 收到赠礼·其三
+
+不好意思…这道菜肴呀，我是吃不了多少的。

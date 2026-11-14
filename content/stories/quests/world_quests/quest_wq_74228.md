@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 74228
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74228
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 74228
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -28,19 +30,27 @@
 
 #### Прогуляйтесь у воды
 
-**Пука:** Приветик, дорогая мелюзина! Тебе нужна помощь?
+#### Поговорите с мелюзиной
+
+**Паймон:** Приветик, дорогая мелюзина! Тебе нужна помощь?
 
 **Пука:** А, это Путешественник и Паймон! Давно не виделись. Привет!
 
-- **Путешественник:** Пука! Я тоже рад(а) тебя видеть.
+##### Вариант ответа 1
+
+- **Путешественник:** Пука! Я тоже рад тебя видеть. / Пука! Я тоже рада тебя видеть.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Ищешь красивые камни?
 
-**Пука:** Хе-хе, угадал(а). Ты хорошо меня знаешь.
+##### Общее продолжение
+
+**Пука:** Хе-хе, угадал. Ты хорошо меня знаешь. / Хе-хе, угадала. Ты хорошо меня знаешь.
 
 **Пука:** Все в деревне Меруси готовят сюрприз для месье Нёвиллета. Мы вместе шьём ему новый костюм! Я как раз собиралась поискать ракушки и самоцветы, чтобы украсить его!
 
-Ух ты, неожиданный подарок!
+- **Путешественник:** Ух ты, неожиданный подарок!
 
 **Паймон:** Ух ты, неожиданный подарок!
 
@@ -54,11 +64,15 @@
 
 **Паймон:** Паймон тебя прекрасно понимает! Атмосфера настолько заразительна, что тебя захватывает восторг, и ты уже не можешь остановиться. Точнее, не хочешь останавливаться, да?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это как собрать музыкальную группу.
 
-- **Путешественник:** Это как вместе совершить преступление.
-
 **Пука:** Да, очень похоже! Все играют на разных инструментах, но вместе создают гармоничную мелодию.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Это как вместе совершить преступление.
 
 **Паймон:** А вот и нет!
 
@@ -69,6 +83,8 @@
 **Паймон:** Ой-ой, Паймон переживает, что Пука у тебя плохому научится... Как потом перед Нёвиллетом отчитываться?..
 
 **Паймон:** В общем, Паймон предлагает закрыть тему коллективных преступлений и вернуться к разговору о новом костюме.
+
+##### Общее продолжение
 
 **Паймон:** Кстати, почему вы вдруг решили сделать подарок Нёвиллету?
 
@@ -86,7 +102,7 @@
 
 **Паймон:** Ого, ну...
 
-Думаю, Нёвиллету это понравилось бы.
+- **Путешественник:** Думаю, Нёвиллету это понравилось бы.
 
 **Пука:** Хе-хе, я тоже так думаю!
 
@@ -96,7 +112,7 @@
 
 **Паймон:** «Строгая непринуждённость»... Паймон почему-то сразу представилось, как Нёвиллет плавает в море с каменным лицом...
 
-Может, он ещё и ракушку держит?
+- **Путешественник:** Может, он ещё и ракушку держит?
 
 **Паймон:** А?
 
@@ -106,7 +122,7 @@
 
 **Пука:** Нужно скорее найти блестящие ракушки и камушки, чтобы сделать сверкающую пудру. Хватит ли тидальи для окрашивания?..
 
-Пришло время для нашей коронной фразы...
+- **Путешественник:** Пришло время для нашей коронной фразы...
 
 **Паймон:** «Поручи это нам!»
 
@@ -122,36 +138,11 @@
 
 **Пука:** Тогда я сосредоточусь на поиске самоцветов. Удачи! Увидимся позже!
 
-#### Поговорите с мелюзиной
+#### Найдите способ спуститься под воду
+
+#### Соберите самые яркие и блестящие берилловые ракушки
 
 **Пука:** Спасибо за помощь! Будьте осторожны!
-
-
-**Лаумэ:** Месье Нёвиллет, могу я задать вопрос?
-
-**Нёвиллет:** Конечно, говори.
-
-**Лаумэ:** Я слышала, что в Ли Юэ есть огонь, завёрнутый в бумагу, который может исполнить любое желание! Это правда?
-
-**Вирда:** Огонь, завёрнутый в бумагу? Разве она не загорится? Это же опасно!
-
-**Пука:** Точно. Если твоё желание - сжечь дом дотла, то оно вполне может сбыться.
-
-**Фло:** Пука! У кого ты научилась таким шуткам?
-
-**Пука:** А? Это не шутка!
-
-**Нёвиллет:** Хм... действительно, есть нечто подобное. Их называют небесными фонарями.
-
-**Нёвиллет:** При правильном использовании они безопасны, но на самом деле они не исполняют желания. Прости.
-
-**Гранна:** Ой, а почему вы извиняетесь?
-
-**Нёвиллет:** Хм... Моё описание может показаться вам скучным. Что, если я привезу вам несколько небесных фонарей, когда в следующий раз буду в Ли Юэ?
-
-**Лаумэ:** Потрясающе! Было бы здорово, если бы вы сделали побольше снимков!
-
-**Нёвиллет:** Обязательно.
 
 #### Проверьте, как дела у Пуки
 
@@ -159,7 +150,7 @@
 
 **Пука:** У-у... Не ожидала, что во время поиска самоцветов наткнусь на бронекраба...
 
-(Бронекраб? Разве это не вишап?)
+- **Путешественник:** (Бронекраб? Разве это не вишап?)
 
 **Пука:** Всё в порядке, я не ранена... Простите, что заставила вас волноваться...
 
@@ -167,11 +158,11 @@
 
 **Паймон:** А?! Вишапы едят больших крабов?
 
-Тебя это сейчас волнует?
+- **Путешественник:** Тебя это сейчас волнует?
 
 **Пука:** Похоже, ему не очень понравился краб. Вишап выглядит не очень довольным...
 
-Тебя это сейчас волнует?
+- **Путешественник:** Тебя это сейчас волнует?
 
 **Паймон:** Точно, главное... как здесь оказался вишап?
 
@@ -181,13 +172,13 @@
 
 **Пука:** Фух... Похоже, мне повезло, я встретила милого вишапа.
 
-(Милый... вишап? Неужели...)
+- **Путешественник:** (Милый... вишап? Неужели...)
 
 **Паймон:** В следующий раз обязательно нужно хорошенько его поблагодарить!
 
 **Пука:** Да, обязательно. Угощу его чем-нибудь вкусным! Не знаю, что он любит, но точно не больших крабов...
 
-Тидалью.
+- **Путешественник:** Тидалью.
 
 **Пука:** Тидалью? Не ожидала, что большой вишап любит есть такое...
 
@@ -197,27 +188,33 @@
 
 **Пука:** Нет, я даже не успела погрузиться в воду... Может быть, кто-то добрый услышал наш разговор и оставил её здесь?
 
-Может быть, добрая фея.
+- **Путешественник:** Может быть, добрая фея.
 
 **Пука:** Сегодня и правда удачный день. Гороскоп в модном журнале не соврал...
 
 **Пука:** Да хранят нас звёзды, чтобы наш подарок был доставлен целым и невредимым!
 
-Непременно.
+- **Путешественник:** Непременно.
 
 **Паймон:** Ах да, держи! Вот берилловые ракушки, которые мы собрали. Как думаешь, хватит?
 
 **Пука:** Хватит, хватит. Ух как блестит, аж глаза слепит...
 
-- **Путешественник:** Ты преувеличиваешь.
+##### Вариант ответа 1
 
-- **Путешественник:** Пришлось надеть солнцезащитные очки во время поиска.
+- **Путешественник:** Ты преувеличиваешь.
 
 **Пука:** Хе-хе, это мой особый способ выразить благодарность.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Пришлось надеть солнцезащитные очки во время поиска.
+
 **Пука:** Правда? Тогда я тоже куплю очки, чтобы искать самоцветы...
 
-**Паймон:** Он(а) тебя разыгрывает.
+**Паймон:** Он тебя разыгрывает. / Она тебя разыгрывает.
+
+##### Общее продолжение
 
 **Пука:** Итак, самоцветы, берилловая ракушка и тидалья, подаренная доброй феей. Задание выполнено!
 
@@ -225,11 +222,13 @@
 
 **Пука:** Путешественник, Паймон, мы отнесём подарок во Дворец Мермония. Хотите прийти посмотреть на готовое изделие?
 
-Конечно.
+- **Путешественник:** Конечно.
 
 **Пука:** Хе-хе, тогда встретимся во Дворце Мермония! Уверена, многие мелюзины тоже захотят прийти.
 
 **Паймон:** Отлично! Паймон будет ждать от вас хороших новостей!
+
+#### Дождитесь назначенного времени (через два дня с 14:00 до 16:00)
 
 #### Отправляйтесь во Дворец Мермония
 
@@ -295,7 +294,7 @@
 
 **Роялт:** Интервью? Этого нет в расписании. Из какой газеты?
 
-**Айюн:** Газета «Энергичная выдра».
+**Айюн и Лаумэ:** Газета «Энергичная выдра».
 
 **Роялт:** Правда? Значок, который вы держите, совсем не похож на выдру.
 
@@ -331,25 +330,37 @@
 
 **Паймон:** Эм... Путешественник, может, скажешь что-нибудь? Паймон становится страшно...
 
-Прости, я по натуре (молчаливая)(молчаливый).
+- **Путешественник:** Прости, я по натуре молчаливый. / Прости, я по натуре молчаливая.
 
 **Паймон:** Пожалуйста, не заставляй Паймон умолять! Хватит быть сторонним наблюдателем!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это как смотреть театральную постановку.
 
-- **Путешественник:** Извини, я (отвлеклась)(отвлёкся).
+##### Вариант ответа 2
+
+- **Путешественник:** Извини, я отвлёкся. / Извини, я отвлеклась.
+
+##### Общее продолжение
 
 **Паймон:** Паймон всё понимает, но, похоже, Роялт собирается позвать охрану...
 
 **Паймон:** Если он позовёт сюда Нёвиллета, сюрприз, который мелюзины так тщательно готовили, будет испорчен, и ситуация станет ещё более неловкой...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ладно, уговорила.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Сделаем это!
 
+##### Общее продолжение
+
 **Паймон:** Это? Что именно?
 
-Пука и дорогие друзья, приветствую вас!
+- **Путешественник:** Пука и дорогие друзья, приветствую вас!
 
 **Пука:** Путешественник, Паймон!
 
@@ -359,11 +370,17 @@
 
 **Роялт:** Прошу прощения, вы с ними?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Да, мы договорились все вместе навестить Нёвиллета.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Да, мы договорились все вместе навестить синее существо.
 
 **Роялт:** Ха-ха-ха...Так вы всё слышали.
+
+##### Общее продолжение
 
 **Роялт:** Отлично, всё в порядке. Месье Нёвиллет сейчас у себя в кабинете, и других посетителей нет. Проходите, пожалуйста.
 
@@ -373,7 +390,7 @@
 
 **Роялт:** Видите ли, господин Айюн так усердно трудится, что у него редко бывает возможность поднять голову и отметить всех уважаемых посетителей Дворца Мермония...
 
-Простите за беспокойство...
+- **Путешественник:** Простите за беспокойство...
 
 **Роялт:** Вы очень любезны. Мы не будем отнимать время у вас и ваших друзей-мелюзин, только вот...
 
@@ -393,7 +410,7 @@
 
 **Айюн:** Господин Роялт?..
 
-**Роялт:** Не хмуритесь. Путешественник - (подруга)(друг) верховного судьи, проблем не будет.
+**Роялт:** Не хмуритесь. Путешественник - друг верховного судьи, проблем не будет. / Не хмуритесь. Путешественник - подруга верховного судьи, проблем не будет.
 
 **Роялт:** А даже если что-то и случится, какое нам до этого дело? Мы ведь пили чай у госпожи Корнелии.
 
@@ -401,23 +418,29 @@
 
 **Айюн:** Путешественник! Давно не виделись, как поживаете?
 
-Всё хорошо.
+- **Путешественник:** Всё хорошо.
 
 **Айюн:** Ха-ха, рад слышать. Как видите, здесь всё по-прежнему...
 
 **Роялт:** Скажите, вы с мелюзинами?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Да, мы договорились все вместе навестить Нёвиллета.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Да, мы договорились все вместе навестить синее существо.
 
 **Роялт:** Ха-ха-ха... Так вы всё слышали. Заверяю вас, это обычное недоразумение. Пожалуйста, сохраните это в секрете.
 
+##### Общее продолжение
+
 **Роялт:** В общем... Отлично! Проблема внезапно решилась.
 
 **Роялт:** Месье Нёвиллет сейчас у себя в кабинете, и других посетителей нет. Проходите, пожалуйста.
 
-Простите за беспокойство...
+- **Путешественник:** Простите за беспокойство...
 
 **Роялт:** Вы очень любезны. Мы не будем отнимать время у вас и ваших друзей-мелюзин, только вот...
 
@@ -437,16 +460,33 @@
 
 **Роялт:** Всего доброго! Берегите себя.
 
+**Айюн и Лаумэ:** Газета «Энергичная выдра».
 
-**Пука:** Пожалуйста, проводите нас в кабинет месье Нёвиллета.
+##### Вариант ответа 1
 
-- **Путешественник:** Идите за мной и держитесь группой, не отставайте, спасибо...
+##### Вариант ответа 2
 
-- **Путешественник:** Подожди немного.
+##### Общее продолжение
 
-**Пука:** Хорошо, я подожду!
+##### Вариант ответа 1
 
-#### Отведите мелюзин к Нёвиллету
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+#### Поговорите с Пукой и отведите мелюзин к Нёвиллету
 
 **Роялт:** Общаться с мелюзинами всегда утомительно. Обычные методы не работают...
 
@@ -460,6 +500,20 @@
 
 **Роялт:** Ты только что перечислил все причины, почему они не подходят для работы в Палате Жестьон.
 
+**Пука:** Пожалуйста, проводите нас в кабинет месье Нёвиллета.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Идите за мной и держитесь группой, не отставайте, спасибо...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Подожди немного.
+
+**Пука:** Хорошо, я подожду!
+
+#### Отведите мелюзин к Нёвиллету
+
 **Нёвиллет:** Так и знал, что это вы...
 
 **Нёвиллет:** Я услышал голос мелюзин и подошёл к окну, чтобы взглянуть... Но ракурс был не тот, и я ничего не смог разглядеть.
@@ -468,7 +522,7 @@
 
 **Паймон:** Нет-нет! Эм... пожалуй, что нет...
 
-*Вы вкратце рассказываете Нёвиллету о произошедшем...*
+Вы вкратце рассказываете Нёвиллету о произошедшем...
 
 **Нёвиллет:** Понятно...
 
@@ -478,7 +532,7 @@
 
 **Лаумэ:** Понятно... Извините...
 
-А газете «Энергичная выдра» срочно нужен ребрендинг.
+- **Путешественник:** А газете «Энергичная выдра» срочно нужен ребрендинг.
 
 **Нёвиллет:** Что за газета?
 
@@ -510,15 +564,125 @@
 
 **Паймон:** Эм... ну...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вы проделали такой долгий путь.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Вручите подарок!
 
-**Пука:** Да, Путешественник прав(а)...
+##### Общее продолжение
+
+**Пука:** Да, Путешественник прав... / Да, Путешественник права...
 
 Мелюзины наперебой рассказывают про «сюрприз»...
 
 Однако почему-то и дарительницы, и одаряемый выглядят неловко.
+
+**Нёвиллет:** Спасибо. Вы проделали огромную работу.
+
+**Нёвиллет:** (Я был слишком холоден? Нужно было просто улыбнуться?)
+
+**Нёвиллет:** (Они приложили немало усилий, чтобы устроить мне сюрприз. Я искренне рад и должен отреагировать соответствующим образом...)
+
+**Нёвиллет:** (Как люди выражают радость, когда получают подарки, которые их дети заботливо сделали?)
+
+**Нёвиллет:** (Ох, если бы только Сиджвин была здесь. Она знает много техник общения с людьми и лучше разбирается в таких вещах...)
+
+**Фло:** Это было совсем не сложно, правда...
+
+**Лаумэ:** Да, верно! Все приняли активное участие, и мы всё сделали в мгновение ока!
+
+**Пука:** Да! Путешественник и Паймон тоже помогали!
+
+- **Путешественник:** Проще простого. Мы лучше всех умеем искать всякое.
+
+**Нёвиллет:** (А если посмотреть на это с другой стороны?)
+
+**Нёвиллет:** (Когда я вижу, как другие пользуются моими подарками, я испытываю чувство удовлетворения. Отсюда можно сделать вывод, что и обратное также верно.)
+
+**Нёвиллет:** Не могли бы вы подождать минуту? Я хотел бы его примерить.
+
+**Гранна:** Да, да! Пожалуйста.
+
+**Паймон:** О! О! Это свершилось? Даже Путешественник и Паймон ещё не видели готовое изделие! Наконец-то мы сможем лицезреть творение мелюзин!
+
+**Нёвиллет:** Кхе-кхе... Ну как?
+
+- **Путешественник:** Тебе идёт.
+
+**Нёвиллет:** Превосходно. Мы с мелюзинами очень рады это слышать.
+
+**Паймон:** Как красиво! Паймон начинает понимать, что значит «строгая непринуждённость»!
+
+**Нёвиллет:** Хм... Действительно. Идеально подходит для неформальной обстановки.
+
+**Нёвиллет:** Если я не ошибаюсь, в этом наряде чувствуется некий... экзотический колорит?
+
+**Лаумэ:** Вы очень проницательны, месье Нёвиллет!
+
+**Фло:** Сиджвин упомянула, что вы побывали в долине Чэньюй в Ли Юэ и прекрасно провели время!
+
+**Фло:** Мы подумали, что если сделать костюм, который будет соответствовать местному стилю, вы сможете носить эту одежду в отпуске.
+
+**Нёвиллет:** Очень предусмотрительно с вашей стороны.
+
+**Нёвиллет:** (Они очень постарались для меня... Нужно найти время, чтобы вернуться в Ли Юэ и привезти с собой ответные подарки мелюзинам.)
+
+**Нёвиллет:** (Но что купить?.. Решу на месте. Спрошу совета у местных жителей.)
+
+**Лаумэ:** Это в основном заслуга Фло, ведь она занималась и дизайном, и кройкой.
+
+**Вирда:** Да, Фло обязательно станет невероятно талантливым модельером и прославится на весь Фонтейн!
+
+**Фло:** Вы преувеличиваете, это не только моя заслуга. Если бы не Пука, которая рисковала собой, чтобы собрать материалы для краски...
+
+**Пука:** Ах!
+
+**Пука:** Давайте не будем об этом, иначе месье Нёвиллет будет беспокоиться...
+
+**Нёвиллет:** Что случилось?
+
+**Пука:** Ничего особенного, хе-хе...
+
+**Пука:** Ладно, дело в том...
+
+Она рассказывает историю о том, как вы собирали самоцветы и ракушки, а также о тидалье, которая появилась на обочине.
+
+**Нёвиллет:** (Вишап, который любит тидалью... Хм...)
+
+**Нёвиллет:** Понятно.
+
+**Нёвиллет:** Тебе очень повезло. Благодарю за помощь, Путешественник.
+
+**Нёвиллет:** Однако в следующий раз, когда отправитесь в дикую местность, будет безопаснее не ходить в одиночку.
+
+**Пука:** Да, я понимаю.
+
+**Нёвиллет:** Судя по вашему рассказу, вам помог вишап?
+
+**Пука:** Да! Хочется увидеть его снова и поблагодарить... Как думаете, может быть, это он оставил тидалью?
+
+**Нёвиллет:** ...
+
+**Нёвиллет:** (Меня беспокоит, как у неё дела. Сейчас нет срочных дел, так что, пожалуй...)
+
+**Пука:** Ой-ой! Мы задержались, да?
+
+**Фло:** Нам пора возвращаться, пока не стемнело!
+
+**Нёвиллет:** Прекрасно. Я провожу вас.
+
+**Вирда:** А? Правда? Если вернёмся сейчас, как раз успеем пригласить месье Нёвиллета и путешественника на ужин! / А? Правда? Если вернёмся сейчас, как раз успеем пригласить месье Нёвиллета и путешественницу на ужин!
+
+**Лаумэ:** Ура! Пухленевые профитроли! Суп де Пуассон! Пирог Пуассон-Шансон!
+
+- **Путешественник:** Пирог Пуассон-Шансон!
+
+**Паймон:** Решил присоединиться к мелюзинам? / Решила присоединиться к мелюзинам?
+
+**Нёвиллет:** Хм... Почему бы и нет, пойдём вместе.
 
 #### Отведите мелюзин обратно
 
@@ -536,13 +700,19 @@
 
 **Нёвиллет:** Пашив? Так вот как вы её называете?
 
-- **Путешественник:** Неужели тот легендарный Новый Валет...
+##### Вариант ответа 1
 
-- **Путешественник:** Надо будет рассказать об этом Сайно.
+- **Путешественник:** Неужели тот легендарный Новый Валет...
 
 **Паймон:** Так вот что она имела в виду?! А Паймон так долго думала об этом, что чуть не потеряла сон и покой...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Надо будет рассказать об этом Сайно.
+
 **Паймон:** Точно, он наверняка воспримет это как испытание...
+
+##### Общее продолжение
 
 **Пука:** Привет?..
 
@@ -578,6 +748,154 @@
 
 И хотя Пашив в основном ела только тидалью (и съела всё до последнего кусочка), всем был виден её восторг.
 
+**Пашив:** Тидалья, много... Пашив, спать хочет...
+
+**Паймон:** А? Что?
+
+**Пашив:** Пашив, вода. Вернуться, спать.
+
+**Нёвиллет:** Похоже, она съела слишком много тидальи и хочет вернуться в воду поспать.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Оказывается, вишапы тоже становятся сонными после еды.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Прямо как Паймон.
+
+##### Общее продолжение
+
+**Паймон:** Эй! Сам такой же! / Эй! Сама такая же!
+
+**Пашив:** Пашив, уходит.
+
+**Пука:** Подожди! Пожалуйста, подожди!
+
+**Пашив:** ?
+
+**Пука:** (Не знаю, где она живёт, и не знаю, когда мы снова встретимся...)
+
+**Пука:** (Было бы здорово дать ей что-нибудь на память... О! Придумала!)
+
+**Пука:** Возьми, это тебе.
+
+**Пашив:** А...
+
+**Пашив:** Новый Валет, Пашив! Новый Валет, хорошая вещь!
+
+**Паймон:** Ух ты, она сразу узнала...
+
+- **Путешественник:** Новый Валет, хорошая вещь!
+
+**Нёвиллет:** Эм... Да... действительно хорошая вещь... Я про табличку.
+
+**Пашив:** Мелюзина, Пашив! Мелюзина, прощай!
+
+**Пашив:** До свидания, Новый Валет! До свидания, Паймон! До свидания, Путешественник!
+
+Пашив превратилась обратно в вишапа и уплыла, держа в зубах табличку...
+
+**Паймон:** Пашив, как всегда, исчезла в мгновение ока...
+
+**Паймон:** В этот раз мы хотя бы попрощались как следует.
+
+**Пашив:** Мелюзина, Пашив! Мелюзина, хорошая вещь!
+
+**Пашив:** Новый Валет, хорошая вещь! Паймон, хорошая вещь! Путешественник, хорошая вещь!
+
+Пашив превратилась обратно в вишапа и уплыла, держа в зубах табличку...
+
+**Паймон:** Пашив, как всегда, исчезла в мгновение ока...
+
+- **Путешественник:** Пашив и след простыл.
+
+**Нёвиллет:** Не волнуйся, она наверняка считает Фонтейн своим новым домом. Мы обязательно встретимся снова.
+
+**Нёвиллет:** Умение делиться - часть процесса социализации. Похоже, она многому научилась не только у меня, но и у других.
+
+- **Путешественник:** Все люди должны учиться друг у друга.
+
+**Нёвиллет:** Ты прав, я тоже многому научился у людей. / Ты права, я тоже многому научился у людей.
+
+**Нёвиллет:** Если подумать, процесс обучения начался очень-очень давно...
+
+**Гранна:** Месье Нёвиллет... вы вспоминаете о прошлом?
+
+**Нёвиллет:** Верно.
+
+**Нёвиллет:** Это история о том времени после моего рождения, когда я ещё не стал частью Кур-де-Фонтейна.
+
+**Нёвиллет:** Я и не знаю, почему родился в человеческом облике, но в силу обстоятельств мне пришлось изучать аспекты человеческого образа жизни.
+
+**Нёвиллет:** В то время у меня было много вопросов: как люди записывают историю с помощью своего языка, как они производят товары и ведут торговлю...
+
+**Нёвиллет:** Хм... Почему они использовали плоть и кровь божеств в качестве средства обмена? Разве камни и ракушки не могли служить той же цели?
+
+**Вирда:** Возможно, потому что камни и ракушки легко повредить?
+
+**Нёвиллет:** А божеств разве нет?
+
+**Паймон:** Наверное, тоже...
+
+- **Путешественник:** Сложный вопрос, на который трудно дать верный ответ.
+
+**Нёвиллет:** Хм. К счастью, у нас достаточно времени, чтобы увидеть, как в будущем мир снова меняется.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Возможно, перемены уже начались.
+
+**Нёвиллет:** Хе-хе... Ты прав. / Хе-хе... Ты права.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Паймон слишком много съела, и ей сейчас не до таких размышлений.
+
+**Нёвиллет:** Ах, прошу прощения. Я увлёкся рассуждениями на сложную тему.
+
+**Нёвиллет:** Считай, что я слишком много об этом думаю. Не обращай внимания.
+
+- **Путешественник:** Ничего страшного, ты обязательно найдёшь ответ.
+
+**Нёвиллет:** Да...
+
+##### Общее продолжение
+
+**Нёвиллет:** Время течёт незаметно, указывая путь заблудшим душам.
+
+**Нёвиллет:** Вместо того чтобы зацикливаться на этом, лучше жить настоящим моментом.
+
+**Нёвиллет:** Думаю, пришло время запланировать следующий отпуск.
+
+**Лаумэ:** Месье Нёвиллет, могу я задать вопрос?
+
+**Нёвиллет:** Конечно, говори.
+
+**Лаумэ:** Я слышала, что в Ли Юэ есть огонь, завёрнутый в бумагу, который может исполнить любое желание! Это правда?
+
+**Вирда:** Огонь, завёрнутый в бумагу? Разве она не загорится? Это же опасно!
+
+**Пука:** Точно. Если твоё желание - сжечь дом дотла, то оно вполне может сбыться.
+
+**Фло:** Пука! У кого ты научилась таким шуткам?
+
+**Пука:** А? Это не шутка!
+
+**Нёвиллет:** Хм... действительно, есть нечто подобное. Их называют небесными фонарями.
+
+**Нёвиллет:** При правильном использовании они безопасны, но на самом деле они не исполняют желания. Прости.
+
+**Гранна:** Ой, а почему вы извиняетесь?
+
+**Нёвиллет:** Хм... Моё описание может показаться вам скучным. Что, если я привезу вам несколько небесных фонарей, когда в следующий раз буду в Ли Юэ?
+
+**Лаумэ:** Потрясающе! Было бы здорово, если бы вы сделали побольше снимков!
+
+**Нёвиллет:** Обязательно.
+
+**(Осмотреть):** Тидалья брошена на обочине дороги. Она мокрая, как будто её только что вытащили из воды.
+
 ## EN
 
 ### A Gift From the Sea Spirits
@@ -586,19 +904,27 @@ By the gentle shores of Fontaine, you and Paimon meet a Melusine who needs your 
 
 #### Take a walk by the water's edge
 
-**Puca:** Hey there, Melusine friend! Need any help?
+#### Talk to the Melusine
+
+**Paimon:** Hey there, Melusine friend! Need any help?
 
 **Puca:** Oh! Traveler, Paimon, it's you! Long time no see!
 
+##### Response branch 1
+
 - **Traveler:** Puca! Nice to see you again too.
 
+##### Response branch 2
+
 - **Traveler:** Looking for pretty rocks again?
+
+##### Shared continuation
 
 **Puca:** Hehe, right in one! You know me too well.
 
 **Puca:** Everyone in Merusea is preparing a surprise gift for Monsieur Neuvillette. We're working together to make him a new outfit! I was about to go find some gems and shells to decorate it with!
 
-Wow, a surprise present!
+- **Traveler:** Wow, a surprise present!
 
 **Paimon:** Wow, a surprise present!
 
@@ -612,11 +938,15 @@ Wow, a surprise present!
 
 **Paimon:** Paimon totally gets it! The mood's just so infectious that you get swept up in the hype and you just can't stop, won't stop, right?
 
+##### Response branch 1
+
 - **Traveler:** It's like forming a band.
 
-- **Traveler:** Like co-conspirators committing a crime together.
-
 **Puca:** Yeah, it is! We may be playing different instruments, but we're playing in harmony, making the same music!
+
+##### Response branch 2
+
+- **Traveler:** Like co-conspirators committing a crime together.
 
 **Paimon:** Definitely not!
 
@@ -627,6 +957,8 @@ Wow, a surprise present!
 **Paimon:** Uh-oh... If you corrupt Puca, we'll never be able to look Neuvillette in the eye again...
 
 **Paimon:** Anyway, enough of the crime talk! Let's get back to the new clothes.
+
+##### Shared continuation
 
 **Paimon:** So, why'd everyone suddenly decide to give him a gift?
 
@@ -644,7 +976,7 @@ Wow, a surprise present!
 
 **Paimon:** Oh wow. About that...
 
-I think Neuvillette would love it.
+- **Traveler:** I think Neuvillette would love it.
 
 **Puca:** Hehe, me too!
 
@@ -654,7 +986,7 @@ I think Neuvillette would love it.
 
 **Paimon:** "Solemn relaxation"... Paimon can't help but picture Neuvillette swimming around with a serious look when she hears that...
 
-Speaking of which, you've still got shells on you, yes?
+- **Traveler:** Speaking of which, you've still got shells on you, yes?
 
 **Paimon:** Huh?
 
@@ -664,7 +996,7 @@ Speaking of which, you've still got shells on you, yes?
 
 **Puca:** I need to find some shiny shells and rocks pronto, and grind them up into shiny powder! I'm not sure if I have enough Tidalga for the dye, either...
 
-In that case, I think it's time for our line...
+- **Traveler:** In that case, I think it's time for our line...
 
 **Paimon:** "Leave it to us!"
 
@@ -680,36 +1012,11 @@ In that case, I think it's time for our line...
 
 **Puca:** I'll focus on finding gems over here! Good luck to us, see you soon!
 
-#### Talk to the Melusine
+#### Find a way to get underwater
+
+#### Collect the shiniest and brightest Beryl Conches
 
 **Puca:** Thanks so much for your help, and stay safe!
-
-
-**Laume:** Monsieur Neuvillette! Can I ask a question?
-
-**Neuvillette:** Of course you may.
-
-**Laume:** I've heard that Liyue has fire wrapped in paper, lights that can grant any wish! Is that true?
-
-**Virda:** Fire wrapped in paper? Wouldn't it break? And isn't that dangerous?
-
-**Puca:** Yeah, that's right! If your wish is to burn the whole house down, then it might come true.
-
-**Flo:** Whoooa, Puca! Where'd you learn to joke like that?
-
-**Puca:** Eh? I wasn't joking...
-
-**Neuvillette:** Well... There is something like that. They're called "Xiao Lanterns."
-
-**Neuvillette:** They aren't dangerous if properly handled, but they do not actually have the power to grant wishes... I'm sorry.
-
-**Granna:** Awww, you don't need to apologize!
-
-**Neuvillette:** Heh... Simply listening to me describe them would be quite dull. How about I bring some back for you once I visit Liyue?
-
-**Laume:** That'd be amazing! And it'd be even better if you can take some more pictures this time!
-
-**Neuvillette:** Consider it done.
 
 #### Check on Puca
 
@@ -717,7 +1024,7 @@ In that case, I think it's time for our line...
 
 **Puca:** *whimper*... I never imagined I'd dig up an Armored Crab digging for gems...
 
-(Armored Crab? Isn't that a vishap?)
+- **Traveler:** (Armored Crab? Isn't that a vishap?)
 
 **Puca:** It's fine, fine, I'm not hurt... Sorry for making you worry...
 
@@ -725,11 +1032,11 @@ In that case, I think it's time for our line...
 
 **Paimon:** Eh!? Vishaps eat giant crabs?
 
-That's what you're focused on?
+- **Traveler:** That's what you're focused on?
 
 **Puca:** Maybe they don't actually like crab that much, it doesn't look too thrilled...
 
-That's what you're focused on?
+- **Traveler:** That's what you're focused on?
 
 **Paimon:** Oh right! We should be focusing on... why is there a vishap here?
 
@@ -739,13 +1046,13 @@ That's what you're focused on?
 
 **Puca:** Whew... Seems I'm pretty lucky, running into such a cute vishap like this!
 
-(Cute... vishap? ...Wait...)
+- **Traveler:** (Cute... vishap? ...Wait...)
 
 **Paimon:** Then be sure to give it a proper thank you the next time you run into it, okay?
 
 **Puca:** Yeah, for sure! And I'll treat it to something tasty too! Only thing is that I'm not sure what it likes... Definitely not giant crabs, though!
 
-Tidalga.
+- **Traveler:** Tidalga.
 
 **Puca:** Tidalga? Wouldn't have thought such a big vishap would like something...
 
@@ -755,27 +1062,33 @@ Tidalga.
 
 **Puca:** Nope! Haven't even had a chance to dive in yet... Did some kind soul overhear us and leave it here?
 
-Perhaps some nice fairy.
+- **Traveler:** Perhaps some nice fairy.
 
 **Puca:** Looks like I really am super lucky today! Can't believe that fashion magazine horoscope was actually accurate...
 
 **Puca:** Then may the stars watch over us, that our gift may arrive safe and sound!
 
-It will, certainly.
+- **Traveler:** It will, certainly.
 
 **Paimon:** Oh yeah, here! These are the Beryl Conches we gathered. Are these enough?
 
 **Puca:** Plenty! Whoooa, so sparkly, I can barely open my eyes...
 
-- **Traveler:** Laying it on a bit thick, aren't we?
+##### Response branch 1
 
-- **Traveler:** Had to wear shades the whole time I was looking.
+- **Traveler:** Laying it on a bit thick, aren't we?
 
 **Puca:** Hehe, that's just how I like to express how grateful I am!
 
+##### Response branch 2
+
+- **Traveler:** Had to wear shades the whole time I was looking.
+
 **Puca:** Really? Then I'm buying a pair too, should help with gem-hunting...
 
-**Paimon:** Don't buy his / her nonsense! Not a word of it's true!
+**Paimon:** Don't buy his nonsense! Not a word of it's true! / Don't buy her nonsense! Not a word of it's true!
+
+##### Shared continuation
 
 **Puca:** Well then, with my gems, your Beryl Conches, and the nice fairy's Tidalga, my mission here is complete!
 
@@ -783,11 +1096,13 @@ It will, certainly.
 
 **Puca:** Hey, when we deliver the clothes to the Palais Mermonia, will you two come see what we made?
 
-Of course.
+- **Traveler:** Of course.
 
 **Puca:** Hehe, let's meet up at the Palais Mermonia then! A whole bunch of us Melusines will be there!
 
 **Paimon:** Sounds great! We'll be looking forward to hearing from you!
+
+#### Wait until two days later (14:00 – 16:00)
 
 #### Go to the Palais Mermonia
 
@@ -853,7 +1168,7 @@ Of course.
 
 **Roialte:** Interview? I never saw any such thing on the schedule. Which newspaper?
 
-**Iaune:** The "Buoyant Otter Gazette."
+**Iaune & Laume:** The "Buoyant Otter Gazette."
 
 **Roialte:** Ah? Really? Yet what you're holding certainly doesn't look like an otter.
 
@@ -889,25 +1204,37 @@ Of course.
 
 **Paimon:** Um, err, can you say something? Paimon's getting scared...
 
-Sorry. I'm naturally the silent type.
+- **Traveler:** Sorry. I'm naturally the silent type.
 
 **Paimon:** Please don't make Paimon beg! Stop rubbernecking!
 
+##### Response branch 1
+
 - **Traveler:** It feels like I'm watching a play unfold in real time.
 
+##### Response branch 2
+
 - **Traveler:** Sorry, lost myself for a second.
+
+##### Shared continuation
 
 **Paimon:** It's not that Paimon can't sympathize, but it looks like Roialte's really about to call the Gardes...
 
 **Paimon:** And if he really calls Neuvillette over, then the surprise they worked so hard to prepare will be for nothing, and things'll get waaay more awkward...
 
+##### Response branch 1
+
 - **Traveler:** Fine, you've convinced me.
+
+##### Response branch 2
 
 - **Traveler:** Let's do this!
 
+##### Shared continuation
+
 **Paimon:** What do you mean "this"? Do what exactly!?
 
-Heya, Puca, everyone, so great to see you all here!
+- **Traveler:** Heya, Puca, everyone, so great to see you all here!
 
 **Puca:** Traveler, Paimon!
 
@@ -917,11 +1244,17 @@ Heya, Puca, everyone, so great to see you all here!
 
 **Roialte:** Pardon me, but are you with them?
 
+##### Response branch 1
+
 - **Traveler:** We are. We agreed to visit Neuvillette together.
+
+##### Response branch 2
 
 - **Traveler:** We are. We agreed to visit a certain blue creature together.
 
 **Roialte:** Hahaha... So, you were listening.
+
+##### Shared continuation
 
 **Roialte:** Everything should be in order, then. Monsieur Neuvillette is currently in his office, and should not be receiving any other guests at this time. You may proceed.
 
@@ -931,7 +1264,7 @@ Heya, Puca, everyone, so great to see you all here!
 
 **Roialte:** Would you look at that? Mr. Iaune keeps his nose so firmly to the grindstone that he seldom has a chance to look up and register all the Palais Mermonia's esteemed visitors...
 
-It's fine, we're the ones imposing...
+- **Traveler:** It's fine, we're the ones imposing...
 
 **Roialte:** You're too gracious. We shan't delay you or your Melusine friends any longer, save for one minor thing...
 
@@ -959,23 +1292,29 @@ It's fine, we're the ones imposing...
 
 **Iaune:** Traveler! Feels like ages since I last saw you. How've you been?
 
-All's well, things've been going great.
+- **Traveler:** All's well, things've been going great.
 
 **Iaune:** Haa, that's great to hear! As you can see, this place hasn't changed a bit...
 
 **Roialte:** Heh.... Pardon me, but are you with the Melusines?
 
+##### Response branch 1
+
 - **Traveler:** We are. We agreed to visit Neuvillette together.
+
+##### Response branch 2
 
 - **Traveler:** We are. We agreed to visit a certain blue creature together.
 
 **Roialte:** Hahaha, so you heard everything. Merely a slip of the tongue, I assure you. You wouldn't dream of telling anyone, yes?
 
+##### Shared continuation
+
 **Roialte:** Point is... Wonderful! The problem has suddenly solved itself.
 
 **Roialte:** Monsieur Neuvillette is currently in his office, and should not be receiving any other guests at this time. You may proceed.
 
-Sorry to impose...
+- **Traveler:** Sorry to impose...
 
 **Roialte:** You're too gracious. We shan't delay you or your Melusine friends any longer, save for one minor thing...
 
@@ -995,16 +1334,33 @@ Sorry to impose...
 
 **Roialte:** Please, take care, everyone.
 
+**Iaune & Laume:** The "Buoyant Otter Gazette."
 
-**Puca:** Okay then, please lead the way to Monsieur Neuvillette's office!
+##### Response branch 1
 
-- **Traveler:** Follow me, and stay close to the group, no wandering, thank you...
+##### Response branch 2
 
-- **Traveler:** Just a moment.
+##### Shared continuation
 
-**Puca:** Sure, we'll wait!
+##### Response branch 1
 
-#### Take the Melusines to see Neuvillette
+##### Response branch 2
+
+##### Shared continuation
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+#### Talk to Puca and take the Melusines to see Neuvillette
 
 **Roialte:** Communicating with Melusines always requires a bit more effort. The usual methods simply aren't very effective...
 
@@ -1018,6 +1374,20 @@ Sorry to impose...
 
 **Roialte:** You just listed every reason they'd make disastrous Gestionnaires.
 
+**Puca:** Okay then, please lead the way to Monsieur Neuvillette's office!
+
+##### Response branch 1
+
+- **Traveler:** Follow me, and stay close to the group, no wandering, thank you...
+
+##### Response branch 2
+
+- **Traveler:** Just a moment.
+
+**Puca:** Sure, we'll wait!
+
+#### Take the Melusines to see Neuvillette
+
 **Neuvillette:** Ah, I thought it might be you.
 
 **Neuvillette:** I had heard Melusine voices, and went to the window for a look... Only to find the angle was wrong, and I couldn't see a thing.
@@ -1026,7 +1396,7 @@ Sorry to impose...
 
 **Paimon:** No, not at all! Uh, well, not exactly...
 
-*You briefly fill Neuvillette in on what happened...*
+You briefly fill Neuvillette in on what happened...
 
 **Neuvillette:** I see...
 
@@ -1036,7 +1406,7 @@ Sorry to impose...
 
 **Laume:** I see... I'm sorry...
 
-And the "Buoyant Otter Gazette" desperately needs rebranding.
+- **Traveler:** And the "Buoyant Otter Gazette" desperately needs rebranding.
 
 **Neuvillette:** The what Gazette?
 
@@ -1068,15 +1438,125 @@ And the "Buoyant Otter Gazette" desperately needs rebranding.
 
 **Paimon:** Uh, uhm... That's, um...
 
+##### Response branch 1
+
 - **Traveler:** You've come this far.
 
+##### Response branch 2
+
 - **Traveler:** Just give it to him!
+
+##### Shared continuation
 
 **Puca:** Yeah, you're right...
 
 The Melusines practically fall over themselves as they cheerfully clamor to explain the "surprise gift" and how it all came about...
 
 Yet for reasons unknown, both givers and recipient remained a touch awkward.
+
+**Neuvillette:** My thanks. You must have gone through quite a bit of trouble to make this.
+
+**Neuvillette:** (Was that too curt? Might it seem cold? Is just a smile enough?)
+
+**Neuvillette:** (They clearly invested great effort into this surprise for me, and I am truly delighted. My reaction ought to match that level of happiness...)
+
+**Neuvillette:** (How would human parents express their joy when they receive a gift their children painstakingly prepared?)
+
+**Neuvillette:** (*sigh* If only Sigewinne were here. She understands many techniques for human interaction, and would understand this matter far better...)
+
+**Flo:** It was no trouble at all, really...
+
+**Laume:** Yeah, that's right! With everyone pitching in, we finished in no time flat!
+
+**Puca:** Mhm! Traveler and Paimon helped too, you know!
+
+- **Traveler:** It was a breeze. When it comes to finding stuff, there's none better.
+
+**Neuvillette:** (Perhaps I should consider this from another perspective...)
+
+**Neuvillette:** (Seeing others use gifts I've given them gives me a feeling of contentment. Thus, it can be inferred that the reverse is also true.)
+
+**Neuvillette:** Might I ask you all to wait for a moment? I'd like to try it on.
+
+**Granna:** Of course you can!
+
+**Paimon:** Oh! Oh! Is it happening? Even Traveler and Paimon haven't seen the finished product yet! Finally, we get to witness Melusine handiwork!
+
+**Neuvillette:** *cough* ...Well?
+
+- **Traveler:** It's a perfect fit.
+
+**Neuvillette:** Splendid. Both the Melusines and I are delighted to hear that.
+
+**Paimon:** Oh, it looks gorgeous! Plus, now Paimon gets what "solemn relaxation" is.
+
+**Neuvillette:** Ah... Indeed, it is aptly suited for non-official occasions.
+
+**Neuvillette:** Moreover, if I'm not mistaken, this outfit seems to have a certain... exotic feel?
+
+**Laume:** Keen eye! That's our Monsieur Neuvillette!
+
+**Flo:** We heard Sigewinne mention you'd gone to Chenyu Vale in Liyue, and really enjoyed yourself there!
+
+**Flo:** So, we thought that if we could make an outfit that matches their local styles, you could wear it on future vacations there!
+
+**Neuvillette:** That was very thoughtful of you.
+
+**Neuvillette:** (They really went out of their way for me... To do their gift justice, I must find time to return there, and bring back some more gifts.)
+
+**Neuvillette:** (But what should I buy...? I suppose I shall decide once I get there. I can ask the locals for recommendations.)
+
+**Laume:** It was mostly Flo! After all, she made the design and tailored it all by herself!
+
+**Virda:** Yeah! Flo's gonna be a super-duper amazing fashion designer one day! She'll be famous all over Fontaine!
+
+**Flo:** Hey, that's going a bit overboard, it's not like it was all me. For example, if Puca hadn't risked her neck to get the ingredients for the dyes...
+
+**Puca:** Aahh!
+
+**Puca:** Um, we can skip that part, Monsieur Neuvillette might worry...
+
+**Neuvillette:** What happened?
+
+**Puca:** It's really nothing, hehe...
+
+**Puca:** ...Ah, okay, fine, here goes...
+
+She tells the story of how you collected gems and shells, including the Tidalga that appeared by the path.
+
+**Neuvillette:** (A vishap that likes Tidalga... I see...)
+
+**Neuvillette:** I understand.
+
+**Neuvillette:** You are truly fortunate Traveler was there to help.
+
+**Neuvillette:** But next time you go out, it might be safer not to go alone.
+
+**Puca:** Okay, I understand!
+
+**Neuvillette:** Also, listening to your story, it seems you were aided by a vishap?
+
+**Puca:** Yeah! I'd love to see it again, give it a big thank you... Hey, you guys think that maybe it was the one who left the Tidalga?
+
+**Neuvillette:** ...
+
+**Neuvillette:** (I am a bit concerned about her well-being lately. As I don't have any pressing duties, perhaps...)
+
+**Puca:** Uh-oh! We've stayed too long, haven't we?
+
+**Flo:** We really should get going while it's still early!
+
+**Neuvillette:** Excellent. In that case, allow me to accompany you.
+
+**Virda:** Huh!? Really!? Ooh, if we go now, we can make it back in time to treat you and Traveler to dinner!
+
+**Laume:** Alright! Blubber Profiterole! Poisson Seafood Soup! Poissonchant Pie!
+
+- **Traveler:** Poissonchant Pie!
+
+**Paimon:** Gone and joined the Melusines, have you?
+
+**Neuvillette:** Haha... And why not? Come, let's go together.
 
 #### Send the Melusines back
 
@@ -1094,13 +1574,19 @@ Yet for reasons unknown, both givers and recipient remained a touch awkward.
 
 **Neuvillette:** "Pahsiv"? This is how you address her, then?
 
-- **Traveler:** Wait, does this mean the legendary "new valet" is none other than...
+##### Response branch 1
 
-- **Traveler:** We'll have to tell Cyno first chance we get.
+- **Traveler:** Wait, does this mean the legendary "new valet" is none other than...
 
 **Paimon:** That's what she meant!? Oh... And to think that it used to keep Paimon up at night, tossing and turning... Even lost sleep over it...
 
+##### Response branch 2
+
+- **Traveler:** We'll have to tell Cyno first chance we get.
+
 **Paimon:** Good call, he'll think of it as a challenge...
+
+##### Shared continuation
 
 **Puca:** Hello...?
 
@@ -1136,6 +1622,154 @@ Everyone works hard to prepare the delicious meal before enjoying it together.
 
 And though Pahsiv basically ate nothing but tidalga (and polished off every last bite), her delight was plain for all to see.
 
+**Pahsiv:** Tidalga, much... Pahsiv, sleepy...
+
+**Paimon:** Eh? What?
+
+**Pahsiv:** Pahsiv, water. Go back, sleepy.
+
+**Neuvillette:** She must have had too much tidalga, and wishes to return to the water to sleep.
+
+##### Response branch 1
+
+- **Traveler:** Huh, so vishaps can get food comas too.
+
+##### Response branch 2
+
+- **Traveler:** Just like Paimon.
+
+##### Shared continuation
+
+**Paimon:** Hey, like you're any different!
+
+**Pahsiv:** Pahsiv, leave.
+
+**Puca:** Wait! Hold on a second!
+
+**Pahsiv:** ?
+
+**Puca:** (I don't know where she lives, or when we'll see each other again...)
+
+**Puca:** (If only I could give her something to remember me by... Oh! I know!)
+
+**Puca:** Here! For you!
+
+**Pahsiv:** Ah...
+
+**Pahsiv:** New Valet, Pahsiv! New Valet, good thing!
+
+**Paimon:** Amazing, she recognized it right away...
+
+- **Traveler:** New Valet, good thing!
+
+**Neuvillette:** Uh... That... That is most certainly a very good thing.... The board, I mean.
+
+**Pahsiv:** Melusine, Pahsiv! Melusine, bye!
+
+**Pahsiv:** New Valet, bye! Paimon, bye! Traveler, bye!
+
+Pahsiv turns back into a vishap, and leaves with the board clenched firmly in her mouth...
+
+**Paimon:** Still the same old Pahsiv, huh? Gone in a flash...
+
+**Paimon:** At least she gave us a proper goodbye this time.
+
+**Pahsiv:** Melusine, Pahsiv! Melusine, good thing!
+
+**Pahsiv:** New Valet, good thing! Paimon, good thing! Traveler, good thing!
+
+Pahsiv turns back into a vishap, and leaves with the board clenched firmly in her mouth...
+
+**Paimon:** Still the same old Pahsiv, huh? Gone in a flash...
+
+- **Traveler:** Pahsiv, disappeared.
+
+**Neuvillette:** No need to worry. She already considers Fontaine her new home. We'll see her again.
+
+**Neuvillette:** Learning to share is part of the process of joining the group. It would seem I'm not the only one she's learned a lot from.
+
+- **Traveler:** All people need to learn from one another.
+
+**Neuvillette:** A most astute observation. I too have learned much from humanity.
+
+**Neuvillette:** And now that I think about it, this learning process actually began a long, long time ago...
+
+**Granna:** Monsieur Neuvillette... are you thinking about the past?
+
+**Neuvillette:** Yes.
+
+**Neuvillette:** It was after I was born, but before I had joined the Court of Fontaine.
+
+**Neuvillette:** Though I do not know why I was born with human form, this fact forced me to learn about the way humans live.
+
+**Neuvillette:** At that time, I was constantly perplexed by all kinds of questions, such as how human language could record history, how they produced things and traded...
+
+**Neuvillette:** Mm... And why they insisted on using the flesh and blood of a god as a medium of exchange. Could not pebbles and seashells serve the same purpose?
+
+**Virda:** Maybe because rocks and shells break easily?
+
+**Neuvillette:** And gods do not?
+
+**Paimon:** They... probably do...
+
+- **Traveler:** A question worth considering, with no conclusive answer.
+
+**Neuvillette:** Indeed. Fortunately, we have ample time. Perhaps in the future, we'll witness the world transform once more.
+
+##### Response branch 1
+
+- **Traveler:** Perhaps that change is already underway.
+
+**Neuvillette:** Heh... Very true.
+
+##### Response branch 2
+
+- **Traveler:** I'm way too stuffed to be thinking about stuff like this.
+
+**Neuvillette:** Ah, my apologies. I may have been needlessly confusing.
+
+**Neuvillette:** Consider it nothing more than me overthinking things. No need to take it to heart.
+
+- **Traveler:** It's fine. The answers will eventually come.
+
+**Neuvillette:** Indeed...
+
+##### Shared continuation
+
+**Neuvillette:** Time flows where our gaze does not linger, showing the way to those who are lost.
+
+**Neuvillette:** Rather than dwelling on such things, it is far better to live in the now.
+
+**Neuvillette:** On that note, I believe it is high time I began planning my next vacation.
+
+**Laume:** Monsieur Neuvillette! Can I ask a question?
+
+**Neuvillette:** Of course you may.
+
+**Laume:** I've heard that Liyue has fire wrapped in paper, lights that can grant any wish! Is that true?
+
+**Virda:** Fire wrapped in paper? Wouldn't it break? And isn't that dangerous?
+
+**Puca:** Yeah, that's right! If your wish is to burn the whole house down, then it might come true.
+
+**Flo:** Whoooa, Puca! Where'd you learn to joke like that?
+
+**Puca:** Eh? I wasn't joking...
+
+**Neuvillette:** Well... There is something like that. They're called "Xiao Lanterns."
+
+**Neuvillette:** They aren't dangerous if properly handled, but they do not actually have the power to grant wishes... I'm sorry.
+
+**Granna:** Awww, you don't need to apologize!
+
+**Neuvillette:** Heh... Simply listening to me describe them would be quite dull. How about I bring some back for you once I visit Liyue?
+
+**Laume:** That'd be amazing! And it'd be even better if you can take some more pictures this time!
+
+**Neuvillette:** Consider it done.
+
+**(Observe):** Tidalga left by the roadside. It's soaking wet, as though it had just been taken out of the water.
+
 ## ZH
 
 ### 海精灵们的礼物
@@ -1144,19 +1778,27 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 #### 到水畔散步
 
-**芙佳:** 你好呀，亲爱的美露莘小姐，需要帮助吗？
+#### 与美露莘对话
+
+**派蒙:** 你好呀，亲爱的美露莘小姐，需要帮助吗？
 
 **芙佳:** 啊，是旅行者和派蒙！好久不见，你们好！
 
+##### 对话分支 1
+
 - **旅行者:** 原来是芙佳，你也好。
 
+##### 对话分支 2
+
 - **旅行者:** 又在找漂亮石头吗？
+
+##### 共同后续
 
 **芙佳:** 嘿嘿，真了解我，让你猜对啦。
 
 **芙佳:** 海沫村的伙伴们正在为那维莱特大人准备惊喜礼物，是大家一起缝制的新衣服哦！我正要去找些用来装饰的宝石和贝壳呢。
 
-哇，是惊喜礼物！
+- **旅行者:** 哇，是惊喜礼物！
 
 **派蒙:** 哇，是惊喜礼物！
 
@@ -1170,11 +1812,15 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **派蒙:** 我懂我懂，被氛围感染，感觉自己有使不完的干劲，对吧？
 
+##### 对话分支 1
+
 - **旅行者:** 就像一起组乐队。
 
-- **旅行者:** 就像一起犯罪。
-
 **芙佳:** 确实有些像呢！大家虽然用着不同的乐器，却和谐地演奏出了同一首歌。
+
+##### 对话分支 2
+
+- **旅行者:** 就像一起犯罪。
 
 **派蒙:** 不对吧！
 
@@ -1185,6 +1831,8 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 **派蒙:** 糟糕，芙佳要被你带坏了，这下怎么和那维莱特交代…
 
 **派蒙:** 总之先停止集体犯罪的话题，说回新衣服的事情吧。
+
+##### 共同后续
 
 **派蒙:** 说起来，怎么突然想要给那维莱特送礼物呀？
 
@@ -1202,7 +1850,7 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **派蒙:** 哇，这个嘛…
 
-我觉得那维莱特会喜欢的。
+- **旅行者:** 我觉得那维莱特会喜欢的。
 
 **芙佳:** 嘿嘿，我也这么认为！
 
@@ -1212,7 +1860,7 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **派蒙:** 「严肃地放松」…不知为何脑子里出现了那维莱特板着脸在海里游泳的样子…
 
-是不是还拿着贝壳？
+- **旅行者:** 是不是还拿着贝壳？
 
 **派蒙:** 啊？
 
@@ -1222,7 +1870,7 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **芙佳:** 我要赶快去找些亮闪闪的贝壳和石头磨成闪粉，用来染色的汐藻也不知道还够不够…
 
-既然如此，那我要说出那句话了…
+- **旅行者:** 既然如此，那我要说出那句话了…
 
 **派蒙:** 「交给我们吧！」
 
@@ -1238,36 +1886,11 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **芙佳:** 那我就专心在这里找宝石，祝我们好运，等会儿见！
 
-#### 与美露莘对话
+#### 寻找潜入水下的方法
+
+#### 采集最亮最闪的苍晶螺
 
 **芙佳:** 多谢你们帮忙！要注意安全哦！
-
-
-**洛梅:** 那维莱特大人，可以问您一个问题吗？
-
-**那维莱特:** 当然，请讲。
-
-**洛梅:** 听说璃月有纸里包火，可以实现一切愿望的灯。是真的吗？
-
-**薇尔妲:** 纸里包火？不会坏掉吗？岂不是很危险？
-
-**芙佳:** 对哦。如果你的愿望是烧掉整个家，那应该能实现吧。
-
-**芙洛:** 天哪芙佳，你这玩笑是从谁那里学来的？
-
-**芙佳:** 欸？不是玩笑哦？
-
-**那维莱特:** 这个…的确有类似的东西，叫做「霄灯」。
-
-**那维莱特:** 使用得当的话是不会有危险的，只是并不能真的实现愿望…抱歉。
-
-**嘉莱娜:** 哎呀，那维莱特大人为什么要道歉啦。
-
-**那维莱特:** 呵…仅听我描述大概会很无趣。这样如何，等我有空去璃月，给你们带一些回来。
-
-**洛梅:** 好耶！要是能多拍点画片回来，就更好了！
-
-**那维莱特:** 嗯，一定。
 
 #### 查看芙佳的情况
 
@@ -1275,7 +1898,7 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **芙佳:** 呜…没想到挖宝石还挖到了重甲蟹…
 
-（重甲蟹？不是龙蜥吗？）
+- **旅行者:** （重甲蟹？不是龙蜥吗？）
 
 **芙佳:** 没关系，没关系，我没有受伤…抱歉，让你们担心了…
 
@@ -1283,11 +1906,11 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **派蒙:** 欸？！原来龙蜥会吃大螃蟹吗？
 
-重点是这个？
+- **旅行者:** 重点是这个？
 
 **芙佳:** 可能并不喜欢吃吧，我看龙蜥的表情不是很开心…
 
-重点是这个？
+- **旅行者:** 重点是这个？
 
 **派蒙:** 对哦，重点应该是…呃，这里为什么会有龙蜥？
 
@@ -1297,13 +1920,13 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **芙佳:** 呼…看来我运气不错，遇到了可爱的龙蜥呢。
 
-（可爱的…龙蜥？…难道…）
+- **旅行者:** （可爱的…龙蜥？…难道…）
 
 **派蒙:** 那下次再见到它的话，要好好跟它道谢哦。
 
 **芙佳:** 嗯，一定会的，还会请它吃好吃的！就是不知道它喜欢吃什么，首先排除大螃蟹…
 
-汐藻。
+- **旅行者:** 汐藻。
 
 **芙佳:** 汐藻吗？没想到那么大只的龙蜥喜欢吃这种…
 
@@ -1313,27 +1936,33 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **芙佳:** 不，我还没来得及下水呢…难道是哪位好心人听到了我们刚才的谈话留下的吗？
 
-没准是好心的精灵。
+- **旅行者:** 没准是好心的精灵。
 
 **芙佳:** 看来今天运气真的很好，时尚杂志上的运势占卜专栏竟然没有骗人…
 
 **芙佳:** 那星辰保佑，让我们的礼物能顺利送到吧！
 
-一定会的。
+- **旅行者:** 一定会的。
 
 **派蒙:** 对了，给！这些是我们收集的苍晶螺，怎么样，够用吗？
 
 **芙佳:** 够了够了，哇好闪，芙佳要睁不开眼睛了…
 
-- **旅行者:** 夸张了。
+##### 对话分支 1
 
-- **旅行者:** 我是戴着墨镜找的。
+- **旅行者:** 夸张了。
 
 **芙佳:** 嘿嘿，是我表达感谢的独特方式啦。
 
+##### 对话分支 2
+
+- **旅行者:** 我是戴着墨镜找的。
+
 **芙佳:** 原来如此，那我也要买一副，用来找石头用…
 
-**派蒙:** 别听他 / 她胡说，没有这回事啦。
+**派蒙:** 别听他胡说，没有这回事啦。 / 别听她胡说，没有这回事啦。
+
+##### 共同后续
 
 **芙佳:** 那么，我的宝石，你们的苍晶螺，还有好心精灵送的汐藻都到手了，任务圆满完成！
 
@@ -1341,11 +1970,13 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **芙佳:** 旅行者，派蒙，到时候我们会把礼物送去沫芒宫，你们愿意一起来看看成品吗？
 
-当然。
+- **旅行者:** 当然。
 
 **芙佳:** 嘿嘿，那我们不如相约在沫芒宫见吧？一定会有很多美露莘想一起来的。
 
 **派蒙:** 好呀，期待你们的好消息！
+
+#### 等待至两天后（14-16点）
 
 #### 前往沫芒宫
 
@@ -1411,7 +2042,7 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **洛耶茨:** 采访？我没听说有这个日程。哪家报纸的？
 
-**艾尤恩:** 《漂浮海獭报》。
+**艾尤恩&洛梅:** 《漂浮海獭报》。
 
 **洛耶茨:** 啊…真的吗？你们拿着的标志可不像是海獭啊。
 
@@ -1447,25 +2078,37 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **派蒙:** 那个，旅行者…你能不能说句话，我有点害怕…
 
-抱歉，我天生不爱说话。
+- **旅行者:** 抱歉，我天生不爱说话。
 
 **派蒙:** 那算我求你，快别看热闹了！
 
+##### 对话分支 1
+
 - **旅行者:** 好像在看实景话剧。
 
+##### 对话分支 2
+
 - **旅行者:** 一不留神看入了迷。
+
+##### 共同后续
 
 **派蒙:** 不是不能理解你的感受，但洛耶茨先生好像真的要去叫警卫了…
 
 **派蒙:** 等下他如果真把那维莱特叫出来，美露莘们精心准备的惊喜就要泡汤了，场面一定会更加局促…
 
+##### 对话分支 1
+
 - **旅行者:** 你说服我了。
+
+##### 对话分支 2
 
 - **旅行者:** 我们上。
 
+##### 共同后续
+
 **派蒙:** 上？怎么上？上哪去？
 
-芙佳，以及亲爱的朋友们，你们好哇！
+- **旅行者:** 芙佳，以及亲爱的朋友们，你们好哇！
 
 **芙佳:** 旅行者，派蒙！
 
@@ -1475,11 +2118,17 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **洛耶茨:** 请问几位是一起的吗？
 
+##### 对话分支 1
+
 - **旅行者:** 是的，我们约好了一起拜访那维莱特。
+
+##### 对话分支 2
 
 - **旅行者:** 是的，我们约好了一起拜访蓝色生物。
 
 **洛耶茨:** 哈哈哈…原来您听到了啊。
+
+##### 共同后续
 
 **洛耶茨:** 那就稳妥了。那维莱特大人正在办公室内，似乎也没有其他访客。您请进吧。
 
@@ -1489,7 +2138,7 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **洛耶茨:** 您瞧，艾尤恩先生总是在埋头苦干，导致对到访过沫芒宫的客人印象不深…
 
-没关系，是我这边冒昧打扰…
+- **旅行者:** 没关系，是我这边冒昧打扰…
 
 **洛耶茨:** 您真是客气。我们就不耽误您和美露莘朋友们的时间了，只是有一点…
 
@@ -1517,23 +2166,29 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **艾尤恩:** 旅行者！有一阵没见了，最近可好？
 
-一切顺利，井井有条。
+- **旅行者:** 一切顺利，井井有条。
 
 **艾尤恩:** 哈哈，真好啊。如您所见，这里也还是老样子…
 
 **洛耶茨:** 呵呵，请问您和美露莘们是一起的吗？
 
+##### 对话分支 1
+
 - **旅行者:** 是的，我们约好了一起拜访那维莱特。
+
+##### 对话分支 2
 
 - **旅行者:** 是的，我们约好了一起拜访蓝色生物。
 
 **洛耶茨:** 哈哈哈…原来您听到了啊。只是口误，您可得替我俩保密啊。
 
+##### 共同后续
+
 **洛耶茨:** 总之…很好！问题突然解决了。
 
 **洛耶茨:** 那维莱特大人正在办公室内，似乎也没有其他访客。您请进吧。
 
-打扰了…
+- **旅行者:** 打扰了…
 
 **洛耶茨:** 您真是客气。我们就不耽误您和美露莘朋友们的时间了，只是有一点…
 
@@ -1553,16 +2208,33 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **洛耶茨:** 各位慢走啊，慢走。
 
+**艾尤恩&洛梅:** 《漂浮海獭报》。
 
-**芙佳:** 那就麻烦你带我们去那维莱特大人的办公室啦。
+##### 对话分支 1
 
-- **旅行者:** 跟我走跟我走…
+##### 对话分支 2
 
-- **旅行者:** 稍等一下哦。
+##### 共同后续
 
-**芙佳:** 没问题，等你哦！
+##### 对话分支 1
 
-#### 带美露莘们去见那维莱特
+##### 对话分支 2
+
+##### 共同后续
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+#### 与芙佳对话，带美露莘们去见那维莱特
 
 **洛耶茨:** 和美露莘们交流总是会更累一些，用平常的办法不起效呢…
 
@@ -1576,6 +2248,20 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **洛耶茨:** 你刚刚已经把她们不适合做复律官的原因全讲出来了。
 
+**芙佳:** 那就麻烦你带我们去那维莱特大人的办公室啦。
+
+##### 对话分支 1
+
+- **旅行者:** 跟我走跟我走…
+
+##### 对话分支 2
+
+- **旅行者:** 稍等一下哦。
+
+**芙佳:** 没问题，等你哦！
+
+#### 带美露莘们去见那维莱特
+
 **那维莱特:** 果然是你们…
 
 **那维莱特:** 我刚刚听到有美露莘说话的声音，就靠近窗口看了看…结果角度不对，什么也看不到。
@@ -1584,7 +2270,7 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **派蒙:** 没有没有！呃，算是没有吧…
 
-*和那维莱特简单说明了事情经过…*
+和那维莱特简单说明了事情经过…
 
 **那维莱特:** 原来如此…
 
@@ -1594,7 +2280,7 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **洛梅:** 抱歉，我明白了…
 
-《漂浮海獭报》急需改进。
+- **旅行者:** 《漂浮海獭报》急需改进。
 
 **那维莱特:** 什么报？
 
@@ -1626,15 +2312,125 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **派蒙:** 呃，啊…这个…
 
+##### 对话分支 1
+
 - **旅行者:** 事已至此。
 
+##### 对话分支 2
+
 - **旅行者:** 干脆给个痛快吧！
+
+##### 共同后续
 
 **芙佳:** 嗯，旅行者说得对…
 
 美露莘们你一嘴我一嘴地说明了「惊喜礼物」及其由来…
 
 只是不知为何，送礼的和收礼的都略显局促。
+
+**那维莱特:** 谢谢。真是辛苦你们了。
+
+**那维莱特:** （这样说会不会有些冷淡？只是微笑可以吗？）
+
+**那维莱特:** （她们明显费了很大功夫给我准备惊喜，我非常开心，应当做出与之相配的反应才对…）
+
+**那维莱特:** （人类的父母在收到孩子费心准备的礼物时都是怎么表达喜悦的呢？）
+
+**那维莱特:** （唉，要是希格雯在就好了。她了解很多和人类交流的技巧，应该更懂这些吧…）
+
+**芙洛:** 不辛苦不辛苦…
+
+**洛梅:** 是啊是啊，大家一起出力，很快就做好了。
+
+**芙佳:** 嗯，旅行者和派蒙也有帮忙哦！
+
+- **旅行者:** 举手之劳，我们最会找东西了。
+
+**那维莱特:** （如果换个角度思考呢？）
+
+**那维莱特:** （我看到其他人使用我送的礼物会感到欣慰，那反过来应该也一样吧。）
+
+**那维莱特:** 各位，可否稍等片刻？我想试穿一下。
+
+**嘉莱娜:** 当然可以！
+
+**派蒙:** 哦哦要来了吗！话说我和旅行者都还没见过成品呢，终于可以见识下美露莘的手艺啦！
+
+**那维莱特:** 咳咳…如何？
+
+- **旅行者:** 非常合适。
+
+**那维莱特:** 那太好了。能得到你的夸奖，美露莘和我都很高兴。
+
+**派蒙:** 很漂亮！而且，多少能理解什么叫「严肃地放松」了。
+
+**那维莱特:** 啊…的确，是很适合非工作场合的穿着。
+
+**那维莱特:** 而且，如果我没认错的话，这套服装似乎有一些…异国风情？
+
+**洛梅:** 不愧是那维莱特大人，慧眼识金！
+
+**芙洛:** 听希格雯说那维莱特大人去过璃月的沉玉谷，还在那边玩得很开心。
+
+**芙洛:** 我们就想，如果能做一套适合出现在那边的服装，那维莱特大人就能经常穿去休假了。
+
+**那维莱特:** 让你们费心了。
+
+**那维莱特:** （为了不辜负她们的心意，找个时间去那边一趟，再买些礼物回来吧。）
+
+**那维莱特:** （不过要买些什么呢…去了再说吧，可以听听当地人的推荐。）
+
+**洛梅:** 主要还是芙洛姐姐的功劳啦，毕竟设计、剪裁都是她一手操办的。
+
+**薇尔妲:** 是啊，芙洛姐姐一定会成为超级厉害的服装设计师，享誉枫丹！
+
+**芙洛:** 你们太夸张了，又不是我一个的功劳。如果没有芙佳冒着危险去采集染色原料…
+
+**芙佳:** 呀！
+
+**芙佳:** 这个就别提啦，那维莱特大人听了一定会担心的…
+
+**那维莱特:** 怎么回事？
+
+**芙佳:** 没什么大事啦，嘿嘿…
+
+**芙佳:** 好吧，是这样的…
+
+讲述了采集宝石贝壳，以及路边出现汐藻的事情。
+
+**那维莱特:** （喜欢汐藻的龙蜥…嗯…）
+
+**那维莱特:** 我明白了。
+
+**那维莱特:** 真是万幸，多谢旅行者相助。
+
+**那维莱特:** 不过下次要去野外，你们还是结伴行动比较安全。
+
+**芙佳:** 嗯，明白啦。
+
+**那维莱特:** 而且，听你们刚刚的描述，似乎得到了一位龙蜥的帮助？
+
+**芙佳:** 是啊，好想再见它一面，好好道谢…你们说，会不会连那些汐藻也是它留下来的呢？
+
+**那维莱特:** ……
+
+**那维莱特:** （有些在意她最近过得怎么样。当下没有紧急工作，不如…）
+
+**芙佳:** 糟糕，我们是不是逗留太久了？
+
+**芙洛:** 趁着天色还早，的确该回家啦。
+
+**那维莱特:** 那正好，我送你们回去吧。
+
+**薇尔妲:** 欸？可以吗！现在回去，正好可以请那维莱特大人和旅行者吃晚饭呢！
+
+**洛梅:** 好耶！蓬蓬泡芙！白淞鲜汤！鱼鱼咏唱派！
+
+- **旅行者:** 鱼鱼咏唱派！
+
+**派蒙:** 你加入美露莘了是吧？
+
+**那维莱特:** 呵呵…有何不可，一起走吧。
 
 #### 送美露莘们返回
 
@@ -1652,13 +2448,19 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **那维莱特:** 「珀西芙」？原来你们是这么称呼她的？
 
-- **旅行者:** 难道传说中的「那位来客」就是…
+##### 对话分支 1
 
-- **旅行者:** 有机会讲给赛诺听。
+- **旅行者:** 难道传说中的「那位来客」就是…
 
 **派蒙:** 竟然是这个意思吗！想当初我可是思考了很久，差点晚上失眠…
 
+##### 对话分支 2
+
+- **旅行者:** 有机会讲给赛诺听。
+
 **派蒙:** 有道理，他一定会视作挑战的…
+
+##### 共同后续
 
 **芙佳:** 你好…？
 
@@ -1693,3 +2495,151 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 大家忙活了一阵，一起享用了美味的食物。
 
 虽然珀西芙几乎只吃了汐藻（并且吃光了），但能看出很开心的样子。
+
+**珀西芙:** 汐藻，多…珀西芙，困困…
+
+**派蒙:** 欸？什么？
+
+**珀西芙:** 珀西芙，水。回去，困困。
+
+**那维莱特:** 应该是吃了太多汐藻，想要回到水里睡觉的意思。
+
+##### 对话分支 1
+
+- **旅行者:** 原来龙蜥吃饱了也会犯困。
+
+##### 对话分支 2
+
+- **旅行者:** 跟派蒙似的。
+
+##### 共同后续
+
+**派蒙:** 说什么呢，你不也一样吗？
+
+**珀西芙:** 珀西芙，离开。
+
+**芙佳:** 等等！请等一下！
+
+**珀西芙:** ？
+
+**芙佳:** （不知道她住在哪里，也不知道什么时候才能再见…）
+
+**芙佳:** （要是能给她留下点纪念品就好了…啊，有了！）
+
+**芙佳:** 这个，给你！
+
+**珀西芙:** 啊…
+
+**珀西芙:** 那位来客，珀西芙！那位来客，好东西！
+
+**派蒙:** 天哪，一下子就认出来了…
+
+- **旅行者:** 那位来客，好东西！
+
+**那维莱特:** 呃…的、的确是好东西…我是说木牌。
+
+**珀西芙:** 美露莘，珀西芙！美露莘，再见！
+
+**珀西芙:** 那位来客，再见！派蒙，再见！旅行者，再见！
+
+珀西芙变回龙蜥，叼着牌子游走了…
+
+**派蒙:** 珀西芙还是老样子，一下子就消失了…
+
+**派蒙:** 不过这次好好道别了呢，嘿嘿。
+
+**珀西芙:** 美露莘，珀西芙！美露莘，好东西！
+
+**珀西芙:** 那位来客，好东西！派蒙，好东西！旅行者，好东西！
+
+珀西芙变回龙蜥，叼着牌子游走了…
+
+**派蒙:** 珀西芙还是老样子，一下子就消失了…
+
+- **旅行者:** 珀西芙，无影踪。
+
+**那维莱特:** 不用担心，她应当已经把枫丹当作了新家，总会再见的。
+
+**那维莱特:** 学会分享是融入人群的过程之一，看来她从我以外的人身上也学到了很多。
+
+- **旅行者:** 人就是要互相学习的。
+
+**那维莱特:** 你说的没错，我也从人类身上学到了很多东西。
+
+**那维莱特:** 而且回想起来，这个学习过程其实从很久很久以前就开始了…
+
+**嘉莱娜:** 那维莱特大人…是想到过去的事情了吗？
+
+**那维莱特:** 嗯。
+
+**那维莱特:** 是我诞生之后，还没有加入枫丹廷的故事。
+
+**那维莱特:** 虽然我不知道自己为何以人类的姿态诞生，但迫于现实，总要了解些人类的生活方式。
+
+**那维莱特:** 那时我总有很多疑问，比如人类的语言如何书写历史，再比如人要如何进行生产与交易…
+
+**那维莱特:** 唔…他们为什么会要用魔神的血肉作为交换媒介呢？石子和贝壳难道无法起到相同的作用？
+
+**薇尔妲:** 可能因为石子和贝壳容易损坏？
+
+**那维莱特:** 魔神就不会了吗？
+
+**派蒙:** 应该也会的吧…
+
+- **旅行者:** 值得思考的问题，很难给出正确答案。
+
+**那维莱特:** 嗯。还好我们的时间很长，没准会在未来见证世界再次变化。
+
+##### 对话分支 1
+
+- **旅行者:** 没准变化已经在发生了。
+
+**那维莱特:** 呵呵…你说得很对。
+
+##### 对话分支 2
+
+- **旅行者:** 我吃多了，不适合思考这些。
+
+**那维莱特:** 啊，抱歉，说了些难懂的话。
+
+**那维莱特:** 就当是我一个人的过度思虑吧，请不要在意。
+
+- **旅行者:** 没关系，总会有答案的。
+
+**那维莱特:** 是啊…
+
+##### 共同后续
+
+**那维莱特:** 时间总流逝在大家注意不到的地方，为迷途的人指明方向。
+
+**那维莱特:** 与其纠结这些，的确不如过好当下的生活。
+
+**那维莱特:** 我想，是时候为下一次休假安排时间了。
+
+**洛梅:** 那维莱特大人，可以问您一个问题吗？
+
+**那维莱特:** 当然，请讲。
+
+**洛梅:** 听说璃月有纸里包火，可以实现一切愿望的灯。是真的吗？
+
+**薇尔妲:** 纸里包火？不会坏掉吗？岂不是很危险？
+
+**芙佳:** 对哦。如果你的愿望是烧掉整个家，那应该能实现吧。
+
+**芙洛:** 天哪芙佳，你这玩笑是从谁那里学来的？
+
+**芙佳:** 欸？不是玩笑哦？
+
+**那维莱特:** 这个…的确有类似的东西，叫做「霄灯」。
+
+**那维莱特:** 使用得当的话是不会有危险的，只是并不能真的实现愿望…抱歉。
+
+**嘉莱娜:** 哎呀，那维莱特大人为什么要道歉啦。
+
+**那维莱特:** 呵…仅听我描述大概会很无趣。这样如何，等我有空去璃月，给你们带一些回来。
+
+**洛梅:** 好耶！要是能多拍点画片回来，就更好了！
+
+**那维莱特:** 嗯，一定。
+
+**（观察）:** 遗落在路边的汐藻，湿漉漉的，仿佛刚从水中取出不久。

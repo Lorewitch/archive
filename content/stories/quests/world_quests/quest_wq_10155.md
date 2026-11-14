@@ -21,16 +21,25 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: По следам Нарцисса
+# game_source_ids: 74078
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 40
 
 ## RU
 
 ### След за кормой
 
+#### Журнал
+
+**Нарциссенкрейц:** Наверное, так было уготовано с того самого момента, когда Ален заставил нас снова и снова разыгрывать историю о Цветочной хранительнице и злом драконе.
+
 «Но из глубины времён светлый возникает сон, лёгкий выплывает чёлн...»
 
 #### Поговорите с Анн и вновь запечатайте вход в Первозданное море.
 
-Вперёд.
+**Анн:** Готовы к отправлению?
+
+- **Путешественник:** Вперёд.
 
 **Анн:** Да, в путь.
 
@@ -41,6 +50,12 @@
 «Сестрица, которая никогда не вмешивалась в дела отряда, наконец-то взяла в руки Чудесный меч».
 
 В этот момент вы вернулись в Ордо Нарциссенкрейц...
+
+- **Путешественник:** Подождём ещё.
+
+**Нарциссенкрейц:** Сейчас здесь ничего нет. Есть только величественная, но подавленная жизненная сила.
+
+**Нарциссенкрейц:** Но если тебе интересно, можем посмотреть ещё немного.
 
 #### Поговорите со всеми
 
@@ -98,9 +113,9 @@
 
 **Нарциссенкрейц:** Что ж, отвечая на твой вопрос. Моё предыдущее предложение этим двоим остаётся в силе, я раскрою им тайны и отвечу на вопросы.
 
-Раз так...
+- **Путешественник:** Раз так...
 
-Отправься вместе с Анн на поиски правды о её рождении.
+- **Путешественник:** Отправься вместе с Анн на поиски правды о её рождении.
 
 Вы рассказываете Нарциссенкрейцу о другой Мари-Анн...
 
@@ -122,7 +137,7 @@
 
 **Катерпиллер:** Но вы, Путешественник и Паймон, другие. Вы герои этой истории.
 
-Героиня Паймон!
+- **Путешественник:** Героиня Паймон!
 
 **Катерпиллер:** Да, Паймон, должно быть...
 
@@ -134,7 +149,7 @@
 
 **Катерпиллер:** Когда закончите со своими делами, давайте снова соберёмся вместе, как те-кто-раньше-были-людьми.
 
-**Сеймур:** Стоит ли мне тогда пойти с путешественником / путешественницей?
+**Сеймур:** Стоит ли мне тогда пойти с путешественником? / Стоит ли мне тогда пойти с путешественницей?
 
 **Катерпиллер:** Конечно, есть ещё Сеймур. Я имею в виду, что всё это время ты искал место окончания задания. Тебе тоже нужны какие-то ответы, да?
 
@@ -152,13 +167,23 @@
 
 **Паймон:** Да! Найдём Мари-Анн!
 
+#### Направляйтесь к указанному месту
+
+**Сеймур:** Я никак не могу понять, что значит «нуждается в объяснении».
+
+**Сеймур:** Мне для работы нужны энергия и команды, а не «объяснение».
+
+**Сеймур:** Но... Из-за поддержания системы команд высшего уровня и логического модуля, который постоянно сообщает об ошибках, я оказался на грани краха.
+
+**Сеймур:** Возможно, мне тоже... нужна помощь.
+
+**Катерпиллер:** Тогда поторопитесь и покончите с этим. Только тогда мы сможем встретиться.
+
+**Катерпиллер:** Что касается того, почему у меня нет опасений, что всё пройдёт хорошо...
+
+**Катерпиллер:** Нарциссенкрейц - очень надёжный инструктор, рядом с ним ничего не может случиться.
+
 #### Поговорите со всеми
-
-Подождём ещё.
-
-**Нарциссенкрейц:** Сейчас здесь ничего нет. Есть только величественная, но подавленная жизненная сила.
-
-**Нарциссенкрейц:** Но если тебе интересно, можем посмотреть ещё немного.
 
 **Паймон:** Эй, всё ещё хуже, чем в прошлый раз... Почему всё вернулось, как было?!
 
@@ -202,7 +227,7 @@
 
 **Паймон:** Анн, ты такая молодец!
 
-Анн, ты такая молодец!
+- **Путешественник:** Анн, ты такая молодец!
 
 **Анн:** ...
 
@@ -211,6 +236,14 @@
 **Нарциссенкрейц:** Потому что для тебя это что-то само собой разумеющееся. Ты просто припомнила фрагмент своего происхождения.
 
 **Нарциссенкрейц:** Нужно двигаться дальше.
+
+#### Направляйтесь к указанному месту
+
+#### Направляйтесь к указанному месту
+
+#### Направляйтесь к указанному месту
+
+#### Уклоняйтесь от снарядов и победите Пузырь-форт
 
 #### Поговорите с Анн
 
@@ -244,15 +277,9 @@
 
 **Нарциссенкрейц:** Именно. Вот и всё.
 
+#### Войдите в башню
+
 #### Двигайтесь дальше
-
-**Сеймур:** Я никак не могу понять, что значит «нуждается в объяснении».
-
-**Сеймур:** Мне для работы нужны энергия и команды, а не «объяснение».
-
-**Сеймур:** Но... Из-за поддержания системы команд высшего уровня и логического модуля, который постоянно сообщает об ошибках, я оказался на грани краха.
-
-**Сеймур:** Возможно, мне тоже... нужна помощь.
 
 #### Поговорите с Мари-Анн
 
@@ -272,9 +299,9 @@
 
 **Нарциссенкрейц:** Верно. Умница.
 
-Понятно.
+- **Путешественник:** Понятно.
 
-Прости. Потерпи ещё немного, Мари-Анн.
+- **Путешественник:** Прости. Потерпи ещё немного, Мари-Анн.
 
 **Мари-Анн:** ...
 
@@ -284,30 +311,9 @@
 
 **Мари-Анн:** Оставь меня одну. Пока сознание, связывающее форму, не рассеется...
 
+#### Уничтожьте Волю к сопротивлению
 
-**Анн:** Мари-Анн, куда бы ты сейчас хотела отправиться больше всего?
-
-**Мари-Анн:** Нужно подумать... Мари-Анн слишком много времени провела в воспоминаниях о прошлом и в воображаемом мире.
-
-**Мари-Анн:** Думаю, что сейчас мир сильно изменился по сравнению с тем, что было несколько сотен лет назад.
-
-**Мари-Анн:** Я хочу увидеть своими глазами мир за стеклом. Я хочу узнать новые истории.
-
-**Анн:** Мари-Анн, тебе страшно?
-
-**Анн:** Я знала, что история должна закончиться, но не могла представить, что именно так. С самого моего рождения королевство Нарциссенкрейц было для меня всем...
-
-**Мари-Анн:** Я понимаю, что ты встревожена больше, чем я. Ты была рождена для этой истории. Но c этого момента ты начнёшь историю, которая по-настоящему принадлежит Анн.
-
-**Мари-Анн:** Я тоже должна постепенно выйти из громадной тени прошлого. Ни воспоминания Лирис, ни воспоминания Мари-Анн Гильотен не отражают того, кто я есть сейчас.
-
-**Мари-Анн:** Нам всем предстоит долгий путь, Анн.
-
-**Мари-Анн:** Но я верю, что ты справишься.
-
-**Мари-Анн:** Если будет страшно, мы вернёмся сюда.
-
-**Мари-Анн:** Даже если останутся только руины, но сюда прилетит семя, оно прорастёт и станет цветком. Пока мы ещё здесь, мы всегда сможем построить новый дом.
+#### Уничтожьте Волю к сопротивлению
 
 #### Поговорите с Мари-Анн
 
@@ -315,9 +321,9 @@
 
 **Мари-Анн:** Что плохого в том, чтобы навсегда зациклиться на мечтах о прошлом?
 
-Может быть, правда действительно не так уж важна.
+- **Путешественник:** Может быть, правда действительно не так уж важна.
 
-А будущее - важно.
+- **Путешественник:** А будущее - важно.
 
 **Нарциссенкрейц:** Именно. Даже если вы все считали меня большим грешником, я ни на секунду не переставал бороться за будущее.
 
@@ -359,7 +365,7 @@
 
 **Мари-Анн:** Изначально Институт Нарциссенкрейца был нашим домом, почему же всё так вышло?
 
-**Нарциссенкрейц:** Наверное, так было уготовано с того самого момента, когда Ален заставил нас снова и снова разыгрывать историю о Цветочной хранительнице и злом драконе.
+**Нарциссенкрейц:** Наверное, так было уготовано с того самого момента, когда Ален заставил нас снова и снова разыгрывать историю о герое Нарциссенкрейц и злом драконе.
 
 **Нарциссенкрейц:** Я тоже скучаю по тому, как всё было раньше. Но Нарциссенкрейц родился из иллюзии спасения. Всё это было затянувшимся сном.
 
@@ -385,11 +391,17 @@
 
 **Паймон:** Ну, я не очень понимаю, но значит ли это, что Путешественник теперь не сможет использовать этот крутой титул?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это отлично.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Какая жалость.
 
-**Нарциссенкрейц:** Возвращаясь к изначальной теме. Ты сказал(а), что хотел(а) бы посмотреть, что там снаружи. Но теперь это мир Гильотена. Сомневаюсь, что там есть что-то стоящее.
+##### Общее продолжение
+
+**Нарциссенкрейц:** Возвращаясь к изначальной теме. Ты сказал, что хотел бы посмотреть, что там снаружи. Но теперь это мир Гильотена. Сомневаюсь, что там есть что-то стоящее. / Возвращаясь к изначальной теме. Ты сказала, что хотела бы посмотреть, что там снаружи. Но теперь это мир Гильотена. Сомневаюсь, что там есть что-то стоящее.
 
 **Нарциссенкрейц:** Но если бы тебе понравился этот мир, это был бы лучший итог.
 
@@ -511,7 +523,7 @@
 
 **Мари-Анн:** ...Да, так все и было. А Жакоб...
 
-**Сеймур:** Заявления путешественника / путешественницы и госпожи Паймон в целом не расходятся с фактами, и необходимо добавить только один момент.
+**Сеймур:** Заявления путешественника и госпожи Паймон в целом не расходятся с фактами, и необходимо добавить только один момент. / Заявления путешественницы и госпожи Паймон в целом не расходятся с фактами, и необходимо добавить только один момент.
 
 **Сеймур:** Уровень моей мощности во время боя был гораздо ниже, чем ожидалось, из-за того, что более тридцати процентов компонентов были повреждены, и отсутствия ухода за ними после прошлого боя в Элинасе.
 
@@ -523,7 +535,11 @@
 
 **Сеймур:** Ответ положительный. Мой конструктор, Ален Гильотен, был одним из лучших инженеров Фонтейна, а детали, из которых я состою, представляли в то время самый высокий уровень материаловедения и точности изготовления в стране.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Имелось в виду не это...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Сеймур, какой ты сильный!
 
@@ -531,9 +547,11 @@
 
 **Паймон:** Анн хотела сказать совсем не это...
 
+##### Общее продолжение
+
 **Сеймур:** Какие будут приказы, госпожа Мари-Анн?
 
-**Анн:** ...
+**Мари-Анн и Анн:** ...
 
 **Анн:** Мари-Анн, это ты должна сказать. Потому что для Сеймура я просто Анн.
 
@@ -579,7 +597,7 @@
 
 **Анн:** Путешественник, Паймон и Катерпиллер... Вы самые смелые и потрясающие. Спасибо вам всем.
 
-Не называешь меня рыцарем?
+- **Путешественник:** Не называешь меня рыцарем?
 
 **Анн:** Эта история завершена. Для меня, для «нас» ты теперь самый реальный и важный человек.
 
@@ -599,7 +617,7 @@
 
 **Катерпиллер:** Я тоже многое получил от того, что сыграл свою роль в этой истории.
 
-Надеюсь, вас ждёт прекрасное путешествие.
+- **Путешественник:** Надеюсь, вас ждёт прекрасное путешествие.
 
 **Мари-Анн:** Спасибо! Уверена, что в будущем мы ещё обязательно встретимся!
 
@@ -607,9 +625,15 @@
 
 **Паймон:** Пойдёмте вместе! Катерпиллер, давай с нами!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хорошо, Сеймур.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Катерпиллер, доведите дело до конца вместе.
+
+##### Общее продолжение
 
 **Катерпиллер:** Хорошо, я вас провожу.
 
@@ -643,15 +667,21 @@
 
 **Мамер:** «Прародитель» погрузился в молчание, оставив сообщение через Путешественник. Затем ушёл и Сеймур. Мне было очень грустно всё это время.
 
-**Паймон:** (Гм, кажется, что Мамер даже не знает, что произошло, когда ты был(а) в оцепенении...)
+**Паймон:** (Гм, кажется, что Мамер даже не знает, что произошло, когда ты был в оцепенении...) / (Гм, кажется, что Мамер даже не знает, что произошло, когда ты была в оцепенении...)
 
 **Мамер:** Все жители деревни Меруси всё это время помогали мне. Именно тогда я поняла, что имел в виду мой «Прародитель»...
 
 **Мамер:** О, точно! Пока я была с ними, я осваивала новые стили живописи!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Они ещё оригинальнее прежних?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Они ещё... оригинальнее прежних?
+
+##### Общее продолжение
 
 **Мамер:** Думаю, что этот стиль легче для понимания! Теперь даже мелюзины из деревни Меруси понимают, что я рисую, а не просто говорят «Ого, как красиво»!
 
@@ -673,11 +703,11 @@
 
 **Паймон:** Эге! Мгновенное действие - как классно.
 
-**Мамер:** Безусловно. Если не действовать, то мечта навсегда остается просто мечтой, разве не так?
+**Мамер в доме:** Безусловно. Если не действовать, то мечта навсегда остается просто мечтой, разве не так?
 
-**Мамер:** Краски, краски...
+**Мамер в доме:** Краски, краски...
 
-**Сеймур:** Позвольте мне выразить вам, (госпожа)(господин) Путешественник, госпожа Паймон и господин Катерпиллер, свою благодарность, пока я жду.
+**Сеймур:** Позвольте мне выразить вам, господин Путешественник, госпожа Паймон и господин Катерпиллер, свою благодарность, пока я жду. / Позвольте мне выразить вам, госпожа Путешественник, госпожа Паймон и господин Катерпиллер, свою благодарность, пока я жду.
 
 **Сеймур:** Я опираюсь на свои собственные суждения. Как сказала госпожа Мари-Анн, я «хочу» выразить свою благодарность. С вашей помощью я наконец-то завершил то, что должен был завершить.
 
@@ -693,11 +723,11 @@
 
 **Паймон:** Что ж, хорошей дороги!
 
-**Мамер:** Спасибо, Паймон!
+**Мамер в доме:** Спасибо, Паймон!
 
-**Мамер:** Картины для них, картины для них...
+**Мамер в доме:** Картины для них, картины для них...
 
-Будь хорошей собакой и защищай Мамер.
+- **Путешественник:** Будь хорошей собакой и защищай Мамер.
 
 **Сеймур:** Ответ положительный. Я хочу этим заниматься.
 
@@ -719,25 +749,57 @@
 
 **Катерпиллер:** Так что прощайте, Путешественник и Паймон. Знакомство с вами было, наверное, лучшим, что случалось со мной в этой «жизни».
 
+##### Вариант ответа 1
+
 - **Путешественник:** Прощай, Катерпиллер.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Взаимно, Катерпиллер.
+
+##### Общее продолжение
 
 **Паймон:** Гм, береги себя, Катерпиллер! Не дай никому узнать, кто ты! Иначе у тебя будут неприятности!
 
 Хиличурл рассмеялся и отвернулся.
 
+**Анн:** Мари-Анн, куда бы ты сейчас хотела отправиться больше всего?
 
-**Катерпиллер:** Тогда поторопитесь и покончите с этим. Только тогда мы сможем встретиться.
+**Мари-Анн:** Нужно подумать... Мари-Анн слишком много времени провела в воспоминаниях о прошлом и в воображаемом мире.
 
-**Катерпиллер:** Что касается того, почему у меня нет опасений, что всё пройдёт хорошо...
+**Мари-Анн:** Думаю, что сейчас мир сильно изменился по сравнению с тем, что было несколько сотен лет назад.
 
-**Катерпиллер:** Нарциссенкрейц - очень надёжный инструктор, рядом с ним ничего не может случиться.
+**Мари-Анн:** Я хочу увидеть своими глазами мир за стеклом. Я хочу узнать новые истории.
 
-**Катерпиллер:** Хорошо, я вас провожу.
+**Анн:** Мари-Анн, тебе страшно?
 
+**Анн:** Я знала, что история должна закончиться, но не могла представить, что именно так. С самого моего рождения королевство Нарциссенкрейц было для меня всем...
 
-**Анн:** Готовы к отправлению?
+**Мари-Анн:** Я понимаю, что ты встревожена больше, чем я. Ты была рождена для этой истории. Но c этого момента ты начнёшь историю, которая по-настоящему принадлежит Анн.
+
+**Мари-Анн:** Я тоже должна постепенно выйти из громадной тени прошлого. Ни воспоминания Лирис, ни воспоминания Мари-Анн Гильотен не отражают того, кто я есть сейчас.
+
+**Мари-Анн:** Нам всем предстоит долгий путь, Анн.
+
+**Мари-Анн:** Но я верю, что ты справишься.
+
+**Мари-Анн:** Если будет страшно, мы вернёмся сюда.
+
+**Мари-Анн:** Даже если останутся только руины, но сюда прилетит семя, оно прорастёт и станет цветком. Пока мы ещё здесь, мы всегда сможем построить новый дом.
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+Вместе с Катерпиллером вы пришли за границы деревни Меруси...
 
 ## EN
 
@@ -747,7 +809,9 @@
 
 #### Talk to Ann and re-seal the entrance to the Primordial Sea
 
-Let's go.
+**Ann:** Are you ready to leave?
+
+- **Traveler:** Let's go.
 
 **Ann:** Yep, let's go!
 
@@ -758,6 +822,12 @@ The person who almost saved the world spoke: "The Holy Blade need not be a sword
 "And now the younger sister, who never stood forth as part of the adventure, has grasped a sword at last."
 
 With that, you return to the Narzissenkreuz Ordo...
+
+- **Traveler:** Let's wait a little longer.
+
+**Narzissenkreuz:** There is nothing here now. Just a majestic yet suppressed life force.
+
+**Narzissenkreuz:** But if you are curious, we can watch some more.
 
 #### Talk to everyone
 
@@ -815,9 +885,9 @@ With that, you return to the Narzissenkreuz Ordo...
 
 **Narzissenkreuz:** I will answer your question, then. My offer from before still stands. I will reveal the mysteries to them and answer any questions.
 
-In that case...
+- **Traveler:** In that case...
 
-Please take Ann to find out the truth about her origins.
+- **Traveler:** Please take Ann to find out the truth about her origins.
 
 You explain the other Mary-Ann to Narzissenkreuz...
 
@@ -839,7 +909,7 @@ You explain the other Mary-Ann to Narzissenkreuz...
 
 **Caterpillar:** But you, Traveler and Paimon, are different. You're the heroes of this story.
 
-Yes, the mighty heroine Paimon!
+- **Traveler:** Yes, the mighty heroine Paimon!
 
 **Caterpillar:** Well, Paimon should actually be...
 
@@ -851,7 +921,7 @@ Yes, the mighty heroine Paimon!
 
 **Caterpillar:** Once you finish up over there, let us things-that-used-to-be-human have a little reunion.
 
-**Seymour:** Should I go with Mr. / Ms. Traveler, then?
+**Seymour:** Should I go with Mr. Traveler, then? / Should I go with Ms. Traveler, then?
 
 **Caterpillar:** Of course you should. I mean, you've been seeking the end of the quest this whole time. You, too, need an answer, don't you?
 
@@ -869,13 +939,23 @@ Yes, the mighty heroine Paimon!
 
 **Paimon:** Alright! Let's go find Mary-Ann!
 
+#### Head to the designated location
+
+**Seymour:** An explanation? What do you mean?
+
+**Seymour:** My operations require energy and commands, not explanations.
+
+**Seymour:** Still... Maintaining a primary directive system and logic module that both constantly return errors has brought me to the verge of shutdown.
+
+**Seymour:** Perhaps... I do... need some assistance.
+
+**Caterpillar:** Well, hurry up and get it done, then. We do need to have that get-together, don't we?
+
+**Caterpillar:** The reason why I'm not worried about everything going smoothly is...
+
+**Caterpillar:** Well, Narzissenkreuz is an absolutely reliable guide, so there won't be any issues with him around.
+
 #### Talk to everyone
-
-Let's wait a little longer.
-
-**Narzissenkreuz:** There is nothing here now. Just a majestic yet suppressed life force.
-
-**Narzissenkreuz:** But if you are curious, we can watch some more.
 
 **Paimon:** Wait, this is even worse than last time... How's everything back to the way it was?
 
@@ -919,7 +999,7 @@ Let's wait a little longer.
 
 **Paimon:** You're amazing, Ann!
 
-You're amazing, Ann!
+- **Traveler:** You're amazing, Ann!
 
 **Ann:** ...
 
@@ -928,6 +1008,14 @@ You're amazing, Ann!
 **Narzissenkreuz:** Because this is something you would normally take for granted. You have simply remembered a fragment of your origin.
 
 **Narzissenkreuz:** Let us press on.
+
+#### Head to the designated location
+
+#### Head to the designated location
+
+#### Head to the designated location
+
+#### Dodge the cannon fire and break through the Bubble Formation
 
 #### Talk to Ann
 
@@ -961,15 +1049,9 @@ You're amazing, Ann!
 
 **Narzissenkreuz:** Indeed, that is the case.
 
+#### Enter the tower
+
 #### Keep moving ahead
-
-**Seymour:** An explanation? What do you mean?
-
-**Seymour:** My operations require energy and commands, not explanations.
-
-**Seymour:** Still... Maintaining a primary directive system and logic module that both constantly return errors has brought me to the verge of shutdown.
-
-**Seymour:** Perhaps... I do... need some assistance.
 
 #### Talk to Mary-Ann
 
@@ -989,9 +1071,9 @@ You're amazing, Ann!
 
 **Narzissenkreuz:** Correct, clever one.
 
-I've got it.
+- **Traveler:** I've got it.
 
-Sorry, Mary-Ann. Just bear with us.
+- **Traveler:** Sorry, Mary-Ann. Just bear with us.
 
 **Mary-Ann:** ...
 
@@ -1001,30 +1083,9 @@ Sorry, Mary-Ann. Just bear with us.
 
 **Mary-Ann:** Just leave me alone, till the consciousness that keeps this form together fades away...
 
+#### Smash the "Will to Resist"
 
-**Ann:** Where would you most like to go right now, Mary-Ann?
-
-**Mary-Ann:** Well... I've remained for far too long in that imaginary past-world.
-
-**Mary-Ann:** The world must have changed a lot after hundreds of years.
-
-**Mary-Ann:** I want to see this world beyond the glass wall. I want to experience new stories.
-
-**Ann:** Are you afraid, Mary-Ann?
-
-**Ann:** I know stories end, but I find it difficult to imagine that everything would end like this. From the moment I was born, the Narzissenkreuz Kingdom was everything to me...
-
-**Mary-Ann:** I understand that you're feeling more uneasy than I am. You were born for this story. But from now onward, you must start your own story... Ann's story.
-
-**Mary-Ann:** And I must slowly step away from the looming shadow of my past. Neither Lyris's memories nor Mary-Ann Guillotin's represent who I am now.
-
-**Mary-Ann:** We have a long path ahead of us, Ann.
-
-**Mary-Ann:** But I know you'll be alright.
-
-**Mary-Ann:** If you find yourself feeling afraid, we can come back here.
-
-**Mary-Ann:** Even if only ruins remain, a seed that drifts here will bloom. So long as we remain, we can always rebuild a new home.
+#### Smash the "Will to Resist"
 
 #### Talk to Mary-Ann
 
@@ -1032,9 +1093,9 @@ Sorry, Mary-Ann. Just bear with us.
 
 **Mary-Ann:** What's wrong with forever dwelling on dreams of the past?
 
-It may be that the truth isn't that important.
+- **Traveler:** It may be that the truth isn't that important.
 
-But the future is.
+- **Traveler:** But the future is.
 
 **Narzissenkreuz:** Indeed. Even if you all regard me as a villain, I have never once given up on the future.
 
@@ -1102,9 +1163,15 @@ But the future is.
 
 **Paimon:** Hmm... Paimon doesn't totally get it, but does it mean that Traveler won't be able to use that cool title anymore?
 
+##### Response branch 1
+
 - **Traveler:** Fine by me.
 
+##### Response branch 2
+
 - **Traveler:** That's too bad.
+
+##### Shared continuation
 
 **Narzissenkreuz:** Let us return to the original topic. You said that you'd like to see the outside. But this is now Guillotin's world. I doubt there will be much to see.
 
@@ -1228,7 +1295,7 @@ He never did change his name back to Rene, did he?
 
 **Mary-Ann:** ...Right, so such things happened, huh? Then there's Jakob...
 
-**Seymour:** Mr. / Ms. Traveler and Ms. Paimon's description largely fits with the facts. But one thing must be added.
+**Seymour:** Mr. Traveler and Ms. Paimon's description largely fits with the facts. But one thing must be added. / Ms. Traveler and Ms. Paimon's description largely fits with the facts. But one thing must be added.
 
 **Seymour:** My power output during combat has been far below expectations. This is because over 30 percent of my components were damaged during the battle at Elynas and have not been maintained since.
 
@@ -1240,7 +1307,11 @@ He never did change his name back to Rene, did he?
 
 **Seymour:** Indeed. My designer, Alain Guillotin, is Fontaine's leading engineer, and the components I am made of represent the best of the nation's material science and craftsmanship.
 
+##### Response branch 1
+
 - **Traveler:** That's not what she meant...
+
+##### Response branch 2
 
 - **Traveler:** You're most formidable, Seymour!
 
@@ -1248,9 +1319,11 @@ He never did change his name back to Rene, did he?
 
 **Paimon:** But that's not what Ann was trying to say...
 
+##### Shared continuation
+
 **Seymour:** What are your next orders, Ms. Mary-Ann?
 
-**Ann:** ...
+**Mary-Ann & Ann:** ...
 
 **Ann:** You decide, Mary-Ann. As far as Seymour is concerned, I'm just Ann.
 
@@ -1296,7 +1369,7 @@ He never did change his name back to Rene, did he?
 
 **Ann:** Traveler, Paimon, and Caterpillar... You were the bravest and strongest of all. Thank you all so much.
 
-Wait, so I'm no longer a knight?
+- **Traveler:** Wait, so I'm no longer a knight?
 
 **Ann:** That story is over. And for me, for "us," you, as you are now, are the realest and most important of all.
 
@@ -1316,7 +1389,7 @@ Wait, so I'm no longer a knight?
 
 **Caterpillar:** I've also gained a lot from being able to play my role in this tale.
 
-I hope you all have a wonderful trip.
+- **Traveler:** I hope you all have a wonderful trip.
 
 **Mary-Ann:** Yes! And I am confident we will meet again in the future.
 
@@ -1324,9 +1397,15 @@ I hope you all have a wonderful trip.
 
 **Paimon:** We can come too! Caterpillar, come with us, would you?
 
+##### Response branch 1
+
 - **Traveler:** Let's go, Seymour.
 
+##### Response branch 2
+
 - **Traveler:** Caterpillar, let's see this through to the end.
+
+##### Shared continuation
 
 **Caterpillar:** Very well. I will accompany you.
 
@@ -1366,9 +1445,15 @@ I hope you all have a wonderful trip.
 
 **Mamere:** Oh, yes! I've been learning a new style of painting while I was with them!
 
+##### Response branch 1
+
 - **Traveler:** Is it even more novel than before?
 
+##### Response branch 2
+
 - **Traveler:** Is it even more... novel than before?
+
+##### Shared continuation
 
 **Mamere:** I think it will be easier to understand! Even the Melusines of Merusea Village can tell what I'm painting now, rather than just saying "Oh, how lovely!"
 
@@ -1390,11 +1475,11 @@ Seymour explains the idea of a joint trip.
 
 **Paimon:** Woah, you sure are springing into action!
 
-**Mamere:** Of course. I mean, if you don't act, your dreams will never come true, right?
+**Mamere Inside the House:** Of course. I mean, if you don't act, your dreams will never come true, right?
 
-**Mamere:** Paints, paints...
+**Mamere Inside the House:** Paints, paints...
 
-**Seymour:** While we wait, let me express my gratitude to you, Mr. / Ms. Traveler, Ms. Paimon, and Mr. Caterpillar.
+**Seymour:** While we wait, let me express my gratitude to you, Mr. Traveler, Ms. Paimon, and Mr. Caterpillar. / While we wait, let me express my gratitude to you, Ms. Traveler, Ms. Paimon, and Mr. Caterpillar.
 
 **Seymour:** This is based on my own judgment and what, as Ms. Mary-Ann says, I "want" to do. With your help, I have finally been able to complete my task.
 
@@ -1410,11 +1495,11 @@ Seymour explains the idea of a joint trip.
 
 **Paimon:** Okay. In that case, Paimon wishes you all a good trip!
 
-**Mamere:** Thanks, Paimon!
+**Mamere Inside the House:** Thanks, Paimon!
 
-**Mamere:** Paintings to give them, paintings to give...
+**Mamere Inside the House:** Paintings to give them, paintings to give...
 
-Be a good dog and look after Mamere, alright?
+- **Traveler:** Be a good dog and look after Mamere, alright?
 
 **Seymour:** I will. It is what I want to do.
 
@@ -1436,25 +1521,57 @@ Be a good dog and look after Mamere, alright?
 
 **Caterpillar:** So, goodbye, Traveler, and farewell, Paimon. Meeting you both has been the most fortunate thing to happen in this "life" of mine.
 
+##### Response branch 1
+
 - **Traveler:** Goodbye, Caterpillar.
 
+##### Response branch 2
+
 - **Traveler:** Likewise, Caterpillar.
+
+##### Shared continuation
 
 **Paimon:** Yeah! Take care, Caterpillar. Don't let anyone find out who you really are! That'd be a pain!
 
 The hilichurl smiles before turning to leave.
 
+**Ann:** Where would you most like to go right now, Mary-Ann?
 
-**Caterpillar:** Well, hurry up and get it done, then. We do need to have that get-together, don't we?
+**Mary-Ann:** Well... I've remained for far too long in that imaginary past-world.
 
-**Caterpillar:** The reason why I'm not worried about everything going smoothly is...
+**Mary-Ann:** The world must have changed a lot after hundreds of years.
 
-**Caterpillar:** Well, Narzissenkreuz is an absolutely reliable guide, so there won't be any issues with him around.
+**Mary-Ann:** I want to see this world beyond the glass wall. I want to experience new stories.
 
-**Caterpillar:** Very well. I will accompany you.
+**Ann:** Are you afraid, Mary-Ann?
 
+**Ann:** I know stories end, but I find it difficult to imagine that everything would end like this. From the moment I was born, the Narzissenkreuz Kingdom was everything to me...
 
-**Ann:** Are you ready to leave?
+**Mary-Ann:** I understand that you're feeling more uneasy than I am. You were born for this story. But from now onward, you must start your own story... Ann's story.
+
+**Mary-Ann:** And I must slowly step away from the looming shadow of my past. Neither Lyris's memories nor Mary-Ann Guillotin's represent who I am now.
+
+**Mary-Ann:** We have a long path ahead of us, Ann.
+
+**Mary-Ann:** But I know you'll be alright.
+
+**Mary-Ann:** If you find yourself feeling afraid, we can come back here.
+
+**Mary-Ann:** Even if only ruins remain, a seed that drifts here will bloom. So long as we remain, we can always rebuild a new home.
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+You and Caterpillar arrive outside Merusea Village...
 
 ## ZH
 
@@ -1464,7 +1581,9 @@ The hilichurl smiles before turning to leave.
 
 #### 与安对话，重新封印胎海入口
 
-走吧。
+**安:** 准备好离开了吗？
+
+- **旅行者:** 走吧。
 
 **安:** 嗯嗯，出发吧。
 
@@ -1475,6 +1594,12 @@ The hilichurl smiles before turning to leave.
 「冒险团中从来不出手的妹妹，终于拿起了一次圣剑。」
 
 话语间，你们回到了水仙十字结社…
+
+- **旅行者:** 再等等。
+
+**纳齐森科鲁兹:** 这里已经不存一事，只有被压制的磅礴生命之力。
+
+**纳齐森科鲁兹:** 不过你感兴趣的话，就再看看吧。
 
 #### 与大家对话
 
@@ -1532,9 +1657,9 @@ The hilichurl smiles before turning to leave.
 
 **纳齐森科鲁兹:** 那么回答你的问题吧。我之前对这两位的提议仍然有效，我会为他们展示奥秘，回答疑问。
 
-既然如此…
+- **旅行者:** 既然如此…
 
-请你带着安去寻找她诞生的真相吧。
+- **旅行者:** 请你带着安去寻找她诞生的真相吧。
 
 和纳齐森科鲁兹讲述了另一个「玛丽安」的事…
 
@@ -1556,7 +1681,7 @@ The hilichurl smiles before turning to leave.
 
 **卡特皮拉:** 但你们，旅行者和派蒙不一样。你们是故事中的「勇者」。
 
-派蒙勇者！
+- **旅行者:** 派蒙勇者！
 
 **卡特皮拉:** 派蒙的话，倒应该是…
 
@@ -1568,7 +1693,7 @@ The hilichurl smiles before turning to leave.
 
 **卡特皮拉:** 等你们那边结束以后，就让我们这些曾经为人的东西，再一块聚聚吧。
 
-**西摩尔:** 那我应该与旅行者先生 / 小姐同行吗？
+**西摩尔:** 那我应该与旅行者先生同行吗？ / 那我应该与旅行者小姐同行吗？
 
 **卡特皮拉:** 当然还有西摩尔，一直都在寻找任务终点的你，也需要一个交待吧。
 
@@ -1586,13 +1711,23 @@ The hilichurl smiles before turning to leave.
 
 **派蒙:** 嗯！我们去找玛丽安吧！
 
+#### 前往指定地点
+
+**西摩尔:** 我无法理解「需要一个交代」是什么意思。
+
+**西摩尔:** 我的运行需要的是能源与指令，而不是「交代」。
+
+**西摩尔:** 但是…维持频繁报错的最高指令系统和逻辑模块也让「西摩尔」接近崩溃了。
+
+**西摩尔:** 或许，我确实也…需要一些帮助。
+
+**卡特皮拉:** 快点去吧，我还得等着你们成功了才能聚首呢。
+
+**卡特皮拉:** 至于我为什么毫不担心这件事是否顺利…
+
+**卡特皮拉:** 纳齐森科鲁兹确实是个很可靠的指导，有他在不会有什么问题的。
+
 #### 与大家对话
-
-再等等。
-
-**纳齐森科鲁兹:** 这里已经不存一事，只有被压制的磅礴生命之力。
-
-**纳齐森科鲁兹:** 不过你感兴趣的话，就再看看吧。
 
 **派蒙:** 喂，这比上次还要糟糕啊…现在怎么全部都变回原样了！
 
@@ -1636,7 +1771,7 @@ The hilichurl smiles before turning to leave.
 
 **派蒙:** 安，你好厉害！
 
-安，你好厉害！
+- **旅行者:** 安，你好厉害！
 
 **安:** ……
 
@@ -1645,6 +1780,14 @@ The hilichurl smiles before turning to leave.
 **纳齐森科鲁兹:** 因为这对你而言，自是理所应当的事情。你只不过是稍微「想起了」自己的源流。
 
 **纳齐森科鲁兹:** 继续前进吧。
+
+#### 前往指定地点
+
+#### 前往指定地点
+
+#### 前往指定地点
+
+#### 躲避炮击，并突破「水泡阵地」
 
 #### 与安对话
 
@@ -1678,15 +1821,9 @@ The hilichurl smiles before turning to leave.
 
 **纳齐森科鲁兹:** 没错。就是这样。
 
+#### 进入「高塔」
+
 #### 前进
-
-**西摩尔:** 我无法理解「需要一个交代」是什么意思。
-
-**西摩尔:** 我的运行需要的是能源与指令，而不是「交代」。
-
-**西摩尔:** 但是…维持频繁报错的最高指令系统和逻辑模块也让「西摩尔」接近崩溃了。
-
-**西摩尔:** 或许，我确实也…需要一些帮助。
 
 #### 与「玛丽安」对话
 
@@ -1706,9 +1843,9 @@ The hilichurl smiles before turning to leave.
 
 **纳齐森科鲁兹:** 没错。你很聪明。
 
-我明白了。
+- **旅行者:** 我明白了。
 
-抱歉。稍微忍耐一会，玛丽安。
+- **旅行者:** 抱歉。稍微忍耐一会，玛丽安。
 
 **「玛丽安」:** ……
 
@@ -1718,30 +1855,9 @@ The hilichurl smiles before turning to leave.
 
 **「玛丽安」:** 让我一个人在这里待着吧。直到约束形体的意识消散…
 
+#### 击碎「抗拒的意志」
 
-**安:** 玛丽安，现在对你而言，你最想去的地方是哪里呢？
-
-**「玛丽安」:** 我想想…「玛丽安」在过去的回忆，在想象的世界里待得太久了。
-
-**「玛丽安」:** 现在的世界，应该跟几百年前有了很大的变化吧。
-
-**「玛丽安」:** 我想亲眼看看，玻璃幕墙外的世界。我想看到新的故事。
-
-**安:** 你会害怕吗，玛丽安？
-
-**安:** 虽然知道故事一定会有结局，但是很难想象一切就这样结束了。从我诞生的时刻开始，水仙十字王国就是我的全部…
-
-**「玛丽安」:** 我明白，你比我更加不安。你是为了这个故事才诞生的。可是从今往后，你要去开启真正属于「安」的故事了。
-
-**「玛丽安」:** 而我，也要从过去的巨大影子里逐渐迈出脚步。无论是莉利丝的回忆，还是玛丽安·吉约丹的回忆，都不能代表现在的我。
-
-**「玛丽安」:** 我们都有好长的路呢，安。
-
-**「玛丽安」:** 但我相信，你一定没问题的。
-
-**「玛丽安」:** 如果害怕了，我们就回到这里。
-
-**「玛丽安」:** 即便已成废墟，只要有种子飘到这里，就会开出新的花朵。只要我们还存在于此，就能建起新的家园。
+#### 击碎「抗拒的意志」
 
 #### 与「玛丽安」对话
 
@@ -1749,9 +1865,9 @@ The hilichurl smiles before turning to leave.
 
 **「玛丽安」:** 永远沉湎于过去的梦难道不行吗？
 
-或许真相确实不重要。
+- **旅行者:** 或许真相确实不重要。
 
-但是未来很重要。
+- **旅行者:** 但是未来很重要。
 
 **纳齐森科鲁兹:** 没错。就算你们都视我为大罪之人，我也没有片刻放弃过未来。
 
@@ -1819,9 +1935,15 @@ The hilichurl smiles before turning to leave.
 
 **派蒙:** 唔，虽然不是很懂，但意思就是说，以后旅行者用不了之前那招很厉害的「开辟十字斩」了吗？
 
+##### 对话分支 1
+
 - **旅行者:** 那样也不错。
 
+##### 对话分支 2
+
 - **旅行者:** 真遗憾。
+
+##### 共同后续
 
 **纳齐森科鲁兹:** 话说回来吧，你说要看看外面。但现在外面是吉约丹的世界，应该不怎么样吧。
 
@@ -1905,17 +2027,17 @@ The hilichurl smiles before turning to leave.
 
 **派蒙:** 难怪从中间开始就乱七八糟的，因为根本没写完嘛！
 
-**「玛丽安」:** 嗯，一直没想好结局。
+**玛丽安:** 嗯，一直没想好结局。
 
-**「玛丽安」:** 那时候，一切已经四分五裂了。但越是这样，我们就越想要一个简单的、快乐的结局…
+**玛丽安:** 那时候，一切已经四分五裂了。但越是这样，我们就越想要一个简单的、快乐的结局…
 
 **派蒙:** 这么说来，你一会儿说「我」，一会儿说「我们」…你究竟是玛丽安还是他们老是提到的纯水精灵莉利丝呢？
 
-**「玛丽安」:** 不知道。不过，已经无所谓了。
+**玛丽安:** 不知道。不过，已经无所谓了。
 
 **派蒙:** 安！卡特皮拉！你们回来啦！
 
-**「玛丽安」:** 雷内呢？
+**玛丽安:** 雷内呢？
 
 **安:** 他…
 
@@ -1931,33 +2053,37 @@ The hilichurl smiles before turning to leave.
 
 **西摩尔:** 玛丽安小姐！玛丽安小姐…
 
-**「玛丽安」:** ……
+**玛丽安:** ……
 
 **西摩尔:** …您的新发色与瞳色真是光彩照人。
 
-**「玛丽安」:** 真是的，笨狗。你就只会说这些吗？
+**玛丽安:** 真是的，笨狗。你就只会说这些吗？
 
 **西摩尔:** 我的语言中枢无法表达现在正在处理的逻辑与信息。
 
-**「玛丽安」:** 我知道。你还是和以前一样…
+**玛丽安:** 我知道。你还是和以前一样…
 
-**「玛丽安」:** …对不起。我很想你…
+**玛丽安:** …对不起。我很想你…
 
-**「玛丽安」:** …是喔，原来还发生了这样的事情呀。还有雅各布…
+**玛丽安:** …是喔，原来还发生了这样的事情呀。还有雅各布…
 
-**西摩尔:** 旅行者先生 / 小姐与派蒙小姐的陈述大致上与事实没有出入，仅有一点需要补充。
+**西摩尔:** 旅行者先生与派蒙小姐的陈述大致上与事实没有出入，仅有一点需要补充。 / 旅行者小姐与派蒙小姐的陈述大致上与事实没有出入，仅有一点需要补充。
 
 **西摩尔:** 战斗中我的机体出力水平远低于预期，这是因为有超过百分之三十的部件因为过去在厄里那斯的那次战斗损毁与缺乏护养导致的。
 
 **西摩尔:** 希望您正确评估我的性能，不要因此将我废弃。
 
-**「玛丽安」:** 当然不会！
+**玛丽安:** 当然不会！
 
 **安:** 你一直很坚强、很勇敢。你比「我们」要强韧多了，西摩尔。
 
 **西摩尔:** 肯定。我的设计者阿兰·吉约丹是枫丹最优秀的工程师，构成我的零件在当时也代表着枫丹的材料学与工艺精度的最高水平。
 
+##### 对话分支 1
+
 - **旅行者:** 倒不是这个意思就是了…
+
+##### 对话分支 2
 
 - **旅行者:** 西摩尔，你好强大！
 
@@ -1965,59 +2091,61 @@ The hilichurl smiles before turning to leave.
 
 **派蒙:** 虽然安想表达的不是这个就是了…
 
+##### 共同后续
+
 **西摩尔:** 接下来的指令是什么，玛丽安小姐？
 
-**安:** ……
+**玛丽安&安:** ……
 
 **安:** 就由你来说吧，玛丽安。因为，对西摩尔而言，我只是安而已。
 
-**「玛丽安」:** 西摩尔，你想做什么？
+**玛丽安:** 西摩尔，你想做什么？
 
 **西摩尔:** 我的首要指令是代替阿兰·吉约丹陪伴在小姐身边，保护小姐。
 
-**「玛丽安」:** 笨蛋，这是老哥…是阿兰的指令。我想问的是，你「想」做什么？
+**玛丽安:** 笨蛋，这是老哥…是阿兰的指令。我想问的是，你「想」做什么？
 
 **西摩尔:** …我曾经答应玛梅赫小姐，在找到主人以后，我会返回她之前的空间坐标，向她表达谢意。
 
-**「玛丽安」:** 你做得很对，乖狗狗。
+**玛丽安:** 你做得很对，乖狗狗。
 
 **西摩尔:** ？
 
 **安:** 玛丽安，你曾经送给我这么一句话，你还记得吗？
 
-**「玛丽安」:** 嗯。西摩尔，我希望你「成为自己命运的主人」。在你未来的时光里，去做你「想」做的事情、你认为正确的事情。
+**玛丽安:** 嗯。西摩尔，我希望你「成为自己命运的主人」。在你未来的时光里，去做你「想」做的事情、你认为正确的事情。
 
 **西摩尔:** 玛丽安小姐…
 
 **西摩尔:** 我是否应该如此理解：我过去的接受的指令，如今已经全部解除？
 
-**「玛丽安」:** 是的。现在，请你再回答我一次。西摩尔，你想做什么？
+**玛丽安:** 是的。现在，请你再回答我一次。西摩尔，你想做什么？
 
 **西摩尔:** 我想继续陪伴在您的身边，玛丽安小姐，但我也想陪伴玛梅赫小姐。我判断这两者在现实物理的时空关系下是难以兼容的。
 
-**「玛丽安」:** 这也未必。接下来，我们会踏上旅程，去看看这个世界。而玛梅赫小姐是个画家对吧？
+**玛丽安:** 这也未必。接下来，我们会踏上旅程，去看看这个世界。而玛梅赫小姐是个画家对吧？
 
-**「玛丽安」:** 就让我们的旅途彼此交会吧。让我们在沙漠、在森林、在雪原，在失落的夷斯古城、阿卡狄亚、黄金的亥珀波瑞亚留下足迹。
+**玛丽安:** 就让我们的旅途彼此交会吧。让我们在沙漠、在森林、在雪原，在失落的夷斯古城、阿卡狄亚、黄金的亥珀波瑞亚留下足迹。
 
-**「玛丽安」:** 我们将一起分享旅途中的风景和故事，你觉得如何，西摩尔？
+**玛丽安:** 我们将一起分享旅途中的风景和故事，你觉得如何，西摩尔？
 
 **西摩尔:** 我认为您的提议十分合理，玛丽安小姐。但我需要先征求玛梅赫小姐的同意。
 
-**「玛丽安」:** 嗯，那当然。就约在这个地方见面吧…
+**玛丽安:** 嗯，那当然。就约在这个地方见面吧…
 
-**「玛丽安」:** 我也很想见见那位一直陪着你的小画家呢。
+**玛丽安:** 我也很想见见那位一直陪着你的小画家呢。
 
 **西摩尔:** 已录入坐标。
 
-**「玛丽安」:** 那么，接下来…
+**玛丽安:** 那么，接下来…
 
 **安:** 旅行者、派蒙、还有卡特皮拉…你们都是最勇敢、最厉害的。谢谢你们。
 
-不叫我骑士了？
+- **旅行者:** 不叫我骑士了？
 
 **安:** 那个故事已经结束了。对我、对「我们」而言，现在的你是最为真实，又最为重要的人。
 
-**「玛丽安」:** 而不仅仅是故事中，饰演骑士的角色呢。
+**玛丽安:** 而不仅仅是故事中，饰演骑士的角色呢。
 
 **安:** 正如故事中的圣剑已经完成了它的使命，重新成为了一把剑。故事中的骑士也重新回归为人。
 
@@ -2025,7 +2153,7 @@ The hilichurl smiles before turning to leave.
 
 **安:** 当然是夸赞旅行者呀。
 
-**「玛丽安」:** 你们为无法结束的故事带来了完结，又带来了新的故事。
+**玛丽安:** 你们为无法结束的故事带来了完结，又带来了新的故事。
 
 **安:** 我们永远不会忘记。
 
@@ -2033,17 +2161,23 @@ The hilichurl smiles before turning to leave.
 
 **卡特皮拉:** 能够参与这样的故事，对我而言也颇有收获。
 
-希望你们有美好的旅程。
+- **旅行者:** 希望你们有美好的旅程。
 
-**「玛丽安」:** 嗯！我相信，我们将来一定还会再相遇的！
+**玛丽安:** 嗯！我相信，我们将来一定还会再相遇的！
 
 **西摩尔:** 那么，我也应该前往玛梅赫小姐所在的地方了。
 
 **派蒙:** 我们也一起去吧！卡特皮拉，跟我们一起来吧！
 
+##### 对话分支 1
+
 - **旅行者:** 走吧，西摩尔。
 
+##### 对话分支 2
+
 - **旅行者:** 卡特皮拉，一起见证到最后吧。
+
+##### 共同后续
 
 **卡特皮拉:** 行，我也送你们一程吧。
 
@@ -2083,9 +2217,15 @@ The hilichurl smiles before turning to leave.
 
 **玛梅赫:** 喔，对了！和她们在一起的时候，我一直在学新的画风！
 
+##### 对话分支 1
+
 - **旅行者:** 比原来的还要新奇吗？
 
+##### 对话分支 2
+
 - **旅行者:** 比原来的…还要新奇吗？
+
+##### 共同后续
 
 **玛梅赫:** 应该是更容易让大家理解的风格吧！现在就连海沫村的美露莘们，也能看明白我画的东西，而不只是说「哦哦真好看」了！
 
@@ -2107,11 +2247,11 @@ The hilichurl smiles before turning to leave.
 
 **派蒙:** 喂！立刻就付诸行动了，好厉害。
 
-**玛梅赫:** 那当然啦，如果不付诸行动，梦想就永远只是个梦想不是吗？
+**屋里的玛梅赫:** 那当然啦，如果不付诸行动，梦想就永远只是个梦想不是吗？
 
-**玛梅赫:** 颜料、颜料…
+**屋里的玛梅赫:** 颜料、颜料…
 
-**西摩尔:** 请允许我在等待的期间向你们表达谢意，旅行者先生 / 小姐、派蒙小姐，还有卡特皮拉先生。
+**西摩尔:** 请允许我在等待的期间向你们表达谢意，旅行者先生、派蒙小姐，还有卡特皮拉先生。 / 请允许我在等待的期间向你们表达谢意，旅行者小姐、派蒙小姐，还有卡特皮拉先生。
 
 **西摩尔:** 这是基于我自己的判断，如玛丽安小姐所说的，我「想」表达的谢意。在你们的帮助下，我终于完成了我应当完成的任务。
 
@@ -2127,11 +2267,11 @@ The hilichurl smiles before turning to leave.
 
 **派蒙:** 好喔，希望你们一路顺风！
 
-**玛梅赫:** 谢谢派蒙！
+**屋里的玛梅赫:** 谢谢派蒙！
 
-**玛梅赫:** 送给他们 / 她们的画、送给他们 / 她们的画…
+**屋里的玛梅赫:** 送给他们的画、送给他们的画… / 送给她们的画、送给她们的画…
 
-乖狗狗，要保护好玛梅赫。
+- **旅行者:** 乖狗狗，要保护好玛梅赫。
 
 **西摩尔:** 肯定。这也是我想做的事。
 
@@ -2153,22 +2293,54 @@ The hilichurl smiles before turning to leave.
 
 **卡特皮拉:** 那么再见喽，旅行者、派蒙。认识你们或许是在我的这个「人生」中，最幸运的事情之一。
 
+##### 对话分支 1
+
 - **旅行者:** 再见，卡特皮拉。
 
+##### 对话分支 2
+
 - **旅行者:** 彼此，卡特皮拉。
+
+##### 共同后续
 
 **派蒙:** 嗯！保重喔，卡特皮拉！真实身份别被人发现啦！会很麻烦的喔！
 
 这位丘丘人笑了笑，转身走了。
 
+**安:** 玛丽安，现在对你而言，你最想去的地方是哪里呢？
 
-**卡特皮拉:** 快点去吧，我还得等着你们成功了才能聚首呢。
+**玛丽安:** 我想想…「玛丽安」在过去的回忆，在想象的世界里待得太久了。
 
-**卡特皮拉:** 至于我为什么毫不担心这件事是否顺利…
+**玛丽安:** 现在的世界，应该跟几百年前有了很大的变化吧。
 
-**卡特皮拉:** 纳齐森科鲁兹确实是个很可靠的指导，有他在不会有什么问题的。
+**玛丽安:** 我想亲眼看看，玻璃幕墙外的世界。我想看到新的故事。
 
-**卡特皮拉:** 行，我也送你们一程吧。
+**安:** 你会害怕吗，玛丽安？
 
+**安:** 虽然知道故事一定会有结局，但是很难想象一切就这样结束了。从我诞生的时刻开始，水仙十字王国就是我的全部…
 
-**安:** 准备好离开了吗？
+**玛丽安:** 我明白，你比我更加不安。你是为了这个故事才诞生的。可是从今往后，你要去开启真正属于「安」的故事了。
+
+**玛丽安:** 而我，也要从过去的巨大影子里逐渐迈出脚步。无论是莉利丝的回忆，还是玛丽安·吉约丹的回忆，都不能代表现在的我。
+
+**玛丽安:** 我们都有好长的路呢，安。
+
+**玛丽安:** 但我相信，你一定没问题的。
+
+**玛丽安:** 如果害怕了，我们就回到这里。
+
+**玛丽安:** 即便已成废墟，只要有种子飘到这里，就会开出新的花朵。只要我们还存在于此，就能建起新的家园。
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+和卡特皮拉一起来到了海沫村外…

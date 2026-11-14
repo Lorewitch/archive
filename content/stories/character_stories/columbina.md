@@ -475,3 +475,944 @@ The bonds and legacy shared among family.
 简直就像是某种遗传，或说月神的「家训」一般。
 想到这里，哥伦比娅心中浮出一股暖意。她似乎又寻到了某种自己曾经渴望的东西。
 家人间的联系与传承。
+
+# voice_source_ids: 125000,125001,125002,125003,125004,125005,125006,125007,125008,125009,125010,125011,125012,125013,125014,125015,125016,125017,125018,125019,125020,125021,125022,125023,125024,125025,125026,125027,125028,125029,125030,125031,125032,125033,125034,125035,125036,125037,125038,125039,125040,125041,125042,125043,125044,125045,125046,125047,125048,125049,125050,125051,125052,125053,125054,125055,125056,125057,125058,125059,125060,125061,125062,125063,125064,125065,125066,125067,125068,125069,125070,125071,125072,125073,125074,125075,125076
+
+## REPLICAS_RU
+
+### Поболтаем: Пение
+
+Я пою не для кого-то одного. Но если человек остановится послушать мои песни, мне хочется, чтобы они подарили ему умиротворение.
+
+### Поболтаем: Луна
+
+Хочешь полюбоваться луной? Садись в моё кресло-качалку и наслаждайся зрелищем. Или мы можем отправиться на луну и созерцать Тейват с высоты. Как тебе больше нравится.
+
+### Поболтаем: Прогулка
+
+Я раньше каждый день подолгу гуляла в Чертоге серебряной Луны, так что не беспокойся, я не останусь позади.
+
+### Привет...
+
+Можешь звать меня Коломбина, или Куутар, или Богиня Луны... Как пожелаешь. Я привыкла к тому, что у меня много имён. Если нужно, я дарую тебе благословение луны.
+
+### Когда идёт дождь...
+
+Укрывшись от дождя и слушая, как он очищает землю, я чувствую себя в безопасности, как будто я «дома».
+
+### После дождя...
+
+Небо снова ясное. Сегодня ночью можно будет увидеть луну.
+
+### Когда гремит гром...
+
+Ах! Если молния не предвещает грозы... звук грома бывает довольно пугающим...
+
+### Когда идёт снег...
+
+Я люблю снег. Он такой красивый и безмятежный, и я могу играть в снежки с куухенки. Хочешь поиграть прямо сейчас?
+
+### Когда дует сильный ветер...
+
+Если ветер слишком сильный, и ты не можешь открыть глаза, дай мне руку. Я поведу тебя.
+
+### В пустыне...
+
+Ночью песок под ногами такой прохладный и приятный. Но днём он становится очень горячим...
+
+### Доброе утро...
+
+Доброе утро... Где же моя резинка для волос? Хм?.. Волосы растрепались? Где? Помоги мне их причесать.
+
+### Добрый день...
+
+Ах... Луна ещё не взошла. Хочу вздремнуть в обнимку с куухенки.
+
+### Добрый вечер...
+
+Ночь наступила... Разве не забавное выражение? Как будто ночь наступает на землю, споткнувшись о луну.
+
+### Спокойной ночи...
+
+Не спится? Хм... Куухенки тоже иногда не могут уснуть. Обычно в такие моменты я пою им песни и рассказываю истории. Хочешь попробовать?
+
+### О Коломбине: Повязка на глаза
+
+Я привыкла «чувствовать» с помощью куувяки - она раскрывает суть вещей лучше, чем «зрение». Однако иногда любопытство берёт верх, и я открываю глаза, чтобы посмотреть. И в этом прелесть ажурной повязки.
+
+### О Коломбине: Дом
+
+Раньше я думала, что всегда буду чувствовать себя чужой на этой земле, что луна - мой настоящий дом. Теперь у меня есть место, которое я могу назвать своим домом, и мои два дома стали ближе друг к другу.
+
+### О нас: Деяния
+
+Я слышала о тебе задолго до нашей первой встречи. Ещё когда я была с Фатуи, помню, как другие Предвестники говорили о твоих деяниях. Но у тебя так много титулов, что я... заснула ещё до того, как они дошли до твоего имени.
+
+### О нас: Путешествие
+
+Можешь рассказать, на что нужно обращать внимание во время путешествия? Например, как общаться с людьми из других стран. А? Мне следует сосредоточиться на навыках разведения костра, приёмах охоты и... транспорте? Хм. А разве нельзя просто использовать куувяки для всего этого?
+
+### О слиянии трёх лун...
+
+Три богини передали мне свои силы, которые слились в одну, ослепительную и нежную. Через неё я чувствую их любовь к этому миру, ощущаю надежды, которые они возлагали на него, и благословения, которые они дарили ему в последние мгновения своей жизни. Я унаследую их лунный свет и буду освещать им мир под луной - место, которое мы все называем «домом».
+
+### Давай поделимся...
+
+Ещё в Снежной, будучи Третьим из Предвестников Фатуи, я пользовалась многими привилегиями. Мне не нужно было покупать билет на поезд или стоять в очереди на спектакль Королевской труппы... Ах да, и когда обедала в ресторане, мне... «возмещали расходы». Это выходило за рамки моего понимания, поэтому я ходила в рестораны с Сандроне или Арлекино.
+
+### Интересные вещи...
+
+Луна прекраснее, чем я могла себе представить. Голубая куувяки спокойно течёт, превращаясь в бескрайний океан, великолепные медузы, дрейфующие по морю, розовые инеевые финвалы, приплывающие из неведомых мест, огромные куухенки... Как только я приведу свой дом в более презентабельный вид, приглашу друзей в гости.
+
+### О Лауме...
+
+Если направить лунный свет на голову Лаумы, её рога вырастут ещё выше. А если правильно рассчитать угол, то можно даже достать фрукты, до которых иначе не добраться... Что будет потом? Хм... Меня отругают.
+
+### О Николь...
+
+Мы поддерживали связь до недавнего времени. Я попросила её порекомендовать книги, которые я могла бы почитать куухенки. Она прислала мне целую гору книг и дала исчерпывающие пояснения о том, что послужило источником вдохновения для каждой из них и в каком контексте они были написаны. Я спросила, когда смогу прочитать книгу за её авторством, но потом вдруг перестала получать от неё вести. Возможно... она ушла писать книгу.
+
+### О Нёвиллете...
+
+Гидро Дракон - верховный судья Фонтейна? Хм... Похоже, он из тех драконов, которые любят держать людей в заточении. Не особо хочется с ним встречаться.
+
+### О Семи...
+
+Если наши пути пересекутся во время моего путешествия, я обязательно поздороваюсь.
+
+### О Ледяной Царице...
+
+Когда я впервые пела в саду Заполярного дворца, мимо проходила Царица. Она стояла молча и неподвижно словно статуя с бесстрастным выражением лица. На мгновение мне показалось, что она хочет мне что-то сказать, но она так и не произнесла ни слова.
+Она скрывает свои эмоции под толстым слоем льда. Внешний мир видит только одну сторону её личности... Царицу. Если ответы, которые я искала, находятся на луне, то её ответы, вероятно, погребены под толстым слоем снега и льда.
+
+### О Шуте...
+
+Он полная противоположность своему прозвищу, и это, по-видимому, сделано намеренно. Он известен как Шут, но его манера речи строгая и серьёзная, а сам он говорит загадками. На его маске изображена ухмылка, которая насмехается над миром, но сам он никогда не улыбается.
+
+### О Капитане...
+
+Многие уважают его, но столько же и боятся. Хм? Слишком запутанно? Понимаешь, существа, привыкшие жить в темноте, никогда не решатся приблизиться к свету. Это слишком опасно, ведь свет лишь удлиняет их тени.
+
+### О Докторе...
+
+Было время, когда Доктор заботился обо мне. Говорил, что относится ко мне как к родной сестре.
+Позже я поняла, что чем ближе человек к нему, тем легче ему этим человеком манипулировать. «Мы семья, а потому должны быть терпимее друг к другу, разве нет?» Я видела, что он искренне так думал, но я не хотела «терпеть». Эти ожидания напоминали мне о жадных взглядах возле алтаря в моём первом доме.
+
+### Об Арлекино...
+
+В Доме очага много детей, и иногда бывает шумно. Я слышала, как они называют Арлекино Отцом, и думала, что это правило, которому нужно следовать в этом месте. Поэтому, когда Арлекино проходила мимо, я тоже назвала её Отцом. И только тогда я узнала, насколько может быть тихо в Доме очага.
+
+### О Цыплёнке...
+
+Я могу научить тебя говорить так же, как он - всё, что тебе нужно сделать, это объединить «мору», «этот проклятый Панталоне» и «запомни мои слова» в одной фразе. Сейчас покажу. «Где мора? Запомни мои слова, я убью этого проклятого Панталоне». Или вот ещё: «Этот проклятый Панталоне будет кашлять морой, запомни мои слова». Видишь, как интересно?
+
+### О Сандроне: Механический ключ I
+
+Интересно, ключ на её спине когда-нибудь перестаёт вращаться? Он меняет направление? Она снимает его, когда спит? Как она переворачивается? Меня интересовал этот ключ с момента нашей первой встречи. Но поскольку мы тогда не были близки, мне казалось неуместным подойти и потрогать его. Поэтому, при любой возможности, я следовала за ней, пытаясь понять, как он движется. Но однажды она внезапно обернулась и спросила, почему я за ней хожу. Когда я объяснила ей причину, она сказала: «Если тебе так интересно, я могу прикрепить такой же к твоей спине, и ты сама всё увидишь». Так я прожила несколько дней с ключом на спине, и это было довольно непросто. Сандроне нелегко, поэтому с тех пор я стала больше заботиться о ней.
+
+### О Сандроне: Механический ключ II
+
+Я не знаю, что считается «смертью» для куклы... Я знаю только, что Сандроне не двигается, и я не чувствую, что она «работает». Её ключ... остановился. И всё из-за «техники», которую она использовала, чтобы вернуть меня к жизни. Она сказала, что однажды отомстит мне. Я бы очень хотела, чтобы всё было именно так, что это была лишь попытка напугать меня...
+
+### О Дельце...
+
+В его глазах все и каждый имеют цену, и он сам решает, какова их ценность. Мы все для него лишь предметы торга, которые он может использовать для расширения своей непрерывно растущей империи богатства. Но кто захочет побывать в такой скучной империи? Я точно не хочу.
+Хм... Если бы он увидел меня сейчас, я уверена, его улыбка скрывала бы ещё больше презрения, чем раньше. Я словно слышу его слова: «Поздравляю, Коломбина. Твоя ценность возросла».
+
+### О Розалине...
+
+Если метаморфоза заканчивается тем, что пламя поглощает крылья, то, возможно, остаться в коконе - это единственный способ выжить. Но я сомневаюсь, что Розалина когда-либо рассматривала такой вариант, или, возможно, она с самого начала была готова к такому исходу. Будь то любовь, ненависть или просто танец, она всецело отдавала себя своим стремлениям... и после смерти другим оставалось лишь спеть ей похоронную песню.
+
+### О Чайльде...
+
+Говорят, у него хорошие отношения с семьёй: они все вместе выезжают на природу и устраивают пикники у озера. Сандроне говорит, что из всех Предвестников его образ жизни больше всего похож на жизнь обычного человека. Я не очень понимаю обычных людей, но такая жизнь мне импонирует.
+
+### Узнать больше о Коломбине I
+
+Э... моя история? Хм... Это долгая история. О, ты приготовил чай и закуски? Тогда в качестве благодарности я расскажу побольше. / Э... моя история? Хм... Это долгая история. О, ты приготовила чай и закуски? Тогда в качестве благодарности я расскажу побольше.
+
+### Узнать больше о Коломбине II
+
+Я потратила много времени, чтобы научиться общаться с людьми и жить в этом мире. Но, оглядываясь назад, я понимаю, что мой опыт общения с Детьми Морозной Луны и Фатуи был не самым лучшим. Долгое время я думала, что отношения построены на принципах получения выгоды - их единственная цель заключается в том, чтобы понять, что ты можешь взять, и что тебе за это придётся отдать.
+
+### Узнать больше о Коломбине III
+
+Я люблю рассказывать истории куухенки и петь песни. В моей жизни есть пустота, которая существовала ещё до моего рождения и с тех пор преследует меня. Моя история с самого начала была неполной, поэтому я научилась использовать другие истории, чтобы заполнить пробелы. Я пытаюсь обрисовать её контуры словами и раскрасить её песнями.
+
+### Узнать больше о Коломбине IV
+
+В Ночь лунной молитвы я получила своё имя - Коломбина Гипоселениа. Раньше я думала, что имя - это просто обозначение, что-то внешнее по отношению к себе. Но после той ночи я поняла: имя - это моя связь с этим миром, оно содержит чувства моих друзей, это эхо того «я», которое живёт в их сердцах. Я буду дорожить этим именем.
+
+### Узнать больше о Коломбине V
+
+Моя история похожа на оперу, которая идёт в обратном порядке. Сначала был конец, а потом я стала искать причины и объяснения. Но если бы я могла вернуться назад и прожить всё заново, я бы ничего не изменила. Мне нравится, как всё сложилось. Без этого путешествия я бы никогда не узнала, что родиться в Нод-Крае было моим собственным выбором, мои друзья никогда бы не помогли мне найти мою настоящую «семью», а ты никогда бы не последовал за луоннотар в Чертог серебряной Луны в ту ночь. Моя история могла бы обернуться другой пустотой, и я этого не хочу. / Моя история похожа на оперу, которая идёт в обратном порядке. Сначала был конец, а потом я стала искать причины и объяснения. Но если бы я могла вернуться назад и прожить всё заново, я бы ничего не изменила. Мне нравится, как всё сложилось. Без этого путешествия я бы никогда не узнала, что родиться в Нод-Крае было моим собственным выбором, мои друзья никогда бы не помогли мне найти мою настоящую «семью», а ты никогда бы не последовала за луоннотар в Чертог серебряной Луны в ту ночь. Моя история могла бы обернуться другой пустотой, и я этого не хочу.
+
+### Хобби Коломбины...
+
+Мне нравится подниматься на Луну и наблюдать, как Тейват безмолвно вращается. Это приносит мне умиротворение.
+
+### Беспокойство Коломбины...
+
+Хочется гулять по Нашгороду как обычный человек... но меня всегда узнают. Может, дело в моей одежде? Или в том, что я разговариваю с куухенки в городе? Обычные люди так не делают?
+
+### Любимая еда...
+
+Свежие фрукты и овощи в сочетании с ароматным хлебом... Хм? Наверное, это немного простовато, но я к такому привыкла. Именно так меня кормили Дети Морозной Луны, когда я только родилась в Нод-Крае. Маленькие животные часто делились со мной ягодами, которые они собирали. Я предпочитаю еду в её наиболее естественном виде - это позволяет увидеть мир в его истинном обличье.
+
+### Нелюбимая еда...
+
+Огненная вода и другие крепкие напитки. В Снежной их много. Я провела там много времени, но так и не смогла к ним привыкнуть. Почему людям нравится это ощущение, когда тело горит, а мир вращается? Может, они тоже хотят улететь на Луну?
+
+### Подарок I
+
+Хочу ещё. Хм?.. Больше нет? Надо будет запомнить в следующий раз приберечь немного.
+
+### Подарок II
+
+Неплохо, я буду не спеша наслаждаться этим при лунном свете.
+
+### Подарок III
+
+Хм... Сандроне давала мне нечто подобное, когда я её злила...
+
+### День рождения...
+
+Твой день рождения каждый год в один и тот же день? Как удобно. Ночь лунной молитвы проводится каждый год в разное время, я только могу по луне определить, когда мой день рождения. Но день рождения - это и правда радостный праздник. Все собираются вместе, танцуют и готовят вкусные блюда. А?.. У обычных людей дни рождения не такие? Подарки, торт и друзья?.. Хм, хорошо, давай позовём друзей отпраздновать вместе. Я могу спеть тебе песню, а ещё попрошу Маалаус нарисовать для тебя картину.
+
+### Чувство возвышения: Начало
+
+По Вечной Луне поднимутся приливы.
+
+### Чувство возвышения: Нарастание
+
+Холодная ночь озарена светом Морозной Луны.
+
+### Чувство возвышения: Кульминация
+
+Под Радужной Луной тьма погрузится ещё глубже во мрак.
+
+### Чувство возвышения: Окончание
+
+Нити судьбы находятся в моих руках. Отныне новая луна будет наблюдать за миром и освещать его.
+
+### Элементальный навык I
+
+Поток.
+
+### Элементальный навык II
+
+Достаточно.
+
+### Элементальный навык III
+
+Сияние.
+
+### Взрыв стихии I
+
+Восходит новая луна.
+
+### Взрыв стихии II
+
+Слияние трёх лун.
+
+### Взрыв стихии III
+
+Лунную ночь для всего сущего.
+
+### Открытие сундука I
+
+Это «сюрприз»... да?
+
+### Открытие сундука II
+
+Они тоже убежали из дома?
+
+### Открытие сундука III
+
+Мне больше не нужны подношения, возьми их себе.
+
+### Низкий уровень HP I
+
+Голова кружится...
+
+### Низкий уровень HP II
+
+Ночь становится темнее...
+
+### Низкий уровень HP III
+
+Мне нехорошо...
+
+### Низкий уровень HP компаньона I
+
+Голова кружится? Позволь мне поддержать тебя.
+
+### Низкий уровень HP компаньона II
+
+Хочешь отдохнуть?
+
+### Без сознания I
+
+Ночное небо... снова темнеет...
+
+### Без сознания II
+
+Луна... разбилась...
+
+### Без сознания III
+
+Цена... разлуки...
+
+### Получен лёгкий удар I
+
+Я в порядке...
+
+### Получен тяжёлый удар I
+
+Ай!..
+
+### Получен тяжёлый удар II
+
+...Почему?
+
+### Присоединяется к группе I
+
+Одолжить тебе лунный свет?
+
+### Присоединяется к группе II
+
+Мы надолго уходим?
+
+### Присоединяется к группе III
+
+Хорошо, я пойду с тобой.
+
+### О Сандроне: Механический ключ III
+
+Я так рада, что Сандроне вернулась. Я заметила, что её механический ключ теперь иногда вращается чуть быстрее. Раньше он всегда вращался с одинаковой скоростью. Она сказала, что причина в том, что она приняла свои самые сокровенные чувства и изменилась. Но независимо от того, сменила ли она наряд или её ключ стал вращаться быстрее, для меня Сандроне - всё та же Сандроне, моя лучшая подруга. Мне очень нравится и то, какой она была раньше, и то, какой стала сейчас. Я сказала ей об этом, и её ключ закрутился ещё быстрее. Не знаю, в чём причина, но это очень интересно.
+
+## REPLICAS_EN
+
+### Chat: Singing
+
+I don't sing for anyone in particular. Still, if someone stops to listen, I hope it provides a moment of peace all the same.
+
+### Chat: Moongazing
+
+Would you like to go moongazing? You can sit in my rocking chair and admire the view. Or we could go to the moon and gaze down at Teyvat. Whatever you prefer.
+
+### Chat: Long Walks
+
+I used to take long walks in Silvermoon Hall every day, so don't worry about me. I can keep up.
+
+### Hello
+
+You can call me Columbina, or Kuutar, or Moon Goddess... Whatever you prefer. I'm used to having many names. The moon's blessing is yours, whenever you might find yourself in need.
+
+### When It Rains
+
+Taking shelter and listening to the rain cleanse the earth makes me feel safe, like being "home."
+
+### After the Rain
+
+The sky is clear again. We should be able to see the moon tonight.
+
+### When Thunder Strikes
+
+Ah...! Without lightning to give warning... the sound of thunder is quite startling...
+
+### When It Snows
+
+I love the snow. It's so beautiful and peaceful, and I can have snowball fights with the kuuhenki. Shall we have one now?
+
+### When the Wind Is Blowing
+
+If the wind is too strong to keep your eyes open, give me your hand. I'll guide you.
+
+### In the Desert
+
+The sand is cool and comfortable to walk on at night, but it gets so hot during the day...
+
+### Good Morning
+
+Good morning... Have you seen my hair tie? Hmm? My hair looks messy...? Which part? Could you brush it for me?
+
+### Good Afternoon
+
+Hmm... The moon hasn't risen yet. I think I'll take a nap with the kuuhenki.
+
+### Good Evening
+
+"Nightfall"... Quite an interesting expression, don't you think? It's as if night tumbles in each evening, tripping over the moon.
+
+### Good Night
+
+Can't sleep? Hmm... The kuuhenki have that problem too sometimes. When that happens, I usually sing to them or tell them stories. Would you like me to do that for you?
+
+### About Columbina: Eye Mask
+
+I'm used to "sensing" things with kuuvahki — it reveals the truth of things better than "seeing" does. Still, curiosity does sometimes get the better of me, and I open my eyes to take a peek. That's the nice thing about having an eye mask with holes.
+
+### About Columbina: Home
+
+I used to think I would forever be a stranger to this land — that the moon was my true "home." Now, I have an additional place to call home, and both my homes are now closer by.
+
+### About Us: Great Deeds
+
+I heard about you long before we met. Back when I was with the Fatui, I remember the other Harbingers talking about your deeds. But you have so many titles, I... fell asleep before they even got to your name.
+
+### About Us: Traveling
+
+Could you give me some tips for traveling? Like... how to talk to people from other nations. Hmm? I should focus more on fire-building skills, hunting techniques, and... transport? Huh. Couldn't I just use kuuvahki for all that?
+
+### About the "Tri-Lunar Convergence"
+
+The three goddesses bestowed their powers upon me, which converged into a force that is both dazzling and gentle. Through it, I can feel their attachment to this place, and I can sense the hopes and wishes they offered to this world in their final moments. I will inherit their moonlight and use it to illuminate the world beneath the moon — the place we all call "home".
+
+### Something to Share
+
+Back in Snezhnaya, being Third of the Fatui Harbingers came with a lot of perks. I didn't need to purchase a ticket for the train or stand in line for the Korolevskiy Troupe... Ah, and when I dined at a restaurant, I could get... "reimbursed"? That was a bit too complicated for me to understand, though, so I just tagged along with Sandrone or Arlecchino instead.
+
+### Interesting Things
+
+The moon is more beautiful than I could have imagined. Blue kuuvahki flowing like an endless ocean, magnificent jellyfish drifting across the sea, pink frostfin whales coming from places unknown, enormous kuuhenki... It's magnificent. Once I've made my home a bit more presentable, I'll invite my friends up to visit.
+
+### About Lauma
+
+Aiming a beam of moonlight at Lauma's head makes her antlers grow taller, and if you get the angle just right, you can even get them to stab a piece of fruit that's too high to reach... Hmm? What then? Oh, um... You get scolded.
+
+### About Nicole
+
+Oh, we kept in touch until a short while ago. I asked her to recommend some books for me to read to the kuuhenki. She sent a whole lot and even gave me detailed explanations about the inspiration and setting for each one. I asked her when I might be able to read a book she had authored herself, but then I suddenly stopped hearing from her. Perhaps... she went off to write one.
+
+### About Neuvillette
+
+The Hydro Dragon who serves as the Iudex of Fontaine? Hmm... Another Dragon who puts people in prison. I'm not sure I'd want to meet him.
+
+### About The Seven
+
+If we cross paths during my journey, I'll be sure to say hello.
+
+### About the Tsaritsa
+
+The first time I sang in the gardens of Zapolyarny Palace, the Tsaritsa happened to pass by. She stood there, silent and motionless, like a statue with no expression carved onto the face. For a moment, I felt as if she wanted to say something to me, but she never did.
+She seals her emotions beneath thick sheets of ice. The outside world sees but one side of who she is... that of the Tsaritsa. If the answers I sought rest on the moon, perhaps hers lie buried in snow and ice.
+
+### About The Jester
+
+He's quite the opposite of his codename, and that seems to be intentional. Although he's known as "The Jester," his tone is stern and serious, and he speaks in confusing riddles. The mask he wears depicts a grin that mocks the world, but he himself never smiles.
+
+### About The Captain
+
+Many respect him, but just as many fear him. Hmm? Is that too confusing? Well, you see, creatures accustomed to living in darkness will never choose to get close to the light. It's too dangerous, for light would only lengthen their own shadow.
+
+### About The Doctor
+
+There was a time when "The Doctor" took care of me, even claiming to think of me as a sister.
+It was only later that I discovered, the closer you are to him, the more freely he uses you. "What's a little discomfort among family? We endure for each other, surely." That's how he thought of things, and I could tell he meant it, but I didn't want to have to "endure." Expectations like that... They took me back to my first home, and the eyes staring up at me from beneath the altar, so full of greed.
+
+### About Arlecchino
+
+The House of the Hearth is home to many children, and it can get quite noisy. The first time I heard them call Arlecchino "Father," I thought it was a rule that had to be followed there. So, the next time she passed by, I used that title as well. That's when I learned just how quiet the House of the Hearth could become.
+
+### About The Rooster
+
+I can teach you to talk just like him — all you have to do is combine the words "money," "that darn Pantalone," and "mark my words." Here, I'll show you. "Where's the money? Mark my words, I'm going to kill that darn Pantalone." Or, "That darn Pantalone is going to cough up the money, mark my words." See? Isn't that fascinating?
+
+### About Sandrone: Clockwork Nature
+
+I wonder, does the key on her back ever stop turning? Does it change direction? Does she remove it when she sleeps? How does she roll over? I've been curious about that key ever since I first met her. But since we weren't close then, it didn't seem right to just go up and touch it. So whenever I had the chance, I would follow behind her, trying to figure out the pattern of its movement. But one day, she suddenly turned around and demanded to know why I kept following her. After I told her the reason, she said, "If you're that curious, why don't I put one on your back, and you can see for yourself?" So I lived with a key on my back for a few days, and it was quite the challenge. Sandrone doesn't have it easy, so I've looked out for her even more since then.
+
+### About Sandrone: Clockwork Nature II
+
+I'm not sure what counts as "death" for a puppet... All I know is, Sandrone isn't moving, and I can't feel her "operating." Her key has just... stopped. And all because of the "technique" she used to bring me back. She said she was going to get back at me that one time. How I wish that's all this was. Just an attempt to scare me...
+
+### About Regrator
+
+In his eyes, everything and everyone has a price tag, and he gets to decide their value. We're all just bargaining chips he can use to expand his ever-increasing empire of wealth. But who would want to visit a boring empire like that? Not me, that's for sure.
+Hmm... If he saw me now, I'm sure his smile would hide even more contempt than before. I can almost hear it now... "Congratulations, Miss Columbina. Your value has appreciated."
+
+### About Rosalyne
+
+If metamorphosis ends in one's wings being engulfed in flame, perhaps remaining in the cocoon is how one survives. But, I doubt Rosalyne ever considered making that choice, or perhaps she had determined her own end from the very beginning. Whether it was love, hate, or a simple dance, she gave her whole self to her pursuits... and left others to sing her dirge after her departure.
+
+### About Childe
+
+I've heard he has a good relationship with his family. They go camping together and have barbecues by the lake. Sandrone says he's the Harbinger who lives most like an ordinary person. I don't really understand ordinary people, but that kind of life sounds nice to me.
+
+### More About Columbina: I
+
+Huh...? My story? Um... That might take quite a while to tell. Oh, you brought tea and snacks? Well then, I suppose I could share a bit more in return.
+
+### More About Columbina: II
+
+I used to spend a lot of time learning how to interact with people and go about life in this world. But looking back now, perhaps my experiences with the Frostmoon Scions and the Fatui weren't the best teachers. For a long time, I thought relationships were transactional — their only purpose being figuring out what you can take, and what it might cost you in return.
+
+### More About Columbina: III
+
+I love telling stories to the kuuhenki, and I love to sing. There's a blank space in my life that has existed since before I was born and has shadowed me since. My story was incomplete from the start, so I've learned to use other stories to fill in the gaps. It's like... painting a picture — I sketch the outline with words and color it in with song.
+
+### More About Columbina: IV
+
+On Moon-Prayer Night, I received a name that belongs to me — Columbina Hyposelenia. I used to think a name was nothing more than an alias, something separate from oneself. But after that night, I realized my name is what connects me to this world and the people within it... It is all that is intangible — their friendship, love, and support — manifested for the world to see. I will cherish it forever.
+
+### More About Columbina: V
+
+My story is like an opera played in reverse. The ending came first, and I was left searching for the whys and wherefores. But if I could go back and do it all over again, I wouldn't change a thing. I quite like it as it is now. Without this journey, I never would have known that being born in Nod-Krai was my own choice, my friends never would have helped me connect with my true "family," and you never would have followed Luonnotar into Silvermoon Hall that night. My story would have been empty in a very different way. I don't like that version one bit.
+
+### Columbina's Hobbies
+
+I like to go up to the moon and watch Teyvat revolve in silence. It brings me peace.
+
+### Columbina's Troubles
+
+I wish I could take a stroll in Nasha Town like a normal person... But I keep getting recognized. Is it my outfit? Or the fact that I talk to the kuuhenki in town? Do normal people not do that?
+
+### Favorite Food
+
+Fresh fruit and vegetables paired with fragrant bread... Hmm? Oh, well, I suppose it is a bit plain, but I'm used to it. It's what the Frostmoon Scions gave me when I was first born in Nod-Krai. The little animals often shared their foraged berries with me too. I prefer food in its most natural state — it allows you to get a glimpse of the world as it's meant to be.
+
+### Least Favorite Food
+
+"Fire-Water" and other strong spirits. Snezhnaya has a lot of drinks like that. I was there for a long time, but I never got used to them. The world starts to spin and you feel like your insides are on fire. I just don't understand why people enjoy that feeling, unless... Do they want to float up to the moon too?
+
+### Receiving a Gift: I
+
+More please. Hmm? Oh, was that all? I'll have to remember to save some next time.
+
+### Receiving a Gift: II
+
+It's quite pleasant. I'll savor it beneath the moonlight.
+
+### Receiving a Gift: III
+
+Oh... Whenever Sandrone was mad at me, she'd give me things like this too...
+
+### Birthday
+
+Your birthday is on the same day every year? Wow, that's easy to remember. Moon-Prayer Night is held at different times each year, so I can only estimate my birthday by sensing the moon. A birthday is such a joyous occasion, isn't it? Everyone gathers to dance while people make delicious offerings to give you. Huh...? Regular people's birthdays aren't like that? Gifts, cake, and friends...? Oh, that works too. Let's invite your friends to celebrate. I can sing you a song, and we can even ask Maalaus to paint a picture for you.
+
+### Feelings About Ascension: Intro
+
+By the Eternal Moon, the tides shall surge.
+
+### Feelings About Ascension: Building Up
+
+By the Frost Moon, the night shall be illuminated.
+
+### Feelings About Ascension: Climax
+
+By the Iridescent Moon, darkness shall be cast deeper into the shadows.
+
+### Feelings About Ascension: Conclusion
+
+I now hold the threads of fate in my hands. From now on, the new moon shall watch over and illuminate the world below.
+
+### Elemental Skill: I
+
+Flow.
+
+### Elemental Skill: II
+
+Surge.
+
+### Elemental Skill: III
+
+Wane.
+
+### Elemental Burst: I
+
+A new moon rises.
+
+### Elemental Burst: II
+
+Three moons converge.
+
+### Elemental Burst: III
+
+A moonlit night for all.
+
+### Opening Treasure Chest: I
+
+They call this a "pleasant surprise"... right?
+
+### Opening Treasure Chest: II
+
+Hmm, did they run from home too?
+
+### Opening Treasure Chest: III
+
+You keep them. I no longer need offerings.
+
+### Low HP: I
+
+Getting dizzy...
+
+### Low HP: II
+
+It's growing dark...
+
+### Low HP: III
+
+Not doing so well...
+
+### Ally at Low HP: I
+
+Feeling woozy? Allow me to step in.
+
+### Ally at Low HP: II
+
+How about some rest?
+
+### Fallen: I
+
+The night sky... dims... once more...
+
+### Fallen: II
+
+The moon has... waned...
+
+### Fallen: III
+
+The price... of leaving home...
+
+### Light Hit Taken: I
+
+I'm fine...
+
+### Heavy Hit Taken: I
+
+Ouch...!
+
+### Heavy Hit Taken: II
+
+...Why?
+
+### Joining Party: I
+
+Allow me to lend you some moonlight.
+
+### Joining Party: II
+
+Will we be gone long?
+
+### Joining Party: III
+
+I will follow where you lead.
+
+### About Sandrone: Clockwork Nature III
+
+Sandrone has returned. I'm so happy. I noticed her wind-up key sometimes turns a bit faster now — it always seemed to turn at the same speed before. She said it's because she's embraced her inner feelings, and that she's different now. But whether she's changed her outfit or her key turns faster, I feel like Sandrone is still Sandrone, my best friend. Whether it's her past or present self, she has my complete admiration. I told her this, and her key turned faster. I don't know why, but it's really interesting.
+
+## REPLICAS_ZH
+
+### 闲聊·歌
+
+我的歌并不为谁而唱。但如果有人驻足聆听，我希望他能从中获得片刻的安宁。
+
+### 闲聊·月亮
+
+想要赏月吗？你可以坐到我的摇椅上，找个舒服的角度。或者我们一起去月亮上，赏提瓦特也行。
+
+### 闲聊·漫步
+
+我过去每天都会在银月之庭漫步很久，不用担心我跟不上你的步伐。
+
+### 初次见面…
+
+你可以叫我哥伦比娅，也可以叫我库塔尔、月神大人…选你喜欢的吧。我习惯了有很多名字的日子。若你需要的话，我会给予你月亮的赐福。
+
+### 下雨的时候…
+
+避雨的时候倾听雨水冲刷大地，会给我一种在「家」的安全感。
+
+### 雨过天晴…
+
+天晴了，晚上应该能看到月亮吧？
+
+### 打雷的时候…
+
+唔…！看不到闪电的话…很容易被雷声吓到…
+
+### 下雪的时候…
+
+我喜欢雪。美丽又安静，还能和月灵们打雪仗。你想现在来玩玩吗？
+
+### 刮大风了…
+
+睁不开眼的话，就把手给我，我带你走。
+
+### 在沙漠的时候…
+
+夜晚的沙子踩上去很凉快，很舒服。但到了白天就会变得好烫好烫…
+
+### 早上好…
+
+早…看到我的发绳了吗？嗯？头发有些乱…？在哪边？帮我梳梳。
+
+### 中午好…
+
+呼…月亮还没升起来，我想先抱着月灵们睡个午觉。
+
+### 晚上好…
+
+夜幕落下…不觉得这种说法很有趣吗？就好像「夜晚」是被月亮绊了一跤才掉下来的一样。
+
+### 晚安…
+
+睡不着吗？唔…月灵们有时也会这样。一般这种时候，我就给月灵们唱唱歌，讲讲故事。要不要给你也试试？
+
+### 关于哥伦比娅自己·眼罩
+
+我习惯了用月矩力去「感受」，这比「看」更能为我展现事物的真相。不过，我偶尔遇到好奇的时候，也会悄悄睁开眼睛偷看一下。我的眼罩是镂空的。
+
+### 关于哥伦比娅自己·家
+
+我曾以为自己一直在流浪，月亮才是我的「家」。但现在，我的「家」不仅变多了，也变得更近了。
+
+### 关于我们·事迹
+
+我很久之前就听说过你。在「愚人众」的时候，其他执行官聊起过你的事迹。但似乎当时觉得你的名号太多，他们还没讲到名字的时候，我就已经睡着了。
+
+### 关于我们·旅行
+
+能告诉我一些旅行期间的注意事项吗？比如怎么和其他国家的人说话之类的。嗯…？你说更应该关注生火和捕猎的技巧…日常的交通方式？这些…不是用月矩力就可以了吗？
+
+### 关于「三相月临」…
+
+三位女神将她们的权能交予了我。三份力量互相交汇，很耀眼，又很温柔。我能从中感受到她们对这个世界的眷恋，以及在生命最后时刻给予这个世界的期盼与祝福。我将继承她们的月光，让它照亮月下的世界，照亮我们共同的「家」。
+
+### 有什么想要分享…
+
+在至冬作为「愚人众」执行官第三席的时候，能够享受到许多生活中的便利。坐列车不用买票、去科洛列夫茨基剧团也不用排队…啊，但去餐厅吃饭的话，虽然能够…「报销」？但那好像很复杂，我搞不懂。所以我都是和桑多涅，或者阿蕾奇诺一起去吃。
+
+### 感兴趣的见闻…
+
+月亮上的风景比我之前期待的还要美丽得多。蓝色的月矩力静静流淌，变为了一眼望不到边的海洋。漂亮的水母们在这片月色的海洋上自由飘荡。还有不知生活在哪里的粉色霜鳍鲸、好大好大的月灵…等我花些时间，把月亮上的「家」打理好，就请朋友们来做客吧。
+
+### 关于菈乌玛…
+
+要是往菈乌玛头顶的方向递去一缕月光，她的角冠就会长得更高更大，算准角度，还能一下子戳中长在高处的果实…后来？嗯…被训了。
+
+### 关于尼可…
+
+前段时间我们还保持着联系。「有没有推荐的书？想拿来读给月灵们听。」像这样和尼可小姐说了一句之后，她送来了很多有趣的书籍，还向我详细介绍了每一个故事的灵感和设定。我问她，「什么时候才能读到尼可小姐亲笔写的书呢？」结果她突然消失不见了。嗯…或许是写书去了吧。
+
+### 关于那维莱特…
+
+在枫丹担任最高审判官的水之龙？唔…听上去也是一位会将人投进囚牢的龙呢。不太想见他。
+
+### 关于尘世七执政…
+
+如果在旅途中巧遇的话，我会和他们打个招呼的。
+
+### 关于「冰之女皇」…
+
+我第一次在至冬宫的花园里唱歌的时候，「女皇」恰好途经那里，她静静地站在一旁，像一尊还没来得及刻画表情的雕像。有一刻，我感觉她想对我说些什么，但没有。
+她把感情封进了厚厚的冰层，只对外显露她作为女皇的一角…我的答案留在月亮上，她的答案，或许葬在了冰山之下。
+
+### 关于「丑角」…
+
+他像是故意想成为他代号的反语。名为「丑角」，语调却严肃深沉，总是说些难懂的话。他佩戴嗤笑世界的面具，自己却从不微笑。
+
+### 关于「队长」…
+
+尊敬他的人不少，畏惧他的人也多。唔…不好懂么？那些习惯生活在阴暗处的生物是不会选择靠近光源的。光太危险，只会拖长他们自身的影子。
+
+### 关于「博士」…
+
+曾有一段时间，「博士」很照顾我，他说对待我就像对待自己的妹妹一样。
+后来我发现，越是在他心中亲近的人，他利用起来便越是自如。「既然是一家人，应该要学着忍让吧？」我看得出他由衷那么想，而我不想那么做。这种需要只会令我回想起在第一个家时，石台下的那些贪婪目光。
+
+### 关于阿蕾奇诺…
+
+壁炉之家孩子们很多，有时会有些吵闹。我听见他们都叫阿蕾奇诺「父亲」，以为这是在壁炉之家时需要遵守的规矩。于是我在阿蕾奇诺经过时，也那样叫了一声。然后我才知道，原来壁炉之家还能那么安静。
+
+### 关于「公鸡」…
+
+我可以教你怎么学他说话，只需要把「钱」、「该死的潘塔罗涅」和「我保证」三个词组混在一起就行了。「钱呢？该死的潘塔罗涅。我保证过的」是一种，「我保证让该死的潘塔罗涅吐出钱来」又是一种。你看，很神奇吧？
+
+### 关于桑多涅·发条
+
+她背后的发条会一直转吗？是永远朝同一个方向转吗？睡觉的时候，她会把发条拆下来吗？翻身要怎么办？刚见到桑多涅的时候，我就对她的发条产生了好奇。但那时和她还不熟，直接去碰似乎也不太好。所以我只要有机会就一直跟在她身后，想找到她发条转动的规律。但有一天，她突然转过身，看起来很生气地质问我为什么总要跟着她。我老老实实告诉她之后，她对我说，「你那么好奇的话，我给你背后安一个试试得了」。于是我就背着发条生活了几天，唔…的确很辛苦，桑多涅的生活真不容易。自那之后，我就更关心她了。
+
+### 关于桑多涅·发条其二
+
+我不清楚对人偶来说，怎么样才算是「死亡」…但桑多涅真的不动了，我感受不到她的「运转」，她的发条也不动了。她是为了那个「术式」，为了让我回到这里，才变成了这样…我多么希望她这么做只是为了吓我一次，就像她曾经说过会报复我的那样…
+
+### 关于「富人」…
+
+在他眼中，每件事物，每个人，都是被明码标价了的，他掌握着价格的规则，通过运作筹码来扩建他的财富帝国。但那个地方很无聊，我也不会想去做客的。
+啊…如果「富人」见到现在的我，他的笑容里一定会藏入比以往更深的厌恶吧。我都能想象出他的声音了。「恭喜你升值了，哥伦比娅小姐。」
+
+### 关于罗莎琳…
+
+如果羽化意味着催动翅膀扑向火焰，那么维持茧的形态是否才是留存生命的更好选择？罗莎琳仿佛从没考虑过可以那么选，又或者她早已为自己选定了结局。她尽情爱，尽情恨，尽情舞…然后将哀歌留给别人来唱。
+
+### 关于「公子」…
+
+听说他和家人的感情很好，休假的时候会举家外出，去湖边露营烧烤。桑多涅说他是执行官当中生活得最像普通人的那一个，我不了解普通人，但我觉得那样的日子听上去倒是不错。
+
+### 想要了解哥伦比娅·其一
+
+欸…？我的故事？唔…那可能要说很长时间。嗯？你准备了茶水和点心？好吧，那作为回报，我就多讲一些。
+
+### 想要了解哥伦比娅·其二
+
+我曾用很长时间去学习如何同他人相处，如何同这个世界相处。现在回想起来，最初在「霜月之子」和「愚人众」的两段经历，都不是很好的教材呢。以至于很长一段日子里，我都以为相处和交往即是利益的索求与代价的支付。
+
+### 想要了解哥伦比娅·其三
+
+我喜欢为月灵们讲故事，也喜欢唱歌。我的人生有一块空白，它出现在我诞生之前，却如一个胎记般伴随着我的生活。当你的故事生来就是残缺的，你就得学着用其他故事去填补这个空白。我尝试用词语去摹画它的轮廓，又用歌声为它添上色彩。
+
+### 想要了解哥伦比娅·其四
+
+在祈月之夜，我得到了自己的名字——哥伦比娅·希珀塞莱尼娅。从前的我会以为，名字不过是个代号，是自身以外的某种东西。但那晚过后我明白了，名字是我同这个世界的连接，它包含着朋友们的心意，是朋友们心中的「我」在现实中的回响。我会珍惜这个名字的。
+
+### 想要了解哥伦比娅·其五
+
+我的故事像是一部倒放的歌剧。它先给予了我结果，才叫我去探寻原因。但若问我重来一次，是否希望这故事有所不同的话，我又会觉得现在这样挺好。如果没有这趟探寻的旅途，我就不会知道诞生在挪德卡莱其实是我自己的选择，就不会在朋友们的帮助下学会同真正的「家人」相处，你那晚也不会在努昂诺塔的指引下踏入银月之庭。我的故事或许会迎来另一种空白，我不希望那样。
+
+### 哥伦比娅的爱好…
+
+偶尔回到月亮上，睁开眼睛静静地看着提瓦特运转，会让我感到很安心。
+
+### 哥伦比娅的烦恼…
+
+想和普通人一样在那夏镇散步…但每次都会被认出来。是应该换件外套吗？还是说普通人不会和镇上的月灵说话？
+
+### 喜欢的食物…
+
+新鲜的水果、蔬菜，配上麦香味的面包…嗯？很朴素吗？可能是习惯了吧。最初诞生在挪德卡莱的时候，「霜月之子」给我的就是这些。小动物们也经常带它们采到的野果和我分享。我喜欢食物最初的样子，其中包含着一部分这个世界最初的模样。
+
+### 讨厌的食物…
+
+「火水」，还有其他一些味道很烈的酒。至冬有很多这样的饮品。尽管我在那边待了很长时间，但还是习惯不来。为什么大家喜欢那种身子像在燃烧、世界像在旋转的感觉呢？他们也想飘到月亮上去吗？
+
+### 收到赠礼·其一
+
+我还要。咦…？没有更多了吗？好吧，我下次省着吃。
+
+### 收到赠礼·其二
+
+还不错，我会伴着月光慢慢享用的。
+
+### 收到赠礼·其三
+
+唔…我惹桑多涅生气的时候，她也会给我吃类似的东西…
+
+### 生日…
+
+你的生日每年都是同一天吗？真好记。唔…祈月之夜每年举办的时间都不同，我只能通过感知月亮来估算自己的生日。不过，「生日」倒的确是个愉快的节日。大家围在一起跳舞，还会为你制作好吃的贡品。欸…？普通人的生日不是这样的吗？礼物、蛋糕，还有朋友…？嗯，好呀，那就叫上朋友们来为你一起庆祝。我可以为你唱首歌，还能叫上梅拉为你画幅画呢。
+
+### 突破的感受·起
+
+潮汐因恒月而翻涌。
+
+### 突破的感受·承
+
+寒夜因霜月而长明。
+
+### 突破的感受·转
+
+幽冥因虹月而深邃。
+
+### 突破的感受·合
+
+命运的纺线继承到了我的掌间，自此，新月将注视并照亮月下的世界。
+
+### 元素战技·其一
+
+漫流。
+
+### 元素战技·其二
+
+盈满。
+
+### 元素战技·其三
+
+垂映。
+
+### 元素爆发·其一
+
+新月终临。
+
+### 元素爆发·其二
+
+三月交辉之刻。
+
+### 元素爆发·其三
+
+将此月夜，献予众生。
+
+### 打开宝箱·其一
+
+是「惊喜」…对吧？
+
+### 打开宝箱·其二
+
+它们也离家出走了吗？
+
+### 打开宝箱·其三
+
+我已经不需要贡品了，你收下吧。
+
+### 生命值低·其一
+
+晕晕的…
+
+### 生命值低·其二
+
+夜色变深了…
+
+### 生命值低·其三
+
+我不太好…
+
+### 同伴生命值低·其一
+
+不晕么？你看起来轻飘飘的。
+
+### 同伴生命值低·其二
+
+你不休息吗？
+
+### 倒下·其一
+
+夜空…再次黯淡…
+
+### 倒下·其二
+
+月亮…坠落了…
+
+### 倒下·其三
+
+离家的…代价…
+
+### 普通受击·其一
+
+我没事…
+
+### 重受击·其一
+
+好痛…！
+
+### 重受击·其二
+
+…为什么？
+
+### 加入队伍·其一
+
+要我借你一束月光吗？
+
+### 加入队伍·其二
+
+会出去很久吗？
+
+### 加入队伍·其三
+
+嗯，我跟你走。
+
+### 关于桑多涅·发条其三
+
+桑多涅回来了。我好开心。我发现她的发条现在偶尔会转得快一些，好像以前总是以同样的速度在转。她说这是因为自己接受了内心情感的缘故，现在的她和以前已经不一样了。但我觉得不论是换了身衣服，还是发条转得快了些，桑多涅就是桑多涅，是我最好的朋友。不论是从前还是现在的样子，我都很喜欢。听完我这么说后，她的发条转得更快了。虽然不知道为什么，但真有趣。

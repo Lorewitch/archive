@@ -372,3 +372,972 @@ Following the rays of sunlight streaming in through the window, she caressed it 
 她睁开眼，将硬物拿到手里，竟然是一颗晶莹剔透的神之眼。
 顺着窗外照进来的阳光，她来回摩挲，反复观察，确认这并不是家里人买来的玩具。
 「这算是初战告捷的战利品吗？还挺吉利的嘛。」
+
+# voice_source_ids: 102000,102001,102002,102003,102004,102005,102006,102007,102008,102009,102010,102011,102012,102013,102014,102015,102016,102017,102018,102019,102020,102021,102022,102023,102024,102025,102026,102027,102028,102029,102030,102031,102032,102033,102034,102035,102036,102037,102038,102039,102040,102041,102042,102043,102044,102045,102046,102047,102048,102049,102050,102051,102052,102053,102054,102055,102056,102057,102058,102059,102060,102061,102062,102063,102064,102065,102066,102067,102068,102069,102070,102071,102072,102073,102074,102075
+
+## REPLICAS_RU
+
+### Привет...
+
+Спасибо, что присоединился ко мне, путешественник. Я Муалани, проводник из Народа Родников. Если тебе что-то понадобится, подними руку и дай мне знать! А теперь, пожалуйста, убери оружие, закрепи вещи, крепко держи Паймон и, самое главное, забудь о своих проблемах. Я приготовила для вас сёрф-акулку, так что запрыгивайте на неё и постарайтесь не упасть! Итак... начинаем путешествие! / Спасибо, что присоединилась ко мне, путешественница. Я Муалани, проводник из Народа Родников. Если тебе что-то понадобится, подними руку и дай мне знать! А теперь, пожалуйста, убери оружие, закрепи вещи, крепко держи Паймон и, самое главное, забудь о своих проблемах. Я приготовила для вас сёрф-акулку, так что запрыгивайте на неё и постарайтесь не упасть! Итак... начинаем путешествие!
+
+### Поболтаем: Пойдём погуляем
+
+Главное здесь пойти! Если уж мы пойдём, то гарантирую, что погуляем отлично.
+
+### Поболтаем: Погоня за волнами
+
+Пробовал гоняться за волнами? Хочешь попробовать? Ну? Ну? Ну что ж, время не ждёт! Я отведу тебя на ближайший пляж. / Пробовала гоняться за волнами? Хочешь попробовать? Ну? Ну? Ну что ж, время не ждёт! Я отведу тебя на ближайший пляж.
+
+### Поболтаем: Единство
+
+В одиночку многие вещи сделать трудно, а если собраться вместе, то возможно всё!
+
+### Когда идёт дождь...
+
+Ого-о-о! Скользкая глина здесь отлично подходит, чтобы кататься на доске!
+
+### Когда гремит гром...
+
+Ого! Ты видал?! Куда она ударила? / Ого! Ты видала?! Куда она ударила?
+
+### Когда идёт снег...
+
+Бр-р-р! Давай скорее тут закончим и отправимся обратно. Мне надо как следует полежать в горячих источниках...
+
+### Когда светит солнце...
+
+В такую погоду хочется лежать и наслаждаться солнцем... Идеальные условия, чтобы позагорать!
+
+### Когда дует сильный ветер...
+
+Когда ветер усиливается, усиливаются и волны. Самое время попробовать выполнить несколько эпичных трюков!
+
+### В пустыне...
+
+Сёрфить по песку должно быть потрясно! Я готова принять вызов!
+
+### Доброе утро...
+
+Хорошие новости: я сегодня не проспала! Пора вознаградить себя крайне роскошным завтраком.
+
+### Добрый день...
+
+Всё-таки надо было поспать подольше... Эх, в глазах как будто мора блестит... Думаю, это означает, что нужно вздремнуть сегодня днём.
+
+### Добрый вечер...
+
+Хочешь, принесу что-нибудь поесть? Гарантирую, что ещё горячим будет! Поверь, моя доска для сёрфинга достаточно быстрая!
+
+### Спокойной ночи...
+
+Ужас... Я слишком напрыгалась на танцах у костра. Этой ночью уже не посплю. Эх...
+
+### О Муалани: Лучший товар
+
+Я тщательно отбираю всё, что продаю в магазине: ассортимент и качество, функциональность и цвет. Но если хочешь узнать, какой товар в моём магазине самый хороший, я бы сказала, что это надувной купальник. Он идеально подходит, если не умеешь уверенно плавать. Он мгновенно надувается и превращается в спасательный круг, что делает плавание намного безопаснее!
+Но можно носить его и вне воды. Лично я люблю надевать его на вечеринки. Он просто приковывает взгляды! Вот так делаешь, и можно скакать... прыг... прыг...
+Кстати, он ещё и счастливых цветов бывает!
+
+### О Муалани: Танцы
+
+Земля Народа Родников - лучший курорт. Здешние растения и природа, кажется, действительно вызывают отклик в людях. Они все наши друзья!
+Бегущие волны, колыхание водорослей, трепещущие листья... Все они будто мои любимые учителя танцев. Просто следуй их ритму и такту, покружись, может, немного, покачайся стороны в сторону - вот ты уже танцуешь! Ну как? Не стой как вкопанный. Давай, попробуй! / Земля Народа Родников - лучший курорт. Здешние растения и природа, кажется, действительно вызывают отклик в людях. Они все наши друзья!
+Бегущие волны, колыхание водорослей, трепещущие листья... Все они будто мои любимые учителя танцев. Просто следуй их ритму и такту, покружись, может, немного, покачайся стороны в сторону - вот ты уже танцуешь! Ну как? Не стой как вкопанная. Давай, попробуй!
+
+### О нас: Приветствие
+
+Только посмотри на эти доски для сёрфинга! Есть всевозможные узоры, материалы и цвета на выбор! Какой у тебя счастливый цвет? А? Нет такого? Тогда давай я тебе выберу!
+
+### О нас: Взаимное доверие
+
+Мы столько всего пережили вместе: Царство Ночи, таинственный остров... Я бы сказала, что это определённо делает нас товарищами, которые могут доверить друг другу свои жизни. Если ты когда-нибудь заблудишься в дороге, дай мне знать! Я вообще-то отличный проводник! Я найду путь вперёд, даже если его придётся продолбить моей доской для сёрфинга!
+
+### Глаз Бога...
+
+Раньше я вешала свой Глаз Бог на поплавок. Как ни посмотри, этот лазурный цвет очень хорошо с ним сочетается. Но как-то я совсем забыла о нём, когда играла с друзьями в волейбол. Поплавок упал на песок, и я услышала какой-то громкий хруст! Глаз Бога оказался цел и невредим, так что мне очень повезло.
+
+### Давай поделимся...
+
+Ты ведь не боишься собак? Ты просто обязан познакомиться с нашей собакой! Он любит играть и хочет, чтобы все его гладили. Я всегда беру его с собой, чтобы он поиграл в воде. Он даже умеет кататься на сёрфе. Мой маленький пёсик уже рассекает волны лучше меня!
+Я как-нибудь познакомлю вас. Уверена, его хвост будет крутиться как пропеллер. Только смотри, чтобы он тебя им не ударил... Это больно, ха-ха-ха! / Ты ведь не боишься собак? Ты просто обязана познакомиться с нашей собакой! Он любит играть и хочет, чтобы все его гладили. Я всегда беру его с собой, чтобы он поиграл в воде. Он даже умеет кататься на сёрфе. Мой маленький пёсик уже рассекает волны лучше меня!
+Я как-нибудь познакомлю вас. Уверена, его хвост будет крутиться как пропеллер. Только смотри, чтобы он тебя им не ударил... Это больно, ха-ха-ха!
+
+### Интересные вещи...
+
+Кохолазавры в Народе Родников любят горячие источники не меньше нас. Они часто купаются в тех же источниках, что и мы. Но если не уверен в нраве кохолазавра, лучше держаться подальше.
+А? Как определить нрав? Ха-ха, мой метод очень прост. Медленно приближаешься к нему, и очень быстро всё узнаешь... Если не укусит, то он довольно спокойный... А если попытается укусить, что ж... считай, что это проявление любви. / Кохолазавры в Народе Родников любят горячие источники не меньше нас. Они часто купаются в тех же источниках, что и мы. Но если не уверена в нраве кохолазавра, лучше держаться подальше.
+А? Как определить нрав? Ха-ха, мой метод очень прост. Медленно приближаешься к нему, и очень быстро всё узнаешь... Если не укусит, то он довольно спокойный... А если попытается укусить, что ж... считай, что это проявление любви.
+
+### О Мавуике...
+
+Пиро Архонт - самая уважаемая фигура во всём Натлане. Я восхищаюсь ей не только за то, что она Пиро Архонт, но и потому, что... она очень круто выглядит, когда занимается сёрфингом!
+Я её даже приглашала посостязаться... А? Хочешь знать, кто быстрее? Тогда давай устроим гонки, и я скажу тебе, если победишь!
+
+### О Качине...
+
+Качина очень нежная и добрая. По всем её словам, видно, что она всегда заботится о других. У неё так много замечательных качеств, но её постоянно игнорируют и высмеивают, потому что она не может постоять за себя. Эх. Я не сомневаюсь в её способностях, просто... Меня беспокоит её неуверенность в себе. Она верит в те ужасные вещи, которые люди говорят о ней. Поэтому я взяла на себя миссию поощрять её и рассказывать о её достоинствах всем вокруг. Я уверена, что однажды все увидят её в новом свете!
+
+### О Киниче...
+
+Ахав за день говорит больше, чем Кинич за целый год. Непонятно, как у Кинича получается не обращать на него внимание и всегда следовать своим суждениям. Если подумать, они кажутся одинаково незаинтересованными только, когда я говорю о гороскопах...
+
+### О Часке...
+
+Я познакомилась с Чаской, когда была маленькой. Мы даже несколько раз дрались из-за игрушек... Я была очень удивлена, когда узнала, что она стала «миротворцем». Говорят, что некоторые люди взрослеют очень медленно, а другие взрослеют в одно мгновение. Иногда я думаю, а начала ли я взрослеть вообще...
+
+### О Ситлали...
+
+Бабушка Ситлали, без сомнения, самая опытная жрица из всех, кого я видела. Она не просто старейшина, она самая крутая старейшина на свете! Её предсказания всегда очень точны. Когда-то давно она сказала, что счастливые цвета для моего бизнеса - розовый и голубой. Ну и конечно, розовые и голубые поплавки сейчас продаются лучше всего!
+Когда я донимала её... э-э, то есть навещала её недавно, она упомянула, что есть какой-то чужеземец, который может принести мне удачу... А, погоди-ка! А ты же чужеземец! / Бабушка Ситлали, без сомнения, самая опытная жрица из всех, кого я видела. Она не просто старейшина, она самая крутая старейшина на свете! Её предсказания всегда очень точны. Когда-то давно она сказала, что счастливые цвета для моего бизнеса - розовый и голубой. Ну и конечно, розовые и голубые поплавки сейчас продаются лучше всего!
+Когда я донимала её... э-э, то есть навещала её недавно, она упомянула, что есть какой-то чужеземец, который может принести мне удачу... А, погоди-ка! А ты же чужеземка!
+
+### Об Иансан...
+
+Иансан - гордость Удела Благодатных Земель и всего Натлана. Она участвовала во многих Паломничествах и до сих пор остаётся непобеждённой! Я записалась на её тренировку, заплатила за обучение и всё такое, но я ещё не начинала, потому что... была слишком занята для тренировок...
+Ладно-ладно, признаюсь... Когда я увидела, как выглядела Качина после обучения, я услышала внутренний голос: «Слушай, твоё место в воде. Останешься на суше слишком долго, и ты там застрянешь...» Иногда нужно прислушиваться к своему сердцу!
+
+### О Шилонен...
+
+Если уж Пиро Архонт признаёт мастера, то мастерство его несомненно. Даже если древнее имя разбить на кусочки, она наверняка сможет его починить. Ой, а я не сглазила сейчас? Древнее имя невозможно разбить. Это было бы ужасно. Я беру свои слова обратно! Я ничего не говорила. И ты тоже ничего не слышал, ясно? / Если уж Пиро Архонт признаёт мастера, то мастерство его несомненно. Даже если древнее имя разбить на кусочки, она наверняка сможет его починить. Ой, а я не сглазила сейчас? Древнее имя невозможно разбить. Это было бы ужасно. Я беру свои слова обратно! Я ничего не говорила. И ты тоже ничего не слышала, ясно?
+
+### Об Ифе...
+
+Ифа лучше всех! Куда бы мы его ни позвали, он всегда с радостью присоединяется. А ещё он очень быстро и эффективно справляется с любым делом. Если бы он уже не работал ветеринаром, думаю, из него получился бы отличный тренер по водным видам спорта. Хм? Он из другого племени? Ну это совсем не проблема!
+
+### Узнать больше о Муалани I
+
+Есть минутка? Не хочешь зайти поболтать? Мы можем поехать на горячие источники или куда угодно. Я не привередливая. Такая возможность выпадает нечасто, поэтому я взяла с собой фотокамеру. Я тебе всякие позы и трюки покажу. Не волнуйся, сегодня обязательно много классных фото вместе сделаем!
+
+### Узнать больше о Муалани II
+
+Чтоб быть хорошим проводником, нужно полагаться на опыт. Наши предки оставили после себя множество практик, которым можно поучиться. Но не волнуйся, я не из тех, кто слепо следует старым обычаям. Я доверяю только тем, которые сама попробовала и нашла полезными.
+А? Какие из них не сработали? Хм... Как-то раз я исследовала местность и увидела впереди реку с мостом. Но на карте говорилось, что реку надо переплывать на лодке. Я измерила течение реки, проверила мост на предмет ловушек и скрытых опасностей... Но в итоге оказалось, что наши предки не рекомендовали пользоваться мостом, потому что... его тогда ещё не построили!
+Так что, да. Опыт - это главное...
+
+### Узнать больше о Муалани III
+
+Я люблю принимать гостей из других мест! После экскурсии они всегда благодарят меня за то, что я познакомила их с местными обычаями Натлана. Но, честно говоря, я не менее благодарна им за то, что они делятся со мной опытом, рассказывают о своей родине. Я люблю истории, которые никогда раньше не слышала... Так что, в некотором роде, каждая поездка это путешествие для меня тоже!
+
+### Узнать больше о Муалани IV
+
+Я изо всех сил стараюсь вести себя спокойно, когда завожу новых друзей, но... хе-хе... Иногда люди отводят меня в сторону и говорят, что я чересчур радушная, и для некоторых гостей это слишком. Поэтому поначалу я стараюсь немного сбавить обороты и дать им возможность пообвыкнуться...
+А, пожалуйста, скажи мне, если я перебарщиваю, ладно? Не бойся ранить мои чувства. Можешь даже написать мне анонимную записку, если хочешь. Обещаю, что исправлюсь!
+
+### Узнать больше о Муалани V
+
+Сложности способны раскрыть истинный потенциал человека. Участие в Паломничестве действительно помогло мне это понять! Но я всё равно считаю, что в сложной ситуации два человека лучше, чем один. Каждый человек имеет своё значение... Работая вместе, мы можем творить чудеса!
+Взять, к примеру, Войны ночных дозорных... Мы не единственные, кто участвует в этой борьбе. Ведь есть же герои, которые защищали Натлан в прошлом, или вот молодое поколение, которое будет сражаться за нас в будущем. Наши общие усилия - это то, что двигает Натлан вперёд. Я вот считаю, что в этом и заключается истинный смысл слова «Умоджа».
+
+### Хобби Муалани...
+
+Плавание, дайвинг, водные лыжи, сёрфинг, парасейлинг, пляжный волейбол, водный волейбол, гребля, снорклинг, задержка дыхания под водой... Вряд ли я смогу перечислить все свои любимые занятия, даже если у меня будет лишняя пара рук. Иногда, когда я устаю, я просто лежу на воде и расслабляюсь... Несколько раз я даже засыпала. Очень комфортно, конечно, но за это приходится расплачиваться: иногда просыпаешься и не понимаешь, куда тебя унесло. Когда такое случается, я всегда получаю нагоняй от старейшин...
+
+### Беспокойство Муалани...
+
+Когда мне грустно, я говорю себе: «Да ладно, всё нормально. Просто не повезло. Один плохой день не означает, что всё так и останется». Обычно от этого мне становится немного лучше. Но если это не помогает, я отправляюсь кататься на сёрфе по духовному пути и кричу во всё горло на скоростных поворотах и виражах. Прокатившись несколько раз, я всегда чувствую, что все мои проблемы остались в прошлом.
+
+### Любимая еда...
+
+Большой поднос с морепродуктами, и никаких овощей! Как укушу, так сразу чувствую себя маленькой рыбкой, плывущей по морю... Это так приятно!
+
+### Нелюбимая еда...
+
+Я жалею, что в детстве тайком выливала своё молоко в горячие источники. Если бы я его пила, то, возможно, не была бы такой коротышкой... Но неважно. Я обещала тёте Атее больше так не делать! Теперь я пью всё молоко, так что ещё не поздно стать немного выше! И ты пей! Все мы можем поучиться на моих детских ошибках!
+
+### Подарок I
+
+Ого, потрясающе! Так и хочется запрыгнуть на доску для сёрфинга и сделать целых три сальто, не касаясь земли!
+
+### Подарок II
+
+А ещё есть? На вечеринке это было бы просто хитом!
+
+### Подарок III
+
+Может, замочим на некоторое время в горячем источнике? Может, поприятнее жевать будет!
+
+### День рождения...
+
+С днём рождения! Не открывай пока подарки. Я специально для тебя этот ресторан выбрала - он тут самый популярный... Уверена, ты уже получил кучу пожеланий от своих друзей, но что, если я скажу, есть ещё много людей, которые хотят тебя поздравить? Как думаешь?
+Хе-хе! Садись-садись, и давай принимай поздравления! Кхе-кхе... Простите меня, все! Внимание, пожалуйста! Сегодня день рождения моего друга! Благородный и грозный герой, победивший свирепых зверей и исцеливший бесчисленные души! Давайте же поздравим его с днём рождения! Так, ребята, скажите вместе со мной: «За удачу в твоих приключениях!» Отлично! А вы, ребята, вон там... «За успех в бою!» Отлично! А теперь все вместе... С днём рождения, путешественник! Желаю удачи, здоровья и много счастья! / С днём рождения! Не открывай пока подарки. Я специально для тебя этот ресторан выбрала - он тут самый популярный... Уверена, ты уже получила кучу пожеланий от своих друзей, но что, если я скажу, есть ещё много людей, которые хотят тебя поздравить? Как думаешь?
+Хе-хе! Садись-садись, и давай принимай поздравления! Кхе-кхе... Простите меня, все! Внимание, пожалуйста! Сегодня день рождения моей подруги! Благородная и грозная героиня, победившая свирепых зверей и исцелившая бесчисленные души! Давайте же поздравим её с днём рождения! Так, ребята, скажите вместе со мной: «За удачу в твоих приключениях!» Отлично! А вы, ребята, вон там... «За успех в бою!» Отлично! А теперь все вместе... С днём рождения, путешественница! Желаю удачи, здоровья и много счастья!
+
+### Чувство возвышения: Начало
+
+То что надо! Продолжаем в том же духе!
+
+### Чувство возвышения: Нарастание
+
+Отлично! Похоже, моя сила растет! А теперь, как насчёт дружеской игры в пляжный волейбол? Я не буду сдерживаться!
+
+### Чувство возвышения: Кульминация
+
+Это мой счастливый день, я уверена! Кажется, что я даже смогу покорить те огромные волны, на которых упала в прошлый раз. Не время прохлаждаться - навстречу испытаниям!
+
+### Чувство возвышения: Окончание
+
+Ради безопасности туристической группы я обычно не позволяю своим клиентам забредать в опасные места... Но я знаю, что всегда будут ситуации, когда не остаётся другого выбора, кроме как встретить опасность лицом к лицу. Так позволь мне присоединиться к тебе в путешествии. Если будем работать вместе, то не будет ничего, что мы не сможем преодолеть!
+
+### Элементальный навык I
+
+Поехали!
+
+### Элементальный навык II
+
+По волнам!
+
+### Элементальный навык III
+
+Быстрее!
+
+### Элементальный навык IV
+
+Уо-о!
+
+### Элементальный навык V
+
+Супер!
+
+### Элементальный навык VI
+
+Вот и волна!
+
+### Взрыв стихии I
+
+Не пропусти гигантскую волну!
+
+### Взрыв стихии II
+
+Вперёд, Акулка!
+
+### Взрыв стихии III
+
+Смотри-ка! Вот так удача!
+
+### Начало спринта I
+
+Бежим!
+
+### Начало спринта II
+
+Нужна доска?
+
+### Открытие сундука I
+
+Говорила же, сегодня удачный день!
+
+### Открытие сундука II
+
+Лучшее всегда на самом дне!
+
+### Открытие сундука III
+
+О нет, уронила! Поднимай скорее! Надеюсь, это не плохая примета...
+
+### Низкий уровень HP I
+
+Должна защищать гостей!
+
+### Низкий уровень HP II
+
+Не мой счастливый день...
+
+### Низкий уровень HP III
+
+Я справлюсь... Справлюсь...
+
+### Низкий уровень HP компаньона I
+
+Ты не в одиночку сражаешься!
+
+### Низкий уровень HP компаньона II
+
+Дай мне помочь!
+
+### Без сознания I
+
+Проводник никогда не отстаёт...
+
+### Без сознания II
+
+«Никто не сражается в одиночку...»
+
+### Без сознания III
+
+Приключение... окончено...
+
+### Получен лёгкий удар I
+
+Эй, хватит!
+
+### Получен тяжёлый удар I
+
+Успокойся!
+
+### Получен тяжёлый удар II
+
+Моя доска!
+
+### Присоединяется к группе I
+
+С такой командой не пропадём!
+
+### Присоединяется к группе II
+
+Ну что? Как дела?
+
+### Присоединяется к группе III
+
+О да! Вперёд!
+
+### О Юмэмидзуки Мидзуки...
+
+Ого, да ты действительно знаешь многих! Мидзуки - хороший друг Народа Родников. Она может показаться тихой, но на самом деле очень разговорчива. О чём бы ни шла речь, она может поддерживать беседу, сколько нужно... Разговаривая с ней, легко потерять счёт времени.
+О, точно! Она открывает филиал в Натлане. Почему бы тебе не заглянуть к ней, если есть время? Поддержишь её? Я приготовила для неё иглобрюхов. Надеюсь, ей понравится это блюдо!
+
+### О Варесе...
+
+Вареса... Ох, Вареса! Та суперсильная девчонка, которая не очень хорошо выступает на Паломничестве? Иансан как-то приводила её к нам на тренировку по плаванию! Она любит на отдыхе лежать на пляже и читать комиксы, а я подкрадываюсь и читаю из-за её плеча! Она может перечислить множество имён древних воинов, включая героев Народа Родников. Некоторых из них даже я не помню! Она потрясающая!
+
+## REPLICAS_EN
+
+### Hello
+
+Thank you for joining me, Traveler. I'm Mualani, a guide from the People of the Springs. If you need anything, just raise your hand and let me know! Now, please stow your weapon, secure your belongings, keep a firm hold on Paimon, and, most importantly, let go of your troubles. I prepared a Sharky Surfboard for you, so hop on and try not to fall! Alrighty... let the journey begin!
+
+### Chat: Going Out
+
+The most important part of going out to have fun is... well, going out! So just show up and I'll handle the rest.
+
+### Chat: Chasing Waves
+
+Ever tried chasing waves before? You wanna try? Well? Well? C'mon, no time like the present! I'll help you find the closest beach.
+
+### Chat: Unity
+
+You can only do so much on your own, but with a group, anything's possible!
+
+### When It Rains
+
+Woohoo! The slippery ground here is perfect for sliding around on a surfboard!
+
+### When Thunder Strikes
+
+Whoa! Did you see that? Where did it strike!?
+
+### When It Snows
+
+*shivering* C'mon, let's finish up and head back. I need a good soak in the hot springs...
+
+### When the Sun Is Out
+
+Ah, this weather makes me wanna lay down and catch some rays... Perfect sunbathing conditions!
+
+### When the Wind Is Blowing
+
+When the wind picks up, the waves pick up too. Now's the perfect time to try some epic tricks!
+
+### In the Desert
+
+Sand surfing sounds like a blast! You know I'm up for the challenge!
+
+### Good Morning
+
+Good news, I didn't oversleep today! Time to reward myself with a super fancy breakfast.
+
+### Good Afternoon
+
+*yawn* Knew I should've slept in... Shoot, why does it look like there's a bunch of Mora-shaped dots floating in front of me... Guess this means I need a nap this afternoon.
+
+### Good Evening
+
+Want me to bring in something to eat? I can get it here piping hot! Trust me, my surfboard's got the speed you need!
+
+### Good Night
+
+Shoot... I'm too pumped up from dancing at the bonfire. There goes my sleep for the night... *sigh*
+
+### About Mualani: Flagship Product
+
+I've carefully picked everything I sell in the shop, from the variety and quality of the products to the functionality and colors. But if you wanna know the best item in my shop, I'd have to say it's this inflatable swimsuit. It's perfect if you're not a confident swimmer. It can inflate instantly to become a life preserver, which makes swimming way safer!
+You can wear it out of the water, too. Personally, I love wearing it to parties. It's a real showstopper! See, just do this, and you can bounce around... boing... boing...
+Oh, and it even comes in lucky colors!
+
+### About Mualani: Dancing
+
+Everyone loves to visit our tribe for vacation. The plants and nature here really seem to connect with people. They feel like friends, you know?
+The rolling waves, swaying seagrass, fluttering leaves... They're all like beloved dance instructors to me. Just follow their beat and rhythm, maybe give a twirl, a bit of side-to-side, and you're dancing! Well? Don't just stand there. C'mon, give it a go!
+
+### About Us: Greetings
+
+C'mon, you have to check out these surfboards! There's all kinds of patterns, materials, and colors to pick from! What's your lucky color? Huh? You don't have one? Then lemme pick one for you!
+
+### About Us: Mutual Trust
+
+We've been through so much together — the Night Kingdom, the mysterious island... I'd say that definitely makes us companions who can trust each other with our lives. If you ever get lost on the road, just let me know! I'm a pretty good guide, if I do say so myself! I'll find a way forward even if that means carving out an entirely new path with my surfboard!
+
+### About the Vision
+
+For a while, I hung my Vision on my swimming floater. After all, its azure color matches really well. But later, I completely forgot about it while playing volleyball with my friends. The floater landed on the sand, and I swear I almost heard something break! But, when I checked, my Vision was still in one piece! So, all in all, I think it was actually a sign of good luck!
+
+### Something to Share
+
+You're not scared of dogs, right? 'Cause you have to meet my family's dog! He loves to play and tries to get pets from anyone he sees. I always bring him to the water to play. He even knows how to surf, actually. That's my little doggie, already carving the waves better than me!
+I'll introduce you sometime. I'm sure his tail will be wagging and whirling like a propeller. Just be careful not to get whacked... It hurts, hahahaha!
+
+### Interesting Things
+
+The Koholasaurs around the People of the Springs love hot springs just as much as we do. We often find them soaking in the same springs as us. But if you're unsure about their temper, it's best to keep your distance.
+Oh? How do you judge the temperament of a Koholasaur? Haha, my method is super simple. Just slowly approach them, and you'll know pretty quick... If they don't bite, they're probably pretty chill... If they do try to bite, well... just think of it like a little love nip, I guess.
+
+### About Mavuika
+
+The Pyro Archon is the most respected figure in all of Natlan. I really admire her, not only because she's the Pyro Archon, but because... she looks super cool when she surfs!
+I've challenged her to a race before, actually... Huh? You wanna know who was faster? In that case, let's race, and I'll tell you once you beat me!
+
+### About Kachina
+
+Kachina is incredibly gentle and kind. From everything she says, it's clear she's always thinking about others. She has so many great qualities, but she's constantly overlooked and ridiculed because she doesn't stand up for herself. *sigh* I know she can handle herself, it's just... I worry about her lack of confidence. More often than not, she ends up believing the awful things people say about her. So, I've made it my personal mission to encourage her and share her strengths with all the people around me. I'm sure one day, everyone will see her in a new light!
+
+### About Kinich
+
+Ajaw will say more in a day than Kinich in a whole year. It can't be easy having to deal with all of Ajaw's antics, but somehow Kinich always manages to do his own thing. Now that I think about it, the only time they seem equally uninterested is when I talk about horoscopes...
+
+### About Chasca
+
+I met Chasca when I was little. We even fought over toys a few times... I was pretty surprised when I heard she became a Peacemaker. They say some people mature really slowly, while others grow up in an instant. Sometimes, I wonder if I've even started...
+
+### About Citlali
+
+Granny Citlali is without a doubt the most experienced priestess I've ever seen. She's more than just an elder, she's like the coolest elder ever! Her predictions are always super accurate. A long time ago, she said the lucky colors for my business were pink and blue. Sure enough, pink and blue floaters are now my top sellers!
+While I was bugging her... uh, I mean, visiting her recently, she mentioned there was an outlander who could bring me good fortune... Ah, wait a sec! Aren't you an outlander!?
+
+### About Iansan
+
+Iansan is the pride of the Collective of Plenty and all of Natlan. She's been a part of so many Pilgrimages, and is still unbeaten to this day! I registered for her training class, actually, paid the tuition fee and everything. I just haven't started because, uh... I've been too busy to train...
+Okay, fine. I'll admit... When I saw what Kachina looked like when she finished her training, I heard a voice inside me say, "Hey, you belong in the water. Stay on dry land for too long, and you'll wind up stranded there." Sometimes, you've just gotta listen to your heart!
+
+### About Xilonen
+
+If the Pyro Archon acknowledges a craftsperson, then you know she's good. Even if an Ancient Name got all smashed up, I bet she could make it good as new again. Wait, did I just jinx something? An Ancient Name absolutely cannot get smashed. That would be so bad. I take it back! I take it back! I didn't say anything. And you didn't hear anything either, alright?
+
+### About Ifa
+
+Ifa is the best! No matter what we invite him to do, he's always happy to join. And he's super quick and efficient at everything, too. If he wasn't already working as a vet, I think he'd make a pretty great water sports coach. Hmm? Is he from a different tribe? Well, yeah, but that won't be a problem at all!
+
+### More About Mualani: I
+
+Hey, got a moment? Wanna come over and chat? We could go to the hot springs, or anywhere, really. I'm not picky. I don't get opportunities like this very often, so I've brought my Kamera with me. I'll even show you some cool poses and tricks. Trust me, we'll definitely get some cool group photos today!
+
+### More About Mualani: II
+
+Being a good guide means relying on experience. Our ancestors left behind many practices to learn from. But don't worry, I'm not the type to blindly follow old advice and customs. I only swear by the ones I've tried and found to be useful.
+Huh? Which ones were a bust? Hmm... Well, one time I was out exploring, and I could see a river with a bridge up ahead. But the map wanted me to cross the river with a boat. I measured the river's current and then checked the bridge for any traps or hidden dangers... But, in the end, it turned out that our ancestors didn't recommend using the bridge because... it hadn't been built yet! 
+So, yeah. Experience is key...
+
+### More About Mualani: III
+
+I love guiding visitors from other places! At the end of our tours, they always thank me for introducing them to Natlan's local customs. But honestly, I'm equally grateful to them for sharing their experiences with me, chatting about their hometown, and telling me stories I've never heard before... So, in a way, every trip turns into my own kind of journey, as well!
+
+### More About Mualani: IV
+
+I try my best to play it cool when making new friends, but... hehe... Sometimes people pull me aside and tell me I'm too enthusiastic, to the point of being a little overwhelming. So, now, I try to tone it down a bit at the beginning, and let them warm up to me first...
+Oh, and please tell me if I'm ever too much, okay? Don't worry about hurting my feelings. You could even write me an anonymous note, if you want. I promise I'll make it right!
+
+### More About Mualani: V
+
+Challenges have a way of revealing a person's true potential. Participating in the Pilgrimage really made me understand that! But, in a tough situation, I still think two people are better than one. Every person counts... By working together, we can make our own miracles!
+Take the Night Warden Wars, for example... We're not the only ones in this fight. What about the heroes who defended Natlan in ages past, or the younger generations who will fight for us in the future. Our combined efforts are what push Natlan forward. If you ask me, that's the real meaning of "Umoja."
+
+### Mualani's Hobbies
+
+Swimming, diving, water skiing, surfing, parasailing, beach volleyball, water volleyball, rowing, snorkeling, holding my breath underwater... Whew, I don't think I could ever list all my favorite activities, not even if I had an extra pair of hands. Sometimes, when I get tired, I just float on the water and relax... I've even fallen asleep a few times. It may be comfortable, but you pay the price when you wake up and realize you've drifted into the middle of nowhere. I always get an earful from the elders when that happens...
+
+### Mualani's Troubles
+
+Whenever I'm feeling down, I tell myself, "C'mon, it's okay. It's just bad luck. Having one terrible day doesn't mean things will stay that way." That usually helps me feel a little better. But if that still doesn't help, I go Spiritway surfing and shout my lungs out on the high-speed twists and turns. Going for a few rides always makes me feel like I've well and truly left my troubles in the dust.
+
+### Favorite Food
+
+I like a big tray of seafood, no turf, all surf! And no veggies either! One bite makes me feel like a little fish swimming around the sea... Ah, so satisfying!
+
+### Least Favorite Food
+
+I regret secretly pouring my glass of milk into the hot springs as a kid. If I actually drank it, maybe I wouldn't be quite so short... But, it's whatever. I promised Auntie Atea I'd never do that again! I drink all my milk now, so it shouldn't be too late to grow a little taller! The same goes for you — we can all learn from my childhood mistakes!
+
+### Receiving a Gift: I
+
+Wow, this is amazing! Makes me want to hop on my surfboard and do three whole flips without touching the ground!
+
+### Receiving a Gift: II
+
+Got any more? This would be a huge hit at a party!
+
+### Receiving a Gift: III
+
+Maybe we could soak it some hot spring water for a bit? That could improve the texture!
+
+### Birthday
+
+Happy birthday! Don't open your gifts just yet. I picked this restaurant just for you, it's the most popular one around... I bet you've already gotten loads of well-wishes from your friends, but what if I told you even more people from your journey wanted to help you celebrate? What do you think?
+Hehe! C'mon, have a seat and let's bring on the birthday wishes! Ahem... Excuse me, everyone! Your attention, please! Today is my friend's birthday! A noble and formidable hero who's defeated ferocious beasts and healed countless souls! C'mon, let's give him our warmest birthday wishes! Alright, you guys over there, say it with me, "Here's to good fortune on your adventures!" Great! And you guys over there... "Here's to success in battle!" Perfect! Finally, all together, now... Happy birthday, Traveler! Here's to good luck, good health, and much happiness! / Happy birthday! Don't open your gifts just yet. I picked this restaurant just for you, it's the most popular one around... I bet you've already gotten loads of well-wishes from your friends, but what if I told you even more people from your journey wanted to help you celebrate? What do you think?
+Hehe! C'mon, have a seat and let's bring on the birthday wishes! Ahem... Excuse me, everyone! Your attention, please! Today is my friend's birthday! A noble and formidable hero who's defeated ferocious beasts and healed countless souls! C'mon, let's give her our warmest birthday wishes! Alright, you guys over there, say it with me, "Here's to good fortune on your adventures!" Great! And you guys over there... "Here's to success in battle!" Perfect! Finally, all together, now... Happy birthday, Traveler! Here's to good luck, good health, and much happiness!
+
+### Feelings About Ascension: Intro
+
+Sweet! Just what I needed! Keep 'em coming!
+
+### Feelings About Ascension: Building Up
+
+Nice! Looks like my strength is on the rise! Now, how about a friendly game of beach volleyball? I won't hold back!
+
+### Feelings About Ascension: Climax
+
+It's my lucky day, I just know it! Feels like I could even conquer those massive waves I bailed on last time. No time to lose, bring on the challenge!
+
+### Feelings About Ascension: Conclusion
+
+For the safety of the tour group, I usually stop my clients from wandering into dangerous places... But I know there will always be situations where there's no choice but to face danger head-on. So, let me join you on your journey. If we work together, there's nothing we can't overcome!
+
+### Elemental Skill: I
+
+Let's ride!
+
+### Elemental Skill: II
+
+Carving waves~
+
+### Elemental Skill: III
+
+Faster!
+
+### Elemental Skill: IV
+
+Woohoo~!
+
+### Elemental Skill: V
+
+Amazing!
+
+### Elemental Skill: VI
+
+Surf's up!
+
+### Elemental Burst: I
+
+Catch an epic wave! Woosh~!
+
+### Elemental Burst: II
+
+Let's shred, Sharky!
+
+### Elemental Burst: III
+
+Check this out! Best of luck!
+
+### Sprint Start: I
+
+Off we go!
+
+### Sprint Start: II
+
+Need a surfboard?
+
+### Opening Treasure Chest: I
+
+I told you today's our lucky day!
+
+### Opening Treasure Chest: II
+
+The best stuff's always at the bottom!
+
+### Opening Treasure Chest: III
+
+Oh no, I dropped it! Quick, pick it up! Hope I didn't just jinx us...
+
+### Low HP: I
+
+I must protect my clients!
+
+### Low HP: II
+
+Not my lucky day...
+
+### Low HP: III
+
+I got this... I got this!
+
+### Ally at Low HP: I
+
+You're not fighting alone!
+
+### Ally at Low HP: II
+
+That's it, lemme at 'em!
+
+### Fallen: I
+
+What kinda guide... falls behind...
+
+### Fallen: II
+
+"No one fights alone"...
+
+### Fallen: III
+
+The journey's... over...
+
+### Light Hit Taken: I
+
+Hey, c'mon now!
+
+### Heavy Hit Taken: I
+
+Chill out!
+
+### Heavy Hit Taken: II
+
+Watch the surfboard...
+
+### Joining Party: I
+
+Whoa, what a lineup! We'll be unstoppable!
+
+### Joining Party: II
+
+Hey, guys! How's it going?
+
+### Joining Party: III
+
+Woohoo! Let's goooooo~!
+
+### About Yumemizuki Mizuki
+
+Wow, you really know just about everybody! Mizuki's a good friend of the People of the Springs. She might come across as the quiet type, but she's actually really chatty. Whatever the conversation, she can keep it going for as long as you let her... Hehe, it's easy to lose track of time when you're talking to her.
+Oh, this reminds me! She's opening a new branch of her business in Natlan soon. Have you got time? You wanna come show your support? I'm gonna give her some purple floaters as a gift. I hope she likes them!
+
+### About Varesa
+
+Varesa... Oh! Varesa! She's that girl who has super strength, but never does so well in the Pilgrimage, right? Iansan brought her here for swimming training once. She used to lie on the beach reading comics during her down time, so I got to read a few over her shoulder. She can list off the names of so many ancient heroes, including loads from the People of the Springs — even ones I didn't really know of! She's pretty awesome.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+尊敬的旅行者，欢迎你参加本次旅行，我是「流泉之众」的向导，玛拉妮，有什么需求请随时伸长手臂向我示意哦！现在，请收好武器，保管好随身物品，在身前抱紧派蒙，最最重要的，是放下烦恼，踏上我给你准备的鲨鲨冲浪板，站稳啦——美妙之旅要开始咯！
+
+### 闲聊·出来玩
+
+「出来玩」最重要的就是「出来」，只要你来了，剩下的全都交给我来安排吧。
+
+### 闲聊·逐浪
+
+你试过追着海浪奔跑吗？想试吗？要试吗？就现在就现在！我陪你找片海。
+
+### 闲聊·团结
+
+一个人挑战，有很多不可能，但一群人就能挑战很多不可能！
+
+### 下雨的时候…
+
+哟吼！湿滑的地面好适合滑铲进场呀！
+
+### 打雷的时候…
+
+哇哦！劈哪了劈哪了？
+
+### 下雪的时候…
+
+呃…干完正事就赶紧回去泡温泉吧…
+
+### 阳光很好…
+
+想原地躺下晒太阳，晒完一面再翻个面。
+
+### 刮大风了…
+
+风越大，浪越大，正是挑战高难度动作的好时候！
+
+### 在沙漠的时候…
+
+在沙子上冲浪一定很刺激吧！「流泉之众」的玛拉妮，来挑战喽！
+
+### 早上好…
+
+好消息，今天没有睡过头！奖励我自己吃顿超豪华早餐吧。
+
+### 中午好…
+
+啊，果然还是起太早了么…不行不行，眼前在闪摩拉，中午得补补觉…
+
+### 晚上好…
+
+需要送餐服务吗？保证让你吃进嘴的时候还是烫的，相信我冲浪板的速度。
+
+### 晚安…
+
+糟糕…在篝火晚会上跳舞跳精神了，今晚肯定睡不着了…呜。
+
+### 关于玛拉妮自己·镇店之宝
+
+店里上架的商品从种类、质量，到功能和颜色全都是我精心挑选过的，但要说我心目中的镇店之宝，就不得不提这件「豚豚泳装」了。水性不好的朋友一定要考虑它，它可以瞬间充气，变成固定在身上的救生豚豚球，这样游泳可就安全多了！
+就算不游泳的时候也可以穿哦，我喜欢穿上它参加派对，非常抓人眼球！就像这样，弹来弹去…弹来弹去…
+顺带一提，配色也是好运款！
+
+### 关于玛拉妮自己·舞蹈
+
+「流泉之众」是最好的度假胜地，这里的草木山川似乎能和大家产生共鸣，成为我们的朋友！
+涌动的波浪，摇曳的海草，飘摆的树叶…它们全都是我崇拜的舞蹈老师，跟着它们的节奏和律动，摇一摇，扭一扭，转个圈，甩起来！怎么样？别愣着看呀，你也一起来试试嘛！
+
+### 关于我们·招呼
+
+看看冲浪板吧！有各种材质和花纹，颜色也很多哦！你的幸运色是什么？没有吗？那我给你挑一块好啦。
+
+### 关于我们·互相托付
+
+一起去过夜神之国，也并肩遥望过神秘岛的光芒，我们早就是可以互相托付生命的伙伴了。如果哪天你在旅途中突然找不到方向，一定要告诉我！我可是超级厉害的向导，就算用冲浪板撞也会给你撞出条路来！
+
+### 关于「神之眼」…
+
+有段时间，我把「神之眼」挂在了豚豚球身上，这海水一般的湛蓝色，怎么看都很配它。但后来和朋友玩排球的时候我完全忘了这回事，豚豚球落在沙滩上，发出非常清脆的一声「哐嘡」，呼…竟然没摔碎，这肯定是好运的预兆！
+
+### 有什么想要分享…
+
+你害怕小狗吗？不怕的话就请和我们家的小狗交朋友吧！它可喜欢跟人玩了，不管见到谁都要跑上前打招呼，盼望着抚摸。哦对了，我们经常一起去玩水，它已经学会冲浪了，不愧是我的好狗狗，青出于我胜于我！
+有机会介绍你们俩认识呀，它那尾巴啊肯定会甩成螺旋桨。你可当心别被甩到了，还挺疼的，哈哈。
+
+### 感兴趣的见闻…
+
+在「流泉之众」，鳍游龙跟我们一样喜欢温泉。很多时候，它们还会跟我们泡在同一个池子里。如果不确定面前的小家伙脾气是好是坏，最好先保持距离。
+你问我怎么判断鳍游龙的脾气？哈哈，我的方法很简单，慢慢地靠近过去，一点点试探。不咬人的话说明脾气挺好的…要是被咬了…就当是亲密接触喽？
+
+### 关于玛薇卡…
+
+火神大人是纳塔最备受敬仰的头号人物，我很崇拜她，不仅因为她是火神大人，更因为…她冲浪的样子真的很帅！
+我邀请过她参加水上竞速项目…嗯？你好奇我们的输赢？那你和我先比一场吧，你赢过我我就告诉你！
+
+### 关于卡齐娜…
+
+卡齐娜说话会考虑很多，性格又很温和善良。明明很出色，却因为不争辩而被周围的人看轻。唉，我从不怀疑她的实力，唯一担心的，是她不够自信，容易听信那些抨击她的话…所以，除了鼓励她，我还要把她的优点告诉其他人。相信总有一天，大家会做出改变的！
+
+### 关于基尼奇…
+
+阿乔一天讲的话比基尼奇一年的话还多，在这种情况下，基尼奇居然不受一点干扰，总能做出自己的判断，这还挺不容易的。回想起来，好像只有在聊运势话题的时候，他俩才会出奇一致地呈现出一副不关心的态度…
+
+### 关于恰斯卡…
+
+我小时候就跟恰斯卡见过面，我们还因为争夺玩具之类的原因打过几次架呢…在得知她成为「调停人」之后，我还挺意外的。听说有的人是慢慢长大的，有的人就蜕变得很快。我的成长期…是不是还没到啊？
+
+### 关于茜特菈莉…
+
+茜特菈莉奶奶绝对是「烟谜主」最最资深的祭司，不是小前辈不是中前辈，是一等一的大前辈！她给我预测过的事情都超灵验的，很久之前她说过我在生意上的幸运色是粉色和蓝色，果不其然，现在店里销量最高的就是粉色蓝色搭配售卖的豚豚球。
+最近我去缠着她，哦不，探望她，她还提到有一个外来者能给我带来吉兆…等等，欸，你不就是外来者嘛！
+
+### 关于伊安珊…
+
+伊安珊不仅是「沃陆之邦」的骄傲，更是纳塔的骄傲，她参加过好多回「归火圣夜巡礼」，至今都保持着全胜战绩！我还报了她的训练班，培训费早就交好了，只是…只是一直在忙没空去训练…
+好吧，我坦白，有次看到卡齐娜接受完训练的样子，我心里就浮现一个声音：「哎呀我擅长的都是些水上项目，在陆地上活动太久要搁浅的」…嗯，我要尊重内心的建议。
+
+### 关于希诺宁…
+
+连火神大人都认可的工匠实力毋庸置疑，就算古名变得稀碎，她也绝对能修得天衣无缝吧？啊！我刚刚是不是说了很不吉利的话？这么重要的东西怎么能弄碎！呸呸呸，刚刚我什么都没说过，你也什么都没听到，好吗？
+
+### 关于伊法…
+
+伊法这个人可上道了！无论叫他出来玩什么他都乐呵呵的，而且做什么都又快又利索。要不是因为他已经干了医生这一行，我倒是挺希望他能来当水上运动教练。部族差异？小意思啦，根本不成问题！
+
+### 想要了解玛拉妮·其一
+
+你有空吗？来我家边坐边聊？边泡温泉边聊也不错！还是说你有想去的地方？我都可以。机会难得，留影机我都带上了，动作我也可以先做示范，放心，今天我们一定能拍出有趣的合影！
+
+### 想要了解玛拉妮·其二
+
+向导是一门很依赖经验的工作，好在先祖们给我们留下了大大小小的宝贵习俗，让我们可以少走弯路。不过放心，我不会一股脑就只认老规矩啦，我遵守的都是我已经尝试过，并且行之有效的习惯。
+有哪些行不通的？嗯…就比如说，有次我想去探索一个新地点，眼前明明有桥，地图却提示需要划船渡河到达对岸。我又是测水流，又是检查桥上有没有机关和隐患…最后终于发现，先祖没推荐走桥是因为——那时候根本没有这个桥嘛！
+啊…向导果然很依赖经验啊…
+
+### 想要了解玛拉妮·其三
+
+我很喜欢接待外地来的游客。每次结束导览后，他们都会感谢我介绍了纳塔的风土人情，而我也会感谢他们。谢谢他们一路上跟我分享见闻，聊自己的家乡，还有我听都没听过的奇闻轶事…对我来说，这同样是一场不可多得的心灵之旅。
+
+### 想要了解玛拉妮·其四
+
+虽然我尽量会用大家都能接受的方式交朋友，但…呵呵…有时候也会有人委婉地告诉我，我太热情了，反而不好招架…所以，现在我在刚认识新朋友时都会收敛一点，熟了再热起来…
+哦，如果你跟我相处过程中有任何不愉快的地方，请不要犹豫，也不要有心理顾虑，直接告诉我！不想当面说，写个匿名纸条也可以哦？我一定会改正的！
+
+### 想要了解玛拉妮·其五
+
+面对困境，每个人都有巨大潜能，参加过「归火圣夜巡礼」后，我无比赞同这一点！但我依然觉得，「两个人」总比「一个人」有更多选择，「三个人」又比「两个人」更有赢面…所有人团结一心，一定能创造不可思议的奇迹！
+就拿「巡夜者战争」来说吧，不仅是现在的我们，还有世代以来保卫纳塔的英杰们，以及此后继续为之奋斗的后辈们，所有的努力积攒起来，才会有越来越好的纳塔。我想，这就是「沃摩延」的意义吧…
+
+### 玛拉妮的爱好…
+
+游泳，跳水，滑水，冲浪，水上滑翔伞，沙滩排球，划船、潜水、水上排球还有水下憋气…哎呀，我喜欢的项目借豚豚球的手都数不来。玩累了我就躺在水上休息，有好几次都睡着了，舒服是舒服，但代价就是醒来后不知道漂到哪里去了，被部族里的长辈训了好久…
+
+### 玛拉妮的烦恼…
+
+不开心的时候，我会告诉自己「哎呀，没关系的，运势不太好而已，这只是糟糕的一天，不是糟糕的一生」，心情就能慢慢调整过来。要是还不管用，我会乘着游隙灵道，在高速的弯道上痛快地放声呼喊，几个来回下来，烦恼就被甩在身后啦，根本追不上我。
+
+### 喜欢的食物…
+
+那种一盘子端上来，不带一点蔬菜，也没有禽肉和兽肉的纯海鲜大餐，吃上一口，就像扎进海里一样，化作一条小鱼，游来游去…唔…太满足了。
+
+### 讨厌的食物…
+
+我还挺后悔小时候偷偷把牛奶倒进温泉里的，不然我应该还能再长高一些…没关系，我答应过阿伽娅阿姨，再也不会那么做了！现在我会好好喝牛奶的，长高还来得及！你也是哦，我们都要引以为戒啊！
+
+### 收到赠礼·其一
+
+怎么会这么好吃！美味程度让人想要踩着冲浪板翻转三周…不落地那种！
+
+### 收到赠礼·其二
+
+还有吗还有吗？这个放在派对上绝对会被一扫而空。
+
+### 收到赠礼·其三
+
+要不要试试用温泉泡一下？那样口感更好哦！
+
+### 生日…
+
+生日快乐！礼物请等会再拆吧，我特意选了这家人气最旺的餐厅…朋友的祝福你肯定收到不少了，但如果说能请旅途的有缘人一起帮你庆祝，你想要体验一下吗？
+嘿嘿，请坐请坐，请接受大家给你的祝福吧。咳咳——打扰一下，大家请看向我！今天是我朋友的生日，就是这位实力超群，品格高尚，击退过最凶猛的巨兽，也治愈过最纤细的灵魂的大英雄！能请在场的大家送给他最美好的祝福吗？来，这边的朋友跟我念，祝你——寻宝好运气！好，那边的朋友——战斗不费力！很好，最后大家一起——生日快乐，健康幸福！ / 生日快乐！礼物请等会再拆吧，我特意选了这家人气最旺的餐厅…朋友的祝福你肯定收到不少了，但如果说能请旅途的有缘人一起帮你庆祝，你想要体验一下吗？
+嘿嘿，请坐请坐，请接受大家给你的祝福吧。咳咳——打扰一下，大家请看向我！今天是我朋友的生日，就是这位实力超群，品格高尚，击退过最凶猛的巨兽，也治愈过最纤细的灵魂的大英雄！能请在场的大家送给她最美好的祝福吗？来，这边的朋友跟我念，祝你——寻宝好运气！好，那边的朋友——战斗不费力！很好，最后大家一起——生日快乐，健康幸福！
+
+### 突破的感受·起
+
+哦哟，正是我想要的！那就不客气啦。
+
+### 突破的感受·承
+
+手劲在噌噌噌往上涨，想来一场精彩激烈的沙滩排球友谊赛吗？
+
+### 突破的感受·转
+
+运势来了…我有手感！现在完全可以征服上次拍翻我的巨浪了，事不宜迟，现在就去挑战。
+
+### 突破的感受·合
+
+为了旅客的安全，通常我会阻止他们去危险的地方。但我知道你有不得已的情况，也免不了主动踏入危险境地，所以为了你的安全，请让我一路陪着你，肩并肩克服这些险境吧。
+
+### 元素战技·其一
+
+起乘！
+
+### 元素战技·其二
+
+甩尾。
+
+### 元素战技·其三
+
+加速咯！
+
+### 元素战技·其四
+
+哟呼！
+
+### 元素战技·其五
+
+超棒！
+
+### 元素战技·其六
+
+浪来咯！
+
+### 元素爆发·其一
+
+巨浪——哗啦哗啦。
+
+### 元素爆发·其二
+
+飞澜鲨鲨！
+
+### 元素爆发·其三
+
+看我看我！祝你好运！
+
+### 冲刺开始·其一
+
+快跑。
+
+### 冲刺开始·其二
+
+需要借你我的冲浪板吗？
+
+### 打开宝箱·其一
+
+我就说今天是幸运日吧！
+
+### 打开宝箱·其二
+
+好东西总是压箱底。
+
+### 打开宝箱·其三
+
+哎呀掉地上了，快捡起来。希望不要掉财运…
+
+### 生命值低·其一
+
+我还要保护我的旅客。
+
+### 生命值低·其二
+
+今天的运势不太好…
+
+### 生命值低·其三
+
+我会赢…我会赢！
+
+### 同伴生命值低·其一
+
+你不是一个人在战斗！
+
+### 同伴生命值低·其二
+
+过分，换我来揍它！
+
+### 倒下·其一
+
+向导怎么能掉队…
+
+### 倒下·其二
+
+「我们不会孤军奋战」…
+
+### 倒下·其三
+
+终点是…回家…
+
+### 普通受击·其一
+
+好了好了。
+
+### 重受击·其一
+
+别太过分！
+
+### 重受击·其二
+
+我的冲浪板——
+
+### 加入队伍·其一
+
+哇，这个组合，赢定了！
+
+### 加入队伍·其二
+
+你好你好，全体队友都好吗？
+
+### 加入队伍·其三
+
+呜呼！冲冲冲。
+
+### 关于梦见月瑞希…
+
+你的人脉还挺广嘛！瑞希是我们「流泉之众」的朋友，虽然模样看起来文静，但她有可多话能聊啦。无论什么话题，她都能轻松接住话头，然后和人一直聊下去…嘿嘿，有时候，和她聊着聊着都会忘记时间…
+噢对了！她在我们这儿的分店铺最近要开张了，有空的话，也来给她的店捧捧场吧？我给她带了紫色的豚豚球作为开业礼物，希望她喜欢！
+
+### 关于瓦雷莎…
+
+瓦雷莎…哦！瓦雷莎！那个力气超大，但却不擅长比赛的好妹妹？之前伊安珊还带她来我们这儿游泳特训呢！她休息的时候喜欢躺在沙滩上看漫画织卷，我也跟着蹭了几本！她能数出很多古代勇士的名号，包括我们「流泉之众」的战士，有的连我都记不太清了！真厉害啊！

@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 70690
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10134
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 70690
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 10
 
 ## RU
 
@@ -44,11 +47,17 @@
 
 **Лиза:** Неужели вы так соскучились, что решили меня навестить?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты угадала.
+
+**Лиза:** А ты неплохо научился льстить с тех пор, как мы виделись в последний раз. / А ты неплохо научилась льстить с тех пор, как мы виделись в последний раз.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Вообще-то мы здесь по делу.
 
-**Лиза:** А ты неплохо (научилась)(научился) льстить с тех пор, как мы виделись в последний раз.
+##### Общее продолжение
 
 **Паймон:** И наконец мы тебя нашли! Думали уже, что сегодня тебя не застанем.
 
@@ -56,9 +65,15 @@
 
 **Лиза:** Или... Неужели вы и взяли это поручение?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Да, именно так.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Больше здесь никого нет. Так что да.
+
+##### Общее продолжение
 
 **Лиза:** Замечательно! Как видите, в Библиотеку недавно поступила большая партия книг от спонсора, пожелавшего остаться анонимным.
 
@@ -82,11 +97,17 @@
 
 **Паймон:** Или вот эта... «Словарь маленькой ведьмы». Хм, подозрительное название. И мы ведь здесь уже всё разобрали? Тебе она не попадалась?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Нет. И в каталоге её не было.
+
+**Паймон:** Гм, когда заходит речь о ведьмах, Паймон всегда кое-кого вспоминает...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Да...
 
-**Паймон:** Гм, когда заходит речь о ведьмах, Паймон всегда кое-кого вспоминает...
+##### Общее продолжение
 
 **Алиса:** Ю-ху! Меня искали?
 
@@ -98,13 +119,19 @@
 
 **Алиса:** Хм, а вы читали сказку под названием «Маленькая ведьма и вечное пламя»?
 
-- **Путешественник:** Кажется, да.
+##### Вариант ответа 1
 
-- **Путешественник:** Впервые слышу.
+- **Путешественник:** Кажется, да.
 
 **Алиса:** Прекрасно. Тогда вам будет легко объяснить: эта книга написана как словарь к сказке про маленькую ведьму. Правда, содержание у них совсем разное.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Впервые слышу.
+
 **Алиса:** Ничего страшного. Формально эта книга написана как словарь к сказке про маленькую ведьму. Правда, содержание у них совсем разное.
+
+##### Общее продолжение
 
 **Паймон:** Твоё объяснение только ещё больше всё запутало!
 
@@ -120,9 +147,15 @@
 
 **Алиса:** Поэтому я попросила ведьм написать этот словарь. Конечно, поводом была книга сказок. Зато мне наконец удалось собрать их всех вместе.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты здорово постаралась.
 
+##### Вариант ответа 2
+
 - **Путешественник:** А мы здесь при чём?
+
+##### Общее продолжение
 
 **Алиса:** Если вкратце, мы заглянули в магическое зеркало Барби и придумали цикл заданий, разработанных специально для жителей Мондштадта. И все они собраны в этом словаре!
 
@@ -132,9 +165,15 @@
 
 **Алиса:** Я такого не говорила. Но если уж речь зашла о «надёжных друзьях», то в Мондштадте найдётся только один человек, которого все смогут назвать своим другом.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Теперь мне стало понятнее.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Надо было сразу догадаться...
+
+##### Общее продолжение
 
 **Паймон:** Подожди. Вся эта гора книг... Это была всего лишь приманка? А тебе известно, сколько времени у нас ушло на сортировку?
 
@@ -172,11 +211,17 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **Lisa:** Let me guess... You missed me so much, you just had to come visit, is that it?
 
+##### Response branch 1
+
 - **Traveler:** You saw right through me.
+
+**Lisa:** Hehe, you've become quite the flatterer since we last saw each other, haven't you?
+
+##### Response branch 2
 
 - **Traveler:** Here for business, actually.
 
-**Lisa:** Hehe, you've become quite the flatterer since we last saw each other, haven't you?
+##### Shared continuation
 
 **Paimon:** Hehe, found you! We were starting to think you weren't clocking in today.
 
@@ -184,9 +229,15 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **Lisa:** Might you... both be here for that very commission, by any chance?
 
+##### Response branch 1
+
 - **Traveler:** Pleased to meet you.
 
+##### Response branch 2
+
 - **Traveler:** We're the only ones here, so... yeah.
+
+##### Shared continuation
 
 **Lisa:** Ah, music to my ears. Now, as you can see, a certain anonymous benefactor has donated a large amount of books to us.
 
@@ -210,11 +261,17 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **Paimon:** And, what's this one... "The Little Witch's Dictionary"? Huh, that title's kinda suspicious. And, didn't we already sort this area? Did you notice it earlier?
 
+##### Response branch 1
+
 - **Traveler:** No, and it's not on the list either.
+
+**Paimon:** Huh, well "witches" always make Paimon think of... Y'know...
+
+##### Response branch 2
 
 - **Traveler:** Yeah...
 
-**Paimon:** Huh, well "witches" always make Paimon think of... Y'know...
+##### Shared continuation
 
 **Alice:** Yoohoo! Looking for me?
 
@@ -226,13 +283,19 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **Alice:** Hm, have you ever read the storybook, "The Little Witch and the Undying Fire," by any chance?
 
-- **Traveler:** I think so.
+##### Response branch 1
 
-- **Traveler:** First I've heard of it.
+- **Traveler:** I think so.
 
 **Alice:** Splendid. That makes things easier to explain... This book was written as a dictionary for that other story. The actual contents of the two aren't related at all, though.
 
+##### Response branch 2
+
+- **Traveler:** First I've heard of it.
+
 **Alice:** No matter. At least in name, this book was written as a dictionary for the other one. The actual contents of the two aren't related at all, though.
+
+##### Shared continuation
 
 **Paimon:** That explanation makes things even more confusing!
 
@@ -248,9 +311,15 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **Alice:** So, I gathered the mages together to write this dictionary. Of course, it had to be under the guise of being related to that storybook. Otherwise, I never would have been able to get them in one place.
 
+##### Response branch 1
+
 - **Traveler:** Sounds like a lot of work.
 
+##### Response branch 2
+
 - **Traveler:** So, how do we factor in, exactly?
+
+##### Shared continuation
 
 **Alice:** Well, we looked into Barbie's scryglass and came up with a series of tasks tailor-made for the people of Mondstadt. They're all in this dictionary!
 
@@ -260,9 +329,15 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **Alice:** Now, now, I never said that! But still, we are talking about "trusted companions" here Paimon. And when we speak of a person who could be considered a friend to all in Mondstadt... I'm afraid the pool of options consists of but one.
 
+##### Response branch 1
+
 - **Traveler:** I see what's going on here.
 
+##### Response branch 2
+
 - **Traveler:** I should've seen this coming...
+
+##### Shared continuation
 
 **Paimon:** Wait. The huge book donation... That was just an excuse to get us here, wasn't it? We had to spend ages sorting through them, y'know!
 
@@ -300,11 +375,17 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **丽莎:** 该不会是因为太想念姐姐，特意专程回来看我的吧？
 
+##### 对话分支 1
+
 - **旅行者:** 被你猜中了。
+
+**丽莎:** 这么久没见，你也是越来越会说话了。
+
+##### 对话分支 2
 
 - **旅行者:** 还是先说正事吧。
 
-**丽莎:** 这么久没见，你也是越来越会说话了。
+##### 共同后续
 
 **派蒙:** 终于找到你了，丽莎小姐，我们还以为你今天不在呢。
 
@@ -312,9 +393,15 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **丽莎:** 嗯？这么巧，该不会接下委托的就是你们吧？
 
+##### 对话分支 1
+
 - **旅行者:** 正是在下。
 
+##### 对话分支 2
+
 - **旅行者:** 这里应该也没有其他人了。
+
+##### 共同后续
 
 **丽莎:** 那真是再好不过了。如你所见，图书馆最近收到了一大批来自某位不愿意透露姓名的赞助人捐赠的书籍。
 
@@ -338,11 +425,17 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **派蒙:** 这里还有一本《小魔女辞典》…唔，名字看着就很可疑，而且这边我们不是整理过了嘛，刚才有看到这本书吗？
 
+##### 对话分支 1
+
 - **旅行者:** 书目上好像没看到。
+
+**派蒙:** 而且说到魔女，总会想到…
+
+##### 对话分支 2
 
 - **旅行者:** 说到魔女…
 
-**派蒙:** 而且说到魔女，总会想到…
+##### 共同后续
 
 **艾莉丝:** 嗨呀，你们是在找我吗？
 
@@ -354,13 +447,19 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **艾莉丝:** 嗯哼，不知道你们有没有读过一本叫《小魔女与不熄灭的火》的故事书呢？
 
-- **旅行者:** 好像在哪里读过。
+##### 对话分支 1
 
-- **旅行者:** 第一次听说。
+- **旅行者:** 好像在哪里读过。
 
 **艾莉丝:** 那就好解释了，虽然内容毫无关联，不过本书姑且算是为了那本故事书所写的辞典呢。
 
+##### 对话分支 2
+
+- **旅行者:** 第一次听说。
+
 **艾莉丝:** 没读过也没关系，虽然名义上这本书算是为了那本故事书写的辞典，不过内容可以说是毫无关联。
+
+##### 共同后续
 
 **派蒙:** 你这样解释完，我就更搞不懂啦！
 
@@ -376,9 +475,15 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **艾莉丝:** 所以我就拜托魔女们写了这本辞典，当然是打着那本故事书的名义，才好不容易把人凑齐的。
 
+##### 对话分支 1
+
 - **旅行者:** 还真是费心了。
 
+##### 对话分支 2
+
 - **旅行者:** 所以和我们的关系是？
+
+##### 共同后续
 
 **艾莉丝:** 简单来说呢，这本辞典里装满了魔女们在看了芭比的水占盘后，为蒙德的大家量身定制的「课题」。
 
@@ -388,9 +493,15 @@ One day, you receive an important commission from the Knights of Favonius...
 
 **艾莉丝:** 我可没有这样说过哦。不过说到「伙伴」，能够和蒙德的大家都称得上「伙伴」的人选，恐怕也就只有一个。
 
+##### 对话分支 1
+
 - **旅行者:** 这下听懂了。
 
+##### 对话分支 2
+
 - **旅行者:** 总感觉从一开始就…
+
+##### 共同后续
 
 **派蒙:** 该不会你从一开始就是为了这件事才把我们算进来的吧。
 

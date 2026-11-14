@@ -14,13 +14,16 @@
 # chapter_num_zh: 水仙的安·第三幕
 # part_source_ids: 74004
 # previous_quests: quest_wq_10148
-# next_quests: quest_wq_74056,quest_wq_74135
+# next_quests: 
 # related_quests: quest_wq_10146,quest_wq_10148
 # quest_chain: quest_wq_10146,quest_wq_10148,quest_wq_10149
 # quest_series: Ann of the Narzissenkreuz
 # version_source: wiki_release_category
 
-# quest_series_ru: Анн из Нарциссенкрейца
+# quest_series_ru: Анн из Нарциссенкрейц
+# game_source_ids: 74004
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 30
 
 ## RU
 
@@ -30,15 +33,23 @@
 
 #### Поговорите с Анн
 
+#### Поговорите с Анн
+
 **Паймон:** Хм... Паймон хотела было сказать, что в той книге всё было таким странным. Но в сравнении со всем, что происходит вокруг, вроде бы не такое уж оно и странное...
 
 **Анн:** Именно так и должен быть устроен мир, а вовсе не как это принято в других местах. Дети должны жить среди солнечного света и цветов. И никто не должен нарушать их покой и приносить им боль.
 
 **Паймон:** Здесь и правда очень приятно! В наших странствиях по королевству Нарциссенкрейц мы видели маловато солнечного света. А стоило добраться сюда, сразу стало веселей!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Правда?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Загадок становится всё больше.
+
+##### Общее продолжение
 
 **Анн:** ...
 
@@ -46,40 +57,46 @@
 
 **Паймон:** Мы бы выращивали много сочных фруктов. И, конечно, цветок-сахарок! Звали бы друзей в гости. А может, кто-то из них даже поселился бы вместе с нами. Вот было бы хорошо, да?
 
-- **Путешественник:** Да, и правда хорошо.
+##### Вариант ответа 1
 
-- **Путешественник:** Давай ближе к делу.
+- **Путешественник:** Да, и правда хорошо.
 
 **Паймон:** Хи-хи, ну всё, договорились! Но сейчас нам нужно помочь Анн найти принцессу Лирис!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Давай ближе к делу.
+
 **Паймон:** И правда! Сейчас нам нужно помочь Анн найти принцессу Лирис!
 
-**Мари-Анн:** Мари с друзьями в прятки играли. Где они? ♪
+##### Общее продолжение
+
+**???:** Мари с друзьями в прятки играли. Где они? ♪
 
 **Паймон:** Кажется, там кто-то поёт...
-
-#### Следуйте за голосом
 
 **Паймон:** Что?
 
 #### Следуйте за голосом
 
-**Мари-Анн:** Мари с друзьями в прятки играли. Где они? ♪
+#### Следуйте за голосом
+
+**???:** Мари с друзьями в прятки играли. Где они? ♪
 К безбрежному морю, к источнику жизни друзья ушли. ♪
 
 **Паймон:** Привет!
 
-**Мари-Анн:** Ой, привет!
+**???:** Ой, привет!
 
-**Мари-Анн:** Прошу прощения, я готовила угощение и совсем не заметила, как вы подошли. Прошу, присаживайтесь к столу!
+**???:** Прошу прощения, я готовила угощение и совсем не заметила, как вы подошли. Прошу, присаживайтесь к столу!
 
 **Паймон:** Ура, угощение!
 
-**Мари-Анн:** Всё очень вкусное.
+**???:** Всё очень вкусное.
 
-**Мари-Анн:** Но сначала придётся немного подождать, пока не прозвонит колокольчик, иначе было бы невежливо.
+**???:** Но сначала придётся немного подождать, пока не прозвонит колокольчик, иначе было бы невежливо.
 
-**Мари-Анн:** Откуда вы? Такая удивительная компания - героического вида юноша / девушка, малышка-океанида и эта милая порхающая кроха.
+**???:** Откуда вы? Такая удивительная компания - героического вида юноша, малышка-океанида и эта милая порхающая кроха. / Откуда вы? Такая удивительная компания - героического вида девушка, малышка-океанида и эта милая порхающая кроха.
 
 **Паймон:** Хи-хи, Паймон зовут Паймон. А это Путешественник!
 
@@ -87,11 +104,15 @@
 
 **Паймон:** (Хм, Анн как будто не слишком рада?)
 
-(Наверное, задумалась о чём-то.)
+- **Путешественник:** (Наверное, задумалась о чём-то.)
 
 **Паймон:** А нашу подругу-океаниду зовут Анн!
 
 **Мари-Анн:** Какие красивые имена! А меня зовут Мари-Анн.
+
+- **Путешественник:** Мари-Анн...
+
+**Паймон:** Хм, знакомое имя...
 
 **Мари-Анн:** Ко мне давно никто не заходил из чужаков, я вам очень рада. Откуда вы?
 
@@ -103,9 +124,15 @@
 
 **Паймон:** Мда... Путешественник, тебе тоже так кажется?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Да чего там бояться?..
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ну, в каком-то смысле было страшно, да.
+
+##### Общее продолжение
 
 **Мари-Анн:** Как здорово! Я слышала, что Нарцисс погубил немало жизней и обратил целые королевства в прах и пепел. Победить его - выдающийся подвиг!
 
@@ -119,11 +146,11 @@
 
 **Паймон:** Да? Но перед тем, как сюда попасть, мы видели книгу о красивой и доброй принцессе Лирис...
 
-**Мари-Анн:** Красивая и добрая принцесса Лирис... Даже не знаю. Но вот Путешественник вполне похож(а) на принца / принцессу из дальних земель!
+**Мари-Анн:** Красивая и добрая принцесса Лирис... Даже не знаю. Но вот Путешественник вполне похож на принца из дальних земель! / Красивая и добрая принцесса Лирис... Даже не знаю. Но вот Путешественник вполне похожа на принцессу из дальних земель!
 
-...
+- **Путешественник:** ...
 
-**Паймон:** (Откуда-то доносится звон колокольчика...)
+**???:** (Откуда-то доносится звон колокольчика...)
 
 **Паймон:** А? Этот звон...
 
@@ -131,19 +158,25 @@
 
 **Мари-Анн:** Хотя их здесь больше нет, лучше следовать правилам этого места. Иначе мне было бы перед ними очень неудобно. Давайте приступим к угощению!
 
-- **Путешественник:** Я стесняться не буду!
+##### Вариант ответа 1
 
-- **Путешественник:** Спасибо, я не голоден / голодна.
+- **Путешественник:** Я стесняться не буду!
 
 **Паймон:** Отлично! Вкусняшки!
 
 Вы с Паймон принимаетесь за угощение.
 Хотя всё очень красиво выглядит, но на вкус как вода.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Спасибо, я не голоден. / Спасибо, я не голодна.
+
 **Паймон:** Хе, тогда Паймон возьмёт твою порцию, Путешественник!
 
 Паймон радостно уплетает угощение.
 При виде того, как она довольна, вы тоже ощущаете лёгкий аппетит.
+
+##### Общее продолжение
 
 **Мари-Анн:** Ну как?
 
@@ -154,6 +187,10 @@
 **Паймон:** Да ничего! По крайней мере, Паймон наелась от пуза!
 
 **Мари-Анн:** Раз так, приглашаю вас на прогулку!
+
+#### Следуйте за Мари-Анн
+
+#### Поговорите с Мари-Анн
 
 #### Поговорите с Мари-Анн
 
@@ -188,9 +225,15 @@
 
 **Паймон:** Ого... Настоящее чудо природы!
 
+##### Вариант ответа 1
+
 - **Путешественник:** В буквальном смысле слова чудо...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Действительно чудо природы!
+
+##### Общее продолжение
 
 **Мари-Анн:** Анн, а ты что думаешь?
 
@@ -198,13 +241,13 @@
 
 **Мари-Анн:** Я знала, что тебе понравится. Ведь и мне они по душе.
 
-**Мари-Анн:** Путешественник, ты ведь пришёл / пришла издалека? Какие в тех краях цветы?
+**Мари-Анн:** Путешественник, ты ведь пришёл издалека? Какие в тех краях цветы? / Путешественник, ты ведь пришла издалека? Какие в тех краях цветы?
 
-(Вы описываете цветы, украшающие причёску вашей сестры.) / Например, такие цветы, как у меня в волосах.
+- **Путешественник:** (Вы описываете цветы, украшающие причёску вашей сестры.) / Например, такие цветы, как у меня в волосах.
 
 **Мари-Анн:** Должно быть, это очень красивые цветы. / Я сразу заметила эти цветы и подумала, что они очень красивы.
 
-Но увидеть эти цветы непросто.
+- **Путешественник:** Но увидеть эти цветы непросто.
 
 **Паймон:** Путешественник...
 
@@ -251,13 +294,21 @@
 
 **Паймон:** Э-э... Паймон ничего не поняла. А ты, Путешественник?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Разделение важно, хотя при этом становишься уязвимее.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Но и вернуться к единству может быть неплохо.
+
+##### Вариант ответа 3
 
 - **Путешественник:** Люди способны объединяться, не теряя себя.
 
 **Мари-Анн:** Да. Правда способны?
+
+##### Общее продолжение
 
 **Мари-Анн:** Хм, я понимаю твою мысль, Путешественник.
 
@@ -269,17 +320,25 @@
 
 **Мари-Анн:** Давайте ещё прогуляемся. Точно! Я ведь могу показать вам нашу собаку!
 
+#### Следуйте за Мари-Анн
+
+#### Следуйте за Мари-Анн
+
+#### Покормите пса
+
 #### Поговорите с Мари-Анн
 
-**Мори:** Милостивый сударь / Милостивая сударыня, для меня большая честь вкусить пищу из ваших рук. Рад снова встретиться с вами, госпожа Мари-Анн.
+#### Поговорите с Мари-Анн
 
-?
+**«Собака»:** Милостивый сударь, для меня большая честь вкусить пищу из ваших рук. Рад снова встретиться с вами, госпожа Мари-Анн. / Милостивая сударыня, для меня большая честь вкусить пищу из ваших рук. Рад снова встретиться с вами, госпожа Мари-Анн.
+
+- **Путешественник:** ?
 
 **Мари-Анн:** Хорошая собака.
 
 **Паймон:** Э-э, хороший пёся?..
 
-**Мори:** Как поживаешь, милое создание?
+**«Собака»:** Как поживаешь, милое создание?
 
 **Паймон:** Кхм, Паймон, конечно, рада услышать, что она милая, но... Анн, что происходит?
 
@@ -289,11 +348,19 @@
 
 **Паймон:** Тогда... Может, Путешественник, это мы с тобой чего-то не понимаем, и собаки на самом деле должны выглядеть именно так?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Сложно сказать...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Вряд ли.
 
+##### Вариант ответа 3
+
 - **Путешественник:** Не будем отвлекаться на мелочи...
+
+##### Общее продолжение
 
 **Мари-Анн:** Вода изменчива, и жизнь сама выбирает, какую форму ей придать. Но не всегда эта форма отражает её истинную суть.
 
@@ -319,7 +386,7 @@
 
 **Мари-Анн:** Пока, Мори. Будь хорошим пёсиком.
 
-**Мори:** Хорошо. До свидания, Мари-Анн и гости.
+**«Собака»:** Хорошо. До свидания, Мари-Анн и гости.
 
 **Паймон:** Э-э, нет-нет-нет! В этом приключении всё больше и больше непонятного! Если бы Паймон не увидела эту собаку, то о многом и не вспомнила бы...
 
@@ -337,21 +404,27 @@
 
 **Паймон:** Правда, Путешественник?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хм...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Вы правда хотите узнать моё мнение?
 
-**Паймон:** ...
+**Анн и Мари-Анн:** ...
+
+##### Общее продолжение
 
 **Паймон:** Давай, Путешественник, котелок у тебя варит отлично. А то Паймон что-то уже ничего не может понять...
 
-Паймон, всё случившееся с нами - просто «история».
+- **Путешественник:** Паймон, всё случившееся с нами - просто «история».
 
 **Паймон:** Н-но... Но как же приключения вместе с Отрядом героев Нарциссенкрейца и сражения с приспешниками Нарцисса? Мы ведь всё это испытали на самом деле...
 
-Подумай хорошенько, Паймон...
+- **Путешественник:** Подумай хорошенько, Паймон...
 
-Есть ли среди семи стран Тейвата королевство Нарциссенкрейц?
+- **Путешественник:** Есть ли среди семи стран Тейвата королевство Нарциссенкрейц?
 
 **Паймон:** Ой-ой, а ведь и правда... Как же Паймон сама об этом не подумала?!
 
@@ -365,23 +438,23 @@
 
 **Анн:** Паймон, я понимаю, что Путешественник хочет сказать... Всё, что произошло после подъёма на башню, выходит за рамки сюжета. Да?
 
-Недописанная часть истории.
+- **Путешественник:** Недописанная часть истории.
 
 **Анн:** Чудесный меч, злой дракон Нарцисс - всё это тоже части истории, просто их не успели расставить по местам.
 
 **Паймон:** Но Паймон всё ещё трудно представить, кто смог бы соорудить такие огромные декорации для спектакля...
 
-Всё это существовало и так.
+- **Путешественник:** Всё это существовало и так.
 
-Просто на время стало подмостками для истории.
+- **Путешественник:** Просто на время стало подмостками для истории.
 
 **Мари-Анн:** ...
 
 **Анн:** Значит, мои воспоминания - это то, что там действительно происходило. А я сама лишь персонаж...
 
-Не совсем так.
+- **Путешественник:** Не совсем так.
 
-Всё, что Анн смогла вспомнить, хранилось в её памяти.
+- **Путешественник:** Всё, что Анн смогла вспомнить, хранилось в её памяти.
 
 **Паймон:** Но тогда Анн...
 
@@ -392,6 +465,8 @@
 **Мари-Анн:** Даже если вы уверены, что всё это ложь, зачем проговаривать это вслух? Пощадите хотя бы чувства Анн.
 
 **Паймон:** Что?
+
+#### Поговорите с Мари-Анн
 
 #### Поговорите с Мари-Анн
 
@@ -431,6 +506,10 @@
 
 **Мари-Анн:** В реальном мире всё кончилось. До свидания.
 
+#### Следуйте за потоком
+
+#### Поговорите с Анн
+
 #### Поговорите с Анн
 
 **Паймон:** Анн...
@@ -449,9 +528,9 @@
 
 **Паймон:** ...
 
-**Паймон:** Так ты знал(а), что всё так обернётся, Путешественник?
+**Паймон:** Так ты знал, что всё так обернётся, Путешественник? / Так ты знала, что всё так обернётся, Путешественник?
 
-Нет. Я думал(а), мы поможем Анн.
+- **Путешественник:** Нет. Я думал, мы поможем Анн. / Нет. Я думала, мы поможем Анн.
 
 **Паймон:** Тогда...
 
@@ -463,33 +542,45 @@
 
 **Анн:** И я. Только появилось смутное ощущение, будто в прошлом случилось что-то очень плохое...
 
-**Паймон:** Мне кажется, всё это ужасно нечестно! Не только по отношению к Анн, но и к нам с путешественником / путешественницей!
+**Паймон:** Мне кажется, всё это ужасно нечестно! Не только по отношению к Анн, но и к нам с путешественником! / Мне кажется, всё это ужасно нечестно! Не только по отношению к Анн, но и к нам с путешественницей!
 
 **Паймон:** Так что мы должны хотя бы выяснить толком, что происходит. И тогда что-нибудь придумаем!
 
 **Паймон:** Может, мы спасём принцессу, может, разберёмся в словах Мари-Анн. Или придумаем что-то ещё, чтобы помочь Анн! Правда, Путешественник?
 
+##### Вариант ответа 1
+
 - **Путешественник:** «История» ещё не кончилась, Анн.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Всегда есть выход.
+
+##### Общее продолжение
 
 **Анн:** Да...
 
 **Паймон:** Но если всё это только история, то кое-чего Паймон не понимает. Путешественник, мы с тобой в ней тоже какие-то персонажи?
 
-Не уверен(а). Вроде бы нет.
+- **Путешественник:** Не уверен. Вроде бы нет. / Не уверена. Вроде бы нет.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Мы - это фактор неопределённости.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Кое-что сверх программы.
 
-Поэтому только мы можем завершить историю.
+##### Общее продолжение
+
+- **Путешественник:** Поэтому только мы можем завершить историю.
 
 **Паймон:** А, теперь ясно. Вот почему Анн смогла найти нас и включить в историю!
 
 **Паймон:** Анн, может, ты об этом не задумывалась, но... Если мы способны изменить изначальный ход этой истории, то перед нами открывается море возможностей. Правда ведь, Путешественник?
 
-Так и есть.
+- **Путешественник:** Так и есть.
 
 **Анн:** Ох... Спасибо вам, рыцарь Путешественник и Паймон...
 
@@ -499,20 +590,6 @@
 
 **Анн:** Мне вспоминается одно место, Ордо Нарциссенкрейц. Кажется, оно тесно связано с прошлым.
 
-**Паймон:** Что? Паймон только сейчас подумалось, что это название явно имеет отношение к королевству и Отряду героев Нарциссенкрейца из истории Анн...
-
-- **Путешественник:** А раньше тебе это в голову не приходило?
-
-- **Путешественник:** Потрясающе! Вот это открытие!
-
-**Паймон:** Эй! Вообще-то у Паймон просто не было времени как следует подумать из-за этих ваших приключений!
-
-**Анн:** Вы знаете об Ордо Нарциссенкрейц?
-
-**Паймон:** Мы кое-кого оттуда встречали. Может, они нам помогут.
-
-**Паймон:** Ладно, идём!
-
 **Паймон:** Хм, это название явно имеет отношение к королевству и Отряду героев Нарциссенкрейца...
 
 **Паймон:** А где находится этот Ордо Нарциссенкрейц, ты не знаешь, Анн?
@@ -521,20 +598,36 @@
 
 **Паймон:** Ну ничего! Мы опытные искатели приключений, так что найдём всенепременно!
 
+**Паймон:** Что? Паймон только сейчас подумалось, что это название явно имеет отношение к королевству и Отряду героев Нарциссенкрейца из истории Анн...
 
-Мари-Анн...
+##### Вариант ответа 1
 
-**Паймон:** Хм, знакомое имя...
+- **Путешественник:** А раньше тебе это в голову не приходило?
 
+**Паймон:** Эй! Вообще-то у Паймон просто не было времени как следует подумать из-за этих ваших приключений!
 
-Как в той книге про Институт натурфилософии...
+##### Вариант ответа 2
+
+- **Путешественник:** Потрясающе! Вот это открытие!
+
+##### Общее продолжение
+
+**Анн:** Вы знаете об Ордо Нарциссенкрейц?
+
+**Паймон:** Мы кое-кого оттуда встречали. Может, они нам помогут.
+
+**Паймон:** Ладно, идём!
+
+- **Путешественник:** Как в той книге, которую нашла Канотила...
+
+**Паймон:** Ох... Немного зловеще...
+
+- **Путешественник:** Как в той книге про Институт натурфилософии...
 
 **Паймон:** Мм... Вроде бы не совсем в точности...
 
-
-Как в той книге, которую нашла Канотила...
-
-**Паймон:** Ох... Немного зловеще...
+Ваш взор покрылся туманом, вы чувствуете невесомость по всему телу, а температура ещё недавно тёплого воздуха стремительно падает.
+Вы словно поскользнулись и упали в ледяную воду.
 
 ## EN
 
@@ -544,15 +637,23 @@ You have arrived at "the real Annapausis."
 
 #### Talk to Ann
 
+#### Talk to Ann
+
 **Paimon:** Paimon wants to say that the book's contents were really weird, but it's really not much when compared to this, is it?
 
 **Ann:** The world should be like this, not like how it is outside. Children should be able to play under the sun and in the grass without fear of hindrance or harm.
 
 **Paimon:** This place does feel pretty comfy, yeah. Paimon feels way better than she did back when we were adventuring throughout the kingdom. There was no sunlight there at all!
 
+##### Response branch 1
+
 - **Traveler:** Is that how it is?
 
+##### Response branch 2
+
 - **Traveler:** One mystery follows another.
+
+##### Shared continuation
 
 **Ann:** ...
 
@@ -560,52 +661,62 @@ You have arrived at "the real Annapausis."
 
 **Paimon:** We can eat tasty fruits, plant lots of Sweet Flowers, and we can invite our friends over as guests! We could all live together happily. What do you say?
 
-- **Traveler:** Eh, sure.
+##### Response branch 1
 
-- **Traveler:** ...Let's put a pin in that for now.
+- **Traveler:** Eh, sure.
 
 **Paimon:** Hehe, then it's agreed! Still, we should focus on helping Ann find the Princess first, huh?
 
+##### Response branch 2
+
+- **Traveler:** ...Let's put a pin in that for now.
+
 **Paimon:** Huh, that's true. We've gotta help Ann find the Princess first, don't we?
 
-**Mary-Ann:** Hide and seek, hide and seek, where did Mary and her friends go? ♪
+##### Shared continuation
+
+**???:** Hide and seek, hide and seek, where did Mary and her friends go? ♪
 
 **Paimon:** Huh? Sounds like someone's singing over there...
-
-#### Find the owner of the voice
 
 **Paimon:** Huh!
 
 #### Find the owner of the voice
 
-**Mary-Ann:** Hide and seek, hide and seek, where did Mary and her friends go? ♪
+#### Find the owner of the voice
+
+**???:** Hide and seek, hide and seek, where did Mary and her friends go? ♪
 To a great sea without borders, to the place from which all lives flow. ♪
 
 **Paimon:** Hey there!
 
-**Mary-Ann:** Oh, hi!
+**???:** Oh, hi!
 
-**Mary-Ann:** I'm sorry. I was just preparing some tea and didn't notice you. Come, sit. Snacks will be ready soon!
+**???:** I'm sorry. I was just preparing some tea and didn't notice you. Come, sit. Snacks will be ready soon!
 
 **Paimon:** Ooh, snacks!
 
-**Mary-Ann:** Yes, and ours are very good.
+**???:** Yes, and ours are very good.
 
-**Mary-Ann:** Ah, but I must say this first. We can only start once the bell rings. It would be quite rude to do otherwise.
+**???:** Ah, but I must say this first. We can only start once the bell rings. It would be quite rude to do otherwise.
 
-**Mary-Ann:** Where are you from, by the way? Why, you are a fascinating combination, aren't you? A handsome young man / A lovely young lady, a small little Oceanid, and your beautiful, floating friend.
+**???:** Where are you from, by the way? Why, you are a fascinating combination, aren't you? A handsome young man, a small little Oceanid, and your beautiful, floating friend. / Where are you from, by the way? Why, you are a fascinating combination, aren't you? A lovely young lady, a small little Oceanid, and your beautiful, floating friend.
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler!
+**Paimon:** Hehe. Paimon's Paimon, and he's Traveler! / Hehe. Paimon's Paimon, and she's Traveler!
 
 **Ann:** ...
 
 **Paimon:** (Huh. Is it just Paimon, or does Ann look unhappy?)
 
-(She might have been reminded of something.)
+- **Traveler:** (She might have been reminded of something.)
 
 **Paimon:** Ah, and this Oceanid is our friend, Ann!
 
 **Mary-Ann:** Oh, my. A fine name indeed. In that case, please call me Mary-Ann.
+
+- **Traveler:** Mary-Ann...
+
+**Paimon:** Ugh, y'know, Paimon's sure we've heard this name before...
 
 **Mary-Ann:** My, what a pleasant surprise. It has been a long time since I've met someone from outside. Where are you from?
 
@@ -617,9 +728,15 @@ To a great sea without borders, to the place from which all lives flow. ♪
 
 **Paimon:** Uh... Did you think so, Traveler?
 
+##### Response branch 1
+
 - **Traveler:** Not really...
 
+##### Response branch 2
+
 - **Traveler:** In a manner of speaking, I suppose.
+
+##### Shared continuation
 
 **Mary-Ann:** My, I've heard that Narcissus has hurt many, and has turned many kingdoms to ash. Defeating him was an impressive feat indeed!
 
@@ -633,11 +750,11 @@ To a great sea without borders, to the place from which all lives flow. ♪
 
 **Paimon:** Is that so? But before we came here, we read a book about that princess, and how she's beautiful and kind and stuff...
 
-**Mary-Ann:** I'm afraid I'm unfamiliar with any such person... On the flipside, you, Traveler, do quite look like a prince / princess from a distant land!
+**Mary-Ann:** I'm afraid I'm unfamiliar with any such person... On the flipside, you, Traveler, do quite look like a prince from a distant land! / I'm afraid I'm unfamiliar with any such person... On the flipside, you, Traveler, do quite look like a princess from a distant land!
 
-...
+- **Traveler:** ...
 
-**Paimon:** (You hear the sound of a bell...)
+**???:** (You hear the sound of a bell...)
 
 **Paimon:** Eh? Is that the bell?
 
@@ -645,19 +762,25 @@ To a great sea without borders, to the place from which all lives flow. ♪
 
 **Mary-Ann:** They're not here now, but I think it best to follow the rules all the same. They'd be quite disappointed otherwise, I suspect. Well then, shall we?
 
-- **Traveler:** Don't mind if I do.
+##### Response branch 1
 
-- **Traveler:** Thanks, but I'm not hungry at the moment...
+- **Traveler:** Don't mind if I do.
 
 **Paimon:** Hurray, snacks!
 
 You and Paimon enjoy the snacks together.
 They look very beautiful, but they are tasteless like pure water.
 
+##### Response branch 2
+
+- **Traveler:** Thanks, but I'm not hungry at the moment...
+
 **Paimon:** Hehe! In that case, your share's Paimon's!
 
 Paimon happily digs in.
 As you watch her enjoy the snacks, you find yourself feeling a little peckish, too.
+
+##### Shared continuation
 
 **Mary-Ann:** How were they?
 
@@ -668,6 +791,10 @@ As you watch her enjoy the snacks, you find yourself feeling a little peckish, t
 **Paimon:** Oh, don't worry about it! At... at least Paimon's full now!
 
 **Mary-Ann:** Well, in that case, let me take you all out on a stroll!
+
+#### Follow Mary-Ann
+
+#### Talk to Mary-Ann
 
 #### Talk to Mary-Ann
 
@@ -702,9 +829,15 @@ As the drops of water stain the soil of the garden black, the sunflowers spring 
 
 **Paimon:** Huh, so that's how it is... Nature really is amazing, huh?
 
+##### Response branch 1
+
 - **Traveler:** I suspect this exceeds the realm of "amazing."
 
+##### Response branch 2
+
 - **Traveler:** Nature really is amazing!
+
+##### Shared continuation
 
 **Mary-Ann:** Do you like them, Ann?
 
@@ -714,11 +847,11 @@ As the drops of water stain the soil of the garden black, the sunflowers spring 
 
 **Mary-Ann:** You're from a very, very faraway place, aren't you, Traveler? What sort of flowers bloom there?
 
-(Describe the flowers your sister wears in her hair.) / The flowers I wear in my hair.
+- **Traveler:** (Describe the flowers your sister wears in her hair.) / The flowers I wear in my hair.
 
 **Mary-Ann:** Ah... Those do sound like lovely flowers. / I thought those flowers were beautiful the moment I saw you.
 
-But I fear that they'll be hard to find now.
+- **Traveler:** But I fear that they'll be hard to find now.
 
 **Paimon:** Traveler...
 
@@ -765,13 +898,21 @@ Mary-Ann happily plants them in the soil.
 
 **Paimon:** Um... Paimon doesn't really get it. What do you think, Traveler?
 
+##### Response branch 1
+
 - **Traveler:** They may be weak, but the distance is necessary.
 
+##### Response branch 2
+
 - **Traveler:** It might not be a bad thing for them to unite.
+
+##### Response branch 3
 
 - **Traveler:** People can unite and yet maintain their personhood.
 
 **Mary-Ann:** Hmm. Can they, really?
+
+##### Shared continuation
 
 **Mary-Ann:** ...I think I understand where you're coming from, Traveler.
 
@@ -783,17 +924,25 @@ Mary-Ann happily plants them in the soil.
 
 **Mary-Ann:** Let's have a little walk again, shall we? Ah, yes! I can take you to see our dog!
 
+#### Follow Mary-Ann
+
+#### Follow Mary-Ann
+
+#### Feed the "dog"
+
 #### Talk to Mary-Ann
 
-**Mori:** Noble Sir / Noble Miss, it is an honor to receive food from you. A pleasure to see you again as well, Ms. Mary-Ann.
+#### Talk to Mary-Ann
 
-?
+**"Doggie":** Noble Sir, it is an honor to receive food from you. A pleasure to see you again as well, Ms. Mary-Ann. / Noble Miss, it is an honor to receive food from you. A pleasure to see you again as well, Ms. Mary-Ann.
+
+- **Traveler:** ?
 
 **Mary-Ann:** Oh, you good doggie!
 
 **Paimon:** Um... good doggie?
 
-**Mori:** And how do you do, dear little Miss?
+**"Doggie":** And how do you do, dear little Miss?
 
 **Paimon:** Well, uh, thanks for being polite and all, but... Ann, what's going on?
 
@@ -803,11 +952,19 @@ Mary-Ann happily plants them in the soil.
 
 **Paimon:** Hmm. Does this mean that we've been wrong all along about what dogs really look like?
 
+##### Response branch 1
+
 - **Traveler:** Hard to say.
+
+##### Response branch 2
 
 - **Traveler:** I doubt it.
 
+##### Response branch 3
+
 - **Traveler:** Don't fuss over the details too much.
+
+##### Shared continuation
 
 **Mary-Ann:** Water can take any shape, and life can choose what form it must take. This, however, has nothing to do with its essence. That is a different matter.
 
@@ -833,7 +990,7 @@ Mary-Ann happily plants them in the soil.
 
 **Mary-Ann:** You go first, alright? And remember, be a good dog.
 
-**Mori:** Understood. See you, Ms. Mary-Ann. See you, dear guests.
+**"Doggie":** Understood. See you, Ms. Mary-Ann. See you, dear guests.
 
 **Paimon:** Oh, this is bad. The number of things that don't make sense just keeps going up! If we hadn't seen the dog, Paimon would've forgotten all that stuff already!
 
@@ -851,21 +1008,27 @@ Mary-Ann happily plants them in the soil.
 
 **Paimon:** Right? Traveler?
 
+##### Response branch 1
+
 - **Traveler:** Hmm...
+
+##### Response branch 2
 
 - **Traveler:** Do you really want to hear what I have to say?
 
-**Paimon:** ...
+**Ann & "Mary-Ann":** ...
+
+##### Shared continuation
 
 **Paimon:** Of course! You've got the bigger brain here, don't you?
 
-Paimon, all we experienced so far was just a "story."
+- **Traveler:** Paimon, all we experienced so far was just a "story."
 
 **Paimon:** Wait, b—but didn't we team up with the Narzissenkreuz Adventure Team to defeat Narcissus's henchmen? Wasn't that real?
 
-Think about it for a moment, Paimon...
+- **Traveler:** Think about it for a moment, Paimon...
 
-Is there even a Narzissenkreuz Kingdom amongst the seven nations?
+- **Traveler:** Is there even a Narzissenkreuz Kingdom amongst the seven nations?
 
 **Paimon:** Huh. You're right. Paimon didn't think of that!
 
@@ -879,23 +1042,23 @@ Is there even a Narzissenkreuz Kingdom amongst the seven nations?
 
 **Ann:** Paimon... I think I understand what Traveler is trying to say. So, all the things that happened after we ascended the tower are things outside the realm of the story. Is that right?
 
-More accurately, those parts of the story have not yet been written.
+- **Traveler:** More accurately, those parts of the story have not yet been written.
 
 **Ann:** So, the Holy Blade, Narcissus... These were still inside the story. It's just that they had not been arranged correctly yet.
 
 **Paimon:** Um, Paimon still finds it hard to imagine anyone who would create such a huge building just for a story...
 
-I believe the structure already existed.
+- **Traveler:** I believe the structure already existed.
 
-It was just used as the setting for the story.
+- **Traveler:** It was just used as the setting for the story.
 
 **Mary-Ann:** ...
 
 **Ann:** So that means that the things I recalled along the way were things that happened here before... and I'm just a character in a story...
 
-You're not merely a character.
+- **Traveler:** You're not merely a character.
 
-The fact that you can think about this means that you can remember it.
+- **Traveler:** The fact that you can think about this means that you can remember it.
 
 **Paimon:** But if that's the case, who is Ann...?
 
@@ -906,6 +1069,8 @@ The fact that you can think about this means that you can remember it.
 **Mary-Ann:** Why did you have to say it was fiction if you already knew? Spare a thought for Ann's feelings, at least...
 
 **Paimon:** Hmm?
+
+#### Talk to Mary-Ann
 
 #### Talk to Mary-Ann
 
@@ -945,6 +1110,10 @@ The fact that you can think about this means that you can remember it.
 
 **Mary-Ann:** In the real world, everything has already ended... so this is farewell.
 
+#### Go with the flow...
+
+#### Talk to Ann
+
 #### Talk to Ann
 
 **Paimon:** Ann...
@@ -965,7 +1134,7 @@ The fact that you can think about this means that you can remember it.
 
 **Paimon:** Um, Traveler... Did you know that things would turn out this way?
 
-No. I thought we could help Ann.
+- **Traveler:** No. I thought we could help Ann.
 
 **Paimon:** Oh...
 
@@ -983,27 +1152,39 @@ No. I thought we could help Ann.
 
 **Paimon:** Whether it be saving the Princess or figuring out what Mary-Ann said, or whatever, we just wanna help you, Ann! Isn't that right, Traveler?
 
+##### Response branch 1
+
 - **Traveler:** This "story" isn't over, Ann.
 
+##### Response branch 2
+
 - **Traveler:** We'll find a way.
+
+##### Shared continuation
 
 **Ann:** Okay...
 
 **Paimon:** Still, if this is all just a story, then there's one thing Paimon doesn't get. What role do we play, Traveler?
 
-I can't be sure, but I think we're most likely...
+- **Traveler:** I can't be sure, but I think we're most likely...
+
+##### Response branch 1
 
 - **Traveler:** Undefined factors.
 
+##### Response branch 2
+
 - **Traveler:** An accident.
 
-And that's why we can bring this story to an end.
+##### Shared continuation
+
+- **Traveler:** And that's why we can bring this story to an end.
 
 **Paimon:** Ah, Paimon gets it. So that's why Ann found us and brought us into the story.
 
 **Paimon:** You might not have thought about it, Ann, but since we've been able to knock this story off course, that means that we've opened all sorts of unknown possibilities. Isn't that right, Traveler?
 
-You could say that.
+- **Traveler:** You could say that.
 
 **Ann:** *sniff* Thank you, Knight Traveler. Thank you, Paimon...
 
@@ -1013,20 +1194,6 @@ You could say that.
 
 **Ann:** My memories contain a place known as the Narzissenkreuz Ordo. This place appears to have very deep connections to past events.
 
-**Paimon:** Huh, y'know, Paimon just realized that this name has something to do with the Kingdom and Adventure Team in Ann's story...
-
-- **Traveler:** Only just?
-
-- **Traveler:** Gasp! Shock! So that's it!
-
-**Paimon:** C'mon, we were busy adventuring — there wasn't that much time for Paimon to think!
-
-**Ann:** Do you know of the Narzissenkreuz Ordo?
-
-**Paimon:** Yup, and we also met some people who are really connected to it. They might be able to help us.
-
-**Paimon:** In any case, let's go!
-
 **Paimon:** That's true. Narzissenkreuz Kingdom... Adventure Team... Yeah, they seem connected, alright.
 
 **Paimon:** Do you have any idea where this Ordo might be?
@@ -1035,20 +1202,36 @@ You could say that.
 
 **Paimon:** Oh, that's right. We're very experienced adventurers — if you need it found, we'll find it!
 
+**Paimon:** Huh, y'know, Paimon just realized that this name has something to do with the Kingdom and Adventure Team in Ann's story...
 
-Mary-Ann...
+##### Response branch 1
 
-**Paimon:** Ugh, y'know, Paimon's sure we've heard this name before...
+- **Traveler:** Only just?
 
+**Paimon:** C'mon, we were busy adventuring — there wasn't that much time for Paimon to think!
 
-Feels like that book we saw in the Institute of Natural Philosophy...
+##### Response branch 2
+
+- **Traveler:** Gasp! Shock! So that's it!
+
+##### Shared continuation
+
+**Ann:** Do you know of the Narzissenkreuz Ordo?
+
+**Paimon:** Yup, and we also met some people who are really connected to it. They might be able to help us.
+
+**Paimon:** In any case, let's go!
+
+- **Traveler:** Huh. Just like in the book Canotila found.
+
+**Paimon:** Yeah. That's... really odd...
+
+- **Traveler:** Feels like that book we saw in the Institute of Natural Philosophy...
 
 **Paimon:** Huh. Paimon doesn't know. But it feels different somehow...
 
-
-Huh. Just like in the book Canotila found.
-
-**Paimon:** Yeah. That's... really odd...
+Your vision blurs and you suddenly feel weightless, as the temperature of the once-warm air plunges rapidly.
+It is as if you have slipped and fallen into frozen waters.
 
 ## ZH
 
@@ -1058,15 +1241,23 @@ Huh. Just like in the book Canotila found.
 
 #### 与安对话
 
+#### 与安对话
+
 **派蒙:** 嗯…虽然想说刚刚那本书里的内容好奇怪，但和这个情况相比，感觉也没什么大不了的…？
 
 **安:** 世界应当是这个样子，而不是外边的模样。孩子们应该生活在阳光下、花草中，不受侵扰、不被伤害。
 
 **派蒙:** 确实，这里感觉很舒服呢！之前，在水仙十字王国探险的时候，到处都没有什么阳光。但是到了这里，心情愉快多了！
 
+##### 对话分支 1
+
 - **旅行者:** 是这样吗？
 
+##### 对话分支 2
+
 - **旅行者:** 谜团越来越多了。
+
+##### 共同后续
 
 **安:** ……
 
@@ -1074,52 +1265,62 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 我们可以种很多好吃的果子、种很多甜甜花，然后请朋友们到这里来做客！大家可以快乐地住在一起！如何？
 
-- **旅行者:** 嗯，好啊。
+##### 对话分支 1
 
-- **旅行者:** …到时候再说吧。
+- **旅行者:** 嗯，好啊。
 
 **派蒙:** 嘿嘿，那就说好了喔！不过现在，我们要先帮安找到莉利丝公主才行呢！
 
+##### 对话分支 2
+
+- **旅行者:** …到时候再说吧。
+
 **派蒙:** 也对！我们要先帮安找到莉利丝公主才行呢！
 
-**「玛丽安」:** 捉迷藏，捉迷藏，玛丽和朋友们上哪去♪
+##### 共同后续
+
+**？？？:** 捉迷藏，捉迷藏，玛丽和朋友们上哪去♪
 
 **派蒙:** 咦？那边好像有人在唱歌…
-
-#### 寻找「声音」的主人
 
 **派蒙:** 欸？
 
 #### 寻找「声音」的主人
 
-**「玛丽安」:** 捉迷藏，捉迷藏，玛丽和朋友们上哪去♪
+#### 寻找「声音」的主人
+
+**？？？:** 捉迷藏，捉迷藏，玛丽和朋友们上哪去♪
 去没有藩篱的大海，去所有生命的源流♪
 
 **派蒙:** 你好！
 
-**「玛丽安」:** 哎呀。你们好！
+**？？？:** 哎呀。你们好！
 
-**「玛丽安」:** 真不好意思，刚才我在准备茶点，没注意你们到来。请坐下吧，很快就到点心的时间了！
+**？？？:** 真不好意思，刚才我在准备茶点，没注意你们到来。请坐下吧，很快就到点心的时间了！
 
 **派蒙:** 好欸，点心！
 
-**「玛丽安」:** 我们这里的点心可是很好吃的喔。
+**？？？:** 我们这里的点心可是很好吃的喔。
 
-**「玛丽安」:** 啊，不过还要先等一下。要等铃声响起，才能开动哦。不然的话，就太不礼貌啦。
+**？？？:** 啊，不过还要先等一下。要等铃声响起，才能开动哦。不然的话，就太不礼貌啦。
 
-**「玛丽安」:** 你们是从哪里来的呀？好奇妙的组合呢！英俊的少年 / 美丽的少女、小小的纯水精灵，还有这位漂漂亮亮的、飘着的小朋友。
+**？？？:** 你们是从哪里来的呀？好奇妙的组合呢！英俊的少年、小小的纯水精灵，还有这位漂漂亮亮的、飘着的小朋友。 / 你们是从哪里来的呀？好奇妙的组合呢！美丽的少女、小小的纯水精灵，还有这位漂漂亮亮的、飘着的小朋友。
 
-**派蒙:** 嘿嘿。我叫派蒙！他 / 她是旅行者！
+**派蒙:** 嘿嘿。我叫派蒙！他是旅行者！ / 嘿嘿。我叫派蒙！她是旅行者！
 
 **安:** ……
 
 **派蒙:** （咦，安是有点不开心吗？）
 
-（可能想到了一些事情。）
+- **旅行者:** （可能想到了一些事情。）
 
 **派蒙:** …啊，还有这位纯水精灵是我们的朋友，名字叫安！
 
 **「玛丽安」:** 哎呀，真是不错的名字呢。那这样好了！我的话，就叫我「玛丽安」吧。
+
+- **旅行者:** 玛丽安…
+
+**派蒙:** 唔唔…好像在什么地方听过这个名字…
 
 **「玛丽安」:** 已经好久好久没有遇到过外面来的人了，真开心。你们是从哪来的呀？
 
@@ -1131,9 +1332,15 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 嗯…旅行者，你觉得可怕吗？
 
+##### 对话分支 1
+
 - **旅行者:** 倒是没什么…
 
+##### 对话分支 2
+
 - **旅行者:** 某种意义而言有点。
+
+##### 共同后续
 
 **「玛丽安」:** 真厉害！我听说，魔龙纳西索斯伤害了很多人，很多王国都化成了灰烬。能把他打倒，真是了不起！
 
@@ -1147,11 +1354,11 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 唔…是这样吗？但是，我们来到这里之前，看到一本书上写了什么美丽又善良的莉利丝公主的事情…
 
-**「玛丽安」:** 美丽又善良的莉利丝公主…我不清楚耶。但是，旅行者看起来很像来自远方的王子 / 公主呢！
+**「玛丽安」:** 美丽又善良的莉利丝公主…我不清楚耶。但是，旅行者看起来很像来自远方的王子呢！ / 美丽又善良的莉利丝公主…我不清楚耶。但是，旅行者看起来很像来自远方的公主呢！
 
-……
+- **旅行者:** ……
 
-**派蒙:** （何处传来了铃铛的声音…）
+**？？？:** （何处传来了铃铛的声音…）
 
 **派蒙:** 欸？是这个铃声…
 
@@ -1159,19 +1366,25 @@ Huh. Just like in the book Canotila found.
 
 **「玛丽安」:** 虽然现在他们不在了，不过，还是要遵守这里的规矩才好。要不然，就太对不起他们啦。那我们开动吧！
 
-- **旅行者:** 那我就不客气了。
+##### 对话分支 1
 
-- **旅行者:** 谢谢，我不饿…
+- **旅行者:** 那我就不客气了。
 
 **派蒙:** 好耶！点心！
 
 和派蒙一起享用了点心。
 虽然外观精美，却和清水一样什么味道也没有。
 
+##### 对话分支 2
+
+- **旅行者:** 谢谢，我不饿…
+
 **派蒙:** 哼哼，那旅行者的部分就交给我吧！
 
 派蒙开心地享用了点心。
 看到派蒙大快朵颐的样子，也产生了一点点食欲。
+
+##### 共同后续
 
 **「玛丽安」:** 怎么样？
 
@@ -1182,6 +1395,10 @@ Huh. Just like in the book Canotila found.
 **派蒙:** 没关系啦！嗯…至少我吃得很饱！
 
 **「玛丽安」:** 既然如此，就让我带你们逛逛吧！
+
+#### 跟随「玛丽安」
+
+#### 与「玛丽安」对话
 
 #### 与「玛丽安」对话
 
@@ -1216,9 +1433,15 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 原来是这样…大自然真神奇！
 
+##### 对话分支 1
+
 - **旅行者:** 已经不只是神奇的范畴了…
 
+##### 对话分支 2
+
 - **旅行者:** 大自然真神奇！
+
+##### 共同后续
 
 **「玛丽安」:** 安，你喜欢吗？
 
@@ -1228,11 +1451,11 @@ Huh. Just like in the book Canotila found.
 
 **「玛丽安」:** 旅行者，你是从很远很远的地方来的吧？你来的地方，有什么样的花呢？
 
-（描述妹妹头上戴着的花。） / 我头上戴着的这朵花。
+- **旅行者:** （描述妹妹头上戴着的花。） / 我头上戴着的这朵花。
 
 **「玛丽安」:** 是喔…听起来是很漂亮的花呢。 / 我一见到你，就在想，这朵花真漂亮。
 
-不过，这种花应该很难看到了。
+- **旅行者:** 不过，这种花应该很难看到了。
 
 **派蒙:** 旅行者…
 
@@ -1279,13 +1502,21 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 唔…我听不懂，旅行者你觉得呢？
 
+##### 对话分支 1
+
 - **旅行者:** 就算脆弱，隔阂也是必要的。
 
+##### 对话分支 2
+
 - **旅行者:** 如果能回归为一，或许也不错。
+
+##### 对话分支 3
 
 - **旅行者:** 人可以聚在一起，并保持自我。
 
 **「玛丽安」:** 是喔。真的可以吗？
+
+##### 共同后续
 
 **「玛丽安」:** …嗯，我大概明白旅行者的看法了。
 
@@ -1297,17 +1528,25 @@ Huh. Just like in the book Canotila found.
 
 **「玛丽安」:** 我们再走走吧。对了！可以带你们看看我们养的狗狗！
 
+#### 跟随「玛丽安」
+
+#### 跟随「玛丽安」
+
+#### 喂食
+
 #### 与「玛丽安」对话
 
-**莫里:** 尊敬的先生 / 尊贵的小姐，很荣幸能获得您施予的食物。也很高兴再次与您相见，玛丽安小姐。
+#### 与「玛丽安」对话
 
-？
+**「狗狗」:** 尊敬的先生，很荣幸能获得您施予的食物。也很高兴再次与您相见，玛丽安小姐。 / 尊贵的小姐，很荣幸能获得您施予的食物。也很高兴再次与您相见，玛丽安小姐。
+
+- **旅行者:** ？
 
 **「玛丽安」:** 嗯！乖狗狗。
 
 **派蒙:** 呃，乖狗狗…？
 
-**莫里:** 您好，可爱的小姐。
+**「狗狗」:** 您好，可爱的小姐。
 
 **派蒙:** 呃，虽然夸我可爱我很开心，但是，安，这是怎么回事…？
 
@@ -1317,11 +1556,19 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 所以…该怎么说呢，旅行者，是不是错的其实是我们，真正的狗就应该是这样的，只是我们之前的认知都有问题…？
 
+##### 对话分支 1
+
 - **旅行者:** 很难说…
+
+##### 对话分支 2
 
 - **旅行者:** 应该不是吧。
 
+##### 对话分支 3
+
 - **旅行者:** 不要在意这些细节…
+
+##### 共同后续
 
 **「玛丽安」:** 水无常形，生命会选择自己所需要的形态。但这和它的本质有没有关系，则是另一个问题了。
 
@@ -1347,7 +1594,7 @@ Huh. Just like in the book Canotila found.
 
 **「玛丽安」:** 你先走吧。要当个乖狗狗。
 
-**莫里:** 了解。再见，玛丽安小姐，以及几位贵客。
+**「狗狗」:** 了解。再见，玛丽安小姐，以及几位贵客。
 
 **派蒙:** 唔，不行不行。这次冒险里，搞不懂的事情越来越多了！如果不是看到这个狗狗，很多事情本来我都已经忘记了…
 
@@ -1365,21 +1612,27 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 对吧，旅行者？
 
+##### 对话分支 1
+
 - **旅行者:** 呃…
+
+##### 对话分支 2
 
 - **旅行者:** 你们真的要听我的看法吗？
 
-**派蒙:** ……
+**安与「玛丽安」:** ……
+
+##### 共同后续
 
 **派蒙:** 旅行者你的头脑比较好，我已经什么都搞不懂了…
 
-派蒙，我们所经历的只是「故事」。
+- **旅行者:** 派蒙，我们所经历的只是「故事」。
 
 **派蒙:** 但是、但是，我们和水仙十字冒险团的成员，一起冒险、一起打败纳西索斯的手下，都是我们一起经历的…
 
-派蒙，你仔细想想…
+- **旅行者:** 派蒙，你仔细想想…
 
-七国中哪来的「水仙十字王国」？
+- **旅行者:** 七国中哪来的「水仙十字王国」？
 
 **派蒙:** 呜哇，你说得对…我怎么没想到这点！
 
@@ -1393,23 +1646,23 @@ Huh. Just like in the book Canotila found.
 
 **安:** 派蒙，我大概明白旅行者的意思了…所以，从登上高塔开始的事情，都是故事以外的范围了，是这样吗？
 
-应该说是故事还没有写到的部分。
+- **旅行者:** 应该说是故事还没有写到的部分。
 
 **安:** …所以说，圣剑、魔龙纳西索斯，这些部分都还是故事里的内容，只是还没有安排好。
 
 **派蒙:** 唔，我还是很难想象，是什么样的人才会为了一个故事，建造这么大的建筑…
 
-应该是建筑原本就存在。
+- **旅行者:** 应该是建筑原本就存在。
 
-只是被当成了故事的舞台。
+- **旅行者:** 只是被当成了故事的舞台。
 
 **「玛丽安」:** ……
 
 **安:** 也就是说，我途中想起来的事情，是原本发生在这些地方的事情。而我自己，只是故事里的角色…
 
-不仅仅是这样。
+- **旅行者:** 不仅仅是这样。
 
-安会想到这些，说明安记得这些。
+- **旅行者:** 安会想到这些，说明安记得这些。
 
 **派蒙:** 但是，如果是这样的话，那安到底是…
 
@@ -1420,6 +1673,8 @@ Huh. Just like in the book Canotila found.
 **「玛丽安」:** 明明知道是假的，为什么还要说出来呢？至少，也考虑一下安的心情呀。
 
 **派蒙:** 咦？
+
+#### 与「玛丽安」对话
 
 #### 与「玛丽安」对话
 
@@ -1459,6 +1714,10 @@ Huh. Just like in the book Canotila found.
 
 **「玛丽安」:** 在真实的世界中，一切已经结束了。再见了。
 
+#### 随波逐流…
+
+#### 与安对话
+
 #### 与安对话
 
 **派蒙:** 安…
@@ -1479,7 +1738,7 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 所以，旅行者，你早就知道事情会变成这样吗…
 
-不知道。我以为我们能够帮助安。
+- **旅行者:** 不知道。我以为我们能够帮助安。
 
 **派蒙:** 这样啊…
 
@@ -1497,27 +1756,39 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 无论是拯救「莉利丝公主」也好，弄清楚玛丽安说的话也好，还是想到别的什么，能够帮助安的方法也好！对吧，旅行者？
 
+##### 对话分支 1
+
 - **旅行者:** 「故事」还没结束，安。
 
+##### 对话分支 2
+
 - **旅行者:** 我们总会有办法的。
+
+##### 共同后续
 
 **安:** 嗯…
 
 **派蒙:** 不过，既然一切都只是「故事」…那么，有一点我还是不明白。旅行者，我们又是什么样的角色呢？
 
-我也不确定，不过应该是…
+- **旅行者:** 我也不确定，不过应该是…
+
+##### 对话分支 1
 
 - **旅行者:** 不确定因素。
 
+##### 对话分支 2
+
 - **旅行者:** 意外。
 
-正因如此，我们才能将故事结束。
+##### 共同后续
+
+- **旅行者:** 正因如此，我们才能将故事结束。
 
 **派蒙:** 啊，我明白了。所以说，安会找到我们，把我们带到故事中，就是因为这个！
 
 **派蒙:** 安，你自己可能没想到，但是，既然我们能让这个故事偏离原本的路线，那就有了许多未知的可能性！对吧，旅行者？
 
-这么说也没错。
+- **旅行者:** 这么说也没错。
 
 **安:** 呜呜…谢谢你们，旅行者骑士、派蒙…
 
@@ -1527,20 +1798,6 @@ Huh. Just like in the book Canotila found.
 
 **安:** 在记忆里，有一个地方，叫「水仙十字结社」。这个地方，应该和过去的事情有很深的渊源。
 
-**派蒙:** 欸？这么一说，我才想到这个名字应该和安的故事里的「水仙十字王国」、「水仙十字冒险团」有关系…
-
-- **旅行者:** 你才发现吗？
-
-- **旅行者:** 震惊！原来如此！
-
-**派蒙:** 喂！之前跟着你们一起忙着冒险，我根本没时间想这么多啦！
-
-**安:** 你们知道水仙十字结社吗？
-
-**派蒙:** 嗯，之前也认识了和它有渊源的人物。说不定，他们也能帮上忙。
-
-**派蒙:** 总之，我们出发吧！
-
 **派蒙:** 是喔…这个名字，和「水仙十字王国」、「水仙十字冒险团」感觉确实应该有关系…
 
 **派蒙:** 关于水仙十字结社在什么地方，安有什么头绪吗？
@@ -1549,17 +1806,33 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 没有也没关系！我们可是经验丰富的冒险家，总能找到的！
 
+**派蒙:** 欸？这么一说，我才想到这个名字应该和安的故事里的「水仙十字王国」、「水仙十字冒险团」有关系…
 
-玛丽安…
+##### 对话分支 1
 
-**派蒙:** 唔唔…好像在什么地方听过这个名字…
+- **旅行者:** 你才发现吗？
 
+**派蒙:** 喂！之前跟着你们一起忙着冒险，我根本没时间想这么多啦！
 
-和自然哲学学院那本书一样…
+##### 对话分支 2
+
+- **旅行者:** 震惊！原来如此！
+
+##### 共同后续
+
+**安:** 你们知道水仙十字结社吗？
+
+**派蒙:** 嗯，之前也认识了和它有渊源的人物。说不定，他们也能帮上忙。
+
+**派蒙:** 总之，我们出发吧！
+
+- **旅行者:** 和夏诺蒂拉找到的那本书一样…
+
+**派蒙:** 唔…的确，感觉很邪门…
+
+- **旅行者:** 和自然哲学学院那本书一样…
 
 **派蒙:** 唔…不知道耶，总感觉有些不同…
 
-
-和夏诺蒂拉找到的那本书一样…
-
-**派蒙:** 唔…的确，感觉很邪门…
+视野模糊了起来，身躯感受到突然的失重，原本温暖的空气温度陡然下降。
+就如同失足落入冰水一般。

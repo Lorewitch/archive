@@ -336,3 +336,853 @@ And when the first light of the next dawn alighted upon the desk, the young heir
 为了未来，为了家人安全，凡是可用之物，不择手段地使用，凡是阻碍之人，不惜代价地清除。
 这一夜，房内无灯，神之眼是唯一陪伴他的光源。
 当黎明第一束光透过窗户洒上桌面，年少的长子已经做好迎接一切的准备。
+
+# voice_source_ids: 66000,66001,66002,66003,66004,66005,66006,66007,66008,66009,66010,66011,66012,66013,66014,66015,66016,66017,66018,66019,66020,66021,66022,66023,66024,66025,66026,66027,66028,66029,66030,66031,66032,66033,66034,66035,66036,66037,66038,66039,66040,66041,66042,66043,66044,66045,66046,66047,66048,66049,66050,66051,66052,66053,66054,66055,66056,66057,66058,66059,66060,66061,66062,66063,66064,66065,66066,66067,66068,66069
+
+## REPLICAS_RU
+
+### Привет...
+
+Здравствуй. Аяка несколько раз упоминала о тебе. Увы, в последнее время мой график был несколько более загруженным, чем обычно, из-за чего наша первая встреча состоялась лишь сегодня. Камисато Аято, глава клана Камисато. Рад с тобой познакомиться.
+
+### Поболтаем: Избалованность
+
+Кажется, я что-то забыл... Ничего страшного, пошлю кого-нибудь. Только сначала вспомню, за чем именно.
+
+### Поболтаем: Подсечка
+
+Всё готово, они заглотили наживку... Да. Теперь пора подсекать...
+
+### Поболтаем: Сомнительные удовольствия
+
+Мне приходится сдерживать улыбку при воспоминании о выражении лиц моих слуг, когда я сообщил им о своих планах на сегодня... Они охвачены паникой, но при этом не в силах набраться храбрости, чтобы возразить мне, хе-хе. Да, это была прекрасная идея.
+
+### Когда идёт дождь...
+
+Давай укроемся от дождя. Не волнуйся, кто-нибудь из моих слуг сейчас принесёт зонты.
+
+### Когда гремит гром...
+
+В детстве Аяка боялась грома, пока однажды мать не сказала ей, что звук грома - это голос Наруками Огосё. После этого она начинала усиленно вслушиваться каждый раз, когда звучали раскаты грома. Как будто, если бы она сосредоточилась достаточно сильно, то смогла бы услышать, что говорит её превосходительство.
+
+### Когда идёт снег...
+
+Этот вид напоминает мне о другом дне, когда шёл снег... Но это было очень давно.
+
+### Когда светит солнце...
+
+Редко выпадает подобная возможность погреться на солнышке.
+
+### Когда дует ветер...
+
+Порой то, что на первый взгляд кажется всего лишь мимолётным дуновением ветерка, в конечном счёте может изменить ход событий... Хе-хе.
+
+### Когда дует сильный ветер...
+
+Большинство людей пригибаются при сильном встречном ветре. Лишь немногие знают, как использовать это в своих интересах.
+
+### Доброе утро...
+
+Доброе утро. Небольшая тренировка с мечом в начале дня полезна для тела и ума. Я стараюсь ничего не планировать на утренние часы... Что скажешь? Хочешь скрестить со мной клинки?
+
+### Добрый день...
+
+Если хочешь на обед что-то конкретное, просто дай знать моим слугам. Они сделают всё, что ты попросишь, ты ведь мой почётный гость.
+
+### Добрый вечер...
+
+Раз уж ты пришёл ко мне так поздно, может, останешься на ужин? / Раз уж ты пришла ко мне так поздно, может, останешься на ужин?
+
+### Спокойной ночи...
+
+Пора спать? Тогда идите, вы свободны. Я ещё не устал, так что... А, это ты? Мне нужно закончить ещё кое-какие дела. А вот тебе следует хорошенько поспать.
+
+### О Камисато Аято: Цена
+
+За всё приходится платить. И если ты стремишься к вещам, о которых большинство даже никогда и не мечтало, то, естественно, придётся заплатить невообразимую цену.
+
+### О Камисато Аято: Методы
+
+Я не сторонник того, чтобы делать что-то определённым образом. Какой бы метод ты ни использовал, важно, чтобы результаты были приемлемыми.
+
+### О нас: Веселье
+
+Хе-хе, я слышал, что ты натворил в комиссии Тэнрё. Как же весело... Нужно быть особенным человеком, чтобы заставить старину Кудзё рвать на себе волосы от гнева. Ах, если бы только я мог увидеть это собственными глазами. / Хе-хе, я слышал, что ты натворила в комиссии Тэнрё. Как же весело... Нужно быть особенным человеком, чтобы заставить старину Кудзё рвать на себе волосы от гнева. Ах, если бы только я мог увидеть это собственными глазами.
+
+### О нас: Доверие
+
+Доверять другому человеку нелегко, особенно человеку с высоким статусом. Доверься не тому, и это может в буквальном смысле стоить тебе жизни. Но ты доверился мне, и, конечно же, я тебя не подведу. / Доверять другому человеку нелегко, особенно человеку с высоким статусом. Доверься не тому, и это может в буквальном смысле стоить тебе жизни. Но ты доверилась мне, и, конечно же, я тебя не подведу.
+
+### Глаз Бога...
+
+Раз уж есть такой полезный инструмент, как Глаз Бога, то почему бы не использовать его для дела. Я надеюсь, что он засияет в моих руках.
+
+### Давай поделимся...
+
+Если бросить опавшие цветы в пламя, обжигающий жар наполнит их последней искрой жизненной силы, и на короткое мгновение они вспыхнут великолепным сиянием, которое ярче, чем сам огонь... Они прожили короткую жизнь, но она не была потрачена впустую.
+
+### Интересные вещи...
+
+Если говорить о домашних животных... Мм, да, я определённо больше люблю собак. Кошки очень независимы, в чём тоже есть своё очарование, но беспрекословное послушание есть только у собак. Они сделают всё, что ты им скажешь. Хе-хе, полагаю, я нахожу лояльность довольно привлекательным качеством.
+
+### О Камисато Аяке...
+
+Я уверен в способностях Аяки. Но я хочу, чтобы она смогла сохранить свою невинность. Ей не следовало лично участвовать в борьбе за власть или сталкиваться лицом к лицу с тёмной стороной жизни. Я её старший брат, и моя задача - защищать её от всего этого... Хех, просто... Пусть это будет только между нами двумя. Извини, разговор стал слишком личный.
+
+### О Томе...
+
+У меня нет никаких сомнений в преданности Томы клану Камисато. Давным-давно, отчасти для того, чтобы испытать его, я посоветовал ему уйти, если он не хочет быть втянутым в бесконечные споры, которые мешают общественной жизни. Тем не менее, он решил остаться, и за всё то время, что он с нами, он избавил меня от многих забот. Я могу полностью довериться немногому числу людей, но Тома - один из них.
+
+### О Саю...
+
+Большую часть времени она кажется ужасно ленивой, но в нужный момент она всегда приходит на помощь. Думаю, ты знаешь об этом даже больше, чем я.
+
+### О Ёимии...
+
+А, владелица магазина фейерверков. Да, очень... энергичная молодая девушка. Она примерно того же возраста, что и Аяка, и они очень хорошо ладят. Её прямота и откровенный характер не смогут сбить Аяку с истинного пути. Аяка с детства всегда была непоколебимо верна себе.
+
+### О сёгуне Райдэн...
+
+Цена стремления к Вечности дорого обошлась и всемогущему сёгуну, и всей Инадзуме. Для заживления этих ран понадобится время, и как человек, играющий посредническую роль в политическом процессе, я обязательно выполню то, что от меня требуется.
+
+### О Яэ Мико...
+
+Госпожа Гудзи всегда была добра к клану Камисато, но она никогда мне не симпатизировала. Наверняка ты слышал, как она меня называет... «негодяй из Ясиро» и другие не менее «лестные» прозвища. Из-за занятости мы редко сталкиваемся, и, в отличие от личных отношений, наши рабочие отношения вполне гармоничны. Я не против, работать с умными людьми всегда намного эффективнее. К тому же, с какой неприязнью она бы ко мне ни относилась, она вынуждена признать, что только я могу помочь воплотить её «замечательные» идеи. / Госпожа Гудзи всегда была добра к клану Камисато, но она никогда мне не симпатизировала. Наверняка ты слышала, как она меня называет... «негодяй из Ясиро» и другие не менее «лестные» прозвища. Из-за занятости мы редко сталкиваемся, и, в отличие от личных отношений, наши рабочие отношения вполне гармоничны. Я не против, работать с умными людьми всегда намного эффективнее. К тому же, с какой неприязнью она бы ко мне ни относилась, она вынуждена признать, что только я могу помочь воплотить её «замечательные» идеи.
+
+### О Кудзё Саре...
+
+Старик Кудзё сумел создать самое грозное оружие. Только он просчитался и теперь не может владеть собственным клинком.
+
+### О Кадзухе...
+
+Когда-то давно клан Каэдэхара подчинялся клану Камисато. Мои предки, возможно, и не смогли спасти его семью от упадка, но даже сегодня я обязан поддерживать его. Теперь, естественно, я уже не смогу восстановить былое благосостояние его клана. Но вот помочь избежать ареста комиссией Тэнрё вполне мне по силам...
+
+### Об Аратаки Итто...
+
+А вот он довольно интересный. Идея устраивать бои послушных оникабуто довольно... Я сказал всего лишь пару вежливых банальностей, когда произносил небольшую ободряющую речь, но, к моему удивлению, он начал называть меня «братан»... По сей день он зовёт меня «братан Аято», не имея ни малейшего представления о том, какой я на самом деле. Впрочем, меня это вполне устраивает, я ничего не имею против его... эксцентричности.
+
+### О Нин Гуан...
+
+Я кое-что слышал о методах госпожи Воли Небес. Кстати, у меня тут есть экземпляр ограниченного тиража «Тысяча лет в Ли Юэ». Тебе интересно? Я могу послать кого-нибудь за ним, чтобы мы могли сыграть.
+
+### Узнать больше о Камисато Аято I
+
+Хочешь знать обо мне больше? Хм. Не всегда бывает так, что чем больше ты знаешь, тем лучше. Это подтверждает множество поговорок. Может, обсудим подробнее в следующий раз.
+
+### Узнать больше о Камисато Аято II
+
+Странные пристрастия, говоришь?.. Кажется, ты меня неверно понял. Позволь объяснить: мне всего лишь нравится смотреть, как искажаются лица людей, попавших в неловкое положение. Как их кривит от смущения. Разве это странно? Разве ты не дразнишь подобным образом свою летающую подружку? / Странные пристрастия, говоришь?.. Кажется, ты меня неверно поняла. Позволь объяснить: мне всего лишь нравится смотреть, как искажаются лица людей, попавших в неловкое положение. Как их кривит от смущения. Разве это странно? Разве ты не дразнишь подобным образом свою летающую подружку?
+
+### Узнать больше о Камисато Аято III
+
+Со стороны может казаться, что Трикомиссией просто управлять, но могу заверить тебя, под спокойной поверхностью скрывается настоящая буря. Нет никакого удовольствия в общении с сильными мира сего. Избавлю тебя от подробностей. Просто знай... Я никогда не делал ничего, что могло бы опозорить клан Камисато. Ни в прошлом, когда я пытался обеспечить стабильность клана, ни в настоящем, когда я работаю на благо всей Инадзумы.
+
+### Узнать больше о Камисато Аято IV
+
+Хочешь узнать больше о Сюмацубан? Полагаю, я могу раскрыть тебе пару деталей. Это секретное подразделение, которое подчиняется непосредственно главе клана Камисато. Соответственно, после смерти моего отца оно перешло ко мне. Бывают ситуации, когда я не могу вмешиваться напрямую, и тогда я полагаюсь на Сюмацубан. Большинство его членов - сироты, которых мы воспитываем с раннего возраста. Таким образом, их преданность нам невероятна, и мы избавлены от лишних волнений.
+
+### Узнать больше о Камисато Аято V
+
+Есть ли у меня в рукаве другие козыри, помимо Сюмацубан? Ну конечно. Если даже у хитрого зайца есть три норы, то что уж говорить о хитрых людях? Но я уже достаточно поделился секретами. Думаю, настало время мне узнать твои. Да, кстати... можешь не рассказывать о путешествии по Тейвату. Расскажи мне о том, что было до этого.
+
+### Хобби Камисато Аято...
+
+Хобби... В детстве у меня была парочка, но сейчас большую часть моего времени занимают служебные обязанности, поэтому они не считаются... Хм? Говоришь, некоторые относятся к работе как к хобби? С ума сойти. Как... необычно.
+
+### Беспокойство Камисато Аято...
+
+Беспокойства? Всякий раз, когда меня что-то беспокоит, я быстро с этим разбираюсь. Если меня беспокоит человек... Хе-хе...
+
+### Любимая еда: Личные предпочтения
+
+Новизна вносит разнообразие в скучную повседневность. Новый чай с молоком, который продают в Ханамидзаке, не так уж и плох. Тебе стоит попробовать. А так... У меня нет особых предпочтений в ежедневной пище. Мои слуги занимаются моим питанием, и всё, что они подают, я ем.
+
+### Любимая еда: Пробуя новое
+
+Ты не мог бы рассказать мне о своих вкусах? ...Понятно. Хорошо, я запомнил. Теперь я знаю, что ответить в следующий раз. / Ты не могла бы рассказать мне о своих вкусах? ...Понятно. Хорошо, я запомнил. Теперь я знаю, что ответить в следующий раз.
+
+### Нелюбимая еда...
+
+Хм... Кажется, я перепутал соль и сахар. Солёный мидзу мандзю... Да, пожалуй, отдам его Томе.
+
+### День рождения...
+
+С днём рождения! Не хочешь стать на денёк главой комиссии Ясиро? Вся работа уже сделана, так что можешь просто наслаждаться огромной властью. Не волнуйся, слуги не станут задавать вопросов, я буду с тобой всё время, хе-хе.
+
+### Чувство возвышения: Начало
+
+Я стал сильнее? Архонты, как чудесно...
+
+### Чувство возвышения: Нарастание
+
+В конце концов, власть является источником комфорта только тогда, когда она сосредоточена в твоих собственных руках.
+
+### Чувство возвышения: Кульминация
+
+Хе-хе, уверен, некоторые уже начинают нервничать.
+
+### Чувство возвышения: Окончание
+
+Я почти не отдыхаю с тех пор, как стал главой клана. Но когда ты рядом, всё по-другому. Хм... Да, будто на солнышке греешься.
+
+### Элементальный навык I
+
+Спокойно.
+
+### Элементальный навык II
+
+Водопад.
+
+### Взрыв стихии I
+
+Осторожно, потоп.
+
+### Взрыв стихии II
+
+Хм.. Глубины манят.
+
+### Взрыв стихии III
+
+Искусство Камисато... Суйю!
+
+### Открытие сундука I
+
+Если это полезно, то я возьму.
+
+### Открытие сундука II
+
+О... Так ты это собираешь?
+
+### Открытие сундука III
+
+Мм, да, здорово.
+
+### Низкий уровень HP I
+
+Становится интереснее...
+
+### Низкий уровень HP II
+
+Ладно, теперь серьёзно.
+
+### Низкий уровень HP III
+
+Один из нас падёт.
+
+### Низкий уровень HP компаньона I
+
+Пора выходить.
+
+### Низкий уровень HP компаньона II
+
+Больше никакого авантюризма.
+
+### Без сознания I
+
+Но план... был безупречным...
+
+### Без сознания II
+
+Счастье не вечно...
+
+### Без сознания III
+
+Такова жизнь...
+
+### Получен лёгкий удар I
+
+Достаточно.
+
+### Получен тяжёлый удар I
+
+Возможно, я переоценил себя...
+
+### Присоединяется к группе I
+
+Что такое? Хочешь прогуляться вместе? Почему бы и нет.
+
+### Присоединяется к группе II
+
+Хорошо, я отложу свои официальные обязанности в сторону.
+
+### Присоединяется к группе III
+
+Ха... Должно быть весело.
+
+### Подарок I
+
+Действительно очень необычно. Ха-ха, это полностью соответствует моим требованиям...
+
+### Подарок II
+
+Ясно. Так вот как ты видишь это блюдо...
+
+### Подарок III
+
+Дам тебе совет: попробуй использовать это блюдо при следующей игре в сябу-сябу.
+
+## REPLICAS_EN
+
+### Hello
+
+Greetings. Ayaka has mentioned you on numerous occasions — alas, my schedule has been rather busier than anticipated recently, which belated our first meeting until today. Kamisato Ayato, head of the Kamisato Clan. Delighted to make your acquaintance.
+
+### Chat: Spoiled
+
+I'm sure I've forgotten something... Not to worry, I'll simply send someone to fetch it. As soon as I remember what it was.
+
+### Chat: Reel Them In
+
+Everything's in place, and they've taken the bait... Yes. Now to start reeling them in...
+
+### Chat: Perverse Pleasure
+
+I have to stifle a smile every time I remember the look on my retainers' faces when I informed them of my plans today... Panic-stricken, but unable to muster the courage to say anything in opposition, hehe. Yes, this was a fine idea.
+
+### When It Rains
+
+Let's take shelter for the time being. Don't worry, one of my people will be here with umbrellas momentarily.
+
+### When Thunder Strikes
+
+Ayaka was always scared of thunder as a child — until one day, mother told her that the sound of thunder is the voice of the Almighty Shogun. After that, she would start focusing intensely every time she heard the sound of thunder, as if by concentrating hard enough, she'd be able to hear exactly what Her Excellency was saying.
+
+### When It Snows
+
+This view reminds me of another time it snowed... that was a long time ago.
+
+### When the Sun Is Out
+
+Opportunities to bask in the sunlight like this are few and far between.
+
+### When It's Windy
+
+Sometimes, what appears at first to be nothing but a passing breeze can ultimately be that which alters the course of events... Hehe.
+
+### When the Wind Is Blowing
+
+Most people hunker down against a strong headwind. Only a few people know how to utilize it to their advantage.
+
+### Good Morning
+
+Good morning. A little sword practice while the day is young is good for the body and mind. I tend to avoid having anything scheduled during these hours... What do you say? Fancy crossing blades with me?
+
+### Good Afternoon
+
+If there's anything in particular you'd like for lunch, just let one of my staff know in advance. As my honored guest, I'm sure they will do their utmost to accommodate you.
+
+### Good Evening
+
+Given the hour of your call, perhaps you might stay for dinner?
+
+### Good Night
+
+Ready to retire for the night, are we? Yes, go on then, you are excused. I'm not tired yet, so... Oh, it's you? Um, I have a few things to attend to. You should go and get some sleep.
+
+### About Kamisato Ayato: Price to Pay
+
+Everything comes at a cost. And if you aspire to things that most could never dream of, then naturally, there will be an unimaginable price to pay.
+
+### About Kamisato Ayato: Methodology
+
+I'm no stickler for doing things in a certain way. Whatever method you use, the important thing is that it delivers acceptable results.
+
+### About Us: Most Entertaining
+
+Hehe, I heard about the little job you pulled at the Tenryou Commission. Most entertaining... It takes a special kind of person to get old man Kujou riled up enough to start tearing his hair out. Ahh... Oh, to have been a fly on the wall.
+
+### About Us: Trust
+
+Trusting another person isn't easy, especially for someone of high status. Place your trust in the wrong person, and it can quite literally cost you your life. But you have placed your trust in me, and of course I will not let you down.
+
+### About the Vision
+
+A Vision is an eminently useful tool, so it only makes sense to put it to good use. Also, I like to think it's happiest in my possession because it has the chance to shine away in all its glory.
+
+### Something to Share
+
+If you throw fallen flowers onto the stove, the searing heat infuses them with one final spark of vitality, and for a brief moment, they radiate a more glorious glow than the flames themselves... it was a short life they lived, but it was by no means a wasted one.
+
+### Interesting Things
+
+When it comes to pets... Mm, yes, I'm definitely more of a dog person myself. Cats are very independent, which has its merits, but you'll only find obedience in dogs. They'll do whatever you tell them to. Hehe, what can I say — I suppose I find loyalty to be quite an attractive quality.
+
+### About Kamisato Ayaka
+
+I am confident in Ayaka's abilities. But I want her to be able to hold on to her innocence. She shouldn't have to get personally involved in power struggles, or confront the darker side of life head-on. As her older brother, it's my job to shield her from all of that... Heh, just... between the two of us, of course. Sorry, that got a little more private a little more quickly than I'd intended.
+
+### About Thoma
+
+There is no doubt in my mind about Thoma's loyalty to the Kamisato Clan. A long time ago, partly to see where he stood, I advised him that he would be better off leaving if he didn't want to get drawn into the never-ending disputes that plague public life. Still, he chose to stay, and in all the time he's been with us, he's spared me much worry. There are very few people I trust completely these days, but Thoma is one of them.
+
+### About Sayu
+
+She looks awfully idle the majority of the time, and yet when it counts, she always rises to the occasion and provides indispensable assistance. Of course, you'd know far more about that than me, wouldn't you?
+
+### About Yoimiya
+
+Ah, the fireworks store owner. Yes, a most... spirited young lady. The Kamisato Clan is on rather close terms with her. She is around the same age as Ayaka, and the two get along very well. I trust her direct and outspoken disposition won't lead Ayaka astray. Ayaka has always been staunchly true to herself, ever since she was a young child.
+
+### About the Raiden Shogun
+
+The cost of pursuing eternity has been great for the Almighty Shogun... and for all of Inazuma. These wounds will take time to heal, and as someone with a mediating role to play in the political process, I will be sure to fulfill that which is required of me.
+
+### About Yae Miko
+
+Lady Guuji has been kind to us in the Kamisato Clan, but she has never quite taken to me personally. I trust you'll have heard the way she refers to me... "the Yashiro rascal" and other such flattering monikers. We run into each other semi-regularly, given the overlap in our work, and despite whatever private thoughts we each may have, our working relationship is quite a harmonious one. I have no great objection to this state of affairs — working with intelligent people always makes things highly efficient. In any case... However objectionable she might find me, she would be forced to admit that without me, she would have no one to help execute her weird and wonderful ideas.
+
+### About Kujou Sara
+
+Old man Kujou capitalized on a golden opportunity to create a most formidable weapon indeed. The only flaw in his plan being, he is now no longer able to wield the weapon of his creation.
+
+### About Kaedehara Kazuha
+
+Once upon a time, the Kaedehara Clan was a subordinate branch of the Kamisato Clan. My forebears may have failed to save his family from decline, but even today I have a duty to support him. Now, naturally, there is nothing I can do to restore his clan's former fortunes. But as for helping him avoid arrest by the Tenryou Commission, that is well within my capabilities...
+
+### About Arataki Itto
+
+Now he's an interesting case. Pitting docile Onikabuto against each other in battle... heh, that's a first... I was only speaking in polite platitudes when I gave him that little pep talk, but to my surprise he started calling me "bro"... To this day, he calls me "my bro Ayato" without the faintest idea of my true identity. It's quite alright by me, though, I have nothing against his... unique character.
+
+### About Ningguang
+
+I have heard a thing or two about how Her Eminence, the Tianquan operates. On the subject, I also happen to have a limited-edition copy of Liyue Millennial, if you're interested? What do you say, shall I have someone fetch it, so we can play a game?
+
+### More About Kamisato Ayato: I
+
+You want to know about me? Hmm. Things aren't always a case of the more you know, the better. Plenty of proverbs to corroborate that, as I'm sure you're aware. Maybe we'll have the chance to talk more next time.
+
+### More About Kamisato Ayato: II
+
+Strange tastes, you say...? You seem to misunderstand me. Let me be quite clear: Most of the time, I simply enjoy watching people's facial contortions when they're put in an awkward position. Watching them squirm, you might say. Is that so strange? I would have thought you tease your little friend here on a regular basis for precisely that purpose, no?
+
+### More About Kamisato Ayato: III
+
+The Tri-Commission may appear calm and well-run, but I can assure you it is quite tumultuous beneath the placid surface. There is no pleasure to be had in mixing with the powers that be. I shall spare you the details. Just know that... I have never done anything to dishonor the Kamisato Clan. Neither in the past, when I was working to bring stability to our clan, nor here in the present, where I am working for the sake of all of Inazuma.
+
+### More About Kamisato Ayato: IV
+
+You want to know about the Shuumatsuban? I suppose there's no harm in divulging a detail or two to you. It's a secret unit that reports directly to the head of the Kamisato Clan. Accordingly, after my father passed, it came to me. There are certain situations I cannot directly involve myself in, and in these cases, being able to rely on the Shuumatsuban is often instrumental in achieving a resolution. Most of its members are orphans whom we take in and raise from a young age. This way, loyalty is guaranteed to the greatest extent possible, and we are spared a great deal of worry.
+
+### More About Kamisato Ayato: V
+
+Do I have other tricks up my sleeve beyond the Shuumatsuban? Well, naturally. If even the cunning bunny burrows thrice, then what of the cunning human? But anyway, I've shared enough of my secrets. I think it's time I heard your story. Oh, and... you can spare the part about traveling in Teyvat. Tell me about before that.
+
+### Kamisato Ayato's Hobbies
+
+Hobbies... I had one or two as a child, but these days most of my time is taken up by my official duties, so they don't count... Hmm? Some people treat work as a hobby, you say? Goodness me. How very... exceptional.
+
+### Kamisato Ayato's Troubles
+
+Troubles? Whenever something's troubling me, it must be dealt with swiftly and comprehensively. And whenever someone is troubling me... Hehe...
+
+### Favorite Food: Personal Preference
+
+Variety is the spice of life. In that sense, the Milk Tea Medley they started serving over in Hanamizaka recently isn't half bad. You should try it sometime. Other than that... I don't have any particular preferences when it comes to the food I eat on a daily basis. I have dedicated staff to arrange my daily meal plan, and whatever they serve, I eat.
+
+### Favorite Food: Trying New Things
+
+You couldn't perchance tell me your own tastes, could you? ...Ah, I see. Okay, I've made a note of that. Now I know what to say the next time I get asked about it.
+
+### Least Favorite Food
+
+Hmm... it looks like I mixed up my salt and my sugar. Savory Mizu Manjuu. Yes, this can work. I'll give them to Thoma.
+
+### Birthday
+
+Happy Birthday! Now, how would you like to be Yashiro Commissioner for a day, hmm? All the work has been handled already, so you can focus on simply enjoying the feeling of having an enormous amount of executive power at your fingertips. Don't worry, the retainers won't dare question it, I'll be with you the entire time, hehe.
+
+### Feelings About Ascension: Intro
+
+Did I just grow more competent? Goodness, how marvelous...
+
+### Feelings About Ascension: Building Up
+
+At the end of the day, power is only a source of comfort when it is concentrated in one's own hands.
+
+### Feelings About Ascension: Climax
+
+Hehe, I'm sure certain people are starting to grow rather nervous right about now...
+
+### Feelings About Ascension: Conclusion
+
+I've had very few chances to kick back and put my feet up since taking over leadership of the clan. But things have felt curiously different since having you around. Hmm... Yes, it feels rather like basking in the sun.
+
+### Elemental Skill: I
+
+Be still.
+
+### Elemental Skill: II
+
+Cascade.
+
+### Elemental Burst: I
+
+Mind the deluge.
+
+### Elemental Burst: II
+
+Hmph... The depths beckon.
+
+### Elemental Burst: III
+
+Kamisato Art: Suiyuu!
+
+### Opening Treasure Chest: I
+
+All yours, should you have any use for them.
+
+### Opening Treasure Chest: II
+
+Oh... so you collect these?
+
+### Opening Treasure Chest: III
+
+Mm, yes, very nice.
+
+### Low HP: I
+
+This is getting interesting...
+
+### Low HP: II
+
+Alright. Time to get serious.
+
+### Low HP: III
+
+One of us has to go.
+
+### Ally at Low HP: I
+
+Time to withdraw.
+
+### Ally at Low HP: II
+
+Pace yourself before you erase yourself.
+
+### Fallen: I
+
+But the plan... was watertight...
+
+### Fallen: II
+
+I'm feeling a little washed-out...
+
+### Fallen: III
+
+Such is life...
+
+### Light Hit Taken: I
+
+That's far enough.
+
+### Heavy Hit Taken: I
+
+I may have overestimated myself...
+
+### Joining Party: I
+
+What's that? Join you for a walk? Why not.
+
+### Joining Party: II
+
+Very well, I shall put my official duties to one side for the moment.
+
+### Joining Party: III
+
+Hmm... Well, this ought to be entertaining.
+
+### Receiving a Gift: I
+
+Very novel indeed. Haha, it meets my requirements perfectly...
+
+### Receiving a Gift: II
+
+I see. So this is your take on this dish...
+
+### Receiving a Gift: III
+
+Here's a suggestion: Try using this dish in the hot pot game next time you play.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+此前听绫华屡次提起阁下，不料公务繁忙，直至今日才有机会相见。神里家家主，神里绫人，今后请多指教了。
+
+### 闲聊·大少爷
+
+好像忘带什么东西了…算了，等想起来的时候再差人送来好了。
+
+### 闲聊·收网
+
+暗线已经布置妥当，嗯，差不多该收网了…
+
+### 闲聊·恶趣味
+
+一想起家臣们一脸焦急却又不敢开口阻拦的样子，就忍不住觉得有趣。呵，出来走走是不错。
+
+### 下雨的时候…
+
+暂且先避下雨吧，不必着急，很快就会有人来送伞了。
+
+### 打雷的时候…
+
+绫华自小害怕打雷，直到家母告诉她雷声是大御所大人的倾诉。从那时起，每逢打雷她都会神色专注，仿佛这样就能听懂大御所大人的言语。
+
+### 下雪的时候…
+
+如今的雪景，与多年前的那场雪…并无二致。
+
+### 阳光很好…
+
+能悠闲晒太阳的时间可不多。
+
+### 起风的时候…
+
+有些「突发情况」，看似细小如微风，却会影响到最终结果…呵呵。
+
+### 刮大风了…
+
+大多数人会因为大风迷眼而止步不前，只有少部分人能够借势而为。
+
+### 早上好…
+
+早上好。清晨适宜练剑，放松身心。我一般不会让人安排公务。如何？要过上几招么？
+
+### 中午好…
+
+午饭如果有偏好的菜色，提前和家仆说就好。你是我的贵客，他们也应对你尽心尽力。
+
+### 晚上好…
+
+既然在这个时间点找我，不如留下来吃晚饭吧。
+
+### 晚安…
+
+到洗漱的时间了是吧，你先下去吧，我还不困…呃，是你？我最后再整理下今日的公务便好，你也早点休息。
+
+### 关于神里绫人自己·代价
+
+万事皆有代价。既然寻求常人无法企及之事，那就必然付出世人无法想象的代价。
+
+### 关于神里绫人自己·手段
+
+我并不是拘泥于手段的人，无论采取怎样的方式，只要能够取得合适的结果就好。
+
+### 关于我们·趣事
+
+呵，我听说了你们在天领奉行那边发生的趣事。能让九条老头气得掉头发的人，真不多见。只可惜没有亲眼见证这一幕啊…
+
+### 关于我们·信任
+
+信任他人不是一件容易的事，特别是对于位居高位的人来说。一旦错付了，付出生命的代价也不算少见。不过，你已经给了我信任，那我自然也不该辜负。
+
+### 关于「神之眼」…
+
+既然有「神之眼」这么方便的道具，自然是要好好利用了。能在我的手中像这样焕发光辉，它也是高兴的吧。
+
+### 有什么想要分享…
+
+将落花投于暖炉之上，在炉火的炙烤下，花会短暂地恢复生机，最后一刻的红艳更是压火光一筹…倒也没有枉费短暂的一生。
+
+### 感兴趣的见闻…
+
+说起宠物的话，嗯，我更喜欢狗。猫自我主义的特征是不错，但只有狗会乖乖听从主人的命令。忠诚而又坦率，呵，真是惹人喜爱啊。
+
+### 关于神里绫华…
+
+我相信绫华的能力，但我也希望她能够保持一颗纯粹的心。权力斗争她不必参与，人世阴暗她也不必直面，这些理应由作为兄长的我来一一扫清…不小心说太多了，就当是你我之间的秘密吧。
+
+### 关于托马…
+
+托马对神里家的忠心毋庸置疑。很久以前我曾试探过他，如果不想往后被卷入无尽纷争的话，最好早日离开。他却还是留了下来，一直跟随着神里家，让我也省心不少。…现在，我完全信得过的人很少，托马算是一个。
+
+### 关于早柚…
+
+她平时看起来是懒散了点，但在适当的时机，却总能给予重要帮助。你应该再清楚不过了吧？
+
+### 关于宵宫…
+
+那位…为人爽朗的烟花店店主么？嗯…她和神里家往来还算密切。她和绫华年龄相仿，也很投缘。绫华恐怕也不会因为她的快人快语而困扰。毕竟绫华那孩子在小时候，就能坚定地守住本心。
+
+### 关于雷电将军…
+
+为了追求「永恒」，将军大人以及整个稻妻，都付出了不小的代价。伤口需要时间来愈合，作为政局的调和者，我必然会尽到我的责任。
+
+### 关于八重神子…
+
+宫司大人于神里家有恩，可她却一直不太看得惯我，呵，恐怕你没少听她「那小子」「那小子」地称呼我吧。
+由于业务交集，我们偶有碰面，虽说大家各怀心思，但工作起来也称得上融洽。我并不讨厌这种感觉。嗯，与聪明人一起办事，效率就是会高得多。况且就算她再讨厌我，也不得不承认如果没有我，就没人能实现得了她那些「奇思妙想」了。
+
+### 关于九条裟罗…
+
+九条老头打得一手好算盘，磨砺出了一柄利剑。哼，只可惜，他没有算到，自己做不起这位执剑人。
+
+### 关于枫原万叶…
+
+枫原家曾是神里家的下属，神里家的先祖当年未能保护他们周全，到我这里，仍有义务照拂他。虽说无法助他重振家业，但帮他逃脱天领奉行的追捕这种事还是做得到的。
+
+### 关于荒泷一斗…
+
+那家伙实在是个有趣的人。让温顺的鬼兜虫相互争斗，哈哈，有意思。嗯，虽然那次点拨实则是不经意之举，但没想到的是，他竟会直接与我称兄道弟，而且时至今日都还没发现我这位「绫人兄」的身份。呵呵，这样也好，我并不讨厌…单纯的人。
+
+### 关于凝光…
+
+璃月七星中的那位「天权」大人，嗯，她的手段我也略有耳闻。说来，我还收藏有一套限量版的「璃月千年」，你感兴趣吗？我差人拿出来，我们下一盘如何？
+
+### 想要了解神里绫人·其一
+
+我的事情吗？有时候知道得太多不一定是好事，你应该也听说过类似的谚语吧。下次有机会再聊吧。
+
+### 想要了解神里绫人·其二
+
+品味…奇特？看来你对我有什么误解，我得澄清一下才是。多数时候，我只是喜欢看人脸上为难的表情罢了。难道这很奇怪吗？你应该也没少逗你边上的小家伙吧？
+
+### 想要了解神里绫人·其三
+
+三奉行之间，表面看起来风平浪静，实际上却暗潮涌动。哼，和那些老家伙们周旋，并不是什么愉快的事，不值得细说。你只需知道…昔日是为了神里家的稳定，今日是为了稻妻的大局，我从未行有愧于神里家家主之名之事。
+
+### 想要了解神里绫人·其四
+
+终末番吗？和你说说倒也无妨。那是直属于神里家家主的一支秘密部队，家父去世后，便由我接手了。我不能直接出面解决的事情，有了终末番就方便不少。里面的成员大多是孤儿，从小就被组织收养，这样才能最大程度保证忠诚，也能让人放心。
+
+### 想要了解神里绫人·其五
+
+除了终末番以外的底牌？呵，自然是有的，狡兔有三窟，更何况人呢？只是我的秘密已经说得差不多了，该来听听你的故事了吧。哦对了，在提瓦特大陆上旅行的部分就不用了，说些更久之前的吧。
+
+### 神里绫人的爱好…
+
+爱好…小时候倒是略有一二，不过如今公务占据了大多数时间，不提也罢…嗯？你说有人把公务当成爱好？呵，这可真是…嗯…独特。
+
+### 神里绫人的烦恼…
+
+烦恼吗？如果一件事让我烦恼，那就得尽快处理好。如果一个人让我烦恼，呵…
+
+### 喜欢的食物·个人喜好
+
+新奇的事物能给枯燥的日常生活带来新鲜感。最近花见坂那边新出的什锦奶茶就很不错，你也该试试。不过…日常饭菜上我没有什么偏好。每日用餐有专门的下属制定计划。对方端来什么，我就吃什么。
+
+### 喜欢的食物·新的尝试
+
+差不多可以告诉我你的口味了吧？嗯？原来是这样。嗯，我记下来了。下次被问起的时候，我也回答这个吧。
+
+### 讨厌的食物…
+
+…啊，盐和糖弄错了。咸的水馒头…嗯，也行，给托马吃吧。
+
+### 生日…
+
+生日快乐！让你体验一日社奉行，如何？
+哦，公务我提前处理完了，你只需要享受权力带来的乐趣就好。有我陪在你身边，料想家臣们也不敢说什么。呵，放心吧。
+
+### 突破的感受·起
+
+能力提高了？呵，那可真是好事。
+
+### 突破的感受·承
+
+力量这种东西，果然只有掌握在自己手中，才能安心。
+
+### 突破的感受·转
+
+呵，有些人怕是要寝食难安了吧。
+
+### 突破的感受·合
+
+坐上家主之位以后，我少有松懈的时刻。有你在旁的这段日子，却有些奇妙。嗯…就好像在晒太阳一样吧。
+
+### 元素战技·其一
+
+苍流水影。
+
+### 元素战技·其二
+
+剑影。
+
+### 元素爆发·其一
+
+秋水三尺。
+
+### 元素爆发·其二
+
+呵…安息吧。
+
+### 元素爆发·其三
+
+神里流…水囿！
+
+### 打开宝箱·其一
+
+对你有用便好。
+
+### 打开宝箱·其二
+
+原来你需要这些吗？
+
+### 打开宝箱·其三
+
+嗯…质量还行。
+
+### 生命值低·其一
+
+真是有趣…
+
+### 生命值低·其二
+
+那么，我也认真起来吧。
+
+### 生命值低·其三
+
+不知鹿死谁手呢？
+
+### 同伴生命值低·其一
+
+暂且后退。
+
+### 同伴生命值低·其二
+
+冒进是大忌。
+
+### 倒下·其一
+
+百密终是有一疏么…
+
+### 倒下·其二
+
+花无百日红…
+
+### 倒下·其三
+
+世事无常…
+
+### 普通受击·其一
+
+不过如此。
+
+### 重受击·其一
+
+不自量力…
+
+### 加入队伍·其一
+
+哦？是邀请我去散步吗？
+
+### 加入队伍·其二
+
+那么，公务就先放一边吧。
+
+### 加入队伍·其三
+
+呵…余兴节目。
+
+### 收到赠礼·其一
+
+挺新奇的滋味。呵呵，很符合我的要求…
+
+### 收到赠礼·其二
+
+原来如此。你对这道菜的理解是这样的…
+
+### 收到赠礼·其三
+
+给你个建议，下次把这道菜加进火锅游戏里吧。

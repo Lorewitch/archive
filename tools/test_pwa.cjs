@@ -25,7 +25,7 @@ function memoryCaches() {
     async delete(name){return stores.delete(name);},
   };
 }
-function fixture(network) {
+function fixture(network, options={}) {
   const handlers={}, caches=memoryCaches(), messages=[];
   let claims=0, skips=0;
   let fetcher=network || (async input=>{
@@ -37,7 +37,9 @@ function fixture(network) {
   });
   const self={registration:{scope},clients:{async claim(){claims++;},async matchAll(){return [{postMessage:x=>messages.push(x)}];}},addEventListener:(name,fn)=>{handlers[name]=fn;},async skipWaiting(){skips++;}};
   const context=vm.createContext({self,caches,URL,Request,Response,Headers,AbortController,setTimeout,clearTimeout,console,fetch:(...args)=>fetcher(...args)});
-  vm.runInContext(fs.readFileSync(path.join(root,'sw.js'),'utf8')+'\nthis.api={SHELL_CACHE,DATA_CACHE,IMAGE_CACHE,CACHE_PREFIX,APP_SHELL,DATA_LIMIT,IMAGE_LIMIT,saveResponse,cacheKey};',context);
+  let workerSource=fs.readFileSync(path.join(root,'sw.js'),'utf8');
+  if(options.emptyCatalogs)workerSource=workerSource.replace(/^const EMPTY_CATALOGS = new Set\(.*\);$/m,'const EMPTY_CATALOGS = new Set('+JSON.stringify(options.emptyCatalogs)+');');
+  vm.runInContext(workerSource+'\nthis.api={SHELL_CACHE,DATA_CACHE,IMAGE_CACHE,CACHE_PREFIX,APP_SHELL,DATA_LIMIT,IMAGE_LIMIT,saveResponse,cacheKey};',context);
   const api=context.api;
   async function lifecycle(name,data={}) {
     const tasks=[];handlers[name]({...data,waitUntil:p=>tasks.push(p)});
@@ -131,8 +133,10 @@ test('malformed online JSON cannot poison a valid saved copy',async()=>{
 });
 
 test('only known empty categories return an empty list offline',async()=>{
- const f=fixture(offline);
- assert.deepEqual(await (await f.request('data/indexes/items/serenitea_pot.json')).json(),[]);
+ const f=fixture(offline,{emptyCatalogs:['data/indexes/items/teyvat_resources.json']});
+ assert.deepEqual(await (await f.request('data/indexes/items/teyvat_resources.json')).json(),[]);
+ const populated=fixture(offline);
+ assert.equal((await populated.request('data/indexes/items/teyvat_resources.json')).status,503);
  assert.equal((await f.request('data/indexes/items/not-a-category.json')).status,503);
 });
 

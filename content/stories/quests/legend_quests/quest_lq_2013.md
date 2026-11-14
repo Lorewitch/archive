@@ -14,12 +14,14 @@
 # chapter_num_en: Carmen Dei Chapter: Act I
 # chapter_num_zh: 歌仙之章 第一幕
 # part_source_ids: 10110,10111,10112,10113
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_lq_2013
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 10110,10111,10112,10113
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -35,43 +37,61 @@
 
 **Паймон:** Как будто с кем-то разговаривает и смеётся... Ууу, Паймон страшно...
 
-У меня в детстве тоже был воображаемый друг.
+- **Путешественник:** У меня в детстве тоже был воображаемый друг.
 
-**Паймон:** Что? Хочешь сказать, ты тоже так себя (вела)(вёл), Путешественник?
+**Паймон:** Что? Хочешь сказать, ты тоже так себя вёл, Путешественник? / Что? Хочешь сказать, ты тоже так себя вела, Путешественник?
 
 **Паймон:** То есть это просто воображение? Или всё-таки это кто-то невидимый, с кем можно поиграть?
 
-- **Путешественник:** «Воображаемый» и есть «воображение».
+##### Вариант ответа 1
 
-- **Путешественник:** «Воображение» и есть «воображаемый».
+- **Путешественник:** «Воображаемый» и есть «воображение».
 
 **Паймон:** Воображаемый... Воображение...
 
+##### Вариант ответа 2
+
+- **Путешественник:** «Воображение» и есть «воображаемый».
+
 **Паймон:** Воображение... Воображаемый...
+
+##### Общее продолжение
 
 **Паймон:** А, так ты имеешь в виду «вымышленного друга»! Чего ж ты мне голову морочишь?
 
 **Паймон:** Давай, показывай Паймон, как выглядит твой «воображаемый друг»!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ох, мы больше не играем.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Он стал невидимкой.
 
+##### Общее продолжение
+
 **Паймон:** Правда? Значит, когда ты взрослеешь, воображаемый друг исчезает?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Да.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Как бы грустно это ни было, но да.
 
-**Паймон:** Ох... Паймон надеялась познакомиться с твоим... Эй, только не говори, что у тво(его)(ей) (брата)(сестры) тоже был воображаемый друг!
+##### Общее продолжение
 
-Конечно, был.
+**Паймон:** Ох... Паймон надеялась познакомиться с твоим... Эй, только не говори, что у твоей сестры тоже был воображаемый друг! / Ох... Паймон надеялась познакомиться с твоим... Эй, только не говори, что у твоего брата тоже был воображаемый друг!
+
+- **Путешественник:** Конечно, был.
 
 **Паймон:** Не может быть! Вам, ребята, так повезло...
 
-**Паймон:** В Ли Юэ есть такая игра, не знаю, слышал(а) ли ты о ней. В неё должны играть четыре человека, но вы с (братом)(сестрой), наверное, могли бы играть и вдвоём.
+**Паймон:** В Ли Юэ есть такая игра, не знаю, слышал ли ты о ней. В неё должны играть четыре человека, но вы с сестрой, наверное, могли бы играть и вдвоём. / В Ли Юэ есть такая игра, не знаю, слышала ли ты о ней. В неё должны играть четыре человека, но вы с братом, наверное, могли бы играть и вдвоём.
 
-**Венти:** Путешественни(ца)(к)! Какая встреча!
+**Венти:** Путешественник! Какая встреча! / Путешественница! Какая встреча!
 
 **Паймон:** Что? Опять ты, бродяжка!
 
@@ -85,13 +105,19 @@
 
 **Паймон:** Оп-опасный?!
 
-- **Путешественник:** Это какой-то детектор?
+##### Вариант ответа 1
 
-- **Путешественник:** Это просто монокль.
+- **Путешественник:** Это какой-то детектор?
 
 **Венти:** Да! Он выглядит как монокль, но на самом деле он называется «детектор нирнама».
 
+##### Вариант ответа 2
+
+- **Путешественник:** Это просто монокль.
+
 **Венти:** Ага, я тоже так думал. Но он называется «детектор нирнама».
+
+##### Общее продолжение
 
 **Венти:** К сожалению, у Лизы не получается им пользоваться. Я одолжил его, чтобы проверить, получится ли у меня.
 
@@ -105,13 +131,19 @@
 
 **Венти:** Ха-ха, это же тайна!
 
-**Венти:** Ладно, путешественни(ца)(к), теперь это твоя вещь. Попробуй разглядеть воображаемого друга Норы.
+**Венти:** Ладно, путешественник, теперь это твоя вещь. Попробуй разглядеть воображаемого друга Норы. / Ладно, путешественница, теперь это твоя вещь. Попробуй разглядеть воображаемого друга Норы.
 
-**Паймон:** Ну что там? Видно? Разглядел(а)?
+**Паймон:** Ну что там? Видно? Разглядел? / Ну что там? Видно? Разглядела?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Ого, это и вправду работает!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Да! Кажется, они лучшие друзья.
+
+##### Общее продолжение
 
 **Венти:** Значит, ты тоже можешь его использовать.
 
@@ -127,25 +159,37 @@
 
 **Флора:** Привет, Путешественник! Привет, бард!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Привет, Флора. Можно задать тебе вопрос?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Привет. Можно отвлечь тебя на минуточку?
 
+##### Общее продолжение
+
 **Флора:** Конечно! Чем Флора может вам помочь?
 
-- **Путешественник:** Расскажи нам о своём... друге.
+##### Вариант ответа 1
 
-- **Путешественник:** Вы семья или...?
+- **Путешественник:** Расскажи нам о своём... друге.
 
 **Флора:** Вы тоже можете видеть мистера Помидорку? Другие почему-то его не видят.
 
 **Флора:** Мы с мистером Помидоркой лучшие друзья с детства!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Вы семья или...?
 
 **Флора:** Мы с мистером Помидоркой?
 
 **Флора:** Мы просто лучшие друзья и живём вместе.
 
 **Флора:** Поздоровайся с ребятами, мистер Помидорка! Они тоже тебя видят.
+
+##### Общее продолжение
 
 **Паймон:** (Уф, так нечестно! Паймон не любит не понимать, что происходит...)
 
@@ -165,9 +209,15 @@
 
 **Флора:** Вроде бы его звали... Стэнли!
 
+##### Вариант ответа 1
+
 - **Путешественник:** О, я знаю Стэнли!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Я такого не знаю.
+
+##### Общее продолжение
 
 **Флора:** Он искатель приключений.
 
@@ -179,6 +229,10 @@
 
 **Венти:** Очень интересно, но мы займёмся этим в следующий раз. Сейчас у нас есть другие дела...
 
+**Нора:** Они такие большие и красивые.
+
+**Нора:** Я хочу подняться туда со своим другом...
+
 #### Встретьтесь с Тимми
 
 **Паймон:** Чт-что?!
@@ -187,25 +241,39 @@
 
 **Паймон:** Воображаемый друг Тимми - это страж руин???
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не верю своим глазам...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Бывают и такие ангелы-хранители?
+
+##### Общее продолжение
 
 **Паймон:** Ууу... Паймон боится, эта штука точно нас раздавит...
 
 **Венти:** Ха-ха... Давайте отложим разговор с Тимми на потом.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Паймон, время сказать свою любимую фразу!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Паймон, почему ты молчишь?
 
+##### Общее продолжение
+
 **Паймон:** А? Что я должна сказать?
 
-«Давай пока не пойдём туда!»
+- **Путешественник:** «Давай пока не пойдём туда!»
 
 **Паймон:** Серьёзно? Ну хорошо, тогда...
 
 **Паймон:** Слушайте меня внимательно... Давайте пока не пойдём туда!
+
+**Флора:** Ну хорошо. Пойдём, мистер Помидорка, пора поливать цветочки!
 
 #### Поговорите со взрослыми у таверны
 
@@ -231,11 +299,11 @@
 
 **Отчаянный Паллад:** Но ведь в кабинете господина Дилюка стоит такая красивая ваза... Как он мог про неё забыть?
 
-**Паймон:** Ты был(а) прав(а)... У взрослых действительно нет воображаемых друзей...
+**Паймон:** Ты был прав... У взрослых действительно нет воображаемых друзей... / Ты была права... У взрослых действительно нет воображаемых друзей...
 
 **Венти:** Как я и говорил, нет детской веры в чудеса...
 
-Похоже, взрослые все одинаковые.
+- **Путешественник:** Похоже, взрослые все одинаковые.
 
 **Паймон:** Значит, люди просто перестают мечтать, когда взрослеют? Тогда Паймон не хочет взрослеть...
 
@@ -243,19 +311,27 @@
 
 **Венти:** Давайте исследуем этот вопрос!
 
+**Тимми:** Если кто-то обидит моих голубей, я расскажу своему другу, и тогда он их пиф-паф, пиу-пиу и ба-бах!
+
 #### Навестите Айлин
 
 **Паймон:** Это же магистр Джинн! Что она здесь делает?
 
 **Паймон:** Воображаемый друг Айлин - это Джинн?
 
-- **Путешественник:** Видимо, Айлин очень старается.
+##### Вариант ответа 1
 
-- **Путешественник:** Айлин очень хочет стать рыцарем.
+- **Путешественник:** Видимо, Айлин очень старается.
 
 **Паймон:** Какой-то странный способ побуждать себя стать рыцарем.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Айлин очень хочет стать рыцарем.
+
 **Паймон:** Да, она такая целеустремлённая, что мне аж страшно...
+
+##### Общее продолжение
 
 **Айлин:** Ребята? О, привет! Что вы здесь делаете?
 
@@ -271,13 +347,39 @@
 
 **Паймон:** Похоже, что Айлин ооочень хочет быть похожей на магистра Джинн.
 
+##### Вариант ответа 1
+
 - **Путешественник:** В этом нет ничего плохого.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Я верю, что ты справишься, Айлин.
 
+##### Общее продолжение
+
 **Айлин:** Спасибо!
 
-**Айлин:** Ох, почётный рыцарь, такой шанс выпадает очень редко. Не мог(ла) бы ты... дать мне пару уроков в фехтовании?
+**Айлин:** Ох, почётный рыцарь, такой шанс выпадает очень редко. Не мог бы ты... дать мне пару уроков в фехтовании? / Ох, почётный рыцарь, такой шанс выпадает очень редко. Не могла бы ты... дать мне пару уроков в фехтовании?
+
+**Кэйа:** «Воображаемые друзья»? Ничего себе, каким интересным расследованием вы занимаетесь.
+
+**Кэйа:** Я бы с удовольствием присоединился к вашей команде, но, боюсь, я уже немного пьян, ха-ха-ха.
+
+**Дилюк:** Вы пытались разглядеть моего «вымышленного друга» с помощью этого детектора?
+
+**Дилюк:** Зря стараетесь. Даже 15 лет назад я не увлекался такими вещами.
+
+**Усердный Силио:** Ещё одну кружку, пожалуйста. Ах, я уже чувствую себя намного лучше.
+
+**Усердный Силио:** Если бы у меня был «воображаемый друг», он бы точно был кружкой пива...
+
+**Отчаянный Паллад:** У меня? Нет, я не воображаю друзей, только эпические приключения!
+
+#### Разбейте все тренировочные манекены
+
+**Айлин:** Спасибо, что согласился потренироваться со мной! А теперь покажи, как правильно! / Спасибо, что согласилась потренироваться со мной! А теперь покажи, как правильно!
+
+#### Разбейте все тренировочные манекены
 
 #### Поговорите с Айлин
 
@@ -295,9 +397,9 @@
 
 **Айлин:** Почётный рыцарь, тебя не сильно затруднит передать моё сообщение Джеку?
 
-- **Путешественник:** Кто такой Джек?
+##### Вариант ответа 1
 
-- **Путешественник:** Где он?
+- **Путешественник:** Кто такой Джек?
 
 **Айлин:** Это мой друг. Он совсем недавно стал искателем приключений.
 
@@ -307,13 +409,19 @@
 
 **Айлин:** Это легендарный искатель приключений, чьи подвиги в Пепельном море потрясли весь Мондштадт.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Где он?
+
 **Айлин:** Он должен быть в храме Льва, Хранителя южного ветра, вместе со Стэнли.
 
 **Айлин:** Это легендарный искатель приключений, чьи подвиги в Пепельном море потрясли весь Мондштадт.
 
 **Айлин:** Мы договаривались встретиться с ним сегодня вечером и обсудить план приключений... Можешь, пожалуйста, попросить его перенести встречу на другой день?
 
-Храм Льва? Я там уже не был(а) очень давно!
+##### Общее продолжение
+
+- **Путешественник:** Храм Льва? Я там уже не был очень давно! / Храм Льва? Я там уже не была очень давно!
 
 **Айлин:** Отлично! Я очень сильно благодарна тебе за помощь!
 
@@ -321,6 +429,17 @@
 
 Во время поисков воображаемого друга, Айлин попросила вас найти искателя приключений Джека в храме Льва. Похоже, что он путешествует вместе со Стэнли, легендой Гильдии искателей приключений.
 
+**Айлин:** Прости за мою наглость.
+
+**Айлин:** Отлично! Я очень сильно благодарна тебе за помощь!
+
+**Айлин:** Не забудь, Джек находится в храме Льва.
+
+#### Направляйтесь к храму Льва
+
+#### Найдите Джека и Стэнли
+
+#### Спасите Джека и Стэнли
 
 **Стэнли:** Фух... Фух...
 
@@ -348,18 +467,25 @@
 
 **Венти:** Ну что ж, надо решить, идём ли мы дальше или поворачиваем назад.
 
-- **Путешественник:** Что думает мистер Стэнли?
+##### Вариант ответа 1
 
-- **Путешественник:** Что думает Джек?
+- **Путешественник:** Что думает мистер Стэнли?
 
 **Стэнли:** Ха-ха, теперь вы в безопасности, ведь с вами оказался великий искатель приключений и сама легенда Мондштадта Стэнли!
 
 **Стэнли:** Поэтому нам незачем поворачивать назад!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Что думает Джек?
+
 **Джек:** Я считаю, что нам нужно идти дальше. Стэнли с нами, а значит, у нас не будет проблем.
+
+##### Общее продолжение
 
 **Венти:** Единогласно... Тогда двигаемся вперёд.
 
+#### Пройдите подземелье
 
 **Венти:** Путешественник, мне кажется, я кое-что понял.
 
@@ -369,17 +495,23 @@
 
 **Венти:** Его воображаемый друг похож на опытного воина, покрытого шрамами с ног до головы... И с лицом, полным решимости.
 
-- **Путешественник:** Таким Стэнли описывает себя.
+##### Вариант ответа 1
 
-- **Путешественник:** Я подозревал(а) что-то неладное...
+- **Путешественник:** Таким Стэнли описывает себя.
 
 **Венти:** Хочешь сказать, что опытный воин - это тот, кем он хочет видеть себя в будущем?
 
 **Венти:** Интересное предположение. Но так ли это на самом деле?
 
+##### Вариант ответа 2
+
+- **Путешественник:** Я подозревал что-то неладное... / Я подозревала что-то неладное...
+
 **Венти:** О, ты тоже?
 
 **Венти:** Наверняка Стэнли что-то скрывает.
+
+##### Общее продолжение
 
 **Стэнли:** Простите меня, но теперь я должен покинуть вас.
 
@@ -397,13 +529,19 @@
 
 **Джек:** Вы ведь тоже опытные путешественники? Не могли бы вы помочь мне восстановить эти две легендарные вещи?
 
-- **Путешественник:** У него правда было такое оружие?
+##### Вариант ответа 1
 
-- **Путешественник:** Зачем он оставил такое оружие не пойми где?
+- **Путешественник:** У него правда было такое оружие?
 
 **Джек:** Конечно! Это ведь легендарный мистер Стэнли!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Зачем он оставил такое оружие не пойми где?
+
 **Джек:** Не знаю, у выдающихся личностей всегда есть какие-то свои странности, да?
+
+##### Общее продолжение
 
 **Джек:** Если я смогу впечатлить свою семью этим оружием, то, надеюсь, они наконец поймут, что я готов быть настоящим искателем приключений...
 
@@ -415,9 +553,15 @@
 
 **Паймон:** Ох, бедный Джек... Давайте ему поможем!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хорошо.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Тяжело отказать после такой истории.
+
+##### Общее продолжение
 
 **Паймон:** Венти, ты пойдёшь с нами?
 
@@ -430,6 +574,12 @@
 ### Львиный клык
 
 Джек хочет тайком заполучить старое оружие Стэнли. Меч и щит, которые вручил искателю приключений сам Лев Юга.
+
+#### Найдите Меч ослепительной доблести
+
+#### Победите хиличурлов, совершающих ритуал
+
+#### Получите Меч ослепительной доблести
 
 #### Поговорите с Венти
 
@@ -449,11 +599,19 @@
 
 **Венти:** Разве храбрость не то же самое? Когда всё идёт своим чередом, она кажется ненужной, отходит на второй план. Но когда ты в отчаянном положении, храбрость разжигает в тебе мужество и заставляет дать отпор. Это яркий луч света, который ведёт тебя из тьмы.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Слова льются словно мёд.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Поразил, как гром средь бела дня.
 
-- **Путешественник:** Я почти поверил(а).
+##### Вариант ответа 3
+
+- **Путешественник:** Я почти поверил. / Я почти поверила.
+
+##### Общее продолжение
 
 **Джек:** Святые Архонты, ты прав! Это наверняка и есть Меч ослепительной доблести!
 
@@ -475,6 +633,8 @@
 
 **Венти:** В другой раз. Нам ещё нужно найти щит.
 
+#### Найдите Щит сияющей воли
+
 #### Заключите сделку с хиличурлом
 
 **Венти:** Смотри, Щит сияющей воли!
@@ -493,11 +653,19 @@
 
 **Венти:** Тело настоящего воина, даже будучи уставшим, неустанно сражается до победного конца, пока вся кровь не истечёт из организма. Разве такая удивительная выносливость не является подлинным доказательством силы воли?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Венти прав!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Я тоже думаю, что это щит.
 
+##### Вариант ответа 3
+
 - **Путешественник:** Венти сегодня жжёт.
+
+##### Общее продолжение
 
 **Паймон:** Если так подумать, то ты прав... Где вы видели, чтобы щит был чистеньким и новеньким после битвы?
 
@@ -507,49 +675,29 @@
 
 **Хиличурл:** Dala?
 
-**Паймон:** Упс! Давай лучше ты, Путешественник! Надеюсь, к этому времени ты уже выучил(а) хоть немного хиличурлского. Если нет, то всегда можно объясниться жестами...
+**Паймон:** Упс! Давай лучше ты, Путешественник! Надеюсь, к этому времени ты уже выучил хоть немного хиличурлского. Если нет, то всегда можно объясниться жестами... / Упс! Давай лучше ты, Путешественник! Надеюсь, к этому времени ты уже выучила хоть немного хиличурлского. Если нет, то всегда можно объясниться жестами...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Хочешь, я тебе заплачу за этот щит?
 
-- **Путешественник:** Пожалуйста, отдай нам щит.
+**Хиличурл:** Biadam!
 
-- **Путешественник:** Vin plata dada!
+**Паймон:** Ой. Похоже, ему это не понравилось.
 
-**Хиличурл:** Mosi mita!
+##### Вариант ответа 1
 
-**Паймон:** Хм, кажется, всё идёт гладко, и у нас ещё получится договориться...
-
-- **Путешественник:** Вот, хочешь этот свежий цвето(че)к?
+##### Вариант ответа 2
 
 - **Путешественник:** Я подарю тебе маску хиличурла.
-
-- **Путешественник:** Kucha pupu gusha ye!
 
 **Хиличурл:** Biadam!
 
 **Паймон:** Ой. Похоже, ему это не понравилось.
 
-- **Путешественник:** Вот, хочешь этот свежий цвето(че)к?
-
-- **Путешественник:** Я подарю тебе маску хиличурла.
-
-- **Путешественник:** Kucha pupu gusha ye!
-
-**Хиличурл:** Mosi mita!
-
-**Паймон:** Хм, кажется, всё идёт гладко, и у нас ещё получится договориться...
+##### Вариант ответа 1
 
 - **Путешественник:** Венти - петь. Ты щит - давать.
-
-- **Путешественник:** Mani nini Biaodomu.
-
-**Хиличурл:** Biadam!
-
-**Паймон:** Ой. Похоже, ему это не понравилось.
-
-- **Путешественник:** Венти - петь. Ты щит - давать.
-
-- **Путешественник:** Mani nini Biaodomu.
 
 **Венти:** Я? Так уж и быть, сыграю что-нибудь...
 
@@ -557,19 +705,45 @@
 
 **Паймон:** Хм, кажется, всё идёт гладко, и у нас ещё получится договориться...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Mani nini Biaodomu.
+
 **Хиличурл:** Biadam!
 
 **Паймон:** Ой. Похоже, ему это не понравилось.
 
+##### Вариант ответа 3
 
-**Хиличурл:** Muhe vin plata? Mani ye! Mani dada!
+- **Путешественник:** Kucha pupu gusha ye!
 
-**Паймон:** Получилось! Он отдал нам щит!
+##### Вариант ответа 2
 
+- **Путешественник:** Пожалуйста, отдай нам щит.
+
+##### Вариант ответа 3
+
+- **Путешественник:** Vin plata dada!
+
+**Хиличурл:** Mosi mita!
+
+**Паймон:** Хм, кажется, всё идёт гладко, и у нас ещё получится договориться...
+
+##### Вариант ответа 1
+
+##### Общее продолжение
+
+- **Путешественник:** Вот, хочешь этот свежий цветок? / Вот, хочешь этот свежий цветочек?
+
+**Хиличурл:** Mosi mita!
+
+**Паймон:** Хм, кажется, всё идёт гладко, и у нас ещё получится договориться...
 
 **Хиличурл:** Yaya ika! Kundala ye plata!
 
 **Паймон:** О нет! Кажется, мы его вконец разозлили!
+
+#### Победите нападающих хиличурлов
 
 #### Поговорите с хиличурлом
 
@@ -597,9 +771,15 @@
 
 **Паймон:** (Паймон перестаёт сомневаться в том, что Стэнли может быть мошенником...)
 
+##### Вариант ответа 1
+
 - **Путешественник:** (Я тоже так думаю...)
 
+##### Вариант ответа 2
+
 - **Путешественник:** (Не может быть, а точно.)
+
+##### Общее продолжение
 
 **Паймон:** (Мог ли Стэнли спрятать здесь меч и щит специально, чтобы не ранить чувства Джека?)
 
@@ -629,36 +809,41 @@
 
 **Венти:** Знаю! Путешественник, пойдём поспрашиваем в «Доле ангелов».
 
+**Хиличурл:** Muhe vin plata? Mani ye! Mani dada!
+
+**Паймон:** Получилось! Он отдал нам щит!
+
 ### Ежели тебя не поддерживают ветра
 
 Довольный Джек вернулся домой после успешного приключения. Однако Венти считает, что Стэнли ведёт себя подозрительно. Он решает провести расследование...
 
+#### Дождитесь ночи (18:00 - 23:00)
+
 #### Направляйтесь в «Долю ангелов»
+
+#### Садитесь рядом со Стэнли
 
 **Дилюк:** Хорошо, что я сегодня зашёл.
 
 **Дилюк:** Людей в таверне не много, да и настроение у меня подходящее.
 
-#### Садитесь рядом со Стэнли
-
-**Дилюк:** Стэнли...
-
-**Дилюк:** Столько лет горечь потери не отпускает этого человека...
-
-**Дилюк:** Но я уверен, что память о нём не выветрится с улиц Мондштадта.
-
-
 **Стэнли:** Скажи мне, Стэнли... Скажи, что же мне делать...
 
 **Паймон:** Почему он продолжает повторять своё имя?
 
-- **Путешественник:** Он что-то скрывает.
+##### Вариант ответа 1
 
-- **Путешественник:** Может, кого-то ещё зовут Стэнли?
+- **Путешественник:** Он что-то скрывает.
 
 **Паймон:** Может, кого-то ещё зовут Стэнли?
 
+##### Вариант ответа 2
+
+- **Путешественник:** Может, кого-то ещё зовут Стэнли?
+
 **Венти:** Не может быть. Даже я не слышал ни о каком другом Стэнли.
+
+##### Общее продолжение
 
 **Стэнли:** *Хнык-хнык* Ох, Стэнли...
 
@@ -740,9 +925,15 @@
 
 **Стэнли:** Зато одну вещь я не забуду никогда... Как он умер в Пепельном море, где ветер не смог унести его дух!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Всю жизнь он топил себя в чувстве вины...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Всё, что осталось, - это его воображаемый друг...
+
+##### Общее продолжение
 
 **Венти:** Да... Даже в его воспоминаниях настоящий Стэнли - это не тот живой и дышащий человек, которого он знал.
 
@@ -774,15 +965,43 @@
 
 **Паймон:** А? Что за старое место? Почему Паймон о нём не знает? Эй, бродяжка!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Можно только догадываться...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Думаю, я знаю, где это...
 
+##### Вариант ответа 3
+
 - **Путешественник:** Ладно, до встречи на старом месте!
+
+##### Общее продолжение
 
 **Паймон:** Эй!
 
+**Паймон:** Не обманщик! Те истории о приключениях Стэнли, они же ведь настоящие?
+
+**Стэнли:** Честно говоря, мои воспоминания о приключениях, о Стэнли... Они становятся всё более размытыми.
+
+**Стэнли:** Все эти годы я жил, чтобы рассказывать его историю. Но его личность и подробности жизни... Я их уже почти не помню, ха-ха-ха...
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Вариант ответа 3
+
+##### Общее продолжение
+
 #### Направляйтесь в «старое место»
+
+**Дилюк:** Стэнли...
+
+**Дилюк:** Столько лет горечь потери не отпускает этого человека...
+
+**Дилюк:** Но я уверен, что память о нём не выветрится с улиц Мондштадта.
 
 **Венти:** Наконец вы здесь.
 
@@ -798,7 +1017,7 @@
 
 **Венти:** Я ещё не принял свою форму, когда впервые увидел этот пейзаж.
 
-Какую форму?
+- **Путешественник:** Какую форму?
 
 **Венти:** Это случилось 2600 лет назад, когда миром ещё не правили семеро Архонтов.
 
@@ -820,27 +1039,33 @@
 
 **Паймон:** Что случилось с твоим другом?
 
-(То же, что и с настоящим Стэнли...)
+- **Путешественник:** (То же, что и с настоящим Стэнли...)
 
 **Венти:** Скажи, Паймон, хочешь ли ты услышать следующую часть истории?
 
 **Паймон:** Конечно! Не могу ждать! Рассказывай быстрее!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Паймон, собери нам пару яблок.
+
+**Паймон:** Чего это ты вдруг захотел яблок! Ты серьёзно? / Чего это ты вдруг захотела яблок! Ты серьёзно?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Паймон, принеси нам рыбки.
 
-**Паймон:** Чего это ты вдруг захотел(а) яблок! Ты серьёзно?
-
 **Паймон:** А? Но ведь Венти рассказывает свою историю! Чего это вдруг тебе захотелось мяса?
 
-**Венти:** Ха-ха-ха, проголодал(ась)(ся)?
+##### Общее продолжение
 
-Ага.
+**Венти:** Ха-ха-ха, проголодался? / Ха-ха-ха, проголодалась?
+
+- **Путешественник:** Ага.
 
 **Паймон:** Аргх... Я тебя правда совсем не переношу!
 
-**Венти:** Знаешь, иногда я поражаюсь тому, как(ая)(ой) ты умн(ая)(ый).
+**Венти:** Знаешь, иногда я поражаюсь тому, какой ты умный. / Знаешь, иногда я поражаюсь тому, какая ты умная.
 
 **Венти:** Но, может быть, среди друзей и вправду необходимо понимание друг друга без слов.
 
@@ -848,7 +1073,7 @@
 
 **Венти:** К той песне, которую я впервые услышал от него...
 
-Можно послушать?
+- **Путешественник:** Можно послушать?
 
 ## EN
 
@@ -864,37 +1089,55 @@ At the feet of the Anemo Archon Statue in the plaza in front of Mondstadt Cathed
 
 **Paimon:** Because she's acting as if she's talking and laughing with somebody else... Uhhh! Paimon's creeped out...
 
-I had an imaginary friend too when I was a kid.
+- **Traveler:** I had an imaginary friend too when I was a kid.
 
 **Paimon:** What? You mean you used to act like that too, Traveler?
 
 **Paimon:** Uh... so is this... an invisible friend who hangs out with you sometimes? Or... do they just exist in your imagination?
 
-- **Traveler:** "Imaginary" means "in your imagination."
+##### Response branch 1
 
-- **Traveler:** "In your imagination" means "imaginary."
+- **Traveler:** "Imaginary" means "in your imagination."
 
 **Paimon:** Imaginary... imagination...
 
+##### Response branch 2
+
+- **Traveler:** "In your imagination" means "imaginary."
+
 **Paimon:** Imagination... imaginary...
+
+##### Shared continuation
 
 **Paimon:** ...Oh, you must mean "imagined friend," right? Why didn't you just say so!
 
 **Paimon:** So, this "imaginary friend" of yours... When does Paimon get to meet them?
 
+##### Response branch 1
+
 - **Traveler:** We, uh, don't hang out anymore.
+
+##### Response branch 2
 
 - **Traveler:** They're... invisible now.
 
+##### Shared continuation
+
 **Paimon:** Seriously? So imaginary friends just... disappear when you grow up?
+
+##### Response branch 1
 
 - **Traveler:** Exactly, yes.
 
+##### Response branch 2
+
 - **Traveler:** Tragically, yes.
 
-**Paimon:** Oh... Paimon was looking forward to meeting yours... Hey, don't suppose your sister / brother has an imaginary friend, too?
+##### Shared continuation
 
-Sure they do.
+**Paimon:** Oh... Paimon was looking forward to meeting yours... Hey, don't suppose your sister has an imaginary friend, too? / Oh... Paimon was looking forward to meeting yours... Hey, don't suppose your brother has an imaginary friend, too?
+
+- **Traveler:** Sure they do.
 
 **Paimon:** No way! You guys are so lucky...
 
@@ -914,13 +1157,19 @@ Sure they do.
 
 **Paimon:** D—Dangerous!?
 
-- **Traveler:** A monocle equipped with some sort of... detector?
+##### Response branch 1
 
-- **Traveler:** Looks like a regular monocle to me.
+- **Traveler:** A monocle equipped with some sort of... detector?
 
 **Venti:** That's right! Looks like a monocle, but actually it's called a nirnama detector.
 
+##### Response branch 2
+
+- **Traveler:** Looks like a regular monocle to me.
+
 **Venti:** I know, right? Apparently, though, it's called a nirnama detector.
+
+##### Shared continuation
 
 **Venti:** Sadly, Lisa isn't able to use it herself, so I'm borrowing it for a while. ...And also, I'm testing it out for her, to see if it actually works.
 
@@ -938,9 +1187,15 @@ Sure they do.
 
 **Paimon:** Do you see 'em? Do you see 'em?
 
+##### Response branch 1
+
 - **Traveler:** Wow, it really works!
 
+##### Response branch 2
+
 - **Traveler:** Yeah! Seems like they're best friends.
+
+##### Shared continuation
 
 **Venti:** So, it does work for you too...
 
@@ -956,25 +1211,37 @@ Sure they do.
 
 **Flora:** Hehehe, hi Traveler, hi Bard.
 
+##### Response branch 1
+
 - **Traveler:** Hi Flora. Can I ask a question?
+
+##### Response branch 2
 
 - **Traveler:** Hi. Have you got a minute?
 
+##### Shared continuation
+
 **Flora:** Sure. How can I help?
 
-- **Traveler:** Who's your... friend?
+##### Response branch 1
 
-- **Traveler:** Are you two family, or...?
+- **Traveler:** Who's your... friend?
 
 **Flora:** Hmm? Oh, you mean Mr. Floatty? Most people can't see him.
 
 **Flora:** Mr. Floatty is my bestest friend. We grew up together!
+
+##### Response branch 2
+
+- **Traveler:** Are you two family, or...?
 
 **Flora:** Hehehe, you mean me and Mr. Floatty?
 
 **Flora:** Mr. Floatty is my bestest friend. We live together.
 
 **Flora:** Say hello, Mr. Floatty! They can see you.
+
+##### Shared continuation
 
 **Paimon:** (*grumble* No fair! Paimon hates feeling left out...)
 
@@ -994,9 +1261,15 @@ Sure they do.
 
 **Flora:** I think his name was... Stanley!
 
+##### Response branch 1
+
 - **Traveler:** Oh, I know Stanley.
 
+##### Response branch 2
+
 - **Traveler:** Not someone I know.
+
+##### Shared continuation
 
 **Flora:** Stanley's an adventurer.
 
@@ -1008,6 +1281,10 @@ Sure they do.
 
 **Venti:** That sounds like a fun idea for next time! But right now we have other things to attend to...
 
+**Nora:** It's so big and so pretty.
+
+**Nora:** I really wanna go up there with my friend...
+
 #### Go see Timmie
 
 **Paimon:** N—No way!
@@ -1016,25 +1293,39 @@ Sure they do.
 
 **Paimon:** Timmie's imaginary friend is a R—Ruin Guard!?
 
+##### Response branch 1
+
 - **Traveler:** Am I... seeing things...?
 
+##### Response branch 2
+
 - **Traveler:** I've heard of "guardian angels," but come on...
+
+##### Shared continuation
 
 **Paimon:** Paimon's freaking out right now... That thing is sure to attack us!
 
 **Venti:** Haha... What say you we postpone our conversation with Timmie for the time being?
 
+##### Response branch 1
+
 - **Traveler:** Paimon, it's time to say the line.
+
+##### Response branch 2
 
 - **Traveler:** That line you love to say so much.
 
+##### Shared continuation
+
 **Paimon:** Huh? Paimon has a favorite line?
 
-The one about exploring the area ahead of us later.
+- **Traveler:** The one about exploring the area ahead of us later.
 
 **Paimon:** Seriously? Oh, alright then...
 
 **Paimon:** How about we explore the area ahead of us later?
+
+**Flora:** Come on Mr. Floatty, let's water the flowers!
 
 #### Drop in on the adults in the tavern
 
@@ -1064,7 +1355,7 @@ The one about exploring the area ahead of us later.
 
 **Venti:** Like I said — a lack of childlike wonder.
 
-Seems adults are the same everywhere.
+- **Traveler:** Seems adults are the same everywhere.
 
 **Paimon:** So people just stop dreaming when they grow up? Okay, well, Paimon for one never wants to grow up!
 
@@ -1072,19 +1363,27 @@ Seems adults are the same everywhere.
 
 **Venti:** Let's... go and check.
 
+**Timmie:** If anyone tries to shoot my pigeons, I'll get my friend on 'em! Piew-piew! Boom-boom! Bang!
+
 #### See how Ellin is doing
 
 **Paimon:** Jean! What is Jean doing here?
 
 **Paimon:** Is Master Jean Ellin's imaginary friend?
 
-- **Traveler:** Ellin is a conscientious child.
+##### Response branch 1
 
-- **Traveler:** Ellin is really determined to become a knight.
+- **Traveler:** Ellin is a conscientious child.
 
 **Paimon:** So she's so determined to become a knight that she... Okay, that's kinda weird.
 
+##### Response branch 2
+
+- **Traveler:** Ellin is really determined to become a knight.
+
 **Paimon:** Yeah, she's so conscientious it's... terrifying!
+
+##### Shared continuation
 
 **Ellin:** Hmm? Oh, hello. What are you guys doing?
 
@@ -1100,13 +1399,39 @@ Seems adults are the same everywhere.
 
 **Paimon:** Seems Ellin reeeally looks up to Jean.
 
+##### Response branch 1
+
 - **Traveler:** There's nothing wrong with that.
 
+##### Response branch 2
+
 - **Traveler:** I believe you'll succeed, Ellin.
+
+##### Shared continuation
 
 **Ellin:** Thanks!
 
 **Ellin:** I was thinking, it's not every day I get to hang out with the Honorary Knight... Would you join me for some sword training?
+
+**Kaeya:** Imaginary friends? Wow. What a fascinating thing to investigate!
+
+**Kaeya:** I would love to join you, really... but I'm already several drinks in. Hahaha...
+
+**Diluc:** So, let me get this straight. You have a device with which you were trying to see if I have an imaginary friend?
+
+**Diluc:** You're wasting your time. And to be clear, fifteen years earlier you still would have been wasting your time.
+
+**Hardworking Silio:** One more, please. Ah, I'm feeling better already.
+
+**Hardworking Silio:** Hmm... If I could have an imaginary friend, it'd probably be a beer mug.
+
+**Reckless Pallad:** Me? No, I don't imagine any friends. Too busy imagining epic adventures!
+
+#### Destroy all the training dummies
+
+**Ellin:** Thanks for agreeing to train with me. Now, show me how it's done!
+
+#### Destroy all the training dummies
 
 #### Talk to Ellin
 
@@ -1124,9 +1449,9 @@ Seems adults are the same everywhere.
 
 **Ellin:** Honorary Knight, could you deliver a message to Jack for me?
 
-- **Traveler:** Who's Jack?
+##### Response branch 1
 
-- **Traveler:** Sure. Where can I find him?
+- **Traveler:** Who's Jack?
 
 **Ellin:** He's a friend of mine. Recently started as an adventurer.
 
@@ -1136,13 +1461,19 @@ Seems adults are the same everywhere.
 
 **Ellin:** Stanley's a truly legendary adventurer, renowned in all of Mondstadt. He once set foot in the Mare Jivari.
 
+##### Response branch 2
+
+- **Traveler:** Sure. Where can I find him?
+
 **Ellin:** He's gone adventuring at the Temple of the Lion with Stanley today.
 
 **Ellin:** Stanley's a truly legendary adventurer, renowned in all of Mondstadt. He once set foot in the Mare Jivari.
 
 **Ellin:** We were gonna meet up tonight and discuss adventure plans... Could you let him know it'll have to be another day?
 
-Temple of the Lion? Sure, I miss that place!
+##### Shared continuation
+
+- **Traveler:** Temple of the Lion? Sure, I miss that place!
 
 **Ellin:** Great! Thank you so much.
 
@@ -1150,6 +1481,17 @@ Temple of the Lion? Sure, I miss that place!
 
 While investigating imaginary friends with Venti, Ellin asked you to search for the adventurer Jack within the Temple of the Lion. It seems he is traveling together with the legendary adventurer, Stanley.
 
+**Ellin:** Thanks for agreeing to help me out.
+
+**Ellin:** Great! Thank you so much.
+
+**Ellin:** Jack's at the Temple of the Lion. Don't forget...
+
+#### Head to the Temple of the Lion
+
+#### Look for Jack and Stanley
+
+#### Rescue Jack and Stanley
 
 **Stanley:** *panting*
 
@@ -1177,18 +1519,25 @@ While investigating imaginary friends with Venti, Ellin asked you to search for 
 
 **Venti:** Well then, how would everyone like to proceed? Head back, or head further inside?
 
-- **Traveler:** Stanley, what do you think?
+##### Response branch 1
 
-- **Traveler:** Jack, what do you think?
+- **Traveler:** Stanley, what do you think?
 
 **Stanley:** Hehehe, well... I think you're now in the safe hands of Stanley, the great explorer and legend of Mondstadt!
 
 **Stanley:** In which case, why head back now?
 
+##### Response branch 2
+
+- **Traveler:** Jack, what do you think?
+
 **Jack:** I think we should keep going. With Stanley by our side, we'll have no problem.
+
+##### Shared continuation
 
 **Venti:** Okay, motion passed by unanimous consent! Let's head further in.
 
+#### Complete the Domain adventure
 
 **Venti:** Traveler, I believe I have made a small discovery.
 
@@ -1198,17 +1547,23 @@ While investigating imaginary friends with Venti, Ellin asked you to search for 
 
 **Venti:** It seems his imaginary friend is a seasoned warrior... covered in scars from head to foot, and a look of staunch determination on his face.
 
-- **Traveler:** It fits Stanley's description of himself.
+##### Response branch 1
 
-- **Traveler:** I knew there was something weird about his story...
+- **Traveler:** It fits Stanley's description of himself.
 
 **Venti:** You're saying his imaginary friend is an idealized version of his own self?
 
 **Venti:** Interesting idea! But is it true?
 
+##### Response branch 2
+
+- **Traveler:** I knew there was something weird about his story...
+
 **Venti:** Oh? You thought so too, huh?
 
 **Venti:** I agree. He wasn't telling the whole story.
+
+##### Shared continuation
 
 **Stanley:** Please excuse me, I'll be leaving now.
 
@@ -1226,13 +1581,19 @@ While investigating imaginary friends with Venti, Ellin asked you to search for 
 
 **Jack:** Since you guys are the experts at this... Can you come with me to try and retrieve these two legendary weapons?
 
-- **Traveler:** Stanley seriously owned these weapons?
+##### Response branch 1
 
-- **Traveler:** Why did he abandon them in the wild, then?
+- **Traveler:** Stanley seriously owned these weapons?
 
 **Jack:** You bet! This is Stanley we're talking about!
 
+##### Response branch 2
+
+- **Traveler:** Why did he abandon them in the wild, then?
+
 **Jack:** I dunno, outstanding individuals always come with their quirks, right?
+
+##### Shared continuation
 
 **Jack:** If I can just get ahold of something impressive enough to show my family what I'm capable of, maybe they'll finally come around to the idea of me being an adventurer...
 
@@ -1244,9 +1605,15 @@ While investigating imaginary friends with Venti, Ellin asked you to search for 
 
 **Paimon:** Aw, poor Jack... Let's help him out!
 
+##### Response branch 1
+
 - **Traveler:** Alright then.
 
+##### Response branch 2
+
 - **Traveler:** Hard to say no after that sob story.
+
+##### Shared continuation
 
 **Paimon:** Venti, you coming too?
 
@@ -1259,6 +1626,12 @@ While investigating imaginary friends with Venti, Ellin asked you to search for 
 ### Lionfang's Legacy
 
 Jack wants to search for Stanley's old weapons in secret, as they are the sword and shield passed down from the Lion of the South, and thus fascinate Jack greatly.
+
+#### Search for the Sword of Brilliant Valor
+
+#### Defeat the hilichurls conducting a ritual
+
+#### Retrieve the Sword of Brilliant Valor
 
 #### Talk to Venti
 
@@ -1278,11 +1651,19 @@ Jack wants to search for Stanley's old weapons in secret, as they are the sword 
 
 **Venti:** Is valor not the same? When everything is going your way, it seems meaningless — fades into the background. But when you're in dire straits, valor is the thing that gets you fired up and fighting back. It's the brilliant ray of light that guides you out from the darkness.
 
+##### Response branch 1
+
 - **Traveler:** That was some very elaborate ox dung.
+
+##### Response branch 2
 
 - **Traveler:** Excellent recovery.
 
+##### Response branch 3
+
 - **Traveler:** Almost fell for it myself!
+
+##### Shared continuation
 
 **Jack:** You're right... you're right! Then this has to be it — this is the Sword of Brilliant Valor!
 
@@ -1304,6 +1685,8 @@ Jack wants to search for Stanley's old weapons in secret, as they are the sword 
 
 **Venti:** Maybe another time, hehe. We have a shield to find, remember?
 
+#### Seek the Shield of Magnificent Honor
+
 #### Cut a deal with the hilichurl
 
 **Venti:** Lo and behold, the Shield of Magnificent Honor!
@@ -1322,11 +1705,19 @@ Jack wants to search for Stanley's old weapons in secret, as they are the sword 
 
 **Venti:** Though the soldier's body be tired and torn, still they fight till the very end, till they have no blood left to bleed. Such magnificent strength of will... is that not the true meaning of honor?
 
+##### Response branch 1
+
 - **Traveler:** I agree with Venti!
+
+##### Response branch 2
 
 - **Traveler:** I agree, this is the shield.
 
+##### Response branch 3
+
 - **Traveler:** Venti is in top form today.
+
+##### Shared continuation
 
 **Paimon:** You do have a point... Shiny new shields don't stay new and shiny for long...
 
@@ -1338,47 +1729,27 @@ Jack wants to search for Stanley's old weapons in secret, as they are the sword 
 
 **Paimon:** Welp! Okay, you take it from here, Traveler! Hope you've picked up some Hilichurlian by now. If not, there's always body language...
 
+##### Response branch 1
+
 - **Traveler:** I'll pay good Mora for that shield.
 
-- **Traveler:** Please may I have that shield?
+**Hilichurl:** Biadam!
 
-- **Traveler:** Vin plata dada!
+**Paimon:** Uh-oh... He did not seem to appreciate that.
 
-**Hilichurl:** Mosi mita!
+##### Response branch 1
 
-**Paimon:** Seems cheerful enough. Maybe negotiating will work after all...
-
-- **Traveler:** Please take this sweet flower I picked.
+##### Response branch 2
 
 - **Traveler:** Please take this hilichurl mask I stole.
-
-- **Traveler:** Kucha pupu gusha ye!
 
 **Hilichurl:** Biadam!
 
 **Paimon:** Uh-oh... He did not seem to appreciate that.
 
-- **Traveler:** Please take this sweet flower I picked.
-
-- **Traveler:** Please take this hilichurl mask I stole.
-
-- **Traveler:** Kucha pupu gusha ye!
-
-**Hilichurl:** Mosi mita!
-
-**Paimon:** Seems cheerful enough. Maybe negotiating will work after all...
+##### Response branch 1
 
 - **Traveler:** Venti sing song, you give shield, okay?
-
-- **Traveler:** Mani nini Biaodomu.
-
-**Hilichurl:** Biadam!
-
-**Paimon:** Uh-oh... He did not seem to appreciate that.
-
-- **Traveler:** Venti sing song, you give shield, okay?
-
-- **Traveler:** Mani nini Biaodomu.
 
 **Venti:** Hmm? Well, if you insist, a tune I shall strum...
 
@@ -1386,19 +1757,45 @@ Jack wants to search for Stanley's old weapons in secret, as they are the sword 
 
 **Paimon:** Seems cheerful enough. Maybe negotiating will work after all...
 
+##### Response branch 2
+
+- **Traveler:** Mani nini Biaodomu.
+
 **Hilichurl:** Biadam!
 
 **Paimon:** Uh-oh... He did not seem to appreciate that.
 
+##### Response branch 3
 
-**Hilichurl:** Muhe vin plata? Mani ye! Mani dada!
+- **Traveler:** Kucha pupu gusha ye!
 
-**Paimon:** Oh yeah! He actually gave us the shield!
+##### Response branch 2
 
+- **Traveler:** Please may I have that shield?
+
+##### Response branch 3
+
+- **Traveler:** Vin plata dada!
+
+**Hilichurl:** Mosi mita!
+
+**Paimon:** Seems cheerful enough. Maybe negotiating will work after all...
+
+##### Response branch 1
+
+##### Shared continuation
+
+- **Traveler:** Please take this sweet flower I picked.
+
+**Hilichurl:** Mosi mita!
+
+**Paimon:** Seems cheerful enough. Maybe negotiating will work after all...
 
 **Hilichurl:** Yaya ika! Kundala ye plata!
 
 **Paimon:** On no! We ticked him off, big time!
+
+#### Defeat the attacking hilichurl
 
 #### Talk to the hilichurl
 
@@ -1426,9 +1823,15 @@ Jack wants to search for Stanley's old weapons in secret, as they are the sword 
 
 **Paimon:** (Paimon's starting to think Stanley might be a fraud...)
 
+##### Response branch 1
+
 - **Traveler:** (I'm seriously starting to think so, too.)
 
+##### Response branch 2
+
 - **Traveler:** (He's definitely a fraud. No question.)
+
+##### Shared continuation
 
 **Paimon:** (Did Stanley plant the sword and shield here in advance so as to not hurt Jack's feelings?)
 
@@ -1458,36 +1861,41 @@ Jack wants to search for Stanley's old weapons in secret, as they are the sword 
 
 **Venti:** Anyway, Traveler, I propose we take a trip to Angel's Share tonight.
 
+**Hilichurl:** Muhe vin plata? Mani ye! Mani dada!
+
+**Paimon:** Oh yeah! He actually gave us the shield!
+
 ### Should You Be Trapped in a Windless Land
 
 Jack returns home satisfied after a round of adventure. But Venti finds Stanley's behavior odd, and decides to investigate further...
 
+#### Wait for night to fall (18:00 – 23:00)
+
 #### Head to the Angel's Share
+
+#### Sit behind Stanley
 
 **Diluc:** You know, I'm glad I actually had the chance to come down here today.
 
 **Diluc:** The tavern isn't overcrowded, and I couldn't be in a better mood.
 
-#### Sit behind Stanley
-
-**Diluc:** Stanley...
-
-**Diluc:** So many years after the fact, it's not even his friend himself that holds him back anymore.
-
-**Diluc:** But I for one am confident that the people of Mondstadt will not forget his friend's story.
-
-
 **Stanley:** Tell me, Stanley... Tell me what should I do...?
 
 **Paimon:** Huh? Why does he keep repeating his own name?
 
-- **Traveler:** He's hiding something.
+##### Response branch 1
 
-- **Traveler:** There's another Stanley.
+- **Traveler:** He's hiding something.
 
 **Paimon:** Could there be another person called Stanley?
 
+##### Response branch 2
+
+- **Traveler:** There's another Stanley.
+
 **Venti:** Surely not. Even I've never heard tell of a second Stanley.
+
+##### Shared continuation
 
 **Stanley:** *sobs* Oh, Stanley...
 
@@ -1569,9 +1977,15 @@ Jack returns home satisfied after a round of adventure. But Venti finds Stanley'
 
 **Stanley:** But the one thing I can never forget... is that he died in a windless land, where his spirit can never be recovered!
 
+##### Response branch 1
+
 - **Traveler:** His whole life, he's been drowning in guilt...
 
+##### Response branch 2
+
 - **Traveler:** All that remains is this imaginary friend...
+
+##### Shared continuation
 
 **Venti:** Exactly... Even in his memory, the real Stanley isn't the living, breathing friend he knew at all.
 
@@ -1603,15 +2017,43 @@ Jack returns home satisfied after a round of adventure. But Venti finds Stanley'
 
 **Paimon:** Huh? Where's that supposed to be? Why has Paimon never heard of it? Hey, Tone-Deaf Bard!
 
+##### Response branch 1
+
 - **Traveler:** It's anybody's guess.
+
+##### Response branch 2
 
 - **Traveler:** I think I know where... possibly.
 
+##### Response branch 3
+
 - **Traveler:** Okay, see you there!
+
+##### Shared continuation
 
 **Paimon:** Hey!
 
+**Paimon:** You're not a total fraud... Stanley's adventure stories and experiences — they're all true, aren't they?
+
+**Stanley:** To be honest, my memories of adventuring, and of Stanley... they're hazy these days.
+
+**Stanley:** All these years, I've been livin' to tell his story. But his personality, and the details of his life, I don't remember them clearly anymore. Ah-ha...
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Response branch 3
+
+##### Shared continuation
+
 #### Head to the "usual place"
+
+**Diluc:** Stanley...
+
+**Diluc:** So many years after the fact, it's not even his friend himself that holds him back anymore.
+
+**Diluc:** But I for one am confident that the people of Mondstadt will not forget his friend's story.
 
 **Venti:** You made it... finally.
 
@@ -1627,7 +2069,7 @@ Jack returns home satisfied after a round of adventure. But Venti finds Stanley'
 
 **Venti:** The first time I saw this view, I hadn't even taken on this form yet.
 
-...What?
+- **Traveler:** ...What?
 
 **Venti:** It was about twenty-six hundred years ago, before the world had come under the rule of The Seven.
 
@@ -1649,23 +2091,29 @@ Jack returns home satisfied after a round of adventure. But Venti finds Stanley'
 
 **Paimon:** What happened to your friend?
 
-(Same situation as with Stanley's friend...)
+- **Traveler:** (Same situation as with Stanley's friend...)
 
 **Venti:** Say, Paimon, do you wish to hear the next part of the story?
 
 **Paimon:** Yes, of course! The suspense is killing Paimon!
 
-- **Traveler:** Paimon, go pick us a couple of apples.
+##### Response branch 1
 
-- **Traveler:** Paimon, could you fetch us some meat or fish?
+- **Traveler:** Paimon, go pick us a couple of apples.
 
 **Paimon:** Now's the time you suddenly get a craving for apples? Really?
 
+##### Response branch 2
+
+- **Traveler:** Paimon, could you fetch us some meat or fish?
+
 **Paimon:** But Venti's telling his story! What makes you suddenly wanna have a meat feast!?
+
+##### Shared continuation
 
 **Venti:** Hahaha, getting a little... peckish or something...
 
-Oh, so peckish.
+- **Traveler:** Oh, so peckish.
 
 **Paimon:** Huh! Paimon's had it up to here with you!
 
@@ -1677,11 +2125,17 @@ Oh, so peckish.
 
 **Venti:** Back to a song that I first heard from him...
 
-I'm listening.
+- **Traveler:** I'm listening.
 
 ## ZH
 
 ### 童心的隐秘
+
+#### 任务记录
+
+**派蒙:** 唔…本来还想见识一下的…对了，你的荧/空也有幻想朋友吗？
+
+**斯坦利:** 哈哈，空/荧，跟你们在一起的，可是名震蒙德的大探险家斯坦利啊！
 
 在蒙德教堂前、巨大神像脚下的广场，你和派蒙发现了一位小女孩，正在与「幻想朋友」一起玩…
 
@@ -1693,37 +2147,55 @@ I'm listening.
 
 **派蒙:** 可她明明在跟别人说话啊！你看、你看她还笑了！呜呜呜，好吓人…
 
-我小时候也会和「幻想朋友」玩。
+- **旅行者:** 我小时候也会和「幻想朋友」玩。
 
 **派蒙:** 呜哇？旅行者，你以前也会做这种事吗？！
 
 **派蒙:** 难道是出现了幻觉？还是说，真的有那种看不见的朋友在陪你玩？
 
-- **旅行者:** 幻觉就是幻想朋友。
+##### 对话分支 1
 
-- **旅行者:** 幻想朋友就是幻觉。
+- **旅行者:** 幻觉就是幻想朋友。
 
 **派蒙:** 幻想朋友…
 
+##### 对话分支 2
+
+- **旅行者:** 幻想朋友就是幻觉。
+
 **派蒙:** 幻觉…
+
+##### 共同后续
 
 **派蒙:** 哦，那就是…「想象出来的朋友」啦？
 
 **派蒙:** 你的「幻想朋友」长什么样子，给我看看！
 
+##### 对话分支 1
+
 - **旅行者:** 现在不太出现了…
+
+##### 对话分支 2
 
 - **旅行者:** 已经看不见了呢。
 
+##### 共同后续
+
 **派蒙:** 哎？难道「幻想朋友」，在人长大以后就会消失吗？
+
+##### 对话分支 1
 
 - **旅行者:** 是啊。
 
+##### 对话分支 2
+
 - **旅行者:** 很遗憾，但确实是这样。
 
-**派蒙:** 唔…本来还想见识一下的…对了，你的荧/空也有幻想朋友吗？
+##### 共同后续
 
-是有的喔。
+**派蒙:** 唔…本来还想见识一下的…对了，你的妹妹也有幻想朋友吗？ / 唔…本来还想见识一下的…对了，你的哥哥也有幻想朋友吗？
+
+- **旅行者:** 是有的喔。
 
 **派蒙:** 居然也有！这也太方便了…
 
@@ -1743,13 +2215,19 @@ I'm listening.
 
 **派蒙:** 你刚刚说「危险」了吧！
 
-- **旅行者:** 这是眼镜型探测仪吗？
+##### 对话分支 1
 
-- **旅行者:** 长得好像一副单片眼镜。
+- **旅行者:** 这是眼镜型探测仪吗？
 
 **温迪:** 没错，虽然长得像单片眼镜，但它是一台探测仪。
 
+##### 对话分支 2
+
+- **旅行者:** 长得好像一副单片眼镜。
+
 **温迪:** 对吧？我也这么觉得。
+
+##### 共同后续
 
 **温迪:** 可惜丽莎自己用不了，所以我就把它借来玩啦，顺便也帮她做做实验。
 
@@ -1767,9 +2245,15 @@ I'm listening.
 
 **派蒙:** 怎么样怎么样？能看见吗？
 
+##### 对话分支 1
+
 - **旅行者:** 真的有！
 
+##### 对话分支 2
+
 - **旅行者:** 是个和她很合得来的孩子。
+
+##### 共同后续
 
 **温迪:** 果然，你戴上这个以后，也能看见…
 
@@ -1785,25 +2269,37 @@ I'm listening.
 
 **芙萝拉:** 呼呼，旅行者，诗人，你们好。
 
+##### 对话分支 1
+
 - **旅行者:** 你好，可以问你一些事吗？
+
+##### 对话分支 2
 
 - **旅行者:** 你好，我想占用你一些时间。
 
+##### 共同后续
+
 **芙萝拉:** 好啊，找芙萝拉有什么事呢？
 
-- **旅行者:** 你身边那个是…？
+##### 对话分支 1
 
-- **旅行者:** 这位是你的家人吗？
+- **旅行者:** 你身边那个是…？
 
 **芙萝拉:** 咦？你能看到蓬蓬？别人都看不到蓬蓬的。
 
 **芙萝拉:** 蓬蓬是我最好的朋友了，我们从小一起长大的哦！
+
+##### 对话分支 2
+
+- **旅行者:** 这位是你的家人吗？
 
 **芙萝拉:** 呼呼，你说蓬蓬吗？
 
 **芙萝拉:** 蓬蓬是我最好的朋友，和我住在一起哦。
 
 **芙萝拉:** 蓬蓬，跟大家打个招呼吧，他们在看你。
+
+##### 共同后续
 
 **派蒙:** （呃…这种只有我被排除在外的感觉…）
 
@@ -1823,9 +2319,15 @@ I'm listening.
 
 **芙萝拉:** 没记错的话，那个旅行家好像是叫做…斯坦利！
 
+##### 对话分支 1
+
 - **旅行者:** 我也见过斯坦利。
 
+##### 对话分支 2
+
 - **旅行者:** 是不认识的朋友呢。
+
+##### 共同后续
 
 **芙萝拉:** 斯坦利是个冒险家哟。
 
@@ -1837,6 +2339,10 @@ I'm listening.
 
 **温迪:** 真不错，我们下次会去听的，但现在，还有其它事要做…
 
+**诺拉:** 神像又高又漂亮。
+
+**诺拉:** 想和朋友一起上去玩…
+
 #### 看看提米
 
 **派蒙:** 什、什么！
@@ -1845,25 +2351,39 @@ I'm listening.
 
 **派蒙:** 这孩子的幻想朋友，竟然是遗迹守卫？！
 
+##### 对话分支 1
+
 - **旅行者:** 不敢相信…眼睛…
 
+##### 对话分支 2
+
 - **旅行者:** 这就是心灵上的巨人吗？
+
+##### 共同后续
 
 **派蒙:** 呜呜…好可怕，会被攻击吗…
 
 **温迪:** 哈哈，要放弃和提米小朋友的交流吗？
 
+##### 对话分支 1
+
 - **旅行者:** 派蒙，你不说那句话了吗？
+
+##### 对话分支 2
 
 - **旅行者:** 派蒙，说你想说的话吧！
 
+##### 共同后续
+
 **派蒙:** 我？我该说什么话？
 
-前面的区域，以后再来探索吧！
+- **旅行者:** 前面的区域，以后再来探索吧！
 
 **派蒙:** 你是认真的吗？那好吧…
 
 **派蒙:** 听我说——前面的区域，以后再来探索吧！
+
+**芙萝拉:** 呼呼，蓬蓬，帮我浇花吧！
 
 #### 看看酒馆的成年人
 
@@ -1893,7 +2413,7 @@ I'm listening.
 
 **温迪:** 果然是因为缺乏童心吗？
 
-看来每个地方的大人都差不多。
+- **旅行者:** 看来每个地方的大人都差不多。
 
 **派蒙:** 长大就会变成没有梦想的人吗…那我不要长大…
 
@@ -1901,19 +2421,27 @@ I'm listening.
 
 **温迪:** 我们…去验证一下吧。
 
+**提米:** 要是再有坏人射我的鸽子，我就叫朋友打他！咻咻！砰砰！啪！
+
 #### 看看艾琳
 
 **派蒙:** 是琴团长！她怎么会在这儿？
 
 **派蒙:** 难道说，艾琳的幻想朋友是琴团长？
 
-- **旅行者:** 艾琳真是个努力的孩子啊。
+##### 对话分支 1
 
-- **旅行者:** 看来她非常想成为骑士。
+- **旅行者:** 艾琳真是个努力的孩子啊。
 
 **派蒙:** 努力成为骑士…的方向，有些奇怪呢。
 
+##### 对话分支 2
+
+- **旅行者:** 看来她非常想成为骑士。
+
 **派蒙:** 是啊，好认真的人！我、我都吓到了…
+
+##### 共同后续
 
 **艾琳:** 嗯？你们好呀，有什么事吗？
 
@@ -1929,13 +2457,39 @@ I'm listening.
 
 **派蒙:** 艾琳真的很仰慕琴团长呢。
 
+##### 对话分支 1
+
 - **旅行者:** 不也挺好吗？
 
+##### 对话分支 2
+
 - **旅行者:** 她一定会成功。
+
+##### 共同后续
 
 **艾琳:** 谢谢！
 
 **艾琳:** 对了，荣誉骑士，机会难得，请陪我做一次剑术练习…可以吗？
+
+**凯亚:** 「幻想朋友」？哎？你们在调查这么有意思的东西啊。
+
+**凯亚:** 如果我没在喝酒的话，真想加入你们，哈哈哈。
+
+**迪卢克:** 你们本来想用仪器看我的「幻想朋友」？
+
+**迪卢克:** …白费力气。倒退十五年也不会有的。
+
+**卖力的西瑞:** 再来一杯。啊，真解乏。
+
+**卖力的西瑞:** 嗯，如果我有「幻想朋友」，我希望它是个酒杯…
+
+**冒失的帕拉德:** 我？我不幻想什么朋友。我只幻想伟大的冒险。
+
+#### 同时摧毁所有木桩
+
+**艾琳:** 谢谢你陪我练习！请展示我不知道的战斗技巧吧！
+
+#### 同时摧毁所有木桩
 
 #### 与艾琳对话
 
@@ -1953,9 +2507,9 @@ I'm listening.
 
 **艾琳:** 荣誉骑士，能不能帮我带个口信给杰克？
 
-- **旅行者:** 杰克是谁？
+##### 对话分支 1
 
-- **旅行者:** 杰克在哪？
+- **旅行者:** 杰克是谁？
 
 **艾琳:** 杰克是我的朋友，一位新人冒险家。
 
@@ -1965,13 +2519,19 @@ I'm listening.
 
 **艾琳:** 那是一位名震蒙德、曾经抵达「烬寂海」的传说级大冒险家。
 
+##### 对话分支 2
+
+- **旅行者:** 杰克在哪？
+
 **艾琳:** 杰克今天跟斯坦利先生一起去「南风之狮的庙宇」冒险了。
 
 **艾琳:** 那是一位名震蒙德、曾经抵达「烬寂海」的传说级大冒险家。
 
 **艾琳:** 原本我们约好，今晚一起讨论冒险计划…能麻烦你转告他改天见吗？
 
-很久没去那里了，我也想再去看看。
+##### 共同后续
+
+- **旅行者:** 很久没去那里了，我也想再去看看。
 
 **艾琳:** 啊，那真是太谢谢你了！
 
@@ -1979,6 +2539,17 @@ I'm listening.
 
 与温迪一同调查「幻想朋友」时，你受艾琳之托，前往南风之狮的庙宇，寻找冒险家杰克。据说他正与传奇大冒险家斯坦利结伴同行。
 
+**艾琳:** 那就拜托你们了！
+
+**艾琳:** 啊，那真是太谢谢你了！
+
+**艾琳:** 杰克在南风之狮的庙宇，别忘了哦。
+
+#### 前往南风之狮的庙宇
+
+#### 寻找杰克与斯坦利
+
+#### 解救杰克与斯坦利
 
 **斯坦利:** 呼…呼…
 
@@ -2006,18 +2577,25 @@ I'm listening.
 
 **温迪:** 那么各位，现在怎么打算？往前？还是回头？
 
+##### 对话分支 1
+
 - **旅行者:** 斯坦利先生怎么想？
 
-- **旅行者:** 杰克怎么想？
-
-**斯坦利:** 哈哈，空/荧，跟你们在一起的，可是名震蒙德的大探险家斯坦利啊！
+**斯坦利:** 哈哈，小伙子，跟你们在一起的，可是名震蒙德的大探险家斯坦利啊！ / 哈哈，小姑娘，跟你们在一起的，可是名震蒙德的大探险家斯坦利啊！
 
 **斯坦利:** 难道还有走回头路的必要吗？
 
+##### 对话分支 2
+
+- **旅行者:** 杰克怎么想？
+
 **杰克:** 我们还是继续向前走吧，有斯坦利先生在，一定没问题的。
+
+##### 共同后续
 
 **温迪:** 全票通过，那就继续前进咯。
 
+#### 完成秘境冒险
 
 **温迪:** 旅行者，我有一个小小的发现。
 
@@ -2027,17 +2605,23 @@ I'm listening.
 
 **温迪:** 看起来，他的朋友是一位久经沙场的战士…浑身都是伤痕，表情也十分坚毅。
 
-- **旅行者:** 像是斯坦利描述里的自己。
+##### 对话分支 1
 
-- **旅行者:** 说起来，他的故事也有点奇怪…
+- **旅行者:** 像是斯坦利描述里的自己。
 
 **温迪:** 他的幻想朋友，难道是理想化的自己？
 
 **温迪:** 有意思。但，真的是这样吗？
 
+##### 对话分支 2
+
+- **旅行者:** 说起来，他的故事也有点奇怪…
+
 **温迪:** 哦？你也觉得有问题吗？
 
 **温迪:** 看来，斯坦利的故事还有隐情。
+
+##### 共同后续
 
 **斯坦利:** 那么，我先走咯。
 
@@ -2055,13 +2639,19 @@ I'm listening.
 
 **杰克:** 你们这么厉害，能不能陪我去找这两件神器？
 
-- **旅行者:** 竟然有这么厉害的武器？
+##### 对话分支 1
 
-- **旅行者:** 他把神器随便丢在野外？
+- **旅行者:** 竟然有这么厉害的武器？
 
 **杰克:** 当然有啊！毕竟那可是斯坦利先生！
 
+##### 对话分支 2
+
+- **旅行者:** 他把神器随便丢在野外？
+
 **杰克:** 厉害的人总是有些怪癖嘛！
+
+##### 共同后续
 
 **杰克:** 如果能找到足够厉害的东西证明自己，家里说不定就会支持我做冒险家了…
 
@@ -2073,9 +2663,15 @@ I'm listening.
 
 **派蒙:** 好可怜…喂，我们就帮帮他吧！
 
+##### 对话分支 1
+
 - **旅行者:** 好吧。
 
+##### 对话分支 2
+
 - **旅行者:** 不能视而不见吧。
+
+##### 共同后续
 
 **派蒙:** 温迪，你来吗？
 
@@ -2088,6 +2684,12 @@ I'm listening.
 ### 狮牙之牙
 
 杰克想要偷偷寻找斯坦利当年冒险所用的武器，那是继承自「南风之狮」的剑与盾，令他无比向往。
+
+#### 寻找辉煌勇气之剑
+
+#### 击败举行仪式的丘丘人
+
+#### 拾取辉煌勇气之剑
 
 #### 与温迪对话
 
@@ -2107,11 +2709,19 @@ I'm listening.
 
 **温迪:** 勇气不也是这样吗？一帆风顺的人不会明白它的可贵，可当你身处绝境，勇气就是令你奋起抗争、走出绝境的唯一之光。
 
+##### 对话分支 1
+
 - **旅行者:** 巧舌如簧。
+
+##### 对话分支 2
 
 - **旅行者:** 令人震撼。
 
+##### 对话分支 3
+
 - **旅行者:** 我都快信了。
+
+##### 共同后续
 
 **杰克:** 你、你说得太对了！没错就是这样，这一定就是「辉煌勇气之剑」啊！
 
@@ -2133,6 +2743,8 @@ I'm listening.
 
 **温迪:** 你不是来找神器的吗？就别看啦。
 
+#### 寻找光耀意志之盾
+
 #### 与丘丘人交涉
 
 **温迪:** 看，「光耀意志之盾」！
@@ -2151,11 +2763,19 @@ I'm listening.
 
 **温迪:** 即使身躯残破，也要在战场上拼杀到最后一刻，要战斗到流干最后一滴血为止。这样的意志，难道不珍贵吗？
 
+##### 对话分支 1
+
 - **旅行者:** 温迪说得对！
+
+##### 对话分支 2
 
 - **旅行者:** 我也觉得这就是那面盾牌。
 
+##### 对话分支 3
+
 - **旅行者:** 不愧是你。
+
+##### 共同后续
 
 **派蒙:** 说得也是…哪有干干净净的盾牌啊…
 
@@ -2167,47 +2787,27 @@ I'm listening.
 
 **派蒙:** 哇，旅行者还是你来吧。试试平时听过的那些丘丘语音节？或者用肢体语言交流吧…
 
+##### 对话分支 1
+
 - **旅行者:** 我用摩拉和你换盾牌。
 
-- **旅行者:** 请把盾牌送给我们。
+**丘丘人:** Biadam！
 
-- **旅行者:** Vin plata dada！
+**派蒙:** 呃…它好像不太开心的样子。
 
-**丘丘人:** Mosi mita！
+##### 对话分支 1
 
-**派蒙:** 嗯，看起来它的情绪还挺稳定，也许可以继续谈…
-
-- **旅行者:** 这朵甜甜花，送给你。
+##### 对话分支 2
 
 - **旅行者:** 我收缴的丘丘面具，送给你。
-
-- **旅行者:** Kucha pupu gusha ye!
 
 **丘丘人:** Biadam！
 
 **派蒙:** 呃…它好像不太开心的样子。
 
-- **旅行者:** 这朵甜甜花，送给你。
-
-- **旅行者:** 我收缴的丘丘面具，送给你。
-
-- **旅行者:** Kucha pupu gusha ye!
-
-**丘丘人:** Mosi mita！
-
-**派蒙:** 嗯，看起来它的情绪还挺稳定，也许可以继续谈…
+##### 对话分支 1
 
 - **旅行者:** 温迪，唱歌。盾牌，给我。
-
-- **旅行者:** mani nini Biaodomu.
-
-**丘丘人:** Biadam！
-
-**派蒙:** 呃…它好像不太开心的样子。
-
-- **旅行者:** 温迪，唱歌。盾牌，给我。
-
-- **旅行者:** mani nini Biaodomu.
 
 **温迪:** 嗯？好吧，那我就稍微弹一段…
 
@@ -2215,19 +2815,45 @@ I'm listening.
 
 **派蒙:** 嗯，看起来它的情绪还挺稳定，也许可以继续谈…
 
+##### 对话分支 2
+
+- **旅行者:** mani nini Biaodomu.
+
 **丘丘人:** Biadam！
 
 **派蒙:** 呃…它好像不太开心的样子。
 
+##### 对话分支 3
 
-**丘丘人:** Muhe vin plata? Mani ye! Mani dada!
+- **旅行者:** Kucha pupu gusha ye!
 
-**派蒙:** 好耶！它把「光耀意志之盾」递过来了！
+##### 对话分支 2
 
+- **旅行者:** 请把盾牌送给我们。
+
+##### 对话分支 3
+
+- **旅行者:** Vin plata dada！
+
+**丘丘人:** Mosi mita！
+
+**派蒙:** 嗯，看起来它的情绪还挺稳定，也许可以继续谈…
+
+##### 对话分支 1
+
+##### 共同后续
+
+- **旅行者:** 这朵甜甜花，送给你。
+
+**丘丘人:** Mosi mita！
+
+**派蒙:** 嗯，看起来它的情绪还挺稳定，也许可以继续谈…
 
 **丘丘人:** Yaya ika! Kundala ye plata!
 
 **派蒙:** 不好！我们彻底惹恼它了！
+
+#### 击败来袭的丘丘人
 
 #### 与丘丘人对话
 
@@ -2255,9 +2881,15 @@ I'm listening.
 
 **派蒙:** （我越来越觉得，斯坦利先生可能是骗子了…）
 
+##### 对话分支 1
+
 - **旅行者:** （我也这么想…）
 
+##### 对话分支 2
+
 - **旅行者:** （不是可能，是一定。）
+
+##### 共同后续
 
 **派蒙:** （所以斯坦利是为了不伤害杰克的感情，才故意提前一步，到这里布置剑和盾吗？）
 
@@ -2287,36 +2919,41 @@ I'm listening.
 
 **温迪:** 对了，旅行者。今晚，我们去「天使的馈赠」看看吧。
 
+**丘丘人:** Muhe vin plata? Mani ye! Mani dada!
+
+**派蒙:** 好耶！它把「光耀意志之盾」递过来了！
+
 ### 若你困于无风之地
 
 一段冒险经历后，杰克满意而归。但温迪却发现了斯坦利的异样，决定继续探究此事…
 
+#### 等待夜晚（18点到23点）
+
 #### 前往「天使的馈赠」
+
+#### 坐到斯坦利身后
 
 **迪卢克:** 今天，难得来一次「天使的馈赠」。
 
 **迪卢克:** 酒馆里人也不太多，我也乐得清静。
 
-#### 坐到斯坦利身后
-
-**迪卢克:** 斯坦利…
-
-**迪卢克:** 这么多年过去，束缚他的甚至已经不再是「朋友」本人。
-
-**迪卢克:** 但那位朋友的故事，想必不会在蒙德被人忘却吧。
-
-
 **斯坦利:** 斯坦利…告诉我，我该怎么办…
 
 **派蒙:** 咦？他怎么在喊自己的名字啊？
 
-- **旅行者:** 莫非有什么隐情？
+##### 对话分支 1
 
-- **旅行者:** 还有别人叫斯坦利吗？
+- **旅行者:** 莫非有什么隐情？
 
 **派蒙:** 该不会，还有其他叫斯坦利的人？
 
+##### 对话分支 2
+
+- **旅行者:** 还有别人叫斯坦利吗？
+
 **温迪:** 不会吧，连我都没听说过第二个斯坦利。
+
+##### 共同后续
 
 **斯坦利:** 呜呜！呜呃…斯坦利…
 
@@ -2398,9 +3035,15 @@ I'm listening.
 
 **斯坦利:** 我唯一不能忘记的，是他死在了无风的烬寂海，风带不走他的灵魂！
 
+##### 对话分支 1
+
 - **旅行者:** 他的人生被负罪感淹没了…
 
+##### 对话分支 2
+
 - **旅行者:** 已经只剩下「幻想朋友」了…
+
+##### 共同后续
 
 **温迪:** 嗯，没错…真正的斯坦利，在他的记忆里，甚至已经不再是那个鲜活的友人。
 
@@ -2432,15 +3075,43 @@ I'm listening.
 
 **派蒙:** 哎？什么老地方，我怎么不知道？喂！喂，卖唱的！
 
+##### 对话分支 1
+
 - **旅行者:** 只能猜猜看了…
+
+##### 对话分支 2
 
 - **旅行者:** 我想我可能知道…也许吧。
 
+##### 对话分支 3
+
 - **旅行者:** 嗯，「老地方」，不见不散！
+
+##### 共同后续
 
 **派蒙:** 喂！
 
+**派蒙:** 也不能说是骗子吧？因为，「斯坦利」的冒险故事和经历，都是真的啊。
+
+**斯坦利:** 其实，事到如今，我对冒险、对斯坦利的记忆…都已经模糊了。
+
+**斯坦利:** 这些年，我为他的故事而活。但他的性格、他的生活，我都已经记不清了。哈哈哈…
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 对话分支 3
+
+##### 共同后续
+
 #### 寻找「老地方」…？
+
+**迪卢克:** 斯坦利…
+
+**迪卢克:** 这么多年过去，束缚他的甚至已经不再是「朋友」本人。
+
+**迪卢克:** 但那位朋友的故事，想必不会在蒙德被人忘却吧。
 
 **温迪:** 可算来了。
 
@@ -2456,7 +3127,7 @@ I'm listening.
 
 **温迪:** 第一次在这儿看风景的时候，我还不是「这副模样」。
 
-不是…这副模样？
+- **旅行者:** 不是…这副模样？
 
 **温迪:** 大约两千六百年前，尘世尚未划归七神所有。
 
@@ -2478,23 +3149,29 @@ I'm listening.
 
 **派蒙:** 你说的那个朋友，他后来怎么样了？
 
-（温迪的朋友，和斯坦利一样…）
+- **旅行者:** （温迪的朋友，和斯坦利一样…）
 
 **温迪:** 派蒙，你想知道后面的故事吗？
 
 **派蒙:** 当然当然！别吊我胃口，快说吧！
 
-- **旅行者:** 派蒙，去采两个苹果来。
+##### 对话分支 1
 
-- **旅行者:** 派蒙，能帮我找些鱼肉吗？
+- **旅行者:** 派蒙，去采两个苹果来。
 
 **派蒙:** 为什么现在突然想吃这个啊！
 
+##### 对话分支 2
+
+- **旅行者:** 派蒙，能帮我找些鱼肉吗？
+
 **派蒙:** 咦？不是在听故事吗？怎么突然要吃这种东西！
+
+##### 共同后续
 
 **温迪:** 哈哈哈，你肚子饿了吗？
 
-是啊。
+- **旅行者:** 是啊。
 
 **派蒙:** 呜…真是拿你没办法！
 
@@ -2506,4 +3183,4 @@ I'm listening.
 
 **温迪:** 想起那首，从他那里听来的歌…
 
-我会好好听着的。
+- **旅行者:** 我会好好听着的。

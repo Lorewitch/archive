@@ -1,0 +1,159 @@
+{
+  "id": "material_set_112158",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/item_112158.webp",
+  "title": {
+    "ru": "Осколок снежного сердца / Снежное зеркальное сердце / Снежное сердце неведения",
+    "en": "Snowborn Heartshard / Snowborn Mirrorheart / Snowborn Heart of Ignorance",
+    "zh": "雪结片心 / 雪结镜心 / 雪结无明心"
+  },
+  "region": "Снежная",
+  "rarity": null,
+  "game_version": "7.2",
+  "tags": [
+    "материалы"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "icebound_reflection"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "icebound_reflection",
+      "title": {
+        "ru": "Ледяное отражение",
+        "en": "Icebound Reflection",
+        "zh": "冰结镜映体"
+      },
+      "icon": "assets/icons/enemies/common_enemies/icebound_reflection.webp",
+      "enemy_group": "elementals",
+      "region": "Снежная",
+      "game_version": "7.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Необычный монстр, родившийся в особом льду и снеге.\nС весьма давних времён некая великая сила, сохранившаяся в Снежной, рождает в метелях подобных существ. Однако по неизвестной причине воля, которая должна пробуждаться по мере их роста, так и не возникает в глубине ледяного тела. Возможно, это оттого, что воля, подарившая им жизнь, умерла слишком давно.",
+        "en": "A strange monster born from a peculiar kind of ice and snow.\nSince ages long past, some remnant of a great power lingering in Snezhnaya has caused creatures such as this to grow amid the wind and snow. Yet for reasons unknown, the will that should have arisen alongside the growth of its body has never stirred from the depths of its frozen form. Perhaps the will that once allowed its life to come into being has simply been dead for far too long.",
+        "zh": "于特殊的冰雪中生长而出的奇特魔物。\n自相当久远的过去，某种残存于至冬的伟大力量令风雪之中生长出此等魔物，只是不知为何，本应随着身躯成长一同诞生的意志却并未自冰雪的身躯深处浮现。或许是因为令其生命能够诞生的意志已死去太久所致吧。"
+      },
+      "description": {
+        "ru": "Необычный монстр, родившийся в особом льду и снеге.\nС весьма давних времён некая великая сила, сохранившаяся в Снежной, рождает в метелях подобных существ. Однако по неизвестной причине воля, которая должна пробуждаться по мере их роста, так и не возникает в глубине ледяного тела. Возможно, это оттого, что воля, подарившая им жизнь, умерла слишком давно.",
+        "en": "A strange monster born from a peculiar kind of ice and snow.\nSince ages long past, some remnant of a great power lingering in Snezhnaya has caused creatures such as this to grow amid the wind and snow. Yet for reasons unknown, the will that should have arisen alongside the growth of its body has never stirred from the depths of its frozen form. Perhaps the will that once allowed its life to come into being has simply been dead for far too long.",
+        "zh": "于特殊的冰雪中生长而出的奇特魔物。\n自相当久远的过去，某种残存于至冬的伟大力量令风雪之中生长出此等魔物，只是不知为何，本应随着身躯成长一同诞生的意志却并未自冰雪的身躯深处浮现。或许是因为令其生命能够诞生的意志已死去太久所致吧。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112158",
+          "title": {
+            "ru": "Осколок снежного сердца / Снежное зеркальное сердце / Снежное сердце неведения",
+            "en": "Snowborn Heartshard / Snowborn Mirrorheart / Snowborn Heart of Ignorance",
+            "zh": "雪结片心 / 雪结镜心 / 雪结无明心"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112158.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.2",
+          "materials": [
+            {
+              "key": "material_112158",
+              "title": {
+                "ru": "Осколок снежного сердца",
+                "en": "Snowborn Heartshard",
+                "zh": "雪结片心"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112158.webp"
+            },
+            {
+              "key": "material_112159",
+              "title": {
+                "ru": "Снежное зеркальное сердце",
+                "en": "Snowborn Mirrorheart",
+                "zh": "雪结镜心"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112159.webp"
+            },
+            {
+              "key": "material_112160",
+              "title": {
+                "ru": "Снежное сердце неведения",
+                "en": "Snowborn Heart of Ignorance",
+                "zh": "雪结无明心"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112160.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 1,
+  "item_group": "common_enemies",
+  "entry_type": "material_set",
+  "materials": [
+    {
+      "key": "material_112158",
+      "title": {
+        "ru": "Осколок снежного сердца",
+        "en": "Snowborn Heartshard",
+        "zh": "雪结片心"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112158.webp",
+      "text": {
+        "ru": "Остаток, который остаётся после исчезновения чудовища, созданного изо льда и снега.\nНекоторые считают этих зимних чудовищ разновидностью альвов Снежной, однако то, что остаётся после них, почти не похоже на кристаллы, растущие на телах альвов...",
+        "en": "A remnant left behind when a monster formed from ice and snow fades away.\nSome believe these wintry monsters to be a kind of Snezhnayan fae, yet what they leave behind bears almost no resemblance to the crystals that grow upon a fae's body...",
+        "zh": "冰雪凝结的魔物在消散后遗留之物。\n有人认为这种冰雪的魔物也是至冬妖精的一种，可是这遗留之物与妖精体表的晶体可以说是截然不同…"
+      }
+    },
+    {
+      "key": "material_112159",
+      "title": {
+        "ru": "Снежное зеркальное сердце",
+        "en": "Snowborn Mirrorheart",
+        "zh": "雪结镜心"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112159.webp",
+      "text": {
+        "ru": "Остаток после исчезновения чудовища, созданного изо льда и снега.\nПо неизвестной причине это существо лишено разума и не способно общаться, однако испытывает яростную враждебность к определённым целям. Будто эта ненависть была заложена в саму его сущность в момент появления.",
+        "en": "A remnant left behind when a monster formed from ice and snow fades away.\nFor reasons unknown, the creature possesses no intelligence with which to communicate, yet bears a fierce hostility toward certain targets. It is as though that hatred was etched into its very being the moment it took form.",
+        "zh": "冰雪凝结的魔物在消散后遗留之物。\n不知为何，该生物明显没有能够沟通的智慧，却对固有的对象保留了极强的攻击性。就仿佛仇恨被刻写在了其形成时的血脉之中。"
+      }
+    },
+    {
+      "key": "material_112160",
+      "title": {
+        "ru": "Снежное сердце неведения",
+        "en": "Snowborn Heart of Ignorance",
+        "zh": "雪结无明心"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112160.webp",
+      "text": {
+        "ru": "Остаток после исчезновения чудовища, созданного изо льда и снега.\nПод влиянием неведомой могущественной силы эти чудовища, сочетающие в себе черты человека и зверя, обретают форму, не свойственную обычным элементальным существам. Доказательством тому служит оставшееся после них энергетическое ядро с неровными наростами, торчащими наружу, словно непокорная чешуя какого-то первобытного существа.",
+        "en": "A remnant left behind when a monster formed from ice and snow fades away.\nUnder the influence of some unknown, overwhelming power, these monsters, at once humanoid and beastlike, take form in a way unlike ordinary elemental beings. The proof lies in the power core they leave behind, its jagged growths jutting outward like the unruly scales of some primeval creature.",
+        "zh": "冰雪凝结的魔物在消散后遗留之物。\n因为某种不知名伟力的影响，似人似兽的冰雪魔物构成身躯的方式与一般的元素魔物不同，其证明就是遗留的力量核心拥有着类似远古生物鳞片向外乖张生长的形状。"
+      }
+    }
+  ],
+  "material_count": 3
+}

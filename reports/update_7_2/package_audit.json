@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "total_markdown_cards": 1441,
+  "removed_note_sources_absent": 58,
+  "removed_note_data_absent": 58,
+  "unwanted_git_history_absent": true,
+  "interpreter_caches_absent": true,
+  "file_count": 4559,
+  "zip_crc_check": "passed",
+  "duplicate_entries": 0,
+  "every_packaged_file_matches_working_copy": true,
+  "all_36_automated_tests_passed": true
+}

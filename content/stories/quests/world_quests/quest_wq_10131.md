@@ -13,12 +13,14 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 73305
-# previous_quests: quest_wq_73282
-# next_quests: quest_wq_10120
+# previous_quests: 
+# next_quests: 
 # related_quests: 
 # quest_chain: quest_wq_10131
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 73305
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -40,6 +42,10 @@
 
 **Лилупар:** Тсс. Они здесь.
 
+#### Победите первозданную конструкцию
+
+#### Появилась шахматная фигура
+
 #### Поговорите с Лилупар
 
 **Лилупар:** Соедините меня с шахматной фигурой.
@@ -58,7 +64,9 @@
 
 **Паймон:** А-а... Что?
 
-**Лилупар:** Ладно, шутки в сторону. Мой повелитель / Моя повелительница, просто возьмите меня и прикоснитесь к той фигуре.
+**Лилупар:** Ладно, шутки в сторону. Мой повелитель, просто возьмите меня и прикоснитесь к той фигуре. / Ладно, шутки в сторону. Моя повелительница, просто возьмите меня и прикоснитесь к той фигуре.
+
+#### Исследуйте шахматную фигуру
 
 #### Поговорите с Лилупар
 
@@ -66,9 +74,15 @@
 
 **Паймон:** Ладно... Лилупар, ты в порядке? Почему ты молчишь?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Тсс!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Лилупар?
+
+##### Общее продолжение
 
 **Паймон:** Стой-ка. Смотри... Она светится. Как необычно!
 
@@ -82,43 +96,61 @@
 
 **Лилупар:** Он здесь, Гюрабад. Я вспомнила.
 
-Голова разболелась...
+- **Путешественник:** Голова разболелась...
 
 **Паймон:** Эй, да что с вами такое. В следующий раз заранее предупреждайте. Паймон не нравится так пугаться!
 
-- **Путешественник:** Прости, Паймон.
+##### Вариант ответа 1
 
-- **Путешественник:** Я в порядке, Паймон.
+- **Путешественник:** Прости, Паймон.
 
 **Паймон:** А Паймон всё равно злится!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Я в порядке, Паймон.
+
 **Паймон:** Ага, ты всё время так говоришь!
 
-**Лилупар:** Ха-ха, вы, детишки, все так похожи. Ну ладно, полно тебе тревожиться. Я верну его / её, уверяю.
+##### Общее продолжение
 
-**Лилупар:** А когда придёт время, в награду он / она принесёт тебе много вкусной еды... И «муры» - так ведь называются ваши деньги?
+**Лилупар:** Ха-ха, вы, детишки, все так похожи. Ну ладно, полно тебе тревожиться. Я верну его, уверяю. / Ха-ха, вы, детишки, все так похожи. Ну ладно, полно тебе тревожиться. Я верну её, уверяю.
+
+**Лилупар:** А когда придёт время, в награду он принесёт тебе много вкусной еды... И «муры» - так ведь называются ваши деньги? / А когда придёт время, в награду она принесёт тебе много вкусной еды... И «муры» - так ведь называются ваши деньги?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Они называются «мора». Стой, почему я тебя поправляю?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Не нужно решать за меня.
+
+##### Общее продолжение
 
 **Паймон:** Такой расклад мне больше нравится... Возьмём на заметку: много вкусностей и моры!
 
-**Лилупар:** Ладно, с детскими играми закончили. Пора отправляться в Гюрабад, мой повелитель / моя повелительница.
+**Лилупар:** Ладно, с детскими играми закончили. Пора отправляться в Гюрабад, мой повелитель. / Ладно, с детскими играми закончили. Пора отправляться в Гюрабад, моя повелительница.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Зачем нам туда идти?
 
+**Лилупар:** Зачем? Даже не знаю... Но каким бы ничтожным ни был повод, я должна туда попасть. А потому, мой повелитель... / Зачем? Даже не знаю... Но каким бы ничтожным ни был повод, я должна туда попасть. А потому, моя повелительница...
+
+**Лилупар:** Если же вам непременно нужна причина, то вот она: я бы хотела, чтобы вы увидели моё прошлое и стали свидетелем преподнесённых мне уроков. / Если же вам непременно нужна причина, то вот она: я бы хотела, чтобы вы увидели моё прошлое и стали свидетельницей преподнесённых мне уроков.
+
+##### Вариант ответа 2
+
 - **Путешественник:** Гюрабад... Что там?
-
-**Лилупар:** Зачем? Даже не знаю... Но каким бы ничтожным ни был повод, я должна туда попасть. А потому, мой повелитель / моя повелительница...
-
-**Лилупар:** Если же вам непременно нужна причина, то вот она: я бы хотела, чтобы вы увидели моё прошлое и стали свидетелем / свидетельницей преподнесённых мне уроков.
 
 **Лилупар:** Ничего... Ничего не уцелело...
 
 **Лилупар:** Остались лишь воспоминания призраков, безвозвратно разбитые мечты и сладкий аромат мести... Я бы сказала так.
 
-**Лилупар:** Может, это слишком большая просьба... Но я бы хотела, чтобы вы увидели моё прошлое и стали свидетелем / свидетельницей преподнесённых мне уроков.
+**Лилупар:** Может, это слишком большая просьба... Но я бы хотела, чтобы вы увидели моё прошлое и стали свидетелем преподнесённых мне уроков. / Может, это слишком большая просьба... Но я бы хотела, чтобы вы увидели моё прошлое и стали свидетельницей преподнесённых мне уроков.
+
+##### Общее продолжение
 
 **Паймон:** ...
 
@@ -130,6 +162,8 @@
 
 **Лилупар:** Просто следуйте за мной, я провожу вас к Гюрабаду...
 
+#### Прикоснитесь к фигуре
+
 #### Поговорите с Лилупар
 
 **Паймон:** Ух ты! Только что мы стояли рядом с шахматной фигурой, как - вжух - и мы уже здесь!
@@ -138,13 +172,19 @@
 
 **Лилупар:** Ха-ха, хочешь повторить?
 
-- **Путешественник:** Да! Давайте повторим!
+##### Вариант ответа 1
 
-- **Путешественник:** Не стоит, у меня голова кружится...
+- **Путешественник:** Да! Давайте повторим!
 
 **Паймон:** Эй, держи себя в руках! Ты же не ребёнок!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Не стоит, у меня голова кружится...
+
 **Паймон:** Кстати... У Паймон тоже...
+
+##### Общее продолжение
 
 **Лилупар:** Всё в порядке. Координаты немного сбились... Может быть, всему виной старость...
 
@@ -153,6 +193,14 @@
 **Лилупар:** Слишком много вопросов, малышка.
 
 **Лилупар:** Странно, это должно быть здесь... Ага, нашла!
+
+#### Откройте врата Гюрабада
+
+#### Победите первозданную конструкцию
+
+#### Возьмите фрагмент Лилупар
+
+#### Наследие Лилупар
 
 #### Поговорите с Лилупар
 
@@ -182,9 +230,15 @@
 
 **Лилупар:** «О Гюрабад, не исцелить твои раны и не скрыть твой позор...»
 
+##### Вариант ответа 1
+
 - **Путешественник:** ...
 
+##### Вариант ответа 2
+
 - **Путешественник:** То есть...
+
+##### Общее продолжение
 
 **Лилупар:** Я любила Ормазда. И моя благосклонность превратила его из пастуха в короля.
 
@@ -192,7 +246,7 @@
 
 **Лилупар:** Он оказался точно таким же, как другие смертные короли, которые в свой недолгий век лишь грезят о завоеваниях и власти и строят дворцы на зыбком песке.
 
-Поэтому ты решила погубить его...
+- **Путешественник:** Поэтому ты решила погубить его...
 
 **Лилупар:** Я уже говорила, что это была кара. Для трёх поколений, от отца к сыну.
 
@@ -200,9 +254,15 @@
 
 **Лилупар:** Но это ещё не всё... Нет, не всё.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Расскажи о «наказании»...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Как пал Гюрабад...
+
+##### Общее продолжение
 
 **Лилупар:** Тщеславный Парвезраван, дитя моё... Он жаждал безграничной власти, и я даровала ему её.
 
@@ -222,17 +282,23 @@
 
 **Лилупар:** И я смогла взрастить их плоть и кровь.
 
-- **Путешественник:** Ты говорила о Шируе...
+##### Вариант ответа 1
 
-- **Путешественник:** Человек в медной маске...
+- **Путешественник:** Ты говорила о Шируе...
 
 **Лилупар:** Шируе стал Хоррамдином в медной маске. Бедняки и невольники считали его посланником госпожи и избавителем от страданий.
 
 **Лилупар:** И он привёл их в объятья справедливости... В объятья погибели.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Человек в медной маске...
+
 **Лилупар:** А... Хоррамдин, король Шируе в медной маске. Посланник госпожи, спаситель угнетённых и рабов. Ха-ха, хитрый плут.
 
 **Лилупар:** В конце концов он привёл своих последователей к гибели... Разверзнувшаяся земля поглотила их вместе с Гюрабадом.
+
+##### Общее продолжение
 
 **Паймон:** ...
 
@@ -254,19 +320,25 @@
 
 **Лилупар:** Ошибок? Ха! Я не совершала ошибок. Но мои дети всё ещё там. Она там, и Шируе. Им, должно быть, очень одиноко.
 
-Хочешь сказать...
+- **Путешественник:** Хочешь сказать...
 
 **Лилупар:** Сила тьмы возросла... Ей может противостоять лишь сила матери.
 
 **Лилупар:** Я думала, что смогу покарать ненавистное мне, воспользовавшись силой тёмной бездны... Но от расплаты не уйти... Мне суждено войти в Гюрабад и встретить его возмездие.
 
-**Лилупар:** Мой повелитель / Моя повелительница... Я сожалею, что так недолго сопровождала вас и у меня не было возможности узнать вас ближе.
+**Лилупар:** Мой повелитель... Я сожалею, что так недолго сопровождала вас и у меня не было возможности узнать вас ближе. / Моя повелительница... Я сожалею, что так недолго сопровождала вас и у меня не было возможности узнать вас ближе.
 
 **Лилупар:** Но я знаю, что судьба сведёт нас вновь. Скверна бессильна над вами. Я верю... что сделала правильный выбор.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Выбор?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты уходишь?
+
+##### Общее продолжение
 
 **Лилупар:** Вообще говоря, это ведь не хозяин выбирает джинна, а джинн хозяина. Даже если я уйду, не думаю, что наша связь так легко оборвётся...
 
@@ -288,13 +360,95 @@
 
 **Лилупар:** (Свечение в бутылке сначала угасло, а потом вернулось. Но вы не дождались от неё других слов.)
 
+##### Вариант ответа 1
+
 - **Путешественник:** Она ушла...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Гюрабад... ждал её.
+
+##### Общее продолжение
 
 **Паймон:** Так она и правда прощалась... Увидим ли мы её ещё когда-нибудь?
 
 **Паймон:** Эм... Нам пора идти?
+
+**Лилупар:** ...Осторожно. Я чувствую, как под землёй что-то трясётся.
+
+**Паймон:** А? Что ты чувствуешь?
+
+**Лилупар:** Ничего страшного... это просто тренировка.
+
+**Паймон:** А, всё в порядке, просто тренировка!
+
+**Паймон:** Подожди-ка. Какая такая тренировка?
+
+**Лилупар:** Тсс. Они здесь.
+
+**Паймон:** Ух ты! Только что мы стояли рядом с шахматной фигурой, как - вжух - и мы уже здесь!
+
+**Паймон:** Как это случилось? Вышло впечатляюще!
+
+**Лилупар:** Ха-ха, хочешь повторить?
+
+##### Вариант ответа 1
+
+- **Путешественник:** Да! Давайте повторим!
+
+**Паймон:** Эй, держи себя в руках! Ты же не ребёнок!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Не стоит, у меня голова кружится...
+
+**Паймон:** Кстати... У Паймон тоже...
+
+##### Общее продолжение
+
+**Лилупар:** Всё в порядке. Координаты немного сбились... Может быть, всему виной старость...
+
+**Паймон:** Эй, это же то самое ущелье, куда мы пришли с самого начала? И зачем ты нас сюда привела? Тут разве есть что-нибудь стоящее?
+
+**Лилупар:** Слишком много вопросов, малышка.
+
+**Лилупар:** Странно, это должно быть здесь... Ага, нашла!
+
+**Паймон:** Ух ты...
+
+**Лилупар:** Гюрабад, некогда погрузившийся в расщелину, вновь явился вашему взору.
+
+**Лилупар:** Хм, кажется, у этого места появились новые обитатели. Избавьтесь от них, повелитель. / Хм, кажется, у этого места появились новые обитатели. Избавьтесь от них, повелительница.
+
+«Шируе - это и есть Хоррамдин».
+Так сказал человек в медной маске.
+
+«У твоего имени не будет наследников. Я уберу идолов из твоих храмов. Я отправлю тебя в могилу, поскольку твоё существование презренно».
+Так сказал человек в медной маске.
+
+Глазами джинна вы видите Гюрабад, когда тьма поглотила его...
+Долго Гюрабад был подобен хранилищу, в которое стекалась вода от многих рек, но теперь из него хлынули потоки убегающих жителей.
+Из бесстрастных машин и оружия солдат вырвались джинны, не имеющие разума... И всюду было алое вино и сок гранатов...
+
+Разбитые и раздавленные гранаты были втоптаны в грязь... Сочные и увядшие, благородные и ничтожные... И плачем возглашали алые плоды приход Хоррамдина - и радость жизни, и сладость возмездия.
+Сладкий, словно вино, сок наполнял город, превращая его в красное море...
+И сначала море поглотило рабов, а их хозяевам оставалось лишь дрейфовать по морю тьмы в стенаниях.
+
+Последним вы видите правителя в медной маске. Он укрылся в тени, в объятиях Сирин...
+Её лицо постарело и утратило краски, следы жизни и разума с него словно бы унёс ночной ветер.
+А ведь есть ещё Кисра, что обернулся тёмным чудовищем... Они родные вам по крови, но вы не можете не радоваться. Возмездие наполняет вас счастьем.
+
+О Гюрабад, не исцелить твои раны и не скрыть твой позор...
+И все, кто узнают о нём, будут кричать и бить в ладоши от радости...
+Ведь едва ли найдётся тот, кто не пострадал от твоей тирании.
+
+Вы подносите к уху бутылку...
+Сквозь лёгкий смех вы слышите, как кто-то тихо шепчет вам слова на нежном и прекрасном языке...
+Её признания льются, словно вода в загадочном источнике, но вы понимаете всё до последнего слова.
+В конце концов слова рассеиваются, оставляя после себя лишь лёгкий звон в ушах...
+
+Её наставления знакомят вас с древними стихами...
+Но больше она ничего не говорит.
 
 ## EN
 
@@ -316,6 +470,10 @@ There was a strange vibration in the ancient "training field" which, according t
 
 **Liloupar:** Shh... They're here.
 
+#### Defeat the Primal Construct(s)
+
+#### A Chess Piece has appeared
+
 #### Talk to Liloupar
 
 **Liloupar:** Please connect me with that chess piece.
@@ -336,15 +494,23 @@ There was a strange vibration in the ancient "training field" which, according t
 
 **Liloupar:** Ha... Alright, that's enough jokes for now. All you have to do, my master, is to hold me and touch the chess piece.
 
+#### Investigate Chess Piece
+
 #### Talk to Liloupar
 
 **Liloupar:** ...
 
 **Paimon:** Hmm... Liloupar, are you alright? Why are you so quiet?
 
+##### Response branch 1
+
 - **Traveler:** Shh!
 
+##### Response branch 2
+
 - **Traveler:** Liloupar?
+
+##### Shared continuation
 
 **Paimon:** Wait... Look. She's glowing. Well, differently from normal, anyway...
 
@@ -358,43 +524,61 @@ And there stands its gate, set in the mountain wall. It is loathsome, seeming al
 
 **Liloupar:** That's Gurabad over there. I remember it now.
 
-My head really hurts...
+- **Traveler:** My head really hurts...
 
 **Paimon:** Whoa, what's the matter with you guys... Can't you let Paimon know in advance next time? These surprises are bad for Paimon's heart!
 
-- **Traveler:** Sorry, Paimon.
+##### Response branch 1
 
-- **Traveler:** I'm fine, Paimon.
+- **Traveler:** Sorry, Paimon.
 
 **Paimon:** Hmph! That's what you get for cheesing Paimon off!
 
+##### Response branch 2
+
+- **Traveler:** I'm fine, Paimon.
+
 **Paimon:** That's what you always say!
 
-**Liloupar:** Heh... What a child you are. Worry not, I will give him / her back, little one.
+##### Shared continuation
 
-**Liloupar:** And when the time comes, he / she shall see you compensated with all the food you may desire, and that... currency of yours. "Mura," was it?
+**Liloupar:** Heh... What a child you are. Worry not, I will give him back, little one. / Heh... What a child you are. Worry not, I will give her back, little one.
+
+**Liloupar:** And when the time comes, he shall see you compensated with all the food you may desire, and that... currency of yours. "Mura," was it? / And when the time comes, she shall see you compensated with all the food you may desire, and that... currency of yours. "Mura," was it?
+
+##### Response branch 1
 
 - **Traveler:** It's "Mora"... wait, what am I even correcting you for?
 
+##### Response branch 2
+
 - **Traveler:** Don't put words into my mouth...
+
+##### Shared continuation
 
 **Paimon:** Hehe, that's more like it! Paimon's noted it all down! Delicious food and Mora!
 
 **Liloupar:** Alright, playtime is over. Let us go to Gurabad, my master.
 
-- **Traveler:** Why do we have to go there?
+##### Response branch 1
 
-- **Traveler:** Gurabad... What is over there?
+- **Traveler:** Why do we have to go there?
 
 **Liloupar:** Why, you ask? In truth, I know not... Perhaps the reason does not even matter, but I must make my way there. So...
 
 **Liloupar:** If there must be a reason, my master, it would be because I want you to witness my past and the lessons I learned.
+
+##### Response branch 2
+
+- **Traveler:** Gurabad... What is over there?
 
 **Liloupar:** There's nothing left. Nothing at all...
 
 **Liloupar:** All that remains are the memories of ghosts, broken dreams that can never be recovered, and the sweet aftertaste of revenge... or so I would say.
 
 **Liloupar:** This is a sizable request, and of that I am aware... but I wish for you to witness my past and the lessons I had to learn.
+
+##### Shared continuation
 
 **Paimon:** ...
 
@@ -406,6 +590,8 @@ My head really hurts...
 
 **Liloupar:** In short, please follow me. I shall lead you to Gurabad...
 
+#### Trigger Chess Piece
+
 #### Talk to Liloupar
 
 **Paimon:** Whoa! We were just next to that chess piece. Then things went "whoosh," and now we're here!
@@ -414,13 +600,19 @@ My head really hurts...
 
 **Liloupar:** Hehe, and would you like a repeat performance?
 
-- **Traveler:** Again, again!
+##### Response branch 1
 
-- **Traveler:** No, I'm a little dizzy...
+- **Traveler:** Again, again!
 
 **Paimon:** Hey, show some restraint! What are you, a kid?
 
+##### Response branch 2
+
+- **Traveler:** No, I'm a little dizzy...
+
 **Paimon:** Now that you mention it... Paimon's head feels a little woozy, too...
+
+##### Shared continuation
 
 **Liloupar:** That is normal. The coordinates are somewhat off. Perhaps the device is showing its age...
 
@@ -430,25 +622,33 @@ My head really hurts...
 
 **Liloupar:** Strange... It was supposed to be here... Ah, here it is!
 
+#### Open the gate to Gurabad
+
+#### Defeat the Primal Construct(s)
+
+#### Obtain Liloupar's fragment
+
+#### Liloupar's legacy
+
 #### Talk to Liloupar
 
 As the shard of light merges with Liloupar's magic bottle, you feel a little of your own power being pulled away...
 
-"Shiruyeh is Khorramdin."
+"Shiruyeh is Khorramdin." 
 Thus says the man in the brass mask.
 
 "There will be no heirs to your name. I will do away with the many idols in your temples. I will consign you to your grave, for such does one as despicable as you deserve."
 Says the man in the brass mask.
 
-Through the Jinni's entranced eyes, you bear witness to Gurabad as it is engulfed in darkness...
-The city of Gurabad has long been a reservoir of water, but now its inhabitants scatter like a torrent.
+Through the Jinni's entranced eyes, you bear witness to Gurabad as it is engulfed in darkness... 
+The city of Gurabad has long been a reservoir of water, but now its inhabitants scatter like a torrent. 
 The Jinn, devoid of intellect, pour out from cold machine husks, from the soldiers' weapons... And the scarlet wine, the juice of the pomegranate, bursts forth...
 
 The pomegranates are crushed and cracked, and they are trampled into a mass of mud... Plump or withered, rich or humble... The scarlet fruits, with hue and cry, tell of the Khorramdin's coming — the joy of life and the joy of vengeance.
-The juice tastes as sweet and mellow as sweet wine, and flows through the city, turning the reservoir into a vast red sea...
+The juice tastes as sweet and mellow as sweet wine, and flows through the city, turning the reservoir into a vast red sea... 
 The sea first drowns the slaves, and then their masters howl as they flounder amidst the roiling waves of night.
 
-Finally, you see the brass-masked king. He flees into the shadows — into Shirin's arms...
+Finally, you see the brass-masked king. He flees into the shadows — into Shirin's arms... 
 Her face is old and dim, all traces of life and reason having vanished from it like dust in the night's wind.
 And then there is King Kisra, who turned into a dark monster... they all are your flesh and blood, yet you rejoice, and you exult in that retribution.
 
@@ -458,9 +658,15 @@ For is there anyone who has not felt your unending tyranny?
 
 **Liloupar:** "O Gurabad, you are mortally stricken, your shame shown to all..."
 
+##### Response branch 1
+
 - **Traveler:** ...
 
+##### Response branch 2
+
 - **Traveler:** So...
+
+##### Shared continuation
 
 **Liloupar:** Ormazd was once the lover of the one called Liloupar. It was by the Jinni's love that he rose from a lowly shepherd to become a king amongst mortals.
 
@@ -468,7 +674,7 @@ For is there anyone who has not felt your unending tyranny?
 
 **Liloupar:** He turned out to be no different from those mortal rulers who live one day and die the next, wandering amidst dreams of conquest and persecution, building their palaces upon quicksand.
 
-So, you brought him low...
+- **Traveler:** So, you brought him low...
 
 **Liloupar:** Like I said, I punished him — handed ruin down from father to son, across three generations.
 
@@ -476,9 +682,15 @@ So, you brought him low...
 
 **Liloupar:** But that was not all... *sigh* That was not all.
 
+##### Response branch 1
+
 - **Traveler:** About the "punishment"...
 
+##### Response branch 2
+
 - **Traveler:** About the fall of Gurabad...
+
+##### Shared continuation
 
 **Liloupar:** Vain Parvezravan, my dear child... He wanted unlimited power, and so I gave it to him.
 
@@ -498,17 +710,23 @@ So, you brought him low...
 
 **Liloupar:** ...And I was thus able to foster their flesh and blood.
 
-- **Traveler:** You refer to Shiruyeh...
+##### Response branch 1
 
-- **Traveler:** "The Brass Mask"...
+- **Traveler:** You refer to Shiruyeh...
 
 **Liloupar:** Yes, Shiruyeh, brass-masked Khorramdin. The smallfolk and the slaves saw him as an emissary of my mistress, as a savior to them in their misery.
 
 **Liloupar:** So he led them to embrace justice... To embrace death.
 
+##### Response branch 2
+
+- **Traveler:** "The Brass Mask"...
+
 **Liloupar:** Ah, yes... Khorramdin, brass-masked King Shiruyeh. "The Emissary of the Mistress"! "Savior of the Commoners and Slaves"! Haha. A gifted charlatan, that one.
 
 **Liloupar:** And in the end, he led those who followed him to their doom... The earth swallowed them whole, and they fell into a dark chasm together with the entire city.
+
+##### Shared continuation
 
 **Paimon:** ...
 
@@ -530,7 +748,7 @@ So, you brought him low...
 
 **Liloupar:** Done wrong? Ha! I have done nothing wrong. But my children are still there. She and Shiruyeh... they must be rather lonely.
 
-So what you're saying is...
+- **Traveler:** So what you're saying is...
 
 **Liloupar:** The power of the darkness is growing stronger... only a mother's power can face it head-on.
 
@@ -540,9 +758,15 @@ So what you're saying is...
 
 **Liloupar:** But I know that fate will arrange for us to meet again. You possess an incorruptible quality. I believe... that I will have made the right choice.
 
+##### Response branch 1
+
 - **Traveler:** The right choice...?
 
+##### Response branch 2
+
 - **Traveler:** You're leaving?
+
+##### Shared continuation
 
 **Liloupar:** Generally speaking, the master doesn't choose the Jinni. Instead, the Jinni chooses their master. Even should we part ways here, I doubt our connection will be easily severed.
 
@@ -555,7 +779,7 @@ There is a chuckle, and you hear someone whispering in your ear in a gentle and 
 She speaks of things as unknowable as a deep spring, but you comprehend it all.
 And at last, the words dissipate, leaving only a cool tingling in your ear...
 
-Through her guidance, you have become familiar with the ancient verses...
+Through her guidance, you have become familiar with the ancient verses... 
 But she speaks no more.
 
 **Paimon:** Eh, look! The light in the bottle has dimmed... Liloupar! Are you alright?
@@ -564,13 +788,95 @@ But she speaks no more.
 
 **Liloupar:** (The light of the bottle fades, then the flickering gradually returns — but she speaks no more.)
 
+##### Response branch 1
+
 - **Traveler:** She's gone...
 
+##### Response branch 2
+
 - **Traveler:** Gurabad... It awaits her.
+
+##### Shared continuation
 
 **Paimon:** Is that how it is... Seems like it really was goodbye... Will we ever see her again...?
 
 **Paimon:** And uh, should we... go now?
+
+**Liloupar:** ...Be careful. I feel some strange tremors from deep underground.
+
+**Paimon:** Eh? What did you feel?
+
+**Liloupar:** It's nothing... That was just a drill.
+
+**Paimon:** Oh... So it was just a drill!
+
+**Paimon:** Wait... What kind of drill are you talking about!?
+
+**Liloupar:** Shh... They're here.
+
+**Paimon:** Whoa! We were just next to that chess piece. Then things went "whoosh," and now we're here!
+
+**Paimon:** How did this happen? That's really awesome!
+
+**Liloupar:** Hehe, and would you like a repeat performance?
+
+##### Response branch 1
+
+- **Traveler:** Again, again!
+
+**Paimon:** Hey, show some restraint! What are you, a kid?
+
+##### Response branch 2
+
+- **Traveler:** No, I'm a little dizzy...
+
+**Paimon:** Now that you mention it... Paimon's head feels a little woozy, too...
+
+##### Shared continuation
+
+**Liloupar:** That is normal. The coordinates are somewhat off. Perhaps the device is showing its age...
+
+**Paimon:** Hey... Isn't this the valley we first went to? What are you bringing us here for? Is there anything worth seeing here?
+
+**Liloupar:** You ask too many questions, little one.
+
+**Liloupar:** Strange... It was supposed to be here... Ah, here it is!
+
+**Paimon:** Wow...
+
+**Liloupar:** Behold Gurabad. Once, it was swallowed by the very earth itself — now, it lies before you.
+
+**Liloupar:** Ah. It would seem that this place has some new tenants. Please do get rid of them, my master.
+
+"Shiruyeh is Khorramdin." 
+Thus says the man in the brass mask.
+
+"There will be no heirs to your name. I will do away with the many idols in your temples. I will consign you to your grave, for such does one as despicable as you deserve."
+Says the man in the brass mask.
+
+Through the Jinni's entranced eyes, you bear witness to Gurabad as it is engulfed in darkness... 
+The city of Gurabad has long been a reservoir of water, but now its inhabitants scatter like a torrent. 
+The Jinn, devoid of intellect, pour out from cold machine husks, from the soldiers' weapons... And the scarlet wine, the juice of the pomegranate, bursts forth...
+
+The pomegranates are crushed and cracked, and they are trampled into a mass of mud... Plump or withered, rich or humble... The scarlet fruits, with hue and cry, tell of the Khorramdin's coming — the joy of life and the joy of vengeance.
+The juice tastes as sweet and mellow as sweet wine, and flows through the city, turning the reservoir into a vast red sea... 
+The sea first drowns the slaves, and then their masters howl as they flounder amidst the roiling waves of night.
+
+Finally, you see the brass-masked king. He flees into the shadows — into Shirin's arms... 
+Her face is old and dim, all traces of life and reason having vanished from it like dust in the night's wind.
+And then there is King Kisra, who turned into a dark monster... they all are your flesh and blood, yet you rejoice, and you exult in that retribution.
+
+O Gurabad, you are mortally stricken, your shame shown to all...
+All who receive these tidings shall clap and shout for joy...
+For is there anyone who has not felt your unending tyranny?
+
+You hold the magic bottle to your ear...
+There is a chuckle, and you hear someone whispering in your ear in a gentle and delicate language...
+She speaks of things as unknowable as a deep spring, but you comprehend it all.
+And at last, the words dissipate, leaving only a cool tingling in your ear...
+
+Through her guidance, you have become familiar with the ancient verses... 
+But she speaks no more.
 
 ## ZH
 
@@ -592,6 +898,10 @@ But she speaks no more.
 
 **利露帕尔:** 嘘…它们来了。
 
+#### 击败元能构装体
+
+#### 「棋子」的出现
+
 #### 与利露帕尔对话
 
 **利露帕尔:** 请将我与那座「棋子」相连吧。
@@ -612,15 +922,23 @@ But she speaks no more.
 
 **利露帕尔:** 噗…好了，不开玩笑了。我的大人，您只需要带着我，接触那座「棋子」即可。
 
+#### 调查「棋子」
+
 #### 与利露帕尔对话
 
 **利露帕尔:** ……
 
 **派蒙:** 唔…利露帕尔，你还好吗？怎么突然没反应啦…？
 
+##### 对话分支 1
+
 - **旅行者:** 嘘…
 
+##### 对话分支 2
+
 - **旅行者:** 利露帕尔？
+
+##### 共同后续
 
 **派蒙:** 等等，你看…她在发光呢。和平时不太一样…
 
@@ -634,43 +952,61 @@ But she speaks no more.
 
 **利露帕尔:** 它在那里，居尔城。我记起来了。
 
-我的头好痛…
+- **旅行者:** 我的头好痛…
 
 **派蒙:** 呜哇，你们怎么回事啦…下次再这样提前通知我呀！不要总是吓我一跳！
 
-- **旅行者:** 对不起啦，派蒙。
+##### 对话分支 1
 
-- **旅行者:** 我没事的，派蒙。
+- **旅行者:** 对不起啦，派蒙。
 
 **派蒙:** 哼，反正我是生气啦！
 
+##### 对话分支 2
+
+- **旅行者:** 我没事的，派蒙。
+
 **派蒙:** 哼，每次你都这么说！
 
-**利露帕尔:** 噗…小孩子一样呢，好啦，不要担心了。我会把他 / 她还给你的，小家伙。
+##### 共同后续
 
-**利露帕尔:** 到时候，他 / 她还要赔偿你好多好吃的呢…嗯，还有「牟拉」，你们的钱币，对吧？
+**利露帕尔:** 噗…小孩子一样呢，好啦，不要担心了。我会把他还给你的，小家伙。 / 噗…小孩子一样呢，好啦，不要担心了。我会把她还给你的，小家伙。
+
+**利露帕尔:** 到时候，他还要赔偿你好多好吃的呢…嗯，还有「牟拉」，你们的钱币，对吧？ / 到时候，她还要赔偿你好多好吃的呢…嗯，还有「牟拉」，你们的钱币，对吧？
+
+##### 对话分支 1
 
 - **旅行者:** 是「摩拉」…我为什么要纠正你。
 
+##### 对话分支 2
+
 - **旅行者:** 不要擅自替我下决定…
+
+##### 共同后续
 
 **派蒙:** 这还差不多嘛…我记下来咯！好吃的，还有摩拉！
 
 **利露帕尔:** 好了，儿童时间结束，我们前往居尔城吧，我的大人。
 
-- **旅行者:** 我们为什么要去那里？
+##### 对话分支 1
 
-- **旅行者:** 居尔城…那里有什么？
+- **旅行者:** 我们为什么要去那里？
 
 **利露帕尔:** 为什么？我不知道…或许理由根本不重要，但我需要去那里。所以，我的大人…
 
 **利露帕尔:** 如果非要一个理由，那么就是我希望您见证我的过去，见证我的教训。
+
+##### 对话分支 2
+
+- **旅行者:** 居尔城…那里有什么？
 
 **利露帕尔:** 什么都没有，什么也没有留下…
 
 **利露帕尔:** 残留在那里的，只有鬼魂的回忆、无法复原的碎梦和复仇甜美的余味…我会这样说。
 
 **利露帕尔:** 虽然这个请求有点过分…但我希望您见证我的过去，见证我的教训。
+
+##### 共同后续
 
 **派蒙:** ……
 
@@ -682,6 +1018,8 @@ But she speaks no more.
 
 **利露帕尔:** 总之，请您跟着我前来吧，我为您指引居尔城的位置…
 
+#### 接触「棋子」
+
 #### 与利露帕尔对话
 
 **派蒙:** 呜哇！刚刚我们还在「棋子」旁边，「唰——」的一下就到这里啦！
@@ -690,13 +1028,19 @@ But she speaks no more.
 
 **利露帕尔:** 呵呵，还想再来一遍吗？
 
-- **旅行者:** 再来一遍，再来一遍！
+##### 对话分支 1
 
-- **旅行者:** 还是不了，我有点晕…
+- **旅行者:** 再来一遍，再来一遍！
 
 **派蒙:** 收敛点啦！你是小孩子吗！
 
+##### 对话分支 2
+
+- **旅行者:** 还是不了，我有点晕…
+
 **派蒙:** 唔…这么说来，我也有点晕晕的…
+
+##### 共同后续
 
 **利露帕尔:** 很正常，坐标偏转了。可能是因为老化的原因…
 
@@ -705,6 +1049,14 @@ But she speaks no more.
 **利露帕尔:** 问题太多了，小家伙。
 
 **利露帕尔:** 奇怪…应该就在这里的…啊，在这！
+
+#### 打开居尔城的大门
+
+#### 击败元能构装体
+
+#### 获取利露帕尔的碎片
+
+#### 利露帕尔的遗赠
 
 #### 与利露帕尔对话
 
@@ -734,9 +1086,15 @@ But she speaks no more.
 
 **利露帕尔:** 「居尔城啊，你的创伤无法救治，你的羞耻为众目所观…」
 
+##### 对话分支 1
+
 - **旅行者:** ……
 
+##### 对话分支 2
+
 - **旅行者:** 所以…
+
+##### 共同后续
 
 **利露帕尔:** 奥尔玛兹曾是利露帕尔的爱人，他因镇灵的爱而从牧羊人成为人中之王。
 
@@ -744,7 +1102,7 @@ But she speaks no more.
 
 **利露帕尔:** 他与朝生暮死的凡人诸王没有任何区别…只知徜徉在征服与迫害的迷梦之中，以流沙为基搭建宫阙。
 
-于是，你谋害了他…
+- **旅行者:** 于是，你谋害了他…
 
 **利露帕尔:** 我说过，我惩罚了他。由父及子，直至三代。
 
@@ -752,9 +1110,15 @@ But she speaks no more.
 
 **利露帕尔:** 不仅如此…唉，不仅如此。
 
+##### 对话分支 1
+
 - **旅行者:** 关于「惩罚」…
 
+##### 对话分支 2
+
 - **旅行者:** 关于居尔城的结局…
+
+##### 共同后续
 
 **利露帕尔:** 虚荣的帕维兹拉万，我的爱子…他想要无穷的权力，我便给了他。
 
@@ -774,17 +1138,23 @@ But she speaks no more.
 
 **利露帕尔:** …令我得以将他们的骨肉抚养长大。
 
-- **旅行者:** 你是说希鲁伊…
+##### 对话分支 1
 
-- **旅行者:** 「黄铜面具」…
+- **旅行者:** 你是说希鲁伊…
 
 **利露帕尔:** 希鲁伊，就是「黄铜面具」胡拉姆丁。贱民与奴隶视他为女主人的使者，视他如苦难中降临的拯救者。
 
 **利露帕尔:** 于是，他引导他们拥抱正义…拥抱灭亡。
 
+##### 对话分支 2
+
+- **旅行者:** 「黄铜面具」…
+
 **利露帕尔:** 啊…胡拉姆丁，就是戴黄铜面具的希鲁伊王。「女主人的使者」、「穷困者与奴隶的拯救者」，哈哈，高明的骗子。
 
 **利露帕尔:** 终究，他引导那些追随他的人归于漆黑的灭亡…连同这整座居尔城，被大地吞入漆黑的裂口。
+
+##### 共同后续
 
 **派蒙:** ……
 
@@ -806,7 +1176,7 @@ But she speaks no more.
 
 **利露帕尔:** 错事…？噗…我没什么做错的事。但我的孩子们还在那里，她和希鲁伊…一定很寂寞吧。
 
-你的意思是…
+- **旅行者:** 你的意思是…
 
 **利露帕尔:** 漆黑的力量愈发强大了…能直面它的，只有母亲的力量。
 
@@ -816,9 +1186,15 @@ But she speaks no more.
 
 **利露帕尔:** 但我明白，命运一定会驱使我们再次相见。您拥有不受腐化的品质，我相信…我的选择会是正确的。
 
+##### 对话分支 1
+
 - **旅行者:** 你的选择…？
 
+##### 对话分支 2
+
 - **旅行者:** 你要离开了吗？
+
+##### 共同后续
 
 **利露帕尔:** 常理来说，并非主人选择镇灵，而是镇灵选择主人。即使离去，我想我们的联系也不会这样简单地结束…
 
@@ -840,10 +1216,92 @@ But she speaks no more.
 
 **利露帕尔:** （瓶子的光芒渐暗，又逐渐恢复了闪烁。但她已经不再言语。）
 
+##### 对话分支 1
+
 - **旅行者:** 她离开了…
 
+##### 对话分支 2
+
 - **旅行者:** 居尔城…在等待着她。
+
+##### 共同后续
 
 **派蒙:** 这样吗…结果，真的是告别呀…我们以后还会再见到她吗…？
 
 **派蒙:** 唔…我们…也回去吧？
+
+**利露帕尔:** …小心，在地下深处，有奇特的震动。
+
+**派蒙:** 欸？你有感觉到什么吗？
+
+**利露帕尔:** 没什么…是演习。
+
+**派蒙:** 哦哦，没什么啦，是「演习」！
+
+**派蒙:** 等等——什么「演习」啦！
+
+**利露帕尔:** 嘘…它们来了。
+
+**派蒙:** 呜哇！刚刚我们还在「棋子」旁边，「唰——」的一下就到这里啦！
+
+**派蒙:** 这是怎么回事呀，好厉害！
+
+**利露帕尔:** 呵呵，还想再来一遍吗？
+
+##### 对话分支 1
+
+- **旅行者:** 再来一遍，再来一遍！
+
+**派蒙:** 收敛点啦！你是小孩子吗！
+
+##### 对话分支 2
+
+- **旅行者:** 还是不了，我有点晕…
+
+**派蒙:** 唔…这么说来，我也有点晕晕的…
+
+##### 共同后续
+
+**利露帕尔:** 很正常，坐标偏转了。可能是因为老化的原因…
+
+**派蒙:** 欸…这不是我们最初来过的那座峡谷吗？你带我们来这里干什么呀？这里有什么值得一看的东西吗？
+
+**利露帕尔:** 问题太多了，小家伙。
+
+**利露帕尔:** 奇怪…应该就在这里的…啊，在这！
+
+**派蒙:** 哇……
+
+**利露帕尔:** 沉入大地裂口的居尔城，如今重现在您的面前。
+
+**利露帕尔:** 哦…看来这里又被另一批住民占据了，除掉它们吧，我的大人。
+
+「希鲁伊，正是胡拉姆丁。」
+头戴黄铜面具者如是说。
+
+「你名下的人必不留后；我必从你神的庙中除灭诸多偶像；我必因你卑鄙，使你归于坟墓。」
+头戴黄铜面具者如是说。
+
+从镇灵恍惚的目光中，你望见了居尔城被黑暗吞没时的景象…
+居尔城自古如蓄水大池，如今住民却如洪流般四散奔逃。
+毫无智性的镇灵从冷酷的机械、兵士们的武器之中喷涌…朱红的酒，石榴的汁液随之而至，爆散而出…
+
+石榴翻滚开裂，又被践踏成泥、混作一团…饱满或萎缩、富贵或卑贱…猩红的果实纷纷呼号着胡拉姆丁的到来——生命的欢乐，复仇的欢欣。
+汁液的滋味甜美醇厚如醴，泉涌满城，化作红色的汪洋大海…
+大海先淹没奴隶，然后主子才漂浮在黑夜的汪洋中哀嚎。
+
+最后，你望见黄铜面具的王。他遁入阴影，遁入希琳的怀抱…
+她的容颜苍老模糊，生命与理智的痕迹如夜风中的尘埃般消逝了。
+还有那化为黑色魔兽的基斯拉王…他们皆是你的血脉，但你却为此欣喜不已——你为报应而狂喜。
+
+居尔城啊，你的创伤无法救治，你的羞耻为众目所观…
+听见这消息的人必鼓掌欢呼——
+因为谁没受过你无休止的暴虐呢？
+
+你将魔瓶轻轻捧在耳边…
+伴随着一阵轻笑，你听到有人用无比柔和雅致的语言在你的耳旁柔声低语…
+她所倾诉的东西就像泉流一样难测，但你一字不落地听懂了。
+最后，话语消散，仅在你的耳廓留下一丝清冷的余韵…
+
+透过她的指点，你熟识了古代的韵文…
+但她却不再言语。

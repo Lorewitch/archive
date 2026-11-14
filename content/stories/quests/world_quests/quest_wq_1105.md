@@ -1,3 +1,4 @@
+# legacy_source_id: 1105
 # id: quest_wq_1105
 # story_group: world_quests
 # display_category: Задание мира · История Близнецов
@@ -8,19 +9,23 @@
 # region: Мондштадт
 # game_version: 1.3
 # release_versions: 1.3
-# source_id: 1105
+# source_id: 18000
 # chapter_num_ru: Том I. Глава IV - Прелюдия
 # chapter_num_en: Chapter I: Act IV - Prelude
 # chapter_num_zh: 第一章 第四幕·报幕
 # part_source_ids: 18000
-# previous_quests: quest_aq_1103
-# next_quests: quest_aq_1104
-# related_quests: quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_aq_1104
-# quest_chain: quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104
-# quest_series: I
+# previous_quests: 
+# next_quests: 
+# related_quests: 
+# quest_chain: quest_wq_1105
+# quest_series: 
 # version_source: wiki_release_category
 
 # storyline: twins
+# game_source_ids: 18000
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_ru:
+# quest_series_order: 0
 
 ## RU
 
@@ -30,13 +35,19 @@
 
 #### Поговорите с Катериной в Мондштадте
 
-**Катерина:** Путешественни(ца)(к), подойди, пожалуйста.
+**Катерина:** Путешественник, подойди, пожалуйста. / Путешественница, подойди, пожалуйста.
 
 **Катерина:** Ты уже некоторое время состоишь в Гильдии искателей приключений. Как твои приключения?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я ищу союзников...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мне нужно побольше компаньонов...
+
+##### Общее продолжение
 
 **Катерина:** Хм... Да, в приключениях, помимо собственной сноровки, без надёжных спутников не обойтись.
 
@@ -52,13 +63,13 @@
 
 **Паймон:** Стой-стой-стой... Уж не...
 
-Может ли это...
+- **Путешественник:** Может ли это...
 
 **Паймон:** Скажи, не выглядит ли этот человек... Как Путешественник?!
 
 **Катерина:** Как почётный рыцарь? Нет, совсем не похож. Тот человек - высокий мужчина с повязкой на глазу...
 
-Наверное, дальний родственник Кэйи...
+- **Путешественник:** Наверное, дальний родственник Кэйи...
 
 **Паймон:** Да ну, причём здесь Кэйа? Глазная повязка на родство не указывает!
 
@@ -70,15 +81,21 @@
 
 **Катерина:** К тому же если этот незнакомец - сильный воин, он определённо будет полезен в твоих путешествиях.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вступить в гильдию он уже отказался...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Возможно, с ним будет трудно поладить...
+
+##### Общее продолжение
 
 **Катерина:** Не робей! Ты всё-таки почётный рыцарь Ордо Фавониус!
 
 **Катерина:** Твои подвиги постоянно воспевают барды.
 
-Ладно. Насчёт того незнакомца...
+- **Путешественник:** Ладно. Насчёт того незнакомца...
 
 **Катерина:** Хм... Что же до сведений о нём... Тебе следует расспросить Лоуренса.
 
@@ -90,7 +107,7 @@
 
 **Лоуренс:** Приветствую, почётный рыцарь. Чем могу помочь?
 
-Я ищу незнакомца с глазной повязкой...
+- **Путешественник:** Я ищу незнакомца с глазной повязкой...
 
 **Лоуренс:** Глазная повязка, вычурная одежда, светлые волосы? Так... Помню такого.
 
@@ -108,11 +125,13 @@
 
 **Лоуренс:** Спросите его. Может, он знает что-нибудь про нашего незнакомца.
 
+**Лоуренс:** Интересно, какие неприятности он нам принёс...
+
 #### Расспросите Вагнера о незнакомце
 
 **Вагнер:** Что? Вам чего?
 
-Я ищу незнакомца с глазной повязкой...
+- **Путешественник:** Я ищу незнакомца с глазной повязкой...
 
 **Вагнер:** Помню, помню. Пару дней назад он приходил, чтобы заказать партию материалов для ковки.
 
@@ -126,11 +145,13 @@
 
 **Паймон:** В общем, пойдём в «Долю ангелов».
 
+**Вагнер:** Интересно, такие материалы вообще существуют?..
+
 #### Расспросите Чарльза о незнакомце
 
 **Чарльз:** Чего желаете? Виноградный сок или яблочный напиток?
 
-М-да, алкоголь так и не предлагают...
+- **Путешественник:** М-да, алкоголь так и не предлагают...
 
 **Паймон:** Чарльз, ты случайно высокого блондина с глазной повязкой не видел?
 
@@ -150,23 +171,25 @@
 
 **Чарльз:** На первом этаже полно шумных гостей, поэтому предлагаю вам подождать на втором.
 
+**Чарльз:** Уверен, он сегодня объявится. Можете подождать на втором этаже.
+
 #### Подождите на втором этаже таверны за столиком у перил
 
 **???:** ...
 
-Здравствуй! Я из Гильдии искателей приключений...
+- **Путешественник:** Здравствуй! Я из Гильдии искателей приключений...
 
 **???:** ...
 
-Как поживаете? Я почётный рыцарь из Ордо Фавониус.
+- **Путешественник:** Как поживаете? Я почётный рыцарь из Ордо Фавониус.
 
 **Паймон:** Вообще ноль внимания...
 
-Я это... Путешественни(ца)(к)...
+- **Путешественник:** Я это... Путешественник... / Я это... Путешественница...
 
-**???:** Путешественни(ца)(к)? Хм. Зачем ты путешествуешь?
+**???:** Путешественник? Хм. Зачем ты путешествуешь? / Путешественница? Хм. Зачем ты путешествуешь?
 
-Я ищу сво(его брата)(ю сестру).
+- **Путешественник:** Я ищу свою сестру. / Я ищу своего брата.
 
 **???:** ...
 
@@ -176,71 +199,97 @@
 
 **???:** Эта мелочь, что рядом с тобой...
 
-- **Путешественник:** Живая консерва.
+##### Вариант ответа 1
 
-- **Путешественник:** Это мой лучший друг.
+- **Путешественник:** Живая консерва.
 
 **Паймон:** Нет! Это не так!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Это мой лучший друг.
+
 **Паймон:** Ага! Мы самые лучшие друзья!
+
+##### Общее продолжение
 
 **???:** Путешествовать вместе с кем-то славно.
 
 **Дайнслейф:** Меня зовут Дайнслейф. У вас ко мне какое-нибудь дело?
 
-На самом деле... Я хотел(а) бы пригласить тебя путешествовать с нами.
+- **Путешественник:** На самом деле... Я хотел бы пригласить тебя путешествовать с нами. / На самом деле... Я хотела бы пригласить тебя путешествовать с нами.
 
 **Дайнслейф:** Идёт.
 
-...А?
+- **Путешественник:** ...А?
 
 **Паймон:** (Ещё минуту назад сидел как истукан... Что-то тут не то!)
 
 **Дайнслейф:** Но мне потребуется аванс.
 
+##### Вариант ответа 1
+
 - **Путешественник:** А-аванс?..
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ск-сколько?
+
+##### Общее продолжение
 
 **Дайнслейф:** Пятьсот моры и три ответа.
 
 **Дайнслейф:** Пятьсот моры - разовый платёж. К вопросам приступим чуть позже.
 
-Это... Всё?
+- **Путешественник:** Это... Всё?
 
 **Дайнслейф:** Это всё.
 
 **Паймон:** Такая крошечная сумма... Что-то тут очень, очень не то!..
 
-Вот пятьсот моры...
+- **Путешественник:** Вот пятьсот моры...
 
 **Дайнслейф:** Спасибо. А теперь вопросы. Здесь и сейчас.
 
+##### Вариант ответа 1
+
 - **Путешественник:** А если я отвечу неправильно?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Обязательно ответить на все?
+
+##### Общее продолжение
 
 **Дайнслейф:** На эти вопросы верного или неверного ответа нет. Они лишь покажут твоё отношение.
 
 **Дайнслейф:** Меня интересует только твой выбор. Простого ответа будет достаточно.
 
-Хорошо.
+- **Путешественник:** Хорошо.
 
 **Дайнслейф:** Вопрос первый.
 
 **Дайнслейф:** Во время нападений Ужаса Бури вы вместе с этим... Анемо Архонтом, который зовёт себя Венти, спасли Мондштадт. Кто, по-твоему, сыграл в этом ключевую роль?
 
-Откуда ты знаешь, кто такой Венти?!
+- **Путешественник:** Откуда ты знаешь, кто такой Венти?!
 
 **Дайнслейф:** Что мне положено знать, я знаю.
 
 **Дайнслейф:** Отвечай на вопрос.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Венти.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Я.
 
+##### Вариант ответа 3
+
 - **Путешественник:** Горожане, объединившиеся перед лицом опасности.
+
+##### Общее продолжение
 
 **Дайнслейф:** Интересно, интересно... Я понял.
 
@@ -250,11 +299,19 @@
 
 **Дайнслейф:** Теперь, когда их бога нет, кто, по-твоему, будет защищать Ли Юэ?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Адепты.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Цисин.
 
+##### Вариант ответа 3
+
 - **Путешественник:** Народ Ли Юэ.
+
+##### Общее продолжение
 
 **Дайнслейф:** Ты так считаешь?.. Понятно.
 
@@ -264,14 +321,21 @@
 
 **Дайнслейф:** Кто именно из них, по-твоему, для богов важнее?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Те, у кого есть Глаз Бога.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Те, у кого Глаза Бога нет.
 
+##### Вариант ответа 3
+
 - **Путешественник:** Возможно... Никто из них.
 
-**Дайнслейф:** Вот как? Ясно...
+##### Общее продолжение
 
+**Дайнслейф:** Вот как? Ясно...
 
 **Чарльз:** Добро пожаловать, господин. Ваш заказ уже ожидает.
 
@@ -279,9 +343,9 @@
 
 #### Разыщите незнакомца на первом этаже таверны
 
-**Дайнслейф:** Как я и полагал... Вы с ней / ним очень похожи.
+**Дайнслейф:** Выходит, вы с ней совсем разные... / Выходит, вы с ним совсем разные...
 
-В смысле? С кем с ней / ним?
+- **Путешественник:** В смысле? С кем с ней? / В смысле? С кем с ним?
 
 **Дайнслейф:** ...
 
@@ -289,9 +353,9 @@
 
 **Дайнслейф:** Но я принимаю только поручения, связанные с орденом Бездны.
 
-**Дайнслейф:** Я, как и ты, путешествую. Ты ищешь сво(его брата)(ю сестру), а я противостою ордену Бездны.
+**Дайнслейф:** Я, как и ты, путешествую. Ты ищешь свою сестру, а я противостою ордену Бездны. / Я, как и ты, путешествую. Ты ищешь своего брата, а я противостою ордену Бездны.
 
-Мне уже доводилось встречать магов Бездны...
+- **Путешественник:** Мне уже доводилось встречать магов Бездны...
 
 **Дайнслейф:** Хм. Чудовища, что служат Бездне - клыки и когти, с помощью которых орден сеет на этой земле хаос.
 
@@ -301,7 +365,7 @@
 
 **Дайнслейф:** Это ещё более уродливое порождение Бездны, которому подчиняются её маги.
 
-Если подумать, то после Ужаса Бури мы ещё ни разу не...
+- **Путешественник:** Если подумать, то после Ужаса Бури мы ещё ни разу не...
 
 **Паймон:** Ага, точно! Мы сражались с Фатуи в Ли Юэ, а они люди...
 
@@ -313,63 +377,31 @@
 
 **Паймон:** Звучит опасно... Вдруг они ждут удобного случая, чтобы заманить нас в западню...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Меня им не победить.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Я одолею их.
 
+##### Общее продолжение
+
 **Паймон:** Угу! Мы самые крутые!
 
-**Дайнслейф:** (Настрой совсем как у неё / него...)
+**Дайнслейф:** (Настрой совсем как у неё...) / (Настрой совсем как у него...)
 
 **Дайнслейф:** Почему бы нам не сходить и проверить на месте? Согласно имеющимся зацепкам, орден Бездны вновь заполонил храм Сокола.
 
 **Дайнслейф:** Встретимся у храма. Возможно, твои вопросы о Бездне будут отвечены именно там.
 
-**Дайнслейф:** Выходит, вы с ней / ним совсем разные...
+**Дайнслейф:** Как я и полагал... Вы с ней очень похожи. / Как я и полагал... Вы с ним очень похожи.
 
-В смысле? С кем с ней / ним?
+##### Вариант ответа 1
 
-**Дайнслейф:** ...
+##### Вариант ответа 2
 
-**Дайнслейф:** Я принимаю пятьсот моры. Твои взгляды на мир мне примерно понятны. Теперь ты можешь давать мне поручения, как мы и договаривались.
-
-**Дайнслейф:** Но я принимаю только поручения, связанные с орденом Бездны.
-
-**Дайнслейф:** Я, как и ты, путешествую. Ты ищешь сво(его брата)(ю сестру), а я противостою ордену Бездны.
-
-Мне уже доводилось встречать магов Бездны...
-
-**Дайнслейф:** Хм. Чудовища, что служат Бездне - клыки и когти, с помощью которых орден сеет на этой земле хаос.
-
-**Дайнслейф:** Следы Вестника Бездны привели меня в Мондштадт...
-
-**Паймон:** Вестник Бездны?
-
-**Дайнслейф:** Это ещё более уродливое порождение Бездны, которому подчиняются её маги.
-
-Если подумать, то после Ужаса Бури мы ещё ни разу не...
-
-**Паймон:** Ага, точно! Мы сражались с Фатуи в Ли Юэ, а они люди...
-
-**Паймон:** И служители ордена, которые не были бы людьми, нам не попадались.
-
-**Дайнслейф:** Боюсь, на то есть причина.
-
-**Дайнслейф:** Возможно, у них приказ избегать вас.
-
-**Паймон:** Звучит опасно... Вдруг они ждут удобного случая, чтобы заманить нас в западню...
-
-- **Путешественник:** Меня им не победить.
-
-- **Путешественник:** Я одолею их.
-
-**Паймон:** Угу! Мы самые крутые!
-
-**Дайнслейф:** (Настрой совсем как у неё / него...)
-
-**Дайнслейф:** Почему бы нам не сходить и проверить на месте? Согласно имеющимся зацепкам, орден Бездны вновь заполонил храм Сокола.
-
-**Дайнслейф:** Встретимся у храма. Возможно, твои вопросы о Бездне будут отвечены именно там.
+##### Общее продолжение
 
 #### Направляйтесь в храм Сокола
 
@@ -377,19 +409,19 @@
 
 **Дайнслейф:** Сокол Запада... Ты мог бы парить в небесах, но вместо этого блуждаешь под светом богов...
 
-О чём это ты?
+- **Путешественник:** О чём это ты?
 
 **Дайнслейф:** Ни о чём. Пройдёмте внутрь.
 
-#### Продолжайте исследовать
+#### Войдите в храм Сокола
 
-**Лоуренс:** Интересно, какие неприятности он нам принёс...
+#### Продолжайте исследовать
 
 #### Поговорите с Дайнслейфом
 
 **Дайнслейф:** Всего лишь пара магов Бездны? Похоже, Вестник уже ушёл.
 
-Можешь рассказать побольше об ордене Бездны?
+- **Путешественник:** Можешь рассказать побольше об ордене Бездны?
 
 **Дайнслейф:** Бездна...
 
@@ -409,9 +441,9 @@
 
 **Дайнслейф:** Возможно, там мы обнаружим Вестника Бездны.
 
-#### Отправляйтесь в Вольфендом
+#### Покиньте храм Сокола
 
-**Вагнер:** Интересно, такие материалы вообще существуют?..
+#### Отправляйтесь в Вольфендом
 
 #### Поговорите с Дайнслейфом
 
@@ -419,9 +451,15 @@
 
 **Дайнслейф:** Длинные когти и острые клыки. Но он не покидает своё логово...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты его знаешь?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Вы с ним хорошо знакомы?
+
+##### Общее продолжение
 
 **Дайнслейф:** Нет. Я его не знаю, а он не знает меня.
 
@@ -435,19 +473,17 @@
 
 **Дайнслейф:** Зная их повадки, я думаю, что здесь ещё должны быть подобные следы. Давай поищем.
 
-#### Найдите в Вольфендоме улики, связанные с орденом Бездны
-
-**Чарльз:** Уверен, он сегодня объявится. Можете подождать на втором этаже.
-
-#### Найдите в Вольфендоме улики, связанные с орденом Бездны
-
 **Дайнслейф:** Как и ожидалось, здесь тоже приспешники Бездны... Давай поищем поблизости.
+
+#### Найдите в Вольфендоме улики, связанные с орденом Бездны
+
+#### Найдите в Вольфендоме улики, связанные с орденом Бездны
 
 #### Поговорите с Дайнслейфом
 
 **Дайнслейф:** Ну как поиски?
 
-Мы нашли много следов ордена Бездны...
+- **Путешественник:** Мы нашли много следов ордена Бездны...
 
 **Дайнслейф:** Я здесь тоже поискал. Действительно, много следов.
 
@@ -485,17 +521,95 @@
 
 #### Пройдите дальше в логово Ужаса Бури
 
+#### Победите всех врагов
+
+#### Поговорите с Дайнслейфом
+
+**Паймон:** Мы так и не увидели Вестника Бездны. Облом.
+
+- **Путешественник:** Да уж, облом.
+
+**Дайнслейф:** Я бы не назвал «обломом» то, что мы избежали встречи с таким монстром. Но думаю, что вы обязательно с ним пересечётесь.
+
+**Паймон:** Да-да... Ты прав. Раз уж это такой сильный монстр, то, если и увидим, лучше обойти...
+
+**Дайнслейф:** Ха! Если бы все опасности путешествий можно было обойти. Это было бы прекрасно.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Ты, похоже, понимаешь в путешествиях.
+
+##### Вариант ответа 2
+
+- **Путешественник:** По опыту говоришь?
+
+##### Общее продолжение
+
+**Дайнслейф:** Было время, да... Когда я путешествовал с тем спутником, всякое повидал.
+
+**Паймон:** Эм, Дайн, ты всё время говоришь про какого-то спутника...
+
+**Паймон:** Где сейчас этот спутник?
+
+**Дайнслейф:** Она... / Он...
+
+**Дайнслейф:** Она больше не путешествует. / Он больше не путешествует.
+
+**Дайнслейф:** Иногда люди слишком устают от путешествий.
+
+**Паймон:** Вот оно как... А почему ты всё ещё путешествуешь?
+
+**Дайнслейф:** Я... У меня ещё остались дела. Как доделаю - вернусь домой.
+
+**Паймон:** Хорошо, когда есть куда вернуться. Нам вот приходится под открытым небом ночевать.
+
+**Паймон:** Слушай, Путешественник, когда ты найдёшь свою сестру, мы где жить будем? / Слушай, Путешественник, когда ты найдёшь своего брата, мы где жить будем?
+
+**Паймон:** В Мондштадте - вкусные рыбацкие бутерброды, а в Ли Юэ - «Народный выбор»...
+
+**Паймон:** Главное - поселиться там, где есть вкусная еда.
+
+- **Путешественник:** Что-то ты забегаешь вперёд...
+
+**Дайнслейф:** Дом...
+
+**Дайнслейф:** Ничего, решить, где поселитесь, можно и после окончания пути.
+
+**Дайнслейф:** А в дороге надо...
+
+- **Путешественник:** Знакомое ощущение... Там на скале.
+
+**Паймон:** А? Какое такое ощущение?
+
+- **Путешественник:** В прошлый раз я тоже такое почувствовал на секунду... / В прошлый раз я тоже такое почувствовала на секунду...
+
+**Дайнслейф:** Знакомое ощущение?.. Это может быть хорошо знакомый человек или хорошо знакомый монстр.
+
+- **Путешественник:** Неужели... Бездна?
+
+**Дайнслейф:** Кто бы это ни был - если мы хотим узнать, то надо увидеть самим.
+
+**Дайнслейф:** Оттуда мы сможем подняться на скалу. Пойдём.
+
+#### Догоните Дайнслейфа
+
 **Дайнслейф:** То «знакомое ощущение» ещё не пропало?
 
-Где-то рядом.
+- **Путешественник:** Где-то рядом.
 
 **Паймон:** Но... Здесь нет ни монстров, ни людей, ничего.
 
 **Дайнслейф:** Действительно. Ничего подозрительного здесь нет. И с прошлого раза ничего не изменилось...
 
+##### Вариант ответа 1
+
 - **Путешественник:** С прошлого раза, говоришь?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты уже здесь был?
+
+##### Общее продолжение
 
 **Дайнслейф:** В одно из путешествий мой спутник уже приводил меня сюда.
 
@@ -507,81 +621,29 @@
 
 **Дайнслейф:** ...Хм?
 
-#### Поговорите с Дайнслейфом
+#### Следуйте за Дайнслейфом
 
-**Паймон:** Мы так и не увидели Вестника Бездны. Облом.
-
-Да уж, облом.
-
-**Дайнслейф:** Я бы не назвал «обломом» то, что мы избежали встречи с таким монстром. Но думаю, что вы обязательно с ним пересечётесь.
-
-**Паймон:** Да-да... Ты прав. Раз уж это такой сильный монстр, то, если и увидим, лучше обойти...
-
-**Дайнслейф:** Ха! Если бы все опасности путешествий можно было обойти. Это было бы прекрасно.
-
-- **Путешественник:** Ты, похоже, понимаешь в путешествиях.
-
-- **Путешественник:** По опыту говоришь?
-
-**Дайнслейф:** Было время, да... Когда я путешествовал с тем спутником, всякое повидал.
-
-**Паймон:** Эм, Дайн, ты всё время говоришь про какого-то спутника...
-
-**Паймон:** Где сейчас этот спутник?
-
-**Дайнслейф:** Она / Он...
-
-**Дайнслейф:** Она / Он больше не путешествует.
-
-**Дайнслейф:** Иногда люди слишком устают от путешествий.
-
-**Паймон:** Вот оно как... А почему ты всё ещё путешествуешь?
-
-**Дайнслейф:** Я... У меня ещё остались дела. Как доделаю - вернусь домой.
-
-**Паймон:** Хорошо, когда есть куда вернуться. Нам вот приходится под открытым небом ночевать.
-
-**Паймон:** Слушай, Путешественник, когда ты найдёшь свою сестру / своего брата, мы где жить будем?
-
-**Паймон:** В Мондштадте - вкусные рыбацкие бутерброды, а в Ли Юэ - «Народный выбор»...
-
-**Паймон:** Главное - поселиться там, где есть вкусная еда.
-
-Что-то ты забегаешь вперёд...
-
-**Дайнслейф:** Дом...
-
-**Дайнслейф:** Ничего, решить, где поселитесь, можно и после окончания пути.
-
-**Дайнслейф:** А в дороге надо...
-
-Знакомое ощущение... Там на скале.
-
-**Паймон:** А? Какое такое ощущение?
-
-В прошлый раз я тоже такое почувствовал(а) на секунду...
-
-**Дайнслейф:** Знакомое ощущение?.. Это может быть хорошо знакомый человек или хорошо знакомый монстр.
-
-Неужели... Бездна?
-
-**Дайнслейф:** Кто бы это ни был - если мы хотим узнать, то надо увидеть самим.
-
-**Дайнслейф:** Оттуда мы сможем подняться на скалу. Пойдём.
+#### Изучите одуванчик
 
 #### Поговорите с Дайнслейфом
 
-**Паймон:** Что с тобой? Чего вдруг задумался / задумалась?
+**Паймон:** Что с тобой? Чего вдруг задумался? / Что с тобой? Чего вдруг задумалась?
 
-- **Путешественник:** Этот одуванчик... напомнил мне о (нём)(ней).
+##### Вариант ответа 1
 
-- **Путешественник:** Я... почувствовал(а) её / его.
+- **Путешественник:** Этот одуванчик... напомнил мне о ней. / Этот одуванчик... напомнил мне о нём.
 
-**Паймон:** А? То есть (своего брата)(свою сестру)?!
+##### Вариант ответа 2
 
-**Паймон:** Но почему... Ты всего лишь прикоснулся / прикоснулась к одуванчику!
+- **Путешественник:** Я... почувствовал её. / Я... почувствовала его.
 
-Только что, когда я коснулся / коснулась его...
+##### Общее продолжение
+
+**Паймон:** А? То есть свою сестру?! / А? То есть своего брата?!
+
+**Паймон:** Но почему... Ты всего лишь прикоснулся к одуванчику! / Но почему... Ты всего лишь прикоснулась к одуванчику!
+
+- **Путешественник:** Только что, когда я коснулся его... / Только что, когда я коснулась его...
 
 **Дайнслейф:** ...
 
@@ -591,17 +653,17 @@
 
 **Паймон:** Ты говоришь какую-то чепуху. Паймон вообще ничего не поняла...
 
-В любом случае я выясню...
+- **Путешественник:** В любом случае я выясню...
 
 **Дайнслейф:** Не стоит торопиться.
 
 **Дайнслейф:** Горе и тревога - враги разума. Твой путь лишь только начался, не так ли?
 
-**Дайнслейф:** Теперь ты знаешь, что она / он ещё в этом мире.
+**Дайнслейф:** Теперь ты знаешь, что она ещё в этом мире. / Теперь ты знаешь, что он ещё в этом мире.
 
-**Дайнслейф:** Теперь самое главное - само «путешествие» в поисках её / его.
+**Дайнслейф:** Теперь самое главное - само «путешествие» в поисках её. / Теперь самое главное - само «путешествие» в поисках его.
 
-Я обязательно её / его найду.
+- **Путешественник:** Я обязательно её найду. / Я обязательно его найду.
 
 **Дайнслейф:** Запомни эту фразу, сделай её целью своего путешествия.
 
@@ -611,7 +673,7 @@
 
 **Дайнслейф:** Лишь на время. Не волнуйся, мы потом ещё встретимся.
 
-**Дайнслейф:** ...Ведь всё-таки ты дал(а) мне пятьсот моры и три ответа.
+**Дайнслейф:** ...Ведь всё-таки ты дал мне пятьсот моры и три ответа. / ...Ведь всё-таки ты дала мне пятьсот моры и три ответа.
 
 ## EN
 
@@ -625,9 +687,15 @@ Katheryne of the Mondstadt Adventurers' Guild seems to have something to tell yo
 
 **Katheryne:** It has been a while since you joined the Adventurers' Guild. Are your adventures going smoothly?
 
+##### Response branch 1
+
 - **Traveler:** I'm recruiting new allies...
 
+##### Response branch 2
+
 - **Traveler:** More companions would be nice...
+
+##### Shared continuation
 
 **Katheryne:** Hmm... is that so? Apart from your own skills, reliable teammates are also indispensable when adventuring.
 
@@ -643,13 +711,13 @@ Katheryne of the Mondstadt Adventurers' Guild seems to have something to tell yo
 
 **Paimon:** W—Wait — do you mean...
 
-Could it be...?
+- **Traveler:** Could it be...?
 
-**Paimon:** Does that stranger's face look... anything like his / hers!?
+**Paimon:** Does that stranger's face look... anything like his!? / Does that stranger's face look... anything like hers!?
 
 **Katheryne:** Hmm? Like the Honorary Knight's? No, they couldn't look more different. This stranger is a very tall man, and even has an eyepatch...
 
-So, just some distant relative of Kaeya's, then...
+- **Traveler:** So, just some distant relative of Kaeya's, then...
 
 **Paimon:** Seriously? How does this have anything to do with Kaeya? Eyepatches can't prove that you're related, anyway!
 
@@ -661,15 +729,21 @@ So, just some distant relative of Kaeya's, then...
 
 **Katheryne:** And should this stranger be a strong adventurer indeed, he would certainly be a big help on your journey.
 
+##### Response branch 1
+
 - **Traveler:** But if he's already rejected the Guild...
 
+##### Response branch 2
+
 - **Traveler:** Sounds like a tough customer...
+
+##### Shared continuation
 
 **Katheryne:** Please, don't talk down on yourself like that. You are the Honorary Knight of the Knights of Favonius, after all.
 
 **Katheryne:** Your deeds are the stuff of song for all the bards in the city even now.
 
-Well, alright then. About that stranger...
+- **Traveler:** Well, alright then. About that stranger...
 
 **Katheryne:** Well, as to further news about him... You may want to ask Mr. Lawrence.
 
@@ -681,7 +755,7 @@ Well, alright then. About that stranger...
 
 **Lawrence:** Ah, Honorary Knight. Is something the matter?
 
-So, I'm looking for a stranger with an eyepatch...
+- **Traveler:** So, I'm looking for a stranger with an eyepatch...
 
 **Lawrence:** A stranger with an eyepatch? Hmm... let me think. Oh yeah. I remember seeing someone like that. A blond stranger dressed in unusual garb.
 
@@ -699,11 +773,13 @@ So, I'm looking for a stranger with an eyepatch...
 
 **Lawrence:** You should go ask him. Maybe he has more news about our stranger.
 
+**Lawrence:** Huh... I wonder what trouble this stranger brings with him...
+
 #### Ask Wagner about the stranger
 
 **Wagner:** What? You need something?
 
-So, I'm looking for a stranger with an eyepatch...
+- **Traveler:** So, I'm looking for a stranger with an eyepatch...
 
 **Wagner:** I remember him. He showed up a few days ago, asking to buy a bunch of forging materials.
 
@@ -717,11 +793,13 @@ So, I'm looking for a stranger with an eyepatch...
 
 **Paimon:** Anyway, let's go to the Angel's Share and have a look.
 
+**Wagner:** Do those forging materials even exist...
+
 #### Ask Charles about the stranger
 
 **Charles:** What will it be, grape juice or apple cider?
 
-Another day, another lack of alcoholic options...
+- **Traveler:** Another day, another lack of alcoholic options...
 
 **Paimon:** Hey Charles, have you seen a blond stranger who wears an eyepatch around here by any chance?
 
@@ -741,23 +819,25 @@ Another day, another lack of alcoholic options...
 
 **Charles:** There's too many raucous patrons on the first floor, so if you want to wait, best to go to the second.
 
+**Charles:** That customer will most likely be here tonight. You can wait on the second floor until he arrives.
+
 #### Go to the second floor of the tavern and wait on the seat by the railing
 
 **???:** ...
 
-Hi, I'm an adventurer with the Adventurers' Guild.
+- **Traveler:** Hi, I'm an adventurer with the Adventurers' Guild.
 
 **???:** ...
 
-How do you do? I'm an Honorary Knight of Favonius...
+- **Traveler:** How do you do? I'm an Honorary Knight of Favonius...
 
 **Paimon:** Wow, he's got no intention of paying us any mind, huh...
 
-So, uh, I'm a traveler...
+- **Traveler:** So, uh, I'm a traveler...
 
 **???:** A traveler... you say? Hmph. Why are you traveling?
 
-I'm looking for my lost relative.
+- **Traveler:** I'm looking for my lost relative.
 
 **???:** ...
 
@@ -767,71 +847,97 @@ I'm looking for my lost relative.
 
 **???:** Hmm. That little one beside you...
 
-- **Traveler:** Emergency food.
+##### Response branch 1
 
-- **Traveler:** My best chum.
+- **Traveler:** Emergency food.
 
 **Paimon:** That's not true, and you know it!
 
+##### Response branch 2
+
+- **Traveler:** My best chum.
+
 **Paimon:** Uh-huh, we're the best of friends!
+
+##### Shared continuation
 
 **???:** It's indeed a good thing to have someone accompany you on your travels.
 
 **Dainsleif:** My name's Dainsleif. I suppose you have some business with me?
 
-Well, I was hoping to invite you to adventure with us...
+- **Traveler:** Well, I was hoping to invite you to adventure with us...
 
 **Dainsleif:** Sure.
 
-...Huh?
+- **Traveler:** ...Huh?
 
 **Paimon:** (And he was so cold just a moment before... Paimon's got a baaaad feeling about this!)
 
 **Dainsleif:** But I will require advance payment.
 
+##### Response branch 1
+
 - **Traveler:** P—payment, you say...
 
+##### Response branch 2
+
 - **Traveler:** H—How much?
+
+##### Shared continuation
 
 **Dainsleif:** 500 Mora, and three answered questions.
 
 **Dainsleif:** The 500 is a one-time fee, and we'll settle the questions in a moment.
 
-That's... it?
+- **Traveler:** That's... it?
 
 **Dainsleif:** That's it.
 
 **Paimon:** Well, now Paimon's got a really bad feeling. That kind of compensation can't be right...
 
-Well, here's the 500 Mora...
+- **Traveler:** Well, here's the 500 Mora...
 
 **Dainsleif:** Ah, thank you. Now, as for my questions, I'd like you to answer them here and now...
 
+##### Response branch 1
+
 - **Traveler:** And if I answer wrongly?
 
+##### Response branch 2
+
 - **Traveler:** Do I need to answer them all correctly?
+
+##### Shared continuation
 
 **Dainsleif:** The answer to a question says nothing about right and wrong. Only about differences in attitude.
 
 **Dainsleif:** I only wish to know what your choices are. You need only answer.
 
-Well, alright then.
+- **Traveler:** Well, alright then.
 
 **Dainsleif:** Question one.
 
 **Dainsleif:** The crisis Mondstadt faced was resolved by an alliance between yourself and that... Anemo Archon who calls himself Venti. Who, in your view, was the key to ending that crisis?
 
-How did you know that Venti is...!?
+- **Traveler:** How did you know that Venti is...!?
 
 **Dainsleif:** I know everything that I should.
 
 **Dainsleif:** Haha... Well...? Answer the question.
 
+##### Response branch 1
+
 - **Traveler:** It was Venti.
+
+##### Response branch 2
 
 - **Traveler:** It was me.
 
+##### Response branch 3
+
 - **Traveler:** The unity of Mondstadt's people gave us the victory.
+
+##### Shared continuation
 
 **Dainsleif:** Is that your answer? Hm... I see.
 
@@ -841,11 +947,19 @@ How did you know that Venti is...!?
 
 **Dainsleif:** Who do you think will defend Liyue Harbor in the future, now that they've lost their deity?
 
+##### Response branch 1
+
 - **Traveler:** The adepti.
+
+##### Response branch 2
 
 - **Traveler:** The Liyue Qixing.
 
+##### Response branch 3
+
 - **Traveler:** Everyone in Liyue Harbor.
+
+##### Shared continuation
 
 **Dainsleif:** So that's your answer... I see.
 
@@ -855,14 +969,21 @@ How did you know that Venti is...!?
 
 **Dainsleif:** Which of the two do you think hold more importance in the eyes of the gods?
 
+##### Response branch 1
+
 - **Traveler:** Those with Visions.
+
+##### Response branch 2
 
 - **Traveler:** Those without Visions.
 
+##### Response branch 3
+
 - **Traveler:** Perhaps... none of them do.
 
-**Dainsleif:** So... this is your answer, then... I understand.
+##### Shared continuation
 
+**Dainsleif:** So... this is your answer, then... I understand.
 
 **Charles:** Ah, welcome, sir. The wine that you previously ordered is here.
 
@@ -870,9 +991,9 @@ How did you know that Venti is...!?
 
 #### Go to the first floor of the tavern and find the stranger
 
-**Dainsleif:** As I thought... you really are similar to her / him.
+**Dainsleif:** It seems that you're different from her... / It seems that you're different from him...
 
-What do you mean, "her / him"?
+- **Traveler:** What do you mean, "her"? / What do you mean, "him"?
 
 **Dainsleif:** ...
 
@@ -882,7 +1003,7 @@ What do you mean, "her / him"?
 
 **Dainsleif:** Like you, I am currently on a journey. You intend to find your sibling, while I wish to oppose the Abyss.
 
-Well, I have met some Abyss Mages in the past...
+- **Traveler:** Well, I have met some Abyss Mages in the past...
 
 **Dainsleif:** Ugh... Those creatures that serve the Abyss are the fangs and claws by which the Order spreads chaos in this world.
 
@@ -892,7 +1013,7 @@ Well, I have met some Abyss Mages in the past...
 
 **Dainsleif:** An even more twisted Abyssal being, one that commands the Abyss Mages.
 
-Come to think of it, since the Stormterror incident ended, we haven't...
+- **Traveler:** Come to think of it, since the Stormterror incident ended, we haven't...
 
 **Paimon:** Ooh, that's right! We've just been fighting against the Fatui in Liyue, who are human too...
 
@@ -904,63 +1025,31 @@ Come to think of it, since the Stormterror incident ended, we haven't...
 
 **Paimon:** That does sound pretty dangerous... Maybe they're looking for a better time to ambush us or something...
 
+##### Response branch 1
+
 - **Traveler:** They won't defeat me.
+
+##### Response branch 2
 
 - **Traveler:** I'll defeat them.
 
+##### Shared continuation
+
 **Paimon:** Uh-huh! We're super-duper strong!
 
-**Dainsleif:** (That manner... it's just like hers / his.)
+**Dainsleif:** (That manner... it's just like hers.) / (That manner... it's just like his.)
 
 **Dainsleif:** Well then, let's go see for ourselves, shall we? According to the leads I have on hand, the Abyss Order has re-infiltrated the Temple of the Falcon.
 
 **Dainsleif:** Let's meet up at the temple. Perhaps your questions about the Abyss will be answered there.
 
-**Dainsleif:** It seems that you're different from her / him...
+**Dainsleif:** As I thought... you really are similar to her. / As I thought... you really are similar to him.
 
-What do you mean, "her / him"?
+##### Response branch 1
 
-**Dainsleif:** ...
+##### Response branch 2
 
-**Dainsleif:** I'll take that 500 Mora... and now I also understand your views on this world. As we agreed, you may now commission me.
-
-**Dainsleif:** That said, I only take commissions related to the Abyss Order.
-
-**Dainsleif:** Like you, I am currently on a journey. You intend to find your sibling, while I wish to oppose the Abyss.
-
-Well, I have met some Abyss Mages in the past...
-
-**Dainsleif:** Ugh... Those creatures that serve the Abyss are the fangs and claws by which the Order spreads chaos in this world.
-
-**Dainsleif:** I have come to Mondstadt this time while on the trail of an Abyss Herald...
-
-**Paimon:** An Abyss Herald?
-
-**Dainsleif:** An even more twisted Abyssal being, one that commands the Abyss Mages.
-
-Come to think of it, since the Stormterror incident ended, we haven't...
-
-**Paimon:** Ooh, that's right! We've just been fighting against the Fatui in Liyue, who are human too...
-
-**Paimon:** We haven't encountered the non-human Abyss Order at all.
-
-**Dainsleif:** There's some reason behind that, I'm afraid.
-
-**Dainsleif:** It's possible that they may have been under orders to avoid your path.
-
-**Paimon:** That does sound pretty dangerous... Maybe they're looking for a better time to ambush us or something...
-
-- **Traveler:** They won't defeat me.
-
-- **Traveler:** I'll defeat them.
-
-**Paimon:** Uh-huh! We're super-duper strong!
-
-**Dainsleif:** (That manner... it's just like hers / his.)
-
-**Dainsleif:** Well then, let's go see for ourselves, shall we? According to the leads I have on hand, the Abyss Order has re-infiltrated the Temple of the Falcon.
-
-**Dainsleif:** Let's meet up at the temple. Perhaps your questions about the Abyss will be answered there.
+##### Shared continuation
 
 #### Go to the Temple of the Falcon
 
@@ -968,19 +1057,19 @@ Come to think of it, since the Stormterror incident ended, we haven't...
 
 **Dainsleif:** The Falcon of the West... though it can soar in the wind, it ultimately does naught but hover under the light of the gods...
 
-What are you talking about?
+- **Traveler:** What are you talking about?
 
 **Dainsleif:** Mm? Oh, it's nothing. Let's head inside.
 
-#### Continue exploring
+#### Enter the Temple of the Falcon
 
-**Lawrence:** Huh... I wonder what trouble this stranger brings with him...
+#### Continue exploring
 
 #### Talk to Dainsleif
 
 **Dainsleif:** Just a few Abyss Mages? Seems like that Herald might have already left.
 
-Could you tell me more about the Abyss Order?
+- **Traveler:** Could you tell me more about the Abyss Order?
 
 **Dainsleif:** The Abyss...
 
@@ -1000,9 +1089,9 @@ Could you tell me more about the Abyss Order?
 
 **Dainsleif:** Perhaps we may find our Abyss Herald there.
 
-#### Go to Wolvendom
+#### Leave the Temple of the Falcon
 
-**Wagner:** Do those forging materials even exist...
+#### Go to Wolvendom
 
 #### Talk to Dainsleif
 
@@ -1010,9 +1099,15 @@ Could you tell me more about the Abyss Order?
 
 **Dainsleif:** Sharp of fang and keen of claw, and yet dwelling here only...
 
+##### Response branch 1
+
 - **Traveler:** You know that wolf?
 
+##### Response branch 2
+
 - **Traveler:** You familiar with that wolf?
+
+##### Shared continuation
 
 **Dainsleif:** No, nor does it know me.
 
@@ -1026,19 +1121,17 @@ Could you tell me more about the Abyss Order?
 
 **Dainsleif:** Knowing what I do of the Order's habits, they've probably left similar marks behind elsewhere. Let's have a look nearby.
 
-#### Look for clues related to the Abyss Order in Wolvendom
-
-**Charles:** That customer will most likely be here tonight. You can wait on the second floor until he arrives.
-
-#### Look for clues related to the Abyss Order in Wolvendom
-
 **Dainsleif:** So, their reach extends here, too... Let's have a closer look.
+
+#### Look for clues related to the Abyss Order in Wolvendom
+
+#### Look for clues related to the Abyss Order in Wolvendom
 
 #### Talk to Dainsleif
 
 **Dainsleif:** Have you finished searching?
 
-We found lots of signs of the Abyss Order...
+- **Traveler:** We found lots of signs of the Abyss Order...
 
 **Dainsleif:** I searched around these parts and found some signs myself.
 
@@ -1076,33 +1169,13 @@ We found lots of signs of the Abyss Order...
 
 #### Go deeper into Stormterror's Lair
 
-**Dainsleif:** Can you still sense that familiar feeling that you spoke of earlier?
-
-It's nearby.
-
-**Paimon:** But... it doesn't feel like there's anything around here. No monsters, no people, nothing.
-
-**Dainsleif:** Indeed, there doesn't seem to be anything strange about this place. It doesn't look any different from the last time I was here...
-
-- **Traveler:** "Last time," you say?
-
-- **Traveler:** You've been here before?
-
-**Dainsleif:** My traveling companion brought me here on our previous journey.
-
-**Paimon:** So, Dain, what about you? What's your favorite place?
-
-**Dainsleif:** Me? I... no longer remember.
-
-**Dainsleif:** I merely followed my traveling companion around on that journey. That's all there was to it.
-
-**Dainsleif:** ...Hmm?
+#### Defeat all opponents
 
 #### Talk to Dainsleif
 
 **Paimon:** So in the end, we still couldn't find that Abyss Herald. Bummer.
 
-It is quite a shame.
+- **Traveler:** It is quite a shame.
 
 **Dainsleif:** I wouldn't call not having to gaze upon such a creature a "shame," exactly. Still, I do believe that you will come across one eventually.
 
@@ -1110,9 +1183,15 @@ It is quite a shame.
 
 **Dainsleif:** *sigh* How good it would be if all perils one encounters in their journeys could simply be solved by going around them.
 
+##### Response branch 1
+
 - **Traveler:** You seem to be familiar with journeys.
 
+##### Response branch 2
+
 - **Traveler:** Speaking from experience, are we?
+
+##### Shared continuation
 
 **Dainsleif:** Once upon a time, yes... I simply have experience from adventuring together with that traveling companion.
 
@@ -1120,7 +1199,7 @@ It is quite a shame.
 
 **Paimon:** Where are they now, anyway?
 
-**Dainsleif:** She / He... *sigh*
+**Dainsleif:** She... *sigh* / He... *sigh*
 
 **Dainsleif:** No longer travels.
 
@@ -1138,7 +1217,7 @@ It is quite a shame.
 
 **Paimon:** Eh, either way, we should settle down in a place where there's good food!
 
-Getting a bit ahead of ourselves, I think...
+- **Traveler:** Getting a bit ahead of ourselves, I think...
 
 **Dainsleif:** Home...
 
@@ -1146,33 +1225,73 @@ Getting a bit ahead of ourselves, I think...
 
 **Dainsleif:** While you're still traveling, you should...
 
-...I sense something familiar. On that cliff.
+- **Traveler:** ...I sense something familiar. On that cliff.
 
 **Paimon:** Eh? What's familiar?
 
-I felt it for a moment the previous time we came here, too...
+- **Traveler:** I felt it for a moment the previous time we came here, too...
 
 **Dainsleif:** A familiar feeling, you say? It could be someone you know well, or perhaps a monster.
 
-Could it be... the Abyss?
+- **Traveler:** Could it be... the Abyss?
 
 **Dainsleif:** Whichever it is, we should see it for ourselves, and thus see clearly.
 
 **Dainsleif:** We can reach the top of that cliff from over there. Let's go.
 
+#### Catch up to Dainsleif
+
+**Dainsleif:** Can you still sense that familiar feeling that you spoke of earlier?
+
+- **Traveler:** It's nearby.
+
+**Paimon:** But... it doesn't feel like there's anything around here. No monsters, no people, nothing.
+
+**Dainsleif:** Indeed, there doesn't seem to be anything strange about this place. It doesn't look any different from the last time I was here...
+
+##### Response branch 1
+
+- **Traveler:** "Last time," you say?
+
+##### Response branch 2
+
+- **Traveler:** You've been here before?
+
+##### Shared continuation
+
+**Dainsleif:** My traveling companion brought me here on our previous journey.
+
+**Paimon:** So, Dain, what about you? What's your favorite place?
+
+**Dainsleif:** Me? I... no longer remember.
+
+**Dainsleif:** I merely followed my traveling companion around on that journey. That's all there was to it.
+
+**Dainsleif:** ...Hmm?
+
+#### Follow Dainsleif
+
+#### Go and examine the dandelion
+
 #### Talk to Dainsleif
 
 **Paimon:** What's gotten into you? You were just spacing out!
 
+##### Response branch 1
+
 - **Traveler:** This dandelion... reminds me of...
 
-- **Traveler:** I... could feel her / him.
+##### Response branch 2
 
-**Paimon:** Eh? You mean your sister / brother?
+- **Traveler:** I... could feel her. / I... could feel him.
+
+##### Shared continuation
+
+**Paimon:** Eh? You mean your sister? / Eh? You mean your brother?
 
 **Paimon:** But, how could that be... You only touched that dandelion for a second!
 
-Yes, the moment I touched it...
+- **Traveler:** Yes, the moment I touched it...
 
 **Dainsleif:** ...
 
@@ -1182,17 +1301,17 @@ Yes, the moment I touched it...
 
 **Paimon:** Uh, you're saying some real confusing stuff. Paimon doesn't get it at all...
 
-Regardless, I have to get to the bottom of th—!
+- **Traveler:** Regardless, I have to get to the bottom of th—!
 
 **Dainsleif:** Do not rush.
 
 **Dainsleif:** Vexation and anxiety are the enemy of rational thought. Your journey has only just begun, has it not?
 
-**Dainsleif:** At least you now know that she / he is still on this world.
+**Dainsleif:** At least you now know that she is still on this world. / At least you now know that he is still on this world.
 
-**Dainsleif:** At this time, the most important thing is the journey to find her / him itself.
+**Dainsleif:** At this time, the most important thing is the journey to find her itself. / At this time, the most important thing is the journey to find him itself.
 
-And I will find her / him.
+- **Traveler:** And I will find her. / And I will find him.
 
 **Dainsleif:** Yes, and this is something you must keep in mind as the meaning behind your journey.
 
@@ -1208,6 +1327,34 @@ And I will find her / him.
 
 ### 拾枝者·戴因斯雷布
 
+#### 任务记录
+
+**派蒙:** 那位陌生人的脸，和…和空/荧的样子像不像？！
+
+**戴因斯雷布:** 果然…你和荧/空非常相似。
+
+什么意思？你说的「荧/空」是在说谁？
+
+**戴因斯雷布:** （真是…和荧/空一模一样的气势。）
+
+**戴因斯雷布:** 看来…你还是和荧/空不一样。
+
+什么意思？你说的「荧/空」是在说谁？
+
+**戴因斯雷布:** （真是…和荧/空一模一样的气势。）
+
+**戴因斯雷布:** 荧/空不再旅行了。
+
+- **旅行者:** 我…感受到荧/空了。
+
+**派蒙:** 欸？你，你是说…感受到荧/空了吗？！
+
+**戴因斯雷布:** 至少，现在你知道了，荧/空还在这个世界上。
+
+**戴因斯雷布:** 在这种时刻，最重要的事，就是这场寻找荧/空的「旅行」。
+
+我一定会找到荧/空的。
+
 蒙德城冒险家协会的凯瑟琳小姐似乎有什么事想要告诉你…
 
 #### 与蒙德的凯瑟琳对话
@@ -1216,9 +1363,15 @@ And I will find her / him.
 
 **凯瑟琳:** 您加入冒险家协会也有一段时间了，冒险活动开展得还顺利吗？
 
+##### 对话分支 1
+
 - **旅行者:** 正在招募同伴…
 
+##### 对话分支 2
+
 - **旅行者:** 要是同伴能再多点就好了…
+
+##### 共同后续
 
 **凯瑟琳:** 嗯…也是，就冒险活动这一方面来说，除了自身的实力之外，可靠的伙伴也是不可或缺的。
 
@@ -1234,13 +1387,13 @@ And I will find her / him.
 
 **派蒙:** 等等，等一下，难道…
 
-难道…！
+- **旅行者:** 难道…！
 
-**派蒙:** 那位陌生人的脸，和…和空/荧的样子像不像？！
+**派蒙:** 那位陌生人的脸，和…和他的样子像不像？！ / 那位陌生人的脸，和…和她的样子像不像？！
 
 **凯瑟琳:** 咦？和荣誉骑士吗？差别还挺大的呢，是一个很高大的男人，还戴着一个眼罩…
 
-看来只是凯亚的远亲…
+- **旅行者:** 看来只是凯亚的远亲…
 
 **派蒙:** 喂，这又和凯亚那家伙有什么关系？为什么眼罩会成为亲属关系的证明物啦。
 
@@ -1252,15 +1405,21 @@ And I will find her / him.
 
 **凯瑟琳:** 而且，如果那位陌生人真是位实力强大的冒险家，一定能对您的冒险有很大帮助。
 
+##### 对话分支 1
+
 - **旅行者:** 他已经拒绝了协会…
 
+##### 对话分支 2
+
 - **旅行者:** 他可能不容易交流吧…
+
+##### 共同后续
 
 **凯瑟琳:** 请您自信一些，您可是西风骑士团的「荣誉骑士」啊。
 
 **凯瑟琳:** 您的事迹到现在为止还被那些吟游诗人们不断地传唱呢。
 
-好吧，关于那位陌生人的信息…
+- **旅行者:** 好吧，关于那位陌生人的信息…
 
 **凯瑟琳:** 嗯…有关他的消息…您可以先去问问劳伦斯先生。
 
@@ -1272,7 +1431,7 @@ And I will find her / him.
 
 **劳伦斯:** 啊…荣誉骑士，您有什么事吗？
 
-关于戴着眼罩的陌生人…
+- **旅行者:** 关于戴着眼罩的陌生人…
 
 **劳伦斯:** 戴着眼罩、衣着奇异的金发陌生人？我想想啊…有点印象。
 
@@ -1290,11 +1449,13 @@ And I will find her / him.
 
 **劳伦斯:** 你去问问瓦格纳吧，说不定他也知道一点关于那家伙的消息。
 
+**劳伦斯:** 不知道这次的陌生人，又会带来什么麻烦事…
+
 #### 向瓦格纳打听那位「陌生人」的消息
 
 **瓦格纳:** 怎么，你有什么事吗？
 
-关于戴着眼罩的陌生人…
+- **旅行者:** 关于戴着眼罩的陌生人…
 
 **瓦格纳:** 我记得，他前几天确实来过这里，说是想要买一批锻造材料。
 
@@ -1308,11 +1469,13 @@ And I will find her / him.
 
 **派蒙:** 唔，总之我们先去「天使的馈赠」看看吧。
 
+**瓦格纳:** 那家伙说的那些锻造材料，真的存在吗…
+
 #### 向查尔斯打听那位「陌生人」的消息
 
 **查尔斯:** 葡萄汁，还是苹果酿？
 
-对我完全没有酒的选项啊…
+- **旅行者:** 对我完全没有酒的选项啊…
 
 **派蒙:** 查尔斯先生，请问您见过一位戴着眼罩的金发陌生人吗？
 
@@ -1332,23 +1495,25 @@ And I will find her / him.
 
 **查尔斯:** 一楼的客人太多，声音太嘈杂，您要等的话，就去二楼等一下吧。
 
+**查尔斯:** 那位客人应该会在晚上光顾，您可以先去二楼等等。
+
 #### 去酒馆二楼靠栏杆的座位坐下等待
 
 **？？？:** ……
 
-你好，我是冒险家协会的冒险家…
+- **旅行者:** 你好，我是冒险家协会的冒险家…
 
 **？？？:** ……
 
-您好，我是西风骑士团的荣誉骑士…
+- **旅行者:** 您好，我是西风骑士团的荣誉骑士…
 
 **派蒙:** 完全没有搭理我们的意思啊…
 
-那个…我是旅行者…
+- **旅行者:** 那个…我是旅行者…
 
 **？？？:** 旅行者…哼。你为什么要旅行？
 
-为了寻找失散的亲人。
+- **旅行者:** 为了寻找失散的亲人。
 
 **？？？:** ……
 
@@ -1358,71 +1523,97 @@ And I will find her / him.
 
 **？？？:** 你旁边的这个小东西…
 
-- **旅行者:** 是应急食品。
+##### 对话分支 1
 
-- **旅行者:** 是最好的伙伴。
+- **旅行者:** 是应急食品。
 
 **派蒙:** 喂！完全不对！
 
+##### 对话分支 2
+
+- **旅行者:** 是最好的伙伴。
+
 **派蒙:** 嗯，我们是最好的伙伴！
+
+##### 共同后续
 
 **？？？:** 旅行的时候有人陪着，倒也不错。
 
 **戴因斯雷布:** 我的名字是戴因斯雷布。你找我有什么事吗？
 
-其实…是冒险家活动的招募…
+- **旅行者:** 其实…是冒险家活动的招募…
 
 **戴因斯雷布:** 好。
 
-…啊？
+- **旅行者:** …啊？
 
 **派蒙:** （明明是这么冷淡的人…这样答应下来，让人非常不安！）
 
 **戴因斯雷布:** 但是，你要提前支付我报酬。
 
+##### 对话分支 1
+
 - **旅行者:** 报，报酬…
 
+##### 对话分支 2
+
 - **旅行者:** 要，要多少？
+
+##### 共同后续
 
 **戴因斯雷布:** 500摩拉，和三个问题。
 
 **戴因斯雷布:** 500摩拉一次性支付，三个问题稍后再问。
 
-就…这些？
+- **旅行者:** 就…这些？
 
 **戴因斯雷布:** 就这些。
 
 **派蒙:** 这种报酬，更加让人不安了，总觉得会有什么问题…
 
-这500摩拉您收好…
+- **旅行者:** 这500摩拉您收好…
 
 **戴因斯雷布:** 我收下了。那么还有三个问题，你得在这里回答我。
 
+##### 对话分支 1
+
 - **旅行者:** 答错了的话会怎样？
 
+##### 对话分支 2
+
 - **旅行者:** 我必须要全部答对吗？
+
+##### 共同后续
 
 **戴因斯雷布:** 对一个问题的「回答」没有对错之分，只是不同「态度」的昭示。
 
 **戴因斯雷布:** 我只想知道你的选择，你只需要做出回答就好。
 
-我知道了。
+- **旅行者:** 我知道了。
 
 **戴因斯雷布:** 第一个问题。
 
 **戴因斯雷布:** 蒙德城的龙灾，是你和那位…自称温迪的风神，联手解决的。在你看来，终结龙灾的关键是谁？
 
-你怎么知道温迪是…！
+- **旅行者:** 你怎么知道温迪是…！
 
 **戴因斯雷布:** 我知道一切我应该知道的事。
 
 **戴因斯雷布:** 回答我的问题吧。
 
+##### 对话分支 1
+
 - **旅行者:** 是温迪。
+
+##### 对话分支 2
 
 - **旅行者:** 是我。
 
+##### 对话分支 3
+
 - **旅行者:** 是所有齐心协力的蒙德人。
+
+##### 共同后续
 
 **戴因斯雷布:** 这就是你的回答吗…我知道了。
 
@@ -1432,11 +1623,19 @@ And I will find her / him.
 
 **戴因斯雷布:** 你认为，在失去了神明以后，璃月港又会由谁来守护？
 
+##### 对话分支 1
+
 - **旅行者:** 仙人们。
+
+##### 对话分支 2
 
 - **旅行者:** 璃月七星。
 
+##### 对话分支 3
+
 - **旅行者:** 璃月港里的所有人。
+
+##### 共同后续
 
 **戴因斯雷布:** 这就是你的回答吗…我知道了。
 
@@ -1446,14 +1645,21 @@ And I will find her / him.
 
 **戴因斯雷布:** 你认为，对神灵而言，这两种人里，哪一种更加重要？
 
+##### 对话分支 1
+
 - **旅行者:** 拥有「神之眼」的人。
+
+##### 对话分支 2
 
 - **旅行者:** 没有「神之眼」的人。
 
+##### 对话分支 3
+
 - **旅行者:** 也许…都不重要。
 
-**戴因斯雷布:** 这就是你的回答吗…我知道了。
+##### 共同后续
 
+**戴因斯雷布:** 这就是你的回答吗…我知道了。
 
 **查尔斯:** 啊，欢迎光临，先生。您预订的酒已经准备好了。
 
@@ -1461,9 +1667,9 @@ And I will find her / him.
 
 #### 前往酒馆一楼，寻找那位「陌生人」
 
-**戴因斯雷布:** 果然…你和荧/空非常相似。
+**戴因斯雷布:** 看来…你还是和她不一样。 / 看来…你还是和他不一样。
 
-什么意思？你说的「荧/空」是在说谁？
+- **旅行者:** 什么意思？你说的「她」是在说谁？ / 什么意思？你说的「他」是在说谁？
 
 **戴因斯雷布:** ……
 
@@ -1473,7 +1679,7 @@ And I will find her / him.
 
 **戴因斯雷布:** 我和你一样，正在旅行之中。你是为了寻找亲人，而我，是为了对抗深渊。
 
-我倒是遇见过一些「深渊法师」…
+- **旅行者:** 我倒是遇见过一些「深渊法师」…
 
 **戴因斯雷布:** 嗯，这些侍奉深渊的怪物，是「深渊教团」在这世上散播混乱的爪牙。
 
@@ -1483,7 +1689,7 @@ And I will find her / him.
 
 **戴因斯雷布:** 是深渊中的一种更扭曲的怪物，深渊法师们的统领。
 
-这么说来，龙灾之后，好像一直…
+- **旅行者:** 这么说来，龙灾之后，好像一直…
 
 **派蒙:** 啊，对哦！龙灾之后，我们好像就一直在璃月，和愚人众这种「人类内部的」恶势力纠缠…
 
@@ -1495,63 +1701,31 @@ And I will find her / him.
 
 **派蒙:** 听上去好危险…是为了在更合适的时机埋伏我们吗…
 
+##### 对话分支 1
+
 - **旅行者:** 它们打不倒我。
+
+##### 对话分支 2
 
 - **旅行者:** 我会打倒它们的。
 
+##### 共同后续
+
 **派蒙:** 嗯！我们可是很厉害的。
 
-**戴因斯雷布:** （真是…和荧/空一模一样的气势。）
+**戴因斯雷布:** （真是…和她一模一样的气势。） / （真是…和他一模一样的气势。）
 
 **戴因斯雷布:** 也好，我们去实地看看吧。根据我手上的一些线索，深渊教团曾经重新进入过「西风之鹰的庙宇」。
 
 **戴因斯雷布:** 在那里汇合吧。你对深渊的疑惑，或许在那里会有解答。
 
-**戴因斯雷布:** 看来…你还是和荧/空不一样。
+**戴因斯雷布:** 果然…你和她非常相似。 / 果然…你和他非常相似。
 
-什么意思？你说的「荧/空」是在说谁？
+##### 对话分支 1
 
-**戴因斯雷布:** ……
+##### 对话分支 2
 
-**戴因斯雷布:** 500摩拉我收下了，你对世界的认知…我也多少了解了一些。那么，按照约定，你可以「委托」我做事了。
-
-**戴因斯雷布:** 不过，我只接受和「深渊教团」有关的委托。
-
-**戴因斯雷布:** 我和你一样，正在旅行之中。你是为了寻找亲人，而我，是为了对抗深渊。
-
-我倒是遇见过一些「深渊法师」…
-
-**戴因斯雷布:** 嗯，这些侍奉深渊的怪物，是「深渊教团」在这世上散播混乱的爪牙。
-
-**戴因斯雷布:** 而我这次来到蒙德，是追踪着「深渊使徒」的痕迹…
-
-**派蒙:** 深渊使徒？
-
-**戴因斯雷布:** 是深渊中的一种更扭曲的怪物，深渊法师们的统领。
-
-这么说来，龙灾之后，好像一直…
-
-**派蒙:** 啊，对哦！龙灾之后，我们好像就一直在璃月，和愚人众这种「人类内部的」恶势力纠缠…
-
-**派蒙:** 一直没有「非人的」深渊教团什么事呢。
-
-**戴因斯雷布:** 恐怕…这其中也是有什么原因的吧。
-
-**戴因斯雷布:** 或许…它们是被某人命令，刻意绕开了你的行进路线。
-
-**派蒙:** 听上去好危险…是为了在更合适的时机埋伏我们吗…
-
-- **旅行者:** 它们打不倒我。
-
-- **旅行者:** 我会打倒它们的。
-
-**派蒙:** 嗯！我们可是很厉害的。
-
-**戴因斯雷布:** （真是…和荧/空一模一样的气势。）
-
-**戴因斯雷布:** 也好，我们去实地看看吧。根据我手上的一些线索，深渊教团曾经重新进入过「西风之鹰的庙宇」。
-
-**戴因斯雷布:** 在那里汇合吧。你对深渊的疑惑，或许在那里会有解答。
+##### 共同后续
 
 #### 前往「西风之鹰」庙宇
 
@@ -1559,19 +1733,19 @@ And I will find her / him.
 
 **戴因斯雷布:** 「西风之鹰」…虽能凭风翱翔，但始终也只是徘徊在神明的光芒之下…
 
-你在说什么？
+- **旅行者:** 你在说什么？
 
 **戴因斯雷布:** 没什么，我们快点进去吧。
 
-#### 继续向前探索
+#### 进入「西风之鹰」庙宇
 
-**劳伦斯:** 不知道这次的陌生人，又会带来什么麻烦事…
+#### 继续向前探索
 
 #### 与戴因斯雷布对话
 
 **戴因斯雷布:** 只发现了那些深渊法师吗？看来，深渊使徒可能已经离开了。
 
-能多说说深渊教团的事吗？
+- **旅行者:** 能多说说深渊教团的事吗？
 
 **戴因斯雷布:** 「深渊」…
 
@@ -1591,9 +1765,9 @@ And I will find her / him.
 
 **戴因斯雷布:** 或许，我们可以在那里找到深渊使徒。
 
-#### 前往奔狼领
+#### 离开「西风之鹰」的庙宇
 
-**瓦格纳:** 那家伙说的那些锻造材料，真的存在吗…
+#### 前往奔狼领
 
 #### 与戴因斯雷布对话
 
@@ -1601,9 +1775,15 @@ And I will find her / him.
 
 **戴因斯雷布:** 徒有尖牙和利爪，却只是屈居于此。
 
+##### 对话分支 1
+
 - **旅行者:** 你认识它吗？
 
+##### 对话分支 2
+
 - **旅行者:** 你和它很熟悉？
+
+##### 共同后续
 
 **戴因斯雷布:** 不，我不认识那头老狼，它也不认识我。
 
@@ -1617,19 +1797,17 @@ And I will find her / him.
 
 **戴因斯雷布:** 以教团的行事风格，或许在附近还有类似留存。在附近多搜索一下吧。
 
-#### 在奔狼领搜索与深渊教团有关的线索
-
-**查尔斯:** 那位客人应该会在晚上光顾，您可以先去二楼等等。
-
-#### 在奔狼领搜索与深渊教团有关的线索
-
 **戴因斯雷布:** 果然，这里也有「深渊」的爪牙…在附近多搜索一下吧。
+
+#### 在奔狼领搜索与深渊教团有关的线索
+
+#### 在奔狼领搜索与深渊教团有关的线索
 
 #### 与戴因斯雷布对话
 
 **戴因斯雷布:** 你已经搜索完了吗？
 
-发现了很多深渊教团的痕迹…
+- **旅行者:** 发现了很多深渊教团的痕迹…
 
 **戴因斯雷布:** 我刚才在这附近也搜索了一阵，确实有一些痕迹。
 
@@ -1667,33 +1845,13 @@ And I will find her / him.
 
 #### 深入风龙废墟
 
-**戴因斯雷布:** 你说的那种「熟悉的气息」，还能感受到吗？
-
-就在附近。
-
-**派蒙:** 但这周围…无论是人还是魔物，什么都没有啊。
-
-**戴因斯雷布:** 确实，没有什么异常的地方…和我上次来这里的时候，景色也没有差别。
-
-- **旅行者:** 你说「上次」？
-
-- **旅行者:** 你也来过这里吗？
-
-**戴因斯雷布:** 上次旅行的时候，我的旅伴带我来过这里。
-
-**派蒙:** 那，戴因，你自己呢？你自己最喜欢的地方是哪里？
-
-**戴因斯雷布:** 我？我已经…记不清了。
-
-**戴因斯雷布:** 那一次旅行，我只是一直陪着我的那位旅伴，仅此而已。
-
-**戴因斯雷布:** …嗯？
+#### 打倒所有魔物
 
 #### 与戴因斯雷布对话
 
 **派蒙:** 结果，我们还是没能见到「深渊使徒」呢。
 
-有点遗憾。
+- **旅行者:** 有点遗憾。
 
 **戴因斯雷布:** 不必直视那种怪物…这不该说是「遗憾」吧。但我想，以后你一定会与它们有所交集。
 
@@ -1701,9 +1859,15 @@ And I will find her / him.
 
 **戴因斯雷布:** 哈…旅行中的危险，如果绕着走就能解决问题的话，那就再好不过了。
 
+##### 对话分支 1
+
 - **旅行者:** 你对旅行似乎很了解。
 
+##### 对话分支 2
+
 - **旅行者:** 经验之谈。
+
+##### 共同后续
 
 **戴因斯雷布:** 只是曾经…与那位旅伴一起旅行的时候，有所经历罢了。
 
@@ -1711,9 +1875,9 @@ And I will find her / him.
 
 **派蒙:** 你的那位旅伴，现在在哪里呀？
 
-**戴因斯雷布:** 荧/空…
+**戴因斯雷布:** 她… / 他…
 
-**戴因斯雷布:** 荧/空不再旅行了。
+**戴因斯雷布:** 她不再旅行了。 / 他不再旅行了。
 
 **戴因斯雷布:** 因为，旅行实在是太让人疲惫了。
 
@@ -1729,7 +1893,7 @@ And I will find her / him.
 
 **派蒙:** 嗯…总之，一定要安在一个有很多好吃东西的地方。
 
-你想得也太远了…
+- **旅行者:** 你想得也太远了…
 
 **戴因斯雷布:** 家…
 
@@ -1737,33 +1901,73 @@ And I will find her / him.
 
 **戴因斯雷布:** 在旅途之中，就先…
 
-…那边的山崖上，有熟悉的气息。
+- **旅行者:** …那边的山崖上，有熟悉的气息。
 
 **派蒙:** 咦？什么熟悉的气息？
 
-上次来风龙废墟，也有一瞬间…
+- **旅行者:** 上次来风龙废墟，也有一瞬间…
 
 **戴因斯雷布:** 熟悉的气息么…？除了可能是熟识的人，还可能是熟识的魔物。
 
-难道是…「深渊」？
+- **旅行者:** 难道是…「深渊」？
 
 **戴因斯雷布:** 不管是哪方，如果想要弄清楚，直接过去看看就是。
 
 **戴因斯雷布:** 从那边可以迅速去到山崖上，出发吧。
 
+#### 追上戴因斯雷布
+
+**戴因斯雷布:** 你说的那种「熟悉的气息」，还能感受到吗？
+
+- **旅行者:** 就在附近。
+
+**派蒙:** 但这周围…无论是人还是魔物，什么都没有啊。
+
+**戴因斯雷布:** 确实，没有什么异常的地方…和我上次来这里的时候，景色也没有差别。
+
+##### 对话分支 1
+
+- **旅行者:** 你说「上次」？
+
+##### 对话分支 2
+
+- **旅行者:** 你也来过这里吗？
+
+##### 共同后续
+
+**戴因斯雷布:** 上次旅行的时候，我的旅伴带我来过这里。
+
+**派蒙:** 那，戴因，你自己呢？你自己最喜欢的地方是哪里？
+
+**戴因斯雷布:** 我？我已经…记不清了。
+
+**戴因斯雷布:** 那一次旅行，我只是一直陪着我的那位旅伴，仅此而已。
+
+**戴因斯雷布:** …嗯？
+
+#### 跟随戴因斯雷布
+
+#### 上前观察蒲公英
+
 #### 与戴因斯雷布对话
 
 **派蒙:** 你刚才怎么了啊，怎么在原地发呆这么久？
 
+##### 对话分支 1
+
 - **旅行者:** 这株蒲公英…
 
-- **旅行者:** 我…感受到荧/空了。
+##### 对话分支 2
 
-**派蒙:** 欸？你，你是说…感受到荧/空了吗？！
+- **旅行者:** 我…感受到她了。 / 我…感受到他了。
+
+##### 共同后续
+
+**派蒙:** 欸？你，你是说…感受到妹妹了吗？！ / 欸？你，你是说…感受到哥哥了吗？！
 
 **派蒙:** 可是，这是怎么回事…你刚才只是摸了蒲公英一下而已啊。
 
-刚才，手触碰的瞬间…
+- **旅行者:** 刚才，手触碰的瞬间…
 
 **戴因斯雷布:** ……
 
@@ -1773,17 +1977,17 @@ And I will find her / him.
 
 **派蒙:** 你说的这些可能性都太模糊了，一点头绪都没有啊…
 
-但无论如何，都要查清…！
+- **旅行者:** 但无论如何，都要查清…！
 
 **戴因斯雷布:** 不要焦急。
 
 **戴因斯雷布:** 烦恼与焦虑是心智之敌，你的旅程才刚刚开始，不是吗？
 
-**戴因斯雷布:** 至少，现在你知道了，荧/空还在这个世界上。
+**戴因斯雷布:** 至少，现在你知道了，她还在这个世界上。 / 至少，现在你知道了，他还在这个世界上。
 
-**戴因斯雷布:** 在这种时刻，最重要的事，就是这场寻找荧/空的「旅行」。
+**戴因斯雷布:** 在这种时刻，最重要的事，就是这场寻找她的「旅行」。 / 在这种时刻，最重要的事，就是这场寻找他的「旅行」。
 
-我一定会找到荧/空的。
+- **旅行者:** 我一定会找到她的。 / 我一定会找到他的。
 
 **戴因斯雷布:** 这句话，确实很适合时刻牢记，作为旅行背后的意义。
 

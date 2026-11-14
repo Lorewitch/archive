@@ -21,121 +21,19 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: Созерцание луны
+# game_source_ids: 76132
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 10
 
 ## RU
 
 ### Первопроходцы
 
-На уединённом острове к востоку от Пирамиды вы замечаете вдали Коломбину. Обеспокоенные тем, что ваша подруга может оказаться в беде, вы следуете за её силуэтом и отправляетесь в неожиданное приключение...
-
-
-**Паймон:** Фух... Путешественник, ты, как всегда, молодец! Теперь всё в порядке?
-
-**Небесные орбиты:** Тревога! Ядро системы защиты главного зала управления уничтожено. Запускается режим самоуничтожения.
-
-**Небесные орбиты:** Всему персоналу немедленно эвакуироваться. Начинается обратный отсчёт...
-
-**Паймон:** Всё пропало! База сошла с ума! Она хочет уничтожить себя и нас заодно. Что делать?
-
-**Паймон:** А что, если важная информация будет уничтожена?
-
-**Небесные орбиты:** Пожалуйста, подтвердите орбитальные координаты.
-
-**Паймон:** Э? Какие ещё координаты? Наша загадочная куухенки вернулась!
-
-**Таинственная куухенки:** !
-
-**Паймон:** Что ты делаешь? Координаты смогут предотвратить самоуничтожение базы?!
-
-**Таинственная куухенки:** !!!
-
-**Паймон:** Какие там были координаты? Без паники, без паники. Паймон нужно подумать!
-
-**Небесные орбиты:** Пожалуйста, подтвердите орбитальные координаты.
-
-**Паймон:** Вспомнила... Всего было три символа! Сначала самый простой по форме!
-
-- **Путешественник:** ●
-
-- **Путешественник:** ◆
-
-- **Путешественник:** ▲
-
-**Паймон:** Второй символ имеет очень сложную форму!
-
-- **Путешественник:** ●
-
-- **Путешественник:** ◆
-
-- **Путешественник:** ▲
-
-**Паймон:** И последний... Паймон не помнит, но он вроде был похож на второй!
-
-- **Путешественник:** ●
-
-- **Путешественник:** ◆
-
-- **Путешественник:** ▲
-
-**Небесные орбиты:** Ошибка проверки орбитальных координат.
-
-**Паймон:** Ой-ой! Неужели Паймон ошиблась в последнем символе? Без паники! Попробуем ещё раз!
-
-**Небесные орбиты:** Пожалуйста, подтвердите координаты небесного тела.
-
-**Паймон:** Попробуем ещё раз. Сначала самый простой символ!
-
-- **Путешественник:** ●
-
-- **Путешественник:** ◆
-
-- **Путешественник:** ▲
-
-**Паймон:** Второй - самый сложный символ!
-
-- **Путешественник:** ●
-
-- **Путешественник:** ◆
-
-- **Путешественник:** ▲
-
-**Паймон:** И последний... последний... Ой, каким же был последний?..
-
-**Таинственная куухенки:** Это ●.
+#### Журнал
 
 **Паймон:** Да-да! Точно, это ●! Кто это сказал?.. Ой, нет времени! Скорее нажимай!
 
-**Небесные орбиты:** Орбитальные координаты подтверждены, начинается запуск двигателей. Пожалуйста, немедленно поднимитесь на борт.
-
-**Паймон:** Проверка прошла успешно? Почему тревога не отключилась?
-
-**Таинственная куухенки:** ...Колом...
-
-**Паймон:** Это ты только что сказала? Эй! Ты говорила о Коломбине?
-
-**Таинственная куухенки:** ...Луне...
-
-**Паймон:** На Луне? Она... Что с ней случилось?
-
-**Таинственная куухенки:** ...Спасти...
-
-**Паймон:** Спасти?! Она просит нас спасти Коломбину?!
-
-Коломбина попала в беду?
-
-**Таинственная куухенки:** ...Корабль... Луна...
-
-**Паймон:** Сесть на космический корабль? Полететь на Луну? Эй! Объяснись толком!
-
-**Паймон:** Путешественник, что делать? Кажется, это место вот-вот взорвётся!
-
-Времени нет. Пойдём с ней на корабль.
-
-**Паймон:** Всё пропало! Не успеваем!
-
-Вам не удаётся остановить программу самоуничтожения, и по окончании обратного отсчёта базу поглощает ревущее пламя.
-К счастью, вы вместе с Паймон смогли невредимыми покинуть место взрыва.
-К сожалению, загадочная чёрная куухенки, корабль, направляющийся к Луне, и история, стоящая за всем этим, навсегда исчезают из вашего путешествия.
+На уединённом острове к востоку от Пирамиды вы замечаете вдали Коломбину. Обеспокоенные тем, что ваша подруга может оказаться в беде, вы следуете за её силуэтом и отправляетесь в неожиданное приключение...
 
 #### Поприветствуйте Коломбину
 
@@ -143,11 +41,13 @@
 
 **Паймон:** Ой? Смотри! Там кто-то есть...
 
-Коломбина?
+- **Путешественник:** Коломбина?
 
 **Паймон:** Как она сюда попала? Паймон думала, что она в Чертоге серебряной Луны...
 
 **Паймон:** Вот так встреча! Хи-хи, давай подойдём и поздороваемся.
+
+#### Следуйте за Коломбиной
 
 #### Следуйте за Коломбиной
 
@@ -157,7 +57,7 @@
 
 **Паймон:** Но почему она тут? У неё здесь какие-то дела?
 
-Пойдём за ней и посмотрим!
+- **Путешественник:** Пойдём за ней и посмотрим!
 
 **Паймон:** Да. Вряд ли у неё проблемы, но лучше убедиться, что всё в порядке.
 
@@ -165,17 +65,11 @@
 
 #### Следуйте за Коломбиной
 
-**Небесные орбиты:** Корабль направляется на окололунную орбиту.
+#### Найдите следы Коломбины
+
+#### Спуститесь вниз
 
 #### Исследуйте подземные руины
-
-**Паймон:** Судя по карте, это и есть главный зал управления?
-
-**Паймон:** Эй! Негодяйка, которая притворяется Коломбиной! Хватит прятаться! Быстро выходи!
-
-**Небесные орбиты:** Тревога! В главном зале управления обнаружены посторонние. Режим защиты активирован.
-
-**Паймон:** Ой! Прости! Мы ошиблись адресом!
 
 #### Исследуйте подземные руины
 
@@ -183,33 +77,33 @@
 
 **Паймон:** Что это за кольца? Выглядят так, будто они упали на землю.
 
-Похоже на какое-то устройство.
+- **Путешественник:** Похоже на какое-то устройство.
 
 **Паймон:** Устройство? А светящаяся табличка рядом... это инструкция?
 
 **Паймон:** Посмотрим...
 
-**Небесные орбиты:** Тревога! Тревога!
+**Древний дорожный знак:** Тревога! Тревога!
 
 **Паймон:** Ой-ой... Кажется, Паймон случайно включила какую-то сигнализацию!
 
-**Небесные орбиты:** Тревога! Тревога!
+**Древний дорожный знак:** Тревога! Тревога!
 
-**Небесные орбиты:** Передача энергии прервана. Пожалуйста, перейдите в энергетический отсек и активируйте резервный источник питания!
+**Древний дорожный знак:** Передача энергии прервана. Пожалуйста, перейдите в энергетический отсек и активируйте резервный источник питания!
 
 **Паймон:** Ой, так это неисправность энергоснабжения! Паймон перепугалась!
 
-Голодная Паймон ведёт себя точно так же.
+- **Путешественник:** Голодная Паймон ведёт себя точно так же.
 
 **Паймон:** Что? П-Паймон куда более сдержанная!
 
-Сперва осмотрим энергетический отсек.
+- **Путешественник:** Сперва осмотрим энергетический отсек.
 
 **Паймон:** Ты имеешь в виду...
 
 **Паймон:** Точно! Если Коломбина хочет что-то сделать, ей наверняка нужно сначала запустить систему энергоснабжения.
 
-Наверное, там мы её и найдём.
+- **Путешественник:** Наверное, там мы её и найдём.
 
 **Паймон:** Хе-хе, Паймон очень сообразительная!
 
@@ -221,7 +115,7 @@
 
 **Паймон:** Но Паймон не понимает, как это работает...
 
-Энергосистема не активирована.
+- **Путешественник:** Энергосистема не активирована.
 
 **Паймон:** Да... Как странно. Неужели Коломбина была здесь, поняла, что энергосистема не работает, и отправилась искать решение в другом месте?
 
@@ -229,11 +123,19 @@
 
 #### Найдите способ активировать энергетический механизм
 
+#### Найдите способ активировать энергетический механизм
+
 **Паймон:** Что случилось? Почему так тихо?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Не запускается.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Не реагирует.
+
+##### Общее продолжение
 
 **Паймон:** Понятно... Значит, должно быть другое условие. Коломбина наверняка столкнулась с той же проблемой, поэтому пошла куда-то ещё... А?!
 
@@ -241,7 +143,7 @@
 
 **Паймон:** Хе-хе... Небось удивлена, что видишь нас? Паймон беспокоилась, что у тебя неприятности, вот мы и отправились вслед за тобой.
 
-Коломбина, нужна помощь?
+- **Путешественник:** Коломбина, нужна помощь?
 
 **Коломбина:** ?
 
@@ -255,7 +157,7 @@
 
 **Паймон:** ...Что с тобой? Ты что, подражаешь Николь и пытаешься общаться телепатически? Но мы ничего не слышим!
 
-Коломбина, ты в порядке?
+- **Путешественник:** Коломбина, ты в порядке?
 
 **Коломбина:** ...
 
@@ -270,6 +172,8 @@
 **Паймон:** Ты хочешь, чтобы мы это активировали?
 
 **Паймон:** Путешественник, Паймон не знает, что случилось, но Паймон думает, что она хочет активировать этот механизм. Давай попробуем ещё раз!
+
+#### Найдите способ активировать энергетический механизм
 
 #### Поговорите с Коломбиной
 
@@ -293,19 +197,27 @@
 
 **Небесные орбиты:** Для расчёта орбит небесных тел выберите координаты трёх лун, которые необходимо отследить.
 
+##### Вариант ответа 1
+
 - **Путешественник:** «Вечная Луна»
 
+**Небесные орбиты:** Соединение прервано... Не удалось определить местоположение цели...
+
+##### Вариант ответа 2
+
 - **Путешественник:** «Морозная Луна»
+
+**Небесные орбиты:** Соединение... Местоположение цели определено.
+
+**Небесные орбиты:**   
+
+##### Вариант ответа 3
 
 - **Путешественник:** «Радужная Луна»
 
 **Небесные орбиты:** Соединение прервано... Не удалось определить местоположение цели...
 
-**Небесные орбиты:** Соединение... Местоположение цели определено.
-
-**Небесные орбиты:** ◆ ▲ ●
-
-**Небесные орбиты:** Соединение прервано... Не удалось определить местоположение цели...
+##### Общее продолжение
 
 **Паймон:** Вот это да, он вычислил координаты Морозной Луны... Но для чего нужны координаты?
 
@@ -315,7 +227,7 @@
 
 **Небесные орбиты:** Хотите получить карту маршрута?
 
-(Получить карту маршрута)
+- **Путешественник:** (Получить карту маршрута)
 
 **Небесные орбиты:** Перейдите в главный зал управления для подготовки к высадке на Луну.
 
@@ -323,9 +235,9 @@
 
 **Паймон:** Коломбина... это место служит для полётов на Луну?!
 
-(Но Коломбина водила меня на Морозную Луну... Зачем ей этот прибор?)
+- **Путешественник:** (Но Коломбина водила меня на Морозную Луну... Зачем ей этот прибор?)
 
-(А ещё она дала мне совершенно новую силу. Я никогда не видел(а), чтобы она её использовала...)
+- **Путешественник:** (А ещё она дала мне совершенно новую силу. Я никогда не видел, чтобы она её использовала...) / (А ещё она дала мне совершенно новую силу. Я никогда не видела, чтобы она её использовала...)
 
 **Коломбина:** ...
 
@@ -333,11 +245,11 @@
 
 **Коломбина:** ...
 
-Коломбина, можешь протянуть руку?
+- **Путешественник:** Коломбина, можешь протянуть руку?
 
 **Коломбина:** ?
 
-Вложи в мою, как в Чертоге серебряной Луны.
+- **Путешественник:** Вложи в мою, как в Чертоге серебряной Луны.
 
 **Коломбина:** ...
 
@@ -347,11 +259,187 @@
 
 **Паймон:** А-а-а! Что происходит? Коломбина превратилась в чёрную куухенки!
 
-Это не Коломбина!
+- **Путешественник:** Это не Коломбина!
 
 **Паймон:** Что?! Самозванка?!
 
-За ней!
+- **Путешественник:** За ней!
+
+#### Следуйте за чёрной куухенки
+
+#### Следуйте за чёрной куухенки
+
+#### Следуйте за чёрной куухенки
+
+#### Следуйте за чёрной куухенки
+
+#### Войдите в главный зал управления и найдите чёрную куухенки
+
+**Паймон:** Судя по карте, это и есть главный зал управления?
+
+**Паймон:** Эй! Негодяйка, которая притворяется Коломбиной! Хватит прятаться! Быстро выходи!
+
+**Главный терминал управления:** Тревога! В главном зале управления обнаружены посторонние. Режим защиты активирован.
+
+**Паймон:** Ой! Прости! Мы ошиблись адресом!
+
+#### Победите защитников
+
+#### Осмотрите небесные орбиты
+
+**Паймон:** Фух... Путешественник, ты, как всегда, молодец! Теперь всё в порядке?
+
+**Главный терминал управления:** Тревога! Ядро системы защиты главного зала управления уничтожено. Запускается режим самоуничтожения.
+
+**Главный терминал управления:** Всему персоналу немедленно эвакуироваться. Начинается обратный отсчёт...
+
+**Паймон:** Всё пропало! База сошла с ума! Она хочет уничтожить себя и нас заодно. Что делать?
+
+**Паймон:** А что, если важная информация будет уничтожена?
+
+**Главный терминал управления:** Пожалуйста, подтвердите орбитальные координаты.
+
+**Паймон:** Э? Какие ещё координаты? Наша загадочная куухенки вернулась!
+
+**Таинственная куухенки:** !
+
+**Паймон:** Что ты делаешь? Координаты смогут предотвратить самоуничтожение базы?!
+
+**Таинственная куухенки:** !!!
+
+**Паймон:** Какие там были координаты? Без паники, без паники. Паймон нужно подумать!
+
+**Главный терминал управления:** Пожалуйста, подтвердите орбитальные координаты.
+
+**Паймон:** Вспомнила... Всего было три символа! Сначала самый простой по форме!
+
+##### Вариант ответа 1
+
+- **Путешественник:** 
+
+##### Вариант ответа 2
+
+- **Путешественник:** 
+
+##### Вариант ответа 3
+
+- **Путешественник:** 
+
+##### Общее продолжение
+
+**Паймон:** Второй символ имеет очень сложную форму!
+
+##### Вариант ответа 1
+
+- **Путешественник:** 
+
+##### Вариант ответа 2
+
+- **Путешественник:** 
+
+##### Вариант ответа 3
+
+- **Путешественник:** 
+
+##### Общее продолжение
+
+**Паймон:** И последний... Паймон не помнит, но он вроде был похож на второй!
+
+##### Вариант ответа 1
+
+- **Путешественник:** 
+
+##### Вариант ответа 2
+
+- **Путешественник:** 
+
+##### Вариант ответа 3
+
+- **Путешественник:** 
+
+##### Общее продолжение
+
+**Главный терминал управления:** Ошибка проверки орбитальных координат.
+
+**Паймон:** Ой-ой! Неужели Паймон ошиблась в последнем символе? Без паники! Попробуем ещё раз!
+
+**Главный терминал управления:** Пожалуйста, подтвердите координаты небесного тела.
+
+**Паймон:** Попробуем ещё раз. Сначала самый простой символ!
+
+##### Вариант ответа 1
+
+- **Путешественник:** 
+
+##### Вариант ответа 2
+
+- **Путешественник:** 
+
+##### Вариант ответа 3
+
+- **Путешественник:** 
+
+##### Общее продолжение
+
+**Паймон:** Второй - самый сложный символ!
+
+##### Вариант ответа 1
+
+- **Путешественник:** 
+
+##### Вариант ответа 2
+
+- **Путешественник:** 
+
+##### Вариант ответа 3
+
+- **Путешественник:** 
+
+##### Общее продолжение
+
+**Паймон:** И последний... последний... Ой, каким же был последний?..
+
+**Таинственная куухенки:** Это .
+
+**Паймон:** Да-да! Точно, это ! Кто это сказал?.. Ой, нет времени! Скорее нажимай!
+
+- **Путешественник:** 
+
+**Система:** Орбитальные координаты подтверждены, начинается запуск двигателей. Пожалуйста, немедленно поднимитесь на борт.
+
+**Паймон:** Проверка прошла успешно? Почему тревога не отключилась?
+
+**Таинственная куухенки:** ...Колом...
+
+**Паймон:** Это ты только что сказала? Эй! Ты говорила о Коломбине?
+
+**Таинственная куухенки:** ...Луне...
+
+**Паймон:** На Луне? Она... Что с ней случилось?
+
+**Таинственная куухенки:** ...Спасти...
+
+**Паймон:** Спасти?! Она просит нас спасти Коломбину?!
+
+- **Путешественник:** Коломбина попала в беду?
+
+**Таинственная куухенки:** ...Корабль... Луна...
+
+**Паймон:** Сесть на космический корабль? Полететь на Луну? Эй! Объяснись толком!
+
+**Паймон:** Путешественник, что делать? Кажется, это место вот-вот взорвётся!
+
+- **Путешественник:** Времени нет. Пойдём с ней на корабль.
+
+**Паймон:** Всё пропало! Не успеваем!
+
+Вам не удаётся остановить программу самоуничтожения, и по окончании обратного отсчёта базу поглощает ревущее пламя.
+К счастью, вы вместе с Паймон смогли невредимыми покинуть место взрыва.
+К сожалению, загадочная чёрная куухенки, корабль, направляющийся к Луне, и история, стоящая за всем этим, навсегда исчезают из вашего путешествия.
+
+#### Отправляйтесь к лунному кораблю
+
+#### Запуск лунного корабля...
 
 #### Дайте отпор чёрной куухенки
 
@@ -363,19 +451,23 @@
 
 **Паймон:** Опять дурочкой прикидываешься?!
 
-Если не заговоришь, я тебя выброшу.
+- **Путешественник:** Если не заговоришь, я тебя выброшу.
 
 **Таинственная куухенки:** !
 
 **Паймон:** Но ты ведь только что говорила! Погоди... Ты говорила через систему базы?
 
-Ты не можешь говорить напрямую?
+- **Путешественник:** Ты не можешь говорить напрямую?
 
 **Таинственная куухенки:** !
 
 **Паймон:** И такое бывает?
 
 **Паймон:** Давай осмотрим корабль? Вдруг найдём что-нибудь, что поможет общаться.
+
+#### Обыщите лунный корабль
+
+**Небесные орбиты:** Корабль направляется на окололунную орбиту.
 
 #### Найдите лунный корабль
 
@@ -407,7 +499,7 @@
 
 **Паймон:** ...Эй, зачем слова растягиваешь?
 
-Предполагаю, что и базу, и корабль создали драконы.
+- **Путешественник:** Предполагаю, что и базу, и корабль создали драконы.
 
 **Паймон:** Неудивительно, что мы сразу столкнулись с автоматоном таинственного источника!
 
@@ -439,7 +531,7 @@
 
 **Паймон:** Хм... И что нам делать?
 
-Мы сами вызвались...
+- **Путешественник:** Мы сами вызвались...
 
 **Паймон:** Нет-нет-нет... Как же так? Мы же не настолько бестолковые?
 
@@ -455,9 +547,15 @@
 
 **Паймон:** ...Слушай, Паймон сыта по горло твоими выходками...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Кто ты такая?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Что ты такое?
+
+##### Общее продолжение
 
 **Таинственная куухенки:** Простите... я не знаю...
 
@@ -479,7 +577,7 @@
 
 **Паймон:** Как можно такое забыть?!
 
-Твой дом на Луне?
+- **Путешественник:** Твой дом на Луне?
 
 **Паймон:** Точно! Ты всё время говоришь о возвращении на Луну, значит, ты не куухенки из Тейвата?
 
@@ -497,39 +595,45 @@
 
 **Паймон:** И вот мы сорвались с места и вылетели из Тейвата, словно пара поражённых стрелой Анемо слизней!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хорошо подытожено.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Раз мы уже летим, остаётся только смириться.
+
+##### Общее продолжение
 
 **Паймон:** Ах ты... Паймон обязательно придумает тебе какое-нибудь обидное прозвище, ты, негодяйка! Будешь... будешь Яйцом!
 
 **Паймон:** Уу-у... «Хороший охотник», ресторан «Народный выбор», ресторан «Симура»... Паймон ещё увидит вас?
 
-**Таинственная куухенки:** ...Прос... прости...
+**Яйцо:** ...Прос... прости...
 
 **Паймон:** Ой-ой, ты почему плачешь? Паймон обидела тебя? Не надо, не плачь...
 
-**Паймон:** Эй, Яйцо, я притворяюсь несчастной, чтобы он / она купил(а) мне побольше вкусняшек.
+**Паймон:** Эй, Яйцо, я притворяюсь несчастной, чтобы он купил мне побольше вкусняшек. / Эй, Яйцо, я притворяюсь несчастной, чтобы она купила мне побольше вкусняшек.
 
 **Паймон:** Потерпи немного, а потом поделим вкусняшки. Тебе двадцать процентов, Паймон восемьдесят, договорились?
 
-**Таинственная куухенки:** Вкусняшки?
+**Яйцо:** Вкусняшки?
 
-**Паймон:** Кхе-кхе, в общем... Яйцо, это ты заставила нас подумать, что Коломбина в опасности. Паймон и (путешественница)(путешественник) не могут сидеть сложа руки, когда друзья в беде!
+**Паймон:** Кхе-кхе, в общем... Яйцо, это ты заставила нас подумать, что Коломбина в опасности. Паймон и путешественник не могут сидеть сложа руки, когда друзья в беде! / Кхе-кхе, в общем... Яйцо, это ты заставила нас подумать, что Коломбина в опасности. Паймон и путешественница не могут сидеть сложа руки, когда друзья в беде!
 
 **Паймон:** Поэтому ты несёшь полную ответственность за наше нынешнее положение.
 
-Мы сможем вернуться только после того, как найдём Коломбину.
+- **Путешественник:** Мы сможем вернуться только после того, как найдём Коломбину.
 
-**Таинственная куухенки:** ...Я... помогу...
+**Яйцо:** ...Я... помогу...
 
 **Паймон:** Тогда решено! Будем считать это сюрпризом для Коломбины. Друзья пришли к ней в гости. Она очень обрадуется!
 
-Паймон прекрасно приспосабливается к обстоятельствам.
+- **Путешественник:** Паймон прекрасно приспосабливается к обстоятельствам.
 
 **Паймон:** Кхе-кхе... потому что... потому что Паймон вдруг пришло в голову, что мы первые искатели приключений, которые ступят на Луну! Это один маленький шаг для нас, но гигантский скачок для всего Тейвата. Верно?
 
-**Паймон:** И не говори, что ты уже был(а) там. Тогда Коломбина тебя провела обманным путём... Это не считается!
+**Паймон:** И не говори, что ты уже был там. Тогда Коломбина тебя провела обманным путём... Это не считается! / И не говори, что ты уже была там. Тогда Коломбина тебя провела обманным путём... Это не считается!
 
 **Небесные орбиты:** Космический корабль приближается к окололунной орбите. Пожалуйста, выберите место посадки.
 
@@ -541,13 +645,29 @@
 
 **Паймон:** Здесь несколько мест для посадки, и у всех такие странные названия... Какое выбрать?
 
-- **Путешественник:** Сбой подключения. Выберите другое место.
+##### Вариант ответа 1
+
+**Небесные орбиты:** Сбой подключения. Выберите другое место.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Повернуть
 
+##### Вариант ответа 3
+
 - **Путешественник:** Подтвердить
 
-**Небесные орбиты:** Сбой подключения. Выберите другое место.
+##### Общее продолжение
+
+- **Путешественник:** Центр исследования археолунных бурь
+
+- **Путешественник:** Око Ибни-Белума
+
+- **Путешественник:** Лунная расселина
+
+- **Путешественник:** Круг Унгиена
+
+- **Путешественник:** Вернуться и выбрать другое место
 
 **Небесные орбиты:** Соединение установлено. Подтверждаете запуск посадочных двигателей?
 
@@ -555,130 +675,17 @@
 
 **Паймон:** Ой-ой! Мы совершаем посадку?
 
-Вернуться и выбрать другое место
-
-Круг Унгиена
-
-Центр исследования археолунных бурь
-
-Око Ибни-Белума
-
-Лунная расселина
-
 ## EN
 
 ### Pioneers
 
-You catch sight of Columbina in the distance on a deserted island on the east side of Piramida. Worried that your friend has encountered trouble, you chase after her, and in so doing, embark on an adventure into the unknown...
-
-
-**Paimon:** Phew... It was no problem for you in the end! That should take care of things, right?
-
-**Celestial Orbit:** Alert! Main Control Hall Defender Core destruction confirmed. Initiating self-destruct mode.
-
-**Celestial Orbit:** All personnel, please evacuate immediately. Initiating countdown...
-
-**Paimon:** Seriously!? This base has gone crazy! It's trying to take us down with it... What should we do?
-
-**Paimon:** What if some really important intel gets destroyed!?
-
-**Celestial Orbit:** Please verify orbital coordinates.
-
-**Paimon:** Huh? What orbital coordinates? Whoa! Our mystery kuuhenki's back!
-
-**Mysterious Kuuhenki:** !
-
-**Paimon:** What are you doing? Will giving it the coordinates stop the base from self-destructing!?
-
-**Mysterious Kuuhenki:** !!!
-
-**Paimon:** What are the coordinates? Don't panic, don't panic, let Paimon think!
-
-**Celestial Orbit:** Please verify orbital coordinates.
-
-**Paimon:** Paimon remembers now... There were three symbols! The simplest-looking one was first!
-
-- **Traveler:** ●
-
-- **Traveler:** ◆
-
-- **Traveler:** ▲
-
-**Paimon:** The second symbol had a super complicated shape!
-
-- **Traveler:** ●
-
-- **Traveler:** ◆
-
-- **Traveler:** ▲
-
-**Paimon:** And lastly... Paimon can't quite remember, but it was probably the same as the second one!
-
-- **Traveler:** ●
-
-- **Traveler:** ◆
-
-- **Traveler:** ▲
-
-**Celestial Orbit:** Orbital coordinate verification error.
-
-**Paimon:** Oh no! Did Paimon get the last one wrong? Okay. Don't panic, don't panic! Let's try again, real quick!
-
-**Celestial Orbit:** Please re-verify orbital coordinates.
-
-**Paimon:** One more time! First up, the simplest symbol!
-
-- **Traveler:** ●
-
-- **Traveler:** ◆
-
-- **Traveler:** ▲
-
-**Paimon:** The second one's the most complicated!
-
-- **Traveler:** ●
-
-- **Traveler:** ◆
-
-- **Traveler:** ▲
-
-**Paimon:** And the last one is... the last one is... Argh, what in Teyvat is the last one...?
+#### Quest log
 
 **Mysterious Kuuhenki:** 是●
 
 **Paimon:** Ooh! Yes, yes! ●. That's the one! Wait. Who said that...? Ah, whatever! Let's punch it in!
 
-**Celestial Orbit:** Orbital coordinate verification: Successful. Engine ignition in progress. Please board the lunar spacecraft immediately.
-
-**Paimon:** Did we make it? Why's the alarm still going off!?
-
-**Mysterious Kuuhenki:** ...Colum—
-
-**Paimon:** Was it you talking just now? Hey! Were you about to say "Columbina"?
-
-**Mysterious Kuuhenki:** ...The moon...
-
-**Paimon:** On the moon? What... Has something happened to her?
-
-**Mysterious Kuuhenki:** ...Rescue...
-
-**Paimon:** Rescue!? Is she asking us to go save Columbina!?
-
-Is Columbina in trouble?
-
-**Mysterious Kuuhenki:** ...Spaceship... Moon...
-
-**Paimon:** Take the spaceship? To the moon? Hey! Explain yourself!
-
-**Paimon:** What are we gonna do?! It feels like this place is gonna blow up any second!
-
-There's no time. Let's go with it to the spaceship.
-
-**Paimon:** Oh no! It's too late!
-
-You fail to stop the self-destruct sequence, and as the countdown ends, the base is engulfed in roaring flames.
-The good news is you manage to escape the explosion unscathed with Paimon in tow.
-But alas, the mysterious black kuuhenki, the spaceship bound for the moon, and the tale behind them all vanish from your journey forever.
+You catch sight of Columbina in the distance on a deserted island on the east side of Piramida. Worried that your friend has encountered trouble, you chase after her, and in so doing, embark on an adventure into the unknown...
 
 #### Say hello to Columbina
 
@@ -686,11 +693,13 @@ But alas, the mysterious black kuuhenki, the spaceship bound for the moon, and t
 
 **Paimon:** Huh? Look! That person over there...
 
-Columbina?
+- **Traveler:** Columbina?
 
 **Paimon:** Why's she here? Paimon thought she'd be at Silvermoon Hall...
 
 **Paimon:** Heh, funny how life works sometimes. Let's go over and say hi!
+
+#### Follow Columbina
 
 #### Follow Columbina
 
@@ -700,7 +709,7 @@ Columbina?
 
 **Paimon:** But what's she doing here? Does she have something to do?
 
-Let's follow her and take a look.
+- **Traveler:** Let's follow her and take a look.
 
 **Paimon:** Yeah. Paimon doesn't think she'll run into any trouble, but better safe than sorry.
 
@@ -708,17 +717,11 @@ Let's follow her and take a look.
 
 #### Follow Columbina
 
-**Celestial Orbit:** This vessel is bound for lunar orbit.
+#### Look for traces of Columbina
+
+#### Pass through the entrance
 
 #### Explore the underground ruins
-
-**Paimon:** According to the route map, this should be the Main Control Hall, right?
-
-**Paimon:** Hey! You! The one pretending to be Columbina! Come out right now!
-
-**Celestial Orbit:** Alert! Intruder detected in Main Control Hall. Activating defense measures.
-
-**Paimon:** Wah! Sorry! Wrong address, we were looking for someone else!
 
 #### Explore the underground ruins
 
@@ -726,33 +729,33 @@ Let's follow her and take a look.
 
 **Paimon:** Huh. What are those rings? Looks like they've fallen onto the ground or something.
 
-Some kinda device, I'd say.
+- **Traveler:** Some kinda device, I'd say.
 
 **Paimon:** Is that so? In that case, could this glowing sign next to it... be a manual, maybe?
 
 **Paimon:** Let Paimon see...
 
-**Celestial Orbit:** Alert! Alert!
+**Ruins Guidepost:** Alert! Alert!
 
 **Paimon:** Oh, darn it! Paimon triggered some kinda intruder alarm!
 
-**Celestial Orbit:** Alert! Alert!
+**Ruins Guidepost:** Alert! Alert!
 
-**Celestial Orbit:** Power transmission has ceased. Please head to the generator room to activate backup power!
+**Ruins Guidepost:** Power transmission has ceased. Please head to the generator room to activate backup power!
 
 **Paimon:** Oh, so it's just out of power! Gah, Paimon almost jumped outta her skin!
 
-Reminds me of you when you're hungry, you know?
+- **Traveler:** Reminds me of you when you're hungry, you know?
 
 **Paimon:** What? C—C'mon, Paimon's way classier than that!
 
-Let's go check this generator room out first.
+- **Traveler:** Let's go check this generator room out first.
 
 **Paimon:** You mean...
 
 **Paimon:** Ohh, right! If Columbina came here to do something, she'd totally need to turn on the power first.
 
-Right, and we might find her there.
+- **Traveler:** Right, and we might find her there.
 
 **Paimon:** Haha, genius!
 
@@ -764,7 +767,7 @@ Right, and we might find her there.
 
 **Paimon:** But Paimon doesn't see how that's supposed to work...
 
-It doesn't look like the power's been turned on yet.
+- **Traveler:** It doesn't look like the power's been turned on yet.
 
 **Paimon:** Yeah, and that's super weird. Do you think Columbina's already been here? Maybe she discovered that the power wouldn't start, and went to look for a solution elsewhere?
 
@@ -772,11 +775,19 @@ It doesn't look like the power's been turned on yet.
 
 #### Find a way to activate the energy mechanisms
 
+#### Find a way to activate the energy mechanisms
+
 **Paimon:** Huh? Why isn't anything happening?
+
+##### Response branch 1
 
 - **Traveler:** It won't start.
 
+##### Response branch 2
+
 - **Traveler:** There's no response.
+
+##### Shared continuation
 
 **Paimon:** Paimon guessed as much... There's gotta be something else to this. Columbina must have run into this problem and then gone to look somewhere else... Huh!?
 
@@ -784,7 +795,7 @@ It doesn't look like the power's been turned on yet.
 
 **Paimon:** Hehe... Surprised to see us? We were worried you might be in trouble, so we followed you here.
 
-Do you need help, Columbina?
+- **Traveler:** Do you need help, Columbina?
 
 **Columbina:** ?
 
@@ -798,7 +809,7 @@ Do you need help, Columbina?
 
 **Paimon:** ...What's wrong? Are you trying to use telepathy, like Nicole? Just so you know, we aren't hearing anything!
 
-Are you alright?
+- **Traveler:** Are you alright?
 
 **Columbina:** ...
 
@@ -813,6 +824,8 @@ Are you alright?
 **Paimon:** Do you want us to activate this?
 
 **Paimon:** Paimon's not sure what's going on, but it looks like Columbina wants us to activate this device. We should give it another try!
+
+#### Find a way to activate the energy mechanisms
 
 #### Talk to Columbina
 
@@ -836,19 +849,27 @@ Are you alright?
 
 **Celestial Orbit:** Calculating celestial orbits. Please select the Trilune coordinates you wish to view.
 
+##### Response branch 1
+
 - **Traveler:** "Eternal Moon"
 
+**Celestial Orbit:** Connection lost... Failed to locate target...
+
+##### Response branch 2
+
 - **Traveler:** "Frost Moon"
+
+**Celestial Orbit:** Connecting... Target located.
+
+**Celestial Orbit:**   
+
+##### Response branch 3
 
 - **Traveler:** "Iridescent Moon"
 
 **Celestial Orbit:** Connection lost... Failed to locate target...
 
-**Celestial Orbit:** Connecting... Target located.
-
-**Celestial Orbit:** ◆ ▲ ●
-
-**Celestial Orbit:** Connection lost... Failed to locate target...
+##### Shared continuation
 
 **Paimon:** Whoa, it actually found the Frost Moon... But why would they need those coordinates anyways?
 
@@ -858,7 +879,7 @@ Are you alright?
 
 **Celestial Orbit:** Do you wish to obtain the route map?
 
-(Obtain route map)
+- **Traveler:** (Obtain route map)
 
 **Celestial Orbit:** Please proceed to the Main Control Hall for moon landing preparations.
 
@@ -866,9 +887,9 @@ Are you alright?
 
 **Paimon:** Columbina... is this place used for getting to the moon!?
 
-(But Columbina has taken me to the Frost Moon before... Why would she need this device?)
+- **Traveler:** (But Columbina has taken me to the Frost Moon before... Why would she need this device?)
 
-(And the power she just gave me is completely new. I've never seen her use it before...)
+- **Traveler:** (And the power she just gave me is completely new. I've never seen her use it before...)
 
 **Columbina:** ...
 
@@ -876,11 +897,11 @@ Are you alright?
 
 **Columbina:** ...
 
-Columbina, can you hold out your hand?
+- **Traveler:** Columbina, can you hold out your hand?
 
 **Columbina:** ?
 
-Place it in mine, just like we do in Silvermoon Hall.
+- **Traveler:** Place it in mine, just like we do in Silvermoon Hall.
 
 **Columbina:** ...
 
@@ -890,11 +911,187 @@ Place it in mine, just like we do in Silvermoon Hall.
 
 **Paimon:** Waaah! What's going on? Columbina turned into a black kuuhenki!
 
-That's not Columbina!
+- **Traveler:** That's not Columbina!
 
 **Paimon:** What!? An impostor!?
 
-Let's go after her!
+- **Traveler:** Let's go after her!
+
+#### Follow the black kuuhenki
+
+#### Follow the black kuuhenki
+
+#### Follow the black kuuhenki
+
+#### Follow the black kuuhenki
+
+#### Enter the main control hall to search for the black kuuhenki
+
+**Paimon:** According to the route map, this should be the Main Control Hall, right?
+
+**Paimon:** Hey! You! The one pretending to be Columbina! Come out right now!
+
+**Main Control Terminal:** Alert! Intruder detected in Main Control Hall. Activating defense measures.
+
+**Paimon:** Wah! Sorry! Wrong address, we were looking for someone else!
+
+#### Defeat the guards
+
+#### Check the Celestial Orbit
+
+**Paimon:** Phew... It was no problem for you in the end! That should take care of things, right?
+
+**Main Control Terminal:** Alert! Main Control Hall Defender Core destruction confirmed. Initiating self-destruct mode.
+
+**Main Control Terminal:** All personnel, please evacuate immediately. Initiating countdown...
+
+**Paimon:** Seriously!? This base has gone crazy! It's trying to take us down with it... What should we do?
+
+**Paimon:** What if some really important intel gets destroyed!?
+
+**Main Control Terminal:** Please verify orbital coordinates.
+
+**Paimon:** Huh? What orbital coordinates? Whoa! Our mystery kuuhenki's back!
+
+**Mysterious Kuuhenki:** !
+
+**Paimon:** What are you doing? Will giving it the coordinates stop the base from self-destructing!?
+
+**Mysterious Kuuhenki:** !!!
+
+**Paimon:** What are the coordinates? Don't panic, don't panic, let Paimon think!
+
+**Main Control Terminal:** Please verify orbital coordinates.
+
+**Paimon:** Paimon remembers now... There were three symbols! The simplest-looking one was first!
+
+##### Response branch 1
+
+- **Traveler:** 
+
+##### Response branch 2
+
+- **Traveler:** 
+
+##### Response branch 3
+
+- **Traveler:** 
+
+##### Shared continuation
+
+**Paimon:** The second symbol had a super complicated shape!
+
+##### Response branch 1
+
+- **Traveler:** 
+
+##### Response branch 2
+
+- **Traveler:** 
+
+##### Response branch 3
+
+- **Traveler:** 
+
+##### Shared continuation
+
+**Paimon:** And lastly... Paimon can't quite remember, but it was probably the same as the second one!
+
+##### Response branch 1
+
+- **Traveler:** 
+
+##### Response branch 2
+
+- **Traveler:** 
+
+##### Response branch 3
+
+- **Traveler:** 
+
+##### Shared continuation
+
+**Main Control Terminal:** Orbital coordinate verification error.
+
+**Paimon:** Oh no! Did Paimon get the last one wrong? Okay. Don't panic, don't panic! Let's try again, real quick!
+
+**Main Control Terminal:** Please re-verify orbital coordinates.
+
+**Paimon:** One more time! First up, the simplest symbol!
+
+##### Response branch 1
+
+- **Traveler:** 
+
+##### Response branch 2
+
+- **Traveler:** 
+
+##### Response branch 3
+
+- **Traveler:** 
+
+##### Shared continuation
+
+**Paimon:** The second one's the most complicated!
+
+##### Response branch 1
+
+- **Traveler:** 
+
+##### Response branch 2
+
+- **Traveler:** 
+
+##### Response branch 3
+
+- **Traveler:** 
+
+##### Shared continuation
+
+**Paimon:** And the last one is... the last one is... Argh, what in Teyvat is the last one...?
+
+**Mysterious Kuuhenki:** It's 
+
+**Paimon:** Ooh! Yes, yes! . That's the one! Wait. Who said that...? Ah, whatever! Let's punch it in!
+
+- **Traveler:** 
+
+**System Voice:** Orbital coordinate verification: Successful. Engine ignition in progress. Please board the lunar spacecraft immediately.
+
+**Paimon:** Did we make it? Why's the alarm still going off!?
+
+**Mysterious Kuuhenki:** ...Colum—
+
+**Paimon:** Was it you talking just now? Hey! Were you about to say "Columbina"?
+
+**Mysterious Kuuhenki:** ...The moon...
+
+**Paimon:** On the moon? What... Has something happened to her?
+
+**Mysterious Kuuhenki:** ...Rescue...
+
+**Paimon:** Rescue!? Is she asking us to go save Columbina!?
+
+- **Traveler:** Is Columbina in trouble?
+
+**Mysterious Kuuhenki:** ...Spaceship... Moon...
+
+**Paimon:** Take the spaceship? To the moon? Hey! Explain yourself!
+
+**Paimon:** What are we gonna do?! It feels like this place is gonna blow up any second!
+
+- **Traveler:** There's no time. Let's go with it to the spaceship.
+
+**Paimon:** Oh no! It's too late!
+
+You fail to stop the self-destruct sequence, and as the countdown ends, the base is engulfed in roaring flames.
+The good news is you manage to escape the explosion unscathed with Paimon in tow.
+But alas, the mysterious black kuuhenki, the spaceship bound for the moon, and the tale behind them all vanish from your journey forever.
+
+#### Go to the lunar shuttle
+
+#### The lunar shuttle has been launched...
 
 #### Confront the black kuuhenki
 
@@ -906,19 +1103,23 @@ Let's go after her!
 
 **Paimon:** Seriously? Playing dumb again!?
 
-Say something, or I'll throw you into space.
+- **Traveler:** Say something, or I'll throw you into space.
 
 **Mysterious Kuuhenki:** !
 
 **Paimon:** We definitely heard you speak just now, right? No, wait... You spoke through the base's systems, didn't you?
 
-Can't you speak yourself?
+- **Traveler:** Can't you speak yourself?
 
 **Mysterious Kuuhenki:** !
 
 **Paimon:** Huh, that's weird...
 
 **Paimon:** Then how about... we take a look around this ship? Let's see if we can find something to help you talk.
+
+#### Search the lunar shuttle
+
+**Celestial Orbit:** This vessel is bound for lunar orbit.
 
 #### Search the lunar shuttle
 
@@ -950,7 +1151,7 @@ While you think, the kuuhenki slips into the escape pod. A moment later, she ret
 
 **Paimon:** ...Why do you pant so much when you talk?
 
-It looks like the base and the spaceship were made by the dragons.
+- **Traveler:** It looks like the base and the spaceship were made by the dragons.
 
 **Paimon:** No wonder we ran into their Secret Source Automatons back there!
 
@@ -982,7 +1183,7 @@ It looks like the base and the spaceship were made by the dragons.
 
 **Paimon:** Oh no... In that case... what does that make us?
 
-People who came along of their own accord...
+- **Traveler:** People who came along of their own accord...
 
 **Paimon:** No, no, how could this happen? We're not that clueless, are we?
 
@@ -998,9 +1199,15 @@ People who came along of their own accord...
 
 **Paimon:** ...Ugh, this is really starting to get on Paimon's nerves...
 
+##### Response branch 1
+
 - **Traveler:** Who are you?
 
+##### Response branch 2
+
 - **Traveler:** What... are you?
+
+##### Shared continuation
 
 **Mysterious Kuuhenki:** I'm sorry... I'm not sure...
 
@@ -1022,7 +1229,7 @@ People who came along of their own accord...
 
 **Paimon:** How could you forget something like that!?
 
-So your home is on the moon?
+- **Traveler:** So your home is on the moon?
 
 **Paimon:** Oh, right! You keep talking about going back to the moon... So you're not a local kuuhenki from Teyvat?
 
@@ -1040,15 +1247,21 @@ So your home is on the moon?
 
 **Paimon:** And now the two of us have gone whoosh and flown right out of Teyvat, like a couple of silly Anemo Slimes hit by an arrow!
 
+##### Response branch 1
+
 - **Traveler:** That about sums it up...
 
+##### Response branch 2
+
 - **Traveler:** We're already in flight. Might as well make our peace with it.
+
+##### Shared continuation
 
 **Paimon:** Ugh... You tricked us, and that makes you a bad egg in Paimon's books! From now on, she's gonna call you, uhm... Eggie!
 
 **Paimon:** *sob*... Good Hunter, Wanmin Restaurant, Shimura's... Will we ever meet again?
 
-**Mysterious Kuuhenki:** ...I'm... sorry...
+**Eggie:** ...I'm... sorry...
 
 **Paimon:** Hey, hey... Are those tears...? Uhm, maybe Paimon was a little too mean? Please don't cry...
 
@@ -1056,19 +1269,19 @@ So your home is on the moon?
 
 **Paimon:** If you play along, we can split the snacks twenty-eighty... Alright?
 
-**Mysterious Kuuhenki:** Snacks?
+**Eggie:** Snacks?
 
 **Paimon:** Ahem! Anyway... Eggie, you're the one who made us think Columbina was in danger! There's no way we could have sat back and done nothing knowing a friend was in trouble.
 
 **Paimon:** So you have to take full responsibility for the situation we're in right now!
 
-We can head back once we find Columbina.
+- **Traveler:** We can head back once we find Columbina.
 
-**Mysterious Kuuhenki:** ...I can... help...
+**Eggie:** ...I can... help...
 
 **Paimon:** Hmm... Then it's settled! Let's make this a surprise visit for Columbina! Who knows, maybe she'll be really happy to have friends come and play with her!
 
-You cheered up quickly, hey, Paimon?
+- **Traveler:** You cheered up quickly, hey, Paimon?
 
 **Paimon:** Ahem... Well. Paimon suddenly realized that we'll soon be famous as the first adventurers to set foot on the moon! One small step for us, one big step for Teyvat, right?
 
@@ -1084,13 +1297,29 @@ You cheered up quickly, hey, Paimon?
 
 **Paimon:** There are so many landing sites, but they all have super weird names... Which one should we pick?
 
-- **Traveler:** Connection failed. Please select another location.
+##### Response branch 1
+
+**Celestial Orbit:** Connection failed. Please select another location.
+
+##### Response branch 2
 
 - **Traveler:** Rotate
 
+##### Response branch 3
+
 - **Traveler:** Confirm.
 
-**Celestial Orbit:** Connection failed. Please select another location.
+##### Shared continuation
+
+- **Traveler:** Archaeolune Storm Research Center
+
+- **Traveler:** The Eye of Ibni-Belum
+
+- **Traveler:** Moonheart Gap
+
+- **Traveler:** Ungien's Circle
+
+- **Traveler:** Select another location.
 
 **Celestial Orbit:** Connection established. Confirm landing thruster initiation?
 
@@ -1098,130 +1327,15 @@ You cheered up quickly, hey, Paimon?
 
 **Paimon:** Whoa! Are we getting ready to land?
 
-Select another location.
-
-Ungien's Circle
-
-Archaeolune Storm Research Center
-
-The Eye of Ibni-Belum
-
-Moonheart Gap
-
 ## ZH
 
 ### 先驱
 
-在皮拉米达城东侧的一座偏僻小岛上，你们远远望见了哥伦比娅的身影，因为担心好友遭遇麻烦，于是你们追着她的背影，踏进了一段未知的冒险…
-
-
-**派蒙:** 呼——旅行者，还是你厉害，这下应该没问题了吧？
-
-**天轨仪:** 警报！确认主控制大厅防卫者核心被摧毁，即将启动自毁模式。
-
-**天轨仪:** 请相关人员及时撤离，倒计时开始…
-
-**派蒙:** 完蛋了！基地发飙了！它要和我们同归于尽…怎么办？
-
-**派蒙:** 万一有什么重要情报被毁掉了怎么办？
-
-**天轨仪:** 请验证天轨坐标。
-
-**派蒙:** 咦？什么天轨坐标？呜哇！那家伙出现了！
-
-**神秘的月灵:** ！
-
-**派蒙:** 你在干什么？有了坐标就可以阻止基地自毁吗？！
-
-**神秘的月灵:** ！！！
-
-**派蒙:** 坐标是什么，别急别急，让我想想！
-
-**天轨仪:** 请验证天轨坐标。
-
-**派蒙:** 想起来了…符号一共有三个！首先是一个形状最简单的！
-
-- **旅行者:** ●
-
-- **旅行者:** ◆
-
-- **旅行者:** ▲
-
-**派蒙:** 第二位符号是一个形状很复杂的！
-
-- **旅行者:** ●
-
-- **旅行者:** ◆
-
-- **旅行者:** ▲
-
-**派蒙:** 最后是…有点想不起来，但好像和第二位一样！
-
-- **旅行者:** ●
-
-- **旅行者:** ◆
-
-- **旅行者:** ▲
-
-**天轨仪:** 天轨坐标验证错误。
-
-**派蒙:** 坏了！难道是我最后一位记错了？不急不急，赶快重新来一遍！
-
-**天轨仪:** 请重新验证天轨坐标。
-
-**派蒙:** 再来一次，首先是一个最简单的符号！
-
-- **旅行者:** ●
-
-- **旅行者:** ◆
-
-- **旅行者:** ▲
-
-**派蒙:** 第二位是一个最复杂的符号！
-
-- **旅行者:** ●
-
-- **旅行者:** ◆
-
-- **旅行者:** ▲
-
-**派蒙:** 最后是…最后是…哎呀，最后一位到底是什么…？
-
-**神秘的月灵:** 是●
+#### 任务记录
 
 **派蒙:** 对对！没错，就是●！但是谁在说话…？哎呀没时间了！先输进去！
 
-**天轨仪:** 天轨坐标验证成功，引擎点火中，请尽快进入登月飞船。
-
-**派蒙:** 验证成功了吗？怎么警报还在响？
-
-**神秘的月灵:** …哥伦…
-
-**派蒙:** 刚才是这家伙在说话吗？喂！你是想说哥伦比娅吗？
-
-**神秘的月灵:** …月亮…
-
-**派蒙:** 月亮上？她…她怎么了？
-
-**神秘的月灵:** …拯救…
-
-**派蒙:** 拯救？！是叫我们去救她吗？！
-
-哥伦比娅遇到麻烦了？
-
-**神秘的月灵:** …飞船…月亮…
-
-**派蒙:** 坐飞船？去月亮上？喂！你把话说清楚啊！
-
-**派蒙:** 旅行者，怎么办？感觉这里马上就要爆炸了！
-
-没时间了，先跟着它去飞船。
-
-**派蒙:** 完蛋了，来不及了！
-
-你们没能阻止一切，基地在倒计时结束后化为了轰鸣中的火光。
-幸运的是，你带着派蒙丝毫未损地逃离了爆炸。
-不幸的是，那只神秘的黑色月灵，那艘前往月球的飞船，还有它们背后的故事，都消失在了你的旅程中。
+在皮拉米达城东侧的一座偏僻小岛上，你们远远望见了哥伦比娅的身影，因为担心好友遭遇麻烦，于是你们追着她的背影，踏进了一段未知的冒险…
 
 #### 与哥伦比娅打招呼
 
@@ -1229,11 +1343,13 @@ Moonheart Gap
 
 **派蒙:** 咦？快看！那边那个人…
 
-哥伦比娅？
+- **旅行者:** 哥伦比娅？
 
 **派蒙:** 她怎么也来这里了？我还以为会在银月之庭呢…
 
 **派蒙:** 真有缘分，嘿嘿，我们过去跟她打个招呼吧？
+
+#### 跟上哥伦比娅
 
 #### 跟上哥伦比娅
 
@@ -1243,7 +1359,7 @@ Moonheart Gap
 
 **派蒙:** 可是她怎么会在这里呢？有什么事情要办吗？
 
-我们跟过去看看吧。
+- **旅行者:** 我们跟过去看看吧。
 
 **派蒙:** 嗯，虽然不觉得她会遇到麻烦，但还是去确认一下比较放心。
 
@@ -1251,17 +1367,11 @@ Moonheart Gap
 
 #### 跟上哥伦比娅
 
-**天轨仪:** 飞船正前往绕月轨道。
+#### 寻找哥伦比娅的踪迹
+
+#### 进入通往地下的入口
 
 #### 探索地下遗迹
-
-**派蒙:** 按照路线图，这里就是主控制大厅了吧？
-
-**派蒙:** 喂！假扮哥伦比娅的坏家伙！别藏了！快给我们出来！
-
-**天轨仪:** 警报！检测到主控制大厅出现入侵者，开启防卫模式。
-
-**派蒙:** 哇！对不起！我们叫的不是你！
 
 #### 探索地下遗迹
 
@@ -1269,33 +1379,33 @@ Moonheart Gap
 
 **派蒙:** 那几个落在地上的圆环是什么？
 
-感觉像是某种装置。
+- **旅行者:** 感觉像是某种装置。
 
 **派蒙:** 装置吗？那旁边这个发光的牌子…会不会是说明书？
 
 **派蒙:** 我来看看。
 
-**天轨仪:** 警报！警报！
+**古遗道标:** 警报！警报！
 
 **派蒙:** 糟了…我好像触发什么入侵警报了！
 
-**天轨仪:** 警报！警报！
+**古遗道标:** 警报！警报！
 
-**天轨仪:** 能源传输已中止，请前往能源室激活备用能源！
+**古遗道标:** 能源传输已中止，请前往能源室激活备用能源！
 
 **派蒙:** 哎呀，原来只是没有能源啊，吓我一跳！
 
-饿肚子的派蒙也会这样。
+- **旅行者:** 饿肚子的派蒙也会这样。
 
 **派蒙:** 我…我可有风度多了！
 
-我们先去能源室看看吧。
+- **旅行者:** 我们先去能源室看看吧。
 
 **派蒙:** 去能源室吗？
 
 **派蒙:** 哦——懂了，如果哥伦比娅来这里有什么事要做，肯定得先启动能源。
 
-对，我们可能在那里找到她。
+- **旅行者:** 对，我们可能在那里找到她。
 
 **派蒙:** 哎呀，我们真是机智呀！
 
@@ -1307,7 +1417,7 @@ Moonheart Gap
 
 **派蒙:** 但是怎么没看见呢？
 
-看起来能源也没有被启动。
+- **旅行者:** 看起来能源也没有被启动。
 
 **派蒙:** 是啊…真奇怪，难道哥伦比娅已经来过这里，发现能源启动不了，所以又去其它地方找办法了？
 
@@ -1315,11 +1425,19 @@ Moonheart Gap
 
 #### 设法激活能源机关
 
+#### 设法激活能源机关
+
 **派蒙:** 怎么了？怎么没动静？
+
+##### 对话分支 1
 
 - **旅行者:** 启动不了。
 
+##### 对话分支 2
+
 - **旅行者:** 没反应。
+
+##### 共同后续
 
 **派蒙:** 果然是这样…那就说明它一定还有别的条件，哥伦比娅一定也是遇到了这个问题，所以去了别的…欸？！
 
@@ -1327,7 +1445,7 @@ Moonheart Gap
 
 **派蒙:** 嘿嘿…见到我们是不是很意外？我们是担心你有麻烦才跟过来的。
 
-哥伦比娅，需要帮忙吗？
+- **旅行者:** 哥伦比娅，需要帮忙吗？
 
 **哥伦比娅:** ？
 
@@ -1341,7 +1459,7 @@ Moonheart Gap
 
 **派蒙:** …你怎么了？你是在模仿尼可，在心里跟我们说悄悄话吗？可我什么也没听见呀！
 
-哥伦比娅，你还好吗？
+- **旅行者:** 哥伦比娅，你还好吗？
 
 **哥伦比娅:** ……
 
@@ -1356,6 +1474,8 @@ Moonheart Gap
 **派蒙:** 你是想让我们激活这个吗？
 
 **派蒙:** 旅行者，虽然不知道是怎么了，但她好像想要激活这个机关，我们再试一次看看吧。
+
+#### 设法激活能源机关
 
 #### 和哥伦比娅对话
 
@@ -1379,19 +1499,27 @@ Moonheart Gap
 
 **天轨仪:** 天轨运算中，请选择需要查看的三月坐标。
 
+##### 对话分支 1
+
 - **旅行者:** 「恒月」
 
+**天轨仪:** 连接已断开…定位失败…
+
+##### 对话分支 2
+
 - **旅行者:** 「霜月」
+
+**天轨仪:** 连接中…定位成功。
+
+**天轨仪:**   
+
+##### 对话分支 3
 
 - **旅行者:** 「虹月」
 
 **天轨仪:** 连接已断开…定位失败…
 
-**天轨仪:** 连接中…定位成功。
-
-**天轨仪:** ◆ ▲ ●
-
-**天轨仪:** 连接已断开…定位失败…
+##### 共同后续
 
 **派蒙:** 居然真的算出霜月的坐标了…可坐标是用来干什么的呢？
 
@@ -1401,7 +1529,7 @@ Moonheart Gap
 
 **天轨仪:** 是否需要获取路线图？
 
-（获取路线图）
+- **旅行者:** （获取路线图）
 
 **天轨仪:** 请前往主控制大厅进行登月准备。
 
@@ -1409,9 +1537,9 @@ Moonheart Gap
 
 **派蒙:** 哥伦比娅…这个地方是用来登月的？！
 
-（但是，哥伦比娅曾经带我去过霜月上…她需要这个仪器吗？）
+- **旅行者:** （但是，哥伦比娅曾经带我去过霜月上…她需要这个仪器吗？）
 
-（而且她刚才给我的，也是一种全新的力量，之前没有见过她使用…）
+- **旅行者:** （而且她刚才给我的，也是一种全新的力量，之前没有见过她使用…）
 
 **哥伦比娅:** ……
 
@@ -1419,11 +1547,11 @@ Moonheart Gap
 
 **哥伦比娅:** ……
 
-哥伦比娅，可以伸出你的手吗？
+- **旅行者:** 哥伦比娅，可以伸出你的手吗？
 
 **哥伦比娅:** ？
 
-放上来，就像在银月之庭那样。
+- **旅行者:** 放上来，就像在银月之庭那样。
 
 **哥伦比娅:** ……
 
@@ -1433,11 +1561,187 @@ Moonheart Gap
 
 **派蒙:** 呜哇！这是怎么回事？哥伦比娅变成了一个黑色的月灵！
 
-那不是哥伦比娅！
+- **旅行者:** 那不是哥伦比娅！
 
 **派蒙:** 什么？！冒牌货？！
 
-我们追！
+- **旅行者:** 我们追！
+
+#### 追踪黑色月灵
+
+#### 追踪黑色月灵
+
+#### 追踪黑色月灵
+
+#### 追踪黑色月灵
+
+#### 进入主控制大厅寻找黑色月灵
+
+**派蒙:** 按照路线图，这里就是主控制大厅了吧？
+
+**派蒙:** 喂！假扮哥伦比娅的坏家伙！别藏了！快给我们出来！
+
+**主控制终端:** 警报！检测到主控制大厅出现入侵者，开启防卫模式。
+
+**派蒙:** 哇！对不起！我们叫的不是你！
+
+#### 击败防卫者
+
+#### 调查天轨仪
+
+**派蒙:** 呼——旅行者，还是你厉害，这下应该没问题了吧？
+
+**主控制终端:** 警报！确认主控制大厅防卫者核心被摧毁，即将启动自毁模式。
+
+**主控制终端:** 请相关人员及时撤离，倒计时开始…
+
+**派蒙:** 完蛋了！基地发飙了！它要和我们同归于尽…怎么办？
+
+**派蒙:** 万一有什么重要情报被毁掉了怎么办？
+
+**主控制终端:** 请验证天轨坐标。
+
+**派蒙:** 咦？什么天轨坐标？呜哇！那家伙出现了！
+
+**神秘的月灵:** ！
+
+**派蒙:** 你在干什么？有了坐标就可以阻止基地自毁吗？！
+
+**神秘的月灵:** ！！！
+
+**派蒙:** 坐标是什么，别急别急，让我想想！
+
+**主控制终端:** 请验证天轨坐标。
+
+**派蒙:** 想起来了…符号一共有三个！首先是一个形状最简单的！
+
+##### 对话分支 1
+
+- **旅行者:** 
+
+##### 对话分支 2
+
+- **旅行者:** 
+
+##### 对话分支 3
+
+- **旅行者:** 
+
+##### 共同后续
+
+**派蒙:** 第二位符号是一个形状很复杂的！
+
+##### 对话分支 1
+
+- **旅行者:** 
+
+##### 对话分支 2
+
+- **旅行者:** 
+
+##### 对话分支 3
+
+- **旅行者:** 
+
+##### 共同后续
+
+**派蒙:** 最后是…有点想不起来，但好像和第二位一样！
+
+##### 对话分支 1
+
+- **旅行者:** 
+
+##### 对话分支 2
+
+- **旅行者:** 
+
+##### 对话分支 3
+
+- **旅行者:** 
+
+##### 共同后续
+
+**主控制终端:** 天轨坐标验证错误。
+
+**派蒙:** 坏了！难道是我最后一位记错了？不急不急，赶快重新来一遍！
+
+**主控制终端:** 请重新验证天轨坐标。
+
+**派蒙:** 再来一次，首先是一个最简单的符号！
+
+##### 对话分支 1
+
+- **旅行者:** 
+
+##### 对话分支 2
+
+- **旅行者:** 
+
+##### 对话分支 3
+
+- **旅行者:** 
+
+##### 共同后续
+
+**派蒙:** 第二位是一个最复杂的符号！
+
+##### 对话分支 1
+
+- **旅行者:** 
+
+##### 对话分支 2
+
+- **旅行者:** 
+
+##### 对话分支 3
+
+- **旅行者:** 
+
+##### 共同后续
+
+**派蒙:** 最后是…最后是…哎呀，最后一位到底是什么…？
+
+**神秘的月灵:** 是
+
+**派蒙:** 对对！没错，就是！但是谁在说话…？哎呀没时间了！先输进去！
+
+- **旅行者:** 
+
+**系统声:** 天轨坐标验证成功，引擎点火中，请尽快进入登月飞船。
+
+**派蒙:** 验证成功了吗？怎么警报还在响？
+
+**神秘的月灵:** …哥伦…
+
+**派蒙:** 刚才是这家伙在说话吗？喂！你是想说哥伦比娅吗？
+
+**神秘的月灵:** …月亮…
+
+**派蒙:** 月亮上？她…她怎么了？
+
+**神秘的月灵:** …拯救…
+
+**派蒙:** 拯救？！是叫我们去救她吗？！
+
+- **旅行者:** 哥伦比娅遇到麻烦了？
+
+**神秘的月灵:** …飞船…月亮…
+
+**派蒙:** 坐飞船？去月亮上？喂！你把话说清楚啊！
+
+**派蒙:** 旅行者，怎么办？感觉这里马上就要爆炸了！
+
+- **旅行者:** 没时间了，先跟着它去飞船。
+
+**派蒙:** 完蛋了，来不及了！
+
+你们没能阻止一切，基地在倒计时结束后化为了轰鸣中的火光。
+幸运的是，你带着派蒙丝毫未损地逃离了爆炸。
+不幸的是，那只神秘的黑色月灵，那艘前往月球的飞船，还有它们背后的故事，都消失在了你的旅程中。
+
+#### 前往登月飞船
+
+#### 登月飞船发射…
 
 #### 与黑色月灵对质
 
@@ -1449,19 +1753,23 @@ Moonheart Gap
 
 **派蒙:** 喂！你怎么又开始装傻了？！
 
-不说话就把你丢出去。
+- **旅行者:** 不说话就把你丢出去。
 
 **神秘的月灵:** ！
 
 **派蒙:** 刚才你明明说过话了吧？不对…它刚才是不是通过基地的系统说话的？
 
-你不能直接开口？
+- **旅行者:** 你不能直接开口？
 
 **神秘的月灵:** ！
 
 **派蒙:** 还有这种事？
 
 **派蒙:** 那要不…我们在飞船里找找看？看看有没有能派上用场的东西。
+
+#### 搜索登月飞船
+
+**天轨仪:** 飞船正前往绕月轨道。
 
 #### 搜索登月飞船
 
@@ -1493,7 +1801,7 @@ Moonheart Gap
 
 **派蒙:** …你说话怎么还大喘气呢？
 
-看来基地和飞船都是龙族的造物。
+- **旅行者:** 看来基地和飞船都是龙族的造物。
 
 **派蒙:** 难怪我们最开始就遇见了龙族的秘源机兵！
 
@@ -1525,7 +1833,7 @@ Moonheart Gap
 
 **派蒙:** 唔…那我们…我们现在算什么？
 
-是我们自己跟来的…
+- **旅行者:** 是我们自己跟来的…
 
 **派蒙:** 不不…怎么会是这样呢？岂不是显得我们一点也不机智？
 
@@ -1541,9 +1849,15 @@ Moonheart Gap
 
 **派蒙:** 我真要给你一点颜色看看了…
 
+##### 对话分支 1
+
 - **旅行者:** 那你是什么人？
 
+##### 对话分支 2
+
 - **旅行者:** 那你是什么…东西？
+
+##### 共同后续
 
 **神秘的月灵:** 对不起…我不知道…
 
@@ -1565,7 +1879,7 @@ Moonheart Gap
 
 **派蒙:** 喂！这种东西也能忘吗？
 
-所以你的家在月亮上吗？
+- **旅行者:** 所以你的家在月亮上吗？
 
 **派蒙:** 对哦，你一直在说回月亮，你不是提瓦特本地月灵啊？
 
@@ -1583,35 +1897,41 @@ Moonheart Gap
 
 **派蒙:** 然后我们俩就像被烧屁股的笨蛋风史莱姆一样，咻的一下飞出提瓦特了呀！
 
+##### 对话分支 1
+
 - **旅行者:** 总结得很不错。
 
+##### 对话分支 2
+
 - **旅行者:** 既飞之则安之吧。
+
+##### 共同后续
 
 **派蒙:** 可恶…我真要给你起一个难听的绰号了，你这黑色的坏蛋，就叫…就叫你黑蛋！
 
 **派蒙:** 呜呜…亲爱的猎鹿人、万民堂、志村屋…我们还能再见吗？
 
-**神秘的月灵:** …对…不起…
+**黑蛋:** …对…不起…
 
 **派蒙:** 欸欸，你怎么还掉眼泪了…是我说得太重了吗？别这样，别这样…
 
-**派蒙:** 喂，黑蛋，我只是装出可怜巴巴的样子，这样他 / 她之后也许会给我多买点零食。
+**派蒙:** 喂，黑蛋，我只是装出可怜巴巴的样子，这样他之后也许会给我多买点零食。 / 喂，黑蛋，我只是装出可怜巴巴的样子，这样她之后也许会给我多买点零食。
 
 **派蒙:** 你就先委屈一下，后面赚到的零食，你二我八，好不好？
 
-**神秘的月灵:** 零食？
+**黑蛋:** 零食？
 
 **派蒙:** 咳咳，总之…黑蛋，是你让我们误以为哥伦比娅有危险，我们不可能在知道朋友有危险时什么也不做的。
 
 **派蒙:** 所以我们现在的情况，你要负全责。
 
-等找到哥伦比娅就可以回去了。
+- **旅行者:** 等找到哥伦比娅就可以回去了。
 
-**神秘的月灵:** …我来…帮忙…
+**黑蛋:** …我来…帮忙…
 
 **派蒙:** 那就这么说定了！干脆就把这个当作给哥伦比娅的惊喜吧，朋友来找她玩，说不定她会很开心呢！
 
-派蒙的心态调整得很快。
+- **旅行者:** 派蒙的心态调整得很快。
 
 **派蒙:** 咳咳…因为…因为我突然想到，我们会成为首次登上月亮的冒险家呢！这真是伟大的一步吧？
 
@@ -1627,26 +1947,32 @@ Moonheart Gap
 
 **派蒙:** 有好几个降落地点呢，这些名字好奇怪…该选哪一个比较好呢？
 
-- **旅行者:** 连接失败，请选择其他地点。
+##### 对话分支 1
+
+**天轨仪:** 连接失败，请选择其他地点。
+
+##### 对话分支 2
 
 - **旅行者:** 旋转
 
+##### 对话分支 3
+
 - **旅行者:** 确认。
 
-**天轨仪:** 连接失败，请选择其他地点。
+##### 共同后续
+
+- **旅行者:** 古月风暴研究所
+
+- **旅行者:** 伊比尼伯龙之眼
+
+- **旅行者:** 月心罅隙
+
+- **旅行者:** 乌吉恩圈
+
+- **旅行者:** 返回选择其它地点。
 
 **天轨仪:** 已建立连接，确认启动降落推进？
 
 **天轨仪:** 已建立连接，降落推进启动…
 
 **派蒙:** 呜哇！要准备降落了吗？
-
-返回选择其它地点。
-
-乌吉恩圈
-
-古月风暴研究所
-
-伊比尼伯龙之眼
-
-月心罅隙

@@ -280,3 +280,914 @@ Neuvillette obeys no edict from the heavens, but he does acknowledge human will.
 在复仇的大战中受到重创，僭位者机能损毁，无力再凭借自己的绝对威权压制这个世界本来的秩序。为了镇压、调服世界的不甘与愤恨，僭位者与另一位后来者一同制造了「神之心」。世上应当建立起这样的秩序，人因此也只能拥有这七类念想。所有来自原初的碎片被驱使着互相吞并。
 在那以后，当人的渴望传达天上，七位物质世界的执政就应当为了他而献礼。尽管并不知晓究竟是何人或者何种愿望通达了神圣的境地，七神仍需分封出自身支配权的碎屑予其人。而当获取了赠礼的人完成使命之后…众神收到的回赠也会更加丰厚。
 那维莱特虽然并不听从天上的传谕，但是他认可人类的意义。他也献出了自己的一部分，就像是最传统的龙之宝藏一样，等待着勇敢的人前来领取。
+
+# voice_source_ids: 87000,87001,87002,87003,87004,87005,87006,87007,87008,87009,87010,87011,87012,87013,87014,87015,87016,87017,87018,87019,87020,87021,87022,87023,87024,87025,87026,87027,87028,87029,87030,87031,87032,87033,87034,87035,87036,87037,87038,87039,87040,87041,87042,87043,87044,87045,87046,87047,87048,87049,87050,87051,87052,87053,87054,87055,87056,87057,87058,87059,87060,87061,87062,87063,87064,87065,87066,87067,87068,87069,87070,87071,87072,87073,87074
+
+## REPLICAS_RU
+
+### Привет...
+
+Приветствую. Я верховный судья или «юдекс» Фонтейна, но можете называть меня просто по фамилии - Нёвиллет. Я не пытаюсь держаться от вас на расстоянии... Нет, я просто сознаю, что излишняя сердечность может поставить под сомнение беспристрастность судебной власти в глазах некоторых людей. Если у вас есть какой-либо запрос - разумеется, согласующийся с рамками закона - мы можем присесть и обсудить его за стаканчиком воды из деревни Цяоин.
+
+### Поболтаем: Судебные процессы
+
+Я вижу ценность не только в своей работе, но и во всех начинаниях жителей Фонтейна. Думаю, что могу гордиться своими обязанностями.
+
+### Поболтаем: Вкус воды
+
+Вода из разных мест имеет разный вкус. Вода из Мондштадта студёная и кристально чистая, у воды из Ли Юэ есть стойкое послевкусие, в Инадзуме вода обладает несравнимой глубиной вкуса, а у воды Сумеру сложный букет, который можно оценить в полной мере, только если набраться терпения.
+
+### Поболтаем: Мелюзины
+
+Мелюзины - прекрасные существа, настоящая гордость Фонтейна. К ним следует относиться по-дружески, и им ни в коем случае не стоит причинять вреда.
+
+### Когда идёт дождь...
+
+Ах, прошу прощения. Этот дождь, должно быть, доставляет тебе неудобства...
+
+### После дождя...
+
+Вот и всё...
+
+### Когда гремит гром...
+
+Как там говорится? «Гром среди ясного неба»? Да, думаю, именно это я и чувствую.
+
+### Когда идёт снег...
+
+Изначально снег для воды являлся средством самоочищения. Но из-за деятельности людей снег уже не так чист, так что лучше не ешь его.
+
+### Когда светит солнце...
+
+В такую погоду хорошо сидеть где-нибудь у окна и, хм, любоваться солнечным светом.
+
+### В пустыне...
+
+Это покушение на моё убийство?
+
+### Доброе утро...
+
+Доброе утро. Надеюсь, у тебя будет хороший день.
+
+### Добрый день...
+
+А, уже полдень. Ты, наверное, с нетерпением ждёшь послеобеденной чашки чая или кофе? Я так вот точно жду.
+
+### Добрый вечер...
+
+Добрый вечер. Надеюсь, сегодня тебе не пришлось столкнуться с неприятностями.
+
+### Спокойной ночи...
+
+Спокойной ночи. Я нахожу прекрасным зрелище недвижной глади воды, а потому желаю тебе спокойного, ничем не омрачённого сна. Пусть простор твоих сновидений не тронут волны и зыбь потрясений.
+
+### О Нёвиллете: Судебные процессы
+
+Я не являюсь ярым поклонником судебных процессов. Я председательствую на них только по долгу службы, из-за порученной мне миссии.
+
+### О Нёвиллете: Плачущий Гидро дракон
+
+Так ты уже слышал эту местную легенду? Ох, и кто же её тебе рассказал? И кто вообще пустил этот слух?.. Впрочем, неважно. Не думаю, что Гидро дракон действительно умеет плакать. Думаю, он лишь пробует на вкус слёзы, пролитые на этой земле, и эмоции, что в них содержатся, и оттого бывает взволнован. / Так ты уже слышала эту местную легенду? Ох, и кто же её тебе рассказал? И кто вообще пустил этот слух?.. Впрочем, неважно. Не думаю, что Гидро дракон действительно умеет плакать. Думаю, он лишь пробует на вкус слёзы, пролитые на этой земле, и эмоции, что в них содержатся, и оттого бывает взволнован.
+
+### О Нёвиллете: Значение судебных процессов
+
+Обсуждения этой темы давно набили оскомину... Я не лучший знаток человечества, но для меня очевидно, что понятия справедливости, честности, равенства и законности в обществе не равнозначны и никогда таковыми не станут. Вода по своей природе всегда стремится обрести единый уровень по всей поверхности. Прошлый Гидро Архонт Эгерия надеялась достичь всеобщего равенства, соединив всё живое любовью. Её преемница предпочла путь законности, но в итоге это вылилось в проведение судов ради самих судов. Но у всего есть свои причины, а потому мне стоит воздержаться от критики.
+
+### О нас: Свидетели
+
+Хочу пригласить тебя, гостя из-за звёзд, стать свидетелем того, как я буду судить этот искажённый мир. «На троне страны героев, которой прежде правил сам Небесный отец, теперь утвердилась кучка грязных перьев. Век полон беспорядка, но я рождён, чтоб всё исправить».
+
+### О нас: Мир людей
+
+Время, проведённое среди жителей Фонтейна и в путешествии с тобой, изменило мои взгляды. Кроме того, я давно простил грехи человечества, поэтому могу обещать, что мои будущие суждения не причинят вреда простым людям. А вот мои претензии к узурпаторам ещё не исчерпаны... Их кровный долг не будет забыт.
+
+### Глаз Бога I
+
+Мне как-то посоветовали носить фальшивый Глаз Бога, чтобы легче было вмешиваться в момент опасности. Честно говоря, я был не в восторге от предложения маскировать собственную силу. Но, проведя немало времени рядом с обладателями Глаз Бога, я научился ценить человеческие стремления и волю.
+
+### Глаз Бога II
+
+Что? Ты говоришь, что даже некоторые из Семи богов среди людей носят поддельные Глаза Бога? Ха... Прошу прощения, на миг утратил контроль над собой, настолько это абсурдно.
+
+### Давай поделимся: Законы
+
+В Фонтейне много диковинных законов, например, «третьего числа каждого месяца запрещено запускать летающие объекты», «все двустворчатые моллюски, выброшенные на берег в сезон малой воды, принадлежат Гидро Архонту, а спиралевидные - гражданам», «запрещено давать животным имя Фурина», «томатный соус запрещено употреблять в ресторанах и столовых как самостоятельное блюдо», «по отношению к мелюзинам следует использовать местоимение "она", а не "оно"»... Последнее правило - моего авторства.
+
+### Давай поделимся: Дождливые дни
+
+Порой я мечтаю о том, чтобы иметь возможность в любое время выйти под дождь. Ох, не думай, дело вовсе не в чрезмерной нагрузке.
+
+### Интересные вещи: Вишапы
+
+Родословная вишапов восходит к Фонтмеру, поэтому они так искусны в эволюции. Мне вспоминается старый обычай драконов: если кто-то из наших собратьев умирал до срока, мы делали глоток его крови. И каждый раз, когда движение луны и звёзд вздымает в море приливы, вода в наших телах, порождённых Гидро, тоже поднимается, и мы знаем, что в этот момент воскресают наши ушедшие сородичи.
+
+### Интересные вещи: Люди
+
+По моим наблюдениям, люди привыкли противостоять природе. Сейчас наконец начали звучать отдельные голоса о том, что человек - такая же часть природы, как другие существа. Как тот, кто немного разбирается в этом вопросе, я сказал бы, что человеческой цивилизации и природе этой планеты нужно начать искать пути сосуществования друг с другом.
+
+### О Гео Архонте...
+
+Ничто не помешает мне вынести приговор каждому из Семи. Золотой бог узурпировал власть Гео, а значит, должен быть призван к суду. Но тем, кто не хочет видеть нас по разные стороны конфликта, не стоит беспокоиться: я намерен оставаться в Фонтейне в обозримом будущем, что может означать ещё четыре сотни лет. К тому же, даже когда суд состоится, он не обязательно должен закончиться битвой.
+
+### Об Анемо Архонте...
+
+Я исполню свою клятву судить всех Семерых по очереди, даже если небо рухнет и земля перевернётся. Как захватчик власти Анемо, бог ветра и надежды также должен предстать перед судом. ...Хм? Ты говоришь, он проводит большую часть своего времени в безобидном пьянстве? Что ж, даже если так, я должен сам встретиться с ним, чтобы понять, как действовать дальше.
+
+### Об Электро Архонте...
+
+Как выживший представитель расы драконов, вновь обрётший полную силу, я должен выполнить свою клятву и обязательства, даже если для этого понадобится вернуть всю воду в океане в небеса. Приняв власть Электро, Наруками включила себя в список узурпаторов. О, так она уединилась в Царстве эвтюмии и теперь редко появляется на публике? Тогда я нанесу ей визит через несколько веков.
+
+### О Дендро Архонте...
+
+Хотя однажды она предстанет пред моим судом, но я должен отдать должное богине трав и деревьев. Никто не идеален, но её преданность и добрая воля свидетельствуют о неустанном стремлении к развитию. Мне очень жаль, что с ней так плохо обращались на протяжении последних пятисот лет.
+
+### О Ризли
+
+Ризли - человек, заслуживающий доверия. Мне пришлось побороться за его титул и репутацию. Думаешь, меня подкупили его лесть и преданный вид? В Инадзуме есть пословица: «Невысказанное слово - цветок», что означает, что порой лучше помолчать.
+
+### О Клоринде...
+
+Непревзойденное мастерство Клоринды сделало её самым влиятельным судебным дуэлянтом нашей страны. Будучи преемницей былых Охотников Сумеречного двора, она играет важную роль в обеспечении справедливости и беспристрастности судебного процесса. А ещё она куда человечнее, чем кажется.
+
+### О Лини и Линетт...
+
+Они устраивают просто потрясающие выступления, не правда ли? Вовлекают вас в собственный волшебный мир, где, с одной стороны, всё происходящее не более, чем ловкий обман, а с другой - возможны любые чудеса, если только вы готовы в них поверить.
+
+### О Сиджвин...
+
+Не знаю, как Сиджвин сейчас поживает. Но если я только узнаю, что её хоть в чём-то обижают, я сразу призову к себе Ризли и потребую объяснений. Она так добра, её легко ранить... В свой прошлый визит она привезла мне несколько плёнок со снимками и попросила рассказать больше о том, как мне понравилась вода Натлана... Когда уже там её следующий отпуск?
+
+### О Фурине...
+
+Наконец-то занавес её представления опустился. Театр - это всего лишь игра воображения, но Фурина смогла воспользоваться ей, чтобы исполнить свой долг. Чтобы наполниться решимостью, слабые должны опираться на заложенное в них безумие, и Фурина испила эту чашу сполна. Если будет возможность, надо будет воздать ей должное аплодисментами. Да, как только представится случай.
+
+### О Навии...
+
+Мне жаль так говорить, но после всех наших столкновений - когда я нечаянно разгневал её и когда принял её извинения - да даже сейчас, несмотря на чувство вины за произошедшее с её отцом, я чувствую себя... очень далёким от нее, как будто я наблюдаю за звездным небом со дна глубокого озера. Это ни в коем случае не намеренно, но и исправить это не так легко. Волны эмоций не так легко успокаиваются, как гладь воды.
+
+### Узнать больше о Нёвиллете I
+
+Обычно я стараюсь не устанавливать личных отношений с другими людьми и даже не сотрудничать с ними вне установленных процедур. Но вы показали себя надёжным человеком, кроме того, вы не замешаны ни в каких запутанных отношениях с различными влиятельными силами Фонтейна. Поэтому я с удовольствием отправлюсь с вами в путешествие.
+
+### Узнать больше о Нёвиллете II
+
+Об этом я могу сказать только в приватной беседе - публично я никогда не смогу поделиться своим мнением: мне совершенно непонятно, как Фонта смогла стать таким популярным напитком. Хотя, наверное, её привлекательность для людей небезынтересна. Одним глотком можно и восстановить водный баланс, и восполнить уровень сахара в крови, и всё это совсем недорого.
+
+### Узнать больше о Нёвиллете III
+
+Недавно я ходил на спектакль. Речь в нём шла о даме, чьё личное обаяние и злонамеренные интриги позволили ей, подобно призраку, не поддающемуся изгнанию, властвовать над делами грандиозного особняка, в котором она жила. Игра актеров была безупречной, а сюжет - исключительным. Он также напомнил мне о сегодняшнем положении дел в реальном мире.
+
+### Узнать больше о Нёвиллете IV
+
+По ряду причин я редко покидаю Фонтейн. Поэтому, хотя я с удовольствием пробую родниковую воду со всего мира, но сам я не предпринимаю путешествий за ней, эту воду мне доставляют сюда. И да, какими бы тонкими ни были вкусовые различия между образцами из разных регионов, я прекрасно умею их различать. Вы сомневаетесь в моих словах? Я - юдекс. Я не лгу.
+
+### Узнать больше о Нёвиллете V
+
+Должен сказать, что моя повседневная жизнь не лишена неудобств. Например, я часто наступаю на полы своего одеяния, когда сажусь, или сминаю свою прическу о кресло. А если слишком откидываю голову назад, то волосы порой цепляются за украшение. Тем не менее я должен носить эту одежду и терпеть все связанные с этим неудобства, поскольку это помогает сохранить достоинство верховного судьи. Кажется, по такому же принципу работает и весь мир в целом. Получив определённый статус, человек должен принять его, понять и научиться с ним сосуществовать. Именно этим я и занимаюсь.
+
+### Хобби Нёвиллета...
+
+Пробовать воду на вкус - целая наука. Если согреть воду элементом Пиро, у неё будет стандартный природный вкус, а вот если вскипятить на углях, то во вкусе появятся буколические нотки. Точно так же вода, охлаждённая Крио, довольно заурядна, совсем другое дело - вода из многолетних льдов Снежной.
+
+### Беспокойство Нёвиллета...
+
+Не выгляжу ли я в дождливые дни странно без зонта?..
+
+### Любимая еда...
+
+Животные могут довольно долго жить без пищи, но без воды они погибнут за пару дней. Ни один деликатес не сравнится с чистой водой. На втором месте - еда, в которой содержится много воды.
+
+### Нелюбимая еда...
+
+Как люди могут есть жареную или запечённую на огне пищу без соуса? Отдельно хочу критически отметить угольные лепёшки аджиленах, - с таким же успехом можно просто закинуть себе в желудок осушитель.
+
+### Подарок I
+
+Очень вкусно. Так сочно, и все ингредиенты приготовлены идеально.
+
+### Подарок II
+
+Неплохая попытка. Правда я бы посоветовал увеличить количество жидкости и уменьшить количество жира.
+
+### Подарок III
+
+Слишком сухо. Блюдо, лишенное влаги, не может передать чувства повара.
+
+### День рождения...
+
+А, так сегодня у тебя день рождения. Не знаю, планируется ли сегодня дождь, но я посмотрю, что можно сделать.
+
+### Чувство возвышения: Начало
+
+Теперь я знаю тебя немного лучше, мы можем согласовывать действия.
+
+### Чувство возвышения: Нарастание
+
+Видимо, мне придётся раскрыть тебе чуть больше моих истинных способностей. Не думал, что ты так часто попадаешь в опасные ситуации.
+
+### Чувство возвышения: Кульминация
+
+Так вот что ты на самом деле можешь? Тогда мне придётся серьёзно взяться за дело, если я хочу тебя догнать.
+
+### Чувство возвышения: Окончание
+
+Сейчас, когда я вернул из рук узурпаторов часть власти семерых, я вновь обрёл свой истинный облик. Теперь я достигший полной формы дракон, достаточно могущественный, чтобы судить остальных богов. Моя судьба - свершить суд над королём-узурпатором в небесах. Но пока это время не настало, я не против использовать свою силу, чтобы помочь тебе.
+
+### Элементальный навык I
+
+Требую тишины!
+
+### Элементальный навык II
+
+Склоните голову.
+
+### Элементальный навык III
+
+Прекратите шум.
+
+### Взрыв стихии I
+
+О волны, я возвратился.
+
+### Взрыв стихии II
+
+Прими очищение.
+
+### Взрыв стихии III
+
+Да смирятся сильные мира сего.
+
+### Открытие сундука I
+
+Брошенное имущество принадлежит тому, кто первым его найдет. Так что по закону это теперь твоё.
+
+### Открытие сундука II
+
+Это то, что ты искал? Надеюсь, что как минимум ты испытал приятное чувство предвкушения. / Это то, что ты искала? Надеюсь, что как минимум ты испытала приятное чувство предвкушения.
+
+### Открытие сундука III
+
+Я в устной форме даю согласие на передачу этих предметов в твоё распоряжение.
+
+### Низкий уровень HP I
+
+Волноваться не о чем. Я практически невредим.
+
+### Низкий уровень HP II
+
+Риск нарастает, но для меня это не представляет угрозы.
+
+### Низкий уровень HP III
+
+Хм... Кажется, в моей одежде появилась прореха.
+
+### Низкий уровень HP компаньона I
+
+Позволь мне вмешаться.
+
+### Низкий уровень HP компаньона II
+
+Тебе следует отдохнуть.
+
+### Без сознания I
+
+Я вернусь с приливом...
+
+### Без сознания II
+
+Я вижу тёплые воды прежних эпох...
+
+### Без сознания III
+
+Кругом всё наполнилось тишиной...
+
+### Получен тяжёлый удар I
+
+Правосудие застигнуто врасплох...
+
+### Получен тяжёлый удар II
+
+Это мой недосмотр.
+
+### Присоединяется к группе I
+
+Спасибо за разрешение... прости, приглашение присоединиться.
+
+### Присоединяется к группе II
+
+Безмерно рад.
+
+### Присоединяется к группе III
+
+Возможно, мы могли бы прогуляться по берегу реки или в другом подобном месте.
+
+### О Пиро Архонте...
+
+Пиро Архонт одержала победу над Бездной, опираясь на законы и наследие - действительно достойный подвиг. Однако обладание Властью, захваченной у драконов, остаётся непростительным грехом. Я признаю, что Натлан пережил множество страданий, поэтому не спешу предпринимать действия. Хм? Ты говоришь, что в исторических записях битва с Шбаланке описывается как официальная дуэль, а семья побеждённого была справедливо вознаграждена? Дело действительно сложное, но, безусловно, заслуживающее внимания...
+
+## REPLICAS_EN
+
+### Hello
+
+Greetings. I am the Chief Justice, or "Iudex" of Fontaine, but you may simply address me by using my surname, "Neuvillette." Not because I wish to keep my distance from you... No, I am merely conscious that being overly familiar may bring the impartiality of the judiciary into question in some people's eyes.
+If you have any requests or concerns, then — to the extent permissible by law, at least — we can sit down and discuss them together as we partake of some imported water from Qiaoying Village.
+
+### Chat: Trials
+
+I see the value in my own work, but I also see the meaning in all the endeavors of the people of Fontaine. I believe I will continue to take pride in fulfilling my duties.
+
+### Chat: Water Tasting
+
+Water comes in many flavors to the discerning palate. Mondstadt's water is crisp and pure, while water from Liyue has an enduring aftertaste. In Inazuma, the water possesses a depth of flavor unlike any other. Sumeru's water, meanwhile, has a rich and complex flavor profile, but it must be savored patiently to fully appreciate it.
+
+### Chat: Melusines
+
+Melusines are beautiful creatures. They are the pride of Fontaine. Be sure to befriend them, and cause them no harm.
+
+### When It Rains
+
+Ah, my apologies. This heavy rain must be quite an inconvenience for you.
+
+### After the Rain
+
+It's over...
+
+### When Thunder Strikes
+
+What's that saying again... "A bolt from the blue"? Yes, yes, I believe that captures how it feels to me.
+
+### When It Snows
+
+Snow is in fact one of water's natural self-cleansing mechanisms. But human activity tends to reduce snow's purity, so do not consume it.
+
+### When the Sun Is Out
+
+I find that the, um... beauty of bright sunlight is best appreciated from the indoors through a window.
+
+### In the Desert
+
+I cannot help but feel that you bringing me here is some sort of an assassination attempt...
+
+### Good Morning
+
+Good morning. I hope you have a wonderful day.
+
+### Good Afternoon
+
+Ah, it's past noon. You must be looking forward to your afternoon tea or coffee break? I certainly am.
+
+### Good Evening
+
+Good evening. I hope you have not encountered any unpleasantness today.
+
+### Good Night
+
+Good night. I am quite fond of the image of a perfectly still body of water, and it is on this note that I would like to wish you a peaceful, undisturbed sleep. May no waves of emotional distress ripple through your dreams tonight.
+
+### About Neuvillette: Trials
+
+I am no rabid fan of trials. I preside over them only out of duty, for this is the task that has been entrusted to me.
+
+### About Neuvillette: The Weeping Hydro Dragon
+
+So you have heard of that local legend as well? *sigh* Who told you about that? Or more pertinently, who was responsible for spreading it in the first place... Well, never mind. I don't think that the Hydro Dragon would "weep," per se. I think he just finds himself a little stirred when he gets a taste of the tears that have been shed on this land, on account of all the emotions they contain.
+
+### About Neuvillette: The Meaning of Trials
+
+This is a topic that has been discussed ad nauseum... I don't mean to condescend to humanity, but it is quite clear to me that society's concepts of justice, fairness, equality, and rule of law are not equivalent, and never can be. Now of course, water always seeks its own level, and it was in this spirit that the previous Hydro Archon, Egeria, hoped to achieve universal equality by connecting all things with love. Her successor chose instead to seek equality by means of the law. Ultimately, due to various external factors, this unfortunately manifested itself in the distorted form of trials for the sake of trials. Nevertheless, there are reasons for everything. I suppose I should refrain from criticizing her.
+
+### About Us: Witness
+
+Since you hail from beyond the stars, I invite you to be my witness as I judge this upended world. "This realm dismantled was of the Formidable Father himself, but what now reigns here is a cluster of filthy feathers. Though we live in a world of disarray, I shall undertake to restore all that has been broken."
+
+### About Us: The Human World
+
+The time that I have spent living among the citizens of Fontaine, and traveling with you, has transformed my views. Even though before this I had pardoned the sins of humanity long ago, I can promise you that my future judgments will not cause any harm to the common folk. That being said, my grievances with the usurpers have yet to be settled... They owe a debt of blood that shall not be forgotten.
+
+### About the Vision: I
+
+I was once advised to wear a counterfeit Vision, so that I might more easily intervene during moments of crisis. To be quite frank, I was not enamored by this suggestion, nor the implication that one must only exercise the power that is rightfully theirs under false pretenses. With that said, however, I have developed a newfound appreciation for the value of human yearning and determination having spent considerable time around Vision-bearing humans.
+
+### About the Vision: II
+
+Excuse me? You're saying even some members of The Seven don a counterfeit Vision before mingling with their people? Ha... My apologies — I was just caught off guard by the absurdity of the situation.
+
+### Something to Share: Laws
+
+Fontaine does have some rather intriguing laws on its books. For instance, "it is forbidden to release any flying objects during the first three days of each month," "during the dry season, all bivalves that wash ashore belong to the Hydro Archon, while other mollusks belong to the people," "no domestic pets shall be named after Furina," "tomato ketchup is to be consumed in restaurants only as a condiment, never on its own," and, finally, "Melusines are to be addressed using she/her pronouns, never the impersonal it/its"... That last one was my personal contribution.
+
+### Something to Share: Rainy Days
+
+Some days, my mind wanders, and I fantasize about walking into the rain... *sigh* Ah, but don't worry, my flights of fancy don't distract me from my work.
+
+### Interesting Things: Vishaps
+
+The Vishaps' ancestry can be traced directly back to the Fontemer Sea, which is why they are so adept at evolution. I am reminded of an old custom that the dragons once observed: We would take a sip of our perished young brethren's blood. Whenever the tides are disrupted by the motion of the moon and stars, the water within the bodies of us Hydro organisms surges up towards our heads, reminding us that our deceased kin will soon be revived.
+
+### Interesting Things: Humans
+
+From my observations, humans have a tendency to view themselves as being in opposition with nature. And whenever this point is raised, someone is always quick to respond by declaring that humans are in fact a part of nature, like any other organism. To someone like me, however, who knows an inkling of the truth, what would be most beneficial is if human civilization and the natural world of this planet could seek ways to co-exist with one another.
+
+### About the Geo Archon
+
+Nothing will stop me from rendering judgment on each of The Seven. As the Archon who won the Authority of Geo, Deus Auri must be called to trial. If one does not wish to see us on opposite sides of a conflict, they need not worry, for I intend to stay in Fontaine for the foreseeable future, which could well mean another four hundred years. As another point of consolation, even when the trial eventually takes place, it is still not a given that the judgment will lead to a physical confrontation.
+
+### About the Anemo Archon
+
+I shall fulfill my vow to judge all of The Seven in turn, even if the sky should fall and the ground give way. As the recipient of the Authority of Anemo, the God of Breeze and Hope must also stand trial. ...Hmm? He spends most of his time being a harmless drunkard? Well, even so, I must meet him for myself and proceed from there.
+
+### About the Electro Archon
+
+As a survivor of the dragon race who has regained my full dragonhood, I must fulfill my oaths and obligations even if it means returning all the water in the oceans back to the heavens. In taking the Authority of Electro, the Narukami placed herself on the list of the usurpers, she will... Oh, you say she has isolated herself in the Plane of Euthymia, and now rarely appears in public? Then I shall pay her a visit in another few centuries.
+
+### About the Dendro Archon
+
+Though the day will come when I put her on trial, I must commend the God of Verdure on her sense of responsibility. Few things are without flaws in this world, but the devotion and benevolence she displays are a testament to her commitment to continued progress. I felt enormous regret when I learned of the mistreatment she has endured over the past five hundred years.
+
+### About Wriothesley
+
+Wriothesley is a trustworthy man. I fought hard for the title and reputation he now has. I expect you to think that I've simply been duped by his flattery and appearance of loyalty... But to that, I would quote the Inazuman proverb: "The words unspoken are the flower." Which means, some things are best left unsaid.
+
+### About Clorinde
+
+Clorinde's peerless skills have made her the most powerful Champion Duelist in our nation. As a successor to the Marechaussee Hunters of old, she plays a vital role in ensuring the fairness and impartiality of the courtroom. Also, she's actually not as stoic as she might appear.
+
+### About Lyney and Lynette
+
+Their performances are just fascinating, don't you think? They draw you into a magical world where, on one hand, everything that takes place is part of an elaborate deception — but on the other, all manner of miracles are possible if you are only willing to believe.
+
+### About Sigewinne
+
+I don't know how Sigewinne is faring these days. But if I hear so much as the whiff of a rumor that she's being bullied, I shall summon Wriothesley here and demand an explanation. She's so kind and vulnerable... She brought me some Kamera film the last time she visited, and asked to listen to more of my commentary on the water of Natlan... How long is it until her next vacation?
+
+### About Furina
+
+Now, the curtain has finally fallen on her "performance"... The character she portrayed was an imaginary one, yet in playing that role she fulfilled her duties... Though she is meek and full of doubt by nature, she was able to use madness to stiffen her resolve and see her duty through to its conclusion. The work that she has done over the centuries is truly immense. If she were to ever make a return to the stage, I should personally attend the performance and give her my heartfelt applause... Yes, I must do so when the opportunity arises.
+
+### About Navia
+
+I regret to say that after my various interactions with her — such as when I inadvertently angered her, and when I accepted her apology — and even now, in spite of the guilt I continue to feel over what happened to her father, I feel... very distant from her, as if I'm observing the starry sky from the bottom of a deep lake. It is by no means intentional, and I also know it is not something that I can easily make up for. Unlike water, emotion does not settle quickly once agitated, nor is it naturally inclined towards equilibrium.
+
+### More About Neuvillette: I
+
+I usually do my best to avoid forming personal relationships, or even collaborating with others outside of established procedures. But you have shown yourself to be trustworthy, and you have no problematic entanglements with Fontaine's local factions. Therefore, I would be pleased to journey with you.
+
+### More About Neuvillette: II
+
+This is something that I can only say in private — I could never publicly share my views on this matter: It positively baffles me that Fonta has managed to become such a popular drink. Though, I suppose its appeal to humans is not beyond comprehension. One can both rehydrate and replenish blood sugar in one gulp, and at an exceptionally cheap price.
+
+### More About Neuvillette: III
+
+I went to see an opera recently. It was about a lady whose personal charm and manipulative schemes allowed her to continue to dominate the affairs of the grand mansion where she lived even after her death, like a ghost that refused to be exorcised. The acting was impeccable, and the story exceptional. It also reminded me of the current state of affairs in the real world.
+
+### More About Neuvillette: IV
+
+For a number of reasons, I rarely leave Fontaine. As a result, though I enjoy tasting spring water from all over the world, I always have it delivered to me here, rather than collecting it myself. And yes, subtle as the flavor differences between samples of different regions may be, I am perfectly capable of distinguishing between them. Do you still doubt me? I am the Iudex. I do not lie.
+
+### More About Neuvillette: V
+
+I have to say, my daily life is not without its inconveniences. For instance, I often find myself stepping on my robes as I sit down, or squashing my coiffure against the chair. And if I lean my head too far back, sometimes my hair even gets caught in the ornamentation. Nevertheless, I must wear these garments to maintain the dignity of a Chief Justice, and endure whatever inconveniences this entails. Incidentally, the world at large appears to operate on this general principle, too. Everyone is faced with an identity that they must accept, endure, understand, and eventually learn to co-exist with. This has been my experience all along.
+
+### Neuvillette's Hobbies
+
+Water tasting is a rather sophisticated discipline. Pyro-heated water has the standard "au naturel" flavor found ubiquitously in the natural world, while water boiled using charcoal has distinctly rustic notes. Similarly, while Cryo-chilled water is cold but otherwise unremarkable, the frozen rivers of Snezhnaya, when melted, produce a water with an entirely different flavor profile altogether.
+
+### Neuvillette's Troubles
+
+People seem to respond to the sight of a man in the rain without an umbrella as if it were some sort of strange spectacle.
+
+### Favorite Food
+
+Animals can survive for weeks without food, but merely a few days without water. There is no dish that could ever compare to pure, unadulterated water. With that in mind, food items that contain plenty of liquid are the next best thing.
+
+### Least Favorite Food
+
+How can people bring themselves to consume deep-fried foods? Or grilled food with no sauce? The worst culprits in my view are those Charcoal-Baked Ajilenakh Cakes. Surely, even eating a dehumidifying agent would be kinder on the stomach?
+
+### Receiving a Gift: I
+
+Delicious. An abundance of juices, and the ingredients have been cooked to perfection.
+
+### Receiving a Gift: II
+
+A fine effort indeed. My only advice would be to increase the liquid content and reduce the amount of fat.
+
+### Receiving a Gift: III
+
+Too dry. A dish devoid of moisture has no way to convey the intentions of the chef.
+
+### Birthday
+
+Ah, so it's your birthday. Happy birthday. I do not know if rain is in the forecast today, but let me see what I can do.
+
+### Feelings About Ascension: Intro
+
+I'm a little more familiar with you now. I can match your movements.
+
+### Feelings About Ascension: Building Up
+
+Apparently, I'll have to show a little more of my true capabilities. I did not realize that you had such a penchant for getting into dangerous situations.
+
+### Feelings About Ascension: Climax
+
+So this is what you're truly capable of? Then I shall have to get serious if I wish to catch up with you.
+
+### Feelings About Ascension: Conclusion
+
+Now that I have reclaimed one of the Seven Authorities from the hands of the usurpers, I have regained my true form. I am now a fully fledged dragon, powerful enough to judge the rest of the gods. My final destiny is to judge the Usurper-King in the heavens above. But until that time comes, I will lend my power to you.
+
+### Elemental Skill: I
+
+Silence!
+
+### Elemental Skill: II
+
+Bow your head.
+
+### Elemental Skill: III
+
+Settle down.
+
+### Elemental Burst: I
+
+The tides beckon.
+
+### Elemental Burst: II
+
+Be sanctified.
+
+### Elemental Burst: III
+
+Let the mighty be humbled.
+
+### Opening Treasure Chest: I
+
+Abandoned property belongs to whoever finds it first. So it's legally yours now.
+
+### Opening Treasure Chest: II
+
+Is it what you wished to find? Hopefully, the excitement of opening a treasure chest has at least made it a worthwhile experience.
+
+### Opening Treasure Chest: III
+
+Let the record show that I verbally consent to relinquishing these items into your possession.
+
+### Low HP: I
+
+Be not perturbed. I am unscathed.
+
+### Low HP: II
+
+The risk is growing, but it poses no threat to me.
+
+### Low HP: III
+
+Hmph... There's a tear in my robe.
+
+### Ally at Low HP: I
+
+Allow me to intervene.
+
+### Ally at Low HP: II
+
+Take a moment to rest.
+
+### Fallen: I
+
+When the tide comes in, I shall return...
+
+### Fallen: II
+
+I see the temperate waters of eons past...
+
+### Fallen: III
+
+A silence fills the air...
+
+### Heavy Hit Taken: I
+
+Justice is blindsided...
+
+### Heavy Hit Taken: II
+
+An oversight on my part.
+
+### Joining Party: I
+
+Thank you for permitting— No, inviting me to join you.
+
+### Joining Party: II
+
+The pleasure is all mine.
+
+### Joining Party: III
+
+Perhaps we could take a walk by a riverbank or somewhere similarly fluvial.
+
+### About the Pyro Archon
+
+The Pyro Archon triumphed over the Abyss by leveraging rules and legacy — a truly commendable feat. Yet, holding an Authority seized from the dragons remains an unpardonable sin. I recognize, however, that Natlan has experienced great suffering, so I am in no hurry to act. Hm? You claim that historical records describe the battle against Xbalanque as a formal duel, and the victim's family was treated fairly? Complicated indeed, but a worthwhile consideration nonetheless...
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+您好，我是枫丹的最高审判官，称呼我的姓氏那维莱特就可以。并不是想要疏远您的意思，但太过亲近会被人怀疑司法体系的不公。
+有什么诉求的话——当然，合法范围内——我们可以坐下来谈一谈，一起品尝一下翘英庄运来的水。
+
+### 闲聊·审判
+
+我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。我想，我还是会以我的责任为荣的。
+
+### 闲聊·品水
+
+水的味道是很有讲究的。蒙德的水清冽，璃月的水回味悠长，稻妻的水口味幽邃深远，须弥的水味道虽然丰富但需要细品。
+
+### 闲聊·美露莘
+
+美露莘是枫丹引以为傲的美丽生灵。你一定要和她们做好朋友，也不要伤害她们。
+
+### 下雨的时候…
+
+啊，抱歉。雨这么大，对你来说想必是个麻烦吧…
+
+### 雨过天晴…
+
+结束了…
+
+### 打雷的时候…
+
+对你们来说，是不是有句话叫晴天霹雳？对我来说就是这个感觉。
+
+### 下雪的时候…
+
+雪本身也是一种水的自洁手段。但是人类活动让雪不那么干净了，不要吃。
+
+### 阳光很好…
+
+这种天气最适合在室内窗边，嗯，欣赏阳光。
+
+### 在沙漠的时候…
+
+这是…您对我谋杀计划的一环吗？
+
+### 早上好…
+
+早上好。希望你今天过得愉快。
+
+### 中午好…
+
+午安。你一定很期待红茶或者咖啡的时间吧，我也是。
+
+### 晚上好…
+
+晚上好。希望今天你没有遇到什么难以释怀的坏事。
+
+### 晚安…
+
+晚安。对我来说平静的水面是美好的意象，所以我祝你今夜收获无梦的安眠。不要有任何梦的涟漪撩拨你的心绪。
+
+### 关于那维莱特自己·审判
+
+我又不是什么狂热的审判爱好者。「审判」只是我职责所在，是我被委任的目的。
+
+### 关于那维莱特自己·哭泣的水龙
+
+你也听说过枫丹的这句民谣是吗？唉，这是谁教你的，又是谁让它流传开的…嗯，没什么。我觉得水龙不会哭，他只是品尝到了在大地之心里汇聚的泪水与所有的情绪，所以有所触动而已。
+
+### 关于那维莱特自己·审判的意义
+
+这是一个说烂的话题了。并非我要把自己置身人类之外，但是你看，「正义」、「公平」、「平等」、「法律」，这几个概念互相之间其实无法等同。水天然有「如水之平」的本性。前代水神厄歌莉娅希望以爱来联系众生，实现平等。如今这位选择了平等的「法律」，最后却因为种种外因扭曲成了一切只为「审判」的遗憾结果。不过这也另有原因，不该谴责。
+
+### 关于我们·见证者
+
+既然你是天地外之人，那就由你见证吧，我对于这个倒错世界的审判。「本应由天父统治的雄邦，如今王位上坐的却是雉鸡。时代已然错乱脱节，而我就是为了扭整乾坤而生」。
+
+### 关于我们·人间
+
+与枫丹人民长久的相处以及与你的同行早已让我改观。再加上我早已赦免了人的罪，我可以与你约定，接下来的审判不会危害到普通人。但是我与僭主尚有未结清的恩怨，还有未得偿还的血仇。
+
+### 关于「神之眼」·其一
+
+曾经有人建议我佩戴一个假的玻璃珠，这样方便危急时刻出手。说实话这个提议让我很不愉快，行使自己的力量却要带着假的面具去伪装。不过和持有神之眼的人相处久了，也明白他们的渴望与意志也是如此难能可贵。
+
+### 关于「神之眼」·其二
+
+什么，你说最古老的七神有几个也得带着假玻璃珠行走在人间吗？噗。对不起失态了，这件事有些好笑。
+
+### 有什么想要分享·法律
+
+枫丹确实有很多奇妙的法律，比如「每个月前三天不能放飞飞行物」、「枯水期搁浅的双壳贝类都属于水神，螺贝则属于人民」、「禁止给家养动物取名『芙宁娜』」、「禁止在食堂与餐厅单吃番茄酱」、「对美露莘称呼必须使用人格意味的『她』，不能用『它』」…最后一条是我推动立法的。
+
+### 有什么想要分享·雨天
+
+时常在想，什么时候可以走入一场雨中。啊，你误会了，并不是压力太大。
+
+### 感兴趣的见闻·龙蜥
+
+正是因它们同为原海所出之嫡系，所以对于进化之事十分擅长。我想起曾经龙中的风俗：我们啜饮一口早夭族类的血。当月与星的运行搅扰潮汐，我们水族体内的水也向上行去，我们便知道逝去的族人正在复活。
+
+### 感兴趣的见闻·人类
+
+就我的观察而言，人习惯将自己与自然对立。此时总会有人出来呼吁人也是自然的一部分。但在知道些许真相的我看来，人类的文明世界和这个星球的自然，应该算是需要寻求共处之道吧。
+
+### 关于岩之神…
+
+我将对诸神行使裁决，没有任何事情可以改变这点。贵金之神赢取了岩之大权，他自然也在受审者之列。如果有谁不希望看到我们发生争执，也不必担心，我还需要在枫丹停留很久，说不定就要四百多年呢。而且最后的判决也不一定会导致兵戎相见。
+
+### 关于风之神…
+
+纵使天地翻覆，也无法停止我对于僭位七神的巡游审判。微风与希望之神获赠了风之大权，他也需要列席候审。你说他大部分时间都只是个醉汉，没有什么危险的了？那也得先见见吧。
+
+### 关于雷之神…
+
+我作为重获全龙之格的孑遗，就算是让大海所有的水逆行回天，也需要履行我的誓言与责任。鸣神赢取了雷之大权，注定留名于僭权者之列。嗯，你说她现在蛰居于心成净土之中，极少现身？那我过几百年再去吧。
+
+### 关于草之神…
+
+即便将来会有审判她的一天，我也认可草木之神的责任感。世间难有完美的人与事，可专注和溺爱也证明了一个责任者不断前行。听说她曾遭到约五百年的冷遇，我很为她的经历遗憾。
+
+### 关于莱欧斯利…
+
+莱欧斯利确实是一个值得信赖的人。他的头衔和名誉都是我给他争取的。是不是觉得我被他的话术和向上经营欺骗了？稻妻有句话叫「不说即是花」。
+
+### 关于克洛琳德…
+
+克洛琳德凭借其超群实力成为了现任决斗代理人中的实力巅峰。她是逐影猎人这一行业的后继者，有她在，审判庭的公正更有保障。另外她会比外观看上去更有人情味一些。
+
+### 关于林尼和琳妮特…
+
+很有意思的演出，不是吗？这就是林尼和琳妮特的魔术世界，一切都假得出奇，但是只要你愿意相信，一切都可以成真。
+
+### 关于希格雯…
+
+希格雯不知道过得好不好。要是她受欺负了我一定要把莱欧斯利喊进城里质问。她是那么脆弱，又那么的善良。上次她回来还给我带了留影机底片，还说想要听我继续点评纳塔的水…距离她下一个假期还要多久？
+
+### 关于芙宁娜…
+
+时至今日，她的「演出」终于落幕。「表演」是想象的产物，但芙宁娜却凭此完成了自己的职责…怯懦之人用疯癫让自己勇敢，一直以来辛苦她了。
+有机会的话，应当为她的舞台献上掌声…嗯，一旦有机会的话。
+
+### 关于娜维娅…
+
+虽然这么说很对不起她，但无论是当时无意的触怒她、接受她的道歉还是我此时感受到的内疚，全部有种疏离的感觉，仿佛沉卧湖底看星星。我并不是有意的，我也知道很难有机会弥补。情绪并不像是水，能迅速地修复自己，恢复平静。
+
+### 想要了解那维莱特·其一
+
+我会尽量避免与他人有私交以及有流程外的协作。不过阁下的品行值得信任，与枫丹的势力也没有什么纠缠。很乐意与你同行。
+
+### 想要了解那维莱特·其二
+
+这话只能私下说，公共场合我绝对无法做此表态。枫达这个东西，能流行起来对我来说有点莫名其妙。不过人们很喜欢它也不是不能理解：你看，一边喝水一边补充糖分，而且它还价格低廉。
+
+### 想要了解那维莱特·其三
+
+最近看过一出戏剧。一个已经逝去的夫人凭借个人魅力与恶意的安排，如同无法驱散的鬼魅一般笼罩着她已不在其中的豪宅。演员无可挑剔，故事也很精巧，而且让我想到了世界的现状。
+
+### 想要了解那维莱特·其四
+
+出于某些原因，我离开枫丹的次数屈指可数，因此，我所品尝的名泉虽是来自世界各地，但都是从外地送来，而非我亲临当地。至于不同饮用水里面的细微味道，我自然能够区分出来。言已至此，还不相信我吗？我是最高审判官，不骗人。
+
+### 想要了解那维莱特·其五
+
+不得不说，我时常遇到一些令人无奈的事，例如坐下的时候踩到衣摆，偶尔压到头发，往后靠头部也可能被座椅装饰品卡住。为了维持最高审判官的威严，我保持这类装束，自然要忍受它带来的麻烦。世间几乎也遵循着如此的道理——接受一种身份，忍耐它，理解它，与它共存。这正是我一直在做的。
+
+### 那维莱特的爱好…
+
+品水是一门学问。用火元素加热的水味道就是自然界最标准的味道，而木炭烧开的水则有田园的味道。同理，冰元素处理的水是一种平淡无奇的清冽，但是至冬积冰所化之水就完全不一样。
+
+### 那维莱特的烦恼…
+
+下雨天不打伞是不是看起来有些奇怪…
+
+### 喜欢的食物…
+
+动物不进食尚能活些时日，不喝水可活不了几天。什么美食都比不过纯净的水。所以汤水多的食物就是第二好的。
+
+### 讨厌的食物…
+
+油炸或者无酱烤制的食物真的能吃吗？我想点名批评须弥椰炭饼，往人胃里塞干燥剂也不过如此。
+
+### 收到赠礼·其一
+
+美味。菜肴最重要的汁水不仅很多，而且处理得很好。
+
+### 收到赠礼·其二
+
+不错的尝试。只不过这道菜是不是可以多加点汤汁，再滤一点油脂出来。
+
+### 收到赠礼·其三
+
+太干了。没有汁水的菜品尝不出厨师的心情。
+
+### 生日…
+
+今天是你的生日啊，祝你生日快乐。不知道今天下不下雨，我会想想办法的。
+
+### 突破的感受·起
+
+稍微熟悉些了。我可以配合你的动作。
+
+### 突破的感受·承
+
+看来需要拿出些真的本事了。没想到你这么容易身处险境。
+
+### 突破的感受·转
+
+你的真正实力居然有如此地步吗？看来我不认真的话还无法跟上你了。
+
+### 突破的感受·合
+
+从僭位者那里回收了七之大权一角，这才是我本来的身姿。我已是「完全之龙」，足以审判其余众神。我的命运将是审判高天的僭位之王。但在那之前，我就将力量借与你吧。
+
+### 元素战技·其一
+
+肃静！
+
+### 元素战技·其二
+
+低头。
+
+### 元素战技·其三
+
+不得喧哗。
+
+### 元素爆发·其一
+
+潮水啊，我已归来。
+
+### 元素爆发·其二
+
+化作，浮沫吧。
+
+### 元素爆发·其三
+
+凡高大者，我无不蔑视。
+
+### 打开宝箱·其一
+
+当你第一个找到无主的它时，它就属于你了。嗯，合法的。
+
+### 打开宝箱·其二
+
+是不错的东西吗？至少打开它那一瞬的期待是不错的心绪吧。
+
+### 打开宝箱·其三
+
+我以口头约定的方式将这些让渡与你。
+
+### 生命值低·其一
+
+并无妨害，不必担心。
+
+### 生命值低·其二
+
+风险渐涨，不过我没什么问题。
+
+### 生命值低·其三
+
+哼，衣服似乎刮坏了。
+
+### 同伴生命值低·其一
+
+让我来吧。
+
+### 同伴生命值低·其二
+
+你先休息一下。
+
+### 倒下·其一
+
+潮汐再起时，我必将归来…
+
+### 倒下·其二
+
+看到了…我诞生前的温暖之海…
+
+### 倒下·其三
+
+万籁…俱静…
+
+### 重受击·其一
+
+角度意外啊…
+
+### 重受击·其二
+
+是我疏忽了。
+
+### 加入队伍·其一
+
+感谢你许可…嗯，邀请我同行。
+
+### 加入队伍·其二
+
+十分乐意。
+
+### 加入队伍·其三
+
+一起走走吧，去水畔之类的地方。
+
+### 关于火之神…
+
+以规则与传承击退深渊，此为值得称颂之义举，然权柄乃是从龙类手中夺得，亦是罪无可逭。只不过纳塔元气大伤，确实也不必急于前往。嗯，你说根据史料那一战应该判定为正式决斗，并且希巴拉克也善待了被害者家属？虽然乱七八糟的，但是也有些道理…

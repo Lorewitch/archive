@@ -1,0 +1,1234 @@
+{
+  "reason": "Задания событий отсутствуют в пользовательском составе архива.",
+  "removed_cards": 45,
+  "removed_public_menu_group": "event_chronicles",
+  "reference_changes": [],
+  "entries": [
+    {
+      "id": "quest_wq_74707",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74707",
+      "title": {
+        "ru": "Актёр в аквариуме?",
+        "en": "An Actor... In the Aquarium?",
+        "zh": "水族箱里的…演员？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74707.md",
+      "dialog_nodes": 16,
+      "talks": 1,
+      "part_source_ids": [
+        74707
+      ],
+      "source_flags": [
+        {
+          "id": 74707,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_77501",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.0",
+      "game_source_ids": "77501",
+      "title": {
+        "ru": "Искатели приключений Тейвата: Противостояние!",
+        "en": "Adventurers of Teyvat: Grand Showdown!",
+        "zh": "争锋！全境冒险家的较量！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_77501.md",
+      "dialog_nodes": 74,
+      "talks": 2,
+      "part_source_ids": [
+        77501
+      ],
+      "source_flags": [
+        {
+          "id": 77501,
+          "type": "WQ",
+          "activityId": 2050,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_75304",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.1",
+      "game_source_ids": "75304",
+      "title": {
+        "ru": "Непредсказуемо!",
+        "en": "Unpredictable, Unrepeatable!",
+        "zh": "无法预测，无法复现！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_75304.md",
+      "dialog_nodes": 42,
+      "talks": 1,
+      "part_source_ids": [
+        75304
+      ],
+      "source_flags": [
+        {
+          "id": 75304,
+          "type": "WQ",
+          "activityId": 5343,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_77511",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.0",
+      "game_source_ids": "77511",
+      "title": {
+        "ru": "Метод дриошей в решении задач от Паймон",
+        "en": "Paimon's \"Driyosh\" Way of Solving Problems",
+        "zh": "派蒙的「帝利耶悉」解题法"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_77511.md",
+      "dialog_nodes": 63,
+      "talks": 1,
+      "part_source_ids": [
+        77511
+      ],
+      "source_flags": [
+        {
+          "id": 77511,
+          "type": "WQ",
+          "activityId": 2050,
+          "mainQuestTag": "MAINQUEST_TAG_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_77504",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.0",
+      "game_source_ids": "77504",
+      "title": {
+        "ru": "Секреты взаимопомощи и улучшения?",
+        "en": "The Way of Mutual Aid and Advancement?",
+        "zh": "互助与「强化」的诀窍？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_77504.md",
+      "dialog_nodes": 70,
+      "talks": 1,
+      "part_source_ids": [
+        77504
+      ],
+      "source_flags": [
+        {
+          "id": 77504,
+          "type": "WQ",
+          "activityId": 5333,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74713",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74713",
+      "title": {
+        "ru": "Под водой что-то не так?",
+        "en": "Something's Wrong With the Water",
+        "zh": "水域状况不太妙？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74713.md",
+      "dialog_nodes": 20,
+      "talks": 1,
+      "part_source_ids": [
+        74713
+      ],
+      "source_flags": [
+        {
+          "id": 74713,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74708",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74708",
+      "title": {
+        "ru": "Появились злые рыбки?",
+        "en": "The Emergence of Irate Fish?",
+        "zh": "暴躁鱼儿在出没？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74708.md",
+      "dialog_nodes": 16,
+      "talks": 1,
+      "part_source_ids": [
+        74708
+      ],
+      "source_flags": [
+        {
+          "id": 74708,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_75305",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.1",
+      "game_source_ids": "75305",
+      "title": {
+        "ru": "Повторный прогноз, попытка воспроизведения!",
+        "en": "Predict Again, Repeat Again!",
+        "zh": "再次预测，尝试复现！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_75305.md",
+      "dialog_nodes": 30,
+      "talks": 1,
+      "part_source_ids": [
+        75305
+      ],
+      "source_flags": [
+        {
+          "id": 75305,
+          "type": "WQ",
+          "activityId": 5343,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74710",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74710",
+      "title": {
+        "ru": "Целая прорва злых рыбок...",
+        "en": "Tons of Tons of Furious Fish...",
+        "zh": "暴躁鱼儿还不少…"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74710.md",
+      "dialog_nodes": 14,
+      "talks": 1,
+      "part_source_ids": [
+        74710
+      ],
+      "source_flags": [
+        {
+          "id": 74710,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74705",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74705",
+      "title": {
+        "ru": "Мы... в аквариуме?",
+        "en": "Us... In the Aquarium?",
+        "zh": "水族箱里的…我们？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74705.md",
+      "dialog_nodes": 16,
+      "talks": 1,
+      "part_source_ids": [
+        74705
+      ],
+      "source_flags": [
+        {
+          "id": 74705,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74701",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74701",
+      "title": {
+        "ru": "Опасность? Не приближаться!",
+        "en": "Danger? Keep Away!",
+        "zh": "危险？请勿靠近！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74701.md",
+      "dialog_nodes": 21,
+      "talks": 1,
+      "part_source_ids": [
+        74701
+      ],
+      "source_flags": [
+        {
+          "id": 74701,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_75675",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "75675",
+      "title": {
+        "ru": "Магия вкуса без лишних забот!",
+        "en": "A Lighthearted Feast of Magic!",
+        "zh": "不留负担的美味魔法！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_75675.md",
+      "dialog_nodes": 27,
+      "talks": 1,
+      "part_source_ids": [
+        75675
+      ],
+      "source_flags": [
+        {
+          "id": 75675,
+          "type": "WQ",
+          "activityId": 5328,
+          "mainQuestTag": "MAINQUEST_TAG_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74711",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74711",
+      "title": {
+        "ru": "Злые рыбки скоро поправятся...",
+        "en": "Rapid Restitution to the Raging Fish...",
+        "zh": "暴躁鱼儿快痊愈…"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74711.md",
+      "dialog_nodes": 11,
+      "talks": 1,
+      "part_source_ids": [
+        74711
+      ],
+      "source_flags": [
+        {
+          "id": 74711,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74702",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74702",
+      "title": {
+        "ru": "Океанариум открывается!",
+        "en": "Fisharium Open For Business!",
+        "zh": "水族馆？开业！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74702.md",
+      "dialog_nodes": 29,
+      "talks": 1,
+      "part_source_ids": [
+        74702
+      ],
+      "source_flags": [
+        {
+          "id": 74702,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74712",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74712",
+      "title": {
+        "ru": "Злые рыбки предупреждают!",
+        "en": "A Warning From the Wrathful Fish!",
+        "zh": "暴躁鱼儿的警告！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74712.md",
+      "dialog_nodes": 12,
+      "talks": 1,
+      "part_source_ids": [
+        74712
+      ],
+      "source_flags": [
+        {
+          "id": 74712,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_76684",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "76684",
+      "title": {
+        "ru": "Перья и снаряды",
+        "en": "Flower, Feathers, and Bullets",
+        "zh": "花羽伴弹头"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_76684.md",
+      "dialog_nodes": 41,
+      "talks": 1,
+      "part_source_ids": [
+        76684
+      ],
+      "source_flags": [
+        {
+          "id": 76684,
+          "type": "WQ",
+          "activityId": 5331,
+          "mainQuestTag": "MAINQUEST_TAG_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_10287",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.1",
+      "game_source_ids": "71544,71545,71546",
+      "title": {
+        "ru": "Ради спасения улицы гурманов!",
+        "en": "Food Street Must Be Saved!",
+        "zh": "为了拯救美食街！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_10287.md",
+      "dialog_nodes": 164,
+      "talks": 5,
+      "part_source_ids": [
+        71544,
+        71545,
+        71546
+      ],
+      "source_flags": [
+        {
+          "id": 71544,
+          "type": "WQ",
+          "activityId": 2051,
+          "mainQuestTag": "MAINQUEST_TAG_ACTIVITY"
+        },
+        {
+          "id": 71545,
+          "type": "WQ",
+          "activityId": 2051,
+          "mainQuestTag": "MAINQUEST_TAG_ACTIVITY"
+        },
+        {
+          "id": 71546,
+          "type": "WQ",
+          "activityId": 2051,
+          "mainQuestTag": "MAINQUEST_TAG_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_77688",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.1",
+      "game_source_ids": "77688",
+      "title": {
+        "ru": "Беззаботная снежная битва",
+        "en": "Carefree Snowball Fight",
+        "zh": "无忧无虑大雪仗"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_77688.md",
+      "dialog_nodes": 23,
+      "talks": 1,
+      "part_source_ids": [
+        77688
+      ],
+      "source_flags": [
+        {
+          "id": 77688,
+          "type": "WQ",
+          "activityId": 5344,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74704",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74704",
+      "title": {
+        "ru": "Друзья... в аквариуме?",
+        "en": "Friends... In the Aquarium?",
+        "zh": "水族箱里的…朋友？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74704.md",
+      "dialog_nodes": 16,
+      "talks": 1,
+      "part_source_ids": [
+        74704
+      ],
+      "source_flags": [
+        {
+          "id": 74704,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74709",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74709",
+      "title": {
+        "ru": "У злых рыбок есть свои тайны?",
+        "en": "The Cantankerous Fish Have Their Circumstances?",
+        "zh": "暴躁鱼儿的隐情？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74709.md",
+      "dialog_nodes": 10,
+      "talks": 1,
+      "part_source_ids": [
+        74709
+      ],
+      "source_flags": [
+        {
+          "id": 74709,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74706",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74706",
+      "title": {
+        "ru": "Звезда в аквариуме?",
+        "en": "A Superstar... In the Aquarium?",
+        "zh": "水族箱里的…明星？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74706.md",
+      "dialog_nodes": 17,
+      "talks": 1,
+      "part_source_ids": [
+        74706
+      ],
+      "source_flags": [
+        {
+          "id": 74706,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74700",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74700",
+      "title": {
+        "ru": "Элегантность? Безопасность превыше всего!",
+        "en": "Elegance? Safety First!",
+        "zh": "优雅？安全第一！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74700.md",
+      "dialog_nodes": 17,
+      "talks": 1,
+      "part_source_ids": [
+        74700
+      ],
+      "source_flags": [
+        {
+          "id": 74700,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74703",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74703",
+      "title": {
+        "ru": "Только тридцать процентов!",
+        "en": "Just a 30% Cut!",
+        "zh": "营业额？只拿三成！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74703.md",
+      "dialog_nodes": 15,
+      "talks": 1,
+      "part_source_ids": [
+        74703
+      ],
+      "source_flags": [
+        {
+          "id": 74703,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_75674",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "75674",
+      "title": {
+        "ru": "Танцы, музыка, каникулы!",
+        "en": "Disco in Motion, Holiday Emotion!",
+        "zh": "跃跃律动，假日再临！"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_75674.md",
+      "dialog_nodes": 2,
+      "talks": 1,
+      "part_source_ids": [
+        75674
+      ],
+      "source_flags": [
+        {
+          "id": 75674,
+          "type": "WQ",
+          "activityId": 5328,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74716",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74716",
+      "title": {
+        "ru": "Подводная опасность устранена...",
+        "en": "Betterments in Aquatic Circumstances...",
+        "zh": "水域状况已好转…"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74716.md",
+      "dialog_nodes": 42,
+      "talks": 1,
+      "part_source_ids": [
+        74716
+      ],
+      "source_flags": [
+        {
+          "id": 74716,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_75676",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.2",
+      "game_source_ids": "75676",
+      "title": {
+        "ru": "Время поиграть и расслабиться",
+        "en": "Stress-B-Gone Gaming",
+        "zh": "解压游艺玩耍中"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_75676.md",
+      "dialog_nodes": 35,
+      "talks": 1,
+      "part_source_ids": [
+        75676
+      ],
+      "source_flags": [
+        {
+          "id": 75676,
+          "type": "WQ",
+          "activityId": 5352,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_10288",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.1",
+      "game_source_ids": "77502,77506,77507,77508,77509,77510",
+      "title": {
+        "ru": "Аномалия",
+        "en": "The Anomaly",
+        "zh": "异象"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_10288.md",
+      "dialog_nodes": 53,
+      "talks": 6,
+      "part_source_ids": [
+        77502,
+        77506,
+        77507,
+        77508,
+        77509,
+        77510
+      ],
+      "source_flags": [
+        {
+          "id": 77502,
+          "type": "WQ",
+          "activityId": 5346,
+          "mainQuestTag": null
+        },
+        {
+          "id": 77506,
+          "type": "WQ",
+          "activityId": 5346,
+          "mainQuestTag": null
+        },
+        {
+          "id": 77507,
+          "type": "WQ",
+          "activityId": 5346,
+          "mainQuestTag": null
+        },
+        {
+          "id": 77508,
+          "type": "WQ",
+          "activityId": 5346,
+          "mainQuestTag": null
+        },
+        {
+          "id": 77509,
+          "type": "WQ",
+          "activityId": 5346,
+          "mainQuestTag": null
+        },
+        {
+          "id": 77510,
+          "type": "WQ",
+          "activityId": 5346,
+          "mainQuestTag": null
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_76683",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "76683",
+      "title": {
+        "ru": "Магия прицеливания и перспективы",
+        "en": "Sightlines and Camera Tricks",
+        "zh": "瞄准线与视角魔法"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_76683.md",
+      "dialog_nodes": 62,
+      "talks": 1,
+      "part_source_ids": [
+        76683
+      ],
+      "source_flags": [
+        {
+          "id": 76683,
+          "type": "WQ",
+          "activityId": 5331,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74714",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74714",
+      "title": {
+        "ru": "Внимание: подводные работы...",
+        "en": "Underwater Restoration in Progress...",
+        "zh": "水域修复进行中…"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74714.md",
+      "dialog_nodes": 26,
+      "talks": 1,
+      "part_source_ids": [
+        74714
+      ],
+      "source_flags": [
+        {
+          "id": 74714,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_74715",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "6.7",
+      "game_source_ids": "74715",
+      "title": {
+        "ru": "Под водой свои законы?",
+        "en": "The Underwater Salvage Commandments",
+        "zh": "水域打捞有原则？"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_74715.md",
+      "dialog_nodes": 24,
+      "talks": 1,
+      "part_source_ids": [
+        74715
+      ],
+      "source_flags": [
+        {
+          "id": 74715,
+          "type": "WQ",
+          "activityId": 2049,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_71677",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.1",
+      "game_source_ids": "71677",
+      "title": {
+        "ru": "Калейдоскоп талисманов",
+        "en": "Sigil Barrage Kaleidoscope",
+        "zh": "符箓弹幕万花筒"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_71677.md",
+      "dialog_nodes": 24,
+      "talks": 1,
+      "part_source_ids": [
+        71677
+      ],
+      "source_flags": [
+        {
+          "id": 71677,
+          "type": "WQ",
+          "activityId": 2051,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_77505",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.0",
+      "game_source_ids": "77505",
+      "title": {
+        "ru": "Обещание обменяться секретами...",
+        "en": "A Promise to Share Our Tips...",
+        "zh": "共享诀窍的约定…"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_77505.md",
+      "dialog_nodes": 41,
+      "talks": 1,
+      "part_source_ids": [
+        77505
+      ],
+      "source_flags": [
+        {
+          "id": 77505,
+          "type": "WQ",
+          "activityId": 5333,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_77674",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.0",
+      "game_source_ids": "77674",
+      "title": {
+        "ru": "Суровая боевая симуляция",
+        "en": "A Grueling Combat Simulation",
+        "zh": "严酷的战况模拟"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_77674.md",
+      "dialog_nodes": 35,
+      "talks": 1,
+      "part_source_ids": [
+        77674
+      ],
+      "source_flags": [
+        {
+          "id": 77674,
+          "type": "WQ",
+          "activityId": 5334,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_71676",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.1",
+      "game_source_ids": "71676",
+      "title": {
+        "ru": "Битва по усмирению нечисти",
+        "en": "Battle Beneath the Spirit-Quelling Banner",
+        "zh": "幡旗除魔战记"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_71676.md",
+      "dialog_nodes": 31,
+      "talks": 1,
+      "part_source_ids": [
+        71676
+      ],
+      "source_flags": [
+        {
+          "id": 71676,
+          "type": "WQ",
+          "activityId": 2051,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_77188",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.2",
+      "game_source_ids": "77188",
+      "title": {
+        "ru": "«Передать» в кадре",
+        "en": "To \"Convey\" Cinema",
+        "zh": "「传递」映影"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_77188.md",
+      "dialog_nodes": 17,
+      "talks": 1,
+      "part_source_ids": [
+        77188
+      ],
+      "source_flags": [
+        {
+          "id": 77188,
+          "type": "WQ",
+          "activityId": 5350,
+          "mainQuestTag": "MAINQUEST_TAG_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_71675",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.1",
+      "game_source_ids": "71675",
+      "title": {
+        "ru": "Экзорцизм с помощью ротанговых фигурок",
+        "en": "Little Figure Exorcism",
+        "zh": "小小藤人驱邪术"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_71675.md",
+      "dialog_nodes": 42,
+      "talks": 1,
+      "part_source_ids": [
+        71675
+      ],
+      "source_flags": [
+        {
+          "id": 71675,
+          "type": "WQ",
+          "activityId": 2051,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_wq_77699",
+      "category": "stories",
+      "group": "world_quests",
+      "version": "7.2",
+      "game_source_ids": "77699",
+      "title": {
+        "ru": "Сила стоп-кадра",
+        "en": "Forceful Freeze Frames",
+        "zh": "「定格」力量"
+      },
+      "path": "content/stories/quests/world_quests/quest_wq_77699.md",
+      "dialog_nodes": 31,
+      "talks": 1,
+      "part_source_ids": [
+        77699
+      ],
+      "source_flags": [
+        {
+          "id": 77699,
+          "type": "WQ",
+          "activityId": 5350,
+          "mainQuestTag": "MAINQUEST_TAG_GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "quest_eq_10275",
+      "category": "stories",
+      "group": "event_chronicles",
+      "version": "7.1",
+      "game_source_ids": "40251",
+      "title": {
+        "ru": "Встреча с тобой наполнила сердце радостью",
+        "en": "Having Met You, My Heart is Gladdened",
+        "zh": "既见君兮予所欢，愿随风兮鸣银鸾"
+      },
+      "path": "content/stories/quests/event_chronicles/quest_eq_10275.md",
+      "dialog_nodes": 316,
+      "talks": 32,
+      "part_source_ids": [
+        40251
+      ],
+      "source_flags": [
+        {
+          "id": 40251,
+          "type": "EQ",
+          "activityId": 2051,
+          "mainQuestTag": null
+        }
+      ]
+    },
+    {
+      "id": "quest_eq_10289",
+      "category": "stories",
+      "group": "event_chronicles",
+      "version": "7.1",
+      "game_source_ids": "40248",
+      "title": {
+        "ru": "И снова лунная ночь",
+        "en": "Another Auspicious Moonlit Night Rolls Around",
+        "zh": "又是一年明月夜"
+      },
+      "path": "content/stories/quests/event_chronicles/quest_eq_10289.md",
+      "dialog_nodes": 65,
+      "talks": 1,
+      "part_source_ids": [
+        40248
+      ],
+      "source_flags": [
+        {
+          "id": 40248,
+          "type": "EQ",
+          "activityId": 2051,
+          "mainQuestTag": null
+        }
+      ]
+    },
+    {
+      "id": "quest_eq_10259",
+      "category": "stories",
+      "group": "event_chronicles",
+      "version": "7.1",
+      "game_source_ids": "40249",
+      "title": {
+        "ru": "Словно кто-то бредёт средь облаков",
+        "en": "As One Might Stride Betwixt the Clouds",
+        "zh": "若有人兮云之际，舞袂翩兮扬玉霓"
+      },
+      "path": "content/stories/quests/event_chronicles/quest_eq_10259.md",
+      "dialog_nodes": 266,
+      "talks": 7,
+      "part_source_ids": [
+        40249
+      ],
+      "source_flags": [
+        {
+          "id": 40249,
+          "type": "EQ",
+          "activityId": 2051,
+          "mainQuestTag": null
+        }
+      ]
+    },
+    {
+      "id": "quest_eq_10276",
+      "category": "stories",
+      "group": "event_chronicles",
+      "version": "7.1",
+      "game_source_ids": "40252",
+      "title": {
+        "ru": "В этот день через год луна будет снова сиять",
+        "en": "Next Year's Moon, Just as Bright",
+        "zh": "来年今日月亦明"
+      },
+      "path": "content/stories/quests/event_chronicles/quest_eq_10276.md",
+      "dialog_nodes": 51,
+      "talks": 1,
+      "part_source_ids": [
+        40252
+      ],
+      "source_flags": [
+        {
+          "id": 40252,
+          "type": "EQ",
+          "activityId": 2051,
+          "mainQuestTag": "MAINQUEST_TAG_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "id": "quest_eq_10274",
+      "category": "stories",
+      "group": "event_chronicles",
+      "version": "7.1",
+      "game_source_ids": "40250",
+      "title": {
+        "ru": "Пронзая туман и облака на белых крыльях",
+        "en": "On White Wings Pierce Through Cloud and Fog",
+        "zh": "乘白凤兮翦雾縠，揽龙鹰兮结血珠"
+      },
+      "path": "content/stories/quests/event_chronicles/quest_eq_10274.md",
+      "dialog_nodes": 280,
+      "talks": 11,
+      "part_source_ids": [
+        40250
+      ],
+      "source_flags": [
+        {
+          "id": 40250,
+          "type": "EQ",
+          "activityId": 2051,
+          "mainQuestTag": null
+        }
+      ]
+    },
+    {
+      "id": "quest_eq_10272",
+      "category": "stories",
+      "group": "event_chronicles",
+      "version": "6.7",
+      "game_source_ids": "40245",
+      "title": {
+        "ru": "Потерянное нами",
+        "en": "Those We Have Lost",
+        "zh": "那些我们所失去的"
+      },
+      "path": "content/stories/quests/event_chronicles/quest_eq_10272.md",
+      "dialog_nodes": 474,
+      "talks": 23,
+      "part_source_ids": [
+        40245
+      ],
+      "source_flags": [
+        {
+          "id": 40245,
+          "type": "EQ",
+          "activityId": null,
+          "mainQuestTag": "MAINQUEST_TAG_RESIDENT_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "id": "quest_eq_10271",
+      "category": "stories",
+      "group": "event_chronicles",
+      "version": "6.7",
+      "game_source_ids": "40244",
+      "title": {
+        "ru": "Если мы встретимся снова",
+        "en": "Should We Meet Again",
+        "zh": "若我们再次相见"
+      },
+      "path": "content/stories/quests/event_chronicles/quest_eq_10271.md",
+      "dialog_nodes": 510,
+      "talks": 19,
+      "part_source_ids": [
+        40244
+      ],
+      "source_flags": [
+        {
+          "id": 40244,
+          "type": "EQ",
+          "activityId": null,
+          "mainQuestTag": "MAINQUEST_TAG_RESIDENT_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "id": "quest_eq_10273",
+      "category": "stories",
+      "group": "event_chronicles",
+      "version": "6.7",
+      "game_source_ids": "40246,40247",
+      "title": {
+        "ru": "Сохранённое нами",
+        "en": "Those We Have Kept",
+        "zh": "那些我们所留驻的"
+      },
+      "path": "content/stories/quests/event_chronicles/quest_eq_10273.md",
+      "dialog_nodes": 361,
+      "talks": 17,
+      "part_source_ids": [
+        40246,
+        40247
+      ],
+      "source_flags": [
+        {
+          "id": 40246,
+          "type": "EQ",
+          "activityId": null,
+          "mainQuestTag": "MAINQUEST_TAG_RESIDENT_ACTIVITY"
+        },
+        {
+          "id": 40247,
+          "type": "EQ",
+          "activityId": null,
+          "mainQuestTag": "MAINQUEST_TAG_RESIDENT_ACTIVITY"
+        }
+      ]
+    }
+  ]
+}

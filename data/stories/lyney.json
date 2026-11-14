@@ -144,5 +144,1016 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Это не иллюзия, перед тобой я, Лини! Величайший маг-иллюзионист во всём Тейвате! Вижу на твоём лице удивление? Тебе интересно, как это я вдруг появился перед тобой из ниоткуда? Хм... Твои глаза прекрасны, словно драгоценные прозрачные топазы. Как они мне нравятся! И я решил устроить для тебя представление. Теперь смотри внимательно. Стоит только моргнуть - и всё упустишь!",
+        "en": "This is no mere illusion, tis I, Lyney! The greatest magician in all Teyvat! How are we feeling today? Excited? Surprised? Oh, you're curious how I appeared in front of you like this? Well... Hmm, your eyes are like topaz, precious, pure, and lovely. I like them! I've decided — I'm going to put on a show just for you. Watch carefully now. Blink, and you might miss it!",
+        "zh": "是我哟，全提瓦特最棒的大魔术师——林尼。惊喜吗？意外吗？想知道我是怎么出现在你面前的吗？嗯——你那双像黄宝石一般晶莹剔透的眼睛，让我很中意哦！让我再为你表演一次吧。看好了哦，这回，千万不要眨眼。"
+      },
+      "source_id": 84000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Отвлечение внимания",
+        "en": "Chat: Distraction",
+        "zh": "闲聊·分心"
+      },
+      "text": {
+        "ru": "Сейчас не время отвлекаться! Серьёзно, перед тобой стоит великий фокусник... Ты же не хочешь пропустить самое интересное, правда?!",
+        "en": "This is no time for distractions! Seriously, you have a great magician standing right here... You don't want to miss the best part, do you!?",
+        "zh": "大魔术师就在面前，还有心思东张西望吗？这样可就要错过最精彩的一幕咯！"
+      },
+      "source_id": 84001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Сестра",
+        "en": "Chat: Sister",
+        "zh": "闲聊·妹妹"
+      },
+      "text": {
+        "ru": "Интересно, чем сейчас занята моя дорогая сестра Линетт? Скучает по мне до невозможности, я уверен!",
+        "en": "I wonder what my dear sister Lynette is doing right now? Missing me to death, I'm sure!",
+        "zh": "我亲爱的妹妹——琳妮特此刻在做什么呢？肯定想我想得不得了吧！"
+      },
+      "source_id": 84002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Верь глазам своим",
+        "en": "Chat: Seeing is Believing",
+        "zh": "闲聊·眼见为实"
+      },
+      "text": {
+        "ru": "Пока зрители верят в то, что видят их собственные глаза, в моём распоряжении бесчисленное множество трюков.",
+        "en": "So long as the audience thinks that \"seeing is believing,\" there's no limit to the number of tricks I can pull off!",
+        "zh": "我希望观众们都相信「眼见为实」的道理，那我就能变出数不尽的戏法。"
+      },
+      "source_id": 84003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "В такую погоду звёздами нам полюбоваться не удастся. Разве что... Я попробую заставить звезды появиться, несмотря ни на что!",
+        "en": "There's no way we'll be able to see the stars tonight in this weather. Unless... I try making the stars appear anyway!",
+        "zh": "哎呀，这种天气，看来今晚没办法看到星星了。除非…我试着把星星变出来？"
+      },
+      "source_id": 84004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Отлично, небо проясняется! Интересно, там наверху тоже кто-то творит волшебство?..",
+        "en": "Great, the weather's clearing up! I wonder if there's someone up there performing magic too...",
+        "zh": "真幸运，天晴了，该不会天上有谁在变魔术吧？"
+      },
+      "source_id": 84005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Апчхи! Фух... Говорят, когда чихаешь, это значит, кто-то тебя вспоминает. Интересно, это Линетт? Или... ты?",
+        "en": "Achoo! Phew... I've heard some say that when you sneeze, it means that someone's thinking about you. Is it Lynette, I wonder? Or... is it you?",
+        "zh": "啊嚏…呼…我听过一种说法，说打喷嚏是有人在想自己。琳妮特吗？哦——还是你呢？"
+      },
+      "source_id": 84006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Ух ты, вот это было опасно! Если мою шляпу сдует ветром, мне на голову рухнет весь реквизит, который я там храню.",
+        "en": "Whoa, that was close! If this wind blows my hat off, all the props I keep inside it would come tumbling down onto my head.",
+        "zh": "呼，好险。要是帽子被风吹跑的话，里面的道具就会哗啦啦砸在我脑袋上了。"
+      },
+      "source_id": 84007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Ветер усиливается... Ох, мои волшебные карты! Подождите! Нет, не убегайте! Вернитесь к Лини!!!",
+        "en": "The wind is really picking up... Ah, all my magic cards! Wait! No, no, not that way, come back! Come to Lyney!!!",
+        "zh": "这风也太大了，我的纸牌都——等等，哎，别迷路啊！你的主人在这边！"
+      },
+      "source_id": 84008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "...Уф, ну ещё пять минуточек... А? Это ты! Я-то думал, что меня разбудило солнце, а это было твоё сияние.",
+        "en": "...C'mon, just five more minutes... Huh? Oh! It's you! I thought it was the radiance of the sunlight on my skin that I felt — turns out it was your radiance all along!",
+        "zh": "…唔，再让我睡会儿…嗯？是你呀——嗯，我说怎么今天的阳光那么好，原来是你来了。"
+      },
+      "source_id": 84009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "После обеда я собираюсь проверить наш магический реквизит. Может, найду вдохновение для новых фокусов. Хочешь пойти со мной? Ну же, конечно, ты хочешь! Можешь покормить животных, которые участвуют в шоу - уверен, вы прекрасно поладите!",
+        "en": "I'm going to check out some products used for magic tricks later this afternoon. Perhaps they'll spark some inspiration for some new tricks. Want to come along? Come on, don't be shy, you know you want to! You can feed some of my animal assistants I use in my shows — I'm sure you'll get along great!",
+        "zh": "下午我需要检查一下魔术用品，构思新的魔术创意。你要一起来吗？来嘛，别推脱啦！你可以试着喂喂我的动物助手们，我想你们一定合得来。"
+      },
+      "source_id": 84010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер. Сегодня состоится выступление великого иллюзиониста Лини... Но уверен, ты и так об этом помнишь!",
+        "en": "Good evening. The Great Magician Lyney will be performing later tonight... but I'm sure you didn't need me to tell you that!",
+        "zh": "晚上好。今晚有大魔术师的演出，你肯定没忘吧？"
+      },
+      "source_id": 84011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Спокойной ночи. Если у тебя бессонница, у меня найдётся пара штучек для гипноза, которые могут помочь. Хотя... оставим это. Сладких снов!",
+        "en": "Good night. If you have trouble falling asleep, I have a few little props used for hypnosis that might help... Or maybe not. Either way, sweet dreams!",
+        "zh": "晚安。要是睡不着的话，我有些催眠小道具可以用…啊，还是算了吧。睡吧，愿美梦陪你到天亮。"
+      },
+      "source_id": 84012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Лини: Очаровательный собеседник",
+        "en": "About Lyney: Sweet Talker",
+        "zh": "关于林尼自己·嘴甜"
+      },
+      "text": {
+        "ru": "Наверное, мне стоит ещё раз подчеркнуть, что я редко бываю столь откровенен, как в разговорах с тобой. Всё дело в собеседнике.",
+        "en": "I should probably emphasize again that I'm rarely so open with anyone — I guess it's because you're not just anyone.",
+        "zh": "对了，有件事情，我必须强调一下。我可不是对所有人都这样说话的哦，主要还是因为对象是你。"
+      },
+      "source_id": 84013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Лини: Партнёры",
+        "en": "About Lyney: Partnership",
+        "zh": "关于林尼自己·搭档"
+      },
+      "text": {
+        "ru": "Ох, боюсь, что без Линетт я просто перейду в режим ожидания. Конечно, с делами можно справиться и в одиночку, но ко всему нужна привычка. Уверен, что ты меня поймёшь. У тебя ведь тоже есть... Я хотел сказать, Паймон ведь тоже всегда с тобой.",
+        "en": "*sigh* I'm afraid I'd find myself going into standby mode without Lynette by my side. I mean, I can handle my own business just fine, but it takes some getting used to. I'm sure you can understand. You also have... I mean... always have Paimon with you, after all.",
+        "zh": "啊——琳妮特不在，我要进入待机模式了。虽然一个人也能处理好身边的事，但还是会有些不习惯。你能理解的吧？毕竟你也…我是说，毕竟派蒙总陪着你。"
+      },
+      "source_id": 84014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Утаивание правды",
+        "en": "About Us: Withholding the Truth",
+        "zh": "关于我们·隐瞒"
+      },
+      "text": {
+        "ru": "Ого, а ты не боишься сложных разговоров! Скажу так: вкусные ягоды часто растут среди колючек, иначе их съедят прожорливые лисы. Это всего лишь самооборона! Ладно, признаю, иногда я могу немного лукавить в общении с другими. Но тебе я никогда не врал, максимум упускал пару незначительных деталей там и тут. Разве не так?",
+        "en": "Wow, you're not beating around the bush! ...Let me put it this way — delicious berries must often grow in areas thick with thorns, otherwise they would be devoured by greedy foxes. This is what we call self-defense! I mean, sure, I don't mind telling some small lies to others at times, but between the two of us, I've never done anything worse than omitting a minor detail here and there, right?",
+        "zh": "哇，好尖锐的话题…这么说吧，甜美的浆果通常出没于荆棘丛生之地，不然就会被馋嘴的狐狸一口吃完…这都是为了保护自己呀！好吧，我承认我确实不介意偶尔对别人撒点小谎，但我们之间最多只能算是有所隐瞒吧？不是吗？"
+      },
+      "source_id": 84015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Принципы",
+        "en": "About Us: Principles",
+        "zh": "关于我们·原则"
+      },
+      "text": {
+        "ru": "Иллюзионисты обычно не раскрывают секретов, которые стоят за их фокусами. Но если ты не против стать моим учеником и звать меня «наставник Лини», то принципами можно и поступиться. Интересно, как много ты сможешь понять и насколько тебе хватит терпения, ха-ха.",
+        "en": "Magicians generally do not reveal the core secrets behind their tricks, but if you don't mind becoming my apprentice and calling me \"Master Lyney,\" then that would be different. I'm curious how much of it you'd understand, and how long you'd last, hehe.",
+        "zh": "魔术师一般不会透露魔术的核心秘密…但如果你愿意喊我「林尼老师」，成为我的学生，那么「原则」就产生了变化。也不知道你的领悟力和耐心到底能有几分呢？真让人期待。"
+      },
+      "source_id": 84016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Если иллюзионист выйдет на сцену с Глазом Бога, то публика может усомниться в подлинности его трюков. Поэтому обычно я снимаю Глаз Бога перед представлением. Раз уж тебя это заинтересовало, почему бы тебе не подержать его, пока я выступаю? Только следи как следует, иначе он может украдкой вернуться ко мне!",
+        "en": "If a magician were to go onstage with their Vision in hand, people might suspect the authenticity of their tricks, so I habitually take it off before performing. But since you're interested, why don't you help me hold on to it while I perform? Just be sure to keep an eye on it, though — or it might just sneak its way back to me!",
+        "zh": "魔术师佩戴着神之眼上台，难免会遭到质疑，所以我习惯了提前摘下它。既然你有兴趣，要不下次我表演的时候，就由你帮我保管它吧？要看紧一点哦，可千万别让它又偷偷滑到我手上了。"
+      },
+      "source_id": 84017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Магия иллюзий - это не просто вид сценического искусства, это способ мышления. Многое в этом мире кажется простым на первый взгляд, но если заглянуть внутрь, то можно обнаружить немало секретов.",
+        "en": "Magic isn't just a performance art, it's also a way of thinking. Many things in this world seem simple at first glance but play host to all sorts of secrets if you look deeper.",
+        "zh": "魔术不仅是一种表演形式，也是一种思维方式。世界上有很多看似平平无奇的东西，其中大有玄机。"
+      },
+      "source_id": 84018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Настроение кошки можно отследить по положению ушей. Если уши прижаты назад, значит, кошка испугана или насторожена. А вот приподнятые и направленные вперёд уши обычно показывают, что кошка счастлива. Если же кошка всё время двигает ушами, она бдительно оценивает окружающую обстановку... Откуда я всё это знаю? Внимательность и опыт!",
+        "en": "Cats can use their ears to express their feelings. If they flatten them backwards, it indicates fear or caution, and if their ears are perked up and occasionally face forward, that usually means they're happy. Constant swiveling indicates that they are vigilantly assessing their surroundings... How do I know this? Experience and observation!",
+        "zh": "猫咪的耳朵能表达情绪，向后翻折说明恐惧或者警戒，向前竖起，偶尔朝外多半表明心情愉快，快速晃动则是在警觉地判断四周情况…多观察就有经验了。"
+      },
+      "source_id": 84019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Об «Отце»: Семья",
+        "en": "About \"Father\": Family",
+        "zh": "关于「父亲」·家"
+      },
+      "text": {
+        "ru": "Благодаря «Отцу» у нас есть семья, мы смогли вырасти и узнали, в каком направлении развиваться. Я же в ответ могу сделать кое-что очень простое... Быть верным семье и защищать наш дом.",
+        "en": "\"Father\" gave us a family, raised us, and told each of us what we should work towards. In turn, what I can do is very simple... Remain loyal, and protect our home.",
+        "zh": "「父亲」给了我们一个家，教导我们成长，告诉我们每个人应该努力的方向。我能做的也很简单。保持忠诚之心，以及…守护我们的家。"
+      },
+      "source_id": 84020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Об «Отце»: Правитель",
+        "en": "About \"Father\": King",
+        "zh": "关于「父亲」·王"
+      },
+      "text": {
+        "ru": "В нашем детском королевстве «Отец» исполняет роль истинного правителя. Конечно, ни один монарх не правит вечно, и я знаю, что однажды я займу это место... Меня это немного пугает... Но, пожалуйста, не говори об этом никому, особенно моей сестре и Фремине.",
+        "en": "Ours is a kingdom consisting only of children, and \"Father\" is our king. No king rules forever, of course, and I know that one day I will be chosen as \"Father's\" successor... But that also terrifies me... Please don't mention this to anyone, especially my sister and Freminet.",
+        "zh": "在这座只有孩子们构成的王国里，「父亲」是我们的王。我知道国王早晚会选继承者，也知道那会是我…但同时，我对那样的情况感到恐惧…请不要告诉任何人，尤其是妹妹和菲米尼。"
+      },
+      "source_id": 84021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Линетт: Режимы",
+        "en": "About Lynette: Modes",
+        "zh": "关于琳妮特·模式"
+      },
+      "text": {
+        "ru": "Тебе кажется, что моя сестра неразговорчива? О, возможно, она просто не в том режиме. В следующий раз начни разговор с фразы «Включить режим беседы». Если тебе повезёт, то ей найдётся что тебе порассказать. Что, если удача окажется не на твоей стороне? Ну тогда она будет какое-то время молча смотреть на тебя застывшими глазами, так что в каком-то смысле ты тоже увидишь её в новом свете!",
+        "en": "You think my sister doesn't talk much? Oh, she's probably just not in the right mode. Next time, start by saying \"Activate Chat Mode\" to her. If you're lucky, she might have a great deal of things to say to you. Hmm, and if you're not lucky...? Well, she'll just stare for a while, but hey, at least you'll get to see a different side of her!",
+        "zh": "你觉得妹妹她话很少？明白了，那是运行模式不对。下次，先对她说「激活，聊天模式」，运气好的话，她会和你说上很长一段话。你问运气不好要怎么办？别担心呀，就算被她瞪几眼，你也见到了和平时不一样的琳妮特！"
+      },
+      "source_id": 84022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Линетт: Близнецы",
+        "en": "About Lynette: Twins",
+        "zh": "关于琳妮特·双子"
+      },
+      "text": {
+        "ru": "Мы с сестрой с детства неразлучны. Вместе мы способны преодолеть любые трудности и готовы разделить любую радость. Для меня в мире нет ничего дороже семьи, поэтому я понимаю, каково тебе... Если я узнаю что-то полезное, то непременно дам тебе знать.",
+        "en": "My sister and I have always been inseparable. There's no hardship we can't overcome as long as we're together, and similarly, we share all our joys with each other. There's nothing in the world I treasure more than my family, so I know what it must be like for you... And if I find out anything at all that might help you, I'll be sure to let you know.",
+        "zh": "我和妹妹从小到大都在一起，艰难的时光只要有彼此就能度过，开心的时候也会和对方共享。家人，就是我们最宝贵的归宿。我们都能理解你与家人分别的痛苦…如果发现了任何线索，一定会告诉你的。"
+      },
+      "source_id": 84023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Фремине...",
+        "en": "About Freminet",
+        "zh": "关于菲米尼…"
+      },
+      "text": {
+        "ru": "Мой наивный младший брат до сих пор верит в сказки. Я ему в этом завидую, правда. Уф, на всякий случай поясню, что вообще-то он мне об этом не рассказывал. Просто однажды я случайно увидел, что он хранит в своем секретном ящике... Правда, совершенно случайно! Так что, пожалуйста, не говори ему, а то он точно на меня рассердится.",
+        "en": "My naive little brother still believes in fairy tales. I envy him, really. Uh, just to be clear though, he didn't actually tell me that. I just happened to see what he keeps in his secret drawer once... Really, it was an accident! So please don't tell him, or he'll get mad at me for sure.",
+        "zh": "我这位天真的弟弟，至今还相信童话故事。真让人有些羡慕。哦，这不是他自己告诉我的，是有次我不小心看到了他锁在秘密抽屉里的东西…真的是不小心哦！所以还请你不要告诉他，不然他肯定会生我气的。"
+      },
+      "source_id": 84024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Нёвиллете...",
+        "en": "About Neuvillette",
+        "zh": "关于那维莱特…"
+      },
+      "text": {
+        "ru": "Месье Нёвиллет редко появляется на публике. Он как будто намеренно устанавливает дистанцию с другими людьми. Сначала я думал, что это только мне так кажется, но у моей наблюдательной сестры тоже сложилось такое впечатление. Так что думаю, дела и правда обстоят именно так.",
+        "en": "Monsieur Neuvillette rarely appears in public, almost as if he's intentionally trying to put some distance between himself and the people. At first, I thought it might be just me, but my ever-observant sister noticed it too, so I suppose that must really be the case.",
+        "zh": "那维莱特先生很少公开露面，似乎刻意和人们保持着距离。一开始我还以为是我的错觉，但观察最最敏锐的琳妮特也有同感，那看来确实是这样了。"
+      },
+      "source_id": 84025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Фурине...",
+        "en": "About Furina",
+        "zh": "关于芙宁娜…"
+      },
+      "text": {
+        "ru": "Гидро Архонт госпожа Фурина совершенно непредсказуема и очень остра на язык. Она всегда говорит так, словно находится на сцене. Жители Фонтейна неравнодушны к драме, поэтому многие высоко её ценят.",
+        "en": "The Hydro Archon, Lady Furina, is very unpredictable, and her manner of speech can be quite provocative, almost as if she sees talking itself like some sort of performance. The people of Fontaine have a particular soft spot for excitement and drama, which is why many hold her in high esteem.",
+        "zh": "水神芙宁娜大人的行事作风不可捉摸，说得更露骨些，她平时说话也像是一种表演。枫丹人对精彩的舞台演出情有独钟，因此崇敬她的人也有不少。"
+      },
+      "source_id": 84026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Тиори...",
+        "en": "About Chiori",
+        "zh": "关于千织…"
+      },
+      "text": {
+        "ru": "Лестью от неё ничего не добьёшься, нужно по-настоящему ценить её искусство, чтобы она взглянула на тебя больше одного раза. Как она относится ко мне? Ох, ты ранишь меня своими подозрениями! Я не только великий ценитель искусства, но и невероятно честный человек, ты же знаешь.",
+        "en": "Flattery won't get you anywhere with her. She'll only give those who can truly appreciate her art a second look. How does she see me, you ask? Come on now, that hurts! Not only am I a connoisseur of the arts, but honest about it too, as I am in all my dealings!",
+        "zh": "恭维话在她那里是行不通的，只有真正懂得欣赏的人，才能让她另眼相待。你问她怎么看我？这问题可让我有些伤心哦，我可是既懂欣赏，又对大家真心相待的人呀。"
+      },
+      "source_id": 84027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Навии...",
+        "en": "About Navia",
+        "zh": "关于娜维娅…"
+      },
+      "text": {
+        "ru": "Я и не думал, что она захочет помочь нам, мы ведь с ней совсем не знакомы. Если бы не вы с ней, нас с Линетт не оправдали бы... Спасибо вам огромное. Дождусь солнечного дня и непременно приглашу вас на вкуснейший чай в кафе «Лютес».",
+        "en": "I didn't think that she'd be willing to help strangers like us. If it hadn't been for all of you, Lynette and I wouldn't have been acquitted... Thank you so much. I'll have to wait for a lovely, sunny day to invite everyone to Café Lutece for the most wonderful afternoon tea!",
+        "zh": "没想到她在不认识我的情况下愿意出手相助。要是没有你们的话，我和琳妮特肯定无法脱身…总之，非常感谢你们。就请让我等待一个阳光灿烂的日子，邀请大家去露泽咖啡厅吃最美味的茶点吧。"
+      },
+      "source_id": 84028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Шарлотте...",
+        "en": "About Charlotte",
+        "zh": "关于夏洛蒂…"
+      },
+      "text": {
+        "ru": "Шарлотта уговаривает меня на интервью с момента нашего знакомства... Она уже раз двадцать спросила. У неё хороший нюх на новости, и она очень упорна. Но, если честно, у меня нет никакого желания оказаться в центре одной из её «сенсаций», так что я каждый раз нахожу всевозможные причины для отказа.",
+        "en": "Charlotte has been trying to get me to agree to an interview ever since we met... Ugh, it feels like she's already asked twenty times now. She has a good nose for finding news, and she's the persistent type, too. But to be honest, I have no desire to find myself in the spotlight of one of her breaking news stories, and so I've found all sorts of reasons to decline each time.",
+        "zh": "自从那次见面之后，夏洛蒂小姐多次邀请我接受专访，呃…好像快有个二十次了吧。她对新闻有种与生俱来的敏锐，个性还异常执着。但说老实话，我可不想成为她笔下「爆炸性新闻」的主角，只好一次又一次用不同的理由婉拒了。"
+      },
+      "source_id": 84029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "О Клоринде...",
+        "en": "About Clorinde",
+        "zh": "关于克洛琳德…"
+      },
+      "text": {
+        "ru": "Клоринда довольно известна как судебный дуэлянт. Правда, судя по тому, что я читал в газетах, она попала в затруднительное положение... Прессе нравится копаться в её делах, а она... Ну, она явно не из тех, кому по душе подобное внимание.",
+        "en": "Clorinde's quite famous as a Champion Duelist. But from what I've read in the papers, she seems to have gotten into a bit of a pickle. The media's been all over her story, and she's... Well, she's the type that definitely doesn't enjoy that kind of attention.",
+        "zh": "作为决斗代理人，克洛琳德小姐颇有名望。但我最近在报纸上看到，她似乎麻烦缠身…媒体非常喜欢挖掘她的故事，至于她本人…应该相当厌恶这种行为吧。"
+      },
+      "source_id": 84030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Об Эмилии...",
+        "en": "About Emilie",
+        "zh": "关于艾梅莉埃…"
+      },
+      "text": {
+        "ru": "Тебе доводилось пробовать духи, которые она делает? Мне они очень понравились, я подумывал купить себе флакон... Но хвост Линетт подсказал мне, что это плохая идея, на том всё и кончилось.",
+        "en": "Have you ever gotten a whiff of the perfumes she makes? I quite liked them and was thinking to buy myself a bottle... But Lynette's tail indicated that she didn't share my opinion, so that was the end of that!",
+        "zh": "你闻过她设计的香水吗？我还挺喜欢的，原本想买一瓶试试…但琳妮特的尾巴似乎有不同的意见。那我也只好算喽。"
+      },
+      "source_id": 84031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Лини I",
+        "en": "More About Lyney: I",
+        "zh": "想要了解林尼·其一"
+      },
+      "text": {
+        "ru": "Похоже, мы друг другу очень интересны, это для меня большая честь! Ха-ха, не переживай, я не стану тебя обманывать - твои чарующие глаза не дадут мне этого сделать!",
+        "en": "It seems we're both keenly interested in each other. Well, know that the honor is mine! Haha, relax. I couldn't ever tell lies to your mesmerizing eyes — not even if I tried!",
+        "zh": "看来我们彼此都对对方很感兴趣呢，我的荣幸！哈哈，放心吧，只要看到你那令人着迷的眼睛，我就舍不得对你撒谎。"
+      },
+      "source_id": 84032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Лини II",
+        "en": "More About Lyney: II",
+        "zh": "想要了解林尼·其二"
+      },
+      "text": {
+        "ru": "Конечно, нельзя быть уверенным, что все фокусы всегда пройдут гладко. Мне кажется, суть хорошего представления не в том, чтобы всё было идеально, а в том, чтобы оставаться спокойным и импровизировать, когда это требуется. Даже если случилась небольшая оплошность, нужно просто заставить зрителей поверить, что это часть шоу - тогда представление всё равно получится незабываемо увлекательным!",
+        "en": "Of course, there's no way to ensure that you'll never slip up when performing magic tricks. The way I see it, the point is not to perform perfectly, but to stay calm at all times and adapt as needed. Even if some small flaws occur, you just need to make the audience believe that it's all part of the show, and you'll still deliver an entertaining and unforgettable performance!",
+        "zh": "魔术表演当然没办法保证永远不出现纰漏。对我而言，演出的重点也不是百分之百避免穿帮，而是时时刻刻保持镇定，随机应变。就算露出了小破绽，只要能让观众相信那也是表演的一环，依旧能成为一场精彩难忘的演出。"
+      },
+      "source_id": 84033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Лини III",
+        "en": "More About Lyney: III",
+        "zh": "想要了解林尼·其三"
+      },
+      "text": {
+        "ru": "Мы с детства остались сиротами, а потому нам с Линетт пришлось немало поскитаться по улицам и многое пережить. Но этот опыт сделал нас такими, какие мы есть. Сейчас у нас всё хорошо. У меня есть шляпа, полная надежд и мечтаний... А ещё семья и зрители, которые на меня полагаются!",
+        "en": "As orphans without parents to shelter us, Lynette and I were forced to roam the streets since childhood, so we've been through a lot. But those experiences have also made us who we are today. We're doing alright these days. I have a hat full of hopes and dreams... Heh, and a family, and audience, hoping that I don't let them down!",
+        "zh": "没有父母遮风挡雨，从小流落街头的孤儿，总要经历比常人更多的磨难。但正因为那些事情，才造就了如今的我和琳妮特。现在，我们都过得不错…「家人」、观众…我的帽子里装着很多很多人的期待呢！"
+      },
+      "source_id": 84034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше о Лини IV",
+        "en": "More About Lyney: IV",
+        "zh": "想要了解林尼·其四"
+      },
+      "text": {
+        "ru": "Ха-ха, значит, даже сейчас ты не доверяешь мне до конца? Твоя бдительность на высоте - и это к лучшему, так я могу не бояться, что кто-то тебя обманет. С другой стороны, раз ты берёшь на себя такую обязанность, не спускай с меня глаз... А то кто меня знает, вдруг стоит тебе отвлечься, и я нагорожу несусветной лжи! И тебе будет трудно от такого отвертеться.",
+        "en": "Haha, so even now you still don't completely trust me, huh? You're a vigilant one — not that that's a bad thing. I'll never need to worry about you getting duped by someone else. But on the other hand, since you've taken it upon yourself to watch my every move, you'd better be careful when you blink... Who knows, I might just tell a huge, terrible lie while you're not paying attention! You'd be in a real pickle then, wouldn't you?",
+        "zh": "哈哈，到现在还没办法完全相信我说的话吗？看来你警惕心很强，这是好事，我就不用担心你被别人骗了。另外嘛，你可要负起责任来，盯着我，谨慎挑选眨眼时机…不然的话，趁你不注意，我就去撒弥天大谎咯！到时候你也脱不开干系。"
+      },
+      "source_id": 84035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Узнать больше о Лини V",
+        "en": "More About Lyney: V",
+        "zh": "想要了解林尼·其五"
+      },
+      "text": {
+        "ru": "На самом деле я совсем не такой общительный и болтливый, каким кажусь. Чаще всего я использую свои словесные фокусы только для того, чтобы сблизиться с людьми. Боюсь, что покажи я своё настоящее лицо, меня станут жалеть. А ты? Жалеешь меня? А может, мои уловки кажутся тебе нелепостью?",
+        "en": "Actually, the real me is nowhere near as outgoing or chatty as I appear. More often than not, I only work my verbal \"magic\" as a means of getting closer to people. Sometimes I think people would feel sorry for the real me. Do you? *sigh* Or do you find my little games absurd?",
+        "zh": "「真实」的我，并没有我所表现出得那么外向、健谈。更多时候，我是为了跟大家拉近关系，才使用了语言上的「魔术」…你会同情原本的我吗？还是会觉得这种戏法…很愚蠢呢。"
+      },
+      "source_id": 84036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Хобби Лини",
+        "en": "Lyney's Hobbies",
+        "zh": "林尼的爱好…"
+      },
+      "text": {
+        "ru": "О, кто это у нас тут? Ага, миленький беленький крольчонок. Нравится? Любопытно узнать, как он сюда попал? Ещё бы! Что может быть прекраснее для фокусника, чем изумление зрителя?",
+        "en": "Hey, what do we have here? Ah, a cute, little white rabbit — you like it? Curious about when it got here? You should be! Hehe, the look of amazement on our audience's face is what we magicians love the most.",
+        "zh": "嘿，看这儿——可爱的小白兔，喜欢吗？好奇它是什么时候来到这里的吗？那就对了！观众脸上惊喜的表情，正是每一位魔术师的最爱。"
+      },
+      "source_id": 84037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Трудности Лини: Скрытность",
+        "en": "Lyney's Troubles: It's All a Disguise",
+        "zh": "林尼的烦恼·掩饰"
+      },
+      "text": {
+        "ru": "Ах, что делать, что делать? Больше всего меня беспокоит тот факт, что ты можешь думать о неприятностях, когда перед тобой стоит такой великий маг-иллюзионист, как я.",
+        "en": "Ah, what to do, what to do? The thing that troubles me is... the fact that you can even think of troubling things when you have such a great magician like myself standing right in front of you.",
+        "zh": "怎么办呢？我最大的烦恼就是——你在我这样的大魔术师面前，还能想到烦心的事情。"
+      },
+      "source_id": 84038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Трудности Лини: Голуби",
+        "en": "Lyney's Troubles: Doves",
+        "zh": "林尼的烦恼·鸽子"
+      },
+      "text": {
+        "ru": "Раньше я всегда отпускал своих голубей свободно летать по округе, после чего они всегда ко мне возвращались. Но однажды несколько голубей так и не прилетели назад. Когда мы их разыскали, они уже превратились в начинку для пирога. И теперь я не знаю, как одновременно дать им свободу и обеспечить безопасность.",
+        "en": "In the past, I would let the doves I raised fly freely, and they would always return to me. But there was once when a few didn't return, and by the time we tracked them down, they'd been turned into dove pie. Even now I still don't know how to give them both freedom and safety.",
+        "zh": "过去，我总是放养我的鸽子，它们也总会飞回我的身边。后来有一次，回家的鸽子少了几只，等我们循着痕迹找到的时候，它们已经变成了鸽子派。至今我也不知道，我要怎样同时带给它们「自由」和「安全」。"
+      },
+      "source_id": 84039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Видишь этот аквариум? Подойди, засунь в него руку. Там просто вода, правда? Ты ведь в этом не сомневаешься? Тогда начнём! Видишь эту ткань? Я накрою ей аквариум, и... Вуаля! Теперь тут появилась рыбка! Надо же! Как тебе кажется, этим представлением я заработал себе тарелку рыбы, приготовленной твоими руками?",
+        "en": "See this fishbowl? Come, put your hand inside it. Filled with just ordinary water, right? Are you sure? Then let's begin! See this cloth? I'm going to cover the bowl with it and... Well, what do you know? There's a fish in there now! How was that? Maybe this fun little performance could earn me one of your very own fish dishes?",
+        "zh": "看到这个鱼缸了吗？来，你可以把手伸进去感受一下，是不是真的只有水。确认好了吗？那就开始咯！看这块布，现在盖上去了…嘿呀，鱼变出来咯！怎么样？这精彩的表演，能换一道你亲手制作的鱼肉菜肴吗？"
+      },
+      "source_id": 84040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Из-за выступлений мы с Линетт должны беречь фигуры, поэтому стараемся есть поменьше жирной пищи. Для меня это не проблема, а вот сестре приходится непросто - жареная рыба, которую продают уличные торговцы, так потрясающе пахнет...",
+        "en": "Our performances require that Lynette and I have matching physiques, so we have to avoid eating any oily food. Now, that's not a huge problem for me, but it can be tough for my sister — the fried fish they sell on the streets smells amazing, after all...",
+        "zh": "出于表演需要，我和琳妮特得保持身形相似，我们会尽量不吃油炸食品。我倒是无所谓，妹妹就比较辛苦了——街头的炸鱼实在很香嘛！"
+      },
+      "source_id": 84041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Для меня большая честь наслаждаться твоими кулинарными шедеврами.",
+        "en": "It's quite an honor to enjoy such wonderful food made by you.",
+        "zh": "能吃到你亲手制作的美味，真是荣幸之至。"
+      },
+      "source_id": 84042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Мм, это вкусно! А ты хорошо готовишь, спасибо за угощение.",
+        "en": "My, this is delicious! You're quite the cook. Thanks for the treat.",
+        "zh": "你的厨艺不错嘛，很好吃哦！多谢款待。"
+      },
+      "source_id": 84043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Хочешь, покажу тебе фокус? Дай-ка я накрою эту тарелку обычным куском ткани. Давай сосчитаем вместе: три, два, один! Тадам! Куда же подевалась еда?",
+        "en": "Would you like to see a magic trick? Now, let me place this ordinary cloth on top of the dish. Count down with me — three, two, one! Tada! Where'd the food go?",
+        "zh": "想看魔术吗？来吧，看我把布盖在上面，你跟着我一起念——三、二、一！食物消失咯！"
+      },
+      "source_id": 84044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Смотри-ка, у меня тут самое обыкновенное пёрышко... Можешь протянуть руку и проверить... Бум! Это хлопушка! С днём рождения! Смотри, я поймал одну из лент серпантина. Я зажгу её, а ты загадай желание и представь себе подарок, который хочешь получить. Три... два... один... Отлично! Я знаю, каким было желание. Теперь опусти руку в мою шляпу... Ну что? Этот подарок ты загадал? / Смотри-ка, у меня тут самое обыкновенное пёрышко... Можешь протянуть руку и проверить... Бум! Это хлопушка! С днём рождения! Смотри, я поймал одну из лент серпантина. Я зажгу её, а ты загадай желание и представь себе подарок, который хочешь получить. Три... два... один... Отлично! Я знаю, каким было желание. Теперь опусти руку в мою шляпу... Ну что? Этот подарок ты загадала?",
+        "en": "I have a feather here, just an ordinary feather... Go ahead, you can hold it and see for yourself. Ready? And... boom! It was a party popper all along. Happy Birthday! See this? I caught one of the paper streamers floating down. Now, make a wish and picture a birthday gift in your mind's eye as I light it. Three... two... one... Great! Verrry good, I know exactly what you were thinking now. The last step, put your hand inside my hat... Well? Is it the gift you wanted?",
+        "zh": "这里有一根羽毛，请伸出手来确认一下，它的确是一片普通的羽毛。好了吗？啪嚓——其实是礼花哦，生日快乐！看到了吗？礼花里飘下的一片彩纸，被我抓住了。在我点燃它的同时，你就可以许愿了，顺带想象一下你的生日礼物。三、二、一——嗯，很~好~我已经明白你的想法了。来吧，把手伸进我的帽子里——如何？这份礼物是你想要的吗？"
+      },
+      "source_id": 84045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Ого, а я-то думал, что с этими материалами я должен сотворить какой-нибудь фокус!",
+        "en": "Oho, and here I thought you'd ask me to perform some magic with these materials!",
+        "zh": "哎呀，我还以为你想让我用这些素材变魔术呢。"
+      },
+      "source_id": 84046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Тебя бы больше удивило отсутствие во мне всяких изменений?",
+        "en": "Would you be more shocked if nothing changed about me at all?",
+        "zh": "要是什么变化都没有，会不会让你更加吃惊？"
+      },
+      "source_id": 84047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Ничто не может порадовать меня больше, чем твоё доверие.",
+        "en": "Nothing could make me happier than having your trust.",
+        "zh": "你愿意信任我，没有比这个更令我开心的事情了。"
+      },
+      "source_id": 84048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Ты столько всего для меня делаешь... Пытаешься украсть моё сердце? В таком случае, поздравляю, дорогой ученик... то есть компаньон. У тебя получилось!",
+        "en": "Doing all this for me... Are you trying to steal this magician's heart, by any chance? Well, in that case, congratulations, my dear apprentice — or should I say, \"companion.\" For you have succeeded!",
+        "zh": "为我付出这么多，是想要偷走我的心吗？那就让我恭喜你、祝贺你吧！我亲爱的学徒，或者说伙伴——你已经做到咯。"
+      },
+      "source_id": 84049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Шаг вперёд!",
+        "en": "Step right up!",
+        "zh": "一点小把戏。"
+      },
+      "source_id": 84050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "И... вуаля!",
+        "en": "And... voila!",
+        "zh": "看看这个吧！"
+      },
+      "source_id": 84051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "А теперь... исчезновение!",
+        "en": "Now, disappear!",
+        "zh": "惊喜连连。"
+      },
+      "source_id": 84052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Гвоздь программы!",
+        "en": "Here comes the finale!",
+        "zh": "压轴表演！"
+      },
+      "source_id": 84053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Да начнётся представление!",
+        "en": "Let's get this show on the road!",
+        "zh": "好戏开演！"
+      },
+      "source_id": 84054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Аплодисменты!",
+        "en": "A round of applause!",
+        "zh": "响起你的掌声！"
+      },
+      "source_id": 84055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "А теперь я заставлю всё это исчезнуть... Ха-ха, шучу.",
+        "en": "And now I'll make it all disappear... Hehe, just kidding~",
+        "zh": "用这个道具，把它们全部变走…开玩笑的啦。"
+      },
+      "source_id": 84056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Это отправится в мою Волшебную сумку!",
+        "en": "Guess this'll go into my magic pocket!",
+        "zh": "装进魔术口袋里吧。"
+      },
+      "source_id": 84057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Не кроется ли за этим сундуком какой-то фокус?..",
+        "en": "I wonder if this chest is some kind of trick...",
+        "zh": "这也算是一种宝箱魔术吗？"
+      },
+      "source_id": 84058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Со смертью фокусы не работают, знаете ли!",
+        "en": "Magic can't cheat death, you know!",
+        "zh": "这是要我表演诈死魔术吗？"
+      },
+      "source_id": 84059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Хитрый трюк...",
+        "en": "Clever trick...",
+        "zh": "不错的戏法…"
+      },
+      "source_id": 84060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Всё будет хорошо.",
+        "en": "It'll be alright.",
+        "zh": "不会有事的。"
+      },
+      "source_id": 84061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Позволь мне выйти на сцену!",
+        "en": "Why don't you let me take the stage!",
+        "zh": "可别忘了还有我啊！"
+      },
+      "source_id": 84062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Мы сбиваемся с ритма программы!",
+        "en": "Your timing's off!",
+        "zh": "节奏已经乱了哦？"
+      },
+      "source_id": 84063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Линетт...",
+        "en": "Lynette...",
+        "zh": "琳妮特…"
+      },
+      "source_id": 84064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Моё шоу... не может кончиться провалом...",
+        "en": "My show... mustn't fail...",
+        "zh": "我的表演，不会失败！…"
+      },
+      "source_id": 84065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Скорее... занавес...",
+        "en": "Quick... drop the curtains...",
+        "zh": "幕布…快点拉上…"
+      },
+      "source_id": 84066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Пустяки.",
+        "en": "I'm fine.",
+        "zh": "没事。"
+      },
+      "source_id": 84067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Спокойно, спокойно...",
+        "en": "Stay calm, stay calm...",
+        "zh": "冷静…"
+      },
+      "source_id": 84068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "О, у нас будет бродячая труппа.",
+        "en": "Ah, we'll be a traveling magic troupe.",
+        "zh": "噢！「旅行魔术团」。"
+      },
+      "source_id": 84069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Я вас ещё удивлю.",
+        "en": "Prepare to be amazed.",
+        "zh": "乐意效劳。"
+      },
+      "source_id": 84070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Это честь для меня.",
+        "en": "It's an honor to be here.",
+        "zh": "能被你邀请是我的荣幸。"
+      },
+      "source_id": 84071
+    }
+  ],
+  "replica_count": 72
 }

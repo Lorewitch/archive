@@ -276,3 +276,851 @@ The mighty and illuminated adepti all acknowledged this as a legitimate form of 
 「如果时间能停留在过去，该有多好…」
 如此想着，泪珠从垂死的女孩眼角滑落，滴在陡然出现的「神之眼」上。
 「三眼五显仙人」们认同了它作为「三眼」的正统性——人对逝去岁月的渴望，亦是一种守护之志。
+
+# voice_source_ids: 24009,24010,24011,24012,24013,24014,24015,24016,24017,24018,24019,24020,24021,24022,24023,24024,24025,24026,24027,24028,24029,24030,24031,24032,24033,24034,24035,24036,24037,24038,24039,24040,24041,24042,24043,24044,24045,24046,24047,24048,24049,24050,24051,24052,24053,24054,24055,24056,24057,24059,24060,24061,24062,24063,24064,24065,24066,24067,24068,24069,24070,24071,24072,24073,24074,24075,24076,24077,24078,24079
+
+## REPLICAS_RU
+
+### Привет...
+
+Я Ци Ци, я зомби... Ээ, чего дальше говорить?
+
+### Поболтаем: Разговоры с собой
+
+Эй, знаешь что? Эээ... я тоже. О чём это я...
+
+### Поболтаем: Страх жары
+
+Хочу куда-нибудь попрохладней.
+
+### Поболтаем: Тренировка
+
+Один, два, три, четыре... Два... Два, три, четыре...
+
+### Когда идёт дождь...
+
+Опять зонтик забыла.
+
+### Когда идёт снег...
+
+Хочу снеговика слепить... Поможешь?
+
+### Когда светит солнце...
+
+Не стоило выходить из дома.
+
+### Когда дует ветер...
+
+Прохладненький, очень хорошо.
+
+### Когда дует сильный ветер...
+
+Хватай... хватай меня... А то меня сдует...
+
+### Доброе утро...
+
+Утром нужно проверить дневник. Дневник знает, что нужно делать утром.
+
+### Добрый день...
+
+Вспомнила... Забыла разложить лекарства для господина Бая.
+
+### Добрый вечер...
+
+Добрый вечер. Как прошёл твой день? Мой - хорошо. Кажется... Но я не помню...
+
+### Спокойной ночи...
+
+Ты иди отдыхай, а мне ещё надо гимнастику сделать. ...Не подглядывай.
+
+### О Ци Ци...
+
+А, ты мне?.. Извини, я не помню...
+
+### О нас: Память
+
+Я много что забываю, но... в этом нет ничего страшного.
+
+### О нас: Тренировка памяти
+
+Я теперь делаю много упражнений на память, так что я тебя не забуду, не волнуйся.
+
+### Глаз Бога...
+
+Глаз Бога не может остановить время, но теперь я могу защитить дорогих мне людей.
+
+### Давай поделимся...
+
+На самом деле, моё физическое состояние намного лучше, чем у господина Бая...
+
+### Интересные вещи...
+
+Иногда к аптеке прилетает стайка зябликов. Маленькая такая стайка.
+
+### О Бай Чжу...
+
+Никак не запомню, как выглядит господин Бай, но это ничего...
+
+### О Ху Тао...
+
+Жара, фальшивая улыбка и смерть... Ненавижу Ху Тао.
+
+### О Сяо: Имя
+
+Хм, звучит как что-то антикварное...
+
+### О Сяо: Память
+
+Я его уже видела?..
+
+### О Синь Янь...
+
+...Кто?
+
+### О Яо Яо...
+
+Милая... Похожа на зяблика.
+
+### О малышке Мин...
+
+Вечером... иногда такое ощущение, что кто-то делает гимнастику вместе со мной... Или кажется?
+
+### Узнать больше о Ци Ци I
+
+Что такое?
+
+### Узнать больше о Ци Ци II
+
+Гимнастика позволяет мне сохранять подвижность, как у нормальных людей. Но стоит перестать и всё станет как раньше...
+
+### Узнать больше о Ци Ци III
+
+Некоторые люди пытаются меня использовать, некоторые - боятся. Но ты... совсем другой. / Некоторые люди пытаются меня использовать, некоторые - боятся. Но ты... совсем другая.
+
+### Узнать больше о Ци Ци IV
+
+С первой нашей встречи у меня появилось ощущение тепла. Не той жары, от которой мне нехорошо, а что-то другое. Тепло в моём сердце. Спасибо тебе... Я очень рада. Жаль, что я знаю только нынешнего тебя. Если я тебя забуду... то мы... нет, я прикажу себе помнить тебя. / С первой нашей встречи у меня появилось ощущение тепла. Не той жары, от которой мне нехорошо, а что-то другое. Тепло в моём сердце. Спасибо тебе... Я очень рада. Жаль, что я знаю только нынешнюю тебя. Если я тебя забуду... то мы... нет, я прикажу себе помнить тебя.
+
+### Узнать больше о Ци Ци V
+
+Раньше я только хотела продолжать жить, хотя и не знала, зачем мне это... Но теперь я, кажется, знаю. Я хочу жить с тобой. Мы можем быть вместе всю жизнь?.. До самой смерти?.. Да или нет? Да? Правда? Хорошо! Я буду тебя защищать!
+
+### Хобби Ци Ци...
+
+Хочу завести домашнее животное... типа зяблика.
+
+### Беспокойство Ци Ци...
+
+Не знаю почему, но от жары мне как-то неприятно в теле...
+
+### Любимая еда...
+
+Мне нравится кокосовое молоко. Но... я не чувствую вкуса.
+
+### Нелюбимая еда...
+
+Извини, я не знаю...
+
+### День рождения...
+
+Счастливых тебе воскрешений! Вот тебе мешочек с целебными травами. Удивлён, что я вспомнила? Когда ты мне сказал, я записала, а потом каждый день смотрела. Теперь это не сотрётся у меня из памяти. / Счастливых тебе воскрешений! Вот тебе мешочек с целебными травами. Удивлена, что я вспомнила? Когда ты мне сказала, я записала, а потом каждый день смотрела. Теперь это не сотрётся у меня из памяти.
+
+### Чувство возвышения: Начало
+
+О, я стала сильнее?.. А как это? Объясни, пожалуйста. Спасибо.
+
+### Чувство возвышения: Нарастание
+
+А, поняла. Если стать сильнее, то нужно больше усилий, чтобы контролировать силу.
+
+### Чувство возвышения: Кульминация
+
+Раньше я не понимала, как это - стать сильнее. Но теперь... я хочу стать ещё немного сильнее.
+
+### Чувство возвышения: Окончание
+
+Это всё благодаря тебе. Спасибо... Можно попросить тебя кое о чём? Отныне... я буду тебя защищать. Можно?
+
+### Элементальный навык I
+
+Круговорот жизни.
+
+### Элементальный навык II
+
+Жизнь продолжается.
+
+### Элементальный навык III
+
+Иди.
+
+### Элементальный навык IV
+
+Восстань.
+
+### Взрыв стихии I
+
+Приказы отданы. Приказы получены.
+
+### Взрыв стихии II
+
+Священное имя: Хранитель Фортуны
+
+### Взрыв стихии III
+
+Открываю шкатулку Искусства Адепта.
+
+### Начало спринта I
+
+Быстрее? Ладно, быстрее.
+
+### Запуск планера I
+
+А?
+
+### Открытие сундука I
+
+Красиво.
+
+### Открытие сундука II
+
+Сундук... Хм... Нам нравятся сундуки?
+
+### Открытие сундука III
+
+Разве секунду назад здесь ничего не было?..
+
+### Низкий уровень HP I
+
+Ох...
+
+### Низкий уровень HP II
+
+О нет...
+
+### Низкий уровень HP III
+
+Мне надо жить дальше...
+
+### Низкий уровень HP компаньона I
+
+Опасно.
+
+### Низкий уровень HP компаньона II
+
+Стой. Позволь мне.
+
+### Без сознания I
+
+Я не хочу... снова... в заточение...
+
+### Без сознания II
+
+Холодно... Как холодно...
+
+### Без сознания III
+
+Нет...
+
+### Получен лёгкий удар I
+
+Пустяки.
+
+### Получен тяжёлый удар I
+
+Ух ты!
+
+### Получен тяжёлый удар II
+
+Ой...
+
+### Присоединяется к группе I
+
+Я здесь.
+
+### Присоединяется к группе II
+
+Что происходит?
+
+### Присоединяется к группе III
+
+Я захвачу... свою тетрадь.
+
+### Подарок I
+
+Холодненькое. Нравится. Но вкуса нет...
+
+### Подарок II
+
+Эм...
+
+### Подарок III
+
+Язык горит...
+
+### О Прюн...
+
+С виду она строгая... но руки у неё мягкие и тёплые. Она хорошая.
+
+## REPLICAS_EN
+
+### Hello
+
+I am Qiqi. I am a zombie. And I... forgot what comes next.
+
+### Chat: Talking to Herself
+
+Hey, do you know what? Uhh... neither do I. I... already forgot.
+
+### Chat: Afraid of Heat
+
+Let's go somewhere cooler.
+
+### Chat: Training
+
+One, two, three, four. Two, two, three, four...
+
+### When It Rains
+
+I forgot my umbrella again.
+
+### When It Snows
+
+I want to build a snowman. Will you help?
+
+### When the Sun Is Out
+
+I should have stayed indoors today.
+
+### When It's Windy
+
+The wind is... frigid. I like it.
+
+### When the Wind Is Blowing
+
+Hold my hand please. This wind could blow me away.
+
+### Good Morning
+
+Morning means it's time to check my diary. Because my diary reminds me what I'm supposed to do in the morning.
+
+### Good Afternoon
+
+I just remembered something. I forgot to help Dr. Baizhu prepare medications.
+
+### Good Evening
+
+Good evening. How was your day? My day was... fine, I think. But I can't remember.
+
+### Good Night
+
+It's time for you to sleep now. I will do my stretches. ...Do not watch me, please.
+
+### About Qiqi
+
+Did you ask me something? Sorry... I forgot.
+
+### About Us: Memory
+
+I have a poor memory for most things. But as far as I know, that doesn't matter.
+
+### About Us: Memory Training
+
+I started memory training exercises recently. So don't worry, I won't forget who you are.
+
+### About the Vision
+
+My Vision can't turn back time. But at least it gives me the power to protect the people that matter most.
+
+### Something to Share
+
+I may be a corpse, but I am in a much better physical condition than Dr. Baizhu.
+
+### Interesting Things
+
+Sometimes I see finches near the pharmacy. A nice little group of finches.
+
+### About Baizhu
+
+I can never remember Dr. Baizhu's face. But I don't mind.
+
+### About Hu Tao
+
+Warm. Fake smile. Death. I despise Hu Tao.
+
+### About Xiao: Name
+
+Sounds like a historical artifact to me.
+
+### About Xiao: Memory
+
+Remind me, have I met him before?
+
+### About Xinyan
+
+...Who?
+
+### About Yaoyao
+
+Cute. Like a nice little finch.
+
+### About Dusky Ming
+
+On some nights, I almost feel like someone is doing stretches together with me. But maybe I just have an overactive imagination.
+
+### More About Qiqi: I
+
+What's going on?
+
+### More About Qiqi: II
+
+I perform stretches regularly to help me maintain the same range of movement as a normal human being. But as soon as I stop doing them, the rigor mortis starts to set in again.
+
+### More About Qiqi: III
+
+Some people want to take advantage of me. Others are terrified of me. But you... You are not like any of those people.
+
+### More About Qiqi: IV
+
+Since we first met, I have had a warm feeling inside. Not the kind of warmth that makes me feel rotten. The other kind of warm. The one that happens inside my heart. Thank you. I am happy. Sadly I only recognize the current you. If I forget you... No. I will order myself to remember you.
+
+### More About Qiqi: V
+
+In the past, my only thought was: I must stay alive. Even though I didn't know what to live for. But now, I think I know. I want to live with you. I want to ask, can we always stay together, for the rest of life, until death? Yes or no? Yes? Is that your real answer? Good, excellent. I promise to always protect you.
+
+### Qiqi's Hobbies
+
+I want to have a pet. For example, a nice little finch.
+
+### Qiqi's Troubles
+
+I don't know why, but high temperatures make me feel... disgusting.
+
+### Favorite Food
+
+I like coconut milk... But, I don't know what it tastes like.
+
+### Least Favorite Food
+
+Sorry, I have no idea.
+
+### Birthday
+
+Many happy returns. Here is a bag of herbal medicine for you. You must be very surprised that I remembered? Let me explain. Last time you told me, I wrote your birthday down on a piece of paper. If I look at something once a day, it eventually goes into my long-term memory, and it will stay there forever.
+
+### Feelings About Ascension: Intro
+
+Now, I have more power. But... what does that mean? Please explain. Thank you.
+
+### Feelings About Ascension: Building Up
+
+Ah, I understand. When I get stronger, I need to put more effort into controlling my strength.
+
+### Feelings About Ascension: Climax
+
+In the past, I did not understand the idea of being stronger than I already was. Now that I understand it well, I wish I was just a little stronger still.
+
+### Feelings About Ascension: Conclusion
+
+All of this is because of you. Thank you very much. Can you make me a promise? From now on, please, let me protect you. Do you accept? Yes or no?
+
+### Elemental Skill: I
+
+Wheel of life.
+
+### Elemental Skill: II
+
+Life goes on.
+
+### Elemental Skill: III
+
+Go.
+
+### Elemental Skill: IV
+
+Rise.
+
+### Elemental Burst: I
+
+Orders given. Orders received.
+
+### Elemental Burst: II
+
+Sacred name: Fortune Preserver.
+
+### Elemental Burst: III
+
+Opening box of Adepti tricks.
+
+### Sprint Start: I
+
+Faster? Okay, faster.
+
+### Deploying Wind Glider: I
+
+Uh... Huh...
+
+### Opening Treasure Chest: I
+
+Ooh, pretty.
+
+### Opening Treasure Chest: II
+
+Treasure chests... hmm... do we like treasure chests?
+
+### Opening Treasure Chest: III
+
+Wasn't there something in here a second ago...?
+
+### Low HP: I
+
+Ow.
+
+### Low HP: II
+
+Oh no...
+
+### Low HP: III
+
+I must live on...
+
+### Ally at Low HP: I
+
+Danger.
+
+### Ally at Low HP: II
+
+Stop. Let me do it.
+
+### Fallen: I
+
+Don't want... to be sealed... back up...
+
+### Fallen: II
+
+Cold... So cold...
+
+### Fallen: III
+
+No...
+
+### Light Hit Taken: I
+
+I didn't feel that.
+
+### Heavy Hit Taken: I
+
+Wow.
+
+### Heavy Hit Taken: II
+
+Oh...
+
+### Joining Party: I
+
+I'm here.
+
+### Joining Party: II
+
+What's happening?
+
+### Joining Party: III
+
+I will... bring my notebook.
+
+### Receiving a Gift: I
+
+Cold. I like it. But, no flavor...
+
+### Receiving a Gift: II
+
+Huh...
+
+### Receiving a Gift: III
+
+It's burning my tongue...
+
+### About Prune
+
+She looks tough on the outside... but her palms are nice and soft. I like her.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我是七七，是个僵尸…啊，还要说什么来着。
+
+### 闲聊·自言自语
+
+咦，刚刚…我想说什么来着…
+
+### 闲聊·怕热
+
+想去凉快点的地方。
+
+### 闲聊·锻炼
+
+七二三四，七二三四…五六七七，五六七七…
+
+### 下雨的时候…
+
+又忘记带伞了。
+
+### 下雪的时候…
+
+想堆雪人…可以陪我吗？
+
+### 阳光很好…
+
+今天不该出门的。
+
+### 起风的时候…
+
+凉凉的，很舒服。
+
+### 刮大风了…
+
+拉手…拉手！要、要被吹跑了！…
+
+### 早上好…
+
+早上了吗？今天要做的是…我看看笔记。
+
+### 中午好…
+
+…忘记帮白先生分拣药材了。
+
+### 晚上好…
+
+晚上好。今天…我做了什么来着…
+
+### 晚安…
+
+你先休息吧，我该去做柔软体操了…不要偷看。
+
+### 关于七七自己…
+
+你问我吗…？对不起，我不记得了…
+
+### 关于我们·记忆力
+
+很多事情我都记不起来了，但是…也没什么不好。
+
+### 关于我们·记忆力锻炼
+
+最近我努力做了很多记忆力锻炼，所以不用担心我会忘记你了。
+
+### 关于「神之眼」…
+
+「神之眼」，虽然无法停住时间，但是给了我守护重要之人的力量。
+
+### 有什么想要分享…
+
+其实我的身体状况比白先生好很多…
+
+### 感兴趣的见闻…
+
+药庐附近有时候会有小团雀出没，小小的一团。
+
+### 关于白术…
+
+我记不起来白先生的脸了，但是也没什么关系…
+
+### 关于胡桃…
+
+高温、假笑和死亡…讨厌。
+
+### 关于魈·名字
+
+唔，听起来像老古董…
+
+### 关于魈·记忆
+
+我见过他吗…？
+
+### 关于辛焱…
+
+…是谁？
+
+### 关于瑶瑶…
+
+可爱…像小团雀。
+
+### 关于小冥…
+
+晚上…偶尔会感觉到有人和我一起做体操…是错觉吗？
+
+### 想要了解七七·其一
+
+有什么事吗？
+
+### 想要了解七七·其二
+
+柔软体操，让我能够保持和人类一样的身体状态。但是如果放松下来的话，就会变回去…
+
+### 想要了解七七·其三
+
+有的人想要利用我，有的人很害怕我。但是你…和他们都不一样。
+
+### 想要了解七七·其四
+
+从第一次见面开始，你就给我一种很温暖的感觉。和让人不舒服的热不一样，是我的心，感觉到了温暖。谢谢你…我很高兴。可惜我只认识现在的你，如果以后我忘记了…我们就…不，我会「命令」自己记住你。
+
+### 想要了解七七·其五
+
+以前我只想要活下去，虽然不知道为了什么活下去…但现在我好像知道了，以后想要和你一起活下去。我、我们可以…永远一直在一起吗？啊…真的可以吗？嗯！我会保护好你的！
+
+### 七七的爱好…
+
+想要一只小宠物…小团雀那样子的。
+
+### 七七的烦恼…
+
+我不明白，但是，温度高会让身体很难受…
+
+### 喜欢的食物…
+
+喜欢椰奶。但是…尝不出味道。
+
+### 讨厌的食物…
+
+对不起，我不知道…
+
+### 生日…
+
+生辰快乐。给，草药香囊。很惊讶吗？上次你告诉我的时候，我就记在纸上了。每天都看一遍的话，今后也不会忘记的…
+
+### 突破的感受·起
+
+啊，变强了吗…变强，是什么呢？
+
+### 突破的感受·承
+
+啊，理解了。变强之后，控制力量需要更多的精力了。
+
+### 突破的感受·转
+
+以前我对更加强大并没有概念，但是现在…我希望能够再强一点。
+
+### 突破的感受·合
+
+这一切都是因为你在，谢谢你…可以答应我一个愿望吗？今后…就让我来保护你吧，好不好？
+
+### 元素战技·其一
+
+流转不息。
+
+### 元素战技·其二
+
+生生不绝。
+
+### 元素战技·其三
+
+去。
+
+### 元素战技·其四
+
+起。
+
+### 元素爆发·其一
+
+听诏，宣此诰命。
+
+### 元素爆发·其二
+
+真名，度厄真君。
+
+### 元素爆发·其三
+
+玉签，仙法开匣。
+
+### 冲刺开始·其一
+
+要更快一点吗？
+
+### 打开风之翼·其一
+
+欸？
+
+### 打开宝箱·其一
+
+好看。
+
+### 打开宝箱·其二
+
+宝箱…有用吗？
+
+### 打开宝箱·其三
+
+里面，是什么？不记得…
+
+### 生命值低·其一
+
+痛。
+
+### 生命值低·其二
+
+啊——
+
+### 生命值低·其三
+
+要活下去…
+
+### 同伴生命值低·其一
+
+危险。
+
+### 同伴生命值低·其二
+
+我来吧。
+
+### 倒下·其一
+
+还会...被封印吗…
+
+### 倒下·其二
+
+好冷…
+
+### 倒下·其三
+
+不要…
+
+### 普通受击·其一
+
+没感觉…
+
+### 重受击·其一
+
+居然…
+
+### 重受击·其二
+
+糟了…
+
+### 加入队伍·其一
+
+…我来了。
+
+### 加入队伍·其二
+
+有什么事吗？
+
+### 加入队伍·其三
+
+我带着…笔记。
+
+### 收到赠礼·其一
+
+凉凉的，很喜欢。虽然没有味道…
+
+### 收到赠礼·其二
+
+唔…
+
+### 收到赠礼·其三
+
+有点烫…
+
+### 关于布伦妮…
+
+外表硬硬的女孩…但手心很软。喜欢。

@@ -144,5 +144,974 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Господин, ты не меня ищешь? Приветствую, меня зовут Сетос! Чем могу быть полезен? Хотя... Знаешь что? В ногах правды нет. Я знаю одно хорошее место, где мы сможем посидеть и обсудить дела. / Госпожа, ты не меня ищешь? Приветствую, меня зовут Сетос! Чем могу быть полезен? Хотя... Знаешь что? В ногах правды нет. Я знаю одно хорошее место, где мы сможем посидеть и обсудить дела.",
+        "en": "Sorry Sir, were you looking for me? Hello, hello, I'm Sethos. What can I do for you? ...Actually, you know what? This seems like more of a sit-down conversation. Come with me, I know a good place. / Sorry Ma'am, were you looking for me? Hello, hello, I'm Sethos. What can I do for you? ...Actually, you know what? This seems like more of a sit-down conversation. Come with me, I know a good place.",
+        "zh": "这位先生，是在叫我吗？你好你好，我叫赛索斯。你呢，找我有什么事吗？哎呀，也别干站着了，我知道一个适合坐下来聊天的好地方，跟我来吧。 / 这位小姐，是在叫我吗？你好你好，我叫赛索斯。你呢，找我有什么事吗？哎呀，也别干站着了，我知道一个适合坐下来聊天的好地方，跟我来吧。"
+      },
+      "source_id": 97000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Размышления",
+        "en": "Chat: Thinking",
+        "zh": "闲聊·思考"
+      },
+      "text": {
+        "ru": "Если постоянно спрашивать «почему?», можно окончательно загнать себя в угол. Иногда лучше отпустить ситуацию.",
+        "en": "If you're always asking \"Why?\", you end up thinking yourself into a corner. Sometimes, it's better to let go.",
+        "zh": "过度思考「为什么」很容易钻牛角尖，不如放过自己。"
+      },
+      "source_id": 97001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Переполох",
+        "en": "Chat: Commotion",
+        "zh": "闲聊·动静"
+      },
+      "text": {
+        "ru": "Слышишь? Там что-то происходит. Я хочу посмотреть. Выигрывает тот, кто приходит первым.",
+        "en": "Do you hear that? Something's going on over there. I wanna go check it out — early bird gets the worm.",
+        "zh": "你听到了吗？那边有动静。先下手为强，我想去凑凑热闹。"
+      },
+      "source_id": 97002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Обучение",
+        "en": "Chat: School",
+        "zh": "闲聊·上学"
+      },
+      "text": {
+        "ru": "В Академии много очень интересных людей... Я хочу учиться там.",
+        "en": "There's a lot of very fascinating people in the Akademiya... kinda makes me wanna go study there.",
+        "zh": "教令院里面怪人真多，搞得我都想考进去上个学了。"
+      },
+      "source_id": 97003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Спасибо, зонтик мне не нужен. В пустыне редко идут дожди, так что я хочу насладиться им, пока есть возможность.",
+        "en": "No umbrella for me, thanks. It hardly ever rains in the desert, so I'm gonna enjoy this while I can.",
+        "zh": "沙漠里极少下雨，所以就让我享受一会儿这样的天气吧，不用帮我打伞啦。"
+      },
+      "source_id": 97004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Нет, нет, нет... Быстрее, нужно опуститься ниже!",
+        "en": "No no no... Quick, let's get to lower ground!",
+        "zh": "糟了糟了糟了，快去地势低的地方…"
+      },
+      "source_id": 97005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Бррр! Быстрее бежим. Бег согревает!",
+        "en": "*shudder* ...Quick quick quick, let's pick up the pace! Jogging will warm us up!",
+        "zh": "嘶…快快快，跑起来，跑起来就不冷了！"
+      },
+      "source_id": 97006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Какая прекрасная погода! Было бы глупо не отправиться в поход. Хочешь порыбачить в оазисе?",
+        "en": "The weather's so perfect, it would be such a waste not to go camping. How does fishing in an oasis sound?",
+        "zh": "天气真好，不找个地方露营可就太浪费了。走吗，一起去绿洲钓鱼？"
+      },
+      "source_id": 97007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Ты когда-нибудь рисовал на песке? Если смотреть на рисунок с высоты, он представляет собой невероятное зрелище! Но для этого нужно выбрать место, наиболее защищённое от ветра. / Ты когда-нибудь рисовала на песке? Если смотреть на рисунок с высоты, он представляет собой невероятное зрелище! Но для этого нужно выбрать место, наиболее защищённое от ветра.",
+        "en": "Have you ever tried drawing in the sand? From up high, it makes for an incredible sight! But you need to pick somewhere less exposed to the wind.",
+        "zh": "你试过在沙地上画画吗？从高处看会很壮观哦！就是要找个风小的地方。"
+      },
+      "source_id": 97008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро, хочешь позавтракать со мной? Я собираюсь приготовить шаурму. Мечтаю о ней со вчерашнего вечера.",
+        "en": "Goooood morning, wanna join me for breakfast? I'm gonna fix some Shawarma Wraps — I've been craving them since last night.",
+        "zh": "早早早，要跟我去吃点东西吗？我从昨晚就惦记着做几个烤肉卷了。"
+      },
+      "source_id": 97009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Заманчиво выпить кофе после обеда, но это нарушит твой послеобеденный сон.",
+        "en": "It's tempting to have a coffee at this hour, but it'll ruin your afternoon nap.",
+        "zh": "现在喝咖啡的话，就没法享受午觉了哦。"
+      },
+      "source_id": 97010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Днём пустыня - довольно безжизненное место, но ночью невозможно устоять перед звёздным небом.",
+        "en": "The desert's a pretty lifeless place during the day, but you can't beat the view of the stars at night.",
+        "zh": "虽然沙漠白天没什么生机，但晚上总有很好看的星星。"
+      },
+      "source_id": 97011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Я собираюсь лечь спать пораньше. Завтра хочу встретить рассвет.",
+        "en": "I'm gonna hit the hay. Wanna catch the sunrise tomorrow.",
+        "zh": "睡了睡了，准备迎接明天的太阳！"
+      },
+      "source_id": 97012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Сетосе: Впечатление",
+        "en": "About Sethos: Impression",
+        "zh": "关于赛索斯自己·印象"
+      },
+      "text": {
+        "ru": "Старейшины говорят, что меня трудно контролировать, словно дикого зверя. Вообще с этим трудно спорить, но тебе не кажется, что они хотят контролировать мысли других людей, и проблема кроется именно в этом?",
+        "en": "Some of my elders say I'm difficult to control, like a wild animal. I actually don't disagree with that, but don't you think it's kind of an issue that they'd want to control how other people think in the first place?",
+        "zh": "有些长辈说我像野生动物一样难以控制。倒不是说他们的印象有错，但首先，想要控制别人的想法有点不太对，你说是吧？"
+      },
+      "source_id": 97013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Сетосе: Лидерство",
+        "en": "About Sethos: Leadership",
+        "zh": "关于赛索斯自己·首领"
+      },
+      "text": {
+        "ru": "Честно говоря, быть лидером довольно сложно, особенно в Храме Молчания. Но после всех лет, проведённых с дедушкой, я чётко представляю себе, в каких областях не могу пойти на компромисс. После церемониального поединка я получил возможность завести много новых друзей и теперь знаю, в каком направлении хочу вести Храм Молчания. Не волнуйся, я не ошибусь.",
+        "en": "To be honest, being a leader is a little stressful, especially in the Temple of Silence. But after all the years I spent with Grandfather, I'm at least clear in my own mind about the areas where I cannot compromise. After the Rite of Duels, and having been given the chance to make so many new friends, I now know the direction I want to take the Temple of Silence in from here on out. Don't worry — I won't mess it up.",
+        "zh": "老实说，做首领还是有些压力的，更别提是在缄默之殿。不过和爷爷耳濡目染了这么多年，我清楚那些最不能让步的底线。而且经历了之前的决斗之仪，又认识了那么多新朋友，我也明白了缄默之殿之后要走的路在哪。放心吧，不会搞砸的。"
+      },
+      "source_id": 97014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Поболтаем",
+        "en": "About Us: Chitchat",
+        "zh": "关于我们·闲聊"
+      },
+      "text": {
+        "ru": "Когда подходишь к человеку, намереваясь заискивать перед ним, разговор часто получается натянутым. Гораздо проще установить взаимопонимание, начав общаться на общие темы.",
+        "en": "When you approach someone while intending to ingratiate yourself with them, it often makes for a stilted conversation. It's much easier to build up a rapport by just hanging out and talking about whatever.",
+        "zh": "抱着想要和对方打好关系的目的刻意谈话，很容易陷入僵局。就像这样一起走走，随便聊聊，反而更容易熟悉起来呢。"
+      },
+      "source_id": 97015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Костёр",
+        "en": "About Us: Bonfire",
+        "zh": "关于我们·篝火"
+      },
+      "text": {
+        "ru": "Разжигая костёр ночью, ты согреваешься и не позволяешь диким животным приближаться к тебе. Для меня ты словно костёр.\nСлишком абстрактно? Хорошо, скажу прямо: я считаю тебя хорошим другом.",
+        "en": "Lighting a bonfire at night keeps you warm and keeps wild animals away. To me, you're just like a bonfire.\nToo abstract? Alright, let me put it more directly: I think of you as a good friend.",
+        "zh": "夜晚的篝火，既能为人提供温度，又能防范野兽。你给我的感觉就像篝火一样。\n说得太抽象了？哎呀，就是拿你当朋友的意思啦。"
+      },
+      "source_id": 97016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Когда жители пустыни получают Глаз Бога, все утверждают, что это благословение от того или иного божества, в зависимости от их веры. Забавно наблюдать, как они спорят, обсуждая, чей Глаз Бога сильнее - Германубиса или Собека.",
+        "en": "When desert people receive a Vision, everyone will claim it's a blessing from such-and-such a god, depending on their faith. Watching them get into an argument over someone else's Vision, about who's stronger out of Lord Hermanubis and Lord Sobek, is a guilty pleasure of mine.",
+        "zh": "沙漠人获得神之眼时，大伙儿都会说这是谁谁的恩赐，具体人选视各自信仰而定。看一群人为了别人的神之眼争论赫曼努比斯大人和索贝克大人究竟谁更强，怪好玩的。"
+      },
+      "source_id": 97017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Если тебе доведётся путешествовать по пустыне, лучше всего выбирать ночь. Ночью бывает очень холодно, но зато у тебя не будет такого обезвоживания, как под палящим солнцем. Надеть несколько дополнительных слоёв одежды гораздо проще, чем тратить полдня на поиски источника воды.",
+        "en": "If you're ever traveling in the desert, journeying by night is a good choice. It does get very cold, but you don't get as dehydrated as you would under the harsh sun. Putting on a few extra layers is way easier than spending half your journey time looking for a water source.",
+        "zh": "如果去沙漠旅行，夜间赶路是个不错的选择。气温确实寒冷，但可以避免在炎热的光照下流失过多水分。多带件衣服总比四处寻找水源方便多了。"
+      },
+      "source_id": 97018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Я не знаю, откуда взялось название «цветы скорби», но оно довольно выразительно. Может быть, кто-то увидел один из них, увядающий в лучах солнца, и подумал, что он похож на человека, скорбно склонившего голову.",
+        "en": "I don't know where Mourning Flowers got their name, it's quite an evocative image though. Maybe somebody saw one wilting in the sunlight and thought it looked like a person hanging their head in sorrow.",
+        "zh": "「悼灵花」这名字不知道是谁起的，还挺浪漫。换我来看，也许只会以为它是被太阳晒蔫了才垂头丧气的呢。"
+      },
+      "source_id": 97019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Сайно...",
+        "en": "About Cyno",
+        "zh": "关于赛诺…"
+      },
+      "text": {
+        "ru": "Сайно поистине выдающийся, достойный наследник силы Германубиса. Как генерал махаматра, он в высшей степени благоговеет перед знаниями и мудростью. Если Академия и Храм Молчания возобновят совместную работу, я буду утешаться тем, что он будет рядом.\nО да, и ещё одна интересная особенность Сайно. Знаешь, как он говорит? Это... очень забавно.",
+        "en": "Cyno is truly outstanding — absolutely a worthy heir to Hermanubis's power. As General Mahamatra, he has the utmost reverence for knowledge and wisdom. If the Akademiya and the Temple of Silence do start working together again, I'll take comfort in the fact that he's there.\nOh yeah, and another great thing about Cyno: You know the way he talks? It's just... so funny.",
+        "zh": "赛诺很优秀，无愧于赫曼努比斯力量的传承。作为「大风纪官」，他对知识与智慧有着至高的敬畏之心。如果教令院能与缄默之殿再次合作，有他在我会放心很多。\n哦对了，他还有个难得的优点，就是讲话很好笑。"
+      },
+      "source_id": 97020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Тигнари...",
+        "en": "About Tighnari",
+        "zh": "关于提纳里…"
+      },
+      "text": {
+        "ru": "Тигнари очень силён. Я только потом узнал, что он плохо переносит климат пустыни, хотя этого и не скажешь, судя по тому, как он показал себя на церемониальном поединке. Я очень удивился, когда он прислал мне письмо с приглашением посетить Гандхарву, сказав, что это будет хороший шанс встретиться с друзьями Сайно. Как думаешь, они всегда такие весельчаки? Их шутки - это нечто! Ужин наверняка будет уморительным. Жду не дождусь!",
+        "en": "Tighnari's made of strong stuff. I only found out after the fact that he doesn't cope well with the desert climate — never would've guessed from how he performed in the Rite of Duels. I was also surprised when he sent me a letter inviting me to visit Gandharva Ville, saying it would be a good chance to meet some of Cyno's friends. Are those guys always such a hoot with their jokes? Dinner with them must be hilarious — I can't wait!",
+        "zh": "提纳里挺厉害的。我后来才听说他不太适应沙漠的气候，决斗之仪那时可完全没看出来啊。我也没想到他会写信邀请我去化城郭做客，说是让我有机会见见赛诺的朋友们。你说，他们平常吃饭都会讲那种笑话吗？真期待！"
+      },
+      "source_id": 97021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "Об аль-Хайтаме и Кавехе...",
+        "en": "About Alhaitham and Kaveh",
+        "zh": "关于艾尔海森和卡维…"
+      },
+      "text": {
+        "ru": "Однажды я видел их в таверне. И ещё раз в кафе. ...Вообще-то, мне кажется, я видел их однажды на Большом базаре. Архитектор всегда говорит тихим голосом: наверное, не хочет, чтобы его слышали, но... Ладно, не то чтобы я специально подслушивал, просто... Они привлекают к себе внимание, и ты не можешь отвести взгляд.",
+        "en": "I saw those two at the tavern once. And another time at the cafe. ...Actually, I think I saw them once at the Grand Bazaar, too. The architect guy, he's always talking in a hushed tone — I guess he doesn't want people to hear, but uh... Okay, it's not like I purposely listen in, it's just... Something about those two guys hanging out together, you just can't look away.",
+        "zh": "我在酒馆见过他俩。也在咖啡馆见过。…好像在大巴扎也有一次。那位建筑师总是嘀嘀咕咕一些不想被别人知道的事情，但实际上嘛…哎，可不是我故意偷听，这样两位先生凑在一起，很难不引人注意吧。"
+      },
+      "source_id": 97022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Страннике...",
+        "en": "About the Wanderer",
+        "zh": "关于流浪者…"
+      },
+      "text": {
+        "ru": "Кто он такой вообще? Студент по обмену, что ли? У него невероятная шляпа, никогда не видел ничего подобного. Однажды я попытался рассмотреть её поближе, но моргнул, а он будто сквозь землю провалился. Очень жаль. Но в следующий раз я не позволю ему улизнуть. А ещё я слышал, что у него есть довольно интересные идеи... Надо будет как-нибудь с ним поболтать!",
+        "en": "Who is that guy, anyway? A foreign exchange student, or something? He has a pretty incredible hat, never seen anything like it. I tried to get a closer look once, but then I blinked and he was gone. Shame. I won't let him get away next time, though. I also hear he has some pretty interesting ideas... Gotta have a chat with him sometime!",
+        "zh": "这位小哥，是不是外国来的留学生啊？帽子挺别致的。有次我想凑近了仔细看看，但眨眼的功夫他就咻地一下消失了。可惜，下次不会再让他跑了。而且听人说那哥们很有想法，我要和他多聊聊！"
+      },
+      "source_id": 97023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Дэхье...",
+        "en": "About Dehya",
+        "zh": "关于迪希雅…"
+      },
+      "text": {
+        "ru": "Пламенная Грива... все в пустыне знают это имя. Пустынники не святые, как ты наверняка знаешь, но Дэхья - одна из немногих, кто заслуживает доверия. Если ты когда-нибудь захочешь исследовать Море красных песков, Дэхья - второй лучший проводник, о котором можно только мечтать. Первый - это я, разумеется.",
+        "en": "Flame-Mane... everyone in the desert knows that name. The Eremites aren't exactly saints, as I'm sure you know, but Dehya's one of the few solid and dependable ones out there. If you ever want to explore the Great Red Sand, Dehya's the second-best guide you could ask for. First-best being me, obviously.",
+        "zh": "「炽鬃之狮」，沙漠里人人都听说过这个名号。你也知道，镀金旅团里可不都是好人，像迪希雅这样正直可靠的就更少了。如果你要来大赤沙海探险，迪希雅是做向导第二好的人选。第一嘛，当然是我咯？"
+      },
+      "source_id": 97024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Кандакии...",
+        "en": "About Candace",
+        "zh": "关于坎蒂丝…"
+      },
+      "text": {
+        "ru": "Тебе доводилось испытать на себе гостеприимство Кандакии? Она готовит очень щедрые порции, даже я с трудом могу доесть. Если хочешь прожить долгую и счастливую жизнь, то лучше иметь дело с её гостеприимством, а не с её гневом.",
+        "en": "Have you ever experienced Candace's hospitality? She cooks very generous portions — even I could barely finish. So long as you're on the receiving end of her hospitality and not her wrath, you'll live a long and happy life.",
+        "zh": "你被坎蒂丝招待过吗？她做饭超大份的，连我都差点没吃完。不过吃饭就好了，千万别吃她的拳头。"
+      },
+      "source_id": 97025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Фарузан...",
+        "en": "About Faruzan",
+        "zh": "关于珐露珊…"
+      },
+      "text": {
+        "ru": "Нечасто встретишь кого-то ещё более дружелюбного, чем я! Я прогуливался возле Академии, и вот она уже взяла меня в ученики и настаивает на проведении экскурсии. Правда, она меня очень напугала, сказав, что если я поступлю в Хараватат, то получу комплект для изучения двадцати языков, причём их освоение гарантировано на все сто процентов... Я поспрашивал, и, похоже, это обычная студенческая шутка, ведь в выпускных требованиях не указано знание двадцати языков. Но я не понимаю... что в этом смешного? Это ведь только оттолкнёт от обучения в Хараватате.",
+        "en": "It's so rare to meet someone even more chummy than me! One minute I was taking a stroll near the Akademiya, the next minute she'd taken me on as a student, and was insisting on giving me a tour. She gave me a real fright, though, because she said that if I joined Haravatat, I'd get the 20-tongues language-learning package, mastery of all 100% guaranteed... I asked around, and it seems like that's just an in-joke among Akademiya students — there is no 20-language graduation requirement after all. But I don't get it... how is that funny? It's only gonna put people off studying there.",
+        "zh": "很少见到比我还自来熟的人！在教令院附近闲逛时被她当成了新生，非要带我进去参观，还说什么现在加入知论派就能享受二十种语言教材大礼包，包教包会，吓我一大跳。问了别的学生才知道这是他们院的内部笑话，根本没有这种毕业要求。所以到底哪里好笑？只会让人更不想加入吧。"
+      },
+      "source_id": 97026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Нилу...",
+        "en": "About Nilou",
+        "zh": "关于妮露…"
+      },
+      "text": {
+        "ru": "Обычно я не могу усидеть на месте дольше нескольких минут, но Театр Зубаира - одно из тех мест, где я могу спокойно стоять и смотреть, как Нилу танцует на сцене. Это редкое умение - дарить людям чувство умиротворения.",
+        "en": "I usually can't stay still for more than a few minutes, but Zubayr Theater is one place I don't mind just standing and watching while Nilou dances on the stage. It's a rare skill to be able to bring people such a sense of peace.",
+        "zh": "我是个闲不住的人，但不介意在祖拜尔剧场多站一会儿，看看这位小姐的舞蹈。能让人内心宁静也是一种很难得的能力。"
+      },
+      "source_id": 97027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Сетосе I",
+        "en": "More About Sethos: I",
+        "zh": "想要了解赛索斯·其一"
+      },
+      "text": {
+        "ru": "У тебя есть вопросы? Тогда ты обратился по адресу. Если вдруг у меня нет ответов, я могу поспрашивать и помочь тебе в поиске. / У тебя есть вопросы? Тогда ты обратилась по адресу. Если вдруг у меня нет ответов, я могу поспрашивать и помочь тебе в поиске.",
+        "en": "You got questions? You've come to the right person. On the off chance I don't have the answers, I can ask around and help you find out.",
+        "zh": "想打听事情？你找对人了。万一有我不知道的东西，也可以帮你四处问问。"
+      },
+      "source_id": 97028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Сетосе II",
+        "en": "More About Sethos: II",
+        "zh": "想要了解赛索斯·其二"
+      },
+      "text": {
+        "ru": "Если у тебя есть оборудование или инструменты, которые нужно отремонтировать, я могу помочь. Чем я занимаюсь? Ну, разумеется, я безработный. Иначе у меня не было бы времени мастерить всякое, верно?",
+        "en": "If you've any equipment or tools that need repairing, I can help you with that. ...What's my job? Well, I'm an unemployed vagrant, obviously. I wouldn't have the time to be such a handyman otherwise, would I?",
+        "zh": "你要是有什么装备或者工具坏掉了，可以叫我来修。你问我是做什么工作的？哎呀，当然是无业游民了，不然哪有这么多闲工夫做手工呢。"
+      },
+      "source_id": 97029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Сетосе III",
+        "en": "More About Sethos: III",
+        "zh": "想要了解赛索斯·其三"
+      },
+      "text": {
+        "ru": "Я люблю ходить в походы. Я всегда планирую свой маршрут, собираю рюкзак и выбираю подходящий день. Мне нравится, когда всё тщательно спланировано. Конечно, нужно оставлять место для экспромта. Возможно, в пути тебе повстречается новый друг.",
+        "en": "I like going on hiking trips. I always map out my route, pack a bag, and pick a good day. I enjoy having it all carefully planned out. Of course, you gotta leave some flexibility in your schedule, too — you might make a new friend along the way.",
+        "zh": "我喜欢徒步旅行。提前规划好路线，整理行囊，挑选好的日子踏上旅途，这种有条不紊的感觉很不错。当然，我不会把行程排得很满，也要享受突如其来的邂逅嘛。"
+      },
+      "source_id": 97030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Сетосе IV",
+        "en": "More About Sethos: IV",
+        "zh": "想要了解赛索斯·其四"
+      },
+      "text": {
+        "ru": "Я всегда с удовольствием провожу время на Большом базаре. Мне нравится выбирать всякие травы и специи, которые отлично подходят к свежеприготовленному мясу. Но я никогда не записываю точное сочетание ингредиентов, так что в итоге у меня обычно получаются уникальные рецепты. Что скажешь? Хочешь попробовать один из моих эксклюзивных деликатесов?",
+        "en": "I always have a great time at the Grand Bazaar. I like to pick a bunch of different herbs and spices to mix with some freshly grilled meat. I never make a note of the exact combination of ingredients though, so I usually end up with one-off recipes. What do you think? Any interest in trying one of my limited-edition, one-time-only delicacies?",
+        "zh": "在大巴扎闲逛可有意思了。我会挑选各种香料混在一起，搭配现烤的肉类食用。我不会特意去记录配方，所以很多时候都是「一次性食谱」。怎么样，有没有兴趣尝尝这种限时限量、独一无二的美味？"
+      },
+      "source_id": 97031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Сетосе V",
+        "en": "More About Sethos: V",
+        "zh": "想要了解赛索斯·其五"
+      },
+      "text": {
+        "ru": "Я живу в Храме Молчания сколько себя помню, и, честно говоря, мне никогда не приходилось принимать самостоятельных решений. Я до сих пор не уверен, было ли противостояние силе Германубиса благословением или проклятием, но оно определённо дало мне высшую цель в жизни.\nВ жизни есть миллион вещей, о которых можно сожалеть, поэтому я счастлив, что смог поставить точку в этой истории. Я уверен, что дедушка будет покоиться с миром, зная, что я возглавил Храм Молчания, а сила Германубиса наконец обрела дом.",
+        "en": "I've lived in the Temple of Silence for as long as I can remember, and to be honest, I've never had many of my own decisions to make. I'm still not sure if withstanding the power of Hermanubis was a blessing or a curse, but it definitely gave me a higher purpose in life.\nThere's a million things you can regret in life, so I'm just happy I was able to bring that one situation to a close. I'm sure Grandfather will rest in peace knowing that I got to become the leader of the Temple of Silence, and that Hermanubis's power has finally found a home.",
+        "zh": "自记事起，我就在缄默之殿生活，老实说没有太多的选择。能承受赫曼努比斯的力量对个人而言不知是福多还是祸多，但确实为我的生活赋予了更崇高的意义。\n人生中的遗憾有千千万，能圆满解决一件事，我就很满足了。现在我成了缄默之殿的新首领，赫曼努比斯之力也有了合适的归属，爷爷应该也很欣慰吧。"
+      },
+      "source_id": 97032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Хобби Сетоса...",
+        "en": "Sethos's Hobbies",
+        "zh": "赛索斯的爱好…"
+      },
+      "text": {
+        "ru": "Мне становится скучно, когда я долго нахожусь взаперти. Мне нравится исследовать природу вне зависимости от погоды.",
+        "en": "I get bored when I'm inside for too long. I always like exploring the great outdoors, whatever the weather might be like.",
+        "zh": "老是待在屋子里挺没意思的，无论天气好坏，我都喜欢出门跑跑。"
+      },
+      "source_id": 97033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Беспокойство Сетоса...",
+        "en": "Sethos's Troubles",
+        "zh": "赛索斯的烦恼…"
+      },
+      "text": {
+        "ru": "Необходимо быть полностью готовым к путешествию, особенно если ты отправляешься в неизведанные места. В первый раз, когда я ночевал в тропическом лесу, я не знал, что нужно было взять с собой непромокаемую подстилку... Это была ужасная ночь.",
+        "en": "You have to be fully prepared before you venture out on a trip, especially when you're going somewhere you haven't been before. The first time I spent the night in the rainforest, I didn't realize that I should've brought a waterproof groundsheet... That was a miserable night.",
+        "zh": "出远门前一定要做好准备，尤其是前往没去过的地方。当初第一次在树林里过夜不知道要带防潮垫，给我害惨了。"
+      },
+      "source_id": 97034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я люблю смешивать специи, но только потому, что это делает мясо вкуснее. Это средство достижения цели.",
+        "en": "I like mixing spices — but only because it makes meat taste better. It's a means to an end.",
+        "zh": "我喜欢调配香料，是为了能让肉变得更好吃，可不要本末倒置了哦。"
+      },
+      "source_id": 97035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "На зелёные овощи приятно смотреть, но не есть их...",
+        "en": "Green vegetables are nice to look at and all, but eating them... Ehh.",
+        "zh": "绿色植物是很养眼啦，但吃起来就…"
+      },
+      "source_id": 97036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Мм, мм, мм! Я в некотором роде обжора. Надеюсь, это тебя не смущает?",
+        "en": "Mm, mm, mm! I'm kind of a big eater, hope that's okay with you?",
+        "zh": "好香好香好香。我食量有点大，你不介意吧？"
+      },
+      "source_id": 97037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Неплохо! Поделишься рецептом? Возьму с собой в следующий поход.",
+        "en": "Not bad! What's the recipe? I'll take some on my next hiking trip.",
+        "zh": "真不错，怎么做的？下次徒步旅行我也弄点带上。"
+      },
+      "source_id": 97038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Хмм... хмм... Нет, я ничего не чувствую. Давай попробую ещё кусочек...",
+        "en": "Hmm... hmm... Nope, I can't really taste anything. Let me try some more...",
+        "zh": "唔…嗯…好像没什么味道，我再尝尝…"
+      },
+      "source_id": 97039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Знаешь, если сделать укладку в стиле жителя пустыни, твои волосы будут выглядеть потрясающе... Предлагаю начать следующий год своей жизни с новой прически. Если ты не против, поручи это мне. Будешь выглядеть шикарно, обещаю.",
+        "en": "You know, your hair would look amazing if it was done up in a desert-dweller style... How about kicking off the next year of your life with a new hairdo, huh? If you're up for it, just leave it to me. You'll look glamorous, I promise you.",
+        "zh": "你的头发…按照沙漠人的风格编一下应该会非常好看。马上就要步入人生新一年了，想不想试试新发型？怎么样，交给我，保证给你扎个魅力四射的。"
+      },
+      "source_id": 97040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Так вот как ты тренируешься? Очень интересно.",
+        "en": "This is your training regimen, huh? Interesting.",
+        "zh": "原来你们都是这样锻炼的吗？"
+      },
+      "source_id": 97041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Ох... Вот значит каково это - читать три дня подряд.",
+        "en": "Wow... So this is what three consecutive days of reading feels like.",
+        "zh": "噢…原来连看三天书是这种感觉…"
+      },
+      "source_id": 97042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Потрясающе... Мне кажется, что я мог бы пробежать от деревни Аару до гробницы царя Дешрета без остановки. Я не шучу. Ты со мной?",
+        "en": "Amazing... I feel like I could sprint from Aaru Village all the way to The Mausoleum of King Deshret without breaking a sweat. I'm not even joking — you up for it?",
+        "zh": "厉害啊，感觉可以一口气从阿如村跑到赤王陵。不是开玩笑哦，要试试吗？"
+      },
+      "source_id": 97043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Я и не подозревал, что достигну такого уровня с твоей помощью. Иногда чрезмерное увлечение древней мудростью мешает вспомнить о силе, которая есть у тебя и твоих спутников. Спасибо, что напомнил мне об этом. / Я и не подозревал, что достигну такого уровня с твоей помощью. Иногда чрезмерное увлечение древней мудростью мешает вспомнить о силе, которая есть у тебя и твоих спутников. Спасибо, что напомнила мне об этом.",
+        "en": "I had no idea you'd help me reach this level. Sometimes, an over-reliance on ancient wisdom can make you forget the strength that you and your companions already have. Thank you for being there to remind me.",
+        "zh": "没想到你会帮我到这种地步。有时太依赖古老的智慧，会让人忘记自己和同伴本身的力量。谢谢你，让我回想起了这些。"
+      },
+      "source_id": 97044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Кто первый, тот и победил.",
+        "en": "Way ahead of ya.",
+        "zh": "先手为赢。"
+      },
+      "source_id": 97045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Простите за беспокойство!",
+        "en": "Excuse me!",
+        "zh": "打扰了！"
+      },
+      "source_id": 97046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Расступись!",
+        "en": "Gimme some space.",
+        "zh": "各退一步如何？"
+      },
+      "source_id": 97047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Обычная атака I",
+        "en": "Normal Attack: I",
+        "zh": "普通攻击·其一"
+      },
+      "text": {
+        "ru": "Осторожно, сзади!",
+        "en": "Behind you!",
+        "zh": "小心背后！"
+      },
+      "source_id": 97049
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "По совету мудрецов.",
+        "en": "By the sages' wisdom.",
+        "zh": "众贤的智慧。"
+      },
+      "source_id": 97051
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Забытая слава аль-Ахмара!",
+        "en": "Glory to Al-Ahmar!",
+        "zh": "阿赫玛尔的遗荣！"
+      },
+      "source_id": 97052
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "С дороги!",
+        "en": "Move, or be moved!",
+        "zh": "抱歉，你挡路了。"
+      },
+      "source_id": 97053
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Эй, взгляни. Есть что-то, что тебе по душе?",
+        "en": "Hey, check this out. See anything you like?",
+        "zh": "快看看，有合你心意的东西吗？"
+      },
+      "source_id": 97054
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Какой приятный сюрприз!",
+        "en": "This is a nice surprise.",
+        "zh": "是旅途中的惊喜呢。"
+      },
+      "source_id": 97055
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Ааа! Это монстр! ...Ничего, в следующий раз повезёт!",
+        "en": "Aah! It's a monster! ...No dice? I'll get you next time.",
+        "zh": "啊！里面有怪物！…欸，不上当吗？"
+      },
+      "source_id": 97056
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Я не сдамся.",
+        "en": "I'm not giving up.",
+        "zh": "不会认输的。"
+      },
+      "source_id": 97057
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Всё в порядке, я справлюсь...",
+        "en": "I'm okay, I still got this...",
+        "zh": "还行，再撑一会儿…"
+      },
+      "source_id": 97058
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Ой-ой...",
+        "en": "Well, shucks...",
+        "zh": "哎呀哎呀…"
+      },
+      "source_id": 97059
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Теперь моя очередь?",
+        "en": "Is it my turn yet?",
+        "zh": "换我了哦？"
+      },
+      "source_id": 97060
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Что ты упрямишься?",
+        "en": "Just say the word...",
+        "zh": "逞什么强呢。"
+      },
+      "source_id": 97061
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Всё было зря...",
+        "en": "It was all... in vain...",
+        "zh": "可惜，前功尽弃…"
+      },
+      "source_id": 97062
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Солнце зашло... навсегда...",
+        "en": "The sun sets... forever...",
+        "zh": "太阳…也会落下…"
+      },
+      "source_id": 97063
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Дедушка... прости...",
+        "en": "Grandfather... I'm sorry...",
+        "zh": "对不起了，爷爷…"
+      },
+      "source_id": 97064
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Ладно, ладно...",
+        "en": "Okay, okay...",
+        "zh": "好吧好吧。"
+      },
+      "source_id": 97065
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Нет-нет-нет...",
+        "en": "Whoa, whoa, whoa...",
+        "zh": "别别别。"
+      },
+      "source_id": 97066
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Ой, я замешкался!",
+        "en": "Gah, I was too slow!",
+        "zh": "哎哟，是我慢了！"
+      },
+      "source_id": 97067
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Иду, иду.",
+        "en": "Be right there.",
+        "zh": "来了来了。"
+      },
+      "source_id": 97068
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Хорошо, хорошо, как скажешь.",
+        "en": "Cool cool cool, you're the boss.",
+        "zh": "好好好，听你的。"
+      },
+      "source_id": 97069
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Вещи собраны, я готов.",
+        "en": "Bags packed and ready to roll.",
+        "zh": "嗯，带好行囊了。"
+      },
+      "source_id": 97070
+    }
+  ],
+  "replica_count": 69
 }

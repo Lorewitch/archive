@@ -144,5 +144,946 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "О, привет. Я Оророн из Повелителей Ночного Ветра. Хочешь овощей?\nА, не волнуйся - я не пытаюсь ничего тебе продать или получить что-то взамен. В этом нет ни смысла, ни причины. Мне нравится смотреть, что вырастет из каждого семени, поэтому получается много урожая. Главное, чтобы мои овощи попали в желудок человека, которому они понравятся.",
+        "en": "Oh, hello. I'm Ororon from the Masters of the Night-Wind. Want some vegetables?\nOh, don't worry — I'm not trying to sell anything to you or get anything in return. There's no rhyme or reason for it, really. I just like to see what every seed grows up to be, so I end up with a lot of produce. As long as my vegetables wind up in the stomach of someone who enjoys them, that's all that matters.",
+        "zh": "你好，我是来自「烟谜主」的欧洛伦。我不是卖菜的，但是可以送你一些。\n别担心，没什么特别的原因，也没有想从你这里换取什么。我只是好奇每颗种子最终会长成什么样，所以越种越多。希望它们都能在中意它们的胃里安度晚年。"
+      },
+      "source_id": 105000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Чудаки",
+        "en": "Chat: Weirdos",
+        "zh": "闲聊·怪人"
+      },
+      "text": {
+        "ru": "Тебе кто-то сказал, что Повелители Ночного Ветра - племя чудаков? А кто ещё? Я думал, что только я один.",
+        "en": "Someone told you the Masters of the Night-Wind is a tribe of weirdos? Huh, who else is there? Thought I was the only one.",
+        "zh": "你听谁说的烟谜主里都是怪人？我以为只有我一个。还有谁啊？"
+      },
+      "source_id": 105001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Цель",
+        "en": "Chat: Target",
+        "zh": "闲聊·目标"
+      },
+      "text": {
+        "ru": "У каждого должно быть любимое животное, овощ или фрукт. Так можно понять, каким человеком хочешь стать.",
+        "en": "Having a favorite animal, or vegetable or fruit, can help us recognize what kind of people we want to become.",
+        "zh": "每个人都应该有一种自己最喜欢的动物，或者蔬菜，或者水果。这样才能知道自己想要成为什么样的人。"
+      },
+      "source_id": 105002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Мгла",
+        "en": "Chat: Smoke",
+        "zh": "闲聊·迷烟"
+      },
+      "text": {
+        "ru": "Некоторые окутанные мглой пути стоит избегать. Поддашься слепым амбициям, и мгла задушит тебя.",
+        "en": "Sometimes, a shrouded path is not meant to be walked. Move forward with blind ambition, and the smoke might suffocate you.",
+        "zh": "不是所有的迷烟都能穿过。如果野心太大，就会被烟雾呛到。"
+      },
+      "source_id": 105003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Если бежать, грязь попадёт на одежду. Если лететь... мокрый плащ утянет вниз. Лучше найти, где можно переждать непогоду.",
+        "en": "If I run, mud will get on my clothes. If I fly... the rain will make my cape too heavy. Better find somewhere to wait out the weather.",
+        "zh": "跑起来泥水会溅到衣摆上，飞的话…浸水的披风又太沉了。还是找个地方蹲会儿吧。"
+      },
+      "source_id": 105004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Молнии напоминают мне змей. Интересно, использует ли кто-нибудь их форму и цвет, чтобы предсказывать будущее... Если подумать, звучит довольно опасно.",
+        "en": "Lightning bolts remind me of snakes. I wonder if people use their shape and appearance to divine the future... On second thought, that seems a little dangerous.",
+        "zh": "闪电很像蛇。不知道有没有人利用它们的颜色和形状占卜…说实话，有点担心这些人的安全。"
+      },
+      "source_id": 105005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "...Под снегом что-то погребено. Осторожно, не разбуди.",
+        "en": "...There are things buried beneath the snow. Careful, now — let's not wake them up.",
+        "zh": "…雪下面葬着什么。轻一点，不要惊醒它们。"
+      },
+      "source_id": 105006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Солнце - вечный огонь, и жители Натлана никогда не избегают встречи с ним лицом к лицу. Но если невыносимо, то всегда можно надеть солнечные очки.",
+        "en": "The sun is an eternal flame, and the people of Natlan never shy away from meeting its gaze head-on. Of course, sunglasses are always an option if it gets too intense.",
+        "zh": "太阳是永燃之火，纳塔人从不惧怕直视烈日。当然，实在受不了可以戴墨镜。"
+      },
+      "source_id": 105007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Здесь что-то вообще можно вырастить? Давай пойдём отсюда.",
+        "en": "Can anything... even grow here? Maybe we should leave.",
+        "zh": "这地方…感觉很难种出东西来。要不还是走吧？"
+      },
+      "source_id": 105008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Прости. Мои глаза открыты, но я ещё не проснулся... Давай о делах потом.",
+        "en": "Sorry. My eyes are open, but I'm still half-asleep... Can this wait?",
+        "zh": "抱歉，虽然睁着眼睛，但我还没醒…正事可以晚点说吗？"
+      },
+      "source_id": 105009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Желудок говорит, что пора обедать, но не могу придумать, что поесть... Может, мозг ещё не проснулся?",
+        "en": "My stomach says it's time for lunch, but I can't think of anything to eat... Maybe my brain is still asleep.",
+        "zh": "胃说时间到了，应该去吃点东西。但我想不出要吃什么…也可能是脑子还没醒。"
+      },
+      "source_id": 105010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Я бы не отказался от шипучего кофе с лапой завриана. Без молока... А? Кофе только утром? Ну тогда... Доброе утро.",
+        "en": "I could really go for some sparkling coffee flavored with Saurian Claw Succulent. I take mine black... Huh? You should only drink coffee in the morning? Well then... Good morning.",
+        "zh": "突然想喝肉龙掌气泡咖啡，不加奶。你说太晚了？那…早上好。"
+      },
+      "source_id": 105011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Мой мозг всегда бодрствует в это время ночи, так что отдыхай. Раньше я пытался заставить себя заснуть, но давно бросил это занятие. Думаю, пойду лучше редиску проверю.",
+        "en": "My brain is always wide awake this time of night, so go ahead and rest. I used to try and force myself to fall asleep, but I gave up a long time ago. I think I'll just go check on the radishes instead.",
+        "zh": "一到这个时候大脑就会活跃起来。我很早就放弃强迫自己睡眠了，所以你先休息吧，我带上夜灯去看看地里的萝卜。"
+      },
+      "source_id": 105012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Об Оророне: Общение",
+        "en": "About Ororon: Communication",
+        "zh": "关于欧洛伦自己·交流"
+      },
+      "text": {
+        "ru": "Я знаю, меня иногда трудно понять. Если что-то непонятно, просто спроси. Я не против.",
+        "en": "I know I say things that are hard to understand sometimes. If you're ever confused, just ask me. I don't mind.",
+        "zh": "我知道自己说话有时很难懂。你如果有哪里没听明白，请直接提问，我不介意的。"
+      },
+      "source_id": 105013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "Об Оророне: Неразгаданная тайна",
+        "en": "About Ororon: Unsolved Mystery",
+        "zh": "关于欧洛伦自己·未解之谜"
+      },
+      "text": {
+        "ru": "Я не знаю, откуда я, но меня это не слишком беспокоит... Меня больше волнует, куда я направляюсь.",
+        "en": "I don't know where I come from, but that doesn't bother me too much... I care more about where I'm going.",
+        "zh": "我不知道自己是从哪来的，但似乎也并不好奇…比起这个，我更想知道自己该往何处去。"
+      },
+      "source_id": 105014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Извинения",
+        "en": "About Us: Apology",
+        "zh": "关于我们·道歉"
+      },
+      "text": {
+        "ru": "Прошу прощения... Нет, очень сильно прошу прощения. Я знаю, что сразу же обманывать тебя - это плохое начало. Я уже объяснял причины и обещаю, что говорил только правду. Но ничего страшного, если ты не примешь мои извинения. Тогда я просто постараюсь больше не попадаться тебе на глаза.",
+        "en": "I'm sorry... No, I'm more than sorry. I know lying to you right out of the gate didn't make the best first impression. I have explained to you the reasons why, and I promise I spoke only the truth. Still, it's okay if you don't accept my apology. If that's the case, I'll try to stay out of your way.",
+        "zh": "抱歉…嗯…我是说，真的很抱歉。一上来就骗你，的确不是什么好的开局。原因已经都告诉你了，绝无虚言。如果你不想接受也没关系，那我会尽量不出现在你面前。"
+      },
+      "source_id": 105015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Подарок в благодарность",
+        "en": "About Us: Thank-You Gifts",
+        "zh": "关于我们·谢礼"
+      },
+      "text": {
+        "ru": "Вот, это лапа завриана, собранная в четыре утра, ягода квенепа больше моей головы, самая сладкая партия меда с прошлой недели и... А! И ваучер на бесплатный прием у Какуку.\nА? Что за удивлённое лицо? Это благодарность за твою помощь. У тебя как будто всё есть, так что я выбирал подарки на свой вкус.\nА, кто такой Какуку? Завриан. Я вас как-нибудь познакомлю.",
+        "en": "Here, this is a Saurian claw succulent picked at four in the morning, a Quenepa Berry bigger than my head, the sweetest batch of honey from last week, and... Oh! And a voucher for a free appointment with Cacucu.\nHuh? Why do you look confused? It's a thank you for all your help. I wasn't sure if you needed anything, so I just went with gifts that I like.\nOh, who's Cacucu? A saurian. I'll introduce you sometime.",
+        "zh": "这是「凌晨四点」的肉龙掌，「比头大」的青蜜莓，「截至上周为止第一甜」的蜜…还有…哦，还有「咔库库免费问诊券」。\n怎么露出疑惑的表情，这些是送给你的，请收下。你帮了我的忙，但看上去并不缺什么，我只好按照自己的喜好准备了礼物。\n咔库库是谁？咔库库是龙。有机会介绍你们认识。"
+      },
+      "source_id": 105016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Некоторые говорят, что молнии помогают с урожаем. Так вот, я попробовал однажды использовать свой Глаз Бога посреди овощного поля, но капусте и помидорам не понравилось, так что я отказался от этой затеи.",
+        "en": "Some people say lightning helps crops grow. So, I tried using my Vision in the middle of my vegetable field once, but the cabbages and tomatoes didn't like it, so I gave up.",
+        "zh": "听人说打雷有助于作物生长。我试了下在菜地中央驱动「神之眼」，很遗憾，卷心菜和番茄都不太开心，所以就没继续了。"
+      },
+      "source_id": 105017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Вот тебе секрет: не давай советы раньше всех. Плод, созревший раньше всех, привлекает самое большое внимание. У людей так же. Часто тем, кто высовывает голову, достаётся хуже всех.",
+        "en": "Here's a tip — don't be the first person to put yourself out there. The first fruit that ripens is the easiest target, and people work the same way. Those who take the initiative usually wind up with the short end of the stick.",
+        "zh": "一个小窍门：不要做第一个提出建议的人。就像先长出来的果实容易被盯上，第一个出头的人经常输得很惨。"
+      },
+      "source_id": 105018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Вечно парящие по воздуху белки-летяги могут показаться гордыми и высокомерными созданиями, но они гораздо коварнее, чем кажутся. Постоянно появляются из ниоткуда, цепляются за вас, пока не получат угощение... Маленькие негодяи, честное слово.",
+        "en": "Flying squirrels may seem like proud and aloof creatures when they glide through the air, but they're much more cunning than they look, always zooming in from nowhere, clinging to you until they get a treat... Little rascals, honestly.",
+        "zh": "飞鼯其实并不总像它们在高空滑翔时那样目中无人。它们会突然飞过来，扒在你身上不走。这种时候很难不给它们点好处。从某种角度来看，算是一群狡猾的家伙。"
+      },
+      "source_id": 105019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Шилонен...",
+        "en": "About Xilonen",
+        "zh": "关于希诺宁…"
+      },
+      "text": {
+        "ru": "Похоже, ей нравится отдыхать где-нибудь повыше, особенно на деревьях. Я обнаружил, что свисать с ветки вниз головой гораздо приятнее, чем лежать на ней. Может, стоит как-нибудь поделиться этим с Шилонен... Что? Но все говорят, что надо иногда смотреть на мир с другой стороны. Разве к изобретателю вроде Шилонен это не должно относиться даже в большей степени?",
+        "en": "She seems to enjoy relaxing in high places, especially trees. In my experience, hanging upside down from a tree branch is more relaxing than lying on top of one. Maybe I should share that with her sometime... What? But don't we all need a change of perspective every now and then? Shouldn't that be even more true for an inventor like Xilonen?",
+        "zh": "她好像很喜欢待在高处，尤其是树上。我发现倒挂在树枝上会比躺在上面更解压，有机会可以和她交流下心得。欸，不好吗？大家总说要换个角度看世界，像希诺宁这样的发明家，应该很需要吧。"
+      },
+      "source_id": 105020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Киниче...",
+        "en": "About Kinich",
+        "zh": "关于基尼奇…"
+      },
+      "text": {
+        "ru": "Ахав - интересный случай. Он стар, но в то же время молод... А Кинич как раз наоборот - молодой, но старый. Понимаешь, о чём я?",
+        "en": "Ajaw is an interesting case. He's old, but also young... And Kinich is just the opposite — young, but also old. You know what I mean, right?",
+        "zh": "那个阿乔很有意思。它年纪很大，却又年纪很小。基尼奇正好相反，他年纪很小，但年纪很大。你…你能明白我的意思对吧？"
+      },
+      "source_id": 105021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Часке...",
+        "en": "About Chasca",
+        "zh": "关于恰斯卡…"
+      },
+      "text": {
+        "ru": "Часка знаменита не просто так. Стоит ей появиться, как все драки прекращаются, и все начинают пожимать друг другу руки, словно лучшие друзья. Умные люди назвали это «устрашение силой». Неплохое название.",
+        "en": "Chasca is famous for a reason. She's an amazing mediator. The minute she shows up, all the fighting stops, and everyone starts shaking hands like the best of friends. She has a pretty convincing method, apparently — \"armed deterrence\"... Not a bad name.",
+        "zh": "恰斯卡很厉害，也很出名。只要她一来，人们就都不吵架了，开始和和气气地握手。最讲理的家伙原来叫「武力威慑」，是个不错的名字。"
+      },
+      "source_id": 105022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "Об Ифе...",
+        "en": "About Ifa",
+        "zh": "关于伊法…"
+      },
+      "text": {
+        "ru": "Ифа хоть и часто ругает своих пациентов, но на самом деле с заврианами у него прекрасные отношения. В свободное время он играет перед клиникой на гитаре, а заврианы собираются вокруг и подпевают.\nНо это больше похоже на шум, чем на пение. Если мимо прохожу, то тоже присоединяюсь... К заврианам, я имею в виду.",
+        "en": "Ifa may scold his patients a lot, but he actually has a great relationship with the saurians. Whenever he has some time off, he'd play the guitar in front of the clinic, and a bunch of saurians would gather around and sing along.\nAlthough, it's more like noise than actual singing. I like to join in when I'm around, too... with the saurians, I mean.",
+        "zh": "别看伊法经常教训病号，他和龙们的关系其实很好。闲下来他会在诊所门口弹吉他，让围上来的龙一个一个跟着唱。\n但其实就是呜呜叫啦。我如果碰到了也会加入。我是说加入龙。"
+      },
+      "source_id": 105023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Ситлали...",
+        "en": "About Citlali",
+        "zh": "关于茜特菈莉…"
+      },
+      "text": {
+        "ru": "Бабушка на самом деле очень прямолинейный человек. Сразу видно рада она или нет. У неё плохо получается скрывать свои чувства. Ты ведь с ней одного возраста, да? Или... даже старше?\nПрости, не стоило спрашивать. Наверное, это было грубо... Но, если я прав, то, может быть, ты мог бы проводить с ней побольше времени? Бабушку уже давно окружают люди моложе её, и ей это наверняка надоело. Я уверен, она будет рада тебя видеть. / Бабушка на самом деле очень прямолинейный человек. Сразу видно рада она или нет. У неё плохо получается скрывать свои чувства. Ты ведь с ней одного возраста, да? Или... даже старше?\nПрости, не стоило спрашивать. Наверное, это было грубо... Но, если я прав, то, может быть, ты могла бы проводить с ней побольше времени? Бабушку уже давно окружают люди моложе её, и ей это наверняка надоело. Я уверен, она будет рада тебя видеть.",
+        "en": "Granny is actually a very straightforward person. She wears her emotions on her sleeve, you know? It's hard for her to hide what she's feeling. You're the same age as her, right? Or... are you even older?\nSorry, I shouldn't ask. That was probably rude... But, if I'm right, maybe you could spend more time together. Granny's been surrounded by people younger than her for a long time, and she's probably had enough. I know she'll be happy to see you.",
+        "zh": "奶奶其实是个很直白的人，高兴或者不高兴都会直接表现出来，也不太擅长掩饰自己的情感。你看上去像是她的同辈，或者…甚至比她更大？\n抱歉，这样好像不太礼貌，我不多问了。但如果真是这样，就请你多和她聊聊天吧，奶奶大概受够了身边都是晚辈，见到你会很开心的。"
+      },
+      "source_id": 105024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Об Иансан...",
+        "en": "About Iansan",
+        "zh": "关于伊安珊…"
+      },
+      "text": {
+        "ru": "Иансан - выдающийся тренер, и... скажу лишь, что я благодарен Пиро Архонту за то, что она не отправила Иансан ловить меня. Да, у меня преимущество в росте, но сомневаюсь, что смог бы от неё убежать... А трюк с дымовым облаком? Если использовать его слишком часто, он быстро теряет свою эффективность.",
+        "en": "Iansan is a famous sports coach, and well... All I can say is, I'm grateful the Pyro Archon didn't send her after me. I may have an advantage when it comes to height, but I'm pretty sure she can outrun me... Oh, the smoke-cloud trick? Heh, after you use it a bunch, people start to see it coming.",
+        "zh": "只能说，还好火神大人没有派她来抓我。她是远近闻名的运动教练，虽然我有身高优势，但很可能跑不过她。障眼法？用多了就不管用了啊。"
+      },
+      "source_id": 105025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Мавуике...",
+        "en": "About Mavuika",
+        "zh": "关于玛薇卡…"
+      },
+      "text": {
+        "ru": "Раньше я не был знаком с Пиро Архонтом. Ну я, конечно, знал, кто она такая, но «знаком-знаком» не был. Я думал о ней как о тотеме, на котором выгравировано слово «сила», как о символе полной власти и контроля. Но настоящего понимания не было, и в душу закрались сомнения. Теперь, когда знаю её лучше, я благодарен ей, но в то же время немного разочарован в себе... Она, похоже, очень уверена в своей цели. Внутри неё горит огонь, и она точно знает, зачем он горит, поэтому никогда не позволит пламени погаснуть. Я тоже так хочу... Хочу быть тем, кто может помочь Натлану. Как-то так... Ещё я заметил, что на победном пиру она ела много зелени. Мы поговорили об этом, и она сказала, что любит придерживаться сбалансированной диеты. Меня это удивило. Пожалуй, она более внимательна к мелочам, чем мне казалось.",
+        "en": "I didn't really know the Pyro Archon before all this.\nI mean, I knew of her, but I didn't KNOW know her, you know? I used to think of her like a totem engraved with the word \"strength,\" like a symbol of total power and control. But, it never went deeper than that, so doubt started to creep in.\nNow that I know her better, I feel grateful, but I'm also a little disappointed in myself... She seems so sure of her purpose. She has a fire inside her and knows exactly why it burns, so she won't ever let the flames go out. I want that... I want to be someone who can help Natlan.\nAnyway, so there's that, and um... I also noticed her eating a lot of leafy vegetables at the victory feast. When I asked her about it, she said she likes to keep a balanced diet. Kinda surprised me somehow. I guess she's more mindful of the little things than I expected.",
+        "zh": "我之前并不认识火神大人。\n我的意思是，我当然知道火神是谁，但并不像当面对过话的那种「认识」。在这之前，火神大人对我来说更像一种刻写着力量的图腾，一个象征着掌控全局的标志。这在我心中并不算切实的了解，所以我产生了疑问。\n现在疑问消失了不少，我很开心，也有些心虚和羞愧…她似乎从不迷茫，知道火焰为何长燃，所以无论如何不能让其熄灭。我希望…希望自己能成为帮得上纳塔的人。\n当然，关于她我还有一些思考…上次在宴会上见到她吃了很多很多绿叶蔬菜，我们还聊了这件事，她说她很喜欢营养均衡的感觉。总觉得，是比想象中更细致的人。"
+      },
+      "source_id": 105026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Капитане...",
+        "en": "About The Captain",
+        "zh": "关于「队长」…"
+      },
+      "text": {
+        "ru": "Встреча с Капитаном стала для меня странным и неожиданным поворотом судьбы.\nМоё племя славится умением предсказывать будущее, но я никогда не ожидал, что всё окажется настолько запутанным. Разве помощь кому-то действительно сводится к обмену услугами, пока долг не будет погашен? Если это так, то почему я всё ещё чувствую себя в долгу перед ним? Почему я так благодарен за то, что он сделал для меня?\nИли... может, я всё чересчур усложняю. Что бы ни произошло в прошлом, он помог спасти артерии земли Натлана. Он герой, достойный уважения, и я всегда буду помнить его.",
+        "en": "Meeting The Captain was a strange and unexpected twist of fate for me.\nMy tribe is known for our ability to predict the future, but I never expected things would turn out so complicated. Is helping someone really about trading favors until the score is even? If so, why do I still feel so indebted to him? So grateful for what he did for me?\nOr... maybe I'm overthinking everything. No matter what happened in the past, he helped save Natlan's Ley Lines. He's a hero worthy of respect, and I'll always remember him.",
+        "zh": "真是一段奇异又仓促的缘分。\n都说烟谜主的人擅长预知未来，但我在路边遇到「队长」时，从没想过事情会变得这样复杂。在你看来，人情是可以简单两清的吗？如果是，我心中为何仍保留感激与亏欠？\n…又或许是我考虑得太多了。无论之前发生了什么，他帮助拯救了纳塔岌岌可危的地脉，是一位值得尊敬的英雄。我会一直记得他的。"
+      },
+      "source_id": 105027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше об Оророне I",
+        "en": "More About Ororon: I",
+        "zh": "想要了解欧洛伦·其一"
+      },
+      "text": {
+        "ru": "Привет. О, рукопожатие? В Натлане приветствия обычно не такие формальные, но, если хочешь, пожмём руки. Потом можешь мне просто издалека покричать. У меня хороший слух, я не пропущу.",
+        "en": "Hello. Oh, a handshake? Our greetings aren't usually so formal in Natlan, but... Okay, we can shake hands. In the future, you can just shout at me from afar. I have good hearing, so I won't miss it.",
+        "zh": "你好。要握手吗？纳塔人打招呼一般不会这样正式，但你想要也可以。其实在远处喊一声就够了，我听力很好，会察觉到的。"
+      },
+      "source_id": 105028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше об Оророне II",
+        "en": "More About Ororon: II",
+        "zh": "想要了解欧洛伦·其二"
+      },
+      "text": {
+        "ru": "Ты, похоже, всегда чем-то занят. Тоже так хочу, чтобы мне всегда было чем заняться. Но иногда мне нравится вообще ничего не делать. Я постоянно с одного на другое перескакиваю. Очень раздражает, но ничего не могу с собой поделать. / Ты, похоже, всегда чем-то занята. Тоже так хочу, чтобы мне всегда было чем заняться. Но иногда мне нравится вообще ничего не делать. Я постоянно с одного на другое перескакиваю. Очень раздражает, но ничего не могу с собой поделать.",
+        "en": "You always seem so busy. I want to be like that, too — the kind of person who always has something to do. Then again, sometimes I like doing nothing at all. I keep flipping back and forth. It's annoying, but I can't help it.",
+        "zh": "你似乎总是很忙，我也希望像你一样，一直有事可做。但有时，我又很喜欢清闲度日。人的心情真多变啊，我自己也控制不了，真为难。"
+      },
+      "source_id": 105029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше об Оророне III",
+        "en": "More About Ororon: III",
+        "zh": "想要了解欧洛伦·其三"
+      },
+      "text": {
+        "ru": "В Натлане днём очень жарко, поэтому, если возможно, я предпочитаю выходить из дома ночью. Ты замечал, как блестит поверхность воды от лунного света. Но только при свете солнца видно, насколько вода чистая. Так что лучше ночью чёрную воду не трогать. / В Натлане днём очень жарко, поэтому, если возможно, я предпочитаю выходить из дома ночью. Ты замечала, как блестит поверхность воды от лунного света. Но только при свете солнца видно, насколько вода чистая. Так что лучше ночью чёрную воду не трогать.",
+        "en": "In Natlan, it gets really hot during the day, so I choose to go out at night if possible. The moonlight makes the surface of the water glisten. Have you noticed? Although, at night, the water turns pitch-black. It's impossible to tell how clean it is, so I would avoid contact.",
+        "zh": "纳塔的白天很热，所以除非必要，我更喜欢晚上出门。你见过夜晚的水面吗？月光让水波闪着光，看起来十分清亮。但只有在阳光下你才能看清它是不是真的干净，所以，尽量不要触碰夜晚漆黑的水。"
+      },
+      "source_id": 105030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше об Оророне IV",
+        "en": "More About Ororon: IV",
+        "zh": "想要了解欧洛伦·其四"
+      },
+      "text": {
+        "ru": "Я с рождения более чувствителен к душам, чем большинство людей. Как бы объяснить... Человеческие души - это как непредсказуемые комки энергии. Представь себе кучу маленьких заврианских зефирок самых разных видов... Именно так выглядит душа. Твоя душа тёплая, словно её поджарили на огне.",
+        "en": "I'm more sensitive to souls than most people. I was born that way, but it's also kind of hard to describe... Human souls are like unpredictable masses of energy. Imagine a bunch of little saurian marshmallows of all different kinds... That's basically what a soul looks like. Your soul is warm, like it's been lightly toasted above a glowing fire.",
+        "zh": "我对灵魂的感知天生比其他人强一些。怎么描述呢…人的灵魂有些像一团团莫测的能量，如果世界上有形态各异的小龙棉花糖，那大概就是灵魂的样子吧。你的灵魂很温暖，是烤过的那种。"
+      },
+      "source_id": 105031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше об Оророне V",
+        "en": "More About Ororon: V",
+        "zh": "想要了解欧洛伦·其五"
+      },
+      "text": {
+        "ru": "Если честно, я и сам себя не очень понимаю. У меня так много сомнений, так много вопросов без ответов, а новые всё продолжают появляться. Но для этого, похоже, нет какого-то особенно хорошего решения... Нужно просто двигаться вперёд, да ведь?",
+        "en": "Other people don't understand me, and to be honest, I don't fully understand myself, either. I have so many doubts, so many unanswered questions, and new ones keep on coming.\nBut, there's no quick-fix for something like this... Just gotta keep moving forward, right?",
+        "zh": "老实说，我自己对自己也不甚了解。我总是有很多疑问；已有的问题还没得到解决，马上又会有新的加入进来。\n好像没有什么特别好的解决办法…只能尽量往前走，对吧？"
+      },
+      "source_id": 105032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Хобби Оророна",
+        "en": "Ororon's Hobbies",
+        "zh": "欧洛伦的爱好…"
+      },
+      "text": {
+        "ru": "Есть ли у меня хобби кроме садоводства и наблюдения за тлёй? Да, конечно. Дай-ка секунду, сейчас вспомню.",
+        "en": "Do I have other hobbies? Besides gardening and aphid-watching, you mean? Oh, yes... Of course. Just give me a second. It'll come to me.",
+        "zh": "除了种菜和观察蜜虫以外的爱好？有的。…当然有，给我点时间，会想出来的。"
+      },
+      "source_id": 105033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Беспокойство Оророна",
+        "en": "Ororon's Troubles",
+        "zh": "欧洛伦的烦恼…"
+      },
+      "text": {
+        "ru": "Иногда перейти от мечты к её воплощению очень тяжело.",
+        "en": "Sometimes, going from dreaming it to doing it... it's a really tough step.",
+        "zh": "有时，想要和做到之间的距离真的很难跨越。"
+      },
+      "source_id": 105034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Когда ем татако, я кладу под него пустую лепёшку. Если их много съешь, то из выпавших ингредиентов получится новое татако.",
+        "en": "Whenever I eat a Tataco, I like to put an extra tortilla underneath to catch all the ingredients that fall out. That way, you basically get two Tatacos in one.",
+        "zh": "吃塔塔可时，在下面放一张空饼皮。只要吃得足够多，掉下来的食材就能变成一个新的塔塔可了。"
+      },
+      "source_id": 105035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Военные пайки... Особенно прессованное печенье. Они напоминают мне душу Капитана... Хорошие по качеству, но слишком жёсткие.",
+        "en": "Military rations... especially compressed biscuits. They kinda remind me of The Captain's soul, actually... Good at the core, but a little tough.",
+        "zh": "军用食品…尤其是压缩饼干。它们就像「队长」的灵魂一样沉重…品质很好，只是太硬了。"
+      },
+      "source_id": 105036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ого, лучше, чем я сам могу.",
+        "en": "Wow, even better than what I can make.",
+        "zh": "厉害，比我自己做的好吃。"
+      },
+      "source_id": 105037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Не слишком ярко, не слишком пресно... Вкус в самый раз.",
+        "en": "Not too strong, not too bland... The flavor is just right.",
+        "zh": "不多不少，正正好的味道。"
+      },
+      "source_id": 105038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Не очень понимаю... Что за техника такая?",
+        "en": "What avant garde technique is this...? I'm unfamiliar with it.",
+        "zh": "我不太明白…这是什么艺术？"
+      },
+      "source_id": 105039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "В Натлане верят, что день рождения определяет судьбу человека. Родиться в один день с великим героем значит получить его защиту и унаследовать его характер. Думаю, что людям, которые родились с тобой в один день, очень повезло... С днем рождения.",
+        "en": "In Natlan, we believe a person's birthday decides their fate. Sharing a birthday with a great hero means being blessed with their protection and inheriting their character.\nI'm not sure the people out there who share your birthday know how lucky they are... Happy Birthday.",
+        "zh": "在纳塔，有种说法是，一个人的出生日期决定了他的命运。如果他的生日和某位大英雄是同一天，那他就会得到这位英雄的庇佑，拥有和他一样的品质。\n我想，和你共享生日的人一定很幸运。生日快乐。"
+      },
+      "source_id": 105040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Что это ты мне только что дал? Можно ещё раз посмотреть? / Что это ты мне только что дала? Можно ещё раз посмотреть?",
+        "en": "What did you give me just now? Can I have another look?",
+        "zh": "你刚刚拿给我的是什么？能再让我看一下吗？"
+      },
+      "source_id": 105041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Может, мне стоит начать называть тебя наставником? Спасибо дедуля-наставник. Я многому у тебя научился. / Может, мне стоит начать называть тебя наставницей? Спасибо бабуля-наставница. Я многому у тебя научился.",
+        "en": "Maybe I should start calling you \"master\"... Thank you, Master Gramps. I've learned a lot from you. / Maybe I should start calling you \"master\"... Thank you, Master Granny. I've learned a lot from you.",
+        "zh": "我是不是应该叫你声老师？谢谢你，爷爷老师，我学到很多。 / 我是不是应该叫你声老师？谢谢你，奶奶老师，我学到很多。"
+      },
+      "source_id": 105042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Тело такое лёгкое... Я теперь, похоже, могу забраться ещё выше. Но всё равно нужно контролировать силу. Удариться головой довольно больно.",
+        "en": "My body feels so light... feels like I can get to even higher places now. Still, it's all about control. Hitting my head is no fun.",
+        "zh": "身体很轻，看来可以一下子去到更高的地方了。但要控制好力道，因为磕到头会很疼。"
+      },
+      "source_id": 105043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Я ещё недостаточно силён, чтобы разведать границы смерти, но благодаря тебе конец теперь кажется чуть более далёким. Не волнуйся - я не стану из-за этого творить всякие безответственные поступки. Даю слово.",
+        "en": "I am not yet powerful enough to probe the boundaries of death, but thanks to you, the end now seems a little further away. Don't worry — I won't take advantage of that to do any irresponsible things. On that, you have my word.",
+        "zh": "我还没能力窥探死亡的界限，但你的帮助似乎将死亡推得更远了一些。放心，我不会因此就去随心所欲做坏事的，我保证。"
+      },
+      "source_id": 105044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Не убегай далеко.",
+        "en": "Not too far, now.",
+        "zh": "别跑太远。"
+      },
+      "source_id": 105045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Пока!",
+        "en": "Farewell.",
+        "zh": "再见咯。"
+      },
+      "source_id": 105046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Ты свободен!",
+        "en": "Be free!",
+        "zh": "放生！"
+      },
+      "source_id": 105047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Иди, ты свободен.",
+        "en": "Go, you're free now.",
+        "zh": "去吧，你自由了。"
+      },
+      "source_id": 105048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Пора здороваться.",
+        "en": "Time to say hello.",
+        "zh": "来，跟大家问好。"
+      },
+      "source_id": 105049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Скажи, что видишь.",
+        "en": "Tell me what you see.",
+        "zh": "帮我四处看看。"
+      },
+      "source_id": 105050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Из-за твоей страсти к поиску сокровищ эти сундуки становятся исчезающим видом.",
+        "en": "Your passion for treasure-hunting is turning these chests into an endangered species.",
+        "zh": "你对宝箱的热情正在威胁它们的生存环境。"
+      },
+      "source_id": 105051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Если по нему постучать, то по звуку можно сказать, созрели ли его плоды.",
+        "en": "You can always tell which ones are ripe for the picking by the sound they make when you tap on them.",
+        "zh": "敲上去的声音很清脆，应该是颗不错的果实。"
+      },
+      "source_id": 105052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Осторожно, некоторые заврианы любят прятаться в таких сундуках. Наверное, они интроверты.",
+        "en": "Careful, some saurians like to hide in chests like this — probably an introvert thing.",
+        "zh": "小心哦，有些龙喜欢躲在箱子里。可能是内向吧。"
+      },
+      "source_id": 105053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Не могу бежать...",
+        "en": "Please, hold up...",
+        "zh": "跑不动了…"
+      },
+      "source_id": 105054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Плохо...",
+        "en": "Not good...!",
+        "zh": "警惕…！"
+      },
+      "source_id": 105055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Плохой знак.",
+        "en": "Bad omen.",
+        "zh": "坏兆头。"
+      },
+      "source_id": 105056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Позвать доктора?",
+        "en": "Need me to get a doctor?",
+        "zh": "要带你去看医生吗？"
+      },
+      "source_id": 105057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Я заменю.",
+        "en": "Filling in.",
+        "zh": "我先补上。"
+      },
+      "source_id": 105058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Я первый пойду...",
+        "en": "See you... in the Night Kingdom.",
+        "zh": "先走一步…"
+      },
+      "source_id": 105059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Становится темно...",
+        "en": "It's getting... dark.",
+        "zh": "看不清了…"
+      },
+      "source_id": 105060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Голоса... зовут...",
+        "en": "The voices... are calling...",
+        "zh": "听见了…不该存在的声音…"
+      },
+      "source_id": 105061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ах, слишком медленно...",
+        "en": "Argh, too slow...",
+        "zh": "呃，跑慢了…"
+      },
+      "source_id": 105062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Что-то не так...",
+        "en": "Something's wrong...",
+        "zh": "这不对吧？"
+      },
+      "source_id": 105063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Хочешь, чтобы я присоединился?",
+        "en": "Want me to join?",
+        "zh": "要我加入吗？"
+      },
+      "source_id": 105064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Куда?",
+        "en": "Where to?",
+        "zh": "去哪？"
+      },
+      "source_id": 105065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "По какому поводу собрались?",
+        "en": "What's the occasion?",
+        "zh": "能不能先说，是好事还是坏事？"
+      },
+      "source_id": 105066
+    }
+  ],
+  "replica_count": 67
 }

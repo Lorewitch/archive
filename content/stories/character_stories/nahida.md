@@ -428,3 +428,923 @@ Thus did the "God of Wisdom" instantly find her answer...
 达成交易意味着双方平等退让，谁都不占上风，更遑论胜利。可拒绝交易意味着某种「无知」，显而易见，这等劣势更容易招致失控。
 
 「智慧之神」瞬间就得出了她的答案…
+
+# voice_source_ids: 73000,73001,73002,73003,73004,73005,73006,73007,73008,73009,73010,73011,73012,73013,73014,73015,73016,73017,73018,73019,73020,73021,73022,73023,73024,73025,73026,73027,73028,73029,73030,73031,73032,73033,73034,73035,73036,73037,73038,73039,73040,73041,73042,73043,73044,73045,73046,73047,73048,73049,73050,73051,73052,73053,73054,73055,73056,73057,73058,73059,73060,73061,73062,73063,73064,73065,73066,73067,73068,73069,73070,73071,73072,73073,73074,73075
+
+## REPLICAS_RU
+
+### Привет...
+
+Приятно познакомиться! Я давно уже за тобой слежу. Меня зовут Нахида. Может, я и выгляжу как ребёнок, но понимаю этот мир получше любого взрослого. Так что... можно я обменяю свои знания на истории о твоих путешествиях?
+
+### Поболтаем: Приглашение
+
+Если не знаешь, чем заняться, давай я свожу тебя на прогулку?
+
+### Поболтаем: Заботы
+
+Опять что-то беспокоит? Давай вместе подумаем.
+
+### Поболтаем: Чувства
+
+Действительно, чтобы почувствовать красоту мира, нужно увидеть его своими глазами.
+
+### Когда идёт дождь...
+
+Давай скорее спрячемся, а то у нас грибы на голове вырастут.
+
+### Когда гремит гром...
+
+Ты знаешь, что гром - прелюдия новой жизни? Скоро эта земля наполнится ею.
+
+### Когда идёт снег...
+
+Слышишь? Небеса шепчут природе: «Пора спать».
+
+### Когда светит солнце...
+
+Такая тёплая и приятная погода. Скоро вокруг нас всё снова оживёт.
+
+### Когда дует ветер...
+
+В Храме Сурастаны никогда не дует ветер... А, прости, ты это, конечно, и так знаешь.
+
+### Доброе утро...
+
+Доброе утро. Нам пора отправляться. В мире так много всего можно пропустить, если не успеть.
+
+### Добрый день...
+
+Пора отдохнуть. Я бы выпила ягодный напиток с мятой. Могу дать тебе за него две истории про солнце. Хорошо?
+
+### Добрый вечер...
+
+Солнце заходит... Пора и нам освободить сцену для созданий ночи.
+
+### Спокойной ночи...
+
+Спи скорее. Не волнуйся, я уже приготовила для тебя сладкий сон.
+
+### О Нахиде: Знания
+
+А, Пепельное море. Там ничего нет. Совсем пустое место - как мозг грибосвина. Конечно, я о нём знаю. А? Я... Действительно, сама я его не видела. Это одно из недоступных для меня мест.
+
+### О Нахиде: Одержимость
+
+Боги дали людям знание, достаточное лишь, чтобы наполнить животы. Но, используя его, люди создали инструменты, написали книги, построили города. А теперь они направили свой взор к звёздам и безднам. Каждое мгновение они создают новое знание, и я больше не могу отвести свой взор.
+
+### О нас: Истории
+
+Увиденное тобой в путешествии намного интересней всего, что я выучила до этого. А ещё я могу задавать сколько угодно вопросов и разузнать всё до мельчайших подробностей... Я так довольна. Ладно, хватит терять время. Так на чём мы остановились?
+
+### О нас: Путешествие
+
+Мне никогда не было достаточно быть просто слушателем, я всегда мечтала сама отправиться в путь и увидеть всё своими глазами. Ты такой опытный путешественник... Станешь моим проводником? Хочу лично узнавать все твои будущие истории. / Мне никогда не было достаточно быть просто слушателем, я всегда мечтала сама отправиться в путь и увидеть всё своими глазами. Ты такая опытная путешественница... Станешь моим проводником? Хочу лично узнавать все твои будущие истории.
+
+### Глаз Бога...
+
+Небеса отрастили глаза, чтобы увидеть красоту мира. Так зачем людям, у которых и так два глаза, может понадобиться смотреть на мир Глазом Бога? Ты такой умный. Сможешь ответить на этот вопрос? / Небеса отрастили глаза, чтобы увидеть красоту мира. Так зачем людям, у которых и так два глаза, может понадобиться смотреть на мир Глазом Бога? Ты такая умная. Сможешь ответить на этот вопрос?
+
+### Давай поделимся...
+
+Часто, только испытав боль, мы вынуждены вглядеться в свою лень, невежество, грубость и высокомерие. Но не стоит об этом сожалеть. Мы не видим скрытые в будущем возможности. И лишь этот неуклюжий способ может дать нам знания. Плата за обучение, только и всего.
+
+### Интересные вещи: Невиданные цветы
+
+Пустыня Сумеру по сравнению с тропическим лесом выглядит безжизненной, но она взрастила древнюю цивилизацию и поддерживает устойчивую природную среду. Когда-нибудь она перестанет ссориться с лесом, и тогда здесь появятся цветы, которых я ещё не видела.
+
+### О Сайно: Шутки
+
+Его шутки действительно сложно понять. Очень интересно. А? Какую часть не понял? Сейчас объясню. / Его шутки действительно сложно понять. Очень интересно. А? Какую часть не поняла? Сейчас объясню.
+
+### О Сайно: Долг
+
+Не каждый генерал махаматра принял бы такую твёрдую позицию в конфликте между порядком и справедливостью. Сайно, наверное, лучше всех знает, что компромисс лишь заводит в тупик. Так что всему Сумеру очень повезло, что он смог вернуться на свой пост.
+
+### О Тигнари...
+
+Лесные дозорные сыграли решающую роль в том, что тропический лес выстоял перед опасностью Увядания и снова процветает, а Тигнари - лучший из них. И всё же... Я надеюсь, что он научится быть теплее к людям. Только так можно будет найти новые таланты для Лесного дозора.
+
+### О Коллеи...
+
+Я слышала историю Коллеи, её стойкость сверкает, словно драгоценный камень. Она через такое прошла... Надеюсь, зелень Сумеру всегда будет её защищать, и она вырастет здоровой и сильной девушкой.
+
+### Об аль-Хайтаме...
+
+Его система знаний опережает своё время, а разум постоянно находится в раздумьях. Возможно, ничто в этом мире не может его обмануть. Но не ошибаются ли мудрецы, считая заурядность простых людей неким врождённым дефектом? Всё-таки часть них - это часть «нас», и никуда от этого не деться.
+
+### О Нилу...
+
+Как-то, одолжив чужое тело, я спросила её, не позволит ли она малой властительнице Кусанали посмотреть её танец... Я уже много раз тайно смотрела за ней, но в знак почтения хотела бы лично увидеть её танец во время Сабзеруза. Но она мне деликатно отказала... Я немного расстроилась.
+
+### О Дори...
+
+Первое, что она сказала, увидев меня: «Хороший дворец. За сколько продашь?» Конечно, я бы не продала Храм Сурастаны, но её вопрос меня озадачил. Я долго об этом думала, но так и не решила, сколько он мог бы стоить...
+
+### О Кавехе...
+
+Он почти полностью осознал суть продвижения мудрости в Сумеру. Жаль, что его точка зрения никогда не станет в этой стране основной. А? Они с аль-Хайтамом - соседи? Мир полон сюрпризов...
+
+### О Фарузан...
+
+Она пострадала от остатков силы царя Дешрета. Как если бы великая черепаха времени случайно сбросила её со своей спины и навечно забыла позади. Если тебе интересно, можешь через неё взглянуть на Сумеру прошлого.
+
+### О Семи: Знакомство
+
+Похоже, что когда-то давно семь Архонтов регулярно общались. Но моя ситуация особенная, и я уже не помню то время... Раз в Сумеру всё пока успокоилось, мне, пожалуй, стоит снова с ними встретиться. Ты ведь знаешь некоторых из Архонтов. Познакомишь?
+
+### О Семи: Игры
+
+Говорят, что игры быстро сближают людей. Думаю, что с богами это тоже должно работать. Если все соберутся вместе, я предложу сыграть в классики... Хм, пожалуй, так не пойдёт - будет выглядеть, как будто я специально нарисовала клетки поменьше, чтобы победить. Так будет нечестно.
+
+### О Сказителе...
+
+Когда он добился того, что, как ему казалось, так долго искал, наступил ли покой, или лишь больше стала пустота? Мы мечтаем о небе, потому что не умеем летать... Пусть подумает об этом, когда подержит в руках порожние небеса.
+
+### Узнать больше о Нахиде I
+
+Моё прошлое довольно однообразно. Я могу тебе рассказать, но вскоре ты начнёшь зевать, как иглобрюх, глотающий воду. Но любопытство дороже золота, мне не хотелось бы, чтобы оно пропало зря... Давай так, я расскажу о виденных мной снах.
+
+### Узнать больше о Нахиде II
+
+В моих снах часто появляется цветочный горшок. Каждый раз я поливаю и удобряю в нём землю, и из него вырастает один и тот же цветок. Можно ли наслаждаться выращиванием цветов, если знаешь результат заранее? Хе-хе, я, по крайней мере, довольна, что распустившийся цветок привлекает разноцветных бабочек, а иногда и пчёл.
+
+### Узнать больше о Нахиде III
+
+В моих снах часто появляются песочные часы. Я люблю налить внутрь них немного воды, как следует размешать, а потом смотреть, сколько займёт один цикл, и насколько он отличается от предыдущего. В этом нет никакой пользы и никакого смысла, но почему-то избавляет мой мозг от накопившейся усталости. Думаю, что именно бесполезность этого занятия приносит мне радость.
+
+### Узнать больше о Нахиде IV
+
+В моих снах часто появляется пустое пространство. Как бы ни менялся пейзаж вокруг, оно всё равно оказывается на самом важном месте. Странно, да? Мне кажется, там что-то раньше было, но даже со своей властью над снами я не могу найти ответ. Эх, даже в снах есть вещи, которые мне неподвластны...
+
+### Узнать больше о Нахиде V
+
+В моих снах есть всё, не хватает только снующих людей. Но после нашего знакомства тут постепенно становится оживлённей. Возможно, ты «проводник», который не только сделал мои сны более человечными, но вывел меня из клетки. Хе-хе, пойдём. Путешествие только начинается. Прошу тебя, указывай путь. / В моих снах есть всё, не хватает только снующих людей. Но после нашего знакомства тут постепенно становится оживлённей. Возможно, ты «проводница», которая не только сделала мои сны более человечными, но вывела меня из клетки. Хе-хе, пойдём. Путешествие только начинается. Прошу тебя, указывай путь.
+
+### Хобби Нахиды...
+
+Хм... Смотреть на тебя считается за хобби? Потому что всё, что ты делаешь, очень меня интересует. Ты путешествуешь по всему миру... Откуда ты пришёл и куда отправишься дальше? Кого встретишь и какие трудности преодолеешь? Я хочу узнать ответы на эти вопросы. Так что если не возражаешь, я просто хочу продолжать на тебя смотреть. / Хм... Смотреть на тебя считается за хобби? Потому что всё, что ты делаешь, очень меня интересует. Ты путешествуешь по всему миру... Откуда ты пришла и куда отправишься дальше? Кого встретишь и какие трудности преодолеешь? Я хочу узнать ответы на эти вопросы. Так что если не возражаешь, я просто хочу продолжать на тебя смотреть.
+
+### Беспокойство Нахиды...
+
+Думаю, что я умею задавать вопросы и давать ответы, но постепенно я поняла, что многие люди просто прикидываются дураками. Вопросы и ответы им уже не помогают. Похоже, что с возрастом люди теряют храбрость спрашивать и отвечать...
+
+### Любимая еда...
+
+Конечно, засахаренные орехи аджиленах. Достаточно укусить разочек и мой мозг начинает с треском ломиться вперёд так, что никакая проблема не устоит. Главное только не ставить банку с орехами там, куда легко дотянуться.
+
+### Нелюбимая еда...
+
+Морские гады рождаются в бескрайней тьме и живут в бездонных глубинах моря. Я ничего об этом не знаю. Если их съесть, то я как будто проглотила грязную грозовую тучу.
+
+### Подарок I
+
+Пусть мир вечно помнит этот прекрасный вкус. Спасибо.
+
+### Подарок II
+
+Хе-хе, благодарю за внимание. Вкус достоин похвалы.
+
+### Подарок III
+
+Как бы сказать... Ты же не станешь, например, поить собаку овощным соком?
+
+### День рождения...
+
+Я вот думаю, твой день рождения должен быть не менее величественным, чем Сабзеруз... А? Это слишком? Но все уже готовятся. Пойдём-пойдём! Всего разок, тебе обязательно понравится!
+
+### Чувство возвышения: Начало
+
+Я становлюсь умнее!
+
+### Чувство возвышения: Нарастание
+
+Мой разум становится шире. Туда теперь можно поместить и небо, и море.
+
+### Чувство возвышения: Кульминация
+
+Я чувствую себя будто лотос нилотпала, нашедший свои листья, или жемчужина санго, нашедшая свою раковину.
+
+### Чувство возвышения: Окончание
+
+Спасибо, что разрешил стать твоим компаньоном и научил многим новым вещам. Как божество мудрости я дарую тебе своё благословение: пусть твой путь будет свободен от сомнений и преград. / Спасибо, что разрешила стать твоим компаньоном и научила многим новым вещам. Как божество мудрости я дарую тебе своё благословение: пусть твой путь будет свободен от сомнений и преград.
+
+### Элементальный навык I
+
+Я запомнила.
+
+### Элементальный навык II
+
+Расти, расти, расти.
+
+### Элементальный навык III
+
+Сейчас будет больно.
+
+### Элементальный навык IV
+
+Эй!
+
+### Элементальный навык V
+
+Держитесь за руки!
+
+### Элементальный навык VI
+
+Я вижу всё.
+
+### Взрыв стихии I
+
+Чувствуйте себя как дома!
+
+### Взрыв стихии II
+
+Делюсь своими знаниями.
+
+### Взрыв стихии III
+
+Храм мудрости.
+
+### Открытие сундука I
+
+Любознательность заслуживает награды.
+
+### Открытие сундука II
+
+От кого же этот подарок?
+
+### Открытие сундука III
+
+Тебе что-нибудь приглянулось?
+
+### Низкий уровень HP I
+
+Сменим тактику?
+
+### Низкий уровень HP II
+
+Хватит драться!
+
+### Низкий уровень HP III
+
+Было не очень умно...
+
+### Низкий уровень HP компаньона I
+
+Сейчас что-нибудь придумаю.
+
+### Низкий уровень HP компаньона II
+
+Не упорствуй.
+
+### Без сознания I
+
+Никто не живёт вечно...
+
+### Без сознания II
+
+Я... чахну...
+
+### Без сознания III
+
+Я... не понимаю...
+
+### Получен тяжёлый удар I
+
+Очень больно...
+
+### Получен тяжёлый удар II
+
+Вижу звёздочки...
+
+### Присоединяется к группе I
+
+Я давно тебя ждала.
+
+### Присоединяется к группе II
+
+Столько ещё мест для исследования.
+
+### Присоединяется к группе III
+
+Снова пора расширить горизонты.
+
+### О Фурине...
+
+Часто говорят, что мудрость заключается не в том, что ты знаешь, а в том, что можешь изменить. То, что «пророчество» было высечено в Ирминсуле давным-давно, не вызывает сомнений... И хотя может показаться, что ничего не изменилось, но на самом деле изменилось все. Думаю, мы оба понимаем, что ей хватило мудрости, чтобы перевернуть судьбы мира. / Часто говорят, что мудрость заключается не в том, что ты знаешь, а в том, что можешь изменить. То, что «пророчество» было высечено в Ирминсуле давным-давно, не вызывает сомнений... И хотя может показаться, что ничего не изменилось, но на самом деле изменилось все. Думаю, мы обе понимаем, что ей хватило мудрости, чтобы перевернуть судьбы мира.
+
+### О Хаборим...
+
+Бездна проявляет свою силу так, чтобы нанести максимальный урон месту, которое становится её целью. В Сумеру это было запретное знание. В Натлане - чудовищные создания. Наш опыт борьбы с Бездной оказался неприменим в Натлане именно по этой причине, и я всё же сожалею, что не смогла оказать помощь. К счастью, кризис уже разрешён, и Мавуика сказала, что многие натланцы планируют посетить Сумеру. Я собираюсь встретить их с распростёртыми объятиями!
+
+## REPLICAS_EN
+
+### Hello
+
+Nice to meet you! Hehe, I've actually been watching you for a long time already. My name's Nahida. I might look like a child, but don't be fooled: I understand this world much better than any grown-up. So... can we trade knowledge? I want to hear all about your travel stories. So, what would you like to know in return?
+
+### Chat: Invitation
+
+If you're not sure what to do next, how about I take you on a walk?
+
+### Chat: Concerns
+
+Something on your mind again? Let's work through it together. Two heads are better than one.
+
+### Chat: Feelings
+
+What they say is true: You have to see the world for yourself to appreciate how beautiful it is.
+
+### When It Rains
+
+Quick, let's find shelter, or mushrooms will start growing on our heads.
+
+### When Thunder Strikes
+
+Did you know that the sound of thunder is the prelude to new life? *sigh* Soon, this land will be brimming with vitality.
+
+### When It Snows
+
+Can you hear that? The heavens are whispering to all living things, "It's time for bed now."
+
+### When the Sun Is Out
+
+Ah, the weather is lovely and warm. Things are about to start getting lively again.
+
+### When It's Windy
+
+The wind never blows in the Sanctuary of Surasthana... Oh, sorry. That's probably obvious to you.
+
+### Good Morning
+
+Good morning. We should get going right away. There are too many things in this world that you'll miss if you don't get there on time.
+
+### Good Afternoon
+
+Ah, time for a break. I'd really like a Berry & Mint Burst... If you get one for me, I'll tell you a couple of stories about the sun. Okay?
+
+### Good Evening
+
+The sun's setting. It's time to wave goodbye and let the creatures of the night take center stage.
+
+### Good Night
+
+You should go to sleep now. Don't worry, I've made sure there's a sweet dream waiting for you.
+
+### About Nahida: Knowledge
+
+Oh, the Mare Jivari? A place without anything at all, completely empty — just like a Shroomboar's brain. Of course I know it. ...Hmm? I, uh... It's true, I've never seen it with my own eyes. It's one of the many places beyond my reach.
+
+### About Nahida: Obsession
+
+The gods gave humans barely enough knowledge for them to fill their stomachs. Yet, they used it to craft tools, write books, and build cities, and now they've set their sights on the stars and the abyss... With every moment that goes by, they're creating brand-new knowledge, so I never want to take my eyes off them.
+
+### About Us: Story Time
+
+The things you've experienced on your journey are so much more exciting than anything I've ever learned. And now, I get to ask you about all of it any time I want, so I can understand each and every little detail... I couldn't ask for more. Alright, let's not waste any more time. Now where were we...?
+
+### About Us: Journey
+
+Being a listener has never been enough for me. I've always dreamed of going out and seeing things for myself. You're such an experienced adventurer... Can you be my guide? I want to experience all your future tales first-hand.
+
+### About the Vision
+
+The heavens grew eyes to behold the true beauty of the world below, but humans already have eyes to begin with. So, what is it they see when they look at the world not with their eyes, but their vision? You're very smart. Can you figure out what the answer is?
+
+### Something to Share
+
+Very often, only once we get hurt badly are we finally forced to face our own laziness, ignorance, recklessness, or arrogance. There's nothing to regret, though. We have no way of seeing all the possibilities that lie ahead in the future, so we have to rely on clumsy trial-and-error to gain knowledge. Just think of pain as the tuition you have to pay.
+
+### Interesting Things: A Flower Yet to Blossom
+
+Sumeru's desert looks more desolate than the rainforest, but it's also home to an ancient civilization, and supports its own stable ecosystem. One day, when it finally stops arguing with the rainforest, I'm sure that flowers will blossom there, the likes of which I've never seen before.
+
+### About Cyno: Jokes
+
+His jokes are like buried treasure: gems hidden beneath the surface. They're a lot of fun. Hmm? Well, which part didn't you get? Okay, I can explain it for you.
+
+### About Cyno: Duty
+
+Not every General Mahamatra would take such a clear-cut and decisive stance when faced with a conflict between order and justice. He must know only too well that compromise is a path that leads to a dead end, so it's extremely fortunate for all of Sumeru that he's now been able to return to his rightful post.
+
+### About Tighnari
+
+The Forest Watchers played an essential role in helping the rainforest to withstand the Withering and continue to flourish, and Tighnari is the best of them all. Still... I do hope he learns to be a little gentler with people. Otherwise, it's gonna be difficult for the Forest Rangers to attract new top talent.
+
+### About Collei
+
+When I heard her story for the first time, her tenacity shone through like a dazzling gemstone. She's been through so much... I hope that just as the rainforest supports all kinds of life, Sumeru will always provide a safe and nurturing environment for her, so that she can grow up healthy and strong.
+
+### About Alhaitham
+
+He holds a body of knowledge more advanced than most could imagine, and his mind is constantly thinking, so maybe nothing in this world could ever fool him. But is the wise man truly wise to view the mediocre majority as defective? Because without them, there is no us.
+
+### About Nilou
+
+I once borrowed someone else's body to ask her if she'd mind allowing Lesser Lord Kusanali to watch her dance... Actually, I had already watched her lots of times before in secret, but I wanted to attend her dance at the Sabzeruz Festival properly, in person, as a sign of respect. Anyway, it turned out that she gently declined the offer... I was a little sad about that.
+
+### About Dori
+
+The first thing she said when she saw me was "Nice palace. How much?" Of course, I couldn't possibly sell her the Sanctuary of Surasthana. But still, her question had me stumped. I thought about it long and hard, but I still can't figure out how much Mora it's worth...
+
+### About Kaveh
+
+He has an almost-perfect grasp of what it truly means for Sumeru to be a Nation of Wisdom. Sadly, the truth as he understands it will never be accepted as the mainstream. Hmm? He's roommates with Alhaitham? Wow... the world really is full of surprises...
+
+### About Faruzan
+
+She is suffering from exposure to remnants of King Deshret's power. It's as if the great tortoise of time accidentally threw her off its back and left her suspended in the past. If you're interested, you should be able to catch a glimpse of Sumeru from a bygone age through her.
+
+### About The Seven: Introduction
+
+I'm led to believe that long, long ago, the Seven Archons used to stay in regular contact with each other. I'm a bit of a special case though, so I don't have any memory of that time... Now that things have settled down in Sumeru, I think it's about time I made contact with them again. You're on familiar terms with some of them, right? Would you mind introducing me?
+
+### About The Seven: Games
+
+I hear that playing games is a good way to quickly bring people closer together. I'm sure it must work for gods, too. How about once everyone meets up, I suggest we play hopscotch together? ...Hmm, on second thought, maybe not. If I draw the squares, it would look like I made them really small on purpose just so I could win. That wouldn't be fair on the others.
+
+### About The Balladeer
+
+When he finally achieved the ambition he thought he'd been pursuing all along, was he content at last, or only emptier still? We only yearn for the skies because we cannot fly... Hmm, perhaps he should reflect on this once he has held the sheer emptiness of the skies in his grasp.
+
+### More About Nahida: I
+
+My past is quite monotonous. I could tell you about it, but it wouldn't be long before you let out a great, big yawn, like a Pufferfish taking in a big gulp of water. But curiosity is worth its weight in gold, and I wouldn't want yours to go to waste... I know — let me tell you about all the dreams I've had.
+
+### More About Nahida: II
+
+In my dreams, there's often a flower pot. Every time I water it and add fresh fertilizer, the same flower grows. Can you still enjoy the process of growing flowers when you already know the exact outcome in advance? Hehe, well, for me, I'm glad that at least after the flower has blossomed, it attracts different colored butterflies each time, and sometimes even bees.
+
+### More About Nahida: III
+
+In my dreams, there's often an hourglass. I like to add a few drops of water. Then, I shake it up, and time how long it takes to settle, and see if there's any difference from the last time. There's no reasoning behind it and nothing to gain out of it, but somehow it seems to relieve the exhaustion in my brain. I think that the fact that it's for nothing is what makes it fun for me.
+
+### More About Nahida: IV
+
+In my dreams, there's often an empty space. No matter how the scenery changes around it, the emptiness always occupies the most important place. Strange, isn't it? I think there used to be something there, but for all the power I have over dreams, I still can't find the answer as to what it was. Ugh, seems like even in my dreams, there are things that I can't control...
+
+### More About Nahida: V
+
+In my dreams, there can be anything — anything except people coming and going. But since meeting you, it's gradually started to get more lively here... Maybe you're a guide, adding a human touch to my dreams and leading me out from my cage. Hehe, c'mon, let's go. The journey's only just beginning, and I'd like you to carry on leading the way.
+
+### Nahida's Hobbies
+
+Umm... does watching you count as a hobby? Because everything you do fascinates me. You're traveling the whole world... Where did you come from, and where will you go next? Who will you meet, and what challenges will you have to overcome? I want to know the answers to all these questions and more. So please don't mind me, I just wanna keep on watching you, all the time.
+
+### Nahida's Troubles
+
+I think I'm good at asking the right questions and giving good answers, but I've come to realize that a lot of people just convince themselves they don't understand. The answers to their problems don't help them. It seems to me that as people grow older, they lose the courage to question things and accept the truth...
+
+### Favorite Food
+
+Definitely Candied Ajilenakh Nuts. I just need one little bite and my brain starts chugging away at top speed, and suddenly there's no problem too difficult for me to solve. The only thing you need to watch out for is: Don't put the jar somewhere that's too easy to reach.
+
+### Least Favorite Food
+
+Sea creatures are born into infinite darkness and live their lives in the depths of the ocean. It's a complete unknown to me. Eating them is like swallowing an icky storm cloud.
+
+### Receiving a Gift: I
+
+Mm, may the world never forget this beautiful flavor. Thank you.
+
+### Receiving a Gift: II
+
+Hehe, I really appreciate this. It tastes lovely.
+
+### Receiving a Gift: III
+
+...How should I put this? I guess... you wouldn't feed Shroomboars to a Sumpter Beast, would you?
+
+### Birthday
+
+I was thinking, your birthday celebration needs to be at least as grand as the Sabzeruz Festival, so... Hmm? Too much? But everyone's already done preparing for it. C'mon, c'mon, let's go! Just this once — I'll make sure you love it!
+
+### Feelings About Ascension: Intro
+
+I'm getting smarter!
+
+### Feelings About Ascension: Building Up
+
+My mind is growing even bigger. It feels like you could fit the entire sky and ocean inside it.
+
+### Feelings About Ascension: Climax
+
+I feel like a Nilotpala Lotus that's been reunited with its leaves, or a Sango Pearl that's found its shell.
+
+### Feelings About Ascension: Conclusion
+
+Thank you for allowing me to be your companion, and for teaching me so many new things. As the God of Wisdom, I grant to you my blessing: From here onward, may your journey be free from confusion that clouds your mind and obstacles that block your path.
+
+### Elemental Skill: I
+
+Committed to memory.
+
+### Elemental Skill: II
+
+Grow, grow, grow.
+
+### Elemental Skill: III
+
+This might hurt a little.
+
+### Elemental Skill: IV
+
+Hey!
+
+### Elemental Skill: V
+
+Everyone hold hands~
+
+### Elemental Skill: VI
+
+I see everything.
+
+### Elemental Burst: I
+
+Make yourselves at home~
+
+### Elemental Burst: II
+
+Share in my knowledge.
+
+### Elemental Burst: III
+
+The Temple of Wisdom.
+
+### Opening Treasure Chest: I
+
+Curiosity deserves a reward.
+
+### Opening Treasure Chest: II
+
+I wonder who this gift could be from.
+
+### Opening Treasure Chest: III
+
+Find anything you like?
+
+### Low HP: I
+
+Let's change tactics.
+
+### Low HP: II
+
+Stop fighting!
+
+### Low HP: III
+
+This was unwise...
+
+### Ally at Low HP: I
+
+Let me put my mind to it.
+
+### Ally at Low HP: II
+
+Don't bite off more than you can chew.
+
+### Fallen: I
+
+No life... lasts forever...
+
+### Fallen: II
+
+I'm... withering...
+
+### Fallen: III
+
+I don't... understand...
+
+### Heavy Hit Taken: I
+
+That really hurt...
+
+### Heavy Hit Taken: II
+
+I'm seeing stars...
+
+### Joining Party: I
+
+I've been waiting for you for ages.
+
+### Joining Party: II
+
+There are still so many places for us to explore.
+
+### Joining Party: III
+
+Time to broaden our horizons again.
+
+### About Furina
+
+People often say that wisdom isn't about what you know, but knowing what you can change. It is beyond question that the "prophecy" was carved into Irminsul long ago... and while it may look like nothing has changed, it also seems like everything has. I think we both know her to be smart enough to turn the fate of the world around.
+
+### About Haborym
+
+The Abyss manifests its power in a manner that is most devastating to the place in question. In Sumeru, it was forbidden knowledge. In Natlan, it was monstrous creatures. Our experience combatting the Abyss is inapplicable to Natlan for that very reason, but I still regret that I was unable to offer aid. Thankfully, the crisis has now been resolved, and Mavuika said many Natlanese are planning to visit Sumeru. I plan to welcome them with open arms!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+初次见面，我已经关注你很久了。我叫纳西妲，别看我像个孩子，我比任何一位大人都了解这个世界。所以，我可以用我的知识，换取你路上的见闻吗？
+
+### 闲聊·邀请
+
+不知道干什么的话，要不要我带你去转转呀？
+
+### 闲聊·心事
+
+又有心事吗？我来陪你一起想吧。
+
+### 闲聊·感受
+
+果然要亲眼去看，才能感受到世界的美。
+
+### 下雨的时候…
+
+快去避雨吧，小心头顶上长出蘑菇哦。
+
+### 打雷的时候…
+
+你知道吗？雷鸣是生命的前奏，很快这片大地就会充满生机。
+
+### 下雪的时候…
+
+听见了吗？天空正对万物轻语：「睡觉时间到了哦。」
+
+### 阳光很好…
+
+天气真好啊，暖洋洋的，我们的身边马上也要热闹起来了。
+
+### 起风的时候…
+
+宫殿里可不会起风呢…哦，抱歉，对你来说是理所当然的知识吧。
+
+### 早上好…
+
+早上好，我们赶快出发吧，这世上有太多的东西都是「过时不候」的呢。
+
+### 中午好…
+
+午休时间到，我想喝树莓薄荷饮。用两个和太阳有关的故事和你换，好不好？
+
+### 晚上好…
+
+太阳落山啦，我们也该把舞台让给夜行的大家族了。
+
+### 晚安…
+
+快去睡吧，放心，我已经为你准备好甜甜的梦啦。
+
+### 关于纳西妲自己·见识
+
+烬寂海啊，那里什么都没有，就像蕈猪的脑子一样空空如也，我当然知道。啊？我…我确实没有亲眼见过，那也是我所触及不到的地方呀。
+
+### 关于纳西妲自己·痴迷
+
+神明只送给人类填饱肚子的知识，人类却借此制作了工具，书写了文字，壮大了城邦，现在又放眼星辰与深渊…他们每时每刻都在创造全新的「知识」，也令我再也无法移开双眼。
+
+### 关于我们·故事会
+
+你旅途中的见闻，比我学习到的知识要精彩太多，而且我还能随时提问，把所有的细节都了解到一清二楚…真是太满足了。好了好了，别浪费时间，我们快继续吧。
+
+### 关于我们·旅行
+
+我早就不满足于当一个听众了，一直都想出去看看。你冒险经验这么丰富，当我的向导好不好啊？你之后所有的故事，我都想亲身感受。
+
+### 关于「神之眼」…
+
+天空长出眼睛是为了见证大地的美好，而本来就拥有双眼的人类，是在什么样的情况下，才需要靠「神之眼」观察这个世界呢？这个问题的答案，聪明的你能够明白吗？
+
+### 有什么想要分享…
+
+很多时候，我们直到经受切肤之痛，才不得不直视自身的懒惰，愚昧，鲁莽或傲慢。但大可不必为此懊悔，我们无法观测未来的所有可能性，只能靠这样略显笨拙的方式获取知识。学费而已，再正常不过啦。
+
+### 感兴趣的见闻·未见之花
+
+须弥的沙漠看上去比雨林缺乏生机，但它也承载了久远的文明，孕育了稳定的生态。等哪天它不再和雨林吵架了，一定能开出我从来没见过的花吧。
+
+### 关于赛诺·笑话
+
+他讲的笑话确实深奥，还挺有意思的。嗯？你有哪句没听懂吗？那我解释给你听吧。
+
+### 关于赛诺·职责
+
+在面对秩序与正义的冲突之时，不是每一位「大风纪官」都能得出绝对坚定的答案。他应该最清楚，妥协的结果只有无路可退，所以他现在能回到属于他的位置上，对整个须弥而言都是一大幸事。
+
+### 关于提纳里…
+
+雨林能够对抗「死域」的侵蚀，至今都生机焕发，巡林官们的付出举足轻重，而提纳里又是他们之中的佼佼者。只是…希望他可以稍稍温柔一些，这样才更有利于巡林员招新纳贤嘛。
+
+### 关于柯莱…
+
+我听说过她的故事，她的坚韧如宝石般璀璨夺目。她经历了太多，希望须弥的葱绿能够长久地庇护她，令她像普通的女孩子那样健康成长。
+
+### 关于艾尔海森…
+
+他拥有很超前的知识体系，并且每时每刻都在保持思考，或许这个世界上没有什么事能瞒过他吧。然而对智慧者而言，普通人的凡庸是一种与生俱来的错吗？那都是「我们」不可分割的一部分。
+
+### 关于妮露…
+
+我曾经借用别人的身体，问她想不想让小吉祥草王来看她的舞蹈…虽然我已经悄悄看了很多次，但按理来说，应该要我本人到场，才算是对她「花神诞祭」表演的尊重。结果我却被委婉地拒绝了…唔，有点伤心。
+
+### 关于多莉…
+
+她见到我的第一句话就是，「我看上了你的宫殿，怎么卖啊？」净善宫怎么可能卖给她呢？不过她的问题确实把我问住了，我想了好久，也不知道净善宫该定价多少摩拉…
+
+### 关于卡维…
+
+他对须弥推行智慧这一事的理解，已经非常接近本质了，很可惜的是，他掌握的真相无法成为这个国度的主流。什么？你说他和艾尔海森是室友？世上居然还有这种可能性…
+
+### 关于珐露珊…
+
+她的身体遭受了赤王遗迹中残留力量的影响，就像是被时间这只大乌龟不小心甩下了背，永远忘在了身后。如果你感兴趣的话，应该能从她身上窥见过去须弥的一角吧。
+
+### 关于尘世七执政·引荐
+
+好像尘世七执政之间在很久很久以前还会定期联络，只是我的情况比较特殊，已经不记得这段经历了…既然须弥的混乱告一段落，我觉得我该重新见他们一面。你熟识的那几位神明，能为我引荐一下吗？
+
+### 关于尘世七执政·游戏
+
+听说玩游戏能够快速缩短人与人之间的距离。神也是如此吧。不如，在和大家相聚之后，我就主动提议一起玩「跳房子」…好像也不合适。弄得像是我把房门做成了小小的洞口，仗着自己的优势欺负大家一样。
+
+### 关于散兵…
+
+当他自认为追寻已久的愿望终于实现，他眼中所见的究竟是满足，还是更大的空虚呢？正是因为我们不会飞，才会无比向往天空…让他好好想想吧，在拥抱过空无一物的天空之后。
+
+### 想要了解纳西妲·其一
+
+我的过往相当单调，估计你听上一会儿就会像炮鲀吸水那样打哈欠。不过好奇心是弥足珍贵的东西，我也不想浪费…既然这样，我给你分享一些我做过的梦吧。
+
+### 想要了解纳西妲·其二
+
+我的梦中总会出现一个花盆，每次浇水施肥就会长出相同的花。对于完全确定的收获，你还能享受养花的过程吗？呵呵，对我来说，至少每次开花之后飞过的蝴蝶，都有不一样的颜色，有时候还会有蜜蜂呢。
+
+### 想要了解纳西妲·其三
+
+我的梦中总会出现一个沙漏，我喜欢往里面加一点点水，搅匀之后看它走完一次需要多长时间，和上一次又差了多少。没有规律，也没有意义，却能带走我大脑积累的疲惫，我想「什么都没有」正是它的乐趣所在。
+
+### 想要了解纳西妲·其四
+
+我的梦中总会出现一片空地，无论周遭的景色如何变化，它都会占据最重要的位置，挺奇怪的吧？我觉得这里曾经应该存在过什么东西，可就算我驱使梦境的权能也无法获得答案。唔，居然梦中也有我不能掌控的东西…
+
+### 想要了解纳西妲·其五
+
+我的梦中什么都有，唯独缺少来来往往的人。但在与你相遇之后，这里渐渐变得热闹了。或许你在梦中扮演的是「向导」这样的角色，不仅让我的梦变得更有人情味，也带我走出了牢笼。呵呵，走吧，接下来的旅途也请你引路了。
+
+### 纳西妲的爱好…
+
+就这么看着你，算是爱好吗？因为你的一举一动都让我很好奇啊。作为世界的旅行者，你从哪里来，将到哪里去，会遇到什么人，战胜什么困难，都是我想寻求的答案。你不用太在意我，就让我一直观察你吧。
+
+### 纳西妲的烦恼…
+
+我自认为我擅长提问和回答问题，但我渐渐明白，有很多人是揣着明白装糊涂，问题的答案并不能帮上他们的忙。是不是随着年龄增长，大家都会失去面对质问和答案的勇气呢…
+
+### 喜欢的食物…
+
+当然是枣椰蜜糖了，只要吃上一小块，大脑就会噼里啪啦地飞速运转，没什么问题解决不了。唯一需要注意的是，装蜜糖的罐子不能放在太容易伸手够到的地方。
+
+### 讨厌的食物…
+
+那些海鲜，它们在无边无际的黑暗中出生，成长在我所不了解的海底深处。要我吃下它们，就好像要我咽下一团脏兮兮的乌云一样。
+
+### 收到赠礼·其一
+
+像这样的好味道，应该被世界永久记录下来。谢谢你。
+
+### 收到赠礼·其二
+
+呵呵，你的心意我收到了，味道也可圈可点。
+
+### 收到赠礼·其三
+
+…怎么说呢？打比方的话，你不会给狗狗喝蔬菜汁吧？
+
+### 生日…
+
+我想了想，要庆祝你的生日，至少也要像「花神诞祭」一样隆重…欸？太夸张了吗？可是我都让人准备好了，走吧走吧，仅限一次也好，绝对会让你满意的！
+
+### 突破的感受·起
+
+变聪明啦~
+
+### 突破的感受·承
+
+思路变得更开阔了，天空和大海都能装进去。
+
+### 突破的感受·转
+
+这种感觉，就像月莲找到了莲叶，珊瑚真珠找到了贝壳。
+
+### 突破的感受·合
+
+感谢你愿意让我成为你的同伴，还教会了我那么多新的知识。我以智慧之神的名义为你赐福，从今往后不再会有困惑阻碍你的旅途。
+
+### 元素战技·其一
+
+记住你了。
+
+### 元素战技·其二
+
+蔓延吧。
+
+### 元素战技·其三
+
+等下有点痛哦。
+
+### 元素战技·其四
+
+嘿！
+
+### 元素战技·其五
+
+手牵手~
+
+### 元素战技·其六
+
+全都看见咯。
+
+### 元素爆发·其一
+
+来我家做客吧~
+
+### 元素爆发·其二
+
+知识，与你分享。
+
+### 元素爆发·其三
+
+此即智慧之殿堂。
+
+### 打开宝箱·其一
+
+好奇心值得嘉奖哦。
+
+### 打开宝箱·其二
+
+是源自谁的馈赠呢？
+
+### 打开宝箱·其三
+
+有你想要的吗？
+
+### 生命值低·其一
+
+换个策略吧。
+
+### 生命值低·其二
+
+别打啦！
+
+### 生命值低·其三
+
+这样不太明智…
+
+### 同伴生命值低·其一
+
+让我来想想办法。
+
+### 同伴生命值低·其二
+
+别再硬撑了。
+
+### 倒下·其一
+
+生命…终有尽时…
+
+### 倒下·其二
+
+枯萎之刻…
+
+### 倒下·其三
+
+我…不明白…
+
+### 重受击·其一
+
+好痛啊。
+
+### 重受击·其二
+
+被打晕了…
+
+### 加入队伍·其一
+
+我等你好久啦。
+
+### 加入队伍·其二
+
+没去过的地方还有很多呢。
+
+### 加入队伍·其三
+
+又可以增长见识了。
+
+### 关于芙宁娜…
+
+人们常说，智慧并不取决于知道些什么，而是取决于可以改变些什么。毫无疑问，那个「预言」早就刻写在了世界树中…明明好像一切都没改变一样，但又好像什么都已经改变了。你我都知道，她是聪明到可以扭转世界命运的人呀。
+
+### 关于赫布里穆…
+
+深渊会以最致命的形态在提瓦特显化，在须弥是「禁忌知识」，在纳塔则是魔物，正因如此，须弥的诸多经验也无法帮助到她，对此我有些愧疚。所幸现在危机已经化解，她说会有很多纳塔人到须弥游玩，我很欢迎他们，而且已经做好准备啦。

@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 70074
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10189
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
@@ -25,10 +25,17 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 70074
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 100
 
 ## RU
 
 ### Пустой кубок и пустые страницы нужно заполнить историями
+
+#### Журнал
+
+**Варка:** И вот я там, в тёмном-тёмном подзетавернамелье, сражаюсь с самыми свирепыми и жестокими чудовПринцищами, которых только видел...
 
 «Уроки ведьм» появились благодаря договору Варки с ведьмами, а «задание», подготовленное для самого Варки...
 
@@ -38,21 +45,27 @@
 
 **Паймон:** Хм... Варка, Варка... Э? Как так?.. Совсем пусто?
 
-Может, спросить у него самого?
+- **Путешественник:** Может, спросить у него самого?
 
 **Паймон:** Хорошая мысль... Зная его характер, мы должны для начала проверить все местные таверны и рестораны...
 
 **Варка:** ...И здесь нет? Похоже, придётся разбираться самому.
 
-Лёгок на помине!
+- **Путешественник:** Лёгок на помине!
 
 **Паймон:** Привет, Варка! Мы хотели спросить о твоём задании...
 
 **Варка:** О? Почётный рыцарь и Паймон! Моё задание?.. О чём это вы?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ведьмин шабаш подготовил всем уроки...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Но про тебя ничего не написано.
+
+##### Общее продолжение
 
 **Варка:** Задание... уроки... А, кажется, Алиса действительно что-то такое упоминала?
 
@@ -60,9 +73,15 @@
 
 **Варка:** ...Хм, вероятно, потому что моё задание слишком значительно для их книжонки.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Теперь мне стало интересно.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Слишком значительно?
+
+##### Общее продолжение
 
 **Варка:** Моё задание... создать лучший напиток во всём Тейвате.
 
@@ -72,7 +91,7 @@
 
 **Варка:** И вот я там, в тёмном-тёмном подземелье, сражаюсь с самыми свирепыми и жестокими чудовищами, которых только видел...
 
-Ты серьёзно?
+- **Путешественник:** Ты серьёзно?
 
 **Варка:** И теперь нам не хватает всего трёх особых ингредиентов! Почëтный рыцарь, Паймон, не могли бы вы мне помочь?
 
@@ -96,17 +115,15 @@
 
 **Айлин:** Вы и так уже сильны, но всё равно стремитесь к совершенству... Пожалуйста, тренируйтесь! А я постою в сторонке, буду наблюдать и делать заметки!
 
-#### Направляйтесь на тренировочную площадку ордена
+**Айлин:** Тренировочная площадка в вашем распоряжении! Возможность своими глазами увидеть двух лучших мастеров в действии... Какая удача!
 
-Готов(а).
+#### Направляйтесь на тренировочную площадку ордена
 
 #### Разбейте все тренировочные чучела за отведённое время
 
-**Айлин:** Тренировочная площадка в вашем распоряжении! Возможность своими глазами увидеть двух лучших мастеров в действии... Какая удача!
+#### Разбейте все тренировочные чучела за отведённое время
 
 #### Победите специальные чучела
-
-**Диона:** А? Этот пьяница-дядька... С ним ничего не случится, правда?
 
 #### Поговорите с Варкой
 
@@ -128,9 +145,15 @@
 
 **Тимми:** Т-так точно! Я всегда помню ваши слова: чтобы вырасти большим и сильным, нужно хорошо есть и много тренироваться!
 
+##### Вариант ответа 1
+
 - **Путешественник:** У парня...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...настроение поменялось в мгновение ока!
+
+##### Общее продолжение
 
 **Паймон:** Ничего не поделаешь... Паймон думает, что в этом городе нет ни одного ребёнка, который не восхищался бы живой легендой рыцарей Ордо Фавониус, верно?
 
@@ -152,23 +175,21 @@
 
 **Варка:** Здесь есть голубиные следы. Давай подождём тут.
 
-**Варка:** Когда голуби появятся, тихо подойди к ним и брось корм... Главное - не напугай их, хорошо? Ты готов(а)?
+**Варка:** Когда голуби появятся, тихо подойди к ним и брось корм... Главное - не напугай их, хорошо? Ты готов? / Когда голуби появятся, тихо подойди к ним и брось корм... Главное - не напугай их, хорошо? Ты готова?
 
 #### Отправляйтесь к месту появления голубей
 
-Подожди немного...
-
-Я готов(а).
-
-#### Тихо приблизьтесь к голубям
-
-Подожди немного...
-
-#### Тихо приблизьтесь к голубям
-
 **Варка:** Здесь есть голубиные следы. Давай подождём тут.
 
-**Варка:** Когда голуби появятся, тихо подойди к ним и брось корм... Главное - не напугай их, хорошо? Ты готов(а)?
+**Варка:** Когда голуби появятся, тихо подойди к ним и брось корм... Главное - не напугай их, хорошо? Ты готов? / Когда голуби появятся, тихо подойди к ним и брось корм... Главное - не напугай их, хорошо? Ты готова?
+
+- **Путешественник:** Я готов. / Я готова.
+
+#### Тихо приблизьтесь к голубям
+
+#### Тихо приблизьтесь к голубям
+
+#### Тихо приблизьтесь к голубям
 
 #### Поговорите с Варкой
 
@@ -184,13 +205,19 @@
 
 **Паймон:** Эй, постой! Вот это энтузиазм... Он сорвался с места быстрее, чем стая спугнутых голубей...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Классический пример, когда говорят «неудержимый как ветер»...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Он явно не может дождаться, когда начнётся дегустация.
 
+##### Общее продолжение
+
 **Диона:** Да уж, выпить он не дурак!
 
-А? Кто здесь?
+- **Путешественник:** А? Кто здесь?
 
 **Диона:** ...Ах!
 
@@ -200,43 +227,55 @@
 
 **Диона:** Он в последнее время не отстаёт от меня, хочет, чтобы я ему снова приготовила тот коктейль... Пф, надоел уже, вот и приходится от него прятаться...
 
-О каком напитке речь?
+- **Путешественник:** О каком напитке речь?
 
 **Диона:** Ну, ты же в курсе, что он недавно вернулся с частью экспедиционного отряда? Вот, и практически в первую очередь пришёл с соратниками в «Кошкин хвост» отмечать победу...
 
 **Паймон:** «Кошкин хвост»? Паймон думала, что они будут отмечать в штаб-квартире Ордо Фавониус...
 
-Мне всегда казалось, что Варке больше по вкусу «Доля ангелов»...
+- **Путешественник:** Мне всегда казалось, что Варке больше по вкусу «Доля ангелов»...
 
 **Диона:** Уф... поэтому я и сказала «практически». «Кошкин хвост» был третьим по счёту заведением - они решили обойти все таверны в городе и выпить в каждой.
 
 **Паймон:** ...И Паймон уверена, что они повторят всё это снова, когда в следующий раз домой вернётся очередная группа их сослуживцев.
 
-Не сомневаюсь.
+- **Путешественник:** Не сомневаюсь.
 
 **Диона:** Короче говоря, я больше не могла выносить вид этих пьяных дядек! И я поставила себе цель - приготовить им самые отвратительные, тошнотворные напитки во всём Тейвате...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Но, Диона...
 
+##### Вариант ответа 2
+
 - **Путешественник:** У тебя же не получится сделать невкусно, даже если ты захочешь.
+
+##### Общее продолжение
 
 **Диона:** Ага, поэтому сначала я попросила Принца смешать напитки... Кто же знал, что эта пьяная компания начнёт гладить его, как только напьётся.
 
 **Диона:** ...Так что Принц сбежал, даже не доделав коктейль. Зато он поцарапал того пьяницу-дядьку!
 
-(А-а, так вот откуда у Варки шрам...)
+- **Путешественник:** (А-а, так вот откуда у Варки шрам...)
 
-**Варка:** И вот я там, в тёмном-тёмном подзетавернамелье, сражаюсь с самыми свирепыми и жестокими чудовПринцищами, которых только видел...
+**Варка:** И вот я там, в тёмном-тёмном подзе(таверне)мелье, сражаюсь с самыми свирепыми и жестокими чудов(Принцем)ищами, которых только видел...
 
 **Диона:** ...Я смотрела на почти готовый напиток, в одном шаге от завершения...
 
-В итоге я всё-таки сама доделала его...
+- **Путешественник:** В итоге я всё-таки сама доделала его...
 
 **Диона:** Ага...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Позволь спросить из любопытства...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...что ты туда добавила?
+
+##### Общее продолжение
 
 **Диона:** Эм... Несколько щепок с одежды рыцарей, голубиные пёрышки, которые я подобрала в лесу...
 
@@ -244,11 +283,19 @@
 
 **Паймон:** Говоришь, всё это случилось вскоре после возвращения Варки, верно? Значит, выходит...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Никто ещё не рассказал ему, что...
+
+##### Вариант ответа 2
 
 - **Путешественник:** ...только Диона способна смешать из этого вкусный напиток!
 
+##### Общее продолжение
+
 **Паймон:** Ох... Быстрее, надо остановить его!
+
+**Диона:** А? Этот пьяница-дядька... С ним ничего не случится, правда?
 
 #### Направляйтесь в ущелье Дадаупа
 
@@ -260,9 +307,15 @@
 
 **Элла Маск:** Самое странное - они почти не разговаривали. Неужели магистр ордена освоил неизвестный мне язык жестов хиличурлов?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не думаю, что это можно назвать общением...
 
+##### Вариант ответа 2
+
 - **Путешественник:** По крайней мере, не явно, словами или жестами...
+
+##### Общее продолжение
 
 **Паймон:** Да не в этом же дело! Где вообще сейчас Варка?!
 
@@ -270,17 +323,17 @@
 
 **Варка:** Наконец-то... Готово! Лучший напиток во всём Тейвате! Прямо сейчас в моих руках!
 
-Варка...
+- **Путешественник:** Варка...
 
 **Варка:** О? Вы наконец-то пришли? Хиличурлы оказались на удивление сговорчивыми, так что всё проще, чем я ожидал.
 
 **Варка:** А теперь - время дегустации!
 
-Не пей, подожди!
+- **Путешественник:** Не пей, подожди!
 
-**Варка:** Хм? Хочешь попробовать первым / первой? Хе-хе, мечтай, малыш... Честь первого глотка принадлежит мне!
+**Варка:** Хм? Хочешь попробовать первым? Хе-хе, мечтай, малыш... Честь первого глотка принадлежит мне! / Хм? Хочешь попробовать первой? Хе-хе, мечтай, малыш... Честь первого глотка принадлежит мне!
 
-Нет, я не...
+- **Путешественник:** Нет, я не...
 
 **Варка:** Не волнуйся! Я оставлю тебе немного!
 
@@ -290,9 +343,15 @@
 
 **Паймон:** Варка! Ты в порядке? Варка? Ва-а-арка-а-а-а!!!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Магистр!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Приди в себя, давай же!
+
+##### Общее продолжение
 
 **Паймон:** Эй! Ты же победил божество, а теперь умрёшь здесь?!
 
@@ -300,9 +359,15 @@
 
 **Варка:** ...На мгновение мне показалось, что я увидел всех прошлых Рыцарей Бореалис...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не знаю даже, ругать тебя за то, что так получилось...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...или восхищаться тем, что ты ещё жив?
+
+##### Общее продолжение
 
 **Варка:** Дай мне переварить всё это... и напиток, и горький урок.
 
@@ -317,29 +382,49 @@
 
 **Варка:** А сейчас... вы ведь пить уже не захотите, верно?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Думаю, нет.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Здесь уже речь не о смелости, а о безрассудстве.
+
+##### Общее продолжение
 
 **Варка:** Хм... Что ж, я у вас в долгу! Что, если я угощу вас в «Хорошем охотнике», когда вернёмся?
 
 **Паймон:** Вот это другое дело!
 
-На тебя легко повлиять...
+- **Путешественник:** На тебя легко повлиять...
 
-**Паймон:** Ой, да ладно! Ты же видел(а), в каком он состоянии был после того глотка. Паймон уверена, что он уже сам всё понял!
+**Паймон:** Ой, да ладно! Ты же видел, в каком он состоянии был после того глотка. Паймон уверена, что он уже сам всё понял! / Ой, да ладно! Ты же видела, в каком он состоянии был после того глотка. Паймон уверена, что он уже сам всё понял!
 
 **Варка:** Эх... Пожалуй, мне некого винить, кроме самого себя, да...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вернёмся к вопросу про твой урок...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Почему о нём ничего не написано?
+
+##### Общее продолжение
 
 **Варка:** Ха-ха! Планировал я эту историю за кружкой в таверне поведать, а придётся здесь, под открытым небом
 
 **Варка:** ...Так вы раздаёте задания всем в Мондштадте, да? Интересная идея... И мне положено какое-то задание?
 
 **Алиса:** Хе-хе, твоим заданием было «изменить судьбу, отражённую в чаше для гадания». Но ты с этим справился уже довольно давно - в тот самый момент, когда решил отправиться в экспедицию.
+
+- **Путешественник:** Готов. / Готова.
+
+- **Путешественник:** Подожди немного...
+
+- **Путешественник:** Подожди немного...
+
+Айлин выносит новые чучела...
 
 ## EN
 
@@ -353,21 +438,27 @@ Witch's Homework was born from discussions between Varka and the witches. The ta
 
 **Paimon:** Let's see... Varka, Varka... Wait, why's it blank?
 
-Why don't we just go ask him ourselves?
+- **Traveler:** Why don't we just go ask him ourselves?
 
 **Paimon:** Good point... Well, knowing what he's like, we'd better start by checking all the local taverns and restaurants...
 
 **Varka:** ...Still not here, huh? Looks like I'll have to figure this out on my own.
 
-Speak of the devil, huh?
+- **Traveler:** Speak of the devil, huh?
 
 **Paimon:** Hey, Varka! We wanted to ask you about your "task"...
 
 **Varka:** Oh, hey there, Honorary Knight and Paimon! My "task"...? What's all this about?
 
+##### Response branch 1
+
 - **Traveler:** The Hexenzirkel have set tasks for everyone...
 
+##### Response branch 2
+
 - **Traveler:** But yours seems to be blank.
+
+##### Shared continuation
 
 **Varka:** Now that you mention it, I'm pretty sure Alice did tell me something about that... I think?
 
@@ -375,9 +466,15 @@ Speak of the devil, huh?
 
 **Varka:** ...If I had to take a wild guess, probably 'cause it'd be too much for that little book of theirs to handle.
 
+##### Response branch 1
+
 - **Traveler:** Now I'm listening.
 
+##### Response branch 2
+
 - **Traveler:** How "much" are we talking?
+
+##### Shared continuation
 
 **Varka:** My task... is to make the finest wine Teyvat has ever seen.
 
@@ -387,7 +484,7 @@ Speak of the devil, huh?
 
 **Varka:** There I was, venturing into a deep, dark Domain, battling some of the fiercest, most vicious monsters I've ever seen...
 
-Seriously...?
+- **Traveler:** Seriously...?
 
 **Varka:** Now we're just three special ingredients short of finishing this thing! Honorary Knight, Paimon, would you be willing to lend me a hand?
 
@@ -411,17 +508,15 @@ Seriously...?
 
 **Ellin:** You're already so skilled, yet you still strive for perfection... Please, train however you like! I'll be taking notes from the side!
 
-#### Go to the Knights of Favonius training ground
+**Ellin:** The training ground's all yours. Oh, to witness a pair of top masters in action... What luck!
 
-We're ready.
+#### Go to the Knights of Favonius training ground
 
 #### Destroy all the training dummies within the time limit
 
-**Ellin:** The training ground's all yours. Oh, to witness a pair of top masters in action... What luck!
+#### Destroy all the training dummies within the time limit
 
 #### Defeat the special training dummies
-
-**Diona:** The old boozebrain will be okay, though, won't he?
 
 #### Talk to Varka
 
@@ -443,9 +538,15 @@ We're ready.
 
 **Timmie:** Y—Yes Sir! I always remember what you told me — that I've gotta eat well and exercise hard if I wanna grow up big and strong!
 
+##### Response branch 1
+
 - **Traveler:** This kid's attitude...
 
+##### Response branch 2
+
 - **Traveler:** It changed in a heartbeat!
+
+##### Shared continuation
 
 **Paimon:** Well, guess that's the Varka effect... Honestly, Paimon would be shocked if there was a single kid in this city who didn't look up to our "living legend" over here!
 
@@ -471,19 +572,17 @@ We're ready.
 
 #### Go to where the pigeons gather
 
-Give me a moment...
-
-We're ready.
-
-#### Quietly approach the pigeons
-
-Give me a moment...
-
-#### Quietly approach the pigeons
-
 **Varka:** Looks like we've got ourselves some pigeon tracks. Let's wait here.
 
 **Varka:** When they appear, walk up to them quietly and scatter the feed... but make sure not to hurt them. Ready?
+
+- **Traveler:** We're ready.
+
+#### Quietly approach the pigeons
+
+#### Quietly approach the pigeons
+
+#### Quietly approach the pigeons
 
 #### Talk to Varka
 
@@ -499,13 +598,19 @@ Give me a moment...
 
 **Paimon:** Hey, wait a—! Geez, talk about excited... That guy just took off faster than a flock of flustered pigeons...
 
+##### Response branch 1
+
 - **Traveler:** Classic "free as the wind" mentality...
+
+##### Response branch 2
 
 - **Traveler:** Bet he can barely wait for the drinks to start flowing.
 
+##### Shared continuation
+
 **Diona:** ...That old boozehound!
 
-Hmm? Who's there?
+- **Traveler:** Hmm? Who's there?
 
 **Diona:** Ah!
 
@@ -515,43 +620,55 @@ Hmm? Who's there?
 
 **Diona:** Ugh, he's been bugging me non-stop lately, trying to talk me into making him some drink again. I got so sick of it that I've been avoiding him whenever I can...
 
-What's the story behind this drink, then?
+- **Traveler:** What's the story behind this drink, then?
 
 **Diona:** So, you know how he returned recently with some of the expeditionary force, right? Well, guess what? Practically the first thing he did was swing by The Cat's Tail for a celebratory "drink or two"...
 
 **Paimon:** Seriously? Paimon thought they'd have just stayed back at the Knights of Favonius headquarters...
 
-Always had Varka down as more of an Angel's Share kinda guy myself...
+- **Traveler:** Always had Varka down as more of an Angel's Share kinda guy myself...
 
 **Diona:** Ugh... Hence why I said "practically." They did all that, and more! The Cat's Tail was round three of a citywide tavern crawl...
 
 **Paimon:** ...And Paimon bets they'll do it all over again the next time another batch of troops returns home.
 
-No doubt about that.
+- **Traveler:** No doubt about that.
 
 **Diona:** Anyhoo, long story short, I couldn't bear the sight of those drunk old skunks for even one second longer! So I made it my mission to mix 'em the most disgusting, nauseating drinks in all of Teyvat...
 
+##### Response branch 1
+
 - **Traveler:** But, Diona...
 
+##### Response branch 2
+
 - **Traveler:** You couldn't make a bad drink even if you tried.
+
+##### Shared continuation
 
 **Diona:** Yeah... So that's why I tried to get Prince to mix the drinks instead. Ugh, if only those drunkards hadn't started messin' with his meowjo...
 
 **Diona:** ...In the end, Prince ran off before he could finish. 'Least he gave that old boozer a nice big scratch on the way out! Hahahaha!
 
-(Ahh, so that's how Varka got his scar...)
+- **Traveler:** (Ahh, so that's how Varka got his scar...)
 
-**Varka:** There I was, venturing into a deep, dark Domtavernain, battling some of the fiercest, most vicious monsPrinceters I've ever seen...
+**Varka:** There I was, venturing into a deep, dark Dom(tavern)ain, battling some of the fiercest, most vicious mons(Prince)ters I've ever seen...
 
 **Diona:** Anyway, it was right there in front of me, one small step away from completion...
 
-...So you applied the finishing touches yourself?
+- **Traveler:** ...So you applied the finishing touches yourself?
 
 **Diona:** Yeah.
 
+##### Response branch 1
+
 - **Traveler:** Just out of curiosity, let me ask one more thing...
 
+##### Response branch 2
+
 - **Traveler:** What did you put in there?
+
+##### Shared continuation
 
 **Diona:** Um... Some wood chips I noticed on the knights' clothes, some pigeon feathers I picked up in the forest...
 
@@ -559,11 +676,19 @@ No doubt about that.
 
 **Paimon:** Wait a sec... You said this all happened not long after Varka first got back, right? That must mean...
 
+##### Response branch 1
+
 - **Traveler:** No one's told him...
+
+##### Response branch 2
 
 - **Traveler:** ...That only Diona herself could make such an awful recipe taste good!
 
+##### Shared continuation
+
 **Paimon:** Uh-oh, this could be bad! We've gotta go stop him before it's too late!
+
+**Diona:** The old boozebrain will be okay, though, won't he?
 
 #### Go to Dadaupa Gorge
 
@@ -575,9 +700,15 @@ No doubt about that.
 
 **Ella Musk:** The weirdest thing was, they barely exchanged any words at all. I just don't understand how it all went so smoothly... Could the Grand Master know some hilichurl body language that I'm unaware of?
 
+##### Response branch 1
+
 - **Traveler:** I don't think that was "communication"...
 
+##### Response branch 2
+
 - **Traveler:** At least, not in any recognizable language — body or otherwise...
+
+##### Shared continuation
 
 **Paimon:** Ugh, that's not the point here! Anyway, where is he now?
 
@@ -585,17 +716,17 @@ No doubt about that.
 
 **Varka:** Finally, it's done! The finest wine in all of Teyvat... Right here, in my hands!
 
-Varka! Don't—
+- **Traveler:** Varka! Don't—
 
 **Varka:** Oh, hey gang — you finally made it! Those hilichurls just now were surprisingly reasonable... Didn't expect this to go half so smoothly, hah.
 
 **Varka:** Anyway, time to find out what this bad boy tastes like!
 
-...Wait, don't drink it!
+- **Traveler:** ...Wait, don't drink it!
 
 **Varka:** Huh? You wanna taste it first? Hehe, dream on, kid... The honor of the first cup's mine!
 
-That's not what I'm—
+- **Traveler:** That's not what I'm—
 
 **Varka:** Don't worry! I'll leave some for ya!
 
@@ -605,9 +736,15 @@ That's not what I'm—
 
 **Paimon:** Varka! Are you okay? Varka? Varkaaa!
 
+##### Response branch 1
+
 - **Traveler:** Grand Master!
 
+##### Response branch 2
+
 - **Traveler:** C'mon dude, get a hold of yourself!
+
+##### Shared continuation
 
 **Paimon:** Come on! You didn't defeat a god just to bite the dust here!
 
@@ -615,9 +752,15 @@ That's not what I'm—
 
 **Varka:** ...For a moment there, I could've sworn I saw all the previous Knights of Boreas standing right here in front of me...
 
+##### Response branch 1
+
 - **Traveler:** I don't know if I should chew you out for ending up like this...
 
+##### Response branch 2
+
 - **Traveler:** Or marvel that you're still standing at all...?
+
+##### Shared continuation
 
 **Varka:** Either way, I need a moment to digest it all... both the drink, and the lesson too.
 
@@ -632,29 +775,49 @@ You give Varka the rundown on Diona's infallible knack for mixing drinks.
 
 **Varka:** But I guess... you probably don't wanna drink it anymore, do you?
 
+##### Response branch 1
+
 - **Traveler:** I think... I'll pass.
 
+##### Response branch 2
+
 - **Traveler:** Not sure if I've got that kinda courage.
+
+##### Shared continuation
 
 **Varka:** Hmm... Well, guess I owe you one! How about this — I'll treat you to a meal at the Good Hunter once we're back.
 
 **Paimon:** Now that's more like it!
 
-You're way too easy to bribe...
+- **Traveler:** You're way too easy to bribe...
 
 **Paimon:** Oh, c'mon! You saw what a state he was in after he downed that cup. Paimon's sure he's learned his lesson!
 
 **Varka:** *sigh* Guess I have no one to blame but myself, huh...
 
+##### Response branch 1
+
 - **Traveler:** Aaaanyway... Back to the subject of your "task."
 
+##### Response branch 2
+
 - **Traveler:** Why is it blank?
+
+##### Shared continuation
 
 **Varka:** Haha, well... I was gonna save that story for the tavern, but I guess the open air will have to do.
 
 **Varka:** ...So you're giving "tasks" to everyone in Mondstadt, huh? Interesting idea... Do I get one, too?
 
 **Alice:** Hah! Well, if you really must know, yours was to "change the fate reflected in the scryglass." But you already did that quite some time ago — the moment you decided to set off on your expedition, to be precise.
+
+- **Traveler:** We're ready.
+
+- **Traveler:** Give me a moment...
+
+- **Traveler:** Give me a moment...
+
+Ellin brings out new wooden dummies...
 
 ## ZH
 
@@ -668,21 +831,27 @@ You're way too easy to bribe...
 
 **派蒙:** 让我来翻翻看…法尔伽法尔伽…咦？怎么是…一行空白？
 
-要不找他自己问问？
+- **旅行者:** 要不找他自己问问？
 
 **派蒙:** 也对…要找他的话，感觉「酒馆」跟「餐馆」之类的地方会比较容易…
 
 **法尔伽:** …还是不在吗？看来只能靠自己想办法了啊。
 
-正说着就出现了！
+- **旅行者:** 正说着就出现了！
 
 **派蒙:** 嘿！法尔伽！我们想来问问关于「课题」的事…
 
 **法尔伽:** 哦？荣誉骑士跟派蒙！课题…？怎么突然问起这个？
 
+##### 对话分支 1
+
 - **旅行者:** 魔女会给大家准备了课题…
 
+##### 对话分支 2
+
 - **旅行者:** 但你的那行好像是空白的？
+
+##### 共同后续
 
 **法尔伽:** 课题…课题…啊，好像还真听艾莉丝讲过这么一回事？
 
@@ -690,9 +859,15 @@ You're way too easy to bribe...
 
 **法尔伽:** …嗯，恐怕是因为我的「课题」，对于那本小册子来说，有些太过沉重了。
 
+##### 对话分支 1
+
 - **旅行者:** 你这么说我倒是感兴趣了。
 
+##### 对话分支 2
+
 - **旅行者:** 有什么课题说来听听？
+
+##### 共同后续
 
 **法尔伽:** ——调出全提瓦特最棒的美酒。
 
@@ -702,7 +877,7 @@ You're way too easy to bribe...
 
 **法尔伽:** 我为它深入了一片混沌的秘境，跟最凶最狠的魔物搏斗…！
 
-真的假的…
+- **旅行者:** 真的假的…
 
 **法尔伽:** 现在距离成功，就差三道特殊的材料了！荣誉骑士，派蒙，你们愿意助我一臂之力吗？
 
@@ -726,17 +901,15 @@ You're way too easy to bribe...
 
 **艾琳:** 明明都已经这么强了，却还在精益求精吗…两位请随意训练吧！我会在旁边做笔记的！
 
-#### 前往骑士团训练场
+**艾琳:** 训练场就交给你们了！能亲眼目睹两位顶尖高手的风采，就算让我再等上三天也值啊！
 
-准备好了。
+#### 前往骑士团训练场
 
 #### 在时限内击破所有木桩
 
-**艾琳:** 训练场就交给你们了！能亲眼目睹两位顶尖高手的风采，就算让我再等上三天也值啊！
+#### 在时限内击破所有木桩
 
 #### 击败特制木桩
-
-**迪奥娜:** 欸？那个酒鬼大叔…不会有事吧？
 
 #### 与法尔伽对话
 
@@ -758,9 +931,15 @@ You're way too easy to bribe...
 
 **提米:** 有…有的！我一直记得您说的！想成为顶天立地的男子汉，就要好好吃饭！好好锻炼！
 
+##### 对话分支 1
+
 - **旅行者:** 这小子的态度…
 
+##### 对话分支 2
+
 - **旅行者:** 跟以前完全不一样！
+
+##### 共同后续
 
 **派蒙:** 没办法…我估计这座城里没有哪个小孩子不崇拜西风骑士团的当代传奇吧？
 
@@ -786,19 +965,17 @@ You're way too easy to bribe...
 
 #### 前往鸽子出没处
 
-再等一会…
-
-准备好了。
-
-#### 悄悄接近鸽子
-
-再等一会…
-
-#### 悄悄接近鸽子
-
 **法尔伽:** 地上好像有鸽子的痕迹？在这里稍微等一会儿吧。
 
 **法尔伽:** 等鸽子出现就静静地走到它们身边，再撒下饲料…千万不要伤害它们哦？你准备好了吗？
+
+- **旅行者:** 准备好了。
+
+#### 悄悄接近鸽子
+
+#### 悄悄接近鸽子
+
+#### 悄悄接近鸽子
 
 #### 与法尔伽对话
 
@@ -814,13 +991,19 @@ You're way too easy to bribe...
 
 **派蒙:** 喂——这家伙，兴致也太高了吧？跑得比飞得还快？
 
+##### 对话分支 1
+
 - **旅行者:** 不愧是像风一样自由的人…
+
+##### 对话分支 2
 
 - **旅行者:** 想喝酒的心情都溢出来了。
 
+##### 共同后续
+
 **迪奥娜:** …那个酒鬼大叔…！
 
-嗯？谁在那里？
+- **旅行者:** 嗯？谁在那里？
 
 **迪奥娜:** …呀！
 
@@ -830,43 +1013,55 @@ You're way too easy to bribe...
 
 **迪奥娜:** 他最近老是缠着我不放，想让我再给他调一次上回的酒…我被烦得不行，就只好到处躲着他了…
 
-上回的酒…是什么情况？
+- **旅行者:** 上回的酒…是什么情况？
 
 **迪奥娜:** 他前阵子不是和一些远征军一起回来了吗？就到猫尾酒馆里喝庆功酒…
 
 **派蒙:** 猫尾酒馆？我还以为会在骑士团里开…
 
-我还以为会去「天使的馈赠」…
+- **旅行者:** 我还以为会去「天使的馈赠」…
 
 **迪奥娜:** 呃…他们全都去了。猫尾酒馆已经是第三轮了——城里所有酒馆他们都打算喝上一轮。
 
 **派蒙:** …我强烈怀疑等下一波远征军回来，他们还能用这借口再喝一轮。
 
-我毫不怀疑。
+- **旅行者:** 我毫不怀疑。
 
 **迪奥娜:** …总之！那帮酒鬼大叔的样子，我实在是看不下去了！就想调杯最难喝最反胃的饮料让他们醒一醒！
 
+##### 对话分支 1
+
 - **旅行者:** 但你的体质不是…
 
+##### 对话分支 2
+
 - **旅行者:** 调什么都会变成美味？
+
+##### 共同后续
 
 **迪奥娜:** 是啊，所以我一开始是让小王子去帮我调的…谁知道那群家伙一喝醉就想逗小王子玩。
 
 **迪奥娜:** …所以小王子没调到最后就跑了，哦，顺便还挠了那个酒鬼大叔一爪子！
 
-（法尔伽说的那道疤…该不会就是…）
+- **旅行者:** （法尔伽说的那道疤…该不会就是…）
 
-**法尔伽:** 我为它深入了一片混沌的秘酒馆境，跟最凶最狠的魔小王子物搏斗…！
+**法尔伽:** 我为它深入了一片混沌的秘(酒馆)境，跟最凶最狠的魔(小王子)物搏斗…！
 
 **迪奥娜:** …我看着差不多调完的饮料，想着就只差那么一点了，是不是…
 
-结果还是亲手完成最后一步了吗…
+- **旅行者:** 结果还是亲手完成最后一步了吗…
 
 **迪奥娜:** 是…
 
+##### 对话分支 1
+
 - **旅行者:** 我再好奇一问…
 
+##### 对话分支 2
+
 - **旅行者:** 你都往里面加了什么？
+
+##### 共同后续
 
 **迪奥娜:** 呃，有骑士们身上沾的木屑、从林子里捡的鸽子羽毛…
 
@@ -874,11 +1069,19 @@ You're way too easy to bribe...
 
 **派蒙:** 旅行者…你说法尔伽他刚回来没多久…会不会…
 
+##### 对话分支 1
+
 - **旅行者:** …还没人告诉过他这些材料…
+
+##### 对话分支 2
 
 - **旅行者:** 只有迪奥娜自己能这么调！
 
+##### 共同后续
+
 **派蒙:** 这家伙…要出大事了！快去阻止他！
+
+**迪奥娜:** 欸？那个酒鬼大叔…不会有事吧？
 
 #### 前往达达乌帕谷
 
@@ -890,9 +1093,15 @@ You're way too easy to bribe...
 
 **艾拉·马斯克:** 明明也没有交流几句，怎么会这么顺利？难道大团长还掌握了我不知道的丘丘人肢体语言？
 
+##### 对话分支 1
+
 - **旅行者:** 我觉得那不算交流…
 
+##### 对话分支 2
+
 - **旅行者:** 起码不是用语言…
+
+##### 共同后续
 
 **派蒙:** ——重点不在这吧喂！法尔伽他现在人呢！
 
@@ -900,17 +1109,17 @@ You're way too easy to bribe...
 
 **法尔伽:** 终于…完成了！全提瓦特最棒的美酒！此时此刻，就在我的手中！
 
-法尔伽——
+- **旅行者:** 法尔伽——
 
 **法尔伽:** 哦？你们可算来了啊？那些丘丘人意外地很通情达理嘛，调酒的进度比想象得要快一点。
 
 **法尔伽:** 现在，就是品鉴之时！
 
-——你先别喝！
+- **旅行者:** ——你先别喝！
 
 **法尔伽:** 嗯？你们是想尝第一杯？哼哼…这第一杯的荣耀我是绝对不会让出去的！
 
-不是这个问题！
+- **旅行者:** 不是这个问题！
 
 **法尔伽:** 放心吧！我会给你们留一点的——
 
@@ -920,9 +1129,15 @@ You're way too easy to bribe...
 
 **派蒙:** 法尔伽！你还好吗？法尔伽？法——尔——伽——！！
 
+##### 对话分支 1
+
 - **旅行者:** ——团长！
 
+##### 对话分支 2
+
 - **旅行者:** 你在干什么啊团长！
+
+##### 共同后续
 
 **派蒙:** 喂！都从魔神嘴里头凯旋了，倒在这种地方算什么啊！
 
@@ -930,9 +1145,15 @@ You're way too easy to bribe...
 
 **法尔伽:** …感觉刚刚有一瞬间，好像看到了历代北风骑士啊…
 
+##### 对话分支 1
+
 - **旅行者:** 该说你怎么能倒在这好…
 
+##### 对话分支 2
+
 - **旅行者:** 还是说你这都能站起来好…
+
+##### 共同后续
 
 **法尔伽:** 让我再消化一下吧…不管是刚才那杯酒也好，还是这个惨痛的教训也好。
 
@@ -947,26 +1168,46 @@ You're way too easy to bribe...
 
 **法尔伽:** 现在么…你们应该不会想喝了吧？
 
+##### 对话分支 1
+
 - **旅行者:** 算了算了。
 
+##### 对话分支 2
+
 - **旅行者:** 怕了怕了。
+
+##### 共同后续
 
 **法尔伽:** 嗯…那这次的酒就当是我欠你们吧，回头去猎鹿人餐馆再请你们一顿。
 
 **派蒙:** ——请客？这还差不多！
 
-你也太好收买了吧…
+- **旅行者:** 你也太好收买了吧…
 
 **派蒙:** 呃…你看他喝了那杯酒难受这么久，也算是尝到教训了嘛？
 
 **法尔伽:** 唉，自作自受啊…
 
+##### 对话分支 1
+
 - **旅行者:** 不过你的空白课题…
 
+##### 对话分支 2
+
 - **旅行者:** 究竟是什么情况？
+
+##### 共同后续
 
 **法尔伽:** 哈哈，本来还想拿来当下酒故事的，现在也只能就着西北风来讲了呀。
 
 **法尔伽:** …给蒙德的大家定制一套「课题」？挺好的点子，能不能给我也来一份？
 
 **艾莉丝:** 呵，你的课题——「改变水占盘里倒映的命运」——在你决定开启远征的时候，就已经完成了呀。
+
+- **旅行者:** 准备好了。
+
+- **旅行者:** 再等一会…
+
+- **旅行者:** 再等一会…
+
+艾琳搬出了新的木桩…

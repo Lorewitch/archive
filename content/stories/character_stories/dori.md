@@ -462,3 +462,904 @@ In the countless days and nights that have followed, she has constantly kept her
 「只有执念是不够的。我会为了想要的东西不停努力，直至耗尽最后一分力气。」
 
 「桑歌玛哈巴依老爷，没有做不到的事。」
+
+# voice_source_ids: 68000,68001,68002,68003,68004,68005,68006,68007,68008,68009,68010,68011,68012,68013,68014,68015,68016,68017,68018,68019,68020,68021,68022,68023,68024,68025,68026,68027,68028,68029,68030,68031,68032,68033,68034,68035,68036,68037,68038,68039,68040,68041,68042,68043,68044,68045,68046,68047,68048,68049,68050,68051,68052,68053,68054,68055,68056,68057,68058,68059,68060,68061,68062,68063,68064,68065,68066,68067,68068,68069,68070,68071,68072,68073
+
+## REPLICAS_RU
+
+### Привет...
+
+Кого я вижу! Да это ведь знаменитый путешественник! Я Дори Сангема-бай, а это мои товары. В честь нашего знакомства только сегодня для тебя действует скидка 10%. Выбирай, а я как следует всё упакую... / Кого я вижу! Да это ведь знаменитая путешественница! Я Дори Сангема-бай, а это мои товары. В честь нашего знакомства только сегодня для тебя действует скидка 10%. Выбирай, а я как следует всё упакую...
+
+### Поболтаем: Мора
+
+Я люблю мору, мора любит меня, ла-ла-ла!
+
+### Поболтаем: Взаимная выгода
+
+Сначала надо поднять цену на треть, а потом сделать скидку 20%. Так и я получаю возможность заработать, и клиенты остаются довольны своей покупкой. Это и есть взаимная выгода.
+
+### Поболтаем: Алчность
+
+Если у вас достаточно моры, вы можете делать всё, что захотите. Вы можете даже нарушить правила Академии.
+
+### Когда идёт дождь...
+
+Нужно укрыться от дождя? Могу предложить совершенно уникальный зонтик, который собирает и очищает дождевую воду. Незаменимая вещь в путешествиях, а стоит всего пятьсот тысяч моры!
+
+### Когда гремит гром...
+
+С такой погодой каравану придётся задержаться. Опять убытки...
+
+### Когда идёт снег...
+
+Па-дам! Представляю твоему вниманию автоматический снежколеп! Нравится, правда? Можешь взять напрокат, сделаю тебе скидку пять процентов!
+
+### Когда светит солнце...
+
+Как же красиво мора сверкает на солнце! Хи-хи.
+
+### Когда дует сильный ветер...
+
+Не может быть! Неужели кто-то станет переходить пустыню в такой ветер? Глупые поганки... Конечно, я могу им помочь... Но это будет стоить минимум в три раза дороже!
+
+### Доброе утро...
+
+Доброе утро! Мне всю ночь снилась мора - милая, кругленькая мора. Значит, сегодня я заработаю огромные деньжищи!
+
+### Добрый день...
+
+Хочешь вздремнуть после обеда? Могу предложить мягчайшую и удобнейшую подушку для спины, повторяющую все изгибы тела. Конечно, качество твоего сна в конечном итоге будет зависеть от того, сколько моры ты выложишь.
+
+### Добрый вечер...
+
+Ночная дорога полна опасностей, но я со своим караваном постоянно в пути, так что для меня это привычное дело!
+
+### Спокойной ночи...
+
+Пора спать? Хи-хи, так и быть, дарю тебе отличный способ уснуть - песенку о море! Десять тысяч моры набилось в кошелёк, двадцать тысяч моры набилось в кошелёк, тридцать тысяч моры набилось в кошелёк, сорок... Хи-хи... Сорок тысяч моры... Хи-хи-хи...
+
+### О Дори: Реклама
+
+Божественный базар Дори, товары на любой вкус, здесь не обманут ни старика, ни ребёнка! Пока у вас есть мора, Дори найдёт вам всё, что только сможете придумать! Расскажите Дори, что вам нужно, расскажите, что вас тревожит, и Дори обязательно поможет!
+
+### О Дори: Кшахревар
+
+Обычно я стараюсь держаться подальше от людей из Академии - с этими их правилами и ограничениями просто невозможно нормально вести торговлю. Но я тебе так скажу: любое правило можно обойти. В Кшахреваре нашлись сообразительные люди, мы с ними подписали кое-какое соглашение. У меня есть мора, у них есть техника и разные диковинки, а ещё они могут поспособствовать тому, чтобы торговля у меня шла более гладко. Хи-хи, великолепная Дори никогда не будет вести дела себе в убыток!
+
+### О нас: Продвижение товаров
+
+Собираешься путешествовать по Сумеру? Пустыни Сумеру полны опасностей, позволь добродетельной Дори тебе помочь! Динь-дон! Набор для странствий по пустыне! Всего пять миллионов моры! Приобрети его прямо сейчас, получишь в подарок Набор для странствий по тропическому лесу! Спеши, предложение ограничено!
+
+### О нас: Как делить мору
+
+Моя мора - это моя собственность, а твоя мора - тоже моя собственность! Хи-хи!
+
+### О нас: Реальная цена
+
+Ладно, ладно, давай начистоту. По отдельности Набор для странствий по пустыне и Набор для странствий по тропическому лесу стоят два с половиной миллиона моры каждый. Но предложение «Купи один набор и получи второй в подарок» выглядит очень привлекательно. Разве нет?
+
+### Глаз Бога...
+
+Ах, мой Глаз Бога так дивно блестит, правда? Я показала тебе такую красоту, наверное, надо за это немного заплатить. Как думаешь?
+
+### Давай поделимся...
+
+Некоторые глупые поганки пробовали брать у меня в долг и не отдавать, хи-хи. Не знали, с кем связались. Угадай, что с ними потом стало?
+
+### Интересные вещи: Общие темы
+
+Если бы хорьки-барахольщики умели разговаривать, у нас нашлось бы множество общих тем. Восхищаюсь их проницательностью! Что больше всего любят люди во всём Тейвате? Сияющую золотом мору, а что же ещё!
+
+### Интересные вещи: Парк вьючных яков
+
+Хочешь посмотреть на вьючного яка? Легко! Найду тебе столько вьючных яков, сколько пожелаешь. Но придётся заплатить за билет, а-ха-ха...
+
+### О Сайно...
+
+Я с ним немного знакома. Ведь одна я во всём Сумеру могу найти всё необходимое для Священного призыва семерых. А это не так-то просто! Оказывается, есть в Академии и такие люди: благородные, с хорошим вкусом и без привычки торговаться.
+
+### О Тигнари...
+
+Он любит науку так же страстно, как я люблю мору. Слышала, он иногда мастерит разные удивительные безделушки, но всё время отговаривается делами и не хочет поставить мне партию на продажу... А мог бы столько моры заработать!
+
+### Об аль-Хайтаме...
+
+Он как-то прощупывал моих подручных. Так что все эти ребята из Академии - косные лицемеры. Зачем мне такой риск? Усёк? / Он как-то прощупывал моих подручных. Так что все эти ребята из Академии - косные лицемеры. Зачем мне такой риск? Усекла?
+
+### О Кавехе...
+
+Один из тех людей в Кшахреваре, с которыми я сотрудничаю. В отличие от остальных умников из Академии, он умеет добиваться своих целей, за что я очень его уважаю. Я по секрету одолжила ему кругленькую сумму на возведение моего дворца Алькасар-сарай. Так что без помощи добродетельной Дори не было бы того Кавеха, которого все мы знаем сегодня.
+
+### О Дэхье...
+
+Иногда я обращаюсь к ней для охраны каравана. Она очень сильная, а просит немного. Весьма выгодная сделка!
+
+### О Властелине Камня...
+
+Когда Властелин Камня ещё не покинул нас, первое, что я делала с утра, это молилась: милый бог богатства, сохрани и приумножь мою мору. Теперь я поняла, что лучше полагаться не на божеств, а на саму себя. Милая Дори, сохрани и приумножь свою мору!
+
+### О малой властительнице Кусанали...
+
+В Сумеру немного последователей малой властительницы Кусанали. А я откуда знаю, почему? Эх, если бы она мне платила, я бы поклонялась ей до конца жизни.
+
+### О Нилу...
+
+Она здорово танцует, но в Сумеру её потенциал никогда не раскроется до конца... Как-то обидно. Слушай, а если мы увезём её отсюда и организуем ей турне по всему Тейвату? Как думаешь, сколько моры это принесёт?
+
+### Об Алисе...
+
+У госпожи Алисы целая пропасть разных диковинок. Скажу без преувеличений: она мой лучший поставщик. Хо-хо, а ведь я раскрыла тебе коммерческую тайну, не хочешь меня немного отблагодарить?
+
+### Узнать больше о Дори I
+
+Хочешь послушать историю? Тогда... С тебя миллион моры. Гм... Ладно, в знак нашей дружбы сделаю тебе однопроцентную скидку, последняя цена - девятьсот девяносто тысяч. Ну как, выгодная сделка?
+
+### Узнать больше о Дори II
+
+Хи-хи, правильный выбор! Ладно, начну свой рассказ!
+Это история об одной девушке, что зарабатывала на жизнь торговлей. Давным-давно она отправилась продавать свой товар и сбилась с пути. И тут на неё напал туманный дэв, он уже разинул пасть, чтобы проглотить девушку, но она взмолилась: «Господин дэв, подожди немного, я расскажу тебе сказку. И если сказка тебе понравится, не ешь меня, умоляю...»
+
+### Узнать больше о Дори III
+
+Туманный дэв согласился. И девушка начала свой рассказ. Когда-то её дела шли из рук вон плохо, и в момент отчаяния она нашла у себя в закромах волшебную лампу. Девушка потёрла лампу, и оттуда выползло облако красного тумана, назвавшееся «Великой и прекрасной Владычицей дэвов». Девушка напомнила Владычице дэвов её собственную дочь, поэтому Владычица согласилась исполнить одно её желание.
+
+### Узнать больше о Дори IV
+
+А о чём ещё могла мечтать та девушка, как не о богатстве? Ведь не зря она занималась торговлей! И она сказала: хочу зарабатывать столько моры, чтобы её нельзя было сосчитать! «Великая и прекрасная Владычица монстров» согласилась и стала поставщиком той девушки. Теперь в её караване появилось множество разных диковинок, которые принесли ей целое состояние...
+
+### Узнать больше о Дори V
+
+Туманный дэв очень удивился, дослушав эту историю. Владычица дэвов, можно сказать, была его роднёй, но он не умел творить подобных чудес. Девушка сказала, что он наверняка наделён таким же сильным даром, просто ему тоже нужно посидеть немного в волшебной лампе. Туманный дэв поверил ей и залез в лампу...
+Хе-хе, хочешь узнать, было ли это на самом деле? Можно, но за отдельную плату. Ещё девятьсот девяносто тысяч моры, и я всё расскажу!
+
+### Хобби Дори...
+
+У меня много хобби! Во-первых, зарабатывать мору, во-вторых, пересчитывать мору, в-третьих, любоваться морой. Разве найдётся в мире что-то ещё приятнее моры?
+
+### Беспокойство Дори...
+
+Вечно находятся люди, которые лезут ко мне с предложениями о разных сомнительных сделках. Если сделка не обещает стопроцентной прибыли, я вас даже слушать не буду.
+
+### Любимая еда...
+
+Я слышала, в Ли Юэ готовят блюдо под названием лепёшка «Мора». Наверняка очень вкусное, не зря ведь в названии есть мора. Ч-что?.. Ты умеешь готовить такую лепёшку? Мой маленький помощник за это время многому у меня научился. В благодарность за науку приготовь мне такую лепёшку! / Я слышала, в Ли Юэ готовят блюдо под названием лепёшка «Мора». Наверняка очень вкусное, не зря ведь в названии есть мора. Ч-что?.. Ты умеешь готовить такую лепёшку? Моя маленькая помощница за это время многому у меня научилась. В благодарность за науку приготовь мне такую лепёшку!
+
+### Нелюбимая еда...
+
+Угольная лепёшка аджиленах - терпеть не могу эти угольки, я к такому угощению ни за что не притронусь! Даже если мне заплатят, я... Хм... Тогда я подумаю.
+
+### Подарок I
+
+Вкусно, очень вкусно! Может, присоединишься к моему каравану? Будешь моим личным поваром.
+
+### Подарок II
+
+Ого, а мой маленький помощник неплохо готовит. Ну что, можно сделать новый заказ? / Ого, а моя маленькая помощница неплохо готовит. Ну что, можно сделать новый заказ?
+
+### Подарок III
+
+Ничего себе, какое угощение! Хи-хи, теперь плати мне компенсацию за моральный ущерб!
+
+### День рождения...
+
+Сегодня я исполню одно твоё желание! Ведь я всесильная Дори. Ну, говори, что хочешь? Только предупреждаю: нельзя загадывать «Чтобы мора никогда не кончалась» и всё в таком роде.
+
+### Чувство возвышения: Начало
+
+Ты что, в меня инвестируешь? Правильно делаешь.
+
+### Чувство возвышения: Нарастание
+
+Больше, ещё больше.
+
+### Чувство возвышения: Кульминация
+
+Ого! Как будто у меня в руках чудесный кошелёк с неиссякаемой силой.
+
+### Чувство возвышения: Окончание
+
+Поздравляю, теперь ты - почётный гость в заведении мудрой и изобретательной Сангема-бай! С сегодняшнего дня для тебя на все товары действует скидка двадцать процентов! До тебя никто ещё не был удостоен такого приёма! Ха, надеюсь, ты оценишь.
+
+### Элементальный навык I
+
+Смотри!
+
+### Элементальный навык II
+
+Мора остаётся мне!
+
+### Взрыв стихии I
+
+Волшебная лампа!
+
+### Взрыв стихии II
+
+Настал твой звёздный час!
+
+### Взрыв стихии III
+
+С тебя мора - с меня товар.
+
+### Открытие сундука I
+
+Ого! Половина моя!
+
+### Открытие сундука II
+
+Дай-ка я посмотрю.
+
+### Открытие сундука III
+
+Я первая!
+
+### Низкий уровень HP I
+
+Ты не получишь ни моры!
+
+### Низкий уровень HP II
+
+А! Спасите! Грабят!
+
+### Низкий уровень HP III
+
+Главное, чтобы не забрали мору.
+
+### Низкий уровень HP компаньона I
+
+Не забудь рассчитаться со мной за спасение жизни!
+
+### Низкий уровень HP компаньона II
+
+Грибная ты голова, нет ничего важнее жизни и моры!
+
+### Без сознания I
+
+Мора... Я могла бы заработать ещё...
+
+### Без сознания II
+
+Вот... Опять...
+
+### Без сознания III
+
+Даже мора не помогла...
+
+### Получен лёгкий удар I
+
+Пустяки.
+
+### Получен лёгкий удар II
+
+Ерунда.
+
+### Получен тяжёлый удар I
+
+Какое-то издевательство!
+
+### Получен тяжёлый удар II
+
+Ты у меня в чёрном списке!
+
+### Присоединяется к группе I
+
+Идём, вперёд - к богатству!
+
+### Присоединяется к группе II
+
+Скорее, мора не ждёт!
+
+### Присоединяется к группе III
+
+О чём торгуетесь?
+
+### О Кираре...
+
+Она пару раз доставляла мне товары, когда я что-то заказывала за пределами Сумеру. Цены у неё низкие, а качество обслуживания на высоте. Ах да, кажется, ей нравятся симпатичные украшения, а у меня как раз есть в продаже несколько прекрасных образцов сумерской ручной работы. Хочешь купить ей что-нибудь в подарок? Могу дать скидку!
+
+### Элементальный навык III
+
+Па-дам!
+
+### О Варесе...
+
+Ах да, я знаю её. Милая и невинная Повелительница фруктов... Продукты её семьи самые лучшие! И с Варесой легко торговаться. Если я поджимаю губы и выгляжу задумавшейся, она нервничает и начинает сомневаться в качестве своих товаров, а потом предлагает скидки... Хе-хе, в бизнесе нужно быть немного жёстче, иначе потеряешь всю мору! Надеюсь, это только я так на неё влияю. Лучше бы она не делала такие же скидки другим!
+
+## REPLICAS_EN
+
+### Hello
+
+Oh! Well if it isn't the renowned Traveler! I'm Dori Sangemah Bay, a traveling merchant. As an introductory gift, you can enjoy a 10% discount on all my wares and merchandise. Feel free to have a look. I'll even help package up your purchase, free of charge.
+
+### Chat: Mora
+
+♪ I love Mora, and Mora loves me! I make Mora, and it makes me happy! Lalala... ♪
+
+### Chat: Win-Win
+
+First, I mark up the price by 30% and then I offer a 20% discount. More Mora for me, and the customers still feel like they're getting a bargain. Now that's what I call a win-win.
+
+### Chat: Money-Mad
+
+With enough Mora, you can afford to do anything — even take on the Akademiya.
+
+### When It Rains
+
+Need to stay dry? I have just the thing! This specialty umbrella collects and purifies rain water, turning it into drinking water that is conveniently stored in this compact container — a real must-have for a traveler like yourself! And all that for only 500,000 Mora!
+
+### When Thunder Strikes
+
+I bet even the caravans can't move under these conditions. I'm losing Mora here...
+
+### When It Snows
+
+Oh oh oh! Check out my fully-automatic snowball maker! It's one of a kind! Wanna give it a try? I'll even throw in a 5% discount on the rental!
+
+### When the Sun Is Out
+
+There's nothing more beautiful than shiny Mora, glittering in the sun! Hehe.
+
+### When the Wind Is Blowing
+
+You've gotta be kidding! Who would be crossing the desert on such a windy day? Silly toadstools... What's that? Oh, I can get them out of there of course... But I'll have to triple my usual price, hehehe.
+
+### Good Morning
+
+Good morning! Last night I had a dream filled with lovely, round, shiny Mora. Seems like today I'm gonna make a fortune!
+
+### Good Afternoon
+
+You wanna take a nap? I can offer you a soft, fluffy cushion that will perfectly conform to the contour of your back. Of course, the level of comfort also depends on how much Mora you're willing to pay.
+
+### Good Evening
+
+Traveling at night can be a real challenge, but for a seasoned merchant like me, it's a walk in the park!
+
+### Good Night
+
+Trying to sleep? Hehe, alright. I'll be generous and let you try my Mora Hypnosis! Don't say I never gave you anything! It goes like this: 10,000 Mora in my coin purse, 20,000 Mora in my coin purse, 30,000 Mora in my coin purse, 40... 40,000 Mora hehe... Mora hehe... Zzz...
+
+### About Dori: Peddling
+
+Welcome to Dori's Divine Bazaar! Everything you need with service you can rely on! You name it, we've got it! Questions or troubles? I'm here to personally assist you!
+
+### About Dori: Kshahrewar
+
+I tend to avoid people from the Akademiya, all those rules and regulations of theirs make it nearly impossible to do good business. Although, those from the Kshahrewar tend to be a little more sensible... Ahem, between the two of us, they signed a private contract with me. I have the Mora, they have the technology and crafting techniques. This collaboration will practically roll in opportunities for my business. Hehe, a Dori deal is always a lucrative deal!
+
+### About Us: Promotion
+
+Planning to travel in Sumeru? The desert can be pretty dangerous, you know — but don't worry, Dori's always got your back! Ta-daaa! This is the Desert Survival Kit. Available to you for only 5 million Mora! Buy it now and I'll throw in an additional Rainforest Survival Kit, free of charge! This deal is available for a limited time only, so don't miss your chance!
+
+### About Us: Mora Distribution
+
+My Mora is mine, and your Mora is mine too! Hehehe.
+
+### About Us: Actual Price
+
+Fine fine, I'll be honest with you... The desert and rainforest survival kits are worth two and a half million Mora each. But buy one get one free sure sounds like a good bargain, doesn't it?
+
+### About the Vision
+
+Wow, just look at it... My Vision is so shiny and beautiful, isn't it? Don't you think you should pay me a fee for the privilege of seeing such an exquisite beauty?
+
+### Something to Share
+
+Once, some stupid toadstools thought they could get away with not paying what they owed. Hmph, little did they know who they were messing with! ...Can you guess what happened to them?
+
+### Interesting Things: Common Language
+
+If Weasel Thieves could talk, I bet we'd have a lot in common. What they love most in all of Teyvat is, of course, shiny Mora! Sounds like they've got good heads on their shoulders if you ask me.
+
+### Interesting Things: Sumpter Beast Park
+
+You'd like to see a Sumpter Beast? No problem! I've got more than you could ever dream of! I'd be happy to let you see them, for a fee... hehe.
+
+### About Cyno
+
+You could say I know him. After all, I was the only merchant in all Sumeru who could acquire the full range of Genius Invokation TCG merch for him! Not bad, huh? I've gotta admit, it's pretty rare to see anyone from the Akademiya like him... independent and with a good head on his shoulders. Plus, he's never been one to haggle over prices.
+
+### About Tighnari
+
+He loves learning as much as I love Mora. I heard he makes a lot of little interesting gadgets, but he refuses to partner with me to mass produce them. He always says he's too busy with work, but really it's just an excuse. *sigh* A shame, really... We could make an absolute fortune!
+
+### About Alhaitham
+
+He once came nosing around, asking my minions some questions to see what he could find out. Like I said, those Akademiya people are just pig-headed and dishonest. Why should I take the risk of others prying into my business? Right, my young apprentice?
+
+### About Kaveh
+
+Ah yeah, he's one of the Kshahrewar people that I work with. Unlike the more closed-minded people at the Akademiya, he actually has his own dreams that he's fighting for. I, for one, really respect that. I secretly lent him some Mora — and I mean a LOT of Mora — to build my Palace of Alcazarzaray. One thing's for sure — without Dori the benevolent benefactor, Kaveh would not be where he is today, hehe.
+
+### About Dehya
+
+I hire her to help escort my caravans from time to time. After all, she's got the muscle, and her price is reasonable. When it comes to cost-performance ratio, she's always the best pick.
+
+### About Rex Lapis
+
+Before Rex Lapis parted from this world, I'd say a little prayer every morning: "O great God of Wealth up above, please bless my day with more Mora to love." But uh, now, I guess I just pray to myself... "O divine Dori right here and now, please bless my day with more Mora to count!" Hehe.
+
+### About Lesser Lord Kusanali
+
+In Sumeru, Lesser Lord Kusanali has very few believers. Hmm? Am I one? Heh, if she's willing to pay me, I'd be her loyal believer for all eternity.
+
+### About Nilou
+
+She's a good dancer, but definitely not making the most of her time by staying in Sumeru... I mean, it's a complete waste of her talent. If I took her on tour across all Teyvat, do you have any idea how much Mora I'd rake in?
+
+### About Alice
+
+Alice's range of eccentric novelties knows no end! Which makes her by far my best supplier, hehe. Ahem, now that I've told you my trade secret, I think you should catch up on your tuition fees, hmm? C'mon, pay up!
+
+### More About Dori: I
+
+You wanna hear some stories? Alright, it'll cost you a million Mora. Well... Okay, out of respect for our friendship, I guess I can give you a 1% discount. So that'll be 990,000 Mora. Pretty good deal if you ask me.
+
+### More About Dori: II
+
+Hehe, you've got a good head on your shoulders. I'll tell you a story about a merchant.
+A long, long time ago, a merchant lost her way while she was out on the road. It wasn't long before she encountered a Fog Div. Just as the Fog Div was about to eat her alive, she said in a panic, "Wait, Mr. Fog Div! Don't eat me! I've got a story to tell you. Please, have a listen, and if you like what you hear, then perhaps you would spare me..."
+
+### More About Dori: III
+
+...The Fog Div agreed to listen, and the merchant began to tell her story. It was about herself, from a time when business was not doing so well. Just as she was beginning to feel helpless, she happened to find a magic lamp in her warehouse. She began to polish the lamp, when all of a sudden, a puff of red smoke came out. The smoke spoke to her and claimed to be The Genie of Beauty and Kindness. The merchant somehow reminded the genie of her own lovely daughter, so she kindly offered to grant the merchant a wish.
+
+### More About Dori: IV
+
+What could a merchant ever desire more than the prospect of more Mora? So the merchant wished that she could earn more Mora in the future than she could ever hope to count. The Genie of Beauty and Kindness agreed, and became the merchant's supplier, providing her with magical and fantastic goods. The merchant soon went on to make a fortune...
+
+### More About Dori: V
+
+Hearing the merchant's story, the Fog Div became very puzzled. The div and the genie were obviously of the same species, so how come the div couldn't perform any magic? The merchant praised the Fog Div's potential, saying that it, too, would surely gain the genie's great power if only it were to stay in the same magic lamp. The Fog Div agreed and entered the merchant's magic lamp... Huh? Is this a real story? Backstory details cost extra! Give me another 990,000 Mora and I'll tell you!
+
+### Dori's Hobbies
+
+Hobbies? Sure, I've got tons of hobbies. First there's earning Mora, then there's counting Mora... Oh, and then I like to look at Mora. Ah Mora, nothing in the world makes me happier!
+
+### Dori's Troubles
+
+I always have people coming to me with business proposals that could yield only 30% profit. I'm a busy lady, you know. Please, anything under 100% profit, I don't even want to hear about it.
+
+### Favorite Food
+
+I hear there's a dish in Liyue called Mora Meat. With a name like that, I know it's gotta be delicious! Wh—What? You know how to make it!? Well ahem, you have been my apprentice for some time now, and you must've learned a lot from me. So uh, in exchange for all that you've learned, why don't you cook some Mora Meat for me? Well, what are you waiting for!?
+
+### Least Favorite Food
+
+I can't stand anything that's dark and burnt looking... you know, like Charcoal-Baked Ajilenakh Cakes. Ugh, I will never even touch them! Even if you paid me a million Mora, I... Uh, well if that were the case, maybe I'd consider it.
+
+### Receiving a Gift: I
+
+Mmm, yummy! What do you say we partner up, hmm? You could also be my personal chef!
+
+### Receiving a Gift: II
+
+Oh, so my apprentice knows their way around the kitchen, huh? Alright, lemme order something...
+
+### Receiving a Gift: III
+
+You expect me to eat this? Hmph, you'd better compensate me for the mental trauma!
+
+### Birthday
+
+Today I can grant you one wish! After all, I am the great and almighty Dori! Go on, tell me, what do you wish for? But lemme just tell you now that a lifetime supply of Mora is off the table.
+
+### Feelings About Ascension: Intro
+
+Does this mean you're investing in me? Hehe, I always knew you had a good head on your shoulders.
+
+### Feelings About Ascension: Building Up
+
+The Mora, the merrier.
+
+### Feelings About Ascension: Climax
+
+Wow! This is like having a bottomless coin pouch filled with endless power!
+
+### Feelings About Ascension: Conclusion
+
+Congratulations! You are now a VIP customer of the illustrious Lord Sangemah Bay! This entitles you to enjoy a 20% discount on all future purchases. You're also the first VIP customer ever, so make good use of it!
+
+### Elemental Skill: I
+
+Watch this!
+
+### Elemental Skill: II
+
+Your Mora is mine!
+
+### Elemental Burst: I
+
+Magic lamp!
+
+### Elemental Burst: II
+
+Here's the goods!
+
+### Elemental Burst: III
+
+Let's sweeten the deal!
+
+### Opening Treasure Chest: I
+
+We'll split it, fifty-fifty.
+
+### Opening Treasure Chest: II
+
+Show me the goods!
+
+### Opening Treasure Chest: III
+
+I'll take it all!
+
+### Low HP: I
+
+Hands off my Mora!
+
+### Low HP: II
+
+Help! I'm being robbed!
+
+### Low HP: III
+
+Protect the Mora.
+
+### Ally at Low HP: I
+
+I'll help for a price!
+
+### Ally at Low HP: II
+
+You can't spend Mora dead, numbskull!
+
+### Fallen: I
+
+Must earn... more Mora...
+
+### Fallen: II
+
+Not... again...
+
+### Fallen: III
+
+Guess there's some things... Mora can't buy...
+
+### Light Hit Taken: I
+
+Mind the merchandise!
+
+### Light Hit Taken: II
+
+No can do!
+
+### Heavy Hit Taken: I
+
+You big bully!
+
+### Heavy Hit Taken: II
+
+That's a deal-breaker!
+
+### Joining Party: I
+
+C'mon let's go! There's a fortune to be made!
+
+### Joining Party: II
+
+Hurry up! Mora waits for no one.
+
+### Joining Party: III
+
+So, what's the deal?
+
+### About Kirara
+
+She delivered several orders to me when I was stocking up on goods from outside of Sumeru. Her service is great, and her prices are low. Oh, I think she's into pretty accessories, and I happen to have some handmade Sumeru specialties on sale! Wanna buy some as a gift for her? I can give you a discount!
+
+### Elemental Skill: III
+
+Sha~zam!
+
+### About Varesa
+
+Ah, yes, I know who you're talking about. The sweet and innocent Fruit Lord... Her family's produce is the best of the best! And she's very easy to negotiate with. If I simply purse my lips and look deep in thought, she gets nervous and starts questioning the quality of her goods, then she starts offering discounts... Hehe, you gotta be a little tougher than that in business, or you'll lose all your Mora! And I hope it's only me that makes her squirm like that. She'd better not be giving the same discounts to everyone else!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+哎呀呀，这不是大名鼎鼎的旅行者吗？我是旅行商人多莉·桑歌玛哈巴依。作为给你的见面礼，我这儿的商品全部限时九折优惠，赶快来挑选吧，我帮你打包~
+
+### 闲聊·摩拉
+
+我爱摩拉，摩拉爱我，啦啦啦。
+
+### 闲聊·双赢
+
+先把商品涨价百分之三十，然后再打八折卖出，不仅我赚得多了，顾客也会觉得划算，这就是双赢。
+
+### 闲聊·财迷
+
+只要摩拉管够，和教令院对着干也没什么大不了的。
+
+### 下雨的时候…
+
+需要伞吗？我这里有一把特制雨伞，收集雨水的同时能够净化水质，把雨水变成饮用水储存在小罐子里，可以说是旅行必备品！只需要五十万摩拉喔。
+
+### 打雷的时候…
+
+这种天气，恐怕商队也不太好前进了。又要少赚好多摩拉…
+
+### 下雪的时候…
+
+哒啦，看我的全自动雪球机！想要吗想要吗？租金给你打九点五折喔！
+
+### 阳光很好…
+
+摩拉在阳光下闪闪发光，真好看！嘿嘿。
+
+### 刮大风了…
+
+不会吧不会吧，不会真的有人选在大风天穿越沙漠吧。我当然有办法救这种蠢蘑菇，但费用…至少要翻三倍才行！
+
+### 早上好…
+
+早安，昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天。
+
+### 中午好…
+
+想午睡吗？我可以给你一个软绵绵、蓬松松，完美贴合你背部曲线的靠垫。当然具体有多舒服就看摩拉有多少了。
+
+### 晚上好…
+
+在夜色中赶路很有挑战性喔，不过这可难不倒常年在外行商的我！
+
+### 晚安…
+
+你要睡觉了吗？嘿嘿，我就大发慈悲让你试试我的摩拉歌谣催眠法吧！一万摩拉入口袋，两万摩拉入口袋，三万摩拉入口袋，四、嘿四万…嘿嘿，摩拉，嘿嘿…
+
+### 关于多莉自己·吆喝
+
+万能的多莉商店，应有尽有，童叟无欺。只要摩拉够，只有想不到，没有买不到。需要任何东西，或者遇到任何困难，都可以来找我喔！
+
+### 关于多莉自己·妙论派
+
+通常我会躲着教令院的人，他们的各种条条框框简直让人没办法做生意。不过呢，告诉你也没关系。妙论派有些人还算是头脑灵活，和我私下签了条约。我有摩拉，他们有技术和手艺，顺便还能让我的行商更加通畅。嘿嘿，大商人多莉，从不做亏本生意。
+
+### 关于我们·推销
+
+你要在须弥旅行吗？须弥的沙漠很危险喔，就让大善人多莉来帮你吧！锵锵，沙漠旅行大礼包，只需要五百万摩拉！现在购买还会免费附送雨林旅行大礼包！机不可失，时不再来喔。
+
+### 关于我们·摩拉分配
+
+我的摩拉是我的，你的摩拉还是我的，嘿嘿。
+
+### 关于我们·实价
+
+好吧好吧，和你实话实说也行啦。沙漠和雨林的旅行大礼包，拆开来卖的话，分别都值二百五十万摩拉。但买一送一听起来比较划算嘛，你不觉得吗？
+
+### 关于「神之眼」…
+
+哎呀哎呀，我的神之眼亮晶晶的，很漂亮吧？既然看到了这么漂亮的东西，你是不是应该付摩拉呢？
+
+### 有什么想要分享…
+
+以前也有些蠢蘑菇试图欠账不还，嘿嘿，也不看看我是谁。不如，你来猜猜看他们的下场如何吧？
+
+### 感兴趣的见闻·共同语言
+
+如果盗宝鼬能开口说话的话，我们肯定很有共同语言。它们多有眼光呀！全提瓦特最惹人喜爱的，自然是亮闪闪金灿灿的摩拉。
+
+### 感兴趣的见闻·驮兽乐园
+
+想见见驮兽吗？没问题！你想见多少我就有多少。只不过这个门票钱嘛，欸嘿嘿…
+
+### 关于赛诺…
+
+我和他算是有点私交。毕竟能为他拿到「七圣召唤」所有周边产品的人，全须弥只有我一个。很罕见吧！教令院里居然有他这种特行独立，眼光不错，又从不讲价的人。
+
+### 关于提纳里…
+
+他热爱学术就和我热爱摩拉一样。听说他经常会做一些神奇的小玩意儿，只可惜会用什么公务繁忙作为理由，拒绝和我合作批量生产，要不然…可以赚上一大笔摩拉呢！
+
+### 关于艾尔海森…
+
+他以前试探过我的手下。所以说，教令院的家伙真是又呆板又不诚恳。我又何必冒这个风险呢？懂了吗？小跟班。
+
+### 关于卡维…
+
+他是跟我有合作的妙论派的人之一，和某些教令院的死脑筋不一样，是个会为理想奋斗的人，我很欣赏他。我悄悄借了他一大——笔摩拉，让他造出了我的艾尔卡萨扎莱宫。可以说没有善良的多莉的资助，就没有今天的卡维。
+
+### 关于迪希雅…
+
+有时候我会雇佣她帮忙保护商队。毕竟她实力不错，要价也不高，可以说是性价比最优之选。
+
+### 关于岩王帝君…
+
+岩王帝君离去之前，我每天起来第一件事就是默念：财神在上，保佑多莉日进斗金。现在嘛，求神不如求己。多莉在此，保佑自己日进斗金！
+
+### 关于小吉祥草王…
+
+在须弥，小吉祥草王的信徒非常少。你问我吗？啊，如果她愿意给我摩拉的话，我就是她永恒的信徒。
+
+### 关于妮露…
+
+她的舞跳得不错，但只留在须弥，还是不能最大程度上发挥出她的价值…我是说，有点屈才。你说你说，如果能把她带出去，在提瓦特举办巡回演出的话，一共能赚多少摩拉呢？
+
+### 关于艾莉丝…
+
+艾莉丝女士有源源不断的新奇东西，是我的最佳供货商，没有之一。嚯嚯，这种商业机密都告诉你了，你是不是应该交点学费，表示表示呢？
+
+### 想要了解多莉·其一
+
+想听故事？那就…给我一百万摩拉。嗯…看在我们交情的份上，给你打个九点九折好了，九十九万摩拉。怎么样？很划算吧！
+
+### 想要了解多莉·其二
+
+嘿嘿，你可真有眼光。那我开始讲了！
+这是一个商人的故事。很久很久以前，她在行商途中迷失了方向。这时候她遇到一只雾怪，雾怪要一口吞掉她。她连忙说，雾怪先生不要着急呀，我这里有个故事。您听听看，如果有趣的话，就请您不要吃掉我…
+
+### 想要了解多莉·其三
+
+雾怪答应了。于是商人开始讲自己的故事，当年她的生意还不像如今这么红火，在她一筹莫展之时，正巧，她从库房里翻出了一个不知从哪儿来的魔灯。她恍惚间擦亮了魔灯。一团红雾从里面弥漫了出来，她自称是「人美心善的大魔王」，见着这位商人就想起了自己乖巧可爱的女儿，所以她说，可以实现商人一个愿望。
+
+### 想要了解多莉·其四
+
+还有什么比摩拉更吸引商人的呢，于是商人许愿：希望接下来的日子，能赚到数也数不清的摩拉。「人美心善的大魔王」同意了，她成为了商人的供货商，为商人提供了源源不断的奇妙商品。商人也因此赚得盆满钵满…
+
+### 想要了解多莉·其五
+
+雾怪听完这些觉得很神奇，明明自己和红雾大魔王也算同类，自己怎么没办法变出什么东西。商人呀，就夸了雾怪天赋异禀，说不定在同一个魔灯里待上一段时间，就能拥有大魔王的能力了。雾怪欣然同意，进入了商人的魔灯…
+咳咳，你问我这个故事是不是真的？这是另外的价钱喽，再给我九十九万摩拉，我就告诉你！
+
+### 多莉的爱好…
+
+我的爱好可多了，第一是赚摩拉，第二是数摩拉，第三是看摩拉，这世界上没有比摩拉更令人开心的东西了！
+
+### 多莉的烦恼…
+
+总有些人，拿着才三成利的生意就来打扰我，唉，我也是很忙的。没有百分百的利润，我连听完的兴趣都没有。
+
+### 喜欢的食物…
+
+我听说璃月有一种叫做摩拉肉的食物，名字里带摩拉，一定非常好吃。什、什么…你会做？咳咳，你当我的小跟班也有一段时间了，应该从我这儿学到了不少吧。作为交换，你要给我做摩拉肉吃！
+
+### 讨厌的食物…
+
+椰炭饼那种黑乎乎的东西，一点儿也不符合我的品味，我是绝对不会吃的！就算反过来给我摩拉，我…呃，我、我再考虑考虑。
+
+### 收到赠礼·其一
+
+好吃好吃，啊不如你跟着我一起行商，兼职私人厨师吧。
+
+### 收到赠礼·其二
+
+哇，我的小跟班做饭水平可以呀。能让我点餐吗？
+
+### 收到赠礼·其三
+
+居然让我吃这种东西，嘿嘿，你要赔偿我精神损失费！
+
+### 生日…
+
+今天我可以满足你一个心愿！毕竟我是无所不能的多莉。说吧说吧，想要什么？不过呢，先和你说好，「一辈子都用不完的摩拉」这种愿望可不行喔。
+
+### 突破的感受·起
+
+你这是在投资我吗？你可真有眼光。
+
+### 突破的感受·承
+
+多多益善，多多益善。
+
+### 突破的感受·转
+
+喔！我好像有了一个奇妙钱袋，能掏出源源不断的力量。
+
+### 突破的感受·合
+
+恭喜你成为神通广大的桑歌玛哈巴依老爷的尊贵会员！以后你的订单一律八折，这种待遇你可是第一个喔。啊，好好珍惜吧。
+
+### 元素战技·其一
+
+看我的！
+
+### 元素战技·其二
+
+留下摩拉来！
+
+### 元素爆发·其一
+
+魔灯显灵！
+
+### 元素爆发·其二
+
+大显身手时间！
+
+### 元素爆发·其三
+
+一手交钱，一手交货。
+
+### 打开宝箱·其一
+
+哇，分我一半！
+
+### 打开宝箱·其二
+
+先让我看看。
+
+### 打开宝箱·其三
+
+我来我来！
+
+### 生命值低·其一
+
+休想抢走我一分摩拉！
+
+### 生命值低·其二
+
+啊救命啊，抢劫啦！
+
+### 生命值低·其三
+
+一定要保护好摩拉。
+
+### 同伴生命值低·其一
+
+救命之恩，记得给钱！
+
+### 同伴生命值低·其二
+
+呆头菇，命和摩拉一样重要。
+
+### 倒下·其一
+
+摩拉…还没赚够呢…
+
+### 倒下·其二
+
+又是…这样…
+
+### 倒下·其三
+
+摩拉也不管用吗…
+
+### 普通受击·其一
+
+小问题。
+
+### 普通受击·其二
+
+磕碰而已。
+
+### 重受击·其一
+
+欺人太甚！
+
+### 重受击·其二
+
+列进黑名单！
+
+### 加入队伍·其一
+
+走吧走吧，赚笔大的！
+
+### 加入队伍·其二
+
+摩拉不等人，快跟上。
+
+### 加入队伍·其三
+
+是什么大生意？
+
+### 关于绮良良…
+
+在我跨国收购物资的时候，她为我送过好几次货。服务又好，收费还便宜。哦，对了，她很喜欢各种漂亮的小饰品，我这刚好进了一些，须弥特色，纯手工制品，可精致了。怎么样，要不要买来送给她呀？我给你打折。
+
+### 元素战技·其三
+
+嘿哟！
+
+### 关于瓦雷莎…
+
+哎呀，我知道你说的是谁了，单纯可爱的水果领主…她家的作物啊，品质顶呱呱！人也非常好说话，我面无表情托腮思考，都会让她紧张，怀疑自己的货品质量欠佳，主动提出降点价…嘿嘿，这样的性格，做生意可是要吃亏的！我希望她只对我展现出来，以免便宜了别家！

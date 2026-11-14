@@ -21,6 +21,9 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: Отблески храбрости
+# game_source_ids: 71039
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 30
 
 ## RU
 
@@ -28,12 +31,17 @@
 
 Чжи Цюн отделилась от отряда георазведки, чтобы заняться исследованием в одиночку. Но ходить в Разлом одному слишком опасно. Поскорее отыщите её...
 
-
 **Цзинь У:** ...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Привет, Цзинь У!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Как дела?
+
+##### Общее продолжение
 
 **Цзинь У:** ?!
 
@@ -41,15 +49,21 @@
 
 **Цзинь У:** Простите. Если вы ищете Чжи Цюн... она ушла.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Куда она пошла?
 
-- **Путешественник:** Каким было её состояние, когда она ушла?
-
 **Цзинь У:** Я не знаю... Я отвлеклась ненадолго, а потом она исчезла.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Каким было её состояние, когда она ушла?
 
 **Цзинь У:** ...
 
 **Цзинь У:** Хедив осмотрел её. Состояние было не очень...
+
+##### Общее продолжение
 
 **Цзинь У:** Я говорила с ней... Она настаивала на том, чтобы уйти. Её невозможно было удержать ни добрыми словами, ни угрозами. Никак.
 
@@ -59,9 +73,15 @@
 
 **Цзинь У:** Ох, нужно сказать Му Нину, чтобы он как можно скорее организовал поисково-спасательную команду, чтобы отыскать её!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы сходим к Му Нину.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Пожалуйста, не переживай так сильно.
+
+##### Общее продолжение
 
 **Паймон:** Р-р, Чжи Цюн опять ушла! Поднимемся и найдём Му Нина!
 
@@ -73,11 +93,11 @@
 
 **Му Нин:** Передай мои поздравления Чжи Цюн, не зря она трудилась.
 
-Она ушла.
+- **Путешественник:** Она ушла.
 
 **Му Нин:** Ушла? Как это?.. Она ушла? Но Миллелиты не сказали мне, что кто-то покинул Разлом...
 
-Она покинула отряд георазведки.
+- **Путешественник:** Она покинула отряд георазведки.
 
 **Му Нин:** Что?..
 
@@ -95,11 +115,15 @@
 
 **Му Нин:** В её нынешнем состоянии покинуть отряд - это полное безрассудство...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Нужна моя помощь?
 
-- **Путешественник:** Расскажи о Чжи Цюн...
-
 **Му Нин:** На этот раз нет... Пора мне заняться этим самому.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Расскажи о Чжи Цюн...
 
 **Му Нин:** Она неугомонная, но как бы там ни было, мы друзья. Возможно, я не самый дружелюбный человек на свете, но о своих друзьях я не забываю.
 
@@ -109,15 +133,19 @@
 
 **Му Нин:** Эх, но я не ожидал... Честно говоря, может, зря я попросил тебя приехать в Разлом... Так бы в ней не вспыхнула снова тяга к приключениям...
 
-- **Путешественник:** Но её усилия всё же принесли некоторые результаты.
+##### Вариант ответа 1
 
-- **Путешественник:** Это её выбор.
+- **Путешественник:** Но её усилия всё же принесли некоторые результаты.
 
 **Му Нин:** Результаты?.. Звучит, холодно и эгоистично. Мы очень благодарны за карты, на которых она нарисовала большие участки Разлома, да...
 
 **Му Нин:** Но должны ли ставиться выше жизни такие неосязаемые, иллюзорные вещи, как «мечты» и стремление к ним?
 
 **Му Нин:** Я просто не могу этого понять. Мне сложно осознать, что кто-то бросается навстречу опасностям из таких побуждений.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Это её выбор.
 
 **Му Нин:** Выбор... Отговорки! Она отправилась на верную смерть, неужели ты не понимаешь?!
 
@@ -129,9 +157,13 @@
 
 **Му Нин:** Это глупость, говорю я. Как друг, я не могу просто оставить её в покое.
 
+##### Общее продолжение
+
 **Му Нин:** Так что, её поисками я сам займусь... Точнее поисково-спасательный отряд Миллелитов.
 
-Если понадобится моя помощь, то скажи.
+##### Общее продолжение
+
+- **Путешественник:** Если понадобится моя помощь, то скажи.
 
 **Паймон:** Да, Паймон тоже готова помочь! Мы должны заботиться о юных искателях приключений!
 
@@ -143,12 +175,17 @@
 
 Zhiqiong seems to have left the exploration team to explore on her own. Still, it's too dangerous to go alone into The Chasm, so she must be found...
 
-
 **Jinwu:** ...
+
+##### Response branch 1
 
 - **Traveler:** Hey there, Jinwu!
 
+##### Response branch 2
+
 - **Traveler:** Are you doing fine?
+
+##### Shared continuation
 
 **Jinwu:** ...!?
 
@@ -156,15 +193,21 @@ Zhiqiong seems to have left the exploration team to explore on her own. Still, i
 
 **Jinwu:** S—Sorry. Anyway, um, if you're looking for Zhiqiong... she left.
 
+##### Response branch 1
+
 - **Traveler:** Where'd she go?
 
-- **Traveler:** How was she doing when she left?
-
 **Jinwu:** I don't know... I was distracted for just a few moments, and that was it — she was gone.
+
+##### Response branch 2
+
+- **Traveler:** How was she doing when she left?
 
 **Jinwu:** ...
 
 **Jinwu:** Khedive did a check-up, and he said that it didn't look too promising...
+
+##### Shared continuation
 
 **Jinwu:** I had a talk with her... but she insisted on leaving. I doubt I could have cajoled or browbeat her, or even beat her into staying.
 
@@ -174,9 +217,15 @@ Zhiqiong seems to have left the exploration team to explore on her own. Still, i
 
 **Jinwu:** Ugh, right, I have to tell Muning, and get him to organize a search party for that kid!
 
+##### Response branch 1
+
 - **Traveler:** We'll go to Muning.
 
+##### Response branch 2
+
 - **Traveler:** Relax a little.
+
+##### Shared continuation
 
 **Paimon:** Ugh, that Zhiqiong, she's gone again! Let's get back to the surface and look for Muning, quickly!
 
@@ -188,11 +237,11 @@ Zhiqiong seems to have left the exploration team to explore on her own. Still, i
 
 **Muning:** Congratulations to her are in order — it seems that all that running around wasn't for naught.
 
-She left.
+- **Traveler:** She left.
 
 **Muning:** Left? What do you mean? Do you mean she left first? But the Millelith didn't tell me of anyone leaving The Chasm...
 
-Zhiqiong left the team.
+- **Traveler:** Zhiqiong left the team.
 
 **Muning:** Eh? Uh...
 
@@ -210,11 +259,15 @@ Zhiqiong left the team.
 
 **Muning:** In her current condition, working away from the team is simply far too reckless...
 
+##### Response branch 1
+
 - **Traveler:** Need my help?
 
-- **Traveler:** About Zhiqiong...
-
 **Muning:** No, I don't reckon so... I suppose it's about time I stepped in as well.
+
+##### Response branch 2
+
+- **Traveler:** About Zhiqiong...
 
 **Muning:** She's a restless one, but whatever the case, we are still friends. I might not be the friendliest person around, but I don't simply forget friendships just like that.
 
@@ -224,15 +277,19 @@ Zhiqiong left the team.
 
 **Muning:** *sigh* But I never expected... To be honest, I was starting to wonder if asking you to come to The Chasm was the right decision... If we hadn't, she might not have had a fire lit under her again...
 
-- **Traveler:** Her efforts did produce some results in the end.
+##### Response branch 1
 
-- **Traveler:** It is her choice, you know.
+- **Traveler:** Her efforts did produce some results in the end.
 
 **Muning:** Results...? I think that's a bit too utilitarian. We are very grateful for the maps that she drew of large swathes of The Chasm, yes...
 
 **Muning:** But should intangible, illusory things like "dreams" and pursuing them really come before one's life?
 
 **Muning:** I just can't understand it, nor can I imagine anyone really plunging into danger over things like that.
+
+##### Response branch 2
+
+- **Traveler:** It is her choice, you know.
 
 **Muning:** Choice, you say... Excuses! She's going there to die, don't you realize that!?
 
@@ -244,9 +301,13 @@ Zhiqiong left the team.
 
 **Muning:** It's folly, I say, and as a friend, I can't just leave her be.
 
+##### Shared continuation
+
 **Muning:** As such, please leave the search for her to me... Uh, more accurately, just leave it to the Millelith search party.
 
-I'll be there if you need me.
+##### Shared continuation
+
+- **Traveler:** I'll be there if you need me.
 
 **Paimon:** Paimon too! We can't just leave our junior adventurer behind!
 
@@ -258,12 +319,17 @@ I'll be there if you need me.
 
 志琼似乎要离开勘探队独自探险，独自进入层岩巨渊还是太危险了，还是尽快找到她吧…
 
-
 **瑾武:** ……
+
+##### 对话分支 1
 
 - **旅行者:** 你好，瑾武姐！
 
+##### 对话分支 2
+
 - **旅行者:** 你还好吗！
+
+##### 共同后续
 
 **瑾武:** …？！
 
@@ -271,15 +337,21 @@ I'll be there if you need me.
 
 **瑾武:** 抱…抱歉。那个，如果你们要找志琼的话…她离队了。
 
+##### 对话分支 1
+
 - **旅行者:** 她去哪里了？
 
-- **旅行者:** 她离开时情况如何？
-
 **瑾武:** 我不知道…只是疏忽了一会，她就这样不见了。
+
+##### 对话分支 2
+
+- **旅行者:** 她离开时情况如何？
 
 **瑾武:** ……
 
 **瑾武:** 海迪夫给她做过了检查，她的情况很不好…
+
+##### 共同后续
 
 **瑾武:** 我和她谈过了…她还是执意要走。好话坏话，或者拳头都留不住她。
 
@@ -289,9 +361,15 @@ I'll be there if you need me.
 
 **瑾武:** 对了，这件事一定要和沐宁说。让他尽快组织一支搜救队，尽早找到那孩子才行！
 
+##### 对话分支 1
+
 - **旅行者:** 我们会去的。
 
+##### 对话分支 2
+
 - **旅行者:** 请你稍微安心。
+
+##### 共同后续
 
 **派蒙:** 真是的…志琼怎么又不见了！我们快去地面找沐宁吧！
 
@@ -303,11 +381,11 @@ I'll be there if you need me.
 
 **沐宁:** 恭喜志琼啦，先前那样四处乱跑果然不是白做工的。
 
-她退出了。
+- **旅行者:** 她退出了。
 
 **沐宁:** 退出了？什么意思…？她先离开了吗？可是千岩军没有和我说有人离开过层岩巨渊啊…
 
-志琼退出了勘探队。
+- **旅行者:** 志琼退出了勘探队。
 
 **沐宁:** 啊？哦…
 
@@ -325,11 +403,15 @@ I'll be there if you need me.
 
 **沐宁:** 以她现在的状态，脱离队伍擅自行动完全是在胡闹…
 
+##### 对话分支 1
+
 - **旅行者:** 需要我帮忙吗？
 
-- **旅行者:** 关于志琼…
-
 **沐宁:** 抱歉，这次就不需要劳烦你帮忙了…我也总得派上点用场嘛。
+
+##### 对话分支 2
+
+- **旅行者:** 关于志琼…
 
 **沐宁:** 她是个不安分的家伙，但我们再怎么说也算是朋友。我知道我不讨人喜欢…但我可不能随随便便就把朋友忘了。
 
@@ -339,15 +421,19 @@ I'll be there if you need me.
 
 **沐宁:** 唉…可是没想到…或许这次我不应该推荐请你来探索层岩巨渊才是，不然也不至于引起志琼的这把火…
 
-- **旅行者:** 但她的努力并非毫无收获。
+##### 对话分支 1
 
-- **旅行者:** 但这是她的选择。
+- **旅行者:** 但她的努力并非毫无收获。
 
 **沐宁:** 收获…？你这样说，未免有点太功利了。她画下了地下大部分区域的地图，我们很感激没错…但…
 
 **沐宁:** 把「愿望」这种虚无缥缈的东西，和追求它的行为，放置于生命本身之上…？
 
 **沐宁:** 我是无论如何也不能理解的，我也不能想象有人真的为此置身危险之中。
+
+##### 对话分支 2
+
+- **旅行者:** 但这是她的选择。
 
 **沐宁:** 选择，选择，选择…什么借口！她是在去送死，你没意识到吗？
 
@@ -359,9 +445,13 @@ I'll be there if you need me.
 
 **沐宁:** 这家伙太傻了…作为朋友，这件事我不能不管。
 
+##### 共同后续
+
 **沐宁:** 所以，寻找她的事情，就请包在我身上吧…呃，我是说，包在千岩军的搜救队身上吧。
 
-如果需要我帮忙，我一定尽快赶到。
+##### 共同后续
+
+- **旅行者:** 如果需要我帮忙，我一定尽快赶到。
 
 **派蒙:** 嗯嗯，我也是！不能放着后辈不管呀！
 

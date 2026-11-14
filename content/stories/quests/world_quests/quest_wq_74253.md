@@ -14,11 +14,15 @@
 # chapter_num_zh:
 # part_source_ids: 74253
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74253
-# quest_series:
+# quest_series: sandrones_tea_meetings
 # version_source: wiki_release_category
+# game_source_ids: 74253
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_ru: Приглашение от леди
+# quest_series_order: 40
 
 ## RU
 
@@ -27,6 +31,10 @@
 Отправляйтесь к скрытому убежищу, поставьте чайный столик и, усадив Сандроне, устройте чаепитие в компании гостей...
 
 #### Отправляйтесь в скрытое убежище, чтобы начать чаепитие
+
+#### Отправляйтесь в скрытое убежище, чтобы начать чаепитие
+
+#### Наслаждайтесь чаепитием
 
 **Марионетка:** Честно говоря, я до сих пор в шоке.
 
@@ -88,17 +96,19 @@
 
 **Мари-Анн:** Именно так. Поэтому предлагаю попробовать угощения, которые ты для нас приготовила.
 
-#### Отправляйтесь в скрытое убежище, чтобы начать чаепитие
+#### Наслаждайтесь чаепитием
 
 **Мари-Анн:** Тихая и спокойная жизнь... что может быть лучше.
 
-- **Путешественник:** (Посидим ещё немного.)
-
-- **Путешественник:** Думаю, чаепитие пора заканчивать.
+##### Вариант ответа 1
 
 **Марионетка:** (Посидим ещё немного.)
 
+##### Вариант ответа 2
+
 **Марионетка:** Думаю, чаепитие пора заканчивать.
+
+##### Общее продолжение
 
 **Мари-Анн:** Уже так поздно? Ха-ха. Нам надо почаще встречаться, госпожа Сандроне.
 
@@ -109,6 +119,10 @@
 Go to the hidden dwelling, place your tea table, and have Sandrone take a seat. Then, prepare to enjoy some tea with the guests...
 
 #### Go to the hidden dwelling to start the tea party
+
+#### Go to the hidden dwelling to start the tea party
+
+#### Enjoy teatime
 
 **Marionette:** To be honest, I'm still in shock.
 
@@ -170,17 +184,19 @@ Go to the hidden dwelling, place your tea table, and have Sandrone take a seat. 
 
 **Mary-Ann:** Exactly. So now, let's just quietly enjoy the food you've so carefully prepared for us.
 
-#### Go to the hidden dwelling to start the tea party
+#### Enjoy teatime
 
 **Mary-Ann:** Life is best when all is peaceful and calm...
 
-- **Traveler:** (Let's sit like this for a little while longer.)
-
-- **Traveler:** I think it's time I started clearing up.
+##### Response branch 1
 
 **Marionette:** (Let's sit like this for a little while longer.)
 
+##### Response branch 2
+
 **Marionette:** I think it's time I started clearing up.
+
+##### Shared continuation
 
 **Mary-Ann:** Is that the time? Haha. We should get together more often, Miss Sandrone.
 
@@ -191,6 +207,10 @@ Go to the hidden dwelling, place your tea table, and have Sandrone take a seat. 
 前往隐居处放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…
 
 #### 前往隐居处开启茶会
+
+#### 前往隐居处开启茶会
+
+#### 享受茶会时光
 
 **「木偶」:** 说实话，我到现在还是很惊讶。
 
@@ -252,16 +272,18 @@ Go to the hidden dwelling, place your tea table, and have Sandrone take a seat. 
 
 **玛丽安:** 没错，所以现在，就让我们静静享用你精心准备的茶点吧。
 
-#### 前往隐居处开启茶会
+#### 享受茶会时光
 
 **玛丽安:** 平静的日子，真好啊。
 
-- **旅行者:** （再这么坐一会儿吧。）
-
-- **旅行者:** 茶会时间该结束了。
+##### 对话分支 1
 
 **「木偶」:** （再这么坐一会儿吧。）
 
+##### 对话分支 2
+
 **「木偶」:** 茶会时间该结束了。
+
+##### 共同后续
 
 **玛丽安:** 已经这个点了吗？哈哈，那我们以后也多聚聚吧，桑多涅小姐。

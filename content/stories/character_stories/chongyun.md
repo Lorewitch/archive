@@ -328,3 +328,818 @@ As to which of his goals it was that the Vision responded to, that is also a mys
 总有一天，他会成为璃月首屈一指的驱邪师，还要驾驭住这纯阳之体，让全天下妖邪消失殆尽。
 或许是这份惊人的斗志受到了神的肯定——重云得到的「神之眼」，竟是与「火」相对的「冰」。
 至于这「神之眼」是回应他哪个想法而降临，就不得而知了。
+
+# voice_source_ids: 22009,22010,22011,22012,22013,22014,22015,22016,22017,22018,22019,22020,22021,22022,22023,22024,22025,22026,22027,22028,22029,22030,22031,22032,22033,22034,22035,22036,22037,22038,22039,22040,22041,22042,22043,22044,22045,22046,22047,22048,22049,22050,22051,22052,22053,22054,22055,22056,22057,22058,22059,22060,22061,22062,22063,22064,22065,22066,22067,22068,22069,22070,22071,22072,22073,22074,22075
+
+## REPLICAS_RU
+
+### Привет...
+
+Я Чун Юнь. Мои предки поколениями изгоняли демонов в Ли Юэ. Судьба великодушно пересекла наши пути. Э? Мои услуги бесплатны! Бесплатны!
+
+### Поболтаем: Изгнание демонов
+
+Экзорцист полагается на заклинания и меч. Проложить новый путь можно, но это не истинный путь.
+
+### Поболтаем: Диета
+
+Холодная еда остужает дух и успокаивает жизненную энергию... Настой цветка цинсинь со льдом эффективней всего.
+
+### Поболтаем: Мантры
+
+Сердце очистить, зло изгнать, разум просветлить, мир... эээм... хмм... всегда забываю, что там в конце.
+
+### Когда идёт дождь...
+
+Дождь - наичистейшая вода. Она поможет нам в борьбе со злом.
+
+### Когда гремит гром...
+
+Перед раскатами грома нечисть прячется в ужасе.
+
+### Когда идёт снег...
+
+Ах... Хорошая погода, как приятно.
+
+### Доброе утро...
+
+Так глупо тратить утренние часы впустую. Время для тренировки.
+
+### Добрый день...
+
+Духовные силы расцветают в полдень. Подходящее время для тренировки.
+
+### Добрый вечер...
+
+Когда день подходит к концу, и вечерняя тишина благоприятствует сосредоточению. Лучшее время для тренировки.
+
+### Спокойной ночи...
+
+Уф, это был трудный день. Тебе тоже пора спать. Не забудь, что мы договорились осмотреть тот дом с привидениями.
+
+### О Чун Юне: Экзорцисты
+
+Наш род экзорцистов защищал Ли Юэ с древних времён, передавая знания по наследству. Естественно, бороться со злом для нас легко.
+
+### О Чун Юне: Поручения
+
+Я вообще ничего не делал. Только зашёл в проклятый дом, и проблема разрешилась. Думаешь, стоит брать плату за такую работу?
+
+### О нас: Компаньоны
+
+Твои навыки впечатляют. Когда разберёшься с хиличур... эм... злыми духами, давай путешествовать вместе.
+
+### О нас: Истории о призраках
+
+Ты уже хорошо знаком со сверхъестественным в Ли Юэ. Я бы хотел посмотреть на призраков из других земель, о которых ты рассказывал. / Ты уже хорошо знакома со сверхъестественным в Ли Юэ. Я бы хотел посмотреть на призраков из других земель, о которых ты рассказывала.
+
+### Глаз Бога...
+
+Глаз Бога, конечно, очень силён, но нельзя слепо полагаться на него. Я всё же больше доверяю заклинаниям и своему мечу. Нет мастерства без усердной тренировки.
+
+### Давай поделимся...
+
+Ли Юэ полон слухами о злобных духах, но сложно отделить истину от выдумки. Много странных заказов в итоге вообще не имеют к ним никакого отношения.
+
+### Интересные вещи...
+
+Говорят, в янтарных ловушках на горе Хулао можно обнаружить много странных вещей. Может быть, среди них есть и монстры из древних легенд? Очень хотелось бы посмотреть.
+
+### О Чжун Ли...
+
+Этот Чжун Ли из ритуального бюро «Ваншэн» - интересный персонаж. Толпа крестьян может убить человека, экзорцисты могут изгнать демона, а он может похоронить Адепта.
+
+### О Син Цю...
+
+Я восхищаюсь боевым навыкам и благородством Син Цю. Но знай, у него есть и тёмная сторона. Если он всё-таки заденет тебя своими выходками, то обращайся ко мне, мы создадим «Общество жертв Син Цю». Вместе мы сила.
+
+### О Сяо...
+
+Охотник на демонов защищал Ли Юэ бок о бок с поколениями экзорцистов. День за днём, ночь за ночью. Я очень уважаю Адепта Сяо. Но этот великий человек... он говорит, что экзорцисты малочисленны и слабы и не заслуживают внимания. Я не могу этого принять!
+
+### О Ху Тао...
+
+Методы ритуального бюро «Ваншэн» заслуживают доверия, но когда я вижу эту наглую улыбку, которая как бы говорит «экзорцистам тут не о чем беспокоиться», то я просто закипаю... Фух, спокойствие, только спокойствие.
+
+### О Ци Ци...
+
+На вид она просто зомби, но как экзорцист я вижу, что... она особенная. Хм... Я не видел её имени среди почитаемых имён. Какое же отношение она имеет к божествам?
+
+### О Синь Янь...
+
+Я избегаю выступлений Синь Янь, словно чумы. Эта зажигательная атмосфера... Даже не желая того, сложно удержаться... Короче говоря, не нравится мне всё это.
+
+### О Сян Лин...
+
+Все хвалят кулинарное искусство Сян Лин, но сам я держусь подальше от её острых блюд... Да нет, ничего такого... Ну вот грибы в слизи слайма, это съедобно вообще?
+
+### О Шэнь Хэ...
+
+Старейшины моего клана говорили о ней. Участь её семьи... ей можно лишь сочувствовать. Мне казалось, что нам удастся вернуть её в клан. Узнав, что она жива, старшие тоже были вне себя от радости. Они даже приготовили ей подарки и выбрали подходящий день для воссоединения. Но мы не учли, что обычно её просто не найти... Погоди, согласно нашему положению в генеалогическом древе мне надлежит... Н-нет, я ни за что не стану называть Шэнь Хэ тётей...
+
+### О Е Лань...
+
+Мы встречались однажды, когда я только-только стал экзорцистом. Я получил заказ на проведение экзорцизма в одном доме, и уже собирался уходить, когда столкнулся с ней. Она записала моё имя. Думаю, она просто хотела убедиться, что я не делал ничего подозрительного... В общем, больше мы не встречались. 
+Наверное, смотреть на медитирующего меня было очень скучно. Ничего подозрительного.
+
+### Узнать больше о Чун Юне I
+
+Дисциплина превыше всего. Без неё горячность приведёт лишь к беде. Уж я-то знаю. Эм, в смысле, не на собственном опыте, конечно... Э... я много путешествовал по Ли Юэ и всякого навидался.
+
+### Узнать больше о Чун Юне II
+
+Говорят, что такая способность, как у меня, называется «чистой энергией Ян» и появляется раз в тысячу поколений. Из-за неё все злые духи разбегаются, едва завидев меня... Эх, в этом нет ничего хорошего. Я, наверное, единственный экзорцист, который ни разу не видел призрака.
+
+### Узнать больше о Чун Юне III
+
+«Чистая энергия Ян» приводит к излишней горячности, из-за которой я не раз попадал в постыдные ситуации. Поэтому я не ем горячего и острого, всегда ношу зонтик и не слушаю зажигательную музыку. Эх... Когда же она перестанет меня мучить?
+
+### Узнать больше о Чун Юне IV
+
+Бесполезно сидеть и ждать, пока зло покажется, нужно самому выслеживать его. Изгоняя призраков, я охраняю спокойствие жителей Ли Юэ и расширяю свой кругозор. Если кого-то беспокоит злой дух, то я обязательно приду на помощь.
+
+### Узнать больше о Чун Юне V
+
+Моя высшая цель как экзорциста - полностью избавить мир от злых духов. Если эта великая мечта исполнится, то я, возможно, смогу попробовать горячие источники, или заоблачный перчик, или... другие волнующие занятия... Ох, нет, нельзя. Даже думать об этом слишком волнующе... Нельзя.
+
+### Хобби Чун Юня...
+
+Мои? Мне нравится слушать рассказчиков. От рассказов Чайного доктора о сверхъестественном всегда волосы дыбом встают. Давай вместе сходим послушать, когда время будет.
+
+### Беспокойство Чун Юня...
+
+Потратив много сил, после долгих поисков я, наконец, обнаружил старый храм с привидениями. И вот я провёл в засаде четыре дня, но даже намёка на привидения не увидел. Эх... Такое со мной случается постоянно.
+
+### Любимая еда...
+
+После дня тренировок нет ничего лучше, чем свежие морепродукты из Инадзумы с холодной закуской. От приятной прохлады инадзумской кухни сразу забываешь об усталости.
+
+### Нелюбимая еда...
+
+Всё горячее и острое для меня под запретом. Если в блюде попадётся заоблачный перчик... ох, даже думать страшно.
+
+### День рождения...
+
+В день твоего рождения прими этот ледяной цветок, который я вырезал сам. Если столкнёшься со злым духом, то брось в него цветок. Внутри заключено заклинание, которое поможет тебе сбежать. Ах, да... с днём рождения.
+
+### Чувство возвышения: Начало
+
+Экзорцисты тоже часто используют эти материалы для своих заклинаний. Не думал, что с их помощью можно очистить свой дух.
+
+### Чувство возвышения: Нарастание
+
+В искусстве боя и в искусстве заклинаний есть много неизведанного. С твоей помощью я узнал много нового.
+
+### Чувство возвышения: Кульминация
+
+Я раньше и не задумывался о таких вершинах боевого искусства. Рука следует за взглядом, меч и человек едины... Наконец, я осознал!
+
+### Чувство возвышения: Окончание
+
+Овладев этими техниками, я стал ещё ближе к воплощению мечты о мире без злых духов. Я вечно буду помнить, как много ты для меня сделал. Возможно, теперь я готов пройти через огонь своей души. / Овладев этими техниками, я стал ещё ближе к воплощению мечты о мире без злых духов. Я вечно буду помнить, как много ты для меня сделала. Возможно, теперь я готов пройти через огонь своей души.
+
+### Элементальный навык I
+
+Морозное касание!
+
+### Элементальный навык II
+
+Вперёд, мой клинок!
+
+### Элементальный навык III
+
+Быстрота и сострадание!
+
+### Элементальный навык IV
+
+Одно целое с клинком!
+
+### Взрыв стихии I
+
+Возвращайся туда, откуда ты пришёл!
+
+### Взрыв стихии II
+
+Клинок духа, в атаку!
+
+### Взрыв стихии III
+
+Подчинись правосудию!
+
+### Запуск планера I
+
+Я могу оседлать ветер и тучи!
+
+### Открытие сундука I
+
+Хм, это может оказаться полезным при изгнании злых духов.
+
+### Открытие сундука II
+
+Не зря трудились!
+
+### Открытие сундука III
+
+Неожиданно, но приятно.
+
+### Низкий уровень HP I
+
+Просто царапина.
+
+### Низкий уровень HP II
+
+Не надо было недооценивать врага.
+
+### Низкий уровень HP III
+
+Обуздай свой гнев!
+
+### Низкий уровень HP компаньона I
+
+Я помогу.
+
+### Низкий уровень HP компаньона II
+
+Держись!
+
+### Без сознания I
+
+После стольких лет тренировок...
+
+### Без сознания II
+
+Бич зла никуда не делся...
+
+### Без сознания III
+
+Это конец для экзорцистов...
+
+### Получен тяжёлый удар I
+
+Но как?!
+
+### Присоединяется к группе I
+
+Тут.
+
+### Присоединяется к группе II
+
+Моя мантра, изгоняющая демонов, готова.
+
+### Присоединяется к группе III
+
+Пора потренироваться?
+
+### Подарок I
+
+Холодные блюда как раз по мне! Съем после тренировки.
+
+### Подарок II
+
+Прости, понимаю, ты хотел как лучше, но мне придётся подождать, чтобы блюдо остыло, прежде чем его есть... / Прости, понимаю, ты хотела как лучше, но мне придётся подождать, чтобы блюдо остыло, прежде чем его есть...
+
+### Подарок III
+
+О нет! Ты добавил заоблачный перчик? / О нет! Ты добавила заоблачный перчик?
+
+## REPLICAS_EN
+
+### Hello
+
+My name is Chongyun. My family has practiced the art of exorcism in Liyue for many generations. Fate has been generous in allowing my path to cross with that of your distinguished self. ...Oh, no — my services are free of charge!
+
+### Chat: The Art of Exorcism
+
+Exorcism uses thaumaturgy and martial arts to conquer evil. There are other means to the same end, but they are not the true way.
+
+### Chat: Diet
+
+I take my meals cold to quiet the spirit and calm my vital energies. Qingxin-infused water with ice is the most effective.
+
+### Chat: Mantras
+
+"Heart be pure, evil be erased. Mind be purged, world be..." Um... Ugh, I always forget that last part.
+
+### When It Rains
+
+There is no purer form of water than rain. It can aid us greatly in the purging of evil.
+
+### When Thunder Strikes
+
+Before the resounding thunder, evil must cower in fear.
+
+### When It Snows
+
+Ah, this weather is delightful.
+
+### Good Morning
+
+It is unwise to waste the precious morning hours. Time to train!
+
+### Good Afternoon
+
+One's spiritual energies are at their peak at noon. We must take that time to practice.
+
+### Good Evening
+
+As the day winds down and the quiet of evening sets in, the atmosphere is ripe for focusing your mind. There is no better time than this for training.
+
+### Good Night
+
+Whew. What a tiring day. You should get some rest. Don't forget what we agreed — we will investigate that haunted house tomorrow.
+
+### About Chongyun: Exorcists
+
+We exorcists have been protectors of Liyue since ancient times, and our techniques have been passed down from generation to generation. Purging evil is second nature to us.
+
+### About Chongyun: Commissions
+
+*sigh* I didn't actually do anything. I just walked into that haunted house, and the problem was resolved... Do you think I should still take payment for this exorcism?
+
+### About Us: Companions
+
+Your skills are impressive. When you finish with a hilichurl— I mean, an evil spirit, it is surely banished from this world for good. How about we team up?
+
+### About Us: Ghost Stories
+
+By now, you must be well acquainted with Liyue's supernatural phenomena. Now, about the evil beings you speak of in lands beyond... I would very much like to see them too.
+
+### About the Vision
+
+Visions are powerful, but one would be foolish to place blind faith in them. Personally, I trust more in thaumaturgy and martial arts. In the end, one cannot become truly proficient without vigorous training.
+
+### Something to Share
+
+There are rumors abound concerning evil spirits in Liyue, but not all have truth to them. In fact, some strange commissions wind up having nothing to do with them at all.
+
+### Interesting Things
+
+I have heard there are many strange and rare things sealed within the amber from Mt. Hulao. Could some of them be the fabled demons of which the ancient legends speak? I would love to investigate.
+
+### About Zhongli
+
+That Zhongli from the Wangsheng Funeral Parlor seems to be quite an incredible man. Just think, common folk might gang up to commit a murder, we exorcists vanquish demons — but he alone buries the bodies of the adepti.
+
+### About Xingqiu
+
+I do admire Xingqiu for his devotion to chivalry and his martial arts proficiency. However — I must warn you that he definitely has a mean side, too. If you find that you fall foul of any of his antics, come to me and we'll form a "Victims of Xingqiu" alliance. There is strength in numbers.
+
+### About Xiao
+
+The Conqueror of Demons himself has defended Liyue side-by-side with we exorcists for generations, day after day, night after night. I have the utmost respect for Adeptus Xiao. It's just... Why must he be so disparaging toward us? He says our repertoire is lacking and our power is trivial. I'm sorry, but I just can't accept that.
+
+### About Hu Tao
+
+The Wangsheng Funeral Parlor is a reputable institution that acts with integrity. But whenever I see that cheeky smile that says, "It's nothing you exorcists need to worry about," it just makes my blood boil... Whoa, deep breaths, Chongyun. Stay calm.
+
+### About Qiqi
+
+She looks like a zombie, but as an exorcist, I feel there's... something different about her. Hmm, her name is also absent from all the praised names I've seen... Where exactly does she fit in among the deities?
+
+### About Xinyan
+
+I avoid Xinyan's performances like the plague. That heated atmosphere... Even if you don't intend to get involved, it still... Let's just say that it gets me all hot and bothered.
+
+### About Xiangling
+
+Xiangling's cooking is universally praised, but I personally don't touch any of her spicy dishes. Why? Oh, you know — just, uh... personal preference, that's all. I mean, come on, Mushroom Slime Stew... Does that sound appetizing to you?
+
+### About Shenhe
+
+The elders in my clan have mentioned her before. The fate of her family... *sigh* It's something we can all sympathize with. I originally thought we would be able to bring a long-lost relative back into our clan. The elders were overjoyed, too, when they heard she was still alive — they even prepared gifts for her, and picked an auspicious day for a grand reunion. What we hadn't counted on was that most of the time, she's extremely difficult to track down. Wait a minute, based on our relative positions in the family tree, does that mean that I... There's no way I'd have to call her "Auntie Shenhe"... right?
+
+### About Yelan
+
+I met her once, back when I'd just become an exorcist. I'd taken a commission to perform an exorcism in someone's home, and was just leaving at the end when I ran into her. She wrote my name down in a booklet — I guess she just wanted to confirm I wasn't doing anything suspicious... Anyway, it was just that one time, I never saw her again after that.
+Now that I think about it, it's probably because the sight of me meditating motionless must be pretty boring to watch. Not exactly suspicious.
+
+### More About Chongyun: I
+
+Discipline is everything. Unbridled passion can have disastrous consequences. Trust me, I would know. ...Oh, no no no, not from personal experience, of course. Haha... Uh... I'm just stating my observations from what I've seen in my travels around Liyue.
+
+### More About Chongyun: II
+
+I was born with a pure yang spirit, meaning I have too much positive energy... Apparently it's so rare it only happens once every thousand generations or so. It means I repel all evil for miles around... *sigh* Actually, that's a bad thing. I must be the only exorcist in history who can't get within ten miles of an evil spirit.
+
+### More About Chongyun: III
+
+One of the main consequences of having a pure yang spirit is excess passion, something which has gotten me into many embarrassing situations. In an effort to alleviate these symptoms, I have to abstain from eating chilis and all hot food. I also have to take a parasol with me everywhere, and I avoid listening to rousing music. I wonder, will I ever find a way to work around my condition?
+
+### More About Chongyun: IV
+
+Waiting for evil to show up at the doorstep will get you nowhere — you have to go out and hunt it down. By purging Liyue of evil spirits, I bring peace of mind to people and also broaden my horizons. If an evil spirit ever bothers you, just let me know. I'll come and help you out right away.
+
+### More About Chongyun: V
+
+To permanently banish the forces of evil from the world is my ultimate goal as an exorcist. If that grand day ever comes, I suppose I should be able to consider trying many new things, such as hot springs, Jueyun Chilis, and... partaking in other activities of a more passionate nature. Ugh, what am I doing... Ugh, I shouldn't be dwelling on these things, even thinking about them is too stimulating for me...
+
+### Chongyun's Hobbies
+
+I like listening to Tea Master Liu's stories. His narration really brings the hair-raising tales of the supernatural to life. Why not come with me some time?
+
+### Chongyun's Troubles
+
+After making numerous inquiries and putting in an enormous amount of effort, I finally tracked down the location of an old haunted temple. So I camped out there for four whole days, ready to exorcise the hell out of that place... and nothing happened. Not even the faintest glimpse of an evil spirit. *sigh* Sadly, this is a regular occurrence for me.
+
+### Favorite Food
+
+Nothing makes me happier than sitting down to an authentic Inazuman meal, ingredients imported of course. After training hard all day, the ice-cold freshness of Inazuman cuisine takes the exhaustion away.
+
+### Least Favorite Food
+
+Anything piping hot and laden with chilis is an absolute no-go for me. The mere thought of a Jueyun Chili gives me hot flashes.
+
+### Birthday
+
+On the anniversary of your birth, please accept this gift of a flower, made of ice crystals. I carved it myself. If you ever encounter an evil spirit, cast this toward it — the spell I have cast upon it will immediately come into effect and hopefully get you out alive. Also... Happy birthday.
+
+### Feelings About Ascension: Intro
+
+We often use these materials for thaumaturgy during exorcisms — I never knew they could be used to purify one's own spirit, too.
+
+### Feelings About Ascension: Building Up
+
+Martial arts and thaumaturgy are alike in that there are always new dimensions to explore. Thanks to your guidance, I can see myself making progress.
+
+### Feelings About Ascension: Climax
+
+Never before have I fathomed such lofty heights of martial prowess! For eye and hand, man and blade to act in unity... Truly, I have been enlightened.
+
+### Feelings About Ascension: Conclusion
+
+With all the secrets arts that I have learned, my goal of banishing all evil from the world is finally in view. I will never forget how much you have done for me. Maybe now I even have what it takes to face the flames of my positive energy, and see if I can take the heat.
+
+### Elemental Skill: I
+
+A touch of frost!
+
+### Elemental Skill: II
+
+Forth, my blade!
+
+### Elemental Skill: III
+
+Swift and merciful!
+
+### Elemental Skill: IV
+
+One with my blade!
+
+### Elemental Burst: I
+
+From whence you came!
+
+### Elemental Burst: II
+
+Spirit blade, attack!
+
+### Elemental Burst: III
+
+Submit for judgment!
+
+### Deploying Wind Glider: I
+
+I ride on wind and cloud alike.
+
+### Opening Treasure Chest: I
+
+Hmm, objects like this may prove useful when purging evil spirits.
+
+### Opening Treasure Chest: II
+
+It was worth the trouble!
+
+### Opening Treasure Chest: III
+
+Unexpected, but welcome.
+
+### Low HP: I
+
+Barely a scratch.
+
+### Low HP: II
+
+I cannot underestimate my enemy.
+
+### Low HP: III
+
+Curb your fury!
+
+### Ally at Low HP: I
+
+I'm in position.
+
+### Ally at Low HP: II
+
+Hang on!
+
+### Fallen: I
+
+After all that training...
+
+### Fallen: II
+
+The scourge of evil remains...
+
+### Fallen: III
+
+This spells the end of the exorcists...
+
+### Heavy Hit Taken: I
+
+But how!?
+
+### Joining Party: I
+
+Present.
+
+### Joining Party: II
+
+My demon-expelling mantra is ready.
+
+### Joining Party: III
+
+Time for some training?
+
+### Receiving a Gift: I
+
+Cold dishes are just to my liking! I'll save some for after my training.
+
+### Receiving a Gift: II
+
+I'm sorry, I know you mean well, but I really need to wait for it to cool off before I eat it.
+
+### Receiving a Gift: III
+
+Oh no! Did you put Jueyun Chilis in this?
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我名重云，家族久居璃月，世代以驱邪除魔为业。今日萍水相逢，看来我与阁下有些缘分。唔…不收钱的，不收钱！
+
+### 闲聊·驱邪之法
+
+方士驱邪一靠咒术，二赖武艺。另辟蹊径亦可，但终非正道。
+
+### 闲聊·饮食
+
+寒食饮冰利于平神静气…清心泡水辅以冰块饮下，对身体最好。
+
+### 闲聊·口诀
+
+驱邪缚魅，内外澄清，啊，呃…糟了，后半句口诀忘了。
+
+### 下雨的时候…
+
+雨是无根水，是最澄净的水，对驱邪除魔大有帮助。
+
+### 打雷的时候…
+
+这落雷好大阵仗，妖邪也会惧怕的吧。
+
+### 下雪的时候…
+
+啊…好天气，真是舒服。
+
+### 早上好…
+
+早晨的好时光可不能辜负，抓紧练功。
+
+### 中午好…
+
+正午灵气极盛，可得抓紧练功。
+
+### 晚上好…
+
+晚间最适静息凝神，更要抓紧练功。
+
+### 晚安…
+
+呼，累了一整天，你也休息去吧。明天再去传闻中鬼怪出没的老宅看看，说好了。
+
+### 关于重云自己·方士
+
+我们方士一派自古守护璃月，传承久远，剿杀邪魔自然是手到擒来。
+
+### 关于重云自己·委托
+
+明明什么都没做，只是进了凶宅的门就解决了问题。这个委托的报酬，你觉得是拿还是不拿呢？
+
+### 关于我们·旅伴
+
+你的本事不错，对丘丘…咳…邪魔从不手软，我们结伴而行如何。
+
+### 关于我们·怪谈
+
+璃月的奇闻异事你已经见了不少吧，你说的那些方外的鬼怪，我…我也想看看。
+
+### 关于「神之眼」…
+
+「神之眼」虽然厉害，却不可盲目依赖。我还是更加信任方术和武技。本事要精进，还是得勤学苦练。
+
+### 有什么想要分享…
+
+璃月的土地上妖邪传闻虽然众多，但真假掺杂，有些奇奇怪怪的委托…其实跟鬼怪一点关系也没有。
+
+### 感兴趣的见闻…
+
+听说琥牢山的琥珀中封存了不少稀奇古怪的东西，会不会也有一些历史传说中的妖邪呢？真想见识见识。
+
+### 关于钟离…
+
+「往生堂」的钟离先生啊，隐约觉得是个厉害角色，凡夫恶党杀人，我们方士除妖，他居然能葬仙人。
+
+### 关于行秋…
+
+我虽然敬佩行秋的武艺和侠心。但是我一定要事先提醒你，他坏心思也不少。如果真的发生了什么事情，记得回来和我结成受害者同盟啊。
+
+### 关于魈…
+
+降魔大圣和我们方士一派，一暗一明，共守璃月，历史已久，我非常尊敬魈上仙。但是，那位大人居然说…居然说什么驱邪方士量小力微不值一提，我，我绝对不能苟同！
+
+### 关于胡桃…
+
+「往生堂」的手段还是信得过的。但是那副「不用你们方士操心」的嘻嘻笑脸却看着让人火大…呼，冷静冷静。
+
+### 关于七七…
+
+看起来是个僵尸小姑娘，但作为方士我能察觉到…她可不一般。嗯…名字也不见宝诰之中，究竟是哪尊呢…
+
+### 关于辛焱…
+
+我会尽可能避开辛焱演出的区域。那般热烈的气氛，即使无意融入，也难免受其影响…我是说，会让人不自在。
+
+### 关于香菱…
+
+香菱做菜的手艺有口皆碑，但是她那些辛辣烫口的菜品我是绝对不会碰的…没有，没有什么…你看，史莱姆滑蘑菇？这能吃吗？
+
+### 关于申鹤…
+
+我曾听家中长辈聊起过她。她家的遭遇…很让人同情。原以为这次能够让分家的远亲重回家中，长辈们听说她还活着也都高兴坏了，说是要备上礼物，择个吉日好好聚聚。却没想到，平日根本见不到她的人影…等等，按辈分来算的话，我、我该不会…要叫她「小姨」吧…
+
+### 关于夜兰…
+
+我初任方士那会儿，受邀到委托人家中驱邪，离开时，曾撞见过这位女性。她把我的名字记在某个小册子里，或许是想确认我有没有做值得怀疑的事吧。不过就那一次，后来再没遇见过她。
+现在想想，大概是因为我平日打坐总是一动不动，谁看着都会觉得无趣吧。
+
+### 想要了解重云·其一
+
+本事很重要，不然空有热血，只会坏事。对于这点，我深有体会。啊，倒不是我自己的体会，呃…是近年行走璃月，观看人间百态的感悟。
+
+### 想要了解重云·其二
+
+我天生是「纯阳之体」，据说千年难遇，所有鬼怪对我退避三舍。唉…这其实一点都不好，哪有见不着鬼怪的驱邪方士。
+
+### 想要了解重云·其三
+
+「纯阳之体」常常导致热血太盛，没少害我出糗。我不食辛辣高温、出门撑伞、回避激荡的音律，就是为了克制它。唉…什么时候这体质才能不妨碍我呢？
+
+### 想要了解重云·其四
+
+坐等妖邪现身是没用的，得主动寻访。我为璃月人镇邪，于人能免去烦愁，于我也能广开视野。如果你遇到邪祟搅扰，我一定也会立刻来帮你。
+
+### 想要了解重云·其五
+
+剿灭天下妖邪是我身为方士的最终目标，将来这个宏愿实现之后，不管是温泉、绝云椒椒还是别的什么…热血刺激的东西，我其实…都可以考虑。唔…不行。这样想想就会有些激动…不好不好。
+
+### 重云的爱好…
+
+我？嗯…我最喜欢的还是听说书。茶博士总是能把各种奇闻怪谈讲得惊心动魄。有空不妨一道去听听。
+
+### 重云的烦恼…
+
+经我多方打听，费了好大功夫，才找到一处破庙有妖邪出没！于是，我守了四天，却完全不见妖邪的影子。唉…这种事经常发生。
+
+### 喜欢的食物…
+
+每日修行完毕后，要是能吃上稻妻运来的生鲜还有冷餐就好了，那种冰凉清爽的口感能缓解所有疲劳。
+
+### 讨厌的食物…
+
+所有又烫又辣的食物我都不能入口。如果是有绝云椒椒的菜，啊，想想就吓人。
+
+### 生日…
+
+今天是你的生辰，这朵冰晶结成的小花送你，是我自己雕的。如果遇到妖邪，掷出冰花，我封入的咒术自会生效，助你脱险。啊…还有，生日快乐。
+
+### 突破的感受·起
+
+驱邪的术法也常常用到这些材料，没想到还能用于提升自己的灵气。
+
+### 突破的感受·承
+
+习武与术法一样，都有境界。受你指导，我又有进益了。
+
+### 突破的感受·转
+
+原来习武之道还有这样一种境界，手眼相通，人与剑合…嗯，我悟到了！
+
+### 突破的感受·合
+
+领悟了这些武技，「剿灭天下妖邪」的愿望或许就能达成了。你一路相助，我当然铭感在心，今后赴汤蹈火在所不辞。
+
+### 元素战技·其一
+
+剑印染冰！
+
+### 元素战技·其二
+
+剑，出！
+
+### 元素战技·其三
+
+急如敕令。
+
+### 元素战技·其四
+
+听我法旨。
+
+### 元素爆发·其一
+
+邪魔退去！
+
+### 元素爆发·其二
+
+宝印幻剑！
+
+### 元素爆发·其三
+
+束手伏诛吧。
+
+### 打开风之翼·其一
+
+且看踏风纵云的本领。
+
+### 打开宝箱·其一
+
+这等器物，有助于驱邪除魔。
+
+### 打开宝箱·其二
+
+不枉你我一番劳苦！
+
+### 打开宝箱·其三
+
+意外之喜。
+
+### 生命值低·其一
+
+小伤不足挂齿。
+
+### 生命值低·其二
+
+不能再轻敌了。
+
+### 生命值低·其三
+
+你莫猖狂！
+
+### 同伴生命值低·其一
+
+我来助你。
+
+### 同伴生命值低·其二
+
+务必撑住！
+
+### 倒下·其一
+
+还是技不如人吗…
+
+### 倒下·其二
+
+妖邪…未除…
+
+### 倒下·其三
+
+辱没了…方士一门…
+
+### 重受击·其一
+
+居然！
+
+### 加入队伍·其一
+
+得令。
+
+### 加入队伍·其二
+
+我有咒毒杀鬼方。
+
+### 加入队伍·其三
+
+是去练功么？
+
+### 收到赠礼·其一
+
+口感凉爽，正合我意！我要多留一些，等到修行完毕后再来享用。
+
+### 收到赠礼·其二
+
+不好意思啊。明明是你的一片心意，我却只能放凉再吃…
+
+### 收到赠礼·其三
+
+糟糕！这味道是…绝云椒椒？

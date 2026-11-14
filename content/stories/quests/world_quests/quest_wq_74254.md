@@ -14,17 +14,25 @@
 # chapter_num_zh:
 # part_source_ids: 74254
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74254
-# quest_series:
+# quest_series: sandrones_tea_meetings
 # version_source: wiki_release_category
+# game_source_ids: 74254
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_ru: Приглашение от леди
+# quest_series_order: 50
 
 ## RU
 
 ### Вальс Нарцисса
 
 Отправляйтесь к скрытому убежищу, поставьте чайный столик и, усадив Сандроне, устройте чаепитие в компании гостей...
+
+#### Отправляйтесь в скрытое убежище, чтобы начать чаепитие
+
+#### Отправляйтесь в скрытое убежище, чтобы начать чаепитие
 
 #### Наслаждайтесь чаепитием
 
@@ -68,13 +76,15 @@
 
 **Мари-Анн:** Какой тихий и приятный денёк.
 
-- **Путешественник:** (Посидим ещё немного.)
-
-- **Путешественник:** Думаю, чаепитие пора заканчивать.
+##### Вариант ответа 1
 
 **Марионетка:** (Посидим ещё немного.)
 
+##### Вариант ответа 2
+
 **Марионетка:** Думаю, чаепитие пора заканчивать.
+
+##### Общее продолжение
 
 **Мари-Анн:** Гм, спасибо за приглашение. Сандроне... сестрёнка Сандроне?
 
@@ -83,6 +93,10 @@
 ### Narcissus's Waltz
 
 Go to the hidden dwelling, place your tea table, and have Sandrone take a seat. Then, prepare to enjoy some tea with the guests...
+
+#### Go to the hidden dwelling to start the tea party
+
+#### Go to the hidden dwelling to start the tea party
 
 #### Enjoy teatime
 
@@ -126,13 +140,15 @@ Go to the hidden dwelling, place your tea table, and have Sandrone take a seat. 
 
 **Mary-Ann:** Such a peaceful, pleasant day.
 
-- **Traveler:** (Let's sit like this for a little while longer.)
-
-- **Traveler:** I think it's time I started clearing up.
+##### Response branch 1
 
 **Marionette:** (Let's sit like this for a little while longer.)
 
+##### Response branch 2
+
 **Marionette:** I think it's time I started clearing up.
+
+##### Shared continuation
 
 **Mary-Ann:** Mmhmm, thank you for the invitation, Sandrone... Or should I call you "little sister"?
 
@@ -141,6 +157,10 @@ Go to the hidden dwelling, place your tea table, and have Sandrone take a seat. 
 ### 水仙的圆舞曲
 
 前往隐居处放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…
+
+#### 前往隐居处开启茶会
+
+#### 前往隐居处开启茶会
 
 #### 享受茶会时光
 
@@ -184,12 +204,14 @@ Go to the hidden dwelling, place your tea table, and have Sandrone take a seat. 
 
 **玛丽安:** 真是平静惬意的日子。
 
-- **旅行者:** （再这么坐一会儿吧。）
-
-- **旅行者:** 茶会时间该结束了。
+##### 对话分支 1
 
 **「木偶」:** （再这么坐一会儿吧。）
 
+##### 对话分支 2
+
 **「木偶」:** 茶会时间该结束了。
+
+##### 共同后续
 
 **玛丽安:** 嗯，感谢你的邀请。桑多涅…妹妹？

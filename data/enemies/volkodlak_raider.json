@@ -1,0 +1,82 @@
+{
+  "id": "volkodlak_raider",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/volkodlak_raider.webp",
+  "title": {
+    "ru": "Волкодлак-налётчик",
+    "en": "Volkodlak Raider",
+    "zh": "兽怪捷掠者"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Волкодлак-налётчик",
+    "Volkodlak Raider",
+    "兽怪捷掠者"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Среди многочисленных волкодлаков Снежной эта разновидность отличается небольшими размерами и превосходной ловкостью.\nИменно благодаря своей проворности и чувствам, значительно превосходящим человеческие, они способны инстинктивно уклоняться от множества атак, что делает их крайне опасными противниками в ближнем бою.",
+    "en": "A relatively small and agile type of Volkodlak found among the many that roam Snezhnaya.\nWith their swift movements and senses keener than a human's, they can evade many attacks in battle by instinct alone, making them quite troublesome opponents in close-quarters combat.",
+    "zh": "在至冬的诸多兽怪之中，相对小巧和敏捷的那类。\n正是因为行为敏捷，而五感要比人类更为敏锐，在战斗中可以依靠直觉躲避很多攻击，在近距离缠斗时是相当麻烦的对手。"
+  },
+  "description": {
+    "ru": "Среди многочисленных волкодлаков Снежной эта разновидность отличается небольшими размерами и превосходной ловкостью.\nИменно благодаря своей проворности и чувствам, значительно превосходящим человеческие, они способны инстинктивно уклоняться от множества атак, что делает их крайне опасными противниками в ближнем бою.",
+    "en": "A relatively small and agile type of Volkodlak found among the many that roam Snezhnaya.\nWith their swift movements and senses keener than a human's, they can evade many attacks in battle by instinct alone, making them quite troublesome opponents in close-quarters combat.",
+    "zh": "在至冬的诸多兽怪之中，相对小巧和敏捷的那类。\n正是因为行为敏捷，而五感要比人类更为敏锐，在战斗中可以依靠直觉躲避很多攻击，在近距离缠斗时是相当麻烦的对手。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112152",
+      "title": {
+        "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+        "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+        "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112152.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112152",
+          "title": {
+            "ru": "Наросший осколок",
+            "en": "Accreted Fragment",
+            "zh": "沉积残片"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp"
+        },
+        {
+          "key": "material_112153",
+          "title": {
+            "ru": "Осадочный сгусток",
+            "en": "Accreted Mass",
+            "zh": "沉积结块"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112153.webp"
+        },
+        {
+          "key": "material_112154",
+          "title": {
+            "ru": "Осадочный нарост",
+            "en": "Accreted Growth",
+            "zh": "沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112154.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

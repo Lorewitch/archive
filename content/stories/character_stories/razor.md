@@ -279,3 +279,806 @@ Because the day may come when his Lupical faces another threat, and this time, h
 「不想再让任何同伴受伤了。」
 雷泽使用「神之眼」的技巧日渐熟练。他暗暗下了决心：要变强，变得比谁都强。
 危险来临时，他必将保护他的「卢皮卡」。
+
+# voice_source_ids: 9100,9101,9102,9103,9104,9105,9106,9107,9108,9109,9110,9111,9112,9113,9114,9115,9116,9117,9118,9119,9120,9121,9122,9123,9124,9125,9126,9127,9128,9129,9130,9131,9132,9133,9134,9135,9136,9137,9138,9139,9140,9141,9142,9143,9144,9145,9146,9147,9148,9149,9150,9151,9152,9153,9154,9155,9156,9157,9158,9159,9160,9161,9162,9163,9164,9165
+
+## REPLICAS_RU
+
+### Привет...
+
+Ты вкусно пахнешь... Давай охотиться вместе!
+
+### Поболтаем: Запах
+
+Ммм, кролик...
+
+### Поболтаем: Голод
+
+Голоден. Давай охотиться.
+
+### Поболтаем: Буревестник
+
+Я охранять. Уйдёшь - позови меня.
+
+### Когда гремит гром: Напоминание
+
+Боишься грома - прячься.
+
+### Когда гремит гром: Провожать
+
+Обходи деревья, иди за мной!
+
+### Когда дует ветер...
+
+Ветер... Да... Нравится.
+
+### Когда дует сильный ветер...
+
+Ветер сильный... Кусает больно.
+
+### Доброе утро...
+
+Солнце высоко. Пора охотиться.
+
+### Добрый день...
+
+Я наелся. Большие куски мяса. Мне хорошо!
+
+### Добрый вечер...
+
+Посмотрю на луну... Спи!
+
+### Спокойной ночи...
+
+Ты спи, я сторожить.
+
+### О Рэйзоре...
+
+Я волк. Люди, семья - нет.
+
+### О нас: Друзья
+
+Ты мой друг. Мы охотимся. Вместе.
+
+### О нас: Оружие
+
+У меня железные когти и громовые клыки. Я буду защищать тебя.
+
+### Глаз Бога...
+
+Учитель и Глаз Бога помогают. Громовой клык защищает Лупикал.
+
+### Давай поделимся...
+
+Я люблю звёзды. Много звёзд. В небе, в воде. И в городе.
+
+### Интересные вещи...
+
+Волчья стая - это моя Лупикал... Моя семья.
+
+### О Лизе...
+
+Учитель бьёт молнией, небо темнеет. Она сильная. Я боюсь.
+
+### О Барбаре...
+
+Барбара, яркая девушка. Очень добрая.
+
+### О Дилюке...
+
+Дилюк красный и чёрный. Холодный и горячий.
+
+### О Венти...
+
+Стихи? Не понимаю. Не понимаю, но Лупикал любит.
+
+### О Беннете...
+
+Беннет, говорит много. Кушаем вместе, всегда мало.
+
+### О Кли...
+
+Кли - друг! Друг, но... шумная.
+
+### О Варке: Незнакомец
+
+Варка? Не знаю...
+
+### О Варке: Воспоминания
+
+Ох... Варка - это имя. Тот мужчина, большой. Моё имя, Рэйзор, стальные когти, он дал. Хочу увидеться.
+
+### Узнать больше о Рэйзоре I
+
+Твой запах, добрый. Любишь мясо?
+
+### Узнать больше о Рэйзоре II
+
+Ты сильный. Как волк. Хочу охотиться с тобой. Мы много поймаем. / Ты сильная. Как волк. Хочу охотиться с тобой. Мы много поймаем.
+
+### Узнать больше о Рэйзоре III
+
+«Лупикал» - это волчий дом. Нет, это волчья семья. Моя Лупикал живёт в лесу. Они говорят, я их Лупикал.
+
+### Узнать больше о Рэйзоре IV
+
+У меня есть только Лупикал. Но у меня не четыре ноги, не как у них. Потому что я не настоящий волк. Иногда мне грустно.
+
+### Узнать больше о Рэйзоре V
+
+Когда я бегаю с тобой, когда я охочусь с тобой, мне хорошо. С тобой я не волк и не человек, я просто я, Рэйзор. Потому что ты мой друг. Ты моя Лупикал. Надеюсь, тебе тоже хорошо.
+
+### Хобби Рэйзора...
+
+Я люблю Лупикал. Я люблю лес. Я люблю друзей. Я люблю бегать!
+
+### Беспокойство Рэйзора...
+
+Много разговоров, я устаю. Разговаривать тяжело. Но я буду пытаться.
+
+### Любимая еда...
+
+Мне нравится мясо и картошка.
+
+### Нелюбимая еда...
+
+Трава невкусная. Животные едят траву. Я ем животных.
+
+### День рождения...
+
+Сегодня твой день. Ты родился сегодня, много лун прошло. Я хочу сделать тебе хорошо. Пошли вместе есть мясо? / Сегодня твой день. Ты родилась сегодня, много лун прошло. Я хочу сделать тебе хорошо. Пошли вместе есть мясо?
+
+### Чувство возвышения: Начало
+
+Руки... больше?
+
+### Чувство возвышения: Нарастание
+
+Ррр! Острые когти. Острые клыки. Ещё сильнее!
+
+### Чувство возвышения: Кульминация
+
+Бегать, охотиться... Мало, надо ещё, надо сильнее!
+
+### Чувство возвышения: Окончание
+
+Клыки, когти, ноги, всё больше, всё сильнее! Чтобы защитить тебя.
+
+### Элементальный навык I
+
+Вернись!
+
+### Элементальный навык II
+
+А!
+
+### Элементальный навык III
+
+Ой!
+
+### Элементальный навык IV
+
+Назад!
+
+### Взрыв стихии I
+
+Ар-р-р!
+
+### Взрыв стихии II
+
+Блиц!
+
+### Взрыв стихии III
+
+*рычит*
+
+### Взрыв стихии IV
+
+Рар-р-р!
+
+### Открытие сундука I
+
+Эти штуки... полезны?
+
+### Открытие сундука II
+
+Пустой сундук... Можно хранить.
+
+### Открытие сундука III
+
+Запах сокровищ... странный.
+
+### Низкий уровень HP I
+
+Ар-р!
+
+### Низкий уровень HP II
+
+Ау-у-у-у!
+
+### Низкий уровень HP III
+
+Я убью тебя!
+
+### Низкий уровень HP компаньона I
+
+Нет!
+
+### Низкий уровень HP компаньона II
+
+Очнись!
+
+### Без сознания I
+
+Не могу... дышать...
+
+### Без сознания II
+
+Заберите меня...
+
+### Без сознания III
+
+Лупикал... моя Лупикал...
+
+### Получен тяжёлый удар I
+
+Я чувствую вкус крови...
+
+### Присоединяется к группе I
+
+Я на разведку.
+
+### Присоединяется к группе II
+
+Мы идём на охоту!
+
+### Присоединяется к группе III
+
+Я прикрою тебя.
+
+### Подарок I
+
+Запах хороший. Вкус хороший. Мне нравится.
+
+### Подарок II
+
+Еда даёт энергию. Приносит счастье.
+
+### Подарок III
+
+Есть - плохо. Не есть - плохо. Грустно.
+
+## REPLICAS_EN
+
+### Hello
+
+You smell... *sniff* nice! Let's hunt.
+
+### Chat: Scent
+
+*sniff* I smell rabbit.
+
+### Chat: Hunger
+
+I'm hungry. Let's hunt.
+
+### Chat: Wind-gazing
+
+I keep watch. You leave, you call me.
+
+### When Thunder Strikes: Warning
+
+If you're scared of lightning, hide now.
+
+### When Thunder Strikes: Guidance
+
+Avoid the trees. Follow me.
+
+### When It's Windy
+
+Wind... I like the wind.
+
+### When the Wind Is Blowing
+
+The wind... bites hard.
+
+### Good Morning
+
+The sun is up. Time to hunt.
+
+### Good Afternoon
+
+I had a big lunch. Lots of meat. Mm, I'm happy.
+
+### Good Evening
+
+Go to sleep. I watch the moon.
+
+### Good Night
+
+You sleep now. I keep watch.
+
+### About Razor
+
+I have no human family. I am a wolf.
+
+### About Us: Friends
+
+You are my friend. We can hunt. Together!
+
+### About Us: Weapons
+
+I have iron claws and teeth of thunder. I protect you.
+
+### About the Vision
+
+Vision helps Razor... fight with lightning tooth! Protect Lupical!
+
+### Something to Share
+
+I like the stars at night. So many stars. In the sky, in the lake. And in the city.
+
+### Interesting Things
+
+The wolves are my Lupical. My family.
+
+### About Lisa
+
+Lisa lightning makes the sky black. She is strong. She is scary.
+
+### About Barbara
+
+Shining Barbara is a good child. Very good child.
+
+### About Diluc
+
+Diluc is red and black. Hot and cold.
+
+### About Venti
+
+Razor doesn't know poems, but... Lupical likes them.
+
+### About Bennett
+
+Bennett... Much talking. Eat with him, never full.
+
+### About Klee
+
+Klee, friend! Friend, but... big hassle.
+
+### About Varka: Stranger
+
+Varka? Razor doesn't know...
+
+### About Varka: Memory
+
+Oh, Varka is... a name. That man big. Big steelclaw, Razor's name — Varka gave him. Oh... want to see him.
+
+### More About Razor: I
+
+*sniff* Hmm... You smell kind. Do you like meat?
+
+### More About Razor: II
+
+You are strong. Like a wolf. I like to hunt with you. We catch a lot.
+
+### More About Razor: III
+
+Lupical means wolf home— no, Lupical means wolf family. My Lupical lives in the woods. They say I am their Lupical.
+
+### More About Razor: IV
+
+My Lupical is my only family. But I don't have four legs, not like them. Because I'm not a real wolf. Sometimes, this makes me sad.
+
+### More About Razor: V
+
+When I run with you, when I hunt with you, I am happy. With you, I am not a wolf, I am not a boy, I am just me. I am Razor. Because you are my friend. You are my Lupical. I hope you feel happy, too!
+
+### Razor's Hobbies
+
+I like Lupical. I like the woods. I like my friend. I like to run!
+
+### Razor's Troubles
+
+Talking makes me tired. Talking is... hard. But... I have to try.
+
+### Favorite Food
+
+I like meat, and... I like potatoes.
+
+### Least Favorite Food
+
+Greens are bad. Animal eats green things. Then I eat animal!
+
+### Birthday
+
+Today is your day. You were born on this day, many moons ago. I want to make you happy today. Can we eat meat together?
+
+### Feelings About Ascension: Intro
+
+Arms... bigger!
+
+### Feelings About Ascension: Building Up
+
+Grr! Sharpen claws. Sharpen teeth. Become stronger!
+
+### Feelings About Ascension: Climax
+
+Run... Hunt... No. No! Must... become stronger!
+
+### Feelings About Ascension: Conclusion
+
+Teeth. Claws. Legs. All bigger. All stronger! To protect you.
+
+### Elemental Skill: I
+
+Get back!
+
+### Elemental Skill: II
+
+Ah!
+
+### Elemental Skill: III
+
+Heyah!
+
+### Elemental Skill: IV
+
+Keep back!
+
+### Elemental Burst: I
+
+Raaaarrr!
+
+### Elemental Burst: II
+
+*howls*
+
+### Elemental Burst: III
+
+*roars*
+
+### Elemental Burst: IV
+
+Rar!
+
+### Opening Treasure Chest: I
+
+These things... useful?
+
+### Opening Treasure Chest: II
+
+Empty chest... good for storage.
+
+### Opening Treasure Chest: III
+
+Smell of treasure... strange.
+
+### Low HP: I
+
+Argh!
+
+### Low HP: II
+
+*grunt* A-a-awoooo!
+
+### Low HP: III
+
+I kill you!
+
+### Ally at Low HP: I
+
+No!
+
+### Ally at Low HP: II
+
+Wake up!
+
+### Fallen: I
+
+Can't... breathe...
+
+### Fallen: II
+
+Take me back...
+
+### Fallen: III
+
+Lupical... my Lupical...
+
+### Heavy Hit Taken: I
+
+I taste blood...
+
+### Joining Party: I
+
+I'll scout ahead.
+
+### Joining Party: II
+
+We're going to hunt!
+
+### Joining Party: III
+
+I'll watch your back.
+
+### Receiving a Gift: I
+
+Smells good, also tastes good, I like it.
+
+### Receiving a Gift: II
+
+Eating this gives me energy, makes me happy.
+
+### Receiving a Gift: III
+
+Eating it, bad. Not eating it, also bad. I'm a bit sad.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你的气味…好闻。一起狩猎吧！
+
+### 闲聊·气味
+
+唔，兔子的味道…
+
+### 闲聊·饿
+
+走吗，肚子饿了。
+
+### 闲聊·望风
+
+我去望风，走了叫我。
+
+### 打雷的时候·提醒
+
+怕就快点躲起来。
+
+### 打雷的时候·带路
+
+避开树，跟我来！
+
+### 起风的时候…
+
+风…唔…舒服。
+
+### 刮大风了…
+
+风…嗯…扎扎的，有点疼。
+
+### 早上好…
+
+太阳出来了。狩猎一起去？
+
+### 中午好…
+
+大块吃肉，开心！
+
+### 晚上好…
+
+你去睡觉吧，我看月亮。
+
+### 晚安…
+
+你睡觉，我看守。明天一起狩猎。
+
+### 关于雷泽自己…
+
+我是狼。人的爸爸、妈妈，没有。
+
+### 关于我们·朋友
+
+你是朋友。我和你一起狩猎。
+
+### 关于我们·武器
+
+我有铁的爪子和雷的牙。我保护你。
+
+### 关于「神之眼」…
+
+「神之眼」，师父帮忙。雷的牙打架，保护「卢皮卡」。
+
+### 有什么想要分享…
+
+晚上，星星很好看。天空，湖里，都有很多很多星星。
+晚上，城市里，也有很多星星。
+
+### 感兴趣的见闻…
+
+我的「卢皮卡」的狼。它们是家人。
+
+### 关于丽莎…
+
+师父的雷，天空会变黑。很可怕，很强。
+
+### 关于芭芭拉…
+
+芭芭拉，亮晶晶的女孩子。很善良。
+
+### 关于迪卢克…
+
+迪卢克，红红的、黑黑的。又冷又热。
+
+### 关于温迪…
+
+诗歌…唔，不明白。虽然不明白，「卢皮卡」喜欢。
+
+### 关于班尼特…
+
+班尼特，话很多，和他一起，吃不饱。
+
+### 关于可莉…
+
+可莉，朋友！朋友，但是，头疼。
+
+### 关于法尔伽·陌生
+
+法尔伽？不认识…
+
+### 关于法尔伽·回忆
+
+哦…法尔伽，是名字。那个男人，高大。雷泽名字，铁的爪子，他给的。唔…想见他。
+
+### 想要了解雷泽·其一
+
+你的气味，善良的味道。喜欢吃肉？
+
+### 想要了解雷泽·其二
+
+你很强。和狼一样强。喜欢和你狩猎。收获很多。
+
+### 想要了解雷泽·其三
+
+卢皮卡是「狼的家」。不对，是「狼的家人」。我的卢皮卡在树林里。它们保护我，说我是卢皮卡。
+
+### 想要了解雷泽·其四
+
+我只有卢皮卡。
+但是，就算是卢皮卡，我没有四只脚，不是真的狼。有时候心里难过。
+
+### 想要了解雷泽·其五
+
+和你一起奔跑开心，和你一起狩猎开心。和你一起，我是狼，我是人，都没关系。
+你是朋友，你是我的「卢皮卡」。我想要你也开心。
+
+### 雷泽的爱好…
+
+喜欢卢皮卡。喜欢树林。喜欢朋友。喜欢奔跑。
+
+### 雷泽的烦恼…
+
+说话很累，很难。但是，不说话不行。
+
+### 喜欢的食物…
+
+喜欢肉。喜欢土豆。
+
+### 讨厌的食物…
+
+蔬菜不好。我吃的肉才吃菜。
+
+### 生日…
+
+今天是你的…你是在很多很多个月以前的，今天出生的。想和你一起开心。今天一起吃肉。
+
+### 突破的感受·起
+
+手臂，更粗了…？
+
+### 突破的感受·承
+
+磨爪子，磨牙，要更强！
+
+### 突破的感受·转
+
+跑，狩猎。不够，不行！我要…更强。
+
+### 突破的感受·合
+
+牙齿，爪子，腿。更强，更有力气…保护你！
+
+### 元素战技·其一
+
+走开！
+
+### 元素战技·其二
+
+啊！
+
+### 元素战技·其三
+
+嗷！
+
+### 元素战技·其四
+
+别过来！
+
+### 元素爆发·其一
+
+嗷——
+
+### 元素爆发·其二
+
+Blitz！
+
+### 元素爆发·其三
+
+嚎——
+
+### 元素爆发·其四
+
+啊——
+
+### 打开宝箱·其一
+
+这些东西，可能有用？
+
+### 打开宝箱·其二
+
+箱子，用完可以，装东西。
+
+### 打开宝箱·其三
+
+宝藏的气味。奇怪。
+
+### 生命值低·其一
+
+疼。
+
+### 生命值低·其二
+
+嗷——
+
+### 生命值低·其三
+
+杀了你！…
+
+### 同伴生命值低·其一
+
+不行。
+
+### 同伴生命值低·其二
+
+活下来！
+
+### 倒下·其一
+
+唔，好难呼吸…
+
+### 倒下·其二
+
+想回去…
+
+### 倒下·其三
+
+我的…卢皮卡…
+
+### 重受击·其一
+
+嘴里，咸的…
+
+### 加入队伍·其一
+
+我打头阵。
+
+### 加入队伍·其二
+
+要去哪里？
+
+### 加入队伍·其三
+
+背后，交给我。
+
+### 收到赠礼·其一
+
+气味很香，味道一样好。喜欢。
+
+### 收到赠礼·其二
+
+吃了有力气，很开心。
+
+### 收到赠礼·其三
+
+吃，不好。不吃，不好。有些难过。

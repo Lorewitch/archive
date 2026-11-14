@@ -315,3 +315,848 @@ As Chiori returned to her room to pack her things, the items on her table sudden
 千织的父母自然没有阻拦。因为他们知道，当这孩子说一件事的时候，这件事就已经做完了。
 当千织回到自己的房间，准备收拾行李时，桌上的什么东西突然动了起来，吓她一跳。
 只见「袖」缓缓地在桌上转了几圈，像是在炫耀千织为她做的衣服，然后她开心地向千织飘来，手头捧着一个闪亮的神之眼。
+
+# voice_source_ids: 94000,94001,94002,94003,94004,94005,94006,94007,94008,94009,94010,94011,94012,94013,94014,94015,94016,94017,94018,94019,94020,94021,94022,94023,94024,94025,94026,94027,94028,94029,94030,94031,94032,94033,94034,94035,94036,94037,94038,94039,94040,94041,94042,94043,94044,94045,94046,94047,94048,94049,94050,94051,94052,94053,94054,94055,94056,94057,94058,94059,94060,94061,94062,94063,94064,94065,94066,94067
+
+## REPLICAS_RU
+
+### Привет...
+
+Меня зовут Тиори, я владелица «Дома Тиори». Если вам нужна одежда на заказ, пожалуйста, обращайтесь. Что касается иных вопросов, всё зависит от того, что вы предложите в обмен. Бизнес есть бизнес - сделка должна быть выгодной. Кроме того, в «Доме Тиори» строго запрещено курить, пить и дебоширить. В таких случаях принцип «клиент - король» не применим. Даже если придёт настоящий король, но не будет следовать правилам, то он окажется на тротуаре, как и любой другой.
+
+### Поболтаем: Критика
+
+Я сама решаю, как мне жить дальше и кем быть. Никто мне не указывает, что делать.
+
+### Поболтаем: Портновский нож
+
+Кто сказал, что кроить одежду обязательно ножницами? Жёсткие правила ни к чему. Мне нравится пользоваться собственными инструментами.
+
+### Поболтаем: Модель
+
+Если собираешься стоять на месте, может, побудешь моей моделью? Я создам для тебя красивый костюм.
+
+### Когда идёт дождь...
+
+Хуже дождя только грязные лужи. Так сложно отмыть испачканную одежду.
+
+### Когда гремит гром...
+
+...Я вспоминаю родину.
+
+### Когда идёт снег...
+
+Он кружится, падая с небес, и манит своей чистотой... Но как только касается рук, красота его тает... Знаешь, между снежинками и модой больше общего, чем я думала...
+
+### В пустыне...
+
+Как же мне здесь моду продвигать...
+
+### Доброе утро...
+
+Доброе утро! Не ждите, что я приготовлю вам завтрак. Если пойдёшь в кафе, прихвати мне чашку кофе. Без молока и сахара.
+
+### Добрый день...
+
+Уже время обеда? Я совсем не хочу есть... Не буду сейчас от работы отвлекаться. Пообедай без меня.
+
+### Добрый вечер...
+
+На улицах так шумно. Весь Кур-де-Фонтейн по магазинам решил пойти?
+
+### Спокойной ночи...
+
+Я собираюсь принять расслабляющую ванну. Увидимся завтра.
+
+### О себе: Прямота
+
+Многие тайно и в открытую говорили, что у меня плохой характер, что я недостаточно вежливо разговариваю и легко раню людей. Я считаю, что любезности, вежливости и комплименты - лишняя трата времени. Если ты обижаешься на правду, значит, ты слишком ранимый.
+
+### О себе: Концепция
+
+Начав работать над концепцией своего бренда, я вспоминала о событиях прошлого и на их основе придумала много ключевых слов для слогана. Трудность заключается в том, чтобы выбрать только одну фразу, ведь в каждом слове отражается какая-то сокровенная часть меня... Но среди них надо найти те, что лучше всего представляют меня как целое.
+«Никогда не признавать поражение». Это я. Это мой бренд.
+
+### О нас: Примерка
+
+Поверь, тебе очень идёт. Что? Впервые видишь такой фасон? Это потому, что ты никогда не встречал модельера со вкусом. / Поверь, тебе очень идёт. Что? Впервые видишь такой фасон? Это потому, что ты никогда не встречала модельера со вкусом.
+
+### О нас: Общение
+
+Сейчас, пожалуй, поздно об этом сообщать, но я всегда говорю, что у меня на уме. Ты, наверное, уже привык. Я так выражаю свои мысли, и меняться не собираюсь. Со мной ты тоже можешь не скрывать своё настоящее «я», будь собой. Обещаю, что никогда не буду упрекать тебя за это. Не веришь? Мы давно уже знакомы, разве я когда-нибудь нарушала слово? / Сейчас, пожалуй, поздно об этом сообщать, но я всегда говорю, что у меня на уме. Ты, наверное, уже привыкла. Я так выражаю свои мысли, и меняться не собираюсь. Со мной ты тоже можешь не скрывать своё настоящее «я», будь собой. Обещаю, что никогда не буду упрекать тебя за это. Не веришь? Мы давно уже знакомы, разве я когда-нибудь нарушала слово?
+
+### Глаз Бога...
+
+Я родилась в Инадзуме, поэтому люди Фонтейна прозвали меня «Громоподобной закройщицей». Если им так нравится, пусть называют. Я не питаю никакой привязанности к своей родине. Ведь всё, включая мой Глаз Бога, я получила только после того, как решила покинуть Инадзуму.
+Не то что бы я ненавидела острова, где ткань никогда полностью не высыхает, но я не вижу ни одной причины возвращаться.
+
+### Давай поделимся
+
+В детстве родители отправляли меня на разные курсы, чтобы мне было куда тратить свою энергию. Одним из курсов было обучение искусству владения мечом. Но через некоторое время я вдруг почувствовала, что техника сражения двумя мечами мощная и очень мне нравится. Вскоре ко мне подошёл инструктор и сказал, чтобы я прекратила тренироваться, используя эту технику. Когда я спросила почему, он ответил, что это не стандартная техника владения мечом и что она «неправильная». Больше я на эти занятия никогда не ходила. Теперь, вспоминая об этом, я очень рада, что настояла на том, чтобы следовать по собственному пути. Возможно, я из тех, кому нужно, чтобы обе руки были заняты.
+
+### Интересные вещи...
+
+Тамото - мой первый шедевр. Я тогда захотела сшить похожую на меня куклу, чтобы она была мне моделью и помощницей. А? Компаньон? Нет, мне это не нужно.
+
+### О Навии...
+
+Она меня раньше умоляла создать для неё всякие странные штуки. Например, маленькие короны для каждой ручки на штурвале корабля... Я на её просьбу только глаза закатила и сказала, что разве что сделаю для неё дизайн шляпы в виде корабля.
+Те, кто говорит, что я опередила своё время, явно с ней ещё не общались.
+
+### О Лини...
+
+Шляпу, которая скрывает множество секретов, я сделать не могу, а вот он со своей магией может. Иногда мне даже интересно, каково это - носить шляпу набитую всякими тайнами. Но мне это всё было бы ни к чему - проще всего жить, говоря напрямую, что думаешь.
+
+### О Линетт...
+
+Ассистентка иллюзиониста немногословна, но мне она доверяет. Похоже, кошкам я нравлюсь...
+
+### О Шарлотте...
+
+Как-то Шарлотта пришла в магазин в надежде взять у меня интервью. Я ей сказала, что смысла в этом нет, ведь ничего нового не случилось. Но как только она собралась уходить, в магазин ворвался пьяница и начал буянить. Она всё это записала... Какой провал. Я только слышала, как репортёры гоняются за новостями, но теперь, похоже, новости сами за репортёрами бегают.
+
+### О Шеврёз...
+
+Работать и разговаривать с Шеврёз так легко, что каждый раз, когда я с ней прощаюсь и возвращаюсь к клиентам, мне нужно некоторое время, чтобы настроиться на верный лад.
+
+### Об Эмилии...
+
+Духи Эмилии очень популярны. Мы заключили договор, по которому она поставляет в «Дом Тиори» небольшие партии духов, над которыми работает. Потом Элоф тайно распыляет их в примерочной, и я сообщаю Эмилии об отзывах покупателей. За всё это время ни разу не было случая, чтобы посетитель сказал, что в примерочной странно пахнет. И вообще, они обычно все подходят спросить, где можно купить такой же аромат. Из любопытства я всегда покупаю флакончик, когда в её магазине появляется новый аромат. Должна сказать, что духи, которые всегда дарят ощущение свежести, - это настоящие произведения искусства.
+
+### О Ризли...
+
+Некоторые друзья и партнёры упоминали о нём. Я восхищаюсь его навыками управления и дипломатии, но сама я, конечно, не намерена менять то, как веду свои дела.
+
+### О Кираре...
+
+Когда я ещё жила в Инадзуме, там была кошка с зелёными глазами, которая постоянно за мной ходила, когда я шла на природу в поисках вдохновения. Её очень интересовали цвета и узоры ткани, которую я носила с собой. Она даже подходила и тёрлась о мои ноги, когда была в хорошем настроении.
+Потом я снова увидела и сразу узнала эти зелёные глаза, но они принадлежали девушке с двумя хвостами. Взгляд, которым она смотрит на новые интересные вещи, совсем не изменился за все эти годы.
+
+### О Камисато Аяке...
+
+Если бы я не любила так играть в детстве, то никогда бы не познакомилась с молодой госпожой клана Камисато. Как-то раз я забралась в их двор, а её тэмари как раз подкатился к стене. Было заметно, что она одновременно и удивлена, и рада меня встретить. Мы довольно долго вместе играли и болтали, но в итоге меня обнаружили. Так наша недолгая дружба закончилась тем, что меня вышвырнули за ворота.
+
+### Узнать больше о Тиори I
+
+Не думаю, что у меня такой уж плохой характер, как некоторые говорят. Я не люблю тратить время на пустяки, вот и всё. Но почему-то эти пустяки постоянно не дают мне спокойно жить. Вот со временем у меня и сложилась плохая репутация. Я считаю, что это совершенно незаслуженно!
+
+### Узнать больше о Тиори II
+
+С самого детства я терпеть не могу, когда меня поучают. Был период, когда я ненавидела любые правила и всегда действовала наперекор. Из-за своего упрямства мне пришлось пройти через множество страданий, но в конце концов я поняла, что правила - это не совсем плохо. Что я действительно не выношу, так это ощущение, будто я не могу поступать по-своему.
+
+### Узнать больше о Тиори III
+
+В детстве я всегда с нетерпением ждала летнего фестиваля в родном городе. Каждый год люди выходили на улицу, надев самые красивые наряды... Разноцветные шары на поясах у людей, золотые рыбки, которых, как ни старайся, никак не получается выловить из миски, яблоки в карамели, такие сладкие, что даже дети не могут их доесть, и фейерверки дома Наганохара... На таких праздниках мне всегда было очень весело, но, когда я возвращалась домой в конце вечера, постоянно казалось, что чего-то не хватает. Только повзрослев, я поняла, что тогда мне хотелось быть чем-то большим, чем просто частью публики. Когда люди говорят о фейерверках, они сразу вспоминают Наганохару, вот и мне хочется, чтобы настал такой день, когда, одеваясь к празднику, все выбирали бы одежду «Дома Тиори». Хе-хе, одна мысль об этом меня очень воодушевляет. Ладно, пойду в магазин и сделаю ещё несколько эскизов.
+
+### Узнать больше о Тиори IV
+
+Хотя я часто с головой погружаюсь в работу, мне нравится жить настоящим моментом. Когда выдаётся свободное время, я часто беру с собой немного поесть и нахожу красивое место на природе, чтобы уютно вздремнуть после обеда, вечером возвращаюсь домой, слушаю любимую музыку, а потом довольная отправляюсь спать. А иногда я люблю пойти поужинать с друзьями, говорить обо всём, что происходит в мире, и веселиться до полного изнеможения. Честно говоря, всё зависит от того, что мне сейчас хочется делать. Как мода существует только в моменте, так и я люблю жить в моменте. Что скажешь? Хочешь, будем гулять всю ночь напролёт?
+
+### Узнать больше о Тиори V
+
+Мне нравятся всякие маленькие сладости Инадзумы и лёгкий вкус их блюд. Нравится текстура ткани с моей родины, традиция принимать ванну в конце дня... Но ещё мне нравятся мягкие волны морей Фонтейна и несравнимая красота его подводных пейзажей. Я часто размышляю, не живу ли я в тени своего прошлого и не предопределён ли день сегодняшней судьбой. Но затем я спрашиваю себя - а что бы это изменило? Я всё равно остаюсь той, которая живёт в настоящем. Даже если я такая, какая есть, только благодаря происшедшему в прошлом, будущее всё равно в моих руках, и никто в мире не может этого изменить.
+
+### Хобби Тиори...
+
+В своей работе я стремлюсь к мечте, а в хобби ищу свободу. Если я каждый день занимаюсь чем-то, что не люблю, то какой в этом смысл?
+
+### Беспокойство Тиори...
+
+Иногда я беспокоюсь, что мой прогресс меньше, чем я рассчитывала, и если так пойдёт дальше, то трудно сказать, когда же осуществится моя мечта сделать «Дом Тиори» известным во всём мире. Но это не повод для сомнений или компромиссов. Какой смысл беспокоиться? Лучше потратить время на создание ещё нескольких фасонов.
+
+### Любимая еда...
+
+Никогда не забуду инадзумские десерты, которые я ела в детстве. Но больше даже, чем вкус, меня всегда интересовал процесс их приготовления. Если бы меня так не увлекало фантастическое разнообразие тканей и их цветов, то в мире было бы одним кондитером больше.
+
+### Нелюбимая еда...
+
+Не люблю еду с очень сильным вкусом, типа хаггиса. Ощущение от него, будто во время прогулки вдруг Гео призрак в лицо врезался. Не знаю, понятно так?
+
+### Подарок I
+
+Мм, мне нравится этот вкус. В следующий раз тоже мне принеси, пожалуйста. Не волнуйся, я и тебе подарю что-нибудь в ответ.
+
+### Подарок II
+
+Неплохо. Хорошо подойдёт на ужин, когда устанешь после рабочего дня.
+
+### Подарок III
+
+Мне этот вкус не нравится. Принеси что-нибудь менее жирное в следующий раз.
+
+### День рождения...
+
+С днём рождения. Скажи мне, какой хочешь подарок, мне лень гадать. А? Слишком прямо? Ну ладно, тогда зови Навию, Кирару и пару своих друзей, и приходите вечером в «Дом Тиори», устроим вечеринку. Я посмотрю, что другие подарят, и прямо на месте сделаю тебе подходящее украшение. Гарантирую, что тебе понравится - я в себе уверена.
+
+### Чувство возвышения: Начало
+
+...Не пойдёт. Всё ещё слишком заурядно.
+
+### Чувство возвышения: Нарастание
+
+...Неплохо, но всё ещё не хватает изюминки.
+
+### Чувство возвышения: Кульминация
+
+...Отлично. Я добилась результата, которого хотела.
+
+### Чувство возвышения: Окончание
+
+Конечно, руки у меня никогда не трясутся, ведь я мастер своего дела, но должна признаться, что сейчас у меня сердце готово выпрыгнуть из груди. Спасибо, что был со мной, пока я работала над этим произведением. Оно для меня очень важно. Теперь я готова твёрдо продолжать свой путь. / Конечно, руки у меня никогда не трясутся, ведь я мастер своего дела, но должна признаться, что сейчас у меня сердце готово выпрыгнуть из груди. Спасибо, что была со мной, пока я работала над этим произведением. Оно для меня очень важно. Теперь я готова твёрдо продолжать свой путь.
+
+### Элементальный навык I
+
+Вперёд, Тамото!
+
+### Элементальный навык II
+
+Следующий!
+
+### Элементальный навык III
+
+Подай руку.
+
+### Взрыв стихии I
+
+Я определяю моду!
+
+### Взрыв стихии II
+
+Гладко, словно шёлк.
+
+### Взрыв стихии III
+
+Летите, цветные лоскуты!
+
+### Открытие сундука I
+
+Неплохое исполнение... Но я бы и получше сделала.
+
+### Открытие сундука II
+
+Так тебе такое нравится.
+
+### Открытие сундука III
+
+Хм... Надо свериться.
+
+### Низкий уровень HP I
+
+Вся одежда изодрана...
+
+### Низкий уровень HP II
+
+Довольно уже.
+
+### Низкий уровень HP III
+
+Пора тебя проучить...
+
+### Низкий уровень HP компаньона I
+
+Эй, не красуйся.
+
+### Низкий уровень HP компаньона II
+
+Я погребальные одеяния не делаю.
+
+### Без сознания I
+
+Я для такого не скроена...
+
+### Без сознания II
+
+Никогда не признаю... поражение...
+
+### Без сознания III
+
+Как же мой бренд...
+
+### Получен лёгкий удар I
+
+Это всё?
+
+### Получен тяжёлый удар I
+
+Как пошло...
+
+### Получен тяжёлый удар II
+
+Не с той связались...
+
+### Присоединяется к группе I
+
+Добро пожаловать в «Дом Тиори».
+
+### Присоединяется к группе II
+
+Нужна одежда на заказ?
+
+### Присоединяется к группе III
+
+Поищем вдохновения на природе.
+
+## REPLICAS_EN
+
+### Hello
+
+I am Chiori, the owner of Chioriya Boutique. Feel free to find me if you'd like to commission any tailor-made outfits. As for any other requests, it all depends on whether you have enough to offer in exchange. Just the rules of the "business" — you scratch my back, and I'll scratch yours. Also, smoking, drinking, and causing a ruckus are all strictly prohibited within the Boutique. That whole "the customer is king" concept doesn't fly here... And even when royalty does come into the shop, if they don't adhere to the rules, they'll find themselves being tossed out and kissing the pavement just like anyone else.
+
+### Chat: Criticism
+
+It's up to me to decide who I want to be and to cut my own path. No one can tell me what to do.
+
+### Chat: Tailor's Cutters
+
+Who says you have to use scissors to cut clothes? Leave those rigid rules behind. I much prefer using my own cutting tools.
+
+### Chat: Modeling
+
+If you really like standing around like this, then why don't you just model for me? I'll design some wonderful clothes for you.
+
+### When It Rains
+
+It's not so much the rain that bothers me, but the mud. It's always such a pain to wash it out of my clothes.
+
+### When Thunder Strikes
+
+...This reminds me of home.
+
+### When It Snows
+
+The way it comes floating from on high makes you want to reach out for it... But the moment it lands on your hand, its beauty dissipates... Hmm, I suppose there are more similarities between snowflakes and fashion than I thought...
+
+### In the Desert
+
+Hmm, just how can I market high fashion here...
+
+### Good Morning
+
+Morning. Don't expect me to make breakfast for you. But if you're going to the café, be a darling and bring me a cup of coffee. Black. No cream, no sugar.
+
+### Good Afternoon
+
+Is it lunch time already? I'm not even hungry yet... I don't plan on taking a break now. You go ahead.
+
+### Good Evening
+
+It's so noisy out there. Has everyone in the entire Court of Fontaine decided to go out this evening?
+
+### Good Night
+
+I'm going to go relax by taking a nice, long bath. Well, I'll see you tomorrow.
+
+### About Chiori: Directness
+
+Many have expressed displeasure both publicly and privately about my personality, and have complained that my words can be hurtful. But, if you ask me, all those showy pleasantries, greetings, and compliments are far more of a waste of everyone's time. If simply stating the facts seems hurtful, then perhaps they are too insecure.
+
+### About Chiori: Brand Vision
+
+When I first started conceptualizing the idea of my brand, I reflected on many of my past experiences, and came up with a lot of phrases for the brand's slogan. It's difficult to pick only one phrase for the brand, especially when you realize that every word reflects on a deeply treasured part of yourself... but you can only choose that which best represents you.
+"Never admit defeat." That's me. That's my brand.
+
+### About Us: Fitting
+
+Take it from me — this one looks good on you. Hmm? You've never seen a style like this before? Aw, that's because you've never met a designer with taste before.
+
+### About Us: Exchange
+
+I know you probably already know this, but I always just say what's on my mind. Maybe you've already grown accustomed to it, but that's just how I express myself, and I'm not going to change. You should also always act like yourself around me — there's no need to hide anything. I promise I'll never criticize you for who you are. Hmm? Don't believe me? After all this time together, have you ever seen me not keep my word?
+
+### About the Vision
+
+Because I was born in Inazuma, the people of Fontaine have dubbed me "The Thundering Seamstress." If that's what they want to call me, then that's what they can call me. I have no lingering affection for my homeland. After all, everything, including my Vision, only came to me after I decided to leave Inazuma.
+Oh, but that's not to say that I actively dislike those islands where fabric never fully dries. It's just that I haven't found any reason to go back.
+
+### Something to Share
+
+When I was a kid, my parents would send me to a variety of activities to help expend my energy. One such activity was learning the art of the sword. But after some time, I suddenly felt that a dual wielding technique was really strong and impressive. It wasn't long before the instructor approached me and told me to stop practicing using that technique. When I asked him why, all he said was that it wasn't the standard sword technique, and that it was "improper." After that, I never attended his class again. Now that I think about it, it's fortunate that I insisted on following the way I preferred. Perhaps I'm just the sort who needs to keep both my hands busy.
+
+### Interesting Things
+
+Tamoto is my first masterpiece. At the time, I was just thinking to stitch together a puppet girl who looked like me to be my model and assistant. Huh? What about a companion? No, I have no need for that.
+
+### About Navia
+
+She used to beg me to help her design all kinds of strange things. For example, little crowns for every handle on a ship's helm... I couldn't help but roll my eyes at her request, and tell her that the most I would do is design her hat like a boat.
+Those who say I'm ahead of my time have clearly never spoken to her.
+
+### About Lyney
+
+I can't make a hat that could hide secrets, but it seems Lyney can enchant his hat to do just that... I'm a little curious about how it feels to wear a hat full of so many tricks and secrets like his. As for me, I don't need the burden of all that, it's easiest to just say what's on my mind.
+
+### About Lynette
+
+The magician's assistant sure doesn't say much, but I know she trusts me. You know, I sure get a lot of love from cats...
+
+### About Charlotte
+
+One time, Charlotte came into the shop, hoping to do an interview with me. I told her there was no point, because there was nothing new to talk about. But just as she was leaving, a drunkard came stumbling into the shop and started causing trouble. She recorded the whole thing... What a fiasco. I've heard of journalists chasing leads, but now it seems news chases the journalists.
+
+### About Chevreuse
+
+Working with Chevreuse and talking with her are a cinch. So easy, in fact, that whenever I say goodbye to her and return to tending to my customers again, it takes me a moment to shift gears mentally.
+
+### About Emilie
+
+Emilie's perfumes are very popular. We have a business agreement where I ask her to deliver small quantities of perfume she's working on to Chioriya Boutique. I let Eloffe secretly spray the perfume in the fitting room, and then I'll let her know any feedback I get from the customers. Even after all this time, I've never once had a customer ever say that my fitting room smelled strange. In fact, they usually come one after another to ask where they can buy the fragrance. Out of curiosity, I always buy a bottle when she brings them to sell in her shop. I have to say that such fragrances which can always bring a sense of refreshment are truly works of art.
+
+### About Wriothesley
+
+Yes. Some of my friends and partners have mentioned him to me before. I admire his skills at management and diplomacy, but I certainly have no intention of changing my way of doing things.
+
+### About Kirara
+
+While I was still in Inazuma, there was a cat with green eyes that always liked to follow me whenever I went out into the wild in search of inspiration. The kitty seemed to be very interested in the colors and patterns of the fabric I was carrying. She would even come up and rub her head against my legs when she was in a good mood.
+Later, I recognized those green eyes again, but on a girl with two tails. The way she gazed at new and intriguing things still had not changed after so many years.
+
+### About Kamisato Ayaka
+
+If I wasn't always slipping away to go play when I was a child, I probably would never have had the chance to meet the young lady of the Kamisato Clan. There was one time when I climbed my way into the Kamisato Clan's courtyard, and her Temari just happened to roll over towards the wall. I could tell that she was both surprised and happy to see me. We played together and chatted for quite some time, but I was discovered in the end. And so, our brief friendship came to an end as I was kicked off the premises.
+
+### More about Chiori: I
+
+I don't think my temper is as bad as people make it out to be. I just don't like wasting my time on trivial matters, that's all. But for some reason, it's always those trivial things that come back to haunt me. So, over time, I've ended up with a bad reputation. I would say that's completely unjust!
+
+### More about Chiori: II
+
+Ever since I was a kid, I've always had a problem with authority. There was a period when I hated the rules, and would always insist on going against the grain. Thanks to this headstrong character of mine, I've had to go through a lot of suffering. But eventually, I came to understand that rules aren't completely a bad thing. What I really can't stand is the feeling that I can't make decisions based on what I truly think.
+
+### More about Chiori: III
+
+When I was little, I used to always look forward to the summer festival in my hometown. Every year, people would take out the most vibrant and beautiful clothes, and carefully put them on before joining the crowd...
+Every time the festival came around, there'd be all of these brightly colored spheres hanging from people's belts, goldfish that you couldn't scoop up from the bowl no matter how hard you tried, apple candy so sweet that even the children couldn't finish them all, and fireworks so beautiful that they could have only come from the Naganohara house... I always had a lot of fun at such festivals, but even then, I would always feel like something was "missing" when I went home at the end of the night. It was only after I got much older that I realized I must have wanted to become more than just a spectator at such a wonderful event.
+...It's just like how people will always associate the house of "Naganohara" with fireworks. I hope that one day, people will also associate festivals with Chioriya clothes.
+Hehe, just thinking about the prospect of that gets me really fired up. Alright, time to go back to the shop and churn out a few more designs.
+
+### More about Chiori: IV
+
+Although I can get quite immersed in my work, I also enjoy living in the moment. When I have some free time, I would often pack some food and find a lovely place in nature to take a cozy midday nap, before returning home, relaxing some more, and then finally falling asleep to my favorite music. Oh, and other times, I like to go out for food with my friends, talk about everything that's happening in the world, and party until everyone's completely hammered. Honestly, it all just depends on what I feel like doing in the moment. Just as fashion only exists in the moment, I also love living in the moment. So, what do you think? Want to go out with me tonight and enjoy a whole night of fun?
+
+### More about Chiori: V
+
+I love Inazuma's petite desserts, as well as all culinary dishes subtle and light. Similarly, I also like the feel of my homeland's fabrics, as well as the practice of taking a bath after a long working day. But on the flip side, I also adore the soft waves of Fontaine's seas, as well as the beautiful scenery underneath the waters.
+Sometimes, I wonder if everything is in fact predestined, and if I'm still living in the shadow of my past. But then, another question always follows — would the answer to that really change anything? In any case, I'm still me, living in my present. Even if I'm only the way I am due to what has happened in my past, my future is still in my own hands, and no one in this world can really change that.
+
+### Chiori's Hobbies
+
+I'm pursuing my dream through my work, and exploring the meaning of freedom through my art. What's the point of spending years and years of your life over something that's not near and dear to your heart?
+
+### Chiori's Troubles
+
+Sometimes, I worry that I haven't made as much progress as I'd hoped, and thus, it'd be hard to know when I would actually realize my dream of making Chioriya renowned throughout the world. Still, that's no reason to question or abandon the dream. Rather than worrying or doubting myself, my time would be better spent creating a few more designs.
+
+### Favorite Food
+
+I can never forget the Inazuman desserts I used to indulge in as a child. But rather than the joy of tasting them, I've always been more interested in the process of making them. Had I been less drawn to the fascinating world of fabrics and color, the world would have gained another dessert chef.
+
+### Least Favorite Food
+
+I can't handle food with particularly strong flavors, like Haggis, for example. The experience of eating it is kind of like... suddenly getting hit with a faceful of Geo Specter out of nowhere. Does that make sense to you?
+
+### Receiving a Gift: I
+
+Mm, I do love this dish. Why don't you bring me some more next time. Don't worry, I'll also bring a gift for you in return.
+
+### Receiving a Gift: II
+
+Not bad. I think this would be most enjoyable after a hard day's work in the shop.
+
+### Receiving a Gift: III
+
+Ugh, I'm not fond of this flavor. Bring me something lighter on the palette next time.
+
+### Birthday
+
+Yeah, yeah... Happy birthday, or whatever. Just tell me if there's a gift you like — I can't be bothered to try and guess what you want. Hm? Too direct? Alright then, why don't you grab Navia, Kirara, and the others, and maybe a few of your friends as well. We can have a party tonight at my place. I'll take some notes on the gifts that the others have prepared for you, and make you an accessory right then and there. Ten thousand mora that you'd like it. Haha, call it the confidence of the owner of Chioriya Boutique.
+
+### Feelings About Ascension: Intro
+
+...No good. Still feels too ordinary.
+
+### Feelings About Ascension: Building Up
+
+...Not bad, but it's still lacking the "wow" factor that makes it really stand out.
+
+### Feelings About Ascension: Climax
+
+Oho... That's more like it. I think I've got it.
+
+### Feelings About Ascension: Conclusion
+
+Of course, as a master of my craft, my hands will never shake while cutting fabric, but I'll admit, the excitement and anticipation has my heart really beating right now. Thank you for staying with me the whole time I worked on this piece. It is extremely important to me. I now have far more confidence in myself as I embark on the next step of my journey.
+
+### Elemental Skill: I
+
+Let's go, Tamoto!
+
+### Elemental Skill: II
+
+Next customer!
+
+### Elemental Skill: III
+
+Lend me a hand.
+
+### Elemental Burst: I
+
+I am the cutting edge of fashion.
+
+### Elemental Burst: II
+
+Delicate as silk.
+
+### Elemental Burst: III
+
+Scraps of color, scatter!
+
+### Opening Treasure Chest: I
+
+The handiwork is alright... though I've made much better myself.
+
+### Opening Treasure Chest: II
+
+Ah, so this is what you like?
+
+### Opening Treasure Chest: III
+
+Hmm... Let me take note of this.
+
+### Low HP: I
+
+My clothes are ruined...
+
+### Low HP: II
+
+Are you done?
+
+### Low HP: III
+
+Time to teach you a lesson.
+
+### Ally at Low HP: I
+
+Hey, who're you trying to impress?
+
+### Ally at Low HP: II
+
+I don't make burial shrouds, you know.
+
+### Fallen: I
+
+I wasn't cut out... for this...
+
+### Fallen: II
+
+I'll never... accept defeat...
+
+### Fallen: III
+
+But what about... my brand...
+
+### Light Hit Taken: I
+
+Is that all?
+
+### Heavy Hit Taken: I
+
+How tacky...
+
+### Heavy Hit Taken: II
+
+You've picked the wrong fight.
+
+### Joining Party: I
+
+Welcome to Chioriya Boutique.
+
+### Joining Party: II
+
+Let me guess... Need something tailor-made?
+
+### Joining Party: III
+
+Let's get out and find some inspiration.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我叫千织，「千织屋」的老板。有服装定制类需求的话，欢迎找我。其他需求，就看你有没有足够用来交换的东西了，有来有回才叫「生意」嘛。另外，「千织屋」内严禁抽烟喝酒，寻衅闹事。「顾客即是神明」那一套在我这里不管用，就算来的真是神明，不守规矩被丢出去的时候，也一样是屁股着地。
+
+### 闲聊·评价
+
+我来决定自己该怎么走，要成为谁。没人能对我指手画脚。
+
+### 闲聊·裁缝刀
+
+谁说裁衣服一定要用剪刀？那些死板的规矩由它去吧，我喜欢自己用着顺手的刀具。
+
+### 闲聊·模特
+
+真要站着不动的话，干脆来当我的模特吧。给你设计款好看的衣服。
+
+### 下雨的时候…
+
+比起下雨，我更讨厌地上泥水，溅到衣服上就很难洗掉。
+
+### 打雷的时候…
+
+…想起了家乡往日的风景。
+
+### 下雪的时候…
+
+清高却令人向往…落到手上的一瞬，这份美丽又随之消散…雪花这东西，和「时尚」还真像…
+
+### 在沙漠的时候…
+
+真难想象这种地方要怎么推行时尚。
+
+### 早上好…
+
+早，别指望我会给你变出早饭来。你如果去咖啡厅的话就帮我带一杯咖啡来吧，不加奶，不加糖。
+
+### 中午好…
+
+已经这个点了？肚子完全不饿啊…我不打算停下手头的活。午饭你自己吃就好。
+
+### 晚上好…
+
+外面好吵。全枫丹廷的人都出来逛街了吗？
+
+### 晚安…
+
+我要去好好泡个澡放松一下。不多聊了，明天见。
+
+### 关于自己·直接
+
+很多人明里暗里表达过我的性格不够好，说话不够委婉，容易伤人。依我说，那种谁都看得出来的寒暄、客套和恭维才是在浪费彼此的时间吧？要是挑明事实就会受伤，那人也太脆弱了。
+
+### 关于自己·理念
+
+最初构想品牌理念的时候，我想到了很多过去的经历，也由此提炼出了不少关键词。取舍是一件难事，尤其是你发现每一枚宝石都折射着你的一种想法…而你只能挑选最能代表你的那一枚。
+「永不认输」。那才是我，才是我的品牌。
+
+### 关于我们·试衣
+
+听我的，这件适合你。什么？之前没见过这样的款式？呵，那是你之前遇到的设计师没品味。
+
+### 关于我们·交换
+
+事到如今再说这话有点晚了，但我向来是想说什么就说什么，你恐怕也习惯了。我不打算改变自己直来直往的作风，你也尽管在我面前表露最真实的自己吧，无须掩藏。我保证不会对你有所指摘。不信？你认识我那么久，我有说到但做不到的时候吗？
+
+### 关于「神之眼」…
+
+因为我的出身，枫丹人称呼我为「鸣雷的裁锦师」。爱怎么称呼怎么称呼吧，我对故乡没什么依恋的感情，毕竟就连我的「神之眼」，都是在我决定离开稻妻时获得的。
+但我也不讨厌那个晒不干布料的地方，对我来说，只是没必要回去而已。
+
+### 有什么想要分享…
+
+为了治我小时候好动的性格，父母送我去学过很多东西，「剑道」就是其中之一。但学了一阵子后，我突然觉得双手用刀很称我意，也很厉害，结果却被剑道老师制止了。我问他为什么，他只说这不是主流刀法，有些「不伦不类」。自那之后，我就再没去上过他的课。现在想想，当初坚持自己喜欢的用法真是太好了。或许，我天生就是两只手都闲不下来吧。
+
+### 感兴趣的见闻…
+
+「袖」是我的第一件作品，那时只想缝一个跟自己差不多模样的女孩，作为模特和帮手。嗯？陪伴？我没这种需要。
+
+### 关于娜维娅…
+
+她曾经很认真地「拜托」我设计各种奇奇怪怪的东西，比如为船舵的每个把手都设计一个不同的头冠。那时我忍不住翻了个白眼，说我最多把她的帽子设计成一条船。
+那些说我想法超前的人恐怕是没跟娜维娅聊过天。
+
+### 关于林尼…
+
+我做不出一顶能隐藏秘密的礼帽，但他通过魔术可以。有时我很好奇，他的帽子里装了那么多的秘密，戴起来会是什么感觉。对我来说，还是想到什么就说出来会比较轻松。
+
+### 关于琳妮特…
+
+这位助手小姐不太说话，但她很信任我。我似乎很讨猫喜欢啊…
+
+### 关于夏洛蒂…
+
+有次夏洛蒂来店里想采访我，我说别了又没什么新鲜事。结果她刚一出门，就有个醉汉来店里闹事，被她记录下了全程…真是见了鬼了。只听说过记者追新闻，现在还有新闻会追记者？
+
+### 关于夏沃蕾…
+
+和夏沃蕾的合作与谈话都很省力。这导致每次跟她告别，重新面对顾客的时候，我都有种不适应的感觉。
+
+### 关于艾梅莉埃…
+
+艾梅莉埃的香水很受欢迎。出于商业合作，我会请她将试做中的香水小样送到「千织屋」，让爱洛芙悄悄喷在顾客们使用的试衣间，然后我再将顾客们的反馈告诉她。但这么长时间下来，没有一位顾客说我试衣间里的味道奇怪，反倒是纷纷来问我店里的香水哪里有卖。出于好奇，每次她发售香水成品的时候，我也会买一瓶来闻闻。不得不说，那种每次都能品出新鲜感的香味，实为天才之作。
+
+### 关于莱欧斯利…
+
+一些朋友和合作者向我聊起过他，我很佩服他的手腕，但我也没打算改变自己的做事方式。
+
+### 关于绮良良…
+
+从前在稻妻，我到野外找设计灵感的时候，总有只绿眼睛的猫喜欢跟在我身边。那家伙好像对我手上布料的颜色和花纹很感兴趣，心情好了还会蹭蹭我的小腿。
+后来，我一眼就认出了这个绿眼睛、背后还长着两条尾巴的女孩。她看那些新奇东西的眼神，这么多年就没有变过。
+
+### 关于神里绫华…
+
+如果不是儿时贪玩，我恐怕也不会有机会认识这位神里家的大小姐。有次我翻进了神里家的院子，她的手鞠恰好滚到墙边。她见到我时既惊讶又兴奋，我陪她玩了好一会儿，又聊了很久的天…但最后我还是被人发现了，于是这短暂的友情就以我被人提了出去而告终。
+
+### 想要了解千织·其一
+
+我自认为脾气没有人们说的那么差，我只是不喜欢在破事上浪费时间而已。但不知是什么原因，那些「破事」总是缠着我不放。久而久之，就落得了个不好的名声，我才想叫冤枉呢。
+
+### 想要了解千织·其二
+
+我从小就不喜欢被管教，有段时间特别讨厌「规矩」这东西，一定要和它对着干。托这倔脾气的福，我吃了不少苦头。但后来我渐渐明白，「规矩」不全是坏事。我真正讨厌的，是那种不能按自己想法做出决定的感觉。
+
+### 想要了解千织·其三
+
+小时候最期待的，就是家乡夏日的祭典。每到那时，人们就会穿上最好看的衣服上街…
+腰带上五颜六色的水球、怎么都捞不起的金鱼、还有甜到腻人的苹果糖和长野原家的烟花…那时玩得很开心，但回到家后，却总觉得少了什么。现在才知道，那时的我，是不想只做「观众」…
+就像提到烟花，人们就想到「长野原」一样。我希望有一天，人们想穿上祭典的，都是「千织屋」的衣服。
+…哈，光是这么想想，就感觉心中充满激情。嗯，我要回店里做衣服去了。
+
+### 想要了解千织·其四
+
+虽然工作起来很投入，但我也喜欢享受当下的时光。闲下来的时候，我会一个人带上些吃的，找个风景好的地方静静睡个午觉，晚上再听些喜欢的音乐，美美睡去…有时候则是叫上朋友们吃顿饭，大家在一起谈天说地，开个不醉不归的派对…想怎么做全看当时的心情。正如「时尚」只存在于「当下」一样，我也喜欢活在当下。怎么样？不如今晚我们就出去狠狠放松一下？
+
+### 想要了解千织·其五
+
+我喜欢稻妻的点心、喜欢清淡的食物…我喜欢家乡布料的触感、喜欢每天结束后泡个澡…但我也喜欢枫丹温柔的海水、喜欢海里美不胜收的景色…
+我常常会想，自己是否并没有摆脱「过去」对我造成的影响，是否今天的一切都是命中注定…
+但那又如何呢？我就是我，活在此刻。就算过去的一切塑造了如今的我，未来的路，也依旧由我自己选择，谁都无法改变这点。
+
+### 千织的爱好…
+
+我在工作中追寻梦想，在爱好中探索自由。如果我每天做的事不是自己热爱的，那还有什么意思？
+
+### 千织的烦恼…
+
+我偶尔烦恼，追求理想的进度比预期更缓慢，这样下去不知我的品牌什么时候才能风靡世界。但我绝不会向现实妥协，烦恼又有什么帮助呢？还不如省下这个时间，多做几件衣服。
+
+### 喜欢的食物…
+
+我忘不了小时候吃过的那些稻妻点心。但比起品尝时的喜悦，我更享受制作的过程。要不是布料的色彩与变化更丰富一些，恐怕这世上，就要多一个点心师傅了。
+
+### 讨厌的食物…
+
+就拿羊杂哈吉斯举例吧，我吃不惯味道浓厚的菜。就像是好好地走在路上，冷不防被岩飘浮灵糊了一脸一样…我这么形容你能理解吧？
+
+### 收到赠礼·其一
+
+嗯，这味道我很喜欢，下次再带给我点。放心，我也会给你回礼的。
+
+### 收到赠礼·其二
+
+不错的手艺，适合工作累了之后，坐在店里慢慢品尝。
+
+### 收到赠礼·其三
+
+这味道我不喜欢，下次换个清淡点的。
+
+### 生日…
+
+生日快乐。我懒得猜了，想要什么礼物就直说。嗯？太直接了？好吧，那就叫上娜维娅和绮良良她们，再约几个你的朋友，晚上来「千织屋」开派对。我参考参考他们会送你什么，然后当场做一个适合你的首饰送给你，保证你喜欢。我有这个自信。
+
+### 突破的感受·起
+
+…不行，还是太普通。
+
+### 突破的感受·承
+
+…还不错，但少了点引人驻足的亮点。
+
+### 突破的感受·转
+
+…好，我抓到我想要的了。
+
+### 突破的感受·合
+
+我的手是不会抖的，这是我的专业性…但我得承认，此时此刻我的心跳声实在有些吵了。感谢你一路帮助我完成我的作品，它对我有着无比重要的意义。今后的路，我会更有把握。
+
+### 元素战技·其一
+
+袖。
+
+### 元素战技·其二
+
+下一位？
+
+### 元素战技·其三
+
+搭把手。
+
+### 元素爆发·其一
+
+风尚，由我裁定。
+
+### 元素爆发·其二
+
+脆如绸锦。
+
+### 元素爆发·其三
+
+千红零落。
+
+### 打开宝箱·其一
+
+这工艺还行吧，我做过比这更好的。
+
+### 打开宝箱·其二
+
+原来你喜欢这种？
+
+### 打开宝箱·其三
+
+嗯…我参考参考。
+
+### 生命值低·其一
+
+衣服都破了…
+
+### 生命值低·其二
+
+闹够了没有…
+
+### 生命值低·其三
+
+得给你点教训…
+
+### 同伴生命值低·其一
+
+喂，别逞强。
+
+### 同伴生命值低·其二
+
+我可不做寿衣。
+
+### 倒下·其一
+
+裁剪不当…
+
+### 倒下·其二
+
+我不认输…
+
+### 倒下·其三
+
+我的品牌…还没有…
+
+### 普通受击·其一
+
+就这点？
+
+### 重受击·其一
+
+没品味的家伙…
+
+### 重受击·其二
+
+你惹错人了…
+
+### 加入队伍·其一
+
+欢迎光临「千织屋」。
+
+### 加入队伍·其二
+
+需要定制服务吗？
+
+### 加入队伍·其三
+
+出门找找灵感吧。

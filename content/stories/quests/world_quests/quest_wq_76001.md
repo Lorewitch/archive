@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 76001
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_76001
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 76001
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,31 +28,13 @@
 
 Воин, бродящий по чёрной бездне, всё ещё хранит невыполненную клятву...
 
-
-**Люшня:** Спасибо вам!
-
-
 **Паймон:** Это что ещё такое? Это ведь вещь того странного человека...
-
-
-**Осмотреть:** «За алтари и очаги».
-
-(Вернуть снаряжение)
-
-
-**Суховых:** Пожалуйста, отнесите реликвию к его могиле. Она находится недалеко от руин восточного поля битвы на острове Лемпо. Да наступит день упокоения его духа...
 
 **Паймон:** Хм... Кстати, он ведь был одет как светоносец, да? Может, он, э-э, раньше им и был?
 
 **Паймон:** В Нашгороде есть светоносцы. Может, они что-то знают! Давайте спросим их.
 
 #### Отправляйтесь в Нашгород и найдите светоносца для получения информации
-
-**Осмотреть:** ...чувствую Дикую Охоту...
-
-**Паймон:** Путешественник, слышишь? Этот звук... неужели...
-
-**Осмотреть:** ...Ты преследуешь Дикую Охоту, или ты один / одна из них?..
 
 **Паймон:** Подождите! Паймон хотела бы кое-что спросить...
 
@@ -68,15 +52,37 @@
 
 **Суховых:** Если сможете, отнесите реликвию к его могиле. Она находится недалеко от руин восточного поля битвы на острове Лемпо.
 
-Всё сделаем.
+- **Путешественник:** Всё сделаем.
 
 **Суховых:** Спасибо. Надеюсь, он скоро обретёт покой...
 
 #### Верните реликвию к могиле Сигурда
 
-(Приготовиться...)
+**Надпись на камне:** «За алтари и очаги».
 
-(Отойти на время)
+- **Путешественник:** (Вернуть снаряжение)
+
+**Суховых:** Пожалуйста, отнесите реликвию к его могиле. Она находится недалеко от руин восточного поля битвы на острове Лемпо. Да наступит день упокоения его духа...
+
+**Люшня:** Спасибо вам!
+
+#### Верните реликвию к могиле Сигурда
+
+**???:** ...чувствую Дикую Охоту...
+
+**Паймон:** Путешественник, слышишь? Этот звук... неужели...
+
+**???:** ...Ты преследуешь Дикую Охоту, или ты один из них?.. / ...Ты преследуешь Дикую Охоту, или ты одна из них?..
+
+- **Путешественник:** (Приготовиться...)
+
+- **Путешественник:** (Отойти на время)
+
+**Паймон:** Похоже, это действительно его вещь...
+
+**Паймон:** Это могила Сигурда. Здесь он лежит один...
+
+**Паймон:** Что ж, вернём ему его снаряжение.
 
 ## EN
 
@@ -84,31 +90,13 @@
 
 A warrior who walks the abyss seeks to carry out an as-yet unfulfilled oath...
 
-
-**Lushne:** We will be in your debt.
-
-
 **Paimon:** Eh? What's this? Did it belong to that strange guy?
-
-
-**Check:** "Pro aris et focis."
-
-(Return the relics.)
-
-
-**Sukhovykh:** Please take those relics to his grave. It lies near the eastern battlefield ruins on Lempo Isle. May the day soon come when his spirit may rest...
 
 **Paimon:** That guy just now... He was dressed like a Lightkeeper, wasn't he? Maybe he, uh, used to be one...?
 
 **Paimon:** Nasha Town's got some Lightkeepers, maybe they know something! Let's ask them.
 
 #### Head to Nasha Town and look for Lightkeepers to learn more
-
-**Check:** ...The Wild Hunt... permeates...
-
-**Paimon:** Traveler, do you hear that? It sounds like...
-
-**Check:** ...Do you pursue the Wild Hunt, or do you hunt with them...?
 
 **Paimon:** Just a moment, if you don't mind! There's something Paimon wants to ask you two...
 
@@ -126,15 +114,37 @@ You present the items you obtained earlier to the two Lightkeepers. You also tel
 
 **Sukhovykh:** If you can, please take those relics to his grave. It lies near the eastern battlefield ruins on Lempo Isle.
 
-Will do.
+- **Traveler:** Will do.
 
 **Sukhovykh:** Thank you. May the day soon come when his spirit may rest...
 
 #### Take the relics back to Sigurd's grave
 
-(Ready up...)
+**Engraved Inscription:** "Pro aris et focis."
 
-(Leave for now.)
+- **Traveler:** (Return the relics.)
+
+**Sukhovykh:** Please take those relics to his grave. It lies near the eastern battlefield ruins on Lempo Isle. May the day soon come when his spirit may rest...
+
+**Lushne:** We will be in your debt.
+
+#### Take the relics back to Sigurd's grave
+
+**???:** ...The Wild Hunt... permeates...
+
+**Paimon:** Traveler, do you hear that? It sounds like...
+
+**???:** ...Do you pursue the Wild Hunt, or do you hunt with them...?
+
+- **Traveler:** (Ready up...)
+
+- **Traveler:** (Leave for now.)
+
+**Paimon:** Looks like it belongs to that strange guy...
+
+**Paimon:** This must be Sigurd's grave. It's the only one around, after all...
+
+**Paimon:** Anyway... Let's give his stuff back to him, shall we?
 
 ## ZH
 
@@ -142,31 +152,13 @@ Will do.
 
 漫步黑渊的战士仍在履行尚未完成的誓约…
 
-
-**卢什涅:** 拜托了。
-
-
 **派蒙:** 欸？这是什么？是刚才那个奇怪的人的东西吗…
-
-
-**查看:** 「为了家园与炉火。」
-
-（交还装备。）
-
-
-**苏霍维赫:** 劳烦两位将遗物带去伦波岛东的战场遗址，带去他的墓前吧。愿他的灵魂得以安息的那一日尽早到来…
 
 **派蒙:** 说起来，看他的打扮应该是执灯人…曾经是执灯人吧。
 
 **派蒙:** 那夏镇也有执灯人呢，要不找他们问问？说不定他们会知道些什么。
 
 #### 前往那夏镇，寻找执灯人了解情况
-
-**查看:** …有狂猎的气息…
-
-**派蒙:** 旅行者，你听到了吗？这声音难道是…
-
-**查看:** …你是追猎狂猎之人，还是它们之中的一员？…
 
 **派蒙:** 打扰一下！有件事想问问两位…
 
@@ -184,12 +176,34 @@ Will do.
 
 **苏霍维赫:** 如果可以的话，请两位将遗物带去伦波岛东的战场遗址，带去他的墓前。
 
-放心交给我们吧。
+- **旅行者:** 放心交给我们吧。
 
 **苏霍维赫:** 感谢。愿他的灵魂得以安息的那一日尽早到来…
 
 #### 将遗物交还至西格德的墓前
 
-（做好准备…）
+**碑铭:** 「为了家园与炉火。」
 
-（暂时离去。）
+- **旅行者:** （交还装备。）
+
+**苏霍维赫:** 劳烦两位将遗物带去伦波岛东的战场遗址，带去他的墓前吧。愿他的灵魂得以安息的那一日尽早到来…
+
+**卢什涅:** 拜托了。
+
+#### 将遗物交还至西格德的墓前
+
+**？？？:** …有狂猎的气息…
+
+**派蒙:** 旅行者，你听到了吗？这声音难道是…
+
+**？？？:** …你是追猎狂猎之人，还是它们之中的一员？…
+
+- **旅行者:** （做好准备…）
+
+- **旅行者:** （暂时离去。）
+
+**派蒙:** 看起来是属于那个奇怪的人的东西…
+
+**派蒙:** 这就是西格德的墓了吧，只有他一个在这里…
+
+**派蒙:** 总之，我们先把这些装备交还给他吧。

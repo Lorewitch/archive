@@ -562,3 +562,955 @@ She believed that all the good and beauty that people cherished deep inside them
 此后，瑞希似乎得到了启发，换了个思路。
 她要将人们引向松弛与舒然的梦，唤起人们心中对宝贵事物的回忆。
 相信人们心底珍藏的美好，必定会在关键的时刻苏醒，为梦境着色，将其装点成最瑰丽的模样。
+
+# voice_source_ids: 109000,109001,109002,109003,109004,109005,109006,109007,109008,109009,109010,109011,109012,109013,109014,109015,109016,109017,109018,109019,109020,109021,109022,109023,109024,109025,109026,109027,109028,109029,109030,109031,109032,109033,109034,109035,109036,109037,109038,109039,109040,109041,109042,109043,109044,109045,109046,109047,109048,109049,109050,109051,109052,109053,109054,109055,109056,109057,109058,109059,109060,109061,109062,109063,109064,109065,109066,109067,109068,109069,109070,109071
+
+## REPLICAS_RU
+
+### Привет...
+
+Приветствую. Я Юмэмидзуки Мидзуки, клинический психолог. Если вас что-то беспокоит, расскажите мне. Я могу бесследно изгнать из вашего сознания даже самые мрачные кошмары. О? Не верите? Тогда, если есть свободная минутка... почему бы вам не заглянуть в мой кабинет?
+
+### Поболтаем: Психотерапия
+
+Вчерашний сон был чудесным. Спасибо, что рассказал. / Вчерашний сон был чудесным. Спасибо, что рассказала.
+
+### Поболтаем: Акционер
+
+Я ещё не закончила просматривать финансовый отчёт за прошлый квартал... Голова болит.
+
+### Поболтаем: Подавленное настроение
+
+Если ты в подавленном настроении, отложи на время дела и пойди подышать свежим воздухом.
+
+### Когда идёт дождь...
+
+При мрачной погоде у многих часто мрачное настроение...
+
+### Когда гремит гром...
+
+Неужели... у сёгуна день не заладился?
+
+### Когда светит солнце...
+
+Солнечный свет не всегда полезен. Если он слишком яркий, то режет глаза и вызывает головокружение.
+
+### После дождя...
+
+Теперь, когда грозовые тучи рассеялись, пришло время избавиться и от негативных мыслей.
+
+### Когда дует сильный ветер...
+
+Ах... Как приятно. Чувствую себя отдохнувшей и готовой к работе.
+
+### Доброе утро...
+
+Чувствуешь? Я открыла окно, чтобы проветрить комнату. Рассветное солнце, чистый воздух, освежающий ветерок... Всё это помогает настроиться на хороший день. Утро действительно прекрасное.
+
+### Добрый день...
+
+Полдень - отличное время для послеобеденного сна, который поможет восстановить силы. Но не забывай, что слишком много сна может привести к тому, что будешь чувствовать ещё большую усталость. Хочешь, я разбужу тебя через некоторое время?
+
+### Добрый вечер...
+
+Вечереет. Надеюсь, все лягут спать вовремя. Если допоздна танцуешь, читаешь романы или играешь в игры, качество сна ухудшается!
+
+### Спокойной ночи...
+
+Ты собираешься ложиться спать? Отлично, попробуй выпить перед этим молоко. Я добавила в него кое-какие травы, которые помогут заснуть. Спокойной ночи! Сладких снов!
+
+### О Юмэмидзуки Мидзуки: Традиции горячих источников
+
+Горячие источники Натлана находятся на побережье, поэтому можно наслаждаться освежающим морским бризом и одновременно веселиться с друзьями.
+Но если бы я рассказала о местных горячих источниках в Инадзуме, мне сказали бы: «Увидеть кого-то знакомого в бане - достаточно неловко, но разговаривать с совершенно незнакомым человеком? Немыслимо...»
+Видишь, даже горячим источникам бывает нелегко приспособиться к иной среде.
+
+### О Юмэмидзуки Мидзуки: Бани «Аиса»
+
+Ты слышал о банях «Аиса» в Инадзуме? Это крытый горячий источник. Когда я только стала акционером, я придумала новый план лечения. Сначала пациенты должны расслабиться в водах горячего источника, куда добавлены травы и ароматические масла, а потом только приходить на диагностическую консультацию.
+Но... В большинстве случаев тёплая вода усыпляла людей ещё до самого лечения. Проснувшись, они хвалили мои методы и называли меня чудотворцем.
+Я ничего не делала. Вот что значит хороший отдых...
+Обычный крепкий сон может решить множество проблем. И всё равно люди продолжают доводить себя до предела.
+Я только хочу, чтобы люди чувствовали, когда тело говорит им, что нуждается в отдыхе... / Ты слышала о банях «Аиса» в Инадзуме? Это крытый горячий источник. Когда я только стала акционером, я придумала новый план лечения. Сначала пациенты должны расслабиться в водах горячего источника, куда добавлены травы и ароматические масла, а потом только приходить на диагностическую консультацию.
+Но... В большинстве случаев тёплая вода усыпляла людей ещё до самого лечения. Проснувшись, они хвалили мои методы и называли меня чудотворцем.
+Я ничего не делала. Вот что значит хороший отдых...
+Обычный крепкий сон может решить множество проблем. И всё равно люди продолжают доводить себя до предела.
+Я только хочу, чтобы люди чувствовали, когда тело говорит им, что нуждается в отдыхе...
+
+### О нас: Путешествие
+
+Я побывала в пяти из семи королевств Тейвата. И пусть я сейчас живу в Инадзуме, время от времени мне приходится бывать в Натлане по делам. Раз мы с тобой оба путешественники, нам стоит побольше общаться. / Я побывала в пяти из семи королевств Тейвата. И пусть я сейчас живу в Инадзуме, время от времени мне приходится бывать в Натлане по делам. Раз мы с тобой обе путешественницы, нам стоит побольше общаться.
+
+### О нас: Сладкие сны
+
+У нас, юмэкуй-баку, есть правило: нельзя есть хороший сон без разрешения его владельца. Сладкие сны - это драгоценные сокровища, и их отсутствие может вызвать чувство потери и пустоты.
+Но ты особенный. Твои сны - это бездонная сокровищница. За всю свою жизнь я не встречала никого, кто был бы столь выдающимся, как ты... / У нас, юмэкуй-баку, есть правило: нельзя есть хороший сон без разрешения его владельца. Сладкие сны - это драгоценные сокровища, и их отсутствие может вызвать чувство потери и пустоты.
+Но ты особенная. Твои сны - это бездонная сокровищница. За всю свою жизнь я не встречала никого, кто был бы столь выдающимся, как ты...
+
+### Глаз Бога...
+
+Говорят, что Глаз Бога - это доказательство признания богов, чудо, ставшее явью. И, судя по тому, что я слышала, многие люди, не имеющие Глаза Бога, тоже хотят, чтобы с ними произошло такое чудо.
+Те, кто жаждет получить несбыточное, часто видят желаемое во снах. Но, проснувшись, они ощущают лишь ещё большую удручённость.
+Иногда в погоне за миражом мы ненароком превращаем реальность в кошмар, от которого нужно бежать... Остаётся надеяться, что с ними такого не случится.
+
+### Давай поделимся...
+
+Я-тян и Тэ-тян - мои спутники, часть меня. Они были созданы из моей силы ёкая, и каждая из них олицетворяет мою мудрость и мою душу, мою рациональность и мою эмпатию. Они иногда помогают при лечении пациентов и в бою не раз меня выручали.
+
+### Интересные вещи...
+
+За день до нападения на Народ Родников я вернулась из Натлана в Инадзуму. Только после того, как я получила письмо от Муалани, я узнала, что ты переломил ситуацию. Насколько я знаю от Мико, это был уже второй раз, когда я упустила шанс встретиться с тобой! Но теперь, наконец, я познакомилась с легендарным путешественником. / За день до нападения на Народ Родников я вернулась из Натлана в Инадзуму. Только после того, как я получила письмо от Муалани, я узнала, что ты переломила ситуацию. Насколько я знаю от Мико, это был уже второй раз, когда я упустила шанс встретиться с тобой! Но теперь, наконец, я познакомилась с легендарной путешественницей.
+
+### О Яэ Мико: Прошлое
+
+Сотни лет назад мы были соседками. Тогда Мико была гораздо серьёзнее, но всё равно чувствовалась невинность юности. Иногда я скучаю по тем временам. Тогда Мико только-только научилась превращаться в человека, и жизнь была такой простой... Каждый день она приходила ко мне и давала попробовать свои сны.
+Я помню... цветущую сакуру, листы бумаги, чернила, трёхцветное данго и жареный тофу... Она умоляла меня превратиться в человека вместе с ней и тащила меня в город, чтобы найти источники ароматов из её снов. Если нас кто-нибудь ловил, мы тут же превращались обратно и бежали, бежали. Часто я не могла её догнать...
+
+### О Яэ Мико: Положение дел
+
+Теперь Яэ Мико - Гудзи Великого храма Наруками. Мы повзрослели - и я больше не пробовала её сны. Кто знает, может быть, какие-то запахи в них остались теми же...
+Конечно, я больше не пробовала её снов. Поглощать сны других людей запрещено у нас. Даже если бы Гудзи пришла и попросила попробовать её сны, я... боюсь, отказалась бы. Теперь мы конкуренты в бизнесе. Я не намерена уступать.
+
+### О сёгуне Райдэн...
+
+После Фестиваля цветов Микавы я набралась смелости и пригласила сёгуна в бани. Когда она устроилась в бассейне, прядь её волос упала в воду. Я подумала, не поправить ли её локон, но меня беспокоило, вдруг это расценят как проявление неуважения по отношению к вышестоящей особе. Конечно, вряд ли Мико задумалась бы о таком... Это неприятное напоминание о том, что мне ещё предстоит долгий путь становления в качестве ёкая.
+
+### О Сангономии Кокоми...
+
+Божественная Жрица острова Ватацуми ведёт себя выдержанно и достойно. Мне всегда приятно общаться с ней. Поскольку я решила открыть новый филиал бань «Аиса» на острове Ватацуми, надеюсь, теперь смогу чаще сотрудничать с ней...
+
+### О Ёимии...
+
+Ты о Королеве праздника лета? Да, она произвела на меня неизгладимое впечатление.
+Время от времени я провожу обследование жителей Инадзумы на предмет психического здоровья, чтобы выяснить, есть ли в окрестностях районы, где люди чаще нуждаются в лечении...
+Люди, живущие поблизости от госпожи Ёимии, почти не нуждаются в психологической помощи. Я сомневаюсь, что это совпадение. Думаю, с такой жизнерадостной соседкой, как она, любой начнёт мыслить позитивно.
+
+### О Камисато Аяке...
+
+Аяка... Когда я покидала Инадзуму, она была всего лишь маленькой девочкой, которая занималась искусством составления букетов и фехтованием. Однажды её брат тайно пригласил меня, чтобы я помогла ей справиться с тревогами.
+Что я помню о её снах? Запах старой древесины и дождя. Словно шаткий деревянный павильон, одиноко стоящий под ливнем. Я сделала всё возможное, чтобы вылечить её. И потом она наконец погрузилась в мирную дремоту.
+С тех пор прошло много лет. Надеюсь, она нашла людей, на которых можно опереться, и ей не приходится стоять под ударами шторма в одиночку...
+
+### О Кудзё Саре...
+
+Она часто прибегает к моим услугам, чтобы помочь членам комиссии Тэнрё. Нередко они испытывают сомнения и страх, но в её сознании всегда холодный твёрдый металл. Ни дождя, ни солнца - словно сейф из чистой нефритовой стали, непоколебимый и непробиваемый.
+Я уважаю людей с таким сильным характером, как у неё.
+Хотя я могу только представлять, сколько пришлось вынести, чтобы стать такой...
+
+### О Саю...
+
+Она беззаботная маленькая мудзина. Единственное её желание - поскорее вырасти является желание стать выше... Уверена, её мечты очень сладки. Я бы с удовольствием пригласила её поработать в бане, но она постоянно избегает меня. Возможно, она видит мои намерения насквозь...
+
+### О Мавуике...
+
+Пиро Архонт? Хм, как бы это сказать... Госпожа Мавуика из тех, кто сияет так ярко, что при одном взгляде на неё возникает желание надеть тёмные очки. Как настоящее солнце, она способна сжечь дымку и осветить темноту даже простым рукопожатием.
+...Хм? Пробовала ли я когда-нибудь её сны? Нет, нет, нет, нет и нет... Я бы не осмелилась. Однажды она позволила мне попытаться, но войти в её сон было всё равно что прыгнуть в вулкан или захлебнуться пеплом. Я кашляла и кашляла...
+Наверное, у меня ещё недостаточно силы ёкая...
+
+### О Муалани...
+
+Муалани... Она самый дружелюбный человек, которого я когда-либо встречала. Я жила у Народа Родников, пока была в Натлане, и без её помощи никогда не смогла бы открыть там свой магазин. Она притащила меня в Палату советников, и вот так, без всякого предупреждения, я, до смерти перепуганная, оказалась лицом к лицу с Пиро Архонтом...
+Но её характер, как волна, бывает непредсказуем. Иногда она взмывает вверх, иногда погружается в пучину, а порой накатывает на берег...
+Психологическое состояние? Не беспокойся о ней. Она одна из самых психологически устойчивых людей, которых я когда-либо встречала. Возможно, это мне нужно ходить к ней на сеансы психотерапии...
+
+### О Нахиде...
+
+Я была в Сумеру. Под властью той богини я не могла прикоснуться к ничьим снам. Не говоря уже о том, чтобы повлиять на них или поглотить. Но её присутствие не было подавлением - то, что я почувствовала, больше было похоже на торжественное обещание между божеством и её народом... У меня сложилось впечатление, что она добрая богиня.
+
+### Узнать больше о Юмэмидзуки Мидзуки I
+
+Пожирание снов - это способность, которой обладаем мы, юмэкуй-баку. Мы можем потреблять как хорошие, так и плохие сны, хотя они очень отличаются по вкусу. Долгое время это был не более чем способ питания, но с возрастом я поняла, что эта сила обладает большим потенциалом. Она помогает людям преодолевать и прорабатывать их беды...
+
+### Узнать больше о Юмэмидзуки Мидзуки II
+
+На самом деле, юмэкуй-баку не обладают ужасающей силой ёкаев. Когда на Инадзуму обрушилось чёрное бедствие, мы могли только прятаться в страхе. Наша соседка, кицунэ Сайгу, погибла тогда, и я была убита горем, но ничего не могла изменить... Многие потеряли близких и друзей, и их сердца были охвачены болью... С тех пор я решила оказывать психологическую помощь. Поэтому я отправилась учиться заграницу. Я путешествовала по Ли Юэ, Сумеру и Натлану. Я объединила свои способности с академическими знаниями людей и постепенно создала собственную методику лечения.
+
+### Узнать больше о Юмэмидзуки Мидзуки III
+
+В последние годы я не была в Инадзуме, но мои горячие источники стали популярны. Я сделала всё возможное, чтобы расширить свои услуги по психотерапии, основанные на моих знаниях, полученных из разных стран. Когда люди слышат, что я крупный акционер бань «Аиса», это открывает множество дверей. И это один из главных секретов, как мне удаётся продолжать свою практику, даже несмотря на все трудности...
+
+### Узнать больше о Юмэмидзуки Мидзуки IV
+
+Для меня главная задача - переработать негативные эмоции, оставшиеся после кошмаров. Только когда я сталкиваюсь с недугами, которые не поддаются обычной терапии, то поглощаю кошмары моих пациентов. Тогда кошмары обычно становятся очень токсичными, мне приходится непросто... Когда это происходит, я люблю найти уединённое место, чтобы «переварить» эти эмоции. Мне не хочется, чтобы меня кто-то видел в такой момент...
+
+### Узнать больше о Юмэмидзуки Мидзуки V
+
+Но моя работа как клинического психолога заключается в том, чтобы помогать пациентам избавиться от кошмаров.
+...Можно сказать, что это смысл моего существования как юмэкуй-баку.
+Я всё думала, зачем вообще нам, юмэкуй-баку, даровали такую силу? И что мы можем сделать? Если мы поглощаем сны, чтобы насытиться, то для нас сны - это те же фиалковые дыни, только в другом виде. А мы аналогичны насекомым, которые только и умеют, что грызть фиалковые дыни.
+Психология дала мне цель и призвание - изгонять кошмары, мучающие жителей Инадзумы и всего мира.
+Хе-хе... Я думала, что проведу всю жизнь, борясь с кошмарами в одиночку. Но я встретила тебя, человека, который способен перевернуть мир, подчинить себе волю самих богов... Того, кто готов принять мои слабости, у кого нет недостатка в хороших снах... Возможно, в каком-то смысле я твой «пациент».
+
+### Хобби Юмэмидзуки Мидзуки...
+
+Лёгкая и приятная музыка очень помогает расслабиться. В Натлане я часто бывала на площади Коломче, где можно услышать музыку Народа Родников. Музыка, исполненная на укулеле, так прекрасна... Вообще-то, я слышала, что и ты играешь на музыкальных инструментах. Может, исполнишь что-то для меня?
+
+### Беспокойство Юмэмидзуки Мидзуки...
+
+Иногда кошмары становятся слишком сильными и даже смертельно ядовитыми. Возьмём, к примеру, солдат из Инадзумы, переживших чёрное бедствие, или воинов Натлана, сражавшихся с Бездной в Царстве Ночи. Отчаяние и страх так глубоко врезались в их подсознание, что поглощать их кошмары было всё равно что пытаться проглотить нож... Однажды я поглотила кошмар воина, только что вернувшегося с Войн ночных дозорных, и потеряла сознание на несколько дней...
+
+### Любимая еда...
+
+Какая еда мне нравится больше всего? Твой лучший сон, конечно же... Шучу. Я не пирую на хороших воспоминаниях людей... А вот сладости... Неплохое средство для поднятия настроения, особенно после трудной сессии.
+
+### Нелюбимая еда...
+
+Мне не нравятся блюда, которые готовятся на скорую руку, например... сухой хлеб, пара морковок, немного капусты и холодный кусок ветчины. Мы - то, что мы едим, и это особенно верно, когда речь идёт о нашем настроении. Как можно поддерживать здоровое состояние духа, если не получается организовать полноценное питание? Мы все должны быть добрее к себе, и это начинается с того, что мы едим.
+
+### Подарок I
+
+Ох... Этот вкус... Такого я ещё не пробовала даже во сне. Теперь я точно хорошо высплюсь...
+
+### Подарок II
+
+Ммм... Такой сладкий и безмятежный вкус, прямо как сны, которые я обычно вижу, когда засыпаю. Спасибо, мне очень нравится.
+
+### Подарок III
+
+Не спалось прошлой ночью? Снились кошмары? Это объясняет, почему вкус не очень... Еда может подождать до поры до времени - давай сперва проведём сеанс психотерапии.
+
+### День рождения...
+
+Сегодня важный день для нас обоих. Встреча с тобой дала мне возможность увидеть удивительный мир бесконечных грёз... Так почему бы нам не отпраздновать это событие, создав сказочный пейзаж для нас? Конечно, нам придётся строить его с нуля. Так что расскажи, что бы тебе хотелось увидеть... / Сегодня важный день для нас обеих. Встреча с тобой дала мне возможность увидеть удивительный мир бесконечных грёз... Так почему бы нам не отпраздновать это событие, создав сказочный пейзаж для нас? Конечно, нам придётся строить его с нуля. Так что расскажи, что бы тебе хотелось увидеть...
+
+### Чувство возвышения: Начало
+
+Я чувствую, что становлюсь сильнее и телом, и разумом. Я готова встретиться с ещё более сильными кошмарами.
+
+### Чувство возвышения: Нарастание
+
+Спасибо большое. Благодаря твоей поддержке я смогу справиться с любым, даже самым сложным случаем.
+
+### Чувство возвышения: Кульминация
+
+Благодаря твоей поддержке я смогла лучше узнать себя и проанализировать свои слабости. Ты помог психологу встать на путь исцеления, а таким мало кто может похвастаться. / Благодаря твоей поддержке я смогла лучше узнать себя и проанализировать свои слабости. Ты помогла психологу встать на путь исцеления, а таким мало кто может похвастаться.
+
+### Чувство возвышения: Окончание
+
+Негативные эмоции тоже часть нашего «я». Когда мы тревожимся, раздражаемся, боимся, это означает, что мы не можем справиться с ними. Главное - обрести баланс между признанием этих эмоций и их подавлением. Ты помог мне найти баланс, и теперь он укрепился в моём сознании. Каким бы токсичным или ядовитым ни был кошмар, мне нечего бояться. / Негативные эмоции тоже часть нашего «я». Когда мы тревожимся, раздражаемся, боимся, это означает, что мы не можем справиться с ними. Главное - обрести баланс между признанием этих эмоций и их подавлением. Ты помогла мне найти баланс, и теперь он укрепился в моём сознании. Каким бы токсичным или ядовитым ни был кошмар, мне нечего бояться.
+
+### Элементальный навык I
+
+Не хмурься!
+
+### Элементальный навык II
+
+Сладкие сны!
+
+### Элементальный навык III
+
+Пора отдохнуть.
+
+### Взрыв стихии I
+
+Прочь, плохие сны!
+
+### Взрыв стихии II
+
+Я-тян, Тэ-тян, вперёд!
+
+### Взрыв стихии III
+
+Пусть ветер унесёт заботы.
+
+### Открытие сундука I
+
+Хорошая находка.
+
+### Открытие сундука II
+
+Поднимает настроение!
+
+### Открытие сундука III
+
+Мора - лучшее лекарство.
+
+### Низкий уровень HP I
+
+Не надо бравировать...
+
+### Низкий уровень HP II
+
+Пора уступить...
+
+### Низкий уровень HP III
+
+Плохо...
+
+### Низкий уровень HP компаньона I
+
+Отойди назад.
+
+### Низкий уровень HP компаньона II
+
+Отдохни немного.
+
+### Без сознания I
+
+Это кошмар?..
+
+### Без сознания II
+
+Безграничная тьма...
+
+### Без сознания III
+
+Боль... Всё ещё чувствую.
+
+### Получен лёгкий удар I
+
+Как грубо.
+
+### Получен тяжёлый удар I
+
+Моя ошибка...
+
+### Получен тяжёлый удар II
+
+Непростой пациент...
+
+### Получен тяжёлый удар III
+
+Злодейский удар...
+
+### Присоединяется к группе I
+
+Расскажи мне что-нибудь.
+
+### Присоединяется к группе II
+
+Время лечения?
+
+### Присоединяется к группе III
+
+Хм... Не чую никаких кошмаров.
+
+## REPLICAS_EN
+
+### Hello
+
+Hello! I am Yumemizuki Mizuki, a clinical psychologist. If something's troubling you, feel free to talk it out with me. I can banish even the darkest of nightmares from your mind, without leaving a single trace. Oh? You don't believe me? Well then, if you have a moment to spare... Why don't you stop by my office?
+
+### Chat: Therapy Session
+
+That dream last night tasted wonderful. Thank you for sharing it with me.
+
+### Chat: Shareholder Work
+
+Still need to go through last quarter's financial report... What a headache.
+
+### Chat: Feeling Down
+
+If you ever feel down, just drop everything, and go out for some fresh air.
+
+### When It Rains
+
+When the weather is dark and gloomy, our emotions often respond in kind...
+
+### When Thunder Strikes
+
+Ah, I wonder if the Almighty Shogun is having a bad day...
+
+### When the Sun Is Out
+
+Sunshine isn't always a good thing. If it's too bright, the light can get into your eyes and make you dizzy.
+
+### After the Rain
+
+Now that the storm clouds have been swept away, it's time do the same with our troubles.
+
+### When the Wind Is Blowing
+
+Mmm~ The wind is just right. I feel refreshed and ready to go.
+
+### Good Morning
+
+Feel that? I opened the window to let in some fresh air. Ah, the crisp morning air, the rising sun, the cool breeze... My mood feels lighter already — a fine morning indeed.
+
+### Good Afternoon
+
+A quick nap in the middle of the day can give you an energy boost, but I do mean "quick." Sleeping too long will make you more tired... Need me to wake you up in a bit?
+
+### Good Evening
+
+It's getting late. Try to go to bed at a reasonable hour, okay? If you stay up late dancing, reading novels, or playing games, the quality of your sleep will really suffer!
+
+### Good Night
+
+Oh, off to bed? Here, drink this cup of milk before you go. I added some herbs to help you sleep. Good night, and sweet dreams!
+
+### About Yumemizuki Mizuki: Hot Spring Traditions
+
+Natlan's hot springs are in an open area close to the sea, which means you can chat with a whole host of people while enjoying the cool breeze off the water.
+Now, if I tried the same thing in Inazuma, people would probably say, "Seeing someone you know at the bathhouse is awkward enough, but conversing with a complete stranger? That's inconceivable..."
+So, you see? Not all hot springs are created equal.
+
+### About Yumemizuki Mizuki: Aisa Bathhouse
+
+Have you heard of Aisa Bathhouse? It's an indoor hot spring. When I first became a shareholder, I had a vision for a new kind of clinical practice — having patients soak in medicinal baths to relax the mind and body before treatment.
+But, well... Most of the time, the warm water put people to sleep before I could even get to the clinical part. After waking up, they would praise my methods and call me a miracle worker.
+Even though, I didn't even do anything! It just goes to show what rest can do...
+A simple good night's sleep can solve a lot of problems, actually. And, still, people insist on pushing themselves to the breaking point.
+*sigh* I just wish people would listen when their body tells them to rest...
+
+### About Us: Traveling
+
+I've been to five out of the seven nations in Teyvat. I suppose that makes me something of a traveler myself. Even though I live in Inazuma, I often have business in Natlan. So, as fellow travelers, we should stick together!
+
+### About Us: Sweet Dreams
+
+There's a rule among the Yumekui-Baku — we cannot consume a good dream without the owner's permission. Sweet dreams are precious treasures, and their absence can trigger a sense of loss and emptiness.
+But, you seem to be an exception. Your dreams are like a bottomless treasure trove. I've been in this line of work for centuries, but I've never met anyone as bright in their dreams as you...
+
+### About the Vision
+
+Visions are said to be proof of the recognition of the gods — a miracle made manifest. And, based on what I've heard, many people without a Vision are waiting on the same miracle to happen to them.
+But, dreaming of something unobtainable often means setting yourself up for greater disappointment, especially when you wake up, and reality sets in.
+Sometimes, in the pursuit of a mirage, we inadvertently turn reality into a nightmare from which we must escape... I can only hope that doesn't happen to them.
+
+### Something to Share
+
+Ya-chan and Te-chan are more than companions — they're a part of me, formed from my youkai powers. They represent my wisdom and spirit, respectively, and you can see them as manifestations of my rationality and empathy. They help me administer treatment on occasion and are very capable in combat, too!
+
+### Interesting Things
+
+I left for Inazuma the day before the attack on the People of the Springs. Mualani wrote me a letter and told me what happened. It would seem you have quite the talent for saving the day. Now that I think about it... Based on what I've heard from Miko, that would be the second time I've missed you right when we could have crossed paths! But, now, I can finally count the legendary Traveler among my acquaintances.
+
+### About Yae Miko: Past History
+
+Hundreds of years ago, we were neighbors. Miko was a lot more serious about her pursuits back then, but still, the innocence of youth permeated everything. I miss those days sometimes — Miko had just learned to transform into a human, and life was so simple... Every day, she would come find me and let me taste her dreams.
+Notes of sakura blossom, paper, ink, Tricolor Dango, and Fried Tofu... That's what I remember. She would beg me to transform into a human with her and drag me into town to find things that matched the flavors of her dreams. If someone caught us, we would immediately transform back into our original forms, and make a break for it. Miko ran so fast, she would leave me in the dust half the time.
+
+### About Yae Miko: Current Situation
+
+Now, Miko is the Guuji of the Grand Narukami Shrine. After growing up, I never tried one of her dreams again. Who knows if any of the flavors are the same as back then...
+Consuming dreams without permission is the ultimate taboo for my kind. Even if she came to me and asked after so long, I... I think I would refuse. We're business rivals now, and I intend to keep up with her this time.
+
+### About the Raiden Shogun
+
+I worked up the courage to invite the Almighty Shogun to the bathhouse after the Mikawa Flower Festival. As she settled into the pool, a strand of her hair drifted into the water. I thought about reaching out to fix it, but I was worried it would be too casual a gesture for such a noble figure. Of course, I doubt Miko would even hesitate... It's an unfortunate reminder that I still have a long way to go as a youkai.
+
+### About Sangonomiya Kokomi
+
+The Divine Priestess of Watatsumi Island is a dignified and well-mannered lady. Speaking with her always lifts my spirits. If I open a new branch of Aisa Bathhouse on Watatsumi Island or some other kind of business, I hope I have more chances to work with her...
+
+### About Yoimiya
+
+Oh, you mean the Queen of the Summer Festival? Yes, she is quite memorable.
+Every once in a while, I perform a mental health survey to see if there are areas around Inazuma where people are more likely to need treatment...
+It turns out, those who live near Miss Yoimiya have need very little, and I doubt that's a coincidence. It's hard to be anything but positive with such a bright and cheerful person around!
+
+### About Kamisato Ayaka
+
+Ah, Miss Ayaka... She was still a little girl when I left Inazuma, but even then, she had already started studying flower arranging and the art of the sword. Her brother once enlisted my services in secret, hoping to alleviate some of her anxieties.
+What I remember of her dream... was the smell of old timber and heavy rain, like a lone, wooden pavilion on the verge of collapse amid a storm. I did my best to treat her, until she finally fell into a peaceful slumber.
+Many years have passed since then. I hope she's found people to lean on, so she doesn't have to weather that storm alone...
+
+### About Kujou Sara
+
+She often enlists my services to help the members of the Tenryou Commission. It's not uncommon to see doubt and fear in their minds, but her mindscape is always cold, hard metal. No rain, no sun — like a safe of pure Jade Steel, unflinching and impenetrable.
+I have a lot of respect for her because of that.
+Although, I can only imagine what resilience it took to get to that point...
+
+### About Sayu
+
+Hehe, she's quite the carefree little mujina, her only trouble, of course, being the desire to grow taller... I'm sure her dreams are exceedingly sweet. I'd love to invite her to come work at the bathhouse, but she's always avoiding me. Heh, perhaps she can see through my intentions...
+
+### About Mavuika
+
+The Pyro Archon? Hm, how should I put it... Lady Mavuika is the kind of person who shines so bright, just laying eyes on her is enough to warrant sunglasses. Like the actual sun, she has a way of burning away haze and illuminating darkness, even with a simple handshake.
+...Hm? Have I ever tasted one of her dreams? No, no, no, no, no... I wouldn't dare. She let me try once, but stepping into her dream was like jumping into a volcano, or choking on ash. All I could do was cough...
+Perhaps my youkai powers simply aren't strong enough yet...
+
+### About Mualani
+
+Ah, Mualani... She is the friendliest person I've ever met. I lived with the People of the Springs during my time in Natlan, and I never could have opened up my shop there without her help. She dragged me to the Speaker's Chamber, and just like that, I was face-to-face with the Pyro Archon with no warning at all, scared out of my mind...
+Her personality is like a wave, sometimes cresting high above the water, gliding deep beneath the surface, or even crashing straight against the shore. It's hard to keep up...
+Oh, her mental state? I don't think you need to worry. She's in a very good spot. If anything, I should go to her for therapy...
+
+### About Nahida
+
+I've visited Sumeru before. Within the borders of her authority, it's impossible for me to make contact with anyone's dreams, much less affect or consume them. Her presence isn't oppressive, however — what I sensed felt more like a solemn promise between a god and her people... My impression is that she must be a very kind-hearted god.
+
+### More About Yumemizuki Mizuki: I
+
+Dream-eating is an ability unique to my kind. We can consume good and bad dreams alike, although the two are very different in terms of flavor. For a long time, it was nothing more than a form of sustenance, but as I got older, I realized this power had greater potential — helping humans overcome and process their troubles...
+
+### More About Yumemizuki Mizuki: II
+
+In truth, the yumekui-baku are not a particularly formidable kind of youkai. When the dark calamity struck Inazuma, all we could do was run and hide. Our neighbor, the Kitsune Saiguu, sacrificed herself in that disaster. I was devastated, but helpless to stop it... It was seeing all that loss and despair that inspired me to go into this vocation. I decided to study abroad, and through my travels in Liyue, Sumeru and Natlan, I was able to integrate my abilities with human medicine. And, thus, my current practice was born.
+
+### More About Yumemizuki Mizuki: III
+
+Even though I've been away from Inazuma for the past couple of years, the hot spring business has been thriving. In the meantime, I've worked hard to establish a practice that integrates what I've learned throughout my travels. Telling people I'm one of Aisa Bathhouse's major shareholders opens a lot of doors, which is one of the main reasons I've been able to keep my practice going, even despite all the challenges...
+
+### More About Yumemizuki Mizuki: IV
+
+To me, the greatest challenge is processing the negative emotions that come with consuming a nightmare. I only consume a patient's nightmare if all other treatment methods fail. At that point, the nightmares are usually highly toxic and volatile to consume... When that happens, I like to find a secluded place to "digest" those emotions. It's not something I want other people to see...
+
+### More About Yumemizuki Mizuki: V
+
+But, as a clinical psychologist, helping patients overcome their nightmares is my duty.
+...And well, to me, it's what it means to be a baku.
+I've always wondered about the purpose of our power. Why was it given to us? What can we do with it? If we think of dreams only as a form of sustenance, then what makes us different from the mindless insects that spend their days gnawing away at Lavender Melons?
+Psychology gave me a purpose and a calling — banishing nightmares from Inazuma and the world as a whole.
+Heh... I used to think I would spend my whole life facing this alone, until I met you... someone who can turn the world on its head, who can bend the will of the gods themselves... Someone who's willing to accept my weaknesses, with no shortage of dreams to share... Perhaps, in a way, I've become your "patient," as well.
+
+### Yumemizuki Mizuki's Hobbies
+
+Listening to cheerful and uplifting music is a great way to relax. Back when I lived in Natlan, I used visit Colomche Plaza all the time. The ukelele music was so beautiful... Actually, I heard you're something of a musician yourself. Could you play for me sometime?
+
+### Yumemizuki Mizuki's Troubles
+
+Sometimes, nightmares surpass what I can withstand and act almost like a lethal poison. An example would be the Inazuman soldiers who fought during the dark calamity or the Natlanese warriors who drove back the Abyss in the Night Kingdom. Despair and fear carved so deeply into their subconscious, consuming their nightmares was like trying to swallow a knife... One time, I consumed the nightmare of a warrior who had just returned from the Night Warden Wars, and I passed out for several days...
+
+### Favorite Food
+
+Oh, my favorite food? The best dream you've ever had, of course... Just kidding. I don't go around feasting on people's sweet memories... Now, sweet treats on the other hand... Not a bad pick-me-up, especially after a difficult session.
+
+### Least Favorite Food
+
+I don't like meals that are just thrown together, like... a dry loaf of bread, a couple of carrots, some cabbage, and a cold piece of ham. We are what we eat, and that's especially true when it comes to our mood. If you muddle through every meal, how are you supposed to maintain a healthy state of mind? We all need to be kinder to ourselves, and that starts with what we eat.
+
+### Receiving a Gift: I
+
+Wow... I've never had a dish like this before — not even in my dreams. This very well could be the recipe for a perfect night's sleep!
+
+### Receiving a Gift: II
+
+Hmm... Quite a mellow taste, like slipping into a dream. Thank you, it's lovely.
+
+### Receiving a Gift: III
+
+Did some terrible dream affect your sleep last night? That would explain why your sense of taste is so off... The food can wait until later — our therapy session must start now.
+
+### Birthday
+
+Today is a very special day for the both of us. Meeting you has given me the chance to witness a wondrous world of endless dreams... So, why don't we celebrate this occasion with a dreamscape for just the two of us? Of course, we'll need to build it from the ground up. So, tell me what you'd like to see...
+
+### Feelings About Ascension: Intro
+
+I feel myself getting stronger, both in body and mind. I'm ready to face even more powerful nightmares.
+
+### Feelings About Ascension: Building Up
+
+Thank you, from the bottom of my heart. With your help, I'm confident I can handle any case that comes my way.
+
+### Feelings About Ascension: Climax
+
+Your encouragement allowed me to look within and see my weaknesses for what they are. You've helped a psychologist down her own path to healing, and that's not something many people can say.
+
+### Feelings About Ascension: Conclusion
+
+Negative emotions are a part of who we are. Anxiety, agitation, and fear are what result when we shy away from facing them head-on. The important thing is finding the balance between recognizing those emotions and being overwhelmed by them. You helped me find that balance, and now, it's cemented in my head. No matter how toxic or poisonous the nightmare, I have nothing to fear.
+
+### Elemental Skill: I
+
+Turn that frown upside down~
+
+### Elemental Skill: II
+
+Sweet dreams!
+
+### Elemental Skill: III
+
+Time to relax.
+
+### Elemental Burst: I
+
+Bad dreams, be gone!
+
+### Elemental Burst: II
+
+Ya-chan, Te-chan, let's go!
+
+### Elemental Burst: III
+
+Cast your worries to the wind.
+
+### Opening Treasure Chest: I
+
+Ah, what a nice find!
+
+### Opening Treasure Chest: II
+
+Oh, a little something to boost the mood!
+
+### Opening Treasure Chest: III
+
+Sometimes the best medicine is a little extra Mora in your pocket.
+
+### Low HP: I
+
+Getting dicey...
+
+### Low HP: II
+
+Might be a lost cause...
+
+### Low HP: III
+
+Not a good sign...
+
+### Ally at Low HP: I
+
+Allow me to step in.
+
+### Ally at Low HP: II
+
+Take a rest.
+
+### Fallen: I
+
+Is this... a nightmare?
+
+### Fallen: II
+
+Darkness... closing... in...
+
+### Fallen: III
+
+I can still feel... the pain.
+
+### Light Hit Taken: I
+
+How rude.
+
+### Heavy Hit Taken: I
+
+My mistake...
+
+### Heavy Hit Taken: II
+
+A tricky patient...
+
+### Heavy Hit Taken: III
+
+A cheap shot...
+
+### Joining Party: I
+
+You can tell me anything.
+
+### Joining Party: II
+
+Is it time for our session?
+
+### Joining Party: III
+
+Ah... I don't sense any nightmares around here.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+您好。我是梦见月瑞希，一名「心理诊疗师」。如果您有什么烦心事，尽可以来找我倾诉。无论是多么深沉的「噩梦」，我都会将它从您的心里驱除，绝不会留下一丝阴霾。不相信吗？那如果不耽误您的时间…现在要来我的诊室看看吗？
+
+### 闲聊·心理诊疗
+
+昨晚的梦境…味道很美妙，感谢你与我分享。
+
+### 闲聊·股东事务
+
+上个季度的财务报表还没看完…有点头疼呀。
+
+### 闲聊·郁结
+
+如果心里郁闷的话，就先放下手头的事，出去呼吸一下新鲜空气吧。
+
+### 下雨的时候…
+
+阴翳的天气，容易勾起人心深处的负面情绪…
+
+### 打雷的时候…
+
+莫非…将军大人今天的心情不好？
+
+### 阳光很好…
+
+阳光太过耀眼，倒也不是完完全全的好事，照得我有点眩晕…
+
+### 雨过天晴…
+
+天上的乌云散去了，是时候收拾心头的阴霾了。
+
+### 刮大风了…
+
+嗯，风力刚好，神清气爽，心情也好。
+
+### 早上好…
+
+我已经把窗户打开，给房间通过风了。日出时分的清新空气、逐渐明亮的天色、还有微凉的早风，都会让人心情明朗…早上好。
+
+### 中午好…
+
+在中午时分，可以略微午睡一会补充精神…但别睡太久，会头晕的。需要我稍后叫醒你吗？
+
+### 晚上好…
+
+快到夜晚了，希望大家都能按时入睡，别熬夜玩游戏、看小说或者跳舞了…如果熬一个大夜，在凌晨才睡觉的话，睡眠的意义就大打折扣了…
+
+### 晚安…
+
+你要睡了么？正好，请把这杯牛奶喝了吧，我在里面加了一些草药，能让你睡得更好。晚安，你一定会做个好梦。
+
+### 关于梦见月瑞希自己·温泉的差别
+
+纳塔的温泉池开在了广阔的临海位置。一边享受凉快又清新的海风，一边和伙伴们玩耍的体验十分有趣。
+但想在稻妻推广的话，大家只会说：「和相熟的邻居一起泡澡倒是不错，但要和不认识的陌生人在温泉池里见面，感觉会很不好意思啊…」
+你看，就连温泉也有水土不服的说法。
+
+### 关于梦见月瑞希自己·「秋沙钱汤」
+
+你听说过稻妻的室内温泉「秋沙钱汤」么？其实，我投资它的时候正在设计一套全新的心理疗愈计划，在计划里，我想先利用加入了各种草药和香精的温泉让客人放松身体，进而放松心神，然后我再为客人进行进一步的诊疗。
+但是…「秋沙钱汤」的温泉泡起来太舒服，客人泡着泡着就容易直接睡着。醒来之后，还一个劲地夸我诊疗手段高超。
+我根本没进行任何诊疗啊，客人感觉那么好，只是单纯因为好好睡了一觉而已…
+明明是好好睡一觉就能解决的问题，为什么会拖成那么严重的疾病呢？
+唉，大家就别勉强自己了，该睡觉的时候，还是要好好睡觉呀…
+
+### 关于我们·旅程
+
+我也算是一位旅者，造访过提瓦特七国中的五国。即便如今定居稻妻，我也得时常去往纳塔，处理生意上的事务。所以，我们是同路人，可以多多结伴同行。
+
+### 关于我们·美梦
+
+食梦貘一族有条规定：未经允许，绝对不能吞食他人的美梦，那是人们珍贵的宝物，稍有损失便会催生失落的情绪。
+但你是个特例，你的美梦就像是富饶的宝库，几百年来，我还从没见过像你一样明亮的人…
+
+### 关于「神之眼」…
+
+我听人说，「神之眼」是被神明注视之人的证明。在神明的视线下，才会有如此神迹出现。但我也听那些未曾被神明注视的人说…他们也期待着拥有「神之眼」。
+渴求着不可求之物的人，就算在梦中获得了期冀的宝物，在梦醒时分，反而会更加怅然失怀吧。
+希望他们…不要为了追寻梦中的虚影，而把现实当作急于摆脱的噩梦。
+
+### 有什么想要分享…
+
+小安和小彻是我的伙伴，也是我的一部分——她们由我的妖力化形而成，分别代表着我的「智」和「灵」，是我心中理性和感性的显化。她们偶尔会协助我诊疗，在不得不战斗时，也非常下得去手呢。
+
+### 感兴趣的见闻…
+
+在「流泉之众」遇袭的前一天，我正从纳塔赶回稻妻，事后才从玛拉妮的来信中听说，你是改变局面的关键人物。这么一想，结合神子的描述，我曾在稻妻和纳塔两次错失与你见面的机会。好在如今，我总算与你这位传说中的旅者相识了。
+
+### 关于八重神子·旧事
+
+几百年前，我们曾是邻居。神子那家伙…以前可没这么沉迷于各种乐子。有时我还挺怀念的——她刚刚学会化为人形，天真单纯的那段时光…那个时候，她每天都要过来找我，让我尝尝她今天的梦是什么味道。
+我记得…有樱花、纸张、墨水、三彩团子，还有油豆腐。每次她都要抓着我化成人形，跑到城里寻找和梦里滋味对应的东西，要是被人发现了，我们就会唰地一下变成原来的模样，掉头就跑。我常常还跟不上她。
+
+### 关于八重神子·现状
+
+现在，她已经是「八重宫司」大人了，不知道她如今的梦境，还留有多少原来的气味。
+当然，我没有再尝过她的梦境。擅自吞吃他人的梦，是我们一族的绝对禁忌。就算宫司大人来找我，请我再尝尝她梦境的味道，我…恐怕也会拒绝吧。如今的我们，已经是彼此的竞争对手了。这次我必须跟上她。
+
+### 关于雷电将军…
+
+三川花祭后，我鼓起勇气邀请将军大人共浴。那时，她的一缕侧发飘进了温泉水里。我很想伸手帮她挽起来，却又担心这样的肢体接触会显得冒昧。一想到神子会面不改色地这么做，我就不由沮丧…我的修行，还需精进。
+
+### 关于珊瑚宫心海…
+
+海祇岛的那位现人神巫女举止端庄，与她交谈总是让我心情舒畅。今后，若是要在海祇岛拓展「秋沙钱汤」或其他店铺的业务，我还想与她多多合作…
+
+### 关于宵宫…
+
+你是说那位「夏祭的女王」么？嗯，我对她的印象很深。
+每隔一段时间，我都会做一次诊疗统计，看看稻妻哪里的居民最容易心力憔悴，哪里的居民心情还算开朗，哪里的居民又经常做噩梦…
+而宵宫小姐家附近的人们，几乎没有来诊疗过，我想，应该是宵宫小姐帮助了他们吧，有这么一位开朗活泼的邻居作伴，想不开心都难啊。
+
+### 关于神里绫华…
+
+绫华小姐…在我离开稻妻前，她还只是个小女孩，那时她就在练习花道和剑道了。我有一次曾经被她的兄长暗中请去，为她消解忧郁。
+她的梦境里…尽是老旧的木料味，混合着湿重的雨水气息，就像是一座摇摇欲坠的木亭，孤零零地伫立在暴雨里。我尽力为她诊疗，总算让她得以平和入睡。
+不知道绫华小姐心里的那座木亭，如今是否已经找到了支撑，能够安然呆在暴雨里了呢…
+
+### 关于九条裟罗…
+
+在之前，九条将军会定期请我去为天领奉行的人员做诊疗，其他人的心境有时候会有一些动摇，但在九条将军的梦里，我一直都只闻见了冷冷的金属味，既没有雨，也没有太阳，就像是满满堆放着「玉钢」的库房一样。
+我对九条将军这样心智刚强的人非常敬重。
+一个人，到底吃多少苦，要怎么做…才能把自己的心锻炼成如今这样呢？
+
+### 关于早柚…
+
+呵呵，除了长高的烦恼外，几乎无忧无虑的小貉…她的梦境一定很甜美。要不是她有预感般绕着我走，我还真想请她来「秋沙钱汤」工作。
+
+### 关于玛薇卡…
+
+火神玛薇卡女士？怎么说呢…她是那种，光是看一眼都会让人觉得想要戴上墨镜的人。她就像是真正的太阳那样，只要她握住你的手，你心中所有阴霾和忧郁都会在一瞬间被燃烧殆尽。
+尝、尝过梦境的味道没有？没有没有没有没有没有，我可不敢细致地尝，之前玛薇卡女士亲切地邀请我，但我一踏进她的梦里，就和跳进了火山一样，烫得我直咳嗽…
+可能是我的妖力还不够吧…
+
+### 关于玛拉妮…
+
+玛拉妮啊…她是我见过最热心的人了，长住纳塔期间，我定居的地方正是「流泉之众」，要是没有她的帮助，我在「流泉之众」的店铺可开不起来。当时她直接带着我去「话事处」找火神女士，确实吓了我一跳…
+不过，她的性格也像是海浪一样，有时候飞上浪尖，有时候沉在浪底，还有时候潜进暗流里，我根本捉摸不透她…
+心理？不用担心她，她是我见过心理状态最好的人之一。我可能还需要向她倾诉呢…
+
+### 关于纳西妲…
+
+我造访过须弥，在那位神明的权能范围内，我无法触及任何人的梦境，更不必谈影响和吞食。但那种感觉并非被压制，不曾令我难受，更像一种心平气和的约定…我想，她一定是位友善的神明。
+
+### 想要了解梦见月瑞希·其一
+
+「吞食梦境」是我们食梦貘一族特有的能力，无论美梦还是噩梦，都能成为我们的食粮，只是味道的好坏有别。以往，我的同族大多出于本能，将这种能力用于饱腹，但随着见闻增长，我意识到，这种能力可以帮助多愁善感的人类消解烦恼，发挥更大的价值…
+
+### 想要了解梦见月瑞希·其二
+
+其实，食梦貘一族的妖力并不强大。当年，漆黑的灾厄涌来时，我们只能惶恐地躲藏。邻家的狐斋宫姐姐在那场灾厄中牺牲了，我非常伤心，但无力改变什么…许多人也失去了重要的家人和伙伴，内心遍布疮痍…从那时起，我就有了为人们进行心理诊疗的想法，于是我出国求学，先后游历了璃月、须弥和纳塔，结合我的能力和人类的学术理论，慢慢确立了如今的诊疗之道。
+
+### 想要了解梦见月瑞希·其三
+
+这几年，我虽然不在稻妻，但好在我出资建设的温泉经营得小有名气，大家一听说我是「秋沙钱汤」的大股东，多少会给我些面子。我尽力综合了多国见闻的「心理诊疗」服务才得以推行下去。当然，遇上的挑战也不少…
+
+### 想要了解梦见月瑞希·其四
+
+于我而言，最大的挑战便是消化噩梦残留下来的负面情绪。唯有面对常规诊疗无法治愈的烦恼时，我才会直接吞食患者的噩梦，这也导致我吞下的噩梦都有着不小的烈性，令我相当困扰…以前，我会找个无人的地方缓慢「消化」它们的余威，要是被人撞见，我会非常难堪…
+
+### 想要了解梦见月瑞希·其五
+
+但作为心理诊疗师，帮助患者消解「噩梦」，就是我的职责。
+…或者说，这是我作为「食梦貘」的存在意义。
+我之前一直在想，我们「食梦貘」究竟为什么被赋予了这样的能力呢？能做到什么事情呢？如果「吞梦」只是为了饱腹，那梦境对我们来说，也只不过是以另一种形式存在的堇瓜而已，而我们，也和那些只知道叮咬堇瓜，既不知生也不知死的虫孑没有区别。
+直到做了诊疗师之后，我才找到了我能够做的事，那就是为了稻妻…不，为所有人驱除噩梦。
+呵…我本来以为，我一生都要独自面对这些「噩梦」了。但是，我却遇见了一位能够破除世间所有困境，连神明都认可，连神明的想法都能改变的人，愿意接受我脆弱的一面，与我分享近乎无尽的美梦…某种意义上，我也是你的「患者」了。
+
+### 梦见月瑞希的爱好…
+
+悠扬轻快的音乐对放松身心尤为有益，在纳塔时，我经常去「流泉之众」的科隆切广场听音乐，享受「悠可琴」那音色饱满的旋律…听说你也会许多乐器，要是有机会，能听你演奏一曲吗？
+
+### 梦见月瑞希的烦恼…
+
+太过强大的噩梦，有时会超出我的接受极限，甚至成为致命的毒物…比如，经历过漆黑灾厄的稻妻将士，在夜神之国与深渊战斗过的纳塔勇士，他们的潜意识或许刻入了绝望和恐惧的色彩，他们的噩梦也如刀割般难以下咽…我曾为一名「巡夜者战争」归来的勇士做过心理诊疗，在吞食她的噩梦后，我一连昏迷了几天…
+
+### 喜欢的食物…
+
+我最喜欢的食物？当然是完美无瑕的梦境了。开玩笑的，我可不会轻易去吃掉别人的美梦…最多，吃些甜食，弥补一下给患者治疗后的精神亏空。
+
+### 讨厌的食物…
+
+我不能接受潦草的食物，比如…干巴巴的面包、几片萝卜和卷心菜，配上冷冰冰的火腿…要知道，吃饭也是改善心境的重要环节，连一天三餐都随便应付，要如何维持心态健康呢？每个人都该对自己好一点，先从认真对待吃饭这件小事开始吧。
+
+### 收到赠礼·其一
+
+呜…这道料理的风味，是我做梦也没尝到过的味道。享受这种美味之后，今晚我肯定也能睡得香甜…
+
+### 收到赠礼·其二
+
+嗯…既平稳又美好的味道，就像我平时入睡时的梦境一样。谢谢你，我很喜欢。
+
+### 收到赠礼·其三
+
+你昨晚是不是做了糟糕的梦，没怎么睡好？这样的话…味觉确实可能稍稍失灵…菜肴我晚些再吃，请让我先为你诊疗。
+
+### 生日…
+
+今天对你我而言都相当重要，有你来到了这个世界，我才能探访无尽的美梦，见识到瑰丽美妙的天地…不如，就用只属于我们二人的梦境来庆祝吧？当然，要构筑这梦境，还需我们二人一同出力，请向我细致描述你的期望…
+
+### 突破的感受·起
+
+不止武力，我的心力也有所增进，这样一来，我便能面对更为强大的负面情绪了。
+
+### 突破的感受·承
+
+由衷感谢你，在你的支援下，我有信心承受一切诊疗残留的烦恼。
+
+### 突破的感受·转
+
+得到了你的鼓舞，我便能探究脆弱的自我，解析自己的弱点——心理诊疗师的心病，因你而走向康复，这是前所未有的创举。
+
+### 突破的感受·合
+
+负面情绪也属于「自我」的一部分。我们焦虑、躁动，以至于恐慌，究其根本是没有信心面对它们，无法在它们与积极的情绪之间找到平衡点。如今，有你在我身旁，我已将这平衡点深深刻入意识底层，再烈再毒的噩梦，我都不会畏惧。
+
+### 元素战技·其一
+
+别皱眉呀。
+
+### 元素战技·其二
+
+美梦疗法。
+
+### 元素战技·其三
+
+镇定下来。
+
+### 元素爆发·其一
+
+噩梦噩梦快离开…
+
+### 元素爆发·其二
+
+来吧，小安，小彻。
+
+### 元素爆发·其三
+
+「…晓时枕貘醒春风。」
+
+### 打开宝箱·其一
+
+令人愉悦的收获。
+
+### 打开宝箱·其二
+
+心情很不错，更有干劲了。
+
+### 打开宝箱·其三
+
+财富是改善情绪的良药。
+
+### 生命值低·其一
+
+不能逞强…
+
+### 生命值低·其二
+
+似乎该让步了…
+
+### 生命值低·其三
+
+不妙啊…
+
+### 同伴生命值低·其一
+
+请退下。
+
+### 同伴生命值低·其二
+
+请暂时避战。
+
+### 倒下·其一
+
+噩梦…蔓延了。
+
+### 倒下·其二
+
+无边的漆黑…
+
+### 倒下·其三
+
+痛苦…没有散去。
+
+### 普通受击·其一
+
+真粗鲁。
+
+### 重受击·其一
+
+好失态…
+
+### 重受击·其二
+
+麻烦的病患…
+
+### 重受击·其三
+
+如此恶毒的一击…
+
+### 加入队伍·其一
+
+有烦恼要倾诉吗？
+
+### 加入队伍·其二
+
+诊疗时间到了。
+
+### 加入队伍·其三
+
+周围…好像没有噩梦的味道。

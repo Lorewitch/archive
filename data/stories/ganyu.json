@@ -144,5 +144,1100 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я поняла. Вот черновик Соглашения об оказании услуг для ознакомления. Если всё в порядке, то вступает в силу немедленно... А! Подожди! Я забыла подписать его... Гань... Юй... Вот. Готово. Так в чём конкретно заключается работа?",
+        "en": "Copy that! Here is a draft Service Agreement for your review and consideration. Effective immediately, if all is in order... Ah! Wait a sec, wait a sec, I forgot to sign it... Gan... Yu... There. Right. Now... What was it you needed me to do for you exactly?",
+        "zh": "我明白了，外派工作的「契约」已经拟好了，请过目，即日起就可以为你…欸！名字没有签吗？请让我看一下。唔…名字是甘，甘雨…呼，补上了。话，话说回来，工作具体是指哪些呢？"
+      },
+      "source_id": 25009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Умиротворение",
+        "en": "Chat: Relaxed",
+        "zh": "闲聊·松弛"
+      },
+      "text": {
+        "ru": "Люблю атмосферу покоя.",
+        "en": "It's so nice to de-stress.",
+        "zh": "安逸的氛围…喜欢。"
+      },
+      "source_id": 25010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Внимательность",
+        "en": "Chat: Attentive",
+        "zh": "闲聊·聆听"
+      },
+      "text": {
+        "ru": "Если лечь в траву, то услышишь биение сердца мира.",
+        "en": "If you lie on the grass, you can feel the heartbeat of the world.",
+        "zh": "趴在草地上，能听见大地的心跳。"
+      },
+      "source_id": 25011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Волнение",
+        "en": "Chat: Anxious",
+        "zh": "闲聊·焦虑"
+      },
+      "text": {
+        "ru": "Действительно пора отдыхать? Ещё так много работы...",
+        "en": "Should we really be off work this early? There is still a lot left to do...",
+        "zh": "工作…工作还没有做完…真的可以提前休息吗？"
+      },
+      "source_id": 25012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь: Тревога",
+        "en": "When It Rains: Worries",
+        "zh": "下雨的时候·担忧"
+      },
+      "text": {
+        "ru": "Как хорошо. Шелковицам торговой гильдии «Фэйюнь» нужно много воды... Но логисты опять будут жаловаться на размытые дороги в горах...",
+        "en": "Oh good! I was just thinking that the Silk Flowers at the Feiyun Commerce Guild needed watering. The transport co-ordinators will probably moan about the muddy mountain roads again, though...",
+        "zh": "飞云商会种植的霓裳花需要充足的雨露，唔...和记交通的伙计们却不喜欢雨后泥泞的山路…"
+      },
+      "source_id": 25013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт дождь: Шум дождя",
+        "en": "When It Rains: Listening to the Rain",
+        "zh": "下雨的时候·听雨"
+      },
+      "text": {
+        "ru": "Люблю слушать шум дождя во дворе. Но редко могу себе позволить.",
+        "en": "It is something of a luxury, but I love listening to the rain from the courtyard.",
+        "zh": "在庭院里听雨的感觉很好，但是，太奢侈了。"
+      },
+      "source_id": 25014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "А? Прояснело? И когда только...",
+        "en": "Oh, the sun's out. When did that happen?",
+        "zh": "嗯？天晴了吗？是什么时候…"
+      },
+      "source_id": 25015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Ах, какой хороший воздух...",
+        "en": "Ah, the air is just right.",
+        "zh": "嗯，空气很适宜。"
+      },
+      "source_id": 25016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Ах, как хорошо. Пахнет глазурными лилиями...",
+        "en": "Ah, I love the smell of Glaze Lilies.",
+        "zh": "啊，琉璃百合的味道，真好啊…"
+      },
+      "source_id": 25017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Что такое? Что-то в волосах? А... Не надо смотреть на мои... заколки.",
+        "en": "Morning! What's wrong, is there something stuck in my hair? ...Oh. Please don't stare at my h—hairpiece.",
+        "zh": "早上好…唔？是哪里没有梳理好吗，请不要盯着我的…盯着我的头饰看。"
+      },
+      "source_id": 25018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Ох... Надо вздремнуть. Если нет никаких срочных дел, то я, пожалуй, пойду.",
+        "en": "*yawn* Ugh... I need a nap. If there aren't any urgent matters, I'll excuse myself.",
+        "zh": "啊…需要午觉。如果没有什么特别的事情…我就先行告退了。"
+      },
+      "source_id": 25019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Смотри, как ярко светят огни города! Интересно, чем живут все эти люди... Хочешь пойти на ночной базар? Эм... Нет, спасибо. Я, пожалуй, воздержусь.",
+        "en": "Look how brightly lit the city is at night! Amazing. I wonder what it's like for all the people down there... Hmm? Umm... No thanks, I think I'll pass on the night market. Sorry...",
+        "zh": "万家灯火就在眼前，人们的生活究竟是什么样的呢…欸？你想邀我去夜市？啊…不，不好意思，我就不去了吧。"
+      },
+      "source_id": 25020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Пусть защитит тебя Властелин Камня. Пусть сон будет спокойным и сладким.",
+        "en": "May Rex Lapis watch over you. May your dreams be peaceful and sweet.",
+        "zh": "愿帝君保佑你，愿你的每个梦都踏实而香甜。"
+      },
+      "source_id": 25021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Гань Юй...",
+        "en": "About Ganyu",
+        "zh": "关于甘雨自己…"
+      },
+      "text": {
+        "ru": "Моя работа - следовать контракту с Властелином Камня, то есть стремиться к благополучию всех живых существ в Ли Юэ.",
+        "en": "My job is to honor my contract with Rex Lapis by looking out for the interests of all living things in Liyue.",
+        "zh": "我的工作，就是遵循与帝君的「契约」，为璃月的多数生命，谋求最大的福祉。"
+      },
+      "source_id": 25022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Работа",
+        "en": "About Us: Work",
+        "zh": "关于我们·工作"
+      },
+      "text": {
+        "ru": "Сегодня я выполнила работу пораньше... Сверхурочно? Хорошо, сейчас всё сделаю.",
+        "en": "I finished all my assignments early today. ...O—Overtime? I understand. I'll get right on the case.",
+        "zh": "今天的工作已经提前完成了。加…加班？我理解了，我会好好完成的。"
+      },
+      "source_id": 25023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Просьбы",
+        "en": "About Us: Requests",
+        "zh": "关于我们·请求"
+      },
+      "text": {
+        "ru": "Я хочу лучше понять людей... Хочу узнать, что ты о них думаешь. Почему? Потому что ты отличаешься от людей Тейвата. Как и я... Пожалуйста, скажи, что ты думаешь.",
+        "en": "I want to understand more about humans... And I especially wish to hear what you think of them. Why, you ask? Because you're... you're a bit different from most people in Teyvat, just as I am... Please, tell me what you think.",
+        "zh": "我想了解更多有关人类的故事…尤其，想知道你对他们的看法和评价。因为，那个，你跟提瓦特大陆上的普通人不太一样吧。而我也…请务必，和我交流。"
+      },
+      "source_id": 25024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Оценка",
+        "en": "About Us: Evaluation",
+        "zh": "关于我们·评价"
+      },
+      "text": {
+        "ru": "Хм... Я всё хотела спросить... Что ты думаешь о моей работе? Я больше похожа на... обычный сундук или на роскошный? Нет-нет, ничего страшного... Я не обижусь.",
+        "en": "Um, so, yeah, uh, I was, uh... I was wondering what your opinion is on my work so far? Would you say I'm... more of a Common Chest or more of a Luxurious Chest? I—It's fine. I—I can, uh... I can take it.",
+        "zh": "嗯…我，我一直想知道你对我工作的评价。是…普通宝箱的等级还是华丽宝箱的等级。没，没关系的。我的心理…能承受得住。"
+      },
+      "source_id": 25025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "«Власть над тысячей - это ответственность перед тысячей». Никто в Ли Юэ не испытал столько трудностей, сколько Властелин Камня. Он видел всё: от древности до современности, и ему пришлось посвятить этому всю свою жизнь. А я всего лишь обычный владелец Глаза Бога с обычной работой. Не так уж это и тяжело.",
+        "en": "\"With authority over a thousand comes responsibility to a thousand.\" Rex Lapis knows the meaning of hardship better than anyone else in Liyue — he has seen everything that has happened from ancient times to the present day, and yet he was forced to give up his entire life. Compared to him, I'm just an everyday Vision holder with everyday responsibilities. I can't complain about my workload.",
+        "zh": "「一千种权力伴随着一千种责任。」那位拥有着博览古今的视野，却被迫放弃了自己生活的帝君，才是整个璃月最辛苦的人吧。相比起来，只拥有着普通「神之眼」，只需要去行使普通责任的我，已经轻松得多了。"
+      },
+      "source_id": 25026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "«Сюда стекаются все торговые караваны и корабли, и отсюда течёт богатство по жилам семи королевств» - так люди говорят о процветающей гавани Ли Юэ. Но успех города зависит от усилий каждого человека в нём. Я работаю, чтобы быть частью этого успеха.",
+        "en": "\"Where merchants flock and all ships dock, and over the oceans flows its stock.\" People say this in praise of Liyue's prosperity. But a city only becomes this successful through everyone playing their part diligently. That's the attitude I take to my work — I want to be worthy of what we enjoy here.",
+        "zh": "「万商云来、千船继至、百货迭出、诸海历览。」人们用这样的话来称赞璃月。但成就这样的壮景，依靠的也是细小到每一个人的努力。我是怀着要对得起这份繁荣的心情工作的。"
+      },
+      "source_id": 25027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи: Имена",
+        "en": "Interesting Facts: Name",
+        "zh": "感兴趣的见闻·名字"
+      },
+      "text": {
+        "ru": "Я дала имя каждой собачке в Ли Юэ. Но некоторые откликаются даже на чужие имена - смешные такие. Удивительно, да? Если бы меня кто-нибудь назвал Банту, то как бы я поняла, что это они мне? Ни за что бы не откликнулась.",
+        "en": "I've named every single doggie living in Liyue. But they're so funny. Some of them still respond even when you call them the completely wrong name. How fascinating is that? Like, if people were to call me \"Bantu,\" how am I supposed to know they're talking to me? No way would I respond.",
+        "zh": "生活在璃月的每一只小狗，我都给它们取了名字。不过，有的狗狗如果用别的名字叫它也会有反应。真是了不起呢。如果有谁突然叫我「苦雪」什么的，我一定回应不上来。"
+      },
+      "source_id": 25028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Интересные вещи: Цинсинь",
+        "en": "Interesting Facts: Qingxin",
+        "zh": "感兴趣的见闻·清心"
+      },
+      "text": {
+        "ru": "Лепестки цветка цинсинь вкусные. Даже очень вкусные. Я их и не сажаю на террасе Юйцзин, потому что они такие вкусные, а то я не сдержусь... А? Горькие? Ну да... Какие же они ещё могут быть?",
+        "en": "Qingxin flower petals are pretty tasty. Incredibly tasty, actually. The only reason I don't plant any at Yujing Terrace is because they taste so good that I worry I wouldn't be able to control myself... Huh? Bitter? Yes, they are... Isn't that what they're supposed to taste like?",
+        "zh": "清心的花瓣，很好吃…应该说特别好吃。就是因为太好吃了，所以我才不敢在玉京台种它。生怕哪天一个不小心就会忍不住…嗯？你说…特别苦？可是…这不就是它的味道吗？"
+      },
+      "source_id": 25029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Мораксе: Доверие",
+        "en": "About Morax: Trust",
+        "zh": "关于摩拉克斯·信任"
+      },
+      "text": {
+        "ru": "Я полностью доверяю Властелину Камня. Только благодаря его руководству мы смогли изгнать чудовищ и одолеть морских тварей. То, как он защищал людей, наша тысячелетняя дружба... Никогда не забуду.",
+        "en": "I have absolute faith in Rex Lapis. It was only through his leadership that we were able to repel the monsters and subdue the sea creatures, and thus protect the peace of Liyue. The sight of him protecting the masses, and the memory of our centuries of camaraderie... I shall never forget it.",
+        "zh": "我对帝君有着绝对的信任。当年，正是有帝君率领，我们才能击退魔物、降伏海兽，保住了这一方平安。帝君守护众人的身姿，千年以来的情谊，我不会忘记。"
+      },
+      "source_id": 25030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Мораксе: Последователь",
+        "en": "About Morax: Follower",
+        "zh": "关于摩拉克斯·追随"
+      },
+      "text": {
+        "ru": "Все решения Властелина Камня - только для блага всех жителей Ли Юэ. Перед этим я преклоняюсь и хочу быть как он... Но похоже, что чем сильнее я стараюсь идти по его стопам, тем больше волнуюсь и делаю ошибок...",
+        "en": "All of Rex Lapis' decisions prioritize the welfare of all life in Liyue. That's what I admire about him the most. I want to live up to the same standard... but it seems that the harder I try to follow in his footsteps, the more overwhelmed I get and the more mistakes I make...",
+        "zh": "帝君的决断，总是能够为璃月的多数生命带来福祉。我很敬佩这一点，也很想像他一样…但有时，越想着要去追赶帝君的脚步，就越容易紧张得出错…"
+      },
+      "source_id": 25031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Нин Гуан...",
+        "en": "About Ningguang",
+        "zh": "关于凝光…"
+      },
+      "text": {
+        "ru": "Каждая Воля Небес по-своему толкует и дополняет древние законы Ли Юэ. Текущая Воля Небес, Нин Гуан, делает это с несравненной эффективностью. Но её часто за это критикуют. Критиковать всегда проще, чем понять.",
+        "en": "Each Tianquan adds their own interpretation and amendments to the founding laws of Liyue. The current one, Ningguang, does it with unmatched efficiency, but that efficacious manner of hers draws a great deal of criticism. I suppose it is always simpler to criticize than to tolerate.",
+        "zh": "历任「天权」都会对璃月的古老律法进行释义和补充。在这之中，当代「天权」凝光的处理效率是无人能及的。只不过，她那追求效率和效益的作风常常遭人指摘。挑刺，总是比包容简单得多吧。"
+      },
+      "source_id": 25032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кэ Цин: Отчуждённость",
+        "en": "About Keqing: Estrangement",
+        "zh": "关于刻晴·隔阂"
+      },
+      "text": {
+        "ru": "Терпеть не могу её отношения к Властелину Камня! Но... Но он говорит, что именно такой человек сейчас нужен Ли Юэ. Наверное, я слишком глупая - я не понимаю, что он имеет в виду. Мне столько ещё надо узнать, чтобы понять его.",
+        "en": "I cannot stand her disrespectful attitude towards Rex Lapis! But he says to me, \"Ganyu, this is just the kind of person Liyue needs in this day and age.\" I guess I'm not smart enough, because I simply do not understand what he means by that. I think I need more life experience to become wise enough to comprehend his words.",
+        "zh": "我无法认同她对帝君的态度。但是…但是…「甘雨，这才是璃月现今需要的人。」帝君反而这样说。我还是太愚钝了，要理解帝君话语中的意思，还得更努力地接触更多事务才行吧。"
+      },
+      "source_id": 25033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Кэ Цин: Новые взгляды",
+        "en": "About Keqing: Changing Perspective",
+        "zh": "关于刻晴·改观"
+      },
+      "text": {
+        "ru": "Недавно она пришла ко мне обсудить восстановление торгового пути через долину Бишуй. Она даже спросила меня, как бы поступил Властелин Камня. Конечно, наш план не сравнится с тем, что мог бы сделать Властелин Камня, но... Видя, как она снова и снова переделывала свой план, я, кажется, начала её понимать.",
+        "en": "She came to me recently to discuss the reopening of the Bishui trade route. She even asked me what Rex Lapis would do if it were him. Admittedly, what we came up with was not quite on par with what he would have chosen. But... seeing the way she kept starting her plan from scratch over and over again, I think I started to understand her a little bit.",
+        "zh": "最近她主动与我讨论起了修复碧水商路的方案，还问我，是帝君的话会怎么做。我们商量出来的举措固然不比帝君，不过…看到她反复推演着沙盘的样子，隐约能够理解她的心情了。"
+      },
+      "source_id": 25034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Син Цю...",
+        "en": "About Xingqiu",
+        "zh": "关于行秋…"
+      },
+      "text": {
+        "ru": "Мальчик в голубом из торговой гильдии «Фэйюнь»? Он совсем не похож на своего отца или брата. Совсем не интересуется производством тканей. Это потому, что он считает, что есть более важные вещи. Но это лишь мои догадки, конечно...",
+        "en": "You mean the boy in the blue jacket from the Feiyun Commerce Guild? He's nothing like his father and brother, doesn't seem to care about the textile business at all. Seems it's because as far as he's concerned, there are more important things for him to be doing. Of course, I'm merely speculating...",
+        "zh": "飞云商会那位青衣少年，并不像他的父亲和兄长那般操心织物的经营。是因为对他来说，有更重要的事情值得去做吧。当然…这也只是我的猜测…"
+      },
+      "source_id": 25035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Сян Лин...",
+        "en": "About Xiangling",
+        "zh": "关于香菱…"
+      },
+      "text": {
+        "ru": "Сян Лин - звезда! Но... я стараюсь держаться от «Народного выбора» подальше... Потому что... Да так просто... Ну ладно. Не такой уж это и секрет. Просто её еда так вкусно пахнет на всю улицу. Стоит унюхать - не знаешь, что произошло, - ты уже заказываешь второе, третье блюдо, даже не вегетарианские... Невозможно себя контролировать. А после того случая...",
+        "en": "Xiangling is a celebrity! Um, but... I try to avoid her restaurant. Just... because. No reason. ...Okay, fine. It's not a big secret anyway. It's because you can smell her cooking all the way from the other end of the street. And once you get a whiff, I mean, that's it. You're gone. Next thing you know, you're ordering your second, maybe third round... You just can't control it. Even though I only eat the vegetarian dishes, I don't know what it is. But that is not a road I want to go down again... Not after...",
+        "zh": "香菱很有名！但...我不太敢去「万民堂」那一带…不敢就是…不敢啦。好，好吧，也不是秘密。那边的饭菜香味飘得满街都是。一旦被勾住了，点上了菜，就算是素菜也...很难控制住食欲吧。这样的话，这样的话…"
+      },
+      "source_id": 25036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Бэй Доу...",
+        "en": "About Beidou",
+        "zh": "关于北斗…"
+      },
+      "text": {
+        "ru": "Последнее время все на террасе Юйцзин жалуются на флот Южного Креста. Но я считаю, что заслуги Бэй Доу перед Ли Юэ намного больше, чем считают эти жалкие лживые брехуны... Ой, прости... Вырвалось...",
+        "en": "Recently, everyone in Yujing Terrace has been saying nasty things about The Crux Fleet. But in my personal opinion, Beidou's contribution to Liyue Harbor goes far beyond what those miserable, rumor-loving heathens could even contemplate! ...Oops! I'm sorry, I... I'm not quite sure how that one slipped out...",
+        "zh": "近来，玉京台之上对南十字船队的怨言不断。可是在我看来，北斗船长对璃月所做的贡献，远非沉溺于伪造流言之徒所能想象…啊，抱歉，失言了…"
+      },
+      "source_id": 25037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Яо Яо...",
+        "en": "About Yaoyao",
+        "zh": "关于瑶瑶…"
+      },
+      "text": {
+        "ru": "Яо Яо... Департамент по делам граждан попросил меня следить, чтобы она не забралась на корабль... Чем занимается Департамент по делам граждан? Хороший вопрос, да? Кто знает, чем они занимаются... Я не знаю.",
+        "en": "Yaoyao... Someone I know at the Ministry of Civil Affairs tasked me with keeping an eye on her in the city, making sure she doesn't try and sneak aboard The Crux... Oh, you want to know what the Ministry of Civil Affairs does? ...Who knows, am I right!? Heh... Who knows what they do? ...Not me...",
+        "zh": "瑶瑶啊…我是受总务司那边的熟人托付，在城内好生照顾她，别让她再往船上跑…你问我总务司的业务范围？唔…不，不知道呢。"
+      },
+      "source_id": 25038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "О Сяо...",
+        "en": "About Xiao",
+        "zh": "关于魈…"
+      },
+      "text": {
+        "ru": "Он старается держаться в стороне от людей. Наверное, характер такой... Я его понимаю, но сближаться с ним не собираюсь. Всё-таки... Все, кто выполнял с ним один контракт, уже покинули нас...",
+        "en": "He seems like a bit of an outsider, socially. Probably just his personality... I can understand that, to be honest, but I'm not really about to try and get close to him. I mean... all the people he's ever agreed to team up with are no longer with us...",
+        "zh": "他一直与人间保持距离，应该说是性格使然吧…我能够理解他，但是我无法「接近」他。毕竟…与他履行同一份「契约」的同伴，都已经不在了啊…"
+      },
+      "source_id": 25039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "О Янь Фэй...",
+        "en": "About Yanfei",
+        "zh": "关于烟绯…"
+      },
+      "text": {
+        "ru": "Янь Фэй... Когда она была совсем маленькой, она говорила, что нужно соблюдать контракт и жить счастливо. Сейчас она стала знаменитостью Ли Юэ.\nРабота консультанта по юридическим вопросам утомительна, но она всегда выглядит беззаботной, что меня очень успокаивает.",
+        "en": "Ah, Yanfei... Even back when she was an innocent little girl, she would tell me that \"you have to keep your promises to live a happy life.\" Now, she's grown up to be a beautiful, graceful, and highly successful young woman.\nAlthough the work of a legal adviser is complicated, she always seems so carefree. This puts my mind at ease.",
+        "zh": "烟绯呀…她还是个懵懂的小女孩时，就和我说过，要遵守契约，过上快乐的生活。如今她亭亭玉立，成了璃月的名人。\n律法咨询师的工作很繁杂，但她总是一副无忧无虑的模样，这让我十分安心。"
+      },
+      "source_id": 25040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "О Шэнь Хэ...",
+        "en": "About Shenhe",
+        "zh": "关于申鹤…"
+      },
+      "text": {
+        "ru": "На самом деле я не так уж хорошо её знаю... Только слышала о ней от Хранителя Облаков. Насколько я знаю, у неё довольно скверный характер. Всякий раз, когда он берёт над ней верх, она разносит всё вокруг. Интересно, может, ей просто... скучно? Может... мне порекомендовать ей какую-нибудь работу?",
+        "en": "I actually don't know her all that well — I've only heard bits and pieces from Cloud Retainer. From what I've heard, she can be quite ferocious. Whenever her temper gets the better of her, she is likely to start obliterating her surroundings. I wonder if maybe she's just... bored. Should... Should I recommend some work to keep her occupied?",
+        "zh": "我和她并不能算是熟悉。只是听留云真君提过几句，听说她性子较凶，要是压抑不住心性，容易对周围造成严重破坏。嗯…会不会是因为平日里太闲了呢？我…我该给她推荐些工作吗？"
+      },
+      "source_id": 25041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "О Е Лань...",
+        "en": "About Yelan",
+        "zh": "关于夜兰…"
+      },
+      "text": {
+        "ru": "Несмотря на то, что госпожа Е Лань отсутствует на работе большую часть года, наверняка госпожа Нин Гуан делает для неё исключение по веским причинам. Конечно, это не моё дело, поэтому я не знаю подробностей. Помню, как мы случайно встретились в павильоне Лунного моря, она завтракала с группой людей. Все они разговаривали и смеялись, ели, пили чай... Признаюсь, тогда мне стало немного завидно.",
+        "en": "Even though Ms. Yelan is absent from work for the majority of the year, I'm sure Lady Ningguang must have her reasons for making exceptions for her. Of course, it wouldn't be my place to ask, so I don't know the details of their arrangement. I remember seeing her one day on my way back to Yuehai Pavilion, she was having breakfast with a group of people — they were all talking and laughing, eating, drinking tea... I must admit, I found myself feeling a little envious in that moment.",
+        "zh": "虽说夜兰小姐每年有将近七成时间缺勤，但凝光会给她这样的特权，想必事出有因。当然，这不该是由我打听的事项，具体内容就不清楚了。不过，有天我回月海亭的路上，看到她和许多人有说有笑地吃着早点、喝着茶。我的内心深处…竟然有些羡慕。"
+      },
+      "source_id": 25042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Гань Юй I",
+        "en": "More About Ganyu: I",
+        "zh": "想要了解甘雨·其一"
+      },
+      "text": {
+        "ru": "Срочная работа? Ах... Не надо подробностей, просто заполни свой запрос и оставь его вот здесь.",
+        "en": "You have a last-minute job for me? Okay, uh... Sorry, please don't try and explain it all verbally... Write it down, leave a note here. I'll get to it as soon as possible.",
+        "zh": "临时的工作吗？啊，不用和我具体说。将你的要求写下来，放在这边就好。"
+      },
+      "source_id": 25043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше о Гань Юй II",
+        "en": "More About Ganyu: II",
+        "zh": "想要了解甘雨·其二"
+      },
+      "text": {
+        "ru": "Так, что тут у нас? «Узнать больше о Гань Юй...» Это что за требование такое? Первый раз такое вижу... Хм... Я могу... прочитать тебе доклад о выполненной работе за прошлый год? Нет, не пойдёт?",
+        "en": "Let's see... \"I want to understand Ganyu better...\" Wh—What sort of request is that!? I've never done this before... Um, um, um... Okay... I can, ah... run you through my annual review from last year? That should bring you up to speed on me... No good? Oh, okay then...",
+        "zh": "「想要了解更多甘雨的事情」…这，这是什么工作要求啊。我，我还从来没有处理过这样的…去年年底述职报告的背诵可以吗？啊，不行啊。"
+      },
+      "source_id": 25044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Узнать больше о Гань Юй III",
+        "en": "More About Ganyu: III",
+        "zh": "想要了解甘雨·其三"
+      },
+      "text": {
+        "ru": "Я долго думала и решила, что если это для работы, то мне нечего стесняться. Если хочешь побольше обо мне узнать, то... Эти заколки... Это на самом деле рога. Да, во мне течёт кровь Божественного зверя цилиня. Так, с этим разобрались, теперь подпиши вот это соглашение о неразглашении. Никому не говори.",
+        "en": "I've had a long, hard think, and I've realized that so long as it's for a work-related matter, there's really nothing for me to be embarrassed about. So if you really need to understand me more... This, uh, hairpiece... it's actually my horns. That's right. I'm part illuminated beast, qilin to be exact. Okay, so, now we've got that out the way... Please sign this non-disclosure agreement for me. And don't tell a soul.",
+        "zh": "我思考过了…既然是「工作」，处理「工作」就没有害羞的必要。如果你想要了解我的话，这个头上的…发饰。其实是我的角。我的身上，有着仙兽「麒麟」的血脉。唔…理解了的话，请签下这份保密协议，不要对别人讲…"
+      },
+      "source_id": 25045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Узнать больше о Гань Юй IV",
+        "en": "More About Ganyu: IV",
+        "zh": "想要了解甘雨·其四"
+      },
+      "text": {
+        "ru": "Во мне течёт кровь цилиня, но также во мне течёт и человеческая кровь. Все эти годы я спрашиваю себя: могу ли я быть частью мира смертных... Может быть, я как Дендро слайм: прячусь от мира, закапываясь в таблицах и отчётах.",
+        "en": "Even though I'm part qilin, I'm still part human, too. Still, all these years I've been asking myself the same question: Do I really belong in the human world? Maybe I'm just like a Dendro Slime hiding in the earth, burying myself in numbers and reports in order to escape reality.",
+        "zh": "虽然身为仙兽的混血后裔，但同时也有着人类的血脉。这么多年来，我也不知道自己算不算融入了璃月港的人类生活…可能，我只是像钻进地里的草史莱姆一样，把自己埋在数据和报表中间来逃避吧。"
+      },
+      "source_id": 25046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Узнать больше о Гань Юй V",
+        "en": "More About Ganyu: V",
+        "zh": "想要了解甘雨·其五"
+      },
+      "text": {
+        "ru": "Спасибо, что всегда приходишь поговорить. Кажется, после встречи с тобой я разговариваю больше, чем за последние десять лет... Если так пойдёт дальше, то, может быть, однажды я смогу заняться чем-то кроме секретарской работы. С опытом в несколько сотен лет я смогу избежать особенно больших ошибок.",
+        "en": "Thank you for always making time to chat with me. I feel like I must have spoken more after meeting you than I have in the last ten years put together. If I keep going like this... Maybe one day I'll be able to move on to something other than secretarial work. Now that I've got a few hundred years of experience under my belt, I should be able to avoid any more major mistakes.",
+        "zh": "谢谢你一直陪我说话。遇见你之后，好像说了十几年都没有说过的那么多话…如果保持这样的锻炼，有朝一日也能从事秘书以外的职业了吧。用上几百年时间来熟练，应该就不会犯什么要紧的错了吧。"
+      },
+      "source_id": 25047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Хобби Гань Юй...",
+        "en": "Ganyu's Hobbies",
+        "zh": "甘雨的爱好…"
+      },
+      "text": {
+        "ru": "Хобби? Работа, наверное... А? Работа не считается? Почему нет? Ведь хобби - это то, что ты хочешь делать, а потом делаешь и радуешься? Моё хобби - работа. Что тут такого?",
+        "en": "My hobby... I would say... my job. What? Why don't jobs count as hobbies? I thought hobbies are supposed to be things you look forward to doing, and that make you feel good when you've done them. That describes my job perfectly. So what's the issue?",
+        "zh": "爱好吗，爱好的话…工作吧。嗯？工作不能算？但是，为什么呢？难道爱好不是指自己想要去做，做了就会感到开心的事情吗。那么爱好是工作，又有什么问题呢？"
+      },
+      "source_id": 25048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Беспокойство Гань Юй...",
+        "en": "Ganyu's Troubles",
+        "zh": "甘雨的烦恼…"
+      },
+      "text": {
+        "ru": "Почему люди постоянно пытаются доказать, что их существование более ценно? Разве существование само по себе недостаточно прекрасно?",
+        "en": "I don't understand why people insist on going all out to try and prove how their existence is more valuable than everyone else's. To exist in the first place is a beautiful thing, and that's enough... isn't it?",
+        "zh": "为何人们总是拼命证明…自己的存在比其他人更有价值呢？存在本身，就是足够美好的事情了吧？"
+      },
+      "source_id": 25049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "«Пей лишь сладкую росу и ешь лишь чудесные злаки» - это мой девиз. Поэтому убери, пожалуйста, это «Искушение Адепта» подальше от меня. Большое спасибо!",
+        "en": "\"Drink only spring water, eat only whole grains,\" that's my motto. So I would be grateful if you could please remove that treacherously enticing-looking plate of delicacies from my field of view. Much obliged!",
+        "zh": "「饮必甘露，食必嘉禾。」这是我的守则。所以，请把那盘「仙跳墙」，从我的视线范围里拿开…"
+      },
+      "source_id": 25050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Цилини - строгие вегетарианцы, поэтому не обижайся, если я отказываюсь от блюд. Да, овощные котлеты на животном жиру тоже нельзя... Нельзя же. Ну нельзя! Я по запаху чувствую!",
+        "en": "Qilins are strict vegetarians, so please do not take offense when I decline meat dishes. Yes, that includes your vegetable fritters since they have been fried in animal fat. Thanks, but I can't. I'm afraid I really can't. I don't mean to argue, it's just I have a keen sense of smell, so I know how they've been cooked.",
+        "zh": "我们一族是严格的素食主义者，肉类料理就请允许我谢绝了。嗯，没错，即使是荤油混在蔬菜丸子里也不行…不可以。不可以哟。我能够闻出来的。"
+      },
+      "source_id": 25051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения! Ты так давно обо мне заботишься, а я даже подарок забыла, как же так... За спиной? А, ты увидел... Это мой неудачный торт из цветков цинсинь... Так хотела сделать идеально, но... Вкусно? Правда?! / С днём рождения! Ты так давно обо мне заботишься, а я даже подарок забыла, как же так... За спиной? А, ты увидела... Это мой неудачный торт из цветков цинсинь... Так хотела сделать идеально, но... Вкусно? Правда?!",
+        "en": "Many happy returns! After all the times you've looked out for me, I didn't even remember to get you a gift — whoops! Silly me, I... What's that behind my back? Ah. You saw it then. It's a failed attempt at making a Qingxin flower cake... I wanted it to be perfect, but... Oh, you think it tastes good? Do you really?",
+        "zh": "生日快乐。这么久以来受你的关照，但却没有准备礼物，这点实在…藏在手后面的？欸，你看到了啊…是，失败了的清心花凉糕…抱着必须做完美的决心结果…欸，好，好吃的？真…真的吗。"
+      },
+      "source_id": 25052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Сила?.. Вот уж давно не виделись.",
+        "en": "Power? ...Now there's a key performance indicator I haven't needed in a long time.",
+        "zh": "力量？…真是久违了。"
+      },
+      "source_id": 25053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Может... Разрешим мирным путём? А, ладно...",
+        "en": "Could we maybe... find a peaceful resolution instead...? Never mind, doesn't matter...",
+        "zh": "如果…可以用和平的方式解决。不，没什么…"
+      },
+      "source_id": 25054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Похоже, это новый жизненный путь... Я понимаю. Я не буду жаловаться.",
+        "en": "I suppose this is the new way of life, then. I'm not going to complain. I'll try to embrace it.",
+        "zh": "这就是新的生活之道吧…我明白了，我不会抱怨的。"
+      },
+      "source_id": 25055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Помню, читала в одной старой книге, что «цилинь сражается только в чёрный день». На самом деле это преувеличение. Если надо сражаться... вместе с тобой, я буду сражаться изо всех сил.",
+        "en": "I remember reading in an ancient text that \"Only when days be darker than the darkest night, may a qilin be compelled to fight.\" That's a massive exaggeration, but... should the time come for battle, and should you need me, then I will give it every ounce of my strength.",
+        "zh": "我曾经看到古书上说，「麟斗则日无光」。其实没有那么夸张。但是，如果需要战斗，如果需要为你而战，我会献出自己的全部力量。"
+      },
+      "source_id": 25056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Не прикасаться!",
+        "en": "No touching!",
+        "zh": "禁止接触。"
+      },
+      "source_id": 25057
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Просьба не беспокоить!",
+        "en": "Access denied.",
+        "zh": "闲人勿扰。"
+      },
+      "source_id": 25058
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Порождение льда и стужи.",
+        "en": "Born of ice and frost.",
+        "zh": "霜寒化生。"
+      },
+      "source_id": 25059
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Метель!",
+        "en": "All hail!",
+        "zh": "风雪的缩影。"
+      },
+      "source_id": 25060
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Заледеней!",
+        "en": "Glaze over!",
+        "zh": "如琉璃般飘落。"
+      },
+      "source_id": 25061
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Давно пора с этим покончить!",
+        "en": "This is long overdue.",
+        "zh": "这项工作，该划掉了。"
+      },
+      "source_id": 25062
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Взрыв стихии IV",
+        "en": "Elemental Burst: IV",
+        "zh": "元素爆发·其四"
+      },
+      "text": {
+        "ru": "За Властелина Камня!",
+        "en": "For Rex Lapis!",
+        "zh": "为了岩王帝君！"
+      },
+      "source_id": 25063
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Что-то мы отстаём от графика...",
+        "en": "We're way behind schedule...",
+        "zh": "下一项工作是…"
+      },
+      "source_id": 25064
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Начало спринта II",
+        "en": "Sprint Start: II",
+        "zh": "冲刺开始·其二"
+      },
+      "text": {
+        "ru": "Дальше по плану...",
+        "en": "Next on the agenda...",
+        "zh": "我会跟上的…"
+      },
+      "source_id": 25065
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Конец спринта I",
+        "en": "Sprint End: I",
+        "zh": "冲刺结束·其一"
+      },
+      "text": {
+        "ru": "В здоровом теле здоровый дух!",
+        "en": "Healthy body, healthy mind...",
+        "zh": "运动，是必要的…"
+      },
+      "source_id": 25066
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Нет ничего плохого в том, чтобы время от времени получать награду.",
+        "en": "There's nothing wrong with reaping a reward every now and then.",
+        "zh": "有所收获，就是一件好事。"
+      },
+      "source_id": 25067
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Сокровища - повод для большой радости.",
+        "en": "Beautiful treasures are a cause for great happiness.",
+        "zh": "瑰丽的珍宝，令人欣喜。"
+      },
+      "source_id": 25068
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Возможно, тот, кто оставил сундук, тоже... выполнял контракт?",
+        "en": "Perhaps whoever left these behind was... also fulfilling a contract?",
+        "zh": "留下宝箱的人，也遵循着某种「契约」吗？"
+      },
+      "source_id": 25069
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Я просто слегка не в форме.",
+        "en": "I'm just way out of practice.",
+        "zh": "…是我久疏战场。"
+      },
+      "source_id": 25070
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Кажется, это была ошибка...",
+        "en": "Did I miscalculate?",
+        "zh": "欸？好像弄砸了？"
+      },
+      "source_id": 25071
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Мне не хватает энергии...",
+        "en": "I'm a little low on energy.",
+        "zh": "需要…补充能量。"
+      },
+      "source_id": 25072
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Пожалуйста, отойди!",
+        "en": "Please step back!",
+        "zh": "请您退后！"
+      },
+      "source_id": 25073
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Сначала планируй, затем действуй!",
+        "en": "Uh... \"Don't try to rush your enemy\"!",
+        "zh": "呃…「不可贸然进攻」！"
+      },
+      "source_id": 25074
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Властелин Камня... прости меня!",
+        "en": "Rex Lapis... I am sorry!",
+        "zh": "帝君…对不起…"
+      },
+      "source_id": 25075
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Не смогла выполнить... договор...",
+        "en": "My contract goes... unfulfilled...",
+        "zh": "「契约」…尚未完成…"
+      },
+      "source_id": 25076
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Нужно... ещё... поднажать...",
+        "en": "Must... press... on...",
+        "zh": "我得…再撑一会…"
+      },
+      "source_id": 25077
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Никто не ожидал этого.",
+        "en": "Ngh... Didn't see that coming.",
+        "zh": "疏忽了…"
+      },
+      "source_id": 25078
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ничего страшного!",
+        "en": "I can fix this!",
+        "zh": "没有关系…"
+      },
+      "source_id": 25079
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Пора приниматься за дело?",
+        "en": "Time to begin work?",
+        "zh": "工作时间到了么？"
+      },
+      "source_id": 25080
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Жду указаний!",
+        "en": "What are my orders?",
+        "zh": "请向我下达指令。"
+      },
+      "source_id": 25081
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Слушаюсь и повинуюсь.",
+        "en": "As per our contract.",
+        "zh": "谨遵你我「契约」。"
+      },
+      "source_id": 25082
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Настоящий деликатес... О нет! Кажется, я съела слишком много...",
+        "en": "Such authentic delicacies... Oh no! I think I might have eaten too much...",
+        "zh": "地道的美味佳肴…啊！我是不是已经吃多了？"
+      },
+      "source_id": 25083
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Прости, я довольно привередлива в еде...",
+        "en": "I'm somewhat of a picky eater, sorry you went to all this trouble...",
+        "zh": "我在饮食方面还挺挑剔的，让你费心了…"
+      },
+      "source_id": 25084
+    },
+    {
+      "number": 77,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Ценю твои намерения, но... мясо всё же не по мне.",
+        "en": "I appreciate the thought, but... meat's not really my thing.",
+        "zh": "我明白你的好意，但油荤…还是算了。"
+      },
+      "source_id": 25085
+    },
+    {
+      "number": 78,
+      "title": {
+        "ru": "О Сянь Юнь...",
+        "en": "About Xianyun",
+        "zh": "关于闲云…"
+      },
+      "text": {
+        "ru": "Хранитель Облаков... то есть Сянь Юнь. Мы недавно вместе ходили по магазинам, но в итоге останавливались у каждого ларька и не могли уйти, пока она не осмотрит каждый предмет, который они продают. Когда мы наконец вспомнили, что пора перекусить, уже стемнело. Мне это напомнило, как мы раньше с ней тренировались в горах... Тогда время тоже пролетало как одно мгновение...",
+        "en": "Cloud Retainer... Oh, I mean, Ms. Xianyun — we went shopping together a while back, but we ended up stopping at every single stall, and she wanted to inspect every item they sold before we could leave. When we finally remembered to get something to eat, it was already dark out. It really reminded me of the time I used to spend training in the mountains with her... Back then, time also seemed to pass in the blink of an eye...",
+        "zh": "留云真君…啊，我是说，闲云小姐，她不久前约我一同逛街，却在每个摊位前都停下脚步，一定要把每件商品细细看过一遍才离开。等我们记起要吃饭时，已经夕阳西下了。这让我想起了从前在山中修行的日子，光阴也如同现在一样，转瞬即逝…"
+      },
+      "source_id": 25086
+    }
+  ],
+  "replica_count": 78
 }

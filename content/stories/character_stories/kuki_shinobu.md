@@ -304,3 +304,815 @@ Removing generations worth of prejudice, for example, or searching for true, unb
 人活一世，遇到的大部分事情无需「神之眼」也能处理。至于那些真正棘手的难题，可不是能靠「神之眼」轻易打发的。
 比如，怎么消除世代累积的成见，怎么追寻真正无羁的自由。
 又比如，怎么劝阻满地打滚吵闹不停说要去把她的神之眼一并赢回来的「荒泷派」一众。
+
+# voice_source_ids: 65000,65001,65002,65003,65004,65005,65006,65007,65008,65009,65010,65011,65012,65013,65014,65015,65016,65017,65018,65019,65020,65021,65022,65023,65024,65025,65026,65027,65028,65029,65030,65031,65032,65033,65034,65035,65036,65037,65038,65039,65040,65041,65042,65043,65044,65045,65046,65047,65048,65049,65050,65051,65052,65053,65054,65055,65056,65057,65058,65059,65060,65061,65062,65063,65064,65065,65066
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет! Я Куки Синобу, помощница главаря банды Аратаки. Мы предлагаем широкий спектр услуг, в том числе транспортировку и логистику, охрану, ремонтные работы и музыкальные представления. Пожалуйста, не стесняйся обращаться ко мне, если что-нибудь понадобится. Вот моя визитка.
+
+### Поболтаем: В крайнем случае
+
+Если окажешься в затруднительном положении, просто дай мне знать. Я помогу тебе.
+
+### Поболтаем: Сертификаты
+
+Критерии для сдачи экзамена на получение сертификата на осуществление деятельности достаточно просты, всё сводится к тому, готов ли ты потратить на это время. Если усердно заниматься, то это не так уж и сложно. / Критерии для сдачи экзамена на получение сертификата на осуществление деятельности достаточно просты, всё сводится к тому, готова ли ты потратить на это время. Если усердно заниматься, то это не так уж и сложно.
+
+### Поболтаем: Банда Аратаки
+
+Если банда Аратаки устроит какие-либо неприятности, я заставлю каждого из них извиниться лично.
+
+### Когда идёт дождь...
+
+Зонтик не нужен, просто пойдём быстрее.
+
+### Когда гремит гром...
+
+Осторожнее. Никто не хочет быть поражённым молнией.
+
+### Когда идёт снег...
+
+Давай закончим работу и пойдём. Не нужно терять времени.
+
+### Когда светит солнце...
+
+Сегодня хороший день, но я не могу избавиться от этого странного чувства... Хм, надеюсь, это просто моё воображение.
+
+### Когда дует сильный ветер...
+
+Хм... Какой приятный ветерок.
+
+### Доброе утро...
+
+Доброе утро. Идёшь тренироваться? Я и не знала, что ты настолько прилежный. / Доброе утро. Идёшь тренироваться? Я и не знала, что ты настолько прилежная.
+
+### Добрый день...
+
+Что хочешь поесть? Я скопила немного денег, так что обед за мой счёт.
+
+### Добрый вечер...
+
+Некоторые поручения лучше выполнять ночью. Однако я не могу доверить банде такие задания, поэтому обычно выполняю их сама.
+
+### Спокойной ночи...
+
+Иди вперёд и отдохни, если нужно. Не волнуйся обо мне.
+
+### О Куки Синобу: Помощница главаря банды
+
+Мои основные обязанности заключаются в том, чтобы вести бизнес и поддерживать стабильность... э-э, а также вытаскивать банду из полицейского участка, возвращать детям сладости и игрушки и ловить тех, кто отлынивает во время работы... Можно сказать, что вся эта дополнительная работа возникает из-за того, что это банда Аратаки. Полагаю, что главарям других банд не приходится заниматься подобными вещами. Но опять же, никто другой не смог бы выполнить эту работу так, как я.
+
+### О Куки Синобу: Запасной план
+
+Что произойдёт, если банда распадётся? Во-первых, это никогда не случится. Во-вторых, даже если это случится, мне не о чем беспокоиться. У меня всегда есть способ свести концы с концами.
+
+### О нас: Записи
+
+Если захочешь получить какой-нибудь сертификат, найди меня. Я одолжу тебе свои записи для экзамена. Поверь, они настолько подробные, что кто угодно сможет сдать.
+
+### О нас: Порядок
+
+Неважно, входишь ли ты в банду Аратаки, я никогда не стану относиться к тебе, как к чужаку. Просто предоставь мне всю логистику и планирование. Поверь, в этом я эксперт. Я справлюсь с чем угодно, насколько бы сложным это ни казалось. А? Беспокоишься о моей безопасности? Хе-хе, не волнуйся, я не напрасно набиралась опыта все эти годы.
+
+### Глаз Бога...
+
+Как и сертификат, Глаз Бога - убедительное доказательство моих способностей. Единственная разница в том, что я не уверена в критериях оценки Глаза Бога.
+
+### Давай поделимся: Маска
+
+Я ношу маску, потому что не хочу, чтобы меня кто-нибудь узнал, когда я работаю с бандой Аратаки. Если кто-то из моих знакомых увидит меня, то поднимется большой шум... От одной мысли об этом у меня начинает болеть голова. Я никогда не позволю этому случиться снова! Кхм... Не обращай внимания.
+
+### Давай поделимся: Правила банды
+
+Я придумала Правила банды, чтобы у всех были принципы, которым нужно следовать. А? Почему они готовы следовать моим правилам? Потому что и мои слова, и мои кулаки весьма убедительны.
+
+### Интересные вещи...
+
+В храме говорят, что если связать траву наку в кольцо и обернуть вокруг пояса, то она отгонит несчастья и принесёт удачу. Ты веришь в это? Лично я нахожу парализующий эффект куда более практичным.
+
+### О сёгуне Райдэн...
+
+После отмены указа Сакоку сёгун Райдэн издала множество других указов, направленных на поддержку и развитие различных отраслей. Все те сертификаты, которые я получила во времена действия указа Сакоку, сейчас очень пригодились, и дела банды наконец-то пошли в гору... Пути судьбы неисповедимы. Кто мог бы подумать, что я буду её благодарить?
+
+### О Кудзё Саре...
+
+Госпожа Кудзё? Да, мы дружим. Гм? Удивляешься, что я её знаю? О, ты неправильно понял, мы познакомились ещё до моего вступления в банду Аратаки. Хех, на самом деле, сложно сказать, кто вышел бы победителем из нашего сражения. / Госпожа Кудзё? Да, мы дружим. Гм? Удивляешься, что я её знаю? О, ты неправильно поняла, мы познакомились ещё до моего вступления в банду Аратаки. Хех, на самом деле, сложно сказать, кто вышел бы победителем из нашего сражения.
+
+### О Яэ Мико...
+
+Ты не представляешь, как скучно быть жрицей. Даже госпожа Гудзи из Великого храма Наруками занимается издательским делом ради развлечения. Я никогда больше не стану жрицей. Никогда.
+
+### Об Аратаки Итто...
+
+У главаря тяжёлое прошлое, но ему всё равно удаётся оставаться жизнерадостным. Такая устойчивость встречается довольно редко. Он добр к нам, и его характер хорошо влияет на всех в банде. Конечно же, это не может служить оправданием его проступкам. Дай знать, если он доставит неприятности, и я заставлю его пожалеть, что он был груб с тобой.
+
+### О Янь Фэй...
+
+В то время я поссорилась со своей семьёй и хотела убежать как можно дальше. Так что я отправилась в Ли Юэ изучать юриспруденцию, и благодаря этому мне посчастливилось познакомиться с наставницей Янь Фэй. Она буквально ходячая энциклопедия права. А? Я? У меня есть сертификат, но здесь слишком много ограничений... Не самая удачная сфера занятости.
+
+### О Сиканоин Хэйдзо...
+
+Он отличается от других досинов комиссии Тэнрё. Я никогда не видела его в патруле, или чтобы он арестовывал кого-то. Иногда он приходит ко мне за информацией. В обмен я прошу его замолвить за меня словечко всякий раз, когда мне приходится доставать кого-то из полицейского участка. Он с радостью соглашается. Можно сказать, сделка довольно выгодная. В конце концов, заставить ребят быть внимательными на улицах достаточно просто.
+
+### Узнать больше о Куки Синобу I
+
+Я работала на многих разных работах и обладаю множеством сертификатов. Что касается управления, я возглавляла небольшую команду и отвечала за делегирование задач и распределение ресурсов в соответствии с... Э-э, извини, не обращай внимания... Я слишком привыкла к собеседованиям.
+
+### Узнать больше о Куки Синобу II
+
+Я происхожу из семьи жриц, но совсем не гожусь для этой работы. Когда я убежала из дома, то сразу решила, что должна научиться как можно большему, чтобы прокормить себя. Я изучала всё подряд - кулинарию, пошив одежды, борьбу, юриспруденцию, издательское дело, редактуру... Только когда я по-настоящему освоилась в обществе, я поняла, что научилась всему необходимому.
+
+### Узнать больше о Куки Синобу III
+
+Думаешь, у меня хорошие навыки общения? Что ж, я многое повидала в этом мире. Я научилась читать людей по выражению лиц и языку тела. Кроме того, в девяти случаях из десяти банда неизменно попадает в беду. Я не против состроить гримасу, чтобы вывести нас из затруднительного положения, но всё равно предпочитаю не улыбаться.
+
+### Узнать больше о Куки Синобу IV
+
+Когда я только вступила в банду Аратаки, главарь сказал мне научить остальных драться. Так что я избила их всех, одного за другим. Я была удивлена, что даже будучи избитыми, они уважительно звали меня Синобу и просили вести их. Тогда-то я и поняла, что это просто кучка идиотов. Но ничего, даже они не смогут меня удержать. Я со всем справлюсь.
+
+### Узнать больше о Куки Синобу V
+
+Я сама решила остаться в банде Аратаки. Решать их проблемы бывает довольно раздражающе, но взамен они относятся ко мне с незаменимой искренностью. Они всегда приберегают для меня всё самое лучшее и никогда не оставляют меня в унынии. Когда я объявила о своём решении остаться в банде, все очень обрадовались. Знаю, что другие не очень высокого мнения о банде Аратаки, а самим членам банды на самом деле всё равно, что о них думают. Но я всё ещё хочу изменить впечатление, которое мы оставляем. Я могу время от времени жаловаться на них как на свою семью, но я никогда никому не позволю ругать их.
+
+### Хобби Куки Синобу...
+
+Быть в банде - значит иметь много свободного времени. Порой я сама не замечаю, как заканчиваю читать целую книгу или сдаю экзамен на сертификат. Здорово, да? Когда моя семья связывается со мной, я, по крайней мере, могу сказать им, что не трачу время впустую и обладаю высокой квалификацией. В обществе с такой высокой конкуренцией мои сертификаты никогда не позволят мне остаться голодной.
+
+### Беспокойство Куки Синобу...
+
+Я хотела любой ценой избежать возвращения в храм, поэтому пришлось найти способ встать на ноги. Думаю, я неплохо справляюсь.
+
+### Любимая еда...
+
+Даже если съем что-то сытное, вроде рамэна или гёдза, то всё равно хочу закончить трапезу плошкой риса. Рис очень вкусный, вот и всё. Какие-то проблемы?
+
+### Нелюбимая еда...
+
+В Ли Юэ есть выражение: «Нет плохой еды, есть плохие повара». Получив лицензию шеф-повара, я ещё больше убедилась в том, что это абсолютно верно.
+
+### День рождения...
+
+С Днём рождения! Вот, это дротик из травы наку специально для тебя. Осторожно, да, держи именно так... Убедись, что рассчитал траекторию перед броском. Хе-хе, я рада, что тебе нравится. О, только не обращайся с ним, как с игрушкой, это довольно опасно. Если хочешь ещё попрактиковаться, то могу тебя научить. / С Днём рождения! Вот, это дротик из травы наку специально для тебя. Осторожно, да, держи именно так... Убедись, что рассчитала траекторию перед броском. Хе-хе, я рада, что тебе нравится. О, только не обращайся с ним, как с игрушкой, это довольно опасно. Если хочешь ещё попрактиковаться, то могу тебя научить.
+
+### Чувство возвышения: Начало
+
+Если базовых навыков не хватает, то и говорить не о чем. В этом и заключается смысл сертификата базового уровня - показать, что ты действительно что-то знаешь.
+
+### Чувство возвышения: Нарастание
+
+У меня есть сертификат среднего уровня, что означает, что я квалифицирована для решения большинства проблем. Могу ли я тебе чем-нибудь помочь?
+
+### Чувство возвышения: Кульминация
+
+Получить сертификат высшего уровня непросто, для этого требуется как талант, так и реальный боевой опыт.
+
+### Чувство возвышения: Окончание
+
+Сертификаты полезны для оценки профессиональных навыков, но они не в состоянии измерить объём затраченных усилий или эмоциональных вложений. Наша дружба вышла за рамки того, что можно выразить простыми словами благодарности. Позволь мне выразить свои чувства, стараясь изо всех сил.
+
+### Элементальный навык I
+
+Наша связь крепка!
+
+### Элементальный навык II
+
+Рассеивание!
+
+### Элементальный навык III
+
+Встань рядом со мной.
+
+### Взрыв стихии I
+
+Я всё улажу!
+
+### Взрыв стихии II
+
+Молния... очищает!
+
+### Взрыв стихии III
+
+С дороги.
+
+### Открытие сундука I
+
+Каждая мелочь имеет значение.
+
+### Открытие сундука II
+
+Ладно, этого хватит.
+
+### Открытие сундука III
+
+Всё твоё.
+
+### Низкий уровень HP I
+
+Сейчас. Же. Остановись.
+
+### Низкий уровень HP II
+
+Теперь я разозлилась...
+
+### Низкий уровень HP III
+
+Что ж, настал мой черёд...
+
+### Низкий уровень HP компаньона I
+
+Я обо всём позабочусь.
+
+### Низкий уровень HP компаньона II
+
+Отдохни, а я тут со всем разберусь.
+
+### Без сознания I
+
+Извини... за беспокойство...
+
+### Без сознания II
+
+Позаботься о банде...
+
+### Без сознания III
+
+Какое унижение...
+
+### Получен лёгкий удар I
+
+Ещё раз.
+
+### Получен тяжёлый удар I
+
+Сейчас дождёшься!
+
+### Получен тяжёлый удар II
+
+Нарываешься на драку?
+
+### Присоединяется к группе I
+
+Дождись моего сигнала.
+
+### Присоединяется к группе II
+
+Что они сделали на этот раз?
+
+### Присоединяется к группе III
+
+Только не говори, что они сделали это снова...
+
+### Подарок I
+
+Поистине исключительно. Я попробую ещё чуть-чуть.
+
+### Подарок II
+
+Ты сам готовил? Тебе можно смело становиться поваром. / Ты сама готовила? Тебе можно смело становиться поваром.
+
+### Подарок III
+
+Прямо скажу, ты не те приправы положил, что ли? / Прямо скажу, ты не те приправы положила, что ли?
+
+## REPLICAS_EN
+
+### Hello
+
+Oh... Hey there! I'm Kuki Shinobu, deputy leader of the Arataki Gang. We offer a wide range of services, including but not limited to transport and logistics, security, home repair, and musical performances. Please feel free to contact me if you need anything. Here's my card.
+
+### Chat: In a Pinch
+
+Just let me know if you ever find yourself in a pinch. I can help you out.
+
+### Chat: Certificates
+
+The criteria for certificate exams are straightforward enough, what it really comes down to is whether you are willing to put in the time. If you study and practice, then it's really not all that difficult.
+
+### Chat: The Arataki Gang
+
+If the Arataki Gang stirs up any trouble, I'll drag every last one of them back to apologize.
+
+### When It Rains
+
+We don't need an umbrella, just pick up the pace.
+
+### When Thunder Strikes
+
+Be careful. No one wants to get struck by lightning.
+
+### When It Snows
+
+Let's just finish the job and leave. There's no need to waste time.
+
+### When the Sun Is Out
+
+It's a nice day, but I can't seem to shake this strange feeling... Huh, let's just hope it's my imagination.
+
+### When the Wind Is Blowing
+
+Hmm... what a pleasant breeze.
+
+### Good Morning
+
+Morning. Going out to train? Huh, I didn't know you were so diligent.
+
+### Good Afternoon
+
+Hey, what would you like to eat? I've been saving up lately, so lunch is on me.
+
+### Good Evening
+
+Some commissions are better done by night. I can't trust the gang with such tasks though, so I usually do them myself.
+
+### Good Night
+
+Go ahead and take a rest if you need. Don't worry about me.
+
+### About Kuki Shinobu: Gang's Deputy Leader
+
+My primary responsibilities are to bring in business and maintain a stable team... uh, as well as bailing out the gang from the Police Station, returning snacks and toys to kids, and catching anyone secretly slacking off during a job... I guess you could say all this extra work comes with being part of the Arataki Gang. I suppose that leaders of other groups wouldn't have to put up with that kind of stuff. But then again, no one else could do the job like me.
+
+### About Kuki Shinobu: Backup Plan
+
+Hmm? What would happen if the gang ever disbanded? First of all, that would never happen. Secondly, even if that did happen, I've got nothing to worry about. I've always got a way to make ends meet.
+
+### About Us: Notes
+
+Come find me if you ever suddenly want to become certified in anything. I'll lend you all my notes for the exam. Believe me, my notes are detailed enough to help anybody pass.
+
+### About Us: Cleaning Up the Mess
+
+Whether you are in the Arataki Gang or not, I'll never treat you as an outsider. Just go ahead and leave the logistics and planning to me. Trust me, I'm an expert. I can handle anything, no matter how complicated it might seem. Huh? You're concerned about my safety? Hehe, don't worry, all these years of experience aren't just for show.
+
+### About the Vision
+
+Just like a certificate, this Vision is solid proof of my capabilities. The only difference is that I'm still not certain about a Vision's assessment criteria.
+
+### Something to Share: Face Mask
+
+I wear a mask because I don't want to be recognized by anybody, especially when I'm working with the Arataki Gang. If someone I know manages to recognize me, they're sure to make a big fuss about it... It gives me a headache just thinking about it. I won't ever let it happen again! Ahem, never mind...
+
+### Something to Share: Gang Bylaws
+
+I came up with the Gang Bylaws so everyone would have a set of guidelines to follow. Huh? Why are they willing to follow my rules? Because both my words and my fists are very persuasive.
+
+### Interesting Things
+
+There is a saying circulating among the shrines claiming that if you weave Naku Weed into a ring and wrap it around your body, it can dispel disaster and bring good fortune. So, do you believe that? I, however, personally find the plant's paralyzing effect a little more practical.
+
+### About the Raiden Shogun
+
+After the Sakoku Decree was lifted, the Raiden Shogun issued many decrees aimed at supporting the development of various industries. All those certificates I received during the Sakoku Decree are coming in real handy now, and the gang is finally out of the red... Fate really does have its ways. Who would've thought after all that, I'd still have her to thank?
+
+### About Kujou Sara
+
+Madam Kujou? Yes, she's a friend of mine. Hmm? You're surprised that I know her? Oh, you must've misunderstood, I knew her from before I joined the Arataki Gang. Heh, in fact, it's hard to tell who's the winner whenever we spar.
+
+### About Yae Miko
+
+You can't imagine how boring it is to be a shrine maiden. Even Lady Guuji from the Grand Narukami Shrine has her publishing gig to break up the monotony. I will never go back to being a shrine maiden. Never.
+
+### About Arataki Itto
+
+The boss has a lot of unpleasant memories from his past, but he still manages to stay positive. I'd say that kind of resilience is pretty rare. He treats us well and his character has a good effect on everyone in the gang. Of course, it's never an excuse for him to run amok with no consideration for others. Just let me know if he ever causes you any trouble and I'll be sure to make him regret ever being rude to you.
+
+### About Yanfei
+
+Back then I had an argument with my family and I only wanted to run away as far as I could. So, I went to study law in Liyue, but thanks to this experience, I got to meet Yanfei. She's like a walking law encyclopedia. Huh? Me? I have a certificate but there are a lot of restrictions for practicing law... It's not really the right field for me.
+
+### About Shikanoin Heizou
+
+He's different from the other Doushin of the Tenryou Commission. I have yet to see him on patrol or apprehend anyone, and he occasionally comes to me to buy intelligence. In exchange, I asked him to put in a good word for me whenever I'm bailing people out of the Police Station. He gladly agreed. I'd say that's a pretty good deal... After all, getting the boys to keep their eyes and ears open on the streets is easy enough.
+
+### More About Kuki Shinobu: I
+
+I've worked many different jobs and I'm certified in a variety of fields. In terms of management, I've led a small team and have been responsible for delegating tasks and allocating resources according to... Uh, sorry, don't mind me... Sometimes I still slip into interview mode.
+
+### More About Kuki Shinobu: II
+
+I come from a family of shrine maidens but I'm not cut out for that kind of work at all. When I ran away from home, I immediately thought I should learn as much as possible to support myself. I studied everything from cooking, tailoring, and fighting, to legal consulting, publishing, and editing... It wasn't until I really settled into society that I realized I've learned everything I need.
+
+### More About Kuki Shinobu: III
+
+Hmm? You think I've got good social skills? Well, you could say I've seen a lot of the world by now. I've learned how to read people based on their expressions and body language. Besides, nine times out of ten, it's the gang getting in trouble. I don't mind putting on a face to get us out of a sticky predicament, but I still prefer not to smile.
+
+### More About Kuki Shinobu: IV
+
+When I first joined the Arataki Gang, the boss told me to teach the others how to fight. So the first thing I did was beat them up, one by one. I was a little surprised that even in their bruised and swollen state they still respectfully called me Shinobu and asked me to lead them. Hmph, at that moment, I knew they really were a big bunch of idiots... But that's fine, even a group like this won't slow me down, I'll just take care of everything myself.
+
+### More About Kuki Shinobu: V
+
+It's my own decision to stay in the Arataki Gang. It can be pretty annoying having to clean up their mess all the time, but in return, they treat me with a sincerity that is irreplaceable... They always save the best things for me and never leave me feeling down. When I announced my decision to stay in the gang, they all cheered for me. I know outsiders don't think very highly of the Arataki Gang, and the members themselves don't really care what others think. But, I still want to strive to change the impression we leave. I might complain about them from time to time as my family, but I'll never let anyone badmouth them.
+
+### Kuki Shinobu's Hobbies
+
+Being in the gang means having lots of free time. I often finish reading a whole book or even pass a certificate exam before I even realize it. Kinda nice, wouldn't you agree? When my family asks about me, at least I can tell them I don't waste my time, and when I go job hunting, I have lots of qualifications to rely on. In this ultra-competitive society, a misfit like myself with all these certificates will never go hungry.
+
+### Kuki Shinobu's Troubles
+
+Back then, I wanted to avoid getting dragged back to the shrine at all cost, so I had to find a way to stand on my own two feet. So far, I think I'm doing alright.
+
+### Favorite Food
+
+Even after eating something really filling like ramen or gyoza, I still always want to finish my meal with a small bowl of rice. Rice is just delicious, that's all. Is there a problem with that?
+
+### Least Favorite Food
+
+There's a saying I heard in Liyue: "There is no bad food, only bad cooks." After getting my license as a chef, I became even more convinced that this is absolutely true.
+
+### Birthday
+
+Happy birthday! Here, take this special dart made from Naku Weed. Be careful, yep, that's the way to hold it... Make sure you predict the trajectory before you throw it... Hehe, I'm happy that you like it. Oh, don't treat it like a toy, it's still quite dangerous. If you want to practice a little more, I can teach you.
+
+### Feelings About Ascension: Intro
+
+If you haven't mastered the basics, then there's no point in even trying to discuss it. That's the purpose of a basic-level certificate, to show you actually know something.
+
+### Feelings About Ascension: Building Up
+
+I have an intermediate certificate, which means that I'm qualified to handle most problems. Is there anything I can help you with?
+
+### Feelings About Ascension: Climax
+
+Earning an advanced certificate is not easy, it requires both talent and actual combat experience.
+
+### Feelings About Ascension: Conclusion
+
+Certificates are useful for judging professional skills but they fail to measure the amount of effort or emotional investment involved. Our friendship has gone beyond something that can be expressed with a simple "thank you." Let me express my feelings by always giving the very best of my abilities.
+
+### Elemental Skill: I
+
+Our bond is strong!
+
+### Elemental Skill: II
+
+Dissipate!
+
+### Elemental Skill: III
+
+Stand with me.
+
+### Elemental Burst: I
+
+I'll settle this!
+
+### Elemental Burst: II
+
+Lightning... purifies!
+
+### Elemental Burst: III
+
+Out of my way.
+
+### Opening Treasure Chest: I
+
+Every little bit counts.
+
+### Opening Treasure Chest: II
+
+Alright, this'll do.
+
+### Opening Treasure Chest: III
+
+It's all yours.
+
+### Low HP: I
+
+Stop right there.
+
+### Low HP: II
+
+Now I'm mad...
+
+### Low HP: III
+
+Alright, it's my turn...
+
+### Ally at Low HP: I
+
+I'll clean this up.
+
+### Ally at Low HP: II
+
+I'm qualified to handle this.
+
+### Fallen: I
+
+Sorry... for the trouble...
+
+### Fallen: II
+
+Take care of... the gang...
+
+### Fallen: III
+
+What a humiliation...
+
+### Light Hit Taken: I
+
+Again.
+
+### Heavy Hit Taken: I
+
+Just you wait!
+
+### Heavy Hit Taken: II
+
+Looking for a fight?
+
+### Joining Party: I
+
+Wait for my signal.
+
+### Joining Party: II
+
+What'd they do this time?
+
+### Joining Party: III
+
+Don't tell me they did it again...
+
+### Receiving a Gift: I
+
+This is truly exceptional. Ehem... I'll just have another bite.
+
+### Receiving a Gift: II
+
+Did you make this? Hmm... you're more than qualified to be a chef.
+
+### Receiving a Gift: III
+
+Honestly, did you use the wrong seasonings?
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，我是荒泷派的二把手久岐忍。我们承包多种业务，货运物流、安保维持、房屋补漏、表演驻唱等等。需要我们请随时联系，这是我的名片，还请收下。
+
+### 闲聊·麻烦事
+
+有麻烦事要处理的话，直接告诉我就好，我来摆平。
+
+### 闲聊·证书
+
+执业证书考试都有固定评判标准，肯学肯练就能考过，没什么难的。
+
+### 闲聊·荒泷派
+
+要是荒泷派犯了事，我会揪他们去认错的。
+
+### 下雨的时候…
+
+不用打伞了，腿脚快点就行。
+
+### 打雷的时候…
+
+当心点。这种天，应该没人会想引雷上身吧？
+
+### 下雪的时候…
+
+快点把事情办完就撤吧，别浪费时间。
+
+### 阳光很好…
+
+嗯，天气真好，但总有种不祥的预感…希望是我多虑了吧。
+
+### 刮大风了…
+
+唔…这风还算不错。
+
+### 早上好…
+
+早啊，看你的样子是准备去锻炼了？没想到你还挺勤快的。
+
+### 中午好…
+
+想吃什么？最近攒了不少钱，午饭我请你。
+
+### 晚上好…
+
+有些委托，在夜晚才好办。我不放心交给他们，都是我亲自上。
+
+### 晚安…
+
+该休息的时候就去休息吧，不用管我。
+
+### 关于久岐忍自己·二把手
+
+招揽业务、维系成员安定是我的职责，除此之外还有——去奉行所捞人，归还零食和玩具，抓捕接了活却在暗处偷懒的成员…不过，这些额外工作属于荒泷派特色，其他任何组织的二把手，理论上都不需要做这些。当然，也做不到像我这样。
+
+### 关于久岐忍自己·退路
+
+你说帮派解散？首先，那种事应该不会发生。其次，就算发生了，我有什么好担心的呢。饿肚子的人不可能是我。
+
+### 关于我们·笔记
+
+要是你心血来潮想考什么证，不如直接找我吧，我把笔记借你。备注和要点很详细，不愁你学不会。
+
+### 关于我们·善后
+
+不管你是不是荒泷派的人，我都不会把你当外人。你就往前走吧，幕后的工作交给我。放心，这方面我是专业的，多复杂的事都能办妥。嗯？担心我的安危？呵，这方面你也放心吧，这些年的摸爬滚打，不是白经历的。
+
+### 关于「神之眼」…
+
+和证书一样，这是对我能力的肯定和证明。但不同的是，我至今不知道它的考核标准。
+
+### 有什么想要分享·面铠
+
+戴上面铠是不想被熟人认出来。尤其和荒泷派一起出任务时，要是熟人看见了，指指点点，那群家伙肯定会趁机起哄。啧，光是想想，就很烦。不能再有下次了…咳，没什么。
+
+### 有什么想要分享·派中法度
+
+我制定了荒泷派的「派中法度」，他们就应该谨遵法度行事。嗯？你问他们为什么愿意听话？因为我比他们更有说服力。我的语言和拳头，姑且还算是有点分量。
+
+### 感兴趣的见闻…
+
+神社中流传着一种说法，将鸣草织成一个圈缠在身上，就能祛灾祈福，你信吗？我倒觉得，鸣草，还是麻痹效果更实用。
+
+### 关于雷电将军…
+
+解除锁国后，雷电将军陆续颁布了不少法令支持各行各业的发展。我在锁国期间考的证书全都派上了用场，荒泷派也不那么拮据了。祸福相依，没想到到头来还得感谢她。
+
+### 关于九条裟罗…
+
+九条小姐啊，她是我的朋友。嗯？我认识她让你觉得很意外吗？噢，你可能误会了，我加入荒泷派之前就跟她有交情。我们俩的切磋，还难分胜负呢。
+
+### 关于八重神子…
+
+就连堂堂鸣神大社的宫司大人，都要靠副业来解闷，可见当巫女是有多无聊。我是绝对不会回去当巫女的。
+
+### 关于荒泷一斗…
+
+老大有很多不算愉快的过去，却还能保持快乐阳光，挺难得的。他对我们很不错，他的纯粹也感染着荒泷派的大家。当然，这不能成为他横冲直撞影响别人的借口。如果他找你麻烦，尽管告诉我。我会好好收拾他，让他后悔对你无礼。
+
+### 关于烟绯…
+
+那时候跟家里闹翻了，只想着有多远逃多远，就跑去璃月学律法了。得亏这样，有幸认识了烟绯师姐。在律法咨询这块，她简直就是活字典。我？执业证书倒是有的，不过这个职业的约束也不少，并不是最适合我的。
+
+### 关于鹿野院平藏…
+
+他和普通天领奉行同心不一样，从未见他做什么巡逻、抓捕的活。他偶尔会找我买线索，作为交换，我希望他能在我去奉行所捞人时帮我美言几句，他也爽快答应了。这笔交易还算值，毕竟让弟兄们收集点市井见闻是很简单的事。
+
+### 想要了解久岐忍·其一
+
+我做过很多不同的工作，相关的执业证书也有不少。管理方面，带过小型团队，负责人员统筹和资源调配…呃，抱歉，面试多了就说习惯了，别介意。
+
+### 想要了解久岐忍·其二
+
+我家是巫女世家，但我不适合当巫女。刚逃出来那会儿，我觉得要多积累，以免没有傍身之技。什么厨师、裁缝、格斗、律法咨询、出版编辑…我都学了。没想到真正进了社会才发现，学的已经完全够用了。
+
+### 想要了解久岐忍·其三
+
+你说我社交场合很厉害？呵，毕竟在外流浪了那么久，总得学会察言观色。更何况在多数时候，理亏的那一方都是我们。我不讨厌摆出那些表情，但可以的话，我还是选择不笑的好。
+
+### 想要了解久岐忍·其四
+
+刚进荒泷派的时候，老大要我教小弟们怎么打架。所以我上来第一件事，就变成了把他们挨个揍趴下。没想到，一个个鼻青眼肿的，却睁大眼睛，张嘴就叫我「忍姐」，还要我好好带领他们。哼，那时候我就知道这是一群笨蛋。但没关系，笨蛋不会拖我后腿，我会解决一切问题。
+
+### 想要了解久岐忍·其五
+
+留在荒泷派是我自己的选择。收拾烂摊子难免令人火大，但他们也给了我无可替代的真诚。最好的东西都先留给我、从不泼我冷水、在我宣布决定后闹哄哄地鼓掌吹口哨…我知道外面对荒泷派的评价不太好，他们自己也不在乎，但我还是想努努力，改变别人对我们的印象。因为，对待「家人」，自己可以偶尔抱怨，但就是不想其他人说他们的不好。
+
+### 久岐忍的爱好…
+
+平时混帮派，闲着也是闲着，经常不小心读完一本书，不小心就把证考了。不也挺好吗？家里问起来，我也没虚度时光，出去谈工作，也算得上有资本。在这个凡事讲究实力的社会里，我这种有证书的混子，到哪里都能吃得饱饭。
+
+### 久岐忍的烦恼…
+
+以前不想被抓回去当巫女，就决心只靠自己站稳脚跟。至少目前看来，我干得还不错。
+
+### 喜欢的食物…
+
+就算刚吃过拉面或者饺子之类很管饱的食物，最后还是想以一小碗米饭结束。米饭好吃，没什么其他原因，有问题吗？
+
+### 讨厌的食物…
+
+厨师证到手后，我就更加坚定那个从璃月听来的说法：没有难吃的食物，只有不合格的厨师。
+
+### 生日…
+
+生日快乐，来，这个鸣草特制飞镖送给你。小心点，嗯，对，要像这样拿…投掷前记得计算弧度。呵呵，看你喜欢我就放心了。哦，别把它当玩具，还是有一定危险性的。想多训练一下的话，我来教你。
+
+### 突破的感受·起
+
+基本功不过关，就什么都不用谈了。这就是初级证书的意义。
+
+### 突破的感受·承
+
+中级证书到手，已经可以处理大多数麻烦了。有什么麻烦事需要我帮你解决？
+
+### 突破的感受·转
+
+高级证书绝不是轻易就能得到的，天赋和实战的累积缺一不可。
+
+### 突破的感受·合
+
+证书只能用来评判技能的专业程度，无法对付出或情感的投入进行量化。你我的交情也不能只用一句感谢来表达，还是用我最擅长的行动来说明一切吧。
+
+### 元素战技·其一
+
+鸣草结环！
+
+### 元素战技·其二
+
+解厄！
+
+### 元素战技·其三
+
+好好站稳了。
+
+### 元素爆发·其一
+
+给我…安分点！
+
+### 元素爆发·其二
+
+祈雷…祓除！
+
+### 元素爆发·其三
+
+别来碍事。
+
+### 打开宝箱·其一
+
+嗯，积少成多。
+
+### 打开宝箱·其二
+
+这票也稳了。
+
+### 打开宝箱·其三
+
+你的了。
+
+### 生命值低·其一
+
+给、我、站、住…
+
+### 生命值低·其二
+
+算是惹怒我了…
+
+### 生命值低·其三
+
+哼，该我了吧…
+
+### 同伴生命值低·其一
+
+我来善后。
+
+### 同伴生命值低·其二
+
+行了交给我，别硬撑。
+
+### 倒下·其一
+
+这次…是给人添麻烦了啊…
+
+### 倒下·其二
+
+荒泷派就拜托你了…
+
+### 倒下·其三
+
+这是对我的…侮辱…
+
+### 普通受击·其一
+
+再来。
+
+### 重受击·其一
+
+等着！
+
+### 重受击·其二
+
+找打是吧！
+
+### 加入队伍·其一
+
+看我眼色行动。
+
+### 加入队伍·其二
+
+这次是什么麻烦？
+
+### 加入队伍·其三
+
+希望不是烂摊子。
+
+### 收到赠礼·其一
+
+真不简单。咳…我就再多吃一口。
+
+### 收到赠礼·其二
+
+你做的？嗯…这种水平去考个厨师证应该绰绰有余。
+
+### 收到赠礼·其三
+
+我直说吧，你是不是放错调料了？

@@ -567,3 +567,849 @@ Picking it up, she flicked it into the air with her thumb before catching it.
 她低头，那是一枚闪烁着光芒的神之眼。
 她捡起神之眼，用拇指将它弹到半空，又伸手接住。
 「来吧，不管前面还有多少的争斗，我都会逐一调停…包括『你』在内。」
+
+# voice_source_ids: 104000,104001,104002,104003,104004,104005,104006,104007,104008,104009,104010,104011,104012,104013,104014,104015,104016,104017,104018,104019,104020,104021,104022,104023,104024,104025,104026,104027,104028,104029,104030,104031,104032,104033,104034,104035,104036,104037,104038,104039,104040,104041,104042,104043,104044,104045,104046,104047,104048,104049,104050,104051,104052,104053,104054,104055,104056,104057,104058,104059,104060,104061,104062,104063,104064,104065
+
+## REPLICAS_RU
+
+### Привет...
+
+Часка, клан Цветочного пера. Нужно уладить какой-то конфликт? В зависимости от ситуации, это может стоить тебе твоей репутации, нескольких стаканов или, возможно... патронов.
+
+### Поболтаем: Вид с высоты
+
+Если теряешь направление, то взгляд с высоты может помочь.
+
+### Поболтаем: Голос
+
+Если бы я позволила голосу Бездны увлечь меня, то бы давно перестала бы быть собой. Выживать трудно, но приручить зверя внутри себя ещё труднее.
+
+### Поболтаем: Миротворец
+
+Давно я что-то не практиковалась... Эх... Нет ли конфликтов каких-нибудь поблизости? Я бы сейчас миротворчеством занялась.
+
+### Когда идёт дождь...
+
+Дождь... У меня волосы и перья промокнут. Надо будет привести себя в порядок, как вернусь.
+
+### Когда гремит гром...
+
+В такую погоду летать будем что ли? Думаешь, можешь обогнать молнию?
+
+### Когда дует ветер...
+
+Ветер несёт запах дичи... Готовься.
+
+### Когда дует сильный ветер...
+
+Идеальный ветер. Полный вперёд!
+
+### Доброе утро...
+
+«Ранний кукузаврик зубки очищает». Так что я уже приготовила завтрак. О делах поговорим на полный желудок.
+
+### Добрый день...
+
+Полдень. Сейчас солнце жарче всего - самое время отдохнуть.
+
+### Добрый вечер...
+
+Есть планы на ужин? Если нет, то давай в племени поедим. Там для сильных всегда лучшие блюда и напитки.
+
+### Спокойной ночи...
+
+Укладываешься на ночь? Хм... Я весь день летала, так что надо за оружием поухаживать.
+
+### О Часке: Уверенность в себе
+
+Когда клан Цветочного Пера отвечал за патрулирование и защиту всего Натлана, в лётном отряде были лучшие из лучших - самые рьяные воины в стране. По сей день гордость, которую испытывают многие наездники кукузавров, граничит с высокомерием... Хм? Я? Нет, я не высокомерна. Просто уверена в себе.
+
+### О Часке: клан Цветочного Пера
+
+...Когда я только вернулась в племя, я чувствовала себя не в своей тарелке, словно чужак, которого вдруг забросили в мир людей... Но Куичи и её... то есть наши родители приняли меня такой, какая я есть. Я бесконечно благодарна, что встретила их, и поэтому буду защищать их любимое племя... пока я жива.
+
+### О нас: Уладить дело
+
+С твоими навыками вряд ли кто-то в Натлане осмелится ругаться с тобой. Но из всех правил есть исключения, так что если вдруг окажешься в ситуации, из которой не сможешь выбраться грубой силой, приходи ко мне. Я всё улажу.
+
+### О нас: Семья
+
+Спасибо, что помог с Коей... Даже и не знаю, как бы всё прошло без тебя. Она уже не так враждебно относится к людям, но ей всё равно понадобится время, чтобы к ним привыкнуть. Старые привычки умирают с трудом. А вот Кимэ, совсем наоборот, очень любит проводить время в племени. Она очень хорошо ладит с Ятлан и другими детьми... Глядя, как они вместе играют, я иногда вспоминаю нас с Коей, когда мы были маленькими.
+А теперь вот мама стала проблемной... Не знаю, что на неё нашло в последнее время. Она всё время уговаривает меня свить собственное гнездышко, как Коя. Она всё говорит: «Может, пора расширять семью»... Что это она вдруг... Хм? Ты чего улыбаешься? / Спасибо, что помогла с Коей... Даже и не знаю, как бы всё прошло без тебя. Она уже не так враждебно относится к людям, но ей всё равно понадобится время, чтобы к ним привыкнуть. Старые привычки умирают с трудом. А вот Кимэ, совсем наоборот, очень любит проводить время в племени. Она очень хорошо ладит с Ятлан и другими детьми... Глядя, как они вместе играют, я иногда вспоминаю нас с Коей, когда мы были маленькими.
+А теперь вот мама стала проблемной... Не знаю, что на неё нашло в последнее время. Она всё время уговаривает меня свить собственное гнездышко, как Коя. Она всё говорит: «Может, пора расширять семью»... Что это она вдруг... Хм? Ты чего улыбаешься?
+
+### Глаз Бога...
+
+Этот Глаз Бога сыграл важную роль в моей борьбе с Бездной. Если бы он не появился именно тогда, я даже не знаю, кем бы была сегодня.
+
+### Давай поделимся...
+
+Люди часто стесняются рассказывать о своих детских ошибках... Почему? Будь ты человек или кукузавр, ты можешь расти, только учась на своих прошлых ошибках. Поэтому я не отмахиваюсь от того, что в детстве часто выходила из себя. Сейчас я всегда думаю перед тем, как достать пистолет, хотя бы пару секунд... или полсекунды.
+
+### Интересные вещи...
+
+В Натлане много очень высоких деревьев. Сверху всё очень хорошо видно, и с них удобно взлетать. Хочешь попробовать? Не волнуйся, я поймаю, если упадёшь.
+
+### О Качине...
+
+«Каждый кукузавр падает с обрыва, прежде чем научится летать». Победа Качины не чудо, которое вдруг свалилось на неё с небес. Это результат последовательных, неустанных усилий на протяжении долгого времени. Она выдающийся воин, и заслуживает почёт и уважение.
+
+### О Муалани...
+
+Муалани говорит, что в детстве мы подрались из-за какой-то игрушки, которую нам обеим хотелось, но я ничего такого не помню.
+Хм... Может, это потому что я так много дралась, что сложно уже и вспомнить все случаи? А ещё, может быть, я пыталась отобрать её доску для сёрфинга, а не какую-то игрушку... Я, наверное, хотела иметь возможность охотиться на воде. Хех, как бы то ни было, не думаю, что наша ссора длилась больше дня. С Муалани такого не бывает.
+
+### О Шилонен...
+
+Она может показаться вялой, но на самом деле она старательней кого угодно. Когда я попросила её сделать мне оружие, то просто дала ей самые базовые требования и особо не раздумывала, предоставив всё остальное на её усмотрение. А когда она начала работать над ним всерьёз, то целый день, расспрашивала меня: как проходит типичный день полётов, как часто я собираюсь его использовать и так далее. К концу дня весь пол был завален чертежами отброшенных идей... Я была так измотана, что заснула даже раньше неё. Затем она написала целое руководство по обслуживанию, которое заставила меня выучить наизусть, чтобы я не приставала к ней с вопросами каждый день... Ну, так она сказала. Но, подозреваю, на самом деле она хотела убедиться, что я буду заботиться о себе и летать осмотрительно.
+
+### О Мавуике...
+
+Некоторые люди сравнивают меня с Пиро Архонтом из-за моего послужного списка в Паломничестве. Это бессмысленное сравнение. Если бы Паломничество было деревом, а я - кондором на самой высокой ветке, то Пиро Архонт была бы солнцем в небе... Чем сильнее становишься, тем лучше понимаешь, насколько велика пропасть между тобой и ею. Я всего лишь выиграла несколько чемпионатов, а она - чемпион целой эпохи. Но, по крайней мере, находясь на вершине с ясным видом на небо, я могу точно определить, как высоко я хочу отсюда долететь.
+
+### О Киниче...
+
+Когда я впервые увидела Ахава, я подумал: «О, у Кинича тоже есть завриан, которого он считает роднёй»... Я даже не подозревала, как сильно ошибалась. Их отношения... поистине единственные в своём роде. Хотя, скажу, что мастерство Ахава в освоении человеческого языка вызывает у меня зависть. Хотела бы я, чтобы мама тоже так говорила, и мы могли бы покончить со всеми этими играми в угадайку на языке тела.
+
+### О Ситлали...
+
+Отец рассказывал, что, когда я была маленькой, они собрали всех самых учёных старейшин в Натлане и попросили их разработать план, как контролировать влияние Бездны на меня. Они все никак не могли договориться, и это вылилось в затяжные дебаты. В какой-то момент Ситлали тихонько вышла из комнаты, и все были слишком заняты спором, чтобы заметить. Вернувшись, она поставила перед собой еду и вино, и не обращая ни на кого внимания, просто начала есть... за столом вдруг стало очень тихо.
+Глядя на неё, никогда не догадаешься, сколько у неё опыта и авторитета.
+
+### Об Ифе...
+
+Куичи с моим отцом часто обсуждали с Ифой вопросы медицины. Поэтому после воздушной мастерской я первым делом повела Кою к нему на осмотр. Но он показался мне таким пренебрежительным - глянул мельком, сказал «ничего серьёзного, Куско справится», и тут же ушёл к другому пациенту... Эх... Он, конечно, был прав. Я просто слишком переживала.
+
+### Об Иансан...
+
+Я всегда считала, что обучаться самой и обучать других - это совершенно разные навыки. Мало кто владеет обоими, но у Иансан в избытке и того, и другого. Я, например, не очень хорошо умею обучать других людей. Когда я пытаюсь продемонстрировать что-то лётному отряду, вечно трачу полдня на какую-то элементарную, скучную, очевидную технику... А все потом спрашивают: «А что в этом очевидного?» Если бы только Иансан их учила бы... Могу поспорить, у нас каждый год было бы вдвое больше кандидатов, проходящих Лётные испытания... Жаль, что в её программу обучения не входят полёты.
+
+### Узнать больше о Часке I
+
+Как миротворец, я прекрасно знаю, что силой не решить всех конфликтов. Но когда обладаешь силой, люди часто более охотно слушают твои доводы.
+
+### Узнать больше о Часке II
+
+Воины клана Цветочного пера - гордые люди, но кукузавры - ещё более гордые. Любой, кто хочет стать наездником, должен неустанно тренироваться, а затем завоевать одобрение кукузавров. Даже мне пришлось через это пройти, а ведь я практически была одним из них в детстве. Впрочем, это справедливо. Позволить новичку подняться на кукузавре в небо было бы крайне безответственно как для кукузавра, так и для наездника.
+
+### Узнать больше о Часке III
+
+Иногда, провалив Лётные испытания много раз и так и не получив одобрения кукузавров, люди теряют всю мотивацию и решают завязать с этим делом. В клане Цветочного Пера мы называем таких людей «Бескрылыми»... Но вообще в Лётных испытаниях и так пытаются участвовать только самые выдающиеся воины. Может, их боевой дух угас, но однажды он разгорится вновь. А пока этот день не наступил, мы будем тихо присматривать за ними, как кукузавры присматривают за своими ещё не оперившимися птенцами.
+
+### Узнать больше о Часке IV
+
+У меня не было полноценного счастливого детства, но когда я была на грани смерти, «мама» подарила мне новую жизнь. А когда я не знала, куда двигаться, Куичи дала мне то, во что верить. За мной моя семья заврианов, моя человеческая семья и все остальные существа в семье, которую мы называем Натлан. Поэтому ничему меня не одолеть. Ни Бездне, ни жизненным невзгодам. Я всё преодолею!
+
+### Узнать больше о Часке V
+
+Куичи надеялась, что я стану героем. Поэтому... я не сдамся. Я должна оставаться сильной, ради неё... Но когда реликвия взорвалась, и Коя бросилась передо мной, я... тот же страх потерять сестру снова нахлынул на меня... Извини, я просто не знаю, с кем ещё я могу поговорить о таких вещах. Я обычно прячу это на задворках сознания... Но сейчас я чувствую себя намного лучше. Раз у меня не получается забыть этот страх, я решила попробовать сделать наоборот: помнить его... И преодолеть его.
+
+### Хобби Часки...
+
+Затевать драки - больше хлопот, чем пользы. Слишком много неприятностей. А вот прекращать драки, напротив, гораздо более приемлемо. Вот почему мне нравится быть миротворцем. Потому что драки сами приходят ко мне... Я, конечно, шучу.
+
+### Беспокойство Часки...
+
+Энергия Бездны. Не потому, что она так сильно на меня влияет - больше не влияет. Скорее потому, что из-за неё окружающие беспокоятся обо мне.
+
+### Любимая еда...
+
+Я выросла у моря и в основном ела сырую рыбу, а когда пришла в племя, полюбила стейк быстрой обжарки... У кукузавров и людей очень разные диеты, но мне нравятся обе.
+
+### Нелюбимая еда...
+
+Пожалуй, всё, что содержит слишком много алкоголя. Не потому, что я не люблю выпить, но перед полётом мне нужно тщательно следить за этим делом. Бывает, попадается еда, в которой запах алкоголя маскируется другими ароматами... Выглядит аппетитно, пахнет вкусно, откусываешь немного, а потом... опа, это ловушка.
+
+### Подарок I
+
+Это блюдо да хорошее вино повысили бы шансы успешного примирения на тридцать процентов. Ничто так не поднимает настроение, как хорошая еда и вино.
+
+### Подарок II
+
+Очень неплохо. Спасибо.
+
+### Подарок III
+
+Это для кукузавров что ли? ...Прости, но такое они не любят.
+
+### День рождения...
+
+Вот, возьми пистолет. В нём шесть патронов, один из них особенный. Давай найдём открытое место и попробуем - а ещё лучше взлетим в небо и попробуем там.
+О, особенный патрон с первой попытки? Удача сегодня на твоей стороне... Это свистящий фейерверк на день рождения. Я сама его сделала!
+М? ...Какие остальные пять выстрелов? Конечно же, ещё фейерверки! Но это пробные версии, которые я сделала перед этим. Цвет другой, они не идеальны. В следующем году я постараюсь сделать для тебя все шесть патронов высшего качества.
+
+### Чувство возвышения: Начало
+
+А? Новый патрон?
+
+### Чувство возвышения: Нарастание
+
+Хочешь что-нибудь для тебя улажу? Проблемы с племенами? Или, может, полномасштабная война?
+
+### Чувство возвышения: Кульминация
+
+В моих жилах течёт жажда борьбы... Но теперь я знаю, как использовать её с пользой.
+
+### Чувство возвышения: Окончание
+
+«За добро надо отплатить, услугу надо наградить». Это один из универсальных принципов, который верен как в мире кукузавров, так и в мире людей. С этого дня, куда ты ни отправишься, мои крылья и моё оружие всегда к твоим услугам.
+
+### Элементальный навык I
+
+Полетели.
+
+### Элементальный навык II
+
+Хах!
+
+### Элементальный навык III
+
+Ветер поднимается.
+
+### Взрыв стихии I
+
+Стреляю!
+
+### Взрыв стихии II
+
+Держите шляпы!
+
+### Взрыв стихии III
+
+Всех в пыль.
+
+### Открытие сундука I
+
+Деление добычи часто становится причиной конфликтов, но, к счастью для тебя, мне эти вещи не нужны.
+
+### Открытие сундука II
+
+Мора избавляет от многих проблем. Так что денег много не бывает, да?
+
+### Открытие сундука III
+
+О, блестит так красиво...
+
+### Низкий уровень HP I
+
+Достойное сражение!
+
+### Низкий уровень HP II
+
+Надо быть серьёзнее.
+
+### Низкий уровень HP III
+
+Хочешь драться? Давай подерёмся!
+
+### Низкий уровень HP компаньона I
+
+Нельзя умирать!
+
+### Низкий уровень HP компаньона II
+
+За меня!
+
+### Без сознания I
+
+Ма... ма...
+
+### Без сознания II
+
+Не преодолеть...
+
+### Без сознания III
+
+Я падаю...
+
+### Получен тяжёлый удар I
+
+Это плохо...
+
+### Получен тяжёлый удар II
+
+Давай ещё!
+
+### Присоединяется к группе I
+
+Так, кому крылья подрезать?
+
+### Присоединяется к группе II
+
+Ветер шумит сегодня.
+
+### Присоединяется к группе III
+
+Все патроны заряжены.
+
+## REPLICAS_EN
+
+### Hello
+
+Chasca, Flower-Feather Clan. Any disputes you need me to end for you? Depending on the situation, it could cost you a little dignity, a few drinks, or potentially... a round of ammo.
+
+### Chat: Bird's-Eye View
+
+When you lose your way, gaining some altitude can bring some perspective.
+
+### Chat: Whispers
+
+I'd have lost myself long ago if I allowed myself to be led by the whispers of the Abyss. Surviving is tough, but taming the beast within is tougher.
+
+### Chat: Peacemaker
+
+I'm a little out of practice these days... *yawn*... Any conflicts around? I'm in the mood for some peacemaking.
+
+### When It Rains
+
+Rain... My hair and feathers are gonna get soaked. Time for some preening when I get back.
+
+### When Thunder Strikes
+
+Huh, we're really gonna go flying in this weather? You think you can outrun a lightning strike?
+
+### When It's Windy
+
+*sniff* There's prey upwind from us... Be ready to pounce.
+
+### When the Wind Is Blowing
+
+The wind's perfect — full speed ahead!
+
+### Good Morning
+
+"The early qucusaur gets the worm," so I made some breakfast. Any plans for the day can wait until we've got some food in us.
+
+### Good Afternoon
+
+Afternoon. The sun shines strongest at this hour — good time to take a break.
+
+### Good Evening
+
+Any plans for dinner? If not, let's eat in the tribe. They always bring out the best food and drink for champions.
+
+### Good Night
+
+Turning in for the night? Hmm... I've been flying all day, so I should also do some gun care.
+
+### About Chasca: Self-Confidence
+
+Back when the Flower-Feather Clan was responsible for patrolling and defending all of Natlan, the flying squad was the best of the best — the fiercest warriors in the nation.
+To this day, the pride felt by many Qucusaur riders borders on arrogance... Hmm? Me? No, I'm not arrogant. Just supremely confident.
+
+### About Chasca: Flower-Feather Clan
+
+...When they first brought me back to the tribe, I didn't fit in at all. I felt so out of place — like an alien who suddenly got dropped into a human world... But Chuychu and her— I mean, our parents accepted me for who I was.
+I'm eternally grateful that I met them, and for that reason, I will defend their beloved tribe... for as long as I live.
+
+### About Us: Mediation
+
+With your skills, I doubt anyone in Natlan would dare start something with you. But there are exceptions to every rule, so if you ever find yourself in a situation you can't brute force your way out of, be sure to come to me. I'll straighten things out.
+
+### About Us: Family
+
+Thank you so much for helping with the Coya situation... I honestly don't know how things would've gone down without you there.
+She's nowhere near as hostile toward humans anymore, but it'll still take her some time to get used to them. Old habits die hard.
+Chime, on the other hand? Loves hanging out with the tribe. She gets along really well with Yatlan and the other kids... Heh, watching them play together, it sometimes reminds me of me and Coya when we were little.
+Anyway, now Mom's the one being difficult... I don't know what's gotten into her recently. She keeps nagging me to build a nest of my own like Coya. And she's all, "maybe it's time to expand your family even further"... Where is all this coming from? ...Hmm? What are you smiling about?
+
+### About the Vision
+
+This Vision played a major part in my fight against the Abyss. If it hadn't shown up when it did, I don't know who I would be today.
+
+### Something to Share
+
+People often find it embarrassing to open up about their childhood mistakes... Why is that? Whether you're a human or a Qucusaur, you can only grow by learning from your past mistakes.
+That's why I'm not shy about my history of mindlessly lashing out as a kid. Nowadays, I never draw my gun without thinking it through first, even if just for a couple of seconds... or maybe a half second.
+
+### Interesting Things
+
+Natlan has a lot of very tall trees. You get great visibility from up top, and they're good places to launch off. You wanna try? Don't worry, I'll catch you if you fall.
+
+### About Kachina
+
+"Every Qucusaur falls from its nest before it learns to fly." Kachina didn't magically become a champion overnight. Her victory was a result of consistent, tireless effort over a very long time. She's an outstanding warrior who deserves all the honor and respect she can get.
+
+### About Mualani
+
+Mualani says we got into a fight as kids over some toy we both wanted, but I don't remember any of that.
+Hmm... I wonder if it's because I got into so many fights that I just lost track of them all? I also wonder if it was actually her surfboard I was after, rather than a toy... I'll bet I just wanted the ability to go hunting on water.
+Heh, whatever it was, I doubt our feud lasted more than a day. It never does with Mualani.
+
+### About Xilonen
+
+She might come across as low-energy, but make no mistake — she's one of the most diligent people you'll ever meet.
+When I asked her to build my gun for me, I barely put any thought into it, just gave her a general idea of what I wanted, and left it with her. Then, once she started working on it in earnest, she spent an entire day questioning me — what would a typical day's flying look like, how often I was expecting to use it, and so on — and by the end of the day, there were abandoned designs schemes all over the floor... I was so exhausted that I fell asleep even before she did.
+Then she wrote a whole maintenance guide, which she forced me to learn by heart so I wouldn't come bugging her with issues every day... Well, that's what she said. But I suspect her real reason was that she wanted to make sure I'd look after myself and fly safe.
+
+### About Mavuika
+
+Some people compare me to the Pyro Archon because of my track record in the Pilgrimage. It's a meaningless comparison. If the Pilgrimage was a tree, and I was a vulture on the highest branch, then the Pyro Archon would be the sun in the sky... The stronger you get, the more you appreciate the sheer size of the gulf between you and her. I just won a few championships — she's the champion of an entire era.
+But at least being on top with a clear view of the sky means I can see exactly how high I want to fly from here.
+
+### About Kinich
+
+When I first saw Ajaw, I thought "Oh, Kinich has a saurian he treats like family, too"... Blissfully unaware of how far off the mark I was. Their relationship is... truly one-of-a-kind.
+Although I will say, Ajaw's mastery of the human language makes me pretty envious. I wish mom could talk like that, too, so we could do away with the whole body-language-based guesswork-game.
+
+### About Citlali
+
+My dad told me that when I was little, they gathered all of the most learned elders in Natlan and asked them to come up with a plan for managing my Abyss condition. They all disagreed on the best approach, and it turned into a drawn-out debate. At some point, Citlali quietly left the room, but they were all too busy arguing to notice. When she got back, she put some food and wine down in front of her, ignored everyone, and just started eating... the table suddenly went very quiet.
+Just by looking at her, you'd never know how much seniority and experience she has.
+
+### About Ifa
+
+Chuychu and my dad have discussed medicine with him countless times. So after I got back from the airborne workshop, the first thing I did was take Coya to get checked out by him. But he seemed so dismissive — he took one glance, said "it's nothing serious, Cusco can handle it," and then immediately left to deal with another patient... *sigh* He was right, of course. I was just worrying too much.
+
+### About Iansan
+
+I've always felt that training oneself and training others are two very different skillsets. Very few people have them both, but Iansan has them in spades.
+I, for one, am not very good at teaching other people. Whenever I'm trying to demonstrate something to the flying squad, I spend forever trying to explain some basic, boring detail that seems intuitive to me... only to have everyone ask, "What's intuitive about that!?"
+If only Iansan could tutor them, I bet we'd have twice as many candidates pass the flying trials each year... Shame that her training program doesn't include flying.
+
+### More about Chasca: I
+
+As a peacemaker, I know full well that violence isn't always the answer. But in many cases, having the capacity for violence makes people much more willing to listen to reason.
+
+### More About Chasca: II
+
+The warriors of the Flower-Feather Clan are a proud bunch, but the Qucusaurs are a prouder bunch still. Anyone who aspires to become a Rider has to train relentlessly and then win their approval — even me, and I was practically one of them growing up. It's only fair, though. Allowing a rookie to ride a Qucusaur into the skies would be highly irresponsible for both the Qucusaur and the Rider.
+
+### More About Chasca: III
+
+Sometimes, after failing the flying trials countless times and never winning the Qucusaurs' approval, people lose all their motivation and decide to call it quits. In the Flower-Feather Clan, we call those people the "Wingless"... But generally, only the most outstanding warriors even attempt the flying trials in the first place. Their fighting spirit may have faded out, but it will one day burn again. And until that day comes, we will quietly watch over them, just as the Qucusaurs watch over their unfledged young.
+
+### More About Chasca: IV
+
+I was never able to enjoy a proper, happy childhood, but when I was on the brink of death, momma bird gave me a new life, and when I was lost and directionless, Chuychu gave me something to believe in. Behind me, I have my saurian family, my human family, and every other creature in the family we call Natlan. So I will not be defeated. Not by the Abyss, and not by life's hardships. Watch me, I will transcend it all!
+
+### More About Chasca: V
+
+Chuychu hoped I'd become a hero. So... I can't give up. I have to stay strong, for her sake...
+But when the relic exploded, and Coya dove in front of me, I... the same fear of losing my sister came flooding back again...
+Sorry, I just don't really know who I can talk to about this kind of stuff. I usually push it to the back of my mind... But I feel much better now.
+Since I can't forget that fear, I guess I'll try the opposite: remember it, own it. And eventually... transcend it.
+
+### Chasca's Hobbies
+
+Starting fights is more trouble than it's worth. Gets you into too much trouble. Now, ending fights, on the other hand, much more acceptable. This is why I love being a peacemaker, because the fights come to me... Heh, I'm just kidding, of course.
+
+### Chasca's Troubles
+
+The Abyssal energy. Not because it affects me that much — it doesn't anymore. More because of how much it makes the people around me worry about my safety.
+
+### Favorite Food
+
+Growing up by the sea, I mostly ate raw fish, and after I came to the tribe, I grew to love Flash-Grilled Steak... Qucusaurs and humans have wildly different diets, but I enjoy them both.
+
+### Least Favorite Food
+
+Anything with too much alcohol, I guess. Not because I don't like drinking — I just need to watch my intake very carefully before a flight. But you get some food where the scent of the alcohol is masked by the other flavors... Looks tasty, smells delicious, so you take a bite, and then... uh-oh, it's a trap.
+
+### Receiving a Gift: I
+
+I'm telling you, this dish plus a nice wine would increase the chances of mediation success by thirty percent. Heh, there's nothing quite like some good food and wine to put people in a good mood.
+
+### Receiving a Gift: II
+
+This is pretty good. Thanks.
+
+### Receiving a Gift: III
+
+Uh... Was this meant for the qucusaurs? ...Sorry, but this isn't the kind of thing they go for.
+
+### Birthday
+
+Here, take this gun. It's loaded with six rounds, including an extra-special one. Find an open space and try it out — or better yet, fly up into the sky and do it there.
+Ooh, you got the special round on the first try, huh? Luck's on your side today... That was a whistling birthday firework. I made it myself!
+Hmm? ...What are the other five rounds? More fireworks, of course! But they're the trial runs that I made before the one you just fired off. The color's different, and they're not perfect. Next year, I'll do my best to make a full six top-quality rounds for you.
+
+### Feelings About Ascension: Intro
+
+Huh, is that a new bullet in the chamber?
+
+### Feelings About Ascension: Building Up
+
+Need me to mediate anything? Tribal trouble? Or an all-out war, maybe?
+
+### Feelings About Ascension: Climax
+
+There's an urge to fight that runs in my veins... But now, I know how to put it to good use.
+
+### Feelings About Ascension: Conclusion
+
+"Kindness should always be repaid, and merit rewarded." This is one universal principle that holds true for both the Qucusaur and human worlds. From this day forth, no matter where you go, my wings and my guns will always be at your service.
+
+### Elemental Skill: I
+
+Let's fly.
+
+### Elemental Skill: II
+
+Hah!
+
+### Elemental Skill: III
+
+Take me up.
+
+### Elemental Burst: I
+
+Fire in the hole!
+
+### Elemental Burst: II
+
+Hold on to your hats!
+
+### Elemental Burst: III
+
+Knock 'em down.
+
+### Opening Treasure Chest: I
+
+Dividing the loot is often a cause of conflict, but luckily for you, I don't really need this stuff.
+
+### Opening Treasure Chest: II
+
+Mora makes a lot of problems go away. So you can never have too much Mora, huh?
+
+### Opening Treasure Chest: III
+
+Ooh, shiny... It's so pretty...
+
+### Low HP: I
+
+A worthy fight...!
+
+### Low HP: II
+
+Now I'm all warmed up.
+
+### Low HP: III
+
+You want crazy? I'll show you crazy!
+
+### Ally at Low HP: I
+
+...Hey, no dying!
+
+### Ally at Low HP: II
+
+Get behind me!
+
+### Fallen: I
+
+Momma... Bird...
+
+### Fallen: II
+
+Couldn't... transcend...
+
+### Fallen: III
+
+I'm... falling...
+
+### Heavy Hit Taken: I
+
+This is about to get messy...
+
+### Heavy Hit Taken: II
+
+...Again!
+
+### Joining Party: I
+
+Alright, whose wings need clipping?
+
+### Joining Party: II
+
+The breeze is restless today.
+
+### Joining Party: III
+
+Chamber full and ready to roll.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+「花羽会」，恰斯卡。有什么「矛盾」需要我调停吗？视情况而定可能要费点面子，花些钱酒，或者…耗几枚子弹。
+
+### 闲聊·俯瞰
+
+如果迷失了方向，不如飞到高处去看看吧。
+
+### 闲聊·声音
+
+倘若任由深渊的声音牵引，我早就不是我自己了。比生存更难的是克服本能。
+
+### 闲聊·调解
+
+最近有点手生了…嗯…哪里有「矛盾」可以调解调解吗？
+
+### 下雨的时候…
+
+雨水…会打湿头发跟羽毛，回头要好好护理。
+
+### 打雷的时候…
+
+嚯？在这种天气里飞行，是想跟闪电比谁快吗？
+
+### 起风的时候…
+
+风里有猎物的气味…做好准备。
+
+### 刮大风了…
+
+风向正好——全速前进！
+
+### 早上好…
+
+「早起的绒翼龙有肉吃。」——所以我准备了一点早餐，有什么任务都先填饱肚子再说吧。
+
+### 中午好…
+
+午安。中午的日头正盛，可以先休息一下。
+
+### 晚上好…
+
+晚餐准备怎么解决？要不去「花羽会」吧，宴请「强者」的酒和肉永远管够。
+
+### 晚安…
+
+你要休息了吗？嗯…飞了一整天，我也该保养一下我的枪械了。
+
+### 关于恰斯卡自己·自信
+
+「花羽会」曾经承担梭巡援护纳塔全境的职责，飞行队里更集结了全纳塔最精锐、最迅猛的战士。
+时至今日，这份孤高与骄傲依旧铭刻在许多绒翼龙骑士的心里…嗯？我吗？我并不「孤傲」，只是「自信」而已。
+
+### 关于恰斯卡自己·花羽会
+
+…刚回「花羽会」的时候，我跟整个人类世界格格不入，像是一个突然被丢进人群的异类…但是葵可，还有她的…不，还有我们的父母，接受了那时的我。
+跟他们相遇是值得我庆幸一生的事，所以我也会用一生…去守护他们所爱的「花羽会」。
+
+### 关于我们·摆平
+
+以你的身手，在纳塔应该不会有谁敢主动招惹。但凡事都有个万一，如果遇上什么不太好直接通过动手摆平的麻烦，记得来找我。
+
+### 关于我们·家人
+
+柯娅的事…真是多谢了。如果那时候没有你在，也不知道会怎么收场。
+姐姐现在已经没那么抵触人类了，但要改变这么多年来的习惯，恐怕还要花上一点时间来适应。
+奇梅倒是很喜欢来「花羽会」玩，现在跟娅特兰他们处得不错…呵，有时候看着他们，就像是看到了小时候的我跟姐姐一样。
+最麻烦的反而是妈妈那边…她最近总爱催我学姐姐早点筑什么巢？还说要看看身边有什么合适的家人？真搞不明白她是想表达什么意思…嗯？你在笑什么？
+
+### 关于「神之眼」…
+
+这枚「神之眼」在我与深渊的对抗中意义重大。如果不是它及时出现，不知道现在的我会是什么样子。
+
+### 有什么想要分享…
+
+经常会有人觉得小时候做错的事难以启齿…这是为什么呢？人类也好绒翼龙也好，不都是靠着认清过去的错误来成长的吗？
+所以我从不回避小时候动手打架不经思考的事实。至于现在，我在拔枪前都会思考几秒…或者零点几秒。
+
+### 感兴趣的见闻…
+
+纳塔有不少高耸的树木，站在上面能获得良好的视野和起飞高度，你要不要也来试试？别怕，真掉下去了我会接住你的。
+
+### 关于卡齐娜…
+
+「每只绒翼龙在学会飞行前都曾跌落山崖。」卡齐娜的胜利不是一朝一夕突然降临的奇迹，而是长久努力积累出的结果。像她这样的战士，理应获得更多尊重和荣誉。
+
+### 关于玛拉妮…
+
+玛拉妮说我们小时候因为争抢玩具的原因打过架，不过我已经没什么印象了。
+嗯…难道是因为我小时候打过的架实在太多？还是说那时候我想要抢夺的并不是什么「玩具」…而是盯上了冲浪板的水上狩猎性能…
+呵，不管是因为什么而起，跟玛拉妮闹的矛盾，都留不到下一天。
+
+### 关于希诺宁…
+
+希诺宁她看着总是提不起劲，但真要较起劲来可比谁都认真。
+我请她帮忙打造枪械的时候没想太多，只是给了最基本的需求，就把这事放在了脑后。等到她正式开始动工，她抓着我问了一整天平时的飞行习惯和使用预期，出了满地的图纸跟废案…真没想到我也会有比她先困到睡着的一天。
+后来她还硬是让我背下了她写的《枪械维护手册》，说是免得我以后天天来烦她…不过她真正的意思，大概是让我「注意安全，谨慎飞行」吧。
+
+### 关于玛薇卡…
+
+有人因为我在「归火圣夜巡礼」中的胜率高，就拿我和火神大人进行比较。这太片面了。如果把我比作树梢上的一只鹫，那火神大人便是天上的太阳。实力越强，越是知道她的深不可测。我只是赢了几场比赛，而她…却冠绝了整个时代。
+——但也正因为这样，我才能清晰地看见，自己想要飞向的高度，到底在哪里。
+
+### 关于基尼奇…
+
+我最早见到阿乔的时候，还以为它跟基尼奇也是情同家人的关系，没想到错得离谱…原来人跟龙还能这么相处。
+不过阿乔会人类语言这点倒是挺让我羡慕的，要是「妈妈」也能开口说话，我们就不用靠比划跟猜测来聊天了。
+
+### 关于茜特菈莉…
+
+听老爹说，当年他们请教了全纳塔最富学识的长老们，来为我制定控制深渊影响的方案。当时他们各执己见、争论不休，都没人留意到茜特菈莉一声不吭地走出了门。等她回来，只见她把酒和菜往自己面前一放，自顾自地吃了起来…一时间全桌人鸦雀无声。
+光看外表，还真难想象她有这么高的资历跟辈分。
+
+### 关于伊法…
+
+葵可跟老爹经常找他讨论医术。从空中工坊回来之后，我第一时间就去找伊法来检查姐姐的情况。但他只是看了一眼，撂下一句「没多大问题，库斯可能解决」就转头去治别的病号了…唉，事实也证明他的眼光确实毒辣，是我关心则乱了。
+
+### 关于伊安珊…
+
+我一直觉得「让自己变得更强」和「让别人也变得更强」是两种不同的才能。能兼具这两者的人少之又少，伊安珊就是其一。
+比如我就不太懂该怎么教人。每次给飞行队的成员讲解示范，总是要在一些简单枯燥又显而易见的技巧上说明半天…还会反复被问「这怎么就显而易见了？」
+要是换了伊安珊来，「花羽会」每年通过飞行试炼的人估计能翻上一番吧…可惜她的培训项目里向来没有飞行。
+
+### 想要了解恰斯卡·其一
+
+身为一名调停人，我很清楚用武力无法解决所有矛盾。但很多时候持有武力本身，就是让人愿意听你说话的前提。
+
+### 想要了解恰斯卡·其二
+
+「花羽会」的战士向来高傲，但绒翼龙却比他们更高傲。即使是像我这样从小跟绒翼龙相伴着长大的人，要想登上龙背成为骑士，都要经过严苛的训练，再取得绒翼龙的认可。毕竟让实力不济的人乘着龙飞向天空，不管是对龙还是对人而言，都是不负责任的。
+
+### 想要了解恰斯卡·其三
+
+一些屡次在飞行试炼中失利，没有被绒翼龙认可的人，最后会失去斗志，放弃挑战。这些人在「花羽会」里会被称作「失翼者」…不过曾经挑战飞行试炼的人，往往已是出类拔萃的战士。即便战意一度熄灭，也终会有重燃的一天。我们会一直默默关照这些人，就像绒翼龙关照还没学会飞行的幼崽。
+
+### 想要了解恰斯卡·其四
+
+我从出生起就失去了普通人应有的童年…但「妈妈」在我濒死垂危时给了我新的生命，葵可在我迷茫不前时给了我新的信念…在我的背后，有人与龙两个家庭，还有纳塔无数生命牵系的家庭——所以我绝不能被吞没，「深渊」也好「苦难」也好…都由我来「超越」！
+
+### 想要了解恰斯卡·其五
+
+葵可她…希望我成为「英雄」，所以我不能为她停下脚步，不能让自己变得软弱…
+可在「遗物」爆炸，姐姐冲到我面前的时候，我…我还是忍不住会想起，失去家人的恐惧…
+…抱歉，这些话我不知道能说给谁听，一直试图留在脑后…不过现在我感觉好多了。
+既然忘不掉这份恐惧…那就试着记住它，然后…「超越」它吧。
+
+### 恰斯卡的爱好…
+
+如果我喜欢的是「争斗」，就容易惹是生非；但如果我喜欢的是「调解争斗」，「争斗」就容易自己找上门…呵，玩笑而已。
+
+### 恰斯卡的烦恼…
+
+深渊的力量——倒不是因为它现在会怎么影响到我，而是因为身边有许多人，会为了它过度地担心我。
+
+### 喜欢的食物…
+
+小时候住在海边，最常吃的是生鱼；来「花羽会」后我最喜欢的是快火炙烤的肉排…人类跟绒翼龙的饮食区别很大，不过我不管在哪边都吃得很开心。
+
+### 讨厌的食物…
+
+酒精含量过高的食物吧。不是因为不喜欢酒，只是飞行前要严格控制饮酒量，偏偏有些食物看起来可口，气味也被香气掩盖，吃进嘴里才发现不妙。
+
+### 收到赠礼·其一
+
+要是能拿这道菜下酒，调停的成功率应该能上升个三成吧？哼，美食和美酒总是让人心情愉悦。
+
+### 收到赠礼·其二
+
+挺不错的，谢了。
+
+### 收到赠礼·其三
+
+嗯…难道是做给绒翼龙吃的吗？…恐怕也不会合他们的胃口。
+
+### 生日…
+
+来，这把枪里有六发子弹，其中有一发是特别的。找片空旷的地方试试枪吧，飞到天上去试的话效果更好。
+哦？第一发就开出了特制的礼炮吗？你的运气还真不错…这是我亲手为你做的，为你的诞辰鸣炮敬礼！
+嗯…你问剩下五发子弹是什么？当然也是礼炮啊，不过是刚刚那枚之前试做的，颜色不一样，算不上完美。来年我尽量六发都换上最好的。
+
+### 突破的感受·起
+
+哦？是新的子弹？
+
+### 突破的感受·承
+
+想要我为你调停什么？部族纷争？还是一场大战？
+
+### 突破的感受·转
+
+心与血都在渴望着「争斗」…但现在，已经能让这种渴望为我所用了。
+
+### 突破的感受·合
+
+「有恩必报，有德必酬。」不管是在绒翼龙还是人类的世界，它都是不变不移的公理。从今往后，无论你想去往哪里，我的「羽翼」与「枪火」都随时为你待命。
+
+### 元素战技·其一
+
+飞吧。
+
+### 元素战技·其二
+
+喝！
+
+### 元素战技·其三
+
+要起风了。
+
+### 元素爆发·其一
+
+全弹…发射！
+
+### 元素爆发·其二
+
+风湮狙破！
+
+### 元素爆发·其三
+
+啸尘尽灭。
+
+### 打开宝箱·其一
+
+分赃不均是起矛盾的大头。好在我用不上，你拿着就好。
+
+### 打开宝箱·其二
+
+能用钱财调停的事都不算事——所以钱财多多益善，不是么？
+
+### 打开宝箱·其三
+
+唔…亮晶晶的东西…真漂亮呢。
+
+### 生命值低·其一
+
+值得一战…！
+
+### 生命值低·其二
+
+该认真点了。
+
+### 生命值低·其三
+
+要战…那就来战吧！
+
+### 同伴生命值低·其一
+
+…不许死！
+
+### 同伴生命值低·其二
+
+到我身后。
+
+### 倒下·其一
+
+妈…妈…
+
+### 倒下·其二
+
+无法…超越…
+
+### 倒下·其三
+
+我也…坠落了吗…
+
+### 重受击·其一
+
+这下麻烦了。
+
+### 重受击·其二
+
+…再来！
+
+### 加入队伍·其一
+
+这次又是谁在闹事？
+
+### 加入队伍·其二
+
+今天的风声，不太安静呢。
+
+### 加入队伍·其三
+
+走吧，子弹已经上膛了。

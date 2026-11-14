@@ -727,3 +727,926 @@ And Lohen, well, he walked off with a new way of fighting, a new way of living, 
 在那一天，所有人都如愿以偿——或者说，都获得了一些东西。
 第五小队获得了一位副队长，远征军获得了一位「前线压制官」，忙碌的西蒙获得了一天的「特别头痛假」，而法尔伽则获得了一个可以用来下酒的「西蒙笑话」。
 至于洛恩，自那天以后，他获得了一种新的战斗与生活方式，以及一颗能在执行任务时派上些用场的…「玻璃珠子」。
+
+# voice_source_ids: 129000,129001,129002,129003,129004,129005,129006,129007,129008,129009,129010,129011,129012,129013,129014,129015,129016,129017,129018,129019,129020,129021,129022,129023,129024,129025,129026,129027,129028,129029,129030,129031,129032,129033,129034,129035,129036,129037,129038,129039,129040,129041,129042,129043,129044,129045,129046,129047,129048,129049,129050,129051,129052,129053,129054,129055,129056,129057,129058,129059,129060,129061,129062,129063,129064,129065,129066,129067,129068,129069,129070,129071,129072,129073,129074,129075
+
+## REPLICAS_RU
+
+### Привет...
+
+Приятно познакомиться. Я Лоэн, действующий заместитель капитана пятого отряда. Если вам требуется помощь Ордо Фавониус, обращайтесь напрямую в орден. Если же вам нужна моя личная помощь, то слушаю.
+
+### Поболтаем: Заместитель капитана
+
+Чтобы стать капитаном, одной силы мало. Главное - это... Хех, сам пока не знаю. Знал бы - уже был бы капитаном.
+
+### Поболтаем: Куда возвращается ветер
+
+Фух... В Мондштадте всё же комфортнее всего. Надо бы раздобыть яблочного сидра...
+
+### Поболтаем: Взаимоотношения
+
+Как у меня складываются отношения с остальными в ордене? Хм... По крайней мере, я всем запомнился, так что это уже неплохо.
+
+### Когда идёт дождь...
+
+Ого, дождь усиливается. Интересно, сколько всего он смоет на этот раз?
+
+### После дождя...
+
+Небо проясняется... будто и не было никакого ливня.
+
+### Когда гремит гром...
+
+Раскаты грома могут заглушить многое, но они точно не заглушат биение твоего собственного сердца.
+
+### Когда идёт снег...
+
+Я очень люблю таверну «Кошкин хвост»... особенно в такую погоду.
+
+### Когда дует ветер...
+
+Фух, ветер усиливается... Жаль, одуванчиков нет. Если рвать бумагу, эффект почти тот же, да?
+
+### В пустыне...
+
+В такие моменты особенно скучаю по Сидровому озеру.
+
+### Доброе утро...
+
+Доброе утро. Чем сегодня будешь заниматься?
+
+### Добрый день...
+
+Уже пообедал? Отлично - днём ещё много дел. / Уже пообедала? Отлично - днём ещё много дел.
+
+### Добрый вечер...
+
+Сегодня вечером... Хм, устроим для отряда «учебную атаку на лагерь».
+
+### Спокойной ночи...
+
+Спокойной ночи. Отдохни как следует. Завтра всё равно наступит, хочешь ты этого или нет.
+
+### О Лоэне: Отношение к боли
+
+Я стараюсь избегать обезболивающих - они мешают сражаться. Да и... Хех, мне даже нравится чувствовать боль. Это напоминает, что я жив. В отличие от моих врагов.
+
+### О Лоэне: Сила и оправдания
+
+Для некоторых «сила» - удобное оправдание. Ею объясняют неудачи, страхи, сомнения... Наверное, наличие чёткой цели действительно дарит людям странное чувство защищённости. Даже если за этой «защищённостью» скрывается нечто ужасное.
+
+### О нас: Стиль боя
+
+Мой стиль боя? Ха-ха! Всё просто: найти главного, вступить в бой и как можно быстрее определить победителя. Остальные рыцари уже должны были привыкнуть. А если нет - это их проблемы.
+
+### О нас: Долг службы
+
+Как видишь, я уже заместитель капитана, а Теодор понёс заслуженное наказание. Но его способности ещё пригодятся. Когда он искупит вину, я верну его в пятый отряд. Правда, уже не в качестве заместителя. И доверять ему - как и мне - пока рано.
+Ты веришь мне? И у тебя есть сила, чтобы верить? Ха-ха! Достойно почётного рыцаря. Может, тогда сразу станешь капитаном нашего пятого отряда? Варка точно не будет возражать.
+
+### Глаз Бога...
+
+Глаз Бога отлично помогает в бою. Жаль только, что он эффективен лишь против тех врагов, до которых можно дотянуться, но не против тех, что скрываются внутри.
+
+### Давай поделимся...
+
+Я не пью. Алкоголь мне нужен только для дезинфекции ран. Старое вино из одуванчиков винокурни «Рассвет» подходит идеально: и обеззараживает, и жжёт как следует. А заодно можно посмотреть, как корчатся другие, когда я обрабатываю их раны алкоголем. Особенно Варка. Хе-хе.
+
+### Интересные вещи...
+
+Раньше у меня была аллергия на одуванчики. Сахароза посоветовала «десенсибилизацию». Я заполнил комнату одуванчиками и периодически вдыхал их пыльцу. Помогло ли? Теперь я не чихаю. Хотя, признаться, иногда скучаю по прежним временам.
+
+### О Варке: Стойкость к лекарствам
+
+С каждым днём Варка становится всё устойчивее к лекарствам. Недавно приготовленный мной настой едва вызвал у него румянец. Если бы он потом не посмотрел на меня так, я бы решил, что вообще ничего туда не добавил. Эх... Будь мы сейчас в Нод-Крае, я бы подмешал кое-какие растения, обладающие силой куувяки.
+
+### О Варке: Обязанности магистра
+
+Обязанности магистра? Варка в основном ведёт людей в бой. Всё остальное достаётся Джинн. Ха-ха. Врагов можно уничтожить, а вот бумажная работа бесконечна.
+
+### О Джинн...
+
+Пока действующий магистр руководила всем в Мондштадте, магистр ордена мог спокойно разгуливать по Нод-Краю. Теперь он вернулся. Ну, думаю, всё останется как прежде - будет делать что захочет.
+
+### О Кэйе...
+
+У Кэйи настоящий талант к подделке подписей капитанов, и особенно подписи Джинн. Он это делает настолько идеально, что отличить подделку почти невозможно. Сам он говорит, что делает это только для того, чтобы подписывать себе отгулы. Честно говоря, я ему верю. Уж слишком он правильный, ха-ха.
+
+### Об Эмбер...
+
+Эмбер говорила, что уже всё обсудила с действующим магистром Джинн. К ней направят разведчиков на помощь - пусть и не официальных скаутов. Это хорошо: теперь ей не придётся в одиночку летать над всем Мондштадтом. Хотя, если подумать, экзамен на лётную лицензию тоже уже устарел. Может, его пора обновить?
+
+### О Дилюке...
+
+Дилюк... Если подумать, мы оба пострадали от одного и того же негодяя. Теперь, когда с этим покончено, неужели он так и не вернётся в Ордо Фавониус? Самым молодым капитаном ему уже не стать, но вот самым старшим рыцарем - вполне.
+
+### О Ноэлль...
+
+Ноэлль всё ещё не стала полноценным рыцарем, да? Сколько уже времени прошло... Я был уверен, что она давно прошла отбор. Может, Варка готовит для неё какое-то особое испытание? Тогда и титул у неё должен быть под стать - длинный, как её путь.
+
+### Об Эоле...
+
+Первое, что приходит на ум, когда думаешь об Эоле, - это звук её шагов. Стоит ей ускориться, как её «топ-топ-топ» слышно даже этажом ниже. Прямо как её стиль боя - громкий, пронзительный, незабываемый.
+
+### Об Альбедо...
+
+Всё расходное снаряжение пятого отряда разрабатывается Альбедо и восьмым отрядом. Болты для арбалетов, пули, алхимические смеси - всё на высшем уровне. Я иногда заглядываю к Альбедо с идеями для нового оружия, но в последнее время всеми делами занимается Сахароза. Альбедо снова ушёл с головой в какой-то крупный проект.
+
+### О Кли...
+
+Варка как-то сказал, что Предвестник Фатуи, Капитан, способен уничтожить стража руин обычным восковым мелком. Я обменял у Кли коробку мелков на сладости и собираюсь отдать Варке. В следующий раз, когда он столкнётся с монстром, проверим, насколько его утверждение является правдой.
+
+### О Мике...
+
+Мика - отличный картограф, но я ещё лучше умею распознавать ложь. Однажды он специально не отметил на карте места скопления монстров, чтобы я не рванул туда в одиночку. Но стоило мне взглянуть на его лицо - и я сразу понял, где они. Наивно думать, что молчание может меня остановить.
+
+### Узнать больше о Лоэне I
+
+Прости. Не хочу разочаровывать, но у меня нет никаких тёмных и мрачных секретов.
+
+### Узнать больше о Лоэне II
+
+Хотя я чаще пользуюсь копьём, я рыцарь пятого отряда, поэтому не забрасываю тренировки с арбалетом и мушкетом. С меткостью у меня всё в порядке - по слаймам и прочей мелочи попадаю без проблем. Говорят, в Инадзуме есть духи, по которым трудно попасть? Надо будет проверить.
+
+### Узнать больше о Лоэне III
+
+Пятый отряд? Обычная группа огневой поддержки на расстоянии, ничего особенного. Огневой мощи хватает, но против по-настоящему опасных противников мы можем только прикрывать со стороны. Как тогда, когда мы сопровождали Варку при перехвате Лунного мстителя: в итоге он вёл основной бой, а нам приказали держать периметр и сдерживать Дикую Охоту, иначе нас бы просто смели.
+
+### Узнать больше о Лоэне IV
+
+Почему я использую копьё? Всё просто: лучшая приманка на поле боя - тот, кто выглядит как командир. Я отвлекаю врагов, а остальные спокойно ведут огонь. А что до опасных противников... Ха-ха, чем напряжённее ситуация, тем легче мне сосредоточиться. Это ощущение - настоящее удовольствие. Жаль только, после Нод-Края таких боёв стало слишком мало.
+
+### Узнать больше о Лоэне V
+
+Боюсь ли я ближнего боя? Ха! Не больше, чем мой противник. Я не из тех, кто сдаётся. К тому же у меня за спиной врачи. А если они есть и у врага? Тогда я сначала разберусь с ними.
+
+### Хобби Лоэна...
+
+Помимо сражений, моё любимое занятие - подбрасывать товарищам небольшие «сюрпризы», чтобы разбавить их скучную жизнь. Это тоже часть тренировок: рыцарь должен быть начеку всегда.
+
+### Беспокойство Лоэна...
+
+Хорошие времена в Терновом порту закончились. Теперь я снова в Мондштадте, а действующий магистр Джинн куда строже, чем Варка. Эх... Неужели нельзя отправить меня ещё в пару командировок?
+
+### Любимая еда...
+
+Я люблю острую еду. На дежурстве часто жую сушёный заоблачный перец. Он отлично бодрит. Его называют «заоблачным перчиком»? Спасибо, но для меня это просто перец.
+
+### Нелюбимая еда...
+
+Не пей алкоголь, ладно? В Нод-Крае меня постоянно будили пьяные рыцари. Под конец они уже не понимали, что пьют, даже когда я подменял им выпивку на... Хм, забудь.
+
+### Подарок I
+
+Фух! Спасибо, это как раз мне по вкусу. Настолько подходит... что я начинаю подозревать, не изучал ли ты мои привычки. Но ничего, у меня тоже есть кое-какая информация о тебе. / Фух! Спасибо, это как раз мне по вкусу. Настолько подходит... что я начинаю подозревать, не изучала ли ты мои привычки. Но ничего, у меня тоже есть кое-какая информация о тебе.
+
+### Подарок II
+
+Когда я учился подмешивать яд в еду, довёл это до совершенства - никто ничего не замечал... Ты уже подмешал яд? Не переживай, у меня высокая устойчивость. Думаю, съем ещё. / Когда я учился подмешивать яд в еду, довёл это до совершенства - никто ничего не замечал... Ты уже подмешала яд? Не переживай, у меня высокая устойчивость. Думаю, съем ещё.
+
+### Подарок III
+
+...Ну уж нет, слишком уж очевидная ловушка. В такую я не полезу. В следующий раз готовлю я.
+
+### День рождения...
+
+Сегодня у тебя день рождения, так что я принёс подарок - мини-арбалет. Сам разработал. По размеру должен идеально подойти к запястью... Когда успел измерить? На глаз. Можешь доверять. Я всё-таки заместитель капитана пятого отряда. Ах да, он ещё и назад стреляет - на случай, если кто-то подкрадётся сзади. Нужно лишь нажать... вот здесь. Ха-ха, не пригибайся! Предохранитель всё ещё включён. Я что, похож на человека, который дарит другу арбалет, чтобы потом посмотреть, как тот сам себя застрелит?
+
+### Чувство возвышения: Начало
+
+Чувствую себя отлично. Даже оружие в руках словно легче стало.
+
+### Чувство возвышения: Нарастание
+
+Кажется, я теперь вижу дальше... Это точно поможет мне целиться точнее.
+
+### Чувство возвышения: Кульминация
+
+Голова стала яснее. Ха, уже придумал новый способ тренировки.
+
+### Чувство возвышения: Окончание
+
+Моей силы теперь достаточно, чтобы стать «образцовым» заместителем капитана?
+
+### Элементальный навык I
+
+В бой!
+
+### Элементальный навык II
+
+Пощады не будет.
+
+### Элементальный навык III
+
+Никого не оставлять в живых!
+
+### Элементальный навык IV
+
+Неожиданно?
+
+### Элементальный навык V
+
+Сейчас наш шанс!
+
+### Элементальный навык VI
+
+Гм.
+
+### Взрыв стихии I
+
+Как агнцы на заклание.
+
+### Взрыв стихии II
+
+Сопротивление бесполезно!
+
+### Взрыв стихии III
+
+Ха-ха, сказки с хорошим концом - не про тебя!
+
+### Открытие сундука I
+
+Так, трофеи... Посмотрим, что тут у нас.
+
+### Открытие сундука II
+
+Негусто... но не брать было бы невежливо.
+
+### Открытие сундука III
+
+Хм, ни ловушек, ни ядовитого дыма... Скучно.
+
+### Низкий уровень HP I
+
+Ха... Давай ещё!
+
+### Низкий уровень HP II
+
+...Это ещё не конец!
+
+### Низкий уровень HP III
+
+Отличный противник!
+
+### Низкий уровень HP компаньона I
+
+Если не справляешься - отходи!
+
+### Низкий уровень HP компаньона II
+
+Дай мне попробовать!
+
+### Без сознания I
+
+Вот он... предел возможностей...
+
+### Без сознания II
+
+Мне всё ещё... мало...
+
+### Без сознания III
+
+Ветер... скажи мне почему...
+
+### Получен лёгкий удар I
+
+Дешёвый приём.
+
+### Получен лёгкий удар II
+
+Я даже не почувствовал.
+
+### Получен тяжёлый удар I
+
+Неплохо...
+
+### Получен тяжёлый удар II
+
+Ах!..
+
+### Присоединяется к группе I
+
+Пошли, разомнёмся.
+
+### Присоединяется к группе II
+
+Возглавить авангард? Без проблем.
+
+### Присоединяется к группе III
+
+На этот раз я прикрою тыл.
+
+## REPLICAS_EN
+
+### Hello
+
+Nice to meet you, I'm Lohen, Vice Captain of the 5th Company. If you require assistance from the Knights of Favonius, please direct your request to headquarters. But if you need something from me, I'm all ears.
+
+### Chat: Vice Captain
+
+Being a captain takes more than just captain-grade strength. The most important thing is... Heh, I dunno. If I did, I'd be a captain by now.
+
+### Chat: Where the Wind Returns
+
+Whew, Mondstadt really is the place to be. Can't wait to get my hands on some Apple Cider...
+
+### Chat: Relationships
+
+How do I get along with the other Knights? Hmm... Well, I'm certain I've left a deep impression. That can only be a good thing, right?
+
+### When It Rains
+
+Huh, the rain's getting heavy. Who knows what the floods will wash away?
+
+### After the Rain
+
+The sky's clearing up. It's like those showers never even happened.
+
+### When Thunder Strikes
+
+Thunder drowns out many things, but never the beat of your own heart.
+
+### When It Snows
+
+There's no place like The Cat's Tail... especially in weather like this.
+
+### When It's Windy
+
+Whew, wind's picking up... Too bad there aren't any dandelions around. Guess we'll just have to tear up some paper instead, huh?
+
+### In the Desert
+
+It's times like these when I really miss Cider Lake.
+
+### Good Morning
+
+Good morning. What's the plan today?
+
+### Good Afternoon
+
+Already stopped for lunch? Great, we've got work to do this afternoon.
+
+### Good Evening
+
+Tonight... Mhm. Let's treat the troops to a surprise attack drill.
+
+### Good Night
+
+Good night. Better get some rest, 'cause tomorrow's coming, whether you like it or not.
+
+### About Lohen: Savoring Pain
+
+I try to avoid anesthetics — they make it hard to fight. Besides... heh, I kinda like to savor the pain. It reminds me that I'm alive, unlike my enemies, who feel nothing at all.
+
+### About Lohen: Power and Excuses
+
+For some, power is a convenient excuse. It gives them a reason for failure, a justification for fear... Perhaps having a goal really does provide people with some strange sense of safety. Even if hidden behind their safety is a far more terrifying shadow.
+
+### About Us: Fighting Style
+
+My fighting style? Hahahaha, couldn't be more simple! Seek out the leader, engage them in combat, and decide the victor as quickly as possible. The other knights should be used to it by now, but if they're not, what difference does it make?
+
+### About Us: Where Duty Lies
+
+As you can see, I'm vice captain, while that fool Theodore got exactly what he deserved. Still, I feel like his talents can be put to good use. Once he's atoned for his sins, I plan to drag him back to the 5th Company. Not as an officer, obviously, but he can serve in the rank and file. Although it's too early to trust him completely — or me, for that matter.
+You trust me? And you have the strength to back it up? Hahahaha! Just what I'd expect from the Honorary Knight... As reliable as the rumors suggest. You'd make a good captain of the 5th Company, I'm sure Varka wouldn't object!
+
+### About the Vision
+
+This Vision has proved pretty useful out in the field. Just a shame it's only good for killing monsters I can touch — not the unseen ones that linger within.
+
+### Something to Share
+
+Ah, I don't drink. The only use I have for alcohol is disinfecting my wounds. In that regard, Dawn Winery's older Dandelion Wine is the most potent — both in terms of its disinfectant properties and the sweet stinging pain it delivers. Plus, when I use it on the others, I get to see them squirm — Varka's the most fun to watch. Hehehe!
+
+### Interesting Things
+
+I used to be allergic to Dandelions, but then Sucrose told me about "desensitization therapy." I filled my room with Dandelions and made sure to breathe deeply from time to time. Did it work? Put it this way, I don't sneeze around Dandelions anymore. But I must admit, I kind of miss the feeling of sneezing till I'm dizzy...
+
+### About Varka: Resistance to Medicine
+
+Varka's resistance to medicine keeps growing by the day. I mixed him a draught a few days ago that barely flushed his cheeks. If he hadn't glared at me afterwards, I'd have doubted whether I put the medicine in at all. *sigh*... If only we were still in Nod-Krai, I could drop in a few of those kuuvahki plants...
+
+### About Varka: Grand Master's Duties
+
+The Grand Master's duties? When it comes to Varka, it's mostly leading people into battle. The rest gets dumped on Jean, haha. Enemies, well, you can kill them for good, but paperwork... Paperwork never truly dies.
+
+### About Jean
+
+It's only because the Acting Grand Master was holding down the fort in Mondstadt that the "actual" Grand Master was able to swan off to Nod-Krai. Now that he's back... well, he'll likely continue to do as he pleases. I don't think much will change.
+
+### About Kaeya
+
+Kaeya has a real knack for imitating the other Captains' signatures, not to mention Jean's. In fact, his forgeries are so good, it's practically impossible to spot the difference. Kaeya says he only does it to sign off on his own applications for leave. Personally, I think he's telling the truth — too much moral fiber in that one, haha.
+
+### About Amber
+
+Amber said she's already talked things over with Acting Grand Master Jean. She asked for some recon officers to come help her out, though they won't be official outriders. Regardless, it's certainly cause to celebrate. Now, she won't have to fly back and forth over Mondstadt all by herself. Although come to think of it, the gliding license exam itself seems a bit outdated... Maybe it's time that got an update, too?
+
+### About Diluc
+
+Diluc... When you think about it, we both fell victim to the same scoundrel, but now that those scores have been settled, is he really never coming back to the Knights of Favonius? He can't go back to being the youngest captain, but he could sure have a go at being the oldest knight.
+
+### About Noelle
+
+Noelle's still not officially a knight, huh. How long's it been now? I thought for sure she'd have passed the selection trials... Is Varka holding out for some kind of special trial just for her? Her knightly title's gonna have to be pretty long to match the length of her training...
+
+### About Eula
+
+What stands out most about Eula is the sound of her boots stomping about the place. When she's in a rush, you can hear the "thump-thump-thump" from a floor away. Just like her fighting style — loud and penetrating, an impression so deep it's impossible to forget.
+
+### About Albedo
+
+The 5th Company's consumables are all developed by Albedo and the 8th Company. Our crossbow bolts, bullets, and various alchemical products are all top quality. I sometimes drop by Albedo's office with plans for new weapons research. Though recently, it's been Sucrose receiving my requests instead. Guess Albedo must be working on something big, again...
+
+### About Klee
+
+Varka told me he thinks that Fatui Harbinger, The Captain, could have taken out a Ruin Guard with just a crayon. So, I traded some snacks with Klee for a box of them, and I'm gonna bring them to Varka. Next time he runs into a monster, we'll see how formidable a weapon it really is.
+
+### About Mika
+
+Mika might be a skilled cartographer, but I'm even more skilled when it comes to sniffing out a lie. He once gave me a map where he deliberately left out all the monster gathering points, 'cause he was scared I'd charge in alone. But, y'know, one look at his face, and I knew exactly where the monsters were. Can't believe he thought silence would be enough to foil me.
+
+### More About Lohen: I
+
+Sorry to disappoint, but I don't have any deep, dark secrets worth sharing with anyone else.
+
+### More About Lohen: II
+
+I prefer to use a polearm, but I still belong to the 5th Company, so I make sure to keep up with my crossbow and musket practice. As for accuracy... Well, I'm pretty good at hitting Bloatty Floatties and Slimes. I don't even really need to aim. I heard there's something called a Specter in Inazuma that's really hard to hit? Maybe I can test my aim on one of those next time.
+
+### More About Lohen: III
+
+The 5th Company? Just an ordinary ranged support team, nothing worth mentioning. We can lay down some decent firepower, but if we're faced with... truly exceptional enemies, the most we can do is provide cover from the sidelines. Like that time we followed Varka to intercept the Rächer of Solnari... In the end, the main assault was left entirely to the Grand Master, while we were ordered to form a perimeter and hold off the Wild Hunt. That was the only way we wouldn't get swept up in his battle with Rerir.
+
+### More About Lohen: IV
+
+Why do I insist on using a polearm? I'll put it this way... the tastiest bait on the battlefield is the one who looks the most like a commander. I can draw the enemy's attention while giving everyone else the space to fire at will. As for dangerous enemies... Hahaha, the more intense it gets, the easier I find it to concentrate. That feeling of pure focus really is to die for... Just a pity that, ever since I left Nod-Krai, there have been too few battles where I can truly lose myself in the moment.
+
+### More About Lohen: V
+
+Do I feel fear when fighting at close quarters? Hah! Not as much as my enemy does. I'm no slouch, you know. Besides, I've got medics waiting in the rear... What if the enemy has them too? Hmm, then I'll just have to take out their medics first.
+
+### Lohen's Hobbies
+
+Besides the rush of battlefield slaughter, my favorite pastime is preparing little "surprises" to brighten the lives of my dearest brothers and sisters in arms. I consider it part of their training — knights need to stay vigilant at all times, after all.
+
+### Lohen's Troubles
+
+The good days of being stationed at Dornman Port are over. Now I'm back in Mondstadt, and Acting Grand Master Jean is nowhere near as easygoing as Grand Master Varka. *sigh*... Aren't there any more missions in the field they could send me on?
+
+### Favorite Food
+
+I like to eat spicy food. When I'm out on patrol, I often chew on dried Jueyun Peppers to keep myself alert... They're called "Jueyun Chilis"? Thanks for the heads up, but I think I'll stick to calling them peppers...
+
+### Least Favorite Food
+
+Don't drink, alright? When I was stationed in Nod-Krai, I was always woken up by drunken knights... By the end of the night, those guys couldn't even tell what they were drinking anymore, not even when I swapped their booze for... uhm, never mind, forget I said that.
+
+### Receiving a Gift: I
+
+Whew! Thank you, this is exactly what I like. In fact, it suits me so well... I suspect you've been secretly investigating my preferences! But I'm not mad — after all, I have my own file on you...
+
+### Receiving a Gift: II
+
+Back when I was learning how to poison meals, I got so good that no one suspected a thing... You've poisoned this already? Not to worry, I have a high tolerance for poison. In fact, I think I'll have some more.
+
+### Receiving a Gift: III
+
+...Well, this is clearly a trap, and one I think I'd best avoid. Next time, how about you let me do the cooking?
+
+### Birthday
+
+Today's your birthday, so I got you a mini-crossbow. I came up with the design myself. It should be the perfect size for your wrist... When did I measure your wrist? Don't worry, I did it by eye. You can trust my ability to gauge things like this — I'm vice captain of the 5th Company, after all. Oh, right, this crossbow can also fire backward, just in case someone sneaks up on you. You just press... here. Hahaha, no need to duck! The safety lock is still on. Do I look like the kind of person who gives a friend a crossbow just to watch them shoot themselves...
+
+### Feelings About Ascension: Intro
+
+I feel great. Even my weapon feels easier to handle.
+
+### Feelings About Ascension: Building Up
+
+I feel like I can see even further now... This should help improve my aim.
+
+### Feelings About Ascension: Climax
+
+It's like my mind's gotten so much clearer. Hah, I just thought of a new way to train.
+
+### Feelings About Ascension: Conclusion
+
+Guess I'm strong enough to be a "proper" vice captain now, huh?
+
+### Elemental Skill: I
+
+Let's fight!
+
+### Elemental Skill: II
+
+Tremble, I won't judge.
+
+### Elemental Skill: III
+
+Leave none standing!
+
+### Elemental Skill: IV
+
+Betcha weren't ready for this!
+
+### Elemental Skill: V
+
+Now's our chance!
+
+### Elemental Skill: VI
+
+Hmph!
+
+### Elemental Burst: I
+
+Like lambs to the slaughter.
+
+### Elemental Burst: II
+
+Struggle all you want!
+
+### Elemental Burst: III
+
+No fairytale ending for you!
+
+### Opening Treasure Chest: I
+
+Ah, the spoils of war. Let's see what's inside.
+
+### Opening Treasure Chest: II
+
+A meager haul... Still, it'd be rude not to take it.
+
+### Opening Treasure Chest: III
+
+Huh, no traps, no poison smoke... How unimaginative.
+
+### Low HP: I
+
+Hah... Keep it coming!
+
+### Low HP: II
+
+...This isn't over yet!
+
+### Low HP: III
+
+...Now that's my kind of opponent!
+
+### Ally at Low HP: I
+
+If you can't keep up, fall back!
+
+### Ally at Low HP: II
+
+My turn!
+
+### Fallen: I
+
+So this... is my limit...
+
+### Fallen: II
+
+I still haven't had... enough...
+
+### Fallen: III
+
+Wind... tell me why...
+
+### Light Hit Taken: I
+
+Cheap trick.
+
+### Light Hit Taken: II
+
+Didn't even feel it.
+
+### Heavy Hit Taken: I
+
+Got some fight in you, after all...
+
+### Heavy Hit Taken: II
+
+Heh...!
+
+### Joining Party: I
+
+Time for some action.
+
+### Joining Party: II
+
+Scout ahead? I'm on it.
+
+### Joining Party: III
+
+I'll guard our retreat.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+初次见面，我是第五小队的现任副队长洛恩。如果有任何需要西风骑士团协助的事务，请直接前往骑士团求助。如果需要我个人帮忙，那我们还得好好商量一下。
+
+### 闲聊·副队长
+
+想要成为队长，光有「队长级」的实力可不够。更重要的是…呵，我也不知道，不然我已经成队长了。
+
+### 闲聊·风的归处
+
+呼…果然还是待在蒙德城最舒服，等一会再去喝点苹果酿好了…
+
+### 闲聊·人际关系
+
+我在骑士团和大家的关系怎么样？嗯…至少，大家对我印象都挺深的，这样也还不错。
+
+### 下雨的时候…
+
+雨势不小啊，不知道又有多少东西被它冲刷殆尽了。
+
+### 雨过天晴…
+
+雨过天晴，权当之前那场雨从未发生。
+
+### 打雷的时候…
+
+雷声可以盖过许多东西，但绝对盖不住你自己的心跳。
+
+### 下雪的时候…
+
+我十分热爱猫尾酒馆…尤其是在这种天气下。
+
+### 起风的时候…
+
+起风了，可惜我手头没有蒲公英，不然撕点纸吧，感觉也差不多。
+
+### 在沙漠的时候…
+
+我非常怀念果酒湖。
+
+### 早上好…
+
+早上好。今天要忙什么？
+
+### 中午好…
+
+午饭吃过了？行啊，下午还有事要做呢。
+
+### 晚上好…
+
+今天晚上…嗯，给队员们来一趟「袭营训练」吧。
+
+### 晚安…
+
+晚安，记得早点休息。无论你怎么熬夜，明天都会到来的。
+
+### 关于洛恩自己·痛觉留存
+
+在平时治疗时，我尽量不使用麻醉类药物，一是这种东西会影响战斗，二是…呵，从某种角度来说，我还挺愿意在战斗之后仔细感受「痛觉」的，毕竟这证明我活了下来，而我的敌人，则什么都感受不到了。
+
+### 关于洛恩自己·力量与借口
+
+对于某些人来说，「力量」是一个很好用的借口，只要用上了它，任何失败和挫折都能找到原因，任何不安和恐惧都能寻见源头…或许，有一个明确的目标，确实能够给人们一种怪异的安全感吧。就算…这种「安全感」的背后，隐藏着更为恐怖和巨大的影子。
+
+### 关于我们·战斗方式
+
+我的战斗方式？哈哈哈哈哈，找到领头的，和他好好打一场，尽可能快地分出胜负，就这么简单。我的队友们应该都已经习惯了。当然了，不习惯也没用。
+
+### 关于我们·职责所在
+
+如你所见，我已经是副队长了，希奥多那个傻瓜也正在承受他该受的惩罚。不过在我看来，他的才能还能派上一些用场，等他赎完了罪，我还想把他捞回第五小队呢，但副官是做不了了，他就做个普通队员吧。不过，想要彻底相信他——还有我——都为时尚早。
+你相信我，也有那个相信我的「实力」？哈哈哈哈哈，不愧是「荣誉骑士」，和传闻中一样可靠。不然你直接来做我们「第五小队」的队长吧，法尔伽肯定会答应的。
+
+### 关于「神之眼」…
+
+在执行任务的时候，这枚「神之眼」的确派上了不少用场。可惜，它只能用来剿灭有形的魔兽，不能抚平无形的创害。
+
+### 有什么想要分享…
+
+我不喝酒，酒对我来说唯一的作用就是给伤口消毒。特别是晨曦酒庄的陈年蒲公英酒，消毒的效果和痛觉都很明显，而且在消毒的同时，我还能顺便欣赏一下我的同僚们——特别是法尔伽——抽搐的眼角，哈哈哈哈——
+
+### 感兴趣的见闻…
+
+我之前一直对蒲公英过敏，听砂糖说有一种「脱敏疗法」之后，我就买了许多蒲公英放在屋里，每隔一段时间就去主动吸入一点，以此来治疗我的过敏症状。结果怎么样？反正我现在遇见蒲公英已经不打喷嚏了。但我不得不说，打喷嚏打到头晕目眩的感觉，还是不可多得的。
+
+### 关于法尔伽·药物耐受
+
+法尔伽对于药物的抗性越来越高了，前几天我调配的药物居然只是让他红了红脸，要不是他瞪了我一眼，我都要怀疑自己究竟下没下药了。唉，要是还在挪德卡莱的话，我都想要给他掺点那种带月矩力的植物了…
+
+### 关于法尔伽·团长职责
+
+团长的职责？就法尔伽而言，基本上是带人出去打架吧。剩下的都被他甩给琴团长了，哈哈哈，毕竟敌人真的会被消灭，但文书工作真的没有终结啊。
+
+### 关于琴…
+
+正是因为有这位勤勉的代理团长坐镇蒙德城，「大团长」才能在挪德卡莱放手施为，现在他回到了蒙德城…好吧，他也会继续放手施为，情况好像没有什么改变。
+
+### 关于凯亚…
+
+凯亚很擅长模仿其他骑士小队队长的签名，特别是琴团长的签名，他伪造得堪称天衣无缝，几乎没有破绽。他练习这个的目的？凯亚说，这是为了自己给自己批假，我相信他，毕竟以他的品格，应该也做不出来更过分的事了…呵呵。
+
+### 关于安柏…
+
+听安柏说，她和琴团长商量好了，过段时间会有些不叫「侦察骑士」的侦察员来给她帮忙，可喜可贺啊，她总算不用一个人在蒙德城上空来回飞了。不过这么一想，飞行执照考试的条例和考纲是不是也很陈旧了，不然，也一起更新了吧？
+
+### 关于迪卢克…
+
+迪卢克老爷，还是应该说迪卢克「前辈」。从某个角度上来说，我们俩都被同一个混账坑害得不轻，现在新仇旧恨都已经清算完毕，他还不考虑回西风骑士团？就算不能做最年轻的队长了，也能做资历最老的队员啊。
+
+### 关于诺艾尔…
+
+诺艾尔还没有成为正式骑士啊，都过了这么长时间，我还以为她肯定通过骑士试炼了呢…不知道法尔伽在想什么，难道要给诺艾尔准备一个超级大试炼？那她的骑士称号到底要多厉害，才能配得上她的训练时长啊…
+
+### 关于优菈…
+
+我对优菈最深的印象，就是她那双靴子踢踏地板的声音，只要她脚步急一点，我隔着一层楼都能听见咚咚咚的声音，既响亮又有穿透力，就和优菈的剑术一样，印象深得根本忘不掉。
+
+### 关于阿贝多…
+
+第五小队所用的军备消耗品是第八小队和阿贝多一块开发的，弩箭、弹药和各类炼金产品的质量都很不错，我偶尔也会去拜访他的办公室，顺便委托他做些新的武器研究。不过，最近和我对接的人换成了砂糖，阿贝多应该是又去忙其他研究了吧…
+
+### 关于可莉…
+
+法尔伽之前和我说，他觉得那位愚人众执行官「队长」用蜡笔都能戳爆遗迹守卫，所以呢，我用好吃的和可莉换了一盒子蜡笔，准备带给法尔伽，到时候如果遇见了魔物，正好让他亲手试一试。
+
+### 关于米卡…
+
+米卡很擅长测绘，而我很擅长测谎。之前，他给我的测绘图上专门掩盖了魔物聚集点，就怕我一个人冲过去。而我只是看了看他的表情，就知道这张图上哪里的魔物最多。可惜啊米卡，沉默也没用。
+
+### 想要了解洛恩·其一
+
+抱歉啊，我没有什么阴暗深沉的「有趣秘密」。
+
+### 想要了解洛恩·其二
+
+虽然平时用长枪比较多，但我好歹也是第五小队的人，弩箭和铳枪的练习也是没落下的。至于准度…反正我打蓬蓬果和史莱姆挺准的，基本算是抬手就能中的程度吧。我听说稻妻有一种叫做飘浮灵的东西很难打？有意思，下次拿它试试手吧。
+
+### 想要了解洛恩·其三
+
+第五小队？只是一支普通的远程支援队伍而已，没什么值得说的。虽说我们的火力还算过得去，但要是对上某些…过于特殊的敌人，我们最多就只能在旁边做做掩护了。就像是跟随法尔伽阻击猎月人那次一样，到最后，主攻完全变成了大团长，我们都被命令散去周围阻击狂猎…只有这样，我们才不会被卷入他和猎月人的战斗里。
+
+### 想要了解洛恩·其四
+
+为什么我坚持用长枪？那是因为…战场上最好的诱饵，当然是看起来像是队伍主官的人啊，有我吸引住敌人，其他队员只要尽情开火就好。至于危险的敌人…哈哈哈，越是紧张，我越是能集中精神，那种极致的专注感非常美妙…可惜啊，离开挪德卡莱之后，能让我放手一战的地方太少了。
+
+### 想要了解洛恩·其五
+
+和敌人展开贴身战的时候害不害怕？怎么说呢，我觉得敌人那边应该「更」害怕吧。我出枪的速度是不会慢的。再说了，我背后还有医疗骑士等着呢…敌人也有怎么办？嗯，那我就只能尽可能抢先干掉对面的医疗人员了。
+
+### 洛恩的爱好…
+
+除了上战场厮杀，我平时的最大爱好，就是给我亲爱队友们的平淡生活，添上几分「惊喜」，这也算是日常训练的一环，骑士可得时时刻刻提高警惕啊。
+
+### 洛恩的烦恼…
+
+驻扎荆夫港的好日子结束了，回到蒙德城，琴团长可没有大团长那么好说话了，唉，就不能再给我派一点外勤任务吗？
+
+### 喜欢的食物…
+
+我比较喜欢吃辣一点的东西。平时在外面执勤的时候，也喜欢嚼点晒干的绝云椒提神…「那叫绝云椒椒」？谢谢，我只说一个「椒」字就好。
+
+### 讨厌的食物…
+
+别喝酒，好吗？在挪德卡莱驻扎的时候，我总是被那些喝多了的骑士们吵醒…这帮人喝到最后，已经不知道自己在喝什么了，就算我把酒换成了…呃，算了，没什么。
+
+### 收到赠礼·其一
+
+谢谢，很合我口味。这道菜好吃到…我都有点怀疑，你是不是偷偷调查过我了。没事的，我也调查过你，我们两清了。
+
+### 收到赠礼·其二
+
+我之前学习如何在饭菜里下毒的时候，基本上也是做到不会让任何人起疑的程度…你已经下毒了？噢，我对毒药的耐性很高，让我再吃点。
+
+### 收到赠礼·其三
+
+…这么直白的陷阱，我就…不主动往里面跳了。下次还是换我来做菜吧。
+
+### 生日…
+
+今天是你生日，拿着这把微型手弩吧，是我自己琢磨出来的，应该刚好能戴在你的手腕上…我什么时候量的尺寸？目测的，我可是第五小队副队长，相信我的目测能力。哦对了，这把手弩还能反向发射，以防有人背后偷袭嘛，只要摁这里…哈哈哈，别躲嘛，这柄手弩的安全锁还扣着呢，难道我看起来，像是那种送朋友手弩，然后看着他摁动发射扳机，把弩箭戳到自己身上的人吗？
+
+### 突破的感受·起
+
+感觉不错，武器都使得更顺手了。
+
+### 突破的感受·承
+
+好像能看得更远了…下次出枪的时候，应该能更准一些了。
+
+### 突破的感受·转
+
+头脑更清醒了，哈，突然想到了一个训练的新方法。
+
+### 突破的感受·合
+
+看来，以我现在的实力，应该足够做个「副队长」了？
+
+### 元素战技·其一
+
+开战了！
+
+### 元素战技·其二
+
+发抖吧。
+
+### 元素战技·其三
+
+一个不留！
+
+### 元素战技·其四
+
+出奇制胜。
+
+### 元素战技·其五
+
+时机正好。
+
+### 元素战技·其六
+
+哼。
+
+### 元素爆发·其一
+
+吵吵嚷嚷…待宰羔羊。
+
+### 元素爆发·其二
+
+挣扎——也没用！
+
+### 元素爆发·其三
+
+哈哈哈，你不会安息的。
+
+### 打开宝箱·其一
+
+收获颇丰啊，来吧，看看里面装了什么。
+
+### 打开宝箱·其二
+
+好像不太值钱啊…不过，反正是白捡的，拿上吧。
+
+### 打开宝箱·其三
+
+嗯，没有陷阱，也没有剧毒烟雾…没劲。
+
+### 生命值低·其一
+
+感觉不错…继续！
+
+### 生命值低·其二
+
+…还没完呢！
+
+### 生命值低·其三
+
+正好当我的对手！
+
+### 同伴生命值低·其一
+
+实力不足，就退后！
+
+### 同伴生命值低·其二
+
+让我尝尝！
+
+### 倒下·其一
+
+我的…局限…
+
+### 倒下·其二
+
+不…尽兴…
+
+### 倒下·其三
+
+风啊…告诉…我…
+
+### 普通受击·其一
+
+小伎俩。
+
+### 普通受击·其二
+
+一点感觉也没有。
+
+### 重受击·其一
+
+实力不错啊…
+
+### 重受击·其二
+
+呵…！
+
+### 加入队伍·其一
+
+走吧，活动活动。
+
+### 加入队伍·其二
+
+打头阵？行。
+
+### 加入队伍·其三
+
+这次我来殿后。

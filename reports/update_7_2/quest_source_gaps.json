@@ -1,0 +1,324 @@
+[
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 20101,
+    "subquest_id": 2010107,
+    "talk_id": 2010107
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 20101,
+    "subquest_id": 2010116,
+    "talk_id": 2010116
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 20101,
+    "subquest_id": 2010125,
+    "talk_id": 2010125
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 20101,
+    "subquest_id": 2010126,
+    "talk_id": 2010126
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 20101,
+    "subquest_id": 2010127,
+    "talk_id": 2010127
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 20101,
+    "subquest_id": 2010128,
+    "talk_id": 2010128
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 398,
+    "subquest_id": 39807,
+    "talk_id": 39806
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 1013,
+    "subquest_id": 101302,
+    "talk_id": 101302
+  },
+  {
+    "kind": "missing_dialog_localization",
+    "quest_id": 6026,
+    "talk_id": 602637,
+    "dialog_id": 60263701,
+    "hash": 3197820834,
+    "language": "ru"
+  },
+  {
+    "kind": "missing_dialog_localization",
+    "quest_id": 6026,
+    "talk_id": 602637,
+    "dialog_id": 60263701,
+    "hash": 3197820834,
+    "language": "zh"
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 3036,
+    "subquest_id": 303608,
+    "talk_id": 303608
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 3036,
+    "subquest_id": 303609,
+    "talk_id": 303609
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 3036,
+    "subquest_id": 303610,
+    "talk_id": 303610
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 465,
+    "subquest_id": 46522,
+    "talk_id": 46519
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 465,
+    "subquest_id": 46514,
+    "talk_id": 46509
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 465,
+    "subquest_id": 46518,
+    "talk_id": 46513
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 465,
+    "subquest_id": 46519,
+    "talk_id": 46514
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 465,
+    "subquest_id": 46521,
+    "talk_id": 46518
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 481,
+    "subquest_id": 48104,
+    "talk_id": 48104
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 481,
+    "subquest_id": 48106,
+    "talk_id": 48106
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 484,
+    "subquest_id": 48412,
+    "talk_id": 4840904
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 482,
+    "subquest_id": 48202,
+    "talk_id": 48202
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 482,
+    "subquest_id": 48204,
+    "talk_id": 4820403
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 482,
+    "subquest_id": 48205,
+    "talk_id": 48205
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 12005,
+    "subquest_id": 1200512,
+    "talk_id": 1200506
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 12005,
+    "subquest_id": 1200512,
+    "talk_id": 1200507
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 72263,
+    "subquest_id": 7226316,
+    "talk_id": 7226322
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 72263,
+    "subquest_id": 7226317,
+    "talk_id": 7226323
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 72263,
+    "subquest_id": 7226318,
+    "talk_id": 7226324
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 73017,
+    "subquest_id": 7301711,
+    "talk_id": 7301711
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 70067,
+    "subquest_id": 7006723,
+    "talk_id": 7006723
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 70068,
+    "subquest_id": 7006805,
+    "talk_id": 7006801
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 73251,
+    "subquest_id": 7325109,
+    "talk_id": 7325109
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 73257,
+    "subquest_id": 7325709,
+    "talk_id": 7325709
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 71103,
+    "subquest_id": 7110343,
+    "talk_id": 7110343
+  },
+  {
+    "kind": "missing_localization",
+    "quest_id": 75002,
+    "hash": 2931827324,
+    "language": "ru"
+  },
+  {
+    "kind": "missing_localization",
+    "quest_id": 75002,
+    "hash": 2931827324,
+    "language": "en"
+  },
+  {
+    "kind": "missing_localization",
+    "quest_id": 75002,
+    "hash": 3336901580,
+    "language": "ru"
+  },
+  {
+    "kind": "missing_localization",
+    "quest_id": 75002,
+    "hash": 3336901580,
+    "language": "en"
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77134,
+    "subquest_id": 7713437,
+    "talk_id": 7713405
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77134,
+    "subquest_id": 7713416,
+    "talk_id": 7713416
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77134,
+    "subquest_id": 7713423,
+    "talk_id": 7713423
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77134,
+    "subquest_id": 7713424,
+    "talk_id": 7713424
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77134,
+    "subquest_id": 7713425,
+    "talk_id": 7713425
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77134,
+    "subquest_id": 7713426,
+    "talk_id": 7713426
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77177,
+    "subquest_id": 7717703,
+    "talk_id": 7717703
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77146,
+    "subquest_id": 7714624,
+    "talk_id": 7714624
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77100,
+    "subquest_id": 7710005,
+    "talk_id": 7710005
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77100,
+    "subquest_id": 7710032,
+    "talk_id": 7710005
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77143,
+    "subquest_id": 7714323,
+    "talk_id": 7714312
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 77143,
+    "subquest_id": 7714322,
+    "talk_id": 7714303
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 76142,
+    "subquest_id": 7614208,
+    "talk_id": 7614205
+  },
+  {
+    "kind": "dangling_talk_reference",
+    "quest_id": 76142,
+    "subquest_id": 7614210,
+    "talk_id": 7614206
+  }
+]

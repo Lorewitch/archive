@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 10005
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_2078
 # quest_series: Witch's Homework
 # version_source: verified_override
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 10005
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 40
 
 ## RU
 
@@ -32,13 +35,15 @@
 
 Руководствуясь словарём ведьмы, вы отправляетесь на Драконий хребет, чтобы передать Альбедо новое задание...
 
+#### Отправляйтесь на Драконий хребет
+
 #### Поговорите с Альбедо
 
 **Паймон:** Альбедо! Паймон знала, что мы найдём тебя здесь. О! Ты рисуешь?
 
 **Альбедо:** Да. Наконец-то у меня появилось свободное время, и я решил взять кисть и попрактиковаться.
 
-Да, много чего произошло...
+- **Путешественник:** Да, много чего произошло...
 
 **Альбедо:** Несомненно. Благодаря твоей помощи и помощи моих товарищей-рыцарей, дело было решено без особых проблем.
 
@@ -52,9 +57,15 @@
 
 **Альбедо:** Никаких обязанностей, никаких задач, никаких проблем, которые нужно решать...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты в порядке?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты как будто расстроен...
+
+##### Общее продолжение
 
 **Альбедо:** Нет. Просто странно, когда не нужно ломать голову над решением всевозможных проблем...
 
@@ -70,25 +81,33 @@
 
 **Альбедо:** Ха-ха, надо учиться у лучших.
 
+##### Вариант ответа 1
+
 - **Путешественник:** А если ты ищешь неприятностей...
+
+##### Вариант ответа 2
 
 - **Путешественник:** ...у меня талант их находить.
 
-**Паймон:** (Путешественница)(Путешественник)! Не говори так! Ты нас сглазишь!
+##### Общее продолжение
 
-**Себас:** Непривычно видеть тебя мающимся бездельем, Альбедо.
+**Паймон:** Путешественник! Не говори так! Ты нас сглазишь! / Путешественница! Не говори так! Ты нас сглазишь!
 
-**Себас:** Но, учитывая, что ты выполнил последнее задание наставницы Рэйндоттир, полагаю, ты заслужил перерыв.
+**Альбедо:** Новые вопросы...
+
+**???:** Непривычно видеть тебя мающимся бездельем, Альбедо.
+
+**???:** Но, учитывая, что ты выполнил последнее задание наставницы Рэйндоттир, полагаю, ты заслужил перерыв.
 
 **Паймон:** Видишь! Что сказала Паймон? Ты нарываешься на неприятности, и они приходят!
 
 **Альбедо:** Себас? Что ты здесь делаешь?
 
-Ты знаешь этого кота, Альбедо?
+- **Путешественник:** Ты знаешь этого кота, Альбедо?
 
 **Альбедо:** Да. Он тоже одно из творений моей наставницы. Полагаю, это означает, что он... своего рода член семьи.
 
-У тебя очень необычная семья.
+- **Путешественник:** У тебя очень необычная семья.
 
 **Себас:** Хм, не смей разговаривать со мной в таком тоне. Знай, что я один поддерживаю порядок в огромном доме в роли дворецкого.
 
@@ -104,9 +123,15 @@
 
 **Паймон:** Э-э-эй! Забери свои слова обратно, ты, маленький...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это кот Рэйндоттир, Паймон...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Паймон, почему бы тебе не...
+
+##### Общее продолжение
 
 **Паймон:** Хм. Разумеется, но не жди, что Паймон будет слушать его бессвязную болтовню...
 
@@ -142,7 +167,7 @@
 
 **Себас:** Я очень устал, кхе... Я передал сообщение, так что не буду больше задерживаться в этой промёрзшей ловушке смерти. И вообще мне нужно передать отдельное сообщение в Мондштадт...
 
-Мондштадт?
+- **Путешественник:** Мондштадт?
 
 **Паймон:** Хм, кто ещё в Мондштадте имеет отношение к Рэйндоттир... О!
 
@@ -154,7 +179,7 @@
 
 **Паймон:** Знаешь, Альбедо... Паймон с каждой секундой всё больше теряется в хитросплетениях ваших семейных отношений...
 
-Да уж, даже кот имеется...
+- **Путешественник:** Да уж, даже кот имеется...
 
 **Паймон:** Кстати, он действительно считается членом семьи? Он называл себя дворецким, но...
 
@@ -170,9 +195,15 @@
 
 **Альбедо:** И по какой-то причине я часто выбираю Себаса... Я нарисовал так много его портретов, что это стало для меня естественным. Таким образом, мой ум остаётся свободным для размышлений о других вещах.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Кстати, раз уж об этом зашла речь...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...мы и прежде видели, как ты рисуешь котов.
+
+##### Общее продолжение
 
 **Паймон:** Да, мы думали, что это самый обычный кот! Похоже, он гораздо важнее...
 
@@ -192,15 +223,15 @@
 
 **Паймон:** Ой! С-Себас! Откуда ты взялся? Паймон не слышала, как ты пришёл!
 
-Какая встреча.
+- **Путешественник:** Какая встреча.
 
 **Альбедо:** О, так вы знакомы. Полагаю, Себас не рассказал вам о наших отношениях?
 
-Он сказал, что он твой «старший».
+- **Путешественник:** Он сказал, что он твой «старший».
 
 **Альбедо:** ...Если бы мне понадобилось дать определение, то... полагаю, так было бы справедливо.
 
-У тебя очень необычная семья.
+- **Путешественник:** У тебя очень необычная семья.
 
 **Себас:** Хм, не смей разговаривать со мной в таком тоне. Знай, что я один поддерживаю порядок в огромном доме в роли дворецкого.
 
@@ -216,9 +247,15 @@
 
 **Паймон:** Э-э-эй! Забери свои слова обратно, ты, маленький...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это кот Рэйндоттир, Паймон...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Паймон, почему бы тебе не...
+
+##### Общее продолжение
 
 **Паймон:** Хм. Разумеется, но не жди, что Паймон будет слушать его бессвязную болтовню...
 
@@ -254,9 +291,15 @@
 
 **Себас:** В общем, я передал сообщение. Мяу, для меня непонятно, почему ты настаиваешь на том, чтобы оставаться в таком месте. Ты мог бы остаться в Мондштадте, как тот другой...
 
+##### Вариант ответа 1
+
 - **Путешественник:** («Тот другой...»)
 
+##### Вариант ответа 2
+
 - **Путешественник:** (Он, наверное, имеет в виду Дурина...)
+
+##### Общее продолжение
 
 **Себас:** Я отвлёкся. Пора идти. Если я останусь здесь ещё хоть на секунду, мой хвост превратится в сосульку.
 
@@ -264,7 +307,7 @@
 
 **Паймон:** Знаешь, Альбедо... Паймон с каждой секундой всё больше теряется в хитросплетениях ваших семейных отношений...
 
-Да уж, даже кот имеется...
+- **Путешественник:** Да уж, даже кот имеется...
 
 **Паймон:** Кстати, он действительно считается членом семьи? Он называл себя дворецким, но...
 
@@ -280,9 +323,15 @@
 
 **Альбедо:** И по какой-то причине я часто выбираю Себаса... Я нарисовал так много его портретов, что это стало для меня естественным. Таким образом, мой ум остаётся свободным для размышлений о других вещах.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Кстати, раз уж об этом зашла речь...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...мы и прежде видели, как ты рисуешь котов.
+
+##### Общее продолжение
 
 **Паймон:** Да, мы думали, что это самый обычный кот! Похоже, он гораздо важнее...
 
@@ -302,13 +351,15 @@
 
 Guided by the witch's dictionary, you head to Dragonspine to bring Albedo a brand-new assignment...
 
+#### Go to Dragonspine
+
 #### Talk to Albedo
 
 **Paimon:** Hey, Albedo! Thought we'd find you here. Oh! Are you painting?
 
 **Albedo:** Yes. I finally have a moment to myself, so I decided to pick up my brush and get some practice in.
 
-Yeah, a lot of stuff has happened, huh...
+- **Traveler:** Yeah, a lot of stuff has happened, huh...
 
 **Albedo:** Indeed. Of course, thanks to your help, and my fellow Knights, that matter was resolved with little issue.
 
@@ -322,9 +373,15 @@ Yeah, a lot of stuff has happened, huh...
 
 **Albedo:** No responsibilities, no tasks, no problems to resolve...
 
+##### Response branch 1
+
 - **Traveler:** Are you okay?
 
+##### Response branch 2
+
 - **Traveler:** You make that sound like a bad thing...
+
+##### Shared continuation
 
 **Albedo:** It's not. It just feels strange, not having to wrack my brain for solutions to all manner of problems...
 
@@ -340,25 +397,33 @@ Yeah, a lot of stuff has happened, huh...
 
 **Albedo:** Haha, well, I suppose I should learn from the best.
 
+##### Response branch 1
+
 - **Traveler:** And if you're looking for trouble...
+
+##### Response branch 2
 
 - **Traveler:** I have a knack for finding it...
 
+##### Shared continuation
+
 **Paimon:** Traveler! Don't say things like that! You're gonna jinx us!
 
-**Sebas:** Strange to see you so idle, Albedo.
+**Albedo:** New questions...
 
-**Sebas:** But considering that you've completed Master Rhinedottir's final task, I suppose you deserve a break.
+**???:** Strange to see you so idle, Albedo.
+
+**???:** But considering that you've completed Master Rhinedottir's final task, I suppose you deserve a break.
 
 **Paimon:** See! What did Paimon tell you? You ask for trouble, and here it comes!
 
 **Albedo:** Sebas? What are you doing here?
 
-Wait. You know this cat, Albedo?
+- **Traveler:** Wait. You know this cat, Albedo?
 
 **Albedo:** Yes. He's also one of my master's creations. I suppose that makes him a... family member, of sorts.
 
-Ever the unconventional family you've got there.
+- **Traveler:** Ever the unconventional family you've got there.
 
 **Sebas:** Hmph, don't you take that tone with me. I'll have you know that I alone keep that giant house in order as its butler.
 
@@ -374,9 +439,15 @@ Ever the unconventional family you've got there.
 
 **Paimon:** Hey! You're not allowed to say the same answer that Paimon said, you—
 
+##### Response branch 1
+
 - **Traveler:** This cat belongs to Rhinedottir, Paimon...
 
+##### Response branch 2
+
 - **Traveler:** Might be best if you...
+
+##### Shared continuation
 
 **Paimon:** Ugh. Sure, but don't expect Paimon to listen to his rambling...
 
@@ -412,7 +483,7 @@ Ever the unconventional family you've got there.
 
 **Sebas:** Well, I've passed the message along, so I shan't tarry in this frozen deathtrap for a second longer. I need to deliver a separate message to Mondstadt, at any rate...
 
-Mondstadt?
+- **Traveler:** Mondstadt?
 
 **Paimon:** Huh, who else would have a connection to Rhinedottir in Mondstadt... Oh!
 
@@ -424,7 +495,7 @@ Mondstadt?
 
 **Paimon:** Y'know, Albedo... Your family gets more confusing by the second...
 
-Yeah, now you're even adding a cat to the mix...
+- **Traveler:** Yeah, now you're even adding a cat to the mix...
 
 **Paimon:** Speaking of, would that cat really count as a family member? He called himself a butler and all, but...
 
@@ -440,9 +511,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **Albedo:** And, for some reason, I often wind up choosing a portrait of Sebas... I have drawn so many at this point that it's become second nature. Thus, this leaves my mind free to consider other things.
 
+##### Response branch 1
+
 - **Traveler:** Now that you mention it...
 
+##### Response branch 2
+
 - **Traveler:** We've seen you draw a cat before...
+
+##### Shared continuation
 
 **Paimon:** Yeah, we thought it was just a random cat! Guess he was a way bigger deal than we thought...
 
@@ -462,15 +539,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **Paimon:** Whoa! S—Sebas! Where did you come from? Paimon didn't hear a thing!
 
-Nice to see you again.
+- **Traveler:** Nice to see you again.
 
 **Albedo:** Oh, so you've met. I don't suppose Sebas told you of our relation to each other, did he...
 
-He said he was your "elder."
+- **Traveler:** He said he was your "elder."
 
 **Albedo:** ...If I had to put a label on it, then... I suppose that's fair.
 
-Ever the unconventional family you've got there.
+- **Traveler:** Ever the unconventional family you've got there.
 
 **Sebas:** Hmph, don't you take that tone with me. I'll have you know that I alone keep that giant house in order as its butler.
 
@@ -486,9 +563,15 @@ Ever the unconventional family you've got there.
 
 **Paimon:** Hey! You're not allowed to say the same answer that Paimon said, you—
 
+##### Response branch 1
+
 - **Traveler:** This cat belongs to Rhinedottir, Paimon...
 
+##### Response branch 2
+
 - **Traveler:** Might be best if you...
+
+##### Shared continuation
 
 **Paimon:** Ugh. Sure, but don't expect Paimon to listen to his rambling...
 
@@ -524,9 +607,15 @@ Ever the unconventional family you've got there.
 
 **Sebas:** In any case, you have your message. Why you insist on staying in a place like this is beyond me. Couldn't you have stayed in Mondstadt like that other fellow...
 
+##### Response branch 1
+
 - **Traveler:** ("That other fellow...")
 
+##### Response branch 2
+
 - **Traveler:** (He must be talking about Durin...)
+
+##### Shared continuation
 
 **Sebas:** But I digress. I shall be on my way. If I stay here a second longer, my tail might turn into an icicle.
 
@@ -534,7 +623,7 @@ Ever the unconventional family you've got there.
 
 **Paimon:** Y'know, Albedo... Your family gets more confusing by the second...
 
-Yeah, now you're even adding a cat to the mix...
+- **Traveler:** Yeah, now you're even adding a cat to the mix...
 
 **Paimon:** Speaking of, would that cat really count as a family member? He called himself a butler and all, but...
 
@@ -550,9 +639,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **Albedo:** And, for some reason, I often wind up choosing a portrait of Sebas... I have drawn so many at this point that it's become second nature. Thus, this leaves my mind free to consider other things.
 
+##### Response branch 1
+
 - **Traveler:** Now that you mention it...
 
+##### Response branch 2
+
 - **Traveler:** We've seen you draw a cat before...
+
+##### Shared continuation
 
 **Paimon:** Yeah, we thought it was just a random cat! Guess he was a way bigger deal than we thought...
 
@@ -572,13 +667,15 @@ Yeah, now you're even adding a cat to the mix...
 
 根据魔女所赠予的辞典的引导，你们需要前往雪山，为阿贝多带去…新的课业？
 
+#### 前往龙脊雪山
+
 #### 与阿贝多对话
 
 **派蒙:** 阿贝多，你果然在这里呀。嗯…你是在画画么？
 
 **阿贝多:** 嗯，之前太忙没空画画，最近正好闲下来，想着重新捡起画笔，练习一下。
 
-之前确实经历好多事。
+- **旅行者:** 之前确实经历好多事。
 
 **阿贝多:** 是啊。但好在有你们和骑士团的大家协助，算是有惊无险地解决了那件事。
 
@@ -592,9 +689,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **阿贝多:** 没有课题，没有事务，没有麻烦…
 
+##### 对话分支 1
+
 - **旅行者:** 怎么了？
 
+##### 对话分支 2
+
 - **旅行者:** 是遇见新麻烦了？
+
+##### 共同后续
 
 **阿贝多:** 没什么。我想，或许是习惯了每天都高频用脑的日子吧…
 
@@ -610,25 +713,33 @@ Yeah, now you're even adding a cat to the mix...
 
 **阿贝多:** 呵呵，那就要请派蒙好好教教我了。
 
+##### 对话分支 1
+
 - **旅行者:** 要是你真想找点麻烦解决…
+
+##### 对话分支 2
 
 - **旅行者:** 那也好办，只要有我在…
 
+##### 共同后续
+
 **派蒙:** 呸呸呸，不许说！每次你说这种话的时候，麻烦就会——
 
-**赛巴斯:** 阿贝多，难得见到你这么闲。
+**阿贝多:** …新的，问题…
 
-**赛巴斯:** 不过，既然完成了莱茵多特主人留下的「课题」，你确实也应该放松放松。
+**？？？:** 阿贝多，难得见到你这么闲。
+
+**？？？:** 不过，既然完成了莱茵多特主人留下的「课题」，你确实也应该放松放松。
 
 **派蒙:** 你看！你话都没说完，麻烦就找上门了啊！
 
 **阿贝多:** 赛巴斯，你怎么来了？
 
-阿贝多认识它？
+- **旅行者:** 阿贝多认识它？
 
 **阿贝多:** 是，它也是我老师莱茵多特的造物，勉强算是我的「家庭成员」吧。
 
-不愧是你的家庭关系。
+- **旅行者:** 不愧是你的家庭关系。
 
 **赛巴斯:** 勉强？你这是什么口气，那么大一个屋子，就我一个管家。
 
@@ -644,9 +755,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **派蒙:** 你，你你你…好生气！我要…
 
+##### 对话分支 1
+
 - **旅行者:** 它的主人是莱茵多特…
 
+##### 对话分支 2
+
 - **旅行者:** 派蒙，不然还是…
+
+##### 共同后续
 
 **派蒙:** 我…我要拒绝听它讲话了！
 
@@ -682,7 +799,7 @@ Yeah, now you're even adding a cat to the mix...
 
 **赛巴斯:** 你已经听到口信了，我就不在这个冷得要命的地方陪你玩了。我接下来还得去蒙德城里送口信呢。
 
-蒙德城？
+- **旅行者:** 蒙德城？
 
 **派蒙:** 蒙德城里还有和莱茵多特有关的人…啊！难道说…
 
@@ -694,7 +811,7 @@ Yeah, now you're even adding a cat to the mix...
 
 **派蒙:** 阿贝多…你的家庭关系，好像越来越复杂了呢…
 
-又突然冒出来这么一只猫…
+- **旅行者:** 又突然冒出来这么一只猫…
 
 **派蒙:** 但话又说回来，这只猫真的能算成你的「家庭成员」吗？虽然它自称是管家什么的…
 
@@ -710,9 +827,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **阿贝多:** 这个时候，我一般就会选择默画赛巴斯的画像…毕竟画了不知道多少遍，已经很熟练了，基本不用动脑。
 
+##### 对话分支 1
+
 - **旅行者:** 这么一说…
 
+##### 对话分支 2
+
 - **旅行者:** 之前确实见过阿贝多画猫…
+
+##### 共同后续
 
 **派蒙:** 我还以为那就是普普通通的一只小猫呢！怎么来头也这么大…
 
@@ -732,15 +855,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **派蒙:** 呜哇！赛、赛巴斯，你是从哪里冒出来的？一点动静也没有。
 
-赛巴斯，又见面了。
+- **旅行者:** 赛巴斯，又见面了。
 
 **阿贝多:** 看来你之前见过赛巴斯了。不知道它有没有告诉你，我和它之间的关系。
 
-它说是你的「长辈」。
+- **旅行者:** 它说是你的「长辈」。
 
 **阿贝多:** …勉强算是吧。
 
-不愧是你的家庭关系。
+- **旅行者:** 不愧是你的家庭关系。
 
 **赛巴斯:** 勉强？你这是什么口气，那么大一个屋子，就我一个管家。
 
@@ -756,9 +879,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **派蒙:** 你，你你你…好生气！我要…
 
+##### 对话分支 1
+
 - **旅行者:** 它的主人是莱茵多特…
 
+##### 对话分支 2
+
 - **旅行者:** 派蒙，不然还是…
+
+##### 共同后续
 
 **派蒙:** 我…我要拒绝听它讲话了！
 
@@ -794,9 +923,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **赛巴斯:** 总之，口信已经全部带到了。你为什么非得待在这个地方，和那位一样，待在蒙德城里不好吗…
 
+##### 对话分支 1
+
 - **旅行者:** （蒙德城里的「那位」…）
 
+##### 对话分支 2
+
 - **旅行者:** （应该说的就是杜林吧…）
+
+##### 共同后续
 
 **赛巴斯:** 好了好了，我真的要走了，这地方太冷，冻得我尾巴痛。
 
@@ -804,7 +939,7 @@ Yeah, now you're even adding a cat to the mix...
 
 **派蒙:** 阿贝多…你的家庭关系，好像越来越复杂了呢…
 
-又突然冒出来这么一只猫…
+- **旅行者:** 又突然冒出来这么一只猫…
 
 **派蒙:** 但话又说回来，这只猫真的能算成你的「家庭成员」吗？虽然它自称是管家什么的…
 
@@ -820,9 +955,15 @@ Yeah, now you're even adding a cat to the mix...
 
 **阿贝多:** 这个时候，我一般就会选择默画赛巴斯的画像…毕竟画了不知道多少遍，已经很熟练了，基本不用动脑。
 
+##### 对话分支 1
+
 - **旅行者:** 这么一说…
 
+##### 对话分支 2
+
 - **旅行者:** 之前确实见过阿贝多画猫…
+
+##### 共同后续
 
 **派蒙:** 我还以为那就是普普通通的一只小猫呢！怎么来头也这么大…
 

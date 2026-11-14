@@ -146,5 +146,1044 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Рыцарь Искорка из Ордо Фавониус явилась на службу! ...Там было что-то ещё, но я забыла. У Кли не очень хорошая память...",
+        "en": "Spark Knight Klee of the Knights of Favonius, reporting for duty! ...There's some more, but uh, I forgot. I'm not so good at remembering...",
+        "zh": "西风骑士团，「火花骑士」，可莉，前来报到！…呃——后面该说什么词来着？可莉背不下来啦…"
+      },
+      "source_id": 18009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Добыча",
+        "en": "Chat: Spoils",
+        "zh": "闲聊·收获"
+      },
+      "text": {
+        "ru": "Сегодня Кли была самой храброй! Я нашла очень странную ящерицу! Хочешь, я тебе её покажу?",
+        "en": "Klee was a brave girl today! I found a really weird-looking lizard! Want me to show it to you?",
+        "zh": "可莉今天又勇敢地抓到了花纹奇怪的蜥蜴！从没见过这种图案，你要看看吗？"
+      },
+      "source_id": 18010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Приключения",
+        "en": "Chat: Adventures",
+        "zh": "闲聊·冒险"
+      },
+      "text": {
+        "ru": "Пойдёшь со мной глушить рыбу? Меня закроют на весь день, но это того стоит! Ведь рыба такая вкусная!",
+        "en": "Do you wanna come fish blasting with me? I'll get grounded for a whole day, but it's way worth it 'cuz the fish taste sooo goood!",
+        "zh": "要和可莉一起去炸鱼吗？虽然被抓住就是一整天的禁闭，但鱼很好吃，所以值得！"
+      },
+      "source_id": 18011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Правила",
+        "en": "Chat: Rules",
+        "zh": "闲聊·守则"
+      },
+      "text": {
+        "ru": "«В городе что-то взорвётся - Кли плохо придётся»; «Если кого-то поранит, Джинн злая станет»; «Если в Мондштадте бум случится, Кли за решёткой очутится» - вот правила выживания в Ордо Фавониус для Кли.",
+        "en": "\"Explosion inside city wall, grounded be thy woe,\" \"Explosions can hurt people, Jean can be dreadful,\" \"Mondstadt be bombed, Klee be doomed.\" Those're the survival rules that the Knights of Favonius gave me.",
+        "zh": "「城里放炮禁闭室报到」、「炸弹伤人琴找上门」、「放火烧山可莉完蛋」——这就是可莉在骑士团的生存守则。"
+      },
+      "source_id": 18012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Муа-ха-ха-ха, повезло, что все мои бомбы - непромокайки!",
+        "en": "Mwuhahaha, lucky all my new bombs are waterproof!",
+        "zh": "哼哼哼，这次的炸弹可是防水的。"
+      },
+      "source_id": 18013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "А?! Я что-то взорвала?! Ох, это всего лишь гром гремит...",
+        "en": "What'd I blow up!? ...Oh wait, it's just thunder and lightning. Phew.",
+        "zh": "啊！什么东西爆炸了？！…哦，是打雷啊。"
+      },
+      "source_id": 18014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Дорогой Анемо Архонт, пожалуйста, сделай так, чтобы бомбы Кли летели в правильную сторону и взрывали только плохих злодеев. Конец.",
+        "en": "Dear Anemo God, please make Klee's bombs blow in the right direction and only blow up bad guys. The end.",
+        "zh": "风神保佑，把可莉的炸弹往合适的地方吹吧。"
+      },
+      "source_id": 18015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Можно сегодня с тобой поиграть? Пожа-а-алуйста? Пошли за приключениями!",
+        "en": "Good morning! Can I come play with you today? Pleeeease? I wanna go on an adventure!",
+        "zh": "早安！带可莉出去玩吧！我们一起来冒险！"
+      },
+      "source_id": 18016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Обед! Что ты будешь? Давай посмотрим, может в «Путеводителе по Тейвату» есть что-нибудь интересненькое...",
+        "en": "Lunchtime! What do you wanna eat today? Let me see if the Teyvat Travel Guide has any suggestions...",
+        "zh": "午饭时间到了！啊…吃什么呢？我来看看《提瓦特游览指南》…"
+      },
+      "source_id": 18017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер! Можешь сказать Хоффману, что Кли уже не ребёнок и ей можно выходить играть по вечерам? Пожалуйста, возьми меня с собой поиграть!",
+        "en": "Good evening! Can you please tell Huffman that Klee is not a baby and is definitely allowed out to play at night? Please take me out to play together!",
+        "zh": "晚上好！拜托你也帮我跟霍夫曼先生说说吧，可莉不是小孩子了，可莉晚上也可以出去玩——带我出去玩——"
+      },
+      "source_id": 18018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Эй... Хм... Я знаю, что сказала, что не хочу домой, но уже ночь и я заблудилась в темноте, и не знаю, как вернуться... Можешь проводить меня домой? Пожалуйста?",
+        "en": "Hey... Um... I know I said I don't wanna go home and all, but now it's nighttime and I can't find my way home in the dark... Can you please take me home on your way back? Pleeeease?",
+        "zh": "虽然出来玩的时候说不想回家，但天黑以后的旷野，不认识路…拜、拜托你回去的时候，把我也送回家好不好…"
+      },
+      "source_id": 18019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "О Кли: Несчастные случаи",
+        "en": "About Klee: Incidents",
+        "zh": "关于可莉自己·肇事"
+      },
+      "text": {
+        "ru": "Ох... Я сломала одну из лопастей на мельнице. Мне очень жаль...",
+        "en": "Ohhhhh... I broke one of the blades on the windmill— I'm really sorry!",
+        "zh": "呜…这次居然炸歪了大风车的叶片…真对不起！"
+      },
+      "source_id": 18020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Кли: Компенсация",
+        "en": "About Klee: Reparations",
+        "zh": "关于可莉自己·赔偿"
+      },
+      "text": {
+        "ru": "Кстати, у меня очень хорошо получается чинить всякие вещи. Я могу помочь! Что? Что значит «детский труд»? Это значит, что я не могу помочь?",
+        "en": "I'm really good at fixing things though. I can help! Huh? What do you mean that's child labor? What even is child labor? Does that mean I can't help?",
+        "zh": "我，我还挺会做手工的，请让我帮你们重新做一个…什么？禁止雇佣童工？呜…"
+      },
+      "source_id": 18021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Рыцари",
+        "en": "About Us: Knights",
+        "zh": "关于我们·骑士"
+      },
+      "text": {
+        "ru": "Хе-хе, да, ты почётный рыцарь, но я стала Рыцарем Искоркой намного раньше... Это значит, что я круче тебя, да? Поэтому ты должен делать то, что я тебе говорю! Эм... Ты можешь никому ничего не говорить о произошедшем? Это был несчастный случай... / Хе-хе, да, ты почётный рыцарь, но я стала Рыцарем Искоркой намного раньше... Это значит, что я круче тебя, да? Поэтому ты должна делать то, что я тебе говорю! Эм... Ты можешь никому ничего не говорить о произошедшем? Это был несчастный случай...",
+        "en": "Hee-hee, you're an Honorary Knight but I've been a Spark Knight longer... That means I'm higher up than you, right? So you have to do what I say! So, um... Ca—Can you not say anything about the big disaster I caused? It was an accident...",
+        "zh": "呼呼…荣誉骑士，可莉作为「火花骑士」，可以说是你在西风骑士团的前辈喔？所以！所以…这次我闯的祸，能不能帮我隐瞒一下…"
+      },
+      "source_id": 18022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Друзья",
+        "en": "About Us: Playmates",
+        "zh": "关于我们·玩伴"
+      },
+      "text": {
+        "ru": "Нет! Сейчас только девять часов. Я останусь смотреть выступление цирка в полночь. Ты должен быть моим лучшим другом! Даже не думай отправлять меня домой! / Нет! Сейчас только девять часов. Я останусь смотреть выступление цирка в полночь. Ты должна быть моим лучшим другом! Даже не думай отправлять меня домой!",
+        "en": "No! It's only nine o'clock, I'm staying up to watch the circus' special midnight performance! You're supposed to be my best friend! Don't even think about trying to send me home!",
+        "zh": "不行！才九点，可莉今晚一定要撑到看完马戏团的午夜专场！你是可莉的玩伴吧！那就别想现在就把我送回家，略略略略…"
+      },
+      "source_id": 18023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Эта стекляшка - подарок от Анемо Архонта, который говорит, что я молодец? Но что я такого сделала? Хм, всё-таки он бог свободы, наверное, поэтому я ему понравилась? Хорошо, с этого момента я буду благодарить Барбатоса и свободно взрывать столько рыбы, сколько захочу! Я всё правильно делаю?",
+        "en": "This little marble is supposed to be a present from Barbatos to say well done? Well done for what though? ...Hmm, he is the god of freedom I guess, maybe that's why he likes me? Alright, from now on I'll say thank you to Barbatos by showing that I have the freedom to blow up as many fish as I want! ...Am I doing it right?",
+        "zh": "这个小小的玻璃球，就代表了巴巴托斯大人对可莉的肯定吗…唔…究竟是认可了我的哪一部分呢？是自由吗？那以后要不要更自由地出去炸鱼，来回应巴巴托斯大人的期待呢…？"
+      },
+      "source_id": 18024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Нельзя взрывать стены в штабе Ордо Фавониус. Как жаль, ведь тогда бы можно было легко сбегать из заключения... Но если бы я попыталась взорвать стену, Джинн засадила бы меня за решётку навсегда. Кэйа сказал, что она сама так сказала.",
+        "en": "At the Knights of Favonius building, you're not allowed to blow up the walls. Shame, it would make getting out of solitary confinement way easier... but if I did so much as try to blow up the wall, Jean would make sure Klee never sees the light of day again. That's what Jean said, Kaeya told me.",
+        "zh": "可莉知道，骑士团的墙是不能炸的。虽然打通了能从禁闭室出去很方便，但凯亚哥哥说，这样做了以后，琴团长恐怕会让我再也见不到第二天的太阳…"
+      },
+      "source_id": 18025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "На спине у ящериц разные узоры, и из сушёных хвостов некоторых ящериц можно делать порох. Я знаю, потому что мне рассказал Альбедо.",
+        "en": "Every lizard has a different pattern on his back, and some of them you can use their dried-out tails to make gunpowder with. I know because Albedo told me so.",
+        "zh": "每一只蜥蜴的花纹都是不同的，有些蜥蜴的尾巴干燥以后磨成粉，可以当做炸药的材料哦。这是阿贝多哥哥告诉我的事。"
+      },
+      "source_id": 18026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О Рэйзоре...",
+        "en": "About Razor",
+        "zh": "关于雷泽…"
+      },
+      "text": {
+        "ru": "Мы с Рэйзором лучшие друзья! Когда случается какая-то проблема, он быстро находит решение и делает так, чтобы я не волновалась. Но... большинство этих проблем происходят из-за меня...",
+        "en": "Razor's one of my best buddies! Whenever a disaster happens, he always knows the best way to fix it and helps keep Klee safe. Um, but most of the time I'm the one who caused the disaster...",
+        "zh": "我们是朋友！雷泽努力对抗危机、保护可莉的样子，让人安心！…唔…虽然基本上都是我把危机带到他身边的…"
+      },
+      "source_id": 18027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О родителях...",
+        "en": "About the Parents",
+        "zh": "关于父母…"
+      },
+      "text": {
+        "ru": "Мои мама с папой - самые крутые искатели приключений в Тейвате! Мама пишет «Путеводитель по Тейвату», поэтому все рестораны и постоялые дворы в мире пытаются им угодить.",
+        "en": "My mom and dad are the famousest travelers in Teyvat! Mom writes the Teyvat Travel Guide, so all the restaurants and hotels in the whole world care what she thinks about them.",
+        "zh": "爸爸和妈妈都是全大陆有名的旅行家！妈妈写的《提瓦特游览指南》，有好多餐馆和旅店都很在意它的权威评价呢。"
+      },
+      "source_id": 18028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Кэйе...",
+        "en": "About Kaeya",
+        "zh": "关于凯亚…"
+      },
+      "text": {
+        "ru": "Кэйа самый лучший! Он помог мне написать «Правила выживания в Ордо Фавониус» и он всегда помогает мне, если я попадаю в какие-нибудь неприятности.",
+        "en": "Kaeya is the best! He wrote the Favonius Survival Rulebook for me and he always helps me cover it up when I make a big disaster.",
+        "zh": "凯亚哥哥是好人！《骑士团生存守则》就是凯亚哥哥帮可莉写的。可莉闯祸的时候，他也经常帮忙遮掩呢。"
+      },
+      "source_id": 18029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Об Эмбер...",
+        "en": "About Amber",
+        "zh": "关于安柏…"
+      },
+      "text": {
+        "ru": "Эмбер самая лучшая! Барон Зайчик такой пушистый, он ещё и взрывается! Так круто!",
+        "en": "Amber is the best! Baron Bunny is so fluffy and he even explodes! So. Cool.",
+        "zh": "安柏姐姐是好人！兔兔伯爵摸起来也是毛茸茸的，而且还会爆炸，太棒了！"
+      },
+      "source_id": 18030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Джинн...",
+        "en": "About Jean",
+        "zh": "关于琴…"
+      },
+      "text": {
+        "ru": "Джинн самая лучшая! Но я её боюсь...",
+        "en": "Master Jean is the best! But she's also a little bit scary.",
+        "zh": "琴团长是好人！虽然…有点可怕…"
+      },
+      "source_id": 18031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克…"
+      },
+      "text": {
+        "ru": "Взрослый ворчун... Почему он никогда не улыбается?",
+        "en": "He's one of the weird grown-ups. He's so grumpy all the time... Why does he never smile?",
+        "zh": "奇怪的大人，一直都是不太开心的样子。唔…为什么不喜欢笑呢？"
+      },
+      "source_id": 18032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Лиза самая лучшая! Она всегда угощает меня какими-нибудь вкусняшками, когда я прихожу к ней в мастерскую. Хм... Я совсем забыла, что хотела попроситься сделать себе немного пороха в её мастерской.",
+        "en": "Lisa is the best! She always sneaks me some treats when I visit her at the workshop. ...Huh, I just remembered I was gonna ask her if I could use the workshop to make some new gunpowder. But I totally forgot...",
+        "zh": "丽莎阿…丽莎姐姐是好人！每次可莉靠近她的工坊，她就会给可莉好吃的茶点…欸？说起来我想进她的工坊，好像一开始是想做新的炸药来着…？"
+      },
+      "source_id": 18033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Беннете...",
+        "en": "About Bennett",
+        "zh": "关于班尼特…"
+      },
+      "text": {
+        "ru": "Беннет самый лучший! С ним я нахожу так много сокровищ, но он почему-то не находит ничего. Интересно, почему...",
+        "en": "Bennett is the best! I always find way more treasure if I go adventuring with Bennett! ...But he never finds any. Why is that, anyway?",
+        "zh": "班尼特哥哥是好人！和他一起冒险，可莉总能有更多收获！…虽然班尼特哥哥自己总是什么宝物都找不到，嗯…这是为什么呢？"
+      },
+      "source_id": 18034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Дионе...",
+        "en": "About Diona",
+        "zh": "关于迪奥娜…"
+      },
+      "text": {
+        "ru": "Диона самая лучшая! Она сказала: «Я уничтожу всю винную индустрию в этом городе». А я ей помогу своими бомбами! Только вот я не знаю, что такое «винная индустрия». Это такой монстр?",
+        "en": "Diona is the best! I like listening to her, last time I heard her say, \"I'm gonna destroy the wine industry in this city if it's the last thing I do!\" And I'm gonna help her using my bombs! ...I don't know what a wine industry is though. Is it a monster?",
+        "zh": "迪奥娜姐姐是好人！「靠一己之力摧毁蒙德酒业」的想法好有趣，可莉也要用炸弹来帮忙！——呃，虽然不太懂什么叫做「蒙德酒业」，是怪物吗？"
+      },
+      "source_id": 18035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Об Альбедо...",
+        "en": "About Albedo",
+        "zh": "关于阿贝多…"
+      },
+      "text": {
+        "ru": "У нас с Альбедо есть секретный пароль! Каждый раз, когда он вывешивает на дверь табличку «Не беспокоить, проводится эксперимент», - это значит «Приходи в другой раз, Кли». Альбедо такой хороший и терпеливый. Я совсем не против подождать, пока он закончит свою работу.",
+        "en": "Me and Albedo have a secret code! Whenever he puts a sign on his workshop door saying \"Experiment in Progress,\" that's code for \"Come Back Later, Klee.\" Albedo's really nice and he's so patient with me, so I don't mind waiting until he's finished with his work.",
+        "zh": "阿贝多哥哥跟可莉有个秘密的约定！要是可莉看到工坊门前挂着「实验进行中」的牌子，就要晚点再去找他。阿贝多哥哥不工作的时候，会很耐心地陪着可莉，所以可莉也会很耐心地等着的！"
+      },
+      "source_id": 18036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Моне...",
+        "en": "About Mona",
+        "zh": "关于莫娜…"
+      },
+      "text": {
+        "ru": "Мона самая лучшая! Нам так весело играть вместе с ней и Альбедо. Но она часто говорит вещи, которые я не понимаю... Но всё равно с ней очень весело!",
+        "en": "Mona is the best! It's so much fun when she comes to play with me and Albedo. She talks about all these amazing things, and I don't understand most of it but... Ah, I just love it when Mona comes round!",
+        "zh": "莫娜姐姐是好人！她每次找阿贝多哥哥和可莉玩的时候，都会说好多听不明白，但是很有趣的东西！可莉喜欢她来玩！"
+      },
+      "source_id": 18037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Сахарозе...",
+        "en": "About Sucrose",
+        "zh": "关于砂糖…"
+      },
+      "text": {
+        "ru": "Сахароза самая лучшая! Она спросила, хочу ли я прыг-скок бомбу, которая бы ещё и бегала. Конечно, я хочу! Не меньше ста штук! И я раскидаю их по всему Мондштадту, на каждой улочке, сквере и лестнице!",
+        "en": "Sucrose is the best! This one time she asked me if I wanted a Jumpy Dumpty that can run as well as jump. Tee-hee, well duh! Of course I do, I want hundreds of them! I wanna put them on every street, every staircase, and every square in Mondstadt!",
+        "zh": "砂糖姐姐是好人！她问我，想不想要一个会跑会跳的蹦蹦！嘿嘿嘿，当然想要了，我还想要好几百个，让蒙德的街道上，台阶上，广场上，全是蹦蹦！"
+      },
+      "source_id": 18038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Кли I",
+        "en": "More About Klee: I",
+        "zh": "想要了解可莉·其一"
+      },
+      "text": {
+        "ru": "Привет! Ты пришёл поиграть с Кли? / Привет! Ты пришла поиграть с Кли?",
+        "en": "Hello, are you here for playtime with Klee?",
+        "zh": "你好！你是来找可莉玩的吗？"
+      },
+      "source_id": 18039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Кли II",
+        "en": "More About Klee: II",
+        "zh": "想要了解可莉·其二"
+      },
+      "text": {
+        "ru": "Да! Это моя новая бомба, теперь она ещё круче! Что думаешь? Классно, правда? Только... Если ты увидишь такую где-нибудь рядом с огнём, то это не моя. Не. Моя.",
+        "en": "Yeah! This is my new and improved bomb! Whaddya think? Great huh? ...Oh, but ahh... If you find it near any fires, it's not mine. Definitely. Not. Mine.",
+        "zh": "是啊，这个炸弹是可莉最新改良的作品！你看我做得好不好？…呃——如果是在什么纵火现场发现的话，那就不是我做的，绝对不是。"
+      },
+      "source_id": 18040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Кли III",
+        "en": "More About Klee: III",
+        "zh": "想要了解可莉·其三"
+      },
+      "text": {
+        "ru": "Когда сидишь одна в камере, есть много времени, чтобы придумывать новые формулы пороха... Но лучше, конечно, не сидеть в камере.",
+        "en": "Sure, time in solitary confinement gives lots of time to think about new gunpowder formulas... But it'd still be better to not be in solitary in the first place.",
+        "zh": "哎，虽然新炸药的配方，很多都是在被关禁闭的时候想出来的…但如果不被关禁闭的话就更好了…"
+      },
+      "source_id": 18041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Кли IV",
+        "en": "More About Klee: IV",
+        "zh": "想要了解可莉·其四"
+      },
+      "text": {
+        "ru": "Это Додоко, мой старый лучший друг! Пожалуйста, запомни это имя! Додоко, а не «эта детская кукла, которая болтается на рюкзаке Кли»!",
+        "en": "This is Dodoco, my oldest and bestest friend! Okay, now I've introduced you, don't forget her name again alright? No more calling Dodoco \"that silly doll Klee always hangs on her rucksack.\"",
+        "zh": "这是嘟嘟可，是可莉很久以前就交到的好朋友。要记得它的名字哦，以后别叫它「挂在你包上的玩偶」啦。"
+      },
+      "source_id": 18042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Кли V",
+        "en": "More About Klee: V",
+        "zh": "想要了解可莉·其五"
+      },
+      "text": {
+        "ru": "Спасибо, что помогаешь мне каждый раз, когда я попадаю в неприятности! У меня для тебя есть подарочек в знак благодарности - это жареная рыба по моему особому рецепту! Он заключается в том, что нужно глушить рыбу взрывчаткой! Тогда она выпрыгивает из воды, и уже поджаренная падает на землю. Только это секретный рецепт, никому его не рассказывай. Просто веди себя так, как будто ты ничего не знаешь.",
+        "en": "Thanks for helping me out every time I get in trouble! I have a thank-you present for you — barbecued fish, made with my own secret recipe! ...Okay, so the secret recipe is exploding the fish out of the water. Tee-hee, they're fully cooked by the time they land! But it's a secret, right, so you don't get to tell anybody. Just pretend like you don't even know.",
+        "zh": "谢谢你总是帮可莉解决麻烦！就用这串「可莉烤鱼」来报答你吧！——呃，其实鱼是直接在湖里就被炸弹烤熟了，不过这件事就和平时一样，假装不知道好了。"
+      },
+      "source_id": 18043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Хобби Кли...",
+        "en": "Klee's Hobbies",
+        "zh": "可莉的爱好…"
+      },
+      "text": {
+        "ru": "Я люблю пушистые вещи! Например, Додоко! И одуванчики! И волосы Рэйзора!",
+        "en": "I like things that are fluffy~! Like Dodoco! And dandelions! And Razor's hair!",
+        "zh": "可莉喜欢毛茸茸的东西。比如嘟嘟可、蒲公英，还有雷泽的头发。"
+      },
+      "source_id": 18044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Беспокойство Кли...",
+        "en": "Klee's Troubles",
+        "zh": "可莉的烦恼…"
+      },
+      "text": {
+        "ru": "Эх, ты очень хороший, а я очень плохая. Пошли играть, когда я досижу в своей камере и подумаю над тем, как плохо себя веду... / Эх, ты очень хорошая, а я очень плохая. Пошли играть, когда я досижу в своей камере и подумаю над тем, как плохо себя веду...",
+        "en": "*sigh* You're a good person, but I'm a bad girl. Once I'm out of solitary confinement and am done reflecting on my actions, we can go play together again, okay?",
+        "zh": "唉，你是好人，我是坏孩子…等我这次的禁闭结束、好好反省过以后，再来找你带我出去玩…"
+      },
+      "source_id": 18045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Мондштадтские окуни такие вкусные, особенно те, что водятся в Сидровом озере! Я не шучу, даже моя мама так думает.",
+        "en": "Mondstadt's basses are delicious, especially the ones you grab yourself from Cider Lake! I'm not even kidding, even my mom thinks so.",
+        "zh": "蒙德的鲈鱼是很好吃的，从果酒湖里抓到的尤其好吃！这可不是瞎说的，连妈妈也认同可莉的想法喔。"
+      },
+      "source_id": 18046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Ненавижу мондштадтских крабов! Всех крабов! Я хочу идти играть, а не сидеть и целый день чистить краба...",
+        "en": "I hate, hate, hate Mondstadt's crabs! All of them! I wanna go out and play, I don't wanna just sit there tryna de-shell a crab all day...",
+        "zh": "讨厌蒙德蟹——什么蟹都讨厌——可莉要出去玩——不要坐在餐桌前慢慢剥壳——"
+      },
+      "source_id": 18047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "♪С днём рожденья тебя! С днём рожденья тебя! С днём рожденья тебя, дорогой путешественник! С днём рожденья тебя!♪ Ты ведь старше меня? Значит и дней рождения у тебя было больше, чем у меня... Ох, я так тебе завидую! / ♪С днём рожденья тебя! С днём рожденья тебя! С днём рожденья тебя, дорогая путешественница! С днём рожденья тебя!♪ Ты ведь старше меня? Значит и дней рождения у тебя было больше, чем у меня... Ох, я так тебе завидую!",
+        "en": "♪Happy birthday to you, happy birthday to you, happy birthday dear Traveler, happy birthday to you!♪ You're older than me right? That means you've had way more birthdays than me... I'm sooo jealous!",
+        "zh": "生日快乐！过生日很开心，你比可莉大，那过生日的次数一定比可莉多吧？可莉很羡慕！"
+      },
+      "source_id": 18048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Вот и всё. Изобретение новой бомбы завершено. А теперь бежим отсюда, пока Джинн не узнала!",
+        "en": "Mm, new-bomb research complete! Now, let's get outta here before Jean finds out...",
+        "zh": "嗯，新型炸弹研究完毕！趁琴团长发现之前，开溜！"
+      },
+      "source_id": 18049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "О да, я стала лучше! Но как говорит Джинн: «Саморазвитие - это долг каждого гражданина». По её словам, этому можно немножко порадоваться, но не чересчур.",
+        "en": "Aw yeah, I improved again! But as Jean says, \"Continuous self-improvement is one's duty.\" She says that means I'm allowed to be a bit happy about it, but not the most happy I've ever been in my whole life about it.",
+        "zh": "又进步了一点！不过琴团长总是说：「进步是分内之事。」"
+      },
+      "source_id": 18050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Спасибо, что помогаешь мне собирать материалы для моих исследований! Если когда-нибудь захочешь научиться делать бомбы, я обязательно сама тебя научу!",
+        "en": "Thanks for helping me gather so much stuff for my research! If you ever wanna learn how to make a bomb, I can teach you y'know.",
+        "zh": "谢谢你总是陪我一起收集研究用的材料！如果你想学习炸弹的制作方法，我也可以来教你哦。"
+      },
+      "source_id": 18051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Я помню, что, когда в первый раз услышала взрыв, я вовсе не напугалась. Потом я узнала, что это не «нормально», и большинство людей бы испугалось. Но ты ведь тоже не боишься моих бомб? Хе-хе, я так и знала! Вот почему ты мой самый лучший друг! / Я помню, что, когда в первый раз услышала взрыв, я вовсе не напугалась. Потом я узнала, что это не «нормально», и большинство людей бы испугалось. Но ты ведь тоже не боишься моих бомб? Хе-хе, я так и знала! Вот почему ты моя самая лучшая подруга!",
+        "en": "I remember the first time I ever heard an explosion... I wasn't scared at all. Later on, I found out that apparently, that's not \"normal,\" and most people would've been scared. But hey, you're not scared of my bombs right? Tee-hee, I knew it! That's why you're my bestest friend ever!",
+        "zh": "很久以前，第一次听到爆炸声的时候，我没有害怕…后来我才知道，大部分人不是这样的…不过，你也不害怕我的炸弹呢！嘿嘿，太好了，可莉果然交到了很好的朋友！"
+      },
+      "source_id": 18052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Прыг-скок бомба!",
+        "en": "Jumpy Dumpty go!",
+        "zh": "蹦蹦炸弹！"
+      },
+      "source_id": 18053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Бим, бам, бом!",
+        "en": "Boing, boing, boom!",
+        "zh": "弹起来吧！"
+      },
+      "source_id": 18054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Пиу-пиу!",
+        "en": "Pieew.",
+        "zh": "嘿咻！"
+      },
+      "source_id": 18055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Грохот и искры!",
+        "en": "Sparks 'n' Splash!",
+        "zh": "轰轰火花！"
+      },
+      "source_id": 18056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Пламенный восторг!",
+        "en": "Blazing Delight!",
+        "zh": "火力全开！"
+      },
+      "source_id": 18057
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Пусть они взлетят на воздух!",
+        "en": "Blow them aaaalll up!",
+        "zh": "全——都可以炸完！"
+      },
+      "source_id": 18058
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Ля-ля-ля!",
+        "en": "Lalala~",
+        "zh": "啦啦啦~"
+      },
+      "source_id": 18059
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Начало спринта II",
+        "en": "Sprint Start: II",
+        "zh": "冲刺开始·其二"
+      },
+      "text": {
+        "ru": "Та-да-да!",
+        "en": "Da-da-da~",
+        "zh": "哒哒哒~"
+      },
+      "source_id": 18060
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Больше сокровищ, больше сокровищ! Хи-хи...",
+        "en": "More treasure, more treasure! Hee-hee...",
+        "zh": "可莉又找到新的宝物了！"
+      },
+      "source_id": 18061
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Ура, блестяшка!",
+        "en": "Yay, shiny!",
+        "zh": "亮闪闪的，好开心！"
+      },
+      "source_id": 18062
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Может, под землёй есть ещё...",
+        "en": "Maybe there's even more buried below...",
+        "zh": "地下会不会埋着更多宝箱呢…"
+      },
+      "source_id": 18063
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Ну, зачем так делать?!",
+        "en": "What did you do that for!?",
+        "zh": "哇…怎么会这样…"
+      },
+      "source_id": 18064
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Джи-и-и-инн... Меня обижают!",
+        "en": "Jeeeean... they're picking on me!",
+        "zh": "琴团长…它欺负我…"
+      },
+      "source_id": 18065
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Что-то меня мутит...",
+        "en": "I feel kinda woozy...",
+        "zh": "玩累了，有点晕…"
+      },
+      "source_id": 18066
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Если хочешь, я устрою большой взрыв!",
+        "en": "I can make a big bang if you want!",
+        "zh": "火花骑士，爆破支援！"
+      },
+      "source_id": 18067
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Ты в порядке?",
+        "en": "Are you okay?",
+        "zh": "你不要紧吧？"
+      },
+      "source_id": 18068
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Ура, получилось! Нет, стоп, показалось...",
+        "en": "Yay, I did it! Oh wait, no I didn't...",
+        "zh": "看我成功开溜…！啊，失败了。"
+      },
+      "source_id": 18069
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Кли... Хочет домой...",
+        "en": "I wanna go home now...",
+        "zh": "可莉…想回家了…"
+      },
+      "source_id": 18070
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Это вышло случайно...",
+        "en": "It was an accident...",
+        "zh": "又闯祸了…"
+      },
+      "source_id": 18071
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Нечестно!",
+        "en": "No fair!",
+        "zh": "过分…"
+      },
+      "source_id": 18072
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Это так больно!",
+        "en": "That really hurt!",
+        "zh": "好疼啊！"
+      },
+      "source_id": 18073
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Кли поможет!",
+        "en": "Klee can help!",
+        "zh": "可莉来帮忙！"
+      },
+      "source_id": 18074
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Та-дам! Кли здесь!",
+        "en": "Ta-da! Klee is here!",
+        "zh": "锵锵——可莉登场。"
+      },
+      "source_id": 18075
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Да! Нас ждёт большое приключение!",
+        "en": "Yea! Let's go on a big adventure!",
+        "zh": "好耶！是大冒险。"
+      },
+      "source_id": 18076
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Вкуснятина! Вкуснятина! Ох, Кли уже объелась...",
+        "en": "Yummy, yummy! Oof, I'm so full...",
+        "zh": "好香好香！可莉已经吃到吃不下啦…"
+      },
+      "source_id": 18077
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Ура! Я поем вкусненького! Я так рада! Спасибо!",
+        "en": "Yay, I got to eat something tasty today. I'm so happy! Thank you!",
+        "zh": "今天也吃到了好吃的东西，可莉好开心！谢谢你！"
+      },
+      "source_id": 18078
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Выглядит вкусненько, но на вкус... Хи-хи, может, поможешь мне? Ну пожалуйста!",
+        "en": "It looks yummy, but it's kinda hard work to eat... Hee-hee, how about you help me? Pretty please!",
+        "zh": "看上去很好吃，但吃起来不太方便…嘿嘿，你来帮帮可莉好不好！"
+      },
+      "source_id": 18079
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "О Дурине...",
+        "en": "About Durin",
+        "zh": "关于杜林…"
+      },
+      "text": {
+        "ru": "Ура! Мини-Дурин теперь живёт в Мондштадте, мы будем играть каждый день! Я возьму его с собой на рыбалку. Он поднимет меня высоко в воздух, чтобы я могла бросать в рыбу Прыг-скок бомбы!",
+        "en": "Hehe, Durin lives in Mondstadt now — I'm going to play with him every day! I'll take him fish blasting, and he can fly me up high to throw Jumpy Dumpty at the fish!",
+        "zh": "好耶！小杜林哥哥现在住在蒙德，我要天天找他玩！炸鱼的时候，我想让小杜林哥哥带我飞上很高很高的地方，在天上丢蹦蹦炸弹！"
+      },
+      "source_id": 18080
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "О Лоэне...",
+        "en": "About Lohen",
+        "zh": "关于洛恩…"
+      },
+      "text": {
+        "ru": "Лоэн самый лучший! В прошлый раз он принёс Кли столько вкусняшек, а взамен попросил всего лишь маленькую коробочку мелков! Если у него будет время, Кли с радостью научит его рисовать! Может, ещё и дядю Варку позовём!",
+        "en": "Lohen is the best! Last time Klee saw him, he gave me so many yummy treats — and he only wanted a small box of crayons in return! If Lohen has the time, Klee would love to teach him how to draw... Maybe we can invite Uncle Varka, too!",
+        "zh": "洛恩哥哥是好人！他上次给可莉拿了好多好吃的，却只要了可莉一小盒蜡笔！要是洛恩哥哥有时间，可莉愿意教他画画的，再叫上法尔伽叔叔一起！"
+      },
+      "source_id": 18081
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "О Прюн...",
+        "en": "About Prune",
+        "zh": "关于布伦妮…"
+      },
+      "text": {
+        "ru": "Прюн тоже самая лучшая! Мама писала, что она хочет с кем-нибудь поиграть, но стесняется сказать об этом. Поэтому Кли решила: в следующий раз, когда Кли пойдёт ловить рыбу бомбочками или отправится на Драконий хребет, на архипелаг Золотого Яблока или в Симуланку, Кли обязательно позовёт Прюн! Будет весело!",
+        "en": "Prune is the best! Mom wrote me a letter saying Prune wants someone to play with, but she's too shy to ask. That's why Klee's decided to take her fish blasting, or on a trip to Dragonspine, or the Golden Apple Archipelago, or, or, or... Simulanka! She's gonna have so much fun!",
+        "zh": "布伦妮姐姐是好人！妈妈写信来说，布伦妮姐姐其实是想找人陪她玩，但是不好意思说出口。所以，可莉决定了！下次去炸鱼、去雪山、去金苹果群岛、去希穆兰卡…都要邀请布伦妮姐姐一起去玩！"
+      },
+      "source_id": 18082
+    }
+  ],
+  "replica_count": 74
 }

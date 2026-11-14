@@ -1,0 +1,4899 @@
+{
+  "reviewed_world_quest_cards": 271,
+  "kept_world_quest_cards": 209,
+  "removed_world_quest_cards": 62,
+  "removed_cards_added_in_7_2_update": 48,
+  "removed_cards_preexisting_before_7_2_update": 14,
+  "mandatory_card_ids": [
+    "quest_wq_10187",
+    "quest_wq_10188",
+    "quest_wq_10255",
+    "quest_wq_10277",
+    "quest_wq_10278",
+    "quest_wq_10279",
+    "quest_wq_10280",
+    "quest_wq_10282"
+  ],
+  "mandatory_source_parts": 34,
+  "remaining_all_quest_cards": 320,
+  "remaining_unique_source_quest_parts": 924,
+  "remaining_new_material_cards": 162,
+  "remaining_previous_markdown_files": 1279,
+  "source_removed_files": [
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_10156.md",
+      "sha256": "455165b4e3825ab11b6880284915a812389aa999111fda1a21684565dc544af8",
+      "size_bytes": 337319
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_70090.md",
+      "sha256": "953eced37aa694e5a9a50775477a4b43c9cd6d8e004e249a69df6512444bbff2",
+      "size_bytes": 2946
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_70114.md",
+      "sha256": "493feec06c02516a3b9f5404f25a10c2bd58bfcc365166cd01a9209814420b92",
+      "size_bytes": 9728
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_72238.md",
+      "sha256": "6cb701e313844a611c5fea20d5c5bb1feecf88223238f289f4128bf555e866fb",
+      "size_bytes": 1224
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_72240.md",
+      "sha256": "0a0e56ec70a896f505c39f3775dd10fa65abec3fa7d8e4c3e6472e542afcb463",
+      "size_bytes": 12030
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_73071.md",
+      "sha256": "d6cb75c1b731acc2007c48e20462df5e9b7b806caf676d2e03a2d033dd5681f8",
+      "size_bytes": 43915
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_73077.md",
+      "sha256": "48bf7674576066d0d644d29dedbc59f52b299b701fa1a7101ded398bf215ca4e",
+      "size_bytes": 69690
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_73098.md",
+      "sha256": "6ef0d8076869d9a5dfbf61b2a25d6542213bc683076ea2f8daf4726ee72a9802",
+      "size_bytes": 7732
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_73229.md",
+      "sha256": "4a298913df4da34f56c32ea45f39d5622f1010947bd4a6bbe5c6d9eebda0298a",
+      "size_bytes": 1239
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_73319.md",
+      "sha256": "fa6ac0ca5ca8ff591976468b93158a61c6e0680d5848419667cc326b8cd14fcc",
+      "size_bytes": 84990
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_73357.md",
+      "sha256": "59236ffc5472b81bdbca797eb1587c6451a3e1f968a0bf1a99721a6626b57fa7",
+      "size_bytes": 2881
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74012.md",
+      "sha256": "702753ceecc337b4d80213e082ccfa953b6d72e95ae7b38e2ea85541ca03316a",
+      "size_bytes": 13138
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74014.md",
+      "sha256": "5300de40ab1c54fc6da1076ddf7e0859aef9b1b0daf5c7e68f3419a366d492b9",
+      "size_bytes": 120975
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74054.md",
+      "sha256": "6ad56ff22dd6511bb8061778fa6b871b0b2647ca0ab37c6011bb1659078b7e74",
+      "size_bytes": 10093
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74248.md",
+      "sha256": "4b3629a697eb7eafef0543337d3ff52daf0a47cfc717938629e5723b026970d4",
+      "size_bytes": 18028
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74249.md",
+      "sha256": "a374377345a0426b43d4e906c4847f4f113050a241eae9110d5f8e0716cd8545",
+      "size_bytes": 10495
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74250.md",
+      "sha256": "6a89f5ee00f4270cf13008e34d28d816468c845c11077b354237c66b6df340e0",
+      "size_bytes": 10224
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74255.md",
+      "sha256": "52d332c5b1e97de72183c76d42cd270fd4892050e268ae68dbec10278af47843",
+      "size_bytes": 3057
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74256.md",
+      "sha256": "c3fb1a0c6183d451689ecb540349e4297793ca93233f460a2ffcf7f4853d261f",
+      "size_bytes": 3220
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74257.md",
+      "sha256": "fc3e1fd27f3b4384bd19e0f8007cfa3cf31bedb3dfa9d3dabf69fde1772ddc61",
+      "size_bytes": 2947
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74258.md",
+      "sha256": "b51fd7d25970c4389fee0882f14af842d2b2f7394497a588b4ba8f604b1d6798",
+      "size_bytes": 3084
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74259.md",
+      "sha256": "20e8c1c57c1eea9f019ad00803eafd1ebd1dcaad89ecc3b5f571816e815db216",
+      "size_bytes": 3045
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74260.md",
+      "sha256": "a3070a7a954c4ea98472035c3e96bd30b8058a19fa64bc3fcaf35f3203e44fb8",
+      "size_bytes": 3045
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_74261.md",
+      "sha256": "499bc576ee68161694dff2793aba56855a166516417c0f00d73c283cf227f5e3",
+      "size_bytes": 3045
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_75064.md",
+      "sha256": "4d220d693770023eb902af8cb7a6bec7585f0b7cfe90c6786ed4b4383a77a796",
+      "size_bytes": 37007
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_75238.md",
+      "sha256": "46f8eeb3a6d24514c9b4390ba82cc36c8c7382362d140e65b804d53982938320",
+      "size_bytes": 11911
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_75266.md",
+      "sha256": "42dce659ba0229a56473c6e6290c0909ed844b01d8d5b67ed0885edf7c989fd7",
+      "size_bytes": 3075
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76087.md",
+      "sha256": "1371df56e851140baf4a173403821f68ee74470071b592221163599254ffa2a9",
+      "size_bytes": 3632
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76177.md",
+      "sha256": "b9c65c9888d01ee3f63ae2e7e20e1806dbf6c990a5e20772f0970e6ca712c6a4",
+      "size_bytes": 3572
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76180.md",
+      "sha256": "d47c0b5cd9b18a8353e7e07cba150b19e09b1c782b806356a8385678c183f70b",
+      "size_bytes": 9996
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76182.md",
+      "sha256": "b575d39da852a254c0528dbfa112cb9fb56d743491771e3f733963e85ad00e15",
+      "size_bytes": 5762
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76183.md",
+      "sha256": "1bf506ccd4797c60b8eb62ab7c9b9a2cf294b20ed21dabd47450ae49e70dfeec",
+      "size_bytes": 11208
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76184.md",
+      "sha256": "87e25ae65690f8e9324c438273145ff0b79ffebda5399679d7e180bf30d7051f",
+      "size_bytes": 10153
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76185.md",
+      "sha256": "b162b88f0728088acd0c04f9ec156572f27ec119d1d1cff1babca76728fd21ce",
+      "size_bytes": 8340
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76186.md",
+      "sha256": "367f7b8df4c213c33e277251c6423e54479d5a76f9738ff2df4fdf7bd0ff1cff",
+      "size_bytes": 9675
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76218.md",
+      "sha256": "24a87d783ba95d2d53d74f2c6e9a2cb0e5c19ce927620093a9847ad291c230c1",
+      "size_bytes": 9897
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76220.md",
+      "sha256": "1c4c2ded6121216cf386609469ca342ff3cd30af4013998150a272e1f700cb25",
+      "size_bytes": 3287
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76221.md",
+      "sha256": "898465c831bde67a4cca6399250506b67002ddb7269a47146155a4bd8d15cf75",
+      "size_bytes": 3347
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76222.md",
+      "sha256": "13ccb9590a6a6a2328c1436b1a4e5089a226d05be3c6f37ff04c4d22a22dbaf7",
+      "size_bytes": 2903
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76223.md",
+      "sha256": "751f56ed0715e7927f04979e83a9bf9c226c44cd142e2c7865dc5c4179b56255",
+      "size_bytes": 2945
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76225.md",
+      "sha256": "6481ee837b694059689e7678db1ad120565742f9902b6d00eaa30faf3cad79cf",
+      "size_bytes": 2994
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_76660.md",
+      "sha256": "9bbecb48f49452a98645c36f69d438006088f49300b39a1c00e898df93553458",
+      "size_bytes": 4977
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77118.md",
+      "sha256": "57541e25c01f2ac2bd0ac7a2eaf985bc7d522305b9faa58008965e49f61e2d43",
+      "size_bytes": 84856
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77125.md",
+      "sha256": "6258512a8ef696e9e87a6701235690db080da575e9c1f6f8fc5e6d3a8e670667",
+      "size_bytes": 54383
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77163.md",
+      "sha256": "9c756cd6f4f96d93b547089684777ae3701391c575102eee55b70ca53adcdead",
+      "size_bytes": 6322
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77185.md",
+      "sha256": "3fc944f2d2e993de39c360ec2ac2f8a66407f5f03af21dd4df11009b31800216",
+      "size_bytes": 9806
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77187.md",
+      "sha256": "14306fe36d4c05eba4c5b57d92019246adb9c6ef006ec49914cd7f3333d9385a",
+      "size_bytes": 12515
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77195.md",
+      "sha256": "4f1ea5ce8b8da3af33446afcf77af28d48fd3fbe3c6fc62203183fa4571e9784",
+      "size_bytes": 6507
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77202.md",
+      "sha256": "da4867109aeb2b935ce9bac29789d85f8927308148bc3ce014ac51279095e6c4",
+      "size_bytes": 19765
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77233.md",
+      "sha256": "730c3685956fc2b2afbd06f8288c938c0c37866ac29a06cea707fe56c7d5e04b",
+      "size_bytes": 7049
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77278.md",
+      "sha256": "5408e7e654c7d257202dd9da7efcc3ed61220c6529db3613e7b495d3528cf58d",
+      "size_bytes": 58092
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77304.md",
+      "sha256": "6ae96d371ba6bf83aa2b228a9b4e8ced64ebf5931d240bc92227f46e90457ac4",
+      "size_bytes": 104070
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77307.md",
+      "sha256": "551e45df48ea4d136bd128b50da45a356823f3cf1a4dd97c67c577f43ec03eea",
+      "size_bytes": 22988
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77321.md",
+      "sha256": "c29937e17343a0e89b76ec0819c3deafd61ed395cef7307da51ef59a6c04cd52",
+      "size_bytes": 13975
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77500.md",
+      "sha256": "64cf69027939d3be91dd2838ec680aa514de9ac96f934087d85206f51a6765cd",
+      "size_bytes": 4260
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77657.md",
+      "sha256": "6e0d0e48ae3cc35c2aa403de8989be7227d331e06cf09e4f4723cf58b5b10718",
+      "size_bytes": 17442
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77671.md",
+      "sha256": "f36cab70c479acd92c0ac3ceb9370f406d797aa5092896e6aa08ce8f9bf58d7c",
+      "size_bytes": 16921
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77672.md",
+      "sha256": "6ba021b64a3f167d43db821ad82217ed730274239da3da8215f07812172173bb",
+      "size_bytes": 13143
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77676.md",
+      "sha256": "3124581c370ef027c5840a79cb70ac2894c096d57054022f43dfb19ee4db2763",
+      "size_bytes": 6558
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77677.md",
+      "sha256": "3e7d199ef307e09575ab69b54d26fbf0887baa2365663e44d78f88291016e3b1",
+      "size_bytes": 40103
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77678.md",
+      "sha256": "de99be9e17ee539a4da142706d87f42e6edb2eb453cc9f40dcdb4e80cb2f76f3",
+      "size_bytes": 8847
+    },
+    {
+      "path": "content/stories/quests/world_quests/quest_wq_77697.md",
+      "sha256": "51bf706f9288f5723fcf72375066ab9a2e5d57af658ba72cfba43470f0ded948",
+      "size_bytes": 5856
+    }
+  ],
+  "unreferenced_icons_removed": [],
+  "method": "Manual editorial decisions from the supplied archive; thematic review families do not add or redefine official quest-chain groups.",
+  "criteria": [
+    "Core world history, cosmology and ancient civilizations",
+    "Significant gods, factions and characters",
+    "Narrative stages and conclusions of selected histories",
+    "All existing chapters of the two explicitly requested stories"
+  ],
+  "unchanged_scope": [
+    "Archon quests",
+    "Story quests",
+    "Character histories and voice-overs",
+    "Books, items, weapons, artifacts and bestiary",
+    "Design and application source code"
+  ],
+  "decisions": [
+    {
+      "id": "quest_eq_40053",
+      "title": "Странный случай в деревне Конда",
+      "path": "content/stories/quests/world_quests/quest_eq_40053.md",
+      "source_ids": [
+        72106
+      ],
+      "part_titles": [
+        "Странный случай в деревне Конда"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10025",
+      "title": "Очищение Священной сакуры",
+      "path": "content/stories/quests/world_quests/quest_wq_10025.md",
+      "source_ids": [
+        72100,
+        72105,
+        72106,
+        72107,
+        72108
+      ],
+      "part_titles": [
+        "Очищение от скверны",
+        "Очищение Ёго",
+        "Странный случай в деревне Конда",
+        "Жертвоприношение",
+        "Тануки-баяси в лесу"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10031",
+      "title": "Лунная бездна",
+      "path": "content/stories/quests/world_quests/quest_wq_10031.md",
+      "source_ids": [
+        72145,
+        72146,
+        72147,
+        72148,
+        72149
+      ],
+      "part_titles": [
+        "«Око Ватацуми»",
+        "«Клык Ватацуми»",
+        "«Плавник Ватацуми»",
+        "«Хвост Ватацуми»",
+        "«Сердце Ватацуми»"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10032",
+      "title": "Охотники за грозами Сэйрая",
+      "path": "content/stories/quests/world_quests/quest_wq_10032.md",
+      "source_ids": [
+        72155,
+        72156,
+        72157,
+        72158
+      ],
+      "part_titles": [
+        "Охотники за грозами Сэйрая I",
+        "Охотники за грозами Сэйрая II",
+        "Охотники за грозами Сэйрая III",
+        "Охотники за грозами Сэйрая IV"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10036",
+      "title": "Сказания из Татары",
+      "path": "content/stories/quests/world_quests/quest_wq_10036.md",
+      "source_ids": [
+        72114,
+        72115,
+        72116,
+        72117,
+        72118,
+        72119,
+        72120,
+        72122
+      ],
+      "part_titles": [
+        "Сказания из Татары",
+        "Сказания из Татары. Приоритетное расследование",
+        "Сказания из Татары. Устройство очищения",
+        "Сказания из Татары. Сбор информации",
+        "Сказания из Татары. Первоочерёдность процесса",
+        "Сказания из Татары. Функциональное тестирование",
+        "Сказания из Татары. Заключительные приготовления",
+        "Сказания из Татары. Финальный акт"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10037",
+      "title": "Наследие Оробаси",
+      "path": "content/stories/quests/world_quests/quest_wq_10037.md",
+      "source_ids": [
+        72129,
+        72130,
+        72131,
+        72132,
+        72133,
+        72134
+      ],
+      "part_titles": [
+        "Наследие Оробаси. Часть I",
+        "Наследие Оробаси. Часть II",
+        "Наследие Оробаси. Часть III",
+        "Наследие Оробаси. Часть V",
+        "Наследие Оробаси. Пролог",
+        "Наследие Оробаси. Часть IV"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10044",
+      "title": "Сквозь туман",
+      "path": "content/stories/quests/world_quests/quest_wq_10044.md",
+      "source_ids": [
+        72166,
+        72167,
+        72172,
+        72173
+      ],
+      "part_titles": [
+        "Октава маусиро",
+        "Исключительно исключительный писатель",
+        "Море тумана и обряд деревьев",
+        "Колесо солнца и гора Канна"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10051",
+      "title": "Записи о путешествии вглубь Разлома",
+      "path": "content/stories/quests/world_quests/quest_wq_10051.md",
+      "source_ids": [
+        71037,
+        71040,
+        71041,
+        71042,
+        71043,
+        71044,
+        71045,
+        71048,
+        71049
+      ],
+      "part_titles": [
+        "Начало исследования глубин",
+        "Первая встреча с миазмами",
+        "Заводим друзей и одолеваем бандитов",
+        "Парящий фрагмент небесного камня",
+        "Угроза во тьме",
+        "Тайна скалистых затворов Цисин",
+        "Откуда здесь камень душ?",
+        "Исследования Разлома",
+        "Исследования Разлома"
+      ],
+      "decision": "keep",
+      "family": "Разлом",
+      "reason": "Основная история исследования Разлома, небесного фрагмента и древних руин.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10055",
+      "title": "От заката до рассвета в Бякуякоку",
+      "path": "content/stories/quests/world_quests/quest_wq_10055.md",
+      "source_ids": [
+        72177,
+        72190,
+        72191,
+        72192,
+        72242
+      ],
+      "part_titles": [
+        "Подземные испытания драконов и змея",
+        "По следам драконов и змея",
+        "Сердце уробороса",
+        "Сновидения в Улочках",
+        "Вход в Токоё"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10058",
+      "title": "Особый гадальный листок",
+      "path": "content/stories/quests/world_quests/quest_wq_10058.md",
+      "source_ids": [
+        72263,
+        72265,
+        72266
+      ],
+      "part_titles": [
+        "Задание Сюмацубан",
+        "Тайна замены",
+        "Пристанище одуванчиков"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10059",
+      "title": "Тайна Эреб",
+      "path": "content/stories/quests/world_quests/quest_wq_10059.md",
+      "source_ids": [
+        72268,
+        72269,
+        72270,
+        72275
+      ],
+      "part_titles": [
+        "Испытание Ятиматахико",
+        "Испытание Ятиматахимэ",
+        "Испытание Кунадо",
+        "Три великих боевых испытания"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10060",
+      "title": "Скорбная песнь Гипериона",
+      "path": "content/stories/quests/world_quests/quest_wq_10060.md",
+      "source_ids": [
+        72241,
+        72247,
+        72248,
+        72249
+      ],
+      "part_titles": [
+        "Скорбная песнь Гипериона",
+        "Испытание Теснины",
+        "Испытание Храма",
+        "Испытание Сердца змея"
+      ],
+      "decision": "keep",
+      "family": "Инадзума и Энканомия",
+      "reason": "Ключевые истории островов, их богов и древних жителей; раскрытие прошлого Энканомии, Оробаси, скверны и Фатуи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10069",
+      "title": "Кулинарная мечта",
+      "path": "content/stories/quests/world_quests/quest_wq_10069.md",
+      "source_ids": [
+        73013,
+        73019,
+        73020,
+        73021,
+        73022
+      ],
+      "part_titles": [
+        "Преподнесите нарам лакомства",
+        "Еда - счастливое воспоминание",
+        "Еда - это естественный вкус природы",
+        "Еда - это аромат родины",
+        "Еда - это способ поделиться прекрасным"
+      ],
+      "decision": "keep",
+      "family": "Араньяка",
+      "reason": "Сюжет об аранарах, памяти, снах, Увядании и прошлом второго близнеца; части большой истории сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10070",
+      "title": "Вимана-агама",
+      "path": "content/stories/quests/world_quests/quest_wq_10070.md",
+      "source_ids": [
+        73000,
+        73026,
+        73027,
+        73028,
+        73029,
+        73073
+      ],
+      "part_titles": [
+        "Вимана-агама: Глава I",
+        "Вимана-агама: глава «Джазари»",
+        "Вимана-агама: глава «Спуск в Пещеру дэва»",
+        "Глава Роинджана: Линга",
+        "Глава Роинджана: Йони",
+        "Вимана-агама: Глава Роинджана"
+      ],
+      "decision": "keep",
+      "family": "Араньяка",
+      "reason": "Сюжет об аранарах, памяти, снах, Увядании и прошлом второго близнеца; части большой истории сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10072",
+      "title": "Варуна-гата",
+      "path": "content/stories/quests/world_quests/quest_wq_10072.md",
+      "source_ids": [
+        73014,
+        73015,
+        73016,
+        73017,
+        73018,
+        73060
+      ],
+      "part_titles": [
+        "Варуна-гата",
+        "Каменное воспоминание",
+        "Разъярённая железяка",
+        "Спящие корни",
+        "Молитва о дожде на плодородной земле",
+        "Дополнительные реплики"
+      ],
+      "decision": "keep",
+      "family": "Араньяка",
+      "reason": "Сюжет об аранарах, памяти, снах, Увядании и прошлом второго близнеца; части большой истории сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10073",
+      "title": "Встреча в лесу",
+      "path": "content/stories/quests/world_quests/quest_wq_10073.md",
+      "source_ids": [
+        73001,
+        73002,
+        73003
+      ],
+      "part_titles": [
+        "Дети из деревни Вимара",
+        "Поход",
+        "Заблудившийся ребёнок"
+      ],
+      "decision": "keep",
+      "family": "Араньяка",
+      "reason": "Сюжет об аранарах, памяти, снах, Увядании и прошлом второго близнеца; части большой истории сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10076",
+      "title": "Питомник грёз",
+      "path": "content/stories/quests/world_quests/quest_wq_10076.md",
+      "source_ids": [
+        73025,
+        73031,
+        73032,
+        73033,
+        73039,
+        73040,
+        73041,
+        73042,
+        73047,
+        73048,
+        73050,
+        73069,
+        73070,
+        73074,
+        73081,
+        73239
+      ],
+      "part_titles": [
+        "Мир аранар",
+        "Ради лучшего воссоединения",
+        "Праздник Утсава",
+        "Дети леса",
+        "Вкус радости",
+        "Вкусные загадки",
+        "Духи сада",
+        "Тигр ришболанд, р-р-р-р-р",
+        "Дополнительные реплики",
+        "Дополнительные реплики",
+        "Дополнительные реплики",
+        "Песня, ведущая по мрачному пути",
+        "Песня, питающая росток",
+        "Песня, открывающая звериную тропу",
+        "Выступление в лесу",
+        "Зарождение новой жизни"
+      ],
+      "decision": "keep",
+      "family": "Араньяка",
+      "reason": "Сюжет об аранарах, памяти, снах, Увядании и прошлом второго близнеца; части большой истории сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10079",
+      "title": "Питомник утраченных грёз",
+      "path": "content/stories/quests/world_quests/quest_wq_10079.md",
+      "source_ids": [
+        73035,
+        73036,
+        73037
+      ],
+      "part_titles": [
+        "Во имя фруктов, семян и деревьев",
+        "Во имя детей прошлого",
+        "Во имя стремящихся к жизни детей"
+      ],
+      "decision": "keep",
+      "family": "Араньяка",
+      "reason": "Сюжет об аранарах, памяти, снах, Увядании и прошлом второго близнеца; части большой истории сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10082",
+      "title": "В конце концов, лес помнит всё",
+      "path": "content/stories/quests/world_quests/quest_wq_10082.md",
+      "source_ids": [
+        73038
+      ],
+      "part_titles": [
+        "«Здравствуй», «спасибо» и «прощай»"
+      ],
+      "decision": "keep",
+      "family": "Араньяка",
+      "reason": "Сюжет об аранарах, памяти, снах, Увядании и прошлом второго близнеца; части большой истории сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10083",
+      "title": "Агнихотра-сутра",
+      "path": "content/stories/quests/world_quests/quest_wq_10083.md",
+      "source_ids": [
+        73061,
+        73063,
+        73066
+      ],
+      "part_titles": [
+        "Глава звёздной ночи",
+        "Восходящая Луна",
+        "Последняя глава"
+      ],
+      "decision": "keep",
+      "family": "Араньяка",
+      "reason": "Сюжет об аранарах, памяти, снах, Увядании и прошлом второго близнеца; части большой истории сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10086",
+      "title": "Волшебная гора",
+      "path": "content/stories/quests/world_quests/quest_wq_10086.md",
+      "source_ids": [
+        70065
+      ],
+      "part_titles": [
+        "Ветер стих"
+      ],
+      "decision": "keep",
+      "family": "Волшебная гора",
+      "reason": "Значимая сюжетная история Пика ветров и заброшенного санатория.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10087",
+      "title": "Золотая страна грёз",
+      "path": "content/stories/quests/world_quests/quest_wq_10087.md",
+      "source_ids": [
+        73052,
+        73053,
+        73054,
+        73055
+      ],
+      "part_titles": [
+        "Затерянные в песках",
+        "Введение в кабинетную археологию",
+        "Тайна аль-Ахмара",
+        "Сны под жгучими песками"
+      ],
+      "decision": "keep",
+      "family": "Пустыня Сумеру",
+      "reason": "История цивилизаций пустыни, Дешрета, джиннов, Гюрабада и племени Танит; основные продолжения и развязки.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10094",
+      "title": "Рай",
+      "path": "content/stories/quests/world_quests/quest_wq_10094.md",
+      "source_ids": [
+        70067,
+        70068,
+        70069,
+        76089,
+        76095,
+        76147
+      ],
+      "part_titles": [
+        "Неофициальные хроники Чертогов в пустыне",
+        "Дополнительные реплики",
+        "Дополнительные реплики",
+        "Да здравствует жизнь",
+        "День увековечивания храма",
+        "Поддельные классические произведения"
+      ],
+      "decision": "keep",
+      "family": "Чертоги в пустыне",
+      "reason": "Древние обитатели Нод-Края, их наказание, история и завершение сюжета Чертогов.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10095",
+      "title": "Ад",
+      "path": "content/stories/quests/world_quests/quest_wq_10095.md",
+      "source_ids": [
+        76148,
+        76152
+      ],
+      "part_titles": [
+        "Львиная доблесть",
+        "Львиная доблесть"
+      ],
+      "decision": "keep",
+      "family": "Чертоги в пустыне",
+      "reason": "Древние обитатели Нод-Края, их наказание, история и завершение сюжета Чертогов.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10107",
+      "title": "Древний язык, новые знания",
+      "path": "content/stories/quests/world_quests/quest_wq_10107.md",
+      "source_ids": [
+        73083,
+        73110,
+        73189,
+        73190,
+        73191
+      ],
+      "part_titles": [
+        "Двойное доказательство",
+        "Мечта Сохейля",
+        "Невидимый барьер",
+        "Затаившиеся наёмники",
+        "Воспоминания пустыни"
+      ],
+      "decision": "keep",
+      "family": "Пустыня Сумеру",
+      "reason": "История цивилизаций пустыни, Дешрета, джиннов, Гюрабада и племени Танит; основные продолжения и развязки.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10120",
+      "title": "Её враги бушуют, словно волны...",
+      "path": "content/stories/quests/world_quests/quest_wq_10120.md",
+      "source_ids": [
+        73212,
+        73225,
+        73264
+      ],
+      "part_titles": [
+        "Знамение пришло в обличье вора...",
+        "Ибо её злодеяниям нет числа...",
+        "Наточите стрелы, приготовьте щиты..."
+      ],
+      "decision": "keep",
+      "family": "Пустыня Сумеру",
+      "reason": "История цивилизаций пустыни, Дешрета, джиннов, Гюрабада и племени Танит; основные продолжения и развязки.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10121",
+      "title": "Хварна добра и зла",
+      "path": "content/stories/quests/world_quests/quest_wq_10121.md",
+      "source_ids": [
+        73231,
+        73232,
+        73235,
+        73238,
+        73251,
+        73253,
+        73254,
+        73256,
+        73257
+      ],
+      "part_titles": [
+        "Итихаса Асипаттраваны",
+        "Гимн Тир Язада",
+        "Истинный звук пробуждения",
+        "Величественное небо того дня",
+        "Когда проявляется свет Хварны",
+        "Когда проявляется свет Хварны: Самудая",
+        "Когда проявляется свет Хварны: Дуккха",
+        "Когда проявляется свет Хварны: Ниродха",
+        "Гимн Тир Язада"
+      ],
+      "decision": "keep",
+      "family": "Хварна и пари",
+      "reason": "Ключевые сведения о Хварне, пари, амрите, катастрофе и памяти погибших.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10125",
+      "title": "Монументальное исследование",
+      "path": "content/stories/quests/world_quests/quest_wq_10125.md",
+      "source_ids": [
+        73285,
+        73329,
+        73330
+      ],
+      "part_titles": [
+        "Монументальное исследование",
+        "Найдите утраченные фрагменты монумента",
+        "Исследуйте отмеченный Соши лагерь Фатуи"
+      ],
+      "decision": "keep",
+      "family": "Пустыня Сумеру",
+      "reason": "История цивилизаций пустыни, Дешрета, джиннов, Гюрабада и племени Танит; основные продолжения и развязки.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10126",
+      "title": "Бледное пламя",
+      "path": "content/stories/quests/world_quests/quest_wq_10126.md",
+      "source_ids": [
+        73307,
+        73309,
+        73310,
+        73312,
+        73314,
+        73315,
+        73316,
+        73317,
+        73318,
+        73332,
+        73334
+      ],
+      "part_titles": [
+        "Бледное пламя",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши",
+        "Пробудите оставшихся пари в деревьях фраваши"
+      ],
+      "decision": "keep",
+      "family": "Хварна и пари",
+      "reason": "Ключевые сведения о Хварне, пари, амрите, катастрофе и памяти погибших.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10130",
+      "title": "Панихида Билцис",
+      "path": "content/stories/quests/world_quests/quest_wq_10130.md",
+      "source_ids": [
+        73103,
+        73186,
+        73187,
+        73219,
+        73220,
+        73287
+      ],
+      "part_titles": [
+        "Изобилие под песчаными дюнами III",
+        "Изобилие под песчаными дюнами I",
+        "Изобилие под песчаными дюнами II",
+        "Храм, где пески текут, точно слёзы",
+        "Вечнозелёный сон",
+        "Семь столпов, воздвигнутых мудростью"
+      ],
+      "decision": "keep",
+      "family": "Пустыня Сумеру",
+      "reason": "История цивилизаций пустыни, Дешрета, джиннов, Гюрабада и племени Танит; основные продолжения и развязки.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10131",
+      "title": "Утраченный апокалипсис",
+      "path": "content/stories/quests/world_quests/quest_wq_10131.md",
+      "source_ids": [
+        73305
+      ],
+      "part_titles": [
+        "Память о Гюрабаде"
+      ],
+      "decision": "keep",
+      "family": "Пустыня Сумеру",
+      "reason": "История цивилизаций пустыни, Дешрета, джиннов, Гюрабада и племени Танит; основные продолжения и развязки.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10132",
+      "title": "Суд",
+      "path": "content/stories/quests/world_quests/quest_wq_10132.md",
+      "source_ids": [
+        76096
+      ],
+      "part_titles": [
+        "Последний суд"
+      ],
+      "decision": "keep",
+      "family": "Чертоги в пустыне",
+      "reason": "Древние обитатели Нод-Края, их наказание, история и завершение сюжета Чертогов.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10134",
+      "title": "Уроки ведьм: Решение",
+      "path": "content/stories/quests/world_quests/quest_wq_10134.md",
+      "source_ids": [
+        70690
+      ],
+      "part_titles": [
+        "Неожиданное поручение"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10142",
+      "title": "Кисть морской пены и кармина",
+      "path": "content/stories/quests/world_quests/quest_wq_10142.md",
+      "source_ids": [
+        74005
+      ],
+      "part_titles": [
+        "Краски иллюзий"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10143",
+      "title": "Незавершённая комедия",
+      "path": "content/stories/quests/world_quests/quest_wq_10143.md",
+      "source_ids": [
+        74025,
+        74026,
+        74028
+      ],
+      "part_titles": [
+        "Игра в монополистов",
+        "Зуб за зуб",
+        "С той поры..."
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10145",
+      "title": "Хроники Исследовательского института Фонтейна",
+      "path": "content/stories/quests/world_quests/quest_wq_10145.md",
+      "source_ids": [
+        74053,
+        74087,
+        74088
+      ],
+      "part_titles": [
+        "Институт Фонтейна, стоящий в руинах",
+        "Отправляйтесь в общежитие Исследовательского института и заберите якорь",
+        "Отправляйтесь в Институт прикладного использования механизмов и заберите якорь"
+      ],
+      "decision": "keep",
+      "family": "Институт Фонтейна и машины",
+      "reason": "История исследовательских институтов, их катастроф и разумных механизмов; связанные расследования.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10146",
+      "title": "Великое приключение в Нарциссенкрейце",
+      "path": "content/stories/quests/world_quests/quest_wq_10146.md",
+      "source_ids": [
+        74001,
+        74002
+      ],
+      "part_titles": [
+        "Великое приключение в Нарциссенкрейце",
+        "История принцессы и отряда героев"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10147",
+      "title": "Дикая фея Эриния",
+      "path": "content/stories/quests/world_quests/quest_wq_10147.md",
+      "source_ids": [
+        74082,
+        74083,
+        74084,
+        74085
+      ],
+      "part_titles": [
+        "Путь в Туманном лесу",
+        "Увядающая плакучая ива",
+        "Яростное озеро у родника",
+        "В сердце Эриний"
+      ],
+      "decision": "keep",
+      "family": "Эринии",
+      "reason": "Сюжет Пашив, древних сил и очищения Эриний.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10148",
+      "title": "Королевство в зеркале",
+      "path": "content/stories/quests/world_quests/quest_wq_10148.md",
+      "source_ids": [
+        74003
+      ],
+      "part_titles": [
+        "История Анн"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10149",
+      "title": "«Если она больше не мечтает о тебе...»",
+      "path": "content/stories/quests/world_quests/quest_wq_10149.md",
+      "source_ids": [
+        74004
+      ],
+      "part_titles": [
+        "История Мари-Анн"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10150",
+      "title": "Градиент из снов и охры",
+      "path": "content/stories/quests/world_quests/quest_wq_10150.md",
+      "source_ids": [
+        74006
+      ],
+      "part_titles": [
+        "Собирается дождь"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10151",
+      "title": "Синяя тоска сердца и луны",
+      "path": "content/stories/quests/world_quests/quest_wq_10151.md",
+      "source_ids": [
+        74007
+      ],
+      "part_titles": [
+        "Картины. Мечты. Механический пёс"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10152",
+      "title": "Поиск в Море водорослей",
+      "path": "content/stories/quests/world_quests/quest_wq_10152.md",
+      "source_ids": [
+        74072,
+        74073,
+        74074,
+        74075,
+        74076
+      ],
+      "part_titles": [
+        "Поиск в Море водорослей",
+        "Мать муз",
+        "Метеоритное копьё",
+        "Любовь Купидона",
+        "Талия и Мельпомена"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10153",
+      "title": "Покой спасителя",
+      "path": "content/stories/quests/world_quests/quest_wq_10153.md",
+      "source_ids": [
+        74077
+      ],
+      "part_titles": [
+        "Покой спасителя"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10154",
+      "title": "Пробуждение от великого сна",
+      "path": "content/stories/quests/world_quests/quest_wq_10154.md",
+      "source_ids": [
+        74165
+      ],
+      "part_titles": [
+        "Пробуждение от великого сна"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10155",
+      "title": "След за кормой",
+      "path": "content/stories/quests/world_quests/quest_wq_10155.md",
+      "source_ids": [
+        74078
+      ],
+      "part_titles": [
+        "След за кормой"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц и Древние цвета",
+      "reason": "Центральная история Ордо Нарциссенкрейц, Элинаса, искусственной жизни и катастрофы; необходимые сюжетные этапы и развязки сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10156",
+      "title": "Сцены жизни в крепости Меропид",
+      "path": "content/stories/quests/world_quests/quest_wq_10156.md",
+      "source_ids": [
+        74030,
+        74031,
+        74032,
+        74033,
+        74061,
+        74062,
+        74063,
+        74064,
+        74065,
+        74066,
+        74067,
+        74068
+      ],
+      "part_titles": [
+        "Сцены жизни в крепости Меропид: Тупик",
+        "Сцены жизни в крепости Меропид: Храбрость с кулаками",
+        "Сцены жизни в крепости Меропид: Паллиатив",
+        "Сцены жизни в крепости Меропид: Техника безопасности",
+        "Сцены жизни в крепости Меропид: Плохая сделка",
+        "Сцены жизни в крепости Меропид: Разговоры",
+        "Сцены жизни в крепости Меропид: Нерешённая задача",
+        "Сцены жизни в крепости Меропид: Помни, у кого брал взаймы",
+        "Сцены жизни в крепости Меропид: Видимая рука",
+        "Сцены жизни в крепости Меропид: Искусство переговоров",
+        "Сцены жизни в крепости Меропид: Воспоминания",
+        "Сцены жизни в крепости Меропид: Подготовка актёра"
+      ],
+      "decision": "remove",
+      "family": "Заработок купонов в Меропиде",
+      "reason": "Набор небольших тюремных поручений и бытовых сцен. Центральная история Катерпиллера, Лануар и Ордо Нарциссенкрейц сохранена в «Незавершённой комедии» и продолжениях.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10168",
+      "title": "Нефритовое благословение",
+      "path": "content/stories/quests/world_quests/quest_wq_10168.md",
+      "source_ids": [
+        71100,
+        71102,
+        71103
+      ],
+      "part_titles": [
+        "Древняя жертва Священной кометы",
+        "Священные горы, деревня Цяоин",
+        "Нефрит в реке, сокровище Чэньюй"
+      ],
+      "decision": "keep",
+      "family": "Нефритовое благословение",
+      "reason": "Основная история долины Чэньюй и её адептов.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10177",
+      "title": "Предзнаменование Ночного дозора",
+      "path": "content/stories/quests/world_quests/quest_wq_10177.md",
+      "source_ids": [
+        76093,
+        76099
+      ],
+      "part_titles": [
+        "Лёгкая рябь на воде",
+        "Перевёрнутая башня"
+      ],
+      "decision": "keep",
+      "family": "Нод-Край",
+      "reason": "Крупные истории Нод-Края: Ночной дозор, луна, древние технологии, звездные гости и значимые фракции.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10178",
+      "title": "Поэма Доруда",
+      "path": "content/stories/quests/world_quests/quest_wq_10178.md",
+      "source_ids": [
+        76100,
+        76160,
+        76161,
+        76162
+      ],
+      "part_titles": [
+        "Когда звучит боевая песнь",
+        "Фокусная точка древнего круга I",
+        "Фокусная точка древнего круга II",
+        "Фокусная точка древнего круга III"
+      ],
+      "decision": "keep",
+      "family": "Нод-Край",
+      "reason": "Крупные истории Нод-Края: Ночной дозор, луна, древние технологии, звездные гости и значимые фракции.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10179",
+      "title": "Звезда иного времени",
+      "path": "content/stories/quests/world_quests/quest_wq_10179.md",
+      "source_ids": [
+        76101
+      ],
+      "part_titles": [
+        "Последняя ночь, первый свет"
+      ],
+      "decision": "keep",
+      "family": "Нод-Край",
+      "reason": "Крупные истории Нод-Края: Ночной дозор, луна, древние технологии, звездные гости и значимые фракции.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10181",
+      "title": "Рапсодия Фарсалии",
+      "path": "content/stories/quests/world_quests/quest_wq_10181.md",
+      "source_ids": [
+        74194,
+        74202,
+        74206
+      ],
+      "part_titles": [
+        "Лестница к Капитолию",
+        "Восстановление Золотого пути I",
+        "Восстановление Золотого пути II"
+      ],
+      "decision": "keep",
+      "family": "Оды гармонии",
+      "reason": "История Ремурии, Рема, Боэция, Сциллы и симфонии; сохранены все присутствующие главы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10182",
+      "title": "В кандалах",
+      "path": "content/stories/quests/world_quests/quest_wq_10182.md",
+      "source_ids": [
+        74183
+      ],
+      "part_titles": [
+        "Последний день Ремурии"
+      ],
+      "decision": "keep",
+      "family": "Оды гармонии",
+      "reason": "История Ремурии, Рема, Боэция, Сциллы и симфонии; сохранены все присутствующие главы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10183",
+      "title": "Сон о Петрикоре",
+      "path": "content/stories/quests/world_quests/quest_wq_10183.md",
+      "source_ids": [
+        74184
+      ],
+      "part_titles": [
+        "Тень над Петрикором"
+      ],
+      "decision": "keep",
+      "family": "Оды гармонии",
+      "reason": "История Ремурии, Рема, Боэция, Сциллы и симфонии; сохранены все присутствующие главы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10184",
+      "title": "Дворец морского повелителя",
+      "path": "content/stories/quests/world_quests/quest_wq_10184.md",
+      "source_ids": [
+        74195
+      ],
+      "part_titles": [
+        "Подводный ноктюрн"
+      ],
+      "decision": "keep",
+      "family": "Оды гармонии",
+      "reason": "История Ремурии, Рема, Боэция, Сциллы и симфонии; сохранены все присутствующие главы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10185",
+      "title": "Реквием",
+      "path": "content/stories/quests/world_quests/quest_wq_10185.md",
+      "source_ids": [
+        74196
+      ],
+      "part_titles": [
+        "Язвы скорбной судьбы"
+      ],
+      "decision": "keep",
+      "family": "Оды гармонии",
+      "reason": "История Ремурии, Рема, Боэция, Сциллы и симфонии; сохранены все присутствующие главы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10187",
+      "title": "Геспериды любви и ненависти",
+      "path": "content/stories/quests/world_quests/quest_wq_10187.md",
+      "source_ids": [
+        77104,
+        77105,
+        77107,
+        77128,
+        77131
+      ],
+      "part_titles": [
+        "Сквозь Врата из слоновой кости",
+        "Золотое яблоко солнца",
+        "Звон колокола в вечерней мгле",
+        "Прокрустово ложе",
+        "Дом бездушных"
+      ],
+      "decision": "keep",
+      "family": "Ковчег и Око Грай",
+      "reason": "Обязательная история по прямому указанию пользователя: все имеющиеся главы поиска силы Ока Грай, Аксиньи и ковчега, включая развязку.",
+      "required": true
+    },
+    {
+      "id": "quest_wq_10188",
+      "title": "Её дворец рушится в метель",
+      "path": "content/stories/quests/world_quests/quest_wq_10188.md",
+      "source_ids": [
+        77160
+      ],
+      "part_titles": [
+        "Ковчег, что некогда был душой"
+      ],
+      "decision": "keep",
+      "family": "Ковчег и Око Грай",
+      "reason": "Обязательная история по прямому указанию пользователя: все имеющиеся главы поиска силы Ока Грай, Аксиньи и ковчега, включая развязку.",
+      "required": true
+    },
+    {
+      "id": "quest_wq_10189",
+      "title": "Уроки ведьм: Вопрос без заголовка",
+      "path": "content/stories/quests/world_quests/quest_wq_10189.md",
+      "source_ids": [
+        70074
+      ],
+      "part_titles": [
+        "Пустой кубок и пустые страницы нужно заполнить историями"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10197",
+      "title": "Первопроходцы",
+      "path": "content/stories/quests/world_quests/quest_wq_10197.md",
+      "source_ids": [
+        76132
+      ],
+      "part_titles": [
+        "Первопроходцы"
+      ],
+      "decision": "keep",
+      "family": "Нод-Край",
+      "reason": "Крупные истории Нод-Края: Ночной дозор, луна, древние технологии, звездные гости и значимые фракции.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10199",
+      "title": "Гости со звёзд",
+      "path": "content/stories/quests/world_quests/quest_wq_10199.md",
+      "source_ids": [
+        76062,
+        76127,
+        76133
+      ],
+      "part_titles": [
+        "Гости со звёзд",
+        "Первопроходцы",
+        "Гости со звёзд"
+      ],
+      "decision": "keep",
+      "family": "Нод-Край",
+      "reason": "Крупные истории Нод-Края: Ночной дозор, луна, древние технологии, звездные гости и значимые фракции.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10200",
+      "title": "Опрос мелюзины и ответ машины I",
+      "path": "content/stories/quests/world_quests/quest_wq_10200.md",
+      "source_ids": [
+        74113
+      ],
+      "part_titles": [
+        "Бродяги и озорники"
+      ],
+      "decision": "keep",
+      "family": "Институт Фонтейна и машины",
+      "reason": "История исследовательских институтов, их катастроф и разумных механизмов; связанные расследования.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10201",
+      "title": "Опрос мелюзины и ответ машины II",
+      "path": "content/stories/quests/world_quests/quest_wq_10201.md",
+      "source_ids": [
+        74115
+      ],
+      "part_titles": [
+        "Красное и чёрное"
+      ],
+      "decision": "keep",
+      "family": "Институт Фонтейна и машины",
+      "reason": "История исследовательских институтов, их катастроф и разумных механизмов; связанные расследования.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10202",
+      "title": "Опрос мелюзины и ответ машины III",
+      "path": "content/stories/quests/world_quests/quest_wq_10202.md",
+      "source_ids": [
+        74116
+      ],
+      "part_titles": [
+        "Вопросы и ответы"
+      ],
+      "decision": "keep",
+      "family": "Институт Фонтейна и машины",
+      "reason": "История исследовательских институтов, их катастроф и разумных механизмов; связанные расследования.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10203",
+      "title": "Между обещанием и забвением",
+      "path": "content/stories/quests/world_quests/quest_wq_10203.md",
+      "source_ids": [
+        75000,
+        75002,
+        75003,
+        75019
+      ],
+      "part_titles": [
+        "Заблудшие дети леса",
+        "Откровения прошлого",
+        "Дополнительные реплики",
+        "Ритуал храбреца"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10204",
+      "title": "По следам избранника драконов",
+      "path": "content/stories/quests/world_quests/quest_wq_10204.md",
+      "source_ids": [
+        75009,
+        75010,
+        75015,
+        75018,
+        75022,
+        75023,
+        75024,
+        75025,
+        75028,
+        75035,
+        75036,
+        75094,
+        75107,
+        75108,
+        75177,
+        75178
+      ],
+      "part_titles": [
+        "Сокровища и коллекционеры",
+        "Особые друзья",
+        "Сегодня будет рыбный день!",
+        "Дилемма завроветеринара",
+        "Обман и обещания",
+        "Свет, камера, мотор!",
+        "Обычная жизнь любителя заврианов",
+        "Прятки с тепетлизавром",
+        "Тяжёлые крылья",
+        "Обмен подарками",
+        "Пока семена дадут всходы...",
+        "Одинокий остров под названием «Ночь»",
+        "Камни, кокосы, торговцы заврианами",
+        "Друг огня и воды",
+        "Однажды наши пути расходятся",
+        "А так ли нужен «накал»?"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10213",
+      "title": "Засыпанный пеплом город",
+      "path": "content/stories/quests/world_quests/quest_wq_10213.md",
+      "source_ids": [
+        75048
+      ],
+      "part_titles": [
+        "Сквозь утренний туман"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10215",
+      "title": "Сон о далёком небе",
+      "path": "content/stories/quests/world_quests/quest_wq_10215.md",
+      "source_ids": [
+        75133,
+        75134,
+        75135
+      ],
+      "part_titles": [
+        "Приключение в Царстве туманов",
+        "Дворец иллюзорного змея",
+        "Дорога в небо"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10216",
+      "title": "Дрожь «Тонатиу»",
+      "path": "content/stories/quests/world_quests/quest_wq_10216.md",
+      "source_ids": [
+        75136,
+        75137,
+        75170,
+        75171,
+        75172
+      ],
+      "part_titles": [
+        "По ту сторону неба",
+        "Пробуждение",
+        "Струящийся Первозданный огонь",
+        "Струящийся Первозданный огонь",
+        "Струящийся Первозданный огонь"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10217",
+      "title": "Обещание Избранника",
+      "path": "content/stories/quests/world_quests/quest_wq_10217.md",
+      "source_ids": [
+        75138
+      ],
+      "part_titles": [
+        "Обещание Избранника"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10228",
+      "title": "Проект «Созерцатель луны»",
+      "path": "content/stories/quests/world_quests/quest_wq_10228.md",
+      "source_ids": [
+        76131,
+        76143
+      ],
+      "part_titles": [
+        "Проект «Созерцатель луны»",
+        "Проект «Созерцатель луны»"
+      ],
+      "decision": "keep",
+      "family": "Нод-Край",
+      "reason": "Крупные истории Нод-Края: Ночной дозор, луна, древние технологии, звездные гости и значимые фракции.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10230",
+      "title": "Записи о заброшенном городе",
+      "path": "content/stories/quests/world_quests/quest_wq_10230.md",
+      "source_ids": [
+        75149,
+        75150,
+        75166,
+        75175,
+        75176,
+        75181,
+        75189,
+        75200,
+        75201,
+        75202
+      ],
+      "part_titles": [
+        "Замёрзшая, зажжённая вновь земля",
+        "В поисках сокрытого сердца",
+        "Словно палящее солнце, что освещает тьму",
+        "Покинутое море мудрости",
+        "Конец пути",
+        "Закрытое место жертвоприношения",
+        "Священный трон суждений былых времён",
+        "Где некогда был расчётный массив",
+        "Где некогда сила обернулась вспять",
+        "Где некогда высились горы оружия"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10231",
+      "title": "Финальные всполохи пламени",
+      "path": "content/stories/quests/world_quests/quest_wq_10231.md",
+      "source_ids": [
+        75151
+      ],
+      "part_titles": [
+        "Предвестник разрушения и последнее прошение"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10239",
+      "title": "Уроки ведьм: Роль наставника?..",
+      "path": "content/stories/quests/world_quests/quest_wq_10239.md",
+      "source_ids": [
+        76159
+      ],
+      "part_titles": [
+        "Уроки ведьм: Роль наставника?.."
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10240",
+      "title": "Дорога к пламенным вершинам",
+      "path": "content/stories/quests/world_quests/quest_wq_10240.md",
+      "source_ids": [
+        75148
+      ],
+      "part_titles": [
+        "Прыжок Науацина"
+      ],
+      "decision": "keep",
+      "family": "Натлан и древние драконы",
+      "reason": "Основные истории избранника драконов, священной горы, древнего города и утраченных цивилизаций Натлана.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10241",
+      "title": "Полька под луной",
+      "path": "content/stories/quests/world_quests/quest_wq_10241.md",
+      "source_ids": [
+        76005,
+        76009,
+        76010,
+        76011,
+        76014
+      ],
+      "part_titles": [
+        "К зелёному острову...",
+        "Камень у врат",
+        "Добыча миража",
+        "Отголоски незавершённого прошлого",
+        "Зеркала, лабиринт и царь"
+      ],
+      "decision": "keep",
+      "family": "Нод-Край",
+      "reason": "Крупные истории Нод-Края: Ночной дозор, луна, древние технологии, звездные гости и значимые фракции.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10242",
+      "title": "Превыше серебра и злата",
+      "path": "content/stories/quests/world_quests/quest_wq_10242.md",
+      "source_ids": [
+        76202,
+        76203,
+        76204,
+        76205
+      ],
+      "part_titles": [
+        "Радостный парящий остров",
+        "Безмолвный театр",
+        "Забытый дворец",
+        "Маяк забвения"
+      ],
+      "decision": "keep",
+      "family": "Нод-Край",
+      "reason": "Крупные истории Нод-Края: Ночной дозор, луна, древние технологии, звездные гости и значимые фракции.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10252",
+      "title": "Уроки ведьм: Предмет опровержения",
+      "path": "content/stories/quests/world_quests/quest_wq_10252.md",
+      "source_ids": [
+        70092
+      ],
+      "part_titles": [
+        "Неопровержимый тезис"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10253",
+      "title": "Уроки ведьм: О различных врагах",
+      "path": "content/stories/quests/world_quests/quest_wq_10253.md",
+      "source_ids": [
+        70096
+      ],
+      "part_titles": [
+        "Символ силы"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10255",
+      "title": "В обители жизни",
+      "path": "content/stories/quests/world_quests/quest_wq_10255.md",
+      "source_ids": [
+        77102,
+        77103,
+        77110,
+        77111,
+        77112,
+        77115,
+        77116
+      ],
+      "part_titles": [
+        "Неприступные врата печали",
+        "По узкому пути",
+        "Садовник стоит неподвижно",
+        "Отдых на заброшенном поле",
+        "Хор утешения",
+        "Всходы в отсутствие садовника",
+        "Пересаженные из вчера в завтра"
+      ],
+      "decision": "keep",
+      "family": "Ковчег и Око Грай",
+      "reason": "Обязательная история по прямому указанию пользователя: все имеющиеся главы поиска силы Ока Грай, Аксиньи и ковчега, включая развязку.",
+      "required": true
+    },
+    {
+      "id": "quest_wq_10260",
+      "title": "Оттенки пустоты",
+      "path": "content/stories/quests/world_quests/quest_wq_10260.md",
+      "source_ids": [
+        76026,
+        76027,
+        76028
+      ],
+      "part_titles": [
+        "Блюз старого мира",
+        "Алое очищение",
+        "Оттенки космоса"
+      ],
+      "decision": "keep",
+      "family": "Границы Тейвата",
+      "reason": "Необычное пространство за пределами знакомых мест Тейвата; сохранено как свидетельство об устройстве мира.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10277",
+      "title": "Город кристаллов в глубине Длинного ущелья",
+      "path": "content/stories/quests/world_quests/quest_wq_10277.md",
+      "source_ids": [
+        77113,
+        77134,
+        77136,
+        77155,
+        77176,
+        77177,
+        77178,
+        77179,
+        77180,
+        77248
+      ],
+      "part_titles": [
+        "Спящим во прахе пора пробудиться и запеть",
+        "Отправляйтесь в город кристаллов",
+        "Не дать всем рекам пересохнуть",
+        "Побег из тени",
+        "Восстановить оборванный путь к спасению",
+        "Путь через каменный обвал",
+        "Преждевременное погребение",
+        "Даже на дне пещеры бывает светло",
+        "Опасная высота",
+        "Древний город альвов"
+      ],
+      "decision": "keep",
+      "family": "Фруд и кристаллы",
+      "reason": "Обязательная история по прямому указанию пользователя: все имеющиеся главы Новокитежграда, Старого Китежграда, Фруд и кристаллического бедствия.",
+      "required": true
+    },
+    {
+      "id": "quest_wq_10278",
+      "title": "Сперва заставь землю разверзнуть свою пасть",
+      "path": "content/stories/quests/world_quests/quest_wq_10278.md",
+      "source_ids": [
+        77145,
+        77146,
+        77192,
+        77205
+      ],
+      "part_titles": [
+        "Сквозь долину звёзд",
+        "И в былые дни бушевали метели",
+        "Тень, затаившаяся в башне",
+        "Тень, затаившаяся в долине"
+      ],
+      "decision": "keep",
+      "family": "Фруд и кристаллы",
+      "reason": "Обязательная история по прямому указанию пользователя: все имеющиеся главы Новокитежграда, Старого Китежграда, Фруд и кристаллического бедствия.",
+      "required": true
+    },
+    {
+      "id": "quest_wq_10279",
+      "title": "Старая улица, где эхом звучит печаль",
+      "path": "content/stories/quests/world_quests/quest_wq_10279.md",
+      "source_ids": [
+        77135,
+        77140,
+        77141
+      ],
+      "part_titles": [
+        "Опустевший город чешуи и кристаллов бедствия",
+        "Стены, некогда сдерживавшие тьму",
+        "Высокая башня, некогда взиравшая на поле боя"
+      ],
+      "decision": "keep",
+      "family": "Фруд и кристаллы",
+      "reason": "Обязательная история по прямому указанию пользователя: все имеющиеся главы Новокитежграда, Старого Китежграда, Фруд и кристаллического бедствия.",
+      "required": true
+    },
+    {
+      "id": "quest_wq_10280",
+      "title": "Зеркальное отражение, обращённое к врагам",
+      "path": "content/stories/quests/world_quests/quest_wq_10280.md",
+      "source_ids": [
+        77114,
+        77250
+      ],
+      "part_titles": [
+        "Ненависть и трон ненавистников",
+        "Отголоски кристаллического бедствия"
+      ],
+      "decision": "keep",
+      "family": "Фруд и кристаллы",
+      "reason": "Обязательная история по прямому указанию пользователя: все имеющиеся главы Новокитежграда, Старого Китежграда, Фруд и кристаллического бедствия.",
+      "required": true
+    },
+    {
+      "id": "quest_wq_10282",
+      "title": "Дворец иль царская гробница",
+      "path": "content/stories/quests/world_quests/quest_wq_10282.md",
+      "source_ids": [
+        77100,
+        77101
+      ],
+      "part_titles": [
+        "Взирая на бледную корону, погружённую в сон",
+        "Каменные звери восседают подобно призракам"
+      ],
+      "decision": "keep",
+      "family": "Ковчег и Око Грай",
+      "reason": "Обязательная история по прямому указанию пользователя: все имеющиеся главы поиска силы Ока Грай, Аксиньи и ковчега, включая развязку.",
+      "required": true
+    },
+    {
+      "id": "quest_wq_10283",
+      "title": "Трущобы",
+      "path": "content/stories/quests/world_quests/quest_wq_10283.md",
+      "source_ids": [
+        77142,
+        77143
+      ],
+      "part_titles": [
+        "Сжечь амбары и конюшни",
+        "Споры без чести и справедливости"
+      ],
+      "decision": "keep",
+      "family": "Трущобы и устройство Снежной",
+      "reason": "Крупная история отношений людей и альвов, банд, власти и общественного устройства Снежной.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10284",
+      "title": "Вариации Белого и Чёрного",
+      "path": "content/stories/quests/world_quests/quest_wq_10284.md",
+      "source_ids": [
+        77000,
+        77001,
+        77002,
+        77003,
+        77004,
+        77005,
+        77006,
+        77007,
+        77008,
+        77009,
+        77010,
+        77011,
+        77012,
+        77013,
+        77235,
+        77236,
+        77237
+      ],
+      "part_titles": [
+        "Вариации Белого и Чёрного",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание",
+        "Вариации Белого и Чёрного: Расписание"
+      ],
+      "decision": "keep",
+      "family": "Русалки и Королевский театр",
+      "reason": "Значимые истории Одетты, Водяницы, русалок, их прошлого и культуры Снежной.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10285",
+      "title": "Мечи и секреты",
+      "path": "content/stories/quests/world_quests/quest_wq_10285.md",
+      "source_ids": [
+        70100
+      ],
+      "part_titles": [
+        "Мечи и секреты"
+      ],
+      "decision": "keep",
+      "family": "Мечи и секреты",
+      "reason": "Большая сюжетная история вил и связанных со Снежной персонажей, а не отдельное поручение о сборе предметов.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_10286",
+      "title": "Вариация встречного течения",
+      "path": "content/stories/quests/world_quests/quest_wq_10286.md",
+      "source_ids": [
+        77014
+      ],
+      "part_titles": [
+        "Вариация встречного течения"
+      ],
+      "decision": "keep",
+      "family": "Русалки и Королевский театр",
+      "reason": "Значимые истории Одетты, Водяницы, русалок, их прошлого и культуры Снежной.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_1105",
+      "title": "Хранитель ветви: Дайнслейф",
+      "path": "content/stories/quests/world_quests/quest_wq_1105.md",
+      "source_ids": [
+        18000
+      ],
+      "part_titles": [
+        "Хранитель ветви: Дайнслейф"
+      ],
+      "decision": "keep",
+      "family": "Дайнслейф",
+      "reason": "Введение Дайнслейфа, сведения об Ордене Бездны и Каэнри’ах.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_2076",
+      "title": "Уроки ведьм: Неожиданное задание",
+      "path": "content/stories/quests/world_quests/quest_wq_2076.md",
+      "source_ids": [
+        10003
+      ],
+      "part_titles": [
+        "Аллан Смити, автор Фишль"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_2077",
+      "title": "Уроки ведьм: Тест на проницательность",
+      "path": "content/stories/quests/world_quests/quest_wq_2077.md",
+      "source_ids": [
+        10004
+      ],
+      "part_titles": [
+        "В высохшем колодце не отражаются звёзды"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_2078",
+      "title": "Уроки ведьм: Вопросы за пределами вопросов",
+      "path": "content/stories/quests/world_quests/quest_wq_2078.md",
+      "source_ids": [
+        10005
+      ],
+      "part_titles": [
+        "Старые друзья и новые знания"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_2079",
+      "title": "Уроки ведьм: Этот мир",
+      "path": "content/stories/quests/world_quests/quest_wq_2079.md",
+      "source_ids": [
+        10006
+      ],
+      "part_titles": [
+        "Ребенок, странствующий по миру"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_2080",
+      "title": "Уроки ведьм: Пробуждение ветра",
+      "path": "content/stories/quests/world_quests/quest_wq_2080.md",
+      "source_ids": [
+        10007
+      ],
+      "part_titles": [
+        "Истории о времени и ветре"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_2081",
+      "title": "Уроки ведьм: Волчата",
+      "path": "content/stories/quests/world_quests/quest_wq_2081.md",
+      "source_ids": [
+        10008
+      ],
+      "part_titles": [
+        "С Лупикал..."
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_2082",
+      "title": "Уроки ведьм: Цветы из сказочной страны",
+      "path": "content/stories/quests/world_quests/quest_wq_2082.md",
+      "source_ids": [
+        10009
+      ],
+      "part_titles": [
+        "Закон границ"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_2083",
+      "title": "Уроки ведьм: Искрящиеся листья",
+      "path": "content/stories/quests/world_quests/quest_wq_2083.md",
+      "source_ids": [
+        10010
+      ],
+      "part_titles": [
+        "Путешествие-испытание Великой ведьмы"
+      ],
+      "decision": "keep",
+      "family": "Уроки ведьм",
+      "reason": "Сюжетные задания Ведьминого шабаша: устройство мира, алхимия, границы жизни и истории связанных персонажей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70090",
+      "title": "Повторное приглашение на чай: Альбедо",
+      "path": "content/stories/quests/world_quests/quest_wq_70090.md",
+      "source_ids": [
+        70090
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Альбедо"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70098",
+      "title": "Знамёна на северном ветру",
+      "path": "content/stories/quests/world_quests/quest_wq_70098.md",
+      "source_ids": [
+        70098
+      ],
+      "part_titles": [
+        "Знамёна на северном ветру"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70099",
+      "title": "Ветер стих",
+      "path": "content/stories/quests/world_quests/quest_wq_70099.md",
+      "source_ids": [
+        70099
+      ],
+      "part_titles": [
+        "Ветер стих"
+      ],
+      "decision": "keep",
+      "family": "Волшебная гора",
+      "reason": "Сюжетный пролог истории санатория; сохранён вместе с основной историей.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70114",
+      "title": "Встреча на Драконьем хребте",
+      "path": "content/stories/quests/world_quests/quest_wq_70114.md",
+      "source_ids": [
+        70114
+      ],
+      "part_titles": [
+        "Встреча на Драконьем хребте"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70131",
+      "title": "Непоколебимая твердыня",
+      "path": "content/stories/quests/world_quests/quest_wq_70131.md",
+      "source_ids": [
+        70131
+      ],
+      "part_titles": [
+        "Непоколебимая твердыня"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70132",
+      "title": "За грядущий день",
+      "path": "content/stories/quests/world_quests/quest_wq_70132.md",
+      "source_ids": [
+        70132
+      ],
+      "part_titles": [
+        "За грядущий день"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70133",
+      "title": "Гром, рассеивающий скверну",
+      "path": "content/stories/quests/world_quests/quest_wq_70133.md",
+      "source_ids": [
+        70133
+      ],
+      "part_titles": [
+        "Гром, рассеивающий скверну"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70134",
+      "title": "Деревья становятся лесом",
+      "path": "content/stories/quests/world_quests/quest_wq_70134.md",
+      "source_ids": [
+        70134
+      ],
+      "part_titles": [
+        "Деревья становятся лесом"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70135",
+      "title": "Корабельный заслон",
+      "path": "content/stories/quests/world_quests/quest_wq_70135.md",
+      "source_ids": [
+        70135
+      ],
+      "part_titles": [
+        "Корабельный заслон"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70136",
+      "title": "Неугасающие угли",
+      "path": "content/stories/quests/world_quests/quest_wq_70136.md",
+      "source_ids": [
+        70136
+      ],
+      "part_titles": [
+        "Неугасающие угли"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70137",
+      "title": "К пламени жизни",
+      "path": "content/stories/quests/world_quests/quest_wq_70137.md",
+      "source_ids": [
+        70137
+      ],
+      "part_titles": [
+        "К пламени жизни"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_70138",
+      "title": "Вместе по стылым дорогам",
+      "path": "content/stories/quests/world_quests/quest_wq_70138.md",
+      "source_ids": [
+        70138
+      ],
+      "part_titles": [
+        "Вместе по стылым дорогам"
+      ],
+      "decision": "keep",
+      "family": "Последствия общего бедствия",
+      "reason": "Сюжетные сцены реакции стран, Архонтов и фракций на общее бедствие; существенное развитие основного мирового конфликта.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71036",
+      "title": "Отблески храбрости",
+      "path": "content/stories/quests/world_quests/quest_wq_71036.md",
+      "source_ids": [
+        71036
+      ],
+      "part_titles": [
+        "Отблески храбрости"
+      ],
+      "decision": "keep",
+      "family": "Чжи Цюн",
+      "reason": "Сохранена вся история Чжи Цюн как сюжетное продолжение исследования Разлома.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71038",
+      "title": "Отблески храбрости: Возвращение к закату",
+      "path": "content/stories/quests/world_quests/quest_wq_71038.md",
+      "source_ids": [
+        71038
+      ],
+      "part_titles": [
+        "Отблески храбрости: Возвращение к закату"
+      ],
+      "decision": "keep",
+      "family": "Чжи Цюн",
+      "reason": "Сохранена вся история Чжи Цюн как сюжетное продолжение исследования Разлома.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71039",
+      "title": "Отблески храбрости: Воспоминания о свете",
+      "path": "content/stories/quests/world_quests/quest_wq_71039.md",
+      "source_ids": [
+        71039
+      ],
+      "part_titles": [
+        "Отблески храбрости: Воспоминания о свете"
+      ],
+      "decision": "keep",
+      "family": "Чжи Цюн",
+      "reason": "Сохранена вся история Чжи Цюн как сюжетное продолжение исследования Разлома.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71050",
+      "title": "Микологическое исследование Разлома",
+      "path": "content/stories/quests/world_quests/quest_wq_71050.md",
+      "source_ids": [
+        71050
+      ],
+      "part_titles": [
+        "Микологическое исследование Разлома"
+      ],
+      "decision": "keep",
+      "family": "Небесный фрагмент Разлома",
+      "reason": "Исследование объясняет необычные свойства грибов воздействием упавших с неба осколков; короткое задание содержит значимое свидетельство.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71051",
+      "title": "Гидрологическое исследование Разлома",
+      "path": "content/stories/quests/world_quests/quest_wq_71051.md",
+      "source_ids": [
+        71051
+      ],
+      "part_titles": [
+        "Гидрологическое исследование Разлома"
+      ],
+      "decision": "keep",
+      "family": "Элементальная жизнь",
+      "reason": "Сведения о концентрации элементальной энергии и возможности возникновения разумных элементальных существ.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71052",
+      "title": "Палеонтологическое исследование Разлома",
+      "path": "content/stories/quests/world_quests/quest_wq_71052.md",
+      "source_ids": [
+        71052
+      ],
+      "part_titles": [
+        "Палеонтологическое исследование Разлома"
+      ],
+      "decision": "keep",
+      "family": "Древнее прошлое Разлома",
+      "reason": "Окаменелости и катастрофическое изменение среды Разлома; источник для реконструкции его прошлого.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71058",
+      "title": "Пропавшая на чужбине",
+      "path": "content/stories/quests/world_quests/quest_wq_71058.md",
+      "source_ids": [
+        71058
+      ],
+      "part_titles": [
+        "Пропавшая на чужбине"
+      ],
+      "decision": "keep",
+      "family": "Фатуи в Разломе",
+      "reason": "Связанные истории оказавшихся в Разломе Фатуи, их целей и войны с тьмой; обе части истории Катарины сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71059",
+      "title": "Пропавшая на чужбине: По следам",
+      "path": "content/stories/quests/world_quests/quest_wq_71059.md",
+      "source_ids": [
+        71059
+      ],
+      "part_titles": [
+        "Пропавшая на чужбине: По следам"
+      ],
+      "decision": "keep",
+      "family": "Фатуи в Разломе",
+      "reason": "Связанные истории оказавшихся в Разломе Фатуи, их целей и войны с тьмой; обе части истории Катарины сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71061",
+      "title": "Погасший гриб просит помощи",
+      "path": "content/stories/quests/world_quests/quest_wq_71061.md",
+      "source_ids": [
+        71061
+      ],
+      "part_titles": [
+        "Погасший гриб просит помощи"
+      ],
+      "decision": "keep",
+      "family": "Замаран",
+      "reason": "Разумный гриб, губительная энергия и связь Разлома с Сумеру.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71062",
+      "title": "Пропавший в глубинах отряд",
+      "path": "content/stories/quests/world_quests/quest_wq_71062.md",
+      "source_ids": [
+        71062
+      ],
+      "part_titles": [
+        "Пропавший в глубинах отряд"
+      ],
+      "decision": "keep",
+      "family": "Фатуи в Разломе",
+      "reason": "Связанные истории оказавшихся в Разломе Фатуи, их целей и войны с тьмой; обе части истории Катарины сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71107",
+      "title": "Прогулка по Залу Ваншань, которую стоит запомнить",
+      "path": "content/stories/quests/world_quests/quest_wq_71107.md",
+      "source_ids": [
+        71107
+      ],
+      "part_titles": [
+        "Прогулка по Залу Ваншань, которую стоит запомнить"
+      ],
+      "decision": "keep",
+      "family": "Наследие Гухуа",
+      "reason": "История школы Гухуа и её наследия; сюжет и продолжение сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71108",
+      "title": "Древние свитки и искусство меча Гухуа",
+      "path": "content/stories/quests/world_quests/quest_wq_71108.md",
+      "source_ids": [
+        71108
+      ],
+      "part_titles": [
+        "Древние свитки и искусство меча Гухуа"
+      ],
+      "decision": "keep",
+      "family": "Наследие Гухуа",
+      "reason": "История школы Гухуа и её наследия; сюжет и продолжение сохранены вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71115",
+      "title": "Бабочка, что тихо летит сквозь долину",
+      "path": "content/stories/quests/world_quests/quest_wq_71115.md",
+      "source_ids": [
+        71115
+      ],
+      "part_titles": [
+        "Бабочка, что тихо летит сквозь долину"
+      ],
+      "decision": "keep",
+      "family": "Адепты Чэньюй",
+      "reason": "История Властительницы лекарств и завершение истории Фу Цзинь и Лин Юань.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_71127",
+      "title": "Застланный облаками путь к Обители Чиван",
+      "path": "content/stories/quests/world_quests/quest_wq_71127.md",
+      "source_ids": [
+        71127
+      ],
+      "part_titles": [
+        "Застланный облаками путь к Обители Чиван"
+      ],
+      "decision": "keep",
+      "family": "Адепты Чэньюй",
+      "reason": "История Властительницы лекарств и завершение истории Фу Цзинь и Лин Юань.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_72141",
+      "title": "Зловещая инструкция",
+      "path": "content/stories/quests/world_quests/quest_wq_72141.md",
+      "source_ids": [
+        72141
+      ],
+      "part_titles": [
+        "Зловещая инструкция"
+      ],
+      "decision": "keep",
+      "family": "Татаригами",
+      "reason": "Свидетельство воздействия татаригами, человеческих жертв и трагедии острова Ясиори.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_72236",
+      "title": "Трёхцветный архив",
+      "path": "content/stories/quests/world_quests/quest_wq_72236.md",
+      "source_ids": [
+        72236
+      ],
+      "part_titles": [
+        "Трёхцветный архив"
+      ],
+      "decision": "keep",
+      "family": "Архив Энканомии",
+      "reason": "История древних записей, правителей Энканомии и делегации Каэнри’ах.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_72237",
+      "title": "Антигон",
+      "path": "content/stories/quests/world_quests/quest_wq_72237.md",
+      "source_ids": [
+        72237
+      ],
+      "part_titles": [
+        "Антигон"
+      ],
+      "decision": "keep",
+      "family": "Архив Энканомии",
+      "reason": "История древних записей, правителей Энканомии и делегации Каэнри’ах.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_72238",
+      "title": "Проблеск в Белой ночи",
+      "path": "content/stories/quests/world_quests/quest_wq_72238.md",
+      "source_ids": [
+        72238
+      ],
+      "part_titles": [
+        "Проблеск в Белой ночи"
+      ],
+      "decision": "remove",
+      "family": "Исследование карты",
+      "reason": "Короткое указание изучить вырезанную карту; в сборке нет самостоятельного повествования или диалогов.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_72240",
+      "title": "Испытание Датэ",
+      "path": "content/stories/quests/world_quests/quest_wq_72240.md",
+      "source_ids": [
+        72240
+      ],
+      "part_titles": [
+        "Испытание Датэ"
+      ],
+      "decision": "remove",
+      "family": "Испытание-головоломка",
+      "reason": "Главное содержание — испытание лабиринта; не относится к ключевым историям Энканомии, сохранённым в подборке.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73024",
+      "title": "Встреча в лесу",
+      "path": "content/stories/quests/world_quests/quest_wq_73024.md",
+      "source_ids": [
+        73024
+      ],
+      "part_titles": [
+        "Встреча в лесу"
+      ],
+      "decision": "keep",
+      "family": "Араньяка: продолжения",
+      "reason": "Сюжетные завязки и эпилоги Араньяки, память аранар, праздник и последствия завершённых историй.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73056",
+      "title": "Воспоминания Аранаги",
+      "path": "content/stories/quests/world_quests/quest_wq_73056.md",
+      "source_ids": [
+        73056
+      ],
+      "part_titles": [
+        "Воспоминания Аранаги"
+      ],
+      "decision": "keep",
+      "family": "Араньяка: продолжения",
+      "reason": "Сюжетные завязки и эпилоги Араньяки, память аранар, праздник и последствия завершённых историй.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73057",
+      "title": "Старый друг Аранакина",
+      "path": "content/stories/quests/world_quests/quest_wq_73057.md",
+      "source_ids": [
+        73057
+      ],
+      "part_titles": [
+        "Старый друг Аранакина"
+      ],
+      "decision": "keep",
+      "family": "Араньяка: продолжения",
+      "reason": "Сюжетные завязки и эпилоги Араньяки, память аранар, праздник и последствия завершённых историй.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73058",
+      "title": "Запись Арагару",
+      "path": "content/stories/quests/world_quests/quest_wq_73058.md",
+      "source_ids": [
+        73058
+      ],
+      "part_titles": [
+        "Запись Арагару"
+      ],
+      "decision": "keep",
+      "family": "Араньяка: продолжения",
+      "reason": "Сюжетные завязки и эпилоги Араньяки, память аранар, праздник и последствия завершённых историй.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73071",
+      "title": "Дарите цветы",
+      "path": "content/stories/quests/world_quests/quest_wq_73071.md",
+      "source_ids": [
+        73071
+      ],
+      "part_titles": [
+        "Дарите цветы"
+      ],
+      "decision": "remove",
+      "family": "Помощь с цветником",
+      "reason": "Локальное завершение истории цветника Варши; не содержит ключевого свидетельства о памяти аранар, втором близнеце или Увядании.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73077",
+      "title": "Легенды каменного замка",
+      "path": "content/stories/quests/world_quests/quest_wq_73077.md",
+      "source_ids": [
+        73077
+      ],
+      "part_titles": [
+        "Легенды каменного замка"
+      ],
+      "decision": "remove",
+      "family": "Повторяемое боевое испытание",
+      "reason": "Освобождение запечатанных механизмов и бои с Железоглыбой; второстепенная история по отношению к сохранённой Араньяке.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73098",
+      "title": "Статичные пейзажи",
+      "path": "content/stories/quests/world_quests/quest_wq_73098.md",
+      "source_ids": [
+        73098
+      ],
+      "part_titles": [
+        "Статичные пейзажи"
+      ],
+      "decision": "remove",
+      "family": "Поиск сокровищ",
+      "reason": "Первая карта сокровищ и почтовый ящик; существенного раскрытия прошлого аранар в этой карточке нет.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73229",
+      "title": "Дерево и сны",
+      "path": "content/stories/quests/world_quests/quest_wq_73229.md",
+      "source_ids": [
+        73229
+      ],
+      "part_titles": [
+        "Дерево и сны"
+      ],
+      "decision": "remove",
+      "family": "Открытие механики подношений",
+      "reason": "Короткое введение Древа снов без диалогового повествования; история аранар сохранена в сюжетных главах.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73244",
+      "title": "Возрадуйся обретению утраченного",
+      "path": "content/stories/quests/world_quests/quest_wq_73244.md",
+      "source_ids": [
+        73244
+      ],
+      "part_titles": [
+        "Возрадуйся обретению утраченного"
+      ],
+      "decision": "keep",
+      "family": "Джехт, Тадлэ и джинны",
+      "reason": "Сохранены связанные продолжения истории пустыни: Бенбен, судьба Тадлэ и свидетельства Лилупар о Гюрабаде.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73248",
+      "title": "Выступление в лесу",
+      "path": "content/stories/quests/world_quests/quest_wq_73248.md",
+      "source_ids": [
+        73081,
+        73248
+      ],
+      "part_titles": [
+        "Выступление в лесу",
+        "Выступление в лесу"
+      ],
+      "decision": "keep",
+      "family": "Араньяка: продолжения",
+      "reason": "Сюжетные завязки и эпилоги Араньяки, память аранар, праздник и последствия завершённых историй.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73279",
+      "title": "Сокол Тадлэ",
+      "path": "content/stories/quests/world_quests/quest_wq_73279.md",
+      "source_ids": [
+        73279
+      ],
+      "part_titles": [
+        "Сокол Тадлэ"
+      ],
+      "decision": "keep",
+      "family": "Джехт, Тадлэ и джинны",
+      "reason": "Сохранены связанные продолжения истории пустыни: Бенбен, судьба Тадлэ и свидетельства Лилупар о Гюрабаде.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73281",
+      "title": "Соколиная охота",
+      "path": "content/stories/quests/world_quests/quest_wq_73281.md",
+      "source_ids": [
+        73281
+      ],
+      "part_titles": [
+        "Соколиная охота"
+      ],
+      "decision": "keep",
+      "family": "Джехт, Тадлэ и джинны",
+      "reason": "Сохранены связанные продолжения истории пустыни: Бенбен, судьба Тадлэ и свидетельства Лилупар о Гюрабаде.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73282",
+      "title": "Сложивший крылья сокол",
+      "path": "content/stories/quests/world_quests/quest_wq_73282.md",
+      "source_ids": [
+        73282
+      ],
+      "part_titles": [
+        "Сложивший крылья сокол"
+      ],
+      "decision": "keep",
+      "family": "Джехт, Тадлэ и джинны",
+      "reason": "Сохранены связанные продолжения истории пустыни: Бенбен, судьба Тадлэ и свидетельства Лилупар о Гюрабаде.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73319",
+      "title": "Зов света",
+      "path": "content/stories/quests/world_quests/quest_wq_73319.md",
+      "source_ids": [
+        73319
+      ],
+      "part_titles": [
+        "Зов света"
+      ],
+      "decision": "remove",
+      "family": "Серия испытаний",
+      "reason": "Прежде всего полётные испытания Джарджар; существенная история Хварны и пари сохранена в основных заданиях.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73341",
+      "title": "Сердце амриты",
+      "path": "content/stories/quests/world_quests/quest_wq_73341.md",
+      "source_ids": [
+        73341
+      ],
+      "part_titles": [
+        "Сердце амриты"
+      ],
+      "decision": "keep",
+      "family": "Амрита",
+      "reason": "Объяснение возвращения памяти Хварны в Харвисптохм и природы Озера амриты.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73356",
+      "title": "Встреча «кукол»",
+      "path": "content/stories/quests/world_quests/quest_wq_73356.md",
+      "source_ids": [
+        73356
+      ],
+      "part_titles": [
+        "Встреча «кукол»"
+      ],
+      "decision": "keep",
+      "family": "Искусственная жизнь",
+      "reason": "Разговор двух кукол о создателях, ядрах и поиске сердца: содержательное свидетельство о Сандроне и Страннике.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_73357",
+      "title": "Повторное приглашение на чай: Мастер Шляпка",
+      "path": "content/stories/quests/world_quests/quest_wq_73357.md",
+      "source_ids": [
+        73357
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Мастер Шляпка"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74011",
+      "title": "Тайны «Книги Откровения»",
+      "path": "content/stories/quests/world_quests/quest_wq_74011.md",
+      "source_ids": [
+        74011
+      ],
+      "part_titles": [
+        "Тайны «Книги Откровения»"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц: дополнительные главы",
+      "reason": "Связанные ключевые свидетельства Книги Откровения, Катерпиллера, Анн и Сеймура; завершения сюжетов сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74012",
+      "title": "В поисках прошлого: Запад",
+      "path": "content/stories/quests/world_quests/quest_wq_74012.md",
+      "source_ids": [
+        74012
+      ],
+      "part_titles": [
+        "В поисках прошлого: Запад"
+      ],
+      "decision": "remove",
+      "family": "Восстановление исследовательских данных",
+      "reason": "Вспомогательный поиск гидрологических данных, башенные испытания и противостояние отряду Фатуи. Ключевая история и катастрофа института сохранены в «Хрониках Исследовательского института Фонтейна».",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74014",
+      "title": "В поисках прошлого: Юг",
+      "path": "content/stories/quests/world_quests/quest_wq_74014.md",
+      "source_ids": [
+        74014
+      ],
+      "part_titles": [
+        "В поисках прошлого: Юг"
+      ],
+      "decision": "remove",
+      "family": "Восстановление исследовательских данных",
+      "reason": "Вспомогательный поиск гидрологических данных, башенные испытания и противостояние отряду Фатуи. Ключевая история и катастрофа института сохранены в «Хрониках Исследовательского института Фонтейна».",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74054",
+      "title": "В поисках прошлого: Север",
+      "path": "content/stories/quests/world_quests/quest_wq_74054.md",
+      "source_ids": [
+        74054
+      ],
+      "part_titles": [
+        "В поисках прошлого: Север"
+      ],
+      "decision": "remove",
+      "family": "Восстановление исследовательских данных",
+      "reason": "Вспомогательный поиск гидрологических данных, башенные испытания и противостояние отряду Фатуи. Ключевая история и катастрофа института сохранены в «Хрониках Исследовательского института Фонтейна».",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74056",
+      "title": "Неоконченная история",
+      "path": "content/stories/quests/world_quests/quest_wq_74056.md",
+      "source_ids": [
+        74056
+      ],
+      "part_titles": [
+        "Неоконченная история"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц: дополнительные главы",
+      "reason": "Связанные ключевые свидетельства Книги Откровения, Катерпиллера, Анн и Сеймура; завершения сюжетов сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74120",
+      "title": "Последний вопрос",
+      "path": "content/stories/quests/world_quests/quest_wq_74120.md",
+      "source_ids": [
+        74120
+      ],
+      "part_titles": [
+        "Последний вопрос"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц: дополнительные главы",
+      "reason": "Связанные ключевые свидетельства Книги Откровения, Катерпиллера, Анн и Сеймура; завершения сюжетов сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74134",
+      "title": "Оглашение разгадки ожидается",
+      "path": "content/stories/quests/world_quests/quest_wq_74134.md",
+      "source_ids": [
+        74134
+      ],
+      "part_titles": [
+        "Оглашение разгадки ожидается"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц: дополнительные главы",
+      "reason": "Связанные ключевые свидетельства Книги Откровения, Катерпиллера, Анн и Сеймура; завершения сюжетов сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74135",
+      "title": "Первичные факты",
+      "path": "content/stories/quests/world_quests/quest_wq_74135.md",
+      "source_ids": [
+        74135
+      ],
+      "part_titles": [
+        "Первичные факты"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц: дополнительные главы",
+      "reason": "Связанные ключевые свидетельства Книги Откровения, Катерпиллера, Анн и Сеймура; завершения сюжетов сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74140",
+      "title": "Сквозь тайное зеркало",
+      "path": "content/stories/quests/world_quests/quest_wq_74140.md",
+      "source_ids": [
+        74140
+      ],
+      "part_titles": [
+        "Сквозь тайное зеркало"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц: дополнительные главы",
+      "reason": "Связанные ключевые свидетельства Книги Откровения, Катерпиллера, Анн и Сеймура; завершения сюжетов сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74141",
+      "title": "Погоня",
+      "path": "content/stories/quests/world_quests/quest_wq_74141.md",
+      "source_ids": [
+        74141
+      ],
+      "part_titles": [
+        "Погоня"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц: дополнительные главы",
+      "reason": "Связанные ключевые свидетельства Книги Откровения, Катерпиллера, Анн и Сеймура; завершения сюжетов сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74142",
+      "title": "Погоня",
+      "path": "content/stories/quests/world_quests/quest_wq_74142.md",
+      "source_ids": [
+        74142
+      ],
+      "part_titles": [
+        "Погоня"
+      ],
+      "decision": "keep",
+      "family": "Нарциссенкрейц: дополнительные главы",
+      "reason": "Связанные ключевые свидетельства Книги Откровения, Катерпиллера, Анн и Сеймура; завершения сюжетов сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74185",
+      "title": "Во имя прошлого и будущего",
+      "path": "content/stories/quests/world_quests/quest_wq_74185.md",
+      "source_ids": [
+        74185
+      ],
+      "part_titles": [
+        "Во имя прошлого и будущего"
+      ],
+      "decision": "keep",
+      "family": "Ремурия: эпилог",
+      "reason": "Послесловие основной истории Петрикора и Ремурии.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74228",
+      "title": "Дар морских духов",
+      "path": "content/stories/quests/world_quests/quest_wq_74228.md",
+      "source_ids": [
+        74228
+      ],
+      "part_titles": [
+        "Дар морских духов"
+      ],
+      "decision": "keep",
+      "family": "Мелюзины и Нёвиллет",
+      "reason": "Исторические сведения о Фонтейне, Нёвиллете и становлении мелюзин.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74248",
+      "title": "Лучшие истории к чаю",
+      "path": "content/stories/quests/world_quests/quest_wq_74248.md",
+      "source_ids": [
+        74248
+      ],
+      "part_titles": [
+        "Лучшие истории к чаю"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74249",
+      "title": "За Фонтейн!",
+      "path": "content/stories/quests/world_quests/quest_wq_74249.md",
+      "source_ids": [
+        74249
+      ],
+      "part_titles": [
+        "За Фонтейн!"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74250",
+      "title": "Беседы у камина",
+      "path": "content/stories/quests/world_quests/quest_wq_74250.md",
+      "source_ids": [
+        74250
+      ],
+      "part_titles": [
+        "Беседы у камина"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74251",
+      "title": "Истории из прошлого",
+      "path": "content/stories/quests/world_quests/quest_wq_74251.md",
+      "source_ids": [
+        74251
+      ],
+      "part_titles": [
+        "Истории из прошлого"
+      ],
+      "decision": "keep",
+      "family": "Ален, Сандроне и Нарциссенкрейц",
+      "reason": "Прямые сведения об Алене Гильотене, создании Сандроне по образу Мари-Анн, её связи с Сеймуром и судьбах участников Нарциссенкрейца.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74253",
+      "title": "Анн, Мари-Анн и малышка Мари-Анн",
+      "path": "content/stories/quests/world_quests/quest_wq_74253.md",
+      "source_ids": [
+        74253
+      ],
+      "part_titles": [
+        "Анн, Мари-Анн и малышка Мари-Анн"
+      ],
+      "decision": "keep",
+      "family": "Ален, Сандроне и Нарциссенкрейц",
+      "reason": "Прямые сведения об Алене Гильотене, создании Сандроне по образу Мари-Анн, её связи с Сеймуром и судьбах участников Нарциссенкрейца.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74254",
+      "title": "Вальс Нарцисса",
+      "path": "content/stories/quests/world_quests/quest_wq_74254.md",
+      "source_ids": [
+        74254
+      ],
+      "part_titles": [
+        "Вальс Нарцисса"
+      ],
+      "decision": "keep",
+      "family": "Ален, Сандроне и Нарциссенкрейц",
+      "reason": "Прямые сведения об Алене Гильотене, создании Сандроне по образу Мари-Анн, её связи с Сеймуром и судьбах участников Нарциссенкрейца.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74255",
+      "title": "Повторное приглашение на чай: «Настольная труппа»",
+      "path": "content/stories/quests/world_quests/quest_wq_74255.md",
+      "source_ids": [
+        74255
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: «Настольная труппа»"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74256",
+      "title": "Повторное приглашение на чай: Фурина",
+      "path": "content/stories/quests/world_quests/quest_wq_74256.md",
+      "source_ids": [
+        74256
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Фурина"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74257",
+      "title": "Повторное приглашение на чай: Дом очага",
+      "path": "content/stories/quests/world_quests/quest_wq_74257.md",
+      "source_ids": [
+        74257
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Дом очага"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74258",
+      "title": "Повторное приглашение на чай: Нёвиллет",
+      "path": "content/stories/quests/world_quests/quest_wq_74258.md",
+      "source_ids": [
+        74258
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Нёвиллет"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74259",
+      "title": "Повторное приглашение на чай: Воссоединение Ордо Нарциссенкрейц",
+      "path": "content/stories/quests/world_quests/quest_wq_74259.md",
+      "source_ids": [
+        74259
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Воссоединение Ордо Нарциссенкрейц"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74260",
+      "title": "Повторное приглашение на чай: Воссоединение Ордо Нарциссенкрейц",
+      "path": "content/stories/quests/world_quests/quest_wq_74260.md",
+      "source_ids": [
+        74260
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Воссоединение Ордо Нарциссенкрейц"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74261",
+      "title": "Повторное приглашение на чай: Воссоединение Ордо Нарциссенкрейц",
+      "path": "content/stories/quests/world_quests/quest_wq_74261.md",
+      "source_ids": [
+        74261
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Воссоединение Ордо Нарциссенкрейц"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74691",
+      "title": "Случайные пророчества",
+      "path": "content/stories/quests/world_quests/quest_wq_74691.md",
+      "source_ids": [
+        74691
+      ],
+      "part_titles": [
+        "Случайные пророчества"
+      ],
+      "decision": "keep",
+      "family": "Пророчества ведьмы",
+      "reason": "Серия Барбелот с вопросами судьбы, Сошедшего, Ведьминого шабаша и историй связанных персонажей сохранена вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74692",
+      "title": "Пророчество ведьмы: Указания фирменного коктейля",
+      "path": "content/stories/quests/world_quests/quest_wq_74692.md",
+      "source_ids": [
+        74692
+      ],
+      "part_titles": [
+        "Пророчество ведьмы: Указания фирменного коктейля"
+      ],
+      "decision": "keep",
+      "family": "Пророчества ведьмы",
+      "reason": "Серия Барбелот с вопросами судьбы, Сошедшего, Ведьминого шабаша и историй связанных персонажей сохранена вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74693",
+      "title": "Пророчество ведьмы: Указания долга",
+      "path": "content/stories/quests/world_quests/quest_wq_74693.md",
+      "source_ids": [
+        74693
+      ],
+      "part_titles": [
+        "Пророчество ведьмы: Указания долга"
+      ],
+      "decision": "keep",
+      "family": "Пророчества ведьмы",
+      "reason": "Серия Барбелот с вопросами судьбы, Сошедшего, Ведьминого шабаша и историй связанных персонажей сохранена вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74694",
+      "title": "Пророчество ведьмы: Указания путешествий",
+      "path": "content/stories/quests/world_quests/quest_wq_74694.md",
+      "source_ids": [
+        74694
+      ],
+      "part_titles": [
+        "Пророчество ведьмы: Указания путешествий"
+      ],
+      "decision": "keep",
+      "family": "Пророчества ведьмы",
+      "reason": "Серия Барбелот с вопросами судьбы, Сошедшего, Ведьминого шабаша и историй связанных персонажей сохранена вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74695",
+      "title": "Пророчество ведьмы: Указания надзирателя",
+      "path": "content/stories/quests/world_quests/quest_wq_74695.md",
+      "source_ids": [
+        74695
+      ],
+      "part_titles": [
+        "Пророчество ведьмы: Указания надзирателя"
+      ],
+      "decision": "keep",
+      "family": "Пророчества ведьмы",
+      "reason": "Серия Барбелот с вопросами судьбы, Сошедшего, Ведьминого шабаша и историй связанных персонажей сохранена вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74696",
+      "title": "Пророчество ведьмы: Указания причудливой формы",
+      "path": "content/stories/quests/world_quests/quest_wq_74696.md",
+      "source_ids": [
+        74696
+      ],
+      "part_titles": [
+        "Пророчество ведьмы: Указания причудливой формы"
+      ],
+      "decision": "keep",
+      "family": "Пророчества ведьмы",
+      "reason": "Серия Барбелот с вопросами судьбы, Сошедшего, Ведьминого шабаша и историй связанных персонажей сохранена вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74697",
+      "title": "Пророчество ведьмы: Указания вне снов",
+      "path": "content/stories/quests/world_quests/quest_wq_74697.md",
+      "source_ids": [
+        74697
+      ],
+      "part_titles": [
+        "Пророчество ведьмы: Указания вне снов"
+      ],
+      "decision": "keep",
+      "family": "Пророчества ведьмы",
+      "reason": "Серия Барбелот с вопросами судьбы, Сошедшего, Ведьминого шабаша и историй связанных персонажей сохранена вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_74698",
+      "title": "Пророчество ведьмы: Указания великого ёкая",
+      "path": "content/stories/quests/world_quests/quest_wq_74698.md",
+      "source_ids": [
+        74698
+      ],
+      "part_titles": [
+        "Пророчество ведьмы: Указания великого ёкая"
+      ],
+      "decision": "keep",
+      "family": "Пророчества ведьмы",
+      "reason": "Серия Барбелот с вопросами судьбы, Сошедшего, Ведьминого шабаша и историй связанных персонажей сохранена вместе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75064",
+      "title": "Танец в лунном свете",
+      "path": "content/stories/quests/world_quests/quest_wq_75064.md",
+      "source_ids": [
+        75064
+      ],
+      "part_titles": [
+        "Танец в лунном свете"
+      ],
+      "decision": "remove",
+      "family": "Развлекательное выступление",
+      "reason": "Отдельный сценический трюк Магнифико; не ключевой источник по истории Натлана или устройству мира.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75069",
+      "title": "Искажённое расширение",
+      "path": "content/stories/quests/world_quests/quest_wq_75069.md",
+      "source_ids": [
+        75069
+      ],
+      "part_titles": [
+        "Искажённое расширение"
+      ],
+      "decision": "keep",
+      "family": "Бездна в Натлане",
+      "reason": "История Кенина и следов Бездны, включая дневник и состояние погибшего.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75146",
+      "title": "Краткая история камней",
+      "path": "content/stories/quests/world_quests/quest_wq_75146.md",
+      "source_ids": [
+        75146
+      ],
+      "part_titles": [
+        "Краткая история камней"
+      ],
+      "decision": "keep",
+      "family": "Путь к древнему вулкану",
+      "reason": "Сюжетные этапы поиска древнего драконьего города и истории руин; сохранён связанный вводный этап.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75147",
+      "title": "Исследователь древних руин",
+      "path": "content/stories/quests/world_quests/quest_wq_75147.md",
+      "source_ids": [
+        75147
+      ],
+      "part_titles": [
+        "Исследователь древних руин"
+      ],
+      "decision": "keep",
+      "family": "Путь к древнему вулкану",
+      "reason": "Сюжетные этапы поиска древнего драконьего города и истории руин; сохранён связанный вводный этап.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75169",
+      "title": "Путь внутрь горы",
+      "path": "content/stories/quests/world_quests/quest_wq_75169.md",
+      "source_ids": [
+        75169
+      ],
+      "part_titles": [
+        "Путь внутрь горы"
+      ],
+      "decision": "keep",
+      "family": "Путь к древнему вулкану",
+      "reason": "Сюжетные этапы поиска древнего драконьего города и истории руин; сохранён связанный вводный этап.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75197",
+      "title": "Клык разложения",
+      "path": "content/stories/quests/world_quests/quest_wq_75197.md",
+      "source_ids": [
+        75197
+      ],
+      "part_titles": [
+        "Клык разложения"
+      ],
+      "decision": "keep",
+      "family": "Дурин",
+      "reason": "Драконий клык, Драконий хребет и связанные исторические свидетельства.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75230",
+      "title": "Последний выживший из Теночцитока",
+      "path": "content/stories/quests/world_quests/quest_wq_75230.md",
+      "source_ids": [
+        75230
+      ],
+      "part_titles": [
+        "Последний выживший из Теночцитока"
+      ],
+      "decision": "keep",
+      "family": "История и загробный мир Натлана",
+      "reason": "Значимые истории Теночцитока, древних племён и границы миров живых и мёртвых.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75232",
+      "title": "Пайтити мечты",
+      "path": "content/stories/quests/world_quests/quest_wq_75232.md",
+      "source_ids": [
+        75232
+      ],
+      "part_titles": [
+        "Пайтити мечты"
+      ],
+      "decision": "keep",
+      "family": "История и загробный мир Натлана",
+      "reason": "Значимые истории Теночцитока, древних племён и границы миров живых и мёртвых.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75238",
+      "title": "Небольшой подарок",
+      "path": "content/stories/quests/world_quests/quest_wq_75238.md",
+      "source_ids": [
+        75238
+      ],
+      "part_titles": [
+        "Небольшой подарок"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_75266",
+      "title": "Повторное приглашение на чай: Ситлали",
+      "path": "content/stories/quests/world_quests/quest_wq_75266.md",
+      "source_ids": [
+        75266
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Ситлали"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76001",
+      "title": "Отзвуки скорбного колокола",
+      "path": "content/stories/quests/world_quests/quest_wq_76001.md",
+      "source_ids": [
+        76001
+      ],
+      "part_titles": [
+        "Отзвуки скорбного колокола"
+      ],
+      "decision": "keep",
+      "family": "Рыцари, Светоносцы и катастрофа",
+      "reason": "Прямые исторические свидетельства, клятвы и сцены павших защитников; сохранены даже короткие повествовательные записи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76069",
+      "title": "Безымянный окровавленный памятник",
+      "path": "content/stories/quests/world_quests/quest_wq_76069.md",
+      "source_ids": [
+        76069
+      ],
+      "part_titles": [
+        "Безымянный окровавленный памятник"
+      ],
+      "decision": "keep",
+      "family": "Рыцари, Светоносцы и катастрофа",
+      "reason": "Прямые исторические свидетельства, клятвы и сцены павших защитников; сохранены даже короткие повествовательные записи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76076",
+      "title": "Клятва Светоносцев",
+      "path": "content/stories/quests/world_quests/quest_wq_76076.md",
+      "source_ids": [
+        76076
+      ],
+      "part_titles": [
+        "Клятва Светоносцев"
+      ],
+      "decision": "keep",
+      "family": "Рыцари, Светоносцы и катастрофа",
+      "reason": "Прямые исторические свидетельства, клятвы и сцены павших защитников; сохранены даже короткие повествовательные записи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76087",
+      "title": "Плач потерявшегося ребёнка",
+      "path": "content/stories/quests/world_quests/quest_wq_76087.md",
+      "source_ids": [
+        76087
+      ],
+      "part_titles": [
+        "Плач потерявшегося ребёнка"
+      ],
+      "decision": "remove",
+      "family": "Небольшая самостоятельная сцена",
+      "reason": "Короткая история потерявшегося призрака без существенного раскрытия общего прошлого региона.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76114",
+      "title": "Странный отшельник",
+      "path": "content/stories/quests/world_quests/quest_wq_76114.md",
+      "source_ids": [
+        76114
+      ],
+      "part_titles": [
+        "Странный отшельник"
+      ],
+      "decision": "keep",
+      "family": "Ягода и Блуждающее кольцо",
+      "reason": "Связанная сюжетная история Ягоды, её прошлого и организаций Нод-Края; сохранена целиком в имеющемся составе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76115",
+      "title": "Когда пыль осела",
+      "path": "content/stories/quests/world_quests/quest_wq_76115.md",
+      "source_ids": [
+        76115
+      ],
+      "part_titles": [
+        "Когда пыль осела"
+      ],
+      "decision": "keep",
+      "family": "Ягода и Блуждающее кольцо",
+      "reason": "Связанная сюжетная история Ягоды, её прошлого и организаций Нод-Края; сохранена целиком в имеющемся составе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76117",
+      "title": "Человек, который отбросил прошлое",
+      "path": "content/stories/quests/world_quests/quest_wq_76117.md",
+      "source_ids": [
+        76117
+      ],
+      "part_titles": [
+        "Человек, который отбросил прошлое"
+      ],
+      "decision": "keep",
+      "family": "Ягода и Блуждающее кольцо",
+      "reason": "Связанная сюжетная история Ягоды, её прошлого и организаций Нод-Края; сохранена целиком в имеющемся составе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76141",
+      "title": "Окно в мир",
+      "path": "content/stories/quests/world_quests/quest_wq_76141.md",
+      "source_ids": [
+        76141
+      ],
+      "part_titles": [
+        "Окно в мир"
+      ],
+      "decision": "keep",
+      "family": "Николь",
+      "reason": "Свидетельство Николь о памяти, повествовании и местах, сохранившихся только в её воспоминаниях.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76142",
+      "title": "Эхо павших героев",
+      "path": "content/stories/quests/world_quests/quest_wq_76142.md",
+      "source_ids": [
+        76142
+      ],
+      "part_titles": [
+        "Эхо павших героев"
+      ],
+      "decision": "keep",
+      "family": "Рыцари, Светоносцы и катастрофа",
+      "reason": "Прямые исторические свидетельства, клятвы и сцены павших защитников; сохранены даже короткие повествовательные записи.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76177",
+      "title": "Под Лунным морем",
+      "path": "content/stories/quests/world_quests/quest_wq_76177.md",
+      "source_ids": [
+        76177
+      ],
+      "part_titles": [
+        "Под Лунным морем"
+      ],
+      "decision": "remove",
+      "family": "Открытие пещеры",
+      "reason": "Исследовательская завязка с медузами и обнаружением пещеры; содержательной исторической развязки в карточке нет.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76180",
+      "title": "Пристанище белой голубки",
+      "path": "content/stories/quests/world_quests/quest_wq_76180.md",
+      "source_ids": [
+        76180
+      ],
+      "part_titles": [
+        "Пристанище белой голубки"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76182",
+      "title": "Встреча в саду",
+      "path": "content/stories/quests/world_quests/quest_wq_76182.md",
+      "source_ids": [
+        76182
+      ],
+      "part_titles": [
+        "Встреча в саду"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76183",
+      "title": "Огонь и лёд",
+      "path": "content/stories/quests/world_quests/quest_wq_76183.md",
+      "source_ids": [
+        76183
+      ],
+      "part_titles": [
+        "Огонь и лёд"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76184",
+      "title": "Как прежде",
+      "path": "content/stories/quests/world_quests/quest_wq_76184.md",
+      "source_ids": [
+        76184
+      ],
+      "part_titles": [
+        "Как прежде"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76185",
+      "title": "Мех и металл",
+      "path": "content/stories/quests/world_quests/quest_wq_76185.md",
+      "source_ids": [
+        76185
+      ],
+      "part_titles": [
+        "Мех и металл"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76186",
+      "title": "Скромная попытка",
+      "path": "content/stories/quests/world_quests/quest_wq_76186.md",
+      "source_ids": [
+        76186
+      ],
+      "part_titles": [
+        "Скромная попытка"
+      ],
+      "decision": "remove",
+      "family": "Бытовые встречи",
+      "reason": "Преимущественно бытовая беседа, игра или подарок; не раскрывает ключевую историю мира. Встречи с важными сведениями о создателях Сандроне сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76187",
+      "title": "Чай или пузырин?",
+      "path": "content/stories/quests/world_quests/quest_wq_76187.md",
+      "source_ids": [
+        76187
+      ],
+      "part_titles": [
+        "Чай или пузырин?"
+      ],
+      "decision": "keep",
+      "family": "Ален, Сандроне и Нарциссенкрейц",
+      "reason": "Прямые сведения об Алене Гильотене, создании Сандроне по образу Мари-Анн, её связи с Сеймуром и судьбах участников Нарциссенкрейца.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76218",
+      "title": "Приглашение от леди",
+      "path": "content/stories/quests/world_quests/quest_wq_76218.md",
+      "source_ids": [
+        76218
+      ],
+      "part_titles": [
+        "Приглашение от леди"
+      ],
+      "decision": "remove",
+      "family": "Обучение чаепитию",
+      "reason": "Введение переносного чайного столика и приглашений; отдельная механика без существенного исторического раскрытия.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76220",
+      "title": "Повторное приглашение на чай: Арлекино",
+      "path": "content/stories/quests/world_quests/quest_wq_76220.md",
+      "source_ids": [
+        76220
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Арлекино"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76221",
+      "title": "Повторное приглашение на чай: Тарталья",
+      "path": "content/stories/quests/world_quests/quest_wq_76221.md",
+      "source_ids": [
+        76221
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Тарталья"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76222",
+      "title": "Повторное приглашение на чай: Нефер",
+      "path": "content/stories/quests/world_quests/quest_wq_76222.md",
+      "source_ids": [
+        76222
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Нефер"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76223",
+      "title": "Повторное приглашение на чай: Лаума",
+      "path": "content/stories/quests/world_quests/quest_wq_76223.md",
+      "source_ids": [
+        76223
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Лаума"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76225",
+      "title": "Повторное приглашение на чай: Коломбина",
+      "path": "content/stories/quests/world_quests/quest_wq_76225.md",
+      "source_ids": [
+        76225
+      ],
+      "part_titles": [
+        "Повторное приглашение на чай: Коломбина"
+      ],
+      "decision": "remove",
+      "family": "Повторные приглашения",
+      "reason": "Повторяемая сцена приглашения и прощания без новых исторических сведений; содержательные первые встречи оценены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76660",
+      "title": "Путешествие к лунному свету",
+      "path": "content/stories/quests/world_quests/quest_wq_76660.md",
+      "source_ids": [
+        76660
+      ],
+      "part_titles": [
+        "Путешествие к лунному свету"
+      ],
+      "decision": "remove",
+      "family": "Введение региональных механик",
+      "reason": "Приветствие Катерины и объяснение работы Гильдии/сдачи поручений в регионе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_76681",
+      "title": "Происхождение последовательности",
+      "path": "content/stories/quests/world_quests/quest_wq_76681.md",
+      "source_ids": [
+        76681
+      ],
+      "part_titles": [
+        "Происхождение последовательности"
+      ],
+      "decision": "keep",
+      "family": "Древние технологии",
+      "reason": "Работа древнего терминала и упоминание Нин-Киггие; короткое, но содержательное свидетельство о древней цивилизации.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77118",
+      "title": "Одолжить у портрета золотую монету",
+      "path": "content/stories/quests/world_quests/quest_wq_77118.md",
+      "source_ids": [
+        77118
+      ],
+      "part_titles": [
+        "Одолжить у портрета золотую монету"
+      ],
+      "decision": "remove",
+      "family": "Небольшое уголовное дело",
+      "reason": "Разоблачение торговца и кража монеты под видом расследования. Основные истории власти, альвов и общественного устройства Снежной сохранены отдельно.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77125",
+      "title": "Маленький ледовик, большие неприятности",
+      "path": "content/stories/quests/world_quests/quest_wq_77125.md",
+      "source_ids": [
+        77125
+      ],
+      "part_titles": [
+        "Маленький ледовик, большие неприятности"
+      ],
+      "decision": "remove",
+      "family": "Второстепенная помощь поселению",
+      "reason": "Локальная история помощи ледовикам; не входит в отобранные ключевые истории альвов и кристаллического бедствия.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77129",
+      "title": "Великое сердце, скованное тонкой цепью",
+      "path": "content/stories/quests/world_quests/quest_wq_77129.md",
+      "source_ids": [
+        77129
+      ],
+      "part_titles": [
+        "Великое сердце, скованное тонкой цепью"
+      ],
+      "decision": "keep",
+      "family": "Ледяной великан",
+      "reason": "Связанная история древнего великана, его цепей и призрака; сохранены все три имеющиеся части.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77130",
+      "title": "Подобно лабиринту, заточившему её слуг",
+      "path": "content/stories/quests/world_quests/quest_wq_77130.md",
+      "source_ids": [
+        77130
+      ],
+      "part_titles": [
+        "Подобно лабиринту, заточившему её слуг"
+      ],
+      "decision": "keep",
+      "family": "Ледяной великан",
+      "reason": "Связанная история древнего великана, его цепей и призрака; сохранены все три имеющиеся части.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77132",
+      "title": "Нежные напевы",
+      "path": "content/stories/quests/world_quests/quest_wq_77132.md",
+      "source_ids": [
+        77132
+      ],
+      "part_titles": [
+        "Нежные напевы"
+      ],
+      "decision": "keep",
+      "family": "Ледяной великан",
+      "reason": "Связанная история древнего великана, его цепей и призрака; сохранены все три имеющиеся части.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77137",
+      "title": "Край, где шепчет прилив",
+      "path": "content/stories/quests/world_quests/quest_wq_77137.md",
+      "source_ids": [
+        77137
+      ],
+      "part_titles": [
+        "Край, где шепчет прилив"
+      ],
+      "decision": "keep",
+      "family": "Русалки и станция «Ранкова зоря»",
+      "reason": "Повествовательные главы о Водянице, Одетте, альвах и судьбе станции; сохранены развитие и завершение истории.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77144",
+      "title": "В ожидании зари",
+      "path": "content/stories/quests/world_quests/quest_wq_77144.md",
+      "source_ids": [
+        77144
+      ],
+      "part_titles": [
+        "В ожидании зари"
+      ],
+      "decision": "keep",
+      "family": "Русалки и станция «Ранкова зоря»",
+      "reason": "Повествовательные главы о Водянице, Одетте, альвах и судьбе станции; сохранены развитие и завершение истории.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77148",
+      "title": "Заснеженная лесная пустошь",
+      "path": "content/stories/quests/world_quests/quest_wq_77148.md",
+      "source_ids": [
+        77148
+      ],
+      "part_titles": [
+        "Заснеженная лесная пустошь"
+      ],
+      "decision": "keep",
+      "family": "Расследования и власть Снежной",
+      "reason": "Крупные связанные повествования о бандах, Фатуи, Дружине, транспортном управлении, коррупции и отношениях людей с альвами.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77163",
+      "title": "Прилив, рождённый из эха",
+      "path": "content/stories/quests/world_quests/quest_wq_77163.md",
+      "source_ids": [
+        77163
+      ],
+      "part_titles": [
+        "Прилив, рождённый из эха"
+      ],
+      "decision": "remove",
+      "family": "Музыкальная мини-игра",
+      "reason": "Обучение игре на ледяных колоннах без новых сведений о прошлом русалок.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77185",
+      "title": "Как снежный ком",
+      "path": "content/stories/quests/world_quests/quest_wq_77185.md",
+      "source_ids": [
+        77185
+      ],
+      "part_titles": [
+        "Как снежный ком"
+      ],
+      "decision": "remove",
+      "family": "Мини-игра со снежками",
+      "reason": "Подбор размера снежного кома и повторяемые результаты мини-игры.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77187",
+      "title": "Как в краю, где всюду звучит песнь прилива",
+      "path": "content/stories/quests/world_quests/quest_wq_77187.md",
+      "source_ids": [
+        77187
+      ],
+      "part_titles": [
+        "Как в краю, где всюду звучит песнь прилива"
+      ],
+      "decision": "remove",
+      "family": "Завершение музыкального обустройства",
+      "reason": "Обустройство репетиционной пещеры и шутливая история Водяницы; основная история русалок сохранена в других главах.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77195",
+      "title": "Тир и Глубинная сфера теней",
+      "path": "content/stories/quests/world_quests/quest_wq_77195.md",
+      "source_ids": [
+        77195
+      ],
+      "part_titles": [
+        "Тир и Глубинная сфера теней"
+      ],
+      "decision": "remove",
+      "family": "Открытие боевых функций",
+      "reason": "Объяснение тира, стенда славы и оружейных модулей. Наличие Ока Грай само по себе не делает обучение главой истории ковчега.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77202",
+      "title": "В поисках осколка ледяного зеркала",
+      "path": "content/stories/quests/world_quests/quest_wq_77202.md",
+      "source_ids": [
+        77202
+      ],
+      "part_titles": [
+        "В поисках осколка ледяного зеркала"
+      ],
+      "decision": "remove",
+      "family": "Помощь ремесленнику",
+      "reason": "Поиск пропавшего скульптора и материалов для скульптуры; самостоятельная локальная история.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77204",
+      "title": "Над лёгким снегом",
+      "path": "content/stories/quests/world_quests/quest_wq_77204.md",
+      "source_ids": [
+        77204
+      ],
+      "part_titles": [
+        "Над лёгким снегом"
+      ],
+      "decision": "keep",
+      "family": "Русалки и станция «Ранкова зоря»",
+      "reason": "Повествовательные главы о Водянице, Одетте, альвах и судьбе станции; сохранены развитие и завершение истории.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77209",
+      "title": "Вечно под водной гладью",
+      "path": "content/stories/quests/world_quests/quest_wq_77209.md",
+      "source_ids": [
+        77209
+      ],
+      "part_titles": [
+        "Вечно под водной гладью"
+      ],
+      "decision": "keep",
+      "family": "Последний аристократ",
+      "reason": "Вся история Чулкатурина и исчезнувшего старого порядка Снежной, включая её завершение.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77210",
+      "title": "Затонувший корабль проплыл мимо, не прозвонив в колокол",
+      "path": "content/stories/quests/world_quests/quest_wq_77210.md",
+      "source_ids": [
+        77210
+      ],
+      "part_titles": [
+        "Затонувший корабль проплыл мимо, не прозвонив в колокол"
+      ],
+      "decision": "keep",
+      "family": "Последний аристократ",
+      "reason": "Вся история Чулкатурина и исчезнувшего старого порядка Снежной, включая её завершение.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77211",
+      "title": "В круговороте тишины",
+      "path": "content/stories/quests/world_quests/quest_wq_77211.md",
+      "source_ids": [
+        77211
+      ],
+      "part_titles": [
+        "В круговороте тишины"
+      ],
+      "decision": "keep",
+      "family": "Последний аристократ",
+      "reason": "Вся история Чулкатурина и исчезнувшего старого порядка Снежной, включая её завершение.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77226",
+      "title": "Загнанный зверь",
+      "path": "content/stories/quests/world_quests/quest_wq_77226.md",
+      "source_ids": [
+        77226
+      ],
+      "part_titles": [
+        "Загнанный зверь"
+      ],
+      "decision": "keep",
+      "family": "Расследования и власть Снежной",
+      "reason": "Крупные связанные повествования о бандах, Фатуи, Дружине, транспортном управлении, коррупции и отношениях людей с альвами.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77227",
+      "title": "Тёмное облако в бутылке",
+      "path": "content/stories/quests/world_quests/quest_wq_77227.md",
+      "source_ids": [
+        77227
+      ],
+      "part_titles": [
+        "Тёмное облако в бутылке"
+      ],
+      "decision": "keep",
+      "family": "Расследования и власть Снежной",
+      "reason": "Крупные связанные повествования о бандах, Фатуи, Дружине, транспортном управлении, коррупции и отношениях людей с альвами.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77229",
+      "title": "Странный свет",
+      "path": "content/stories/quests/world_quests/quest_wq_77229.md",
+      "source_ids": [
+        77229
+      ],
+      "part_titles": [
+        "Странный свет"
+      ],
+      "decision": "keep",
+      "family": "Кристаллы: дополнительное свидетельство",
+      "reason": "Дополнительная сюжетная сцена о похищении Кресниковых кристаллов; оставлена рядом с обязательной историей о кристаллах.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77233",
+      "title": "Простая подработка",
+      "path": "content/stories/quests/world_quests/quest_wq_77233.md",
+      "source_ids": [
+        77233
+      ],
+      "part_titles": [
+        "Простая подработка"
+      ],
+      "decision": "remove",
+      "family": "Разовое поручение",
+      "reason": "Подработка у главного инженера и получение награды без существенной исторической линии.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77241",
+      "title": "Под слоем пыли и снега",
+      "path": "content/stories/quests/world_quests/quest_wq_77241.md",
+      "source_ids": [
+        77241
+      ],
+      "part_titles": [
+        "Под слоем пыли и снега"
+      ],
+      "decision": "keep",
+      "family": "Расследования и власть Снежной",
+      "reason": "Крупные связанные повествования о бандах, Фатуи, Дружине, транспортном управлении, коррупции и отношениях людей с альвами.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77251",
+      "title": "К рассвету и огням",
+      "path": "content/stories/quests/world_quests/quest_wq_77251.md",
+      "source_ids": [
+        77251
+      ],
+      "part_titles": [
+        "К рассвету и огням"
+      ],
+      "decision": "keep",
+      "family": "Расследования и власть Снежной",
+      "reason": "Крупные связанные повествования о бандах, Фатуи, Дружине, транспортном управлении, коррупции и отношениях людей с альвами.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77278",
+      "title": "Победитель прав",
+      "path": "content/stories/quests/world_quests/quest_wq_77278.md",
+      "source_ids": [
+        77278
+      ],
+      "part_titles": [
+        "Победитель прав"
+      ],
+      "decision": "remove",
+      "family": "Мини-игра",
+      "reason": "Спор альвов и игра в «Камень, ножницы, бумага».",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77304",
+      "title": "Лучше синица в руках",
+      "path": "content/stories/quests/world_quests/quest_wq_77304.md",
+      "source_ids": [
+        77304
+      ],
+      "part_titles": [
+        "Лучше синица в руках"
+      ],
+      "decision": "remove",
+      "family": "Локальная торговая уловка",
+      "reason": "Самостоятельная история азартной торговой игры и обмана, без существенного продолжения ключевого мирового сюжета.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77307",
+      "title": "Ради лучшего будущего",
+      "path": "content/stories/quests/world_quests/quest_wq_77307.md",
+      "source_ids": [
+        77307
+      ],
+      "part_titles": [
+        "Ради лучшего будущего"
+      ],
+      "decision": "remove",
+      "family": "Сбор предметов и мини-испытания",
+      "reason": "Получение кристаллических мотыльков, бег и вопросы о цветах; не часть истории кристаллического бедствия.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77321",
+      "title": "Добрый разносчик хлеба",
+      "path": "content/stories/quests/world_quests/quest_wq_77321.md",
+      "source_ids": [
+        77321
+      ],
+      "part_titles": [
+        "Добрый разносчик хлеба"
+      ],
+      "decision": "remove",
+      "family": "Бытовая торговая сцена",
+      "reason": "Короткая история подозрительного торговца хлебом и предложения услуги.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77500",
+      "title": "Детская радость",
+      "path": "content/stories/quests/world_quests/quest_wq_77500.md",
+      "source_ids": [
+        77500
+      ],
+      "part_titles": [
+        "Детская радость"
+      ],
+      "decision": "remove",
+      "family": "Введение детского развлечения",
+      "reason": "Короткая завязка развлечения детей на заснеженных равнинах.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77650",
+      "title": "Охотник на снежных просторах",
+      "path": "content/stories/quests/world_quests/quest_wq_77650.md",
+      "source_ids": [
+        77650
+      ],
+      "part_titles": [
+        "Охотник на снежных просторах"
+      ],
+      "decision": "keep",
+      "family": "Око Грай: наследие технологий",
+      "reason": "Связанная история Алёши, руин эпохи Белого царя, Хвергельмира и технологий Сферы теней; все имеющиеся этапы сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77651",
+      "title": "Луч утренней зари",
+      "path": "content/stories/quests/world_quests/quest_wq_77651.md",
+      "source_ids": [
+        77651
+      ],
+      "part_titles": [
+        "Луч утренней зари"
+      ],
+      "decision": "keep",
+      "family": "Око Грай: наследие технологий",
+      "reason": "Связанная история Алёши, руин эпохи Белого царя, Хвергельмира и технологий Сферы теней; все имеющиеся этапы сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77652",
+      "title": "Сообща любое дело спорится",
+      "path": "content/stories/quests/world_quests/quest_wq_77652.md",
+      "source_ids": [
+        77652
+      ],
+      "part_titles": [
+        "Сообща любое дело спорится"
+      ],
+      "decision": "keep",
+      "family": "Око Грай: наследие технологий",
+      "reason": "Связанная история Алёши, руин эпохи Белого царя, Хвергельмира и технологий Сферы теней; все имеющиеся этапы сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77653",
+      "title": "Наследие Сферы теней",
+      "path": "content/stories/quests/world_quests/quest_wq_77653.md",
+      "source_ids": [
+        77653
+      ],
+      "part_titles": [
+        "Наследие Сферы теней"
+      ],
+      "decision": "keep",
+      "family": "Око Грай: наследие технологий",
+      "reason": "Связанная история Алёши, руин эпохи Белого царя, Хвергельмира и технологий Сферы теней; все имеющиеся этапы сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77654",
+      "title": "Наследие Сферы теней",
+      "path": "content/stories/quests/world_quests/quest_wq_77654.md",
+      "source_ids": [
+        77654
+      ],
+      "part_titles": [
+        "Наследие Сферы теней"
+      ],
+      "decision": "keep",
+      "family": "Око Грай: наследие технологий",
+      "reason": "Связанная история Алёши, руин эпохи Белого царя, Хвергельмира и технологий Сферы теней; все имеющиеся этапы сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77655",
+      "title": "Наследие Сферы теней",
+      "path": "content/stories/quests/world_quests/quest_wq_77655.md",
+      "source_ids": [
+        77655
+      ],
+      "part_titles": [
+        "Наследие Сферы теней"
+      ],
+      "decision": "keep",
+      "family": "Око Грай: наследие технологий",
+      "reason": "Связанная история Алёши, руин эпохи Белого царя, Хвергельмира и технологий Сферы теней; все имеющиеся этапы сохранены.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77656",
+      "title": "Заря после снегопада",
+      "path": "content/stories/quests/world_quests/quest_wq_77656.md",
+      "source_ids": [
+        77656
+      ],
+      "part_titles": [
+        "Заря после снегопада"
+      ],
+      "decision": "keep",
+      "family": "Русалки и станция «Ранкова зоря»",
+      "reason": "Повествовательные главы о Водянице, Одетте, альвах и судьбе станции; сохранены развитие и завершение истории.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77657",
+      "title": "Особый отбор",
+      "path": "content/stories/quests/world_quests/quest_wq_77657.md",
+      "source_ids": [
+        77657
+      ],
+      "part_titles": [
+        "Особый отбор"
+      ],
+      "decision": "remove",
+      "family": "Введение локальной активности",
+      "reason": "Объявление об отборе в Дружину и объяснение требований; основные сведения об армии сохранены в заданиях Царицы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77664",
+      "title": "Письмо из Заполярного дворца",
+      "path": "content/stories/quests/world_quests/quest_wq_77664.md",
+      "source_ids": [
+        77664
+      ],
+      "part_titles": [
+        "Письмо из Заполярного дворца"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77665",
+      "title": "Новый портрет Царицы",
+      "path": "content/stories/quests/world_quests/quest_wq_77665.md",
+      "source_ids": [
+        77665
+      ],
+      "part_titles": [
+        "Новый портрет Царицы"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77666",
+      "title": "Собрание при дворе",
+      "path": "content/stories/quests/world_quests/quest_wq_77666.md",
+      "source_ids": [
+        77666
+      ],
+      "part_titles": [
+        "Собрание при дворе"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77667",
+      "title": "Подарок детям",
+      "path": "content/stories/quests/world_quests/quest_wq_77667.md",
+      "source_ids": [
+        77667
+      ],
+      "part_titles": [
+        "Подарок детям"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77668",
+      "title": "Зимняя ночь. Благовоспитанные дамы. Чаепитие.",
+      "path": "content/stories/quests/world_quests/quest_wq_77668.md",
+      "source_ids": [
+        77668
+      ],
+      "part_titles": [
+        "Зимняя ночь. Благовоспитанные дамы. Чаепитие."
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77669",
+      "title": "Шахматы Царицы I",
+      "path": "content/stories/quests/world_quests/quest_wq_77669.md",
+      "source_ids": [
+        77669
+      ],
+      "part_titles": [
+        "Шахматы Царицы I"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77670",
+      "title": "Снежные гости",
+      "path": "content/stories/quests/world_quests/quest_wq_77670.md",
+      "source_ids": [
+        77670
+      ],
+      "part_titles": [
+        "Снежные гости"
+      ],
+      "decision": "keep",
+      "family": "Русалки и станция «Ранкова зоря»",
+      "reason": "Повествовательные главы о Водянице, Одетте, альвах и судьбе станции; сохранены развитие и завершение истории.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77671",
+      "title": "Она не выходит на поклон",
+      "path": "content/stories/quests/world_quests/quest_wq_77671.md",
+      "source_ids": [
+        77671
+      ],
+      "part_titles": [
+        "Она не выходит на поклон"
+      ],
+      "decision": "remove",
+      "family": "Личная музыкальная шкатулка",
+      "reason": "Небольшая история ремонта шкатулки Одетты; большая сюжетная история персонажа сохранена в «Вариациях Белого и Чёрного».",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77672",
+      "title": "Благодарность от той, кто не выходит на поклон",
+      "path": "content/stories/quests/world_quests/quest_wq_77672.md",
+      "source_ids": [
+        77672
+      ],
+      "part_titles": [
+        "Благодарность от той, кто не выходит на поклон"
+      ],
+      "decision": "remove",
+      "family": "Личная музыкальная шкатулка",
+      "reason": "Небольшая история ремонта шкатулки Одетты; большая сюжетная история персонажа сохранена в «Вариациях Белого и Чёрного».",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77676",
+      "title": "Новые горизонты приключений",
+      "path": "content/stories/quests/world_quests/quest_wq_77676.md",
+      "source_ids": [
+        77676
+      ],
+      "part_titles": [
+        "Новые горизонты приключений"
+      ],
+      "decision": "remove",
+      "family": "Введение региональных механик",
+      "reason": "Приветствие Катерины и объяснение работы Гильдии/сдачи поручений в регионе.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77677",
+      "title": "Прекрасный отдых в оазисе",
+      "path": "content/stories/quests/world_quests/quest_wq_77677.md",
+      "source_ids": [
+        77677
+      ],
+      "part_titles": [
+        "Прекрасный отдых в оазисе"
+      ],
+      "decision": "remove",
+      "family": "Отдых и угощение",
+      "reason": "Бытовой отдых друзей в оазисе и послесловие об отпуске; основная история связанных персонажей сохранена.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77678",
+      "title": "Воспоминания об отпуске",
+      "path": "content/stories/quests/world_quests/quest_wq_77678.md",
+      "source_ids": [
+        77678
+      ],
+      "part_titles": [
+        "Воспоминания об отпуске"
+      ],
+      "decision": "remove",
+      "family": "Отдых и угощение",
+      "reason": "Бытовой отдых друзей в оазисе и послесловие об отпуске; основная история связанных персонажей сохранена.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77681",
+      "title": "Картофель, горячий суп, снежные просторы...",
+      "path": "content/stories/quests/world_quests/quest_wq_77681.md",
+      "source_ids": [
+        77681
+      ],
+      "part_titles": [
+        "Картофель, горячий суп, снежные просторы..."
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77682",
+      "title": "Боевой строй против лютой зимы",
+      "path": "content/stories/quests/world_quests/quest_wq_77682.md",
+      "source_ids": [
+        77682
+      ],
+      "part_titles": [
+        "Боевой строй против лютой зимы"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77683",
+      "title": "Оружие и печати",
+      "path": "content/stories/quests/world_quests/quest_wq_77683.md",
+      "source_ids": [
+        77683
+      ],
+      "part_titles": [
+        "Оружие и печати"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77684",
+      "title": "Финансовый план",
+      "path": "content/stories/quests/world_quests/quest_wq_77684.md",
+      "source_ids": [
+        77684
+      ],
+      "part_titles": [
+        "Финансовый план"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77685",
+      "title": "Жизнь на платформе",
+      "path": "content/stories/quests/world_quests/quest_wq_77685.md",
+      "source_ids": [
+        77685
+      ],
+      "part_titles": [
+        "Жизнь на платформе"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77686",
+      "title": "Шахматная партия Царицы II",
+      "path": "content/stories/quests/world_quests/quest_wq_77686.md",
+      "source_ids": [
+        77686
+      ],
+      "part_titles": [
+        "Шахматная партия Царицы II"
+      ],
+      "decision": "keep",
+      "family": "Царица и устройство Снежной",
+      "reason": "Сюжетная серия раскрывает Царицу, её правление, двор, Фатуи, армию и шахматные представления об устройстве мира; сохранены повествовательные этапы.",
+      "required": false
+    },
+    {
+      "id": "quest_wq_77697",
+      "title": "Товар, который запомнят",
+      "path": "content/stories/quests/world_quests/quest_wq_77697.md",
+      "source_ids": [
+        77697
+      ],
+      "part_titles": [
+        "Товар, который запомнят"
+      ],
+      "decision": "remove",
+      "family": "Получение вознаграждения",
+      "reason": "Короткий отчёт о продаже матрёшек и вручение награды; сама сюжетная глава о финансовом плане Царицы сохранена.",
+      "required": false
+    }
+  ],
+  "later_series_metadata_update": "WORLD_QUEST_SERIES.md"
+}

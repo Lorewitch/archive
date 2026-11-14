@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 74698
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74698
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
@@ -25,10 +25,17 @@
 # quest_collections: witch_revelation
 
 # quest_series_ru: Пророчество ведьмы
+# game_source_ids: 74698
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 80
 
 ## RU
 
 ### Пророчество ведьмы: Указания великого ёкая
+
+#### Журнал
+
+- **Путешественник:** Я ничего не видела(а)! Глаза были закрыты!
 
 У гадального киоска Барбелот вы встречаете Яэ Мико...
 
@@ -38,11 +45,11 @@
 
 **Паймон:** Помнишь Фестиваль цветов Микавы? Всё закончилось хорошо, но как же было сложно...
 
-И заставила нас подписать кабальный контракт.
+- **Путешественник:** И заставила нас подписать кабальный контракт.
 
 **Паймон:** Но не в этот раз... Хе-хе, это не мы будем работать, так что...
 
-Тише, тише...
+- **Путешественник:** Тише, тише...
 
 **Яэ Мико:** Ну и ну! Путешественник и малышка Паймон. Вот уж не ожидала встретить вас в Фонтейне. Вы здесь...
 
@@ -52,9 +59,15 @@
 
 **Паймон:** Нет-нет, мы тоже очень рады встретить тебя, Мико. Хе-хе-хе... А что ты здесь делаешь?
 
+##### Вариант ответа 1
+
 - **Путешественник:** (Довольно неловкая попытка сменить тему...)
 
+##### Вариант ответа 2
+
 - **Путешественник:** (Мико обвела нас вокруг пальца...)
+
+##### Общее продолжение
 
 **Яэ Мико:** Что ещё остаётся делать бедному, перегруженному работой главному редактору? Конечно же, разъезжать повсюду ради процветания издательского дома Яэ.
 
@@ -70,15 +83,15 @@
 
 **Паймон:** Ты уже вытянула? А Паймон столько времени думала!
 
-Какую карту ты вытянула?
+- **Путешественник:** Какую карту ты вытянула?
 
 **Яэ Мико:** Ой-ой, неужели так интересуетесь моим будущим? Хе, если уж так хотите узнать, я не против вам показать. Но за это придётся заплатить соответствующую цену.
 
 **Яэ Мико:** Дайте подумать... Как насчёт того, чтобы подписать контракт с издательским домом Яэ? Вы сможете превратить свои приключения в захватывающий роман.
 
-**Яэ Мико:** Следуя последним тенденциям в выборе названий, мы могли бы назвать его («Сначала я нашла живую консерву, а потом стала непобедимой»)(«Сначала я нашёл живую консерву, а потом стал непобедимым»). О, мы продадим море экземпляров!
+**Яэ Мико:** Следуя последним тенденциям в выборе названий, мы могли бы назвать его «Сначала я нашёл живую консерву, а потом стал непобедимым». О, мы продадим море экземпляров! / Следуя последним тенденциям в выборе названий, мы могли бы назвать его «Сначала я нашла живую консерву, а потом стала непобедимой». О, мы продадим море экземпляров!
 
-Это будет очень толстая книга...
+- **Путешественник:** Это будет очень толстая книга...
 
 **Яэ Мико:** Кому какое дело? Главное, чтобы было интересно. Я однажды опубликовала лёгкий роман под названием «Горизонт за парадоксом».
 
@@ -86,13 +99,19 @@
 
 **Яэ Мико:** Если сможешь написать столько же, то я, главный редактор, лично отредактирую всё это. Что скажешь?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты хочешь поторопить меня с рукописью!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Извини, но нет. Мне нужно продолжить свои приключения...
 
+##### Общее продолжение
+
 **Яэ Мико:** Значит, тебе совершенно неинтересно, какую карту я вытянула?
 
-Мне вдруг расхотелось смотреть...
+- **Путешественник:** Мне вдруг расхотелось смотреть...
 
 **Паймон:** Да! Вообще-то Паймон тоже не так уж и...
 
@@ -100,17 +119,29 @@
 
 **Яэ Мико:** Как сказала госпожа Барбелот... перевёрнутая «Справедливость».
 
-- **Путешественник:** Я ничего не видела(а)! Глаза были закрыты!
+##### Вариант ответа 1
 
-- **Путешественник:** Я ничего не слышал(а)! Я заткнула уши!
+- **Путешественник:** Я ничего не видел! Глаза были закрыты! / Я ничего не видела! Глаза были закрыты!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Я ничего не слышал! Я заткнул уши! / Я ничего не слышала! Я заткнула уши!
+
+##### Общее продолжение
 
 **Яэ Мико:** Не хочешь смотреть? Ладно. Раз тебя так мало интересует гадание, то в следующий раз, когда придёшь за предсказанием, не рассчитывай, что я помогу тебе вытащить листок.
 
 **Яэ Мико:** Кстати, вы ведь в последнее время часто приходите в святилище, чтобы повесить молитвенные дощечки? Как насчёт...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Какая удачная карта!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Карта «Справедливость» звучит прекрасно!
+
+##### Общее продолжение
 
 **Паймон:** Ох... Серьёзно?!
 
@@ -118,11 +149,13 @@
 
 **Барбелот:** Карта называется «Справедливость», но она не символизирует хорошего или плохого человека в общепринятом смысле.
 
+**Барбелот:** Лучше было бы сказать... Поскольку карта находится в перевёрнутом положении, она символизирует нечестного человека.
+
 **Яэ Мико:** Нечестного? Да как же так?.. Когда я толкую им предсказания, я всегда честна до невозможности... Не так ли?
 
-**Паймон:** Паймон помнит только, что каждый раз, когда Мико проводит для (путешественницы)(путешественника) гадание, Путешественник вытягивает «Большую удачу»...
+**Паймон:** Паймон помнит только, что каждый раз, когда Мико проводит для путешественника гадание, Путешественник вытягивает «Большую удачу»... / Паймон помнит только, что каждый раз, когда Мико проводит для путешественницы гадание, Путешественник вытягивает «Большую удачу»...
 
-**Яэ Мико:** Всё потому, что он везучий / она везучая... Точнее, он(а) невероятно везуч(а), когда находится рядом с Гудзи.
+**Яэ Мико:** Всё потому, что он везучий... Точнее, он невероятно везуч, когда находится рядом с Гудзи. / Всё потому, что она везучая... Точнее, она невероятно везуча, когда находится рядом с Гудзи.
 
 **Барбелот:** Удача... Да, прекрасный выбор слова. Перевёрнутая «Справедливость» символизирует искажённую причинно-следственную связь, дисбаланс, нечестность... и неудовлетворённость.
 
@@ -152,7 +185,13 @@
 
 **Яэ Мико:** Гарантирую, что всем достанутся самые удачные предсказания.
 
-**Барбелот:** Лучше было бы сказать... Поскольку карта находится в перевёрнутом положении, она символизирует нечестного человека.
+#### Послушайте историю Яэ Мико...
+
+#### Послушайте историю Яэ Мико...
+
+#### Завершите историю Яэ Мико
+
+#### Покиньте историю
 
 ## EN
 
@@ -166,11 +205,11 @@ You encounter Yae Miko at Barbeloth's fortune-telling booth...
 
 **Paimon:** You remember the Mikawa Flower Festival, right? Sure, everything turned out for the best, but it was a real headache to get there...
 
-And she made us sign ourselves away.
+- **Traveler:** And she made us sign ourselves away.
 
 **Paimon:** But not this time... Hehe, we're not the ones doing labor, so we definitely won't—
 
-Keep your voice down...
+- **Traveler:** Keep your voice down...
 
 **Yae Miko:** Well, well... Traveler, Paimon. To think we'd run into each other all the way out here in Fontaine. So, what are you—
 
@@ -180,9 +219,15 @@ Keep your voice down...
 
 **Paimon:** No, no, it's not like that! We're really happy to see you, Miko. Hehehe... What brings you to Fontaine, anyway?
 
+##### Response branch 1
+
 - **Traveler:** (Well that was an awkward change of subject...)
 
+##### Response branch 2
+
 - **Traveler:** (Miko really got us this time...)
+
+##### Shared continuation
 
 **Yae Miko:** Why else would a poor, overworked Editor-in-Chief like me be here? I'm toiling away on Yae Publishing House business, of course.
 
@@ -198,7 +243,7 @@ Keep your voice down...
 
 **Paimon:** Huh? You're finished already? Why didn't you say so sooner!?
 
-What card did you draw?
+- **Traveler:** What card did you draw?
 
 **Yae Miko:** My, my, taking such an interest in my future, are we? Hehe, if you want to know, I might be persuaded to let you see. However, you'll have to pay a price.
 
@@ -206,7 +251,7 @@ What card did you draw?
 
 **Yae Miko:** Following the latest naming trends, we could call it, "I Picked Up Emergency Food at the Start, and Now I'm Invincible." Oh, we're going to sell so many copies!
 
-It would need to be a pretty thick book...
+- **Traveler:** It would need to be a pretty thick book...
 
 **Yae Miko:** Who cares? As long as it's entertaining, you can make it as long as you want. I once published a light novel called "The Horizon Beyond the Paradox."
 
@@ -214,13 +259,19 @@ It would need to be a pretty thick book...
 
 **Yae Miko:** If you manage to churn out that much, then I, Editor-in-Chief, will edit it all personally. What do you say?
 
+##### Response branch 1
+
 - **Traveler:** You just want to rush my drafts!
+
+##### Response branch 2
 
 - **Traveler:** Sorry, but no. I still have adventuring to do...
 
+##### Shared continuation
+
 **Yae Miko:** Interesting... So, you don't want to see which card I drew, then?
 
-I've suddenly lost all interest...
+- **Traveler:** I've suddenly lost all interest...
 
 **Paimon:** Yes! It turns out we're not that—
 
@@ -228,17 +279,29 @@ I've suddenly lost all interest...
 
 **Yae Miko:** According to Lady Barbeloth... it's "reversed Justice."
 
+##### Response branch 1
+
 - **Traveler:** I didn't see that, I covered my eyes!
 
+##### Response branch 2
+
 - **Traveler:** I didn't hear that, I covered my ears!
+
+##### Shared continuation
 
 **Yae Miko:** You don't want to see? Very well... Since you have so little interest in divination, the next time you come for a fortune slip, don't expect me to help you draw.
 
 **Yae Miko:** Come to think of it, you two have been visiting the shrine quite often lately to hang prayer plaques, haven't you? How about...
 
+##### Response branch 1
+
 - **Traveler:** That's a great card to draw!
 
+##### Response branch 2
+
 - **Traveler:** Justice... It's got a nice ring to it!
+
+##### Shared continuation
 
 **Paimon:** *sigh* Seriously!?
 
@@ -246,11 +309,13 @@ I've suddenly lost all interest...
 
 **Barbeloth:** The card is named Justice, but it doesn't represent a just or unjust person — at least not in a conventional sense.
 
+**Barbeloth:** Perhaps it would be better to say... Since it's currently reversed, it represents a "dishonest" person.
+
 **Yae Miko:** Dishonest? There must be some mistake. I'm always honest when helping these two interpret their fortune slips... Isn't that right?
 
 **Paimon:** All Paimon knows is that whenever Miko helps Traveler draw fortune slips, it's always "Great Fortune"...
 
-**Yae Miko:** That's because of his / her good luck. Or at least, his / her good luck whenever he / she's by my side.
+**Yae Miko:** That's because of his good luck. Or at least, his good luck whenever he's by my side. / That's because of her good luck. Or at least, her good luck whenever she's by my side.
 
 **Barbeloth:** Luck... Now there's a fine choice of words. Reversed Justice does indeed symbolize a distorted sort of cause and effect, imbalance, dishonesty... and dissatisfaction.
 
@@ -280,7 +345,13 @@ I've suddenly lost all interest...
 
 **Yae Miko:** I assure you, everyone will draw the most auspicious slips.
 
-**Barbeloth:** Perhaps it would be better to say... Since it's currently reversed, it represents a "dishonest" person.
+#### Listen to Yae Miko's story...
+
+#### Listen to Yae Miko's story...
+
+#### Finish Yae Miko's story
+
+#### Leave the story
 
 ## ZH
 
@@ -294,11 +365,11 @@ I've suddenly lost all interest...
 
 **派蒙:** 比如上一次「三川花祭」，虽然结果上很开心啦，只不过过程上就…
 
-而且见面就让我们签卖身契。
+- **旅行者:** 而且见面就让我们签卖身契。
 
 **派蒙:** 不过这次…嘿嘿，不是我们出力，肯定不会被…
 
-小声小声…
+- **旅行者:** 小声小声…
 
 **八重神子:** 哎呀…旅行者，小派蒙。亏我们好不容易在枫丹偶遇，你们原来…
 
@@ -308,9 +379,15 @@ I've suddenly lost all interest...
 
 **派蒙:** 没有没有，我们也很高兴能在这里见到神子呢，嘿嘿嘿…神子来这里是干什么的呀？
 
+##### 对话分支 1
+
 - **旅行者:** （话题转移得好生硬…）
 
+##### 对话分支 2
+
 - **旅行者:** （完全被神子诈到了…）
+
+##### 共同后续
 
 **八重神子:** 我这个苦命的主编，还能做什么？当然是为了八重堂的生意出来奔波啊。
 
@@ -326,7 +403,7 @@ I've suddenly lost all interest...
 
 **派蒙:** 欸？已经抽过了吗？亏我还想了这么半天！
 
-抽到什么牌了？
+- **旅行者:** 抽到什么牌了？
 
 **八重神子:** 哎呀，对我的未来这么感兴趣啊？呵，想知道的话，我也不是不可以让你们看看。不过，你们也得付出点代价才行。
 
@@ -334,7 +411,7 @@ I've suddenly lost all interest...
 
 **八重神子:** 就按时下流行的起名方式，叫《开局捡到应急食品，而后天下无敌》好了，想想就一定能大卖。
 
-那这本书还挺厚的…
+- **旅行者:** 那这本书还挺厚的…
 
 **八重神子:** 没关系。只要有趣，多厚都行。本社之前还出版过一部叫《悖论后的地平线》的轻小说呢。
 
@@ -342,13 +419,19 @@ I've suddenly lost all interest...
 
 **八重神子:** 小家伙，你要是能写这么多，那我这个主编，就亲自来做你的责任编辑，怎么样？
 
+##### 对话分支 1
+
 - **旅行者:** 你就是想催我稿！
+
+##### 对话分支 2
 
 - **旅行者:** 不了不了我还要冒险…
 
+##### 共同后续
+
 **八重神子:** 哎呀，那你对我抽到的牌也不感兴趣喽？
 
-我突然也没这么想看了…
+- **旅行者:** 我突然也没这么想看了…
 
 **派蒙:** 是啊！其实我们也没有那么——
 
@@ -356,17 +439,29 @@ I've suddenly lost all interest...
 
 **八重神子:** 用这位芭比洛斯女士的描述就是…逆位的「正义」。
 
+##### 对话分支 1
+
 - **旅行者:** 我蒙住眼睛了！
 
+##### 对话分支 2
+
 - **旅行者:** 我捂住耳朵了！
+
+##### 共同后续
 
 **八重神子:** 不想看？好吧，唉，这么不喜欢占卜，那下次你们来抽「御神签」的时候，我这个不讨人喜欢的宫司，就不帮你抽了。
 
 **八重神子:** 这么说来，你们最近是不是经常来神社挂绘马来着？不如…
 
+##### 对话分支 1
+
 - **旅行者:** 这张牌抽得真好！
 
+##### 对话分支 2
+
 - **旅行者:** 正义这牌，听着就好！
+
+##### 共同后续
 
 **派蒙:** 我说你啊——
 
@@ -374,11 +469,13 @@ I've suddenly lost all interest...
 
 **芭比洛斯:** 虽然牌名为「正义」，但它并不代指普遍意义上的「好人」或「坏人」。
 
+**芭比洛斯:** 不如说…如今处于逆位的它，所指代的是「不诚实的人」。
+
 **八重神子:** 不诚实。怎么会呢，我平时给这小家伙解签的时候，可都是诚实得要命呢…是不是？
 
 **派蒙:** 我只记得，每次神子帮旅行者主持抽签的时候，旅行者抽到的都是大吉…
 
-**八重神子:** 那是这小家伙运气好，或者说，他 / 她待在本宫司身边的时候，运气很好。
+**八重神子:** 那是这小家伙运气好，或者说，他待在本宫司身边的时候，运气很好。 / 那是这小家伙运气好，或者说，她待在本宫司身边的时候，运气很好。
 
 **芭比洛斯:** 运气…那倒是巧了。逆位的「正义」，确实象征着偏差的因果、失衡、不诚实…还有不满足。
 
@@ -408,4 +505,10 @@ I've suddenly lost all interest...
 
 **八重神子:** 我保证，各位都能抽到上好的吉签。
 
-**芭比洛斯:** 不如说…如今处于逆位的它，所指代的是「不诚实的人」。
+#### 聆听八重神子的故事…
+
+#### 聆听八重神子的故事…
+
+#### 完成八重神子的故事
+
+#### 离开故事

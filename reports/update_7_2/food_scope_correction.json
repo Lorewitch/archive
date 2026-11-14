@@ -1,0 +1,1394 @@
+{
+  "reason": "Состав определяется исходным меню, а не наличием пустых папок.",
+  "removed_food_cards": 104,
+  "removed_food_icon_files": 32,
+  "menu_groups_match_original": true,
+  "entries": [
+    {
+      "id": "item_108992",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108992.md",
+      "title": {
+        "ru": "Строганина",
+        "en": "Stroganina",
+        "zh": "鱼鱼刨花"
+      },
+      "game_source_ids": "108992"
+    },
+    {
+      "id": "item_132008",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132008.md",
+      "title": {
+        "ru": "Медовик",
+        "en": "Medovik",
+        "zh": "千层蜂蜜糕"
+      },
+      "game_source_ids": "132008"
+    },
+    {
+      "id": "item_132025",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132025.md",
+      "title": {
+        "ru": "Ледяной напиток",
+        "en": "Glacial Starbrew",
+        "zh": "凛冬冰酿"
+      },
+      "game_source_ids": "132025"
+    },
+    {
+      "id": "item_132012",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132012.md",
+      "title": {
+        "ru": "Вкусный шашлык Снежной",
+        "en": "Delicious Snezhnaya Shashliks",
+        "zh": "美味的至冬烤串"
+      },
+      "game_source_ids": "132012"
+    },
+    {
+      "id": "item_132019",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132019.md",
+      "title": {
+        "ru": "Сладкие шарики мороженого",
+        "en": "Sweet Scoops",
+        "zh": "甜滋滋冰淇淋球"
+      },
+      "game_source_ids": "132019"
+    },
+    {
+      "id": "item_132044",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132044.md",
+      "title": {
+        "ru": "Блины с икрой",
+        "en": "Caviar Blini",
+        "zh": "鱼子酱布林饼"
+      },
+      "game_source_ids": "132044"
+    },
+    {
+      "id": "item_132028",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132028.md",
+      "title": {
+        "ru": "Жареная рыба по-царски",
+        "en": "Royal Grilled Fish",
+        "zh": "宫廷烤鱼"
+      },
+      "game_source_ids": "132028"
+    },
+    {
+      "id": "item_109659",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109659.md",
+      "title": {
+        "ru": "Рецепт: Борщ",
+        "en": "Recipe: Borscht",
+        "zh": "食谱：红菜汤"
+      },
+      "game_source_ids": "109659"
+    },
+    {
+      "id": "item_108984",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108984.md",
+      "title": {
+        "ru": "Увертюра чаепития: Латте-арт",
+        "en": "Tea Party Prelude: Artful Latte",
+        "zh": "茶会序曲・拉花咖啡"
+      },
+      "game_source_ids": "108984"
+    },
+    {
+      "id": "item_132055",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132055.md",
+      "title": {
+        "ru": "Валерий: Мороженое",
+        "en": "Valeriy's Ice Cream",
+        "zh": "冰淇淋・瓦列里"
+      },
+      "game_source_ids": "132055"
+    },
+    {
+      "id": "item_109657",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109657.md",
+      "title": {
+        "ru": "Рецепт: Строганина",
+        "en": "Recipe: Stroganina",
+        "zh": "食谱：鱼鱼刨花"
+      },
+      "game_source_ids": "109657"
+    },
+    {
+      "id": "item_132030",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132030.md",
+      "title": {
+        "ru": "Странная чайная слойка Адептов",
+        "en": "Suspicious Celestial Tea Crisp",
+        "zh": "奇怪的仙茗酥"
+      },
+      "game_source_ids": "132030"
+    },
+    {
+      "id": "item_132046",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132046.md",
+      "title": {
+        "ru": "Странная солянка",
+        "en": "Suspicious Solyanka",
+        "zh": "奇怪的酸辣杂拌汤"
+      },
+      "game_source_ids": "132046"
+    },
+    {
+      "id": "item_132032",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132032.md",
+      "title": {
+        "ru": "Вкусная чайная слойка Адептов",
+        "en": "Delicious Celestial Tea Crisp",
+        "zh": "美味的仙茗酥"
+      },
+      "game_source_ids": "132032"
+    },
+    {
+      "id": "item_108986",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108986.md",
+      "title": {
+        "ru": "Жаркое в горшочке",
+        "en": "Zharkoye",
+        "zh": "罐罐焖肉"
+      },
+      "game_source_ids": "108986"
+    },
+    {
+      "id": "item_132051",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132051.md",
+      "title": {
+        "ru": "Вкусный Снежный ноктюрн",
+        "en": "Delicious Snowy Nocturne",
+        "zh": "美味的雪色夜曲"
+      },
+      "game_source_ids": "132051"
+    },
+    {
+      "id": "item_132003",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132003.md",
+      "title": {
+        "ru": "Вкусное смородиновое мороженое",
+        "en": "Delicious Rimecurrant Ice Cream",
+        "zh": "美味的冰醋栗冰淇淋"
+      },
+      "game_source_ids": "132003"
+    },
+    {
+      "id": "item_132048",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132048.md",
+      "title": {
+        "ru": "Вкусная солянка",
+        "en": "Delicious Solyanka",
+        "zh": "美味的酸辣杂拌汤"
+      },
+      "game_source_ids": "132048"
+    },
+    {
+      "id": "item_132060",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132060.md",
+      "title": {
+        "ru": "Королевские блины с икрой",
+        "en": "Royal Caviar Blini",
+        "zh": "皇家特制鱼子酱布林饼"
+      },
+      "game_source_ids": "132060"
+    },
+    {
+      "id": "item_108981",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108981.md",
+      "title": {
+        "ru": "Ржаной пирожок с мясом",
+        "en": "Meat-Filled Rye Bun",
+        "zh": "肉馅黑麦包"
+      },
+      "game_source_ids": "108981"
+    },
+    {
+      "id": "item_109670",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_109670.md",
+      "title": {
+        "ru": "Рецепт: Блины с икрой",
+        "en": "Recipe: Caviar Blini",
+        "zh": "食谱：鱼子酱布林饼"
+      },
+      "game_source_ids": "109670"
+    },
+    {
+      "id": "item_132031",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132031.md",
+      "title": {
+        "ru": "Чайная слойка Адептов",
+        "en": "Celestial Tea Crisp",
+        "zh": "仙茗酥"
+      },
+      "game_source_ids": "132031"
+    },
+    {
+      "id": "item_108995",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108995.md",
+      "title": {
+        "ru": "Окрошка",
+        "en": "Snowrealm Okroshkas",
+        "zh": "雪国冷汤"
+      },
+      "game_source_ids": "108995"
+    },
+    {
+      "id": "item_108998",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108998.md",
+      "title": {
+        "ru": "Борщ",
+        "en": "Borscht",
+        "zh": "红菜汤"
+      },
+      "game_source_ids": "108998"
+    },
+    {
+      "id": "item_132035",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132035.md",
+      "title": {
+        "ru": "Вкусный морс",
+        "en": "Delicious Mors",
+        "zh": "美味的莫尔斯果酿"
+      },
+      "game_source_ids": "132035"
+    },
+    {
+      "id": "item_109671",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_109671.md",
+      "title": {
+        "ru": "Рецепт: Солянка",
+        "en": "Recipe: Solyanka",
+        "zh": "食谱：酸辣杂拌汤"
+      },
+      "game_source_ids": "109671"
+    },
+    {
+      "id": "item_132020",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132020.md",
+      "title": {
+        "ru": "Вкусные сладкие шарики мороженого",
+        "en": "Delicious Sweet Scoops",
+        "zh": "美味的甜滋滋冰淇淋球"
+      },
+      "game_source_ids": "132020"
+    },
+    {
+      "id": "item_132002",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132002.md",
+      "title": {
+        "ru": "Смородиновое мороженое",
+        "en": "Rimecurrant Ice Cream",
+        "zh": "冰醋栗冰淇淋"
+      },
+      "game_source_ids": "132002"
+    },
+    {
+      "id": "item_109665",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109665.md",
+      "title": {
+        "ru": "Рецепт: Сладкие шарики мороженого",
+        "en": "Recipe: Sweet Scoops",
+        "zh": "食谱：甜滋滋冰淇淋球"
+      },
+      "game_source_ids": "109665"
+    },
+    {
+      "id": "item_132036",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132036.md",
+      "title": {
+        "ru": "Переливчатая ария",
+        "en": "Iridescent Aria",
+        "zh": "鳞光咏叹调"
+      },
+      "game_source_ids": "132036"
+    },
+    {
+      "id": "item_109672",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_109672.md",
+      "title": {
+        "ru": "Рецепт: Снежный ноктюрн",
+        "en": "Recipe: Snowy Nocturne",
+        "zh": "食谱：雪色夜曲"
+      },
+      "game_source_ids": "109672"
+    },
+    {
+      "id": "item_108982",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108982.md",
+      "title": {
+        "ru": "Вкусный сытный ржаной пирожок",
+        "en": "Delicious Meat-Filled Rye Bun",
+        "zh": "美味的肉馅黑麦包"
+      },
+      "game_source_ids": "108982"
+    },
+    {
+      "id": "item_132010",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132010.md",
+      "title": {
+        "ru": "Странный шашлык Снежной",
+        "en": "Suspicious Snezhnaya Shashliks",
+        "zh": "奇怪的至冬烤串"
+      },
+      "game_source_ids": "132010"
+    },
+    {
+      "id": "item_108977",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108977.md",
+      "title": {
+        "ru": "Странные рёбрышки на берёзовом пару",
+        "en": "Suspicious Birch-Steamed Pork Ribs",
+        "zh": "奇怪的桦木蒸肋排"
+      },
+      "game_source_ids": "108977"
+    },
+    {
+      "id": "item_132029",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132029.md",
+      "title": {
+        "ru": "Вкусная жареная рыба по-царски",
+        "en": "Delicious Royal Grilled Fish",
+        "zh": "美味的宫廷烤鱼"
+      },
+      "game_source_ids": "132029"
+    },
+    {
+      "id": "item_108978",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108978.md",
+      "title": {
+        "ru": "Рёбрышки на берёзовом пару",
+        "en": "Birch-Steamed Pork Ribs",
+        "zh": "桦木蒸肋排"
+      },
+      "game_source_ids": "108978"
+    },
+    {
+      "id": "item_109668",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_109668.md",
+      "title": {
+        "ru": "Рецепт: Морс",
+        "en": "Recipe: Mors",
+        "zh": "食谱：莫尔斯果酿"
+      },
+      "game_source_ids": "109668"
+    },
+    {
+      "id": "item_132043",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132043.md",
+      "title": {
+        "ru": "Странные блины с икрой",
+        "en": "Suspicious Caviar Blini",
+        "zh": "奇怪的鱼子酱布林饼"
+      },
+      "game_source_ids": "132043"
+    },
+    {
+      "id": "item_132053",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132053.md",
+      "title": {
+        "ru": "Экстренная баррикада",
+        "en": "\"Emergency Barricade\"",
+        "zh": "「应急防御墙」"
+      },
+      "game_source_ids": "132053"
+    },
+    {
+      "id": "item_132001",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132001.md",
+      "title": {
+        "ru": "Странное смородиновое мороженое",
+        "en": "Suspicious Rimecurrant Ice Cream",
+        "zh": "奇怪的冰醋栗冰淇淋"
+      },
+      "game_source_ids": "132001"
+    },
+    {
+      "id": "item_132026",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132026.md",
+      "title": {
+        "ru": "Обычное мороженое",
+        "en": "Regular Ice Cream",
+        "zh": "冰淇淋・常规"
+      },
+      "game_source_ids": "132026"
+    },
+    {
+      "id": "item_132018",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132018.md",
+      "title": {
+        "ru": "Странные сладкие шарики мороженого",
+        "en": "Suspicious Sweet Scoops",
+        "zh": "奇怪的甜滋滋冰淇淋球"
+      },
+      "game_source_ids": "132018"
+    },
+    {
+      "id": "item_108988",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108988.md",
+      "title": {
+        "ru": "Странная Подворская копчёная колбаса",
+        "en": "Suspicious Podvorye Smoked Sausage",
+        "zh": "奇怪的老庭院熏肠"
+      },
+      "game_source_ids": "108988"
+    },
+    {
+      "id": "item_109658",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109658.md",
+      "title": {
+        "ru": "Рецепт: Окрошка",
+        "en": "Recipe: Snowrealm Okroshkas",
+        "zh": "食谱：雪国冷汤"
+      },
+      "game_source_ids": "109658"
+    },
+    {
+      "id": "item_132034",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132034.md",
+      "title": {
+        "ru": "Морс",
+        "en": "Mors",
+        "zh": "莫尔斯果酿"
+      },
+      "game_source_ids": "132034"
+    },
+    {
+      "id": "item_132023",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132023.md",
+      "title": {
+        "ru": "Квас",
+        "en": "Kvass",
+        "zh": "格瓦斯"
+      },
+      "game_source_ids": "132023"
+    },
+    {
+      "id": "item_132021",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132021.md",
+      "title": {
+        "ru": "Алёша: Мороженое",
+        "en": "Alyosha-Themed Ice Cream",
+        "zh": "冰淇淋・阿罗夏"
+      },
+      "game_source_ids": "132021"
+    },
+    {
+      "id": "item_108999",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108999.md",
+      "title": {
+        "ru": "Вкусный борщ",
+        "en": "Delicious Borscht",
+        "zh": "美味的红菜汤"
+      },
+      "game_source_ids": "108999"
+    },
+    {
+      "id": "item_109669",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_109669.md",
+      "title": {
+        "ru": "Рецепт: Котлета по-китежградски",
+        "en": "Recipe: Chicken Kitezhgrad",
+        "zh": "食谱：基捷鸡"
+      },
+      "game_source_ids": "109669"
+    },
+    {
+      "id": "item_132024",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132024.md",
+      "title": {
+        "ru": "Пряный медовый напиток",
+        "en": "Spiced Honey Brew",
+        "zh": "香料蜂蜜饮"
+      },
+      "game_source_ids": "132024"
+    },
+    {
+      "id": "item_109663",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109663.md",
+      "title": {
+        "ru": "Рецепт: Шашлык Снежной",
+        "en": "Recipe: Snezhnaya Shashliks",
+        "zh": "食谱：至冬烤串"
+      },
+      "game_source_ids": "109663"
+    },
+    {
+      "id": "item_132009",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132009.md",
+      "title": {
+        "ru": "Вкусный медовик",
+        "en": "Delicious Medovik",
+        "zh": "美味的千层蜂蜜糕"
+      },
+      "game_source_ids": "132009"
+    },
+    {
+      "id": "item_109662",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109662.md",
+      "title": {
+        "ru": "Рецепт: Медовик",
+        "en": "Recipe: Medovik",
+        "zh": "食谱：千层蜂蜜糕"
+      },
+      "game_source_ids": "109662"
+    },
+    {
+      "id": "item_132047",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132047.md",
+      "title": {
+        "ru": "Солянка",
+        "en": "Solyanka",
+        "zh": "酸辣杂拌汤"
+      },
+      "game_source_ids": "132047"
+    },
+    {
+      "id": "item_132054",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132054.md",
+      "title": {
+        "ru": "Митя: Мороженое",
+        "en": "Mitya's Ice Cream",
+        "zh": "冰淇淋・米提亚"
+      },
+      "game_source_ids": "132054"
+    },
+    {
+      "id": "item_132033",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132033.md",
+      "title": {
+        "ru": "Странный морс",
+        "en": "Suspicious Mors",
+        "zh": "奇怪的莫尔斯果酿"
+      },
+      "game_source_ids": "132033"
+    },
+    {
+      "id": "item_132013",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132013.md",
+      "title": {
+        "ru": "Странный «Снежноцвет на снежной равнине»",
+        "en": "Suspicious Snowball Blooms Atop Snowfields",
+        "zh": "奇怪的雪原上的雪球花"
+      },
+      "game_source_ids": "132013"
+    },
+    {
+      "id": "item_109661",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109661.md",
+      "title": {
+        "ru": "Рецепт: Глуповский хлеб",
+        "en": "Recipe: Glupov Rye Bread",
+        "zh": "食谱：格鲁波夫黑列巴"
+      },
+      "game_source_ids": "109661"
+    },
+    {
+      "id": "item_132007",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132007.md",
+      "title": {
+        "ru": "Странный медовик",
+        "en": "Suspicious Medovik",
+        "zh": "奇怪的千层蜂蜜糕"
+      },
+      "game_source_ids": "132007"
+    },
+    {
+      "id": "item_109664",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109664.md",
+      "title": {
+        "ru": "Рецепт: «Снежноцвет на снежной равнине»",
+        "en": "Recipe: Snowball Blooms Atop Snowfields",
+        "zh": "食谱：雪原上的雪球花"
+      },
+      "game_source_ids": "109664"
+    },
+    {
+      "id": "item_108994",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108994.md",
+      "title": {
+        "ru": "Странная окрошка",
+        "en": "Suspicious Snowrealm Okroshkas",
+        "zh": "奇怪的雪国冷汤"
+      },
+      "game_source_ids": "108994"
+    },
+    {
+      "id": "item_132017",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132017.md",
+      "title": {
+        "ru": "Снежный лебедь озера",
+        "en": "Lakeside Snow Swan",
+        "zh": "「湖畔边的雪鹄」"
+      },
+      "game_source_ids": "132017"
+    },
+    {
+      "id": "item_132037",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132037.md",
+      "title": {
+        "ru": "Суп из ледяных цветов",
+        "en": "Hoarfrost Soup",
+        "zh": "霜冻冰花汤"
+      },
+      "game_source_ids": "132037"
+    },
+    {
+      "id": "item_109660",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109660.md",
+      "title": {
+        "ru": "Рецепт: Смородиновое мороженое",
+        "en": "Recipe: Rimecurrant Ice Cream",
+        "zh": "食谱：冰醋栗冰淇淋"
+      },
+      "game_source_ids": "109660"
+    },
+    {
+      "id": "item_108996",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108996.md",
+      "title": {
+        "ru": "Вкусная окрошка",
+        "en": "Delicious Snowrealm Okroshkas",
+        "zh": "美味的雪国冷汤"
+      },
+      "game_source_ids": "108996"
+    },
+    {
+      "id": "item_132004",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132004.md",
+      "title": {
+        "ru": "Странный глуповский хлеб",
+        "en": "Suspicious Glupov Rye Bread",
+        "zh": "奇怪的格鲁波夫黑列巴"
+      },
+      "game_source_ids": "132004"
+    },
+    {
+      "id": "item_109656",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109656.md",
+      "title": {
+        "ru": "Рецепт: Подворская копчёная колбаса",
+        "en": "Recipe: Podvorye Smoked Sausage",
+        "zh": "食谱：老庭院熏肠"
+      },
+      "game_source_ids": "109656"
+    },
+    {
+      "id": "item_132006",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132006.md",
+      "title": {
+        "ru": "Вкусный глуповский хлеб",
+        "en": "Delicious Glupov Rye Bread",
+        "zh": "美味的格鲁波夫黑列巴"
+      },
+      "game_source_ids": "132006"
+    },
+    {
+      "id": "item_132014",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132014.md",
+      "title": {
+        "ru": "«Снежноцвет на снежной равнине»",
+        "en": "Snowball Blooms Atop Snowfields",
+        "zh": "雪原上的雪球花"
+      },
+      "game_source_ids": "132014"
+    },
+    {
+      "id": "item_108997",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108997.md",
+      "title": {
+        "ru": "Странный борщ",
+        "en": "Suspicious Borscht",
+        "zh": "奇怪的红菜汤"
+      },
+      "game_source_ids": "108997"
+    },
+    {
+      "id": "item_132057",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132057.md",
+      "title": {
+        "ru": "Королевский медовик",
+        "en": "Royal Medovik",
+        "zh": "皇家特制千层蜂蜜糕"
+      },
+      "game_source_ids": "132057"
+    },
+    {
+      "id": "item_108985",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108985.md",
+      "title": {
+        "ru": "Странное жаркое в горшочке",
+        "en": "Suspicious Zharkoye",
+        "zh": "奇怪的罐罐焖肉"
+      },
+      "game_source_ids": "108985"
+    },
+    {
+      "id": "item_109666",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_109666.md",
+      "title": {
+        "ru": "Рецепт: Жареная рыба по-царски",
+        "en": "Recipe: Royal Grilled Fish",
+        "zh": "食谱：宫廷烤鱼"
+      },
+      "game_source_ids": "109666"
+    },
+    {
+      "id": "item_132039",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132039.md",
+      "title": {
+        "ru": "Мороженое Водяницы",
+        "en": "Vodyanitsa-Themed Ice Cream",
+        "zh": "冰淇淋・沃雅妮莎"
+      },
+      "game_source_ids": "132039"
+    },
+    {
+      "id": "item_132058",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132058.md",
+      "title": {
+        "ru": "Королевская окрошка",
+        "en": "Royal Snowrealm Okroshkas",
+        "zh": "皇家特制雪国冷汤"
+      },
+      "game_source_ids": "132058"
+    },
+    {
+      "id": "item_132049",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132049.md",
+      "title": {
+        "ru": "Странный Снежный ноктюрн",
+        "en": "Suspicious Snowy Nocturne",
+        "zh": "奇怪的雪色夜曲"
+      },
+      "game_source_ids": "132049"
+    },
+    {
+      "id": "item_132052",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132052.md",
+      "title": {
+        "ru": "Энергетический обед",
+        "en": "\"Energy-Replenishing Meal\"",
+        "zh": "「能量补充餐」"
+      },
+      "game_source_ids": "132052"
+    },
+    {
+      "id": "item_109653",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_109653.md",
+      "title": {
+        "ru": "Рецепт: Рёбрышки на берёзовом пару",
+        "en": "Recipe: Birch-Steamed Pork Ribs",
+        "zh": "食谱：桦木蒸肋排"
+      },
+      "game_source_ids": "109653"
+    },
+    {
+      "id": "item_132042",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132042.md",
+      "title": {
+        "ru": "Вкусная котлета по-китежградски",
+        "en": "Delicious Chicken Kitezhgrad",
+        "zh": "美味的基捷鸡"
+      },
+      "game_source_ids": "132042"
+    },
+    {
+      "id": "item_132056",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132056.md",
+      "title": {
+        "ru": "Королевское смородиновое мороженое",
+        "en": "Royal Rimecurrant Ice Cream",
+        "zh": "皇家特制冰醋栗冰淇淋"
+      },
+      "game_source_ids": "132056"
+    },
+    {
+      "id": "item_132050",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132050.md",
+      "title": {
+        "ru": "Снежный ноктюрн",
+        "en": "Snowy Nocturne",
+        "zh": "雪色夜曲"
+      },
+      "game_source_ids": "132050"
+    },
+    {
+      "id": "item_132041",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132041.md",
+      "title": {
+        "ru": "Котлета по-китежградски",
+        "en": "Chicken Kitezhgrad",
+        "zh": "基捷鸡"
+      },
+      "game_source_ids": "132041"
+    },
+    {
+      "id": "item_132016",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132016.md",
+      "title": {
+        "ru": "Без промаха",
+        "en": "The Bullseye Roast",
+        "zh": "「弹无虚发」"
+      },
+      "game_source_ids": "132016"
+    },
+    {
+      "id": "item_132027",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132027.md",
+      "title": {
+        "ru": "Странная жареная рыба по-царски",
+        "en": "Suspicious Royal Grilled Fish",
+        "zh": "奇怪的宫廷烤鱼"
+      },
+      "game_source_ids": "132027"
+    },
+    {
+      "id": "item_109655",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_109655.md",
+      "title": {
+        "ru": "Рецепт: Жаркое в горшочке",
+        "en": "Recipe: Zharkoye",
+        "zh": "食谱：罐罐焖肉"
+      },
+      "game_source_ids": "109655"
+    },
+    {
+      "id": "item_108976",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108976.md",
+      "title": {
+        "ru": "Полифония чаепития",
+        "en": "Tea Party Polyphony",
+        "zh": "「茶会多重奏」"
+      },
+      "game_source_ids": "108976"
+    },
+    {
+      "id": "item_108983",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108983.md",
+      "title": {
+        "ru": "Увертюра чаепития: Травяной чай",
+        "en": "Tea Party Prelude: Herbal Tea",
+        "zh": "茶会序曲・花草香茶"
+      },
+      "game_source_ids": "108983"
+    },
+    {
+      "id": "item_132059",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132059.md",
+      "title": {
+        "ru": "Королевский «Снежноцвет на снежной равнине»",
+        "en": "Royal Snowball Blooms Atop Snowfields",
+        "zh": "皇家特制雪原上的雪球花"
+      },
+      "game_source_ids": "132059"
+    },
+    {
+      "id": "item_108993",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108993.md",
+      "title": {
+        "ru": "Вкусная строганина",
+        "en": "Delicious Stroganina",
+        "zh": "美味的鱼鱼刨花"
+      },
+      "game_source_ids": "108993"
+    },
+    {
+      "id": "item_132045",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132045.md",
+      "title": {
+        "ru": "Вкусные блины с икрой",
+        "en": "Delicious Caviar Blini",
+        "zh": "美味的鱼子酱布林饼"
+      },
+      "game_source_ids": "132045"
+    },
+    {
+      "id": "item_132022",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132022.md",
+      "title": {
+        "ru": "Одетта: Мороженое",
+        "en": "Odette-Themed Ice Cream",
+        "zh": "冰淇淋・奥黛塔"
+      },
+      "game_source_ids": "132022"
+    },
+    {
+      "id": "item_109667",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_109667.md",
+      "title": {
+        "ru": "Рецепт: Чайная слойка Адептов",
+        "en": "Recipe: Celestial Tea Crisp",
+        "zh": "食谱：仙茗酥"
+      },
+      "game_source_ids": "109667"
+    },
+    {
+      "id": "item_108987",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108987.md",
+      "title": {
+        "ru": "Вкусное тушёное мясо в горшочке",
+        "en": "Delicious Zharkoye",
+        "zh": "美味的罐罐焖肉"
+      },
+      "game_source_ids": "108987"
+    },
+    {
+      "id": "item_108989",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108989.md",
+      "title": {
+        "ru": "Подворская копчёная колбаса",
+        "en": "Podvorye Smoked Sausage",
+        "zh": "老庭院熏肠"
+      },
+      "game_source_ids": "108989"
+    },
+    {
+      "id": "item_108991",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108991.md",
+      "title": {
+        "ru": "Странная строганина",
+        "en": "Suspicious Stroganina",
+        "zh": "奇怪的鱼鱼刨花"
+      },
+      "game_source_ids": "108991"
+    },
+    {
+      "id": "item_108979",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108979.md",
+      "title": {
+        "ru": "Вкусные рёбрышки на берёзовом пару",
+        "en": "Delicious Birch-Steamed Pork Ribs",
+        "zh": "美味的桦木蒸肋排"
+      },
+      "game_source_ids": "108979"
+    },
+    {
+      "id": "item_132040",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.2",
+      "path": "content/items/food_potions/item_132040.md",
+      "title": {
+        "ru": "Странная котлета по-китежградски",
+        "en": "Suspicious Chicken Kitezhgrad",
+        "zh": "奇怪的基捷鸡"
+      },
+      "game_source_ids": "132040"
+    },
+    {
+      "id": "item_108990",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_108990.md",
+      "title": {
+        "ru": "Вкусная Подворская копчёная колбаса",
+        "en": "Delicious Podvorye Smoked Sausage",
+        "zh": "美味的老庭院熏肠"
+      },
+      "game_source_ids": "108990"
+    },
+    {
+      "id": "item_108980",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_108980.md",
+      "title": {
+        "ru": "Странный сытный ржаной пирожок",
+        "en": "Suspicious Meat-Filled Rye Bun",
+        "zh": "奇怪的肉馅黑麦包"
+      },
+      "game_source_ids": "108980"
+    },
+    {
+      "id": "item_109654",
+      "category": "items",
+      "group": "food_potions",
+      "version": "6.7",
+      "path": "content/items/food_potions/item_109654.md",
+      "title": {
+        "ru": "Рецепт: Сытный ржаной пирожок",
+        "en": "Recipe: Meat-Filled Rye Bun",
+        "zh": "食谱：肉馅黑麦包"
+      },
+      "game_source_ids": "109654"
+    },
+    {
+      "id": "item_132005",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132005.md",
+      "title": {
+        "ru": "Глуповский хлеб",
+        "en": "Glupov Rye Bread",
+        "zh": "格鲁波夫黑列巴"
+      },
+      "game_source_ids": "132005"
+    },
+    {
+      "id": "item_132038",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.1",
+      "path": "content/items/food_potions/item_132038.md",
+      "title": {
+        "ru": "Мороженое Весны",
+        "en": "Vesna-Themed Ice Cream",
+        "zh": "冰淇淋・薇斯纳"
+      },
+      "game_source_ids": "132038"
+    },
+    {
+      "id": "item_132011",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132011.md",
+      "title": {
+        "ru": "Шашлык Снежной",
+        "en": "Snezhnaya Shashliks",
+        "zh": "至冬烤串"
+      },
+      "game_source_ids": "132011"
+    },
+    {
+      "id": "item_132015",
+      "category": "items",
+      "group": "food_potions",
+      "version": "7.0",
+      "path": "content/items/food_potions/item_132015.md",
+      "title": {
+        "ru": "Вкусный «Снежноцвет на снежной равнине»",
+        "en": "Delicious Snowball Blooms Atop Snowfields",
+        "zh": "美味的雪原上的雪球花"
+      },
+      "game_source_ids": "132015"
+    }
+  ],
+  "removed_image_paths": [
+    "assets/icons/items/food_potions/item_132030.webp",
+    "assets/icons/items/food_potions/item_132036.webp",
+    "assets/icons/items/food_potions/item_132027.webp",
+    "assets/icons/items/food_potions/item_132040.webp",
+    "assets/icons/items/food_potions/item_132017.webp",
+    "assets/icons/items/food_potions/item_132016.webp",
+    "assets/icons/items/food_potions/item_132046.webp",
+    "assets/icons/items/food_potions/item_132004.webp",
+    "assets/icons/items/food_potions/item_132001.webp",
+    "assets/icons/items/food_potions/item_132039.webp",
+    "assets/icons/items/food_potions/item_108980.webp",
+    "assets/icons/items/food_potions/item_132013.webp",
+    "assets/icons/items/food_potions/item_132022.webp",
+    "assets/icons/items/food_potions/item_132038.webp",
+    "assets/icons/items/food_potions/item_108976.webp",
+    "assets/icons/items/food_potions/item_108977.webp",
+    "assets/icons/items/food_potions/item_132018.webp",
+    "assets/icons/items/food_potions/item_132043.webp",
+    "assets/icons/items/food_potions/item_132037.webp",
+    "assets/icons/items/food_potions/item_132024.webp",
+    "assets/icons/items/food_potions/item_132010.webp",
+    "assets/icons/items/food_potions/item_132025.webp",
+    "assets/icons/items/food_potions/item_132055.webp",
+    "assets/icons/items/food_potions/item_109653.webp",
+    "assets/icons/items/food_potions/item_108994.webp",
+    "assets/icons/items/food_potions/item_132023.webp",
+    "assets/icons/items/food_potions/item_132021.webp",
+    "assets/icons/items/food_potions/item_132049.webp",
+    "assets/icons/items/food_potions/item_132007.webp",
+    "assets/icons/items/food_potions/item_132054.webp",
+    "assets/icons/items/food_potions/item_132033.webp",
+    "assets/icons/items/food_potions/item_108991.webp"
+  ]
+}

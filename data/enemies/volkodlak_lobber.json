@@ -1,0 +1,82 @@
+{
+  "id": "volkodlak_lobber",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/volkodlak_lobber.webp",
+  "title": {
+    "ru": "Волкодлак-метатель",
+    "en": "Volkodlak Lobber",
+    "zh": "兽怪投掷者"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Волкодлак-метатель",
+    "Volkodlak Lobber",
+    "兽怪投掷者"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\nОбладая звериной силой и человекоподобным телом, они способны метать предметы с огромной силой и поразительной точностью. Волкодлаки не слишком искусны в конструировании из вечного льда и управлении стихиями, однако по владению собственным телом они по праву входят в число сильнейших среди многочисленных народов альвов.",
+    "en": "A relatively large and powerfully built type of Volkodlak found among the many that roam Snezhnaya.\nWith the strength of beasts and humanoid bodies, their powerful upper bodies allow them to throw with greater force and precision. Volkodlak may not excel at shaping Prime Ice or wielding elemental power, but among the many fae lineages, few can match their command over physical strength.",
+    "zh": "在至冬的诸多兽怪之中，相对壮硕的那类。\n拥有野兽的力量和类人的躯体，强壮的上肢力量令他们在进行投掷时能拥有更强的威力和更高的精准度。兽怪或许并不精通臻冰凝造的技艺或是元素力的使用，但是要说到对于身躯力量的掌控，在诸多妖精的族裔中也能算得上名列前茅。"
+  },
+  "description": {
+    "ru": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\nОбладая звериной силой и человекоподобным телом, они способны метать предметы с огромной силой и поразительной точностью. Волкодлаки не слишком искусны в конструировании из вечного льда и управлении стихиями, однако по владению собственным телом они по праву входят в число сильнейших среди многочисленных народов альвов.",
+    "en": "A relatively large and powerfully built type of Volkodlak found among the many that roam Snezhnaya.\nWith the strength of beasts and humanoid bodies, their powerful upper bodies allow them to throw with greater force and precision. Volkodlak may not excel at shaping Prime Ice or wielding elemental power, but among the many fae lineages, few can match their command over physical strength.",
+    "zh": "在至冬的诸多兽怪之中，相对壮硕的那类。\n拥有野兽的力量和类人的躯体，强壮的上肢力量令他们在进行投掷时能拥有更强的威力和更高的精准度。兽怪或许并不精通臻冰凝造的技艺或是元素力的使用，但是要说到对于身躯力量的掌控，在诸多妖精的族裔中也能算得上名列前茅。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112152",
+      "title": {
+        "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+        "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+        "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112152.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112152",
+          "title": {
+            "ru": "Наросший осколок",
+            "en": "Accreted Fragment",
+            "zh": "沉积残片"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp"
+        },
+        {
+          "key": "material_112153",
+          "title": {
+            "ru": "Осадочный сгусток",
+            "en": "Accreted Mass",
+            "zh": "沉积结块"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112153.webp"
+        },
+        {
+          "key": "material_112154",
+          "title": {
+            "ru": "Осадочный нарост",
+            "en": "Accreted Growth",
+            "zh": "沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112154.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

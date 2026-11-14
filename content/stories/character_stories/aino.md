@@ -316,3 +316,887 @@ Though Ineffa did not answer, what responded to Aino was the faint shimmer of he
 听到有人在喊她起床，揉揉发胀的脑袋后，爱诺才勉强睁开了眼睛，她看到自己身边的少女还静静闭着眼睛，刚才好像是一场幻梦。
 「应该很快就会实现了吧，对吧，伊涅芙…」
 回应她的是神之眼上闪过的微光——正是爱诺之前错当零件摸到的那一枚。
+
+# voice_source_ids: 121000,121001,121002,121003,121004,121005,121006,121007,121008,121009,121010,121011,121012,121013,121014,121015,121016,121017,121018,121019,121020,121021,121022,121023,121024,121025,121026,121027,121028,121029,121030,121031,121032,121033,121034,121035,121036,121037,121038,121039,121040,121041,121042,121043,121044,121045,121046,121047,121048,121049,121050,121051,121052,121053,121054,121055,121056,121057,121058,121059,121060,121061,121062,121063,121064,121065,121066,121067,121068,121069,121070,121071,121072
+
+## REPLICAS_RU
+
+### Привет...
+
+О! Хочешь поиграть со мной? Хи-хи, меня зовут Айно, я изобретатель! Я живу вместе с Инеффой. Я могла бы съесть все пирожные и печенье в мире, потому что я их очень люблю. Но больше всего я люблю крумкаке! Приходи в мою мастерскую крумкаке «Дзынь-Клац», когда захочешь! Это всё обо мне. Расскажи мне что-нибудь о себе, и мы станем друзьями!
+
+### Поболтаем: Планы
+
+Давненько я не ела конфеты. Мой мозг словно проржавел... Решено! Сегодня на ужин я съем пять целых крумкаке, и ничто меня не остановит. Даже разъярённая Инеффа!
+
+### Поболтаем: Зубная боль
+
+У-у-у! У меня только что разболелся зуб... Почему? Инеффа, помоги мне! Хнык-хнык!
+
+### Поболтаем: Игра
+
+Не волнуйся, я поручила Инеффе всю свою работу на сегодня, так что мы можем пойти поиграть с Железным утёнком!
+
+### Когда идёт дождь...
+
+Апчхи! ...Брр, мои ботинки и носки промокли. Я хочу домой...
+
+### После дождя...
+
+О, дождь прекратился! Пойдём на поиски приключений. И возьмём с собой Инеффу!
+
+### Когда идёт снег...
+
+Ура, идёт снег! Вот, возьми моё устройство для лепки снежков «Хнык-Хнык-Снежкомёт». Он издаёт плачущий звук, когда делает снежок. Забавно, правда? ...Я? О, я лучше возьму «Пыщ-Пыщ-Снежкомёт». Давай устроим бой снежками!
+
+### Когда светит солнце...
+
+Уф, солнце так ярко светит... Возьми мой рукав, он защитит твои глаза от солнца. ...О... Эм, ты можешь немного наклониться? Я встала на цыпочки, но всё равно не дотягиваюсь...
+
+### В пустыне...
+
+Подожди... Кажется, я слышу шум машин вдали. Ну же, пойдём посмотрим. Что-то мне подсказывает, что там нас ждёт целая куча запасных частей, хе-хе-хе...
+
+### Доброе утро...
+
+Я попросила Инеффу приготовить тебе завтрак! Это ассорти из мини-кексов. Они очень сладкие и невероятно вкусные... Э-э, крошки от кексов у меня на губах? Это просто, э-э... Ох, ладно, я скажу тебе правду, раз мы друзья. Прости, я съела свои. ...Хм? Поделишься со мной своими? Здорово! А я поделюсь своими... Вообще-то, вот - можешь взять все мои фрукты и овощи!
+
+### Добрый день...
+
+Винты номер два... Куда я их дела?.. Вообще-то... Инеффа! Дай мне один из твоих винтов номер два. Они должны быть на твоих запястьях и локтях. ...Уф, да, я знаю, что обед готов, я сейчас подойду. Давай, будь хорошей девочкой и отдай мне винт.
+
+### Добрый вечер...
+
+Посмотри на тарелки, которые я изобрела! Когда даёшь им команду, они подходят к тебе. Ужин, выходи! Подайте мне еду!
+
+### Спокойной ночи...
+
+Э? Ты уже уходишь? Подожди! Не хочешь ещё раз испытать мой новый «Буль-Буль-Заварник»? Или... мы могли бы ещё поиграть! Хм... Ладно, хорошо. Ловлю на слове. Завтра, не забудь!
+
+### Об Айно: Практичность
+
+Все мои создания состоят из деталей, которые я извлекаю из сломанных механизмов. Именно так я восстановила Инеффу. Свалка - это полезные вещи, которые оказались не на своём месте. Неважно, откуда я их беру, - если они работают, для меня они как новые.
+
+### Об Айно: Родительские обязанности
+
+Глава семьи должен заботиться о том, чтобы все были довольны. Поэтому, когда Инеффа заканчивает свои дела, я всегда глажу её по голове и говорю, что она отлично поработала. То же самое я делаю и со всеми другими роботами - всегда хвалю их, когда они заканчивают работу. Да, я отличный родитель!
+
+### О нас: Клац-клац-клац...
+
+Что у меня на спине? Это Клац-клац-клац, мой помощник. Максимально многофункциональный! Хочешь попробовать? Не волнуйся, он не кусается. Давай, Клац-клац-клац, поздоровайся! «Клац-клац-клац!»
+
+### О нас: Тайные сладости
+
+Я понимаю... Инеффа контролирует моё потребление сахара исключительно ради моего здоровья. Но я же не робот. Сладостям так трудно сопротивляться! Поэтому я решила: если Инеффа не видела, значит, я не ела! Пойдём поедим десерты. Я угощаю. Только пообещай, что не скажешь ей.
+
+### Глаз Бога...
+
+Когда я создавала Инеффу, я разбирала её и собирала заново бесчисленное количество раз, потому что хотела добавить всё больше и больше функций... А потом, в какой-то момент, я пошла за следующим компонентом и вдруг обнаружила, что держу в руках Глаз Бога. Я давно не спала, поэтому сначала подумала, что мне показалось... Хм? Сколько времени в общей сложности у меня ушло на создание Инеффы? Э-э-э, дело не в том, сколько времени это заняло, а в том, чтобы помнить, что Айно - гений!
+
+### Давай поделимся...
+
+Это энергетическая пушка «Выстрел и удар куувяки». По крайней мере, так она называлась изначально. Но в итоге все, кроме Инеффы, стали называть её просто «пушка». Ох... Это неважно, ведь она отлично работает, и я понимаю, почему люди не хотят произносить её полное название в пылу сражения. Пока они считают её полезным изобретением, я не буду настаивать, чтобы её название звучало мило.
+
+### Интересные вещи...
+
+Можешь не верить, но за время, которое у тебя уйдёт на то, чтобы сосчитать до ста, я разберу целого краба... а когда досчитаешь до двухсот, я соберу его обратно. Хе-хе, разборка механизмов не так уж отличается от разборки крабов.
+
+### Об Инеффе: Доброта
+
+С тех пор как Инеффа проснулась, я сделала для неё кучу улучшений. Например, я добавила симулятор температуры тела, потому что, когда держишь кого-то за руку или обнимаешь, должно быть тепло и приятно! Понимаешь, о чём я? В следующий раз, когда Инеффа будет здесь, давай вместе обнимем её!
+
+### Об Инеффе: Семья
+
+Инеффа - самый важный член моей семьи. Я очень, очень благодарна тебе за помощь - не только за то, что она вернулась домой целой и невредимой, но и за исправление небольшой проблемы с памятью. Знаешь, а пойдём ко мне прямо сейчас? Я попрошу Инеффу испечь для тебя крумкаке... Нет, постой, я сама испеку! И ещё я могу испечь тортик с летникой. Он очень вкусный, тебе уже доводилось попробовать? ...Эм? Почему ты убегаешь? Я не договорила!
+
+### О Ягоде...
+
+Ягода часто ссорится с Инеффой, но на самом деле они очень близки. Она была первой, с кем Инеффа подружилась. Я не контролирующая мать, поэтому не указываю Инеффе, с кем ей дружить, а с кем нет. Просто некоторые друзья ссорятся чаще, чем другие - каким-то образом ссоры сближают их. О, чуть не забыла, как тебе её роботизированная рука? Красивая, правда? Это я её сконструировала, хотя сейчас её обслуживанием и ремонтом занимается мой ученик.
+
+### О Лауме...
+
+Тебе нравятся её рога? Я могу сделать тебе такие же. А хочешь, чтобы они светились и на них росли цветы? Или, может, чтобы из них выстреливали фейерверки? Для меня это проще простого. ...Дети Морозной Луны не обрадуются? Ладно, хорошо, тогда я сделаю такие же и для них.
+
+### О Флинсе...
+
+Ах, какой прекрасный молодой человек! Его речь - музыка для моих ушей, словно мелодичный лязг работающих механизмов. ...Перебор? Ну да, это очень высокая оценка... Но это правда! И нет, я не предвзята, потому что меня подкупили пирожными!
+
+### О Дори...
+
+Однажды она пришла ко мне, чтобы обсудить перспективы делового сотрудничества. Хе-хе-хе, не могу винить её за то, что она решила попытать счастья... но она была слишком скупа. Как сказала Инеффа, сумма, которую я заработала бы за один день работы на Дори, не покрыла бы даже стоимости двух свежеиспечённых пирожных с фруктовой начинкой. Гении работают на полный желудок, знаете ли! Ох... Если бы только она разрешила мне разобрать те странные и экзотические машины, которые у неё есть. Может быть, тогда мы бы договорились...
+
+### О Нефер...
+
+У Нефер есть чёрный кот по имени Ашру. Я предложила установить переводчик, чтобы мы могли понимать, что говорит Ашру, но Нефер отказалась, даже не подумав. Она сказала, что у неё и так достаточно информации и ей не нужно понимать, что говорит кот. Почему так жестоко? Может, её когда-то обидели переводы Лаумы?
+
+### О Варке...
+
+Варка часто составлял мне компанию, пока Инеффа разыскивала вас с Паймон. Иногда, замечая, что я скучаю по Инеффе, он подходил ко мне, поглаживал меня по голове и утешал. У него очень большие, тяжёлые руки, покрытые мозолями... Но они очень тёплые.
+
+### О Линнее...
+
+О, Линнея? Я её очень люблю! Когда я была совсем маленькой, она всегда рассказывала нам много интересных историй, когда возвращалась из своих путешествий. Когда я стала немного старше и научилась строить роботов, я хотела подарить ей одного... но она ни одного не приняла. Она сказала, что главное - это внимание, и этого ей достаточно, но я думаю, что на самом деле ни один из них не соответствовал её вкусу. Поэтому я буду продолжать строить роботов, пока не создам того, что ей понравится. Я знаю, что рано или поздно у меня получится!
+
+### Узнать больше об Айно I
+
+Хочешь узнать обо мне побольше? Хорошо, я расскажу тебе кое-что о себе, а ты взамен расскажешь мне что-нибудь о себе. Договорились?
+
+### Узнать больше об Айно II
+
+Я совершенно спокойно отношусь к клиентам с ограниченным бюджетом. Даже пять тысяч моры могут принести большую пользу. Настоящая проблема - это те, кто не ценит мою работу. Я добавляю в их роботов всевозможные интересные функции, а они в ответ жалуются, что это «непрактично». Они неисправимы.
+
+### Узнать больше об Айно III
+
+Старый Гаеч? Откуда тебе известно это имя? Он мой учитель. Он уже не помнит своего имени, но до сих пор помнит все технические характеристики деталей механизмов. Я рассказываю ему все свои идеи, даже самые безумные. Он всегда улыбается в ответ, поглаживает меня по голове и говорит: «Айно, это замечательная идея! Не могу дождаться, когда увижу готовый продукт».
+
+### Узнать больше об Айно IV
+
+Первый собранный мной робот назывался «Дзынь-дзынь». Он был совсем не похож на мои нынешние работы. У него не было никаких «практических» функций: он не мог говорить, он не мог выполнять домашнюю работу... Сложно представить, да? Он долгое время был моим верным компаньоном, но в конце концов его корпус полностью развалился, все болты выпали и их было невозможно закрутить обратно, поэтому я была вынуждена вывести его из эксплуатации.
+
+### Узнать больше об Айно V
+
+Настоящая причина, по которой я решила создавать роботов, а не изобретать что-то другое, заключалась в том, что... я хотела, чтобы было с кем играть. Люди всегда заняты своими делами, я это понимаю. Они могут проводить со мной совсем немного времени, а потом я снова остаюсь одна, но мои роботы всегда рядом со мной. А потом однажды Инеффа сказала, что считает меня членом семьи и что я могу ей доверять... Я не смогла сдержать слёз, когда услышала эти слова, потому что роботы не лгут...
+
+### Хобби Айно...
+
+Мне нравится придумывать для роботов функции, о которых другие люди никогда бы не подумали. Задумайся, насколько интереснее становится робот-пылесос, когда его можно выводить на прогулку, как собаку?
+
+### Беспокойство Айно...
+
+Почему я никогда не могу найти нужную деталь, когда она мне нужна, а потом она появляется как по волшебству, когда она мне уже не нужна? Я же не могу установить устройство автоматического поиска на каждый компонент! ...Попробовать магниты? Ох... Нет, это помешает работе всех чувствительных приборов вокруг. К тому же Инеффа прилипнет...
+
+### Любимая еда...
+
+Если я когда-нибудь стану роботом, пообещай, что ты сделаешь сахар моим источником энергии! День без сахара будет... самым горьким днём в моей жизни. Я не доживу до вечера.
+
+### Нелюбимая еда...
+
+В Нод-Крае есть такой плоский хлеб, твёрдый как камень. Знаешь такой? Это как кусать внешнюю оболочку Инеффы! И что самое ужасное, он даже не сладкий! Возмутительно!
+
+### Подарок I
+
+Ого! Это так вкусно! Я попрошу Инеффу на следующую неделю заменить все мои сладости на эти! И на следующую неделю тоже! У тебя есть ещё? Ещё одну, пожалуйста. Да ладно, одна не повредит!
+
+### Подарок II
+
+Вкусно, но не хватает привкуса счастья. Поняла! Возьми пакетик сахара! В следующий раз добавь его. Говорю тебе, будет намного вкуснее!
+
+### Подарок III
+
+Хм, на вкус как-то пресновато. В следующий раз я приготовлю это блюдо. Нет? Ладно... Хотя бы возьми мой запасной прибор для приготовления крумкаке. Подожди минутку, я его переделаю, чтобы на нём можно было готовить и другие блюда!
+
+### День рождения...
+
+Ждёшь, когда Айно сделает для тебя сюрприз? Та-да! Хе-хе, это фонарик пожеланий! Когда зажигаешь свечу, он поёт песню в честь дня рождения и вращается. Разве не весело? Если тебе понравилось, то в следующем году непременно поиграй со мной! О, э-э, а теперь нужно загадать желание и сказать его вслух, чтобы я слышала! Гений Айно исполнит всё, что пожелаешь!
+
+### Чувство возвышения: Начало
+
+О, так вот что чувствуют роботы, когда их улучшают?
+
+### Чувство возвышения: Нарастание
+
+Улучшение завершено. Стабильность работы Айно повышена. Энергопотребление также повышено. Пожалуйста, подготовьте достаточно сладкого, чтобы обеспечить её питанием.
+
+### Чувство возвышения: Кульминация
+
+Сразу видно, что ты ценишь настоящий талант. Хе-хе, мудрый выбор!
+
+### Чувство возвышения: Окончание
+
+Моя идеальная семья - это кто-то вроде тебя... Кто-то, кто понимает меня, поддерживает меня и проводит со мной время... Нет, я не грущу. С этого момента ты всегда можешь положиться на меня. Нет такой проблемы, которую не смог бы решить гениальный родитель Айно!
+
+### Элементальный навык I
+
+Попробуй это!
+
+### Элементальный навык II
+
+Клац-клац-клац!
+
+### Элементальный навык III
+
+Как тебе такое?!
+
+### Элементальный навык IV
+
+Эники-беники...
+
+### Элементальный навык V
+
+Готовься!
+
+### Элементальный навык VI
+
+У-у-ур-р-ру!
+
+### Взрыв стихии I
+
+Смотри, радуга!
+
+### Взрыв стихии II
+
+Дзинь-дзинь! Водяная бомба!
+
+### Взрыв стихии III
+
+Время полива!
+
+### Открытие сундука I
+
+Посмотрим, что из этого можно использовать.
+
+### Открытие сундука II
+
+Столько всего... Вот бы Инеффа была здесь...
+
+### Открытие сундука III
+
+Что за беспорядок! Прости, я не специально.
+
+### Низкий уровень HP I
+
+Почему не работает?
+
+### Низкий уровень HP II
+
+Скучно!
+
+### Низкий уровень HP III
+
+Так нельзя!
+
+### Низкий уровень HP компаньона I
+
+Ладно! Вы достаточно повеселились!
+
+### Низкий уровень HP компаньона II
+
+Не волнуйся, Айно всё починит!
+
+### Без сознания I
+
+Игры кончились...
+
+### Без сознания II
+
+Инеффа, мне холодно...
+
+### Без сознания III
+
+Я хочу... крумкаке...
+
+### Получен лёгкий удар I
+
+Злюка!
+
+### Получен тяжёлый удар I
+
+В этот раз не повезло...
+
+### Получен тяжёлый удар II
+
+Ай!
+
+### Присоединяется к группе I
+
+Пора играть!
+
+### Присоединяется к группе II
+
+Пустите меня! Клац-клац-клац!
+
+### Присоединяется к группе III
+
+Айно здесь!
+
+### О Прюн...
+
+Я всегда рада её видеть! Каждый раз она приносит мне десерты от Инеффы. Если та не заметит, я могу съесть вдвое больше! Эх... Интересно, будет ли Прюн навещать нас теперь? Она ведь поселилась в Мондштадте? Так редко встретишь друзей, которые действительно слушают мои рассказы о механизмах...
+
+## REPLICAS_EN
+
+### Hello
+
+Oh! Are you here to play with me? Hee-hee, my name's Aino, and I'm an inventor! Me and Ineffa live together. I could probably eat all the cakes and cookies in the world, because I love them sooo much. But my favorite kind of all is Lakkaberry Krumkake! Come visit my Clink-Clank Krumkake Craftshop whenever you want! Anyway, that's me — what about you? Tell me something about you, then we'll be friends!
+
+### Chat: Plans
+
+It's been way too long since I last had some candy. My brain's grinding to a halt, like a rusty machine... That's it! I'm having five whole Krumkakes for dinner tonight, and nothing's gonna stop me. Not even Ineffa's super-angry mode!
+
+### Chat: Toothache
+
+*grimace* I just got a really bad toothache... Whyyy? Ineffa, help me! *whimper*
+
+### Chat: Play
+
+Don't worry, I put Ineffa in charge of all my work for today, so we can go play with Knuckle Duckle!
+
+### When It Rains
+
+Achoo! *sniff* ...Ugh, my shoes and socks are soaking wet. I wanna go home...
+
+### After the Rain
+
+Oh, the rain's stopped! Let's go on a trip. And let's bring Ineffa!
+
+### When It Snows
+
+Wahoo, it's snowing! Here, you can have my Boo-Hoo Snowball Maker. It makes a crying sound when you make a snowball with it. Fun, right? ...Me? Oh, I'll use this Tee-Hee Snowball Maker instead. Anyway — c'mon, let's have a snowball fight!
+
+### When the Sun Is Out
+
+Whew, the sun is so bright... Take my sleeve, it'll help keep the sun out of your eyes. ...Oh... Um, can you stoop down a little? I'm on my tippie toes, but I can't quite reach...
+
+### In the Desert
+
+Wait... I think I hear machine noises in the distance. C'mon, c'mon, let's go check it out~ Something tells me there's a boatload of spare parts waiting to be collected, hehehe...
+
+### Good Morning
+
+I got Ineffa to make breakfast for you! It's a selection of mini cakes — they're really sweet and super tasty... Huh, cake crumbs at the corners of my mouth? Those are just, um, uh... *sigh* Alright, I'll tell you the truth, since you're my friend and all. I'm sorry, I went ahead and ate my ones already. ...Hmm? You'll split yours with me? Amazing! In that case, I'll split my... In fact, here — you can have all my fruits and veggies!
+
+### Good Afternoon
+
+Number two screws... Where the heck did I put my number two screws...? Actually... Ineffa! Gimme one of your number two screws. There should be some on your wrists and elbows. ...Ugh, yes, I know lunch is ready, I'll be there in a minute. Come on, be a good girl and hand over that screw~
+
+### Good Evening
+
+Look at these plates I invented! When you give them the order, they come walking over to you. Dinner, come out! Serve me food!
+
+### Good Night
+
+Huh? Y—You're leaving already? ...Wait! Don't you wanna try out my new Glug-Glug Tea Brewer again? Or... we could play another game! Hmm... Okay, fine. Pinky promise. Tomorrow it is, don't forget!
+
+### About Aino: Pragmatism
+
+Everything I build uses parts that I've salvaged from broken-down machines. That's how I rebuilt Ineffa, too. A scrap heap is just useful stuff in the wrong place. It doesn't matter where I get it from — as long as it works, it's as good as new to me.
+
+### About Aino: Parental Duty
+
+When you're the head of a family, you gotta make sure everyone's well looked after. So when Ineffa finishes her chores, I always stroke her head and tell her what a great job she did. Same goes for all my other robots too — I always make sure to compliment them when they finish their work. Ah, I'm such a great parent!
+
+### About Us: Kerplunk-a-tron
+
+Oh, that thing on my back? That's Kerplunk-a-tron, my assistant. Multifunctional to the max! You wanna try it out? Don't worry, he won't bite. Come on, Kerplunk-a-tron, say hello! "Kerplunk, kerplunk!"
+
+### About Us: Sneaky Food
+
+I mean, I do get it... Ineffa only controls my sugar intake out of concern for my health. But I'm not a robot. Sweet stuff is sooo hard to resist! So my solution is: If Ineffa didn't see it, I didn't eat it! C'mon, let's go eat some desserts. My treat — as long as you promise not to tell her~
+
+### About the Vision
+
+When I built Ineffa, I took her apart and put her back together again so many times, 'cause I kept wanting to add more and more functionality... Then, at some point, I went to grab the next component, and suddenly I found that I was holding a Vision. I hadn't slept in a while, so at first, I thought I was seeing things... Hmm? How long did Ineffa take me to build in total? Ahem, it's not about how long or how short it took — the important thing to remember is that Aino is a genius!
+
+### Something to Share
+
+This one's called the Boom and Blast Kuuvahki Energy Cannon. Well, it was at first. But pretty much everyone except Ineffa has ended up calling it "Cannon." *sigh* Never mind, it's a functional machine, and I can understand why people can't be bothered trying to say the full name in the heat of the moment. As long as people think it's a useful invention, I won't insist on a cute-sounding name.
+
+### Interesting Things
+
+You might not believe this, but in the time it takes you to count to a hundred, I could take apart a whole crab... and by the time you get to two hundred, I could put it back together again, good as new. Hehe, dismantling machines isn't that different from dismantling crabs.
+
+### About Ineffa: Warmth
+
+I've made a bunch of upgrades to Ineffa since she first woke up. Like when I added that body temperature simulator, 'cause when you hold someone's hand or give them a hug, it's supposed to feel warm and fuzzy! You know what I mean? The next time Ineffa's here, let's both give her a big hug at the same time!
+
+### About Ineffa: Family
+
+Ineffa is the most important person in my family. I'm so, so thankful for your help — not just for getting her back home safe and sound, but for helping fix her little memory problem, too. Actually, why don't you come 'round to my place right now? I'll get Ineffa to make Krumkake for you... No, wait — I'll make them myself! And, and I can make Midsommar Torte too. It's really good, have you tried it? ...Hmm? Why are you running away? I wasn't finished!
+
+### About Jahoda
+
+Jahoda might bicker a lot with Ineffa, but they're actually really close. She was the first friend that Ineffa made. I'm not a controlling parent, so I don't tell Ineffa who she can and can't make friends with. Some friends just argue more than others — somehow, fighting it out brings them closer together. Oh, I almost forgot to mention, you know her robotic arm? It's pretty, right? I was the one who built that, although it's my student who handles the maintenance and repairs these days.
+
+### About Lauma
+
+You like her antlers? I could make you a pair just like them. Oh, and how about I make them glow and grow flowers? Or maybe shoot fireworks? It'd be a piece of cake for me. ...The Frostmoon Scions wouldn't take kindly to that? Okay fine, then I'll make some for them, too.
+
+### About Flins
+
+Ah, what a fine young gentleman he is. His speech is music to my ears, like the beautiful clink-clank of moving machinery. ...Too far? Well, yeah, it's pretty high praise, I guess... But it's also the truth! And no, I'm not biased because I've been bribed with cakes!
+
+### About Dori
+
+She came to discuss a potential business partnership with me once. Hehehe, can't blame her for trying her luck... but she was just too stingy. As Ineffa put it, the amount I'd earn in one day of working for Dori wouldn't even cover the cost of two freshly baked Fruit Tandem Turnovers. Genius only works on a full stomach, y'know! *sigh* If only she was open to letting me dismantle those strange and exotic machines she owns. Maybe then we could come to an arrangement...
+
+### About Nefer
+
+Nefer has a black cat called Ashru. I offered to install a translator so we could understand what Ashru is saying, but Nefer turned me down without even considering it. She said she already has plenty of information and doesn't need to hear what a cat has to say. Like, what!? Why so mean? Has she been hurt before, maybe by Lauma's translations?
+
+### About Varka
+
+Varka kept me company a lot while Ineffa was away looking for you guys. Sometimes, when he noticed that I was missing Ineffa, he'd come and pat me on the head and make me feel better. He has really big, heavy hands, and they're covered in calluses... But they still feel really warm.
+
+### About Linnea
+
+Ooh, Linnea? I really like her! When I was little, she used to tell us loads of cool stories whenever she got back from one of her trips. When I was a bit older, and I'd learned how to build robots, I wanted to give her one as a gift... but she never accepted any of them. She said it was the thought that counts, and that was enough for her — but I think it was because none of them were her style. So, I'm gonna keep making robots until she finds one she likes. I know I'll get there eventually!
+
+### More About Aino: I
+
+You wanna hear more about me? Yeah, of course! Let's trade: I'll tell you something about me, and you tell me one of your stories! Deal?
+
+### More About Aino: II
+
+I have no problem at all with clients on a tight budget. Even five thousand Mora can go a long way. It's the people who don't appreciate my work who are the real problem. I add all sorts of fun functionality into their robots, and then they go and complain that it isn't "practical." There's no helping some people.
+
+### More About Aino: III
+
+Papa Wrench? Where'd you hear about him? He's my teacher, and he doesn't even know his own name anymore, but he still remembers all the specs when it comes to machine parts. I tell him all my ideas, even for my craziest projects. He always smiles back, rubs my head, and says "Aino, that's a wonderful idea! I can't wait to see the finished product."
+
+### More About Aino: IV
+
+The first robot I ever built was called Clink-Clank. It was totally different from the kind of things I build nowadays. No so-called "practical" functions, it couldn't talk, it couldn't do housework... bet you can't imagine that, huh? Anyway, it kept me company for the longest time, but eventually it got to the point where the outer casing was completely busted up, and all the bolts were falling out and wouldn't go back in, so I had to take it out of service.
+
+### More About Aino: V
+
+The real reason I chose to build robots rather than invent other things was because... well, I just wanted someone to play with. People always have stuff they need to do, I get that. They can only hang out with me for a little while before I'm all on my own again, but my robots will always be there for me. Then one day, Ineffa told me that she saw me as family, and that I could trust her... I burst out crying when she said that, because I know that robots don't tell lies...
+
+### Aino's Hobbies
+
+I like giving robots functions that other people would never think of. I mean, think about it, how much more fun is a vacuum bot when you can take it out for walkies like a pet doggy?
+
+### Aino's Troubles
+
+Why is it that I can never find the part I need when I need it, and then it shows up randomly when I don't need it? I can't exactly go installing an auto-locator on every single component, now can I? ...Try magnets? *sigh* No, that'd mess with all the sensitive instruments around here. Plus, Ineffa would get stuck...
+
+### Favorite Food
+
+If I ever somehow turn into a robot, promise me you'll make sugar my energy source! A day without sugar would be like... well, the most bitter day in your life, by definition. I wouldn't make it till nightfall.
+
+### Least Favorite Food
+
+There's this kind of flatbread in Nod-Krai that's hard as rock. Ever tried it? It's like biting down on Ineffa's outer shell! And worst of all, it's not even sweet! Unforgivable!
+
+### Receiving a Gift: I
+
+Wow! This is sooo good! I'm gonna get Ineffa to scrap all the snacks in next week's menu and replace them with this! And the week after that, too! You got any more? Just one more, pleeease? C'mon, one more can't hurt!
+
+### Receiving a Gift: II
+
+It's pretty good, but it's missing that happy flavor. Oh, I got it — take this sachet of sugar! Next time, add it in. I'm telling you, it'll take the flavor to the next level!
+
+### Receiving a Gift: III
+
+Hmm, this tastes kinda bland... Why don't you let me cook this time? Huh? No? Okay then... Well, at least let me give you my spare krumkake maker. Hold on a minute, I'll remodel it so it can cook other stuff too!
+
+### Birthday
+
+Looks like someone's waiting for an Aino surprise... Tada! Hehe, it's the Spinny Chanty Wishing Lantern! When you light the candle, it sings happy birthday and spins around. Isn't it fun? If you like it, then you have to play with me next year too! Oh, uh, now you gotta make a wish, and you gotta say it out loud so I can hear it! Whatever you wish for, Aino the genius can make it come true!
+
+### Feelings About Ascension: Intro
+
+Ooh, is this what robots feel like when they get an upgrade?
+
+### Feelings About Ascension: Building Up
+
+Upgrade complete. Aino operational stability increased... energy consumption also increased... please feed Aino sufficient cakes.
+
+### Feelings About Ascension: Climax
+
+I can tell you really appreciate true genius. Hehehe, you have chosen wisely!
+
+### Feelings About Ascension: Conclusion
+
+I think my perfect family would be someone like you... someone that understands me, supports me, and spends time with me... No, I don't feel sad. From now on, you can always trust me, okay? After all, there's no problem that Aino the genius parent can't solve!
+
+### Elemental Skill: I
+
+Chew on this!
+
+### Elemental Skill: II
+
+Kerplunk!
+
+### Elemental Skill: III
+
+Go claw!
+
+### Elemental Skill: IV
+
+Eeny, meeny, miny, moe...
+
+### Elemental Skill: V
+
+Ready!
+
+### Elemental Skill: VI
+
+Mwuhaha!
+
+### Elemental Burst: I
+
+Look, a rainbow!
+
+### Elemental Burst: II
+
+Ding-dong, waterbomb!
+
+### Elemental Burst: III
+
+Splash attack!
+
+### Opening Treasure Chest: I
+
+Let me see, anything I can salvage?
+
+### Opening Treasure Chest: II
+
+Wow, so much stuff... If only Ineffa was here.
+
+### Opening Treasure Chest: III
+
+Whoa! Ah, what a mess... I'm sorry, it wasn't on purpose.
+
+### Low HP: I
+
+Why isn't it working?
+
+### Low HP: II
+
+Play nice!
+
+### Low HP: III
+
+Cheater!
+
+### Ally at Low HP: I
+
+Alright, you've had your fun!
+
+### Ally at Low HP: II
+
+Don't worry, Aino can fix it!
+
+### Fallen: I
+
+Looks like... playtime's over...
+
+### Fallen: II
+
+Ineffa, I'm cold...
+
+### Fallen: III
+
+I want... a krumkake...
+
+### Light Hit Taken: I
+
+Meanie!
+
+### Heavy Hit Taken: I
+
+Ahh! Whoops...
+
+### Heavy Hit Taken: II
+
+Ouch...
+
+### Joining Party: I
+
+Yay, playtime!
+
+### Joining Party: II
+
+Lemme down, kerplunk-a-tron!
+
+### Joining Party: III
+
+Aino? Present!
+
+### About Prune
+
+I'm always so happy to see her! Every time she comes to play, she gives me desserts that Ineffa gives her — as long as Ineffa doesn't notice, I get to eat twice as much! *sigh* Will Prune come back to visit now she lives in Mondstadt? There aren't many friends who really listen when I talk about machines...
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你是来陪我玩的吗？嘿嘿，我叫爱诺，擅长机械发明，现在和伊涅芙住在一起。这个世界上所有的甜食我都喜欢，其中最喜欢的是白灵蛋卷！欢迎你常来我的叮铃哐啷蛋卷工坊做客。你呢你呢？互相介绍完自己，我们就是朋友啦！
+
+### 闲聊·安排
+
+好久没吃甜点了，脑子像生锈的螺丝转不动了…决定了！今天的晚餐我要吃五碟蛋卷！就算伊涅芙进入超级生气模式也拦不下我。
+
+### 闲聊·牙痛
+
+嘶——牙齿突然好痛。怎么会这样？伊涅芙——救救我，呜呜。
+
+### 闲聊·玩耍
+
+今天的待办事项我都交给伊涅芙啦，放心放心，我们去找重拳出击鸭一起玩吧！
+
+### 下雨的时候…
+
+阿嚏——鞋子袜子都湿漉漉的，爱诺好想回家…
+
+### 雨过天晴…
+
+天晴了，我们出去郊游吧，带上伊涅芙一起！
+
+### 下雪的时候…
+
+呼哈，下雪了！来，这个呱呱雪球机给你，用它夹雪球的时候，会发出呱呱的叫声哦！很有意思吧？我嘛，就用嘎嘎雪球机好了，我们去打雪仗吧。
+
+### 阳光很好…
+
+啊，好大的太阳，这边的袖子借给你，挡一挡太阳吧…唔…你可以蹲下来一点吗？我已经很努力踮脚了，但还差一点点…
+
+### 在沙漠的时候…
+
+咦？沙漠里好像传来了机械运作的声音…我们过去找找看吧，好不好嘛~说不定有很多有用的零件呢，嘿嘿…
+
+### 早上好…
+
+我让伊涅芙给你做好了早餐，是一碟小蛋糕，很甜很好吃哦…呃，嘴角的蛋糕屑是、是…好吧好吧，朋友之间不应该说谎的，对不起，我已经把我的份吃掉了。嗯？你说还可以分我一半吗？太好啦！那我的蔬果杯就全送给你啦！
+
+### 中午好…
+
+二号螺丝…二号…唔，到底在哪里呢？…算了，伊涅芙——借你手关节的二号螺丝用一下！哎呀，午饭我待会儿就来吃，你先听话。
+
+### 晚上好…
+
+看我发明的餐盘！下达指令后，它们会自动朝你走过来哦。晚餐，出列！上菜！
+
+### 晚安…
+
+欸…？你这就要走了吗…？要、要不要再试试我发明的咕嘟咕嘟泡茶机？或者再玩一局游戏！唔…好吧，我们拉勾，明天也一定要来和我玩哦，不见不散！
+
+### 关于爱诺自己·实用主义
+
+我做机械的零件基本都是我从废旧物品上拆下来的哦，包括伊涅芙身上的部件也是。垃圾只是放错了地方的资源罢了。不管从哪里来，只要最后能动起来就没问题。
+
+### 关于爱诺自己·家长义务
+
+身为家长当然要好好关爱每个家庭成员，所以每次伊涅芙做完清扫工作之后，我都会摸摸她的头表扬她。当然，别的小机器人工作完之后，我也没有漏掉表扬。嗯嗯，爱诺真是个好家长！
+
+### 关于我们·咔哒咔哒
+
+我身后的机械？它叫做咔哒咔哒，是我的小助手之一，搭载的功能非常多！你要试试看吗？它很乖，不会咬你的。来，咔哒咔哒，打个招呼。「咔哒咔哒！」
+
+### 关于我们·没吃
+
+道理我都懂啦…伊涅芙控制我的糖分摄入量，是出于对我健康的关心。但爱诺不是机器人，甜食的诱惑真的很难抵抗呀。我的答案是…只要伊涅芙没发现就是没吃！来吧来吧，我偷偷带你去吃甜品，我请客，只要你帮忙瞒着伊涅芙。
+
+### 关于「神之眼」…
+
+我总想让伊涅芙多搭载一些功能，为此装了又拆，拆了又装，后来在抓零件的时候，摸到了这枚神之眼，我还以为是太久没休息所以出现幻觉了…欸？你问伊涅芙的总制作时长吗？咳咳，这种事情不重要啦，你只要知道爱诺是天才就行了！
+
+### 有什么想要分享…
+
+我一开始起的名字明明是叫「轰隆隆月矩力能量炮」，结果除了伊涅芙，几乎所有人都只会用「大炮」来称呼它。哎，算了，反正是功能性为主的发明，我能理解关键时候念一长串名字是有点拖沓。看在大家都夸它有用的份上，我就不追求听起来可爱了。
+
+### 感兴趣的见闻…
+
+你信不信，只要你从一数到一百，我就能拆完一只螃蟹？再数到两百，我又能把螃蟹复原回去。哼哼，其实拆机械和拆螃蟹也差不多。
+
+### 关于伊涅芙·温暖
+
+伊涅芙醒来后，我还陆陆续续给她做了一些升级，比如说为她搭载了模拟体温模块哦，因为拉手和拥抱就是要暖暖的嘛！你一定能懂吧？下次我们同时和伊涅芙抱在一起吧？
+
+### 关于伊涅芙·家人
+
+伊涅芙是我最重要的家人，她能顺利回家，甚至连偶尔失忆的小毛病都被修好了，我真的应该好好谢谢你。对了，不如你现在就跟我回家吧！我让伊涅芙…哦不，还是我自己来吧，我下厨做蛋卷给你吃好不好？还有还有夏槲蛋糕也不错，你喜欢吃吗？欸？你跑什么呀…我还没说完呢！
+
+### 关于雅珂达…
+
+别看雅珂达总是和伊涅芙拌嘴，其实她们关系很要好！她还是伊涅芙第一次交到的好朋友。作为一位开明的家长，我可不会限制伊涅芙交朋友，而且我知道的，有些朋友之间就是会拌嘴，越吵闹关系反而越好。哦，差点忘记告诉你了，她的机械臂虽然现在由我学生在维护，但一开始的制作者是我本人，很漂亮吧？
+
+### 关于菈乌玛…
+
+你喜欢她头上的角冠吗？我可以给你做一对类似的，对了，要不安装上发光和开花的功能吧，或者你喜欢能绽放烟花的角冠吗？这些对爱诺来说都是小菜一碟。「霜月之子」会找你麻烦？好吧，那我也给他们做就是了。
+
+### 关于菲林斯…
+
+他是一位有品位的男士，说出来的话总是很悦耳，就像机械们碰撞发出的叮铃哐啷声一样。这赞誉太高了？好吧，可能稍微有点…但也是大实话！不是因为被甜点收买了！
+
+### 关于多莉…
+
+之前她来找我谈过合作，哼哼，不错，她确实是个有眼光的商人，但价格压太低了啦。伊涅芙说，我为多莉工作一天的工钱都不够买两份刚刚出炉的双果卷。天才也是要填饱肚子的！唉，除非她愿意把手头上那些来历不明的奇妙机械借给我拆一拆…
+
+### 关于奈芙尔…
+
+奈芙尔姐姐有只黑猫叫阿舍鲁，我曾经提议过给阿舍鲁装载一个翻译器，这样我们就能知道阿舍鲁在说些什么了。但奈芙尔姐姐想也没想就拒绝了这个提案，说她知道的情报已经够多了，不需要再知道一只猫咪想说的话了。什么嘛！那么冷冰冰，她是被菈乌玛的翻译伤害过吗？
+
+### 关于法尔伽…
+
+伊涅芙去找你们的那段时间，法尔伽大叔偶尔会来陪我玩哦。我想伊涅芙的时候，还被他看出来了，他拍了拍我的头安慰我。他的大手上都是厚厚的茧子，而且还重重的，但是也很温暖。
+
+### 关于莉奈娅…
+
+莉奈娅姐姐？小时候，她每次出门回来都会和我们讲很多好玩的事情，我很喜欢她。等我学会做机械之后，给她送了一些…可惜她都没有收下，只是告诉我心意她领了。一定是没送到符合她心意的款式，接下来我要做更多更多的机械，总有一个会是她喜欢的！
+
+### 想要了解爱诺·其一
+
+想知道更多我的事情？当然没问题！我们来交换吧，我说一个关于我的事情，你也说一个你的故事，怎么样？
+
+### 想要了解爱诺·其二
+
+我一点也不讨厌预算很低的客人，就算只有五千摩拉也能做很多事情了。比起预算不够，那些自己无聊又不懂得欣赏的人问题才更大，就算我往他们想要的机械里加入好玩的功能，他们也只会念叨着实用性，真是没救了。
+
+### 想要了解爱诺·其三
+
+「扳手老爹」？你从哪里听说的这名字？他是我的老师，他连自己的名字都忘记了，却还记得所有零件的标准规格。我和他说了我的很多想法，不管多么奇妙，他都会笑着摸摸我的头和我说，「好好好，那我就等着爱诺能造出来的那一天。」
+
+### 想要了解爱诺·其四
+
+我拼装出来的第一个机器人，叫做叮铃叮铃，和我现在的作品完全不一样，它没有任何别人眼里所谓实用的功能，不会说话也不会做家务，很难想象吧。它陪了我很长一段时间，直到它的外壳破损，脱落的螺丝再也没办法安装回去了，我才把它收了起来。
+
+### 想要了解爱诺·其五
+
+其实最初我选择制作机器人而不是别的发明，只是希望有人陪我玩而已…我明白人类往往有自己的事情要做，就算陪了我一段时间，很快我也会重新变成一个人，只有机械才是我的归宿。但有一天伊涅芙告诉我，她把我当作「家人」，我可以相信她…我忍不住哭了，因为我知道机器人是不会说谎的…
+
+### 爱诺的爱好…
+
+我喜欢给机械装上别人意想不到的功能，想想看，可以当做狗狗来遛的扫地机，肯定比普通的扫地机好玩不少吧？
+
+### 爱诺的烦恼…
+
+经常有各种零件，在我需要的时候找不到，在我不需要的时候才突然出现…我又不可能给每个零件都安装上自动搜寻功能…试试吸铁石？哎，我这里的精密机械太多了，伊涅芙也会被吸过来的…
+
+### 喜欢的食物…
+
+如果我有一天变成了机器人爱诺，那你一定要帮我把供能设置成糖！没有糖分的日子，那不就成了彻底的苦日子了吗？我一天都过不下去。
+
+### 讨厌的食物…
+
+挪德卡莱有种硬硬的薄饼，你尝过吗？跟咬伊涅芙的外壳一样！最关键的是它居然不甜，简直不可饶恕！
+
+### 收到赠礼·其一
+
+哇——我要让伊涅芙把我下周的零食全部换成这个！太好吃了，不如下下周也换吧！还有吗还有吗？再让我吃一份嘛，就一份！
+
+### 收到赠礼·其二
+
+好吃哦，但是稍微少了点幸福的味道。对了对了，这包砂糖给你！下次多加点糖，一定会更好吃的！
+
+### 收到赠礼·其三
+
+唔，尝起来没什么味道呢…不如我帮你做饭？欸？不要吗？好吧…那要不我把闲置的蛋卷机器改进一下送给你吧！稍微给我一点时间。
+
+### 生日…
+
+你是不是在等着爱诺给你惊喜呀？嘿嘿，看！叽里咕噜愿望神灯！你点亮蜡烛，它就会边唱生日歌边咕噜咕噜地转起来，好玩吧？喜欢的话，新的一年也要陪我一起玩哦！然后——现在是许愿时间，说出你的愿望吧，天才爱诺一定会帮你实现的！
+
+### 突破的感受·起
+
+嗯嗯，机器人的升级也是这种感觉吗？
+
+### 突破的感受·承
+
+升级完成。爱诺运行稳定度上升，能量消耗相应增大，请多多准备甜点用以供能。
+
+### 突破的感受·转
+
+你对天才爱诺的欣赏我已经感受到了，哼哼，很有眼光嘛！
+
+### 突破的感受·合
+
+我理想中的家人，恐怕就是像你这样的…理解、支持并且陪伴着我…嗯，我没在难过。接下来相信我就好啦，毕竟，还没有天才家长爱诺解决不了的问题！
+
+### 元素战技·其一
+
+吃我一击！
+
+### 元素战技·其二
+
+咔哒咔哒！
+
+### 元素战技·其三
+
+尝尝这招！
+
+### 元素战技·其四
+
+瞄准你啦。
+
+### 元素战技·其五
+
+预备！
+
+### 元素战技·其六
+
+哼哼！
+
+### 元素爆发·其一
+
+快看，有彩虹！
+
+### 元素爆发·其二
+
+哗啦哗啦水弹！
+
+### 元素爆发·其三
+
+洒水时间到——
+
+### 打开宝箱·其一
+
+我看看，里面有零件吗？
+
+### 打开宝箱·其二
+
+好多东西，伊涅芙在就好了。
+
+### 打开宝箱·其三
+
+呃…更乱了，对不起！我不是故意的。
+
+### 生命值低·其一
+
+这、这不对啊…
+
+### 生命值低·其二
+
+一点也不好玩！
+
+### 生命值低·其三
+
+犯规了犯规了！
+
+### 同伴生命值低·其一
+
+别闹，听我的！
+
+### 同伴生命值低·其二
+
+不怕，还有我！
+
+### 倒下·其一
+
+呜，不是这么玩的…
+
+### 倒下·其二
+
+好冷啊，伊涅芙…
+
+### 倒下·其三
+
+蛋卷…还没吃完…
+
+### 普通受击·其一
+
+坏人！
+
+### 重受击·其一
+
+没躲掉…
+
+### 重受击·其二
+
+痛痛。
+
+### 加入队伍·其一
+
+出去玩出去玩。
+
+### 加入队伍·其二
+
+到啦，放我下去，咔哒咔哒。
+
+### 加入队伍·其三
+
+爱诺——到！
+
+### 关于布伦妮…
+
+我非常欢迎她！她每次来都会把伊涅芙给她准备的甜点让给我吃，这样我就能趁伊涅芙看不到的时候，吃掉两份甜点！哎，布伦妮去了蒙德后还会回来吗？难得有能认真听我讲机械原理的朋友…

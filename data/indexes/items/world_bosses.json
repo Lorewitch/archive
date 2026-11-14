@@ -184,6 +184,52 @@
     "search_text": "стая вишапов глубин bathysmal vishap herd 深海龙蜥之群 инадзума 2.4 world_bosses enemy_drops dragonheirs_false_fin ложный плавник дракона глубин dragonheir's false fin 龙嗣伪鳍"
   },
   {
+    "id": "chimeric_winged_lion",
+    "category": "items",
+    "icon": "assets/icons/enemies/chimeric_winged_lion.webp",
+    "title": {
+      "ru": "Крылатая химера-лев",
+      "en": "Chimeric Winged Lion",
+      "zh": "嵌合翼骏狮"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_113091",
+        "title": {
+          "ru": "Отсечённый хвост небесного скитальца",
+          "en": "Severed Tail of the Sky-Roamer",
+          "zh": "游空之物的断尾"
+        },
+        "icon": "assets/icons/items/world_bosses/item_113091.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "крылатая химера-лев chimeric winged lion 嵌合翼骏狮 снежная 7.0 world_bosses enemy_drops material_113091 отсечённый хвост небесного скитальца severed tail of the sky-roamer 游空之物的断尾"
+  },
+  {
     "id": "cryo_hypostasis",
     "category": "items",
     "icon": "assets/icons/enemies/cryo_hypostasis.webp",
@@ -736,6 +782,52 @@
     "search_text": "кукузавр-тиран золотого пламени goldflame qucusaur tyrant 金焰绒翼龙暴君 натлан 5.0 world_bosses enemy_drops mark_of_the_binding_blessing метка связывающего благословения mark of the binding blessing 受祝所缚之印"
   },
   {
+    "id": "guardian_blade_of_drifting_snow",
+    "category": "items",
+    "icon": "assets/icons/enemies/guardian_blade_of_drifting_snow.webp",
+    "title": {
+      "ru": "Разящая вьюга",
+      "en": "Guardian Blade of Drifting Snow",
+      "zh": "游雪的护刃"
+    },
+    "region": "Снежная",
+    "game_version": "7.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_113092",
+        "title": {
+          "ru": "Треснувшие доспехи скитальца",
+          "en": "Vagabond's Cracked Armor",
+          "zh": "游离者的裂甲"
+        },
+        "icon": "assets/icons/items/world_bosses/item_113092.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7001000,
+    "search_text": "разящая вьюга guardian blade of drifting snow 游雪的护刃 снежная 7.1 world_bosses enemy_drops material_113092 треснувшие доспехи скитальца vagabond's cracked armor 游离者的裂甲"
+  },
+  {
     "id": "hydro_hypostasis",
     "category": "items",
     "icon": "assets/icons/enemies/hydro_hypostasis.webp",
@@ -881,6 +973,52 @@
     "filter_type": "",
     "sort_version": 4000000,
     "search_text": "сюита ледяного ветра icewind suite 冰风组曲 фонтейн 4.0 world_bosses enemy_drops artificed_spare_clockwork_component_coppelia artificed_spare_clockwork_component_coppelius запасная деталь чудного механизма: коппелия artificed spare clockwork component — coppelia 奇械发条备件·歌裴莉娅 запасная деталь чудного механизма: коппелиус artificed spare clockwork component — coppelius 奇械发条备件·科培琉司"
+  },
+  {
+    "id": "immortal_construct",
+    "category": "items",
+    "icon": "assets/icons/enemies/immortal_construct.webp",
+    "title": {
+      "ru": "Бессмертный конструкт",
+      "en": "Immortal Construct",
+      "zh": "不灭衍生造物"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_113090",
+        "title": {
+          "ru": "Неопалённая цветущая ветвь",
+          "en": "Unscorched Blossom Branch",
+          "zh": "焰中不灭花枝"
+        },
+        "icon": "assets/icons/items/world_bosses/item_113090.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "бессмертный конструкт immortal construct 不灭衍生造物 снежная 7.0 world_bosses enemy_drops material_113090 неопалённая цветущая ветвь unscorched blossom branch 焰中不灭花枝"
   },
   {
     "id": "iniquitous_baptist",
@@ -1985,6 +2123,52 @@
     "filter_type": "",
     "sort_version": 6005000,
     "search_text": "созерцатель: падший страж watcher: fallen vigil 守望者·堕天 мондштадт 6.5 world_bosses enemy_drops plume_of_the_fallen_watcher перо падшего созерцателя plume of the fallen watcher 堕天的落羽"
+  },
+  {
+    "id": "wavebinder",
+    "category": "items",
+    "icon": "assets/icons/enemies/wavebinder.webp",
+    "title": {
+      "ru": "Удерживающий волны",
+      "en": "Wavebinder",
+      "zh": "浪涛锚定者"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_113093",
+        "title": {
+          "ru": "Разбитый якорь стабильности",
+          "en": "Shattered Stability Anchor",
+          "zh": "破碎的稳定锚"
+        },
+        "icon": "assets/icons/items/world_bosses/item_113093.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7002000,
+    "search_text": "удерживающий волны wavebinder 浪涛锚定者 снежная 7.2 world_bosses enemy_drops material_113093 разбитый якорь стабильности shattered stability anchor 破碎的稳定锚"
   },
   {
     "id": "wayward_hermetic_spiritspeaker",

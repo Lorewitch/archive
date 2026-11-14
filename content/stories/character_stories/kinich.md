@@ -446,3 +446,1085 @@ What he was, however, was surer that he was willing to pay any price to obtain w
 「那是英雄与生俱来的美德…」「它本身即为崇高，使英雄成为英雄…」
 基尼奇淡淡地回想着利克长老的第一课，他不觉得现在的自己比那时更崇高、更自我奉献。
 但他确定自己比那时想得更清楚，为了现在想要得到的东西，他愿意付出什么样的代价。
+
+# voice_source_ids: 101000,101001,101002,101003,101004,101005,101006,101007,101008,101009,101010,101011,101012,101013,101014,101015,101016,101017,101018,101019,101020,101021,101022,101023,101024,101025,101026,101027,101028,101029,101030,101031,101032,101033,101034,101035,101036,101037,101038,101039,101040,101041,101042,101043,101044,101045,101046,101047,101048,101049,101050,101051,101052,101053,101054,101055,101056,101057,101058,101059,101060,101061,101062,101063,101064,101065,101066,101067,101068,101069,101070,101071,101072,101073,101074,101075,101076,101077
+
+## REPLICAS_RU
+
+### Привет...
+
+Кинич: Кинич Малипо. Не думаю, что мы встречались. Если нужны мои услуги, пожалуйста, расскажи о задании и сколько ты готов заплатить.
+Ахав: ...И это всё? Да ладно, парень! Ты меня в могилу сведёшь! Ты должен рассказать им, какой ты профессионал, превознести свой опыт, завысить их ожидания! А потом ты говоришь: «Именно поэтому я беру дороже, чем большинство!» Ты что, ничего не знаешь о ведении бизнеса?
+Ахав: Как же так получилось, что наше драконье величество Кухул Ахав заключил контракт с таким тупым болваном... О унижение!
+
+### Поболтаем: Ахав
+
+Кинич: Ахаву нравится всех бесить. Просто игнорируйте его, когда он говорит, не давайте ему задеть вас.
+Ахав: Кинич! Выпусти меня и скажи мне это в лицо!
+
+### Поболтаем: Цена
+
+Я не тот друг, к которому стоит приходить за словами утешения или ободрения. Но когда нужно взвесить цену своих поступков, обращайся.
+
+### Поболтаем: Распределение
+
+Вот как я распределяю свои силы на работе: семьдесят процентов уходит на исследование, десять процентов - на принятие окончательного решения, оставшаяся часть - на выполнение.
+
+### После дождя...
+
+Эх, cо штанин ещё капает...
+
+### Когда гремит гром...
+
+Ахав: И это называется молнией? Больше похоже на то, что с неба упал жалкий жучок со светящейся задницей.
+Кинич: В заднице этого жучка все равно больше света, чем во всей твоей душе.
+Ахав: Возьми свои слова обратно!
+
+### Когда светит солнце...
+
+Ахав: Спорим, завидуешь теперь моим солнечным очкам?! Нет, не одолжу.
+
+### Когда дует ветер...
+
+Ахав: Как только тучи опустятся на землю, и тьма поглотит поля, мы призовём ревущие ветры и спалим весь мир!
+Кинич: Ага, рассказывай.
+
+### Когда дует сильный ветер...
+
+Кинич: Плохая погода может сделать экстремальные виды спорта более опасными.
+Ахав: Ну тогда вперёд, прыгни с тарзанки! Удачно тебе сломать шею, ха-ха.
+
+### В пустыне...
+
+Пей побольше воды.
+
+### Доброе утро...
+
+Доброе утро. Я собираюсь уходить и вернусь только завтра утром. Не жди меня.
+
+### Добрый день...
+
+Раз уж ты здесь, может, перекусим перед уходом? Вот, вытри руки.
+
+### Добрый вечер...
+
+День почти прошёл. То, что сделано, уже не изменить - доволен я или нет... Я должен смотреть вперёд и наращивать темп.
+
+### Спокойной ночи...
+
+Дым от костра дерёт горло? Сейчас... Вот, теперь можно спать.
+
+### О Киниче: Популярность
+
+Ахав: Кинич, ты никогда не задумывался, почему тебя не окружают обожающие последователи? Скажи честно, этот вопрос не даёт тебе спать по ночам, да ведь? Ворочаешься в лунном свете и думаешь, почему у тебя нет друзей... Но не падай духом, ведь мудрость всемогущего драконьего величества Кухул Ахава находится прямо здесь, у тебя под рукой. Преклонись перед нами, умоляй нас о наставлении, и мы, возможно, укажем тебе путь.
+Кинич: О, ведь ты сам такой популярный? Единственный твой последователь - это длинный список людей, которые хотят дать тебе по морде.
+
+### О Киниче: Охотник на заврианов
+
+Охотник на заврианов - необычная профессия, и не все её одобряют. Но иногда бывают конфликты, в которых нельзя оставить и овец целыми и волков сытыми. Тогда кто-то должен вызваться и запачкать руки. Я без проблем стану этим человеком, если цена будет подходящей.
+
+### О нас: Поручения
+
+Кинич: Если тебе когда-нибудь понадобится моя помощь в выполнении заказов Гильдии искателей приключений, дай знать.
+Ахав: О да, пожалуйста! Дай ему самое опасное, самое сложное задание, какое только сможешь найти! Чем выше риск смертельного исхода, тем лучше!
+
+### О нас: Друзья
+
+У Ахава есть свои причины подвергать меня опасности, но на самом деле я не против рискнуть, чтобы тебе помочь. Хоть я постоянно и говорю, что всё имеет свою цену, но я верю, что некоторые вещи стоит делать, чего бы это ни стоило.
+
+### Глаз Бога...
+
+За использование Глаза Бога платить не надо. Но часто именно вещи без явной цены оказываются самыми дорогими, когда наступает пора рассчитываться.
+
+### Давай поделимся...
+
+Мой народ твёрдо верит в абсолютную свободу. Они считают, что отношения между людьми и заврианами должны строиться на взаимном доверии и поддержке, а не на договоре, который связывает их по рукам и ногам. Полагаю, я исключение.
+
+### Интересные вещи...
+
+Кинич: Собирая ягоды квенепа, всегда смотри, нет ли поблизости назойливых заврианов.
+Ахав: Ах ты жадная зелёная ящерица! Ты склизкий, ползучий, скупой червяк! Ты эгоистичная задница! Я взглянул на эти гнилые ягоды лишь потому, что был голоден до полусмерти!
+Кинич: Как хочешь, мне больше достанется.
+Ахав: Га-а! Ярости моей нет предела!
+
+### О Мавуике...
+
+Обычно это я заставлял всех платить по счетам. Но потом Пиро Архонт Одой воскресения вернула меня из Царства Ночи, и внезапно настало время платить мне... Только тогда я наконец понял, каково это с другой стороны. Для того, кто сильнее «цена» - это козырь, а для того, кто слабее - ставка. Важно то, хватит ли у тебя смелости пойти на риск.
+
+### О Муалани...
+
+Я брал от неё задания. Она предложила мне позицию «боевого советника», оплата была хороша, так что я согласился. Но, поработав с ней несколько раз, я заметил, что она сама довольно сильна. Я её расспросил, и в конце концов она призналась, что «боевой советник» - это просто кодовое название для обучения Качины выживанию в дикой природе...
+«Битва с природой», значит. Хм, я бы просто назвал это «жизнь».
+Короче говоря, ту сделку мы завершили, и у меня появилось два новых клиента.
+
+### О Качине...
+
+Однажды я увидел поручение, связанное с ней. Какие-то ничтожества из её племени позавидовали, что она получила древнее имя, и попытались заказать убийство её завриана-спутника... Я заставил их за это заплатить.
+
+### О Часке...
+
+Я видел, как она справляется со своей работой. Наши методы разрешения конфликтов совершенно разные. Я обычно добиваюсь, чтобы одна сторона замолчала, а она заставляет замолчать обе. Когда они просыпаются в своих больничных постелях, им уже нечего сказать, потому что забыли, из-за чего ссорились.
+
+### О Шилонен...
+
+Однажды, проходя по территории Детей Эха, я увидел странное поручение. Заказчик искал выносливое растение, которому не нужен особый уход. Я принёс семена лапы завриана, горшок и немного удобрений. Это растение хорошо растёт по всему Натлану, даже в самых бесплодных местах. Но когда я пришёл за платой, то увидел, что из горшка не проросло ни одного ростка.
+Я заплатил за то, что переоценил садоводческие способности Шилонен. Это одна из редких неудач в моём послужном списке.
+
+### Об Иансан...
+
+Кинич: Я и раньше брал у неё поручения. Хотя это было скорее долгосрочное сотрудничество... Она готовит здоровое питание для своих учеников, причём все блюда отмеряются с точностью до калории. Для этого ей нужны постоянные поставки фруктов, которые отвечают её строгим стандартам качества и требованиям к размеру. Любая помятость или дырка от червяка - и она забракует всю партию. Большинство людей считают, что с ней невозможно работать, но у меня хороший глаз на такие вещи... и надёжный способ утилизации фруктов, которые не прошли проверку.
+Ахав: Подожди, что? Ты мой сок из них делаешь?!
+
+### О Ситлали...
+
+Как ты, наверное, догадался, я уже брал её поручения. Я помог ей купить тяжёлую стопку бумажных книг у торговца из Инадзумы. Не хочу совать нос в личные дела моих клиентов, но... разве Повелители Ночного Ветра не используют ткань вместо бумаги? / Как ты, наверное, догадалась, я уже брал её поручения. Я помог ей купить тяжёлую стопку бумажных книг у торговца из Инадзумы. Не хочу совать нос в личные дела моих клиентов, но... разве Повелители Ночного Ветра не используют ткань вместо бумаги?
+
+### Об Ифе...
+
+Кинич: Я уже прибегал к его услугам. Это было, когда Ахав сказал, что он «болен»... Что бы это ни было, он постоянно плакал и орал. Поэтому я решил, что имеет смысл отвести его к лучшему завроветеринару. И он действительно хорош. Ахав пробыл внутри недолго, но когда Ифа вывел его, он был здоров.
+Ахав: Аргх... Да что ты знаешь о медицине! Он даже не настоящий врач, он шарлатан! Шарлатан! ...Тебя там даже не было, ты не знаешь, что он сказал!
+
+### Узнать больше о Киниче I
+
+Я охотник на заврианов. Когда охотиться не на кого, я берусь и за другую работу. Получается, мы в некотором роде коллеги.
+
+### Узнать больше о Киниче II
+
+Когда я работал курьером, люди всегда просили меня о «небольшой услуге», получив своё письмо. А сколько стоит «небольшая услуга»? Обычно, как только я называл свою цену, моя помощь сразу становилась не нужна.
+
+### Узнать больше о Киниче III
+
+К своей первой охоте на завриана я готовился несколько недель. Я несколько дней просто наблюдал, выслеживал и выжидал, сделал три разные ловушки, не меньше, и сделал подробные записи о его распорядке дня и привычках питания...
+Многие из этих усилий были потрачены впустую, но это были необходимые траты.
+
+### Узнать больше о Киниче IV
+
+Кинич: Ахав был запечатан в древних руинах, пока я не подписал с ним контракт и не выпустил его наружу.
+Ахав: Я принял его за безрассудного болвана, который умрёт в канаве через несколько дней, но нет! Каким-то образом он всё ещё здесь, живой и здоровый... Ладно, ладно. Я - суверенный правитель страны пламени, и обладаю подобающими моему положению добродетелью и достоинством.
+Кинич: Это те «добродетель и достоинство», которые заставляют тебя каждый день мечтать, что я погибну?
+Ахав: Я имел в виду время и терпение!
+Кинич: ...Неважно, даже самые мерзкие и жалкие существа могут быть полезны, пока ты знаешь, как держать их под контролем.
+Ахав: Мерзавец же ты, Кинич! Погоди, я сегодня ещё найду кого-нибудь, кто забьёт тебя до смерти!
+
+### Узнать больше о Киниче V
+
+Я всегда подходил к делу с точки зрения цены, поэтому для меня не стало сюрпризом, когда Вайоб дала мне древнее имя Малипо, то есть «Пламя поворота».
+Только существование порождает цену, поэтому я не стремлюсь к тому дню, когда жизнь моя подойдёт к концу. Но я несу наследие Пламени поворота, и готов встретить огни, когда настанет день.
+Пусть Пламя поворота судит, как я прожил свою жизнь. Я уверен, что мне не о чем жалеть.
+
+### Хобби Кинича...
+
+Я попробовал себя во всех видах экстремального спорта. Когда мне надоедает одно занятие, я перехожу к другому. Это хороший способ отточить свои навыки и научиться контролировать свой страх... Сначала вы встречаетесь со своим страхом, затем принимаете его и наконец побеждаете.
+
+### Беспокойство Кинича...
+
+Большинство беспокойных людей, которых я встречал, думают либо слишком много, либо слишком мало. Я всегда ищу следующую ступень и цель, поэтому у меня нет времени на беспокойство.
+
+### Любимая еда...
+
+Кинич: На природе я ем, что у меня под рукой. Обычно я предпочитаю мясо и фрукты.
+Ахав: Пф, посмотрите на него, притворяется, что непривередливый едок. Почему я никогда не видел, чтобы ты собирал злакофрукты?
+Кинич: Слишком тяжелые. Я путешествую налегке.
+
+### Нелюбимая еда...
+
+Ахав: Холодная или острая пища оскверняет священный храм, которым является наше тело. А пары горячего масла - это вредный газ, которого мы избегаем как чумы. Ничего слишком твёрдого, так как его трудно жевать, и ничего слишком мягкого, так как оно лишено вкуса...
+Кинич: Так чего ж ты хочешь?
+Ахав: Сожрать твою душу! А-ха-ха-ха!
+
+### Подарок I
+
+Кинич: Очень вкусно. Надо будет тебе заплатить, или что-нибудь подходящее подарить.
+Ахав: А ну выплюнь, жадный змей! Там наверняка часть для меня была!
+
+### Подарок II
+
+Кинич: Неплохо. Было вкуснее, чем я думал.
+Ахав: Слышишь? Он издевается над тобой! Думает, что ты совсем не умеешь готовить!
+
+### Подарок III
+
+Кинич: ...Можно за это не платить?
+Ахав: Придержи своих вонючих коней! Я ещё даже не попробовал!
+
+### День рождения...
+
+Кинич: Ахав?
+Ахав: Ладно, ладно. Любишь командовать людьми почти так же, как и забирать их деньги. В следующий раз купи себе пару крыльев и летай сам... Ты, да ты. Хорош стоять столбом, забирайся мне на спину. Прокатиться по небу на спине нашего драконьего величества Кухул Ахава - честь, которая выпадает раз в жизни.
+Кинич: Не волнуйся, это всего лишь прогулка по лесу. Просто следуй за мной. Я заранее спланировал маршрут и обещаю, что он безопасен.
+Ахав: Не забудь, что ты обещал мне взамен!
+Кинич: Давай запрыгивай... С днём рождения.
+
+### Чувство возвышения: Начало
+
+Ножу нужна только крепость и острота.
+
+### Чувство возвышения: Нарастание
+
+Старайся не брать слишком много вещей. Например, вот этот зонтик не нужен.
+
+### Чувство возвышения: Кульминация
+
+Прежде чем отправиться в путь, я потуже завязываю бандану и напоминаю себе сохранять спокойствие и бдительность.
+
+### Чувство возвышения: Окончание
+
+Ты многое для меня сделал, и я не оставлю этот долг неоплаченным. Назови свою цену, или прими то, что я предложу... Клянусь именем Малипо, что независимо от своего выбора, в убытке ты не останешься. / Ты многое для меня сделала, и я не оставлю этот долг неоплаченным. Назови свою цену, или прими то, что я предложу... Клянусь именем Малипо, что независимо от своего выбора, в убытке ты не останешься.
+
+### Элементальный навык I
+
+Ахав: Десять баллов за ловкость.
+
+### Элементальный навык II
+
+Ахав: Ты убегаешь?!
+
+### Элементальный навык III
+
+Ахав: Только два этих трюка и знаешь?
+
+### Элементальный навык IV
+
+Цель на крючке.
+
+### Элементальный навык V
+
+Добыча найдена.
+
+### Элементальный навык VI
+
+Некуда отступать.
+
+### Взрыв стихии I
+
+Подарок Царству Ночи.
+
+### Взрыв стихии II
+
+Им пора в путь.
+
+### Взрыв стихии III
+
+Тени прошлого следуют моим приказам.
+
+### Взрыв стихии IV
+
+Ахав: Преклонись пред своим королём!
+
+### Взрыв стихии V
+
+Ахав: Узри славу!
+
+### Взрыв стихии VI
+
+Ахав: Пусть мёртвый лес пылает в драконьем огне!
+Ахав: Я спалю всё, ВСЁ!
+Ахав: Ах, как приятно!
+
+### Взрыв стихии VII
+
+Ахав: Принесите свои души в жертву.
+Ахав: Ха? От страха потеряли дар речи?
+Ахав: Тогда замолчите навечно!
+
+### Взрыв стихии VIII
+
+Ахав: С нашей славой никто не сравнится!
+Ахав: Особенно когда я в плохом настроении.
+Ахав: Мелкие букашки, время расплаты!
+
+### Открытие сундука I
+
+Кинич: А со мной поделишься?
+Ахав: Тебе правда нужен этот мусор?
+
+### Открытие сундука II
+
+Кинич: Всему есть своё применение.
+Ахав: У тебя игрушек в детстве не было?
+
+### Открытие сундука III
+
+Ахав: Пф, бесполезная куча мусора.
+Кинич: Хватит тявкать. Возьми или оставь.
+
+### Запуск планера I
+
+Без него никак?
+
+### Низкий уровень HP I
+
+Пора тебе заплатить.
+
+### Низкий уровень HP II
+
+Я тоже так могу...
+
+### Низкий уровень HP III
+
+Ахав: Тебе конец, Кинич! Тебе конец!
+
+### Низкий уровень HP компаньона I
+
+Ты ведь знаешь, что ты уже на грани?
+
+### Низкий уровень HP компаньона II
+
+Давай поговорим о цене?
+
+### Без сознания I
+
+Не... оборачивайся...
+
+### Без сознания II
+
+За всё... надо платить...
+
+### Без сознания III
+
+Ахав: Хе-хе, неплохая сделка...
+
+### Получен тяжёлый удар I
+
+Мой промах.
+
+### Получен тяжёлый удар II
+
+Не ожидал...
+
+### Присоединяется к группе I
+
+По рукам. Я в деле.
+
+### Присоединяется к группе II
+
+Я со всем разберусь.
+
+### Присоединяется к группе III
+
+Приятно с тобой работать.
+
+### О Варесе...
+
+Кинич: Я сталкивался с ней несколько раз, когда меня нанимали уничтожить опасных монстров. Если оказывалась случайно рядом, она всегда приходила мне на помощь. Если говорить вежливо, её боевой стиль довольно... прямолинейный, она полагается в основном на скорость и грубую силу, сбивая врагов с ног. Если говорить менее вежливо... дерётся она совершенно топорно.
+Ахав: Как можно пропустить лучшую часть истории! Хе-хе... В благодарность за помощь Кинич любезно предложил угостить её местными деликатесами Потомков Крон... И тут она заказывает тридцать порций «Бам-бум». Тридцать! И съела их за один присест! Бедный жадненький Кинич - видели бы вы его лицо! Он был так потрясён, что позеленел, будто его сейчас вырвет! Аха-ха-ха-ха!
+
+## REPLICAS_EN
+
+### Hello
+
+Kinich: "Malipo" Kinich. I don't believe we've met. If you'd like to request my services, please brief me on the job and state what you're willing to pay.
+Ajaw: ...That's your pitch? Come on, man! You're killing me! You're supposed to tell 'em what a pro you are, play up your past experience, set their expectations high! Then you say "And that's why I charge a higher price than most"! Don't you know anything about doing business?
+Ajaw: Ugh, how did the Almighty Dragonlord, K'uhul Ajaw end up stuck in a contract with such a clueless moron... Oh, the humiliation!!!
+
+### Chat: Ajaw
+
+Kinich: Ajaw loves being antagonistic. Just ignore him when he's mouthing off, don't let him get under your skin.
+Ajaw: Kiniiiiiich! I dare you to release me and say that to my face!
+
+### Chat: Price
+
+I'm not the friend to come to for words of comfort or encouragement. But, when it comes to weighing the costs of your actions, ask away.
+
+### Chat: Allocation
+
+Here's how I allocate my energy on a job: Seventy percent goes to investigating, ten percent to making a final decision, and the remainder for execution.
+
+### After the Rain
+
+Tch. The hems of my pants are still dripping...
+
+### When Thunder Strikes
+
+Ajaw: You call that a lightning strike? It looked more like a puny bug with a glowing butt fell out of the sky.
+Kinich: There's still more light in that insect's butt than in your entire soul.
+Ajaw: You take that back!
+
+### When the Sun Is Out
+
+Ajaw: Bet you're jealous of my sunglasses now! And no, you can't borrow them.
+
+### When It's Windy
+
+Ajaw: Once the clouds descend upon the soil, and darkness swallows the land, we shall summon the howling winds, and set the whole world ablaze!
+Kinich: Uh-huh, you keep telling yourself that.
+
+### When the Wind Is Blowing
+
+Kinich: Bad weather can make extreme sports more challenging.
+Ajaw: Well go on then, go do a bungee jump! Break a leg! Or better yet, break your neck, hehehe.
+
+### In the Desert
+
+Don't forget to stay hydrated.
+
+### Good Morning
+
+Morning. I'm about to head out, and I won't be back until tomorrow morning. Don't wait up for me.
+
+### Good Afternoon
+
+Since you're here, shall we grab a bite before you go? Here, wipe your hands with this.
+
+### Good Evening
+
+The day is almost gone. What is done cannot be changed, whether I am satisfied with it or not... Instead, I should look ahead, and pick up my pace.
+
+### Good Night
+
+Is the smoke from the bonfire getting in your throat? One moment... Alright, you should be able to sleep now.
+
+### About Kinich: Being Well-Liked
+
+Ajaw: Kinich, have you ever wondered why you're not surrounded by adoring followers? Be honest, it keeps you up at night, doesn't it? Tossing and turning in the moonlight, wondering why you don't have any friends... But take heart, for the wisdom of the Almighty Dragonlord, K'uhul Ajaw, is right here within your grasp. Prostrate yourself before us, beg for our words of guidance, and we may yet deign to show you the way.
+Kinich: Oh, 'cause you're so popular yourself? The only following you have is a long list of people who want to slap you in the face.
+
+### About Kinich: Saurian Hunter
+
+Being a Saurian hunter is an unusual occupation, and not everyone approves of it. But sometimes, a conflict emerges where there's no pleasing both sides, and someone has to step up and get their hands dirty. I have no problem being that person, as long as the price is right.
+
+### About Us: Commissions
+
+Kinich: If you ever need my help with some of your commissions from the Adventurers' Guild, just let me know.
+Ajaw: Oh, yes please! Give him the most dangerous, most difficult commissions you can find! The higher the risk of fatality, the better!
+
+### About Us: Friends
+
+Ajaw has his own reasons for putting me in harm's way, but really, I don't mind taking risks to lend you a hand. For all my talk about everything having its price, I believe some things in this world are worth doing whatever the cost.
+
+### About the Vision
+
+There is no cost to using a Vision. But it's often the hidden costs that end up being the heaviest to bear when the time comes to pay.
+
+### Something to Share
+
+My people are strong believers in absolute freedom. They think the bond between human and Saurian should be built on mutual trust and support, not a binding contract that ties them down. Guess I'm the odd one out.
+
+### Interesting Things
+
+Kinich: When picking Quenepa Berries, you should always check to make sure there are no pesky Saurians nearby.
+Ajaw: You stingy little lizard-brain! You slimy, slithering, miserly worm! You're a selfish butthole! I only gave those festering fruits a second look because I was starved half to death!
+Kinich: Suit yourself, more for me.
+Ajaw: Gahhh! My fury cannot be contained!
+
+### About Mavuika
+
+For most of my life, I've been getting others to pay a price. Then, the Pyro Archon used the Ode of Resurrection to bring me back from the Night Kingdom, and suddenly I was the one paying the price... Only then did I finally understand it from both sides. To the stronger party, the "price" is a bargaining chip, and to the weaker party, it's a sign of what's at stake. What matters is whether you have the courage to make the gamble.
+
+### About Mualani
+
+I've taken jobs from her before. She offered to pay me to act as a "battle advisor," and the Mora was good, so I accepted. After working with her a few times, though, I noticed she's not exactly a pushover. When I pressed her about it, she eventually admitted that "battle advisor" was just code for mentoring Kachina in wilderness survival...
+So a "battle against nature," then. Hmm, I'd probably just call that "life."
+Anyway, that business is concluded, and I now have two new acquaintances.
+
+### About Kachina
+
+I saw a job posting about her once. Some lowlifes from her tribe got jealous that she'd received an ancient name, and basically tried to order a hit on her Saurian companion... They paid the price, I made sure of that.
+
+### About Chasca
+
+I've seen how she handles her work. Our methods of conflict-resolution are quite different. I tend to get one party to shut up, but she silences both. By the time they wake up in their sick beds, they have nothing further to say, because they've forgotten whatever it was they were fighting about.
+
+### About Xilonen
+
+I saw a strange job posting once while passing by the Children of Echoes' territory. The requester was looking for a hardy plant that wouldn't take much maintenance, so I brought over some Saurian claw succulent seeds, along with a pot and some fertilizer. It grows well all over Natlan, even in the most barren areas. But when I went to collect my payment, I saw that not a single seedling had sprouted from the pot.
+I paid the price for overestimating Xilonen's gardening skills. This was one of the few failed jobs on my record.
+
+### About Iansan
+
+Kinich: I've taken jobs from her before. More of a long-term collaboration, really... She makes fitness meals for her personal-training students, with everything measured out to the exact calorie. To keep this up, she needs a steady supply of fruits that meet her strict quality standards and size requirements. A single bruise or bug bite, and she'll reject the entire batch. Most people find this impossible to work with, but I've got a good eye for these things... plus a reliable means of disposal for fruits that don't make the grade.
+Ajaw: Wait, what? ...THAT'S what you make my juice from!?
+
+### About Citlali
+
+As you can probably guess, I've taken jobs from her before. I helped her purchase a heavy stack of paper-based reading material from an Inazuman merchant. Not to pry into my clients' private affairs, but... don't the Masters of the Night-Wind use woven fabric instead of paper?
+
+### About Ifa
+
+Kinich: I've enlisted his services before. It was when Ajaw said he was "ill"... Whatever it was, he was ranting and crying incessantly. So, I figured it only made sense to take him to the best sauro-vet I could find. And he really is a pro. Ajaw wasn't inside for long, but when Ifa brought him out, he was cured.
+Ajaw: Gah... What do you know about medicine! He's not even a real doctor, he's a quack! A charlatan! ...You weren't even there, you don't know what he said! Ugh.
+
+### More About Kinich: I
+
+I am a Saurian hunter. When there's no Saurians to hunt, I take on other jobs too. I guess that means we're in the same line of work.
+
+### More About Kinich: II
+
+Back when I was a messenger, people would always ask me to lend them a "quick hand" with something after I showed up with their message. So then the question is, what does a "quick hand" cost? Most of the time, as soon as I named my price, they suddenly didn't need my help anymore.
+
+### More About Kinich: III
+
+I did weeks of preparation for my first Saurian hunt. I spent several days just observing, stalking, and lying in wait, created three different traps, no less, and made detailed notes of its daily routine and feeding habits...
+A lot of that effort was wasted, but it was a necessary waste.
+
+### More About Kinich: IV
+
+Kinich: Ajaw used to be sealed in an ancient ruin, up until I signed a contract with him and let him out.
+Ajaw: I took him for a reckless moron who'd be dead in a ditch within days, but nooooo! Somehow, he's still here, alive and kicking... Ugh, rise above it, rise above it. I am the sovereign ruler of the nation of flame, and I have the virtue and dignity to match.
+Kinich: Your "virtue and dignity" is what makes you hope I kick the bucket every day?
+Ajaw: I meant time and patience!
+Kinich: ...Anyway, as long as you know how to keep them under your thumb, even the most vile and wretched beings have their utility.
+Ajaw: Get stuffed, Kinich! Just you wait, I'll find someone to beat you to death before the day is through!
+
+### More About Kinich: V
+
+I've always dealt with things in terms of costs, so it came as no surprise to me when the Wayob granted me the Ancient Name of "Malipo," or Turnfire.
+Value comes from surviving, so I don't look forward to the day my life will come to an end. But I'm also the bearer of the Turnfire legacy, and I'm prepared to face the flames when that day comes.
+Let the Turnfire judge how I have spent my life. I know I won't have anything to regret.
+
+### Kinich's Hobbies
+
+I've tried my hand at all kinds of extreme sports. When I get bored of one thing, I move onto the next. It's a good way to hone your skills while learning to control your fear... First, you face your fear, then you learn to tolerate it, and finally, you conquer it.
+
+### Kinich's Troubles
+
+Most worriers I've met either think too much or too little. I'm always looking to my next destination and goal, so I never have the time to worry.
+
+### Favorite Food
+
+Kinich: Out in the wild, I eat for convenience. Meat and fruits are always my preference, of course.
+Ajaw: Ha, look at you, pretending you're not a picky eater. How come I never see you picking any grainfruits, hmm?
+Kinich: Too heavy. I travel light.
+
+### Least Favorite Food
+
+Ajaw: Cold or spicy food defaces the sacred temple that is our body, and steaming hot oil is a noxious gas that we avoid like the plague. Nothing too hard, as it is laborious to chew — nor too soft, for it lacks flavor...
+Kinich: So tell me. What do you want?
+Ajaw: To feast on your soul! Muahahaha!
+
+### Receiving a Gift: I
+
+Kinich: This is quite delicious. I should offer you some cash in return, or some kind of gift if you'd prefer.
+Ajaw: Spit it out, you greedy snake! Some of that was meant for me!
+
+### Receiving a Gift: II
+
+Kinich: Very nice. That had more flavor than I was expecting.
+Ajaw: Hear that? He's mocking you! He thinks you can't cook to save your life!
+
+### Receiving a Gift: III
+
+Kinich: ...Any chance I can return this to the kitchen?
+Ajaw: Hey, hold your stinkin' horses! I haven't even tried it yet!
+
+### Birthday
+
+Kinich: Ajaw?
+Ajaw: Alright, alright. Tch, you love bossing people around almost as much as you enjoy taking people's money. Next time, get your own pair of wings and you do the flying... You, yes you. Don't just stand there, climb up onto my back already. A ride through the skies on the back of the Almighty Dragonlord, K'uhul Ajaw is a once-in-a-lifetime honor.
+Kinich: Don't worry, it's just a gentle cruise through the forest. Just follow me. I planned out a route in advance and I promise it's safe.
+Ajaw: Don't forget what you promised me in return!
+Kinich: Alright, now hop on... Happy birthday.
+
+### Feelings About Ascension: Intro
+
+A knife just needs to be two things: sturdy, and sharp.
+
+### Feelings About Ascension: Building Up
+
+Try to pack light. Avoid large and unwieldy items... like this umbrella, for example.
+
+### Feelings About Ascension: Climax
+
+Before I head out, I tighten my head scarf and remind myself to stay calm and alert.
+
+### Feelings About Ascension: Conclusion
+
+You've done a lot for me, and I don't take it for granted. You can either name your price, or accept what I offer you in return... I swear on the "Malipo" name that no matter which you pick, you won't be shortchanged.
+
+### Elemental Skill: I
+
+Ajaw: Ten points for agility.
+
+### Elemental Skill: II
+
+Ajaw: Are you running away!?
+
+### Elemental Skill: III
+
+Ajaw: You really are a one-trick pony, you know...
+
+### Elemental Skill: IV
+
+Locked on.
+
+### Elemental Skill: V
+
+Target acquired.
+
+### Elemental Skill: VI
+
+I got 'em cornered.
+
+### Elemental Burst: I
+
+For the Lord of the Night.
+
+### Elemental Burst: II
+
+Claim these souls.
+
+### Elemental Burst: III
+
+Shadow of the past, mine to command.
+
+### Elemental Burst: IV
+
+Ajaw: Bow before your King!
+
+### Elemental Burst: V
+
+Ajaw: Full glory!
+
+### Elemental Burst: VI
+
+Ajaw: Let the dead wood blaze in dragon-fire!
+Ajaw: I burn it all, ALL!
+Ajaw: Ahh, it feels good!
+
+### Elemental Burst: VII
+
+Ajaw: Submit your souls in sacrifice.
+Ajaw: Hah? Scared speechless?
+Ajaw: Then forever hold your peace!
+
+### Elemental Burst: VIII
+
+Ajaw: Ours is a glory to which none can compare!
+Ajaw: Especially not when I'm in a bad mood.
+Ajaw: Measly insects, now you must pay!
+
+### Opening Treasure Chest: I
+
+Kinich: Do I get a share?
+Ajaw: You actually want this trash?
+
+### Opening Treasure Chest: II
+
+Kinich: Everything has its use.
+Ajaw: Were you not given toys to play with as a child? Is that it?
+
+### Opening Treasure Chest: III
+
+Ajaw: Tch, worthless pile of garbage.
+Kinich: Stop yapping. Just take it or leave it.
+
+### Deploying Wind Glider: I
+
+...Is this really necessary?
+
+### Low HP: I
+
+Time for you to pay the price.
+
+### Low HP: II
+
+Two can play at that game...
+
+### Low HP: III
+
+Ajaw: You're done, Kinich! You're so done!
+
+### Ally at Low HP: I
+
+You know you're on the brink, right?
+
+### Ally at Low HP: II
+
+Wanna make me an offer?
+
+### Fallen: I
+
+Don't... turn back...
+
+### Fallen: II
+
+Everything... has a price...
+
+### Fallen: III
+
+Ajaw: Hehe, pleasure doing business with you...
+
+### Heavy Hit Taken: I
+
+My mistake.
+
+### Heavy Hit Taken: II
+
+That was unexpected...
+
+### Joining Party: I
+
+Deal. I'm in.
+
+### Joining Party: II
+
+It's as good as done.
+
+### Joining Party: III
+
+Glad to be working with you.
+
+### About Varesa
+
+Kinich: I've run into her on several occasions, always during commissions where I've been hired to wipe out a horde of dangerous monsters. She was only passing by, but she took it upon herself to come and help me out. To put it politely, her fighting style is fairly... straightforward, relying mostly on speed and brute force to knock her enemies over. To put it less politely... her fighting style is pretty crude.
+Ajaw: Way to leave out the best part of the story! Hehehe... To thank her for her help, Kinich kindly offered to treat her to some local delicacies from the Scions of the Canopy... Next thing you know, she's ordered thirty portions of Puff Pops, all to herself. Thirty! And she polished them off in one sitting! Poor little stingy Kinich — you should have seen the look on his face! He was so shocked, he went green like he was about to throw up! Ahahahaha!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+基尼奇：「马力卜」的基尼奇，初次见面，告知委托内容时请附上你的出价。
+阿乔：…这就没了？哎呀，真急死我了！你该先宣扬自己干活多么迅速漂亮，说点你过往的优秀战绩，抬高对方的心理预期，然后再说「这值得配上一个更好的价码！」你到底会不会做生意？
+阿乔：一想到我伟大圣龙库胡勒阿乔竟然和你这个臭脸的呆瓜签订了契约，啊，真是丢人丢回上个时代了！
+
+### 闲聊·阿乔
+
+基尼奇：阿乔性情乖戾，多数时候，不必听信它的话。
+阿乔：基尼奇！！你有本事就放我出来——！
+
+### 闲聊·代价
+
+激励与抚慰是别人的强项，度量「代价」则是我的做法。
+
+### 闲聊·分配
+
+七成调查，一成判断，剩下的用于出击。这是我分配精力的方式。
+
+### 雨过天晴…
+
+啧，裤脚还在滴水…
+
+### 打雷的时候…
+
+阿乔：是屁股会发光的虫子从天上掉下来了吗？才这么点光亮。
+基尼奇：我看你还没这只虫子亮。
+阿乔：你再说一遍？！
+
+### 阳光很好…
+
+阿乔：我有一副墨镜，但谁都不借。
+
+### 起风的时候…
+
+阿乔：待壤土与沉云交汇，黑暗吞并旷野，吾将役使狂风呼啸，焚灼尘世！
+基尼奇：哼，你就「吹」吧。
+
+### 刮大风了…
+
+基尼奇：天气因素会提高极限运动的挑战性。
+阿乔：快跳一个嘛…我都忍不住看你去试了，呵呵呵呵。
+
+### 在沙漠的时候…
+
+记得喝水。
+
+### 早上好…
+
+早。我正准备出门，天亮前不会回来。不用等我。
+
+### 中午好…
+
+既然来了，随便吃点再走？给，用这个擦擦手。
+
+### 晚上好…
+
+「今天」快要过去了。无论我是否对成果满意，事实都不会因此改变…接下去，该加快脚步了。
+
+### 晚安…
+
+篝火太呛了？稍等…好了，你休息吧。
+
+### 关于基尼奇自己·追捧
+
+阿乔：基尼奇，你有没有反思过自己不受人们追捧的原因？看着月亮翻来覆去睡不着觉的时候，心里一定很苦恼吧？智慧圣龙库胡勒阿乔就在面前，汝为何不匍匐在地，乞求吾降下谕旨，为汝指点迷津呢？
+基尼奇：你一定是因为自己做得太好，才会让追随者们都想把你狠揍一顿。
+
+### 关于基尼奇自己·猎龙人
+
+身为猎龙人，我的职业特殊，并不能获得所有人的理解。但当矛盾难以化解，两全其美之策只存在于幻想中时，总得有人弄脏双手。只要价格合适，我不介意这个人是我自己。
+
+### 关于我们·委托
+
+基尼奇：如有需要，我可以为你分担冒险家协会的委托。
+阿乔：记得要最棘手、最刁钻，最好有生命危险的那种！
+
+### 关于我们·朋友
+
+我知道阿乔另有图谋，但我并不介意为你涉险。我将凡事的代价挂在嘴边，但我相信这世上有些事可以不惜代价。
+
+### 关于「神之眼」…
+
+使用「神之眼」无需代价。但不被置于明面的价格，结算时往往最为深重。
+
+### 有什么想要分享…
+
+「悬木人」崇尚不受约束的绝对自由，人与龙之间重在认可与帮助，不存在契约关系。我是个例外。
+
+### 感兴趣的见闻…
+
+基尼奇：摘青蜜莓的时候，记得确认周围没有碍事的龙。
+阿乔：你这只吝啬的绿斑点蜥蜴！斤斤计较的爬虫！小气鬼！要不是我饿得前胸贴后背，谁看得起你手里那几个发烂发馊的破果子！
+基尼奇：那我自己吃了。
+阿乔：啊啊啊——你把我气红了！
+
+### 关于玛薇卡…
+
+一直以来，都是我索取别人的代价，直到火神大人用「还魂诗」将我从夜神之国送归。当作为支付「代价」的一方…我才完全体会到了它的含义。其于强者为筹码，其于弱者为赌注。关键的是，你是否有下注的胆量。
+
+### 关于玛拉妮…
+
+我接过她的委托。她出钱让我担任「战斗顾问」，金额不菲，我答应了。但合作几次后，却看出她身手不赖。再三追问下，才知道所谓「战斗顾问」是要教授卡齐娜野外生存技巧…
+原来是和「自然」战斗。嗯，在我概念里，这叫「生活」。
+总之，这笔生意做完，我多了两位熟客。
+
+### 关于卡齐娜…
+
+我见过和她有关的委托。「回声之子」里有些差劲的家伙嫉妒她拥有「古名」，拐弯抹角地雇人对她的龙伙伴下手。我已让他们付出了代价。
+
+### 关于恰斯卡…
+
+我见过她处理委托。我们对于解决争端的手段存在分歧。通常我会让一方彻底闭嘴，但她会让两方都说不出话，等到他们终于能在病床上开口的时候，早就忘了为何争执。
+
+### 关于希诺宁…
+
+有次我路过「回声之子」，看到了一个奇怪的委托。委托人希望得到一种好养的植物。我把肉龙掌的种子送了过去，配了花盆和肥料。这种植物分布广泛，在荒野上都长势旺盛。可我过段时间去拿报酬的时候，才发现盆里连小苗都没长出来。
+我为高估希诺宁的园艺能力支付了代价。这是我为数不多以失败而告终的委托。
+
+### 关于伊安珊…
+
+基尼奇：我接过她的委托，或说合作…这位运动教练经常为学员制作健身餐，计算热量精确到个位数，为此需要进购质量达标、规格精确的果实。稍微长了点斑，或者被虫咬过一口都不行。其他人觉得委托内容过于挑剔，但我恰好拥有不错的眼力，以及稳定的残次品消耗渠道。
+阿乔：等等？你是说…我的果汁？
+
+### 关于茜特菈莉…
+
+或许你猜到了，我也接过她的委托，帮她从一位稻妻商人处购买一摞摞沉重的纸制阅读品。我无意打探雇主隐私，可「烟谜主」的读物，不是缝在织物上的吗？
+
+### 关于伊法…
+
+基尼奇：我委托过他。有次阿乔说自己「病」了，大哭大闹不肯停下。既然如此，理应送它去看最好的龙医生。他医术的确不错，阿乔被请进诊所后没一会儿就痊愈了。
+阿乔：你…你知道什么啊你！他就是个庸医，庸医！…你、你都不知道他说了什么你都！
+
+### 想要了解基尼奇·其一
+
+我是个猎龙人。无龙可猎的时候，也接其他委托。和你算是同行。
+
+### 想要了解基尼奇·其二
+
+从前我替人跑腿送信，收件人经常喊我「顺手帮个忙」。那么「顺手」值多少钱呢？往往我一开价，忙就不用帮了。
+
+### 想要了解基尼奇·其三
+
+第一次猎龙，我做了数以周计的准备。光观察、跟踪和蹲守就花费数日，制作了不下三种陷阱，还记录了它的生活规律和食物偏好…
+很多努力是浪费，但浪费是必要的。
+
+### 想要了解基尼奇·其四
+
+基尼奇：阿乔曾被封印在古老的遗迹中，我与它签订契约，将它放了出来。
+阿乔：谁知道你这个看起来就会一头栽进泥水沟的家伙，现在还活得好好的…算了算了，我烈焰之国至高领主有的是与地位相衬的美德与涵养。
+基尼奇：美德与涵养催促你天天盼我死？
+阿乔：我指的是有耐心和时间！
+基尼奇：…总之，只要掐准软肋，邪恶之物也能加以利用。
+阿乔：你个可恶的基尼奇！我今天就要借别人的手弄死你！
+
+### 想要了解基尼奇·其五
+
+迄今我都在和「代价」打交道，从大灵处获得古名「回火」——也就是「马力卜」，我并不意外。
+生存才能创造价值，我不会期待一切走向终结的那一天。但作为「回火」的持有者，我早有接受它灼烧的准备。
+它大可审视我的一生，而我不会留下遗憾。
+
+### 基尼奇的爱好…
+
+我会尝试各类极限运动，玩腻了就换一种。在磨炼技巧的同时与恐惧感博弈…先是「面对」，而后「习惯」，最终「征服」。
+
+### 基尼奇的烦恼…
+
+我见过有烦恼的人不是想得太多就是想得太少。我总在为自己寻找下一个目标与落点，没闲心烦恼。
+
+### 喜欢的食物…
+
+基尼奇：在野外，我一般什么方便吃什么。最好的选择自然是肉和水果。
+阿乔：哟，装得像个不挑食的好孩子，我怎么从不见你摘颗粒果呀？
+基尼奇：背着重。
+
+### 讨厌的食物…
+
+阿乔：生冷辛辣侵蚀尊贵圣躯，热油浊气有害五脏六腑。硬实之物不便咀嚼，酥软烂糊食之无味…
+基尼奇：你到底要吃什么？
+阿乔：当然是你的灵魂喽，噢呵呵呵。
+
+### 收到赠礼·其一
+
+基尼奇：很美味。我应该给你相应酬劳，或是其他你中意的回礼。
+阿乔：吐出来！你这个贪婪的蝮蛇！那里面肯定有给我的份！
+
+### 收到赠礼·其二
+
+基尼奇：还不错，比我预想中的味道更好。
+阿乔：这话难道不是在嘲笑你吗？在他心中，你就像个不会做饭的家伙呢。
+
+### 收到赠礼·其三
+
+基尼奇：…可以不付钱吗？
+阿乔：别还回去啊！我还没尝过呢！
+
+### 生日…
+
+基尼奇：阿乔？
+阿乔：知道了知道了，嘁，差使别人干活的时候积极得就跟拿钱一样，有本事你自己长出翅膀飞上天啊。你，说的就是你，还不快点到我背上来？能乘上伟大圣龙库胡勒阿乔可是值得你称道一生的殊荣。
+基尼奇：放心，只是一次轻松的丛林旅行。跟着我就好。路线我设计过，保证安全。
+阿乔：别忘了你答应我的好处！
+基尼奇：现在，第一步是跳上去…生日快乐。
+
+### 突破的感受·起
+
+选刀，只需要坚硬、锋利。
+
+### 突破的感受·承
+
+理包，优先考虑精简、轻便…好比这柄伞就是多余的。
+
+### 突破的感受·转
+
+行动前，我会绑紧头巾，提醒自己保持冷静和矫健。
+
+### 突破的感受·合
+
+你为我做了很多，我不会白白收下。你可以主动开价，或是接受我提供的回报…我以「马力卜」之名许诺，哪种选择都不会亏待你。
+
+### 元素战技·其一
+
+阿乔：算你灵活。
+
+### 元素战技·其二
+
+阿乔：这就溜了？
+
+### 元素战技·其三
+
+阿乔：用来用去就这两招…
+
+### 元素战技·其四
+
+目标上钩。
+
+### 元素战技·其五
+
+发现猎物。
+
+### 元素战技·其六
+
+封锁退路。
+
+### 元素爆发·其一
+
+报偿夜神。
+
+### 元素爆发·其二
+
+领他们上路。
+
+### 元素爆发·其三
+
+往昔之影，奉我之命。
+
+### 元素爆发·其四
+
+阿乔：圣龙君临！
+
+### 元素爆发·其五
+
+阿乔：原灵现示！
+
+### 元素爆发·其六
+
+阿乔：圣龙烈焰，将照彻汝等腐朽。
+阿乔：我烧烧烧烧烧。
+阿乔：啊哈！真是快活！
+
+### 元素爆发·其七
+
+阿乔：汝之灵魂，应当供奉于吾。
+阿乔：哈？连声都不敢吭？
+阿乔：那就再也别吭声啦！
+
+### 元素爆发·其八
+
+阿乔：吾之威光，无人能及！无可比拟！
+阿乔：更何况我现在心情不好。
+阿乔：渺小虫豸，付出代价吧！
+
+### 打开宝箱·其一
+
+基尼奇：见者有份？
+阿乔：这种破烂你居然想要。
+
+### 打开宝箱·其二
+
+基尼奇：万物皆有其用。
+阿乔：你是从小吃不饱饭？
+
+### 打开宝箱·其三
+
+阿乔：嘁，才这么点穷酸玩意。
+基尼奇：不拿就走，话真多。
+
+### 打开风之翼·其一
+
+…非用不可吗？
+
+### 生命值低·其一
+
+该你偿还代价了。
+
+### 生命值低·其二
+
+将计就计…
+
+### 生命值低·其三
+
+阿乔：基尼奇，快完蛋，快完蛋。
+
+### 同伴生命值低·其一
+
+你知道自己处境不妙吧？
+
+### 同伴生命值低·其二
+
+我们来谈谈价格吧？
+
+### 倒下·其一
+
+不要…回头…
+
+### 倒下·其二
+
+凡事皆有代价…
+
+### 倒下·其三
+
+阿乔：呵呵…不错的交易…
+
+### 重受击·其一
+
+失手。
+
+### 重受击·其二
+
+意外…
+
+### 加入队伍·其一
+
+成交，我接手了。
+
+### 加入队伍·其二
+
+我来解决。
+
+### 加入队伍·其三
+
+祝我们合作愉快。
+
+### 关于瓦雷莎…
+
+基尼奇：在几次清剿危险魔物的委托中，她恰好从旁经过，却主动向我提供了帮助。客气点讲，她的战斗技巧很单纯，主要靠速度和力量上的优势撞翻对手…不客气点讲，单纯过度了。
+阿乔：怎么不说下去？呵呵。基尼奇这小子为表感谢，请她来吃「悬木人」的特色菜。结果她一个人就点了三十多份「咚咚嘭嘭」，三十多份啊！还全吃下去了。你没看见，当时这只吝啬鬼基尼奇的脸都要急绿了，哈哈哈哈。

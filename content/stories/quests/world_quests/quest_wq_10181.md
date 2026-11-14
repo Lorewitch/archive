@@ -20,7 +20,10 @@
 # quest_series: Canticles of Harmony
 # version_source: wiki_release_category
 
-# quest_series_ru: Оды гармонии
+# quest_series_ru: Оды Гармонии
+# game_source_ids: 74194,74202,74206
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 40
 
 ## RU
 
@@ -28,19 +31,27 @@
 
 Миновав опасную Морскую впадину, вы наконец прибыли в древнюю затонувшую столицу Ремурии. Теперь вам предстоит отправиться в «золотой дворец» на битву с Боэцием...
 
+#### Двигайтесь дальше
+
 #### Поговорите со Сциллой
 
 **Паймон:** Фух! Наконец-то мы здесь!
 
 **Паймон:** А вот и золотой дворец. Правда, он больше похож на гигантскую арфу. Почему ваш севаст выбрал такую форму для здания?
 
-- **Путешественник:** Хорошо сохранился.
+##### Вариант ответа 1
 
-- **Путешественник:** Это совершенно не похоже на то, что наверху.
+- **Путешественник:** Хорошо сохранился.
 
 **Паймон:** Да, ничего общего с тем, что мы видели там.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Это совершенно не похоже на то, что наверху.
+
 **Паймон:** Правда. Как будто его только что затопило.
+
+##### Общее продолжение
 
 **Господин Осси:** Этот дворец создан из гигантского корабля. По своей сути он спроектирован как огромный инструмент, на котором должна быть сыграна симфония.
 
@@ -66,13 +77,19 @@
 
 **Паймон:** Ты с нами не пойдёшь?
 
-- **Путешественник:** Ты же не боишься?
+##### Вариант ответа 1
 
-- **Путешественник:** Ты уже очень помог нам.
+- **Путешественник:** Ты же не боишься?
 
 **Сцилла:** Ха. Почему вы так думаете? Я не хочу его видеть, вот и всё.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Ты уже очень помог нам.
+
 **Сцилла:** Ха-ха, я был рад помочь! Но, по правде говоря, у меня нет ни малейшего желания встречаться с этим парнем.
+
+##### Общее продолжение
 
 **Сцилла:** Не хочу больше слышать, что он говорит. Его слова - позор, и позорна его ложь. Не верьте ему.
 
@@ -88,6 +105,7 @@
 
 **Сцилла:** Тогда, возможно, я тоже смогу избавиться от сожалений о прошлом.
 
+#### Направляйтесь к золотому дворцу
 
 **Боэций:** Кассиодор, дорогой друг! Я знал, что ты придёшь.
 
@@ -97,7 +115,7 @@
 
 **Паймон:** Ну, если уж на то пошло, ты здесь не хозяин. Кроме того, это Осси привёл нас сюда, а для Паймон это считается приглашением!
 
-Да ты ещё грубее себя ведёшь, чем он.
+- **Путешественник:** Да ты ещё грубее себя ведёшь, чем он.
 
 **Паймон:** Вот именно! И мы всё знаем! Знаем обо всём плохом, что ты натворил...
 
@@ -181,17 +199,19 @@
 
 **Боэций:** Как я уже сказал, это не имеет значения! Ты поймёшь, когда попадёшь в объятия Фобоса - и тогда ты присоединишься ко мне!
 
+#### Направляйтесь к золотому дворцу
+
 #### Исследуйте таинственное пространство
 
-(Это... золотой дворец.)
+- **Путешественник:** (Это... золотой дворец.)
 
-(Я снова попал(а) в память Рема?)
+- **Путешественник:** (Я снова попал в память Рема?) / (Я снова попала в память Рема?)
 
-(Нет, атмосфера... отличается от прежней.)
+- **Путешественник:** (Нет, атмосфера... отличается от прежней.)
 
-**Боэций:** Добро пожаловать в мой дворец, мою симфонию, чужеземец / чужеземка.
+**Боэций:** Добро пожаловать в мой дворец, мою симфонию, чужеземец. / Добро пожаловать в мой дворец, мою симфонию, чужеземка.
 
-Боэций?!
+- **Путешественник:** Боэций?!
 
 **Боэций:** Не пугайся. Разве мы не встречались уже несколько раз раньше?
 
@@ -199,13 +219,13 @@
 
 **Боэций:** Но это не фантом воспоминаний Рема. Это моя симфония. Моя золотая сцена.
 
-Вот оно что...
+- **Путешественник:** Вот оно что...
 
-Горестный плач отражается от стен...
+- **Путешественник:** Горестный плач отражается от стен...
 
-**Боэций:** Так ли это, чужеземец / чужеземка? Я не знаю, откуда ты (пришла)(пришёл)...
+**Боэций:** Так ли это, чужеземец? Я не знаю, откуда ты пришёл... / Так ли это, чужеземка? Я не знаю, откуда ты пришла...
 
-**Боэций:** Похоже, ты не был рождён / была рождена из первозданных вод и не существо с поверхности.
+**Боэций:** Похоже, ты не был рождён из первозданных вод и не существо с поверхности. / Похоже, ты не была рождена из первозданных вод и не существо с поверхности.
 
 **Боэций:** Я не могу увидеть цвет твоей души и не могу прикоснуться к ней.
 
@@ -219,33 +239,45 @@
 
 **Боэций:** А пока пусть тебя развлечёт мой маленький ансамбль.
 
+#### Победите големов
+
+#### Победите големов
+
 #### Исследуйте таинственное пространство
 
-**Кассиодор:** Путешественник! Я наконец-то нашёл тебя...
+**████:** Путешественник! Я наконец-то нашёл тебя...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Кто ты?
 
+**Кассиодор:** Кассиодор! Думаю, ты мог видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча. / Кассиодор! Думаю, ты могла видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча.
+
+##### Вариант ответа 2
+
 - **Путешественник:** Кассиодор...
+
+**Кассиодор:** Да, это я! Думаю, ты мог видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча. / Да, это я! Думаю, ты могла видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча.
+
+##### Вариант ответа 3
 
 - **Путешественник:** Господин Осси...
 
-**Кассиодор:** Кассиодор! Думаю, ты мог / могла видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча.
+**Кассиодор:** Ха-ха, думаю, ты мог видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча. / Ха-ха, думаю, ты могла видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча.
 
-**Кассиодор:** Да, это я! Думаю, ты мог / могла видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча.
-
-**Кассиодор:** Ха-ха, думаю, ты мог / могла видеть меня в воспоминаниях севаста, хотя, полагаю, это наша первая встреча.
+##### Общее продолжение
 
 **Кассиодор:** Время ограничено. Поддерживать эту форму во дворце симфонии Боэция не так-то просто.
 
 **Кассиодор:** Постараемся быть краткими.
 
-Где мы сейчас?
+- **Путешественник:** Где мы сейчас?
 
 **Кассиодор:** Это пространство, созданное Боэцием, воплощением его души.
 
-**Кассиодор:** Оно, как и воспоминания севаста, в которые ты входил / входила раньше, поддерживается благодатью могущества симфонии.
+**Кассиодор:** Оно, как и воспоминания севаста, в которые ты входил раньше, поддерживается благодатью могущества симфонии. / Оно, как и воспоминания севаста, в которые ты входила раньше, поддерживается благодатью могущества симфонии.
 
-Только что...
+- **Путешественник:** Только что...
 
 **Кассиодор:** Да. Он использовал силу музыки, чтобы завлечь нас.
 
@@ -257,7 +289,7 @@
 
 **Кассиодор:** Как в Петрикоре... Нет, даже хуже.
 
-Станет ли он настоящим божеством?
+- **Путешественник:** Станет ли он настоящим божеством?
 
 **Кассиодор:** Это зависит от того, что ты понимаешь под божеством. Нетрудно придать форму ложным фантазиям, но совершенно невозможно выйти за пределы истинной судьбы.
 
@@ -265,13 +297,13 @@
 
 **Кассиодор:** Он может лишь затянуть ещё больше невинных людей в созданные им кошмары. Они превратятся в ходячих мертвецов-марионеток.
 
-Мы должны остановить его.
+- **Путешественник:** Мы должны остановить его.
 
 **Кассиодор:** Да, но это невозможно сделать здесь. Тебе нужно вернуться в реальный мир.
 
 **Кассиодор:** Я помогу тебе.
 
-А ты?
+- **Путешественник:** А ты?
 
 **Кассиодор:** Не волнуйся, сейчас он не планирует никак навредить мне. Более того, я только что придумал, как уничтожить его полностью.
 
@@ -293,19 +325,25 @@
 
 #### Поговорите со Сциллой
 
-**Паймон:** О, ты очнулся / очнулась.
+**Паймон:** О, ты очнулся. / О, ты очнулась.
 
 **Паймон:** Паймон очень волновалась! Паймон подумала... что у тебя, как и у всех горожан, могли украсть душу!
 
-- **Путешественник:** Я в порядке, Паймон.
+##### Вариант ответа 1
 
-- **Путешественник:** Я потерял(а) сознание?
+- **Путешественник:** Я в порядке, Паймон.
 
 **Паймон:** О, это просто прекрасно!
 
-**Паймон:** После того как ты потерял(а) сознание, Боэций и господин Осси исчезли вместе со звуковой волной, и Паймон осталась здесь одна...
+**Паймон:** После того как ты потерял сознание, Боэций и господин Осси исчезли вместе со звуковой волной, и Паймон осталась здесь одна... / После того как ты потеряла сознание, Боэций и господин Осси исчезли вместе со звуковой волной, и Паймон осталась здесь одна...
 
-**Паймон:** Верно. После того как ты потерял(а) сознание, Боэций и господин Осси исчезли вместе со звуковой волной, и Паймон осталась здесь одна...
+##### Вариант ответа 2
+
+- **Путешественник:** Я потерял сознание? / Я потеряла сознание?
+
+**Паймон:** Верно. После того как ты потерял сознание, Боэций и господин Осси исчезли вместе со звуковой волной, и Паймон осталась здесь одна... / Верно. После того как ты потеряла сознание, Боэций и господин Осси исчезли вместе со звуковой волной, и Паймон осталась здесь одна...
+
+##### Общее продолжение
 
 **Паймон:** А потом появился этот здоровяк. Не то чтобы он сильно помог...
 
@@ -315,15 +353,21 @@
 
 **Паймон:** Так, хорошо, ты, Путешественник, здесь, а куда подевался господин Осси? Неужели Боэций...
 
-Я его видел(а).
+- **Путешественник:** Я его видел. / Я его видела.
 
 Вы рассказываете о том, что произошло в астральном дворце Боэция.
 
 **Паймон:** Что? Значит, господин Осси остался там один?
 
+##### Вариант ответа 1
+
 - **Путешественник:** У него свои планы. Не волнуйся.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это вызывает беспокойство...
+
+##### Общее продолжение
 
 **Сцилла:** Если он окажется прав, то у нас ещё есть шанс победить этого бесстыжего дьявола. Но сначала вам нужно попасть в золотой дворец...
 
@@ -345,7 +389,7 @@
 
 **Сцилла:** Сила симфонии защищает дворец. Эта же сила может быть использована для его разрушения.
 
-Но моя симфония...
+- **Путешественник:** Но моя симфония...
 
 **Паймон:** Да! Но свирепый монстр Фобос защищает дворец. Как нам его победить?
 
@@ -357,15 +401,23 @@
 
 **Сцилла:** Великие ворота золотого дворца непременно откроются, как это было когда-то. Так записано в симфонии!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Похоже, стоит попробовать.
 
+##### Вариант ответа 2
+
 - **Путешественник:** У нас нет других вариантов...
+
+##### Общее продолжение
 
 **Сцилла:** Осматривая наследие Рема, я кое-что обнаружил. Этому негодяю ещё предстоит соединить некоторые фрагменты симфонии со своей музыкой.
 
 **Сцилла:** Следуйте за мной! Если мы их отыщем и используем их силу, мы сможем обратить вспять течение времени и вернуть водным путям их первоначальный вид.
 
 **Паймон:** О, звучит многообещающе! Тогда давайте поторопимся!
+
+#### Восстановите Золотые пути
 
 #### Отправляйтесь в окрестности Золотых путей
 
@@ -377,13 +429,15 @@
 
 **Паймон:** А? Путешественник? Что происходит? Опять...
 
+#### Отправляйтесь в окрестности Золотых путей
+
 #### Поговорите со Сциллой
 
 **Сцилла:** Рем, я должен напомнить тебе...
 
 **Сцилла:** На мой взгляд, и твоё царство, и симфония, которую ты сочинил, теперь тебе не подвластны.
 
-...
+- **Путешественник:** ...
 
 **Сцилла:** Хотя я никогда не ожидал многого от тех, кого создала Узурпатор Вод, или от твоих созданий, степень их деградации тем не менее шокирует.
 
@@ -391,7 +445,7 @@
 
 **Сцилла:** Зверства, совершённые во имя цивилизации и порядка, более жестоки, чем обычные проявления варварства. Даже вишапы, жестокие и дикие, никогда не опустились бы до такой бессмысленной резни.
 
-Я прекрасно понимаю...
+- **Путешественник:** Я прекрасно понимаю...
 
 **Сцилла:** Да, и всё же ты остаёшься равнодушным... Или ты бессилен?
 
@@ -403,19 +457,19 @@
 
 **Сцилла:** От тебя поступило обещание Узурпатору Вод, что используешь дарованную ею чистую воду, чтобы создать мир бесконечного процветания, в котором не будет конфликтов.
 
-**Сцилла:** Я последовал за тобой на поверхность именно потому, что хотел стать свидетелем такого будущего, но вот как всё обернулось... Тебе не повезло, Рем. Ты не смог победить «судФортунуьбу».
+**Сцилла:** Я последовал за тобой на поверхность именно потому, что хотел стать свидетелем такого будущего, но вот как всё обернулось... Тебе не повезло, Рем. Ты не смог победить «суд(Фортуну)ьбу».
 
 **Сцилла:** Кровь снова окрасит высокое море в красный цвет, такова жестокость небес по отношению к своим творениям.
 
-У меня есть план...
+- **Путешественник:** У меня есть план...
 
 **Сцилла:** О? У тебя всегда было много планов, Рем. Но теперь все они порушены. Даже ты не знаешь, что пошло не так.
 
-Выслушаешь меня? Моё последнее слово.
+- **Путешественник:** Выслушаешь меня? Моё последнее слово.
 
 **Сцилла:** Помнится, ты говорил то же самое, когда убеждал меня покинуть Фонтмер... Говори, пока я не вернулся туда, к Узурпатору Вод.
 
-(...)
+- **Путешественник:** (...)
 
 **Сцилла:** ...
 
@@ -429,47 +483,53 @@
 
 **Сцилла:** Меня радует одна только мысль о том, что я поведу вишапов и растопчу вас, высокомерных, глупых людей.
 
-Но это будет всего лишь церемония. Шоу...
+- **Путешественник:** Но это будет всего лишь церемония. Шоу...
 
 **Сцилла:** Не бойся. Я буду милосерден.
 
 **Сцилла:** Но если ты сделаешь это, твоя жизнь как божества закончится. Не останется ничего, кроме симфонии. Ты хорошо подумал?
 
-Конечно.
+- **Путешественник:** Конечно.
 
-Открытый мной ящик с ужасами я тоже закрою.
+- **Путешественник:** Открытый мной ящик с ужасами я тоже закрою.
 
 **Сцилла:** Хорошо. Тогда я принимаю твоё предложение. Если будет нужно, я соединю свою силу с силой твоей симфонии...
 
 **Сцилла:** Цепи Фобоса будут разорваны, и твой народ снова станет свободным.
 
-Пожалуйста, прими...
+- **Путешественник:** Пожалуйста, прими...
 
-...мою последнюю симфонию.
+- **Путешественник:** ...мою последнюю симфонию.
 
 #### Отправляйтесь в окрестности Золотых путей
 
-**Паймон:** Путешественник, ты снова видел(а) воспоминания Рема?
+**Паймон:** Путешественник, ты снова видел воспоминания Рема? / Путешественник, ты снова видела воспоминания Рема?
 
 **Паймон:** Это ведь не один из злодеев с плохими манерами?
 
 **Паймон:** Даже во снах он раздражает!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Думаю, я знаю о плане Рема...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Мы должны уничтожить Фобос...
 
-Для этого необходимо сыграть симфонию Сциллы.
+##### Общее продолжение
 
-**Паймон:** Почему ты вдруг об этом заговорил(а)? Что ты увидел(а) в воспоминаниях?
+- **Путешественник:** Для этого необходимо сыграть симфонию Сциллы.
+
+**Паймон:** Почему ты вдруг об этом заговорил? Что ты увидел в воспоминаниях? / Почему ты вдруг об этом заговорила? Что ты увидела в воспоминаниях?
 
 **Сцилла:** Замечательно. Значит, сила Рема до сих пор витает в глубинах морей и не рассеялась... и я тоже наконец-то здесь. Ты знаешь, что это значит?
 
-Условия выполнены.
+- **Путешественник:** Условия выполнены.
 
 **Сцилла:** Да. Я здесь, чтобы сделать что-то и избавиться наконец от моих тысячелетних сожалений.
 
-Остаётся только Фобос...
+- **Путешественник:** Остаётся только Фобос...
 
 **Паймон:** Подождите, подождите! Паймон в замешательстве! Для чего нам музыка? Хорошо, что вы понимаете друг друга и всё такое... Но вы ничего не объясняете Паймон!
 
@@ -483,7 +543,7 @@
 
 **Сцилла:** Он просил меня не раскрывать его план никому из подданных. Только заставив их осознать свою ограниченность, можно побороть предрассудки и высокомерие.
 
-**Сцилла:** Однако, похоже, ты, Путешественник, разгадал / разгадала план по оставленным им воспоминаниям.
+**Сцилла:** Однако, похоже, ты, Путешественник, разгадал план по оставленным им воспоминаниям. / Однако, похоже, ты, Путешественник, разгадала план по оставленным им воспоминаниям.
 
 **Паймон:** Вот оно что... Но в итоге его жертва оказалась напрасной...
 
@@ -495,17 +555,81 @@
 
 **Сцилла:** Тогда я смогу считать, что исполнил его желание.
 
-Возможно, именно поэтому я (пришла)(пришёл) сюда.
+- **Путешественник:** Возможно, именно поэтому я пришёл сюда. / Возможно, именно поэтому я пришла сюда.
 
-**Сцилла:** Да, чужеземец / чужеземка. Возможно, это действительно судьбоносная встреча.
+**Сцилла:** Да, чужеземец. Возможно, это действительно судьбоносная встреча. / Да, чужеземка. Возможно, это действительно судьбоносная встреча.
+
+#### Восстановите Золотые пути
+
+- **Путешественник:** За господина Осси...
+
+**Боэций:** Но разве ваша короткая дружба может превзойти наше родство?
+
+**Боэций:** Кассиодор и я... Мы были из первой партии новых лю(големов)дей, созданных самим Ремом, и мы последние выжившие.
+
+**Боэций:** В отличие от других наших сородичей, у него душа подобна нерастворимому ихору.
+
+**Боэций:** Кроме меня, только он обладает истинной волей. Когда мы соединимся, то станем полноценным «я».
+
+**Боэций:** «Наша воля - одно целое». В финале оперы он вернётся к нам. Это его судьба.
+
+- **Путешественник:** Чтобы спасти жителей Петрикора...
+
+**Боэций:** Эти люди... они не твои сородичи и не твои подданные.
+
+**Боэций:** Напротив, ты настолько превосходишь их, что их можно сравнить лишь с муравьями. Или они и того ничтожней.
+
+**Боэций:** Слабые должны подчиняться сильным. Разве не таков закон этого мира?
+
+**Боэций:** И всё же ты хочешь защитить их? Из-за твоего безграничного милосердия? Или глупости?
+
+- **Путешественник:** Ради справедливости в этом мире...
+
+**Боэций:** Справедливость? Ты серьёзно?
+
+**Боэций:** Даже если ты обладаешь силой, недоступной мне, не думай, что сможешь одолеть меня. Это в высшей степени наивно, чужеземец. / Даже если ты обладаешь силой, недоступной мне, не думай, что сможешь одолеть меня. Это в высшей степени наивно, чужеземка.
+
+**Боэций:** Я давно слился с симфонией, наполняющей эти глубокие моря. Даже если ты уничтожишь мою физическую форму, пока текут агонизирующие воды и пока не меркнут воспоминания о мести...
+
+**Боэций:** ...моя воля не исчезнет, и я останусь кошмаром этого мира.
+
+**Боэций:** Если только ты не решишь, как бродяга Кассиодор, изгнать себя, чтобы стать тюремщиком старого мира... Но я не верю, что такой выдающийся человек, как ты, поступил бы так.
+
+**Боэций:** Отбрось ненужное сочувствие! Разве виновные не должны быть наказаны? Разве не такова справедливость?
+
+- **Путешественник:** Виновны, говоришь... Нет, они невинны.
+
+**Боэций:** Фонтейнцы не невинны! Они потомки наших врагов-варваров...
+
+**Боэций:** Их предки захватили земли, которые должны были принадлежать нам по праву, и они должны заплатить за этот первородный грех!
+
+**Боэций:** Есть что ещё сказать, чужеземец? / Есть что ещё сказать, чужеземка?
 
 ### Восстановление Золотого пути I
 
 Чтобы войти в золотой дворец, нужно восстановить водные Золотые пути, проложенные здесь в древности...
 
+#### Отыщите потерянные симфонии
+
+#### Верните фантом птицы на место
+
+#### Осветите рог с помощью светового механизма
+
+#### Следуйте за фантомом птицы
+
 ### Восстановление Золотого пути II
 
 Чтобы войти в золотой дворец, нужно восстановить водные Золотые пути, проложенные здесь в древности...
+
+#### Отыщите потерянные симфонии
+
+#### Следуйте за золотой пчелой
+
+#### Верните фантом птицы на место
+
+#### Осветите рог с помощью светового механизма
+
+#### Следуйте за фантомом птицы
 
 ## EN
 
@@ -513,19 +637,27 @@
 
 After passing through the perilous oceanic trench, you finally arrive at the ancient sunken capital of Remuria. Next, you must head to "Domus Aurea" for a showdown with Boethius...
 
+#### Continue onward
+
 #### Talk to Scylla
 
 **Paimon:** Phew! We're finally here!
 
 **Paimon:** And there's Domus Aurea. It looks more like a giant harp, though. Why did your Sebastos construct it like that?
 
-- **Traveler:** It certainly seems well-preserved.
+##### Response branch 1
 
-- **Traveler:** Completely different from all the ruins above.
+- **Traveler:** It certainly seems well-preserved.
 
 **Paimon:** Yeah, nothing like the rest of the stuff we saw up there.
 
+##### Response branch 2
+
+- **Traveler:** Completely different from all the ruins above.
+
 **Paimon:** Yeah, it feels like this only just sunk.
+
+##### Shared continuation
 
 **Monsieur Os:** Of course. This palace was fashioned from a giant ship. It was designed to be a titanic instrument on which the symphony was to be played.
 
@@ -551,13 +683,19 @@ After passing through the perilous oceanic trench, you finally arrive at the anc
 
 **Paimon:** Huh? You're not coming along?
 
-- **Traveler:** You're not afraid, are you?
+##### Response branch 1
 
-- **Traveler:** You've been a great help already.
+- **Traveler:** You're not afraid, are you?
 
 **Scylla:** Hah. Why would you think that? I merely do not wish to see that particular one again.
 
+##### Response branch 2
+
+- **Traveler:** You've been a great help already.
+
 **Scylla:** Haha, and I was pleased to be of aid! But to tell the truth, I have no desire to see that one ever again.
+
+##### Shared continuation
 
 **Scylla:** I wish to never again hear a word from that devil's mouth. His words are a sham, and shameful are his lies. See that you do not fall for them!
 
@@ -573,6 +711,7 @@ After passing through the perilous oceanic trench, you finally arrive at the anc
 
 **Scylla:** When that time comes, perhaps I too shall have the chance to make amends for my past regrets.
 
+#### Head to "Domus Aurea"
 
 **Boethius:** Cassiodor, dear friend! I knew you would come.
 
@@ -582,7 +721,7 @@ After passing through the perilous oceanic trench, you finally arrive at the anc
 
 **Paimon:** When it comes down to it, you're not the boss of this place. Besides, it was Osse who brought us here — that counts as an invitation as far as Paimon's concerned!
 
-Really, you're the discourteous one here.
+- **Traveler:** Really, you're the discourteous one here.
 
 **Paimon:** Exactly! And we've heard all about it, you know! All the bad stuff you've done...
 
@@ -666,17 +805,19 @@ Really, you're the discourteous one here.
 
 **Boethius:** Hmph! It matters not! You will understand once you enter Phobos's melody — then, you shall join me!
 
+#### Head to "Domus Aurea"
+
 #### Explore the mysterious space
 
-(This is... Domus Aurea.)
+- **Traveler:** (This is... Domus Aurea.)
 
-(Have I entered Remus's memory again?)
+- **Traveler:** (Have I entered Remus's memory again?)
 
-(No, the atmosphere... it's different from before.)
+- **Traveler:** (No, the atmosphere... it's different from before.)
 
 **Boethius:** Welcome to my palace, outlander. My symphony.
 
-Boethius!?
+- **Traveler:** Boethius!?
 
 **Boethius:** Do not be startled. Have we not met aforetime, and more than once?
 
@@ -684,9 +825,9 @@ Boethius!?
 
 **Boethius:** But this is no phantasm of Remus's memory. This is my symphony. My golden stage.
 
-I knew it...
+- **Traveler:** I knew it...
 
-Wails of sorrow ring off every wall...
+- **Traveler:** Wails of sorrow ring off every wall...
 
 **Boethius:** Is that so, outlander? I know not from whence you came...
 
@@ -704,33 +845,45 @@ Wails of sorrow ring off every wall...
 
 **Boethius:** Before that, let my little ensemble occupy you for a time.
 
+#### Fend off the golems
+
+#### Fend off the golems
+
 #### Explore the mysterious space
 
-**Cassiodor:** Traveler! I've found you at last...
+**████:** Traveler! I've found you at last...
+
+##### Response branch 1
 
 - **Traveler:** And you are...?
 
-- **Traveler:** Cassiodor...
-
-- **Traveler:** Monsieur Os...
-
 **Cassiodor:** Cassiodor, you mean! I believe you might have met me in the Sebastos's memories, though I suppose this is our first time meeting in this manner.
+
+##### Response branch 2
+
+- **Traveler:** Cassiodor...
 
 **Cassiodor:** Indeed, it is I! I believe you might have met me in the Sebastos's memories, though I suppose this is our first time meeting in this manner.
 
+##### Response branch 3
+
+- **Traveler:** Monsieur Os...
+
 **Cassiodor:** Haha, well, you might have seen me in the Sebastos's memories, but I believe this is our first meeting in this manner.
+
+##### Shared continuation
 
 **Cassiodor:** Time is short. Maintaining this form in Boethius's symphonic palace is no easy task.
 
 **Cassiodor:** Let us keep this brief.
 
-Where are we, exactly?
+- **Traveler:** Where are we, exactly?
 
 **Cassiodor:** This is a space created by Boethius, the manifestation of his soul.
 
 **Cassiodor:** It is maintained, just as the Sebastos's memories you entered before are, by the grace of the symphony's might.
 
-So just now...
+- **Traveler:** So just now...
 
 **Cassiodor:** Yes. He used the music's power to pull us in.
 
@@ -742,7 +895,7 @@ So just now...
 
 **Cassiodor:** Just like what happened in Petrichor... No, I suspect it would be worse still.
 
-Will he really become a god?
+- **Traveler:** Will he really become a god?
 
 **Cassiodor:** That depends on your definition. It is not hard to give shape to false fantasies, but he will find transcending fate futile.
 
@@ -750,13 +903,13 @@ Will he really become a god?
 
 **Cassiodor:** All he can do now is drag more innocents into the nightmare of his making, turning them into walking, corpse-like puppets.
 
-Then we must stop him.
+- **Traveler:** Then we must stop him.
 
 **Cassiodor:** That we do, but that cannot be done here. You must return to the real world.
 
 **Cassiodor:** In that, I shall aid you.
 
-And what about you?
+- **Traveler:** And what about you?
 
 **Cassiodor:** Not to worry. He has no plans for me at the moment. As for me, I've just thought of a way in which we can destroy him utterly.
 
@@ -782,15 +935,21 @@ And what about you?
 
 **Paimon:** Paimon was worried sick! She thought... she thought you might have had your soul stolen by that jerk, just like all the townspeople!
 
-- **Traveler:** I'm fine, Paimon.
+##### Response branch 1
 
-- **Traveler:** Did I pass out?
+- **Traveler:** I'm fine, Paimon.
 
 **Paimon:** *sniff* You'd better be!
 
 **Paimon:** After you passed out, Boethius and Monsieur Os disappeared along with that wave of sound, leaving Paimon all alone here...
 
+##### Response branch 2
+
+- **Traveler:** Did I pass out?
+
 **Paimon:** That's right, and after that, Boethius and Monsieur Os disappeared along with that wave of sound, leaving Paimon all alone here...
+
+##### Shared continuation
 
 **Paimon:** And then this big guy came along. Not that he helped much either...
 
@@ -800,15 +959,21 @@ And what about you?
 
 **Paimon:** Anyway, Traveler's woken up and seems okay at least, but where'd Monsieur Os go? Did Boethius...
 
-I saw him.
+- **Traveler:** I saw him.
 
 You tell of what happened within Boethius's soul-palace.
 
 **Paimon:** Huh? So Monsieur Os is in there alone?
 
+##### Response branch 1
+
 - **Traveler:** He seems to have his own plan. Don't worry.
 
+##### Response branch 2
+
 - **Traveler:** It is a bit concerning...
+
+##### Shared continuation
 
 **Scylla:** Regardless, should he prove correct, then we still have a chance to defeat that shameless devil. But first, you must enter Domus Aurea...
 
@@ -830,7 +995,7 @@ You tell of what happened within Boethius's soul-palace.
 
 **Scylla:** The power of the symphony defends the palace. That same strength can be used to break it.
 
-But the symphony that I can wield is...
+- **Traveler:** But the symphony that I can wield is...
 
 **Paimon:** Yeah! That super-powerful Phobos thing is protecting the palace, right? How can we possibly beat it...
 
@@ -842,15 +1007,23 @@ But the symphony that I can wield is...
 
 **Scylla:** The great gates of Domus Aurea shall surely open, just as they once did. That is what is written in the symphony, after all!
 
+##### Response branch 1
+
 - **Traveler:** Sounds like it's worth a shot.
 
+##### Response branch 2
+
 - **Traveler:** Looks like we don't have other options...
+
+##### Shared continuation
 
 **Scylla:** I too made some discoveries while searching for anything Remus might have left behind. It appears that this devil has yet to join some fragments of the symphony to his music, and they are scattered in this part of the sea.
 
 **Scylla:** Come with me. If we can find them and use their strength, we might yet reverse the flow of time and return the aqueducts to their original form.
 
 **Paimon:** Ooh, that does sound kinda promising! Let's get a move on, then!
+
+#### Rebuild the golden aqueducts
 
 #### Head to where the golden aqueducts are
 
@@ -862,13 +1035,15 @@ But the symphony that I can wield is...
 
 **Paimon:** Huh? Traveler? What's going on? Is it happening again...?
 
+#### Head to where the golden aqueducts are
+
 #### Talk to Scylla
 
 **Scylla:** Remus, I must remind you...
 
 **Scylla:** That in my view, both your kingdom and the symphony you composed are now beyond your control.
 
-...
+- **Traveler:** ...
 
 **Scylla:** Though I have never expected much from those created by the Usurper of the Many Waters and nurtured by yourself, the extent of their degradation is shocking nonetheless.
 
@@ -876,7 +1051,7 @@ But the symphony that I can wield is...
 
 **Scylla:** The atrocities committed in the name of civilization and order were far crueler than even pure barbarism. Even the most savage and violent of vishaps would never engage in such meaningless slaughter.
 
-I am perfectly aware of all that you say...
+- **Traveler:** I am perfectly aware of all that you say...
 
 **Scylla:** You know, and yet you remain indifferent? Or are you powerless?
 
@@ -888,19 +1063,19 @@ I am perfectly aware of all that you say...
 
 **Scylla:** You once promised the Usurper of Many Waters that you would use the pure water she granted you to create a world of endless prosperity, one without conflict.
 
-**Scylla:** I followed you to the surface precisely because I wished to witness that future, but this is how it turned out... You have failed, Remus. You could not defeat "faFortunate."
+**Scylla:** I followed you to the surface precisely because I wished to witness that future, but this is how it turned out... You have failed, Remus. You could not defeat "fa(Fortuna)te."
 
 **Scylla:** Blood shall stain the High Sea red once more — such is the cruelty the heavens show to their creations.
 
-I have a plan...
+- **Traveler:** I have a plan...
 
 **Scylla:** Oh? You always were one to have many plans, Remus. But all of them lie in the dust now. Even you do not know where it all went wrong.
 
-Would you like to hear it, though? This will be the last one.
+- **Traveler:** Would you like to hear it, though? This will be the last one.
 
 **Scylla:** I distinctly recall you saying the same thing when you persuaded me to leave the Fontemer... But speak now, before I return there, to the side of the Usurper of Many Waters.
 
-(...)
+- **Traveler:** (...)
 
 **Scylla:** ...
 
@@ -914,23 +1089,23 @@ Would you like to hear it, though? This will be the last one.
 
 **Scylla:** The mere thought of leading my vishaps and trampling your arrogant, foolish people underfoot brings me joy.
 
-But this shall be mere ceremony. Just a show...
+- **Traveler:** But this shall be mere ceremony. Just a show...
 
 **Scylla:** Fret not. I shall be as you said — merciful.
 
 **Scylla:** But if you do this, your life as a god shall come to an end. There will be nothing left but the symphony. Have you considered this fully?
 
-Of course. Of course.
+- **Traveler:** Of course. Of course.
 
-The box of horrors that I opened, so too shall I shut.
+- **Traveler:** The box of horrors that I opened, so too shall I shut.
 
 **Scylla:** Good. Then I accept your proposal. If the time should come, I shall join my strength to that of your symphony...
 
 **Scylla:** Phobos's chains shall be broken, and your people shall once more be free.
 
-In that case, please accept...
+- **Traveler:** In that case, please accept...
 
-My final... symphony.
+- **Traveler:** My final... symphony.
 
 #### Head to where the golden aqueducts are
 
@@ -940,21 +1115,27 @@ My final... symphony.
 
 **Paimon:** Even in dreams, that jerk's just super irritating!
 
+##### Response branch 1
+
 - **Traveler:** I think I know what Remus's plan was...
+
+##### Response branch 2
 
 - **Traveler:** We must destroy Phobos...
 
-To accomplish it, we will need to play Scylla's symphony.
+##### Shared continuation
+
+- **Traveler:** To accomplish it, we will need to play Scylla's symphony.
 
 **Paimon:** Eh? What's with that all of a sudden? What did you see in the memory?
 
 **Scylla:** Fascinating. Remus's power lingers still in the deep seas, and has not dispersed... and I, too, am here at last. Do you know what that means?
 
-The conditions have been fulfilled.
+- **Traveler:** The conditions have been fulfilled.
 
 **Scylla:** Indeed. That is why I have come here with you. To make amends for millennia of regret.
 
-Now, the final question is Phobos...
+- **Traveler:** Now, the final question is Phobos...
 
 **Paimon:** Wait, wait! Paimon's confused! What are we using the music for? It's nice that you understand each other and all... But you're leaving Paimon out!
 
@@ -980,17 +1161,81 @@ Now, the final question is Phobos...
 
 **Scylla:** That way, I may consider myself to have fulfilled his wish.
 
-Perhaps that is why I came here.
+- **Traveler:** Perhaps that is why I came here.
 
 **Scylla:** Indeed, outlander. Perhaps this is indeed a fated encounter.
+
+#### Rebuild the golden aqueducts
+
+- **Traveler:** For Monsieur Os...
+
+**Boethius:** Ah, but can your short friendship surpass the span of our kinship?
+
+**Boethius:** Cassiodor and I... We were new hu(golems)mans crafted by Remus's own hand, and we are the final survivors.
+
+**Boethius:** Compared with our other kin, his soul is like insoluble Ichor.
+
+**Boethius:** Other than myself, only he has true will, and only when we are combined, can we become a complete "self."
+
+**Boethius:** "So too are our wills one." The opera's final act shall see him return to us. This is his "fate."
+
+- **Traveler:** To save the people of Petrichor...
+
+**Boethius:** Those people... They are neither your kin nor your subjects.
+
+**Boethius:** On the contrary, so far are you above them that they may as well be ants. Perhaps not even that.
+
+**Boethius:** The weak should submit to the strong. Is that not the law that this world should follow?
+
+**Boethius:** And yet, you say you will protect them? Is this your boundless mercy? Or simply folly?
+
+- **Traveler:** For the justice in this world...
+
+**Boethius:** Justice? You can't actually be serious, can you?
+
+**Boethius:** You may possess power that even I cannot perceive, but you would be naive, outlander, to think that brute force alone will defeat me.
+
+**Boethius:** I have long become one with the symphony that fills these deep seas. Even if you should destroy my physical form, so long as the agonized waters flow, and so long as the memories of vengeance do not fade...
+
+**Boethius:** My will shall not perish, and I shall remain a nightmare that haunts this world.
+
+**Boethius:** Unless you choose as Cassiodor... as that stray cat did, exiling oneself to become the jailer of the old world... But I do not believe that one so distinguished as you would do so.
+
+**Boethius:** Forsake that superfluous sympathy of yours! Should the guilty not be punished? Is that not justice?
+
+- **Traveler:** Guilty, you say... They are innocent.
+
+**Boethius:** No Fontainian is innocent! They are the spawn of our barbarian foes...
+
+**Boethius:** Their ancestors seized from us the realms that should have been ours by right, and they must pay the price for that original sin!
+
+**Boethius:** Have you anything else to say, outlander?
 
 ### Golden Aqueduct Reconstruction: Part I
 
 To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
+#### Search for the scattered "scores"
+
+#### Return the flying bird phantasms to their rightful places
+
+#### Use the light-guiding device to illuminate the horn
+
+#### Follow the bird phantasms
+
 ### Golden Aqueduct Reconstruction: Part II
 
 To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
+
+#### Search for the scattered "scores"
+
+#### Follow the golden bee
+
+#### Return the flying bird phantasms to their rightful places
+
+#### Use the light-guiding device to illuminate the horn
+
+#### Follow the bird phantasms
 
 ## ZH
 
@@ -998,19 +1243,27 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 穿过危险的海沟，终于到达了古代雷穆利亚沉没的王城。接下来便要前往「黄金宫殿」，与波爱修斯一决高下…
 
+#### 继续前进
+
 #### 与斯库拉对话
 
 **派蒙:** 呼，终于，我们总算是到了！
 
 **派蒙:** 那就是黄金宫殿嘛，看起来像是个巨大的管风琴啊，你们的至尊为什么会把宫殿修成这样呢？
 
-- **旅行者:** 看起来保存得相当完好。
+##### 对话分支 1
 
-- **旅行者:** 和上面完全不同。
+- **旅行者:** 看起来保存得相当完好。
 
 **派蒙:** 是喔，和在上面见到的景象完全不同。
 
+##### 对话分支 2
+
+- **旅行者:** 和上面完全不同。
+
 **派蒙:** 确实呢，就像是刚刚才被水淹没的一样。
+
+##### 共同后续
 
 **呜斯先生:** 当然是因为这座由巨船改造而来的宫殿，设计上就是用来演奏大乐章的巨大乐器啊。
 
@@ -1036,13 +1289,19 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **派蒙:** 欸？你不和我们一起去吗？
 
-- **旅行者:** 你该不会是害怕了吧？
+##### 对话分支 1
 
-- **旅行者:** 已经帮了很大忙了。
+- **旅行者:** 你该不会是害怕了吧？
 
 **斯库拉:** 你怎么会这样想，老夫是实在不想再见到那个家伙了。
 
+##### 对话分支 2
+
+- **旅行者:** 已经帮了很大忙了。
+
 **斯库拉:** 哈哈，老夫自己也甚是畅快呢！但老夫可实在不想再见到那个家伙了。
+
+##### 共同后续
 
 **斯库拉:** 那个妖鬼说的话我一句都不想再听到，全都是骗人的鬼话，可耻的谎言，你们也要小心别上那个家伙的当了！
 
@@ -1058,6 +1317,7 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 到那个时候，或许老夫也终于能有机会弥补当初的遗憾了。
 
+#### 前往「黄金宫殿」
 
 **波爱修斯:** 卡西奥多，我的挚友，我就知道你会来。
 
@@ -1067,7 +1327,7 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **派蒙:** 说到底，你根本不算是这里的主人呀。再说了，是呜斯先生带我们来到这里的，所以我们其实也不算不请自来吧？
 
-相比之下还是你比较无礼。
+- **旅行者:** 相比之下还是你比较无礼。
 
 **派蒙:** 对呀！而且我们都听说了！你做过的那些坏事…
 
@@ -1151,17 +1411,19 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **波爱修斯:** 无所谓，只要进入了「福波斯」的旋律中，你自然便会理解然后加入我的。
 
+#### 前往「黄金宫殿」
+
 #### 探索神秘空间
 
-（这里是…黄金的宫殿。）
+- **旅行者:** （这里是…黄金的宫殿。）
 
-（我又进到雷穆斯的记忆当中了吗？）
+- **旅行者:** （我又进到雷穆斯的记忆当中了吗？）
 
-（但是氛围…与之前不同。）
+- **旅行者:** （但是氛围…与之前不同。）
 
 **波爱修斯:** 欢迎来到我的宫殿，我的乐章，异邦人。
 
-波爱修斯？！
+- **旅行者:** 波爱修斯？！
 
 **波爱修斯:** 何必这样惊讶，我们不是已经见过很多次了么。
 
@@ -1169,9 +1431,9 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **波爱修斯:** 不过这里并非是雷穆斯的记忆所产生的幻景，而是属于我的「乐章」，我的金色舞台。
 
-果然…
+- **旅行者:** 果然…
 
-这里充满了痛苦的哀鸣…
+- **旅行者:** 这里充满了痛苦的哀鸣…
 
 **波爱修斯:** 是吗，异邦人，我不知道你从何而来…
 
@@ -1189,33 +1451,45 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **波爱修斯:** 在此之前，就先让我的乐队陪你打发会时间好了。
 
+#### 击退魔像
+
+#### 击退魔像
+
 #### 探索神秘空间
 
-**卡西奥多:** 旅行者！终于找到你了…
+**「████」:** 旅行者！终于找到你了…
+
+##### 对话分支 1
 
 - **旅行者:** 你是…
 
-- **旅行者:** 卡西奥多…
-
-- **旅行者:** 呜斯先生…
-
 **卡西奥多:** 我是卡西奥多，你之前应该在至尊的记忆中见过我吧，不过以这种样子见面还是第一次。
+
+##### 对话分支 2
+
+- **旅行者:** 卡西奥多…
 
 **卡西奥多:** 没错，是我，你之前应该在至尊的记忆中见过我吧，不过以这种样子见面还是第一次。
 
+##### 对话分支 3
+
+- **旅行者:** 呜斯先生…
+
 **卡西奥多:** 哈哈，虽然你应该在至尊的记忆中见过我以前的样子，不过以这种形态见面还是第一次吧。
+
+##### 共同后续
 
 **卡西奥多:** 时间有限，身处于波爱修斯的乐章宫殿中，要维持这样的形体并不容易。
 
 **卡西奥多:** 我们还是尽量长话短说吧。
 
-这里到底是什么地方？
+- **旅行者:** 这里到底是什么地方？
 
 **卡西奥多:** 这里是波爱修斯，由他的灵魂具象化所产生的空间。
 
 **卡西奥多:** 与你之前曾经进入过的，至尊的记忆空间一样，都是因为乐章的力量才得以维持的。
 
-刚才…
+- **旅行者:** 刚才…
 
 **卡西奥多:** 刚才他利用乐章的力量，把我们拉入了这里。
 
@@ -1227,7 +1501,7 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **卡西奥多:** 就像在佩特莉可镇发生的那样…不，甚至比那还要更糟。
 
-他真的会成为神明吗？
+- **旅行者:** 他真的会成为神明吗？
 
 **卡西奥多:** 这要看如何定义神明了，只是制造虚假的幻梦并不难做到。但如果想要超越命运的话，则绝无可能。
 
@@ -1235,13 +1509,13 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **卡西奥多:** 他现在所能做的，不过是将更多无辜的人拉入他所制造的噩梦中，成为行尸走肉的傀儡罢了。
 
-必须阻止他…
+- **旅行者:** 必须阻止他…
 
 **卡西奥多:** 的确，但是在这里是无法做到的，你必须要回到真实的世界当中去。
 
 **卡西奥多:** 而我会协助你。
 
-那你呢？
+- **旅行者:** 那你呢？
 
 **卡西奥多:** 不用担心，他暂时还不打算对我做什么。而且就在刚才，我已经想到了彻底消灭波爱修斯的办法。
 
@@ -1267,15 +1541,21 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **派蒙:** 我都要担心死了，我还以为…还以为你和镇上的大家一样，被那个家伙夺走灵魂了！
 
-- **旅行者:** 我没事了，派蒙。
+##### 对话分支 1
 
-- **旅行者:** 我是晕过去了吗？
+- **旅行者:** 我没事了，派蒙。
 
 **派蒙:** 呜呜，那真的是太好了！
 
 **派蒙:** 你晕过去之后，波爱修斯和呜斯先生也随着那阵音波一起消失了，就剩我一个人在这里…
 
+##### 对话分支 2
+
+- **旅行者:** 我是晕过去了吗？
+
 **派蒙:** 对啊，你晕过去之后，波爱修斯和呜斯先生也随着那阵音波一起消失了，就剩我一个人在这里…
+
+##### 共同后续
 
 **派蒙:** 后来大家伙也找过来了，虽然也没帮上什么忙…
 
@@ -1285,15 +1565,21 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **派蒙:** 虽然旅行者算是平安无事地醒过来了，但是呜斯先生去哪了啊，该不会是被那个家伙…
 
-我见到他了。
+- **旅行者:** 我见到他了。
 
 你将在波爱修斯的灵魂宫殿中发生的事情告诉了大家。
 
 **派蒙:** 欸？那呜斯先生就自己一个人留在那里了吗？
 
+##### 对话分支 1
+
 - **旅行者:** 他应该有自己的计划，别太担心了。
 
+##### 对话分支 2
+
 - **旅行者:** 的确令人担心…
+
+##### 共同后续
 
 **斯库拉:** 不管怎么说，按他的想法，我们还有击溃那个无耻妖鬼的机会。但前提是你们能够进入黄金宫殿…
 
@@ -1315,7 +1601,7 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 既然保护宫殿的是「乐章」的力量，那么能破除这保护的也必是「乐章」的力量。
 
-可是我所掌握的「乐章」…
+- **旅行者:** 可是我所掌握的「乐章」…
 
 **派蒙:** 对呀！保护宫殿的「乐章」…不是那个叫什么「福波斯」的超——厉害的家伙吗？我们要怎么赢过它…
 
@@ -1327,15 +1613,23 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 黄金宫殿的大门也会像那时一样再度打开吧。毕竟，「乐章」上就是这样写的嘛！
 
+##### 对话分支 1
+
 - **旅行者:** 听起来值得一试。
 
+##### 对话分支 2
+
 - **旅行者:** 或许也别无他法了…
+
+##### 共同后续
 
 **斯库拉:** 方才老夫在四处寻找雷穆斯留下的遗存时也发现了一些痕迹。还有未被那妖鬼所统合的「乐章」碎片散落在这片海域。
 
 **斯库拉:** 跟随老夫来吧，若能找到并利用它们的力量，或许就能逆转时光，重现水道旧日的模样。
 
 **派蒙:** 哦，感觉很有希望呢！既然如此，那我们就赶紧动身吧！
+
+#### 修复金色水道
 
 #### 前往金色水道附近
 
@@ -1347,13 +1641,15 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **派蒙:** 欸？旅行者，你怎么啦，该不会又被…
 
+#### 前往金色水道附近
+
 #### 与斯库拉对话
 
 **斯库拉:** 雷穆斯，老夫必须提醒你…
 
 **斯库拉:** 在老夫看来，你的国家，你所编织的乐章，恐怕已经超出了你的控制。
 
-……
+- **旅行者:** ……
 
 **斯库拉:** 虽然老夫对众水的僭主所创造，你所抚育的这些生灵从未抱有过什么期待，但他们堕落的程度也实在让老夫惊讶。
 
@@ -1361,7 +1657,7 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 以文明与秩序为名的暴行，甚至比纯粹的野蛮更加残酷。就连最为残暴的龙蜥，也不会进行这般毫无意义的杀戮。
 
-这些我当然知道…
+- **旅行者:** 这些我当然知道…
 
 **斯库拉:** 你知道，但是你却无动于衷吗？又或者是无能为力？
 
@@ -1373,19 +1669,19 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 你曾经向众水的僭主许诺，要用她交给你的纯水，创造出一个没有纷争，永恒幸福的世界。
 
-**斯库拉:** 我也是因为想要看看那个未来，才会随你来到地上，但结果却是这样…你失败了，雷穆斯，你无法战胜「命法图纳运」。
+**斯库拉:** 我也是因为想要看看那个未来，才会随你来到地上，但结果却是这样…你失败了，雷穆斯，你无法战胜「命(法图纳)运」。
 
 **斯库拉:** 鲜血将再度染红高海，高天对它的造物竟也如此残忍。
 
-我有一个计划…
+- **旅行者:** 我有一个计划…
 
 **斯库拉:** 哦？你总是有很多计划，雷穆斯。但现在你的计划已经全都搞砸了，你甚至都还没弄明白问题出在哪里。
 
-你要听听吗，这是最后一个了。
+- **旅行者:** 你要听听吗，这是最后一个了。
 
 **斯库拉:** 我记得你说服我离开原海的时候也是这么说的…那你说吧，在我离开这里回到原海，回到众水的僭主身边之前。
 
-（……）
+- **旅行者:** （……）
 
 **斯库拉:** ……
 
@@ -1399,23 +1695,23 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 让老夫率领龙蜥一族，将你那傲慢而愚蠢的子民踩在脚下，想想就觉得畅快。
 
-但这只是一个仪式，一场戏剧…
+- **旅行者:** 但这只是一个仪式，一场戏剧…
 
 **斯库拉:** 放心，老夫会像你说的那样，手下留情的。
 
 **斯库拉:** 但是如果这样做了，你作为魔神的生命也会到此结束。除了「乐章」之外，什么都不会留下，你考虑清楚了吗？
 
-当然。
+- **旅行者:** 当然。
 
-我所开启的魔盒，也将由我来关闭。
+- **旅行者:** 我所开启的魔盒，也将由我来关闭。
 
 **斯库拉:** 那就好，老夫接受你的提议。如果真的到了那个时候，老夫也会用老夫的力量，加上你的乐章一起…
 
 **斯库拉:** 砸碎「福波斯」的锁链，让你的子民重获自由。
 
-那么，请接受…
+- **旅行者:** 那么，请接受…
 
-我最后的，「乐章」吧。
+- **旅行者:** 我最后的，「乐章」吧。
 
 #### 前往金色水道附近
 
@@ -1425,21 +1721,27 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **派蒙:** 感觉就算是做梦，看见那个家伙也够晦气的了！
 
+##### 对话分支 1
+
 - **旅行者:** 我想我已经知道雷穆斯的计划了…
+
+##### 对话分支 2
 
 - **旅行者:** 必须要打碎「福波斯」才行…
 
-为此，需要演奏斯库拉的乐章。
+##### 共同后续
+
+- **旅行者:** 为此，需要演奏斯库拉的乐章。
 
 **派蒙:** 欸？你怎么突然说起这个啦，你到底在记忆里看到什么了？
 
 **斯库拉:** 有趣，雷穆斯的力量还萦绕在深海当中尚未消散，而现在老夫也终于来到了这里，你知道这意味着什么吗？
 
-条件已经达成了。
+- **旅行者:** 条件已经达成了。
 
 **斯库拉:** 不错，老夫也正是为了弥补这千年的憾事才会和你们一起来到这里的。
 
-问题只剩下「福波斯」到底…
+- **旅行者:** 问题只剩下「福波斯」到底…
 
 **派蒙:** 等等，我都糊涂了！所以到底要用乐章干什么啊？你们两个倒是达成理解了，那现在岂不是只有我被排除在外？
 
@@ -1465,14 +1767,78 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 这样老夫也算完成了他的愿望了吧。
 
-或许这也是我来到这里的理由。
+- **旅行者:** 或许这也是我来到这里的理由。
 
 **斯库拉:** 这就是所谓的因缘际会吧，异邦人。
+
+#### 修复金色水道
+
+- **旅行者:** 为了呜斯先生…
+
+**波爱修斯:** 你们短暂的友谊能胜过我们同族亲缘的份量吗？
+
+**波爱修斯:** 我和卡西奥多…我们是雷穆斯亲手所造的新(魔像)人，也是如今仅存的孑遗。
+
+**波爱修斯:** 与其他同族相比，他的灵魂就如同无法融入水中的灵露。
+
+**波爱修斯:** 除我以外，只有他拥有真正的意志，也只有我们的结合才能达成完整的「自我」。
+
+**波爱修斯:** 「我们的意志乃是一体。」在歌剧的终幕，他会回到我们中间，这也是他的「命运」。
+
+- **旅行者:** 为了拯救佩特莉可镇的居民…
+
+**波爱修斯:** 那些人…他们并非是你的同胞，也不是你的臣民。
+
+**波爱修斯:** 相反，你的力量要远远强于他们，他们在你面前应该连蝼蚁都算不上。
+
+**波爱修斯:** 弱者应该屈服于强者，难道不是这个世界的公理吗？
+
+**波爱修斯:** 你却说要保护他们，这究竟是无疆的慈悲，还是单纯的愚蠢呢。
+
+- **旅行者:** 为了世界的正义…
+
+**波爱修斯:** 正义？你该不会是认真的吧？
+
+**波爱修斯:** 就算拥有连我也无法看透的力量，但你若是以为仅靠蛮力便能打败我，那可就是外乡人的天真了。
+
+**波爱修斯:** 我早已与充盈整个深海的「乐章」融为一体。即便你侥幸击毁了我的肉身，但只要苦痛的海水仍在流动，只要仇恨的记忆尚未泯灭…
+
+**波爱修斯:** 我的意志就不会消亡，我就仍然是整个现世的梦魇。
+
+**波爱修斯:** 除非你像卡西奥多…像那只野猫一样自我放逐，做看守旧日监牢的狱卒…但我想你这样的尊贵之人是不会做到这种程度的。
+
+**波爱修斯:** 放下你那多余的同情心吧！对于罪有应得的人而言，获得审判不才是正义吗？
+
+- **旅行者:** 罪有应得…他们是无辜的。
+
+**波爱修斯:** 无辜？没有一个枫丹人是无辜的！他们都是曾与我们为敌的蛮族的后裔…
+
+**波爱修斯:** 他们的祖先夺走了本应属于我们的国家，他们当然也要为此付出代价，这就是他们的原罪！
+
+**波爱修斯:** 异邦人，你还有什么话要说吗？
 
 ### 重建金色水道·其之一
 
 为了进入「黄金宫殿」，需要重建古老的金色水道…
 
+#### 寻找散落的「乐章」
+
+#### 让飞鸟幻影归位
+
+#### 使用引光机关照亮号角
+
+#### 跟随飞鸟幻影
+
 ### 重建金色水道·其之二
 
 为了进入「黄金宫殿」，需要重建古老的金色水道…
+
+#### 寻找散落的「乐章」
+
+#### 跟随金蜂前进
+
+#### 让飞鸟幻影归位
+
+#### 使用引光机关照亮号角
+
+#### 跟随飞鸟幻影

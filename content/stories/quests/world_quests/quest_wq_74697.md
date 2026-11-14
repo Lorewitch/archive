@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 74697
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74697
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_revelation
 
 # quest_series_ru: Пророчество ведьмы
+# game_source_ids: 74697
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 70
 
 ## RU
 
@@ -40,13 +43,19 @@
 
 **Мидзуки:** Хех... Похоже, судьба предопределила нашу встречу.
 
-Ты в отпуске, Мидзуки?
+- **Путешественник:** Ты в отпуске, Мидзуки?
 
 **Мидзуки:** Хм, можно и так сказать. Если работа над образовательным фильмом о психологии пройдёт гладко, я смогу отдохнуть. Но сперва нужно сосредоточиться на работе.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Фильм о психологии?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это новая форма терапии?
+
+##### Общее продолжение
 
 **Паймон:** Ого, фильмы на это способны? Потрясающе!
 
@@ -58,11 +67,19 @@
 
 **Мидзуки:** Если мне удастся повысить общий уровень осведомлённости, люди смогут сформировать более объективное представление о том, что такое психические расстройства.
 
+**Мидзуки:** Возможно, мне удастся помешать людям бездумно отмахиваться от этих состояний как от выдумки или видеть в них нечто пугающее и опасное.
+
 **Мидзуки:** И, кто знает, быть может, мои будущие сеансы терапии будут проходить легче.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Ты много размышляла...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты тщательно всё продумала...
+
+##### Общее продолжение
 
 **Мидзуки:** Верно. Психические расстройства часто остаются незаметными, поэтому их сложно выявить. Порой непросто понять их природу и даже распознать сам факт проблемы.
 
@@ -72,9 +89,15 @@
 
 **Мидзуки:** Иногда я целый день сижу взаперти в своей комнате, бесконечно перебирая в голове несколько строк диалога или несколько секунд сценария. И даже после этого в итоге у меня может ничего не получиться.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это очень тяжело...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Тебе нужно отдохнуть...
+
+##### Общее продолжение
 
 **Паймон:** Может быть, тебе не хватает вдохновения? Когда мы сами заходим в тупик, то стараемся переключиться на что-нибудь другое. И тогда решение приходит само собой!
 
@@ -93,6 +116,18 @@
 **Барбелот:** Ох, перевёрнутая «Луна»...
 
 **Барбелот:** Значение «Луны» в прямом и перевёрнутом положении похоже: уход от реальности, иллюзия, самообман...
+
+**Барбелот:** Как человек, блуждающий под тёмной луной, заблудившийся, но не знающий, как выбраться из этого положения.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Звучит не очень хорошо...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Звучит мрачновато...
+
+##### Общее продолжение
 
 **Паймон:** Да, почему толкование этой карты звучит как предупреждение? У Паймон нехорошее предчувствие...
 
@@ -142,13 +177,13 @@
 
 **Барбелот:** В любом случае, госпожа ёкай, я с нетерпением жду ваш фильм. Хе-хе-хе...
 
-**Мидзуки:** Возможно, мне удастся помешать людям бездумно отмахиваться от этих состояний как от выдумки или видеть в них нечто пугающее и опасное.
+#### Послушайте историю Юмэмидзуки Мидзуки...
 
-**Барбелот:** Как человек, блуждающий под тёмной луной, заблудившийся, но не знающий, как выбраться из этого положения.
+#### Послушайте историю Юмэмидзуки Мидзуки...
 
-- **Путешественник:** Звучит не очень хорошо...
+#### Выслушайте историю Юмэмидзуки Мидзуки...
 
-- **Путешественник:** Звучит мрачновато...
+#### Покиньте историю
 
 ## EN
 
@@ -164,13 +199,19 @@ You encounter Yumemizuki Mizuki at Barbeloth's fortune-telling booth...
 
 **Yumemizuki Mizuki:** Hehe... It seems like fate has already arranged our meeting place.
 
-Are you here on holiday, Mizuki?
+- **Traveler:** Are you here on holiday, Mizuki?
 
 **Yumemizuki Mizuki:** Hmm... I suppose you could say that. If the prep work for this educational film about psychology I'm doing goes smoothly, I should indeed have time for some leisure. Though until then, I still need to focus on my work.
 
+##### Response branch 1
+
 - **Traveler:** A film about psychology?
 
+##### Response branch 2
+
 - **Traveler:** Is this a new form of therapy?
+
+##### Shared continuation
 
 **Paimon:** Whoa, films can do that? That's amazing!
 
@@ -182,11 +223,19 @@ Are you here on holiday, Mizuki?
 
 **Yumemizuki Mizuki:** ...If I can raise everyone's basic awareness, perhaps people can develop a more objective understanding of what mental disorders are.
 
+**Yumemizuki Mizuki:** ...Perhaps I can stop people from blindly dismissing these conditions as made-up nonsense, or treating them like some terrifying bogeyman.
+
 **Yumemizuki Mizuki:** And maybe my future therapy sessions will go a little more smoothly...
+
+##### Response branch 1
 
 - **Traveler:** You've clearly put a lot of thought into this...
 
+##### Response branch 2
+
 - **Traveler:** You've really considered this thoroughly...
+
+##### Shared continuation
 
 **Yumemizuki Mizuki:** That's right. After all, illnesses of the mind are invisible and hard to pin down. Trying to get a hold on them, or even just detecting their existence, is sometimes far from easy.
 
@@ -196,9 +245,15 @@ Are you here on holiday, Mizuki?
 
 **Yumemizuki Mizuki:** Sometimes, I stay cooped up in my room all day, endlessly going over a few lines of dialogue or a few seconds of plot... Even then, I might come away with nothing to show at the end of it.
 
+##### Response branch 1
+
 - **Traveler:** That sounds exhausting...
 
+##### Response branch 2
+
 - **Traveler:** You need to relax...
+
+##### Shared continuation
 
 **Paimon:** Maybe you're just missing a little spark of inspiration? When Paimon and Traveler get stuck on one thing, we do something else, and then... *ding*! The answer just pops into our heads!
 
@@ -217,6 +272,18 @@ Are you here on holiday, Mizuki?
 **Barbeloth:** Oh my, the reversed Moon...
 
 **Barbeloth:** The upright and reversed meanings of the Moon are similar — "escapism," "illusion," "self-deception"...
+
+**Barbeloth:** Like someone traveling beneath a dark moon, having lost their way forward but not knowing how to break free.
+
+##### Response branch 1
+
+- **Traveler:** That doesn't sound good...
+
+##### Response branch 2
+
+- **Traveler:** That sounds a little negative...
+
+##### Shared continuation
 
 **Paimon:** Yeah, why does the meaning of this card sound like a warning...? Paimon's got a really bad feeling about this...
 
@@ -266,13 +333,13 @@ Are you here on holiday, Mizuki?
 
 **Barbeloth:** Anyway, Miss Youkai, I look forward to watching your film. Hehehe...
 
-**Yumemizuki Mizuki:** ...Perhaps I can stop people from blindly dismissing these conditions as made-up nonsense, or treating them like some terrifying bogeyman.
+#### Listen to Yumemizuki Mizuki's story...
 
-**Barbeloth:** Like someone traveling beneath a dark moon, having lost their way forward but not knowing how to break free.
+#### Listen to Yumemizuki Mizuki's story
 
-- **Traveler:** That doesn't sound good...
+#### Finish listening to Yumemizuki Mizuki's story
 
-- **Traveler:** That sounds a little negative...
+#### Leave the story
 
 ## ZH
 
@@ -288,13 +355,19 @@ Are you here on holiday, Mizuki?
 
 **梦见月瑞希:** 呵…现在看来，「命运」已经安排好我们相汇的地点了。
 
-瑞希是来旅行的吗？
+- **旅行者:** 瑞希是来旅行的吗？
 
 **梦见月瑞希:** 嗯…算是吧。如果那部心理知识科普映影的筹备工作顺利的话，我确实可以去周围散散心。但在那之前，还是得专注工作才行。
 
+##### 对话分支 1
+
 - **旅行者:** 心理知识的映影？
 
+##### 对话分支 2
+
 - **旅行者:** 心理诊疗的延伸？
+
+##### 共同后续
 
 **派蒙:** 映影还能干这个？听起来好厉害喔。
 
@@ -306,11 +379,19 @@ Are you here on holiday, Mizuki?
 
 **梦见月瑞希:** …具备了常识之后，大家或许对于「心理疾病」就能有一个初步的客观认知。
 
+**梦见月瑞希:** …而不是盲目地将这个客观存在的病症视为无稽之谈，或者是洪水猛兽。
+
 **梦见月瑞希:** 这样一来，我为大家做诊疗时，说不定也会更顺利一些吧…
+
+##### 对话分支 1
 
 - **旅行者:** 瑞希思考得好多…
 
+##### 对话分支 2
+
 - **旅行者:** 原来是这么复杂的考量…
+
+##### 共同后续
 
 **梦见月瑞希:** 是啊。毕竟心的病症无形无色，想要抓住…甚至意识到它的存在，都并不是一件容易的事。
 
@@ -320,9 +401,15 @@ Are you here on holiday, Mizuki?
 
 **梦见月瑞希:** 有的时候，我一整天都要闷在房间里，围绕着几行对白，几十秒的情节去反复推敲，最后可能还得不到结果。
 
+##### 对话分支 1
+
 - **旅行者:** 感觉好辛苦…
 
+##### 对话分支 2
+
 - **旅行者:** 需要适当放松…
+
+##### 共同后续
 
 **派蒙:** 也许只差一点灵感？我和旅行者被一件事卡住的时候，就去干点别的，说不定就「噼咔」一下想通了！
 
@@ -341,6 +428,18 @@ Are you here on holiday, Mizuki?
 **芭比洛斯:** 哎呀，逆位之「月」…
 
 **芭比洛斯:** 「月」的正逆位意义相似。「逃避」、「蒙蔽」、「自欺欺人」…
+
+**芭比洛斯:** 就像是行走在暗月下的人，迷失了前进的方向，却不知晓应当如何脱身。
+
+##### 对话分支 1
+
+- **旅行者:** 听起来不太妙啊…
+
+##### 对话分支 2
+
+- **旅行者:** 听起来有点消极…
+
+##### 共同后续
 
 **派蒙:** 是啊，怎么这张牌的释义，听起来和警告似的…怎么都感觉有点不太妙…
 
@@ -390,10 +489,10 @@ Are you here on holiday, Mizuki?
 
 **芭比洛斯:** 总之，妖怪小姐，我还是很期待那部「映影」的。呵呵呵呵呵…
 
-**梦见月瑞希:** …而不是盲目地将这个客观存在的病症视为无稽之谈，或者是洪水猛兽。
+#### 聆听梦见月瑞希的故事…
 
-**芭比洛斯:** 就像是行走在暗月下的人，迷失了前进的方向，却不知晓应当如何脱身。
+#### 聆听梦见月瑞希的故事
 
-- **旅行者:** 听起来不太妙啊…
+#### 听完梦见月瑞希的故事
 
-- **旅行者:** 听起来有点消极…
+#### 离开故事

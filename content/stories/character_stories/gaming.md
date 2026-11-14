@@ -357,3 +357,863 @@ Only then did the doubt clouding over Gaming's heart clear, and in response, he 
 眼观六路耳听八方，似瑞兽耳聪目慧之姿。
 拳打恶匪脚踢强盗，有祥猊除祟降瑞之势。
 嘉明心中的疑云这才被拨开，他迅速用衣角擦了擦手，郑重地接过了这枚神之眼。
+
+# voice_source_ids: 92000,92001,92002,92003,92004,92005,92006,92007,92008,92009,92010,92011,92012,92013,92014,92015,92016,92017,92018,92019,92020,92021,92022,92023,92024,92025,92026,92027,92028,92029,92030,92031,92032,92033,92034,92035,92036,92037,92038,92039,92040,92041,92042,92043,92044,92045,92046,92047,92048,92049,92050,92051,92052,92053,92054,92055,92056,92057,92058,92059,92060,92061,92062,92063,92064,92065,92066,92067,92068,92069,92070
+
+## REPLICAS_RU
+
+### Привет...
+
+Приветствую! Меня зовут Ка Мин, я охранник из Палаты связей. Вот это всё надо доставить, да? Нет-нет, садись, попей чаю - я всё сам без проблем упакую. Всего минутку у меня займёт, а потом о времени доставки договоримся. А! Да, если захочешь заказать танец Ушоу, то мы с моей командой всегда готовы! Труппа называется «Великие мифические звери», а я её руководитель, хе-хе. Не то чтобы я хвастаюсь.
+
+### Поболтаем: Танец Ушоу
+
+Бум-бум дзынь, глазами! Бум-бум бум-бум дзынь, и борода! Хм... Нет-нет, надо здесь проработать ещё.
+
+### Поболтаем: Охрана
+
+По воде, по горам или по суше - я по всем дорогам в охране хаживал. Не волнуйся, меня лучшим наёмником не просто так называют!
+
+### Поболтаем: Димсамы
+
+Чай с закусками, сезонные овощи и горячая рисовая каша... Лучше завтрака не придумаешь. Идеальное начало дня.
+
+### Когда идёт дождь...
+
+Дождь! Скорее бельё снимай!
+
+### Когда гремит гром...
+
+Слышишь? Кому-то досталось? Если клянёшься, то не давай обещаний, которые не можешь выполнить!
+
+### Когда идёт снег...
+
+А-а-а... А? Почему я не могу ртом поймать?
+
+### Когда светит солнце...
+
+Солнце вышло! Наконец-то сырость подсушит немного.
+
+### В пустыне...
+
+Вода в таком месте наверняка дорогущая? Хорошо, что у меня своя.
+
+### Доброе утро...
+
+Только закончил тренироваться. Собираюсь идти за димсамами. Хочешь со мной?
+
+### Добрый день...
+
+Знаешь, что я на обед больше всего люблю? Завтрак. Хочешь со мной за димсамами?
+
+### Добрый вечер...
+
+Я тут классное место на ужин забронировал. Они только вечером открываются и обслуживают только знакомых. Пойдём вместе? Не проворонь такой шанс!
+
+### Спокойной ночи...
+
+На боковую? Есть хочешь? Пойдём перекусим?
+
+### О Ка Мине: Родина
+
+Ты был в деревне Цяоин? Я там вырос. Это известное чайное место: и сунло, и моносортовой яуван - оба оттуда. Знаешь что, один раз живём, у меня тут моносортовой яуван завалялся - пойдём в чайную, заварим чайку! Я угощаю! / Ты была в деревне Цяоин? Я там вырос. Это известное чайное место: и сунло, и моносортовой яуван - оба оттуда. Знаешь что, один раз живём, у меня тут моносортовой яуван завалялся - пойдём в чайную, заварим чайку! Я угощаю!
+
+### О Ка Мине: Наше время
+
+Благодаря окружающим людям, которые меня поддерживают, в наше время я могу добывать себе на пропитание и находить время и силы на освоение танца Ушоу. Так что я обязан выкладываться на этой работе на сто двадцать процентов. И никто не против, если ещё я нахожу время отблагодарить их и пригласить на чай с димсамами, ха-ха!
+
+### О нас: Поддержка
+
+Когда я не занят доставкой, я танцую Ушоу на улицах гавани Ли Юэ. Сможешь прийти поддержать нас? Нет-нет, это совершенно бесплатно. Если люди на улице рады, то и я доволен.
+
+### О нас: Чаепитие
+
+Помни, что на друзей всегда можно положиться. Не надо продираться через трудности в одиночку - позови, и я помогу! Но лучше, конечно, если до этого не дойдёт! Надеюсь, в следующий раз у тебя всё будет распрекрасно, а ты будешь искать лишь приятного собеседника, чтобы вместе выпить чаю с димсамами!
+
+### Глаз Бога...
+
+В романах о боевых искусствах говорят, что достичь мастерства можно, открыв меридианы энергии инь-ян. Так я себя и почувствовал, когда получил Глаз Бога! Ха-ха, шучу. Я не мастер боевых искусств. Я лишь добрый сосед, у которого много энергии. А вот если бы у тебя был Глаз Бога... Ты и без него такого достиг, а с ним так вообще... / В романах о боевых искусствах говорят, что достичь мастерства можно, открыв меридианы энергии инь-ян. Так я себя и почувствовал, когда получил Глаз Бога! Ха-ха, шучу. Я не мастер боевых искусств. Я лишь добрый сосед, у которого много энергии. А вот если бы у тебя был Глаз Бога... Ты и без него такого достигла, а с ним так вообще...
+
+### Давай поделимся...
+
+Ман Чай такой озорник! Я хотел, чтобы он был послушным и поэтому дал ему имя, которое означает «воспитанный». Толку-то! Но ничего, вся эта энергия делает танец Ушоу только более захватывающим. Кроме того, наблюдая за Ман Чаем я лучше понял повадки суаньни. Как только я надеваю голову Ушоу - сразу приходит нужный настрой! Р-р-р!
+
+### Интересные вещи...
+
+Многие травы, цветы, кору и даже веточки некоторых деревьев можно высушить, а потом заварить водой - получится освежающий напиток, очень полезный для здоровья! Устраняет жар, успокаивает и прочее. Бабушка с тётушкой говорили, что, когда ешь жареное, употребление таких чаёв помогает очистить организм и избавиться от внутреннего жара.
+
+### О Сян Лин...
+
+У Сян Лин много коронных блюд, но мне больше всего нравится её чёрный окунь. Я всегда пытаюсь смыть острый соус водой, но всё равно остро так, что я сижу пыхчу, ха-ха! Но оно того стоит, да и порции щедрые - неудивительно, что это фирменное блюдо «Народного выбора». В следующий раз опять закажу!
+
+### О Син Цю...
+
+Торговая гильдия «Фэйюнь» - давний клиент охранного предприятия. Обычно дела с нами ведёт старший брат, но как-то Син Цю меня спросил о поставках, я начал рассказывать про все их маршруты и даты отправлений. Оказалось в итоге, что он хотел лишь узнать, когда книжный магазин «Ваньвэнь» получит новый товар, ха-ха-ха...
+
+### О Чун Юне...
+
+Слышал, что у этого парня есть «чистый дух Ян». У нас это называется избытком внутреннего жара. Надо ему побольше травяных чаёв пить.
+
+### О Кэ Цин...
+
+Благодаря Нефритовому Равновесию на пути из гавани Ли Юэ в порт Илун теперь не так много бандитов. Именно она возглавила борьбу с ними... Думаешь, у меня может стать мало работы? Ха, от меня не так просто избавиться. Да, теперь с бандитами сражаться не надо, но сильные руки, чтобы таскать грузы, всегда нужны.
+
+### О Бай Чжу...
+
+Работа охранником, танцы Ушоу - у меня довольно травмоопасный стиль жизни. Хорошо, что лекарства доктора Бай всегда помогают. Серьёзно, это единственное, что надо брать с собой дальнее путешествие или в семейный отпуск. Мои коллеги из охранного предприятия всегда просят привезти им лекарства доктора Бай Чжу, когда я отправляюсь в гавань Ли Юэ.
+
+### О Ци Ци...
+
+А, Ци Ци, милая крошка. Она убеждена, что все мои травмы из-за малоподвижности суставов. Каждый раз, когда я прихожу в хижину «Бубу», она заставляет делать с ней растяжку, ха-ха. Это просто, хочешь попробовать? Давай за мной. Раз, два, вместе с Ци Ци; два, два, молодцы!..
+
+### О Юнь Цзинь...
+
+Юнь Цзинь очень меня вдохновляет! Все, эксперты и обычные слушатели, говорят, какая она прекрасная певица. Поразительно. Если «Великие мифические звери» станут хоть наполовину такими успешными, как оперная труппа Юнь Хань... Не щипайте меня - я не хочу просыпаться!
+
+### О Синь Янь...
+
+Музыка Синь Янь просто огонь! Ман Чай от неё с ума сходит - трясёт башкой как безумный. Хотел бы я вместе когда-нибудь выступить. «Ревущие звери: Рок-н-ролл танец Ушоу»! Как думаешь, взлетит?
+
+### О Сянь Юнь...
+
+Тётушка Сянь Юнь всегда обо мне заботится. Однажды она увидела, что голова зверя для Ушоу износилась. Тут же сказала, что может сделать для меня ещё десять таких же, размером вдвое больше меня. Она была очень настойчива - целый день потратил, чтобы уговорить её просто переделать ту мою... И стало намного лучше! Выглядит гораздо эффектнее, весит намного меньше, а покрывало постоянно шелестит в воздухе, словно его ветер Адептов треплет. Я счастлив!
+
+### О Чжун Ли...
+
+Господин Чжун Ли производит впечатление человека, получившего престижное образование. Такое ощущение, что когда я доставляю товар в чайную или в оперный театр, он всегда там, пьёт чай, слушает рассказчика и выглядит самым умным парнем в комнате. Однажды я услышал, как он с кем-то о чае разговаривал. Думаю, что если он когда-нибудь разговорится с моим отцом, то беседа затянется на всю ночь...
+
+### О Шарлотте...
+
+А, журналистка, да-да, знаю, про кого ты! Все фонтейнцы в порту Илун читают «Паровую птицу», и я тоже иногда проглядываю. Похоже, все лучшие статьи пишет именно она. А! Ты тоже на передовице был как-то! Верно, да? / А, журналистка, да-да, знаю, про кого ты! Все фонтейнцы в порту Илун читают «Паровую птицу», и я тоже иногда проглядываю. Похоже, все лучшие статьи пишет именно она. А! Ты тоже на передовице была как-то! Верно, да?
+
+### Узнать больше о Ка Мине I
+
+Я лучший танцор Ушоу в охранном предприятии и лучший охранник среди танцоров Ушоу. Как тебе? Нормально сказанул, да?
+
+### Узнать больше о Ка Мине II
+
+Можно сказать, кто дилетант, посмотрев на базовые боевые навыки: стойка наездника, удары ногами, шпагат, прыжки, кувырки... Если даже такое плохо даётся, то в лучшем случае со стойкой на шесте не справишься, свалишься и будешь в кровати лежать полмесяца. В худшем - налетят бандиты, не сможешь отбиться. Потеряешь товар, а может, и жизнь... Страшно, да? Вот и я так подумал, поэтому всё это ребятам на работе и рассказал, чтобы они со мной вместе тренировались. Ха-ха-ха!
+
+### Узнать больше о Ка Мине III
+
+Знаешь, они очень хрупкие: голова зверя, покрывало, гонги и барабаны. Я много тренируюсь и поэтому они быстро изнашиваются. Приходится тщательно ухаживать за ними, а на это моры уходит немало. А ещё надо посидеть с друзьями, купить подарки на дни рождения и праздники, дать приятелям немного моры, когда они стеснены в средствах... Так я просаживаю почти всю свою зарплату каждый месяц.
+
+### Узнать больше о Ка Мине IV
+
+Мой отец всё надеется, что однажды я соглашусь учиться у него, как вести бизнес. Он не понимает, что я уехал из родной деревни потому, что уже понял, чего хочу. Во-первых, я хочу показать ему, что танец Ушоу не временное увлечение, я обязательно достигну успеха! Во-вторых... мне надоело постоянно с ним ругаться. Я не ненавижу его, он же мой отец и всё такое. Но каждый раз, когда он заговаривает со мной, это словесная атака, и я лучше отойду подальше от линии огня!
+
+### Узнать больше о Ка Мине V
+
+Этот синяк совсем свежий, получил, когда отрабатывал удары ногами... А эту шишку набил, когда ударился во время кувырка. В прошлом месяце было - почти зажила уже. А вот этот шрам уже серьёзнее. Упал неудачно, когда стойку на шесте пробовал первый раз сделать, - глубокая рана вышла. Крови было так много... Подумал было, что моя карьера танцора Ушоу закончилась, так и не начавшись... С тех пор промахи бывали, конечно, но, к счастью, ничего серьёзного. Могу продолжать... Обязательно буду продолжать.
+
+### Хобби Ка Мина...
+
+Чаепитие - это не только про чай, ещё всякие закуски сладкие и солёные должны быть. Есть закуски, которые уже готовы, когда заказываешь, а есть те, что ждать надо, пока приготовятся. В день, когда димсамы ем, я не обедаю. Скажи, как время свободное будет, - угощу тебя чаем! Заказывай всё, что хочешь. Если что не съедим, всегда можно с собой завернуть.
+
+### Беспокойство Ка Мина...
+
+Сколько?! За обслуживание ещё ладно, но за салфетки платить? Я вообще со своими пришёл, так что оставьте себе!
+
+### Любимая еда...
+
+В детстве я маленьким чудовищем был: вечно попадал в неприятности, а потом отказывался извиниться. Измученная этим мама вечно говорила: «Лучше бы я запечённую свинину родила вместо тебя!» Каждый раз, когда свинину ем, о маме вспоминаю...
+
+### Нелюбимая еда...
+
+Вечно говорят, что у меня странный вкус... Я лишь хочу, чтобы птица была на вкус как птица, а рыба - как рыба.
+
+### Подарок I
+
+Вот это вкус. Ты не божественный повар, случаем? Я не шучу. Буду тебя теперь «богом кулинарии» называть. / Вот это вкус. Ты не божественный повар, случаем? Я не шучу. Буду тебя теперь «богиней кулинарии» называть.
+
+### Подарок II
+
+Сам сделал? Ого. Ты слишком ко мне добр. Честное слово, ты отлично готовишь! / Сама сделала? Ого. Ты слишком ко мне добра. Честное слово, ты отлично готовишь!
+
+### Подарок III
+
+Я считаю, что надо признавать свои ошибки и честно принимать критику... Так что, если я тебя чем-то обидел, можешь побить меня!
+
+### День рождения...
+
+Мне тут птичка на хвосте принесла, что у тебя день рождения. Ты когда мне рассказать собирался? А я как раз столик забронировал в шатре «Синьюэ». Восемь блюд, суп и сколько хочешь риса, а ещё булочки долголетия и сладкий суп. Зови всех своих друзей! Ещё я небольшой поздравительный танец Ушоу для тебя подготовил. Ничего особенного, но, надеюсь, тебе понравится. / Мне тут птичка на хвосте принесла, что у тебя день рождения. Ты когда мне рассказать собралась? А я как раз столик забронировал в шатре «Синьюэ». Восемь блюд, суп и сколько хочешь риса, а ещё булочки долголетия и сладкий суп. Зови всех своих друзей! Ещё я небольшой поздравительный танец Ушоу для тебя подготовил. Ничего особенного, но, надеюсь, тебе понравится.
+
+### Чувство возвышения: Начало
+
+Ого, это всё мне? Во сколько же тебе всё это обошлось? Так неудобно...
+
+### Чувство возвышения: Нарастание
+
+О, ты мне большую силу доверяешь. Но обещаю, что она в хороших руках. Я буду ещё упорнее тренироваться!
+
+### Чувство возвышения: Кульминация
+
+Если могу охранять грузы, то могу охранять и людей. Раз уж ты мне так доверяешь, может, я теперь буду твоим телохранителем?
+
+### Чувство возвышения: Окончание
+
+Спасибо, что проделал львиную долю работы, чтобы я достиг таких высот. Не смею обещать, что смогу гарантировать безопасность в твоих путешествиях, но будь уверен, что я сделаю всё, чтобы тебе помочь! / Спасибо, что проделал львиную долю работы, чтобы я достиг таких высот. Не смею обещать, что смогу гарантировать безопасность в твоих путешествиях, но будь уверена, что я сделаю всё, чтобы тебе помочь!
+
+### Элементальный навык I
+
+Извиняй.
+
+### Элементальный навык II
+
+Алле-оп!
+
+### Элементальный навык III
+
+Поздравляю!
+
+### Взрыв стихии I
+
+Вот повезло.
+
+### Взрыв стихии II
+
+Ман Чай, твой черёд!
+
+### Взрыв стихии III
+
+Могучий мифический зверь!
+
+### Открытие сундука I
+
+О, выглядит круто!
+
+### Открытие сундука II
+
+Куда доставить, начальник?
+
+### Открытие сундука III
+
+Кто ждёт - тот получит!
+
+### Низкий уровень HP I
+
+Боль только мотивирует...
+
+### Низкий уровень HP II
+
+Эх, пустяки...
+
+### Низкий уровень HP III
+
+Ещё живой!
+
+### Низкий уровень HP компаньона I
+
+Меняемся, я разберусь!
+
+### Низкий уровень HP компаньона II
+
+Эй, не перестарайся!
+
+### Без сознания I
+
+Мне пора...
+
+### Без сознания II
+
+Представление закончено...
+
+### Без сознания III
+
+Бросьте меня...
+
+### Получен тяжёлый удар I
+
+Эй, ты чего!
+
+### Получен тяжёлый удар II
+
+Хватит!
+
+### Присоединяется к группе I
+
+Готов работать!
+
+### Присоединяется к группе II
+
+Понял, начинаем.
+
+### Присоединяется к группе III
+
+Чай попить успеем?
+
+### О Лань Янь...
+
+Быть другом Лань Янь - это мечта любого гурмана! Обязательно попроси её отвезти тебя в горы, чтобы попробовать местные блюда. Там даже есть место, куда можно прийти со своими ингредиентами. Просто скажи, что Ка Мин рассказывал об этом месте, и она всё поймёт. Дороги в горах непростые, так что без её помощи не обойтись. А когда доберёшься, ешь в своё удовольствие! Хозяин заведения - мой друг, так что всё будет за мой счёт.
+
+## REPLICAS_EN
+
+### Hello
+
+Hey, Boss! The name's Gaming — I'm a guard from the Communications Office. So, all this needs shipping, right? No, no, you grab a seat and have some tea — I'll get these packed up for you, no problem. It'll only take me a minute, then we can get the delivery scheduled. Oh! And if you ever wanna book a Wushou Dance, me and my crew are available in a heartbeat! The troupe's called the Mighty Mythical Beasts, and I'm the head, hehe, not to brag or anything.
+
+### Chat: Wushou Dance
+
+Boom-boom tsh, and eyes! And boom-boom tsh, and mouth! And... hmm... I need to tighten up that part.
+
+### Chat: Armed Escort
+
+Whether it takes me uphill, downhill, or out to the sticks, I get the goods from A to B — I'll even take 'em across the sea if needed. So don't worry, you're in safe hands. They don't call me the Gold-Standard Guard for nothing!
+
+### Chat: Dim Sum
+
+A pot of tea with a couple of nibbles, some seasonal greens, and a piping-hot bowl of fresh congee... Ahh, that's a dope breakfast right there! The perfect way to start your day.
+
+### When It Rains
+
+Rain! Oh man, I hope I brought the laundry in!
+
+### When Thunder Strikes
+
+Hey, you hear that? Someone just got wrecked! If you're gonna swear on high heaven, don't make an oath you can't keep.
+
+### When It Snows
+
+Ahhh... Eh? Why can't I catch any in my mouth?
+
+### When the Sun Is Out
+
+Great, sun's out! 'Bout time we had some dry heat. It's been so muggy lately.
+
+### In the Desert
+
+Dang, I bet water costs an arm and a leg around here? Good thing I brought my own.
+
+### Good Morning
+
+Just finished my kung-fu practice. I'm about to go for dim sum, you wanna join?
+
+### Good Afternoon
+
+You know my favorite thing to have for lunch? Breakfast. Join me for dim sum?
+
+### Good Evening
+
+I managed to book this cool place for dinner! They only do evening service, and it's invite-only. Since you're here with me, wanna come with? Use it or snooze it. C'mon, let's go!
+
+### Good Night
+
+Hittin' the hay? No? ...You hungry? Wanna grab a bite?
+
+### About Gaming: Hometown
+
+Ever been to Qiaoying Village? I grew up there. It's a big tea-growing region — Sunglo and Single-Origin Yauwan both come from there. You know what, no time like the present — I got a box of totally dope Single-Origin here, let's get to a teahouse and brew us a pot right now! I'll get some nibbles too, my treat!
+
+### About Gaming: This Day and Age
+
+The fact that I'm able to put food on my plate, and still have the time and energy to focus on my Wushou Dancing, in this day and age... it's all thanks to the folks who've supported me along the way. So I owe it to them to put a hundred and ten percent into this job. Of course, no one's complaining if I still manage to find time to do them the occasional favor and take them for dim sum, haha!
+
+### About Us: Show of Support
+
+When I'm not on a delivery run, I do wushou dancing on the streets of Liyue Harbor. Do you think you could come along and watch sometime to support me? No, no, it's completely free. As long as people are entertained, I'm a happy guy.
+
+### About Us: Dim Sum Time
+
+Always remember that you can rely on your friends. When the going gets tough, don't soldier on alone — just get in touch and I'll be there! Oh — but hopefully it won't come to that, knock on wood! Here's hoping that next time you get in touch, everything's peaches and cream, and you just need a dim sum buddy!
+
+### About the Vision
+
+Some martial arts novels say that the key to becoming a kung-fu master is tapping into the body's yin-yang energy reserves, hidden in the governor and conception vessels. Well, that's what getting a Vision felt like! ...Haha, just kidding. I'm no kung-fu master — just a good neighbor, thanks to the extra energy it gives me. But that's just me — now imagine if you had a Vision... I mean, looking at everything you can already do without one... Man, that'd be something.
+
+### Something to Share
+
+Man Chai's such a little rascal! I gave him the name 'cause it means "well-behaved," hoping it would rub off on him. Heh... whole lot of good that did! But it's no biggie, all that hyperactive energy makes for a more exciting wushou dance. Also, I feel like watching Man Chai has helped me get a better handle on how suanni look in action. Soon as I put my Wushou head on, I'm right in the zone, roar!
+
+### Interesting Things
+
+With a lot of herbs, flowers, and even the twigs and bark of certain trees, if you dry them out then boil them in water, it makes a really refreshing drink with a ton of health benefits! Cools you down, calms the mind, and so on. Granny and Aunty tell me that drinking one of these herbal teas before and after eating fried foods helps clear your system and reduce heatiness.
+
+### About Xiangling
+
+Pretty much everything Chef Xiangling cooks is a winner, but my favorite has to be her Black-Back Perch Stew. I always try to rinse off the molten lava sauce before each bite, but I'm still like "ss, ah, ss, ah" trying to cool my mouth down, hahaha! Worth every bite though, and they do generous portions — you can see why it's Wanmin's signature dish. I'll be back for my next fix soon!
+
+### About Xingqiu
+
+The Feiyun Commerce Guild's a longtime client of the Secure Transport Agency. The older brother's the one who usually takes care of business with us, but there was one time when Xingqiu piped up with a question for me. So I start rambling away, giving him all the routes and delivery dates for all their recent orders... Turns out all he wanted to know was when the Wanwen Bookhouse is getting their next delivery in, hahaha...
+
+### About Chongyun
+
+I heard that guy's got a "pure-yang spirit"? Where I'm from, we call that heatiness. Dude needs to drink more herbal teas, for real.
+
+### About Keqing
+
+It's all thanks to the Yuheng that we don't get so many bandits on the road between Liyue Harbor and Yilong Wharf anymore. She's the one who spearheaded the crackdown on all that. ...You think my job's at risk, huh? Haha, they ain't gonna get rid of me that easily. Sure, maybe there's no more bandits to fight, but you're always gonna need a strong pair of arms to lug the cargo around.
+
+### About Baizhu
+
+Working as a guard and doing Wushou Dancing means I have a pretty injury-prone lifestyle. Good thing is, Dr. Baizhu's medicine is always there to save the day. Seriously, it's like the one thing people should pack before going on a long journey or family vacation. My workmates at the Secure Transport Agency always get me to bring some back for them when I come to Liyue Harbor.
+
+### About Qiqi
+
+Ah, Qiqi, the lovable munchkin. She's convinced that all my accidents are due to stiff joints, so whenever I'm at Bubu Pharmacy stocking up on medicine, she makes me do some stretches with her to limber me up, haha. It's easy, wanna try? Ok, after me: One, two three, four; two, two, three, four...
+
+### About Yun Jin
+
+Yun Jin's a huge inspiration to me! Everyone agrees that she's a fantastic singer, from the experts to the casual listener. Incredible. If the Mighty Mythical Beasts ever get half as successful as the Yun-Han Opera Troupe... don't pinch me, 'cause I won't wanna wake up!
+
+### About Xinyan
+
+Xinyan's music is fire! No pun intended. Man Chai goes crazy for it — always gets him moshing away like a mad gremlin. I'd love to do a joint show together one day. "Roaring Beasts: A Rock 'N' Roll Wushou Dance." Whaddya think, has it got legs?
+
+### About Xianyun
+
+Aunty Xianyun always has my back. Once, she saw that my Wushou head was looking a little worse for wear, and instantly said she could make, like, ten more for me, all twice my size. She was pretty insistent — it took me forever to talk her down to just remodeling the one I already had... And boy, is this an improvement! It looks way more impressive, it's much lighter, and the lion blanket constantly rustles in the air like there's an adeptal wind making it dance. I couldn't be happier with it!
+
+### About Zhongli
+
+Mr. Zhongli seems like the kind of guy who had an expensive education. Seems like whenever I make a delivery to a teahouse or opera house, he's always there drinking tea, listening to the storyteller, and looking like the smartest guy in the room. Dude, I once overheard him talking to someone about tea — I was like, man, if he ever got talking to my dad, that conversation would go on all night...
+
+### About Charlotte
+
+Oh, yeah, yeah, the journalist, I know who you mean! All the Fontainians in Yilong Wharf read The Steambird, and sometimes I take a peekski too. Seems like all the best articles have her name on them. Wait! And you were on the front page once! That was you, right?
+
+### More About Gaming: I
+
+I'm the best wushou-dancer in the Secure Transport Agency, and the busiest guard in the wushou-dancing community, how 'bout that? That do anything for ya?
+
+### More About Gaming: II
+
+You can tell if someone's a pushover just by looking at their basic kung fu skills: horse stance, kicks, splits, jumps, tumbling... If you can't even hack those, hoo boy. Best-case scenario, you might fall off a high pole during a wushou dance and be bedridden for a couple of weeks. Worst-case scenario, you run into bandits on a delivery run and you can't fight 'em off. Definitely lose the cargo, probably your life too... Scary thought, huh? Yeah, I thought so too — that's why I said it to the other guys in the agency to persuade them to train with me! Hahaha.
+
+### More About Gaming: III
+
+They're delicate y'know — the wushou head and blanket, the drums, the cymbals — and I practice a lot, so they deteriorate pretty quickly. You gotta be diligent about maintaining that stuff, and it costs a lot of Mora. Then there's the meals out with friends, gift-shopping for birthdays and festivals, spotting my buddies a few Mora when they're strapped for cash... It all adds up. And that's how I blow through pretty much my whole salary every month.
+
+### More About Gaming: IV
+
+My dad keeps hoping I'll come 'round to the idea of him teaching me how to do business one day. He doesn't seem to realize that the whole reason I left my hometown in the first place is 'cause I've already figured out what's best for me. Firstly, I wanna show him that my wushou dancing isn't just a phase — I'm gonna make a name for myself or die trying! Secondly... I'm done clashing with him all the time. I don't hate the guy, I mean, he's still my dad and everything, it's just... every time he opens his mouth, it's a verbal assault, and I'd rather stay out of his line of fire!
+
+### More About Gaming: V
+
+This bruise here's a fresh one, got it when I was practicing my kicks the other day... And this bump showed up after I took a knock during a somersault. That was last month, and it's almost healed now. This scar right here, though, that was a doozie and a half. I had a bad fall the first time I was practicing on the high pole — cut myself up pretty bad. There was so much blood, I thought my wushou dancing career was over before it began... I've had some near misses since then, but thankfully nothing serious. I'm still up to it... Just gotta keep at it...
+
+### Gaming's Hobbies
+
+When you go for tea but stay for the dim sum, we call that "yum cha." What you wanna do is get some sweet dim sum and some savory dim sum — gotta make it a balanced meal — and order a mix of ready-made dim sum and made-to-order dim sum, so that you can snack on dim sum while you're waiting on your other dim sum... Funnily enough, I never need lunch on a dim sum day. Lemme know when you're free, I'll take you some time! And don't be afraid to order a bit of everything, you can always pack up the leftovers and take them home.
+
+### Gaming's Troubles
+
+How much!? ...Alright fine, I'll bite the bullet on the service charge, but I'm not paying extra for a few wet wipes, okay? Matter of fact, I brought my own, so you can keep 'em!
+
+### Favorite Food
+
+I was a little monster when I was a kid. I'd get into trouble, then refuse to apologize, and my exasperated mom would say "I wish I'd given birth to a chunk of char siu instead of you!" Now every time I eat char siu, it makes me think of her...
+
+### Least Favorite Food
+
+Everyone says I have weird taste... Call me crazy, but all I want is for my fowl to taste like fowl, and my fish to taste like fish.
+
+### Receiving a Gift: I
+
+Dang, are you secretly a god? Because this tastes like heaven! No joke. I'm calling you "kitchen god" from now on.
+
+### Receiving a Gift: II
+
+You made this yourself? Wow. You're too good to me! Seriously, you are an amazing cook.
+
+### Receiving a Gift: III
+
+I'm a big believer in owning your mistakes and taking criticism on the chin... So next time I upset you, there's no need to go to all this trouble — you can just smack me in the face instead!
+
+### Birthday
+
+So a little birdie told me that it's your birthday today... When were you planning on telling me? Tsk... Anyway, I went ahead and made a reservation at Xinyue Kiosk. Eight dishes, a soup, and as much rice as you can eat, with Longevity Buns and Tong Sui for dessert. Plus I invited all your friends along. Uh, and I also put together a little birthday wushou dance for you — nothing extravagant, just a bit of fun really — but yeah, I hope you like it!
+
+### Feelings About Ascension: Intro
+
+Whoa, is this all for me? Dang, how much did this put you out? You shouldn't have...
+
+### Feelings About Ascension: Building Up
+
+Oh man, you're trusting me with a lot of power here. But I promise you, it's in good hands. I'm gonna ramp up my kung fu training and hustle hard, watch me!
+
+### Feelings About Ascension: Climax
+
+If I can guard shipments, I can guard people. Since you seem to trust me, how 'bout I be your bodyguard from now on?
+
+### Feelings About Ascension: Conclusion
+
+Thanks for doing the lion's share of the work to get me this far. I know better than to promise I can guarantee your safety in your future travels, but you'd better believe I'll bust a gut trying to help you achieve your dreams!
+
+### Elemental Skill: I
+
+Sorry, pal.
+
+### Elemental Skill: II
+
+Alley-oop!
+
+### Elemental Skill: III
+
+Congratulations!
+
+### Elemental Burst: I
+
+Many happy returns.
+
+### Elemental Burst: II
+
+Hop to it, Man Chai!
+
+### Elemental Burst: III
+
+Mighty mythical beast!
+
+### Opening Treasure Chest: I
+
+Oh, cool! This stuff looks dope!
+
+### Opening Treasure Chest: II
+
+Where do you want this stuff delivered to, Boss?
+
+### Opening Treasure Chest: III
+
+Good things come to those who wait!
+
+### Low HP: I
+
+No pain, no gain...
+
+### Low HP: II
+
+The feeling is mutual...
+
+### Low HP: III
+
+Still breathing!
+
+### Ally at Low HP: I
+
+Take five, I've got this!
+
+### Ally at Low HP: II
+
+Hey, don't push yourself!
+
+### Fallen: I
+
+I gotta... run...
+
+### Fallen: II
+
+Show's over, folks...
+
+### Fallen: III
+
+Forget about me, just go...
+
+### Heavy Hit Taken: I
+
+Hey, what gives!?
+
+### Heavy Hit Taken: II
+
+Stop it now!
+
+### Joining Party: I
+
+Ready to rumble!
+
+### Joining Party: II
+
+Got it! I'll start my warm-up routine!
+
+### Joining Party: III
+
+Is there time to sneak in some dim sum first?
+
+### About Lan Yan
+
+Being friends with Lan Yan is a food-lover's dream! You've gotta ask her to take you into the mountains to try the local dishes. There's even a place where you can bring your own ingredients. Just tell her Gaming told you about it, and she'll know the one. Oh, the mountain roads are hard to navigate, so you'll definitely need her to lead the way. Don't want you getting lost out there! Anyway, eat as much as you want, okay? The boss is my friend, so just put it on my tab and call it a day!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+老板你好呀，我是和记厅的镖师，叫我嘉明就行，要运货吗你？请坐请坐，饮杯茶先，我帮你打包好货就可以排期出发咯！哦！如果是找我舞兽的话即刻可以出发！「威水舞兽队」我就是话事人，嘿嘿，失礼失礼。
+
+### 闲聊·舞兽
+
+咚咚锵，睁眼！咚咚咚咚锵，洗须！唔…不好不好，还要练多点先。
+
+### 闲聊·走镖
+
+水路山路陆路，走镖时什么路没走过啊我？放心啦，金牌镖师不是浪得虚名的。
+
+### 闲聊·早茶
+
+一盅两件，再加个白灼时蔬和生滚靓粥，嗯…正啊…
+
+### 下雨的时候…
+
+下雨啦！收衫啦！
+
+### 打雷的时候…
+
+嗱嗱嗱，你听，坏人发誓天打雷劈啊！
+
+### 下雪的时候…
+
+啊——咦？为什么下不到我嘴里的？
+
+### 阳光很好…
+
+晒点太阳好啊，去去湿气。
+
+### 在沙漠的时候…
+
+这种地方买水喝肯定很贵吧？好在我自己带水了。
+
+### 早上好…
+
+我练完功了，准备去喝早茶，一起？
+
+### 中午好…
+
+虽然叫早茶，其实中午也能喝的，怎么说，走？
+
+### 晚上好…
+
+我定到一间菜馆，夜晚才开门，听说只做熟客生意的，来都来了，不吃就走宝了，出发？
+
+### 晚安…
+
+要睡了吗？饿不饿啊？不如吃个宵夜先？
+
+### 关于嘉明自己·老家
+
+翘英庄，去过吗？我老家。我们那里茶叶很出名的，有「松萝仙芽」，还有「游韵单丛」。这样这样，择日不如撞日，我这里有盒靓单丛，我现在带去茶楼，给你泡一壶，走走走，我埋单！
+
+### 关于嘉明自己·今时今日
+
+我嘉明今时今日，有口饭吃，还能有时间精力钻研舞兽戏，真的要多谢周围好多人的理解和提携。将心比心，我肯定会打醒十二分精神做好这份工。还有余力，就多跑跑腿啊、请人饮茶啊，又不会少块肉咯，哈哈。
+
+### 关于我们·赏脸
+
+不用运货的时候我一般在璃月港路边表演舞兽戏，赏个脸来看看？不要钱的不要钱的，只要街坊朋友看得开心我就很满足啦。
+
+### 关于我们·得闲饮茶
+
+记住啊，出门靠朋友，有什么困难不要硬顶喔你，需要我帮手随时出声！欸，大吉利是！最好就别听到你有难的消息啦，出门在外，最紧要是平平安安顺顺利利，我更希望听到你约我得闲饮茶咯。
+
+### 关于「神之眼」…
+
+武侠小说有写，打通任督二脉之后就会变成武林高手，拿到神之眼的瞬间就是这种感觉…哈哈，讲笑而已！我不是什么武林高手，不过是多了点精力，那就顺手帮衬下街坊咯。不过讲开又讲，你没有神之眼都这么厉害，有了还得了？
+
+### 有什么想要分享…
+
+「文仔」好调皮的，本来咧，我想他文静一点才起的这个名，呃…如你所见，好像没什么用哈哈。不过也好，生生猛猛才能将舞兽戏做得风生水起嘛。看着文仔，我也慢慢能模仿出猊兽的神态动作，一戴上兽首，感觉就来了喂，吼！
+
+### 感兴趣的见闻…
+
+有很多花花草草，或者树皮树枝，晒干后用来煲水喝，生津解渴，清热降燥，好有益的！我阿婆阿婶都跟我讲过，吃煎炸食物前后，一定要记得喝这种「凉茶」，清清体内的热气喔。
+
+### 关于香菱…
+
+香菱大师傅有好多拿手菜，我最喜欢那味水煮黑背鲈，虽然每次都用水涮了两次先吃，还是辣得我「嘶哈嘶哈」，哈哈哈，不愧是万民堂的生招牌，用料真足火候真猛！下次我还吃！
+
+### 关于行秋…
+
+飞云商会是镖局的老主顾了，印象中一直都是他们的大少爷在打理生意上的事情，有次行秋少爷难得主动问起镖物的事，我就一五一十地将飞云商会最近货物的路线和收发日子告诉他，结果他问的是能不能透露一下万文集舍最新那批货什么时候到，哈哈哈。
+
+### 关于重云…
+
+听说那位仁兄有「纯阳之体」，按照我们那边的说法，他体内可能虚火很旺啊，应该多喝点凉茶喔他。
+
+### 关于刻晴…
+
+多得玉衡星大人，她带头整治完遗珑埠跟璃月港之间的运输路段之后，盗贼都不敢那么猖獗了。我会不会失业？哈哈，那又未必，就算不用跟贼人打架了，担担抬抬这种粗重工夫总要有人干的嘛。
+
+### 关于白术…
+
+走镖也好舞兽也好，跌打损伤都是家常便饭。好在有白大夫，他配的药真是舟车劳顿、居家旅行的必备良药，镖局的兄弟们都托我来璃月港的时候帮手带点回去的。
+
+### 关于七七…
+
+七七小妹妹非常热心，见我每次来不卜庐都抓很多药，觉得我是因为身体僵硬才会摔跤受伤，所以教我做了柔软体操，哈哈，好简单的，你也试试？来，一二七七…二二七七…
+
+### 关于云堇…
+
+云堇大师是我榜样啊！不管内行外行，听过她的曲的都说好。真是不得了，什么时候「威水队」能做到「云翰社」一半的影响力…我做梦都会笑醒！
+
+### 关于辛焱…
+
+辛焱的演唱实在是太有感染力了！文仔听的时候也一直摇头晃脑的，喜欢得不得了！有机会的话真想请她一起办一个「火爆摇滚舞兽会」，你见识多，你觉得有没有搞头？
+
+### 关于闲云…
+
+闲云姨很关照我，见我的兽首磨损了，马上说要做十个八个比我人还高的兽首给我，我讲到口水都干了，她才同意在我原来这个上改良…现在我这个兽首，又威武又轻便，兽披随时随地都能飘起来，就像有仙风托住一样！我超喜欢！
+
+### 关于钟离…
+
+我猜那位钟离先生一定是位出身富贵的文人雅士。不管我运货到茶馆还是戏台，都能撞见他在喝茶听书，一看就懂很多的样子。哇，有次无意中听到他跟别人讲茶，当时我就觉得他跟我老爸肯定可以讲通宵了…
+
+### 关于夏洛蒂…
+
+哦，那位记者小姐啊嘛！我知道她！遗珑埠的枫丹人都喜欢看蒸汽鸟报，我也经常蹭着看看，有很多不得了的新闻都是她写的喔！哦！我记得你还上过头条啊！是不是？
+
+### 想要了解嘉明·其一
+
+镖师里最会舞兽的，舞兽师傅里运过最多镖的，怎么样？这样介绍不知道能不能让你记住我咧？
+
+### 想要了解嘉明·其二
+
+是不是三脚猫功夫看基本功就知道了，扎马、踢腿、劈叉、弹跳、翻滚…连这些都半桶水，轻则从高桩上跌下来，躺他个一头半个月。重则运镖打不过人，失镖丧命…吓不吓人？吓人就对了嘛，当初我就是这样说服镖局的兄弟每日同我一起练功的，哈哈哈。
+
+### 想要了解嘉明·其三
+
+兽首兽披啊、锣鼓钹镲啊，练得多了旧得也快，要勤力点养护，这里面得花不少钱呢。再加上平时请人吃饭喝茶、过时过节送送礼、兄弟们周转不灵借点钱…七七八八加起来，一个月走镖赚的钱就没几多剩了…
+
+### 想要了解嘉明·其四
+
+老爸一直想我跟他学做生意，不是没想过啊我，正是因为想清楚了才离家出走的。一来要证明给他看，我舞兽不是三分钟热度，一定会出人头地！二来嘛，也可以跟老爸少打点仗…两父子哪有隔夜仇的，我不是恨他，只是他每次开口火药味都很重，我避得到就避咯。
+
+### 想要了解嘉明·其五
+
+嗱，这里，前两日练踢腿，淤了一片…这个包，上个月练翻滚的时候撞的，已经快好咯~这个疤就厉害了，是我第一次上高桩时摔下来弄的，那时流了好多好多血，差点以为我的舞兽生涯刚刚开始就要结束了…不过好彩，这么多年来都是有惊无险，我还能继续…嗯，一定要继续。
+
+### 嘉明的爱好…
+
+早茶不只有茶啦，还有各种甜点咸点，有即点即上的也有现点现做的，每次喝完早茶我都不用吃午饭了。你得闲就叫我，我请你饮茶！想吃什么就点什么，没所谓的吃不完打包回去嘛。
+
+### 嘉明的烦恼…
+
+什么？！茶位费就算了，擦手帕都要另外收钱的？好在我自己有带，退掉退掉。
+
+### 喜欢的食物…
+
+小时候很顽皮的我，还记得每次闯祸后我不听教，我老妈都会气得骂一句「生块叉烧好过生你」，现在每次吃叉烧，还挺想老妈的…
+
+### 讨厌的食物…
+
+他们总说我口味刁钻，我的要求很简单啊——禽肉有禽肉味，鱼肉有鱼肉味，很过分吗？
+
+### 收到赠礼·其一
+
+这个味道——难道阁下的真实身份就是「神」？没说错吧？「厨神」阁下。
+
+### 收到赠礼·其二
+
+你亲手做的？有心了有心了！这样的烹饪水平，摆到明是高手啦！
+
+### 收到赠礼·其三
+
+错就要认，打就要立正！如果我哪里行差踏错了不如你还是直接打我一顿吧！
+
+### 生日…
+
+不是吧你，生日这么好的日子都不提前告诉我？好在我已经在新月轩订好一桌子菜啦，八菜一汤白饭任装，还有寿包和糖水，叫多点朋友一起来贺一贺呀。另外咧，我还准备了一小段祝寿舞兽戏，小小意思，不成敬意，希望你钟意啦。
+
+### 突破的感受·起
+
+哇，这些都给我了？这么大手笔，怎么好意思啊？
+
+### 突破的感受·承
+
+哈哈，真看得起我啊，那我不练个砂煲那么大的拳头有点对不住你喔。
+
+### 突破的感受·转
+
+走镖也是镖，保镖也是镖，信得过我的话，以后我来当你保镖咯？
+
+### 突破的感受·合
+
+多谢你为我的兽首点睛，接下来的旅途，不敢说包你顺风顺水，但我一定会落力豁出去，帮你采青！
+
+### 元素战技·其一
+
+对不住咯。
+
+### 元素战技·其二
+
+采青先！
+
+### 元素战技·其三
+
+中头奖啦！
+
+### 元素爆发·其一
+
+鸿运当头。
+
+### 元素爆发·其二
+
+文仔，到你出马！
+
+### 元素爆发·其三
+
+威水舞兽！
+
+### 打开宝箱·其一
+
+哇，好靓喔这批货！
+
+### 打开宝箱·其二
+
+这趟镖要运去哪呢老板？
+
+### 打开宝箱·其三
+
+淡淡定定，有财进。
+
+### 生命值低·其一
+
+小小痛楚等于激励…
+
+### 生命值低·其二
+
+呵，小意思啦…
+
+### 生命值低·其三
+
+顶得住！继续！
+
+### 同伴生命值低·其一
+
+歇一阵先，包在我身上！
+
+### 同伴生命值低·其二
+
+喂！不要硬顶啊！
+
+### 倒下·其一
+
+呵，我走先啦…
+
+### 倒下·其二
+
+还没「采青」呢…
+
+### 倒下·其三
+
+快点走…不用理我…
+
+### 重受击·其一
+
+不是吧你！
+
+### 重受击·其二
+
+停手！
+
+### 加入队伍·其一
+
+走镖去喽。
+
+### 加入队伍·其二
+
+收到，开桩！
+
+### 加入队伍·其三
+
+急吗？不急喝个早茶先？
+
+### 关于蓝砚…
+
+认识她，你有食神啦！你让蓝砚带你去山里吃农家菜，点名要去可以自带食材加工的农庄，你说是嘉明指定那家，她就知道了。那条山路特别难走，没有她这样有经验的本地人带路，我怕你走到天黑都找不到。你们尽管去吃，报我名字就行，老板认识我的，吃完入我数！

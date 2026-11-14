@@ -15,12 +15,15 @@
 # part_source_ids: 73038
 # previous_quests: quest_wq_10079
 # next_quests: 
-# related_quests: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079
-# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082
+# related_quests: quest_wq_10073,quest_wq_10076,quest_wq_10079
+# quest_chain: quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082
 # quest_series: Aranyaka
 # version_source: wiki_release_category
 
 # quest_series_ru: Араньяка
+# game_source_ids: 73038
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 100
 
 ## RU
 
@@ -30,13 +33,13 @@
 
 #### Поговорите с Араной
 
-**Арана:** Ашваттха... Странно. Откуда она здесь? Золотой / Золотая нара и белая леталка... Арана вас не знает, но вы кажетесь знакомыми. Кто вы?
+**Арана:** Ашваттха... Странно. Откуда она здесь? Золотой нара и белая леталка... Арана вас не знает, но вы кажетесь знакомыми. Кто вы? / Ашваттха... Странно. Откуда она здесь? Золотая нара и белая леталка... Арана вас не знает, но вы кажетесь знакомыми. Кто вы?
 
 **Паймон:** Арана действительно всё забыла...
 
-**Паймон:** Паймон зовут Паймон, а его / её - Путешественник.
+**Паймон:** Паймон зовут Паймон, а его - Путешественник. / Паймон зовут Паймон, а её - Путешественник.
 
-Мы друзья Араны.
+- **Путешественник:** Мы друзья Араны.
 
 **Арана:** Я вам верю. Вы не похожи на злодеев...
 
@@ -50,11 +53,17 @@
 
 **Арана:** Прошу, передайте биджу моей подруге, ей нужна помощь.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я понимаю.
+
+**Паймон:** Арана, пойдём с нами! Твоя подруга наверняка захочет снова тебя увидеть!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Пойдём с нами.
 
-**Паймон:** Арана, пойдём с нами! Твоя подруга наверняка захочет снова тебя увидеть!
+##### Общее продолжение
 
 **Арана:** ...
 
@@ -76,7 +85,7 @@
 
 **Паймон:** Ага. А теперь, Путешественник...
 
-(Использовать биджу.)
+- **Путешественник:** (Использовать биджу.)
 
 #### Поговорите с Раной
 
@@ -84,15 +93,21 @@
 
 **Паймон:** Проснулась?..
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты меня слышишь?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Похоже, всё в порядке.
+
+##### Общее продолжение
 
 **Рана:** Ого! Я опять заснула? Где это мы? Путешественник, Паймон, как хорошо, что с вами всё в порядке! Я переживала, что Увядание вам навредит. А ещё...
 
 **Рана:** Арана? Это ты?! Арана...
 
-**Арана:** Приветствую тебя, друг / подруга нара.
+**Арана:** Приветствую тебя, друг нара. / Приветствую тебя, подруга нара.
 
 **Рана:** Я так долго тебя ждала... Мне снился очень длинный сон, в котором я встретила тебя...
 
@@ -120,7 +135,7 @@
 
 **Паймон:** Эм... Рана, не обижайся на Арану. Дело в том, что...
 
-*«...Когда мы тебя искали, встретили Арану. Она сказала...»*
+«...Когда мы тебя искали, встретили Арану. Она сказала...»
 
 Грибы леса Мотийимы, бой у Исхода дождя. Нутро голема руин, песня среди роз. Аранары, играющие братьев и сестёр, веселье Праздника Утсава...
 Вы не спеша рассказываете Ране и Аране о днях, проведённых с аранарами.
@@ -131,11 +146,17 @@
 
 **Рана:** Спасибо... Путешественник, Паймон... Вы столько всего пережили, чтобы мне помочь...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Пожалуйста. Мы тоже почерпнули много нового из этого приключения.
+
+**Паймон:** Точно! Кого тебе нужно благодарить, так это Арану и Араму...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Поблагодари лучше Арану и Араму.
 
-**Паймон:** Точно! Кого тебе нужно благодарить, так это Арану и Араму...
+##### Общее продолжение
 
 **Рана:** Спасибо... Прости меня, Арана...
 
@@ -159,15 +180,21 @@
 
 **Паймон:** Ой, Паймон забыла, что вопрос со злодеем так и не был решён...
 
-У меня есть кое-какие соображения на этот счёт.
+- **Путешественник:** У меня есть кое-какие соображения на этот счёт.
 
 **Паймон:** Что? Кто? Почему Паймон ничего об этом не знает?
 
 **Рана:** Правда?! Кто это сделал? Хочу устроить им хорошую взбучку напоследок!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я могу помочь.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Пока у меня нет веских доказательств...
+
+##### Общее продолжение
 
 **Рана:** Вот как...
 
@@ -183,7 +210,7 @@
 
 **Паймон:** Ерунда, Рана! Но если ты уйдёшь, Иотам, Кавус и Судабе будут сильно тосковать...
 
-**Рана:** Они сильнее, чем кажутся. К тому же они знакомы с путешественником / путешественницей. Да и кто сказал, что я не вернусь?!
+**Рана:** Они сильнее, чем кажутся. К тому же они знакомы с путешественником. Да и кто сказал, что я не вернусь?! / Они сильнее, чем кажутся. К тому же они знакомы с путешественницей. Да и кто сказал, что я не вернусь?!
 
 **Рана:** Я обязательно вернусь, расскажу им уйму историй и познакомлю с Араной так же, как познакомила их с тобой, Путешественник.
 
@@ -201,11 +228,11 @@
 
 **Паймон:** Хм, как странно...
 
-*Из груди Раны исходит тёплый, прозрачный, но в то же время яркий свет, похожий на сердцебиение.
+Из груди Раны исходит тёплый, прозрачный, но в то же время яркий свет, похожий на сердцебиение.
 Она пытается прикрыть и прощупать его руками, но свет словно нарочно вонзился ей в ладони.
-Когда этот свет погас, в её руках появилось изящное украшение.*
+Когда этот свет погас, в её руках появилось изящное украшение.
 
-Глаз Бога.
+- **Путешественник:** Глаз Бога.
 
 **Паймон:** Паймон впервые видит такое...
 
@@ -217,15 +244,25 @@
 
 **Рана:** Спасибо, Паймон и Арана. Спасибо тебе, Путешественник.
 
-**Арана:** Спасибо вам, Паймон и золотой / золотая нара Путешественник. Я потеряла память, но знаю, что вы хорошие нары. Вы помогли мне встретиться с нарой Раной. Я очень рада.
+**Арана:** Спасибо вам, Паймон и золотой нара Путешественник. Я потеряла память, но знаю, что вы хорошие нары. Вы помогли мне встретиться с нарой Раной. Я очень рада. / Спасибо вам, Паймон и золотая нара Путешественник. Я потеряла память, но знаю, что вы хорошие нары. Вы помогли мне встретиться с нарой Раной. Я очень рада.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Были рады знакомству.
 
-- **Путешественник:** Пока.
+##### Вариант ответа 1
 
 - **Путешественник:** Береги себя.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Надеюсь, твоё путешествие будет очень насыщенным.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Пока.
+
+##### Общее продолжение
 
 **Паймон:** Рана, Арана... Паймон желает вам доброго пути. Не забывайте нас!
 
@@ -247,9 +284,9 @@ Finally, you claimed the Bija. It's time to return to Rana.
 
 **Paimon:** So Arana really did forget everything...
 
-**Paimon:** Paimon's name is Paimon, and he / she is Traveler.
+**Paimon:** Paimon's name is Paimon, and he is Traveler. / Paimon's name is Paimon, and she is Traveler.
 
-We're your friends, Arana.
+- **Traveler:** We're your friends, Arana.
 
 **Arana:** Mm. Arana believes you. You smell kind...
 
@@ -263,11 +300,17 @@ We're your friends, Arana.
 
 **Arana:** Please take the Bija to Arana's friend in need.
 
+##### Response branch 1
+
 - **Traveler:** We will.
+
+**Paimon:** Arana, come with us! Your friend must want to see you again!
+
+##### Response branch 2
 
 - **Traveler:** Let's head off together.
 
-**Paimon:** Arana, come with us! Your friend must want to see you again!
+##### Shared continuation
 
 **Arana:** ...
 
@@ -289,7 +332,7 @@ We're your friends, Arana.
 
 **Paimon:** Yes. Now, Traveler...
 
-(Use the Bija.)
+- **Traveler:** (Use the Bija.)
 
 #### Talk to Rana
 
@@ -297,9 +340,15 @@ We're your friends, Arana.
 
 **Paimon:** Are you awake...?
 
+##### Response branch 1
+
 - **Traveler:** Can you hear me?
 
+##### Response branch 2
+
 - **Traveler:** She looks fine.
+
+##### Shared continuation
 
 **Rana:** Oh, did I fall asleep again... Where am I? Hey, Traveler, Paimon, I'm so glad you're alright! I was worried you'd be affected by The Withering. And...
 
@@ -333,7 +382,7 @@ We're your friends, Arana.
 
 **Paimon:** Yeah... Rana, it's not Arana's fault. Here's what happened...
 
-*"We met Arana while looking for you. Arana said..."*
+"We met Arana while looking for you. Arana said..."
 
 The Fungi in Mawtiyima Forest, the fight at the Rain's End, the inside of the Ruin Golem, the song amidst the roses. Aranara acting as brothers and sisters, the joyful scenes of Festival Utsava...
 Gently, you tell Rana and Arana about all that you encountered together with the Aranara.
@@ -344,11 +393,17 @@ Gently, you tell Rana and Arana about all that you encountered together with the
 
 **Rana:** Thank you, Traveler, Paimon... You went through so much trouble to help me...
 
+##### Response branch 1
+
 - **Traveler:** Don't mention it. This was a most rewarding adventure for us, too.
+
+**Paimon:** Yeah! Besides, Arana and Arama are the ones you should be thanking...
+
+##### Response branch 2
 
 - **Traveler:** You should thank Arana and Arama instead.
 
-**Paimon:** Yeah! Besides, Arana and Arama are the ones you should be thanking...
+##### Shared continuation
 
 **Rana:** Thank you, and sorry, Arana...
 
@@ -372,15 +427,21 @@ Gently, you tell Rana and Arana about all that you encountered together with the
 
 **Paimon:** Gah! Paimon almost forgot that we still haven't solved our bad guy problem...
 
-I already have some clues about who we're up against.
+- **Traveler:** I already have some clues about who we're up against.
 
 **Paimon:** What? Who? Why didn't Paimon know anything about that?
 
 **Rana:** Really? Who? Come, I must give them a few hard knocks to go!
 
+##### Response branch 1
+
 - **Traveler:** Leave this to me.
 
+##### Response branch 2
+
 - **Traveler:** There's no hard evidence yet.
+
+##### Shared continuation
 
 **Rana:** Right...
 
@@ -414,11 +475,11 @@ I already have some clues about who we're up against.
 
 **Paimon:** Hey, look! That's...
 
-*From Rana's chest, glows a light with the warmth of heartbeat, faint yet bright.
-She tries to cover and touch the light with her hands, but the light source burrows into her hands as if consciously.
-When the light fades out, a delicate ornament appears in her hand.*
+From Rana's chest, glows a light with the warmth of heartbeat, faint yet bright.
+She tries to cover and touch the light with her hands, but the light source burrows into her hands as if consciously. 
+When the light fades out, a delicate ornament appears in her hand.
 
-A Vision.
+- **Traveler:** A Vision.
 
 **Paimon:** This is the first time Paimon has seen something like this happen with her own eyes...
 
@@ -432,13 +493,23 @@ A Vision.
 
 **Arana:** Thank you, Golden Nara Traveler and Paimon. Arana has lost those memories, but Arana knows you are good Nara. You helped Arana meet Narana. Arana is so happy.
 
+##### Response branch 1
+
 - **Traveler:** It's been a pleasure to know you all.
 
-- **Traveler:** Time to bid farewell.
+##### Response branch 1
 
 - **Traveler:** Take care.
 
+##### Response branch 2
+
 - **Traveler:** I wish you both a most rewarding journey.
+
+##### Response branch 2
+
+- **Traveler:** Time to bid farewell.
+
+##### Shared continuation
 
 **Paimon:** Rana and Arana... Paimon hopes you enjoy your journey. And that you won't forget about us!
 
@@ -460,9 +531,9 @@ A Vision.
 
 **派蒙:** 兰拉娜，真的忘记了…
 
-**派蒙:** 我叫派蒙，他 / 她是旅行者。
+**派蒙:** 我叫派蒙，他是旅行者。 / 我叫派蒙，她是旅行者。
 
-我们是兰拉娜的朋友。
+- **旅行者:** 我们是兰拉娜的朋友。
 
 **兰拉娜:** 嗯。兰拉娜相信你们。你们有善良的气味…
 
@@ -476,11 +547,17 @@ A Vision.
 
 **兰拉娜:** 拜托你们，把惟耶之实，带给兰拉娜需要帮助的朋友。
 
+##### 对话分支 1
+
 - **旅行者:** 我明白了。
+
+**派蒙:** 兰拉娜，我们一起去吧！你的朋友，一定也想再见到你！
+
+##### 对话分支 2
 
 - **旅行者:** 我们一起去吧。
 
-**派蒙:** 兰拉娜，我们一起去吧！你的朋友，一定也想再见到你！
+##### 共同后续
 
 **兰拉娜:** ……
 
@@ -502,7 +579,7 @@ A Vision.
 
 **派蒙:** 嗯。那么，旅行者…
 
-（使用惟耶之实。）
+- **旅行者:** （使用惟耶之实。）
 
 #### 与拉娜对话
 
@@ -510,9 +587,15 @@ A Vision.
 
 **派蒙:** 醒过来了吗…？
 
+##### 对话分支 1
+
 - **旅行者:** 听得到我说话吗？
 
+##### 对话分支 2
+
 - **旅行者:** 看上去没有大碍。
+
+##### 共同后续
 
 **拉娜:** 咦？我又睡着了吗…这里是？旅行者、派蒙，你们没事真是太好了！我好担心，你们有没有受到死域的伤害。还有…
 
@@ -546,7 +629,7 @@ A Vision.
 
 **派蒙:** 嗯…拉娜，你不要怪兰拉娜。事情是这样的…
 
-*「…在寻找你的时候，我们遇到了兰拉娜。兰拉娜说…」*
+「…在寻找你的时候，我们遇到了兰拉娜。兰拉娜说…」
 
 无郁稠林的菌冠、雨的尽头的战斗。遗迹巨像的内部，蔷薇中的小曲。扮演兄妹的兰那罗，无忧节的欢快景象…
 慢慢地将这些时日里，与兰那罗们一起的故事，告诉了拉娜与兰拉娜。
@@ -557,11 +640,17 @@ A Vision.
 
 **拉娜:** 谢谢你们…旅行者、派蒙…为了帮助我，竟然经历了这么多辛苦的事情…
 
+##### 对话分支 1
+
 - **旅行者:** 没关系，我们也收获了许多。
+
+**派蒙:** 嗯，是呀！而且，拉娜更应该感谢兰拉娜和兰罗摩才对…
+
+##### 对话分支 2
 
 - **旅行者:** 你应该感谢兰拉娜和兰罗摩。
 
-**派蒙:** 嗯，是呀！而且，拉娜更应该感谢兰拉娜和兰罗摩才对…
+##### 共同后续
 
 **拉娜:** 谢谢…对不起，兰拉娜…
 
@@ -585,15 +674,21 @@ A Vision.
 
 **派蒙:** 我都快忘了，还有坏人的问题没解决…
 
-坏人的身份，我已经有眉目了。
+- **旅行者:** 坏人的身份，我已经有眉目了。
 
 **派蒙:** 什么？是谁？呜哇，我怎么不知道…
 
 **拉娜:** 是喔！是谁干的？离开之前，我要狠狠地揍他们一顿！
 
+##### 对话分支 1
+
 - **旅行者:** 交给我吧。
 
+##### 对话分支 2
+
 - **旅行者:** 现在还没有实际根据…
+
+##### 共同后续
 
 **拉娜:** 是喔…
 
@@ -609,7 +704,7 @@ A Vision.
 
 **派蒙:** 没关系啦！不过，「拉娜姐姐」要走，优丹、卡乌斯和素达蓓，会很难过吧…
 
-**拉娜:** 他们其实很坚强哦。而且，他们也认识了旅行者哥哥 / 姐姐。再说，我又不是不回来了！
+**拉娜:** 他们其实很坚强哦。而且，他们也认识了旅行者哥哥。再说，我又不是不回来了！ / 他们其实很坚强哦。而且，他们也认识了旅行者姐姐。再说，我又不是不回来了！
 
 **拉娜:** 我一定会回来，跟他们说好多好多故事，把兰拉娜介绍给他们认识，就像我把旅行者介绍给他们一样。
 
@@ -627,11 +722,11 @@ A Vision.
 
 **派蒙:** 咦，这是…
 
-*从拉娜的胸口，散发出如同心跳般温暖、细微而明亮的光芒。
+从拉娜的胸口，散发出如同心跳般温暖、细微而明亮的光芒。
 她试着用手遮挡、试探，光源却如同有意识一般钻进了她的手中。
-光芒慢慢褪去后，出现在她手中的是一枚精致的饰品。*
+光芒慢慢褪去后，出现在她手中的是一枚精致的饰品。
 
-神之眼。
+- **旅行者:** 神之眼。
 
 **派蒙:** 这种情况，还是第一次亲眼见到…
 
@@ -645,13 +740,23 @@ A Vision.
 
 **兰拉娜:** 谢谢，金色的那菈旅行者、派蒙。兰拉娜不记得了，但你们一定都很好。你们让兰拉娜认识了那菈拉娜，很开心。
 
+##### 对话分支 1
+
 - **旅行者:** 很高兴认识你们。
 
-- **旅行者:** 再见。
+##### 对话分支 1
 
 - **旅行者:** 要注意安全。
 
+##### 对话分支 2
+
 - **旅行者:** 希望你在旅途中，收获许多。
+
+##### 对话分支 2
+
+- **旅行者:** 再见。
+
+##### 共同后续
 
 **派蒙:** 拉娜，兰拉娜…祝你们路途顺利。而且，一定不要忘记我们！
 

@@ -424,3 +424,872 @@ As to whether Illuga believed his words, or when he might gain a "gemstone" of h
 就着水杯和夜晚的月光，菲林斯难得地讲了「月之轮」的真正由来——就在一个平平无奇的晚上，它突兀地出现菲林斯的陈列室里。起初他甚至与那天的叶洛亚一样，认为那是一颗被自己忘记的宝石。而实际上，它应该是世界送给自己的最好礼物。
 「意外馈赠」，款式很配他的大衣，为他的力量与火焰创造了完美借口，还能在夕阳西下的时候拿来当话题说给同事听。
 至于叶洛亚信不信菲林斯的话，又会在什么时候得到属于自己的「宝石」…就请这位值得期待的年轻人慢慢琢磨吧。
+
+# voice_source_ids: 120000,120001,120002,120003,120004,120005,120006,120007,120008,120009,120010,120011,120012,120013,120014,120015,120016,120017,120018,120019,120020,120021,120022,120023,120024,120025,120026,120027,120028,120029,120030,120031,120032,120033,120034,120035,120036,120037,120038,120039,120040,120041,120042,120043,120044,120045,120046,120047,120048,120049,120050,120051,120052,120053,120054,120055,120056,120057,120058,120059,120060,120061,120062,120063,120064,120065,120066,120067,120068,120069
+
+## REPLICAS_RU
+
+### Привет...
+
+Здравствуйте, я Кирилл Чудомирович Флинс. Приветствуя важных гостей, считается хорошим тоном называть своё полное имя, но это, несомненно, заставляет вас задуматься, как же называть меня в повседневной жизни... В прошлом большинство обращалось ко мне Чудомирович, но для простоты вы можете называть меня просто Флинс, по фамилии.
+
+### Поболтаем: Терпение
+
+Давайте проявим немного терпения к многогранной и сложной природе человечества. Беспричинная жестокость отдельных людей не стоит нашего гнева.
+
+### Поболтаем: Дикая Охота
+
+Тот, кто желает заглянуть в Бездну, может просто прогуляться по Нод-Краю в туманную ночь. Дикая Охота непременно заберёт его во тьму.
+
+### Поболтаем: Призраки
+
+Не стоит так бояться призраков. Это всего лишь говорящие тени, которые без умолку болтают о своём прошлом.
+
+### Когда идёт дождь...
+
+Вас что-то беспокоит? Мой фонарь не погаснет под дождём. Не волнуйтесь.
+
+### Когда гремит гром...
+
+Послушайте. Первая симфония мира. Ни один инструмент не может воссоздать мощь и величие грома.
+
+### Когда идёт снег...
+
+Каждый снегопад - это зов Снежной, моей родины.
+
+### Когда дует сильный ветер...
+
+«Ветры пробуждаются, кружатся листья...»
+
+### В пустыне...
+
+В воздухе кружится жёлтый снег... Ха, так вот какая она, легендарная пустыня.
+
+### Доброе утро...
+
+Доброе утро. Солнце озаряет землю, и в Нод-Крае наступает новый день... Прошло много веков, но каждый день начинается так же, как и предыдущий.
+
+### Добрый день...
+
+Добрый день. Я лично не привык днём спать, но не позволяйте моим привычкам помешать вам.
+
+### Добрый вечер...
+
+Я предпочитаю быть активным ночью. Ведь предназначение фонаря - освещать тьму.
+
+### Спокойной ночи...
+
+Полночь - это время, когда я вхожу в свою стихию. Поскольку вы не готовы отправиться ко сну, а Луна ещё не заняла своё место на небе, позвольте рассказать вам несколько древних историй, чтобы скоротать время?
+
+### О Флинсе: Добродетели
+
+Благоразумие, скромность и верность. Это три основные добродетели Светоносцев, и я их высоко ценю.
+
+### О Флинсе: Ратник
+
+Каждое живое существо, будь то человек или альв, нуждается в идентичности. Это то, что помогает нам найти своё место в мире. Светоносцы клянутся поддерживать огонь гуманности в холодные, тёмные ночи, когда монстры бесчинствуют. Я сам придерживаюсь ночного образа жизни и могу внушить страх другим, менее доброжелательным ночным существам, поэтому роль ратника мне отлично подходит.
+
+### О нас: Совместная история
+
+Для меня большая честь наслаждаться обществом такого исключительного человека, как вы. Время уже позднее. Хотите, я освещу вам путь?
+
+### О нас: Альвы и люди
+
+Мы прошли вместе довольно долгий путь... Мне вспоминается время, когда альвы и люди свободно ходили по Снежной. Наши расы имеют много общего, и когда-то я полагал, что у нас были общие предки. Теперь я верю, что нас объединяет общий дух - дух, который рождает всё доброе и хорошее.
+
+### О Лунном колесе...
+
+Альвам не нужно Лунное колесо. У нас есть свои методы. Но дизайн мне очень нравится, он хорошо сочетается с моим чёрным пальто. К тому же это удобное прикрытие для моей силы... Я никогда не отказывался от инструментов, которые помогают мне лучше интегрироваться в родную страну.
+
+### Давай поделимся...
+
+Вы когда-нибудь спрашивали жителей Нод-Края, как они оказались здесь? Я спрашивал. Большинство из них выбрали это место не потому, что здесь комфортно жить, и не потому, что они грезили о жизни здесь. Нет, это скорее место, где уставшие путники могут найти кратковременное убежище от снежной бури. Вряд ли это место, где люди чувствуют себя как дома. Поэтому любой путешественник, остановившийся в Нод-Крае, обязательно покинет его, как только отдохнёт и восстановит силы.
+Следующая остановка в вашем путешествии, без сомнения, будет Снежная. Снежные равнины там изумительны. Желаю вам благополучного путешествия.
+
+### Интересные вещи...
+
+...Сгинувшая цивилизация глубоко под землёй в Инадзуме? А духи Токоё - последние свидетельства её обитателей? Как интересно. Если представится возможность, я обязательно хочу это увидеть.
+
+### О Лауме...
+
+Гиперборея, утраченный золотой рай... Вот что приходит мне на ум, когда я смотрю на неё. Её древний и благородный род является для неё таким же тяжёлым бременем, как и потрясающие рога, которые она носит на голове, тем не менее она с достоинством несёт это бремя. Я восхищаюсь её стойкостью и мужеством.
+
+### Об Иллуги...
+
+Светоносцы не обязаны до конца своих дней оставаться в этой организации, и многие из них действительно уходят вскоре после вступления. Только самые решительные остаются, и Иллуги - один из таких примеров. Обычно люди восхищаются теми, кто проявляет остроумие и хитрость, но для меня решительность - гораздо более ценное качество.
+
+### Об Айно...
+
+Должен признаться, что я не очень хорошо лажу с техникой. Именно это, а не разница в возрасте, является главным фактором, отдаляющим меня от Айно.
+
+### О Варке...
+
+Я не смогу посостязаться с господином Варкой, ни один меч в мире не может сравниться по остроте с северным ветром. Вы можете подумать, что упоминание одной из самых свирепых сил природы - это чистая гипербола, но я вам скажу - он настоящий рыцарь, таких как он в наши дни встретишь нечасто. Если у меня когда-нибудь будет возможность сразиться с ним, это будет верный знак того, что я выхожу на новый уровень.
+
+### О Нефер...
+
+У Нефер чутьё острое, как бритва, и с такой бритвой никто не хочет связываться. К счастью, я не имею привычки совать нос в чужие дела. Могу только надеяться, что она тоже.
+
+### О Ягоде...
+
+Ягода всегда появляется там, где её меньше всего ожидаешь. Сегодня её можно увидеть у кучи металлолома в мастерской крумкаке, а завтра - на балконе дома какой-нибудь богатой семьи в Нашгороде. Она быстро усваивает философию выживания... её учит сам Нод-Край.
+
+### О Царице...
+
+Хотя Нод-Край формально является частью Снежной, но мы не имеем привычки обращаться к ней «ваше величество Царица». ...Кто «мы»? Хе-хе... Конечно же, Светоносцы... А кто же ещё?
+
+### Узнать больше о Флинсе I
+
+Я всего лишь скромный ратник. Вы уже знаете моё имя, видели, где я служу, что ещё нужно знать? Вы надеялись услышать захватывающую, неизвестную историю из моей жизни? Боюсь, что такой истории нет. О моём опыте ратника особо нечего рассказывать. Проще говоря, я днём и ночью крепко держу свой фонарь, готовый встретить Дикую Охоту, когда бы она ни напала.
+
+### Узнать больше о Флинсе II
+
+Вы сами видели, что ни в одном уголке Нод-Края нет спасения от Дикой Охоты. Некоторые имеют оружие и навыки, чтобы защитить себя, но даже в этом случае не все Дикие Охоты одинаковы. Иногда, по непонятным причинам, появляются бесконечные орды монстров, и от них просто невозможно спастись, даже отражая их атаки. Я сам не раз попадал в такую ситуацию.
+Я прекрасно понимаю, что вы более опытный боец, чем большинство, но Дикая Охота - непростой и грозный противник, и я настоятельно рекомендую вам не преуменьшать её силу. Если вы когда-нибудь столкнётесь с ней, немедленно сообщите об этом ближайшему светоносцу - или, что ещё лучше, обратитесь ко мне.
+
+### Узнать больше о Флинсе III
+
+Вы меня удивляете. Вы опытный человек, переживший бесчисленные бури, но при этом сохранивший любознательность молодого искателя приключений.
+Ох... Хорошо, дайте подумать, какие ещё страницы в истории Флинса вы могли бы счесть достойными внимания?
+Хм... Есть ещё мой фонарь. Он отличается от стандартных фонарей светоносцев. Он со мной уже очень давно. Он уже очень долго сопровождает меня, и одного только веса его прошлого бывает достаточно, чтобы прогнать самые мрачные тени. Как сказал один человек, находящийся на грани смерти, свет этого фонаря вселяет больше страха, чем когда-либо могли вселить его некомпетентные коллеги.
+Это удовлетворит ваше любопытство на данный момент?
+
+### Узнать больше о Флинсе IV
+
+Практически каждый житель Нод-Края имеет сложное прошлое. Желания глубоко укоренились в душах людей - они всегда присутствуют и всегда проявляют себя. Каждую ночь, когда они бормочут во сне, беспокойство окутывает их разум, подобно тёмному туману, а воспоминания пробуждаются в артериях земли, растекаясь в разных направлениях. Современный Нод-Край - это место, где царит хаос. Но оно не всегда было таким.
+
+### Узнать больше о Флинсе V
+
+Прости, если с этого момента я откажусь от своих обычных манер. В этом мире осталось очень мало людей, которые знают о моём прошлом, и хотя ты в их числе, я надеюсь, что твоё отношение ко мне не изменится. Я столько лет притворялся человеком, что успел увлечься этой игрой и люблю наблюдать, как долго я могу поддерживать её.
+Давай оставим позади ветер и мороз, груды камней, мох и запах морской воды. Я накопил немного монет. Пришло время запастись припасами.
+
+### Хобби Флинса...
+
+Тебя интересуют старинные монеты или древние самоцветы? Они ценны не только своей стоимостью, но и тем, что с годами на них появляются следы и царапины, придающие им особый шарм... Как у хорошо выдержанного вина.
+
+### Беспокойство Флинса...
+
+Мой коллега из Пирамиды часто пишет мне, выражая заботу о моём благополучии. Он добрый пожилой человек, и я знаю, что он желает мне добра. Но там, где я живу, и так очень уютно. Мне не нужны советы по благоустройству дома, и уж тем более не нужно, чтобы он подарил мне кошку или собаку.
+
+### Любимая еда...
+
+Тебе доводилось видеть, как вода закипает на открытом огне? Как жаль!
+В Снежной есть алкогольный напиток под названием «Огненная вода». Если поджечь его, то можно увидеть, как пламя горит на его поверхности. Пьётся он довольно легко. Согревает до самих глубин. Может быть, когда-нибудь я угощу тебя «Огненной водой».
+
+### Нелюбимая еда...
+
+Учитывая, что мы теперь близкие знакомые, позволь поделиться с тобой своей грустью? Учитывая мою... уникальную ситуацию, блюда, которые очень нравятся другим людям, мне лично кажутся довольно пресными. ...О, хочу сразу прояснить, я, как и прежде наслаждаюсь временем, которое мы с тобой проводим за столом.
+
+### Подарок I
+
+Мм... Исключительный подарок. Впрочем, как и ожидалось от тебя.
+
+### Подарок II
+
+Да, очень вкусно.
+
+### Подарок III
+
+Э-э... В интересах нашей дружбы я бы предпочёл оставить свои мысли при себе.
+
+### День рождения...
+
+Те, кто любят тебя, будут праздновать твоё появление на свет - устроят пиршество с песнями и поздравлениями. Когда ты уйдёшь из жизни, те, кто будут скучать по тебе, будут скорбеть - организуют похороны и зажгут фонари. В жизни и после смерти всегда найдутся те, кого трогает твоё существование. А потому, пока твоя душа полна жизни, воспользуйся шансом встретиться со своими близкими и насладись радостью, присущей человеку, - ты это заслуживаешь. ...Э-э, прости? Ты хочешь, чтобы я... был твоей свечой на торте?
+
+### Чувство возвышения: Начало
+
+Что это... жест поддержки? Э-э, я вам искренне благодарен. Пусть таких жестов будет как можно больше.
+
+### Чувство возвышения: Нарастание
+
+Похоже, в последнее время вы проявляете большой интерес к моему обучению. Я надеюсь, что темпы моего развития вас устраивают.
+
+### Чувство возвышения: Кульминация
+
+Каждый воин, стремящийся к совершенствованию, должен не только оттачивать навыки, но и тщательно продумывать тактику. Исходя из моего предыдущего боевого опыта, я отдаю предпочтение оружию и стратегиям, позволяющим уничтожать врагов массово. Именно поэтому я выбрал копьё.
+
+### Чувство возвышения: Окончание
+
+Хотя мы никогда раньше не углублялись в эту тему, но я уверен, что ты разделяешь моё мнение. Истинное искусство войны заключается в сдерживании, а не в боевых действиях... В противном случае всё становится слишком просто.
+
+### Элементальный навык I
+
+Смотрите.
+
+### Элементальный навык II
+
+Закройте глаза.
+
+### Элементальный навык III
+
+Тихо.
+
+### Взрыв стихии I
+
+Боитесь темноты?
+
+### Взрыв стихии II
+
+Темнеет.
+
+### Взрыв стихии III
+
+В прах!
+
+### Взрыв стихии IV
+
+Наступает ночь.
+
+### Взрыв стихии V
+
+Остерегайтесь ночных существ.
+
+### Взрыв стихии VI
+
+Спите спокойно, ни о чём не думайте.
+
+### Открытие сундука I
+
+Эти сокровища могут пригодиться вам в путешествии. Прошу, возьмите их.
+
+### Открытие сундука II
+
+Как изменился мир... Позвольте поинтересоваться - когда вошло в моду размещать сундуки с сокровищами в разных укромных уголках?
+
+### Открытие сундука III
+
+Неплохой экспонат для моей коллекции.
+
+### Низкий уровень HP I
+
+Это вопрос жизни и смерти.
+
+### Низкий уровень HP II
+
+Давно не чувствовал себя так неловко.
+
+### Низкий уровень HP III
+
+Хм, вы об этом пожалеете.
+
+### Низкий уровень HP компаньона I
+
+Не беспокойтесь.
+
+### Низкий уровень HP компаньона II
+
+Я возьмусь за дело.
+
+### Без сознания I
+
+Могила будет нашим местом встречи.
+
+### Без сознания II
+
+Угасаю...
+
+### Без сознания III
+
+Я вернусь подобно лавине.
+
+### Получен лёгкий удар I
+
+Держите дистанцию.
+
+### Получен тяжёлый удар I
+
+Кажется, вы перестарались.
+
+### Получен тяжёлый удар II
+
+Вы закончили?
+
+### Присоединяется к группе I
+
+С удовольствием помогу.
+
+### Присоединяется к группе II
+
+Для меня большая честь сражаться вместе с вами.
+
+### Присоединяется к группе III
+
+Позвольте проводить вас.
+
+## REPLICAS_EN
+
+### Hello
+
+Greetings, I am Kyryll Chudomirovich Flins. It is considered good etiquette to give my full name when greeting important guests, but this no doubt leaves you wondering what to call me on a day-to-day basis... Well, in the past, I was customarily addressed as "Chudomirovich" by most — but for simplicity's sake, you can just call me Flins. That's my surname.
+
+### Chat: Patience
+
+Let us have a modicum of patience for the richness and complexity of humanity. The wanton cruelty of the few is not worth our ire.
+
+### Chat: The Wild Hunt
+
+He who wishes to peer into the Abyss needs simply to wander through Nod-Krai on a misty night. The march of the Wild Hunt will be sure to drag him into the darkness.
+
+### Chat: Ghosts
+
+People ought not be so frightened of ghosts. They are merely talking shadows, chattering away endlessly about their past affairs.
+
+### When It Rains
+
+You look worried? Relax, it takes more than a little rainfall to extinguish my lamp.
+
+### When Thunder Strikes
+
+Listen — that, my friend, is the world's original symphony. No instrument could ever replicate the sheer power and grandeur of thunder.
+
+### When It Snows
+
+Each time the snow falls, that is the call of Snezhnaya — the land whence I hail.
+
+### When the Wind Is Blowing
+
+"The winds awaken, the leaves whirl round"...
+
+### In the Desert
+
+An orange snow dances in the air... Hah, so this is the fabled desert.
+
+### Good Morning
+
+Ah, good morning. The sun illuminates the land as another day dawns in Nod-Krai... Many centuries have gone by, yet each day begins just like the last.
+
+### Good Afternoon
+
+Afternoon. I'm not personally in the habit of taking an afternoon nap, but don't let that stop you, should you feel so inclined.
+
+### Good Evening
+
+I prefer to be active during the night. The purpose of a lamp is to shine light into the darkness, is it not?
+
+### Good Night
+
+Midnight is when I come into my own. Since you aren't ready to retire, and the moon has not yet assumed its position in the sky, perhaps I could tell you some ancient stories to pass the time?
+
+### About Flins: Virtues
+
+Prudence, modesty, and loyalty. These are the three cardinal virtues of the Lightkeepers, and I highly approve.
+
+### About Flins: Ratnik
+
+Every living being, human and fae alike, needs some sort of an identity. It is what helps us to find our place in the world. The Lightkeepers swear to keep the light of humanity burning in the cold, dark nights where monsters run amok. I happen to be nocturnally inclined myself, and I can certainly strike some measure of fear into other, less benign creatures of the night, so the role of Ratnik suits me perfectly.
+
+### About Us: Company
+
+It is an honor to have the company of your distinguished self for this part of my journey. Night is falling... Since I can't hold a candle to you, perhaps this lamp will do the trick?
+
+### About Us: Fae and Humans
+
+We seem to have covered quite some distance together... I am reminded of an age when both the fae and humans roamed free in Snezhnaya. Our races share many things in common, and I once presumed that we must share a similar ancestry. Now, I believe that what truly unites us is a common spirit — the spirit that gives rise to all things good and kind.
+
+### About the Moon Wheel
+
+No, the fae don't need Moon Wheels. We have our own methods. But I quite like the design, which goes nicely with my black overcoat, plus, it gives a convenient cover story for the power I wield... I've never been one to refuse tools such as this that help me blend in more seamlessly to my homeland.
+
+### Something to Share
+
+Have you ever asked people in Nod-Krai how they ended up here? I have. Most of them didn't choose it because it's a comfortable place to live, or because they dream of what their life here could be like. No, this is but a rest-stop where weary travelers can find some brief respite from the snowstorm. Hardly the kind of place that makes people feel as if they belong. And so, any traveler who stops in Nod-Krai is sure to leave once they are rested and recovered.
+The next stop on your journey is Snezhnaya, no doubt. The snowy plains there are simply beautiful. I wish you a safe trip.
+
+### Interesting Things
+
+...A lost civilization deep underground in Inazuma? And these "Shades of Tokoyo," they are the last vestiges of its erstwhile inhabitants? How intriguing. If the chance ever arises, I would certainly like to see it.
+
+### About Lauma
+
+Hyperborea, the bygone golden elysium... That is what comes to mind whenever I see her. Her ancient and noble lineage are no doubt as heavy a burden to bear as the stunning antlers she wears on her head, and yet she takes it all in her stride. I commend her resilience and courage in doing so.
+
+### About Illuga
+
+Members of the Lightkeepers are under no obligation to stay — and many do, in fact, leave shortly after joining. Only the most determined persevere, and Illuga is one such example. It is common to admire those who display wit and cunning, but to me, determination is a far more valuable quality.
+
+### About Aino
+
+I must confess that I do not deal well with machines. This, and not the age difference, is the biggest point of disparity between myself and Aino.
+
+### About Varka
+
+You shan't catch me crossing blades with Varka, there's simply no contest. No sword in the world has a sharper bite than the North Wind. Now, you might think that the allusion to one of the fiercest forces in nature's arsenal is pure hyperbole, but I tell you — he is a true knight, the likes of which are rarely seen in this day and age. If I ever have the chance to spar with him, it will be a sure sign that I am going up in the world.
+
+### About Nefer
+
+Nefer's intuition is as sharp as a knife, and that is a knife that no one wishes to contend with. Fortunately, I don't make a habit of prying into other people's backgrounds. I can only hope she doesn't either.
+
+### About Jahoda
+
+Jahoda always seems to show up where you would least expect. One day, you'll find her by a scrap pile at the Krumkake Craftshop, another, you'll see her out on the balcony of some wealthy family's house in Nasha Town. She is rapidly learning the philosophy of survival... her teacher being the land of Nod-Krai itself.
+
+### About the Tsaritsa
+
+Although Nod-Krai is technically a part of Snezhnaya, you won't hear us habitually refer to "Her Majesty, the Tsaritsa." ...Who's "us"? Hehe... The Lightkeepers, of course... Who else?
+
+### More About Flins: I
+
+I am but a humble Ratnik. You already know my name, you've seen where I am stationed, what more is there to know? Were you hoping to hear some kind of sensational untold tale of my life? I'm afraid that no such tale exists. There is nothing noteworthy to report about my experience as a Ratnik: Simply put, I hold my lamp tight, day and night, ready to face the Wild Hunt whenever it should strike.
+
+### More About Flins: II
+
+As you have witnessed, no corner of Nod-Krai is safe from the Wild Hunt. Some may have the arms and skills with which to defend themselves, but even then, not all Wild Hunts are made equal. Sometimes, for reasons that defy comprehension, horde after horde of monsters will appear with no end in sight, and you simply cannot escape by fighting them off. I have found myself in this predicament a number of times.
+I am acutely aware that you are a more skilled fighter than most, but the Wild Hunt is a complex and formidable foe, and I urge you not to underestimate it. If you ever find yourself in its presence, you must immediately inform the nearest Lightkeeper — or, by all means, come to me.
+
+### More About Flins: III
+
+You surprise me. Here you are, a seasoned veteran who has weathered countless storms, and yet you still have the curious spirit of a budding young adventurer.
+*sigh* Alright, let me think — what other pages are there in the story of Flins that you might deem worthy of your perusal?
+Hmm... Well, there is my lamp. It's not the standard-issue kind wielded by other Lightkeepers. This one has been with me for a very long time indeed. The weight of its past alone is often enough to scare even the darkest of shadows away. As a soul on the brink of death once said, the light of this lamp strikes more fear into the heart than his incompetent colleagues could ever hope to...
+Will that satisfy your curiosity for now?
+
+### More About Flins: IV
+
+Almost every sojourner in Nod-Krai has a complicated past. Desire runs deep in human souls — it is always there, and always active. Each night, as they mumble in their sleep, the anxiety plagues their mind like a dark fog as the memories stir in the ley lines, flowing in various directions. The Nod-Krai of today is a chaotic place. It wasn't always this awful.
+
+### More About Flins: V
+
+Forgive me if I forgo my usual airs and graces from now on. The fact is, there are very few people left in this world with any knowledge of my past. And even though you are one of them, I hope you won't treat me differently than anyone else — after all this time pretending to be human, I've actually grown rather fond of seeing how long I can keep up the act.
+Let's leave the wind and frost, the piles of stone, the moss, and the stench of seawater behind. I have put a few coins together. The time has come to shop for supplies.
+
+### Flins's Hobbies
+
+Do you have any interest in old coins or ancient gemstones? Not only are they valuable items, but the marks and scratches they accumulate over the years add a certain character which I find makes them all the more charming... Much like a well-aged wine.
+
+### Flins's Troubles
+
+A colleague of mine in Piramida City often writes to me, expressing his concern for my wellbeing. He's a kind old man, and I know he means well. But it's perfectly cozy where I live already. And I am in no need of home improvement suggestions, and I certainly don't need him to get me a cat or a dog.
+
+### Favorite Food
+
+Have you ever seen water boiling under an open flame? No? Ah, what a pity.
+There's a kind of liquor in Snezhnaya called Fire-Water, and when you light it, the flame burns on the surface of the liquid. Goes down quite smoothly, too. It'll warm you up from the very depths of your soul. Maybe I'll get to treat you to a Fire-Water one day.
+
+### Least Favorite Food
+
+Given that we are close acquaintances by this point, would you mind if I shared a minor grievance with you? The truth is that given my... unique situation, foods greatly relished by other people I personally find to be rather dull. ...Oh, but to be clear, I still immensely enjoy the time we spend together at the dinner table.
+
+### Receiving a Gift: I
+
+Mm... Unsurprisingly, that was exceptional.
+
+### Receiving a Gift: II
+
+Mm, yes, delightful.
+
+### Receiving a Gift: III
+
+Uh... In the interests of our continued friendship, I would prefer to keep my thoughts to myself.
+
+### Birthday
+
+Those who love you will celebrate your arrival in this world by preparing a feast, singing songs, and offering blessings. When you pass away, those who miss you will grieve by holding a funeral and lighting lanterns. In life and in death, there will always be those who are moved by your existence. So, take the chance, while your soul is full of life, to come together with your loved ones and be happy — you deserve it. ...Uh, excuse me? You want me to... be your birthday candle?
+
+### Feelings About Ascension: Intro
+
+What's this... a gesture of encouragement? Huh, you have my sincerest gratitude. While we're on the topic — long may such gestures continue.
+
+### Feelings About Ascension: Building Up
+
+You seem to have taken a great interest in my training lately. I only hope my rate of development is to your satisfaction.
+
+### Feelings About Ascension: Climax
+
+Every soldier who seeks to improve must not only hone their skills, but carefully consider their tactics. Based on my prior experience in battle, weaponry and strategies that can dispose of enemies en masse are highly preferred. That is why the polearm is my weapon of choice.
+
+### Feelings About Ascension: Conclusion
+
+Though we have never discussed this topic in great depth before, I trust you share the same opinion as I on this. The true art of war lies in deterrence, and not in fighting... Otherwise, things would become far too simple.
+
+### Elemental Skill: I
+
+Observe.
+
+### Elemental Skill: II
+
+Close your eyes.
+
+### Elemental Skill: III
+
+Be silent.
+
+### Elemental Burst: I
+
+Do you fear the dark?
+
+### Elemental Burst: II
+
+Night falls.
+
+### Elemental Burst: III
+
+To dust!
+
+### Elemental Burst: IV
+
+The night cometh.
+
+### Elemental Burst: V
+
+Beware the creatures of the night.
+
+### Elemental Burst: VI
+
+The long sleep beckons.
+
+### Opening Treasure Chest: I
+
+Perhaps these treasures might be of utility to you on your journey. Please, I insist.
+
+### Opening Treasure Chest: II
+
+Goodness, how the world has changed... Might I ask — when did the custom of placing treasure chests in every nook and cranny come into fashion?
+
+### Opening Treasure Chest: III
+
+Hmm. Not to be sniffed at.
+
+### Low HP: I
+
+It's a grave situation.
+
+### Low HP: II
+
+I'm rather out of sorts.
+
+### Low HP: III
+
+Hmph, you'll sorely regret that.
+
+### Ally at Low HP: I
+
+Do not fret.
+
+### Ally at Low HP: II
+
+Please, allow me.
+
+### Fallen: I
+
+See you at the graveyard.
+
+### Fallen: II
+
+Burn no more...
+
+### Fallen: III
+
+I will return as an avalanche.
+
+### Light Hit Taken: I
+
+Keep your distance.
+
+### Heavy Hit Taken: I
+
+Steady now.
+
+### Heavy Hit Taken: II
+
+Are you quite finished?
+
+### Joining Party: I
+
+Happy to oblige.
+
+### Joining Party: II
+
+A pleasure to fight by your side.
+
+### Joining Party: III
+
+Allow me to guide the way.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+克里洛·楚德米洛维奇·菲林斯，向您问好。报上全名是对待贵客应有的礼节，至于选择用哪个名字称呼我…以前有许多人习惯用「楚德米洛维奇」，方便起见，还是叫我「菲林斯」吧，这是我的氏名。
+
+### 闲聊·耐心
+
+让我们对人类的复杂性和丰富性保有一点耐心，少数人的荒唐卑劣不值得我们激愤。
+
+### 闲聊·狂猎
+
+如果谁想窥视深渊，就尽情在挪德卡莱的夜雾中游荡吧，狂猎的行军自会前来将他卷入黑暗。
+
+### 闲聊·幽灵
+
+为什么要恐惧幽灵呢？他们只是一群会说话的影子，一刻不停地唠叨自己的身前事。
+
+### 下雨的时候…
+
+你在担忧吗？普通的雨无法浇灭我的灯火，放心。
+
+### 打雷的时候…
+
+听，世界最初的交响乐。没有一种器乐能复现雷鸣的激烈与宏大。
+
+### 下雪的时候…
+
+每一场雪都是来自至冬的呼唤，那是我血脉的归处。
+
+### 刮大风了…
+
+「风已醒来，落叶飞旋…」
+
+### 在沙漠的时候…
+
+空中飞舞着黄色的雪。啊，这就是传说中的沙漠。
+
+### 早上好…
+
+早安。太阳又照亮了挪德卡莱，和过去几百年间的每天一样。
+
+### 中午好…
+
+午安，我没有午睡的习惯，如果你需要的话，请自便。
+
+### 晚上好…
+
+我更喜欢在晚上活动，灯就是用来照亮黑暗的，不是吗？
+
+### 晚安…
+
+午夜才是我的时间，正巧你也没有休息，那么趁着月亮还挂在天上，让我们来讲点古老的故事权当消遣。
+
+### 关于菲林斯自己·美德
+
+慎重、谦逊以及忠诚，我认同执灯人所倡导的三大美德。
+
+### 关于菲林斯自己·执灯士
+
+不论人还是妖精，只要活着就需要某种身份，这是将我们固定在世界上的重要理由。执灯人立誓在怪物肆虐的寒夜守护他人的光明。恰巧我属于夜晚，夜行的怪物总是需要惧我三分，这个身份对我来说再合适不过了。
+
+### 关于我们·同行
+
+能和您这样出色的人同行一段是我的荣幸。夜快深了，需要我为您掌灯吗？
+
+### 关于我们·妖精与人类
+
+不知不觉，我们前进了相当长的一段距离。这让我想起了从前的那个时代，妖精与人类曾经自由共行于至冬。我们的种族之间有许多相似之处，我曾猜测或许是因为血脉上本源相近，现在，我会说那些良善的念头背后总能寻找到相似的灵魂。
+
+### 关于「月之轮」…
+
+不，妖精不需要月之轮，妖精有妖精自己的方式。但它的造型不错，配这件黑色的大衣正好，还能替我的力量做个掩护…对于这些能够帮助我融入故土的幌子，我自是来者不拒的。
+
+### 有什么想要分享…
+
+您试过询问挪德卡莱的居民们在这里停留的原因吗？我试过，他们会选择此地，大多不是因为这里宜居，也不是因为他们对这片土地上的生活有什么美好的期待。这里仅仅是旅人在风雪中作片刻喘息的庇护所，人很难对临时庇护所产生归属感，过客们休息够了总要离开。
+您的下一站是至冬吧，那里的雪原很美，祝您旅途顺利。
+
+### 感兴趣的见闻…
+
+您是说在稻妻的地下存在着失落的国度，那里存在着过去的人留下的「常世之灵」吗？有些意思，有机会的话，我倒是很乐意去看看。
+
+### 关于菈乌玛…
+
+亥珀波瑞亚，黄金的失乐园，看见她相貌的时候我便想到了。高贵古老的血脉与她华丽的角冠同等沉重，而她还是背负起一切向前走了，这份坚韧与勇敢值得尊重。
+
+### 关于叶洛亚…
+
+「执灯人」成员的去留全凭自愿，许多人来了又走，只有最执着的那些才会坚持，叶洛亚就是如此。比起「机敏」、「狡黠」这类受一般人追捧的品质，我认为「执着」更值得珍惜。
+
+### 关于爱诺…
+
+不得不承认，我不擅长应付机械，在这方面，我和爱诺小姐的水平差异比年龄差距还要大。
+
+### 关于法尔伽…
+
+我肯定不可能与法尔伽先生比剑，要知道世界上可没有比北风更冰冷的剑锋了。金属的利器怎么配跟自然的怒号相提并论？应该说，若有朝一日能与这位老派的正统骑士过招，将是对我莫大的提拔。
+
+### 关于奈芙尔…
+
+奈芙尔小姐的直觉敏锐得像一把刀，没人会希望这把刀落在自己头上。好在我没有打听别人身世的爱好，希望她也是同样。
+
+### 关于雅珂达…
+
+你总能在意想不到的地方见到雅珂达小姐，比如蛋卷工坊废弃的杂物堆旁，又比如那夏镇某位大户人家的露台上。她正在飞快地学习着事关生存的哲学，而挪德卡莱这片土地是她无声的老师。
+
+### 关于「女皇」…
+
+挪德卡莱是至冬领土的一部分，不过我们没有说「女皇在上」这种话的习惯。「我们」指的是谁？自然是「执灯人」…不然呢？
+
+### 想要了解菲林斯·其一
+
+您想要了解我这个普通执灯士的什么呢？我的名字您已经知晓，我的驻所您尽可以观光，难道您期待从我口中听到什么波澜壮阔的人生经历吗？那种事情不存在。作为一个执灯士，我的生平乏善可陈，只是提着灯在挪德卡莱的每日每夜戒备狂猎而已。
+
+### 想要了解菲林斯·其二
+
+如您所见，狂猎是泛滥于整个挪德卡莱的灾害，有武力的人或许可以依靠手中的武器自保，但存在着这样一种狂猎，您无法通过驱散所有伴随狂猎而生的魔物逃脱，魔物会出于某些难名的原因源源不断地出现。我见识过几次这样的棘手情况。
+尽管我深知您身手不凡，但狂猎的复杂与麻烦程度不可小觑，一旦遭遇狂猎，请务必通知附近的执灯人，或者直接找我。
+
+### 想要了解菲林斯·其三
+
+没想到像您这样久经风霜的人士心中，仍保持着年轻冒险家那般炽热的好奇。
+唉，让我想想，菲林斯这个人物的身上还有什么具备故事性的部分值得拿出来供您翻阅。
+噢…我的灯和部队配发的制式灯不同，它已经陪伴了我很久。时光在它身上落下的重量足够吓退大多数蠕动的幽影。有鬼魂临终前说，比起那些不入流的同伴，它才更像恐怖本身。
+这些能让您满意吗？
+
+### 想要了解菲林斯·其四
+
+几乎每个在挪德卡莱逗留的人都有自己的复杂过去，人类无论何时都是这样，灵魂深处燃烧着蓬勃的欲望。每个夜晚，人类呓语中黑色的忧虑像雾气一样流淌，地脉里的回忆涌动向不同的方向。现在的挪德卡莱是混乱的地方，过去的它并没有这么糟。
+
+### 想要了解菲林斯·其五
+
+请允许我不再使用尊称，能将我与往事关联起来的人，这世上已经没有几位了。话虽如此，我不希望你待我有所特殊，毕竟扮演人类仍将是我长期保留的小小爱好。
+让我们把风霜、石堆、苔藓和海水的腥味留在这里吧，我整理了一些钱币，采买物资的日子到了。
+
+### 菲林斯的爱好…
+
+你对古钱币以及旧宝石感兴趣吗？它们本身就价值不菲，在此之外，岁月在它们形体上刻下的痕迹更为美丽，就像陈年美酒一样优雅。
+
+### 菲林斯的烦恼…
+
+皮拉米达城的同僚时不时写信来对我的生活投以关切，那是一位善良的老先生。但我现在的住宿环境非常舒适，不需要改进，也不需要送猫或者狗来。
+
+### 喜欢的食物…
+
+见过水在火焰中沸腾的样子吗？啊，太可惜了。
+至冬有一种叫做「火水」的酒，点燃它，你能看到火焰在水上燃烧。而且口感不错，能让你从灵魂深处暖和起来。有机会一定邀请你试试。
+
+### 讨厌的食物…
+
+鉴于我们的关系日渐熟络，可否原谅我在此提出一个小小异议？你应当知晓我的某些微妙情况…那些常人乐享的食物，对我而言并无多大趣味。啊，请别误会，我仍然非常享受与你同座时的用餐时光。
+
+### 收到赠礼·其一
+
+我一向不怀疑您的才能。
+
+### 收到赠礼·其二
+
+当然，当然，它们的味道相当好。
+
+### 收到赠礼·其三
+
+为我们之间的良好关系考虑，请别询问我的感想。
+
+### 生日…
+
+为了庆祝人来到世上，爱他的人为他举办生日宴会，献上歌声与祝福。为了哀悼人的离去，思念他的人为他举办葬礼，点亮幽灯。无论生死，总有人会为你的存在动容。趁灵魂鲜活，去融入人群，享受属于你的欢乐吧…难不成你还在等我扮演那支被吹灭的蜡烛？
+
+### 突破的感受·起
+
+您这是在表达勉励吗？对此我表示衷心感激。顺带一提，希望您的勉励可以继续下去。
+
+### 突破的感受·承
+
+近来您似乎很热衷于为我训练，希望我的进步速度能够达到您的预期。
+
+### 突破的感受·转
+
+当一位战士想要进步，除了磨练武艺，还要思考战术。按我以往的作战经验来看，能够大范围杀伤敌人的武器和战略更受青睐，这也是我选择长柄武器的理由。
+
+### 突破的感受·合
+
+尽管我们不曾就此话题深入探讨，但我想智慧如你一定与我有着类似的观点：武艺是一门关于威慑的艺术，而不是争夺的手段…否则，事情就变得太简单了。
+
+### 元素战技·其一
+
+看。
+
+### 元素战技·其二
+
+闭眼。
+
+### 元素战技·其三
+
+安静。
+
+### 元素爆发·其一
+
+怕黑吗？
+
+### 元素爆发·其二
+
+入夜了。
+
+### 元素爆发·其三
+
+坠灭。
+
+### 元素爆发·其四
+
+夜客致访。
+
+### 元素爆发·其五
+
+谨防，榻下爪眼。
+
+### 元素爆发·其六
+
+睡吧，无梦地安眠。
+
+### 打开宝箱·其一
+
+这些珍宝或许会对您的旅途有所裨益。请，它们属于您了。
+
+### 打开宝箱·其二
+
+看起来我是与世隔绝太久了，介意告诉我四处摆放宝箱的风尚是何时流行起来的吗？
+
+### 打开宝箱·其三
+
+也算是不错的收藏。
+
+### 生命值低·其一
+
+生死一线了啊。
+
+### 生命值低·其二
+
+久违的窘迫感。
+
+### 生命值低·其三
+
+呵，该担忧的是你。
+
+### 同伴生命值低·其一
+
+请勿忧心。
+
+### 同伴生命值低·其二
+
+由我接手吧。
+
+### 倒下·其一
+
+我们墓里见。
+
+### 倒下·其二
+
+熄灭吧…
+
+### 倒下·其三
+
+我必如雪崩再来。
+
+### 普通受击·其一
+
+…注意距离。
+
+### 重受击·其一
+
+您热情过头了。
+
+### 重受击·其二
+
+何必呢？
+
+### 加入队伍·其一
+
+听凭差遣。
+
+### 加入队伍·其二
+
+与同伴并肩作战是一种享受。
+
+### 加入队伍·其三
+
+需要我来引路吗？

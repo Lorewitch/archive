@@ -333,3 +333,854 @@ Still, there was no denying that she had reaped a great reward from this experim
 她想知道蒲公英籽和「神之眼」还能产生什么样的反应。
 可惜，在又熬煮了三个小时之后，本次试验仍以失败告终。
 但砂糖收获巨大——「神之眼」提供的元素力，成为了她「生物炼金」路上至关重要的工具。
+
+# voice_source_ids: 31009,31010,31011,31012,31013,31014,31015,31016,31017,31018,31019,31020,31021,31022,31023,31024,31025,31026,31027,31028,31029,31030,31031,31032,31033,31034,31035,31036,31037,31038,31039,31040,31041,31042,31043,31044,31045,31046,31047,31048,31049,31050,31051,31052,31053,31054,31055,31056,31057,31058,31059,31060,31061,31062,31063,31064,31065,31066,31067,31068,31069,31070,31071,31072,31073,31074,31075,31076,31077,31078
+
+## REPLICAS_RU
+
+### Привет...
+
+Я Сахароза, исследователь алхимии. Говорят, ты много где побывал, наверняка... нет, ничего. При первой встрече неприлично навязываться. Но... если ты не против, то, если расскажешь о своих путешествиях, то... я буду очень рада. / Я Сахароза, исследователь алхимии. Говорят, ты много где побывала, наверняка... нет, ничего. При первой встрече неприлично навязываться. Но... если ты не против, то, если расскажешь о своих путешествиях, то... я буду очень рада.
+
+### Поболтаем: Любопытство
+
+А это что такое? Ой... пропало. Можно пойду посмотрю?
+
+### Поболтаем: Организованность
+
+Мне нужна минутка кое-что записать на заметку...
+
+### Поболтаем: Дышать полной грудью
+
+Аааах! Давно не выходила подышать.
+
+### Когда дует сильный ветер...
+
+Сегодня мельницы крутятся быстрее обычного. Вот скажи, если на небольшое животное приделать сзади что-то типа мельницы, то будет ли оно быстрее бегать? Или, может, даже летать?
+
+### Когда идёт снег...
+
+Такой снегопад бывает пару раз в год, если сейчас не изучить, то придётся ждать до следующего года. Так что посторонись! А... апчхи! Да, знаю, надо одеться потеплее...
+
+### Когда светит солнце...
+
+Уже... уже рассвело? Ну тогда ещё один опыт и спать! Честное слово, последний...
+
+### Когда идёт дождь...
+
+Влажность повышается. Ага... не провести ли серию опытов?
+
+### Доброе утро...
+
+Доброе утро, как спалось? Исследования показывают, что без здорового сна невозможна эффективная умственная и физическая деятельность. А?.. Что? Мало сплю? Ну... ничего не поделаешь!
+
+### Добрый день...
+
+Аааа! Не подходи! Ой... Нет, я имела в виду, не надо близко подходить. Я эксперимент провожу. Может взорваться.
+
+### Добрый вечер...
+
+Добрый вечер. Подожди секунду! Объект 905 производит два типа световых выделений, которые для ясности обозначены как «Тип №1033» и «Тип №1035»... Ага, готово. Так что ты хотел? / Добрый вечер. Подожди секунду! Объект 905 производит два типа световых выделений, которые для ясности обозначены как «Тип №1033» и «Тип №1035»... Ага, готово. Так что ты хотела?
+
+### Спокойной ночи...
+
+Не надо меня ждать, иди спать. А?.. Так беспокоишься? Эксперимент уже в последней фазе. Скоро спать пойду, честное слово...
+
+### О Сахарозе: Биоалхимия
+
+Биоалхимия делает упор не на «создании», а на «изменении». Искать скрытые свойства существ, усиливать их, комбинировать. Результаты всегда удивительны. Да... жизнь - поразительная вещь. Сколько всего мы ещё не знаем?
+
+### О Сахарозе: Застенчивость
+
+Я... не уверена, как себя вести с незнакомыми людьми. Каждый незнакомец обращает внимание на разные вещи. Можно случайно сказать недостаточно вежливо или даже ненароком обидеть. Эх... разговаривать - это трудно, намного труднее алхимии.
+
+### О Сахарозе: Уши
+
+Ой... ты заметил. Уши - это наследственное. Они не такие, как у обычных людей, поэтому я стараюсь прикрывать их волосами... / Ой... ты заметила. Уши - это наследственное. Они не такие, как у обычных людей, поэтому я стараюсь прикрывать их волосами...
+
+### О нас: Наблюдения
+
+Меня очень интересует твой опыт. Поэтому... можно я за тобой немного... понаблюдаю? Я тихонечко, совсем тебя не буду беспокоить... Ты не против?
+
+### О Сахарозе: Добыча
+
+Честно говоря, когда мы только встретились, я заметила, что ты немного молчаливый, и боялась, что я тебя чем-то обидела. Но потом я поняла, что, на самом деле, с тобой очень легко ладить. Хе-хе... это тоже несколько неожиданный результат моих наблюдений. / Честно говоря, когда мы только встретились, я заметила, что ты немного молчаливая, и боялась, что я тебя чем-то обидела. Но потом я поняла, что, на самом деле, с тобой очень легко ладить. Хе-хе... это тоже несколько неожиданный результат моих наблюдений.
+
+### О нас: Просьбы
+
+Говорят, ты прогнал Ужас Бури? Наверняка это было очень опасно. Хорошо, что с тобой ничего не случилось. Я подумала... во время боя он ничего, случайно, не обронил? Чешуйку там или кусочек кожи хотя бы. Очень хочется поизучать... / Говорят, ты прогнала Ужас Бури? Наверняка это было очень опасно. Хорошо, что с тобой ничего не случилось. Я подумала... во время боя он ничего, случайно, не обронил? Чешуйку там или кусочек кожи хотя бы. Очень хочется поизучать...
+
+### Глаз Бога...
+
+Глаз Бога - мой самый важный инструмент для исследований. А? Ну инструмент же... Без Глаза Бога я не смогла бы проводить большинство экспериментов с элементами. В бою? Ну... бывает иногда. Когда иду собирать материалы, иногда использую.
+
+### Давай поделимся...
+
+А в этой комнате я храню свою коллекцию костей. В шкафу слева кости ящериц, черепах, и белый карп ещё. Спереди висит скелет кабана, а в правом углу у нас хиличурл... А, да ты не волнуйся, тут ничего страшного. Если привыкнуть, то они все довольно милые.
+
+### Интересные вещи...
+
+Смотри, посаженные здесь туманные цветки все разные. Вот этот - самый сильный, а этот цветёт дольше... А? Ты про этот. Это «Туманный цветок №3, версия 17, увеличение лепестков», его особенность... Ну, он немножко побольше.
+
+### О Ноэлль...
+
+Она... часто мне помогает, но иногда слишком уж активно... и, бывает, возникают проблемы. Как-то раз она увидела перед моей дверью ящики с материалами и сразу же занесла их внутрь, но дело в том... что я сама их только что вынесла.
+
+### О Кли...
+
+Джинн её уже много раз запирала в камере, но она, как только выпустят, - так сразу за старое. Эх, не знаю, осознаёт ли она вообще. А... Я же ей обещала сделать, чтобы и прыг, и скок, но при этом безопасный Прыг-скок. Но в проекте пока ещё много вопросов...
+
+### О Джинн...
+
+Я даже не осмеливаюсь разговаривать с магистром Джинн из-за того, что она такая серьёзная... Я знаю, что она очень хорошая... я знаю, но... боюсь. Я стараюсь её лишний раз не беспокоить, но если без неё никак... я прошу господина Альбедо сходить за меня.
+
+### О Лизе...
+
+Похоже, что она очень много знает. Очевидно, что она никогда не читала моих исследований, но она не раз давала мне самые уместные и ценные советы. Откуда она знает? Через наблюдение? Или всё же умозаключение?
+
+### О Кэйе...
+
+Ох... Я знаю, что он просто любит шутить, а не специально издевается надо мной. Но я, честно говоря... не понимаю, когда он серьёзно, а когда шутит. Поэтому как-то неловко получается, а то так и опозориться можно...
+
+### Об Альбедо: Искусство
+
+Как его ассистент, я каждый день многому учусь. Главное даже не знания, а гениальный образ мышления. Любую сложнейшую задачу он кропотливо раскладывает по полочкам, а потом раз - и решил. Именно здесь алхимия встречается с искусством.
+
+### Об Альбедо: Таланты
+
+Таланты? Хм... Представим, что мы с ним занялись одинаковой областью, мне бы его ни в жизнь не догнать. Но я занялась биоалхимией не для того, чтобы от него дистанцироваться. Просто... просто у нас разные интересы и мечты. Вот и всё.
+
+### Об Эмбер...
+
+Очень интересно, почему её куклу зовут Барон Зайчик? На зайчика совсем не похоже. А... Платочек похож на заячьи ушки?.. Разумно. Вообще говоря, это просто стереотип, у многих зайчиков уши вниз висят.
+
+### О Фишль...
+
+Ты о «Цветах для принцессы Фишль»? Да, созданный автором мир очень интересен. Мне бы хотелось самой там побывать... А? Ты про эту Фишль? Она... Мне кажется, она меня туда перенести не может.
+
+### Об Эоле...
+
+Работа рыцаря разведки опасна, а действия госпожи Эолы необычайно дерзкие. Поэтому я сделала устройство, чтобы ей не пришлось проникать в лагерь противника. Но она была настолько пугающей, что когда я сказала ей как пользоваться устройством, то случайно пропустила несколько мер предосторожности, и произошёл несчастный случай...
+Я так надеюсь, что она не держит на меня зла...
+
+### Узнать больше о Сахарозе I
+
+Узнать обо мне? Ты... интересуешься биоалхимией? Я постараюсь точно ответить на любой твой вопрос. А? Не алхимия, а я сама? Эм... ну это я даже не знаю...
+
+### Узнать больше о Сахарозе II
+
+Суть исследования в самом процессе поиска ответа. Иногда этот процесс очень запутанный и утомительный, но когда я вижу, как постепенно проявляется результат, то сразу... Да, мне просто нравится этим заниматься.
+
+### Узнать больше о Сахарозе III
+
+В детстве у меня было двое лучших друзей, и мы друг от друга ничего не скрывали, и я думала, что всё про них знаю. Но потом кое-что случилось, и вдруг... они стали как будто чужие. Где они, чем занимаются, помнят ли обо мне... этого я не знаю. Даже с лучшими друзьями иногда так происходит.
+
+### Узнать больше о Сахарозе IV
+
+Я открою тебе маленькую тайну, я ещё никому не рассказывала. Конечная цель биоалхимии - создать Страну чудес... Ага, ту самую из сказок, где царит счастье и радость. Хе-хе, очень по-детски, да? Но я всё ещё верю в сказки.
+
+### Узнать больше о Сахарозе V
+
+Если ты занят, то не буду отвлекать. Не занят? Если занят, то ничего страшного, я давно привыкла в одиночку опыты ставить. А... Правда не занят? Ну... тогда можешь мне помочь? Ну или... просто поговорим... о чём-нибудь. / Если ты занята, то не буду отвлекать. Не занята? Если занята, то ничего страшного, я давно привыкла в одиночку опыты ставить. А... Правда не занята? Ну... тогда можешь мне помочь? Ну или... просто поговорим... о чём-нибудь.
+
+### Хобби Сахарозы...
+
+Мне нравится, когда вещи упорядочены. Вот смотри: все журналы наблюдений на полке одной толщины, а все зелья на столе отсортированы по действию и оттенку... Что?.. Это что такое?! Почему фиолетовое зелье стоит здесь?! Мне надо всё переставить!
+
+### Беспокойство Сахарозы...
+
+Мне интересно, что ты делаешь во время отдыха? Я никогда не знаю, чем занять себя в выходной. Сижу в стену смотрю... Когда я ставлю опыты, время так быстро летит, а когда ничего не делаю - один день, как год.
+
+### Любимая еда...
+
+Я использую нектар цветка-сахарка и делаю из него сахар. Если голова не соображает, то съешь кусочек - и сразу внимание возвращается. Уровень сахара очень важен для проведения исследований.
+
+### Нелюбимая еда...
+
+Когда я стала изучать биоалхимию, я перестала есть грибы... Ты, наверное, знаешь? Грибы растут на мёртвом, а это напоминает мне о разных других подобных вещах, и аппетит мой сразу... фу-у...
+
+### День рождения...
+
+С днём рождения! Я несколько месяцев экспериментировала и, наконец, могу подарить тебе это зелье. Оно освежит в памяти самые приятные моменты прошедшего года. Оно называется «Биозелье №3916». Нет... Не №3196, а №3916!
+
+### Чувство возвышения: Начало
+
+Наконец-то прорыв в исследовании биоалхимии.
+
+### Чувство возвышения: Нарастание
+
+В этом путешествии я собрала много материалов для исследования. Спасибо, они мне очень пригодятся.
+
+### Чувство возвышения: Кульминация
+
+Последнее время при проведении опытов я часто замечаю, что думаю о том, когда же мы с тобой снова отправимся в путешествие. Хм... Интересно почему? Надо бы изучить.
+
+### Чувство возвышения: Окончание
+
+У меня уже так много материалов для исследования! Не стоит больше тратить на меня время! Хотя бы... Позволь мне отблагодарить тебя с помощью моей биоалхимии!
+
+### Элементальный навык I
+
+Проверка адсорбции.
+
+### Элементальный навык II
+
+Проверка Анемо 6308!
+
+### Элементальный навык III
+
+Поберегись!
+
+### Взрыв стихии I
+
+Супервихрь II!
+
+### Взрыв стихии II
+
+Улучшенный модуль Анемо 75!
+
+### Взрыв стихии III
+
+Эмуляция Анемо гипостазис!
+
+### Открытие сундука I
+
+Сундуки, появляющиеся из ниоткуда... Нужно исследовать.
+
+### Открытие сундука II
+
+Эх, если бы я только находила лабораторные принадлежности так же часто.
+
+### Открытие сундука III
+
+Ух ты! Сколько материалов!
+
+### Низкий уровень HP I
+
+Небольшая ошибка...
+
+### Низкий уровень HP II
+
+Неожиданный итог...
+
+### Низкий уровень HP III
+
+Совсем не больно, совсем не больно...
+
+### Низкий уровень HP компаньона I
+
+Подойди, у меня есть лекарства!
+
+### Низкий уровень HP компаньона II
+
+Осторожно! Сначала думай, потом действуй!
+
+### Без сознания I
+
+Мое исследование... провалилось.
+
+### Без сознания II
+
+Нужно... внести исправления.
+
+### Без сознания III
+
+Пожалуй... сначала вздремну немного.
+
+### Получен лёгкий удар I
+
+Эй!
+
+### Получен тяжёлый удар I
+
+Не разбей мои очки!
+
+### Присоединяется к группе I
+
+Позвольте помочь.
+
+### Присоединяется к группе II
+
+У меня... у меня получится!
+
+### Присоединяется к группе III
+
+Мой эксперимент... увенчается успехом.
+
+### Подарок I
+
+Восхитительно! Чувствую себя как никогда лучше. Пора закончить мои исследования!
+
+### Подарок II
+
+Должна признать, это гораздо вкуснее моих сбалансированных блюд. Пора пересмотреть питание.
+
+### Подарок III
+
+Прости, но вкус у этого блюда...
+
+## REPLICAS_EN
+
+### Hello
+
+I'm Sucrose, a researcher of alchemy. I've heard you've been to a lot of places, so I was wondering if you... Ah, what am I saying! It's only our first time meeting, I shouldn't trouble you. But... if you're willing, I'd love to hear any stories you have about your adventures. I'd... really like that.
+
+### Chat: Curiosity
+
+What was that? Oh... it's gone. Can I go take a look?
+
+### Chat: Organization
+
+I just need a moment to quickly take down some notes.
+
+### Chat: Deep Breaths
+
+Ahhh! I haven't been out in a while.
+
+### When the Wind Is Blowing
+
+The windmills are spinning faster than usual today. Hey, do you think if an animal put a propeller on its back and started running... do you think the propeller would make it run faster? Or even, fly?
+
+### When It Snows
+
+Snow this big only falls a few times a year. If I miss it, I'll have to wait until next year to run my experiments, so please give me some space. Ah-Ahchooo! ...Yes, I know, I should wear more layers...
+
+### When the Sun Is Out
+
+The sun is already out? Oh, ah, okay! Just one last experiment, and then we can get some rest. Last one, I promise...
+
+### When It Rains
+
+Humidity levels are increasing. Think we should run some tests?
+
+### Good Morning
+
+Good morning. Did you sleep well? According to research, not getting a good night's sleep can have detrimental effects on your cognition and stamina. What? I'm always working through the night? Yeah, I know... Can't be helped I guess...
+
+### Good Afternoon
+
+Waaaaa! No, stay back, don't come over here! No, no, it's nothing personal — it's just that this experiment is highly volatile and might cause an explosion.
+
+### Good Evening
+
+Good evening. Please wait a moment. Experiment 905 has actually produced two light excretions, which, for clarity's sake, should be labeled No. 1033 and No. 1035 respectively... Right, now, what did you need me for?
+
+### Good Night
+
+No need to wait up for me. Please, get some sleep. Something bothering you? Oh, don't worry about me — I'm right at the end of my experiment. I promise I won't stay up late again...
+
+### About Sucrose: Bio-Alchemy
+
+Bio-alchemy, when compared with creation, places more emphasis on transformation. Finding those little secrets that living creatures have and scaling them up, combining them — the results are always such a surprise. Life really is fascinating. Just how much do we really know?
+
+### About Sucrose: Fear of Strangers
+
+I... um... really don't know how to act around new people. Everyone's personality is different, as are the things they care about. If I slip up and say the wrong thing, I'll offend someone, or sound impolite... Talking is hard, so much harder than alchemy.
+
+### About Sucrose: Ears
+
+Oh, you, ahh... noticed. My ears are a hereditary feature... quite different from everyone else's. So, I try to hide them with my hair as much as possible.
+
+### About Us: Observing
+
+I'm curious to know about your background. I was wondering... could I perhaps... observe you for a while? I'll be silent, and I won't interfere with what you're doing. Would... that be okay?
+
+### About Us: Perks
+
+To be honest, I was a little afraid when we first met, because you don't talk much... I thought I must have offended you somehow. But then as time went on, I discovered you're really easy to get along with. Hehe, just an unexpected outcome of my observations.
+
+### About Us: Requests
+
+I heard it was you that dealt with the Stormterror issue. No doubt it was a dangerous fight — it's a good thing you came out unscathed. I was ahh... also wondering — did Stormterror happen to drop anything during the fight? You know, a scale, some skin — even just a little would be fine. There are some tests I'd like to run...
+
+### About the Vision
+
+My Vision is my most important research tool. Hmm? Why, without it I'd be unable to proceed with most of my elemental research. Combat? Oh, I suppose I use it for that too when I'm out in the field looking for materials.
+
+### Something to Share
+
+This room is where I keep all the bones I've collected. On the table on the left we have lizards, frogs, and grass carp. To the front we have the bones of a wild boar, and then over there in the right corner is a hilichurl... Oh, don't be nervous, nothing to be afraid of. They're really quite cute once you get used to them.
+
+### Interesting Things
+
+If you look closely, you'll notice that the Mist Flowers I've planted here are all different. This one is the most powerful, this one blooms the longest... This one? Oh, this one is project 3, version 17, enlargement trial. Its defining trait is that... it's a bit larger.
+
+### About Noelle
+
+She's... a very willing helper, I can't deny that. It's just... she makes me a little anxious is all. One time, she saw three boxes of materials stacked just outside my laboratory door, and proceeded to move them inside for me. A nice gesture, but the thing is... I'd only just finished putting them outside...
+
+### About Klee
+
+Jean has put her into solitary confinement so many times, but every time she's let out it's not long before she's back in trouble. *sigh* Something tells me she hasn't done much introspection. I told her I'd make her a bouncing, dancing Jumpy Dumpty that is also safe — but to date there's still a lot of problems with the design.
+
+### About Jean
+
+I don't dare talk to Master Jean that much, because she's so strict. I know she's a good person and all — I know that, I do — but... I still find her scary. I don't tend to bother her, and even when I have to... I ask Albedo to go on my behalf.
+
+### About Lisa
+
+She really seems to know a great deal. She's obviously never seen my research, and yet on so many occasions she's given me advice on that which is most core to my studies. Just how does she know? Is it observation, or is it ratiocination?
+
+### About Kaeya
+
+Oh... I know he likes to joke, and isn't trying to make fun of me, but I often struggle to work out which parts of what he says are the truth and which parts are jokes. So whenever he talks to me, the outcome is usually one of two things: morbid embarrassment or unbearable awkwardness.
+
+### About Albedo: Artistry
+
+As his assistant I learn so much each and every day. What's key is not his existing knowledge, but his talented way of thinking. No matter how complex the task at hand, his way of thinking ensures he gets to the bottom of it, and is able to explain it thoroughly. His methodologies are amazing... to me, it's where alchemy meets art.
+
+### About Albedo: Talent
+
+Talent? Let's hypothesize that he and I were to perform the same research — I'd still spend my whole life playing catch up. But, my studying bio-alchemy has nothing to do with evading his line of research, we just happen to have different interests and dreams — nothing more.
+
+### About Amber
+
+I'm curious as to why her doll is called "Baron Bunny," it clearly has nothing to do with a rabbit at all. Oh, the headband makes it look like it has rabbit ears you say? Hmm... That's heavily reliant on the rabbit stereotype, is it not? Many rabbits' ears are floppy.
+
+### About Fischl
+
+I take it you're referring to the book series, Flowers for Princess Fischl? Indeed, the world the author came up with is very creative. If only I could go see it with my own eyes. Oh, you're referring to Fischl herself? I am... doubtful that she could really take me there.
+
+### About Eula
+
+The role of a scout is a hazardous one, and Ms. Eula throws herself into danger all too easily. So, I made a reconnaissance device for her, so that she wouldn't have to infiltrate enemy camps herself. But Ms. Eula has such an imposing manner, she really puts me on edge, and... I was so nervous that I accidentally left out a few important details while explaining how to use it... As a result, there was an accident...
+Ah, what should I do... I hope she won't hold a grudge against me...
+
+### More About Sucrose: I
+
+You... want to know more about me? You... must have an interest in bio-alchemy, then? Whatever you ask, I will be sure to give you the most precise answer possible. Oh, it really is me specifically that you are interested in? I'm... ahh... oh. I'm at a loss for words.
+
+### More About Sucrose: II
+
+The essence of research is the process of finding the answer. Sometimes, working through that process can be tedious, but every time I see the cumulative result of my efforts... I know that I'm doing what I love.
+
+### More About Sucrose: III
+
+When I was little, I had two good friends — we kept nothing from each other. I thought I knew everything about them, but then... stuff happened, and we grew distant. As for where they are now, what they're doing, whether or not they remember me... I have no idea. Even though we were best friends, things still turned out this way.
+
+### More About Sucrose: IV
+
+Let me tell you a little secret, something I've never told anyone. The purpose behind my research is to create my own wonderland. Yes... just like the ones in fairy tales. The kind where all your dreams come true and you live happily ever after. Hehe, it's childish, isn't it? But, I still believe in fairy tales.
+
+### More About Sucrose: V
+
+If you're busy, please don't let me stand in the way of progress. ...You're not busy? Really? It's fine, I—I get that you have stuff to do. I'm already quite used to working alone. ...You're truly not busy? I—In that case, I don't suppose you could help me with a few things? Or, you know, we could sit and chat about... stuff.
+
+### Sucrose's Hobbies
+
+I like things that look orderly. See? All of my research notes are compiled in notebooks of the exact same thickness. All my potions are lined up according to effect and hue— Wha—What!? What is this purple potion doing here!? Sorry, I—I need to reassess the order of these potions!
+
+### Sucrose's Troubles
+
+I wonder... What is it that you do in your free time? Every time I get a break, I can never find anything to do. I just find myself staring off into space. Time goes by so quickly when I'm experimenting, so how is it that when I'm not doing anything, the days all feel like years...
+
+### Favorite Food
+
+I extract the nectar from Sweet Flowers to make candy. When I get stuck in a rut, I just pop one in my mouth and my focus returns. Retaining optimal blood sugar levels during research is essential.
+
+### Least Favorite Food
+
+Once I came to understand more about bio-alchemy, I stopped eating mushrooms. You're no doubt aware? Mushrooms grow on that which has died, which in turn makes me think of other such things, and my appetite just disappears... Blergh...
+
+### Birthday
+
+Happy birthday! I've been running experiments for months, and finally I can give you this potion. It will allow you to relive your most beautiful memories of the past year. I call it "Bio-Potion No. 3916." Huh? No, no, not 3196, it's 3916!
+
+### Feelings About Ascension: Intro
+
+Finally! A breakthrough in my bio-alchemy research.
+
+### Feelings About Ascension: Building Up
+
+This trip has allowed me to gather a good number of materials. Thank you, I'll be sure to put them to good use.
+
+### Feelings About Ascension: Climax
+
+Recently during my experiments, I've found myself suddenly wondering when I'll next get to go on an adventure with you. So strange... Why do you think that is? I need to do some scientific investigation to find out.
+
+### Feelings About Ascension: Conclusion
+
+I have such an abundant array of research materials now! To spend any more time on me would... would really be a waste of your time! At least... let me use my bio-alchemy to make you up some kind of gift!
+
+### Elemental Skill: I
+
+Adsorption test.
+
+### Elemental Skill: II
+
+Anemo Test 6308!
+
+### Elemental Skill: III
+
+Stand clear!
+
+### Elemental Burst: I
+
+Swirl, Mark II!
+
+### Elemental Burst: II
+
+Enhanced Anemo Module 75!
+
+### Elemental Burst: III
+
+Anemo Hypostasis Emulation!
+
+### Opening Treasure Chest: I
+
+Chests appearing out of thin air... This needs research.
+
+### Opening Treasure Chest: II
+
+*sigh* If only I stumbled upon lab supplies as often.
+
+### Opening Treasure Chest: III
+
+Wow! So many raw materials!
+
+### Low HP: I
+
+A minor error...
+
+### Low HP: II
+
+Unexpected outcome...
+
+### Low HP: III
+
+Doesn't hurt, doesn't hurt...
+
+### Ally at Low HP: I
+
+Come here, I have meds!
+
+### Ally at Low HP: II
+
+Careful — think, then step!
+
+### Fallen: I
+
+My research... has failed.
+
+### Fallen: II
+
+Need to make... adjustments.
+
+### Fallen: III
+
+I should... sleep on it.
+
+### Light Hit Taken: I
+
+That's not right...
+
+### Heavy Hit Taken: I
+
+Don't break my glasses!
+
+### Joining Party: I
+
+I want to help.
+
+### Joining Party: II
+
+I... I can do it!
+
+### Joining Party: III
+
+My experiment... will succeed.
+
+### Receiving a Gift: I
+
+So delectable! Time to finish my research now that I feel at my best!
+
+### Receiving a Gift: II
+
+I must admit, this tastes a lot better than my healthy meals. Time for me to make some modifications to my diet.
+
+### Receiving a Gift: III
+
+Sorry, I have some... reservations about this dish.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我是砂糖，炼金术的…研究员。听说你去过很多地方，一定也…不，没什么，第一次见面，不该这么麻烦你。但…如果你愿意，和我讲讲路上有意思的事，那个…我，会很开心的。
+
+### 闲聊·好奇
+
+那是什么？啊…不见了，我可以去看看吗！
+
+### 闲聊·整理
+
+趁现在，赶快整理一下研究笔记…
+
+### 闲聊·深呼吸
+
+嗯——！好久没出来透气了。
+
+### 刮大风了…
+
+今天城里的风车，转得好快。欸，你说，如果在小动物背上，也装一个像风车一样的东西，会让它们跑得更快呢，还是会飞起来呢？
+
+### 下雪的时候…
+
+这么大的雪，一年都没有几次，错过了，想研究就要等明年了，所以就别拦我啦。啊…阿嚏！呃…我知道了，我多穿一点…
+
+### 阳光很好…
+
+天…天已经亮了？！那、那再做最后一次实验吧，做完就休息！嗯，最后一次…
+
+### 下雨的时候…
+
+湿度上升，嗯…要不要再加一组实验呢？
+
+### 早上好…
+
+早上好，昨晚睡得还好吗？研究表明，只有睡眠充足，第二天的精神才会好，而且，脑袋的运转也会更高效哦。欸…什么？我总是熬夜？那个…唔，没办法嘛。
+
+### 中午好…
+
+呜哇！别、别过来！啊…不是，我的意思是，不要靠得太近，我在做实验，这个…可能会爆炸的。
+
+### 晚上好…
+
+晚上好，啊…请稍等一下！「实验体玖零伍式」的光照分泌物其实有两种，为了明确区分，就叫「壹零叁叁式」和「壹零叁伍式」…嗯，好了，请问有什么事情要找我吗？
+
+### 晚安…
+
+不用等我，先去休息吧。唔…有这么不放心吗？实验已经在收尾了，不会熬夜的，真的…
+
+### 关于砂糖自己·「生物炼金」
+
+「生物炼金」，比起「创造」，更注重「改造」，找到生物隐藏起来的优点，然后放大，结合，结果往往都让人大吃一惊。嗯…生命真的是太神奇了，究竟还有多少我们不知道的东西呢？
+
+### 关于砂糖自己·怕生
+
+我…其实我不知道怎么和陌生人说话。每个人性格都不一样，在意的东西也不一样，一不小心就会不够礼貌，或者哪里冒犯了，唉…说话真的好难啊，比炼金术什么的难多了。
+
+### 关于砂糖自己·耳朵
+
+你…你注意到了啊。我的耳朵是家里遗传下来的，和其他人很不一样，所以平时我都会用头发尽量把它们藏起来…
+
+### 关于我们·观察
+
+我对你的经历，特别好奇，所以…我可以「观察」你一段时间吗？我会很安静的，不会打扰你，这样…你会介意吗？
+
+### 关于我们·收获
+
+老实说，一开始我看你不怎么说话，有点害怕…还以为是在哪里冒犯了你，后来时间长了才慢慢发现，原来，你还是挺好相处的。嘿嘿，这也算…「观察」的意外收获吧。
+
+### 关于我们·请求
+
+听说，是你赶走了风魔龙？战斗一定特别危险吧，幸好你没事。那个…有件小事，风魔龙它在战斗的时候，有没有，掉下来什么东西呢？鳞也好，皮也好，一点点就可以，我想，研究一下…
+
+### 关于「神之眼」…
+
+「神之眼」，是我最重要的实验器材。欸？就、就是实验器材啊，没有了「神之眼」，很多跟元素相关的实验，就没办法进行了。你说战斗？啊…偶尔吧，去野外找材料的时候，偶尔会用到。
+
+### 有什么想要分享…
+
+这个房间里，都是我收藏的骨头。放在左边柜子里的，有蜥蜴，青蛙，还有草鱼，挂在前面的是野猪，右边角落里的那个，是丘丘人…啊，别紧张，不用害怕，其实都是很可爱的东西，习惯了就好了。
+
+### 感兴趣的见闻…
+
+你看，种在这里的冰雾花，其实每一朵都不一样。这一朵冰元素含量更高，这一朵花期更长…嗯？你问那一朵，哦，那一朵叫「叁式冰雾花改十七号放大版」，特点，嗯…就是更大一点。
+
+### 关于诺艾尔…
+
+她…经常会主动帮我的忙，但有时候太热情了，反而…让我有点苦恼。有一次，她看到我实验室门前堆了三箱器材，就很麻利地帮我搬了进来，但其实…那些都是我刚刚搬出去的。
+
+### 关于可莉…
+
+她已经被琴团长关过好多次禁闭了，但只要被放出来，不久就又会闯祸，唉，不知道有没有真的反省过。啊…我答应她，要帮她做一个会蹦会跳，又很安全的蹦蹦，只不过现在，设计上还有不少问题…
+
+### 关于琴…
+
+我有点不敢和琴团长说话，因为她太严肃了…我知道她是个很好的人，但、但知道归知道，害怕…还是会害怕。我一般都不会去打扰她，实在有不得不找她的事，我…我也会拜托阿贝多先生。
+
+### 关于丽莎…
+
+我觉得她，好像懂的特别多。她明明没有看过我的研究，但有好几次，都给了我最关键的建议。她到底是怎么知道的呢？是…观察？还是推理呢？
+
+### 关于凯亚…
+
+唔…我知道他喜欢开玩笑，也没有存心捉弄我的意思。可是，我实在是…分不清他的哪句话是真话，哪句话又是玩笑，所以最后要不然就变得很尴尬，要不然，就是我出洋相…
+
+### 关于阿贝多·艺术
+
+当他的助手，每天都能学到很多。重点不是知识，而是「天才」的思考方法，无论是多么复杂的问题，他总能抽丝剥茧，再一一解决。在我看来，那就是艺术…
+
+### 关于阿贝多·天赋
+
+你说天赋？嗯…假如和他做同样的研究，可能确实一辈子都没法超过他。但，我研究「生物炼金」并没有故意要躲开他的意思，只是…嗯，我和他恰好有不同的爱好，还有梦想，仅此而已吧。
+
+### 关于安柏…
+
+我很好奇，为什么她做的布偶，名字叫「兔兔伯爵」呢？和兔子没什么关系吧。唔…你说，头上的发带，很像兔耳朵？…有道理，但其实这是刻板印象，也有很多兔子耳朵是垂下来的。
+
+### 关于菲谢尔…
+
+你是说《菲谢尔皇女夜谭》？我知道，作者创造出的世界很有意思，要是能亲眼去看一看就好了…欸？你在说那个「菲谢尔」啊？她啊…嗯，她…应该是没办法带我去的。
+
+### 关于优菈…
+
+游击骑士的工作很危险，优菈小姐的行动又格外大胆，所以我给她制作了一个侦察装置，这样她就不用潜入敌人的营地了。但优菈小姐的气势太吓人，我有点怕她，告诉她使用方法的时候，不小心漏掉了几条注意事项，结果真的发生了意外…
+怎么办？我会不会被她记仇了…
+
+### 想要了解砂糖·其一
+
+了解我？你…是对「生物炼金」感兴趣吗？你有疑问的话，我会尽量给你准确答案的。嗯？不是炼金，而是「我」？唔，这个，我也不知道该说什么…
+
+### 想要了解砂糖·其二
+
+研究的本质，是寻找答案的过程。这个过程有时候很繁琐，也很累，但每次只要看看积累起来的成果，就会觉得…嗯，我是真的很喜欢做这样的事。
+
+### 想要了解砂糖·其三
+
+小时候，我有两个好朋友，我们无话不说。本来我以为，我对她们了解得一清二楚，但后来发生了一些事，我突然就…看不透她们了。她们现在在哪儿，在做什么，还记不记得我，这些…我都不知道。就算再好的朋友，也会变成这样呢。
+
+### 想要了解砂糖·其四
+
+告诉你一个小秘密，我对谁都没有讲过。「生物炼金」的最终目标，是创造出「仙境」…对，就是童话里的那个，能找到永远的快乐与幸福的「仙境」。嘿嘿，有点幼稚对吧？但，我现在都还相信那个故事。
+
+### 想要了解砂糖·其五
+
+嗯…如果你忙的话，就去忙吧，我不想给你添麻烦。不忙？真的不忙吗？没事的，就算忙也没关系，一个人做实验我早就习惯了。啊…真、真的不忙？那…那可不可以，帮帮我的忙？或者…只是陪我说说话，什么的…
+
+### 砂糖的爱好…
+
+我喜欢看起来很规则的东西，你看，书架上每一本实验记录，厚度都是一样的，实验台上的几百瓶药水，都是按功效与颜色分别排好…欸？…欸欸？！为什么这瓶紫色的药水会出现在这里！我、我要全部整理一遍！
+
+### 砂糖的烦恼…
+
+我想知道，你平时休息的时候，会干些什么呢？每到休息日，我就找不到事情做，只能发呆…明明做实验的时候时间过得很快，休息的时候，怎么就有种度日如年的感觉…
+
+### 喜欢的食物…
+
+我会提炼出甜甜花的花蜜，做成糖块。脑袋转不动的时候吃一块，就又可以集中精神了。做研究，糖分的补充是很重要的。
+
+### 讨厌的食物…
+
+知道了很多「生物炼金」的知识之后，我就不怎么吃蘑菇了…你应该知道吧？蘑菇，是长在死掉的生物上的，联想到同类的其他东西，我、我的胃口就…呃…
+
+### 生日…
+
+生日快乐！我做了好几个月的实验，终于，可以把这个药水送给你了。它能唤醒你这一年来最美好的回忆，名字叫做「生物秘药叁玖壹陆号」…唔，不是「叁壹玖陆号」，是「叁玖壹陆号」啦！
+
+### 突破的感受·起
+
+「生物炼金」的研究，终于有突破了。
+
+### 突破的感受·承
+
+这次旅行，我又收集到了很多研究材料，谢谢你，我会好好利用的。
+
+### 突破的感受·转
+
+最近我在做实验的时候，经常会莫名地期待起来，什么时候又可以和你一起去冒险。唔…好奇怪，这是为什么呢？我要研究看看。
+
+### 突破的感受·合
+
+我收集到的研究材料，已经很足够了！花更多时间在我的身上，会…会很浪费的！至少…也让我用「生物炼金」，做点什么回礼给你！
+
+### 元素战技·其一
+
+吸附力测试。
+
+### 元素战技·其二
+
+陆叁零捌式风单元！
+
+### 元素战技·其三
+
+确认…安全距离！
+
+### 元素爆发·其一
+
+超扩散态！
+
+### 元素爆发·其二
+
+柒伍式超级风模块！
+
+### 元素爆发·其三
+
+无相之风…拟造！
+
+### 打开宝箱·其一
+
+宝箱的出现成因…也值得研究。
+
+### 打开宝箱·其二
+
+真希望实验材料也能成箱出现啊。
+
+### 打开宝箱·其三
+
+太好了，有这么多素材！
+
+### 生命值低·其一
+
+这种误差，还能接受…
+
+### 生命值低·其二
+
+有点，超出预想…
+
+### 生命值低·其三
+
+不痛不痛，不痛的…
+
+### 同伴生命值低·其一
+
+快回来，我这里有药水！
+
+### 同伴生命值低·其二
+
+小心点，看准了再上！
+
+### 倒下·其一
+
+研究…又失败了。
+
+### 倒下·其二
+
+还需要…调整。
+
+### 倒下·其三
+
+该…睡一会儿了。
+
+### 普通受击·其一
+
+不应该啊…
+
+### 重受击·其一
+
+眼镜会碎掉的！
+
+### 加入队伍·其一
+
+希望能帮上忙…
+
+### 加入队伍·其二
+
+我、我会努力的！
+
+### 加入队伍·其三
+
+实验…一定要成功。
+
+### 收到赠礼·其一
+
+好吃！啊…趁着现在状态最好，赶紧把研究做完…
+
+### 收到赠礼·其二
+
+比我做的营养餐好吃了不少。嗯，我也算改善伙食了。
+
+### 收到赠礼·其三
+
+对不起。我对这道菜，还是有点…

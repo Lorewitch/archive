@@ -1,0 +1,88 @@
+{
+  "id": "material_set_104368",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/item_104368.webp",
+  "title": {
+    "ru": "Учения о «Стойкости» / Указания о «Стойкости» / Философия о «Стойкости»",
+    "en": "Teachings of Fortitude / Guide to Fortitude / Philosophies of Fortitude",
+    "zh": "「坚忍」的教导 / 「坚忍」的指引 / 「坚忍」的哲学"
+  },
+  "region": "Снежная",
+  "rarity": null,
+  "game_version": "7.0",
+  "tags": [
+    "материалы"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "talents",
+  "material_type_title": {
+    "ru": "Таланты",
+    "en": "Talents",
+    "zh": "天赋"
+  },
+  "materials": [
+    {
+      "key": "material_104368",
+      "title": {
+        "ru": "Учения о «Стойкости»",
+        "en": "Teachings of Fortitude",
+        "zh": "「坚忍」的教导"
+      },
+      "icon": "assets/icons/items/development_materials/item_104368.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nСтойкость - это добродетель ледяной земли.\nСтойкость рождается из неукротимого стремления выжить. Даже оказавшись вдали от плодородной почвы, хрупкое семя благодаря жажде жизни способно пустить корни глубоко в промёрзшую землю.",
+        "en": "Talent Level-Up Material.\nFortitude is the defining character of the frozen realm.\nIt stems from a raw yearning for survival. Even if scattered far from fertile soil, a fragile seed can rely on this desperate longing to drive its roots deep beneath the frozen tundra.",
+        "zh": "天赋培养素材。\n「坚忍」是冰之国土的品格。\n坚忍源自对生存的渴望。就算未被播撒在沃土中，羸弱的种子却也能凭借着这样的渴望，在冻原的土地下根系深扎。"
+      }
+    },
+    {
+      "key": "material_104369",
+      "title": {
+        "ru": "Указания о «Стойкости»",
+        "en": "Guide to Fortitude",
+        "zh": "「坚忍」的指引"
+      },
+      "icon": "assets/icons/items/development_materials/item_104369.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nСтойкость - это добродетель ледяной земли.\nСтойкость порождает волю к росту. Даже сокрушённое лютым холодом, хрупкое семя способно с помощью этой воли пробиться сквозь промёрзшую землю и дать жизнь новым росткам среди заснеженных просторов.",
+        "en": "Talent Level-Up Material.\nFortitude is the defining character of the frozen realm.\nIt brings forth the will to grow. Though shattered by the bitter cold, a fragile seed can still harness this will to break through the frozen earth, pushing forth fresh sprouts to life across a landscape blanketed in wind and snow.",
+        "zh": "天赋培养素材。\n「坚忍」是冰之国土的品格。\n坚忍带来生长的意志。即便寒潮摧折，羸弱的种子仍能借这意志破土而出，在风雪覆盖的大地上生出新芽。"
+      }
+    },
+    {
+      "key": "material_104370",
+      "title": {
+        "ru": "Философия о «Стойкости»",
+        "en": "Philosophies of Fortitude",
+        "zh": "「坚忍」的哲学"
+      },
+      "icon": "assets/icons/items/development_materials/item_104370.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nСтойкость - это добродетель ледяной земли.\nСтойкость дарует жизни процветание. Люди этого края никогда не склонялись перед лютым холодом, подобно тому как хрупкое семя упрямо прорастает среди снежных бурь. Эта цивилизация пережила века суровых зим, но по-прежнему полна жизни, словно морозник, расцветающий вновь и вновь.",
+        "en": "Talent Level-Up Material.\nFortitude is the defining character of the frozen realm.\nIt breeds the prosperity of life itself. The people here have never bowed to the biting cold, just as a fragile seed defiantly chooses to bloom amidst the blizzards. This civilization has witnessed centuries of bitter winter, yet remains vibrant much like the Frostfairy Flower that flourishes season after season.",
+        "zh": "天赋培养素材。\n「坚忍」是冰之国土的品格。\n坚忍成就生命的繁荣。人们不曾向严寒屈服，如同羸弱的种子偏要在风雪里开出花朵；文明历经困苦而生生不息，如同霜仙花在寒冬中一年又一年盛放。"
+      }
+    }
+  ],
+  "material_count": 3
+}

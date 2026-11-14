@@ -490,3 +490,866 @@ In that fleeting moment of chill, she realized that before she was consumed by t
 也是那个时刻，月的徽章像眼泪一样滴落在了她的脊背。
 那是她目睹过也拒绝过的冷辉，给予了她和给予花园中的花草一样的宁静与抚慰。
 在片刻的冰凉下，她想到了，在焚于晨星的炙烤前，她也能再爱她的花朵亿万年。
+
+# voice_source_ids: 126000,126001,126002,126003,126004,126005,126006,126007,126008,126009,126010,126011,126012,126013,126014,126015,126016,126017,126018,126019,126020,126021,126022,126023,126024,126025,126026,126027,126028,126029,126030,126031,126032,126033,126034,126035,126036,126037,126038,126039,126040,126041,126042,126043,126044,126045,126046,126047,126048,126049,126050,126051,126052,126053,126054,126055,126056,126057,126058,126059,126060,126061,126062,126063,126064,126065,126066,126067,126068,126069,126070
+
+## REPLICAS_RU
+
+### Поболтаем: Луна
+
+Весь мир пользуется дарами неба, дождём и облаками, которые украшают землю под ними. Луна никогда не была чужим миром...
+
+### Поболтаем: Математика
+
+Математика - основа всего мира. Если интересно, я могу научить тебя считать. Хм... покажи свои десять пальцев, начнём с этого.
+
+### Поболтаем: Искусство Адепта
+
+Искусство Адепта поистине чудесно, но если не совершенствовать свой разум прежде чем совершенствовать искусство, все достижения будут подобны отражению луны на воде, которое исчезает при малейшем прикосновении.
+
+### Привет...
+
+Меня зовут Цзы Бай. Некогда смертные называли меня Адептом Белой Лошадью, но теперь, когда я спустилась в мир смертных, можешь называть меня просто Цзы Бай.
+
+### Когда идёт дождь...
+
+Луны почти не видно...
+
+### Когда гремит гром...
+
+Хм, должно быть, гром отправился на борьбу со злом.
+
+### Когда идёт снег...
+
+По крайней мере, здесь не так холодно, как на Луне.
+
+### В пустыне...
+
+...Путешествовать по пустыне непросто, как я себе и представляла.
+
+### Доброе утро...
+
+Доброе утро! Как спалось?
+
+### Добрый день...
+
+Солнце в зените. Отдохни, если устал. / Солнце в зените. Отдохни, если устала.
+
+### Добрый вечер...
+
+Луна бесшумно поднимается из-за горизонта. И вдруг мы замечаем, как она сияет с высоты небес.
+
+### Спокойной ночи...
+
+Хе-хе, ты что, хочешь продержаться дольше, чем луна? Тебе пора спать. Спокойной ночи.
+
+### О странствиях Цзы Бай
+
+После того как я отсекла три смертные сущности, низшая из них часто странствовала среди людей и пережила множество событий. Самые известные из них записаны в книге «Ночь в бамбуковом лесу», в которой рассказывается о моих ночных странствиях. Наверное, при случае мне тоже стоит побывать в той бамбуковой роще.
+
+### О Цзы Бай: Одиночество
+
+Когда я жила одна, я часто прибегала к математике, чтобы скоротать время, придумывая и решая математические задачки. Если интересно, я могу показать несколько любопытных примеров.
+
+### О нас: Любование луной
+
+Когда жители Ли Юэ пишут стихи о тоске по дому, они часто выражают свои чувства, воспевая луну. Это вполне логично, ведь независимо от того, как далеко мы находимся друг от друга, все люди на земле живут под одним лунным светом. И всё же, чтобы по-настоящему оценить опыт созерцания луны, путник, безусловно, предпочтёт вернуться домой и разделить его со своими друзьями и семьёй. Как говорится: «Луна ярче всего светит над родным домом».
+
+### О нас: На чужбине
+
+Ты говорил, что родом не из этого мира и что тебя разлучили с семьёй... Несмотря на все страдания и опасности, через которые ты прошёл на чужбине, ты храбро сражался, проявив редкую силу духа. Небеса не оставят без награды тех, кто усердно трудится - я верю, что твои желания обязательно сбудутся. Это не просто слова утешения. Жители Ли Юэ часто загадывают на луну желания о воссоединении с семьёй, а поскольку я живу на луне, моё благословение будет самым действенным. / Ты говорила, что родом не из этого мира и что тебя разлучили с семьёй... Несмотря на все страдания и опасности, через которые ты прошла на чужбине, ты храбро сражалась, проявив редкую силу духа. Небеса не оставят без награды тех, кто усердно трудится - я верю, что твои желания обязательно сбудутся. Это не просто слова утешения. Жители Ли Юэ часто загадывают на луну желания о воссоединении с семьёй, а поскольку я живу на луне, моё благословение будет самым действенным.
+
+### О Лунном колесе...
+
+Получив божественную силу, можно распоряжаться ею по своему усмотрению. Лично я... я теперь живу в Ли Юэ, и защита этой земли стоит для меня на первом месте.
+
+### Давай поделимся...
+
+Моя третья смертная сущность, входившая в число Восьми Великих, называлась Златоглазая серебристая лошадь, но на самом деле я... или «она» имела мало общего с другими Адептами, за исключением инцидента с Тао Ду. Большую часть времени она проводила в странствиях. Согласно моим более поздним воспоминаниям, другие из числа Восьми Великих пытались её выследить, но четыре ноги всегда быстрее двух... Я не верю, что им удалось догнать ту лошадь.
+
+### Интересные вещи...
+
+Я удивлена, что глазурная лилия сохранилась до наших дней... Я помню, как Рыбак Юньлай и Малыш Уван любили пить вино с лепестками этого цветка. Когда они были в хорошем настроении, они танцевали с мечами... Может, они разработали какую-то удивительную технику фехтования? Не исключено. Однако слишком часто они напивались до такой степени, что потом ничего не могли вспомнить.
+
+### О Чжун Ли...
+
+Хотя смертные называют меня Адептом Белой Лошадью, этот титул я получила не от Моракса, верховного Адепта. В незапамятные времена я уже занимала небесный пост и исполняла обязанности вестницы луны. Но прошлое осталось в прошлом, и нет нужды зацикливаться на нём. Раз уж люди привыкли называть меня Адептом Белой Лошадью, пусть так и будет. Часто ли я вижу Чжун Ли? Иногда я вижу, как он прогуливается по улицам с госпожой Ху или в одиночестве наслаждается чаем. Похоже, роль консультанта приносит ему больше удовольствия и спокойствия, чем положение Властелина Камня.
+
+### О Нин Гуан...
+
+Я понимаю, что современный Ли Юэ построен на торговле - деле весьма сложном и запутанном. Воля Небес выдающаяся личность, раз способна нести бремя управления Ли Юэ. Но я слышала, что в Департаменте по делам граждан Ли Юэ есть Цисин, но повстречала лишь нескольких из них. Интересно, где же остальные? Хм, наверное, они тоже заняты своими обязанностями...
+
+### О Кэ Цин...
+
+Однажды я встретила Нефритовое Равновесие на окраине Ли Юэ. Она была там с группой из Департамента по делам граждан и проводила какие-то земельные измерения. Местность была негостеприимной - гористой, с отвесными скалами, но она была там, возглавляя работу. Я случайно заметила её и собиралась расчистить ей путь от зарослей кустарников когда, к моему удивлению, она достала меч и сама быстро прорубила себе дорогу. Я слышала, что она имеет репутацию смелого и неудержимого командира, и должна сказать, что она полностью оправдывает её.
+
+### О Ци Ци...
+
+Ци Ци - особый случай. Маленькая девочка с телом Адепта, но без души Адепта, рассудок которой то просветляется, то затуманивается. Мне кажется, я видела подобные симптомы... Если позволят обстоятельства, я бы хотела более тщательно обследовать её и поставить точный диагноз.
+
+### О Сянь Юнь...
+
+Я знакома с Хранителем Облаков или Сянь Юнь, как она себя называет. Хоть она и Адепт, но редко использует свою силу, предпочитая возиться с механическими устройствами. Она сказала, что хочет создать механизмы, которые смогут с лёгкостью использовать даже обычные смертные. Я вспомнила о чертежах из царства Лан-гань и воспроизвела их для неё. Однако эти механизмы настолько древние, что я не уверена, пригодятся ли они в наше время...
+
+### О Янь Фэй...
+
+В крови этой девушки удивительным образом течёт кровь Адептов. По словам Владыки Песен и Скитаний она принадлежит к молодому поколению Адептов, не знавших войны. И, судя по тому, как она владеет законами, вряд ли ей нужно прибегать к силе Адептов, чтобы обрести мудрость. Хм... Я помню несколько примеров прецедентного права из древних времен. Надо будет в ближайшие дни записать их и попросить Владыку Песен и Скитаний передать ей. Надеюсь, ей понравится.
+
+### О Сяо...
+
+Я слышала, что когда-то Великие Яксы под предводительством Моракса очистили от зла все уголки земли. Они совершили много выдающихся подвигов, но ценой этого стал кармический долг, который мучил их... Сегодня остался только генерал Алатус. Интересно, его кармический долг всё ещё мучает его? Может быть, я могу чем-то помочь... Что? Его уже исцелили? Понятно... Очень хорошо. Я рада, что он обрёл покой.
+
+### О Яо Яо...
+
+Ученица Владыки Песен и Скитаний, если я не ошибаюсь. Для простой смертной она обладает впечатляющей силой и духом. Хранитель Облаков тоже взяла себе несколько учеников? Хм... Хорошо иметь преемников. Почему я не слышала, чтобы Творец Гор или Владыка Лун проявляли интерес к воспитанию учеников?.. Может быть, они не нашли подходящих кандидатов? Или, возможно, они слишком заняты развлечениями, чтобы думать о таких вещах? Ха... Каждый Адепт по-своему загадочен...
+
+### О Лань Янь...
+
+Лань Янь, несомненно, является потомком Повелителя Ветра. Я помню, что Повелитель Ветра некоторое время путешествовал вместе с Серебрянокрылой чёрной птицей, создав довольно увлекательную историю. Я уверена, они были бы рады узнать, насколько мудрыми и способными оказались их потомки.
+
+### О Ху Тао...
+
+Я слышала о подвиге госпожи Ху, как она в одиночку отправилась на верную смерть, чтобы защитить других. Такая отвага и решимость достойны преемницы Малыша Увана. К счастью, благодаря твоей помощи, госпожа Ху не разделила судьбу Одинокой бабочки багрового пламени... Впрочем, не будем вспоминать о былом.
+
+### О Богинях Трёх Лун...
+
+Богини Трёх Лун? Насколько я знаю, они были очень близки. Когда одна из них не хотела дежурить, она просила другую подменить её, а потом в благодарность дарила ей косметику и украшения. Но такое произвольное распределение дежурств иногда приводило к проблемам. Например, однажды все три Луны появились в небе одновременно - это случилось потому, что они перепутали время. В тот день должна была дежурить только одна Луна. Они поспешили выстроиться в ряд - две Луны изо всех сил пытались спрятаться за той, которая должна была быть на дежурстве... но, увы, они всё равно напугали бедных людей на земле и те жгли благовония несколько дней подряд. После этого случая они попросили меня придумать что-нибудь, чтобы объяснить людям, что три Луны в небе не предвещают большой беды или смены власти. Я спросила, что же тогда это означает, и они, немного помедлив, ответили: «Это... это значит, что приближается праздник, и всем пора есть лунные пряники... вот...»
+
+### Узнать больше о Цзы Бай I
+
+Сегодняшний Ли Юэ сильно отличается от той земли, которую я знала раньше. Даже название Ли Юэ тогда ещё не существовало. С тех пор прошло много лун, многое изменилось, и всё, что я помню, давно кануло в небытие. Поэты любят говорить, что время летит, как белый конь, и, что любопытно, моя третья смертная сущность была известна как Адепт Белая Лошадь. Возможно, это карма... Хочешь узнать больше о моём прошлом? Что ж, пусть ещё один человек узнает - в этом нет ничего плохого.
+
+### Узнать больше о Цзы Бай II
+
+Давным-давно я спустилась с небес в Лан-гань, чтобы выступить в роли посланницы и направить народ этой страны к мирному будущему. Жители этого царства называли меня Богиней Земли и Зерна, веря, что я благословляю их страну благоприятной погодой и обильными урожаями. Я действительно имела некоторое влияние на погоду, но обильные урожаи были в полной мере заслугой трудолюбивого народа этой страны. Как я направляла Лан-гань? Точно не с помощью величия и могущества. За исключением нескольких вмешательств, чтобы предсказать будущее, отвратить зло и предотвратить бедствия, я проводила большую часть времени в роли преподавателя. Я учила детей читать и писать, считать и играть на музыкальных инструментах. В свободное время я составляла и редактировала тексты, посвящённые этикету, музыке и другим подобным вопросам.
+
+### Узнать больше о Цзы Бай III
+
+На мой взгляд, самое важное, на чём следует сосредоточиться при ведении нации в будущее, - это воспитание нравственности. Народ, лишённый добродетели, не может построить устойчивую нацию, независимо от того, насколько велико его благосостояние. Вспомни тех жителей Ли Юэ, которые поднимаются в горы в поисках Адептов, движимые лишь корыстными мотивами. Даже если им посчастливится обрести сокровища Адептов, они в конечном итоге станут их погибелью, если намерения нечисты. Конечно, культивируя добродетель в своём сердце, нужно также точить клинок в руке. Как говорится, нужно надеяться на лучшее, но готовиться к худшему.
+
+### Узнать больше о Цзы Бай IV
+
+Я всегда была заядлым читателем. В наши дни книги - это единственное, где я могу найти дом и друзей, которых когда-то знала. Как и раньше, я делаю пометки в тексте, когда нахожу недостоверные факты. Недавно кто-то заметил мои пометки и потратил несколько дней на то, чтобы найти меня и уговорить преподавать историю в его школе. Он был довольно настойчив, но его помыслы показались мне искренними, поэтому я согласилась и в течение месяца преподавала там классику... Вид учеников, жаждущих знаний, вернул меня в то время, когда я преподавала в школе царства Лан-гань. Я и представить себе не могла, что снова стану учителем... Должно быть, такова моя судьба.
+
+### Узнать больше о Цзы Бай V
+
+Я провожу большую часть времени в путешествиях, но иногда возвращаюсь в Ли Юэ, чтобы преподавать в разных школах, где по возможности исправляю исторические записи о царстве Лан-гань. В моё время изучение истории считалось чрезвычайно важным делом, ведь зеркало прошлого помогает нам извлечь уроки для будущего. Я уверена, древние мудрецы были бы рады узнать, что спустя столетия есть те, кто занимается изучением исторических записей о царстве Лан-гань.
+...Я не очень похожа на Адепта? Ну и ладно. Современному Ли Юэ нужна не сверхъестественная сила группы Адептов, а объединённая сила всего народа. Уверена, что другие Адепты тоже понимают это. В любом случае моя роль - быть наставником, и я продолжаю выполнять её в роли учителя.
+
+### Хобби Цзы Бай...
+
+Если говорить о хобби, то это, пожалуй, любование луной. Любоваться полной луной в Ли Юэ... очень увлекательно.
+
+### Беспокойство Цзы Бай...
+
+В современных книгах Ли Юэ используется слишком много... оригинальных аллюзий. Я не понимаю большинства из них, и попытки отследить их происхождение являются весьма трудоёмким занятием. Полагаю, мне потребуется некоторое время, чтобы освоить современный язык...
+
+### Любимая еда...
+
+Тебе когда-нибудь доводилось есть лунные пряники? Раньше я наслаждалась ими вместе с друзьями во время любования луной, а теперь... их нигде не найти, очень жаль.
+
+### Нелюбимая еда...
+
+Сырое мясо бывает немного... Эм, в любом случае мясо лучше есть прожаренным.
+
+### Подарок I
+
+Если бы я могла насладиться такими изысканными яствами во время своего вынужденного пребывания на Луне, возможно, я бы осталась там подольше. Ха-ха, шучу.
+
+### Подарок II
+
+Отличная еда. Я с удовольствием её съем.
+
+### Подарок III
+
+Это блюдо на вкус... довольно необычное. Можно даже сказать, новаторское.
+
+### День рождения...
+
+Сегодня твой день рождения? Это надо отпраздновать. Помню, что пожилые люди обычно едят лапшу долголетия... Хе-хе, и хотя ты выглядишь молодо, подозреваю, что если посчитать годы с момента твоего рождения, то ты на самом деле старше большинства жителей гавани Ли Юэ. В этом смысле приготовить для тебя лапшу долголетия вполне уместно... Хм? Конечно, я знаю, как её готовить. Я вступила в ряды небожителей, но я не была одной из них от рождения. Ох... Честно говоря, я уже давно не испытываю сильного голода просто потому, что я провела много времени в небесах, где не было возможности готовить. Но я отвлеклась. Еда - второе по важности дело в мире, поэтому нужно позаботиться о том, чтобы приготовить тебе вкусную лапшу долголетия до окончания дня.
+
+### Чувство возвышения: Начало
+
+Понятно.
+
+### Чувство возвышения: Нарастание
+
+Луна то растёт, то убывает...
+
+### Чувство возвышения: Кульминация
+
+Душа возвращается домой.
+
+### Чувство возвышения: Окончание
+
+Как Адепт, я должна выполнять свой долг.
+
+### Элементальный навык I
+
+Очищение.
+
+### Элементальный навык II
+
+Без лишних слов.
+
+### Элементальный навык III
+
+Сметая пыль.
+
+### Взрыв стихии I
+
+Божественный свет, защити их.
+
+### Взрыв стихии II
+
+Великая мудрость укажет нам путь.
+
+### Взрыв стихии III
+
+Небо прояснилось, светит луна.
+
+### Открытие сундука I
+
+Дар небес. Приму с благодарностью.
+
+### Открытие сундука II
+
+Раз вещь ничейная, можно её взять.
+
+### Открытие сундука III
+
+Возьми, пригодится.
+
+### Низкий уровень HP I
+
+...Я плохо подготовилась.
+
+### Низкий уровень HP II
+
+Не сдаваться...
+
+### Низкий уровень HP III
+
+Пора кончать с этим.
+
+### Низкий уровень HP компаньона I
+
+Не стоит рисковать.
+
+### Низкий уровень HP компаньона II
+
+...Обсудим позже.
+
+### Без сознания I
+
+Моя жизнь... закончилась...
+
+### Без сознания II
+
+Не видно луны...
+
+### Без сознания III
+
+Тёмные облака застилают небо...
+
+### Получен лёгкий удар I
+
+Я ошиблась.
+
+### Получен лёгкий удар II
+
+Небольшая неприятность.
+
+### Получен тяжёлый удар I
+
+Легкомысленно и заносчиво.
+
+### Получен тяжёлый удар II
+
+Глупо и невежественно.
+
+### Присоединяется к группе I
+
+Я пойду с тобой.
+
+### Присоединяется к группе II
+
+Куда держим путь?
+
+### Присоединяется к группе III
+
+Прекрасный солнечный день - отличное время для дальних путешествий.
+
+## REPLICAS_EN
+
+### Chat: The Moon
+
+The whole world shares the bounty of the skies, the rain and clouds that grace the earth beneath. The moon was never meant to be a foreign realm...
+
+### Chat: Mathematics
+
+Mathematics is the foundation of all things. If you're interested, I can teach you some arithmetic... First, hold out both your hands. We'll start with the ten fingers.
+
+### Chat: Adeptus Art
+
+The Adeptus Arts are most miraculous, but unless one first cultivates the mind before cultivating these arts, all their feats will be like the moon's reflection on water, shattering at the slightest touch.
+
+### Hello
+
+My name is Zibai. I was once known to mortals as the White Horse Adeptus, but now that I have descended to the mortal plane, you may simply call me Zibai.
+
+### When It Rains
+
+The moon is barely visible...
+
+### When Thunder Strikes
+
+Hark, the thunderous wrath of heaven.
+
+### When It Snows
+
+At least it's not as cold as on the moon.
+
+### In the Desert
+
+...Journeying through the desert is as arduous as one might imagine.
+
+### Good Morning
+
+Good morning. Did you sleep well last night?
+
+### Good Afternoon
+
+The sun is now at its peak. If you are tired, you should take a rest.
+
+### Good Evening
+
+The moon creeps silently into the sky... until, all of a sudden, we notice it shining down from the heavens.
+
+### Good Night
+
+Hehe, are you trying to stay up longer than the moon? You should go to sleep now. Goodnight.
+
+### About Zibai: Travels
+
+After I severed my Three Deadly Selves, my third self wandered the mortal realm and experienced many things. The most well-known of these are recorded in the book, Moonlit Bamboo Forest, which recounts my nighttime wanderings. Perhaps I should visit the bamboo forest for myself when I have the time.
+
+### About Zibai: Seclusion
+
+When I lived alone, I would often resort to mathematics to pass the time, devising and solving arithmetic puzzles. If you are interested, I can take you through some of the more amusing ones.
+
+### About Us: Moongazing
+
+When the people of Liyue write poems about homesickness, they often express their feelings by waxing lyrical about the moon. This makes abundant sense, as no matter how far apart we may be, everyone in the world shares the same moonlight. And yet, to truly appreciate the experience of gazing at the moon, surely the traveler would prefer to return home and share it with their friends and family. For, as the saying goes: "The moon always shines brightest back home."
+
+### About Us: Another Realm
+
+You mentioned before that you do not hail from this world, and that you were separated from kin... Yet, despite the great hardships and dangers you have faced in this foreign land, you have fought on most courageously, displaying a rare degree of fortitude. Heaven does not forsake those who strive on — I am confident that you will achieve what you hope for. I do not say this as mere consolation, either. The people of Liyue often wish upon the moon for family reunions, and as a long-time resident of the lunar plane, surely my blessing counts for more than most.
+
+### About the Moon Wheel
+
+Once divine power is obtained, one may wield it as they will. As for me... Since I now dwell in Liyue, protecting this land naturally comes first.
+
+### Something to Share
+
+My Third Deadly Self, counted among the Eight Adepts, was named the Gold-Eyed Celadon Mare — but in fact, I... or, "she" had very little to do with the other adepts outside of the Tao Dou incident. She spent most of her time roaming elsewhere. According to my later memories, several other members of the Eight Adepts attempted to track her down, but four legs will always outrun two... I don't believe they ever did catch up with that horse.
+
+### Interesting Things
+
+I am amazed that the Glaze Lily survives to this day... I still remember how the Yunlai Angler and the Wuwang Kid enjoyed pairing the petals with a glass of wine. Then, a few drinks later, they'd start doing a sword routine to add to the fun... Was some mysterious sword style born in the process? It's possible. All too often, however, they got too drunk to remember anything after the fact.
+
+### About Zhongli
+
+Though mortals call me the White Horse Adeptus, I was not bestowed with this title by Morax, the Prime of Adepti. I joined the celestial ranks very long ago, in ancient times, where I served as a moon envoy. But what is past is settled, and there is no need to dwell on it. Here in the present, people seem accustomed to calling me the White Horse Adeptus, and that is fine by me. Do I ever see Zhongli around, you ask? Why yes, I occasionally see him walking the streets with Director Hu or enjoying a cup of tea on his own. I must say, his life as a consultant seems far more pleasant and relaxed than his life as Rex Lapis.
+
+### About Ningguang
+
+I understand that the Liyue of today is built on trade and commerce — a highly involved and complex affair. For the Tianquan to shoulder the enormous responsibility of ruling Liyue, she must be a truly exceptional person. But I have heard that there are a total of seven Qixing within the Ministry of Civil Affairs, and I have only met a handful of them. I wonder where the others are? Hmm, I suppose they must be busy elsewhere with their duties...
+
+### About Keqing
+
+I ran into the Yuheng once on the outskirts of Liyue. She was there with a team from the Ministry of Civil Affairs to conduct some land measurements. The terrain was inhospitable — mountainous, with sheer cliff faces, but there she was, leading from the front. I happened to notice her, and was about to clear some overgrown brambles from her path when, to my surprise, she drew her sword and swiftly cleared the path ahead by herself. I had heard that she had a reputation for being a bold and unstoppable commander, and I must say she certainly lives up to it.
+
+### About Qiqi
+
+Qiqi is an odd case. A little girl with the body of an adeptus, but not the soul, whose mental clarity fades in and out. I believe I have seen these symptoms before, hmm... If fate permits, I should like to examine her more fully and diagnose her condition.
+
+### About Xianyun
+
+I have met with Cloud Retainer — or "Xianyun," as she has taken to calling herself. Although she is an adeptus, she rarely makes use of her attendant powers, preferring instead to tinker away with her mechanical devices. She explained that she seeks to create mechanisms that even ordinary mortals can use with ease. As it happened, I recalled some mechanical blueprints from Lang-Gan, so I proceeded to draw them for her. However, those mechanisms are so ancient that I'm not sure they'll be of any use in this day and age...
+
+### About Yanfei
+
+I understand this young lady is part-human, part-adeptus? Most remarkable. From what Streetward Rambler has told me, it would seem that she belongs to a younger generation of adepti who have never seen war in their lifetime. And with her consummate mastery of the legal code, I also doubt she has to rely on her adeptal powers to gain wisdom. Heh... I still remember a few examples of case law from ancient times. I'll have to write them down in the coming days and ask Streetward Rambler to pass them on to her. I hope she'll like them.
+
+### About Xiao
+
+I've heard there was a time when the Yakshas, led by Morax, cleansed evil from all corners of the land. They performed many outstanding military feats in the process, but it came at the cost of a karmic debt which tormented them... Today, only General Alatus remains. I wonder if his karmic debt still troubles him? Perhaps there is some way in which I could help... What? Someone has already healed him? I see... Very good. I'm glad he's at peace.
+
+### About Yaoyao
+
+A disciple of Streetward Rambler, if I'm not mistaken. She possesses commendable strength and spirit for a mere mortal. Cloud Retainer has taken on several disciples as well, yes? Hmm... It is good to have successors. I wonder why I have never heard Mountain Shaper or Moon Carver display any interest in taking on disciples... Could it be that they haven't found any suitable candidates? Or perhaps they're too busy trotting off to enjoy themselves to think about such matters? Hah... Each of the adepti is so mystifying in their own unique way...
+
+### About Lan Yan
+
+Lan Yan must surely be a descendant of Wind Reader. I recall that Wind Reader traveled with the Jade-Plumed Silverwing for a time, creating quite an enchanting tale. I'm sure both of them would be delighted to know how very wise and capable their latter-day descendants have turned out.
+
+### About Hu Tao
+
+I am well apprised of Director Hu's heroic act — facing death alone to protect the lives of others... Her courage and determination make her a worthy successor to the Wuwang Kid's legacy. It is most fortunate indeed that, thanks to your help, Director Hu did not end up like the Lone Butterfly of the Crimson Flame... Ahem, never mind that. No sense dwelling on what is past and gone.
+
+### About the Three Moon Sisters
+
+The Three Moon Sisters? Well... I understand that they had a very close relationship. When one of them did not feel like being on duty, she would beg another to take her place, then make it up to her later with gifts of makeup and jewelry. However, so liberal were they with this ad-hoc shift-swapping business that it sometimes led to chaos. For instance, there once was a year when all three moons aligned, but this only happened because they all got the timing mixed up. And so, there came a day on which only one moon should have been on duty, but all three appeared in the sky at once. They hurried to line up in a row, two moons trying their best to hide behind the one who was supposed to be on duty... but alas, they still gave the poor people down below a most terrible fright. They burned incense for several days straight... After that incident, the sisters asked me to try to convey to the people of the world that the sight of three moons together in the sky was not an omen of impending disaster, nor a sign that regime change was nigh. Naturally, I put the question back to them, inquiring what such a phenomenon should represent to humanity. They hemmed and hawed for a while before finally saying: "It means... It means a festival is coming, and... everyone should eat Fullmoon Cakes, and... stuff..."
+
+### More About Zibai: I
+
+The Liyue of today is a vastly different place from the land I once knew. Even the name "Liyue" did not exist back then. Many moons have passed and many tides have turned since that age, and everything I remember is now long gone. Poets like to say that time flies like a white steed — and curiously enough, my Third Deadly Self was known as the "White Horse Adeptus." Perhaps this is karma at work... You'd like to hear more about my past? Very well, one more person knowing the truth can only be a good thing.
+
+### More About Zibai: II
+
+Long ago, I descended from the heavens to Lang-Gan to act as an envoy, guiding the people of that nation towards a peaceful future. The people of Lang-Gan called me the "God of Soil and Grain," believing that I blessed their nation with favorable weather and bountiful harvests. I indeed had some influence over the weather, but the bountiful harvests were entirely due to the hard work of the nation's people. How did I guide Lang-Gan? Not with any grandeur or majesty, that's for sure. Save for a few interventions to divine the future, ward off evil, and prevent disasters, I spent the majority of my time as a teacher. I taught children how to read and write, do arithmetic, and play music. In my spare time, I compiled and edited texts on matters of etiquette, music, and the like.
+
+### More About Zibai: III
+
+In my view, the most important thing to focus on when guiding a nation into the future is the education of the heart. A people without virtue cannot build a nation that endures, however abundant their material wealth may be. Consider those from Liyue who climb the mountains in search of the adepti, motivated only by selfish gain. Even if they are lucky enough to obtain adeptal treasures, those treasures will ultimately be their undoing if their intentions are impure. Now, of course, while cultivating virtue in one's heart, one must also sharpen the blade in one's hand. As the saying goes, one ought to hope for the best but prepare for the worst.
+
+### More About Zibai: IV
+
+I have always been an avid reader. Nowadays, books are the only place where I can find the home and friends that I once knew. As ever, I annotate the text whenever I find factual errors. Recently, someone noticed my annotations and spent several days tracking me down to request that I teach history at his school. He was quite insistent, but his attitude seemed sincere to me, so I acquiesced and taught the classics there for a month... The sight of those students, eager to gain knowledge, took me right back to when I taught at the school in Lang-Gan. I never imagined that I would become a teacher again today... I suppose it was meant to be.
+
+### More About Zibai: V
+
+Although I spend much of my time wandering, I occasionally return to Liyue to teach classes at various schools, where I take the opportunity to correct the historical records on Lang-Gan. Back in my day, the study of history was considered a singularly important affair. After all, the mirror of the past teaches us lessons for the future. I'm sure the ancient sages would be delighted to know that someone is still curating the historical records of Lang-Gan all these centuries later.
+...You don't think this is very adeptus-like of me? Well, so be it. What the Liyue Harbor of today needs is not the extraordinary might of a handful of adepti, but the combined strength of its mortal populace united. I'm sure the other adepti are quite cognizant of this fact too. In any case, my role is to be a guide, and I continue to fulfill that by being an educator.
+
+### Zibai's Hobbies
+
+I suppose my hobby would be moon gazing. Now that I think about it, the thought of moon-gazing in Liyue is quite an interesting one.
+
+### Zibai's Troubles
+
+The idioms used in literature of this day and age are most... idiosyncratic. I fail to understand most of them, and trying to trace their origins is a very laborious endeavor. I suppose it will take me some time to get acquainted with the modern parlance...
+
+### Favorite Food
+
+Have you ever tried a Fullmoon Cake? I used to share them with friends while moon gazing, but now... I can't seem to find them anywhere. It's quite a pity.
+
+### Least Favorite Food
+
+Raw meat is quite simply... Ahem. I just think meat should be cooked through prior to consumption.
+
+### Receiving a Gift: I
+
+Had I been able to sample such fine delicacies during my lunar exile, perhaps I would have stayed a little longer. Pah, I jest.
+
+### Receiving a Gift: II
+
+A fine meal. I will savor it.
+
+### Receiving a Gift: III
+
+This dish tastes... rather peculiar. Innovative, even.
+
+### Birthday
+
+Today is your birthday? Then we must celebrate. I recall that it is customary for the elderly to eat Longevity Noodles... Hehe, and while you appear youthful, I suspect that if we were to count the years since your birth, you would in fact be older than most people in Liyue Harbor. In that sense, preparing a bowl of Longevity Noodles for you would not be an inappropriate gesture... Hmm? Of course I know how to make them. I may have joined the celestial ranks in my time, but I wasn't born with a silver spoon in my mouth... *sigh* Frankly, the only reason I no longer have much of an appetite these days is probably all that time I spent in the heavens without any facility to cook... But I digress. Eating is the second most important affair in the world, so we must ensure that you enjoy a good bowl of Longevity Noodles before the day is through.
+
+### Feelings About Ascension: Intro
+
+I see.
+
+### Feelings About Ascension: Building Up
+
+The moon waxes and wanes...
+
+### Feelings About Ascension: Climax
+
+The spirit returns to its dwelling.
+
+### Feelings About Ascension: Conclusion
+
+As an adeptus, I must fulfill my duty.
+
+### Elemental Skill: I
+
+Be cleansed.
+
+### Elemental Skill: II
+
+Without further ado.
+
+### Elemental Skill: III
+
+Smite the dust.
+
+### Elemental Burst: I
+
+Divine light, shield them.
+
+### Elemental Burst: II
+
+Lofty wisdom will show us the way.
+
+### Elemental Burst: III
+
+The skies clear, the glaze moon shines.
+
+### Opening Treasure Chest: I
+
+A gift from the heavens. I shall gladly accept it.
+
+### Opening Treasure Chest: II
+
+There is no harm in claiming forsaken possessions.
+
+### Opening Treasure Chest: III
+
+You should take it. It may prove useful.
+
+### Low HP: I
+
+...I was insufficiently prepared.
+
+### Low HP: II
+
+Remain steadfast...
+
+### Low HP: III
+
+Time to conclude this.
+
+### Ally at Low HP: I
+
+Be not reckless.
+
+### Ally at Low HP: II
+
+...Perhaps you should reconsider.
+
+### Fallen: I
+
+All things... must end.
+
+### Fallen: II
+
+I cannot see the moon...
+
+### Fallen: III
+
+Dark clouds obscure the sky...
+
+### Light Hit Taken: I
+
+My mistake.
+
+### Light Hit Taken: II
+
+A minor mishap.
+
+### Heavy Hit Taken: I
+
+Arrogant and presumptuous.
+
+### Heavy Hit Taken: II
+
+Foolish and ignorant.
+
+### Joining Party: I
+
+You shall have my company.
+
+### Joining Party: II
+
+Where to?
+
+### Joining Party: III
+
+Clear skies grace our onward journey.
+
+## REPLICAS_ZH
+
+### 闲聊·月
+
+天下从来共云雨，明月何曾是他乡…
+
+### 闲聊·数理
+
+数理是世间之基，若你有兴趣，我可以教你运算，嗯…先伸出十指来，我们从这里开始。
+
+### 闲聊·仙法
+
+仙法的确神奇，但修法前若不修心，万事只会如水中镜月，触之即碎。
+
+### 初次见面…
+
+我名兹白，凡人曾呼我为白马仙人，但我如今既已降地为仙，你直呼我为兹白就是。
+
+### 下雨的时候…
+
+依稀不见月…
+
+### 打雷的时候…
+
+唔，应该是天雷前去降恶了。
+
+### 下雪的时候…
+
+倒是没有月亮上面冷。
+
+### 在沙漠的时候…
+
+…沙漠里，的确很难行走。
+
+### 早上好…
+
+早安，昨晚睡得可好？
+
+### 中午好…
+
+日头正盛，若是疲累了，便去休憩一下吧。
+
+### 晚上好…
+
+不知不觉…明月已升。
+
+### 晚安…
+
+呵呵，莫要和月亮比赛熬夜了，睡去吧，晚安。
+
+### 关于兹白自己·游历
+
+在我斩出三尸神后，下尸常在人间游历，确实经历了许多事。如今流传最广的，应当就是那本《竹林月夜》所记载的夜游记了，得空时，我或许也应当去那片竹林看看了。
+
+### 关于兹白自己·独居
+
+我在独居时，时常用些数理打发时间，写写算式，做做运算。有兴趣的话，我可以把几个有趣的算式列出来给你看。
+
+### 关于我们·赏月
+
+在写思乡的诗文时，璃月人常常以月咏志。这倒也正常，毕竟无论相隔再远，世间诸人也共沐同一片月光之下。不过，如果真的要赏月，在外的诸位游子一定更想回到家中，与亲朋好友共赏吧。正所谓「月是故乡明」啊。
+
+### 关于我们·在他乡
+
+你之前向我提过，你并非此方天地所生，又与血亲失散…在他乡如此饱尝苦楚，历经险恶，依然能奋战至今，你的心志之刚毅实在世间罕有，皇天不负苦心人，我相信你一定能得偿所愿。这句话并非安慰，璃月人常常向月亮许愿家中团圆，我又长居月上，由我来祝福他人团圆，自然再灵验不过了。
+
+### 关于「月之轮」…
+
+既获神力，如何运用，便存乎一心。我？既已身在璃月，自是以覆护璃月为先。
+
+### 有什么想要分享…
+
+虽然我的下尸被人归入「八奇」，呼名为「金目乘黄月驹」，但除了桃都之事外，我…她并没有和其他的「八奇」常伴同游，而是游逸去了别处。按照我后来的记忆，「八奇」中也有几人试图追踪她的去向，但两条腿的人，终究跑不过四条腿的马，看来，她一次也没被真正追上过。
+
+### 感兴趣的见闻…
+
+这琉璃百合，如今竟依然存在…我记得「云来钓叟」和「无妄童子」很喜欢以此花的花瓣佐酒，喝到高兴处，还会舞剑助兴…是否研习出了什么奇妙剑法？也许有吧，但他们总是喝得太多，最后把剑法都忘干净了。
+
+### 关于钟离…
+
+虽然凡人会称呼我为「白马仙人」，但我并非受赐于众仙之祖摩拉克斯。在久远之时，我就已身居天班，行使「月使」之职。但前尘杂事，不必再提，如今的人们既习惯了用「白马仙人」来称呼我，那也不错。我平日里见没见过钟离？见过，我偶尔会看见他跟着胡堂主走街串巷，或者是独自品茶散步，看来比起做岩王帝君，还是做客卿更为闲适惬意啊。
+
+### 关于凝光…
+
+如今的璃月以商立业，而商贾之事向来复杂繁冗，那位「天权星」既然能担住执掌璃月的重任，想必也是人中龙凤。但我听闻璃月总务司中有「璃月七星」。我已见过其中数位，不知其余几位身在何方？唔，既已领受了七星之名，想必也是在为自己的职务奔忙吧…
+
+### 关于刻晴…
+
+我和玉衡星偶遇时，还是在璃月郊外。当时她领着总务司的人员在外测量土地，不顾崖高路险，竟是一马当先。我在旁观看，本想为她拨开一丛厚密的荆棘，没想到玉衡星居然提剑劈砍，硬是辟出了一条路来。她果然和我听闻的一样，是一位勇敢果决，一往无前的「猛将」。
+
+### 关于七七…
+
+怪了，那位名叫七七的小姑娘已有仙躯，却无仙魂，而且还时常神智消丧，这些症状，我似乎见过…若有机缘，我或许能为她诊断一番。
+
+### 关于闲云…
+
+我已与自号为「闲云」的留云借风真君见过面了，她虽然是仙人，却不怎么用仙力，反而一直摆弄着机关物件，还说想要做出凡人也能自如使用的机关，正巧我记得几种琅玕国的机关图纸，就给她画了下来，但那几种机关历史太过久远，不知道能否派上用场…
+
+### 关于烟绯…
+
+这位小姑娘的血脉，竟是仙人交汇，实在奇妙。按歌尘浪市真君的说法，她应当未历战乱，是璃月年轻一代的「仙人」吧。看她研究律法的机敏模样，想必也不需要仙人血脉帮她开聪启慧了。呵…我还记得一些古时的律法例子，过些日子默写下来，托歌尘浪市真君带给她吧，希望她会喜欢。
+
+### 关于魈…
+
+我听闻，仙众夜叉曾跟随摩拉克斯一同扫涤四方，立下赫赫战功，但也常被身上的业障所折磨…时至今日，竟只有金鹏大将尚存于世，不知道他是否还被业障所扰，或许我能为他做些什么…什么？已经有人为他疗愈过了，原来如此…无论如何，平安就好。
+
+### 关于瑶瑶…
+
+是歌尘浪市真君所收的弟子吧。虽是凡人之躯，但毅力和灵性倒是可圈可点。据我所知，那位留云借风真君也收了几位弟子，唔…有所传承是好事，可我怎么没听说理水叠山与削月筑阳二位真君有收徒的意向，难不成，还没寻见合适的弟子…平时忙着出去玩应该没空想这些？喔…璃月诸仙，果然各怀奥妙啊…
+
+### 关于蓝砚…
+
+这位蓝砚小妹，应是「万象风角灵官」的后人，我记得「万象风角灵官」曾与「银翎翦玉玄鸟」结伴同游，成就了一段佳话，如今还有了如此聪慧的后辈，要是他二人知道，想必也会很欣喜的。
+
+### 关于胡桃…
+
+我听闻过胡堂主的壮举，为护生而孤身一人赴死地，如此勇毅，不愧为「无妄童子」的后辈。但还好，有你相助，胡堂主才没有如同「朱赤引火幽蝶」一般…呵，罢了，不提陈年旧事。
+
+### 关于「三月女神」…
+
+三月女神？呃…据我所知，她们彼此的关系是很亲切的。要是有人偷懒不想当班，就会央求另外一个人顶替，在替班之后，再买点妆匣首饰做补偿就好。但这样随着心意胡乱排班，有时候也闹出过乱子，例如有一年三月连珠，就是因为她们弄错了时刻，本应独月当班的那一天，三人却同时凌空，她们就只能着急忙慌地排成一列，尽量躲在那颗应该当班的月亮后面。唉，但她们还是把地上的人吓了个好歹，烧了好几天的香，那件事之后，她们还托我想想办法，告诉人们三月凌空不代表天将降大灾，或者预示着王权更替，我问那还能代表着什么，她们嗫嚅半晌后说：「代表…代表佳节将至，大家应当吃团月饼了…吧…」
+
+### 想要了解兹白·其一
+
+如今的璃月，和我曾居留过的大地已然大不相同，不如说，在我那个时候，甚至没有「璃月」这二字。沧海桑田，千帆过尽，我记忆里的那些事物都已不在了。诗人说光阴如白驹过隙，我的「下尸」也正巧被称为「白马仙人」。或许，这一切是前尘注定了。你想听听我过去的故事？好吧，多一人知晓，也算是好事。
+
+### 想要了解兹白·其二
+
+在许久之前，我自天宫降地，作为使者居留琅玕国，引万民安居。琅玕国人将我呼为「社稷神」，并认为是我保佑琅玕国风调雨顺，社稷兴盛，虽然风调雨顺这件事的确与我有关，但社稷兴盛，实是仰赖于琅玕国内万民的辛苦。我怎么引导琅玕国的？说来倒是没有什么磅礴气势，除却一些占卜吉凶，驱邪禳灾的事情外，我更多的时候是在那里做教师，教孩子们读书写字，算数弹琴，空闲的时候也编撰一些杂书，记录礼乐小事。
+
+### 想要了解兹白·其三
+
+在我看来，想要引导一国之未来，最重要的就是教化人心。如果人心不善，就算有再多的外物，这个国家也不会长久。就像是…之前某些为了一己私利，去山中访仙的璃月人，就算他们运气好拿到了仙家宝物，但持心不正，终究会为其所害。当然，在人心完善的同时，也要磨砺好手中之剑。正所谓，有备无患。
+
+### 想要了解兹白·其四
+
+如今我依然习惯读书，毕竟我所知的故土和故人，只怕也只存在那些书里了，见到错漏的时候，我也会进行批注。上一次不知道是谁看见我的批注本，找了我好几天，一定要请我去学堂里讲史。我见他态度诚恳，就随他一同过去，为学生们讲了一个月的圣贤书…我看着求知若渴的各位学生时，也像是看见了彼时的琅玕学堂，没想到，我如今还能做回老师，也算是合乎缘分。
+
+### 想要了解兹白·其五
+
+我虽然大部分时候在外云游，但偶尔也会回到璃月，替几家学堂教导学生，顺便为琅玕国的史书做一些勘误。在我那个时候，修史可是天下第一的大事，毕竟前事之鉴，乃是后事之师，要是各位贤人知道，如今还有人能为琅玕国修史，一定也会很高兴的。
+不像仙人？不像便不像吧，如今的璃月港想来也不需要某一两位仙人的超凡伟力，反倒是更需要诸位凡人的共力同心，想必璃月众仙也早已看清了这一点。而且能在这片大地上继续施行教化，我也不算辜负了「引导」一职。
+
+### 兹白的爱好…
+
+单论爱好的话，应当是赏月吧。在璃月赏明月…想想也是很有趣。
+
+### 兹白的烦恼…
+
+如今璃月书籍里用的典故实在太过…新颖，我大多都看不懂，如果要追根溯源的话，想必也要花上很长时间，看来只能慢慢来了…
+
+### 喜欢的食物…
+
+你吃过「团月饼」么？我之前和好友赏月时，会一同品尝这种食物，如今…倒是无处可寻了，有些可惜。
+
+### 讨厌的食物…
+
+生食肉类实在有些…呃，无论如何，肉食还是要烤熟了再吃比较好。
+
+### 收到赠礼·其一
+
+若是独居月上时，能尝得如此珍馐，再多待一会倒也并无不可。噗，开个玩笑。
+
+### 收到赠礼·其二
+
+不错的味道，值得细品一番。
+
+### 收到赠礼·其三
+
+这菜的味道…倒是颇为奇诡，很有新意…
+
+### 生日…
+
+今日是你的生辰么？确是要庆祝一番，我记得老者过生辰时，是要吃长寿面的，呵呵，你虽然面似青年，但若是真按年月计算岁数，只怕你比璃月港里大多数人都要年长了。如此想来，吃一碗长寿面倒也不为过…我为什么会做？我虽曾为天人，但也不是那种生来就十指不沾阳春水的人。唉，如此说来，之所以我如今没有口腹之欲，想必也有在天宫上长久不能生火做饭的原因…总而言之，吃饭是天下第二大事，等会你可要好好吃那碗长寿面。
+
+### 突破的感受·起
+
+原来如此。
+
+### 突破的感受·承
+
+月有阴晴…
+
+### 突破的感受·转
+
+神魂归府。
+
+### 突破的感受·合
+
+既已为仙，便履仙职。
+
+### 元素战技·其一
+
+扫涤。
+
+### 元素战技·其二
+
+无须分说。
+
+### 元素战技·其三
+
+拂灭杂尘。
+
+### 元素爆发·其一
+
+仙光速现，覆护行人。
+
+### 元素爆发·其二
+
+洞慧交彻，律令显验。
+
+### 元素爆发·其三
+
+云开雨霁，琉璃映月。
+
+### 打开宝箱·其一
+
+天予奇货，收下就是。
+
+### 打开宝箱·其二
+
+既是无主之物，留下也无妨。
+
+### 打开宝箱·其三
+
+你拿着应当有用。
+
+### 生命值低·其一
+
+…尚需筹备。
+
+### 生命值低·其二
+
+稳神…
+
+### 生命值低·其三
+
+…速决胜负。
+
+### 同伴生命值低·其一
+
+不可鲁莽。
+
+### 同伴生命值低·其二
+
+…再做商榷。
+
+### 倒下·其一
+
+寿有…竟时…
+
+### 倒下·其二
+
+不见明月…
+
+### 倒下·其三
+
+晦云…覆天…
+
+### 普通受击·其一
+
+错漏。
+
+### 普通受击·其二
+
+有所差池。
+
+### 重受击·其一
+
+…骄纵轻狂。
+
+### 重受击·其二
+
+愚妄无知。
+
+### 加入队伍·其一
+
+且与你同去。
+
+### 加入队伍·其二
+
+去往何方？
+
+### 加入队伍·其三
+
+天朗日清，适宜远游。

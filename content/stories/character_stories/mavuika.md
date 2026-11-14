@@ -439,3 +439,905 @@ She believed that this was something that only she could do — not only because
 玛薇卡的双眼闪动着如火的明光，父亲和母亲对望，似乎在那个瞬间确信了某件事，并没有因为玛薇卡的「幼稚」而急于否定她，而是点了点头。
 来自父母的肯定让玛薇卡坚定了最初的愿望，神明的目光也投射在她的身上，即便后来她知晓了越来越多的秘密与纳塔面临的困境，她也没有怀疑父母曾经的信任目光。
 她相信这是只有她才能完成的事，不只是因为她是「基扬戈兹」的玛薇卡，还因为她是令父母骄傲的女儿，「悬木人」的女儿，纳塔的女儿。
+
+# voice_source_ids: 106000,106001,106002,106003,106004,106005,106006,106007,106008,106009,106010,106011,106012,106013,106014,106015,106016,106017,106018,106019,106020,106021,106022,106023,106024,106025,106026,106027,106028,106029,106030,106031,106032,106033,106034,106035,106036,106037,106038,106039,106040,106041,106042,106043,106044,106045,106046,106047,106048,106049,106050,106051,106052,106053,106054,106055,106056,106057,106058,106059,106060,106061,106062,106063,106064,106065,106066,106067,106068,106069,106070,106071,106072,106073
+
+## REPLICAS_RU
+
+### Привет...
+
+С огнём, что ведёт нас сквозь время, мы взяли землю, окутанную тьмой, и, пролив кровь и слёзы, превратили её в дом. Но приключение продолжается, и впереди нас ждёт новая глава. Как Пиро Архонту, позвольте мне, Мавуике, озарить ваш путь!
+
+### Поболтаем: Приключения
+
+Исследования и испытания... Хм, приключения - это как раз по мне.
+
+### Поболтаем: Испытания
+
+Богам не стоит всё время оставаться на небесах. Было бы хорошо, чтобы они чаще спускались на землю.
+
+### Поболтаем: Свет
+
+Многие насекомые испытывают непреодолимую тягу к свету, и люди ничем не отличаются - только мы называем этот свет «надеждой».
+
+### Когда идёт снег...
+
+Ммм... как здесь приятно и прохладно. В Натлане таких мест не встретишь.
+
+### Когда светит солнце...
+
+Идеальная погода для прогулки на свежем воздухе. Как насчёт прокатиться? Давай, запрыгивай.
+
+### После дождя...
+
+На тебе сухого места не осталось... Должно быть, неприятно... Давай сделаем паузу, я подсушу тебя своим огнём.
+
+### В пустыне...
+
+Песок - естественный враг огня и цивилизации. В пустыне остались только руины, которые напоминают о прошлом.
+
+### Доброе утро...
+
+Проснувшись, я всегда первым делом прокручиваю в голове план на день... К сожалению, сон никогда не входит в мои планы.
+
+### Добрый день...
+
+Ты уже пообедал? Из Удела Благодатных Земель прислали свежие фрукты - отличное завершение трапезы. Попробуй! / Ты уже пообедалa? Из Удела Благодатных Земель прислали свежие фрукты - отличное завершение трапезы. Попробуй!
+
+### Добрый вечер...
+
+Хм, вот предварительный план и ориентировочный бюджет на восстановление дорог для Детей Эха... О, добрый вечер. Уже так поздно?
+
+### Спокойной ночи...
+
+Спокойной ночи! Я собираюсь немного расслабиться и закончить кое-какие дела. О, не переживай! Это я так обычно расслабляюсь...
+
+### О Мавуике: Прическа
+
+Мои волосы? Не переживай, это дружелюбный огонь - он не обожжёт тебя и не подожжёт ничего вокруг. Хотя, думаю, наши враги быстро поймут, что играть с огнём - плохая идея, если ты понимаешь, о чём я.
+
+### О Мавуике: Послание
+
+На протяжении всей истории Натлана каждый Пиро Архонт оставлял важнейшие знания и воспоминания в Священном пламени, чтобы преемники могли ими воспользоваться. Огромный объём информации иногда может повлиять на самовосприятие у будущих Архонтов. Поэтому я оставила в пламени такие слова: «Прежде чем стать огнём, гордись тем, кто ты есть сейчас».
+
+### О нас: Плечом к плечу
+
+План - надёжный ориентир, но не священная неизменная заповедь. Пятьсот лет назад твоё появление было невозможно предсказать, но после нашей встречи стало ясно, что из-за тебя придётся поменять план. Судя по результату, решение идти рядом оказалось абсолютно правильным.
+
+### О нас: Древнее имя
+
+Возможно, ты ещё не осознаешь, какое огромное влияние имя Тумайни окажет на будущее Натлана. В будущем каждое поколение будет ассоциировать это имя с этой битвой и подвигами всех героев. Тумайни и Кионгози будут навсегда связаны и останутся в истории Натлана.
+
+### Глаз Бога...
+
+Для людей Глаза Бога и древние имена - это дары от богов: первые дают элементальную силу, а вторые - духовную поддержку. Однако я всегда считала, что отсутствие каких-то внешних атрибутов не мешает человеку стать великим героем. Ведь гораздо важнее, чтобы у него в сердце пылало пламя.
+
+### Давай поделимся...
+
+Когда я была маленькой, мой отец сказал мне, что цепь крепка настолько, насколько крепко её слабое звено. Если ты хочешь развиваться, нужно быть готовым признать свои слабые места и учиться у лучших. Это не делает тебя неудачником, наоборот - это помогает тебе становиться сильнее.
+
+### Интересные вещи...
+
+Маленькие юмказавры невероятно милые, а мой питомец Хитата был особенно привязчивым. Он бросался ко мне в объятия, едва заметив меня, независимо от того, как далеко я была. Моя сестрёнка Хини немного завидовала. Как только она видела, что Хитата бежит ко мне, она тоже начинала бежать. И вот меня уже обнимают и заврианчик, и сестрёнка, ха-ха-ха.
+
+### О Шилонен...
+
+Шилонен - одна из лучших мастериц в Натлане. Она не только владеет искусством создания древних имён, но и глубоко изучает технологию Тайных Источников. Она всегда готова к вызовам, даже когда предстоит создать что-то совершенно новое. Процесс, конечно, не обходится без неожиданных поворотов, вроде изменений в дизайне, но результаты всегда говорят сами за себя.
+
+### О Ситлали...
+
+Многие считают её странной или трудной в общении, но я думаю, что она просто не тратит своё внимание на пустяки. Когда же случается что-то важное, она всегда готова включиться. Думаю, вы сами это уже видели... Иногда я думаю, что сложный характер делает её уязвимой для опасностей, и стараюсь скрыть от неё кое-что. Но, похоже, это почти невозможно - она слишком проницательна.
+
+### О Часке...
+
+Выжить под воздействием Бездны - само по себе чудо, но благодаря людям и заврианам у неё появилась причина не только выжить, но и по-настоящему жить. Я верю в её стойкость, но всё же сделаю всё, что в моих силах, чтобы этот мир стал для неё «мягче». Даже самым сильным из нас иногда нужен отдых.
+
+### Об Оророне...
+
+На мой взгляд, настоящая личность Оророна сильно отличается от того, что он показывает окружающим. Он подобен лаве, скрытой под льдом. Племя и друзья даруют Оророну спокойствие, но желание защитить их и стремление стать героем не оставляют его. Поддаваться эмоциям - не всегда хорошая идея. Но его благородные качества всё равно заслуживают уважения.
+
+### Об Иансан: Под прицелом
+
+Многие недооценивали Иансан в её первых паломничествах после получения древнего имени и выделяли её на командном этапе как лёгкую цель. Хотя она ни разу не проиграла, постоянные атаки истощали её выносливость и сказывались на её рейтинге, что лишь повышало вероятность новых нападений.
+
+### Об Иансан: Доказательство
+
+Мой совет ей был прост: люди не будут связываться с тем, чья сила очевидна. Нужно только показать свою силу. И вот она решила это сделать... вызвав меня на бой в арене, ха-ха-ха! Уж такого я точно не ожидала! В итоге она показала отличный бой, и больше никто смел её недооценивать.
+
+### О Муалани...
+
+По характеру Муалани и Тупак совершенно разные, но оба унаследовали имя Умоджа. Единство не в действиях, а в состоянии души - готовности отдать всё ради племени, семьи и друзей. Вряд ли Муалани тогда задумывалась о чём-то подобном. Она знала одно - жизнь Качины стоила любого риска.
+
+### О Киниче...
+
+Помимо значения «Пламя поворота», Малипо также означает «стоимость» или «цена». Это не звучит так героично, как другие древние имена, но на самом деле Малипо учит нас быть спокойными и вдумчивыми - задавать вопросы, которые другие не хотят слышать. Без людей, обладающих такими качествами, слишком просто поддаться эмоциям и принять решения, о которых можно потом пожалеть.
+
+### О Качине...
+
+После того как ты спас Качину из Царства Ночи, я вместе с вождём Пакалем посетила её семью и принесла несколько подарков, чтобы ещё раз извиниться за произошедшее. Время, проведённое Качиной в Царстве Ночи, оставило на ней множество шрамов, которые будут с ней навсегда... шрамов, которые не были для неё предназначены... И в том моя вина. / После того как ты спасла Качину из Царства Ночи, я вместе с вождём Пакалем посетила её семью и принесла несколько подарков, чтобы ещё раз извиниться за произошедшее. Время, проведённое Качиной в Царстве Ночи, оставило на ней множество шрамов, которые будут с ней навсегда... шрамов, которые не были для неё предназначены... И в том моя вина.
+
+### О Варесе...
+
+Во время Паломничества я беру на себя все расходы в «Обители усталости», и каждый раз, когда я прихожу оплачивать, я вижу заказ на восемьдесят порций. Сначала я думала, что это для какой-то большой группы друзей, но оказалось... что заказала всё это она одна.
+
+### Об Ифе...
+
+Хороший врач обладает не только отличными медицинскими знаниями, но и выдающимися навыками общения. А когда между врачом и пациентом существует языковой барьер, на первый план выходят наблюдательность и эмпатия. Именно поэтому Ифа может подружиться практически с кем угодно.
+Так что, если кто-то, будь то человек или завриан, не поладил с Ифой... Ха-ха, сдаётся мне, что проблема не в Ифе.
+
+### О Капитане...
+
+Полагаю, для него эти пятьсот лет тянулись бесконечно. Когда человек лишён права на смерть, жизнь становится бесконечным путешествием, и человеческий дух легко истощается в такой пустоте. Однако ему удалось ухватить единственный шанс на победу и достичь того, к чему он стремился. Я глубоко уважаю таких воинов, как он.
+
+### О Семи...
+
+Честно говоря, ты, вероятно, знаешь их лучше, чем я. Однако их народы существуют и развиваются по сей день, и без сильного руководства это было бы невозможно. Когда глава истории Натлана о сопротивлении Бездне завершится, я намерена укрепить наши связи с другими странами, чтобы Натлан мог продолжать расти и процветать.
+
+### Узнать больше о Мавуике I
+
+О, хочешь узнать обо мне побольше? Без проблем, я действительно люблю рассказывать истории. Хотя, думаю, будет намного интереснее, если мы выпьем пару стаканчиков перед этим.
+
+### Узнать больше о Мавуике II
+
+Управлять пламециклом несложно, достаточно немного попрактиковаться. Но если хочется разогнаться, нужно будет установить несколько дополнительных средств безопасности. Что? Ты говоришь, что я уже еду достаточно быстро? Как бы сказала Шилонен: «Не думаю, что тебе нужна какая-то защита. Не похоже, что ты сделан из стекла». / Управлять пламециклом несложно, достаточно немного попрактиковаться. Но если хочется разогнаться, нужно будет установить несколько дополнительных средств безопасности. Что? Ты говоришь, что я уже еду достаточно быстро? Как бы сказала Шилонен: «Не думаю, что тебе нужна какая-то защита. Не похоже, что ты сделанa из стекла».
+
+### Узнать больше о Мавуике III
+
+Конечно, у меня тоже есть много сожалений. Благодаря моим знаниям и силам я могу эффективно решать проблемы, но зачастую людям нужно не это, а просто «присутствие»... Я разочаровала многих в этом плане, но долг не ждёт. Сомнения в своём пути только принесут больше боли - я обязана придерживаться своих убеждений.
+
+### Узнать больше о Мавуике IV
+
+Высвобождая силу божественного трона, я поднялась ввысь, и моя душа слилась с артериями земли. Я чувствовала пыл наших воинов, стойкость народа и боль павших... Давным-давно я переживала что-то подобное. Но с помощью твоей силы и наших героев на этот раз всё завершилось иначе. И это доказывает, что борьба наша была не напрасной.
+
+### Узнать больше о Мавуике V
+
+С нашим триумфом над Бездной завершилась моя главная миссия Пиро Архонта. Пятьсот лет назад я выбрала бороться за будущее, в котором, вероятно, не было бы места для меня. И я была готова к такому исходу. Но когда это будущее наступило, я оказалась в растерянности... Однако ты вдохновил меня. Исследования, любознательность и преданность другим - вот путь вперёд. / С нашим триумфом над Бездной завершилась моя главная миссия Пиро Архонта. Пятьсот лет назад я выбрала бороться за будущее, в котором, вероятно, не было бы места для меня. И я была готова к такому исходу. Но когда это будущее наступило, я оказалась в растерянности... Однако ты вдохновилa меня. Исследования, любознательность и преданность другим - вот путь вперёд.
+
+### Хобби Мавуики
+
+Становиться сильнее. Преодолевать сложные испытания, разгадывать запутанные головоломки, побеждать сильных противников... У меня нет одного увлечения - я получаю удовольствие от самого процесса достижения цели.
+
+### Беспокойство Мавуики...
+
+«Из-за невысокого спроса работа над дополнениями и расширениями для игры "Завриан-детектив" была приостановлена...» Это была моя любимая настольная игра-головоломка. Неужели дело в том, что она была слишком сложной? Или правила - слишком запутанными? Но это не делает её плохой... Эх... Если всё зависит от продаж, тут я ничего не смогу сделать. Надеюсь, создатель выпустит новую игру. Может, я напишу анонимное письмо, чтобы поддержать его...
+
+### Любимая еда...
+
+Даже для самых простых домашних блюд у каждой семьи есть свой особый рецепт, и вкус может сильно отличаться. Я пробовала множество разных рагу на стадионе Священного пламени, каждое из которых уникально и вкусно по-своему. Но если я готовлю для себя, я всё равно предпочитаю рецепт моей семьи.
+
+### Нелюбимая еда...
+
+Мне нравятся почти все ингредиенты, но я не особо ценю блюда, где форма важнее содержания, например, какой-нибудь званый ужин с тремя переменами блюд, где на одну только сервировку уходит три часа. Конечно, я уважаю кулинарные инновации, но предпочитаю тратить своё время на что-то более продуктивное.
+
+### Подарок I
+
+Спасибо, мне такое нравится. У тебя есть рецепт? Я бы с удовольствием научилась сама готовить.
+
+### Подарок II
+
+Неплохо, но можно и получше.
+
+### Подарок III
+
+Эм... На вкус не так уж и плохо. Гораздо лучше, чем на вид.
+
+### День рождения...
+
+С сегодняшнего дня начни записывать все свои достижения на листе бумаги. А когда возьмешь его в руки на свой следующий день рождения, это будет подарок от самого себя! Так ты никогда не забудешь, какой ты замечательный. С днём рождения, Путешественник. / С сегодняшнего дня начни записывать все свои достижения на листе бумаги. А когда возьмешь его в руки на свой следующий день рождения, это будет подарок от самой себя! Так ты никогда не забудешь, какая ты замечательная. С днём рождения, Путешественник.
+
+### Чувство возвышения: Начало
+
+Прекрасно! Чувствую себя великолепно.
+
+### Чувство возвышения: Нарастание
+
+Я чувствую, как становлюсь сильнее. Но моя сила ещё не достигла предела.
+
+### Чувство возвышения: Кульминация
+
+Мой огонь пылает всё ярче, тело и дух становятся единым целым. Эта сила даст мне возможность выполнить все мои обязанности как лидера.
+
+### Чувство возвышения: Окончание
+
+С тех пор как мы встретились, моя сила росла с каждым днём. Хотя нас ведут разные цели, общее чувство долга и справедливости связывает нас. Твоя помощь Натлану неоценима, и я более чем благодарна, чем могу выразить словами.
+
+### Элементальный навык I
+
+Поджигай!
+
+### Элементальный навык II
+
+Спали дотла!
+
+### Элементальный навык III
+
+К солнцу!
+
+### Элементальный навык IV
+
+Дави на газ!
+
+### Элементальный навык V
+
+Полный вперёд!
+
+### Элементальный навык VI
+
+Попробуй остановить меня.
+
+### Взрыв стихии I
+
+Свет пылающего солнца!
+
+### Взрыв стихии II
+
+Гнев небес!
+
+### Взрыв стихии III
+
+Сгинь в пламени!
+
+### Открытие сундука I
+
+На долгую память о хорошем приключении.
+
+### Открытие сундука II
+
+Это станет хорошим дополнением моей коллекции.
+
+### Открытие сундука III
+
+Неплохо. Очень даже неплохо.
+
+### Низкий уровень HP I
+
+Больше ошибаться нельзя.
+
+### Низкий уровень HP II
+
+Нужно сосредоточиться.
+
+### Низкий уровень HP III
+
+Пора взяться за ум.
+
+### Низкий уровень HP компаньона I
+
+Я со всем разберусь.
+
+### Низкий уровень HP компаньона II
+
+Передохни немного.
+
+### Без сознания I
+
+Огонь... не погаснет...
+
+### Без сознания II
+
+Наследию... пришёл конец...
+
+### Без сознания III
+
+Это... судьба?..
+
+### Получен тяжёлый удар I
+
+Ух. Нормально.
+
+### Присоединяется к группе I
+
+Архонт готова к битве.
+
+### Присоединяется к группе II
+
+Когда захочешь, где захочешь.
+
+### Присоединяется к группе III
+
+Всегда готова.
+
+### О Юмэмидзуки Мидзуки...
+
+У меня сложилось неплохое впечатление об этой инадзумской гостье. Я слышала, что когда она впервые оказалась в Натлане, то проявила интерес к горячим источникам Народа Родников и расспрашивала о них местных жителей. Но её целью было не получить прибыль, а помочь людям улучшить своё психологическое состояние. Такие благородные мотивы заслуживают уважения и поддержки.
+Кстати... Интересно, а нынешний Архонт Инадзумы тоже любит горячие источники? Если это так, то я знаю, как завязать с ней разговор.
+
+## REPLICAS_EN
+
+### Hello
+
+With the flames to guide us across time, we took a land shrouded in darkness, and used our own blood and tears to forge it into a home. Now, our journey continues, and a new chapter awaits. As the current Pyro Archon, allow me, Mavuika, to light your way forward.
+
+### Chat: Adventures
+
+Exploration and trials... Heh, adventuring is right up my alley.
+
+### Chat: Experience
+
+Instead of confining themselves to the heavens, gods should broaden their horizons in the world below.
+
+### Chat: Light
+
+Many insects have a compulsion to follow the light, and humans are the same — except we call that light, "hope."
+
+### When It Snows
+
+Ah, nice and cool. Natlan doesn't have places like this.
+
+### When the Sun Is Out
+
+Weather like this is perfect for enjoying the outdoors. Wanna go for a spin? Here, hop on.
+
+### After the Rain
+
+Ah, you're dripping wet. That must be uncomfortable... Let's take a break. I'll use my fire to dry you off.
+
+### In the Desert
+
+Sand is the natural enemy of fire and civilization. In the desert, ruins are all that remain to tell the story of the past.
+
+### Good Morning
+
+After waking up, I always go over the plan for the day in my head... Unfortunately, sleeping in is never on the agenda.
+
+### Good Afternoon
+
+Have you had lunch? The Collective of Plenty sent over some fresh fruit — the perfect thing to round out a meal. Here, try some.
+
+### Good Evening
+
+Hm, so this is the proposal and approximate budget to rebuild the roads in the Children of Echoes... Oh, good evening. Is it that late already?
+
+### Good Night
+
+Good Night! I'm going to take it easy and wrap up some work. Oh, don't worry — I see keeping busy as a great way to relax.
+
+### About Mavuika: Hair
+
+Oh, my hair? Don't worry, these are friendly flames — they won't burn you or incinerate anything. Although, I think our enemies will find that it's a bad idea to play with fire, if you know what I mean.
+
+### About Mavuika: Message
+
+Every Pyro Archon throughout Natlan's history has left behind important knowledge and memories within the Sacred Flame, for the benefit of future successors. When inherited, the sheer amount of information can impact your sense of self. So, I chose to leave behind this phrase, "Before you become one with flame, be proud of who you are now."
+
+### About Us: Fighting Side By Side
+
+A plan is a reliable guide, but it's not an unchangeable or divine decree. Five hundred years ago, I could never have anticipated your arrival. But, after meeting you, I knew factoring you into my plan would be worth it. Judging from the outcome, choosing to fight by your side was unequivocally the right choice.
+
+### About Us: Ancient Names
+
+You may not have realized this, but your ancient name, Tumaini, will have a significant impact on Natlan for years to come. When future generations speak this name, they will think about this battle and the efforts of all our heroes. Our names — Tumaini and Kiongozi — are now linked and will live on in perpetuity.
+
+### About the Vision
+
+For humans, Visions and Ancient Names are both gifts from the gods, where the former bestows Elemental power and the latter spiritual inspiration. However, I have always believed that no external factor is a condition for greatness — heroism comes from within.
+
+### Something to Share
+
+When I was little, my father told me that a barrel can only hold as much water as the shortest plank. If you want to reach your full potential, you need to be willing to become the weakest link, to acknowledge your shortcomings and learn from others. That doesn't make you a failure, it pushes you to succeed.
+
+### Interesting Things
+
+Baby Yumkasaurs are incredibly cute, and my Saurian companion, Hitata, was especially clingy. He used to jump into my arms the minute he saw me, even from quite a distance. My sister, Hine, would get so jealous — whenever she saw Hitata run towards me, she would do the same. Before I knew it, I would have an armful of baby Saurian and baby sister at the same time, haha.
+
+### About Xilonen
+
+Xilonen is one of the best craftsmen in Natlan. She has the ability to forge Ancient Names and is well-versed in Secret Source technology. Not to mention, she never backs away from a challenge, even when it's completely uncharted territory. The process isn't without twists and turns — like design changes and other modifications — but the results speak for themselves.
+
+### About Citlali
+
+Many people find her strange or difficult to get along with. But, this is how I see it — Citlali doesn't concern herself with trivial matters, but she's always there when it counts. I'm sure you've seen that for yourself. She's someone who can easily tunnel vision and get herself embroiled in trouble, so I try to keep certain things from her. But, she can see right through me... She's too sharp.
+
+### About Chasca
+
+Being able to survive under the influence of Abyssal corrosion was already a miracle, but thanks to the people and Saurians of this land, she even found a reason not just to survive, but to live. I have every faith in her fortitude, but I will still do what I can to make this land a "gentler" place — even the strongest among us need a break sometimes.
+
+### About Ororon
+
+In my opinion, Ororon's true personality is very different from what he projects on the outside — like lava covered in ice. His tribe and his friends bring him peace, but his drive to protect them and his need to become a hero leave him restless. It's inadvisable to act on impulse, but these are precious qualities all the same.
+
+### About Iansan: Being Targeted
+
+A lot of people underestimated Iansan during her first few Pilgrimages after receiving her Ancient Name, and singled her out during the team stage as an easy target. Even though she never lost, the constant challengers drained her stamina and affected her ranking, which only made people more likely to target her...
+
+### About Iansan: Proving Yourself
+
+My advice to her was this — people are less likely to mess with someone whose strength is undeniable, so all she needed to do was to prove it. Well, she decided to do just that... by challenging me in the arena, hahaha. Yeah, I definitely didn't see that coming! In the end, she put up quite the fight, and no one underestimated her again.
+
+### About Mualani
+
+In terms of personality, Mualani and Tupac are completely different, and yet both inherited the name, Umoja. Unity lies not in a particular action, but in a state of mind — a willingness to give your all for your nation, family and friends. But, I doubt Mualani was thinking about any of that back then. She knew one thing to be true — that Kachina's life was worth any risk to her own.
+
+### About Kinich
+
+In addition to the Turnfire, Malipo has another meaning, "cost" or "price." It may seem less overtly heroic compared to the other Ancient Names, but in truth, Malipo teaches us to be calm and analytical — to ask the questions people may not want to hear. Without people who possess these qualities, it's just too easy for the rest of us to act on impulse and emotion, and make decisions we'll come to regret.
+
+### About Kachina
+
+After you rescued Kachina from the Night Kingdom, I visited her family with Chief Pacal, and brought a few gifts to once again apologize for what happened. Kachina's time in the Night Kingdom left her with many scars she will have to carry into the future — scars she should never have had to bear... And for that, the fault is mine.
+
+### About Varesa
+
+During the Pilgrimage, I cover all the expenses at the Weary Inn, and without fail, there's always an order for a party tray for eighty. I used to assume it was someone ordering for a large group of friends, but as it turns out... Varesa ordered it all for herself.
+
+### About Ifa
+
+The truly great doctors often possess vast medical knowledge as well as great communication skills. And, when the patient and the doctor do not speak the same language, observation and empathy become even more important. That's why Ifa can make friends with just about anyone.
+Suffice it to say, if someone is on bad terms with Ifa — human or saurian — I doubt the problem lies with him, haha.
+
+### About The Captain
+
+For him, I suspect the past five hundred years felt endless. When someone is deprived of death, life becomes a journey with no end, and the human spirit easily grows weary. And yet, he managed to seize the only chance of victory to arrive at the end he sought all along. I have great respect for warriors like him.
+
+### About The Seven
+
+To be quite honest, you likely know them better than me. However, their nations continue to survive and thrive to this day, and that would be impossible without strong leadership. Once this chapter of Natlan's history comes to a close, I plan on strengthening our relationship with other nations so that Natlan can continue to grow.
+
+### More About Mavuika: I
+
+Oh, you want to know more about me? Sure, I'm actually quite fond of telling stories. Still, I think this will be a lot more fun over a few drinks.
+
+### More about Mavuika: II
+
+Riding the flamestrider isn't complicated, it just takes some practice. If I want to go fast, though, I would need to install some safety components. What was that? I'm already going quite fast? Well, when I asked, this is what Xilonen told me — "It's safe enough — not like you're made of glass."
+
+### More about Mavuika: III
+
+Of course, I also have many regrets. Thanks to my knowledge and strength, I'm an effective problem-solver, but most of the time, all people really need is companionship... I've disappointed many people in that regard, but duty stops for no one. Questioning my path will only bring more pain — I owe it to myself to stick to my convictions.
+
+### More about Mavuika: IV
+
+Unleashing the power of the divine throne bound my soul to the Ley Lines. As I rose up into the air, I could feel the passion of our warriors, the determination of our people, and the pain of our fallen... It's a scene I've witnessed once before. But, with the help of our heroes, this time it had a very different ending. That is how we know this struggle was not in vain.
+
+### More about Mavuika: V
+
+With our triumph over the Abyss, my most important duty as Pyro Archon came to an end. Five hundred years ago, I chose to fight for a future that likely wouldn't include me — so I was prepared for that result. So, when that future actually arrived, I was at a loss... But, you've inspired me. Exploration, curiosity, and dedication to others — that's the path forward.
+
+### Mavuika's Hobbies
+
+Getting stronger. Completing a difficult challenge, solving a complicated puzzle, defeating a powerful enemy... I don't have a singular hobby — the sense of accomplishment is what I enjoy the most.
+
+### Mavuika's Troubles
+
+"Due to lack of popularity, all future expansions and additions to 'The Saurian Sleuth' have been suspended..." That was my favorite tabletop puzzle game. It can't be because it was too hard or the rules were too complicated, right? That doesn't make it bad... *sigh* If it comes down to sales, there's not much I can do. I hope the creator will come out with a new game. Maybe I'll write an anonymous letter to support him...
+
+### Favorite Food
+
+Even when it comes to the simplest home-cooked meals, every family has their own recipe, and the flavor can change a lot. I've tried a bunch of different stews around the Stadium, each unique and delicious in its own way. But, if I'm cooking for myself, I still prefer my family recipe.
+
+### Least Favorite Food
+
+I like most ingredients, but I don't really appreciate dishes that are more form than substance, like a full course dinner that will take three whole hours to get through... I respect culinary innovation, of course, but I prefer to spend my time on something more productive.
+
+### Receiving a Gift: I
+
+Just what I like, thank you. Do you have the recipe? I'd love to learn.
+
+### Receiving a Gift: II
+
+Not bad overall, but there's still room for improvement.
+
+### Receiving a Gift: III
+
+Oh, it's surprisingly edible. Definitely not as bad as it looks.
+
+### Birthday
+
+Starting from today, you should write down all your accomplishments on a piece of paper. Then, when you take it out on your next birthday, you'll have a gift from yourself! That way, you'll never forget how amazing you are. Happy Birthday, Traveler.
+
+### Feelings About Ascension: Intro
+
+Perfect! I feel nice and loose.
+
+### Feelings About Ascension: Building Up
+
+I can feel myself getting stronger. But, my power doesn't stop here.
+
+### Feelings About Ascension: Climax
+
+My fire grows hotter, and my body and spirit more aligned. This power shall allow me to fulfill all my duties as a leader.
+
+### Feelings About Ascension: Conclusion
+
+Ever since we met, my power has grown by leaps and bounds. Though different missions drive us forward, a shared sense of duty and justice binds us together. Your help to Natlan is immeasurable, and I am more grateful than words can say.
+
+### Elemental Skill: I
+
+Light it up.
+
+### Elemental Skill: II
+
+Burn it down!
+
+### Elemental Skill: III
+
+Rise with the sun.
+
+### Elemental Skill: IV
+
+Rev the engines!
+
+### Elemental Skill: V
+
+Full throttle!
+
+### Elemental Skill: VI
+
+Try and stop me.
+
+### Elemental Burst: I
+
+Light of the blazing sun!
+
+### Elemental Burst: II
+
+Wrath from the skies!
+
+### Elemental Burst: III
+
+Pyroclastic surge!
+
+### Opening Treasure Chest: I
+
+The rewards of an adventure worth remembering.
+
+### Opening Treasure Chest: II
+
+Ah, something to add to my collection.
+
+### Opening Treasure Chest: III
+
+Hey, not a bad haul.
+
+### Low HP: I
+
+No more mistakes.
+
+### Low HP: II
+
+Switching gears.
+
+### Low HP: III
+
+Time to buckle down.
+
+### Ally at Low HP: I
+
+Leave the fighting to me.
+
+### Ally at Low HP: II
+
+Take a breather.
+
+### Fallen: I
+
+The flame... burns on...
+
+### Fallen: II
+
+The end... of our legacy...
+
+### Fallen: III
+
+Is this... our fate?
+
+### Heavy Hit Taken: I
+
+Not bad.
+
+### Joining Party: I
+
+Archon reporting for battle.
+
+### Joining Party: II
+
+Any time, any place.
+
+### Joining Party: III
+
+Ready to ride.
+
+### About Yumemizuki Mizuki
+
+Ah, she left a very positive impression. When she first arrived in Natlan, I heard that she had a great deal of interest in our hot springs and spent quite some time studying their properties. But, it wasn't for profit. She was interested in their role in improving mental health. Such a pure cause deserved our support and respect.
+Speaking of which... Is it true that the current Archon of Inazuma enjoys hot springs as well? If that's the case, I believe I've found a good starting point for our next conversation.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+追寻火焰在时间长河中的足迹，我们将至黑之地以血泪铸成家园，而今，长路向前延续，旅途正待新篇。现任火神玛薇卡，助你的视野中再无漆黑。
+
+### 闲聊·冒险
+
+探索与挑战…嗯，冒险家的生活很合我的胃口。
+
+### 闲聊·体验
+
+神明总是在天上待着，不常来地上走走可不行。
+
+### 闲聊·循光
+
+许多昆虫有循光而行的本能，人类也是如此，只是我们称那道光为「希望」。
+
+### 下雪的时候…
+
+嗯——好凉快啊，纳塔可没有这样的好地方。
+
+### 阳光很好…
+
+天气真好，很适合户外观光。走，上车，跟我去跑两圈？
+
+### 雨过天晴…
+
+湿漉漉的很不舒服吧？正好休息片刻，我用火帮你烘干一下。
+
+### 在沙漠的时候…
+
+沙子是火焰与文明的天敌，唯有断壁残垣还在讲述着过往。
+
+### 早上好…
+
+醒过来的时候，我会把一天的计划在脑中快速过一次，然后…就会失望地发现，我必须起床了。
+
+### 中午好…
+
+吃过午饭了吗？「沃陆之邦」送来了新鲜的水果，我感觉是很棒的餐后甜点，尝尝看吧。
+
+### 晚上好…
+
+「回声之子」道路整修的方案及预算，嗯…哦，晚上好，已经这个时间了啊。
+
+### 晚安…
+
+晚安，我还要再忙一些事，就当是休息了。啊，我的意思是，「忙碌」对我而言是一种享受。
+
+### 关于玛薇卡自己·头发
+
+好奇我的头发？放心吧，这是种非常友善的火，一点都不烫，也不会引燃任何物品，它只会在敌人的身上展现出全部的威力——你明白我的意思吧？
+
+### 关于玛薇卡自己·留言
+
+纳塔历史上存在很多火神，他们都会选出最关键的知识与记忆放入圣火，提供给继位者学习。由于信息量很大，有时候甚至会影响到学习者的神智，所以我在火中留下了一句话——「成为火之前，请先为自我的存在而骄傲。」
+
+### 关于我们·执剑
+
+计划是最可靠的指引，但也绝非不可改动的神圣律令，我在五百年前无法预知你的到来，但当我见到并了解你之后，我就知道计划值得因你而变动。从结果上看，与你一同执剑，是无比正确的决断。
+
+### 关于我们·古名
+
+你可能还没有意识到「杜麦尼」这个全新的古名会在未来的纳塔留下多么重要的影响：之后的每一代人讲起「杜麦尼」的故事，就会提到这场战斗，提及每一位英雄，而「杜麦尼」会和「基扬戈兹」紧密相连，我们将会和纳塔一同存续到永远。
+
+### 关于「神之眼」…
+
+对人类来说，「神之眼」和「古名」都是来自神明的馈赠，区别在于前者赐予了元素力，而后者提供的则是精神上的支持。但我始终认为，有无身外之物的加持都不妨碍一个人变得伟大，成为英雄，因为更重要的东西，是炽热的「心」。
+
+### 有什么想要分享…
+
+小时候我父亲告诉我，一个木桶能装多少水，取决于最短的那块木板，但如果想要不断进步，就要甘愿成为那块最短的木板——承认自我的不足，向优秀者请教，这样的人并不是失败者，而是进取者。
+
+### 感兴趣的见闻…
+
+幼年的匿叶龙特别可爱，我的龙伙伴希塔塔特别特别黏人，只要看见我，不管离我多远，都会开心地冲进我怀里来。这让我妹妹伊妮有点嫉妒，所以她看到希塔塔跑过来的时候，她也会跑过来，我得同时接住他们两个，哈哈哈。
+
+### 关于希诺宁…
+
+希诺宁是纳塔最优秀的工匠之一，不仅掌握古名的打造方法，还对秘源技术颇有研究，就算是需要创造前所未有的东西，她也勇于挑战，总能拿出好的结果，虽然过程通常会有点波折…嗯，比如改设计之类的。
+
+### 关于茜特菈莉…
+
+很多人觉得她脾气古怪，难以相处，我认为只是普通的琐事不配让她放在心上。当真正需要她担心的事出现，她会有多认真，你们应该已经见识过了…有时候我觉得像她这样的性格很容易被卷入险境，所以我会向她隐瞒一些东西，可是…想要不被她洞察到也很难，她太敏锐了。
+
+### 关于恰斯卡…
+
+能在深渊的影响下存活，本就是种奇迹，更令人感动的是，她在纳塔邂逅的人与龙，共同帮助她找到了活下去的「理由」。现在我已无须担心她的坚韧，但我还是想要尽我所能，为她留出一个更加温柔的「居所」——再坚强的人，也需要休息。
+
+### 关于欧洛伦…
+
+在我看来，他的真实性格和外在表现出的东西相去甚远，他就像是一块被冰块包裹的熔岩，让他冷静下来的东西是族人与朋友，让他躁动不安的则是守护他们的冲动，与成为英雄的使命感…这种情绪并不理智，但又难能可贵。
+
+### 关于伊安珊·纠缠
+
+伊安珊刚刚获得古名参加归火圣夜巡礼的时候，总是被人当成软柿子，所以在团体赛的时候找她战斗的人非常多，虽然她每次都能赢，但也会消耗大量的体能，这也让她起初的成绩并不好。而越是这样，她就越容易被人缠上…
+
+### 关于伊安珊·证明
+
+我给了她建议，只要大家都知道她是个强者，就不会有那么多人找麻烦了。但我没想到的是，伊安珊沉思片刻，想到的方法竟然是在归火圣夜巡礼的时候和我打一场。哈哈哈，她的实力远超我的预料，这一场也很有效果，再也不会有人瞧不起她了。
+
+### 关于玛拉妮…
+
+她和图帕克的性格完全不同，却都继承了「沃摩延」之名。「团结」重要的并不是方式，而是内心中珍视友人与家园，愿意为此献出全力的精神…虽然我这么说，但当时的玛拉妮一定没想这么多，她只是很清楚，卡齐娜与她自己的生命同等重要。
+
+### 关于基尼奇…
+
+「马力卜」除了回火还有一个含义是「代价」，你们可能会疑问，相较于其他古名，这并非是一个表达积极含义的词语。但其实「代价」象征着时刻保持清醒，敢于分析现状，提出问题，哪怕是泼冷水和说丧气话，如果没有这样的人在，众人很容易因情绪而陷入死局，因小失大。
+
+### 关于卡齐娜…
+
+在你们帮助卡齐娜从夜神之国平安归来之后，我去了她家，和首领一起再次表达了歉意，还送去了一些慰问品。迷失在夜神之国的这段经历会在卡齐娜的成长中残留很多影响，而这些影响本不应该发生…我对此负有责任。
+
+### 关于瓦雷莎…
+
+归火圣夜巡礼举办期间，「倦意之屋」的消费都由我个人承担，但每次去结账的时候，都会发现有个客人点了八十人份的套餐。起初我还以为是大型的亲朋好友观光团，结果没想到…居然就是她一个人。
+
+### 关于伊法…
+
+除了精湛的医术外，一个好医生往往拥有很强的沟通能力。而当与医患语言不通时，就需要更敏锐的观察力和同理心。这就是为什么伊法总是能和不同性格的人交上朋友吧。
+所以说，如有人或者龙和伊法关系不好…哈哈，我想应该不是伊法的问题。
+
+### 关于「队长」…
+
+同样是五百年的时间，我想对他而言会更加漫长，当死亡的权利被剥夺，人生就成为了没有终点的旅途，人类的精神很容易就在这种虚无中耗竭。可是他依然抓住了唯一的胜利机会，获得了他所追求的圆满。我对像他这般的战士充满敬意。
+
+### 关于尘世七执政…
+
+很遗憾，我对他们的了解甚至还不如你多，但我相信只有最优秀的领导者，才能让国度存续至今并且向前发展。在纳塔抗击深渊的历史告一段落之后，我也打算和其他国家建立更多联系，并为纳塔接下来的发展做好准备。
+
+### 想要了解玛薇卡·其一
+
+哦？没问题，我还挺喜欢讲故事的，只不过就这么讲未免单调了点，我们先去来上两杯吧。
+
+### 想要了解玛薇卡·其二
+
+驰轮车的操控并不复杂，只要稍加练习就能驾驭，不过如果想要高速行驶，还需要加装许多安全配件。什么？你说我现在已经骑得很快了？用希诺宁的原话来解释——「你身强体壮，用不着这个。」
+
+### 想要了解玛薇卡·其三
+
+我的遗憾当然也有很多。因为使命在身，我无法为任何人驻足停留，我所积累的知识和力量能最有效率地解决问题，但很多时候人们需要的只是「陪伴」…在这方面，我让很多人失望过。优柔寡断只会带来更深重的痛苦，我唯一能做的就是克制。
+
+### 想要了解玛薇卡·其四
+
+解放神座之力升上高空之后，我的灵魂也和地脉紧紧相连，我能感受到战士的热血，普通人的坚强，以及受害者的伤痛…亲历这些情绪，已经是第二次了，所幸有你和英雄们的帮助，这次的结局完全不同，这也证明了我们的坚持是有价值的。
+
+### 想要了解玛薇卡·其五
+
+我作为火神最重要的职责已经告一段落，原本在这崭新的纳塔里并没有我的位置，我在几百年前就接受了这一切，而现在这种状态，反而让我有点手足无措…不过在你的身上，我已经看到了我应该前往的方向——去探寻，去学习，去拯救。
+
+### 玛薇卡的爱好…
+
+变强。比如完成艰难的挑战，解开复杂的谜题，战胜强大的敌人…比起重复相同的事，成就感才是我的快乐源泉。
+
+### 玛薇卡的烦恼…
+
+「『恐龙与遗迹侦探』由于人气不佳，决定不再制作拓展内容和解密合集…」这可是我最喜欢的桌面谜题，不能因为它的题目太难，规则难以理解，就认为它做得不好吧。唉，不过既然是销量原因也没办法，写一封匿名信鼓励作者吧，希望以后还能玩到他的新作。
+
+### 喜欢的食物…
+
+哪怕是最简单的家常菜，每家人做出来的味道也不一样，有时候差别还很大。我在圣火竞技场吃过好几种炖肉，每种都很好吃，做法都有独到之处，但轮到我自己做的时候，我还是会选择我家的味道。
+
+### 讨厌的食物…
+
+我没有不喜欢的食材，但我比较反感形式大于内容的食物，比如要花三个小时才能走完全程的「正餐」…虽然能感受到厨师的创意与巧思，但我还是愿意将时间投入到更有效率的事情上。
+
+### 收到赠礼·其一
+
+谢谢你，相当合我的口味，你有菜谱吗？我也想学学看。
+
+### 收到赠礼·其二
+
+我大体满意，不过还能想到几个改进点。
+
+### 收到赠礼·其三
+
+没想到吃起来还不坏，我能够接受。
+
+### 生日…
+
+从今天开始，你可以把每个值得纪念的成就都写在纸上，保存到下一次生日的时候再拿出来，这样你就会拥有一份来自自己的生日礼物。希望这些记录，能够让你时刻记住，你有多么了不起，生日快乐。
+
+### 突破的感受·起
+
+舒展筋骨的感觉，我喜欢。
+
+### 突破的感受·承
+
+力量越来越强，不过我的实力还远不止此。
+
+### 突破的感受·转
+
+火焰愈发澄澈，我的灵魂与肉体也愈发契合，这等力量，才是践行「领袖」职责的保证。
+
+### 突破的感受·合
+
+自从与你相遇，我的力量再次获得了质的飞跃。我们各自拥有不同的使命，是责任感与正义感将我们相连。对于你所提供的帮助，我感激不尽。
+
+### 元素战技·其一
+
+点燃吧。
+
+### 元素战技·其二
+
+焚灭不净！
+
+### 元素战技·其三
+
+烈日随我。
+
+### 元素战技·其四
+
+要加速了。
+
+### 元素战技·其五
+
+动力全开！
+
+### 元素战技·其六
+
+谁要阻拦？
+
+### 元素爆发·其一
+
+恭听太阳的轰鸣！
+
+### 元素爆发·其二
+
+无赦天火！
+
+### 元素爆发·其三
+
+埋葬于赤焰之下！
+
+### 打开宝箱·其一
+
+冒险的嘉奖，很有纪念意义。
+
+### 打开宝箱·其二
+
+多了一份能加入收藏的东西。
+
+### 打开宝箱·其三
+
+还不错，我很喜欢。
+
+### 生命值低·其一
+
+不能再失误了。
+
+### 生命值低·其二
+
+需要调整。
+
+### 生命值低·其三
+
+也该认真起来了。
+
+### 同伴生命值低·其一
+
+战斗的事交给我。
+
+### 同伴生命值低·其二
+
+不要勉强自己。
+
+### 倒下·其一
+
+火，不会熄灭…
+
+### 倒下·其二
+
+传承，终结了吗？
+
+### 倒下·其三
+
+命运，如此？
+
+### 重受击·其一
+
+不错啊。
+
+### 加入队伍·其一
+
+火神玛薇卡，参战。
+
+### 加入队伍·其二
+
+当然没问题。
+
+### 加入队伍·其三
+
+我随时准备就绪。
+
+### 关于梦见月瑞希…
+
+我对这位稻妻客人印象不错。听说她初来纳塔的时候，对「流泉之众」那边的温泉颇为上心，还四处打听和温泉有关的技艺。但她的钻研不为谋利，而是旨在改善人们的精神状态。如此纯粹的目的，理应获得我们的敬重与帮助。
+说起来…稻妻的现任执政也喜欢泡温泉吗？要是此事属实，我似乎知道该如何和她拉近关系了。

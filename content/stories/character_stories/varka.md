@@ -718,3 +718,1118 @@ This is what humanity has always done best.
 「——下一步，我会超越他的剑舞。」
 借鉴，传承，然后超越。
 自古以来，就是人类最擅长的事。
+
+# voice_source_ids: 128000,128001,128002,128003,128004,128005,128006,128007,128008,128009,128010,128011,128012,128013,128014,128015,128016,128017,128018,128019,128020,128021,128022,128023,128024,128025,128026,128027,128028,128029,128030,128031,128032,128033,128034,128035,128036,128037,128038,128039,128040,128041,128042,128043,128044,128045,128046,128047,128048,128049,128050,128051,128052,128053,128054,128055,128056,128057,128058,128059,128060,128061,128062,128063,128064,128065,128066,128067,128068,128069,128070,128071,128072,128073,128074,128075,128076,128077,128078,128079,128080,128081,128082,128083,128084,128085,128086,128087,128088,128089,128090
+
+## REPLICAS_RU
+
+### Поболтаем: Выпивка
+
+Я люблю выпить при случае... при любом случае. Ха! Ха-ха, хорошая шутка.
+
+### Поболтаем: Оружие
+
+Оружие требует регулярного ухода. Ухаживай за ним, и оно не подведёт тебя в самый ответственный момент.
+
+### Поболтаем: Отдых
+
+Ох... Как же приятно встать из-за рабочего стола. Где бы найти подходящее место, чтобы вздремнуть?
+
+### Привет...
+
+Позволь представиться ещё раз, хотя тебе, наверное, уже надоело это слышать. Я Варка, магистр ордена Ордо Фавониус, Рыцарь Бореалис из Мондштадта. Я здесь, чтобы выполнить клятву Фавония. Клянусь своим мечом, я не позволю тебе пасть раньше меня.
+
+### После дождя...
+
+Дождь прекратился. Продолжаем путь.
+
+### Когда идёт снег...
+
+Когда идёт снег, я всегда вспоминаю места, где побывал во время своих прошлых экспедиций...
+
+### Когда дует сильный ветер...
+
+Ох, такой сильный ветер! Хочешь помериться силами?
+
+### Доброе утро...
+
+Доброе утро! Что-то ты совсем без сил. Может, пропустишь стаканчик, чтобы взбодриться?
+
+### Добрый день...
+
+Добрый день! Наступило время послеобеденного отдыха, пора передохнуть. Если не поспать днём, вечером будешь валиться с ног!
+
+### Добрый вечер...
+
+Добрый вечер! Сегодня изрядно потрудились. Хочешь выпить чего-нибудь, чтобы быстрее заснуть?
+
+### Спокойной ночи...
+
+Спокойной ночи. Даже ветер нуждается в отдыхе. Я буду нести караул у палатки. Не нужно стоять на страже? Ах, да... мы же не под открытым небом. Привычка...
+
+### О себе: Рыцарь Бореалис
+
+Рыцарь Бореалис - это посредник между людьми и Бореем. Однако на практике за последнее тысячелетие Лупус Бореалис по-настоящему признал лишь немногих... Я? Ха-ха-ха, о да. Можешь не сомневаться, я один из них.
+
+### О себе: Экспедиция
+
+Я участвовал во многих экспедициях, чтобы защитить окрестности Мондштадта, хотя ни одна из них не может сравниться с этой... Однажды мы очистили ущелье Дадаупа. В другой раз мы объединились с Миллелитами, чтобы установить мир возле Каменных Ворот. А ещё мы отчалили от побережья Сокола, чтобы сразиться с морскими чудовищами... Хм? Говоришь, тебе никогда не встречались сильные противники в этих местах? ...Правда? Я был уверен, что оставил несколько, чтобы другие могли потренироваться...
+
+### О нас: Чужестранец
+
+Мондштадт - город свободы. Это место, которое каждый может назвать своим домом - будь ты ребёнком грешника, странствующим богом или путешественником из далёких краёв. Так что не стесняйся, ты ведь наш почётный рыцарь!
+
+### О нас: Ловец ветра
+
+«Найди одну мысль среди тысячи ветров, удержи её, пока не улетела...»
+Это объяснение Барбатоса о том, как обратить вспять процесс слияния. Если не отделить собственное «я» от Лупуса Бореалиса, слияния с артериями земли не избежать... Я тогда ничего не понял, но, испытав это на себе... всё равно не особо разобрался! Но хорошо, что больше не придётся переживать это снова.
+Вспомнил, я до сих пор не поблагодарил тебя должным образом с тех пор, как вернулся из артерий земли. Сейчас как раз подходящий момент. Кхе...
+Ты поймал меня, чужеземец, поймавший ветер.
+
+### Глаз Бога...
+
+Помню, когда я только получил Глаз Бога, я был безрассудным юнцом. Как же я был счастлив, что Анемо Архонт обратил на меня внимание... Но потом я познакомился с Барбатосом и понял, что всё совсем не так, как я себе представлял... Ещё одна юношеская иллюзия разбилась вдребезги! Но сила, которую он мне дал, и стремления, которые он во мне пробудил, никогда не изменятся.
+
+### Давай поделимся: Хранители четырёх ветров
+
+Честно говоря, я никогда не понимал, откуда взялось название Хранители четырёх ветров. Смотри: Дракон Востока, Сокол Запада и Лев Юга - у всех есть чёткая привязка. Но Волк Севера может означать как Борея, так и меня. Более того, в Ордо Фавониус входят Рыцарь Львиный клык и Рыцарь Бореалис, то есть получается, что «Запад» на самом деле включает в себя и Юг, и Север? Бессмыслица какая-то.
+Хм? Хочешь сказать, что какой-то бард выбрал цифру четыре, ради благозвучности? ...Да, звучит вполне правдоподобно...
+
+### Интересные наблюдения: Кошки и собаки
+
+Были времена, когда в Мондштадте разгорались споры между любителями кошек и любителями собак. Можно было бы подумать, что Рыцарь Бореалис будет на стороне собак. Но, честно говоря, я испытываю слабость к кошкам. Щенки, конечно, очень милые и энергичные, но спокойная кошка тоже может стать отличным компаньоном. Если бы у меня была возможность... Да, я бы завёл их всех!
+
+### О Венти...
+
+Барбатос? На первый взгляд он может показаться беспечным и легкомысленным, но когда возникают сложные ситуации, он становится серьёзным. И я должен отдать ему должное: он прекрасно разбирается в напитках - достойное божество Мондштадта! ...Хм? Создаётся впечатление, что я говорю о себе? Ха-ха-ха, ты мне льстишь! Разве я могу сравниться с самим Анемо Архонтом?
+
+### О Рэйзоре...
+
+Когда я впервые встретил Рэйзора, он был всего на несколько сантиметров выше волчат из Волфендома. Он едва мог поднять двуручный меч! Но даже тогда научить его пользоваться мечом было проще, чем научиться общению с ним. Мне понадобилось не менее полугода, чтобы освоить это искусство. И вот, спустя столько лет, у него появилось так много друзей... Как летит время!
+
+### О Розарии...
+
+Э-э... Я лучше промолчу. Не хочу, чтобы она меня отругала за болтливость. Она может быть очень сурова. Если тебе что-то интересно, лучше спроси её напрямую. Думаю, она готова поговорить с тобой о прошлом.
+
+### О Дилюке...
+
+Он всё ещё не хочет вернуться в орден? Ха-ха, что ж, пусть делает как знает - ветра Мондштадта всегда были свободны. Он волен не возвращаться, а я волен продолжать уговаривать его. Но всё же не стоит испытывать судьбу... Если буду слишком на него давить, он может внести меня в чёрный список винокурни «Рассвет». Это будет катастрофа!
+
+### О Кэйе...
+
+Я знаю, как много господин Крепус значил для Кэйи. Трагический инцидент был не менее болезненным для него, чем для его приёмного брата. Но даже пережив эту несправедливость и братскую вражду... он всё же решил остаться в ордене. В итоге он сыграл ключевую роль в разоблачении Эроха. Раз он решил довериться нам, то и я доверюсь ему, независимо от его прошлого.
+
+### О Джинн...
+
+Честно говоря, я всегда считал, что Джинн по своим способностям и характеру больше подходит на роль магистра ордена, чем я. Но как бы я ни пытался её убедить, она упрямо твердит, что недостаточно квалифицирована. Ха, мы с ней похожи! Я сам был довольно молод, когда занял этот пост. Почётный рыцарь, если у тебя будет возможность, попробуй её уговорить... Хм? Думаешь, я пытаюсь свалить всю свою работу на Джинн? Ни в коем случае, ни за что! ...Готов ли я поклясться на бокале вина? Э-э, в этом нет необходимости, правда...
+
+### О Ноэлль...
+
+Даже я был удивлён, увидев её врождённую силу. Я слышал, что она учится искусству владения мечом у Джинн. После того как она освоит одноручный и двуручный мечи, я думаю, она сможет унаследовать моё... Что? В прошлый раз она запустила свой меч прямо в потолок? Ох... Похоже, нам нужно запланировать ещё несколько тренировок.
+
+### О Лоэне...
+
+Создаётся впечатление, что этот негодник каждый день устраивает какой-нибудь дебош. Раньше я думал, что он похож на меня в молодости, жаждущего сражаться с сильными противниками и прославиться. Но оказалось, что его интересует само сражение, а слава ему совершенно безразлична. Ох... Во всяком случае, когда он сражается с врагом, он занят делом, а то от скуки начнёт расставлять ловушки, чтобы застигнуть меня врасплох.
+
+### О Мике...
+
+Когда теряешься в жизни, нужен наставник, который будет тебя направлять, а когда теряешься в походе, нужна карта. По этой логике можно сказать, что Мика - мой наставник, ха-ха! ...Я рассказал эту шутку Мике, но он побледнел как простыня. Честно говоря, ему стоит больше верить в себя. В конце концов, не каждый может стать рыцарем!
+
+### Об Эоле...
+
+Я планировал отправить кого-нибудь в Терновый порт, чтобы встретить войска, но Эола сказала, что уже всё организовала. Я просмотрел расписание - всё было идеально. Не ожидал, что она так тщательно всё продумает и ни разу не упомянет о мести. Ха-ха, нет ничего приятнее, чем видеть, как растут рыцари.
+
+### Об Эмбер...
+
+Эмбер - воплощение энергии. Как скаут и Чемпион полётов, она часто патрулирует окрестности Мондштадта, помогая нуждающимся. Она первый рыцарь Ордо Фавониус, с которым встречаются большинство приезжих, а значит, она фактически является лицом организации. Хм? Она была первым рыцарем, которого вы повстречали? Ха-ха, это так на неё похоже!
+
+### Об Альбедо...
+
+Когда Альбедо впервые прибыл в Мондштадт, он показался мне одним из тех образцовых детей, о которых мечтают все родители. Скромный, воспитанный... Но в то же время он казался сдержанным и осторожным. Я надеялся, что со временем он станет более раскованным. В конце концов, как можно называть Мондштадт Городом свободы, если жители не могут быть здесь самими собой? Но он превзошёл все мои ожидания, потому что теперь он даже подшучивает над моими навыками рисования! Ха-ха-ха!
+
+### О Дурине...
+
+Не буду врать, когда я впервые получил сообщения о возрождении Дурина, моё сердце замерло. Я уже собирался отправить элитный отряд на защиту Мондштадта... К счастью, новый Дурин совсем не похож на старого, и тот, кто когда-то был одной из самых больших угроз для Мондштадта, стал одним из наших самых надёжных союзников... Судьба - вещь непредсказуемая.
+
+### О Кли...
+
+Рыцарь Искорка становится всё лучше в побегах из одиночной камеры. Похоже, она всерьёз восприняла мои «наставления». Пожалуй, я мог бы кое-чему у неё поучиться... Э-э, я имею в виду... Забудь, что я сказал! Я имел в виду... техники рисования, да. Ох, ты же не расскажешь об этом Джинн или Альбедо? Э-э... И, пожалуйста, Алисе тоже ничего не говори. Спасибо.
+
+### Об Алисе...
+
+Из всех титулов Алисы я больше всего завидую титулу Великой искательницы приключений. В молодости я тоже немало путешествовал, но каждый раз, слушая рассказы Алисы об увиденных ею пейзажах, я не могу себе вообразить даже десятую часть этих чудес. Интересно, будет ли у меня возможность расширить свой кругозор, когда я сложу полномочия магистра ордена? Хотя не уверен, что у меня ещё будут силы после этого, ха-ха!
+
+### О Николь...
+
+Есть много вещей, которым я хотел бы научиться у Николь. Благодаря её невероятному чувству ориентации, я бы никогда не беспокоился о том, что заблужусь во время экспедиции. А способность телепатической связи была бы очень полезна для передачи сообщений на поле боя... Что? Ты говоришь, использовать способности ангела для таких вещей - бесполезная трата сил? Но ведь всё это очень полезно!
+
+### О Барбелот...
+
+Однажды я мельком увидел будущее в чаше для гадания Барбелот. Она сказала, что это было видение, которое показала мне сама судьба... Но предвидела ли судьба, что я попытаюсь изменить его? И предсказала ли она, как всё обернётся в итоге?
+Хм... Мой ответ таков: нет нужды зацикливаться на этом. Излишние размышления лишь замедлят мой меч. Что бы ни уготовила для меня судьба, я всё равно буду поступать так, как считаю нужным.
+
+### Об Айно...
+
+Когда я впервые встретил Айно, я за неё переживал. Мне казалось неправильным, что такой маленький ребёнок растёт один в Нод-Крае... Только позже я понял, что сильно ошибался. Она не одинока, и ей точно не нужно, чтобы о ней кто-то переживал. Каждый ребёнок находит свой путь во взрослую жизнь, и наши предвзятые представления не приносят им пользы.
+
+### Об Инеффе...
+
+Когда я попросил её доставить тебе письмо, я и понятия не имел о том, через что ей пришлось пройти. Душа, рождённая в неволе, которая в конце концов преодолела своё проклятие и обрела свободу... Говорю тебе, когда её история дойдёт до Мондштадта, она войдёт в историю как одна из величайших саг! Будь то Веннесса или клан Цветочного Пера, истории о том, как люди сбрасывают оковы в погоне за свободой, всегда вдохновляют.
+
+### О Флинсе...
+
+Люди часто путают рыцарский дух с аристократическим укладом. Учитывая то, как вела себя аристократия в древнем Мондштадте, было время, когда я бы не допускал подобных проявлений... Но если бы все аристократы были такими, как господин Флинс, ха-ха, тогда мы вполне могли бы сидеть за одним столом и пить в своё удовольствие.
+
+### О Нефер...
+
+После прибытия экспедиционного корпуса в Нод-Край Северная разведсеть нам очень помогла, и в будущем я планирую продолжать наше плодотворное сотрудничество... Я даже придумал себе позывной «Волк». Как тебе? Круто, правда?
+
+### О Ягоде...
+
+Она любит поворчать, но как только приступает к работе, становится безжалостно эффективной. Если человек смог сделать себе имя охотника за сокровищами в таком суровом месте, как Нод-Край, значит, он обладает настоящей выдержкой! Я бы с удовольствием принял её в рыцари, но это означало бы переманить её у нынешнего босса, да и... она, скорее всего, не захочет менять работу. А я-то хотел предложить ей двойное жалованье, но лучше не буду спрашивать.
+
+### О Мавуике...
+
+Независимо от того, человек она или бог, Пиро Архонт - могучий воин, достойный уважения. Если бы я родился в Натлане, интересно, был бы у меня шанс скрестить с ней мечи, пока она ещё была человеком... Хм, но тогда я не смог бы защищать Мондштадт. Нет, нет... Эх, наверное, всё-таки не стоит об этом думать.
+
+### О Капитане...
+
+Я встречал его всего один раз, но... Правда? Рыцарь Каэнри'ах... Траин Небесная колонна... Судя по всему, он взял свою судьбу в свои руки.
+
+### Узнать больше о Варке I
+
+О? Есть во мне что-то, что тебя заинтересовало? ...В библиотеке есть книга «Сто фактов о Варке»? Я и не знал о её существовании. Что ж, давай сверим информацию.
+
+### Узнать больше о Варке II
+
+«Ни один Рыцарь Бореалис никогда не утверждал, что он самый могущественный из всех, что были когда-либо, поскольку скромность и честность являются рыцарскими добродетелями. Так было до появления Варки. Потому что, когда он утверждает это, он одновременно и скромен, и честен». ...Ох. Я... я не знаю, что сказать...
+
+### Узнать больше о Варке III
+
+«Хранители четырёх ветров когда-то означали основной меч Варки, вспомогательный меч, удар левой ногой и удар правой рукой. Но тех, кто видел всё это воочию, уже нет в живых, поэтому осталась только современная версия Хранителей четырёх ветров». ...Э-э-э, ну, это уже перебор. Я ни за что не смог бы справиться с работой всех Хранителей четырёх ветров в одиночку.
+
+### Узнать больше о Варке IV
+
+Лучше убери эту книгу, слишком уж преувеличено. Не знаю, какой пьяный тип её написал. Как видишь, я обычный человек из плоти и крови. Могу получить ранение, истекать кровью, стареть. Так что давай общаться как обычные друзья - вместо того чтобы верить домыслам, лучше сесть за одним столом и выпить, так мы гораздо быстрее узнаем друг друга. Может, прямо сейчас пропустим по стаканчику?
+
+### Узнать больше о Варке V
+
+До дна! Ещё по одной! Ха-ха-ха... На чём я остановился? Ах да, этот шрам от схватки с Бореем. Старый волк хорошенько потрепал меня! Я чуть не завыл громче него... А этот я получил, когда в одиночку прошёл испытания Ведьмина шабаша... Если смертный хочет защитить всё, он должен быть готов пожертвовать всем. Так я стал сильнейшим Рыцарем Бореалиса... Да... Так и было...
+
+### Хобби Варки...
+
+Когда-то меня тоже можно было считать искателем приключений. Отправляться к новым горизонтам, сталкиваться с сильными противниками... это всегда будоражит кровь. Но сейчас. В жизни есть вещи поважнее. Вещи, которые я должен защищать.
+
+### Беспокойство Варки...
+
+Строительство опорного пункта в Нод-Крае, передислокация обороны Тернового порта, организация возвращения экспедиционного корпуса, детальная отчётность о расходах ордена... А-а-а-а-а... Почему настоящие мучения начинаются уже после окончания экспедиции?!
+
+### Любимая еда...
+
+Разумеется, это... Что-то кроме алкоголя?.. Рисовые шарики в вине и шоколадные ликёры считаются? Нет? Э... хм... тогда... большие куски мяса, обжаренные на сильном огне, вкусные закуски, сыр и орехи. Ха-ха-ха...
+
+### Нелюбимая еда...
+
+Некоторые напитки выглядят как алкоголь, пахнут как алкоголь, но на вкус совсем не алкоголь! Это же мошенничество!
+
+### Подарок I
+
+Это блюдо... стоит того, чтобы открыть бутылку первоклассного вина из одуванчиков!
+
+### Подарок II
+
+Неплохой паёк, логистическому отряду стоит поучиться у тебя.
+
+### Подарок III
+
+Вы... обычно это едите? Жизнь искателя приключений не легче походов экспедиционного корпуса... Давайте как-нибудь вместе сходим поедим чего-нибудь вкусного.
+
+### День рождения...
+
+С днём рождения! Никуда не уходи, рыцари Ордо Фавониус готовятся спеть тебе поздравительную песню. Хочу уточнить, что это не злоупотребление властью. Они сами предложили! А я помог всё организовать и подготовить место. Ты же знаешь, как мы все обожаем нашего почётного рыцаря. Ну же, все ждут виновника торжества и солиста!
+
+### Чувство возвышения: Начало
+
+Скромность - первая добродетель рыцаря. Только с открытым сердцем принимая наставления, можно совершенствоваться день ото дня.
+
+### Чувство возвышения: Нарастание
+
+Честность - вторая добродетель рыцаря. Красноречие и хитрость обманывают лишь на время, но победа на острие меча никогда не лжёт.
+
+### Чувство возвышения: Кульминация
+
+Самодисциплина - третья добродетель рыцаря. Каждый рыцарь должен жить по совести и идти своим путём с железной решимостью.
+
+### Чувство возвышения: Окончание
+
+Помнишь три добродетели рыцаря? Отлично, а теперь забудь о них. Каким рыцарем стать и какой путь выбрать, решаем только мы сами!
+
+### Тяжёлый удар: I
+
+Сокрушу!
+
+### Тяжёлый удар: II
+
+Удар!
+
+### Элементальный навык I
+
+Воронка!
+
+### Элементальный навык II
+
+Сгори!
+
+### Элементальный навык III
+
+Оковы льда!
+
+### Элементальный навык IV
+
+Громовой удар!
+
+### Элементальный навык V
+
+Шквал!
+
+### Элементальный навык VI
+
+Вдребезги!
+
+### Элементальный навык VII
+
+Ещё яростнее!
+
+### Элементальный навык VIII
+
+Ха!
+
+### Элементальный навык IX
+
+Не отставай!
+
+### Взрыв стихии I
+
+Ха-а-а-а!
+
+### Взрыв стихии II
+
+Борей, вперёд!
+
+### Взрыв стихии III
+
+За мной в атаку!
+
+### Открытие сундука I
+
+Есть выпивка? Налей мне стаканчик.
+
+### Открытие сундука II
+
+Бери, что понравится.
+
+### Открытие сундука III
+
+Трофеи - награда за приключения. Забирай.
+
+### Низкий уровень HP I
+
+Ха... Надо быть серьёзнее!
+
+### Низкий уровень HP II
+
+Достойный противник!
+
+### Низкий уровень HP: III
+
+Кажется, я слишком зарвался...
+
+### Низкий уровень HP компаньона I
+
+Защищать союзников - долг рыцаря!
+
+### Низкий уровень HP компаньона: II
+
+Отступай, я возьмусь за дело.
+
+### Без сознания I
+
+Северный ветер... Путь не должен прерваться здесь...
+
+### Без сознания II
+
+Ха... и со мной это случилось...
+
+### Без сознания III
+
+Я оставляю Мондштадт... на вас...
+
+### Получен лёгкий удар I
+
+Царапина!
+
+### Получен лёгкий удар: II
+
+Не страшно!
+
+### Получен тяжёлый удар I
+
+Ещё один шрам.
+
+### Присоединяется к группе I
+
+Отлично, готовимся к выступлению!
+
+### Присоединяется к группе II
+
+Куда подует северный ветер сегодня?
+
+### Присоединяется к группе III
+
+Рыцарь Бореалис в строю.
+
+### Начало спринта I
+
+За мной!
+
+## REPLICAS_EN
+
+### Chat: Drinking
+
+I like to drink on occasion... any and every occasion. Ha! Haha, good one.
+
+### Chat: Weapons
+
+Weapons need regular maintenance. Take good care of them, and they'll take care of you when it matters most.
+
+### Chat: Rest
+
+*sigh* Sure feels good to get away from my desk. Now, where's a good spot for a nap?
+
+### Hello
+
+Allow me to introduce myself again, though you're probably bored of hearing it by now. I am Varka, Grand Master of the Knights of Favonius, Mondstadt's Knight of Boreas. I'm here to fulfill the Favonian pledge: I swear by my sword, you shall not fall while I stand.
+
+### After the Rain
+
+The rain's stopped. We march on.
+
+### When It Snows
+
+Seeing the snow fall always reminds me of places I've been through on past expeditions...
+
+### When the Wind Is Blowing
+
+Whoa, that's a strong wind! Trying to knock me down, huh?
+
+### Good Morning
+
+Morning! ...Huh, you're looking pretty groggy. How about a drink to perk you up?
+
+### Good Afternoon
+
+Afternoon! We got some down time. Make sure to get some rest, or your afternoon's gonna be a real grind.
+
+### Good Evening
+
+Evening! Long day, huh? How 'bout a nightcap to help you sleep?
+
+### Good Night
+
+Night. Even the wind needs to rest sometimes. I'll keep watch outside the tent. ...Don't need a night watch? Oh.... right, yeah — we're not sleeping rough. Hah, old habits...
+
+### About Varka: Knight of Boreas
+
+The Knight of Boreas serves as a bridge between humans and Lupus Boreas. But only a handful of us have truly managed to earn the wolf lord's recognition over the past millennium... Me? Hahaha, oh yeah. You'd better believe I'm one of them.
+
+### About Varka: The Expedition
+
+I've been on many expeditions to keep the peace around Mondstadt, although none of them hold a candle to this one... One time, we cleared out Dadaupa Gorge. Another, we joined forces with the Millelith to pacify Stone Gate. And once, we set out from Falcon Coast to intercept some sea monsters offshore... Hmm? No wonder you've never run into any strong foes in those areas? ...Really? I was sure I left a few here and there for people to practice on...
+
+### About Us: Outlander
+
+Mondstadt is the city of freedom. It's a place that anyone can call home — whether you're the child of a sinner, a wandering god, or a traveler from afar. So, no need to stand on ceremony with me — you're the Honorary Knight, after all!
+
+### About Us: Catching the Wind
+
+"Focus on a single thought within the thousand winds, capture that unique wisp before it blows away."
+That's what Barbatos said to me when he explained how to reverse the assimilation process. Unless you separate yourself out from Lupus Boreas, there's no way to avoid merging with the Ley Lines... I didn't understand his words at the time, but after experiencing it firsthand... Nope, I still don't really get it, haha! At least I won't have to go through that again.
+Come to think of it, I still haven't properly thanked you since I returned from the Ley Lines. Well, now's as good a time as any. Ahem...
+You caught me, "Outlander Who Caught the Wind."
+
+### About the Vision
+
+I remember the day I got my Vision well. I was still a reckless young hothead back then. Boy, was I thrilled that the Anemo Archon had noticed me... Until I actually got to know Barbatos for myself, and realized that wasn't what it meant at all. Another youthful dream shattered! But the power it gave me, and the aspirations that brought it my way... those will never change.
+
+### Something to Share: The Four Winds
+
+You know, I've never really understood the logic behind "The Four Winds." I mean, the Dragon of the East, Falcon of the West, Lion of the South — they're pretty clear cut, right? But "Wolf of the North" could refer to either Boreas or me. And the "Knights of Favonius" includes both the Lionfang Knight and the Knight of Boreas, which means the Favonian "West Wind" actually includes both the "South" and the "North." How does that make any sense?
+Hmm? You think some bard picked the number four to make it sound cool? ...Yeah, actually, that tracks...
+
+### Interesting Things: Cats and Dogs
+
+Mondstadt once had a debate between "cat people" and "dog people." You'd think the Knight of Boreas should probably lean towards dogs, right? But truth be told, I've kinda got a soft spot for cats too, you know? Puppies are real cute with their energy and all, but a nice, quiet cat also makes a great companion, too. Ah... If I had the chance to adopt... Yeah, I'd have to take 'em all!
+
+### About Venti
+
+Barbatos? He may seem carefree and easy-breezy at first glance, but when things get serious, so does he. And I've gotta give him credit, the man's got taste when it comes to drinking — truly a god worthy of Mondstadt! ...Hmm? Sounds like I'm talking about myself...? Hahahaha, you flatter me! I'm nothing next to the Anemo Archon himself!
+
+### About Razor
+
+Back when I first met Razor, he was only a few inches taller than the wolf pups of Wolvendom. Heh, he could barely lift a greatsword! But even then, teaching him how to use it was easier than learning how to talk with him. Must've taken me at least half a year to get the hang of it. All these years later, and he's made so many friends of his own... How time flies.
+
+### About Rosaria
+
+Uh... I'll keep my lips sealed where she's concerned. Don't wanna get scolded for being a blabbermouth. There's ice in that glare of hers... If there's anything you wanna know, you're better off asking her yourself. I think that by now... she should be ready to talk about the past with you.
+
+### About Diluc
+
+So, he still won't return to the Knights? Haha, fair enough — the wind in Mondstadt has always been free to come and go as it pleases. He has the freedom to not come back, and by the same token, I have the freedom to keep pestering him to rejoin. Still, I probably shouldn't push my luck... If I nag him too much, he could put me on Dawn Winery's blacklist. Now that would be a real crisis!
+
+### About Kaeya
+
+I know how much Master Crepus meant to Kaeya. That tragic incident was no less devastating for him than for his adoptive brother. But even after enduring such injustice and fraternal strife... he still chose to remain with the Knights. Ended up playing a key role in exposing Eroch's corruption, too. Since he chose to trust us, I also choose to trust him, no matter what lies in his past.
+
+### About Jean
+
+Y'know, I've always felt that Jean's got the talent and temperament to be a way better Grand Master than I am. But no matter how hard I try to convince her, she always insists that she's not qualified enough. Heh, her and me both! I was pretty young myself when I took up the mantle. Honorary Knight, if you get the chance, could you try talking her round... Hmm? You think I'm trying to dump all my work onto Jean? Absolutely not, perish the thought, I would never! Really! ...Swear on a glass of wine? Uh, there's no need for that, is there...?
+
+### About Noelle
+
+Even I was surprised by her innate strength. I heard she's learning the sword from Jean now. After she's mastered both single- and two-handed sword styles, I wonder if she might be able to inherit my... Huh? She chucked her sword straight up into the ceiling last time? Alright then... Guess we need to schedule a few more training sessions for her.
+
+### About Lohen
+
+Feels like every other day that that rascal's causing some kind of ruckus... I used to think he was like a younger me — eager to fight strong foes and win glory... Turns out, he's just into the fighting part, couldn't care less about the glory. *sigh* Well, at least when he's fighting the enemy, it keeps him busy. Otherwise, he'll be digging traps to ambush me out of boredom.
+
+### About Mika
+
+When you're lost in life, you need a mentor to guide you, and when you're lost on a march, you need a map. By that logic, you could say Mika's my mentor, haha! ...I tried telling that joke to Mika, but uh, he went pale as a sheet... Honestly, he should have more confidence in himself. After all, not everyone could be a knight!
+
+### About Eula
+
+I'd been planning to send someone to Dornman Port to receive the troops, but Eula told me she had already arranged it. I reviewed the schedule, and everything was handled perfectly. I hadn't expected her to be so thorough, and this time she never mentioned vengeance even once. Haha, nothing makes me happier than seeing our knights grow.
+
+### About Amber
+
+She's a ball of energy, isn't she? As our Outrider and Gliding Champion, she's usually active around the outskirts of Mondstadt, helping those in need. She's the first Knight of Favonius most visitors will meet, meaning she's practically the public face of the organization. Hmm? She was the first Knight you met, too? Haha, that's our Amber!
+
+### About Albedo
+
+When Albedo first arrived in Mondstadt, he struck me as one of those model kids that all parents wish their own children were more like. So modest, so well-mannered... But to put it another way, he seemed quite reserved and cautious. I was hoping he'd learn to loosen up a bit. After all, how can you call yourself the City of Freedom if people aren't comfortable just being themselves? Well, I may have gotten more than I bargained for, 'cause these days he'll even rib me about my painting skills! Hahahaha!
+
+### About Durin
+
+I'm not gonna lie, when I first got reports about Durin's resurgence, my heart skipped a beat. I was about to send a crack team back home to defend Mondstadt... Thankfully, the new Durin is nothing like the old Durin, and what was once one of the greatest threats to Mondstadt is now one of our most reliable allies... Fate sure is an unpredictable force, huh? You never know which way the wind will blow next.
+
+### About Klee
+
+Our Spark Knight is getting better and better at escaping the solitary confinement room, isn't she? Seems like she's been taking my "teachings" to heart. Maybe I could even learn a thing or two from her... Uh, I mean, uhh... Y'know, forget I said that! I was talking about, uh... painting techniques, yeah. *sigh* You're not gonna tell Jean or Albedo about this, are you? Um... Oh, please don't tell Alice, either. Thanks.
+
+### About Alice
+
+Of all the titles Alice holds, the one I envy most is "Adventurer of Many Worlds." I traveled plenty in my youth, but when I hear her describe the things she's seen, most of it is beyond my ability to even imagine. I wonder if I'll get a chance to broaden my horizons after I step down as Grand Master... Though it's an open question if I'll still have the energy for it by then, haha!
+
+### About Nicole
+
+There's a lot of things I'd like to learn from Nicole. With her incredible sense of direction, I'd never have to worry about getting lost on an expedition. And that telepathic communication ability would be really handy for sending covert messages across the battlefield... What's that? Waste of an angel's powers? Hey, they're very practical applications!
+
+### About Barbeloth
+
+I once glimpsed a reflection of the future in Barbeloth's Scryglass. She said it was a vision that fate itself was trying to show me... But did fate also foresee that I would try to change it? And did it predict the way things would finally turn out?
+Hmph... My answer is that there's no need to dwell on it. Overthinking things will only slow my sword. Whatever fate shows me, I'll still do whatever I believe is right.
+
+### About Aino
+
+When I first met Aino, I was worried about her. Didn't seem right for such a young child to grow up on her own in Nod-Krai... Only later did I realize I had it all wrong. She's not alone, and she definitely doesn't need anyone to worry about her. Every child finds their own way to grow up, and worrying about them because of our preconceived ideas won't do them any good.
+
+### About Ineffa
+
+When I asked her to deliver that letter to you, I had no idea about everything she'd been through. A soul born in captivity, who ultimately surmounted her curse and secured her freedom... I'm telling you, when her story reaches Mondstadt, it'll go down as one of the great epics! Whether it's Lady Vennessa or the Flower-Feather Clan, people are always inspired by tales of breaking free of your shackles in pursuit of freedom.
+
+### About Flins
+
+People often confuse chivalry with the aristocratic code. Now, given how the aristocracy of Old Mondstadt conducted themselves, there was a time when I wouldn't have let ideas like that slide... But if all aristocrats were like Flins? Haha, I'd be happy to share a drink with them any day of the week!
+
+### About Nefer
+
+The Northern Intelligence Network was a great help to our expeditionary force when we arrived in Nod-Krai. I intend to maintain our fruitful collaboration going forward — even thought of a codename for myself: "Lupus Majoris"! Huh? Pretty cool, right?
+
+### About Jahoda
+
+She may gripe a lot, but once she gets to work, she's ruthlessly efficient. You know someone's got true grit when they can make a name for themselves as treasure hunter in a rough-and-tumble place like Nod-Krai! I've half a mind to recruit her to the Knights, but that would mean poaching her from her current boss, and... she probably wouldn't want to switch jobs anyway. Haha, I was even thinking of offering to double her pay, but it's probably better not to ask.
+
+### About Mavuika
+
+Whether as a human or as a god, the Pyro Archon is a formidable warrior worthy of respect. If I'd been born in Natlan, I wonder if I'd have had the chance to cross blades with her while she was still human... Hmm, but then I wouldn't be able to protect Mondstadt, would I? No, that wouldn't do... *sigh* I suppose it's just as well.
+
+### About The Captain
+
+I only met him once, but... Really? A knight of Khaenri'ah... "Sentinel Knight" Thrain, huh... Sounds like he took his destiny into his own hands.
+
+### More About Varka: I
+
+Huh? Me? ...What do you mean, what're you curious about? ...Hold on, there's a book in the library called "100 Things You Never Knew About Varka"? Okay, now I'm curious too. I didn't even know that was a thing. Right, let's fact-check it.
+
+### More About Varka: II
+
+"No Knight of Boreas has ever claimed to be the mightiest of all time, for both humility and honesty are knightly virtues — until Varka. Because when he claims this, he is being both humble and truthful." I uh... I don't know...
+
+### More About Varka: III
+
+"The Four Winds of Mondstadt once referred to Varka's main sword, off-hand sword, left flying kick, and right fist. But nobody witnessed the full set and lived to tell the tale, so only the current version of the phrase remains." ...Well, that's going a bit far. No way could I handle all the work of The Four Winds alone.
+
+### More About Varka: IV
+
+Maybe put that book away, it's a little ridiculous... Probably written by some drunk fool. As you can see, the real-life Varka is just a regular human like everyone else. I feel pain, I bleed, I age... So, just like any other friend, you'll learn more about me through a catch-up at the tavern than you will by listening to tall tales and rumors. What do you say, shall we grab a drink?
+
+### More About Varka: V
+
+Drink up! Another round! Hahaha... Oh, where was I? Oh, yeah — this scar here is from scrapping with Boreas. That old wolf clawed me good! I almost howled louder than him... And this one's from when I solo'd the Hexenzirkel trials... If a mortal wants to protect everything, they have to be prepared to sacrifice everything. That's how I became the "Mightiest Knight of Boreas"... Yeah... That's how it happened...
+
+### Varka's Hobbies
+
+I guess I used to be something of an adventurer myself. Heading for new horizons, facing new foes... it always gets you fired up, doesn't it? But nowadays... Well, there are more important things in life. Things that I need to protect.
+
+### Varka's Troubles
+
+Let's see... Building our stronghold in Nod-Krai, allocating defense personnel for Dornman Port, organizing the return of the expeditionary forces, drawing up an itemized budget breakdown for the Knights of Favonius's expenses... Uggghhhhhhh... Why does it feel like the real torture begins after the expedition ends?
+
+### Favorite Food
+
+Of course it's— Huh? You mean, other than alcohol... Wait, do wine-fermented sweet rice balls and chocolate liqueurs count? No? Uh... well... Hmm. I guess it'd have to be big slabs of meat seared over a high flame, some nice appetizers, cheese and nuts... hahaha...
+
+### Least Favorite Food
+
+There are some drinks out there that look alcoholic, smell alcoholic, but then you drink 'em... and there's not a drop of alcohol in there at all! That's gotta count as fraud, surely!?
+
+### Receiving a Gift: I
+
+Wow... What a masterpiece! This is the kind of food worth pairing with a bottle of the finest Dandelion Wine.
+
+### Receiving a Gift: II
+
+Now these are some good rations. The logistics team could stand to learn a thing or two from you.
+
+### Receiving a Gift: III
+
+Is this, uh... the kind of stuff you usually eat? Man. You adventurers have it just as rough as we do on our expeditions... Let's go get you some real food.
+
+### Birthday
+
+Happy Birthday! Don't go anywhere, the Knights of Favonius are getting ready to give you a birthday chorus. To be clear, this isn't an abuse of authority. They're the ones who suggested it! I just helped organize things and set up the venue. You do know how much we all adore our Honorary Knight, don't you? Now come on, everyone's waiting for the birthday star and lead singer!
+
+### Feelings About Ascension: Intro
+
+The first knightly virtue is "humility." Only by letting go of your ego and being willing to learn can you grow day by day.
+
+### Feelings About Ascension: Building Up
+
+The second knightly virtue is "honesty." Deceitful and cunning words might win you the upper hand in the moment, but a victory won by the blade never lies.
+
+### Feelings About Ascension: Climax
+
+The third knightly virtue is "integrity." Every knight must live by their own conscience and walk their own path. Walk yours with steely resolve, and never waver.
+
+### Feelings About Ascension: Conclusion
+
+Remember the three knightly virtues? Good — now forget 'em all. Whatever kind of knight we wanna be, whatever path we choose to take, it's up to us!
+
+### Charged Attack: I
+
+Shred 'em!
+
+### Charged Attack: II
+
+Slash!
+
+### Elemental Skill: I
+
+Surge!
+
+### Elemental Skill: II
+
+Burn!
+
+### Elemental Skill: III
+
+Freeze!
+
+### Elemental Skill: IV
+
+Fry!
+
+### Elemental Skill: V
+
+Storm wind!
+
+### Elemental Skill: VI
+
+Sunder!
+
+### Elemental Skill: VII
+
+Up the ante!
+
+### Elemental Skill: VIII
+
+Hah!
+
+### Elemental Skill: IX
+
+Try to keep up!
+
+### Elemental Burst: I
+
+HRAAAAH!
+
+### Elemental Burst: II
+
+Boreas, sweeping in!
+
+### Elemental Burst: III
+
+Chaaarge!
+
+### Opening Treasure Chest: I
+
+Any booze in there? Pour me a cup.
+
+### Opening Treasure Chest: II
+
+If you want it, it's yours.
+
+### Opening Treasure Chest: III
+
+To the adventurer go the spoils. This loot's all yours.
+
+### Low HP: I
+
+Hah... Time to get serious!
+
+### Low HP: II
+
+A worthy adversary!
+
+### Low HP: III
+
+Got a bit too cocky...
+
+### Ally at Low HP: I
+
+It's a knight's duty to defend his allies!
+
+### Ally at Low HP: II
+
+Fall back, I'll take it from here.
+
+### Fallen: I
+
+Boreas... can't end here...
+
+### Fallen: II
+
+Huh... Turns out I can die...
+
+### Fallen: III
+
+Look after... Mondstadt for me...
+
+### Light Hit Taken: I
+
+Just a flesh wound!
+
+### Light Hit Taken: II
+
+It's nothing!
+
+### Heavy Hit Taken: I
+
+That's gonna leave a scar.
+
+### Joining Party: I
+
+Alright, let's move out!
+
+### Joining Party: II
+
+Which way will Boreas blow today?
+
+### Joining Party: III
+
+Knight of Boreas, falling in.
+
+### Sprint Start: I
+
+On me!
+
+## REPLICAS_ZH
+
+### 闲聊·饮酒
+
+人逢喜事千杯少，没喜事也少不了…哈哈…
+
+### 闲聊·武器
+
+武器要时常养护。平时多照顾它们，关键的时候才能指望它们照顾我们。
+
+### 闲聊·休憩
+
+呼——离开办公桌的感觉真好，找个地方多睡一会儿吧？
+
+### 初次见面…
+
+再自我介绍一次——虽然你可能都已经听厌了。我是法尔伽，西风骑士团的「大团长」，蒙德的「北风骑士」，前来履行骑士之间的盟约——以我的剑起誓，我绝不会让你先于我倒下。
+
+### 雨过天晴…
+
+雨停了，继续行军吧。
+
+### 下雪的时候…
+
+下雪的时候，总会想起远征途经过的地方。
+
+### 刮大风了…
+
+哎哟，这么大的风，是要和我对着干喽？
+
+### 早上好…
+
+早上好！怎么这么没精神，要来一杯提提神吗？
+
+### 中午好…
+
+中午好！午休的时间到了，该歇就歇吧。中午不睡，下午更累！
+
+### 晚上好…
+
+晚上好！今天费了不少力气吧，要来一杯助眠吗？
+
+### 晚安…
+
+晚安吧，就连风也要歇息。我会守在帐外的。不需要人守夜？噢…对，现在已经不是露宿野外了，看把我习惯的…
+
+### 关于自己·北风骑士
+
+「北风骑士」是人类与北风王狼之间的桥梁。但在这一千年里真正能被王狼认可的骑士并不多见。至于我嘛…哈哈，那当然得算一个，真得不能再真了。
+
+### 关于自己·远征
+
+为了守护蒙德城周边的安定，我曾经发动过不少次「远征」，但比起这一次，都算不上什么…比如清剿达达乌帕谷、联合千岩军扫荡石门、从鹰翔海滩出发迎击外海魔物…嗯？你说难怪在这些地方都遇不到什么强敌…我应该还是留了些下来给人练手的吧？
+
+### 关于我们·异乡人
+
+蒙德是自由的城邦，无论是罪人的子嗣、漂泊的魔神，还是异乡的旅人，都能在这里找到自己的安居之地。所以，不用跟我客气，你可是我们的荣誉骑士呀！
+
+### 关于我们·捕风
+
+「从千风之中锚定独一的思念，捕捉出无二的那一缕…」
+这是巴巴托斯当初对于如何逆转同化的说明，如果不能将自我与王狼分离，就无法避免汇入地脉的命运…当时我没太听懂，实际体验过一遍之后…还是没太搞懂！不过还好，不用再经历下一次了。
+仔细一想，从地脉归来之后，还没正式向你道谢呢。那不如就趁现在吧？咳咳…
+——你抓住我了啊，「捕风的异乡人」。
+
+### 关于「神之眼」…
+
+记得刚拿到神之眼的时候，我还是个莽打莽撞的愣头青，为自己能得到风神的注视而兴奋了好半天。但后来真的认识了巴巴托斯，才知道不是这么一回事…少年的幻想又破灭了一个啊——但好在它带来的力量，和带来它的愿望，永远不会改变。
+
+### 有什么想要分享·四风守护
+
+其实我一直没搞清楚「四风守护」这名号是怎么来的。你看，东风之龙、西风之鹰，还有南风之狮，都有明确的指向吧？但「北风之狼」既可以指玻瑞亚斯，又可以指我。而且「西风骑士团」成员还包括了「狮牙骑士」跟「北风骑士」，也就是说「西风」里其实包括了「南风」跟「北风」？这说得过去吗？
+嗯？你说没准只是哪个吟游诗人，想要凑一个听起来很厉害的数字？好吧，那倒是不难理解了…
+
+### 感兴趣的见闻·猫与狗
+
+蒙德城里曾有过「猫派」和「狗派」的争论。虽然「北风骑士」听上去很像是会推崇狗的那一派…但我其实也很喜欢猫来着？有活力的小狗确实很可爱，可是安静的小猫有些时候也很善解人意吧？要是有机会收养的话…嗯，果然还是得全养了！
+
+### 关于温迪…
+
+巴巴托斯啊，虽然平时看起来自由又随性，但做起正事来可比谁都正经。还有他对酒的品味我也很赞同，不愧是我们蒙德的神明！…嗯？你说这些评价听起来像在说我自己？哈哈，不敢当不敢当，我怎么可能跟风神大人相提并论呢！
+
+### 关于雷泽…
+
+以前刚见到雷泽的时候，他大概只比奔狼领的幼狼高出半个头，光是举起大剑就费劲。不过比练剑更费劲的，还是怎么陪他说话，我大概花了半年时间才掌握跟他沟通的技巧。他现在都已经交上那么多朋友了…时间过得真快呀。
+
+### 关于罗莎莉亚…
+
+嗯…为了避免事后被她嫌多嘴，我还是保持沉默吧。她的那种眼神还是挺有寒意的。有什么想了解的，可以直接去问她。我想她现在…应该已经愿意跟你们谈及往事了。
+
+### 关于迪卢克…
+
+所以，他还是不愿意回骑士团吗？哈哈，那就随他去吧，蒙德的风一直是来去自由的。他有不回来的自由，我也有接着劝的自由。不过嘛，也得控制下程度，要是啰嗦过了头，他不让晨曦酒庄卖酒给我了怎么办？那可是天大的危机啊！
+
+### 关于凯亚…
+
+我很清楚克利普斯先生在凯亚心里的分量，他在那场变故中遭受的打击绝不亚于他的义兄。但即使遭逢不公，兄弟阋墙…他依旧决定留在骑士团内。后来揪出伊洛克的时候，他也出了很大的力。既然他选择信任我们，那我也会选择信任他——无论他身负着怎样的过去。
+
+### 关于琴…
+
+我其实一直觉得琴在才干和心性上都比我更能胜任「大团长」这个职位，可惜我再怎么费尽口舌，她都自谦资历尚浅——明明我当初上任的时候也没多大啊！荣誉骑士，你要是有机会，能不能也帮我多劝劝她…嗯？想彻底把工作都推给琴？我绝对没有这么想过哦！真的没有！对着酒发誓？呃，这是否有些太严格了…
+
+### 关于诺艾尔…
+
+那孩子在力量上的天赋连我都很惊讶，听说她现在也在向琴学习单手剑的技巧，不知道等她把双手剑跟单手剑都融会贯通之后，有没有机会继承我的…嗯？你说她上次把单手剑丢上了天花板？好吧…看来还得再给她安排些训练。
+
+### 关于洛恩…
+
+这小子三天两头出去闹事，我曾经以为他跟从前的我一样，是热衷于挑战强者、赢取荣耀…哪知道他只是喜欢「挑战」，对「荣耀」没有半分兴趣…嗨，起码在外头干架，比没事就挖陷阱偷袭我要好点。
+
+### 关于米卡…
+
+人生迷茫的时候得靠导师引路，行军迷茫的时候要靠地图引路——照这个说法，说他是我的导师也不为过吧，哈哈哈！——可惜我上次跟米卡开这玩笑的时候，他的脸刷一下就白了…其实他完全可以再自信一些吧？可不是谁都能成为骑士的啊！
+
+### 关于优菈…
+
+本来我还在计划，派人去荆夫港接应部队的事，优菈告诉我她已经安排好了。我看了调度，十分得当。没想到她心思那么缜密，而且这回连嘴上的别扭都没闹。哈哈，没什么比看到骑士们的成长更让人高兴的了。
+
+### 关于安柏…
+
+那孩子很热情吧？作为侦察骑士兼飞行冠军，她经常活跃在蒙德郊野，帮助有需要的人。很多来蒙德的客人头一个遇到的西风骑士就是她，都快成为我们的门面了。嗯？你说她也是你在蒙德遇见的第一位骑士？哈哈，不愧是她！
+
+### 关于阿贝多…
+
+阿贝多刚来蒙德的时候，我就觉得这孩子哪里都好，完美得就像「别人家的孩子」，又谦逊又得体…不过换个词就是又拘束又谨慎。我倒是希望他能更自由自在一点？毕竟这儿也不是什么「别人家」嘛。还好，现在他都会揶揄我的画技了，哈哈！
+
+### 关于杜林…
+
+说句实话，当初从报告里听说「杜林」要出世的时候，我的心脏都漏跳了半拍，当时就想调兵回守蒙德…好在此「杜林」非彼「杜林」，蒙德昔日最大的隐患之一，如今却成了我们最值得信赖的助力…命运还真是反复无常啊。
+
+### 关于可莉…
+
+「火花骑士」逃出禁闭室的功夫是不是越来越熟练了？看来她有在好好研习我留下的经验教训…该反过来向她学习了吗…啊，不，没什么，我说的是画画技巧。另外，你不会告诉琴跟阿贝多的吧？嗯…艾莉丝女士也不要，谢谢。
+
+### 关于艾莉丝…
+
+在艾莉丝女士的诸多名号里，我最羡慕的还得是「诸世界的大冒险家」。我年轻的时候也走过不少地方，但每次听艾莉丝女士讲述她见过的风景，都得挠破头皮才能想象出那些奇景的十之一二。不知道等我将来卸任了「大团长」，有没有机会再开开眼界…不过到时候我还有没有力气走动，又是另一码事了，哈哈。
+
+### 关于尼可…
+
+尼可女士身上有许多值得我学习的地方，比如说方向感奇佳，永远不用担心行军时迷失方向；再比如能用心声说话，可以横跨战区隐秘通讯…什么？你说拿天使的能力干这些事都太大材小用了？明明都很实用吧！
+
+### 关于芭比洛斯…
+
+我曾从芭比洛斯女士的水占盘里窥见未来的倒影，她说那是命运本身试图向我展示的景象…那「命运」是否也预见了我会去改变它？又能否预见如今的结果？
+哼…我的答案是，没必要考虑那么多。烦恼这些只会让我的剑变慢。无论命运让我看见了什么，我都只会去做自己认为正确的事。
+
+### 关于爱诺…
+
+刚遇到爱诺的时候我一度很担心，这么小的孩子要怎么一个人在挪德卡莱长大…后来我才意识到自己错了，她并非独自一人，也无需任何人的担心。每个孩子都会以自己的方式成长，强行套用自己的观念去担心他们，反而不是什么好事吧。
+
+### 关于伊涅芙…
+
+当初请她去给你们送信的时候，我还真没想到她的来路有这么多曲折。生于囹圄之中的灵魂，最终超越诅咒拥抱「自由」…这事如果传到蒙德，绝对能编成一首壮丽的史诗！「温妮莎」也好，「花羽会」也好…打碎锁链追求「自由」的故事，总能让人热血沸腾啊。
+
+### 关于菲林斯…
+
+经常有人把「骑士精神」跟「贵族精神」混同，要是放在以前，凭旧蒙德那帮家伙的作风，我怎么都得反驳几句…不过要是「贵族」们都能像菲林斯先生一样，哈哈，那我们还是能坐在同一张长桌旁开怀畅饮的。
+
+### 关于奈芙尔…
+
+在远征军抵达挪德卡莱之后，「北大陆情报网」帮了我们许多，未来我也打算继续维持这良好的合作关系…我都为自己想好代号了，就叫「天狼」，怎么样？很帅吧？
+
+### 关于雅珂达…
+
+虽然嘴上总在抱怨，但她干起活来真不是一般的麻利，不愧是从鱼龙混杂的挪德卡莱脱颖而出的宝藏猎人，我都想招她进骑士团了！可惜，那就得从她老板手里挖人了，而且…恐怕她自己也不会想要跳槽吧，哈哈，原来还想给她开两倍薪资呢，还是别问了吧。
+
+### 关于玛薇卡…
+
+无论是作为人，还是作为神，那位火神都是一位令人敬佩的战士。要是能生在纳塔，不知道有没有机会跟还是人类时的她过上两手…不过生在纳塔不就守护不了蒙德了吗？不行不行…唉，果然还是算了。
+
+### 关于「队长」…
+
+我与他仅有一面之缘，但…是吗，坎瑞亚的骑士…「天柱骑士」瑟雷恩…原来他也走向了自己的征途。
+
+### 想要了解法尔伽·其一
+
+哦？我有什么值得你好奇的吗？…在图书馆里有本《关于法尔伽的一百个事实》？有点意思，我都不知道还有这么一本书，那就来对对账吧。
+
+### 想要了解法尔伽·其二
+
+「从没有北风骑士声明过自己是历代最强，因为骑士的美德里既有谦虚，又有诚信，直到出现了法尔伽——因为法尔伽这么声明的时候，既是在表达谦逊，也是在宣告事实。」…噗。
+
+### 想要了解法尔伽·其三
+
+「蒙德的四风守护也曾指法尔伽的主手剑、副手剑、左飞踢和右拳击。但完整见识过的人都不在了，所以只留下了现版本的四风守护。」…咳，这不至于。光凭我一个可干不完四风守护的活。
+
+### 想要了解法尔伽·其四
+
+还是收起那本书吧，太夸张了，不知道是哪个喝醉酒的家伙写的。正如你所见，我只是一个凡人，活生生的凡人。会受伤，会流血，会老去。所以也跟正常朋友交往一样，比起逸闻跟传言，还是坐在一起喝杯酒，能彼此了解得更快——不如现在就去整一杯？
+
+### 想要了解法尔伽·其五
+
+——喝！接着喝！哈哈…我继续跟你讲啊…这道伤口是跟玻瑞亚斯打的时候，那老狼刮得可疼了，它嗷嗷叫唤，我也被打得嗷嗷叫唤…这道是单挑魔女会试炼的时候…凡人要想守住一切…要有觉悟付出一切…「最强的北风骑士」啊…就是这么来的…
+
+### 法尔伽的爱好…
+
+我从前勉强也能算是个冒险家，前往新的区域、挑战新的强敌，总是令人激动，不是吗？至于现在嘛…还有更重要的东西需要我来守护啊。
+
+### 法尔伽的烦恼…
+
+挪德卡莱的据点建设、荆夫港的防务调动、远征军的返岗安排、骑士团上下的开支明细…呃啊啊啊…为什么远征结束才是折磨的开始啊？
+
+### 喜欢的食物…
+
+那当然是——嗯？你问酒以外的…酒酿圆子跟酒心巧克力也不能算？呃…嗯…唔…那就…快火炙烤的大块肉类、方便开胃的凉拌小菜…奶酪和坚果…哈哈哈…
+
+### 讨厌的食物…
+
+有些饮料啊，明明看着是酒，闻起来也是酒，偏偏喝上去不是酒！这已经算是欺诈了吧！
+
+### 收到赠礼·其一
+
+这道菜…嗯，值得开一支顶级的蒲公英酒来配餐！
+
+### 收到赠礼·其二
+
+不错的口粮，得让后勤小队多跟你学一点。
+
+### 收到赠礼·其三
+
+你们…平时吃的都是这些？冒险生涯也不比远征军旅容易呀…回头一起去吃点好的吧。
+
+### 生日…
+
+生日快乐！你等着噢，西风骑士团正在为你准备生日歌大合唱。别误会，这可不算职权滥用，是他们自发提出的，我不过是代为组织了一下而已，顺便布置了场地。身为我们的荣誉骑士，你也该意识到自己有多受爱戴了吧？走吧，大家还等着寿星和领唱呢！
+
+### 突破的感受·起
+
+骑士的美德之一是「谦虚」，虚心受教，才能日益精进。
+
+### 突破的感受·承
+
+骑士的美德之二是「诚信」，巧言与诡计只能骗过一时，剑锋上的胜利却从不说谎。
+
+### 突破的感受·转
+
+骑士的美德之三是「自律」，骑士之道各有其理，笃定于自己的道路，矢志不渝地践行吧。
+
+### 突破的感受·合
+
+骑士的三重美德都记住了吗？好，现在把它们全忘了吧——想成为什么样的骑士，踏上什么样的征途，都由我们自己说了算！
+
+### 重攻击·其一
+
+——破！
+
+### 重攻击·其二
+
+——斩！
+
+### 元素战技·其一
+
+激流！
+
+### 元素战技·其二
+
+烈火！
+
+### 元素战技·其三
+
+冰霜！
+
+### 元素战技·其四
+
+轰雷！
+
+### 元素战技·其五
+
+疾风！
+
+### 元素战技·其六
+
+迸裂吧！
+
+### 元素战技·其七
+
+再猛烈些！
+
+### 元素战技·其八
+
+哈——
+
+### 元素战技·其九
+
+跟得上吗？
+
+### 元素爆发·其一
+
+喝啊啊啊啊！
+
+### 元素爆发·其二
+
+北风，席卷！
+
+### 元素爆发·其三
+
+随我冲锋！
+
+### 打开宝箱·其一
+
+有酒没？分我一杯。
+
+### 打开宝箱·其二
+
+喜欢什么就拿吧。
+
+### 打开宝箱·其三
+
+战利品是对冒险的褒奖，收下吧。
+
+### 生命值低·其一
+
+哈…该认真点了！
+
+### 生命值低·其二
+
+不错的对手！
+
+### 生命值低·其三
+
+有点大意了啊…
+
+### 同伴生命值低·其一
+
+守护盟友是骑士的职责！
+
+### 同伴生命值低·其二
+
+暂且撤退，由我接手。
+
+### 倒下·其一
+
+北风…不该断绝于此…
+
+### 倒下·其二
+
+哈…我也有这一天啊…
+
+### 倒下·其三
+
+蒙德就…交给你们了…
+
+### 普通受击·其一
+
+一点小伤！
+
+### 普通受击·其二
+
+不碍事！
+
+### 重受击·其一
+
+又一道疤？
+
+### 加入队伍·其一
+
+很好，准备出征！
+
+### 加入队伍·其二
+
+今天的「北风」，要吹向哪里？
+
+### 加入队伍·其三
+
+「北风骑士」——入列。
+
+### 冲刺开始·其一
+
+跟上我！

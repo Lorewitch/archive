@@ -13,12 +13,14 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 76141
-# previous_quests: quest_wq_10242
+# previous_quests: 
 # next_quests: 
-# related_quests:
+# related_quests: 
 # quest_chain: quest_wq_76141
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 76141
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -37,6 +39,8 @@
 **Николь:** Я не говорила, что здесь нет потайных комнат. Ведьмы любят такие маленькие хитрости, вам пора бы уже к этому привыкнуть.
 
 **Николь:** Прошу сюда.
+
+#### Осмотрите комнату
 
 #### Следуйте за Николь
 
@@ -64,13 +68,15 @@
 
 **Паймон:** Николь, ты потрясающая! Ты не часто вмешиваешься, но когда это происходит, мы все знаем, что мы в надёжных руках.
 
-Гордиться этим вполне уместно.
+- **Путешественник:** Гордиться этим вполне уместно.
 
 **Николь:** Вы так думаете? Хе-хе, раз вы считаете, что на меня можно положиться, значит, я прекрасно справляюсь со своей работой!
 
 **Николь:** Уже поздно. Ступайте, с моим благословением продолжайте своё путешествие.
 
 **Николь:** Не бойтесь заблудиться и никогда не забывайте, что за вами присматривает ангел.
+
+**Николь:** Можете остаться здесь подольше. Эти пейзажи существуют только в моих воспоминаниях, больше нигде их не найдёшь.
 
 ## EN
 
@@ -89,6 +95,8 @@ A new room... has opened?
 **Nicole:** Well, I never actually said there were no secret hidden rooms, did I? Us mages like our little fancies, you know — you should be used to this by now!
 
 **Nicole:** This way, if you please.
+
+#### Explore the room
 
 #### Follow Nicole
 
@@ -116,13 +124,15 @@ A new room... has opened?
 
 **Paimon:** So you should be! You don't get involved much, but when you do, we all know we're in safe hands.
 
-You deserve to be proud.
+- **Traveler:** You deserve to be proud.
 
 **Nicole:** You really feel that way? Hehe, as long as you see me as someone to rely on, then I know I'm doing a fantastic job!
 
 **Nicole:** It's getting late. Here, take my blessings and continue on your adventure.
 
 **Nicole:** Never be afraid of losing your way, and never forget you have an angel watching over you.
+
+**Nicole:** I understand if you want to stay a while. After all, the scenery here exists only in my memories — you won't find it anywhere else.
 
 ## ZH
 
@@ -141,6 +151,8 @@ You deserve to be proud.
 **尼可:** 我可没说过没有秘密隐藏房间。魔女嘛，都是有点小心思的，你们要早点开始习惯哦。
 
 **尼可:** 这边请。
+
+#### 探索房间内部
 
 #### 跟随尼可
 
@@ -168,10 +180,12 @@ You deserve to be proud.
 
 **派蒙:** 对的对的，尼可很厉害呢！不太出手，但偶尔出手的每一次都给人很大的安心感。
 
-自豪是应该的。
+- **旅行者:** 自豪是应该的。
 
 **尼可:** 是吗？呵呵，你们记下的是我可靠的样子，那我就放心了。
 
 **尼可:** 时间不早了。去吧，带着我的祝福，继续你们的冒险。
 
 **尼可:** 别害怕迷路，别忘了有一名天使会在这里悄悄守望你们的旅途。
+
+**尼可:** 想多逗留一会儿也没问题，毕竟呈现在这里的是我记忆中的风景，别处可看不到。

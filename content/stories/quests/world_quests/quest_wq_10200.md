@@ -21,6 +21,9 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: Опрос мелюзины и ответ машины
+# game_source_ids: 74113
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 10
 
 ## RU
 
@@ -28,16 +31,7 @@
 
 Похоже, в «Паровой птице» произошло преступление...
 
-
-**Паймон:** (Множество следов разной глубины и рисунка перекрывают друг друга.)
-
-**Паймон:** Ох! Как много следов. Похоже, здесь побывало немало людей...
-
-**«Дуга»:** Если приглядеться, то здесь следы четырёх человек.
-
-**«Дуга»:** Утром редакция газеты позаботилась о том, чтобы новости не просочились наружу. Можно смело предположить, что все следы здесь остались с момента совершения преступления.
-
-**Талокард:** Нужно записать это в заметки детектива!
+#### Отправляйтесь в редакцию «Паровой птицы»
 
 #### Расспросите о случившемся
 
@@ -49,7 +43,7 @@
 
 **Йенк:** Но я не просил тебя мне помогать!
 
-О чём вы спорите?
+- **Путешественник:** О чём вы спорите?
 
 **Талокард:** Вы как раз вовремя, поможете нас рассудить! Я Талокард, агент Сумеречного двора. Расследую дело «Паровой птицы».
 
@@ -83,9 +77,15 @@
 
 **Талокард:** Что? Фантастических рассказов? Ты что, считаешь мои заключения недостаточно реалистичными?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Звучит вполне реалистично...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Звучит довольно фантастично...
+
+##### Общее продолжение
 
 **Йенк:** Агент Талокард, давай всё проясним. Пропавший сотрудник - это Месье Артур. Это тебе о чём-то говорит?
 
@@ -121,7 +121,7 @@
 
 **Талокард:** Д-да! Всё верно...
 
-Технологии Фонтейна уже и до такого дошли?
+- **Путешественник:** Технологии Фонтейна уже и до такого дошли?
 
 **Евфрасия:** Ха-ха, если бы у нас было время, я бы с удовольствием поделилась с вами последними новостями о передовых технологиях. Однако сейчас я хотела бы поручить вам двоим помочь нашей редакции отыскать Месье Артура.
 
@@ -155,13 +155,13 @@
 
 **Евфрасия:** Именно так. Что касается оплаты, то «Паровая птица» её вам гарантирует. Вы согласны?
 
-Конечно.
+- **Путешественник:** Конечно.
 
 **Евфрасия:** Превосходно. Надеюсь на вашу помощь. Наша редакция будет глубоко вам за это признательна.
 
 **Талокард:** Отлично. Пока двор не узнает, что мы ускользнули, нам всё можно...
 
-Вы что, прогульщики?
+- **Путешественник:** Вы что, прогульщики?
 
 **Талокард:** Нельзя же вот так с ходу спрашивать девушку о её личных делах! Для начала нам нужно узнать друг друга получше...
 
@@ -175,17 +175,9 @@
 
 **Талокард:** Ладно, давайте ещё раз осмотрим место преступления. Месье Артур исчез прошлой ночью, здесь наверняка остались какие-то улики!
 
+#### Поищите подсказки на месте происшествия
 
-**Рошер:** Без железных доказательств это просто оскорбление моей чести и достоинства.
-
-
-**Кевин:** Мама, это правда? Папа... И ты...
-
-**Мадлен:** Тсс, Кевин, не надо говорить об этом на улице... В любом случае хорошо, что ты всё понял.
-
-**Кевин:** Да... Я буду хорошо себя вести...
-
-**Паймон:** (Если присмотреться, то на подставке осталась царапина от чего-то острого.)
+**Царапина на подставке:** (Если присмотреться, то на подставке осталась царапина от чего-то острого.)
 
 **Паймон:** Что это?
 
@@ -195,16 +187,15 @@
 
 **Талокард:** Нужно записать это в заметки детектива!
 
+**Беспорядочные следы:** (Множество следов разной глубины и рисунка перекрывают друг друга.)
 
-**Рошер:** Клянусь, на этот раз я не обманываю! Пусть железяка докажет!
+**Паймон:** Ох! Как много следов. Похоже, здесь побывало немало людей...
 
+**«Дуга»:** Если приглядеться, то здесь следы четырёх человек.
 
-**Боланд! Ломброзо!:** (Пёсик смотрит на вас, словно чего-то ожидая.)
+**«Дуга»:** Утром редакция газеты позаботилась о том, чтобы новости не просочились наружу. Можно смело предположить, что все следы здесь остались с момента совершения преступления.
 
-
-**Груда грязных пустых бутылок:** (От груды грязных бутылок из-под вина странно пахнет, как от наполненного рыбой солёного моря.)
-
-**Паймон:** Эти бутылки! Они ведь такие же, как та, что мы видели у дверей редакции.
+**Талокард:** Нужно записать это в заметки детектива!
 
 #### Систематизируйте подсказки
 
@@ -222,15 +213,19 @@
 
 **Талокард:** А зачем бездомному всё время бродить по одному и тому же месту, а не бродяжничать где вздумается? Он явно что-то замышлял!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Звучит довольно разумно.
 
+##### Вариант ответа 2
+
 - **Путешественник:** В этом нет особого смысла.
+
+##### Общее продолжение
 
 **Талокард:** Я права, точно вам говорю! Пойдёмте, поищем его на пристани. Говорят, его там видели.
 
 #### Отправляйтесь на пристань
-
-**Талокард:** Это ведь девичья одежда...
 
 #### Поговорите с рыжим незнакомцем
 
@@ -238,11 +233,11 @@
 
 **Силач-валяшка:** Мало того, что он деньги не отдаёт, так ещё и сбежать решил? Я перебью этой псине и ноги, и его грязную конуру!
 
-**Боланд! Ломброзо!:** Гав! Гав!
+**Непривязанный пёс:** Гав! Гав!
 
 **Силач-валяшка:** И чего ты разлаялся?
 
-**Боланд! Ломброзо!:** У-у...
+**Непривязанный пёс:** У-у...
 
 **Талокард:** Хватит! Что вы творите?!
 
@@ -254,8 +249,6 @@
 
 #### Одолейте рыжего незнакомца
 
-**«Дуга»:** Результаты анализа: женщина на фотографии...
-
 #### Одолейте рыжего незнакомца
 
 **Сообщник Силача-валяшки:** Сорок второй глава, с тем роботом и человеком с золотыми волосами слишком сложно справиться...
@@ -266,7 +259,7 @@
 
 **Паймон:** Да, Путешественник легко с таким справляется!
 
-**Боланд! Ломброзо!:** Гав! Гав!
+**Непривязанный пёс:** Гав! Гав!
 
 **Паймон:** Хе-хе, можешь не благодарить, собачка! Мы здесь, чтобы найти твоего хозяина. Он кому-то задолжал, да?
 
@@ -274,24 +267,41 @@
 
 **«Дуга»:** Мой анализ показывает, что наши расспросы могут быть неэффективны, поскольку наш язык и собачий несовместимы.
 
-**Боланд! Ломброзо!:** (Пёсик смотрит на вас, как бы подтверждая его слова.)
+**Непривязанный пёс:** (Пёсик смотрит на вас, как бы подтверждая его слова.)
 
 **Талокард:** Тогда... Тогда давайте обыщем окрестности. Вор явно живёт где-то здесь.
 
+**Непривязанный пёс:** Гав! Гав!
 
-**Боланд! Ломброзо!:** Гав! Гав!
+**Груда грязных пустых бутылок:** (От груды грязных бутылок из-под вина странно пахнет, как от наполненного рыбой солёного моря.)
+
+**Паймон:** Эти бутылки! Они ведь такие же, как та, что мы видели у дверей редакции.
+
+**Потрёпанная одежда:** (Непонятно откуда взявшаяся потрёпанная одежда... И этот странный запах...)
+
+**Старое фото:** (Фотография счастливой пары.)
+
+**Паймон:** А это... Рошер и его жена?
+
+#### Найдите следы бродяги Рошера
+
+**Талокард:** Это ведь девичья одежда...
+
+**«Дуга»:** Результаты анализа: женщина на фотографии...
+
+**Непривязанный пёс:** Гав! Гав!
 
 **Паймон:** В этом ящике что-то есть?
 
-(Постучать по ящику.)
+- **Путешественник:** (Постучать по ящику.)
 
 **Странный ящик:** ...
 
-(Постучать ещё раз.)
+- **Путешественник:** (Постучать ещё раз.)
 
 **Странный ящик:** ???
 
-(Постучать ещё раз.)
+- **Путешественник:** (Постучать ещё раз.)
 
 **Странный ящик:** Прекратите! Здесь ничего нет!
 
@@ -299,15 +309,13 @@
 
 #### Поговорите с человеком, который прячется в ящике
 
-**Потрёпанная одежда:** (Непонятно откуда взявшаяся потрёпанная одежда... И этот странный запах...)
-
 **Паймон:** Ох! В ящике и правда кто-то прятался!
 
-**Рошер:** Н-не трогайте меня!
+**???:** Н-не трогайте меня!
 
 **Талокард:** Тебя зовут Рошер?
 
-**Рошер:** Денег нет! У меня нет денег!
+**???:** Денег нет! У меня нет денег!
 
 **Талокард:** Не бойся, мы прогнали тех, кто приходил за долгами.
 
@@ -325,7 +333,7 @@
 
 **Рошер:** С-солгал? Чушь какая. Это клевета! Чистой воды поклёп! Какие у вас доказательства?
 
-Бутылка у входа в редакцию...
+- **Путешественник:** Бутылка у входа в редакцию...
 
 **Паймон:** Дяденька, возле редакции лежит точно такая же бутылка, как и у тебя. Не ты ли её оставил?
 
@@ -341,17 +349,21 @@
 
 #### Найдите способ обойти уловки Рошера
 
-**Старое фото:** (Фотография счастливой пары.)
+**Талокард:** Эта собака...
 
-**Паймон:** А это... Рошер и его жена?
+**«Дуга»:** Результаты анализа: собачье обоняние...
 
-**Боланд! Ломброзо!:** Гав! Гав!
+**Рошер:** Без железных доказательств это просто оскорбление моей чести и достоинства.
+
+**Непривязанный пёс:** (Пёсик смотрит на вас, словно чего-то ожидая.)
+
+**Непривязанный пёс:** Гав! Гав!
 
 **Паймон:** Куда это он пошёл?
 
 **Талокард:** Поняла! Пёсик почуял знакомый запах! На бутылке у входа в редакцию остался запах Рошера!
 
-**Боланд! Ломброзо!:** Гав! Гав!
+**Непривязанный пёс:** Гав! Гав!
 
 **Рошер:** Ломброзо, надо же тебе было...
 
@@ -359,7 +371,7 @@
 
 **Рошер:** Не... Не так резко... Эх ты, Ломброзо, предатель!
 
-**Боланд! Ломброзо!:** (Ломброзо весело виляет хвостом и явно ничего не понимает. )
+**Ломброзо:** (Ломброзо весело виляет хвостом и явно ничего не понимает. )
 
 **Рошер:** Эх... Ладно. Я признаюсь.
 
@@ -367,7 +379,7 @@
 
 **«Дуга»:** Вы абсолютно правы, мисс Паймон.
 
-Правда? Ты детектор лжи?
+- **Путешественник:** Правда? Ты детектор лжи?
 
 **Талокард:** Эй! Кому я говорила не совать свой нос в чужую личную жизнь? Для начала нужно узнать друг друга получше!
 
@@ -401,7 +413,7 @@
 
 **Рошер:** Однако вскоре я обнаружил, что весь их товар - обычный мусор, такой никто не купит. А как вышли сроки, они сразу же объявились за своими деньгами...
 
-Это те люди, с которыми мы тебе помогли?
+- **Путешественник:** Это те люди, с которыми мы тебе помогли?
 
 **Рошер:** Да... Выбора не было, пришлось вынести кое-какие вещи из дома. Я и не заметил, что заодно продал часть приданого жены, реликвию её деда.
 
@@ -409,9 +421,9 @@
 
 **Паймон:** А почему ты не сказал ей правду? Рассказал бы всё как есть. Возможно, она бы тебя простила.
 
-**Рошер:** Пф, он бы ни за что не признался. Если ты проиграл деньги, то, считай, тебе просто не повезло. Если ты прогорел с бизнесом, то сам виноват и сам дурак.
+**Талокард:** Пф, он бы ни за что не признался. Если ты проиграл деньги, то, считай, тебе просто не повезло. Если ты прогорел с бизнесом, то сам виноват и сам дурак.
 
-Но какое это имеет отношение к газете?
+- **Путешественник:** Но какое это имеет отношение к газете?
 
 **Рошер:** Месяц назад «Паровая птица» разоблачила шайку обманщиков, торговую гильдию «Элегантная посуда». Это были те самые люди, что тогда ко мне пришли. Оказывается, они мошенники!
 
@@ -431,27 +443,37 @@
 
 **Паймон:** Но непонятно, где его искать. Здорово было бы, если бы нам снова подсказал дорогу один пёсик.
 
-**Боланд! Ломброзо!:** (Ломброзо весело виляет хвостом, словно понял, что говорят о нём.)
+**Ломброзо:** (Ломброзо весело виляет хвостом, словно понял, что говорят о нём.)
 
 **Талокард:** Кстати говоря... У этого малыша отличный нюх. Что, если мы дадим ему что-нибудь понюхать?
 
 **Паймон:** Паймон не знает, сработает ли это, но стоит попробовать!
 
+**Талокард:** Это не подходит. Попробуем что-нибудь другое?
+
 #### Дайте собаке понюхать улики
 
-**Боланд! Ломброзо!:** Гав! Гав!
+**Ломброзо:** Гав! Гав!
 
 **Талокард:** Куда это он? Вперёд, за ним!
 
-#### Следуйте за собакой...
+**Рошер:** Клянусь, на этот раз я не обманываю! Пусть железяка докажет!
 
-**Боланд! Ломброзо!:** (Ломброзо послушно смотрит на вас и будто показывает, что ничего не понял.)
+**Ломброзо:** (Пёсик смотрит на вас, словно чего-то ожидая.)
+
+**Ломброзо:** (Ломброзо послушно смотрит на вас и будто показывает, что ничего не понял.)
 
 **Паймон:** Не то? Тогда давай попробуем что-то другое.
+
+#### Следуйте за собакой...
+
+#### Следуйте за собакой...
 
 **Паймон:** Пёсик остановился. Владелец пуговицы где-то рядом?
 
 **Талокард:** Давайте к тому дому, там кто-то есть. Спросим там!
+
+Спустя некоторое время вы, следуя за Ломброзо, пришли в некое место...
 
 #### Отправляйтесь в домик впереди
 
@@ -463,7 +485,7 @@
 
 **Мадлен:** Не убегай, Кевин! Эх...
 
-Прошу прощения.
+- **Путешественник:** Прошу прощения.
 
 **Мадлен:** Ч-что вам нужно?
 
@@ -479,7 +501,7 @@
 
 **Паймон:** Эм...
 
-Вы только что сказали «в редакции газеты»?
+- **Путешественник:** Вы только что сказали «в редакции газеты»?
 
 **Паймон:** Точно! Как вы поняли, что место кражи - редакция?
 
@@ -489,7 +511,7 @@
 
 **Мадлен:** Нет! Мой сын правда ничего не крал! Он подобрал этот нож только ради самообороны!
 
-Нож? Но потерялся ведь Месье Артур?
+- **Путешественник:** Нож? Но потерялся ведь Месье Артур?
 
 **Мадлен:** Месье Артур? У моего сына при себе был только нож...
 
@@ -505,7 +527,7 @@
 
 **Мадлен:** Он сказал, что Месье Артур пропал, и он хотел его отыскать. Но заметил идущего в его сторону подвыпившего мужчину, очень испугался и схватил нож для самообороны.
 
-Мы можем увидеть этот нож?
+- **Путешественник:** Мы можем увидеть этот нож?
 
 **Мадлен:** Я сказала Кевину его выбросить. Боялась, что из-за него у нас будут неприятности.
 
@@ -517,13 +539,15 @@
 
 **Талокард:** Так он ребёнок с проблемами. Да, с такими всегда непросто. Ладно, нам всё равно придётся с ним встретиться, чтобы найти нож...
 
-#### Расспросите Кевина о ноже
+**Мадлен:** Кевин точно не вор.
 
-**Талокард:** Эта собака...
+#### Расспросите Кевина о ноже
 
 #### Победите монстров, окруживших Кевина
 
-**«Дуга»:** Результаты анализа: собачье обоняние...
+**Кевин:** Я и правда смогу превратиться из мальчика с проблемами в парня с решениями?
+
+**Мадлен:** Кевин вернулся... Так дальше не пойдёт, стоит ли сказать ему...
 
 #### Поговорите с Кевином
 
@@ -543,13 +567,19 @@
 
 **Кевин:** Боланд! Его так зовут, арестуйте его!
 
-- **Путешественник:** Это твой отец?
+##### Вариант ответа 1
 
-- **Путешественник:** Это и есть преступник?
+- **Путешественник:** Это твой отец?
 
 **Кевин:** Да кому нужен такой отец? Я его почти год не видел!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Это и есть преступник?
+
 **Кевин:** Да, преступник. Зовёт себя моим отцом, а сам почти год дома не появлялся. Он обманщик, а это преступление!
+
+##### Общее продолжение
 
 **Паймон:** Эм... Теперь понятно, почему Мадлен сказала, что он часто жалуется Месье Артуру... Наверно, это и есть корень проблемы?
 
@@ -595,7 +625,7 @@
 
 **«Дуга»:** Мой анализ показывает, месье Кевин сказал правду. Однако ранее зрачки и дыхание мадам Мадлен свидетельствовали об аномальном поведении.
 
-Она соврала?
+- **Путешественник:** Она соврала?
 
 **«Дуга»:** Не могу утверждать этого наверняка. Но я зафиксировал аномалию, когда мадам Мадлен сказала, что его отец - инженер-механик и работает в другой стране.
 
@@ -623,9 +653,9 @@
 
 **Кевин:** С решениями?
 
-Меня как будто под дых ударили...
+- **Путешественник:** Меня как будто под дых ударили...
 
-**Талокард:** Есть какие-то возражения? Или хочешь сказать, что ни разу не (сказала)(сказал) ни слова лжи?
+**Талокард:** Есть какие-то возражения? Или хочешь сказать, что ни разу не сказал ни слова лжи? / Есть какие-то возражения? Или хочешь сказать, что ни разу не сказала ни слова лжи?
 
 **Талокард:** Неважно, не отвечай. Ты мне пока нравишься, не хочу портить хорошее впечатление.
 
@@ -634,6 +664,8 @@
 **Паймон:** Кевин, не слушай её болтовню. Лучше послушай Паймон: возвращайся и наладь отношения с матерью, она точно обманывает тебя не просто так.
 
 **Кевин:** Да, может, мне и стоит вернуться...
+
+#### Отправляйтесь туда, где Кевин выбросил нож
 
 #### Отправляйтесь туда, где Кевин выбросил нож
 
@@ -657,7 +689,7 @@
 
 **Талокард:** Дуга не может быть хуже какой-то собаки! Просто он сейчас не в форме. Как зовут ту собаку? Когда Дуге станет лучше, тогда и сравним, кто кого!
 
-Им незачем соревноваться...
+- **Путешественник:** Им незачем соревноваться...
 
 **«Дуга»:** По моему скромному мнению, сейчас важнее всего найти улику.
 
@@ -665,7 +697,17 @@
 
 #### Найдите нож под водой
 
-**Боланд! Ломброзо!:** Гав! Гав!
+**Кевин:** Мама, это правда? Папа... И ты...
+
+**Мадлен:** Тсс, Кевин, не надо говорить об этом на улице... В любом случае хорошо, что ты всё понял.
+
+**Кевин:** Да... Я буду хорошо себя вести...
+
+**Талокард:** Дуга, как ты сегодня?
+
+**«Дуга»:** Температура главной платы: ниже опасного. Остаточная функциональность ядра: 20%.
+
+**Талокард:** Ага... По сравнению со вчерашним, почти не уменьшилась. Так держать!
 
 #### Вернитесь на берег
 
@@ -693,7 +735,7 @@
 
 **Паймон:** С-смотрительница хранилища улик? И такая работа бывает?
 
-Тогда Дуга...
+- **Путешественник:** Тогда Дуга...
 
 **«Дуга»:** Верно, я улика.
 
@@ -715,11 +757,11 @@
 
 **Паймон:** И всё?
 
-Дуга, что думаешь?
+- **Путешественник:** Дуга, что думаешь?
 
 **«Дуга»:** Обнаружено аномальное поведение: Агент Талокард, вы соврали.
 
-**Талокард:** Эй! Путешественник! Я-то считала тебя честным человеком, а ты (воспользовалась)(воспользовался) протоколом Моссо!
+**Талокард:** Эй! Путешественник! Я-то считала тебя честным человеком, а ты воспользовался протоколом Моссо! / Эй! Путешественник! Я-то считала тебя честным человеком, а ты воспользовалась протоколом Моссо!
 
 **Паймон:** Протокол Моссо... Вы это уже упоминали. Что это значит?
 
@@ -739,7 +781,7 @@
 
 **«Дуга»:** Результаты анализа: доктор Моссо умер, защищая себя на дуэли. Он был признан виновным на суде.
 
-За что его осудили?
+- **Путешественник:** За что его осудили?
 
 **«Дуга»:** Результаты анализа: тридцать лет назад...
 
@@ -761,9 +803,15 @@
 
 **Паймон:** Вот они и ушли. Такое ощущение, что с этими двумя всё не так просто...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не надо лезть в их личные дела.
 
+##### Вариант ответа 2
+
 - **Путешественник:** В следующий раз можешь их получше расспросить.
+
+##### Общее продолжение
 
 **Паймон:** Ага! А нам пора отдохнуть после такого напряжённого дня. Завтра утром встретимся с ними у дворца Мермония.
 
@@ -773,16 +821,7 @@
 
 The Steambird seems to have had a crime unfold on their own doorstep...
 
-
-**Paimon:** (A tangle of footprints, with no consistent depth or pattern.)
-
-**Paimon:** Argh, look at all these footprints. Looks like quite a few people came by...
-
-**"Curve":** Based on these patterns, they belong to four different people.
-
-**"Curve":** The paper has already put a lid on this news and isolated all non-related individuals. As such, we can assume that these footprints were left behind during the crime itself.
-
-**Talochard:** Let's record this in our investigation notes first!
+#### Go to The Steambird
 
 #### Make some inquiries about what happened
 
@@ -794,7 +833,7 @@ The Steambird seems to have had a crime unfold on their own doorstep...
 
 **Jenck:** And did I ask for your help?
 
-What are you two arguing about?
+- **Traveler:** What are you two arguing about?
 
 **Talochard:** What good timing. Help me explain. I'm Agent Talochard from the Marechaussee Phantom, investigating a case at The Steambird.
 
@@ -828,9 +867,15 @@ What are you two arguing about?
 
 **Talochard:** Fantastical? As if. My deductions are entirely plausible.
 
+##### Response branch 1
+
 - **Traveler:** Quite plausible indeed...
 
+##### Response branch 2
+
 - **Traveler:** Quite fantastical indeed...
+
+##### Shared continuation
 
 **Jenck:** Agent Talochard, let me clarify. The missing employee is Sir Arthur. Ring any bells?
 
@@ -866,7 +911,7 @@ What are you two arguing about?
 
 **Talochard:** Huh? Oh, yes. Yes, that's the case...
 
-I didn't know Fontaine had such advanced technology.
+- **Traveler:** I didn't know Fontaine had such advanced technology.
 
 **Euphrasie:** Heh. Well, unfortunately this isn't the time to bring you up to date on our advances, much as I would enjoy doing so. Right now, I need you both to help with getting Sir Arthur back.
 
@@ -900,13 +945,13 @@ I didn't know Fontaine had such advanced technology.
 
 **Euphrasie:** Indeed I do. And on behalf of The Steambird, I promise you will be rewarded. What do you think?
 
-We're in.
+- **Traveler:** We're in.
 
 **Euphrasie:** Excellent. I hope you will all work together. The newspaper will be most grateful.
 
 **Talochard:** Okay. Just don't tell the Maison that we're here on the sly...
 
-Wait, you're playing hooky?
+- **Traveler:** Wait, you're playing hooky?
 
 **Talochard:** Hey, let a girl have her secrets, why don't you? Maybe when I know you better...
 
@@ -920,17 +965,9 @@ Wait, you're playing hooky?
 
 **Talochard:** Okay, so next we should investigate the scene. Sir Arthur disappeared last night, so there should still be clues to be found!
 
+#### Look for clues at the scene
 
-**Rocher:** Without real evidence, all you can do is insult me.
-
-
-**Kevin:** Mom, are you telling the truth? That Pop and... and you...
-
-**Madeleine:** Shh. Kevin, you can't talk about that outside of the house. You know now, and that's enough.
-
-**Kevin:** I know... And I'll be good from now on.
-
-**Paimon:** (An empty pedestal. If you look closely, you can see a notch left by a sharp implement.)
+**Notch on the Pedestal:** (An empty pedestal. If you look closely, you can see a notch left by a sharp implement.)
 
 **Paimon:** What's this?
 
@@ -940,16 +977,15 @@ Wait, you're playing hooky?
 
 **Talochard:** Let's record this in our investigation notes first!
 
+**Messy Footprints:** (A tangle of footprints, with no consistent depth or pattern.)
 
-**Rocher:** I swear, on that metal bucket, that I am not lying to anyone.
+**Paimon:** Argh, look at all these footprints. Looks like quite a few people came by...
 
+**"Curve":** Based on these patterns, they belong to four different people.
 
-**Baulande! Lombroso!:** (The puppy looks at you, as if waiting for something.)
+**"Curve":** The paper has already put a lid on this news and isolated all non-related individuals. As such, we can assume that these footprints were left behind during the crime itself.
 
-
-**Pile of Dirty, Empty Wine Bottles:** (A pile of dirty, empty wine bottles from which a strange smell wafts, like a sea filled with salty fish.)
-
-**Paimon:** Those bottles! We found one of those by The Steambird!
+**Talochard:** Let's record this in our investigation notes first!
 
 #### Organize the current clues
 
@@ -967,15 +1003,19 @@ Wait, you're playing hooky?
 
 **Talochard:** Well, he's a vagrant and vagrants are meant to wander about. But he stays in one place. He's definitely up to something!
 
+##### Response branch 1
+
 - **Traveler:** I guess that makes a little sense.
 
+##### Response branch 2
+
 - **Traveler:** I'm not sure that's entirely logical.
+
+##### Shared continuation
 
 **Talochard:** Trust me, I'm right! Let's go and check out the docks. Someone said they saw him there.
 
 #### Go to the pier
-
-**Talochard:** Aren't these a girl's clothes...?
 
 #### Speak with the unknown red-haired person
 
@@ -983,11 +1023,11 @@ Wait, you're playing hooky?
 
 **"Intrepid Valberry":** And as if not paying his debts wasn't enough, he's made me chase after him! I'm going to trash his place and break his legs!
 
-**Baulande! Lombroso!:** Woof! Woof!
+**Freed Puppy:** Woof! Woof!
 
 **"Intrepid Valberry":** What are you barking at?
 
-**Baulande! Lombroso!:** *whimpers*
+**Freed Puppy:** *whimpers*
 
 **Talochard:** Stop! What are you doing!?
 
@@ -999,19 +1039,17 @@ Wait, you're playing hooky?
 
 #### Beat back the unknown red-haired person
 
-**"Curve":** Information retrieved: The woman in the photo is...
-
 #### Beat back the unknown red-haired person
 
-**Accomplice of "Intrepid Valberry":** Director 42, the blond / blonde one and the robot are difficult to handle...
+**Accomplice of "Intrepid Valberry":** Director 42, the blond one and the robot are difficult to handle... / Director 42, the blonde one and the robot are difficult to handle...
 
 **"Intrepid Valberry":** Blasted... mud! I slipped and fell. Guess Rocher got lucky. Okay, lads, move!
 
 **Talochard:** I see you're a fighter, Traveler!
 
-**Paimon:** Oh, that's nothing for him / her.
+**Paimon:** Oh, that's nothing for him. / Oh, that's nothing for her.
 
-**Baulande! Lombroso!:** Woof! Woof!
+**Freed Puppy:** Woof! Woof!
 
 **Paimon:** Oh, no need to thank me, pup. We're looking for your master. Does he owe people money?
 
@@ -1019,24 +1057,41 @@ Wait, you're playing hooky?
 
 **"Curve":** In my humble analysis, this line of questioning will fail due to language incompatibilities.
 
-**Baulande! Lombroso!:** (The puppy looks at you, as if to say "Yeah, obviously.")
+**Freed Puppy:** (The puppy looks at you, as if to say "Yeah, obviously.")
 
 **Talochard:** Th—Then let's search the area. That thief must be here somewhere.
 
+**Freed Puppy:** Woof! Woof!
 
-**Baulande! Lombroso!:** Woof! Woof!
+**Pile of Dirty, Empty Wine Bottles:** (A pile of dirty, empty wine bottles from which a strange smell wafts, like a sea filled with salty fish.)
+
+**Paimon:** Those bottles! We found one of those by The Steambird!
+
+**Ragged Clothes:** (Ragged old clothes from who knows where, emitting an odd smell...)
+
+**Old Photo:** (A picture of a loving couple.)
+
+**Paimon:** Is this... Rocher and his wife?
+
+#### Search for traces of the vagrant Rocher
+
+**Talochard:** Aren't these a girl's clothes...?
+
+**"Curve":** Information retrieved: The woman in the photo is...
+
+**Freed Puppy:** Woof! Woof!
 
 **Paimon:** Huh? Is there something in that chest?
 
-(Knock on the chest.)
+- **Traveler:** (Knock on the chest.)
 
 **Strange Box:** ...
 
-(Knock again.)
+- **Traveler:** (Knock again.)
 
 **Strange Box:** ???
 
-(Knock again.)
+- **Traveler:** (Knock again.)
 
 **Strange Box:** Stop that! There's nothing in here!
 
@@ -1044,15 +1099,13 @@ Wait, you're playing hooky?
 
 #### Talk to the person hiding in the chest
 
-**Ragged Clothes:** (Ragged old clothes from who knows where, emitting an odd smell...)
-
 **Paimon:** Woah! There's someone hiding in the chest!
 
-**Rocher:** D—Don't hit me!
+**???:** D—Don't hit me!
 
 **Talochard:** So you're Rocher?
 
-**Rocher:** I don't have any Mora. Not a single coin!
+**???:** I don't have any Mora. Not a single coin!
 
 **Talochard:** It's okay. We chased the debt collectors off.
 
@@ -1070,7 +1123,7 @@ Wait, you're playing hooky?
 
 **Rocher:** Me? Lying? Nonsense! Calumny! Slander! Where's the evidence?
 
-The bottle by The Steambird...
+- **Traveler:** The bottle by The Steambird...
 
 **Paimon:** We found a bottle by The Steambird, just like these ones. You left it there, right?
 
@@ -1086,17 +1139,21 @@ The bottle by The Steambird...
 
 #### Find a way to break Rocher's argument
 
-**Old Photo:** (A picture of a loving couple.)
+**Talochard:** That dog...
 
-**Paimon:** Is this... Rocher and his wife?
+**"Curve":** Information retrieved: The canine sense of smell...
 
-**Baulande! Lombroso!:** Woof! Woof!
+**Rocher:** Without real evidence, all you can do is insult me.
+
+**Freed Puppy:** (The puppy looks at you, as if waiting for something.)
+
+**Freed Puppy:** Woof! Woof!
 
 **Paimon:** Huh? What's he doing?
 
 **Talochard:** I know! He must have recognized a scent. The bottle must have Rocher's scent on it.
 
-**Baulande! Lombroso!:** Woof! Woof!
+**Freed Puppy:** Woof! Woof!
 
 **Rocher:** Lombroso, did you have to...
 
@@ -1104,7 +1161,7 @@ The bottle by The Steambird...
 
 **Rocher:** Okay, calm down, won't you? And Lombroso, you traitor...
 
-**Baulande! Lombroso!:** (Lombroso wags his tail happily, as if saying, "I don't understand!")
+**Lombroso:** (Lombroso wags his tail happily, as if saying, "I don't understand!")
 
 **Rocher:** Agh, okay, I admit it...
 
@@ -1112,7 +1169,7 @@ The bottle by The Steambird...
 
 **"Curve":** Correct, Ms. Paimon.
 
-Really? You're a lie detector?
+- **Traveler:** Really? You're a lie detector?
 
 **Talochard:** Hey! Didn't we talk about prying into other people's private lives? Get to know us first!
 
@@ -1146,7 +1203,7 @@ Really? You're a lie detector?
 
 **Rocher:** But I soon realized that the goods they were giving me were unsellable garbage... And then they started demanding I pay what I owed them.
 
-Were those the people who were here?
+- **Traveler:** Were those the people who were here?
 
 **Rocher:** Yeah. I didn't have any choice but to pawn things from home to get some money. But I didn't realize that what I'd taken belonged to my wife. Something her grandfather left her...
 
@@ -1154,9 +1211,9 @@ Were those the people who were here?
 
 **Paimon:** Huh? Why not tell the truth? Maybe she'd have forgiven you if she'd known...
 
-**Rocher:** Hmph. What does this guy know about telling the truth? If he claimed he lost it gambling, he could blame bad luck. If he lost it on a bad business deal, he'd have to admit to being a good-for-nothing loser.
+**Talochard:** Hmph. What does this guy know about telling the truth? If he claimed he lost it gambling, he could blame bad luck. If he lost it on a bad business deal, he'd have to admit to being a good-for-nothing loser.
 
-But what does this have to do with the newspaper?
+- **Traveler:** But what does this have to do with the newspaper?
 
 **Rocher:** A month ago, The Steambird reported on a team of scammers, the Elegant Tableware Confrerie. Those were the people who conned me! Professional con artists!
 
@@ -1176,27 +1233,37 @@ But what does this have to do with the newspaper?
 
 **Paimon:** But where would we find him? If only we had a puppy to show us the way again.
 
-**Baulande! Lombroso!:** (Lombroso wags his tail happily. He seems to know he's being talked about.)
+**Lombroso:** (Lombroso wags his tail happily. He seems to know he's being talked about.)
 
 **Talochard:** Now that you mention it... Lombroso has an excellent sense of smell. Why don't we see if he can pick up a scent?
 
 **Paimon:** Paimon's not sure it'll work, but it's worth a try!
 
+**Talochard:** This won't be of any use. Try something else.
+
 #### Let the puppy sniff the clues
 
-**Baulande! Lombroso!:** Woof! Woof!
+**Lombroso:** Woof! Woof!
 
 **Talochard:** Where's he going? Quick, follow that puppy!
 
-#### Follow the puppy...
+**Rocher:** I swear, on that metal bucket, that I am not lying to anyone.
 
-**Baulande! Lombroso!:** (Lombroso looks at you, as if to say "I don't understand.")
+**Lombroso:** (The puppy looks at you, as if waiting for something.)
+
+**Lombroso:** (Lombroso looks at you, as if to say "I don't understand.")
 
 **Paimon:** It's not that one? Let's try another.
+
+#### Follow the puppy...
+
+#### Follow the puppy...
 
 **Paimon:** The puppy has stopped. Could the owner of the button live nearby?
 
 **Talochard:** Look, there's someone at home in that house over there. Let's go ask.
+
+After some time, you arrive at a certain spot with Lombroso...
 
 #### Go to the house ahead
 
@@ -1208,7 +1275,7 @@ But what does this have to do with the newspaper?
 
 **Madeleine:** Don't run, Kevin. Ah...
 
-Sorry to interrupt...
+- **Traveler:** Sorry to interrupt...
 
 **Madeleine:** You... What do you guys want?
 
@@ -1224,7 +1291,7 @@ Sorry to interrupt...
 
 **Paimon:** Uh...
 
-Did you just say "newspaper office"?
+- **Traveler:** Did you just say "newspaper office"?
 
 **Paimon:** Yeah! How did you know that that's where the theft happened?
 
@@ -1234,7 +1301,7 @@ Did you just say "newspaper office"?
 
 **Madeleine:** No! My son didn't mean to steal anything. He only took that knife to defend himself.
 
-Knife? I thought we were looking for a mechanical steambird?
+- **Traveler:** Knife? I thought we were looking for a mechanical steambird?
 
 **Madeleine:** You mean Sir Arthur? But Kevin only had a knife when he came home.
 
@@ -1250,7 +1317,7 @@ Knife? I thought we were looking for a mechanical steambird?
 
 **Madeleine:** He said he noticed that Sir Arthur was missing and wanted to find it. But then some drunken man staggered towards him. He got scared and picked up the knife.
 
-Could we see the knife?
+- **Traveler:** Could we see the knife?
 
 **Madeleine:** I told him to get rid of it. I was worried it might cause trouble...
 
@@ -1262,13 +1329,15 @@ Could we see the knife?
 
 **Talochard:** A problem child, huh? Not easy to deal with. Still, we'll need to find him and ask about that knife.
 
-#### Go to Kevin to inquire about the blade
+**Madeleine:** There's no way Kevin would ever steal anything.
 
-**Talochard:** That dog...
+#### Go to Kevin to inquire about the blade
 
 #### Defeat the monsters near Kevin
 
-**"Curve":** Information retrieved: The canine sense of smell...
+**Kevin:** Can a problem child really find the answers he needs?
+
+**Madeleine:** Kevin is back home... But this can't go on. Isn't it time to tell him?
 
 #### Talk to Kevin
 
@@ -1288,13 +1357,19 @@ Could we see the knife?
 
 **Kevin:** Baulande! That's his name. You should arrest him too!
 
-- **Traveler:** Is that your father?
+##### Response branch 1
 
-- **Traveler:** Is he our criminal, then?
+- **Traveler:** Is that your father?
 
 **Kevin:** I wish he wasn't! I haven't even seen him for a year.
 
+##### Response branch 2
+
+- **Traveler:** Is he our criminal, then?
+
 **Kevin:** Yeah, he's a criminal. And my so-called father, sure, but he hasn't even been home in a year. Arrest him for bad parenting!
+
+##### Shared continuation
 
 **Paimon:** Ah. No wonder Madam Madeleine said this guy used to complain to Sir Arthur. Paimon guesses that's the root of the problem?
 
@@ -1340,7 +1415,7 @@ Could we see the knife?
 
 **"Curve":** In my humble analysis, Mr. Kevin is not lying. But I did notice anomalies with Madam Madeleine's pupil dilation and breathing earlier.
 
-Was she lying?
+- **Traveler:** Was she lying?
 
 **"Curve":** I am unable to confirm that. There was, however, a data fluctuation when she told us that "his father's a mechanical engineer posted outside the city."
 
@@ -1368,7 +1443,7 @@ Was she lying?
 
 **Kevin:** A—Answers?
 
-I'm feeling kind of attacked...
+- **Traveler:** I'm feeling kind of attacked...
 
 **Talochard:** Oh? Do you disagree? Unless... you've never ever told even a single lie?
 
@@ -1379,6 +1454,8 @@ I'm feeling kind of attacked...
 **Paimon:** Don't listen to her, Kevin. Listen to Paimon. Go home and have a good talk with your mom. If she lied to you it's because she had a good reason.
 
 **Kevin:** I know. Maybe I should go home.
+
+#### Go to where Kevin threw away the blade
 
 #### Go to where Kevin threw away the blade
 
@@ -1402,7 +1479,7 @@ I'm feeling kind of attacked...
 
 **Talochard:** How dare you suggest Curve is less advanced than a dog! He's just not feeling very well. What was the dog's name, anyway? When Curve is better, we'll have a competition and see who wins!
 
-Wow, someone's being unnecessarily competitive...
+- **Traveler:** Wow, someone's being unnecessarily competitive...
 
 **"Curve":** In my humble opinion, we should be looking for evidence.
 
@@ -1410,7 +1487,17 @@ Wow, someone's being unnecessarily competitive...
 
 #### Go underwater to search for the blade
 
-**Baulande! Lombroso!:** Woof! Woof!
+**Kevin:** Mom, are you telling the truth? That Pop and... and you...
+
+**Madeleine:** Shh. Kevin, you can't talk about that outside of the house. You know now, and that's enough.
+
+**Kevin:** I know... And I'll be good from now on.
+
+**Talochard:** Curve, how are you feeling today?
+
+**"Curve":** Motherboard temperature: Below warning line. Core functionality: 20%.
+
+**Talochard:** Hmm... Not much lower than yesterday. Keep it up, Curve!
 
 #### Return to shore
 
@@ -1438,7 +1525,7 @@ Wow, someone's being unnecessarily competitive...
 
 **Paimon:** A what? Is that even a job?
 
-So Curve is...
+- **Traveler:** So Curve is...
 
 **"Curve":** Evidence. Indeed.
 
@@ -1460,7 +1547,7 @@ So Curve is...
 
 **Paimon:** And that's it?
 
-Curve, what do you think?
+- **Traveler:** Curve, what do you think?
 
 **"Curve":** Biodata anomaly identified. Agent Talochard, you are lying.
 
@@ -1484,7 +1571,7 @@ Curve, what do you think?
 
 **"Curve":** Relevant information retrieved: Dr. Mosso died in a duel attempting to prove his innocence, after a court found him guilty.
 
-Why was he found guilty?
+- **Traveler:** Why was he found guilty?
 
 **"Curve":** Relevant information retrieved: 30 years ago...
 
@@ -1506,9 +1593,15 @@ Why was he found guilty?
 
 **Paimon:** Okay, they've gone. Paimon can't help but feel there's something going on on their end, though...
 
+##### Response branch 1
+
 - **Traveler:** Best not to stick your nose into other people's private lives.
 
+##### Response branch 2
+
 - **Traveler:** You can be nosy about that tomorrow.
+
+##### Shared continuation
 
 **Paimon:** Yeah. It's been a busy day, we should go get some rest. We'll meet them at the Palais Mermonia tomorrow.
 
@@ -1518,16 +1611,7 @@ Why was he found guilty?
 
 蒸汽鸟报社似乎发生了一桩案子…
 
-
-**派蒙:** （数枚互相交叠，深浅、纹路不一的脚印。）
-
-**派蒙:** 呜哇！有这么多脚印，看来有不少人来过呢…
-
-**「曲线」:** 从纹路分析，这些脚印或许属于四位不同的主人。
-
-**「曲线」:** 报社今早已经封锁了消息，隔绝了无关人士。可以认为这些脚印都是案发时留下的。
-
-**托萝莎:** 先把它记录进探案笔记吧！
+#### 前往蒸汽鸟报社
 
 #### 打听发生了什么
 
@@ -1539,7 +1623,7 @@ Why was he found guilty?
 
 **让克:** 但我也没请你帮我解决麻烦啊！
 
-你们在吵什么？
+- **旅行者:** 你们在吵什么？
 
 **托萝莎:** 你们来的好，快来帮我评评理！我是逐影庭的探员托萝莎，正在调查蒸汽鸟报社的一件案子。
 
@@ -1573,9 +1657,15 @@ Why was he found guilty?
 
 **托萝莎:** 什么？幻想文学？难道我的推理不够现实吗？
 
+##### 对话分支 1
+
 - **旅行者:** …挺现实的…
 
+##### 对话分支 2
+
 - **旅行者:** …挺幻想的…
+
+##### 共同后续
 
 **让克:** 托萝莎探员，请你搞清楚，失踪的员工可是亚瑟先生，你不知道吗？
 
@@ -1611,7 +1701,7 @@ Why was he found guilty?
 
 **托萝莎:** 啊？啊！对对对！就是这样…
 
-枫丹的技术已经到了这种程度？
+- **旅行者:** 枫丹的技术已经到了这种程度？
 
 **欧芙:** 呵呵，如果不是时机不对，我很乐意分享一些前沿的科技新闻。而眼下，我更想要委托二位，协助本社找回亚瑟先生。
 
@@ -1645,13 +1735,13 @@ Why was he found guilty?
 
 **欧芙:** 正是如此，至于酬劳，以蒸汽鸟报社之名，请尽管放心。不知你们意下如何？
 
-没问题。
+- **旅行者:** 没问题。
 
 **欧芙:** 太好了。希望几位能精诚合作，本社将不胜感激。
 
 **托萝莎:** 好吧，只要不上报庭里我们偷偷溜出来，怎样都可以…
 
-你们偷偷溜出来的？
+- **旅行者:** 你们偷偷溜出来的？
 
 **托萝莎:** 不要一上来就打听女孩子的私生活啦！那种事熟了以后才可以…
 
@@ -1665,17 +1755,9 @@ Why was he found guilty?
 
 **托萝莎:** 好了，接着就再调查一下案发现场吧。亚瑟先生的失踪是在昨晚，这里一定留下了什么线索！
 
+#### 在现场搜查线索
 
-**罗谢:** 没有强而有力的证据，你们就是在羞辱我的人格。
-
-
-**凯万:** 妈妈，你说的是真的吗？你说爸爸…还有你…
-
-**马德莱娜:** 嘘！凯万，不要在外面说这些…总之你知道就好了。
-
-**凯万:** 我知道了…我以后会乖乖的…
-
-**派蒙:** （空空如也的底座，仔细看，有一道锐器留下的刻痕。）
+**底座上的刻痕:** （空空如也的底座，仔细看，有一道锐器留下的刻痕。）
 
 **派蒙:** 这是什么？
 
@@ -1685,16 +1767,15 @@ Why was he found guilty?
 
 **托萝莎:** 先把它记录进探案笔记吧！
 
+**凌乱的脚印:** （数枚互相交叠，深浅、纹路不一的脚印。）
 
-**罗谢:** 我发誓，这回我真没骗人，有那个大铁棍子认证！
+**派蒙:** 呜哇！有这么多脚印，看来有不少人来过呢…
 
+**「曲线」:** 从纹路分析，这些脚印或许属于四位不同的主人。
 
-**博兰德！郎勃罗梭！:** （小狗望着你们，好像在期待什么。）
+**「曲线」:** 报社今早已经封锁了消息，隔绝了无关人士。可以认为这些脚印都是案发时留下的。
 
-
-**脏兮兮的空酒瓶堆:** （脏兮兮的空酒瓶堆，散发着微妙的气味，像是装着咸鱼的大海。）
-
-**派蒙:** 这些瓶子！和我们在报社门口发现的一样呢。
+**托萝莎:** 先把它记录进探案笔记吧！
 
 #### 梳理当前的线索
 
@@ -1712,15 +1793,19 @@ Why was he found guilty?
 
 **托萝莎:** 哪有流浪汉不好好流浪，天天在一个地方溜达的？他一定图谋不轨！
 
+##### 对话分支 1
+
 - **旅行者:** 好像也有点道理。
 
+##### 对话分支 2
+
 - **旅行者:** 好像也不是很有道理。
+
+##### 共同后续
 
 **托萝莎:** 听我的，准没错！走，我们去码头找找看，有人说在那里见过他。
 
 #### 前往码头
-
-**托萝莎:** 这些衣服怎么像是女孩穿的…
 
 #### 与红发的不明人士交谈
 
@@ -1728,11 +1813,11 @@ Why was he found guilty?
 
 **「勇猛落落莓」:** 欠钱不还就算了，还想让老子跑几趟啊？老子要把他的狗腿和狗窝一起都拆了！
 
-**博兰德！郎勃罗梭！:** 汪！汪！
+**自由的小狗:** 汪！汪！
 
 **「勇猛落落莓」:** 你又在狗叫什么？
 
-**博兰德！郎勃罗梭！:** 呜…
+**自由的小狗:** 呜…
 
 **托萝莎:** 住手！你们在干什么！
 
@@ -1744,8 +1829,6 @@ Why was he found guilty?
 
 #### 击退红发的不明人士
 
-**「曲线」:** 检索到信息：画片里的这位夫人…
-
 #### 击退红发的不明人士
 
 **「勇猛落落莓」的同伙:** 四十二当家，那个金毛和机器人太扎手了…
@@ -1756,7 +1839,7 @@ Why was he found guilty?
 
 **派蒙:** 这对旅行者来说都是小意思啦！
 
-**博兰德！郎勃罗梭！:** 汪！汪！
+**自由的小狗:** 汪！汪！
 
 **派蒙:** 嘿嘿，小狗，不用谢！我们是来找你的主人的，他欠了别人钱吧？
 
@@ -1764,24 +1847,41 @@ Why was he found guilty?
 
 **「曲线」:** 依鄙人分析，我等与犬类的语言并不兼容。
 
-**博兰德！郎勃罗梭！:** （小狗望着你们，好像在说「就是这样！」）
+**自由的小狗:** （小狗望着你们，好像在说「就是这样！」）
 
 **托萝莎:** 那…那我们先搜查一下附近好了，那个小偷肯定就住在这里。
 
+**自由的小狗:** 汪！汪！
 
-**博兰德！郎勃罗梭！:** 汪！汪！
+**脏兮兮的空酒瓶堆:** （脏兮兮的空酒瓶堆，散发着微妙的气味，像是装着咸鱼的大海。）
+
+**派蒙:** 这些瓶子！和我们在报社门口发现的一样呢。
+
+**破烂的衣服:** （不知道从哪捡来的破旧衣物…散发微妙的气味…）
+
+**旧照片:** （一张男人和女人的甜蜜合影。）
+
+**派蒙:** 这里面是…罗谢和他的妻子吗？
+
+#### 搜索流浪汉罗谢的痕迹
+
+**托萝莎:** 这些衣服怎么像是女孩穿的…
+
+**「曲线」:** 检索到信息：画片里的这位夫人…
+
+**自由的小狗:** 汪！汪！
 
 **派蒙:** 欸？难道这箱子里有什么吗？
 
-（敲箱子。）
+- **旅行者:** （敲箱子。）
 
 **奇怪的箱子:** ……
 
-（再敲一下。）
+- **旅行者:** （再敲一下。）
 
 **奇怪的箱子:** ？？？
 
-（再敲一下。）
+- **旅行者:** （再敲一下。）
 
 **奇怪的箱子:** 别敲了！没东西！
 
@@ -1789,15 +1889,13 @@ Why was he found guilty?
 
 #### 与躲在箱子里的人交谈
 
-**破烂的衣服:** （不知道从哪捡来的破旧衣物…散发微妙的气味…）
-
 **派蒙:** 呜哇！箱子里居然躲了个人！
 
-**罗谢:** 别…别打我！
+**？？？:** 别…别打我！
 
 **托萝莎:** 就你叫罗谢啊？
 
-**罗谢:** 我没钱！我真没钱！
+**？？？:** 我没钱！我真没钱！
 
 **托萝莎:** 你别怕，我们帮你把讨债的赶走了。
 
@@ -1815,7 +1913,7 @@ Why was he found guilty?
 
 **罗谢:** 说…说谎？胡言乱语！信口雌黄！瞎说八道！有证据吗？
 
-关于报社门口的酒瓶…
+- **旅行者:** 关于报社门口的酒瓶…
 
 **派蒙:** 大叔，报社门口的酒瓶和你这的一模一样，就是你留下的吧？
 
@@ -1831,17 +1929,21 @@ Why was he found guilty?
 
 #### 想办法突破罗谢的狡辩
 
-**旧照片:** （一张男人和女人的甜蜜合影。）
+**托萝莎:** 那只狗…
 
-**派蒙:** 这里面是…罗谢和他的妻子吗？
+**「曲线」:** 检索到信息：犬类的嗅觉…
 
-**博兰德！郎勃罗梭！:** 汪！汪！
+**罗谢:** 没有强而有力的证据，你们就是在羞辱我的人格。
+
+**自由的小狗:** （小狗望着你们，好像在期待什么。）
+
+**自由的小狗:** 汪！汪！
 
 **派蒙:** 咦？它怎么走起来了？
 
 **托萝莎:** 我知道了，小狗认出了熟悉的气味！报社门口的酒瓶上有罗谢大叔的气味！
 
-**博兰德！郎勃罗梭！:** 汪！汪！
+**自由的小狗:** 汪！汪！
 
 **罗谢:** 郎勃罗梭，你不要这时候凑过来啊…
 
@@ -1849,7 +1951,7 @@ Why was he found guilty?
 
 **罗谢:** 别…别这么凶…郎勃罗梭，你把我暴露了呀！
 
-**博兰德！郎勃罗梭！:** （郎勃罗梭兴奋地摇着尾巴，好像在说「我不懂耶。」）
+**郎勃罗梭:** （郎勃罗梭兴奋地摇着尾巴，好像在说「我不懂耶。」）
 
 **罗谢:** 唉…好吧，我承认…
 
@@ -1857,7 +1959,7 @@ Why was he found guilty?
 
 **「曲线」:** 派蒙小姐，您的判断正确。
 
-真的假的？你是测谎机？
+- **旅行者:** 真的假的？你是测谎机？
 
 **托萝莎:** 哎呀！不是说了，不要随便打听别人的私生活吗？那种事要熟了才可以！
 
@@ -1891,7 +1993,7 @@ Why was he found guilty?
 
 **罗谢:** 可没多久我就发现，从他们那进的货都是垃圾，完全卖不出去…后来账期一到，他们立马就来讨债了…
 
-就是刚刚那帮人？
+- **旅行者:** 就是刚刚那帮人？
 
 **罗谢:** 嗯…我被逼得没办法，就在家里找了些东西抵出去，结果没注意有一件是我妻子的嫁妆，还是她爷爷的遗物…
 
@@ -1899,9 +2001,9 @@ Why was he found guilty?
 
 **派蒙:** 啊？为什么不说实话呢？要是老实交代，说不定她还能原谅你…
 
-**罗谢:** 哼，这家伙才不会老实交代呢。要是说赌钱输光，还能怪运气不好。可要是说做生意亏光，那就坐实废物大叔的身份了。
+**托萝莎:** 哼，这家伙才不会老实交代呢。要是说赌钱输光，还能怪运气不好。可要是说做生意亏光，那就坐实废物大叔的身份了。
 
-可这些和报社有什么关系？
+- **旅行者:** 可这些和报社有什么关系？
 
 **罗谢:** 因为一个月前，蒸汽鸟报曝光了一个叫「优雅餐具商会」的诈骗团伙…就是找上我的那帮人，原来他们是专业骗子！
 
@@ -1921,27 +2023,37 @@ Why was he found guilty?
 
 **派蒙:** 不过也不知道要去哪里找，要是能像刚才一样，再有一只小狗带路就好了。
 
-**博兰德！郎勃罗梭！:** （郎勃罗梭好像听见了有人在说自己，高兴地摇着尾巴。）
+**郎勃罗梭:** （郎勃罗梭好像听见了有人在说自己，高兴地摇着尾巴。）
 
 **托萝莎:** 说起来…这家伙的鼻子倒是很灵，我们把东西也给它闻一闻怎么样？
 
 **派蒙:** 虽然不知道有没有用，但感觉可以试一试！
 
+**托萝莎:** 这个不可能有用，换一个试试吧？
+
 #### 让小狗闻一闻线索
 
-**博兰德！郎勃罗梭！:** 汪！汪！
+**郎勃罗梭:** 汪！汪！
 
 **托萝莎:** 它要去哪？我们快跟上它！
 
-#### 跟随小狗…
+**罗谢:** 我发誓，这回我真没骗人，有那个大铁棍子认证！
 
-**博兰德！郎勃罗梭！:** （郎勃罗梭乖乖地望着你们，好像在说「我不懂耶。」）
+**郎勃罗梭:** （小狗望着你们，好像在期待什么。）
+
+**郎勃罗梭:** （郎勃罗梭乖乖地望着你们，好像在说「我不懂耶。」）
 
 **派蒙:** 不是这个吗？那我们再试试其他的吧。
+
+#### 跟随小狗…
+
+#### 跟随小狗…
 
 **派蒙:** 小狗停下了，难道扣子的主人在附近吗？
 
 **托萝莎:** 快看那座房子，那里有人！我们过去问问！
+
+一段时间后，你们跟着郎勃罗梭来到了一个地方…
 
 #### 前往前方的小屋
 
@@ -1953,7 +2065,7 @@ Why was he found guilty?
 
 **马德莱娜:** 别跑，凯万！唉…
 
-打扰一下。
+- **旅行者:** 打扰一下。
 
 **马德莱娜:** 你们…你们要干什么？
 
@@ -1969,7 +2081,7 @@ Why was he found guilty?
 
 **派蒙:** 呃…
 
-夫人刚才说了「报社」两个字吧？
+- **旅行者:** 夫人刚才说了「报社」两个字吧？
 
 **派蒙:** 对哦！要是夫人不知情，怎么可能知道案发现场在报社呢？
 
@@ -1979,7 +2091,7 @@ Why was he found guilty?
 
 **马德莱娜:** 不！我孩子真的没有偷东西！那把刀只是他捡来防身的！
 
-刀？丢的不是亚瑟先生吗？
+- **旅行者:** 刀？丢的不是亚瑟先生吗？
 
 **马德莱娜:** 亚瑟先生？可那孩子只拿了一把刀回来…
 
@@ -1995,7 +2107,7 @@ Why was he found guilty?
 
 **马德莱娜:** 他说亚瑟先生不见了，想找一找，结果发现一个醉醺醺的大叔朝他靠近，他很害怕，就把刀拿下来防身。
 
-刀可以给我们看看吗？
+- **旅行者:** 刀可以给我们看看吗？
 
 **马德莱娜:** …我让凯万把刀丢掉了…我担心引来不必要的麻烦…
 
@@ -2007,13 +2119,15 @@ Why was he found guilty?
 
 **托萝莎:** 原来是个问题小孩啊，这种家伙最麻烦了。算了，为了找到刀，我们还是得先去见见他…
 
-#### 去向凯万询问刀的事
+**马德莱娜:** 凯万绝对不会是小偷。
 
-**托萝莎:** 那只狗…
+#### 去向凯万询问刀的事
 
 #### 击退凯万附近的魔物
 
-**「曲线」:** 检索到信息：犬类的嗅觉…
+**凯万:** …问题小孩真的可以变成答案小孩吗？
+
+**马德莱娜:** 凯万回来了…这样下去也不是办法，是不是该告诉他…
 
 #### 与凯万交谈
 
@@ -2033,13 +2147,19 @@ Why was he found guilty?
 
 **凯万:** 博兰德！那个人叫这个名字，赶紧把他抓起来！
 
-- **旅行者:** 这是你爸爸？
+##### 对话分支 1
 
-- **旅行者:** 这是犯人？
+- **旅行者:** 这是你爸爸？
 
 **凯万:** 谁要他当爸爸？我都快一年没见到他了！
 
+##### 对话分支 2
+
+- **旅行者:** 这是犯人？
+
 **凯万:** 对，他就是犯人，作为我名义上的爸爸，他居然快一年都没回家了，他犯了混蛋罪！
+
+##### 共同后续
 
 **派蒙:** 唔…难怪马德莱娜夫人说他会经常和亚瑟先生诉苦…估计这就是问题的根源了吧？
 
@@ -2085,7 +2205,7 @@ Why was he found guilty?
 
 **「曲线」:** 依鄙人分析，凯万先生没有说谎。不过先前，马德莱娜夫人的瞳孔与呼吸变化有异常。
 
-她在说谎？
+- **旅行者:** 她在说谎？
 
 **「曲线」:** 鄙人未能确认。但马德莱娜夫人在说出「他爸爸是外派机械工程师」时，数据出现了轻微波动。
 
@@ -2113,7 +2233,7 @@ Why was he found guilty?
 
 **凯万:** 答…答案小孩？
 
-感觉我也被攻击到了…
+- **旅行者:** 感觉我也被攻击到了…
 
 **托萝莎:** 咦？你有反对意见吗？难道…你一次谎都没有说过？
 
@@ -2124,6 +2244,8 @@ Why was he found guilty?
 **派蒙:** 凯万，你别听她乱说啦。你听我的，回去和妈妈好好沟通一下吧，她肯定不是因为想骗你才骗你的。
 
 **凯万:** 我知道了，也许我是该回去了…
+
+#### 前往凯万丢刀的地方
 
 #### 前往凯万丢刀的地方
 
@@ -2147,7 +2269,7 @@ Why was he found guilty?
 
 **托萝莎:** 曲线怎么可能不如狗啦！曲线现在只是身体不太好。那只狗叫什么名字？等曲线好点，就去和那家伙比比看！
 
-这无缘无故的攀比之心…
+- **旅行者:** 这无缘无故的攀比之心…
 
 **「曲线」:** 依鄙人拙见，眼下还是寻找证物为重。
 
@@ -2155,7 +2277,17 @@ Why was he found guilty?
 
 #### 去水下搜寻刀的下落
 
-**博兰德！郎勃罗梭！:** 汪！汪！
+**凯万:** 妈妈，你说的是真的吗？你说爸爸…还有你…
+
+**马德莱娜:** 嘘！凯万，不要在外面说这些…总之你知道就好了。
+
+**凯万:** 我知道了…我以后会乖乖的…
+
+**托萝莎:** 曲线，今天你感觉还好吗？
+
+**「曲线」:** 主板温度：低于预警线。核心残值：20%。
+
+**托萝莎:** 嗯…跟昨天比，没有减少很多，要保持住！
 
 #### 返回岸上
 
@@ -2183,7 +2315,7 @@ Why was he found guilty?
 
 **派蒙:** 证…证物管理员？还有这种岗位吗？
 
-那曲线…
+- **旅行者:** 那曲线…
 
 **「曲线」:** 是的，鄙人是一件证物。
 
@@ -2205,7 +2337,7 @@ Why was he found guilty?
 
 **派蒙:** 就只是这样吗？
 
-曲线，你怎么看？
+- **旅行者:** 曲线，你怎么看？
 
 **「曲线」:** 检测到生理数据异常：托萝莎探员，您说谎了。
 
@@ -2229,7 +2361,7 @@ Why was he found guilty?
 
 **「曲线」:** 检索到相关信息：莫索博士死于为自己抗辩的决斗。他在一场审判中被判有罪。
 
-为什么被判罪？
+- **旅行者:** 为什么被判罪？
 
 **「曲线」:** 检索到相关信息：三十年前…
 
@@ -2251,8 +2383,14 @@ Why was he found guilty?
 
 **派蒙:** 好吧，他们走了…总感觉他们两个十分不简单呢…
 
+##### 对话分支 1
+
 - **旅行者:** 不要随便打探他们的私生活。
 
+##### 对话分支 2
+
 - **旅行者:** 下次再打探他们的私生活。
+
+##### 共同后续
 
 **派蒙:** 嗯！忙活了一天，我们也回去休息一下吧。明早再去沫芒宫找他们。

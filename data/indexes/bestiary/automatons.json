@@ -306,6 +306,40 @@
     "search_text": "мек: быстрый сбор nimble harvester mek 机关·灵活采集型 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
   },
   {
+    "id": "precursor_s_secret_source_matrix_of_overseer_network",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/precursor_s_secret_source_matrix_of_overseer_network.webp",
+    "title": {
+      "ru": "Предтечная секретная система матрицы оператора наблюдения",
+      "en": "Precursor's Secret Source Matrix of Overseer Network",
+      "zh": "先驱秘源统辖阵列"
+    },
+    "region": "Луна",
+    "game_version": "6.7",
+    "tags": [
+      "Предтечная секретная система матрицы оператора наблюдения",
+      "Precursor's Secret Source Matrix of Overseer Network",
+      "先驱秘源统辖阵列"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Луна"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 6007000,
+    "search_text": "предтечная секретная система матрицы оператора наблюдения precursor's secret source matrix of overseer network 先驱秘源统辖阵列 automatons common_enemy луна 6.7 повреждённое лунное железо / угасшее лунное железо / безупречное лунное железо fractured lunar iron / depleted lunar iron / unblemished lunar iron 残损的月铁 / 空竭的月铁 / 无秽的月铁"
+  },
+  {
     "id": "primal_construct_prospector",
     "category": "enemies",
     "enemy_group": "automatons",

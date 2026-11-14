@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 73285,73329,73330
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10125
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 73285,73329,73330
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,42 +28,25 @@
 
 Похоже, исследование Соши из ордена скептиков продвигается не очень гладко...
 
-
 **Соши:** Рада видеть вас всех! Вы как раз вовремя!
 
-- **Путешественник:** Как раз вовремя? Мне не нравится, как это прозвучало.
+##### Вариант ответа 1
 
-- **Путешественник:** Как раз вовремя для чего? Чтобы поесть?
+- **Путешественник:** Как раз вовремя? Мне не нравится, как это прозвучало.
 
 **Паймон:** Это точно! Когда говорят «как раз вовремя», за этим всегда следуют весьма проблематичные просьбы... Путешественник, может, пойдём отсюда, пока не поздно?
 
 **Соши:** Пожалуйста, не уходите! У меня действительно есть просьба, но я обещаю, что она не доставит много хлопот! Кроме того, она... напрямую связана с госпожой Соруш.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Как раз вовремя для чего? Чтобы поесть?
+
 **Паймон:** Ура! Что сегодня подают?
 
 **Соши:** Еда? Если ты имеешь в виду пир в честь победы... то ещё рано. В общем, у меня есть просьба, и она тесно связана с госпожой Соруш...
 
-**Паймон:** Раз уж дело касается Соруш, мы выслушаем тебя.
-
-**Соши:** Замечательно! Прошу, следуйте за мной.
-
-**Паймон:** Нельзя ли поговорить здесь?
-
-**Соши:** Некоторые вещи легче понять, когда увидишь их собственными глазами.
-
-**Соши:** Госпожа Соруш и... вы...
-
-**Паймон:** Сейчас это неважно! Как вы, орден скептиков, могли так поступить?
-
-**Соши:** Как поступить? Хорошенько подумай, прежде чем продолжить.
-
-*Вы подробно рассказываете Соши о действиях Наседжуны...*
-
-**Соши:** Вот оно что... Но его действия выглядят, как высшая степень самовольства. Они идут вразрез с истинной целью ордена скептиков, но нельзя перекладывать ответственность за действия одного человека на весь орден.
-
-**Паймон:** Но ведь он виджнянапати. Вы собираетесь оставить всё как есть?
-
-**Соши:** Давай пока не будем обсуждать его неподобающее поведение. Я хочу узнать ваше мнение о более важном деле... оно касается госпожи Соруш.
+##### Общее продолжение
 
 **Паймон:** Раз уж дело касается Соруш, мы выслушаем тебя.
 
@@ -79,21 +64,49 @@
 
 **Паймон:** Мы нашли что-то очень странное...
 
-*Вы показываете Соши фрагменты монумента...*
+Вы показываете Соши фрагменты монумента...
 
 **Соши:** Это же! Вы как раз вовремя!
 
-- **Путешественник:** Как раз вовремя? Мне не нравится, как это прозвучало.
+##### Вариант ответа 1
 
-- **Путешественник:** Как раз вовремя для чего? Чтобы поесть?
+- **Путешественник:** Как раз вовремя? Мне не нравится, как это прозвучало.
 
 **Паймон:** Это точно! Когда говорят «как раз вовремя», за этим всегда следуют весьма проблематичные просьбы... Путешественник, может, пойдём отсюда, пока не поздно?
 
 **Соши:** Пожалуйста, не уходите! У меня действительно есть просьба, но я обещаю, что она не доставит много хлопот! Кроме того, она... напрямую связана с госпожой Соруш.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Как раз вовремя для чего? Чтобы поесть?
+
 **Паймон:** Ура! Что сегодня подают?
 
 **Соши:** Еда? Если ты имеешь в виду пир в честь победы... то ещё рано. В общем, у меня есть просьба, и она тесно связана с госпожой Соруш...
+
+##### Общее продолжение
+
+**Паймон:** Раз уж дело касается Соруш, мы выслушаем тебя.
+
+**Соши:** Замечательно! Прошу, следуйте за мной.
+
+**Паймон:** Нельзя ли поговорить здесь?
+
+**Соши:** Некоторые вещи легче понять, когда увидишь их собственными глазами.
+
+**Соши:** Госпожа Соруш и... вы...
+
+**Паймон:** Сейчас это неважно! Как вы, орден скептиков, могли так поступить?
+
+**Соши:** Как поступить? Хорошенько подумай, прежде чем продолжить.
+
+Вы подробно рассказываете Соши о действиях Наседжуны...
+
+**Соши:** Вот оно что... Но его действия выглядят, как высшая степень самовольства. Они идут вразрез с истинной целью ордена скептиков, но нельзя перекладывать ответственность за действия одного человека на весь орден.
+
+**Паймон:** Но ведь он виджнянапати. Вы собираетесь оставить всё как есть?
+
+**Соши:** Давай пока не будем обсуждать его неподобающее поведение. Я хочу узнать ваше мнение о более важном деле... оно касается госпожи Соруш.
 
 **Паймон:** Раз уж дело касается Соруш, мы выслушаем тебя.
 
@@ -109,7 +122,7 @@
 
 **Паймон:** Сначала нужно спросить о Наседжуне!
 
-*Вы подробно рассказываете Соши о действиях Наседжуны и показываете ей фрагменты монумента...*
+Вы подробно рассказываете Соши о действиях Наседжуны и показываете ей фрагменты монумента...
 
 **Соши:** Вот оно что... Но его действия выглядят, как высшая степень самовольства. Они идут вразрез с истинной целью ордена скептиков, но нельзя перекладывать ответственность за действия одного человека на весь орден.
 
@@ -125,18 +138,21 @@
 
 **Соши:** Некоторые вещи легче понять, когда увидишь их собственными глазами.
 
+#### Поговорите с Соши
 
 **Соши:** Хм? У тебя возникли вопросы?
 
-- **Путешественник:** Расскажи о монументе Хварны
+##### Вариант ответа 1
 
-- **Путешественник:** Расскажи об офицере Фатуи...
+- **Путешественник:** Расскажи о монументе Хварны
 
 **Соши:** Поверь, я честный человек, который лишь хочет узнать подлинное содержание надписи. В этом нет ничего дурного.
 
-**Соши:** Я поражена его силой... Хм, я имею в виду, что нахожу его отвратительным. Он должен поплатиться за свои козни на нашей территории...
+##### Вариант ответа 2
 
-#### Поговорите с Соши
+- **Путешественник:** Расскажи об офицере Фатуи...
+
+**Соши:** Я поражена его силой... Хм, я имею в виду, что нахожу его отвратительным. Он должен поплатиться за свои козни на нашей территории...
 
 **Паймон:** Что Соши хочет показать нам? Какие-то каменюки...
 
@@ -152,7 +168,7 @@
 
 **Паймон:** Ох...
 
-Звучит красиво, но какое отношение это имеет к нам?
+- **Путешественник:** Звучит красиво, но какое отношение это имеет к нам?
 
 **Паймон:** Да, нас не интересует обретение божественной силы.
 
@@ -162,7 +178,7 @@
 
 **Паймон:** Хм, ты права. Мы станем друзьями, как только Паймон вернёт должок, придумав тебе уродливое прозвище! Хе-хе.
 
-**Соруш:** Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить (путешественнице)(путешественнику) собрать фрагменты монумента?
+**Соруш:** Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить путешественнику собрать фрагменты монумента? / Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить путешественнице собрать фрагменты монумента?
 
 **Соши:** Вы очень проницательны, госпожа Соруш. Таков мой план.
 
@@ -180,13 +196,19 @@
 
 **Соши:** Первоначальный договор между нами, орденом скептиков, и пари, а также истинное имя каждой пари! Разве вам это не интересно?
 
+##### Вариант ответа 1
+
 - **Путешественник:** По правде говоря, мне тоже интересно это знать.
+
+**Соши:** Я знала, что признанный Соруш искатель приключений поймёт меня. / Я знала, что признанная Соруш искательница приключений поймёт меня.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Не особо. Кто старое помянет...
 
-**Соши:** Я знала, что (признанная)(признанный) Соруш искатель(ница) приключений поймёт меня.
-
 **Соши:** Тебя интересуют только сокровища, да... Впрочем, я тебя прекрасно понимаю...
+
+##### Общее продолжение
 
 **Соши:** Это официальное поручение. Уверяю, орден скептиков вас щедро вознаградит.
 
@@ -222,7 +244,7 @@
 
 **Паймон:** Ох...
 
-Звучит красиво, но какое отношение это имеет к нам?
+- **Путешественник:** Звучит красиво, но какое отношение это имеет к нам?
 
 **Паймон:** Да, нас не интересует обретение божественной силы.
 
@@ -232,7 +254,7 @@
 
 **Паймон:** Хм, ты права. Мы станем друзьями, как только Паймон вернёт должок, придумав тебе уродливое прозвище! Хе-хе.
 
-**Соруш:** Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить (путешественнице)(путешественнику) собрать фрагменты монумента?
+**Соруш:** Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить путешественнику собрать фрагменты монумента? / Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить путешественнице собрать фрагменты монумента?
 
 **Соши:** Вы очень проницательны, госпожа Соруш. Таков мой план.
 
@@ -240,17 +262,25 @@
 
 **Паймон:** Поиски - это не какое-то там посредственное занятие... На это не каждый способен. Для поисков нужно обладать множеством профессиональных навыков! Например... например...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хорошим зрением.
-
-- **Путешественник:** Умом.
-
-- **Путешественник:** Боевыми качествами.
 
 **Паймон:** Паймон полагает, что ты имеешь в виду исключительную наблюдательность.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Умом.
+
 **Паймон:** Да, нужно хорошо соображать, чтобы решать головоломки.
 
+##### Вариант ответа 3
+
+- **Путешественник:** Боевыми качествами.
+
 **Паймон:** Да, но только в самом крайнем случае!
+
+##### Общее продолжение
 
 **Паймон:** Найденные нами странные штуки должно быть и есть фрагменты монумента, о которых говорила Соши. Значит, это именно то, что ей нужно...
 
@@ -266,13 +296,19 @@
 
 **Соши:** Первоначальный договор между нами, орденом скептиков, и пари, а также истинное имя каждой пари! Разве вам это не интересно?
 
+##### Вариант ответа 1
+
 - **Путешественник:** По правде говоря, мне тоже интересно это знать.
+
+**Соши:** Я знала, что признанный Соруш искатель приключений поймёт меня. / Я знала, что признанная Соруш искательница приключений поймёт меня.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Не особо. Кто старое помянет...
 
-**Соши:** Я знала, что (признанная)(признанный) Соруш искатель(ница) приключений поймёт меня.
-
 **Соши:** Тебя интересуют только сокровища, да... Впрочем, я тебя прекрасно понимаю...
+
+##### Общее продолжение
 
 **Соши:** Это официальное поручение. Уверяю, орден скептиков вас щедро вознаградит.
 
@@ -294,6 +330,8 @@
 
 **Соши:** Ладно, достаточно болтовни. Я поручаю это дело вам, а сама останусь здесь и продолжу изучать записи. Я уверена, что благодаря поддержке госпожи Соруш всё сложится удачно.
 
+#### Выполните поручение Соши
+
 **Паймон:** Что Соши хочет показать нам? Какие-то каменюки...
 
 **Паймон:** Хм... Камень подвергся эрозии? Паймон не может разобрать, что здесь написано...
@@ -308,7 +346,7 @@
 
 **Паймон:** О... К слову, о фрагментах, мы нашли четыре странных предмета...
 
-Звучит красиво, но какое отношение это имеет к нам?
+- **Путешественник:** Звучит красиво, но какое отношение это имеет к нам?
 
 **Паймон:** Да, нас не интересует обретение божественной силы.
 
@@ -318,7 +356,7 @@
 
 **Паймон:** Хм, ты права. Мы станем друзьями, как только Паймон вернёт должок, придумав тебе уродливое прозвище! Хе-хе.
 
-**Соруш:** Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить (путешественнице)(путешественнику) собрать фрагменты монумента?
+**Соруш:** Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить путешественнику собрать фрагменты монумента? / Пф! Не будем пока говорить о неприемлемом поведении Паймон. Полагаю, ты намереваешься поручить путешественнице собрать фрагменты монумента?
 
 **Соши:** Вы очень проницательны, госпожа Соруш. Таков мой план. В конце концов, поиски - довольно посредственное занятие... Эм, то есть я хотела сказать...
 
@@ -326,17 +364,25 @@
 
 **Паймон:** Поиски - это не какое-то там посредственное занятие... На это не каждый способен. Для поисков нужно обладать множеством профессиональных навыков! Например... например...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хорошим зрением.
-
-- **Путешественник:** Умом.
-
-- **Путешественник:** Боевыми качествами.
 
 **Паймон:** Паймон полагает, что ты имеешь в виду исключительную наблюдательность.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Умом.
+
 **Паймон:** Да, нужно хорошо соображать, чтобы решать головоломки.
 
+##### Вариант ответа 3
+
+- **Путешественник:** Боевыми качествами.
+
 **Паймон:** Да, но только в самом крайнем случае!
+
+##### Общее продолжение
 
 **Паймон:** Мы не заинтересованы в обретении божественной силы, но Соши, ты хочешь, чтобы мы отдали тебе эти четыре фрагмента даром?
 
@@ -352,13 +398,19 @@
 
 **Соши:** Первоначальный договор между нами, орденом скептиков, и пари, а также истинное имя каждой пари! Разве вам это не интересно?
 
+##### Вариант ответа 1
+
 - **Путешественник:** По правде говоря, мне тоже интересно это знать.
+
+**Соши:** Я знала, что признанный Соруш искатель приключений поймёт меня. / Я знала, что признанная Соруш искательница приключений поймёт меня.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Не особо. Кто старое помянет...
 
-**Соши:** Я знала, что (признанная)(признанный) Соруш искатель(ница) приключений поймёт меня.
-
 **Соши:** Тебя интересуют только сокровища, да... Впрочем, я тебя прекрасно понимаю...
+
+##### Общее продолжение
 
 **Соши:** Ох... А если это будет официальным поручением? Вы будете передавать мне фрагменты, а орден скептиков будет выплачивать вам достойное вознаграждение.
 
@@ -380,19 +432,27 @@
 
 **Соши:** Пока они не усвоят урок и не отступят, я не смогу спокойно заниматься толкованием текстов... Я рассчитываю на вас!
 
+#### Выполните поручение Соши
+
 #### Поговорите с Соши
 
 **Соши:** Похоже, вы нашли все четыре фрагмента монумента. А что с Фатуи, которые хотят обрести божественную силу? Особенно их командир...
 
-- **Путешественник:** Он говорил странные вещи.
+##### Вариант ответа 1
 
-- **Путешественник:** Он был очень учтив.
+- **Путешественник:** Он говорил странные вещи.
 
 **Паймон:** И мы никак не смогли его образумить!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Он был очень учтив.
+
 **Паймон:** Да, но говорил что-то странное!
 
-**Соруш:** Не волнуйся. (Моя)(Мой) яснапати достойно проучил(а) их.
+##### Общее продолжение
+
+**Соруш:** Не волнуйся. Мой яснапати достойно проучил их. / Не волнуйся. Моя яснапати достойно проучила их.
 
 **Соши:** Если госпожа Соруш так говорит, я чувствую себя спокойнее.
 
@@ -406,7 +466,7 @@
 
 **Соши:** Как поступить? Хорошенько подумай, прежде чем продолжить.
 
-*Вы подробно рассказываете Соши о действиях Наседжуны...*
+Вы подробно рассказываете Соши о действиях Наседжуны...
 
 **Соши:** Вот оно что... Но его действия выглядят, как высшая степень самовольства. Они идут вразрез с истинной целью ордена скептиков, но нельзя перекладывать ответственность за действия одного человека на весь орден.
 
@@ -414,15 +474,21 @@
 
 **Соши:** Не будем вдаваться в подробности его неподобающего поведения. Меня больше беспокоят Фатуи, которые хотят обрести божественную силу? Особенно их командир...
 
-- **Путешественник:** Он говорил странные вещи.
+##### Вариант ответа 1
 
-- **Путешественник:** Он был очень учтив.
+- **Путешественник:** Он говорил странные вещи.
 
 **Паймон:** И мы никак не смогли его образумить!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Он был очень учтив.
+
 **Паймон:** Да, но говорил что-то странное!
 
-**Соруш:** Не волнуйся. (Моя)(Мой) яснапати достойно проучил(а) их.
+##### Общее продолжение
+
+**Соруш:** Не волнуйся. Мой яснапати достойно проучил их. / Не волнуйся. Моя яснапати достойно проучила их.
 
 **Соши:** Если госпожа Соруш так говорит, я чувствую себя спокойнее.
 
@@ -430,22 +496,29 @@
 
 **Соши:** Я предоставляю яснапати честь вернуть все фрагменты на их места. Уверена, госпожа Соруш не будет возражать.
 
-
 **Соши:** Фух... Нервничаю? Я? Я вовсе не нервничаю, просто очень... взволнована.
+
+#### Отдайте Соши фрагменты монумента
+
+#### Отдайте Соши фрагменты монумента
+
+#### Отдайте Соши фрагменты монумента
+
+#### Отдайте Соши фрагменты монумента
 
 #### Поговорите с Соши
 
-*Прежде чем Соши успевает приступить к изучению надписей на монументе Хварны, вы слышите шаги и знакомый голос...*
+Прежде чем Соши успевает приступить к изучению надписей на монументе Хварны, вы слышите шаги и знакомый голос...
 
 **Маркозов:** Вы! Не смейте!
 
 **Паймон:** А? Зачем это он сюда явился?
 
-**Маркозов:** Юноша / Девушка, вы не можете забрать у меня знания...
+**Маркозов:** Юноша, вы не можете забрать у меня знания... / Девушка, вы не можете забрать у меня знания...
 
 **Маркозов:** Я черпаю силы из знания. Только представьте, в кого я превращусь без знания... Я даже бабочку раздавить не смогу...
 
-Я ничего не забирал(а) у тебя.
+- **Путешественник:** Я ничего не забирал у тебя. / Я ничего не забирала у тебя.
 
 **Соруш:** Хм, а мы вам столько всего дали! Вы, люди, называете их знаками почёта, верно?
 
@@ -457,11 +530,15 @@
 
 **Паймон:** Мы не можем отдать ему Соруш!
 
+#### Одолейте противников
+
+#### Осмотрите монумент Хварны
+
 #### Поговорите с Соши
 
 **Паймон:** Он больше не вернётся, да...
 
-Так-то вознаграждается стремление к знаниям?..
+- **Путешественник:** Так-то вознаграждается стремление к знаниям?..
 
 **Паймон:** Паймон не думает, что это как-то связано!
 
@@ -469,13 +546,13 @@
 
 **Паймон:** Ух ты! Надписи проявились. Что там написано?
 
-*Соши несколько раз внимательно перечитывает слова, появившиеся на монументе Хварны, и, кажется, приходит к определённому выводу...*
+Соши несколько раз внимательно перечитывает слова, появившиеся на монументе Хварны, и, кажется, приходит к определённому выводу...
 
 **Соши:** Как такое возможно?..
 
 **Соруш:** Судя по тому, что её лицо стало похоже на сморщенный ствол дерева, я более чем уверена, что надпись не имеет никакого отношения к контрактам или божественным силам.
 
-Я не (удивлена)(удивлён).
+- **Путешественник:** Я не удивлён. / Я не удивлена.
 
 **Паймон:** Неужели Соши хотела втайне обрести божественную силу? Иначе почему она выглядит такой разочарованной?
 
@@ -503,9 +580,35 @@
 
 В записке, которую дала вам Соши, указано, где могут находиться фрагменты монумента. Поскольку простые смертные часто не в состоянии их различить, вам может понадобиться помощь Соруш...
 
+#### Займитесь поисками утраченных фрагментов монумента с помощью Соруш
+
+#### Займитесь поисками утраченных фрагментов монумента с помощью Соруш
+
+#### Займитесь поисками утраченных фрагментов монумента с помощью Соруш
+
+#### Займитесь поисками утраченных фрагментов монумента с помощью Соруш
+
+**Паймон:** Мы нашли все фрагменты, а значит оба поручения Соши выполнены. Давай разыщем её у монумента.
+
 ### Исследуйте отмеченный Соши лагерь Фатуи
 
 Судя по словам Соши, какие-то незваные гости, похоже, хотят завладеть божественной силой монумента. Может, они уйдут, если победить их командира...
+
+#### Исследуйте отмеченный Соши лагерь Фатуи
+
+#### Продолжайте исследование лагеря Фатуи
+
+#### Дождитесь полудня (10:00 - 14:00)
+
+#### Отправляйтесь в главный лагерь
+
+#### Идите по следам и ищите подсказки
+
+#### Одолейте противников
+
+#### Продолжайте поиск подсказок
+
+#### Продолжайте идти по следам и искать подсказки
 
 #### Поговорите с командиром Фатуи
 
@@ -513,19 +616,25 @@
 
 **Маркозов:** Пари? Пари! Просто потрясающе!
 
-**Маркозов:** А! Ещё здесь юный герой / юная героиня и его / её... питомец?
+**Маркозов:** А! Ещё здесь юный герой и его... питомец? / А! Ещё здесь юная героиня и её... питомец?
 
-**Паймон:** Эй! Следи за языком! Я его / её лучший друг!
+**Паймон:** Эй! Следи за языком! Я его лучший друг! / Эй! Следи за языком! Я её лучший друг!
 
 **Маркозов:** Друг... Ну конечно! «Лучший друг»... Так красиво звучит. С детства мечтал, чтобы у меня был «лучший друг»...
 
-**Маркозов:** Юный герой / Юная героиня, вам ведь не нужен ещё один лучший друг?
+**Маркозов:** Юный герой, вам ведь не нужен ещё один лучший друг? / Юная героиня, вам ведь не нужен ещё один лучший друг?
+
+##### Вариант ответа 1
 
 - **Путешественник:** О чём ты?
 
-- **Путешественник:** Я бы не отказался / отказалась.
+##### Вариант ответа 2
+
+- **Путешественник:** Я бы не отказался. / Я бы не отказалась.
 
 **Паймон:** Ни за что! Твоим лучшим другом может быть только Паймон!
+
+##### Общее продолжение
 
 **Маркозов:** Я хочу сказать... Не слишком справедливо, если у вас будет двое лучших друзей.
 
@@ -535,11 +644,13 @@
 
 **Паймон:** Доводов разума он не понимает, его не убедить!
 
-**Соруш:** Нам необязательно убеждать его словами... Мой мудрый / Моя мудрая яснапати, ты ведь понимаешь, о чём я?
+**Соруш:** Нам необязательно убеждать его словами... Мой мудрый яснапати, ты ведь понимаешь, о чём я? / Нам необязательно убеждать его словами... Моя мудрая яснапати, ты ведь понимаешь, о чём я?
 
 **Паймон:** О, Паймон поняла! Соруш хочет, чтобы мы его проучили!
 
 **Соруш:** Пф! Тише, Белая Болталка!
+
+#### Одолейте противников
 
 ## EN
 
@@ -547,42 +658,25 @@
 
 Sosi's research doesn't seem to be going well...
 
-
 **Sosi:** Lady Sorush, and the two of you as well. Perfect timing!
 
-- **Traveler:** Perfect timing...? I have a bad feeling about this.
+##### Response branch 1
 
-- **Traveler:** Perfect timing for what? Dinner?
+- **Traveler:** Perfect timing...? I have a bad feeling about this.
 
 **Paimon:** Yeah, you're right. When people say "perfect timing," it's always followed by really troublesome requests... Traveler, maybe we should make a run for it after she's done talking.
 
 **Sosi:** Um, please wait! I do have a request to make, but I promise it won't be too much work! Besides, the matter is actually... closely related to Lady Sorush.
 
+##### Response branch 2
+
+- **Traveler:** Perfect timing for what? Dinner?
+
 **Paimon:** Yay, dinner time! What should we get today?
 
 **Sosi:** Dinner? If you're referring to the victory feast... it's not time yet. Anyway, I do have a request to make, and it's closely related to Lady Sorush...
 
-**Paimon:** Well then... Since it has to do with Sorush, Paimon supposes we'll hear you out.
-
-**Sosi:** Wonderful! Please, come with me.
-
-**Paimon:** Is it something you can't say here?
-
-**Sosi:** No, it's just that some things are easier to understand after you've seen them yourselves.
-
-**Sosi:** Lady Sorush, and you two... You...
-
-**Paimon:** Never mind that for now! You Skeptics... how could you!
-
-**Sosi:** Us Skeptics? You might want to re-organize your thoughts before speaking up.
-
-*You tell Sosi in detail about what Nasejuna had done...*
-
-**Sosi:** Is that so... But the incident seems completely arbitrary. His actions have undoubtedly violated the Order of Skeptics' true purpose, so one shouldn't generalize that to the whole order.
-
-**Paimon:** But isn't he the uh, Vijnanapati? Are you really gonna let this slide?
-
-**Sosi:** Let's put his nonconforming deeds aside for now. There's something of higher importance I need your opinion on... and it has something to do with Lady Sorush.
+##### Shared continuation
 
 **Paimon:** Well then... Since it has to do with Sorush, Paimon supposes we'll hear you out.
 
@@ -600,21 +694,49 @@ Sosi's research doesn't seem to be going well...
 
 **Paimon:** We found some strange stuff...
 
-*You show Sosi the monument fragments...*
+You show Sosi the monument fragments...
 
 **Sosi:** Could this be...! Perfect timing!
 
-- **Traveler:** Perfect timing...? I have a bad feeling about this.
+##### Response branch 1
 
-- **Traveler:** Perfect timing for what? Dinner?
+- **Traveler:** Perfect timing...? I have a bad feeling about this.
 
 **Paimon:** Yeah, you're right. When people say "perfect timing," it's always followed by really troublesome requests... Traveler, maybe we should make a run for it after she's done talking.
 
 **Sosi:** Um, please wait! I do have a request to make, but I promise it won't be too much work! Besides, the matter is actually... closely related to Lady Sorush.
 
+##### Response branch 2
+
+- **Traveler:** Perfect timing for what? Dinner?
+
 **Paimon:** Yay, dinner time! What should we get today?
 
 **Sosi:** Dinner? If you're referring to the victory feast... it's not time yet. Anyway, I do have a request to make, and it's closely related to Lady Sorush...
+
+##### Shared continuation
+
+**Paimon:** Well then... Since it has to do with Sorush, Paimon supposes we'll hear you out.
+
+**Sosi:** Wonderful! Please, come with me.
+
+**Paimon:** Is it something you can't say here?
+
+**Sosi:** No, it's just that some things are easier to understand after you've seen them yourselves.
+
+**Sosi:** Lady Sorush, and you two... You...
+
+**Paimon:** Never mind that for now! You Skeptics... how could you!
+
+**Sosi:** Us Skeptics? You might want to re-organize your thoughts before speaking up.
+
+You tell Sosi in detail about what Nasejuna had done...
+
+**Sosi:** Is that so... But the incident seems completely arbitrary. His actions have undoubtedly violated the Order of Skeptics' true purpose, so one shouldn't generalize that to the whole order.
+
+**Paimon:** But isn't he the uh, Vijnanapati? Are you really gonna let this slide?
+
+**Sosi:** Let's put his nonconforming deeds aside for now. There's something of higher importance I need your opinion on... and it has something to do with Lady Sorush.
 
 **Paimon:** Well then... Since it has to do with Sorush, Paimon supposes we'll hear you out.
 
@@ -630,7 +752,7 @@ Sosi's research doesn't seem to be going well...
 
 **Paimon:** We should ask about Nasejuna first!
 
-*You tell Sosi in detail about what Nasejuna had done and show her the monument fragments you found...*
+You tell Sosi in detail about what Nasejuna had done and show her the monument fragments you found...
 
 **Sosi:** Is that so... But the incident seems completely arbitrary. His actions have undoubtedly violated the Order of Skeptics' true purpose, so one shouldn't generalize that to the whole order.
 
@@ -646,18 +768,21 @@ Sosi's research doesn't seem to be going well...
 
 **Sosi:** No, it's just that some things are easier to understand after you've seen them yourselves.
 
+#### Talk to Sosi
 
 **Sosi:** Hm? Do you have questions?
 
-- **Traveler:** About the Khvarena Monument.
+##### Response branch 1
 
-- **Traveler:** About the Fatui officer.
+- **Traveler:** About the Khvarena Monument.
 
 **Sosi:** Trust me, I'm a righteous person that only wishes to learn of the original contents of the inscription. There's nothing shady involved, I promise.
 
-**Sosi:** I'm envious of his strength... Ahem, I mean, I've been finding him an eyesore for a while now. He needs to pay the price for openly scheming on our territory...
+##### Response branch 2
 
-#### Talk to Sosi
+- **Traveler:** About the Fatui officer.
+
+**Sosi:** I'm envious of his strength... Ahem, I mean, I've been finding him an eyesore for a while now. He needs to pay the price for openly scheming on our territory...
 
 **Paimon:** What does Sosi want to show us? Isn't this just one big stone tablet?
 
@@ -673,7 +798,7 @@ Sosi's research doesn't seem to be going well...
 
 **Paimon:** Oh...
 
-Sounds nice and all, but what does that have to do with us?
+- **Traveler:** Sounds nice and all, but what does that have to do with us?
 
 **Paimon:** Yeah, we're not interested in obtaining the power of the gods.
 
@@ -701,13 +826,19 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** The initial contract between us Skeptics and the Pari, and every single Pari's true name! Isn't that enough to pique your interest?
 
-- **Traveler:** I gotta admit, I am a bit curious.
+##### Response branch 1
 
-- **Traveler:** Not really. It's not like I can memorize everything...
+- **Traveler:** I gotta admit, I am a bit curious.
 
 **Sosi:** I suppose that's no surprise, coming from an adventurer with Lady Sorush's recognition...
 
+##### Response branch 2
+
+- **Traveler:** Not really. It's not like I can memorize everything...
+
 **Sosi:** You're only interested in treasure, huh... Well, can't say I don't understand.
+
+##### Shared continuation
 
 **Sosi:** Anyway, this is a formal commission. Please be assured that you will be well compensated by the Order of Skeptics.
 
@@ -743,7 +874,7 @@ Sounds nice and all, but what does that have to do with us?
 
 **Paimon:** Oh...
 
-Sounds nice and all, but what does that have to do with us?
+- **Traveler:** Sounds nice and all, but what does that have to do with us?
 
 **Paimon:** Yeah, we're not interested in obtaining the power of the gods.
 
@@ -761,17 +892,25 @@ Sounds nice and all, but what does that have to do with us?
 
 **Paimon:** Searching isn't just some lowly task! It's not something anyone can do, because you gotta have lots of professional skills! For example... uh...
 
+##### Response branch 1
+
 - **Traveler:** A good vision.
-
-- **Traveler:** Intelligence.
-
-- **Traveler:** Battle prowess.
 
 **Paimon:** Paimon thinks you meant keen observation skills!
 
+##### Response branch 2
+
+- **Traveler:** Intelligence.
+
 **Paimon:** Yeah, there's lots of thinking involved when solving puzzles!
 
+##### Response branch 3
+
+- **Traveler:** Battle prowess.
+
 **Paimon:** Hey, that should only be the last resort!
+
+##### Shared continuation
 
 **Paimon:** The strange things we found must be the monument fragments Sosi's talking about, right? So these are the stuff she wants...
 
@@ -787,13 +926,19 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** The initial contract between us Skeptics and the Pari, and every single Pari's true name! Isn't that enough to pique your interest?
 
-- **Traveler:** I gotta admit, I am a bit curious.
+##### Response branch 1
 
-- **Traveler:** Not really. It's not like I can memorize everything...
+- **Traveler:** I gotta admit, I am a bit curious.
 
 **Sosi:** I suppose that's no surprise, coming from an adventurer with Lady Sorush's recognition...
 
+##### Response branch 2
+
+- **Traveler:** Not really. It's not like I can memorize everything...
+
 **Sosi:** You're only interested in treasure, huh... Well, can't say I don't understand.
+
+##### Shared continuation
 
 **Sosi:** Anyway, this is a formal commission. Please be assured that you will be well compensated by the Order of Skeptics.
 
@@ -815,6 +960,8 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** Okay, enough talk. I leave the matter in your hands while I stay here and continue reading up on relevant documents. With Lady Sorush accompanying you, I'm sure everything will go smoothly.
 
+#### Complete Sosi's commission
+
 **Paimon:** What does Sosi want to show us? Isn't this just one big stone tablet?
 
 **Paimon:** Hmm... did it get eroded? Paimon can't make out what's written on it...
@@ -829,7 +976,7 @@ Sounds nice and all, but what does that have to do with us?
 
 **Paimon:** Oh... Speaking of fragments, we did find four strange-looking things...
 
-Sounds nice and all, but what does that have to do with us?
+- **Traveler:** Sounds nice and all, but what does that have to do with us?
 
 **Paimon:** Yeah, we're not interested in obtaining the power of the gods.
 
@@ -839,7 +986,7 @@ Sounds nice and all, but what does that have to do with us?
 
 **Paimon:** Um, you do have a point. We'll be friends once Paimon returns the favor by coming up with an ugly nickname for you! Hehe.
 
-**Sorush:** Hmph! Paimon's disrespectful behavior aside, I assume you're planning to ask Traveler to hand the fragments he / she collected over to you?
+**Sorush:** Hmph! Paimon's disrespectful behavior aside, I assume you're planning to ask Traveler to hand the fragments he collected over to you? / Hmph! Paimon's disrespectful behavior aside, I assume you're planning to ask Traveler to hand the fragments she collected over to you?
 
 **Sosi:** That's very observant of you, Lady Sorush. I have indeed been planning to do so. Searching for things, after all, is quite a lowly task— Ahem, what I mean is...
 
@@ -847,17 +994,25 @@ Sounds nice and all, but what does that have to do with us?
 
 **Paimon:** Searching isn't just some lowly task! It's not something anyone can do, because you gotta have lots of professional skills! For example... uh...
 
+##### Response branch 1
+
 - **Traveler:** A good vision.
-
-- **Traveler:** Intelligence.
-
-- **Traveler:** Battle prowess.
 
 **Paimon:** Paimon thinks you meant keen observation skills!
 
+##### Response branch 2
+
+- **Traveler:** Intelligence.
+
 **Paimon:** Yeah, there's lots of thinking involved when solving puzzles!
 
+##### Response branch 3
+
+- **Traveler:** Battle prowess.
+
 **Paimon:** Hey, that should only be the last resort!
+
+##### Shared continuation
 
 **Paimon:** We're not very interested in obtaining a divine power or anything, but Sosi, you want us to give you these four fragments for free?
 
@@ -873,13 +1028,19 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** The initial contract between us Skeptics and the Pari, and every single Pari's true name! Isn't that enough to pique your interest?
 
-- **Traveler:** I gotta admit, I am a bit curious.
+##### Response branch 1
 
-- **Traveler:** Not really. It's not like I can memorize everything...
+- **Traveler:** I gotta admit, I am a bit curious.
 
 **Sosi:** I suppose that's no surprise, coming from an adventurer with Lady Sorush's recognition...
 
+##### Response branch 2
+
+- **Traveler:** Not really. It's not like I can memorize everything...
+
 **Sosi:** You're only interested in treasure, huh... Well, can't say I don't understand.
+
+##### Shared continuation
 
 **Sosi:** *sigh*...How about I make this a formal commission? As long as you're willing to hand over the fragments, you will be well compensated by the Order of Skeptics.
 
@@ -901,17 +1062,25 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** I really can't bring myself to proceed with my reading until they learn their lesson and retreat... So please, I'm counting on you!
 
+#### Complete Sosi's commission
+
 #### Talk to Sosi
 
 **Sosi:** It seems that you've found all four monument fragments. About the Fatui that covet the power of the gods, especially their commanding officer...
 
-- **Traveler:** He said some strange things.
+##### Response branch 1
 
-- **Traveler:** He was very polite.
+- **Traveler:** He said some strange things.
 
 **Paimon:** And we couldn't talk any sense into him at all!
 
+##### Response branch 2
+
+- **Traveler:** He was very polite.
+
 **Paimon:** Yeah, but it felt really weird!
+
+##### Shared continuation
 
 **Sorush:** Worry not. My Yasnapati has already taught them the lesson they deserve.
 
@@ -927,7 +1096,7 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** Us Skeptics? You might want to re-organize your thoughts before speaking up.
 
-*You tell Sosi in detail about what Nasejuna had done...*
+You tell Sosi in detail about what Nasejuna had done...
 
 **Sosi:** Is that so... But the incident seems completely arbitrary. His actions have undoubtedly violated the Order of Skeptics' true purpose, so one shouldn't generalize that to the whole order.
 
@@ -935,13 +1104,19 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** It's meaningless to delve further into his nonconforming deeds. I'm more concerned about the Fatui that covet the power of the gods, especially their commanding officer...
 
-- **Traveler:** He said some strange things.
+##### Response branch 1
 
-- **Traveler:** He was very polite.
+- **Traveler:** He said some strange things.
 
 **Paimon:** And we couldn't talk any sense into him at all!
 
+##### Response branch 2
+
+- **Traveler:** He was very polite.
+
 **Paimon:** Yeah, but it felt really weird!
+
+##### Shared continuation
 
 **Sorush:** Worry not. My Yasnapati has already taught them the lesson they deserve.
 
@@ -951,22 +1126,29 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** I'll place the honor of returning the fragments in our esteemed Yasnapati's hands, then. I'm sure that would suit your preference too, Lady Sorush.
 
-
 **Sosi:** Phew... Nervous? Me? I'm not nervous at all, simply very... excited.
+
+#### Place the monument fragments
+
+#### Place the monument fragments
+
+#### Place the monument fragments
+
+#### Place the monument fragments
 
 #### Talk to Sosi
 
-*Before Sosi takes a closer look at the inscriptions on the Khvarena Monument, you hear a jumble of footsteps and a somewhat familiar voice...*
+Before Sosi takes a closer look at the inscriptions on the Khvarena Monument, you hear a jumble of footsteps and a somewhat familiar voice...
 
 **Markozov:** You! Can't! Do that!
 
 **Paimon:** Huh? Why did he come all the way here?
 
-**Markozov:** You can't do that, young man / young lady. You can't take knowledge away from me.
+**Markozov:** You can't do that, young man. You can't take knowledge away from me. / You can't do that, young lady. You can't take knowledge away from me.
 
 **Markozov:** Knowledge is the source of my power! Oh, imagine how small and weak I'd be without knowledge... I wouldn't even be able to crush a butterfly's wings with my fist...
 
-I don't remember taking anything from you.
+- **Traveler:** I don't remember taking anything from you.
 
 **Sorush:** Hmph, and we've given you a lot! You humans call them "badges of honor," correct?
 
@@ -978,11 +1160,15 @@ I don't remember taking anything from you.
 
 **Paimon:** Traveler, we can't let him take Sorush!
 
+#### Defeat all opponents
+
+#### Investigate the Khvarena Monument
+
 #### Talk to Sosi
 
 **Paimon:** He won't come back anymore, right...
 
-Is that what you get for pursuing knowledge...
+- **Traveler:** Is that what you get for pursuing knowledge...
 
 **Paimon:** Uh, Paimon doesn't think they're related!
 
@@ -990,13 +1176,13 @@ Is that what you get for pursuing knowledge...
 
 **Paimon:** Whoa, it's really become clearer! What does it say?
 
-*Sosi carefully reads the words that have emerged on the Khvarena Monument several times and seems to have reached a conclusion...*
+Sosi carefully reads the words that have emerged on the Khvarena Monument several times and seems to have reached a conclusion...
 
 **Sosi:** How could this be...
 
 **Sorush:** From that look on her face akin to a shriveled tree trunk, I'm pretty sure the inscription has nothing to do with contracts or divine powers.
 
-Well, I'm not surprised.
+- **Traveler:** Well, I'm not surprised.
 
 **Paimon:** Was Sosi secretly wishing to obtain the power of the gods? Why would she look so disappointed otherwise?
 
@@ -1024,9 +1210,35 @@ Well, I'm not surprised.
 
 The note Sosi gave you marks the potential locations of the monument fragments. Because mere mortals often fail to discern its shape, you might need Sorush's help retrieving the fragments...
 
+#### Search for the lost monument fragments with Sorush's help
+
+#### Search for the lost monument fragments with Sorush's help
+
+#### Search for the lost monument fragments with Sorush's help
+
+#### Search for the lost monument fragments with Sorush's help
+
+**Paimon:** Now that we've found all the fragments, both of Sosi's commissions are complete! Let's go find her at the monument!
+
 ### Investigate the Fatui Camps Marked by Sosi
 
 According to Sosi, some uninvited guests seem to be coveting the divine powers of the monument. You might have to defeat their officer in order to drive them away...
+
+#### Investigate the Fatui camps marked by Sosi
+
+#### Investigate the next Fatui camp
+
+#### Wait until noon (10:00 – 14:00)
+
+#### Go to the main camp
+
+#### Follow the footprints and search for clues
+
+#### Defeat all opponents
+
+#### Continue forward and look for clues
+
+#### Continue following the footprints and look for clues
 
 #### Talk to the Fatui officer
 
@@ -1034,19 +1246,25 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **Markozov:** ...Pari? You're a Pari! Oh, what an amazing experience!
 
-**Markozov:** Oh! And there's also a wiry young man / little young lady with his / her... pet?
+**Markozov:** Oh! And there's also a wiry young man with his... pet? / Oh! And there's also a little young lady with her... pet?
 
-**Paimon:** Hey, watch what you say! Paimon's his / her best friend!
+**Paimon:** Hey, watch what you say! Paimon's his best friend! / Hey, watch what you say! Paimon's her best friend!
 
 **Markozov:** Friend... Why, of course! "Best friend"... What a beautiful sound! I've always wanted to have a "best friend" since childhood...
 
-**Markozov:** Wiry young man / Little young lady, you're certainly not in need of two best friends, are you?
+**Markozov:** Wiry young man, you're certainly not in need of two best friends, are you? / Little young lady, you're certainly not in need of two best friends, are you?
+
+##### Response branch 1
 
 - **Traveler:** What do you mean?
+
+##### Response branch 2
 
 - **Traveler:** I actually wouldn't mind.
 
 **Paimon:** No way! Only Paimon can be your best friend!
+
+##### Shared continuation
 
 **Markozov:** I mean... Even if you're the one having two best friends, don't you think it's a little unfair?
 
@@ -1062,48 +1280,33 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **Sorush:** Hmph! Silence, Pale Floater!
 
+#### Defeat all opponents
+
 ## ZH
 
 ### 碑铭的研究
 
 矫论团的索希的研究似乎并不顺利…
 
-
 **索希:** 斯露莎大人，还有两位，你们来得正好。
 
-- **旅行者:** 「来得正好」，听起来不妙。
+##### 对话分支 1
 
-- **旅行者:** 怎么，正好赶上吃饭吗？
+- **旅行者:** 「来得正好」，听起来不妙。
 
 **派蒙:** 这句话之后通常都会跟上麻烦的请求呢…旅行者，要不我们在她说完之前转身就跑吧？
 
 **索希:** 请、请留步！是请求没错，但也没那么麻烦，而且这事和斯露莎大人也有不浅的关系…
 
+##### 对话分支 2
+
+- **旅行者:** 怎么，正好赶上吃饭吗？
+
 **派蒙:** 好耶！开饭啦！今天我们吃什么？
 
 **索希:** 饭？什么饭？如果两位说的是庆功宴…现在应该还没到时候吧。总之我的确有事相求，并且此事与斯露莎大人也有不浅的关系…
 
-**派蒙:** 好吧，既然是和斯露莎有关的事，那我们就勉为其难地听一听。
-
-**索希:** 太好了，那就麻烦几位随我来吧。
-
-**派蒙:** 有什么话不能在这里说吗？
-
-**索希:** 那倒没有，只是有些东西，还是见到实物再解释会比较容易理解。
-
-**索希:** 斯露莎大人，还有两位，你们…
-
-**派蒙:** 先别管我们了，你们矫论团怎么可以这样！
-
-**索希:** 我们怎样？您不妨把话说得明白些。
-
-*详细说明了那先朱那的所作所为…*
-
-**索希:** 原来如此…不过那不过是他个人的独断专行，他的行为无疑已经违背了矫论团创立的初衷，自然也不能代表矫论团的意志。
-
-**派蒙:** 他好歹也是，呃，「识主大人」？这事真的可以就这么简单地过去吗…
-
-**索希:** 比起背道之人的恶行，我有更重要的事要同各位商量…是有关斯露莎大人的。
+##### 共同后续
 
 **派蒙:** 好吧，既然是和斯露莎有关的事，那我们就勉为其难地听一听。
 
@@ -1121,21 +1324,49 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 是这样，我们找到了奇怪的东西…
 
-*向索希出示了找到的碑文残片…*
+向索希出示了找到的碑文残片…
 
 **索希:** 这是…！各位来得正好啊！
 
-- **旅行者:** 「来得正好」，听起来不妙。
+##### 对话分支 1
 
-- **旅行者:** 怎么，正好赶上吃饭吗？
+- **旅行者:** 「来得正好」，听起来不妙。
 
 **派蒙:** 这句话之后通常都会跟上麻烦的请求呢…旅行者，要不我们在她说完之前转身就跑吧？
 
 **索希:** 请、请留步！是请求没错，但也没那么麻烦，而且这事和斯露莎大人也有不浅的关系…
 
+##### 对话分支 2
+
+- **旅行者:** 怎么，正好赶上吃饭吗？
+
 **派蒙:** 好耶！开饭啦！今天我们吃什么？
 
 **索希:** 饭？什么饭？如果两位说的是庆功宴…现在应该还没到时候吧。总之我的确有事相求，并且此事与斯露莎大人也有不浅的关系…
+
+##### 共同后续
+
+**派蒙:** 好吧，既然是和斯露莎有关的事，那我们就勉为其难地听一听。
+
+**索希:** 太好了，那就麻烦几位随我来吧。
+
+**派蒙:** 有什么话不能在这里说吗？
+
+**索希:** 那倒没有，只是有些东西，还是见到实物再解释会比较容易理解。
+
+**索希:** 斯露莎大人，还有两位，你们…
+
+**派蒙:** 先别管我们了，你们矫论团怎么可以这样！
+
+**索希:** 我们怎样？您不妨把话说得明白些。
+
+详细说明了那先朱那的所作所为…
+
+**索希:** 原来如此…不过那不过是他个人的独断专行，他的行为无疑已经违背了矫论团创立的初衷，自然也不能代表矫论团的意志。
+
+**派蒙:** 他好歹也是，呃，「识主大人」？这事真的可以就这么简单地过去吗…
+
+**索希:** 比起背道之人的恶行，我有更重要的事要同各位商量…是有关斯露莎大人的。
 
 **派蒙:** 好吧，既然是和斯露莎有关的事，那我们就勉为其难地听一听。
 
@@ -1151,7 +1382,7 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 在这之前，还得先问问那先朱那是怎么回事！
 
-*详细说明了那先朱那的所作所为，并出示了找到的碑文残片…*
+详细说明了那先朱那的所作所为，并出示了找到的碑文残片…
 
 **索希:** 原来如此…不过那不过是他个人的独断专行，他的行为无疑已经违背了矫论团创立的初衷，自然也不能代表矫论团的意志。
 
@@ -1167,18 +1398,21 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 那倒没有，只是有些东西，还是见到实物再解释会比较容易理解。
 
+#### 与索希对话
 
 **索希:** 怎么了，还有什么事吗？
 
-- **旅行者:** 关于灵光碑。
+##### 对话分支 1
 
-- **旅行者:** 关于愚人众的长官。
+- **旅行者:** 关于灵光碑。
 
 **索希:** 我是正直的人，只是出于纯粹的求知欲想要知道碑文的原本内容，绝没有什么见不得光的卑劣想法。
 
-**索希:** 我非常羡慕他的体格…不是，我早就看他不顺眼了。跑到我们的地盘上别有企图…这样的家伙必须让他们吃到教训才行。
+##### 对话分支 2
 
-#### 与索希对话
+- **旅行者:** 关于愚人众的长官。
+
+**索希:** 我非常羡慕他的体格…不是，我早就看他不顺眼了。跑到我们的地盘上别有企图…这样的家伙必须让他们吃到教训才行。
 
 **派蒙:** 索希到底想让我们看什么呢？这不就是普通的石碑吗？
 
@@ -1194,7 +1428,7 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 哦…
 
-说得很好，可是跟我们有什么关系？
+- **旅行者:** 说得很好，可是跟我们有什么关系？
 
 **派蒙:** 对呀，我们对什么「比肩神明之力」又没兴趣。
 
@@ -1222,13 +1456,19 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 我等矫论团与花灵之间的最初的契约！还有全部花灵的真名！难道你们不好奇吗？
 
-- **旅行者:** 确实有点好奇。
+##### 对话分支 1
 
-- **旅行者:** 还好吧，反正也记不住…
+- **旅行者:** 确实有点好奇。
 
 **索希:** 不愧是斯露莎大人认可的冒险家。
 
+##### 对话分支 2
+
+- **旅行者:** 还好吧，反正也记不住…
+
 **索希:** 果然是只对财宝有兴趣吗…虽然也不是不能理解。
+
+##### 共同后续
 
 **索希:** 不管怎么说，此事作为正式的委托，矫论团会提供一定的报酬。
 
@@ -1264,7 +1504,7 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 哦…
 
-说得很好，可是跟我们有什么关系？
+- **旅行者:** 说得很好，可是跟我们有什么关系？
 
 **派蒙:** 对呀，我们对什么「比肩神明之力」又没兴趣。
 
@@ -1282,17 +1522,25 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 寻物才不是什么没有技术含量的工作呢！那可不是一般人能应付得来的工作，需要很多专业的能力！比如…比如…
 
+##### 对话分支 1
+
 - **旅行者:** 视力。
-
-- **旅行者:** 智力。
-
-- **旅行者:** 武力。
 
 **派蒙:** 我猜你是想说敏锐的观察力！
 
+##### 对话分支 2
+
+- **旅行者:** 智力。
+
 **派蒙:** 有些谜题确实得费一番脑筋呢！
 
+##### 对话分支 3
+
+- **旅行者:** 武力。
+
 **派蒙:** 这应该是最后的手段吧！
+
+##### 共同后续
 
 **派蒙:** 我们之前找到的奇怪的东西就是索希说的碑文残片对吧？所以说索希想要这个东西…
 
@@ -1308,13 +1556,19 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 我等矫论团与花灵之间的最初的契约！还有全部花灵的真名！难道你们不好奇吗？
 
-- **旅行者:** 确实有点好奇。
+##### 对话分支 1
 
-- **旅行者:** 还好吧，反正也记不住…
+- **旅行者:** 确实有点好奇。
 
 **索希:** 不愧是斯露莎大人认可的冒险家。
 
+##### 对话分支 2
+
+- **旅行者:** 还好吧，反正也记不住…
+
 **索希:** 果然是只对财宝有兴趣吗…虽然也不是不能理解。
+
+##### 共同后续
 
 **索希:** 不管怎么说，此事作为正式的委托，矫论团会提供一定的报酬。
 
@@ -1336,6 +1590,8 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 不管怎么说，有劳了，我会在这里继续解读相关文献。两位有斯露莎大人为伴，想必会一切顺利的。
 
+#### 完成索希的委托
+
 **派蒙:** 索希到底想让我们看什么呢？这不就是普通的石碑吗？
 
 **派蒙:** 唔…是磨损了吗？看不太清上面写了什么…
@@ -1350,7 +1606,7 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 哦…说起来，我们的确是找到了四个奇怪的东西…
 
-说得很好，可是跟我们有什么关系？
+- **旅行者:** 说得很好，可是跟我们有什么关系？
 
 **派蒙:** 对呀，我们对什么「比肩神明之力」又没兴趣。
 
@@ -1360,7 +1616,7 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 唔…只有斯露莎单方面给我起绰号确实不算混熟了，应该礼尚往来，我也给斯露莎起一个难听的绰号，这样就对了！嘿嘿。
 
-**斯露莎:** 哼，派蒙不敬之事姑且放在一边…人类，你是想要旅行者交出他 / 她所收集到的碑文残片？
+**斯露莎:** 哼，派蒙不敬之事姑且放在一边…人类，你是想要旅行者交出他所收集到的碑文残片？ / 哼，派蒙不敬之事姑且放在一边…人类，你是想要旅行者交出她所收集到的碑文残片？
 
 **索希:** 斯露莎大人明鉴，的确是有这样的想法。毕竟寻物这类没什么技术含量…咳，我是说…
 
@@ -1368,17 +1624,25 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 寻物才不是什么没有技术含量的工作呢！那可不是一般人能应付得来的工作，需要很多专业的能力！比如…比如…
 
+##### 对话分支 1
+
 - **旅行者:** 视力。
-
-- **旅行者:** 智力。
-
-- **旅行者:** 武力。
 
 **派蒙:** 我猜你是想说敏锐的观察力！
 
+##### 对话分支 2
+
+- **旅行者:** 智力。
+
 **派蒙:** 有些谜题确实得费一番脑筋呢！
 
+##### 对话分支 3
+
+- **旅行者:** 武力。
+
 **派蒙:** 这应该是最后的手段吧！
+
+##### 共同后续
 
 **派蒙:** 虽然对神力什么的没什么兴趣，但是索希是想要我们白白交出手上的这四个碑文残片对吧？
 
@@ -1394,13 +1658,19 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 我等矫论团与花灵之间的最初的契约！还有全部花灵的真名！难道你们不好奇吗？
 
-- **旅行者:** 确实有点好奇。
+##### 对话分支 1
 
-- **旅行者:** 还好吧，反正也记不住…
+- **旅行者:** 确实有点好奇。
 
 **索希:** 不愧是斯露莎大人认可的冒险家。
 
+##### 对话分支 2
+
+- **旅行者:** 还好吧，反正也记不住…
+
 **索希:** 果然是只对财宝有兴趣吗…虽然也不是不能理解。
+
+##### 共同后续
 
 **索希:** 唉…不如这样，此事作为正式的委托，只要各位愿意将碑文残片交出，矫论团将会提供一定的报酬。
 
@@ -1422,17 +1692,25 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 在他们吃到教训退去以前，实在无法安心开展解读文献的工作…此事就拜托各位了！
 
+#### 完成索希的委托
+
 #### 与索希对话
 
 **索希:** 看来四枚碑文残片已经尽数找回了？关于觊觎神力的愚人众，特别是他们的长官…
 
-- **旅行者:** 是个说怪话的家伙…
+##### 对话分支 1
 
-- **旅行者:** 是个说话很礼貌的人。
+- **旅行者:** 是个说怪话的家伙…
 
 **派蒙:** 而且根本讲不通道理呢！
 
+##### 对话分支 2
+
+- **旅行者:** 是个说话很礼貌的人。
+
 **派蒙:** 很礼貌…但是很怪！
+
+##### 共同后续
 
 **斯露莎:** 无需担心，吾之「谒颂主」已经让他们吃到了当吃的教训。
 
@@ -1448,7 +1726,7 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 我们怎样？您不妨把话说得明白些。
 
-*详细说明了那先朱那的所作所为…*
+详细说明了那先朱那的所作所为…
 
 **索希:** 原来如此…不过那不过是他个人的独断专行，他的行为无疑已经违背了矫论团创立的初衷，自然也不能代表矫论团的意志。
 
@@ -1456,13 +1734,19 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 关于背道之人的恶行，我的评价已经没有意义。现在我更关心的是觊觎神力的愚人众，特别是他们的长官…
 
-- **旅行者:** 是个说怪话的家伙…
+##### 对话分支 1
 
-- **旅行者:** 是个说话很礼貌的人。
+- **旅行者:** 是个说怪话的家伙…
 
 **派蒙:** 而且根本讲不通道理呢！
 
+##### 对话分支 2
+
+- **旅行者:** 是个说话很礼貌的人。
+
 **派蒙:** 很礼貌…但是很怪！
+
+##### 共同后续
 
 **斯露莎:** 无需担心，吾之「谒颂主」已经让他们吃到了当吃的教训。
 
@@ -1472,22 +1756,29 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 这份光荣的工作就交给「谒颂主」阁下来完成吧，想必这样也更符合斯露莎大人的心意。
 
-
 **索希:** 呼…紧张？我？我没有紧张，只是有点…激动。
+
+#### 交付碑文残片
+
+#### 交付碑文残片
+
+#### 交付碑文残片
+
+#### 交付碑文残片
 
 #### 与索希对话
 
-*不等索希仔细研读灵光碑上的文字，就听到不远处传来一阵杂乱的脚步声，以及有些熟悉的声音…*
+不等索希仔细研读灵光碑上的文字，就听到不远处传来一阵杂乱的脚步声，以及有些熟悉的声音…
 
 **马尔科佐夫:** 您！不能！这样做！
 
 **派蒙:** 啊！这家伙怎么追到这里来了？
 
-**马尔科佐夫:** 小伙子 / 小姑娘，您不能这样做，您不能从我身上夺走知识…
+**马尔科佐夫:** 小伙子，您不能这样做，您不能从我身上夺走知识… / 小姑娘，您不能这样做，您不能从我身上夺走知识…
 
 **马尔科佐夫:** 知识就是力量！没有了知识的我是何等的无力和弱小啊…我的拳头，就连蝴蝶的翅膀也无法碾碎…
 
-我应该没夺走任何东西吧？
+- **旅行者:** 我应该没夺走任何东西吧？
 
 **斯露莎:** 哼，不仅如此，还给你添了不少东西呢…「荣誉的勋章」，按尔等人类的用语，应该是这样说的吧。
 
@@ -1499,11 +1790,15 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 旅行者，我们可不能把斯露莎交给他！
 
+#### 击退敌人
+
+#### 调查灵光碑
+
 #### 与索希对话
 
 **派蒙:** 这下他应该不会回来了吧…
 
-这就是追求知识的下场吗…
+- **旅行者:** 这就是追求知识的下场吗…
 
 **派蒙:** 应该和这个没关系吧！
 
@@ -1511,13 +1806,13 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **派蒙:** 这下真的能看清了！不过上面都说了些什么呢？
 
-*索希反复研读了灵光碑上显现的文字后，得出了结论…*
+索希反复研读了灵光碑上显现的文字后，得出了结论…
 
 **索希:** 怎么会这样…
 
 **斯露莎:** 看她那副好像缺水萎缩的树干的模样，想必是和什么契约啊神力啊都没关系的内容。
 
-我怎么一点也不意外呢。
+- **旅行者:** 我怎么一点也不意外呢。
 
 **派蒙:** 难道索希真的想靠灵光碑获得比肩神明的力量吗？要不然也不会这么失望。
 
@@ -1545,9 +1840,35 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 索希提供的笔记上记录了碑文残片可能所在的地点，据说凡人难以辨明其形，要取回残片，或许需要斯露莎的帮助…
 
+#### 根据线索搜寻散失的碑文残片
+
+#### 根据线索搜寻散失的碑文残片
+
+#### 根据线索搜寻散失的碑文残片
+
+#### 根据线索搜寻散失的碑文残片
+
+**派蒙:** 这下散失的碑文残片也全都找到啦，两件委托都完成了，我们回石碑那儿找索希吧！
+
 ### 调查索希标记的愚人众营地
 
 据索希说，有些不速之客似乎觊觎着石碑的神力，或许需要击退他们的长官，让他们知难而退…
+
+#### 调查索希标记的愚人众营地
+
+#### 继续调查下一个愚人众营地
+
+#### 等待至正午（10~14点）
+
+#### 前往主营地
+
+#### 循着脚印寻找线索
+
+#### 击退敌人
+
+#### 继续向前寻找线索
+
+#### 继续循着脚印寻找线索
 
 #### 与愚人众长官对话
 
@@ -1555,19 +1876,25 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **马尔科佐夫:** 花灵？花灵！多么新奇的体验啊！
 
-**马尔科佐夫:** 哦！还有精干的少年 / 小小的女士和他的 / 她的…宠物？
+**马尔科佐夫:** 哦！还有精干的少年和他的…宠物？ / 哦！还有小小的女士和她的…宠物？
 
-**派蒙:** 哇！你这家伙也太失礼了！我可是他 / 她最好的伙伴！
+**派蒙:** 哇！你这家伙也太失礼了！我可是他最好的伙伴！ / 哇！你这家伙也太失礼了！我可是她最好的伙伴！
 
 **马尔科佐夫:** 伙伴…当然，当然！最好的伙伴，多么动听的词汇！我从孩提时代起就盼望着能有这样一个「最好的伙伴」…
 
-**马尔科佐夫:** 精干的少年 / 小小的女士，您应该不需要两个「最好的伙伴」吧？
+**马尔科佐夫:** 精干的少年，您应该不需要两个「最好的伙伴」吧？ / 小小的女士，您应该不需要两个「最好的伙伴」吧？
+
+##### 对话分支 1
 
 - **旅行者:** 什么意思…
+
+##### 对话分支 2
 
 - **旅行者:** 倒是不介意有更多伙伴。
 
 **派蒙:** 那怎么行！不行不行，「最好的」伙伴只能是派蒙！
+
+##### 共同后续
 
 **马尔科佐夫:** 我的意思是…太奢侈了！即便是对您来说。
 
@@ -1582,3 +1909,5 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 **派蒙:** 我猜斯露莎是说，给他点颜色瞧瞧！
 
 **斯露莎:** 哼，不用白飘飘多话！
+
+#### 击退敌人

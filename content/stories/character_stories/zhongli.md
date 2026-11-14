@@ -273,3 +273,952 @@ What, then, must the Cryo Archon have wagered to balance the scales?
 对千百年来签下千百「契约」的岩神而言，如此重要的契约，必定是有利可图才会考虑吧。
 现在，岩之神已将自己的「神之心」作为代价送出。
 冰之神究竟是押上何种筹码，才使交易的天平达到了平衡呢？
+
+# voice_source_ids: 17100,17101,17102,17103,17104,17105,17106,17107,17108,17109,17110,17111,17112,17113,17114,17115,17116,17117,17118,17119,17120,17121,17122,17123,17124,17125,17126,17127,17128,17129,17130,17131,17132,17133,17134,17135,17136,17137,17138,17139,17140,17141,17142,17143,17144,17145,17146,17147,17148,17149,17150,17151,17152,17153,17154,17155,17156,17157,17158,17159,17160,17161,17162,17163,17164,17165,17166,17167,17168,17169,17170,17171,17172,17173,17174,17175,17176
+
+## REPLICAS_RU
+
+### Привет...
+
+Новый контракт? Что ж, хорошо... Хотя я всё ещё в отпуске, я могу составить тебе компанию один раз. Каким именем мне подписать наше соглашение? У меня много имён... Отпуск я провожу под именем «Чжун Ли». А каким именем подпишешь контракт ты, путешественник? / Новый контракт? Что ж, хорошо... Хотя я всё ещё в отпуске, я могу составить тебе компанию один раз. Каким именем мне подписать наше соглашение? У меня много имён... Отпуск я провожу под именем «Чжун Ли». А каким именем подпишешь контракт ты, путешественница?
+
+### Поболтаем: Путешествия
+
+Все пути однажды приведут к концу. Не стоит торопиться.
+
+### Поболтаем: Туры
+
+Куда направимся? Если хочешь посмотреть на достопримечательности Ли Юэ, то у меня есть несколько неплохих вариантов.
+
+### Поболтаем: Ли Юэ
+
+Корабли созданы, чтобы перевозить товары по морям. Они с удовольствием бросают якорь в гавани Ли Юэ. Поэтому здесь оседают богатства.
+
+### Поболтаем: Воспоминания
+
+Вкус вина из османтуса не изменился... Но где же те, кто разделит воспоминания?
+
+### После дождя...
+
+Стеклянные колокольчики предпочитают сырую погоду, их лучше всего собирать после дождя. Если встретишь эти цветы, собери несколько впрок.
+
+### Когда идёт снег...
+
+Давай найдём место, где можно спрятаться от снега. Мне всё равно, но вот ты можешь простудиться.
+
+### Когда дует сильный ветер...
+
+Хм... Не лучшая погода для отпуска. Пойдём в театр, послушаем оперу.
+
+### Доброе утро...
+
+Надеюсь, экономическая ситуация сегодня будет благоприятна.
+
+### Добрый день...
+
+Хочешь поесть, чтобы взбодриться? Хм. На горе Тигра есть неплохой ресторан...
+
+### Добрый вечер...
+
+Хотя к этому времени постановки госпожи Юнь уже заканчиваются, в ночном Ли Юэ есть много других мест, стоящих того, чтобы их посетить.
+
+### Спокойной ночи...
+
+Рынок закрыт, спит причал крепким сном. Иди и ты отдохни.
+
+### О Чжун Ли...
+
+Нет жизни без правил. Будь то Адепт или простой смертный, каждый должен выполнять свою работу. Вот почему в Ли Юэ царит спокойствие.
+
+### О нас: Золото
+
+Золото - это богатство Ли Юэ, это кровь, которая заставляет биться сердце города. Сияет ли золотом твоё сердце?.. Время покажет.
+
+### О нас: Соглашение
+
+Между нами существует контракт, и в его рамках ты можешь обратиться ко мне с чем угодно.
+
+### О нас: Честность
+
+Впрочем, мы можем обсудить и дела, не входящие в рамки контракта. В конце концов я давно живу на этой земле и знаю многие вещи. В то же время я надеюсь, что и ты сможешь помочь мне. Ведь так будет справедливо.
+
+### О нас: Недоразумение
+
+Контракт не может определить границы дружбы, не может исчислить её в какой-либо величине. Так как нам измерить те отношения, что возникли между нами? Ты знаешь ответ на этот вопрос, мой друг?
+
+### Глаз Бога...
+
+Глаз Бога... Это тоже своего рода «контракт». Нужно понимать, что всё имеет свою цену. С великой силой приходит большая ответственность.
+
+### Давай поделимся...
+
+Торговля - это и правила, и справедливость. Это то, о чём не должны забывать заключающие контракт: лишённый справедливости, договор превращается в свидетельство обмана.
+
+### Интересные вещи...
+
+Если ты направляешься в Заоблачный предел, будь добр, принеси мне цветы цинсинь. Да, букета будет достаточно. Что касается расходов на дорогу... А, чуть не забыл, в период действия контракта все путевые расходы ложатся на тебя. Благодарю за любезность. / Если ты направляешься в Заоблачный предел, будь добра, принеси мне цветы цинсинь. Да, букета будет достаточно. Что касается расходов на дорогу... А, чуть не забыл, в период действия контракта все путевые расходы ложатся на тебя. Благодарю за любезность.
+
+### О Сяо...
+
+Говоришь, юный Адепт из долины Гуйли... Хм... Он и поныне беспрекословно исполняет свои обязанности... Пожалуйста, передай ему от меня это лекарство. Ах да, ни в коем случае не давай малышке Паймон съесть его. Это лекарство... Слишком сильное для простых смертных.
+
+### О Венти...
+
+Хм... Я чую винный перегар. Здесь только что был этот бард, да? Этот пьяница - позор для искусства... Постой, ты невнятно говоришь. Он и тебя обманом напоил?.. Подожди, я заварю для тебя освежающий чай. Через шесть часов будет готов... Подожди, хорошо?
+
+### О Нин Гуан...
+
+Хотя Нин Гуан приходится заботиться о множестве дел каждый день, она продолжает идти вперёд. Это такая редкость. Напоминает мне те времена, когда она босиком шла с отмели Яогуан на южный причал и продавала по дороге свои товары. Время не щадит смертных...
+
+### О Ху Тао...
+
+Нынешняя хозяйка ритуального бюро? Кхм, я не справляюсь с этим ребёнком.
+
+### О Тарталье: Хладнокровие
+
+Тот пройдоха из Снежной ещё не покинул Ли Юэ? Ничего страшного. Если он будет докучать, позови меня, я с ним справлюсь.
+
+### О Тарталье: Ужин
+
+Я слышал, что репутация Чайльда среди Фатуи пошатнулась. Но таким, как он, не составляет труда свергнуть недовольных. Хм... Похоже, когда мы вновь соберёмся за одним столом, нас ждёт много интересных историй. Путешественник, ты присоединишься к нам? / Я слышал, что репутация Чайльда среди Фатуи пошатнулась. Но таким, как он, не составляет труда свергнуть недовольных. Хм... Похоже, когда мы вновь соберёмся за одним столом, нас ждёт много интересных историй. Путешественница, ты присоединишься к нам?
+
+### О Гань Юй...
+
+Процветание Ли Юэ основано не только на провидении Властелина Камня, но и на людях, заключивших с ним контракт. Среди них Гань Юй дольше всех исполняет свои обязанности. Что касается её прошлого... Пусть она расскажет сама. Боюсь, что мой рассказ будет не столь тактичным по отношению к ней.
+
+### О Кэ Цин...
+
+В группировке Цисин она меньше всех проявляет уважение к богам, но я восхищаюсь такими людьми. «Громко заявлять о том, что правильно, и неуклонно двигаться вперёд» - раз в Ли Юэ есть мыслящие так люди, я могу спокойно задуматься об уходе от дел.
+
+### О Янь Фэй...
+
+Она не заключала со мной контракт, но она поддерживает порядок в Ли Юэ, исправляет несправедливость и искореняет предрассудки. Если её отец однажды вернётся из долгого путешествия, думаю, он будет ещё более доволен ею, чем я.
+
+### Узнать больше о Чжун Ли I
+
+Тебе редко выпадает возможность отдохнуть, но, вместо того, чтобы ею воспользоваться, ты приходишь ко мне. Хочешь послушать мои истории?
+
+### Узнать больше о Чжун Ли II
+
+Знаешь, как появилась кузница Черногорья? 
+В далёком прошлом люди добывали руду в горах Тяньхэн и сооружали там цеха для работы с ней. Постепенно они отстроили крупнейший завод на восточном побережье континента. В горах осталось множество дорог и туннелей, и некоторые из них ведут к древним руинам, что погребены глубоко под землёй. Сейчас, пожалуй, не осталось никого, кто знал бы все эти пути.
+
+### Узнать больше о Чжун Ли III
+
+А знаешь ли ты историю Праздника морских фонарей? 
+Во времена древней войны по ночам люди запускали ярко горящие фонари, чтобы отчаянно сражавшиеся на полях брани солдаты не забыли дорогу домой и чтобы сердца их не забывали о доброте. Наверное, сейчас никто уже не помнит об этом.
+
+### Узнать больше о Чжун Ли IV
+
+Ты слышал, что говорят о боге контрактов? 
+У него прекрасная память. Он помнит имя каждого соперника и даты спуска на воду всех созданных на верфи Ли Юэ кораблей. В конце концов только обладатель такой памяти может хранить в ней все контракты до последней буквы. 
+Но... не все воспоминания приносят радость. / Ты слышала, что говорят о боге контрактов? 
+У него прекрасная память. Он помнит имя каждого соперника и даты спуска на воду всех созданных на верфи Ли Юэ кораблей. В конце концов только обладатель такой памяти может хранить в ней все контракты до последней буквы. 
+Но... не все воспоминания приносят радость.
+
+### Узнать больше о Чжун Ли V
+
+Удел тех, кто живёт слишком долго - искать в памяти образы друзей из давних времён и вспоминать пейзажи прошлого. 
+Но я всё равно не жалею, что встретил тебя, друг мой. Если однажды нам придётся расстаться, в моей памяти ты всегда будешь сиять, как золото.
+
+### Хобби Чжун Ли...
+
+Люблю прогуляться по городу на досуге. Такие прогулки расслабляют и развеивают тревоги... Хм. С каких это пор меня посещают такие чувства?
+
+### Беспокойство Чжун Ли...
+
+Я сделал так, чтобы люди руководствовались контрактами и прописанными в них правилами, в надежде, что благодаря этому они начнут руководствоваться и понятием справедливости. Это совсем не сложно. Вот только всегда остаются люди, которые этого не осознают.
+
+### Любимая еда...
+
+Давным-давно я пил вино с друзьями. Как жаль, что я больше не могу насладиться тем мягким вкусом. Хм, возможно, это из-за изменения климата?
+
+### Нелюбимая еда...
+
+Я не люблю морепродукты. Как только я их вижу, тут же возникает это ощущение чего-то липкого, скользкого, вспоминается запах сырой рыбы, который ничем не вытравить... Спрашиваешь, почему такие ассоциации? 
+Долгая история. Просто у меня слишком хорошая память.
+
+### День рождения...
+
+С днём рождения. Это засушенные цветы глазурной лилии, распустившейся в тот день, когда ты родился. 
+В давние времена жители Ли Юэ говорили, что эти цветы впитывают прекрасные воспоминания и молитвы земли, на которой распустились. Мне хочется верить, что твоё рождение подобно их цветению. / С днём рождения. Это засушенные цветы глазурной лилии, распустившейся в тот день, когда ты родилась. 
+В давние времена жители Ли Юэ говорили, что эти цветы впитывают прекрасные воспоминания и молитвы земли, на которой распустились. Мне хочется верить, что твоё рождение подобно их цветению.
+
+### Чувство возвышения: Начало
+
+Кажется, прежние силы начинают возвращаться ко мне. Это немного, но лучше, чем ничего.
+
+### Чувство возвышения: Нарастание
+
+Сила растёт, и с ней увеличивается нагрузка на физическое тело... О, не волнуйся, моя конституция отличается от той, что присуща простым смертным. Я буду в порядке.
+
+### Чувство возвышения: Кульминация
+
+Оказывается, управлять элементами через Глаз Бога - сложная задача для простого смертного. Вот как... В те времена они осознавали это и всё равно стояли со мной плечом к плечу...
+
+### Чувство возвышения: Окончание
+
+Я и не думал, что, отдав Сердце Бога, ещё смогу увидеть такую картину. Спасибо тебе, друг мой. Ах, да, у меня есть новый контракт... Посмотрим вместе?
+
+### Элементальный навык I
+
+Подъём!
+
+### Элементальный навык II
+
+Встряска!
+
+### Элементальный навык III
+
+В крошку!
+
+### Элементальный навык IV
+
+Сбор!
+
+### Элементальный навык V
+
+Стабилизация!
+
+### Элементальный навык VI
+
+Закрепление!
+
+### Взрыв стихии I
+
+Следуй приказу.
+
+### Взрыв стихии II
+
+Это приказ.
+
+### Взрыв стихии III
+
+Приказывать буду я!
+
+### Открытие сундука I
+
+Что для одного - мусор, для другого - сокровище.
+
+### Открытие сундука II
+
+Неожиданно... И потому более ценно.
+
+### Открытие сундука III
+
+Путь того стоил.
+
+### Низкий уровень HP I
+
+Я вижу твою мощь.
+
+### Низкий уровень HP II
+
+Ха, это уже интересно!
+
+### Низкий уровень HP III
+
+Срочные контрмеры - это не моё.
+
+### Низкий уровень HP компаньона I
+
+Не нападай опрометчиво.
+
+### Низкий уровень HP компаньона II
+
+Отдохни. Предоставь это мне.
+
+### Без сознания I
+
+Ох... я слегка... не в себе...
+
+### Без сознания II
+
+Тебе нельзя смотреть на меня в таком виде...
+
+### Без сознания III
+
+Даже скалы рассыпаются в прах...
+
+### Получен тяжёлый удар I
+
+Какая беспечность...
+
+### Получен тяжёлый удар II
+
+Бояться нечего.
+
+### Присоединяется к группе I
+
+Идёт.
+
+### Присоединяется к группе II
+
+Прогуляться было бы неплохо.
+
+### Присоединяется к группе III
+
+Что будем делать?
+
+### О Баал...
+
+Время закаляет волю. Она одна из тех, кто отдаст всё, что у неё есть, за убеждения. Возможно, именно поэтому она зашла так далеко. Я бы хотел увидеть «вечность», ради которой она пожертвовала всем.
+
+### Подарок I
+
+Лучшие ингредиенты, приготовленные с истинным профессионализмом. Настоящий кулинарный подвиг.
+
+### Подарок II
+
+Искусство гастрономии невероятно увлекательно. Неудивительно, что тебе нравится.
+
+### Подарок III
+
+Раз у тебя столько свободного времени, давай лучше найдём тихое местечко, и я расскажу тебе одну из своих историй.
+
+### О Буер...
+
+Божество мудрости Буер не только управляет всем Сумеру - на ней лежит долг защищать Ирминсуль. Такое по плечу только тем, кто обладает великой мудростью. Все существа Тейвата должны быть благодарны ей за спасение Ирминсуля.
+
+### О Фурине...
+
+Подписать контракт с «самой собой» о спасении страны, строго следовать ему в течение пяти веков и в итоге обмануть небесный порядок... Я уважаю все формы справедливости, которые люди для себя устанавливают. Хотя её божественность исчезла, а трон Архонта прекратил существование, Фурина по праву остаётся достойной признания Богиней справедливости.
+
+### О Сянь Юнь...
+
+Я слышал от многих торговцев рассказы о Сянь Юнь. Говорят, на первый взгляд она кажется гордой и неприветливой, но в разговоре оказывается, что она честная и прямолинейная. В итоге все очень рады знакомству с ней. Это замечательно. Но ещё от многих я слышал, что она «сорит деньгами»...
+
+### О Хаборим...
+
+Долгая история борьбы Натлана закалила его воинов, позволив им одолеть Бездну и превзойти судьбу, чтобы выковать новое будущее. За этим триумфом стоит лидер, который умеет повелевать временем и историей, превращая их в свое оружие. Её сила сопоставима с божественной. Она действительно впечатляет.
+
+### Об Адепте Белая Лошадь...
+
+Белая Лошадь... Старый друг, с которым я не виделся очень давно... Весенние ночи коротки, осенние дни быстротечны. Лошадь срывается и мчится во весь опор, словно трепещущая на ветру свеча...
+
+## REPLICAS_EN
+
+### Hello
+
+A new contract? Okay. I'm still on leave, but I can accompany you for a while. What name should I use on the contract? I have a great many names, though when on leave I tend to go by Zhongli. And you, Traveler? What name will you be signing on this contract?
+
+### Chat: Journeys
+
+Every journey has its final day. Don't rush.
+
+### Chat: Tours
+
+Where do you want to go next? If you'd like to see Liyue's tourist spots, I have a few references.
+
+### Chat: Liyue
+
+Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle.
+
+### Chat: Reminiscing
+
+Osmanthus wine tastes the same as I remember... But where are those who share the memory?
+
+### After the Rain
+
+Violetgrass is a plant that enjoys a moist environment and is best picked after it rains. If you should choose to pick any, be sure to store them appropriately.
+
+### When It Snows
+
+We should look for a place to take shelter. I'll be fine, but we don't want you catching a cold.
+
+### When the Wind Is Blowing
+
+This weather is no good for being on vacation. We should go and take in an opera.
+
+### Good Morning
+
+I hope today too shall be prosperous.
+
+### Good Afternoon
+
+Want a quick meal to pick us back up? I know a good place in Chihu Rock.
+
+### Good Evening
+
+By this time of night, we will have already missed Ms. Yun's play, but Liyue is full of interesting places to explore, even at night.
+
+### Good Night
+
+The market is closed and the port has settled. Go get some rest.
+
+### About Zhongli
+
+Nothing can be accomplished without rules or standards. No matter if it is mortals or adepti, everyone has their place. This rule is what keeps Liyue in peace.
+
+### About Us: Gold
+
+Gold is Liyue's treasure. It is the blood that runs through her heart. As for whether your own heart shines like gold — we will have to wait and see.
+
+### About Us: Contracts
+
+You and I have a contract, so feel free to discuss anything at all within the scope of said contract.
+
+### About Us: Fairness
+
+We can discuss matters that fall outside of our contract, too. After all, I have been on this land for a time, and have come to know a thing or two. Of course, I do hope you can do some things for me as well. That would only be fair.
+
+### About Us: Confusion
+
+Contracts cannot be used to define friendship, nor measure sentiment. So just what can we use to measure the weight of our emotions? Do you know the answer, friend?
+
+### About the Vision
+
+Visions... are also a type of contract. You should know that all power comes at a price. For every bit of power you gain, so too do you gain more responsibility.
+
+### Something to Share
+
+Trade relies on both contracts and fairness. There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception.
+
+### Interesting Things
+
+If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin. Just one bunch is enough. Travel expenses...? Ah, I almost forgot. During the effective period of our contract, travel expenses are to be paid for by yourself. Sorry to bother you.
+
+### About Xiao
+
+You speak of the young adeptus of Guili Plains... *sigh* Still fulfilling his duty to this very day. Please, give this Remedium Tertiorum to him on my behalf. Oh, yes... be sure not to let Paimon eat them. Nothing of this world can withstand the power of this medicine.
+
+### About Venti
+
+*sniff* Tsk... It reeks of wine. That bard has just been through here, hasn't he? That drunkard is a disgrace to the arts. Oh... Has he tricked you into getting drunk? You're slurring a little. Wait a moment, I'll brew a pot of sobering tea. It'll be ready in only six hours, so just wait a moment.
+
+### About Ningguang
+
+Despite the multitude of affairs that she deals with in a day, Ningguang always continues to press on. A rare gem indeed. I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went. Time is cruel to humans.
+
+### About Hu Tao
+
+The current overseer of the funeral parlor? Ahem. I cannot deal with that child.
+
+### About Tartaglia: Composed
+
+That rascal from Snezhnaya has yet to depart from Liyue? Heh, no matter. Just let me know if he gives you any trouble. I shall deal with the matter swiftly.
+
+### About Tartaglia: Drinks
+
+It's said that Childe and his reputation have yet again stirred up waves among the inner ranks of the Fatui. Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions. Hmm... Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks. Care to join me when the time comes, Traveler?
+
+### About Ganyu
+
+Liyue's prosperity has not merely been built on Rex Lapis' oracles or wisdom. It is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. Of them, Ganyu is the one who has served for the longest time. If you want to know about her past... You should ask her about it. I fear my wording would not be delicate enough to receive her approval.
+
+### About Keqing
+
+She is the most impious of the Qixing — but I actually find the conviction of such people quite endearing. The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her. People who speak up when they believe themselves to be right, and then go and do something decisive about it.
+
+### About Yanfei
+
+Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases... Should her father one day return from his travels, I imagine that he would be even more delighted than I.
+
+### More About Zhongli: I
+
+Why is it that once you finally get a break, rather than taking a rest, you instead come to me? Is it that you want to hear one of my stories?
+
+### More About Zhongli: II
+
+Have you heard of the origin of the Blackcliff Forge? In the past, they would mine the ore veins of Mt. Tianheng, and then replace the cavities with factory equipment. Tunnels run in all directions throughout the mountain — some even run to the ruins deep within the earth. I doubt there is a person today who could map out all the tunnels.
+
+### More About Zhongli: III
+
+Have you heard of the origins of the Lantern Rite? In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves. Though in this day and age, I doubt there are any that remember.
+
+### More About Zhongli: IV
+
+The God of Contracts. Have you heard of him? He has an impressive memory. He remembers the name of every person he comes across, and the date that every ship built in Liyue sets sail. After all, only in being able to do so can he memorize all of the contracts he holds. With that said, not every memory is a happy one...
+
+### More About Zhongli: V
+
+For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories. As such, I have no regrets in meeting you, friend. Should the day ever come that we are not together, you will continue to shine like gold in my memories.
+
+### Zhongli's Hobbies
+
+I enjoy partaking in walks through the city — when time permits. I find it very calming. Yes... Just when did this feeling begin...?
+
+### Zhongli's Troubles
+
+To get people to abide by a contract and act in accordance with the guidelines set out within is simply to ask them to respect the concept of fairness. It is not a large request. How are there those who still do not understand such simplicity?
+
+### Favorite Food
+
+There was once a drink I used to enjoy with friends — long ago... Is it because the climate has changed? A shame I will never be able to relish in its smooth flavor again.
+
+### Least Favorite Food
+
+I don't like seafood. Just seeing it reminds me of that... slimy texture, and that scent that just won't wash off. As for why I hate it... *sigh* It's a long story, so let's just say my memory is a little too good.
+
+### Birthday
+
+Happy birthday. This is a dried Glaze Lily that came into bloom on the day of your birth. Long ago, the people of Liyue would say that this flower blooms bearing the weight of the beautiful memories and prayers of the land. I believe this to have applied on the day you were born as well.
+
+### Feelings About Ascension: Intro
+
+It seems my strength is returning. Not a lot, but enough.
+
+### Feelings About Ascension: Building Up
+
+My power is growing, and so with it grows the burden on my body... I'm okay. My structure is not the same as that of normal people. Please, do not worry yourself.
+
+### Feelings About Ascension: Climax
+
+I see. Using a Vision harnesses elements. As far as the common folk are concerned, this is no small feat. So... back then... they were aware of this as they stood beside me...
+
+### Feelings About Ascension: Conclusion
+
+After letting go of my Gnosis, I never expected to see a day like this again. Thank you, friend. Ah, yes, I have a new contract here. Care to take a look at it together?
+
+### Elemental Skill: I
+
+Rise!
+
+### Elemental Skill: II
+
+Quake!
+
+### Elemental Skill: III
+
+Crumble!
+
+### Elemental Skill: IV
+
+Gather.
+
+### Elemental Skill: V
+
+Stabilize.
+
+### Elemental Skill: VI
+
+Solidify.
+
+### Elemental Burst: I
+
+Order guide you.
+
+### Elemental Burst: II
+
+This is order.
+
+### Elemental Burst: III
+
+I will have order!
+
+### Opening Treasure Chest: I
+
+One man's stone is another man's gem...
+
+### Opening Treasure Chest: II
+
+Unsolicited... and all the more valuable for it.
+
+### Opening Treasure Chest: III
+
+Certainly worth the extra mile.
+
+### Low HP: I
+
+I see your power.
+
+### Low HP: II
+
+Ha, this is getting interesting.
+
+### Low HP: III
+
+Emergency countermeasures aren't my thing.
+
+### Ally at Low HP: I
+
+Don't try to rush your enemy.
+
+### Ally at Low HP: II
+
+Take a rest. Leave it to me.
+
+### Fallen: I
+
+Ugh... I'm feeling a little... off...
+
+### Fallen: II
+
+You shouldn't see me like this...
+
+### Fallen: III
+
+Even bedrock can be turned to dust...
+
+### Heavy Hit Taken: I
+
+Careless...
+
+### Heavy Hit Taken: II
+
+Nothing to fear.
+
+### Joining Party: I
+
+Sure.
+
+### Joining Party: II
+
+A walk would be nice.
+
+### Joining Party: III
+
+What shall we do?
+
+### About Baal
+
+Time tempers all volition. Yet she would give up everyone for her beliefs. Perhaps it is for this very reason that she has come to where she stands today... Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors.
+
+### Receiving a Gift: I
+
+The finest ingredients cooked with true expertise. This is no small feat.
+
+### Receiving a Gift: II
+
+The art of gastronomy is a fascinating one. That it appeals to you comes as no surprise.
+
+### Receiving a Gift: III
+
+Since you seem to have some time on your hands, why don't we find a quiet place and I'll share one of my stories with you.
+
+### About Buer
+
+As well as ruling over all of Sumeru, the God of Wisdom, Buer, has a duty to guard Irminsul. Only one who possesses great wisdom could hope to shoulder these responsibilities. All life in Teyvat owes her gratitude for saving Irminsul.
+
+### About Furina
+
+She made a contract with her own self to save the nation, strictly adhered to it for over five centuries without once wavering, and even fooled the Heavenly Principles in the end... I have great respect for approaches to justice that place exacting demands not only on others, but also on the self. Though her divinity has vanished and the throne of the Archon is no more, Furina will go down in Fontaine's history as a God of Justice worthy of recognition.
+
+### About Xianyun
+
+I hear many merchants of Liyue tell tales of a Ms. Xianyun. By most accounts, she appears proud and taciturn upon first glance, yet in conversation, people find her to be forthright and fair-minded, and they are pleased to make her acquaintance. I am glad to hear this. But... I have also heard a great many accounts lauding her readiness to part with large sums of Mora...
+
+### About Haborym
+
+Natlan's long history of struggle fueled its warriors to overcome the Abyss and transcend fate to forge a new future. Behind this triumph stands a leader who wields both time and history as her weapons, with a level of strength that rivals the gods. She is impressive indeed.
+
+### About the White Horse Adeptus
+
+The white horse... An old acquaintance, and one I haven't met in a very long time... One laments spring nights, how short they last, and autumn days that quickly pass. A steed that bolts and swiftly flees, a candle shivering in the breeze.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+一份新的「契约」？好吧…虽然我还在度假，但也可以陪你走一趟。契约书上，该签什么名字呢？我有许多名字，度假期间的话…我会自称「钟离」。你呢，旅行者？你会签下什么名字？
+
+### 闲聊·旅程
+
+旅程总有一天会迎来终点，不必匆忙。
+
+### 闲聊·游览
+
+接下来想去哪里？如果想游历璃月名胜的话，我有一些不错的参考方案。
+
+### 闲聊·璃月
+
+为「流通」而造的船，遇到港口也会停泊，所以璃月是一切财富「沉淀」的地方。
+
+### 闲聊·怀旧
+
+欲买桂花同载酒…只可惜故人，何日再见呢？
+
+### 雨过天晴…
+
+「琉璃袋」这种植物，它偏爱潮湿的环境，最适合雨后采摘。如果发现的话，适当储备些吧。
+
+### 下雪的时候…
+
+找个地方避避雪吧。我不会有事，但你可能着凉。
+
+### 刮大风了…
+
+嗯…不适合度假的天气。去听听戏吧。
+
+### 早上好…
+
+希望今日也有好景气。
+
+### 中午好…
+
+想要吃点提神的？嗯，吃虎岩倒是有爿不错的店…
+
+### 晚上好…
+
+虽然这种时候已经错过了云先生的戏，但夜晚的璃月仍有许多好去处。
+
+### 晚安…
+
+集市已收，喧闹的码头也已沉睡。去休息吧。
+
+### 关于钟离自己…
+
+不以规矩，不能成方圆。不管是常人还是仙人，惟有各司其职，方能保璃月长久太平。
+
+### 关于我们·黄金
+
+黄金是璃月的财富，是令璃月的心脏搏动的血液。你是否拥有黄金般闪耀的心，就让我拭目以待吧。
+
+### 关于我们·契约
+
+你我既有「契约」之交——那么凡在契约范围内的事，都可同我商量。
+
+### 关于我们·公平
+
+「契约」之外的事也可与我相谈。毕竟我在这片土地上活了这么久，凡事都略通一二。哦，虽说如此，我也有希望你能为我做的事情。毕竟，这样才符合「公平」嘛。
+
+### 关于我们·困惑
+
+「契约」无法界定「友谊」、无法丈量「情谊」，那到底用什么才能称量你我之间情感的重量呢？「朋友」，你知道答案吗？
+
+### 关于「神之眼」…
+
+「神之眼」…也是一种「契约」。须知一切力量皆有其代价，一千种权力伴随着一千种责任。
+
+### 有什么想要分享…
+
+「交易」的规矩是「契约」，准则是「公平」。这是订立、遵循「契约」者绝不可忘却之事：倘若失了公平，那契约便成了欺瞒的凭据。
+
+### 感兴趣的见闻…
+
+你若去往「绝云间」，便替我采来一束「清心」吧。一束就好。此行的旅费…啊，差些忘了，「契约」生效期间，旅费由你代为垫付。那就有劳了。
+
+### 关于魈…
+
+你说，归离原的少年仙人…啊…直至今日，他仍在履行他的职责…哦，这副「连理镇心散」，请替我带给他。对了，可千万不能让小派蒙偷吃了去，这里的药力…绝非常人所能承受。
+
+### 关于温迪…
+
+嘶...好浓的酒气。那个诗人刚刚来过吧，那个和风雅二字搭不上一点关系的酒鬼诗人！你这里…唔，被他诱骗着灌了酒，话也说不清了么…你等一下，我去沏一壶「醒神茶」，只需三个时辰便好。你等一下…
+
+### 关于凝光…
+
+即便每日经手的事务千条万缕，她仍不失进取之心，实属难得。让我想起，彼时的她赤着脚从瑶光滩走到南码头，一路叫卖货品的样子。时间对于常人，真是残酷…
+
+### 关于胡桃…
+
+当代堂主？嗯…那孩子，我应付不来。
+
+### 关于达达利亚·沉着
+
+那位来自至冬的武人，还没离开璃月吗？没关系，要是他找你麻烦，你可以唤我去应付他。
+
+### 关于达达利亚·酒桌
+
+听说「公子」最近在愚人众的风评又变糟了不少。但像他这样的人，一定会用积极的行动去扫清那些对他的怨言吧。嗯…这样想来，下回酒桌上又有不少趣事可以听了。旅者，你也一起来吗？
+
+### 关于甘雨…
+
+璃月这个国度的繁荣，靠得绝不仅是「岩王帝君」的神谕，而是无数响应「契约」的岩神子民。在这之中，甘雨已是就职时间最长的一位了。关于她的往事…我怕她怪罪，让她自己和你说吧。
+
+### 关于刻晴…
+
+她是当代七星中最「不敬神」的，但我还挺欣赏这样的人。「觉得自己是正确的，就大声地说出来、坚决地去行动」——就是因为璃月有这样的人，我才会考虑退休一事。
+
+### 关于烟绯…
+
+她未曾与我签订「契约」，却在以自己的方式维护璃月各界的规矩，并将有失偏颇的观念纠正。倘若某天，她的父亲远游归来，想来会比我更欣慰吧。
+
+### 想要了解钟离·其一
+
+怎么，难得闲暇，不好好休息却反来找我。是想听我讲故事吗？
+
+### 想要了解钟离·其二
+
+「黑岩厂」的起源，听说过吗？
+在过去，人们一边将天衡山中的矿脉挖空，一边在里面修建工场设施，渐渐建成了东大陆最大的工厂。山中黯道四通八达，一些甚至能通往大地深处的古遗迹。能掌握其中一切通路的人，如今大概没有了吧。
+
+### 想要了解钟离·其三
+
+「海灯节」的起源，听说过吗？
+在很久以前的战争中，璃月人会在夜里放飞明亮的灯，让厮杀的战士不迷失回家的方向，不迷失自己的心。这种事情，如今大概已经没有人记得了。
+
+### 想要了解钟离·其四
+
+「契约之神」的事情，听说过吗？
+他的记性很好。每位对手的名字，璃港船局建成以来制造的每一艘船起航的日子，都不曾忘却。毕竟，有这样的记忆力，才能铭记一切「契约」。
+然而，记性很好有时是令人不快的事。
+
+### 想要了解钟离·其五
+
+活得太久的人，只能在记忆中寻访往昔的战友、过去的景色。
+即使如此我也不后悔与你相识，「朋友」。假使有一日不得不同你相别，你在我的记忆中也会如黄金般闪耀。
+
+### 钟离的爱好…
+
+得闲时在城内散步，就能让我心安不少。嗯…这种心情，是从何时开始…？
+
+### 钟离的烦恼…
+
+让人们遵循「契约」，依照契约的规矩行事，其实是希望人们能遵循「公平」。只是这一点，总有人意识不到。
+
+### 喜欢的食物…
+
+很久以前，与朋友共饮的酒。是因为气候变了吗？唉，过去的滋味，或许再也不能重现了吧。
+
+### 讨厌的食物…
+
+我不喜欢海鲜。仅仅是看到海鲜，就会想到那种…该怎么说呢，滑溜溜的触感，洗不净的腥味。哦，原因的话…
+唉，说来话长，就当是因为我记性太好了吧。
+
+### 生日…
+
+生日快乐。这是曾在你出生的那天盛开的，「琉璃百合」的干花。
+很久以前的璃月人会说，这种花承载着大地中的美好记忆与祈愿而盛开。我愿意相信，你的诞生也是同样的道理。
+
+### 突破的感受·起
+
+力量似乎渐渐回来了。不多，但有用。
+
+### 突破的感受·承
+
+力量增长了，身体的负担随之剧增…哦，我没事，我的构造不同常人，请不用担心。
+
+### 突破的感受·转
+
+原来如此，驱动「神之眼」驾驭元素力，对于常人而言不啻伟业。哦，原来如此…那时的他们，是抱着这样的觉悟站在我身旁啊…
+
+### 突破的感受·合
+
+不曾料想，放下「神之心」后，还能看到这种景色——感谢你，「朋友」...对了，我这里有一份新的「契约」，不一起来看看么？
+
+### 元素战技·其一
+
+壁立千仞。
+
+### 元素战技·其二
+
+震天撼地。
+
+### 元素战技·其三
+
+靡坚不摧。
+
+### 元素战技·其四
+
+俱收并蓄。
+
+### 元素战技·其五
+
+安如磐石。
+
+### 元素战技·其六
+
+固若金汤。
+
+### 元素爆发·其一
+
+天理长驱。
+
+### 元素爆发·其二
+
+此乃天道。
+
+### 元素爆发·其三
+
+天动万象。
+
+### 打开宝箱·其一
+
+遗珠弃璧，吉光片裘…
+
+### 打开宝箱·其二
+
+偶遇之物，亦有风雅。
+
+### 打开宝箱·其三
+
+不虚此行。
+
+### 生命值低·其一
+
+你的实力我姑且认可。
+
+### 生命值低·其二
+
+哈，有点意思。
+
+### 生命值低·其三
+
+不太擅长危机应对啊。
+
+### 同伴生命值低·其一
+
+不可贸然进攻。
+
+### 同伴生命值低·其二
+
+下去休息。这里交给我。
+
+### 倒下·其一
+
+啊，略感疲惫…
+
+### 倒下·其二
+
+让你看到，难堪的一面了啊。
+
+### 倒下·其三
+
+磐石…也会归于尘土…
+
+### 重受击·其一
+
+大意了吗。
+
+### 重受击·其二
+
+不足为惧。
+
+### 加入队伍·其一
+
+也好。
+
+### 加入队伍·其二
+
+就当是散心了。
+
+### 加入队伍·其三
+
+做些什么好呢…
+
+### 关于巴尔…
+
+时间会淬炼一切意志。而她，恰好是会为信念付出所有的人。或许正因如此，她才能走到这一步。如有机会，我也想见识一下她为之倾尽一切的「永恒」。
+
+### 收到赠礼·其一
+
+用料讲究，做法地道。属实不易。
+
+### 收到赠礼·其二
+
+烹饪是一件饶有趣味的事，想来对你而言也是如此。
+
+### 收到赠礼·其三
+
+既有闲暇，不如找一处庭院，和你说一段故事吧。
+
+### 关于布耶尔…
+
+智慧之神布耶尔，不仅统管整个须弥，还肩负着守护世界树的职责。若非有大智慧，的确难以司掌这些。拯救世界树一事，整个提瓦特的生灵都理应向她致谢。
+
+### 关于芙宁娜…
+
+与「自我」签订下拯救国家的契约，并严守五百年，最终骗过了天理…我尊敬一切需要自我践行的「正义」。即便神性的部分已经消散，神座不复存在，但对于整个枫丹的历史来说，芙宁娜依旧是值得被认可的正义之神。
+
+### 关于闲云…
+
+我听不少商人聊起过「闲云」的逸闻。说是这位女子看似倨傲，不喜言谈，交谈一番却发现她性格耿直，作风正派，是位值得结交的良友。我为她高兴。但「出手阔绰」这条评价，嗯，也有不少人对我说过…
+
+### 关于赫布里穆…
+
+纳塔将悠久的抗争历史谱写成诗，激励无数战士前仆后继，由此得以跨越深渊与宿命的威胁，创造出新的未来。而率领他们的，是一位将时间与历史化作武器的人类战士，她足以与神明比肩的实力，令人叹服。
+
+### 关于白马仙人…
+
+白马，白马…这位仙人，其实也是我许久未见的一位故人。只可叹，春夜短，秋日速，隙过驹，风过烛。

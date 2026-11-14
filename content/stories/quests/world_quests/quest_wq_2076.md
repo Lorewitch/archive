@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 10003
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_2076
 # quest_series: Witch's Homework
 # version_source: verified_override
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 10003
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 20
 
 ## RU
 
@@ -56,7 +59,7 @@
 
 **Катерина:** В общем, если поручение вас заинтересовало, редактор ждёт вас в «Хорошем охотнике». Найдите человека в инадзумской одежде.
 
-**Фишль:** Подожди... Я хотела сказать, остановись, (благородная путешественница)(благородный путешественник). Судьба бросила тебя в бурные воды этого мира, но не для того, чтобы ты в одиночку противостоял(а) его запустению...
+**Фишль:** Подожди... Я хотела сказать, остановись, благородный путешественник. Судьба бросила тебя в бурные воды этого мира, но не для того, чтобы ты в одиночку противостоял его запустению... / Подожди... Я хотела сказать, остановись, благородная путешественница. Судьба бросила тебя в бурные воды этого мира, но не для того, чтобы ты в одиночку противостояла его запустению...
 
 **Фишль:** А дабы направить тебя по пути Нирваны Ночи!
 
@@ -64,7 +67,7 @@
 
 **Паймон:** Ух ты, поручение взволновало Фишль! Ты что-то об этом знаешь?
 
-Ты можешь присоединиться.
+- **Путешественник:** Ты можешь присоединиться.
 
 **Оз:** Тогда пойдёмте в «Хороший охотник» и встретимся с этим редактором.
 
@@ -84,7 +87,7 @@
 
 **Паймон:** Да, это Фишль. Она опытная искательница приключений и готова помочь!
 
-Да, это Фишль.
+- **Путешественник:** Да, это Фишль.
 
 **Онодэра:** Да-да, это Фишль... Я понял с первого раза.
 
@@ -96,7 +99,7 @@
 
 **Паймон:** Т-ты быстрее Оза понял, что имела в виду Фишль!
 
-Не стоит недооценивать редакторов.
+- **Путешественник:** Не стоит недооценивать редакторов.
 
 **Онодэра:** Что ж, не будем терять времени. Позвольте подробно рассказать о поручении.
 
@@ -136,11 +139,13 @@
 
 **Паймон:** Постой, тебе и в этот раз не понадобился Оз для перевода, Онодэра!
 
-Редакторы устроены иначе.
+- **Путешественник:** Редакторы устроены иначе.
 
 **Оз:** О нет...
 
 **Фишль:** Озвальдо Храфнавинс, ты что-то почувствовал?
+
+**Оз:** Его нет, миледи.
 
 **Оз:** Я ощущаю слабый, трудноуловимый резонанс. Что-то похожее на... магнитное поле, гравитационную силу и нити причинно-следственных связей, которые окружают вас, миледи.
 
@@ -150,7 +155,7 @@
 
 **Паймон:** Не может быть. Если говорить о писателях из деревни Цинцэ...
 
-Чан Девятый?
+- **Путешественник:** Чан Девятый?
 
 **Паймон:** Нет, не может быть... Или может?
 
@@ -164,13 +169,19 @@
 
 **Онодэра:** Вы правы, миледи. Даже если Чан Девятый не господин Девятый, он автор и, возможно, они когда-то общались. Думаю, это может стать отправной точкой.
 
-Что я говорил(а)? Редакторы устроены иначе.
+- **Путешественник:** Что я говорил? Редакторы устроены иначе. / Что я говорила? Редакторы устроены иначе.
 
 **Паймон:** Э-э-э... да уж.
 
 **Онодэра:** Благодарю за помощь! Я рассчитываю на вас.
 
-**Оз:** Его нет, миледи.
+**Паймон:** Что ещё нам следует знать о господине Девятом?
+
+**Онодэра:** Судя по вопросам читателей и заметкам автора, у него залысины, небольшой живот, он не любит сладкое, а сердце у него справа...
+
+**Онодэра:** Или слева? Нет, справа. У него пять пальцев на левой руке, сильная бессонница, по зрачку в каждом глазу...
+
+**Паймон:** Итак... полная ерунда.
 
 #### Отправляйтесь в деревню Цинцэ и расспросите Чана Девятого
 
@@ -188,13 +199,9 @@
 
 #### Поищите подсказки поблизости
 
-**Паймон:** Что ещё нам следует знать о господине Девятом?
+#### Поищите подсказки поблизости
 
-**Онодэра:** Судя по вопросам читателей и заметкам автора, у него залысины, небольшой живот, он не любит сладкое, а сердце у него справа...
-
-**Онодэра:** Или слева? Нет, справа. У него пять пальцев на левой руке, сильная бессонница, по зрачку в каждом глазу...
-
-**Паймон:** Итак... полная ерунда.
+#### Поищите подсказки поблизости
 
 #### Поговорите с Фишль
 
@@ -206,11 +213,11 @@
 
 #### Исследуйте место, которое Фишль считает подозрительным
 
+#### Поговорите с Фишль
+
 **Чан Девятый:** Вы думаете, что я господин Девятый... Знаете, а это может расширить мои творческие горизонты.
 
 **Чан Девятый:** Итак, что бы он написал...
-
-#### Поговорите с Фишль
 
 **Паймон:** Смотрите, земля перекопана!
 
@@ -222,14 +229,14 @@
 
 **Оз:** И, поскольку миледи никогда никому не причинила бы вреда, я уверен, то же самое можно сказать и о его других, менее ярых поклонниках.
 
-Ладно, давайте посмотрим, что здесь закопано.
+- **Путешественник:** Ладно, давайте посмотрим, что здесь закопано.
 
 Вы разрываете землю.
 Там вы находите большой мешок с морой и чек Банка северного королевства...
 
 Внезапно из ниоткуда раздаётся голос, и вы, не задумываясь, суёте вещи в карман.
 
-**Чан Девятый:** Что это всё значит? Я сейчас Миллелитов позову!
+**???:** Что это всё значит? Я сейчас Миллелитов позову!
 
 **Паймон:** Чан Девятый! Тебя не убили! И не похитили!
 
@@ -279,6 +286,8 @@
 
 #### Отправляйтесь в Нод-Край и вместе с Озом найдите господина Девятого
 
+#### Отправляйтесь в Нод-Край и вместе с Озом найдите господина Девятого
+
 **Оз:** Он должен быть где-то неподалёку.
 
 **Паймон:** На фею напали? Здесь что-то не так.
@@ -287,21 +296,29 @@
 
 **Фишль:** Сама судьба указывает нам путь.
 
+#### Отправляйтесь в Нод-Край и вместе с Озом найдите господина Девятого
+
+#### Победите монстров перед вами
+
 #### Помогите фее
 
 **Паймон:** Эта фея, кажется, показывает нам дорогу.
 
 **Паймон:** Пойдёмте за ней.
 
+#### Следуйте за феей
+
 #### Поговорите с человеком за кулисами
 
-**Николь:** Хм? Что вы здесь делаете?
+#### Поговорите с человеком за кулисами
+
+**???:** Хм? Что вы здесь делаете?
 
 **Паймон:** Этот голос... это Николь!
 
 **Паймон:** Мы то же самое хотим спросить! Мы ищем господина Девятого, и наши поиски привели нас сюда, но вместо него мы нашли тебя.
 
-*Вы рассказываете Николь и фее о поручении издательского дома Яэ и о вашем расследовании...*
+Вы рассказываете Николь и фее о поручении издательского дома Яэ и о вашем расследовании...
 
 **Николь:** Понятно. Господин Девятый... перед вами.
 
@@ -331,7 +348,7 @@
 
 **Николь:** Если человек мечтает создать собственный мир, «внутренний писатель» пробуждается в нём автоматически.
 
-Да, звучит очень «автоматично».
+- **Путешественник:** Да, звучит очень «автоматично».
 
 **Паймон:** Но... А как же письмо и странные озарения, которые посещают Оза?
 
@@ -381,15 +398,20 @@
 
 **Николь:** Хорошо, с этим разобрались. Теперь мне нужно немного поспорить с господином Девятым о том, кто заслуживает быть главным автором.
 
-Разве это не Чан Девятый?
+- **Путешественник:** Разве это не Чан Девятый?
 
-**Фишль:** Ни за что.
+**Николь, Фишль и господин Девятый:** Ни за что.
 
 Попрощавшись, вы отправляетесь в обратный путь.
 
 ## EN
 
 ### Alan Smithee, Author of Fischl
+
+#### Quest log
+
+You dig up the ground.
+ Inside, you find a large bag of Mora and a check from the Northland Bank...
 
 You only stopped by the Adventurers' Guild to check for new commissions — it has nothing to do with the witch or her assignment. But it seems you stumble upon an unexpected surprise...
 
@@ -425,7 +447,7 @@ You only stopped by the Adventurers' Guild to check for new commissions — it h
 
 **Paimon:** Fischl seems really jazzed about this commission. Do you think she has some kind of insider information?
 
-You're welcome to come along, either way.
+- **Traveler:** You're welcome to come along, either way.
 
 **Oz:** Well, let's head to the Good Hunter to meet with this editor, then.
 
@@ -445,7 +467,7 @@ You're welcome to come along, either way.
 
 **Paimon:** Yep, this is Fischl. She's a reliable adventurer, and she's here to help!
 
-That's right. This is Fischl.
+- **Traveler:** That's right. This is Fischl.
 
 **Onodera:** Y—Yeah, I, uh, kinda got that the first time.
 
@@ -457,7 +479,7 @@ That's right. This is Fischl.
 
 **Paimon:** Y—You understood Fischl language before Oz could even finish translating!
 
-An editor is not to be underestimated.
+- **Traveler:** An editor is not to be underestimated.
 
 **Onodera:** Well, let's get down to brass tacks, then.
 
@@ -497,11 +519,13 @@ An editor is not to be underestimated.
 
 **Paimon:** Wait, you didn't need Oz to translate this time either, Onodera!
 
-Editors are somethin' else.
+- **Traveler:** Editors are somethin' else.
 
 **Oz:** ...
 
 **Fischl:** Ozvaldo Hrafnavins, hast thou perceived something?
+
+**Oz:** No such "Henry" exists, Mein Fräulein.
 
 **Oz:** I sense a faint, elusive resonance. Something akin to the... magnetic field, gravitational force, and threads of cause and effect that surround you, Mein Fräulein.
 
@@ -511,7 +535,7 @@ Editors are somethin' else.
 
 **Paimon:** No, wait. If we're talking authors from Qingce Village, specifically...
 
-Chang the Ninth?
+- **Traveler:** Chang the Ninth?
 
 **Paimon:** No, it couldn't be... Could it?
 
@@ -525,13 +549,19 @@ Chang the Ninth?
 
 **Onodera:** You speak true, Mein Prinzessin. Even if Chang the Ninth doesn't turn out to be Mr. Nine, he's still an author, and he could have had contact with him. I think it's a good place to start.
 
-What did I tell you. Editors... am I right?
+- **Traveler:** What did I tell you. Editors... am I right?
 
 **Paimon:** Um... yeah.
 
 **Onodera:** Well, either way, I appreciate the help! I'm counting on you!
 
-**Oz:** No such "Henry" exists, Mein Fräulein.
+**Paimon:** Is there anything else we should know about Mr. Nine?
+
+**Onodera:** Well, according to some reader Q&As and his author's notes, he has a receding hairline, a slight pot belly, he doesn't like sweet things, and his heart is on the right side...
+
+**Onodera:** Or was it the left? No, it was the right. He has five fingers on his left hand, severe insomnia, a pupil in each eye...
+
+**Paimon:** So... a whole bunch of nothing.
 
 #### Head to Qingce Village and ask Chang the Ninth for details
 
@@ -549,13 +579,9 @@ What did I tell you. Editors... am I right?
 
 #### Investigate the clues in the area
 
-**Paimon:** Is there anything else we should know about Mr. Nine?
+#### Investigate the clues in the area
 
-**Onodera:** Well, according to some reader Q&As and his author's notes, he has a receding hairline, a slight pot belly, he doesn't like sweet things, and his heart is on the right side...
-
-**Onodera:** Or was it the left? No, it was the right. He has five fingers on his left hand, severe insomnia, a pupil in each eye...
-
-**Paimon:** So... a whole bunch of nothing.
+#### Investigate the clues in the area
 
 #### Talk to Fischl
 
@@ -567,11 +593,11 @@ What did I tell you. Editors... am I right?
 
 #### Investigate the location that caught Fischl's attention
 
+#### Talk to Fischl
+
 **Chang the Ninth:** Fancying myself to be Mr. Nine, you say... You know, that might just expand my creative horizons.
 
 **Chang the Ninth:** Alright. Now, uh, what would he write...
-
-#### Talk to Fischl
 
 **Paimon:** Wait, it looks like the soil's been overturned!
 
@@ -583,14 +609,14 @@ What did I tell you. Editors... am I right?
 
 **Oz:** And since Mein Fräulein would never do anyone harm, I'm certain the same is true of his other, less avid supporters.
 
-Alright, let's see what's buried here in any case.
+- **Traveler:** Alright, let's see what's buried here in any case.
 
-You dig up the ground.
+You dig up the ground. 
  Inside, you find a large bag of Mora and a check from the Northland Bank...
 
  Suddenly, a voice comes out of nowhere, and without thinking, you stuff the items into your pocket.
 
-**Chang the Ninth:** What is the meaning of this! I'm calling the Millelith!
+**???:** What is the meaning of this! I'm calling the Millelith!
 
 **Paimon:** Chang the Ninth! You're not dead! Or kidnapped!
 
@@ -640,6 +666,8 @@ You dig up the ground.
 
 #### Go to Nod-Krai and search for Mr. Nine with Oz
 
+#### Go to Nod-Krai and search for Mr. Nine with Oz
+
 **Oz:** It should be up ahead.
 
 **Paimon:** Wait, did something attack that Seelie? Something doesn't seem right here.
@@ -648,21 +676,29 @@ You dig up the ground.
 
 **Fischl:** Then it would seem fate has dictated our path for us.
 
+#### Go to Nod-Krai and search for Mr. Nine with Oz
+
+#### Defeat the monsters before you
+
 #### Help the Seelie
 
 **Paimon:** Huh, looks like this Seelie is showing us the way.
 
 **Paimon:** Let's follow.
 
+#### Follow the Seelie
+
 #### Talk to the person behind the scenes
 
-**Nicole:** Hmm? What are you doing here?
+#### Talk to the person behind the scenes
+
+**???:** Hmm? What are you doing here?
 
 **Paimon:** Wait, that voice... It's Nicole!
 
 **Paimon:** Also, that should be our line! We were looking for Mr. Nine, and our search led us here, but now it seems we've found you instead.
 
-*You tell Nicole and the Seelie about Yae Publishing House's commission and your investigation...*
+You tell Nicole and the Seelie about Yae Publishing House's commission and your investigation...
 
 **Nicole:** Ah, I see. Well, "Mr." Nine... is right here.
 
@@ -692,7 +728,7 @@ You dig up the ground.
 
 **Nicole:** As long as the person is someone who dreams of creating worlds of their own, this "inner writer" within them will automatically awaken.
 
-Yeah, that sounds very "automatic."
+- **Traveler:** Yeah, that sounds very "automatic."
 
 **Paimon:** Wait, but... What about the letter and the strange intuitions Oz has been having?
 
@@ -742,9 +778,9 @@ Yeah, that sounds very "automatic."
 
 **Nicole:** Alright, that settles that. Now, I need to have a quick argument with "Mr." Nine about who really deserves to be considered first author.
 
-Shouldn't it be Chang the Ninth?
+- **Traveler:** Shouldn't it be Chang the Ninth?
 
-**Fischl:** Absolutely not.
+**Nicole & Fischl & Mr. Nine:** Absolutely not.
 
 After saying your goodbyes, you begin the return journey.
 
@@ -786,7 +822,7 @@ After saying your goodbyes, you begin the return journey.
 
 **派蒙:** 菲谢尔突然好积极！感觉有什么内情？
 
-不也挺好。
+- **旅行者:** 不也挺好。
 
 **奥兹:** 那么就趁着大家都在，一起先去猎鹿人看看能不能找到那位编辑先生吧。
 
@@ -806,7 +842,7 @@ After saying your goodbyes, you begin the return journey.
 
 **派蒙:** 呃，她是菲谢尔小姐。是个来协助的朋友。她可是很可靠的冒险家哦。
 
-没错，她是菲谢尔。
+- **旅行者:** 没错，她是菲谢尔。
 
 **小野寺:** 原、原来是菲谢尔啊。就算如此，也不用说四次吧。
 
@@ -818,7 +854,7 @@ After saying your goodbyes, you begin the return journey.
 
 **派蒙:** 居、居然比奥兹的翻译还要更早明白菲谢尔的意思！
 
-可不要小看编辑。
+- **旅行者:** 可不要小看编辑。
 
 **小野寺:** 那么事不宜迟，让我来详细说说这次的委托吧。
 
@@ -858,11 +894,13 @@ After saying your goodbyes, you begin the return journey.
 
 **派蒙:** 不对！比起这个，小野寺居然又先于奥兹理解了菲谢尔的话！
 
-编辑，很神奇吧？
+- **旅行者:** 编辑，很神奇吧？
 
 **奥兹:** 这是…
 
 **菲谢尔:** 奥兹华尔多·亨利·赫芙那梵茵斯哟，你发现了什么吗？
+
+**奥兹:** 没有那个「亨利」，小姐。
 
 **奥兹:** 确实能感觉到一丝若有若无的感应。和小姐您身上的…磁场、引力、因果丝线，这样的东西近似。
 
@@ -872,7 +910,7 @@ After saying your goodbyes, you begin the return journey.
 
 **派蒙:** 不对，说到轻策庄写小说的…
 
-常…九爷？
+- **旅行者:** 常…九爷？
 
 **派蒙:** 这不太可能吧？
 
@@ -886,13 +924,19 @@ After saying your goodbyes, you begin the return journey.
 
 **小野寺:** 说的也没错。既然同为作家，就算不是一人，说不定总会有些交流吧？把他当切入点或许不错。
 
-编辑，很强大吧？
+- **旅行者:** 编辑，很强大吧？
 
 **派蒙:** 呃。
 
 **小野寺:** 那就麻烦你们了！
 
-**奥兹:** 没有那个「亨利」，小姐。
+**派蒙:** 九老师还有什么特征吗？
+
+**小野寺:** 根据读者来信问答和卷尾「作者的话」来看，他应该发际线后退、轻微啤酒肚、不喜欢吃甜的、心脏在右边。
+
+**小野寺:** 左边还是右边？嗯，右边。然后他左手有五个手指，失眠很严重、每只眼睛各有一个瞳孔…
+
+**派蒙:** 好没特色！
 
 #### 前往轻策庄，向常九爷询问详情
 
@@ -910,13 +954,9 @@ After saying your goodbyes, you begin the return journey.
 
 #### 调查周围线索
 
-**派蒙:** 九老师还有什么特征吗？
+#### 调查周围线索
 
-**小野寺:** 根据读者来信问答和卷尾「作者的话」来看，他应该发际线后退、轻微啤酒肚、不喜欢吃甜的、心脏在右边。
-
-**小野寺:** 左边还是右边？嗯，右边。然后他左手有五个手指，失眠很严重、每只眼睛各有一个瞳孔…
-
-**派蒙:** 好没特色！
+#### 调查周围线索
 
 #### 与菲谢尔对话
 
@@ -928,11 +968,11 @@ After saying your goodbyes, you begin the return journey.
 
 #### 调查菲谢尔怀疑的地点
 
+#### 与菲谢尔对话
+
 **常九爷:** 幻想我自己是九老师是么？倒也不失为一种打开创作思路的办法。
 
 **常九爷:** 开始幻想了，幻想我是九老师。如果是九老师会怎么写。
-
-#### 与菲谢尔对话
 
 **派蒙:** 这里居然真的有翻土的痕迹！
 
@@ -944,14 +984,14 @@ After saying your goodbyes, you begin the return journey.
 
 **奥兹:** 既然小姐不会去伤害任何人，其他没这么热情的粉丝应该也不会。
 
-那动手吧。
+- **旅行者:** 那动手吧。
 
 挖开了松动的地面。
 找到了一大袋摩拉和北国银行的支票…
 
 突然一声呵斥在背后响起，你下意识把东西塞进了兜里。
 
-**常九爷:** 你们在干什么！我要喊千岩军了！
+**？？？:** 你们在干什么！我要喊千岩军了！
 
 **派蒙:** 哇！常九爷，你没死啊！也没被绑架！
 
@@ -1001,6 +1041,8 @@ After saying your goodbyes, you begin the return journey.
 
 #### 前往挪德卡莱，随奥兹寻找九老师
 
+#### 前往挪德卡莱，随奥兹寻找九老师
+
 **奥兹:** 应该就在前面不远的地方。
 
 **派蒙:** 这里居然有个被袭击的仙灵？看起来很可疑啊。
@@ -1009,21 +1051,29 @@ After saying your goodbyes, you begin the return journey.
 
 **菲谢尔:** 既是如此，那命运已然指示了方向。
 
+#### 前往挪德卡莱，随奥兹寻找九老师
+
+#### 击败眼前的魔物
+
 #### 帮助眼前的仙灵
 
 **派蒙:** 这个仙灵，似乎是在给我们引路？
 
 **派蒙:** 跟过去看看吧。
 
+#### 跟随仙灵
+
 #### 与幕后之人对话
 
-**尼可:** 怎么是你们？
+#### 与幕后之人对话
+
+**？？？:** 怎么是你们？
 
 **派蒙:** 这个声音，是尼可！
 
 **派蒙:** 我们还想问呢。为了找九老师，我们从璃月找到这里，结果最后遇到了你。
 
-*和尼可以及仙灵说了八重堂的委托和之前的调查…*
+和尼可以及仙灵说了八重堂的委托和之前的调查…
 
 **尼可:** 原来是这样。九老师，就是它啊。
 
@@ -1053,7 +1103,7 @@ After saying your goodbyes, you begin the return journey.
 
 **尼可:** 只要是存在着创造世界的梦想，就会浮现的作家人格。自动式的哦。
 
-「自动式的哦。」
+- **旅行者:** 「自动式的哦。」
 
 **派蒙:** 等等，那求救信和奥兹的奇妙感觉是怎么回事？
 
@@ -1103,8 +1153,8 @@ After saying your goodbyes, you begin the return journey.
 
 **尼可:** 那么这件事就先这样吧。现在我要和九老师吵一架，来争夺第一作者究竟是谁了。
 
-不是常九爷吗？
+- **旅行者:** 不是常九爷吗？
 
-**菲谢尔:** 绝对不可能。
+**尼可&菲谢尔&九老师:** 绝对不可能。
 
 告别之后，一行人走上了归途。

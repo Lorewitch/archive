@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 74694
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74694
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_revelation
 
 # quest_series_ru: Пророчество ведьмы
+# game_source_ids: 74694
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 40
 
 ## RU
 
@@ -62,15 +65,27 @@
 
 **Бэй Доу:** О, Путешественник, Паймон? Сколько лет, сколько зим! Вы тоже пришли погадать?
 
+##### Вариант ответа 1
+
 - **Путешественник:** П-погадать?..
+
+##### Вариант ответа 2
 
 - **Путешественник:** Что ты делаешь в Фонтейне, Бэй Доу?
 
+##### Общее продолжение
+
 **Бэй Доу:** Я здесь по делам. И заодно помогаю одной особе найти новые торговые возможности.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Эта особа...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Должно быть, это...
+
+##### Общее продолжение
 
 **Бэй Доу:** Конечно же, госпожа Воля Небес.
 
@@ -90,7 +105,7 @@
 
 **Бэй Доу:** Но не успела я пройти и пары шагов, как эта... эм, предсказательница остановила меня и предложила вытянуть карту...
 
-Ты уже вытянула карту?
+- **Путешественник:** Ты уже вытянула карту?
 
 **Бэй Доу:** Вот, это карта «Сила»... Выглядит как хорошая карта, а раз она в прямом положении, то, наверное, это делает её ещё лучше?
 
@@ -128,9 +143,15 @@
 
 **Бэй Доу:** Ха, теперь всё стало ясно! Я тут как раз подумала: если бы она и правда хотела заняться торговлей, она бы ни за что не позволила мне расслабляться.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это определённо в стиле Воли Небес.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Даже чтобы отправить кого-то в отпуск, приходится прибегать к уловкам...
+
+##### Общее продолжение
 
 **Паймон:** Хе-хе-хе, если коротко, Нин Гуан хотела, чтобы Бэй Доу взяла отпуск, но... но почему она пошла окольным путём?
 
@@ -149,6 +170,14 @@
 **Барбелот:** Свет, указывающий путь заблудшим... и тем, кто пришёл не только за его сиянием.
 
 **Барбелот:** Интересно. Если будет время, стоит снова посетить Ли Юэ...
+
+#### Послушайте историю Бэй Доу...
+
+#### Послушайте историю Бэй Доу...
+
+#### Завершите историю Бэй Доу
+
+#### Покиньте историю
 
 ## EN
 
@@ -186,15 +215,27 @@ You encounter Beidou at Barbeloth's fortune-telling booth...
 
 **Beidou:** Ah, Traveler, Paimon? I haven't seen you in a long time! Are you here to have your fortunes read, too?
 
+##### Response branch 1
+
 - **Traveler:** Hey Beidou! Uhh...
+
+##### Response branch 2
 
 - **Traveler:** ...What are you doing in Fontaine?
 
+##### Shared continuation
+
 **Beidou:** I'm here on business, of course. And to help a certain someone scout out new trade opportunities while I'm at it.
+
+##### Response branch 1
 
 - **Traveler:** This certain someone...
 
+##### Response branch 2
+
 - **Traveler:** I'm guessing it's...
+
+##### Shared continuation
 
 **Beidou:** Our esteemed Tianquan, of course.
 
@@ -214,7 +255,7 @@ You encounter Beidou at Barbeloth's fortune-telling booth...
 
 **Beidou:** But I only made it a few steps before this... uhm, fortune-teller stopped me and asked me to draw a card...
 
-So, you've already drawn one?
+- **Traveler:** So, you've already drawn one?
 
 **Beidou:** Here, it's the Strength card... Looks like a good one, and since it's the right side up, I think that makes it even better?
 
@@ -252,9 +293,15 @@ So, you've already drawn one?
 
 **Beidou:** Hah, it all makes sense now! I was just thinking, if she really wanted to do business, there's no way she'd let me kick back and relax.
 
+##### Response branch 1
+
 - **Traveler:** I suppose this is what you should expect from the Tianquan?
 
+##### Response branch 2
+
 - **Traveler:** Even giving someone time off requires an elaborate ruse...
+
+##### Shared continuation
 
 **Paimon:** Hehehe... So basically, Ningguang just wanted to give you a holiday! But why make you take such a massive detour?
 
@@ -273,6 +320,14 @@ So, you've already drawn one?
 **Barbeloth:** A light that guides the lost... and those who come for more than its glow.
 
 **Barbeloth:** Interesting. If I have the time, I should pay another visit to Liyue...
+
+#### Listen to Beidou's story...
+
+#### Listen to Beidou's story...
+
+#### Finish Beidou's story
+
+#### Leave the story
 
 ## ZH
 
@@ -310,15 +365,27 @@ So, you've already drawn one?
 
 **北斗:** 咦，旅行者，派蒙？真是好久不见，你们也来这里算卦么？
 
+##### 对话分支 1
+
 - **旅行者:** 算、算卦…
+
+##### 对话分支 2
 
 - **旅行者:** 北斗怎么来枫丹了？
 
+##### 共同后续
+
 **北斗:** 当然是来做生意的，顺便来帮某人查探一下新生意的商路。
+
+##### 对话分支 1
 
 - **旅行者:** 这个某人…
 
+##### 对话分支 2
+
 - **旅行者:** 应该就是…
+
+##### 共同后续
 
 **北斗:** 还能有谁，当然是咱们的天权星大人了。
 
@@ -338,7 +405,7 @@ So, you've already drawn one?
 
 **北斗:** 不过嘛，刚走几步，就被这位…呃，卦师给叫住了，请我去抽一张牌…
 
-你已经抽好了？
+- **旅行者:** 你已经抽好了？
 
 **北斗:** 喏，就是这张「力量」牌…看着是一张好牌，因为是正着摆的，所以更是好上加好？
 
@@ -376,9 +443,15 @@ So, you've already drawn one?
 
 **北斗:** 哈，怪不得。我还说呢，要是那女人真心想做笔大买卖，哪还能容我在这里优哉游哉。
 
+##### 对话分支 1
+
 - **旅行者:** 该说不愧是天权星吗？
 
+##### 对话分支 2
+
 - **旅行者:** 放假也放得这么有说法…
+
+##### 共同后续
 
 **派蒙:** 嘿嘿嘿，简单来说，原来是凝光想要给北斗放假呀，可是，她为什么要绕这么大一个圈子呢？
 
@@ -397,3 +470,11 @@ So, you've already drawn one?
 **芭比洛斯:** 庇引迷途之人的光辉…和不为光辉而来之人。
 
 **芭比洛斯:** 有意思，要是有空的话，就再去璃月看看吧…
+
+#### 聆听北斗的故事…
+
+#### 聆听北斗的故事…
+
+#### 完成北斗的故事
+
+#### 离开故事

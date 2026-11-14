@@ -144,5 +144,1044 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "С огнём, что ведёт нас сквозь время, мы взяли землю, окутанную тьмой, и, пролив кровь и слёзы, превратили её в дом. Но приключение продолжается, и впереди нас ждёт новая глава. Как Пиро Архонту, позвольте мне, Мавуике, озарить ваш путь!",
+        "en": "With the flames to guide us across time, we took a land shrouded in darkness, and used our own blood and tears to forge it into a home. Now, our journey continues, and a new chapter awaits. As the current Pyro Archon, allow me, Mavuika, to light your way forward.",
+        "zh": "追寻火焰在时间长河中的足迹，我们将至黑之地以血泪铸成家园，而今，长路向前延续，旅途正待新篇。现任火神玛薇卡，助你的视野中再无漆黑。"
+      },
+      "source_id": 106000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Приключения",
+        "en": "Chat: Adventures",
+        "zh": "闲聊·冒险"
+      },
+      "text": {
+        "ru": "Исследования и испытания... Хм, приключения - это как раз по мне.",
+        "en": "Exploration and trials... Heh, adventuring is right up my alley.",
+        "zh": "探索与挑战…嗯，冒险家的生活很合我的胃口。"
+      },
+      "source_id": 106001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Испытания",
+        "en": "Chat: Experience",
+        "zh": "闲聊·体验"
+      },
+      "text": {
+        "ru": "Богам не стоит всё время оставаться на небесах. Было бы хорошо, чтобы они чаще спускались на землю.",
+        "en": "Instead of confining themselves to the heavens, gods should broaden their horizons in the world below.",
+        "zh": "神明总是在天上待着，不常来地上走走可不行。"
+      },
+      "source_id": 106002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Свет",
+        "en": "Chat: Light",
+        "zh": "闲聊·循光"
+      },
+      "text": {
+        "ru": "Многие насекомые испытывают непреодолимую тягу к свету, и люди ничем не отличаются - только мы называем этот свет «надеждой».",
+        "en": "Many insects have a compulsion to follow the light, and humans are the same — except we call that light, \"hope.\"",
+        "zh": "许多昆虫有循光而行的本能，人类也是如此，只是我们称那道光为「希望」。"
+      },
+      "source_id": 106003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Ммм... как здесь приятно и прохладно. В Натлане таких мест не встретишь.",
+        "en": "Ah, nice and cool. Natlan doesn't have places like this.",
+        "zh": "嗯——好凉快啊，纳塔可没有这样的好地方。"
+      },
+      "source_id": 106004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Идеальная погода для прогулки на свежем воздухе. Как насчёт прокатиться? Давай, запрыгивай.",
+        "en": "Weather like this is perfect for enjoying the outdoors. Wanna go for a spin? Here, hop on.",
+        "zh": "天气真好，很适合户外观光。走，上车，跟我去跑两圈？"
+      },
+      "source_id": 106005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "На тебе сухого места не осталось... Должно быть, неприятно... Давай сделаем паузу, я подсушу тебя своим огнём.",
+        "en": "Ah, you're dripping wet. That must be uncomfortable... Let's take a break. I'll use my fire to dry you off.",
+        "zh": "湿漉漉的很不舒服吧？正好休息片刻，我用火帮你烘干一下。"
+      },
+      "source_id": 106006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Песок - естественный враг огня и цивилизации. В пустыне остались только руины, которые напоминают о прошлом.",
+        "en": "Sand is the natural enemy of fire and civilization. In the desert, ruins are all that remain to tell the story of the past.",
+        "zh": "沙子是火焰与文明的天敌，唯有断壁残垣还在讲述着过往。"
+      },
+      "source_id": 106007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Проснувшись, я всегда первым делом прокручиваю в голове план на день... К сожалению, сон никогда не входит в мои планы.",
+        "en": "After waking up, I always go over the plan for the day in my head... Unfortunately, sleeping in is never on the agenda.",
+        "zh": "醒过来的时候，我会把一天的计划在脑中快速过一次，然后…就会失望地发现，我必须起床了。"
+      },
+      "source_id": 106008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Ты уже пообедал? Из Удела Благодатных Земель прислали свежие фрукты - отличное завершение трапезы. Попробуй! / Ты уже пообедалa? Из Удела Благодатных Земель прислали свежие фрукты - отличное завершение трапезы. Попробуй!",
+        "en": "Have you had lunch? The Collective of Plenty sent over some fresh fruit — the perfect thing to round out a meal. Here, try some.",
+        "zh": "吃过午饭了吗？「沃陆之邦」送来了新鲜的水果，我感觉是很棒的餐后甜点，尝尝看吧。"
+      },
+      "source_id": 106009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Хм, вот предварительный план и ориентировочный бюджет на восстановление дорог для Детей Эха... О, добрый вечер. Уже так поздно?",
+        "en": "Hm, so this is the proposal and approximate budget to rebuild the roads in the Children of Echoes... Oh, good evening. Is it that late already?",
+        "zh": "「回声之子」道路整修的方案及预算，嗯…哦，晚上好，已经这个时间了啊。"
+      },
+      "source_id": 106010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Спокойной ночи! Я собираюсь немного расслабиться и закончить кое-какие дела. О, не переживай! Это я так обычно расслабляюсь...",
+        "en": "Good Night! I'm going to take it easy and wrap up some work. Oh, don't worry — I see keeping busy as a great way to relax.",
+        "zh": "晚安，我还要再忙一些事，就当是休息了。啊，我的意思是，「忙碌」对我而言是一种享受。"
+      },
+      "source_id": 106011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Мавуике: Прическа",
+        "en": "About Mavuika: Hair",
+        "zh": "关于玛薇卡自己·头发"
+      },
+      "text": {
+        "ru": "Мои волосы? Не переживай, это дружелюбный огонь - он не обожжёт тебя и не подожжёт ничего вокруг. Хотя, думаю, наши враги быстро поймут, что играть с огнём - плохая идея, если ты понимаешь, о чём я.",
+        "en": "Oh, my hair? Don't worry, these are friendly flames — they won't burn you or incinerate anything. Although, I think our enemies will find that it's a bad idea to play with fire, if you know what I mean.",
+        "zh": "好奇我的头发？放心吧，这是种非常友善的火，一点都不烫，也不会引燃任何物品，它只会在敌人的身上展现出全部的威力——你明白我的意思吧？"
+      },
+      "source_id": 106012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Мавуике: Послание",
+        "en": "About Mavuika: Message",
+        "zh": "关于玛薇卡自己·留言"
+      },
+      "text": {
+        "ru": "На протяжении всей истории Натлана каждый Пиро Архонт оставлял важнейшие знания и воспоминания в Священном пламени, чтобы преемники могли ими воспользоваться. Огромный объём информации иногда может повлиять на самовосприятие у будущих Архонтов. Поэтому я оставила в пламени такие слова: «Прежде чем стать огнём, гордись тем, кто ты есть сейчас».",
+        "en": "Every Pyro Archon throughout Natlan's history has left behind important knowledge and memories within the Sacred Flame, for the benefit of future successors. When inherited, the sheer amount of information can impact your sense of self. So, I chose to leave behind this phrase, \"Before you become one with flame, be proud of who you are now.\"",
+        "zh": "纳塔历史上存在很多火神，他们都会选出最关键的知识与记忆放入圣火，提供给继位者学习。由于信息量很大，有时候甚至会影响到学习者的神智，所以我在火中留下了一句话——「成为火之前，请先为自我的存在而骄傲。」"
+      },
+      "source_id": 106013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Плечом к плечу",
+        "en": "About Us: Fighting Side By Side",
+        "zh": "关于我们·执剑"
+      },
+      "text": {
+        "ru": "План - надёжный ориентир, но не священная неизменная заповедь. Пятьсот лет назад твоё появление было невозможно предсказать, но после нашей встречи стало ясно, что из-за тебя придётся поменять план. Судя по результату, решение идти рядом оказалось абсолютно правильным.",
+        "en": "A plan is a reliable guide, but it's not an unchangeable or divine decree. Five hundred years ago, I could never have anticipated your arrival. But, after meeting you, I knew factoring you into my plan would be worth it. Judging from the outcome, choosing to fight by your side was unequivocally the right choice.",
+        "zh": "计划是最可靠的指引，但也绝非不可改动的神圣律令，我在五百年前无法预知你的到来，但当我见到并了解你之后，我就知道计划值得因你而变动。从结果上看，与你一同执剑，是无比正确的决断。"
+      },
+      "source_id": 106014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Древнее имя",
+        "en": "About Us: Ancient Names",
+        "zh": "关于我们·古名"
+      },
+      "text": {
+        "ru": "Возможно, ты ещё не осознаешь, какое огромное влияние имя Тумайни окажет на будущее Натлана. В будущем каждое поколение будет ассоциировать это имя с этой битвой и подвигами всех героев. Тумайни и Кионгози будут навсегда связаны и останутся в истории Натлана.",
+        "en": "You may not have realized this, but your ancient name, Tumaini, will have a significant impact on Natlan for years to come. When future generations speak this name, they will think about this battle and the efforts of all our heroes. Our names — Tumaini and Kiongozi — are now linked and will live on in perpetuity.",
+        "zh": "你可能还没有意识到「杜麦尼」这个全新的古名会在未来的纳塔留下多么重要的影响：之后的每一代人讲起「杜麦尼」的故事，就会提到这场战斗，提及每一位英雄，而「杜麦尼」会和「基扬戈兹」紧密相连，我们将会和纳塔一同存续到永远。"
+      },
+      "source_id": 106015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Для людей Глаза Бога и древние имена - это дары от богов: первые дают элементальную силу, а вторые - духовную поддержку. Однако я всегда считала, что отсутствие каких-то внешних атрибутов не мешает человеку стать великим героем. Ведь гораздо важнее, чтобы у него в сердце пылало пламя.",
+        "en": "For humans, Visions and Ancient Names are both gifts from the gods, where the former bestows Elemental power and the latter spiritual inspiration. However, I have always believed that no external factor is a condition for greatness — heroism comes from within.",
+        "zh": "对人类来说，「神之眼」和「古名」都是来自神明的馈赠，区别在于前者赐予了元素力，而后者提供的则是精神上的支持。但我始终认为，有无身外之物的加持都不妨碍一个人变得伟大，成为英雄，因为更重要的东西，是炽热的「心」。"
+      },
+      "source_id": 106016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Когда я была маленькой, мой отец сказал мне, что цепь крепка настолько, насколько крепко её слабое звено. Если ты хочешь развиваться, нужно быть готовым признать свои слабые места и учиться у лучших. Это не делает тебя неудачником, наоборот - это помогает тебе становиться сильнее.",
+        "en": "When I was little, my father told me that a barrel can only hold as much water as the shortest plank. If you want to reach your full potential, you need to be willing to become the weakest link, to acknowledge your shortcomings and learn from others. That doesn't make you a failure, it pushes you to succeed.",
+        "zh": "小时候我父亲告诉我，一个木桶能装多少水，取决于最短的那块木板，但如果想要不断进步，就要甘愿成为那块最短的木板——承认自我的不足，向优秀者请教，这样的人并不是失败者，而是进取者。"
+      },
+      "source_id": 106017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Маленькие юмказавры невероятно милые, а мой питомец Хитата был особенно привязчивым. Он бросался ко мне в объятия, едва заметив меня, независимо от того, как далеко я была. Моя сестрёнка Хини немного завидовала. Как только она видела, что Хитата бежит ко мне, она тоже начинала бежать. И вот меня уже обнимают и заврианчик, и сестрёнка, ха-ха-ха.",
+        "en": "Baby Yumkasaurs are incredibly cute, and my Saurian companion, Hitata, was especially clingy. He used to jump into my arms the minute he saw me, even from quite a distance. My sister, Hine, would get so jealous — whenever she saw Hitata run towards me, she would do the same. Before I knew it, I would have an armful of baby Saurian and baby sister at the same time, haha.",
+        "zh": "幼年的匿叶龙特别可爱，我的龙伙伴希塔塔特别特别黏人，只要看见我，不管离我多远，都会开心地冲进我怀里来。这让我妹妹伊妮有点嫉妒，所以她看到希塔塔跑过来的时候，她也会跑过来，我得同时接住他们两个，哈哈哈。"
+      },
+      "source_id": 106018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Шилонен...",
+        "en": "About Xilonen",
+        "zh": "关于希诺宁…"
+      },
+      "text": {
+        "ru": "Шилонен - одна из лучших мастериц в Натлане. Она не только владеет искусством создания древних имён, но и глубоко изучает технологию Тайных Источников. Она всегда готова к вызовам, даже когда предстоит создать что-то совершенно новое. Процесс, конечно, не обходится без неожиданных поворотов, вроде изменений в дизайне, но результаты всегда говорят сами за себя.",
+        "en": "Xilonen is one of the best craftsmen in Natlan. She has the ability to forge Ancient Names and is well-versed in Secret Source technology. Not to mention, she never backs away from a challenge, even when it's completely uncharted territory. The process isn't without twists and turns — like design changes and other modifications — but the results speak for themselves.",
+        "zh": "希诺宁是纳塔最优秀的工匠之一，不仅掌握古名的打造方法，还对秘源技术颇有研究，就算是需要创造前所未有的东西，她也勇于挑战，总能拿出好的结果，虽然过程通常会有点波折…嗯，比如改设计之类的。"
+      },
+      "source_id": 106019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Ситлали...",
+        "en": "About Citlali",
+        "zh": "关于茜特菈莉…"
+      },
+      "text": {
+        "ru": "Многие считают её странной или трудной в общении, но я думаю, что она просто не тратит своё внимание на пустяки. Когда же случается что-то важное, она всегда готова включиться. Думаю, вы сами это уже видели... Иногда я думаю, что сложный характер делает её уязвимой для опасностей, и стараюсь скрыть от неё кое-что. Но, похоже, это почти невозможно - она слишком проницательна.",
+        "en": "Many people find her strange or difficult to get along with. But, this is how I see it — Citlali doesn't concern herself with trivial matters, but she's always there when it counts. I'm sure you've seen that for yourself. She's someone who can easily tunnel vision and get herself embroiled in trouble, so I try to keep certain things from her. But, she can see right through me... She's too sharp.",
+        "zh": "很多人觉得她脾气古怪，难以相处，我认为只是普通的琐事不配让她放在心上。当真正需要她担心的事出现，她会有多认真，你们应该已经见识过了…有时候我觉得像她这样的性格很容易被卷入险境，所以我会向她隐瞒一些东西，可是…想要不被她洞察到也很难，她太敏锐了。"
+      },
+      "source_id": 106020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Часке...",
+        "en": "About Chasca",
+        "zh": "关于恰斯卡…"
+      },
+      "text": {
+        "ru": "Выжить под воздействием Бездны - само по себе чудо, но благодаря людям и заврианам у неё появилась причина не только выжить, но и по-настоящему жить. Я верю в её стойкость, но всё же сделаю всё, что в моих силах, чтобы этот мир стал для неё «мягче». Даже самым сильным из нас иногда нужен отдых.",
+        "en": "Being able to survive under the influence of Abyssal corrosion was already a miracle, but thanks to the people and Saurians of this land, she even found a reason not just to survive, but to live. I have every faith in her fortitude, but I will still do what I can to make this land a \"gentler\" place — even the strongest among us need a break sometimes.",
+        "zh": "能在深渊的影响下存活，本就是种奇迹，更令人感动的是，她在纳塔邂逅的人与龙，共同帮助她找到了活下去的「理由」。现在我已无须担心她的坚韧，但我还是想要尽我所能，为她留出一个更加温柔的「居所」——再坚强的人，也需要休息。"
+      },
+      "source_id": 106021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "Об Оророне...",
+        "en": "About Ororon",
+        "zh": "关于欧洛伦…"
+      },
+      "text": {
+        "ru": "На мой взгляд, настоящая личность Оророна сильно отличается от того, что он показывает окружающим. Он подобен лаве, скрытой под льдом. Племя и друзья даруют Оророну спокойствие, но желание защитить их и стремление стать героем не оставляют его. Поддаваться эмоциям - не всегда хорошая идея. Но его благородные качества всё равно заслуживают уважения.",
+        "en": "In my opinion, Ororon's true personality is very different from what he projects on the outside — like lava covered in ice. His tribe and his friends bring him peace, but his drive to protect them and his need to become a hero leave him restless. It's inadvisable to act on impulse, but these are precious qualities all the same.",
+        "zh": "在我看来，他的真实性格和外在表现出的东西相去甚远，他就像是一块被冰块包裹的熔岩，让他冷静下来的东西是族人与朋友，让他躁动不安的则是守护他们的冲动，与成为英雄的使命感…这种情绪并不理智，但又难能可贵。"
+      },
+      "source_id": 106022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "Об Иансан: Под прицелом",
+        "en": "About Iansan: Being Targeted",
+        "zh": "关于伊安珊·纠缠"
+      },
+      "text": {
+        "ru": "Многие недооценивали Иансан в её первых паломничествах после получения древнего имени и выделяли её на командном этапе как лёгкую цель. Хотя она ни разу не проиграла, постоянные атаки истощали её выносливость и сказывались на её рейтинге, что лишь повышало вероятность новых нападений.",
+        "en": "A lot of people underestimated Iansan during her first few Pilgrimages after receiving her Ancient Name, and singled her out during the team stage as an easy target. Even though she never lost, the constant challengers drained her stamina and affected her ranking, which only made people more likely to target her...",
+        "zh": "伊安珊刚刚获得古名参加归火圣夜巡礼的时候，总是被人当成软柿子，所以在团体赛的时候找她战斗的人非常多，虽然她每次都能赢，但也会消耗大量的体能，这也让她起初的成绩并不好。而越是这样，她就越容易被人缠上…"
+      },
+      "source_id": 106023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Об Иансан: Доказательство",
+        "en": "About Iansan: Proving Yourself",
+        "zh": "关于伊安珊·证明"
+      },
+      "text": {
+        "ru": "Мой совет ей был прост: люди не будут связываться с тем, чья сила очевидна. Нужно только показать свою силу. И вот она решила это сделать... вызвав меня на бой в арене, ха-ха-ха! Уж такого я точно не ожидала! В итоге она показала отличный бой, и больше никто смел её недооценивать.",
+        "en": "My advice to her was this — people are less likely to mess with someone whose strength is undeniable, so all she needed to do was to prove it. Well, she decided to do just that... by challenging me in the arena, hahaha. Yeah, I definitely didn't see that coming! In the end, she put up quite the fight, and no one underestimated her again.",
+        "zh": "我给了她建议，只要大家都知道她是个强者，就不会有那么多人找麻烦了。但我没想到的是，伊安珊沉思片刻，想到的方法竟然是在归火圣夜巡礼的时候和我打一场。哈哈哈，她的实力远超我的预料，这一场也很有效果，再也不会有人瞧不起她了。"
+      },
+      "source_id": 106024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Муалани...",
+        "en": "About Mualani",
+        "zh": "关于玛拉妮…"
+      },
+      "text": {
+        "ru": "По характеру Муалани и Тупак совершенно разные, но оба унаследовали имя Умоджа. Единство не в действиях, а в состоянии души - готовности отдать всё ради племени, семьи и друзей. Вряд ли Муалани тогда задумывалась о чём-то подобном. Она знала одно - жизнь Качины стоила любого риска.",
+        "en": "In terms of personality, Mualani and Tupac are completely different, and yet both inherited the name, Umoja. Unity lies not in a particular action, but in a state of mind — a willingness to give your all for your nation, family and friends. But, I doubt Mualani was thinking about any of that back then. She knew one thing to be true — that Kachina's life was worth any risk to her own.",
+        "zh": "她和图帕克的性格完全不同，却都继承了「沃摩延」之名。「团结」重要的并不是方式，而是内心中珍视友人与家园，愿意为此献出全力的精神…虽然我这么说，但当时的玛拉妮一定没想这么多，她只是很清楚，卡齐娜与她自己的生命同等重要。"
+      },
+      "source_id": 106025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Киниче...",
+        "en": "About Kinich",
+        "zh": "关于基尼奇…"
+      },
+      "text": {
+        "ru": "Помимо значения «Пламя поворота», Малипо также означает «стоимость» или «цена». Это не звучит так героично, как другие древние имена, но на самом деле Малипо учит нас быть спокойными и вдумчивыми - задавать вопросы, которые другие не хотят слышать. Без людей, обладающих такими качествами, слишком просто поддаться эмоциям и принять решения, о которых можно потом пожалеть.",
+        "en": "In addition to the Turnfire, Malipo has another meaning, \"cost\" or \"price.\" It may seem less overtly heroic compared to the other Ancient Names, but in truth, Malipo teaches us to be calm and analytical — to ask the questions people may not want to hear. Without people who possess these qualities, it's just too easy for the rest of us to act on impulse and emotion, and make decisions we'll come to regret.",
+        "zh": "「马力卜」除了回火还有一个含义是「代价」，你们可能会疑问，相较于其他古名，这并非是一个表达积极含义的词语。但其实「代价」象征着时刻保持清醒，敢于分析现状，提出问题，哪怕是泼冷水和说丧气话，如果没有这样的人在，众人很容易因情绪而陷入死局，因小失大。"
+      },
+      "source_id": 106026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Качине...",
+        "en": "About Kachina",
+        "zh": "关于卡齐娜…"
+      },
+      "text": {
+        "ru": "После того как ты спас Качину из Царства Ночи, я вместе с вождём Пакалем посетила её семью и принесла несколько подарков, чтобы ещё раз извиниться за произошедшее. Время, проведённое Качиной в Царстве Ночи, оставило на ней множество шрамов, которые будут с ней навсегда... шрамов, которые не были для неё предназначены... И в том моя вина. / После того как ты спасла Качину из Царства Ночи, я вместе с вождём Пакалем посетила её семью и принесла несколько подарков, чтобы ещё раз извиниться за произошедшее. Время, проведённое Качиной в Царстве Ночи, оставило на ней множество шрамов, которые будут с ней навсегда... шрамов, которые не были для неё предназначены... И в том моя вина.",
+        "en": "After you rescued Kachina from the Night Kingdom, I visited her family with Chief Pacal, and brought a few gifts to once again apologize for what happened. Kachina's time in the Night Kingdom left her with many scars she will have to carry into the future — scars she should never have had to bear... And for that, the fault is mine.",
+        "zh": "在你们帮助卡齐娜从夜神之国平安归来之后，我去了她家，和首领一起再次表达了歉意，还送去了一些慰问品。迷失在夜神之国的这段经历会在卡齐娜的成长中残留很多影响，而这些影响本不应该发生…我对此负有责任。"
+      },
+      "source_id": 106027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Варесе...",
+        "en": "About Varesa",
+        "zh": "关于瓦雷莎…"
+      },
+      "text": {
+        "ru": "Во время Паломничества я беру на себя все расходы в «Обители усталости», и каждый раз, когда я прихожу оплачивать, я вижу заказ на восемьдесят порций. Сначала я думала, что это для какой-то большой группы друзей, но оказалось... что заказала всё это она одна.",
+        "en": "During the Pilgrimage, I cover all the expenses at the Weary Inn, and without fail, there's always an order for a party tray for eighty. I used to assume it was someone ordering for a large group of friends, but as it turns out... Varesa ordered it all for herself.",
+        "zh": "归火圣夜巡礼举办期间，「倦意之屋」的消费都由我个人承担，但每次去结账的时候，都会发现有个客人点了八十人份的套餐。起初我还以为是大型的亲朋好友观光团，结果没想到…居然就是她一个人。"
+      },
+      "source_id": 106028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Об Ифе...",
+        "en": "About Ifa",
+        "zh": "关于伊法…"
+      },
+      "text": {
+        "ru": "Хороший врач обладает не только отличными медицинскими знаниями, но и выдающимися навыками общения. А когда между врачом и пациентом существует языковой барьер, на первый план выходят наблюдательность и эмпатия. Именно поэтому Ифа может подружиться практически с кем угодно.\nТак что, если кто-то, будь то человек или завриан, не поладил с Ифой... Ха-ха, сдаётся мне, что проблема не в Ифе.",
+        "en": "The truly great doctors often possess vast medical knowledge as well as great communication skills. And, when the patient and the doctor do not speak the same language, observation and empathy become even more important. That's why Ifa can make friends with just about anyone.\nSuffice it to say, if someone is on bad terms with Ifa — human or saurian — I doubt the problem lies with him, haha.",
+        "zh": "除了精湛的医术外，一个好医生往往拥有很强的沟通能力。而当与医患语言不通时，就需要更敏锐的观察力和同理心。这就是为什么伊法总是能和不同性格的人交上朋友吧。\n所以说，如有人或者龙和伊法关系不好…哈哈，我想应该不是伊法的问题。"
+      },
+      "source_id": 106029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "О Капитане...",
+        "en": "About The Captain",
+        "zh": "关于「队长」…"
+      },
+      "text": {
+        "ru": "Полагаю, для него эти пятьсот лет тянулись бесконечно. Когда человек лишён права на смерть, жизнь становится бесконечным путешествием, и человеческий дух легко истощается в такой пустоте. Однако ему удалось ухватить единственный шанс на победу и достичь того, к чему он стремился. Я глубоко уважаю таких воинов, как он.",
+        "en": "For him, I suspect the past five hundred years felt endless. When someone is deprived of death, life becomes a journey with no end, and the human spirit easily grows weary. And yet, he managed to seize the only chance of victory to arrive at the end he sought all along. I have great respect for warriors like him.",
+        "zh": "同样是五百年的时间，我想对他而言会更加漫长，当死亡的权利被剥夺，人生就成为了没有终点的旅途，人类的精神很容易就在这种虚无中耗竭。可是他依然抓住了唯一的胜利机会，获得了他所追求的圆满。我对像他这般的战士充满敬意。"
+      },
+      "source_id": 106030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "О Семи...",
+        "en": "About The Seven",
+        "zh": "关于尘世七执政…"
+      },
+      "text": {
+        "ru": "Честно говоря, ты, вероятно, знаешь их лучше, чем я. Однако их народы существуют и развиваются по сей день, и без сильного руководства это было бы невозможно. Когда глава истории Натлана о сопротивлении Бездне завершится, я намерена укрепить наши связи с другими странами, чтобы Натлан мог продолжать расти и процветать.",
+        "en": "To be quite honest, you likely know them better than me. However, their nations continue to survive and thrive to this day, and that would be impossible without strong leadership. Once this chapter of Natlan's history comes to a close, I plan on strengthening our relationship with other nations so that Natlan can continue to grow.",
+        "zh": "很遗憾，我对他们的了解甚至还不如你多，但我相信只有最优秀的领导者，才能让国度存续至今并且向前发展。在纳塔抗击深渊的历史告一段落之后，我也打算和其他国家建立更多联系，并为纳塔接下来的发展做好准备。"
+      },
+      "source_id": 106031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Мавуике I",
+        "en": "More About Mavuika: I",
+        "zh": "想要了解玛薇卡·其一"
+      },
+      "text": {
+        "ru": "О, хочешь узнать обо мне побольше? Без проблем, я действительно люблю рассказывать истории. Хотя, думаю, будет намного интереснее, если мы выпьем пару стаканчиков перед этим.",
+        "en": "Oh, you want to know more about me? Sure, I'm actually quite fond of telling stories. Still, I think this will be a lot more fun over a few drinks.",
+        "zh": "哦？没问题，我还挺喜欢讲故事的，只不过就这么讲未免单调了点，我们先去来上两杯吧。"
+      },
+      "source_id": 106032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Мавуике II",
+        "en": "More about Mavuika: II",
+        "zh": "想要了解玛薇卡·其二"
+      },
+      "text": {
+        "ru": "Управлять пламециклом несложно, достаточно немного попрактиковаться. Но если хочется разогнаться, нужно будет установить несколько дополнительных средств безопасности. Что? Ты говоришь, что я уже еду достаточно быстро? Как бы сказала Шилонен: «Не думаю, что тебе нужна какая-то защита. Не похоже, что ты сделан из стекла». / Управлять пламециклом несложно, достаточно немного попрактиковаться. Но если хочется разогнаться, нужно будет установить несколько дополнительных средств безопасности. Что? Ты говоришь, что я уже еду достаточно быстро? Как бы сказала Шилонен: «Не думаю, что тебе нужна какая-то защита. Не похоже, что ты сделанa из стекла».",
+        "en": "Riding the flamestrider isn't complicated, it just takes some practice. If I want to go fast, though, I would need to install some safety components. What was that? I'm already going quite fast? Well, when I asked, this is what Xilonen told me — \"It's safe enough — not like you're made of glass.\"",
+        "zh": "驰轮车的操控并不复杂，只要稍加练习就能驾驭，不过如果想要高速行驶，还需要加装许多安全配件。什么？你说我现在已经骑得很快了？用希诺宁的原话来解释——「你身强体壮，用不着这个。」"
+      },
+      "source_id": 106033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Мавуике III",
+        "en": "More about Mavuika: III",
+        "zh": "想要了解玛薇卡·其三"
+      },
+      "text": {
+        "ru": "Конечно, у меня тоже есть много сожалений. Благодаря моим знаниям и силам я могу эффективно решать проблемы, но зачастую людям нужно не это, а просто «присутствие»... Я разочаровала многих в этом плане, но долг не ждёт. Сомнения в своём пути только принесут больше боли - я обязана придерживаться своих убеждений.",
+        "en": "Of course, I also have many regrets. Thanks to my knowledge and strength, I'm an effective problem-solver, but most of the time, all people really need is companionship... I've disappointed many people in that regard, but duty stops for no one. Questioning my path will only bring more pain — I owe it to myself to stick to my convictions.",
+        "zh": "我的遗憾当然也有很多。因为使命在身，我无法为任何人驻足停留，我所积累的知识和力量能最有效率地解决问题，但很多时候人们需要的只是「陪伴」…在这方面，我让很多人失望过。优柔寡断只会带来更深重的痛苦，我唯一能做的就是克制。"
+      },
+      "source_id": 106034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше о Мавуике IV",
+        "en": "More about Mavuika: IV",
+        "zh": "想要了解玛薇卡·其四"
+      },
+      "text": {
+        "ru": "Высвобождая силу божественного трона, я поднялась ввысь, и моя душа слилась с артериями земли. Я чувствовала пыл наших воинов, стойкость народа и боль павших... Давным-давно я переживала что-то подобное. Но с помощью твоей силы и наших героев на этот раз всё завершилось иначе. И это доказывает, что борьба наша была не напрасной.",
+        "en": "Unleashing the power of the divine throne bound my soul to the Ley Lines. As I rose up into the air, I could feel the passion of our warriors, the determination of our people, and the pain of our fallen... It's a scene I've witnessed once before. But, with the help of our heroes, this time it had a very different ending. That is how we know this struggle was not in vain.",
+        "zh": "解放神座之力升上高空之后，我的灵魂也和地脉紧紧相连，我能感受到战士的热血，普通人的坚强，以及受害者的伤痛…亲历这些情绪，已经是第二次了，所幸有你和英雄们的帮助，这次的结局完全不同，这也证明了我们的坚持是有价值的。"
+      },
+      "source_id": 106035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Узнать больше о Мавуике V",
+        "en": "More about Mavuika: V",
+        "zh": "想要了解玛薇卡·其五"
+      },
+      "text": {
+        "ru": "С нашим триумфом над Бездной завершилась моя главная миссия Пиро Архонта. Пятьсот лет назад я выбрала бороться за будущее, в котором, вероятно, не было бы места для меня. И я была готова к такому исходу. Но когда это будущее наступило, я оказалась в растерянности... Однако ты вдохновил меня. Исследования, любознательность и преданность другим - вот путь вперёд. / С нашим триумфом над Бездной завершилась моя главная миссия Пиро Архонта. Пятьсот лет назад я выбрала бороться за будущее, в котором, вероятно, не было бы места для меня. И я была готова к такому исходу. Но когда это будущее наступило, я оказалась в растерянности... Однако ты вдохновилa меня. Исследования, любознательность и преданность другим - вот путь вперёд.",
+        "en": "With our triumph over the Abyss, my most important duty as Pyro Archon came to an end. Five hundred years ago, I chose to fight for a future that likely wouldn't include me — so I was prepared for that result. So, when that future actually arrived, I was at a loss... But, you've inspired me. Exploration, curiosity, and dedication to others — that's the path forward.",
+        "zh": "我作为火神最重要的职责已经告一段落，原本在这崭新的纳塔里并没有我的位置，我在几百年前就接受了这一切，而现在这种状态，反而让我有点手足无措…不过在你的身上，我已经看到了我应该前往的方向——去探寻，去学习，去拯救。"
+      },
+      "source_id": 106036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Хобби Мавуики",
+        "en": "Mavuika's Hobbies",
+        "zh": "玛薇卡的爱好…"
+      },
+      "text": {
+        "ru": "Становиться сильнее. Преодолевать сложные испытания, разгадывать запутанные головоломки, побеждать сильных противников... У меня нет одного увлечения - я получаю удовольствие от самого процесса достижения цели.",
+        "en": "Getting stronger. Completing a difficult challenge, solving a complicated puzzle, defeating a powerful enemy... I don't have a singular hobby — the sense of accomplishment is what I enjoy the most.",
+        "zh": "变强。比如完成艰难的挑战，解开复杂的谜题，战胜强大的敌人…比起重复相同的事，成就感才是我的快乐源泉。"
+      },
+      "source_id": 106037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Беспокойство Мавуики...",
+        "en": "Mavuika's Troubles",
+        "zh": "玛薇卡的烦恼…"
+      },
+      "text": {
+        "ru": "«Из-за невысокого спроса работа над дополнениями и расширениями для игры \"Завриан-детектив\" была приостановлена...» Это была моя любимая настольная игра-головоломка. Неужели дело в том, что она была слишком сложной? Или правила - слишком запутанными? Но это не делает её плохой... Эх... Если всё зависит от продаж, тут я ничего не смогу сделать. Надеюсь, создатель выпустит новую игру. Может, я напишу анонимное письмо, чтобы поддержать его...",
+        "en": "\"Due to lack of popularity, all future expansions and additions to 'The Saurian Sleuth' have been suspended...\" That was my favorite tabletop puzzle game. It can't be because it was too hard or the rules were too complicated, right? That doesn't make it bad... *sigh* If it comes down to sales, there's not much I can do. I hope the creator will come out with a new game. Maybe I'll write an anonymous letter to support him...",
+        "zh": "「『恐龙与遗迹侦探』由于人气不佳，决定不再制作拓展内容和解密合集…」这可是我最喜欢的桌面谜题，不能因为它的题目太难，规则难以理解，就认为它做得不好吧。唉，不过既然是销量原因也没办法，写一封匿名信鼓励作者吧，希望以后还能玩到他的新作。"
+      },
+      "source_id": 106038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Даже для самых простых домашних блюд у каждой семьи есть свой особый рецепт, и вкус может сильно отличаться. Я пробовала множество разных рагу на стадионе Священного пламени, каждое из которых уникально и вкусно по-своему. Но если я готовлю для себя, я всё равно предпочитаю рецепт моей семьи.",
+        "en": "Even when it comes to the simplest home-cooked meals, every family has their own recipe, and the flavor can change a lot. I've tried a bunch of different stews around the Stadium, each unique and delicious in its own way. But, if I'm cooking for myself, I still prefer my family recipe.",
+        "zh": "哪怕是最简单的家常菜，每家人做出来的味道也不一样，有时候差别还很大。我在圣火竞技场吃过好几种炖肉，每种都很好吃，做法都有独到之处，但轮到我自己做的时候，我还是会选择我家的味道。"
+      },
+      "source_id": 106039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Мне нравятся почти все ингредиенты, но я не особо ценю блюда, где форма важнее содержания, например, какой-нибудь званый ужин с тремя переменами блюд, где на одну только сервировку уходит три часа. Конечно, я уважаю кулинарные инновации, но предпочитаю тратить своё время на что-то более продуктивное.",
+        "en": "I like most ingredients, but I don't really appreciate dishes that are more form than substance, like a full course dinner that will take three whole hours to get through... I respect culinary innovation, of course, but I prefer to spend my time on something more productive.",
+        "zh": "我没有不喜欢的食材，但我比较反感形式大于内容的食物，比如要花三个小时才能走完全程的「正餐」…虽然能感受到厨师的创意与巧思，但我还是愿意将时间投入到更有效率的事情上。"
+      },
+      "source_id": 106040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Спасибо, мне такое нравится. У тебя есть рецепт? Я бы с удовольствием научилась сама готовить.",
+        "en": "Just what I like, thank you. Do you have the recipe? I'd love to learn.",
+        "zh": "谢谢你，相当合我的口味，你有菜谱吗？我也想学学看。"
+      },
+      "source_id": 106041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Неплохо, но можно и получше.",
+        "en": "Not bad overall, but there's still room for improvement.",
+        "zh": "我大体满意，不过还能想到几个改进点。"
+      },
+      "source_id": 106042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Эм... На вкус не так уж и плохо. Гораздо лучше, чем на вид.",
+        "en": "Oh, it's surprisingly edible. Definitely not as bad as it looks.",
+        "zh": "没想到吃起来还不坏，我能够接受。"
+      },
+      "source_id": 106043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С сегодняшнего дня начни записывать все свои достижения на листе бумаги. А когда возьмешь его в руки на свой следующий день рождения, это будет подарок от самого себя! Так ты никогда не забудешь, какой ты замечательный. С днём рождения, Путешественник. / С сегодняшнего дня начни записывать все свои достижения на листе бумаги. А когда возьмешь его в руки на свой следующий день рождения, это будет подарок от самой себя! Так ты никогда не забудешь, какая ты замечательная. С днём рождения, Путешественник.",
+        "en": "Starting from today, you should write down all your accomplishments on a piece of paper. Then, when you take it out on your next birthday, you'll have a gift from yourself! That way, you'll never forget how amazing you are. Happy Birthday, Traveler.",
+        "zh": "从今天开始，你可以把每个值得纪念的成就都写在纸上，保存到下一次生日的时候再拿出来，这样你就会拥有一份来自自己的生日礼物。希望这些记录，能够让你时刻记住，你有多么了不起，生日快乐。"
+      },
+      "source_id": 106044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Прекрасно! Чувствую себя великолепно.",
+        "en": "Perfect! I feel nice and loose.",
+        "zh": "舒展筋骨的感觉，我喜欢。"
+      },
+      "source_id": 106045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Я чувствую, как становлюсь сильнее. Но моя сила ещё не достигла предела.",
+        "en": "I can feel myself getting stronger. But, my power doesn't stop here.",
+        "zh": "力量越来越强，不过我的实力还远不止此。"
+      },
+      "source_id": 106046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Мой огонь пылает всё ярче, тело и дух становятся единым целым. Эта сила даст мне возможность выполнить все мои обязанности как лидера.",
+        "en": "My fire grows hotter, and my body and spirit more aligned. This power shall allow me to fulfill all my duties as a leader.",
+        "zh": "火焰愈发澄澈，我的灵魂与肉体也愈发契合，这等力量，才是践行「领袖」职责的保证。"
+      },
+      "source_id": 106047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "С тех пор как мы встретились, моя сила росла с каждым днём. Хотя нас ведут разные цели, общее чувство долга и справедливости связывает нас. Твоя помощь Натлану неоценима, и я более чем благодарна, чем могу выразить словами.",
+        "en": "Ever since we met, my power has grown by leaps and bounds. Though different missions drive us forward, a shared sense of duty and justice binds us together. Your help to Natlan is immeasurable, and I am more grateful than words can say.",
+        "zh": "自从与你相遇，我的力量再次获得了质的飞跃。我们各自拥有不同的使命，是责任感与正义感将我们相连。对于你所提供的帮助，我感激不尽。"
+      },
+      "source_id": 106048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Поджигай!",
+        "en": "Light it up.",
+        "zh": "点燃吧。"
+      },
+      "source_id": 106049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Спали дотла!",
+        "en": "Burn it down!",
+        "zh": "焚灭不净！"
+      },
+      "source_id": 106050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "К солнцу!",
+        "en": "Rise with the sun.",
+        "zh": "烈日随我。"
+      },
+      "source_id": 106051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Дави на газ!",
+        "en": "Rev the engines!",
+        "zh": "要加速了。"
+      },
+      "source_id": 106052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Полный вперёд!",
+        "en": "Full throttle!",
+        "zh": "动力全开！"
+      },
+      "source_id": 106053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Попробуй остановить меня.",
+        "en": "Try and stop me.",
+        "zh": "谁要阻拦？"
+      },
+      "source_id": 106054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Свет пылающего солнца!",
+        "en": "Light of the blazing sun!",
+        "zh": "恭听太阳的轰鸣！"
+      },
+      "source_id": 106055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Гнев небес!",
+        "en": "Wrath from the skies!",
+        "zh": "无赦天火！"
+      },
+      "source_id": 106056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Сгинь в пламени!",
+        "en": "Pyroclastic surge!",
+        "zh": "埋葬于赤焰之下！"
+      },
+      "source_id": 106057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "На долгую память о хорошем приключении.",
+        "en": "The rewards of an adventure worth remembering.",
+        "zh": "冒险的嘉奖，很有纪念意义。"
+      },
+      "source_id": 106058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Это станет хорошим дополнением моей коллекции.",
+        "en": "Ah, something to add to my collection.",
+        "zh": "多了一份能加入收藏的东西。"
+      },
+      "source_id": 106059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Неплохо. Очень даже неплохо.",
+        "en": "Hey, not a bad haul.",
+        "zh": "还不错，我很喜欢。"
+      },
+      "source_id": 106060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Больше ошибаться нельзя.",
+        "en": "No more mistakes.",
+        "zh": "不能再失误了。"
+      },
+      "source_id": 106061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Нужно сосредоточиться.",
+        "en": "Switching gears.",
+        "zh": "需要调整。"
+      },
+      "source_id": 106062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Пора взяться за ум.",
+        "en": "Time to buckle down.",
+        "zh": "也该认真起来了。"
+      },
+      "source_id": 106063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Я со всем разберусь.",
+        "en": "Leave the fighting to me.",
+        "zh": "战斗的事交给我。"
+      },
+      "source_id": 106064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Передохни немного.",
+        "en": "Take a breather.",
+        "zh": "不要勉强自己。"
+      },
+      "source_id": 106065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Огонь... не погаснет...",
+        "en": "The flame... burns on...",
+        "zh": "火，不会熄灭…"
+      },
+      "source_id": 106066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Наследию... пришёл конец...",
+        "en": "The end... of our legacy...",
+        "zh": "传承，终结了吗？"
+      },
+      "source_id": 106067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Это... судьба?..",
+        "en": "Is this... our fate?",
+        "zh": "命运，如此？"
+      },
+      "source_id": 106068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ух. Нормально.",
+        "en": "Not bad.",
+        "zh": "不错啊。"
+      },
+      "source_id": 106069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Архонт готова к битве.",
+        "en": "Archon reporting for battle.",
+        "zh": "火神玛薇卡，参战。"
+      },
+      "source_id": 106070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Когда захочешь, где захочешь.",
+        "en": "Any time, any place.",
+        "zh": "当然没问题。"
+      },
+      "source_id": 106071
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Всегда готова.",
+        "en": "Ready to ride.",
+        "zh": "我随时准备就绪。"
+      },
+      "source_id": 106072
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "О Юмэмидзуки Мидзуки...",
+        "en": "About Yumemizuki Mizuki",
+        "zh": "关于梦见月瑞希…"
+      },
+      "text": {
+        "ru": "У меня сложилось неплохое впечатление об этой инадзумской гостье. Я слышала, что когда она впервые оказалась в Натлане, то проявила интерес к горячим источникам Народа Родников и расспрашивала о них местных жителей. Но её целью было не получить прибыль, а помочь людям улучшить своё психологическое состояние. Такие благородные мотивы заслуживают уважения и поддержки.\nКстати... Интересно, а нынешний Архонт Инадзумы тоже любит горячие источники? Если это так, то я знаю, как завязать с ней разговор.",
+        "en": "Ah, she left a very positive impression. When she first arrived in Natlan, I heard that she had a great deal of interest in our hot springs and spent quite some time studying their properties. But, it wasn't for profit. She was interested in their role in improving mental health. Such a pure cause deserved our support and respect.\nSpeaking of which... Is it true that the current Archon of Inazuma enjoys hot springs as well? If that's the case, I believe I've found a good starting point for our next conversation.",
+        "zh": "我对这位稻妻客人印象不错。听说她初来纳塔的时候，对「流泉之众」那边的温泉颇为上心，还四处打听和温泉有关的技艺。但她的钻研不为谋利，而是旨在改善人们的精神状态。如此纯粹的目的，理应获得我们的敬重与帮助。\n说起来…稻妻的现任执政也喜欢泡温泉吗？要是此事属实，我似乎知道该如何和她拉近关系了。"
+      },
+      "source_id": 106073
+    }
+  ],
+  "replica_count": 74
 }

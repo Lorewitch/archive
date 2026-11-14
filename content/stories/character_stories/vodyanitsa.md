@@ -1,0 +1,1333 @@
+# id: vodyanitsa
+# title_ru: Водяница
+# title_en: Vodyanitsa
+# title_zh: 沃雅妮莎
+# game_source_ids: 10000140
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# story_group: character_stories
+# rarity: 5
+# region: Снежная
+# element: hydro
+# character_filters: 
+# icon: assets/icons/stories/character/vodyanitsa.webp
+# part_source_ids: 140600,140200,140201,140202,140203,140204,140205,140206,140207
+# game_version: 7.1
+
+## RU
+
+### О персонаже
+
+Одинокая русалка, примадонна Королевской труппы.
+
+### О персонаже
+
+В давние времена в Снежной весь город был населён водяными и русалками: одни выступали на сцене с прекрасными гимнами, другие распевали весёлые куплеты на улицах и в переулках, третьи же любили спрятаться под водой и своими чарующими песнями заманивать любопытных прохожих к самому берегу, чтобы вдруг вынырнуть и окатить их водой с ног до головы, а потом, под возмущённые крики и хохот зевак, снова нырнуть под воду, плеснуть хвостом и исчезнуть.
+...Но с течением времени сцены и переулки Снежной незаметно теряли своих певцов. Мелодии, что жили под водой, вместе с тёмными течениями беззвучно утекали в безмолвную даль. Люди с тревогой гадали: быть может, таинственные подводные песни покинули их навсегда...
+Но однажды утром стало известно, что Водяница по-прежнему выступает на сцене Королевского театра - словно старые времена никуда не ушли, словно прежние радости до сих пор живы.
+Почти никто не знал причины, по которой она осталась, и никто не осмеливался спросить её об этом напрямую - если только он не хотел навсегда лишиться возможности брать интервью у госпожи Водяницы.
+Может быть, она боялась разочаровывать поклонников, что так любили её голос? Или не хотела покидать эту великолепную сцену? А может, были какие-то другие, достаточно веские причины, что заставили её плыть против течения - пусть даже этот выбор означал разлуку с сородичами?
+Поклонники Водяницы не видели смысла искать ответ на этот вопрос. Важно было одно: они по-прежнему могут слышать пение Водяницы, их по-прежнему пленяет её голос.
+Конечно, если вам хочется попасть под чары её пения...
+«Стоячие места? Нет, в нашем театре пока нет такой опции... Нет, приносить свои стулья на спектакль тоже нельзя».
+«Приоткрыть двери? Но тогда зрители в зале замёрзнут...»
+«Извините, нашему театру пока не нужны уборщики на неполный рабочий день!»
+...Для начала нужно купить билет.
+
+### История персонажа 1
+
+Некогда пение Водяницы было радостным и ликующим, словно беззаботное детство, которое её сородичи провели в Далограде.
+В те времена водяные не знали границ. Они странствовали, следуя зову сердца, и щедро дарили свои благословляющие песни каждому живому существу.
+...Затем водяной Домбертиев Безземельный вступил в союз с королём Мстиславом Кровопийцей. Быстрые и бесстрашные дети вод стали опорой, благодаря которой Мстислав пришёл к власти, завоевал славу и, со временем, корону. Однако дочь Домбертиева, Василиса Водяновна, не могла смотреть на то, как кровь её соплеменников замерзала на поверхности озера. Она стояла на берегу, держа в руках кроваво-розовые ледяные цветы, и оплакивала каждую безмолвную душу.
+Наконец она ушла. Все из её рода, кто больше не желал брать в руки оружие, последовали за ней, и все вместе они направились ко двору императора Мономаха Снежного.
+Император Мономах пожаловал ей титул, и Василиса Водяновна приняла его, ибо знала: если она хочет заслужить благосклонность Бледной звезды, ей следует сначала носить имя, которое ей было даровано.
+Однако когда ей были предложены корона, сокровища и земли, Водяновна отказалась от них. Покинувшая родину русалка сказала царю:
+«Мне не нужна корона, ведь носить её может лишь тот, чьё сердце столь же тяжело и недвижно.
+Мне не нужны сокровища, ибо они способны удовлетворить лишь корысть, что изначально лишена всякого смысла.
+Мне не нужны земли, ибо воды и земли не должны принадлежать ни одному владыке.
+Я прошу лишь об одном, чтобы дети вод перестали точить свои клинки под скорбные песни. Пусть они поют для каждой души, в которой живёт настоящая любовь, и пусть каждая их песня принадлежит лишь их сердцам».
+Император Мономах удовлетворил прошение Василисы Водяновны, и водяные Бледной звезды более не были обязаны подчиняться чужой воле. Вместе с тем император заключил с Водяновной договор: даже если водяной добровольно решит пойти на войну, никого не будут заставлять брать в руки оружие. И этот договор соблюдался. Невооружённые водяные бродили среди войск, но никогда не участвовали в кровавой бойне. Однако они не забывали о защите, которую им предоставил Мономах.
+Водяные доставляли донесения и послания, среди которых было немало любовных писем - водяные обожают такие послания, уносили раненых вниз по течению - их мастерство в управлении плотами поражало воображение, и своими песнями убаюкивали объятых страхом воинов, даруя им мирный сон - немало тех песен сохранилось и стало классикой.
+И длилось всё это, покуда вода озера больше не окрашивалась кровью, а Бледная звезда озарила своим сиянием самые отдалённые уголки земли, покуда скорбная песнь под холодным снегом не обрела наконец свой последний стих, и у берегов ледяного озера Далограда наконец перестали всплывать розовые от крови ледяные цветы.
+И тогда Василиса Водяновна созвала водяных и сказала им:
+«Ступайте. Пойте так же свободно, как текут воды, - во славу всего дорогого под небом и во славу каждого искреннего сердца, которое дорожит этим миром».
+Скажите весеннему снегу и зимним цветам, осеннему солнцу и летним плодам, что теперь никто не ошибётся, наблюдая смену времён года.
+Скажите водам и земле, чтобы все творения могли теперь услышать гимны, которые давным-давно следовало воспеть.
+Скажите земледельцам, ремесленникам, воинам, правителям и всем народам, что этот мир достоин любви, достоин воспевания».
+Так в Снежнограде зазвучали вольные песни водяных.
+
+### История персонажа 2
+
+Родители Водяницы были известными певцами даже среди водяных, и вскоре их слава распространилась по всему Снежнограду. Театры по всему городу соревновались за честь принять их у себя, и супруги редко отказывались от приглашений.
+Но больше всего им нравилась сцена в их собственном небольшом поместье, где они собирали избранных гостей для камерных выступлений. Там, казалось, исчезали все мирские различия, и единственным билетом, достойным внимания, было сердце, любящее пение.
+Водяница была ещё совсем маленькой, но уже знала, как нужно слушать песни. Каждый раз, когда альвы и люди начинали петь вместе, она осторожно приоткрывала окно и наблюдала сверху, в тусклом золотистом свете утра. Её родители руководили хором, а кругом поднимались самые разные голоса, которые сливались и расходились, отдалялись лишь для того, чтобы вновь соединиться в единой мелодии. Их голоса поднимались в утреннем воздухе, и любой, кто их слышал, мог поверить, что между ними не было различий.
+Все они - дети этого мира, и между всем сущим изначально нет никакой разницы.
+Маленькая Водяница моргнула, вспоминая слова, которые говорили ей родители. Те же слова, что некогда произнесла дева-змей Василиса Водяновна.
+«Ступайте. Пойте так же свободно, как текут воды, - во славу всего дорогого под небом и во славу каждого искреннего сердца, которое дорожит этим миром».
+Водяница подумала: «В мире столько людей! У всех наверняка есть столько вещей, которые они по-настоящему любят. А нас, водяных, так мало - как же нам спеть для всех?»
+«Не стоит так далеко забегать вперёд, дорогая Водяница», - ласково сказала ей мама. - Секрет пения в том, чтобы думать только о том, как хорошо спеть следующую песню».
+«Именно так. Сначала одна песня, потом другая, а за ней ещё одна», - с улыбкой подхватил отец. - С плаванием всё точно так же. Один раз взмахнёшь хвостом, потом ещё раз - и постепенно понимаешь, что оказался где-то далеко-далеко».
+«Тогда мне придётся петь очень-очень долго», - сказала Водяница.
+«Обязательно», - ответили ей мама и папа. - Мы, водяные, ещё долго будем петь для этого мира».
+«К счастью, у нас достаточно времени, чтобы любить».
+
+### История персонажа 3
+
+Песни Водяницы всегда были милыми и мелодичными, совсем как те бесчисленные маленькие «выступления», которые она устраивала по всей Снежной.
+Конечно же, большинство из этих «выступлений» проходили отнюдь не на роскошных сценах.
+Вне стен театра она находила гораздо более увлекательные места для выступлений. Правда, порой она пугала случайных прохожих. На этих импровизированных «концертах» её роль не ограничивалась пением - она слушала, подбадривала, ждала своей очереди и аплодировала каждому.
+Однажды Водяница сопровождала странствующего торговца, который шёл по берегу реки, рекламируя свой товар. Он напевал безымянную песенку, игрушки в его руках позвякивали, а дети с хохотом носились вокруг него. Мотив был весёлым и задорным, и дети, запинаясь, подпевали торговцу. Прошли годы, и когда странствующий торговец уснул вечным сном, повзрослевшие дети вернулись на старый берег реки, чтобы почтить его память. Опуская цветы на воду, они вдруг заметили то появляющийся, то исчезающий рыбий плавник и услышали, как из воды еле слышно доносится та самая песенка из детства. Повзрослевшие дети невольно снова запели вместе с ней, и песня поплыла по течению вместе с русалкой. Они молились, чтобы песня нашла путь к их старому другу.
+Однажды Водяница заглянула на недостроенную железнодорожную станцию, где её заворожили песни рабочих, ремонтировавших поезда. Рабочие недоумевали: зачем маленькой русалке сидеть на стройке, где искры летят во все стороны, да ещё и без наушников? Но добродушные рабочие не стали строить догадок, ведь малышка устроилась в безопасном месте, где искры не могли опалить её красивое платье, и вернулись к работе. Молотки поднимались и опускались. Сталь звенела о сталь. Пламя шипело, сталкиваясь со льдом. Затем, когда налетела метель, все наконец отложили инструменты. Кто-то принёс выпивку, и все подняли кружки, чтобы прогнать холод из груди. Именно тогда Водяница, которая весь день молча слушала, вдруг запела. Её пение повторяло их напевы. Рабочие сперва растерянно захлопали глазами, но тут же расхохотались и подхватили песню. Вскоре кристально чистый голос Водяницы и их громогласный, грубый хор зазвучали вместе, перекрывая шум стали и бури.
+Водяница продолжила плыть по течению своего сердца, путешествуя повсюду. Она видела просторы полей в пору сева, где крестьяне, разбрасывая семена, напевали простые стишки, чтобы не упустить смену времён года; видела школу, где дети шумно возились и хохотали, подтрунивая над друзьями только что сочинёнными песенками; видела недавно открывшийся ресторан, где застенчивый хозяин, пересиливая себя, громко выкрикивал нескладный зазывный мотивчик...
+Вскоре все узнали о маленькой русалке, которая не очень любила выступать на сцене. Если бы у неё был выбор, Водяница предпочла бы находиться за пределами города и петь на просторах дикой природы.
+Подобно ручью, прокладывающему себе путь сквозь землю, Водяница проложила себе дорогу, просто двигаясь вперёд. И куда бы ни текло её блуждающее течение, всё на её пути словно отвечало ей смехом.
+
+### История персонажа 4
+
+Затем угасло последнее сияние Бледной звезды, и вместе с ним затихли песни, которые когда-то наполняли каждую улицу и переулок Снежнограда.
+Водяной, который раньше часто появлялся у входа в ресторан, приставая к владельцу с просьбой накормить его и обещая расплатиться песней, больше не приходил. Перед тем как уйти, он отдал все свои партитуры, сказав, что надеется, этого хватит, чтобы покрыть прежние счета за еду. Русалка, что вечно сидела на карнизе, болтая ногами и распевая нелепые песенки, ушла. Она оставила цветок, который носила в волосах, домовому, что вечно прыгал внизу, требуя, чтобы она немедленно слезла и перестала нарушать покой. Русалка, которая вечно жаловалась, что во всём городе негде принять ванну, тоже ушла, а ведь она уже договорилась с одной вилой отправиться на поиски лучшего ледяного озера, чтобы доказать ей, что вовсе не боится холода. Водяной, который вечно ругал безвкусные самоцветы в городской ювелирной лавке и никогда не мог найти общий язык с хозяйкой, ушёл. Он оставил свои лучшие жемчужины и самоцветы и сказал хозяйке, что всегда верил: она способна создать самые красивые украшения во всей Снежной. Русалка, которая постоянно размышляла над тем, как бы вырастить цветы в Снежной, ушла, а ведь она уже нашла подходящие семена, и нужно было лишь немного времени, чтобы в её горшке проросли новые побеги.
+Люди предчувствовали уход альвов, но когда наступил этот день - день, когда воцарилась тишина и смолкли все песни, - они растерялись. Жизнь шла своим чередом. Двери по-прежнему открывались, еду по-прежнему подавали, а работа продолжалась. И всё же где-то среди всех этих обыденных вещей в мир прокралась крошечная пустота - слишком маленькая, чтобы дать ей имя, и слишком заметная, чтобы её игнорировать. Всё оставалось на своих местах, но почему-то картина перестала казаться целостной.
+Это было всё равно что вернуться в знакомый дом и обнаружить, что на стене отсутствует дорогая сердцу картина, или увидеть красивую шляпу, лишённую окантовки, которая придавала ей индивидуальность. Это было похоже на пир, на котором каждое блюдо было идеальным, за исключением одного, которое из-за недостатка небольшого количества приправ казалось пресным. Постороннему эти мелочи покажутся незначительными, но для тех, кто знал и любил эти вещи, их отсутствие сразу бросалось в глаза.
+Охваченные ощущением, что чего-то не хватает, люди открывали окна и вслушивались в тишину, пытаясь уловить малейшую вибрацию...
+И тогда, к всеобщему удивлению, в тишине раздался едва уловимый напев. Никто не ожидал, что услышит хоть что-то, и тем не менее он доносился из величественного Королевского театра. Испытав любопытство, люди, не задумываясь, направились ко входу. Когда они собрались возле театра, им навстречу вышла русалка и провозгласила чистым, звонким голосом:
+«Сегодня представление в Королевском театре состоится как обычно!»
+Мужчина в шляпе внезапно спросил:
+«Вы не ушли?»
+«Нет», - русалка улыбнулась, словно в этом не было ничего удивительного. - Моё представление ещё не закончилось. Оно длится семь дней, а сегодня только второй».
+«А через семь дней вы уйдёте?»
+Спросила девушка, у которой под глазами были видны тёмные круги, явно свидетельствующие об усталости.
+Водяница оглядела толпу. Все лица были обращены к ней - к последней русалке в городе, которая всё ещё выходила на сцену.
+«Нет», - ответила Водяница с улыбкой. - Песни, которые я хочу спеть, и за семь дней не перепоёшь».
+«Ну что ж! Приготовьте билеты и проходите внутрь! У проходов вас ждёт тёплое сладкое вино».
+«Кроме того, мы приготовили пледы, грелки для рук и бинокли. Берите всё, что вам нужно».
+«Поторопитесь, представление вот-вот начнётся!»
+
+### История персонажа 5
+
+«...Дорогая Водяница, мы скучаем по тебе. Мы говорили тебе: если когда-нибудь захочешь вернуться, у нас всегда найдётся место для тебя».
+Так заканчивалось очередное письмо из далёкого незамерзающего озера. Вернувшиеся туда водяные посылали свои послания с речными рыбами, спрашивая о своей младшей сестре и призывая её вернуться домой. Они знали, что Водяница, как и большинство представителей их рода, вряд ли сможет благополучно жить в городе, каким он стал. Людские сердца там кипели смятением, всё тонуло в хаосе. Каждый стремился единолично завладеть сценой и ни за что не желал мирно петь в хоре с остальными. Бесчисленные голоса перебивали друг друга, превращая то, что должно было быть гармоничной и изящной мелодией, в режущую слух грубую какофонию. Как ни посмотри, город уже не был местом, где можно было бы петь или слушать пение.
+Водяница немного поразмыслила и начала писать ответное письмо. Она написала:
+«Я хочу вернуться домой. Но, как я уже говорила...
+...Каждый раз, когда я начинаю думать о возвращении, я нахожу в Снежнограде десять человек и проверяю, действительно ли им нравятся мои песни.
+И если хотя бы один из них слушает всем сердцем...»
+Конечно, в городе найдутся те, кто обожает пение Водяницы. Почему бы и нет? Билет на выступление примадонны Королевской труппы сам по себе был большой ценностью - достаточно редкой, чтобы стать великолепным подарком, и достаточно впечатляющей, чтобы завоевать расположение практически любого человека. А если сказать, что вы разговаривали с самой примадонной, эта история разлетелась бы по всем салонам. Добавив пару-тройку эффектных подробностей, можно удивить даже самых искушённых представителей высшего общества. Её собственноручные ответы на письма были ещё более редкими - их ни за какие деньги не купишь. Естественно, это лишь увеличивало их ценность для тех, кто коллекционировал подобные вещи, и увлечённый коллекционер мог предложить за них ещё более высокую цену. К тому же ходят слухи, что примадонна иногда развлекает себя пением у дороги или где-нибудь в лесу. Если правильно рассчитать время, всегда можно подстроить случайную встречу.
+...Хочу ли я остаться ради них?
+Но эти люди вовсе не хотят слушать моё пение. Они лишь стремятся по собственной прихоти увенчать мой голос фальшивыми и тягостными коронами. Они не могут или не хотят видеть, что эти венцы сдавливают мне горло и заставляют мелодии, которые должны быть радостными, окрашиваться тоской, тем самым погребая их истинные чувства в самых мрачных глубинах... Они более не готовы искренне любить меня.
+Но перо Водяницы так и не коснулось бумаги. Она не написала того, о чём думала, и не попросила своих родных забрать её обратно на тихую родину.
+Ведь когда-то их любовь была искренней. Тот, кто теперь раздавал редкие билеты, чтобы завоевать расположение, когда-то сам испытывал неимоверную радость, получив такой билет. Он надевал свои лучшие костюмы, устраивался в кресле и смотрел выступление так пристально, что, казалось, даже не моргал. Тот, кто теперь любил хвастаться знакомством с примадонной Водяницей, когда-то, ещё ребёнком, ходил с друзьями собирать полевые цветы. Вместе они сплели из них венок и оставили его у задней двери театра, а когда появилась Водяница, дети воскликнули: «Вы так хорошо пели!» - и разбежались, прежде чем она успела их поймать. А та девушка, которая выросла и стала опытной певицей, действительно случайно встретила Водяницу у реки. В те дни её голос был неуклюжим и неуверенным, и она сильно запиналась, когда пробовала петь. Вскоре они стали репетировать там вместе. Всякий раз, когда Водяница без умолку говорила о музыке, девушка слушала её, и её глаза сияли, как роса в лучах солнца.
+Их истинные чувства изменились под влиянием обстоятельств. У одних они превратились в амбиции - вечный поиск более высокого положения. У других - в неуёмную жажду к накоплению и обладанию. А у третьих они постепенно переросли в тщеславие...
+Но Водяница помнила, что было в самом начале. Её песни тоже помнили. Они помнили, что когда-то эти люди искренне любили её голос и что, любя его, они любили и тех людей, которыми когда-то были сами.
+И где-то в этом бесконечном потоке времени, возможно, достаточно одного искреннего мгновения, чтобы любовь стала настоящей.
+Одинокая русалка закончила свой ответ такими словами:
+«...Я готова остаться ради них».
+
+### Правила ухода за хвостом (выдержка)
+
+...Прежде всего, обязательно своевременно замачивать хвост в свежей чистой воде. Не добавлять молоко. Не добавлять лепестки цветов. Не добавлять фрукты. И из любви ко всему, что связано с водой, не добавлять ничего, что хоть отдалённо напоминает приправы! Это уход за хвостом, а не рагу из рыбьего хвоста!
+Ещё одно уточнение: лучше всего для ухода за хвостом подходит вода из Кур-де-Фонтейна. Если бы я могла каждый день купаться в этой воде, мой хвост был бы в идеальном состоянии! Если представится такая возможность, я возьму себе долгий отпуск и на некоторое время исчезну в водах Фонтейна.
+
+### Глаз Бога
+
+«...Водяница, все билеты проданы, зал полон».
+Украдкой выглянув из-за занавеса, конферансье с облегчением выдохнул - по крайней мере, театр не будет страдать от нехватки зрителей после ухода водяных. Но облегчение быстро сменилось тревогой. Водяница была не новичком на сцене, и её выступления всегда были более чем достойными, но... что теперь? При столь высоких ожиданиях «более чем достойного» может оказаться недостаточно, чтобы удовлетворить зрителей.
+«Хорошо, - ответила Водяница с улыбкой. - Будем действовать по плану. За тобой вступительное слово».
+Конферансье кивнул, но, не в силах сдержать внутреннее беспокойство, на мгновение замялся, а затем спросил:
+«Что ты собираешься петь?.. Ах... нет, дело ведь не в этом... Просто... Все водяные ушли. Теперь только ты можешь петь».
+Конферансье не озвучил своё истинное беспокойство. Обычно действовала определённая система. Каждый водяной пел то, что ему лучше всего удавалось, и пока один выступал под светом софитов, остальные отдыхали. Это позволяло беречь голоса и при этом сохранять разнообразие программы, и даже когда кто-то выходил на сцену в одиночку, каждая песня тщательно подбиралась и встраивалась в программу так, чтобы у исполнителя было достаточно времени на отдых.
+Но сегодня вечером... Сегодня вечером один взгляд на восторженную публику из-за кулис подсказал ему, что все тщательно продуманные паузы не будут иметь никакого значения. Он и так это знал. Как только Водяница попытается уйти со сцены, зрители зааплодируют, заставляя её вернуться. Потом они повторят это снова. И снова... За долю секунды он представил себе бесчисленное множество способов, как он мог бы вмешаться и спасти её от изнурения, но каждый из них разваливался, ещё не успев обрести форму. Зрители в зале были похожи на необъятную равнину, измученную засухой. Каким бы сильным ни был поток, проносящийся по ней, они не позволят ему пройти дальше, не впитав всё до последней капли.
+«У меня нет никакого плана, что в голову придёт, то и спою».
+Юная русалка с улыбкой посмотрела на ошеломлённого и даже слегка перепуганного конферансье и закинула в рот леденец для горла.
+«Что?.. Нет-нет-нет, у тебя должен быть план. Просто обязан быть».
+«Посмотри на зрителей. Как думаешь, их устроит какой-то там "план"?»
+Водяница стояла у занавеса и вглядывалась в узкую щель между его складками. За ним в зале гремели голоса, и через эту маленькую щель просачивалось знакомое тепло и суматоха, которых она давно не испытывала. В воздухе витало волнение, но за ним она чувствовала также нетерпение, сомнения, тоску, горе... Казалось, весь зал прильнул к сцене, все взгляды были прикованы к занавесу, и все с напряжением ждали, что он вскоре откроется.
+Что сможет их удовлетворить? Чем напитать пересохшее русло их сердец?
+«Песней, - подумала Водяница. - Конечно же, песней. Ради чего ещё они пришли сюда? На что ещё они могут надеяться? Чего ещё могут требовать от сцены с таким нетерпением?»
+«Песни. Бесконечные песни. Безграничные песни. Каждая песня, которая когда-то звучала, каждая песня, которая звучит сейчас, и каждая песня, которую когда-нибудь споют».
+Конферансье растерянно уставился на русалку, но быстро осмыслил её слова, опираясь на свой профессиональный опыт.
+«А сколько именно ты собираешься петь в одиночку? Даже у русалки есть предел...»
+Водяница пожала плечами, легко отмахнувшись от вопроса конферансье, а затем вдруг спросила: «Кстати, раз я теперь единственная русалка в театре, значит, я могу называть себя примадонной?»
+«Э? П-по правилам нужно пройти отбор, но...»
+«Отлично. Тогда сегодняшнее выступление и будет моим отбором».
+Конферансье не успел опомниться, как Водяница распахнула занавес и вышла на сцену. Шумная публика поначалу опешила от её внезапного появления. В зале воцарилась тишина, а затем с трибун, словно водопадом, обрушились аплодисменты.
+«Добро пожаловать в Королевский театр. Сегодня вечером у нас нет определённого репертуара. Нет программы. Я буду петь всё, что придёт мне в голову, и петь буду только я».
+Примадонна Королевского театра подняла руки и торжественно провозгласила.
+Взгляды всего зала устремились к ней и к внезапно появившемуся в её руке голубому Глазу Бога Гидро.
+«Похоже, теперь есть чем смочить горло», - подумала Водяница.
+«Возможно, получится петь до тех пор, пока ни у кого не останется сил аплодировать».
+
+## EN
+
+### Character Details
+
+Prima Donna of the Korolevskiy Troupe and a Water Imp who has parted from her kin.
+
+### Character Details
+
+A long, long time ago in Snezhnaya, Water Imps dwelled all over the city. Some sang glorious melodies on the stage, while others cheerfully hummed lighthearted tunes through the streets and alleyways. Then there were the others who preferred to slip into the water, where they would lure curious passersby to the water's edge with their haunting, dreamlike songs, only to then suddenly leap up and splash the unsuspecting onlookers full in the face before vanishing, giggling, back beneath the surface with a flick of their tails, leaving their victims floundering between anger and laughter...
+But, as time passed, the stages and alleyways of Snezhnaya quietly lost their singers, and the melodies beneath the waters, carried by unseen currents, began flowing soundlessly toward a distant silence. People began to whisper uneasily among themselves, wondering if those haunting songs from the deep might drift away from them forever...
+Then, one morning, people learned that Vodyanitsa was still performing on the stage of Korolevskiy Theater, as though the days of old had never faded and the joy of bygone times had remained just as it always had been.
+Hardly anyone knew why she stayed — nor did anyone dare ask her to her face, unless they were prepared to never secure another interview with Miss Vodyanitsa ever again.
+Maybe, she had stayed on in order not to disappoint the audiences who so adored her singing? Or maybe she was just unwilling to exit that dazzling stage? Or perhaps... there were other reasons significant enough to make her swim against the current, even if it meant bidding farewell to her own kind...
+But for Vodyanitsa's audience, delving into the answer to that question is utterly meaningless. The only thing that matters is that they can continue to listen to the captivating voice of the Water Imp.
+Of course, if you want to be swept away by her song...
+"Standing tickets? Uh, sorry, but we don't sell those here at the theater at the moment... And no, we don't allow our patrons to bring their own chairs either."
+"Crack the doors open a little? The draft would leave everyone inside freezing..."
+"My apologies, but the theater isn't hiring any day cleaners at the moment!"
+...First, you need to get a ticket.
+
+### Character Story 1
+
+Once, Vodyanitsa sang with a joy as bright and untroubled as the childhood her kin had shared in Dalegrad.
+In those days, the Water Imps knew no bounds. They wandered wherever their hearts desired, giving freely their songs of blessing to every living thing.
+...Then Vodyanoy Donbettyr, the Lackland, entered into league with King Miscislav the Blood-Devourer. The swift and fearless children of the waters became the strength behind Miscislav's ascent, winning him glory and, in time, a crown. Yet Donbettyr's daughter, Vaselisa Vodyanovna, could not bear the sight of her kin's cold blood frozen across the lake. With blood-pink flowers of ice cupped in her hands, she stood upon the water's edge and mourned each silent soul.
+At last, she departed. All among her kin who would no longer bear arms followed in her wake, and together they made their way to the court of Emperor Monomakh Snezhnyi.
+There, the Emperor conferred a title upon her. Vaselisa Vodyanovna accepted it, for she knew that if she wished to receive the favor of the Pale Star, she must first bear the name bestowed upon her.
+Yet when crown, treasure, and lands were offered to her in turn, Vodyanovna refused them all. The exiled Water Imp said only to the Tsar:
+"I have no need of this crown, for it can rest only upon a brow weighed down by a heart just as still."
+"I have no need of this treasure, for it can satisfy only those who chase after empty gain."
+"I have no need of these lands, for waters and earth were never meant to belong to any one sovereign."
+"I ask for nothing else. I wish only that the children of the waters cease whetting their blades to songs of sorrow. Let them sing for every soul that carries true love within, and let every song they raise belong to their own hearts alone."
+Emperor Monomakh assented to Vaselisa Vodyanovna's petition, and from that day onward, no Water Imp beneath the Pale Star would ever again be made to serve the desire of another heart. The Emperor and Vodyanovna bound themselves by oath as well: Even should a Water Imp freely offer to go to war, none would be required to bear steel. And so the covenant was kept. Weaponless, the Water Imps walked among armies without ever joining in the slaughter. Yet neither did they forget the protection Monomakh had granted them.
+They became couriers of tidings, bearing military dispatches from camp to camp and the whispered letters of lovers from heart to distant heart — the latter being, by all accounts, their favorite charge. They carried the wounded swiftly downriver, guiding and drawing their rafts with such mastery that it seemed little short of miraculous. And when terror prowled the camps beneath the cover of night, their songs lulled anxious soldiers into peaceful sleep. Many of those tunes outlived the war and passed into the musical canon.
+In time, there came a day when no blood darkened the waters of the lake, and the Pale Star cast its radiance unto the furthest reaches of the land. The long lament beneath the snows reached its final verse, and upon the frozen banks of Dalegrad, the blood-pink flowers of ice never rose again.
+Then Vaselisa Vodyanovna gathered the Water Imps before her and spoke to them plainly:
+"Go. Sing as freely as the waters run, for every precious thing beneath the sky, and for every sincere heart that holds this world dear."
+"Tell the snows of spring and the blossoms of winter, the autumn sun and the fruits of summer, that never again need anyone lose their way in the passing of the seasons."
+"Tell the waters and the earth that all creation may now hear the hymns that should have been sung to it long ago."
+"Tell farmer and craftsman, soldier and sovereign, and every soul in between: The world is worthy of love, and worthy of praise."
+And so, at last, Snezhnograd rang with the unfettered songs of the Water Imps.
+
+### Character Story 2
+
+As accomplished singers even among the Water Imps, Vodyanitsa's parents soon rose to renown throughout Snezhnograd. Theaters across the city competed for the honor of hosting them, and the pair seldom turned down an invitation.
+But the stage they loved best was the one at their own small estate, where they would gather a chosen few for intimate performances. There, worldly distinctions seemed to fall away, and the only ticket worth having was a heart that loved song.
+Vodyanitsa was only a child in those days, but even then, she knew how a song ought to be heard. Whenever the fae and townsfolk below began to sing together, she would quietly open her window and watch from above in the dim gold of morning. Her parents would lead, and all around them rose voices of every kind, meeting and parting, weaving apart only to embrace again within the same melody. As their song climbed into the morning air, anyone listening could almost believe that no difference had ever divided them at all.
+They were all born of the same world, and in that alone, none stood apart from another.
+Little Vodyanitsa blinked, remembering something her parents had once told her — the same words once spoken by Vaselisa Vodyanovna, the "Zmey Maiden" herself.
+"Go. Sing as freely as the waters run, for every precious thing beneath the sky, and for every sincere heart that holds this world dear."
+Vodyanitsa thought, "Oh my, there are so many people in the world! They must all have so many things they truly love. There are so few of us Water Imps, so how are we ever supposed to sing for everyone?"
+"You needn't think that far ahead, dear Vodyanitsa," her mother said gently. "The trick to singing is to think only of how to sing the next song well."
+"That's right. One song, then another, then another after that," her father chimed in with a smile. "Swimming is much the same. You swish your tail once, then once more, and little by little, you find yourself somewhere far away."
+"Then I'm going to be singing for ages and ages," Vodyanitsa said.
+"You are," her mother and father replied. "We Water Imps will be singing for this world for a good long while yet."
+"But that's all right. We have all the time we need to love it."
+
+### Character Story 3
+
+Vodyanitsa's songs had always been sweet and lilting, much like the countless little "performances" she had given all across Snezhnaya.
+Of course, only a small number of them had ever taken place beneath the lights of some grand, gilded stage.
+She had found far more amusing places to perform beyond the theater walls. Admittedly, her choice of venue could give the occasional passerby quite a fright. At these impromptu "concerts," she was never merely the singer — she listened, cheered, waited for her turn, and clapped along for everyone else.
+Vodyanitsa once followed a peddler making his way along the riverbank, calling out his wares as he went. He hummed a little tune with no name, toys chiming softly in his hands while children laughed and chased one another at his heels. The melody was bright and easy, and though the children stumbled through it, they joined in all the same. Years passed, and when the peddler finally went to his long sleep, those children returned to the old riverbank as grown men and women. They laid flowers upon the water in his memory, and just then, a fin shimmered briefly beneath the surface. A moment later, from somewhere along the river came the faint strains of the song they had known as children. They began to sing before they even realized it. Their voices followed the current together with the Water Imp, and as the melody drifted downstream, they wished with all their hearts that it might find its way into the dreams of their old friend.
+Vodyanitsa once paid a visit to a half-built railway station, where she became fascinated by the work chants of the men repairing the trains. The workers could not imagine why a little Water Imp would willingly sit in such a place, much less do so without earmuffs. But she seemed perfectly safe, and not even the sparks could scorch the hem of her dress, so they shrugged and returned to their work. Hammers rose and fell. Steel rang against steel. Flame hissed against ice. Then, when the weather turned and a blizzard came sweeping in, everyone finally laid down their tools. Someone brought out the liquor, and cups were raised to chase the cold from their chests. That was when Vodyanitsa, who had listened in silence all day, suddenly began to sing. Her humming followed the cadence of their own shouted calls. For a heartbeat, the workers simply stared, and no one quite knew what to make of it. Then they roared with laughter and answered her. Soon, her bright voice and their coarse, thunderous chorus were ringing together through the steelworks and the storm.
+And so Vodyanitsa continued her wandering, following heart and current alike. She found herself among freshly sown fields, where farmers sang simple verses to keep track of the seasons, among schoolchildren who chirped and giggled and composed mocking little songs for their friends on the spot, and outside brand-new restaurants, where shy owners, red-faced but determined, tried to lure in customers with tunes they had only just invented...
+Soon enough, everyone knew of the little Water Imp who had no great patience for proper stages. Given the choice, Vodyanitsa would always rather be outside the city, singing to the open wilds.
+Like a stream carving its own channel through the land, Vodyanitsa made a path simply by moving forward. And wherever her wandering current flowed, all things in its wake seemed to answer her with laughter.
+
+### Character Story 4
+
+Then the Pale Star's lingering radiance went out, and with it faded the songs that had once filled every street and alley of Snezhnograd.
+The Water Imp who used to haunt the entrance of a restaurant, pestering the owner for lunch and promising to pay in song, no longer came. Before he left, he handed over every page of music he had written, suggesting that perhaps they might be counted toward the meals he still owed. The Water Imp who liked to sit on the roof with her legs dangling over the eaves, deliberately singing dreadful little songs, was gone too, though not without leaving behind the favorite flower she always wore in her hair for the little Domovoy who had spent so many days jumping up and down beneath her, shouting at her to stop disturbing the peace. The Water Imp who forever complained that Snezhnograd did not have a single proper place for a bath was gone as well, having already made plans with a Vila to seek out the finest frozen lake in the north, if only so she could prove whether a Water Imp had any reason at all to fear the cold. So too was the Water Imp who criticized every jewel in town and argued endlessly with one particular shopkeeper. Before leaving, he gave her the finest pearls and gemstones he possessed and, at last, told her what he had never quite managed to say before — that he had always trusted her to make the most beautiful jewelry in all of Snezhnaya. And then there was the Water Imp who had spent day after day trying to coax flowers from the frozen soil. She was gone too. She had finally found seeds that might work, and after all that searching, the difficult part was already done. All she needed now was time for the first buds to push through the soil in her pot.
+The people had long suspected that the Water Imps would not remain forever, but knowing that did little to soften the day when silence finally settled over the city and not a single song remained. Nothing in daily life truly ceased because of it. Doors still opened, meals were still served, and work still carried on. Yet somewhere among all those ordinary things, a tiny vacancy had crept into the world, almost too small to name and far too persistent to ignore. Everything was still where it had always been, but somehow the whole of it no longer felt quite whole.
+It was like returning to a familiar home and finding one treasured picture missing from the wall, or seeing a beautiful hat stripped of the trim that had once given it character. It was like a feast in which every dish was perfect save one, made strangely dull by the lack of a little seasoning. Such omissions might mean very little to a stranger, but to those who had known and loved these things for so long, their absence announced itself at once.
+Still troubled by the sense that something was missing, people opened their windows and leaned into the silence, listening for even the smallest trace of sound...
+Then, to everyone's surprise, a faint thread of song rose out of that silence. No one had expected to hear a thing, and yet there it was, drifting from the great Korolevskiy Theater. Curious, people began making their way toward its entrance almost without thinking. By the time they gathered there, a Water Imp had stepped before the crowd and proclaimed in a clear, ringing voice:
+"Today's performance at the Korolevskiy Theater will go on as scheduled!"
+A man in a hat was the first to find his voice.
+"You... stayed?"
+"I did." The Water Imp smiled as though there were nothing remarkable about it. "My performance isn't finished yet. It's meant to run for seven days, and we've only reached the second."
+"And when the seven days are over... will you leave then?"
+A girl with exhaustion written plainly beneath her eyes asked.
+Vodyanitsa looked out over the crowd. Every face turned toward her, toward the last Water Imp in the city who still stood upon a stage and sang.
+"No," she said, smiling. "I have far more songs in me than seven days could ever hold."
+"Now then! Tickets ready, everyone, and inside you go! There's warm sweet wine by the aisles."
+"And we've laid out blankets, hand warmers, and opera glasses as well. Take whatever you need."
+"Come on, no dawdling — the show is about to begin!"
+
+### Character Story 5
+
+"...Dear Vodyanitsa, we miss you. Just as we told you before, if ever you wish to return, you will always have a home with us."
+So ended another letter from a faraway lake untouched by winter's ice. The Water Imps who had returned there sent their messages with the river fish, asking after their little sister and calling her home. They knew that Vodyanitsa, like most of their kind, was unlikely to thrive in the city as it had become. Too many hearts there burned hot and restless, and too many voices clamored to be heard. Everyone seemed determined to claim the stage for themselves, while almost no one had the patience to share it, much less join another in harmony. Before long, the result ceased to resemble music at all. Voices crowded against one another, each struggling to rise above the next, until what should have been graceful and harmonious dissolved into little more than a harsh tangle of noise. Whatever else the city might still be, it was no longer a place made for singing. And where singing could no longer flourish, listening had grown difficult too.
+Vodyanitsa lingered over her thoughts for a long while before beginning her reply.
+"I do want to come home. But just as I told you before..."
+"...Whenever I start thinking of returning, I first find ten people in Snezhnograd and listen to see whether they truly care for my songs."
+"And if even one of them is listening with all their heart..."
+Of course, there were people in the city who adored Vodyanitsa's singing... Why wouldn't they? A ticket to hear the Korolevskiy Troupe's Prima Donna was a prize in itself — scarce enough to make a splendid gift, and impressive enough to win almost anyone's favor. Better still, if one could say they had spoken with the prima herself, the story would travel nicely through any salon. With a flourish added here and there, even the most jaded members of high society might be persuaded to look impressed. Her handwritten letters were rarer still, the sort of thing no amount of money could easily buy. Though, naturally, that only made them more valuable to those who wished to collect such things, and a determined collector might offer an even better price. Then there were the rumors that the prima occasionally sang to herself by the roadside or out in the wilds. With the proper timing, one could always contrive to be passing by at precisely the right moment.
+...Would I choose to stay for people like these?
+But people like these had never truly wanted to listen to my songs. What they wanted was to turn those songs into whatever pleased them most, burdening my voice with one hollow crown after another. They did not see, and had no wish to see, how each crown pressed a little harder against my throat, weighing down songs that should have been bright and effortless until they grew heavy and strained. And somewhere along the way, as they covered my voice beneath all those things they wanted it to mean, they buried their own sincerity just as surely... They no longer wish to love me as I am.
+And yet Vodyanitsa's pen never touched the paper. She did not write what she was thinking, nor did she ask her kin to come and carry her back to the quiet homeland she had left behind.
+Because there had still been a time when their affection was real. The person who now passed rare tickets around to curry favor had once been thrilled beyond measure to receive one himself. He had dressed in his best, settled into his seat, and watched so intently that he scarcely seemed to blink. The one who now liked to boast of knowing Prima Vodyanitsa had once, as a child, gone with his friends to pick wildflowers. Together they had woven them into a garland and left it by the back door of the theater, and when Vodyanitsa appeared, the children cried, "You sang so well!" before running off together before she could catch them. And the girl who had since grown into a skilled singer really had met Vodyanitsa by chance beside the river. In those days, her voice was still clumsy and unsure, and she stumbled badly whenever she tried to sing. Before long, the two of them made a habit of practicing there together. Whenever Vodyanitsa talked on and on about music, the girl would listen with eyes that shone like dew beneath the sun.
+The true feeling they had once carried had simply changed with the current. In some, it became ambition, forever searching for a higher shore to climb. In others, it became the restless hunger to gather and possess. In still others, it swelled slowly into vanity...
+But Vodyanitsa remembered what had come before all of that. Her songs remembered too. They remembered that once, these people had loved her voice with all sincerity, and that in loving it, they had also loved the people they themselves had once been.
+And somewhere within that endless current of time, perhaps one sincere moment is enough for love to have been real.
+At last, the solitary Water Imp completed her reply.
+"...So I am willing to stay for them, too."
+
+### A Few Rules for Keeping Your Tail in Good Condition (Excerpt)
+
+...Above all else, remember to soak your tail in fresh, clean water on time. Do not add milk. Do not add flower petals. Do not add fruit. And please, for the love of all things watery, stop adding anything that looks remotely like seasoning! This is tail care, not a fish-tail stew!
+One more note: The finest water for tail maintenance comes from the Court of Fontaine. Goodness, if I could bathe in Fontaine's waters every day, my tail would probably be in such perfect condition I'd never stop admiring it. If the opportunity ever comes up, I'm taking a nice long holiday and disappearing underwater in Fontaine for a while.
+
+### Vision
+
+"...Vodyanitsa, the house is full. We sold every last ticket."
+After a quick glance beyond the curtain, the announcer let out a breath of relief. At least one fear could finally be put to rest: The theater would not lose its crowds simply because the Water Imps had left. Yet the relief hardly had time to settle before another concern began to gnaw at him. Vodyanitsa was no stranger to the stage, and her singing had always been more than respectable, but... now? With expectations running this high, "more than respectable" might not be enough to carry the evening.
+"Good," Vodyanitsa replied with a smile. "We'll go ahead as planned. I'm counting on you for the opening announcement."
+The announcer nodded, though the motion did little to calm his nerves. He hesitated for a moment before finally asking:
+"What are you planning to sing...? Ah, but... no, that's not really the point, is it? It's just... heavens. All the other Water Imps are gone. You're the only one left to sing now."
+He could not quite bring himself to say the rest aloud, though the problem was obvious enough. Normally, there was a system. Each Water Imp sang what suited them best, and while one stood beneath the lights, the others rested. It spared their voices while keeping the program varied, and even when someone took the stage alone, every song was chosen and placed with care so that there was always just enough time for the throat to recover.
+But tonight... Tonight, one look at the excited audience beyond the curtain told him that none of that careful pacing would matter. Good heavens, he knew that much already. The moment Vodyanitsa tried to leave the stage, they would applaud her back onto it. Then they would do it again. And again... In the space of a breath, he imagined countless ways he might step in and save her from being worn down, only for each one to fall apart before it was even fully formed. The audience beyond the curtain was like a vast plain starved of rain. No matter how fierce the current that swept across it, they would not let it pass without taking every last drop.
+"Oh, I haven't decided. I'll sing one song, see where it takes me, and go from there."
+The little Water Imp said it with a grin and watched as disbelief slowly gave way to horror on his face. Then she calmly slipped a throat lozenge into her mouth.
+"Y—You haven't—? No. No, no, dear, that won't do at all. You need a plan. Please tell me you have a plan."
+"Look at the people out there. Really look at them. Do you honestly think they came here prepared to be satisfied by something as neat and sensible as a plan?"
+Vodyanitsa stood before the curtain and peered through the narrow slit between its folds. Beyond it, the hall thundered with voices, and through that small opening spilled a familiar warmth and tumult she had not felt in a long while. Excitement filled the air, certainly, but beneath it she could feel impatience as well. Doubt. Melancholy. Grief. The whole hall seemed to lean toward the stage, every eye resting on the curtain, tense with the certainty that it would not remain closed for long.
+What could possibly satisfy them? What could soothe a heart gone dry from silence?
+"Song," Vodyanitsa thought. "Of course it's song. What else could they have come here wanting? What else could they be hoping for? What else could all that expectation be asking of the stage?"
+"Song. Endless song. Boundless song. Every song that was, every song that is, and every song that will one day be sung."
+The announcer stared at her, dumbfounded. A moment later, his years in the theater began to pick apart the meaning behind her words.
+"Hold on. How long, exactly, are you planning to sing alone? Even with a Water Imp's voice, there has to be a limit..."
+Vodyanitsa merely shrugged, letting his concern slide past her. Then she brightened at a sudden thought. "Actually, if I'm the only Water Imp in the theater now, doesn't that technically make me the prima?"
+"W—Well, no, not technically... There's usually an official selection, but..."
+"Perfect. We'll call tonight the selection."
+The announcer barely had time to blink before Vodyanitsa pulled back the curtain and strode straight into the spotlight. The audience jolted at her sudden appearance, and for a moment, the entire theater seemed to hold its breath. Then the applause came crashing down from the seats like a cataract.
+"Welcome, everyone, to the Korolevskiy Theater! Tonight, there is no setlist. No program. I'll sing whatever comes to me, and I'll be the only one singing."
+As she spoke, the theater's would-be Prima Donna raised both hands.
+Every eye in the theater followed the movement, drawn to Vodyanitsa and the water-blue Vision that had suddenly appeared in her grasp.
+"Well," Vodyanitsa thought, "that should make keeping my voice in shape a little easier."
+"Maybe there is a chance I can keep singing until no one out there has the strength left to applaud."
+
+## ZH
+
+### 角色详细
+
+科洛列夫茨基剧团的首席女高音，离群的水妖。
+
+### 角色详细
+
+在久远的至冬，水妖们曾遍居城中，他们有的在舞台上高歌着颂歌，有的在街巷里欢唱着幽默小调，有的则喜欢钻进水里，用恍惚的歌声吸引人们去水边一探究竟，再猛地跃起，在笑声里把好奇者泼一脸水，而后又在岸边人好气又好笑的嚷嚷声里钻回水中，一摆尾巴便消失不见。
+…但是，随着时光流转，至冬的舞台与街巷悄然失去了它们的歌者，水底的旋律也随着暗潮，无声地奔涌向了沉默的彼方，人们不安地暗中揣测，或许那水底的幽歌，会就此离他们远去吧…
+不过，在某个早晨，人们却发现，沃雅妮莎依旧在科洛列夫茨基剧院登台献唱，就如同往昔的时光不曾褪却，旧日的欢乐一如往常。
+几乎没人知道她留下来的理由——也没有人敢去当面提问，除非这个提问者做好了之后再也无法采访沃雅妮莎小姐的打算。
+或许，是她不愿那些喜欢自己歌声的观众们失望？或许，是她不愿离开那座辉煌的演出场？又或许，是因为另外一些足够重要的原因，让她愿意逆流而上，即使要因此告别同族们，也在所不惜…？
+对于观众们来说，细究这问题的答案实在毫无意义，唯一的重点是，他们仍然能听见沃雅妮莎的歌声，也仍然能为水妖的歌声而倾倒，这就足够了。
+当然啦，如果你想要为水妖的歌声而倾倒…
+「站票？呃，我们剧院暂时没有…不，自己带椅子也不行。」
+「打开门？这样里面的观众会很冷的…」
+「抱歉，我们剧院暂时不招临时清洁工！」
+…首先，你得先买到票。
+
+### 角色故事1
+
+沃雅妮莎的歌声曾欢盈愉悦，宛如她的同族们曾在达洛格莱德所度过的无忧无虑的童年。
+那时，水妖们只随着自己的心意四处遨游。为万物都平等地送上祝福的礼赞乐。
+…直到「无地王」沃佳瑙·冬伯帝尔与「饮血者」穆斯季斯莱沃王交盟，勇猛迅捷的水裔为他赢得了荣誉和冠冕，但他的女儿，瓦希莉莎·沃佳瑙芙娜不愿再看见水妖的冷血漂冻在湖面，她捧着粉血色的冰花，在岸边为每一位沉寂不言的水妖流泪。
+于是她便走了，带着所有不愿提持刀兵的同族造访莫诺马赫·雪奈茨尼伊皇帝的宫廷。
+莫诺马赫皇帝赐予了她封号，瓦希莉莎·沃佳瑙芙娜接受了，她知晓，若是想要领受苍星的恩眷，她便不得不佩上这名号。
+但随之而来的冠冕、财宝和封地，却被沃佳瑙芙娜一一拒绝，离乡的水妖只对皇帝说道：
+「我不要这冠冕，因为它只能戴在心也同样沉滞的人头上。」
+「我不要这财宝，因为它只能满足那些本无意义的私利。」
+「我不要这封地，因为诸水与诸地本就不应属于任何独君。」
+「我别无他求，只希望诸水的族裔不再用悲歌磨洗刀兵，他们要为每一个心怀着真爱的人而歌唱，所有的歌曲都只应献给他们自己的心。」
+莫诺马赫皇帝应允了瓦希莉莎·沃佳瑙芙娜的提请，苍星的水妖们不用再被他人的心所驱使。同时，皇帝也与沃佳瑙芙娜立下盟契，即使是有水妖自愿加入战阵，他们也不用提持刀兵，在军阵中，水妖们也如同盟约中所约定的一般，不用提持任何武器与人搏杀，但他们仍然用自己的方式回报着莫诺马赫皇帝对他们的庇护——
+水妖会为诸军的将士递送情报讯息（其中包括着许多爱人间的私信，水妖最爱这类信件），携着伤者顺流飞奔（他们拉筏子的技巧让人叹为观止），用歌声让惊恐的战士们安然入眠（不少曲调流传了下来变为了经典曲目）。
+直到湖面的浮波不再被沉血浸染，苍星的光辉闪耀在大地的四周八方，寒雪下的悲歌终于也迎来了终章，达洛格莱德的冰湖岸边，也终于不再会浮起粉血色的冰花。
+于是瓦希莉莎·沃佳瑙芙娜召集了水妖，实在地告诉她们：
+「去吧。自由自在地为了世间一切值得珍爱之物，和珍爱着世间万物的真心之人歌唱。」
+「告诉春雪与冬花，秋阳与夏实，不再有人会错观季节的更替。」
+「告诉诸水与诸地，万物都可以聆听他们早已应当聆听的赞歌。」
+「告诉农夫、工匠、士兵，君主和万民，这世界是值得爱的，值得被歌颂的。」
+于是，至冬堡便迎来了水妖们自由的歌声。
+
+### 角色故事2
+
+而作为即使在水妖一族中，唱功也算是颇为出色的歌唱家，沃雅妮莎的父母很快便在至冬堡中声名鹊起，无数的剧场向他们发来邀请，他们也欣然答应。
+但他们最喜欢的，还是在自己的小庄园里召开小型的私人演出，这场演出中的所有人都要忘却身份与地位，参与者只能凭借自己对歌唱的爱入场。
+彼时的沃雅妮莎虽然尚且年幼，但她也已经知晓了聆听歌声的诀窍，在底下的妖精和人们一起欢歌时，她会悄悄推开窗，在熹微的阳光中，凝望着底下合唱着的人们，在她父母的带领下，无数不同的声音彼此交错拥抱，旋律如此在空中飘荡，就好像他们从来都没有过任何差别
+——同为世界的孩子，万物本就没有任何区别。
+小小的沃雅妮莎眨着眼，想着父母对自己说过的，也是「龙女」瓦希莉莎·沃佳瑙芙娜曾说过的话。
+「去吧。自由自在地为了世间一切值得珍爱之物，和珍爱着世间万物的真心之人歌唱。」
+沃雅妮莎想：天哪，这世界上有这么多人，他们肯定也怀着好多好多真心的爱，水妖才这么一点人，怎么可能唱得完呢？
+「不需要想那么遥远，亲爱的沃雅妮莎。」母亲柔和地说道。「演唱的诀窍，就是只想着如何唱好下一首歌。」
+「没错，下一首，下一首，然后又是下一首。」父亲微笑着接话：「就像是在水里游动，一次只摆动一下尾巴，久而久之，就能游得很远。」
+「那我要唱好久好久呢。」沃雅妮莎问道。
+「是啊。」母亲和父亲答道：「我们水妖，确实还要为这世界演唱很久。」
+「但还好，时间足够我们爱。」
+
+### 角色故事3
+
+沃雅妮莎的歌声曾婉转悠扬，宛如她在至冬里的无数次献唱。
+当然啦，这无数次的「献唱」，大部分不是在金碧辉煌的舞台上。
+在舞台下，沃雅妮莎早就为自己找到了许多有趣的演出场。虽然有时候会吓人一跳，但在那些「献唱」中，她既是歌者也是听众，既上台演出，又为他人鼓掌。
+沃雅妮莎跟随过沿着河边一边叫卖一边前进的卖货郎，那位卖货郎哼唱着无名的小曲，手中的玩具叮当作响，孩子们嘻嘻哈哈地围绕着他跑来跑去，他哼唱的小调欢快愉悦，孩子们也结结巴巴地和卖货郎合唱。当时光流逝，卖货郎步入了永恒的沉眠后，已经长大的孩子们前来故地凭吊，当他们将手里的花放在水中时，却突然看见了一尾忽隐忽现的鱼鳍，还听见，水里隐约响起了儿时听过的小曲，已经长大的孩子们也不由自主地再次发声合唱，歌声与水妖在水里随波顺流，孩子们祈祷着，这歌声能到达那位老朋友的梦乡。
+沃雅妮莎拜访过一间建设中的车站，仔细聆听着一群维修列车的工人的呼号。工人们奇怪，为什么一位小水妖非要待在这火花四溅的工地上，而且连耳罩都不戴？但好心的工人们没有多做猜测，反正这小水妖待的地方还挺安全，火星也灼伤不了她的漂亮裙子，于是工人们继续挥舞着工具，和钢铁、火焰与冰雪搏斗不休。当暴雪来临，工人们放下手中的工具，想要用烈酒暖暖冰冷的胸膛，在众人举杯时，那位之前一直只是聆听的水妖突然展开歌喉，按着先前呼号的节奏轻轻哼唱，工人们开始茫然地眨着眼，但马上便哈哈大笑着，开始了简易的合唱，小水妖的哼唱和工人们粗糙又洪亮的呼号声一起，在钢铁和暴雪中激昂地回荡。
+沃雅妮莎继续循着自己的心四处溯游，她去过正值播种期的农田旷野，农家一边撒着种子，一边哼着用于判断节气的顺口溜；去过满是学生的学校，孩子们互相叽叽喳喳地打闹嘻笑，用刚编出来的小曲调侃着朋友；去过刚开业的餐厅，腼腆的老板硬着头皮大声吆喝着不成文的小调…
+最后，大家几乎都知道了，有一位小水妖懒得在剧场里演唱，她更愿意待在城外，让自己的歌声在荒野中飘荡。
+就像是奔流的小溪自己给自己凿开了水道，被这股意外的水流所沁润的万物，都愿意和她一同嘻笑。
+
+### 角色故事4
+
+但当苍星的余辉消退，至冬堡的大街小巷也失去了歌声。
+原本赖在餐馆门口不走，嚷着要用自己的歌声换一顿午餐的水妖离开了，他给老板留下了自己所有的手稿，说希望这可以抵扣自己之前的餐费；总是坐在屋檐上摇晃着腿，故意唱着怪模怪样的歌的水妖离开了，她把自己头上戴的花留给了那个总是在屋檐下跳脚，让她快点下来别扰民的矮灵；总是抱怨城里没有一个地方能泡澡的水妖离开了，她原本还和一个风仙约好了，要出去找一片最好的冰湖，让风仙看看自己到底怕不怕冷；总是嫌弃城里珠宝店的宝石品味太差，和店长永远看不对眼的水妖离开了，他把身上最好的珍珠和宝石留了下来，告诉老板，自己其实一直相信她能做出整个至冬最漂亮的首饰；那个总是在琢磨着怎么在至冬种花的水妖离开了，原本她已经找到了合适的种子，只需要一点时间，她的花盆里就能绽放新芽。
+人们对妖精们的离开确实早有预感，但真到了万籁俱静，了无歌声的这一天，人们依旧不知所措，生活毫无阻碍，起居依旧顺利，但突兀的细小虚无已经侵入了生活，一切如常，但一切又不再完全如同往常。
+就像是原本熟悉的家中，莫名地缺少了一幅自己心爱的挂画，也像是一顶漂亮的帽子上，突然少了一圈标志性的纹饰，或者是一顿原本完美的大餐中，突然有一道菜少放了调料。这些细节在外人看来本不用在意，但对深爱着这些事物的人来说，几乎不可能视而不见。
+在这怪异的不适感中，人们茫然地推开窗户，试图从寂静的空气中捕捉到一丝微小的振动…
+等等，本来毫不抱希望的人们，居然真的听见了微渺的歌声——歌声来自那个最大的科洛列夫茨基剧院。讶异的人们不由自主地向着剧院门口聚集，在人们的视线中，一位水妖高声地对着所有人宣告：
+「今日科洛列夫茨基剧院的演出照常进行！」
+一个戴着帽子的男人突然出声：
+「您没走？」
+「是的，我没走。我的演出还没有结束。」水妖坦然地笑道：「我的这场演出要连续演七天，今天才是第二天。」
+「那七天后，您会走吗？」
+一个顶着黑眼圈，一看就没有睡好的女孩问道。
+沃雅妮莎看着观众，而观众也看着这位如今城内唯一还在登台献唱的水妖。
+「不。」沃雅妮莎笑着回答道：「我想唱的歌，七天还唱不完。」
+「好了！大家都凭票进场！暖身子的甜酒就放在走道旁边。」
+「毯子，暖手炉和望远镜也准备好了，需要的就自己去拿。」
+「别浪费时间，演出就要开始了！」
+
+### 角色故事5
+
+「…亲爱的沃雅妮莎，我们想念着你，就如同之前所说的，如果你愿意，随时都可以回来。」
+这是又一封从遥远的不冻湖里寄来的家书的结尾，归乡的水妖们让游鱼送来信件，呼唤着自己的小妹，她们知道，自己的小妹——和大部分水妖——原本就不适合在如今的城里常住，那里面的人心沸乱，混乱喧嚣，几乎人人都想独占舞台，绝不愿与其他人安稳地合唱。无数的声音彼此争抢，把原本应该和谐优雅的乐曲，搅乱成了刺耳嘈杂的粗鲁杂响。无论如何，这绝不能算是一个唱歌与听歌的好地方。
+沃雅妮莎思索了一番，为回信开了一个头。她写道：
+「我愿意回来。但就和我之前说的一样…」
+「…每当我想要回来时，我都要先在至冬堡里找十个人，看他们是不是真心爱着我的歌声。」
+「哪怕有一个人是在用心聆听我的歌…」
+这城里当然会有人爱沃雅妮莎的歌…毕竟，科洛列夫茨基剧团首席女高音的演出实在太有价值了，如果能拿到一张难得的门票，绝对能博得任何人的欢心；如果还能和那位首席讲上话，那这一番经历必定是绝佳的谈资，如果再夸大一下，说不定那些上流的先生小姐们也会为此惊呼；至于沃雅妮莎的亲笔回信，那更是有价无市，如果有需要，一定能用一个好价钱卖给收藏家；当然，据说那位首席有时候还会在街边或者野外哼唱练习，如果时机恰当，伪装一次偶遇倒也不无不可啊。
+…我愿意为他们留下吗？
+可是这群人根本不想聆听我的歌声，他们只是想要由着自己的心意，为我的歌声加诸无数虚妄的沉重冠冕，却根本看不见——也不愿意看见——这些冠冕压住了我的喉咙，让本应轻盈愉悦的歌声变得沉重拖沓，也把他们的真心掩埋在了最深处…他们已经不愿真心爱我。
+沃雅妮莎的笔尖始终还是没有落在纸面，再写下心中所想，请水妖们将自己接回宁静的故乡。
+可是，那个用门票卖人情的人，真的曾经为了一张演出票而欢呼雀跃，甚至还戴上了自己最好的帽子，端坐在座位上连眼睛都不愿意眨；那位到处拿自己和沃雅妮莎首席交情而夸夸其谈的人，曾经和自己的朋友们悄悄摘下野花，编成花环挂在那个小剧场的后门出口，等到沃雅妮莎出门时，那群彼时尚且年幼的孩子们大喊：「您唱得真好！」，然后一哄而散；那个如今在唱功上已经有所建树的女孩，当初真的是和沃雅妮莎在河边偶遇，她因为自己的唱功太过稚嫩而结结巴巴，之后两人约好了在这里练习唱歌，女孩听沃雅妮莎唠叨的时候，眼睛亮得就像是阳光下的露珠。
+即使彼时的真心已经顺水流变，有的化为了意图登岸攀高的野心，有的化为了搜穴搬巢的物欲，有的则化为了鼓胀的虚荣…
+但沃雅妮莎和她的歌声依然记得，他们曾经真心爱过沃雅妮莎的歌，就像他们真心爱过当时的自己。
+在那永不停歇的时间洪流中，总有那么一刹那足够去爱。
+于是，独居的水妖为这封信做了结尾。
+「…我也愿意为了他们留下。」
+
+### 有关尾巴的保养细则（节选）
+
+…最重要的是，一定要按时泡在纯净的水里，不许加牛奶，也不需要加花瓣加水果和加其他看起来像是调味料的东西！这是在维护鱼尾，不是在做什么鱼尾汤！
+另：最适合用来养护尾巴的水来自枫丹廷，天哪，我要是能每天泡在枫丹廷的水里，都难以想象我的尾巴状态能有多好，如果有机会的话，我一定要请一个长假，在枫丹的水底好好待上一段时间。
+
+### 神之眼
+
+「…沃雅妮莎，票卖光了，人也全坐满了。」
+悄悄向幕布外看了一眼之后，剧院的报幕员长舒一口气，至少剧院不再会因为水妖们的离开而缺乏客流了。但同时，他也不由自主地有些紧张，沃雅妮莎虽然之前也登台献唱过，水平确实不错，但…但以如今的情况，如果只是「水平不错」恐怕难以让观众们满意。
+「好，按照原来的安排来，报幕就麻烦你了。」沃雅妮莎微笑着回答道。
+报幕员点点头，但或许是内心的不安难以抑制，他尝试性地问沃雅妮莎。
+「你准备唱哪首…？呃，但是…好吧，老天啊，水妖们都走了，现在只有你能唱了。」
+报幕员没有把内心真正的不安说出来，原本按照剧院的安排，每一位水妖都会演唱最适合自己演唱的歌曲，这样子多人一同演唱，一方面是方便大家休息，一方面也能丰富演出的内容。即使是有水妖要举办独唱，那也会精细地安排曲目，努力给自己的嗓子留出一点休息的空隙。
+但…以外面的情况来看，这群热烈的观众们不会轻易让这位小水妖沃雅妮莎离开，他们会用掌声不断召唤她回到舞台…老天啊，他再明白不过了，他的脑子里闪过了无数个为沃雅妮莎解场的方法，但全都没用，坐在台下的观众们就如同一片干涸的辽阔土地，就算冲过这里的洪流再汹涌，也会被他们挽留到滴水不剩。
+「我没主意啊，想到哪唱到哪喽。」
+小水妖笑嘻嘻地看向惊愕——甚至有点惊恐——的报幕员，还往自己的嘴里丢了一颗润喉糖。
+「什…不！不不不，你得有个主意，亲爱的，你必须有。」
+「行啦，你瞧瞧观众们，你觉得，他们能被任何『主意』满足么？」
+沃雅妮莎盯着幕布的缝隙，外面人声鼎沸，久违的温暖又喧嚣的气息从幕布缝隙中挤了进来，她听见了人们在兴奋、急躁、质疑、忧郁，悲伤，但目光却直直地看向这必将掀开的幕布。
+他们会被什么满足呢？他们干涸的心床又该被什么滋润？
+「当然是歌声啊。」沃雅妮莎如此对着自己的心声回答道：「他们来这里还能期待什么？还能希望什么？还能要求什么？」
+「当然是歌声啊，无休无止，无穷无尽，从之前到现在到未来的所有歌声。」
+报幕员愣愣地看着小水妖，但他很快用自己的专业知识理解了这句话。
+「你想一个人唱多久？就算是以水妖的嗓子，也不可能…」
+沃雅妮莎耸耸肩，将报幕员的问题轻松地抛到了脑后，然后又突然问道：「对了，剧院里现在就只有我一个水妖，那我是不是可以叫自己首席了？」
+「呃？道、道理上还是需要评选的，但…」
+「那就好，就把今晚的演出，当做我的评选现场吧。」
+在报幕员还没反应过来的瞬间，沃雅妮莎就掀开了幕布，站到了台前。喧闹的观众们先是被突如其来的女高音登场吓了一跳，满场寂静，尔后掌声如同瀑布溅地一般轰鸣不休。
+「欢迎各位来到科洛列夫茨基剧院。今夜的演出没有节目表，全凭我一人歌唱。」
+科洛列夫茨基剧院首席女高音举起双手，如此宣告。
+满场的目光聚焦于她，还有突然出现在她手上的那一枚水蓝色的「神之眼」。
+看来，这下有办法滋润我的嗓子了，沃雅妮莎如此想到。
+说不定，有希望唱到所有人都没有力气鼓掌啊。
+
+# voice_source_ids: 140000,140001,140002,140003,140004,140005,140006,140007,140008,140009,140010,140011,140012,140013,140014,140015,140016,140017,140018,140019,140020,140021,140022,140023,140024,140025,140026,140027,140028,140029,140030,140031,140032,140033,140034,140035,140036,140037,140038,140039,140040,140041,140042,140043,140044,140045,140046,140047,140048,140049,140050,140051,140052,140053,140054,140055,140056,140057,140058,140059,140060,140061,140062,140063,140064,140065,140066,140067,140068,140069,140070,140071,140072,140073
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет! Я Водяница, примадонна Королевской труппы. Как видишь... В смысле, посмотри на мои уши. Довольно необычные, правда? Это потому, что я русалка. Но это неважно. Важно то, что я лучшая певица во всей Королевской труппе.
+
+### Поболтаем: Слух
+
+...Хм? Тише, кажется, я снова слышу, как кто-то шепчется... Хе-хе-хе, посмотрим, смогу ли я разобрать, о чём они говорят...
+
+### Поболтаем: Тренировки
+
+Раз заняться нечем, можно и порепетировать... Нет, забудь. Не хочу снова беспокоить местных жителей. Или животных...
+
+### Поболтаем: Отдых
+
+Уф... Я слишком долго пробыла на суше, кожа стала сухой. Мне срочно нужно в воду.
+
+### Когда идёт дождь...
+
+Ах, какой чудесный день. Идеально для подводного отдыха.
+
+### После дождя...
+
+Уже кончился? Какая досада...
+
+### Когда идёт снег...
+
+Бесконечная белая равнина. Хм, выглядит лаконично.
+
+### В пустыне...
+
+Так жарко и сухо... Хочу обратно в воду...
+
+### Доброе утро...
+
+Доброе утро, я как раз закончила распеваться. Меня было слышно на всю округу? Это нормально, ведь мой голос очень мощный и проникновенный!
+
+### Добрый день...
+
+Ладно, пора пообедать. Утро было насыщенным, я так устала. Сходи позови Одетту, перекусим по-быстрому.
+
+### Добрый вечер...
+
+Уф, день наконец-то закончился. Пойду искупаюсь в озере. Хочешь со мной? ...А? Что тебя так напугало? Пф, нет, я не затаскиваю людей под воду и не пытаюсь их утопить! Я не такая! Но могу, если хочешь!
+
+### Спокойной ночи...
+
+Спокойной ночи. Ложись спать пораньше, мне ведь завтра утром нужно вовремя распеться. Если хочешь, я могу выбрать другую песню.
+
+### О Водянице: Очарование голоса
+
+Мой голос не обладает магической силой, которая сводит людей с ума. Люди слушают меня исключительно потому, что я хорошо пою. ...Кстати, на эту тему у меня есть забавная история про домового, хе-хе-хе... Э-э, неважно, забудь. Если я расскажу, Одетта снова будет на меня сердито смотреть.
+
+### О Водянице: Пристальное внимание
+
+Неважно, актёр ты или нет, если хочешь, чтобы тебя заметили, придётся смириться с вниманием и критикой, которые это влечёт за собой. Не бывает так, чтобы получать выгоду, не платя за это... А если вдруг покажется, что что-то досталось тебе даром... Хе-хе, это лишь означает, что судьба тайно назначила цену за тебя.
+
+### О нас: Рыбий хвост
+
+Я превратила свой рыбий хвост в ноги, чтобы легче было ходить по суше. ...Какую цену я за это заплатила? Никакой! Для русалки покинуть воду - уже достаточно высокая цена. Что ещё я могу отдать? Больше никогда не пить пресную воду и заменить её на соки или Фонту?
+
+### О нас: Дни отдыха
+
+Я не могу всё время находиться в Снежной. Иногда я следую по водным путям и плаваю по всему миру, чтобы послушать, как поют певцы в других странах. Я побывала в Ли Юэ, Фонтейне, Инадзуме, Сумеру... А? Кто-нибудь меня видел? Хе-хе, конечно. Именно поэтому по всему миру ходят легенды о русалках и сиренах. А вот в Натлане всё иначе. Там жарко. ЖАРКО.
+
+### Глаз Бога...
+
+А, эта древность? Да, она симпатичная. Наверное, из неё получилось бы симпатичное украшение. Но как певице она мне не особо нужна. А что касается «взгляда богов»... Хм, меня больше интересуют взгляды зрителей.
+
+### Давай поделимся...
+
+В Фонтейне потрясающее качество воды! В прошлый раз, когда я отправилась в Фонтейн посмотреть представление, не удержалась и прыгнула в воду. Я пробыла там целую вечность и вдоволь напилась. Видимо, я очень шумела, потому что привлекла внимание сотрудницы Особого патруля, которая тренировалась на берегу. Она решила, что я тону, и бросилась меня спасать! А что я? Махнула хвостом и быстренько уплыла, хи-хи-хи! Потом я издалека наблюдала, как она барахтается в воде и растерянно оглядывается по сторонам. Было забавно. Только когда она благополучно вышла на берег, я снова нырнула и продолжила пить воду. В следующий раз обязательно попьём вместе.
+
+### Интересные вещи...
+
+Ты знаешь об инеевых финвалах? Они общаются с помощью «китовых песен», которые большинство людей даже не слышат, не говоря уже о том, чтобы понять. Но мы, водяные, без труда их понимаем и даже можем выучить их язык. Я знакома с одним очень добродушным инеевым финвалом по имени Хитова. Когда я путешествовала по миру, Хитова всегда возила меня. Если представится возможность, обязательно вас познакомлю. Уверена, она с радостью прокатит нас.
+
+### Об Одетте...
+
+Каждый раз, когда Одетта репетирует, я внимательно прислушиваюсь к её танцевальным шагам из-за кулис. Она приземляется, потом прыгает, вращается в воздухе, а затем снова приземляется... Каждое движение выполнено чисто и с безупречным чувством ритма. Даже по звуку понятно, что её танец безупречен... Почему я не смотрю репетицию из зала? Хе-хе, я прячусь за кулисами, чтобы её напугать! У меня ещё ни разу не получилось, но я не из тех, кто сдаётся. Иначе всё то время, которое я провела, прячась за кулисами, прошло бы зря!
+
+### О Мите...
+
+Надеюсь, этот господин Умник перестанет пытаться совершить научное открытие, сидя в зрительном зале. Театр - это не престижная учебная аудитория, и уж точно не приют для сбежавших из офиса сотрудников. Ему лучше начать относиться к нашим выступлениям с должным вниманием... или я буду вынуждена... Ох, да что я говорю. Я ничего не могу с этим поделать, тем более что он соблюдает театральный этикет... Хмф, в следующий раз я выберу произведение погромче, посмотрим, сможет ли он тогда спокойно решать свои задачки.
+
+### Об Алёше...
+
+Мне всегда было интересно, понимают ли щенки Алёши мои песни. Скорее всего, нет, ведь мы тоже не понимаем песен щенков. Я даже не знаю, умеют ли они петь... Но мои колыбельные действуют на них безотказно. Едва успеваю допеть первый куплет, как они уже спят. ...Хм, не знаю, что это говорит о моём пении... Это хорошо или плохо?
+
+### О Весне...
+
+Благодаря госпоже Весне театральные спекулянты знают, что не стоит испытывать судьбу. Она сказала, что в ближайшее время планирует пригласить меня выступить на небольшой конференции по предотвращению мошенничества, и в конце я должна спеть. Дело в том, что в моём репертуаре нет ни одной песни, которая высмеивает мошенников. ...Постой, тактические уловки на войне ведь тоже можно считать мошенничеством? Э-э-э... может, спеть что-нибудь из произведений о войне?
+
+### О Данике...
+
+Я не очень хорошо знаю госпожу Данику, но о ней ходят грозные слухи. Ей приходится непросто: с одной стороны, она помогает её величеству Царице нести бремя забот, а с другой - присматривает за госпожой Весной... Э-э, сделаем вид, что я этого не говорила.
+
+### О её величестве Царице...
+
+Если её величество Царица придёт в театр, то я спою для неё старые песни водяных. Насколько старые? Хм... Не настолько старые, чтобы их слышала только Царица, но достаточно старые, чтобы поднять лёгкое облачко пыли времён. Надеюсь, что пыль не попадёт зрителям в глаза. Не хотелось бы, чтобы все заплакали.
+
+### О Коломбине...
+
+Госпожа Коломбина больше не Предвестник? Хм, жаль. Я всегда считала, что у неё великолепный голос. Её песни были подобны лунному свету: мягкие и нежные, но в то же время холодные. Настоящие и яркие, но при этом недостижимые... Я надеюсь, что она найдёт место, где сможет почувствовать себя как дома, в кругу друзей, которые поймут её песни.
+
+### О Тарталье...
+
+Господин Тарталья часто ходит в театр со своей семьёй. Предвестники могут проходить бесплатно, но его родным по правилам нужно покупать билеты. К счастью, ему всегда удаётся достать билеты. Ах да, ты же знаешь Тоню? Она большая поклонница театра. Возможно, она даже присоединится к нам, когда вырастет. Если это произойдёт, господину Тарталье предстоит свыкнуться с тем, что ему придётся ходить в театр ещё чаще.
+
+### Об Арлекино...
+
+Госпожа Арлекино иногда приводит детей на выступления. У одной из них кошачьи ушки, кажется, её зовут Линетт? Она и мальчик по имени Лини очень хорошо показывают фокусы. Однажды на новогоднем представлении они выступали с фокусами на сцене нашего театра. Но когда дают «Горы и воробьи», госпожа Арлекино приходит одна... Возможно, она хочет насладиться этой постановкой в одиночестве.
+
+### О Сандроне...
+
+Когда госпожа Сандроне приходит в театр, она словно куда-то торопится. Иногда стискивает зубы, иногда у неё дёргается глаз... А иногда её лицо совершенно безразлично, но она сминает в комок клочок бумаги. Выглядит так, будто её насильно заставили прийти на выступление. Не берусь гадать, кто может заставить её сделать что-либо против её воли. Но... к концу выступления она всегда выглядит немного более расслабленной, значит, не зря пришла.
+
+### О Капитане...
+
+Капитан? Тот самый Капитан? Он... честно говоря, я с ним ни разу по-настоящему не разговаривала. Мы иногда обменивались парой слов, когда пересекались после выступления, но и только. Однако я могу сказать, что он очень серьёзный и принципиальный. Даже в партере он сидит совершенно прямо, как флагшток или колонна. У меня создаётся впечатление, что ничто не может вывести его из равновесия, не говоря уже о том, чтобы сломить. Даже самая сильная буря.
+
+### Узнать больше о Водянице I
+
+Если тебе что-то любопытно - спрашивай. Но на каждый твой вопрос я тоже задам тебе один. Так будет честно. Не переживай, я не буду спрашивать ничего сложного, только... то, что я пока сама не успела разузнать.
+
+### Узнать больше о Водянице II
+
+Мне жаль разрушать твои иллюзии, но русалки Снежной - вовсе не те волшебные существа из легенд, которые своим пением сводят моряков с ума, или которые ценой огромных жертв вышли на сушу и превратятся в пену, если нарушат клятву. Нет, мы обычные жители Снежной, живущие обычной жизнью, как и все остальные.
+
+### Узнать больше о Водянице III
+
+После того случая почти все водяные покинули Снежноград. Мои дорогие братья и сёстры звали меня с собой, но я отказалась. Если жители Снежной вдруг перестанут слышать пение водяных, им наверняка станет грустно. А если песни водяных будут забыты в Снежной, то и мне, и остальным водяным тоже станет грустно. Чтобы никому не было грустно, я осталась и продолжила петь.
+
+### Узнать больше о Водянице IV
+
+...Времена меняются. И Снежная изменилась до неузнаваемости. Всё это не могло не повлиять на моё творчество. С течением времени песни становятся... тяжелее, многослойнее и сложнее помимо моей воли. Мне это не нравится, поэтому я установила для себя правило: каждый раз, когда мне хочется вернуться домой, я нахожу в Снежной десять человек и смотрю, как они относятся к моим песням. Если хотя бы одному из десяти искренне нравятся мои песни, я останусь. Но если среди этих десяти не окажется ни одного человека, которому мои песни искренне нравятся, я вернусь к своим братьям и сёстрам.
+
+### Узнать больше о Водянице V
+
+Хе-хе, не знаю, можно ли это назвать удачей, но каждый раз, когда я спрашивала мнение десяти человек, среди них всегда находился хотя бы один, кто искренне готов был послушать, как я пою. Кто-то только начинал свой путь, кто-то находился в гуще борьбы за своё место под солнцем, а кто-то спокойно готовился к последнему этапу своего жизненного пути... Ради этих зрителей я буду продолжать петь вместе с голосами братьев и сестёр, всё ещё звучащими в театре. А ты? Тебе нравится, как я пою? Отвечай честно - у нас, водяных, исключительно острый слух. Я распознаю ложь по биению твоего сердца. Начинаю обратный отсчёт: три, два...
+
+### Хобби Водяницы...
+
+Всякий раз, когда у меня хорошее настроение, или, наоборот, очень плохое, я ныряю в воду, закрываю глаза и позволяю течению нести меня. Плывя по течению, я прислушиваюсь к звукам, которые разносят волны: как собираются в стаи маленькие рыбки, и их чешуйки скользят друг о друга; как гигантские киты поют глубокие, протяжные песни, призывая своих партнёров издалека; как пузырьки поднимаются из глубин, а затем лопаются... Иногда, когда я проплываю мимо города, я слышу, как рыбаки напевают, закидывая сети, как смеются дети, прыгая в воду, и как скрипят корабли, готовясь к долгому плаванию или возвращаясь в порт... Слушать звуки мира - поистине волшебно. Хочешь попробовать? Если да, то в следующий раз я возьму тебя с собой.
+
+### Беспокойство Водяницы...
+
+Мне не нравятся звуки, перегруженные смыслом. Пение - это всего лишь один звук, как вести, приносимые волнами, как шуршание падающих листьев или как стук быстрых шагов... Чем больше содержания в звуке, тем труднее его понять, и тем неприятнее он звучит.
+
+### Любимая еда...
+
+Мм... Что-нибудь сладкое. Лучше всего - холодное, с небольшим количеством сиропа, и... Хм, похоже, я описываю мороженое.
+
+### Нелюбимая еда...
+
+Сухая еда. Конечно, я могу заставить себя проглотить её, но у меня возникает ощущение, будто моё горло вот-вот расцарапается до крови.
+
+### Подарок I
+
+О, очень вкусно! Не зря я рассказывала тебе о своих любимых блюдах. У тебя отличная память. В следующий раз моя очередь приготовить что-нибудь по твоему вкусу. ...Да, мы не откровенничали на эту тему, но не волнуйся, я и так знаю, что тебе нравится. У меня есть свои методы.
+
+### Подарок II
+
+Спасибо. А, кстати, ты ещё помнишь, что я люблю есть больше всего? Я тебе говорила. Помнишь? Хм... Похоже, у тебя отличная память. В следующий раз придумаю что-нибудь такое, чтобы тебе было сложнее запомнить, хе-хе-хе.
+
+### Подарок III
+
+...В следующий раз я лучше прямо скажу тебе, какие вкусы мне нравятся. Или... научу тебя готовить что-нибудь вкусное.
+
+### День рождения...
+
+С днём рождения! Я отложила для тебя подарок. Можешь открыть его позже. Там всякие безделушки и игрушки. Но это не главное. У тебя же есть время, да? Тогда пойдём со мной! Покажу тебе свою комнату эха. Я на днях попросила привезти из Натлана Деку танцев, и ещё кучу всяких странных, но очень классных инструментов. Я готовлю лучшее музыкальное событие, которое когда-либо видела Снежная, и угадай, кто первый получит приглашение? Правильно, это ты! Давай, будем петь всю ночь напролёт!
+
+### Чувство возвышения: Начало
+
+Кхе-кхе... голос неплохой.
+
+### Чувство возвышения: Нарастание
+
+Кажется, я увеличила диапазон своего голоса.
+
+### Чувство возвышения: Кульминация
+
+Ах, мой голос звучит сильнее, чем когда-либо.
+
+### Чувство возвышения: Окончание
+
+Ура! Пора петь всю ночь напролёт!
+
+### Элементальный навык I
+
+Слушай внимательно.
+
+### Элементальный навык II
+
+Сначала распоюсь.
+
+### Элементальный навык III
+
+Время выходить на сцену.
+
+### Элементальный навык IV
+
+Уже лучше...
+
+### Элементальный навык V
+
+Хи-хи, погляди-ка на мой рыбий хвост!
+
+### Элементальный навык VI
+
+А-а-а!
+
+### Взрыв стихии I
+
+Элегия о бренности бытия.
+
+### Взрыв стихии II
+
+Ода ушедшим эпохам.
+
+### Взрыв стихии III
+
+Все, громче!
+
+### Открытие сундука I
+
+Ой! Столько блестящих сокровищ, скорее забирай!
+
+### Открытие сундука II
+
+Выглядит неплохо, можно поиграть!
+
+### Открытие сундука III
+
+Что внутри? Сундук? Ну ладно...
+
+### Низкий уровень HP I
+
+Хе-хе... хе...
+
+### Низкий уровень HP II
+
+Я наигралась.
+
+### Низкий уровень HP III
+
+...Ты пожалеешь.
+
+### Низкий уровень HP компаньона I
+
+Эй! Что ты делаешь?!
+
+### Низкий уровень HP компаньона II
+
+Иди сюда! Хватит бегать!
+
+### Без сознания I
+
+Ах... вы пришли...
+
+### Без сознания II
+
+Волны... унесите меня... домой...
+
+### Без сознания III
+
+На высокой ноте... в заключение...
+
+### Получен лёгкий удар I
+
+Поскользнулась...
+
+### Получен лёгкий удар II
+
+Хмф! Это ещё не конец!..
+
+### Получен тяжёлый удар I
+
+Сразись со мной в воде, если так крут!
+
+### Получен тяжёлый удар II
+
+Я не создана для суши!
+
+### Присоединяется к группе I
+
+Слышу тебя.
+
+### Присоединяется к группе II
+
+А вот и я. Что случилось?
+
+### Присоединяется к группе III
+
+Кхе-кхе... Голосовые связки размяты.
+
+## REPLICAS_EN
+
+### Hello
+
+Hello, I'm Vodyanitsa, the Prima Donna of the Korolevskiy Troupe. As you can see... Well, I mean, look at my ears. Pretty unusual, right? That's because I'm a "Water Imp." But that's neither here nor there. All you need to know is that I'm the best singer in the entire Korolevskiy Troupe.
+
+### Chat: Hearing
+
+...Hmm? Keep it down, I think I hear someone whispering again... Hehehe, lemme see if I can make out what they're saying...
+
+### Chat: Practice
+
+Well, if there's nothing else going on, I might as well do some rehearsing... Uh, no, forget it. I don't wanna disturb the locals again. Or the animals...
+
+### Chat: Passing the Time
+
+Whew... I've been on dry land for too long — my skin's getting dry. I'm in serious need of some underwater time.
+
+### When It Rains
+
+Ah, what a lovely day. Perfect for some underwater relaxation.
+
+### After the Rain
+
+Aw, where'd the rain go? What a downer...
+
+### When It Snows
+
+A vast expanse of white. Hmph, if nothing else, it's a clean aesthetic.
+
+### In the Desert
+
+Ugh, it's so hot and dry... Get me back to the water...
+
+### Good Morning
+
+Good morning. I just finished my vocal warm-ups. Did you hear me? Yeah, I'm not surprised. My singing voice really carries.
+
+### Good Afternoon
+
+Alright, time for some lunch. My poor voice is so tired after the morning I've had. I'll go get Odette, then we can grab a quick bite.
+
+### Good Evening
+
+Whew, the day is finally over. I'm gonna take a dip in the lake in a bit, you wanna join me? ...Huh? What are you so scared of? Pssh, no, I don't drag people underwater and try to drown them! I'm not THAT kind of Water Imp! But I can do that if you want!
+
+### Good Night
+
+Nighty-night~ You should get to bed — I'll be getting up pretty early tomorrow to do my vocal warm-ups. Of course, if you have any song requests, I'm more than happy to oblige.
+
+### About Vodyanitsa: Charming Singing Voice
+
+Unfortunately, my voice doesn't cast any kind of magic spell on people that drives them crazy. People listen to me purely because I sing well. ...Ooh, although on that note, I actually have a joke about the Domovoy, hehehe... Ahem, never mind, forget I said that. Odette will start glaring at me again if I tell it.
+
+### About Vodyanitsa: Scrutiny
+
+Whether you're a performer or not, if you truly want to be seen by other people, you have to accept the scrutiny that comes with it. Nothing worth having in this world comes without a price. And if it ever seems like you got something for free... Heh, that just means that fate has secretly decided the price for you.
+
+### About Us: Fish Tail
+
+I turned my fish tail into two legs to make walking on land easier. ...What price did I pay? None! Hmph, for us Water Imps, leaving the water behind is a big enough price to pay already. What else do you wanna take away from me, the right to drink fresh water? I suppose you'd make me subsist entirely on fruit juice or Fonta, wouldn't you?
+
+### About Us: Outing Days
+
+Still, I can't just stay in Snezhnaya all the time. Sometimes, I'll follow the waterways and swim around the world to hear what singers in other places sound like. I've been to Liyue, Fontaine, Inazuma, Sumeru... Huh? Has anyone ever noticed me? Hehe, of course. That's why there's legends about merfolk, mermaids, sirens, and so on all over the world. Natlan was something else, though... That place is hot. With a capital H, O, T.
+
+### About the Vision
+
+Oh, this old thing? Yeah, it's pretty. Makes a nice piece of jewelry, I guess. But as a singer, I don't have much use for it most of the time. And as for "the gaze of the gods"... Hmph, I'm more interested in the gaze of my audience.
+
+### Something to Share
+
+The water quality in Fontaine is amazing! Last time I traveled to Fontaine to watch a show, I couldn't resist diving underwater. I stayed there for ages, and gulped down loads of water. But I guess I must have made too much of a splash, because I caught the attention of someone from the Special Security and Surveillance Patrol who was training on the shore. She thought I was drowning... She came rushing to the rescue, yelling at the top of her lungs. But, uh... I just flicked my tail and whoosed away, hehehe. Then watched from a distance while she treaded water and looked around in confusion. It was pretty hilarious. Anyway, I waited until she was safely back on shore before I went underwater again to carry on gulping away. It really is delicious, you know. You should join me next time.
+
+### Interesting Things
+
+Do you know about Frostfin Whales? They communicate using "whale songs," which most people can't even hear, let alone understand. But we Water Imps have no trouble understanding them, and we can even learn the language. I've actually gotten to know a Frostfin Whale named Hitova — real good-natured. Back when I was traveling all over, I hitched a ride off of her. I'll have to introduce you if I ever get the chance. I'm sure she'd be happy to take us both out for a ride.
+
+### About Odette
+
+Whenever Odette is rehearsing, I listen along intently to her dance steps from backstage. She lands, then jumps, spins in the air, then lands again... Every motion is cleanly executed with impeccable timing. Just by listening, I can tell her dancing is flawless... Hm, why don't I go out front to watch? Hehe, because I wanna hide backstage and jump out at her afterwards! Sure, I haven't managed to scare her yet, but I have to keep trying. Otherwise, all that time I've spent hiding backstage would've been for nothing!
+
+### About Mitya
+
+I wish that Mr. Smarty Pants would stop trying to make scientific breakthroughs while he's watching the show. The theater is not a glorified study hall, and it's certainly not a refugee camp for escaped office workers. He'd better start taking our performances seriously... or I'll be forced to... *sigh* What am I saying — there's nothing I can do about it, especially since he technically does abide by theater etiquette... Hmph, next time I see him in the audience, I'll have to perform one of my louder pieces. Let's see how well he can concentrate on his work then.
+
+### About Alyosha
+
+I've always wondered if Alyosha's puppies can understand my songs. I'm guessing probably not, since we can't understand puppy songs either. Matter of fact, I don't even know if they can sing at all... But my lullabies work like a dream on them. I'll barely make it through the opening verse before they're all out like a light. ...Hmm, not sure what that says about my singing, though... Is that good or bad?
+
+### About Vesna
+
+Thanks to Miss Vesna, those theater ticket scalpers know not to push their luck. She said she's planning to invite me to host a small conference on ticket scam prevention soon, and I'm supposed to be singing a song at the end to wrap things up. The thing is, out of all the songs I know, I don't think there's a single one for satirizing scam artists. ...Wait, tactical deception in war should count as a scam, right...? Ummm... maybe I could sing a war epic...?
+
+### About Danica
+
+I'm not personally very familiar with Miss Danica, though of course, her reputation precedes her. She must have had it tough, answering to the Tsaritsa on one hand while having to deal with Miss Vesna on the other... Ahem, but uh, you didn't hear that. At least, not from me.
+
+### About the Tsaritsa
+
+If Her Majesty the Tsaritsa comes to see a show at the theater, I'll break out the old songs of the Water Imps for her. ...How old? Well... Not so old that only the Tsaritsa has heard them before, but definitely old enough that you can hear the dust coming off when you start singing them. I just hope it doesn't get in people's eyes. Wouldn't want to make everyone cry.
+
+### About Columbina
+
+Is Miss Columbina no longer a Harbinger? Huh, shame. I always thought she had a great singing voice. Her songs were like the moonlight itself: so soft and gentle, yet somehow icy cold. So present and vivid, yet so impossibly out of reach... Heh, I only hope she finds somewhere she can belong, with good friends who understand her songs.
+
+### About Tartaglia
+
+Mr. Tartaglia often brings his family to the theater. Harbingers get free admission, although family members have to buy tickets like everyone else. Fortunately, he always manages to secure tickets for his family. Oh, right — you know Tonia, don't you? She's a huge theater fan. She might even join us when she grows up. If that happens, I guess Mr. Tartaglia will have to get used to visiting the theater even more often.
+
+### About Arlecchino
+
+Lady Arlecchino sometimes brings a few children to watch a show at the theater. One of them has these cat ears — Lynette, I think her name was? Yeah, that's right — she and the boy, Lyney, are both excellent magicians. They actually performed a magic show here on the stage one time during an end-of-year performance. The only time Lady Arlecchino tends to come without the children is to watch "The Mountain Sparrow"... I suppose she prefers to enjoy that show alone.
+
+### About Sandrone
+
+Miss Sandrone always seems to be in a hurry whenever she comes to see a show. Sometimes she grits her teeth, sometimes her eyes twitch... Other times, her face is completely blank, but she's crumpled some scrap paper into a ball. If I didn't know better, I'd say someone was forcing her to come against her will... But far be it from me to speculate who has the power to force her into anything. Still... Heh, she always seems a little more relaxed by the end of the show. So at least she's not completely wasting her time.
+
+### About The Captain
+
+The captain? Oh, you mean THE Captain? Well... to be honest, I've never really had a proper conversation with him. I mean, we've exchanged a few brief words on occasion when we've bumped into each other after a show, but that's about it. Still, I can tell that he's a very serious and upstanding sort of person. Even in the audience stalls, he sits there completely straight, like a flagstaff or a pillar. I get the sense that nothing could ever faze him, let alone break him, not even the fiercest storm.
+
+### More About Vodyanitsa: I
+
+So, you got some burning questions, huh? Well, ask away — but for every question you ask me, I get to ask you one, too. It's only fair. Don't worry, I won't ask any difficult questions. Just, uh... Y'know, the things I haven't found the answers to anywhere else.
+
+### More About Vodyanitsa: II
+
+Sorry to burst your bubble, but we Snezhnayan Water Imps aren't some mythical creatures who drive sailors mad with our alluring songs, or pay some enormous price to walk on land, only to turn into sea foam if we break our vows. Nope, we're just ordinary people living ordinary lives, like everyone else in Snezhnaya.
+
+### More About Vodyanitsa: III
+
+Since that incident, almost all the Water Imps have left Snezhnograd. My dear brothers and sisters invited me to leave with them, but I turned them down. I'm sure the citizens of Snezhnaya would be saddened if the day ever came that they could no longer hear our songs. And if Snezhnaya forgot our songs, the other Water Imps and I would be sad, too. That's why I stayed behind to keep singing. To prevent sadness all around.
+
+### More About Vodyanitsa: IV
+
+...Times have changed. Snezhnaya is a completely different place today. Inevitably, it's changed the way I relate to my singing, too. As time goes by, it's like the songs become... heavier, more layered and complex than ever, and I can't help but feel... Anyway, I don't like being like that, so I made a simple rule for myself: Whenever I feel like just going home, I find ten people in Snezhnaya and see if they like my singing. If even one out of ten genuinely likes my songs, I will stay. But if not even one person in ten cares, I'll return to my brothers and sisters.
+
+### More About Vodyanitsa: V
+
+Heh, I don't know whether to call it good or bad luck, but every time I've sought out ten people to get their verdict, I've always found at least one who is genuinely willing to listen to my singing. Some were just starting out, others were deep in the trenches of the most heroic struggle of their lives, and some were calmly preparing for the final leg of their life's journey... Even if that were the entire audience, I and any of my kin who linger still in the theater would continue to sing for them. So, what about you? Do you enjoy my singing? Hehe. Be careful how you answer — we Water Imps have exceptionally good hearing. I'll know whether you're lying from your heartbeat alone. Ready? I'll count you in: Three, two...
+
+### Vodyanitsa's Hobbies
+
+Whenever I'm in a good mood — or a really bad mood — I dive into the water, close my eyes, and let the current carry me around. As I drift along, I listen to all the sounds carried on the waves: Little fishies gathering together, their scales brushing against one another... giant whales singing deep, drawn-out songs as they call out to their partners far away... bubbles rising up from the deep, then bursting... Occasionally, when I drift by a city, I'll even hear the fishermen chanting as they cast their nets, children laughing as they leap into the water, and ships creaking as they prepare for a long voyage or return to port... Listening to the sounds of the world like this is truly magical. Do you want to try it? If so, I'll take you with me next time.
+
+### Vodyanitsa's Troubles
+
+I don't like sounds laden with too much meaning. Singing is just another sound, like the news carried by the waves, the crisp sound of falling leaves, or the pitter-patter of running footsteps... The greater a sound's burden, the harder it is to understand, and the more unpleasant it is to my ear.
+
+### Favorite Food
+
+Mm... Anything sweet, really. Although, preferably nice and cold, with just a dash of syrup, and... Huh, now that I say it out loud, I guess I'm just describing ice cream.
+
+### Least Favorite Food
+
+If there's no moisture in it whatsoever, I just cannot handle it. I mean, I can physically force myself to swallow it, sure, but my throat will feel like it's being torn to shreds on the way down.
+
+### Receiving a Gift: I
+
+Ooh, this is delicious! I guess you remembered what I told you about my favorite foods, huh? You have a pretty good memory. Next time, it's my turn to make some food tailored to your tastes. ...Yeah, I know you've never explicitly told me before, but don't worry — I already know. I have my ways of finding these things out.
+
+### Receiving a Gift: II
+
+Thanks. Oh, by the way, do you still remember my favorite food? I told you last time. You do? Hmm... Guess you've got a pretty good memory. I'll have to give you something tougher to remember next time, hehehe.
+
+### Receiving a Gift: III
+
+...Maybe next time, I should be clear about my food preferences in advance. Or maybe I can teach you how to make something really delicious.
+
+### Birthday
+
+Happy Birthday! I've set aside your gift. You can open it later. It's just some small trinkets, toys, and whatnot... Eh, but that's not the important part. You're free now, aren't you? In that case, come with me! We're going to my echo chamber. I got someone to buy me a Dance-Off Stage from Natlan a few days ago, along with a whole bunch of weird and wonderful instruments. I'm working on the best music event Snezhnaya's ever seen, and guess who's the first person to receive an invitation? That's right, it's you! Come on, let's sing the night away!
+
+### Feelings About Ascension: Intro
+
+Ahem, ahem... Alright. Sounding good.
+
+### Feelings About Ascension: Building Up
+
+I think I just reached a new high note.
+
+### Feelings About Ascension: Climax
+
+Ah, my voice is feeling stronger than ever.
+
+### Feelings About Ascension: Conclusion
+
+Whoo! Time to sing the whole night through!
+
+### Elemental Skill: I
+
+Listen closely.
+
+### Elemental Skill: II
+
+Start with a warm up.
+
+### Elemental Skill: III
+
+Taking the stage.
+
+### Elemental Skill: IV
+
+This is more like it...
+
+### Elemental Skill: V
+
+Heehee, look at my fish tail!
+
+### Elemental Skill: VI
+
+Woo! Hahahaha!
+
+### Elemental Burst: I
+
+An elegy to mortality.
+
+### Elemental Burst: II
+
+An ode to eras past.
+
+### Elemental Burst: III
+
+Everyone, lift your voices!
+
+### Opening Treasure Chest: I
+
+Wow! Look at all these shiny treasures! Quick, grab 'em!
+
+### Opening Treasure Chest: II
+
+This looks alright, I guess. Could be fun to play around with.
+
+### Opening Treasure Chest: III
+
+Is that it? Huh. So much for "treasure" chest...
+
+### Low HP: I
+
+Hehe... Heh...
+
+### Low HP: II
+
+I'm done playing.
+
+### Low HP: III
+
+...Oh, you'll regret that.
+
+### Ally at Low HP: I
+
+Hey! What are you doing!?
+
+### Ally at Low HP: II
+
+Get over here! Stop messing around!
+
+### Fallen: I
+
+You're all here...
+
+### Fallen: II
+
+Waves... carry me home...
+
+### Fallen: III
+
+A high note... to end on...
+
+### Light Hit Taken: I
+
+I slipped...
+
+### Light Hit Taken: II
+
+Hmph! I'm not done yet...!
+
+### Heavy Hit Taken: I
+
+Face me in the water if you're so tough!
+
+### Heavy Hit Taken: II
+
+I'm not built for dry land...!
+
+### Joining Party: I
+
+My ears are burning.
+
+### Joining Party: II
+
+Here I am. What's up?
+
+### Joining Party: III
+
+*clear throat* Mm, my vocal cords are all warmed up.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，我是科洛列夫茨基剧团首席女高音沃雅妮莎，如你所见…喔，我的意思是看我耳朵，看着就不寻常吧，因为我是一名「水妖」，不过这个身份不重要，你只需要记住，在整个科洛列夫茨基剧团里，我唱歌最好听就行。
+
+### 闲聊·听力
+
+…嗯？你小声点，我好像又听见有人在说悄悄话，嘻嘻嘻，让我仔细听听看…
+
+### 闲聊·练习
+
+反正闲着没事，在这里练习一下吧，算了，好像又会扰民，或者扰动物呢…
+
+### 闲聊·休闲方式
+
+呼…又在陆地上待了这么久，皮肤都干干的，还是快点回水下休息一下吧。
+
+### 下雨的时候…
+
+嗯，是个好天气，很适合躺在水底休息。
+
+### 雨过天晴…
+
+就停了？没劲…
+
+### 下雪的时候…
+
+白茫茫一片，哼，够干净的。
+
+### 在沙漠的时候…
+
+好热，好干…想回水里去——
+
+### 早上好…
+
+早上好，我刚好也开完嗓了，你听见了？嗯，那也正常，毕竟我的歌声很有穿透力嘛。
+
+### 中午好…
+
+行了，吃午饭去吧，忙了一上午，我喉咙都要裂开了，等会去叫奥黛塔，我们简单吃一点。
+
+### 晚上好…
+
+呼啊，一天终于结束了。等会再去湖里泡泡吧，你来吗？怕什么，我又不是那种会拖人溺水的水妖，但如果你想试试，倒也不是不行。
+
+### 晚安…
+
+晚安喽。早点睡吧，明天早上我还要按时开嗓呢，当然，如果你有需要，我也可以换首歌。
+
+### 关于沃雅妮莎自己·歌声的魅力
+
+很遗憾，我的歌声没什么能引人发狂的特别魔力，大家之所以愿意听我唱歌，只是单纯的因为我唱得好听而已。啊，但说到这个，我有一个关于矮灵的笑话，噗…呃，算了算了，不讲不讲，不然奥黛塔又要瞪我了。
+
+### 关于沃雅妮莎自己·审视
+
+无论是不是演员，如果一个人想要被人们「看见」，那他就必须要接受人们的「审视」。这世上没有只占便宜，不付出代价的好事，就算有…呵，那也只是因为命运把价格标在了暗处。
+
+### 关于我们·鱼尾巴
+
+为了方便在陆地上走路，我就把鱼尾巴变成双腿了，代价？没什么代价啊。哼，我作为一个水妖都离开水了，这代价已经足够大了，我还能付出什么，从此之后不能喝纯净水，只能喝果汁或者枫达吗？
+
+### 关于我们·郊游日
+
+不过嘛，总是待在至冬也不行，我有时候也会顺着水源四处溯游，去看看其他地方的歌手是如何歌唱的。现在我已经去过了璃月，枫丹，稻妻，须弥…啊？有没有被人发现，有啊，嘻嘻，所以世界各地都流传着所谓「鲛人」、「人鱼」和「泉客」的传说啊。但我对纳塔的印象…呃，好热，然后还是好热。
+
+### 关于「神之眼」…
+
+这个小玩意？很好看，当个挂饰挺不错的，但平时唱歌也用不上它，至于「被神明注视」…呵，比起这个，我更愿意被观众们注视。
+
+### 有什么想要分享…
+
+枫丹的水质真好啊，之前我去枫丹看演出的时候，忍不住钻进水底待了好久，还不由自主地咕嘟咕嘟喝了好多水，可能是我弄出的动静太大了吧，让一个在岸边训练的特巡队队员注意到了，她还以为我溺水了呢，大呼小叫地就冲过来想要把我救上岸，至于我嘛…当然是一甩尾巴，飞快地窜走喽，嘻嘻嘻，然后我在远处看着她一边踩水，一边茫然地四处张望，还挺好玩的。直到看着她安全回到岸边，我才回去水底继续咕嘟咕嘟喝水，真的很好喝，下次一起去喝点？
+
+### 感兴趣的见闻…
+
+你知道「霜鳍鲸」吗？它们会用常人听不懂——甚至听不见——的「鲸歌」互相交流，但我们「水妖」能听懂它们的歌声，甚至还能学会呢。我就认识一位脾气特别好的霜鳍鲸，它叫希托娃，我之前去世界各地旅游的时候，都是它带着我赶路的，有机会的话，我把它介绍给你认识，它肯定会答应载着我们出去玩的。
+
+### 关于奥黛塔…
+
+每次奥黛塔去前台彩排的时候，我都会在后台仔细聆听她的舞步声。落下，跳起，旋转，再落下…干净利落，节奏规整，即使只是听声音，都能知道这绝对是一场完美的舞蹈演出…为什么我不去前台看？因为我要躲在后台吓她一跳啊。虽然每次都没吓到，但吓还是要继续吓的，不然我不是白躲了？
+
+### 关于米提亚…
+
+希望这位聪明的先生不要在剧院的观众席上继续解题了，我们剧院不是什么超级自习室，也不是逃避工作的避难所，请认真地享受演出。不然我就…呼，算了，我也不能做什么，他确实很遵守剧院的观演礼仪。哼，下次我要挑一首动静大点的曲子，我看他还能不能顺利地解题。
+
+### 关于阿罗夏…
+
+我一直在想，阿罗夏的小狗们能听懂我唱的歌吗？应该听不懂吧，毕竟我们也听不懂小狗们的歌，甚至都不知道它们会不会唱歌…不过，我唱的摇篮曲确实对小狗们很有用，每次都是只唱了一个开头，小狗们就睡成一片。唉，也不知道这算我唱得好还是不好啊。
+
+### 关于薇斯纳…
+
+多亏了薇斯纳小姐，那些倒卖剧院门票的票贩子们才不敢太嚣张。过段时间，薇斯纳小姐还打算邀请我开一场有关于预防票务诈骗的小型座谈会呢，在结束的时候，我还要唱一首歌作为闭幕。可我知道的歌里，也没有一首是能用来讽刺诈骗的啊，等等，战争里的战术欺骗，应该也能算是诈骗吧…？不、不然…来一首战争史诗…？
+
+### 关于达妮卡…
+
+我和达妮卡小姐虽然不算很熟，但也听说过她的威名。达妮卡小姐过得真辛苦啊，一边要帮女皇陛下分忧，一边还要看住薇斯纳小姐…咳，我什么都没说，没说。
+
+### 关于女皇陛下…
+
+如果女皇陛下来剧院观赏演出。那么我会为她演唱水妖们的「老歌」的。有多老？嗯…虽然还没老到只有女皇陛下听过的地步，但也足够吹起一阵小小的时光遗尘了，希望大家别被这阵扬起的尘沙迷住眼睛而流泪啊。
+
+### 关于哥伦比娅…
+
+那位哥伦比娅小姐已经不再是执行官了？可惜，我一直很喜欢她的嗓音，她哼唱的曲子就像是月光一样，柔美、轻盈又冰冷，虽然近在眼前，却又触不可及。呵，希望她能找到一个好去处，还有一群能听懂她歌声的朋友。
+
+### 关于达达利亚…
+
+达达利亚先生经常带着家里人来剧院里观看演出，不过，虽然执行官们可以免费入场，但他的家人们按照规定还是要如常购票的，好在，达达利亚先生总是能为自己的家人顺利弄到票。噢，冬妮娅你应该已经知道了吧，她也很喜欢演出，说不定等她长大之后，真的会加入我们剧院呢。到时候，达达利亚先生来剧院的次数恐怕又要增多了。
+
+### 关于阿蕾奇诺…
+
+阿蕾奇诺女士有时候会带几个孩子来看演出，其中有一个孩子还有猫耳，我记得是叫琳妮特来着？她和那个叫林尼的孩子都很擅长魔术表演，有一次年终演出时，他们还在我们剧院的舞台上展示过魔术呢。不过，每次演出「山与雀」的时候，阿蕾奇诺女士几乎都是独自前来的…或许，她希望独自欣赏那场演出吧。
+
+### 关于桑多涅…
+
+桑多涅小姐来看演出的时候，总是急匆匆的。有时候她咬着牙，眼角抽搐，有时候她面无表情，手里的稿纸却已经揉成了一团，看着好像是被人强行「请」来看演出的。我不想猜测到底是谁能「请」得动她，但…呵，至少每次演出结束时，她的表情都缓和了不少，看来是没白来。
+
+### 关于「队长」…
+
+你说那位「队长」大人么？他…老实说，我并没有和他长时间地聊过天，最多只是演出散场时偶遇，简短地聊上几句。但我能感觉到，他是一个很严肃、正直的人。即使是在观众席的座位上，他也坐得十分笔直，就像是旗杆，或者是石柱，感觉无论多恐怖的风暴也无法将他折断或掀翻。
+
+### 想要了解沃雅妮莎·其一
+
+有什么好奇的问题，问呗。不过你问一个问题，我也要问你一个，这才公平。没关系，我不会问那种很难回答的问题，只会问…那些我暂时没打听到的问题。
+
+### 想要了解沃雅妮莎·其二
+
+虽然很抱歉打破了你的幻想，但至冬的「水妖」可不是传说中那种，会用歌声引诱水手发狂，或者是付出了巨大的代价才走上陆地，只要违反誓言就会变成泡沫的神奇物种，我们只是普通地生活在至冬，和所有人一样，仅此而已。
+
+### 想要了解沃雅妮莎·其三
+
+自从那件事之后，水妖们几乎全部离开了至冬堡。我亲爱的兄弟姐妹们也邀请过我离开，但我拒绝了他们。如果至冬的各位市民突然听不见水妖的歌声，肯定会很难过，如果水妖的歌声被至冬遗忘，那我和其他的水妖们也会很难过。为了两边都不难过，我就留下来，继续唱歌了。
+
+### 想要了解沃雅妮莎·其四
+
+…时过境迁，如今的至冬已经大变样了，我的歌声，也不得不承载更多的东西，变得越来越复杂，沉重，不由自主…我不喜欢这样，所以我给自己定了一个规矩，每当我想回家的时候，就在至冬找十个人，看他们是不是真心喜欢我的歌声，如果十个人里哪怕有一个人是真心喜欢我的歌，那我就会留下，如果这样的人十不存一，那我就会回到我兄弟姐妹们的身边。
+
+### 想要了解沃雅妮莎·其五
+
+呵，但不知道是幸运还是不幸，迄今为止，我总是能在那「十个人」里找到真心愿意听我唱歌的人，他们之中有人刚刚戴上了帽子，有人正昂首挺胸奋力拼搏，有人正坦然地走完人生的最后一程…即使是为了这些观众，我也会和那些萦绕在剧院之中的兄弟姐妹们继续唱下去。怎么样，你喜欢我的歌么？好好回答喔，水妖的听力可是很灵敏的，如果你撒谎，我就能听见你乱七八糟的心跳了，我来倒计时，三，二…
+
+### 沃雅妮莎的爱好…
+
+每当我心情好——或者特别不好——的时候，我都会跳进水里，闭上眼睛，让水流带着我四处漂流。我一边漂流，一边听着波浪为我带来的各种声音，小鱼们聚在一起，鳞片沙沙摩擦；巨鲸低沉地长吟，呼唤着遥远的同伴；水底的气泡浮起又破灭…偶尔漂流到城边，还能听见渔民喊着号子撒下渔网；孩子们欢笑着跃入水中；准备远航或已然归港的船吱呀作响…这样子聆听世界之声的感觉，可是很奇妙的，你想试试吗？下次带你一起去呗。
+
+### 沃雅妮莎的烦恼…
+
+我不喜欢被赋予太多意义的声音，歌声就只是歌声，就好像波浪带回的信音，枯叶凋落在地的脆响，或者是奔跑的脚步声…声音背负的东西越多，就越难被理解，也就越难听。
+
+### 喜欢的食物…
+
+甜的就行，最好要冰冰凉凉，还带着点甜汤…啊，这么一说，不就是冰淇淋嘛。
+
+### 讨厌的食物…
+
+毫无水分的东西，我实在咽不下去，如果强行吞咽的话，我会有一种自己的喉咙都被划破的错觉。
+
+### 收到赠礼·其一
+
+很好吃喔，怎么，上次我说了自己喜欢的口味，你就记住了？记性还不错啊，下次我也给你做点合你口味的食物吧。你没说过自己喜欢的口味？没关系，我已经知道了，我有自己的方法打听。
+
+### 收到赠礼·其二
+
+谢谢。哦对了，上次我和你说过我最喜欢吃的东西，你还记得么？记得啊，嗯…记性不错，那下次我再说点难记的吧，嘻嘻嘻。
+
+### 收到赠礼·其三
+
+…下次，我还是清楚地把我喜欢的口味告诉你吧。或者，我直接教你做点好吃的。
+
+### 生日…
+
+生日快乐！礼物我就放在那边了，等会你自己拆开来看看吧，大概就是一些小饰品和玩具之类的…哎呀，这个不重要，你现在应该没什么事要忙吧？走走走，去我的「回音室」，我前几天托人从纳塔采购了一台「热舞乐台」，还有其他很多奇奇怪怪但很好玩的乐器，我正准备办一场整个至冬最棒的音乐聚会，猜猜谁第一个被邀请？没错，就是你，来吧，今天我们唱一个通宵！
+
+### 突破的感受·起
+
+咳咳，咳——声音不错。
+
+### 突破的感受·承
+
+好像可以唱得更高了。
+
+### 突破的感受·转
+
+喉咙的状态更好了。
+
+### 突破的感受·合
+
+嗯！该彻夜高歌了！
+
+### 元素战技·其一
+
+仔细聆听。
+
+### 元素战技·其二
+
+先开开嗓吧。
+
+### 元素战技·其三
+
+登台时刻到了。
+
+### 元素战技·其四
+
+这样才痛快——
+
+### 元素战技·其五
+
+嘻，瞧我的鱼尾巴。
+
+### 元素战技·其六
+
+呼啊！
+
+### 元素爆发·其一
+
+这首，是遗尘的挽歌。
+
+### 元素爆发·其二
+
+这首，是旧日的颂曲。
+
+### 元素爆发·其三
+
+所有人，一起高歌吧！
+
+### 打开宝箱·其一
+
+哎呀！这么多亮闪闪的宝贝，快收起来。
+
+### 打开宝箱·其二
+
+看着还行，拿着玩玩倒也不错。
+
+### 打开宝箱·其三
+
+里面装着这些？宝箱？好吧…
+
+### 生命值低·其一
+
+呵呵…呵…
+
+### 生命值低·其二
+
+我玩够了。
+
+### 生命值低·其三
+
+…真是够蠢的。
+
+### 同伴生命值低·其一
+
+喂！干什么呢？！
+
+### 同伴生命值低·其二
+
+过来！别乱跑了！
+
+### 倒下·其一
+
+呵…你们来了…
+
+### 倒下·其二
+
+波涛啊…带我…归乡…
+
+### 倒下·其三
+
+终曲…？也不错…
+
+### 普通受击·其一
+
+脚滑了…
+
+### 普通受击·其二
+
+哼！还没完呢…！
+
+### 重受击·其一
+
+有本事去水里！
+
+### 重受击·其二
+
+陆地真不方便…！
+
+### 加入队伍·其一
+
+我听见你叫我了。
+
+### 加入队伍·其二
+
+来了，有什么事？
+
+### 加入队伍·其三
+
+咳…嗯，嗓子状态不错。

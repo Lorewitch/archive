@@ -14,11 +14,15 @@
 # chapter_num_zh:
 # part_source_ids: 73057
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_73057
-# quest_series:
+# quest_series: Aranyaka || # version_source: wiki_release_category
 # version_source: wiki_release_category
+# game_source_ids: 73057
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_ru: Араньяка
+# quest_series_order: 120
 
 ## RU
 
@@ -26,27 +30,33 @@
 
 Аранакин столько всего забыл после прошлого путешествия. Но как же можно так легко забывать своих друзей, новых и старых?
 
-
 **Паймон:** Ну вот, исчез... Правильно, он ведь не помнит наших приключений.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Не расстраивайся.
 
-- **Путешественник:** Мы можем подружиться снова.
-
-**Паймон:** Да, ты прав(а)... Прав(а)!
+**Паймон:** Да, ты прав... Прав! / Да, ты права... Права!
 
 **Паймон:** Помнишь, в прошлый раз Аранакин научил нас одной мелодии? Давай сыграем, вдруг он нас узнает?
 
-- **Путешественник:** Дело говоришь.
+##### Вариант ответа 1
 
-- **Путешественник:** Хоть одна разумная мысль...
+- **Путешественник:** Дело говоришь.
 
 **Паймон:** Хи-хи, потому что это Паймон!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Хоть одна разумная мысль...
+
 **Паймон:** Эй! Паймон такого не заслужила!
 
+##### Вариант ответа 2
 
-**Аранакин:** Дай мне знать, если обнаружишь что-нибудь интересное!
+- **Путешественник:** Мы можем подружиться снова.
+
+#### Сыграйте мелодию Аранакина
 
 #### Поговорите с Аранакином
 
@@ -58,13 +68,19 @@
 
 **Паймон:** Гм...
 
-- **Путешественник:** Ты сам нас научил.
+##### Вариант ответа 1
 
-- **Путешественник:** Я сыграл(а) её, чтобы увидеться с тобой.
+- **Путешественник:** Ты сам нас научил.
 
 **Паймон:** Да, во время нашего прошлого приключения!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Я сыграл её, чтобы увидеться с тобой. / Я сыграла её, чтобы увидеться с тобой.
+
 **Паймон:** Хи-хи, как тебе исполнение? Путешественник помнит партитуру, которой ты нас научил!
+
+##### Общее продолжение
 
 **Аранакин:** Вот оно что... Гм, Аранакин не очень умён, но вы вроде бы не похожи на «плохих песочников».
 
@@ -74,7 +90,7 @@
 
 **Паймон:** Ха-ха, да! Путешественник, давай расскажем ему о наших приключениях?
 
-*Вы рассказываете Аранакину о ваших приключениях и о том, как обуздали зону Увядания.*
+Вы рассказываете Аранакину о ваших приключениях и о том, как обуздали зону Увядания.
 
 **Аранакин:** Вот оно что...
 
@@ -82,32 +98,37 @@
 
 **Паймон:** Тебе не за что просить прощения! Да, забывать - очень даже нормально! И вообще, мы ведь можем подружиться снова!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Аранакин - умница.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Паймон - умница.
 
 **Паймон:** Хи-хи, само собой!
 
+##### Общее продолжение
+
 **Аранакин:** Ох... Раз мы друзья, следуйте за мной!
 
 **Паймон:** А? Но...
 
-**Аранакин:** Золотой / Золотая нара, белая леталка! Я приглашаю вас в своё жилище! Идём!
+**Аранакин:** Золотой нара, белая леталка! Я приглашаю вас в своё жилище! Идём! / Золотая нара, белая леталка! Я приглашаю вас в своё жилище! Идём!
+
+#### Доберитесь до Аранакина
 
 #### Следуйте за Аранакином
+
+#### Поговорите с Аранакином
 
 **Аранакин:** Пришли, вот оно!
 
 **Аранакин:** Здесь я и живу, располагайтесь!
 
-
-**Аранакин:** Спасибо, нара Путешественник и белая леталка! Я пойду к Аранаге, сможете найти меня там!
-
-
 **Аранакин:** Это инструмент, на котором играют нары, Аранакин всё это время хранил его. Наверное, он уже разучился петь... Все струны расстроены.
 
-**Аранакин:** (Старинный уд, кое-где на нём виднеются аккуратно залатанные трещины, видно, что инструмент хранили очень бережно)
-
+**Старинный уд:** (Старинный уд, кое-где на нём виднеются аккуратно залатанные трещины, видно, что инструмент хранили очень бережно)
 
 **Аранакин:** Тоже утварь нар... Как она называется? Аранакину не нужен сон, поэтому я не знаю...
 
@@ -115,11 +136,15 @@
 
 **Аранакин:** Хи-хи, Аранакин за ней ухаживал... Если хотите, ложитесь, вам можно!
 
+#### Исследуйте домик на дереве
+
 #### Поговорите с Аранакином
 
 **Аранакин:** А наверху есть ещё листы, которые оставили нары, но... Я не понимаю, не могу прочесть...
 
 **Аранакин:** Там... Листы, на которых нары оставляли свою память. Нары покрывали листы записями, а потом собирали их вместе. Но Аранакин не понимает письмена нар...
+
+**Паймон:** Ты про... «Записную книжку»?
 
 **Аранакин:** «Записная книжка»?.. Книга, куда нары записывают свою память?
 
@@ -127,9 +152,9 @@
 
 **Аранакин:** Я? Не возражаю!
 
-**Паймон:** Ты про... «Записную книжку»?
-
 #### Прочитайте записи на втором этаже домика на дереве
+
+**Аранакин:** Дай мне знать, если обнаружишь что-нибудь интересное!
 
 **Старинный блокнот:** «...Я починил уд, который сломал дядя Бакр, так что перестань уже плакать, ладно? Если тебе грустно, поговори со мной и Хайямом...»
 
@@ -155,7 +180,7 @@
 
 **Аранакин:** Что там написано? О чём вы читаете?
 
-Судя по всему, хозяин этой записной книжки был с тобой знаком.
+- **Путешественник:** Судя по всему, хозяин этой записной книжки был с тобой знаком.
 
 **Аранакин:** Вот оно что... Я ничего не помню...
 
@@ -165,7 +190,7 @@
 
 **Паймон:** Да, а ещё он пишет... Что дарит этот цветок тебе!
 
-Вот.
+- **Путешественник:** Вот.
 
 **Аранакин:** А?.. Ничего себе! Это же очень важный цветок! Откуда ты... Откуда он у него?
 
@@ -183,33 +208,41 @@
 
 **Паймон:** Да, обязательно!
 
+**Аранакин:** Спасибо, нара Путешественник и белая леталка! Я пойду к Аранаге, сможете найти меня там!
+
 ## EN
 
 ### Aranakin's Old Friend
 
 After that last adventure, Aranakin really forgot a lot of things. No matter what, how could the new and old friends he made be forgotten so easily?
 
-
 **Paimon:** Ah, he's gone... But Paimon understands, he's forgotten our adventures together, after all.
 
-- **Traveler:** Don't lose heart now.
+##### Response branch 1
 
-- **Traveler:** We can be friends all over again.
+- **Traveler:** Don't lose heart now.
 
 **Paimon:** Yes, you're right... Oh, Paimon has an idea!
 
 **Paimon:** Aranakin taught us a song, right? Let's play it, and maybe he would recognize it!
 
-- **Traveler:** That's a valid idea.
+##### Response branch 1
 
-- **Traveler:** That's finally some helpful advice...
+- **Traveler:** That's a valid idea.
 
 **Paimon:** Hee-hee, because Paimon is Paimon!
 
+##### Response branch 2
+
+- **Traveler:** That's finally some helpful advice...
+
 **Paimon:** Hey! Stop being so mean to Paimon!
 
+##### Response branch 2
 
-**Aranakin:** Let me know if you find anything interesting!
+- **Traveler:** We can be friends all over again.
+
+#### Play Aranakin's song
 
 #### Talk to Aranakin
 
@@ -221,13 +254,19 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Paimon:** Well...
 
-- **Traveler:** You taught us.
+##### Response branch 1
 
-- **Traveler:** I played this song, so that I could meet you.
+- **Traveler:** You taught us.
 
 **Paimon:** Yes, during our last adventure, you taught the song to us!
 
+##### Response branch 2
+
+- **Traveler:** I played this song, so that I could meet you.
+
 **Paimon:** Hehe, how did Traveler do? See? We still remember the melody you taught us!
+
+##### Shared continuation
 
 **Aranakin:** Is that... so? Hmph, Aranakin is not clever, but you don't look like those bad sand grains.
 
@@ -237,7 +276,7 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Paimon:** Haha, that's right! Traveler, let's tell the stories to him again!
 
-*You recount the adventures to Aranakin, as well as how you neutralized The Withering together.*
+You recount the adventures to Aranakin, as well as how you neutralized The Withering together.
 
 **Aranakin:** ...I see.
 
@@ -245,11 +284,17 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Paimon:** No, no need for that! Y'know, it's pretty normal to forget things... Besides, we can become friends again, right?
 
+##### Response branch 1
+
 - **Traveler:** Aranakin is a good kid.
+
+##### Response branch 2
 
 - **Traveler:** Paimon is a good kid.
 
 **Paimon:** Hehe, that's for sure!
+
+##### Shared continuation
 
 **Aranakin:** Ah... Since we're good friends, follow me then!
 
@@ -257,20 +302,19 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Aranakin:** Golden Nara and White Floaty! Come to my place, follow me!
 
+#### Get close to Aranakin
+
 #### Follow Aranakin
+
+#### Talk to Aranakin
 
 **Aranakin:** We're here! Here it is!
 
 **Aranakin:** This is my place, please rest here!
 
-
-**Aranakin:** Thank you, Nara Traveler and White Floaty! I'm going back to where Aranaga is. You can find me there!
-
-
 **Aranakin:** This is Nara instrument, Aranakin is keeping it. But it can't sing now... The strings are not in the right place.
 
-**Aranakin:** (An antiquated oud, marked with multiple breaking scars, but seeming to be carefully-repaired and well-maintained.)
-
+**Old Oud:** (An antiquated oud, marked with multiple breaking scars, but seeming to be carefully-repaired and well-maintained.)
 
 **Aranakin:** Nara... Hm, what's the name? Aranakin doesn't sleep with that, so forget the word...
 
@@ -278,11 +322,15 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Aranakin:** Hehe, Aranakin keeps tidying it... If you want to sleep here, that's okay!
 
+#### Investigate the tree house
+
 #### Talk to Aranakin
 
 **Aranakin:** There are leaves Nara left upstairs, but... Aranakin can't read them, Aranakin doesn't understand...
 
 **Aranakin:** Those are the leaves Nara use to keep memories... Nara write on the leaves, and put them together. But the words of Nara, Aranakin doesn't understand.
+
+**Paimon:** Do you mean... "notebook"?
 
 **Aranakin:** "Notebook"...? That's how Nara keep their memories?
 
@@ -290,9 +338,9 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Aranakin:** Me? Not at all!
 
-**Paimon:** Do you mean... "notebook"?
-
 #### Read the notebook on the second floor of the tree house
+
+**Aranakin:** Let me know if you find anything interesting!
 
 **Battered Notebook:** "...I've repaired the oud Uncle Bakr dropped, so stop crying by yourself, alright? You can talk to Khayyam and me if you're unhappy..."
 
@@ -318,7 +366,7 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Aranakin:** What memories is it keeping? What did you see?
 
-It seems that the owner of the notebook knows you.
+- **Traveler:** It seems that the owner of the notebook knows you.
 
 **Aranakin:** Is that so...? I can't remember...
 
@@ -328,7 +376,7 @@ It seems that the owner of the notebook knows you.
 
 **Paimon:** Oh right! He also said in the notebook that... This flower is for you!
 
-Here.
+- **Traveler:** Here.
 
 **Aranakin:** Huh...? Ahh! This flower is very important! Why do you... how did he get it?
 
@@ -346,33 +394,41 @@ Here.
 
 **Paimon:** Yes, see you soon!
 
+**Aranakin:** Thank you, Nara Traveler and White Floaty! I'm going back to where Aranaga is. You can find me there!
+
 ## ZH
 
 ### 兰纳真的老友
 
 在上次冒险结束后，兰纳真忘记了许多事情。但不管怎样，曾结识的新朋与旧友何尝那么容易忘怀呢？
 
-
 **派蒙:** 唔，不见了…也是呢，他不记得我们曾经一起冒险了呀。
 
-- **旅行者:** 不要灰心。
+##### 对话分支 1
 
-- **旅行者:** 我们还可以重新交朋友的。
+- **旅行者:** 不要灰心。
 
 **派蒙:** 嗯，你说得对…唔，对哦！
 
 **派蒙:** 上次兰纳真不是教给过我们一首曲子吗！我们弹奏一下，说不定他能认出来呢！
 
-- **旅行者:** 你说的很有道理。
+##### 对话分支 1
 
-- **旅行者:** 难得有用的提议呢…
+- **旅行者:** 你说的很有道理。
 
 **派蒙:** 嘿嘿，因为我是派蒙！
 
+##### 对话分支 2
+
+- **旅行者:** 难得有用的提议呢…
+
 **派蒙:** 你也太欺负人啦！
 
+##### 对话分支 2
 
-**兰纳真:** 发现什么有意思的东西，就跟我说吧！
+- **旅行者:** 我们还可以重新交朋友的。
+
+#### 弹奏兰纳真的曲调
 
 #### 和兰纳真对话
 
@@ -384,13 +440,19 @@ Here.
 
 **派蒙:** 这个嘛…
 
-- **旅行者:** 是你教给我们的。
+##### 对话分支 1
 
-- **旅行者:** 为了见到你，我专门弹了这首曲子。
+- **旅行者:** 是你教给我们的。
 
 **派蒙:** 对呀，这首曲子是我们上一次在一起冒险时，你教给我们的呀！
 
+##### 对话分支 2
+
+- **旅行者:** 为了见到你，我专门弹了这首曲子。
+
 **派蒙:** 嘿嘿，旅行者弹得怎么样？我们还记得你教的曲谱哦！
+
+##### 共同后续
 
 **兰纳真:** 这样…吗？哼，兰纳真不聪明，但你们看起来不像「沙子」。
 
@@ -400,7 +462,7 @@ Here.
 
 **派蒙:** 哈哈，对呀！旅行者，我们把之前的故事再给他讲一遍吧！
 
-*你们为兰纳真复述了一同冒险，最终平息「死域」的经历。*
+你们为兰纳真复述了一同冒险，最终平息「死域」的经历。
 
 **兰纳真:** …这样啊。
 
@@ -408,11 +470,17 @@ Here.
 
 **派蒙:** 没有必要对不起呀！唔，记不得事情很正常啦…况且，我们还可以重新交朋友呀？
 
+##### 对话分支 1
+
 - **旅行者:** 兰纳真是个好孩子呢。
+
+##### 对话分支 2
 
 - **旅行者:** 派蒙是个好孩子。
 
 **派蒙:** 嘿嘿，那还用说！
+
+##### 共同后续
 
 **兰纳真:** 唔…既然是好伙伴，那就请跟我来吧！
 
@@ -420,20 +488,19 @@ Here.
 
 **兰纳真:** 金色的那菈，白色的飞飞！来我的住处吧，跟我来！
 
+#### 到达兰纳真身旁
+
 #### 跟随兰纳真
+
+#### 和兰纳真对话
 
 **兰纳真:** 我们到啦！这里就是啦！
 
 **兰纳真:** 这里是我的住处，请在这里休息吧！
 
-
-**兰纳真:** 谢谢那菈旅行者和白飞飞！我要去兰纳迦那边啦，请去那边找我吧！
-
-
 **兰纳真:** 这是那菈的琴，兰纳真一直留着。但它应该唱不出歌来了…上面的弦已经走调了。
 
-**兰纳真:** （一柄古旧的乌德琴，其上有几处断裂的痕迹，但看起来被修补和保存得很妥善。）
-
+**古旧的乌德琴:** （一柄古旧的乌德琴，其上有几处断裂的痕迹，但看起来被修补和保存得很妥善。）
 
 **兰纳真:** 那菈的…嗯，那个叫什么？兰纳真不需要这个睡觉，所以不知道这个词…
 
@@ -441,11 +508,15 @@ Here.
 
 **兰纳真:** 嘿嘿，兰纳真一直在整理…你们想要在这里睡觉，也是可以的哦！
 
+#### 调查树屋
+
 #### 和兰纳真对话
 
 **兰纳真:** 楼上还有那菈留下的叶子，但是…我看不懂，看不明白…
 
 **兰纳真:** 那个是…那菈用来留下记忆的叶子，在这样的叶子上面写下文字，收拢在一起。但那菈的文字，兰纳真不明白。
+
+**派蒙:** 你是不是说…「记事本」呀？
 
 **兰纳真:** 「记事本」…？那就是那菈用来留下记忆的东西吗？
 
@@ -453,9 +524,9 @@ Here.
 
 **兰纳真:** 我吗？不介意的！
 
-**派蒙:** 你是不是说…「记事本」呀？
-
 #### 阅读树屋二楼的笔记
+
+**兰纳真:** 发现什么有意思的东西，就跟我说吧！
 
 **古旧的记事本:** 「…修好了被巴克尔伯伯摔坏的乌德琴，请不要自己一个人哭了，好吗？不开心的话，就同我和海亚姆讲吧…」
 
@@ -481,7 +552,7 @@ Here.
 
 **兰纳真:** 里面有什么样的记忆呢？你们看到什么了吗？
 
-记事本的主人似乎认识你。
+- **旅行者:** 记事本的主人似乎认识你。
 
 **兰纳真:** 这样吗…我不记得了呀…
 
@@ -491,7 +562,7 @@ Here.
 
 **派蒙:** 对了，他还在记事本里说…这朵花留给你！
 
-在这里。
+- **旅行者:** 在这里。
 
 **兰纳真:** 咦…？呀！这是很重要的花！你怎么会…他怎么会有的？
 
@@ -508,3 +579,5 @@ Here.
 **兰纳真:** 唔…那菈旅行者和白飞飞，我要回兰纳迦那边了，把她种下，听她的歌。如果你们有空的话，也请来吧！
 
 **派蒙:** 嗯嗯，一定！
+
+**兰纳真:** 谢谢那菈旅行者和白飞飞！我要去兰纳迦那边啦，请去那边找我吧！

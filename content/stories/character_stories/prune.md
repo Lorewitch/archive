@@ -532,3 +532,979 @@ As she continued to mutter to herself, an almost imperceptible smile appeared on
 经过了短暂的错愕后，猎人的理智占据了上风。无论如何，这是一枚真实不虚的神之眼，是力量的凭证。
 学会接受意料之外亦是成长的一环。布伦妮迅速收拾好心情，默默将这枚神之眼擦拭干净。「无所谓，大不了再把风元素的章节重学一遍就是了。」毕竟，强者从不抱怨现状，哪怕只是一阵微风，她也要用它吹散魔女的陷阱。
 她小声嘟囔着，嘴角却不经意间扬起了一丝连自己都没察觉的弧度。
+
+# voice_source_ids: 132000,132001,132002,132003,132004,132005,132006,132007,132008,132009,132010,132011,132012,132013,132014,132015,132016,132017,132018,132019,132020,132021,132022,132023,132024,132025,132026,132027,132028,132029,132030,132031,132032,132033,132034,132035,132036,132037,132038,132039,132040,132041,132042,132043,132044,132045,132046,132047,132048,132049,132050,132051,132052,132053,132054,132055,132056,132057,132058,132059,132060,132061,132062,132063,132064,132065,132066,132067,132068,132069,132070,132071,132072,132073,132074,132075,132076,132077,132078
+
+## REPLICAS_RU
+
+### Привет...
+
+Здравствуйте! Прюн, охотница на ведьм, к вашим услугам. Мой враг? Та, что наслаждается тем, что дразнит детей, использует чужих воображаемых друзей как приманку, обожает эффектные выходки и не расстаётся со своей нелепой шляпой. Разумеется, я говорю о самой зловещей ведьме из всех! Любая информация о её местонахождении будет крайне полезна.
+
+### Поболтаем: Объявление войны
+
+Прячься, прячься, Алиса! Рано или поздно я тебя найду!
+
+### Поболтаем: Ясность сознания
+
+Остерегайся тех, кто ходит с насмешливой улыбкой и называет всё вокруг «ужасно интересным». Обычно это суперзлодеи, которым нравится сеять хаос.
+
+### Поболтаем: Интересный факт
+
+Знаешь, что нельзя дышать, пока глотаешь? Не веришь? Хм, попробуй.
+
+### Когда идёт дождь...
+
+Увы, на жизненном пути солнце не всегда светит. Как и в пьесе, найдутся страницы, пропитанные слезами.
+
+### Когда гремит гром...
+
+Дрожь - это нормальная реакция на внезапный звук. Это не страх.
+
+### Когда идёт снег...
+
+Мне не холодно. Куртка не нужна.
+
+### Когда светит солнце...
+
+Солнечный свет ничего не стоит. Но сколько людей по-настоящему ценят его тепло?
+
+### В пустыне...
+
+Дни, пылающие жаром, и ночи, пронизывающие холодом... вот что такое пустыня.
+
+### Доброе утро...
+
+Моя сила воли сейчас ведёт ожесточённый спор с кроватью... но я не проиграю. Вставай!
+
+### Добрый день...
+
+Нужно жить настоящим, но думать о будущем. Поэтому уже за обедом стоит решить, что есть на ужин.
+
+### Добрый вечер...
+
+В это время в Мондштадте довольно оживлённо. В Нод-Крае родители не позволяли мне выходить по вечерам - слишком опасно. Поэтому я обычно сидела в комнате и читала.
+
+### Спокойной ночи...
+
+Завтра... может, отправимся в приключение вместе? Или... по отдельности, если тебе так удобнее. Ну... спокойной ночи.
+
+### О Прюн: Личность
+
+Каждый раз, когда я говорю, что я «охотница на ведьм», меня принимают за ребёнка, переживающего бунтарский период и несущего чепуху. Постой... Почему ты так смотришь?
+
+### О Прюн: Чтение
+
+Взрослым не хватает терпения. Спросишь - а в ответ: «Это не для детей» или «Поймёшь, когда вырастешь». Пф. Книги не лгут. Знания там открыты для всех, и каждый сам делает выводы. Так что я предпочитаю находить ответы сама.
+
+### О нас: Время
+
+Если подумать, ты прибыл в Нод-Край вскоре после того, как я уехала из Нашгорода. Жаль... Хотя, возможно, всё к лучшему. Тогда ты был в центре событий, среди важных и известных людей... я бы там точно не вписалась. Кхм. В общем, я не люблю толпы. Так что, пожалуй, мы встретились в идеальное время. / Если подумать, ты прибыла в Нод-Край вскоре после того, как я уехала из Нашгорода. Жаль... Хотя, возможно, всё к лучшему. Тогда ты была в центре событий, среди важных и известных людей... я бы там точно не вписалась. Кхм. В общем, я не люблю толпы. Так что, пожалуй, мы встретились в идеальное время.
+
+### О нас: Убеждения
+
+Хотя я редко говорю об этом... но на самом деле я рада, что ты рядом. Ты не смотришь на меня как на ребёнка, всегда выслушиваешь и отвечаешь на мои вопросы...
+Я знаю, что ты дружишь с ведьмами. Но у меня нет этих устаревших взглядов вроде «враг моего врага - мой друг». Дружба - это искренность, а не статус или выбор стороны в противостоянии. А ты как думаешь?
+
+### Глаз Бога...
+
+У всех сильнейших воинов, кого я встречала, был Глаз Бога. Теперь он есть и у меня... Хм. Но ты управляешь элементами без него, как будто это естественно. Значит, ты сильнее всех. В каждом правиле бывает исключение.
+
+### Давай поделимся...
+
+Во «Флагмане» есть особый коктейль: перед тем как пить, нужно крутить барабан. Говорят, это добавляет азарта. Какой он на вкус? Кхм, не знаю. Каждый раз, когда я тянусь до стойки, бармен спокойно указывает на дверь и говорит: «Детям сюда нельзя. Хочешь хот-дог - иди в "Сперанцу"...»
+Как обидно, это настоящая дискриминация по возрасту!
+
+### Интересные вещи...
+
+Ты знал, что на пристани Илун есть огромный подъёмник? Хм? Ах да, в порту. И ещё, если окажешься в Сумеру, обязательно посмотри на милых существ в лесу. Дети называют их раранарами. Что? Ну конечно, я знаю, что это аранары! В любом случае... а ты был в Снежной? Ха! Кхм, я была. Даже фотографировала. Покажу тебе как-нибудь. / Ты знала, что на пристани Илун есть огромный подъёмник? Хм? Ах да, в порту. И ещё, если окажешься в Сумеру, обязательно посмотри на милых существ в лесу. Дети называют их раранарами. Что? Ну конечно, я знаю, что это аранары! В любом случае... а ты была в Снежной? Ха! Кхм, я была. Даже фотографировала. Покажу тебе как-нибудь.
+
+### Об Алисе: Ведьма
+
+Я не пытаюсь поссорить вас, но ради честности обязана рассказать о её злодеяниях. Эта ведьма постоянно дразнит меня загадками, которые даже слайм разгадал бы, и втягивает в бессмысленные споры - только чтобы проиграть! А потом она как-то, разозлившись, проявила свою злую натуру, заявила, что похитила Декарта и велела мне ехать в Мондштадт за уликами! Ты можешь в это поверить?! Представь: победил бы ты её в «Священном призыве семерых», а она в ответ похищает Паймон! Ты бы тоже тогда стал охотником на ведьм. / Я не пытаюсь поссорить вас, но ради честности обязана рассказать о её злодеяниях. Эта ведьма постоянно дразнит меня загадками, которые даже слайм разгадал бы, и втягивает в бессмысленные споры - только чтобы проиграть! А потом она как-то, разозлившись, проявила свою злую натуру, заявила, что похитила Декарта и велела мне ехать в Мондштадт за уликами! Ты можешь в это поверить?! Представь: победила бы ты её в «Священном призыве семерых», а она в ответ похищает Паймон! Ты бы тоже тогда стала охотницей на ведьм.
+
+### Об Алисе: Психологическая война
+
+Сначала я думала: почему Мондштадт? Почему не более опасное место? А потом поняла - это психологическая война. В опасной среде инстинкты обостряются. А Мондштадт - это ленивые пьяницы и романтические стихи. Она надеялась, что атмосфера «свободы» превратит меня в бесполезного человека, который только и делает, что пьёт чай и гладит кошек!
+
+### Об Алисе: Никогда не прощу
+
+После того как я снова встретила Декарта, я поняла, что за всем этим стояли... добрые намерения. Но это не оправдывает сам поступок! Ты видел, как ей нравилось меня доводить? Каждый раз, когда я теряла терпение, она смеялась, будто это самое смешное на свете! Это и есть доказательство её злой натуры. Так что нет - я её не прощу. Никогда. / После того как я снова встретила Декарта, я поняла, что за всем этим стояли... добрые намерения. Но это не оправдывает сам поступок! Ты видела, как ей нравилось меня доводить? Каждый раз, когда я теряла терпение, она смеялась, будто это самое смешное на свете! Это и есть доказательство её злой натуры. Так что нет - я её не прощу. Никогда.
+
+### О Кли...
+
+Признаю, сначала я сблизилась с ней, чтобы выведать информацию. Она ведь дочь Алисы. Наверняка знает секреты ведьм. Но я не ожидала, что Кли окажется такой открытой и будет всё время звать меня поиграть. Однажды она сказала, что хочет подарить мне подарок... и, глядя в её сияющие глаза, я вдруг... почувствовала, что...
+Ладно, ладно, я не поддалась. Просто решила, что если иногда играть с ней, это не помешает моим планам. Да, именно так.
+
+### О Саю...
+
+В её возрасте «спать, когда есть возможность» - вполне разумная стратегия. Достаточно взглянуть на взрослых, погрязших в работе и тревогах: большинству из них приходится прибегать к алкоголю или алхимии, чтобы хоть немного поспать. Рано или поздно и у неё появятся причины не спать по ночам... так что пусть отдыхает, пока может.
+
+### О Яо Яо...
+
+Яо Яо очень ловкая. Она уже не раз помогала мне завязывать ленту в волосах. У неё получается идеально - куда лучше, чем у меня. Бантик выходит настолько аккуратным, что мне даже жалко его развязывать перед сном... но утром он почему-то всё равно оказывается растрёпанным.
+
+### О Ци Ци...
+
+Я купила ей много молока с данго. Она говорила на чаепитии ведьмочек, что очень его любит. Хм? Слишком много для одного человека? Это потому, что была акция «купи одно - второе бесплатно». К тому же я хотела привезти что-нибудь в Мондштадт... ну, для Кли. Да, именно для Кли. Я же предпочитаю чай. Без сахара.
+
+### О Паймон...
+
+Слушай, можно спросить? Как Паймон вообще поступила в Академию Сумеру? Экзамены сложные? Как думаешь, она согласится поделиться материалами? Подожди... У неё ещё и индивидуальные занятия с известным преподавателем? Я тоже так хочу!
+
+### Об Альбедо...
+
+Я хочу тебе кое-что сказать, но пообещай никому не рассказывать. Мне начинает казаться, что господин Альбедо... не человек. Серьёзно, разве такие идеальные люди вообще существуют?
+
+### О Кэйе...
+
+Когда он выслушал мой план, то предложил модернизировать Декарта до тяжёлой кавалерийской единицы и сразу выдал мне «специальную лицензию на верховую езду»... Но я даже не успела прочитать условия, как магистр Джинн её конфисковала, заявив, что она выдана незаконно. Мол, «несовершеннолетним водить запрещено»... Хм.
+
+### О Моне...
+
+Однажды я приняла её за ведьму B. и... слегка доставила ей неудобств. Но это всё из-за Алисы! Она сказала, что имя ведьмы B. - «Мегистус», и специально не упомянула «Трис», чтобы меня запутать! И вообще, с такой остроконечной шляпой Мона выглядит как самая настоящая ведьма... Впрочем, она приняла мои извинения, так что всё улажено.
+
+### О Лизе...
+
+Хм, ещё одна дама в остроконечной шляпе - и потенциальная цель. К тому же её называют «Пурпурной ведьмой». Но чем очевиднее что-то кажется, тем осторожнее нужно действовать... Хотя, когда она с этой улыбкой называет меня «маленькой Прюн», мои инстинкты охотника буквально сходят с ума. Даже если она не ведьма, лучше не становиться её врагом.
+
+### О Фишль...
+
+Многие считают, что она витает в фантазиях, но я думаю, что она одна из немногих, кто действительно ясно видит происходящее в Мондштадте. Её витиеватая речь - это оружие против жестокого мира. Понимаю ли я её? Конечно нет. Но это не мешает мне её уважать.
+
+### Об Айно...
+
+Я три дня училась у неё в мастерской - с самых основ, вроде закручивания винтиков. Она даже помогла мне переделать тот детский молоток и колокольчик, которые я выиграла у Алисы: теперь у них более серьёзный, промышленный вид, и уровень устрашающего эффекта вырос процентов на тридцать.
+
+### О Дори...
+
+Я добралась до Мондштадта с её грузовым караваном, проехав несколько стран. У неё есть и более быстрый и комфортный сервис сопровождения пассажиров, но цены там... запредельные. Ох уж эти торгаши!
+Странно другое: если прибыль - главный принцип, то при нападении должны защищать самый ценный груз. Но их глава крикнул: «Защищайте ребёнка! Приказ хозяйки - чтоб ни волоска не упало!» Это нелогично... я ведь заплатила совсем немного. Значит, в её расчётах есть что-то важнее моры.
+
+### Узнать больше о Прюн I
+
+Дай угадаю: хочешь спросить, где я живу, кто мои родители, где они, почему я одна так далеко от дома и скучаю ли я... Все взрослые задают одни и те же вопросы. Ладно, я могу повторить. Что? Это не то, что ты хотел узнать? Тогда... дай мне минутку подумать. / Дай угадаю: хочешь спросить, где я живу, кто мои родители, где они, почему я одна так далеко от дома и скучаю ли я... Все взрослые задают одни и те же вопросы. Ладно, я могу повторить. Что? Это не то, что ты хотела узнать? Тогда... дай мне минутку подумать.
+
+### Узнать больше о Прюн II
+
+Декарт - мой воображаемый друг. Он появился, когда мне было четыре или пять лет. Родители тогда постоянно работали, и мне было одиноко. Я представила себе умную говорящую собаку... и она появилась. Его вижу только я, но он всегда рядом. Это единственный друг, на которого я могу полностью положиться.
+
+### Узнать больше о Прюн III
+
+«Воображаемый» не значит «ненастоящий». Для меня Декарт абсолютно реален. Мы давно отказались от общения вслух, это слишком неэффективно. Ему достаточно одного взгляда или вздоха, чтобы указать на ошибку в моих рассуждениях. Мы общаемся на уровне души, а для этого нужно особое взаимопонимание. Так что мне и не нужны другие друзья.
+
+### Узнать больше о Прюн IV
+
+Ладно, признаю: Маленький ведьмин шабаш меня изменил. Вот что значит быть нужной и важной для кого-то. В Нод-Крае я всегда была как бы со стороны, а здесь я - часть команды. Это... приятно. Очень приятно. Если кто-то попытается навредить шабашу, ему придётся иметь дело со мной. Доволен? Я уже сказала слишком много - только никому не говори... особенно Кли и другим девочкам. / Ладно, признаю: Маленький ведьмин шабаш меня изменил. Вот что значит быть нужной и важной для кого-то. В Нод-Крае я всегда была как бы со стороны, а здесь я - часть команды. Это... приятно. Очень приятно. Если кто-то попытается навредить шабашу, ему придётся иметь дело со мной. Довольна? Я уже сказала слишком много - только никому не говори... особенно Кли и другим девочкам.
+
+### Узнать больше о Прюн V
+
+Когда Маленький ведьмин шабаш станет сильнее, мы перепишем правила мира ведьм. Никаких насмешек над воображаемыми друзьями, никаких «испытаний» в виде розыгрышей, никаких психологических игр с детьми. Мы создадим новый порядок - справедливый, добрый и дружелюбный. Поколение Алисы слишком своевольно. Пора уступить место нам. Что, смешно? Посмотрим, кто будет смеяться, когда мы станем сильнейшей организацией в Тейвате.
+
+### Хобби Прюн...
+
+Хотя моему экземпляру «Руководства Спантамада по элементальной энергии» уже восемьдесят лет, описанные в нём основные теоретические выкладки всё ещё верны. Я сделала пометки, исправила устаревшую информацию и добавила свои тактические выводы. Хе-хе, Алиса даже не догадывается, что её подарок однажды обернётся против неё.
+
+### Беспокойство Прюн...
+
+Эта прядь снова торчит! Каждое утро с ней борьба. Сколько ни приглаживай, она снова поднимается... Будто издевается надо мной.
+
+### Любимая еда...
+
+Сахарные фигурки со вкусом барбекю, кислый рыбный стейк горячего копчения, картофельные оладьи со вкусом тофу... Чем страннее сочетание, тем интереснее попробовать. Даже если звучит сомнительно, достаточно одного укуса, чтобы втянуться.
+
+### Нелюбимая еда...
+
+Хот-доги из «Сперанцы». Дело не во вкусе, а в принципе. Не спорю, пахнут они вкусно... но всё равно ненавижу их!
+
+### Подарок I
+
+Я всегда думала, что фотографии в «Энциклопедии блюд» приукрашены, но твоё угощение действительно как с картинки!
+
+### Подарок II
+
+Хм... Вполне неплохо, но может быть и лучше.
+
+### Подарок III
+
+Быстро говори, тебя что, ведьма прокляла?
+
+### День рождения...
+
+С днём рождения! Не стоит так удивляться. Такие данные, как «дата рождения», раздобыть несложно. Но вот самое важное - твоё «желание на день рождения» - я пока ещё не выяснила...
+Считаешь, если сказать вслух, желание не сбудется? Я не согласна. Так те, кто хочет помочь тебе его исполнить... например, я, не будут знать, что нужно делать. Так что давай, хватит ходить вокруг да около. Чего ты хочешь? Не стоит меня недооценивать. У меня накопилось немало карманных денег, да и ты сам часто говоришь, что я много знаю. Вдруг я и правда смогу помочь!
+Но... ты ведь не загадаешь что-нибудь совсем запредельное? Вроде «купить дом в самом центре Мондштадта без ипотеки»? / С днём рождения! Не стоит так удивляться. Такие данные, как «дата рождения», раздобыть несложно. Но вот самое важное - твоё «желание на день рождения» - я пока ещё не выяснила...
+Считаешь, если сказать вслух, желание не сбудется? Я не согласна. Так те, кто хочет помочь тебе его исполнить... например, я, не будут знать, что нужно делать. Так что давай, хватит ходить вокруг да около. Чего ты хочешь? Не стоит меня недооценивать. У меня накопилось немало карманных денег, да и ты сама часто говоришь, что я много знаю. Вдруг я и правда смогу помочь!
+Но... ты ведь не загадаешь что-нибудь совсем запредельное? Вроде «купить дом в самом центре Мондштадта без ипотеки»?
+
+### Чувство возвышения: Начало
+
+Хм, элементальные реакции стали более стабильными. Значит, это работает не только в теории.
+
+### Чувство возвышения: Нарастание
+
+Об этом не было написано ни в одной книге... но я обязательно запомню.
+
+### Чувство возвышения: Кульминация
+
+Оказывается, для ясности ума не обязательно отказываться от фантазий. Думаю, я смогу сохранить и то и другое.
+
+### Чувство возвышения: Окончание
+
+Я по-прежнему не верю в выдуманные сказки и не особо доверяю этому миру. Но я верю в тебя и хочу, чтобы ты тоже верил в меня. Пусть ты считаешь меня ребёнком, но, по крайней мере я уже достаточно взрослая, чтобы на меня можно было положиться. / Я по-прежнему не верю в выдуманные сказки и не особо доверяю этому миру. Но я верю в тебя и хочу, чтобы ты тоже верила в меня. Пусть ты считаешь меня ребёнком, но, по крайней мере я уже достаточно взрослая, чтобы на меня можно было положиться.
+
+### Элементальный навык I
+
+Попала!
+
+### Элементальный навык II
+
+Стоять!
+
+### Элементальный навык III
+
+Убегаешь?
+
+### Элементальный навык IV
+
+Получай!
+
+### Элементальный навык V
+
+Мой черёд!
+
+### Элементальный навык VI
+
+Бежать некуда!
+
+### Взрыв стихии I
+
+Тебе конец.
+
+### Взрыв стихии II
+
+Цзынь-цзынь!
+
+### Взрыв стихии III
+
+Суперудар!
+
+### Открытие сундука I
+
+Сундуки нравятся всем независимо от возраста. Не только мне.
+
+### Открытие сундука II
+
+Хм, всего лишь игра в поиски сокровищ.
+
+### Открытие сундука III
+
+Эй-эй! Смотри... Вот ещё тут!
+
+### Низкий уровень HP I
+
+Пора изменить ход боя!
+
+### Низкий уровень HP II
+
+Найди себе противника по силам!
+
+### Низкий уровень HP III
+
+Я не сдамся.
+
+### Низкий уровень HP компаньона I
+
+Я могу помочь!
+
+### Низкий уровень HP компаньона II
+
+Это тактическое отступление.
+
+### Без сознания I
+
+Декарт, беги...
+
+### Без сознания II
+
+Я ещё вернусь.
+
+### Без сознания III
+
+Нечестно...
+
+### Получен лёгкий удар I
+
+Не больно.
+
+### Получен лёгкий удар II
+
+Продолжай.
+
+### Получен тяжёлый удар I
+
+Ой!
+
+### Получен тяжёлый удар II
+
+Довольно!
+
+### Присоединяется к группе I
+
+Готова выйти на охоту.
+
+### Присоединяется к группе II
+
+Предупреждаю: я не играю в дочки-матери.
+
+### Присоединяется к группе III
+
+Всё, выдвигаемся!
+
+## REPLICAS_EN
+
+### Hello
+
+Hello. Prune the Witch Hunter at your service. My enemy? Someone who takes pleasure in teasing children, uses other people's imaginary friends to ensnare them in her schemes. Someone who's a complete show-off, way too dramatic, and obsessed with wearing a hollowed-out hat. I'm referring, of course, to the wickedest witch of them all! Any relevant intel on her whereabouts is more than welcome.
+
+### Chat: Declaration of War
+
+Just you wait, Alice! You can hide as long as you want, but I'll find you sooner or later!
+
+### Chat: In the Know
+
+Be careful of people who go about life with a smirk on their face, acting like everything is "oh so interesting." They're usually super villains who are just out to create chaos.
+
+### Chat: Trivia
+
+Did you know you can't breathe while swallowing? Don't believe me? Hmph, you'll just have to try it then.
+
+### When It Rains
+
+Alas, on the journey of life, the sun cannot always shine. Just like the script of a play, there's bound to be a few pages stained with tears.
+
+### When Thunder Strikes
+
+Shaking is a normal physiological response to sudden noises. It has nothing to do with being afraid.
+
+### When It Snows
+
+I'm not cold. I don't need a coat.
+
+### When the Sun Is Out
+
+Sunshine doesn't cost a thing, yet how many people can claim to truly appreciate its warmth?
+
+### In the Desert
+
+Days that burn with fiery passion, nights that bite with a ruthless chill... That is the desert.
+
+### Good Morning
+
+My willpower's locked in a heated debate with my bed, and I'm not gonna lose... C'mon, gotta get up!
+
+### Good Afternoon
+
+While it's good to focus on the present, it's also important to think ahead. That's why lunch is the perfect time to think about what to have for dinner.
+
+### Good Evening
+
+Mondstadt's pretty lively this late. Back in Nod-Krai, my parents never let me go out at night because it was too dangerous. So I was always holed up in my room reading instead.
+
+### Good Night
+
+Should we... go adventuring together tomorrow? O—Or separately, whatever works. Well, um... Good night.
+
+### About Prune: Identity
+
+Every time I tell people I'm a "Witch Hunter," they always treat me like some kid going through a rebellious phase and spewing childish nonsense. Hold on... What's with that look?
+
+### About Prune: Reading
+
+Adults have no patience. Ask them a question, and it's always "that's not something a kid needs to know" or "you'll understand when you're older"... Hmph, whatever. Books don't lie — the information is there for all to see, and the person reading them gets to come to their own conclusions. Safe to say, I prefer getting my own answers.
+
+### About Us: Timing
+
+Come to think of it, you got to Nod-Krai not long after I left Nasha Town. Bad timing, I suppose, but perhaps it was for the best. You were caught up in such a whirlwind back then, working with all those famous and important people... I never would have fit in. Ahem, what I mean is... I don't like crowds, so we actually met at the perfect time.
+
+### About Us: Beliefs
+
+I know I never brought it up, but... I'm really glad we met. You always listen to me and answer my questions. Oh, and you don't treat me like a kid...
+Of course, I know you're friends with the witches... But I don't buy into that whole "the friend of my enemy is my enemy" stuff. It's so old-fashioned. As long as we're sincere, we can still be friends even if we believe in different things... R—Right?
+
+### About the Vision
+
+All the most powerful people I've met had a Vision. Now I have one too, so... Heh, guess I'm one of them. But even without one, you wield elemental power like it's second-nature... That must make you the most powerful out of all of us. Every rule has an exception, I suppose.
+
+### Something to Share
+
+Did you know "The Flagship" offers special cocktails? There's a whole roulette aspect to it, so it's a real gamble and a total thrill. Hm? How's the taste? Ahem, well, I wouldn't know. Every time I stand on my tiptoes and slam Mora onto the counter, the bartender just points to the door and says, "This place isn't for kids. Go to Speranza if you want a hot dog"...
+Hmph, talk about age discrimination!
+
+### Interesting Things
+
+I bet you didn't know there's a huge elevator at Yilong Port... Hm? Wharf? Yeah, of course. Yilong Wharf. I knew that. Oh, and if you go to Sumeru, you have to check out the cute little creatures that live in the forest. The local kids call them Raranara. Huh? Well, duh. Obviously, I know they're called Aranara! Anyway... What about Snezhnaya? Have you been? HAH! Ahem, well, I have. I even took a bunch of pictures. I suppose I'll have to show you around.
+
+### About Alice: The Witch
+
+I'm not trying to drive a wedge between you, but in the interest of transparency, I have an obligation to expose her wicked deeds. She's constantly provoking me with riddles even a Slime could solve, or pestering me to debate her on one childish topic or the next, only to lose to me every time! Then, in a fit of rage, she revealed her wicked nature and declared she had kidnapped Descartes, and that if I wanted him back, I had to come to Mondstadt to search for clues! Can you believe that!? Evil at its most despicable! Just imagine you crushed her in a game of Genius Invokation TCG, and she kidnapped Paimon to get even! You'd become a witch hunter too.
+
+### About Alice: Psychological Warfare
+
+At first, I wondered: why Mondstadt? Why not lure me somewhere more dangerous? But then, I realized — it's psychological warfare. The more dangerous the hunting ground, the sharper the hunter's instincts become. But Mondstadt is a land of lazy drunkards and romanticized poetry. She's hoping this so-called atmosphere of "freedom" turns me into a useless wreck who does nothing but drink afternoon tea and groom cats!
+
+### About Alice: Never Forgive
+
+Ever since reuniting with Descartes, I've realized there were some... well-intentioned lies behind the whole thing. But just because her intentions were good, that doesn't change the evil of the act itself! Besides, didn't you notice how much she enjoyed seeing me suffer? Every time I got flustered or exasperated, she laughed like it was the funniest thing in the world! That alone is proof that she's wicked through and through. So no, I won't forgive her. Ever.
+
+### About Klee
+
+I'll admit, at first I only approached her to get information. After all, as Alice's daughter, she must know a lot of her secrets, right? I... just didn't expect her to be so... open and trusting. Inviting me to play, giving me that gift... When I looked into her eyes, sparkling with such innocent anticipation, I couldn't help but feel a little... a little...
+Never mind. One gift isn't going to put me off the hunt. I just feel like... playing together from time to time doesn't do any harm either, so... Why not?
+
+### About Sayu
+
+At her age, "sleeping where you can when you can" isn't a bad move. Just look at all those adults drowning in work or anxieties. Most of them have to use alcohol or alchemical potions just to get in a few winks. It won't be long before she has things keeping her up at night, though. I say let her sleep while she still can.
+
+### About Yaoyao
+
+Yaoyao's really good with her hands. She's helped me tie my hair ribbon quite a few times now. She always does such a good job — way better than I could. The bow is so perfect, I can't even bring myself to untie it when I go to bed. But somehow, it's always so messy the next morning!
+
+### About Qiqi
+
+Oh, I bought her a bunch of Dango Milk, 'cause she said she liked it so much at the little witches' tea party. Hm? I—I bought way too much for one person? Well, it was buy-one-get-one-free. Besides, I thought it'd be nice to bring some back to Mondstadt. Y'know, for uh... Klee. Yeah, for Klee. I, of course, prefer tea. Straight, with no sugar.
+
+### About Paimon
+
+I gotta ask, how did Paimon get into the Akademiya? Is the entrance exam hard? Do you think she'd share her study materials with me? Wait, what? She even gets one-on-one tutoring from a renowned instructor? I want that!
+
+### About Albedo
+
+I have something to tell you, but you have to promise not to tell anyone, okay? I'm starting to suspect Mr. Albedo isn't actually... human! I mean, think about it... Could a human that perfect even exist? Hmm...
+
+### About Kaeya
+
+After learning about my plan, he said I should upgrade Descartes to a heavy cavalry unit and issued me a "Special Riding License" right then and there... But before I even had time to read the fine print, Acting Grand Master Jean confiscated it, citing "illegal issuance." Apparently, "underage driving is reckless" or something... Hmph.
+
+### About Mona
+
+One time, I confused her with Witch B and might have... harassed her a bit... but it's all Alice's fault! She told me Witch B's name was "Megistus." Of course, she left out the "Tris" part on purpose to mess with me! Besides, you can't tell me Mona's big pointy hat doesn't make her look exactly like a witch... She accepted my apology though, so it's all water under the bridge.
+
+### About Lisa
+
+Hmph, another lady with a pointy hat, and another potential target. She's even known as the "Witch of Purple Rose." But the more obvious things seem, the more imperative it is to proceed with caution... Still, every time she calls me "little Prune" with that carefree tone and teasing smile, my Hunter instincts go wild. Even if she's not a real witch, I'd think twice before getting on her bad side.
+
+### About Fischl
+
+Others may think she indulges in fantasy, but I happen to believe she's one of the few people in Mondstadt who sees things clearly. Her... rhetorical flourishes are merely a weapon she uses to confront this cruel world. Hm? Do I understand what she's saying? Of course not. But that doesn't stop me from holding her in high regard.
+
+### About Aino
+
+I studied the ins and outs of engineering with her at her Craftshop for three days, starting all the way from the very basics, like screw-tightening. She even helped me come up with a new design for that patronizingly kiddy hammer and bell I won from Alice — a more industrial, heavy-metal look, boosting their visual intimidation factor by a full 30%!
+
+### About Dori
+
+Before arriving in Mondstadt, I traveled with her cargo caravan through several nations. She does offer a dedicated passenger escort service that's faster and more comfortable, but the fees are downright exorbitant. Hmph, merchants, am I right?
+The strange thing is, when the caravan got attacked, you'd think she'd put profit above all else and prioritize the cargo. But instead, the caravan leader shouted, "Protect the kid! That's a direct order from the boss — she gets a single scratch, and the whole team's pay is getting docked!" It's not like she owed me much. I mean, all I paid was a minuscule transportation fee. It just doesn't make sense. Unless... she really does value something else above Mora.
+
+### More About Prune: I
+
+Let me guess... You want to know where I live, who and where my parents are, why I'm all alone so far from home, whether I miss it... Every adult I meet asks the same slew of questions. Here we go again, I guess... Huh? That's not what you wanted to ask? Um... Then, I'm gonna need a minute!
+
+### More About Prune: II
+
+Descartes is my imaginary friend. He appeared when I was about four or five. My parents were busy with work back then and didn't have much time for me. So, one day, I started to imagine there was a super intelligent dog by my side who could talk and discuss questions with me, and then... there he was. Even though nobody can see him but me, he's always there. If there's one friend I can count on in this world, it's him.
+
+### More About Prune: III
+
+"Imaginary" isn't the same thing as "fake." For me, Descartes' existence is as tangible and real as can be. The two of us abandoned speech as a mode of communication a long time ago. It's far too inefficient. Descartes can point out a flaw in one of my logical deductions with just a glance or a deep breath. Our exchanges operate at the level of the soul, and that requires a degree of tacit understanding few can hope to match. So... who cares if I have no other friends. Descartes is all I need.
+
+### More About Prune: IV
+
+...Alright, I'll admit it — the Little Hexenzirkel has changed me. I guess this is what it feels like to be needed and cared for. Back in Nod-Krai, I always felt like I was on the outside looking in, but as a member of the zirkel, I feel indispensable. It's a nice change of pace... Really nice, actually. If anyone tries to threaten this organization, they'll have to go through me. Happy now? You got me to pour out my heart. Just don't tell anyone... especially Klee and the others!
+
+### More About Prune: V
+
+Once the Little Hexenzirkel grows stronger, we're going to rewrite the rules of the witching world. No more teasing people about their imaginary friends, no more pranking people in the name of "trials," and no more playing mind games with kids. We're gonna establish a new order — one of justice, kindness, and friendship! Alice and her generation of witches do nothing but answer to their own whims. It's time for the younger generation to take over. Hm? Something funny to you? Just wait until we become the strongest organization in Teyvat, and then we'll see who's laughing.
+
+### Prune's Hobbies
+
+Even though my copy of "The Spantamad Guide to Elemental Power" is eighty years out of date, its foundational theories remain sound. I went through and annotated it, correcting some of the outdated viewpoints while incorporating my own tactical deductions. Hehe, and Alice gave it to me on a whim! Bet she never guessed I would use it against her one day!
+
+### Prune's Troubles
+
+This piece of hair is sticking up again! I battle it every morning, but no matter how much I press it down, it springs right back up... It's like it's taunting me!
+
+### Favorite Food
+
+Barbecue-flavored Sugar Sculptures, sour Smoked Fish Steak, tofu-flavored Hash Browns... Oh, the more unconventional the combination, the more it draws me in! Even if it sounds a bit off, all it takes is one bite, and you'll be hooked!
+
+### Least Favorite Food
+
+The hot dogs from "Speranza." Not because of the flavor, of course. It's a matter of personal pride. I mean, the smell is kind of enticing.... But, that doesn't matter! I hate them!
+
+### Receiving a Gift: I
+
+I always thought the pictures in the "Encyclopedia of Food" used a bunch of tricks to make them look perfect. Never knew a dish could actually turn out like that in real life!
+
+### Receiving a Gift: II
+
+Hmm... Certainly not bad, but there's room for improvement.
+
+### Receiving a Gift: III
+
+Alright, fess up! Were you cursed by that witch!?
+
+### Birthday
+
+Happy Birthday! No need to look so surprised — not like it's hard to fish a date out of people. There is a crucial piece of information I didn't manage to uncover though... Your birthday wish!
+Huh? Saying it out loud means it won't come true? I disagree. That just makes it harder for people like me to help make it a reality. So, c'mon, no use beating around the bush. What do you want? You might think there's not much I can do, but I've saved up quite a bit of allowance. Besides, you're always saying how smart I am, so I'm sure it's something I can help with!
+Unless it's something like, "buying a house in the center of Mondstadt with no mortgage." But, you wouldn't wish for something that unreasonable... right?
+
+### Feelings About Ascension: Intro
+
+My Elemental Reactions seem more stable now. Looks like I'm getting to see theory in action.
+
+### Feelings About Ascension: Building Up
+
+This wasn't in any of the books... But I'll be sure to remember it.
+
+### Feelings About Ascension: Climax
+
+Maybe keeping a clear head doesn't mean eliminating the imaginary, after all. I guess I can hold onto both.
+
+### Feelings About Ascension: Conclusion
+
+I still don't believe in made-up fairy tales, and I don't have much faith in this world. But I do believe in you, so I hope you'll believe in me too. Even if you think I'm still just a kid, at the very least... I'm a big kid — someone strong enough to rely on.
+
+### Elemental Skill: I
+
+Bonk!
+
+### Elemental Skill: II
+
+Gotcha!
+
+### Elemental Skill: III
+
+Had enough?
+
+### Elemental Skill: IV
+
+Hammer time!
+
+### Elemental Skill: V
+
+My turn!
+
+### Elemental Skill: VI
+
+Nowhere to run!
+
+### Elemental Burst: I
+
+You're done.
+
+### Elemental Burst: II
+
+Ring-a-ling!
+
+### Elemental Burst: III
+
+Hammer it home!
+
+### Opening Treasure Chest: I
+
+People of all ages like treasure... It's not just me.
+
+### Opening Treasure Chest: II
+
+Hmph, treasure hunts are for kids.
+
+### Opening Treasure Chest: III
+
+Hey, hey! Look... Here's another one!
+
+### Low HP: I
+
+Time to turn the tables!
+
+### Low HP: II
+
+Pick on someone your own size!
+
+### Low HP: III
+
+I'm not giving up!
+
+### Ally at Low HP: I
+
+I can help!
+
+### Ally at Low HP: II
+
+Nothing wrong with a tactical retreat...
+
+### Fallen: I
+
+Descartes, run...
+
+### Fallen: II
+
+I'll be back...
+
+### Fallen: III
+
+It's not... fair...
+
+### Light Hit Taken: I
+
+Hah, that tickles.
+
+### Light Hit Taken: II
+
+Not gonna do me in.
+
+### Heavy Hit Taken: I
+
+Ouch!
+
+### Heavy Hit Taken: II
+
+Stop!
+
+### Joining Party: I
+
+Ready to hunt some witches.
+
+### Joining Party: II
+
+Just so you know, I'm not here to play.
+
+### Joining Party: III
+
+You got it. Let's go.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，布伦妮，魔女猎人。我的敌人是那种以戏耍未成年人为乐、利用他人的幻想朋友编造陷阱、审美浮夸又喜欢佩戴镂空大帽子的邪恶魔女——或者更准确地说，是巫婆！随时欢迎你提供相关情报。
+
+### 闲聊·宣战
+
+艾莉丝——别躲了！我迟早会找到你的，给我等着！
+
+### 闲聊·清醒
+
+总爱用玩味的语气说世界「有趣」的家伙，往往是喜欢制造混乱的超级大反派。
+
+### 闲聊·冷知识
+
+你知道吗？吞咽的时候，是没法同时呼吸的。不信你试试。哼哼。
+
+### 下雨的时候…
+
+人生的旅途不可能都是晴天，剧本也总会有被泪水打湿的几页。
+
+### 打雷的时候…
+
+发抖是人体对突然的巨响产生的正常应激反应，和害怕完全是两码事。
+
+### 下雪的时候…
+
+我不冷，不用穿外套。
+
+### 阳光很好…
+
+阳光是免费的，但又有多少人能够自在地晒太阳呢？
+
+### 在沙漠的时候…
+
+白天热情如火，晚上冷酷无情…这就是沙漠。
+
+### 早上好…
+
+意志力正在和床谈判…不能输…不能输…起床！
+
+### 中午好…
+
+专注当下的同时，眼睛也要往前看。所以吃午餐时就该想想晚餐吃什么。
+
+### 晚上好…
+
+这个时间的蒙德城还挺热闹的。在挪德卡莱的时候，爸妈总叮嘱我晚上出门很危险，所以我经常窝在房间里看书。
+
+### 晚安…
+
+明天…也要一起冒险吧？不一起也没关系，随便。那…晚安。
+
+### 关于布伦妮自己·身份
+
+每一次，我报出「魔女猎人」的身份，总有不明真相的人把我当成正在经历叛逆期，并且喜欢说怪话的小孩。等等…你那是什么眼神？
+
+### 关于布伦妮自己·读书
+
+大人们都挺没耐心的。问他们问题，得到的永远是「小孩子不需要知道那么多」或者「等你长大就明白了」…嘁，无所谓。我自己也能找答案。书本就不会骗人，它们会老老实实地把知识展示出来，让你自己去判断和思考。这样得来的答案，才是真正属于自己的。
+
+### 关于我们·时机
+
+算起来，我刚从那夏镇启程不久，你就到达挪德卡莱了，真是不巧。不过，也挺好。你当时参与了这么惊天动地的事件，周围也都是些名号响当当的同伴，我哪里挤得进去…咳。我的意思是，我本来就不爱凑热闹，现在跟你认识的时机刚刚好。
+
+### 关于我们·立场
+
+虽然我没专门提过，但其实…能有你在身边，我真的很高兴。你从来不会把我当成可以敷衍的小孩，总是认真地听我说话，解答我的问题…
+我当然知道你是魔女们的朋友…反正我才没有「敌人的朋友是敌人」这种老土的观念。交朋友只需要用真心，跟立场和身份无关，你、你觉得呢？
+
+### 关于「神之眼」…
+
+在我认可的强者名单里，无一例外都佩戴着这种勋章。现在我也有一枚，所以，哼哼。不过我没想到的是，你明明没有「神之眼」却还能随手驱动元素力…所以你是强者中的强者，例外中的例外。
+
+### 有什么想要分享…
+
+「旗舰」有种特调，喝之前要先转动转盘，充满了博弈的刺激感。味道？咳，不知道。每次我刚踮起脚把摩拉拍在吧台上，那个酒保就会面无表情地指着门口说「这不是小孩该来的地方，想吃热狗就去『斯佩兰扎』吧」…
+可恶，这是赤裸裸的年龄歧视！
+
+### 感兴趣的见闻…
+
+说起来，遗珑堡码头有个大升降机…是埠吗？哦对、对的。不得不提须弥雨林里有种可爱的小东西了，当地小孩叫它们那那罗。欸…我当然知道叫兰那罗啊！那什么…至冬的话…你去过了吗？哈咳！小时候我还在那拍过不少画片，有机会我带带你吧。
+
+### 关于艾莉丝·巫婆
+
+我无意挑拨你们的关系，但基于「信息透明」原则，我有义务向你揭露她的恶劣事迹。这个邪恶魔女，总拿些连史莱姆都能解开的谜题来挑衅我，又缠着要跟我辩论儿童组的题目，还都输给了我！气急败坏的她露出巫婆的真面目，公然放话把德斯卡戴抓走了，让我来蒙德找线索！听听！这是人话吗？这不亚于她跟你打七圣召唤，完败后还要把派蒙抓走！换作是你，你也会成为一名魔女猎人的。
+
+### 关于艾莉丝·心理战
+
+一开始我也在想，为什么偏偏是蒙德？而不是把我拐骗到更危险的地方去？后来我明白了，这是一种心理战。越是危险的境地，猎人的感官会愈发灵敏。但在蒙德…哼，这里的空气里飘荡着懒散的酒精味和不切实际的诗歌。她想用这种所谓的「自由」氛围来腐蚀我的意志，让我变成一个只会一边喝下午茶，一边给猫梳毛的废人！
+
+### 关于艾莉丝·绝不原谅
+
+跟德斯卡戴重逢后，我知道这个事件背后藏着些善意的谎言…但一码归一码，动机的「善」，绝不能掩盖手段的「恶」！本质上，她就是在享受整个耍我的过程。你没看见吗？每次我气急败坏，她笑得有多开心！那发自肺腑的笑正是她恶趣味的证明。总之，我不会原谅她，绝不。
+
+### 关于可莉…
+
+我承认一开始接近她只是为了套情报。毕竟她是艾莉丝的女儿，肯定知道很多魔女的秘密吧？没想到可莉根本不设防，总是邀请我一起玩。有一次她神秘兮兮地说要送我礼物，看着她亮晶晶的双眼…我突然就…就有点…
+算了算了，我不是被收买了。只是觉得偶尔陪她玩玩也不耽误我的计划。对，就是这样。
+
+### 关于早柚…
+
+在这个年纪，「能睡则睡」是最聪明的选择。毕竟…看看那些被工作和焦虑填满的大人吧，哪怕是一个不用依靠酒精或炼金药剂的安稳觉，都已经是奢侈品了。趁现在还能毫无负担地闭上眼，就让她睡吧。
+
+### 关于瑶瑶…
+
+瑶瑶的手很巧，有好几次我的发带松了都是她帮我系好的，我自己肯定系不出这么完美的结，所以睡觉都没舍得拆。没想到醒来还是乱了！
+
+### 关于七七…
+
+我买了很多团子牛奶送她，小魔女的茶会上她说过爱喝嘛。好、好几个人的份？因为买一送一啊，我也想带些稻妻特产回蒙德喝。呃…主要是给可莉喝，对，给可莉，我喝茶。不加糖的。
+
+### 关于派蒙…
+
+悄悄问你哦，派蒙在须弥教令院的学籍是怎么申请的？入学考试难不难？你觉得她会愿意给我分享学习资料吗…什么？你说派蒙还有名师一对一辅导？
+
+### 关于阿贝多…
+
+这个事情我只跟你说，你要答应我别告诉其他人哦。我怀疑阿贝多先生…根本不是人！世界上真的会有这么完美的人类吗？唔…
+
+### 关于凯亚…
+
+听完我的计划后，他建议我把德斯卡戴升级为重装骑兵单位，并当场给我签发了一张《特种骑兽驾驶资格证》…但这张证在我手里还没捂热，就被琴团长以违章发放为由强制收回了。理由居然是——「儿童驾驶属于危险驾驶」…哼。
+
+### 关于莫娜…
+
+我曾经把她错认成魔女B了，给她制造了一些麻烦…都怪艾莉丝！她说魔女B的名字里有「梅姬斯图斯」几个字，哪知道她故意没说最关键的「崔斯」两个字啊！而且莫娜的尖顶大帽子，完全符合「魔女」的刻板印象…还好，她已经接受我的道歉了。
+
+### 关于丽莎…
+
+又是一位尖顶大帽子女士，这位更是有着「蔷薇魔女」的称号。而答案越是显眼，就越要谨慎了…每次她用慵懒的语调，笑眯眯地叫我小布伦妮的时候，我的猎人直觉都在疯狂报警——不管她是不是真正的魔女，都不好惹。
+
+### 关于菲谢尔…
+
+她绝不是那种沉溺于幻想的人，恰恰相反，我认为她是蒙德城里极少数的清醒者。那些华丽的辞藻不过是用来对抗这个残酷世界的武器。我能不能听懂她的话？当然不能。但这不影响我对她的高度肯定。
+
+### 关于爱诺…
+
+我在叮铃哐啷蛋卷工坊跟她学习了三天，从最基础的打螺丝开始。我在天才机械师的专业指导下，改造了从艾莉丝那里赢来的锤子和铃铛，洗去原本的低幼童话感，赋予了它们重金属工业风的全新外观，视觉威慑力整整提升了百分之三十！
+
+### 关于多莉…
+
+我跟她的运货商队，绕了好几个国家才来到蒙德。其实她还有专门的乘客护送服务，耗时更短座位也更舒服，可是收费只能用无法无天来形容，哼，商人！
+奇怪的是，按照利益至上的原则，遇到袭击时那些价值连城的货物才该是重点保护对象。但领队大叔喊的是「保护小孩！这是老板下的死命令，少一根头发全队扣钱！」没道理啊，我只付了一点点运费…除非，她的算盘里，还有比摩拉更重要的东西。
+
+### 想要了解布伦妮·其一
+
+是不是想问家住哪、爸爸妈妈是谁、怎么能自己出远门呢、想不想家…这一路上，已经有数不清的大人问过一样的问题了。没关系，我可以再复述一遍。你想知道的不是这些？等等，给我一分钟！
+
+### 想要了解布伦妮·其二
+
+德斯卡戴是我的幻想朋友，大概在我四五岁的时候吧，爸妈都忙着做生意，没空陪我。有一天，我在想象一只会说话、很聪明、能陪我讨论问题的狗，然后…它就出现了。虽然只有我看得见，但它一直都在，比任何人都可靠。
+
+### 想要了解布伦妮·其三
+
+「幻想」并不等同于「虚假」。对我来说，德斯卡戴的存在具有绝对的真实性。我们之间早就摒弃了语言这种低效的沟通方式。它只用一个眼神，或者一声深沉的鼻息，就能精准地指出我逻辑推演中的漏洞。这种灵魂共振级别的交流，是需要极高默契门槛的。只要有它在我身边就够了，就算没有其他朋友也没什么大不了的。
+
+### 想要了解布伦妮·其四
+
+…好吧，小魔女会确实改变了我，原来被人需要、被人关心是这种感觉。在挪德卡莱的时候，我总觉得自己是个旁观者，但在小魔女会，我是不可或缺的一员。这种感觉很好，非常好。我必须要守护这个组织，不让任何人破坏它。你满意了吧？我都说到这份上了，别告诉别人啊…尤其是可莉她们！
+
+### 想要了解布伦妮·其五
+
+等小魔女会发展壮大后，我们要改写魔女世界的规则。不许随便开幻想朋友的玩笑，不许用「考验」的名义整人，不许对小孩子玩心机。总之要建立一个正义、善良、友爱的新秩序！艾莉丝她们这代魔女太随心所欲了，是时候让年轻一代接手了。嗯？笑吧笑吧，等小魔女会成为提瓦特最强组织的时候，你得给我道歉。
+
+### 布伦妮的爱好…
+
+这本《素论派元素力使用手册》虽然过期了八十年，但基础理论还算扎实。我在上面做了大量批注，修正了一些过时的观点，还加入了自己的战术推演。呵呵，艾莉丝绝对想不到，随手给我的东西最后会变成刺向自己的刀！
+
+### 布伦妮的烦恼…
+
+这撮头发又翘起来了！每天早上都要跟它斗智斗勇，我怎么压它怎么翘，简直像是在挑衅我…
+
+### 喜欢的食物…
+
+烤肉味的糖雕、酸味的烟熏鱼排、豆腐味的土豆饼…越是想象不出来的味道，越是让人在意，这很正常吧。有些东西，听起来是不太对劲，但吃过一次，就会明白它们为什么会被记住。
+
+### 讨厌的食物…
+
+「斯佩兰扎」的热狗。无关口味，纯粹是尊严问题。无可否认它确实挺香的…但我还是恨它！
+
+### 收到赠礼·其一
+
+我一直觉得《料理图鉴》上都是经过美化后的图片，没想到你真的能做出一模一样的菜！
+
+### 收到赠礼·其二
+
+嗯…虽然比上不足但比下绰绰有余。
+
+### 收到赠礼·其三
+
+快说，你是不是被魔女诅咒了？
+
+### 生日…
+
+生日快乐！不必太惊讶，「生日日期」这种情报很好收集，难不倒我。但最关键的「生日愿望」我还没有打听到…
+说出来就不灵了？我不同意。这会让那些想帮你实现愿望的人…比如我，无从下手啊。直接一点吧，你想要什么？别小瞧我，我存了不少零花钱，而且你不也经常夸我懂的很多吗？说不定我真能帮上忙呢！
+但…你应该不会许那种「在蒙德城中心全款买房」之类的超纲愿望吧？
+
+### 突破的感受·起
+
+嗯，元素反应更稳定了。看来，不只是理论成立。
+
+### 突破的感受·承
+
+书上没写到这一步…不过，我记下来了。
+
+### 突破的感受·转
+
+原来保持清醒不一定要把幻想排除在外，我会同时抓住它们。
+
+### 突破的感受·合
+
+我还是不太相信那些虚假的童话，也不怎么相信这个世界。但我会相信你。也请你相信我吧，哪怕你觉得我还是个小孩，那也是小孩里的大小孩，靠谱的厉害的大小孩。
+
+### 元素战技·其一
+
+命中。
+
+### 元素战技·其二
+
+别动！
+
+### 元素战技·其三
+
+逃？
+
+### 元素战技·其四
+
+吃锤！
+
+### 元素战技·其五
+
+我来！
+
+### 元素战技·其六
+
+哪里逃！
+
+### 元素爆发·其一
+
+制裁开始。
+
+### 元素爆发·其二
+
+铃声为引。
+
+### 元素爆发·其三
+
+锤印确认。
+
+### 打开宝箱·其一
+
+宝箱这种东西，果然对任何年龄都很有吸引力。
+
+### 打开宝箱·其二
+
+哼哼，区区寻宝游戏。
+
+### 打开宝箱·其三
+
+喂喂！嘘…这里也有！
+
+### 生命值低·其一
+
+反击才刚刚开始！
+
+### 生命值低·其二
+
+有本事等我歇好再战！
+
+### 生命值低·其三
+
+我说过，不会认输。
+
+### 同伴生命值低·其一
+
+我能帮上忙的！
+
+### 同伴生命值低·其二
+
+只是战术性撤退，不丢人。
+
+### 倒下·其一
+
+德斯卡戴快跑…
+
+### 倒下·其二
+
+我一定会回来的…
+
+### 倒下·其三
+
+到底…为什么…
+
+### 普通受击·其一
+
+不痛。
+
+### 普通受击·其二
+
+继续。
+
+### 重受击·其一
+
+痛！
+
+### 重受击·其二
+
+停——
+
+### 加入队伍·其一
+
+魔女猎人，就位。
+
+### 加入队伍·其二
+
+先声明，我不玩过家家哦。
+
+### 加入队伍·其三
+
+搞定，出发吧。

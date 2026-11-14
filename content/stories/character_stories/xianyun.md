@@ -319,3 +319,851 @@ With heroism she cleanses the world below, and with wisdom imparts the laws of n
 遇可亲之人便厚待，遇可恶之人便藐视。作为留云借风真君时作风如此，作为侠士闲云亦然。
 「你自己睁大眼睛看看，我可没帮你什么，既然能靠自己的本事退敌，就拿出自信来。」说罢闲云拂袖而去。
 以侠心洗濯尘世，以慧心传授天道，今日，闲云依旧潇洒行走红尘。
+
+# voice_source_ids: 93000,93001,93002,93003,93004,93005,93006,93007,93008,93009,93010,93011,93012,93013,93014,93015,93016,93017,93018,93019,93020,93021,93022,93023,93024,93025,93026,93027,93028,93029,93030,93031,93032,93033,93034,93035,93036,93037,93038,93039,93040,93041,93042,93043,93044,93045,93046,93047,93048,93049,93050,93051,93052,93053,93054,93055,93056,93057,93058,93059,93060,93061,93062,93063,93064,93065,93066,93067,93068,93069
+
+## REPLICAS_RU
+
+### Привет...
+
+Что, небольшие изменения во внешности - и уже не узнаёшь меня? Позволь развеять все сомнения: я во всём свободна и ничем не ограничена, могу жить, как пожелаю, и идти куда хочу и с кем хочу. Тем не менее, кхм... учитывая мою значительную известность... попрошу при посторонних называть меня «Сянь Юнь».
+
+### Поболтаем: Искусство механики
+
+Секреты искусства механики непросты, в двух словах не объяснить... Но почему все постоянно засыпают, когда я начинаю рассказывать?
+
+### Поболтаем: Мир смертных
+
+На земле царит мир, и всё обновляется и расцветает, подобно цветам весной. Благоприятная эпоха для человечества.
+
+### Поболтаем: Интересные истории
+
+Если ты не занят, почему бы нам не посидеть у меня, обсудим последние новости. / Если ты не занята, почему бы нам не посидеть у меня, обсудим последние новости.
+
+### Когда идёт дождь...
+
+В эпоху мягких ветров и благодатных дождей мне нет нужды повелевать погодой.
+
+### Когда гремит гром...
+
+Ох, ну и грохот...
+
+### Когда светит солнце...
+
+В такой погожий день вид с небес должен быть замечательным... Не волнуйся, я не собираюсь улетать и бросать тебя одного. / В такой погожий день вид с небес должен быть замечательным... Не волнуйся, я не собираюсь улетать и бросать тебя одну.
+
+### Когда дует сильный ветер...
+
+Ах, какой приятный ветерок. Не наложить ли на тебя талисманы Адептов, чтобы ты мог полетать по небу вместе со мной? / Ах, какой приятный ветерок. Не наложить ли на тебя талисманы Адептов, чтобы ты могла полетать по небу вместе со мной?
+
+### Доброе утро...
+
+Вообще я проснулась довольно давно, но закрыла глаза для медитации. Очень полезная практика для духовного развития - обязательно как-нибудь сам попробуй. / Вообще я проснулась довольно давно, но закрыла глаза для медитации. Очень полезная практика для духовного развития - обязательно как-нибудь сама попробуй.
+
+### Добрый день...
+
+Хм? Не надо на меня так смотреть, разве сегодня не твоя очередь готовить обед?
+
+### Добрый вечер...
+
+Хочешь вместе сходить на ночной рынок? Ха, не пристало нам заниматься такими глупостями. Я могу создать для тебя любую безделушку, какую пожелаешь.
+
+### Спокойной ночи...
+
+Я всё ещё полна сил... А вот у тебя глаза закрываются уже. Пора и отдохнуть.
+
+### О Сянь Юнь: Ученики
+
+Я всегда была ярой противницей условностей и навязанных ожиданий. Предпочитаю жить свободно в соответствии со своими желаниями. Это естественно, что ученики идут по стопам своего учителя. Они так заняты собственными делами, что часто не пишут неделями... Нет, мне вовсе не одиноко! Хм... Если я проведаю их, как думаешь, не создам ли я неудобства своим визитом?..
+
+### О Сянь Юнь: Кулинария
+
+Конечно, Чудо кулинарной машинерии не заменит человека, если нужно приготовить по-настоящему великолепное блюдо. И всё же, оно даёт мне больше свободного времени, чтобы работать над новой, улучшенной моделью, которая, в свою очередь, экономит ещё больше времени, и так далее, и так далее... Настанет день, когда эта машина будет доведена до совершенства, и все деликатесы, известные человечеству, станут мне доступны.
+
+### О нас: Компаньоны
+
+Я исследовала местность, глядя с небес, и создала этот указывающий путь компас, чтобы тебе было удобнее в путешествиях. Хех, когда ещё у тебя был такой заботливый компаньон, а? ...Уже хорошо знаком с этой местностью? Может, оно и так, но человеческая память, как известно, очень ненадёжна. В один прекрасный день ты совсем заблудишься и тогда поблагодаришь меня за предусмотрительность. / Я исследовала местность, глядя с небес, и создала этот указывающий путь компас, чтобы тебе было удобнее в путешествиях. Хех, когда ещё у тебя был такой заботливый компаньон, а? ...Уже хорошо знакома с этой местностью? Может, оно и так, но человеческая память, как известно, очень ненадёжна. В один прекрасный день ты совсем заблудишься и тогда поблагодаришь меня за предусмотрительность.
+
+### О нас: Узы
+
+Хотя меня не интересуют земные привязанности, я хорошо осознаю важность «уз». Такое простое слово для понятия столь глубокого, что оно не поддаётся формулировке... Взять, к примеру, меня и стариков. Мы годами друг друга не видим, но при встрече всегда хватает о чём поспорить. И всё же так глубоки наши узы, что как далеко мы ни были бы физически, я никогда не чувствую себя одинокой или потерянной в этом мире... Я очень дорожу тобой, дитя, и рада считать тебя своим другом. Ценишь ли ты так же наши узы? / Хотя меня не интересуют земные привязанности, я хорошо осознаю важность «уз». Такое простое слово для понятия столь глубокого, что оно не поддаётся формулировке... Взять, к примеру, меня и стариков. Мы годами друг друга не видим, но при встрече всегда хватает о чём поспорить. И всё же так глубоки наши узы, что как далеко мы ни были бы физически, я никогда не чувствую себя одинокой или потерянной в этом мире... Я очень дорожу тобой, дитя, и рада считать тебя своей подругой. Ценишь ли ты так же наши узы?
+
+### Глаз Бога...
+
+Властелин Камня однажды сказал, что Глаз Бога - это призыв к исполнению долга быть стражем, который присматривает за человечеством. Неважно, уединимся ли мы в горах или сольёмся с шумом города, мы никогда не должны пренебрегать этим долгом. Настала эпоха человечества, но я буду исполнять его ещё долгое время.
+
+### Давай поделимся...
+
+Эта механическая птица лишь прототип. Я хотела сделать птицу намного больше - полую внутри - чтобы она могла раскладываться в транспортное средство, на котором можно было бы отправиться на прогулку с друзьями... Однако сложности с питанием и управлением таким агрегатом оказались непреодолимыми. Ведь необходимо управлять взлётом и посадкой, процессом трансформации, не говоря уже о средствах безопасности... Эх, если бы Гуй Чжун была здесь. Она бы точно предложила множество странных, но изобретательных решений для этой головоломки.
+
+### Интересные вещи...
+
+Гора Аоцан - идеальное место для духовных упражнений. Ничто не сравнится с её пейзажами по красоте, и всё здесь дышит природной чистотой. Поначалу множество птиц и зверей собиралось понаблюдать за моей медитацией, и тишину вскоре сменял многоголосый щебет и визг... И всё же меня это никогда не беспокоило.
+
+### О Гань Юй...
+
+Однажды я спросила Гань Юй, чем она занимается, когда работает сверхурочно. Её ответ был наполнен угрожающе звучащими фразами вроде «протоколы заседаний», «сводки», «годовые отчёты», «финансовые прогнозы»... Если бы в ней не текла кровь Священной Лани и я не научила бы её секретам укрепления здоровья, эта лавина бюрократической писанины наверняка поглотила бы её... Как встретишь её, напомни, пожалуйста, чтобы она не забывала каждый день пить чай цинсинь для улучшения зрения.
+
+### О Шэнь Хэ...
+
+Шэнь Хэ рассказала мне, что однажды доставляла заказ из ресторана «Народный выбор» и, чтобы сэкономить время, побежала по крышам. Заказчик был в ужасе, когда она внезапно спрыгнула ему на порог, и уже собирался звать Миллелитов... К счастью, Шэнь Хэ исчезла так же быстро, как и появилась, оставив еду и убежав прежде, чем клиент успел среагировать. Похоже, она всё лучше справляется с кризисными ситуациями - я очень этому рада.
+
+### О Чжун Ли...
+
+Когда Властелин Камня впервые услышал о том, что я собираюсь поселиться в гавани Ли Юэ, он зачитал мне длинный и подробный список соображений по обустройству и украшению дома. Естественное освещение, вентиляция, заказ деревянных изделий, закупка фарфора, размещение растений и цветов... Мой разум, казалось, готов был взорваться от обилия информации. Неужели все стороны жизни в мире людей требуют столько усилий?
+
+### О Сяо...
+
+Охотник на демонов даже более замкнут, чем я. За века его видели на собраниях всего несколько раз... Но я слышала, что вы с ним в довольно хороших отношениях. Любопытно, о чём вы обычно разговариваете? А, скажи мне, как соберётесь встретиться с ним в следующий раз - я сделаю для него пудинг из тофу.
+
+### О Ху Тао...
+
+Эта девушка говорит самые причудливые вещи, но, похоже, пользуется большим уважением у сотрудников ритуального бюро «Ваншэн» - даже сам Властелин Камня счёл нужным работать под её началом в роли некоего «консультанта»... Говорят, что её пристрастия в еде столь же своеобразны. Надо признать, что подобные чудаки меня довольно интригуют.
+
+### О Сян Лин...
+
+Как-то в разговоре с ней я упомянула о Чуде кулинарной машинерии, но меня крайне удивил её ответ, что настоящее блюдо можно приготовить только своими собственными руками... Хм, разве моё устройство не результат работы моих рук? Что же в этом ненастоящего? Нужно устроить соревнование! ...Но её мастерство в кухне Ли Юэ, конечно, впечатляет... Да, соревнование придётся отложить, пока я не внесу некоторые улучшения в моё изобретение...
+
+### О Нин Гуан...
+
+Воля Небес ведёт свои дела с большой ловкостью, а к речам её не придраться. Не могу не признать - под управлением Цисин Ли Юэ процветает. Я пристально за ней наблюдала, надеясь вызнать её секрет... Кхм, это я только тебе - не надо ей говорить.
+
+### О Кэ Цин...
+
+Кэ Цин - заботливое дитя. Она всегда посещает меня от лица Цисин на каждый фестиваль и приносит подарок. Возможно, мне не стоит так волноваться о Гань Юй, раз у неё есть такая способная и внимательная коллега.
+
+### О Юнь Цзинь...
+
+Много опер в Ли Юэ основаны на историях об Адептах, в том числе и на моей собственной жизни и приключениях... Я никогда их, конечно, не смотрела - видеть, как кто-то другой играет меня на сцене было бы слишком неловко. Но мне было бы интересно оценить, как Юнь Цзинь справилась с адаптацией истории Шэнь Хэ. Схожу посмотрю, как будет время.
+
+### О Яо Яо...
+
+Как-то Яо Яо стянула очки с моего лица и примерила их. Это ей показалось ужасно забавным, так что она долго хихикала... Ах, дети всегда найдут способ развлечь себя.
+
+### О Ка Мине...
+
+Я очень ценю Ка Мина: он добр к людям и интересен в общении, но всегда скромен. Мы познакомились, когда я отдыхала у озера, и он любезно поделился со мной едой. Потом он сказал, что я больше похожа на почтенного мудреца, чем сами Адепты... Ха-ха, раз уж я почтенный мудрец, обязательно присмотрю за ним.
+
+### Узнать больше о Сянь Юнь I
+
+Хочешь узнать о моём прошлом? Не думаю, что оно того стоит - всё это уже древняя история. Намного интереснее услышать о твоих путешествиях в дальние уголки мира... Какие формы принимают боги и бессмертные в других странах? Есть ли среди них такие, кто, как и я, любит поговорить? Давай заварим чай, и ты мне обо всём расскажешь.
+
+### Узнать больше о Сянь Юнь II
+
+Было время, когда многие смертные стремились получить наставления Адептов. Неизвестно, как они узнали о местонахождении моей обители, но то и дело люди оставляли подношения еды у алтаря на горе Аоцан... Пф, с чего это смертные решили, что Адепт прервёт свою медитацию ради принятия человеческой пищи? Очень забавно. Но поскольку их действия были искренними, я сочла уместным угоститься... Хм, принять их подношения, когда они уйдут.
+
+### Узнать больше о Сянь Юнь III
+
+Были и такие, кто приходил прямо к моим дверям и просил взять их в ученики. Я отказывалась разговаривать с ними, но они не желали уходить. Вскоре гора Аоцан превратилась во что-то вроде лагеря паломников... Я быстро вывесила у входа в обитель объявление, предписывающее всем желающим стать учениками, в течение девяноста девяти дней готовить по уникальному блюду в день, каждое с цветком цинсинь в качестве основного ингредиента... Толпа, конечно, вскоре разошлась. Чтобы овладеть искусством Адептов и искусством механики необходим великий талант и предельная стойкость ума. Нет смысла обучать того, кто даже три месяца не может продержаться.
+
+### Узнать больше о Сянь Юнь IV
+
+Хотя у искусства механики множество чудесных применений, я часто использую его для развлекательных целей. Как-то в Ли Юэ выпало много снега, и он толстым слоем покрыл гору Аоцан. Видя, как все укрылись в своих обителях и страдали от безделья, я создала Скорый снегоход. Мы с Гуй Чжун и Владыкой Песен отлично проводили время, пока Владыка Лун не решил присоединиться. С первой же попытки он умудрился сделать так, что снегоход сошёл с рельсов и рухнул в глубокий снег. Нам несколько часов понадобилось, чтобы откопать его... Позже я добавила в механизм множество функций для безопасности, чтобы им смог управлять даже трёхлетний ребёнок. Хотя это снизило максимальную скорость.
+
+### Узнать больше о Сянь Юнь V
+
+После переезда в гавань Ли Юэ я прочитала множество произведений популярной литературы. Больше всего мне понравились рыцарские романы, хотя все герои там и выдуманные. Разве не было бы интереснее рассказать о реальных персонажах, с которыми я знакома? Жаль, что ученики так не любят, когда я рассказываю людям истории из их жизни... Может быть, поведаешь побольше о своих приключениях? Я могла бы адаптировать их для своего романа.
+
+### Хобби Сянь Юнь...
+
+Когда мне нечем заняться, я люблю понежиться на ветру, который гуляет среди гор. Это всегда успокаивает разум.
+
+### Беспокойство Сянь Юнь...
+
+После переезда в гавань Ли Юэ у моего порога постоянно появляются старые и новые друзья - то в гости придут, то на ужин пригласить хотят. Если так пойдёт дальше, то у меня скоро закончатся деньги...
+
+### Любимая еда...
+
+Совместная трапеза с друзьями надолго остаётся в памяти, независимо от того, что было съедено.
+
+### Нелюбимая еда...
+
+Адепт посвящает себя духовному развитию и для этого ему не нужны деликатесы бренного мира. Когда я ем подобные блюда это не для питания, а чтобы насладиться вкусом... Так что, если ты приготовишь блюдо, вкус которого не кажется изысканным даже тебе, то не стоит делиться им со мной. А вообще лучше предоставь приготовление еды мне...
+
+### Подарок I
+
+Образец свежести и вкуса... Скажи, как долго ты тайком изучаешь мои кулинарные секреты?
+
+### Подарок II
+
+Вкус не так важен - главное, что ты вообще счёл нужным приготовить что-то для меня. Я высоко ценю твоё внимание. / Вкус не так важен - главное, что ты вообще сочла нужным приготовить что-то для меня. Я высоко ценю твоё внимание.
+
+### Подарок III
+
+Моё Чудо кулинарной машинерии лежит без дела последнее время. Могу одолжить тебе.
+
+### День рождения...
+
+Вот, открой этот деревянный ящик. Это миниатюрный механический человечек для твоего развлечения. Попробуй поиграть с ним. Смотри: если хлопнуть в ладоши вот так, лепестки лотоса раскроются, цветные лампочки загорятся по очереди, а затем заиграет мелодия. Это та самая праздничная мелодия, которая так нравится молодому и энергичному поколению. Она обязательно добавит нотку веселья и легкомыслия к твоему праздничному настроению... Весёлого праздника.
+
+### Чувство возвышения: Начало
+
+Я так долго пробыла дома. Приятно иногда немного размяться.
+
+### Чувство возвышения: Нарастание
+
+Давно я не использовала некоторые из искусств Адептов... Естественно, что я немного отвыкла.
+
+### Чувство возвышения: Кульминация
+
+У тебя такое предвкушающее выражение лица... Ладно. Отныне буду использовать свои способности в полной мере.
+
+### Чувство возвышения: Окончание
+
+Именно путешествуя по миру, мы приобретаем опыт. Сила - это ещё не всё, важнее навыки общения. Если у тебя есть время, давай найдём место с приятным видом, где мы сможем полюбоваться пейзажами, поговорить, отдохнуть, да и просто насладиться жизнью.
+
+### Элементальный навык I
+
+Ух!
+
+### Элементальный навык II
+
+Ввысь!
+
+### Элементальный навык III
+
+Разойдись!
+
+### Взрыв стихии I
+
+Охватить небеса!
+
+### Взрыв стихии II
+
+Адепт пришёл!
+
+### Взрыв стихии III
+
+Соберитесь, одинокие облака!
+
+### Открытие сундука I
+
+Пригодится на детали.
+
+### Открытие сундука II
+
+Что здесь за безделушки? Дай мне посмотреть.
+
+### Открытие сундука III
+
+Возможно, стоит изобрести «Распознаватель диковинок».
+
+### Низкий уровень HP I
+
+Какая дерзость!
+
+### Низкий уровень HP II
+
+Сильный противник!
+
+### Низкий уровень HP III
+
+Я тебя не покину.
+
+### Низкий уровень HP компаньона I
+
+Знай свой предел.
+
+### Низкий уровень HP компаньона II
+
+Нужно было меня позвать.
+
+### Без сознания I
+
+Не считается... Я голодная была...
+
+### Без сознания II
+
+Оплошность...
+
+### Без сознания III
+
+Мой механизм ещё не закончен...
+
+### Получен тяжёлый удар I
+
+Пустяк.
+
+### Получен тяжёлый удар II
+
+Это неважно.
+
+### Присоединяется к группе I
+
+Механизмы настроены. Вперёд.
+
+### Присоединяется к группе II
+
+Провиант ведь подготовлен?
+
+### Присоединяется к группе III
+
+Я перемещаюсь быстро - не отставай.
+
+### О Цзы Бай...
+
+В последнее время Цзы Бай стала частым гостем в моей обители, и в вопросах математики она довольно проницательна, но... Ох, однажды, когда Яо Яо зашла передать несколько вещей от мадам Пин, Цзы Бай была здесь и между делом задала Яо Яо несколько математических вопросов. Будучи умной девочкой, Яо Яо без проблем ответила на все вопросы, к большому удовольствию Цзы Бай, которая продолжила засыпать бедную девочку всё новыми и новыми математическими задачами. Я впервые видела, как Яо Яо вся взмокла от напряжения, пришлось вмешаться... Теперь Цзы Бай настаивает, что у Яо Яо математический талант, который нельзя зарывать в землю, и спрашивает, где та живёт - хочет отнести ей задачник... Вот в чём вопрос: сказать или не сказать?
+
+## REPLICAS_EN
+
+### Hello
+
+What? A cursory change in one's appearance, and you barely recognize me? Hah, then let one dispel any doubt — one is in all things unconstrained and unabashed, free to live as one pleases, go where one desires, and journey with whomsoever one wishes. Nevertheless, ahem... In light of one's considerable renown... please call me "Xianyun" in public.
+
+### Chat: The Study of Mechanisms
+
+The secrets of the mechanical arts are too profound to convey in a few simple words... But why must the listener grow weary whenever I begin to divulge them?
+
+### Chat: The Mortal World
+
+Peace prevails throughout the land, and all things are made new, as buds in the Spring. This is an auspicious era for humanity.
+
+### Chat: Interesting Experiences
+
+If you are presently unoccupied, perhaps we could stop awhile at one's abode for some repose and conversation?
+
+### When It Rains
+
+In this era of fair winds and gentle rains, one needs not marshal the winds to deliver the rainclouds.
+
+### When Thunder Strikes
+
+Ugh, what a dreadful racket...
+
+### When the Sun Is Out
+
+On this fine day, the view from the heavens must be magnificent... Oh, don't fret, one has no intent to fly off and leave you on your own.
+
+### When the Wind Is Blowing
+
+Oh, what a soothing wind. Shall one attach some adepti sigils to your person, so that you may join me for a flight in the firmament?
+
+### Good Morning
+
+In fact, one awoke quite some time ago, and simply had one's eyes closed in meditation. A most beneficial practice for spiritual cultivation — you might try it for yourself some time.
+
+### Good Afternoon
+
+Hmm? Spare me that look, is it not your turn to prepare luncheon today?
+
+### Good Evening
+
+You wish to attend the night market together? Hah, one shall engage in no such fool's errand. Whatever novelty or knick-knack you desire, one can simply make for you.
+
+### Good Night
+
+One is still wide awake... *yawn* But you look dead on your feet. Go on, off to bed with you.
+
+### About Xianyun: Disciples
+
+One has always been a staunch defier of convention and expectation, preferring instead the freedom to live life precisely how one pleases. It is only natural for disciples to follow in their master's footsteps. So focused are they on their individual endeavors that they are quite content to go weeks without writing... Lonely? One is most certainly not! Hm... Still, were one to find time to pay them a visit — you don't suppose they would be unduly inconvenienced by one's presence, do you...?
+
+### About Xianyun: Cooking
+
+To be sure, a Supreme Cuisine Machine is no substitute for a human touch if one wishes to prepare a truly magnificent meal. Nevertheless, using it frees up one's time to work on a new, improved model, which in turn saves more time, and so on and so forth... Hah, there will come a day, once this machine has been iterated to impeccability, that the power to cook all the delicacies known to humankind shall be within one's grasp.
+
+### About Us: Companions
+
+One took the liberty of surveying the land from the skies above so as to fashion this route-finding compass for your future traveling convenience. Heh, when have you ever met such a considerate companion as oneself, hmm? ... ...Already intimately acquainted with said terrain, you say? Hmph... Well, be that as it may, human memory is notoriously error-prone. One of these days, you'll get yourself hopelessly lost, and then you shall be thanking one profusely for one's foresight.
+
+### About Us: Bonds
+
+Despite one's lack of interest in worldly attachments, one is quite conscious indeed of the importance of "bonds." Such a simple word for a thing so profound that it all but defies articulation... Take oneself and those old fossils, for example. Ah, sometimes we go years without meeting, and even then we find no shortage of things to quarrel about at our next reunion. Yet so deep runs our bond that no matter the physical distance between us, one will never feel alone and adrift in this world... One holds you in high esteem, child, and is pleased to count you as a friend. Do you also treasure the bond we share?
+
+### About the Vision
+
+Rex Lapis once said that a Vision is a call to duty — to act as a guardian, watching over humankind, and that whether we choose to withdraw into the mountains or embrace the clamor of the city, we must never shirk that duty. Now, the age of humankind is upon us, but one will continue to cherish this duty long into the future.
+
+### Something to Share
+
+That mechanical bird of mine is only a prototype. One had aspirations for a much larger model, hollow inside so that it could unfurl into a vehicle with which to embark on sight-seeing journeys with one's old friends... The challenges of powering and operating such a device, however, proved somewhat insurmountable. After all, it required pitch control, the ability to change form, not to mention the safety features... *sigh* If only Guizhong were still here. She, no doubt, would offer many baffling but ingenious solutions to this conundrum.
+
+### Interesting Things
+
+Mt. Aocang is an ideal place for spiritual cultivation. It possesses natural beauty beyond compare, and the pure, unalloyed essence of nature flows strong all around. Once upon a time, many curious birds and beasts would gather and watch as one meditated, and very soon the peace and tranquility would be replaced by a chaotic chorus of chirping and screeching... and yet, one never found it offended the ear.
+
+### About Ganyu
+
+One once asked Ganyu what she typically works on during her overtime hours. Her response was filled with hideous-sounding words, such as "meeting minutes," "summaries," "annual reports," "financial projections"... Hmph, were she not of qilin blood, and had one not taught to her the secrets of cultivating health, this avalanche of bureaucratic writ would have surely overwhelmed her... When you see her next, would you check that she's been drinking her Qingxin Infusion of Clear Sight on a daily basis?
+
+### About Shenhe
+
+Shenhe told me that once, when she was delivering an order for Wanmin Restaurant, she ran across the rooftops to save time. Her customer was terrified when she jumped down onto their doorstep, and was about to call for the Millelith... Fortunately, Shenhe disappeared as quickly as she arrived, leaving the food delivery behind and making haste before the customer had time to react. It seems she is growing more proficient at handling crises all the time — one could not be more pleased.
+
+### About Zhongli
+
+When Rex Lapis first heard of one's plan to take up residence in Liyue Harbor, he recited a long and detailed list of considerations for the furnishing and adornment of a home. Natural lighting, ventilation, bespoke woodwork, procuring porcelain, placement of plants and flowers... One's mind felt ready to explode from the deluge of information. Do all facets of life in the human world take so much effort?
+
+### About Xiao
+
+The Conqueror of Demons is even more withdrawn than oneself — he has been sighted a mere handful of times at social gatherings over the centuries... One was interested to learn that you are on rather good terms with him — what sort of conversations do the two of you tend to have? Oh, and do let me know when you next plan to see him. Perhaps one could make some tofu pudding for you to pass on to him.
+
+### About Hu Tao
+
+That young lady says the most bizarre-sounding things, yet she appears to be rather highly regarded by the staff of the Wangsheng Funeral Parlor — even Rex Lapis himself saw fit to serve under her in some sort of "consultancy" capacity... Allegedly, she is similarly peculiar when it comes to her taste in food. One must admit, one finds eccentrics like her rather intriguing.
+
+### About Xiangling
+
+One happened to mention the Supreme Cuisine Machine in conversation with Xiangling once, but one was rather taken aback when she responded by saying that a dish is inauthentic unless it is prepared by hand... Hmph, are one's devices not also the work of one's hands? Inauthentic indeed... A contest is in order! ...Although, her mastery of Liyue cuisine is indeed impressive... Yes — the contest shall have to wait until one has made a few improvements to the device...
+
+### About Ningguang
+
+The Tianquan conducts her business with great adroitness, and is meticulous in her speech. Hmph, one must admit that Liyue is thriving under the governance of the Qixing. One has been observing her closely in the hope of discovering her secret... Ahem, that was for your ears only — please do not relay it to her.
+
+### About Keqing
+
+Keqing is a thoughtful child. She visits me on behalf of the Qixing every festival without fail, and always brings a gift. With such a capable and considerate colleague by her side, perhaps one needn't worry too much about Ganyu...
+
+### About Yun Jin
+
+There are many Liyue operas adapted from stories about the adepti, including some based on one's own life and exploits... One has never watched those, of course — what could be more embarrassing than watching someone else play oneself on the stage? One would, however, be interested to evaluate how well Yun Jin did in her adaptation of Shenhe's story, when one has time to go and see it.
+
+### About Yaoyao
+
+Yaoyao once pinched my glasses from my face and tried them on for herself — she found it terribly entertaining, and couldn't stop giggling... Ah, children are able to find all sorts of ways to amuse themselves.
+
+### About Gaming
+
+One is very fond of Gaming. He is good-hearted and entertaining in conversation, but never grandiloquent. We first met when one was resting by a lake, and he very kindly shared some of his provisions with me. Later, he commented that one seemed to be a wise elder, worthier of respect than even the adepti themselves... Hehe, this wise elder will be sure to look out for him after that.
+
+### More about Xianyun: I
+
+You wish to know more about one's past? ...One doubts there would be much worth sharing — it's all ancient history by now. One is more interested to hear about your travels to the far-flung corners of the world... What forms do the gods and immortals of other nations take? Are there any of them as amenable to conversation as oneself? Let us brew some tea, and then you can tell me all about it.
+
+### More about Xianyun: II
+
+There was a time when many mortals longed to seek the guidance of the adepti. One knows not how they discovered the location of one's abode, but every other day or so, one would find people leaving offerings of food at the altar on Mt. Aocang... Hmph, why ever would mortals expect an adeptus to interrupt their meditation for the sake of ingesting a mortal meal? Most bemusing. Nevertheless, since their actions were heartfelt, one saw only fit to indulge in— Ahem, to embrace their offerings once they had departed.
+
+### More about Xianyun: III
+
+Then there were those who came right to one's doorstep, requesting to be taken on as disciples. One refused to grant them an audience, but they simply would not leave, and before long, Mt. Aocang had become something of a pilgrims' campsite... One promptly posted a sign outside the abode, decreeing that all would-be disciples must first present ninety-nine dishes over a period of as many days, each dish unique in its recipe and featuring the Qingxin as the main ingredient... Naturally, the crowd soon dispersed. Hmph, to master the adepti arts and the mechanical arts requires supreme talent and the utmost stillness of mind. Training would be a futile endeavor for those who cannot even persevere for a mere three months.
+
+### More about Xianyun: IV
+
+For all the wondrous feats that can be accomplished by one who has mastered the mechanical arts, one often uses it for purely recreational purposes. There was one year when it snowed heavily in Liyue, and Mt. Aocang was covered in several feet of snow. Seeing everyone cooped up in their abodes with nothing to do, one created a Snowdrift Mechanism for skiing on the mountains. One was having a tremendous time of it along with Guizhong and Streetward Rambler... until, of course, Moon Carver noticed as much and decided to join in. Moments later, he had managed to send the mechanism flying off the rails and plummeted deep into a snow bank. It took us hours to dig him out... Later, one introduced a great many safety features to the mechanism, to the point where it could be safely piloted by even a three-year-old child. Although this did entail a compromise on the top speed of the vehicle.
+
+### More about Xianyun: V
+
+One has read a great many works of popular literature since moving to Liyue Harbor. Those of the chivalric martial arts genre have proven the most entertaining, although the heroes within their pages are all works of the imagination. Would it not be even more compelling to tell the stories of the many such real-life figures with whom one is acquainted? It is a pity that one's disciples are so averse to one sharing the tales of their lives with other people... Perhaps you could relay more of the tales from your travels? One could adapt those into a novel instead.
+
+### Xianyun's Hobbies
+
+When idle and in need of diversion, basking in the winds that travel through the mountains always calms the mind.
+
+### Xianyun's Troubles
+
+Since moving to Liyue Harbor, one has had an endless procession of old friends and new arriving at one's doorstep, either to visit or to invite one out for meals. If this continues, one may soon be running short on Mora...
+
+### Favorite Food
+
+Eating together with friends always leaves a pleasant taste in the mouth, regardless of what food was consumed.
+
+### Least Favorite Food
+
+An adeptus devotes themselves to spiritual cultivation, to which end the delicacies of the mortal realm are not necessary. When one eats such things, it is not for nourishment, but to enjoy the flavor... So, if you prepare a dish and it does not taste exquisite even to yourself, you may spare yourself the courtesy of offering to share it with me — in fact, you might find you are better off leaving the cooking to me to begin with...
+
+### Receiving a Gift: I
+
+A paragon of both freshness and flavor... Tell me, for how long have you been surreptitiously studying one's culinary secrets?
+
+### Receiving a Gift: II
+
+The flavor is secondary — what matters is that you felt the inclination to cook for me at all. I commend your consideration.
+
+### Receiving a Gift: III
+
+One's supreme cuisine machine has been lying idle as of late. You are welcome to borrow it.
+
+### Birthday
+
+Here, open this wooden box. It's a miniature mechanical person for your recreational enjoyment. Try playing with it. Observe — if you clap the hands like this, the lotus petals open, the colored lights turn on one set at a time, and then a melody plays. It is that birthday tune that the young and hip of this generation enjoy so much. Certain to add a touch of merriment and levity to your birthday feast... Have a wonderful day.
+
+### Feelings About Ascension: Intro
+
+Given that one spends so much time indoors, it is rather nice to perform a little exercise once in a while.
+
+### Feelings About Ascension: Building Up
+
+Some of these adeptal arts one has not employed in many years... Inevitably, one is a little unpracticed.
+
+### Feelings About Ascension: Climax
+
+Dear me, that expectant look on your face... *sigh* Very well. One shall have to employ one's abilities to a fuller extent from now on.
+
+### Feelings About Ascension: Conclusion
+
+It is through our journey in this world that we gain experience. Power is not everything — the skills of communication are more important. If you have time, let us find a place with a pleasant view where we can admire the scenery, converse, slow down our pace, and simply enjoy being alive.
+
+### Elemental Skill: I
+
+Huh!
+
+### Elemental Skill: II
+
+Skyward!
+
+### Elemental Skill: III
+
+Scatter!
+
+### Elemental Burst: I
+
+Seize the skies.
+
+### Elemental Burst: II
+
+Make way for the adeptus!
+
+### Elemental Burst: III
+
+Stray clouds, converge.
+
+### Opening Treasure Chest: I
+
+These could be salvaged for parts.
+
+### Opening Treasure Chest: II
+
+What trinkets have we here? Present them for one's perusal.
+
+### Opening Treasure Chest: III
+
+Perhaps one should invent some form of "Curio Discernment Mechanism."
+
+### Low HP: I
+
+The audacity!
+
+### Low HP: II
+
+This one is no weakling.
+
+### Low HP: III
+
+One shall not back down!
+
+### Ally at Low HP: I
+
+Be wise to your limits.
+
+### Ally at Low HP: II
+
+You should've called on one.
+
+### Fallen: I
+
+Doesn't count... I hadn't eaten...
+
+### Fallen: II
+
+Fiddlesticks...
+
+### Fallen: III
+
+Wait, my mechanical masterwork...
+
+### Heavy Hit Taken: I
+
+Derivative.
+
+### Heavy Hit Taken: II
+
+Inconsequential.
+
+### Joining Party: I
+
+My contraptions are calibrated. We may now depart.
+
+### Joining Party: II
+
+I trust you have packed ample foodstuffs?
+
+### Joining Party: III
+
+One is fast on one's feet — try to keep pace.
+
+### About Zibai
+
+Zibai has made herself quite a regular visitor lately. She is certainly proficient in mathematics, but... *sigh* On one occasion, Yaoyao showed up to deliver some things from Ping, and Zibai took the opportunity to quiz her with a handful of math problems. Being the bright child that she is, Yaoyao answered them with no issue — much to the delight of Zibai, who then peppered the poor girl with even more math problems. One has never seen Yaoyao sweat so profusely... Goodness knows how much longer this would have continued had one not stepped in and changed the topic... *sigh* But Zibai still hasn't let it go. She insists that Yaoyao's mathematical gift must not be squandered and keeps asking one for her address so that she can deliver some worksheets to her... Hmph. The question is, should I tell her or not?
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+怎么，第一次看见本仙这般姿态，认不出来了？本仙漫无羁束，快意自在。想去哪里，想陪谁一同旅行，还不是本仙自己说了算。咳咳，鉴于本仙声名在外，人前，你还是唤本仙「闲云」就好。
+
+### 闲聊·机关术
+
+机关术奥妙无穷，并非三言两语能道明。但为什么每次都会把人聊困呢？
+
+### 闲聊·人间
+
+天下承平，万象更新，正是人间好时节啊。
+
+### 闲聊·趣闻
+
+既然无事，不妨来本仙家中坐坐，讲讲最近的趣闻吧。
+
+### 下雨的时候…
+
+如今人间风调雨顺，也就无须本仙呼风唤雨了。
+
+### 打雷的时候…
+
+哎哟，有点吵耳朵…
+
+### 阳光很好…
+
+视野不错，适合登高望远的好天气。哦，本仙不会丢下你一人飞走的。
+
+### 刮大风了…
+
+这风真是舒畅，不如为你贴些仙家符箓，随本仙飞上云霄如何？
+
+### 早上好…
+
+本仙早就醒了，闭着眼是在静心冥想，对修行有益，你也可以试试。
+
+### 中午好…
+
+嗯？看本仙做什么，今天不是轮到你准备午饭了吗？
+
+### 晚上好…
+
+找本仙去逛夜市？呵，那里有什么好逛的。想要什么稀奇玩意，本仙给你做一个就是了。
+
+### 晚安…
+
+本仙还精神着呢…看你倒是眼皮打架，快去休息吧。
+
+### 关于闲云自己·师徒
+
+本仙向来逍遥自在，无拘无束，徒弟们自然也有样学样，一个个的忙得没影，十天半月也没个信…本仙心中并无寂寞之情！嗯…若是出于关心，抽空去看看她们，应该不会添什么麻烦吧？
+
+### 关于闲云自己·烹饪
+
+虽然机关做菜不如人力精巧，但省下做饭的时间，就可以用去研制新的烹饪神机，新的机关又会节省更多时间…呵，如此循环下去，终有一日，本仙可以将世间美味尽收囊中。
+
+### 关于我们·旅伴
+
+为了今后出行便利，本仙特意飞到空中勘测地形，做了这个指路罗盘，怎么样，没见过做事如此周到的旅伴吧？你说你对附近地形很熟悉？呵…人的记忆总会有误差，等你迷路的时候，就会感谢本仙未雨绸缪了。
+
+### 关于我们·牵绊
+
+本仙虽不在意身外之物，亦深谙「牵绊」二字。这二字写起来容易，个中真意却难以言说。就像本仙与那些老家伙们，有时几年才相见一次，见了面也经常吵架斗嘴，但不论彼此身在何处，都不会有漂泊无依之感。你是本仙认可的人，自然也在本仙的朋友之列，不知道你是否和本仙一样珍惜这份「牵绊」呢？
+
+### 关于「神之眼」…
+
+帝君曾言，「神之眼」代表的是一份责任，无论隐于山林还是居于闹市，都不可忘记看护人间之责。从今以后是人的时代，本仙会心怀这份责任继续走下去。
+
+### 有什么想要分享…
+
+这机关鸟是个试作品，本仙想做只大鸟，中间镂空变成座驾，就能和那帮老友一起出去游山玩水了…但是动力和操作问题是个难事，既要能升降，还要能变形，还要兼顾必要的安全措施…哎，若是归终还在，她或许能想出不少异想天开的解决方案吧。
+
+### 感兴趣的见闻…
+
+奥藏山尽敛风华，蕴天地灵气，是适合修行的好地方。当初本仙在山中静思时，常有好奇的生灵前来张望，动辄叽叽喳喳、吵吵闹闹的…倒让人一点也不讨厌。
+
+### 关于甘雨…
+
+本仙问甘雨平时加班都在忙些什么，她说了一堆拗口的词，什么会议纪要、工作总结、年度报告、财务预算…哼，若非她的仙麟血脉，又有本仙传授的养生之法，可应付不来这些繁文缛节…你下次记得替本仙问她，有没有每天喝本仙研制的明目清心茶？
+
+### 关于申鹤…
+
+申鹤说她有一次给万民堂送外卖，为了节省时间，直接踩着屋顶过去，从屋顶跳到人家门口，把顾客吓了一跳，差点要喊千岩军…好在她来去如风，没等顾客喊出口，早已放下外卖消失不见了。申鹤这孩子处理危机的能力真是越来越强，本仙很是欣慰。
+
+### 关于钟离…
+
+帝君听说本仙要在璃月港置办住宅，便跟本仙细数家居装潢与家具购置的注意事项。采光通风、木材定制、瓷器选购、还有花卉摆放…本仙听得头都快大了，在人间居住竟要这般费心吗？
+
+### 关于魈…
+
+降魔大圣比本仙还安静，千百年的聚会，就没几次他愿意出面的。本仙倒是听说你和他交情不错，平时你都跟他聊些什么？要不然，下次你找他的时候，本仙做一份「豆腐布丁」让你带去吧。
+
+### 关于胡桃…
+
+那丫头年纪轻轻，说话稀奇古怪，但看「往生堂」的人却对她毕恭毕敬，连帝君都客气，还给她当那什么「客卿」…听说她对食物的品味也不同寻常，这号奇人，倒让本仙有些兴趣。
+
+### 关于香菱…
+
+本仙闲聊时跟她说起过机关烹饪神机的事，那丫头竟然说，做菜还是得亲自动手才地道…哼，本仙造机关也是亲自动手，怎么就不地道了？本仙可得跟她比比…不过她做的璃月菜肴确实风味极佳…待本仙想想怎么改进机关…
+
+### 关于凝光…
+
+这位「天权星」做起事还算八面玲珑，讲话也滴水不漏。哼，不得不说，璃月港在他们七星的治理下也算欣欣向荣。本仙也在细心观察，研究其中奥秘…咳，此事你知道即可，不要对她讲。
+
+### 关于刻晴…
+
+她逢年过节便会代表七星来拜访本仙，给本仙送来节日贺礼，真是个有心的孩子。看她做事干练，考虑又周全，甘雨与她共事，应该也不用本仙过于操心…
+
+### 关于云堇…
+
+「璃月戏」有不少以仙人传说为蓝本的故事，其中也有以本仙的经历改编的戏曲…本仙当然未曾看过，看别人在台上演自己，难道不会尴尬吗？至于她以申鹤的经历创作的戏，待本仙空闲，倒是可以去品鉴一番。
+
+### 关于瑶瑶…
+
+有一次，瑶瑶把我的眼镜借了过去，戴在了自己的鼻梁上，一个人乐呵呵地笑了半天…孩子啊，总能找到独属于孩子的乐趣。
+
+### 关于嘉明…
+
+嘉明这小伙为人热情，说话有趣，也从来不会夸夸其谈，本仙很是看重。说起最初和他相遇的时候，看到本仙在池边歇脚，他还主动拿出吃食与本仙分享呢。后来他说在他眼里，比起仙人，本仙更像是一位可敬的长辈。呵呵，那本仙自然也该以长辈的身份照顾他喽。
+
+### 想要了解闲云·其一
+
+想要知道本仙的过往？都是些陈年旧事，有什么好说的。倒是你四处游历，想必遇到不少趣事。其他国家的神仙是何样貌？可有哪位像本仙一样喜欢聊天？沏壶好茶，跟本仙细细说来。
+
+### 想要了解闲云·其二
+
+有段时间，璃月盛行寻仙问道之法，也不知道他们如何得知本仙的洞府所在，隔三岔五便有人在奥藏山设坛供奉食物…哼，本仙岂会因凡间美食扰了清修？不过是念在他们一片诚心，才不得已等到旁边没人的时候，略加品…咳，略加回应罢了。
+
+### 想要了解闲云·其三
+
+曾经也有其他人找到本仙的洞府，想要本仙收他们为徒。本仙闭门不见，他们便赖着不走，奥藏山都快成了露营公园…本仙便在洞府外贴了张便条，想要拜师者先想出清心的九十九种烹饪之法，每天做出一种…果然没有人能坚持下来。哼，无论是仙家术法还是机关造诣，都需资质极佳，心性极静之人方能领悟，如果连三个月也坚持不住，也就不必白费力气了。
+
+### 想要了解闲云·其四
+
+机关术虽有诸多神妙用途，但有时不过是本仙消磨时间的游乐产物。有一年璃月大雪，奥藏山积雪很深，本仙见众人终日待在洞府，无所事事，便造了个「追风滑雪神机」。削月那老家伙见本仙和归终、歌尘等人玩得起劲，也要加入，可他出师不利，第一次试滑便脱了轨道，连人带机关砸进了旁边的积雪里。我们铲了半天才将他挖出来…后来本仙特地给他在防护性上加固了不少，便是三岁稚子也能安稳操控，只是速度慢些罢了。
+
+### 想要了解闲云·其五
+
+本仙搬来璃月港之后，看了不少流行读物，其中一些侠义小说颇为有趣。若是将本仙认识的形形色色人物写进去，岂不比那些凭空想象的角色更为精彩？可惜本仙的徒弟们，似乎都不喜欢本仙跟其他人讲她们的故事…那不如就写你跟本仙聊过的旅途趣事如何？
+
+### 闲云的爱好…
+
+闲来无事，坐在山野之间吹吹罡风，总能让人平心静气。
+
+### 闲云的烦恼…
+
+自从本仙搬来璃月港，前来拜访、宴请本仙的新朋旧友一茬接一茬。如此往来，本仙手上的摩拉也未必够用…
+
+### 喜欢的食物…
+
+与好友一起吃饭，无论是何种菜肴，都令人回味无穷。
+
+### 讨厌的食物…
+
+仙人不会被人间俗物阻碍修为，比起食物的种类，本仙更在乎味道…要是你自己尝着都不够可口，就不要拿到本仙面前了。还不如本仙来下厨…
+
+### 收到赠礼·其一
+
+食材用得新鲜，口感也恰到好处。你偷学过本仙的烹饪技巧？
+
+### 收到赠礼·其二
+
+味道倒是其次，能想起请本仙吃饭，心意可嘉。
+
+### 收到赠礼·其三
+
+本仙的机关烹饪神机近来闲置了，可以借你一用。
+
+### 生日…
+
+来，打开这个木匣。这个机关小人是本仙闲暇时所做，你拿去玩吧。你看，只要像这样拍拍手，莲花的花瓣就会打开，彩灯一圈圈亮起，随后奏响的是小辈们最喜欢的生日快乐歌…这样办生日宴时，想必会平添几分热闹吧。祝你过得开心。
+
+### 突破的感受·起
+
+久居家中，偶尔出来活动筋骨倒也不错。
+
+### 突破的感受·承
+
+有些仙法多年不用，一朝拾起难免有些生疏。
+
+### 突破的感受·转
+
+唉，既然你露出这般期待的眼神，本仙也只好再拿出些本事了。
+
+### 突破的感受·合
+
+在世间行走多了便有经验。比起力量多寡，还是与人交往的技巧更为重要。若你有空，我们去找个风景开阔的地方，赏赏景、聊聊天，放慢脚步，好好享受享受生活吧。
+
+### 元素战技·其一
+
+喝！
+
+### 元素战技·其二
+
+御风！
+
+### 元素战技·其三
+
+云散！
+
+### 元素爆发·其一
+
+八风儛翮。
+
+### 元素爆发·其二
+
+仙人来哉！
+
+### 元素爆发·其三
+
+风汇，孤云与归。
+
+### 打开宝箱·其一
+
+能当零件用用。
+
+### 打开宝箱·其二
+
+什么稀奇玩意，让本仙看看。
+
+### 打开宝箱·其三
+
+本仙是不是该研发个…「奇物搜觅神机」？
+
+### 生命值低·其一
+
+大胆！
+
+### 生命值低·其二
+
+身法不错。
+
+### 生命值低·其三
+
+本仙奉陪到底。
+
+### 同伴生命值低·其一
+
+量力而行。
+
+### 同伴生命值低·其二
+
+怎么不叫本仙？
+
+### 倒下·其一
+
+肚子空着…这次不算…
+
+### 倒下·其二
+
+一着不慎…
+
+### 倒下·其三
+
+机关…还未使出…
+
+### 重受击·其一
+
+雕虫小技。
+
+### 重受击·其二
+
+不过如此。
+
+### 加入队伍·其一
+
+机关调试完毕，动身吧。
+
+### 加入队伍·其二
+
+吃食可备好了？
+
+### 加入队伍·其三
+
+本仙日行千里，你可别跟丢了。
+
+### 关于兹白…
+
+兹白倒是经常过来与我闲聊，在一些数理问题上，她颇有见地，不过…咳，有一次瑶瑶帮阿萍捎带东西过来时，兹白恰好在场，就顺嘴问了瑶瑶几个数理问题，那孩子聪慧，也就顺嘴答了，结果兹白欢喜得厉害，越问越多，我还是第一次看见瑶瑶这孩子满头大汗的样子，只好出声解围…唉，后来，兹白坚持瑶瑶有数理之才不能埋没，还问我她现住何处，要写套习题带给她，我…唉，我这是说，还是不说呢…

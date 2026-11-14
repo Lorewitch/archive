@@ -1,0 +1,41 @@
+{
+  "id": "item_101282",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/item_101282.webp",
+  "title": {
+    "ru": "Светящийся флюорит",
+    "en": "Lumifluorite",
+    "zh": "幽光萤石"
+  },
+  "region": "Снежная",
+  "rarity": 0,
+  "game_version": "7.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Необычный флюорит, сформировавшийся под воздействием сил Сферы теней.",
+    "en": "A strange fluorite formed under the influence of the powers of the Shadow Realm.",
+    "zh": "受影域的力量影响而产生的奇怪萤石。"
+  },
+  "description": {
+    "ru": "Необычный флюорит, сформировавшийся под воздействием сил Сферы теней.",
+    "en": "A strange fluorite formed under the influence of the powers of the Shadow Realm.",
+    "zh": "受影域的力量影响而产生的奇怪萤石。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "plant",
+  "item_type_title": {
+    "ru": "Растение",
+    "en": "Plant",
+    "zh": "植物"
+  }
+}

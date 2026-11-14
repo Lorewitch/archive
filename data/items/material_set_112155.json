@@ -1,0 +1,231 @@
+{
+  "id": "material_set_112155",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/item_112155.webp",
+  "title": {
+    "ru": "Опустевший корень жизни / Росток узла жизни / Свернувшееся ядро жизни",
+    "en": "Hollow Root of Life / Sprout Node of Life / Coiled Core of Life",
+    "zh": "灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+  },
+  "region": "Снежная",
+  "rarity": null,
+  "game_version": "7.0",
+  "tags": [
+    "материалы"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "juvenile_tree_segment",
+    "rugged_elder_leshy"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "juvenile_tree_segment",
+      "title": {
+        "ru": "Часть молодого дерева",
+        "en": "Juvenile Tree Segment",
+        "zh": "幼嫩的分节树"
+      },
+      "icon": "assets/icons/enemies/common_enemies/juvenile_tree_segment.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Леший, обитающий среди лесов и полей.\nСреди многочисленных альвов Снежной лешие - один из самых необычных народов, почти никогда не появляющийся в городах. Возможно, именно лешие живут дольше всех среди альвов, и очень немногие представители других долгоживущих народов становились свидетелями всей жизни лешего. Впрочем, большинству людей, вероятно, не под силу даже отличить одного лешего от другого.",
+        "en": "A Leshy that grows in forests and wilds.\nAmong the many fae of Snezhnaya, Leshies are a very unusual kind, rarely appearing in cities. They may well be the longest-lived among all fae, and few members of other long-lived races have ever witnessed a Leshy's life from beginning to end. Of course, most people would likely struggle even to distinguish one Leshy from another.",
+        "zh": "生长在林野之中的树妖。\n在至冬的诸多妖精中，树妖也是极为特殊的一种，它几乎很少出现在城市中。在诸多妖精之中，树妖或许是最为长寿的，很少有长生的其他种族见证过树妖的一生。不过大多数人可能连分辨树妖中的个体都做不到吧。"
+      },
+      "description": {
+        "ru": "Леший, обитающий среди лесов и полей.\nСреди многочисленных альвов Снежной лешие - один из самых необычных народов, почти никогда не появляющийся в городах. Возможно, именно лешие живут дольше всех среди альвов, и очень немногие представители других долгоживущих народов становились свидетелями всей жизни лешего. Впрочем, большинству людей, вероятно, не под силу даже отличить одного лешего от другого.",
+        "en": "A Leshy that grows in forests and wilds.\nAmong the many fae of Snezhnaya, Leshies are a very unusual kind, rarely appearing in cities. They may well be the longest-lived among all fae, and few members of other long-lived races have ever witnessed a Leshy's life from beginning to end. Of course, most people would likely struggle even to distinguish one Leshy from another.",
+        "zh": "生长在林野之中的树妖。\n在至冬的诸多妖精中，树妖也是极为特殊的一种，它几乎很少出现在城市中。在诸多妖精之中，树妖或许是最为长寿的，很少有长生的其他种族见证过树妖的一生。不过大多数人可能连分辨树妖中的个体都做不到吧。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112155",
+          "title": {
+            "ru": "Опустевший корень жизни / Росток узла жизни / Свернувшееся ядро жизни",
+            "en": "Hollow Root of Life / Sprout Node of Life / Coiled Core of Life",
+            "zh": "灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112155.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112155",
+              "title": {
+                "ru": "Опустевший корень жизни",
+                "en": "Hollow Root of Life",
+                "zh": "灵生空根"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112155.webp"
+            },
+            {
+              "key": "material_112156",
+              "title": {
+                "ru": "Росток узла жизни",
+                "en": "Sprout Node of Life",
+                "zh": "灵生分蘖节"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112156.webp"
+            },
+            {
+              "key": "material_112157",
+              "title": {
+                "ru": "Свернувшееся ядро жизни",
+                "en": "Coiled Core of Life",
+                "zh": "灵生盘枝心"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112157.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "rugged_elder_leshy",
+      "title": {
+        "ru": "Суровый леший-старейшина",
+        "en": "Rugged Elder Leshy",
+        "zh": "苍遒的木灵长"
+      },
+      "icon": "assets/icons/enemies/common_enemies/rugged_elder_leshy.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Леший, выросший среди лесов и полей.\nЭти лешие обладают лишь зачатками разума и не способны говорить. На первый взгляд они кажутся результатом ранних экспериментов мастеров Золотого царства. Однако всё было совсем наоборот: согласно записям, этот народ был создан лишь после того, как мастера почти полностью овладели властью над жизнью.\nВозможно, в этом скрыт смысл, который нынешним альвам и людям ещё не дано постичь.",
+        "en": "A Leshy that grows in forests and wilds.\nWith only fragmentary sentience and no ability to speak, Leshies may appear to be the result of the Golden Realm's early experiments. Yet according to records, the truth is the opposite. Only after its artisans had almost fully mastered the authority over life did they create this race of fae.\nPerhaps there is some true purpose within this that neither the fae nor humans of the present can fully understand.",
+        "zh": "生长在林野之中的树妖。\n只有残缺灵智亦无法开口的树妖，看上去就如同黄金国的工匠们早期实验的结果。但是恰恰相反，根据记载，他们在几乎已经完全掌握了生命的权能后，才造出了这一种族的妖精。\n或许其中包含着现在的妖精与人无法参透的真意吧。"
+      },
+      "description": {
+        "ru": "Леший, выросший среди лесов и полей.\nЭти лешие обладают лишь зачатками разума и не способны говорить. На первый взгляд они кажутся результатом ранних экспериментов мастеров Золотого царства. Однако всё было совсем наоборот: согласно записям, этот народ был создан лишь после того, как мастера почти полностью овладели властью над жизнью.\nВозможно, в этом скрыт смысл, который нынешним альвам и людям ещё не дано постичь.",
+        "en": "A Leshy that grows in forests and wilds.\nWith only fragmentary sentience and no ability to speak, Leshies may appear to be the result of the Golden Realm's early experiments. Yet according to records, the truth is the opposite. Only after its artisans had almost fully mastered the authority over life did they create this race of fae.\nPerhaps there is some true purpose within this that neither the fae nor humans of the present can fully understand.",
+        "zh": "生长在林野之中的树妖。\n只有残缺灵智亦无法开口的树妖，看上去就如同黄金国的工匠们早期实验的结果。但是恰恰相反，根据记载，他们在几乎已经完全掌握了生命的权能后，才造出了这一种族的妖精。\n或许其中包含着现在的妖精与人无法参透的真意吧。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112155",
+          "title": {
+            "ru": "Опустевший корень жизни / Росток узла жизни / Свернувшееся ядро жизни",
+            "en": "Hollow Root of Life / Sprout Node of Life / Coiled Core of Life",
+            "zh": "灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112155.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112155",
+              "title": {
+                "ru": "Опустевший корень жизни",
+                "en": "Hollow Root of Life",
+                "zh": "灵生空根"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112155.webp"
+            },
+            {
+              "key": "material_112156",
+              "title": {
+                "ru": "Росток узла жизни",
+                "en": "Sprout Node of Life",
+                "zh": "灵生分蘖节"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112156.webp"
+            },
+            {
+              "key": "material_112157",
+              "title": {
+                "ru": "Свернувшееся ядро жизни",
+                "en": "Coiled Core of Life",
+                "zh": "灵生盘枝心"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112157.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 2,
+  "item_group": "common_enemies",
+  "entry_type": "material_set",
+  "materials": [
+    {
+      "key": "material_112155",
+      "title": {
+        "ru": "Опустевший корень жизни",
+        "en": "Hollow Root of Life",
+        "zh": "灵生空根"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112155.webp",
+      "text": {
+        "ru": "Ветвь, сброшенная лешим перед возвращением в забвение.\nНа этой ветви выросло всего несколько кристаллов, поэтому она почти лишена силы и испускает лишь тусклое свечение.",
+        "en": "A branch dropped by a Leshy before it returned to silence.\nWith only a few crystals grown upon it, this branch holds little power and gives off a faint glow.",
+        "zh": "树妖在回归沉寂前掉落的枝节。\n没有生长出太多的晶石的枝节，力量微弱的枝节，散发着微弱的荧光。"
+      }
+    },
+    {
+      "key": "material_112156",
+      "title": {
+        "ru": "Росток узла жизни",
+        "en": "Sprout Node of Life",
+        "zh": "灵生分蘖节"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112156.webp",
+      "text": {
+        "ru": "Ветвь, сброшенная лешим перед возвращением в забвение.\nВетвь, покрытая множеством кристаллов. Она кажется тяжёлой, и даже после того, как отделилась от тела лешего, в ней всё ещё ощущаются следы жизненной силы.",
+        "en": "A branch dropped by a Leshy before it returned to silence.\nA branch bearing a fair number of crystals. It feels heavy in the hand, and traces of vitality can still be felt within it even after it has broken away from the Leshy's body.",
+        "zh": "树妖在回归沉寂前掉落的枝节。\n生长出一定晶石的枝节，沉甸甸的，能从中感受到离开树妖的主体后尚未消失的生命力。"
+      }
+    },
+    {
+      "key": "material_112157",
+      "title": {
+        "ru": "Свернувшееся ядро жизни",
+        "en": "Coiled Core of Life",
+        "zh": "灵生盘枝心"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112157.webp",
+      "text": {
+        "ru": "Ветвь, сброшенная лешим перед возвращением в забвение.\nВетвь с полностью сформировавшимся кристаллическим ядром. Жизненная сила в ней ещё долго не угаснет. Если зарыть её в землю, вскоре из неё, скорее всего, вырастет новый леший.",
+        "en": "A branch dropped by a Leshy before it returned to silence.\nA branch with a fully formed crystal core. It contains vitality that will not easily fade. If buried in the soil, it would likely grow into a new Leshy before long.",
+        "zh": "树妖在回归沉寂前掉落的枝节。\n完整生长出晶石核心的枝节，其中蕴含着不会轻易消失的生命力。如果现在将之埋在土地之中，恐怕很快就能生长出新的树妖吧。"
+      }
+    }
+  ],
+  "material_count": 3
+}

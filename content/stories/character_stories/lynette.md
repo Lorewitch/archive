@@ -662,3 +662,875 @@ A Vision, reflecting both the dawn sun and the twins' sleeping faces, hung at Ly
 「好好睡一觉吧。你们已经带回…更珍贵的战利品了。」
 
 一枚神之眼，倒映着晨曦与双子的睡颜，在琳妮特腰间静静闪烁。
+
+# voice_source_ids: 83000,83001,83002,83003,83004,83005,83006,83007,83008,83009,83010,83011,83012,83013,83014,83015,83016,83017,83018,83019,83020,83021,83022,83023,83024,83025,83026,83027,83028,83029,83030,83031,83032,83033,83034,83035,83036,83037,83038,83039,83040,83041,83042,83043,83044,83045,83046,83047,83048,83049,83050,83051,83052,83053,83054,83055,83056,83057,83058,83059,83060,83061,83062,83063,83064,83065,83066,83067,83068,83069,83070,83071
+
+## REPLICAS_RU
+
+### Привет...
+
+Рада познакомиться. Я ассистентка Лини. По всем рабочим вопросам лучше сразу обращаться к нему. Если же тебе необходима информация о посещении магического шоу, её можно получить в кассе. Ты хочешь просто поговорить со мной? Тогда переходи к делу.
+
+### Поболтаем: Чай
+
+Чай готов, пора немного отдохнуть.
+
+### Поболтаем: Старший брат
+
+Кажется, Лини опять говорит что-то странное... Это внушает беспокойство.
+
+### Поболтаем: Отключение
+
+Перехожу в режим ожидания... Надеюсь, никто не будет меня беспокоить.
+
+### Когда идёт дождь...
+
+Дождливые дни как нельзя лучше подходят, чтобы отключиться от внешних воздействий...
+
+### После дождя...
+
+Небо стало ясным? Как жаль.
+
+### Когда гремит гром...
+
+Ох... Ушам больно.
+
+### Когда идёт снег...
+
+Так холодно... Давай спрячем тебя в шляпе!
+
+### Когда светит солнце...
+
+Нет ничего нового под солнцем... Это правда?
+
+### Когда дует сильный ветер...
+
+Что это за запах принёс ветер?.. Нет, показалось.
+
+### Доброе утро...
+
+Доброе утро... Моя подзарядка не закончена, подремлю ещё.
+
+### Добрый день...
+
+Обычно перед работой я выпиваю чашку чая. Это не только поднимает мне настроение, но и помогает оставаться бодрой.
+
+### Добрый вечер...
+
+Когда заходит солнце, тайные страсти в сердцах людей находят выход... Я хочу сказать, вечерние представления очень увлекательны. Забронировать тебе билет?
+
+### Спокойной ночи...
+
+Ступай спать, мне ещё нужно кое-что закончить... (Например, починить пылесос, который я сломала.)
+
+### О Линетт: Магия
+
+Во время наших представлений я обычно выступаю в роли ассистентки Лини. Поскольку я всегда молчу и никогда не меняю выражения лица, люди часто принимают меня за волшебную куклу... Благодаря этому мне удаётся избегать ненужных социальных взаимодействий, так что я вполне довольна.
+
+### О Линетт: Сбор информации
+
+Молчание помогает удерживать концентрацию, что очень полезно для сбора информации. Как-то во время представления один важный зритель достал из кармана носовой платок, явно не принадлежащий его супруге... Как именно используется информация... зависит от воли Отца.
+
+### О нас: Готовность выслушать
+
+Я не привыкла активно выражать себя, зато считаю, что я хороший слушатель. Обращайся ко мне, если что-то омрачит твоё настроение. Я не выдам твои секреты.
+
+### О нас: Интересы
+
+Раньше мне казалось, что золотое солнце и тени ночи никогда не смогут понять друг друга. Но в тебе я вижу некую странную сложность, которая пробуждает во мне ненужное любопытство... Придётся внимательно за тобой следить.
+
+### Глаз Бога...
+
+Я предпочитаю использовать не воинское искусство, а наблюдательность, благодаря которой можно как следует оценить ситуацию и найти подходящее решение. Но, когда обладаешь грубой силой, в твоём распоряжении куда больше карт, которые ты можешь разыграть, чтобы защитить важных для тебя людей.
+
+### Давай поделимся...
+
+Может показаться, что заваривать чай легко, но на самом деле это не так. Качество чайных листьев, температура воды, количество завариваний... Только когда каждый из этих факторов оптимально подобран, можно заварить по-настоящему вкусный чай. Хочешь чашечку?
+
+### Интересные вещи...
+
+Животные тоже могут выражать чувства. Если внимательно прислушаться, можно понять, как они себя ощущают. Котёнок, когда произносит «Мяу!», чувствует себя гораздо лучше, чем если пищит «Мяу-мяу-мяу!», а значит, можно его погладить, и он никуда не убежит.
+
+### О Лини: Понимание без слов
+
+Мы с Лини всегда вместе, так что без слов можем понять мысли друг друга. Из-за этого, когда мы вдвоём, он ведет себя тише обычного. А? Могу ли я определить, лжёт он или говорит правду? Конечно. Но это строго секретная информация.
+
+### О Лини: Тревоги
+
+Лини обычно очень уверен в себе и всё делает с невероятной лёгкостью... Или, по крайней мере, он хочет, чтобы все так думали. Поэтому, когда он сталкивается с трудностями, то всегда хочет разобраться с ними в одиночку... Если такое случится, пожалуйста, позаботься о нём как следует.
+
+### О Фремине...
+
+Он нежный и мягкий мальчик и часто скромничает... Возможно, это связано с его прошлым. Иногда он кажется противоположностью Лини... Но поскольку они оба члены моей семьи, когда их мнения не совпадают, я берусь сгладить их разногласия.
+
+### Об «Отце»
+
+Выражение любви «Отца»... Не каждый может такое принять. Но только благодаря «Отцу» наш дом можно считать домом.
+
+### О Нёвиллете...
+
+Верховный судья всегда производит на меня странное впечатление: он кажется отстранённым, хотя слова его звучат приветливо... Может, ему просто не нравится общаться с людьми? А вот с мелюзинами он очень сердечен.
+
+### О Фурине...
+
+Поведение госпожи Фурины трудно разгадать, из наблюдений за ней я не могу извлечь никакой информации. У меня такое чувство, что каждое её действие - спектакль, причём она всё время играет разных людей... Всё-таки она Архонт, к ней неприменима логика простых людей.
+
+### О Навии...
+
+Она, конечно, новый президент Спина-ди-Росула, но больше похожа на живущую по соседству сестрицу, которой до всего есть дело. Как было бы хорошо, если бы в нашем доме была такая старшая сестра... Ох, я знаю, нельзя желать кому-то стать сиротой, но...
+
+### О Клоринде...
+
+Мне однажды приказали следить за её дуэлью. Даже в роли сторонней наблюдательницы я ощутила исходящий от неё пугающий холод... Каково же тогда встретиться с ней в поединке? Я не знаю и надеюсь, что не узнаю никогда.
+
+### О Тиори...
+
+Наши с Лини костюмы для выступлений сшиты Тиори по специальному заказу. Как-то Лини во время исполнения трюка с ножом случайно порезал обшлаг рукава. Тиори потом так ругалась... Просто ужас. К счастью, когда мы к ней приходим, я всегда могу спрятаться за Лини.
+
+### О Шарлотте...
+
+Ох... Она несколько раз пыталась взять у меня интервью. То, как настойчиво она продолжала расспросы после отказа Лини, достойно уважения. Но, к её сожалению, сколько бы она ни готовила вопросы, я так и не ответила ни на один.
+
+### Об Эмилии...
+
+Её парфюмерная продукция настолько популярна, что если хочешь успеть хоть что-то купить, нужно занимать очередь ещё до рассвета. Но я слишком чувствительна к запаху духов, а стоять там и чихать было бы невежливо... Так что мне приходится обходить её лавку стороной.
+
+### Узнать больше о Линетт I
+
+Если объяснить суть фокуса, то всё очарование представления потеряется. Отношения устроены так же. Если хочешь понять меня получше, почему бы тебе не узнавать обо мне понемногу, постепенно собирая полную картину?
+
+### Узнать больше о Линетт II
+
+Люди - сложные существа. Даже ненамеренно, они всё равно бессознательно скрывают свою истинную сущность. Хотя я всегда могу заметить несколько «лишних» деталей, но без необходимости не буду срывать чужих масок.
+
+### Узнать больше о Линетт III
+
+Когда-то мы устраивали шоу, чтобы заработать на жизнь, но сейчас это скорее удобный способ завоевать определённое положение в обществе. Благодаря магическим представлениям мы вхожи в самые разные места в городе и можем служить «глазами» нашего дома.
+
+### Узнать больше о Линетт IV
+
+До того как мы с Лини обрели новый дом, нам пришлось немало поскитаться по улицам. Мы пережили немало трудностей и опасностей... Тогда-то у меня и появилась привычка отмечать любые признаки подступающей угрозы. Так я постепенно научилась понимать, о чём люди думают. Хорошо, что теперь у нас есть безопасное пристанище.
+
+### Узнать больше о Линетт V
+
+Когда строишь с кем-то отношения, это похоже на азартную игру. Ты можешь накопить множество информации, но всё равно трудно предсказать, как именно человек изменится. Я привыкла держаться от других на расстоянии, но с тобой... я готова рискнуть проиграть ставку.
+
+### Хобби Линетт...
+
+Психическое состояние человека подобно тетиве. Если она постоянно находится в сильном напряжении, то в любой момент может оборваться. Поэтому вне работы я стараюсь расслабляться: заваривать чай, кормить кошек и просто отдыхать. Чем спокойнее человек, тем легче ему справляться с трудностями, когда они возникают.
+
+### Беспокойство Линетт...
+
+Я плохо управляюсь с техникой. Стоит мне чуть отвлечься, сразу всё идёт не так. Как-то я сломала сушилку в дождливый день... Хорошо, что Фремине отлично умеет всё чинить.
+
+### Любимая еда...
+
+Открыть раковину, полить мясо моллюска лимонным соком... Даже тарелка не нужна. Идеально.
+
+### Нелюбимая еда...
+
+В еде не должно быть слишком много приправ. Хорошая еда сохраняет первоначальный вкус ингредиентов.
+
+### Подарок I
+
+Как вкусно. Я уже запомнила рецепт.
+
+### Подарок II
+
+Спасибо за заботу.
+
+### Подарок III
+
+Может, стоит изменить количество приправ?
+
+### День рождения...
+
+С днём рождения! Позволь мне вручить тебе эту карточку... Ну конечно, на ней ничего не написано, это же не поздравительная открытка. Напиши на карточке, какой подарок ты хочешь получить, положи карточку в мою шляпу - и ты непременно получишь желаемое.
+
+### Чувство возвышения: Начало
+
+Моё восприятие обострилось.
+
+### Чувство возвышения: Нарастание
+
+Скорость обработки информации... увеличилась.
+
+### Чувство возвышения: Кульминация
+
+Теперь я знаю необходимые условия для победы.
+
+### Чувство возвышения: Окончание
+
+Никогда бы не подумала, что могу стать такой сильной... Похоже, теперь мне не нужно больше прятаться за тобой.
+
+### Элементальный навык I
+
+Сделайте шаг.
+
+### Элементальный навык II
+
+Сюда.
+
+### Элементальный навык III
+
+Сюрприз!
+
+### Взрыв стихии I
+
+Пусть начнётся магия!
+
+### Взрыв стихии II
+
+Включите софиты!
+
+### Взрыв стихии III
+
+Удивляйтесь!
+
+### Открытие сундука I
+
+Запах сокровищ.
+
+### Открытие сундука II
+
+Как я и ожидала.
+
+### Открытие сундука III
+
+Проще простого!
+
+### Низкий уровень HP I
+
+Спокойно.
+
+### Низкий уровень HP II
+
+Нужно сосредоточиться.
+
+### Низкий уровень HP III
+
+Перехожу в режим битвы...
+
+### Низкий уровень HP компаньона I
+
+Время поклона!
+
+### Низкий уровень HP компаньона II
+
+Принимаю огонь на себя!
+
+### Без сознания I
+
+Что... я упустила...
+
+### Без сознания II
+
+Мой фокус разгадали...
+
+### Без сознания III
+
+Лини...
+
+### Получен лёгкий удар I
+
+Жить буду!
+
+### Получен тяжёлый удар I
+
+Ах, не смогла увернуться.
+
+### Присоединяется к группе I
+
+Не пора ли устроить магическое шоу?
+
+### Присоединяется к группе II
+
+Время пить чай.
+
+### Присоединяется к группе III
+
+Веди.
+
+### Об Эскофье...
+
+Хм... Я видела, как она радостно размахивала хвостом. Наверное, довольна новым десертом, который придумала. С нетерпением жду возможности его попробовать на следующем чаепитии...
+
+## REPLICAS_EN
+
+### Hello
+
+Pleased to make your acquaintance. I am Lyney's magic assistant, and if you have work-related inquiries, please ask Lyney. If you have questions related to seeing a magic show, please ask the ticket office. You want to talk to me? ...Then get to the point.
+
+### Chat: Drinking Tea
+
+Tea is ready, now it's time for a short rest.
+
+### Chat: Older Brother
+
+Seems Lyney is saying some strange things again... it's really worrying.
+
+### Chat: Spacing Out
+
+Entering Standby Mode... I hope nobody disturbs me.
+
+### When It Rains
+
+Rainy days are perfect for spacing out...
+
+### After the Rain
+
+The skies have cleared? What a pity.
+
+### When Thunder Strikes
+
+Ow... that hurts my ears.
+
+### When It Snows
+
+So cold... let's hide you in a hat!
+
+### When the Sun Is Out
+
+There is nothing new under the sun... Is that really true?
+
+### When the Wind Is Blowing
+
+*sniff* What's that on the breeze? ...Nope, it's nothing.
+
+### Good Morning
+
+Good morning... Not fully recharged. Now snoozing again.
+
+### Good Afternoon
+
+I usually drink a cup of tea before work. Not only does it change my mood, but also helps me stay alert.
+
+### Good Evening
+
+After the sun goes down, the desires hidden in people's hearts will rise to the surface... I mean, evening shows are spectacular. Should I reserve a ticket for you?
+
+### Good Night
+
+Go to sleep, I still have some loose ends to tie up from work today... (I still have to fix the vacuum cleaner I broke.)
+
+### About Lynette: Magic
+
+During our shows, I'm usually Lyney's assistant. Because I never speak or change expressions, people often mistake me for a puppet... this kind of misunderstanding can prevent unnecessary social interactions, so it's actually quite nice.
+
+### About Lynette: Intelligence Reports
+
+Staying silent is beneficial for maintaining focus and gathering intelligence. Once, a VIP audience member at our show took out a handkerchief that didn't belong to his wife... as for how such information is used, now... that depends on what "Father" wants.
+
+### About Us: Listening
+
+I'm not accustomed to expressing myself, but I consider myself a good listener. If you have any troubles, come find me. I'll guard your secrets.
+
+### About Us: Interests
+
+I used to think that the golden sun and dark shadows of the night could never understand one another. But in you, I see a kind of strange complexity that has needlessly piqued my curiosity... I'll have to keep a close eye on you.
+
+### About the Vision
+
+I prefer to use my eyes to understand the situation and find an appropriate solution, as opposed to using martial prowess. But having brute force as an option greatly increases the potential cards at your disposal, and enables you to protect those most important to you in a crisis.
+
+### Something to Share
+
+Making tea looks simple on the surface, but it is actually quite complex. The quality of the tea leaves, the temperature of the water, the number of times to add water... Only when every variable is properly controlled can tea of the purest taste be brewed. Would you like a cup?
+
+### Interesting Things
+
+Animals can also express their feelings. If you listen carefully, you can tell what state they are in. For a kitty, "Meow~" means they are much happier than "Meow meow meow!", and in that situation, you can pet them as much as you want and they won't run away.
+
+### About Lyney: Unspoken Understanding
+
+I have always been together with Lyney, and we can tell what the other is thinking without speaking. Thus, he tends to be more quiet than normal when we are alone. Hmm? Can I tell when he's lying or telling the truth? Of course I can, but this matter is top secret.
+
+### About Lyney: Worries
+
+Lyney is normally quite confident, and does everything with incredible ease... or at least, that's how he wants everyone else to see him. So when he runs into difficulties, he always wants to solve everything perfectly on his own... if this happens, please be sure to take good care of him.
+
+### About Freminet
+
+He is a delicate and gentle child, but also tends to belittle himself... perhaps due to his previous experiences. Sometimes he feels like the antithesis of Lyney... but since they're both family, when their opinions clash, I will bridge their differences.
+
+### About "Father"
+
+Oh, how "Father" expresses love... well, not everyone can accept it. But it is only because of "Father" that home... can be called home.
+
+### About Neuvillette
+
+The Chief Justice always feels strangely aloof, though his words are always humble... or perhaps he just doesn't like dealing with humans? After all, when he speaks with Melusines, he's actually quite friendly.
+
+### About Furina
+
+Lady Furina's behavior is incredibly hard to explain, and I can't discern any useful intelligence from observing her. I always feel like her every move and action is an act, and she is playing different people... She truly is an Archon, one cannot apply the logic of ordinary humans to her.
+
+### About Navia
+
+Though she's the new president of Spina di Rosula, her style is more like the nosy big sister next door. If we really had a sister like her in the "House of the Hearth," that would be really great... I know I probably shouldn't be wishing for anyone to be an orphan, but...
+
+### About Clorinde
+
+I was once ordered to observe a duel of hers. Even just as a bystander, the coldness radiating from her was absolutely chilling... I don't know what it would be like to face her directly in a duel, and I hope I will never find out.
+
+### About Chiori
+
+The costumes Lyney and I wear for performances were specially tailored by Chiori. Once, Lyney was using a small knife for a magic trick, and accidentally cut the cuff of his sleeve a bit. She scolded us nonstop... it was scary. Luckily, I can hide behind Lyney whenever we go to her shop.
+
+### About Charlotte
+
+Uh... I was eventually cornered by her for interviews a few times. The way she persistently asked even after Lyney rejected her all those times, I really have to commend her perseverance. Too bad for her, though... despite preparing all those questions, I never answered a single one.
+
+### About Emilie
+
+Her perfume products are so popular that you have to get in line before the break of dawn to have a chance at snapping any up. However, I'm far too sensitive to the smell of perfume, and it's really rude to sneeze... so I have to take the long way around.
+
+### More About Lynette: I
+
+If you explain a magic trick, then the allure of the performance is lost. Personal relationships are the same. If you want to understand me, why not learn a bit at a time, and gradually piece together a complete picture?
+
+### More About Lynette: II
+
+Humans are complicated creatures. Even when they are not doing so intentionally, they will still unconsciously hide their true selves. Though I can always notice a few "redundant" details, I won't expose their facades when it isn't necessary.
+
+### More About Lynette: III
+
+Magic shows were once our livelihood, but now they are more of a convenient identity to present to society. In the name of magic performances, we can easily gain more access throughout the city, and be the "eyes" of our House.
+
+### More About Lynette: IV
+
+Before Lyney and I came to our new home, we were constantly adrift on the streets. We experienced many hardships and dangerous situations... It was then that I developed the habit of paying attention to any sign of danger, and also gradually learned to understand what others were thinking. Fortunately, we now have a safe place to live.
+
+### More About Lynette: V
+
+Building a relationship with someone is like gambling. No matter how much information you have, it's hard to predict how other people might change. I've always had the habit of keeping a safe distance from others, but in your case... I'm willing to shoulder the risk of losing a bet.
+
+### Lynette's Hobbies
+
+A person's mental state is like a bowstring. If it's constantly under high tension, it will be at risk of suddenly snapping. So outside of work, I prefer to do things that relax my brain, like making tea, feeding cats, and just zoning out. The calmer one normally is, the easier it is to deal with crises when they do pop up.
+
+### Lynette's Troubles
+
+I tend to have difficulties operating any kind of machinery. As soon as I stop paying attention, all kinds of things start to go wrong. Once, I even broke the dryer on a rainy day... At least Freminet is good at fixing things.
+
+### Favorite Food
+
+Pry open the shells, squeeze a bit of lemon juice onto the fresh shellfish... no plate necessary. Perfection.
+
+### Least Favorite Food
+
+Dishes should not be over-seasoned. Good food preserves the original taste of the ingredients.
+
+### Receiving a Gift: I
+
+Delicious. I've already memorized the recipe.
+
+### Receiving a Gift: II
+
+Thank you for your generosity.
+
+### Receiving a Gift: III
+
+Perhaps you could reconsider the spice ratio a bit?
+
+### Birthday
+
+Happy Birthday! Let me give you this card... it's not a greeting card, so of course nothing's written on it. Write down what kind of present you want, place it in my hat, and no matter what it might be, you'll get it.
+
+### Feelings About Ascension: Intro
+
+My perception has been heightened.
+
+### Feelings About Ascension: Building Up
+
+My processing speed... has become even faster.
+
+### Feelings About Ascension: Climax
+
+I can see the conditions for victory now.
+
+### Feelings About Ascension: Conclusion
+
+I never imagined I could become this powerful... looks like I won't need to hide behind you anymore.
+
+### Elemental Skill: I
+
+Step on up!
+
+### Elemental Skill: II
+
+Over here.
+
+### Elemental Skill: III
+
+Surprise!
+
+### Elemental Burst: I
+
+Let the magic begin!
+
+### Elemental Burst: II
+
+Cue the spotlight!
+
+### Elemental Burst: III
+
+Be amazed!
+
+### Opening Treasure Chest: I
+
+The scent of treasure.
+
+### Opening Treasure Chest: II
+
+Just as I expected.
+
+### Opening Treasure Chest: III
+
+Piece of cake!
+
+### Low HP: I
+
+Stay calm.
+
+### Low HP: II
+
+I need to focus.
+
+### Low HP: III
+
+Entering Combat Mode...
+
+### Ally at Low HP: I
+
+Take a bow!
+
+### Ally at Low HP: II
+
+Let me take the heat!
+
+### Fallen: I
+
+What detail... did I miss...
+
+### Fallen: II
+
+Saw through... my trick...
+
+### Fallen: III
+
+Lyney...
+
+### Light Hit Taken: I
+
+I'll live!
+
+### Heavy Hit Taken: I
+
+Ah, didn't quite dodge it.
+
+### Joining Party: I
+
+Is it time for a magic show?
+
+### Joining Party: II
+
+Time for afternoon tea.
+
+### Joining Party: III
+
+You lead the way.
+
+### About Escoffier
+
+Hmm... I saw her tail wagging today. Must mean the new confection she came up with is a keeper. I'm looking forward trying it at the next tea party.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+初次见面，我是林尼的魔术助手，工作事宜请咨询林尼。观看演出请咨询售票处。找我？…请长话短说。
+
+### 闲聊·喝茶
+
+茶泡好了，接下来可以休息一会儿了。
+
+### 闲聊·哥哥
+
+林尼好像又在说什么奇怪的话了…真让人放心不下。
+
+### 闲聊·发呆
+
+进入待机模式…希望不要有人来打扰我。
+
+### 下雨的时候…
+
+雨天适合发呆…
+
+### 雨过天晴…
+
+这就天晴了，可惜。
+
+### 打雷的时候…
+
+唔…耳朵疼。
+
+### 下雪的时候…
+
+冷…把你藏到帽子里吧。
+
+### 阳光很好…
+
+太阳底下没有新鲜事…真是这样吗？
+
+### 刮大风了…
+
+风里传来的气息…不，没什么。
+
+### 早上好…
+
+早安…充能尚未完成，即将再次休眠。
+
+### 中午好…
+
+我习惯工作之前喝一杯茶，能转换心情，也能保持清醒。
+
+### 晚上好…
+
+太阳下山之后，人们内心潜藏的欲望，就会浮上水面…我是说，晚上的演出会很精彩。要给你留票吗？
+
+### 晚安…
+
+快睡吧，我还要处理白天没做完的事情…（还要把弄坏的吸尘器修好。）
+
+### 关于琳妮特自己·魔术
+
+表演的时候，我一般担任林尼的助手，因为一直不说话也不做表情，有人以为我是魔术人偶…这种误解能避免不必要的交际，倒也不错。
+
+### 关于琳妮特自己·情报
+
+沉默有助于集中精神，看清有用情报。曾经来看演出的某位贵客，掏出了不属于他太太的手帕…至于情报的具体用途，嗯…就看那位大人的意思了。
+
+### 关于我们·倾听
+
+我不习惯主动表达，但应该算是个不错的听众。如果有什么烦恼，就来找我吧。我会为你保密。
+
+### 关于我们·兴趣
+
+我曾经以为，金色的「太阳」和夜色的「暗影」，是无法互相理解的，可你身上有着奇特的复杂性，让我产生了不必要的好奇心…今后也让我继续观察你吧。
+
+### 关于「神之眼」…
+
+比起武力，我更喜欢用自己的眼睛掌握现状，找到合适的解决方法。不过，拥有力量就会拥有更多底牌，就能在危急情况下保护重要的人。
+
+### 有什么想要分享…
+
+泡茶是一件看似简单实则费心的事情，茶叶的品质、茶水的温度、冲泡的次数，只有所有的变量都控制恰当，才能泡出味道最纯正的茶。要来一杯吗？
+
+### 感兴趣的见闻…
+
+小动物们也会表达自己的情绪，如果仔细聆听的话就会知道它们现在的状态。对于小猫来说，「喵~」比起「喵喵喵！」，前者心情更好，这时候不管怎么摸它都不会逃走哦。
+
+### 关于林尼·默契
+
+我和林尼一直都待在一起，我们即使不开口也能明白对方的想法，所以单独相处时，他会比平时要安静。你问我他说的哪些是真话，哪些是假话？其实我都知道，但这是最高保密事项。
+
+### 关于林尼·担忧
+
+林尼平时总是自信不疑，做起事来游刃有余，或者说，他让所有人都以为他一直如此，所以在遇到麻烦的时候，他也总会想要一个人完美地解决…如果遇到这种情况，还请多多关照他吧。
+
+### 关于菲米尼…
+
+他是个细腻温柔的孩子，却有些喜欢妄自菲薄…或许是和之前的经历有关吧。有时候他给我的感觉就像是林尼的反面…既然两边都是我的家人，意见不合时，我会负责弥合分歧。
+
+### 关于「父亲」…
+
+「父亲」表达爱意的方式…不一定能被每个人接受，但就是因为有「父亲」在，家…才得以为家。
+
+### 关于那维莱特…
+
+最高审判官总给我一种奇怪的疏离感，明明言行谈吐都很谦和…还是说，他也不怎么喜欢跟人打交道呢？不过他和美露莘们说话的时候，倒是很亲切。
+
+### 关于芙宁娜…
+
+芙宁娜大人的行为太难解读了，也观察不出什么有用的情报，总觉得她一举一动像是在扮演不同的人…不愧是神明，不能用普通人的角度来揣测。
+
+### 关于娜维娅…
+
+虽然是「刺玫会」的新会长，作风却像邻居家爱管闲事的大姐姐呢。要是「家」里真有这么一位姐姐就好了…啊，这话好像不太合适…
+
+### 关于克洛琳德…
+
+我曾经奉命观摩过她的决斗，仅仅是从旁观察，就能感觉到令人害怕的寒意…真不知道在决斗场上直面她会是什么感觉…嗯，希望这辈子都不要知道。
+
+### 关于千织…
+
+我跟林尼的演出服都是请她定制的。有一次林尼用小刀表演魔术，不小心划到了袖口，后来被她数落了好久…真可怕。幸好每次去她店里，都可以躲到林尼背后。
+
+### 关于夏洛蒂…
+
+呃…我后来也被她抓着采访过几次。明明被林尼拒绝了那么多次，真是毅力可嘉…可惜她准备了这么多问题，我一个也没回答。
+
+### 关于艾梅莉埃…
+
+这位香水设计师小姐的作品热门到需要凌晨排队抢购。但我对香水的味道太敏感，打出喷嚏来就太失礼了…所以只能绕着走。
+
+### 想要了解琳妮特·其一
+
+如果要解释魔术，就会失去看表演的乐趣，人际关系也是这样，想了解我的话，不妨一点点收集信息，拼凑答案吧。
+
+### 想要了解琳妮特·其二
+
+人是很复杂的生物，即便不是有意欺瞒，也会不自觉地隐藏自己的真实一面。虽然我总能注意到一些「多余」的细节，但除非必要情况，我不会拆穿别人的伪装。
+
+### 想要了解琳妮特·其三
+
+魔术曾经是我和林尼的谋生手段，现在更多是一种便利的社会身份，以魔术表演的名义，我们就能融入这座城市，成为家的「眼睛」。
+
+### 想要了解琳妮特·其四
+
+在来到新家之前，我和林尼一直到处流浪，经历了许多艰难和危险的状况。从那时起，我便习惯时刻注意一切危险的迹象，也逐渐学会解读他人的所思所想。好在，如今我们拥有了一个安身之所。
+
+### 想要了解琳妮特·其五
+
+建立人际关系是一种赌局，无论掌握多少信息，都难以预测人心的变化。一直以来我习惯待在安全的距离，但如果是你的话…我愿意承担输掉的风险。
+
+### 琳妮特的爱好…
+
+人的精神和弓弦一样，如果一直绷得太紧，就会有断裂的风险。所以在工作之外，我会做一些能放松神经的事情，比如泡茶、喂猫、发呆。平时心情越是平静，就越能应对将来的危险。
+
+### 琳妮特的烦恼…
+
+我不是很习惯操作机械，一旦不注意就会出现意外状况，有一次在雨天搞坏了烘干机…还好菲米尼很擅长修理东西。
+
+### 喜欢的食物…
+
+撬开贝壳，在新鲜贝肉上挤点柠檬汁，连餐盘都不需要了。完美。
+
+### 讨厌的食物…
+
+调料过重的食物，不行。食材就是要保留原始的口味才好。
+
+### 收到赠礼·其一
+
+好吃，配方我已经记下来了。
+
+### 收到赠礼·其二
+
+谢谢招待。
+
+### 收到赠礼·其三
+
+调料的比例，再斟酌一下吧？
+
+### 生日…
+
+生日快乐！卡片给你…这不是贺卡，当然没写东西了。写下你想要的礼物，放进我的帽子里，不管是什么，都会为你准备的。
+
+### 突破的感受·起
+
+感知更敏锐了。
+
+### 突破的感受·承
+
+思考速度…继续上升。
+
+### 突破的感受·转
+
+看到了，胜利的条件。
+
+### 突破的感受·合
+
+我竟然能获得这样的力量…这样我也能站在你的身前了吧。
+
+### 元素战技·其一
+
+一点把戏。
+
+### 元素战技·其二
+
+在这里。
+
+### 元素战技·其三
+
+惊喜。
+
+### 元素爆发·其一
+
+魔术开场。
+
+### 元素爆发·其二
+
+来点灯光。
+
+### 元素爆发·其三
+
+请看这边。
+
+### 打开宝箱·其一
+
+宝物的气息。
+
+### 打开宝箱·其二
+
+不出所料。
+
+### 打开宝箱·其三
+
+轻松到手。
+
+### 生命值低·其一
+
+保持冷静。
+
+### 生命值低·其二
+
+我得集中精神。
+
+### 生命值低·其三
+
+启动应敌模式…
+
+### 同伴生命值低·其一
+
+快退后。
+
+### 同伴生命值低·其二
+
+我来吸引火力。
+
+### 倒下·其一
+
+我…看漏了什么…
+
+### 倒下·其二
+
+魔术失误了…
+
+### 倒下·其三
+
+林尼…
+
+### 普通受击·其一
+
+还好。
+
+### 重受击·其一
+
+啊，没躲开。
+
+### 加入队伍·其一
+
+魔术要开演了吗？
+
+### 加入队伍·其二
+
+下午茶时间到了。
+
+### 加入队伍·其三
+
+你带路吧。
+
+### 关于爱可菲…
+
+嗯…看爱可菲今天的尾巴…估计是开发出让她满意的新甜点了，期待下次茶话会。

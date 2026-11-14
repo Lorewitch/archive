@@ -548,3 +548,920 @@ It was a gift; but also, a responsibility.
 叮当一声，「神之眼」也乖乖地躺进了矿石篮里，被希诺宁提出了工坊，随意放在了屋外。
 希诺宁哼着歌去吃饭了，在下一次进行锻造工作时，她会发现这枚特殊的「矿石」。
 这是礼物，亦是责任。
+
+# voice_source_ids: 103000,103001,103002,103003,103004,103005,103006,103007,103008,103009,103010,103011,103012,103013,103014,103015,103016,103017,103018,103019,103020,103021,103022,103023,103024,103025,103026,103027,103028,103029,103030,103031,103032,103033,103034,103035,103036,103037,103038,103039,103040,103041,103042,103043,103044,103045,103046,103047,103048,103049,103050,103051,103052,103053,103054,103055,103056,103057,103058,103059,103060,103061,103062,103063,103064,103065,103066
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет, я Шилонен из Детей Эха. Если хочешь, чтобы я выковала для тебя инструменты, просто дай знать. Но сейчас у меня довольно много работы, так что если оставишь заказ сейчас, то придётся подождать.
+
+### Поболтаем: Растение в горшке
+
+Эх, мой цветок на крыльце снова погиб. Я ведь каждый день его поливала... Неужели в этот раз я перестаралась?
+
+### Поболтаем: Время отдохнуть
+
+Надо бы передохнуть после всей этой беготни... Да, давай здесь посидим немного.
+
+### Поболтаем: Кузнечное дело
+
+...Сколько ещё заказов по ковке мне надо выполнить? Посмотрим... Раз, два... Хм, не так много, как я думала. Я займусь ими завтра.
+
+### Когда идёт дождь...
+
+Хорошая погода, чтобы вздремнуть в мастерской...
+
+### Когда идёт снег...
+
+Апчхи! О, я проснулась.
+
+### Когда светит солнце...
+
+*зевает* Пора вздремнуть... А? Куда мои тёмные очки делись?
+
+### В пустыне...
+
+Температура в самый раз... Но место не самое лучшее, чтобы лежать...
+
+### Доброе утро...
+
+Доброе утро. Как спалось? Вот, выпей. Если начать день с чего-нибудь сладкого, то будет хорошее настроение весь день.
+
+### Добрый день...
+
+Уже полдень, а это значит... *зевает* Время перерыва. Я пойду вздремну, но если тебе что-нибудь понадобится - разбуди меня...
+
+### Добрый вечер...
+
+Ого, время-то уже... Да, давай на этом закончим. Пойдём поедим чего-нибудь вкусненького, чтобы отпраздновать отличный рабочий день.
+
+### Спокойной ночи...
+
+Спокойной ночи. Не забудь взбить подушку, а то утром шея будет болеть.
+
+### О Шилонен: Труд и отдых
+
+Как бы много ни было работы, всегда надо выделять время для отдыха. Если не прекратишь работать, твой разум и тело начнут бастовать... И как только это произойдёт, просто уже не сможешь хорошо работать.
+Хм? Не можешь найти времени для перерыва? Тогда просто скажи, что мне внезапно понадобилось увидеть тебя по важному делу, и заходи ко мне в мастерскую вздремнуть. Я тебя прикрою.
+
+### О Шилонен: Заторможенность
+
+Некоторые мои друзья говорят, что я иногда заторможенная и меня трудно растрогать. Например, однажды я была у подруги на вечеринке, и мы начали обсуждать тему брака. Подруга спросила, будем ли мы плакать, когда она выйдет замуж. Не успела я опомниться, как все начали плакать, всхлипывать и говорить, что не хотят терять её как подругу...
+Я не понимала, о чём все плачут. Разве свадьба - это не счастье? Она же просто выходит замуж, а не уезжает. Мы всегда можем навестить её.
+М? А что, если она грустит и выходит замуж против своего желания? Да, я думала об этом.
+Тогда я бы просто пришла на церемонию и увела её. Знаешь, я довольно быстрая. Да, я бы успела её спасти.
+
+### О нас: Кузница
+
+При ковке чего угодно температура в печи всегда имеет решающее значение. Если она слишком низкая, не сможешь размягчить или расплавить материалы, и хорошо очистить их от примесей. Если температура будет слишком высокой, некоторые материалы станут непригодными. Большинство ремесленников регулируют температуру, убирая топливо из огня или добавляя больше дров. Что касается меня, я обычно добавляю самоцветы, богатые флогистоном, чтобы контролировать температуру. Пламя от флогистона намного сильнее, чем обычный огонь...
+Что я делаю с драгоценными камнями, когда флогистон израсходован? Я просто нахожу место, где их сложить... Без флогистона в них остаётся только эстетическая ценность. Если хочешь, можешь взять несколько.
+
+### О нас: Благословение
+
+Тласоли раньше говорила, что хочет сделать для вас надпись на огнекристалле в подарок, верно? Но в нынешней ситуации у неё вряд ли найдутся на это силы.
+Так что теперь эту работу я возьму на себя. Считайте это благодарностью за то, что вы спасли Непеку.
+Говоришь, я уже создала для тебя древнее имя?
+Ха-ха-ха, это не считается. То древнее имя содержало благословение от всех, а этот огнекристалл - моё личное благословение для тебя.
+Не стоит благодарностей. Я сообщу тебе, как только всё будет готово. А что будет вырезано на нём... решишь сам, когда придёт время. / Тласоли раньше говорила, что хочет сделать для вас надпись на огнекристалле в подарок, верно? Но в нынешней ситуации у неё вряд ли найдутся на это силы.
+Так что теперь эту работу я возьму на себя. Считайте это благодарностью за то, что вы спасли Непеку.
+Говоришь, я уже создала для тебя древнее имя?
+Ха-ха-ха, это не считается. То древнее имя содержало благословение от всех, а этот огнекристалл - моё личное благословение для тебя.
+Не стоит благодарностей. Я сообщу тебе, как только всё будет готово. А что будет вырезано на нём... решишь сама, когда придёт время.
+
+### Глаз Бога...
+
+А, мой Глаз Бога? Да, он довольно полезен. С его помощью я могу более точно определить концентрацию и распределение Гео в различных рудах. Это помогает мне быстро отсортировать хорошую руду от пустой.
+А, у него есть значение? Ха, я никогда не задумывалась об этом. Он помогает мне в работе, а остальное меня не волнует.
+
+### Давай поделимся...
+
+Чтобы отточить свои навыки мелкой работы, я часто пытаюсь выковать небольшие украшения со сложной структурой. Например, кулон в виде паутины или серьги в виде тканого свитка... Когда я заканчиваю работу над изделием, я обычно дарю его кому-нибудь из своих друзей или соседей.
+А? Могу ли я делать кольца? Конечно! Буквально на днях я сделала кольцо в форме сверкающей хризантемы. Одна только схема дизайна потребовала от меня немало усилий. А, такое же хочешь? Ну конечно. Покажи свою руку. Сейчас измерю твой палец и скоро выкую для тебя такое же.
+
+### Интересные вещи...
+
+Я действительно не понимаю, как заботиться о растениях... Я поливала их раз в три дня, вырывала сорняки раз в пять дней, удобряла два раза в неделю, как написано в инструкции, и даже следила за тем, чтобы они получали необходимое количество солнечного света, но все мои растения всё равно чахли и умирали.
+Эх, неужели даже садоводство требует немалой доли везения?
+
+### О Качине...
+
+Качина заказала мне выковать для неё бур, который мог бы не только бурить землю, но и прыгать по ней. Сделать его было не так уж сложно, но регулировка угла наклона сиденья оказалась непростой задачей. В конце концов Качина приняла моё предложение отказаться от сиденья в пользу ручной системы управления, которая подключается к силовому стержню бура...
+А? Почему Качина подпрыгивает, когда управляет Турбовихрем?
+Это она так захотела. Она сказала, что предпочитает иметь прямую обратную связь во время езды, поэтому я убрала часть системы амортизации.
+Я думаю, не сделать ли ей капу. Меньше всего мне хочется, чтобы она прикусила язык, работая с буром...
+
+### О Муалани...
+
+Муалани - выдающийся атлет. Я никогда не видела, чтобы сёрфинг или катание по духовным путям выглядели так гладко и легко. Я даже не видела, чтобы Муалани хоть раз оступилась.
+Хм? А что будет, если на её пути встанет человек или завриан? Хм, я уверена, что она просто подберёт его и продолжит скользить.
+
+### О Часке...
+
+Сделать так, чтобы оружие Часки работало на большой высоте было непростой задачей. Во-первых, нужно было убедиться, что оно будет надёжно работать в бою на больших скоростях. Затем нужно было разработать стандартные и специальные боеприпасы, которые можно было бы использовать для боя на больших высотах. И наконец, нужно было подумать, как решить проблемы отдачи и точности в полёте... Но Часка сказала, что последние две проблемы не представляют особой сложности и что она справится, если я установлю самый простой прицел.
+Часка определённо доказала, что отлично может управляться с этим оружием. Это говорит о том, что она действительно ас клана Цветочного Пера.
+
+### О Мавуике...
+
+Мавуика давала мне немало странных и неожиданных поручений.
+Например, она попросила меня создать меч, который бы выдерживал её пламя, чтобы при всей её силе меч не расплавился в руках. А ещё попросила сделать для неё специальные очки, чтобы, сражаясь в огне, она могла лучше видеть врагов.
+Самое странное было, когда она пришла ко мне с просьбой создать пламецикл. В тот период она буквально каждый день приходила в мою мастерскую и настойчиво просила сделать для неё транспорт, работающий на флогистоне. Она сунула мне целую кучу схем, которые сама откуда-то достала... В конце концов я не выдержала, потратила три месяца и собрала для неё этот транспорт. А потом я узнала, что она каждый день гоняет на нём по просторам Натлана, и никто не может остановить её...
+По сравнению с этими поручениями создание древнего имени для чужеземца кажется довольно разумным и в чём-то даже обоснованным заданием.
+
+### О Киниче...
+
+Кинич хороший, но с этим Ахавом очень тяжело находиться рядом. Кстати, откуда он вообще взялся? Если Ахав произошёл от какого-то устройства, то есть шанс, что я смогу заставить его замолчать навсегда. Может, мне стоит найти время и обсудить это с Киничем...
+
+### О Ситлали...
+
+Иногда Ситлали заходит ко мне в мастерскую, чтобы купить руду. По её словам, некоторые руды можно измельчать в порошок и принимать как лекарство, которое помогает ей в гаданиях и обрядах. Хм? Просила ли я когда-нибудь сделать мне предсказание? Нет, мне неинтересно знать будущее. У меня и так хватает забот со всеми моими нынешними делами. Кроме того, во время ритуалов гадания меня всегда клонит в сон...
+
+### Об Ифе...
+
+Ифа приходил в племя, чтобы вылечить нескольких тепетлизавров. Он очень опытный и знает, как заботиться о своих пациентах. Даже самые буйные заврианы сидят тихо, когда он рядом. Ифа говорит, что всё это благодаря набору шприцов для заврианов, которые я ему сделала. Даже без иглы они заставят любого человека или завриана хорошо себя вести. Хочешь посмотреть? У меня ещё есть набор образцов, если тебе интересно. Подожди, я принесу самый большой... А? Ты чего пятишься? Иголка даже не надета, это совершенно безопасно.
+
+### Об Оророне...
+
+Если минус на минус дают плюс, то чудак в группе чудаков должен быть просто нормальным, но Оророн почему-то всё равно кажется мне немного странным. Но как человек, он очень милый. Он даже попросил Ифу принести Детям Эха кучу фруктов и мёда. Видимо, он решил, что доставил нам слишком много хлопот. Я и не подозревала, что из флогистоновой тли можно получить такой сладкий мед, так что он своё дело знает. Эх, как у некоторых так легко получается обращаться с растениями и животными?
+
+### Об Иансан...
+
+Однажды я помогла Уделу Благодатных Земель изготовить пару комплектов очень тяжёлых блинов и гирь. Когда пришло время забирать товар, Иансан пришла с группой людей из племени, чтобы осмотреть готовые изделия. Она подняла и проверила каждую гирю, прежде чем положить их одну за другой в тележку. После поднятия всех этих тяжестей она совсем не устала, а её лицо лишь слегка покраснело. Честно говоря, я им немного завидую. Они не только очень сильные, но и умеют обращаться с растениями...
+
+### Узнать больше о Шилонен I
+
+Хотя я и гравёр имён, ковка древних имён не является моей основной работой. Большую часть времени я помогаю людям из племени ковать инструменты и оружие. Всё-таки древние имена довольно редки, а на другие вещи заказов хоть отбавляй...
+
+### Узнать больше о Шилонен II
+
+Самое утомительное в работе над заказами - это не сама ковка, а попытки расшифровать путаные формулировки моих клиентов. Я трачу очень много времени на то, чтобы помочь клиенту разобраться в своих идеях, чтобы он мог сказать мне, чего ему на самом деле надо. Тогда я наконец-то могу взять в руки молоток и приступить к работе. Каждый раз, когда заказчик, поняв наконец чего хочет, расплывается в улыбке, я уже не получаю от этого никакой радости. На самом деле, живот крутит от такого, и аппетит пропадает.
+
+### Узнать больше о Шилонен III
+
+Когда у меня нет заказов, я обычно делаю небольшие устройства. Например, в этих ботинках, которые я ношу, используются новейшие флогистоновые двигательные системы и множество новых видов сплавов. А эти наушники можно подключить к проигрывателю, и я смогу слушать пластинки, пока работаю в кузнице... Звучит сложно? Да нет, просто когда работаешь над тем, что тебе нравится, сложно не приложить немного больше усилий.
+
+### Узнать больше о Шилонен IV
+
+Главная причина, по которой я стала гравёром имён, заключается в том, что и мои родители, и большинство моих родственников тоже были гравёрами имён. Когда я была маленькой, они всегда говорили мне, что из всех племён Натлана только наше может нести ответственность за ковку древних имён. Они надеялись, что я продолжу эту традицию, когда подрасту. И я согласилась - вот, собственно, и всё.
+
+### Узнать больше о Шилонен V
+
+Но перед тем как стать гравёром имён, я хорошенько подумала, стоит ли мне заниматься столь хлопотным делом. В конце концов, было много более лёгких профессий, которые можно выбрать. Даже быть обычным кузнецом проще, чем гравёром имён, а зарабатывать можно больше. Но в итоге я выбрала этот путь. Ковка древних имён - важное дело, которое кто-то должен выполнять, и раз уж у меня оказались подходящие способности, то я обязана была унаследовать это ремесло. Мой отец всегда говорил: «Если каждый человек в Натлане будет брать ответственность, которая ему по плечу, Натлан будет всегда оставаться сильным». Теперь эта работа - мой долг, и я выполняю её, интересно мне или нет. Да и всё равно я была самой искусной среди тех, кто изучал это ремесло в племени. Если бы я не стала гравёром имён, то кому-то другому пришлось бы взяться за это вместо меня. Другие ученики постоянно задавали мне вопросы и копировали мои домашние задания. Если бы ковка древних имён стала их работой, я уверена, они бы постоянно приставали ко мне с вопросами. Поэтому я решила, что лучше самой взяться за эту работу, чем иметь дело со всеми этими неприятностями... Да, так удобнее для всех, и мне не надо целый день беспокоиться о чужой работе.
+
+### Хобби Шилонен...
+
+Спать, отдыхать и греться на солнце... Когда я не работаю, даже смотреть на пустой лист бумаги кажется интересным.
+
+### Беспокойство Шилонен...
+
+Когда обсуждаю с кем-то заказ на ковку, я больше всего боюсь услышать: «Эта просьба не срочная и не важная. Просто займись, когда сможешь». По моему опыту, это всё равно что сказать: «Я буду постоянно приходить и подгонять тебя». Эх, от одной мысли об этом у меня начинает болеть голова. Я, пожалуй, пойду посплю...
+
+### Любимая еда...
+
+Сахар и шоколад. Я работаю в кузнице, и сладости дают мне энергию, чтобы работать молотом.
+
+### Нелюбимая еда...
+
+Я не люблю воду без вкуса. Да, да, я знаю, что пить чистую воду полезнее, но я просто не могу пить эту дрянь. Разве нельзя добавить хотя бы немного сахара? Или, на крайний случай, выжать лимон...
+
+### Подарок I
+
+Ммм. Вкусно, а есть ещё? А? Когда успела доесть? Только что. Я ем довольно быстро, а когда вкусно, то ещё быстрее.
+
+### Подарок II
+
+Неплохо. В следующий раз я тебя чем-нибудь угощу.
+
+### Подарок III
+
+Пока хватит. Меня клонит в сон, если слишком много съем.
+
+### День рождения...
+
+С днём рождения! Вот, этот универсальный набор мультиинструментов тебе. В нём есть разные дрели и молотки, три ручные пилы и пять ломиков специальной формы, которые пригодятся вам в походе. А ещё здесь набор верёвок из плетёной кожи и металлической проволоки. Они достаточно прочные, чтобы поднять даже взрослого тепетлизавра. Ты умеешь завязывать узлы? Если нет, то могу научить. Вот, смотри... Сначала берёшь верёвку вот так, потом делаешь петлю вокруг...
+
+### Чувство возвышения: Начало
+
+...Мяу?
+
+### Чувство возвышения: Нарастание
+
+Хм, настоящее золото очищается огнём. Спасибо.
+
+### Чувство возвышения: Кульминация
+
+Похоже, мой глаз становится острее, рука сильнее ударяет молотом. Подождите, дай попробую ударить что-нибудь... Лучше отойди.
+
+### Чувство возвышения: Окончание
+
+Ты так много мне помог, что я не могу оставить тебя с пустыми руками. Вот, возьми этот драгоценный камень, на котором я выгравировала своё Имя. С его помощью ты сможешь найти меня всегда, когда понадобится помощь. Если нужно, чтобы я разожгла кузницу или отправилась с тобой в опасное приключение, я всегда буду готова помочь. Это обещание в силе пока и моё Имя, и этот камень не сотрутся в прах. / Ты так много мне помогла, что я не могу оставить тебя с пустыми руками. Вот, возьми этот драгоценный камень, на котором я выгравировала своё Имя. С его помощью ты сможешь найти меня всегда, когда понадобится помощь. Если нужно, чтобы я разожгла кузницу или отправилась с тобой в опасное приключение, я всегда буду готова помочь. Это обещание в силе пока и моё Имя, и этот камень не сотрутся в прах.
+
+### Элементальный навык I
+
+Давай!
+
+### Элементальный навык II
+
+Хм.
+
+### Элементальный навык III
+
+Фух...
+
+### Взрыв стихии I
+
+Услышьте эхо ущелья!
+
+### Взрыв стихии II
+
+Закипай, кровь гор!
+
+### Взрыв стихии III
+
+В гравированных именах раздаётся эхо!
+
+### Открытие сундука I
+
+Я смотрю вокруг. Не волнуйся, засады нет.
+
+### Открытие сундука II
+
+Как много замечательных вещиц. Поделишься? Шучу, это всё твоё.
+
+### Открытие сундука III
+
+Хм, на вид чего-то стоит. Давай, бери.
+
+### Низкий уровень HP I
+
+Ох, беда...
+
+### Низкий уровень HP II
+
+Хватит.
+
+### Низкий уровень HP III
+
+Хм!
+
+### Низкий уровень HP компаньона I
+
+Я подхвачу.
+
+### Низкий уровень HP компаньона II
+
+Предоставь мне.
+
+### Без сознания I
+
+Пламя... угасло...
+
+### Без сознания II
+
+Кузница... охладела...
+
+### Без сознания III
+
+Хе... Пора... спать...
+
+### Получен лёгкий удар I
+
+Опять?
+
+### Получен тяжёлый удар I
+
+Как же надоело!
+
+### Присоединяется к группе I
+
+Пора идти?
+
+### Присоединяется к группе II
+
+Давай с этим разберёмся.
+
+### Присоединяется к группе III
+
+Хорошо. После тебя.
+
+## REPLICAS_EN
+
+### Hello
+
+Hello, I'm Xilonen from the Children of Echoes. If you'd like me to forge some tools for you, just let me know. But I do have a quite the backlog of commissions at the moment, so even if you submit a request now, it might be a while before I get to it.
+
+### Chat: Potted Plant
+
+*sigh* My potted plant on the porch has died again. I was watering it every day... Don't tell me I overdid it this time?
+
+### Chat: Break Time
+
+We should take a break after all that running around... Yeah, let's rest here for a bit.
+
+### Chat: Forge Work
+
+...How many forging commissions do I still have to finish? Let's see, one, two... Hmm, not so many as I thought. I'll get to them tomorrow.
+
+### When It Rains
+
+Perfect weather for a nap in the workshop...
+
+### When It Snows
+
+Achoo! ...Ah, I'm awake now.
+
+### When the Sun Is Out
+
+*yawn* Time for a nap... Ooh wow, where did my sunglasses go...?
+
+### In the Desert
+
+The temperature's just right... Ah, but this isn't the best spot to lie down...
+
+### Good Morning
+
+Good morning. Did you get some good sleep? Here, drink this. Starting your day with something sweet will boost your mood for the whole day.
+
+### Good Afternoon
+
+It's afternoon now, which means... *yawn* time for a break. I'll go have a nap, just wake me up if you need anything...
+
+### Good Evening
+
+Wow, just look at the time... Yeah, let's call it a day. Let's go get some good food together to celebrate a great day of work.
+
+### Good Night
+
+Good night. Remember to fluff your pillow, otherwise, your neck will hurt in the morning.
+
+### About Xilonen: Work-Life Balance
+
+No matter how busy work might get, you must set aside some time to rest. If you don't stop working, your mind and body will go on strike... And once that happens, your ability to perform good work will just go down the drain.
+Hmm? You can't find any time for a break? Well then, just say that I suddenly needed to see you for something important, and come over to my workshop to take a small nap. I'll help cover for you.
+
+### About Xilonen: Sluggishness
+
+Some of my friends have told me that I can be slow at times, and that I rarely seem to get emotional. For example, one time, I was at a friend's house for a party, and we started talking about the topic of marriage. A friend asked if we would cry when she got married, and before I knew it, everyone started crying, and they were all sobbing and saying that they didn't want to lose her as a friend...
+Well, I didn't get what everyone was crying about. I mean, isn't getting married a happy thing? You know, she's just getting married, not going away. We could still go visit her.
+Oh? What if she was sad and getting married against her wishes? Oh yeah, I've thought about that.
+In that case, I would just come rolling into the ceremony and steal her away. You know, I'm pretty fast, you know. Yeah, I'd save her in time.
+
+### About Us: The Forge
+
+No matter what you are making, the temperature of the furnace is always crucial. If it's too cool, you won't be able to soften or melt the materials, and it'll be impossible to cleanse impurities. If the temperature is too high, some materials will be unusable.
+The way most crafters adjust the temperature is by removing fuel from the fire or adding more wood to burn.
+As for me, I would usually add phlogiston-rich gems to control the temperature. Phlogiston-aided flames are much stronger than that of a regular fire...
+What do I do with the gems after the phlogiston is used up? I just find a place to pile them up... once the phlogiston is gone, they have nothing but aesthetic value. If you'd like some, feel free to pick out a few.
+
+### About Us: Blessing
+
+Auntie Tlazolli said she would make you a Blazegem Inscription as a gift, right? Well, given the current circumstances, I don't think she'll be able to do that for you.
+I'll have to take up the task. Consider it a gift for helping save Nepecha.
+Huh? I already forged an Ancient Name for you?
+Oh, no no no, that doesn't count. That name contains everyone else's blessing for you, but this inscription will contain my own blessings.
+Ah, no need to thank me, I'll let you know once it's done. As for what words to engrave... I'll let you decide.
+
+### About the Vision
+
+Oh, my Vision? Yeah, it's pretty useful. Having it allows me to more accurately identify the concentration and distribution of the Geo element in various ores. That helps me quickly sort good ore from scraps.
+Oh, does it have a meaning? Huh, I've never really thought about it much. As long as it can help me with my work, I don't care about the rest.
+
+### Something to Share
+
+I often try to forge small ornaments with complex structures to hone my precision-crafting skills. For example, a web-like pendant, or woven scroll earrings... Once I finish a product, I usually give it to one of my friends or neighbors.
+Oh? Can I make rings? Of course! Just the other day, I made a ring in the shape of a Brilliant Chrysanthemum. The design schematic alone took me quite a bit of effort.
+Oh, you'd like one? Sure. Let me see your hand. Once I've measured your finger, I can forge one for you in no time.
+
+### Interesting Things
+
+I really don't get how to raise plants... I've watered them once every three days, pulled out the weeds once every five days, and fertilized them twice in a week, just like the instructions said, and even made absolutely sure that they got the right amount of sunlight, yet all of my plants still withered and died.
+*sigh* Don't tell me that even gardening requires quite a bit of luck?
+
+### About Kachina
+
+Kachina commissioned me to forge a drill for her that could not only bore into the ground, but also jump around. It wasn't that complicated to make, but adjusting the angle of the seat was tricky. In the end, Kachina took my suggestion to ditch the seat in favor of a manual control system that connects to the power core of the drill...
+Huh? Why does Kachina bounce around when she's operating the Turbo Twirly?
+That's how she wanted it. She said she prefers having direct sensory feedback while she's driving, so I removed part of the shock absorption system.
+I do wonder if I should make her some mouthguards next, though. The last thing I want is for her to bite her tongue while using the drill...
+
+### About Mualani
+
+Mualani is an amazing athlete. I've never seen anyone make surfing or gliding on the Spiritways look so smooth or easy. In fact, I have yet to see Mualani ever slip up.
+Hmm? What would happen if a person or Saurian got in her way? Hmm, I'm pretty sure she would just scoop them up and keep gliding along.
+
+### About Chasca
+
+To get Chasca's gun up and running in high altitude was no easy task. First, I had to make sure it would remain stable and reliable in high speed combat. Then, I had to develop standard and special ammunition that could be used for combat at high altitudes. And finally, I had to consider how to solve the issues of recoil and accuracy while flying...
+But Chasca told me the last two issues were no big deal, and that she'd be able to manage as long as I installed some basic mechanical crosshairs.
+Chasca has definitely proven to be an expert user of that weapon. Goes to show that she really is a flying ace of the Flower-Feather Clan.
+
+### About Mavuika
+
+Mavuika has approached me with quite a few ridiculous commissions.
+For example, she wanted me to make her a heat-resistant sword that could withstand her flames and wouldn't melt in her hands. Oh yeah, she also asked me if I could make her a special pair of sunglasses that would let her better see enemies through the flames in combat...
+But the most bizarre request was that bike of hers... At the time, she would keep coming to the workshop to talk about it and insist that I make her a phlogiston-powered vehicle. She even shoved a bunch of design schematics in front of me, and yeah, who even knows where she got those... I eventually couldn't take it anymore and gave in. It took me three whole months to complete it. I heard she's been driving it through the Natlan wilderness and that no one can stop her... So yeah...
+Compared to all of that, I'd say forging an Ancient Name for an outlander is really a relatively reasonable task.
+
+### About Kinich
+
+Kinich is nice, but that Ajaw is really hard to be around.
+Speaking of, where did Ajaw even come from? If he originated from some kind of device, then there is actually a chance that I could make him shut up forever. Oh, maybe I should find some time to go over and discuss this with Kinich...
+
+### About Citlali
+
+Citlali would occasionally come to my workshop to buy some ore. According to her, some ores can be crushed into powder and taken as medicine to help her with divinations and ceremonies. Hm? Have I ever asked her to read my fortune? No, I'm not interested in knowing the future. I already have enough to worry about with all my present work. Besides, I always get sleepy during divination rituals...
+
+### About Ifa
+
+Ifa has come to the tribe before to heal some Tepetlisaurs. He is very skilled, and knows how to care for his patients. Even the most rambunctious Saurians will sit quietly when he's around.
+Ifa said it's all thanks to the set of Saurian syringes I made for him. Even without the needle on it, it's enough to deter any person or Saurian from misbehaving. Would you like to see it? I still have a sample set if you're interested.
+Wait here, I'll go fetch the biggest one... Huh? Why are you backing away? The needle isn't even attached, it's completely safe.
+
+### About Ororon
+
+If two negatives make a positive, then a weirdo in a group of weirdos should just be normal, but Ororon somehow still seems a little off to me.
+Still, he seems plenty nice as a person. He even had Ifa bring a bunch of fruit and honey to the Children of Echoes, presumably because he thought he had caused too much trouble for us. I had no idea you could get such sweet honey from Phlogiston Aphids, so he must know what he's doing.
+*sigh* How can some people be such naturals with plants and animals?
+
+### About Iansan
+
+I once helped the Collective of Plenty make a couple sets of super heavy weight plates and dumbbells.
+When it was time for the goods to be picked up, Iansan came with a group from the tribe to inspect the finished products. She picked up and checked every single weight before placing them one by one into a cart. After lifting all those weights, she was barely winded, and her face was only a little red.
+To be honest, I'm a little jealous of them. Not only are they really strong, but they've also got a way with plants...
+
+### More About Xilonen: I
+
+Even though I'm a Name Engraver, forging Ancient Names isn't my primary work. Helping people in the tribe forge tools and weapons makes up the majority of my work.
+After all, Ancient Names are pretty rare, but there are countless commissions for other kinds of items...
+
+### More About Xilonen: II
+
+The most exhausting part of taking commissions isn't the forging work itself — it's trying to decipher some of my clients' confusingly worded requests. I spend so much of my time just helping my client get their ideas straight so they can tell me what they actually want. Then I can finally pick up my hammer and get to work.
+When I see my clients having an epiphany where they finally realize what they want, I don't get any joy out of it anymore. In fact, it makes me want to throw up. So much so that it ruins my appetite.
+
+### More About Xilonen: III
+
+When I don't have any commissions, I would usually make some small gadgets. For example, these shoes I'm wearing use the latest phlogiston propulsion systems, and many new types of alloys. And these headphones I'm wearing can be connected to a record player, so I can listen to a record while I work at the forge...
+Sounds complicated? Not really, it's just easier to put a little extra care into things when you're working on something you like.
+
+### More About Xilonen: IV
+
+The main reason I became a Name Engraver was because both my father and mother, as well as most of my kin, were also Name Engravers. When I was little, my parents would always tell me that of all the tribes in Natlan, only ours could shoulder the responsibility of forging Ancient Names. They hoped that I could also carry on the tradition when I grew older.
+So I agreed to take it on — that's really all there is to it.
+
+### More About Xilonen: V
+
+However, before I became a Name Engraver, I put a lot of thought into whether I should really get involved in such troublesome work. After all, there were a lot of easier jobs I could have picked. Even being a regular blacksmith is easier than working as a Name Engraver, and I could earn more to boot.
+But, in the end, I chose this path.
+Forging Ancient Names is an important task that someone must undertake, and given I happened to have the right abilities for the job, it became my duty to inherit the craft. It's just like what my father always said — "When every person in Natlan takes up the responsibility they can shoulder, Natlan will stand strong forever." The job is now my duty, and I perform it regardless of my level of personal interest.
+...And on top of that, I was the most skilled among those who studied the craft in the tribe. If I didn't become a Name Engraver, that would mean someone else would have to take it on in my stead. The other students constantly asked me questions and copied my homework. Had it become their job to forge Ancient Names, I'm sure they would constantly come bothering me with questions. So I figured that taking the job myself would be better than dealing with all that trouble... Yeah, it's more convenient for everyone, and saves me from having to worry about other people's work all day.
+
+### Xilonen's Hobbies
+
+Sleeping, spacing out, and basking in the sun... When I'm not working, even staring at blank paper seems interesting.
+
+### Xilonen's Troubles
+
+When discussing a forging commission with someone, the thing I'm most afraid of hearing is, "This request is neither urgent nor important. Just get to it whenever you can."
+In my experience, that is basically equivalent to saying, "I might come to rush you at anytime."
+*sigh* It makes my head hurt just thinking about it, I think I'm going to go back to sleep...
+
+### Favorite Food
+
+Sugar and chocolate. I work at the forge, and sweets give me the energy I need to swing my hammer.
+
+### Least Favorite Food
+
+I don't like water without any flavor. Yeah, yeah, I know that drinking pure water is better for you, but I just can't drink that stuff. Can't you at least add a little bit of sugar? Or if all else fails, a squeeze of lemon...
+
+### Receiving a Gift: I
+
+Mm. Delicious, is there more? Huh? When did I finish it? Just now. I eat pretty fast, you know, and even faster when it's good.
+
+### Receiving a Gift: II
+
+Not bad, I'll have to treat you to some of my cooking next time.
+
+### Receiving a Gift: III
+
+Ah, I'm good for now. I get sleepy if I eat too much.
+
+### Birthday
+
+Happy Birthday. Here, this universal multi-tool set is yours to keep. It has a variety of drills and hammers, as well as three hand saws and five special-shaped prybars, which should come in handy for you in the wild. Oh, and there is also a set of ropes made from woven leather and metal wire. They should be strong enough to lift even a fully-grown Tepetlisaur. Do you know how to tie knots? If not, I can teach now. Here, watch... First, hold the rope like this, then loop it around...
+
+### Feelings About Ascension: Intro
+
+...Meow?
+
+### Feelings About Ascension: Building Up
+
+Hmm, real gold must still be refined by fire. Thank you.
+
+### Feelings About Ascension: Climax
+
+It seems my eyes are getting sharper and my arms stronger for swinging my hammer. Hold on, let me try hammering something... You should stand back.
+
+### Feelings About Ascension: Conclusion
+
+You've helped me so much, I can't just let you leave empty-handed. Here, take this gem that I engraved my Name on. You can use it to find me for help whenever you like. Whether you need me to fire up the forge, or accompany you on a dangerous adventure, I'll be ready to help. This promise will stand until both my Name and this stone have eroded into nothing.
+
+### Elemental Skill: I
+
+Bring it.
+
+### Elemental Skill: II
+
+Hmph.
+
+### Elemental Skill: III
+
+*sigh*
+
+### Elemental Burst: I
+
+Hear the echoes of the valley!
+
+### Elemental Burst: II
+
+Let the mountain's veins boil!
+
+### Elemental Burst: III
+
+Let engraved names echo!
+
+### Opening Treasure Chest: I
+
+I'm keeping a lookout. Don't worry, there's no ambush.
+
+### Opening Treasure Chest: II
+
+There's a lot of good stuff in here, wanna split it? Just kidding, you can take it.
+
+### Opening Treasure Chest: III
+
+Hmm, these should be worth something. Go on, take it.
+
+### Low HP: I
+
+What a pain...
+
+### Low HP: II
+
+That's enough.
+
+### Low HP: III
+
+...Hmph!
+
+### Ally at Low HP: I
+
+I'll take over.
+
+### Ally at Low HP: II
+
+Leave it to me.
+
+### Fallen: I
+
+The flames... have gone out...
+
+### Fallen: II
+
+The forge... grows cold...
+
+### Fallen: III
+
+Heh, it's time... to sleep...
+
+### Light Hit Taken: I
+
+This again?
+
+### Heavy Hit Taken: I
+
+...How annoying!
+
+### Joining Party: I
+
+Is it time to go?
+
+### Joining Party: II
+
+Let's get this over with.
+
+### Joining Party: III
+
+Alright, after you.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，我是「回声之子」的希诺宁。如果想要委托我锻造普通器具的话，直说就好。但我手里还堆积了不少单子，你现在下委托的话，可能要等一阵了。
+
+### 闲聊·绿植
+
+唉，阳台上的那盆花又枯了，我明明每天都给它浇水…难道这次是浇太多了？
+
+### 闲聊·休息时间
+
+奔波这么久，也该歇一歇了…就在这坐一会吧。
+
+### 闲聊·锻造事务
+
+…还有几份锻造委托没完成来着？呃…一份…两份…不算多嘛，明天再说吧。
+
+### 下雨的时候…
+
+这天气，就适合待在屋里睡觉。
+
+### 下雪的时候…
+
+阿嚏！…哎呀，瞌睡虫走了。
+
+### 阳光很好…
+
+呼啊…睡个午觉吧。欸？我的墨镜去哪了。
+
+### 在沙漠的时候…
+
+温度刚刚好…唔，但这里不太适合躺下呢。
+
+### 早上好…
+
+早上好，昨晚睡得好么？这杯饮料给你，早晨喝点甜的，一天都会有好心情。
+
+### 中午好…
+
+中午了，是…呼啊…是午休时间了…我去睡会，有事再叫醒我。
+
+### 晚上好…
+
+都这个点了，收工收工。走，一起去吃点好吃的，庆祝一天的工作顺利结束。
+
+### 晚安…
+
+晚安了，睡前记得把枕头弄松软，不然第二天早上起来会脖子疼。
+
+### 关于希诺宁自己·劳逸结合
+
+无论有多忙，也要为自己挤出休息的时间。一直工作个不停的话，身体和头脑就会接连罢工，在这种状态下，是不会做出好成果的。
+挤不出来时间？那你就说…我临时找你有事，到我的工坊来睡一会吧，我会帮你瞒过去的。
+
+### 关于希诺宁自己·迟钝
+
+我的几位朋友有时候会说我有些迟钝，很难被感动。比如有一次我去一个朋友家里参加聚会，聊着聊着就谈到了结婚的事，有个朋友问我们，如果她结婚了大家会不会哭，然后大家讨论了一会之后就哭成了一团，一边哭一边说不想失去她这个朋友…
+我是完全不懂大家为什么哭啦。结婚不是一件好事吗？她只是去结婚，又不是去见大灵，大家有空还是能再见啊。
+如果是即将被迫结婚，难过地哭怎么办？噢，我想过了。
+如果是这样的话，我就会直接把她从婚礼现场抢回来，我跑得很快，一定来得及。
+
+### 关于我们·锻造之用
+
+无论是锻造什么东西，炉子内火焰的温度都至关重要。太低的话，就无法软化——或者融化——原材料，也无法剔除各类杂质。太高的话，又会让某些原材料无法发挥作用。
+工匠们调控炉内火焰的方法，就是炉内温度高了就抽薪，温度低了就加柴。
+至于我嘛，一般会使用含有燃素的宝石来直接调控炉内温度，用燃素助燃的火焰，比一般的火焰可厉害多了…
+啊？燃素用完之后的宝石怎么办？就只能找个地方堆起来喽。燃素都没了，它们唯一的作用就只有好看。你想要的话，就去挑几块吧。
+
+### 关于我们·祝福
+
+特拉佐莉婶婶之前说，要给你们打造一枚「燃晶名刻」做礼物，对吧？看现在的情况，她是没这个功夫了。
+所以这份工作现在就由我代劳。就当作是你们帮我救了妮佩卡的谢礼吧。
+我已经给你们做过一枚「古名」了？
+哈哈哈，那不算。那枚「古名」里包含的是大家对你的「祝福」，这枚「名刻」则是我个人对你的「祝福」。
+别客气了，做好了之后我告诉你。至于上面刻什么字…到时候就由你自己决定吧。
+
+### 关于「神之眼」…
+
+你说「神之眼」啊，还挺好用的。有了它之后，我可以更准确地判断矿石中「岩」元素的含量与分布情况，从而快速地筛选出好矿与废矿。
+意义？嗯…我倒是没想那么多，它能派上用场就行，其余的我不在意。
+
+### 有什么想要分享…
+
+为了锻炼精细加工的能力，我经常会尝试锻造一些带有复杂结构的小型饰品。比如编织网状的吊坠，织卷形式的耳环，做出来之后，我一般就会把这些小饰品送给朋友或者邻居。
+会不会做戒指？当然会做啊，前几天我刚做出了一枚灼灼彩菊式样的戒指，光是画设计图就费了我不少功夫。
+你想要？行啊，把手伸出来，我给你量一下指围，花不了多少时间就能做好。
+
+### 感兴趣的见闻…
+
+我是搞不懂养绿植这件事了…我明明按照要求，三天浇一次水，五天除一次草，每周施肥两次，而且也严格保证了它们受到日照的时长…但我手里的这些绿植还是全都枯萎了。
+唉…难道养花种草这件事也要看运气？
+
+### 关于卡齐娜…
+
+之前卡齐娜拜托我打造一枚钻探器，而且这枚钻探器要同时兼顾钻探和弹跳功能。造起来倒是不复杂，反倒是调整座椅角度时花了不少时间。最后，卡齐娜还是同意了我的意见，拆除了座椅，采用了和钻探器的动力核心联动的手动操作装置…
+呃…为什么卡齐娜操作「冲天转转」的时候，自己也会跳来跳去？
+这是卡齐娜的要求。她说自己很喜欢操纵钻探器跳跃时的颠簸感，所以特地让我削减了一部分减震系统。
+不然，我下次再给卡齐娜做一套咬具吧。要是她在蹦蹦跳跳的时候咬伤自己的舌头就糟糕了…
+
+### 关于玛拉妮…
+
+玛拉妮很擅长运动，无论是冲浪，还是在「游隙灵道」滑行，我都没见过比她动作更顺畅，表情更轻松的人。而且，直到现在为止，我都没见过玛拉妮出过失误。
+如果有人或者龙挡路怎么办？唔…她应该会拎起对方继续滑走吧。
+
+### 关于恰斯卡…
+
+为了能飞上天，恰斯卡的「枪」可费了我不少功夫。首先要尽可能保证枪体在高速机动中的稳定性，其次就是要特制出适应高空作战的普通弹药和特种弹药，最后，还要考虑到空中开火的后坐力和瞄准问题…
+但恰斯卡对我说，最后两个问题不用担心，我只需要在枪上装载最基础的机械瞄具，剩下的她会靠自己的能力解决。
+事实证明，恰斯卡确实把她的「枪」驾驭得很好，真不愧是「花羽会」的空中王牌。
+
+### 关于玛薇卡…
+
+玛薇卡向我提出过不少异想天开的委托。
+比如，要我打造一柄耐热的剑，剑的整体都要耐得住她的火焰，不至于她一发力，整柄剑都会在她手里融化；还有拜托我打造一副特制的墨镜，这样她操纵火焰战斗的时候，能更好地看清周围的敌人…
+最莫名其妙的还是那台驰轮车。那段时间她天天跑到我的工坊里念叨，非要我给她做一台用燃素驱动的代步驾具，还塞给我了一大堆不知道从哪弄来的设计图…最后我实在受不了了，花了整整三个月，帮她做好了那台驰轮车。结果我听说，这家伙天天开着驰轮车在纳塔的野外到处狂奔，还没人能去管她…
+…比起这些事，为一位外来的旅行者打造「古名」，反倒像是一件相对来说比较靠谱的事务了。
+
+### 关于基尼奇…
+
+基尼奇人还不错，但那个阿乔实在让人喜欢不起来。
+话说回来，阿乔到底是从哪出现的？要是它来源于某台仪器，那我也许还真能让它永远闭嘴。唔，要不然我挑个时间，去和基尼奇说说吧…
+
+### 关于茜特菈莉…
+
+茜特菈莉有时候会来我的工坊买矿石。据她说，有些矿石磨成粉后能够做成可服用的药物，帮助她进行占卜和祭祀。我有没有拜托她进行过占卜？没有，我对尚未发生的事情没有兴趣。当下的事务就够我操心的了，而且我总是会在占卜仪式上犯困…
+
+### 关于伊法…
+
+伊法来部族里治疗过嵴锋龙，手法非常不错，也很会照顾。无论是多调皮的小龙，在他面前都乖乖地不乱动。
+伊法说，多亏了我给他打造的那一套龙用注射器，就算不套上针管，对龙和人也非常有威慑力。你想看看吗？我还留了一套样品呢。
+你等会啊，我把最大的那根注射器拿出来…哎，你别往后退啊，上面没套针管，很安全的。
+
+### 关于欧洛伦…
+
+按照负负得正的理论，一群怪人里的怪人应该是正常人才对，但显然欧洛伦另辟蹊径了。
+不过他人还不错，后来托伊法给「回声之子」送来不少水果和蜂蜜，大概是觉得给大家添麻烦了吧。我都不知道还能通过燃素蜜虫获得这么甜的蜜呢，看来他确实有些本事。
+…唉，怎么会有人养什么活什么呢？
+
+### 关于伊安珊…
+
+我曾经帮「沃陆之邦」的人做过一批重得要命的「杠铃片」和「哑铃壶」。
+那边来收货的时候，就是伊安珊带队验收，她就那么赤手空拳地把每一个器具都提起来称量，再挨个装车。装到最后，伊安珊只是略略有些气喘，脸也红了一些。
+说实话有点羡慕她们部族的人，不仅力气大，还很会种地…
+
+### 想要了解希诺宁·其一
+
+虽然我是「铸名师」，但铸造「古名」并不是我的主业。相对来说，帮部族内外的人锻造器具和武器，才是我主要的工作。
+毕竟「古名」稀少，但大家的锻造委托可是无穷无尽啊…
+
+### 想要了解希诺宁·其二
+
+在接受大家的锻造委托时，最让我疲惫的并不是工作本身，而是一部分委托人含糊不清的用语。在开始打造之前，我必须花费大量的精力帮助委托人捋清思路，让他们弄清楚，自己究竟想要什么。
+每次看见委托人恍然大悟的欣喜表情，我的胃都会有些发痛，吃饭的时候都会不由自主地少吃一些。
+
+### 想要了解希诺宁·其三
+
+没有锻造委托时，我经常会做一些小玩意。比如我脚下的这双鞋，采用了最新的燃素推进系统，和许多新型合成金属，既轻便又坚固。还有我戴着的耳塞，可以和唱片机连接，戴上它，我就可以一边听唱片一边锻造了…
+复杂？还好吧。做自己喜欢的东西时，总归比工作要更有热情。
+
+### 想要了解希诺宁·其四
+
+我之所以会成为「铸名师」，主要原因还是我爸是「铸名师」，我妈也是「铸名师」，我的同族们大部分都成为了「铸名师」。我小时候爸妈一直和我说，整个纳塔里只有我们这一族能够担当起为诸部族铸造「古名」的重任，希望我长大以后也能够继续接过他们的衣钵，继续铸造「古名」。
+我答应了，事情就是这么简单。
+
+### 想要了解希诺宁·其五
+
+但是，在成为「铸名师」之前，我也认真想过，到底要不要沾上这份麻烦。毕竟还有很多轻松的工作供我选择，就算是做一名普通的工匠，也比做「铸名师」轻松多了，而且以我的手艺，赚得也应该更多。
+不过…我最终还是选择了「铸名师」。
+铸造「古名」是一份必须要找人来承担的重任，我正好有与之对应的能力，就有将它接下来的义务。就和我爸经常说的那句话一样：「当每一位纳塔人都担起自己能够担负的责任时，纳塔就能屹立万世。」
+这件事无关我的个人喜恶，只是责任，仅此而已。
+而且，在族内那一批学习铸造「古名」技术的人里，我学得是最好的。如果我不做「铸名师」，肯定就要换其他人，这帮家伙在课上就成天问我问题，抄我作业，要是去铸造「古名」，他们肯定还是要每天过来搅我清净。与其这么麻烦，我还不如直接做「铸名师」，这样对大家都方便，也省得我成天为分外的工作操心。
+
+### 希诺宁的爱好…
+
+睡觉，发呆，晒太阳。不干活时，连盯着白纸都很有趣。
+
+### 希诺宁的烦恼…
+
+在和人谈锻造委托的时候，我最怕听见一句话：「这件事既不紧急，也不重要，听你安排，尽快就好。」
+在我的工作经验中，这句话一般就等于说：「我随时都可能来催你。」
+唉，想想就头痛，我还是再睡会吧。
+
+### 喜欢的食物…
+
+糖，巧克力。我的工作可是锻造，必须要多吃这些，才会有力气挥锤子。
+
+### 讨厌的食物…
+
+没味道的水。好啦好啦，我知道多喝纯净的水有益身体健康，但我就是喝不下去嘛，至少要加点糖吧？实在不行，挤点柠檬汁进去也好。
+
+### 收到赠礼·其一
+
+好吃，还有么？什么时候吃完的…就在刚刚，我吃东西很快的。吃美食的时候会更快。
+
+### 收到赠礼·其二
+
+味道不错啊，下次请你尝尝我的手艺。
+
+### 收到赠礼·其三
+
+嗯…先不用了，东西吃多了容易犯困。
+
+### 生日…
+
+生日快乐。这套「全尺寸万用工具套装」给你，里面有各种尺寸的钻子和锤子，还有三把手工锯和五柄特型撬刀，应该足够你在野外使用了。哦对了，还有一套混合了金属线和皮革线的绳索，强度足够吊起一只成年嵴锋龙，你会打绳结吗？不会的话我现在教你，看好了啊，先抓住绳头，这么绕过来。
+
+### 突破的感受·起
+
+…喵？
+
+### 突破的感受·承
+
+嗯，真金尚需火炼，谢啦。
+
+### 突破的感受·转
+
+眼睛好像更敏锐了，挥舞锤子的手也更有力气。稍等，我去找点东西练练手，你离远点。
+
+### 突破的感受·合
+
+你帮了我这么多忙，我可不能让你白跑一趟。拿着，我把自己的「名字」刻在了这块宝石上，凭这个你随时都可以来找我帮忙。无论是让我的炉火专门为你燃起，还是拜托我和你一起去踏足险地，都没有问题。直到我的「名字」和这块宝石一起风化之前，这份承诺一直有效。
+
+### 元素战技·其一
+
+来吧。
+
+### 元素战技·其二
+
+哼。
+
+### 元素战技·其三
+
+呼…
+
+### 元素爆发·其一
+
+回荡吧，壑之声！
+
+### 元素爆发·其二
+
+沸腾吧，山之血！
+
+### 元素爆发·其三
+
+深壑荡响，铭集火渊。
+
+### 打开宝箱·其一
+
+我盯着旁边呢，没有埋伏，放心吧。
+
+### 打开宝箱·其二
+
+好东西不少，分我一份？开玩笑的，你拿着就行。
+
+### 打开宝箱·其三
+
+唔…这些东西应该能值点钱，赶紧收着吧。
+
+### 生命值低·其一
+
+麻烦…
+
+### 生命值低·其二
+
+够了。
+
+### 生命值低·其三
+
+…哼！
+
+### 同伴生命值低·其一
+
+我来接手。
+
+### 同伴生命值低·其二
+
+交给我。
+
+### 倒下·其一
+
+…燃烧…殆尽…
+
+### 倒下·其二
+
+冷下去了…
+
+### 倒下·其三
+
+呵…也该…睡了…
+
+### 普通受击·其一
+
+又来麻烦了…
+
+### 重受击·其一
+
+…够烦人的！
+
+### 加入队伍·其一
+
+要出发了？
+
+### 加入队伍·其二
+
+尽快解决吧。
+
+### 加入队伍·其三
+
+那就走吧，我跟着你。

@@ -1,0 +1,199 @@
+{
+  "status": "passed",
+  "original_file": "archive (13-11-26-3).zip",
+  "original_sha256": "3fb48e921a076b67a90550e8c67e8e04b61ed32c74bc8673319ee01b560c0f17",
+  "original_markdown_files": 1293,
+  "retained_original_markdown_files": 1279,
+  "approved_previously_removed_original_quests": [
+    "content/stories/quests/world_quests/quest_wq_10156.md",
+    "content/stories/quests/world_quests/quest_wq_72238.md",
+    "content/stories/quests/world_quests/quest_wq_72240.md",
+    "content/stories/quests/world_quests/quest_wq_73071.md",
+    "content/stories/quests/world_quests/quest_wq_73077.md",
+    "content/stories/quests/world_quests/quest_wq_73098.md",
+    "content/stories/quests/world_quests/quest_wq_73229.md",
+    "content/stories/quests/world_quests/quest_wq_73319.md",
+    "content/stories/quests/world_quests/quest_wq_74012.md",
+    "content/stories/quests/world_quests/quest_wq_74014.md",
+    "content/stories/quests/world_quests/quest_wq_74054.md",
+    "content/stories/quests/world_quests/quest_wq_75064.md",
+    "content/stories/quests/world_quests/quest_wq_76087.md",
+    "content/stories/quests/world_quests/quest_wq_76660.md"
+  ],
+  "unexplained_missing_original_files": [],
+  "total_markdown_files": 1441,
+  "new_material_cards": 162,
+  "removed_notes": 58,
+  "removed_original_notes": 0,
+  "removed_new_images": 8,
+  "new_images_retained": 122,
+  "original_asset_files_byte_exact": 1424,
+  "all_current_assets_byte_exact_to_previous_build": 1546,
+  "original_css_byte_exact": true,
+  "original_nonstory_cards": 908,
+  "original_nonstory_preexisting_localization_updates": [
+    "content/artifacts/disenchantment_in_deep_shadow.md",
+    "content/artifacts/night_of_the_skys_unveiling.md",
+    "content/artifacts/pale_flame.md",
+    "content/books/a_brief_history_of_the_pale_starborn.md",
+    "content/weapons/catalyst/angelos_heptades.md",
+    "content/weapons/catalyst/nightweavers_looking_glass.md"
+  ],
+  "original_character_histories_preserved": {
+    "characters": 117,
+    "languages": [
+      "RU",
+      "EN",
+      "ZH"
+    ],
+    "differing_language_blocks": 0
+  },
+  "current_sources_byte_exact_to_previous_build": 1310,
+  "quest_metadata_only_changes": 128,
+  "all_quest_language_bodies_unchanged_to_previous_build": true,
+  "revision_fragment_repairs": [
+    {
+      "path": "content/artifacts/nymphs_dream.md",
+      "old_fragment": "Цветои Нарциссеные хранительницы",
+      "new_fragment": "Цветочные хранительницы",
+      "reason": "Восстановлена исходная формулировка пользовательского архива: частичное обновление повредило слово.",
+      "source": "original_user_archive",
+      "before_sha256": "0afd40e403f3f03f307cb7587f81c6e8bb30ef722f2bec083abe843240dde27d",
+      "after_sha256": "e9169aa9f7201593523bc7e7826a277b80eeea84f1bda83399971bd19cf6188f"
+    },
+    {
+      "path": "content/books/a_brief_history_of_the_pale_starborn.md",
+      "old_fragment": "геликий князь Альвис",
+      "new_fragment": "великий князь Альвис",
+      "reason": "Исправлена склейка первой буквы прежнего титула с новым титулом.",
+      "source": "existing_revision_intent",
+      "before_sha256": "d0942d83139ebec8381c334e7ab25e87231e8353bc98666804839a51b4d0e1a7",
+      "after_sha256": "92bf8c7f28fb33a7a1e34de88b300eeff1ee79c210559f7b1e4ad8e8153299e8"
+    },
+    {
+      "path": "content/weapons/catalyst/angelos_heptades.md",
+      "old_fragment": "в мягких лазурных объятиях лазурного сияния",
+      "new_fragment": "в мягких объятиях лазурного сияния",
+      "reason": "Устранён оставшийся при обновлении дубль определения; формулировка сверена с игровым текстом.",
+      "source": "https://genshin.honeyhunterworld.com/i_n14523/?lang=RU",
+      "before_sha256": "e5cfee5ec22c95e8c159940b142946872124c55305531daf94decd709a085e62",
+      "after_sha256": "e6295e3ae63d25d1a7f67ce59f00bd46870e49a0a3d3e62de1beef9f3b764b1f"
+    }
+  ],
+  "surviving_story_parts_and_voiceovers_equal_previous_build": 443,
+  "character_voiceovers": 9330,
+  "world_quests": 209,
+  "world_series": 29,
+  "grouped_world_quests": 127,
+  "standalone_world_quests": 82,
+  "mandatory_stories": [
+    {
+      "id": "quest_wq_10187",
+      "parts": 5,
+      "source_ids": [
+        77104,
+        77105,
+        77107,
+        77128,
+        77131
+      ]
+    },
+    {
+      "id": "quest_wq_10188",
+      "parts": 1,
+      "source_ids": [
+        77160
+      ]
+    },
+    {
+      "id": "quest_wq_10255",
+      "parts": 7,
+      "source_ids": [
+        77102,
+        77103,
+        77110,
+        77111,
+        77112,
+        77115,
+        77116
+      ]
+    },
+    {
+      "id": "quest_wq_10277",
+      "parts": 10,
+      "source_ids": [
+        77113,
+        77134,
+        77136,
+        77155,
+        77176,
+        77177,
+        77178,
+        77179,
+        77180,
+        77248
+      ]
+    },
+    {
+      "id": "quest_wq_10278",
+      "parts": 4,
+      "source_ids": [
+        77145,
+        77146,
+        77192,
+        77205
+      ]
+    },
+    {
+      "id": "quest_wq_10279",
+      "parts": 3,
+      "source_ids": [
+        77135,
+        77140,
+        77141
+      ]
+    },
+    {
+      "id": "quest_wq_10280",
+      "parts": 2,
+      "source_ids": [
+        77114,
+        77250
+      ]
+    },
+    {
+      "id": "quest_wq_10282",
+      "parts": 2,
+      "source_ids": [
+        77100,
+        77101
+      ]
+    }
+  ],
+  "mandatory_parts": 34,
+  "inventory_groups": {
+    "common_enemies": 53,
+    "development_materials": 58,
+    "teyvat_resources": 118,
+    "weekly_bosses": 14,
+    "world_bosses": 48
+  },
+  "books": {
+    "book_series": 111,
+    "notes": 0
+  },
+  "deleted_notes_absent_from_every_public_json": 1466,
+  "all_new_images_referenced": true,
+  "code_reference_audit": "reports/update_7_2/code_reference_audit.json",
+  "static_js_modules": 13,
+  "named_functions_reviewed": 239,
+  "unreferenced_named_function_candidates": 0,
+  "tests": {
+    "python": 5,
+    "node": 31,
+    "failed": 0
+  },
+  "existing_source_gaps": "QUEST_AUDIT_7_2.md",
+  "browser_visual_check": "Attempted but unavailable: local Chromium failed to start because socket() is prohibited in the execution environment. No visual pass is claimed. Client catalog, routing, filters, cache and PWA are covered by automated tests.",
+  "archive_package_check": "reports/update_7_2/package_audit.json"
+}

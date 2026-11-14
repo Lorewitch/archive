@@ -350,3 +350,863 @@ According to Ningguang, the Vision carries a message: "From today onward, leave 
 数箭交错，汇于半空，顷刻炸出一片水幕，犹如夏夜骤雨。
 雨后却无飞蝶或虹彩，仅有一道泛着淡彩的光柱降落到夜兰手中。
 照凝光的话说，这「神之眼」恰是信号，意为：「自今日起，诸事交由不普通的夜兰阁下」。
+
+# voice_source_ids: 60000,60001,60002,60003,60004,60005,60006,60007,60008,60009,60010,60011,60012,60013,60014,60015,60016,60017,60018,60019,60020,60021,60022,60023,60024,60025,60026,60027,60028,60029,60030,60031,60032,60033,60034,60035,60036,60037,60038,60039,60040,60041,60042,60043,60044,60045,60046,60047,60048,60049,60050,60051,60052,60053,60054,60055,60056,60057,60058,60059,60060,60061,60062,60063,60064,60065,60066,60067,60068,60069,60070
+
+## REPLICAS_RU
+
+### Привет...
+
+Здравствуй, путешественник. Зови меня Е Лань. Кажется, тебе нужна моя помощь, а мне как раз требуется кое-какая информация, которой ты располагаешь. Словом, давай выручим друг друга. / Здравствуй, путешественница. Зови меня Е Лань. Кажется, тебе нужна моя помощь, а мне как раз требуется кое-какая информация, которой ты располагаешь. Словом, давай выручим друг друга.
+
+### Поболтаем: Секретные сведения
+
+Я получила письмо от осведомителя. Кажется, ситуация снова изменилась.
+
+### Поболтаем: Прогул
+
+Хороший бросок... Ладно, возможно, возьму ещё один выходной, а к работе вернусь, когда появится настроение.
+
+### Поболтаем: Личность
+
+Ориентироваться в мире намного проще, когда у тебя есть несколько личностей. Хочешь, придумаю и тебе?
+
+### Когда идёт дождь...
+
+Опять дождь? Это плохо... Если дождь смоет следы, то мы вернёмся на шаг назад...
+
+### Когда гремит гром...
+
+Только невинные дети и трусливые взрослые боятся грома. Но ты не относишься ни к тем, ни к другим... Верно?
+
+### Когда идёт снег...
+
+Становится холоднее... Больше нельзя укрывать только плечи.
+
+### Когда светит солнце...
+
+Ослепительный свет раздражает. В такую погоду никак не вздремнуть.
+
+### Когда дует сильный ветер...
+
+В ветре чувствуется беспокойство... Хм...
+
+### Доброе утро...
+
+Ммм, так рано? Если нет срочной работы, обычно я встаю к обеду.
+
+### Добрый день...
+
+Ах, спать хочется. Пожалуй, вздремну немного... Не буди меня. Когда пора работать, я всегда просыпаюсь сама.
+
+### Добрый вечер...
+
+Добрый вечер. Ты уже поужинал? Было вкусно? О... Я просто поддерживаю разговор. Не думай об этом. / Добрый вечер. Ты уже поужинала? Было вкусно? О... Я просто поддерживаю разговор. Не думай об этом.
+
+### Спокойной ночи...
+
+Давай, попей молочка и ложись спать. Что? Ты не ребёнок? Хе-хе... Ладно, тогда я просто оставлю молоко здесь, выпей, если хочешь. Обычно я засыпаю далеко за полночь. Если ты разговариваешь во сне, то не могу обещать, что не стану записывать.
+
+### О Е Лань: Обязанности
+
+Цисин знают Ли Юэ как свои пять пальцев. Но определённую информацию можно получить только с помощью особенных методов. Я разбираюсь в этом, поэтому обычно берусь за такие задания сама.
+
+### О Е Лань: Слухи
+
+Говорят, что владелец чайного дома «Яньшан» - молодой предприниматель, разбогатевший за одну ночь; говорят, что за городом живёт отшельником болезненный высокопоставленный сотрудник Департамента по делам граждан; говорят, что следует держаться подальше от запретных зон, иначе вас будет преследовать синий призрак... Очевидно, что большинство никогда не слышало о Е Лань. Можешь смело отшучиваться от всех этих слухов.
+
+### О нас: Отношения
+
+А? Что за выражение лица? Тебе не нужно быть настороже рядом со мной. Я никогда не строю козни против людей, получивших моё одобрение.
+
+### О нас: Обман
+
+Не жди, что все будут говорить правду, обычно люди говорят то, что ты хочешь услышать. И подумай дважды, прежде чем встретиться с кем-то взглядом - глаза прекрасно выдают мысли. Мы всё-таки друзья, и если тебя обманут, то и я буду чувствовать себя глупо.
+
+### Глаз Бога...
+
+Добыча важной информации зачастую бывает смертельно опасной. Неважно, насколько большая и надёжная у тебя команда, полностью исключить риск невозможно. Суть в том, чтобы иметь достаточно сил для контроля ситуации. Мне повезло, я получила Глаз Бога всего спустя пару дней после осознания этой истины. Иначе... С тобой бы сейчас разговаривал зачуханный призрак.
+
+### Давай поделимся: Заглушить шум
+
+Если отшлифовать жемчужины аксолотля до нужного размера, из них получаются отличные затычки для ушей. Они звуконепроницаемы, можно спокойно спать, даже когда кто-то орёт прямо в ухо. Конечно, надеюсь, тебе никогда такие не понадобятся.
+
+### Давай поделимся: Элегантный браслет
+
+Браслет на моей правой руке? Полагаю, тебе я могу рассказать... Он содержит своего рода магию, используемую нашим кланом, и может отправлять простые сообщения. Смысл этих посланий скрыт в голубом свете, и только я могу их расшифровать.
+
+### Давай поделимся: Стремление к цели
+
+Когда я выслеживаю цель, мне нравится оказывать на неё психологическое давление. Пытаясь избавиться от меня, она паникует, ищет подкрепление, меняет планы... Пока не выдаёт то, что мне нужно знать. Хех...
+
+### Интересные вещи...
+
+Ты много знаешь о хорьках-барахольщиках? Они не особо умные, но если их приручить, то они могут красть вещи и даже взламывать замки. Яркий пример! Если метод правильный, то даже животных можно использовать в качестве пешек. То же самое верно и в отношении людей, которые и так постоянно строят козни и интриги друг против друга.
+
+### О Нин Гуан: Отношения
+
+Я познакомилась с Нин Гуан давным-давно, ещё до того, как она стала частью Цисин. Некоторое время мы работали вместе. Возможно, она присоединилась к Цисин так быстро отчасти благодаря мне. Хе-хе, кто знает? В общем, именно она рекомендовала мне эту работу. Хороший выбор, она мне отлично подходит.
+
+### О Нин Гуан: Ожидания
+
+С Нин Гуан приятно работать. Но я должна не забывать о разнице наших статусов на публике. Когда я встречаю Цисин в качестве работника Департамента по делам граждан, то обязана обращаться «господин» или «госпожа».
+
+### О Гань Юй...
+
+А, секретарь... Я бы никогда не смогла работать без остановки, как она, и уж точно не с такой эффективностью. Думаю, в том, чтобы быть наполовину адептом, есть свои преимущества. Представь, можно не спать и всё равно быть энергичной...
+
+### О Кэ Цин...
+
+Не люблю тех, кто забивает своё расписание до предела, не оставляя ни капли свободного времени. Если случится что-то непредвиденное, все планы рушатся, что влияет не только на них самих, но и их коллег. Но Нефритовое Равновесие другая. Она всё делает по порядку. Мне нравится работать с ней.
+
+### О Янь Фэй...
+
+Мне очень нравится Янь Фэй. И я говорю не о нашей дружбе. Она знаменитый консультант по юриспруденции, а потому через неё проходит множество ценной информации в Ли Юэ. Всякий раз, когда помогаю ей, я получаю взамен важные подсказки. Но её уважение ко мне кажется слегка чрезмерным.
+
+### О Сяо...
+
+Старейшины моего клана говорили, что мы всегда должны выражать уважение Защитнику Яксе. Говорят, что один из моих предков, страдающий сумасшествием, успокаивался, лишь проходя мимо постоялого двора «Ваншу». Должно быть, это потому, что Якса отгоняет злых духов. Тем не менее, если мне когда-нибудь выпадет честь сражаться бок о бок с Охотником на демонов, я буду думать только о задании. Я не могу позволить себе отвлекаться из-за его статуса.
+
+### О Сян Лин...
+
+Ах, Сян Лин, наш прелестный маленький шеф-повар. Её ингредиенты всегда лучшего качества, не уступающие «Глазурному павильону» и шатру «Синьюэ». Иногда я хожу к ней за сушёным заоблачным перчиком... Похоже, она не понимает то, как я его ем, а я не хочу объяснять. Это семейная традиция.
+
+### О Син Цю...
+
+Конечно, я помню его, молодого господина из торговой гильдии «Фэйюнь». Я постоянно общаюсь с его семьей. Кто знает... может быть, однажды он тоже перехитрит всех вокруг.
+
+### О Тарталье...
+
+Предвестник Фатуи? Однажды он помог мне, сам того не желая. Я планировала провести расследование в отношении бывшего владельца чайного дома «Яньшан», но наш дорогой Предвестник добрался до него раньше, потребовал возвращения долга и обвинил в мошенничестве, из-за чего хозяина бросили за решётку. Это позволило мне завладеть чайным домом «Яньшан», который оказался очень полезной базой.
+
+### Узнать больше о Е Лань I
+
+Я готова сделать на тебя ставку из-за твоего особенного положения. Ты наверняка сможешь помочь мне получить зацепки, которые приведут меня к правде... Хех, что ж, есть какие-либо новости?
+
+### Узнать больше о Е Лань II
+
+Обмен информацией должен быть взаимным, так что я расскажу тебе немного о своём прошлом. Благодаря связям моей семьи, я довольно рано научилась некоторым полезным навыкам у Миллелитов. Хотя собирать информацию довольно сложно, пока я жива, я всегда побеждаю...
+
+### Узнать больше о Е Лань III
+
+Подсказки цепляются одна за другую, словно звенья. Если проследить их, то можно добраться до первопричины. Поэтому я должна прислушиваться ко всем слоям общества, и часто это означает, что придётся использовать разные личности. Люди иногда называют меня многоликой или вроде того... Я воспринимаю это как комплимент.
+
+### Узнать больше о Е Лань IV
+
+Однажды меня предупредили, чтобы я была осторожней, копаясь в делах прошлого. Если копну слишком глубоко, то могу лишиться жизни. Что ж, я не собираюсь останавливаться, и уж точно не из-за чьих-то угроз. Да, я не могу изменить факты, но, если нужно выбрать между холодной и жестокой правдой и блаженным неведением, я выберу первое. А ты? Что бы ты выбрал? / Однажды меня предупредили, чтобы я была осторожней, копаясь в делах прошлого. Если копну слишком глубоко, то могу лишиться жизни. Что ж, я не собираюсь останавливаться, и уж точно не из-за чьих-то угроз. Да, я не могу изменить факты, но, если нужно выбрать между холодной и жестокой правдой и блаженным неведением, я выберу первое. А ты? Что бы ты выбрала?
+
+### Узнать больше о Е Лань V
+
+Кстати, если ты хочешь, чтобы я осталась с тобой, какой образ мне принять? Соратницы? Конкурента, который бросает вызов? Очередного имени в списке знакомых или... Кого-то более важного? В зависимости от твоего желания, я могу как сыграть эту роль, так и стать ею.
+
+### Хобби Е Лань...
+
+В свободное время я не строю никаких планов. Всё просто: я составляю список дел, затем бросаю кости, чтобы решить, за что взяться прежде всего. Забавная игра, расширяет границы мышления. Для работы тоже весьма полезно.
+
+### Беспокойство Е Лань...
+
+По сравнению с некоторыми мастерами боевых искусств моя физическая подготовка далеко не так хороша. Это наследственная черта. Прежде чем приступить к важной работе, я корректирую график, чтобы обязательно успеть отдохнуть и набраться сил, а потом сделать всё за один раз. Вне работы я стараюсь поддерживать спокойный темп жизни. Так что от физической работы я предпочитаю отказываться.
+
+### Любимая еда...
+
+Мне нравится измельчать сушёный заоблачный перчик и стеклянные колокольчики, затем смешивать их с чайными листьями и заваривать крепкий чай. Он обладает сильным ароматом, который никого не оставит равнодушным. Я предпочитаю этот напиток кофе или алкоголю.
+
+### Нелюбимая еда...
+
+Со сладостями следует быть осторожнее. Мощное чувство удовлетворения... ослабляет силу воли. Всего пара кусочков, и уже можно стать зависимым. А при длительном употреблении и поглупеть можно.
+
+### День рождения...
+
+Если бы я сказала, что, возможно, не стоит сегодня сильно праздновать, потому что это может ослабить твою бдительность, а кто-то наверняка только и ждёт подходящего момента, чтобы напасть... это бы прозвучало не очень. Так что расслабься и отдыхай. А, и обязательно загляни в чайный дом «Яньшан», я подготовила угощения специально для тебя. Не сладкие, конечно же. И с малюсенькой щепоткой перца.
+
+### Чувство возвышения: Начало
+
+В моей работе боевые навыки очень важны.
+
+### Чувство возвышения: Нарастание
+
+Только если мы действуем быстро, точно и беспощадно, мы можем разоблачить ложь и устранить помехи на пути.
+
+### Чувство возвышения: Кульминация
+
+Поиск истины может показаться простым, но требуется настойчивость, чтобы идти по следу, и сила, чтобы проникнуть вглубь опасной территории.
+
+### Чувство возвышения: Окончание
+
+Я давно уже считаю тебя своим самым важным осведомителем. Естественно, я должна быть полностью готова к рискам, связанным с окончательным ответом. Давай добудем его!
+
+### Элементальный навык I
+
+Поймала.
+
+### Элементальный навык II
+
+Попались.
+
+### Элементальный навык III
+
+Тише.
+
+### Взрыв стихии I
+
+Игра окончена, конец веселью!
+
+### Взрыв стихии II
+
+А вот и подвох.
+
+### Взрыв стихии III
+
+Кости брошены.
+
+### Начало спринта I
+
+Полегче.
+
+### Открытие сундука I
+
+Лёгкая нажива.
+
+### Открытие сундука II
+
+Сокровище... один из способов выманить цель из укрытия.
+
+### Открытие сундука III
+
+Сундук, полный ценных вещей... и множества потенциальных зацепок.
+
+### Низкий уровень HP I
+
+Какое разочарование...
+
+### Низкий уровень HP II
+
+Это была плохая идея...
+
+### Низкий уровень HP III
+
+Я не учла этого...
+
+### Низкий уровень HP компаньона I
+
+Хватит, отойдите.
+
+### Низкий уровень HP компаньона II
+
+Об остальном позабочусь я.
+
+### Без сознания I
+
+Каковы... шансы?
+
+### Без сознания II
+
+Как я могла... так ошибиться...
+
+### Без сознания III
+
+Но истина... ещё не открыта...
+
+### Получен лёгкий удар I
+
+Дерзко.
+
+### Получен тяжёлый удар I
+
+Нет...
+
+### Присоединяется к группе I
+
+Кто наша цель на этот раз?
+
+### Присоединяется к группе II
+
+Пора браться за дело.
+
+### Присоединяется к группе III
+
+Давай найдём ответы.
+
+### Подарок I
+
+Хм, неплохо. Почти достаточно, чтобы меня подкупить.
+
+### Подарок II
+
+Когда привыкнешь к острой еде, всё остальное кажется пресным. Ничего не поделать.
+
+### Подарок III
+
+Бросим кости? Кто выкинет меньше... Тот и съест.
+
+## REPLICAS_EN
+
+### Hello
+
+Hello, Traveler. Call me Yelan. I think you may need my help, and I just so happen to be interested in some information you have. In other words — you scratch my back, I'll scratch yours.
+
+### Chat: Tip-Off
+
+I got a new letter from an informant. Looks like the situation has changed again.
+
+### Chat: Truancy
+
+Good roll... Alright, maybe I'll take one more day off, and knock out the rest of the work once I'm feeling up to it.
+
+### Chat: Identity
+
+Navigating the world is a whole lot easier with a few different identities to choose from. Need me to come up with some for you?
+
+### When It Rains
+
+It's raining again? Oh, this isn't good... If the rain washes away the traces, it's gonna set us back a long way...
+
+### When Thunder Strikes
+
+Only innocent children and timid adults are scared of thunder. But you're not either of those... are you?
+
+### When It Snows
+
+It's getting a little cold... Time to bundle up.
+
+### When the Sun Is Out
+
+This blinding sunlight is such a pain... No way I can get a nap in this weather.
+
+### When the Wind Is Blowing
+
+There's a restlessness in the wind... Hmm...
+
+### Good Morning
+
+Mmm~ So early... I usually get up at noon if I don't have any urgent work.
+
+### Good Afternoon
+
+Ah, I'm getting sleepy. Think I'll take a nap... Don't wake me. I'll wake up naturally when it's time to work.
+
+### Good Evening
+
+Good evening. Have you had dinner? What did you have, how was it? Oh... Just making conversation. Don't think anything of it.
+
+### Good Night
+
+Come on now, drink your milk and go to sleep. What? You're not a kid? Hehe... Alright, well, I'll just leave it right here, it's yours if you want it. I usually fall asleep well after midnight. Full disclosure — if you're a sleep talker, I can't promise I won't take notes, kay?
+
+### About Yelan: Duties
+
+The Qixing know Liyue like the back of their hands. But there's certain information out there that can only be obtained using more specialized methods. That's my area of expertise, so I generally take care of all those assignments myself.
+
+### About Yelan: Rumors
+
+Some say the boss of Yanshang Teahouse is a young entrepreneur who got rich overnight; some say there's a sickly and frail senior employee of the Ministry of Civil Affairs living as a hermit outside the city; others say you should stay away from restricted areas, or you'll get haunted by a blue ghost... Obviously, most civilians have never heard the name Yelan before. So you can safely laugh off all these rumors.
+
+### About Us: Relationship
+
+Huh? What's that look on your face for? You don't have to be on guard around me. I never scheme against people who have my stamp of approval.
+
+### About Us: Deception
+
+Don't be too ready to believe people when they cross their heart and hope to die. Sweet talkers only say what you want to hear. And think twice before meeting someone else's gaze — your eyes speak volumes about what you're thinking. When it comes down to it, we're friends, and if somebody ever conned you, I'd feel like I'd been cheated, too.
+
+### About the Vision
+
+Wherever there's important information to be found, the stakes involved in extracting it are often fatal. It doesn't matter how big or reliable the team under you may be, you can never completely rule out the risk. The bottom line is, have enough force at your fingertips to control the situation. I got lucky — I got my Vision just a few days after realizing that. Otherwise... you'd probably be talking to a very disheveled-looking ghost right now.
+
+### Anything to Share: Blocking Out Noise
+
+If you grind Loach Pearls down to size, they make excellent earplugs. They're very sound-proof — you can sleep away blissfully even when there's someone screaming right in your ear... Of course, I hope for your sake that you don't ever need them for that kind of reason.
+
+### Anything to Share: Fascinating Bracelet
+
+The bracelet on my right hand? I suppose there's no harm in telling you... It contains a kind of magic used by our clan, and it can send simple messages. The meaning of those messages is buried in the blue light, and only I can decipher them.
+
+### Anything to Share: Pursuing the Target
+
+When I'm tracking a target, I like to put psychological pressure on them. In the process of trying to shake me off, they will start to panic, bring in reinforcements, alter their plan... they keep going like this until eventually, they've exposed everything I need to know. Heh...
+
+### Interesting Things
+
+Do you know much about Weasel Thieves? They're not especially intelligent creatures, but once you tame them, they can be trained to steal things and even pick locks. Pretty clear-cut case, isn't it — if even animals can be used as pawns with the right methods, the same has to be all the more true of people, who are constantly plotting and scheming against one another to begin with.
+
+### About Ningguang: Relationship
+
+I got to know Ningguang a long time ago, before she was a Qixing, and we worked together for a while. Maybe I'm partly to thank for the fact that she became a Qixing so quickly. Hehe, who can say? Anyway, she was the one who recommended this job to me. It was a good choice, I'm very well-suited to it.
+
+### About Ningguang: Expectations
+
+Ningguang is good to work with. But I have to be mindful of our identities when I'm out in public. When I meet a Qixing as an employee of the Ministry of Civil Affairs, they're "Sir" or "Lady" to me.
+
+### About Ganyu
+
+Ah, the secretary... I could never work non-stop like she does, certainly not at that level of efficiency. I guess being half-adeptus must have its perks. Imagine not needing sleep to regain your energy levels...
+
+### About Keqing
+
+I don't really like people who cram their schedules full, because it doesn't leave any room for negotiation. If something happens that they didn't anticipate, it throws their plans into oblivion, impacting not just themselves but their coworkers, too. But the Yuheng is different. She works in a very methodical way. I always enjoy working with her.
+
+### About Yanfei
+
+I like Yanfei a lot. And I'm not talking about our friendship — as a high-profile legal consultant, important intel in Liyue Harbor is constantly flowing in her direction. Whenever I help her out, I always get some invaluable leads in return. I gotta say though, sometimes I think she respects me a little too much.
+
+### About Xiao
+
+The elders in my clan once said that we must always show the utmost respect to the Vigilant Yaksha. Apparently, the only time that our ancestor would gain some temporary relief from his insanity was when passing by the Wangshu Inn. It must have been the comforting effect of his presence that wards off evil spirits. That said, if I ever have the honor of fighting side by side with the Conqueror of Demons, I will focus only on the mission. I cannot let myself be distracted by concerns about his status.
+
+### About Xiangling
+
+Ah, Xiangling, the lovely little chef. Her ingredients are always top quality, easily as good as Liuli Pavilion and Xinyue Kiosk. Sometimes I go to her for dried Jueyun Chilis... She doesn't seem to understand why I eat them in the way that I do, and I don't feel like trying to explain it to her, either. It's just a family tradition.
+
+### About Xingqiu
+
+Of course I remember him — the young master of the Feiyun Commerce Guild. I have dealings with his family all the time. Who knows... maybe one day, he'll be outsmarting everyone around him, too.
+
+### About Tartaglia
+
+The Fatui harbinger? He helped me out once — unwittingly. I was planning a deep-reaching investigation into the former owner of the Yanshang Teahouse, but our harbinger friend got to him first. He showed up demanding payment of his debt, and also exposed his accounting fraud, which got him thrown in jail. That made it very easy for me to take over Yanshang Teahouse myself, and it's proven to be a very useful base.
+
+### More About Yelan: I
+
+The reason I'm willing to bet on you is because of your special status. I think it'll bring me a lot of leads that can get me closer to the truth... Heh, so, got any news for me today?
+
+### More About Yelan: II
+
+Exchanging information has to be a two-way thing, so I guess I can tell you something about my past. Thanks to my family's connections, I learned some useful skills from the Millelith scouts very early on. Although there are things working against you every step of the way when you're gathering intelligence, as long as I keep myself alive, I'll always emerge as the winner in the end...
+
+### More About Yelan: III
+
+Clues are links in a chain. You have to trace them all the way back to where everything began before there can be a resolution. To that end, I need to keep my eyes and ears on every part of society, and often, that means having to be more than one person. People sometimes describe me as "one person, many faces" and so on... I take it as a compliment.
+
+### More About Yelan: IV
+
+Someone once warned me to be careful about digging up certain things from the past. Dig too deep and you might find yourself standing in your own grave, they say... Well, I'm not about to stop, least of all because of anything anyone else has to say. Sure, I can't change the facts, but if it's a choice between the cold, hard truth and blissful unawareness, I'll take the former. What about you? Which would you choose?
+
+### More About Yelan: V
+
+Tell me something. If I'm gonna stay around, what kind of person do you want me to be to you? Someone you work with? A competitor, who challenges you to sharpen your game? Just another name on your long list of acquaintances, or... somebody more important than that? Depending on what you're hoping for, I can either play that part or become that person.
+
+### Yelan's Hobbies
+
+In my free time, I live life completely at random. It's quite simple: I make a list of things to do, then I roll the dice to decide which one I'm going to do next. It's a surprisingly fun game, and it's really broadened my mind... in that sense, it's been quite helpful where my job is concerned.
+
+### Yelan's Troubles
+
+My physical fitness isn't actually that great compared with some trained martial artists. It's a hereditary thing that runs in my family. So before getting into really important work, I adjust my schedule to make sure I get enough rest, wait till I have built up enough energy, then strive to finish everything that needs doing in one go. Outside of work, I try my best to live life at a calm and carefree pace. So I'll always decline to take on any strenuous physical labor.
+
+### Favorite Food
+
+I like to grind dried Jueyun Chilis and Violetgrass stamens into powder, mix them in with some Yunlai White Tea leaves, and then brew a strong pot of tea. It has the most powerful fragrance that makes you instantly fall in love with it. I prefer drinks like this with a long-lasting aftertaste to things like coffee and spirits.
+
+### Least Favorite Food
+
+You have to be very careful with sweets. That powerful sense of satisfaction... it weakens your willpower and makes you relaxed. It only takes a few bites to get addicted, and with long-term consumption, you'll slowly but surely lose your edge.
+
+### Birthday
+
+If I was to tell you that maybe you shouldn't celebrate too hard today, because you'll let your guard down, and someone out there might just be waiting for that moment to make their move on you... it probably wouldn't go down very well. So, relax and take it easy today. Oh, and you should stop by the Yanshang Teahouse — I whipped up some treats especially for you. Not sweet ones, of course. Just the tiniest little hint of chili.
+
+### Feelings About Ascension: Intro
+
+In my line of work, combat skills are essential.
+
+### Feelings About Ascension: Building Up
+
+Sometimes, you have to strike hard and fast at just the right moment to expose the lies while avoiding any unwanted interference.
+
+### Feelings About Ascension: Climax
+
+Finding the truth might sound simple, but it takes perseverance to stick to the trail of clues and it takes strength to follow them deep into dangerous territory.
+
+### Feelings About Ascension: Conclusion
+
+I have long regarded you as my most important informant. Naturally, I need to be fully prepared to face whatever risks come with the final answer when you bring it to me. Come on, let's go get it!
+
+### Elemental Skill: I
+
+Busted.
+
+### Elemental Skill: II
+
+Gotcha.
+
+### Elemental Skill: III
+
+Quietly now.
+
+### Elemental Burst: I
+
+Game's up, fun's over!
+
+### Elemental Burst: II
+
+Here comes the catch.
+
+### Elemental Burst: III
+
+Things are about to get dicey.
+
+### Sprint Start: I
+
+Take it easy.
+
+### Opening Treasure Chest: I
+
+Easy money.
+
+### Opening Treasure Chest: II
+
+Treasure... one way to draw your target out of hiding.
+
+### Opening Treasure Chest: III
+
+A chest full of valuables... and a trove of potential clues.
+
+### Low HP: I
+
+What a drag...
+
+### Low HP: II
+
+Winging it wasn't the best idea...
+
+### Low HP: III
+
+I didn't factor this in...
+
+### Ally at Low HP: I
+
+Get back, I'll finish this job.
+
+### Ally at Low HP: II
+
+You're running cold, allow me.
+
+### Fallen: I
+
+What are... the odds?
+
+### Fallen: II
+
+How was I... so wrong...
+
+### Fallen: III
+
+But the truth... is still unknown...
+
+### Light Hit Taken: I
+
+Gutsy.
+
+### Heavy Hit Taken: I
+
+No...
+
+### Joining Party: I
+
+Who's our target this time?
+
+### Joining Party: II
+
+It's time to pull the trigger.
+
+### Joining Party: III
+
+Let's go get ourselves some answers.
+
+### Receiving a Gift: I
+
+Hm, not bad. Almost good enough to bribe me with.
+
+### Receiving a Gift: II
+
+Once you get accustomed to spicy food, everything else tastes bland. That's just the way it is.
+
+### Receiving a Gift: III
+
+Shall we roll some dice? Whoever gets the lowest number... gets to eat it.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，旅行者，叫我夜兰就好。我想你或许会需要我的帮助，我恰好也对你所拥有的情报感兴趣。总之，让我们友好相处，互帮互助吧。
+
+### 闲聊·线报
+
+线人来信了，嗯，看来又出现了新的变数。
+
+### 闲聊·翘班
+
+点数不错，今天就继续翘班吧，等到状态好了，再去把活一次干完。
+
+### 闲聊·身份
+
+在这世间行走，「身份」多一点才便利。需要我帮你捏造一些吗？
+
+### 下雨的时候…
+
+又下雨了？真是麻烦啊…痕迹一旦被雨水冲刷干净，就需要不少时间来还原了…
+
+### 打雷的时候…
+
+在打雷时会感到害怕的，要么是纯真的孩子，要么是心虚之人。你应该两者都不算吧？
+
+### 下雪的时候…
+
+有点冷嘛…不能把外套披在肩上了。
+
+### 阳光很好…
+
+刺眼的阳光，好烦人啊。这样一来，我可没法打盹了。
+
+### 刮大风了…
+
+风里传来了躁动不安的情绪…嗯…
+
+### 早上好…
+
+…嗯~这么早？没有必要的工作时，我习惯中午起床。
+
+### 中午好…
+
+啊，有点困了，小睡一会儿吧，不用提醒我，到了工作时间，我自然会醒的。
+
+### 晚上好…
+
+晚上好啊，晚饭吃了吗？吃了点什么？啊…我就随口问问，不要太在意。
+
+### 晚安…
+
+把牛奶喝了，乖乖睡吧。嗯？你说你不是小孩子？呵呵…那就放在这里，喝不喝随便你了。我的话，一般会在后半夜入睡。万一你有讲梦话的习惯，我不能保证不把它们记下来哦。
+
+### 关于夜兰自己·职责
+
+七星对璃月各地的情况了如指掌，但总有一些情报需要通过特殊手段去收集。我算是这方面的行家，所以这类差事基本被我包揽了。
+
+### 关于夜兰自己·传闻
+
+有人说，岩上茶室的现任老板是个一夜暴富的年轻商人；有人说，总务司有位体虚多病的高等雇员，隐居在城外；还有人说，不要接近涉密地区，会被蓝色的鬼魂缠上…当然，大多普通人完全没听说过「夜兰」这个名字。所以你把那些传闻当成笑话听就好。
+
+### 关于我们·关系
+
+嗯？你那是什么表情？跟我相处不用这么警惕，我啊，从来不算计自己认可的人。
+
+### 关于我们·欺骗
+
+别过分期待他人的「肺腑之言」，滑头鬼只会说你爱听的话；也别轻易迎接他人的目光，眼神最容易出卖一个人的情绪。我们怎么说都是朋友，要是你被人骗，我也会有种吃了哑巴亏的感觉呢。
+
+### 关于「神之眼」…
+
+重要情报所在的地点，往往隐藏着致命的杀机，无论有多少可靠的部下，都无法彻底排除风险，足够破局的武力才是关键。我还算走运，至少在悟出这个道理后几天，就获得了「神之眼」。否则，站在这里和你聊天的…就是蓬头垢面的鬼魂了。
+
+### 有什么想要分享·屏蔽噪音
+
+仔细打磨鳅鳅宝玉后，可以将它当成耳塞，隔音效果很不错，哪怕有人在你耳边嘶声哀嚎，都不会打扰你的美梦。当然，希望你以后不必用到这种东西。
+
+### 有什么想要分享·幽奇腕阑
+
+右手的镯子？告诉你也无妨…它蕴含着我们家族的术法，能传递简单的信息。至于信息的含义，都隐藏在这蓝光中，只有我能看懂。
+
+### 有什么想要分享·追踪目标
+
+在追踪目标时，我一般倾向于给对方施加心理压力。在试图摆脱我的过程中，他们会阵脚大乱、搬救兵、改变计划…直到把自己的老底都交待出来。呵…
+
+### 感兴趣的见闻…
+
+你了解盗宝鼬吗？它们的智力平平，但经过人为驯化后，也能熟练地重复偷盗，甚至开锁撬锁。多鲜活的例子啊——只要方法得当，连动物都能作为趁手的棋子，勾心斗角的人们又何尝不是如此？
+
+### 关于凝光·关系
+
+我跟凝光认识得早，那时她还不是七星，我们合作了一段时间。她能提前当上七星，说不定也有我的功劳。呵，谁知道呢？总之，现在这份工作是她推荐给我的。确实不错，很适合我。
+
+### 关于凝光·期待
+
+凝光是个不错的合作对象。不过我平日在外行走，得注意身份。总务司雇员见到七星，难免要尊称一声大人了。
+
+### 关于甘雨…
+
+那位秘书啊…我不可能像她那样，时刻不停地工作。何况她的效率同样无可挑剔。半仙的血统大概给了她不少便捷吧，不用睡觉也能保持精力。
+
+### 关于刻晴…
+
+我不太喜欢把日程排得很满的人，他们没有给自己留下调整的余地，只要碰上意外，就会手忙脚乱，连累同僚。但「玉衡」不同，她总是有条不紊地办事，每次与她共事，都令我相当愉快。
+
+### 关于烟绯…
+
+烟绯啊，我还挺喜欢她的。不谈以前的交情，作为鼎鼎有名的律法咨询师，她是璃月港内诸多情报的交汇点。每次帮她搞定麻烦，我都能顺带收获珍贵的线索。但她似乎对我有些敬重过度了。
+
+### 关于魈…
+
+家族的长辈们曾说，要对「护法夜叉」保持最大的敬畏。据说我那疯疯癫癫的先祖路过望舒客栈时，都会少见地安分下来，想必是被他那驱除邪祟的威压给照顾了。但若是有一天，我有幸与那位「降魔大圣」并肩作战，我还是会以任务为重，不可能因为他的身份而有所顾忌。
+
+### 关于香菱…
+
+香菱啊，讨人喜欢的小厨师，挑选食材的标准完全不输琉璃亭和新月轩。有时我会去她那里买些风干后的绝云椒椒。她似乎不理解我吃辣的方式，我也不想和她解释，这是家族的传统。
+
+### 关于行秋…
+
+我当然记得他，飞云商会家的小少爷。我经常和他们家来往。也许以后，他也会成为眼观六路的能人呢？
+
+### 关于达达利亚…
+
+那位愚人众的执行官？他在无意中给我带来了一些好处。我原本打算彻查「岩上茶室」的前任老板，但那位执行官下手更快，强硬地上门讨债，还公开了前任老板做的假账，让他获罪入狱。我也因此顺利接管了岩上茶室，得到了一个不错的据点。
+
+### 想要了解夜兰·其一
+
+愿意在你身上下注，是考虑到你身份特殊，应当能为我找来不少通往「真相」的线索。呵，今天带来什么消息了吗？
+
+### 想要了解夜兰·其二
+
+交换情报讲究平等，和你讲些往事也无妨。托家族的福，我从千岩军的斥候那里学到了一些本事，挺早就入行了。虽然收集情报的过程会受到各种阻挠，但只要丢不掉性命，最后的赢家，总归是我…
+
+### 想要了解夜兰·其三
+
+线索是一环扣一环的，沿着它们不断追查到一切的根源，才算是个了结。为此，我有必要将耳目散布到各行各业去。在这个过程中，难免就要扮演各种角色。有些人形容我「一人千面」，这种说法，我就当成夸奖收下了。
+
+### 想要了解夜兰·其四
+
+有人告诫过我，贸然探查某些往事，有可能惹来杀身之祸。呵，我可不想停下，更不会因为别人的话就停下。哪怕无法改变事实，我也绝不能待在迷雾中。你呢？你的选择会是什么？
+
+### 想要了解夜兰·其五
+
+说起来，你希望陪伴在你身边的我，是怎样的人？普通的合作对象？磨砺你的竞争对手？众多泛泛之交中的一位…还是说…重要的伙伴？依你的期望和态度，我可以「扮演」或「成为」他们中的任何人。
+
+### 夜兰的爱好…
+
+闲暇之时，我会随机安排生活。方法很简单：列一张清单，投骰子来决定接下来要做的事。这种消遣能带来意想不到的乐趣，还能让我拓宽思维的边界，对于我的本职工作而言，也算有不小的帮助。
+
+### 夜兰的烦恼…
+
+相较于一些武人，我的体能其实不算太好，这是家族遗传的毛病。处理某些不能怠慢的工作前，我会调整作息，积蓄精力，争取一次完事收工。除此之外的时间里，我会尽量保持悠哉的节奏。所以，体力活我会谢绝的。
+
+### 喜欢的食物…
+
+将风干后的绝云椒椒和琉璃袋的花蕊一同研磨成粉，均匀混合在云来白毫之中，沏一壶酽茶，它馥郁的香气必定会让你沉醉。相比咖啡和烈酒，我更偏好这种回味悠长的饮品。
+
+### 讨厌的食物…
+
+对于甜食，可得保持警惕啊。那种强烈的满足感…会削弱人的意志力，让人放松警惕。只要吃过几次，就有可能上瘾。长期吃甜食的人，或许会在不知不觉中变得迟钝吧。
+
+### 生日…
+
+要是在这种日子里，我还警告你「别因为庆祝而松懈，会被人趁机暗算」，可就太不解风情了。总之，今天你可以尽情放松。来「岩上茶室」坐坐，尝尝我为你特意准备的点心吧？当然，点心不甜，只是微微辣。
+
+### 突破的感受·起
+
+在我的工作中，战斗技巧从来不可或缺。
+
+### 突破的感受·承
+
+唯有在必要时刻快准狠地出手，才能揭露某些谎言，排除沿途的干扰。
+
+### 突破的感受·转
+
+探索「真相」听来简单，实则需要长期咬住线索的毅力，还有深入险境的实力。
+
+### 突破的感受·合
+
+我早已将你当成最为重要的线人。自然就要作好万全的准备，迎接你为我带来终极答案时附带的风险。走吧，我们去把它拿下！
+
+### 元素战技·其一
+
+收。
+
+### 元素战技·其二
+
+抓到了。
+
+### 元素战技·其三
+
+别喊疼。
+
+### 元素爆发·其一
+
+终场~收工！
+
+### 元素爆发·其二
+
+丝线，交织。
+
+### 元素爆发·其三
+
+点数如何呢？
+
+### 冲刺开始·其一
+
+不必心急。
+
+### 打开宝箱·其一
+
+取财有方。
+
+### 打开宝箱·其二
+
+宝箱，也能引蛇出洞。
+
+### 打开宝箱·其三
+
+散落的财物，无声的线索。
+
+### 生命值低·其一
+
+有点扫兴…
+
+### 生命值低·其二
+
+不能敷衍了事呢…
+
+### 生命值低·其三
+
+新的变数…
+
+### 同伴生命值低·其一
+
+点到为止，你退下。
+
+### 同伴生命值低·其二
+
+残局，让我来吧。
+
+### 倒下·其一
+
+哪一步…算错了？
+
+### 倒下·其二
+
+这种失误…不合理…
+
+### 倒下·其三
+
+真相…还没揭晓…
+
+### 普通受击·其一
+
+真有胆量。
+
+### 重受击·其一
+
+不对…
+
+### 加入队伍·其一
+
+咬住目标了？
+
+### 加入队伍·其二
+
+去收网吧。
+
+### 加入队伍·其三
+
+走吧，去打听点新消息。
+
+### 收到赠礼·其一
+
+嗯，手艺不错，差点就要被你贿赂成功了。
+
+### 收到赠礼·其二
+
+吃惯辣味之后，其他菜总觉得不够劲。没办法啊。
+
+### 收到赠礼·其三
+
+投个骰子吧？点数比我小的话…就你来吃？

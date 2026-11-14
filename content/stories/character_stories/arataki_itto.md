@@ -279,3 +279,887 @@ When gang members read this and excitedly showed the magazine to Itto, they were
 《闲事月刊》的问答栏目曾经刊登过一个问题：
 「希娜小姐，应该如何保养神之眼，才能让它更加光亮呢？最好是能够比其他人的神之眼都要耀眼醒目…」
 荒泷派的组员在读到上述内容后激动地把杂志拿给一斗看，但没想到身为希娜小姐粉丝的一斗只是随便瞥了一眼，就把杂志放在了一边。
+
+# voice_source_ids: 57000,57001,57002,57003,57004,57005,57006,57007,57008,57009,57010,57011,57012,57013,57014,57015,57016,57017,57018,57019,57020,57021,57022,57023,57024,57025,57026,57027,57028,57029,57030,57031,57032,57033,57034,57035,57036,57037,57038,57039,57040,57041,57042,57043,57044,57045,57046,57047,57048,57049,57050,57051,57052,57053,57054,57055,57056,57057,57058,57059,57060,57061,57062,57063,57064,57065,57066,57067,57068,57069,57070,57071,57072
+
+## REPLICAS_RU
+
+### Привет...
+
+Я предводитель банды Аратаки, и все знают моё имя... или имена? Итто «Величайший» Аратаки, Итто «Король сумо» Аратаки, Итто «Гордость óни» Аратаки, Итто «Жучиный гладиатор» Аратаки, Итто «Первый картёжник» Аратаки, Итто «Если проиграет, ни за что не признает» Аратаки... Вот так меня частенько и называют. Выбирай, какое нравится. Не стоит благодарности, ха-ха-ха-ха.
+
+### Поболтаем: Здесь был Итто
+
+Хе-хе, Итто «Номер один» Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...
+
+### Поболтаем: Закуски
+
+Что в мире самое вкусное? Сладкая, сладкая победа. Поэтому я ни единой моры ещё не потратил на закуски - я их по-честному выиграл... Вот так.
+
+### Поболтаем: Бои жуков
+
+Ты не смотри, что жуки такие маленькие - они ребята жёсткие. Знаешь, чем питается этот жук? Потом и слезами, вот чем! Так он становится сильнее... Думаю, нам тут есть чему поучиться!
+
+### Когда идёт дождь...
+
+Пфф, настоящему мужчине зонт ни к чему... Ой, сейчас хлынет. Давай, раскрывай свой, скорее-скорее-скорее!
+
+### Когда гремит гром...
+
+Эй! Не ты ли это, сёгун Райдэн? Ты мне не начальство, слыхала? Ну, давай, разрази меня!
+
+### Когда идёт снег...
+
+Ох-хо, пора поиграть в снежки! Но тебе меня не победить! А... а... апчхи! ...Ух.
+
+### Когда светит солнце...
+
+Отличная погодка! Пора достать оникабуто для тренировки! Давай, малыш, пошёл!
+
+### Когда дует сильный ветер...
+
+Главное - не давать ветру добраться до тебя. Особенно если у тебя такая сногсшибательная причёска, как у меня. О да!
+
+### Доброе утро...
+
+С добрым утречком! У меня кончилась мора... опять. Но зачем работать, если можно отправиться на прогулку. Что скажешь?
+
+### Добрый день...
+
+Раз уж мы перекусили, почему бы не сходить куда-нибудь? Ханамидзака? Нет, скучно. Комиссия Тэнрё? Тоже не пойдёт... Ай, ладно, пойдём на Рито!
+
+### Добрый вечер...
+
+Тсс! Слышишь?.. О нет, это привидение, беги!!! ...Ха-ха-ха, шутка! А тебе ведь страшно стало, да?
+
+### Спокойной ночи...
+
+Если сил больше нет, ложись отдыхать. Хм? Я? За меня не переживай... Я сплю с открытыми глазами, хе-хе.
+
+### Об Аратаки Итто: Нормальная работа
+
+Значит, говорят, что я не могу удержаться на нормальной работе? Ха-ха-ха, чушь какая! Видишь ли, я бродяга, а бродягам работать не положено. Ну а если это кому-то не нравится... Кому не нравится?! Тебе не нравится?! Хм... прости, что-то я завёлся. Так о чём это мы? Ах да, работать не по мне, но ты не волнуйся - я не вор и не грабитель какой. Когда я совсем на мели, то подрабатываю маленько: перевозкой товара, доставкой писем, привлечением клиентов и другой подобной мелочёвкой... лишь бы день простоять да ночь продержаться, хе-хе!
+
+### Об Аратаки Итто: Óни
+
+Óни пришлось пережить многое, чтобы добиться теперешнего положения и зажить в мире рядом с людьми. Жаль только, что многие до сих пор таят на нас злобу. Хм? Что делать? Конечно же, нужны перемены. Вот только я ни за что перед ними заискивать не стану. Я пойду своим путём, и люди зауважают меня.
+
+### О нас: Сотрудничество
+
+Слушай, я вот постоянно наблюдаю, как ты суетишься, помогая другим. Это же не ради моры, да? Да, ты просто справедливый и отзывчивый человек. Больше всего я ценю отношения со справедливыми людьми. Из нас обязательно получится отличная команда!
+
+### О нас: Зов
+
+Если честно, я восхищаюсь тобой. Всегда восхищался. В банде Аратаки для тебя вполне может найтись место. Я даже прозвище тебе придумал: Номер Два, потому что я первый номер, а вместе мы будем лучшими из лучших! Ха-ха-ха, ох... Если серьёзно, я знаю, что у тебя куда более важная цель... Давай, делай то, что считаешь нужным. И не забывай, что банда Аратаки всегда откликнется на твой зов.
+
+### Глаз Бога...
+
+Даже не спрашивай. Одна мысль об этом выводит меня из себя! Сначала армия сёгуната отнимает у всех драгоценные Глаза Бога, что само по себе уже большое злодеяние, а потом их вставляют в ту статую, причём вставляют как попало! Подумай только, чем сильнее Глаз Бога, тем выше он должен быть на статуе. Но, видите ли, какому-то болвану из комиссии Тэнрё вздумалось поместить мой Глаз Бога в самое основание! Эх, чтоб ему!..
+
+### Давай поделимся: Госпожа Хина
+
+О своих заботах ты всегда можешь попробовать написать в колонку советов журнала «Это жизнь». Каждому читателю госпожа Хина непременно даст тёплый и ободряющий ответ. Вот я когда-то был заблудшей душой, но благодаря ей это изменилось. ...Да, я ещё записался на встречу с ней. Ох, скорее бы она состоялась. Дни тянутся так долго...
+
+### Давай поделимся: Рога
+
+У меня к тебе вопрос! Скажи, после того как привыкаешь к моим рогам, они начинают смотреться скучно? Я тут подумал, а не выкрасить ли мне их во все цвета радуги и на кончики привязать по светлячку? И щеголял бы я такой по улицам, и все бы просто очумели от этой красоты! Да это же гениальная мысль! Решено, я собираю банду, пусть всё устроят!
+
+### Интересные вещи...
+
+Поделюсь с тобой настоящим секретом ловли оникабуто. Всё дело в глазах - они должны быть кристально чистыми. Особенно в грозу, когда льёт дождь и бушует ветер, оникабуто по неосторожности можно перепутать с фиалковой дыней.
+
+### О Томе...
+
+Я слышал от ребят, что он был главным героем на церемонии сотого Глаза Бога. Что за дела? В честь чего ему устроили особую церемонию? Сотый Глаз Бога что, круче девяносто девятого? Пф... Нетушки. Будь это так, им следовало выбрать меня!
+
+### О Камисато Аято...
+
+Ха-ха-ха-ха, жаль, что мы с Аято не встретились раньше! Однажды он сказал мне следующее: «Даже в самом слабом из жуков можно разжечь боевой дух». Если бы не эти мудрые слова, после семьсот восьмидесятого поражения я бы точно забросил бои жуков. Хех, наверное, лишь воин поймёт другого воина. Когда мы с ним играем в карты или устраиваем бои жуков, то обходимся почти что без слов.
+
+### О Ёимии...
+
+Ох уж эта девица... Только и дело что развлекает детей своими модными игрушками и фейерверками. Мне это уже надоело! Это я должен быть в центре внимания! Это меня должны обожать дети! И ты тоже поддержи меня... В смысле? Что значит, ты не ребёнок? Пустяки. Все, кто ниже меня - дети!
+
+### О Кадзухе...
+
+Слыхал я, что после вашего побега из Тэнсюкаку он смог блокировать удар Мусо но хитотати. Это правда? С ума сойти! Как это вообще ему удалось? Если подумать, мы оба из падших кланов... Это в некотором смысле делает нас равными, ха-ха! Значит, когда в следующий раз на тебя нападут, клинок заблокирую я!
+
+### О сёгуне Райдэн...
+
+Во время Охоты сёгун послала свою лучшую тэнгу отнять мой Глаз Бога. Видать, я был ей как кость в горле. Но, раз она Охоту на Глаза Бога уже отменила, то не так уж она и безнадёжна. Хе, надеюсь, Райдэн усвоила этот урок. Если она учудит нечто подобное ещё раз, эта кость вернётся, и будет куда больнее.
+
+### О даме с ушами кицунэ...
+
+Я тогда победил в состязании по поеданию рамэна кицунэ. Мне даже жареный тофу не помешал - ей было меня не одолеть! А после этого... после этого я целый месяц был прикован к постели. Но лучше уж валяться в лучах победы, чем уйти на своих двоих с поражением! Вдобавок ей пришлось с позором заплатить за тридцать две миски лапши, ха-ха-ха-ха!..
+
+### О Кудзё Саре...
+
+Да, я проиграл ей во время Охоты на Глаза Бога и без стыда признаю это. Раз уж проиграл, проигрывай с достоинством, а совершил ошибку - честно признай её, как настоящий мужчина! Вот только не будем забывать, кто из нас не решился на реванш - она, бравая тэнгу! Это же всего лишь матч сумо на перекрёстке. Чего она испугалась? Если она откажет в реванше опять, я вместо Кудзё Тэнгу стану называть её Кудзё Трусихой!
+
+### О Горо...
+
+А, пёсик-генерал сопротивления. Стоит отдать ему должное - хоть он и крохотный, но чрезвычайно отважен. Также я чую в нём что-то до боли знакомое, от чего на душе становится тепло... Это странно, потому что мы с ним практически не знакомы...
+
+### О Куки Синобу...
+
+Члены банды Аратаки всегда делают так, как скажу я. Все, кроме Синобу. Она постоянно мне перечит! Но это ещё ничего. Добычу, которая достаётся мне таким тяжёлым трудом, она возвращает! Но также Синобу вытаскивает меня из тюрьмы и всех тех передряг, в которые мы попадаем, так что это ей простительно. К тому же лучше мне её не злить, иначе она превратит мою жизнь в сущий кошмар...
+
+### О Саю...
+
+Стоило мне однажды легонько погладить Саю по голове, когда та отвлеклась, как теперь она при каждой встрече бросается на меня с кулаками. Ха-ха-ха, что я могу ещё сказать? Тануки такие милахи! Нельзя же просто вот так взять и не погладить их по головке. Ещё кое-что... она также взрывается, если её назвать тануки. А что тут такого? Разве она не тануки? Ишь ты, погладили - так сразу драться лезет...
+
+### Узнать больше об Аратаки Итто I
+
+Тебе наверняка любопытно, каким образом я стал неоспоримым предводителем банды Аратаки, умея только играть в карты да устраивать бои жуков? Хм, твоя правда, это просто детские забавы. Хочешь узнать, что мне на самом деле позволило добиться такого положения? Я умею есть рамэн, стоя на руках, спать с открытыми глазами, играть на гармошке носом и прихлопывать мух собственными волосами. Теперь-то ты понимаешь, да?
+
+### Узнать больше об Аратаки Итто II
+
+В Инадзуме на каждый праздник, новоселье, болезнь, да и вообще любое сколь-нибудь значимое событие разбрасывают бобы и напевают всякое вроде «Боб счастливый я бросаю, óни злого изгоняю» или «Óни уйди, счастье приди, óни уйди, счастье приди». Эти напевы у меня в печёнках сидят... Но главное, как мне, с моей-то аллергией, ходить по усыпанным бобами улицам?! Возмутительно! Óни невинны, и я докажу это ради всего нашего рода! И хватит в любой непонятной ситуации прибегать к экзорцизму.
+
+### Узнать больше об Аратаки Итто III
+
+Однажды, чтобы покончить с предрассудками людей насчёт óни, я приказал банде снять на фотокамеру то, как я показываю свою добрую и мягкую сторону, а снимок прикрепить на доске объявлений Инадзумы. В итоге какие-то негодники разрисовали его, но самое возмутительное вот что: дуралеи из комиссии Тэнрё обвинили меня в нарушении общественного порядка, комиссия Ясиро пожаловалась, что снимок портит атмосферу, а Кандзё прислали ко мне своих прихвостней с требованием оплатить какой-то налог на рекламу... Ох... Ну и кто из нас теперь плохие ребята?
+
+### Узнать больше об Аратаки Итто IV
+
+Банда Аратаки с гордостью принимает в свои ряды всех, кому не повезло в жизни. Некоторые называют нас чудаками и ненормальными, но ты их не слушай. Банда для меня как семья, да и мои ребята считают так же. Что бы ни случилось, мы разделим все радости и печали вместе.
+
+### Узнать больше об Аратаки Итто V
+
+Я, конечно, уважаю синих óни за то, что они принесли себя в жертву ради выживания багровых, но я в корне не согласен с этим поступком. Никто не должен жертвовать собой ради лучшего будущего. Будущее будет лучшим только тогда, когда оно лучше для всех. Нужно действовать сообща, а не замыкаться в себе, а потом приносить себя в жертву, пытаясь произвести впечатление. Увы, прошлого уже не изменить... Но можно изменить будущее. Я никому не позволю жертвовать собой. Захочешь принести себя в жертву - я помешаю тебе!
+
+### Хобби Аратаки Итто...
+
+Бои жуков, карты, юла, кэндама, прятки... Словом, я во что угодно играть умею! Выбери одну из игр и посоревнуемся, что скажешь? Только приготовься к тотальному поражению! Ха-ха-ха-ха!
+
+### Беспокойство Аратаки Итто...
+
+Бабушка Óни на деле никакая не óни... Она просто самый добрый в мире человек. Её прозвали так потому, что она приютила меня. Если я кому-нибудь не нравлюсь, ну и ладно, мне всё равно, что обо мне думают... Ах, лишь бы её из-за меня не беспокоили...
+
+### Любимая еда...
+
+Нет ничего лучше леденцов на палочке. Это не только вкуснейшая конфета, но и палочка, которая так круто торчит изо рта. С ней я выгляжу как реально плохой парень. Вот, попробуй и ты!
+
+### Нелюбимая еда...
+
+Ну, я же óни! Понятно, что больше всего я ненавижу бобы! Сою, фасоль, да и вообще все бобовые. Если я даже не съем, а просто прикоснусь к ним, у меня тут же начнётся аллергическая реакция. Ах, поскорее бы люди отвыкли швыряться ими!
+
+### День рождения...
+
+Сегодня важный день. Банду пришлось отправить по своим делам, иначе они обвинили бы меня в пристрастности. Вот, посмотри. Я приготовил тебе первоклассный деньрожденьский подарок! Один оникабуто высшего сорта - на его поимку у меня ушло три дня и три ночи; вышедшая из печати игральная карта, которая досталась мне после победы в трёхстах партиях; о, а ещё деньрожденьская песня в моём собственном исполнении. Кхм-кхм... С днём рождения тебя, с днём рождения тебя, с днём рождения, дорогой путешественник, с днём рождения тебя-я-я!.. / Сегодня важный день. Банду пришлось отправить по своим делам, иначе они обвинили бы меня в пристрастности. Вот, посмотри. Я приготовил тебе первоклассный деньрожденьский подарок! Один оникабуто высшего сорта - на его поимку у меня ушло три дня и три ночи; вышедшая из печати игральная карта, которая досталась мне после победы в трёхстах партиях; о, а ещё деньрожденьская песня в моём собственном исполнении. Кхм-кхм... С днём рождения тебя, с днём рождения тебя, с днём рождения, дорогая путешественница, с днём рождения тебя-я-я!..
+
+### Чувство возвышения: Начало
+
+Ох-хо, вот это я понимаю! Берегитесь, теперь я куда сильнее!
+
+### Чувство возвышения: Нарастание
+
+Какая силища... Мой показатель побед устремится к небесам!
+
+### Чувство возвышения: Кульминация
+
+Почувствуй эту мощь! Хочешь посмотреть, как я разбиваю валуны?
+
+### Чувство возвышения: Окончание
+
+Теперь моё прозвище «Номер один» стало реальностью. Я не забуду того, что ты для меня сделал. Ты всегда можешь рассчитывать на мою защиту. / Теперь моё прозвище «Номер один» стало реальностью. Я не забуду того, что ты для меня сделала. Ты всегда можешь рассчитывать на мою защиту.
+
+### Элементальный навык I
+
+Понеслась!
+
+### Элементальный навык II
+
+Бах!
+
+### Элементальный навык III
+
+Так держать!
+
+### Взрыв стихии I
+
+Посторонись, óни идёт!
+
+### Взрыв стихии II
+
+Ну, кто хочет выхватить?!
+
+### Взрыв стихии III
+
+Шоу начинается!
+
+### Открытие сундука I
+
+Отлично, новые игрушки для ребят!
+
+### Открытие сундука II
+
+Мне нереально везёт!
+
+### Открытие сундука III
+
+Привет, даровые деньги. Прощай, работа!
+
+### Начало спринта I
+
+Не догонишь!
+
+### Низкий уровень HP I
+
+Не стоит недооценивать óни!
+
+### Низкий уровень HP II
+
+Я не проигрываю! Это всё... часть плана...
+
+### Низкий уровень HP III
+
+Всего лишь царапина, не о чем беспокоиться!
+
+### Низкий уровень HP компаньона I
+
+За меня!
+
+### Низкий уровень HP компаньона II
+
+Я не позволю тебе пасть!
+
+### Без сознания I
+
+Увидимся на... реванше...
+
+### Без сознания II
+
+Я пал... но пал красиво...
+
+### Без сознания III
+
+Ребята, я подвёл вас...
+
+### Получен лёгкий удар I
+
+Получить хочешь?!
+
+### Получен лёгкий удар II
+
+Что так слабо?!
+
+### Получен тяжёлый удар I
+
+А вот это было больно!
+
+### Получен тяжёлый удар II
+
+Тебе не стыдно исподтишка бить?
+
+### Присоединяется к группе I
+
+В сторонку, Итто вернулся!
+
+### Присоединяется к группе II
+
+Я лучший!
+
+### Присоединяется к группе III
+
+Толпа ликует!
+
+### Подарок I
+
+Ха-ха-ха-ха-ха! Я целых три года такой вкуснятины не ел!
+
+### Подарок II
+
+Ладно! Я позволю тебе меня угостить, но помни, что банда Аратаки всегда платит по счетам.
+
+### Подарок III
+
+Эй, ты точно не пытаешься меня отравить?! А!..
+
+## REPLICAS_EN
+
+### Hello
+
+I'm the head honcho of the Arataki Gang, and everyone knows my name...s. Names, I have many. Arataki "The One and Oni" Itto, Arataki "The Oni Sumo King" Itto, Arataki "The Pride of Oni" Itto, Arataki "Beetle Gladiator" Itto, Arataki "The Ultimate TCG Champion" Itto, Arataki "He Might Lose but He'll Never Admit Defeatto"... Anyway, these are some of the ones I usually go by, so go ahead, take your pick. I'll respond to whichever one you choose, I promise. Hehe, you're welcome.
+
+### Chat: Itto's Here
+
+Arataki "Numero Uno" Itto, here in the flesh! Hahaha... *cough*
+
+### Chat: Snacks
+
+Best flavor in the world? The sweet, sweet taste of victory. And that's why I've never spent a single Mora on any of my snacks — I've won 'em all fair and square... That's right.
+
+### Chat: Beetle Fighting
+
+Don't underestimate the beetle — they can be some of the toughest little guys around! Yes you can, yes you can— Wanna know what's on this beetle's diet? Sweat and tears, that's what! That's how it gets stronger... I think we can all learn somethin' from that!
+
+### When It Rains
+
+Pff, real men don't carry umbrellas... Oh boy, wow, it's really starting to pick up. Uh quick, c'mon, get yours out! C'mon, quick, quick, quick!
+
+### When Thunder Strikes
+
+Hey! Raiden Shogun, is that you? Well guess what — you're not the boss of me. Uh-huh, that's right, you heard me! Go ahead, strike me down!
+
+### When It Snows
+
+Alright, it's time for a snowball fight! You're never gonna win, though, I... Ha, ah... Ah-choo!!! Whew.
+
+### When the Sun Is Out
+
+The sky is clear and the sun is shining... Time to get the Onikabuto out for some training! C'mon little guy, let's go!
+
+### When the Wind Is Blowing
+
+Bottom line: Never let the wind get to you. Especially when you've got a killer hairstyle like mine. Oh yeah!
+
+### Good Morning
+
+Morning, sunshine! Hey, uh... So listen, I'm fresh out of Mora... again. But hey, who needs some lousy job when we can just go find somewhere fun to hang out! Haha, whaddya say?
+
+### Good Afternoon
+
+Now that we've had some grub, why don't we go find somewhere to kick it for a while? Hanamizaka? Nah, boring. Tenryou Commission... No, no, no... Ah, forget it, let's go hang around Ritou!
+
+### Good Evening
+
+Shh! You hear that? *gasp* Oh no... it's a ghost, RUN!!! ... Haha, psyche! Ah, I got you good there! ... I got you, didn't I?
+
+### Good Night
+
+If you're tired, go ahead and call it a night. Hmm? Me? Oh, don't worry... I sleep with my eyes open... Haha... Literally.
+
+### About Itto: Getting a Real Job
+
+Oh, so they're saying I can't hold down a real job, huh? Well! Hahaha! Sorry to break it to ya, but I'm a delinquent. That means it's my job to not have a real job, and if anyone's got a problem with that... Who's got a problem with that, huh? You got a problem with that!? You got a problem with— *coughing* Sorry. Got a little worked up there. Where was I? Ah yeah, so work isn't really my thing, but don't worry — I don't rob or steal or anything like that. When I'm really runnin' low on funds, I just take the odd job here and there to make ends meet. You know, like transporting stuff, delivering documents, helping businesses attract customers... Just enough to keep the wolf from the door. Hehe!
+
+### About Itto: Oni
+
+The oni have been through a lot to get to where we are today, and look at us now — living peacefully alongside the humans. Unfortunately, there's still plenty of people out there who've got a bone to pick with us. Hmm? Change? Oh yeah, things are gonna change, alright! You can count on that! But I'll tell you what, it won't involve any sucking up to the humans on my part, nuh-uh! I'm gonna let my actions do the talkin'. They'll come to respect me eventually.
+
+### About Us: Cooperation
+
+Hey, so I always see you running around everywhere doing this and that for other people, but you're not in it for the Mora, are you? No, you're just straight-up lookin' out for your fellow man. I know a true homie when I see one, and no one appreciates a homies' homie more than yours truly. Put it here, partner! You and I are gonna make a great team, I just know it!
+
+### About Us: Response
+
+You know what, I gotta admit — I respect you, always have. I could really see you as a member of the gang, you know — I mean, you really have what it takes... Whaddya say? I've even come up with a catchy title to tag on after your name, get this: "The Traveler, 'Second to One'"! Get it? 'Cause y'know, I'm numero uno, you're my number two, and together we're the most powerful duo in the whole friggin' world, baby! Hahaha! Ah... But, uh, all jokes aside, I know you're on some important journey or whatever. So, go ahead! Get out there and do whatcha wanna do! Just remember, the Arataki Gang will always answer your call.
+
+### About the Vision
+
+Ugh, don't even ask. Just the thought of it makes my blood boil! First, the Shogun's Army goes out and steals everyone's precious Visions — which, already a heinous crime, right? But then... then they go and stick them all over that statue with absolutely no sense of organization whatsoever. I mean, think about it... the more powerful the Vision, the higher up on the statue it should go, that would make sense, right? But nooo, some class-A jerk in the Tenryou Commission thought it'd be funny to put my Vision right at the very bottom! Ugh... Come on!
+
+### Something to Share: Hina
+
+If you ever have something on your mind, you can always try writing in to "That's Life" magazine's advice column. Ms. Hina always manages to come up with an encouraging and heartwarming response for all her readers. Just look at me — I used to be a lost soul, but not anymore, and it's all thanks to her. Oh, that reminds me, I managed to sign up for one of her upcoming meet-and-greets! I've been counting down the days — wish it would go faster...
+
+### Something to Share: Horns
+
+Question for ya! Do my horns look boring once you get used to them? 'Cause, uh, I was thinking of switching up the style, going for a total overhaul, you know? I'm thinking paint them in rainbow stripes and then strap a few Fireflies on for good measure! Eh, eh? I bet that would turn some heads on the streets... like "Dude, you're rockin' those sweet rainbow horns, man!" ...Ah, man, this is totally genius! I'm gonna round up the gang and get them working on it ASAP.
+
+### Interesting Things
+
+Wanna know the real secret to catching Onikabuto? It's all in the eyeballs. You gotta keep those bad boys squeaky clean at all times, make sure your eyesight's as sharp as a hawk. Trust me, when you're in the middle of a thunderstorm, and the rain's coming down, and the wind's blowing in your face, you gotta watch out, because Lavender Melons and Onikabuto? Well, they can really start to look the same... believe me, I know.
+
+### About Thoma
+
+Some of the boys have been telling me that he was the star of the show at the Vision Hunt Ceremony. I'm like — are you kidding me??? How come he gets his own special ceremony!? Was the hundredth Vision supposed to be, like, stronger than the other ninety-nine, or something? Pff, nah, it can't have been that, 'cause, uh, hello! They would've chosen me if that's what they were going for.
+
+### About Kamisato Ayato
+
+Haha, I only wish I could have met my bro Ayato sooner. He really taught me something. "You can kindle the warrior spirit in even the weakest of bugs"... Yep, I really took that one to heart. If it weren't for those words of wisdom, I'm pretty sure I would have given up beetle fighting after losing for the 780th time... Heh, I guess sometimes it takes a warrior to understand a warrior. When we're playing trading card games or battling beetles, we're always totally on the same wavelength.
+
+### About Yoimiya
+
+Hmph, she's always showing off her fancy fireworks and toys to the kids. Well, I'm sick of it! Nobody steals my thunder! I'm the one that's supposed to be adored by the kids! Me! That goes for you too, you're siding with me on this, okay... Huh? Whaddya mean, you're not a kid? Eh, details. If you're shorter than me, you're a kid as far as I'm concerned.
+
+### About Kaedehara Kazuha
+
+Word on the street is that he blocked the Musou no Hitotachi after you escaped from Tenshukaku. Seriously? 'Cause I mean, that is awesome! Who knows how he pulled it off. Hey, now that I think about it, he's from a fallen clan, and I'm from a fallen clan... That kinda makes us equals, haha! Yeah, so next time someone attacks you, it's my turn to block the blade!
+
+### About the Raiden Shogun
+
+During the Vision Hunt Decree, the Shogun had to send her top tengu in person to get my Vision off me. Heh, means she must have found me to be quite the pain in the neck. But, y'know, she's abolished the Vision Hunt Decree now, so no hard feelings, I guess. As long as she's learned her lesson, of course. 'Cause if she pulls something like that again, this old pain in the neck will be back with a vengeance.
+
+### About the Lady with Fox Ears
+
+I crushed that Kitsune Ramen eating contest we had. Even all that Fried Tofu couldn't stand in my way — she didn't come close to beating me! ... I was, uh, bedridden for more than a month after that, but you know what? I'd rather lie in bed a winner than walk away a loser! So... Anyway, I had the last laugh, 'cause she had to foot the bill for 32 bowls of noodles! Haha!
+
+### About Kujou Sara
+
+You know what, yeah, she beat me during the Vision Hunt Decree. I'm not ashamed to admit it. When you lose, you admit defeat, and when you screw up, you take it on the chin, like a man! And anyway, let's not forget which one of us won't agree to a rematch — her, the tengu warrior! It's just a sumo street fight, I mean, what's she so afraid of? If she keeps snubbing me, I'm gonna have to stop calling her Kujou Tengu and start calling her Kujou Chicken! Heh, we'll see what she thinks of that.
+
+### About Gorou
+
+Oh yeah, the doggy general in the resistance... Hey, I've gotta hand it to him, he may be on the small side, but he's got quite the fighting spirit. Also, he gives off this vibe that makes me feel all warm and fuzzy inside, almost as if he understands my innermost feelings... I mean, I've barely met the guy, so that's kinda weird.
+
+### About Kuki Shinobu
+
+Nobody questions my leadership in the gang, what I say goes — except when it comes to Shinobu. She's always challenging everything I say. And not only that — all the hard-earned loot I bring back and share with everyone? She goes and returns it! But also, she gets me out of jail, and out of every mess we get ourselves into, so I'll let it slide. Besides, I don't wanna get on her bad side... An angry Shinobu would make my life a nightmare.
+
+### About Sayu
+
+All I did was give her a little pat on the head this one time when she wasn't looking, and now, she pounces to attack every time she lays eyes on me. Haha, what can I say? Tanuki are adorable! What am I supposed to do — not pat one on the head? ...Oh yeah, and that's the other thing — she beats you up for calling her a tanuki, too! What's up with that? I mean, a tanuki's what she's going for, right? Sheesh, talk about getting your fur all ruffled over nothing...
+
+### More About Itto: I
+
+I know what you're thinking: "I don't see it — how did this guy get to become the boss of the Arataki Gang on the back of beetle fighting and trading card games?" Well, you're right, those are just child's play. Wanna know the hard skills that really got me where I am? Eating ramen standing upside down, sleeping with my eyes open, playing the harmonica with my nose, and swatting houseflies with my hair. Yeah, I know. Betcha see it now, huh?
+
+### More About Itto: II
+
+People in Inazuma have this ritual every time there's a holiday, or they move, or get sick, or whatever, where they throw beans around and chant: "Fortune beans are falling down, send the oni out of town. Fortune in, oni out. Fortune in, oni out!" ...Ugh, the chant gets worse every time I hear it, but the streets full of beans, with my allergies? Total disaster. I've gotta fix this, for every oni out there! We're innocent, people! Quit trying to ward us off and drive us out every time there's a minor life event!
+
+### More About Itto: III
+
+In a... "attempt"... to end human prejudice toward the oni, I had the gang use a Kamera to take a picture of me showing my softer side and stick it to the Message Board in Inazuma City. Next thing we know, some jerks have graffitied all over it! Tsk! Then, some ashigaru blockheads from the Tenryou Commission accused me of disrupting the peace, next it was the Yashiro Commission, complaining it ruined the atmosphere in the area, and finally, even the Kanjou Commission got involved — they sent some lackeys over demanding advertising tax! Ugh, they have no idea who the bad guys are here!
+
+### More About Itto: IV
+
+In the Arataki Gang, we're proud to welcome people who've experienced adversity in their lives. Don't listen to the people who call us freaks, or weirdos. Every member of my gang is like family to me, and they all feel the same way. Whatever happens, the gang will face it together — both the highs and the lows.
+
+### More About Itto: V
+
+I gotta respect the Blue Oni for sacrificing themselves so that the Crimson Oni could live on... In principle, though, I'm absolutely against it. No one should have to sacrifice their own kind for the sake of a better tomorrow, period. It's only a better tomorrow if it's a better tomorrow for everyone. We need to work together, not have everyone just focused on themselves, making their own sacrifice, trying to look cool in the process... Eh, I guess there's no changing the past, what's done is done. But from this day forward, no more sacrificing, not on my watch! You go to sacrifice yourself, I'll stand right in your way!
+
+### Itto's Hobbies
+
+Beetle fighting, trading card games, spinning tops, kendama, hide-and-seek, you name it, I can play it! Whaddya say, pick one and we'll have a little contest? Just make sure you're ready to get thrashed! Hahaha!
+
+### Itto's Troubles
+
+Granny Oni isn't an oni at all... In fact, she's the kindest human that has ever lived. She only got her nickname because she took me in. If people have got a problem with me, fine, I don't care what other people think anyway... *sigh* But I wish people wouldn't go after her because of me.
+
+### Favorite Food
+
+Lollipops are pretty much the best things ever. The candy tastes awesome, but also, it looks really cool just having a stick hanging out of your mouth. It gives me, like... a real punk kind of vibe. Here, you try it!
+
+### Least Favorite Food
+
+Uh, well I am an oni! So there's nothing I hate more than beans. Soybeans, Mung Beans, whatever, I hate 'em all. Just touching one is enough to set off my allergies, let alone eating them. We have to get people to resist this constant urge to throw beans everywhere!
+
+### Birthday
+
+Today's an important day. I had to send the gang away, otherwise they'd be accusing me of favoritism. Here, take a look at this. I got you the greatest birthday gift combo ever! One top-grade Onikabuto — I'll have you know it took me three whole days and nights to catch this bad boy — one out-of-print collectible trading card that took me 300 rounds to get my hands on, and finally, a birthday song performance performed personally by yours truly! Happy Birthday to you, Happy Birthday to you, Happy Biiiirthday dear Traveler, Happy Birthday to youuuu!
+
+### Feelings About Ascension: Intro
+
+Now that's what I'm talking about, baby! Woo-haha! Better look out, I'm way stronger now!
+
+### Feelings About Ascension: Building Up
+
+Ah yeah, this is gonna do wonders for my win ratio!
+
+### Feelings About Ascension: Climax
+
+Feel the power, baby! Wanna see me smash a boulder?
+
+### Feelings About Ascension: Conclusion
+
+I think "Numero Uno" just went from nickname to reality, boom! Haha! Hey, but just because I made it to the top doesn't mean I'm gonna forget all the things you've done for me, okay? I've still got your back, anytime, anywhere.
+
+### Elemental Skill: I
+
+Let's roll!
+
+### Elemental Skill: II
+
+Haha! Bam!
+
+### Elemental Skill: III
+
+Attaboy!
+
+### Elemental Burst: I
+
+Oni, comin' through!
+
+### Elemental Burst: II
+
+Who wants some of this!
+
+### Elemental Burst: III
+
+It's SHOWTIME!!!
+
+### Opening Treasure Chest: I
+
+Alriiiight! New toys for the boys!
+
+### Opening Treasure Chest: II
+
+I'm on a roll, haha!
+
+### Opening Treasure Chest: III
+
+Hello, free money, goodbye working for a living.
+
+### Sprint Start: I
+
+Can't catch me!
+
+### Low HP: I
+
+Never underestimate an oni!
+
+### Low HP: II
+
+I'm not losing! It's all... part of the plan...
+
+### Low HP: III
+
+It's just a scratch, I swear!
+
+### Ally at Low HP: I
+
+Lemme at 'em!
+
+### Ally at Low HP: II
+
+Tag me in! I got this!
+
+### Fallen: I
+
+See you at the... rematch...
+
+### Fallen: II
+
+At least I'm going down... with style...
+
+### Fallen: III
+
+My boys... I've let you down...
+
+### Light Hit Taken: I
+
+You want some of this!?
+
+### Light Hit Taken: II
+
+Hah! Is that all you got!?
+
+### Heavy Hit Taken: I
+
+Okay, that one hurt!
+
+### Heavy Hit Taken: II
+
+Hey! I wasn't ready!
+
+### Joining Party: I
+
+Step aside! Itto's back in town!
+
+### Joining Party: II
+
+I am the MAN!
+
+### Joining Party: III
+
+And the crowd goes wild!!!
+
+### Receiving a Gift: I
+
+Hahahahahahahaha! Mm, mm, mm! I haven't eaten somethin' this good in three whole years!
+
+### Receiving a Gift: II
+
+Fine! I'll let you treat me to a meal today, but know that the Arataki Gang always pays its debts.
+
+### Receiving a Gift: III
+
+Hey, are you sure you ain't trying to poison me!? Ah!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+作为荒泷派的大哥大，本大爷的名号早就威震四方了。「荒泷天下独尊一斗」、「荒泷相扑鬼王一斗」、「荒泷鬼族骄傲一斗」、「荒泷鬼兜虫角斗士一斗」、「荒泷卡牌游戏王中王一斗」、「荒泷可以输但绝不认输名副其实男子汉一斗」…这些都是我常用的名字，你可以挑个喜欢的随便叫，不用客气，哈哈哈哈。
+
+### 闲聊·到此一游
+
+嘿嘿，荒泷天下第一斗到此一游！ 哈哈哈哈…咳…
+
+### 闲聊·零食
+
+轻易得到的东西哪有滋味？所以，零食我从来不会用摩拉买，都是堂堂正正地赢回来。
+
+### 闲聊·斗虫
+
+不要小瞧斗虫啊。在一次次拼搏中，用汗和泪浇灌出更强的自己，这就是人生啊！
+
+### 下雨的时候…
+
+男子汉从不打伞…啊这雨也太大了吧，快，快，快开伞！
+
+### 打雷的时候…
+
+喂！雷电将军对吧？听着，本大爷就是不服！有本事，劈我啊！
+
+### 下雪的时候…
+
+喔吼…来滚雪球吧！你是赢不了我的！阿…阿嚏！…呼。
+
+### 阳光很好…
+
+天气真好！该把我珍藏的鬼兜虫拉出来训练一番了！唔！
+
+### 刮大风了…
+
+风再大，发型也不能乱，这是男人的底线。
+
+### 早上好…
+
+早啊！…已经没有摩拉了，但今天还是不想干活。不如想想去哪里玩吧？
+
+### 中午好…
+
+吃饱了去哪里逛好呢？花见坂…都逛烂了，嗯，也不适合去天领奉行那闹…嗯算了，去离岛遛遛吧。
+
+### 晚上好…
+
+嘘！是谁在讲话…？是鬼啊！哈哈哈…被吓到了吗？
+
+### 晚安…
+
+累了就快睡吧，别逞强，我？哼，我睁着眼也能睡觉，嘿嘿。
+
+### 关于荒泷一斗自己·不务正业
+
+他们说我不务正业？哈哈哈哈！胡扯！本大爷是混混啊，混混的正业就是不务正业，有什么问题吗？咳，不好意思激动了些…哎呀，放心放心，我不偷不抢，快活不下去了，就去做点临时工赚摩拉，搬货送信都是小儿科，开业现场帮忙充场子也是常干的事，只要摩拉日结就行了，嘿嘿！
+
+### 关于荒泷一斗自己·鬼族
+
+鬼族经历了很多事情，才迎来了现在这个好时代，可以与人类共同生活。只可惜啊，时至今日还有许多人对鬼族心存芥蒂。嗯？怎么办？当然要改变啦。哼，但我不会刻意去讨好他们，我要用自己的方式，赢得人类的尊重。
+
+### 关于我们·合拍
+
+喂，我看你总是东奔西跑地替人办事，图的不止是摩拉吧？你一定也是个豪爽仗义的人！哈正好，本大爷最喜欢跟仗义的人打交道，我们绝对能成为超级合拍的搭档！
+
+### 关于我们·响应
+
+说实话，我很欣赏你，一直很欣赏你。当然希望你能留在荒泷派啦，欸，连给你的称号我都想好了，在你名字里添上「天下第二」，我俩就是「数一数二」组合！哈哈哈。哎呀…玩笑归玩笑，我知道你还有更重要的使命…去吧，去做你想做的事情。总之你记住，荒泷派会无条件响应你。
+
+### 关于「神之眼」…
+
+别问，说起这个我就火大。那群幕府军夺走人们珍视的东西，罪大恶极，竟然还敢乱摆神之眼！欸，照理说，越强的人，神之眼就应该嵌在越上面才对吧，到底是哪个不识抬举的将本大爷的神之眼嵌在最下面啊！
+
+### 有什么想要分享·希娜小姐
+
+你要是有什么烦恼，可以试着给《闲事月刊》的问答栏目投稿，希娜小姐一定会给你一个温暖人心的答案。啊…托她的福，我的灵魂已经不再迷茫了…对了，我还报名了希娜小姐的线下见面会，唉这日子怎么就过得那么慢呢。
+
+### 有什么想要分享·双角
+
+我头上的角，看久了会单调吗？要不用涂料把它弄成彩虹色吧，再抓点萤火虫绑在上面，走在街上炫彩夺目，想想就觉得很帅！本大爷果然是天才，我这就让兄弟们行动起来！
+
+### 感兴趣的见闻…
+
+抓鬼兜虫的唯一秘诀就是——抓之前一定要擦亮双眼看清楚，尤其是在风乱吹雨乱下的雷雨天，一不小心就会把堇瓜和鬼兜虫弄混。
+
+### 关于托马…
+
+听弟兄们说，他是第一百颗神之眼狩眼仪式的主角？嗯？为什么他会有专属的仪式啊？欸，难道说第一百颗神之眼是比前九十九颗厉害吗？嘶…不对，真是那样的话，那应该是本大爷来当这第一百颗才对！
+
+### 关于神里绫人…
+
+哈哈哈哈，我跟绫人兄可以说是相见恨晚啊！如果不是他提醒我「让温顺的虫子燃起斗志」是我一生都该坚守的觉悟，也许早在第七百八十次战败时，我就放弃斗虫了…哈哈，果然只有男人最懂男人，哎呀，我和他之间无需多言，在打牌和斗虫时，默契就已经悉数体现了。
+
+### 关于宵宫…
+
+那家伙，仗着自己会做烟花和小玩具，哄起小孩来一套一套的…不行，不能让她抢尽风头，「孩子王」本大爷是当定了！你也要站我这边…什么？你不是孩子？呵，在我眼里，比我矮的，全是孩子！
+
+### 关于枫原万叶…
+
+听说你从天守阁逃出来后，是他挡下了「无想的一刀」？帅啊！到底怎么做到的。你想，他是没落的贵族，我是没落的鬼族…某种意义上，我和他旗鼓相当啊。哈哈哈哈，那么，下一刀，本大爷替你挡了！
+
+### 关于雷电将军…
+
+搞眼狩令的时候，需要出动她得意的天狗才能制服我，说明本大爷一定让她很头痛吧？不过，既然她决定废除眼狩令，也不算无可救药。哼，她最好记住这次的教训，别再有下次，不然，我一定会让她更头痛，哼。
+
+### 关于狐耳女人…
+
+那场狐狸拉面比赛，是我赢了，就算面里有油豆腐，她也别想赢我！那之后…那之后我躺了一个多月，但我至少守住了胜者的荣耀！而她，就要承受付清三十二碗面钱的耻辱。哈哈哈哈…
+
+### 关于九条裟罗…
+
+眼狩令那会我确实败给她了，呵，这也没什么好羞耻的，输了就堂堂正正投降，错了就老老实实挨打，这才是真男人！反倒是她，堂堂天狗，不敢应我的复仇之约。哼，不过是在十字路口相扑而已，这就怕了？她要是再不来应战我就不叫她九条天狗了，我要叫她——九条乌龟！
+
+### 关于五郎…
+
+哦，反抗军的小狗大将嘛，身材小小但气魄非凡，不错不错！而且，他身上散发着一种让人内心温暖的熟悉感…奇怪，明明没见过他几面…
+
+### 关于久岐忍…
+
+荒泷派的弟兄们一般都会顺着我意，唯独这个忍啊，老是跟我唱反调！本大爷辛辛苦苦赢来的战利品，竟然被她一件件还了回去。哎呀，算了，看在她每次都会把我从牢房里捞出来，还替我们收拾了不少烂摊子，就不计较了。毕竟惹怒了她，我也没有好日子过…
+
+### 关于早柚…
+
+不过是趁她不注意的时候，摸了摸她的头而已，现在一见面就要跳起来打我。哈哈哈没办法，这么可爱的小狸猫，谁见了都会忍不住想去摸摸头吧？噢对了…喊她狸猫也会被揍。为什么啊，那不就是狸猫吗…？
+
+### 想要了解荒泷一斗·其一
+
+你一定很想问，为什么我只会斗虫和打牌，却能稳坐荒泷派老大的宝座？哼，的确，只会这些小儿科难以服众。干脆就一口气告诉你吧！我还会倒立吃拉面、睁着眼睡觉、用鼻孔吹口琴、用发梢拍苍蝇这类绝活。怎么样，消除你心中的疑惑了吧？
+
+### 想要了解荒泷一斗·其二
+
+稻妻人每逢过节、搬家、生病，都爱撒豆子，一边撒还一边念念叨叨，「福豆撒落，鬼怪败挫」、「福来福来，鬼去鬼去」…我都听出耳茧了。关键是豆子还经常撒出路面来，害我过敏…可恶啊！我一定要为鬼族正名，鬼啥也没干！别有事没事就想着驱鬼驱魔的。
+
+### 想要了解荒泷一斗·其三
+
+为了消除人类对鬼族的偏见，有次我让弟兄们把我温柔和蔼的形象用留影机拍成画片，贴在稻妻城的留言板上。欸，结果有些人竟敢在画片上乱涂乱画！更可恨的是，天领奉行的蠢货足轻说我引起社会治安恐慌，社奉行又说什么败坏风气，连勘定奉行的走狗都要来要什么广告营业税…嘶…真是不识好歹！
+
+### 想要了解荒泷一斗·其四
+
+包容和理解这些有过不幸经历的人，这才是我荒泷派的「骄傲」。…你别听外面的人说什么怪不怪人的，在我眼里，他们每一位都是我重要的家人。呵，这群小子也抱着和我一样的想法，不管怎样都会和荒泷派同甘共苦。
+
+### 想要了解荒泷一斗·其五
+
+我很敬佩青鬼「牺牲自己换取赤鬼延续」的行为，但绝不认同他们的理念。「更好地活下去」绝不该靠牺牲同类换取，应该是「一起更好地活着」才对。自顾自地牺牲…独自耍帅的行为算什么嘛…唉…过去已经没办法改变了。但今后，在我荒泷一斗的眼皮子底下，没有人可以随便牺牲自己。本大爷，要挡在你们前面！
+
+### 荒泷一斗的爱好…
+
+斗虫、打牌、陀螺、剑玉、捉迷藏…总之你想得到的想不到的，我全都会！怎么样？要比什么？做好全盘皆输的准备吧！哈哈哈哈！
+
+### 荒泷一斗的烦恼…
+
+「鬼婆婆」不是鬼，她可是世界上对我最好的人类，只是因为收养了我才会被叫鬼婆婆的。我怎么样都无所谓，反正我也不在乎别人的看法…唉，但我不想她因为我而被别人指指点点…
+
+### 喜欢的食物…
+
+棒棒糖全身都是宝，不但糖好吃，棍子叼在嘴里还很帅，为我增添了一丝不羁的气质，来，你也试试吧。
+
+### 讨厌的食物…
+
+我是鬼我是鬼啊！最讨厌的当然是豆子啊！黄豆、绿豆通通不行，别说吃了，光是碰到身上都会过敏。唉，所以说，撒豆子这种陋习还是赶紧灭绝吧。
+
+### 生日…
+
+今天是个重要的日子，我特意把弟兄们支开了，不然他们肯定要说我偏心。来，看看，我给你准备的生日礼物可是最高规格的！抓了三天三夜才抓到的特级鬼兜虫一只、大战了三百回合赢来的绝版卡牌一张，哦还有本大爷亲自演唱的生日歌一首——咳咳…祝你生日快乐…祝你生日快乐…
+
+### 突破的感受·起
+
+喔喔…就是这样就是这样！力气更大了！
+
+### 突破的感受·承
+
+好强的力量…胜率绝对会提升吧！
+
+### 突破的感受·转
+
+这力气，一拳砸碎岩石，应该不在话下吧？
+
+### 突破的感受·合
+
+这样一来，我就是名副其实的荒泷天下第一斗了啊！你的功劳，本大爷不会忘。以后，就由本大爷来保护你了。
+
+### 元素战技·其一
+
+斗战岩牛！
+
+### 元素战技·其二
+
+给我砸！
+
+### 元素战技·其三
+
+就是你了！
+
+### 元素爆发·其一
+
+鬼王游巡，通通闪开！
+
+### 元素爆发·其二
+
+鬼蜮狂欢！
+
+### 元素爆发·其三
+
+哈哈，到我表演了！
+
+### 打开宝箱·其一
+
+快看看有没有新鲜玩意儿？
+
+### 打开宝箱·其二
+
+本大爷果然运气超凡！
+
+### 打开宝箱·其三
+
+这些够我躺三天不干活了吧？
+
+### 冲刺开始·其一
+
+追不上我！
+
+### 生命值低·其一
+
+别太小看鬼族了！
+
+### 生命值低·其二
+
+你以为我这就会认输吗？
+
+### 生命值低·其三
+
+区区小伤，不用管不用管！
+
+### 同伴生命值低·其一
+
+站在本大爷身后！
+
+### 同伴生命值低·其二
+
+我不允许你倒下！
+
+### 倒下·其一
+
+复仇之战，未完待续…
+
+### 倒下·其二
+
+倒下的姿势…得帅才行。
+
+### 倒下·其三
+
+辜负弟兄们的期待了…
+
+### 普通受击·其一
+
+胆子不小！
+
+### 普通受击·其二
+
+用点力！
+
+### 重受击·其一
+
+太用力了吧！
+
+### 重受击·其二
+
+偷袭可耻！
+
+### 加入队伍·其一
+
+都给本大爷让道！
+
+### 加入队伍·其二
+
+救世主来喽！
+
+### 加入队伍·其三
+
+多大点事，看我来摆平！
+
+### 收到赠礼·其一
+
+哈哈哈哈哈哈——已经三年没吃到那么好吃的菜了！
+
+### 收到赠礼·其二
+
+好！你今天孝敬本大爷的，我都记在账上了。
+
+### 收到赠礼·其三
+
+喂，你…难不成…给我下毒了？！啊…

@@ -499,3 +499,863 @@ This isn't a tale of epic deeds or life-changing partings. Rather, it's a story 
 「好吧，看来你也很喜欢它。」莉奈娅笑着摸了摸露米的脑袋，拿起那枚散发着幽光的「月之轮」，在灯下细看，「那就留着吧，反正只要你不吃它，它就是个不错的装饰品。」
 这便是莉奈娅与她的「月之轮」的故事。
 没有什么惊天动地的誓言，也没有生离死别的觉悟。有的只是一只贪吃的霜精，一个手忙脚乱的博物学家，以及一段在漫长时光中偶然被点亮的、小小的奇迹。
+
+# voice_source_ids: 130000,130001,130002,130003,130004,130005,130006,130007,130008,130009,130010,130011,130012,130013,130014,130015,130016,130017,130018,130019,130020,130021,130022,130023,130024,130025,130026,130027,130028,130029,130030,130031,130032,130033,130034,130035,130036,130037,130038,130039,130040,130041,130042,130043,130044,130045,130046,130047,130048,130049,130050,130051,130052,130053,130054,130055,130056,130057,130058,130059,130060,130061,130062,130063,130064,130065,130066,130067,130068,130069,130070
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет! Меня зовут Линнея, я консультант Гильдии искателей приключений, а это милашка Луми - мой компаньон. Если у тебя есть вопросы о приключениях в дикой природе, спрашивай без стеснения! Ах да, если во время странствий ты встретишь каких-нибудь невероятных созданий, обязательно расскажи мне об этом!
+
+### Поболтаем: Луми
+
+Луми милая. Но у неё есть плохая привычка глотать всё блестящее! Держи ценные вещи подальше от неё, а то можешь их больше не увидеть, хе-хе...
+
+### Поболтаем: «Сперанца»
+
+Если говорить о самом стоящем месте в Нашгороде... то это, конечно же, «Сперанца». Я знаю, что я не объективна, но, поверь, тебе стоит попробовать - кулинарное мастерство Кати тебя не разочарует.
+
+### Поболтаем: Энциклопедия
+
+Хочешь посмотреть энциклопедию? Конечно! Я всегда с удовольствием показываю мою главную работу, хе-хе. Я даже сама нарисовала иллюстрации.
+
+### После дождя...
+
+Запах влажной земли... Мир вновь пробудился.
+
+### Когда идёт снег...
+
+Так холодно... Слепим снеговика? Луми поможет! Ой! Молоток не нужен.
+
+### Когда дует ветер...
+
+Интересно, куда улетают семена одуванчика...
+
+### В пустыне...
+
+«Спи, засыпай. Сны золоты, бесприютны пески. И вода здесь сладка, и отступают печали».
+
+### Доброе утро...
+
+Доброе утро! Вдохни свежий воздух. Ничто не сравнится со свежим ароматом росы на траве.
+
+### Добрый день...
+
+Пора бы перекусить и восполнить энергию. Впереди длинный день, столько всего нужно успеть!
+
+### Добрый вечер...
+
+Готовишься ко сну... Хочешь полюбоваться звёздами вместе со мной?
+
+### Спокойной ночи...
+
+Фух, мы сегодня весь день на ногах, пора отдохнуть. Сладких снов. Спокойной ночи...
+
+### О Линнее: Искать и ждать
+
+В этом мире существует множество прекрасных и удивительных форм жизни, но пытаться раскрыть их секреты - всё равно что играть в прятки с очень застенчивым другом... К счастью, я умею и искать, и терпеливо ждать.
+
+### О Линнее: Детство
+
+Несмотря на то, что я не жила со своей настоящей семьёй, я знаю, что они по-своему любили меня... Я выросла, окружённая любовью, которая сильно отличалась от той, которую получают большинство детей.
+
+### О нас: Кругозор
+
+Поразительно, что столько невероятных историй может уместиться в голове одного человека! Я очень многому научилась, пообщавшись с тобой. Может, порекомендовать тебя Гильдии искателей приключений на должность консультанта?
+
+### О нас: Делиться
+
+Ты знаешь обо мне практически всё, в то время как я лишь слегка прикоснулась к твоему миру... Если ты не против, я с удовольствием послушаю о приключениях, в которых я не участвовала. Взамен... я оставлю для тебя место на «Золотом псе»!
+
+### О Лунном колесе...
+
+Открою тебе секрет. На самом деле я могу использовать силу и без него... Луми оно нравится, и я оставила его в качестве украшения... Наверное, потому что оно блестит.
+
+### Давай поделимся...
+
+Говорят, что когда-то Нод-Край был покрыт обширным первобытным лесом. Сосновый янтарь был смолой, которая текла из исполинских деревьев и получила красочное название - слёзы величественных сосен. Прошли века, лес исчез, но слезы так и не высохли... Если мне удастся собрать достаточное количество этих фрагментов истории, я смогу воссоздать в своём воображении образ древнего мира. Это наполняет меня тем же чувством восторга, которое испытываешь, любуясь древними реликвиями. Я живу ради этого чувства... и именно поэтому я никогда не смогу отказаться от приключений.
+
+### Интересные вещи...
+
+Хе-хе... Мелюзины такие милые! Было бы здорово пожить какое-то время в деревне Меруси... Сколько я их ни уговариваю, но они не соглашаются. Жаль... Интересно, почему?
+
+### Об Айно...
+
+Мы с Айно дружим ещё со времён, когда мы обе состояли в Банде Раковины. Айно была такой милашкой, когда была маленькой, а потом в какой-то момент увлеклась своими машинами... Э-э-э, Айно по-прежнему маленькая, и по-прежнему очень милая. А вот её хобби... не очень. Не пойми меня неправильно, я её полностью поддерживаю! Но... я не очень хорошо себя чувствую рядом с механизмами... Наверное, это связано с тем, что я подменыш.
+
+### Об Инеффе...
+
+Говорят, она делает самые сладкие и вкусные крумкаке. К сожалению, мне так и не удалось их попробовать, потому что я инстинктивно убегаю, как только она появляется... Хотя я уверена, что она всего лишь хочет поговорить. Ох... В следующий раз я попрошу Айно привязать меня к стулу, чтобы наконец выслушать её, хе-хе...
+
+### О Лауме...
+
+Её рога такие красивые... Однажды я очень вежливо спросила, можно ли их потрогать. Она, э-э, очень вежливо отказала. Похоже, Дети Морозной Луны в этом плане ещё строже мелюзин...
+
+### О Флинсе...
+
+По-моему, господин Флинс - один из самых эрудированных альвов. Я не так много с ним общалась, но многое почерпнула из наших редких бесед.
+
+### О Нефер...
+
+Любой, кто ведёт активную деятельность в Нод-Крае, рано или поздно неизбежно столкнётся с Кураторием тайн. Госпожа Нефер работает очень эффективно, и нет более надёжного партнёра, чем она. Впрочем, меня больше интересует её кот, чем информация. Ашру, о Ашру... ты определённо не обычный котик...
+
+### Об Иллуги...
+
+Он довольно молод для командира отряда светоносцев. Должно быть, он очень способный. К сожалению, мы познакомились при довольно неблагоприятных обстоятельствах, так что я, скорее всего, не произвела на него впечатления... Я очень надеюсь, что он позволит мне внести запись об Аэдоне в энциклопедию...
+
+### О Сандроне...
+
+Не знаю, известно ли тебе, но Катерину из Гильдии искателей приключений создала Марионетка, Предвестник Фатуи. Как ни странно, я не испытываю неприязни к Катерине, хотя обычно не выношу движущиеся механизмы... Интересно, что это за технология такая? Это даже к лучшему, потому что иначе мне пришлось бы просить Сарина или кого-то ещё забрать мои поручения. Если у меня когда-нибудь появится возможность встретиться с Марионеткой, я обязательно поблагодарю её!
+
+### О Водянице...
+
+Публика в оперном театре сходит с ума от неё, совершенно не подозревая, что они слышат лишь эхо океанских волн. Уверена, у неё есть на то свои причины... Я чувствую, что в её голосе скрыта таинственная сила, которая, если её высвободить, очарует всех, кто её услышит, и обречёт их на верную гибель!
+
+### Узнать больше о Линнее I
+
+Хочешь больше узнать обо мне? Не о моей энциклопедии или приключениях? Хм, это очень оригинальная идея. Если бы я была объектом своих собственных наблюдений... к каким выводам я бы пришла?
+
+### Узнать больше о Линнее II
+
+Я больше не состою в Банде Раковины, но вижусь со всеми, когда у меня есть время. «Сперанца» для меня словно родной дом. Возможно, именно благодаря тому, что у меня было место, куда я всегда могла вернуться, я нашла в себе смелость исследовать этот мир. Их бескорыстная любовь помогла мне, потерянной и отчаявшейся, осознать, что мир меня не отверг...
+
+### Узнать больше о Линнее III
+
+Я очень переживала, как Луми будет себя чувствовать за пределами тундры. Особенно, когда я готовилась к поездке в Натлан. Я так волновалась, что потеряла сон и покой... Что, если Луми медленно растает, как снеговик? Ох, даже сейчас вспоминаю об этом с ужасом! К счастью, по моим наблюдениям, Луми не подвержена влиянию температур. Даже когда она однажды чуть не упала в лаву, она продолжала радостно улыбаться. Луми удивительный ледовик!
+
+### Узнать больше о Линнее IV
+
+«Ступай, дитя альвов. Иди в деревни и города, иди рука об руку с человеческими друзьями. Мир альвов полон печали, которой тебе не понять». Мои родители пытались освободить меня от цепей судьбы, поместив меня в человеческую колыбель, надеясь, что незнание людьми своей судьбы защитит меня, как кокон, от преждевременного страдания. Раньше я этого не понимала, но теперь я знаю, что их любовь родилась из печали... Возможно, шрамы никогда не исчезнут, но лучше шрам, чем кровоточащая рана.
+
+### Узнать больше о Линнее V
+
+Моя сестра говорит, что, возможно, однажды судьба вещих птиц настигнет и меня. А пока я хочу наслаждаться процессом исследования мира и познания неизвестного, на «Золотом псе» объехать каждый уголок Тейвата и заполнить все страницы своей энциклопедии... А когда этот день наступит, я смогу понять боль и одиночество своей сестры... Я крепко обниму её, и мы станем ближе, чем когда-либо.
+
+### Хобби Линнеи...
+
+Когда я наблюдаю за другими существами, мне нравится представлять себя одной из них, живущей совершенно другой жизнью... Только представь, каково это - быть мелюзиной! Я бы могла видеть все цвета, которые видят они. Хотя такие вещи невозможно представить, не увидев их собственными глазами.
+
+### Беспокойство Линнеи...
+
+Я вложила много времени и усилий в создание своей коллекции минералов, но почему-то часть образцов всегда пропадает... Может быть... Луми их ест?.. Луми, открой рот и скажи: «А-а-а!»
+
+### Любимая еда...
+
+Я люблю сладкое. Свежие ягоды с капельками росы, сахарные фигурки из свежего мёда, горячая выпечка... Хотелось бы, чтобы они были легко доступны, когда я путешествую по дикой природе.
+
+### Нелюбимая еда...
+
+Я бы не сказала, что у меня есть нелюбимая еда, кроме той, которая вредна для здоровья. Мне кажется расточительным выбрасывать вполне съедобную еду только потому, что она не соответствует моим вкусовым предпочтениям.
+
+### Подарок I
+
+Очень вкусно! Можешь научить меня готовить это блюдо?
+
+### Подарок II
+
+Вкусно! В следующий раз я приготовлю, а ты оценишь мои кулинарные способности.
+
+### Подарок III
+
+Хм... По крайней мере, это не причинит вреда организму.
+
+### День рождения...
+
+С днём рождения... Это не самый ценный подарок, но он давно находится в моей коллекции... Прими этот окаменелый остаток. Видишь? Это отпечатки костей и перьев давно вымершего вида птиц. Они больше никогда не будут летать, но момент, когда эта птица расправила крылья, оставил след, который сохранится надолго. Даже когда жизнь угаснет, всегда останется какое-то доказательство нашего существования. Желаю тебе жизни, крепкой как старое дерево, где каждое годичное кольцо рассказывает прекрасную историю.
+
+### Чувство возвышения: Начало
+
+Моё восприятие обострилось.
+
+### Чувство возвышения: Нарастание
+
+Я стала лучше понимать, как устроен этот мир.
+
+### Чувство возвышения: Кульминация
+
+Я чувствую поток силы... Как моряк, который освоил закономерности океанских течений. Отсюда и далее путешествие будет проходить гладко.
+
+### Чувство возвышения: Окончание
+
+Знания превращаются в интуицию... Я доверяю этому миру так же, как доверяю маргаритке.
+
+### Элементальный навык I
+
+Вперёд, Луми!
+
+### Элементальный навык II
+
+Поздоровайся!
+
+### Элементальный навык III
+
+Покажи им, Луми!
+
+### Элементальный навык IV
+
+Попробуй это!
+
+### Элементальный навык V
+
+Нельзя быть привередой в еде!
+
+### Элементальный навык VI
+
+Осторожнее!
+
+### Взрыв стихии I
+
+Дар Страны юных.
+
+### Взрыв стихии II
+
+Сияй, словно кристалл.
+
+### Взрыв стихии: III
+
+Как пожелаешь!
+
+### Открытие сундука I
+
+Ну как? Есть что-нибудь интересное?
+
+### Открытие сундука II
+
+Как блестит... Луми, это нельзя есть!
+
+### Открытие сундука III
+
+Выглядит неплохо, тебе повезло!
+
+### Низкий уровень HP I
+
+Я справлюсь...
+
+### Низкий уровень HP II
+
+Так не должно было быть...
+
+### Низкий уровень HP III
+
+Нужно быть осторожнее...
+
+### Низкий уровень HP компаньона I
+
+Я помогу!
+
+### Низкий уровень HP компаньона II
+
+Я наложу повязку!
+
+### Без сознания I
+
+Я... ошиблась в выборе...
+
+### Без сознания II
+
+Это всего лишь кошмар...
+
+### Без сознания III
+
+Это не... моё будущее...
+
+### Получен лёгкий удар I
+
+Ух...
+
+### Получен лёгкий удар: II
+
+Ох!..
+
+### Получен тяжёлый удар I
+
+Пустяки!
+
+### Получен тяжёлый удар: II
+
+Как больно...
+
+### Присоединяется к группе I
+
+Луми! Нам пора!
+
+### Присоединяется к отряду: II
+
+Куда сегодня отправимся на приключения?
+
+### Присоединяется к группе III
+
+Меня зовёте? Я готова!
+
+## REPLICAS_EN
+
+### Hello
+
+Hey there! I'm Linnea, an advisor with the Adventurers' Guild, and this little thing is my buddy, Lumi. If you've got any questions about adventuring in the wild, I'm your gal! Oh yeah — and if you ever come across any strange or unusual creatures on your adventures, be sure to tell me all about it!
+
+### Chat: Lumi
+
+Lumi is just too cute. But she does have a bad habit of swallowing any shiny thing she lays her eyes on! So keep your valuables well away, or you might never see them again, hehe...
+
+### Chat: "Speranza"
+
+If you ask me what's the one place you should visit in Nasha Town... Obviously, I'm gonna say "Speranza." I know I'm biased, but seriously — you should give it a try. Katya's cooking will not disappoint you.
+
+### Chat: Archive
+
+You wanna see my archive? Of course! I'm always happy to show off my masterpiece, hehe. I even did the illustrations.
+
+### After the Rain
+
+Ah, the scent of wet soil... That's the world waking up.
+
+### When It Snows
+
+So cold... Hey, you wanna build a snowman? Lumi can come help out! ...Ah! No need for the hammers!
+
+### When It's Windy
+
+I wonder where the dandelion seeds will fly to this time...
+
+### In the Desert
+
+"Sleep, close your eyes. Yon golden slumber summons thee, wandering sand. Drink not that bitter salt water, for the sorrows of tomorrow have gone away."
+
+### Good Morning
+
+Morning! Take a whiff of the air outside. Nothing beats the fresh scent of dewy grass.
+
+### Good Afternoon
+
+It's about time I ate something to boost my energy levels. The day's still young, and there's so much I want to accomplish!
+
+### Good Evening
+
+If you're not sleepy yet... How about we stay here and stargaze for a while?
+
+### Good Night
+
+Phew, we did a lot of walking today. I should get some sleep... Good night, and sweet dreams!
+
+### About Linnea: Seeking and Waiting
+
+There are so many weird and wonderful creatures in this world, but trying to uncover their secrets is like playing hide-and-seek with a really shy friend... Luckily for me, I'm good at seeking, and good at the waiting game, too.
+
+### About Linnea: Childhood
+
+Even though I didn't get to live with my real family, I know they loved me in their own way... I grew up nurtured by a very different kind of love from what most kids experience.
+
+### About Us: Travel Experiences
+
+Wow... It's amazing that so many incredible stories can even fit inside one person's head! I've learned so much from talking with you... Heck, maybe I should recommend you to the Adventurers' Guild as an advisor, too!
+
+### About Us: Sharing
+
+You pretty much know my whole story by now, but I've only gotten a tiny glimpse into your world... If you're open to it, I'd love to hear all about your past adventures that I wasn't there for. In return... I'll save you a spot on the Golden Beagle!
+
+### About the Moon Wheel
+
+I'm gonna let you in on a secret... I actually don't even need that thing. My powers work just fine without it. But I kept it as a decoration since Lumi seems to like it... probably 'cause it's so shiny.
+
+### Something to Share
+
+It's said that Nod-Krai was once covered by a vast, primeval forest. Pine Amber was the resin that flowed from the towering trees, colorfully dubbed "Tears of the Grand Pines." Centuries on, the forest has vanished but the tears have never dried... Still, if I can just collect enough of these fragments of history, I can recreate how the ancient world looked in my mind's eye. It fills me with the same sense of wonder you get from admiring ancient relics. I live for that feeling... which is why I'll never be able to stop adventuring.
+
+### Interesting Things
+
+Hehe... Melusines are soooo cute! I'd give anything to spend some time living among them in Merusea Village... Sadly, I've begged and begged, but the answer is always no. I wonder why they're so against it?
+
+### About Aino
+
+Oh, we were in the Conch Gang together, you know. Aino was such a cutie when she was little. Then at some point, she became all about her machines... Oh, uh, Aino's still pretty little, I guess — and still super cute. Her hobbies though? Not so much... Don't get me wrong, I totally support her no matter what she's into! It's just... I can't really handle being around moving machines... Probably something to do with me being a changeling.
+
+### About Ineffa
+
+I hear she makes the sweetest, most delicious krumkakes around. Sadly, I've never had a chance to try one, because I instinctively run away the moment she shows up... Even though I'm pretty sure she just wants to ask me a question. *sigh* Maybe next time I visit, I should get Aino to tie me to a chair so I can finally hear what she has to say, hehe...
+
+### About Lauma
+
+Her antlers are so pretty... Once, I very politely asked her if I could touch them. She, uh, very politely refused. Turns out the Frostmoon Scions are even stricter than the Melusines...
+
+### About Flins
+
+I feel like Mr. Flins has to be one of the most knowledgeable Fae out there. I haven't even spoken with him that much, but I learned a lot from the few conversations we've had.
+
+### About Nefer
+
+Anyone who's active in Nod-Krai is bound to end up crossing paths with the Curatorium of Secrets eventually. Miss Nefer is incredibly efficient — you won't find a more reliable partner than her. But I'm actually more interested in her cat than her intel. Ashru, oh Ashru... you are no ordinary kitty, that's for sure...
+
+### About Illuga
+
+He's pretty young for a squad leader in the Lightkeepers. Must be a pretty talented guy. Unfortunately, we met under slightly chaotic circumstances, so I probably didn't make a great impression... I really hope he'll still let me do the archive entry for Aedon...
+
+### About Sandrone
+
+I dunno if you knew this, but Katheryne from the Adventurers' Guild was actually created by the Fatui Harbinger, Marionette. Strangely enough, I don't feel any kind of aversion towards Katheryne, even though I usually can't handle moving machines... Must be something to do with the technology Marionette used — whatever that could be. Anyway, it's just as well, 'cause otherwise I'd have to get Sarin or someone else to pick up my commissions from the Guild for me. If I ever get the chance to meet Marionette, I owe her a huge thank-you!
+
+### About Vodyanitsa
+
+Audiences at the opera house go crazy for her, completely unaware that all they're hearing is the echo of the ocean waves. I'm sure she has her reasons... but I can sense an allure hidden deep within her singing voice that, if ever unleashed, would bewitch everyone within earshot and sentence them to certain doom!
+
+### More About Linnea: I
+
+Wait, you have questions about me? Not my archive, or adventuring tips? Huh, well that's a perspective I don't think about every day. If I was the object of my own observations... what conclusions would I draw?
+
+### More About Linnea: II
+
+Even though I'm no longer a member of the Conch Gang, I still go back and see everyone when I have the time. Speranza is like a home to me, and I suspect that having that one place I could always go back to was the only reason I found the courage to explore this world. The selfless love that they showed me when I was feeling lost and desperate helped me to realize that the world hadn't rejected me after all...
+
+### More About Linnea: III
+
+Something I used to worry about was, how Lumi would cope outside of the tundra? Especially when I was getting ready for my trip to Natlan. I was so scared, I could barely sleep... What if Lumi slowly melted like a snowman in high temperatures? *shudder*... just thinking about it now still scares me! Fortunately, from what I've observed, temperature doesn't really affect Lumi. Even one time when she nearly fell into lava, she was still grinning away happily. Pretty incredible for a Jack Frost, I gotta say.
+
+### More About Linnea: IV
+
+"Go, child of the fae. Make your way to the villages and towns and seek kinship with the humans. The world of the fae is rife with a sorrow you do not understand..." My parents tried to free me from the river of fate by placing me in a human cradle, hoping that humanity's ignorance of their fate would shield me like a cocoon, protecting me against the damage of premature grief. There was a time when I didn't understand, but now I know the truth — theirs was a love born of sorrow... Perhaps the scars will never fade, but better a scar than a bleeding wound.
+
+### More About Linnea: V
+
+Like my sister says, it's possible that one day in the future, the fate of the Augury Birds will come for me eventually. But until then, I just want to enjoy the process of exploring the world and understanding the unknown. I want to sail the Golden Beagle to every corner of Teyvat, and fill every page in my archive... Who knows, maybe when that day comes, I'll be able to understand my sister's pain and loneliness for myself... I'll give her a big old hug, and we'll be closer than ever.
+
+### Linnea's Hobbies
+
+When I'm observing other creatures, I like to imagine being one of them, living a totally different life from my own... Just think what it would be like to be a Melusine! I'd be able to see all the colors that they see. Although, things like that are kind of impossible to imagine without seeing it for yourself.
+
+### Linnea's Troubles
+
+I put a lot of time and effort into building my ore collection, but somehow, a few samples always seem to go missing... Wait, maybe... is Lumi eating them...? Lumi, open your mouth! Say "Aaah"!
+
+### Favorite Food
+
+I like sweet stuff. Newly picked berries with beads of dew on them, sugar sculptures made of fresh honey, cakes hot out of the oven... Just wish they were more readily available when I'm out adventuring in the wild.
+
+### Least Favorite Food
+
+I wouldn't say that there's any food I really hate, apart from the stuff that's super unhealthy. The idea of throwing away perfectly edible food just because it's not quite to my personal tastes seems very wasteful.
+
+### Receiving a Gift: I
+
+Mmm! This is delicious! How did you make it? Can you teach me?
+
+### Receiving a Gift: II
+
+Yum! Next time, it's my turn. I wanna see what you think of my cooking.
+
+### Receiving a Gift: III
+
+Uhh... Well... at least it's not a health risk.
+
+### Birthday
+
+Happy Birthday... This isn't the most valuable gift, but it's something I've had in my collection for a long time... Please accept this fossil. See this? These are bone and feather impressions from a long-extinct bird species. They'll never fly again, and yet the moment that this one spread its wings has left an imprint that will last long into the future. So, even if life fades in the end, there will always be some proof of our existence left behind. May your life be as tenacious as an old tree, with each and every ring telling a beautiful tale.
+
+### Feelings About Ascension: Intro
+
+My senses have become keener.
+
+### Feelings About Ascension: Building Up
+
+I've gained a deeper understanding of the things in this world.
+
+### Feelings About Ascension: Climax
+
+I can feel the flow of energy... Like a sailor who has mastered the patterns of the ocean currents. This voyage will be much smoother from here on out.
+
+### Feelings About Ascension: Conclusion
+
+My knowledge is transforming into intuition... I believe in this world as I do in a daisy.
+
+### Elemental Skill: I
+
+Go, Lumi!
+
+### Elemental Skill: II
+
+Come say hi!
+
+### Elemental Skill: III
+
+Show 'em, Lumi!
+
+### Elemental Skill: IV
+
+Take this!
+
+### Elemental Skill: V
+
+Like it or lump it!
+
+### Elemental Skill: VI
+
+Comin' in hot!
+
+### Elemental Burst: I
+
+A gift from the Land of the Young.
+
+### Elemental Burst: II
+
+Shine like a gemstone!
+
+### Elemental Burst: III
+
+As you like it!
+
+### Opening Treasure Chest: I
+
+Well? Any good stuff in there?
+
+### Opening Treasure Chest: II
+
+So shiny... Lumi, no! You can't eat that!
+
+### Opening Treasure Chest: III
+
+This is a pretty good haul! Lucky you!
+
+### Low HP: I
+
+I still got this...
+
+### Low HP: II
+
+That wasn't supposed to happen...
+
+### Low HP: III
+
+Need to be more careful...
+
+### Ally at Low HP: I
+
+Hey, I got you!
+
+### Ally at Low HP: II
+
+Bandages at the ready!
+
+### Fallen: I
+
+I chose wrong...
+
+### Fallen: II
+
+It's just a nightmare...
+
+### Fallen: III
+
+But... my future...
+
+### Light Hit Taken: I
+
+Uh oh...
+
+### Light Hit Taken: II
+
+Oof...!
+
+### Heavy Hit Taken: I
+
+That's nothing!
+
+### Heavy Hit Taken: II
+
+Okay, that hurt...
+
+### Joining Party: I
+
+Lumi! Time to go!
+
+### Joining Party: II
+
+Where are we gonna explore today?
+
+### Joining Party: III
+
+Looking for me? Ready whenever!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好！我叫莉奈娅，是冒险家协会的顾问，这个小家伙是露米，是我的伙伴。关于野外冒险你有什么想知道的，尽管问我好啦！对了对了，如果你在冒险时遇见了什么不可思议的生物，可别忘了告诉我哦！
+
+### 闲聊·露米
+
+露米很可爱对吧？不过要是你身上有亮晶晶的东西，可要小心别被它吞掉咯！不然很有可能找不回来，哈哈…
+
+### 闲聊·「斯佩兰扎」
+
+要说那夏镇最值得去的地方…当然是「斯佩兰扎」了。你就当是我偏心好了，去尝尝看吧，卡嘉的手艺不会让你失望的。
+
+### 闲聊·图鉴
+
+你想看看图鉴？当然可以，这可是我的得意之作，就连里面的插图也都是我自己画的呢。
+
+### 雨过天晴…
+
+湿润的泥土的气息…世界重新醒来了。
+
+### 下雪的时候…
+
+好冷哦…要堆雪人吗？露米也来帮忙吧！啊！用不着锤子。
+
+### 起风的时候…
+
+不知道蒲公英的种子会飞向何方…
+
+### 在沙漠的时候…
+
+「睡吧，睡吧，黄金的梦乡在召唤流浪的沙子，在这里不必将那苦涩的盐水掬饮，在这里不会再有明日的愁肠…」
+
+### 早上好…
+
+早上好！草叶上的晨露还在，很清新，你也要闻一闻吗？
+
+### 中午好…
+
+差不多该吃点东西补充能量了，今天还很长呢，还能做很多事！
+
+### 晚上好…
+
+你要是还不困，我们就这样一起看会儿星星，好吗？
+
+### 晚安…
+
+今天也走了好多路，该休息了，祝你做个好梦，晚安…
+
+### 关于莉奈娅自己·追逐和等待
+
+这个世界上有许多美丽又奇特的生命，要了解它们的秘密，就像和一个害羞的朋友玩捉迷藏，但好在无论是追逐还是等待，都是我擅长的。
+
+### 关于莉奈娅自己·童年
+
+虽然没能和「家人」一起生活，但我知道，他们都以自己的方式爱着我…我是被截然不同的爱浇灌长大的。
+
+### 关于我们·见闻
+
+哇，你的脑袋里到底是装了多少奇妙的见闻呀！和你聊天真让我受益匪浅…要不干脆让我推荐你当冒险家协会的顾问吧？
+
+### 关于我们·分享
+
+你已经知晓了我的故事，而你的世界，我才刚刚窥见一角。如果可以的话，今后我也想听你分享那些我不曾参与的冒险，作为交换…我会为你在黄金猎犬号上留一个位置的！
+
+### 关于「月之轮」…
+
+悄悄告诉你，其实我不靠它也能使用力量…不过露米很喜欢它，可能因为它也是亮晶晶的，所以就留下当作装饰啦。
+
+### 有什么想要分享…
+
+据说挪德卡莱曾经存在广阔的原始森林，松珀香就是那些参天巨木所流下的树脂，人们浪漫地将其解读为巨木之泪。而在数百年的时光中，森林消失了，泪水却没有干涸。不过，只要拾起这些散落的「碎片」，我就能在脑海中还原出过去世界的模样，这种像是回望古老遗珍一样的乐趣，正是我无法停止冒险的理由呀。
+
+### 感兴趣的见闻…
+
+嘿嘿…美露莘真是太可爱了！嘿嘿…如果能在海沫村住上一段时间就好了…可惜不管我怎么拜托，她们就是不愿意答应，到底为什么呢？
+
+### 关于爱诺…
+
+我们曾经是海螺帮的伙伴呢，爱诺小时候真的可爱极了，后来她喜欢上了机械…唔，长大了一点的爱诺还是很可爱，但她的爱好就没那么可爱了…你别误会，不管她喜欢什么我都支持她！只是…只是我真的很不擅长应付会动的机械…也许是因为「换生灵」的天性吧。
+
+### 关于伊涅芙…
+
+听说她做的蛋卷甜甜的，特别好吃，可惜我一靠近她就本能地想要逃跑，所以到现在还没有品尝过…而且她好像有什么事想要问我的样子，唉，不然下次去拜访的时候让爱诺把我绑在座位上听她说好了。
+
+### 关于菈乌玛…
+
+她的角冠真漂亮…我曾经很礼貌很礼貌地问过她，可不可以让我摸一摸她的角冠，她很礼貌很礼貌地拒绝了我。看起来，霜月之子在这方面比美露莘还要严格…
+
+### 关于菲林斯…
+
+我想，即使是在妖精之中，菲林斯先生也是最博学的那一类。虽然和他对话的机会不多，但每次交流都让我收获颇丰。
+
+### 关于奈芙尔…
+
+在挪德卡莱活动，或多或少都会和「秘闻馆」打交道，奈芙尔小姐办事利落，再没有比她更可靠的合作伙伴了。不过，比起情报，我对她家的猫更感兴趣，阿舍鲁呀阿舍鲁，你一定不是一只普通的小猫咪吧…
+
+### 关于叶洛亚…
+
+他年纪轻轻就当上了执灯人的分队长，一定有什么过人之处吧。不过我们第一次见面的场景有点混乱，可能给他留下了不好的印象，不知道他还会不会愿意让我为阿咚撰写图鉴条目…
+
+### 关于桑多涅…
+
+你知道吗？冒险家协会的凯瑟琳其实是愚人众执行官「木偶」的造物。通常来说，我是很不擅长应付这类会动的机械造物的，但面对凯瑟琳时却没有任何抵触的情绪，真奇妙，不知道她使用了怎样的技术。也幸亏如此，我才不用麻烦萨林或者其他人来帮忙接取协会的委托。如果有机会见到她，我真想向她道谢！
+
+### 关于沃雅妮莎…
+
+歌剧院里的人们为她疯狂，却不知道自己听到的不过是海浪的余响。或许她也有自己的理由…但我能感觉到，在那副歌喉深处，潜藏着一旦释放就能让所有人理智断弦、万劫不复的魅力呢！
+
+### 想要了解莉奈娅·其一
+
+不是图鉴或是冒险相关的问题，而是关于我自己吗？这倒是个新鲜的视点，如果我是我自己的观察者，会得出怎样的结论呢…
+
+### 想要了解莉奈娅·其二
+
+虽然已经不是海螺帮的一员了，不过有空的时候我还是会回去看看大家，「斯佩兰扎」对我来说就是家一样的地方。或许正是因为有了这样一个栖身之所，我才能鼓起勇气去探索并记录这个世界，是他们无私的爱让一度迷茫的我意识到，自己并不是被世界所拒绝的…
+
+### 想要了解莉奈娅·其三
+
+我也有过这样的担心，离开冻原，露米会不会适应不了？特别是去纳塔之前，我害怕得都快睡不好觉了。万一露米像雪人一样，气温升起来了，它就一点点融化…呜哇，现在想起来还是会觉得后怕！还好后来据我观察，环境的温度对露米没什么影响，哪怕差点掉进岩浆里，它也还是笑嘻嘻的，真是了不起的霜精啊，露米。
+
+### 想要了解莉奈娅·其四
+
+「去吧，妖精的孩子。到村落与城镇中去吧，和人类朋友手牵着手。妖精的世界载满你不懂的忧愁…」我的父母试图将我从那条既定命运的河流中捞起，把我放在人类的摇篮里，希望人类对命运的迟钝能成为保护我的茧，让我免受那些过早到来的悲伤侵蚀。我也曾有过不解，但现在我知道了，这是一种出自悲伤的爱…伤痕或许不会消失，但结痂后就不会再流血了。
+
+### 想要了解莉奈娅·其五
+
+就像姐姐说的，也许未来我终究还是逃不开「谶鸟」一族的宿命，但在那之前，我想尽情享受探索解明未知世界的快乐，乘着黄金猎犬号走遍提瓦特大陆的每一个角落，将我的图鉴填得满满的…而等到「那一天」来临，或许我就能真正理解那份孤独和痛苦，并心无芥蒂地拥抱我亲爱的姐姐了吧。
+
+### 莉奈娅的爱好…
+
+在观察生物的时候我会想象自己也是其中的一员，过着和现在完全不一样的生活…啊，比如美露莘！如果我是美露莘的话，一定就能理解她们眼中所见的「色彩」了。这种东西，不是自己看到的话，完全无法想象嘛…
+
+### 莉奈娅的烦恼…
+
+说起来，辛苦收集到的矿石标本总会莫名其妙地不见几个…等等，该不会是被露米给吞掉了吧？露米，快张嘴呀，说「啊——」
+
+### 喜欢的食物…
+
+我喜欢甜甜的食物，带着露水的浆果，新鲜蜂蜜做的糖雕，刚出炉的蛋糕…如果在野外冒险时也能随时吃到这些就好了。
+
+### 讨厌的食物…
+
+只要不是对身体有害…我没有什么特别讨厌的食物，要是明明可以吃却因为口味的偏好而浪费掉，那也太奢侈啦。
+
+### 收到赠礼·其一
+
+这个真的好吃！是怎么做的，能教教我吗？
+
+### 收到赠礼·其二
+
+好吃！下次换我来，也让你尝尝我的手艺。
+
+### 收到赠礼·其三
+
+唔…至少对身体没什么害处。
+
+### 生日…
+
+生日快乐…虽然不是什么贵重的礼物，但这块我私藏已久的化石，请你收下。你看，这里有着早已灭绝的鸟类留下的骨骼和羽印，虽然它们再也无法飞翔，但那振翅的瞬间却被拓印了下来…即使生命终会消逝，我们存在过的证明总会以某种方式延续。愿你的生命也如古树般坚韧，每一圈年轮，都刻录下美好的故事。
+
+### 突破的感受·起
+
+感官变得更敏锐了。
+
+### 突破的感受·承
+
+对世间万物的理解又更深了一层。
+
+### 突破的感受·转
+
+感受得到力量的流动…就像掌握了洋流的规律，航行也会变得更顺畅。
+
+### 突破的感受·合
+
+知识正在转化为直觉…我信任这个世界就像信任一朵雏菊。
+
+### 元素战技·其一
+
+去吧，露米！
+
+### 元素战技·其二
+
+打个招呼吧！
+
+### 元素战技·其三
+
+可别小瞧了！
+
+### 元素战技·其四
+
+尝尝这个！
+
+### 元素战技·其五
+
+不可以挑食喔！
+
+### 元素战技·其六
+
+要小心咯！
+
+### 元素爆发·其一
+
+青春之地的馈赠。
+
+### 元素爆发·其二
+
+如结晶般闪耀吧。
+
+### 元素爆发·其三
+
+皆大欢喜！
+
+### 打开宝箱·其一
+
+怎么样？有什么好东西吗？
+
+### 打开宝箱·其二
+
+亮晶晶的…露米，这个不能吃喔！
+
+### 打开宝箱·其三
+
+看起来不错，你运气真好！
+
+### 生命值低·其一
+
+还能坚持…
+
+### 生命值低·其二
+
+不应该是这样的…
+
+### 生命值低·其三
+
+要小心了…
+
+### 同伴生命值低·其一
+
+我来帮你！
+
+### 同伴生命值低·其二
+
+包扎就交给我吧！
+
+### 倒下·其一
+
+是我选错了…
+
+### 倒下·其二
+
+是噩梦吗…
+
+### 倒下·其三
+
+这不是…属于我的未来…
+
+### 普通受击·其一
+
+哎呀…
+
+### 普通受击·其二
+
+唔…！
+
+### 重受击·其一
+
+不算什么！
+
+### 重受击·其二
+
+好痛…
+
+### 加入队伍·其一
+
+露米！我们出发咯！
+
+### 加入队伍·其二
+
+今天要去哪里探险？
+
+### 加入队伍·其三
+
+叫我吗？我准备好啦！

@@ -511,3 +511,959 @@ Saying, "Well, then you'd better take it up with the one who came up with this!"
 而若是你问她关于愿望的事，她只会说「愿望」这东西也太飘渺了，而且很复杂。她想析构世间万理，不断垒砌知识的基石，这算是愿望吗？当然算，但这就是全部了吗？当然不是。
 她正在做自己想做的事，自己认为正确的事，这让她很开心。或许这就足够了。谁又能说这种愿望的声音不够强烈呢？谁又能指责这种仅仅想过自己喜欢的生活的想法是不对的呢？一个愿望不应该比另一个愿望更高贵。她觉得。谁都有属于自己的人生。要是真有人敢就此指责的话，那他活该受到桑多涅的一顿臭骂。如果还是不服气的话，桑多涅或许会嗤笑地指指天上。
 「你去找给我发这东西的家伙理论去呀。」
+
+# voice_source_ids: 133000,133001,133002,133003,133004,133005,133006,133007,133008,133009,133010,133011,133012,133013,133014,133015,133016,133017,133018,133019,133020,133021,133022,133023,133024,133025,133026,133027,133028,133029,133030,133031,133032,133033,133034,133035,133036,133037,133038,133039,133040,133041,133042,133043,133044,133045,133046,133047,133048,133049,133050,133051,133052,133053,133054,133055,133056,133057,133058,133059,133060,133061,133062,133063,133064,133065,133066,133067,133068,133069,133070,133071,133072,133073,133074,133075,133076,133077,133078
+
+## REPLICAS_RU
+
+### Привет...
+
+Ненавижу представляться. Кому надо, знают меня и без представлений, а если нет... зачем тратить на это время и силы? Ладно, из уважения к правилам приличия скажу лишь один раз... Запомни это лицо, ибо пред тобой не кто иная, как Марионетка, номер семь из Предвестников Фатуи.
+
+### Поболтаем: Чаепитие
+
+Пожалуй, пора устроить чаепитие. Что думаешь? Вот только не знаю, найдётся ли у остальных время.
+
+### Поболтаем: Фортепиано
+
+Я люблю музыку. Более того, я самостоятельно научилась играть на многих музыкальных инструментах. Не веришь? Ха, найди мне фортепиано, и я покажу, на что способна.
+
+### Поболтаем: Совещания
+
+Опять вызывают в Заполярный дворец? Какой смысл во всех этих бесконечных совещаниях?!
+
+### Когда идёт дождь...
+
+...Как же надоело!
+
+### После дождя...
+
+Моим цветам нравится такая погода.
+
+### Когда гремит гром...
+
+Система защиты... работает нормально.
+
+### Когда идёт снег...
+
+Опять она будет нырять в снег...
+
+### Когда светит солнце...
+
+В такую погоду хочется заварить чашку крепкого кофе, взять пирожное, устроиться поудобнее на балконе и весь день напролёт читать книгу.
+
+### Когда дует сильный ветер...
+
+Эта юбка явно не создана для такой погоды... Как, скажите на милость, Розалина с этим справлялась?
+
+### Доброе утро...
+
+Доброе утро. Хочешь чашечку кофе? Он отлично поднимает настроение. А? Зачем мне кофе? Нравится вкус. А что, нужна какая-то другая причина?!
+
+### Добрый день...
+
+Уже день? Пойду приготовлю что-нибудь перекусить...
+
+### Добрый вечер...
+
+Хочешь поужинать? Здесь тебе не столовая... Ладно, раз уж ты здесь, пусть Фажио что-нибудь приготовит.
+
+### Спокойной ночи...
+
+Иди спать. Я хочу воспользоваться тишиной и покоем ночи, когда никто не мешает, чтобы провести кое-какие исследования. Мой режим сна в полном порядке, не беспокойся!
+
+### О Сандроне: Имя
+
+Зови меня просто Сандроне. А?.. Настоящее имя?.. Ха... Так сильно хочешь знать? Ладно, ладно... Я помню, когда впервые открыла глаза - в тот момент, когда Ален только создал меня, - он назвал меня «малышка Мари-Анн». Я попыталась повторить, произнести это имя вслух, но заметила в его выражении лица нечто... труднообъяснимое. Лишь позже я узнала, что это были сожаление и чувство вины. После того случая он ни разу не называл меня именем Мари-Анн. Когда Ален рассказал мне историю Ордо Нарциссенкрейц и его сестры, он подчеркнул, что я вправе сама выбирать свой жизненный путь. По его словам, одним из важных аспектов этого выбора было имя. Я ответила, что довольна тем именем, которое он мне дал. Малышка Мари-Анн Гильотен - имя, данное мне при рождении, единственное и неповторимое. По совпадению, Царица присвоила мне имя «Марионетка», которое очень похоже на «Мари-Анн». Хм... Это тоже своего рода «судьба»?
+
+### О Сандроне: Сон
+
+Когда меня только создали, мне казалось, что искать место, где можно прилечь, слишком хлопотно, поэтому я обычно «спала» в кресле. Лишь позже, когда я оказалась в Снежной, я постепенно начала пробовать спать на кровати. Должна признать, после изнурительного дня, полного общения с «коллегами», бывает очень приятно переодеться в удобную одежду и забраться под мягкое одеяло. Это чувство безопасности, которое формируется совместной работой тактильной системы и эмоциональной цепи. Теперь я понимаю, почему люди любят нежиться в постели. Впрочем, сон в кровати тоже имеет свои неудобства: механический ключ не позволяет мне спать на спине, а лёжа на боку трудно удержать равновесие. Единственный вариант - спать лицом вниз.
+
+### О нас: Дневник
+
+После ознакомления с моим дневником считаю, что будет справедливо, если ты расскажешь мне какой-нибудь свой секрет? А? Твой дневник приключений? Зачем он мне? Если я захочу узнать, чем ты занимаешься каждый день, я спрошу Катерину.
+
+### О нас: Разные позиции
+
+Мы довольно хорошо знакомы, но в Снежной лучше следовать правилам. Ты ведь всегда идёшь наперекор Фатуи, поэтому неизвестно, в какие неприятности вляпаешься... Я постараюсь не создавать тебе проблем, и ты пообещай мне то же самое. Помогать друг другу, хорошо понимая друг друга, - именно так поступают настоящие друзья, верно?
+
+### О Звёздном клине...
+
+Он мне отлично подходит, элемент Крио приносит много пользы. Больше не нужно беспокоиться о перегреве после длительных вычислений.
+
+### Давай поделимся...
+
+Без Пулонии в моей жизни появилось множество неудобств. Поэтому я создала Фажио, Функциональный Автономный Жизнестойкий Инженерный Организм. Она может справляться со множеством мелких задач, на которые я предпочитаю не тратить время, а ещё умеет сражаться. Что? Ты считаешь, что её полное имя слишком длинное и... непонятное? А разве функциональные механизмы не должны так называться? Имя Пулонии дал Ален. Оно означает «Проспективная ундуляция: Локализованный обзор, наблюдение и исследование явлений». Я всегда полагала, что все так называют свои изобретения. Ты думаешь, это наследственное?..
+
+### Интересные вещи...
+
+Не стану отрицать, что помимо исследований я порой размышляю над метафизическими вопросами. Ведь у всех народов есть свои представления о смерти. Я часто слышу, как люди рассуждают о «загробной жизни», «месте, где душа обретает покой» и тому подобном... Но у меня нет никаких воспоминаний о промежутке времени между секундой, когда моё ядро было повреждено в бою с Дотторе, и моментом, когда Звёздный клин активировал оставленное Аленом наследство и перезапустил меня. Абсолютная пустота. Куда попадают механические создания или, скажем, «марионетки» после смерти? Что такое наши «души»? Есть ли у нас «душа»? Ответов нет, поэтому я всегда возвращаюсь к своим исследованиям. Но знания - это краеугольный камень мира, и я верю, что по мере того, как эти камни будут складываться друг на друга, однажды их высота позволит мне достичь вершин и найти ответы на свои вопросы.
+
+### О Ситлали...
+
+Великая шаманка очень хорошая. Говорят, ей ужасно много лет? Мне всё равно кажется, что у неё полно энергии, хотя на какие-то слова она реагирует слишком остро. Что я имею в виду? Недавно я рассказала ей о том, что мы с тобой собираемся погрузиться под воду, чтобы кое-что найти... а до этого сказала, что ты в Нод-Крае, помогал Коломбине вернуть её имя... Она так разволновалась, что даже покраснела. Может, это из-за возраста... / Великая шаманка очень хорошая. Говорят, ей ужасно много лет? Мне всё равно кажется, что у неё полно энергии, хотя на какие-то слова она реагирует слишком остро. Что я имею в виду? Недавно я рассказала ей о том, что мы с тобой собираемся погрузиться под воду, чтобы кое-что найти... а до этого сказала, что ты в Нод-Крае, помогала Коломбине вернуть её имя... Она так разволновалась, что даже покраснела. Может, это из-за возраста...
+
+### О Линетт...
+
+Не знаю, как ей это удаётся! Эта кошечка всегда находит самое уязвимое место в любом механизме, а потом... Бац, и всё сломано. Хотелось бы, чтобы её брат с ней поговорил. Ну да ладно... Наверное, это талант. Может, стоит попросить её помочь мне в стресс-тестировании моих будущих творений? Если мои механизмы не выдержат её любопытства, то какие у них шансы в бою?
+
+### Об Алене Гильотене...
+
+После смерти Алена я установила ему надгробие. При жизни он говорил, что хочет, чтобы я написала эпитафию. И я написала. Ничего сложного - перечислить его заслуги и выбрать фразу, которая могла бы его охарактеризовать: «Жаль... но больше нечего сказать». Это были его любимые слова. Звучит пессимистично? Ха, для тех, кто его не знал, пожалуй, да. Но он всегда произносил эту фразу с улыбкой. Это было не смирение и не отказ от борьбы, скорее - удовлетворение. Как если бы он решил математическую задачу. Смерть - всего лишь спокойный знак равенства, а он перешёл на правую сторону формулы.
+
+### О Ледяной Царице...
+
+Даже меня до сих пор беспокоят ошибки в моём сердце, но её величество Царица... Как ей удалось полностью заморозить свои эмоции?
+
+### О Шуте...
+
+Один из тех, кто отдаёт приказы. Почему-то мир, отражающийся в его глазах, простирается куда дальше, чем у остальных. С первого взгляда на него я поняла - этот мир отнял у него слишком многое.
+
+### О Капитане...
+
+Все знали, что Капитано не любит снимать маску, тем не менее он всегда допивал свой чай, когда мы собирались вместе.
+
+### О Докторе...
+
+Лучше заткни уши. Боюсь, я не смогу сдержать эмоции.
+
+### О Коломбине: Раздражение
+
+Коломбина раньше доводила меня до белого каления, честно говоря, до сих пор доводит. Я рассчитывала, что без неё жизнь станет спокойнее. Кто бы мог подумать, что я буду раздражаться ещё сильнее, когда её нет рядом! Бесит!
+
+### О Коломбине: Жизнь
+
+Сейчас у неё прекрасная жизнь. Рядом с ней семья и друзья, и она может путешествовать, когда захочет... Почему мне не повезло так же? Ладно, не буду завидовать. Мы все знаем, что она заслуживает счастья.
+
+### Об Арлекино...
+
+Арлекино держит слово, действует решительно, ей можно доверить любое дело. С чисто профессиональной точки зрения было бы неплохо, если бы все мои коллеги постарались брать с неё пример.
+
+### О Цыплёнке...
+
+Он председатель снежноградского вече, хотя зачастую кажется, что он скорее... кукловод. Примирить столько противоречащих друг другу интересов под силу лишь очень искусному политику. Поняв это, начинаешь осознавать, насколько он на самом деле опасен.
+
+### О Дельце...
+
+Нужно было с самого начала выяснить, что его связывает с Дотторе. С какой стати финансирование моих исследований утверждалось в десять раз медленнее, чем проекты чокнутого Дотторе? Было ясно, что там что-то нечисто! Я даже лично спросила об этом Панталоне, а он посмотрел на меня своими хитро прищуренными глазками и сказал: «Ой, неужели наша госпожа Сандроне наконец-то заинтересовалась финансами? Если хочешь, могу порекомендовать несколько книг. Пожалуй, стоит начать со сборника "Сто вежливых фраз"».
+
+### О Розалине...
+
+Она всегда жила ради себя. Любила по-своему, ненавидела по-своему. В итоге этот образ жизни сжёг её дотла. И всё же её пламя горело уникальным оттенком до самого последнего мгновения, пока не погасло.
+
+### О Чайльде...
+
+Ещё один невыносимый коллега... Мог бы спокойно жить со своими братьями и сёстрами, так нет - зачем-то пошёл в Предвестники. И ещё, когда же он наконец поймёт, что не все так любят драться, как он?
+
+### Узнать больше о Сандроне I
+
+Ха? У меня нет привычки вот так запросто делиться подробностями своей жизни. Давай хотя бы дождёмся погожего денька и побеседуем за чашечкой чая с пирожными.
+
+### Узнать больше о Сандроне II
+
+Коллеги из Фатуи ужасно меня раздражают, но нельзя отрицать, что для исследователя там созданы прекрасные условия. Работаешь на Царицу - получаешь щедрые ресурсы и финансирование проектов. Можно сказать, что в итоге всё складывается в мою пользу.
+
+### Узнать больше о Сандроне III
+
+Меня никогда не беспокоило, что Ален создал меня, взяв за основу облик своей сестры Мари-Анн, и не беспокоило, что он назвал меня «малышка Мари-Анн». На мой взгляд, имя и внешность - это то, что мир дарует тебе при рождении. Разве тебя беспокоит, что ты внешне походишь на своих родителей или носишь их фамилию?
+
+### Узнать больше о Сандроне IV
+
+Я люблю математику. Мир, построенный на формулах и логике, обладает особой элегантностью, основанной на определённости. Мне также нравится музыка, которая во многом похожа на математику. Раньше я считала, что к исполнению музыки нужно подходить как к решению математической задачи: соблюдать баланс между нотами и ритмом, не допуская никаких отклонений. Позже я поняла, что некоторые незначительные погрешности и даже ошибки во время исполнения могут сделать музыку ещё прекраснее. Небольшая пауза здесь, внезапная импровизация там... Именно в таких крошечных погрешностях рождаются эмоции. Можно сказать, что это отголоски сердца исполнителя.
+
+### Узнать больше о Сандроне V
+
+Что мир даёт нам, то и забирает. Жить - значит приобретать и терять, подбирать то, что мир не может отнять, держаться за это среди утрат и прощаний и продолжать идти вперёд. Если человек желает просто «жить», разве это ничтожное желание? Точно так же, как если кто-то спасает мир исключительно для того, чтобы «спасти себя», - разве это слишком простая причина? Жить, чувствовать, быть свидетелем. И тогда однажды, возможно, вещей, которые мир не может отнять, станет так много, что они смогут потрясти его до самого основания.
+
+### Хобби Сандроне...
+
+Помимо музыки, механики и математики, я также увлекаюсь садоводством... когда позволяют условия. Мне нравится фиксировать процесс роста и развития моих растений. Большинству из них не требуется особого ухода - они самостоятельны и выносливы. Раньше я думала, что похожа на них.
+
+### Беспокойство Сандроне...
+
+Хочется взять какого-нибудь пушистого зверька и как следует потискать... Но они не любят механизмы и часто убегают, завидев меня. Эй! Хватит смотреть на меня с жалостью! Не могу потискать - и ладно! Это совсем... не обидно...
+
+### Любимая еда...
+
+Благодаря этому телу у меня нет аллергии и проблем с пищеварением, так что дегустация изысканных блюд для меня - чистое удовольствие. Но если нужно выбрать что-то конкретное... Хм, пожалуй, мне нравятся маленькие изящные пирожные. Их элегантные формы радуют глаз - двойное наслаждение, и визуальное, и гастрономическое.
+
+### Нелюбимая еда...
+
+Я не люблю жирную и острую еду. Дело не во вкусе - просто трудно избавиться от запаха, который пропитывает одежду. Очень неэлегантно.
+
+### Подарок I
+
+Хм... Я окажу тебе услугу и послушаю историю о создании этого подарка. Возможно, даже дам тебе пару советов. Настоящая леди не должна упустить такую возможность.
+
+### Подарок II
+
+О? Довольно вкусно. На следующем чаепитии я приготовлю для тебя ответный подарок.
+
+### Подарок III
+
+Ох... Фажио, пора наводить порядок.
+
+### День рождения...
+
+Хм. Держи, обычно я такие подарки не дарю, но сегодня для тебя особенный день, достойный празднования, - день, когда ты появился на свет. Я пригласила Арлекино и Коломбину, а также кое-кого из наших общих знакомых. Вместо обычных закусок к чаю будет торт, который я сама испекла. Так что предвкушай. / Хм. Держи, обычно я такие подарки не дарю, но сегодня для тебя особенный день, достойный празднования, - день, когда ты появилась на свет. Я пригласила Арлекино и Коломбину, а также кое-кого из наших общих знакомых. Вместо обычных закусок к чаю будет торт, который я сама испекла. Так что предвкушай.
+
+### Чувство возвышения: Начало
+
+Начинаю вычисления.
+
+### Чувство возвышения: Нарастание
+
+Добавляю переменные...
+
+### Чувство возвышения: Кульминация
+
+Отличные показатели.
+
+### Чувство возвышения: Окончание
+
+Деконструкция законов мироздания завершена. Я великолепна! Ха-ха-ха!
+
+### Элементальный навык I
+
+Отдохни.
+
+### Элементальный навык II
+
+Не отставай.
+
+### Элементальный навык III
+
+Скукота.
+
+### Элементальный навык IV
+
+Хм.
+
+### Элементальный навык V
+
+Хе-хе.
+
+### Элементальный навык VI
+
+Быстрее.
+
+### Взрыв стихии I
+
+Проверим мою гипотезу.
+
+### Взрыв стихии II
+
+Время для чаепития.
+
+### Взрыв стихии III
+
+Хм, смешно.
+
+### Открытие сундука I
+
+Ха? Столько хлопот ради этого?
+
+### Открытие сундука II
+
+Что там внутри? Я... Мне вовсе не любопытно!
+
+### Открытие сундука III
+
+Забирай, это награда за твои труды.
+
+### Низкий уровень HP I
+
+Фажио, ты в порядке?
+
+### Низкий уровень HP II
+
+Победитель ещё не определён...
+
+### Низкий уровень HP III
+
+В каждом сражении бывают неожиданные повороты!
+
+### Низкий уровень HP компаньона I
+
+Эй! Ты в порядке?
+
+### Низкий уровень HP компаньона II
+
+Будь осторожнее! Я умею чинить только механизмы!
+
+### Без сознания I
+
+В каком из вычислений я допустила ошибку?..
+
+### Без сознания II
+
+Чаепитие... пора заканчивать...
+
+### Без сознания III
+
+Жаль... но больше нечего сказать...
+
+### Получен лёгкий удар I
+
+Руки прочь!
+
+### Получен лёгкий удар II
+
+Как грубо.
+
+### Получен тяжёлый удар I
+
+Ты пожалеешь!
+
+### Получен тяжёлый удар II
+
+В могилу захотелось?
+
+### Присоединяется к группе I
+
+Пора проверить формулу.
+
+### Присоединяется к группе II
+
+Так и быть, помогу тебе по доброте душевной.
+
+### Присоединяется к группе III
+
+Идём, Фажио.
+
+## REPLICAS_EN
+
+### Hello
+
+I hate self-introductions. If you're supposed to know me, you'll get to know me naturally, and if you're not... why waste the time and energy? But, very well — for the sake of etiquette, I'll humor you just this once... Behold, before you stands Marionette, Seventh of the Fatui Harbingers!
+
+### Chat: Tea Party
+
+It's about time we threw another tea party, don't you think? I wonder who else is free...
+
+### Chat: Piano
+
+I like music. In fact, I've taught myself to play many different instruments. You don't believe me? Hah, find me a piano, and I'll show you a thing or two.
+
+### Chat: Meetings
+
+Called back to the Zapolyarny Palace, again? Ugh... Seriously, what's the point in all these endless meetings!?
+
+### When It Rains
+
+...Well, this is inconvenient.
+
+### After the Rain
+
+My flowers adore this kind of weather.
+
+### When Thunder Strikes
+
+Defensive systems... Mmhmm, operating normally.
+
+### When It Snows
+
+Ugh, time for more "snow damselettes"...
+
+### When the Sun Is Out
+
+The perfect weather for cake, strong coffee, and getting lost in a good book.
+
+### When the Wind Is Blowing
+
+Ugh... This skirt really wasn't made for weather like this... How in the blazes did Rosalyne use to cope?
+
+### Good Morning
+
+Good morning. Would you like a cup of coffee? It really raises the spirits. Hmm? Why would someone like me need coffee? Hah, can't a lady appreciate the taste!?
+
+### Good Afternoon
+
+Is it that time already? I'd better prepare some refreshments...
+
+### Good Evening
+
+Back for dinner? This isn't a canteen, you know... Ugh, forget it, you're here now, I'll have Fagio whip something up.
+
+### Good Night
+
+You should get some sleep. I prefer to do my research at night — it's quieter, and there's no one around to bother me. ...What do you mean!? My sleep schedule is fine as it is, thank you very much!
+
+### About Sandrone: Name
+
+What's wrong with calling me Sandrone? Huh...? My original name? Hah... So, you really want to know? Alright, alright... I can still remember when I first opened my eyes. Alain had just finished creating me. He called me "Marionette." I tried to repeat it, to say it out loud myself, but I noticed something... complicated in his expression. Only later did I come to understand what it was — a mixture of regret and guilt. He never called me that again. Anyway, after telling me the story of the Narzissenkreuz Ordo and his sister, Alain concluded by insisting that I was free to choose my own path in life. An important part of that, he said, was deciding on my own name. For my part, I told him I was perfectly fine with the one he'd given me. "Marionette Guillotin"... Pretty unique as names go, wouldn't you say? And yet, no doubt for different reasons, the Tsaritsa ended up making "Marionette" my title as a Harbinger. Heh... Perhaps that was simply another so-called "act of fate."
+
+### About Sandrone: Sleep
+
+When I was first created, it seemed like too much work to find a place to lie down, so I usually just "slept" in a chair. It was only after I arrived in Snezhnaya that I grew accustomed to sleeping in beds. I have to say, after an exhausting day of dealing with my "colleagues," wearing something comfortable and hiding beneath the covers is wonderfully cozy. There's a sense of security created by my sensory system and emotional circuitry. I now know why people like to sleep in. However, beds come with their own issues — my clockwork key prevents me from sleeping on my back, and it's difficult to balance when lying on my side. The only option is to sleep face down.
+
+### About Us: Diary
+
+You've read my diary, so don't you think it's about time you shared some of your own secrets to even things out? Huh? Your Adventurer Handbook? Why would I want that? If I wanted to know what you do every day, I'd just get Katheryne to tell me.
+
+### About Us: Beliefs
+
+We may know each other better now, but once we arrive in Snezhnaya, we still have to follow the rules. After all, you've been fighting the Fatui since you arrived... Who knows what kind of a stir you'll cause over there. Naturally, I'll try my best not to make your life difficult. I'd appreciate it if you could do the same for me. Helping each other out based on mutual understanding — that's what companions do, right?
+
+### About the Stellar Linchpin
+
+It's a good fit for me — Cryo is useful. For instance, I no longer need to worry about overheating after lengthy calculations.
+
+### Something to Share
+
+With Pulonia gone, life suddenly felt a lot more difficult to navigate. That's why I created Fagio — my "Facilitatrice Automatisee Generaliste Interactive et Omnitache." She can deal with a lot of trivial tasks that I'd rather not waste my time with — and she can fight. Huh? You think her full name's too long and... hard to understand? Is that not how all working machines get their names? Alain came up with Pulonia, which stands for "Prospective Undulation Localized Observing and Investigating Automaton." I thought everyone named things that way. So, you think it's hereditary...?
+
+### Interesting Things
+
+Outside of my research, I sometimes like to ponder metaphysical questions. Just as people from every nation have their own beliefs about death. I often hear people talking about the "afterlife," "where souls go to rest," things like that... But from the time my core was damaged fighting Il Dottore, to the time the "Stellar Linchpin" activated Alain's legacy and reactivated me, my memory is blank — completely empty. Where do mechanical constructs, "puppets," go when they die? How are our "souls" defined? Do we even have souls? There are no answers, so I always turn back to my research. But knowledge is the cornerstone of the world. I believe that as these stones continue to stack, one day their height alone will allow me to reach the answers to my doubts.
+
+### About Citlali
+
+That great shaman seems nice. Is she really very old? Still seems like she's got plenty of energy to me — though she does get a little too worked up sometimes. What do I mean? Oh, well, recently, I was talking to her about you and me going underwater to look for something... and before that, I told her you were in Nod-Krai helping Columbina get her name back... She got so animated, her face turned bright red. I wonder if it has something to do with her age...
+
+### About Lynette
+
+I don't know how she does it! That cat-girl always seems to find the weakest spot in every machine and then... beh, broken. I wish her brother would have a word with her. *sigh* Nevermind... I guess it's a talent, really. Maybe I should have her help me stress test my future creations. If my machines can't survive her curiosity, what chance do they have in battle?
+
+### About Alain Guillotin
+
+After Alain died, I put up a tombstone for him. When he was alive, he said he wanted me to write his epitaph. So I did. It wasn't difficult — list out his deeds, then pick a quote that captures the way he thought. I went with, "Regrettably, there's nothing more to say." It was something he often said. You think it sounds fatalistic? Hah, maybe to those who didn't know him. But he always said it with a smile. It wasn't resignation — he wasn't giving up. Ironically, it was almost like an expression of contentment. Like solving a mathematical problem. Death is just a silent equals sign, and he's moved to the other side of the equation.
+
+### About the Tsaritsa
+
+Even I still get bothered by the errors in my heart, but Her Majesty the Tsaritsa... How did she manage to freeze her emotions so completely?
+
+### About The Jester
+
+Always issuing orders... Somehow, the world reflected in his eyes seems farther away than it does with anyone else. The first time I saw him, I knew this world had taken too much from him.
+
+### About The Captain
+
+Everyone knows Il Capitano doesn't like to remove his mask, but it doesn't stop him from finishing his tea whenever we get together.
+
+### About The Doctor
+
+You might want to cover your ears. I'm afraid I won't be able to control my emotions.
+
+### About Columbina: Annoying
+
+Columbina used to drive me up the wall — to be honest, she still does. I thought life would be quieter without her around. Who knew I'd find myself getting more annoyed once she wasn't here! Ugh, it's infuriating!
+
+### About Columbina: Life
+
+She's living such a happy life right now. Her family and friends are by her side, and she gets to go traveling whenever she's free... Why can't I have that kind of fortune? Oh, forget it, I'm not jealous. We all know she deserves to be happy.
+
+### About Arlecchino
+
+Arlecchino is a woman of her word. She acts decisively, and you can trust her to get things done. Purely from a professional standpoint, it would be nice if all my colleagues could try to emulate her.
+
+### About The Rooster
+
+He's the chairman of the Snezhnograd Veche, though he often feels more like... its overseer. Every vote cast in the Evaluation Council affects the interests of countless factions. Reconciling so many competing concerns can only be achieved by the shrewdest of operators. Once you understand this, you start to realize just how terrifying he really is.
+
+### About Regrator
+
+You would think his relationship and dealings with Dottore would have been properly investigated from the start, right? Why did it take ten times longer for my research funds to be granted than that lunatic Dottore's? It's clear there was something shady going on! I even asked Pantalone about it to his face! He looked right at me with that stupid smile and said, "Oh my, has our Lady Sandrone finally developed an interest in finances? I can recommend a few books if you'd like — maybe you should start with '100 Phrases to Teach You Manners.'"
+
+### About Rosalyne
+
+She always lived for herself. She loved in her own way, and hated in her own way, too. No wonder she burned out so fast. Still, her flame shone with a unique hue until the moment it flickered into nothing.
+
+### About Childe
+
+Another pain in the... well, everything. He could happily just spend his days with his brothers and sisters — why insist on becoming a Harbinger at all? And when will he get it into his thick skull that not everyone is always looking for a fight?
+
+### More About Sandrone: I
+
+Hmm? I'm not in the habit of casually sharing my life story with others. But if I'm going to open up, can we at least wait for pleasant weather and to do it over tea and cake?
+
+### More About Sandrone: II
+
+My colleagues in the Fatui might not be the ones I'd choose, but there's no denying that it's an excellent place to conduct research. The Tsaritsa is generous with her resources and funding. I'd say the equation balances out in my favor.
+
+### More About Sandrone: III
+
+It never bothered me that Alain created me to look like his sister Mary-Ann — or that he named me "Marionette." The way I see it, these are simply the consequences of my birth. Does it bother you to look like your parents, or to bear their family name?
+
+### More About Sandrone: IV
+
+I like mathematics. A world built on formulae and logic has a kind of elegance anchored in certainty. I also like music, which is similar in many ways. I used to think playing music should be approached like a mathematical problem, balancing the notes and the beat, no space for deviation. Later, I came to realize that some minor flaws — even mistakes — during a performance can actually make the music more beautiful. A slight pause here, a sudden improvisation there... Such tiny errors are where emotion is born. Reverberations of the performer's heart, you might say.
+
+### More About Sandrone: V
+
+What the world gives, the world will take away. To live is to gain and to lose, to pick up what the world can't seize, to hold onto it amid loss and farewells, and to keep walking forward. If a person desires merely "to live," is that too insignificant a wish? Just like someone saving the world solely to "save themselves" — is such a reason too simple? To live, to feel, to witness. And then one day, perhaps those things the world cannot take away will grow numerous enough to shake it to its core.
+
+### Sandrone's Hobbies
+
+Besides music, machines, and mathematics, I also enjoy horticulture... when conditions allow. I like to document the process as my plants grow and flourish. Most of them require little intervention — they're independent, resilient. I used to believe I was the same.
+
+### Sandrone's Troubles
+
+Every time I see a fluffy little animal, I just wanna pick it up and give it a big hug... but most animals don't like machines, so they always run away when they see me. Hey! Don't look at me like that! I don't want your pity. So what if I can't hug them? It's not... it's not that big of a deal...
+
+### Favorite Food
+
+Thanks to this body, I don't suffer from allergies or indigestion, so food is purely a matter of pleasure for me. But if I had to choose... Hmm, I think I like small, dainty pastries most of all. Just looking at their exquisite shape brings joy to my heart — it's a one-two punch for the eyes and soul.
+
+### Least Favorite Food
+
+I don't like greasy, spicy food. It's got nothing to do with taste — it's just hard to keep the smell from clinging to my clothes. It's very inelegant for a lady.
+
+### Receiving a Gift: I
+
+Hmm... Oh, I—I'll do you a favor and listen to how you prepared this. Perhaps I can give you a few pointers. It would be unladylike to let the opportunity go to waste.
+
+### Receiving a Gift: II
+
+Oh? That's not half bad. I'll have to return the favor next time we get together for tea.
+
+### Receiving a Gift: III
+
+Ugh... Fagio, I have something for you to clean up.
+
+### Birthday
+
+Hmph. Here, take this. I wouldn't normally give these out, but today's a special day — it marks the day you came into the world. I invited Arlecchino and Columbina, plus a few shared friends. I even baked a special cake for the occasion... so you'd best look forward to it.
+
+### Feelings About Ascension: Intro
+
+Calculation underway.
+
+### Feelings About Ascension: Building Up
+
+Inputting variables...
+
+### Feelings About Ascension: Climax
+
+Progress is smooth.
+
+### Feelings About Ascension: Conclusion
+
+Deconstructing the very order of things. Bet you're impressed with me now? Hahaha...
+
+### Elemental Skill: I
+
+Take a break.
+
+### Elemental Skill: II
+
+C'mon, keep up.
+
+### Elemental Skill: III
+
+How tiresome.
+
+### Elemental Skill: IV
+
+Hmph.
+
+### Elemental Skill: V
+
+Hehe...
+
+### Elemental Skill: VI
+
+Pick up the pace.
+
+### Elemental Burst: I
+
+Let's test my hypothesis.
+
+### Elemental Burst: II
+
+A spot of teatime entertainment.
+
+### Elemental Burst: III
+
+Hmph, what a joke.
+
+### Opening Treasure Chest: I
+
+Huh? All that work for this?
+
+### Opening Treasure Chest: II
+
+So, what's inside? N—Not that I care!
+
+### Opening Treasure Chest: III
+
+Certainly went out of your way for this, didn't you? It's all yours.
+
+### Low HP: I
+
+Fagio! Are you good to go on?
+
+### Low HP: II
+
+Victory is in the balance...
+
+### Low HP: III
+
+Every battle has its twists!
+
+### Ally at Low HP: I
+
+Hey! Are you still with us?
+
+### Ally at Low HP: II
+
+Be careful! I only know how to fix machines!
+
+### Fallen: I
+
+Were my calculations... unsound...?
+
+### Fallen: II
+
+This tea party... is over...
+
+### Fallen: III
+
+Regrettably... there's nothing more to say...
+
+### Light Hit Taken: I
+
+Hands off.
+
+### Light Hit Taken: II
+
+How rude.
+
+### Heavy Hit Taken: I
+
+You'll regret that...!
+
+### Heavy Hit Taken: II
+
+Got a death wish?
+
+### Joining Party: I
+
+Time to verify my formulae.
+
+### Joining Party: II
+
+Let me help you out.
+
+### Joining Party: III
+
+Let's go, Fagio.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我讨厌做自我介绍。该认识我的自然会认识，不需要认识的我何必去费这力气？不过，好吧。出于淑女的礼仪，我就只说这一次——好好看清楚了。在你面前的，是「愚人众」执行官第七席——「木偶」。
+
+### 闲聊·茶会
+
+差不多该约一次茶会了吧？也不知道其他人有没有空。
+
+### 闲聊·钢琴
+
+我喜欢音乐，自学过很多乐器。你不信？哈，要是哪里有钢琴的话，我让你见识见识。
+
+### 闲聊·会议
+
+又通知要回至冬宫？哈…怎么总是有这么多会要开？
+
+### 下雨的时候…
+
+…烦人。
+
+### 雨过天晴…
+
+我养的花喜欢这种天气。
+
+### 打雷的时候…
+
+防护系统…嗯，运转正常。
+
+### 下雪的时候…
+
+又到了那家伙会扑到雪里的时候…
+
+### 阳光很好…
+
+这种天气就适合泡杯浓浓的咖啡，吃个点心，然后舒舒服服靠在阳台上看一下午的书。
+
+### 刮大风了…
+
+裙摆真碍事…也不知道罗莎琳以前是怎么解决的…
+
+### 早上好…
+
+早，要来杯热咖啡吗？很提神。嗯？你问我喝咖啡有什么用？啧，我单纯喜欢这味道不行吗？
+
+### 中午好…
+
+已经这个时间了？我去准备些茶点。
+
+### 晚上好…
+
+晚饭也来找我？我这里不是食堂…算了，来都来了，让法洁欧随便做点吧。
+
+### 晚安…
+
+你去睡吧。我要趁晚上安静没人打扰的时候搞些研究。我没有作息不规律！
+
+### 关于桑多涅自己·名字
+
+叫我「桑多涅」不就行了。欸…？原本的名字？哈…就这么想知道？好吧好吧…我还记得第一次睁眼，也就是阿兰刚把我创造出来的时候，他叫了我一声——「小玛丽安」。我试着开口确认这个名字的发音，却观察到阿兰脸上浮现出了某种复杂的表情。我后来才知道，那是「后悔」与「内疚」，他在那之后也没再叫过我「小玛丽安」。阿兰在同我讲了水仙十字结社和他妹妹的故事之后，说我是自由的，应该拥有自己的人生和名字。他说我可以选择自己的名字。我说「小玛丽安」也挺好，我不介意。小玛丽安·吉约丹，我出生时被赐予的名字，独一无二。巧合的是，女皇将「木偶」这名字分配给了我，它的叫法和「小玛丽安」一模一样。呵…这也算是某种「命运」？
+
+### 关于桑多涅自己·睡觉
+
+刚诞生那会儿觉得专门找个地方躺下睡觉好麻烦，所以我都是在椅子上完成每天的「休眠」环节。后来到了至冬我才慢慢试着在床上睡觉。不得不说，在辛苦了一天，和太多烦人的同事打交道之后，换身轻松的衣服钻到软软的被窝里的确很惬意。这是由触觉系统和情感回路共同构成的安全感，能理解为什么那么多人喜欢赖床了。不过在床上睡觉也有相应的烦恼，我身后的发条使我不能躺着睡，侧着睡又不好保持平衡，最后就只能选择趴着的睡姿了。
+
+### 关于我们·日记
+
+你连我的日记都看过了，是不是也该告诉我点你的秘密才算得上公平？嗯？冒险手册？我要那个干嘛？想知道你每天干了什么我可以直接问凯瑟琳啊。
+
+### 关于我们·立场
+
+虽说我们算挺熟了，但去到「至冬」，还是按规矩办事。毕竟你这一路总是和「愚人众」对着干，不知道你在那边又会惹上什么麻烦…我当然会尽量不让你为难，你也尽量别让我为难。互相理解的基础上互相帮助，这才是同伴，对吧？
+
+### 关于「星之楔」…
+
+挺好的，冰元素很实用。不用烦心大量计算后机体过热的问题了。
+
+### 有什么想要分享…
+
+没有了普隆尼亚，生活中出现了很多不便。所以我造了「全功能通用型自动机关」，法洁欧。她能帮忙处理很多我不喜欢沾手的杂务琐事以及日常战斗。嗯？原名很复杂？功能型机械不就应该这么取名吗？普隆尼亚的名字是阿兰取的，意为——「未来事象观演机关」。其他人不这么取名？呃，原来这是遗传…？
+
+### 感兴趣的见闻…
+
+我不否认自己在研究之余，也会偶尔思考一些形而上的问题。就像每个国家的人都对死亡有着自己的信仰。常听到他们聊到「死后的世界」，「灵魂的归处」什么的…但从我的核心在对付多托雷的战斗中损坏，到「星之楔」激活阿兰的遗产将我重启的这段时间，我没有任何记忆。完全的虚无。机械造物，或说「人偶」死后会去哪里？我们的「灵魂」应该如何被定义？我们是否真的有「灵魂」？这些问题无法被回答，所以最终我还是会老老实实回到自己的研究。但知识乃世界的基石，我相信这些石块不断垒砌，终有一天它的高度能让我触到这些问题的答案。
+
+### 关于茜特菈莉…
+
+那位大萨满人挺好的。听说她年纪挺大了？唔，真有活力，但就是有时候很容易激动。你问什么时候？哦，上次是和她聊到你我结伴下水找东西的时候。再上次是聊到你在挪德卡莱帮哥伦比娅找回了名字什么的…她听完激动得脸都红了，是上了年纪的关系吗？
+
+### 关于琳妮特…
+
+我真服了！那个猫猫女到底是怎么能每次都找到机械最薄弱的地方下手的？她哥能不能管管她？哎，算了…这恐怕也是种天分，下次让她帮忙监修机械漏洞吧。要是连她这一关都过不了，那也别谈什么实战了。
+
+### 关于阿兰·吉约丹…
+
+阿兰死后，我为他立了一块墓碑。他生前说，希望我来为他撰写墓志铭。于是我写了。这没什么难度，列举他的事迹，再选上一句能代表他的话——「很遗憾，但这就是结局」。这便是他常说的话。听起来有些悲观？哈，对不了解他的人来说是有点吧。但他总是微笑着说出这句话的。那不是认命或说放弃，更多是种满足吧。就像解开了一道数理题。死亡不过是一个平静的等号，而他现在去了公式的右边。
+
+### 关于「冰之女皇」…
+
+我尚且会因内心情感的「错谬」感到烦心，但女皇大人…她究竟是如何将「情感」冻结得如此彻底的？
+
+### 关于「丑角」…
+
+发号施令的家伙。总觉得映在他眼中的景色，要比其他人遥远得多。看到他第一眼我就感觉得出，这个世界夺走了他太多的东西。
+
+### 关于「队长」…
+
+大家都理解卡皮塔诺平时不喜欢摘下面罩，但尽管这样，他还是会将茶会上倒给自己的茶喝完。
+
+### 关于「博士」…
+
+你要不把耳朵捂上？我怕自己控制不好情绪。
+
+### 关于哥伦比娅·烦人
+
+哥伦比娅以前就很烦，现在也没好多少。亏我还觉得没她在会清净，谁知道见不到她的时候更烦！真受不了。
+
+### 关于哥伦比娅·生活
+
+这家伙现在的生活可幸福了，家人和朋友都在身边，没事还能外出旅行…我怎么就没有这种好运气？算了，我也不是真的羡慕她。我们都知道，幸福是这个家伙应得的。
+
+### 关于阿蕾奇诺…
+
+阿蕾奇诺信守诺言，行事果断，是个值得托付事情的人。不谈私交，我希望工作上所有和我有交集的同事，至少先去学习一下阿蕾奇诺的品格。
+
+### 关于「公鸡」…
+
+他是皇都评议会的主持者，有时更像是…掌控者。评议会上的每一票都牵动着无数人的利益。要调和如此之多权利关系，没有点手段是绝对办不到的。从这点上来说，他就比其他人要可怕得多。
+
+### 关于「富人」…
+
+当初就该严查他和多托雷之间的内部利益输送好吧？凭什么我的研究经费批得要比多托雷那个精神病慢十倍？这其中没点猫腻我都不信。我还当面质问过潘塔罗涅。结果他就用那笑眯眯的眼睛看着我说：「哎呀，看来桑多涅小姐终于对经济管理感兴趣起来了。我可以推荐几本书给你看。不如就从《礼貌用语100句》开始吧。」
+
+### 关于罗莎琳…
+
+她向来为自己而活。用自己的方式去爱，用自己的方式去恨。这种活法最终烧尽了她的生命。但直到最后一刻，那簇火焰也依旧是属于她独一无二的颜色。
+
+### 关于「公子」…
+
+又是一个让人不省心的同事…明明能和兄弟姐妹开开心心过日子，干嘛偏要来当什么「执行官」？还有，他到底要什么时候才想得通，不是所有人都像他一样喜欢打架。
+
+### 想要了解桑多涅·其一
+
+哈？我可没有随随便便就分享自己生活的习惯。再怎么也得找个天气好的日子，配上些美味的茶和点心再聊吧？
+
+### 想要了解桑多涅·其二
+
+尽管「愚人众」里有很多烦人的同事，但不可否认那是一处十分适合搞研究的地方。帮女皇办事就能得到丰厚的研究资源和项目资金，在我看来是个不错的算式。
+
+### 想要了解桑多涅·其三
+
+我从不介意阿兰以他妹妹玛丽安的样貌为基底创造了我，也不介意自己名字是「小玛丽安」。在我看来，这便是出生时世界给予你的东西。你难道会在意自己长得像父母，名字中带有他们的姓吗？
+
+### 想要了解桑多涅·其四
+
+我喜欢数理。公式与逻辑构成的世界，有一种基于确定性之上的优雅。我也喜欢音乐，它和数理相通。但从前的我，以为演奏音乐应当像演算数学题一样，将谱子上的音符与节拍完美对应，毫厘不差。后来我才发现，一些演奏时的「小瑕疵」，甚至是「小错误」，反倒会让音乐更加动听。这里稍微停顿一下，那里突然来点即兴的装饰音…这些微小的「错谬」，即是情感诞生的地方，是演奏者「心」的余颤。
+
+### 想要了解桑多涅·其五
+
+世界给予你的，世界又将之夺走。活着即是不断得到与失去，在失去与告别中拾起那些世界夺不走的东西，然后继续前进。如果一个人的愿望仅仅是「活着」，那会太渺小吗？就像一个人只为了「自救」而拯救世界，这样的理由会太简单吗？「活着」，去感受，去见证。然后终有一日，说不定那些世界夺不走的东西，会多到足以撼动整个世界。
+
+### 桑多涅的爱好…
+
+除了音乐和机械数理之外，我还喜欢在有条件的时候种些花草，记录它们成长的过程。它们大多不需要什么干预就能生长得很好，独立而顽强。我以前就觉得这和我很像。
+
+### 桑多涅的烦恼…
+
+想抱着什么毛茸茸的小动物狠狠揉一揉…但它们不喜欢机械，经常见到我就躲远远的。喂！别用那种怜悯的眼神看着我！抱不到就抱不到好了！也没…没那么可惜…
+
+### 喜欢的食物…
+
+拜这具身体所赐，我不会过敏，也不会消化不良，所以品尝美食对我来说是纯粹的享受。不过硬要说的话…嗯，喜欢小巧而精致的点心吧。那种典雅的造型光看着都令人心情愉悦，是视觉与味觉的双份享受。
+
+### 讨厌的食物…
+
+不喜欢油腻辛辣的食物。倒不是说味道不好，只是在享用的过程中，那类东西的气味很难不附着到衣服上。一点也不优雅。
+
+### 收到赠礼·其一
+
+哼…哼。我就好心听听你是怎么做的，帮你提提意见吧。不浪费是淑女的礼仪！
+
+### 收到赠礼·其二
+
+哦？味道可以呀。下次茶会上我准备一份回礼给你。
+
+### 收到赠礼·其三
+
+法洁欧，清扫时间到了。
+
+### 生日…
+
+哼。给，我平常可不会送这些。但今天对你来说是个值得庆祝的日子，它代表着你与这个世界初次相识的那一天。我已经叫上了阿蕾奇诺和哥伦比娅，还有些我们都认识的朋友。茶点也换成了我亲手制作的蛋糕，你就好好期待吧。
+
+### 突破的感受·起
+
+解算开始。
+
+### 突破的感受·承
+
+填入变量。
+
+### 突破的感受·转
+
+进程良好。
+
+### 突破的感受·合
+
+析构万理。我果然厉害！啊哈哈哈。
+
+### 元素战技·其一
+
+歇一歇。
+
+### 元素战技·其二
+
+跟上。
+
+### 元素战技·其三
+
+无聊。
+
+### 元素战技·其四
+
+哼。
+
+### 元素战技·其五
+
+呵呵。
+
+### 元素战技·其六
+
+再快点。
+
+### 元素爆发·其一
+
+演算，开始。
+
+### 元素爆发·其二
+
+茶间余兴。
+
+### 元素爆发·其三
+
+哼，可笑。
+
+### 打开宝箱·其一
+
+哈？你忙半天就为这个？
+
+### 打开宝箱·其二
+
+里面有什么？我…我没在好奇！
+
+### 打开宝箱·其三
+
+你拿去吧，忙这一趟怪辛苦的。
+
+### 生命值低·其一
+
+法洁欧，还行吗？
+
+### 生命值低·其二
+
+还没分出胜负…
+
+### 生命值低·其三
+
+有来有回也很正常！
+
+### 同伴生命值低·其一
+
+喂！没事吧？
+
+### 同伴生命值低·其二
+
+小心点啊！我只会修机械！
+
+### 倒下·其一
+
+演算…出错了吗…
+
+### 倒下·其二
+
+茶会…该结束了…
+
+### 倒下·其三
+
+很遗憾…但这就是结局…
+
+### 普通受击·其一
+
+别碰我。
+
+### 普通受击·其二
+
+没礼貌。
+
+### 重受击·其一
+
+给我等着…！
+
+### 重受击·其二
+
+想死吗？
+
+### 加入队伍·其一
+
+该验证算式了。
+
+### 加入队伍·其二
+
+我就好心帮帮你。
+
+### 加入队伍·其三
+
+我们走，法洁欧。

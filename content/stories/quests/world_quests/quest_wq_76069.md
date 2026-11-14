@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 76069
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_76069
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 76069
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -28,6 +30,26 @@
 «Рыцарю не нужны памятники, Справедливость сохранит память о нём».
 «Рыцарь не ищет спутников. Ведь с ним рука об руку идёт Правосудие».
 «Рыцарю не нужно возвращаться с триумфом, холодный ветер приведёт его домой».
+
+**Роланд:** ...не стоит тревожить... их мирный сон...
+
+##### Вариант ответа 1
+
+- **Путешественник:** Противостоять противнику
+
+**Варка:** Это сила Волка Севера? Странно, но я также чувствую нечто большее, чем просто намёк на Сокола Запада...
+
+**Варка:** Хм... Что бы это ни было, я докопаюсь до сути!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Отойти
+
+#### Примите вызов
+
+#### Победите тень Борея
+
+#### Примите вызов
 
 #### Поищите воспоминания рыцарей
 
@@ -39,23 +61,23 @@
 
 **Роланд:** ...Я повторял это много раз: этот кровопролитный путь я должен пройти в одиночку, мне не нужны последователи.
 
-Ха, тогда будем считать, что мы случайно идём одним путём из Мондштадта в Нод-Край.
+**Безымянные рыцари:** Ха, тогда будем считать, что мы случайно идём одним путём из Мондштадта в Нод-Край.
 
-И случилось так, что на этом пути один рыцарь, которому мы воздаём честь, случайно спасал нас бесчисленное количество раз. В таком случае, можно ли винить нас за то, что мы пошли по одному пути?
+**Безымянные рыцари:** И случилось так, что на этом пути один рыцарь, которому мы воздаём честь, случайно спасал нас бесчисленное количество раз. В таком случае, можно ли винить нас за то, что мы пошли по одному пути?
 
-Даже если мы не сможем полностью понять, мы будем стоять рядом как свидетели... Даже если в конце концов останемся лишь мы, немногие.
+**Безымянные рыцари:** Даже если мы не сможем полностью понять, мы будем стоять рядом как свидетели... Даже если в конце концов останемся лишь мы, немногие.
 
-У-у-у!
+**Волк:** У-у-у!
 
 **Роланд:** Если вы так считаете... я не имею права вам возражать.
 
-*...*
+...
 
-Проклятые чудовища... они все уничтожены? С местными жителями... всё в порядке?
+**Безымянные рыцари:** Проклятые чудовища... они все уничтожены? С местными жителями... всё в порядке?
 
-Кхе... Хорошо... Жаль только, что у нас нет сил досмотреть, как вы дойдёте до конца... Как же обидно!
+**Безымянные рыцари:** Кхе... Хорошо... Жаль только, что у нас нет сил досмотреть, как вы дойдёте до конца... Как же обидно!
 
-Отныне вам предстоит пройти этот путь в одиночку...
+**Безымянные рыцари:** Отныне вам предстоит пройти этот путь в одиночку...
 
 **Роланд:** В конце концов мой меч не смог защитить их всех.
 
@@ -79,13 +101,13 @@
 
 **Роланд:** Прощайте, мои последние боевые товарищи.
 
-...Нет...
+**Безымянные рыцари:** ...Нет...
 
-...Не надо...
+**Безымянные рыцари:** ...Не надо...
 
-...Позвольте нам сражаться...
+**Безымянные рыцари:** ...Позвольте нам сражаться...
 
-...Ещё раз...
+**Безымянные рыцари:** ...Ещё раз...
 
 **Варка:** Верный настрой! Не хочется прозябать в подобном месте?
 
@@ -102,6 +124,26 @@ A Domain sealed by the power of the North Wind. Once a place where knights stain
 "A knight hath no need of bonds, for justice itself doth walk beside him."
 "A knight hath no need of triumph, for a biting wind shall bear him home."
 
+**Roland:** ...Do not disturb... their peaceful slumber...
+
+##### Response branch 1
+
+- **Traveler:** Face the Enemy
+
+**Varka:** Is this the power of the Wolf of the North? Strange, though — I'm also getting more than just a hint of the Falcon of the West...
+
+**Varka:** Hmm... Whatever it is, I'll get to the bottom of this!
+
+##### Response branch 2
+
+- **Traveler:** Leave for Now
+
+#### Accept the challenge
+
+#### Defeat Boreas's Shadow
+
+#### Accept the challenge
+
 #### Explore the knights' memories
 
 **Varka:** Huh, a manifestation of the Wolf Spirit... A piece I didn't know about?
@@ -112,23 +154,23 @@ A Domain sealed by the power of the North Wind. Once a place where knights stain
 
 **Roland:** ...How many times do I have to say it — this blood-soaked path is mine alone to walk. No one need follow in my footsteps.
 
-Hah, then let's just call it "fate." Who's to say we didn't just happen to be following the same path, all the way from Mondstadt to Nod-Krai?
+**Nameless Knights:** Hah, then let's just call it "fate." Who's to say we didn't just happen to be following the same path, all the way from Mondstadt to Nod-Krai?
 
-A "fate" wherein we revere a certain knight, who simply happens to have saved us countless times. Under such circumstances, could we be blamed for embarking on a similar path?
+**Nameless Knights:** A "fate" wherein we revere a certain knight, who simply happens to have saved us countless times. Under such circumstances, could we be blamed for embarking on a similar path?
 
-Should we not fully understand, we would still stand by as witnesses... Even if in the end, there were only us few left.
+**Nameless Knights:** Should we not fully understand, we would still stand by as witnesses... Even if in the end, there were only us few left.
 
-Awoo!
+**Wolf:** Awoo!
 
 **Roland:** If this is truly how you see it... I have no right to deny you.
 
-*...*
+...
 
-Are those cursed monsters... all dead? And the residents nearby... Are they safe?
+**Nameless Knights:** Are those cursed monsters... all dead? And the residents nearby... Are they safe?
 
-*cough*... Good... Just a shame we lack the strength to watch you make it to the end... Would that it were not so!
+**Nameless Knights:** *cough*... Good... Just a shame we lack the strength to watch you make it to the end... Would that it were not so!
 
-From here on out, you must walk this path alone...
+**Nameless Knights:** From here on out, you must walk this path alone...
 
 **Roland:** ...When all is said and done, my sword could not protect them all.
 
@@ -152,13 +194,13 @@ From here on out, you must walk this path alone...
 
 **Roland:** So here we are — farewell, my final comrades.
 
-...No...
+**Nameless Knights:** ...No...
 
-...No...
+**Nameless Knights:** ...No...
 
-...Let us fight...
+**Nameless Knights:** ...Let us fight...
 
-...Once more...
+**Nameless Knights:** ...Once more...
 
 **Varka:** That's the spirit! Surely your wishes and ambitions weren't meant to just wither away in a place like this?
 
@@ -175,6 +217,26 @@ From here on out, you must walk this path alone...
 「骑士无需牵绊，自有正义与我同行。」
 「骑士无需凯旋，自有冽风送我还乡。」
 
+**罗兰:** …不可惊扰…他们的安眠…
+
+##### 对话分支 1
+
+- **旅行者:** 直面强敌
+
+**法尔伽:** 这是北风王狼的力量？好像还混了些「西风」的气味…
+
+**法尔伽:** 这可不能视而不见啊，不管是什么来路…都让我来领教一下吧！
+
+##### 对话分支 2
+
+- **旅行者:** 暂时离开
+
+#### 接受挑战
+
+#### 击败玻瑞亚斯之影
+
+#### 接受挑战
+
 #### 探寻骑士们的追忆
 
 **法尔伽:** 这种感觉…看来是我没发现的「狼灵」碎片，显化成的化身啊。
@@ -185,23 +247,23 @@ From here on out, you must walk this path alone...
 
 **罗兰:** …我重复过许多次了，染血的道路，有我一人足矣，不需要他人的追随。
 
-哈，那就当我们只是刚好同路吧？刚好从蒙德同路到挪德卡莱。
+**无名的骑士们:** 哈，那就当我们只是刚好同路吧？刚好从蒙德同路到挪德卡莱。
 
-又刚好被某位骑士救过无数次、刚好对那位骑士心怀憧憬…所以忍不住，也踏上了相近的道路。
+**无名的骑士们:** 又刚好被某位骑士救过无数次、刚好对那位骑士心怀憧憬…所以忍不住，也踏上了相近的道路。
 
-就算不能理解，至少也想在近旁见证…哪怕这一路下来，就只剩下我们几个了。
+**无名的骑士们:** 就算不能理解，至少也想在近旁见证…哪怕这一路下来，就只剩下我们几个了。
 
-嗷呜——
+**狼:** 嗷呜——
 
 **罗兰:** 如果这就是你们认定的骑士道…我无权否认。
 
-*……*
+……
 
-那些该死的魔物…都被消灭了吗？附近的居民…都没事了吧？
+**无名的骑士们:** 那些该死的魔物…都被消灭了吗？附近的居民…都没事了吧？
 
-咳…太好了…只可惜，我们没那个力气见证您走到最后…真不甘心啊！
+**无名的骑士们:** 咳…太好了…只可惜，我们没那个力气见证您走到最后…真不甘心啊！
 
-从今往后，就只有您一个人了…
+**无名的骑士们:** 从今往后，就只有您一个人了…
 
 **罗兰:** …到最后，我的剑还是没能守护一切。
 
@@ -225,13 +287,13 @@ From here on out, you must walk this path alone...
 
 **罗兰:** 永别了——我最后的「战友」。
 
-…不…
+**无名的骑士们:** …不…
 
-…不要…
+**无名的骑士们:** …不要…
 
-…让我们…
+**无名的骑士们:** …让我们…
 
-…再一次…
+**无名的骑士们:** …再一次…
 
 **法尔伽:** 果然——你们的「愿望」…不是在这种不见天日的地方默默朽去吧？
 

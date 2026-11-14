@@ -266,3 +266,847 @@ Yet the things he wore and carried on his person could not have been lighter. Wh
 他少见地有些生气了，大声喊道：「想要补全影子的话，至少得先有光吧！」
 大概人在梦里是能听到声音的，所以他被自己的梦话吵醒了。他不再试图解释做梦的原因，因为什么气温或者被子的借口已经用无可用。彻底清醒后，他仍能感受到残余的怒火，以及格外沉重的身体。
 但他身上的东西轻到不能再轻。压住他胸口的，是所谓神明注视的目光。
+
+# voice_source_ids: 105000,105001,105002,105003,105004,105005,105006,105007,105008,105009,105010,105011,105012,105013,105014,105015,105016,105017,105018,105019,105020,105021,105022,105023,105024,105025,105026,105027,105028,105029,105030,105031,105032,105033,105034,105035,105036,105037,105038,105039,105040,105041,105042,105043,105044,105045,105046,105047,105048,105049,105050,105051,105052,105053,105054,105055,105056,105057,105058,105059,105060,105061,105062,105063,105064,105065,105066
+
+## REPLICAS_RU
+
+### Привет...
+
+О, привет. Я Оророн из Повелителей Ночного Ветра. Хочешь овощей?
+А, не волнуйся - я не пытаюсь ничего тебе продать или получить что-то взамен. В этом нет ни смысла, ни причины. Мне нравится смотреть, что вырастет из каждого семени, поэтому получается много урожая. Главное, чтобы мои овощи попали в желудок человека, которому они понравятся.
+
+### Поболтаем: Чудаки
+
+Тебе кто-то сказал, что Повелители Ночного Ветра - племя чудаков? А кто ещё? Я думал, что только я один.
+
+### Поболтаем: Цель
+
+У каждого должно быть любимое животное, овощ или фрукт. Так можно понять, каким человеком хочешь стать.
+
+### Поболтаем: Мгла
+
+Некоторые окутанные мглой пути стоит избегать. Поддашься слепым амбициям, и мгла задушит тебя.
+
+### Когда идёт дождь...
+
+Если бежать, грязь попадёт на одежду. Если лететь... мокрый плащ утянет вниз. Лучше найти, где можно переждать непогоду.
+
+### Когда гремит гром...
+
+Молнии напоминают мне змей. Интересно, использует ли кто-нибудь их форму и цвет, чтобы предсказывать будущее... Если подумать, звучит довольно опасно.
+
+### Когда идёт снег...
+
+...Под снегом что-то погребено. Осторожно, не разбуди.
+
+### Когда светит солнце...
+
+Солнце - вечный огонь, и жители Натлана никогда не избегают встречи с ним лицом к лицу. Но если невыносимо, то всегда можно надеть солнечные очки.
+
+### В пустыне...
+
+Здесь что-то вообще можно вырастить? Давай пойдём отсюда.
+
+### Доброе утро...
+
+Прости. Мои глаза открыты, но я ещё не проснулся... Давай о делах потом.
+
+### Добрый день...
+
+Желудок говорит, что пора обедать, но не могу придумать, что поесть... Может, мозг ещё не проснулся?
+
+### Добрый вечер...
+
+Я бы не отказался от шипучего кофе с лапой завриана. Без молока... А? Кофе только утром? Ну тогда... Доброе утро.
+
+### Спокойной ночи...
+
+Мой мозг всегда бодрствует в это время ночи, так что отдыхай. Раньше я пытался заставить себя заснуть, но давно бросил это занятие. Думаю, пойду лучше редиску проверю.
+
+### Об Оророне: Общение
+
+Я знаю, меня иногда трудно понять. Если что-то непонятно, просто спроси. Я не против.
+
+### Об Оророне: Неразгаданная тайна
+
+Я не знаю, откуда я, но меня это не слишком беспокоит... Меня больше волнует, куда я направляюсь.
+
+### О нас: Извинения
+
+Прошу прощения... Нет, очень сильно прошу прощения. Я знаю, что сразу же обманывать тебя - это плохое начало. Я уже объяснял причины и обещаю, что говорил только правду. Но ничего страшного, если ты не примешь мои извинения. Тогда я просто постараюсь больше не попадаться тебе на глаза.
+
+### О нас: Подарок в благодарность
+
+Вот, это лапа завриана, собранная в четыре утра, ягода квенепа больше моей головы, самая сладкая партия меда с прошлой недели и... А! И ваучер на бесплатный прием у Какуку.
+А? Что за удивлённое лицо? Это благодарность за твою помощь. У тебя как будто всё есть, так что я выбирал подарки на свой вкус.
+А, кто такой Какуку? Завриан. Я вас как-нибудь познакомлю.
+
+### Глаз Бога...
+
+Некоторые говорят, что молнии помогают с урожаем. Так вот, я попробовал однажды использовать свой Глаз Бога посреди овощного поля, но капусте и помидорам не понравилось, так что я отказался от этой затеи.
+
+### Давай поделимся...
+
+Вот тебе секрет: не давай советы раньше всех. Плод, созревший раньше всех, привлекает самое большое внимание. У людей так же. Часто тем, кто высовывает голову, достаётся хуже всех.
+
+### Интересные вещи...
+
+Вечно парящие по воздуху белки-летяги могут показаться гордыми и высокомерными созданиями, но они гораздо коварнее, чем кажутся. Постоянно появляются из ниоткуда, цепляются за вас, пока не получат угощение... Маленькие негодяи, честное слово.
+
+### О Шилонен...
+
+Похоже, ей нравится отдыхать где-нибудь повыше, особенно на деревьях. Я обнаружил, что свисать с ветки вниз головой гораздо приятнее, чем лежать на ней. Может, стоит как-нибудь поделиться этим с Шилонен... Что? Но все говорят, что надо иногда смотреть на мир с другой стороны. Разве к изобретателю вроде Шилонен это не должно относиться даже в большей степени?
+
+### О Киниче...
+
+Ахав - интересный случай. Он стар, но в то же время молод... А Кинич как раз наоборот - молодой, но старый. Понимаешь, о чём я?
+
+### О Часке...
+
+Часка знаменита не просто так. Стоит ей появиться, как все драки прекращаются, и все начинают пожимать друг другу руки, словно лучшие друзья. Умные люди назвали это «устрашение силой». Неплохое название.
+
+### Об Ифе...
+
+Ифа хоть и часто ругает своих пациентов, но на самом деле с заврианами у него прекрасные отношения. В свободное время он играет перед клиникой на гитаре, а заврианы собираются вокруг и подпевают.
+Но это больше похоже на шум, чем на пение. Если мимо прохожу, то тоже присоединяюсь... К заврианам, я имею в виду.
+
+### О Ситлали...
+
+Бабушка на самом деле очень прямолинейный человек. Сразу видно рада она или нет. У неё плохо получается скрывать свои чувства. Ты ведь с ней одного возраста, да? Или... даже старше?
+Прости, не стоило спрашивать. Наверное, это было грубо... Но, если я прав, то, может быть, ты мог бы проводить с ней побольше времени? Бабушку уже давно окружают люди моложе её, и ей это наверняка надоело. Я уверен, она будет рада тебя видеть. / Бабушка на самом деле очень прямолинейный человек. Сразу видно рада она или нет. У неё плохо получается скрывать свои чувства. Ты ведь с ней одного возраста, да? Или... даже старше?
+Прости, не стоило спрашивать. Наверное, это было грубо... Но, если я прав, то, может быть, ты могла бы проводить с ней побольше времени? Бабушку уже давно окружают люди моложе её, и ей это наверняка надоело. Я уверен, она будет рада тебя видеть.
+
+### Об Иансан...
+
+Иансан - выдающийся тренер, и... скажу лишь, что я благодарен Пиро Архонту за то, что она не отправила Иансан ловить меня. Да, у меня преимущество в росте, но сомневаюсь, что смог бы от неё убежать... А трюк с дымовым облаком? Если использовать его слишком часто, он быстро теряет свою эффективность.
+
+### О Мавуике...
+
+Раньше я не был знаком с Пиро Архонтом. Ну я, конечно, знал, кто она такая, но «знаком-знаком» не был. Я думал о ней как о тотеме, на котором выгравировано слово «сила», как о символе полной власти и контроля. Но настоящего понимания не было, и в душу закрались сомнения. Теперь, когда знаю её лучше, я благодарен ей, но в то же время немного разочарован в себе... Она, похоже, очень уверена в своей цели. Внутри неё горит огонь, и она точно знает, зачем он горит, поэтому никогда не позволит пламени погаснуть. Я тоже так хочу... Хочу быть тем, кто может помочь Натлану. Как-то так... Ещё я заметил, что на победном пиру она ела много зелени. Мы поговорили об этом, и она сказала, что любит придерживаться сбалансированной диеты. Меня это удивило. Пожалуй, она более внимательна к мелочам, чем мне казалось.
+
+### О Капитане...
+
+Встреча с Капитаном стала для меня странным и неожиданным поворотом судьбы.
+Моё племя славится умением предсказывать будущее, но я никогда не ожидал, что всё окажется настолько запутанным. Разве помощь кому-то действительно сводится к обмену услугами, пока долг не будет погашен? Если это так, то почему я всё ещё чувствую себя в долгу перед ним? Почему я так благодарен за то, что он сделал для меня?
+Или... может, я всё чересчур усложняю. Что бы ни произошло в прошлом, он помог спасти артерии земли Натлана. Он герой, достойный уважения, и я всегда буду помнить его.
+
+### Узнать больше об Оророне I
+
+Привет. О, рукопожатие? В Натлане приветствия обычно не такие формальные, но, если хочешь, пожмём руки. Потом можешь мне просто издалека покричать. У меня хороший слух, я не пропущу.
+
+### Узнать больше об Оророне II
+
+Ты, похоже, всегда чем-то занят. Тоже так хочу, чтобы мне всегда было чем заняться. Но иногда мне нравится вообще ничего не делать. Я постоянно с одного на другое перескакиваю. Очень раздражает, но ничего не могу с собой поделать. / Ты, похоже, всегда чем-то занята. Тоже так хочу, чтобы мне всегда было чем заняться. Но иногда мне нравится вообще ничего не делать. Я постоянно с одного на другое перескакиваю. Очень раздражает, но ничего не могу с собой поделать.
+
+### Узнать больше об Оророне III
+
+В Натлане днём очень жарко, поэтому, если возможно, я предпочитаю выходить из дома ночью. Ты замечал, как блестит поверхность воды от лунного света. Но только при свете солнца видно, насколько вода чистая. Так что лучше ночью чёрную воду не трогать. / В Натлане днём очень жарко, поэтому, если возможно, я предпочитаю выходить из дома ночью. Ты замечала, как блестит поверхность воды от лунного света. Но только при свете солнца видно, насколько вода чистая. Так что лучше ночью чёрную воду не трогать.
+
+### Узнать больше об Оророне IV
+
+Я с рождения более чувствителен к душам, чем большинство людей. Как бы объяснить... Человеческие души - это как непредсказуемые комки энергии. Представь себе кучу маленьких заврианских зефирок самых разных видов... Именно так выглядит душа. Твоя душа тёплая, словно её поджарили на огне.
+
+### Узнать больше об Оророне V
+
+Если честно, я и сам себя не очень понимаю. У меня так много сомнений, так много вопросов без ответов, а новые всё продолжают появляться. Но для этого, похоже, нет какого-то особенно хорошего решения... Нужно просто двигаться вперёд, да ведь?
+
+### Хобби Оророна
+
+Есть ли у меня хобби кроме садоводства и наблюдения за тлёй? Да, конечно. Дай-ка секунду, сейчас вспомню.
+
+### Беспокойство Оророна
+
+Иногда перейти от мечты к её воплощению очень тяжело.
+
+### Любимая еда...
+
+Когда ем татако, я кладу под него пустую лепёшку. Если их много съешь, то из выпавших ингредиентов получится новое татако.
+
+### Нелюбимая еда...
+
+Военные пайки... Особенно прессованное печенье. Они напоминают мне душу Капитана... Хорошие по качеству, но слишком жёсткие.
+
+### Подарок I
+
+Ого, лучше, чем я сам могу.
+
+### Подарок II
+
+Не слишком ярко, не слишком пресно... Вкус в самый раз.
+
+### Подарок III
+
+Не очень понимаю... Что за техника такая?
+
+### День рождения...
+
+В Натлане верят, что день рождения определяет судьбу человека. Родиться в один день с великим героем значит получить его защиту и унаследовать его характер. Думаю, что людям, которые родились с тобой в один день, очень повезло... С днем рождения.
+
+### Чувство возвышения: Начало
+
+Что это ты мне только что дал? Можно ещё раз посмотреть? / Что это ты мне только что дала? Можно ещё раз посмотреть?
+
+### Чувство возвышения: Нарастание
+
+Может, мне стоит начать называть тебя наставником? Спасибо дедуля-наставник. Я многому у тебя научился. / Может, мне стоит начать называть тебя наставницей? Спасибо бабуля-наставница. Я многому у тебя научился.
+
+### Чувство возвышения: Кульминация
+
+Тело такое лёгкое... Я теперь, похоже, могу забраться ещё выше. Но всё равно нужно контролировать силу. Удариться головой довольно больно.
+
+### Чувство возвышения: Окончание
+
+Я ещё недостаточно силён, чтобы разведать границы смерти, но благодаря тебе конец теперь кажется чуть более далёким. Не волнуйся - я не стану из-за этого творить всякие безответственные поступки. Даю слово.
+
+### Элементальный навык I
+
+Не убегай далеко.
+
+### Элементальный навык II
+
+Пока!
+
+### Элементальный навык III
+
+Ты свободен!
+
+### Взрыв стихии I
+
+Иди, ты свободен.
+
+### Взрыв стихии II
+
+Пора здороваться.
+
+### Взрыв стихии III
+
+Скажи, что видишь.
+
+### Открытие сундука I
+
+Из-за твоей страсти к поиску сокровищ эти сундуки становятся исчезающим видом.
+
+### Открытие сундука II
+
+Если по нему постучать, то по звуку можно сказать, созрели ли его плоды.
+
+### Открытие сундука III
+
+Осторожно, некоторые заврианы любят прятаться в таких сундуках. Наверное, они интроверты.
+
+### Низкий уровень HP I
+
+Не могу бежать...
+
+### Низкий уровень HP II
+
+Плохо...
+
+### Низкий уровень HP III
+
+Плохой знак.
+
+### Низкий уровень HP компаньона I
+
+Позвать доктора?
+
+### Низкий уровень HP компаньона II
+
+Я заменю.
+
+### Без сознания I
+
+Я первый пойду...
+
+### Без сознания II
+
+Становится темно...
+
+### Без сознания III
+
+Голоса... зовут...
+
+### Получен тяжёлый удар I
+
+Ах, слишком медленно...
+
+### Получен тяжёлый удар II
+
+Что-то не так...
+
+### Присоединяется к группе I
+
+Хочешь, чтобы я присоединился?
+
+### Присоединяется к группе II
+
+Куда?
+
+### Присоединяется к группе III
+
+По какому поводу собрались?
+
+## REPLICAS_EN
+
+### Hello
+
+Oh, hello. I'm Ororon from the Masters of the Night-Wind. Want some vegetables?
+Oh, don't worry — I'm not trying to sell anything to you or get anything in return. There's no rhyme or reason for it, really. I just like to see what every seed grows up to be, so I end up with a lot of produce. As long as my vegetables wind up in the stomach of someone who enjoys them, that's all that matters.
+
+### Chat: Weirdos
+
+Someone told you the Masters of the Night-Wind is a tribe of weirdos? Huh, who else is there? Thought I was the only one.
+
+### Chat: Target
+
+Having a favorite animal, or vegetable or fruit, can help us recognize what kind of people we want to become.
+
+### Chat: Smoke
+
+Sometimes, a shrouded path is not meant to be walked. Move forward with blind ambition, and the smoke might suffocate you.
+
+### When It Rains
+
+If I run, mud will get on my clothes. If I fly... the rain will make my cape too heavy. Better find somewhere to wait out the weather.
+
+### When Thunder Strikes
+
+Lightning bolts remind me of snakes. I wonder if people use their shape and appearance to divine the future... On second thought, that seems a little dangerous.
+
+### When It Snows
+
+...There are things buried beneath the snow. Careful, now — let's not wake them up.
+
+### When the Sun Is Out
+
+The sun is an eternal flame, and the people of Natlan never shy away from meeting its gaze head-on. Of course, sunglasses are always an option if it gets too intense.
+
+### In the Desert
+
+Can anything... even grow here? Maybe we should leave.
+
+### Good Morning
+
+Sorry. My eyes are open, but I'm still half-asleep... Can this wait?
+
+### Good Afternoon
+
+My stomach says it's time for lunch, but I can't think of anything to eat... Maybe my brain is still asleep.
+
+### Good Evening
+
+I could really go for some sparkling coffee flavored with Saurian Claw Succulent. I take mine black... Huh? You should only drink coffee in the morning? Well then... Good morning.
+
+### Good Night
+
+My brain is always wide awake this time of night, so go ahead and rest. I used to try and force myself to fall asleep, but I gave up a long time ago. I think I'll just go check on the radishes instead.
+
+### About Ororon: Communication
+
+I know I say things that are hard to understand sometimes. If you're ever confused, just ask me. I don't mind.
+
+### About Ororon: Unsolved Mystery
+
+I don't know where I come from, but that doesn't bother me too much... I care more about where I'm going.
+
+### About Us: Apology
+
+I'm sorry... No, I'm more than sorry. I know lying to you right out of the gate didn't make the best first impression. I have explained to you the reasons why, and I promise I spoke only the truth. Still, it's okay if you don't accept my apology. If that's the case, I'll try to stay out of your way.
+
+### About Us: Thank-You Gifts
+
+Here, this is a Saurian claw succulent picked at four in the morning, a Quenepa Berry bigger than my head, the sweetest batch of honey from last week, and... Oh! And a voucher for a free appointment with Cacucu.
+Huh? Why do you look confused? It's a thank you for all your help. I wasn't sure if you needed anything, so I just went with gifts that I like.
+Oh, who's Cacucu? A saurian. I'll introduce you sometime.
+
+### About the Vision
+
+Some people say lightning helps crops grow. So, I tried using my Vision in the middle of my vegetable field once, but the cabbages and tomatoes didn't like it, so I gave up.
+
+### Something to Share
+
+Here's a tip — don't be the first person to put yourself out there. The first fruit that ripens is the easiest target, and people work the same way. Those who take the initiative usually wind up with the short end of the stick.
+
+### Interesting Things
+
+Flying squirrels may seem like proud and aloof creatures when they glide through the air, but they're much more cunning than they look, always zooming in from nowhere, clinging to you until they get a treat... Little rascals, honestly.
+
+### About Xilonen
+
+She seems to enjoy relaxing in high places, especially trees. In my experience, hanging upside down from a tree branch is more relaxing than lying on top of one. Maybe I should share that with her sometime... What? But don't we all need a change of perspective every now and then? Shouldn't that be even more true for an inventor like Xilonen?
+
+### About Kinich
+
+Ajaw is an interesting case. He's old, but also young... And Kinich is just the opposite — young, but also old. You know what I mean, right?
+
+### About Chasca
+
+Chasca is famous for a reason. She's an amazing mediator. The minute she shows up, all the fighting stops, and everyone starts shaking hands like the best of friends. She has a pretty convincing method, apparently — "armed deterrence"... Not a bad name.
+
+### About Ifa
+
+Ifa may scold his patients a lot, but he actually has a great relationship with the saurians. Whenever he has some time off, he'd play the guitar in front of the clinic, and a bunch of saurians would gather around and sing along.
+Although, it's more like noise than actual singing. I like to join in when I'm around, too... with the saurians, I mean.
+
+### About Citlali
+
+Granny is actually a very straightforward person. She wears her emotions on her sleeve, you know? It's hard for her to hide what she's feeling. You're the same age as her, right? Or... are you even older?
+Sorry, I shouldn't ask. That was probably rude... But, if I'm right, maybe you could spend more time together. Granny's been surrounded by people younger than her for a long time, and she's probably had enough. I know she'll be happy to see you.
+
+### About Iansan
+
+Iansan is a famous sports coach, and well... All I can say is, I'm grateful the Pyro Archon didn't send her after me. I may have an advantage when it comes to height, but I'm pretty sure she can outrun me... Oh, the smoke-cloud trick? Heh, after you use it a bunch, people start to see it coming.
+
+### About Mavuika
+
+I didn't really know the Pyro Archon before all this.
+I mean, I knew of her, but I didn't KNOW know her, you know? I used to think of her like a totem engraved with the word "strength," like a symbol of total power and control. But, it never went deeper than that, so doubt started to creep in.
+Now that I know her better, I feel grateful, but I'm also a little disappointed in myself... She seems so sure of her purpose. She has a fire inside her and knows exactly why it burns, so she won't ever let the flames go out. I want that... I want to be someone who can help Natlan.
+Anyway, so there's that, and um... I also noticed her eating a lot of leafy vegetables at the victory feast. When I asked her about it, she said she likes to keep a balanced diet. Kinda surprised me somehow. I guess she's more mindful of the little things than I expected.
+
+### About The Captain
+
+Meeting The Captain was a strange and unexpected twist of fate for me.
+My tribe is known for our ability to predict the future, but I never expected things would turn out so complicated. Is helping someone really about trading favors until the score is even? If so, why do I still feel so indebted to him? So grateful for what he did for me?
+Or... maybe I'm overthinking everything. No matter what happened in the past, he helped save Natlan's Ley Lines. He's a hero worthy of respect, and I'll always remember him.
+
+### More About Ororon: I
+
+Hello. Oh, a handshake? Our greetings aren't usually so formal in Natlan, but... Okay, we can shake hands. In the future, you can just shout at me from afar. I have good hearing, so I won't miss it.
+
+### More About Ororon: II
+
+You always seem so busy. I want to be like that, too — the kind of person who always has something to do. Then again, sometimes I like doing nothing at all. I keep flipping back and forth. It's annoying, but I can't help it.
+
+### More About Ororon: III
+
+In Natlan, it gets really hot during the day, so I choose to go out at night if possible. The moonlight makes the surface of the water glisten. Have you noticed? Although, at night, the water turns pitch-black. It's impossible to tell how clean it is, so I would avoid contact.
+
+### More About Ororon: IV
+
+I'm more sensitive to souls than most people. I was born that way, but it's also kind of hard to describe... Human souls are like unpredictable masses of energy. Imagine a bunch of little saurian marshmallows of all different kinds... That's basically what a soul looks like. Your soul is warm, like it's been lightly toasted above a glowing fire.
+
+### More About Ororon: V
+
+Other people don't understand me, and to be honest, I don't fully understand myself, either. I have so many doubts, so many unanswered questions, and new ones keep on coming.
+But, there's no quick-fix for something like this... Just gotta keep moving forward, right?
+
+### Ororon's Hobbies
+
+Do I have other hobbies? Besides gardening and aphid-watching, you mean? Oh, yes... Of course. Just give me a second. It'll come to me.
+
+### Ororon's Troubles
+
+Sometimes, going from dreaming it to doing it... it's a really tough step.
+
+### Favorite Food
+
+Whenever I eat a Tataco, I like to put an extra tortilla underneath to catch all the ingredients that fall out. That way, you basically get two Tatacos in one.
+
+### Least Favorite Food
+
+Military rations... especially compressed biscuits. They kinda remind me of The Captain's soul, actually... Good at the core, but a little tough.
+
+### Receiving a Gift: I
+
+Wow, even better than what I can make.
+
+### Receiving a Gift: II
+
+Not too strong, not too bland... The flavor is just right.
+
+### Receiving a Gift: III
+
+What avant garde technique is this...? I'm unfamiliar with it.
+
+### Birthday
+
+In Natlan, we believe a person's birthday decides their fate. Sharing a birthday with a great hero means being blessed with their protection and inheriting their character.
+I'm not sure the people out there who share your birthday know how lucky they are... Happy Birthday.
+
+### Feelings About Ascension: Intro
+
+What did you give me just now? Can I have another look?
+
+### Feelings About Ascension: Building Up
+
+Maybe I should start calling you "master"... Thank you, Master Gramps. I've learned a lot from you. / Maybe I should start calling you "master"... Thank you, Master Granny. I've learned a lot from you.
+
+### Feelings About Ascension: Climax
+
+My body feels so light... feels like I can get to even higher places now. Still, it's all about control. Hitting my head is no fun.
+
+### Feelings About Ascension: Conclusion
+
+I am not yet powerful enough to probe the boundaries of death, but thanks to you, the end now seems a little further away. Don't worry — I won't take advantage of that to do any irresponsible things. On that, you have my word.
+
+### Elemental Skill: I
+
+Not too far, now.
+
+### Elemental Skill: II
+
+Farewell.
+
+### Elemental Skill: III
+
+Be free!
+
+### Elemental Burst: I
+
+Go, you're free now.
+
+### Elemental Burst: II
+
+Time to say hello.
+
+### Elemental Burst: III
+
+Tell me what you see.
+
+### Opening Treasure Chest: I
+
+Your passion for treasure-hunting is turning these chests into an endangered species.
+
+### Opening Treasure Chest: II
+
+You can always tell which ones are ripe for the picking by the sound they make when you tap on them.
+
+### Opening Treasure Chest: III
+
+Careful, some saurians like to hide in chests like this — probably an introvert thing.
+
+### Low HP: I
+
+Please, hold up...
+
+### Low HP: II
+
+Not good...!
+
+### Low HP: III
+
+Bad omen.
+
+### Ally at Low HP: I
+
+Need me to get a doctor?
+
+### Ally at Low HP: II
+
+Filling in.
+
+### Fallen: I
+
+See you... in the Night Kingdom.
+
+### Fallen: II
+
+It's getting... dark.
+
+### Fallen: III
+
+The voices... are calling...
+
+### Heavy Hit Taken: I
+
+Argh, too slow...
+
+### Heavy Hit Taken: II
+
+Something's wrong...
+
+### Joining Party: I
+
+Want me to join?
+
+### Joining Party: II
+
+Where to?
+
+### Joining Party: III
+
+What's the occasion?
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，我是来自「烟谜主」的欧洛伦。我不是卖菜的，但是可以送你一些。
+别担心，没什么特别的原因，也没有想从你这里换取什么。我只是好奇每颗种子最终会长成什么样，所以越种越多。希望它们都能在中意它们的胃里安度晚年。
+
+### 闲聊·怪人
+
+你听谁说的烟谜主里都是怪人？我以为只有我一个。还有谁啊？
+
+### 闲聊·目标
+
+每个人都应该有一种自己最喜欢的动物，或者蔬菜，或者水果。这样才能知道自己想要成为什么样的人。
+
+### 闲聊·迷烟
+
+不是所有的迷烟都能穿过。如果野心太大，就会被烟雾呛到。
+
+### 下雨的时候…
+
+跑起来泥水会溅到衣摆上，飞的话…浸水的披风又太沉了。还是找个地方蹲会儿吧。
+
+### 打雷的时候…
+
+闪电很像蛇。不知道有没有人利用它们的颜色和形状占卜…说实话，有点担心这些人的安全。
+
+### 下雪的时候…
+
+…雪下面葬着什么。轻一点，不要惊醒它们。
+
+### 阳光很好…
+
+太阳是永燃之火，纳塔人从不惧怕直视烈日。当然，实在受不了可以戴墨镜。
+
+### 在沙漠的时候…
+
+这地方…感觉很难种出东西来。要不还是走吧？
+
+### 早上好…
+
+抱歉，虽然睁着眼睛，但我还没醒…正事可以晚点说吗？
+
+### 中午好…
+
+胃说时间到了，应该去吃点东西。但我想不出要吃什么…也可能是脑子还没醒。
+
+### 晚上好…
+
+突然想喝肉龙掌气泡咖啡，不加奶。你说太晚了？那…早上好。
+
+### 晚安…
+
+一到这个时候大脑就会活跃起来。我很早就放弃强迫自己睡眠了，所以你先休息吧，我带上夜灯去看看地里的萝卜。
+
+### 关于欧洛伦自己·交流
+
+我知道自己说话有时很难懂。你如果有哪里没听明白，请直接提问，我不介意的。
+
+### 关于欧洛伦自己·未解之谜
+
+我不知道自己是从哪来的，但似乎也并不好奇…比起这个，我更想知道自己该往何处去。
+
+### 关于我们·道歉
+
+抱歉…嗯…我是说，真的很抱歉。一上来就骗你，的确不是什么好的开局。原因已经都告诉你了，绝无虚言。如果你不想接受也没关系，那我会尽量不出现在你面前。
+
+### 关于我们·谢礼
+
+这是「凌晨四点」的肉龙掌，「比头大」的青蜜莓，「截至上周为止第一甜」的蜜…还有…哦，还有「咔库库免费问诊券」。
+怎么露出疑惑的表情，这些是送给你的，请收下。你帮了我的忙，但看上去并不缺什么，我只好按照自己的喜好准备了礼物。
+咔库库是谁？咔库库是龙。有机会介绍你们认识。
+
+### 关于「神之眼」…
+
+听人说打雷有助于作物生长。我试了下在菜地中央驱动「神之眼」，很遗憾，卷心菜和番茄都不太开心，所以就没继续了。
+
+### 有什么想要分享…
+
+一个小窍门：不要做第一个提出建议的人。就像先长出来的果实容易被盯上，第一个出头的人经常输得很惨。
+
+### 感兴趣的见闻…
+
+飞鼯其实并不总像它们在高空滑翔时那样目中无人。它们会突然飞过来，扒在你身上不走。这种时候很难不给它们点好处。从某种角度来看，算是一群狡猾的家伙。
+
+### 关于希诺宁…
+
+她好像很喜欢待在高处，尤其是树上。我发现倒挂在树枝上会比躺在上面更解压，有机会可以和她交流下心得。欸，不好吗？大家总说要换个角度看世界，像希诺宁这样的发明家，应该很需要吧。
+
+### 关于基尼奇…
+
+那个阿乔很有意思。它年纪很大，却又年纪很小。基尼奇正好相反，他年纪很小，但年纪很大。你…你能明白我的意思对吧？
+
+### 关于恰斯卡…
+
+恰斯卡很厉害，也很出名。只要她一来，人们就都不吵架了，开始和和气气地握手。最讲理的家伙原来叫「武力威慑」，是个不错的名字。
+
+### 关于伊法…
+
+别看伊法经常教训病号，他和龙们的关系其实很好。闲下来他会在诊所门口弹吉他，让围上来的龙一个一个跟着唱。
+但其实就是呜呜叫啦。我如果碰到了也会加入。我是说加入龙。
+
+### 关于茜特菈莉…
+
+奶奶其实是个很直白的人，高兴或者不高兴都会直接表现出来，也不太擅长掩饰自己的情感。你看上去像是她的同辈，或者…甚至比她更大？
+抱歉，这样好像不太礼貌，我不多问了。但如果真是这样，就请你多和她聊聊天吧，奶奶大概受够了身边都是晚辈，见到你会很开心的。
+
+### 关于伊安珊…
+
+只能说，还好火神大人没有派她来抓我。她是远近闻名的运动教练，虽然我有身高优势，但很可能跑不过她。障眼法？用多了就不管用了啊。
+
+### 关于玛薇卡…
+
+我之前并不认识火神大人。
+我的意思是，我当然知道火神是谁，但并不像当面对过话的那种「认识」。在这之前，火神大人对我来说更像一种刻写着力量的图腾，一个象征着掌控全局的标志。这在我心中并不算切实的了解，所以我产生了疑问。
+现在疑问消失了不少，我很开心，也有些心虚和羞愧…她似乎从不迷茫，知道火焰为何长燃，所以无论如何不能让其熄灭。我希望…希望自己能成为帮得上纳塔的人。
+当然，关于她我还有一些思考…上次在宴会上见到她吃了很多很多绿叶蔬菜，我们还聊了这件事，她说她很喜欢营养均衡的感觉。总觉得，是比想象中更细致的人。
+
+### 关于「队长」…
+
+真是一段奇异又仓促的缘分。
+都说烟谜主的人擅长预知未来，但我在路边遇到「队长」时，从没想过事情会变得这样复杂。在你看来，人情是可以简单两清的吗？如果是，我心中为何仍保留感激与亏欠？
+…又或许是我考虑得太多了。无论之前发生了什么，他帮助拯救了纳塔岌岌可危的地脉，是一位值得尊敬的英雄。我会一直记得他的。
+
+### 想要了解欧洛伦·其一
+
+你好。要握手吗？纳塔人打招呼一般不会这样正式，但你想要也可以。其实在远处喊一声就够了，我听力很好，会察觉到的。
+
+### 想要了解欧洛伦·其二
+
+你似乎总是很忙，我也希望像你一样，一直有事可做。但有时，我又很喜欢清闲度日。人的心情真多变啊，我自己也控制不了，真为难。
+
+### 想要了解欧洛伦·其三
+
+纳塔的白天很热，所以除非必要，我更喜欢晚上出门。你见过夜晚的水面吗？月光让水波闪着光，看起来十分清亮。但只有在阳光下你才能看清它是不是真的干净，所以，尽量不要触碰夜晚漆黑的水。
+
+### 想要了解欧洛伦·其四
+
+我对灵魂的感知天生比其他人强一些。怎么描述呢…人的灵魂有些像一团团莫测的能量，如果世界上有形态各异的小龙棉花糖，那大概就是灵魂的样子吧。你的灵魂很温暖，是烤过的那种。
+
+### 想要了解欧洛伦·其五
+
+老实说，我自己对自己也不甚了解。我总是有很多疑问；已有的问题还没得到解决，马上又会有新的加入进来。
+好像没有什么特别好的解决办法…只能尽量往前走，对吧？
+
+### 欧洛伦的爱好…
+
+除了种菜和观察蜜虫以外的爱好？有的。…当然有，给我点时间，会想出来的。
+
+### 欧洛伦的烦恼…
+
+有时，想要和做到之间的距离真的很难跨越。
+
+### 喜欢的食物…
+
+吃塔塔可时，在下面放一张空饼皮。只要吃得足够多，掉下来的食材就能变成一个新的塔塔可了。
+
+### 讨厌的食物…
+
+军用食品…尤其是压缩饼干。它们就像「队长」的灵魂一样沉重…品质很好，只是太硬了。
+
+### 收到赠礼·其一
+
+厉害，比我自己做的好吃。
+
+### 收到赠礼·其二
+
+不多不少，正正好的味道。
+
+### 收到赠礼·其三
+
+我不太明白…这是什么艺术？
+
+### 生日…
+
+在纳塔，有种说法是，一个人的出生日期决定了他的命运。如果他的生日和某位大英雄是同一天，那他就会得到这位英雄的庇佑，拥有和他一样的品质。
+我想，和你共享生日的人一定很幸运。生日快乐。
+
+### 突破的感受·起
+
+你刚刚拿给我的是什么？能再让我看一下吗？
+
+### 突破的感受·承
+
+我是不是应该叫你声老师？谢谢你，爷爷老师，我学到很多。 / 我是不是应该叫你声老师？谢谢你，奶奶老师，我学到很多。
+
+### 突破的感受·转
+
+身体很轻，看来可以一下子去到更高的地方了。但要控制好力道，因为磕到头会很疼。
+
+### 突破的感受·合
+
+我还没能力窥探死亡的界限，但你的帮助似乎将死亡推得更远了一些。放心，我不会因此就去随心所欲做坏事的，我保证。
+
+### 元素战技·其一
+
+别跑太远。
+
+### 元素战技·其二
+
+再见咯。
+
+### 元素战技·其三
+
+放生！
+
+### 元素爆发·其一
+
+去吧，你自由了。
+
+### 元素爆发·其二
+
+来，跟大家问好。
+
+### 元素爆发·其三
+
+帮我四处看看。
+
+### 打开宝箱·其一
+
+你对宝箱的热情正在威胁它们的生存环境。
+
+### 打开宝箱·其二
+
+敲上去的声音很清脆，应该是颗不错的果实。
+
+### 打开宝箱·其三
+
+小心哦，有些龙喜欢躲在箱子里。可能是内向吧。
+
+### 生命值低·其一
+
+跑不动了…
+
+### 生命值低·其二
+
+警惕…！
+
+### 生命值低·其三
+
+坏兆头。
+
+### 同伴生命值低·其一
+
+要带你去看医生吗？
+
+### 同伴生命值低·其二
+
+我先补上。
+
+### 倒下·其一
+
+先走一步…
+
+### 倒下·其二
+
+看不清了…
+
+### 倒下·其三
+
+听见了…不该存在的声音…
+
+### 重受击·其一
+
+呃，跑慢了…
+
+### 重受击·其二
+
+这不对吧？
+
+### 加入队伍·其一
+
+要我加入吗？
+
+### 加入队伍·其二
+
+去哪？
+
+### 加入队伍·其三
+
+能不能先说，是好事还是坏事？

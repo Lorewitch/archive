@@ -412,3 +412,812 @@ Wriothesley smiled back by way of reply, but made no further comment.
 第一个对此表态的是为他授予称号的最高审判官。那维莱特的微笑十分礼貌，恰到好处，但他看起来仍比莱欧斯利本人要更高兴些：「恭喜，你终于找到自己想做的事情了。」
 
 莱欧斯利听罢笑了笑，未加说明。
+
+# voice_source_ids: 86000,86001,86002,86003,86004,86005,86006,86007,86008,86009,86010,86011,86012,86013,86014,86015,86016,86017,86018,86019,86020,86021,86022,86023,86024,86025,86026,86027,86028,86029,86030,86031,86032,86033,86034,86035,86036,86037,86038,86039,86040,86041,86042,86043,86044,86045,86046,86047,86048,86049,86050,86051,86052,86053,86054,86055,86056,86057,86058,86059,86060,86061,86062,86063,86064,86065
+
+## REPLICAS_RU
+
+### Привет...
+
+Здравствуй, постарайся как можно более кратко изложить цель своего визита. А? Ты не по делу? Ох, от этого меня ещё больше тянет нервничать. Ладно, давай сядем и всё обсудим в подробностях... Да, можешь обращаться ко мне «ваша светлость». Так меня все называют в крепости, и... в общем, я к этому привык.
+
+### Поболтаем: Наклейки
+
+Если как-нибудь увидишь у меня на спине наклейки, сделай одолжение и сними их... Мелюзины любят иногда пошутить.
+
+### Поболтаем: Домашние животные
+
+Когда-то я подумывал о том, чтобы завести питомца на рабочем месте, но вскоре отказался от этой идеи. Неправильно держать животных там, где они не увидят солнца.
+
+### Поболтаем: Предостережение
+
+Вот тебе моё предостережение: не нарушай закон. Нужны ещё советы? Да пожалуйста: не вздумай нарушать закон.
+
+### Когда идёт дождь...
+
+Идёт дождь? Ну это обычное дело. Вот когда в крепости Меропид над головой начинает капать - это серьёзная проблема.
+
+### Когда гремит гром...
+
+Говорят, что грома боятся те, кому есть что скрывать.
+
+### Когда идёт снег...
+
+Это не тот холод, к которому я привык.
+
+### Когда светит солнце...
+
+Говорят, что нет ничего нового под солнцем, но пикник на солнышке никогда не устареет.
+
+### Доброе утро...
+
+Утро. Какой в газетах прогноз погоды на сегодня?
+
+### Добрый день...
+
+В купонной столовой сейчас, наверное, не протолкнуться. Попрошу кого-нибудь принести еду в кабинет.
+
+### Добрый вечер...
+
+Уже вечер? Могу поклясться, что я только что выпил свой послеобеденный чай.
+
+### Спокойной ночи...
+
+Доброй ночи. Я еще немного посижу - хочу перепроверить кое-какие цифры, пока всё тихо и спокойно.
+
+### О Ризли: Недоразумения
+
+Люди склонны видеть во мне наделенного чудесными способностями всезнайку. На самом же деле я всего лишь человек с двумя глазами и ушами. Как я могу знать обо всём, что происходит в крепости Меропид?
+
+### О Ризли: Небольшие перерывы
+
+Я уже давно отбыл свой срок, так что ничто не мешает мне время от времени выходить в наземный мир как свободному гражданину для отдыха.
+О, не стоит беспокоиться... В крепости Меропид в настоящее время нет таких проблем, которые требовали бы моего круглосуточного присутствия.
+
+### О нас: Заключение под стражу
+
+О многих людях я составляю первое впечатление по содержанию их сопроводительных документов. И ты, кажется, в этом не исключение.
+
+### О нас: Выход из тюрьмы
+
+Говорят, что дружбу лучше начинать, когда нет конфликта интересов. Похоже, что для нас настал подходящий момент.
+
+### Глаз Бога...
+
+Когда-то другие заключённые научили меня управлять элементами с помощью химических зелий. Думаю, ответственные за раздачу Глаз Бога не станут слишком переживать из-за такого отступления от правил.
+
+### Давай поделимся...
+
+Хочешь узнать, как улизнуть от жандармов? Возьми себе длинное имя, которое сложно запомнить. Каждый раз, когда они будут кричать «Руки вверх, этот... как тебя там?», их заминка даст тебе фору.
+
+### Интересные вещи...
+
+«Кто не работает, тот не ест» - так с давних пор написано на стенах крепости Меропид. Не знаю, кто придумал это первым, но здесь, под водой, это очень удобный принцип.
+
+### О Нёвиллете...
+
+Однажды Нёвиллет вызвал меня, чтобы обсудить кое-какие вопросы у него в кабинете. Когда я подъехал к дворцу Мермония, то увидел его у дороги, до нитки мокрого от дождя. Я протянул ему зонтик, и хотя он вежливо поблагодарил меня, выражение его лица было несколько... расстроенным, я бы сказал. Наверное, я ему чем-то помешал.
+
+### О Фурине...
+
+Госпожа Фурина не проявила особого интереса к моему процессу и ушла ещё до его окончания. Вероятно, потому, что я признал себя виновным по всем пунктам обвинения, как только они были оглашены. Разочаровать Гидро Архонта - дело серьёзное, так что... полагаю, у меня нет иного выбора, кроме как продолжать одаривать её огромным количеством чая высочайшего качества.
+
+### О Сиджвин...
+
+Старшая медсестра Сиджвин обладает всеми приличествующеми её профессии добродетелями и искренне заботится о благополучии окружающих. Похоже, правда, что она переняла от меня некоторые дурные привычки, например, часто устраивает пари со своими подругами-мелюзинами на тему того, кто прилепит больше наклеек на мои вещи. Нет, на самом деле мне это нисколько не мешает.
+
+### О Клоринде...
+
+Клоринда - лучший судебный дуэлянт, которого только можно найти. О её боевом мастерстве ходят легенды. Я сам никогда не сражался с ней, но это просто потому, что не было необходимости.
+
+### О Лини...
+
+Признаю, когда я убрал из-под воды шпионов Дома очага, это была своего рода провокация для Фатуи. Но в ответ они отправили к нам кучку детей... Эти дети были им не нужны? Или Фатуи понимали, что я не допущу, чтобы им причинили серьёзный вред? Ох...
+
+### О Навии...
+
+Крепость Меропид сотрудничает со Спина-ди-Росула по некоторым вопросам, связанным с поставками и логистикой, но других общих дел у нас нет. Это не потому, что я не доверяю Навии или её способностям - на самом деле я очень высоко её ценю. Единственная причина, по которой мы продолжаем держаться подальше друг от друга, заключается в соглашении, которое я заключил с покойным господином Калласом.
+
+### Об Эмилии...
+
+Её услуги крепости Меропид вроде как не требуются. Порой уроки прошлого оставляют свои следы. А запах - это тоже след, не так ли?
+
+### О Шеврёз...
+
+Заключённые, за которыми присматривает Особый патруль, по большей части ведут себя прилично, и в этом немалая заслуга капитана.
+
+### Узнать больше о Ризли I
+
+Теоретически, люди, которые со мной не знакомы, могут считать себя счастливчиками.
+
+### Узнать больше о Ризли II
+
+Откуда у меня шрамы? О, однажды чудовище из глубин ворвалось в крепость Меропид, и во время нашей схватки я был серьёзно ранен... Ну, конечно, это враньё, не вздумай поверить.
+
+### Узнать больше о Ризли III
+
+Знаешь, большинство наручников можно открыть универсальным ключом, если модель совпадает. Но только не мои.
+
+### Узнать больше о Ризли IV
+
+На самом деле мои личные возможности очень ограничены. Видишь ли, я не умею ни лечить болезни, ни изобретать, ни строить корабли. Я просто знаю, где найти людей, которые на всё это способны, и они, случается, готовы поделиться со мной мастерством, если им как следует заплатить.
+
+### Узнать больше о Ризли V
+
+Сейчас мне живется неплохо, но я по-прежнему завидую тому, чего у меня нет и не было, - например, спокойному и счастливому детству или способности легко доверять другим. Кому-то это может показаться противоречивым, кто-то считает, что об этом неудобно говорить, но я не думаю, что есть что-то плохое в том, чтобы это признать - предпочитаю жить в ладу с самим собой.
+
+### Хобби Ризли...
+
+Панкратион? Это не столько хобби, сколько жизненная необходимость. Посоветуешь что-нибудь ещё?
+
+### Беспокойство Ризли...
+
+Мне кажется, с виду я вылитый уроженец Фонтейна, но полной уверенности у меня нет. Окончательно убедиться можно, только прыгнув в воду Первозданного моря?
+
+### Любимая еда...
+
+В кофе я люблю добавлять молоко, а в чай - два кусочка сахара.
+
+### Нелюбимая еда...
+
+Тебе доводилось пробовать молочные коктейли Сиджвин? Вкус просто... опустошающий.
+
+### Подарок I
+
+Идеальное сочетание вкусов. Я бы никогда не смог приготовить это сам.
+
+### Подарок II
+
+Вкусно. Я обязательно угощу тебя чем-нибудь в следующий раз.
+
+### Подарок III
+
+Прости, я... заварю себе чай.
+
+### День рождения...
+
+У нас считается, что дети Фонтейна рождаются, сопровождённые добрыми пожеланиями и благословениями родителей, но мне хотелось бы верить, что это относится и ко всем прочим людям нашего мира. В сравнении с этим любые мои пожелания будут выглядеть немного банальными, правда? Увы, если ты совершишь преступление, я не смогу в подарок на день рождения сократить твой срок наказания, разве что вручу особую порцию бесплатного питания. Так что лучше не нарушай закон, тогда мы сможем отпраздновать его в каком-нибудь более приятном местечке на поверхности.
+
+### Чувство возвышения: Начало
+
+Твоё доверие - честь для меня.
+
+### Чувство возвышения: Нарастание
+
+Ого, похоже, теперь я должен тебе услугу.
+
+### Чувство возвышения: Кульминация
+
+Ха, почему тебя это как будто радует даже больше, чем меня?
+
+### Чувство возвышения: Окончание
+
+Мне нравятся знаки силы и надежды. Они дают мне больше уверенности в том, что завтра будет лучше, чем сегодня. Дело не в моём пессимизме, просто факт есть факт: попутный ветер не всегда будет дуть в спину. Но что бы ни случилось, мы по крайней мере сможем разобраться с этим вместе, правда?
+
+### Элементальный навык I
+
+Начнём.
+
+### Элементальный навык II
+
+Не пытайся сбежать.
+
+### Элементальный навык III
+
+Минутку.
+
+### Взрыв стихии I
+
+Доброго пути.
+
+### Взрыв стихии II
+
+Может стать немного прохладно.
+
+### Взрыв стихии III
+
+Сохраняй спокойствие и признай свою вину!
+
+### Открытие сундука I
+
+А, так он не заперт. Как удобно.
+
+### Открытие сундука II
+
+На твоём месте я бы это взял. Наверняка пригодится.
+
+### Открытие сундука III
+
+Если владелец неизвестен, имущество лучше всего передать в общественную собственность, так что... никто ничего не видел, правда?
+
+### Низкий уровень HP I
+
+Не надо бояться.
+
+### Низкий уровень HP II
+
+Подкрепления не будет? Ладно.
+
+### Низкий уровень HP III
+
+Пора импровизировать.
+
+### Низкий уровень HP компаньона I
+
+Отступай.
+
+### Низкий уровень HP компаньона II
+
+Ступай в лазарет.
+
+### Без сознания I
+
+Прости... Я не смог защитить...
+
+### Без сознания II
+
+Я рискнул по полной, и вот результат...
+
+### Без сознания III
+
+У меня... нет возражений.
+
+### Получен лёгкий удар I
+
+Щадишь меня?
+
+### Получен тяжёлый удар I
+
+...Неплохо.
+
+### Присоединяется к группе I
+
+За работу.
+
+### Присоединяется к группе II
+
+У тебя есть для меня работа на стороне? Без проблем.
+
+### Присоединяется к группе III
+
+Сделаю всё возможное, но никаких гарантий.
+
+## REPLICAS_EN
+
+### Hello
+
+Hello, please try to quickly summarize your intents and goals for this meeting. Oh? You're not here for business? Well, that just makes me even more nervous.
+Alright, then perhaps we should sit down and discuss things in a little more detail... Oh, and you can call me "Your Grace." That's what they all call me down in the Fortress, and... well, I kinda got used to it.
+
+### Chat: Stickers
+
+If you ever see any stickers on my back, do me a favor and take them off... Melusines like to play pranks sometimes.
+
+### Chat: Pets
+
+I once considered keeping some pets in my office, but soon gave up on the idea. It's just not right to keep small animals where they won't be able to see the sun.
+
+### Chat: Words of Advice
+
+Word of advice: Don't break the law. Hmm, is there anything else? Oh, yeah... Seriously, don't break the law.
+
+### When It Rains
+
+Oh, it's raining? That's alright. A real problem would be if we could feel water dripping on our heads in the Fortress of Meropide.
+
+### When Thunder Strikes
+
+You know, they say if you're scared of the thunder, it's really because you've got something else to hide.
+
+### When It Snows
+
+Hmm... This is a different kind of cold than what I'm used to.
+
+### When the Sun Is Out
+
+They say there's nothing new under the sun, but somehow a picnic in the warm sunshine never gets old.
+
+### Good Morning
+
+Morning. What do the papers have to say about today's weather forecast?
+
+### Good Afternoon
+
+The Coupon Cafeteria is probably crowded right now. I'll have someone deliver the food straight to my office.
+
+### Good Evening
+
+Huh, is it evening already? Could have sworn I'd just had my afternoon tea.
+
+### Good Night
+
+Good night. I'll be staying up for a little while yet — want to run some numbers while everything's nice and quiet.
+
+### About Wriothesley: Misunderstanding
+
+People have this tendency to see me as an all-knowing figure with mystical powers. In reality, I'm just one man with two eyes and two ears. How can I possibly know everything that's happening in the Fortress of Meropide?
+
+### About Wriothesley: Small Breaks
+
+I finished serving my sentence long ago, so there's nothing stopping me from taking an occasional breather in the overworld as a free citizen.
+Ah, there's no need to worry... The Fortress of Meropide doesn't currently have any problem so big as to require my round-the-clock presence to operate effectively.
+
+### About Us: Committing to Jail
+
+I form my first impressions of many people based on the contents of their inmate registration papers. Seems like you're no exception to the rule.
+
+### About Us: Finishing the Jail Term
+
+They say it's best to begin a friendship when there's no conflict of interest. Seems like the appropriate time has come.
+
+### About the Vision
+
+Some inmates once taught me a way to wield the elements by throwing around chemical potions. I guess whoever's in charge of handing out Visions doesn't care too much about a little rule-bending.
+
+### Something to Share
+
+Want a tip on how to escape from the Gardes? Just give yourself a name that's really long and difficult to pronounce. They'll be stumbling over your name as soon as they try to announce that you are under arrest.
+
+### Interesting Things
+
+"If a man will not work, he shall not eat." This phrase has been on the walls of the Fortress of Meropide for as long as anyone can remember. I don't know who first came up with it, but it's been pretty useful in the underworld.
+
+### About Neuvillette
+
+I was once summoned by Neuvillette to discuss some matters with him in his office. When I approached the Palais Mermonia, I saw him standing by the road, completely drenched in the rain. I held out an umbrella for him, and while he thanked me politely, his expression was a little... distressed, I guess. I can only assume that I had disturbed him in the middle of something.
+
+### About Furina
+
+Miss Furina displayed a severe lack of interest in my trial and excused herself early, probably because I pleaded guilty to all charges as soon as they were announced. Disappointing the Hydro Archon is a big deal, so... suppose I've got no choice but to keep gifting her copious amounts of the highest quality tea.
+
+### About Sigewinne
+
+Sigewinne the head nurse possesses all the virtues associated with the medical profession and genuinely cares for the well-being of everyone around her.
+She seems to have picked up some bad habits from me, though, like frequently betting with her Melusine friends over who'd be able to put more stickers on my belongings. Hm? No, I'm not actually bothered by it.
+
+### About Clorinde
+
+Clorinde is the best Champion Duelist you can find. Her combat prowess is already the stuff of legend. I've never fought her myself, but that's because there's never been a need for it.
+
+### About Lyney
+
+I'll admit that when I removed the House of the Hearth's spies in the underworld, that was kind of an intentional provocation to the Fatui. But their only response was to send down a bunch of children... Was it because they truly saw those kids as disposable? Or because they knew I wouldn't have it in me to let them come to serious harm? *sigh*
+
+### About Navia
+
+The Fortress of Meropide works with Spina di Rosula on some matters regarding supplies and logistics, but we don't have any other dealings. This isn't because I don't trust Navia or her abilities, in fact, I hold her in quite high regard. The only reason we continue to stay out of each other's way is because I wanna honor the agreement I made with the late Mr. Callas.
+
+### About Emilie
+
+The Fortress of Meropide doesn't need her services. Yet some things are best preserved the way they are, warts and all, so people don't make the same mistakes twice... I say warts, but yeah. I mean the smell.
+
+### About Chevreuse
+
+Most inmates seem to gain a new level of respect for the rules after receiving attention from the Special Security and Surveillance Patrol. As the captain, Chevreuse is an instrumental part of that team.
+
+### More About Wriothesley: I
+
+As a general rule, the less a person sees of me, the happier their life is.
+
+### More About Wriothesley: II
+
+Hmm? Oh the scar on my body? It's from a gash I got while battling a gigantic undersea monster that tried to take over the Fortress of Meropide. ...Hah, just kidding.
+
+### More About Wriothesley: III
+
+Did you know, many similar models of handcuffs can all be unlocked using the same master key? Except mine, of course. They're different.
+
+### More About Wriothesley: IV
+
+Honestly, my personal abilities are pretty limited. I got no talent in medicine, inventions, or ship-making. But what I do know how to do is find those people with those talents, and get 'em to come work for me.
+
+### More About Wriothesley: V
+
+I've managed to get myself to a pretty comfortable place in life, but there's still some things I want that are outside my reach, like a peaceful and happy childhood, or the ability to trust other people. Maybe some people would see those feelings as shameful or contradictory, but I don't see a problem with sharing them. After all, why should anybody be afraid to admit what they want?
+
+### Wriothesley's Hobbies
+
+Boxing? To me, that's more of a necessity than a hobby. You got some suggestions for actual hobbies?
+
+### Wriothesley's Troubles
+
+While I do possess some stereotypical Fontainian looks, when you're an orphan, you can never really be sure where you're from. Who knows, maybe I'll take a dip in the Primordial Sea one of these days just to check...
+
+### Favorite Food
+
+I usually take some milk with my coffee and two cubes of sugar with my tea.
+
+### Least Favorite Food
+
+Have you ever had one of Sigewinne's milkshakes? The taste that comes to mind is... what's that flavor... desolation.
+
+### Receiving a Gift: I
+
+What a perfect blend of flavors. I could have never made this myself.
+
+### Receiving a Gift: II
+
+Lovely. I'll be sure to treat you to something next time.
+
+### Receiving a Gift: III
+
+Please excuse me, I'm... I'm gonna brew a cup of tea.
+
+### Birthday
+
+Our tradition says that all children of Fontaine are born amid their parents' wishes and blessings, but I'd like to think that all children are born from such wonderful feelings. Anything that I can say to celebrate your birth would feel a little trivial next to that, right?
+Unfortunately, I won't be able to reduce your prison sentence if you were to commit a crime — the only thing I would be able to pull off would be a special Welfare Meal for your birthday dinner. With all that in mind, why don't you try to respect the law a bit more around your birthday, so we'll be able to celebrate somewhere nice on the surface?
+
+### Feelings About Ascension: Intro
+
+It is my honor to win your trust.
+
+### Feelings About Ascension: Building Up
+
+Uh oh, looks like I'll owe you a favor now.
+
+### Feelings About Ascension: Climax
+
+Ha, why do you look even more pleased about this than me?
+
+### Feelings About Ascension: Conclusion
+
+I like signs of strength and hope. They give me reassurance that tomorrow will be better than today. This isn't to be pessimistic, but it's impossible for the present to be without its doubts and troubles — that's just the truth. But come hell or high water, if nothing else then at least we'll be able to figure it out together, right?
+
+### Elemental Skill: I
+
+Let's begin.
+
+### Elemental Skill: II
+
+Don't run away now.
+
+### Elemental Skill: III
+
+A moment, please.
+
+### Elemental Burst: I
+
+Have a safe trip.
+
+### Elemental Burst: II
+
+This could get a little chilly.
+
+### Elemental Burst: III
+
+Stay cool and face your guilt!
+
+### Opening Treasure Chest: I
+
+Oh, this wasn't locked? How convenient.
+
+### Opening Treasure Chest: II
+
+I'd take it if I were you. I'm sure it'll come in handy.
+
+### Opening Treasure Chest: III
+
+All unclaimed articles should be turned in, so... neither of us saw anything here, right?
+
+### Low HP: I
+
+No need to fear.
+
+### Low HP: II
+
+No backup, huh? Fine by me.
+
+### Low HP: III
+
+Time to improvise.
+
+### Ally at Low HP: I
+
+Step back.
+
+### Ally at Low HP: II
+
+Get to the infirmary.
+
+### Fallen: I
+
+Sorry... I couldn't protect...
+
+### Fallen: II
+
+Instead of going big, guess I'm going home...
+
+### Fallen: III
+
+I have... no objections.
+
+### Light Hit Taken: I
+
+Going easy on me?
+
+### Heavy Hit Taken: I
+
+...Not bad.
+
+### Joining Party: I
+
+Let's get to work.
+
+### Joining Party: II
+
+Got a side job for me? Sure thing.
+
+### Joining Party: III
+
+I'll do my best, but I can't guarantee you victory.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，请尽量简洁地说明你的来意。嗯？不是公事？那我反而更紧张了。
+坐下详谈吧。顺便一提，你可以称呼我「公爵」，他们都是这么叫的，我也听习惯了。
+
+### 闲聊·贴纸
+
+如果看到我背后粘着美露莘画的贴纸，帮我揭掉吧？
+
+### 闲聊·宠物
+
+我曾经考虑过要不要在办公室里养宠物，但小猫小狗在不见阳光的地方生活太可怜了。还是算了吧。
+
+### 闲聊·忠告
+
+不要违法。还有什么需要叮嘱的吗？哦对了，不要违法。
+
+### 下雨的时候…
+
+下雨了？还好。要是在梅洛彼得堡感到头顶滴水的话，问题可就大了。
+
+### 打雷的时候…
+
+心中无罪的人，在这种天气下也能安睡吧。
+
+### 下雪的时候…
+
+嗯…和水下的冷不太一样。
+
+### 阳光很好…
+
+「太阳之下无新事」，但可以找个好地方野餐。
+
+### 早上好…
+
+早。晨报上的天气预测怎么说？
+
+### 中午好…
+
+现在特许食堂人正多，我叫人送餐到办公室来吧。
+
+### 晚上好…
+
+都这个时间了？总觉得才刚刚喝过下午茶。
+
+### 晚安…
+
+晚安。我要等会儿再睡，趁夜深人静正好算几笔账。
+
+### 关于莱欧斯利自己·误解
+
+他们不是把我想得太神秘，就是太全能了。我只有一双眼睛、一对耳朵，怎么可能照顾到梅洛彼得堡的每一个角落呢。
+
+### 关于莱欧斯利自己·小憩
+
+我早已服完刑，现在是自由公民，当然可以来水上闲逛。
+不必担忧。要是梅洛彼得堡必须要我一直待在下面才能稳定运转，那也太不健康了。
+
+### 关于我们·收监
+
+我对很多人的第一印象都是从收监登记表开始的，看来你也没能例外。
+
+### 关于我们·出狱
+
+都说没了利益牵扯才好做朋友，我们可以现在开始。
+
+### 关于「神之眼」…
+
+我以前跟一些罪人学过借助化学药剂使用元素的方法。无论「神之眼」的发放归哪个部门管，他们似乎不是很介意这点僭越之举。
+
+### 有什么想要分享…
+
+知道怎么做更容易逃脱警备队的抓捕吗？给自己起个又长又难记的名字，然后他们在大喊「那个谁，把手举起来！」时就会卡壳。
+
+### 感兴趣的见闻…
+
+「不劳动者不得食」，这句话很久以前就刷在梅洛彼得堡墙上了。我也不知道是谁安排的，在水下的确很实用。
+
+### 关于那维莱特…
+
+记得有次被那维莱特叫去上面谈事情，走到沫芒宫门口正好看到他在路边淋雨。我替他打了伞，他礼貌地道了谢，表情却不大自然。我大概是打扰到了什么吧。
+
+### 关于芙宁娜…
+
+可能是因为我认罪太快，芙宁娜小姐在当年的审判中看起来兴致索然，早早就退场了。让水神大人失望可是大事，只好今后多给她送些好茶了。
+
+### 关于希格雯…
+
+希格雯护士长具备一名医护人员所需的全部美德，并关心着身边每一位同伴。
+不过她似乎从我身上学走了一些坏习惯，比如时常和她的美露莘朋友们打赌，看谁能偷偷在我的东西上贴更多贴纸。不，我并不觉得困扰。
+
+### 关于克洛琳德…
+
+克洛琳德应该是你能找到的最好的决斗代理人了，实力有目共睹。我从未和她比试过，没有那个必要。
+
+### 关于林尼…
+
+我承认，拔除「壁炉之家」安插在水下的眼线是种挑衅。而他们的回应是只派几个孩子下来，的确令我有些难办。是真心觉得他们也可以被牺牲，还是看准了我不会对小孩下狠手呢…唉。
+
+### 关于娜维娅…
+
+梅洛彼得堡和刺玫会有一些物资方面的合作，但仅限于此。并不是不信任娜维娅小姐或是质疑她的能力——实际上恰恰相反——只不过，我们之间水下水上的事务互不干涉是我与卡雷斯先生约好的规矩，维持不变就好。
+
+### 关于艾梅莉埃…
+
+梅洛彼得堡应该用不上她的服务，有些痕迹就是作为「前车之鉴」被留下来的。…气味也是痕迹的一种，不是吗？
+
+### 关于夏沃蕾…
+
+被特巡队关照过的犯人大多挺老实的，这位队长功不可没。
+
+### 想要了解莱欧斯利·其一
+
+理论上来讲，完全不认识我的人会比较幸福。
+
+### 想要了解莱欧斯利·其二
+
+身上的疤痕？曾有深海巨兽企图占领梅洛彼得堡，我和它搏斗时被抓伤了。…当然是假的，不要信。
+
+### 想要了解莱欧斯利·其三
+
+你知道吗，手铐只要型号相近，大部分都能用通用的钥匙打开。只有我这副不一样。
+
+### 想要了解莱欧斯利·其四
+
+我的个人能力其实很有限。你看，我既不会治病，也不会搞发明，更不会造大船。我只是知道该去哪里找人做这些事，而他们恰好愿意卖我这个面子而已。
+
+### 想要了解莱欧斯利·其五
+
+我现在过上了还不错的生活，但也仍然羡慕一些我得不到的东西——比如安逸快乐的童年，和轻易信赖他人的能力。可能有人认为这很矛盾，或者难以启齿，我倒觉得没什么不好承认的——何必和自己的本心过不去呢？
+
+### 莱欧斯利的爱好…
+
+拳击？不算是爱好吧，只是生活所需。你有什么其他推荐吗？
+
+### 莱欧斯利的烦恼…
+
+我确实有着枫丹人的长相，但没法百分之百肯定——只能跳胎海水确认咯？
+
+### 喜欢的食物…
+
+喝咖啡时我习惯加奶，茶的话，两块糖就好了。
+
+### 讨厌的食物…
+
+你喝过护士长做的奶昔吗？能从中尝出…「荒芜」的味道。
+
+### 收到赠礼·其一
+
+完美的调味，我就不擅长这个。
+
+### 收到赠礼·其二
+
+好吃。下次换我请客。
+
+### 收到赠礼·其三
+
+等我去泡杯茶。
+
+### 生日…
+
+枫丹的孩子是伴随着双亲的心愿与祝福诞生的，不过我愿意相信这世上的每一个人都是如此。和这个比起来，我的祝愿就有些微不足道了。
+不，如果你犯事的话我是没办法帮你减刑的，只能在今天给你安排一份特殊的福利餐。所以生日期间还是安分一点，保证我们可以在水上庆祝，好吗？
+
+### 突破的感受·起
+
+能获得你的信任，是我的荣幸。
+
+### 突破的感受·承
+
+这下必须还你一个人情了。
+
+### 突破的感受·转
+
+哈，你怎么看起来比我要得意？
+
+### 突破的感受·合
+
+我喜欢力量和希望的信号，会让我感觉未来一切向好。这并非悲观，只是陈述事实，因为现实本就不可能一帆风顺。但有个好消息，就是当坏事发生时，我们可以站在同一阵线，对吧？
+
+### 元素战技·其一
+
+开始吧。
+
+### 元素战技·其二
+
+别跑啊。
+
+### 元素战技·其三
+
+请留步。
+
+### 元素爆发·其一
+
+一路顺风。
+
+### 元素爆发·其二
+
+注意防寒。
+
+### 元素爆发·其三
+
+无需畏惧，直面罪责。
+
+### 打开宝箱·其一
+
+没有锁吗？真方便啊。
+
+### 打开宝箱·其二
+
+先收好吧，总能派上用场。
+
+### 打开宝箱·其三
+
+无主之物最好归公…所以这里什么都没有，对吧？
+
+### 生命值低·其一
+
+不慌。
+
+### 生命值低·其二
+
+不叫增援？也行。
+
+### 生命值低·其三
+
+见机行事。
+
+### 同伴生命值低·其一
+
+退后。
+
+### 同伴生命值低·其二
+
+去医务室。
+
+### 倒下·其一
+
+抱歉，没能守住…
+
+### 倒下·其二
+
+孤注一掷的后果…
+
+### 倒下·其三
+
+我没有异议。
+
+### 普通受击·其一
+
+这么客气？
+
+### 重受击·其一
+
+…还可以。
+
+### 加入队伍·其一
+
+开工。
+
+### 加入队伍·其二
+
+请我出外勤？走。
+
+### 加入队伍·其三
+
+我尽力，但不保证赢。

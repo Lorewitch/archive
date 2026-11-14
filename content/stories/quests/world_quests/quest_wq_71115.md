@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 71115
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_71115
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 71115
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,10 +28,15 @@
 
 Кажется, долина Яоде скрывает секреты, о которых никто не знает...
 
+**Древние заметки:** (Содержание неразборчиво. Осталось лишь несколько разрозненных фраз, написанных красивым почерком...)
 
-**Беззаботный симулякр:** А? Ты что-то сказал(а)?
+**Древние заметки:** «...слетаются разноцветные бабочки, сила Адептов возвращает к жизни засохшее дерево...»
+
+**Древние заметки:** «...Отправляйся на запад и найди Двор Линшу...»
 
 #### Поймайте бабочек
+
+**Беззаботный симулякр:** А? Ты что-то сказал? / А? Ты что-то сказала?
 
 **Беззаботный симулякр:** Э... Вы кто такие? Вы потревожили мой сон!
 
@@ -67,14 +74,6 @@
 
 #### Поймайте бабочек
 
-**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
-
-**Беззаботный симулякр:** Бабочки... Ты не можешь их найти? Хм... Возможно, стоит посмотреть во-он там...
-
-**Беззаботный симулякр:** Если это всё... Пожалуйста, позвольте мне немного вздремнуть...
-
-**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
-
 **Беззаботный симулякр:** Да, именно так!
 
 **Беззаботный симулякр:** Раньше Властительница лекарств украшала разноцветными бабочками врата, но механизм в пещере был разрушен. Эти бабочки и баночка... изначально использовались для питания Бессмертного древа.
@@ -87,7 +86,7 @@
 
 **Беззаботный симулякр:** Ох... Потом она потеряла способность сохранять человеческую форму и очень быстро ушла. Интересно, как она сейчас...
 
-«...слетаются разноцветные бабочки, сила Адептов возвращает к жизни засохшее дерево...»
+- **Путешественник:** «...слетаются разноцветные бабочки, сила Адептов возвращает к жизни засохшее дерево...»
 
 **Беззаботный симулякр:** Да-да! Нужно только... А как вы узнали?
 
@@ -105,7 +104,7 @@
 
 **Беззаботный симулякр:** Ох... Потом она потеряла способность сохранять человеческую форму и очень быстро ушла. Интересно, как она сейчас...
 
-Что нужно сделать?
+- **Путешественник:** Что нужно сделать?
 
 **Беззаботный симулякр:** Ах, прошу прощения, я потерялся в воспоминаниях о Властительнице лекарств...
 
@@ -113,16 +112,59 @@
 
 **Беззаботный симулякр:** Хе-хе, это и есть механизм Адептов, который создала Властительница лекарств. Невероятно, правда?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я попробую.
 
-- **Путешественник:** Почему именно разноцветные бабочки?
-
 **Беззаботный симулякр:** Спасибо вам, добрые люди!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Почему именно разноцветные бабочки?
 
 **Беззаботный симулякр:** И правда, почему... Может, Властительница лекарств любит бабочек?
 
 **Беззаботный симулякр:** Эм... В общем, загоните бабочек в баночку. Прошу вас, добрые люди!
 
+#### Поймайте бабочек в баночку для лекарств
+
+**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
+
+**Беззаботный симулякр:** Пожалуйста, помогите мне с бабочками. Я очень устал... *зевает* Пожалуйста, позвольте мне немного вздремнуть...
+
+**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
+
+**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
+
+**Беззаботный симулякр:** Бабочки... Ты не можешь их найти? Хм... Возможно, стоит посмотреть во-он там...
+
+**Беззаботный симулякр:** Если это всё... Пожалуйста, позвольте мне немного вздремнуть...
+
+**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
+
+**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
+
+**Беззаботный симулякр:** Бабочки... Ты не можешь их найти? Хм... Возможно, стоит посмотреть во-он там...
+
+**Беззаботный симулякр:** Если это всё... Пожалуйста, позвольте мне немного вздремнуть...
+
+**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
+
+**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
+
+**Беззаботный симулякр:** Бабочки... Ты не можешь их найти? Хм... Возможно, стоит посмотреть во-он там...
+
+**Беззаботный симулякр:** Если это всё... Пожалуйста, позвольте мне немного вздремнуть...
+
+**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
+
+**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
+
+**Беззаботный симулякр:** Бабочки... Ты не можешь их найти? Хм... Возможно, стоит посмотреть во-он там...
+
+**Беззаботный симулякр:** Если это всё... Пожалуйста, позвольте мне немного вздремнуть...
+
+**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
 
 **Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
 
@@ -162,35 +204,19 @@
 
 #### Исследуйте древнее древо
 
-**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
-
-**Беззаботный симулякр:** Пожалуйста, помогите мне с бабочками. Я очень устал... *зевает* Пожалуйста, позвольте мне немного вздремнуть...
-
-**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
-
 #### Вернитесь в покои Адепта
 
 **Беззаботный симулякр:** Хр-р-р... Хр-р-р... Тише... Не шумите...
 
 #### Отыщите баночку для лекарств, о которой говорил священный симулякр
 
-**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
-
-**Беззаботный симулякр:** Бабочки... Ты не можешь их найти? Хм... Возможно, стоит посмотреть во-он там...
-
-**Беззаботный симулякр:** Если это всё... Пожалуйста, позвольте мне немного вздремнуть...
-
-**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
-
 #### Исследуйте потайное хранилище
 
-**Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
+**Древний текст I:** «...Говорят, у рыб плохая память, но я начинаю сомневаться в том, что она рыба. Днями напролёт рассказывает мне о Заветном нефрите...»
 
-**Беззаботный симулякр:** Бабочки... Ты не можешь их найти? Хм... Возможно, стоит посмотреть во-он там...
+**Древний текст I:** «...Мне всё время хочется её прервать, но, видя, как она счастлива, я решаю не делать этого... И вообще, эффективность снижается, когда её нет рядом...»
 
-**Беззаботный симулякр:** Если это всё... Пожалуйста, позвольте мне немного вздремнуть...
-
-**Беззаботный симулякр:** Хр-р-р... Хр-р-р...
+**Древний текст I:** «...Надо держать взаперти. Нельзя, чтобы люди или рыбы увидели, иначе она может начать прыгать от радости...»
 
 ## EN
 
@@ -198,10 +224,15 @@
 
 Yaodie Valley seems to conceal secrets unknown to all...
 
+**Ancient Notes:** (The content is blurry and only a few incomplete sentences written in elegant handwriting are legible...)
 
-**Carefree Simulacrum:** Sorry? What were you saying just now...?
+**Ancient Notes:** "As the vivid butterflies converge in the jar, the adeptal energy surges anew, akin to new life restored to a withered tree..."
+
+**Ancient Notes:** "Go west and behold Lingshu Courtyard, and..."
 
 #### Capture the butterflies
+
+**Carefree Simulacrum:** Sorry? What were you saying just now...?
 
 **Carefree Simulacrum:** Uh... Huh? Who art thou who disturb my beauty sleep...!
 
@@ -239,14 +270,6 @@ Yaodie Valley seems to conceal secrets unknown to all...
 
 #### Capture the butterflies
 
-**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
-
-**Carefree Simulacrum:** Butterflies... Can you not find them? Hm... Perhaps, if you look over there...
-
-**Carefree Simulacrum:** So if that's all, I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
-
-**Carefree Simulacrum:** Zzz... Zzz...
-
 **Carefree Simulacrum:** Phew... Yes, just like that!
 
 **Carefree Simulacrum:** The abode's Herblord previously used these colorful butterflies to adorn its door, but said mechanism was later destroyed. These colorful butterflies and the medicine jar... were originally meant to nourish the adeptal tree.
@@ -259,7 +282,7 @@ Yaodie Valley seems to conceal secrets unknown to all...
 
 **Carefree Simulacrum:** *sigh* She departed as soon as she lost the power to maintain her human form. I wonder how she's doing these days...
 
-"As the vivid butterflies converge in the jar, new life shall be restored to the withered tree..."
+- **Traveler:** "As the vivid butterflies converge in the jar, new life shall be restored to the withered tree..."
 
 **Carefree Simulacrum:** Yep, that's right! As long as... Wait, how did you know?
 
@@ -277,7 +300,7 @@ Yaodie Valley seems to conceal secrets unknown to all...
 
 **Carefree Simulacrum:** *sigh* She departed as soon as she lost the power to maintain her human form. I wonder how she's doing these days...
 
-So what am I supposed to do?
+- **Traveler:** So what am I supposed to do?
 
 **Carefree Simulacrum:** Ah, my apologies. I got a little carried away reminiscing about my lord...
 
@@ -285,16 +308,59 @@ So what am I supposed to do?
 
 **Carefree Simulacrum:** Heh, this is the adeptal mechanism designed by the Herblord. Pretty amazing, huh?
 
+##### Response branch 1
+
 - **Traveler:** Let me give it a try.
 
-- **Traveler:** Why colorful butterflies?
-
 **Carefree Simulacrum:** Sure thing. I'm counting on you then, kind humans!
+
+##### Response branch 2
+
+- **Traveler:** Why colorful butterflies?
 
 **Carefree Simulacrum:** Eh? Yeah, why is that... Perhaps the Herblord was just really into colorful butterflies?
 
 **Carefree Simulacrum:** Uh... Anyway, I'm counting on you to get them back into the jar, kind humans!
 
+#### Chase the butterflies into the medicine jar
+
+**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
+
+**Carefree Simulacrum:** I leave the matter of the butterflies to you. I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
+
+**Carefree Simulacrum:** Zzz... Zzz...
+
+**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
+
+**Carefree Simulacrum:** Butterflies... Can you not find them? Hmm... Perhaps, if you look over there...
+
+**Carefree Simulacrum:** So if that's all, I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
+
+**Carefree Simulacrum:** Zzz... Zzz...
+
+**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
+
+**Carefree Simulacrum:** Butterflies... Can you not find them? Hm... Perhaps, if you look over there...
+
+**Carefree Simulacrum:** So if that's all, I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
+
+**Carefree Simulacrum:** Zzz... Zzz...
+
+**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
+
+**Carefree Simulacrum:** Butterflies... Can you not find them? Hm... Perhaps, if you look over there...
+
+**Carefree Simulacrum:** So if that's all, I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
+
+**Carefree Simulacrum:** Zzz... Zzz...
+
+**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
+
+**Carefree Simulacrum:** Butterflies... Can you not find them? Hm... Perhaps, if you look over there...
+
+**Carefree Simulacrum:** So if that's all, I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
+
+**Carefree Simulacrum:** Zzz... Zzz...
 
 **Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
 
@@ -334,35 +400,19 @@ So what am I supposed to do?
 
 #### Investigate the ancient tree
 
-**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
-
-**Carefree Simulacrum:** I leave the matter of the butterflies to you. I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
-
-**Carefree Simulacrum:** Zzz... Zzz...
-
 #### Return to Adeptus's Repose
 
 **Carefree Simulacrum:** Zzz... Come now, pipe down, don't be so noisy...
 
 #### Look for the medicine jar mentioned by the Sacred Simulacrum
 
-**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
-
-**Carefree Simulacrum:** Butterflies... Can you not find them? Hmm... Perhaps, if you look over there...
-
-**Carefree Simulacrum:** So if that's all, I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
-
-**Carefree Simulacrum:** Zzz... Zzz...
-
 #### Explore the hidden vault
 
-**Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
+**Ancient Text (I):** "...They say fish have a bad memory, and I'm starting to wonder if she is one. She won't stop telling me about that 'Motive Mainjade' business..."
 
-**Carefree Simulacrum:** Butterflies... Can you not find them? Hm... Perhaps, if you look over there...
+**Ancient Text (I):** "...Even though it always fills me with the urge to interrupt her, seeing that look of joy on her face makes me decide against it... If anything, efficiency takes a hit when she isn't here to natter away..."
 
-**Carefree Simulacrum:** So if that's all, I'm rather sleepy right now, so... *yawn* Don't mind me for a bit...
-
-**Carefree Simulacrum:** Zzz... Zzz...
+**Ancient Text (I):** "...I must keep this locked up. I can never let any person or fish see this. She might start jumping for joy otherwise..."
 
 ## ZH
 
@@ -370,10 +420,15 @@ So what am I supposed to do?
 
 药蝶谷中似乎隐藏着尚不为人所知的秘密…
 
+**古老的记事:** （其上的内容模糊，只留下了几句残缺的话，字迹十分秀气…）
 
-**「慢悠悠仙像」:** 嗯？你刚才说什么来着…
+**古老的记事:** 「…彩蝶汇坛中，仙力复枯木逢生之貌…」
+
+**古老的记事:** 「…向西而行，见灵枢庭，即可…」
 
 #### 抓住彩蝶
+
+**「慢悠悠仙像」:** 嗯？你刚才说什么来着…
 
 **「慢悠悠仙像」:** 唔…嗯？尔等何人？扰我好梦…！
 
@@ -411,14 +466,6 @@ So what am I supposed to do?
 
 #### 抓住彩蝶
 
-**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
-
-**「慢悠悠仙像」:** 蝴蝶…找不到吗？嗯…说不定，去那边看一看就好…
-
-**「慢悠悠仙像」:** 那么，就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿.…
-
-**「慢悠悠仙像」:** 呼…呼…
-
 **「慢悠悠仙像」:** 呼…对啦，就是这个！
 
 **「慢悠悠仙像」:** 先前洞府药君曾引彩蝶点缀门户，后来洞府机关破败，这些彩蝶与药罐…原是用于滋养那棵仙树的。
@@ -431,7 +478,7 @@ So what am I supposed to do?
 
 **「慢悠悠仙像」:** 唉…自从无力维持人形之后，她很快便离开了，不知如今过得如何…
 
-「彩蝶汇坛中，复枯木逢生之貌…」
+- **旅行者:** 「彩蝶汇坛中，复枯木逢生之貌…」
 
 **「慢悠悠仙像」:** 没错没错！只要…不对，你们是怎么知道的？
 
@@ -449,7 +496,7 @@ So what am I supposed to do?
 
 **「慢悠悠仙像」:** 唉…自从无力维持人形之后，她很快便离开了，不知如今过得如何…
 
-所以我要怎么做？
+- **旅行者:** 所以我要怎么做？
 
 **「慢悠悠仙像」:** 啊，不好意思，一不小心就沉浸在药君大人的回忆里了…
 
@@ -457,16 +504,59 @@ So what am I supposed to do?
 
 **「慢悠悠仙像」:** 哼哼，这就是药君大人设计的仙家机关，很神奇吧！
 
+##### 对话分支 1
+
 - **旅行者:** 我试试看。
 
-- **旅行者:** 为什么是彩蝶？
-
 **「慢悠悠仙像」:** 嗯嗯，那就拜托你们了，好心的人类！
+
+##### 对话分支 2
+
+- **旅行者:** 为什么是彩蝶？
 
 **「慢悠悠仙像」:** 欸？对喔，为什么呢…也许是因为药君大人比较喜欢彩蝶？
 
 **「慢悠悠仙像」:** 呃…总之，拜托你们帮忙把那些彩蝶赶回罐子里吧，好心的人类！
 
+#### 将彩蝶驱赶至药罐中
+
+**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
+
+**「慢悠悠仙像」:** 蝴蝶的事情…就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿…
+
+**「慢悠悠仙像」:** 呼…呼…
+
+**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
+
+**「慢悠悠仙像」:** 蝴蝶…找不到吗？嗯…说不定，去那边看一看就好…
+
+**「慢悠悠仙像」:** 那么，就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿.…
+
+**「慢悠悠仙像」:** 呼…呼…
+
+**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
+
+**「慢悠悠仙像」:** 蝴蝶…找不到吗？嗯…说不定，去那边看一看就好…
+
+**「慢悠悠仙像」:** 那么，就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿.…
+
+**「慢悠悠仙像」:** 呼…呼…
+
+**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
+
+**「慢悠悠仙像」:** 蝴蝶…找不到吗？嗯…说不定，去那边看一看就好…
+
+**「慢悠悠仙像」:** 那么，就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿.…
+
+**「慢悠悠仙像」:** 呼…呼…
+
+**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
+
+**「慢悠悠仙像」:** 蝴蝶…找不到吗？嗯…说不定，去那边看一看就好…
+
+**「慢悠悠仙像」:** 那么，就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿.…
+
+**「慢悠悠仙像」:** 呼…呼…
 
 **「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
 
@@ -506,32 +596,16 @@ So what am I supposed to do?
 
 #### 调查古树
 
-**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
-
-**「慢悠悠仙像」:** 蝴蝶的事情…就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿…
-
-**「慢悠悠仙像」:** 呼…呼…
-
 #### 返回伏仙洞
 
 **「慢悠悠仙像」:** 呼…呼…别吵，别吵啦…
 
 #### 寻找仙像所说的药罐
 
-**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
-
-**「慢悠悠仙像」:** 蝴蝶…找不到吗？嗯…说不定，去那边看一看就好…
-
-**「慢悠悠仙像」:** 那么，就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿.…
-
-**「慢悠悠仙像」:** 呼…呼…
-
 #### 探索秘库
 
-**「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
+**古老的文本·其一:** 「…都说鱼的记性差，我都开始怀疑她到底是不是鱼了。那个什么『肆龙』的事情，一天到晚不厌其烦地跑来找我讲…」
 
-**「慢悠悠仙像」:** 蝴蝶…找不到吗？嗯…说不定，去那边看一看就好…
+**古老的文本·其一:** 「…虽说每次都想直接打断她，但看她那副开心的样子，果然还是算了…倒不如说，她不来唠叨的时候，效率反而更低…」
 
-**「慢悠悠仙像」:** 那么，就拜托你们啦，我现在好困，所以…哈啊，请先让我睡一会儿.…
-
-**「慢悠悠仙像」:** 呼…呼…
+**古老的文本·其一:** 「…这个之后一定要锁起来。绝对不能让任何人或鱼看到。否则那家伙的尾鳍要翘到天上去了…」

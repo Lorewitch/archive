@@ -294,3 +294,878 @@ On one particular day, Ayaka, at last, defeated an opponent in a single strike. 
 剑术训练成为了日常生活的一环，从开始那日延续至今，从未间断。
 不知第多少天，绫华终于能做到一击退敌。霎时，道场内冰花凝结，道场正中，她的刀尖上挂着一枚如冰棱般璀璨的「神之眼」。
 千般锤磨，素振亦无人可当，就连神明也为之动容。
+
+# voice_source_ids: 3100,3101,3102,3103,3104,3105,3106,3107,3108,3109,3110,3111,3112,3113,3114,3115,3116,3117,3118,3119,3120,3121,3122,3123,3124,3125,3126,3127,3128,3129,3130,3131,3132,3133,3134,3135,3136,3137,3138,3139,3140,3141,3142,3143,3144,3145,3146,3147,3148,3149,3150,3151,3152,3153,3154,3155,3156,3157,3158,3159,3160,3161,3162,3163,3164,3165,3166,3167,3168,3169,3170
+
+## REPLICAS_RU
+
+### Привет...
+
+Мастер инадзумского искусства Камисато Тати Дзюцу, Камисато Аяка к вашим услугам!
+Рада познакомиться.
+
+### Поболтаем: Стабильность
+
+Я хочу одного, чтобы жизнь чаще бывала такой беззаботной, как сейчас... О, как я жажду этого...
+
+### Поболтаем: Меч
+
+Клинок совсем как чайный лист. Лишь тот, кто вкусил его не единожды, способен оценить его истинное изящество.
+
+### Поболтаем: Отрешённость
+
+Так вот он какой - день из жизни путешественника... Я с каждым разом узнаю о тебе всё больше. / Так вот он какой - день из жизни путешественницы... Я с каждым разом узнаю о тебе всё больше.
+
+### Поболтаем: Знаменитый меч
+
+Клинок предан своему долгу подобно тому, как ювелир верен своим самоцветам.
+
+### Когда идёт дождь...
+
+Идём, найдём укрытие от дождя.
+
+### Когда гремит гром...
+
+Её превосходительство... Что она пытается нам сказать?
+
+### Когда идёт снег...
+
+«Снег, что некогда украсил мир серебром, тает, обнажая мерцание плодов на тронутых морозом ветвях»... Как живописно! Чтобы эта картина стала завершённой, не хватает лишь чая.
+
+### Когда светит солнце...
+
+Сегодня приятный ветерок и такое ласковое солнышко... Может быть, нам пойти прогуляться?
+
+### Когда дует ветер...
+
+Закрой глаза и подставь лицо ветру... Чудесно, правда?
+
+### Доброе утро...
+
+О, доброе утро, путешественник. Всякий раз, когда встречаю тебя утром, мне почему-то кажется, что нас ждёт хороший день. / О, доброе утро, путешественница. Всякий раз, когда встречаю тебя утром, мне почему-то кажется, что нас ждёт хороший день.
+
+### Добрый день...
+
+Добрый день. Ощущать сонливость после обеда совершенно нормально. Может быть, сыграем в го, чтобы мозг скорее включился?
+
+### Добрый вечер...
+
+Приветствую! В этот вечер нас овевает такой приятный бриз. Ночь будет спокойной.
+
+### Доброй ночи...
+
+«Может быть, это его мысли привели его в мои сны? Знай я, что это сон, час пробуждения никогда не настал бы». Обожаю эти стихи.
+
+### О Камисато Аяке: Комиссия Ясиро
+
+Сёгунат Инадзума, комиссия Ясиро, клан Камисато. Широко известен как один из самых уважаемых кланов Инадзумы и представляет собой отделение Трикомиссии, занимающееся церемониальными и культурными вопросами. С тех пор как мои родители оставили нас, мы с братом взяли на себя ответственность за все дела клана, важные и не очень.
+
+### О Камисато Аяке: Должность
+
+Многие видят во мне Сирасаги Химэгими и дочь клана Камисато. Но объект их уважения связан исключительно с моей должностью и не имеет ничего общего со мной, Аякой. Напрашивается мысль о том, что... возможно, из всех знакомых мне людей только один человек действительно способен сблизиться со мной...
+
+### О Камисато Аяке: Чаяния
+
+Сегодня, как и когда-то в прошлом, я стремлюсь стать человеком, которому может довериться любой. Но меня больше не мотивируют ни возложенная на меня ответственность, ни ожидания других людей. Скорее, тот факт, что тебе присущи те же качества, что и мне.
+
+### О нас: Чайный дом
+
+Если у тебя есть время, может, заглянем в чайный дом «Коморэ»? Побеседовать об искусстве чаепития в столь приятный день - есть ли времяпрепровождение изысканнее?
+
+### О нас: Праздники
+
+Если выдастся шанс, когда-нибудь я с удовольствием познакомлюсь с праздничными традициями другого народа вместе с тобой. Правда, мне нужна будет информация о местных привычках и этикете, а также советы о том, какие подарки подготовить... Не затруднит ли тебя рассказать мне об этом?
+
+### Глаз Бога...
+
+Глаза Бога - знак одобрения для самых честолюбивых. Что касается моих целей и чаяний, пока я сохраню их в тайне. Это не более чем малозначимая мечта.
+
+### Давай поделимся...
+
+Есть такое выражение «хочешь вдохнуть аромат дзэн - понюхай чай». Есть и другое «сила дзэн - в силе клинка». Напрашивается вопрос: что общего между чаем и клинком?
+
+### Интересные вещи...
+
+Тебе доводилось видеть в городе увядающие сакуры? Мне кажется, что в увядании есть определённая красота, ведь оно навевает воспоминания о весне. Многие люди не согласились бы со мной. Сакуры, которым не суждено уже зацвести, убирают с глаз долой. Но, глядя на дерево, всё, чего я хочу, - снова увидеть его цветущим... хотя бы один только раз...
+
+### О Томе...
+
+Тома - мой близкий друг. Он весь словно наполнен солнечным светом и всегда поднимает мне настроение. В некотором роде, я вижу в нём ещё одного брата и полноценного члена клана Камисато.
+
+### О Кудзё Саре...
+
+Кудзё Сара из комиссии Тэнрё... Никто не видел её улыбающейся, а мне частенько доводилось спорить с ней о многих вопросах. Однако она верно служит Инадзуме, в этом нет никаких сомнений.
+
+### О Сиканоине Хэйдзо...
+
+Господин Сиканоин, как и госпожа Кудзё, входит в комиссию Тэнрё. Он очень... принципиален, и зачастую действует гораздо решительнее госпожи Кудзё. Только вот ответ на вопрос о том, какие именно проблемы должны решаться с учётом его принципов, полагаю, знает один лишь господин Сиканоин...
+
+### О Саю...
+
+А, малышка Саю. Надеюсь, она не доставляет тебе хлопот? Если вдруг заметишь, что она отлынивает от дел, дай знать.
+
+### О сёгуне Райдэн...
+
+Всемогущий сёгун? Мне не должно высказывать своё мнение, ведь я принадлежу к числу её подданных. Так что я скажу лишь одно... Мне кажется, что её превосходительство очень одинока на своём пути к вечности.
+
+### О сёгуне Райдэн: Положение
+
+Быть свидетелем «Мусо но хитотати» и выжить - великий опыт, не так ли? Хотя для меня она - настоящее божество, которое может изменить судьбу Инадзумы в одно мгновение, если бы вы столкнулись, я была бы на твоей стороне.
+
+### О Яэ Мико...
+
+Мне всегда очень нравилось работать с Гудзи Яэ. Организация праздников, как правило, отнимает массу сил и приносит не так много дохода, однако мероприятия Гудзи Яэ всегда оказываются не только изысканными, но и прибыльными.
+
+### О Камисато Аято...
+
+Будучи главой клана Камисато, брат всегда держит под рукой длинный список мест, где ему надлежит быть. Я делаю всё возможное, чтобы как-то разгрузить его, однако мне не удаётся ослабить то напряжение, в котором он пребывает круглый год. Конечно, это сказывается на нём. Если увидишь его, напомни, чтобы не забывал заботиться о себе, хотя бы ради спокойствия сестры...
+
+### О Ёимии...
+
+Комиссия Ясиро и жрицы храма занимаются вопросами праздника, а Ёимия, как специалист по фейерверкам, знает, как создать атмосферу. За все эти годы мы с ней хорошо узнали друг друга. М? Общественный порядок и меры пожарной безопасности? Мы взвешиваем все «за» и «против» задолго до праздника, ещё на этапе планирования. Если людей лишить возможности увидеть фейерверки исключительно из этих соображений, они будут чрезвычайно расстроены.
+
+### Узнать больше о Камисато Аяке I
+
+Твоя просьба кажется мне несколько необычной. Я воспринимаю тебя как друга, и было бы правильно обсудить с тобой всё открыто и честно. Но для этого мне придётся раскрыть секреты клана Камисато... Я прошу тебя сохранить всё, что я скажу, в строжайшей тайне.
+
+### Узнать больше о Камисато Аяке II
+
+Когда-то клан Камисато перенёс тяжёлый удар: нам не удалось защитить оружейника государственной важности. Фатуи не давали нам покоя, мы потеряли многих людей и подверглись жесточайшей критике. Отец сильно постарел от переживаний, а положение клана Камисато в сёгунате стало чрезвычайно шатким. Взяв бразды правления в свои руки, брат без устали работал над тем, чтобы повернуть ситуацию в нашу пользу. И пусть положение нашего клана восстановлено, а комиссия Ясиро снова объединилась, мы по-прежнему полагаемся на брата, ожидая от него решений по вопросам любой важности.
+
+### Узнать больше о Камисато Аяке III
+
+Основополагающие принципы искусства ковки клинков, которому учит сёгун, могут различаться в зависимости от положения звёзд, способа применения оружия, используемых материалов, состояния плавильной печи, личных качеств мастера и стихийных изменений. Все эти различия между оружейниками и породили такое явление как Райдэн Гокадэн. Мастеров, способных создавать прославленные клинки, воспринимают как посланников духов, наделённых священными способностями. Все они подчиняются комиссии Ясиро, занимающейся любыми культурными, художественными и церемониальными вопросами. И, конечно же, в предательстве оружейника винят клан Камисато и неэффективность его работы.
+
+### Узнать больше о Камисато Аяке IV
+
+Моя мать была невероятным человеком. Всегда исполненная достоинства, элегантная... Неизменно улыбающаяся независимо от того, в какой ситуации оказалась... В клане она отвечала очень за многое, на очень разных уровнях, но относилась к этому спокойно, как к своему долгу. Казалось, ничто не может выбить её из колеи. Всё в ней было идеально, и я сейчас не преувеличиваю. Но в тот миг, когда она покинула нас, мне стало ясно... Что я больше не могу прятаться в тени своей матери. Я перестала быть малышкой Аякой.
+
+### Узнать больше о Камисато Аяке V
+
+Наверное, не пристало представительнице дома Камисато из комиссии Ясиро Инадзумы говорить такие слова, но... Надеюсь, я не ошибаюсь в своём убеждении в том, что тебя не смутит это небольшое отступление от правил с моей стороны...
+В общем... Я слегка утомилась, можно мне положить голову тебе на плечо? Всего на пару секунд.
+
+### Хобби Камисато Аяки...
+
+Я испытываю безграничную страсть к искусству: музыке, пению, поэзии, сёги и танцам. А ты?
+
+### Трудности Камисато Аяки: Заботы
+
+Трудности? Ну что тут скажешь... Это ведь жизнь, верно? Всегда будет что-то, что идёт не так, как хотелось бы. Но я не желаю нагружать тех, кто рядом, рассказами о том, что касается только меня... Я лучше сохраню всё в тайне.
+
+### Трудности Камисато Аяки: Желания
+
+Открытость - то, что даётся мне с большим трудом. Я постоянно должна напоминать себе, что являюсь госпожой клана Камисато, что на меня устремлены сотни глаз, и мне следует оправдывать ожидания, коим нет числа. Каждую минуту своей жизни я должна служить образцом безупречного поведения. Но даже в этом случае, разве я не могу следовать за своими мечтами? Разве я не могу... открыть тебе свои истинные чувства?
+
+### Любимая еда...
+
+Заморские блюда приводят меня в восторг. Правда, мне нечасто удаётся отведать их... Если бы мне предложили выбрать что-то из Инадзумы, то мой выбор -... тядзукэ. Но только когда никто не видит... Так что это наш с тобой секрет.
+
+### Нелюбимая еда...
+
+Я не стала бы утверждать, что полностью отказалась от жирного и ливера. И всё же это не самая моя любимая еда.
+
+### День рождения...
+
+Идём! Тут недалеко. Обещаю, я не слишком тебя задержу. Мне удалось выяснить, когда у тебя день рождения, причём довольно давно, так что времени на подготовку было предостаточно. Может быть, это слишком самонадеянно с моей стороны, но мне почему-то кажется, что ты предпочтёшь это дорогому подарку. В честь твоего дня рождения позволь мне исполнить для тебя танец с веером.
+
+### Чувство возвышения: Начало
+
+Огромное тебе спасибо. Я нахожу бесценной эту возможность учиться у тебя. Надеюсь, мои навыки обращения с мечом станут ещё лучше.
+
+### Чувство возвышения: Нарастание
+
+Спасибо тебе за твоё чуткое руководство. Благодаря твоей поддержке я всё лучше понимаю, в чём мои сильные стороны, и на что я способна.
+
+### Чувство возвышения: Кульминация
+
+Сейчас я чувствую себя способнее, чем когда-либо. Мне даже удалось попробовать кое-что новое в свободное от работы в комиссии Ясиро время. Хочешь отведать домашних угощений? Теперь я умею готовить их.
+
+### Чувство возвышения: Окончание
+
+«Да, я цепляюсь за то, что всегда давало мне силы, чтобы продолжать жить, но необходимость отпустить то, что дорого, давит на меня». Прости, этот миг должен был быть наполнен счастьем, но так уж получилось, что мне вспомнилась эта грустная фраза. Время, что мы провели вместе, было таким приятным! И я очень боюсь потерять всё, что оно подарило мне. Извини, мне нужно взять себя в руки.
+
+### Элементальный навык I
+
+Лети.
+
+### Элементальный навык II
+
+Прошу прощения.
+
+### Элементальный навык III
+
+Снежный вихрь.
+
+### Взрыв стихии I
+
+Поддайся льду!
+
+### Взрыв стихии II
+
+Вихрь сакуры.
+
+### Взрыв стихии III
+
+Искусство Камисато: Сомэцу!
+
+### Открытие сундука I
+
+Коллекционирование редких и изысканных сокровищ... Да, для этого нужен тонкий вкус.
+
+### Открытие сундука II
+
+Ха-ха... Мне сегодня везёт.
+
+### Открытие сундука III
+
+Я буду дорожить этой удачей.
+
+### Низкий уровень HP I
+
+Я этого не потерплю.
+
+### Низкий уровень HP II
+
+Достойный противник...
+
+### Низкий уровень HP III
+
+Мы должны положить этому конец!
+
+### Низкий уровень HP компаньона I
+
+Не переусердствуй.
+
+### Низкий уровень HP компаньона II
+
+Будь осторожней!
+
+### Без сознания I
+
+Простите меня за неосторожность...
+
+### Без сознания II
+
+Как много... незавершённых дел...
+
+### Без сознания III
+
+Я позорю... наш клан...
+
+### Получен тяжёлый удар I
+
+Как грубо!
+
+### Получен тяжёлый удар II
+
+Немыслимо...
+
+### Присоединяется к группе I
+
+Камисато Аяка к вашим услугам!
+
+### Присоединяется к группе II
+
+Жду ваших распоряжений.
+
+### Присоединяется к группе III
+
+Мне будет в радость поработать с вами.
+
+### Подарок I
+
+Мм... Я так счастлива...
+
+### Подарок II
+
+Спасибо, что дал мне попробовать это блюдо. Я никогда не забуду его вкус. / Спасибо, что дала мне попробовать это блюдо. Я никогда не забуду его вкус.
+
+### Подарок III
+
+Ох... Это блюдо для меня тяжеловато.
+
+## REPLICAS_EN
+
+### Hello
+
+Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!
+Delighted to make your acquaintance.
+
+### Chat: Stability
+
+I only wish life could be as leisurely as this a little more often... How greedy of me.
+
+### Chat: Sword
+
+A blade is like a tea-leaf. Only those who sample it many times can appreciate its true qualities.
+
+### Chat: Zoning Out
+
+So this is a day in the life of the Traveler... Hehe, I'm learning more about you all the time.
+
+### Chat: Famous Sword
+
+A blade embraces its duty as a jeweler cherishes their gems.
+
+### When It Rains
+
+Come with me, let us find shelter from the rain.
+
+### When Thunder Strikes
+
+Her Excellency... What is she trying to communicate?
+
+### When It Snows
+
+"Snow that once adorned the world in silver, thaws to reveal the gleam of the fruit upon frost-laden branches." *sigh* How picturesque! Only some tea would make this setting more complete.
+
+### When the Sun Is Out
+
+There's a pleasant breeze and glorious sunshine... So, where shall we go for a walk?
+
+### When It's Windy
+
+Close your eyes and face the wind... It feels wonderful, doesn't it?
+
+### Good Morning
+
+Oh, good morning, Traveler. ...Whenever I see you in the morning, somehow, it makes me feel like... today is going to be a good day.
+
+### Good Afternoon
+
+Good afternoon. It is normal to feel drowsy after lunch, might I interest you in a game of Go to stimulate the mind?
+
+### Good Evening
+
+Greetings. An auspicious breeze blows this evening. Tonight will be peaceful.
+
+### Good Night
+
+"Was it one's thoughts that drew him to my dreams? Had I known it a dream, one would not have awakened." Hehe, I love that poem.
+
+### About Kamisato Ayaka: Yashiro Commission
+
+"Inazuma Shogunate, Yashiro Commission, Kamisato Clan." Widely known as one of the most distinguished clans in all of Inazuma, it is the branch of the Tri-Commission that manages ceremonial and cultural affairs. Since my parents passed, Brother and I assumed responsibility for all clan matters, big and small.
+
+### About Kamisato Ayaka: Position
+
+Many look up to me as the Shirasagi Himegimi and as the daughter of the Kamisato Clan. But the object of their respect has everything to do with my position, and nothing at all to do with me, Ayaka. It makes me think that... maybe, there is only one person I know who is truly able to get close to me...
+
+### About Kamisato Ayaka: Aspiration
+
+Today, as in the past, I aspire to be somebody whom everyone can trust. But what motivates me is no longer the responsibilities I shoulder, or the expectations of other people. Rather, it is the fact that you are this kind of person, too.
+
+### About Us: Teahouse
+
+If you've got time, shall we take a walk to Komore Teahouse? To chat about the art of tea on a pleasant day like this seems like the sophisticated thing to do.
+
+### About Us: Festivals
+
+If I ever have the chance, I would very much like to experience the festivities of another nation with you one day. Though, I will need some guidance on local customs and etiquette, and advice on what gifts to bring... Could I trouble you to give me some guidance?
+
+### About the Vision
+
+Visions are a seal of approval for those who are most ambitious. As for my own ambitions, they shall remain private for now. It is nothing more than an insignificant dream.
+
+### Something to Share
+
+It is said that "the flavor of Zen is that of tea," and it is also said that "the power of Zen is that of the blade." One might then ask: What does that say about the relationship between tea and the blade?
+
+### Interesting Things
+
+Have you ever noticed the withering sakura tree in the city? For me, there is a beauty to the withering, it brings back fond memories of the spring. Most people don't agree — sakura trees that will never bloom again are removed. But when I look at a tree, all I want is to see it blossom again... just one more time...
+
+### About Thoma
+
+Thoma is a dear friend. He always lifts my spirits with his sunny disposition. In a sense, I think of him as another brother, and as a full member of the Kamisato Clan.
+
+### About Kujou Sara
+
+Kujou Sara of the Tenryou Commission is... not known to smile, and I have had my fair share of disputes with her. She is, however, a loyal servant to Inazuma, there is no question about that.
+
+### About Shikanoin Heizou
+
+Mr. Shikanoin belongs to the Tenryou Commission, just like Miss Kujou. He is very... principled, sometimes even more determinedly so than Miss Kujou. The only thing is, when it comes to the question of which matters should be governed by his principles, I believe only Mr. Shikanoin himself knows the answer...
+
+### About Sayu
+
+Ah, little Sayu. She hasn't been causing you any trouble lately, has she? Hehe, if you ever notice her slacking off, please let me know.
+
+### About the Raiden Shogun: Guesswork
+
+The Almighty Shogun? It would be improper of me to comment, given that I am one of her subjects. All I will say is that... I think that Her Excellency must get lonely on the road to eternity.
+
+### About the Raiden Shogun: Standpoint
+
+To witness the Musou no Hitotachi and live to tell the tale is quite a remarkable feat. Even though I recognize her as our true deity with the power to change Inazuma's fate at will, if there is conflict between the two of you, then... I shall choose to side with you.
+
+### About Yae Miko
+
+I have always greatly enjoyed working with Guuji Yae. Organizing festival affairs generally takes a lot of effort and doesn't generate much income, but Guuji Yae's events always come off both elegant and profitable.
+
+### About Kamisato Ayato
+
+As the head of the Kamisato Clan, brother always has a full schedule of places he needs to be. I do try my best to share his load, but there is no changing the pressure he is subjected to all year round, and the toll it takes upon him. *sigh* If you see him, remind him to take care of himself, for his sister's sake...
+
+### About Yoimiya
+
+The Yashiro Commission and the shrine maidens are responsible for festival affairs, and Yoimiya, as a fireworks expert, knows how to create an atmosphere. So we have become well acquainted with her over the years.
+Hmm? Public order and fire prevention? We factor these concerns in well in advance during the planning stage. To deny people the chance to see fireworks simply for these reasons would leave them feeling very disappointed.
+
+### More About Kamisato Ayaka: I
+
+Your request is quite unusual for me. Since I see you as a friend, it would only be fair to be open and honest with you, but if this means sharing secrets of the Kamisato Clan... I would ask that you keep anything I tell you in strict confidence.
+
+### More About Kamisato Ayaka: II
+
+The Kamisato Clan once suffered a major blow when we failed to protect a swordsmith of national significance. We were harassed by the Fatui, we lost many of our people, and we received a great deal of criticism. It all aged Father greatly, and severely damaged the Kamisato Clan's standing within the Shogunate. Brother has worked tirelessly to reverse the trend since he assumed leadership, but although our clan's position is now restored and the Yashiro Commission is unified once more, we still rely on Brother to make the decisions on all matters of any importance.
+
+### More About Kamisato Ayaka: III
+
+The art of blade forging taught by the Shogun varies based on astrology, application, materials used, the furnace conditions, individual personalities, and elemental changes. These differences between smiths is what gave rise to the Raiden Gokaden. Swordsmiths capable of forging renowned blades are seen as spiritual personnel with sacred abilities, and as such they should be managed by the Yashiro Commission, which oversees all cultural, artistic, and ceremonial affairs. So naturally, the swordsmith's betrayal is the fault of ineffectual management by the Kamisato Clan.
+
+### More About Kamisato Ayaka: IV
+
+My mother was the most incredible person. She was always so dignified and elegant, always smiling, no matter what situation she might be facing. She had so much to deal with in the clan on so many levels, but she took it all in stride — it was like nothing could ever faze her. Everything about her was perfect, and I say that without exaggerating. *sigh* But the moment she passed away, I realized... I couldn't hide behind my mother any longer. I wasn't little Ayaka any more.
+
+### More About Kamisato Ayaka: V
+
+What I want to say next is perhaps not befitting of a member of the Inazuma Shogunate, Yashiro Commission, Kamisato Clan, but... unless I am mistaken, I trust that you will not take issue with this slight departure from convention on my part...
+That is to say... I'm a little tired, may I rest my head on your shoulder? Just for a moment.
+
+### Kamisato Ayaka's Hobbies
+
+I have great affection for the arts: music, song, poetry, shougi, and dancing. And you?
+
+### Kamisato Ayaka's Troubles: Concerns
+
+Troubles? Well, I mean... that's life, isn't it? There will always be things that don't go one's way. But I do not wish to worry those around me on account of things that are my concern alone... so, it is best if I keep them to myself.
+
+### Kamisato Ayaka's Troubles: Desires
+
+Openness is something I find very difficult. I constantly have to remind myself that as a lady of the Kamisato Clan, there are countless people watching and countless expectations to live up to. I must be a model of exemplary conduct at all times. But even so, shouldn't I still follow my dreams? Shouldn't I... share my true feelings with you?
+
+### Favorite Food
+
+I'm fascinated by food from overseas. Though I don't get to try it very often... So, if I had to choose something from Inazuma, then probably... Chazuke. But not when anybody else is watching... So I tell you that in confidence.
+
+### Least Favorite Food
+
+Though I do not eschew animal fat and organs entirely, they are far from my first choice.
+
+### Birthday
+
+Come with me! We're not going far away — I promise it won't delay you too much.
+I managed to find out when your birthday was well in advance, so I could prepare in good time. Hopefully this wasn't assuming too much, but I guessed you might prefer this to an expensive gift.
+In honor of your birthday, please allow me to perform a fan dance for you.
+
+### Feelings About Ascension: Intro
+
+Thank you very much. It has been richly rewarding to learn from you so far, and I believe my skills with the blade can go even further still.
+
+### Feelings About Ascension: Building Up
+
+Thank you for your guidance. With your assistance, I am gaining a more thorough understanding of my capabilities.
+
+### Feelings About Ascension: Climax
+
+I feel more competent now than ever before. I even have the time outside my work for the Yashiro Commission to try some new things. Would you like to try one of my home-made snacks? I just learned how to make them recently.
+
+### Feelings About Ascension: Conclusion
+
+"Though I cling to that which has given me the strength to hold on, the weight of letting go is ever-foreboding."
+My apologies, it should be a happy occasion, and yet it is such a sad phrase that comes to mind. Our time together has been so pleasant that I am fearful of losing what I have gained. I'm sorry, I must compose myself.
+
+### Elemental Skill: I
+
+Take flight.
+
+### Elemental Skill: II
+
+My apologies.
+
+### Elemental Skill: III
+
+Whirling snow.
+
+### Elemental Burst: I
+
+Embrace the ice.
+
+### Elemental Burst: II
+
+Sakura swirl.
+
+### Elemental Burst: III
+
+Kamisato Art: Soumetsu!
+
+### Opening Treasure Chest: I
+
+Collecting rare and exquisite treasures... Yes, this seems suitably sophisticated.
+
+### Opening Treasure Chest: II
+
+Hehe... Today is a lucky day.
+
+### Opening Treasure Chest: III
+
+I shall treasure this good fortune.
+
+### Low HP: I
+
+I will not stand for this.
+
+### Low HP: II
+
+A worthy opponent...
+
+### Low HP: III
+
+We ought to end this!
+
+### Ally at Low HP: I
+
+Do not overdo it.
+
+### Ally at Low HP: II
+
+Take care!
+
+### Fallen: I
+
+Pardon my indiscretion...
+
+### Fallen: II
+
+Much remains... unfinished...
+
+### Fallen: III
+
+I have dishonored... our clan...
+
+### Heavy Hit Taken: I
+
+So rude!
+
+### Heavy Hit Taken: II
+
+Unthinkable...
+
+### Joining Party: I
+
+Kamisato Ayaka, present.
+
+### Joining Party: II
+
+I await your instruction.
+
+### Joining Party: III
+
+A pleasure to be working with you.
+
+### Receiving a Gift: I
+
+Mmm... Yes, I am truly fortunate...
+
+### Receiving a Gift: II
+
+Thank you for the opportunity to try this dish. I will always savor it.
+
+### Receiving a Gift: III
+
+Hmm... It's a bit greasy for my taste.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+稻妻神里流太刀术皆传——神里绫华，参上！
+请多指教哦。
+
+### 闲聊·安定
+
+像这样悠闲安稳的时光，如果再多一点就好了…我真贪心啊。
+
+### 闲聊·剑
+
+剑，就和茶一样，细细品味才能理解其中风雅。
+
+### 闲聊·出神
+
+这就是旅行者平日里的生活么，呵，感觉又多了解了你一些。
+
+### 闲聊·名刀
+
+刀剑抱业，名工怀宝。
+
+### 下雨的时候…
+
+请随我一同避雨吧。
+
+### 打雷的时候…
+
+大御所大人…是在诉说什么吗？
+
+### 下雪的时候…
+
+「雪霁银妆素，桔高映琼枝。」嗯…美景当前，只差一壶茶与之相衬呢。
+
+### 阳光很好…
+
+风和日丽，要去哪边走走么？
+
+### 起风的时候…
+
+闭上眼睛，向着风吹来的方向…怎么样，很舒服吧？
+
+### 早上好…
+
+早安，旅行者。能像这样在清晨见你一面，我会忍不住觉得…接下来将是顺利的一天。
+
+### 中午好…
+
+午安。茶饭之后，难免略有困倦。是否有兴致下盘棋提神呢？
+
+### 晚上好…
+
+晚上好。夜风舒畅，会是一个良宵呢。
+
+### 晚安…
+
+「若知是梦何须醒，不比真如一相会。」
+
+### 关于绫华自己·社奉行
+
+「稻妻幕府社奉行神里家」，位于稻妻名门中的笔头之格位。作为三奉行之一，掌管祭祀活动与人文艺术。自从双亲过世之后，族内的大小事务，便由兄长和我承担了。
+
+### 关于绫华自己·地位
+
+很多人因为我是「白鹭公主」，是社奉行神里家的大小姐而敬重我。他们所敬重的，只是我所身处的地位，与绫华我是怎样的人并无关系…
+所以我想，能真正走近我的，或许只有…
+
+### 关于绫华自己·愿望
+
+如今的我，依旧想成为值得大家信任的人。不过，鼓舞我的原因，已不再是肩上的责任或他人的期待。而是因为，你也是这样的人啊。
+
+### 关于我们·茶室
+
+如你有空，我们移步木漏茶室如何？在这样恬静的日子，略加交流茶艺心得，想来是颇具雅趣的。
+
+### 关于我们·节日
+
+如果有机会的话，我想试着和你共度异国的节日。需要遵循的当地风俗、礼仪规范，还有伴手礼的推荐，可以麻烦你…一一指导我吗？
+
+### 关于「神之眼」…
+
+「神之眼」，即是胸怀大志之人所获的印绶。如果问我有什么志向的话…这个还是保密吧，只是一个微不足道的梦想罢了。
+
+### 有什么想要分享…
+
+试问，常说「禅茶一味」，又说「剑禅一如」，那么剑和茶，又是什么关系呢？
+
+### 感兴趣的见闻…
+
+你在城中，见过枯萎的樱花树么？这种「枯」之美，让我想到春天盛开之景。不过别人似乎并不这么想，不再开花的樱树会被移走…就算一次也好，真想看到它再次开放。
+
+### 关于托马…
+
+托马是我很重要的朋友，他的开朗和阳光总是感染着我。某种意义上来说，他就像是我的另一个兄长一样，已经成为了「神里家」的一员。
+
+### 关于九条裟罗…
+
+为「天领奉行」工作的九条裟罗…她总是一脸严肃。我和她曾经起过几次争端，不过她本质是忠义之士，这点无可否认。
+
+### 关于鹿野院平藏…
+
+鹿野院先生？他和九条小姐一样，是「天领奉行」的人。他…也是一个很有原则的人。对于这些「原则」的坚持，甚至比九条小姐更执着。只不过，什么事应该被算在这些「原则」之内，我想，或许只有鹿野院先生自己知道吧。
+
+### 关于早柚…
+
+早柚这孩子，最近有没有给你添什么麻烦呢？如果看见她偷懒，可以直接告诉我。
+
+### 关于雷电将军·猜测
+
+对大御所大人的看法吗？这并不该由我等下属随意议论。但…将军大人她，在追求「永恒」之路上，可能也很孤独吧。
+
+### 关于雷电将军·立场
+
+见证了「无想的一刀」并且活了下来，该说是堪称伟业的经历了吧。虽然对我来说，她是真正的神明，一念之间可以更改稻妻的命运，但如果是和你起了冲突的话…我一定会站在你这一边的。
+
+### 关于八重神子…
+
+我和八重宫司大人的合作向来很愉快。你看，操办节庆庆典非常劳神费力，营收多半也不好看。但是八重宫司大人操办的产业，真的既风雅又有收成。
+
+### 关于神里绫人…
+
+作为神里家的家主，兄长平日需要出面诸多场合。我虽尽力分担兄长肩上所负担的责任，却也无法缓和他常年积压在身的疲倦。唉，就当是为了妹妹着想，希望你能劝言，让兄长多多注意身体啊。
+
+### 关于宵宫…
+
+操办节庆庆典是社奉行和巫女众的责任，那位烟火专家也的确能让气氛热烈起来，彼此合作多了，因而渐渐熟络。
+嗯？治安和消防问题吗？我们也会一并纳入预先规划的。因为这些原因而看不到烟花，才会让人们心中留下缺憾吧。
+
+### 想要了解绫华·其一
+
+你的请求，对我来说很特别呢。既然把你当做朋友，我也应坦诚以待。不过，事关神里家的秘密，还希望你能守口如瓶。
+
+### 想要了解绫华·其二
+
+曾经，神里家因为没能保护好国宝级别的刀工，遭受了不小的冲击。受愚人众阴谋算计，我们折损了诸多臣下，受到许多责罚。父亲甚至因之早衰，神里家在幕府中的地位也一落千丈…好在兄长继任后力挽狂澜。不过，家门虽已复兴，社奉行一系也上下齐心，但大事要事方面，仍靠兄长定夺。
+
+### 想要了解绫华·其三
+
+将军所传的锻刀之术，也因星象、用途、矿质、炉火环境、人之性格、元素变化的不同，而有所区分。即是刀工之间所说的「雷电五传」。能锻造名刀的刀工，也被算作是本领通神的神事相关人员，归属统筹文化、艺术、祭祀的社奉行一派管理。因此，出现了刀工背叛的事情，自然就是神里家的督办不力了。
+
+### 想要了解绫华·其四
+
+对我来说，母亲是意义非凡的存在。端庄、优雅，无论遇到怎样的局面都会露出沉静的笑容，以从容不迫的态度，操持着神里家大大小小的事务，说母亲是完美的化身也不为过。但自从她离世的那一刻起，我就深切地意识到，我已经不是那个可以躲在母亲身后的小绫华了。
+
+### 想要了解绫华·其五
+
+接下来要说的话，可能不太符合「稻妻幕府社奉行神里家」的身份。不过，就我的判断，你应该能容许我小小的任性吧？
+…稍微有点累了…可以让我靠一下你的肩膀吗？一下就好。
+
+### 绫华的爱好…
+
+风雅之物我都很喜欢：雅乐诗词、棋艺与舞蹈。你也感兴趣吗？
+
+### 绫华的烦恼·忧虑
+
+烦恼吗？啊，是啊。只要生活在这个世界上，就难免遇到种种不如意的事情。但如果是因为自己的事情，就让周遭的人担心的话…果然，我还是不能说…
+
+### 绫华的烦恼·心意
+
+「坦率」，真的是一件很难的事情。我必须不断告诫自己是神里家的大小姐，在无数双眼睛，无数人的期盼之下摆出完美无缺的姿态。这样的我，是否也该追求自己的愿望呢，是否也该…让你理解我的心意呢…
+
+### 喜欢的食物…
+
+我对异国料理很有兴趣，虽然很少有尝试的机会。嗯…如果是要局限在稻妻料理内的话…应该是「茶泡饭」吧。不过，不能给一般客人看见，我也是偷偷告诉你的。
+
+### 讨厌的食物…
+
+虽然不是不能吃，但我对动物脂肪或内脏大概会有点…
+
+### 生日…
+
+请随我来！只要走一小段路，不会耽搁你太长时间的哦。
+打听到你的生日之后，我就提前了一段时间开始筹备。比起名贵的礼物，我妄自猜测…或许这样的礼物会更合我们的情谊。此次，就请让我以扇舞为礼吧。
+那么，失礼了。
+
+### 突破的感受·起
+
+非常感谢。与你切磋使我受益良多，相信在剑术上也能更进一步。
+
+### 突破的感受·承
+
+多亏你的点拨。有你相助，我对自己的能力也理解得更透彻了。
+
+### 突破的感受·转
+
+感觉更加游刃有余了。处理社奉行事务之余，甚至有空尝试一些新的事情。要来试试最近学做的点心吗？
+
+### 突破的感受·合
+
+「尝有所思，斯世如磐；孰料浮世事，留驻难。」
+…抱歉，明明是值得高兴的时候，我却想起了那么悲伤的诗歌。和你相处的时间过于畅怀，竟然让我害怕再次失去。真是…失态了呀。
+
+### 元素战技·其一
+
+起舞吧。
+
+### 元素战技·其二
+
+失礼了。
+
+### 元素战技·其三
+
+雪纷飞。
+
+### 元素爆发·其一
+
+…拿下了！
+
+### 元素爆发·其二
+
+樱吹雪。
+
+### 元素爆发·其三
+
+神里流…霜灭！
+
+### 打开宝箱·其一
+
+寻珍觅奇…也算得一种雅趣。
+
+### 打开宝箱·其二
+
+呵呵…今日运势不错。
+
+### 打开宝箱·其三
+
+我会珍惜这一份幸运。
+
+### 生命值低·其一
+
+不容小觑呢。
+
+### 生命值低·其二
+
+久违的对手…
+
+### 生命值低·其三
+
+该决断了…
+
+### 同伴生命值低·其一
+
+不可大意。
+
+### 同伴生命值低·其二
+
+阁下务必小心。
+
+### 倒下·其一
+
+失态了…
+
+### 倒下·其二
+
+我还有…未竟之事…
+
+### 倒下·其三
+
+让家族…蒙羞了…
+
+### 重受击·其一
+
+无礼的家伙…
+
+### 重受击·其二
+
+怎么会…
+
+### 加入队伍·其一
+
+神里绫华，参上。
+
+### 加入队伍·其二
+
+烦请赐教。
+
+### 加入队伍·其三
+
+呵呵，请多关照。
+
+### 收到赠礼·其一
+
+嗯…我真是太幸福了…
+
+### 收到赠礼·其二
+
+谢谢你让我有机会尝试这道菜，我会把它的味道记在心里的。
+
+### 收到赠礼·其三
+
+啊…稍微有点油腻了呢。

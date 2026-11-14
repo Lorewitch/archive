@@ -144,5 +144,932 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Часка, клан Цветочного пера. Нужно уладить какой-то конфликт? В зависимости от ситуации, это может стоить тебе твоей репутации, нескольких стаканов или, возможно... патронов.",
+        "en": "Chasca, Flower-Feather Clan. Any disputes you need me to end for you? Depending on the situation, it could cost you a little dignity, a few drinks, or potentially... a round of ammo.",
+        "zh": "「花羽会」，恰斯卡。有什么「矛盾」需要我调停吗？视情况而定可能要费点面子，花些钱酒，或者…耗几枚子弹。"
+      },
+      "source_id": 104000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Вид с высоты",
+        "en": "Chat: Bird's-Eye View",
+        "zh": "闲聊·俯瞰"
+      },
+      "text": {
+        "ru": "Если теряешь направление, то взгляд с высоты может помочь.",
+        "en": "When you lose your way, gaining some altitude can bring some perspective.",
+        "zh": "如果迷失了方向，不如飞到高处去看看吧。"
+      },
+      "source_id": 104001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Голос",
+        "en": "Chat: Whispers",
+        "zh": "闲聊·声音"
+      },
+      "text": {
+        "ru": "Если бы я позволила голосу Бездны увлечь меня, то бы давно перестала бы быть собой. Выживать трудно, но приручить зверя внутри себя ещё труднее.",
+        "en": "I'd have lost myself long ago if I allowed myself to be led by the whispers of the Abyss. Surviving is tough, but taming the beast within is tougher.",
+        "zh": "倘若任由深渊的声音牵引，我早就不是我自己了。比生存更难的是克服本能。"
+      },
+      "source_id": 104002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Миротворец",
+        "en": "Chat: Peacemaker",
+        "zh": "闲聊·调解"
+      },
+      "text": {
+        "ru": "Давно я что-то не практиковалась... Эх... Нет ли конфликтов каких-нибудь поблизости? Я бы сейчас миротворчеством занялась.",
+        "en": "I'm a little out of practice these days... *yawn*... Any conflicts around? I'm in the mood for some peacemaking.",
+        "zh": "最近有点手生了…嗯…哪里有「矛盾」可以调解调解吗？"
+      },
+      "source_id": 104003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Дождь... У меня волосы и перья промокнут. Надо будет привести себя в порядок, как вернусь.",
+        "en": "Rain... My hair and feathers are gonna get soaked. Time for some preening when I get back.",
+        "zh": "雨水…会打湿头发跟羽毛，回头要好好护理。"
+      },
+      "source_id": 104004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "В такую погоду летать будем что ли? Думаешь, можешь обогнать молнию?",
+        "en": "Huh, we're really gonna go flying in this weather? You think you can outrun a lightning strike?",
+        "zh": "嚯？在这种天气里飞行，是想跟闪电比谁快吗？"
+      },
+      "source_id": 104005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Ветер несёт запах дичи... Готовься.",
+        "en": "*sniff* There's prey upwind from us... Be ready to pounce.",
+        "zh": "风里有猎物的气味…做好准备。"
+      },
+      "source_id": 104006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Идеальный ветер. Полный вперёд!",
+        "en": "The wind's perfect — full speed ahead!",
+        "zh": "风向正好——全速前进！"
+      },
+      "source_id": 104007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "«Ранний кукузаврик зубки очищает». Так что я уже приготовила завтрак. О делах поговорим на полный желудок.",
+        "en": "\"The early qucusaur gets the worm,\" so I made some breakfast. Any plans for the day can wait until we've got some food in us.",
+        "zh": "「早起的绒翼龙有肉吃。」——所以我准备了一点早餐，有什么任务都先填饱肚子再说吧。"
+      },
+      "source_id": 104008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Полдень. Сейчас солнце жарче всего - самое время отдохнуть.",
+        "en": "Afternoon. The sun shines strongest at this hour — good time to take a break.",
+        "zh": "午安。中午的日头正盛，可以先休息一下。"
+      },
+      "source_id": 104009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Есть планы на ужин? Если нет, то давай в племени поедим. Там для сильных всегда лучшие блюда и напитки.",
+        "en": "Any plans for dinner? If not, let's eat in the tribe. They always bring out the best food and drink for champions.",
+        "zh": "晚餐准备怎么解决？要不去「花羽会」吧，宴请「强者」的酒和肉永远管够。"
+      },
+      "source_id": 104010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Укладываешься на ночь? Хм... Я весь день летала, так что надо за оружием поухаживать.",
+        "en": "Turning in for the night? Hmm... I've been flying all day, so I should also do some gun care.",
+        "zh": "你要休息了吗？嗯…飞了一整天，我也该保养一下我的枪械了。"
+      },
+      "source_id": 104011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Часке: Уверенность в себе",
+        "en": "About Chasca: Self-Confidence",
+        "zh": "关于恰斯卡自己·自信"
+      },
+      "text": {
+        "ru": "Когда клан Цветочного Пера отвечал за патрулирование и защиту всего Натлана, в лётном отряде были лучшие из лучших - самые рьяные воины в стране. По сей день гордость, которую испытывают многие наездники кукузавров, граничит с высокомерием... Хм? Я? Нет, я не высокомерна. Просто уверена в себе.",
+        "en": "Back when the Flower-Feather Clan was responsible for patrolling and defending all of Natlan, the flying squad was the best of the best — the fiercest warriors in the nation.\nTo this day, the pride felt by many Qucusaur riders borders on arrogance... Hmm? Me? No, I'm not arrogant. Just supremely confident.",
+        "zh": "「花羽会」曾经承担梭巡援护纳塔全境的职责，飞行队里更集结了全纳塔最精锐、最迅猛的战士。\n时至今日，这份孤高与骄傲依旧铭刻在许多绒翼龙骑士的心里…嗯？我吗？我并不「孤傲」，只是「自信」而已。"
+      },
+      "source_id": 104012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Часке: клан Цветочного Пера",
+        "en": "About Chasca: Flower-Feather Clan",
+        "zh": "关于恰斯卡自己·花羽会"
+      },
+      "text": {
+        "ru": "...Когда я только вернулась в племя, я чувствовала себя не в своей тарелке, словно чужак, которого вдруг забросили в мир людей... Но Куичи и её... то есть наши родители приняли меня такой, какая я есть. Я бесконечно благодарна, что встретила их, и поэтому буду защищать их любимое племя... пока я жива.",
+        "en": "...When they first brought me back to the tribe, I didn't fit in at all. I felt so out of place — like an alien who suddenly got dropped into a human world... But Chuychu and her— I mean, our parents accepted me for who I was.\nI'm eternally grateful that I met them, and for that reason, I will defend their beloved tribe... for as long as I live.",
+        "zh": "…刚回「花羽会」的时候，我跟整个人类世界格格不入，像是一个突然被丢进人群的异类…但是葵可，还有她的…不，还有我们的父母，接受了那时的我。\n跟他们相遇是值得我庆幸一生的事，所以我也会用一生…去守护他们所爱的「花羽会」。"
+      },
+      "source_id": 104013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Уладить дело",
+        "en": "About Us: Mediation",
+        "zh": "关于我们·摆平"
+      },
+      "text": {
+        "ru": "С твоими навыками вряд ли кто-то в Натлане осмелится ругаться с тобой. Но из всех правил есть исключения, так что если вдруг окажешься в ситуации, из которой не сможешь выбраться грубой силой, приходи ко мне. Я всё улажу.",
+        "en": "With your skills, I doubt anyone in Natlan would dare start something with you. But there are exceptions to every rule, so if you ever find yourself in a situation you can't brute force your way out of, be sure to come to me. I'll straighten things out.",
+        "zh": "以你的身手，在纳塔应该不会有谁敢主动招惹。但凡事都有个万一，如果遇上什么不太好直接通过动手摆平的麻烦，记得来找我。"
+      },
+      "source_id": 104014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Семья",
+        "en": "About Us: Family",
+        "zh": "关于我们·家人"
+      },
+      "text": {
+        "ru": "Спасибо, что помог с Коей... Даже и не знаю, как бы всё прошло без тебя. Она уже не так враждебно относится к людям, но ей всё равно понадобится время, чтобы к ним привыкнуть. Старые привычки умирают с трудом. А вот Кимэ, совсем наоборот, очень любит проводить время в племени. Она очень хорошо ладит с Ятлан и другими детьми... Глядя, как они вместе играют, я иногда вспоминаю нас с Коей, когда мы были маленькими.\nА теперь вот мама стала проблемной... Не знаю, что на неё нашло в последнее время. Она всё время уговаривает меня свить собственное гнездышко, как Коя. Она всё говорит: «Может, пора расширять семью»... Что это она вдруг... Хм? Ты чего улыбаешься? / Спасибо, что помогла с Коей... Даже и не знаю, как бы всё прошло без тебя. Она уже не так враждебно относится к людям, но ей всё равно понадобится время, чтобы к ним привыкнуть. Старые привычки умирают с трудом. А вот Кимэ, совсем наоборот, очень любит проводить время в племени. Она очень хорошо ладит с Ятлан и другими детьми... Глядя, как они вместе играют, я иногда вспоминаю нас с Коей, когда мы были маленькими.\nА теперь вот мама стала проблемной... Не знаю, что на неё нашло в последнее время. Она всё время уговаривает меня свить собственное гнездышко, как Коя. Она всё говорит: «Может, пора расширять семью»... Что это она вдруг... Хм? Ты чего улыбаешься?",
+        "en": "Thank you so much for helping with the Coya situation... I honestly don't know how things would've gone down without you there.\nShe's nowhere near as hostile toward humans anymore, but it'll still take her some time to get used to them. Old habits die hard.\nChime, on the other hand? Loves hanging out with the tribe. She gets along really well with Yatlan and the other kids... Heh, watching them play together, it sometimes reminds me of me and Coya when we were little.\nAnyway, now Mom's the one being difficult... I don't know what's gotten into her recently. She keeps nagging me to build a nest of my own like Coya. And she's all, \"maybe it's time to expand your family even further\"... Where is all this coming from? ...Hmm? What are you smiling about?",
+        "zh": "柯娅的事…真是多谢了。如果那时候没有你在，也不知道会怎么收场。\n姐姐现在已经没那么抵触人类了，但要改变这么多年来的习惯，恐怕还要花上一点时间来适应。\n奇梅倒是很喜欢来「花羽会」玩，现在跟娅特兰他们处得不错…呵，有时候看着他们，就像是看到了小时候的我跟姐姐一样。\n最麻烦的反而是妈妈那边…她最近总爱催我学姐姐早点筑什么巢？还说要看看身边有什么合适的家人？真搞不明白她是想表达什么意思…嗯？你在笑什么？"
+      },
+      "source_id": 104015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Этот Глаз Бога сыграл важную роль в моей борьбе с Бездной. Если бы он не появился именно тогда, я даже не знаю, кем бы была сегодня.",
+        "en": "This Vision played a major part in my fight against the Abyss. If it hadn't shown up when it did, I don't know who I would be today.",
+        "zh": "这枚「神之眼」在我与深渊的对抗中意义重大。如果不是它及时出现，不知道现在的我会是什么样子。"
+      },
+      "source_id": 104016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Люди часто стесняются рассказывать о своих детских ошибках... Почему? Будь ты человек или кукузавр, ты можешь расти, только учась на своих прошлых ошибках. Поэтому я не отмахиваюсь от того, что в детстве часто выходила из себя. Сейчас я всегда думаю перед тем, как достать пистолет, хотя бы пару секунд... или полсекунды.",
+        "en": "People often find it embarrassing to open up about their childhood mistakes... Why is that? Whether you're a human or a Qucusaur, you can only grow by learning from your past mistakes.\nThat's why I'm not shy about my history of mindlessly lashing out as a kid. Nowadays, I never draw my gun without thinking it through first, even if just for a couple of seconds... or maybe a half second.",
+        "zh": "经常会有人觉得小时候做错的事难以启齿…这是为什么呢？人类也好绒翼龙也好，不都是靠着认清过去的错误来成长的吗？\n所以我从不回避小时候动手打架不经思考的事实。至于现在，我在拔枪前都会思考几秒…或者零点几秒。"
+      },
+      "source_id": 104017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "В Натлане много очень высоких деревьев. Сверху всё очень хорошо видно, и с них удобно взлетать. Хочешь попробовать? Не волнуйся, я поймаю, если упадёшь.",
+        "en": "Natlan has a lot of very tall trees. You get great visibility from up top, and they're good places to launch off. You wanna try? Don't worry, I'll catch you if you fall.",
+        "zh": "纳塔有不少高耸的树木，站在上面能获得良好的视野和起飞高度，你要不要也来试试？别怕，真掉下去了我会接住你的。"
+      },
+      "source_id": 104018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Качине...",
+        "en": "About Kachina",
+        "zh": "关于卡齐娜…"
+      },
+      "text": {
+        "ru": "«Каждый кукузавр падает с обрыва, прежде чем научится летать». Победа Качины не чудо, которое вдруг свалилось на неё с небес. Это результат последовательных, неустанных усилий на протяжении долгого времени. Она выдающийся воин, и заслуживает почёт и уважение.",
+        "en": "\"Every Qucusaur falls from its nest before it learns to fly.\" Kachina didn't magically become a champion overnight. Her victory was a result of consistent, tireless effort over a very long time. She's an outstanding warrior who deserves all the honor and respect she can get.",
+        "zh": "「每只绒翼龙在学会飞行前都曾跌落山崖。」卡齐娜的胜利不是一朝一夕突然降临的奇迹，而是长久努力积累出的结果。像她这样的战士，理应获得更多尊重和荣誉。"
+      },
+      "source_id": 104019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Муалани...",
+        "en": "About Mualani",
+        "zh": "关于玛拉妮…"
+      },
+      "text": {
+        "ru": "Муалани говорит, что в детстве мы подрались из-за какой-то игрушки, которую нам обеим хотелось, но я ничего такого не помню.\nХм... Может, это потому что я так много дралась, что сложно уже и вспомнить все случаи? А ещё, может быть, я пыталась отобрать её доску для сёрфинга, а не какую-то игрушку... Я, наверное, хотела иметь возможность охотиться на воде. Хех, как бы то ни было, не думаю, что наша ссора длилась больше дня. С Муалани такого не бывает.",
+        "en": "Mualani says we got into a fight as kids over some toy we both wanted, but I don't remember any of that.\nHmm... I wonder if it's because I got into so many fights that I just lost track of them all? I also wonder if it was actually her surfboard I was after, rather than a toy... I'll bet I just wanted the ability to go hunting on water.\nHeh, whatever it was, I doubt our feud lasted more than a day. It never does with Mualani.",
+        "zh": "玛拉妮说我们小时候因为争抢玩具的原因打过架，不过我已经没什么印象了。\n嗯…难道是因为我小时候打过的架实在太多？还是说那时候我想要抢夺的并不是什么「玩具」…而是盯上了冲浪板的水上狩猎性能…\n呵，不管是因为什么而起，跟玛拉妮闹的矛盾，都留不到下一天。"
+      },
+      "source_id": 104020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Шилонен...",
+        "en": "About Xilonen",
+        "zh": "关于希诺宁…"
+      },
+      "text": {
+        "ru": "Она может показаться вялой, но на самом деле она старательней кого угодно. Когда я попросила её сделать мне оружие, то просто дала ей самые базовые требования и особо не раздумывала, предоставив всё остальное на её усмотрение. А когда она начала работать над ним всерьёз, то целый день, расспрашивала меня: как проходит типичный день полётов, как часто я собираюсь его использовать и так далее. К концу дня весь пол был завален чертежами отброшенных идей... Я была так измотана, что заснула даже раньше неё. Затем она написала целое руководство по обслуживанию, которое заставила меня выучить наизусть, чтобы я не приставала к ней с вопросами каждый день... Ну, так она сказала. Но, подозреваю, на самом деле она хотела убедиться, что я буду заботиться о себе и летать осмотрительно.",
+        "en": "She might come across as low-energy, but make no mistake — she's one of the most diligent people you'll ever meet.\nWhen I asked her to build my gun for me, I barely put any thought into it, just gave her a general idea of what I wanted, and left it with her. Then, once she started working on it in earnest, she spent an entire day questioning me — what would a typical day's flying look like, how often I was expecting to use it, and so on — and by the end of the day, there were abandoned designs schemes all over the floor... I was so exhausted that I fell asleep even before she did.\nThen she wrote a whole maintenance guide, which she forced me to learn by heart so I wouldn't come bugging her with issues every day... Well, that's what she said. But I suspect her real reason was that she wanted to make sure I'd look after myself and fly safe.",
+        "zh": "希诺宁她看着总是提不起劲，但真要较起劲来可比谁都认真。\n我请她帮忙打造枪械的时候没想太多，只是给了最基本的需求，就把这事放在了脑后。等到她正式开始动工，她抓着我问了一整天平时的飞行习惯和使用预期，出了满地的图纸跟废案…真没想到我也会有比她先困到睡着的一天。\n后来她还硬是让我背下了她写的《枪械维护手册》，说是免得我以后天天来烦她…不过她真正的意思，大概是让我「注意安全，谨慎飞行」吧。"
+      },
+      "source_id": 104021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Мавуике...",
+        "en": "About Mavuika",
+        "zh": "关于玛薇卡…"
+      },
+      "text": {
+        "ru": "Некоторые люди сравнивают меня с Пиро Архонтом из-за моего послужного списка в Паломничестве. Это бессмысленное сравнение. Если бы Паломничество было деревом, а я - кондором на самой высокой ветке, то Пиро Архонт была бы солнцем в небе... Чем сильнее становишься, тем лучше понимаешь, насколько велика пропасть между тобой и ею. Я всего лишь выиграла несколько чемпионатов, а она - чемпион целой эпохи. Но, по крайней мере, находясь на вершине с ясным видом на небо, я могу точно определить, как высоко я хочу отсюда долететь.",
+        "en": "Some people compare me to the Pyro Archon because of my track record in the Pilgrimage. It's a meaningless comparison. If the Pilgrimage was a tree, and I was a vulture on the highest branch, then the Pyro Archon would be the sun in the sky... The stronger you get, the more you appreciate the sheer size of the gulf between you and her. I just won a few championships — she's the champion of an entire era.\nBut at least being on top with a clear view of the sky means I can see exactly how high I want to fly from here.",
+        "zh": "有人因为我在「归火圣夜巡礼」中的胜率高，就拿我和火神大人进行比较。这太片面了。如果把我比作树梢上的一只鹫，那火神大人便是天上的太阳。实力越强，越是知道她的深不可测。我只是赢了几场比赛，而她…却冠绝了整个时代。\n——但也正因为这样，我才能清晰地看见，自己想要飞向的高度，到底在哪里。"
+      },
+      "source_id": 104022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Киниче...",
+        "en": "About Kinich",
+        "zh": "关于基尼奇…"
+      },
+      "text": {
+        "ru": "Когда я впервые увидела Ахава, я подумал: «О, у Кинича тоже есть завриан, которого он считает роднёй»... Я даже не подозревала, как сильно ошибалась. Их отношения... поистине единственные в своём роде. Хотя, скажу, что мастерство Ахава в освоении человеческого языка вызывает у меня зависть. Хотела бы я, чтобы мама тоже так говорила, и мы могли бы покончить со всеми этими играми в угадайку на языке тела.",
+        "en": "When I first saw Ajaw, I thought \"Oh, Kinich has a saurian he treats like family, too\"... Blissfully unaware of how far off the mark I was. Their relationship is... truly one-of-a-kind.\nAlthough I will say, Ajaw's mastery of the human language makes me pretty envious. I wish mom could talk like that, too, so we could do away with the whole body-language-based guesswork-game.",
+        "zh": "我最早见到阿乔的时候，还以为它跟基尼奇也是情同家人的关系，没想到错得离谱…原来人跟龙还能这么相处。\n不过阿乔会人类语言这点倒是挺让我羡慕的，要是「妈妈」也能开口说话，我们就不用靠比划跟猜测来聊天了。"
+      },
+      "source_id": 104023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Ситлали...",
+        "en": "About Citlali",
+        "zh": "关于茜特菈莉…"
+      },
+      "text": {
+        "ru": "Отец рассказывал, что, когда я была маленькой, они собрали всех самых учёных старейшин в Натлане и попросили их разработать план, как контролировать влияние Бездны на меня. Они все никак не могли договориться, и это вылилось в затяжные дебаты. В какой-то момент Ситлали тихонько вышла из комнаты, и все были слишком заняты спором, чтобы заметить. Вернувшись, она поставила перед собой еду и вино, и не обращая ни на кого внимания, просто начала есть... за столом вдруг стало очень тихо.\nГлядя на неё, никогда не догадаешься, сколько у неё опыта и авторитета.",
+        "en": "My dad told me that when I was little, they gathered all of the most learned elders in Natlan and asked them to come up with a plan for managing my Abyss condition. They all disagreed on the best approach, and it turned into a drawn-out debate. At some point, Citlali quietly left the room, but they were all too busy arguing to notice. When she got back, she put some food and wine down in front of her, ignored everyone, and just started eating... the table suddenly went very quiet.\nJust by looking at her, you'd never know how much seniority and experience she has.",
+        "zh": "听老爹说，当年他们请教了全纳塔最富学识的长老们，来为我制定控制深渊影响的方案。当时他们各执己见、争论不休，都没人留意到茜特菈莉一声不吭地走出了门。等她回来，只见她把酒和菜往自己面前一放，自顾自地吃了起来…一时间全桌人鸦雀无声。\n光看外表，还真难想象她有这么高的资历跟辈分。"
+      },
+      "source_id": 104024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Об Ифе...",
+        "en": "About Ifa",
+        "zh": "关于伊法…"
+      },
+      "text": {
+        "ru": "Куичи с моим отцом часто обсуждали с Ифой вопросы медицины. Поэтому после воздушной мастерской я первым делом повела Кою к нему на осмотр. Но он показался мне таким пренебрежительным - глянул мельком, сказал «ничего серьёзного, Куско справится», и тут же ушёл к другому пациенту... Эх... Он, конечно, был прав. Я просто слишком переживала.",
+        "en": "Chuychu and my dad have discussed medicine with him countless times. So after I got back from the airborne workshop, the first thing I did was take Coya to get checked out by him. But he seemed so dismissive — he took one glance, said \"it's nothing serious, Cusco can handle it,\" and then immediately left to deal with another patient... *sigh* He was right, of course. I was just worrying too much.",
+        "zh": "葵可跟老爹经常找他讨论医术。从空中工坊回来之后，我第一时间就去找伊法来检查姐姐的情况。但他只是看了一眼，撂下一句「没多大问题，库斯可能解决」就转头去治别的病号了…唉，事实也证明他的眼光确实毒辣，是我关心则乱了。"
+      },
+      "source_id": 104025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Об Иансан...",
+        "en": "About Iansan",
+        "zh": "关于伊安珊…"
+      },
+      "text": {
+        "ru": "Я всегда считала, что обучаться самой и обучать других - это совершенно разные навыки. Мало кто владеет обоими, но у Иансан в избытке и того, и другого. Я, например, не очень хорошо умею обучать других людей. Когда я пытаюсь продемонстрировать что-то лётному отряду, вечно трачу полдня на какую-то элементарную, скучную, очевидную технику... А все потом спрашивают: «А что в этом очевидного?» Если бы только Иансан их учила бы... Могу поспорить, у нас каждый год было бы вдвое больше кандидатов, проходящих Лётные испытания... Жаль, что в её программу обучения не входят полёты.",
+        "en": "I've always felt that training oneself and training others are two very different skillsets. Very few people have them both, but Iansan has them in spades.\nI, for one, am not very good at teaching other people. Whenever I'm trying to demonstrate something to the flying squad, I spend forever trying to explain some basic, boring detail that seems intuitive to me... only to have everyone ask, \"What's intuitive about that!?\"\nIf only Iansan could tutor them, I bet we'd have twice as many candidates pass the flying trials each year... Shame that her training program doesn't include flying.",
+        "zh": "我一直觉得「让自己变得更强」和「让别人也变得更强」是两种不同的才能。能兼具这两者的人少之又少，伊安珊就是其一。\n比如我就不太懂该怎么教人。每次给飞行队的成员讲解示范，总是要在一些简单枯燥又显而易见的技巧上说明半天…还会反复被问「这怎么就显而易见了？」\n要是换了伊安珊来，「花羽会」每年通过飞行试炼的人估计能翻上一番吧…可惜她的培训项目里向来没有飞行。"
+      },
+      "source_id": 104026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Часке I",
+        "en": "More about Chasca: I",
+        "zh": "想要了解恰斯卡·其一"
+      },
+      "text": {
+        "ru": "Как миротворец, я прекрасно знаю, что силой не решить всех конфликтов. Но когда обладаешь силой, люди часто более охотно слушают твои доводы.",
+        "en": "As a peacemaker, I know full well that violence isn't always the answer. But in many cases, having the capacity for violence makes people much more willing to listen to reason.",
+        "zh": "身为一名调停人，我很清楚用武力无法解决所有矛盾。但很多时候持有武力本身，就是让人愿意听你说话的前提。"
+      },
+      "source_id": 104027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Часке II",
+        "en": "More About Chasca: II",
+        "zh": "想要了解恰斯卡·其二"
+      },
+      "text": {
+        "ru": "Воины клана Цветочного пера - гордые люди, но кукузавры - ещё более гордые. Любой, кто хочет стать наездником, должен неустанно тренироваться, а затем завоевать одобрение кукузавров. Даже мне пришлось через это пройти, а ведь я практически была одним из них в детстве. Впрочем, это справедливо. Позволить новичку подняться на кукузавре в небо было бы крайне безответственно как для кукузавра, так и для наездника.",
+        "en": "The warriors of the Flower-Feather Clan are a proud bunch, but the Qucusaurs are a prouder bunch still. Anyone who aspires to become a Rider has to train relentlessly and then win their approval — even me, and I was practically one of them growing up. It's only fair, though. Allowing a rookie to ride a Qucusaur into the skies would be highly irresponsible for both the Qucusaur and the Rider.",
+        "zh": "「花羽会」的战士向来高傲，但绒翼龙却比他们更高傲。即使是像我这样从小跟绒翼龙相伴着长大的人，要想登上龙背成为骑士，都要经过严苛的训练，再取得绒翼龙的认可。毕竟让实力不济的人乘着龙飞向天空，不管是对龙还是对人而言，都是不负责任的。"
+      },
+      "source_id": 104028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Часке III",
+        "en": "More About Chasca: III",
+        "zh": "想要了解恰斯卡·其三"
+      },
+      "text": {
+        "ru": "Иногда, провалив Лётные испытания много раз и так и не получив одобрения кукузавров, люди теряют всю мотивацию и решают завязать с этим делом. В клане Цветочного Пера мы называем таких людей «Бескрылыми»... Но вообще в Лётных испытаниях и так пытаются участвовать только самые выдающиеся воины. Может, их боевой дух угас, но однажды он разгорится вновь. А пока этот день не наступил, мы будем тихо присматривать за ними, как кукузавры присматривают за своими ещё не оперившимися птенцами.",
+        "en": "Sometimes, after failing the flying trials countless times and never winning the Qucusaurs' approval, people lose all their motivation and decide to call it quits. In the Flower-Feather Clan, we call those people the \"Wingless\"... But generally, only the most outstanding warriors even attempt the flying trials in the first place. Their fighting spirit may have faded out, but it will one day burn again. And until that day comes, we will quietly watch over them, just as the Qucusaurs watch over their unfledged young.",
+        "zh": "一些屡次在飞行试炼中失利，没有被绒翼龙认可的人，最后会失去斗志，放弃挑战。这些人在「花羽会」里会被称作「失翼者」…不过曾经挑战飞行试炼的人，往往已是出类拔萃的战士。即便战意一度熄灭，也终会有重燃的一天。我们会一直默默关照这些人，就像绒翼龙关照还没学会飞行的幼崽。"
+      },
+      "source_id": 104029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Часке IV",
+        "en": "More About Chasca: IV",
+        "zh": "想要了解恰斯卡·其四"
+      },
+      "text": {
+        "ru": "У меня не было полноценного счастливого детства, но когда я была на грани смерти, «мама» подарила мне новую жизнь. А когда я не знала, куда двигаться, Куичи дала мне то, во что верить. За мной моя семья заврианов, моя человеческая семья и все остальные существа в семье, которую мы называем Натлан. Поэтому ничему меня не одолеть. Ни Бездне, ни жизненным невзгодам. Я всё преодолею!",
+        "en": "I was never able to enjoy a proper, happy childhood, but when I was on the brink of death, momma bird gave me a new life, and when I was lost and directionless, Chuychu gave me something to believe in. Behind me, I have my saurian family, my human family, and every other creature in the family we call Natlan. So I will not be defeated. Not by the Abyss, and not by life's hardships. Watch me, I will transcend it all!",
+        "zh": "我从出生起就失去了普通人应有的童年…但「妈妈」在我濒死垂危时给了我新的生命，葵可在我迷茫不前时给了我新的信念…在我的背后，有人与龙两个家庭，还有纳塔无数生命牵系的家庭——所以我绝不能被吞没，「深渊」也好「苦难」也好…都由我来「超越」！"
+      },
+      "source_id": 104030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Часке V",
+        "en": "More About Chasca: V",
+        "zh": "想要了解恰斯卡·其五"
+      },
+      "text": {
+        "ru": "Куичи надеялась, что я стану героем. Поэтому... я не сдамся. Я должна оставаться сильной, ради неё... Но когда реликвия взорвалась, и Коя бросилась передо мной, я... тот же страх потерять сестру снова нахлынул на меня... Извини, я просто не знаю, с кем ещё я могу поговорить о таких вещах. Я обычно прячу это на задворках сознания... Но сейчас я чувствую себя намного лучше. Раз у меня не получается забыть этот страх, я решила попробовать сделать наоборот: помнить его... И преодолеть его.",
+        "en": "Chuychu hoped I'd become a hero. So... I can't give up. I have to stay strong, for her sake...\nBut when the relic exploded, and Coya dove in front of me, I... the same fear of losing my sister came flooding back again...\nSorry, I just don't really know who I can talk to about this kind of stuff. I usually push it to the back of my mind... But I feel much better now.\nSince I can't forget that fear, I guess I'll try the opposite: remember it, own it. And eventually... transcend it.",
+        "zh": "葵可她…希望我成为「英雄」，所以我不能为她停下脚步，不能让自己变得软弱…\n可在「遗物」爆炸，姐姐冲到我面前的时候，我…我还是忍不住会想起，失去家人的恐惧…\n…抱歉，这些话我不知道能说给谁听，一直试图留在脑后…不过现在我感觉好多了。\n既然忘不掉这份恐惧…那就试着记住它，然后…「超越」它吧。"
+      },
+      "source_id": 104031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Хобби Часки...",
+        "en": "Chasca's Hobbies",
+        "zh": "恰斯卡的爱好…"
+      },
+      "text": {
+        "ru": "Затевать драки - больше хлопот, чем пользы. Слишком много неприятностей. А вот прекращать драки, напротив, гораздо более приемлемо. Вот почему мне нравится быть миротворцем. Потому что драки сами приходят ко мне... Я, конечно, шучу.",
+        "en": "Starting fights is more trouble than it's worth. Gets you into too much trouble. Now, ending fights, on the other hand, much more acceptable. This is why I love being a peacemaker, because the fights come to me... Heh, I'm just kidding, of course.",
+        "zh": "如果我喜欢的是「争斗」，就容易惹是生非；但如果我喜欢的是「调解争斗」，「争斗」就容易自己找上门…呵，玩笑而已。"
+      },
+      "source_id": 104032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Беспокойство Часки...",
+        "en": "Chasca's Troubles",
+        "zh": "恰斯卡的烦恼…"
+      },
+      "text": {
+        "ru": "Энергия Бездны. Не потому, что она так сильно на меня влияет - больше не влияет. Скорее потому, что из-за неё окружающие беспокоятся обо мне.",
+        "en": "The Abyssal energy. Not because it affects me that much — it doesn't anymore. More because of how much it makes the people around me worry about my safety.",
+        "zh": "深渊的力量——倒不是因为它现在会怎么影响到我，而是因为身边有许多人，会为了它过度地担心我。"
+      },
+      "source_id": 104033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я выросла у моря и в основном ела сырую рыбу, а когда пришла в племя, полюбила стейк быстрой обжарки... У кукузавров и людей очень разные диеты, но мне нравятся обе.",
+        "en": "Growing up by the sea, I mostly ate raw fish, and after I came to the tribe, I grew to love Flash-Grilled Steak... Qucusaurs and humans have wildly different diets, but I enjoy them both.",
+        "zh": "小时候住在海边，最常吃的是生鱼；来「花羽会」后我最喜欢的是快火炙烤的肉排…人类跟绒翼龙的饮食区别很大，不过我不管在哪边都吃得很开心。"
+      },
+      "source_id": 104034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Пожалуй, всё, что содержит слишком много алкоголя. Не потому, что я не люблю выпить, но перед полётом мне нужно тщательно следить за этим делом. Бывает, попадается еда, в которой запах алкоголя маскируется другими ароматами... Выглядит аппетитно, пахнет вкусно, откусываешь немного, а потом... опа, это ловушка.",
+        "en": "Anything with too much alcohol, I guess. Not because I don't like drinking — I just need to watch my intake very carefully before a flight. But you get some food where the scent of the alcohol is masked by the other flavors... Looks tasty, smells delicious, so you take a bite, and then... uh-oh, it's a trap.",
+        "zh": "酒精含量过高的食物吧。不是因为不喜欢酒，只是飞行前要严格控制饮酒量，偏偏有些食物看起来可口，气味也被香气掩盖，吃进嘴里才发现不妙。"
+      },
+      "source_id": 104035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Это блюдо да хорошее вино повысили бы шансы успешного примирения на тридцать процентов. Ничто так не поднимает настроение, как хорошая еда и вино.",
+        "en": "I'm telling you, this dish plus a nice wine would increase the chances of mediation success by thirty percent. Heh, there's nothing quite like some good food and wine to put people in a good mood.",
+        "zh": "要是能拿这道菜下酒，调停的成功率应该能上升个三成吧？哼，美食和美酒总是让人心情愉悦。"
+      },
+      "source_id": 104036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Очень неплохо. Спасибо.",
+        "en": "This is pretty good. Thanks.",
+        "zh": "挺不错的，谢了。"
+      },
+      "source_id": 104037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Это для кукузавров что ли? ...Прости, но такое они не любят.",
+        "en": "Uh... Was this meant for the qucusaurs? ...Sorry, but this isn't the kind of thing they go for.",
+        "zh": "嗯…难道是做给绒翼龙吃的吗？…恐怕也不会合他们的胃口。"
+      },
+      "source_id": 104038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Вот, возьми пистолет. В нём шесть патронов, один из них особенный. Давай найдём открытое место и попробуем - а ещё лучше взлетим в небо и попробуем там.\nО, особенный патрон с первой попытки? Удача сегодня на твоей стороне... Это свистящий фейерверк на день рождения. Я сама его сделала!\nМ? ...Какие остальные пять выстрелов? Конечно же, ещё фейерверки! Но это пробные версии, которые я сделала перед этим. Цвет другой, они не идеальны. В следующем году я постараюсь сделать для тебя все шесть патронов высшего качества.",
+        "en": "Here, take this gun. It's loaded with six rounds, including an extra-special one. Find an open space and try it out — or better yet, fly up into the sky and do it there.\nOoh, you got the special round on the first try, huh? Luck's on your side today... That was a whistling birthday firework. I made it myself!\nHmm? ...What are the other five rounds? More fireworks, of course! But they're the trial runs that I made before the one you just fired off. The color's different, and they're not perfect. Next year, I'll do my best to make a full six top-quality rounds for you.",
+        "zh": "来，这把枪里有六发子弹，其中有一发是特别的。找片空旷的地方试试枪吧，飞到天上去试的话效果更好。\n哦？第一发就开出了特制的礼炮吗？你的运气还真不错…这是我亲手为你做的，为你的诞辰鸣炮敬礼！\n嗯…你问剩下五发子弹是什么？当然也是礼炮啊，不过是刚刚那枚之前试做的，颜色不一样，算不上完美。来年我尽量六发都换上最好的。"
+      },
+      "source_id": 104039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "А? Новый патрон?",
+        "en": "Huh, is that a new bullet in the chamber?",
+        "zh": "哦？是新的子弹？"
+      },
+      "source_id": 104040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Хочешь что-нибудь для тебя улажу? Проблемы с племенами? Или, может, полномасштабная война?",
+        "en": "Need me to mediate anything? Tribal trouble? Or an all-out war, maybe?",
+        "zh": "想要我为你调停什么？部族纷争？还是一场大战？"
+      },
+      "source_id": 104041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "В моих жилах течёт жажда борьбы... Но теперь я знаю, как использовать её с пользой.",
+        "en": "There's an urge to fight that runs in my veins... But now, I know how to put it to good use.",
+        "zh": "心与血都在渴望着「争斗」…但现在，已经能让这种渴望为我所用了。"
+      },
+      "source_id": 104042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "«За добро надо отплатить, услугу надо наградить». Это один из универсальных принципов, который верен как в мире кукузавров, так и в мире людей. С этого дня, куда ты ни отправишься, мои крылья и моё оружие всегда к твоим услугам.",
+        "en": "\"Kindness should always be repaid, and merit rewarded.\" This is one universal principle that holds true for both the Qucusaur and human worlds. From this day forth, no matter where you go, my wings and my guns will always be at your service.",
+        "zh": "「有恩必报，有德必酬。」不管是在绒翼龙还是人类的世界，它都是不变不移的公理。从今往后，无论你想去往哪里，我的「羽翼」与「枪火」都随时为你待命。"
+      },
+      "source_id": 104043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Полетели.",
+        "en": "Let's fly.",
+        "zh": "飞吧。"
+      },
+      "source_id": 104044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Хах!",
+        "en": "Hah!",
+        "zh": "喝！"
+      },
+      "source_id": 104045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Ветер поднимается.",
+        "en": "Take me up.",
+        "zh": "要起风了。"
+      },
+      "source_id": 104046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Стреляю!",
+        "en": "Fire in the hole!",
+        "zh": "全弹…发射！"
+      },
+      "source_id": 104047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Держите шляпы!",
+        "en": "Hold on to your hats!",
+        "zh": "风湮狙破！"
+      },
+      "source_id": 104048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Всех в пыль.",
+        "en": "Knock 'em down.",
+        "zh": "啸尘尽灭。"
+      },
+      "source_id": 104049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Деление добычи часто становится причиной конфликтов, но, к счастью для тебя, мне эти вещи не нужны.",
+        "en": "Dividing the loot is often a cause of conflict, but luckily for you, I don't really need this stuff.",
+        "zh": "分赃不均是起矛盾的大头。好在我用不上，你拿着就好。"
+      },
+      "source_id": 104050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Мора избавляет от многих проблем. Так что денег много не бывает, да?",
+        "en": "Mora makes a lot of problems go away. So you can never have too much Mora, huh?",
+        "zh": "能用钱财调停的事都不算事——所以钱财多多益善，不是么？"
+      },
+      "source_id": 104051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "О, блестит так красиво...",
+        "en": "Ooh, shiny... It's so pretty...",
+        "zh": "唔…亮晶晶的东西…真漂亮呢。"
+      },
+      "source_id": 104052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Достойное сражение!",
+        "en": "A worthy fight...!",
+        "zh": "值得一战…！"
+      },
+      "source_id": 104053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Надо быть серьёзнее.",
+        "en": "Now I'm all warmed up.",
+        "zh": "该认真点了。"
+      },
+      "source_id": 104054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Хочешь драться? Давай подерёмся!",
+        "en": "You want crazy? I'll show you crazy!",
+        "zh": "要战…那就来战吧！"
+      },
+      "source_id": 104055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Нельзя умирать!",
+        "en": "...Hey, no dying!",
+        "zh": "…不许死！"
+      },
+      "source_id": 104056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "За меня!",
+        "en": "Get behind me!",
+        "zh": "到我身后。"
+      },
+      "source_id": 104057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Ма... ма...",
+        "en": "Momma... Bird...",
+        "zh": "妈…妈…"
+      },
+      "source_id": 104058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Не преодолеть...",
+        "en": "Couldn't... transcend...",
+        "zh": "无法…超越…"
+      },
+      "source_id": 104059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Я падаю...",
+        "en": "I'm... falling...",
+        "zh": "我也…坠落了吗…"
+      },
+      "source_id": 104060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Это плохо...",
+        "en": "This is about to get messy...",
+        "zh": "这下麻烦了。"
+      },
+      "source_id": 104061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Давай ещё!",
+        "en": "...Again!",
+        "zh": "…再来！"
+      },
+      "source_id": 104062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Так, кому крылья подрезать?",
+        "en": "Alright, whose wings need clipping?",
+        "zh": "这次又是谁在闹事？"
+      },
+      "source_id": 104063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Ветер шумит сегодня.",
+        "en": "The breeze is restless today.",
+        "zh": "今天的风声，不太安静呢。"
+      },
+      "source_id": 104064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Все патроны заряжены.",
+        "en": "Chamber full and ready to roll.",
+        "zh": "走吧，子弹已经上膛了。"
+      },
+      "source_id": 104065
+    }
+  ],
+  "replica_count": 66
 }

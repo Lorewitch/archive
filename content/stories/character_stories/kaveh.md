@@ -516,3 +516,853 @@ Kaveh stared at it, unable to believe his eyes. It had arrived quite a few years
 碎裂的面饼里面静静躺着一颗璀璨的「神之眼」。
 
 卡维难以置信地看着它。它来晚了好些年，最终降临到他眼前。如此绚烂，犹如天上幻国。好在比起理想，它那么的近。
+
+# voice_source_ids: 81000,81001,81002,81003,81004,81005,81006,81007,81008,81009,81010,81011,81012,81013,81014,81015,81016,81017,81018,81019,81020,81021,81022,81023,81024,81025,81026,81027,81028,81029,81030,81031,81032,81033,81034,81035,81036,81037,81038,81039,81040,81041,81042,81043,81044,81045,81046,81047,81048,81049,81050,81051,81052,81053,81054,81055,81056,81057,81058,81059,81060,81061,81062,81063,81064,81065,81066,81067
+
+## REPLICAS_RU
+
+### Привет...
+
+Очень рад, что мне представился случай с тобой увидеться. Разговор выйдет приятным, если у собеседников схожие взгляды на вещи. Меня зовут Кавех, я архитектор. Если хочешь обратиться ко мне для составления проекта, расскажи подробнее о своих пожеланиях.
+
+### Поболтаем: Эстетика
+
+Умение ценить красоту - хорошее качество.
+
+### Поболтаем: Развлечения
+
+Нельзя всё время сидеть дома, иногда нужно выйти на прогулку, размять ноги.
+
+### Поболтаем: Последние штрихи
+
+Мой последний проект почти готов, но его можно улучшить. Пока есть время до сдачи, надо кое-что подправить...
+
+### Когда идёт дождь...
+
+Мм? Это что, дождь? А я как назло забыл зонтик...
+
+### Когда гремит гром...
+
+Ты видел? Какая интересная форма была у этой молнии! / Ты видела? Какая интересная форма была у этой молнии!
+
+### Когда идёт снег...
+
+Бр-р... Ветер продувает одежду со всех сторон...
+
+### Когда светит солнце...
+
+Когда много времени провожу на солнце, меня начинает клонить в сон, и голова кружится. Как если всю ночь проработать над проектом.
+
+### В пустыне...
+
+Я бывал в пустыне, но всё равно не могу привыкнуть к этой жаре... Эх, найти бы тенёк...
+
+### Доброе утро...
+
+Ты выспался? Надеюсь, у тебя будет прекрасный день. И никто не станет портить тебе настроение с самого утра. / Ты выспалась? Надеюсь, у тебя будет прекрасный день. И никто не станет портить тебе настроение с самого утра.
+
+### Добрый день...
+
+Днём солнце так и палит... Посмотрю, как там материалы, которые я разложил сушиться.
+
+### Добрый вечер...
+
+Сегодня ночь будет звёздная. Это ведь хорошая примета?
+
+### Спокойной ночи...
+
+Оставь все тревоги и как следует выспись. Спокойной ночи!
+
+### О Кавехе: Профессия
+
+Во всём, что касается профессиональных знаний, я человек гордый. Наверное, такая гордость присуща любому учёному, ведь вся наша жизнь строится вокруг профессии. Без этой гордости я потерял бы право требовать чего-либо от себя и от других.
+
+### О Кавехе: Искусство
+
+Работая над проектом, я никогда не ставлю эстетику во главу угла, это было бы неправильно. На первом месте всегда качество и безопасность. И всё же я стараюсь не забывать о красоте, именно это отличает меня от других архитекторов.
+
+### О нас: Признание
+
+Ты уже видел Алькасар-сарай? Это главный проект моей жизни. Я стольким пожертвовал ради него... Многие решили, что я сошёл с ума. Вы - не я, вы не архитекторы... Само собой, вам не понять. Эх... Но иногда так хочется, чтобы кто-то меня понял. / Ты уже видела Алькасар-сарай? Это главный проект моей жизни. Я стольким пожертвовал ради него... Многие решили, что я сошёл с ума. Вы - не я, вы не архитекторы... Само собой, вам не понять. Эх... Но иногда так хочется, чтобы кто-то меня понял.
+
+### О нас: Идеалы
+
+Я всегда считал, что настоящее знакомство с человеком - это знакомство с его идеалами и мечтами. Но исследование идеалов и мечтаний, своих или чужих... подчас связано с риском. Ты можешь обнаружить нечто такое, после чего всё необратимо изменится. И не каждый к такому готов.
+
+### Глаз Бога...
+
+Не хочется об этом говорить, но... Иногда надежды приносят только боль и страдания. К счастью, я ничего не имею против своего Глаза Бога.
+
+### Давай поделимся...
+
+Люди, которые знают, ради чего творят, заслуживают уважения. Ты согласен? / Люди, которые знают, ради чего творят, заслуживают уважения. Ты согласна?
+
+### Интересные вещи...
+
+Профаны считают, что архитекторы из Кшахревара разбираются только в сортах глины и древесины. Это мнение настолько необоснованно, что мне даже спорить с ним не хочется. Если бы строительство домов сводилось только к компоновке разных материалов, архитектура как область знания лишилась бы всякого смысла. Архитектура - часть человеческой культуры и форма искусства. А искусство не существует без людей, поэтому в работе я всегда учитываю, как будут ощущать себя в доме хозяева, как он будет выглядеть со стороны. Да, я пытаюсь добиться художественной выразительности, не забывая о практичности и функциональности.
+
+### О малой властительнице Кусанали...
+
+Малая властительница Кусанали - мудрый Архонт с обширными познаниями, она наделена добродетелью, недоступной обычным смертным. Она умеет понимать и прощать, а спокойствие, которое она привнесла в наш край учёных, вызывает у меня глубочайшее восхищение. Иногда я думаю: наверное, у Архонтов есть свои печали? Зачастую мудрость идёт бок о бок с сомнениями... Но тогда что есть истинное счастье?
+
+### Об аль-Хайтаме: Характер
+
+Ты не встретишь больше человека, который умел бы так вывести собеседника из себя! И я готов сказать это ему в лицо. Ты знаешь, он очень умён, говорят, умные люди часто бывают несносными, но даже если это правда, он - особый случай... Он прекрасно знает, как себя вести, чтобы не отталкивать людей, просто не хочет. Если тебе показалось, что у него отличный характер, или если сложилось мнение, что аль-Хайтам - бесстрастный автомат, значит, ты пока недостаточно хорошо его знаешь. Это человек с уникальной личностью, которую мало кто сможет понять.
+
+### Об аль-Хайтаме: Всё сложно
+
+Аль-Хайтам много мне помогал, и будь мы так же дружны, как во времена студенчества, я благодарил бы его без устали каждый день. Но сейчас... Я не могу выдавить из себя ни слова благодарности, не хочу доставлять ему такую радость. Наверное, у нас с ним сложные отношения. Есть в них и хорошее, есть и дурное. Иногда всё это кажется мне злой шуткой судьбы... которую сразу не разглядишь. Но я безусловно признаю, что аль-Хайтам - уникальный человек. Если бы только он мог что-то сделать со своим характером. Ладно, что-то я размечтался.
+
+### О Тигнари...
+
+Тигнари... При первой же встрече видно, какой он прекрасный малый. Он добрый и очень эрудированный человек, но никогда не кичится своими знаниями. И Тигнари по-настоящему любит свою работу. Помню, я попросил у него совета, какие растения посадить в саду Алькасар-сарая. Он ответил на моё письмо и потом ещё не раз помогал в других вопросах. Да, и он познакомил меня с Сайно.
+
+### О Дори...
+
+Дори, хозяйка Алькасар-сарая... Что ты говоришь? Мой? Перестань, я прекрасно знаю, что Алькасар-сарай мне не принадлежит. Знаю, да... Но... Нет, давай не будем об этом! Дори очень хитрая. Она знает, за какие ниточки подёргать, чтобы ты сделал, как она хочет. По некоторым причинам я крупно ей задолжал... Но... надеюсь, она проявит милосердие и не будет превращать мою жизнь в кошмар из-за моры. Ведь она может измениться, стать хорошей. Почему же она этого не делает?
+
+### О Сайно...
+
+Сайно может показаться холодным и бесстрастным, но на самом деле он очень отзывчивый человек. Я до сих пор помню, как удивился, когда Тигнари сказал, что хочет познакомить меня со своим лучшим другом, и тут в комнату зашёл грозный матра... Честно говоря, я не ожидал, что матры могут так хорошо общаться с учёными. Правда, должен сказать, я терпеть не могу его чувство юмора. Мороз по коже от его шуток. Если он когда-нибудь пригласит тебя на обед к Тигнари, убедись, что там будет пиво, потому что на трезвую голову шутки Сайно просто невыносимы.
+
+### О Коллеи...
+
+Я часто вижусь с Коллеи. Она ученица и помощница Тигнари, сопровождает его повсюду. Коллеи очень старательная, терпеливая и ответственная девочка, особенно по сравнению с её сверстниками. Но... я чувствую какой-то груз у неё на душе.
+
+### О Нилу...
+
+Нилу - настоящая звезда, и Зубаиру очень повезло, что в его труппе оказался такой талант. Говорят, ещё у неё прекрасный характер, Нилу всегда улыбается, когда танцует, и каждому зрителю старается сказать что-нибудь приятное. Надо будет выкроить время и посмотреть на её выступление.
+
+### О Фарузан...
+
+Профессор Фарузан - сама прямота, и я понимаю, почему многие студенты Академии её боятся. Но она не желает никому зла, главная страсть профессора Фарузан - исследования. Есть мнение, что с учёными из Хараватата трудно иметь дело. Ну, гм... Ха-ха... Думаю, она уже предлагала тебе стать её учеником? Да, иногда профессор Фарузан напоминает сумасшедшего торгового агента. Но она знает своё дело, этого у неё не отнять. / Профессор Фарузан - сама прямота, и я понимаю, почему многие студенты Академии её боятся. Но она не желает никому зла, главная страсть профессора Фарузан - исследования. Есть мнение, что с учёными из Хараватата трудно иметь дело. Ну, гм... Ха-ха... Думаю, она уже предлагала тебе стать её ученицей? Да, иногда профессор Фарузан напоминает сумасшедшего торгового агента. Но она знает своё дело, этого у неё не отнять.
+
+### Узнать больше о Кавехе I
+
+Ты слышал, что я приобрёл известность в Сумеру? Ха-ха-ха, не верь всему, что слышишь. Уверяю тебя, это преувеличение. В Сумеру довольно легко сделать себе имя, если живёшь здесь достаточно долго. Наоборот, удержаться в тени - вот настоящий подвиг. Надеюсь, ты впервые услышал обо мне не из-за скандала с банкротством... Если хочешь, расскажу тебе и о своих хороших качествах. / Ты слышала, что я приобрёл известность в Сумеру? Ха-ха-ха, не верь всему, что слышишь. Уверяю тебя, это преувеличение. В Сумеру довольно легко сделать себе имя, если живёшь здесь достаточно долго. Наоборот, удержаться в тени - вот настоящий подвиг. Надеюсь, ты впервые услышала обо мне не из-за скандала с банкротством... Если хочешь, расскажу тебе и о своих хороших качествах.
+
+### Узнать больше о Кавехе II
+
+Вряд ли ты собираешься поступать в Академию, правда? Но даже если у тебя есть такие мысли, не стоит поступать на архитектора, лучше выбрать другую специальность. Архитектура - интереснейшая штука, но работа по специальности очень выматывает. После выпуска я работал под руководством одного из старших товарищей, горбатился целыми днями... Постоянно бегал на побегушках, исполнял чужие приказы. Даже не знаю, как я умудрился так долго там продержаться.
+
+### Узнать больше о Кавехе III
+
+Эстетические предпочтения у всех разные, но в целом концепция красоты довольно конкретна. И я думаю, объективные эстетические критерии существуют. Художественный вкус можно совершенствовать, но эта работа требует времени и усилий. Если тебе однажды понадобится помощь в этом вопросе, всегда можешь обратиться ко мне.
+
+### Узнать больше о Кавехе IV
+
+Некоторые люди считают, будто мне нравится создавать проблемы, но я не понимаю, что они имеют в виду. Если человек стремится вперёд, он неизбежно будет время от времени вступать в конфликт с окружающими. Нельзя игнорировать проблемы из страха поссориться с людьми.
+
+### Узнать больше о Кавехе V
+
+В свободное время я люблю немного выпить, чтобы снять стресс. Мм? Ну, и чтобы скоротать время. Гм... Эм... Не надо так на меня смотреть! Ладно, ладно... Я часто заливаю проблемы вином, признаю. Незаконченные проекты, неразрешимые вопросы, недопонимания с людьми. Неужели с тобой такого никогда не случалось?
+
+### Хобби Кавеха...
+
+Музыка, архитектура, скульптура, живопись. Любое искусство стоит того, чтобы оценить его красоту. Не могу назвать себя экспертом в каждой из этих областей, но пока сохраняется интерес, есть надежда, что однажды я научусь разбираться в теме. Видишь, я уже умею немного музицировать.
+
+### Беспокойство Кавеха...
+
+Беспокойство... Эх, больше всего меня беспокоят финансы. Дело не в том, что я не умею зарабатывать, просто мора утекает у меня сквозь пальцы. Тут немного потратил, там потратил и сам не заметил, как... Но не переживай, я теперь поумнел, буду стараться жить по средствам.
+
+### Любимая еда...
+
+Вина, супы, разные блюда со сливками и сыром... Обожаю. Да, и ещё свежие фрукты.
+
+### Нелюбимая еда...
+
+Не люблю слишком острые и горячие блюда. Всегда даю им немного остыть, чтобы не обжечься.
+
+### Подарок I
+
+Класс! Научишь меня так готовить?
+
+### Подарок II
+
+Отличная закуска к вину!
+
+### Подарок III
+
+Мм?.. Ох... Это... Ох...
+
+### День рождения...
+
+У тебя сегодня день рождения? Поздравляю! День рождения - важная дата, и в этот день всегда особенно скучаешь по дому. Пусть у тебя сегодня будет прекрасное настроение!
+
+### Чувство возвышения: Начало
+
+Приятные ощущения. Спасибо.
+
+### Чувство возвышения: Нарастание
+
+Мм? А можно ещё раз?
+
+### Чувство возвышения: Кульминация
+
+Горизонты кажутся безграничными. Хочется сохранить это чувство.
+
+### Чувство возвышения: Окончание
+
+Чем больше у меня сил, тем выше цели, которых я смогу добиться. Пусть мне придётся заплатить положенную цену, пусть дорога к мечте вымощена болью, я всё равно... не отступлю.
+
+### Элементальный навык I
+
+Сканирую!
+
+### Элементальный навык II
+
+Сюда!
+
+### Элементальный навык III
+
+Площадка очищена!
+
+### Взрыв стихии I
+
+Смотри и учись!
+
+### Взрыв стихии II
+
+Начинаем наш проект.
+
+### Взрыв стихии III
+
+Великолепное зрелище!
+
+### Открытие сундука I
+
+Новая находка!
+
+### Открытие сундука II
+
+Какая удача! Ты рад? / Какая удача! Ты рада?
+
+### Открытие сундука III
+
+Это поразительно! Нет - невероятно!
+
+### Низкий уровень HP I
+
+Вот же...
+
+### Низкий уровень HP II
+
+Это был твой последний шанс.
+
+### Низкий уровень HP III
+
+Ух... Кыш отсюда!
+
+### Низкий уровень HP компаньона I
+
+Положись на меня!
+
+### Низкий уровень HP компаньона II
+
+Я прикрою.
+
+### Без сознания I
+
+Осталось... столько несделанных дел...
+
+### Без сознания II
+
+Почему...
+
+### Без сознания III
+
+Не разбивай... мои мечты...
+
+### Получен тяжёлый удар I
+
+Эй, так нельзя!
+
+### Получен тяжёлый удар II
+
+Ай! Ничего страшного.
+
+### Присоединяется к группе I
+
+Нужна помощь?
+
+### Присоединяется к группе II
+
+Я обо всём позабочусь.
+
+### Присоединяется к группе III
+
+Ты и есть заказчик? Ой, извини...
+
+## REPLICAS_EN
+
+### Hello
+
+I'm glad you gave me a chance. I always think it takes people with similar tastes to sustain a pleasant conversation.
+Nice to meet you — I'm Kaveh, an architect. If you have a project you'd like me to work on, then I'll need a detailed description of what you have in mind.
+
+### Chat: Beauty
+
+The ability to appreciate beauty is an important virtue.
+
+### Chat: Overcoming Boredom
+
+It's good to get out and stretch your legs once in a while. People aren't made to stay cooped up inside all the time.
+
+### Chat: Final Polish
+
+My latest design's getting there, but there's still room for improvement. Better make my finishing touches before the deadline creeps up...
+
+### When It Rains
+
+Huh? When did it start to rain? Oh no, I forgot to bring an umbrella...
+
+### When Thunder Strikes
+
+Did you see that? That bolt of lightning was such an interesting shape!
+
+### When It Snows
+
+Brrr... Feels like the wind's creeping in from the back of my shirt... and also the front...
+
+### When the Sun Is Out
+
+I get dizzy and sleepy when I'm under the sun for too long... It's a similar feeling to pulling an all-nighter on a work project.
+
+### In the Desert
+
+This isn't my first trek into the desert, but I can never get used to the heat... *sigh* Is there no shade anywhere...?
+
+### Good Morning
+
+Did you sleep well? I hope you have a great day today. And that you don't run into someone who ruins your day first thing in the morning.
+
+### Good Afternoon
+
+This midday sun is fierce... I should go check on the building materials I left out to dry.
+
+### Good Evening
+
+There's supposed to be a great view of the stars tonight. Don't you think that's a good omen?
+
+### Good Night
+
+Relax your mind, and let go of all your troubles. Have a good night.
+
+### About Kaveh: Expertise
+
+It's fair to say I'm a pretty proud person when it comes to my area of expertise. Most scholars are when talking about their chosen fields. After all, we build our whole lives around it. I mean, if I ever stopped taking pride in my own work, then I would also forfeit the right to have any expectations of myself or anyone else.
+
+### About Kaveh: Artistry
+
+Aesthetic isn't the number one priority in my work, and nor should it be: Quality and safety are paramount. But I never neglect the artistic side either. That's what sets my work apart from others'.
+
+### About Us: Appreciation
+
+You must've seen the Palace of Alcazarzaray before? That's my magnum opus. I sacrificed so much for that... Everyone else thought I'd lost my mind. Haha, well, if you're not me, and you don't share my trade, I wouldn't expect you to understand. Mmm... It'd be nice to meet someone who did understand, though.
+
+### About Us: Ideals
+
+I've always thought that you can never truly know a person until you understand their deepest wishes. But once you start exploring hopes and dreams, whether they're your own or someone else's... it can be a dangerous journey. You might unlock something that can't be put away again. Not everyone can face the potential consequences of that.
+
+### About the Vision
+
+I almost don't want to say this out loud, but... Sometimes, hopes and dreams bring suffering instead of happiness. Luckily, I don't mind my Vision.
+
+### Something to Share
+
+People who know what drives them to create deserve our respect. Wouldn't you agree?
+
+### Interesting Things
+
+The uninitiated often assume that the expertise of Kshahrewar architects starts with clay and ends with lumber. It's such an ignorant perspective that it's not even worth arguing against... If all it took to build a house was to smush a few random materials together, there'd be no need for this discipline in the first place... As well as being one of the building blocks of human culture and civilization, architecture is also an art form. Art does not exist in a vacuum, so I've always been mindful of the experiential factor for the occupants, and the emotional character conveyed to those looking on from the outside... Oh, and I'm always looking for better ways to integrate artistic expression and practical functionality.
+
+### About Lesser Lord Kusanali
+
+Lesser Lord Kusanali is a wise and capable god. Not only is she extremely knowledgeable, she also possesses virtue far beyond mortal comprehension. I have only the utmost respect for her tolerance of others — especially in a nation of learning like Sumeru, that takes great equanimity.
+Sometimes, though, I do stop to wonder... Surely even the gods must have their struggles, too? Oftentimes, confusion is the beginning of wisdom... In which case, how can we ever achieve true happiness?
+
+### About Alhaitham: Temperament
+
+I guarantee you'll never meet anyone else who's as infuriating as him! And for the record, yes, I would say that to his face. Sure, he's smart, and sure, geniuses often come with a bad temper, but that's only half the story with him... He knows perfectly well how to appear friendly and likable to others, he just doesn't want to.
+If he ever gives you the impression that he doesn't really have a temper, or that he's rigidly logical like a machine, then you just don't know him well enough yet. He definitely has a personality, it's just... too big a personality. Most people wouldn't get it.
+
+### About Alhaitham: It's Complicated
+
+Alhaitham helped me out a fair amount recently. If we were still as close as we were during our student days, then I'd be thanking him every chance I got. Now, though... I can't seem to get a word of appreciation out of my mouth. Even if I could, I wouldn't want to give him the satisfaction.
+I guess you could say our relationship is something of a mixed bag these days? Honestly, with everything that's happened, it almost feels like the universe has been playing pranks on us... It's hard to make sense of it all... too much to process for one lifetime. I will say that it's not every day that you get to know someone like him — I just wish he could rein in some of the worst excesses of his personality. Okay, yeah, that's never gonna happen.
+
+### About Tighnari
+
+Ah, Tighnari... He's one of the nicest guys you could know. If you've met him, you'll know what I mean. He's kind, and he has enormous expertise in his field, but he never brags about it in front of other people. And he seems to genuinely care about his work.
+Back when I was building the Palace of Alcazarzaray, I asked him for some tips on how to pick out the right ornamental plants. After he wrote back to me, he also helped me out with some other issues, too. Oh, and I almost forgot — he was the one who first introduced me to Cyno.
+
+### About Dori
+
+Dori is the owner of the Palace of Alcazarzaray... Excuse me? Mine? No, don't be ridiculous. I know full well that it doesn't belong to me... I know, I know, but... argh, please, let's not go there!
+Dori is a shrewd one. She knows how to coerce others into doing things for her. I, uh... For, ahem, various reasons, I now owe her a large sum of money. It all got quite complicated in the end, but... A—Anyway, I wish she'd show me a little mercy, and stop making my life a misery for the sake of Mora. I swear, she doesn't seem like a bad person at heart, so... I just don't understand, how did she turn out like this?
+
+### About Cyno
+
+Cyno can come across as cold and ruthless, but he's actually a very big-hearted guy. I still remember how shocked I was when Tighnari said he was gonna introduce me to his best friend, and then a couple of seconds later, an incredibly intimidating matra comes walking through the door... I honestly never expected to meet a matra who's so comfortable hanging out with scholars. Gotta say though, I can't stand his sense of humor. It really makes my skin crawl. If he ever invites you to a meal at Tighnari's place, make sure someone's bringing beer, because no one should have to endure Cyno's humor while sober.
+
+### About Collei
+
+I've met Collei quite a few times now. As Tighnari's student and assistant, she follows him everywhere. With her diligence and patience, she's much more responsible than most other kids her age. But, umm... I can also tell that she's got a lot going on inside.
+
+### About Nilou
+
+Nilou's talent as a dancer is indisputable. Zubayr Theater really lucked out when they recruited her. I've heard that she has a great personality too — she always smiles and says encouraging things to her audience when she's performing. Once I can find some time, I'll have to catch one of her shows.
+
+### About Faruzan
+
+Madam Faruzan doesn't mince her words, so I can understand why some students at the Akademiya are afraid of her. She doesn't have any bad intentions, though — all she wants is to devote herself completely to the research that interests her. Some people say that all Haravatat scholars are hard to get along with, and uh... heh, I'll let you be the judge of that.
+I assume she's already asked you to be her student? She sure is a little intense when she's doing the hard sell, huh... But she can walk the walk too. She really does know her stuff.
+
+### More About Kaveh: I
+
+You heard that I've earned myself a little fame in Sumeru? Hahaha, don't believe everything you hear. They're exaggerating, trust me. It's easy enough to make a name for yourself in Sumeru if you stick around here long enough — honestly, I think managing to keep a low profile would be more of an achievement.
+I hope you didn't first hear about me because of my bankruptcy scandal, though. Hmph... If you're actually willing to hear me out, I could tell you about some of my more redeeming qualities, heh...
+
+### More About Kaveh: II
+
+You're not thinking about enrolling in the Akademiya, are you? ...Well, if you do sign up, from a pragmatic standpoint, I'd have to advise you to steer well clear of design. Don't get me wrong — it's a fascinating subject to study, but the work is... brutal. I spent some time working under one of my seniors after I first graduated, and they worked me to the bone every day... I was constantly being ordered around like a pack animal. I really don't know how I survived for as long as I did...
+
+### More About Kaveh: III
+
+While everyone's aesthetic preferences differ to a point, beauty is, on the whole, a pretty concrete concept. I do think it's possible to establish some basic objective aesthetic standards. It's possible to improve your aesthetic appreciation, too, although it takes a lot of time to get the experience. If you ever need any advice on that front, by the way, you're always welcome to come to me.
+
+### More About Kaveh: IV
+
+Some people think I like to stir up trouble, but they don't know what they're talking about. Anyone trying to make any sort of progress in life is inevitably gonna come into conflict with other people from time to time. You can't just ignore the situation because you don't wanna deal with it.
+
+### More About Kaveh: V
+
+I like to have a drink or two when I've got the time — it's a good way to de-stress. Hm? Oh, yeah, I mean, mostly just to pass the time, heh.
+Uh... Ahem, what's that look for...? Alright, alright! I admit it! Maybe I do drown my sorrows a little more often than I was letting on. It all gets a bit too much sometimes, what with the unfinished projects, obstacles that I can't overcome, misunderstandings with other people... Don't you struggle with those kinds of things as well?
+
+### Kaveh's Hobbies
+
+Music, architecture, sculpting, painting... All are worth taking the time to appreciate properly.
+I wouldn't say I'm an expert in all of them, but as long as I stay interested, maybe I can master them all one day. I mean, look — I already know how to play an instrument.
+
+### Kaveh's Troubles
+
+My troubles? ...Hmm, the most obvious one would be my financial situation.
+It's not that I can't make Mora, it's just that I can't seem to hold on to it. So many things in life require money, and if you're not careful, it just disappears... Don't worry about me, though — I'm a lot better than I used to be. I'll be more careful to live within my means in the future.
+
+### Favorite Food
+
+My favorites are alcohol, warm soup, and anything with cream or cheese in it. Oh, and I'll never say no to fresh fruit.
+
+### Least Favorite Food
+
+I can't deal with anything that's too hot or spicy. If I have to eat them, I leave them to cool first so I at least don't burn my tongue.
+
+### Receiving a Gift: I
+
+This is marvelous! Can you teach me how to make it?
+
+### Receiving a Gift: II
+
+I bet this'd go great with a glass of wine!
+
+### Receiving a Gift: III
+
+...Huh? Uh... It's hmm... Umm...
+
+### Birthday
+
+Is it your birthday today? Well, congratulations! Birthdays are important days, and it's also one of those days in the year that gets you thinking about your family. However you spend today, I hope it makes you happy.
+
+### Feelings About Ascension: Intro
+
+This'll do nicely... Thank you.
+
+### Feelings About Ascension: Building Up
+
+Hmm? Got any more where that came from?
+
+### Feelings About Ascension: Climax
+
+My horizons have been broadened... I hope I can hold on to this feeling.
+
+### Feelings About Ascension: Conclusion
+
+The more power I wield, the more things I can accomplish. Even if achieving my goals comes at a cost, and even if all my hopes and dreams are built on pain and suffering... I don't want to turn back now.
+
+### Elemental Skill: I
+
+Scanning!
+
+### Elemental Skill: II
+
+Come at me!
+
+### Elemental Skill: III
+
+Site clear!
+
+### Elemental Burst: I
+
+Watch and learn!
+
+### Elemental Burst: II
+
+Breaking new ground.
+
+### Elemental Burst: III
+
+Feast your eyes!
+
+### Opening Treasure Chest: I
+
+A new discovery!
+
+### Opening Treasure Chest: II
+
+What a lucky find! Bet that's made your day?
+
+### Opening Treasure Chest: III
+
+This is incredible! No, extraordinary!
+
+### Low HP: I
+
+How annoying!
+
+### Low HP: II
+
+That was your last chance.
+
+### Low HP: III
+
+Ugh... Shoo!
+
+### Ally at Low HP: I
+
+Leave this to me!
+
+### Ally at Low HP: II
+
+Get behind me.
+
+### Fallen: I
+
+So many things... I never accomplished...
+
+### Fallen: II
+
+Why...
+
+### Fallen: III
+
+Don't... crush my dreams...
+
+### Heavy Hit Taken: I
+
+Ugh, hey! Cut it out...
+
+### Heavy Hit Taken: II
+
+Huh! I've been through worse.
+
+### Joining Party: I
+
+Need a hand?
+
+### Joining Party: II
+
+I'll take care of this.
+
+### Joining Party: III
+
+Is that the client...? Wait... Oh! It's you.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+能像这样见面是件好事，眼光相近的人才能共同开启一段愉快的对话。
+初次见面，你好，我是建筑设计师卡维，有什么事需要我帮忙的话，请先详细说明你的需求。
+
+### 闲聊·美学
+
+懂得欣赏美是一种好的品德。
+
+### 闲聊·解闷
+
+人不能老是闷在家里，多出去走走吧。
+
+### 闲聊·完善
+
+上次的方案还能优化一下，趁没到截止日再改改好了…
+
+### 下雨的时候…
+
+欸？怎么下雨了？糟糕，没带伞…
+
+### 打雷的时候…
+
+你看到了吗？刚才那道闪电的形状好特别！
+
+### 下雪的时候…
+
+嘶…背后有点漏风的感觉…胸口也有…
+
+### 阳光很好…
+
+太阳晒久了就想睡觉，跟熬夜工作的感觉差不多，都是头晕。
+
+### 在沙漠的时候…
+
+不是第一次来了，可每次都这么热…唉，有没有阴凉的地方…
+
+### 早上好…
+
+睡得好吗？希望你今天顺利，别遇到那种一大早就能惹你生气的人。
+
+### 中午好…
+
+正午阳光好烈，我晒在外面的材料怎么样了…
+
+### 晚上好…
+
+今晚能看到许多星星呢，不觉得是个好兆头吗？
+
+### 晚安…
+
+放空大脑忘掉所有烦心事，晚安。
+
+### 关于卡维自己·专业
+
+谈到专业领域，我算是个骄傲的人。学者面对自己的专长大多如此，不如说，这是我们的根基。假如连这份骄傲都失去了，我就不可能再对自己和别人提出什么要求。
+
+### 关于卡维自己·艺术
+
+艺术性不是也不该是我工作的第一追求，质量和安全性才是。但我从未放弃它，它是将我区别于他人的根本。
+
+### 关于我们·欣赏
+
+你应该见过卡萨扎莱宫吧？那是我最得意的作品。我为它付出了很多，多到别人难以理解…哈哈，你们不是我，又不从事这个行业，无法理解也正常。唔…不过偶尔还是希望别人能理解一下。
+
+### 关于我们·理想
+
+看透一个人的理想才能真正触摸到他，我一直这么想。但理想、美梦这种东西…接触自己的或他人的都是在冒险，会开启某些可能。不是每个人都有能力面对那些。
+
+### 关于「神之眼」…
+
+可以的话，我不想把这句话说出口…拥有愿望有时是一件令人痛苦的事。幸好，我不讨厌我的「神之眼」。
+
+### 有什么想要分享…
+
+明白自己为什么而进行创造的人值得尊重。你应该也这么觉得吧？
+
+### 感兴趣的见闻…
+
+外行经常认为妙论派建筑设计师的专业领域就是土块、木材什么的，这种观点肤浅到没必要与之辩论。假如把各种材料拼在一起就叫造房子，那就是在否定这门学科的意义。建筑设计是人文的一环，也是艺术，艺术无法脱离人单独存在。使用者的感受，观看者的心境…我会考虑这些。啊对，怎么更好地融合艺术表达与人文需求也很重要。
+
+### 关于小吉祥草王…
+
+小吉祥草王是一位非常贤明的神，充满智慧，更拥有常人无法匹敌的美德。她能理解包容他人，在须弥这样的学术之国里，她的沉稳叫我钦佩。
+偶尔我会想，神明难道就毫无烦恼吗？智慧时常伴随困惑而生，那什么才算得上真正的幸福？
+
+### 关于艾尔海森·脾气
+
+谁都不可能从人群中找出第二个像他一样令人无语的家伙！这话就算他本人来了我也敢说。
+你也知道他很聪明，都说聪明人容易脾气差，这话算是对了一半吧，可他不一样…他完全清楚怎么表现得更符合大众定义的友好，只是不想。
+假如你觉得他脾气很好，或者觉得他死板教条像台机器，那说明你们还不够熟。他就是太有性格，普通人理解不了。
+
+### 关于艾尔海森·复杂
+
+艾尔海森帮了我一些忙，如果我们的关系还像学生时代那么好，我肯定会三天两头感谢他。现在嘛…说不出口，也不想就这么承认。
+该说是有好有坏吗？很多事就像命运的恶作剧…不是重来几次就能看清的。当然，能认识这样一个人也算难得，他要是能收起性格中比较恶劣的部分就更好了。好吧不可能。
+
+### 关于提纳里…
+
+提纳里啊，你见到他就会明白的，他是非常好的人，善良又渊博，而且从不将知识当成炫耀的资本。他是真心喜欢他的工作。
+建造卡萨扎莱宫那段时间我向他请教过挑选园艺花卉的办法，他回信给我，后来还帮我处理了一些别的问题。噢对，赛诺也是我通过他认识的。
+
+### 关于多莉…
+
+多莉是卡萨扎莱宫的主人…你说什么？废话，卡萨扎莱宫当然不是我的…别说了别说了！
+她很精明，懂得如何控制别人为自己办事。我…呃…我因为一些原因欠她钱，那件事很复杂…反、反正，还是希望她手下留情，别总是为钱的问题折腾我。她明明可以成为更善良的好人的啊，怎么会这样呢？
+
+### 关于赛诺…
+
+赛诺看似冷酷无情，其实很热心肠。记得当初提纳里说要给我介绍他最好的朋友，我一回头就看见一个气势惊人的风纪官走进门…真没想到，本来以为那种类型的风纪官不会跟学者走得太近。
+不过赛诺的冷笑话我受不了，冬天听到那些会汗毛倒竖。他约你一起去提纳里家吃饭的话，你最好多穿件外套。
+
+### 关于柯莱…
+
+我和柯莱见过不少次了，她一直跟在提纳里身边，既是助手也是学生。柯莱做事很认真，又有耐心，比同龄人可靠不少。
+嗯…不过能看出来，她的心事不少。
+
+### 关于妮露…
+
+妮露作为舞蹈家的实力毋容置疑，祖拜尔剧场能招到这样一位演员未免太走运了点。
+听说她性格也很好，跳舞时一直在笑，对每个观众都说鼓励的话。等有时间，我也会去看她的演出。
+
+### 关于珐露珊…
+
+珐露珊前辈心直口快，听说教令院有些学生怕她，能理解，不过她从来没有什么坏心思，就是一心扑在自己感兴趣的学问上。有人觉得知论派都难相处，这个嘛…哈哈。
+她应该也请你当她的学生了吧？的确，珐露珊前辈有时像个疯狂的推销员…学问倒都是真的，这点不会错。
+
+### 想要了解卡维·其一
+
+听说我在须弥小有名气？哈哈哈，都是大家随口说的，我自己觉得还好。在这里生活久了谁都有可能出名，保持低调才难。
+但愿你不是通过破产丑闻认识我的，哼。如果你想听，我也可以给你讲讲我的优点。
+
+### 想要了解卡维·其二
+
+你应该不会去教令院当学生吧？从务实的角度出发，我建议你就算要去也别选设计，设计很有意思，累也是真的累。刚毕业那会儿我在前辈手底下打工，每天做牛做马，被人使唤来使唤去，坚持了好久，差点把自己累死。
+
+### 想要了解卡维·其三
+
+人的审美很难统一，但美是一种相对具体的概念，我认为美学之中存在基础标准。审美本身也不是不能提升，就是费时，需要大量积累。你需要这方面参考的话，可以来找我。
+
+### 想要了解卡维·其四
+
+有人说我经常惹麻烦，这算什么话？只要一个人还在前进，难免会跟其他人事物发生摩擦，不能因为怕麻烦就对很多事视而不见。
+
+### 想要了解卡维·其五
+
+休息时我会去喝酒，酒能冲淡烦恼。嗯？噢，是啊，只是为了打发时间。
+呃…咳！别这么看着我…好吧好吧我承认我就是有很多烦恼！没做完的工作，解决不了的困难，人和人的隔阂…难道你不会考虑这些吗？
+
+### 卡维的爱好…
+
+音乐，建筑，雕塑，绘画艺术，都是值得花时间欣赏的东西。
+不敢说我都会，但有了兴趣，以后说不定能全部精通的吧。你看，至少我会弹琴。
+
+### 卡维的烦恼…
+
+烦恼啊…唔，最直观的烦恼还是经济问题。
+我不是赚不到钱，而是留不住钱。生活中有太多可能用到钱的场合了，一不小心就…不过别担心，我比以前好多了，会提高警惕避免陷入困境。
+
+### 喜欢的食物…
+
+酒、热汤、有奶油和奶酪的菜肴，这些我都喜欢。还有新鲜水果也不错。
+
+### 讨厌的食物…
+
+太辣太烫的东西很难入口，我不行，至少也要等放凉了才能吃。
+
+### 收到赠礼·其一
+
+真不错！能教教我怎么做吗？
+
+### 收到赠礼·其二
+
+拿来下酒不错哦。
+
+### 收到赠礼·其三
+
+…嗯？唔…呃…呃…
+
+### 生日…
+
+今天是你生日吗？恭喜你，生日是很重要的日子，也是一年之中最容易想起家人的日子。希望你能在这天有好心情。
+
+### 突破的感受·起
+
+感觉不错，谢谢。
+
+### 突破的感受·承
+
+嗯？还能再来一次吗？
+
+### 突破的感受·转
+
+视野变得更开阔了…我想把这份感觉延续下去。
+
+### 突破的感受·合
+
+拥有的力量越多，能做到的事就更多。哪怕完成这些事需要代价，哪怕理想从来都建立在痛苦之上，我也…不想后退。
+
+### 元素战技·其一
+
+扫描！
+
+### 元素战技·其二
+
+来吧！
+
+### 元素战技·其三
+
+障碍清除！
+
+### 元素爆发·其一
+
+看好了！
+
+### 元素爆发·其二
+
+工程开始。
+
+### 元素爆发·其三
+
+万众瞩目！
+
+### 打开宝箱·其一
+
+新发现！
+
+### 打开宝箱·其二
+
+捡到好东西了，很开心吧？
+
+### 打开宝箱·其三
+
+该说是意外之喜还是超乎想象…
+
+### 生命值低·其一
+
+真是麻烦！
+
+### 生命值低·其二
+
+没有下一次了。
+
+### 生命值低·其三
+
+唔…走开！
+
+### 同伴生命值低·其一
+
+这里交给我！
+
+### 同伴生命值低·其二
+
+到后面去。
+
+### 倒下·其一
+
+还有…没完成的事…
+
+### 倒下·其二
+
+为什么…
+
+### 倒下·其三
+
+不许…践踏我的理想…
+
+### 重受击·其一
+
+呜！别这样…
+
+### 重受击·其二
+
+咳！没什么的。
+
+### 加入队伍·其一
+
+需要帮忙？
+
+### 加入队伍·其二
+
+放着我来好了。
+
+### 加入队伍·其三
+
+是甲方吗？还是…哦！不是啊。

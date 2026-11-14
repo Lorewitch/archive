@@ -3404,6 +3404,657 @@
     "search_text": "маски хиличурлов hilichurl masks 丘丘人的面具 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops обычные противники hilichurl hilichurl_fighter hilichurl_berserker wooden_shield_hilichurl_guard ice_shield_hilichurl_guard rock_shield_hilichurl_guard hilichurl_shooter pyro_hilichurl_shooter electro_hilichurl_shooter cryo_hilichurl_shooter hilichurl_grenadier electro_hilichurl_grenadier cryo_hilichurl_grenadier wooden_shieldwall_mitachurl rock_shieldwall_mitachurl ice_shieldwall_mitachurl blazing_axe_mitachurl crackling_axe_mitachurl thunderhelm_lawachurl frostarm_lawachurl stonehide_lawachurl anemo_samachurl electro_samachurl dendro_samachurl hydro_samachurl geo_samachurl cryo_samachurl хиличурл 丘丘人 хиличурл-боец hilichurl fighter 打手丘丘人 хиличурл-берсерк hilichurl berserker 冲锋丘丘人 хиличурл с деревянным щитом wooden shield hilichurl guard 木盾丘丘人 хиличурл с ледяным щитом ice shield hilichurl guard 冰盾丘丘人 хиличурл с каменным щитом rock shield hilichurl guard 岩盾丘丘人 хиличурл-стрелок hilichurl shooter 射手丘丘人 пиро хиличурл-стрелок pyro hilichurl shooter 火箭丘丘人 электро хиличурл-стрелок electro hilichurl shooter 雷箭丘丘人 крио хиличурл-стрелок cryo hilichurl shooter 冰箭丘丘人 хиличурл-гренадёр hilichurl grenadier 爆弹丘丘人 электро хиличурл-гренадёр electro hilichurl grenadier 雷弹丘丘人 крио хиличурл-гренадёр cryo hilichurl grenadier 冰弹丘丘人 митачурл с деревянным щитом wooden shieldwall mitachurl 木盾丘丘暴徒 митачурл с каменным щитом rock shieldwall mitachurl 岩盾丘丘暴徒 митачурл с ледяным щитом ice shieldwall mitachurl 冰盾丘丘暴徒 митачурл с огненным топором blazing axe mitachurl 火斧丘丘暴徒 митачурл с электрическим топором crackling axe mitachurl 雷斧丘丘暴徒 лавачурл с громовым шлемом thunderhelm lawachurl 丘丘雷兜王 лавачурл с инеевым панцирем frostarm lawachurl 丘丘霜铠王 лавачурл с каменным панцирем stonehide lawachurl 丘丘岩盔王 анемо шамачурл anemo samachurl 风丘丘萨满 электро шамачурл electro samachurl 雷丘丘萨满 дендро шамачурл dendro samachurl 草丘丘萨满 гидро шамачурл hydro samachurl 水丘丘萨满 гео шамачурл geo samachurl 岩丘丘萨满 крио шамачурл cryo samachurl 冰丘丘萨满 damaged_mask stained_mask ominous_mask разбитая маска damaged mask 破损的面具 грязная маска stained mask 污秽的面具 зловещая маска ominous mask 不祥的面具"
   },
   {
+    "id": "material_set_112143",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112143.webp",
+    "title": {
+      "ru": "Повреждённое лунное железо / Угасшее лунное железо / Безупречное лунное железо",
+      "en": "Fractured Lunar Iron / Depleted Lunar Iron / Unblemished Lunar Iron",
+      "zh": "残损的月铁 / 空竭的月铁 / 无秽的月铁"
+    },
+    "region": "Луна",
+    "game_version": "6.7",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112143",
+        "title": {
+          "ru": "Повреждённое лунное железо",
+          "en": "Fractured Lunar Iron",
+          "zh": "残损的月铁"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112143.webp"
+      },
+      {
+        "key": "material_112144",
+        "title": {
+          "ru": "Угасшее лунное железо",
+          "en": "Depleted Lunar Iron",
+          "zh": "空竭的月铁"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112144.webp"
+      },
+      {
+        "key": "material_112145",
+        "title": {
+          "ru": "Безупречное лунное железо",
+          "en": "Unblemished Lunar Iron",
+          "zh": "无秽的月铁"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112145.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "precursor_s_secret_source_matrix_of_overseer_network"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "precursor_s_secret_source_matrix_of_overseer_network",
+        "title": {
+          "ru": "Предтечная секретная система матрицы оператора наблюдения",
+          "en": "Precursor's Secret Source Matrix of Overseer Network",
+          "zh": "先驱秘源统辖阵列"
+        },
+        "icon": "assets/icons/enemies/common_enemies/precursor_s_secret_source_matrix_of_overseer_network.webp",
+        "enemy_group": "automatons"
+      }
+    ],
+    "dropped_by_count": 1,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Луна"
+    ],
+    "filter_type": "",
+    "sort_version": 6007000,
+    "search_text": "повреждённое лунное железо / угасшее лунное железо / безупречное лунное железо fractured lunar iron / depleted lunar iron / unblemished lunar iron 残损的月铁 / 空竭的月铁 / 无秽的月铁 луна 6.7 common_enemies material_set материалы precursor_s_secret_source_matrix_of_overseer_network предтечная секретная система матрицы оператора наблюдения precursor's secret source matrix of overseer network 先驱秘源统辖阵列 material_112143 material_112144 material_112145 повреждённое лунное железо fractured lunar iron 残损的月铁 угасшее лунное железо depleted lunar iron 空竭的月铁 безупречное лунное железо unblemished lunar iron 无秽的月铁"
+  },
+  {
+    "id": "material_set_112146",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112146.webp",
+    "title": {
+      "ru": "Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя",
+      "en": "Ethereal Glimmershard / Ethereal Crystal / Ethereal Crystalscale Stone",
+      "zh": "幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112146",
+        "title": {
+          "ru": "Осколок эфирного сияния",
+          "en": "Ethereal Glimmershard",
+          "zh": "幻造萤屑"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112146.webp"
+      },
+      {
+        "key": "material_112147",
+        "title": {
+          "ru": "Эфирный кристалл",
+          "en": "Ethereal Crystal",
+          "zh": "幻造裂晶"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112147.webp"
+      },
+      {
+        "key": "material_112148",
+        "title": {
+          "ru": "Эфирная кристальная чешуя",
+          "en": "Ethereal Crystalscale Stone",
+          "zh": "幻造晶鳞石"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112148.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "glacial_warden",
+      "glaciomancer",
+      "winged_halberd_knight",
+      "winged_soarer_knight"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "glacial_warden",
+        "title": {
+          "ru": "Стражник льдов",
+          "en": "Glacial Warden",
+          "zh": "凝冰戍卫"
+        },
+        "icon": "assets/icons/enemies/common_enemies/glacial_warden.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "glaciomancer",
+        "title": {
+          "ru": "Колдун льдов",
+          "en": "Glaciomancer",
+          "zh": "凝冰秘法师"
+        },
+        "icon": "assets/icons/enemies/common_enemies/glaciomancer.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "winged_halberd_knight",
+        "title": {
+          "ru": "Крылатый рыцарь с алебардой",
+          "en": "Winged Halberd-Knight",
+          "zh": "持戟羽骑士"
+        },
+        "icon": "assets/icons/enemies/common_enemies/winged_halberd_knight.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "winged_soarer_knight",
+        "title": {
+          "ru": "Крылатый парящий рыцарь",
+          "en": "Winged Soarer Knight",
+          "zh": "舞空羽骑士"
+        },
+        "icon": "assets/icons/enemies/common_enemies/winged_soarer_knight.webp",
+        "enemy_group": "mystical_beasts"
+      }
+    ],
+    "dropped_by_count": 4,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "осколок эфирного сияния / эфирный кристалл / эфирная кристальная чешуя ethereal glimmershard / ethereal crystal / ethereal crystalscale stone 幻造萤屑 / 幻造裂晶 / 幻造晶鳞石 снежная 7.0 common_enemies material_set материалы glacial_warden glaciomancer winged_halberd_knight winged_soarer_knight стражник льдов glacial warden 凝冰戍卫 колдун льдов 凝冰秘法师 крылатый рыцарь с алебардой winged halberd-knight 持戟羽骑士 крылатый парящий рыцарь winged soarer knight 舞空羽骑士 material_112146 material_112147 material_112148 осколок эфирного сияния ethereal glimmershard 幻造萤屑 эфирный кристалл ethereal crystal 幻造裂晶 эфирная кристальная чешуя ethereal crystalscale stone 幻造晶鳞石"
+  },
+  {
+    "id": "material_set_112149",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112149.webp",
+    "title": {
+      "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+      "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+      "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112149",
+        "title": {
+          "ru": "Ядро химеры",
+          "en": "Chimeric Core",
+          "zh": "嵌合种"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112149.webp"
+      },
+      {
+        "key": "material_112150",
+        "title": {
+          "ru": "Симбиотическое ядро химеры",
+          "en": "Symbiotic Chimeric Nucleus",
+          "zh": "并生嵌合胞"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112150.webp"
+      },
+      {
+        "key": "material_112151",
+        "title": {
+          "ru": "Сердцевина химеры",
+          "en": "Prime Chimeric Nexus",
+          "zh": "源生嵌合体"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112151.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "chimeric_armored_beast",
+      "chimeric_burrowbeast",
+      "chimeric_horned_bear",
+      "chimeric_winged_elephant"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "chimeric_armored_beast",
+        "title": {
+          "ru": "Бронешлемовый зверь",
+          "en": "Chimeric Armored Beast",
+          "zh": "嵌合鍪甲兽"
+        },
+        "icon": "assets/icons/enemies/common_enemies/chimeric_armored_beast.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "chimeric_burrowbeast",
+        "title": {
+          "ru": "Химера-землерой",
+          "en": "Chimeric Burrowbeast",
+          "zh": "嵌合梭地兽"
+        },
+        "icon": "assets/icons/enemies/common_enemies/chimeric_burrowbeast.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "chimeric_horned_bear",
+        "title": {
+          "ru": "Рогатая химера-медведь",
+          "en": "Chimeric Horned Bear",
+          "zh": "嵌合角熊"
+        },
+        "icon": "assets/icons/enemies/common_enemies/chimeric_horned_bear.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "chimeric_winged_elephant",
+        "title": {
+          "ru": "Крылатая химера-слон",
+          "en": "Chimeric Winged Elephant",
+          "zh": "嵌合翼象兽"
+        },
+        "icon": "assets/icons/enemies/common_enemies/chimeric_winged_elephant.webp",
+        "enemy_group": "mystical_beasts"
+      }
+    ],
+    "dropped_by_count": 4,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "ядро химеры / симбиотическое ядро химеры / сердцевина химеры chimeric core / symbiotic chimeric nucleus / prime chimeric nexus 嵌合种 / 并生嵌合胞 / 源生嵌合体 снежная 7.0 common_enemies material_set материалы chimeric_armored_beast chimeric_burrowbeast chimeric_horned_bear chimeric_winged_elephant бронешлемовый зверь chimeric armored beast 嵌合鍪甲兽 химера-землерой chimeric burrowbeast 嵌合梭地兽 рогатая химера-медведь chimeric horned bear 嵌合角熊 крылатая химера-слон chimeric winged elephant 嵌合翼象兽 material_112149 material_112150 material_112151 ядро химеры chimeric core 嵌合种 симбиотическое ядро химеры symbiotic chimeric nucleus 并生嵌合胞 сердцевина химеры prime chimeric nexus 源生嵌合体"
+  },
+  {
+    "id": "material_set_112152",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112152.webp",
+    "title": {
+      "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+      "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+      "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112152",
+        "title": {
+          "ru": "Наросший осколок",
+          "en": "Accreted Fragment",
+          "zh": "沉积残片"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112152.webp"
+      },
+      {
+        "key": "material_112153",
+        "title": {
+          "ru": "Осадочный сгусток",
+          "en": "Accreted Mass",
+          "zh": "沉积结块"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112153.webp"
+      },
+      {
+        "key": "material_112154",
+        "title": {
+          "ru": "Осадочный нарост",
+          "en": "Accreted Growth",
+          "zh": "沉积增生物"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112154.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "channel_contact",
+      "fanged_zealot",
+      "leomastiff_guard",
+      "long_eared_striker",
+      "volkodlak_basher",
+      "volkodlak_lobber",
+      "volkodlak_raider",
+      "volkodlak_sharpshooter",
+      "voywolf_hunter"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "channel_contact",
+        "title": {
+          "ru": "Связной канала",
+          "en": "Channel Contact",
+          "zh": "渠道联络人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/channel_contact.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "fanged_zealot",
+        "title": {
+          "ru": "Безумец с бивнями",
+          "en": "Fanged Zealot",
+          "zh": "牙兽狂徒"
+        },
+        "icon": "assets/icons/enemies/common_enemies/fanged_zealot.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "leomastiff_guard",
+        "title": {
+          "ru": "Левмастиф-страж",
+          "en": "Leomastiff Guard",
+          "zh": "狮獒护卫"
+        },
+        "icon": "assets/icons/enemies/common_enemies/leomastiff_guard.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "long_eared_striker",
+        "title": {
+          "ru": "Длинноухий штурмовик",
+          "en": "Long-Eared Striker",
+          "zh": "长耳强袭者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/long_eared_striker.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "volkodlak_basher",
+        "title": {
+          "ru": "Волкодлак-громила",
+          "en": "Volkodlak Basher",
+          "zh": "兽怪敲打者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/volkodlak_basher.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "volkodlak_lobber",
+        "title": {
+          "ru": "Волкодлак-метатель",
+          "en": "Volkodlak Lobber",
+          "zh": "兽怪投掷者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/volkodlak_lobber.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "volkodlak_raider",
+        "title": {
+          "ru": "Волкодлак-налётчик",
+          "en": "Volkodlak Raider",
+          "zh": "兽怪捷掠者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/volkodlak_raider.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "volkodlak_sharpshooter",
+        "title": {
+          "ru": "Волкодлак-снайпер",
+          "en": "Volkodlak Sharpshooter",
+          "zh": "兽怪瞄击者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/volkodlak_sharpshooter.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "voywolf_hunter",
+        "title": {
+          "ru": "Ловчий воющих волков",
+          "en": "Voywolf Hunter",
+          "zh": "嗥狼追猎者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/voywolf_hunter.webp",
+        "enemy_group": "mystical_beasts"
+      }
+    ],
+    "dropped_by_count": 9,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物 снежная 7.0 common_enemies material_set материалы channel_contact fanged_zealot leomastiff_guard long_eared_striker volkodlak_basher volkodlak_lobber volkodlak_raider volkodlak_sharpshooter voywolf_hunter связной канала channel contact 渠道联络人 безумец с бивнями fanged zealot 牙兽狂徒 левмастиф-страж leomastiff guard 狮獒护卫 длинноухий штурмовик long-eared striker 长耳强袭者 волкодлак-громила volkodlak basher 兽怪敲打者 волкодлак-метатель volkodlak lobber 兽怪投掷者 волкодлак-налётчик volkodlak raider 兽怪捷掠者 волкодлак-снайпер volkodlak sharpshooter 兽怪瞄击者 ловчий воющих волков voywolf hunter 嗥狼追猎者 material_112152 material_112153 material_112154 наросший осколок accreted fragment 沉积残片 осадочный сгусток accreted mass 沉积结块 осадочный нарост accreted growth 沉积增生物"
+  },
+  {
+    "id": "material_set_112155",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112155.webp",
+    "title": {
+      "ru": "Опустевший корень жизни / Росток узла жизни / Свернувшееся ядро жизни",
+      "en": "Hollow Root of Life / Sprout Node of Life / Coiled Core of Life",
+      "zh": "灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112155",
+        "title": {
+          "ru": "Опустевший корень жизни",
+          "en": "Hollow Root of Life",
+          "zh": "灵生空根"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112155.webp"
+      },
+      {
+        "key": "material_112156",
+        "title": {
+          "ru": "Росток узла жизни",
+          "en": "Sprout Node of Life",
+          "zh": "灵生分蘖节"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112156.webp"
+      },
+      {
+        "key": "material_112157",
+        "title": {
+          "ru": "Свернувшееся ядро жизни",
+          "en": "Coiled Core of Life",
+          "zh": "灵生盘枝心"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112157.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "juvenile_tree_segment",
+      "rugged_elder_leshy"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "juvenile_tree_segment",
+        "title": {
+          "ru": "Часть молодого дерева",
+          "en": "Juvenile Tree Segment",
+          "zh": "幼嫩的分节树"
+        },
+        "icon": "assets/icons/enemies/common_enemies/juvenile_tree_segment.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "rugged_elder_leshy",
+        "title": {
+          "ru": "Суровый леший-старейшина",
+          "en": "Rugged Elder Leshy",
+          "zh": "苍遒的木灵长"
+        },
+        "icon": "assets/icons/enemies/common_enemies/rugged_elder_leshy.webp",
+        "enemy_group": "mystical_beasts"
+      }
+    ],
+    "dropped_by_count": 2,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "опустевший корень жизни / росток узла жизни / свернувшееся ядро жизни hollow root of life / sprout node of life / coiled core of life 灵生空根 / 灵生分蘖节 / 灵生盘枝心 снежная 7.0 common_enemies material_set материалы juvenile_tree_segment rugged_elder_leshy часть молодого дерева juvenile tree segment 幼嫩的分节树 суровый леший-старейшина rugged elder leshy 苍遒的木灵长 material_112155 material_112156 material_112157 опустевший корень жизни hollow root of life 灵生空根 росток узла жизни sprout node of life 灵生分蘖节 свернувшееся ядро жизни coiled core of life 灵生盘枝心"
+  },
+  {
+    "id": "material_set_112158",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112158.webp",
+    "title": {
+      "ru": "Осколок снежного сердца / Снежное зеркальное сердце / Снежное сердце неведения",
+      "en": "Snowborn Heartshard / Snowborn Mirrorheart / Snowborn Heart of Ignorance",
+      "zh": "雪结片心 / 雪结镜心 / 雪结无明心"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112158",
+        "title": {
+          "ru": "Осколок снежного сердца",
+          "en": "Snowborn Heartshard",
+          "zh": "雪结片心"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112158.webp"
+      },
+      {
+        "key": "material_112159",
+        "title": {
+          "ru": "Снежное зеркальное сердце",
+          "en": "Snowborn Mirrorheart",
+          "zh": "雪结镜心"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112159.webp"
+      },
+      {
+        "key": "material_112160",
+        "title": {
+          "ru": "Снежное сердце неведения",
+          "en": "Snowborn Heart of Ignorance",
+          "zh": "雪结无明心"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112160.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "icebound_reflection"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "icebound_reflection",
+        "title": {
+          "ru": "Ледяное отражение",
+          "en": "Icebound Reflection",
+          "zh": "冰结镜映体"
+        },
+        "icon": "assets/icons/enemies/common_enemies/icebound_reflection.webp",
+        "enemy_group": "elementals"
+      }
+    ],
+    "dropped_by_count": 1,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7002000,
+    "search_text": "осколок снежного сердца / снежное зеркальное сердце / снежное сердце неведения snowborn heartshard / snowborn mirrorheart / snowborn heart of ignorance 雪结片心 / 雪结镜心 / 雪结无明心 снежная 7.2 common_enemies material_set материалы icebound_reflection ледяное отражение icebound reflection 冰结镜映体 material_112158 material_112159 material_112160 осколок снежного сердца snowborn heartshard 雪结片心 снежное зеркальное сердце snowborn mirrorheart 雪结镜心 снежное сердце неведения snowborn heart of ignorance 雪结无明心"
+  },
+  {
     "id": "mirror_maiden_prisms",
     "category": "items",
     "icon": "assets/icons/items/common_enemies/dismal_prism.webp",
@@ -8288,6 +8939,46 @@
     "search_text": "учения об «остроумии» / указания об «остроумии» / философия об «остроумии» ingenuity talent books 「巧思」的教导 / 「巧思」的指引 / 「巧思」的哲学 сумеру 3.0 development_materials material_set talents таланты 天赋 ingenuity материалы развития teachings_of_ingenuity guide_to_ingenuity philosophies_of_ingenuity учения об «остроумии» teachings of ingenuity 「巧思」的教导 указания об «остроумии» guide to ingenuity 「巧思」的指引 философия об «остроумии» philosophies of ingenuity 「巧思」的哲学"
   },
   {
+    "id": "item_200129",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_200129.webp",
+    "title": {
+      "ru": "Кисточка с ароматом чая",
+      "en": "Tea-Scented Tassel",
+      "zh": "青翦垂缨"
+    },
+    "region": "Снежная",
+    "game_version": "7.1",
+    "item_group": "development_materials",
+    "entry_type": "item",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "weapon_ascension",
+    "material_type_title": {
+      "ru": "Возвышение оружия",
+      "en": "Weapon Ascension",
+      "zh": "武器突破"
+    },
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "weapon_ascension",
+    "sort_version": 7001000,
+    "search_text": "кисточка с ароматом чая tea-scented tassel 青翦垂缨 снежная 4 7.1 development_materials item weapon_ascension возвышение оружия weapon ascension 武器突破"
+  },
+  {
     "id": "justice_talent_books",
     "category": "items",
     "icon": "assets/icons/items/development_materials/teachings_of_justice.webp",
@@ -8583,6 +9274,453 @@
     "filter_type": "weapon_ascension",
     "sort_version": 2000000,
     "search_text": "маска злого военачальника / маска тигриной пасти / маска однорогого / маска кидзин mask of the weapon ascension materials 今昔剧画之恶尉 / 今昔剧画之虎啮 / 今昔剧画之一角 / 今昔剧画之鬼人 инадзума 2.0 development_materials material_set weapon_ascension возвышение оружия weapon ascension 武器突破 mask of the материалы развития mask_of_the_wicked_lieutenant mask_of_the_tigers_bite mask_of_the_one_horned mask_of_the_kijin маска злого военачальника mask of the wicked lieutenant 今昔剧画之恶尉 маска тигриной пасти mask of the tiger's bite 今昔剧画之虎啮 маска однорогого mask of the one-horned 今昔剧画之一角 маска кидзин mask of the kijin 今昔剧画之鬼人"
+  },
+  {
+    "id": "material_set_104365",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_104365.webp",
+    "title": {
+      "ru": "Учения о «Милосердии» / Указания о «Милосердии» / Философия о «Милосердии»",
+      "en": "Teachings of Charity / Guide to Charity / Philosophies of Charity",
+      "zh": "「慈爱」的教导 / 「慈爱」的指引 / 「慈爱」的哲学"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "talents",
+    "material_type_title": {
+      "ru": "Таланты",
+      "en": "Talents",
+      "zh": "天赋"
+    },
+    "materials": [
+      {
+        "key": "material_104365",
+        "title": {
+          "ru": "Учения о «Милосердии»",
+          "en": "Teachings of Charity",
+          "zh": "「慈爱」的教导"
+        },
+        "icon": "assets/icons/items/development_materials/item_104365.webp"
+      },
+      {
+        "key": "material_104366",
+        "title": {
+          "ru": "Указания о «Милосердии»",
+          "en": "Guide to Charity",
+          "zh": "「慈爱」的指引"
+        },
+        "icon": "assets/icons/items/development_materials/item_104366.webp"
+      },
+      {
+        "key": "material_104367",
+        "title": {
+          "ru": "Философия о «Милосердии»",
+          "en": "Philosophies of Charity",
+          "zh": "「慈爱」的哲学"
+        },
+        "icon": "assets/icons/items/development_materials/item_104367.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "talents",
+    "sort_version": 7000000,
+    "search_text": "учения о «милосердии» / указания о «милосердии» / философия о «милосердии» teachings of charity / guide to charity / philosophies of charity 「慈爱」的教导 / 「慈爱」的指引 / 「慈爱」的哲学 снежная 7.0 development_materials material_set talents таланты 天赋 материалы material_104365 material_104366 material_104367 учения о «милосердии» teachings of charity 「慈爱」的教导 указания о «милосердии» guide to charity 「慈爱」的指引 философия о «милосердии» philosophies of charity 「慈爱」的哲学"
+  },
+  {
+    "id": "material_set_104368",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_104368.webp",
+    "title": {
+      "ru": "Учения о «Стойкости» / Указания о «Стойкости» / Философия о «Стойкости»",
+      "en": "Teachings of Fortitude / Guide to Fortitude / Philosophies of Fortitude",
+      "zh": "「坚忍」的教导 / 「坚忍」的指引 / 「坚忍」的哲学"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "talents",
+    "material_type_title": {
+      "ru": "Таланты",
+      "en": "Talents",
+      "zh": "天赋"
+    },
+    "materials": [
+      {
+        "key": "material_104368",
+        "title": {
+          "ru": "Учения о «Стойкости»",
+          "en": "Teachings of Fortitude",
+          "zh": "「坚忍」的教导"
+        },
+        "icon": "assets/icons/items/development_materials/item_104368.webp"
+      },
+      {
+        "key": "material_104369",
+        "title": {
+          "ru": "Указания о «Стойкости»",
+          "en": "Guide to Fortitude",
+          "zh": "「坚忍」的指引"
+        },
+        "icon": "assets/icons/items/development_materials/item_104369.webp"
+      },
+      {
+        "key": "material_104370",
+        "title": {
+          "ru": "Философия о «Стойкости»",
+          "en": "Philosophies of Fortitude",
+          "zh": "「坚忍」的哲学"
+        },
+        "icon": "assets/icons/items/development_materials/item_104370.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "talents",
+    "sort_version": 7000000,
+    "search_text": "учения о «стойкости» / указания о «стойкости» / философия о «стойкости» teachings of fortitude / guide to fortitude / philosophies of fortitude 「坚忍」的教导 / 「坚忍」的指引 / 「坚忍」的哲学 снежная 7.0 development_materials material_set talents таланты 天赋 материалы material_104368 material_104369 material_104370 учения о «стойкости» teachings of fortitude 「坚忍」的教导 указания о «стойкости» guide to fortitude 「坚忍」的指引 философия о «стойкости» philosophies of fortitude 「坚忍」的哲学"
+  },
+  {
+    "id": "material_set_104371",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_104371.webp",
+    "title": {
+      "ru": "Учения о «Славе» / Указания о «Славе» / Философия о «Славе»",
+      "en": "Teachings of Glory / Guide to Glory / Philosophies of Glory",
+      "zh": "「荣光」的教导 / 「荣光」的指引 / 「荣光」的哲学"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "talents",
+    "material_type_title": {
+      "ru": "Таланты",
+      "en": "Talents",
+      "zh": "天赋"
+    },
+    "materials": [
+      {
+        "key": "material_104371",
+        "title": {
+          "ru": "Учения о «Славе»",
+          "en": "Teachings of Glory",
+          "zh": "「荣光」的教导"
+        },
+        "icon": "assets/icons/items/development_materials/item_104371.webp"
+      },
+      {
+        "key": "material_104372",
+        "title": {
+          "ru": "Указания о «Славе»",
+          "en": "Guide to Glory",
+          "zh": "「荣光」的指引"
+        },
+        "icon": "assets/icons/items/development_materials/item_104372.webp"
+      },
+      {
+        "key": "material_104373",
+        "title": {
+          "ru": "Философия о «Славе»",
+          "en": "Philosophies of Glory",
+          "zh": "「荣光」的哲学"
+        },
+        "icon": "assets/icons/items/development_materials/item_104373.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "talents",
+    "sort_version": 7000000,
+    "search_text": "учения о «славе» / указания о «славе» / философия о «славе» teachings of glory / guide to glory / philosophies of glory 「荣光」的教导 / 「荣光」的指引 / 「荣光」的哲学 снежная 7.0 development_materials material_set talents таланты 天赋 материалы material_104371 material_104372 material_104373 учения о «славе» teachings of glory 「荣光」的教导 указания о «славе» guide to glory 「荣光」的指引 философия о «славе» philosophies of glory 「荣光」的哲学"
+  },
+  {
+    "id": "material_set_114085",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_114085.webp",
+    "title": {
+      "ru": "Восхождение армии Бледной звезды / Сбор армии Бледной звезды / Боевой клич армии Бледной звезды / Триумф армии Бледной звезды",
+      "en": "Rise of the Pale Star Army / Muster of the Pale Star Army / Clarion of the Pale Star Army / Triumph of the Pale Star Army",
+      "zh": "苍星军势的始动 / 苍星军势的集结 / 苍星军势的鸣令 / 苍星军势的征服"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "weapon_ascension",
+    "material_type_title": {
+      "ru": "Возвышение оружия",
+      "en": "Weapon Ascension",
+      "zh": "武器突破"
+    },
+    "materials": [
+      {
+        "key": "material_114085",
+        "title": {
+          "ru": "Восхождение армии Бледной звезды",
+          "en": "Rise of the Pale Star Army",
+          "zh": "苍星军势的始动"
+        },
+        "icon": "assets/icons/items/development_materials/item_114085.webp"
+      },
+      {
+        "key": "material_114086",
+        "title": {
+          "ru": "Сбор армии Бледной звезды",
+          "en": "Muster of the Pale Star Army",
+          "zh": "苍星军势的集结"
+        },
+        "icon": "assets/icons/items/development_materials/item_114086.webp"
+      },
+      {
+        "key": "material_114087",
+        "title": {
+          "ru": "Боевой клич армии Бледной звезды",
+          "en": "Clarion of the Pale Star Army",
+          "zh": "苍星军势的鸣令"
+        },
+        "icon": "assets/icons/items/development_materials/item_114087.webp"
+      },
+      {
+        "key": "material_114088",
+        "title": {
+          "ru": "Триумф армии Бледной звезды",
+          "en": "Triumph of the Pale Star Army",
+          "zh": "苍星军势的征服"
+        },
+        "icon": "assets/icons/items/development_materials/item_114088.webp"
+      }
+    ],
+    "material_count": 4,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "weapon_ascension",
+    "sort_version": 7000000,
+    "search_text": "восхождение армии бледной звезды / сбор армии бледной звезды / боевой клич армии бледной звезды / триумф армии бледной звезды rise of the pale star army / muster of the pale star army / clarion of the pale star army / triumph of the pale star army 苍星军势的始动 / 苍星军势的集结 / 苍星军势的鸣令 / 苍星军势的征服 снежная 7.0 development_materials material_set weapon_ascension возвышение оружия weapon ascension 武器突破 материалы material_114085 material_114086 material_114087 material_114088 восхождение армии бледной звезды rise of the pale star army 苍星军势的始动 сбор армии бледной звезды muster of the pale star army 苍星军势的集结 боевой клич армии бледной звезды clarion of the pale star army 苍星军势的鸣令 триумф армии бледной звезды triumph of the pale star army 苍星军势的征服"
+  },
+  {
+    "id": "material_set_114089",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_114089.webp",
+    "title": {
+      "ru": "Порция выдержанного духовного нектара / Хмель выдержанного духовного нектара / Упоение выдержанным духовным нектаром / Пир выдержанного духовного нектара",
+      "en": "Measured Pour of the Cellared Spiritual Nectar / Intoxication of the Cellared Spiritual Nectar / Exhilaration of the Cellared Spiritual Nectar / Revelry of the Cellared Spiritual Nectar",
+      "zh": "藏窖灵浆的斟酌 / 藏窖灵浆的酩酊 / 藏窖灵浆的酣畅 / 藏窖灵浆的恣意"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "weapon_ascension",
+    "material_type_title": {
+      "ru": "Возвышение оружия",
+      "en": "Weapon Ascension",
+      "zh": "武器突破"
+    },
+    "materials": [
+      {
+        "key": "material_114089",
+        "title": {
+          "ru": "Порция выдержанного духовного нектара",
+          "en": "Measured Pour of the Cellared Spiritual Nectar",
+          "zh": "藏窖灵浆的斟酌"
+        },
+        "icon": "assets/icons/items/development_materials/item_114089.webp"
+      },
+      {
+        "key": "material_114090",
+        "title": {
+          "ru": "Хмель выдержанного духовного нектара",
+          "en": "Intoxication of the Cellared Spiritual Nectar",
+          "zh": "藏窖灵浆的酩酊"
+        },
+        "icon": "assets/icons/items/development_materials/item_114090.webp"
+      },
+      {
+        "key": "material_114091",
+        "title": {
+          "ru": "Упоение выдержанным духовным нектаром",
+          "en": "Exhilaration of the Cellared Spiritual Nectar",
+          "zh": "藏窖灵浆的酣畅"
+        },
+        "icon": "assets/icons/items/development_materials/item_114091.webp"
+      },
+      {
+        "key": "material_114092",
+        "title": {
+          "ru": "Пир выдержанного духовного нектара",
+          "en": "Revelry of the Cellared Spiritual Nectar",
+          "zh": "藏窖灵浆的恣意"
+        },
+        "icon": "assets/icons/items/development_materials/item_114092.webp"
+      }
+    ],
+    "material_count": 4,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "weapon_ascension",
+    "sort_version": 7000000,
+    "search_text": "порция выдержанного духовного нектара / хмель выдержанного духовного нектара / упоение выдержанным духовным нектаром / пир выдержанного духовного нектара measured pour of the cellared spiritual nectar / intoxication of the cellared spiritual nectar / exhilaration of the cellared spiritual nectar / revelry of the cellared spiritual nectar 藏窖灵浆的斟酌 / 藏窖灵浆的酩酊 / 藏窖灵浆的酣畅 / 藏窖灵浆的恣意 снежная 7.0 development_materials material_set weapon_ascension возвышение оружия weapon ascension 武器突破 материалы material_114089 material_114090 material_114091 material_114092 порция выдержанного духовного нектара measured pour of the cellared spiritual nectar 藏窖灵浆的斟酌 хмель выдержанного духовного нектара intoxication of the cellared spiritual nectar 藏窖灵浆的酩酊 упоение выдержанным духовным нектаром exhilaration of the cellared spiritual nectar 藏窖灵浆的酣畅 пир выдержанного духовного нектара revelry of the cellared spiritual nectar 藏窖灵浆的恣意"
+  },
+  {
+    "id": "material_set_114093",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_114093.webp",
+    "title": {
+      "ru": "Возрождение снежного императора / Церемония снежного императора / Скорбь снежного императора / Прощание снежного императора",
+      "en": "The Frost Emperor's Revival / The Frost Emperor's Ceremony / The Frost Emperor's Lament / The Frost Emperor's Farewell",
+      "zh": "凛雪帝皇的复生 / 凛雪帝皇的庆仪 / 凛雪帝皇的悲恤 / 凛雪帝皇的辞决"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "weapon_ascension",
+    "material_type_title": {
+      "ru": "Возвышение оружия",
+      "en": "Weapon Ascension",
+      "zh": "武器突破"
+    },
+    "materials": [
+      {
+        "key": "material_114093",
+        "title": {
+          "ru": "Возрождение снежного императора",
+          "en": "The Frost Emperor's Revival",
+          "zh": "凛雪帝皇的复生"
+        },
+        "icon": "assets/icons/items/development_materials/item_114093.webp"
+      },
+      {
+        "key": "material_114094",
+        "title": {
+          "ru": "Церемония снежного императора",
+          "en": "The Frost Emperor's Ceremony",
+          "zh": "凛雪帝皇的庆仪"
+        },
+        "icon": "assets/icons/items/development_materials/item_114094.webp"
+      },
+      {
+        "key": "material_114095",
+        "title": {
+          "ru": "Скорбь снежного императора",
+          "en": "The Frost Emperor's Lament",
+          "zh": "凛雪帝皇的悲恤"
+        },
+        "icon": "assets/icons/items/development_materials/item_114095.webp"
+      },
+      {
+        "key": "material_114096",
+        "title": {
+          "ru": "Прощание снежного императора",
+          "en": "The Frost Emperor's Farewell",
+          "zh": "凛雪帝皇的辞决"
+        },
+        "icon": "assets/icons/items/development_materials/item_114096.webp"
+      }
+    ],
+    "material_count": 4,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "weapon_ascension",
+    "sort_version": 7000000,
+    "search_text": "возрождение снежного императора / церемония снежного императора / скорбь снежного императора / прощание снежного императора the frost emperor's revival / the frost emperor's ceremony / the frost emperor's lament / the frost emperor's farewell 凛雪帝皇的复生 / 凛雪帝皇的庆仪 / 凛雪帝皇的悲恤 / 凛雪帝皇的辞决 снежная 7.0 development_materials material_set weapon_ascension возвышение оружия weapon ascension 武器突破 материалы material_114093 material_114094 material_114095 material_114096 возрождение снежного императора the frost emperor's revival 凛雪帝皇的复生 церемония снежного императора the frost emperor's ceremony 凛雪帝皇的庆仪 скорбь снежного императора the frost emperor's lament 凛雪帝皇的悲恤 прощание снежного императора the frost emperor's farewell 凛雪帝皇的辞决"
   },
   {
     "id": "moonlight_talent_books",
@@ -12230,6 +13368,926 @@
     "search_text": "обломок железа iron chunk 铁块 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item ore руда 矿石"
   },
   {
+    "id": "item_101270",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101270.webp",
+    "title": {
+      "ru": "Слеза застывшей луны",
+      "en": "Teardrop of the Moon",
+      "zh": "凝月泪滴"
+    },
+    "region": "Луна",
+    "game_version": "6.7",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Луна"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 6007000,
+    "search_text": "слеза застывшей луны teardrop of the moon 凝月泪滴 луна 0 6.7 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101273",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101273.webp",
+    "title": {
+      "ru": "Полынь альвов",
+      "en": "Fairy Wormwood",
+      "zh": "妖精绿艾"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7002000,
+    "search_text": "полынь альвов fairy wormwood 妖精绿艾 снежная 0 7.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101274",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101274.webp",
+    "title": {
+      "ru": "Кристаллический гриб-зонтик",
+      "en": "Kristallfold",
+      "zh": "析晶褶伞"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7002000,
+    "search_text": "кристаллический гриб-зонтик kristallfold 析晶褶伞 снежная 0 7.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101275",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101275.webp",
+    "title": {
+      "ru": "Морозник",
+      "en": "Frostfairy Flower",
+      "zh": "霜仙花"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7000000,
+    "search_text": "морозник frostfairy flower 霜仙花 снежная 0 7.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101276",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101276.webp",
+    "title": {
+      "ru": "Флоковая трава",
+      "en": "Flockingweed",
+      "zh": "植绒草"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7000000,
+    "search_text": "флоковая трава flockingweed 植绒草 снежная 0 7.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101277",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101277.webp",
+    "title": {
+      "ru": "Золотой папоротник",
+      "en": "Golden Fern",
+      "zh": "金蕨"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7000000,
+    "search_text": "золотой папоротник golden fern 金蕨 снежная 0 7.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101278",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101278.webp",
+    "title": {
+      "ru": "Свёкла",
+      "en": "Red Beet",
+      "zh": "红甜菜"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "свёкла red beet 红甜菜 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101279",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101279.webp",
+    "title": {
+      "ru": "Криозвёздник",
+      "en": "Glaciafruit",
+      "zh": "冰星果"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "криозвёздник glaciafruit 冰星果 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101280",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101280.webp",
+    "title": {
+      "ru": "Снежноцвет",
+      "en": "Snowball Flower",
+      "zh": "雪球花"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "снежноцвет snowball flower 雪球花 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101281",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101281.webp",
+    "title": {
+      "ru": "Смородина",
+      "en": "Rimecurrant",
+      "zh": "冰醋栗"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "смородина rimecurrant 冰醋栗 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101282",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101282.webp",
+    "title": {
+      "ru": "Светящийся флюорит",
+      "en": "Lumifluorite",
+      "zh": "幽光萤石"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "plant",
+    "sort_version": 7000000,
+    "search_text": "светящийся флюорит lumifluorite 幽光萤石 снежная 0 7.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "item_101285",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101285.webp",
+    "title": {
+      "ru": "Фонарная ягода",
+      "en": "Lanternberry",
+      "zh": "笼酸浆"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7002000,
+    "search_text": "фонарная ягода lanternberry 笼酸浆 снежная 0 7.2 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101331",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101331.webp",
+    "title": {
+      "ru": "Древесина снежного тополя",
+      "en": "Snow Poplar Wood",
+      "zh": "雪杨木"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "craft",
+    "sort_version": 7000000,
+    "search_text": "древесина снежного тополя snow poplar wood 雪杨木 снежная 1 7.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "item_101332",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101332.webp",
+    "title": {
+      "ru": "Древесина белой берёзы",
+      "en": "White Birch Wood",
+      "zh": "白桦木"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "craft",
+    "sort_version": 7000000,
+    "search_text": "древесина белой берёзы white birch wood 白桦木 снежная 1 7.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "item_101333",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101333.webp",
+    "title": {
+      "ru": "Древесина синего бука",
+      "en": "Bluebeech Wood",
+      "zh": "青榉木"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "craft",
+    "sort_version": 7000000,
+    "search_text": "древесина синего бука bluebeech wood 青榉木 снежная 1 7.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "item_101334",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101334.webp",
+    "title": {
+      "ru": "Древесина лиственницы",
+      "en": "Larch Wood",
+      "zh": "落叶松木"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "craft",
+    "sort_version": 7000000,
+    "search_text": "древесина лиственницы larch wood 落叶松木 снежная 1 7.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "item_110017",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_110017.webp",
+    "title": {
+      "ru": "Мёд",
+      "en": "Honey",
+      "zh": "蜂蜜"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "мёд honey 蜂蜜 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_131054",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131054.webp",
+    "title": {
+      "ru": "Пепельный снежный пинагор",
+      "en": "Charcoal Snowfin",
+      "zh": "炭灰雪圆鳍"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "пепельный снежный пинагор charcoal snowfin 炭灰雪圆鳍 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131055",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131055.webp",
+    "title": {
+      "ru": "Сливочный снежный пинагор",
+      "en": "Cream Snowfin",
+      "zh": "奶油雪圆鳍"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "сливочный снежный пинагор cream snowfin 奶油雪圆鳍 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131056",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131056.webp",
+    "title": {
+      "ru": "Лунный снежный пинагор",
+      "en": "Moonlight Snowfin",
+      "zh": "月光雪圆鳍"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "лунный снежный пинагор moonlight snowfin 月光雪圆鳍 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131057",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131057.webp",
+    "title": {
+      "ru": "Свекольная звездоснежка",
+      "en": "Ruby Starbloom Fish",
+      "zh": "赤甜星花鱼"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "свекольная звездоснежка ruby starbloom fish 赤甜星花鱼 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131058",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131058.webp",
+    "title": {
+      "ru": "Лазурная звездоснежка",
+      "en": "Frostpetal Starbloom Fish",
+      "zh": "青仙星花鱼"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "лазурная звездоснежка frostpetal starbloom fish 青仙星花鱼 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131059",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131059.webp",
+    "title": {
+      "ru": "Радужно-кристальная звездоснежка",
+      "en": "Iridescent Starbloom Fish",
+      "zh": "虹晶星花鱼"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "радужно-кристальная звездоснежка iridescent starbloom fish 虹晶星花鱼 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
     "id": "jueyun_chili",
     "category": "items",
     "icon": "assets/icons/items/teyvat_resources/jueyun_chili.webp",
@@ -15766,6 +17824,52 @@
     "search_text": "стая вишапов глубин bathysmal vishap herd 深海龙蜥之群 инадзума 2.4 world_bosses enemy_drops dragonheirs_false_fin ложный плавник дракона глубин dragonheir's false fin 龙嗣伪鳍"
   },
   {
+    "id": "chimeric_winged_lion",
+    "category": "items",
+    "icon": "assets/icons/enemies/chimeric_winged_lion.webp",
+    "title": {
+      "ru": "Крылатая химера-лев",
+      "en": "Chimeric Winged Lion",
+      "zh": "嵌合翼骏狮"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_113091",
+        "title": {
+          "ru": "Отсечённый хвост небесного скитальца",
+          "en": "Severed Tail of the Sky-Roamer",
+          "zh": "游空之物的断尾"
+        },
+        "icon": "assets/icons/items/world_bosses/item_113091.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "крылатая химера-лев chimeric winged lion 嵌合翼骏狮 снежная 7.0 world_bosses enemy_drops material_113091 отсечённый хвост небесного скитальца severed tail of the sky-roamer 游空之物的断尾"
+  },
+  {
     "id": "cryo_hypostasis",
     "category": "items",
     "icon": "assets/icons/enemies/cryo_hypostasis.webp",
@@ -16318,6 +18422,52 @@
     "search_text": "кукузавр-тиран золотого пламени goldflame qucusaur tyrant 金焰绒翼龙暴君 натлан 5.0 world_bosses enemy_drops mark_of_the_binding_blessing метка связывающего благословения mark of the binding blessing 受祝所缚之印"
   },
   {
+    "id": "guardian_blade_of_drifting_snow",
+    "category": "items",
+    "icon": "assets/icons/enemies/guardian_blade_of_drifting_snow.webp",
+    "title": {
+      "ru": "Разящая вьюга",
+      "en": "Guardian Blade of Drifting Snow",
+      "zh": "游雪的护刃"
+    },
+    "region": "Снежная",
+    "game_version": "7.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_113092",
+        "title": {
+          "ru": "Треснувшие доспехи скитальца",
+          "en": "Vagabond's Cracked Armor",
+          "zh": "游离者的裂甲"
+        },
+        "icon": "assets/icons/items/world_bosses/item_113092.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7001000,
+    "search_text": "разящая вьюга guardian blade of drifting snow 游雪的护刃 снежная 7.1 world_bosses enemy_drops material_113092 треснувшие доспехи скитальца vagabond's cracked armor 游离者的裂甲"
+  },
+  {
     "id": "hydro_hypostasis",
     "category": "items",
     "icon": "assets/icons/enemies/hydro_hypostasis.webp",
@@ -16463,6 +18613,52 @@
     "filter_type": "",
     "sort_version": 4000000,
     "search_text": "сюита ледяного ветра icewind suite 冰风组曲 фонтейн 4.0 world_bosses enemy_drops artificed_spare_clockwork_component_coppelia artificed_spare_clockwork_component_coppelius запасная деталь чудного механизма: коппелия artificed spare clockwork component — coppelia 奇械发条备件·歌裴莉娅 запасная деталь чудного механизма: коппелиус artificed spare clockwork component — coppelius 奇械发条备件·科培琉司"
+  },
+  {
+    "id": "immortal_construct",
+    "category": "items",
+    "icon": "assets/icons/enemies/immortal_construct.webp",
+    "title": {
+      "ru": "Бессмертный конструкт",
+      "en": "Immortal Construct",
+      "zh": "不灭衍生造物"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_113090",
+        "title": {
+          "ru": "Неопалённая цветущая ветвь",
+          "en": "Unscorched Blossom Branch",
+          "zh": "焰中不灭花枝"
+        },
+        "icon": "assets/icons/items/world_bosses/item_113090.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "бессмертный конструкт immortal construct 不灭衍生造物 снежная 7.0 world_bosses enemy_drops material_113090 неопалённая цветущая ветвь unscorched blossom branch 焰中不灭花枝"
   },
   {
     "id": "iniquitous_baptist",
@@ -17567,6 +19763,52 @@
     "filter_type": "",
     "sort_version": 6005000,
     "search_text": "созерцатель: падший страж watcher: fallen vigil 守望者·堕天 мондштадт 6.5 world_bosses enemy_drops plume_of_the_fallen_watcher перо падшего созерцателя plume of the fallen watcher 堕天的落羽"
+  },
+  {
+    "id": "wavebinder",
+    "category": "items",
+    "icon": "assets/icons/enemies/wavebinder.webp",
+    "title": {
+      "ru": "Удерживающий волны",
+      "en": "Wavebinder",
+      "zh": "浪涛锚定者"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_113093",
+        "title": {
+          "ru": "Разбитый якорь стабильности",
+          "en": "Shattered Stability Anchor",
+          "zh": "破碎的稳定锚"
+        },
+        "icon": "assets/icons/items/world_bosses/item_113093.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7002000,
+    "search_text": "удерживающий волны wavebinder 浪涛锚定者 снежная 7.2 world_bosses enemy_drops material_113093 разбитый якорь стабильности shattered stability anchor 破碎的稳定锚"
   },
   {
     "id": "wayward_hermetic_spiritspeaker",

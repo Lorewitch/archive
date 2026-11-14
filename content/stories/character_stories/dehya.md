@@ -455,3 +455,858 @@ She is a mercenary. Someone who lives and dies by the blade. Such a person trust
 迪希雅喜欢她的神之眼，但也不会只因这一注视就化身为神明的狂信徒。
 
 她是佣兵，靠挥舞武器生存。这样的人最信任自己与过去无数战斗中洒下的汗水。
+
+# voice_source_ids: 79000,79001,79002,79003,79004,79005,79006,79007,79008,79009,79010,79011,79012,79013,79014,79015,79016,79017,79018,79019,79020,79021,79022,79023,79024,79025,79026,79027,79028,79029,79030,79031,79032,79033,79034,79035,79036,79037,79038,79039,79040,79041,79042,79043,79044,79045,79046,79047,79048,79049,79050,79051,79052,79053,79054,79055,79056,79057,79058,79059,79060,79061,79062,79063,79064,79065,79066,79067,79068
+
+## REPLICAS_RU
+
+### Привет...
+
+Меня зовут Дэхья. Я наёмник, про которого ты спрашивал. Есть для меня поручение? Сражение? Конвой? Что бы это ни было - ты знаешь, где меня найти. / Меня зовут Дэхья. Я наёмник, про которого ты спрашивала. Есть для меня поручение? Сражение? Конвой? Что бы это ни было - ты знаешь, где меня найти.
+
+### Поболтаем: Наёмники
+
+У нас, наёмников, правило простое: кто больше платит, тот и главный.
+
+### Поболтаем: Пустыня
+
+Пустыня - суровый противник, но она, по крайней мере, ничего не скрывает. Все опасности на виду - лишь тебе решать, готов ли ты испытать себя. / Пустыня - суровый противник, но она, по крайней мере, ничего не скрывает. Все опасности на виду - лишь тебе решать, готова ли ты испытать себя.
+
+### Поболтаем: Мой народ
+
+Мой народ привык к жизни в пустыне... Но я всё равно надеюсь, что однажды они смогут оставить песчаные бури позади и счастливо жить в каком-нибудь оазисе.
+
+### Когда идёт дождь...
+
+Старики из Пустынников говорят, что и в пустыне иногда случаются дожди. А если уж идут, но намного сильнее, чем этот.
+
+### Когда гремит гром...
+
+Ничего себе, как грохочет... Зато враги нас не услышат. Правда, мы их тоже.
+
+### Когда идёт снег...
+
+Бр-р... Здесь даже холоднее, чем ночью в пустыне.
+
+### Когда светит солнце...
+
+Вот и солнышко... Даже обидно, что у меня сегодня столько работы.
+
+### Когда дует сильный ветер...
+
+Ветер поднялся... Разобьём лагерь с подветренной стороны - так безопасней.
+
+### В пустыне...
+
+Держись рядом и никуда не убегай. Пустыня не знает, что такое жалость.
+
+### Доброе утро...
+
+Вижу, ты уже готов к подвигам. Тогда собираемся и выступаем. / Вижу, ты уже готова к подвигам. Тогда собираемся и выступаем.
+
+### Добрый день...
+
+Уже день?.. Ладно, сейчас присмотрю местечко для привала, и сообразим что-нибудь на обед.
+
+### Добрый вечер...
+
+Ты всё ещё работаешь? А я думала, это у наёмников жизнь тяжёлая.
+
+### Спокойной ночи...
+
+Уже поздно. Я останусь дежурить, а ты ложись спать.
+
+### О Дэхье: Пустынники
+
+«Пустынники» - что-то вроде титула, любой наёмник Сумеру может объявить себя Пустынником. К сожалению, некоторые наёмники называются Пустынниками, чтобы нагнать страху на чужеземцев. По их милости теперь слово «Пустынники» внушает людям одно отвращение.
+
+### О Дэхье: Отец
+
+Его звали Кусайла... Наёмником он был никчёмным, любил показуху. Но он спас меня от смерти в пустыне и постарался передать мне всё, что у него было.
+Благодаря ему я выросла и стала той, кем стала.
+
+### О нас: Великие подвиги
+
+Знаешь, вокруг только и разговоров, что о твоих подвигах. И ребята из моего отряда не устают тобой восхищаться, несколько человек даже просили, чтобы я вас познакомила.
+
+### О нас: Товарищи по оружию
+
+Друзья? Хм-м... Не знаю, мы столько раз выручали друг друга из разных передряг, столько раз сражались плечом к плечу, что слово «друзья» кажется мне слишком легковесным.
+Дай подумать... может, «товарищи по оружию»? Наша дружба закалена в огне сражений, разорвать такую связь почти невозможно.
+
+### Глаз Бога...
+
+Что изменил в моей жизни Глаз Бога? Гм... Само собой, он служит подспорьем в бою. Но самое главное, что Глаз Бога помог мне привлечь новых наёмников в отряд «Пламенные звери».
+
+### Давай поделимся...
+
+Ты ведь пробовал орехи аджиленах? В детстве я их обожала. Но отец совсем не умел их чистить, он просто лупил по ним ножом, превращая мякоть в несъедобное месиво. Потом он отскребал мякоть от скорлупы, смешивал с молоком и говорил мне, что это каша.
+Иногда я с грустью вспоминаю вкус той каши... И отца, сражающегося с орехами. / Ты ведь пробовала орехи аджиленах? В детстве я их обожала. Но отец совсем не умел их чистить, он просто лупил по ним ножом, превращая мякоть в несъедобное месиво. Потом он отскребал мякоть от скорлупы, смешивал с молоком и говорил мне, что это каша.
+Иногда я с грустью вспоминаю вкус той каши... И отца, сражающегося с орехами.
+
+### Интересные вещи...
+
+Многие люди считают красных стервятников предвестниками смерти и беды, потому что они питаются мертвечиной. Но когда я вижу, как стервятники парят, раскинув крылья над пустыней... для меня это символ стойкости и жизнелюбия.
+Интересно, как выглядит Море красных песков с высоты птичьего полёта?
+
+### О Тигнари...
+
+Ха-ха-ха, представляешь, однажды я чуть было не нанялась к нему в проводники! Тигнари узнал обо мне от знакомых, ему требовался проводник в пустыне, чтобы провести какое-то исследование. Но потом он передумал... Кажется, дело было в том, что он не выносит жары. А может, нашлась другая причина, уже не помню...
+
+### О малой властительнице Кусанали...
+
+Хм... Знаешь, раньше я думала, что все эти мудрецы в Академии - просто стая жадных гиен, которые не могут поделить кусок мяса... А оказалось, это не гиены, а неблагодарные волки, поднявшие мятеж. По-моему, малая властительница Кусанали была к ним слишком добра. Эти поганцы заслужили того, чтобы им все кости переломали! А она отправила их в лес на покой... Слишком уж легко они отделались!
+
+### О Кандакии...
+
+Кандакия... Я её просто обожаю, но иногда она бывает упрямой, как вьючный як. Я постоянно говорю, что надо иногда отдыхать, устраивать себе каникулы... Мы могли бы прогуляться по городу Сумеру, купить красивых нарядов или украшений... Но она каждый раз мне отказывает, твердит, что не может оставить деревню. Наверное, придётся мне подежурить в деревне вместо Кандакии и отправить кого-нибудь из девочек нашего отряда прогуляться с ней по Сумеру.
+
+### Об аль-Хайтаме...
+
+Он предлагал мне работу в Академии, но я отказалась. Сидеть в этом болоте - скука смертная. Зато ему в Академии самое место, он ведь у нас такой речистый, и ни слова не может сказать, чтобы не съязвить. Пфф...
+
+### О Сайно...
+
+Генерал махаматра? Крутой парень, сразу берёт быка за рога. Мне нравится, как он работает, молодец.
+
+### О Нилу...
+
+Теперь, когда заваруха с Академией позади, Нилу может танцевать, где и когда ей захочется. Ещё она хотела отсыпать мне немного своей пудры, но я всё время на заданиях. Так что я предложила ей поделиться пудрой с Кандакией. Да... Надо будет найти время и проведать её.
+
+### О Дори...
+
+А, знаменитая негоциантка. Говорят, она может достать любой товар, вот только обойдётся это недёшево. Верно? Ха-ха, тогда надо мне с ней повидаться. Просто... Некоторые вещицы, нужные наёмникам, на рынке ни за какие деньги не купишь.
+
+### О Лайле...
+
+Да, помню её, вечно спит на ходу. Однажды я встретила её в оазисе на окраине пустыни. Она была с какой-то группой из Академии, занималась астрономическими наблюдениями или чем-то вроде того. Я не придала особенного значения той встрече. Что? Кандакия?.. Звёздный посланник?.. Полная чушь. Ей бы не помешало наконец проснуться.
+
+### Узнать больше о Дэхье I
+
+Я росла среди наёмников, играла мечами и ножами из дерева, и все люди вокруг либо служили наёмниками, либо собирались стать наёмниками. И даже ели мы из деревянных мисок, которые выстругали ребята из нашего отряда. Когда ты с раннего детства растёшь в таком окружении, кем ещё тебе быть, если не наёмником?
+
+### Узнать больше о Дэхье II
+
+Где моё место? Не знаю. Никогда об этом не думала. Но если надо обязательно что-то выбрать... Большую часть жизни я провела в пустыне, так что, наверное, моё место здесь.
+
+### Узнать больше о Дэхье III
+
+У наёмников жизнь не сахар. Получить работу - та ещё задачка, но труднее всего бывает выбить из заказчика мору, когда работа выполнена. Академия - мой любимый заказчик, они никогда не забывают заплатить. С Гильдией искателей приключений тоже приятно иметь дело. Но вот торговцы со своими караванами - это просто кошмар. Постоянно твердят, что пустили всю мору в оборот, поэтому платёж придётся отложить. «Подожди ещё пару дней, ладно?»
+Если у тебя так туго с наличными, откуда в твоей повозке столько товаров, м?
+
+### Узнать больше о Дэхье IV
+
+После той истории Академия стала относиться к нам добрее. Я слышала, они выпустили целый свод новых законов для поддержки жителей пустыни. Хм, мне их читать бесполезно, ни слова не пойму... Но надеюсь, что теперь о Стену Самиэль будут разбиваться только песчаные бури, а не надежды и мечты моего народа.
+
+### Узнать больше о Дэхье V
+
+Большинство наёмников мечтают прославиться и разбогатеть. Они берутся за самые трудные поручения, чтобы заработать мору и покрыть себя славой. Некоторым везёт: они остаются в живых и становятся легендами, а другие безвестно погибают в пустыне.
+Мои цели куда скромнее, мне просто хочется, чтобы дорогие мне люди были в безопасности, чтобы они могли спокойно жить своей жизнью. Правда, получать мору за работу я тоже люблю, ха-ха.
+
+### Хобби Дэхьи...
+
+Я обожаю перебирать сокровища в своей косметичке. Сколько моры я потратила на все эти пудры и кисти! Только посмотри на эту пудру, какой мелкий помол! Макияж не поплывёт, даже если вспотеешь или попадёшь под дождь. Да уж, такой товар стоит своих денег.
+
+### Беспокойство Дэхьи...
+
+Заказчики опять не платят, а ещё несколько парней из отряда снова попали в беду на задании... Я никакой не командир, но почему-то не могу выкинуть это из головы...
+
+### Любимая еда...
+
+Само собой, засахаренные орехи аджиленах. Вкусные, и в дороге не портятся.
+
+### Нелюбимая еда...
+
+Ненавижу горькое. Просто на дух не переношу.
+
+### Подарок I
+
+Вкус просто потрясающий! Но лучше остановиться, иначе я потом никогда не смогу есть свой дорожный провиант.
+
+### Подарок II
+
+Ммм, неплохо... ну, вкуснее, чем мой дорожный провиант.
+
+### Подарок III
+
+Знаешь, если ничего другого нет, это по крайней мере... сытно. А сытная еда - хорошая еда! Ха-ха-ха...
+
+### День рождения...
+
+С днём рождения! Проверь карманы, твой подарок уже там! Как мне это удалось? Хе-хе, ловкость рук, базовый навык любого наёмника! Но это ладно, ещё я заказала тебе настоящий пир в таверне Ламбада, пойдём скорее туда. А? Да не бойся, из отряда буду только я. С этим галдящим сбродом весь праздник пойдёт насмарку. Такой день бывает только раз в году, давай проведём его вместе? Идём, за мной!
+
+### Чувство возвышения: Начало
+
+Ого! Ничего себе... Силы и правда прибавилось.
+
+### Чувство возвышения: Нарастание
+
+Классное ощущение! Больше сил в руках, чтобы размахивать мечом.
+
+### Чувство возвышения: Кульминация
+
+Как много силы... Так и хочется проверить её в деле. Может, устроим небольшой поединок?
+
+### Чувство возвышения: Окончание
+
+Я и представить не могла, что достигну такого уровня... Спасибо тебе. Ну как, у тебя есть для меня задание? Соглашусь на любую работу - одно твоё слово, и я в деле.
+
+### Элементальный навык I
+
+За дело!
+
+### Элементальный навык II
+
+Забудьте о пощаде.
+
+### Элементальный навык III
+
+Вперёд!
+
+### Взрыв стихии I
+
+Выдержишь?
+
+### Взрыв стихии II
+
+От тебя мокрого места не останется!
+
+### Взрыв стихии III
+
+Ну, держись!
+
+### Открытие сундука I
+
+Ого, неожиданно...
+
+### Открытие сундука II
+
+Ха-ха-ха, неплохой улов!
+
+### Открытие сундука III
+
+Это можно будет неплохо продать...
+
+### Низкий уровень HP I
+
+Ох... А ты молодец!
+
+### Низкий уровень HP II
+
+Ладно, шутки в сторону!
+
+### Низкий уровень HP III
+
+Вот и отлично... Ох!
+
+### Низкий уровень HP компаньона I
+
+Возьми себя в руки!
+
+### Низкий уровень HP компаньона II
+
+Уходи, я прикрою!
+
+### Без сознания I
+
+Здорово меня... отделали...
+
+### Без сознания II
+
+Я всё испортила...
+
+### Без сознания III
+
+Судьба любого... наёмника...
+
+### Получен лёгкий удар I
+
+Тебя кто такому научил?
+
+### Получен тяжёлый удар I
+
+Впечатляет...
+
+### Присоединяется к группе I
+
+Как скажешь.
+
+### Присоединяется к группе II
+
+Есть работа?
+
+### Присоединяется к группе III
+
+Пора за работу.
+
+### О Сетосе...
+
+Я тоже только недавно узнала, что он из Храма Молчания. Прости, я не специалист по такого рода загадочным организациям. Я встречала его несколько раз в пустыне. Он очень добрый. Однажды, когда мои ребята попали в неприятности в пустыне, он был настолько любезен, что поделился с ними питьевой водой. Хороший парень.
+
+## REPLICAS_EN
+
+### Hello
+
+My name's Dehya. I'm the merc you hired. So what you got for me? A commission? A fight? Armed escort? Whatever it is — you know where to find me.
+
+### Chat: Mercenaries
+
+We mercs have one simple rule: Whoever pays the most is your new boss.
+
+### Chat: Desert
+
+The desert's a tough adversary, but at least it doesn't hide anything. What you see is what you get, and whether you take on the challenge is entirely up to you.
+
+### Chat: My People
+
+My people are used to the desert life... But still, I hope that one day, they'll be able to find an oasis of their own, and leave the sandstorms behind for a better life.
+
+### When It Rains
+
+According to some of the older Eremites, it does actually rain in the desert on occasion. And when it does, it's always a lot heavier than this.
+
+### When Thunder Strikes
+
+Man, this thunder is loud. They won't hear us coming... or vice versa.
+
+### When It Snows
+
+*grimace* ...Are you kidding me? This is even colder than the nights in the desert...
+
+### When the Sun Is Out
+
+Ah, sun's out, guns out, hehe... Just sucks that I got so much work to do.
+
+### When the Wind Is Blowing
+
+Wind's picking up... Let's play it safe and pitch camp downwind of our target.
+
+### In the Desert
+
+Stay close, no going off on your own. The desert doesn't take prisoners.
+
+### Good Morning
+
+Ready to roll? Good. Then let's pack up and move out.
+
+### Good Afternoon
+
+Where did the morning go... Alright, soon as I see a good spot, I'll set up the stove and cook us some lunch.
+
+### Good Evening
+
+You're still working at this hour? Ugh, and I thought we mercs had it tough.
+
+### Good Night
+
+It's late. Go get some rest, I'll take the night watch.
+
+### About Dehya: The Eremites
+
+"The Eremites" is just a title — any mercenary in Sumeru can call themselves a member. Sadly, you get some mercs throwing the term around to take advantage of outlanders who don't know any better... Hmph. We've got those jerks to thank for the increasingly abysmal reputation we have these days.
+
+### About Dehya: Dad
+
+...Kusayla was his name. As a merc, he had a slapdash way of working and a whole lot of bravado. But he also saved me from the desert, and did whatever he could to pass on to me everything he had.
+Without him, I wouldn't be who I am today.
+
+### About Us: Great Deeds
+
+Your recent feats have been doing the rounds, you know. In my brigade alone, a lot of people have been talking about the things you've achieved. I've even had several people ask me if I can introduce them to you.
+
+### About Us: Comrades-in-Arms
+
+"Friends"? Hmm... I dunno, after everything we've been through, all the battles we've faced together? Somehow, "friends" just doesn't quite do it justice.
+I think... yeah, "comrades-in-arms" sums it up best for me. The bond we share can only be forged in the heat of battle. It's one of the most unbreakable bonds there is.
+
+### About the Vision
+
+How's my life changed since getting my Vision? Huh... Well, obviously it gives me an extra edge in battle, but honestly, the biggest thing for me is that it's helped me bring a few more mercs into the Blazing Beasts...
+
+### Something to Share
+
+You know Ajilenakh Nuts, right? I used to go crazy for them as a kid... but my dad was the worst at shelling them. He'd just hack 'em to pieces with his knife, leaving a bunch of inedible mush behind. In the end, he'd salvage what he could by scraping pieces of the flesh off the shell, then mixing it with some milk and calling it porridge.
+...I do miss the taste of that porridge sometimes... and I miss that old nut-cracker, too.
+
+### Interesting Things
+
+A lot of people see the Red Vulture as an omen of death and disaster, because it feeds on the carcasses of the dead. But the way it soars high above the desert... I've always seen it as a symbol of the tenacity of life.
+I wonder what the Great Red Sand looks like from all the way up there.
+
+### About Tighnari
+
+Hahaha, the one that got away... I came thiiis close to doing a job for that guy. A contact put us in touch — I was supposed to be his guide through the desert for some kind of investigation. But then it got canceled out of the blue, no idea why. Wait, actually... I think there was something about him not being good with the heat? I'm not sure, but it could have been that...
+
+### About Lesser Lord Kusanali
+
+Hmph... You know, I always thought the Akademiya's worst were just a bunch of greedy dogs, each fighting for their slice of the pie... Nope. Turns out they were a vicious pack of wolves who betrayed the whole nation. If you want my opinion... Lesser Lord Kusanali was too good to them. Those animals didn't deserve her mercy — she should've broken every single bone in their bodies! Instead, they got a nice little vacation in the rainforest... To say they got off lightly is just putting it mildly.
+
+### About Candace
+
+Ah, Candace... I love her to bits, but she can be as stubborn as a Sumpter Beast sometimes. I keep telling her she oughtta cut herself some slack, take some time off, maybe go take a walk around Sumeru City, buy herself some nice new clothes or jewelry... but she always says the same old thing: She can't bear to leave the village unprotected. I dunno how many times she's turned me down now. Ugh, if I really can't persuade her, I guess I'll just have to watch the village for her sometime, and get one of my Eremite girls to take her shopping...
+
+### About Alhaitham
+
+He offered me a position in the Akademiya once. I declined — working in a place like that would bore me to death. He, on the other hand, is exactly the kind of person I can imagine working there... always talking in long, convoluted sentences, and in that snooty tone... Tsk.
+
+### About Cyno
+
+The General Mahamatra? Doesn't suffer fools gladly, and certainly doesn't beat around the bush. Having seen the way he works, he gets a thumbs up from me.
+
+### About Nilou
+
+Now that the whole saga with the Akademiya's over, I guess she can finally dance as much as she wants. She offered me some of her face powder last time I saw her, but I didn't have the time to go fetch it. So I told her to give it to Candace instead. Hmm... I wonder how she's liking it? I need to go check sometime...
+
+### About Dori
+
+Ah, the famous merchant. I've heard that her prices aren't cheap, but is it true that she can get a hold of anything you want? Hahaha, then I should start talking to her, 'cause uh... some of the supplies we mercs need are impossible to get anywhere else on the market, no matter what you're willing to pay.
+
+### About Layla
+
+Ahh, the sleepy girl, yeah, I think I remember her. I ran into her once at an oasis on the outskirts of the desert. She was out with some group from the Akademiya doing astronomical observations, or something. I wasn't really paying attention. ...Huh? Candace... what now? Emissary from the stars? The heck is that all about? Almost sounds like she didn't wake up before getting out of bed.
+
+### More About Dehya: I
+
+I've lived around Eremites my whole life. As a little girl, I had a wooden sword for a toy. Everyone I knew growing up was either a merc or on their way to becoming one, and even the bowls we ate our meals from were carved by mercenary blades... After an upbringing like that, it'd be more surprising if I didn't become a merc when I grew up, right?
+
+### More About Dehya: II
+
+Where do I feel like I belong? No idea. I've never thought about that sort of thing before. If I had to pick... I've lived most of my life in the desert, so I guess that makes me a desert-dweller.
+
+### More About Dehya: III
+
+Being a merc is tough. The work itself is one thing, but the worst part is trying to get your client to pay you after you finish the job. The Akademiya's top of my list — they're pretty straightforward. The Adventurers' Guild isn't too bad either. But trading merchants can be a total nightmare. They're always telling me that their funds are tied up, so cash is tight, yadda yadda. "Just a few more days," they say.
+If cash is so tight, how'd you pay for that big pile of goods on your cart, hmm? Tsk.
+
+### More About Dehya: IV
+
+The Akademiya have taken a kinder view of us since everything that went down. I heard that they even released a ton of new regulations to support the desert folk. Hmph, it'd take me till the end of time to read and understand all that documentation... I just hope from now on, the Wall of Samiel will only mark the place where sandstorms end, rather than my folks' hopes and dreams.
+
+### More About Dehya: V
+
+Most mercs are looking to make their fortune and leave their mark. They take on the hardest jobs they can find, hoping to earn as much Mora and prestige as possible. Some are lucky enough to survive and become legends, while others disappear into the desert before anyone's learned their name.
+I don't have any grand aspirations though. I just want to keep the people I care about safe, so they can live their lives in peace. Of course, I won't complain if I can make some extra Mora along the way, haha.
+
+### Dehya's Hobbies
+
+I looove my make-up box. Sometimes I take it out and re-organize it when I have the time. I keep all my powders and brushes in here — paid top Mora for all of it. Just look at this texture! Isn't it just perfectly smooth? And even if you sweat or get caught in the rain, it doesn't run. Hehehe, you get what you pay for.
+
+### Dehya's Troubles
+
+Some clients are behind on their payments again, and a few of the guys got themselves into trouble during their last job... *sigh* I'm not the boss, but somehow everything ends up being my problem...
+
+### Favorite Food
+
+Candied Ajilenakh Nuts, no contest. Easy to take on the road, and of course delicious.
+
+### Least Favorite Food
+
+Anything bitter. Nope. Keep it away from me. Can't stand it.
+
+### Receiving a Gift: I
+
+This tastes amazing! I'd better not have any more, or I'll never be able to go back to my usual rations.
+
+### Receiving a Gift: II
+
+Mmm, not bad... compared to rations, anyway.
+
+### Receiving a Gift: III
+
+You know, if nothing else, it's uh... filling, and if it fills you up — it's good grub! Hahaha...
+
+### Birthday
+
+Happy Birthday! Reach into your pocket, your present's already in there. How'd I do it? Hehe, just a little trick of the trade. Anyway, more importantly, I've booked us a real feast at Lambad's Tavern, so let's get ourselves over there! ...Huh? Oh, don't worry, I didn't invite any of the other mercs. Nah, that rowdy bunch is always getting into arguments — not the kind of people you'd want at a birthday celebration. It'll just be me and you, like it should be... Ahem, c'mon, c'mon, let's go.
+
+### Feelings About Ascension: Intro
+
+Huh? How about that... I really did get stronger.
+
+### Feelings About Ascension: Building Up
+
+Hey, this feels good. I think I'll be able to hit quite a bit harder with my sword now.
+
+### Feelings About Ascension: Climax
+
+So much power... I have to go test this out. You down to spar with me or what?
+
+### Feelings About Ascension: Conclusion
+
+I never once imagined I could get to this level... All credit goes to you. What next? Do you have a job for me? Whatever it is, just say the word and I'll be there.
+
+### Elemental Skill: I
+
+Let's get it on!
+
+### Elemental Skill: II
+
+Buckle up!
+
+### Elemental Skill: III
+
+Look alive!
+
+### Elemental Burst: I
+
+Gloves off!
+
+### Elemental Burst: II
+
+You're dead meat!
+
+### Elemental Burst: III
+
+You asked for it!
+
+### Opening Treasure Chest: I
+
+Well, how about that...
+
+### Opening Treasure Chest: II
+
+I call dibs! Hahaha.
+
+### Opening Treasure Chest: III
+
+I could make a tidy sum selling some of this...
+
+### Low HP: I
+
+Urgh... We've got ourselves a tough cookie!
+
+### Low HP: II
+
+Alright, playtime's over!
+
+### Low HP: III
+
+Just great... Ugh!
+
+### Ally at Low HP: I
+
+Pull yourself together!
+
+### Ally at Low HP: II
+
+Get out before I drag you out!
+
+### Fallen: I
+
+They got me good...
+
+### Fallen: II
+
+I done messed up...
+
+### Fallen: III
+
+Merc down...
+
+### Light Hit Taken: I
+
+Your mommy teach you that?
+
+### Heavy Hit Taken: I
+
+You ain't messing around...
+
+### Joining Party: I
+
+I gotcha, Boss.
+
+### Joining Party: II
+
+Got a job for me?
+
+### Joining Party: III
+
+Time to get down to business.
+
+### About Sethos
+
+Oh yeah, I only found out about him being from the Temple of Silence recently, too. Ahh, sorry, no — I'm no expert in mysterious organizations like that. Seen him a few times in the desert though. He's very down-to-earth. Once when my guys got into some trouble in the desert, he was kind enough to share his drinking water with them. Nice guy.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我叫迪希雅，就是你想要雇佣的那位佣兵。你有什么委托？打架？护送？无论是什么事，只要开口就行。
+
+### 闲聊·佣兵
+
+你问佣兵的工作原则？嗯…很简单，谁出的钱多，就给谁办事。
+
+### 闲聊·沙漠
+
+沙漠是个难相处的对手，但至少它足够光明磊落，把所有艰险挑战都放在台面上给你看。
+
+### 闲聊·我们的人
+
+我们的人已经习惯了沙漠…但我还是希望他们在某天能够告别风沙，在某处绿洲更愉快地生活。
+
+### 下雨的时候…
+
+听佣兵团里的老人说，沙漠里偶尔也会下雨，而且雨势比这猛烈得多。
+
+### 打雷的时候…
+
+这雷鸣声可够大的…可以掩盖住很多声音。
+
+### 下雪的时候…
+
+呼…这里简直比夜晚的沙漠还冷。
+
+### 阳光很好…
+
+天气很好，要是我手里的活也能轻松点就好喽。
+
+### 刮大风了…
+
+起风了，我们去下风口扎营比较安全。
+
+### 在沙漠的时候…
+
+跟紧我，不要乱走，沙漠可不会对任何人留情。
+
+### 早上好…
+
+你看起来精神不错，那我们等会就拔营出发吧。
+
+### 中午好…
+
+已经中午了…等我找到合适的位置，就可以搭灶做饭了。
+
+### 晚上好…
+
+这么晚了你还在工作？真是比我们佣兵都辛苦啊。
+
+### 晚安…
+
+时间不早了，今夜的值守就交给我，你快去休息吧。
+
+### 关于迪希雅自己·镀金旅团
+
+镀金旅团只是一个「头衔」，任何须弥的佣兵都可以自称为「镀金旅团」的一员。有些佣兵就用这头衔来唬骗外地人。哼，拜这帮人所赐，现在「镀金旅团」的名号已经越来越招人厌了。
+
+### 关于迪希雅自己·老爹
+
+库塞拉…他是个吊儿郎当，喜欢装模作样的佣兵。是他从沙漠里救了我，又用尽全力，将他一切能够给予我的东西，都给了我。
+但正是因为他，我才能成长为现在的我。
+
+### 关于我们·伟大事迹
+
+你最近可是大显身手啊，我所在的佣兵团里都有不少人一直在讲你的事迹，甚至还有几个人来问我，能不能向你引见一下他们。
+
+### 关于我们·战友
+
+朋友？嗯…我们一起经历了那么多事，共同闯过了那么多场战斗，用「朋友」来形容我们之间的关系，总感觉有点轻飘飘的。
+我想想…不如，用「战友」吧，这种感情只能从并肩的战斗中锤炼而出，是最不可动摇的东西。
+
+### 关于「神之眼」…
+
+「神之眼」给我带来了什么？嗯…老实说，比起战斗时的便利，这枚「神之眼」更大的作用，是让更多的佣兵慕名而来加入「炽光猎兽」。
+
+### 有什么想要分享…
+
+你知道枣椰吗？我小时候最喜欢吃这种果子。但老爹完全不知道拆枣椰的方法，就拿着刀胡乱地戳来戳去，把里面的果肉都弄得乱七八糟，完全没办法下口吃。最后只能把果肉都刮下来，混在牛奶里，勉强给我当做粥来吃。
+我有时候也会怀念这种粥的味道，还有那个拆枣椰都能拆得手忙脚乱的老爹。
+
+### 感兴趣的见闻…
+
+在一些人眼里，啃食残骸的赤鹫是带来死亡与灾厄的生物。但在我看来，这些翱翔在沙海之上的鹫鸟，有着最热烈的生命力。
+不知道当它们从天空往下俯瞰时，大赤沙海会是一个什么模样。
+
+### 关于提纳里…
+
+哈哈哈，你别说，我还真的差点和这位巡林官做成过一笔生意。之前我经人介绍，要做他进沙漠考察时的向导。不过后来不知道为什么这单生意取消了，我记得…好像是这位巡林官实在耐不住热，还是其他什么原因来着。
+
+### 关于小吉祥草王…
+
+哼，我之前还以为，教令院里顶多是有一群自私自利的鬣狗在蝇营狗苟，结果…居然还有这么几匹喂不熟的白眼狼在作乱。依我看，那位小吉祥草王真是慈悲得有些过头了，对付这种劣兽，最好是连骨头都锤碎掉！就这么放他们去林子里歇着，真是太便宜他们了。
+
+### 关于坎蒂丝…
+
+你说坎蒂丝啊，她什么都好，就是性子犟得和驮兽一样。我和她说了好多次，别老是绷着弦，偶尔也要给自己放个假，比如去须弥城里逛逛，买点漂亮衣服首饰…但她总是说不放心村子，拒绝了我好多次。唉，实在不行，下次我帮她守村子，然后再拜托团里的妹子们带她进城玩玩好了。
+
+### 关于艾尔海森…
+
+他曾经邀请我过去教令院任职，但我过不惯那种死水一潭般的生活，就拒绝了。不过这位书记官说话时那种七拐八绕，又夹枪带棒的腔调，倒是很符合我对教令院学者的印象…
+
+### 关于赛诺…
+
+那位「大风纪官」？是个雷厉风行的狠角色，处理某些事情的方法，也挺对我胃口的。
+
+### 关于妮露…
+
+解决了那件事之后，妮露也能更加自由地跳舞了吧。哦她上次还说，要把自己用的香粉捎一份给我，但我经常在外面奔波，就只能让她先送去坎蒂丝那里。唔…我也该找个时间过去看看了。
+
+### 关于多莉…
+
+那个商人啊。据说她那里什么都有得卖，只是价钱贵了点？哈哈，那我还挺希望和她见几面的，毕竟…有些佣兵需要的东西，在市场上真是拿钱都买不到啊。
+
+### 关于莱依拉…
+
+那个成天迷迷糊糊的小丫头啊，我有印象。之前我在沙漠边缘的一个绿洲碰见过她，她好像是跟着教令院的什么队伍来观察星象，不过我也没有太留意。啥？坎蒂丝…星空的使者…这都什么乱七八糟的？这丫头不会还没睡醒吧。
+
+### 想要了解迪希雅·其一
+
+我自小就在佣兵团里生活，玩具是木刀木剑，认识的人要么是佣兵，要么准备做佣兵，就连吃饭的木碗都是团里的人拿刀削出来的木碗。在这种环境下长大，要是我不做佣兵反而有点奇怪，对吧？
+
+### 想要了解迪希雅·其二
+
+我是哪里人？这我可不知道，我从来都没想过这方面的问题。但硬要说的话，我一直生活在沙漠里，应该算是「沙漠这边」的人吧。
+
+### 想要了解迪希雅·其三
+
+佣兵的工作可不容易，先不说接受的委托难度如何，更让人头疼的是完成委托后如何让客户迅速地结清钱款。教令院结钱最爽快，冒险家协会其次，结钱最不爽快的是那些做货物贸易的商人，他们总是说自己的资金正在周转，暂时拿不出多少现钱，让我再等等。
+嘁，拿不出钱，那他们车上那么多货是怎么来的？
+
+### 想要了解迪希雅·其四
+
+在之前那件事过后，教令院对于我们的态度也有了改变，据说还推出了一大堆帮助沙漠子民的条款。呃，那一大堆文件我是看不懂了，我只希望「防沙壁」从今往后只隔绝风沙，不要再阻断希望。
+
+### 想要了解迪希雅·其五
+
+大部分佣兵的抱负就是扬名立万，他们不断地接受高难度的委托，赚取财富和名声。有的人幸运地活下来，成为了传奇，有些人就在沙漠里默默无闻的消失。
+但我可没有那么「远大」的抱负，我只想要保护周围的人，让他们能安心地生活，这就足够了。要是能再赚点钱，那就更好了，哈哈。
+
+### 迪希雅的爱好…
+
+我有空的时候，最喜欢打理我的「妆匣」。里面的香粉和粉刷可都是我花大价钱收来的，你瞧瞧这粉质，多细腻啊！不管是流了汗，还是淋了雨，妆都不会花。哼哼，真是一分钱一分货。
+
+### 迪希雅的烦恼…
+
+又有几笔委托的钱款没结清，还有几个兄弟执行委托的时候闯了祸…唉，我明明不是团里的一把手，为什么还要操心这种事？
+
+### 喜欢的食物…
+
+那当然是「枣椰蜜糖」了，既容易携带，味道又好。
+
+### 讨厌的食物…
+
+可别让我吃那种味道很苦的东西，我可受不了。
+
+### 收到赠礼·其一
+
+这道菜味道真不错！再多吃几口的话，我说不定以后就吃不下那些干粮啦。
+
+### 收到赠礼·其二
+
+唔，如果当做干粮来看的话，味道还是不错的。
+
+### 收到赠礼·其三
+
+至少…至少能填饱肚子，能安全填饱肚子的食物就是好食物！哈哈…
+
+### 生日…
+
+生日快乐！摸摸你的兜，礼物已经放在里面了。怎么做到的？一点佣兵的小把戏而已。先别管这些了，我在兰巴德酒馆已经订了一桌上好的酒席，咱们赶紧过去吧。嗯？放心，我没有让团里的其他人过来，这帮人吵吵嚷嚷的只会起哄，好不容易过个生日，我来陪你就够了，走吧走吧。
+
+### 突破的感受·起
+
+哦？力量真的在成长。
+
+### 突破的感受·承
+
+感觉不错啊，这样挥起剑来也更有力了。
+
+### 突破的感受·转
+
+这种力量…真想立刻去试试手，不然我们俩直接来过几招吧？
+
+### 突破的感受·合
+
+没想到我居然还能有这样的成长，这都多亏了你。接下来有什么委托吗？无论是什么委托，只要你开口，我就会和你同行。
+
+### 元素战技·其一
+
+开打吧！
+
+### 元素战技·其二
+
+不用留情。
+
+### 元素战技·其三
+
+一起上！
+
+### 元素爆发·其一
+
+你撑得住吗？
+
+### 元素爆发·其二
+
+在这，打垮你！
+
+### 元素爆发·其三
+
+把牙咬紧点！
+
+### 打开宝箱·其一
+
+居然还有意外收获…
+
+### 打开宝箱·其二
+
+哈哈哈，这个不错啊。
+
+### 打开宝箱·其三
+
+也许能卖个好价钱。
+
+### 生命值低·其一
+
+哼…有点本事！
+
+### 生命值低·其二
+
+该动真格的了！
+
+### 生命值低·其三
+
+这不是正好？
+
+### 同伴生命值低·其一
+
+稳住！别慌张！
+
+### 同伴生命值低·其二
+
+退后，让我来！
+
+### 倒下·其一
+
+这下…糟了…
+
+### 倒下·其二
+
+真是…大意了…
+
+### 倒下·其三
+
+佣兵的…宿命…
+
+### 普通受击·其一
+
+小花招！
+
+### 重受击·其一
+
+有两下子…
+
+### 加入队伍·其一
+
+你说了算。
+
+### 加入队伍·其二
+
+有什么委托吗？
+
+### 加入队伍·其三
+
+该开始干活了。
+
+### 关于赛索斯…
+
+我也是最近才知道他来自缄默之殿。哎呀，不好意思，我对缄默之殿这类神秘组织了解很少嘛。以前倒是在沙漠里见过他几回，他很好沟通，我的佣兵兄弟在沙漠遇到麻烦，他还把饮用水分给他们过。是个不错的人。

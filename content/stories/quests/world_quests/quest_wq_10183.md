@@ -20,14 +20,16 @@
 # quest_series: Canticles of Harmony
 # version_source: wiki_release_category
 
-# quest_series_ru: Оды гармонии
+# quest_series_ru: Оды Гармонии
+# game_source_ids: 74184
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 10
 
 ## RU
 
 ### Тень над Петрикором
 
 Оказавшись в Петрикоре, вы становитесь свидетелями некоторых странных происшествий и решаете выяснить, что происходит...
-
 
 **Лидер:** Эй ты, медлительный болван! Почему ещё столько ящиков не перенесено на корабль?! Сколько ещё это будет продолжаться?
 
@@ -49,15 +51,21 @@
 
 **Паймон:** Путешественник, давай пойдём к ним и спросим...
 
-**Лидер:** Эй, вы! Да, вы, (большая)(большой) и маленькая! Чего вы там шныряете?
+**Лидер:** Эй, вы! Да, вы, большой и маленькая! Чего вы там шныряете? / Эй, вы! Да, вы, большая и маленькая! Чего вы там шныряете?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Ох, у нас неприятности!
 
-- **Путешественник:** Нельзя оставлять свидетелей...
-
 **Паймон:** Мы не сделали ничего плохого. Зачем нервничать?
 
+##### Вариант ответа 2
+
+- **Путешественник:** Нельзя оставлять свидетелей...
+
 **Паймон:** А? Путешественник, о чём ты говоришь?..
+
+##### Общее продолжение
 
 **Паймон:** Лучше сначала с ними поговорить.
 
@@ -69,7 +77,7 @@
 
 **Паймон:** О!
 
-Какая подробная предыстория.
+- **Путешественник:** Какая подробная предыстория.
 
 **Паймон:** И что было потом? Как вы победили Тёмного Владыку?
 
@@ -79,11 +87,17 @@
 
 **Парень, которого все зовут «болван»:** Как сказал босс, мы должны были... «сорвать боевую миссию легионов Тёмного Владыки»... Блестящий план!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вы главные герои, но у вас не всё безупречно...
+
+**Паймон:** А где же Тёмный Владыка? Когда он выйдет на сцену?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Когда же выйдет на сцену Тёмный Владыка?
 
-**Паймон:** А где же Тёмный Владыка? Когда он выйдет на сцену?
+##### Общее продолжение
 
 **Лидер:** Ха! Если бы Тёмный Владыка появился, разве мы бы смогли перевозить сокровища? Возможно, подобно Эсту, мы бы давно превратились в големов. Теперь его можно звать только «Эстом Несчастным»!
 
@@ -95,23 +109,39 @@
 
 **Лидер:** Хм. Такие, как вы, не признаются, если мы сперва не зададим вам жару, да? Хватайте их, парни!
 
+Как вы знаете, когда-то это была тихая деревенька... Тогда она ещё не называлась Петрикором...
+Мы, жители Фонтейна, вели беззаботную жизнь в своём маленьком мирке, пока однажды не появилась армия големов Рема Тёмного Владыки...
+Он был невероятным тираном и называл себя «правителем всех вод». Прежде чем прийти к нам, его армия разрушила бесчисленное множество деревень и городов.
+
+Они отобрали наши земли, загрязнили нашу чистую воду и захотели соблазнить нас звуками музыки...
+Они построили высокие колокольни и крепости, а дьявольская мелодия Тёмного Владыки превратила наших соотечественников в рабов.
+Но мы, свободные жители Фонтейна, никогда не смиримся с правлением тирана! Чтобы положить конец деспотизму Тёмного Владыки, я и воины под моим командованием вышли на тропу войны.
+
+#### Одолейте «разбойников»
+
 #### Осмотрите сундук, в котором лежит «сокровище»
 
 **Паймон:** ...Взяли и убежали? Значит, они не играли.
 
 **Паймон:** Но о каких сокровищах они говорили? Что за Тёмный Владыка, город Тёмного Владыки... Не похоже на правду...
 
-Может, взглянем на сокровища?
+- **Путешественник:** Может, взглянем на сокровища?
 
 **Паймон:** Хм, но мы не знаем, откуда они их взяли...
 
-- **Путешественник:** Ничего себе! Не могу поверить, что Паймон не интересуют сокровища!
+##### Вариант ответа 1
 
-- **Путешественник:** Считай это частью расследования.
+- **Путешественник:** Ничего себе! Не могу поверить, что Паймон не интересуют сокровища!
 
 **Паймон:** Паймон боится... как бы в ящике не оказалась какая-нибудь гнусная ловушка Тёмного Владыки...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Считай это частью расследования.
+
 **Паймон:** Твоя правда, но если внутри находится ловушка Тёмного Владыки...
+
+##### Общее продолжение
 
 **Паймон:** Ладно, твоя взяла! Но будь осторожнее!
 
@@ -121,90 +151,103 @@
 
 **Паймон:** Хм, давай отправимся в Петрикор и поспрашиваем. Может быть, для деревни это важная достопримечательность, талисман или что-то в этом роде.
 
-**Паймон:** Что касается «сокровищ»... Мы...
+**Голос Паймон:** Что касается «сокровищ»... Мы...
 
-**Паймон:** ...Эй! Путешественник, ты...
+**Голос Паймон:** ...Эй! Путешественник, ты...
 
+Вы так сильно поколотили воришек, что они сбежали на корабле, даже не позаботившись о «сокровищах».
 
-**Кассиодор:** Ваше величество, ваше величество...
+Оказывается, в ящике нет гнусных ловушек Тёмного Владыки.
 
-Это что, сон?
+Но и нет никаких сокровищ. Ящик доверху заполнен камнями.
 
-**Кассиодор:** Ваше величество, наконец-то вы проснулись. Сегодня очень важный день. Именно сегодня зазвучит великая симфония «Фобос». До начала ритуала ещё осталось немного времени, но нам пора отправляться.
+#### Осмотрите сундук, в котором лежит «сокровище»
 
-Кажется, мне приснился сон.
+**???:** Ваше величество, ваше величество...
 
-**Кассиодор:** Сон? Неужели, боги тоже видят сны?.. Что же вам приснилось? Великие равнины за северными ветрами или серебряное дерево в замёрзшей земле?..
+- **Путешественник:** Это что, сон?
 
-**Кассиодор:** Или, может быть, золотое будущее, которое вы мне когда-то показывали?
+**████:** Ваше величество, наконец-то вы проснулись. Сегодня очень важный день. Именно сегодня зазвучит великая симфония «Фобос». До начала ритуала ещё осталось немного времени, но нам пора отправляться.
 
-Я видел / видела... как море поглощает землю...
+- **Путешественник:** Кажется, мне приснился сон.
 
-А потомки камня и латуни тонут вслед за ней...
+**████:** Сон? Неужели, боги тоже видят сны?.. Что же вам приснилось? Великие равнины за северными ветрами или серебряное дерево в замёрзшей земле?..
 
-Разрушилось всё былое величие.
+**████:** Или, может быть, золотое будущее, которое вы мне когда-то показывали?
 
-**Кассиодор:** ...Значит, это пророчество, господин? Мы собрались здесь сегодня, чтобы предотвратить его и побороться с неумолимой судьбой.
+- **Путешественник:** Я видел... как море поглощает землю... / Я видела... как море поглощает землю...
 
-**Кассиодор:** Как вы сказали, мы заплатили высокую цену. Но когда мы освободимся от оков судФортуныьбы, эти жертвы окажутся не напрасными...
+- **Путешественник:** А потомки камня и латуни тонут вслед за ней...
 
-**Кассиодор:** В это я верю с тех пор, как принял это тело и стал ремурийцем...
+- **Путешественник:** Разрушилось всё былое величие.
 
-**Кассиодор:** Прошу прощения, я забыл о манерах...
+**████:** ...Значит, это пророчество, господин? Мы собрались здесь сегодня, чтобы предотвратить его и побороться с неумолимой судьбой.
 
-**Кассиодор:** Прошу, следуйте за мной.
+**████:** Как вы сказали, мы заплатили высокую цену. Но когда мы освободимся от оков суд(Фортуны)ьбы, эти жертвы окажутся не напрасными...
 
+**████:** В это я верю с тех пор, как принял это тело и стал ремурийцем...
 
-**Сцилла:** Рем, Рем...
+**████:** Прошу прощения, я забыл о манерах...
 
-**Сцилла:** Рем, ты однажды сказал, что создашь будущее, свободное от кандалов провидения.
+**████:** Прошу, следуйте за мной.
 
-**Сцилла:** А теперь твои земли раздроблены, в них царит насилие. Пропасть, которую ты пытался сгладить, стала ещё глубже. Созданная тобой бессмертная раса и народ воды истребляют друг друга.
+**███:** Рем, Рем...
 
-**Сцилла:** И вот теперь так называемый Вечный город тоже вот-вот падёт...
+**███:** Рем, ты однажды сказал, что создашь будущее, свободное от кандалов провидения.
 
-**Сцилла:** Ты не можешь управлять своим творением... Симфония не принесла справедливости и счастья, а стала источником всех зол.
+**███:** А теперь твои земли раздроблены, в них царит насилие. Пропасть, которую ты пытался сгладить, стала ещё глубже. Созданная тобой бессмертная раса и народ воды истребляют друг друга.
 
-**Сцилла:** Хотя плоть и кровь отделены от воды и земли, заблудшие души всё равно ведут их к неизбежной смерти. Проклятие Фортуны лежит на твоём народе и на тебе.
+**███:** И вот теперь так называемый Вечный город тоже вот-вот падёт...
 
-Ты ещё помнишь наш уговор?..
+**███:** Ты не можешь управлять своим творением... Симфония не принесла справедливости и счастья, а стала источником всех зол.
 
-Это наш последний шанс... Пока звучит симфония...
+**███:** Хотя плоть и кровь отделены от воды и земли, заблудшие души всё равно ведут их к неизбежной смерти. Проклятие Фортуны лежит на твоём народе и на тебе.
 
-**Сцилла:** Неужели это единственный известный тебе способ искупить вину за то, что вы, узурпаторы человечества, всё испортили? По крайней мере, твоё решение соответствует королевскому статусу.
+- **Путешественник:** Ты ещё помнишь наш уговор?..
 
-**Сцилла:** Раз уж мы связаны договорённостью, позволь мне засвидетельствовать твой конец...
+- **Путешественник:** Это наш последний шанс... Пока звучит симфония...
+
+**███:** Неужели это единственный известный тебе способ искупить вину за то, что вы, узурпаторы человечества, всё испортили? По крайней мере, твоё решение соответствует королевскому статусу.
+
+**███:** Раз уж мы связаны договорённостью, позволь мне засвидетельствовать твой конец...
 
 #### Поговорите с Паймон
 
 **Паймон:** Путешественник... Скорее, очнись!
 
-Я только что...
+- **Путешественник:** Я только что...
 
 **Паймон:** Ох, Паймон испугалась до смерти! Путешественник, ты...
 
-**Паймон:** Ты вдруг... ни с того ни с сего (замерла)(замер) перед статуей, не двигаясь, как будто (стала)(стал) ей! Паймон подумала, что тебя поразило проклятье Тёмного Владыки и ты (превратилась)(превратился) в каменную статую...
+**Паймон:** Ты вдруг... ни с того ни с сего замер перед статуей, не двигаясь, как будто стал ей! Паймон подумала, что тебя поразило проклятье Тёмного Владыки и ты превратился в каменную статую... / Ты вдруг... ни с того ни с сего замерла перед статуей, не двигаясь, как будто стала ей! Паймон подумала, что тебя поразило проклятье Тёмного Владыки и ты превратилась в каменную статую...
 
-Это похоже на странный сон...
+- **Путешественник:** Это похоже на странный сон...
 
 **Паймон:** Э-это же не может быть настоящее проклятье?! Путешественник, ты в порядке?
 
+- **Путешественник:** Ничего, я в норме. Прости, что заставил побеспокоиться. / Ничего, я в норме. Прости, что заставила побеспокоиться.
+
 **Паймон:** Хорошо, что всё нормально... Давай для начала отправимся в Петрикор.
 
-Ничего, я в норме. Прости, что заставил(а) побеспокоиться.
-
+#### Отправляйтесь в Петрикор
 
 **«Звонарь»:** Добро пожаловать, о путешествующие по миру грёз.
 
 **«Звонарь»:** Я звонарь колокольни на пересечении дорог и проводник путешественников в великий Вечный город.
 
-- **Путешественник:** Новая сюжетная концепция?
+##### Вариант ответа 1
 
-- **Путешественник:** Итак, в Вечный город налево или направо?
+- **Путешественник:** Новая сюжетная концепция?
 
 **Паймон:** (...Он ведь не может оказаться заодно с теми воришками?)
 
+##### Вариант ответа 2
+
+- **Путешественник:** Итак, в Вечный город налево или направо?
+
 **Паймон:** Как тебе удалось так быстро войти в образ? С тобой точно всё в порядке?
+
+##### Общее продолжение
 
 **Паймон:** Хм, оставим пока эту тему. Все жители, с которыми мы столкнулись по дороге, вели себя очень странно. Знаешь, в чём дело?
 
@@ -224,47 +267,67 @@
 
 **«Звонарь»:** Лунатизм? Хочешь сказать, что я сплю?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Симптомы очень похожи.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Конечно, есть вероятность, что это мы спим.
 
 **Паймон:** Как это возможно? Вряд ли...
 
+##### Общее продолжение
+
 **«Звонарь»:** С-сон?.. Я и правда...
 
 **Паймон:** Эй, ты в порядке? Он без сознания!
 
-**Эст:** Вы иноземные путешественники? Подождите.
+**???:** Вы иноземные путешественники? Подождите.
 
-**Эст:** Это замечательно. Вы кажетесь совершенно... здравомыслящими.
+**???:** Это замечательно. Вы кажетесь совершенно... здравомыслящими.
 
 **Паймон:** Наконец-то мы встретили нормального человека! Что же произошло в Петрикоре?..
 
-**Эст:** Но сначала нужно обеспечить безопасность этого господина. Мы не можем оставить его здесь. Вдруг он простудится?
+**???:** Но сначала нужно обеспечить безопасность этого господина. Мы не можем оставить его здесь. Вдруг он простудится?
 
 **Эст:** Итак, позвольте мне ещё раз представиться. Меня зовут Эст, и я состою в деревенском Клубе праздных мечтателей. Правда, сейчас я его единственный член.
 
 **Паймон:** Паймон зовут Паймон, а это Путешественник. Мы...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы туристы, приехавшие посмотреть Петрикор.
-
-- **Путешественник:** Мы обычные искатели приключений.
-
-- **Путешественник:** Мы члены Особого патруля по охране и наблюдению.
 
 **Эст:** К сожалению, сейчас в деревне такая обстановка... Боюсь, вы разочаруетесь.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Мы обычные искатели приключений.
+
 **Эст:** Искатели приключений?.. Вы же здесь не замок ли какой-нибудь ищете?
+
+##### Вариант ответа 3
+
+- **Путешественник:** Мы члены Особого патруля по охране и наблюдению.
 
 **Эст:** Особый патруль? Невероятно! Не знаю, по какому вы здесь делу, но в сложившейся ситуации жители вряд ли будут сотрудничать...
 
 **Паймон:** (Эй, не стоит выдавать себя за государственного чиновника, не думаешь?)
 
+##### Общее продолжение
+
 **Паймон:** Подожди, Эст... Мы ведь уже слышали это имя, верно?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Это ведь ты привёл разбойников в замок Тёмного Владыки?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Значит, тебе всё сошло с рук. Неслыханно!
+
+##### Общее продолжение
 
 **Эст:** А? Что вы имеете в виду? Вы тоже...
 
@@ -284,9 +347,15 @@
 
 **Эст:** ...Почему только мы не пострадали? Это интересно...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Отправимся к руинам. Возможно, мы сможем найти решение.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Отправимся к руинам. Возможно, там нас ждёт сокровище!
+
+##### Общее продолжение
 
 **Паймон:** Эст, почему бы тебе не подождать нас здесь? Приключения по нашей части! Если ты пойдёшь с нами, то можешь превратиться в голема!
 
@@ -302,47 +371,74 @@
 
 **Эст:** Руины? Они в горах за деревней. Как раз в том направлении, куда побежала кошка.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хе-хе, кошка, хе-хе.
+
+**Паймон:** ...Путешественник, с тобой точно всё в порядке?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Нам пора в путь.
 
-**Паймон:** ...Путешественник, с тобой точно всё в порядке?
+##### Общее продолжение
 
 **Эст:** Сейчас не понять что творится. Будьте осторожнее.
 
 **Паймон:** Ты тоже будь осторожен! Мы скоро вернёмся!
 
+Хотя опасения подхватить простуду - это сейчас не самое важное,
+всё равно вместе с «нормальным» человеком вы переносите бессвязно бормочущего «звонаря» на соседнюю скамейку.
+
+Вы рассказываете Эсту о том, как за деревней встретили и прогнали грабителей, которые принимали камни за сокровища.
+
+#### Обыщите руины в горах
+
+#### Победите ожившую статую
+
 #### Побеседуйте с говорящим котом
 
-**Осси:** Неплохо, неплохо. Твоя честь останется незапятнанной даже в присутствии Охотников Сумеречного двора прошлого.
+**???:** Неплохо, неплохо. Твоя честь останется незапятнанной даже в присутствии Охотников Сумеречного двора прошлого.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Ого, это редкая сияющая кошка.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это говорящее животное!
+
+##### Общее продолжение
 
 **Паймон:** ...Мы видели много странного во время наших путешествий. Но всё равно кошка, которая светится и разговаривает... точно что-то странное...
 
-**Осси:** ...Не буду зацикливаться на том, что меня назвали странностью. О, отважные Путешественник и Паймон, вы настоящие герои, и сейчас самое время вам смело выступить вперёд!
+**Светящийся кот:** ...Не буду зацикливаться на том, что меня назвали странностью. О, отважные Путешественник и Паймон, вы настоящие герои, и сейчас самое время вам смело выступить вперёд!
 
-**Осси:** Немедленно отправляйтесь за мной в древнее царство в морских глубинах, чтобы усмирить разбушевавшуюся «симфонию» и спасти заблудшие души.
+**Светящийся кот:** Немедленно отправляйтесь за мной в древнее царство в морских глубинах, чтобы усмирить разбушевавшуюся «симфонию» и спасти заблудшие души.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Это тоже часть сюжета?
 
-- **Путешественник:** О да, я великий герой! Вперёд!
-
 **Паймон:** Гм, это какой-то... сюжет лёгкого романа от издательского дома Яэ из разряда «Он был нашим компаньоном в прошлой жизни, и лишь он сохранил воспоминания»?
+
+##### Вариант ответа 2
+
+- **Путешественник:** О да, я великий герой! Вперёд!
 
 **Паймон:** Действительно, почему тебя так легко одурачить? Путешественник, избранный герой, ради живота Паймон прошу тебя отправляйся прямо сейчас и принеси Фонту!
 
+##### Общее продолжение
+
 **Паймон:** Кстати, кто ты вообще?
 
-**Осси:** Не могу поверить, что мне придётся начинать с самого начала... Ладно. Я Уранид из Уранополиса, хранитель духов в древнем царстве.
+**Уранид из Уранополиса:** Не могу поверить, что мне придётся начинать с самого начала... Ладно. Я Уранид из Уранополиса, хранитель духов в древнем царстве.
 
 **Паймон:** У... Ур... Урано-что? Ну и названьице, язык заплетается! Паймон будет звать тебя Осси. Хорошее имя, да?
 
 **Осси:** Мяу-мяу?!
 
-Мяу-мяу?
+- **Путешественник:** Мяу-мяу?
 
 **Осси:** Хм. Похоже, я не могу управлять этим телом так, как хочу, и иногда чувствую, что животное внутри меня берёт верх... Если бы...
 
@@ -354,9 +450,11 @@
 
 **Паймон:** А? Паймон нужно подумать... Значит, у жителей Петрикора забрали души? А потом ещё и заняли их тела?! О-о, звучит ужасно!
 
-Ты сказал, что пока масштаб воздействия относительно невелик...
+- **Путешественник:** Ты сказал, что пока масштаб воздействия относительно невелик...
 
 **Осси:** Большое спасибо. Путь в древнюю страну лежит прямо под родником. Я уже проявил печать скрытого прохода.
+
+**Осси:** Теперь я активирую механизм, поддерживающий печать...
 
 **Осси:** Вот так. А теперь помоги мне достать струны арфы. И тогда я смогу снять печать и открыть путь.
 
@@ -372,7 +470,23 @@
 
 **Паймон:** Ух ты! Он прыгнул! Значит, кошки всё-таки умеют плавать?
 
-**Осси:** Теперь я активирую механизм, поддерживающий печать...
+**Осси:** Верно, Путешественник. Конечно, в конце концов даже Кур-де-Фонтейн будет уничтожен, если «избранный герой» не сможет восстановить гармонию хаотичной мелодии.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Выбора нет. В конце концов я герой...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Выбора нет. Давайте посмотрим.
+
+##### Общее продолжение
+
+**Паймон:** Хорошо. Тогда, Осси, показывай дорогу!
+
+#### Погрузитесь в пучину вместе с Осси
+
+#### Следуйте к Обветшалому замку под водой
 
 #### Следуйте к Обветшалому замку под водой
 
@@ -382,17 +496,25 @@
 
 **Осси:** ...Как-то так.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Пф, вот она твоя надёжность...
+
+**Осси:** Я всего лишь кошка, которая знает чуть больше деревенских, разве нет?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Хотелось бы иметь надёжного проводника.
 
-**Осси:** Я всего лишь кошка, которая знает чуть больше деревенских, разве нет?
+**Паймон:** Тогда дальше вас поведёт Паймон... Ох, как же Паймон хотелось это сказать!
+
+##### Общее продолжение
 
 **Осси:** Хе-хе, не будем об этом. От нас зависит, смогут ли души жителей деревни благополучно вернуться в свои тела. Так что нужно взбодриться!
 
 **Осси:** Обветшалый замок находится сразу за воротами. Двигаемся дальше.
 
-**Паймон:** Тогда дальше вас поведёт Паймон... Ох, как же Паймон хотелось это сказать!
+#### Отправляйтесь к Обветшалому замку
 
 #### Получите чудесную музыкальную шкатулку
 
@@ -408,11 +530,15 @@
 
 **Осси:** У тебя зоркий глаз. Это действительно музыкальная шкатулка. Но раз я знаю немного больше, чем обычная кошка, то скажу, что функций у этой шкатулки больше, чем можно было бы ожидать.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что? Она умеет разговаривать?
 
-- **Путешественник:** А ты, оказывается, злопамятен...
-
 **Осси:** Хм, это... не пришло мне на ум. К сожалению, такой функции пока нет.
+
+##### Вариант ответа 2
+
+- **Путешественник:** А ты, оказывается, злопамятен...
 
 **Паймон:** Паймон же пошутила! Ох... не думала, что ты воспримешь всё так серьёзно. Паймон была не права, не сердись.
 
@@ -420,37 +546,51 @@
 
 **Паймон:** Притворяешься кошкой в такой момент?!
 
+##### Общее продолжение
+
 **Осси:** С помощью этой шкатулки даже люди, ничего не смыслящие в музыке, смогут свободно распоряжаться силой симфонии. Уверен, что в дальнейшем она нам ещё пригодится.
 
 **Паймон:** А? Но разве жители не стали такими именно из-за хаоса в симфонии? А что, если Путешественник случайно нажмёт не на ту кнопку?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Симфония здесь тоже может стать хаотичной...
 
-- **Путешественник:** Паймон, я не настолько неуклюж / неуклюжа.
-
-И превратится в «источник всех зол»...
+- **Путешественник:** И превратится в «источник всех зол»...
 
 **Паймон:** Что? Каких зол? Путешественник, о чём это ты?
 
 **Осси:** ...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Паймон, я не настолько неуклюж. / Паймон, я не настолько неуклюжа.
+
 **Паймон:** Паймон имеет в виду какую-то непредвиденную ситуацию. Скажем, Осси внезапно выскакивает из-за угла и пугает тебя, неподвижные каменные статуи начинают двигаться, а из земли или стены возникают ловушки!..
 
 **Паймон:** Всё это очень даже может произойти!
+
+##### Общее продолжение
 
 **Осси:** Успокойтесь, теперь вам не стоит так волноваться. Могущественная, прекрасная и славная симфония являлась носителем золотых идеалов.
 
 **Осси:** Даже хаотичная симфония, сеющая смуту на земле, всего лишь случайность, последствие злоупотребления злодеями великой силой.
 
-**Осси:** Но если бы это был / была Путешественник, уверен, что он бы правильно использовал / она бы правильно использовала силу симфонии.
+**Осси:** Но если бы это был Путешественник, уверен, что он бы правильно использовал силу симфонии. / Но если бы это была Путешественник, уверен, что она бы правильно использовала силу симфонии.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Ты нам по-настоящему доверяешь.
 
-- **Путешественник:** Сомневаюсь...
-
 **Осси:** Можно сказать, у меня нет выбора. В конце концов, я теперь просто кошка, поэтому мне сложновато пользоваться этой музыкальной шкатулкой.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Сомневаюсь...
+
 **Паймон:** Не время шутить. Вдруг Осси воспримет это всерьёз?
+
+##### Общее продолжение
 
 **Осси:** Довольно болтать. Давайте проверим всё на практике. Вы ещё помните струны, которые мы сняли с арфы в руинах? На самом деле это была та самая партитура с записью мелодии симфонии.
 
@@ -470,7 +610,7 @@
 
 **Осси:** Хаотичная симфония должна быть где-то здесь. Если мы найдём её, то сможем вернуть отобранные у жителей души.
 
-Что ж, давайте поищем здесь подсказки.
+- **Путешественник:** Что ж, давайте поищем здесь подсказки.
 
 **Осси:** Разумное рассуждение. Насколько я помню, в этом замке немало удивительных комнат. Возможно, нам стоит сначала осмотреть их.
 
@@ -486,12 +626,29 @@
 
 **Осси:** Прежде чем разгадать тайну, мы должны найти подсказки в замке. Пора отправляться в путь.
 
+#### Отправляйтесь в Петрикор
+
+**Паймон:** Это, должно быть, и есть Петрикор!
+
+**Паймон:** Пейзажи ещё красивее, чем о них говорят.
+
+**Паймон:** Ох, какой приятный морской бриз!
+
+**Паймон:** Но Паймон всё же кажется, что здесь слишком безмолвно.
+
+**Паймон:** А?!
+
+- **Путешественник:** Что произошло?
+
+**Паймон:** Эм, ничего! Давайте сначала отправимся в другое место.
+
+Ваше величество...
+
 ## EN
 
 ### The Shadow Over Petrichor
 
 You encounter a series of strange occurrences after arriving in Petrichor for the first time. You decide to get to the bottom of it all...
-
 
 **Leader:** Hey, you! Yes, you! You blithering idiot! What are you doing dragging your feet for? Waiting for us all to get old!? Why in the blazes aren't all these boxes already on the ship!?
 
@@ -515,13 +672,19 @@ You encounter a series of strange occurrences after arriving in Petrichor for th
 
 **Leader:** Oi, you! Yeah, you, the big 'un and the tiny thing! What're you skulking over there for?
 
-- **Traveler:** Uh oh, we're in trouble!
+##### Response branch 1
 
-- **Traveler:** Can't leave any witnesses...
+- **Traveler:** Uh oh, we're in trouble!
 
 **Paimon:** Hey! We're not doing anything wrong over here, so what are you acting all nervous for?
 
+##### Response branch 2
+
+- **Traveler:** Can't leave any witnesses...
+
 **Paimon:** Huh? Traveler, what're you saying...?
+
+##### Shared continuation
 
 **Paimon:** Anyway, we should talk to them first.
 
@@ -533,7 +696,7 @@ You encounter a series of strange occurrences after arriving in Petrichor for th
 
 **Paimon:** Ooooh!
 
-Nice worldbuilding. Very detailed.
+- **Traveler:** Nice worldbuilding. Very detailed.
 
 **Paimon:** And then? And then? What happened next? How did you defeat the Dark Lord?
 
@@ -543,11 +706,17 @@ Nice worldbuilding. Very detailed.
 
 **The Dude They Call "Idiot":** Like the Boss said, uh... what is it we're doing again...? Oh yeah! "Disrupting the special military maneuvers being conducted by the Dark Lord's legions!" Totally a brilliant plan!
 
+##### Response branch 1
+
 - **Traveler:** You're the protagonists of your play, yet you aren't on the up and up...
+
+**Paimon:** So, where's this Dark Lord? When does he take the stage?
+
+##### Response branch 2
 
 - **Traveler:** When does this Dark Lord take the stage?
 
-**Paimon:** So, where's this Dark Lord? When does he take the stage?
+##### Shared continuation
 
 **Leader:** Ha! Do you think we'd still be lugging treasure if he showed up? Hah! Like as not we'd all have been turned into golems already, just like Este probably was — "Este the Pitiful" now, more like!
 
@@ -559,23 +728,39 @@ Nice worldbuilding. Very detailed.
 
 **Leader:** Hmph. So you won't 'fess up unless we char you first, eh? Let's get 'em, boys!
 
+As you know, this was once a peaceful town... In those days, it was not yet named Petrichor...
+We Fontainians lived here in peace and safety, until the golem armies of the Dark Lord Remus came...
+He was an awful tyrant, one who claimed to be the ruler of all waters. His forces had already obliterated countless towns and cities before arriving at ours.
+
+He took our lands, polluted the sources of pure water, and even tried to use music to tempt us...
+They raised high belltowers and fortresses, and the Dark Lord's fell melody enslaved our kin.
+But we, Fontainians free, rejected his rule! Thus did I, and the warriors under my command, march to war all across the land.
+
+#### Defeat the "bandits"
+
 #### Examine the chest carrying the "treasure"
 
 **Paimon:** ...There they go, huh? Guess they weren't acting after all.
 
 **Paimon:** But what was this "treasure" they were talking about? Dark Lord this, Dark Lord's keep that, no way any of that's real...
 
-Why don't we have a look at the "treasure"?
+- **Traveler:** Why don't we have a look at the "treasure"?
 
 **Paimon:** Eh!? But we don't know where this stuff came from...
 
-- **Traveler:** Paimon, expressing disinterest in treasure!? Say it isn't so!
+##### Response branch 1
 
-- **Traveler:** Consider this a necessary investigation.
+- **Traveler:** Paimon, expressing disinterest in treasure!? Say it isn't so!
 
 **Paimon:** Paimon's just worried that... What if, well, just in case there's some kind of evil dark lord-y trap in it...
 
+##### Response branch 2
+
+- **Traveler:** Consider this a necessary investigation.
+
 **Paimon:** You're not wrong, but... What if there's some kind of evil dark lord-y trap inside...
+
+##### Shared continuation
 
 **Paimon:** Ugh, guess there's no dissuading you! But please be careful, okay?
 
@@ -585,90 +770,103 @@ Why don't we have a look at the "treasure"?
 
 **Paimon:** Hmm... Let's go to Petrichor and ask around. Maybe it's some kind of landmark or lucky mascot or something!
 
-**Paimon:** As for these "treasures"... We...
+**Paimon's Voice:** As for these "treasures"... We...
 
-**Paimon:** ...Hey! Traveler, you...
+**Paimon's Voice:** ...Hey! Traveler, you...
 
+The thieves, who were beaten so badly they couldn't spare even a thought for the "treasures," fled on their boat.
 
-**Cassiodor:** Imperator. Imperator...
+And as it so happens, there were no traps in the container, of the evil dark lord-y variety or otherwise.
 
-A... dream...?
+But there was no valuable treasure within either. Within was naught but heavy shards of shattered stone.
 
-**Cassiodor:** You're finally awake, Imperator. This day is one of great import, the day when we shall sound the great Symphony, Phobos. There is yet time before the ritual, Imperator, but we should set out.
+#### Examine the chest carrying the "treasure"
 
-I seem to have had a dream.
+**???:** Imperator. Imperator...
 
-**Cassiodor:** A dream, Imperator? I did not know that gods could dream... In that case, what did you dream of? The great plains beyond the north wind? The silver tree beneath the frozen soil...?
+- **Traveler:** A... dream...?
 
-**Cassiodor:** Or did you see that golden future that you once showed me?
+**████:** You're finally awake, Imperator. This day is one of great import, the day when we shall sound the great Symphony, Phobos. There is yet time before the ritual, Imperator, but we should set out.
 
-I saw... the sea swallowing the earth...
+- **Traveler:** I seem to have had a dream.
 
-The children of white stone and brass sinking...
+**████:** A dream, Imperator? I did not know that gods could dream... In that case, what did you dream of? The great plains beyond the north wind? The silver tree beneath the frozen soil...?
 
-The collapse of all that was once radiant.
+**████:** Or did you see that golden future that you once showed me?
 
-**Cassiodor:** ...That prophecy, then, Imperator? It is precisely to prevent it from happening, to fight against inevitable fate, that we are here today.
+- **Traveler:** I saw... the sea swallowing the earth...
 
-**Cassiodor:** Just as you said, we have paid much for it, but once we are free of faFortuna'ste's shackles, those sacrifices shall not have been in vain...
+- **Traveler:** The children of white stone and brass sinking...
 
-**Cassiodor:** In this have I had faith ever since I accepted this body and became a Remurian...
+- **Traveler:** The collapse of all that was once radiant.
 
-**Cassiodor:** ...Apologies, Imperator. Forgive my lack of manners.
+**████:** ...That prophecy, then, Imperator? It is precisely to prevent it from happening, to fight against inevitable fate, that we are here today.
 
-**Cassiodor:** In any case, please, come with me.
+**████:** Just as you said, we have paid much for it, but once we are free of fa(Fortuna's)te's shackles, those sacrifices shall not have been in vain...
 
+**████:** In this have I had faith ever since I accepted this body and became a Remurian...
 
-**Scylla:** Remus, Remus...
+**████:** ...Apologies, Imperator. Forgive my lack of manners.
 
-**Scylla:** Remus. You once said that you would create a future free from the shackles of divine destiny.
+**████:** In any case, please, come with me.
 
-**Scylla:** Yet your realm now lies violently shattered, and the chasm you tried to bridge has grown deeper still. The immortal race you created and the peoples of the waters are slaughtering one another.
+**███:** Remus, Remus...
 
-**Scylla:** And now, this so-called Eternal City too faces imminent collapse...
+**███:** Remus. You once said that you would create a future free from the shackles of divine destiny.
 
-**Scylla:** You cannot control your own creation... The "Symphony" has brought neither justice nor happiness, but instead has become the source of all sin.
+**███:** Yet your realm now lies violently shattered, and the chasm you tried to bridge has grown deeper still. The immortal race you created and the peoples of the waters are slaughtering one another.
 
-**Scylla:** Though their flesh and blood have been sundered from water and soil, the lost souls guide them upon the path of inevitable death nonetheless. The curse of Fortuna is upon your people, and upon you.
+**███:** And now, this so-called Eternal City too faces imminent collapse...
 
-Do you still remember our promise...
+**███:** You cannot control your own creation... The "Symphony" has brought neither justice nor happiness, but instead has become the source of all sin.
 
-That is our last resort... As long as the Symphony is played...
+**███:** Though their flesh and blood have been sundered from water and soil, the lost souls guide them upon the path of inevitable death nonetheless. The curse of Fortuna is upon your people, and upon you.
 
-**Scylla:** Is this the only way you usurper-lords of humanity know to atone after bringing things to ruination? Still, your resolve, at least, does not shame your kingly crown.
+- **Traveler:** Do you still remember our promise...
 
-**Scylla:** And a promise was made, indeed. Therefore, allow me to bear witness to your end...
+- **Traveler:** That is our last resort... As long as the Symphony is played...
+
+**███:** Is this the only way you usurper-lords of humanity know to atone after bringing things to ruination? Still, your resolve, at least, does not shame your kingly crown.
+
+**███:** And a promise was made, indeed. Therefore, allow me to bear witness to your end...
 
 #### Talk to Paimon
 
 **Paimon:** ...Traveler... Please, wake up...
 
-I... Just now...
+- **Traveler:** I... Just now...
 
 **Paimon:** Waaah! You scared me to death! Traveler, you...
 
 **Paimon:** You suddenly just... Completely stopped moving and started staring at the statue! Like you were a statue yourself! Paimon thought you had been turned to stone by the dark lord's evil curse...
 
-I think I had a strange daydream...
+- **Traveler:** I think I had a strange daydream...
 
 **Paimon:** Th—There isn't really a curse, is there!? Traveler, are you okay!?
 
+- **Traveler:** I'm fine. Sorry for making you worry.
+
 **Paimon:** As long as you're not hurt... Yeah, we should definitely go to Petrichor first.
 
-I'm fine. Sorry for making you worry.
-
+#### Head to Petrichor
 
 **"Bellringer":** Welcome, travelers, O traversers of dreamscapes.
 
 **"Bellringer":** I am the bellringer at the intersection clock tower — the guide that welcomes travelers to the Eternal City.
 
-- **Traveler:** Oh joy, more worldbuilding, eh?
+##### Response branch 1
 
-- **Traveler:** So, valiant guardian, shall we find the Eternal City to our left or our right?
+- **Traveler:** Oh joy, more worldbuilding, eh?
 
 **Paimon:** (...Could he be part of the same troupe as those thieves from before?)
 
+##### Response branch 2
+
+- **Traveler:** So, valiant guardian, shall we find the Eternal City to our left or our right?
+
 **Paimon:** Wait, you're in character already!? Are you sure you're okay?
+
+##### Shared continuation
 
 **Paimon:** Um, leaving that aside for now, all the townspeople we ran into on the way over were acting really weird. Do you know what that's about?
 
@@ -688,47 +886,67 @@ I'm fine. Sorry for making you worry.
 
 **"Bellringer":** Hmm? Do you name me a dreamer?
 
+##### Response branch 1
+
 - **Traveler:** The symptoms do match.
+
+##### Response branch 2
 
 - **Traveler:** Who knows? We could be the ones dreaming.
 
 **Paimon:** No way, that's impossible! Um... At least, we probably aren't...?
 
+##### Shared continuation
+
 **"Bellringer":** D—Dreaming...? I certainly...
 
 **Paimon:** Hey! You... Uh oh, he's out cold...
 
-**Este:** Travelers from outside? Halt.
+**???:** Travelers from outside? Halt.
 
-**Este:** Excellent, you two look completely... Mentally sound.
+**???:** Excellent, you two look completely... Mentally sound.
 
 **Paimon:** Finally, a normal person! Seriously, what's going on in this town?
 
-**Este:** Before that, let's get this gentleman somewhere safe. Can't be leaving him lying here, can we? He'll catch a cold.
+**???:** Before that, let's get this gentleman somewhere safe. Can't be leaving him lying here, can we? He'll catch a cold.
 
 **Este:** Anyway, allow me to reintroduce myself. Call me Este. I'm a member of the town's Daydream Club — I'm the only member present right now, though.
 
-**Paimon:** Paimon's Paimon, and he / she's Traveler. We're...
+**Paimon:** Paimon's Paimon, and he's Traveler. We're... / Paimon's Paimon, and she's Traveler. We're...
+
+##### Response branch 1
 
 - **Traveler:** Tourists visiting Petrichor.
 
-- **Traveler:** Passing adventurers.
-
-- **Traveler:** We're members of the Special Security and Surveillance Patrol.
-
 **Este:** Heh. In that case, your timing could hardly be worse. I'm afraid our present state might disappoint you.
 
+##### Response branch 2
+
+- **Traveler:** Passing adventurers.
+
 **Este:** Adventurers, you say... You're not here to look for that castle or whatever, are you?
+
+##### Response branch 3
+
+- **Traveler:** We're members of the Special Security and Surveillance Patrol.
 
 **Este:** Patrol members, huh... My apologies, then, but I fear that at the current juncture, we townsfolk might struggle to cooperate with whatever investigation you're conducting...
 
 **Paimon:** (Hey, hey! Best not to impersonate officials, don'cha think?)
 
+##### Shared continuation
+
 **Paimon:** Wait. You introduced yourself as "Este"... We've heard that name before!
+
+##### Response branch 1
 
 - **Traveler:** It was you who brought the bandits into the Dark Lord's castle, was it not?
 
+##### Response branch 2
+
 - **Traveler:** Ah, I see you escaped with your life! Fabulous!
+
+##### Shared continuation
 
 **Este:** Huh? What? So... you've also...
 
@@ -748,9 +966,15 @@ I'm fine. Sorry for making you worry.
 
 **Este:** ...Hmm. Actually, why are we the only ones not affected? Interesting. Most interesting...
 
+##### Response branch 1
+
 - **Traveler:** Perhaps we can find a solution in the ruins.
 
+##### Response branch 2
+
 - **Traveler:** Maybe we can find treasure in the ruins!
+
+##### Shared continuation
 
 **Paimon:** Why don't you wait here, Este? Leave the adventuring to us! If you come too, you might get turned into a golem!
 
@@ -766,47 +990,74 @@ I'm fine. Sorry for making you worry.
 
 **Este:** The ruins? The mountain behind the town. Just so happens to be the exact direction that the cat ran off in.
 
+##### Response branch 1
+
 - **Traveler:** Hehe, kitty cat, hehe~
+
+**Paimon:** ...Traveler, are you sure you're okay?
+
+##### Response branch 2
 
 - **Traveler:** Then it's time we set off.
 
-**Paimon:** ...Traveler, are you sure you're okay?
+##### Shared continuation
 
 **Este:** Things are pretty murky right now. Take extra care.
 
 **Paimon:** You too, alright? We'll be right back, don't you worry!
 
+Though the risk of catching a cold may not be the most important thing right now,
+you still work together with the "normal" person to move the incoherently rambling "bellringer" onto a nearby bench.
+
+You tell Este about how you met and drove the "bandits" who saw the shattered stones as treasure away outside town.
+
+#### Explore the ruins in the mountain
+
+#### Defeat the revived statue
+
 #### Talk to the talking cat
 
-**Osse:** Not bad, not bad. Your valor would not know shame, even should it stand in the company of the Marechaussee Hunters of old.
+**???:** Not bad, not bad. Your valor would not know shame, even should it stand in the company of the Marechaussee Hunters of old.
+
+##### Response branch 1
 
 - **Traveler:** Whoa, it's a rare shiny cat!
 
+##### Response branch 2
+
 - **Traveler:** It's a talking animal!
+
+##### Shared continuation
 
 **Paimon:** ...We've seen a whole lot of really strange things on our journey. Even so, a glowing, talking cat... Paimon supposes it still makes the "rare" list...
 
-**Osse:** ...One such as I shall not dwell on being called a "strange thing." O chosen champions, Traveler and Paimon, the time has come for true heroes such as ye to step forth!
+**Glowing Cat:** ...One such as I shall not dwell on being called a "strange thing." O chosen champions, Traveler and Paimon, the time has come for true heroes such as ye to step forth!
 
-**Osse:** Come with me unto the ancient kingdom of the deep seas. We must still the chaotic "Symphony" if we are to save the lost souls.
+**Glowing Cat:** Come with me unto the ancient kingdom of the deep seas. We must still the chaotic "Symphony" if we are to save the lost souls.
+
+##### Response branch 1
 
 - **Traveler:** Err, is this also part of the worldbuilding too?
 
-- **Traveler:** Oh, right! I'm the hero! Let the journey begin!
-
 **Paimon:** Uh, could it be like... One of the Yae Publishing House's novels, the ones with the "He Was Our Companion in the Last Life, but Only He Inherited the Memories" kind of plot?
+
+##### Response branch 2
+
+- **Traveler:** Oh, right! I'm the hero! Let the journey begin!
 
 **Paimon:** Seriously, Traveler, how can you fall for this stuff so easily? Very well then, O chosen hero, for the sake of Paimon's tummy-tum, stand tall and move with haste to buy her some Fonta!
 
+##### Shared continuation
+
 **Paimon:** Speaking of... Just who are you?
 
-**Osse:** Must I start from the beginning? ... Very well. "Ouranides of Ouranopolis" is my name, a spirit-keeper of the ancient realm.
+**Ouranides of Ouranopolis:** Must I start from the beginning? ... Very well. "Ouranides of Ouranopolis" is my name, a spirit-keeper of the ancient realm.
 
 **Paimon:** Uh, Ou—Oura... Ouwhatnides of the where now? Ugh, what a tongue-twister! Paimon's just gonna call you "Osse" for short. That's close enough, right? What do you think?
 
 **Osse:** Meow, meow!?
 
-Meow, meow?
+- **Traveler:** Meow, meow?
 
 **Osse:** Hmm. It appears that I cannot command this body as I wish, to the extent that bestial behaviors may even overbear me from time to time... If, from the beginning, I could only have...
 
@@ -818,9 +1069,11 @@ Meow, meow?
 
 **Paimon:** Eh? Let Paimon think... So what you're saying is that the townspeople of Petrichor have had their souls stolen? And then their bodies have been possessed... Waaah, that sounds super scary!
 
-You said that the affected area isn't very large yet...
+- **Traveler:** You said that the affected area isn't very large yet...
 
 **Osse:** Thank you so much. The road to the ancient realm lies beneath this spring you see before you. I have caused the seal on the hidden path to manifest.
+
+**Osse:** Next, I shall activate the device that maintains the seal...
 
 **Osse:** There we go. Now then, help me retrieve the harp's strings, and I shall thus be able to break the seal and open the way.
 
@@ -836,7 +1089,23 @@ You said that the affected area isn't very large yet...
 
 **Paimon:** Wow, he just jumped down! Can cats swim?
 
-**Osse:** Next, I shall activate the device that maintains the seal...
+**Osse:** That is correct, Traveler. Of course, eventually, even the Court of Fontaine will be consumed if the "chosen hero" cannot restore harmony to the chaotic melody.
+
+##### Response branch 1
+
+- **Traveler:** Nothing else for it. I am the hero, after all...
+
+##### Response branch 2
+
+- **Traveler:** No choice but to take a look.
+
+##### Shared continuation
+
+**Paimon:** Yeah! Alright then, Osse, lead the way!
+
+#### Follow Osse into the deep spring
+
+#### Go to the underwater Faded Castle
 
 #### Go to the underwater Faded Castle
 
@@ -846,17 +1115,25 @@ You said that the affected area isn't very large yet...
 
 **Osse:** ...Or so I believe.
 
+##### Response branch 1
+
 - **Traveler:** Poof, and just like that, you suddenly seem a lot less reliable...
+
+**Osse:** Well, what am I but a cat that knows an inkling more than those in town, hmm?
+
+##### Response branch 2
 
 - **Traveler:** I really wish I had a reliable guide.
 
-**Osse:** Well, what am I but a cat that knows an inkling more than those in town, hmm?
+**Paimon:** In that case, leave the guiding to Paimon! ...Well, that's what Paimon would like to say, anyway!
+
+##### Shared continuation
 
 **Osse:** Hehe... Anyway, we are the sole arbiters of whether the souls of the townsfolk can safely return to their bodies or not, so eyes up, now.
 
 **Osse:** The Faded Castle is just through that great gate. Let us continue onward.
 
-**Paimon:** In that case, leave the guiding to Paimon! ...Well, that's what Paimon would like to say, anyway!
+#### Head to the Faded Castle
 
 #### Obtain a fantastical music box
 
@@ -872,11 +1149,15 @@ You said that the affected area isn't very large yet...
 
 **Osse:** Good eye. That is indeed a music box, but just as I have knowledge beyond ordinary cats, this music box has functions beyond most others.
 
+##### Response branch 1
+
 - **Traveler:** What, can it speak too?
 
-- **Traveler:** My my, I didn't think you would be so catty...
-
 **Osse:** Hmm? That... did not cross my mind. Regrettably, it does not have such a function — for now, at least.
+
+##### Response branch 2
+
+- **Traveler:** My my, I didn't think you would be so catty...
 
 **Paimon:** Hey, Paimon was just joking before! She didn't think you'd take it seriously... Um, it's Paimon's fault, okay? Don't be mad...
 
@@ -884,37 +1165,51 @@ You said that the affected area isn't very large yet...
 
 **Paimon:** Seriously!? Now you pretend to be a cat?
 
+##### Shared continuation
+
 **Osse:** Anyway, even those who lack any musical knowledge can freely operate the power of the "Symphony" using this box. We will have use of it later, I am sure.
 
 **Paimon:** Huh? But isn't it because this "Symphony" has gone all whacky that all the townsfolk turned into... whatever they are now? So what if Traveler presses the wrong button or something?
 
+##### Response branch 1
+
 - **Traveler:** The "Symphony" here may also become chaotic...
 
-- **Traveler:** What sort of clumsy clod do you take me for, Paimon?
-
-And become "the source of all sins"...
+- **Traveler:** And become "the source of all sins"...
 
 **Paimon:** Wait, what? What "sins"? You okay over there, Traveler?
 
 **Osse:** ...
 
+##### Response branch 2
+
+- **Traveler:** What sort of clumsy clod do you take me for, Paimon?
+
 **Paimon:** Paimon's just thinking about the worst-case scenario. Maybe Osse might jump out from a corner and scare you. One of these unmoving statues might start walking around! Or maybe traps might spring out from the ground and the walls...!
 
 **Paimon:** Any of those could happen, right?
+
+##### Shared continuation
 
 **Osse:** Peace, now, you need not be so fretful. The "Symphony" was mighty, beautiful, and glorious once, an existence that shouldered golden ideals.
 
 **Osse:** That it sows chaos upon the surface is a mere mishap of misalignment, the result of evildoers misusing great, glorious power.
 
-**Osse:** But were it Traveler, surely he / she would wield its power correctly.
+**Osse:** But were it Traveler, surely he would wield its power correctly. / But were it Traveler, surely she would wield its power correctly.
+
+##### Response branch 1
 
 - **Traveler:** That's quite a lot of trust you're putting in us.
 
-- **Traveler:** I wouldn't be so sure if I were you...
-
 **Osse:** It might be more accurate to say that I have no other option. I am a mere cat at present, after all. Should I wish to make use of the music box myself, it might prove somewhat difficult.
 
+##### Response branch 2
+
+- **Traveler:** I wouldn't be so sure if I were you...
+
 **Paimon:** Hey! Now's not the time to be joking around. What if Osse takes you seriously, huh?
+
+##### Shared continuation
 
 **Osse:** We have spoken this much. Now, to put things to the test. Remember the strings we got from the harp in the ruins? Those were, in truth, the "scores" on which the "Symphony" was recorded.
 
@@ -934,7 +1229,7 @@ And become "the source of all sins"...
 
 **Osse:** The chaotic "Symphony" must be here. If we can locate it, we can retrieve the souls that have been taken from the townsfolk.
 
-Then let's have a look around for starters.
+- **Traveler:** Then let's have a look around for starters.
 
 **Osse:** A reasonable judgment. If memory serves, this castle has a great many strange rooms. Perhaps they are worth investigating first.
 
@@ -950,12 +1245,29 @@ Then let's have a look around for starters.
 
 **Osse:** Still, before the riddle may be solved, we must first find the clues that await us in the castle. Come, let us away.
 
+#### Head to Petrichor
+
+**Paimon:** Well, this should be Petrichor!
+
+**Paimon:** It's even more beautiful than we'd heard.
+
+**Paimon:** Wow, and the sea breeze is super comfy, too!
+
+**Paimon:** Still, is it just Paimon, or is this place kinda deserted...?
+
+**Paimon:** Eek!
+
+- **Traveler:** Did something happen?
+
+**Paimon:** Uh, um, nothing! Let's just, uh, go somewhere else first, shall we?
+
+Imperator...
+
 ## ZH
 
 ### 佩特莉可的阴霾
 
 初到佩特莉可镇便遇上了一连串怪事，你决定前往镇上一探究竟…
-
 
 **领头的家伙:** 喂，你这笨蛋！怎么还有这么多箱子没搬到船上，磨磨蹭蹭的…要搞到什么时候啊！
 
@@ -979,13 +1291,19 @@ Then let's have a look around for starters.
 
 **领头的家伙:** 喂！那边一大一小的，鬼鬼祟祟地在干什么呢！
 
-- **旅行者:** 完、完蛋了！
+##### 对话分支 1
 
-- **旅行者:** 不能留下目击者…
+- **旅行者:** 完、完蛋了！
 
 **派蒙:** 我们也没有干什么坏事吧，有什么好紧张的！
 
+##### 对话分支 2
+
+- **旅行者:** 不能留下目击者…
+
 **派蒙:** 啊？旅行者，你在说什么呀…？
+
+##### 共同后续
 
 **派蒙:** 总之，还是先跟他们聊聊吧。
 
@@ -997,7 +1315,7 @@ Then let's have a look around for starters.
 
 **派蒙:** 哦哦哦！
 
-好详细的背景设定。
+- **旅行者:** 好详细的背景设定。
 
 **派蒙:** 然后呢然后呢？你们是怎么打败魔王的呀？
 
@@ -1007,11 +1325,17 @@ Then let's have a look around for starters.
 
 **被称作「笨蛋」的家伙:** 就像老大说的，什么来着…「扰乱魔王军部署的特别军事行动」，真是高明的计策！
 
+##### 对话分支 1
+
 - **旅行者:** 身为主角，却一点都不光明磊落…
+
+**派蒙:** 那魔王呢？魔王什么时候登场？
+
+##### 对话分支 2
 
 - **旅行者:** 那魔王什么时候登场？
 
-**派蒙:** 那魔王呢？魔王什么时候登场？
+##### 共同后续
 
 **领头的家伙:** 哈！要是魔王登场了，我们还能转运宝藏？就像埃斯特，说不定现在已经被变成魔像，成了「可怜的埃斯特」啦！
 
@@ -1023,23 +1347,39 @@ Then let's have a look around for starters.
 
 **领头的家伙:** 哼，不吃点苦头就不愿意老实交待吗。兄弟们，抄家伙！
 
+就像你们知道的那样，这里原本是一座平静的小镇…那时它的名字还不叫佩特莉可…
+我们枫丹人在小镇里过着无忧无虑的生活，直到「魔王利魔世」的魔像军团来到了这里…
+那是个邪恶的大暴君，他自称是整片水域的统治者，在来到这里之前，他的军团已经毁灭了无数个城镇了。
+
+他们夺走了我们的土地，污染了纯净的水源，还想要用乐声来诱惑我们…
+他们建起高高的钟楼和城堡，魔王的旋律把我们的同胞都变成了奴隶。
+然而我们自由的枫丹人绝不接受暴君的统治！为了终结魔王的暴政，我和我麾下的勇士们四处征战。
+
+#### 击败「盗贼」们
+
 #### 观察装载「宝物」的箱子
 
 **派蒙:** …居然就这样跑掉了，原来他们真的不是在演戏喔。
 
 **派蒙:** 可是，「宝藏」又是怎么回事？什么魔王，什么魔王城，怎么可能是真的…
 
-要不我们打开看看宝藏？
+- **旅行者:** 要不我们打开看看宝藏？
 
 **派蒙:** 欸？！可是这种来路不明的东西…
 
-- **旅行者:** 我的天，派蒙居然对宝藏没兴趣！
+##### 对话分支 1
 
-- **旅行者:** 这是必要的调查。
+- **旅行者:** 我的天，派蒙居然对宝藏没兴趣！
 
 **派蒙:** 我只是怕…万一、万一箱子里有什么魔王邪恶陷阱…
 
+##### 对话分支 2
+
+- **旅行者:** 这是必要的调查。
+
 **派蒙:** 你说得没错，但是，如果里面有什么魔王邪恶陷阱…
+
+##### 共同后续
 
 **派蒙:** 真拿你没办法！不过，要小心一点哦！
 
@@ -1049,90 +1389,103 @@ Then let's have a look around for starters.
 
 **派蒙:** 唔…我们还是到佩特莉可镇问问情况吧，说不定是镇上的重要地标、吉祥物什么的呢！
 
-**派蒙:** 至于这些「宝藏」…我们…
+**派蒙的声音:** 至于这些「宝藏」…我们…
 
-**派蒙:** …喂！旅行者，你…
+**派蒙的声音:** …喂！旅行者，你…
 
+被打得落花流水的小贼连「宝藏」都顾不上，驾着船逃跑了。
 
-**卡西奥多:** 王上，王上…
+结果，箱子中并没有什么魔王邪恶陷阱。
 
-是，梦吗？
+然而也没有什么财宝。里面装满的都是沉甸甸的碎石。
 
-**卡西奥多:** 王上，您终于醒了。今天是奏响伟大乐章「福波斯」的重要日子，虽然距离仪式开始还有一段时间，不过我们也该出发了。
+#### 观察装载「宝物」的箱子
 
-我好像做了一个梦。
+**？？？:** 王上，王上…
 
-**卡西奥多:** 梦？原来神明也会做梦吗…那么，您做了什么样的梦，是北风之外的原野，还是冻土之下的银树…
+- **旅行者:** 是，梦吗？
 
-**卡西奥多:** 又或是您曾向我展现的那个黄金般的未来呢？
+**「████」:** 王上，您终于醒了。今天是奏响伟大乐章「福波斯」的重要日子，虽然距离仪式开始还有一段时间，不过我们也该出发了。
 
-我看见…海水吞没大地…
+- **旅行者:** 我好像做了一个梦。
 
-白石与黄铜的子嗣也随之沉沦…
+**「████」:** 梦？原来神明也会做梦吗…那么，您做了什么样的梦，是北风之外的原野，还是冻土之下的银树…
 
-一切曾辉煌的都分崩离析。
+**「████」:** 又或是您曾向我展现的那个黄金般的未来呢？
 
-**卡西奥多:** …是那个预言吗？正是为了阻止它的发生，为了对抗必然的命运，我们才会走到今天。
+- **旅行者:** 我看见…海水吞没大地…
 
-**卡西奥多:** 就像您说的那样，虽然已为此付出了诸多代价，但等到我们终能摆脱「命法图纳运」的枷锁之时，所有的牺牲都不会是徒劳…
+- **旅行者:** 白石与黄铜的子嗣也随之沉沦…
 
-**卡西奥多:** 从我接受了这副身躯成为雷穆利亚人之后，便一直这样相信着…
+- **旅行者:** 一切曾辉煌的都分崩离析。
 
-**卡西奥多:** 抱歉，我有些失态了…
+**「████」:** …是那个预言吗？正是为了阻止它的发生，为了对抗必然的命运，我们才会走到今天。
 
-**卡西奥多:** 总之，请随我来吧，王上。
+**「████」:** 就像您说的那样，虽然已为此付出了诸多代价，但等到我们终能摆脱「命(法图纳)运」的枷锁之时，所有的牺牲都不会是徒劳…
 
+**「████」:** 从我接受了这副身躯成为雷穆利亚人之后，便一直这样相信着…
 
-**斯库拉:** 雷穆斯，雷穆斯…
+**「████」:** 抱歉，我有些失态了…
 
-**斯库拉:** 雷穆斯，你曾说要创造出不受天命桎梏的未来。
+**「████」:** 总之，请随我来吧，王上。
 
-**斯库拉:** 然而如今你的国土被暴力所分裂，你试图抹平的隔阂变成了更深的鸿沟。你制造的那些不朽的族裔，正在与水的子民们自相残杀。
+**「███」:** 雷穆斯，雷穆斯…
 
-**斯库拉:** 现在，这座所谓的「永恒之城」也要分崩离析了…
+**「███」:** 雷穆斯，你曾说要创造出不受天命桎梏的未来。
 
-**斯库拉:** 你无法掌控你的造物…「乐章」并未带来正义与幸福，而是成为了一切罪恶的源泉。
+**「███」:** 然而如今你的国土被暴力所分裂，你试图抹平的隔阂变成了更深的鸿沟。你制造的那些不朽的族裔，正在与水的子民们自相残杀。
 
-**斯库拉:** 即便他们的血肉隔绝了水和土，但迷途的灵魂还是把他们引上了必死的道路。「法图纳」诅咒着你的臣民，也诅咒着你。
+**「███」:** 现在，这座所谓的「永恒之城」也要分崩离析了…
 
-还记得我们的约定吗…
+**「███」:** 你无法掌控你的造物…「乐章」并未带来正义与幸福，而是成为了一切罪恶的源泉。
 
-那是最后的办法了…只要演奏乐章…
+**「███」:** 即便他们的血肉隔绝了水和土，但迷途的灵魂还是把他们引上了必死的道路。「法图纳」诅咒着你的臣民，也诅咒着你。
 
-**斯库拉:** 人类的僭主，把事情搞砸之后便只能用这种方式来赎罪吗？不过你的决断至少有着身为王的器量。
+- **旅行者:** 还记得我们的约定吗…
 
-**斯库拉:** 既然是约定，那么就由老夫来见证你的终末吧…
+- **旅行者:** 那是最后的办法了…只要演奏乐章…
+
+**「███」:** 人类的僭主，把事情搞砸之后便只能用这种方式来赎罪吗？不过你的决断至少有着身为王的器量。
+
+**「███」:** 既然是约定，那么就由老夫来见证你的终末吧…
 
 #### 和派蒙对话
 
 **派蒙:** …旅行者…快醒醒…
 
-刚才我…
+- **旅行者:** 刚才我…
 
 **派蒙:** 呜呜，吓死我了！旅行者，你…
 
 **派蒙:** 你突然就…突然就对着雕像一动不动发呆，就好像变成了雕像一样！我还以为，你是中了魔王黑暗诅咒，变成石像了…
 
-好像做了个奇怪的白日梦…
+- **旅行者:** 好像做了个奇怪的白日梦…
 
 **派蒙:** 该、该不会真的有什么诅咒？！旅行者，你不要紧吧？
 
+- **旅行者:** 我没事。让你担心了。
+
 **派蒙:** 没事就好…嗯，我们还是先去佩特莉可镇看看吧。
 
-我没事。让你担心了。
-
+#### 前往佩特莉可镇
 
 **「敲钟人」:** 欢迎你们，穿越梦境之地的旅人。
 
 **「敲钟人」:** 我是交汇地钟楼的敲钟人，也是迎接旅者进入伟大的「永恒之城」的引路人。
 
-- **旅行者:** 还要新加设定吗？
+##### 对话分支 1
 
-- **旅行者:** 去「永恒之城」往左走还是往右走？
+- **旅行者:** 还要新加设定吗？
 
 **派蒙:** （…他该不会也和之前那些小贼是一伙的吧？）
 
+##### 对话分支 2
+
+- **旅行者:** 去「永恒之城」往左走还是往右走？
+
 **派蒙:** 你怎么这么快就进入角色啦！你真的没事吗？
+
+##### 共同后续
 
 **派蒙:** 唔，先不提这个，我们一路上遇到的人样子都怪怪的，你知道是怎么回事吗？
 
@@ -1152,47 +1505,67 @@ Then let's have a look around for starters.
 
 **「敲钟人」:** 梦游？你是说我在做梦？
 
+##### 对话分支 1
+
 - **旅行者:** 看症状确实挺像的。
+
+##### 对话分支 2
 
 - **旅行者:** 当然也有可能是我们在做梦。
 
 **派蒙:** 怎么可能！应该不是吧…？
 
+##### 共同后续
+
 **「敲钟人」:** 梦…梦吗，我确实…
 
 **派蒙:** 喂，你没事吧！怎么突然晕倒了…
 
-**埃斯特:** 是外来的旅人吗？请留步。
+**？？？:** 是外来的旅人吗？请留步。
 
-**埃斯特:** 太好了，你们看起来十分…神智健全。
+**？？？:** 太好了，你们看起来十分…神智健全。
 
 **派蒙:** 总算遇到一个正常人了！佩特莉可镇到底发生了…
 
-**埃斯特:** 在这之前，我们还是先把这位先生搬到安全的地方去吧，总不能让他一直在这儿躺着，会感冒的。
+**？？？:** 在这之前，我们还是先把这位先生搬到安全的地方去吧，总不能让他一直在这儿躺着，会感冒的。
 
 **埃斯特:** 那么重新自我介绍一下，我是埃斯特，是镇上的空想俱乐部的成员，不过现在整个俱乐部只有我一个人在这里。
 
-**派蒙:** 我是派蒙，他 / 她是旅行者，我们是…
+**派蒙:** 我是派蒙，他是旅行者，我们是… / 我是派蒙，她是旅行者，我们是…
+
+##### 对话分支 1
 
 - **旅行者:** 来佩特莉可镇旅行的游客。
 
-- **旅行者:** 路过的冒险家。
-
-- **旅行者:** 特巡队的成员。
-
 **埃斯特:** 那实在是太不巧了，镇上现在的情况…恐怕要让你们失望了。
 
+##### 对话分支 2
+
+- **旅行者:** 路过的冒险家。
+
 **埃斯特:** 冒险家吗…你们该不会也是来寻找那个什么城堡的吧…
+
+##### 对话分支 3
+
+- **旅行者:** 特巡队的成员。
 
 **埃斯特:** 竟然是特巡队的人吗，虽然不知道你们是来处理什么案件的，但是现在的情况也没办法让大家配合了…
 
 **派蒙:** （喂，还是不要冒充公务人员比较好吧。）
 
+##### 共同后续
+
 **派蒙:** 不过说到「埃斯特」…我们之前听过这个名字吧？
+
+##### 对话分支 1
 
 - **旅行者:** 就是你把强盗带进了魔王的城堡？
 
+##### 对话分支 2
+
 - **旅行者:** 原来你逃过一劫，真为你高兴！
+
+##### 共同后续
 
 **埃斯特:** 啊？什么意思？果然你们也…
 
@@ -1212,9 +1585,15 @@ Then let's have a look around for starters.
 
 **埃斯特:** …为何唯独只有我们没有受到影响，嗯，很有趣…
 
+##### 对话分支 1
+
 - **旅行者:** 我们去遗迹看看，说不定能解决。
 
+##### 对话分支 2
+
 - **旅行者:** 我们去遗迹看看，说不定有宝藏！
+
+##### 共同后续
 
 **派蒙:** 那埃斯特就在这里等着吧，冒险的事情交给我们就好！要是你也一起来，说不定会被变成魔像的！
 
@@ -1230,47 +1609,74 @@ Then let's have a look around for starters.
 
 **埃斯特:** 遗迹吗？在小镇后山。正好，刚刚那只猫跑去的方向就是了。
 
+##### 对话分支 1
+
 - **旅行者:** 嘿嘿，猫猫，嘿嘿。
+
+**派蒙:** …旅行者，你真的没事吗？
+
+##### 对话分支 2
 
 - **旅行者:** 那我们出发了。
 
-**派蒙:** …旅行者，你真的没事吗？
+##### 共同后续
 
 **埃斯特:** 现在一切都不明朗，你们要多加小心啊。
 
 **派蒙:** 你也是呀，要注意安全！我们去去就回！
 
+虽说这会儿感冒似乎不是最要紧的问题，
+还是与这位正常人一起将语无伦次的「敲钟人」搬到了附近的长椅上。
+
+你们将在小镇外遇到并驱逐了将石头当成宝藏的「盗贼」的事告诉了埃斯特。
+
+#### 探索后山遗迹
+
+#### 击败复活的石像
+
 #### 与会说话的猫对话
 
-**小呜斯:** 不错，不错，战斗的英姿，丝毫不逊于昔日的「逐影猎人」…
+**？？？:** 不错，不错，战斗的英姿，丝毫不逊于昔日的「逐影猎人」…
+
+##### 对话分支 1
 
 - **旅行者:** 哇，是珍稀的闪光猫猫。
 
+##### 对话分支 2
+
 - **旅行者:** 是会说话的动物喔！
+
+##### 共同后续
 
 **派蒙:** …我们的旅途中倒是已经见过不少怪东西了，事到如今，就算是又会发光又会说话的猫…也还是比较稀有吧…
 
-**小呜斯:** …吾就不纠结于被称为「怪东西」了。旅行者，还有派蒙，被选中的勇者，现在正是两位这样真正的英雄挺身而出的时刻！
+**发光的猫:** …吾就不纠结于被称为「怪东西」了。旅行者，还有派蒙，被选中的勇者，现在正是两位这样真正的英雄挺身而出的时刻！
 
-**小呜斯:** 为了拯救那些迷失的灵魂，请你们立刻动身，随我前往深海的旧日国度，平息失序的「乐章」吧。
+**发光的猫:** 为了拯救那些迷失的灵魂，请你们立刻动身，随我前往深海的旧日国度，平息失序的「乐章」吧。
+
+##### 对话分支 1
 
 - **旅行者:** 这也是设定的一部分吗？
 
-- **旅行者:** 哦哦，我是勇者！那快出发吧！
-
 **派蒙:** 呃，难道是什么…八重堂那种，「上次轮回中是我们的同伴，但只有他继承了记忆」的设定吗？
+
+##### 对话分支 2
+
+- **旅行者:** 哦哦，我是勇者！那快出发吧！
 
 **派蒙:** 真是的，你怎么这么好骗呀！旅行者，被选中的勇者，为了派蒙的肚子，请你立刻动身，买枫达给我喝！
 
+##### 共同后续
+
 **派蒙:** 话说回来，你到底是谁呀？
 
-**小呜斯:** 居然要从这里开始讲起吗…好吧。吾乃「乌兰诺珀里斯的乌兰依代」，旧日国度的守灵人。
+**乌兰诺珀里斯的乌兰依代:** 居然要从这里开始讲起吗…好吧。吾乃「乌兰诺珀里斯的乌兰依代」，旧日国度的守灵人。
 
 **派蒙:** 乌…乌…乌什么斯？舌头都要打结了！就叫你「小呜斯」好了，跟猫咪喜欢的「噗嘶噗嘶」声发音也很相近，是个不错的称呼吧？
 
 **小呜斯:** 喵喵？！
 
-喵喵？
+- **旅行者:** 喵喵？
 
 **小呜斯:** 看来我还不能很好地驾驭这具躯体，以至于偶尔会表现出生物原本的习性…要是一开始能…
 
@@ -1282,9 +1688,11 @@ Then let's have a look around for starters.
 
 **派蒙:** 欸？我想想…也就是说，佩特莉可镇的人，他们的灵魂被夺走了？然后，身体又被占据了…呜哇，听起来好可怕！
 
-你说目前受影响的规模还比较小…
+- **旅行者:** 你说目前受影响的规模还比较小…
 
 **小呜斯:** 非常感谢，通往旧日国度的道路就在你们眼前的这汪泉水之下。刚才，我已经让隐藏道路的封印显现了。
+
+**小呜斯:** 接下来就由我来激活维持封印的机关…
 
 **小呜斯:** 好了，现在请你替我取下竖琴的琴弦，如此一来我就能解开封印，打开道路了。
 
@@ -1300,7 +1708,23 @@ Then let's have a look around for starters.
 
 **派蒙:** 哇！他跳下去了！猫猫居然会游泳吗？
 
-**小呜斯:** 接下来就由我来激活维持封印的机关…
+**小呜斯:** 不错，旅行者。当然喽，除非「被选中的勇者」能够扭转失序的旋律，不然连枫丹廷也迟早会被吞噬。
+
+##### 对话分支 1
+
+- **旅行者:** 真没办法，既然是勇者…
+
+##### 对话分支 2
+
+- **旅行者:** 真没办法，我们去看看。
+
+##### 共同后续
+
+**派蒙:** 嗯！那小呜斯给我们带路吧！
+
+#### 跟随小呜斯跃入深泉
+
+#### 前往水下的「褪色城堡」
 
 #### 前往水下的「褪色城堡」
 
@@ -1310,17 +1734,25 @@ Then let's have a look around for starters.
 
 **小呜斯:** …似乎是这样。
 
+##### 对话分支 1
+
 - **旅行者:** 突然变得不可靠起来了…
+
+**小呜斯:** 毕竟我只是比镇上的猫稍微懂得多一点的猫而已嘛。
+
+##### 对话分支 2
 
 - **旅行者:** 真希望能有个靠谱的向导。
 
-**小呜斯:** 毕竟我只是比镇上的猫稍微懂得多一点的猫而已嘛。
+**派蒙:** 那么接下来就由我来带路…虽然很想这么说啦！
+
+##### 共同后续
 
 **小呜斯:** 呵呵，先不说这些了，镇上居民的灵魂能否平安回到各自的躯体就全靠我们了，还得请两位打起精神来呀。
 
 **小呜斯:** 穿过大门就是褪色城堡了，我们继续前进吧。
 
-**派蒙:** 那么接下来就由我来带路…虽然很想这么说啦！
+#### 走向「褪色城堡」
 
 #### 获得奇妙的音乐盒
 
@@ -1336,11 +1768,15 @@ Then let's have a look around for starters.
 
 **小呜斯:** 好眼力，这的确是音乐盒。不过就像我比普通的猫懂得多一点，这个音乐盒也比普通的音乐盒功能更丰富一点。
 
+##### 对话分支 1
+
 - **旅行者:** 怎么，它也会说话？
 
-- **旅行者:** 没想到你还挺记仇的…
-
 **小呜斯:** 哦？我倒是没有想到这一层。可惜，它暂时没有这样的功能。
+
+##### 对话分支 2
+
+- **旅行者:** 没想到你还挺记仇的…
 
 **派蒙:** 我就是随口那么一说嘛！唔…没想到你会这么认真，是我不好，你不要再生气啦。
 
@@ -1348,23 +1784,31 @@ Then let's have a look around for starters.
 
 **派蒙:** 这种时候装猫吗？！
 
+##### 共同后续
+
 **小呜斯:** 总之，有了这个，就算是对乐理一无所知的人也能自如使用「乐章」的力量，我们之后会用得上它的。
 
 **派蒙:** 欸？可是镇上的居民不就是因为什么「乐章」失序才会变成那副样子吗？万一旅行者一不小心按错了什么地方…
 
+##### 对话分支 1
+
 - **旅行者:** 这里的「乐章」可能也会失序…
 
-- **旅行者:** 我才不会那么笨手笨脚啦。
-
-成为「一切罪恶的源泉」…
+- **旅行者:** 成为「一切罪恶的源泉」…
 
 **派蒙:** 嗯？什么罪恶啦？旅行者你到底在说什么啊？
 
 **小呜斯:** ……
 
+##### 对话分支 2
+
+- **旅行者:** 我才不会那么笨手笨脚啦。
+
 **派蒙:** 我是说万一的情况，比方说小呜斯突然从转角处跳出来吓你一跳，以为不会动的石像突然动起来了，地上或者墙上突然出现陷阱…！
 
 **派蒙:** 这些事情都是有可能发生的！
+
+##### 共同后续
 
 **小呜斯:** 倒也不必这样忧虑，「乐章」原本是伟大、美好、光明、承载了金色理想的存在。
 
@@ -1372,13 +1816,19 @@ Then let's have a look around for starters.
 
 **小呜斯:** 不过如果是旅行者的话，想必能正确地使用「乐章」的力量吧。
 
-- **旅行者:** 你还真信任我们啊。
+##### 对话分支 1
 
-- **旅行者:** 那可不好说…
+- **旅行者:** 你还真信任我们啊。
 
 **小呜斯:** 也可以说我别无选择吧，毕竟现在的我只是一只猫，要想使用这个音乐盒也有些困难啦。
 
+##### 对话分支 2
+
+- **旅行者:** 那可不好说…
+
 **派蒙:** 这种时候就不要开玩笑啦，万一小呜斯当真了怎么办？
+
+##### 共同后续
 
 **小呜斯:** 说了这么多，不如先试试看吧。还记得之前从遗迹里的竖琴上取得的琴弦吗？那就是记录了「乐章」旋律的「曲谱」。
 
@@ -1398,7 +1848,7 @@ Then let's have a look around for starters.
 
 **小呜斯:** 无论如何，失序的「乐章」一定就在这里。如果能探明其所在的话，或许就能找回镇上居民被夺走的灵魂了。
 
-那就先在附近找找看有没有线索吧。
+- **旅行者:** 那就先在附近找找看有没有线索吧。
 
 **小呜斯:** 合理的判断。根据我的记忆，这座城堡里有不少奇妙的房间，或许可以先去调查看看。
 
@@ -1413,3 +1863,21 @@ Then let's have a look around for starters.
 **派蒙:** 在这种时候卖关子喔！小呜斯意外的还挺坏心眼的呢。
 
 **小呜斯:** 但是在谜底揭晓以前，我们得先在城堡找到线索。这就行动起来吧。
+
+#### 前往佩特莉可镇
+
+**派蒙:** 这里应该就是佩特莉可镇了吧！
+
+**派蒙:** 感觉景色比之前听说过的还要美丽呢。
+
+**派蒙:** 喔——海风也好舒服啊！
+
+**派蒙:** 唔，不过怎么感觉周围冷冷清清的…
+
+**派蒙:** 咦——！
+
+- **旅行者:** 发生什么了吗？
+
+**派蒙:** 唔，没什么啦！我们还是先去别的地方看看吧。
+
+王上…

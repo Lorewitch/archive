@@ -20,13 +20,18 @@
 # quest_series: Canticles of Harmony
 # version_source: wiki_release_category
 
-# quest_series_ru: Оды гармонии
+# quest_series_ru: Оды Гармонии
+# game_source_ids: 74196
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 50
 
 ## RU
 
 ### Язвы скорбной судьбы
 
 Ради господина Осси и ради всех жителей Петрикора вы вступаете в последнюю схватку с Боэцием.
+
+#### Выпустите ихор, чтобы связать водные пути
 
 #### Поговорите со Сциллой
 
@@ -40,65 +45,13 @@
 
 #### Исполните симфонию вместе со Сциллой
 
-**Паймон:** Симфония, оставленная Ремом... завершается?..
-
-**Паймон:** Мы исполнили Реквием, и души, заточённые в морских глубинах, освободились.
-
-**Паймон:** С жителями деревни теперь всё должно быть в порядке, да?
-
-**Сцилла:** Спасибо, что исполнили этот последний аккорд, эти желания, которые томились тысячи лет.
-
-**Сцилла:** Неважно, мои это были желания, желания Рема, или же всех тех, кто хотел защитить мир.
-
-**Паймон:** Паймон сразу подумала о господине Осси...
-
-**Осси:** Мяу-мяу!
-
-**Паймон:** Тебе нравится это имя, да? Хе-хе, но мы сейчас не про тебя.
-
-**Сцилла:** Его душа вернулась в высокое море. Там он сможет обрести покой. Думаю, для него это было словно высвобождение.
-
-**Паймон:** Что ты будешь делать дальше?
-
-**Сцилла:** Что ж! Было непросто вернуть свободу, потому я от души поплаваю глубоко под водой!
-
-**Сцилла:** В конце концов, никто меня впредь не побеспокоит, ну кроме вас, конечно!
-
-**Паймон:** Эй, что значит «побеспокоит»?
-
-**Сцилла:** Ха-ха, шутка. И всё же, не пора ли вам вернуться к себе? Наши пути здесь расходятся.
-
-**Сцилла:** Но вы всегда будете моими желанными гостями. Никого здесь не осталось, мне может стать одиноко.
-
-**Паймон:** Хе-хе! Ты уже по нам скучаешь, да?
-
-- **Путешественник:** Увидимся, здоровяк.
-
-- **Путешественник:** До встречи.
-
-**Сцилла:** Глядя на вас, даже я преисполняюсь надеждой на светлое будущее для земных созданий!
-
-**Сцилла:** Что ж, до встречи.
-
-*Сцилла исчез в водяном вихре...*
-
-**Паймон:** Ну, куда отправимся?
-
-**Паймон:** Ах да, нужно вернуться к господину Эсту и рассказать, что теперь всё в порядке. Мы ведь обещали!
-
-**Паймон:** И Осси... Хм, как его теперь назовём? Какая сложная ситуация...
-
-**Паймон:** Ладно, сначала вернёмся в деревню.
-
-*Когда всё закончится, вы вернётесь туда, где всё началось, - в Петрикор...*
-
 #### Войдите в золотой дворец
 
 **Паймон:** Ох, мы внутри! Это было непросто!
 
 **Паймон:** Похоже на внутренности какого-то механизма, а вовсе не на дворец...
 
-Это место... такое знакомое.
+- **Путешественник:** Это место... такое знакомое.
 
 **Паймон:** Это и есть дворец из воспоминаний Рема?
 
@@ -118,7 +71,7 @@
 
 **Боэций:** Ведь всем суждено найти вечное счастье в моей симфонии.
 
-Мы напишем финальные ноты на твоей партитуре.
+- **Путешественник:** Мы напишем финальные ноты на твоей партитуре.
 
 **Паймон:** Верно! Признай поражение и отпусти все души... И господина Осси тоже!
 
@@ -132,16 +85,17 @@
 
 **Осси:** (Доверьтесь мне...)
 
+#### Победите Боэция
 
 **Боэций:** Что?! Как же...
 
 **Боэций:** Почему я не могу... управлять телом?! Кассиодор... Ах ты!..
 
-**Боэций:** Попался, Боэций. Вся твоя воля здесь, как и Фобос. На этот раз не сбежишь.
+**Кассиодор:** Попался, Боэций. Вся твоя воля здесь, как и Фобос. На этот раз не сбежишь.
 
 **Боэций:** Что?! Я же гармост, дирижёр симфонии! Как ты?..
 
-**Боэций:** Ты забыл? Прежде чем севаст отделил меня от симфонии, я тоже был гармостом! А теперь, вернувшись в симфонию, ты потерял титул единственного дирижёра!
+**Кассиодор:** Ты забыл? Прежде чем севаст отделил меня от симфонии, я тоже был гармостом! А теперь, вернувшись в симфонию, ты потерял титул единственного дирижёра!
 
 **Боэций:** Ха! Ты согласился присоединиться лишь для того, чтобы ослабить мою защиту и предать вновь! Предать меня и Ремурию!
 
@@ -149,32 +103,33 @@
 
 **Боэций:** Неужели ты готов разрушить всё, что нам дорого, нашу последнюю надежду, ради каких-то ничтожных земных созданий?!
 
-**Боэций:** Предатель здесь лишь ты, и ты виноват в заключении нашего народа. Поэтому от нашей страны и остались одни руины!
+**Кассиодор:** Предатель здесь лишь ты, и ты виноват в заключении нашего народа. Поэтому от нашей страны и остались одни руины!
 
-**Боэций:** Справедливость, которую нам даровал севаст... Золотой идеал был в том, чтобы следовать за мелодией наших сердец и получить свободу от мрачной судьбы.
+**Кассиодор:** Справедливость, которую нам даровал севаст... Золотой идеал был в том, чтобы следовать за мелодией наших сердец и получить свободу от мрачной судьбы.
 
-**Боэций:** Мы не хотели осуждения Фортуной, и не хотели становиться твоими рабами.
+**Кассиодор:** Мы не хотели осуждения Фортуной, и не хотели становиться твоими рабами.
 
-**Боэций:** Когда Фобос разрушился, народ должен был обрести свободу. Если бы не твой обман, их кошмар давно бы закончился.
+**Кассиодор:** Когда Фобос разрушился, народ должен был обрести свободу. Если бы не твой обман, их кошмар давно бы закончился.
 
 **Боэций:** Ремурия ещё не пала! С Фобосом, её путеводной звездой, она ещё воссияет!
 
-**Боэций:** «Сколь ни был бы громок шум камня и металла, если не будет воды и земли, люди не смогут выжить».
+**Кассиодор:** «Сколь ни был бы громок шум камня и металла, если не будет воды и земли, люди не смогут выжить».
 
-**Боэций:** Даже величайшая сила не будет иметь смысла, если не ценит саму жизнь.
+**Кассиодор:** Даже величайшая сила не будет иметь смысла, если не ценит саму жизнь.
 
-**Боэций:** Разве ты не человек, Боэций? Мы, ремурийцы, когда-то были простыми фонтейнцами.
+**Кассиодор:** Разве ты не человек, Боэций? Мы, ремурийцы, когда-то были простыми фонтейнцами.
 
-**Боэций:** Хоть мы и лишились дряхлеющей и одолеваемой болезнями плоти, обретя нерушимую форму, в нас всё ещё есть смертная душа и присущие ей эмоции и слабости.
+**Кассиодор:** Хоть мы и лишились дряхлеющей и одолеваемой болезнями плоти, обретя нерушимую форму, в нас всё ещё есть смертная душа и присущие ей эмоции и слабости.
 
-**Боэций:** Но мы забыли. Забыли, откуда пришли. Поверили, что вознеслись над людьми. Так и пала Ремурия.
+**Кассиодор:** Но мы забыли. Забыли, откуда пришли. Поверили, что вознеслись над людьми. Так и пала Ремурия.
 
-**Боэций:** Помнишь мои слова, Путешественник? Пора!
+**Кассиодор:** Помнишь мои слова, Путешественник? Пора!
 
+#### Победите Боэция
 
 **Паймон:** Ох, у Паймон голова кружится...
 
-Кассиодор...
+- **Путешественник:** Кассиодор...
 
 **Кассиодор:** Путешественник, Паймон. Не думал, что мы встретимся вновь.
 
@@ -186,17 +141,17 @@
 
 **Кассиодор:** Значит, и ты видишь это создание позади иллюзии «Боэция»?
 
-**Фобос:** Ха-ха-ха! Нашли меня!
+**???:** Ха-ха-ха! Нашли меня!
 
-**Фобос:** Вовсе это не иллюзия. Вы узрели истинную форму Боэция, ведь Боэций - это я!
+**???:** Вовсе это не иллюзия. Вы узрели истинную форму Боэция, ведь Боэций - это я!
 
-**Фобос:** Конечно, я не только «он», но и «ты»...
+**???:** Конечно, я не только «он», но и «ты»...
 
-**Фобос:** Я - каждая мелодия, каждое движение, каждая мысль... Я сумма всех душ!
+**???:** Я - каждая мелодия, каждое движение, каждая мысль... Я сумма всех душ!
 
 **Фобос:** Я есть... Фобос.
 
-**Фобос:** Кроме тебя, дитя из внешнего мира. Ты не (одна)(один) из нас.
+**Фобос:** Кроме тебя, дитя из внешнего мира. Ты не один из нас. / Кроме тебя, дитя из внешнего мира. Ты не одна из нас.
 
 **Кассиодор:** Фобос... Значит, у повелевающей всеми симфонии есть личность?
 
@@ -204,7 +159,7 @@
 
 **Фобос:** Желанием Сивиллы было подарить счастье всем, кого можно назвать людьми. Но она не обладала личностью, а её сил было недостаточно.
 
-**Фобос:** Посему она вверила свою мудрость Рему, который дополнил её своей силой и создал «симфФобосонию». То есть меня.
+**Фобос:** Посему она вверила свою мудрость Рему, который дополнил её своей силой и создал «симф(Фобос)онию». То есть меня.
 
 **Кассиодор:** Немыслимо...
 
@@ -218,7 +173,7 @@
 
 **Фобос:** Разве это не значит радость для «всех»?
 
-Какой вздор...
+- **Путешественник:** Какой вздор...
 
 **Паймон:** Что за ерунда!
 
@@ -260,7 +215,7 @@
 
 **Кассиодор:** Давай, Путешественник! Фобос и я... уничтожь нас обоих!
 
-Но...
+- **Путешественник:** Но...
 
 **Кассиодор:** Я преисполнен радости, Путешественник! Мне открылись планы и надежды севаста...
 
@@ -270,6 +225,7 @@
 
 **Кассиодор:** Поэтому его величество... судьба... привели тебя сюда, мой друг!
 
+#### Победите Боэция или Кассиодора
 
 **Паймон:** Господин Осси... Это ты?..
 
@@ -277,9 +233,15 @@
 
 **Кассиодор:** Похоже, я скоро исчезну...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Господин Осси...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Кассиодор...
+
+##### Общее продолжение
 
 **Кассиодор:** Всё в порядке. Я прошёл путь, мне предназначенный, и исполнил то, что мне было предначертано. В этом мире больше не будет ни Кассиодора, ни Золотого охотника.
 
@@ -301,6 +263,12 @@
 
 **Кассиодор:** Возможно, мы встретимся вновь, среди плодородных зелёных полей.
 
+#### Поднимитесь на верхний этаж золотого дворца
+
+#### Поднимитесь на верхний этаж золотого дворца
+
+#### Подойдите к трибуне
+
 #### Подойдите к трибуне
 
 **Осси:** Мяу?! Мяу!
@@ -309,13 +277,19 @@
 
 **Сцилла:** Ты про Кассиодора? Нет... Знакомое чувство исчезло. Где теперь Кассиодор? Вернулся в одно из каменных тел?..
 
+##### Вариант ответа 1
+
 - **Путешественник:** Кассиодор...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Он больше не с нами.
 
+##### Общее продолжение
+
 **Паймон:** Кассиодор... Господин Осси исчез... вместе с Боэцием и Фобосом...
 
-*Рассказав обо всём Сцилле, вы некоторое время утешаете Осси...*
+Рассказав обо всём Сцилле, вы некоторое время утешаете Осси...
 
 **Паймон:** Вот так вот. И остался только Осси...
 
@@ -335,7 +309,13 @@
 
 **Сцилла:** Сыграй эту последнюю мелодию, этот Реквием.
 
+#### Начните играть на арфе
+
+#### Вернитесь в Петрикор
+
 #### Поговорите со Сциллой
+
+Когда всё закончится, вы вернётесь туда, где всё началось, - в Петрикор...
 
 **Паймон:** Симфония, оставленная Ремом... завершается?..
 
@@ -375,15 +355,21 @@
 
 **Паймон:** Хе-хе! Ты уже по нам скучаешь, да?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Увидимся, здоровяк.
 
+##### Вариант ответа 2
+
 - **Путешественник:** До встречи.
+
+##### Общее продолжение
 
 **Сцилла:** Глядя на вас, даже я преисполняюсь надеждой на светлое будущее для земных созданий!
 
 **Сцилла:** Что ж, до встречи.
 
-*Сцилла исчез в водяном вихре...*
+Сцилла исчез в водяном вихре...
 
 **Паймон:** Ну, куда отправимся?
 
@@ -393,13 +379,80 @@
 
 **Паймон:** Ладно, сначала вернёмся в деревню.
 
-*Когда всё закончится, вы вернётесь туда, где всё началось, - в Петрикор...*
+Когда всё закончится, вы вернётесь туда, где всё началось, - в Петрикор...
+
+**Паймон:** Симфония, оставленная Ремом... завершается?..
+
+**Паймон:** Мы исполнили Реквием, и души, заточённые в морских глубинах, освободились.
+
+**Паймон:** С жителями деревни теперь всё должно быть в порядке, да?
+
+**Сцилла:** Спасибо, что исполнили этот последний аккорд, эти желания, которые томились тысячи лет.
+
+**Сцилла:** Неважно, мои это были желания, желания Рема, или же всех тех, кто хотел защитить мир.
+
+**Паймон:** Паймон сразу подумала о господине Осси...
+
+**Осси:** Мяу-мяу!
+
+**Паймон:** Тебе нравится это имя, да? Хе-хе, но мы сейчас не про тебя.
+
+**Сцилла:** Его душа вернулась в высокое море. Там он сможет обрести покой. Думаю, для него это было словно высвобождение.
+
+**Паймон:** Что ты будешь делать дальше?
+
+**Сцилла:** Что ж! Было непросто вернуть свободу, потому я от души поплаваю глубоко под водой!
+
+**Сцилла:** В конце концов, никто меня впредь не побеспокоит, ну кроме вас, конечно!
+
+**Паймон:** Эй, что значит «побеспокоит»?
+
+**Сцилла:** Ха-ха, шутка. И всё же, не пора ли вам вернуться к себе? Наши пути здесь расходятся.
+
+**Сцилла:** Но вы всегда будете моими желанными гостями. Никого здесь не осталось, мне может стать одиноко.
+
+**Паймон:** Хе-хе! Ты уже по нам скучаешь, да?
+
+##### Вариант ответа 1
+
+- **Путешественник:** Увидимся, здоровяк.
+
+##### Вариант ответа 2
+
+- **Путешественник:** До встречи.
+
+##### Общее продолжение
+
+**Сцилла:** Глядя на вас, даже я преисполняюсь надеждой на светлое будущее для земных созданий!
+
+**Сцилла:** Что ж, до встречи.
+
+Сцилла исчез в водяном вихре...
+
+**Паймон:** Ну, куда отправимся?
+
+**Паймон:** Ах да, нужно вернуться к господину Эсту и рассказать, что теперь всё в порядке. Мы ведь обещали!
+
+**Паймон:** И Осси... Хм, как его теперь назовём? Какая сложная ситуация...
+
+**Паймон:** Ладно, сначала вернёмся в деревню.
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+Следуя за течением, состоящим из несметного количества душ, вы покидаете подводное царство.
+Вы следуете за золотой пчелой всё выше и выше...
 
 ## EN
 
 ### Fortune Plango Vulnera
 
 For Monsieur Os, and for everyone in town, take on Boethius in a final battle!
+
+#### Release the Ichor to connect the aqueducts
 
 #### Talk to Scylla
 
@@ -413,65 +466,13 @@ For Monsieur Os, and for everyone in town, take on Boethius in a final battle!
 
 #### Play the symphony with Scylla
 
-**Paimon:** Is the Symphony that Remus left to us... finally coming to an end?
-
-**Paimon:** We've completed the Requiem, and the souls imprisoned in the ocean depths all seem to have left.
-
-**Paimon:** The townspeople should be back to normal as well, right?
-
-**Scylla:** Thank you both for completing this final musical movement, these wishes that have endured for thousands of years.
-
-**Scylla:** Whether it was mine, Remus's, or that of anyone who wishes to protect peace in this world.
-
-**Paimon:** That reminds Paimon of Monsieur Os...
-
-**Osse:** Meow meow!
-
-**Paimon:** You like that name, too? Hehe, we're not talking about you right now, though.
-
-**Scylla:** His soul has returned to the High Sea. There, at last, he can be at peace. I imagine that was akin to release for him.
-
-**Paimon:** So what do you plan to do next?
-
-**Scylla:** Well, now! It was not easy to regain my freedom, so I believe I shall have a good romp underwater!
-
-**Scylla:** After all, there are none who shall disturb me any longer, save you, perhaps!
-
-**Paimon:** Hey, what do you mean, "disturb"?
-
-**Scylla:** Haha, I jest. Still, are you not due to return to your own place? Let us part ways here, then.
-
-**Scylla:** Or so I would say, but further visits on your part would be appreciated. I might get lonely now that everyone is gone, after all!
-
-**Paimon:** Hehe! Aw, you just miss us already, don'cha, you big lunk?
-
-- **Traveler:** See you around, big guy.
-
-- **Traveler:** We will meet again.
-
-**Scylla:** Heh. Looking at you, even I begin to look forward to the future of terrestrial beings!
-
-**Scylla:** Well then. Until we meet again.
-
-*Scylla leaves amidst the turbulent waves...*
-
-**Paimon:** Well, where should we go next?
-
-**Paimon:** Oh, right! We should get back to Mr. Este to tell him that everything's fine now. We did promise to, after all!
-
-**Paimon:** And there's Osse, too... Hmm, what should we call him now? This could get complicated...
-
-**Paimon:** Anyway, let's get back to town first.
-
-*After everything is over, you return to where it all began, the town of Petrichor...*
-
 #### Enter "Domus Aurea"
 
 **Paimon:** Phew. Guess we're in! That was tough!
 
 **Paimon:** That said, this looks more like the guts of some giant machine than it does a palace...
 
-This place is... very familiar.
+- **Traveler:** This place is... very familiar.
 
 **Paimon:** Is this the place you saw in Remus's memories?
 
@@ -491,7 +492,7 @@ This place is... very familiar.
 
 **Boethius:** For all shall find eternal happiness within my "Symphony."
 
-We're about to add some end bar lines to your score.
+- **Traveler:** We're about to add some end bar lines to your score.
 
 **Paimon:** That's right! Best you admit defeat now and release everyone's souls... And also, hand over Monsieur Os!
 
@@ -505,16 +506,17 @@ We're about to add some end bar lines to your score.
 
 **Osse:** (Just trust me...)
 
+#### Defeat Boethius
 
 **Boethius:** What!? How...
 
 **Boethius:** Why can't I... control this body!? Cassiodor... You...!
 
-**Boethius:** I have you at last, Boethius. All your will is here, and Phobos also — this time, there is no escape.
+**Cassiodor:** I have you at last, Boethius. All your will is here, and Phobos also — this time, there is no escape.
 
 **Boethius:** Why!? I am a Harmost! The conductor of the symphony! How? How did you...
 
-**Boethius:** Have you forgotten? Before the Sebastos cut me away, I too was a Harmost! And now that I have returned to the symphony, you are the sole conductor no longer!
+**Cassiodor:** Have you forgotten? Before the Sebastos cut me away, I too was a Harmost! And now that I have returned to the symphony, you are the sole conductor no longer!
 
 **Boethius:** Hah! So you agreed to join me just to lower my guard, only to betray me once more! Me, and Remuria both!
 
@@ -522,32 +524,33 @@ We're about to add some end bar lines to your score.
 
 **Boethius:** Will you truly destroy our cause, obliterate our final hope, for the sake of those who scurry and crawl on dry land!?
 
-**Boethius:** You are the traitor here, and the one who imprisoned our people. That is why our nation fell to its ruinous fate!
+**Cassiodor:** You are the traitor here, and the one who imprisoned our people. That is why our nation fell to its ruinous fate!
 
-**Boethius:** The justice that our Sebastos... the Imperator gave unto us, that golden ideal, was for us to follow the melody of our hearts and obtain the freedom to grasp our fate.
+**Cassiodor:** The justice that our Sebastos... the Imperator gave unto us, that golden ideal, was for us to follow the melody of our hearts and obtain the freedom to grasp our fate.
 
-**Boethius:** We did not wish to be judged by Fortuna, much less to become your slaves.
+**Cassiodor:** We did not wish to be judged by Fortuna, much less to become your slaves.
 
-**Boethius:** After Phobos was shattered, the people should have gained their freedom. If not for your deception, their nightmare would have ended long ago.
+**Cassiodor:** After Phobos was shattered, the people should have gained their freedom. If not for your deception, their nightmare would have ended long ago.
 
 **Boethius:** Remuria has not fallen! With Phobos as its guiding star, it shall rise again!
 
-**Boethius:** "Though rock and metal may crash and clamor, humans cannot live without water and soil."
+**Cassiodor:** "Though rock and metal may crash and clamor, humans cannot live without water and soil."
 
-**Boethius:** No power, however great, that tramples upon the value of life has any meaning.
+**Cassiodor:** No power, however great, that tramples upon the value of life has any meaning.
 
-**Boethius:** Are you not human yourself, Boethius? We Remurians were all ordinary Fontainians once.
+**Cassiodor:** Are you not human yourself, Boethius? We Remurians were all ordinary Fontainians once.
 
-**Boethius:** Though we forsook our flesh, wracked with pain and weakness, and gained immortal forms, we still have mortal souls, mortal emotions, and mortal frailties.
+**Cassiodor:** Though we forsook our flesh, wracked with pain and weakness, and gained immortal forms, we still have mortal souls, mortal emotions, and mortal frailties.
 
-**Boethius:** But we forgot that. We forgot where we came from. Believed ourselves superior to other humans. That is why Remuria fell.
+**Cassiodor:** But we forgot that. We forgot where we came from. Believed ourselves superior to other humans. That is why Remuria fell.
 
-**Boethius:** Do you remember my words, Traveler? Now is the time!
+**Cassiodor:** Do you remember my words, Traveler? Now is the time!
 
+#### Defeat Boethius
 
 **Paimon:** Ooh, Paimon's kinda dizzy now...
 
-Cassiodor...
+- **Traveler:** Cassiodor...
 
 **Cassiodor:** Traveler, and Paimon. I didn't think we would be able to meet again like this.
 
@@ -559,13 +562,13 @@ Cassiodor...
 
 **Cassiodor:** You see it too, then? The being that hovers behind the illusion of "Boethius."
 
-**"Phobos":** Ahaha! You found me, I see!
+**???:** Ahaha! You found me, I see!
 
-**"Phobos":** No illusion it is that you see. You gaze upon "Boethius" in truth, for I am, in truth, "Boethius"!
+**???:** No illusion it is that you see. You gaze upon "Boethius" in truth, for I am, in truth, "Boethius"!
 
-**"Phobos":** Of course, I am not only "him," but "you," also...
+**???:** Of course, I am not only "him," but "you," also...
 
-**"Phobos":** I am every melody, every movement, every thought... I am the sum of all souls!
+**???:** I am every melody, every movement, every thought... I am the sum of all souls!
 
 **"Phobos":** I am... "Phobos."
 
@@ -577,7 +580,7 @@ Cassiodor...
 
 **"Phobos":** Sybilla's wish was to grant happiness to all in the world who are called humans. But she had no persona, and her strength was insufficient.
 
-**"Phobos":** Thus, she entrusted her wisdom to Remus, and with the addition of the power that Remus possessed, the "Symp"Phobos"hony" was created. That is to say, me.
+**"Phobos":** Thus, she entrusted her wisdom to Remus, and with the addition of the power that Remus possessed, the "Symp("Phobos")hony" was created. That is to say, me.
 
 **Cassiodor:** No, how can this...
 
@@ -591,7 +594,7 @@ Cassiodor...
 
 **"Phobos":** Is that not what it means to give "everyone" happiness?
 
-Preposterous...
+- **Traveler:** Preposterous...
 
 **Paimon:** Don't be absurd! That's just twisted and wrong!
 
@@ -633,7 +636,7 @@ Preposterous...
 
 **Cassiodor:** Now, Traveler! Phobos and I... destroy us both!
 
-But...
+- **Traveler:** But...
 
 **Cassiodor:** I am filled with joy, Traveler! For I have just learned of the Sebastos's plans and hopes...
 
@@ -643,6 +646,7 @@ But...
 
 **Cassiodor:** That is why the Imperator... why fate brought you here, my friend!
 
+#### Defeat Boethius or Cassiodor
 
 **Paimon:** Monsieur Os... Is that you...?
 
@@ -650,9 +654,15 @@ But...
 
 **Cassiodor:** It seems that I shall soon fade...
 
+##### Response branch 1
+
 - **Traveler:** Monsieur Os...
 
+##### Response branch 2
+
 - **Traveler:** Cassiodor...
+
+##### Shared continuation
 
 **Cassiodor:** It's alright. I have finished walking the road I was meant to, and fulfilled that which I was meant to fulfill. This world shall no longer have Cassiodor, nor shall it have the Golden Hunter.
 
@@ -674,6 +684,12 @@ But...
 
 **Cassiodor:** Perhaps we shall meet again someday, in a fertile land full of flowing water...
 
+#### Head to the upper level of "Domus Aurea"
+
+#### Head to the upper level of "Domus Aurea"
+
+#### Head to the "podium"
+
 #### Head to the "podium"
 
 **Osse:** Meow!? Meow!
@@ -682,13 +698,19 @@ But...
 
 **Scylla:** You mean Cassiodor? No... that familiar feeling has disappeared. Where has Cassiodor gone off to? Has he returned to one of those stone bodies again...?
 
+##### Response branch 1
+
 - **Traveler:** Cassiodor...
+
+##### Response branch 2
 
 - **Traveler:** Is no longer with us.
 
+##### Shared continuation
+
 **Paimon:** Cassiodor... Monsieur Os, he... he's disappeared... along with Boethius and Phobos...
 
-*After explaining the whole tale to Scylla, you spend some time comforting Osse...*
+After explaining the whole tale to Scylla, you spend some time comforting Osse...
 
 **Paimon:** That's right. Now, all that's left is "Osse"...
 
@@ -708,7 +730,13 @@ But...
 
 **Scylla:** Perform this final movement, this final Requiem.
 
+#### Start playing the harp
+
+#### Return to Petrichor
+
 #### Talk to Scylla
+
+After everything is over, you return to where it all began, the town of Petrichor...
 
 **Paimon:** Is the Symphony that Remus left to us... finally coming to an end?
 
@@ -748,15 +776,21 @@ But...
 
 **Paimon:** Hehe! Aw, you just miss us already, don'cha, you big lunk?
 
+##### Response branch 1
+
 - **Traveler:** See you around, big guy.
 
+##### Response branch 2
+
 - **Traveler:** We will meet again.
+
+##### Shared continuation
 
 **Scylla:** Heh. Looking at you, even I begin to look forward to the future of terrestrial beings!
 
 **Scylla:** Well then. Until we meet again.
 
-*Scylla leaves amidst the turbulent waves...*
+Scylla leaves amidst the turbulent waves...
 
 **Paimon:** Well, where should we go next?
 
@@ -766,13 +800,80 @@ But...
 
 **Paimon:** Anyway, let's get back to town first.
 
-*After everything is over, you return to where it all began, the town of Petrichor...*
+After everything is over, you return to where it all began, the town of Petrichor...
+
+**Paimon:** Is the Symphony that Remus left to us... finally coming to an end?
+
+**Paimon:** We've completed the Requiem, and the souls imprisoned in the ocean depths all seem to have left.
+
+**Paimon:** The townspeople should be back to normal as well, right?
+
+**Scylla:** Thank you both for completing this final musical movement, these wishes that have endured for thousands of years.
+
+**Scylla:** Whether it was mine, Remus's, or that of anyone who wishes to protect peace in this world.
+
+**Paimon:** That reminds Paimon of Monsieur Os...
+
+**Osse:** Meow meow!
+
+**Paimon:** You like that name, too? Hehe, we're not talking about you right now, though.
+
+**Scylla:** His soul has returned to the High Sea. There, at last, he can be at peace. I imagine that was akin to release for him.
+
+**Paimon:** So what do you plan to do next?
+
+**Scylla:** Well, now! It was not easy to regain my freedom, so I believe I shall have a good romp underwater!
+
+**Scylla:** After all, there are none who shall disturb me any longer, save you, perhaps!
+
+**Paimon:** Hey, what do you mean, "disturb"?
+
+**Scylla:** Haha, I jest. Still, are you not due to return to your own place? Let us part ways here, then.
+
+**Scylla:** Or so I would say, but further visits on your part would be appreciated. I might get lonely now that everyone is gone, after all!
+
+**Paimon:** Hehe! Aw, you just miss us already, don'cha, you big lunk?
+
+##### Response branch 1
+
+- **Traveler:** See you around, big guy.
+
+##### Response branch 2
+
+- **Traveler:** We will meet again.
+
+##### Shared continuation
+
+**Scylla:** Heh. Looking at you, even I begin to look forward to the future of terrestrial beings!
+
+**Scylla:** Well then. Until we meet again.
+
+Scylla leaves amidst the turbulent waves...
+
+**Paimon:** Well, where should we go next?
+
+**Paimon:** Oh, right! We should get back to Mr. Este to tell him that everything's fine now. We did promise to, after all!
+
+**Paimon:** And there's Osse, too... Hmm, what should we call him now? This could get complicated...
+
+**Paimon:** Anyway, let's get back to town first.
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+Following the current comprised of congregated souls uncounted, you depart from the underwater realm.
+You follow the spirit-guiding golden bee up, and up, and up...
 
 ## ZH
 
 ### 哀悼命运之疮
 
 为了呜斯先生，也为了镇上的大家，与波爱修斯展开最后的决战吧。
+
+#### 释放灵露连通水道
 
 #### 与斯库拉对话
 
@@ -786,65 +887,13 @@ But...
 
 #### 与斯库拉共奏
 
-**派蒙:** 是雷穆斯留给我们的乐章，终于结束了吗…
-
-**派蒙:** 我们完成了「安魂曲」，被禁锢在海底的灵魂看起来也全都离开了。
-
-**派蒙:** 镇上的大家应该也已经恢复正常了吧。
-
-**斯库拉:** 谢谢你们，完成了这最后的乐章，这延续数千年的愿望。
-
-**斯库拉:** 不论是老夫的，还是雷穆斯的，又或是所有守护现世安定之人的。
-
-**派蒙:** 说到这个就想起来呜斯先生…
-
-**小呜斯:** 喵呜！
-
-**派蒙:** 你也很喜欢这个名字吗？不过现在不是在说你哦。
-
-**斯库拉:** 他的灵魂已经回归高海…终于得享宁静了，对他来说这也是一种解脱吧。
-
-**派蒙:** 那么接下来大家伙要怎么办呢？
-
-**斯库拉:** 这个嘛，好不容易重获自由，老夫可得在水里好好畅游一番呢！
-
-**斯库拉:** 而且现在除了小东西们，也再没人能打扰老夫了吧！
-
-**派蒙:** 喂，什么叫打扰啦！
-
-**斯库拉:** 哈哈，开玩笑的。不过你们也该回到属于你们的地方去了吧，我们也要就此别过了。
-
-**斯库拉:** 虽然是这样说，但是你们可要多多回来看看老夫啊。毕竟大家都走了，老夫说不定会很寂寞呢！
-
-**派蒙:** 嘿嘿，说到底大家伙还是很挂念我们的嘛！
-
-- **旅行者:** 再见了，大家伙。
-
-- **旅行者:** 我们还会见面的。
-
-**斯库拉:** 哼，看到你们的样子，老夫也有些期待那些地上生灵的未来了！
-
-**斯库拉:** 那么，就有缘再见了。
-
-*伴随着海浪的翻腾，斯库拉离开了…*
-
-**派蒙:** 那么，接下来我们要去哪呢？
-
-**派蒙:** 哦对了，我们还没去找埃斯特先生告诉他事情已经解决了吧，明明说好去去就来的！
-
-**派蒙:** 还有「小呜斯」…唔，现在要怎么称呼它才好呢，好复杂…
-
-**派蒙:** 总之，我们还是先回镇上吧。
-
-*一切结束之后，你们回到了最初的起点，佩特莉可镇…*
-
 #### 进入「黄金宫殿」
 
 **派蒙:** 呼，终于进来了，真不容易啊！
 
 **派蒙:** 说是黄金的宫殿，不过看起来倒不像是宫殿，更像是某个巨大机器的内部呢！
 
-这个地方…很熟悉。
+- **旅行者:** 这个地方…很熟悉。
 
 **派蒙:** 嗯，是你之前在雷穆斯的记忆里见到的地方吗？
 
@@ -864,7 +913,7 @@ But...
 
 **波爱修斯:** 因为所有人都会在我的「乐章」中得到永恒的幸福。
 
-我们是来为你的乐章画上休止符的。
+- **旅行者:** 我们是来为你的乐章画上休止符的。
 
 **派蒙:** 没错，你最好老实认输，释放镇上大家的灵魂…还有，快把呜斯先生交出来！
 
@@ -878,16 +927,17 @@ But...
 
 **小呜斯:** （相信我…）
 
+#### 打倒「波爱修斯」
 
 **波爱修斯:** 什么？！怎么会…
 
 **波爱修斯:** 为什么我会无法控制这具身体…卡西奥多，是你吗！
 
-**波爱修斯:** 终于抓住你了，波爱修斯！你所有的意志，「福波斯」都在这里，这次你跑不掉了。
+**卡西奥多:** 终于抓住你了，波爱修斯！你所有的意志，「福波斯」都在这里，这次你跑不掉了。
 
 **波爱修斯:** 为什么？！我是调律师，「乐章」的指挥者是我，你怎么可能…
 
-**波爱修斯:** 你忘了，在至尊将我从大乐章中分离之前，我也曾是调律师！现在我回到了「乐章」之中，你不再是唯一的演奏者了。
+**卡西奥多:** 你忘了，在至尊将我从大乐章中分离之前，我也曾是调律师！现在我回到了「乐章」之中，你不再是唯一的演奏者了。
 
 **波爱修斯:** 哈，原来你答应加入我的计划，只是为了使我放下戒备。最后，你再次背叛了我，背叛了雷穆利亚！
 
@@ -895,32 +945,33 @@ But...
 
 **波爱修斯:** 你却要为了那些低贱的地上之人，毁了我们的事业，浇灭我们唯一的希望。
 
-**波爱修斯:** 背叛了雷穆利亚的是你，囚禁他们的也是你。正是你的背叛，才使我们的国家遭致灭亡的命运。
+**卡西奥多:** 背叛了雷穆利亚的是你，囚禁他们的也是你。正是你的背叛，才使我们的国家遭致灭亡的命运。
 
-**波爱修斯:** 至尊…王上所赐予我们的正义，那个金色的理想，乃是希望我们能够遵从内心的旋律，掌握命运的自由。
+**卡西奥多:** 至尊…王上所赐予我们的正义，那个金色的理想，乃是希望我们能够遵从内心的旋律，掌握命运的自由。
 
-**波爱修斯:** 我们不愿接受「法图纳」的审判，更不应成为你的奴仆。
+**卡西奥多:** 我们不愿接受「法图纳」的审判，更不应成为你的奴仆。
 
-**波爱修斯:** 「福波斯」破碎后，人们原本应当获得自由的机会。如果不是因为你当初的欺骗，他们的噩梦早就该结束了。
+**卡西奥多:** 「福波斯」破碎后，人们原本应当获得自由的机会。如果不是因为你当初的欺骗，他们的噩梦早就该结束了。
 
 **波爱修斯:** 雷穆利亚没有灭亡！在「福波斯」的指引下，它还会再度崛起…
 
-**波爱修斯:** 「无论这顽石与金属的重击如何轰鸣，没有了水和土，人类就没办法生存。」
+**卡西奥多:** 「无论这顽石与金属的重击如何轰鸣，没有了水和土，人类就没办法生存。」
 
-**波爱修斯:** 不管拥有多么强大的力量，但倘若因此便肆意践踏生命的价值，那这种力量也就毫无意义可言。
+**卡西奥多:** 不管拥有多么强大的力量，但倘若因此便肆意践踏生命的价值，那这种力量也就毫无意义可言。
 
-**波爱修斯:** 波爱修斯，你不也是人类吗？所有的雷穆利亚人曾经都是普通的枫丹人啊。
+**卡西奥多:** 波爱修斯，你不也是人类吗？所有的雷穆利亚人曾经都是普通的枫丹人啊。
 
-**波爱修斯:** 即便我们抛弃了苦弱的肉身，拥有了不朽的躯体，但我们仍然有着凡人的灵魂，也有着凡人的感情与弱点。
+**卡西奥多:** 即便我们抛弃了苦弱的肉身，拥有了不朽的躯体，但我们仍然有着凡人的灵魂，也有着凡人的感情与弱点。
 
-**波爱修斯:** 而我们却忘记了这一点，忘记了自己的出身，自以为高踞于其他人之上，雷穆利亚就是因此才会灭亡的。
+**卡西奥多:** 而我们却忘记了这一点，忘记了自己的出身，自以为高踞于其他人之上，雷穆利亚就是因此才会灭亡的。
 
-**波爱修斯:** 旅行者，还记得我说过的话吗，就是现在了！
+**卡西奥多:** 旅行者，还记得我说过的话吗，就是现在了！
 
+#### 打倒「波爱修斯」
 
 **派蒙:** 呜啊，感觉晕乎乎的…
 
-卡西奥多…
+- **旅行者:** 卡西奥多…
 
 **卡西奥多:** 旅行者，还有派蒙，没想到我们还能像这个样子见面。
 
@@ -932,13 +983,13 @@ But...
 
 **卡西奥多:** 你们也看到了吗？隐藏在「波爱修斯」的幻象之后的家伙。
 
-**「福波斯」:** 哎呀，你发现我了！
+**？？？:** 哎呀，你发现我了！
 
-**「福波斯」:** 可那并不是幻象，你们所见到的确实就是「波爱修斯」，因为，我就是「波爱修斯」啊！
+**？？？:** 可那并不是幻象，你们所见到的确实就是「波爱修斯」，因为，我就是「波爱修斯」啊！
 
-**「福波斯」:** 当然，我并不只是「波爱修斯」，我也是「你」…
+**？？？:** 当然，我并不只是「波爱修斯」，我也是「你」…
 
-**「福波斯」:** 我是一切旋律，一切乐章，一切思绪…我是一切灵魂的总和！
+**？？？:** 我是一切旋律，一切乐章，一切思绪…我是一切灵魂的总和！
 
 **「福波斯」:** 我就是「福波斯」。
 
@@ -950,7 +1001,7 @@ But...
 
 **「福波斯」:** 「西比尔」的愿望是为世界上所有被称为人类的存在送去幸福，但她没有人格，也没有足够的力量。
 
-**「福波斯」:** 为此，她将自己的智慧交给了雷穆斯，加上雷穆斯所拥有的力量，便创造出了「乐福波斯章」，也就是我。
+**「福波斯」:** 为此，她将自己的智慧交给了雷穆斯，加上雷穆斯所拥有的力量，便创造出了「乐(福波斯)章」，也就是我。
 
 **卡西奥多:** 怎么会…
 
@@ -964,7 +1015,7 @@ But...
 
 **「福波斯」:** 要为「所有人」送去幸福，难道不应该实现这些愿望吗？
 
-不可理喻…
+- **旅行者:** 不可理喻…
 
 **派蒙:** 这根本就是强词夺理吧！
 
@@ -1006,7 +1057,7 @@ But...
 
 **卡西奥多:** 旅行者，就是现在，把我和「福波斯」一同消灭掉吧！
 
-但是…
+- **旅行者:** 但是…
 
 **卡西奥多:** 旅行者，我很开心啊！至尊曾经的计划与愿望，就在刚才我也已经知道了…
 
@@ -1016,6 +1067,7 @@ But...
 
 **卡西奥多:** 也就是因此，我的朋友，王上…命运才会让你来到这里的！
 
+#### 打倒「波爱修斯」或是「卡西奥多」
 
 **派蒙:** 呜斯先生…是你吗…
 
@@ -1023,9 +1075,15 @@ But...
 
 **卡西奥多:** 看来，我也很快就要消失了…
 
+##### 对话分支 1
+
 - **旅行者:** 呜斯先生…
 
+##### 对话分支 2
+
 - **旅行者:** 卡西奥多…
+
+##### 共同后续
 
 **卡西奥多:** 没关系，当行的道路我已经走完了，当尽的职责我也已尽了。从此世上再也没有卡西奥多，也再没有黄金猎人。
 
@@ -1047,6 +1105,12 @@ But...
 
 **卡西奥多:** 或许在未来的某天，我们还会在水土丰饶的地方再次相遇的…
 
+#### 前往「黄金宫殿」上层
+
+#### 前往「黄金宫殿」上层
+
+#### 前往「演说台」
+
 #### 前往「演说台」
 
 **小呜斯:** 呜喵？！喵！
@@ -1055,13 +1119,19 @@ But...
 
 **斯库拉:** 卡西奥多？不…熟悉的气息消失了，卡西奥多去哪儿了？难道是又回到哪具石头躯体当中了吗…
 
+##### 对话分支 1
+
 - **旅行者:** 卡西奥多他…
+
+##### 对话分支 2
 
 - **旅行者:** 他已经不在这里了。
 
+##### 共同后续
+
 **派蒙:** 卡西奥多…呜斯先生他，已经和波爱修斯，和「福波斯」一起消失了…
 
-*向斯库拉说明了事情的原委后，花了一段时间安抚小呜斯…*
+向斯库拉说明了事情的原委后，花了一段时间安抚小呜斯…
 
 **派蒙:** 就是这样，现在只有「小呜斯」…它还和我们一起…
 
@@ -1081,7 +1151,13 @@ But...
 
 **斯库拉:** 奏响这最后的乐章，最后的「安魂曲」。
 
+#### 使用竖琴开始演奏
+
+#### 回到佩特莉可镇
+
 #### 与斯库拉对话
+
+一切结束之后，你们回到了最初的起点，佩特莉可镇…
 
 **派蒙:** 是雷穆斯留给我们的乐章，终于结束了吗…
 
@@ -1121,15 +1197,21 @@ But...
 
 **派蒙:** 嘿嘿，说到底大家伙还是很挂念我们的嘛！
 
+##### 对话分支 1
+
 - **旅行者:** 再见了，大家伙。
 
+##### 对话分支 2
+
 - **旅行者:** 我们还会见面的。
+
+##### 共同后续
 
 **斯库拉:** 哼，看到你们的样子，老夫也有些期待那些地上生灵的未来了！
 
 **斯库拉:** 那么，就有缘再见了。
 
-*伴随着海浪的翻腾，斯库拉离开了…*
+伴随着海浪的翻腾，斯库拉离开了…
 
 **派蒙:** 那么，接下来我们要去哪呢？
 
@@ -1139,4 +1221,69 @@ But...
 
 **派蒙:** 总之，我们还是先回镇上吧。
 
-*一切结束之后，你们回到了最初的起点，佩特莉可镇…*
+一切结束之后，你们回到了最初的起点，佩特莉可镇…
+
+**派蒙:** 是雷穆斯留给我们的乐章，终于结束了吗…
+
+**派蒙:** 我们完成了「安魂曲」，被禁锢在海底的灵魂看起来也全都离开了。
+
+**派蒙:** 镇上的大家应该也已经恢复正常了吧。
+
+**斯库拉:** 谢谢你们，完成了这最后的乐章，这延续数千年的愿望。
+
+**斯库拉:** 不论是老夫的，还是雷穆斯的，又或是所有守护现世安定之人的。
+
+**派蒙:** 说到这个就想起来呜斯先生…
+
+**小呜斯:** 喵呜！
+
+**派蒙:** 你也很喜欢这个名字吗？不过现在不是在说你哦。
+
+**斯库拉:** 他的灵魂已经回归高海…终于得享宁静了，对他来说这也是一种解脱吧。
+
+**派蒙:** 那么接下来大家伙要怎么办呢？
+
+**斯库拉:** 这个嘛，好不容易重获自由，老夫可得在水里好好畅游一番呢！
+
+**斯库拉:** 而且现在除了小东西们，也再没人能打扰老夫了吧！
+
+**派蒙:** 喂，什么叫打扰啦！
+
+**斯库拉:** 哈哈，开玩笑的。不过你们也该回到属于你们的地方去了吧，我们也要就此别过了。
+
+**斯库拉:** 虽然是这样说，但是你们可要多多回来看看老夫啊。毕竟大家都走了，老夫说不定会很寂寞呢！
+
+**派蒙:** 嘿嘿，说到底大家伙还是很挂念我们的嘛！
+
+##### 对话分支 1
+
+- **旅行者:** 再见了，大家伙。
+
+##### 对话分支 2
+
+- **旅行者:** 我们还会见面的。
+
+##### 共同后续
+
+**斯库拉:** 哼，看到你们的样子，老夫也有些期待那些地上生灵的未来了！
+
+**斯库拉:** 那么，就有缘再见了。
+
+伴随着海浪的翻腾，斯库拉离开了…
+
+**派蒙:** 那么，接下来我们要去哪呢？
+
+**派蒙:** 哦对了，我们还没去找埃斯特先生告诉他事情已经解决了吧，明明说好去去就来的！
+
+**派蒙:** 还有「小呜斯」…唔，现在要怎么称呼它才好呢，好复杂…
+
+**派蒙:** 总之，我们还是先回镇上吧。
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+顺着无数灵魂汇聚而成的洋流，你们离开了深水之下的国度。
+与引导魂灵的金蜂一起，不断上升，上升…

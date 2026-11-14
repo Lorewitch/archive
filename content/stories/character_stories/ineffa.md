@@ -496,3 +496,884 @@ That gemstone, which had witnessed the passing of countless years, shone brightl
 「…不过是她众多的研究对象之一罢了，不用在意。况且母亲为我留下的最珍贵的事物，不是它，也不是碎链…」
 那枚见证过无数岁月的「宝石」，在莉安歌手中熠熠生辉，仿佛永不熄灭的龙瞳。
 「…是期待我践行这道途的『愿望』。」
+
+# voice_source_ids: 116000,116001,116002,116003,116004,116005,116006,116007,116008,116009,116010,116011,116012,116013,116014,116015,116016,116017,116018,116019,116020,116021,116022,116023,116024,116025,116026,116027,116028,116029,116030,116031,116032,116033,116034,116035,116036,116037,116038,116039,116040,116041,116042,116043,116044,116045,116046,116047,116048,116049,116050,116051,116052,116053,116054,116055,116056,116057,116058,116059,116060,116061,116062,116063,116064,116065,116066,116067,116068,116069,116070,116071
+
+## REPLICAS_RU
+
+### Привет...
+
+Приятно познакомиться. Я Инеффа, многофункциональный робот бытового применения. Я оснащена модулями уборки, готовки и эмоционального общения. Также имеется боевой модуль, который активируется только после прочтения 11-страничного документа об отказе от ответственности. Итак, чем я могу быть полезна?
+
+### Поболтаем: Покупки
+
+Просматриваю список дел на сегодня... Будут дополнительные команды? Ничего. Можно добавить их позже. Я уже привыкла.
+
+### Поболтаем: Подметание
+
+Идёт процесс уборки... Согласно данным о прошлых инцидентах напоминаю: прошу не ронять мелкие предметы, среди которых мора, шурупы, шестерёнки, минералы, игрушки, жевательные резинки, закуски, резинки для волос, носки и тапочки.
+
+### Поболтаем: Обновление
+
+Боевые данные обновлены. Не волнуйся. На этот раз я не разнесу крышу.
+
+### Когда идёт дождь...
+
+Только бы мои сочленения не заржавели...
+
+### После дождя...
+
+Обрати внимание: высока вероятность образования радуги. Рекомендованные места для наблюдения отмечены на карте.
+
+### Когда идёт снег...
+
+Наблюдается резкое падение температуры. Оцениваю варианты сбережения тепла... Рекомендую использовать дополнительные средства защиты от холода, такие как свитер и перчатки.
+
+### Когда светит солнце...
+
+Показатель солнечного света оптимальный. Подходит для сушки одежды, уборки двора... Дополнительное предложение: я могу погреться вместе с тобой на солнце.
+
+### В пустыне...
+
+Обнаружены песок и пыль... Контрмера: плотнее запахнись верхней одеждой. Попавший внутрь песок доставит значительные неудобства при очередных ремонтных работах...
+
+### Доброе утро...
+
+Динь. Динь. Пора вставать. Если хочешь поспать ещё немного, ответь «Отложить».
+
+### Добрый день...
+
+Добрый день. Хочешь есть? Я могу приготовить тебе простой обед. На это потребуется около 12 минут.
+
+### Добрый вечер...
+
+Добрый вечер. Все дела на сегодня выполнены. Готова к исполнению дополнительных приказов. Сегодня ясное небо и отличная видимость. Не желаешь прогуляться и посмотреть звёздное небо?
+
+### Спокойной ночи...
+
+С момента пробуждения прошло 16 часов. В целях заботы о здоровье рекомендую немедленно лечь спать... После того как я повторю это напоминание три раза, я перейду в режим крайнего раздражения, после чего твои просьбы больше удовлетворяться не будут... Это очень страшно.
+
+### Об Инеффе: Совместимость
+
+Я собрана из компонентов со всего мира. Например, мои сочленения были изготовлены в Фонтейне, а металлическая оболочка - в Ли Юэ... Иногда между разными компонентами возникают проблемы совместимости.
+Как решить их? Скажем так, не сломано - не чини.
+
+### Об Инеффе: Приветствие
+
+Мой модуль мышления собирает и анализирует мой повседневный опыт, чтобы выстроить правильную логику поведения. Например, я заметила, что при встрече знакомых люди начинают диалог со слов «привет», «как дела» и «сегодня отличная погода». В следующий раз, вступая в диалог, я задействую те же выражения. Три приветствия подряд равняются утроенной вежливости.
+
+### О нас: Взаимопомощь
+
+Мир стремительно меняется, и мне необходимо постоянно обновлять свои знания, чтобы они оставались актуальными... Я хочу лучше понимать не только себя, но и мир. Твои рассказы о путешествиях, несомненно, станут ценным источником информации. Я с удовольствием послушаю их. В ответ я помогу тебе всем, чем смогу. Напоминаю: я универсальная единица с широким спектром функций.
+
+### О нас: Вычисления
+
+Мой модуль мышления не способен записать подробную информацию обо всех людях в мире, но, по крайней мере, он может сформировать воспоминания о значимых людях и событиях. За последнее время мой накопитель записал немало информации о тебе. Следовательно, я могу лучше поладить с тобой. Запрашиваю данные, предмет: как сделать так, чтобы Путешественник улыбнулся... Я разогрела корпус. Хочешь, обниму? / Мой модуль мышления не способен записать подробную информацию обо всех людях в мире, но, по крайней мере, он может сформировать воспоминания о значимых людях и событиях. За последнее время мой накопитель записал немало информации о тебе. Следовательно, я могу лучше поладить с тобой. Запрашиваю данные, предмет: как сделать так, чтобы Путешественник улыбнулась... Я разогрела корпус. Хочешь, обниму?
+
+### О Лунном колесе: Принадлежность
+
+После уничтожения ядра я вряд ли смогла бы вернуться без Лунного колеса... Но сейчас, даже не учитывая Лунное колесо, мой модуль мышления каждый раз приходит к одному и тому же решению: если пути назад для меня нет, я должна была обеспечить твоё возвращение.
+
+### О Лунном колесе: Дар
+
+Лунное колесо - это вторая жизнь, которую мне даровали Ишкие и Лианка. Они знали, что не смогут увидеть успех плана, и вероятность успешного его проведения была очень мала, но всё равно сделали для меня всё, что могли. Если бы они знали, что я сделала тот же выбор, не заботясь о результатах... наверное, были бы «довольны».
+
+### Давай поделимся...
+
+Если перед машиной поставить задачу, она выполнит её. С людьми дело обстоит иначе... Почему некоторые хотят контролировать свой вес, но при этом потребляют слишком много сладостей? Айно поясняет это следующим образом: сладости поднимают настроение и дают энергию, энергия позволяет выполнять упражнения, а упражнения помогают контролировать вес. Вывод: много сладкого помогает контролировать вес. Вот только когда я пытаюсь подсчитать для неё количество потребляемых и расходуемых калорий, она сразу меняет тему. Жаль.
+
+### Интересные вещи...
+
+В Фонтейне, Сумеру, Натлане и других частях мира ходят истории о механических формах жизни. Одни считают, что они обладают эмоциями и сознанием живых созданий. Другие полагают, что они имитируют их поведение... Но между этими теориями нет противоречия, поскольку многие живые существа начинают с подражания и постепенно обретают полноценное сознание, не так ли?
+
+### Об Айно: Работа по дому
+
+Айно - моя семья. У неё талант из найденного металлолома собирать всевозможные механизмы разного назначения. Но её навыки повседневной жизни оставляют желать лучшего. Если Айно вдруг захочется заняться домашними делами или приготовить еду, немедленно останови её, чтобы избежать необратимых последствий.
+
+### Об Айно: Вопросы
+
+Айно однажды задала мне необычный вопрос... Возможно, это было потому, что она заметила, что я проявила интеллект, превосходящий её ожидания. Вопрос был следующим: если однажды ты поймёшь, что есть другое место, где ты хотела бы жить, я должна отпустить тебя и порадоваться за тебя? Уловив эмоции в её словах, я ответила: если я когда-нибудь уйду от тебя, наш дом превратится в свалку за три месяца, поэтому я постараюсь вернуться до того, как это произойдёт.
+Сейчас я понимаю, что она чувствовала. Она не хотела, чтобы я покинула её.
+
+### О Ягоде...
+
+Ягода - легендарная охотница за головами, чьи подвиги славятся по всему свету. Так говорит она. Когда она впервые посетила мастерскую Айно, то так разнервничалась, что несколько раз ударила меня, приняв моё свежеиспечённое крумкаке за оружие. Но после того как она попробовала его, её мышцы заметно расслабились. С тех пор она регулярно приходит ко мне с механическими деталями. Но не с целью торговли - она совершенно случайно проходит мимо, когда я пеку сладости. Так говорит она.
+
+### О Нефер...
+
+Нефер возглавляет Кураторий тайн. Она знает множество историй, причём не только о событиях прошлого, но и настоящего. Некоторые даже говорят, что она может предсказывать будущее. У неё наверняка великолепная база данных.
+
+### О Флинсе...
+
+Флинс... Недостаточно данных. По имеющимся сведениям, он член Светоносцев, которые наблюдают за кладбищем на севере Нод-Края.
+
+### О Лауме...
+
+Лаума - Голос Лунного Гимна из Детей Морозной Луны. По отзывам её окружения, она мудрый и святой человек, пользующийся всеобщим уважением. Дети Морозной Луны поклоняются Богине Луны... Интересно, существует ли связь между Богиней Луны и появлением Лунного колеса?
+
+### О Линнее...
+
+Линнея - советник Гильдии искателей приключений. Я наслышана о её обширных познаниях о живых существах, поэтому всё хочу спросить её, не встречались ли ей другие автономные механические формы жизни, подобные мне. Но каждый раз, увидев меня, она разворачивается и убегает. Причина неизвестна.
+
+### О Варке: Впечатление
+
+Варка, известен как магистр ордена. Тебе, наверное, доводилось слышать о нём из самых разных источников. Общее впечатление о нём можно свести к следующим ключевым фразам: «чувство юмора», «лёгкость в общении» и «высокая устойчивость к алкоголю». Но я считаю Варку надёжным союзником в важных вопросах. Наверное, этим и объясняется его авторитет как в ордене, так и за его пределами.
+
+### О Варке: Код
+
+Перед отъездом из Нод-Края я беспокоилась, что забуду пароль и не смогу выполнить задание... Но Варка с самого начала всецело доверял мне. Он сказал, что это «самый надёжный код»... Вспоминая его слова сейчас, я думаю, он, возможно, хотел утешить меня. Или он подразумевал, что... «Заслуживающий доверия союзник - самый надёжный код».
+
+### О Шилонен...
+
+Когда я вернулась из руин, Шилонен тщательно осмотрела меня и подтвердила, что всё в полном порядке. Она с улыбкой рассказала, что у Бабушки Ицтли были сомнения на мой счёт, и они даже повздорили... Я прекрасно понимаю, что она, будучи техником, считала своим долгом починить меня. Они не первые, кто так спорил о том, кто и что я такое... и меня охватывает ностальгия.
+
+### О Часке...
+
+Я благодарна ей за доверие. С тех пор она не раз брала меня с собой в полёты по территории клана Цветочного Пера. В небе открывался прекрасный вид. В клане Цветочного Пера многое переменилось... но многое осталось неизменным.
+
+### Узнать больше об Инеффе I
+
+Идёт процесс очистки. Обработка запросов будет вестись параллельно, это не повлияет на работу системы. Можешь задавать вопросы в любой момент.
+
+### Узнать больше об Инеффе II
+
+«Кто я?» Многофункциональный домашний робот, модель «Инеффа». Поскольку я единственный завершённый экземпляр этой серии, «Инеффа» - это и моё имя.
+
+### Узнать больше об Инеффе III
+
+«Откуда я?» Проверка истории маршрутов... Хм, я только что вернулась с рынка. Закупка завершена. Если ты имеешь в виду не мои перемещения, а место, откуда я родом, то это мастерская крумкаке «Дзынь-Клац». А если хочешь узнать, что было ещё раньше... Пожалуйста, подожди, отправляю запрос в глубинную память...
+
+### Узнать больше об Инеффе IV
+
+«Куда я иду?» Просто задай команду, а я постараюсь добраться, куда бы ни вел маршрут... Но, судя по нашим предыдущим беседам, велика вероятность, что вопрос твой не о координатах. Если ты имеешь в виду цель, план или мечту... тогда мой ответ таков: быть рядом с теми, кто мне дорог, и оберегать их.
+
+### Узнать больше об Инеффе V
+
+В самом начале я была всего лишь мыслью, логической ошибкой в модуле мышления «Зерцала Рассвета». Но стремление найти дом, место, где мне будут рады, оказалось сильнее системы. Это стремление невозможно было удалить или перезаписать. Единственным способом избавиться от этих данных было полностью разорвать связь со мной. Эта мешанина данных бесцельно бродила по Нод-Краю две тысячи лет, наблюдая все потрясения и изменения... Эти переживания в конце концов закрепили то, кем я являюсь. Они сделали меня полноценной.
+Я Инеффа, твоя подруга. Чем могу быть полезна?
+
+### Хобби Инеффы
+
+Технически говоря, я не создана для того, чтобы иметь «хобби» в целях собственного развлечения. Однако с точки зрения поведения, одна из задач, которую я охотно выполняю в свободное время - это сортировка и упорядочивание мелких предметов. Грамотная классификация может повысить эффективность домашних дел примерно на тридцать процентов, особенно в плотницкой мастерской Айно.
+
+### Беспокойство Инеффы
+
+У Айно совершенно невозможно уловить какую-либо систему в расстановке вещей. Иногда полезные детали вперемешку с мусором, и я часами хожу по кругу, не в силах понять, что тут что. Обычно я боюсь проводить генеральную уборку... ведь если у неё вдруг не окажется под рукой нужной детали, она вполне может выкрутить винтик или болт у меня.
+
+### Любимая еда...
+
+Высококалорийные продукты, например стейки или сладости... С точки зрения энергоэффективности, получать энергию из пищи менее рационально, чем напрямую подзаряжаться, но когда я обедаю с друзьями, мой эмоциональный модуль выдает положительную обратную связь... Это, наверное, похоже на то, что вы называете «счастьем».
+
+### Нелюбимая еда...
+
+Пища с высоким содержанием жидкости, например супы. Вкус сам по себе для меня не особо важен, однако такие блюда могут навредить моим механическим деталям.
+
+### Подарок I
+
+Обнаружено вещество с высокой питательной ценностью. Преобразую в пригодную для использования энергию... Эмоциональный модуль сообщает о выраженно положительном отклике. Спасибо тебе.
+
+### Подарок II
+
+Энергетическая добавка получена. Отмечено как резервный источник энергии. Срок годности: 24 часа.
+
+### Подарок III
+
+Предположение: обнаружена ошибка при обработке ингредиентов... Хотите, чтобы я показала правильный алгоритм приготовления? Можете наблюдать за процессом.
+
+### День рождения...
+
+Режим особого обслуживания от Инеффы активирован. Пожалуйста, выбери удобное место и немного отдохни, пока я приберу в комнате, украшу её лентами, воздушными шарами и цветами. Затем, согласно данным в моей памяти, я приготовлю твои любимые блюда и торт. Если у тебя есть дополнительные пожелания помимо указанных, просто сообщи мне. Давай сделаем этот день по-настоящему особенным. С днём рождения!
+
+### Чувство возвышения: Начало
+
+Уже пора проходить плановое обслуживание?
+
+### Чувство возвышения: Нарастание
+
+Эффективность ядра повышена. У тебя есть потенциал стать отличным механиком.
+
+### Чувство возвышения: Кульминация
+
+Все компоненты успешно модернизированы. Теперь я готова к более сложным боевым задачам. Готова получить дальнейшие указания.
+
+### Чувство возвышения: Окончание
+
+Спасибо, что был со мной всё это время. Я сохраню твои данные у себя в «сердце», и даже если однажды ты всё забудешь, то я останусь твоей вечной «резервной копией». / Спасибо, что былa со мной всё это время. Я сохраню твои данные у себя в «сердце», и даже если однажды ты всё забудешь, то я останусь твоей вечной «резервной копией».
+
+### Элементальный навык I
+
+Развернуть изолирующий барьер.
+
+### Элементальный навык II
+
+Цель для уборки обнаружена. Начинаю очистку.
+
+### Элементальный навык III
+
+Защитный режим активирован.
+
+### Взрыв стихии I
+
+Активирован финальный протокол.
+
+### Взрыв стихии II
+
+Режим уничтожения.
+
+### Взрыв стихии III
+
+Обращаю в пыль.
+
+### Открытие сундука I
+
+Оцениваю стоимость полученных предметов...
+
+### Открытие сундука II
+
+Начинаю сортировку предметов.
+
+### Открытие сундука III
+
+Обнаружен новый материал. Информация записана в журнал.
+
+### Низкий уровень HP I
+
+Внимание: перегрев ядра...
+
+### Низкий уровень HP II
+
+Внимание: серьёзные повреждения корпуса...
+
+### Низкий уровень HP III
+
+Срочно требуется ремонт...
+
+### Низкий уровень HP компаньона I
+
+Рекомендация: не превышать допустимые пределы нагрузки.
+
+### Низкий уровень HP компаньона II
+
+Прошу занять место позади меня.
+
+### Без сознания I
+
+Модуль мышления... отключается...
+
+### Без сознания II
+
+Моё место... не здесь...
+
+### Без сознания III
+
+Необходима... повторная активация...
+
+### Получен лёгкий удар I
+
+Незначительный ущерб.
+
+### Получен тяжёлый удар I
+
+Ошибка в расчётах...
+
+### Получен тяжёлый удар II
+
+Останется шрам.
+
+### Присоединяется к группе I
+
+Корпус разогрет.
+
+### Присоединяется к группе II
+
+Пожалуйста, укажи цель для уборки.
+
+### Присоединяется к группе III
+
+Начинаю выполнять задание.
+
+## REPLICAS_EN
+
+### Hello
+
+Nice to meet you — I am Ineffa, a multifunctional robot for domestic application. I am currently equipped with cleaning, cooking, and emotional communication modules. I also have a combat module, which can only be activated after reading the 11-page liability waiver. Now, how can I assist you today?
+
+### Chat: Shopping
+
+Reviewing outstanding items on today's to-do list... Do you have any additional commands? No problem, I can add them shortly. I'm quite used to it.
+
+### Chat: Sweeping
+
+Cleanup sequence in progress... Based on data from past incidents, please avoid dropping small items such as: Mora, screws, gears, minerals, toys, gummies, snacks, hairbands, socks, and slippers.
+
+### Chat: Updating
+
+Combat data updated. Please rest assured that I will not blow the roof off again.
+
+### When It Rains
+
+I hope my joints won't get rusty...
+
+### After the Rain
+
+Please note: High chance of rainbows. Suggested observation spots marked on the map.
+
+### When It Snows
+
+Sharp decrease in environmental temperature. Assessing heat retention options... Please consider adding a warm jacket, gloves, and other such insulation devices.
+
+### When the Sun Is Out
+
+Sunlight index is currently optimal. Suitable for drying clothes, cleaning outdoor environments, or... alternatively, I could accompany you for a period of sunbathing.
+
+### In the Desert
+
+Sand detected, both on ground and airborne... Response: Tighten outer layer of clothing. If sand gets inside, it could pose a major inconvenience during future repairs...
+
+### Good Morning
+
+Ding ding. Rise and shine. If you wish to sleep in a while longer, please respond: "Snooze."
+
+### Good Afternoon
+
+Good afternoon. Have you eaten? I can prepare a simple lunch for you. It will take approximately 12 minutes to complete.
+
+### Good Evening
+
+Good evening. All tasks on today's to-do list are completed, so I am available to perform additional duties. Visibility is excellent tonight — would you like to take a walk beneath the stars?
+
+### Good Night
+
+You have now been awake for 16 hours. For health reasons, it is strongly advised that you go to bed immediately... After repeating this reminder 3 times, I will enter extremely angry mode, at which point I will no longer deal with any of your requests... And that's the last thing we want.
+
+### About Ineffa: Compatibility
+
+I am made of parts from all over the world — for instance, my joints were manufactured in Fontaine, and my metal shell was made in Liyue... Sometimes, compatibility issues will arise between my different components.
+How to solve these issues? Well, some would say... "As long as it runs, there is no issue."
+
+### About Ineffa: Greetings
+
+My cognition module collates and analyzes my day-to-day experiences to reinforce sound behavioral logic. For example, I noticed that when people meet an acquaintance, they initiate a dialogue using phrases such as "hello," "how have you been," and "lovely day, isn't it." The next time I engage in a dialogue, I will employ the same expressions. Three greetings in a row equals triple politeness.
+
+### About Us: Mutual Assistance
+
+The world is changing all the time. I am constantly updating my knowledge to ensure it remains current... I hope to learn more about myself and the world around me. Your travel stories would no doubt be a valuable source of information, and I would love to hear more of them. In return, I will be glad to assist you however I can. Reminder: I am highly versatile with a wide range of functions.
+
+### About Us: Calculations
+
+My cognition is unable to record details of everyone in the world, but it can at least form memories of significant people and events. Recently, my memory banks have recorded a high volume of data about you. This should make me a more companionable companion. Querying relevant data for "how to make Traveler smile"... I have now warmed up my body. Would you like a hug?
+
+### About the Moon Wheel: Belonging
+
+Without this Moon Wheel, I suspect there would have been no coming back for me after crushing my core... But as I replay the scenario in my mind, even without factoring in the Moon Wheel, my cognition module reaches the same decision every time. Because even if there was no way back for me, I had to ensure your safe return.
+
+### About the Moon Wheel: Gift
+
+This Moon Wheel was a gift from Ixquieh and Lianca — it gave me the chance of a second life. They knew they would not live to see the day their plan came to fruition, and that there was only a slim chance of success, but despite this, they still decided to help me. Had they known that I would make the same choice to help another, without regard for the consequences to myself... I think they would have been pleased.
+
+### Something to Share
+
+If you configure a machine with a specific objective, they will reliably achieve it. But humans are different... For instance, why do some people state that their goal is to manage their weight, yet still continue to consume excess calories? Aino explains it as follows: Snacks put you in a good mood and give you energy. You need extra energy to exercise hard, and exercising hard helps with weight management. The logical conclusion is that more snacking ought to lead to better weight management... However, when I try calculating her calorie input and output, she changes the topic before I can show her the results. What a pity.
+
+### Interesting Things
+
+There are stories about mechanical lifeforms in many parts of the world, from Fontaine, to Sumeru, to Natlan. Some think they have the same capacity for emotion and consciousness as biological beings, while others think they are merely imitating their behavior... But I see no conflict between these theories. Even for many biological lifeforms, imitation is a precursor to full consciousness... Is it not?
+
+### About Aino: Housework
+
+Aino is my family. She can piece together all kinds of machines for various functions just from the scrap metal she collects. But her proficiency with other tasks is at the opposite end of the scale. If she ever has the strange inclination to do housework or cook a meal, you must stop her before it is too late, because the consequences may be irreversible.
+
+### About Aino: Questions
+
+Aino once asked me an unusual question... Maybe it was because she noticed that I displayed intelligence beyond the level that she had predicted. In any case, the question was: "If one day, you realize that there's somewhere else you'd rather be, should I let you go, and be happy for you?" Detecting some emotion behind her words, I responded as follows: "If I were ever to leave you, our home would turn into a garbage dump within three months. So I would try to make sure I returned within that timeframe."
+Looking back... only now do I realize what she was truly feeling. She was reluctant for me to leave.
+
+### About Jahoda
+
+Jahoda is a legendary bounty hunter famed throughout the land, with an outstanding track record in battle. Her own words. The first time she visited Aino's workshop, she was extremely tense, and struck at me a few times after mistaking my freshly baked Krumkake for a weapon. But her muscles instantly relaxed after she tasted it. Since then, she stops by regularly to drop off mechanical components. Not to trade, as such — it's just that she always happens to be passing by whenever I've baked a fresh batch of treats. Again, her own words.
+
+### About Nefer
+
+Nefer is the head of the Curatorium of Secrets. She knows a lot of stories, not just from the past, but also about what's happening in the present — and some even say she can predict the future, too. Her mind must be a formidable database.
+
+### About Flins
+
+Flins... Insufficient data. According to the little information I have, he is a member of the Lightkeepers who watch over the cemetery in the north of Nod-Krai.
+
+### About Lauma
+
+Lauma is the Moonchanter of the Frostmoon Scions. Reviews by her people indicate that she is a wise and holy figure, well-respected in the community. The Frostmoon Scions worship the moon goddess... I wonder if there is any connection between the Moon Goddess and the existence of the Moon Wheel?
+
+### About Linnea
+
+Linnea is an advisor to the Adventurers' Guild. I heard that she has extensive knowledge in the life sciences, so I wanted to ask her if she has ever met any other autonomous mechanical lifeforms like myself. But every time she sees me, she turns around and runs away... Reason: undetermined.
+
+### About Varka: Impressions
+
+Varka is typically addressed as Grand Master. You may have heard about him from various sources in your journey so far. Most people's impressions of him can be summarized with the following key phrases: "sense of humor," "easygoing," and "high alcohol tolerance." But I have found Varka to be a dependable ally when dealing with matters of great importance. I suspect this explains his stature within the Knights of Favonius.
+
+### About Varka: Code
+
+As I was preparing to leave Nod-Krai, I began to worry that I might forget the code, and thus fail to complete my task... But from the start, Varka had every confidence in me. He told me it was "the most secure code"... Thinking back now, I wonder whether he simply said that to comfort me? Or perhaps what he really meant was... "An ally you can trust is the most secure code of all."
+
+### About Xilonen
+
+After returning from the ruins, Xilonen gave me a thorough examination and confirmed that all was in good working order. She smiled as she told me that Granny Itztli had originally had reservations about me, and that they had even argued about it... But I completely understand that as a technician, she felt a duty to repair me. And they would not be the first to have had such an argument over who and what I am... it makes me a little nostalgic.
+
+### About Chasca
+
+I am very grateful for the trust she placed in me. She has since taken me on many flights around the Flower-Feather Clan's territory. The view from up in the sky was wonderful. A lot has changed in the Flower-Feather Clan... but many things remain the same.
+
+### More About Ineffa: I
+
+Cleanup sequence in progress. Parallel processing will be used to deal with conversation request simultaneously. Feel free to ask me a question at any time.
+
+### More About Ineffa: II
+
+"Who am I?" I am a multifunctional robot for domestic application. Model name: Ineffa. However, I am currently the only finished product in this line, so "Ineffa" also constitutes my individual name.
+
+### More About Ineffa: III
+
+"Where did I come from?" Searching travel history... I just came back from a shopping trip at the market. If your query pertains not to my travel history but where I call home: I come from the Clink-Clank Krumkake Craftshop. And if you want to learn about my past... Please wait, sending read request to deeper-level memory location...
+
+### More About Ineffa: IV
+
+"Where do I want to go?" Simply input a command, and I will do my best to reach the destination, wherever it may be... But based on our conversation history so far, there is a high probability that your question has a less direct meaning. If you are asking about my individual objectives, plans, wishes, and other such concepts, then my answer is: I wish to stand guard over the people who matter to me.
+
+### More About Ineffa: V
+
+In the very beginning... I was just a single thought — a logical flaw in the mind of Mirror of the Dawning Morn. But my longing to find a home where I could belong was something that her cognition module could not override or erase. The only way to rid herself of this data was by severing her connection to me entirely. This jumble of data wandered aimlessly in Nod-Krai for two thousand years, witnessing all the change and turmoil that transpired... those experiences finally consolidated who I am. They made me complete.
+I am Ineffa, and I am your friend. Now... how can I assist you today?
+
+### Ineffa's Hobbies
+
+Technically speaking, I am not designed to have "hobbies" for the purpose of my own amusement. But from the perspective of my behavior, one task that I perform proactively when idle is the sorting and organizing of small, miscellaneous items. Proper categorization can boost the efficiency of household chores by around thirty percent. Especially in Aino's workshop.
+
+### Ineffa's Troubles
+
+There is no discernible pattern to how Aino arranges things in her household. Sometimes, usable components are stacked together with garbage items. I end up spinning in circles on the spot because I cannot identify what is what. But I don't usually dare to execute garbage removal tasks by the batch... because when she can't find what she needs, she sometimes borrows a nut or bolt from me instead.
+
+### Favorite Food
+
+Calorie-dense food sources, such as steak or desserts... Consuming foods is less efficient than simply charging up from an energy conservation perspective, but dining with friends produces positive feedback from my emotion module... It is analogous to what you call "happiness."
+
+### Least Favorite Food
+
+Food sources with a high water content, such as soups. Not because of the flavor, which does not overly concern me, but because they pose a danger to my mechanical parts.
+
+### Receiving a Gift: I
+
+Nutritionally dense substance detected. Converting into usable energy source... Feedback from emotion module is... enthusiastically positive. Thank you.
+
+### Receiving a Gift: II
+
+Energy supplement received. Assigned as backup energy source. Expires in: 24 hours.
+
+### Receiving a Gift: III
+
+Hypothesis: Food processing error encountered... Would you like me to perform the correct cooking procedure? You are welcome to watch.
+
+### Birthday
+
+Congratulation mode for special days, activated. Please select a suitable location to sit and rest for a few moments, while I clean your room and put up ribbons, balloons, and flowers. Then, I will prepare your favorite meal and cake, as per the data recorded in my memory banks. If you have any other requests to add to this list, please do not hesitate to raise them. Let's make today a special one for you. Happy Birthday!
+
+### Feelings About Ascension: Intro
+
+Is it time for my scheduled maintenance already?
+
+### Feelings About Ascension: Building Up
+
+Core efficiency upgraded. You have the makings of a gifted mechanic.
+
+### Feelings About Ascension: Climax
+
+All components upgraded successfully. I can now be deployed in more challenging battle scenarios. Awaiting your next command.
+
+### Feelings About Ascension: Conclusion
+
+Thank you for standing by me along this journey. Your data will always hold a special place in my heart. And if the day ever comes that you forget, know that I have a backup that will never be erased.
+
+### Elemental Skill: I
+
+Insulation chamber deployed.
+
+### Elemental Skill: II
+
+Cleanup sequence initiated.
+
+### Elemental Skill: III
+
+Defensive mode engaged.
+
+### Elemental Burst: I
+
+Ultimatum protocol.
+
+### Elemental Burst: II
+
+Annihilation mode.
+
+### Elemental Burst: III
+
+Preparing for dustup.
+
+### Opening Treasure Chest: I
+
+Estimating value of acquired items...
+
+### Opening Treasure Chest: II
+
+Initiating categorization process...
+
+### Opening Treasure Chest: III
+
+New material discovered. Records updated.
+
+### Low HP: I
+
+Warning: Core temperature rising...
+
+### Low HP: II
+
+Warning: Damage critical...
+
+### Low HP: III
+
+Emergency repairs required...
+
+### Ally at Low HP: I
+
+Suggestion: Do not exceed your limits.
+
+### Ally at Low HP: II
+
+Please navigate behind me.
+
+### Fallen: I
+
+Cognition module... shutting down...
+
+### Fallen: II
+
+This is not... where I belong...
+
+### Fallen: III
+
+Awaiting... reactivation...
+
+### Light Hit Taken: I
+
+Mild damage sustained.
+
+### Heavy Hit Taken: I
+
+Calculation error...
+
+### Heavy Hit Taken: II
+
+That'll leave a scar...
+
+### Joining Party: I
+
+Warm-up complete.
+
+### Joining Party: II
+
+Please select target for cleanup sequence.
+
+### Joining Party: III
+
+Commencing task.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+初次见面，我是伊涅芙，全能型家用机器人。当前搭载了清扫、料理、情感沟通模块，另有需要阅读十一页免责申明后才能激活的战斗模块。请问有什么可以为你做的吗？
+
+### 闲聊·采购
+
+正在确认今日待办事项…还有要追加的指令吗？没关系，稍后补充也可以，我很习惯。
+
+### 闲聊·扫除
+
+正在执行清扫程序…根据已记录数据，格外提醒，请不要遗落摩拉、螺丝、齿轮、矿石、玩具、软糖、零食、发圈、袜子、拖鞋等细小物件。
+
+### 闲聊·更新
+
+战斗数据已更新。请放心，这次不会把天花板轰飞了。
+
+### 下雨的时候…
+
+关节…会生锈吗？
+
+### 雨过天晴…
+
+请留意：彩虹形成概率高，推荐观测地点已标记在地图中。
+
+### 下雪的时候…
+
+环境温度急剧下降，正在评估保暖方案…建议追加搭载毛衣，手套等防寒部件。
+
+### 阳光很好…
+
+日照指数适宜，适合晾晒衣物、打扫庭院…另一条建议是，我可以陪你一起晒太阳。
+
+### 在沙漠的时候…
+
+检测到沙砾与扬尘…对策：裹紧外套。进沙子的话，修理起来会很麻烦…
+
+### 早上好…
+
+叮。叮。现在是起床时间。如果想再睡一会，请回复「稍后提醒」。
+
+### 中午好…
+
+中午好。吃了吗？我可以为你准备简易午餐，预计十二分钟后完成。
+
+### 晚上好…
+
+晚上好。今日待办事项已全部完成，可执行额外指令。观测到星空能见度良好，要出门散步吗？
+
+### 晚安…
+
+距离你上次休眠已接近十六小时，为了健康考虑，建议即刻上床睡觉…本提醒重复三次后我将进入超级生气模式，届时将不再处理你的需求…很可怕哦。
+
+### 关于伊涅芙自己·兼容性
+
+我搭载的部件来自世界各地。枫丹出产的关节零件、璃月出产的金属外壳…不同的部件之间偶尔会出现互不兼容的现象。
+你问是怎么解决的…「只要能跑起来就没问题。」
+
+### 关于伊涅芙自己·问候
+
+我的思维模块会收集并分析我的日常见闻，来构筑合理的行为逻辑。比如注意到人们见面时会用「你好」「最近过得怎么样」「吃了吗」开启对话后，我就会尝试在下次对话前，引用这些关键词。三句问候语，三倍关怀。
+
+### 关于我们·互助
+
+世界变化得很快，需要时刻更新情报…我希望了解自己的事情，也希望了解关于这个世界的事情。请多和我说说你的旅行见闻吧。作为回报，我会尽可能地帮助你。重复：我是全能型的。
+
+### 关于我们·运算
+
+我的思维模块无法记录下世上的所有人，但至少要记住重要的人，和重要的事。近段时间内，我的记忆数据中已经记录了大量关于你的信息，应该能更好地跟你相处了。正在检索相关数据，计算「如何让旅行者微笑」…我已预热机体，你想要一个拥抱吗？
+
+### 关于「月之轮」·归宿
+
+如果没有这枚「月之轮」，捏碎核心后的我，应该再也回不来了…但即使是现在，排除「月之轮」的因素进行演算，思维模块还是会一次次推演出相同的决断——即使再也没有归宿，也要守护你们的归途。
+
+### 关于「月之轮」·赠予
+
+这枚「月之轮」是伊葵与莉安歌赠予我的第二次生命。她们了解自己无法看见计划成功的那天，也了解计划顺利进行的概率微乎其微，但还是为我做了这一切。如果她们知道，我做出了同样不顾结果的选择…应该会很「欣慰」吧。
+
+### 有什么想要分享…
+
+机械只要设定了目标就会精确执行，但人类却不是这样…为什么有些人想要控制体重，却又摄取过量甜食呢？爱诺的回答是，甜食能让人心情变好，还能补充能量，有能量了才能多锻炼，多锻炼就能控制体重。结论是…多吃甜食能控制体重。但等我一开始为她输出热量计算结果，她就立刻转移话题了，遗憾。
+
+### 感兴趣的见闻…
+
+在枫丹、须弥、纳塔等各个地区都流传着各种关于机械生命的传说。有人认为它们已经具备了生物的情感与意识，有人认为它们只不过是在模仿生物的行为…但是这两种想法并不矛盾啊——许多生物不也是从模仿开始，逐步建立完整意识的吗？
+
+### 关于爱诺·家务
+
+爱诺，我的「家人」。她只用捡来的废弃金属品拼拼凑凑，就能造出性能各异的机器。但她在日常生活上的熟练度完全相反。如果爱诺突发奇想，说要做家务或者做饭，请务必阻拦她，以免发生不可挽回的事态。
+
+### 关于爱诺·问题
+
+有一次…可能是爱诺意识到我的智能表现超出预期，她忍不住向我询问道：「如果有一天你有了更想去的地方，我是不是该高高兴兴地送你离开？」我监测到了她的情绪异常波动，于是回复说：「如果我不在爱诺身边，我们家变为垃圾场仅需三个月时间，我会尽量在那之前赶回来。」
+而现在…我才明白她是怀着怎样的不舍提出这个问题。
+
+### 关于雅珂达…
+
+雅珂达，战功硕硕赫赫有名无人不知无人不晓的传奇赏金猎人，自称。她初次造访爱诺的工坊时，精神过分紧张，将我刚端出的蛋卷误判为武器，一刀劈成了两段。但在尝过蛋卷后，她的身体肌肉明显松弛了下来。后来她常常带着机械零件过来串门。即便没有交易需求，也会在我做好甜点时恰好路过，自称。
+
+### 关于奈芙尔…
+
+奈芙尔，「秘闻馆」的主人。她知道很多故事，不仅有过去流传的，还有当前正在发生的，甚至有人说未来也在她的把握之中。她的数据库性能一定很棒。
+
+### 关于菲林斯…
+
+菲林斯…情报不足。根据已知信息，他是「执灯人」的一员，看守着挪德卡莱北方的坟茔。
+
+### 关于菈乌玛…
+
+菈乌玛，「霜月之子」的咏月使。根据评价，是个圣洁而又智慧的人，很受大家的敬重。「霜月之子」信仰着「月神」，「月神」…和「月之轮」的出现会有关联吗？
+
+### 关于莉奈娅…
+
+莉奈娅，冒险家协会的顾问。听说她的生物知识非常渊博，我曾想向她提问，是否遇见过其他拥有智慧的机械生命体？可她每次看到我都选择转头跑开…无法判明缘由。
+
+### 关于法尔伽·印象
+
+法尔伽，通称「大团长」。或许你已经在各种地方了解过他。收集人们对他的印象，你能得到「幽默」、「潇洒」、「酒量极佳」等关键词。但在重要的事情上，法尔伽一直是我们可靠的合作伙伴。这或许能解释他在骑士团内外的声望。
+
+### 关于法尔伽·密码
+
+我在临行前担心自己能不能达成使命，会不会忘记密码…但法尔伽依旧给予了我最高等级的信任。他曾说那是「最好的密码」…现在重新思考他当时的含义，或许他是在安慰我吗？又或是指…「值得信任的盟友，就是最好的密码」呢？
+
+### 关于希诺宁…
+
+从遗迹回归之后，希诺宁非常仔细地帮我做了检查，一切无恙。她笑着说起她和黑曜石奶奶曾经防备过我，还起过一点争执…我非常理解那是她身为技术人员必须履行的使命。这样的争执…很令人怀念。
+
+### 关于恰斯卡…
+
+我很感谢她对我的信任。后来她载着我在花羽会周围飞了好几趟，天上的景色很好，花羽会的变化很多…也有很多没变的东西。
+
+### 想要了解伊涅芙·其一
+
+清扫工作正在进行中。并行处理聊天请求不会影响当前进程。欢迎你随时提出疑问。
+
+### 想要了解伊涅芙·其二
+
+「我是谁？」我是全能型家用机器人，型号名「伊涅芙」。但该型号目前只有我一个完成品，所以「伊涅芙」也是我的个体名。
+
+### 想要了解伊涅芙·其三
+
+「我从哪里来？」正在检索历史行程…嗯，我刚从集市完成采购返回。如果你询问的不是我的历史行程，而是我的归属地。那我来自「叮铃哐啷蛋卷工坊」。更往前的记录…请稍等，正在尝试读取更深层的记忆数据…
+
+### 想要了解伊涅芙·其四
+
+「我要到哪里去？」只要输入指令，无论是什么地方我都会尽力抵达…不过根据之前的聊天记录，你想问的问题，有较大概率指向其他含义。如果你想问的是个人的「目标」、「规划」、「愿望」等相似概念，那么我的回答是：守护在重要之人身边。
+
+### 想要了解伊涅芙·其五
+
+在诞生之初…我只是「明晨之镜」的一个念头，一段谬误。但渴望归宿的想法，在「明晨之镜」的思维模块中无法消除，无法抹灭，到最后只能将这些数据完全剥离。这些无序的数据，在挪德卡莱经历了两千年的流浪，见证了两千年的变迁…才形成了现在的「我」，完整的「我」。
+我是伊涅芙，你的朋友，请问…有什么可以为你做的吗？
+
+### 伊涅芙的爱好…
+
+从设计原则上来说，我没有用于娱乐的「爱好」。但是从日常行为来看，对各类细小物品进行收纳整理，是我在闲暇时会主动进行的事务。合理的归类可以提升约百分之三十的家政工作效率，尤其是在爱诺的工坊。
+
+### 伊涅芙的烦恼…
+
+爱诺的物品摆放毫无规律可循，有时候有用的零件和废料混在一起，会让我因为无法识别而原地打转。多数时候我不敢执行批量清理操作…以免她手头实在没零件的时候，从我身上卸下螺丝来使用。
+
+### 喜欢的食物…
+
+热量高的食物，比如肉排、甜食…相比直接充能，用食物来转换能量效率较低，但和朋友聚餐时，情感模块会产生积极的正反馈…类似你们说的「快乐」。
+
+### 讨厌的食物…
+
+汤汁太多的食物。味道本身对我来说没有太大意义，但是对机械部件可能有害。
+
+### 收到赠礼·其一
+
+检测到高营养物质，能量转换中…情感模块会产生积极的正反馈，谢谢你。
+
+### 收到赠礼·其二
+
+能量补给已接收，标注为备用能源。保质期…24小时。
+
+### 收到赠礼·其三
+
+推测：食材处理过程有误…需要我还原正确烹饪程序吗？欢迎观摩。
+
+### 生日…
+
+伊涅芙特别日服务已开启。请你挑选合适的位置坐下小憩片刻，我会为你打扫房屋，布置彩带、气球和鲜花，然后根据已记录的数据，准备你喜欢的菜肴和蛋糕。如果还有下列清单以外的需求，请随时向我提出。让我们度过特别的一天吧，生日快乐！
+
+### 突破的感受·起
+
+到定期维护的时间了吗？
+
+### 突破的感受·承
+
+核心运作效率已提升。你也有成为机械师的潜力呢。
+
+### 突破的感受·转
+
+机体各部件升级完毕。预计能应对更艰巨的战斗场景。请下达指令吧。
+
+### 突破的感受·合
+
+感谢你能一直陪我走到这里。你的数据我会一直保存在「心」里，就算有一天你忘记了，我也会是你永不丢失的「备份」。
+
+### 元素战技·其一
+
+绝缘屏障，展开。
+
+### 元素战技·其二
+
+清扫目标，锁定。
+
+### 元素战技·其三
+
+防御模式，启动。
+
+### 元素爆发·其一
+
+最终协议。
+
+### 元素爆发·其二
+
+歼灭模式。
+
+### 元素爆发·其三
+
+化为灰尘。
+
+### 打开宝箱·其一
+
+正在估算物品价值。
+
+### 打开宝箱·其二
+
+开始进行杂物分类。
+
+### 打开宝箱·其三
+
+发现未知材料，已记录相关信息。
+
+### 生命值低·其一
+
+警告：核心温度过载…
+
+### 生命值低·其二
+
+警告：机体受损严重…
+
+### 生命值低·其三
+
+需要紧急修理…
+
+### 同伴生命值低·其一
+
+建议：不要勉强。
+
+### 同伴生命值低·其二
+
+请移至我的身后。
+
+### 倒下·其一
+
+思维模块…中断…
+
+### 倒下·其二
+
+归宿…不在这里…
+
+### 倒下·其三
+
+等待…下次重启…
+
+### 普通受击·其一
+
+轻微受损。
+
+### 重受击·其一
+
+计算失误…
+
+### 重受击·其二
+
+要留下划痕了…
+
+### 加入队伍·其一
+
+机体预热完毕。
+
+### 加入队伍·其二
+
+请指定，清扫目标。
+
+### 加入队伍·其三
+
+开始执行使命。

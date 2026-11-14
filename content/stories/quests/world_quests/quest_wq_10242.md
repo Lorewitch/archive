@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 76202,76203,76204,76205
 # previous_quests: 
-# next_quests: quest_wq_76141
+# next_quests: 
 # related_quests: 
 # quest_chain: quest_wq_10242
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 76202,76203,76204,76205
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -28,15 +30,19 @@
 
 #### Перейдите в Ведьмин сад
 
-Открыть дверь и войти
-
 #### Войдите в хижину
 
 **Николь:** Добро пожаловать!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Привет, Николь.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Для меня большая честь быть у тебя в гостях.
+
+##### Общее продолжение
 
 **Паймон:** Ого, у тебя такой красивый дом! Паймон очень нравится, как ты тут всё обустроила!
 
@@ -62,9 +68,15 @@
 
 **Николь:** Судя по моим наблюдениям... вы не любите долгих вступлений и объяснений. Вы предпочитаете получать удовольствие, находясь в самой гуще событий, верно?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Так и есть...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...Но всё же хотелось бы услышать объяснения.
+
+##### Общее продолжение
 
 **Николь:** Ха-ха, очень рада! В таком случае приготовьтесь. Объяснение будет долгим!
 
@@ -88,18 +100,26 @@
 
 **Николь:** Да! Поиски сокровищ. Будет весело!
 
-#### Осмотрите комнату
+#### Войдите в комнату
+
+- **Путешественник:** Открыть дверь и войти
 
 **Николь:** Слишком сложно? Не волнуйтесь, всё очень просто. Подумайте, поищите повсюду и в конце получите свой приз. Вы мастера в такого рода приключениях!
 
-*В лицо подул ветер.
-Как странно, в нём чувствуются ароматы фруктовых рулетиков, тортика с летникой, жареного мяса и ягодно-цветочных конфет.*
+**Осмотреть дверь:** (За дверью слышен тихий звон чайной ложки, ударяющейся о фарфор...)
+
+#### Осмотрите комнату
+
+#### Осмотрите комнату
+
+В лицо подул ветер.
+Как странно, в нём чувствуются ароматы фруктовых рулетиков, тортика с летникой, жареного мяса и ягодно-цветочных конфет.
 
 **Паймон:** Ой! От этого сладкого ветерка у Паймон перехватило дыхание. Кхе-кхе-кхе... Эй? И где это мы? Чайник и чашки такие огромные...
 
 **Паймон:** Или... мы стали маленькими?!
 
-Похоже на магию Николь.
+- **Путешественник:** Похоже на магию Николь.
 
 **Николь:** Прошу прощения, я не смогла пригласить актёров-животных, обычно я имею дело с более бесстрастными актёрами...
 
@@ -111,29 +131,41 @@
 
 #### Используйте элемент Пиро, чтобы нагреть чайник
 
-**Осмотреть дверь:** (За дверью слышен тихий звон чайной ложки, ударяющейся о фарфор...)
-
 #### Осмотрите комнату
 
 **Паймон:** Когда мы резко полетели вниз, Паймон так испугалась! Эй, это же огромная... статуя мандрагоры?
 
-**Осмотреть дверь:** Хе-хе...
+**Мандрагора:** Хе-хе...
 
 **Николь:** Минуточку. Прошу прощения, кажется, что-то пошло не так. Этого не должно было произойти...
 
-**Осмотреть дверь:** Хе-хе...
+**Мандрагора:** Хе-хе...
 
 **Паймон:** Она зашевелилась! Она пытается атаковать нас!
 
 **Николь:** Фух, так-то лучше...
 
+**Паймон:** Николь, ты о чём?
+
+**Николь:** Хм? Эта атака ведь совсем безобидная. Путешественник, пришло время проявить свои способности.
+
+**Паймон:** Эй, Николь! Не хочешь нам помочь?
+
+**Николь:** Ладно, тогда... «Волю небес приму как свою»!
+
+#### Победите гигантскую статую мандрагоры
+
+#### Прикоснитесь к «перьям»
+
+#### Откройте сундук
+
 #### Поговорите с Николь
 
 **Паймон:** Кстати, Николь, почему тебе так не терпится вручить нам награду?
 
-**Паймон:** Паймон тоже нравится наблюдать за реакцией (путешественницы)(путешественника), когда Паймон дарит ему / ей подарок, но это же совсем другое дело, правда?
+**Паймон:** Паймон тоже нравится наблюдать за реакцией путешественника, когда Паймон дарит ему подарок, но это же совсем другое дело, правда? / Паймон тоже нравится наблюдать за реакцией путешественницы, когда Паймон дарит ей подарок, но это же совсем другое дело, правда?
 
-Что я тебе говорил(а) про подаренных коней, Паймон?
+- **Путешественник:** Что я тебе говорил про подаренных коней, Паймон? / Что я тебе говорила про подаренных коней, Паймон?
 
 **Николь:** Всё в порядке. Я не против! В худшем случае мой ответ разрушит некоторые ваши иллюзии об ангельской расе. Если вы думали, что мы все - бескорыстные и доброжелательные существа, то правда, возможно, заставит вас пересмотреть своё мнение.
 
@@ -157,9 +189,26 @@
 
 **Николь:** К тому же направлять других - это само по себе хорошо, не так ли?
 
+**Николь:** Если не возражаешь, зайди чуть позже? Мне нужно проверить, все ли комнаты в порядке...
+
+- **Путешественник:** Посмотреть ещё раз
+
+В лицо подул ветер.
+Как странно, в нём чувствуются ароматы фруктовых рулетиков, тортика с летникой, жареного мяса и ягодно-цветочных конфет.
+
+Недостаточно сладко...
+
+Недостаточно сладко...
+
+Ммм! Сладость в самый раз!
+
+Ммм! Сладость в самый раз!
+
 ### Безмолвный театр
 
 Новая комната открыта...
+
+#### Перейдите в хижину ведьмы
 
 #### Поговорите с Николь
 
@@ -172,6 +221,8 @@
 **Паймон:** Привет, Николь! Ты сегодня такая энергичная! И... такая разговорчивая...
 
 **Николь:** Буду считать это комплиментом! Итак, готовы заглянуть в мою следующую комнату?
+
+#### Войдите в комнату
 
 #### Осмотрите раму картины
 
@@ -205,13 +256,21 @@
 
 #### Осмотрите раму картины
 
+#### Осмотрите раму картины
+
 **Паймон:** Это Ирминсуль?
 
 **Николь:** А, эта картина? Вам хорошо знакомы белые деревья... но знаете ли вы, что первое предательство ангелов произошло именно под ветвями одного из них?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не знаю.
 
-- **Путешественник:** Я что-то об этом слышал(а).
+##### Вариант ответа 2
+
+- **Путешественник:** Я что-то об этом слышал. / Я что-то об этом слышала.
+
+##### Общее продолжение
 
 **Паймон:** Паймон интересно послушать.
 
@@ -251,6 +310,8 @@
 
 #### Осмотрите раму картины
 
+#### Осмотрите раму картины
+
 **Паймон:** Это Симуланка! Эм... А почему на земле лежат лёгкие романы издательского дома Яэ?
 
 **Николь:** Если говорить о литературном озарении, то моим главным источником вдохновения является... уважаемая госпожа Аня.
@@ -263,7 +324,7 @@
 
 **Николь:** Я попросила у неё совета, как писать увлекательные истории. Она научила меня многим хитростям и приёмам, но в конечном итоге моим главным противником всегда была я сама.
 
-Лень браться за перо?
+- **Путешественник:** Лень браться за перо?
 
 **Николь:** Ха! Можно и так сказать. Передавать мысли напрямую настолько удобно, что даже ангелы могут поддаться лени.
 
@@ -281,6 +342,8 @@
 
 #### Поговорите с Николь
 
+#### Поговорите с Николь
+
 **Николь:** На этих картинах изображены дорогие моему сердцу места. Теперь мастерская полностью восстановлена.
 
 **Николь:** Время получить наше вознаграждение. Почему ты на меня смотришь? Конечно, «наше».
@@ -289,11 +352,17 @@
 
 #### Откройте сундук
 
-**Николь:** О-о, ты кое-что оставил(а)!
+**Николь:** О-о, ты кое-что оставил! / О-о, ты кое-что оставила!
+
+**Николь:** Если подумать... эта хижина ведьмы имеет особое значение и для меня. Картина в доме, дом в картине... миры в мирах. Завораживает, не правда ли?
 
 ### Забытый дворец
 
 Новая комната открыта...
+
+#### Перейдите в хижину ведьмы
+
+#### Войдите в комнату
 
 #### Войдите в комнату
 
@@ -303,7 +372,7 @@
 
 **Николь:** Ох... Боюсь, что сейчас я не могу уйти - торгую скульптурами в Фонтейне.
 
-Мы можем чем-нибудь помочь?
+- **Путешественник:** Мы можем чем-нибудь помочь?
 
 **Николь:** Нет, спасибо. Это мой единственный шанс взять перо в руки, даже если я в основном записываю цифры...
 
@@ -314,6 +383,50 @@
 **Паймон:** Видели!
 
 **Николь:** Тогда пусть этот молчаливый проводник поможет вам. Удачи!
+
+#### Войдите в комнату
+
+#### Изучите свиток, оставленный Николь
+
+**Посмотреть подсказку:** Пусть птицы свободно гуляют в полях, а растения цветут на возвышении.
+
+#### Разместите скульптуру в правильном месте согласно подсказкам
+
+**Посмотреть подсказку:** Пусть птицы свободно гуляют в полях, а растения цветут на возвышении.
+
+#### Изучите свиток, оставленный Николь
+
+**Посмотреть подсказку:** Чтобы положить конец раздору, пусть один поднимется на вершину, а другой останется внизу.
+
+**Посмотреть подсказку:** Дикие цветы и плоды земли принесут утешение обитателям долины.
+
+#### Разместите скульптуру в правильном месте согласно подсказкам
+
+**Посмотреть подсказку:** Чтобы положить конец раздору, пусть один поднимется на вершину, а другой останется внизу.
+
+**Посмотреть подсказку:** Дикие цветы и плоды земли принесут утешение обитателям долины.
+
+#### Изучите свиток, оставленный Николь
+
+**Посмотреть подсказку:** Голубое тянется к небу.
+
+**Посмотреть подсказку:** Розовый цвет находит своё место в углу.
+
+**Посмотреть подсказку:** Жёлтый цвет соседствует с корнями дерева.
+
+**Посмотреть подсказку:** Двое певцов обернулись на звук, но во дворце уже никто не пел.
+
+#### Разместите скульптуру в правильном месте согласно подсказкам
+
+**Посмотреть подсказку:** Голубое тянется к небу.
+
+**Посмотреть подсказку:** Розовый цвет находит своё место в углу.
+
+**Посмотреть подсказку:** Жёлтый цвет соседствует с корнями дерева.
+
+**Посмотреть подсказку:** Двое певцов обернулись на звук, но во дворце уже никто не пел.
+
+#### Прикоснитесь к «перьям»
 
 #### Поговорите с Николь
 
@@ -347,6 +460,10 @@
 
 Новая комната открыта...
 
+#### Перейдите в хижину ведьмы
+
+#### Найдите Николь
+
 #### Поговорите с Николь
 
 **Николь:** Что же делать? Что мне делать? Они скоро придут...
@@ -355,7 +472,7 @@
 
 **Николь:** Кхе... Извините...
 
-Ты не готова?
+- **Путешественник:** Ты не готова?
 
 **Николь:** Как бы выразиться. Боюсь, я не смогу объяснить всё достаточно внятно. Придётся рассказать всё с самого начала...
 
@@ -367,7 +484,7 @@
 
 **Паймон:** Ой, её внутренний монолог опять просачивается наружу... Кроме того, он не исходит из её «уст»...
 
-Тсс...
+- **Путешественник:** Тсс...
 
 **Николь:** Я решила спрятать перья в верхней части кабинета. Подумала, что если усложню задачу, то чувство удовлетворения от достигнутого будет сильнее...
 
@@ -379,13 +496,19 @@
 
 **Паймон:** Ну да, действительно... Мы в тупике...
 
-Николь, можешь сказать кое-что?
+- **Путешественник:** Николь, можешь сказать кое-что?
 
 **Николь:** Что именно?
 
+##### Вариант ответа 1
+
 - **Путешественник:** В Симуланке слова - это магия.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Вот бы твои слова стали лестницей...
+
+##### Общее продолжение
 
 **Николь:** А! Понятно! Давайте попробуем!
 
@@ -409,11 +532,15 @@
 
 #### Двигайтесь вперёд
 
+#### Двигайтесь вперёд
+
+#### Двигайтесь вперёд
+
 **Паймон:** Какой длинный отрезок времени!
 
 **Николь:** Мириады явлений как путеводитель, Всё сущее вписывается в священное имя. Слова переплетаются, а посланники объединяются. В этом святилище словами вымощены ступени твоего пути.
 
-**Осмотреть дверь:** Динь!
+**Лестница из слов:** Динь!
 
 **Николь:** Смотри, всё готово.
 
@@ -423,6 +550,10 @@
 
 В священном месте в этот час слова проложат путь для нас.
 
+#### Прикоснитесь к «перьям»
+
+#### Откройте сундук
+
 #### Поговорите с Николь
 
 **Паймон:** Сокровище! Как здорово!
@@ -431,9 +562,15 @@
 
 **Николь:** Что это? Жалобы? Ты не боишься, что такая могущественная ведьма, как я, щёлкнет пальцами - и все твои новенькие безделушки превратятся в редьку?
 
+##### Вариант ответа 1
+
 - **Путешественник:** П-Паймон не это имела в виду...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Да ладно, не принимай близко к сердцу...
+
+##### Общее продолжение
 
 **Николь:** Хе-хе, шучу. Я ведь не из тех тихих, обидчивых ангелов, которые запоминают каждую мелочь.
 
@@ -455,15 +592,19 @@ One day, a mysterious voice invites you to visit her witch's lodge...
 
 #### Go to The Witch's Garden
 
-Push the door open and enter.
-
 #### Enter the small lodge
 
 **Nicole:** Welcome.
 
+##### Response branch 1
+
 - **Traveler:** Hello, Nicole.
 
+##### Response branch 2
+
 - **Traveler:** It's an honor to be here.
+
+##### Shared continuation
 
 **Paimon:** Wow, your home's so pretty! Paimon loves what you've done with it!
 
@@ -489,9 +630,15 @@ Push the door open and enter.
 
 **Nicole:** Based on my observations and understanding... you're not a fan of complex introductions and explanations. You prefer to find your fun in the heat of adventure, am I right?
 
+##### Response branch 1
+
 - **Traveler:** Well, you're certainly not wrong...
 
+##### Response branch 2
+
 - **Traveler:** But I'd still quite like an introduction this time.
+
+##### Shared continuation
 
 **Nicole:** Haha, glad to hear it! In that case, brace yourselves — I don't plan to hold back!
 
@@ -515,18 +662,26 @@ Push the door open and enter.
 
 **Nicole:** Exactly! A treasure hunt. It's going to be so fun!
 
-#### Explore the room
+#### Enter the room
+
+- **Traveler:** Push the door open and enter.
 
 **Nicole:** Was that a little much? Don't worry, it's incredibly simple — just put your thinking caps on, search high and low, and claim your prize at the end. It's exactly the sort of escapade you two excel at!
 
-*A gust of wind suddenly brushes across your face.
-How strange... It carries the aroma of Fruit Tandem Turnovers, Midsommar Torte, Crispy Roast, and Berry Herbal Candy.*
+**Examine Door:** (The faint sound of a teaspoon clinking against porcelain can be heard from behind the door...)
+
+#### Explore the room
+
+#### Explore the room
+
+A gust of wind suddenly brushes across your face.
+How strange... It carries the aroma of Fruit Tandem Turnovers, Midsommar Torte, Crispy Roast, and Berry Herbal Candy.
 
 **Paimon:** Ugh! A gust of super sweet wind just blew right down Paimon's throat! *cough*... Hey! Where are we? That teapot and those cups look really, really big...
 
 **Paimon:** Wait a second... Did we shrink!?
 
-This feels like Nicole's magic at work.
+- **Traveler:** This feels like Nicole's magic at work.
 
 **Nicole:** Apologies, I was hoping to invite animal actors, but alas... I'm used to dealing with thespians of a more... "stony-faced" persuasion.
 
@@ -538,29 +693,41 @@ This feels like Nicole's magic at work.
 
 #### Use Pyro to heat the teapot
 
-**Examine Door:** (The faint sound of a teaspoon clinking against porcelain can be heard from behind the door...)
-
 #### Explore the room
 
 **Paimon:** Whoa! Why did it just suddenly slide down like that? And is that a... giant Mandragora statue?
 
-**Examine Door:** Clunk...
+**Mandragora:** Clunk...
 
 **Nicole:** Hold on a moment. Sorry, just a minor technical difficulty. Let me see...
 
-**Examine Door:** Click... Clack...
+**Mandragora:** Click... Clack...
 
 **Paimon:** It's moving! Hey! Is this thing attacking us!?
 
 **Nicole:** Aha, much better...
 
+**Paimon:** What do you mean, much better!?
+
+**Nicole:** Mm? Come on, it's barely attacking you. You can handle a little spirited tickling, can't you? Besides, this is the perfect opportunity for Traveler to show off some skills.
+
+**Paimon:** Hey, Nicole! Help us out here, will ya!?
+
+**Nicole:** Alright, alright... "Heaven's will, made mine"!
+
+#### Defeat the giant Mandragora statue
+
+#### Touch the "feathers"
+
+#### Open the chest
+
 #### Talk to Nicole
 
 **Paimon:** Paimon can't help but wonder why you're so excited about these rewards, Nicole...
 
-**Paimon:** Sure, Paimon looks forward to Traveler's reaction when she gets him / her a gift, but this feels kinda different...
+**Paimon:** Sure, Paimon looks forward to Traveler's reaction when she gets him a gift, but this feels kinda different... / Sure, Paimon looks forward to Traveler's reaction when she gets her a gift, but this feels kinda different...
 
-What did I tell you about gift horses, Paimon...
+- **Traveler:** What did I tell you about gift horses, Paimon...
 
 **Nicole:** Oh, don't worry about that. I don't mind! At worst, my answer might shatter a few illusions you have about the angelic race. If you thought we were all selfless, benevolent beings, the truth may make you think again.
 
@@ -584,9 +751,26 @@ What did I tell you about gift horses, Paimon...
 
 **Nicole:** Besides, guiding others is a good thing in itself, don't you think?
 
+**Nicole:** If you don't mind, could you come back a little while later? I still need to check that the other rooms are all in working order...
+
+- **Traveler:** Maybe not now.
+
+A gust of wind suddenly brushes across your face.
+How strange... It carries the aroma of Fruit Tandem Turnovers, Midsommar Torte, Crispy Roast, and Berry Herbal Candy.
+
+It doesn't seem sweet enough...
+
+It doesn't seem sweet enough...
+
+Hah! That's the spot.
+
+Hah! That's the spot.
+
 ### The Silent Theater
 
 A new room has opened...
+
+#### Head to the Witch's Lodge
 
 #### Talk to Nicole
 
@@ -599,6 +783,8 @@ A new room has opened...
 **Paimon:** Hey, Nicole! You're so full of energy today! And... words... you're so full of words...
 
 **Nicole:** I'll take that as a compliment! Alright then, are you ready to check out my next room?
+
+#### Enter the room
 
 #### Examine the picture frames
 
@@ -632,13 +818,21 @@ A new room has opened...
 
 #### Examine the picture frames
 
+#### Examine the picture frames
+
 **Paimon:** Is that an Irminsul tree?
 
 **Nicole:** Oh, this painting here? You're clearly no strangers to the white trees... but did you know that the first angel's betrayal happened beneath one of their very boughs?
 
+##### Response branch 1
+
 - **Traveler:** I don't think so.
 
+##### Response branch 2
+
 - **Traveler:** Sounds familiar...
+
+##### Shared continuation
 
 **Paimon:** Huh, Paimon's curious now!
 
@@ -678,6 +872,8 @@ A new room has opened...
 
 #### Examine the picture frames
 
+#### Examine the picture frames
+
 **Paimon:** Hey, this is Simulanka! Uhm... but why are there light novels from Yae Publishing House all over the floor?
 
 **Nicole:** Well, on the subject of my literary enlightenment, my greatest inspiration of all... is none other than Lady Anya herself.
@@ -690,7 +886,7 @@ A new room has opened...
 
 **Nicole:** I asked her for tips on how to write compelling tales. She taught me a lot of tricks and techniques, but in the end, my biggest enemy has always been myself.
 
-Too lazy to put pen to paper?
+- **Traveler:** Too lazy to put pen to paper?
 
 **Nicole:** Haha! That's one way of putting it. Communicating through thought is so much more convenient. I guess even angels can succumb to laziness.
 
@@ -708,6 +904,8 @@ Too lazy to put pen to paper?
 
 #### Talk to Nicole
 
+#### Talk to Nicole
+
 **Nicole:** These paintings all remind me of places that hold great significance in my heart. And now, the studio has been fully restored.
 
 **Nicole:** Alright, go ahead and claim our reward. What? Don't look at me like that! Of course, this reward is "ours."
@@ -718,9 +916,15 @@ Too lazy to put pen to paper?
 
 **Nicole:** Ahem... You still haven't taken everything!
 
+**Nicole:** Come to think of it... this mage's lodge holds a special significance for me, too. A painting within a house, a house within a painting... worlds within worlds. Fascinating, isn't it?
+
 ### The Lost Palace
 
 A new room has opened...
+
+#### Head to the Witch's Lodge
+
+#### Enter the room
 
 #### Enter the room
 
@@ -730,7 +934,7 @@ A new room has opened...
 
 **Nicole:** *sigh* I'm afraid I can't tear myself away right now. I've opened a stall in Fontaine selling sculptures.
 
-Uhm... Do you want us to help?
+- **Traveler:** Uhm... Do you want us to help?
 
 **Nicole:** No, thanks. This is my only chance to put pen to paper, even if I'm mostly just writing down numbers...
 
@@ -741,6 +945,50 @@ Uhm... Do you want us to help?
 **Paimon:** Found it!
 
 **Nicole:** Then let my silent guide help you on your way... Good luck!
+
+#### Enter the room
+
+#### Check the scroll left by Nicole
+
+**View Hint:** Let that bird walk the field at leisure, while plants thrive atop the plinth.
+
+#### Follow the clues to place the statues in their correct positions
+
+**View Hint:** Let that bird walk the field at leisure, while plants thrive atop the plinth.
+
+#### Check the scroll left by Nicole
+
+**View Hint:** If you wish to end conflict, then have one ascend to the heights, while the other reposes upon low ground.
+
+**View Hint:** The flowers in wild fields and the fruit of the earth shall bring comfort to the creature who dwells in the valley low.
+
+#### Follow the clues to place the statues in their correct positions
+
+**View Hint:** If you wish to end conflict, then have one ascend to the heights, while the other reposes upon low ground.
+
+**View Hint:** The flowers in wild fields and the fruit of the earth shall bring comfort to the creature who dwells in the valley low.
+
+#### Check the scroll left by Nicole
+
+**View Hint:** The blue shall draw near to the skies.
+
+**View Hint:** The pale pink seeks refuge in dark corners.
+
+**View Hint:** The pale yellow should be a neighbor to the roots.
+
+**View Hint:** The two singers gaze in the direction of the voice, yet none were left to sing on temple grounds.
+
+#### Follow the clues to place the statues in their correct positions
+
+**View Hint:** The blue shall draw near to the skies.
+
+**View Hint:** The pale pink seeks refuge in dark corners.
+
+**View Hint:** The pale yellow should be a neighbor to the roots.
+
+**View Hint:** The two singers gaze in the direction of the voice, yet none were left to sing on temple grounds.
+
+#### Touch the "feather"
 
 #### Talk to Nicole
 
@@ -774,6 +1022,10 @@ I'm going to guide you all the way to the Fortress of Meropide!
 
 A new room has opened...
 
+#### Head to the Witch's Lodge
+
+#### Look for Nicole
+
 #### Talk to Nicole
 
 **Nicole:** Look at the time! What am I going to do now... They'll be here any minute...
@@ -782,7 +1034,7 @@ A new room has opened...
 
 **Nicole:** Oh dear, oh dear... I'm sorry about this...
 
-Aren't you ready yet?
+- **Traveler:** Aren't you ready yet?
 
 **Nicole:** How should I put this... Oh, blast, I'm afraid I can't explain it very clearly. I'll have to tell you the whole story...
 
@@ -794,7 +1046,7 @@ Aren't you ready yet?
 
 **Paimon:** Oh dear, her inner monologue's leaking out again... Besides, it's not really coming from her own "mouth"...
 
-Shh...
+- **Traveler:** Shh...
 
 **Nicole:** I decided to hide the feathers at the top of the study. I figured if I made things harder, there'd be a greater sense of accomplishment...
 
@@ -806,13 +1058,19 @@ Shh...
 
 **Paimon:** Oh, Paimon sees your point... Hmm, that sure is a tricky one...
 
-Nicole, could you try saying something?
+- **Traveler:** Nicole, could you try saying something?
 
 **Nicole:** What do you want me to say?
 
+##### Response branch 1
+
 - **Traveler:** In Simulanka, words are magic.
 
+##### Response branch 2
+
 - **Traveler:** Maybe you could say something that will become a staircase...
+
+##### Shared continuation
 
 **Nicole:** Oh! I get what you're saying! Alright, I'll give it a try!
 
@@ -836,11 +1094,15 @@ Just so long as Alice doesn't hear about this, there's no reason for anyone to l
 
 #### Continue onward
 
+#### Continue onward
+
+#### Continue onward
+
 **Paimon:** Whoa, that gap's so big!
 
 **Nicole:** All things may serve as guides... The scriptures filled... with names divine! The words and chapters... intertwine... and angels act with deeds aligned! In this sacred place, let words forge the path ahead.
 
-**Examine Door:** ~
+**Stairway of Words:** ~
 
 **Nicole:** See? All taken care of.
 
@@ -850,6 +1112,10 @@ The words and chapters... intertwine... and angels act with deeds aligned!
 
 In this sacred place, let words forge the path ahead.
 
+#### Touch the "feathers"
+
+#### Open the chest
+
 #### Talk to Nicole
 
 **Paimon:** Treasure! Woohoo, this is so much fun!
@@ -858,9 +1124,15 @@ In this sacred place, let words forge the path ahead.
 
 **Nicole:** What's this? Complaining now, are we? Aren't you worried a powerful mage like me might snap her fingers and turn those new trinkets into turnips?
 
+##### Response branch 1
+
 - **Traveler:** P—Paimon didn't mean anything by it...
 
+##### Response branch 2
+
 - **Traveler:** Come on, don't take it to heart...
+
+##### Shared continuation
 
 **Nicole:** Hehe, I'm only joking with you. You should know I'm not the silent, sulking sort of angel that keeps track of every little slight.
 
@@ -882,15 +1154,19 @@ In this sacred place, let words forge the path ahead.
 
 #### 前往魔女的花园
 
-推门进去。
-
 #### 进入小屋
 
 **尼可:** 欢迎光临。
 
+##### 对话分支 1
+
 - **旅行者:** 你好啊，尼可。
 
+##### 对话分支 2
+
 - **旅行者:** 很荣幸来这里做客。
+
+##### 共同后续
 
 **派蒙:** 哇，好华丽气派的屋子，你装潢得很漂亮嘛！
 
@@ -916,9 +1192,15 @@ In this sacred place, let words forge the path ahead.
 
 **尼可:** 凭我的观察和对你们的了解…比起复杂的事先说明和解释，你们更喜欢在探索过程中挖掘乐趣吧？
 
+##### 对话分支 1
+
 - **旅行者:** 倒是没说错…
 
+##### 对话分支 2
+
 - **旅行者:** 但尼可的说明还是想听听的。
+
+##### 共同后续
 
 **尼可:** 哈哈，这话我爱听，那我就真的真的不客气喽！
 
@@ -942,18 +1224,26 @@ In this sacred place, let words forge the path ahead.
 
 **尼可:** 宝藏，我也等不及了！
 
-#### 探索房间内部
+#### 进入房间
+
+- **旅行者:** 推门进去。
 
 **尼可:** 刚才没听明白？哎呀很简单的，总之就是发动脑筋，努力寻宝，最后拿到宝藏，完全是你们擅长的事！
 
-*一阵风扑面而来。
-真奇怪，它尝起来有双果卷、夏槲蛋糕、脆脆烤肉和花果草糖的味道。*
+**查看房门:** （门后隐约传来茶勺敲击茶杯的声响…）
+
+#### 探索房间内部
+
+#### 探索房间内部
+
+一阵风扑面而来。
+真奇怪，它尝起来有双果卷、夏槲蛋糕、脆脆烤肉和花果草糖的味道。
 
 **派蒙:** 呃！突然有一股好甜的风钻进喉咙里了，咳咳咳…咦？我们这是在哪里？茶壶和杯子看着好大…
 
 **派蒙:** 还是说…是我们变小了？！
 
-看起来像是尼可的魔法。
+- **旅行者:** 看起来像是尼可的魔法。
 
 **尼可:** 很抱歉，我没能邀请对应的动物演员，我平时都是和石头演员打交道的…
 
@@ -965,29 +1255,41 @@ In this sacred place, let words forge the path ahead.
 
 #### 运用火元素加热茶壶
 
-**查看房门:** （门后隐约传来茶勺敲击茶杯的声响…）
-
 #### 探索房间内部
 
 **派蒙:** 突然往下滑了一段，吓我一跳。欸，是个巨大的…曼陀草雕塑？
 
-**查看房门:** 咯咯。
+**曼陀草:** 咯咯。
 
 **尼可:** 稍等，不好意思，好像哪里出了点小差错。不应该啊…
 
-**查看房门:** 咯——咯——
+**曼陀草:** 咯——咯——
 
 **派蒙:** 它动起来了，好像是想要攻击我们！
 
 **尼可:** 呼，这下对了…
 
+**派蒙:** 尼可，你在说些什么啊？
+
+**尼可:** 嗯？这点攻击不是不痛不痒嘛？正是旅行者表现的时候。
+
+**派蒙:** 哎，哎，尼可你也帮帮忙啦！
+
+**尼可:** 好吧，那就…「吾以己心代天心」！
+
+#### 击败巨大的曼陀草雕塑
+
+#### 触碰「羽毛」
+
+#### 开启宝箱
+
 #### 与尼可对话
 
 **派蒙:** 话说回来，明明是送东西给我们，尼可为什么那么兴奋呢？
 
-**派蒙:** 我是说，我送礼物给旅行者的时候也会期待他 / 她的反应啦，但和尼可的状态好像不太一样？
+**派蒙:** 我是说，我送礼物给旅行者的时候也会期待他的反应啦，但和尼可的状态好像不太一样？ / 我是说，我送礼物给旅行者的时候也会期待她的反应啦，但和尼可的状态好像不太一样？
 
-这是可以问的吗？
+- **旅行者:** 这是可以问的吗？
 
 **尼可:** 这部分没关系啦，我是不介意的。顶多让你们对天使一族的好感有些许幻灭，从以为天使都是大好人到明白真相而已。
 
@@ -1011,9 +1313,26 @@ In this sacred place, let words forge the path ahead.
 
 **尼可:** 无论如何，我们完成的都是一件好事，对吧？
 
+**尼可:** 如果可以的话，过段时间再来看看吧。我也要多去检查一下其他房间的设计…
+
+- **旅行者:** 再看看。
+
+一阵风扑面而来。
+真奇怪，它尝起来有双果卷、夏槲蛋糕、脆脆烤肉和花果草糖的味道。
+
+**（test）茶杯气泡01:** 感觉不够甜啊…
+
+感觉不够甜啊…
+
+嗯！甜度正好！
+
+**（test）茶杯气泡01:** 嗯！甜度正好！
+
 ### 无声剧场
 
 新的房间已经开启…
+
+#### 前往魔女的小屋
 
 #### 与尼可对话
 
@@ -1026,6 +1345,8 @@ In this sacred place, let words forge the path ahead.
 **派蒙:** 你好呀，尼可，你看起来精神真好！而且…今天也很健谈呢。
 
 **尼可:** 那我就当作赞美收下了。好了，来下一个房间看看吧。
+
+#### 进入房间
 
 #### 查看画框
 
@@ -1059,13 +1380,21 @@ In this sacred place, let words forge the path ahead.
 
 #### 查看画框
 
+#### 查看画框
+
 **派蒙:** 银白古树？
 
 **尼可:** 噢，是这幅画，你们对白树已经不算陌生了，不过你们是否知道，最初天使的背叛就是在白树下？
 
+##### 对话分支 1
+
 - **旅行者:** 不太了解。
 
+##### 对话分支 2
+
 - **旅行者:** 好像听说过…
+
+##### 共同后续
 
 **派蒙:** 我有点好奇。
 
@@ -1105,6 +1434,8 @@ In this sacred place, let words forge the path ahead.
 
 #### 查看画框
 
+#### 查看画框
+
 **派蒙:** 噢！是希穆兰卡！呃…地上怎么还有八重堂的轻小说？
 
 **尼可:** 说到我写作的启蒙，自然是我敬爱的安雅女士。
@@ -1117,7 +1448,7 @@ In this sacred place, let words forge the path ahead.
 
 **尼可:** 我向她请教过，怎么写好一个故事之类的，技巧学了不少，但到头来我最大的敌人还是我自己。
 
-懒得动笔吗？
+- **旅行者:** 懒得动笔吗？
 
 **尼可:** 是啦，就是这个意思。直接沟通思想实在太方便了，即使是天使也会有惰性的啊。
 
@@ -1135,6 +1466,8 @@ In this sacred place, let words forge the path ahead.
 
 #### 与尼可对话
 
+#### 与尼可对话
+
 **尼可:** 这些画作纪念着我心中的意义非凡之地，这样一来，画室就全部复原了。
 
 **尼可:** 领取我们的报酬吧，怎么？看我干什么？当然是「我们」的。
@@ -1145,9 +1478,15 @@ In this sacred place, let words forge the path ahead.
 
 **尼可:** 喔噢，还有东西没拿哦！
 
+**尼可:** 仔细想想…这座魔女小屋对我来说也很有特殊意义。屋中画，画中屋…嵌套结构？有点意思…
+
 ### 遗失宫殿
 
 新的房间已经开启…
+
+#### 前往魔女的小屋
+
+#### 进入房间
 
 #### 进入房间
 
@@ -1157,7 +1496,7 @@ In this sacred place, let words forge the path ahead.
 
 **尼可:** 唉，好巧不巧我这会儿没法赶过来，我在枫丹摆摊卖雕塑呢。
 
-呃…需要我们帮忙吗？
+- **旅行者:** 呃…需要我们帮忙吗？
 
 **尼可:** 别，这可是我唯一提笔写字的机会，尽管写的多数都是数字…
 
@@ -1168,6 +1507,50 @@ In this sacred place, let words forge the path ahead.
 **派蒙:** 看见了！
 
 **尼可:** 那就让这位沉默的向导为你们提供帮助吧，加油！
+
+#### 进入房间
+
+#### 查看尼可留下的卷轴
+
+**查看提示:** 使那飞鸟悠然漫步其野，而草木在台座上繁盛。
+
+#### 根据提示，在正确的位置摆放雕塑
+
+**查看提示:** 使那飞鸟悠然漫步其野，而草木在台座上繁盛。
+
+#### 查看尼可留下的卷轴
+
+**查看提示:** 若要止息纷争，便叫它一个登至高处，另一个在低地安歇。
+
+**查看提示:** 野间的花与大地的果将为低谷之生灵带来抚慰。
+
+#### 根据提示，在正确的位置摆放雕塑
+
+**查看提示:** 若要止息纷争，便叫它一个登至高处，另一个在低地安歇。
+
+**查看提示:** 野间的花与大地的果将为低谷之生灵带来抚慰。
+
+#### 查看尼可留下的卷轴
+
+**查看提示:** 那蔚蓝的当接近天穹。
+
+**查看提示:** 那幽粉的当安于暗隅。
+
+**查看提示:** 那薄黄的当与树根比邻。
+
+**查看提示:** 歌者二人循声望去，殿宇已无人吟唱。
+
+#### 根据提示，在正确的位置摆放雕塑
+
+**查看提示:** 那蔚蓝的当接近天穹。
+
+**查看提示:** 那幽粉的当安于暗隅。
+
+**查看提示:** 那薄黄的当与树根比邻。
+
+**查看提示:** 歌者二人循声望去，殿宇已无人吟唱。
+
+#### 触碰「羽毛」
 
 #### 与尼可对话
 
@@ -1201,15 +1584,19 @@ In this sacred place, let words forge the path ahead.
 
 新的房间已经开启…
 
+#### 前往魔女的小屋
+
+#### 寻找尼可
+
 #### 与尼可对话
 
-**尼可:** 怎么办…这要怎么办…算算时间他们 / 她们就快来了…
+**尼可:** 怎么办…这要怎么办…算算时间他们就快来了… / 怎么办…这要怎么办…算算时间她们就快来了…
 
 **派蒙:** 我们来啦！哎哎尼可，别把我们推出去呀！
 
 **尼可:** 咳咳…不好意思…
 
-是还没准备好吗？
+- **旅行者:** 是还没准备好吗？
 
 **尼可:** 该怎么解释呢…不行，说不清楚，只好从头说明了。
 
@@ -1221,7 +1608,7 @@ In this sacred place, let words forge the path ahead.
 
 **派蒙:** 她心里面想的话好像又漏出来了，而且，她也没办法亲「口」…
 
-嘘。
+- **旅行者:** 嘘。
 
 **尼可:** 我临时把羽毛藏去了书房最高的地方，想着增加难度的话，完成挑战的成就感也会变强…
 
@@ -1233,13 +1620,19 @@ In this sacred place, let words forge the path ahead.
 
 **派蒙:** 好吧，也对…那还真是个死局…
 
-尼可，能再说一句话吗？
+- **旅行者:** 尼可，能再说一句话吗？
 
 **尼可:** 什么话？
 
+##### 对话分支 1
+
 - **旅行者:** 在希穆兰卡，语言就是魔法。
 
+##### 对话分支 2
+
 - **旅行者:** 如果能让你的语句成为阶梯…
+
+##### 共同后续
 
 **尼可:** 啊！我明白了——！让我们试试吧！
 
@@ -1263,11 +1656,15 @@ In this sacred place, let words forge the path ahead.
 
 #### 继续前进
 
+#### 继续前进
+
+#### 继续前进
+
 **派蒙:** 好长一段间隔！
 
 **尼可:** 万象为引，圣名注经。词章交织，诸使齐行。在此圣殿，以言语铸汝前路之阶。
 
-**查看房门:** 叮——
+**语言的阶梯:** 叮——
 
 **尼可:** 看，搞定了。
 
@@ -1277,6 +1674,10 @@ In this sacred place, let words forge the path ahead.
 
 在此圣殿，以言语铸汝前路之阶。
 
+#### 触碰「羽毛」
+
+#### 开启宝箱
+
 #### 与尼可对话
 
 **派蒙:** 拿到啦！太好了！
@@ -1285,13 +1686,19 @@ In this sacred place, let words forge the path ahead.
 
 **尼可:** 嗯？揭短？你不担心我这位强大的魔女动动手指，把宝箱里的东西全变成胡萝卜吗？
 
+##### 对话分支 1
+
 - **旅行者:** 派蒙不懂事…
+
+##### 对话分支 2
 
 - **旅行者:** 别放在心上。
 
+##### 共同后续
+
 **尼可:** 哼哼，当然咯，我怎么会是把日常琐事事无巨细记在脑袋里的沉默天使呢？
 
-**尼可:** ——于是到了那天，旅行者和派蒙踏上七重阶梯，等待在他们 / 她们面前的却是一个熟悉的背影。
+**尼可:** ——于是到了那天，旅行者和派蒙踏上七重阶梯，等待在他们面前的却是一个熟悉的背影。 / ——于是到了那天，旅行者和派蒙踏上七重阶梯，等待在她们面前的却是一个熟悉的背影。
 
 **尼可:** 光焰汇成了她后背的羽翼，她的身姿依旧如初见时高贵和美丽，但那双眼睛却流露出残酷的光芒。
 

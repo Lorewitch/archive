@@ -518,3 +518,931 @@ When the meeting ended and Tighnari stood to leave, he heard a crisp, clear "cli
 至于后者的原因…虽然不太想承认，但大概就是当时摸着自己头的爸爸笑着说的那样——
 
 「这孩子的毛发绿得发黑，一定很难承受沙漠的热量吧！」
+
+# voice_source_ids: 69000,69001,69002,69003,69004,69005,69006,69007,69008,69009,69010,69011,69012,69013,69014,69015,69016,69017,69018,69019,69020,69021,69022,69023,69024,69025,69026,69027,69028,69029,69030,69031,69032,69033,69034,69035,69036,69037,69038,69039,69040,69041,69042,69043,69044,69045,69046,69047,69048,69049,69050,69051,69052,69053,69054,69055,69056,69057,69058,69059,69060,69061,69062,69063,69064,69065,69066,69067,69068,69069,69070,69071,69072,69073,69074,69075
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет! Меня зовут Тигнари, я страж леса Авидья, отвечаю за сохранение естественной среды тропического леса и безопасность людей в лесу. Если ты здесь впервые, советую прежде всего внимательно прочесть «Руководство по выживанию в лесу Авидья» и обратить особое внимание на главу «Как отличить съедобные грибы от ядовитых».
+
+### Поболтаем: Закладки из листьев
+
+Если взять зелёный лист и просто придавить его сухими страницами, получится красивая и удобная закладка.
+
+### Поболтаем: Ошибки
+
+Не нужно бояться ошибок, без них ничему не научишься.
+
+### Поболтаем: Ценность знаний
+
+Ценность знаний невозможно измерить морой.
+
+### Когда идёт дождь...
+
+Я к такой погоде привык, а тебе лучше спрятаться под зонт.
+
+### После дождя...
+
+Я натираю хвост специальным эфирным маслом с защитой от влаги. Отряхнул немного, и он снова сухой!
+
+### Когда гремит гром...
+
+Ничего себе, какой гром! Ох... Даже голова разболелась.
+
+### Когда идёт снег...
+
+Это бывает так редко! Ой, тебе холодно? Если хочешь, можешь погреть руки у меня в хвосте.
+
+### Когда дует сильный ветер...
+
+Мои уши!.. Того и гляди вывернутся наизнанку!
+
+### В пустыне...
+
+Ну и жара... Под таким солнцем растают даже туманные цветки... Хотя... Ничего им не будет, аха-ха-ха... Ох...
+
+### Доброе утро...
+
+Слышишь? Это капля росы сорвалась с листка.
+
+### Добрый день...
+
+После обеда я люблю забраться на дерево и наблюдать, как солнце играет на зелёных листьях. Иногда так засмотришься, что даже уснёшь. Хе-хе.
+
+### Добрый вечер...
+
+Добрый вечер. Я иду понаблюдать за лесом при свете луны. Пойдём вместе?
+
+### Спокойной ночи...
+
+Ложись спать, а я пока подежурю. Заодно заполню журнал патрулирования.
+
+### О Тигнари: Профессия
+
+Я учился в даршане Амурта, специализировался на ботанике. Наставник хотел, чтобы после выпуска я остался в Академии преподавать, но, если честно, мне требуется чуть более свободная среда для исследований. И ещё я не разделяю некоторые принципы, которых придерживаются учёные Академии. Хорошо, что наставник не стал меня уговаривать... Хотя я бы всё равно его не послушал.
+
+### О Тигнари: Род
+
+Многие считают мой народ замкнутым и нелюдимым, и это представление появилось не на пустом месте. Нас на самом деле очень мало, и каждый второй - учёный, мы постоянно заняты своими исследованиями. Бывает, что за целый год даже хвостами друг другу не помашем. Например, папа у меня - энтомолог, последнее время он живёт в пустыне, изучает эволюционные процессы жуков. Ну не буду же я путаться у него под ногами. Стыдно признаться, но я плохо переношу палящее солнце. У меня от него все мысли плавятся.
+
+### О нас: Узнать друг друга
+
+Мне кажется, лучший способ узнать друг друга - провести вместе достаточно времени, а всё остальное - ерунда. Поэтому не пытайся сразу подать себя в выгодном свете, время всё расставит по своим местам.
+
+### О нас: Друзья
+
+Ты спрашиваешь, можем ли мы считаться друзьями? А что, тут нужно какое-то официальное подтверждение? Тогда давай скорее сюда своё «Удостоверение друга», я на нём распишусь.
+
+### Глаз Бога...
+
+Помню, в детстве я молился: если однажды мне посчастливится обрести Глаз Бога, пусть это будет Дендро. Тогда я ещё не интересовался никакими исследованиями, мне просто хотелось смастерить себе лестницу из лозы и забираться по ней на фруктовые деревья.
+
+### Давай поделимся: Аранары
+
+Я наслышан об этих существах, но сам никогда их не видел. Иногда из глубины леса доносятся какие-то шорохи, но когда я подхожу ближе, всё стихает. И к лучшему: значит, аранары умеют себя защитить. Не то что некоторые искатели приключений: встретят в лесу леопарда Авидьи и лезут к нему пообщаться.
+
+### Давай поделимся: Карката
+
+Не переживай о Каркате. Я поговорил с одним знакомым матрой. Сказал, что Карката - мой ассистент, теперь без моего разрешения его никто пальцем не тронет. Хм, вижу, тебя очень беспокоит его судьба. Может, возьмёшь пару курсов в даршане Спантамад? Тогда, если меня однажды не станет, ты сможешь о нём позаботиться.
+
+### Интересные вещи...
+
+Знаешь, растения отлично умеют маскироваться. Одни мимикрируют под насекомых и птиц, чтобы отпугивать естественных врагов. Другие умеют приманивать опылителей. Третьи ведут себя как настоящие хищники: завлекают добычу запахом или сладкой пыльцой... Гм, да ведь так ведут себя не только растения.
+
+### О Коллеи...
+
+Когда она сюда попала, то не умела толком ни читать, ни писать. Но это не беда, она очень старается и хорошо учится, у неё быстрый прогресс. Правда, она задалась целью стать хорошим врачом, а до этого ей ещё далеко. Иногда она бывает очень строга к себе... Гм, помоги ей как-нибудь при случае? Прошу тебя как её наставник. Спасибо.
+
+### О Сайно: Генерал махаматра
+
+Хочешь увидеть Сайно? Скажу тебе так: не завидую тем, кого он преследует по служебной надобности. Махаматра - человек большой, просто так с ним не повидаешься. Но иногда он появляется в окрестностях Гандхарвы, чтобы издалека посмотреть на Коллеи. Он старается, чтобы его никто не видел, но я всё равно слышу его шаги.
+
+### Об аль-Хайтаме...
+
+Будь с ним осторожен. Я не в том смысле, что он какой-то злодей, просто им всегда и во всём руководит рассудок, и обычному человеку порой непросто это принять. Если не веришь, спроси у его соседа - иногда аль-Хайтам так выводит его из себя, что он раздувается от злости, словно настоящий Анемо слайм. / Будь с ним осторожна. Я не в том смысле, что он какой-то злодей, просто им всегда и во всём руководит рассудок, и обычному человеку порой непросто это принять. Если не веришь, спроси у его соседа - иногда аль-Хайтам так выводит его из себя, что он раздувается от злости, словно настоящий Анемо слайм.
+
+### О Кавехе...
+
+Кавех - известный архитектор Сумеру, его главное творение - великолепный Алькасар-сарай. Выполняя проект, Кавех даже обращался ко мне за консультацией, просил порекомендовать подходящие декоративные растения. Но когда дворец был уже построен, Кавех почему-то оказался весь в долгах. Теперь аль-Хайтам приютил его у себя дома и помог с деньгами. Не знаю, к добру это или к худу...
+
+### О Дори...
+
+Знаменитая госпожа Сангема-бай. В одном из исследований мне понадобился очень редкий материал, который можно было получить только через секретные каналы Дори, так мы и познакомились. Гм... Даже не спрашивай, что это был за материал и что за исследование.
+
+### О Лайле...
+
+Я слышал о ней. Знаменитая «Чудаковатая полуночница». Слухи о её лунатизме довольно абсурдные: нечеловеческая сила, ночной забег по деревне Аару, преодоление Стены Самиэль голыми руками... Некоторые даже говорят, что она во сне может написать работу в десять тысяч слов! Ну и небылицы.
+
+### О Лизе...
+
+Сайно много о ней рассказывал. По его словам, Лиза - незаурядная личность. Образованная, талантливая - жаль, что она так скоро вернулась в Мондштадт. Может, «знания» повернулись к ней своей пугающей стороной?..
+
+### О малой властительнице Кусанали...
+
+Однажды в Академии я услышал такую фразу: «История растений есть история царства Дендро». Возможно, сказавший эту фразу не имел в виду ничего особенного, но мне всегда казалось, что в ней сокрыт глубокий смысл. Если однажды я повстречаю малую властительницу Кусанали, она мне всё объяснит?
+
+### Узнать больше о Тигнари I
+
+Ты уже освоился в тропическом лесу? Ни в коем случае не теряй бдительности, соблюдай правила безопасности и не стесняйся обращаться за помощью к Лесному дозору. / Ты уже освоилась в тропическом лесу? Ни в коем случае не теряй бдительности, соблюдай правила безопасности и не стесняйся обращаться за помощью к Лесному дозору.
+
+### Узнать больше о Тигнари II
+
+Эх, иногда я даже завидую этим чудакам, которые ничегошеньки не знают, но всюду тянут свои руки и всё тащат в рот. Наверное, их мир полон разных «чудес», да?
+
+### Узнать больше о Тигнари III
+
+Как командир Лесного дозора время от времени я читаю своим подчинённым лекции. Если вдуматься, эти лекции нарушают запрет Академии на «распространение знаний», но что они мне сделают? Давайте, посадите меня под замок, посмотрим, справится ли Бимарстан с притоком новых больных, страдающих от странных недугов.
+
+### Узнать больше о Тигнари IV
+
+Скажу тебе по секрету: я обожаю Большой базар. Бойкие торговцы, весёлая толпа, сцена с артистами и музыкантами. Жаль только, что мои уши плохо выносят весь этот шум. А? Ты будешь ходить за мной и прикрывать мне уши? Ха-ха, так нам будет не слишком удобно идти. Но всё равно, спасибо за предложение!
+
+### Узнать больше о Тигнари V
+
+Когда я был маленьким, мне постоянно снились прекрасные и удивительные сны, но однажды я вырос, и сны навсегда исчезли, даже в памяти их не отыскать. Ты ещё видишь сны? Расскажи, что тебе снится?
+
+### Хобби Тигнари...
+
+В лесу Авидья часто можно увидеть опавшие листья или цветы, многие ещё совсем целые. Мне жаль оставлять их лежать на земле, и я собираю гербарий. Во-первых, гербарий - отличный учебный инструмент для подготовки дозорных. А ещё это просто красиво.
+
+### Беспокойство Тигнари...
+
+Беспокойство? Гм, дай-ка подумать... Загрязнение в лесу Авидья, искатели приключений, которые постоянно попадают в разные истории, собаки-спасатели, которые норовят вцепиться мне в хвост... Но это всё мелочи. А настоящих поводов для беспокойства у меня нет. Если так посмотреть, жизнь у лесных стражей довольно простая.
+
+### Любимая еда...
+
+Странно, хотя в моих жилах течёт кровь плотоядного существа, но больше всего на свете я люблю грибы. Существует огромное множество съедобных грибов, их можно есть свежими и сухими. Ни на что не променяю этот аромат... А вкусом грибы затмевают даже тушёное мясо.
+
+### Нелюбимая еда...
+
+Чувствительное обоняние не даёт мне наслаждаться слишком пряными блюдами. Эх, в Сумеру я многое теряю.
+
+### Подарок I
+
+Превосходные ингредиенты, сдобренные изысканными приправами. Словом, так вкусно, что пальчики оближешь!
+
+### Подарок II
+
+Интересное сочетание. Можешь написать мне рецепт? Включу его в меню угощений на следующем застолье нашего отряда.
+
+### Подарок III
+
+...Может, научить тебя каким-нибудь новым рецептам?
+
+### День рождения...
+
+С днём рождения! Я решил подарить тебе бонсай, который как раз расцвёл, к нему прилагается руководство по уходу. Если с ним вдруг что-то случится, не стесняйся просить помощи, на этот бонсай распространяется «Пожизненное обслуживание от Лесного дозора».
+Знаешь, к твоему дню рождения распустилось столько цветов, я долго не мог выбрать. В следующем году подарю какой-нибудь другой!
+
+### Чувство возвышения: Начало
+
+Семена прорастают и пускают корни.
+
+### Чувство возвышения: Нарастание
+
+Ростки тянутся к солнцу, появляются первые листья.
+
+### Чувство возвышения: Кульминация
+
+Почки набухают, и распускаются цветы.
+
+### Чувство возвышения: Окончание
+
+Плоды с каждым днём тяжелеют.
+
+### Элементальный навык I
+
+Деревья заслоняют лес.
+
+### Элементальный навык II
+
+Фокус!
+
+### Элементальный навык III
+
+Что, ничего не видно?
+
+### Взрыв стихии I
+
+Вырвать корни!
+
+### Взрыв стихии II
+
+Обрубить все ветки!
+
+### Взрыв стихии III
+
+Я слышу всё!
+
+### Начало спринта I
+
+Не отставай.
+
+### Открытие сундука I
+
+Откуда здесь сундук?
+
+### Открытие сундука II
+
+Наверное, можно не обращаться в бюро находок.
+
+### Открытие сундука III
+
+Приятный запах.
+
+### Низкий уровень HP I
+
+Ай, вот же...
+
+### Низкий уровень HP II
+
+Даже хвост распушился...
+
+### Низкий уровень HP III
+
+Пора выполоть эти сорняки.
+
+### Низкий уровень HP компаньона I
+
+Здесь нужен врач.
+
+### Низкий уровень HP компаньона II
+
+На кону твоя жизнь.
+
+### Без сознания I
+
+Опавшие листья... Вернутся к корням...
+
+### Без сознания II
+
+Мои исследования...
+
+### Без сознания III
+
+Я не увидел, как распускаются цветы...
+
+### Получен лёгкий удар I
+
+Ох.
+
+### Получен лёгкий удар II
+
+И всё?
+
+### Получен тяжёлый удар I
+
+Да что ж такое!
+
+### Получен тяжёлый удар II
+
+Я тебя закопаю!
+
+### Присоединяется к группе I
+
+Я покажу дорогу.
+
+### Присоединяется к группе II
+
+Эй! Кто опять наелся ядовитых грибов?
+
+### Присоединяется к группе III
+
+Идём собирать новые образцы!
+
+### О Сайно: Хороший вопрос
+
+После спасения моего наставника я отправил ему письмо, чтобы справиться о его здоровье. К моему удивлению, он ответил, что кто-то уже лично передал ему мои пожелания. А закончил он письмо вопросом: «Почему генерал махаматра сказал, что собирается использовать всю мощь Сумеру, чтобы восстановить репутацию мудрецов?»
+...Хороший вопрос. Действительно, почему?
+
+### О Дэхье...
+
+Всё так быстро случилось, что у меня совсем не было возможности её как следует поблагодарить. Это большая удача - иметь рядом такого способного и надёжного человека. Уверен, что многие пытались переманить её на свою сторону, но не похоже, чтобы Дэхью интересовала служба в Академии или Лесном дозоре. Так что я не буду напрашиваться на неизбежный отказ.
+
+### О Фарузан...
+
+Профессор Фарузан обладает обширными познаниями. Я часто приглашаю её осмотреть разные механизмы в тропическом лесу... Надеюсь, во время следующего своего визита она не станет тайком подсовывать Коллеи разные угощения. Пища подобна лекарству, в питании главное - умеренность, а переедание ещё никому не шло на пользу.
+
+### О Сетосе...
+
+Сетос? Довольно интересный человек. Он словно дальний родственник Сайно. С ним очень легко найти общий язык. В прошлый раз, когда он приезжал к нам в Гандхарву, то настоял на том, чтобы продемонстрировать свои навыки установки палатки, и устроил с Сайно соревнование по рыбной ловле. Коллеи очень расстроилась, потому что думала, что ей там больше не место...
+Все говорят, что Сетос умеет развлечь себя - он и правда выглядит довольно жизнерадостным. Но к своей работе он относится очень серьёзно. Хм, хотя я не знаю, насколько верно в данном случае употреблять слово «работа». Мне кажется, он воспринимает свою роль в Храме Молчания скорее как некий долг. В общем, если тебе когда-нибудь понадобится помощь в пустыне, я уверен, он будет рад помочь.
+
+## REPLICAS_EN
+
+### Hello
+
+Hi there. I'm Tighnari, Forest Watcher of the Avidya Forest. My duty is to preserve both the rainforest's ecosystem and the safety of its visitors. If this is your first time here, I suggest you first peruse the Avidya Forest Survival Guide, paying particular attention to the chapter "Distinguishing Between Edible and Poisonous Mushrooms."
+
+### Chat: Leaf Bookmark
+
+If you press a leaf between dry sheets of paper, you can make an attractive and handy bookmark.
+
+### Chat: Mistakes
+
+Don't be afraid to make mistakes. It's all part of the learning process.
+
+### Chat: The Value of Knowledge
+
+The value of knowledge cannot simply be quantified in monetary terms.
+
+### When It Rains
+
+I'm used to the rain, but you should probably use an umbrella.
+
+### After the Rain
+
+I applied a plant-based waterproofing oil to my tail. One swish and it's dry.
+
+### When Thunder Strikes
+
+Ah, the thunder's so loud! Ugh... My head hurts...
+
+### When It Snows
+
+I don't see weather like this very often! Oh, are you cold? If you want, you can tuck your hands into my tail.
+
+### When the Wind Is Blowing
+
+My ears... My ears... They're going to be blown inside out!
+
+### In the Desert
+
+Gah, it's so hot... Even a Mist Flower would melt in this heat... Ah, now that I think about it, it wouldn't... but you get what I mean, hehe... Ugh...
+
+### Good Morning
+
+Shh, listen! That's the sound of dew dripping upon the leaves.
+
+### Good Afternoon
+
+During lunch breaks, I like to sit in a tree and admire the sunlight streaming through the canopy. If I'm not careful, I'll fall asleep... Hehe.
+
+### Good Evening
+
+Good evening. I'm preparing to go observe bioluminescent flora. Want to come?
+
+### Good Night
+
+Get some sleep. I'll be on guard duty — it'll be a good time to write today's patrol log entry.
+
+### About Tighnari: Profession
+
+I studied botany in the Amurta Darshan. My academic adviser wanted me to join the faculty after graduation, but to be quite honest, I prefer a somewhat freer research environment. From my observations, the way that the Akademiya handles certain matters leaves much to be desired. Fortunately, my adviser didn't push the issue — heh, not like that would've worked.
+
+### About Tighnari: Kin
+
+Many people think that my kind are loners, and I don't blame them for thinking that. The few of us around are mostly scholars, and we're always chasing our research — so you'd be lucky to spy a single tuft of tail fur in a whole year. Like my father, for example. He's an entomologist, and lately, he's been studying the evolution of beetles in the desert... I have no intention of joining him. I'm ashamed to admit that I don't tolerate the sun very well. Prolonged exposure turns my brain and body into mush.
+
+### About Us: Getting Along
+
+I believe that the best way to achieve mutual understanding with someone is to spend time with them. Other methods are less realistic. That's why there is no need to rush introductions. Time will settle everything.
+
+### About Us: Friends
+
+"Are we officially friends?" What, so this sort of thing needs official documentation now? Okay then... Well, hand over your "friendship certificate." I assume it'll need my signature.
+
+### About the Vision
+
+I remember praying as a kid that if I were lucky enough to receive a Vision, it had to be a Dendro one. It wasn't because of research. I just wanted to make a vine ladder to reach high-hanging fruit.
+
+### Something to Share: Aranara
+
+I've heard about the Aranara for some time now, but I haven't personally seen any. Sometimes, I hear rustling sounds from the forest's depths, but they disappear when I go closer. That's a good thing, though. At least they know how to protect themselves, unlike those stupid adventurers whose first thought when they run into an Avidya Leopard is "Ooh, maybe I'll form an inter-species friendship today."
+
+### Something to Share: Karkata
+
+Don't worry about Karkata. I told the matra I know that it's my research assistant. If anyone wants to do anything to it, they'll need to go through me. ...Since you seem to care a lot about Karkata, why don't you enroll in some courses at the Spantamad Darshan? That way, you can care for it even if I'm gone.
+
+### Interesting Things
+
+Did you know that plants can camouflage themselves? Some mimic insects or birds to intimidate their natural predators, others produce bait to attract pollinators, and still others are obligate carnivores that utilize enticing fragrances or honey to lure in their prey... Hmm, I feel like I'm not just talking about plants anymore.
+
+### About Collei
+
+When that child was first brought here, she was effectively illiterate. It wasn't a huge issue, though. She's a hard worker and a diligent student, so she's made good progress. Still, her goal is to learn advanced medical techniques, so she still has a long way to go. She sometimes puts too much pressure on herself... Help her out when you can, would you? Consider it a favor for me as her mentor. Thanks a lot.
+
+### About Cyno: General Mahamatra
+
+You want to see Cyno...? Well, firstly, a word of caution: if he ever comes chasing you down for work-related reasons, prepare for the nightmare of a lifetime. Other than that, General Mahamatra is a high-ranking position, so it usually isn't easy to find him. But he does occasionally go to Gandharva Ville to see Collei. As much as he might want to stay unnoticed, he can't fool my ears.
+
+### About Alhaitham
+
+Be careful of Alhaitham. I'm not saying he's a bad guy, but he purely operates by rationality, so people often find his actions unacceptable. If you don't believe me, just ask his roommate — thanks to Alhaitham, he has more pent-up frustration than an angry Anemo Slime.
+
+### About Kaveh
+
+Kaveh is a famous architect in Sumeru. The Palace of Alcazarzaray is his magnum opus. During the initial planning, he even asked me to recommend suitable ornamental flora. I don't know why or how, but he ended up heavily in debt after the palace was completed. Alhaitham is helping out by letting him stay at his place, but... I don't know whether that's a blessing or a curse...
+
+### About Dori
+
+The renowned Lord Sangemah Bay is none other than Dori. I became acquainted with her through a previous research project. It had required very rare materials, and the only way I could get them was through her and her mysterious supply network. Uh... never you mind what I was buying and what I was researching, thank you very much!
+
+### About Layla
+
+I've heard of her, the famous "Sleepwalking Eccentric." The rumors about her sleepwalking are really quite absurd: feats of superhuman strength, sprinting through Aaru Village at night, scaling the Wall of Samiel with her bare hands... Some even say that she can write a 100,000-word thesis while asleep! What a load of nonsense.
+
+### About Lisa
+
+Cyno has mentioned her before — an extraordinary genius with a veritable wealth of knowledge and talent. A pity that she returned to Mondstadt so long ago. Perhaps, in the course of her study, she witnessed the horrifying side of knowledge...
+
+### About Lesser Lord Kusanali
+
+As a student, I once heard this saying: "Plants and the Land of Dendro share the same history." It could just be one of those things that people say, but I've always felt that there's a deeper meaning to those words... If I meet Lesser Lord Kusanali one day, I wonder if she would explain them to me?
+
+### More About Tighnari: I
+
+Are you acclimating to the rainforest? I suggest that you keep your eyes and ears open. Take care of yourself, and if anything happens, just flag down a Forest Ranger.
+
+### More About Tighnari: II
+
+*sigh* Sometimes I really do envy those simpletons who go around touching and eating anything and everything. In their minds, it must feel like miracles happen every day.
+
+### More About Tighnari: III
+
+To better serve the Avidya Forest, I occasionally offer training courses to the Forest Rangers. If you want to split hairs, then yes, these courses would be considered as "dissemination of information" by the Akademiya. But what are they gonna do — lock me up? I dare them. We'll see how many patients suffering from weird and wonderful ailments start flooding into the Bimarstan every day!
+
+### More About Tighnari: IV
+
+I'll let you in on a secret: I actually really like the atmosphere in the Grand Bazaar. Business is booming, everyone's so lively, and the theater is full of song and dance. Unfortunately, my ears don't tolerate loud sounds very well... Huh? You'll cover my ears for me? ...It'd be way too hard to walk like that! Thanks for the thought, though.
+
+### More About Tighnari: V
+
+I had many beautiful and fantastical dreams as a child, but they vanished from my memory one day after I grew up. Do you still have dreams? Tell me about them.
+
+### Tighnari's Hobbies
+
+Leaves and flowers often drop onto the ground of the Avidya Forest, sometimes perfectly intact. Leaving them on the ground would be such a pity... I can't help but pick them up and keep them as biological specimens. They can be used as educational materials for Forest Rangers or as decorative pieces. Very versatile.
+
+### Tighnari's Troubles
+
+Troubles? Let me think... Pollution in the Avidya Forest, adventurers who constantly stir up trouble, and rescue dogs that always want to mess with my tail... But these problems all have solutions. If you're talking about bigger concerns, then I really don't have any. In this regard, the life of a Forest Watcher is pretty simple.
+
+### Favorite Food
+
+This may sound strange, but although the blood of a carnivore runs through my veins, mushrooms are the one food that I can't give up. There are many species of edible mushrooms. Whether fresh or dried, they all give off a unique scent. Even when stewed with meat, it's the mushrooms' aroma that comes out on top.
+
+### Least Favorite Food
+
+My olfactory system is overly sensitive, so I lack the good fortune to enjoy heavily spiced foods... Quite the shame in Sumeru.
+
+### Receiving a Gift: I
+
+Excellent ingredients and impeccable seasoning. In short — it's delicious.
+
+### Receiving a Gift: II
+
+Nice flavor pairing. Could you give me a copy of the recipe? I want to put this on the menu for the Forest Rangers' next meal.
+
+### Receiving a Gift: III
+
+...Do I need to teach you some new recipes?
+
+### Birthday
+
+Happy birthday! I picked out a potted plant in full bloom for you, along with a gardening guide. If anything happens to it, don't hesitate to find me at any time. This plant comes with a Forest Watcher lifetime guarantee.
+I'll have you know a lot of flowers are in season on your birthday. It took me forever to choose one. I'll get you a different species next year!
+
+### Feelings About Ascension: Intro
+
+Germinating seeds break through the soil and take root.
+
+### Feelings About Ascension: Building Up
+
+Seedlings grow, reaching out with their branches and leaves.
+
+### Feelings About Ascension: Climax
+
+Branches dotted with flower buds herald the advent of spring.
+
+### Feelings About Ascension: Conclusion
+
+A rich harvest that will lead to even richer ones.
+
+### Elemental Skill: I
+
+One with the forest.
+
+### Elemental Skill: II
+
+Enshroud!
+
+### Elemental Skill: III
+
+Can't see?
+
+### Elemental Burst: I
+
+I'll uproot you!
+
+### Elemental Burst: II
+
+Let's nip that in the bud!
+
+### Elemental Burst: III
+
+I hear everything!
+
+### Sprint Start: I
+
+Keep up.
+
+### Opening Treasure Chest: I
+
+Why is there a chest here?
+
+### Opening Treasure Chest: II
+
+Erm... I think we can forgo the lost-and-found report.
+
+### Opening Treasure Chest: III
+
+*sniff* Smells like something good is inside.
+
+### Low HP: I
+
+Ugh, what a drag.
+
+### Low HP: II
+
+My tail's all messed up...
+
+### Low HP: III
+
+Time to pull some weeds.
+
+### Ally at Low HP: I
+
+Go get yourself patched up.
+
+### Ally at Low HP: II
+
+Safety first.
+
+### Fallen: I
+
+Dust... to dust...
+
+### Fallen: II
+
+I've not finished... my research...
+
+### Fallen: III
+
+Flowers haven't bloomed yet...
+
+### Light Hit Taken: I
+
+Excuse me?
+
+### Light Hit Taken: II
+
+Who do you think you are?
+
+### Heavy Hit Taken: I
+
+One thing after another!
+
+### Heavy Hit Taken: II
+
+I'll bury you.
+
+### Joining Party: I
+
+I'll lead the way.
+
+### Joining Party: II
+
+*sigh*... Who ate a poisonous mushroom this time?
+
+### Joining Party: III
+
+Let's go gather some samples!
+
+### About Cyno: Good Question
+
+After my adviser's rescue, I wrote him a letter to send my regards. To my surprise, he wrote back saying that someone had already given him my regards in person. He ended the letter with a question "The General Mahamatra said he hopes that the sages will enjoy 'a more tasteful reputation' thanks to the efforts of our Darshan. Whatever do you suppose he meant by 'a more tasteful reputation'?" ...It's a good question. I'd like to know, too.
+
+### About Dehya
+
+Everything happened so fast, and I didn't get the chance to properly thank her. To have a capable and reliable person like her on your side is extremely fortunate. I'm sure she must have many groups trying to persuade her to join their ranks. But she definitely doesn't strike me as the kind of person who would be interested in joining the Akademiya or the Forest Rangers, so I'll spare myself the inevitable rejection.
+
+### About Faruzan
+
+Madam Faruzan possesses an extensive wealth of knowledge. I often invite her to inspect the mechanisms in the rainforest. The next time she's in Gandharva Ville... *sigh* I hope she doesn't sneak Collei more food. Nutrition is like medicine: moderation is key.
+
+### About Sethos
+
+Sethos? Pretty interesting guy. He's like a distant cousin of Cyno's. Really easy to get along with. Last time he visited us in Gandharva Ville, he insisted on showing off his tent-pitching skills and had a fishing competition with Cyno. Collei got really upset, because she thought there was nothing for her to do anymore...
+People say Sethos is good at keeping himself amused — he certainly seems pretty cheerful. But he takes his work very seriously. Hmm, although I don't know how accurate "work" is — I think he sees his role at the Temple of Silence as more of a kind of duty. Anyway, if you ever find yourself needing assistance in the desert, I'm sure he'd be a good person to go to.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，我叫提纳里，是道成林的巡林官，负责维护雨林生态与行人安全。若你初入此地，我的建议是先通读《道成林生存指南》，并重点阅读「如何分辨可食用蕈与有毒蕈类」一章。
+
+### 闲聊·叶片书签
+
+将树叶夹在干燥的纸页之间简单压制，就能做成好看又好用的书签了。
+
+### 闲聊·犯错
+
+不要害怕犯错，犯错也是学习过程中的一环。
+
+### 闲聊·知识的价值
+
+知识的价值，是不能用金钱简单衡量的。
+
+### 下雨的时候…
+
+这种天气我已经习惯了，但你最好还是打个伞哦。
+
+### 雨过天晴…
+
+我的尾巴涂过用来防水的植物精油，甩甩就干啦。
+
+### 打雷的时候…
+
+哎呦，好响的雷！呜…震得脑瓜疼。
+
+### 下雪的时候…
+
+这种天气可真少见！哎，你冷吗？冷的话可以把手埋进我的尾巴毛里。
+
+### 刮大风了…
+
+耳朵！…耳朵要吹翻过去了。
+
+### 在沙漠的时候…
+
+…好热啊…这么毒的太阳下，哪怕是冰雾花也会融化的吧…啊，仔细想想，其实不会啦，啊哈哈…唉…
+
+### 早上好…
+
+听！是晨露滴落叶梢的声音。
+
+### 中午好…
+
+午休的时候我喜欢坐在树上，盯着从树枝缝隙间漏下来的阳光发呆，一不留神就会睡着…哈哈。
+
+### 晚上好…
+
+晚上好。我正准备去观察夜光植被，要一起来吗？
+
+### 晚安…
+
+你睡吧，我来守夜，顺便记录下今天的巡林日志。
+
+### 关于提纳里自己·专业
+
+我以前上学时从属生论派，主攻植物学。本来导师想让我毕业后留校任教，但说实话，我喜欢更自由一些的研究环境，而且就我的观察，教令院的某些行事作风令人不敢恭维。还好当时导师没有强求——…他强求也没用。
+
+### 关于提纳里自己·族人
+
+确实有不少人觉得我这一族性格孤僻，也不怪他们这样想。我的族人确实数量很少，还大多是学者，总是为了研究到处跑，一年也见不到一根尾巴毛。像我爸就是昆虫学家，最近好像在沙漠里研究甲虫的古今演化过程，啊我就不跟着去凑热闹了。说来惭愧，我不擅长应付烈日。晒久了脑袋里就一团浆糊，晃晃荡荡的。
+
+### 关于我们·相处
+
+我认为人与人之间相互了解的最好办法就是多花时间相处，其他的都不实际。所以不必急着自我介绍，时间会沉淀一切。
+
+### 关于我们·朋友
+
+你问我们算是朋友吗？怎么，原来这种事情是需要官方认证的吗？那赶紧把你的「朋友证书」拿出来，我必须在上面签字。
+
+### 关于「神之眼」…
+
+我记得自己小时候曾经祈祷过，如果能有幸拥有「神之眼」，可一定得是草元素呀。不过那时的原因不是为了搞研究，而是想要制造藤蔓梯子，爬上去摘高处的果子吃。
+
+### 有什么想要分享·兰那罗
+
+我对这种生物早有耳闻，却一直没有亲眼见过。有时树林深处会有一些窸窸窣窣的响动，等我靠近时却又消失不见。这样也好，至少它们懂得如何保护自己，比那些碰见丛林豹还要上去亲切慰问的笨蛋冒险家们强多了。
+
+### 有什么想要分享·卡卡塔
+
+卡卡塔的事情你不必担心。我已经跟认识的风纪官打过招呼，说卡卡塔是我研究工作中的助手，要动它的话得先找我过问——嗯怎么，看你还挺惦记它的，要不要去素论派选些课程学学？那样就算有一天我不在了，你也能继续照管它。
+
+### 感兴趣的见闻…
+
+你知道吗？植物会伪装术。有些会拟态成昆虫或者鸟类，恐吓天敌；有些会制造诱饵，吸引其他生物为自己传播花粉；还有一些则是纯粹的捕食者，用香味或蜜糖吸引猎物上门…嗯，说到这里，感觉已经不只是植物会这样了。
+
+### 关于柯莱…
+
+这孩子刚被带过来的时候，可以说是大字不识一个。不过问题不大。她学习勤奋，态度也认真，进步很快。只是，距离她习得精湛医术的目标还有很远的路要走。她有时会给自己很大的压力…噢，你有机会的话也多帮帮她吧？就当是我这个做师父的拜托你啦，多谢。
+
+### 关于赛诺·大风纪官
+
+你想见赛诺？那我丑话说在前头，被他因为公事追在屁股后面可是要倒大霉的。大风纪官毕竟位高权重，平日里还真不好找。不过他偶尔会到化城郭附近偷偷看望柯莱，就算他不想让人看见，我也能听出是他。
+
+### 关于艾尔海森…
+
+小心艾尔海森。啊，倒不是说他是什么坏蛋啦，但他做事始终被理性主导，总会有让常人觉得无法接受的地方。不信的话可以去看看他的室友，经常被他气得比风史莱姆还鼓。
+
+### 关于卡维…
+
+卡维是须弥著名的建筑师，代表作就是那座醒目的卡萨扎莱宫。当初在设计建造的时候，他还来找我咨询过有没有合适的观赏植物推荐。但不知是怎么搞的，他在宫殿完工后却给自己欠了一屁股的债，目前正被学弟艾尔海森接济，借住在他家。这个…该说是幸，还是不幸呢…
+
+### 关于多莉…
+
+大名鼎鼎的桑歌玛哈巴依老爷——就是多莉啦。我能认识她，还是因为有次研究需要用到很稀有的材料，只有进货渠道成谜的多莉才能搞得到。啊那个…别问我找她买了什么，也别问我当时在研究什么，嗯。
+
+### 关于莱依拉…
+
+我听说过她，远近闻名的「梦游怪人」。关于她「梦游」的传闻真是千奇百怪，什么怪力千斤顶啦，夜闯阿如村啦，徒手翻越防沙壁啦…甚至还有说她能边睡边写完十万字论文的！这都什么跟什么，哪也不挨哪。
+
+### 关于丽莎…
+
+我听赛诺说过他的这位师姐，是难得一见的天才，博学多闻，才华横溢，只可惜早早就回到了蒙德。难道她在进修的过程中，见到了「知识」令人畏惧的一面吗…
+
+### 关于小吉祥草王…
+
+我在上学的时候曾听过这样的说法：「植物的历史，便是草之国的历史。」也许说者无心，但我总觉得此话另有深意。如果我有一天能见到小草神大人，她会给我解释吗？
+
+### 想要了解提纳里·其一
+
+雨林生活还过得习惯吗？建议眼观六路，耳听八方，注意安全，有事记得找巡林员。
+
+### 想要了解提纳里·其二
+
+哎，有时还挺羡慕那些什么都搞不清楚，还敢到处乱摸乱吃的家伙——在他们的世界里，一定处处都有「奇迹」发生吧？
+
+### 想要了解提纳里·其三
+
+为了更好地管理道成林，我时不时会给巡林员们开设「培训」课程。要是逐字逐句深究的话，这些课程其实都算是在「传播知识」。不过教令院又能怎样呢？有本事就把我关起来，看看「健康之家」每天要多收多少千奇百怪的病患吧。
+
+### 想要了解提纳里·其四
+
+悄悄跟你说啊，其实我很喜欢城里大巴扎的氛围。买卖兴旺，生活热闹，还有人在剧场里唱歌跳舞。但是很遗憾，嘈杂的声音对我的耳朵太不友好了。嗯？你说可以在背后帮我捂住？哈哈，那也太难走路了，但是心意我领啦。
+
+### 想要了解提纳里·其五
+
+我小时候做过许多美妙又奇幻的梦，但它们在我长大后的某一天，永远地消散在了记忆中。你还可以做梦吗？给我讲讲你的梦吧。
+
+### 提纳里的爱好…
+
+道成林里经常有掉在地上的树叶和花朵，有些在掉落的时候还很完整，就这么扔在地上太可惜了…我总是忍不住把它们捡回来做成标本。既可以变成培训巡林员的教具，还可以当作漂亮的装饰品，一举多得。
+
+### 提纳里的烦恼…
+
+烦恼吗？嗯，我想想…道成林中出现的污染、经常惹麻烦的冒险家、总是想要扑我尾巴的救援犬…但这些问题总有解决的办法。要说大的烦恼，还真没有。这么一看，巡林官的生活还挺简单的呢。
+
+### 喜欢的食物…
+
+说来稀奇，我身体里虽然流淌着食肉动物的血脉，但最无法割舍的食物却是蘑菇。可食用的蘑菇种类繁多，无论是新鲜的还是晾干的，都会散发独特的香味。与肉类一起炖煮时，就连肉香也要为它们让步。
+
+### 讨厌的食物…
+
+因为嗅觉太灵敏，我无福享受添加了太多香料的佳肴。唉，这在须弥可以说是重大遗憾了。
+
+### 收到赠礼·其一
+
+食材优质，调味精妙，简而言之——非常好吃。
+
+### 收到赠礼·其二
+
+不错的搭配。可以请你抄份食谱给我吗？我想把它加入巡林小队下次聚餐的菜单里。
+
+### 收到赠礼·其三
+
+…需要我教你一些新菜吗？
+
+### 生日…
+
+生日快乐！我选了一盆今日花期正盛的盆栽给你，另附养花指南。万一它之后出现任何问题，都请不要客气，随时找我，它有「巡林官终生保育凭证」。
+你知道吗，在你生日时开的花可多了，我挑了好久呢。等到明年，再送你新的品种吧！
+
+### 突破的感受·起
+
+种籽萌发，破土生根。
+
+### 突破的感受·承
+
+幼苗拔高，开枝展叶。
+
+### 突破的感受·转
+
+花蕾满枝，杏雨梨云。
+
+### 突破的感受·合
+
+硕果丰熟，来日更盛。
+
+### 元素战技·其一
+
+一叶障目。
+
+### 元素战技·其二
+
+障眼法！
+
+### 元素战技·其三
+
+看不清了吧？
+
+### 元素爆发·其一
+
+斩草除根！
+
+### 元素爆发·其二
+
+蔓引株连！
+
+### 元素爆发·其三
+
+声音，我听见了。
+
+### 冲刺开始·其一
+
+跟紧了。
+
+### 打开宝箱·其一
+
+这里怎么会有宝箱？
+
+### 打开宝箱·其二
+
+这个，应该不用写失物招领吧。
+
+### 打开宝箱·其三
+
+闻起来有好东西哦。
+
+### 生命值低·其一
+
+唉，真是麻烦。
+
+### 生命值低·其二
+
+尾巴毛都乱了…
+
+### 生命值低·其三
+
+该清杂草了。
+
+### 同伴生命值低·其一
+
+快去疗伤。
+
+### 同伴生命值低·其二
+
+救人要紧。
+
+### 倒下·其一
+
+叶落…归根…
+
+### 倒下·其二
+
+还有未完成的研究…
+
+### 倒下·其三
+
+没能等到花开…
+
+### 普通受击·其一
+
+哎呦。
+
+### 普通受击·其二
+
+行啊？
+
+### 重受击·其一
+
+没完没了！
+
+### 重受击·其二
+
+等着入土吧！
+
+### 加入队伍·其一
+
+我来领路。
+
+### 加入队伍·其二
+
+唉！有谁又吃毒蘑菇了吗？
+
+### 加入队伍·其三
+
+走，去采些样本！
+
+### 关于赛诺·为什么呢
+
+在导师被救出来后，我给他写了一封问候信，但没想到导师说已经有人以我的名义拜访过他了，并在回信的结尾附上了一个问题：「为什么大风纪官说要靠须弥『强威』重振贤者们的名望？」
+…问得好，到底是为什么呢。
+
+### 关于迪希雅…
+
+之前情况危急，都没来得及好好向她道谢。能有这样强大又可靠的同伴是件非常幸运的事情，想要拉拢她的人一定不少。不过迪希雅看上去不像是愿意加入教令院或者巡林队的样子，我就不去自讨没趣了。
+
+### 关于珐露珊…
+
+珐露珊前辈见识广博，我经常邀请她来检查雨林里的机关…只是希望下次她来化城郭的时候，不要再给柯莱偷偷塞吃的了——营养就跟药剂一样得均衡适量，过剩了可没好处。
+
+### 关于赛索斯…
+
+你说赛索斯？他很有意思，有点像赛诺的远房亲戚，而且很好相处。上次他来化城郭作客，抢着要秀一手搭帐篷的技术，还跟赛诺争着捞鱼，柯莱觉得自己的工作被替代了，很郁闷呢。
+大家都说赛索斯很擅长逗自己开心，过得很快活，工作起来又很认真。噢，说工作好像不太贴切，缄默之殿的事对他而言，比起工作更像是义务。如果你在沙漠需要帮助，可以找他。

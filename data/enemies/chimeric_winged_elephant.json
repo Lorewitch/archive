@@ -1,0 +1,82 @@
+{
+  "id": "chimeric_winged_elephant",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/chimeric_winged_elephant.webp",
+  "title": {
+    "ru": "Крылатая химера-слон",
+    "en": "Chimeric Winged Elephant",
+    "zh": "嵌合翼象兽"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Крылатая химера-слон",
+    "Chimeric Winged Elephant",
+    "嵌合翼象兽"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nКоротконогий слон с крыльями мог бы свободно преодолевать любые преграды местности, а заодно доставать плоды с самых высоких деревьев.\nИменно ради этой цели и была создана эта химера. Позднее, во время войны против Полчищ чёрных зверей, крылатые слоны вместе с вилами занимались разведкой, обеспечивая бесперебойную передачу приказов во время наступления Белого царя.",
+    "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nA short-legged elephant with wings could likely migrate without being restricted by terrain, and would also be able to reach fruit growing in higher places.\nFor that purpose alone, its creator brought such a beast into being. Later, during the war against the dark tide, Chimeric Winged Elephants worked alongside the Vila in intelligence and communications, ensuring that the Belyi Tsar's commands could pass smoothly and swiftly as his army advanced.",
+    "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n拥有翅膀的矮足象大概可以不受地理条件的限制进行迁移，并且也能满足摘取更高处果实的需求。\n仅仅是出于这个目的，制造者便制造出了这样的合成魔兽。在后来抵抗漆黑兽潮的战争之中，嵌合翼象兽与风仙共同进行着情报工作，保证了白沙皇进军时军令的畅通无阻。"
+  },
+  "description": {
+    "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nКоротконогий слон с крыльями мог бы свободно преодолевать любые преграды местности, а заодно доставать плоды с самых высоких деревьев.\nИменно ради этой цели и была создана эта химера. Позднее, во время войны против Полчищ чёрных зверей, крылатые слоны вместе с вилами занимались разведкой, обеспечивая бесперебойную передачу приказов во время наступления Белого царя.",
+    "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nA short-legged elephant with wings could likely migrate without being restricted by terrain, and would also be able to reach fruit growing in higher places.\nFor that purpose alone, its creator brought such a beast into being. Later, during the war against the dark tide, Chimeric Winged Elephants worked alongside the Vila in intelligence and communications, ensuring that the Belyi Tsar's commands could pass smoothly and swiftly as his army advanced.",
+    "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n拥有翅膀的矮足象大概可以不受地理条件的限制进行迁移，并且也能满足摘取更高处果实的需求。\n仅仅是出于这个目的，制造者便制造出了这样的合成魔兽。在后来抵抗漆黑兽潮的战争之中，嵌合翼象兽与风仙共同进行着情报工作，保证了白沙皇进军时军令的畅通无阻。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112149",
+      "title": {
+        "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+        "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+        "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112149.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112149",
+          "title": {
+            "ru": "Ядро химеры",
+            "en": "Chimeric Core",
+            "zh": "嵌合种"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112149.webp"
+        },
+        {
+          "key": "material_112150",
+          "title": {
+            "ru": "Симбиотическое ядро химеры",
+            "en": "Symbiotic Chimeric Nucleus",
+            "zh": "并生嵌合胞"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112150.webp"
+        },
+        {
+          "key": "material_112151",
+          "title": {
+            "ru": "Сердцевина химеры",
+            "en": "Prime Chimeric Nexus",
+            "zh": "源生嵌合体"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112151.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -144,5 +144,1100 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Привет! Меня зовут Вареса, я воительница из Удела Благодатных Земель, и я занимаюсь садом... Если ты любишь еду или хочешь покупать свежие фрукты тележками или... если тебе нравятся истории о героях, то нам обязательно нужно пообщаться! Я покажу тебе всю здешнюю вкусную еду, предоставлю самые качественные фрукты во всём нашем племени и расскажу самые крутые истории о величайших героях, которые когда-либо жили!",
+        "en": "Um... Hi! I'm Varesa from the Collective of Plenty! I'm a warrior, and I also manage an orchard... If you're into food, or if you wanna buy fresh fruit by the cartload, or... or if you like hero stories, then we should definitely hang out! I'll show you all the good food around here, give you the best-quality fruit in our whole tribe, and tell you all the coolest stories about the biggest heroes in history!",
+        "zh": "你…你好！我叫瓦雷莎，是「沃陆之邦」的战士，经营着一间果园…如果你喜欢美食，想一车一车买水果，或者…对「英雄们的故事」感兴趣，都可以来找我！我会把所有好吃的、「沃陆之邦」品质最好的水果，还有最最重要的，厉害的英雄传说，全部分享给你！"
+      },
+      "source_id": 111000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Еда",
+        "en": "Chat: Eating",
+        "zh": "闲聊·吃东西"
+      },
+      "text": {
+        "ru": "Мои родители говорят, что, как бы ни был занят, если голоден, всегда нужно сесть и как следует покушать. Я люблю положить себе в тарелку побольше съестного, размять, сделать глубокий вдох и съесть всё одним махом. Так я наедаюсь досыта, не теряя много времени!",
+        "en": "My parents always say, no matter how busy life gets, you should always sit down and enjoy a proper meal when you get hungry. What I like to do is stack my plate up high, then squash it all down, take a deep breath, and wolf it down in one go. That way, I get to eat my fill without wasting too much time!",
+        "zh": "爸爸妈妈都说，不管有多忙，饿了的时候都要开开心心吃个饱！所以我喜欢把吃的叠高高，「呼」一下，压在一起。既能吃得心满意足，又不怎么花时间。"
+      },
+      "source_id": 111001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Силовые тренировки",
+        "en": "Chat: Strength Training",
+        "zh": "闲聊·力量训练"
+      },
+      "text": {
+        "ru": "Если силу не использовать, она покинет тебя. Ну что, хочешь потренироваться со мной как-нибудь?",
+        "en": "Strength is one of those things where you gotta use it or lose it! So, wanna train with me some time?",
+        "zh": "力气这种东西，不经常用出来的话，就会从身体里逃走哦！…要不要和我一起练习？"
+      },
+      "source_id": 111002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Управление фруктовым садом",
+        "en": "Chat: Managing the Orchard",
+        "zh": "闲聊·经营果园"
+      },
+      "text": {
+        "ru": "Во фруктовом саду много дел: полив, прополка, удобрение почвы, поддержание нужной температуры. Но особенно важно, чтобы у фруктов было хорошее настроение!",
+        "en": "There's a lot that goes into managing an orchard: watering, weeding, fertilizing the soil, making sure the temperature's right... But most importantly, you have to keep the fruit in a good mood!",
+        "zh": "种水果要考虑很多事，及时浇水除草，配好矿石粉末，补充土壤养分，保持温度不冷不热..不过最重要的，还是要照顾好水果们的心情，嗯！"
+      },
+      "source_id": 111003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Хи-хи-хи, растения в саду наверняка очень любят такую погоду. И заврианам сегодня не придётся их поливать.",
+        "en": "Hehehe, I bet the crops back in the orchard are loving this weather! Guess the saurians won't have to water them today.",
+        "zh": "嘿嘿嘿，果园里的作物应该很开心，龙龙们今天也可以不用忙着浇水了。"
+      },
+      "source_id": 111004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Я как-то читала, что Фиетена могла запускать молнии обратно в небо! Так что мне нечего бояться... Ик!",
+        "en": "Eek! I read that Fietena could send lightning bolts right back into the sky! So, I've got nothing to fear either— Eek!",
+        "zh": "咿！书里说，菲耶蒂娜可以把落雷撞回天上！我也不能怕…咿！"
+      },
+      "source_id": 111005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Посмотри только... Он такой белый и такой холодный... А съесть можно?",
+        "en": "Look at this stuff... It's so white, and so cold... Is it edible?",
+        "zh": "白白的，冷冷的，好少见…可以吃吗？"
+      },
+      "source_id": 111006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Так приятно и тепло... После еды на солнышке тянет вздремнуть... *зевает* Ммм...",
+        "en": "Ahh, so nice and warm... Nothing like the warm sun on a full stomach to make me feel... *yawn* like taking a nap... mmm...",
+        "zh": "好暖和…吃饱了以后，被暖暖的阳光照到，就想…睡个午觉…呼…"
+      },
+      "source_id": 111007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Если ветер будет дуть в спину, я наверняка смогу бежать ещё быстрее... Нет, это для ленивых. Никаких поблажек!",
+        "en": "With the wind behind my back, I bet I could run even faster... No, that's the lazy way, no shortcuts!",
+        "zh": "顺着风跑的话，会更快吗…唔，不能想着偷懒！"
+      },
+      "source_id": 111008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Ох... Доброе утро... Так хочется ещё подремать... Нет! Сделаю сто отжиманий, чтобы взбодриться!",
+        "en": "*groan*... Good morning... I kinda want to go right back to bed, but... Argh, no, I can't! A hundred push-ups, that'll wake me up!",
+        "zh": "呼啊…早上好…有点想睡个回笼觉…不行！还是先做一百个俯卧撑提提神！"
+      },
+      "source_id": 111009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Пора обедать! Нужно наесться досыта, чтобы набраться сил!",
+        "en": "Time for lunch! Full strength starts with a full stomach!",
+        "zh": "中饭时间到，要吃得饱饱的，才能充满力气！"
+      },
+      "source_id": 111010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Есть знаменитое высказывание одного героя: «Если к вечеру устал, значит, сегодня много работал и приложил все свои силы». Так что иногда усталость - это доказательство славных дел!",
+        "en": "A hero once famously said: \"If you feel exhausted by evening, that means you've worked hard today, and given every ounce of your strength.\" So sometimes, feeling tired can be a badge of honor!",
+        "zh": "英雄名言：「如果到了晚上，你觉得非常劳累，说明你今天没有消极怠惰，发挥出了身体全部的力量。」所以，有时疲惫也是荣耀之证！"
+      },
+      "source_id": 111011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Ах... Я не потратила много энергии сегодня, но уже так поздно, что я хочу спать... Почему бы тебе не найти себе хорошую, мягкую подушку и не лечь спать пораньше? Самые лучшие подушки - те, что сделаны из сушёных листьев злакофрукта... Напомни мне... сделать такую для тебя... как-нибудь... Хр-р...",
+        "en": "Ahh... I haven't used up much energy today, but it's so late that I'm getting kinda sleepy... Why don't you find yourself a nice, soft pillow, and we'll call it a night? The best pillows are those ones made from dried Grainfruit leaves... Remind me to... make one for you... some time... zzz...",
+        "zh": "唔…虽然没有用掉多少力气，但到了这个点还是困了…你也找个软软的枕头，早点睡吧？用晒干的颗粒果叶片做的枕头最好了…下次我帮你…做一个…呼…"
+      },
+      "source_id": 111012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Вареса о себе: Сытость и сила",
+        "en": "About Varesa: Eating for Strength",
+        "zh": "关于瓦雷莎自己·吃饱和力气"
+      },
+      "text": {
+        "ru": "Теоретически, чем больше ешь, тем сильнее становишься - при условии, что ты также усердно тренируешься, а не просто сидишь и ешь целыми днями. Но в моём случае это правило выглядит как бы обратным... Я сперва стала сверхсильной, но надо признать, что я никогда не могу насытиться. Когда я только стала помогать родителям во фруктовом саду, у меня начинала кружиться голова от голода через каждые несколько часов... Так что да, именно поэтому мне приходится есть такими огромными порциями, даже если это может выглядеть немного... э-э... чересчур...",
+        "en": "Theoretically speaking, the more you eat, the stronger you get — assuming you're also training hard and not just sitting around eating all day. But that rule seems kinda reversed in my case... I started out super strong, with the tradeoff being that I can never seem to get full. As soon as I started helping my parents out in the orchard, I'd be getting dizzy with hunger every few hours... So yeah, that's why I have to eat such huge portions, even if it might look a little, uh... over the top...",
+        "zh": "按理来说，只要不是光吃不锻炼的大懒虫，吃得越多，力气就该变得越大！但我好像反过来了…我的力气一直很大，代价是怎么吃都吃不饱。开始帮爸爸妈妈打理果园后，我稍微工作几小时，就会饿得头晕眼花，所以我吃东西的量…看起来会有那么一点夸张…"
+      },
+      "source_id": 111013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "Вареса о себе: Героический эпос",
+        "en": "About Varesa: Heroic Tales",
+        "zh": "关于瓦雷莎自己·英雄故事"
+      },
+      "text": {
+        "ru": "С самого детства я обожаю слушать истории о героях. Благодаря их былым сражениям сейчас я могу спокойно спать и есть то, что мне нравится. В нашем племени жила героиня по имени Фиетена. Она бегала очень быстро и могла расколоть горы ударом ноги! Кто-то как-то сказал, что мой боевой стиль немного похож на её. Такое мнение меня очень обрадовало...",
+        "en": "I've always loved hearing the tales of our heroes, ever since I was little. It's thanks to the battles they fought that I get to eat delicious food and sleep peacefully at night. One of the heroes from our tribe was called Fietena. She could run really fast, and had this awesome flying kick that could split mountains in two! Someone once said that my fighting style reminded them of her. That made me so happy, I was beaming with joy for the longest time...",
+        "zh": "从小时候起，我就爱听英雄们的故事，有他们曾经的奋战，现在的我才能吃到喜欢的饭菜，安安心心睡觉。我们部族有一位名叫「菲耶蒂娜」的英雄，她奔跑的速度很快，还能用飒爽的飞踢撕开山脉！有人说，我认真起来战斗的风格和她有点像，这个评价让我高兴了好久好久…"
+      },
+      "source_id": 111014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Эпичность",
+        "en": "About Us: Epically Cool",
+        "zh": "关于我们·特别形象"
+      },
+      "text": {
+        "ru": "Мои друзья рассказали мне о твоих удивительных деяниях! Про победу над очень сильными врагами и множество впечатляюще звучащих званий! Думаю, нам стоит попросить кого-нибудь из художников граффити создать книгу, нарисовав тебя в разных стилях, чтобы ты выглядел эпически круто в соответствии с каждым званием! Тогда множество детей вырастут, читая истории о тебе, и захотят стать такими же героями, как ты! / Мои друзья рассказали мне о твоих удивительных деяниях! Про победу над очень сильными врагами и множество впечатляюще звучащих званий! Думаю, нам стоит попросить кого-нибудь из художников граффити создать книгу, нарисовав тебя в разных стилях, чтобы ты выглядела эпически круто в соответствии с каждым званием! Тогда множество детей вырастут, читая истории о тебе, и захотят стать такими же героями, как ты!",
+        "en": "My friends have told me all about your amazing past! You've defeated a ton of super strong enemies, and ended up with loads of cool-sounding titles! I think we should get one of those graffiti artists to make an artbook of you in different styles, with an epically cool look to match each title you have! Then, loads of kids will grow up reading stories about you, and they'll be inspired to become someone epic just like you!",
+        "zh": "我从朋友们那里听说了你以前的事迹！你打败过好多厉害的对手，也有许多特别威风的称号！我觉得，应该请那些擅长涂鸦的人制作一本画册，为你的每个称号设计一套帅气夺目的形象！这样，以后就会有很多孩子读着你的故事长大，被你鼓舞，成为各种各样厉害的人！"
+      },
+      "source_id": 111015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Вперёд плечом к плечу",
+        "en": "About Us: Side by Side",
+        "zh": "关于我们·并肩前进"
+      },
+      "text": {
+        "ru": "Теперь ты Тумайни, гордость Натлана, величайший герой этой эпохи! Невероятно... Рядом с тобой я совсем не нервничаю и не трепещу. Понимаешь, о чём я? Нет ощущения, будто я ниже, а ты выше. Не знаю, может, это потому, что ты всегда так легко и искренне общаешься со мной? Я просто хочу быть рядом и помогать, когда тебе понадобится моя помощь. Как древние воины, которые сражались бок о бок с героями, творившими историю! / Теперь ты Тумайни, гордость Натлана, величайшая героиня этой эпохи! Невероятно... Рядом с тобой я совсем не нервничаю и не трепещу. Понимаешь, о чём я? Нет ощущения, будто я ниже, а ты выше. Не знаю, может, это потому, что ты всегда так легко и искренне общаешься со мной? Я просто хочу быть рядом и помогать, когда тебе понадобится моя помощь. Как древние воины, которые сражались бок о бок с героями, творившими историю!",
+        "en": "Now, you are \"Tumaini,\" the pride of all Natlan, and the greatest hero of our age. It feels kind of surreal... but when I'm with you, I don't feel nervous at all, and I don't get that sense of... intimidation, you know what I mean? Like, I'm down here, and you're up there. I dunno, maybe it's because you're always so easygoing and sincere with me? Anyway, I just want to stay by your side, and offer you my strength whenever you need it. Like the warriors of old, who fought side-by-side with the heroes who made history!",
+        "zh": "现在，你是全纳塔的骄傲「杜麦尼」，是这个时代最伟大的英雄！好奇妙…待在你身边，我完全不会紧张，也不会有那种…仰望你的…敬畏的感觉？是因为你也给了我最随和，最亲切的印象吗？我真想待在你身边，在你任何有需要的时候，为你献出全部的力量，就像和古代英雄们并肩前进的战士们一样！"
+      },
+      "source_id": 111016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Если верить тканым свиткам, Глаз Бога появляется в поворотный момент жизни и медленно опускается на ладонь, сияя ярким светом, который словно говорит: «Это предначертано судьбой»... Но я, наверное, забыла обо всём этом, потому что я помню только... Мне снился ужасный кошмар, в котором я целую вечность отбивалась от монстров у входа в лагерь своего племени и чуть не умерла... А когда я проснулась, у меня на лбу лежал Глаз Бога. Может быть, во сне я была... благословлена героем?",
+        "en": "From the way that the woven scrolls describe it, a Vision appears at a pivotal moment in your life and slowly descends into your hand, glowing with a brilliant light that seems to say \"This has been ordained by Fate\"... But I guess I must have forgotten all of that stuff, because all I remember is... I was having this awful nightmare, where I was fighting off monsters at the entrance to my tribe for what felt like an eternity, and I nearly died... Then, when I woke up, there was a Vision just lying on my forehead. Maybe I was... blessed by a hero in my dream, or something?",
+        "zh": "织卷里的说法是，「神之眼」会在非常重要的时刻，带着命运注定般的光芒，慢慢降临到特别之人的手中，可我完全不记得拿到神之眼的细节了…好像，有天做了个特别可怕的噩梦…梦里我一直在部族的正门和魔物战斗，差点死掉，醒来的时候，神之眼就放在我的额头上了…难道我在梦里被哪一位英雄祝福了吗？"
+      },
+      "source_id": 111017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "После нескольких визитов к Детям Эха я научилась кузнечному искусству и выковала свою маску! Интуиция подсказала мне взять за основу маску, которую Фиетена надела во время своего второго сражения в Войнах ночных дозорных. Тогда она ещё не была Бесстрашной Скалой, но в той битве ей всё же удалось победить свои страхи и одолеть всех монстров. Я поверила, что эта маска может стать для меня неиссякаемым источником мужества, и, как показала жизнь, я оказалась права!",
+        "en": "I made this mask for myself, after visiting the Children of Echoes a few times and getting some of their craftspeople to teach me a few things. My intuition told me to base it on the mask that Fietena wore on her second time fighting in the Night Warden Wars. She wasn't yet \"The Fearless Rock\" that she'd go on to become, but in that battle she still managed to conquer her fears and defeat all the monsters who confronted her. I believed that that mask could become an endless source of courage for me, and based on my experience since, I was right!",
+        "zh": "我去过几次「回声之子」后，跟着那里的工匠学会了一点手艺，做出了我的面具！我凭直觉参考了菲耶蒂娜第二次参与「巡夜者战争」时的面具款式，那时的她还没有成为「无畏的山岩」，但她挺过了恐惧，战胜了所有强敌！我相信那个面具会带给我无尽的勇气，后来证明，我的直觉确实没有错！"
+      },
+      "source_id": 111018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Говорят, что члены Гильдии искателей приключений могут путешествовать по Тейвату, а это значит... что им не нужно думать о том, как долго будут свежими фрукты, не нужно спешить на работу, и они не ограничены конкретным регионом, а могут отправиться куда угодно, чтобы попробовать местную еду? Хм... У меня есть фруктовый сад, за которым нужно присматривать, поэтому дальние путешествия не для меня. Не знаю, берут ли они на подработку?",
+        "en": "I've heard that members of the Adventurers' Guild get to travel all over Teyvat. Imagine that... So instead of worrying about the business, or the shelf life of fresh fruit, or being confined to one place all the time, I could go anywhere in the world that I want, and try all of the food there? Hmm... But I can't be gone for too long, because I'll always need to help out at the orchard once in a while... Um, do you know if the guild takes part-time adventurers?",
+        "zh": "有人说，冒险家协会的成员可以在提瓦特各地旅行，那岂不是…不用考虑水果的腐烂时间，不用赶着做生意，不局限于特定地区，而是能去任何一个国家品尝美食了？唔…我有家里的果园要打理，不能长期出远门，不知道冒险家协会接不接兼职…"
+      },
+      "source_id": 111019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Об Иансан: Учитель и наставник",
+        "en": "About Iansan: Coach and Commander",
+        "zh": "关于伊安珊·老师与长官"
+      },
+      "text": {
+        "ru": "Иансан - мой тренер. Я равняюсь на неё! Она помогла мне найти мою истинную силу, научила сражаться и даже устроила в патрульную команду нашего племени. Её очень уважают в патрульной команде, поэтому большую часть времени она отдаёт мне приказы, а я иду сражаться туда, где это необходимо. Так что она одновременно и мой тренер, и мой командир!",
+        "en": "Iansan is my coach. I look up to her the most out of anyone! She helped me discover my true strength, taught me how to fight, and even got me a job in our tribe's Patrol Team. She's pretty well respected in the patrol team, so most of the time she gives me my orders, and I go join the fighting wherever I'm needed. I guess that makes her both my coach and my commander, too!",
+        "zh": "伊安珊是我的老师，我最尊敬的人！她指引我发掘自己的力量，教了我许多战斗的本领，还引荐我去「沃陆之邦」的巡逻队就职！她在巡逻队里说话也响当当，我经常听她指挥，去需要我的地方战斗！这样看来，她也算是我的长官！"
+      },
+      "source_id": 111020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Об Иансан: Постоянное обучение",
+        "en": "About Iansan: Continued Training",
+        "zh": "关于伊安珊·持续训练"
+      },
+      "text": {
+        "ru": "Тренер Иансан говорит, что хотя большинство монстров теперь для меня сущий пустяк, мне ещё предстоит пройти долгий путь, ведь самые грозные враги - те, для которых нужна целая команда героев, работающих как единое целое. Я стараюсь следовать её плану тренировок каждый день, но... он подразумевает и контроль за питанием. Вот почему я не могу есть жареную пищу или что-то с кремом и сахаром, когда она смотрит. Она говорит, что это вредно для здоровья, но это так вкусно. Очень хочется... Иногда, когда я не могу больше сопротивляться, я отправляюсь в одно тайное место на природе, чтобы перекусить... Если мы с тобой когда-нибудь окажемся на большом празднике вместе, пожалуйста, никому не рассказывай!",
+        "en": "Coach Iansan says that even though most of the monsters out there are a piece of cake for me now, I've still got a long way to go, because the most formidable foes are the ones that take a whole team of heroes working together as one. I'm making sure to follow her training plan every day, it's just... controlling my diet is part of the plan, so I can't really eat deep-fried food or anything full of cream and sugar when she's watching. She says that stuff's unhealthy, but it tastes so good, and I get cravings... So sometimes, when I can't resist it anymore, I go to my secret campsite for a snacking session... If you and I ever go for a big feast together, please make sure you keep it a secret!",
+        "zh": "伊安珊老师说，虽然我能轻松打败一般的魔物，但为了战胜「英雄们齐心协力才能对付的对手」，我还有不少需要精进的地方。我每天都在按照她的计划好好锻炼。只是…控制饮食也是训练的一部分。在伊安珊老师看得到的地方，我就不能随意吃油炸的、或者糖和奶油太多的零食了，它们好像不怎么健康，但味道真的让人忘不掉…实在没办法，我就找了个秘密的野营地，偷偷躲起来吃东西…如果哪天，我们一起去吃了大餐，也请你帮我保密！"
+      },
+      "source_id": 111021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Мавуике...",
+        "en": "About Mavuika",
+        "zh": "关于玛薇卡…"
+      },
+      "text": {
+        "ru": "Говорят, что блины, которые Мавуика навешивает на штангу, в пять раз тяжелее веса её пламецикла! И она использует минимум десять блинов только для разминки... А ещё ходят слухи, что она может поднять валун размером с длинношеего носорога всего двумя пальцами! Если бы кто-то другой был таким же сильным, я бы постеснялась поднимать тяжести в его присутствии. Но с Мавуикой всё иначе... Её голос успокаивает, а взгляд вдохновляет и ободряет. Это заставляет меня стараться изо всех сил каждый день. Конечно, возможно, мне никогда не стать такой, как она, но это не повод сдаваться. Я буду верить в себя и стану лучшей версией Варесы!",
+        "en": "I heard that the plates Mavuika uses on her barbell lifts are five times the weight of her flamestrider! And that she uses ten plates minimum just as a warmup... I also heard a rumor that she can lift a boulder the size of a Long-Necked Rhino with just two fingers! If anyone else was crazy strong like that, I'm sure I'd be too self-conscious to lift weights in front of them. But with Mavuika, it's different... I find the sound of her voice so reassuring, and the look in her eyes is so inspiring and encouraging. It makes me want to push myself as hard as I possibly can every single day. Sure, I may never catch up to her, but that's no excuse to give up. I'm gonna believe in myself, and be the best Varesa I can be!",
+        "zh": "听说，玛薇卡大人训练用的杠铃片，每个都有她那辆「驰轮车」的五倍重！起步就得加上十片…也有人说过，她用两根指头能举起长颈角犀那么大的石头！这么勇猛的力量，放在其他强者的身上，我可能都不好意思在对方面前举起杠铃…不过，玛薇卡大人不一样，她的声音让我安心。她的目光就是对我的激励。我每天都会拿出十二分的力量练习，就算追不上她，也不可以看轻自己，自暴自弃！"
+      },
+      "source_id": 111022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Муалани...",
+        "en": "About Mualani",
+        "zh": "关于玛拉妮…"
+      },
+      "text": {
+        "ru": "Как-то тренер Иансан заметила, что я набрала вес, и решила, что мне нужно немного похудеть. Поскольку плавание считается хорошим способом сжигания жира, она организовала для меня интенсивную программу у Народа Родников. Я плавала, а Муалани каталась на сёрфе и возила за собой тренера Иансан в спасательном круге, чтобы она могла следить за моим прогрессом... Каждый день она заставляла меня преодолевать практически те же расстояния, как когда я пробегала по тридцать тысяч шагов... *вздрагивает*... К счастью, Муалани тайком подбрасывала мне конфеты, чтобы поддержать мой уровень энергии. Иначе не знаю, как бы я выжила... Я так ей благодарна...",
+        "en": "There was this time when Coach Iansan noticed I'd overshot my target weight, and decided I needed a cutting phase. Since swimming's supposed to be good for fat-burning, she arranged for me to do an intensive program over at the People of the Springs territory. I'd be there swimming lengths, while Mualani was surfing around and towing Coach Iansan in a life preserver, so she could monitor my progress... Every day, she made me do pretty much the same distance as I do in my 30 thousand-step shuttle runs... *shudder*... Thank goodness Mualani was secretly slipping me some candy to keep my energy up. Otherwise, I don't know how I would have survived... I'm so grateful to her...",
+        "zh": "有段时间，伊安珊老师测出我的体重超标了，需要减减肥，而游泳是特别有效的减肥方法。于是我就被安排在「流泉之众」特训。玛拉妮姐姐踩着她的鲨鲨冲浪板，牵一根绳，拽着救生圈里的伊安珊老师，监督我来回游泳，每天要游的距离和三万步的往返跑差不多！唔呃…要不是玛拉妮姐姐悄悄给我塞糖果补充体力，我根本撑不下来，太感谢她了…"
+      },
+      "source_id": 111023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Киниче...",
+        "en": "About Kinich",
+        "zh": "关于基尼奇…"
+      },
+      "text": {
+        "ru": "Я не так часто участвовала в Паломничестве, но однажды на групповом этапе мне пришлось столкнуться с Киничем. Этот парень такой проворный... Он уклонялся от всех моих атак, пока я совсем не выдохлась, а потом одним ударом отправил в нокаут... К тому времени, когда я поняла, что стоит позвать товарищей по команде, чтобы они помогли остановить его... он со Священным пламенем был уже далеко.",
+        "en": "I haven't entered the Pilgrimage that many times, but once, I came up against Kinich during the group stage. That guy is so nimble... He was just dodging all of my moves until I completely exhausted myself, then he knocked me out cold with one hit... By the time I realized that maybe I should get my teammates to help me pin him down... he and the Sacred Flame were long gone.",
+        "zh": "我参加「归火圣夜巡礼」的次数不多…其中有一次，我在团体赛里就对上了基尼奇…他的身手好敏捷，总是能躲开我的冲撞，最后我的力气完全用光了，被他一招就敲晕了过去…等我晃晃悠悠地想到该喊队友来帮忙牵制他的时候…圣火早就被拿走了。"
+      },
+      "source_id": 111024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Шилонен...",
+        "en": "About Xilonen",
+        "zh": "关于希诺宁…"
+      },
+      "text": {
+        "ru": "Я училась ремесленному мастерству у Детей Эха в «Самоцветах Мухуру». Там ремесленники постоянно говорили о Шилонен! На самом деле я видела её мельком всего раз или два, у нас не было возможности поговорить. Зато я узнала о её музыкальных предпочтениях! Она составила список музыкальных произведений, который звучит у них в магазине. Все мелодии очень запоминающиеся. Ритмичная, зажигательная музыка. Под такую хорошо заниматься пробежками. Клянусь, слушая её, я могу пробежать гораздо больше!",
+        "en": "When I was learning my crafting skills from the Children of Echoes, Muhuru's Gemporium is where I went to study. The craftspeople there talked about Xilonen all the time! I actually only saw her around once or twice, and I never got the chance to talk to her — but boy, did I get familiar with her music taste! She put together the playlist they have on in the shop, and all the tracks are super catchy. Really good beats — perfect for running, too. I swear, I can go for way longer on my shuttle runs when that stuff's playing!",
+        "zh": "我在「回声之子」学手艺的地方叫「穆胡鲁宝石铺」，那里的工匠们经常提起希诺宁女士的名字！不过，我只见过她一两次，没和她说上过话…倒是听过她推荐给店里的音乐！那些音乐很有意思，咚咚锵锵的，适合跑步的时候听，听着听着，比平常多跑几个来回都不累了！"
+      },
+      "source_id": 111025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Ситлали...",
+        "en": "About Citlali",
+        "zh": "关于茜特菈莉…"
+      },
+      "text": {
+        "ru": "О, я видела её имя в колонке писем читателей некоторых комиксов. Бабушка Ицтли пользуется огромным уважением: она самый крутой герой из Повелителей Ночного Ветра! Но, признаться, я всегда предполагала, что она должна выглядеть намного старше... Я не узнала её, когда увидела мертвецки пьяной в таверне. У неё при себе не было ни единой моры, и она что-то еле слышно бормотала. Я разобрала только, что она сказала: «Повелители Ночного Ветра». Тогда я оплатила счёт, перекинула её через плечо, отнесла к Повелителям Ночного Ветра и стала расспрашивать о Бабушке Ицтли. Но всякий раз, когда люди оборачивались, чтобы посмотреть, кто же у меня на плече, их лица искажались от ужаса... И тут до меня начало доходить, что что-то не так...",
+        "en": "Oh, I've seen her name in the readers' letters column of some comic books. Granny Itztli is extremely well respected — she's the most powerful hero from the Masters of the Night-Wind! But I gotta say, I always assumed she'd look way older... I didn't recognize her at all when I found her in the tavern in a drunken stupor. She didn't have a single Mora on her and she was mumbling to herself, but the only words I could make out were \"Masters of the Night-Wind.\" So, I paid her bill, threw her over my shoulder, carried her over to the Masters of the Night-Wind, and started asking around for \"Granny Itztli.\" But whenever people turned to look at this person slumped over my shoulder, a look of horror would creep over their face... And then it slowly started to dawn on me that something wasn't quite right...",
+        "zh": "我在漫画的读者来信栏里见到过，「黑曜石奶奶」是「烟谜主」现在最厉害的英雄，特别受尊敬！不过，我刚开始不知道「黑曜石奶奶」看起来那么年轻…在酒馆里发现她醉倒了，没带钱，又说着「烟谜主」之类的词，我不知道该怎么办，就先帮她付了钱，扛着她去「烟谜主」找「黑曜石奶奶」。结果路上的人听了我的话，看着我肩上的人，脸色都变得非常恐慌，我才慢慢意识到不对劲…"
+      },
+      "source_id": 111026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Дори...",
+        "en": "About Dori",
+        "zh": "关于多莉…"
+      },
+      "text": {
+        "ru": "О... Это же... та маленькая девушка-босс, у которой бездонные карманы? Она яростно торгуется... Каждый раз, когда она покупает фрукты, ей удаётся сбить цену по меньшей мере на тридцать-сорок процентов. Иногда даже больше! Но плюс в том, что она покупает огромными партиями - по несколько тележек за раз. А ещё она разрешает мне погладить её лохматого вьючного яка. Он такой пушистый и большой милашка...",
+        "en": "Oh... Isn't she that... big boss lady who's surprisingly small... but still has infinitely deep pockets? Oof... she's a fierce haggler... Every time she comes to buy fruit from us, she manages to slash at least thirty to forty percent off the selling price, and that's on a good day! On the plus side, though, at least she buys huge amounts — multiple cartloads at a time. And she lets me pet her Shaggy Sumpter Beast. It's so fluffy, and such a big cutie...",
+        "zh": "那位个子小小，但是钱包深不见底的大老板吗？呜呜…她好会砍价…每次卖她水果，都要被砍掉三四成…甚至更多钱！幸好她买的量很夸张，会把整车整车的水果包下来，还会给我摸她的牦牦驮兽。好绒好绒，好乖好乖。"
+      },
+      "source_id": 111027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Об Эскофье...",
+        "en": "About Escoffier",
+        "zh": "关于爱可菲…"
+      },
+      "text": {
+        "ru": "У госпожи Эскофье очень строгие стандарты... Каждый раз, когда её ресторан оптом заказывает мои фрукты, она отбирает несколько штук для... как это называется... да, «анализа образцов». Если сладость или вкус хоть немного отклоняются от нормы, она отбраковывает всю партию... Но, опять же, как она готовит? Это что-то из ряда вон выходящее. Великолепный вкус... Хе-хе... Если бы я только могла есть её блюда каждый день! Наверное, для этого мне придётся стать божеством.",
+        "en": "Miss Escoffier has really strict standards... Every time her restaurant places a bulk order for my fruit, she picks out a few for... what's it called... yeah, \"sample analysis.\" If the sweetness or flavor is even slightly off, she rejects the whole batch... But then again, her cooking? Out of this world. Sooo delicious... Hehehe... If only I could eat it every day! I guess I'd probably have to be a god to afford that.",
+        "zh": "爱可菲小姐好严格…她餐厅批量进购我的水果前，每次都要抽出几个，去做什么…「采样分析」，甜度和风味物质差一丝丝，她都不会点头…不过，她做的菜肴真好吃啊，真好吃啊…欸嘿嘿…要是能每天吃到就好了！那应该是，神明级别的待遇？"
+      },
+      "source_id": 111028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Варесе I",
+        "en": "More About Varesa: I",
+        "zh": "想要了解瓦雷莎·其一"
+      },
+      "text": {
+        "ru": "Я верю, что в мире гораздо больше хороших людей, чем плохих. Они для нас строят удобные дома, создают красивую мебель, готовят вкусную еду, создают потрясающую музыку и прочие радости жизни... Даже если я называю неправильную цену фруктов, покупатели обычно достаточно любезны, чтобы сообщить мне об этом, а не воспользоваться моей ошибкой. По крайней мере, я никогда не встречала настолько ужасных людей, чтобы они мне разонравились. С другой стороны, монстры... Я не знаю, что с ними происходит, но только на них я злюсь всерьёз... Особенно на чудовищ Бездны! Они коварны, страшны и абсолютно ужасны!",
+        "en": "I believe that there are far more good people than bad people in the world. They build the comfortable houses we live in, the nice furniture we use, all the delicious food we eat, and they make the amazing music and all the other fun stuff we enjoy... Even if I miscalculate the price when I'm selling fruit, my customers are usually kind enough to let me know rather than take advantage of it. At least, I've never met anyone terrible enough to make me really dislike them. Monsters, on the other hand... I don't know what their deal is, but they're the only ones I get seriously angry at... Especially the ones from the Abyss! They're cunning, and terrifying, and just all-round awful!",
+        "zh": "我觉得，世界上的好人远远远远比坏人多。大家造的房子和家具很舒服，饭菜特别好吃，音乐和玩的东西也超有趣…就算我卖水果的时候不小心少算了钱，好心的客人也不会贪这个便宜。起码，我没遇见过真正讨厌的「坏人」，会让我真真正正生气的，只有不知道在想什么的魔物…特别是又恐怖又狡猾的深渊！"
+      },
+      "source_id": 111029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Варесе II",
+        "en": "More About Varesa: II",
+        "zh": "想要了解瓦雷莎·其二"
+      },
+      "text": {
+        "ru": "Бездна напала на Удел Благодатных Земель, когда я была совсем маленькой. Тогда пострадали многие мои знакомые... Мои родители могли только спрятаться в хорошо замаскированном подвале и забаррикадировать дверь. Я до сих пор помню звук, с которым монстры пытались выбить дверь... Я была так напугана, что даже не осмеливалась громко кричать... К счастью, команда Патруля вовремя подоспела и спасла нас, но это заставило меня задуматься: даже если бы герои прошлого были бессмертными, дел у них было бы немало. Они не могли бы быть везде и сразу и защищать всех. Но, может быть, если я буду тренироваться и учиться драться, то в следующий раз вместо того, чтобы ждать спасения, я буду достаточно сильна и самостоятельно дам отпор.",
+        "en": "The Abyss attacked the Collective of Plenty when I was really young. So many people I knew got hurt... All my parents and I could do was hide away in a well-hidden cellar and barricade the door. I still remember the sound of the monsters trying to ram the door down... I was so scared, I didn't even dare to cry out loud... Thankfully, the Patrol Team got to us in time and saved us, but it got me thinking — even if the heroes of the past were immortal, there'd only be so much they could do. They couldn't be everywhere at once, and protect everyone and everything. But maybe, if I trained hard enough and learned how to fight, maybe next time instead of waiting to be rescued, I'd be strong enough to fight off the bad guys myself.",
+        "zh": "我很小的时候，深渊就袭击过「沃陆之邦」，好多我认识的人受伤了…我和爸爸妈妈只能躲在很远很偏的地窖里，把门堵得死死的。魔物把门砸得哐哐作响，我连哭都不敢哭得大声…好在部族的巡逻队赶了过来，我们才脱险…那时我想，就算以前的英雄们能永生不死，关键时刻也忙不过来，不可能长出三头六臂保护世界上的每个角落。如果我自己也好好锻炼，变得更能打，遇上危险至少有力气对付坏家伙，这样才比较好！"
+      },
+      "source_id": 111030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Варесе III",
+        "en": "More About Varesa: III",
+        "zh": "想要了解瓦雷莎·其三"
+      },
+      "text": {
+        "ru": "Когда я училась сражаться, как только я оказывалась перед монстром, у меня начинали колени подгибаться... Я говорила себе: мне нужно лишь прогнать плохишей, и тогда я смогу вернуться к своей счастливой жизни! Тогда я надевала маску, закрывала глаза, представляя, что я героиня из прочитанных историй, и бросалась на чудовищ... Мне всегда удавалось оттолкнуть их, хотя я и не видела, куда несусь. Однажды я выбила дубинку из рук хиличурла, она отлетела и ударила тренера Иансан прямо по голове. Так она впервые заметила меня, решила, что у меня есть талант, и взяла под своё крыло...",
+        "en": "When I was first learning to fight, as soon as I came face to face with a monster, my legs would start shaking uncontrollably... I told myself: I just need to drive the bad guys away, and then I can go back to living my happy life! Then I'd put on my mask, close my eyes, imagine that I was a hero from the stories I'd read, and charge at them... I always managed to plow into them and send them flying, even though I couldn't see where I was going. One time, I knocked a hilichurl's club right out of his hand, and it went flying off and hit Coach Iansan square on the head. That was how she first noticed me, and she decided that I had talent, and took me under her wing...",
+        "zh": "刚刚学会战斗的那段时间，我一站到魔物对面，腿就开始发抖了。那时我想…只要把坏东西都赶走，就能继续开开心心地生活！于是我戴上面具，想象自己是故事里的英雄，闭着眼睛埋头乱撞…还总能撞飞那些张牙舞爪的魔物。有一次，一只丘丘人手里的棍子呼呼转着飞了很远，打到了伊安珊老师的脑袋。她才注意到我，觉得我很有天赋，开始带着我练习…"
+      },
+      "source_id": 111031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Варесе IV",
+        "en": "More About Varesa: IV",
+        "zh": "想要了解瓦雷莎·其四"
+      },
+      "text": {
+        "ru": "Я и не предполагала, что спустя всего несколько месяцев упорных тренировок все будут говорить мне, что я одарённая и должна участвовать в Паломничестве... Дело в том, что я считала своими врагами только монстров, поэтому мысль о том, чтобы сражаться с милыми людьми из моего племени, тем более с друзьями, которым я раньше продавала фрукты... приводила меня в ужас. Я не умела контролировать свою силу. Что, если я ударю кого-то слишком сильно и покалечу? ...Понятно, что из-за таких опасений я не смогла показать хорошие результаты на соревнованиях. После череды поражений я сказала, что слишком боюсь пробовать ещё раз... и к тому моменту меня уже перестали подталкивать к участию.",
+        "en": "I never expected that after just a few months of solid training, everyone would be telling me that I was a prodigy and I should go enter the Pilgrimage... The thing is, I've only ever thought of monsters as my enemies, so the idea of fighting against the nice people from my tribe, even friends who I'd sold fruit to before... it terrified me. I didn't know how to control my strength — what if I hit someone too hard and injured them? ...Obviously, that mindset meant I never made it very far in the competition. After a string of losses, I said I was too scared to try again... and by that point, people had stopped encouraging me to participate anyway.",
+        "zh": "没想到的是，好好锻炼了几个月后，大家夸我是少见的力量奇才，推荐我去参加「归火圣夜巡礼」…但我想象中的对手一直是魔物，要和其他部族的好人，甚至是买过我水果的朋友战斗，根本把握不好力道，我特别害怕下手过重伤到他们…结果当然是，每次比赛，我都早早被淘汰…连着输了几次以后，我说不敢再参赛，也没人鼓励我再试试了…"
+      },
+      "source_id": 111032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Варесе V",
+        "en": "More About Varesa: V",
+        "zh": "想要了解瓦雷莎·其五"
+      },
+      "text": {
+        "ru": "Я знаю, в чём моя проблема. Мне приходится надевать маску в буквальном смысле и представлять себя кем-то другим, иначе я не могу сражаться. Я... избегаю быть собой, наверное. И если я хочу преодолеть этот страх, мне надо научиться контролировать свою силу и оттачивать каждое движение с той же тщательностью и осторожностью, как при взвешивании фруктов на весах. Только тогда я смогу сражаться максимально эффективно... и сражаться в своей ипостаси. Раз уж мы заговорили об этом... У тебя сила уровня божества, но ты, кажется, полностью контролируешь её. В любой ситуации ты всегда используешь нужное количество силы - не меньше и не больше, чем необходимо. Так что... ты мой герой. Можешь научить меня сражаться так же?",
+        "en": "I do know what my problem is. It's that I have to put on a literal mask and imagine I'm someone else, or else I can't get into the fight. I... avoid being myself, I guess. And if I want to conquer that, I have to learn how to control my strength and fine-tune every movement, with the same care and attention as when I'm weighing fruit on a scale. Only then will I be able to fight with intent and precision... and fight as myself. Um, since we're on the topic... I mean, you have god-tier strength, but you seem to have it completely under control. Whatever the situation, you always use just the right amount of force — no less and no more than necessary. So... You're my hero. Can you teach me how to do what you do?",
+        "zh": "其实，我也明白我的问题。我只有戴上面具，想象自己成为了某个英雄，才能拿出气势去击败对手。这属于…一种逃避。如果真想突破自我，我得像把握水果的重量一样，准准地控制每一个动作，认真仔细地战斗…以自己的身份战斗！说起来…你有和神明一样强大的力量，而你从来不会让这股力量失控，不管遇见什么事情，都能把握住那种…恰到好处的力度。我的英雄大人，能请你教教我吗？"
+      },
+      "source_id": 111033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Хобби Варесы...",
+        "en": "Varesa's Hobbies",
+        "zh": "瓦雷莎的爱好…"
+      },
+      "text": {
+        "ru": "Мне нравится жить в палатке на природе в местах с красивыми видами! Вдоль маршрута, по которому ездят наши тележки с фруктами, есть несколько действительно впечатляющих мест. После того как поставишь палатку и установишь котелок для приготовления пищи, так приятно расслабиться в кресле у костра... Петь песни, любоваться пейзажами, смотреть на звёзды... а потом поесть горяченького. Ничего не может быть лучше!",
+        "en": "Hehe, I love camping in places with a great view! There are some really spectacular spots along the route that our fruit carts take. After you've pitched your tent and set up your cooking pot, it's so nice to relax in a reclining chair by the fire... Sing some songs, admire the scenery, gaze at the stars... then dig into some piping hot food. Ah, it's the best feeling!",
+        "zh": "嘿嘿，我喜欢在风景好的地方野营！我家车队常走的路线附近，有几个非常不错的观景点。扎好帐篷，架一张躺椅，支好锅，在暖洋洋的篝火旁边唱歌，看夜景和星星，吃热腾腾的饭菜…好惬意…"
+      },
+      "source_id": 111034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Беспокойство Варесы...",
+        "en": "Varesa's Troubles",
+        "zh": "瓦雷莎的烦恼…"
+      },
+      "text": {
+        "ru": "Я не понимаю, что такого в этих книгах, которые читает тренер Иансан. В них говорится о научно обоснованном методе тренировок, который придумали в Сумеру и Фонтейне. Это кажется таким чрезмерно сложным... Только из-за того, что у меня слишком высокий процент жира в организме, тренер Иансан не разрешает мне есть сладкое и удваивает количество овощей в моём рационе? Так печально...",
+        "en": "I just don't get what the deal is with those books Coach Iansan reads. They talk about this science-based training method that people in Sumeru and Fontaine came up with. It's seems so over-complicated... Like, just because of something called \"body fat percentage,\" of which mine is apparently too high, Coach Iansan doesn't let me fill up on sweet stuff and doubles the amount of vegetables in my diet? I just find it pretty rough...",
+        "zh": "想不明白，伊安珊老师看的那些书上都是怎么说的？须弥和枫丹人研究出来的「科学健身」好复杂…因为一个叫做…「体脂率」…的数字太高？伊安珊老师就不许我吃甜食吃到饱，还要我把饭菜里的蔬菜比例翻倍…对我来说太难了嘛…"
+      },
+      "source_id": 111035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я всегда ем досыта, пока не почувствую прилив сил! Я люблю всё с насыщенным вкусом. Соусы с этой точки зрения очень хороши, а вкусное блюдо всегда должно содержать много сахара. Обожаю пламенное тушёное мясо и «Время для горячего источника»: каждый кусочек - чистое блаженство. ...Уф, но не стоит переедать, иначе потом возникнет чувство вины...",
+        "en": "I always eat to my heart's content, until I feel buzzing with energy! I love anything with a ton of flavor. Sauces go a long way in that regard, and for me a tasty dish has always gotta have plenty of sugar in it. Blazed Meat Stew and Hot Spring O'Clock are two of my favorites — every single bite is pure bliss... Ugh, but I gotta watch it, or I'll feel guilty afterwards...",
+        "zh": "吃饭就要吃得心满意足，浑身充满力量！味道丰富的料理，我都很喜欢！酱汁够多很重要，糖分充足也是美味的关键，就像「火焰炖肉」和「温泉时光」，每口下去都是幸福的感觉…呜…不能有心理负担！"
+      },
+      "source_id": 111036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я не очень люблю подгоревшую, просроченную или недоготовленную пищу... Даже если я могу стерпеть вкус, такая еда не даёт мне энергии. Эх... Наверное, в этом смысле я совсем не похожа на Фиетену. Рассказывают, что в худшие дни войны она выживала, кушая одни заплесневелые татако и мясо, зажаренное почти до состояния углей. И всё равно отбивалась от врагов... Я понятия не имею, как ей это удавалось.",
+        "en": "I don't really go for burnt, expired, or undercooked food... Even if I can get past the taste, it just doesn't seem to give me any energy. *sigh* ...I guess I'm nothing like Fietena in that sense. The stories say that in the worst days of the war, she survived on moldy Tatacos and burned meat that was practically charcoal. And she still managed to fight off the enemy... I have no idea how she did it.",
+        "zh": "焦黑的，变质的，或者没熟的料理，我很少吃…就算忍受住了味道，也没法从这种饭菜里获得力气。哎…我还是远远不如菲耶蒂娜，传说她在战场上最艰难那几天，吃的都是发霉的塔塔可，被火烧得快变成炭的肉，还要坚持抗击敌人…到底是怎么做到的呢？"
+      },
+      "source_id": 111037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ммммммммм! О-о-о... Это было так вкусно! Я словно в раю... Ух... Ты... Ты невероятный повар! Если бы ты... Если бы тебя когда-нибудь пригласили готовить для Состязания эпичного пиршества, люди бы вылизывали тарелки дочиста! И так много людей записалось бы для участия, что, возможно, мне пришлось бы даже побороться за своё звание!",
+        "en": "Mmmmmmm! Ohh... That was soooo good! I'm in heaven... Whew... You... You are an incredible cook! If you, um... If you ever got invited to cook for Epic Feast Showdown, oh boy — people would be licking their plates clean! And so many more people would sign up that honestly, I might even struggle to defend my title!",
+        "zh": "好吃，唔唔…太好吃了，太开心了…呜…你是…超级大厨！如果…如果「豪宴热斗」请你去做菜，绝对不会有人剩下食物！说不定，还会出现很多厉害的对手，我拿出全力都很难卫冕！"
+      },
+      "source_id": 111038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Вкус потрясающий... Я могла бы съесть ещё сотню таких порций, и мне бы не надоело! О, нет-нет, не надо готовить ещё сто порций только для меня. Не хочу доставлять тебе хлопот... Я... Я имею в виду, я могла бы съесть ещё немного, думаю...",
+        "en": "This tastes amazing... I could have a hundred more of those and still not get sick of it! Oh, no no, don't go cooking a hundred more just for me, I could never ask you to do that... I just... I mean, I could eat a LITTLE more, I guess...",
+        "zh": "这个味道，好满足…感觉吃一百份都吃不腻！啊，不是要你真的做一百份的意思，不能那么麻烦你…我只是，确实还想再吃一点…"
+      },
+      "source_id": 111039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Не знаю почему, но будто что-то не так... Может, потому что я не поела закуску? Как будто это блюдо - поле битвы, и герой должен биться до конца... Да, верно, это вкус войны! Итак, челюсти победы, вперёд!",
+        "en": "I dunno why, but somehow I'm struggling to get all this down... Maybe because I skipped the appetizer? It's like this dish is a battlefield, and the hero has to fight their way through to the end... Yeah, that's it — this is the taste of war! Alright, jaws of victory, going in!",
+        "zh": "吃起来没有那么顺口…是因为我没吃别的开胃菜吗？我能感觉到，这道菜里有一种…英雄战斗时的波折？对，「战场的味道」，好厉害！我要认认真真地吃！"
+      },
+      "source_id": 111040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Хи-хи... Сегодня твой день рождения, я так рада! В нашем племени принято собирать всех друзей и устраивать пир у костра. Именинник будет чокаться со всеми и пить вдоволь! Хотя... учитывая, что ты такой знаменитый, думаю, в итоге тебе придётся выпить не меньше тысячи бокалов... Это было бы очень весело, я уверена, но, вероятно, не лучшим образом сказалось бы на твоей печени. К тому же это может быть утомительно... Хм, а как насчёт более скромного варианта? Например... частная вечеринка в моём лагере, расположенном в тайном месте? / Хи-хи... Сегодня твой день рождения, я так рада! В нашем племени принято собирать всех друзей и устраивать пир у костра. Именинник будет чокаться со всеми и пить вдоволь! Хотя... учитывая, что ты такая знаменитая, думаю, в итоге тебе придётся выпить не меньше тысячи бокалов... Это было бы очень весело, я уверена, но, вероятно, не лучшим образом сказалось бы на твоей печени. К тому же это может быть утомительно... Хм, а как насчёт более скромного варианта? Например... частная вечеринка в моём лагере, расположенном в тайном месте?",
+        "en": "Heehee... Today's your birthday, I'm so excited! The tradition in our tribe is to get all your friends together and host a bonfire feast in your honor. The birthday person gets to cheers everyone and drink as much as they want! Although... with you being so famous, I guess you'd end up having to down at least a thousand drinks... Which would be great fun, I'm sure, but probably not the best thing for your liver. And it could get exhausting, too... Hmm, how about something more low-key instead? Like... a private party at my secret campsite?",
+        "zh": "欸嘿嘿…今天是你的生日，我也好开心好开心！按照「沃陆之邦」的传统，我们会邀请亲朋好友，为寿星办一场篝火宴会，寿星会跟每个人碰杯畅饮！但我感觉，以你的名气，办篝火宴会的话，至少要喝几千杯酒，开心是开心，就是太伤身了，而且也会很累…要不然，我们就去我的秘密野营地，来一次悠闲的庆祝会？"
+      },
+      "source_id": 111041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Ого... Уже чувствую результат тренировок. Мне так хочется бежать, прыгать, разбивать все препятствия на своём пути!",
+        "en": "Whoa... I'm really feeling the results of my training! I'm so energized right now, I just want to sprint and jump and plow through all the obstacles in my way!",
+        "zh": "唔…训练的效果显现出来了，我现在超有干劲，想要快快冲刺，高高起跳，把所有挡路的障碍都撞开！"
+      },
+      "source_id": 111042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Отлично! Я чувствую себя так, как будто съела тысячу порций пламенного тушёного мяса! Мои атаки и удары становятся столь же мощными, как извержение вулкана!",
+        "en": "Yeah! I am brimming with energy — it's like I've just eaten a thousand helpings of Blazed Meat Stew! I'll be ramming and flying kicking with the force of an erupting volcano!",
+        "zh": "嗯！能量超强，好像吃了一千份火焰炖肉！我的冲撞和飞踢也像爆发的火山一样充满力量！"
+      },
+      "source_id": 111043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Моя цель... стать сильной воительницей, как герои, которыми я восхищаюсь, и бороться за самое главное - за справедливость. Ведь каждый заслуживает счастливой и беззаботной жизни без плохих событий и плохих людей!",
+        "en": "My goal... is to become a strong warrior just like the heroes I admire, and fight to protect the most important thing of all: justice. Because everyone deserves a happy and carefree life, uninterrupted by the bad things and bad people out there!",
+        "zh": "目标是…成为像英雄一样强大的战士，维护最重要的正义——每个人都能开开心心轻轻松松地生活，不受一切坏人坏东西的影响！"
+      },
+      "source_id": 111044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Хочу, чтобы мои уверенность и храбрость развились так же, как когда-то увеличилась сила. Я знаю, что однажды смогу сражаться без маски и сохранять непоколебимую уверенность настоящего героя!",
+        "en": "My wish is to grow in confidence and courage, just as I have grown in strength. I know that one day, I'll be able to go into battle without a mask on, and still have the unshakable confidence of a true hero!",
+        "zh": "我希望，我的信心和勇气，也要像不断变强的力量！总有一天，就算不佩戴任何英雄的面具，也能像英雄们那样信心满满！"
+      },
+      "source_id": 111045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Бам!",
+        "en": "Boof!",
+        "zh": "撞！"
+      },
+      "source_id": 111046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Удар головой!",
+        "en": "Headbutt!",
+        "zh": "头槌！"
+      },
+      "source_id": 111047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Хэйя!",
+        "en": "Hyah!",
+        "zh": "嘿——！"
+      },
+      "source_id": 111048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "В атаку!",
+        "en": "Charge!",
+        "zh": "冲锋！"
+      },
+      "source_id": 111049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Время справедливости!",
+        "en": "It's justice o'clock!",
+        "zh": "正义昭告！"
+      },
+      "source_id": 111050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Герой уже тут!",
+        "en": "Hero incoming!",
+        "zh": "英雄登场！"
+      },
+      "source_id": 111051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Элементальный навык VII",
+        "en": "Elemental Skill: VII",
+        "zh": "元素战技·其七"
+      },
+      "text": {
+        "ru": "Нельзя опаздывать...",
+        "en": "Running late again...",
+        "zh": "不能迟到…"
+      },
+      "source_id": 111052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Элементальный навык VIII",
+        "en": "Elemental Skill: VIII",
+        "zh": "元素战技·其八"
+      },
+      "text": {
+        "ru": "Поспеши, Вареса!",
+        "en": "Hurry up, Varesa...",
+        "zh": "注意时间哇…"
+      },
+      "source_id": 111053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Элементальный навык IX",
+        "en": "Elemental Skill: IX",
+        "zh": "元素战技·其九"
+      },
+      "text": {
+        "ru": "Бегу!",
+        "en": "Time to roll!",
+        "zh": "开始快跑！"
+      },
+      "source_id": 111054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Тебе пора сдаться!",
+        "en": "You oughta stand down!",
+        "zh": "你该认输了！"
+      },
+      "source_id": 111055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Мощный удар!",
+        "en": "One fell swoop!",
+        "zh": "准备，全力一击！"
+      },
+      "source_id": 111056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Даруй мне силу, Фиетена!",
+        "en": "Fietena, grant me strength!",
+        "zh": "菲耶蒂娜，赐我力量！"
+      },
+      "source_id": 111057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Взрыв стихии IV",
+        "en": "Elemental Burst: IV",
+        "zh": "元素爆发·其四"
+      },
+      "text": {
+        "ru": "«Искрой моего имени да возгорится ночь!»",
+        "en": "\"By my spark, the night burns!\"",
+        "zh": "「炬照我名，焚灭恶夜！」"
+      },
+      "source_id": 111058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Взрыв стихии V",
+        "en": "Elemental Burst: V",
+        "zh": "元素爆发·其五"
+      },
+      "text": {
+        "ru": "Максимальная мощь!",
+        "en": "Maximum power!",
+        "zh": "力量啊！爆开吧！"
+      },
+      "source_id": 111059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Взрыв стихии VI",
+        "en": "Elemental Burst: VI",
+        "zh": "元素爆发·其六"
+      },
+      "text": {
+        "ru": "Невероятный удар!",
+        "en": "Ultimate flying kick!",
+        "zh": "绝技！英雄飞踢！"
+      },
+      "source_id": 111060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Ого, как сияет!",
+        "en": "Ooh, so shiny!",
+        "zh": "嘿嘿，亮闪闪的…"
+      },
+      "source_id": 111061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Это можно есть?",
+        "en": "Um... Are these edible?",
+        "zh": "能…能吃吗？"
+      },
+      "source_id": 111062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Он из-под земли появился?",
+        "en": "Uh... Did that grow out of the ground?",
+        "zh": "是…地里长出来的？"
+      },
+      "source_id": 111063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Я разозлилась!",
+        "en": "This is infuriating!",
+        "zh": "我要生气了！"
+      },
+      "source_id": 111064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Подлый удар...",
+        "en": "That was a cheap shot...",
+        "zh": "被你偷袭而已…"
+      },
+      "source_id": 111065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "От тебя не так-то просто отделаться...",
+        "en": "You're pretty tough...",
+        "zh": "你有点难对付…"
+      },
+      "source_id": 111066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Давай я помогу!",
+        "en": "Let me help!",
+        "zh": "我来帮你！"
+      },
+      "source_id": 111067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Нехорошо...",
+        "en": "Not good...",
+        "zh": "糟了糟了…"
+      },
+      "source_id": 111068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Я не признаю... поражение...",
+        "en": "Can't stand... losing...",
+        "zh": "我不想…认输…"
+      },
+      "source_id": 111069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "У-у-у...",
+        "en": "Aw...",
+        "zh": "呜哇…"
+      },
+      "source_id": 111070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Не осталось сил...",
+        "en": "My strength... is gone...",
+        "zh": "真的…没力气了…"
+      },
+      "source_id": 111071
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Хватит!",
+        "en": "Stop it!",
+        "zh": "被打了！"
+      },
+      "source_id": 111072
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ой-ой-ой!",
+        "en": "Ow ow ow!",
+        "zh": "疼疼疼！"
+      },
+      "source_id": 111073
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Как грубо!",
+        "en": "Too strong!",
+        "zh": "你这么凶！"
+      },
+      "source_id": 111074
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Нас ждёт путешествие... или соревнование?",
+        "en": "Are we going on a trip? Or... to a competition?",
+        "zh": "要出远门吗？还是…去比赛？"
+      },
+      "source_id": 111075
+    },
+    {
+      "number": 77,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Ура! Будет весело!",
+        "en": "Woohoo, this is gonna be fun!",
+        "zh": "开心起来了！"
+      },
+      "source_id": 111076
+    },
+    {
+      "number": 78,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "А еды хватит? У меня с собой есть!",
+        "en": "Will there be enough food? If not, I brought my own stash!",
+        "zh": "吃的够不够？我也带了哦！"
+      },
+      "source_id": 111077
+    }
+  ],
+  "replica_count": 78
 }

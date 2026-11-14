@@ -378,3 +378,920 @@ To her, this is proof of her defiance of fate, wresting from it command over her
 她只是平静地将神之眼藏在距离心脏最近的地方，然后，为「母亲」带去了一份小小的「惊喜」。
 作为愚人众执行官，阿蕾奇诺不向任何神明俯首，但对这枚象征七神体制的神之眼，她却始终认真保管。
 因为这是她反抗命运，掌控一己未来的见证。
+
+# voice_source_ids: 96000,96001,96002,96003,96004,96005,96006,96007,96008,96009,96010,96011,96012,96013,96014,96015,96016,96017,96018,96019,96020,96021,96022,96023,96024,96025,96026,96027,96028,96029,96030,96031,96032,96033,96034,96035,96036,96037,96038,96039,96040,96041,96042,96043,96044,96045,96046,96047,96048,96049,96050,96051,96052,96053,96054,96055,96056,96057,96058,96059,96060,96061,96062,96063,96064,96065,96066,96067,96068,96069,96070,96071,96072,96073,96074
+
+## REPLICAS_RU
+
+### Привет...
+
+Я Арлекино, Слуга, Номер четыре из Предвестников Фатуи. Дети Дома очага зовут меня «Отец». Надеюсь, мы с тобой хорошо поладим. Уверена, это будет нетрудно. Ведь сейчас у нас нет поводов враждовать... верно?
+
+### Поболтаем: Глаза
+
+Не стоит подолгу смотреть мне в глаза. Вряд ли тебе понравится то, что ты увидишь...
+
+### Поболтаем: Семья
+
+Чем заняты дети? Гм, какая разница. Пусть делают, что хотят.
+
+### Поболтаем: Донесение
+
+Ты хочешь мне что-то сообщить? Приступай. Я вся внимание.
+
+### Когда гремит гром...
+
+Не бойся. Гром ничего не значит, ведь молния не осмелится встать у нас на пути.
+
+### Когда идёт снег...
+
+Только среди зимней стужи начинаешь ценить тепло, которое дарит огонь.
+
+### Когда светит солнце...
+
+В такую погоду лучше посидеть в тени ветвей.
+
+### Когда дует сильный ветер...
+
+Не раскрывай свои секреты просто так. Никогда не знаешь, куда их унесёт ветер.
+
+### Доброе утро...
+
+Доброе утро. Какие планы на день?
+
+### Добрый день...
+
+Прихожу домой среди дня, а дети спят на полу вповалку. В полдень всегда клонит в сон. Наверное, тебе тоже стоит немного отдохнуть, прежде чем мы двинемся дальше.
+
+### Добрый вечер...
+
+Говорят, луна похожа на глаз, что следит за людьми с неба. Просто мы давно привыкли, что за нами следят.
+
+### Спокойной ночи...
+
+Пора спать. Говоришь, не можешь уснуть? Придётся тебе что-то придумать. Подозреваю, что мой способ борьбы с бессонницей тебя не устроит.
+
+### О себе: Знакомство
+
+Видеть себя без прикрас - трудная и даже неблагодарная задача. Не зря говорят, что иллюзии делают людей счастливее.
+
+### О себе: Хладнокровие
+
+Иногда до меня доходят разговоры за спиной, люди называют меня бесстрастной и жестокой. Я не собираюсь доказывать обратное, предубеждения отлично умеют скрывать за собой правду, а мне это только на руку. Но теперь в самом деле пришло время принять некоторые меры, чтобы «оправдать» ожидания этих людей... Будем надеяться, им хватит силы и влияния, чтобы уйти от меня живыми.
+
+### О нас: Уступки
+
+У нас с тобой разные идеалы, и если мы хотим быть союзниками, это предполагает некоторые уступки. Я готова поделиться с тобой частью своих секретов, но лучше не заходи за черту, которую я провела... Это для твоего же блага.
+
+### О нас: Гости
+
+Дети обожают слушать твои истории. Постоянно спрашивают, когда ты придёшь снова. За обманутые ожидания придётся платить свою цену... Надеюсь, ты примешь во внимание мои слова.
+
+### Глаз Бога...
+
+Долгое время у меня не было никаких желаний, пока однажды я не захотела убить Крукабену. Идея совершенно абсурдная, ведь Крукабена была знаменитой Предвестницей. Да и потом, всем своим боевым приёмам я научилась у неё.
+Но оказалось, если твоё желание достаточно сильно, боги обязательно ответят. В конце концов я обрела Глаз Бога и овладела этой силой, заплатив за неё положенную цену. Чтобы одолеть своего наставника, нужно действовать неожиданно.
+
+### Давай поделимся...
+
+«Пламя пульсирует в моём теле, словно кровь...» Для кого-то это всего лишь фигура речи. А для меня - реальность, которую не изменить.
+
+### Интересные вещи: Северное сияние
+
+В Снежной очень красивое северное сияние. Стоит увидеть своими глазами.
+
+### Интересные вещи: Пауки
+
+Когда-то у меня жил паук по имени Бэмби. Держать дома паука весьма интересно, в отличие от кошек или собак, пауки никогда не привязываются к хозяину. Он не даст тебе ничего в обмен на заботу, но и ты не будешь переносить на него лишние чувства. Самые подходящие для меня отношения.
+
+### О Лини...
+
+Клерви однажды спросила меня, что такое настоящий дом. Я не смогла ответить, потому что под крышей Дома очага собрались дети, у которых никогда не было настоящего дома.
+Убив Крукабену, я стала «Отцом» и установила новые правила. И всё равно я понимаю, что Дом очага по-прежнему далёк от идеала. Что такое настоящий дом?.. Наверное, пока лучше оставить этот вопрос. Надеюсь, однажды Лини даст мне на него свой ответ.
+
+### О Линетт...
+
+В необычно спокойном характере Линетт кроется её сила. Уверена, она достаточно умна, чтобы это понимать. Она незаменимый член их маленького отряда, и я думаю, эта роль тоже дарит ей много радости. Как «Отец», я должна дать ей возможность проявить свои таланты.
+
+### О Фремине...
+
+У Фремине сложный внутренний мир, многие чувства он предпочитает скрывать. Он винит себя за то, в чём совсем не виноват, и вина разъедает его изнутри. Пожалуй, другим детям трудно его понять, но я заметила в тебе похожую тонкость чувств. Быть может, вы с ним станете друзьями.
+
+### О Нёвиллете...
+
+На службе и в частной жизни месье Нёвиллет намеренно поддерживает с окружающими некоторую дистанцию. Поэтому многие считают его холодным и бесчувственным, но мне кажется, дело обстоит ровно наоборот. Чтобы ко всем относились одинаково, в соответствии с законом, необходима дистанция, и само стремление её поддерживать есть не что иное, как проявление доброты.
+
+### О Фурине...
+
+Я попросила Лини доставить её труппе набор пирожных к чаю. Дети испекли пирожные сами, в записке написали: «От восторженных зрителей». Надеюсь, она осталась довольна.
+
+### О Царице...
+
+Когда я оказалась в тюрьме, именно Царица помиловала меня и пожаловала титул Предвестницы. В Царице я почувствовала истинную доброту и сострадание, о которых все эти напыщенные велеречивые лицемеры не имеют даже малейшего понятия. Но... Не знаю, достаточно ли сострадания Царицы, чтобы растопить толстый лёд, сковавший её землю. Знаю только, что... если однажды мы окажемся врагами, я без колебаний подниму против неё свой меч, ибо этот шаг - величайшее уважение, которое я могу оказать.
+
+### О Шуте...
+
+Первый из Предвестников, загадочная фигура. При первой же встрече он с лёгкостью узнал моё прошлое, а я по сей день почти ничего о нём не знаю.
+
+### О Капитане...
+
+Сила возлагает на него большую ответственность. Но мне кажется, даже лишись он силы, всё равно его было бы за что уважать.
+
+### О Докторе...
+
+Когда я возглавила Дом очага, он предложил мне целый ряд совместных проектов. Хотел, чтобы я передавала ему «бракованных детей» для экспериментов, обещал делиться результатами. Говорят, они много сотрудничали с моей предшественницей. Скажу так, не будь он одним из Предвестников, я бы с удовольствием поспособствовала их счастливому воссоединению.
+
+### О Субретке...
+
+Очень необычная Предвестница. Задай ей вопрос, и она никогда не ответит предсказуемо. Возможно, её ответ вообще нельзя будет назвать ответом, но ты обязательно услышишь что-то интересное.
+
+### О Цыплёнке...
+
+Цыплёнок не питает ко мне большой любви, и это взаимно. Полагаю, он неплохой мэр... возможно, даже выдающийся. Незаурядная способность получать огромную выгоду, уплачивая весьма скромную цену, принесла ему широкое признание в политических кругах. К сожалению, «скромная» цена чаще всего подразумевает участие Дома очага, и если так пойдёт дальше, рано или поздно... Хм.
+
+### О Марионетке: Исследования
+
+Мне она не интересна. Она невероятно увлечена своими исследованиями и редко появляется на публике, многие офицеры ни разу её даже не видели. Есть люди, готовые поделить себя на сегменты, чтобы присутствовать в разных точках мира одновременно, а она впадает в другую крайность.
+
+### О Дельце...
+
+Не могу отрицать, он человек весьма умный и изобретательный, но ему не хватает трезвости. Он разрабатывает грандиозные планы, управляет экономикой целой страны, но все его действия продиктованы только ненавистью и злобой. Рассудительные люди часто верят, что управляют своими эмоциями, но в этой уверенности и кроется их самая большая слабость.
+
+### О Даме...
+
+Она и Пьеро были первыми Предвестниками, с которыми я познакомилась. Когда она первый раз пришла к нам в гости, то вела себя очень высокомерно и детям не понравилась. Потом она каждый раз брала с собой подарки, явно давая понять: «Те, кому я не нравлюсь, ничего не получат». Ради подарков дети быстро научились притворяться, а она принимала их притворную любовь за чистую монету. Думаю, ей нравилось быть окружённой детьми. Возможно, их общество заполняло пустоту в её душе... Мне очень жаль, что она пошла на такую жертву. Надеюсь, она наконец воссоединится со своим умершим возлюбленным.
+
+### О Чайльде...
+
+Если говорить объективно, у Чайльда очень неподходящий характер для Предвестника. Он слишком хорошо думает о людях... а потом выясняется, что его вовсю используют. Конечно, он очень талантлив, и у него ещё всё впереди. Так что не стоит спешить с оценками.
+
+### Узнать больше об Арлекино I
+
+Хочешь узнать меня получше? Конечно, почему бы и нет. Наши отношения строятся на доверии, и я готова многое рассказать... Но ты уверен, что хочешь этого? Некоторые тайны режут острее ножа. И невинное любопытство может привести к весьма опасным последствиям. / Хочешь узнать меня получше? Конечно, почему бы и нет. Наши отношения строятся на доверии, и я готова многое рассказать... Но ты уверена, что хочешь этого? Некоторые тайны режут острее ножа. И невинное любопытство может привести к весьма опасным последствиям.
+
+### Узнать больше об Арлекино II
+
+Когда твой клинок вонзается в плоть, ты понимаешь, что каждая жизнь имеет свой вес. Некоторые люди несут себя гордо и величественно, но на деле представляют собой пустую оболочку, перед лицом смерти только и знают, что молить о пощаде. Другие люди кажутся неприметными, но их души обременены тяжёлым грузом. Перед смертью же все равны. Жестоко? Но это правда.
+
+### Узнать больше об Арлекино III
+
+Мои Снежевичи и Снежневны... они смело идут сквозь сгустившуюся тьму с широко открытыми глазами, они танцуют на краю пламени и не боятся обжечься... я сделаю всё возможное, чтобы научить их достойно отвечать на вызовы жизни. Дом очага не нуждается в подачках. Мы сами получаем то, что нам нужно, как паук в своей паутине.
+
+### Узнать больше об Арлекино IV
+
+Мир несправедлив, ибо человек не выбирает, где ему родиться, зато он может бороться за ту жизнь, о которой мечтает, и в этом смысле мир оказывается весьма справедливым местом. Принимая детей, я не надеюсь получить от них благодарность. Если им так хочется, они могут даже покинуть Дом очага и начать новую жизнь... заплатив за это положенную цену.
+
+### Узнать больше об Арлекино V
+
+Странная штука - судьба. Ребёнком я распознала в себе необычную силу, благодаря которой снискала благоволение «Матери». Но тогда никто не понимал природу этой силы, даже я сама. Мы думали, это нечто вроде родового проклятия. Неизвестная сила питала меня, но вместе с тем причиняла много боли. И только став Предвестницей, я узнала от Шута правду. Он признался, что и сам был немало удивлён: оказалось, род Алой Луны не пресёкся, и теперь Дом очага снова вернулся под начало сироты из этого рода.
+Что уготовила мне судьба? Однажды я узнаю ответ. И когда это случится, я всё равно поступлю по-своему, даже если для этого мне придётся вовсе расправиться с судьбой.
+
+### Хобби Арлекино
+
+В свободное время я люблю наблюдать за насекомыми в лесу. Их игры завораживают, насекомые охотятся, конкурируют друг с другом, даже сотрудничают... Самые сильные часто погибают раньше остальных, допустив роковую ошибку. Я запоминаю их предсмертную агонию, как запоминаю последние минуты всех погибших от моей руки.
+
+### Беспокойство Арлекино
+
+Дети часто вставляют в речь модные словечки, понятные только им. Что-то вроде тайного языка, которым мы пользуемся на заданиях. Они нуждаются в безопасном пространстве, я ничего не имею против.
+
+### Любимая еда...
+
+Время от времени мы устраиваем в Доме барбекю-вечеринки, дети сами готовят все продукты для барбекю. Им очень нравятся такие вечера, и мне тоже. Ведь к тому времени, как мы соберёмся устроить следующую вечеринку, некоторые родные лица могут навсегда исчезнуть из Дома очага.
+
+### Нелюбимая еда...
+
+Не люблю сложные приправы, они притупляют обоняние и вкус. Сохранение изначального вкуса продуктов в блюде есть дань уважения их целостности.
+
+### Подарок I
+
+Удивительное мастерство. Не хочешь устроиться в Дом очага преподавателем кулинарии?
+
+### Подарок II
+
+Приятный вкус. Наверное, детям это понравится.
+
+### Подарок III
+
+Ценю твои старания, но над вкусом стоит ещё поработать.
+
+### День рождения...
+
+У меня записано, что сегодня твой день рождения, верно? День рождения стоит отмечать с размахом. Время от времени каждому из нас нужен повод, чтобы отложить дела и устроить праздник себе или близким. Идём, в Доме очага уже накрыт стол. Не будем заставлять детей ждать.
+
+### Чувство возвышения: Начало
+
+Никогда не останавливайся. И не позволяй силе брать над тобой верх.
+
+### Чувство возвышения: Нарастание
+
+Гнев делает человека импульсивным. А печаль рождает в душе сомнения. Что бы ни случилось, держи свои чувства под контролем.
+
+### Чувство возвышения: Кульминация
+
+Некоторые считают меня слишком строгой. Но на самом деле я строга и к себе тоже.
+
+### Чувство возвышения: Окончание
+
+За это время я многому у тебя научилась. Надеюсь, и для тебя наша дружба оказалась полезной. Давай будем продолжать в том же духе... Кто знает, какие щекотливые вопросы нам придётся решать в будущем. Уверена, у нас будет ещё много поводов объединить усилия.
+
+### Элементальный навык I
+
+Насквозь.
+
+### Элементальный навык II
+
+Отвергнуто.
+
+### Элементальный навык III
+
+Маски сорваны.
+
+### Взрыв стихии I
+
+Здесь ты падёшь.
+
+### Взрыв стихии II
+
+Узри мой восход.
+
+### Взрыв стихии III
+
+Вечная, словно луна.
+
+### Открытие сундука I
+
+Радость всегда сильнее, если находка неожиданная.
+
+### Открытие сундука II
+
+Неплохой улов.
+
+### Открытие сундука III
+
+Такое событие стоит отметить.
+
+### Низкий уровень HP I
+
+Достойная атака.
+
+### Низкий уровень HP II
+
+Теперь моя очередь.
+
+### Низкий уровень HP III
+
+Хочешь, чтобы я занялась тобой всерьёз?
+
+### Низкий уровень HP компаньона I
+
+Отступай.
+
+### Низкий уровень HP компаньона II
+
+План изменился.
+
+### Без сознания I
+
+Огонь... гаснет.
+
+### Без сознания II
+
+Я слышу... как поют дети.
+
+### Без сознания III
+
+Я не смирюсь с такой судьбой...
+
+### Получен тяжёлый удар I
+
+Посредственно.
+
+### Получен тяжёлый удар II
+
+Продолжай.
+
+### Присоединяется к группе I
+
+Не беспокойтесь, я всё улажу.
+
+### Присоединяется к группе II
+
+Возникли проблемы, которые никак не удаётся решить?
+
+### Присоединяется к группе III
+
+Уверена, наше сотрудничество будет плодотворным.
+
+### О Марионетке: Возвращение
+
+После того как мы столько всего вместе пережили в Нод-Крае, я пришла к выводу, что моя прежняя оценка была несправедлива. Она надёжный товарищ и верный спутник. Когда наступает суровая зима, любая поддержка способна улучшить положение дел. Я рада, что Сандроне вернулась именно сейчас. Для детей это тоже немалое утешение.
+
+## REPLICAS_EN
+
+### Hello
+
+I am The Knave, Arlecchino, Fourth of the Fatui Harbingers. The children of the House of the Hearth call me "Father." I do hope our partnership proves to be a pleasant one, although I would imagine that should be fairly easy. After all, there's no cause for contention between us at the moment... wouldn't you agree?
+
+### Chat: Eyes
+
+Staring into my eyes is ill-advised. I can't promise you'll like what you see...
+
+### Chat: Home
+
+What could the children be up to... Hmm. Never mind. Let them do as they please.
+
+### Chat: Tip-Off
+
+Something you wish to report? Go on. You have my undivided attention.
+
+### When Thunder Strikes
+
+Fear not. What's a little thunder when even lightning wouldn't dare strike our path.
+
+### When It Snows
+
+Only in the grip of winter do people truly appreciate the warmth of flames.
+
+### When the Sun Is Out
+
+This kind of weather is more enjoyably spent under the cover of shade.
+
+### When the Wind Is Blowing
+
+I would advise you to keep your secrets close to your chest. Divulge them too easily, and you never know where the wind might carry them.
+
+### Good Morning
+
+Good morning. Any plans for today?
+
+### Good Afternoon
+
+Whenever I return home at midday, I often find the children sprawled across the ground in the midst of sleep. A certain level of fatigue is common at this hour. Perhaps you, too, should rest a bit before we head out.
+
+### Good Evening
+
+It is said that the moon is like an eye gazing down upon the mortal plane. We have merely grown accustomed to its scrutiny.
+
+### Good Night
+
+Time to retire for the night. Oh? "Can't sleep," you say? Well, I'm afraid you'll have to figure something out for yourself. I have a certain suspicion my solution won't be to your liking.
+
+### About Arlecchino: Perception
+
+Seeing yourself clearly is a difficult task indeed, perhaps even a thankless one. After all, they say those who lack adequate powers of self-perception often lead a happier existence.
+
+### About Arlecchino: Cold Blood
+
+On occasion, I hear others whisper in secret, calling me cold and cruel. People are free to believe as they wish, and I don't intend to clear up their misconceptions. Prejudice has a way of concealing the truth, and that is hardly to my disadvantage. Still, I believe the time has come for certain measures to be taken to "live up" to their expectations... Let's just hope those on the receiving end of these measures have enough power and status to escape with their lives.
+
+### About Us: Compromise
+
+Our ideals are not entirely aligned. If we are to work together, we must be willing to compromise. To that end, I'm willing to share certain secrets with you. Information that I choose not to reveal, however, is best left unexplored... for your own good, of course.
+
+### About Us: Being a Guest
+
+The children simply adore your stories. They often ask me when you're coming around again. I do hope you won't let them down. Betraying their expectations comes with a price... Perhaps that's something worth your consideration.
+
+### About the Vision
+
+For the longest time, there wasn't anything I desired, until the idea came to me to assassinate Crucabena. It was a ludicrous thought then. She was a Harbinger, famed and experienced, and nearly everything I knew about fighting was taught by her hand.
+However, it appears you need only desire something with sufficient intensity, and the gods will answer. In the end, I gained a Vision, and after making certain sacrifices, I mastered this power. Surpassing one's teacher often requires the pursuit of the unexpected.
+
+### Something to Share
+
+"Flames course through my body like blood"... This may be nothing but a figure of speech to some. But for me, it's the harsh reality of my existence.
+
+### Interesting Things: Aurora
+
+The aurora in Snezhnaya is quite beautiful. Certainly worth a visit.
+
+### Interesting Things: Spiders
+
+I once had a pet spider named Bambi. Raising spiders is quite fascinating. They cannot be domesticated like cats or dogs. Any affection bestowed upon them will not be returned, and they require little investment in terms of care. It's the kind of relationship that suits me perfectly.
+
+### About Lyney
+
+Clervie once asked me what a "real home" looks like, but I had no answer for her. How could any of us know the answer when the House of the Hearth is made up entirely of people who never had a place to call home.
+By killing Crucabena, I was able to assume the identity of "Father" and rebuild the House under a new set of rules. Still, I'm well aware that, even with these efforts, the House is far from that ideal. As for what a real home truly looks like, I suppose that question is best put to the side for now... Perhaps one day, Lyney will be able to give me a new answer.
+
+### About Lynette
+
+Lynette's uniquely calm personality is also her strength, and I believe she is more than clever enough to recognize that. She is an irreplaceable part of that little team of three, and I would imagine that role brings her much joy. As her "Father," my duty is merely to give her the space to put those talents to good use.
+
+### About Freminet
+
+Freminet has a complex mind and often hides his emotions. He blames himself for things that aren't his doing and allows them to eat away at his conscience. I would imagine the other children might find it difficult to understand his manner of thinking, but you seem to share a similar delicate sensibility — perhaps you two would make good friends.
+
+### About Neuvillette
+
+Monsieur Neuvillette intentionally maintains a certain "distance" in professional and private settings. Many say this makes him cold and unfeeling, but I believe the truth is just the opposite. In order for all beings to be treated equally under the law, a certain level of emotional distance is expected. Maintaining that kind of indifference is, in itself, a demonstration of kindness.
+
+### About Furina
+
+I asked Lyney to deliver an assortment of cakes for her theater troupe to enjoy during teatime. The children made the cakes themselves as a gesture to express the support and enthusiasm of her "audience." I do hope she enjoys them.
+
+### About the Tsaritsa
+
+When I was imprisoned, it was the Tsaritsa who pardoned me and gave me the title of Harbinger. I could sense she was a person of true sincerity and compassion, unlike all those pompous hypocrites with their posturing and rhetoric. Yet... It's difficult to say whether her compassion alone is enough to melt the ice and snow that permeates her land. All I can say is this... If we are forced to be at odds one day, I will raise my weapon against her without hesitation, because that is the greatest level of respect I am able to bestow.
+
+### About The Jester
+
+As the original Harbinger, much about him remains a mystery. Upon our first meeting, he recognized my background with ease, yet to this day, I know little about him.
+
+### About The Captain
+
+He is very powerful, and that power comes with a high level of responsibility. However, I believe him to be someone worthy of respect independent of the power he holds.
+
+### About The Doctor
+
+When I first took over the House of the Hearth, he proposed a number of plans for us to work together. He wanted me to send any "rejects" to him. He planned to experiment on them and then share the results with me. I heard that he and the previous Knave had quite the professional rapport in that regard. All I can say is that, if he weren't one of my fellow Harbingers, I would have expedited their happy, little reunion long ago.
+
+### About Damselette
+
+She is a very special Harbinger. Pose her a question, and the answer you receive will be entirely unpredictable, if she sees fit to give a proper answer at all. Regardless, any answer you do receive is sure to be an interesting one.
+
+### About The Rooster
+
+The Rooster holds little love for me, and the feeling is mutual. He is an acceptable mayor, I suppose... perhaps even an exceptional one. He has an uncanny ability to make great gains at a small price, which has earned him substantial acclaim throughout his political circles. However "small" the price may be, if it continues to come at the expense of my organization, sooner or later... Hmph.
+
+### About Marionette: Research
+
+I have little interest in her. She is extremely... passionate about her research and does not appear in public often. In fact, many of our officers have yet to see her at all. Compared to, let's say, someone who would go so far as to create segments of themselves to better wander across the land, I suppose you could say she is at the other end of the extreme.
+
+### About Regrator
+
+I won't deny that he is a capable and imaginative individual, but he lacks "clarity." He can formulate grand plans and manipulate the economy with ease, yet at the same time, he allows his actions to be governed by the vengeance and hatred locked in the depths of his heart. Rational people often believe themselves capable of controlling their emotions, but I believe that confidence is their greatest weakness.
+
+### About The Fair Lady
+
+She and Pierro were the first Harbingers I became acquainted with. Her prideful attitude when she first visited the House of the Hearth failed to earn her many friends among the children. Subsequent visits were accompanied by gifts and the stately claim that "those who dislike me shall receive none." The children quickly learned how to play pretend, and she in turn basked in their attention, superficial though it may have been. I imagine she quite enjoyed being surrounded by children, perhaps due to the persistent loneliness that plagued her... I found her sacrifice to be a great shame. May she be reunited with her lover in death.
+
+### About Childe
+
+Objectively speaking, his personality is ill-suited to that of a Harbinger. He often tries to think the best of others... and finds himself used by them as a result. Of course, he is very talented. With time, I'm sure he'll come into his own. I see no need to judge him too early.
+
+### More About Arlecchino: I
+
+You wish to know more about me? Why, of course. Our relationship is one of mutual trust. There's little need to keep things hidden... I would only inquire as to whether you're truly prepared for what you might learn. Secrets can be sharper than a knife. Innocent curiosity can lead to dangerous places.
+
+### More About Arlecchino: II
+
+The moment you wield a blade, you realize that different lives carry different weights. Some people have an air of renown and distinction, yet grovel and plead for their lives when faced with death — their outward demeanor nothing more than a hollow facade. Others appear unremarkable, yet carry a heavy burden within. Despite the factors that differentiate us in life... death awaits us all — the great and final equalizer. Cruel, you say? I merely state the truth.
+
+### More About Arlecchino: III
+
+My Snezheviches and Snezhevnas... those with the courage to walk through shadow even when the world gets dark, and the conviction to embrace the heat even at the risk of getting burned... I will do my utmost to teach them how to navigate life. The House of the Hearth begs favors from no one — like a spider, we hunt for what we want.
+
+### More About Arlecchino: IV
+
+No one has the power to choose where they come from, but we all have the right to fight for the life we want. In this sense, the world is both unfair and just in equal measure. I don't take in children out of a desire for recompense. In fact, should they so wish, the children are free to leave and pursue a life outside my organization... so long as they're willing to pay the price.
+
+### More About Arlecchino: V
+
+Fate can be a peculiar thing. When I was young, "Mother" favored me due to the unusual set of abilities I possess. No one was able to discern their true nature, not even me. We could only speculate that they were the result of some sort of hereditary curse. Whatever the origin of my power, all I knew was that it was the source of my strength, and often the impetus for my suffering. It was only after I became a Harbinger that I finally learned the truth from The Jester. He expressed surprise that the Crimson Moon bloodline had not gone extinct, and that, in a strange twist of fate, the House of the Hearth had ended up in the hands of an orphan of that lineage once again.
+I cannot say what the future holds. I trust fate will give me an answer in time, and when it does, I'm prepared to do things my way, even if that means striking down fate with my own two hands.
+
+### Arlecchino's Hobbies
+
+In my free time, I enjoy observing insects in the forest. The dynamics between them are fascinating — the way they hunt for food, compete with each other, even cooperate... Those that seem formidable aren't always the ones that make it until the end, and a single error can prove fatal. I observe their struggle as they near death, and slowly commit the image of their suffering to memory, much like I do for those that fall by my own hand.
+
+### Arlecchino's Troubles
+
+The children often make use of words and phrases from popular vernacular that are only comprehensible among themselves, much like the codewords we use during missions. Of course, children often need their own space, and I fully understand that.
+
+### Favorite Food
+
+On occasion, we hold barbecue dinners at the House, and the children prepare the ingredients themselves. They enjoy participating in activities like that, and the feeling is mutual. After all, it's always possible certain familiar faces will be missing from the crowd the next time a similar event rolls around.
+
+### Least Favorite Food
+
+I dislike complex seasonings. They dull one's sense of smell and taste. Allowing the ingredients to maintain their original flavor is also a way to respect their integrity.
+
+### Receiving a Gift: I
+
+An impressive showing of culinary expertise. Perhaps you'd be interested in teaching a cooking class at the House of the Hearth?
+
+### Receiving a Gift: II
+
+The taste is palatable. Perhaps the children will enjoy it.
+
+### Receiving a Gift: III
+
+The intent is appreciated, but there is much room for improvement.
+
+### Birthday
+
+This memo states that today is your birthday. Is that true? Birthdays should be lively occasions. It's always nice to have an excuse to set formal matters aside every now and then, whether it's for the purpose of celebrating yourself or others. Come. I've prepared a feast for you at the House of the Hearth. Let's not keep the children waiting.
+
+### Feelings About Ascension: Intro
+
+Always keep moving forward. Never let yourself be constrained by power.
+
+### Feelings About Ascension: Building Up
+
+Anger makes you impulsive, and sorrow causes you to waver. Always maintain control over your emotions.
+
+### Feelings About Ascension: Climax
+
+Some call me excessively strict. In truth, it is an approach I extend even to myself.
+
+### Feelings About Ascension: Conclusion
+
+I've learned much from you during this time, and I trust the sentiment is mutual. In fact, I believe maintaining this cordial relationship might prove advantageous for us both... Who knows what thorny issues the future holds. I imagine there may yet be many an occasion for us to join hands.
+
+### Elemental Skill: I
+
+Transfixed.
+
+### Elemental Skill: II
+
+Overruled.
+
+### Elemental Skill: III
+
+Laid bare.
+
+### Elemental Burst: I
+
+This is where you fall.
+
+### Elemental Burst: II
+
+Witness my rise.
+
+### Elemental Burst: III
+
+Everlasting as the moon.
+
+### Opening Treasure Chest: I
+
+What greater pleasure is there than the unexpected?
+
+### Opening Treasure Chest: II
+
+An impressive bounty.
+
+### Opening Treasure Chest: III
+
+Ah, something with which to commemorate this occasion.
+
+### Low HP: I
+
+Commendable.
+
+### Low HP: II
+
+My turn.
+
+### Low HP: III
+
+Wanted my full attention, did you?
+
+### Ally at Low HP: I
+
+Step back.
+
+### Ally at Low HP: II
+
+New strategy.
+
+### Fallen: I
+
+The hearth is now... extinguished...
+
+### Fallen: II
+
+I hear... the children singing...
+
+### Fallen: III
+
+This shall not be my fate...
+
+### Heavy Hit Taken: I
+
+Pitiful.
+
+### Heavy Hit Taken: II
+
+Go on.
+
+### Joining Party: I
+
+No need to fret. I shall handle this.
+
+### Joining Party: II
+
+An insurmountable problem, I presume?
+
+### Joining Party: III
+
+This will be a productive partnership, I hope.
+
+### About Marionette: Return
+
+After experiencing so much in Nod-Krai together, I've come to realize my previous assessment was unfair. She's a reliable comrade and a reassuring companion. On the eve of another harsh winter, every additional pair of hands is welcome, so I'm glad that Sandrone has returned. Her presence provides comfort to the children.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我是愚人众执行官第四席，「仆人」阿蕾奇诺，也是壁炉之家的孩子们口中的「父亲」。希望我们相处愉快——这并非什么难事，现在的我们还没有冲突的理由，不是吗？
+
+### 闲聊·眼睛
+
+不要一直盯着我的眼睛，不保证你会看到什么。
+
+### 闲聊·家庭
+
+孩子们在做什么？算了，由他们去吧。
+
+### 闲聊·汇报
+
+有事情向我汇报？说吧，我在听。
+
+### 打雷的时候…
+
+无需畏惧，雷光也要避让我们。
+
+### 下雪的时候…
+
+身处寒冷之中，人们才会怀念火焰的温暖。
+
+### 阳光很好…
+
+这个天气更适合待在树荫下。
+
+### 刮大风了…
+
+不要轻易讲述自己的秘密，你不知道风会把它们带去什么地方。
+
+### 早上好…
+
+早安，今天有什么计划吗？
+
+### 中午好…
+
+正午回到家，总能见到孩子们横七竖八地睡在地上。这个时间很容易犯困，休息一下再走吧。
+
+### 晚上好…
+
+有人说月亮就像俯瞰人间的眼睛，只是我们已经习惯被它注视。
+
+### 晚安…
+
+睡觉的时间到了。「睡不着」？那你得自己想想办法了。我猜你不会喜欢我的方案。
+
+### 关于自己·认知
+
+清醒地认识自己并不容易。通常来说，做不到的人反而活得比较开心。
+
+### 关于自己·冷血
+
+偶尔，我会听到其他人在暗处的议论，说我是个感情淡漠、手段狠辣的人。对此我无意澄清，偏见会将真相包裹起来，对我来说是件好事。不过，我确实需要采取一些手段，来「满足」他们的期待…希望他们有足够的实力和地位，能从我手上活下来。
+
+### 关于我们·让步
+
+你我所持理念不尽相同，想要并肩而行，彼此都要做出让步。我可以分享一些秘密，至于隐瞒的那部分——不要深究，这也是为了你好。
+
+### 关于我们·做客
+
+孩子们很喜欢听你讲故事。时常问我你什么时候会再来。期望落空总需要支付代价，希望你能将它纳入到考虑之中。
+
+### 关于「神之眼」…
+
+很长时间里，我没有什么愿望，直到某天产生了「刺杀库嘉维娜」的想法。这个主意当时看来很荒诞，毕竟她是成名已久的执行官，而我的武艺几乎都是她教出来的。
+不过神明似乎只看愿望是否强烈，最终我得到了神之眼，在付出一些代价之后，成功掌控了这份力量。徒弟想要战胜老师，总要做出些意料之外的事情。
+
+### 有什么想要分享…
+
+「火焰如血液般在我的身体中流淌」…对普通人来说，这是一句蹩脚的小诗，对我来说却是一种无奈的现实。
+
+### 感兴趣的见闻·极光
+
+至冬的极光很美丽，可以去看看。
+
+### 感兴趣的见闻·蜘蛛
+
+我曾养过一只叫「斑比」的蜘蛛。饲养蜘蛛是件有趣的事情，相较于猫狗一类的宠物，蜘蛛是养不熟的。它并不会给你回报，你也不会在它身上寄托多余的情感。这样的关系对我正好。
+
+### 关于林尼…
+
+克雷薇曾问过我一个问题：什么是真正的「家」？我无法回答，因为构成壁炉之家的，正是一群「无家可归」的人。
+我否定家中不合理的地方，制定新的规矩，杀死库嘉维娜，成为了孩子们的「父亲」。但我很清楚，这仍然算不上真正的家。我会把这个问题保留下去。期待有一天，林尼能够给我全新的答案。
+
+### 关于琳妮特…
+
+沉静的性格是琳妮特的特点，也是她的优势。我相信她足够聪明理解到这一点。她在那支小队中有着无可替代的作用，而这么做，也令她感到幸福。作为「父亲」，我会给她足够的空间施展才华。
+
+### 关于菲米尼…
+
+菲米尼的内心非常复杂，藏着各种各样的感情。他会将许多无关的问题归因到自己，并为此感到很难过，其他孩子未必能理解他在想什么。我注意到你的情感也很细腻，或许你能和他成为很好的朋友。
+
+### 关于那维莱特…
+
+工作，以及私下，那维莱特先生刻意维持着一种「距离感」。很多人说他不近人情，我认为恰恰相反，就像律法的冰冷源于其庇护众生的公平，这本质上是一种特殊的善意。
+
+### 关于芙宁娜…
+
+我托林尼帮忙带去了一些蛋糕，分给剧团的人做茶点。蛋糕是孩子们亲手做的，用「热心观众」的名义赠送，希望她喜欢。
+
+### 关于「女皇」…
+
+在我入狱时，是女皇大人赦免了我的罪过，赐予我执行官的身份。相较于伪善之人冠冕堂皇的话术，我能从她身上感受到真正的「慈爱」。然而…这份慈爱能否融化辽阔的冰雪，没有人清楚答案。我只知道，如果有一天我们被迫决裂，我会毫不犹豫地向她挥剑，这是我能给出的最高敬意。
+
+### 关于「丑角」…
+
+作为最初的执行官，他的一切都很神秘。初次见面他就能轻易看出我的身世，而我时至今日仍然对他所知甚少。
+
+### 关于「队长」…
+
+他所拥有的力量让他背负着更多的责任，不过在我看来，即使没有强悍的力量，他仍然是一位值得尊敬的人。
+
+### 关于「博士」…
+
+我刚接手壁炉之家，他就向我提出了许多合作计划，让我将「淘汰的孩子」交给他去做实验，他则向我共享实验成果。听说他跟前代「仆人」合作得很愉快，如果不是同为执行官，我很想送他去见前代「仆人」。
+
+### 关于「少女」…
+
+她是一位非常特别的执行官。如果你向她提问，她不会给你「预料之中的回答」，有时甚至不会给出「正式的回答」，但那一定是个「有趣的回答」。
+
+### 关于「公鸡」…
+
+就像「公鸡」先生不喜欢我一样，我对他也没什么好印象。他是一位合格的市长，甚至可以用出色来形容。他能用很小的代价换取巨大的收益，在政要圈子中广受好评。可惜这「很小的代价」中经常出现壁炉之家的影子，我们早晚…哼。
+
+### 关于「木偶」·研究
+
+我对她没什么兴趣。她热衷于研究，很少公开露面，许多士官甚至都没有见过她。相较于另一个把自己切成很多份、满世界乱跑的人，她算是另一个极端。
+
+### 关于「富人」…
+
+不可否认，他既有想法也有手腕，但我认为他并不「清醒」。他可以制定宏伟的计划、操控冰冷的经济，但驱使他行动的仍是内心深处压抑的仇恨与憎恶。理性的人往往自认为能控制情感，这种自信就是最大的弱点。
+
+### 关于「女士」…
+
+她与皮耶罗是我最先认识的两位执行官。她第一次来壁炉之家做客，一副趾高气昂的做派，不受孩子们喜欢。那之后她每次来访都会带些礼物，堂而皇之地表示「不喜欢我的人没份」。为了礼物，孩子们很快学会了逢场作戏，她也照单全收。我猜测她很享受孩子们围在身旁的感觉，这或许源于她内心的孤独…对于她的牺牲，我深感遗憾，愿她能与死去的爱人重逢。
+
+### 关于「公子」…
+
+平心而论，他的性格并不适合做执行官。他常以善意揣测别人，也常被别人利用。当然，他的天赋很好，仍然在不断成长，对他的评价不必急于一时。
+
+### 想要了解阿蕾奇诺·其一
+
+想要了解我的事情？当然可以。本着互信的原则，我不会对你有太多隐瞒。不过你真的做好准备了吗？秘密比刀剑更锋利，危险往往源于不起眼的好奇心。
+
+### 想要了解阿蕾奇诺·其二
+
+当你刺出手中的利刃，你会意识到生命有不同的分量。有的人看似荣耀等身，却不过是一具无聊的空壳，临终前最后的思考仍是求饶与苟活。有的人外表平平无奇，灵魂却意外地沉重。即使如此，死亡对于每个人都是平等的。残酷？我只不过说了现实。
+
+### 想要了解阿蕾奇诺·其三
+
+雪奈茨维奇、雪奈茨芙娜…敢于在阴影中睁开明亮双眼的孩子们，敢于在火焰旁起舞的孩子们，我尽己所能，教他们如何面对生活。壁炉之家无需讨好他人，我们像蜘蛛那样狩猎。
+
+### 想要了解阿蕾奇诺·其四
+
+人们无法选择自己的出身，世界就是这样不公；但世界又是公平的，每个人都有抗争的权力。我收留孩子并非为了获得回报。只要愿意付出代价，想要离开的孩子可以追求新的生活。
+
+### 想要了解阿蕾奇诺·其五
+
+命运是种很奇妙的东西。小时候，我就能使用一些特别的力量，「母亲」因此对我格外偏爱。但那时没有人知道这份力量的本质是什么——包括我自己，都将它视为延续在血脉中的诅咒。它让我变得强大，也给我带来痛苦。直到我成为执行官，才从「丑角」口中得知真相。他说自己很惊讶，原来「赤月」的血脉仍未断绝，而壁炉之家兜兜转转，居然又重新回到了赤月遗孤的手里。
+命运会将我导向怎样的未来？总有一天它会给我答案。而我，也做好了斩破它的准备。
+
+### 阿蕾奇诺的爱好…
+
+空闲时，我会独自观察丛林中的昆虫。它们之间的博弈很有意思，捕食、竞争、合作…看似强大的个体未必能存活到最后，一着不慎就可能丢掉性命。我会把它垂死前的挣扎慢慢记下，一如我记下那些败者的结局。
+
+### 阿蕾奇诺的烦恼…
+
+孩子们会讲很多只有彼此能听懂的流行词，就像执行任务用的暗语。他们需要一些安全的空间，对此，我充分理解。
+
+### 喜欢的食物…
+
+家里会不定期举办烧烤晚会，食材交由孩子们自己准备。他们很喜欢参加这种活动，我也一样。毕竟谁都无法预料，下次举办晚会的时候，人群中又会减少哪些熟悉的面孔。
+
+### 讨厌的食物…
+
+我不喜欢调味复杂的食物，它们会让嗅觉与味觉变得迟钝。让食材保持原有的味道，也算是对它们的一种尊重。
+
+### 收到赠礼·其一
+
+好手艺，有兴趣来壁炉之家开烹饪课吗？
+
+### 收到赠礼·其二
+
+尝起来还不错，或许孩子们会喜欢。
+
+### 收到赠礼·其三
+
+感谢你的一片心意，不过在味道上还有很大的提升空间。
+
+### 生日…
+
+备忘录上写着今天是你的生日，对吗？生日还是要过得热闹些，人们总是需要理由让自己从繁忙的事务中抽出身，或是为自己庆祝，或是为别人庆祝。走吧，我在壁炉之家中准备了宴会，孩子们已经在等你了。
+
+### 突破的感受·起
+
+不要停下前进的脚步，也不要为力量所困。
+
+### 突破的感受·承
+
+愤怒带来冲动，伤感让人犹豫。时刻记住调整自己的心态。
+
+### 突破的感受·转
+
+有些人说我过于严格，事实上，我对自己也一样。
+
+### 突破的感受·合
+
+这段时间我从你身上学到了许多，希望你也有所收获。就让我们继续保持这份友好关系吧…或许将来，我们会共同应对某些棘手的麻烦。
+
+### 元素战技·其一
+
+贯穿。
+
+### 元素战技·其二
+
+否决。
+
+### 元素战技·其三
+
+展现。
+
+### 元素爆发·其一
+
+于此坠落。
+
+### 元素爆发·其二
+
+于此升起。
+
+### 元素爆发·其三
+
+如月长存。
+
+### 打开宝箱·其一
+
+意外是最大的乐趣。
+
+### 打开宝箱·其二
+
+不错的收获。
+
+### 打开宝箱·其三
+
+纪念此刻的欢愉。
+
+### 生命值低·其一
+
+不错的进攻。
+
+### 生命值低·其二
+
+该反击了。
+
+### 生命值低·其三
+
+看来要再认真一点。
+
+### 同伴生命值低·其一
+
+退后。
+
+### 同伴生命值低·其二
+
+计划变更。
+
+### 倒下·其一
+
+炉火，熄灭了…
+
+### 倒下·其二
+
+我听见…孩子们的歌声…
+
+### 倒下·其三
+
+我不会接受这样的命运。
+
+### 重受击·其一
+
+平庸。
+
+### 重受击·其二
+
+继续。
+
+### 加入队伍·其一
+
+别担心，我会处理好。
+
+### 加入队伍·其二
+
+遇到解决不了的麻烦了？
+
+### 加入队伍·其三
+
+希望是一次有价值的合作。
+
+### 关于「木偶」·回归
+
+在共同经历了挪德卡莱的事件之后，我认为自己此前对她的评价有失公允。她是一名可靠的战友，也是令人安心的同伴。严冬来临之际，任何能够提供支援的人手都将使现状得到改善，我很欣慰桑多涅能在此时回归。这对孩子们来说也是不小的慰藉。

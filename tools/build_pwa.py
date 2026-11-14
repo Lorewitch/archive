@@ -53,7 +53,7 @@ def empty_catalogs() -> list[str]:
     summary = json.loads((ROOT / "data/archive_summary.json").read_text(encoding="utf-8"))
     item_groups = (
         "weekly_bosses", "world_bosses", "common_enemies", "development_materials",
-        "teyvat_resources", "serenitea_pot", "useful_items", "misc",
+        "teyvat_resources",
     )
     return [f"data/indexes/items/{group}.json" for group in item_groups
             if not summary.get("groups", {}).get("items", {}).get(group)

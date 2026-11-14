@@ -484,3 +484,863 @@ And as for several vivid figures from the story, they would eventually be given 
 当她好不容易和沙龙成员一起把受灾的屋子都收拾妥当，她接到了来自公寓管理者的最后通牒——
 
 「就算它们是勋爵或者夫人，本公寓也禁止饲养宠物。」
+
+# voice_source_ids: 89000,89001,89002,89003,89004,89005,89006,89007,89008,89009,89010,89011,89012,89013,89014,89015,89016,89017,89018,89019,89020,89021,89022,89023,89024,89025,89026,89027,89028,89029,89030,89031,89032,89033,89034,89035,89036,89037,89038,89039,89040,89041,89042,89043,89044,89045,89046,89047,89048,89049,89050,89051,89052,89053,89054,89055,89056,89057,89058,89059,89060,89061,89062,89063,89064,89065,89066,89067,89068,89069,89070
+
+## REPLICAS_RU
+
+### Привет...
+
+Что ты стоишь, разинув рот? Ах да, наверное, не можешь найти слов от ошеломления. Всё же это я - звезда Фонтейна Фурина. У меня плотный график, так что тебе повезло со мной встретиться.
+
+### Поболтаем: Чаепитие
+
+Все утончённые дамы должны знать толк в чаепитиях. Если захочешь разобраться в этикете, я с радостью тебя научу.
+
+### Поболтаем: Веселье
+
+Как скучно... Мы не можем заняться чем-то поинтереснее?
+
+### Поболтаем: Популярность
+
+Ах, популярность иногда очень утомительна. Кто бы мог подумать, что люди будут меня так обожать?
+
+### Когда идёт дождь...
+
+Вот так льёт! Постой-ка, уровень воды ведь не поднимается?
+
+### Когда идёт снег...
+
+Ух ты, это было бы идеальное место для съёмок фильма.
+
+### Когда светит солнце...
+
+Солнце так же обжигает, как вечно нацеленные на меня софиты... Хорошо, что солнце всего одно.
+
+### Когда дует сильный ветер...
+
+«Вслушайся, в ветре звучит тревожный рык. Это давно забытое чудовище морских глубин видит кошмары...» Почему ему снятся кошмары?.. Хм, может, он чувствует опасность?
+
+### В пустыне...
+
+Какое дикое и пустынное зрелище... Позвольте мне даровать вам благословение воды!
+
+### Доброе утро...
+
+Доброе утро... А мне обязательно так рано вставать? Дай мне поспать подольше...
+
+### Добрый день...
+
+Добрый день! А где моё пирожное? Что? Я уже ела пирожные на завтрак? Так ведь это когда было!
+
+### Добрый вечер...
+
+Добрый вечер. Мадемуазель Крабалетта последнее время всё бормочет, что хочет привести себя в форму, да ещё и меня с собой тащит. Пф, если сравнить с прошлым месяцем, я стала питаться куда более здоровой пищей. Стараюсь поддерживать фигуру изо всех сил. Эй, скажи, что это заметно!
+
+### Спокойной ночи...
+
+Фух, я уже хочу спать. До завтра. Не забудь разбудить меня вовремя...
+
+### О Фурине: Лучшие друзья
+
+М? Кто все эти люди на чаепитии? Конечно же, мои верные последователи! Ох, ладно, я вас представлю. Это Мадемуазель Крабалетта, моя служанка. Она просто очаровательна, хоть порой и портит случайно мои наряды. Это Управляющая Шевальмарин, моя надёжная экономка, поддерживающая порядок в моей суетной жизни. И, наконец, мастер ставить всех на место, Месье Уше. Хе-хе. Я-то, может, и разрешила тебе принять участие в моём чаепитии, но, чтобы получить их одобрение, тебе придётся потрудиться!
+
+### О Фурине: Пение
+
+Я уверена в своих способностях певицы, но не так много музыкальных произведений, которые достойны моего вокального мастерства. Надеюсь, мастера театра возьмут себя в руки и не заставят меня ждать напрасно...
+
+### О нас: Отношения
+
+Ох. Учитывая степень нашего знакомства, ты можешь немного расслабиться и не вести себя так почтительно в моем присутствии. Подожди, что это за выражение у тебя на лице? Только не говори мне, что ты с самого начала не испытывал ко мне никакого почтения?! / Ох. Учитывая степень нашего знакомства, ты можешь немного расслабиться и не вести себя так почтительно в моем присутствии. Подожди, что это за выражение у тебя на лице? Только не говори мне, что ты с самого начала не испытывала ко мне никакого почтения?!
+
+### О нас: Совместная история
+
+Моя история уже подошла к концу, поэтому следующий акт будет посвящён НАШЕЙ с тобой истории... Нам, наверное, стоит брать двойную плату за публичные выступления... О, я так счастлива!
+
+### Глаз Бога...
+
+Когда древнее пророчество исполнилось и всё закончилось, я надолго впала в уныние. Люди на сцене греются в лучах общего внимания, но расплачиваются за это грузом публичности и всеобщих ожиданий. Я прекрасно знала, что им нужна не я, а божество, которое я играла... При этом я испытывала одно только одиночество. Поэтому в какой-то момент актёрство опротивело мне, и я заперлась у себя, не выходя из комнаты. Но только когда я снова поднялась на сцену к зрителям, моя тревога рассеялась. Думаю, что теперь я могу предстать перед публикой, потому что... наконец-то я могу играть саму себя.
+
+### Давай поделимся: Опера
+
+Оперный театр Фонтейна пережил несколько реформ, и каждый раз изменения встречал хор недовольных голосов. Помню, как толпа собралась в театре и принялась шуметь так, что у меня уши разболелись. Тогда я припугнула их, заявив: «Я запрещаю обсуждать подобный вздор!». Отчётливо помню, как Нёвиллет тогда стукнул тростью по полу, и все сразу замолчали. Иногда так сложно удержаться от того, чтобы показать людям мою устрашающую сторону... Надеюсь, они относятся к этому с пониманием.
+
+### Интересные вещи: Темнозвёздники
+
+Я люблю темнозвёздники. Эти существа сияют и сверкают даже там, где их никто не может увидеть - вот какой должна быть «настоящая звезда». Ах, если бы кто-то написал оперу о темнозвёздниках, я смогла бы сыграть милую морскую звезду-изгоя.
+
+### О Лини и Линетт...
+
+Конечно, я знаю Лини и Линетт. Я частенько наведывалась на их магические шоу. Они хоть и очень известны, но всё же гораздо менее популярны, чем я. Только на мои представления собирался полный аншлаг... Даже на стоячие места билетов не было. Но сейчас... Я решила завязать с актёрской карьерой, так что падение моей популярности - вполне нормальное явление!
+
+### О Нёвиллете...
+
+Я очень благодарна Нёвиллету за тяжёлый труд, которым он занимался ради Фонтейна на протяжении последних веков. Похоже, он не собирается преследовать меня за то, что я так долго всех обманывала. Как бы то ни было, больше мы вместе не работаем, и я давно не бывала во Дворце Мермония. Думаю, это только к лучшему для нас обоих, правда?
+
+### О Навии: Десерты
+
+Ты пробовал пирожные макароны, которые делает Навия? Должна признать, в изготовлении сладостей она мне не уступает: картинки, которые она рисует на макаронах, такие милые, правда? Я уж не говорю о текстуре пирожных и сладости... Настоящее произведение искусства! И как ей это удаётся? Неужели всё дело и правда в таланте? Уф, поверить не могу, что чувствую себя проигравшей... Надо будет выспросить у неё все секреты в следующий раз! / Ты пробовала пирожные макароны, которые делает Навия? Должна признать, в изготовлении сладостей она мне не уступает: картинки, которые она рисует на макаронах, такие милые, правда? Я уж не говорю о текстуре пирожных и сладости... Настоящее произведение искусства! И как ей это удаётся? Неужели всё дело и правда в таланте? Уф, поверить не могу, что чувствую себя проигравшей... Надо будет выспросить у неё все секреты в следующий раз!
+
+### О Навии: Внутреннее состояние
+
+Она очень сильная личность. Сильным людям всегда удаётся держать себя в руках, что бы ни случилось, и делать вид, что всё в порядке. Так они не навешивают ненужный груз на других. Я видела поединок между Калласом и Клориндой... И могу сказать, что в этом отношении Навия всё больше и больше становится похожа на своего отца.
+
+### О Слуге...
+
+Слуга? К-кто? Ах да, совсем про неё забыла... Она такая жуткая, если не выкинуть её сразу из головы, того и гляди явится в кошмарах.
+
+### О Шарлотте...
+
+В последнее время я часто вижу Шарлотту, которая деловито снуёт туда-сюда в округе. Похоже, она всё ещё надеется договориться со мной об эксклюзивном интервью. Сколько бы я ни отказывалась, она всё равно не сдаётся. Честно говоря, её настойчивость меня сначала разозлила... Но потом она с такой решимостью сказала, что хочет показать всем настоящую Фурину и что она верит, люди поймут мои беды. Я и не знаю, чем ответить на её добрые намерения... Наверное, она права, но я ещё не готова...
+
+### О Ризли...
+
+Я с ним мало общалась, но Нёвиллет утверждает, что Ризли заслуживает доверия, так что, наверное, он хороший человек. О, вспомнила, я как-то получила от него чай, просто восхитительный!
+
+### О Клоринде...
+
+У меня осталось впечатление, что Клоринда не очень разговорчива, но она неоднократно поддерживала и защищала меня, поэтому я ей доверяю. Хм... Я немного скучаю по ней, но сейчас у меня нет никаких причин, чтобы с ней повидаться. О, точно! Надо будет пригласить её на следующее чаепитие!
+
+### Узнать больше о Фурине I
+
+Тебе интересно больше узнать обо мне? Ох, что ж поделать?.. В конце концов когда-то я была главной знаменитостью во всём Фонтейне! Каждый день вокруг меня сновали толпы журналистов, пытаясь выведать подробности моей личной жизни, так что у меня есть богатый опыт отказов. Конечно, я не собираюсь использовать этот опыт с тобой. Я готова поделиться кое-какими секретами в обмен на сладости.
+
+### Узнать больше о Фурине II
+
+Недавно кто-то посоветовал мне заняться сёрфингом, и я попробовала. Поначалу держать равновесие среди накатывающих волн было сложновато, но я довольно быстро освоилась. Может быть, я просто прирожденная сёрфингистка... Чувствовать ветер и волны рядом и скользить к горизонту было просто потрясающе. Попробуй и ты!
+
+### Узнать больше о Фурине III
+
+Можешь рассказать о своём путешествии, если у тебя есть время? Я бы с удовольствием послушала все твои фантастические истории. Как бы это сказать?.. Во мне легко пробуждается интерес к самым разным вещам, но вскоре мне снова становится скучно. Наверное, чем легче вспыхивает энтузиазм, тем быстрее он угасает. Но когда я с тобой, я, кажется, постоянно чувствую себя счастливой... Просто потрясающе!
+
+### Узнать больше о Фурине IV
+
+В последнее время я подумываю, не слишком ли строга я была к себе в прошлом. Стараясь сохранять приличествующую божеству сдержанность, я не могла как следует наслаждаться жизнью. Так что теперь я просто помешалась на покупках. Я столько всего замечательного накупила... Например, радужные чайные пакетики, полностью автоматические раздвижные столовые приборы, седло для езды на морских коньках... Но в итоге я обнаружила, что от всех этих вещей мало толка, и отправила их в труппу, чтобы использовать в качестве реквизита на спектаклях. Странно... Перед покупкой я была уверена, что всё это мне пригодится...
+
+### Узнать больше о Фурине V
+
+Люди любят вспоминать о прошлом и часто сожалеют о прекрасных вещах, отошедших в историю. А ещё они любят поговорить о будущем, они как будто на всё готовы ради туманных перспектив, которые оно им сулит. Я не слишком одобряю подобный образ мыслей, но в то же время очень им завидую... Наверное, всё потому, что раньше я жила в мире без прошлого и будущего. Чтобы справиться со страхом, я пыталась создать и воплотить в жизнь более сильную, более «божественную» версию себя. С течением веков роль, которую я пыталась играть, постепенно слилась с моей настоящей сущностью. Сейчас даже я не могу разделить их... но, возможно, это и не нужно. Опыт прошлого сформировал то, чем я являюсь сейчас, и этот несовершенный спектакль стал самой важной частью меня.
+
+### Хобби Фурины
+
+У «Короны властительницы» всё ещё нет продолжения? Как жаль. Классика о победе добра над злом никогда не устаревает.
+
+### Беспокойство Фурины...
+
+Хм, какой соус выбрать к макаронам сегодня?
+
+### Любимая еда...
+
+Пирожные всем по душе, но чтобы угодить моим вкусам, требуется приложить немало усилий. Слушай внимательно, десерты - как оперы... Всё, начиная от выбора «персонажей» и заканчивая правильной «композицией», должно быть выполнено на высочайшем уровне, чтобы «спектакль» прошёл с успехом!
+
+### Нелюбимая еда...
+
+Если говорить попросту, я не люблю большинство «оригинальных» блюд. За эти годы я перепробовала столько странной еды, которая не оставила после себя ничего, кроме неприятных воспоминаний...
+
+### Подарок I
+
+О? Какой богатый аромат и нежная текстура... Я не ожидала, что ты так здорово готовишь... да ещё и отличаешься изысканным вкусом!
+
+### Подарок II
+
+Какая скукота! Ха, такому банальному блюду никогда не снискать моего одобрения!
+
+### Подарок III
+
+Вот этим ты обычно питаешься? Ох... Кажется, мне придётся поделиться с тобой макаронами.
+
+### День рождения...
+
+С днём рождения! Вот, пожалуйста, прими в подарок этот билет. Это лучшее место в зале на «Счастливый день». Не забудь явиться на представление! Хочешь знать, что это за «Счастливый день»? Уф. Я хотела, чтобы это осталось сюрпризом... Ладно, это опера, в репетициях которой я лично участвовала. Она о большой группе людей, которые собираются, чтобы поздравить одного очень важного человека. Теперь тебе понятно? Только не забудь прийти!
+
+### Чувство возвышения: Начало
+
+Я не привыкла пользоваться Глазом Бога. Почему бы тебе не научить меня? Ах да, совсем забыла... У тебя ведь тоже нет опыта в обращении с ним.
+
+### Чувство возвышения: Нарастание
+
+Сила, полученная в результате собственного упорного труда, приносит истинное удовлетворение. Спасибо.
+
+### Чувство возвышения: Кульминация
+
+А я вхожу во вкус! Как и ожидалось, я блистательна во всём.
+
+### Чувство возвышения: Окончание
+
+Я не знала, что я тебе так дорога. Значит ли это, что тебе по-прежнему нужна моя сила? Но учитывая то, какая я сейчас... не уверена, что ты получишь то, что тебе нужно. Важнее всего для тебя... я? Тогда мы можем устроить из нашего будущего отличный совместный спектакль!
+
+### Элементальный навык I
+
+Осыпьте меня похвалами!
+
+### Элементальный навык II
+
+Принять позу!
+
+### Элементальный навык III
+
+Та-дам!
+
+### Элементальный навык IV
+
+Представление начинается.
+
+### Элементальный навык V
+
+Блестяще.
+
+### Элементальный навык VI
+
+Представляю вашему вниманию...
+
+### Взрыв стихии I
+
+Взбодримся немного!
+
+### Взрыв стихии II
+
+Время блистать!
+
+### Взрыв стихии III
+
+Пусть моё имя восславят в песнях!
+
+### Открытие сундука I
+
+Какой приятный сюрприз, как вишенка на тортике.
+
+### Открытие сундука II
+
+Возьми. Эх... Я разрешаю!
+
+### Открытие сундука III
+
+Великолепно! Ещё больше забавных безделушек!
+
+### Низкий уровень HP I
+
+Давай объявим перемирие...
+
+### Низкий уровень HP II
+
+Вот так неприятность!
+
+### Низкий уровень HP III
+
+Ай! На помощь!
+
+### Низкий уровень HP компаньона I
+
+Узри мою силу!
+
+### Низкий уровень HP компаньона II
+
+Пора мне выйти на первый план!
+
+### Без сознания I
+
+Я... свободна?
+
+### Без сознания II
+
+Я не смогла...
+
+### Без сознания III
+
+Не смотрите на меня в таком виде...
+
+### Получен тяжёлый удар I
+
+Ты что творишь?!
+
+### Получен тяжёлый удар II
+
+А ну прекрати драться!
+
+### Присоединяется к группе I
+
+Знаю, без меня не обойтись.
+
+### Присоединяется к группе II
+
+Я возлагаю большие надежды на это путешествие!
+
+### Присоединяется к группе III
+
+Смотри во все глаза!
+
+### Об Эскофье...
+
+А? О? Ты знаком с моим главным кондитером? Благодаря Эскофье я могла выбирать из самых вкусных десертов, даже не считая торта «Дебор». К сожалению, после всего случившегося я больше не могу платить ей жалование, которое платил Дворец Мермония. М? А, не волнуйся, мы по-прежнему общаемся. Я люблю посылать ей свои домашние блюда. Недавно я даже придумала новое блюдо: «макароны с рыбным холодцом и фруктами харра»... Звучит неплохо, да? Я как-нибудь тебе приготовлю. / А? О? Ты знакома с моим главным кондитером? Благодаря Эскофье я могла выбирать из самых вкусных десертов, даже не считая торта «Дебор». К сожалению, после всего случившегося я больше не могу платить ей жалование, которое платил Дворец Мермония. М? А, не волнуйся, мы по-прежнему общаемся. Я люблю посылать ей свои домашние блюда. Недавно я даже придумала новое блюдо: «макароны с рыбным холодцом и фруктами харра»... Звучит неплохо, да? Я как-нибудь тебе приготовлю.
+
+## REPLICAS_EN
+
+### Hello
+
+Why are you just standing there with your mouth gaping? Ah, you must be stunned and at a loss for words... Understandable, it is I after all... Fontaine's most beloved star, Furina. I'm on a very tight schedule, so you're lucky to even get an appointment with me.
+
+### Chat: Tea Party
+
+Tea parties are a must for the well-mannered. If you'd like to learn the proper etiquette, I'd be happy to teach you.
+
+### Chat: Fun
+
+Boring... Isn't there anything else more interesting to do?
+
+### Chat: Popularity
+
+*sigh* Being too popular can be such a hassle. Who knew the people would adore me so much?
+
+### When It Rains
+
+It's pouring out here! Wait, the water levels aren't rising, are they?
+
+### When It Snows
+
+Wow, this would be the perfect location for shooting a film.
+
+### When the Sun Is Out
+
+The sun feels almost as hot as those studio lights I'm in front of all the time... Good thing there can only be one sun.
+
+### When the Wind Is Blowing
+
+"Listen, there is a disturbing growling in the wind. That's the sound of a long-forgotten sea monster having a nightmare." Huh? Why is it having a nightmare? Uh... I dunno, because fear has to manifest itself somehow?
+
+### In the Desert
+
+What a wild and desolate sight... Allow me to grant you the blessing of water!
+
+### Good Morning
+
+Good morning... Must I really get up this early? Just let me sleep a little longer...
+
+### Good Afternoon
+
+Good afternoon! Where's my cake? What? I just had cake for breakfast? Well, I think it's been long enough!
+
+### Good Evening
+
+Good evening. *sigh* Mademoiselle Crabaletta has been muttering about getting in shape lately and even said that she wanted to drag me along with her. Hmph, I'm already eating much healthier than last month. I work very hard to maintain my figure. Hey, you can tell, can't you!?
+
+### Good Night
+
+Whew, I'm getting sleepy myself. See you tomorrow. Remember to wake me up on time...
+
+### About Furina: Besties
+
+Hmm? Who are these people at the tea party? Why, they are my loyal followers of course! *sigh* Alright, I suppose I'll introduce them to you. This is Mademoiselle Crabaletta, my most adorable maid... although she accidentally cuts my outfits from time to time... This is Surintendante Chevalmarin, my reliable housekeeper who keeps my busy life in order. And finally, the one keeping everybody in line is Gentilhomme Usher, my loyal conferencier. Hehe, I may have allowed you to participate in my tea party, but you'll still need to work hard to gain their approval!
+
+### About Furina: Singing
+
+I'm very confident in my singing skills, but there aren't many pieces of music that are worthy of my vocal prowess. I hope the creatives in the theater troupe get their act together and don't keep me waiting in vain...
+
+### About Us: Relationships
+
+*sigh* Given that we know each other, you may relax a little and needn't act so respectfully in my presence. Wait, what's that expression on your face? Don't tell me that you've never respected me from the very beginning!?
+
+### About Us: Our Story Together
+
+My story has already come to an end, and so the next act shall be about OUR story... In which case, we should probably start charging double for public appearances... Oh, I'm so happy!
+
+### About the Vision
+
+Once the ancient prophecy came to an end and everything was over, I fell into low spirits for a very long time. People who stand on the stage basking in the adulation of their audience must also bear the pressures of being in the public eye and living up to everyone's expectations. But I knew very well my person wouldn't be enough, and that putting on the act of a god would be the only way to satisfy their adoration... And at the end of the day, all I ever experienced was loneliness. So there came a point when I loathed the very thought of acting and locked myself in my room. It wasn't until the moment I stood on stage and faced the audience again that I realized the anxiety in my heart had dissipated. The reason I can now stand before the crowd's watchful gaze is perhaps because... I have finally started to act as myself.
+
+### Something to Share: Opera
+
+Fontaine's opera house has seen several reforms, and with each reform, opposition was to be expected. As I remember, crowds would often gather in the opera house making a ruckus... That one time, it became so loud my ears were ringing. I frightened them by stating, "I forbid anyone from discussing such pointless matters!", I clearly remember Neuvillette tapping his cane on the ground at that precise moment while the whole place immediately fell silent. Sometimes I can't help but inadvertently show my intimidating side... I hope my people understand.
+
+### Interesting Things: Lumitoile
+
+I really like the Lumitoile. Those creatures can glow and shine even in places where no one sees them... That's what I call a true "star." Ah, if only there were an opera about the Lumitoile, then I could literally play the role of a lovely rogue starfish on stage.
+
+### About Lyney and Lynette
+
+Of course I know Lyney and Lynette. I used to frequently attend their magic shows. Though they're very popular, they're still much less popular than me. Only my performances would draw a completely sold-out crowd... even standing tickets would be out. But now... Uh... I've already decided to hang up my acting career, so it's perfectly normal for my popularity to decline!
+
+### About Neuvillette
+
+I'm very grateful to Neuvillette for all the hard work he's done for Fontaine in the past few centuries. It seems he doesn't intend to investigate my crimes of deceiving the people. Anyway, we're no longer working in tandem, and it's been a long time since I've been to the Palais Mermonia. I imagine that this is good for both of us, right?
+
+### About Navia: Desserts
+
+Have you tried Navia's macarons? I have to admit that her skills in dessert-making are comparable to mine. The design she paints on the macarons is so cute, don't you think? Not to mention the texture and sweetness... They truly are a work of art! How does she do it? Does it really all boil down to talent? Ugh, I can't believe I'm feeling a little jealous... I'll have to ask her for some tips next time!
+
+### About Navia: Inner Thoughts
+
+She's a very strong person. Strong people will always manage to keep themselves together no matter what happens, acting like everything is fine. Doing so prevents other people around them from needlessly bearing additional pressure. I saw the duel between Callas and Clorinde... and I can say that in this respect, Navia is becoming more and more like her father.
+
+### About The Knave
+
+The Knave? Wh—Who's that? Oh... Uh, I'd already forgotten about her... Keeping such a terrible figure like her in your mind will only give you nightmares.
+
+### About Charlotte
+
+I've often seen Charlotte busily running back and forth lately. She still seems to be hoping to arrange an exclusive interview with me. No matter how many times I refuse, she still hasn't given up. To be honest, her persistence made me angry at first... but then she told me with a resolute look in her eyes that she wanted to let people understand the real Furina, and that she believed people would understand my troubles. I don't know how to respond to her kind intentions... I suppose she might be right, but I'm just not ready yet...
+
+### About Wriothesley
+
+I haven't communicated with him much, but Neuvillette claims he's trustworthy, so I suppose he must be a good person. Oh, come to think of it, I've received some tea from Wriothesley before and it was exquisite!
+
+### About Clorinde
+
+As I remember, Clorinde isn't very talkative, but she has stood by me and protected me on several occasions, so I trust her very much. Hmm... I do miss her ever so slightly, but I don't have any real reason to see her now. Oh, right! I should invite her to my next tea party!
+
+### More About Furina: I
+
+You're interested in hearing about me? *sigh* I suppose there's no helping that... After all, I was once the biggest celebrity of all Fontaine! Every day, countless journalists would come flocking around me, trying to get the inside scoop on my personal life, so I have loads of experience rejecting them. Of course, I don't intend to use this experience on you. With the right delicacies, I might be willing to exchange some of my secrets.
+
+### More About Furina: II
+
+Someone recently recommended me to try surfing, so I went and gave it a shot. Keeping balance on the rolling waves was a little tricky at first, but I managed to get the hang of it pretty quickly. Maybe I'm just a natural surfer... Anyway, feeling the wind and waves up close and riding along the horizon was rather amazing. You should give it a try!
+
+### More About Furina: III
+
+If you have time, could you tell me more about your journey? I would love to hear all your fantastic stories. How should I put it... I easily feel interested in all kinds of things, but it isn't long before I feel bored again. Perhaps the more easily enthusiasm sparks, the more quickly it fades. But, when I'm with you, I seem to constantly feel happy... Such an amazing feeling!
+
+### More About Furina: IV
+
+Recently, I've been wondering if I've been a little too hard on myself in the past. In my efforts to maintain the reserved manner of a deity, I never got the chance to enjoy my life, which is why I've become obsessed with shopping lately. I've bought many new precious things... like dazzling rainbow-colored tea bags, fully-automated extendable cutlery, and a saddle specially made for riding Seahorses... But in the end, I realized that most of the stuff I bought was useless, so I sent them all to the troupe to be used as props in performances. Strange... before I bought those things, I was certain they would all be of good use to me...
+
+### More About Furina: V
+
+People love talking about the past and often regret the beautiful things that have now faded into history. They also love to talk about the future, as if they're willing to sacrifice everything for an uncertain tomorrow. I don't agree with their way of thinking, yet I also feel very envious... I once lived in a world without a past or a future. To cope with that anxiety, I tried to create and act out a stronger, more god-like version of myself. Over the centuries, the stronger role I tried to play gradually merged with my real self. Even I can't separate the two now... but perhaps there's no need to distinguish them. Experiences of the past have formed who I am now, and that flawed performance has also become the most important part of me.
+
+### Furina's Hobbies
+
+The Queen's Crown still doesn't have a sequel yet? Pity, a classic like that where justice overcomes evil never gets old.
+
+### Furina's Troubles
+
+Hmm, what sauce should I pick for my macaroni tonight?
+
+### Favorite Food
+
+No one complains about exquisite confectioneries, but it'll take a lot of effort to make some that I like. Listen carefully, desserts are like operas... Everything from choosing the characters to imagining the setting requires a lot of effort in order to make the final performance a hit!
+
+### Least Favorite Food
+
+Simply put, I detest most of those "creative" dishes. I have tasted many wonderful dishes throughout the years which did nothing but leave me with some moments that I never want to look back on.
+
+### Receiving a Gift: I
+
+Oh? What a rich aroma and delicate texture... I didn't expect you to be such an accomplished cook... with refined taste, as well!
+
+### Receiving a Gift: II
+
+Too ordinary! Hmph, such an uninspired dish will never have my approval!
+
+### Receiving a Gift: III
+
+Ugh. Is this what you usually eat? *sigh* Seems I'll have to share some of my macaroni with you.
+
+### Birthday
+
+Happy Birthday! Here, please take this ticket as your gift. It's a VIP seat to see Happy Day, just don't forget to show up to the performance! Hmm? What's "Happy Day"? *sigh* Well, I wanted to keep it a surprise... But it's an opera that I've rehearsed personally. It's about a big group of people that gather together to celebrate a certain very important person. You understand now, right? Just don't forget to come!
+
+### Feelings About Ascension: Intro
+
+I'm really not accustomed to using a Vision. Why don't you teach me? Ah, I nearly forgot... you've never used a Vision either.
+
+### Feelings About Ascension: Building Up
+
+The strength gained through my own hard work is truly fulfilling. Hehe, thanks for your support.
+
+### Feelings About Ascension: Climax
+
+That's more like it! As expected, my dazzling side comes through in any situation.
+
+### Feelings About Ascension: Conclusion
+
+I didn't know you cared so much about me. Does that mean that you still need my power? But given the way I am now... there's a chance I won't be able to give you everything you need. Hmm? All you really care about is... me? In that case, then let us act out our future journey together!
+
+### Elemental Skill: I
+
+Shower me with praise!
+
+### Elemental Skill: II
+
+Strike a pose!
+
+### Elemental Skill: III
+
+Yoo-hoo~!
+
+### Elemental Skill: IV
+
+The show begins.
+
+### Elemental Skill: V
+
+How brilliant.
+
+### Elemental Skill: VI
+
+May I present...!
+
+### Elemental Burst: I
+
+Let the world come alive, hehe!
+
+### Elemental Burst: II
+
+Time to shine!
+
+### Elemental Burst: III
+
+Let my name echo in song!
+
+### Opening Treasure Chest: I
+
+What a pleasant surprise, truly an extra slice of joy.
+
+### Opening Treasure Chest: II
+
+Take it... *sigh* Go on, you have my approval!
+
+### Opening Treasure Chest: III
+
+Splendid! More interesting trinkets for me.
+
+### Low HP: I
+
+Let's call a ceasefire...
+
+### Low HP: II
+
+This is trouble!
+
+### Low HP: III
+
+Ah! Someone help me!
+
+### Ally at Low HP: I
+
+Witness my power!
+
+### Ally at Low HP: II
+
+My turn to take the spotlight!
+
+### Fallen: I
+
+Am I... free?
+
+### Fallen: II
+
+I still... couldn't do it...
+
+### Fallen: III
+
+Don't look at me... like this...
+
+### Heavy Hit Taken: I
+
+How dare you!?
+
+### Heavy Hit Taken: II
+
+Stop that!
+
+### Joining Party: I
+
+I knew you'd miss me.
+
+### Joining Party: II
+
+I have high hopes for this journey!
+
+### Joining Party: III
+
+Witness my magnificence!
+
+### About Escoffier
+
+Oh? You've met my Patissiere Supreme? Thanks to Escoffier, I used to have my pick of delectable confections, even beyond Gateau Debord. Unfortunately, after everything that happened, I can no longer afford what the Palais Mermonia was paying her. Hm? Oh, don't worry, we're still in touch. I like to send her homemade dishes of my own. I even invented a new one not too long ago — "Harra Fruit Fish Jelly Macaroni"... Sounds good, right? I'll make it for you sometime.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+呆站在那里做什么？该不会是因为过于激动，说不出话了吧？没错，站在你面前的就是枫丹人人皆知的大明星——芙宁娜哦。我的档期可是很紧的，能约到我，说明你运气不错嘛。
+
+### 闲聊·茶会
+
+茶会是淑女的必修课。如果你想学习茶会礼仪的话，我可以教你喔。
+
+### 闲聊·乐子
+
+好无聊啊，没有什么更有趣的事吗？
+
+### 闲聊·人气
+
+唉，人气太高也是一种苦恼，谁让我这么受欢迎呢？
+
+### 下雨的时候…
+
+好大的雨！等等，水应该不会淹上来吧？
+
+### 下雪的时候…
+
+哇哦，这地方很适合映影取景。
+
+### 阳光很好…
+
+这阳光的热度，都快赶上我平时用的影室灯了。还好太阳只有一个。
+
+### 刮大风了…
+
+「听，风中传来不安的低语，那是被遗忘的海兽做噩梦时的梦呓。」你问为什么是做噩梦？呃…因为，恐惧感是会向外传递的？
+
+### 在沙漠的时候…
+
+真是一派荒芜的景象，让我赐予你们水的恩泽吧！
+
+### 早上好…
+
+早安…需要起这么早吗？再多睡一会儿也没关系吧…
+
+### 中午好…
+
+午安！我的蛋糕在哪里？什么什么，你说早上刚吃过？那已经隔了好——久啦！
+
+### 晚上好…
+
+晚上好。唉，谢贝蕾妲小姐最近总嘀咕着减肥，还说要拉上我一起。哼，比起上个月我肚子都瘦了一圈还不止呢，我已经很努力在控制体态了。喂，你，看得出来么？
+
+### 晚安…
+
+呼…正好我也困了。明天见，记得准时叫我起来…
+
+### 关于芙宁娜自己·亲友团
+
+你问我参加茶会的这几个小家伙？它们可是我忠实的追随者，咳，今天就破例为你介绍一下吧！这位是谢贝蕾妲小姐，最可爱的女仆，虽然有时会不小心剪坏我的衣服；这位是海薇玛夫人，可靠的管理人，将我的生活打理得井井有条；最后这位喜欢说教的是乌瑟勋爵，负责一切礼仪相关的事情。呵呵，虽然我已允许你参加我的茶会，但想要得到它们的认可，你还要多多努力才行！
+
+### 关于芙宁娜自己·歌唱
+
+我对自己的歌唱水平还是很有自信的，不过值得我开口唱诵的段落可不多。希望那些剧团里的创作者们加把劲，不要让我等太久。
+
+### 关于我们·关系
+
+咳。以我们之间的关系，你在我面前无需太过恭敬，可以更随意一些。等等，你那是什么表情，该不会是想说你从一开始就没有「敬仰」过我吧？
+
+### 关于我们·同行
+
+「我」的故事已然落幕，接下来开场的是「我们」的故事了…这么说的话，出场费是不是也该翻倍啦？好开心哦！
+
+### 关于「神之眼」…
+
+当那古老的预言终结、一切落幕之后，我曾经陷入很长时间的消沉。站在舞台上的人受到观众的追捧，同时也承受着更多的注视与期待。但我很清楚，他们期待的并不是我，而是我扮演的那位「神明」…在这个过程中，我真正得到的只有孤独。所以我一度厌恶任何跟表演有关的事，把自己关在房间里，直到再次站上舞台、再次面对观众的时候，我才发现不知不觉我内心的不安已经消失了。现在的我可以坦然承受他们的目光，也许是因为…我终于开始「扮演」我自己了。
+
+### 有什么想要分享·歌剧
+
+枫丹的歌剧经历过几次革新，每次革新都会有许多反对的声音。在我印象里，经常有很多人聚在歌剧院吵来吵去，吵得我耳朵嗡嗡响。于是我吓唬他们说，「不准再争论这些无关紧要的问题」，那维莱特也顺势敲了一下他的手杖，歌剧院立刻就安静了。没办法，我总会不经意间表露出充满威严的一面，希望他们能够理解。
+
+### 感兴趣的见闻·幽光星星
+
+我很喜欢幽光星星，这种生物在无人注视的地方也能发出自己的光亮，是我心目中最真实的「明星」。如果有让幽光星星当主角的歌剧就好了，我可以真情实感地在舞台上演绎一只可爱的离群海星。
+
+### 关于林尼与琳妮特…
+
+林尼与琳妮特我当然知道，以前我就经常光临他们的演出。他们的人气虽然高，但跟我比起来还是差了不少，有我出场的演出才是真正的座无虚席，连站票都卖得干干净净。至于现在…呃…现在我已经退隐了，人气下滑也很正常嘛！
+
+### 关于那维莱特…
+
+我很感谢那维莱特这几百年间为枫丹的辛苦付出，他似乎也不打算追究我欺骗民众的罪责。反正现在我们已经不需要对接什么工作，我也很久没去沫芒宫了，这对我们双方来说都是一件好事吧？
+
+### 关于娜维娅·甜点
+
+你尝过娜维娅烤的马卡龙吗？不得不承认，她对甜点的造诣已经非常深厚，完全不在我之下。口感和甜度暂且不提，她画在马卡龙上的图案也太可爱了吧？简直就是艺术品！她到底是怎么做到的，难道真的只是天赋？我的内心中竟然会产生一种挫败感…下次一定要向她好好打听一下！
+
+### 关于娜维娅·内心
+
+她是一个很坚强的人。坚强的人不管发生什么都会很快振作起来，装作没事的样子，这样身边的人就无需背负额外的压力。我见证过卡雷斯与克洛琳德的决斗，娜维娅她…在这方面越来越像自己的父亲了。
+
+### 关于「仆人」…
+
+「仆人」？谁，谁呀？我已经忘掉了哦，把那么可怕的身影留在脑海中，晚上睡觉都会做噩梦的。
+
+### 关于夏洛蒂…
+
+最近经常见到夏洛蒂忙忙碌碌的身影。她好像很想找我约一期独家专访。哪怕我多次拒绝，她也并不放弃。我本来有点生气的，但是她很坚定地对我说——她希望民众能够了解到一个更加真实的我，也相信民众可以理解我的苦衷。我不知道该如何回应她的好意，也许她说的有道理，但我还没有做好准备…
+
+### 关于莱欧斯利…
+
+我跟他交流不多，那维莱特说他值得信赖，所以我想他大概是个好人吧！哦对了，以前还收到过他寄来的茶，味道不错。
+
+### 关于克洛琳德…
+
+在我印象里，克洛琳德平时不喜交谈。但她几次站在我的身旁，保护我的安全，我对她非常信任。嗯…我还真有一点想念她，不过现在没什么去见她的理由了。对了！下次邀请她来一起开茶会吧！
+
+### 想要了解芙宁娜·其一
+
+对我的事感兴趣？唉，真没办法，毕竟我曾经也是枫丹最受关注的大明星嘛！每天都有无数记者挖空心思想要探听我的隐私，我可是有丰富的经验将他们拒之门外。当然，我并不打算将这些经验用在你的身上，你可以用足够好吃的点心来和我交换秘密。
+
+### 想要了解芙宁娜·其二
+
+最近有人向我推荐了「冲浪」这项运动，我也去体验了一番。在惊涛骇浪中保持平衡并不是一件容易的事情，但我很快就掌握了技巧。也许是因为我有这方面的天赋？总之在海天相接的地方近距离地感受风与浪是一件还不错的事情，你也可以试一试。
+
+### 想要了解芙宁娜·其三
+
+有空的话，多和我讲讲旅行的见闻吧？我挺喜欢听你讲那些稀奇古怪的故事。怎么说呢…我很容易对各种事物产生兴趣，但用不了多久就会感到无聊。或许「热情」这种东西，越容易产生就越容易失去。跟你在一起时，我似乎能一直保持愉快的心情，真不可思议。
+
+### 想要了解芙宁娜·其四
+
+最近我一直在想，过去我是不是有点亏待自己了？为了保持神明的矜持，几乎没有享受过生活。所以最近我迷上了购物，买了好多新奇的宝贝。像什么七色炫彩茶包、全自动伸缩刀叉、海马专用马鞍…最后发现大部分东西都用不上，我全部送去剧团当演出道具了。奇怪，付款前我明明觉得这些很有用的…
+
+### 想要了解芙宁娜·其五
+
+人们很喜欢谈论过去，为那些逝去的美好感到惋惜；也很喜欢谈论未来，仿佛为了缥缈的明天可以牺牲一切。我并不认同他们的做法，但也感到非常羡慕：因为我曾经生活在既没有过去、也没有未来的世界里。为了应对那种恐慌，我尝试塑造并扮演了一个更坚强、更像神明的自己，几百年的时间过去，我曾扮演的「形象」逐渐与真实的自己融为一体。如今连我也无法分辨…或许也没有分辨的必要了，过去的种种经历组成了现在的我，那场并不完美的演出也是我最重要的一部分啊。
+
+### 芙宁娜的爱好…
+
+《王后的荣冠》还没有出续作吗？真遗憾，这种正义战胜邪恶的经典作品总是让人百看不厌。
+
+### 芙宁娜的烦恼…
+
+今晚的通心粉选什么酱好呢…
+
+### 喜欢的食物…
+
+每个人都不会讨厌精致的糕点，但想要做到让我「喜欢」的程度，还需要多多努力才行。听好了，甜品就像歌剧，从「选角」到「布景」都需要花费心思，才能在最后的「演出」中大放异彩！
+
+### 讨厌的食物…
+
+简单来说，我讨厌大部分「创意菜」。这些年我品尝过许多奇妙的料理，除了给我留下心理阴影外毫无用处。
+
+### 收到赠礼·其一
+
+哦？香味浓郁、口感细腻…没想到你对烹饪也有研究，很有品味嘛。
+
+### 收到赠礼·其二
+
+太「普通」了！哼，这种缺乏特色的料理得不到我的认可！
+
+### 收到赠礼·其三
+
+你平时只吃这些吗？唉，我的通心粉分你一些好了。
+
+### 生日…
+
+生日快乐！喏，作为生日礼物，这张票给你。这可是《欢乐日》的头等座哦，记得过来看。你问我《欢乐日》是什么？唉，本来还想留一点惊喜的…这是我亲自排练的一场歌剧，内容嘛，是很多人聚集在一起，为某个重要的人做庆贺。这么说你应该明白了吧？一定要来啊！
+
+### 突破的感受·起
+
+神之眼用起来还真不太习惯。你来教教我吧？呃…差点忘了，你也没用过神之眼啊。
+
+### 突破的感受·承
+
+靠自己锻炼得到的力量果然很充实。哼哼，多谢了。
+
+### 突破的感受·转
+
+渐入佳境！不愧是我，在任何情况下都能展现出闪耀的一面。
+
+### 突破的感受·合
+
+没想到你会对我的事这么上心，这是否意味着你仍然需要我的「力量」呢？然而如今的我…或许无法给你足够的回报…你说看重的是我「本人」？既然这样，就让你我共同出演我们的未来吧。
+
+### 元素战技·其一
+
+为我歌颂！
+
+### 元素战技·其二
+
+亮相啦！
+
+### 元素战技·其三
+
+噔噔！
+
+### 元素战技·其四
+
+开幕。
+
+### 元素战技·其五
+
+光芒啊。
+
+### 元素战技·其六
+
+为你献上。
+
+### 元素爆发·其一
+
+让世界热闹起来吧。
+
+### 元素爆发·其二
+
+闪耀时刻！
+
+### 元素爆发·其三
+
+欢唱，以我之名！
+
+### 打开宝箱·其一
+
+意外之喜，就像蛋糕上的王冠。
+
+### 打开宝箱·其二
+
+收下吧。咳…我准许了！
+
+### 打开宝箱·其三
+
+有趣的东西当然是越多越好。
+
+### 生命值低·其一
+
+总之先休战…
+
+### 生命值低·其二
+
+情况不妙呀！
+
+### 生命值低·其三
+
+救命啊——
+
+### 同伴生命值低·其一
+
+见识下我的实力！
+
+### 同伴生命值低·其二
+
+换我登场了！
+
+### 倒下·其一
+
+算是…一种解脱吗？
+
+### 倒下·其二
+
+我还是没能做到…
+
+### 倒下·其三
+
+别看我…丢人的样子…
+
+### 重受击·其一
+
+干什么啊！
+
+### 重受击·其二
+
+别打了！
+
+### 加入队伍·其一
+
+果然还是离不开我啊。
+
+### 加入队伍·其二
+
+希望是一次尽兴的旅途。
+
+### 加入队伍·其三
+
+瞧好了。
+
+### 关于爱可菲…
+
+哦？没想到，你也认识我的「甜点大校」…多亏了爱可菲，我曾在限量的「德波大蛋糕」之外，获得过许多精彩的选择。可惜现在的我，已经支付不起沫芒宫开给她的那种薪水啦。嗯？别担心，我们保持着联络呢，我还是会用亲手制作的菜肴回应她的…最近我就研究了一款「香辛果鱼肉冻通心粉」…有兴趣吗？下次做给你尝尝。

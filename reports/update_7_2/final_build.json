@@ -1,0 +1,37 @@
+[
+  {
+    "command": "python3 tools/build_archive.py",
+    "exit_code": 0,
+    "result": "books111 artifacts63 weapons253 items291 stories443 enemies280"
+  },
+  {
+    "command": "python3 tools/build_bot_mentions_index.py",
+    "exit_code": 0,
+    "entries": 1161,
+    "phrases": 35078,
+    "broken_entries": 0,
+    "version": "bot_mentions:fef213d9e6fc"
+  },
+  {
+    "command": "python3 tools/build_bot_runtime_index.py",
+    "exit_code": 0,
+    "entries": 1161,
+    "phrases": 35078
+  },
+  {
+    "command": "python3 tools/build_js.py",
+    "exit_code": 0,
+    "modules": 13
+  },
+  {
+    "command": "python3 tools/bump_cache_version.py",
+    "exit_code": 0,
+    "cache_version": 796
+  },
+  {
+    "command": "python3 tools/build_pwa.py",
+    "exit_code": 0,
+    "release": "7826e45294601abf",
+    "offline_assets": 57
+  }
+]

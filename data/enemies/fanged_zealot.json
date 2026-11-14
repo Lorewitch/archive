@@ -1,0 +1,82 @@
+{
+  "id": "fanged_zealot",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/fanged_zealot.webp",
+  "title": {
+    "ru": "Безумец с бивнями",
+    "en": "Fanged Zealot",
+    "zh": "牙兽狂徒"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Безумец с бивнями",
+    "Fanged Zealot",
+    "牙兽狂徒"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nСреди всех волкодлаков именно те, что обликом напоминают гигантских слонов или мамонтов, принадлежат к самым благородным кровным линиям. В прошлом их кланы дали миру множество выдающихся полководцев, а многие даже входили в личную свиту Царя Зверей.\nОднако чем сильнее отдельный альв и чем дольше он живёт, тем труднее ему образовать многочисленное сообщество. Поэтому в современной Снежной такие волкодлаки встречаются гораздо реже остальных.",
+    "en": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\nAmong the many different Volkodlaks, those resembling giant elephants or mammoths possess some of the noblest bloodlines. Their clan once produced many formidable war leaders, many of whom even served as close retainers to the King of Beasts.\nYet the greater an individual fae's power and the longer its life, the harder it becomes for such beings to form a clan. Compared with other Volkodlaks, this type is now far rarer in Snezhnaya.",
+    "zh": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\n在诸多不同的兽怪之中，形如巨象或猛犸的兽怪也是血脉最为高贵的一类。从前他们的氏族中多是了不起的战将，其中许多甚至是兽之王的长随。\n只不过个体力量越是强大，寿命越是悠久的妖精，就越发难以构成族群。相较其他兽怪，在如今的至冬，这类兽怪要罕见许多。"
+  },
+  "description": {
+    "ru": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nСреди всех волкодлаков именно те, что обликом напоминают гигантских слонов или мамонтов, принадлежат к самым благородным кровным линиям. В прошлом их кланы дали миру множество выдающихся полководцев, а многие даже входили в личную свиту Царя Зверей.\nОднако чем сильнее отдельный альв и чем дольше он живёт, тем труднее ему образовать многочисленное сообщество. Поэтому в современной Снежной такие волкодлаки встречаются гораздо реже остальных.",
+    "en": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\nAmong the many different Volkodlaks, those resembling giant elephants or mammoths possess some of the noblest bloodlines. Their clan once produced many formidable war leaders, many of whom even served as close retainers to the King of Beasts.\nYet the greater an individual fae's power and the longer its life, the harder it becomes for such beings to form a clan. Compared with other Volkodlaks, this type is now far rarer in Snezhnaya.",
+    "zh": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\n在诸多不同的兽怪之中，形如巨象或猛犸的兽怪也是血脉最为高贵的一类。从前他们的氏族中多是了不起的战将，其中许多甚至是兽之王的长随。\n只不过个体力量越是强大，寿命越是悠久的妖精，就越发难以构成族群。相较其他兽怪，在如今的至冬，这类兽怪要罕见许多。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112152",
+      "title": {
+        "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+        "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+        "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112152.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112152",
+          "title": {
+            "ru": "Наросший осколок",
+            "en": "Accreted Fragment",
+            "zh": "沉积残片"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp"
+        },
+        {
+          "key": "material_112153",
+          "title": {
+            "ru": "Осадочный сгусток",
+            "en": "Accreted Mass",
+            "zh": "沉积结块"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112153.webp"
+        },
+        {
+          "key": "material_112154",
+          "title": {
+            "ru": "Осадочный нарост",
+            "en": "Accreted Growth",
+            "zh": "沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112154.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

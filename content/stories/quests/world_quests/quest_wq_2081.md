@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 10008
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_2081
 # quest_series: Witch's Homework
 # version_source: verified_override
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 10008
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 70
 
 ## RU
 
@@ -33,6 +36,10 @@
 Согласно словарю ведьмы, это задание будет проходить в Вольфендоме. Отправляйтесь туда и посмотрите, что вас ждёт на этот раз...
 
 #### Отправляйтесь в Вольфендом
+
+#### Отправляйтесь в Вольфендом
+
+#### Поговорите с Рэйзором
 
 **Паймон:** Рэйзор!
 
@@ -50,9 +57,15 @@
 
 **Паймон:** Рэйзор, неужели у волчьей стаи снова нет еды, и всем нужно идти на охоту?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Дай мне капкан...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...Лесные кабаны выросли крупными.
+
+##### Общее продолжение
 
 **Рэйзор:** Нет. Эта охота не ради еды.
 
@@ -92,9 +105,17 @@
 
 **Рэйзор:** Лорд загонит их в ловушку, а мы... разделаемся с ними.
 
-**Рэйзор:** Дай знать, когда будешь готов(а). И мы начнём охоту.
+**Рэйзор:** Дай знать, когда будешь готов. И мы начнём охоту. / Дай знать, когда будешь готова. И мы начнём охоту.
 
-Сейчас же выдвигаемся!
+- **Путешественник:** Сейчас же выдвигаемся!
+
+#### Поймайте монстров Бездны
+
+#### Поймайте монстров Бездны
+
+#### Идите дальше
+
+#### Защитите стаю
 
 #### Защитите стаю
 
@@ -116,13 +137,19 @@
 
 **Паймон:** Верно сказано, Рэйзор!
 
-Возможно, Бореалис согласился помочь...
+- **Путешественник:** Возможно, Бореалис согласился помочь...
 
-...потому что он знает твои чувства.
+- **Путешественник:** ...потому что он знает твои чувства.
 
 **Рэйзор:** Правда?
 
 **Паймон:** Да! Именно так! Давай объединим силы с волками и прогоним этих негодяев!
+
+#### Идите дальше
+
+#### Идите дальше
+
+#### Уничтожьте стаю чёрных волков
 
 #### Поговорите с Рэйзором
 
@@ -142,7 +169,7 @@
 
 **Рэйзор:** Но я и Лупикал будем их преследовать... несмотря ни на что.
 
-...Не забывай о нас.
+- **Путешественник:** ...Не забывай о нас.
 
 **Паймон:** Да-да, если тебе нужна будет помощь, обязательно говори, мы поможем!
 
@@ -156,7 +183,7 @@
 
 **Рэйзор:** Мне... пора идти. Спасибо... за помощь.
 
-Не стоит благодарности. Для этого и нужна Лупикал.
+- **Путешественник:** Не стоит благодарности. Для этого и нужна Лупикал.
 
 Вольфендом обрёл недолгое, но долгожданное спокойствие. Рэйзор попрощался с вами и скрылся в лесу.
 
@@ -169,6 +196,10 @@
 According to the witch's dictionary, this assignment takes place in Wolvendom. Go there and see what awaits you this time...
 
 #### Go to Wolvendom
+
+#### Go to Wolvendom
+
+#### Talk to Razor
 
 **Paimon:** Razor!
 
@@ -186,9 +217,15 @@ According to the witch's dictionary, this assignment takes place in Wolvendom. G
 
 **Paimon:** Are the wolves out of food? Is that why you're going on a hunt?
 
+##### Response branch 1
+
 - **Traveler:** Give me some beast traps...
 
+##### Response branch 2
+
 - **Traveler:** The forest boars have grown big enough.
+
+##### Shared continuation
 
 **Razor:** No. This hunt is not for food.
 
@@ -230,7 +267,15 @@ According to the witch's dictionary, this assignment takes place in Wolvendom. G
 
 **Razor:** Tell me when ready. We start hunt.
 
-Let's do this!
+- **Traveler:** Let's do this!
+
+#### Hunt the Abyssal monsters
+
+#### Hunt the Abyssal monsters
+
+#### Continue onward
+
+#### Protect the wolf pack
 
 #### Protect the wolf pack
 
@@ -252,13 +297,19 @@ Let's do this!
 
 **Paimon:** Well said, Razor!
 
-Maybe Lupus Boreas agreed to let the pack help...
+- **Traveler:** Maybe Lupus Boreas agreed to let the pack help...
 
-Because he knows your heart.
+- **Traveler:** Because he knows your heart.
 
 **Razor:** You... think so?
 
 **Paimon:** Yeah, absolutely! Now, c'mon! Let's go kick some Rifthound butt!
+
+#### Continue onward
+
+#### Continue onward
+
+#### Eliminate the dark brood
 
 #### Talk to Razor
 
@@ -278,7 +329,7 @@ Because he knows your heart.
 
 **Razor:** But, me and Lupical will hunt them down... no matter what.
 
-...Don't forget about us, now.
+- **Traveler:** ...Don't forget about us, now.
 
 **Paimon:** Yeah, if you ever need help, just say the word! We're here for you!
 
@@ -292,7 +343,7 @@ Because he knows your heart.
 
 **Razor:** Then... I should go. Thank you... for the help.
 
-Don't mention it! That's what Lupical is for!
+- **Traveler:** Don't mention it! That's what Lupical is for!
 
 With Wolvendom safe for now, Razor bids you farewell and head into the forest.
 
@@ -305,6 +356,10 @@ Amid the dense foliage, you notice several pairs of eyes regarding him with warm
 根据魔女所赠予的辞典的引导，这次的「课题」似乎需要在奔狼领进行，去奔狼领看看这次的「课题」是什么样的吧…
 
 #### 前往奔狼领
+
+#### 前往奔狼领
+
+#### 与雷泽交谈
 
 **派蒙:** 雷泽——
 
@@ -322,9 +377,15 @@ Amid the dense foliage, you notice several pairs of eyes regarding him with warm
 
 **派蒙:** 雷泽，难道是狼群又没有吃的东西，所以大家要开始打猎…
 
+##### 对话分支 1
+
 - **旅行者:** 请给我捕兽夹…
 
+##### 对话分支 2
+
 - **旅行者:** 林猪长得够大了。
+
+##### 共同后续
 
 **雷泽:** 不，不是…这次的打猎，不是为了填饱肚子。
 
@@ -366,7 +427,15 @@ Amid the dense foliage, you notice several pairs of eyes regarding him with warm
 
 **雷泽:** …准备好，跟我说一声，就开始，狩猎。
 
-现在就出发吧！
+- **旅行者:** 现在就出发吧！
+
+#### 狩猎深渊魔物
+
+#### 狩猎深渊魔物
+
+#### 继续前进
+
+#### 保护狼群
 
 #### 保护狼群
 
@@ -388,13 +457,19 @@ Amid the dense foliage, you notice several pairs of eyes regarding him with warm
 
 **派蒙:** 说得对，雷泽！
 
-或许王狼会答应…
+- **旅行者:** 或许王狼会答应…
 
-是因为雷泽的这份心意。
+- **旅行者:** 是因为雷泽的这份心意。
 
 **雷泽:** 是吗？
 
 **派蒙:** 嗯！一定是这样！好，我们就和狼群一鼓作气，把坏蛋们全都赶跑吧！
+
+#### 继续前进
+
+#### 继续前进
+
+#### 消灭黑色的狼群
 
 #### 与雷泽对话
 
@@ -414,7 +489,7 @@ Amid the dense foliage, you notice several pairs of eyes regarding him with warm
 
 **雷泽:** 不过，有我和「卢皮卡」们，我们会一起…
 
-…还有我和派蒙。
+- **旅行者:** …还有我和派蒙。
 
 **派蒙:** 对对，要是需要帮助，一定要告诉我们，我们也会帮忙的！
 
@@ -428,7 +503,7 @@ Amid the dense foliage, you notice several pairs of eyes regarding him with warm
 
 **雷泽:** 那我，要离开了，谢谢，你们。
 
-不用谢，这是「卢皮卡」该做的。
+- **旅行者:** 不用谢，这是「卢皮卡」该做的。
 
 奔狼领获得了短暂但久违的平静，雷泽与你作了简单的告别，步入了奔狼领的丛林之中。
 

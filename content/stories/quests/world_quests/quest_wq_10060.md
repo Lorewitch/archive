@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 72241,72247,72248,72249
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10060
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 72241,72247,72248,72249
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,108 +28,15 @@
 
 По словам духа по имени Абэраку, он сможет обрести покой, только когда три фрагмента его души будут возвращены в тело...
 
-
-**Абэраку:** Пожалуйста, принеси подношения из Теснины, Храма вечной ночи и Сердца змея. Так моя душа обретёт целостность, и я смогу открыть для тебя путь к Дайнити Микоси...
-
-
-**Паймон:** Подношение сделано...
-
-**Паймон:** Как-то призрак говорил, что подношение может открыть путь к Дайнити Микоси...
-
-**Паймон:** Почему бы нам не подняться и не посмотреть, Путешественник?
-
-
-**Абэраку:** Пожалуйста, принеси подношения из Теснины, Храма вечной ночи и Сердца змея. Так моя душа обретёт целостность, и я смогу открыть для тебя путь к Дайнити Микоси...
-
-
-**Абэраку:** О, путешественник / ца из далёких земель, это вы.
-
-**Абэраку:** Благодаря вам моя душа опять цела, и воспоминания возвращаются. Невероятно.
-
-**Абэраку:** Возможно, вы уже знаете, что в далёком прошлом в Бякуякоку царила лишь кромешная тьма и что те, кто жил в ней, пребывали в страхе перед Драконом глубин.
-
-**Абэраку:** В те времена именно я организовал строительство Дайнити Микоси, и таким образом в Бякуякоку появилась смена дня и ночи. Отсюда зародилось название «Бякуя».
-
-**Абэраку:** Было сказано, что: «Теперь, когда построен Дайнити Микоси, хоть эта земля и пребывает в вечной ночи, мы, по крайней мере, можем отличить чёрное от белого».
-
-**Абэраку:** Как обидно, что пока осколки моей души не воссоединились, я даже не мог вспомнить тот день, когда люди толпились вокруг завершённого Дайнити Микоси.
-
-**Абэраку:** Это, должно быть, было моё самое любимое воспоминание.
-
-**Абэраку:** Но увы...
-
-**Паймон:** Увы?
-
-**Абэраку:** Когда Дайнити Микоси был построен, а Дракон глубин побеждён, отогнан светом, к которому он не привык, люди вновь зажили спокойно.
-
-**Абэраку:** Но как только воцарился мир... Ах, человеческое сердце трудно постичь. Кто знал тогда, что они начнут вынашивать столь злые планы?
-
-**Абэраку:** О путешественник / ца из далёких земель, я уверен, что вы знаете, как жадны могут быть злодеи до богатства и власти... Они посягнули на большее, чем когда-либо заслуживали!
-
-**Абэраку:** Они стали использовать народ, внушая им, что надо поклоняться Дайнити Микоси. А народ дошёл в своём невежестве до предела, начав верить в неодушевлённые предметы.
-
-**Абэраку:** В конце концов они провозгласили власть Сына СФаэтонаолнца.
-
-Сына Солнца?
-
-**Абэраку:** Да, какого-нибудь ребёнка выбирают Сыном Солнца.
-
-**Абэраку:** Конечно, такие дети не могли знать, как устроен мир. Они не могли править, поэтому оставались марионетками, соглашаясь с теми, кто дёргал их за ниточки, оставаясь за троном.
-
-**Абэраку:** Я хотел воспротивиться этому, но Сын Солнца по наущению своего двора обвинил меня в государственной измене и заключил здесь в тюрьму.
-
-**Паймон:** А, Сын Солнца...
-
-**Паймон:** Но разве в итоге Сын Солнца не поймёт, что им манипулируют?
-
-**Абэраку:** Именно поэтому ни один Сын Солнца так и не достиг зрелости. Ибо, как ты и говоришь, взрослые не так легко поддаются влиянию злодеев.
-
-**Абэраку:** «Сын Солнца святой в свой день рожденья
-На Пегасе летит в дань уваженья».
-
-- **Путешественник:** Значит ли это...
-
-- **Путешественник:** То есть на один из дней рождения...
-
-**Абэраку:** Да. Их отводили во внутреннее святилище Дайнити Микоси, нарядив в праздничные одежды. И пока они в приподнятом настроении...
-
-**Абэраку:** Спрятанные здесь вещи связаны с ними.
-
-**Абэраку:** Золотая уздечка - доказательство того, что человек действительно Сын Солнца. Я спрятал её здесь, думая когда-нибудь передать людям и рассказать им... Но, полагаю, теперь это не имеет смысла.
-
-**Абэраку:** Путешественник / ца из далёких земель... Я не смог защитить ни этих детей, ни народ.
-
-**Абэраку:** Меня зовут...
-
-**Абэраку:** ...Абэраку, создатель Гелиоса!
-
-**Абэраку:** Я организовал строительство Дайнити Микоси. Это я высоко повесил сияющее зеркало, когда царила вечная ночь, и я считал себя гением.
-
-**Абэраку:** Такой талант! Такие способности!
-
-**Абэраку:** Я мечтал с помощью Дайнити Микоси изгнать тьму, но тогда я ещё не знал, что настоящая всепожирающая вечная ночь таится в чёрных сердцах жадных людей.
-
-**Абэраку:** Гость / Гостья из далёких земель, я передаю тебе эту Золотую уздечку.
-
-**Абэраку:** Она свидетельство нашей в высшей степени смехотворной истории...
-
-**Абэраку:** Храни её... Делай с ней всё, что пожелаешь.
-
-Это слишком ценный подарок...
-
-**Абэраку:** Ха! Нет, она уже потеряла смысл. То, что я восстановил целостность своей души и смог вручить уздечку тебе, - это судьба. Мирный конец существования непростой реликвии.
-
-**Абэраку:** Ах... Такой талант, такие способности...
-
 **Абэраку:** Меня зовут...
 
 **Абэраку:** ...Абэраку, создатель Гелиоса!
 
 **Паймон:** А я Паймон.
 
-- **Путешественник:** Мы представляемся друг другу?
+##### Вариант ответа 1
 
-- **Путешественник:** Меня зовут...
+- **Путешественник:** Мы представляемся друг другу?
 
 **Паймон:** Ну, раз уж он начал...
 
@@ -137,11 +46,17 @@
 
 **Паймон:** Не волнуйся! Мы не против. Правда, Путешественник?
 
-**Абэраку:** Понятно... Значит, ты путешественник / ца из далёких земель.
+##### Вариант ответа 2
+
+- **Путешественник:** Меня зовут...
+
+**Абэраку:** Понятно... Значит, ты путешественник из далёких земель. / Понятно... Значит, ты путешественница из далёких земель.
 
 **Абэраку:** Простите, что принимаю вас в таком плачевном состоянии.
 
 **Паймон:** Всё нормально.
+
+##### Общее продолжение
 
 **Паймон:** И всё же, почему вы здесь?
 
@@ -159,21 +74,27 @@
 
 **Абэраку:** ...Дайнити Микоси.
 
-**Абэраку:** Гелиос - это Дайнити Микоси, солнечная колесница, которая везёт ГипеБякуя но Хикаририон.
+**Абэраку:** Гелиос - это Дайнити Микоси, солнечная колесница, которая везёт Гипе(Бякуя но Хикари)рион.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Создатель Дайнити Микоси?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты?
+
+##### Общее продолжение
 
 **Абэраку:** Да.
 
-**Абэраку:** О путешественник / ца из далёких земель! Хотя я создал его, меня арестовали и заключили в тюрьму над собственным творением.
+**Абэраку:** О путешественник из далёких земель! Хотя я создал его, меня арестовали и заключили в тюрьму над собственным творением. / О путешественница из далёких земель! Хотя я создал его, меня арестовали и заключили в тюрьму над собственным творением.
 
 **Абэраку:** После смерти моя душа была рассеяна по земле Бякуякоку, и многие воспоминания были мной утрачены.
 
 **Абэраку:** Я помню, что там было что-то очень важное... высоко над Дайнити Микоси...
 
-**Абэраку:** Но я больше не могу этого вспомнить. Прошу тебя, путешественник / ца из далёких земель, помоги мне вернуть мою одежду, корону и кости. Они спрятаны в трёх разных местах
+**Абэраку:** Но я больше не могу этого вспомнить. Прошу тебя, путешественник из далёких земель, помоги мне вернуть мою одежду, корону и кости. Они спрятаны в трёх разных местах / Но я больше не могу этого вспомнить. Прошу тебя, путешественница из далёких земель, помоги мне вернуть мою одежду, корону и кости. Они спрятаны в трёх разных местах
 
 **Абэраку:** Их можно найти в Теснине, Храме вечной ночи и Сердце змея.
 
@@ -183,8 +104,11 @@
 
 #### Найдите и поднесите предметы, в которые Абэраку поместил свои мысли
 
-**Абэраку:** Ох... Какой талант, какие способности... И какая с этого польза?
+#### Найдите и поднесите предметы, в которые Абэраку поместил свои мысли
 
+#### Найдите и поднесите предметы, в которые Абэраку поместил свои мысли
+
+**Абэраку:** Пожалуйста, принеси подношения из Теснины, Храма вечной ночи и Сердца змея. Так моя душа обретёт целостность, и я смогу открыть для тебя путь к Дайнити Микоси...
 
 **Паймон:** Подношение сделано...
 
@@ -192,9 +116,11 @@
 
 **Паймон:** Почему бы нам не подняться и не посмотреть, Путешественник?
 
+#### Поднимитесь на вершину Дайнити Микоси
+
 #### Поговорите с Абэраку
 
-**Абэраку:** О, путешественник / ца из далёких земель, это вы.
+**Абэраку:** О, путешественник из далёких земель, это вы. / О, путешественница из далёких земель, это вы.
 
 **Абэраку:** Благодаря вам моя душа опять цела, и воспоминания возвращаются. Невероятно.
 
@@ -216,13 +142,13 @@
 
 **Абэраку:** Но как только воцарился мир... Ах, человеческое сердце трудно постичь. Кто знал тогда, что они начнут вынашивать столь злые планы?
 
-**Абэраку:** О путешественник / ца из далёких земель, я уверен, что вы знаете, как жадны могут быть злодеи до богатства и власти... Они посягнули на большее, чем когда-либо заслуживали!
+**Абэраку:** О путешественник из далёких земель, я уверен, что вы знаете, как жадны могут быть злодеи до богатства и власти... Они посягнули на большее, чем когда-либо заслуживали! / О путешественница из далёких земель, я уверен, что вы знаете, как жадны могут быть злодеи до богатства и власти... Они посягнули на большее, чем когда-либо заслуживали!
 
 **Абэраку:** Они стали использовать народ, внушая им, что надо поклоняться Дайнити Микоси. А народ дошёл в своём невежестве до предела, начав верить в неодушевлённые предметы.
 
-**Абэраку:** В конце концов они провозгласили власть Сына СФаэтонаолнца.
+**Абэраку:** В конце концов они провозгласили власть Сына С(Фаэтона)олнца.
 
-Сына Солнца?
+- **Путешественник:** Сына Солнца?
 
 **Абэраку:** Да, какого-нибудь ребёнка выбирают Сыном Солнца.
 
@@ -239,9 +165,15 @@
 **Абэраку:** «Сын Солнца святой в свой день рожденья
 На Пегасе летит в дань уваженья».
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты же не имеешь в виду...
 
+##### Вариант ответа 2
+
 - **Путешественник:** То есть на один из дней рождения...
+
+##### Общее продолжение
 
 **Абэраку:** Да. Их отводили во внутреннее святилище Дайнити Микоси, нарядив в праздничные одежды. И пока они в приподнятом настроении...
 
@@ -249,7 +181,7 @@
 
 **Абэраку:** Золотая уздечка - доказательство того, что человек действительно Сын Солнца. Я спрятал её здесь, думая когда-нибудь передать людям и рассказать им... Но, полагаю, теперь это не имеет смысла.
 
-**Абэраку:** Путешественник / ца из далёких земель... Я не смог защитить ни этих детей, ни народ.
+**Абэраку:** Путешественник из далёких земель... Я не смог защитить ни этих детей, ни народ. / Путешественница из далёких земель... Я не смог защитить ни этих детей, ни народ.
 
 **Абэраку:** Меня зовут...
 
@@ -261,25 +193,116 @@
 
 **Абэраку:** Я мечтал с помощью Дайнити Микоси изгнать тьму, но тогда я ещё не знал, что настоящая всепожирающая вечная ночь таится в чёрных сердцах жадных людей.
 
-**Абэраку:** Гость / Гостья из далёких земель, я передаю тебе эту Золотую уздечку.
+**Абэраку:** Гость из далёких земель, я передаю тебе эту Золотую уздечку. / Гостья из далёких земель, я передаю тебе эту Золотую уздечку.
 
 **Абэраку:** Она свидетельство нашей в высшей степени смехотворной истории...
 
 **Абэраку:** Храни её... Делай с ней всё, что пожелаешь.
 
-Это слишком ценный подарок...
+- **Путешественник:** Это слишком ценный подарок...
 
 **Абэраку:** Ха! Нет, она уже потеряла смысл. То, что я восстановил целостность своей души и смог вручить уздечку тебе, - это судьба. Мирный конец существования непростой реликвии.
 
 **Абэраку:** Ах... Такой талант, такие способности...
 
+**Абэраку:** Пожалуйста, принеси подношения из Теснины, Храма вечной ночи и Сердца змея. Так моя душа обретёт целостность, и я смогу открыть для тебя путь к Дайнити Микоси...
+
+**Паймон:** Подношение сделано...
+
+**Паймон:** Как-то призрак говорил, что подношение может открыть путь к Дайнити Микоси...
+
+**Паймон:** Почему бы нам не подняться и не посмотреть, Путешественник?
+
+**Абэраку:** О, путешественник из далёких земель, это вы. / О, путешественница из далёких земель, это вы.
+
+**Абэраку:** Благодаря вам моя душа опять цела, и воспоминания возвращаются. Невероятно.
+
+**Абэраку:** Возможно, вы уже знаете, что в далёком прошлом в Бякуякоку царила лишь кромешная тьма и что те, кто жил в ней, пребывали в страхе перед Драконом глубин.
+
+**Абэраку:** В те времена именно я организовал строительство Дайнити Микоси, и таким образом в Бякуякоку появилась смена дня и ночи. Отсюда зародилось название «Бякуя».
+
+**Абэраку:** Было сказано, что: «Теперь, когда построен Дайнити Микоси, хоть эта земля и пребывает в вечной ночи, мы, по крайней мере, можем отличить чёрное от белого».
+
+**Абэраку:** Как обидно, что пока осколки моей души не воссоединились, я даже не мог вспомнить тот день, когда люди толпились вокруг завершённого Дайнити Микоси.
+
+**Абэраку:** Это, должно быть, было моё самое любимое воспоминание.
+
+**Абэраку:** Но увы...
+
+**Паймон:** Увы?
+
+**Абэраку:** Когда Дайнити Микоси был построен, а Дракон глубин побеждён, отогнан светом, к которому он не привык, люди вновь зажили спокойно.
+
+**Абэраку:** Но как только воцарился мир... Ах, человеческое сердце трудно постичь. Кто знал тогда, что они начнут вынашивать столь злые планы?
+
+**Абэраку:** О путешественник из далёких земель, я уверен, что вы знаете, как жадны могут быть злодеи до богатства и власти... Они посягнули на большее, чем когда-либо заслуживали! / О путешественница из далёких земель, я уверен, что вы знаете, как жадны могут быть злодеи до богатства и власти... Они посягнули на большее, чем когда-либо заслуживали!
+
+**Абэраку:** Они стали использовать народ, внушая им, что надо поклоняться Дайнити Микоси. А народ дошёл в своём невежестве до предела, начав верить в неодушевлённые предметы.
+
+**Абэраку:** В конце концов они провозгласили власть Сына С(Фаэтона)олнца.
+
+- **Путешественник:** Сына Солнца?
+
+**Абэраку:** Да, какого-нибудь ребёнка выбирают Сыном Солнца.
+
+**Абэраку:** Конечно, такие дети не могли знать, как устроен мир. Они не могли править, поэтому оставались марионетками, соглашаясь с теми, кто дёргал их за ниточки, оставаясь за троном.
+
+**Абэраку:** Я хотел воспротивиться этому, но Сын Солнца по наущению своего двора обвинил меня в государственной измене и заключил здесь в тюрьму.
+
+**Паймон:** А, Сын Солнца...
+
+**Паймон:** Но разве в итоге Сын Солнца не поймёт, что им манипулируют?
+
+**Абэраку:** Именно поэтому ни один Сын Солнца так и не достиг зрелости. Ибо, как ты и говоришь, взрослые не так легко поддаются влиянию злодеев.
+
+**Абэраку:** «Сын Солнца святой в свой день рожденья
+На Пегасе летит в дань уваженья».
+
+##### Вариант ответа 1
+
+- **Путешественник:** Значит ли это...
+
+##### Вариант ответа 2
+
+- **Путешественник:** То есть на один из дней рождения...
+
+##### Общее продолжение
+
+**Абэраку:** Да. Их отводили во внутреннее святилище Дайнити Микоси, нарядив в праздничные одежды. И пока они в приподнятом настроении...
+
+**Абэраку:** Спрятанные здесь вещи связаны с ними.
+
+**Абэраку:** Золотая уздечка - доказательство того, что человек действительно Сын Солнца. Я спрятал её здесь, думая когда-нибудь передать людям и рассказать им... Но, полагаю, теперь это не имеет смысла.
+
+**Абэраку:** Путешественник из далёких земель... Я не смог защитить ни этих детей, ни народ. / Путешественница из далёких земель... Я не смог защитить ни этих детей, ни народ.
+
+**Абэраку:** Меня зовут...
+
+**Абэраку:** ...Абэраку, создатель Гелиоса!
+
+**Абэраку:** Я организовал строительство Дайнити Микоси. Это я высоко повесил сияющее зеркало, когда царила вечная ночь, и я считал себя гением.
+
+**Абэраку:** Такой талант! Такие способности!
+
+**Абэраку:** Я мечтал с помощью Дайнити Микоси изгнать тьму, но тогда я ещё не знал, что настоящая всепожирающая вечная ночь таится в чёрных сердцах жадных людей.
+
+**Абэраку:** Гость из далёких земель, я передаю тебе эту Золотую уздечку. / Гостья из далёких земель, я передаю тебе эту Золотую уздечку.
+
+**Абэраку:** Она свидетельство нашей в высшей степени смехотворной истории...
+
+**Абэраку:** Храни её... Делай с ней всё, что пожелаешь.
+
+- **Путешественник:** Это слишком ценный подарок...
+
+**Абэраку:** Ха! Нет, она уже потеряла смысл. То, что я восстановил целостность своей души и смог вручить уздечку тебе, - это судьба. Мирный конец существования непростой реликвии.
+
+**Абэраку:** Ах... Такой талант, такие способности...
+
+**Абэраку:** Ох... Какой талант, какие способности... И какая с этого польза?
+
 ### Испытание Теснины
 
 Пройдите испытания согласно указаниям Абэраку и добудьте подношения...
-
-
-**Абэраку:** Ты во всеоружии, путешественник / путешественница?
-
 
 **Паймон:** Что-то появляется!..
 
@@ -295,9 +318,15 @@
 
 **Паймон:** ...что его зовут «создатель Гелиоса», да?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты его совсем не слушала!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Его зовут Абэраку.
+
+##### Общее продолжение
 
 **Паймон:** Правда? Хм...
 
@@ -313,7 +342,7 @@
 
 **Абэраку:** ...Подождите. Почему я здесь? Почему моя душа потерялась в царстве снов, не в силах обрести покой?
 
-Теперь понятно, Паймон?
+- **Путешественник:** Теперь понятно, Паймон?
 
 **Паймон:** Понятно.
 
@@ -333,9 +362,15 @@
 
 #### Активируйте испытание духа
 
-Готов / Готова.
+**Абэраку:** Ты во всеоружии, путешественник? / Ты во всеоружии, путешественница?
+
+- **Путешественник:** Готов. / Готова.
 
 **Абэраку:** Тогда желаю... успехов в предстоящей битве.
+
+- **Путешественник:** Мне нужно немного времени, чтобы подготовиться.
+
+**Абэраку:** Буду ждать.
 
 #### Получите у духа подношения
 
@@ -354,10 +389,6 @@
 ### Испытание Храма
 
 Пройдите испытания согласно указаниям Абэраку и добудьте подношения...
-
-
-**Абэраку:** Ты во всеоружии, путешественник / путешественница?
-
 
 **Паймон:** А вот и один из этих духов...
 
@@ -403,13 +434,19 @@
 
 **Паймон:** Когда Паймон голодна, то она не может думать. Даже и говорить еле-еле получается!
 
-- **Путешественник:** Вряд ли это его случай...
+##### Вариант ответа 1
 
-- **Путешественник:** Если что, у меня с собой есть перекус...
+- **Путешественник:** Вряд ли это его случай...
 
 **Паймон:** Да ладно! Посмотри на него, он же и слова внятно выговорить не может!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Если что, у меня с собой есть перекус...
+
 **Паймон:** Эй!
+
+##### Общее продолжение
 
 **Паймон:** Путешественник, проверь, нет ли среди тех подношений чего-нибудь съестного?
 
@@ -441,9 +478,15 @@
 
 #### Активируйте испытание духа
 
-Готов / Готова.
+**Абэраку:** Ты во всеоружии, путешественник? / Ты во всеоружии, путешественница?
+
+- **Путешественник:** Готов. / Готова.
 
 **Абэраку:** Тогда желаю... успехов в предстоящей битве.
+
+- **Путешественник:** Мне нужно немного времени, чтобы подготовиться.
+
+**Абэраку:** Буду ждать.
 
 #### Получите у духа подношения
 
@@ -466,10 +509,6 @@
 ### Испытание Сердца змея
 
 Пройдите испытания согласно указаниям Абэраку и добудьте подношения...
-
-
-**Абэраку:** Ты во всеоружии, путешественник / путешественница?
-
 
 **Абэраку:** Меня зовут...
 
@@ -499,15 +538,21 @@
 
 **Абэраку:** Да, кстати, ты.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я?
 
-- **Путешественник:** Паймон, я думаю, он говорит с тобой.
-
 **Паймон:** Да, ты!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Паймон, я думаю, он говорит с тобой.
 
 **Паймон:** Нет, он явно смотрит на тебя.
 
 **Паймон:** (И выглядит нервно.)
+
+##### Общее продолжение
 
 **Абэраку:** Ты!
 
@@ -521,9 +566,15 @@
 
 #### Активируйте испытание духа
 
-Готов / Готова.
+**Абэраку:** Ты во всеоружии, путешественник? / Ты во всеоружии, путешественница?
+
+- **Путешественник:** Готов. / Готова.
 
 **Абэраку:** Тогда желаю... успехов в предстоящей битве.
+
+- **Путешественник:** Мне нужно немного времени, чтобы подготовиться.
+
+**Абэраку:** Буду ждать.
 
 #### Получите у духа подношения
 
@@ -553,7 +604,7 @@
 
 **Паймон:** Они лежат здесь так долго. Кто знает, будет ли что-нибудь съедобное.
 
-Лучше их не есть.
+- **Путешественник:** Лучше их не есть.
 
 **Паймон:** Эй! Паймон не ест всё подряд! Ясно?
 
@@ -565,107 +616,15 @@
 
 According to the spirit named Aberaku, he can only find peace if you collect the three fragments of his soul and reunite them with the main body...
 
-
-**Aberaku:** Please, claim the offerings at The Narrows, the Evernight Temple, and the Serpent's Heart. This way, my soul shall be reunited, and I shall be able to open the way to the Dainichi Mikoshi for you...
-
-
-**Paimon:** The offering's done...
-
-**Paimon:** Earlier, that soul remnant said that the offerings could open the way to Dainichi Mikoshi...
-
-**Paimon:** Let's go up and have a look, Traveler!
-
-
-**Aberaku:** Please, claim the offerings at The Narrows, the Evernight Temple, and the Serpent's Heart. This way, my soul shall be reunited, and I shall be able to open the way to the Dainichi Mikoshi for you...
-
-
-**Aberaku:** Ah, Traveler from another land, it is you.
-
-**Aberaku:** Thanks to you, my soul has become whole, and I now recall everything. Incredible.
-
-**Aberaku:** Perhaps you already know that in the distant past, there was only a great darkness in Byakuyakoku, and that those who lived there dwelt in fear of the Dragonheirs of the Depths.
-
-**Aberaku:** Back then, it was I who organized the construction of the Dainichi Mikoshi, and thus did Byakuyakoku obtain a cyclical night and day, and thus did the name "Byakuya" come about.
-
-**Aberaku:** It was said that: "Now that the Dainichi Mikoshi has been built, though this land is in everlasting night, we can at least tell black from white."
-
-**Aberaku:** How mortifying then, that before the shreds of my soul were reunited, I could not even remember that day when the people crowded around the completed Dainichi Mikoshi.
-
-**Aberaku:** It should have been my fondest memory.
-
-**Aberaku:** But alas...
-
-**Paimon:** Alas what?
-
-**Aberaku:** When Dainichi Mikoshi was built, the Dragonheirs were defeated, repelled by a light that they were unused to. Thus did the people regain peace of mind.
-
-**Aberaku:** But the moment peace began to reign... Ah, the human heart is hard to comprehend. Who knew then that they would have begun to nurse such evil intent?
-
-**Aberaku:** O Traveler from afar, I am certain that you know how voracious villains will seize for themselves riches and power if given the chance... more than they ever deserved!
-
-**Aberaku:** And so they used the people, leading them unto the worship of the Dainichi Mikoshi, leading them into the folly of believing in such vain and dead objects.
-
-**Aberaku:** In the end, they even proclaimed the rule of the "SuncPhaethonhild" over the land.
-
-The Sunchild?
-
-**Aberaku:** Indeed. There will always be a young infant chosen to be the Sunchild.
-
-**Aberaku:** Of course, such children would not have been of age to understand the world. They would not have been fit to rule. And so they served as puppets, going along with those who pulled their strings in the background.
-
-**Aberaku:** I wanted to oppose this, but I was accused of high treason by the Sunchild under their control and imprisoned here.
-
-**Paimon:** Ah, the Sunchild...
-
-**Paimon:** But wouldn't the Sunchild eventually realize that they were being manipulated?
-
-**Aberaku:** And that is why no Sunchild has ever reached maturity. For it is as you say: grown people are not so easily swayed by villains.
-
-**Aberaku:** "The hallowed Sunchild, their birth-rite begun, on Pegasus shall ride to the feast of the sun."
-
-- **Traveler:** Wait, surely you don't mean...
-
-- **Traveler:** So, on one of their birthdays...
-
-**Aberaku:** Yes. They would be taken to the inner sanctum of the Dainichi Mikoshi, dressed up as those attending birth rites and in high spirits...
-
-**Aberaku:** ...The thing hidden here is related to them.
-
-**Aberaku:** This bridle is the proof that one is indeed a child of the sun. I hid it here, thinking to someday hand it over and alert the people... But I suppose that such a deed is meaningless now.
-
-**Aberaku:** Traveler from another land... I was neither able to protect those children nor this nation.
-
-**Aberaku:** My name is...
-
-**Aberaku:** Aberaku, Helios-Forger!
-
-**Aberaku:** I organized the construction of the Dainichi Mikoshi. 'Twas I who hung a bright mirror on high amidst the ever-night, and I thought myself a genius.
-
-**Aberaku:** And such talent I had! Such ability!
-
-**Aberaku:** I dreamed of using the Dainichi Mikoshi to wash away the darkness, but I did not then know that it was the greed and desire within human hearts that was the all-devouring night everlasting.
-
-**Aberaku:** Guest from afar, I now give the bridle into your hands.
-
-**Aberaku:** This Divine Bridle is a testament to our supremely laughable history...
-
-**Aberaku:** Keep it well... Nay, do with it whatever you wish.
-
-This is too precious a gift...
-
-**Aberaku:** Hah! Nay, it has already been rendered meaningless. That I have been restored to wholeness and become able to hand it to you is fate. And for this thing, it shall be considered a fine death.
-
-**Aberaku:** Ah... All the talent, all the ability...
-
 **Aberaku:** My name is...
 
 **Aberaku:** Aberaku, Helios-Forger!
 
 **Paimon:** And Paimon's... well, Paimon.
 
-- **Traveler:** We're doing introductions now?
+##### Response branch 1
 
-- **Traveler:** My name is...
+- **Traveler:** We're doing introductions now?
 
 **Paimon:** Well, since he started it...
 
@@ -675,11 +634,17 @@ This is too precious a gift...
 
 **Paimon:** Don't worry! We don't mind. Right, Traveler?
 
+##### Response branch 2
+
+- **Traveler:** My name is...
+
 **Aberaku:** ...I see. So you are a guest from afar.
 
 **Aberaku:** I only regret that I have come to meet you in such a horrid state.
 
 **Paimon:** It's alright!
+
+##### Shared continuation
 
 **Paimon:** Still, why are you here, Mister?
 
@@ -697,11 +662,17 @@ This is too precious a gift...
 
 **Aberaku:** The Dainichi Mikoshi.
 
-**Aberaku:** Helios is the Dainichi Mikoshi, the solar chariot that drives the HypeByakuya no Hikaririon.
+**Aberaku:** Helios is the Dainichi Mikoshi, the solar chariot that drives the Hype(Byakuya no Hikari)rion.
+
+##### Response branch 1
 
 - **Traveler:** So you're the creator of the Dainichi Mikoshi?
 
+##### Response branch 2
+
 - **Traveler:** That's you, then?
+
+##### Shared continuation
 
 **Aberaku:** Indeed it is.
 
@@ -721,14 +692,19 @@ This is too precious a gift...
 
 #### Find and offer up the objects in which Aberaku nested his thoughts
 
-**Aberaku:** Ah... All the talent, all the ability... But what use was it?
+#### Find and offer up the objects in which Aberaku nested his thoughts
 
+#### Find and offer up the objects in which Aberaku nested his thoughts
+
+**Aberaku:** Please, claim the offerings at The Narrows, the Evernight Temple, and the Serpent's Heart. This way, my soul shall be reunited, and I shall be able to open the way to the Dainichi Mikoshi for you...
 
 **Paimon:** The offering's done...
 
 **Paimon:** Earlier, that soul remnant said that the offerings could open the way to Dainichi Mikoshi...
 
 **Paimon:** Let's go up and have a look, Traveler!
+
+#### Reach the top of the Dainichi Mikoshi
 
 #### Speak to Aberaku
 
@@ -758,9 +734,9 @@ This is too precious a gift...
 
 **Aberaku:** And so they used the people, leading them unto the worship of the Dainichi Mikoshi, leading them into the folly of believing in such vain and dead objects.
 
-**Aberaku:** In the end, they even proclaimed the rule of the "SuncPhaethonhild" over the land.
+**Aberaku:** In the end, they even proclaimed the rule of the "Sunc(Phaethon)hild" over the land.
 
-The Sunchild?
+- **Traveler:** The Sunchild?
 
 **Aberaku:** Indeed. There will always be a young infant chosen to be the Sunchild.
 
@@ -776,9 +752,15 @@ The Sunchild?
 
 **Aberaku:** "The hallowed Sunchild, their birth-rite begun, on Pegasus shall ride to the feast of the sun."
 
+##### Response branch 1
+
 - **Traveler:** Wait, surely you don't mean...
 
+##### Response branch 2
+
 - **Traveler:** So, on one of their birthdays...
+
+##### Shared continuation
 
 **Aberaku:** Yes. They would be taken to the inner sanctum of the Dainichi Mikoshi, dressed up as those attending birth rites and in high spirits...
 
@@ -804,19 +786,109 @@ The Sunchild?
 
 **Aberaku:** Keep it well... Nay, do with it whatever you wish.
 
-This is too precious a gift...
+- **Traveler:** This is too precious a gift...
 
 **Aberaku:** Hah! Nay, it has already been rendered meaningless. That I have been restored to wholeness and become able to hand it to you is fate. And for this thing, it shall be considered a fine death.
 
 **Aberaku:** Ah... All the talent, all the ability...
 
+**Aberaku:** Please, claim the offerings at The Narrows, the Evernight Temple, and the Serpent's Heart. This way, my soul shall be reunited, and I shall be able to open the way to the Dainichi Mikoshi for you...
+
+**Paimon:** The offering's done...
+
+**Paimon:** Earlier, that soul remnant said that the offerings could open the way to Dainichi Mikoshi...
+
+**Paimon:** Let's go up and have a look, Traveler!
+
+**Aberaku:** Ah, Traveler from another land, it is you.
+
+**Aberaku:** Thanks to you, my soul has become whole, and I now recall everything. Incredible.
+
+**Aberaku:** Perhaps you already know that in the distant past, there was only a great darkness in Byakuyakoku, and that those who lived there dwelt in fear of the Dragonheirs of the Depths.
+
+**Aberaku:** Back then, it was I who organized the construction of the Dainichi Mikoshi, and thus did Byakuyakoku obtain a cyclical night and day, and thus did the name "Byakuya" come about.
+
+**Aberaku:** It was said that: "Now that the Dainichi Mikoshi has been built, though this land is in everlasting night, we can at least tell black from white."
+
+**Aberaku:** How mortifying then, that before the shreds of my soul were reunited, I could not even remember that day when the people crowded around the completed Dainichi Mikoshi.
+
+**Aberaku:** It should have been my fondest memory.
+
+**Aberaku:** But alas...
+
+**Paimon:** Alas what?
+
+**Aberaku:** When Dainichi Mikoshi was built, the Dragonheirs were defeated, repelled by a light that they were unused to. Thus did the people regain peace of mind.
+
+**Aberaku:** But the moment peace began to reign... Ah, the human heart is hard to comprehend. Who knew then that they would have begun to nurse such evil intent?
+
+**Aberaku:** O Traveler from afar, I am certain that you know how voracious villains will seize for themselves riches and power if given the chance... more than they ever deserved!
+
+**Aberaku:** And so they used the people, leading them unto the worship of the Dainichi Mikoshi, leading them into the folly of believing in such vain and dead objects.
+
+**Aberaku:** In the end, they even proclaimed the rule of the "Sunc(Phaethon)hild" over the land.
+
+- **Traveler:** The Sunchild?
+
+**Aberaku:** Indeed. There will always be a young infant chosen to be the Sunchild.
+
+**Aberaku:** Of course, such children would not have been of age to understand the world. They would not have been fit to rule. And so they served as puppets, going along with those who pulled their strings in the background.
+
+**Aberaku:** I wanted to oppose this, but I was accused of high treason by the Sunchild under their control and imprisoned here.
+
+**Paimon:** Ah, the Sunchild...
+
+**Paimon:** But wouldn't the Sunchild eventually realize that they were being manipulated?
+
+**Aberaku:** And that is why no Sunchild has ever reached maturity. For it is as you say: grown people are not so easily swayed by villains.
+
+**Aberaku:** "The hallowed Sunchild, their birth-rite begun, on Pegasus shall ride to the feast of the sun."
+
+##### Response branch 1
+
+- **Traveler:** Wait, surely you don't mean...
+
+##### Response branch 2
+
+- **Traveler:** So, on one of their birthdays...
+
+##### Shared continuation
+
+**Aberaku:** Yes. They would be taken to the inner sanctum of the Dainichi Mikoshi, dressed up as those attending birth rites and in high spirits...
+
+**Aberaku:** ...The thing hidden here is related to them.
+
+**Aberaku:** This bridle is the proof that one is indeed a child of the sun. I hid it here, thinking to someday hand it over and alert the people... But I suppose that such a deed is meaningless now.
+
+**Aberaku:** Traveler from another land... I was neither able to protect those children nor this nation.
+
+**Aberaku:** My name is...
+
+**Aberaku:** Aberaku, Helios-Forger!
+
+**Aberaku:** I organized the construction of the Dainichi Mikoshi. 'Twas I who hung a bright mirror on high amidst the ever-night, and I thought myself a genius.
+
+**Aberaku:** And such talent I had! Such ability!
+
+**Aberaku:** I dreamed of using the Dainichi Mikoshi to wash away the darkness, but I did not then know that it was the greed and desire within human hearts that was the all-devouring night everlasting.
+
+**Aberaku:** Guest from afar, I now give the bridle into your hands.
+
+**Aberaku:** This Divine Bridle is a testament to our supremely laughable history...
+
+**Aberaku:** Keep it well... Nay, do with it whatever you wish.
+
+- **Traveler:** This is too precious a gift...
+
+**Aberaku:** Hah! Nay, it has already been rendered meaningless. That I have been restored to wholeness and become able to hand it to you is fate. And for this thing, it shall be considered a fine death.
+
+**Aberaku:** Ah... All the talent, all the ability...
+
+**Aberaku:** Ah... All the talent, all the ability... But what use was it?
+
 ### Narrow Inquiry
 
 Clear the trials according to the path prescribed by the spirit named Aberaku and obtain the offerings...
-
-
-**Aberaku:** Are you fully girded up, Traveler?
-
 
 **Paimon:** S—Something's coming out!
 
@@ -832,9 +904,15 @@ Clear the trials according to the path prescribed by the spirit named Aberaku an
 
 **Paimon:** That he's Helios-Forger, right?
 
+##### Response branch 1
+
 - **Traveler:** Were you even listening to him?
 
+##### Response branch 2
+
 - **Traveler:** No, his name's Aberaku.
+
+##### Shared continuation
 
 **Paimon:** Oh...
 
@@ -850,7 +928,7 @@ Clear the trials according to the path prescribed by the spirit named Aberaku an
 
 **Aberaku:** ...No, wait. Wh—Why am I here? Why has my soul become lost in the realm of dreams, unable to find rest?
 
-Did you get that this time, Paimon?
+- **Traveler:** Did you get that this time, Paimon?
 
 **Paimon:** Sure did.
 
@@ -870,9 +948,15 @@ Did you get that this time, Paimon?
 
 #### Activate the spirit's trial
 
-I'm ready.
+**Aberaku:** Are you fully girded up, Traveler?
+
+- **Traveler:** I'm ready.
 
 **Aberaku:** Then I wish you... every success in your battle ahead.
+
+- **Traveler:** I need a while more to prepare.
+
+**Aberaku:** Then I shall await your tidings.
 
 #### Obtain the offerings from the spirit
 
@@ -891,10 +975,6 @@ I'm ready.
 ### Temple Inquiry
 
 Clear the trials according to the path prescribed by the spirit named Aberaku and obtain the offerings...
-
-
-**Aberaku:** Are you fully girded up, Traveler?
-
 
 **Paimon:** Here comes one of those spirits...
 
@@ -940,13 +1020,19 @@ Clear the trials according to the path prescribed by the spirit named Aberaku an
 
 **Paimon:** Whenever Paimon's famished, forget thinking, she can barely even talk straight!
 
-- **Traveler:** I don't think that's his issue...
+##### Response branch 1
 
-- **Traveler:** Well, it just so happens that we have some emergen—
+- **Traveler:** I don't think that's his issue...
 
 **Paimon:** Come on, it's gotta be! Look at him, he can hardly speak clearly!
 
+##### Response branch 2
+
+- **Traveler:** Well, it just so happens that we have some emergen—
+
 **Paimon:** Hey!
+
+##### Shared continuation
 
 **Paimon:** Actually, Traveler, could you check if there's something to eat amongst the offerings?
 
@@ -978,9 +1064,15 @@ Clear the trials according to the path prescribed by the spirit named Aberaku an
 
 #### Activate the spirit's trial
 
-I'm ready.
+**Aberaku:** Are you fully girded up, Traveler?
+
+- **Traveler:** I'm ready.
 
 **Aberaku:** Then I wish you... every success in your battle ahead.
+
+- **Traveler:** I need a while more to prepare.
+
+**Aberaku:** Then I shall await your tidings.
 
 #### Obtain the offerings from the spirit
 
@@ -1003,10 +1095,6 @@ I'm ready.
 ### Serpent's Heart Inquiry
 
 Clear the trials according to the path prescribed by the spirit named Aberaku and obtain the offerings...
-
-
-**Aberaku:** Are you fully girded up, Traveler?
-
 
 **Aberaku:** My name is...
 
@@ -1036,15 +1124,21 @@ Clear the trials according to the path prescribed by the spirit named Aberaku an
 
 **Aberaku:** ...Right. You.
 
+##### Response branch 1
+
 - **Traveler:** Me?
 
-- **Traveler:** Paimon, I think he's talking to you.
-
 **Paimon:** Yup, that's you!
+
+##### Response branch 2
+
+- **Traveler:** Paimon, I think he's talking to you.
 
 **Paimon:** Nah, he's clearly looking at you.
 
 **Paimon:** (With a very heated look in his eyes, too.)
+
+##### Shared continuation
 
 **Aberaku:** It can only be you!
 
@@ -1058,9 +1152,15 @@ Clear the trials according to the path prescribed by the spirit named Aberaku an
 
 #### Activate the spirit's trial
 
-I'm ready.
+**Aberaku:** Are you fully girded up, Traveler?
+
+- **Traveler:** I'm ready.
 
 **Aberaku:** Then I wish you... every success in your battle ahead.
+
+- **Traveler:** I need a while more to prepare.
+
+**Aberaku:** Then I shall await your tidings.
 
 #### Obtain the offerings from the spirit
 
@@ -1090,7 +1190,7 @@ I'm ready.
 
 **Paimon:** These offerings have been here for so long. Who knows if there's anything edible here.
 
-Best not to eat them all the same.
+- **Traveler:** Best not to eat them all the same.
 
 **Paimon:** H—Hey! Paimon doesn't just eat anything, alright?
 
@@ -1102,107 +1202,15 @@ Best not to eat them all the same.
 
 按名为阿倍良久的残魂的说法，要让他分于三处的魂魄回归主体，才可获得安宁…
 
-
-**阿倍良久:** 啊…烦请汝取回位于狭间之街，灵庙之前与蛇心之地三处的供奉。这样，吾魂魄归一，即可打开大日御舆之上的道路…
-
-
-**派蒙:** 供奉完成了…
-
-**派蒙:** 之前听残魂先生的说法，献祭能够打开大日御舆之上的道路…
-
-**派蒙:** 旅行者，不如我们快上去看一下吧！
-
-
-**阿倍良久:** 啊…烦请汝取回位于狭间之街，灵庙之前与蛇心之地三处的供奉。这样，吾魂魄归一，即可打开大日御舆之上的道路…
-
-
-**阿倍良久:** 啊啊…异乡的旅者，是汝啊。
-
-**阿倍良久:** 托汝之福，吾现在魂魄完全，已回想起了一切，真是不可思议。
-
-**阿倍良久:** 可能汝已知晓，长久以前，白夜国仅有一片黑暗，生活在此处的诸民深受深海龙嗣侵扰之害。
-
-**阿倍良久:** 那时，由吾主持建造大日御舆，从此白夜国才有了昼夜之替，也有了「白夜」这一国名。
-
-**阿倍良久:** 寓示：「自大日御舆建成之后，虽此地只有常世之夜，亦可因分黑白。」
-
-**阿倍良久:** 真是令人汗颜，在离魂归位之前，竟连大日御舆建成之日，众人云集景从之时都已忘得一干二净。
-
-**阿倍良久:** 可悲啊，那本来应是吾铭记于心之景。
-
-**阿倍良久:** 只可惜…
-
-**派蒙:** 可惜？
-
-**阿倍良久:** 大日御舆建成，不熟悉光亮的龙嗣立刻溃败，白夜之民终于得以安养生息。
-
-**阿倍良久:** 只是一旦安定下来…人心难测，鸭胗难剥，谁也不知他人会生出何等丑恶念头。
-
-**阿倍良久:** 异乡的旅者啊，贪婪小人一有可乘之机，就想攫取…比应得之物多上太多的，财富，权力！
-
-**阿倍良久:** 这些人利用民众，开始推行大日御舆崇拜。将人心寄托于虚妄死物已是愚昧至极。
-
-**阿倍良久:** 到了最后…甚至推举「太阳法厄同之子」以统治白夜之国。
-
-太阳之子？
-
-**阿倍良久:** 正是，每一任，都会有一位稚童被选作太阳之子。
-
-**阿倍良久:** 理所当然，这些孩子尚且懵懂，根本不可能担任一国之君，如何行事，不过是一具棚头傀儡，顺从其背后那些龌龊小人们的意见。
-
-**阿倍良久:** 吾想要反对，却被他们指使的太阳之子判下谋逆大罪，终生监禁于此…
-
-**派蒙:** 啊，太阳之子…
-
-**派蒙:** 那岂不是总有一天，他会知道自己被人摆布…
-
-**阿倍良久:** 故，凡太阳之子，无人能长大。一旦长大，就不再那么容易被龌龊小人们操纵了。
-
-**阿倍良久:** 「太阳之子，诞辰御祝，至天马之架席，共烈日之飨…」
-
-- **旅行者:** 难道说…
-
-- **旅行者:** 在某个生日…
-
-**阿倍良久:** 嗯，他们全都被送至了大日御舆内部，于诞生祭礼，盛装打扮，兴高采烈之时…
-
-**阿倍良久:** …藏于此处的物件，就与他们有关。
-
-**阿倍良久:** 这是证明太阳之子正身的御辔，吾藏于此，想以后将之递出，可让世人警醒，只不过，时至今日已毫无意义了。
-
-**阿倍良久:** 异乡的旅者啊，那些孩子，这个国家，是吾无法保护完全的事物。
-
-**阿倍良久:** 吾乃…
-
-**阿倍良久:** 吾乃赫利俄斯之建造者，名曰：阿倍良久！
-
-**阿倍良久:** 吾主持建造大日御舆，于常夜之中高悬明亮之镜，已自以为天纵之才。
-
-**阿倍良久:** 吾有如此才能，如此才能啊！
-
-**阿倍良久:** 吾本以为可用大日御舆涤荡黑暗，但谁曾想大日御舆之上，人心之欲壑难填贪婪无餍，才是足以覆过一切的阴晦永夜。
-
-**阿倍良久:** 异乡的旅客，吾现在将此御辔交至汝之手中。
-
-**阿倍良久:** 这枚「神舆之辔」就是这段可笑至极的荒唐历史的见证…
-
-**阿倍良久:** 请务必好好留存…不，就随汝喜好处置吧。
-
-过于贵重了…
-
-**阿倍良久:** 此物本就已无甚意义，今日能魂魄归一，将此物交到汝手上，时也命也，对此物来说，或也算是一类善终了。
-
-**阿倍良久:** 如此才能…如此才能啊…
-
 **阿倍良久:** 吾乃…
 
 **阿倍良久:** 吾乃赫利俄斯之建造者，名曰：阿倍良久！
 
 **派蒙:** 我、我是派蒙。
 
-- **旅行者:** 在这里自我介绍？
+##### 对话分支 1
 
-- **旅行者:** 吾乃…
+- **旅行者:** 在这里自我介绍？
 
 **派蒙:** 在对方报上名字的时候，你也要报上名字……
 
@@ -1212,11 +1220,17 @@ Best not to eat them all the same.
 
 **派蒙:** 没有关系，旅行者和我也不会介意的。
 
+##### 对话分支 2
+
+- **旅行者:** 吾乃…
+
 **阿倍良久:** ……是么，竟是来自异乡的旅客啊。
 
 **阿倍良久:** 汝远道而来，吾以此狼狈姿态，亦无法进行接待。
 
 **派蒙:** 没关系的。
+
+##### 共同后续
 
 **派蒙:** 不过，这位残魂先生为什么会留在这里呢？
 
@@ -1234,11 +1248,17 @@ Best not to eat them all the same.
 
 **阿倍良久:** 大日御舆。
 
-**阿倍良久:** 赫利俄斯即大日御舆，运载「许伯白夜之光利翁」的太阳之车。
+**阿倍良久:** 赫利俄斯即大日御舆，运载「许伯(白夜之光)利翁」的太阳之车。
+
+##### 对话分支 1
 
 - **旅行者:** 大日御舆的建造者？
 
+##### 对话分支 2
+
 - **旅行者:** 就是你？
+
+##### 共同后续
 
 **阿倍良久:** 正是吾。
 
@@ -1258,14 +1278,19 @@ Best not to eat them all the same.
 
 #### 找到并供奉阿倍良久残魂寄寓之物
 
-**阿倍良久:** 如此才能，如此才能…又有何用？
+#### 找到并供奉阿倍良久残魂寄寓之物
 
+#### 找到并供奉阿倍良久残魂寄寓之物
+
+**阿倍良久:** 啊…烦请汝取回位于狭间之街，灵庙之前与蛇心之地三处的供奉。这样，吾魂魄归一，即可打开大日御舆之上的道路…
 
 **派蒙:** 供奉完成了…
 
 **派蒙:** 之前听残魂先生的说法，献祭能够打开大日御舆之上的道路…
 
 **派蒙:** 旅行者，不如我们快上去看一下吧！
+
+#### 到达「大日御舆」顶端
 
 #### 与阿倍良久对话
 
@@ -1295,9 +1320,9 @@ Best not to eat them all the same.
 
 **阿倍良久:** 这些人利用民众，开始推行大日御舆崇拜。将人心寄托于虚妄死物已是愚昧至极。
 
-**阿倍良久:** 到了最后…甚至推举「太阳法厄同之子」以统治白夜之国。
+**阿倍良久:** 到了最后…甚至推举「太阳(法厄同)之子」以统治白夜之国。
 
-太阳之子？
+- **旅行者:** 太阳之子？
 
 **阿倍良久:** 正是，每一任，都会有一位稚童被选作太阳之子。
 
@@ -1313,9 +1338,15 @@ Best not to eat them all the same.
 
 **阿倍良久:** 「太阳之子，诞辰御祝，至天马之架席，共烈日之飨…」
 
+##### 对话分支 1
+
 - **旅行者:** 难道说…
 
+##### 对话分支 2
+
 - **旅行者:** 在某个生日…
+
+##### 共同后续
 
 **阿倍良久:** 嗯，他们全都被送至了大日御舆内部，于诞生祭礼，盛装打扮，兴高采烈之时…
 
@@ -1341,19 +1372,109 @@ Best not to eat them all the same.
 
 **阿倍良久:** 请务必好好留存…不，就随汝喜好处置吧。
 
-过于贵重了…
+- **旅行者:** 过于贵重了…
 
 **阿倍良久:** 此物本就已无甚意义，今日能魂魄归一，将此物交到汝手上，时也命也，对此物来说，或也算是一类善终了。
 
 **阿倍良久:** 如此才能…如此才能啊…
 
+**阿倍良久:** 啊…烦请汝取回位于狭间之街，灵庙之前与蛇心之地三处的供奉。这样，吾魂魄归一，即可打开大日御舆之上的道路…
+
+**派蒙:** 供奉完成了…
+
+**派蒙:** 之前听残魂先生的说法，献祭能够打开大日御舆之上的道路…
+
+**派蒙:** 旅行者，不如我们快上去看一下吧！
+
+**阿倍良久:** 啊啊…异乡的旅者，是汝啊。
+
+**阿倍良久:** 托汝之福，吾现在魂魄完全，已回想起了一切，真是不可思议。
+
+**阿倍良久:** 可能汝已知晓，长久以前，白夜国仅有一片黑暗，生活在此处的诸民深受深海龙嗣侵扰之害。
+
+**阿倍良久:** 那时，由吾主持建造大日御舆，从此白夜国才有了昼夜之替，也有了「白夜」这一国名。
+
+**阿倍良久:** 寓示：「自大日御舆建成之后，虽此地只有常世之夜，亦可因分黑白。」
+
+**阿倍良久:** 真是令人汗颜，在离魂归位之前，竟连大日御舆建成之日，众人云集景从之时都已忘得一干二净。
+
+**阿倍良久:** 可悲啊，那本来应是吾铭记于心之景。
+
+**阿倍良久:** 只可惜…
+
+**派蒙:** 可惜？
+
+**阿倍良久:** 大日御舆建成，不熟悉光亮的龙嗣立刻溃败，白夜之民终于得以安养生息。
+
+**阿倍良久:** 只是一旦安定下来…人心难测，鸭胗难剥，谁也不知他人会生出何等丑恶念头。
+
+**阿倍良久:** 异乡的旅者啊，贪婪小人一有可乘之机，就想攫取…比应得之物多上太多的，财富，权力！
+
+**阿倍良久:** 这些人利用民众，开始推行大日御舆崇拜。将人心寄托于虚妄死物已是愚昧至极。
+
+**阿倍良久:** 到了最后…甚至推举「太阳(法厄同)之子」以统治白夜之国。
+
+- **旅行者:** 太阳之子？
+
+**阿倍良久:** 正是，每一任，都会有一位稚童被选作太阳之子。
+
+**阿倍良久:** 理所当然，这些孩子尚且懵懂，根本不可能担任一国之君，如何行事，不过是一具棚头傀儡，顺从其背后那些龌龊小人们的意见。
+
+**阿倍良久:** 吾想要反对，却被他们指使的太阳之子判下谋逆大罪，终生监禁于此…
+
+**派蒙:** 啊，太阳之子…
+
+**派蒙:** 那岂不是总有一天，他会知道自己被人摆布…
+
+**阿倍良久:** 故，凡太阳之子，无人能长大。一旦长大，就不再那么容易被龌龊小人们操纵了。
+
+**阿倍良久:** 「太阳之子，诞辰御祝，至天马之架席，共烈日之飨…」
+
+##### 对话分支 1
+
+- **旅行者:** 难道说…
+
+##### 对话分支 2
+
+- **旅行者:** 在某个生日…
+
+##### 共同后续
+
+**阿倍良久:** 嗯，他们全都被送至了大日御舆内部，于诞生祭礼，盛装打扮，兴高采烈之时…
+
+**阿倍良久:** …藏于此处的物件，就与他们有关。
+
+**阿倍良久:** 这是证明太阳之子正身的御辔，吾藏于此，想以后将之递出，可让世人警醒，只不过，时至今日已毫无意义了。
+
+**阿倍良久:** 异乡的旅者啊，那些孩子，这个国家，是吾无法保护完全的事物。
+
+**阿倍良久:** 吾乃…
+
+**阿倍良久:** 吾乃赫利俄斯之建造者，名曰：阿倍良久！
+
+**阿倍良久:** 吾主持建造大日御舆，于常夜之中高悬明亮之镜，已自以为天纵之才。
+
+**阿倍良久:** 吾有如此才能，如此才能啊！
+
+**阿倍良久:** 吾本以为可用大日御舆涤荡黑暗，但谁曾想大日御舆之上，人心之欲壑难填贪婪无餍，才是足以覆过一切的阴晦永夜。
+
+**阿倍良久:** 异乡的旅客，吾现在将此御辔交至汝之手中。
+
+**阿倍良久:** 这枚「神舆之辔」就是这段可笑至极的荒唐历史的见证…
+
+**阿倍良久:** 请务必好好留存…不，就随汝喜好处置吧。
+
+- **旅行者:** 过于贵重了…
+
+**阿倍良久:** 此物本就已无甚意义，今日能魂魄归一，将此物交到汝手上，时也命也，对此物来说，或也算是一类善终了。
+
+**阿倍良久:** 如此才能…如此才能啊…
+
+**阿倍良久:** 如此才能，如此才能…又有何用？
+
 ### 狭间的叩问
 
 按名为阿倍良久的残魂的说法，通过试炼，取得供奉之物…
-
-
-**阿倍良久:** 旅者啊，汝准备好了吗？
-
 
 **派蒙:** 有、有什么东西出来了…
 
@@ -1369,9 +1490,15 @@ Best not to eat them all the same.
 
 **派蒙:** 他说自己的名字是赫利俄斯。
 
+##### 对话分支 1
+
 - **旅行者:** 根本就没懂吧！
 
+##### 对话分支 2
+
 - **旅行者:** 他的名字叫阿倍良久。
+
+##### 共同后续
 
 **派蒙:** 是这样吗……
 
@@ -1387,7 +1514,7 @@ Best not to eat them all the same.
 
 **阿倍良久:** 不对，吾，吾为何在此…为何…为何吾魂迷梦土，不得安宁。
 
-派蒙听懂了吗？
+- **旅行者:** 派蒙听懂了吗？
 
 **派蒙:** 我懂了。
 
@@ -1407,9 +1534,15 @@ Best not to eat them all the same.
 
 #### 开启残魂的试炼
 
-准备好了。
+**阿倍良久:** 旅者啊，汝准备好了吗？
+
+- **旅行者:** 准备好了。
 
 **阿倍良久:** 那就祝汝……武运昌隆。
+
+- **旅行者:** 不，还需要准备一下。
+
+**阿倍良久:** 那就静候汝之佳音了。
 
 #### 从残魂处取得供奉之物
 
@@ -1428,10 +1561,6 @@ Best not to eat them all the same.
 ### 庙前的叩问
 
 按名为阿倍良久的残魂的说法，通过试炼，取得供奉之物…
-
-
-**阿倍良久:** 旅者啊，汝准备好了吗？
-
 
 **派蒙:** 好像出现了一个残魂……
 
@@ -1477,13 +1606,19 @@ Best not to eat them all the same.
 
 **派蒙:** 我肚子饿的时候，别说动脑想什么了，连话都说不顺。
 
-- **旅行者:** 我觉得不是因为这个…
+##### 对话分支 1
 
-- **旅行者:** 我这里有应急食…
+- **旅行者:** 我觉得不是因为这个…
 
 **派蒙:** 肯定就是嘛！你看他也话都说不清了。
 
+##### 对话分支 2
+
+- **旅行者:** 我这里有应急食…
+
 **派蒙:** 喂！
+
+##### 共同后续
 
 **派蒙:** 啊，旅行者，你可以找找看，万一贡品里面有能吃的东西呢？
 
@@ -1515,9 +1650,15 @@ Best not to eat them all the same.
 
 #### 开启残魂的试炼
 
-准备好了。
+**阿倍良久:** 旅者啊，汝准备好了吗？
+
+- **旅行者:** 准备好了。
 
 **阿倍良久:** 那就祝汝……武运昌隆。
+
+- **旅行者:** 不，还需要准备一下。
+
+**阿倍良久:** 那就静候汝之佳音了。
 
 #### 从残魂处取得供奉之物
 
@@ -1540,10 +1681,6 @@ Best not to eat them all the same.
 ### 蛇心的叩问
 
 按名为阿倍良久的残魂的说法，通过试炼，取得供奉之物…
-
-
-**阿倍良久:** 旅者啊，汝准备好了吗？
-
 
 **阿倍良久:** 吾乃…
 
@@ -1573,15 +1710,21 @@ Best not to eat them all the same.
 
 **阿倍良久:** 对了，汝。
 
+##### 对话分支 1
+
 - **旅行者:** 我？
 
-- **旅行者:** 派蒙，在叫你！
-
 **派蒙:** 是你。
+
+##### 对话分支 2
+
+- **旅行者:** 派蒙，在叫你！
 
 **派蒙:** 欸，他明明就在看着你嘛。
 
 **派蒙:** （而且眼神还相当热切的样子。）
+
+##### 共同后续
 
 **阿倍良久:** 就是汝！
 
@@ -1595,9 +1738,15 @@ Best not to eat them all the same.
 
 #### 开启残魂的试炼
 
-准备好了。
+**阿倍良久:** 旅者啊，汝准备好了吗？
+
+- **旅行者:** 准备好了。
 
 **阿倍良久:** 那就祝汝……武运昌隆。
+
+- **旅行者:** 不，还需要准备一下。
+
+**阿倍良久:** 那就静候汝之佳音了。
 
 #### 从残魂处取得供奉之物
 
@@ -1627,7 +1776,7 @@ Best not to eat them all the same.
 
 **派蒙:** 这供奉品放在这里这么久，不知道里面有没有吃的…
 
-你别偷吃哦…
+- **旅行者:** 你别偷吃哦…
 
 **派蒙:** 我、我也不是什么东西都吃的！
 

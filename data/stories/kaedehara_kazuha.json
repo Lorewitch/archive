@@ -144,5 +144,1030 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "«Подхваченный ветром, омытый грозой, с мечом, хоть босой, но вернусь я домой». Меня зовут Каэдэхара Кадзуха. Я скиталец, странствующий по всему свету. Раз уж мы с тобой путешественники, давай я составлю тебе компанию.",
+        "en": "\"Come driving rain or winds that churn, I shall return, by blade alone, armed, if barefoot, to my home...\" I am Kaedehara Kazuha, a wanderer who roams the land. Since we are both travelers, let us journey together for a time.",
+        "zh": "「飘摇风雨中，带刀归来赤脚行」…我的名字是枫原万叶，游历四方的浪人。既然你我都在旅行的路上，这段路不妨结伴同行。"
+      },
+      "source_id": 40009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Природа",
+        "en": "Chat: Nature",
+        "zh": "闲聊·自然"
+      },
+      "text": {
+        "ru": "Какой очаровательный вид... Его одного достаточно, чтобы сделать из любого человека странника.",
+        "en": "This scenery is wonderful... Surely enough to convince anyone to become a wanderer.",
+        "zh": "见到了这么美丽的景色，自然会产生云游四海的想法吧？"
+      },
+      "source_id": 40010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Мелодия",
+        "en": "Chat: Playing a Tune",
+        "zh": "闲聊·吹奏"
+      },
+      "text": {
+        "ru": "Кругом листва, а я как раз знаю подходящую мелодию. Хочешь, сыграю?",
+        "en": "There are leaves around — and I know just the tune to accompany them, if you wish to hear it.",
+        "zh": "既然手边有树叶，我可以为你吹奏一曲。"
+      },
+      "source_id": 40011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Искусство меча",
+        "en": "Chat: Bladework",
+        "zh": "闲聊·剑技"
+      },
+      "text": {
+        "ru": "Куда бы не унесли меня ветра путешествий, память о доме остаётся со мной. Этот меч... единственное, что связывает меня с родиной.",
+        "en": "Wherever in this world I roam, I carry memories of my home... This blade... It is the last link I have to the land of my birth.",
+        "zh": "飘摇风雨中，睹物思故乡，这把刀…是我与故乡唯一的联系了。"
+      },
+      "source_id": 40012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Прогулки под ливнем проясняют сознание. Но после дождя стоит побыстрее просушить одежду.",
+        "en": "Taking a stroll in the middle of a downpour certainly rouses the spirit... but it's best to dry your clothes as soon as possible after the rain stops.",
+        "zh": "在大雨中漫步，让人神志清醒。不过等雨停之后，还是尽快把衣服烤干比较好。"
+      },
+      "source_id": 40013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "В сравнении с теми грозами, которые я повидал в море, это ещё ничего.",
+        "en": "Compared to the storms I've encountered out at sea, this is really quite tame.",
+        "zh": "比起在海上航行时遇到的雷暴，这倒也算不上什么。"
+      },
+      "source_id": 40014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Обожаю снег. Всё затихает, и никто не потревожит мой сон.",
+        "en": "I love it when it snows. The world falls completely silent... and I can sleep undisturbed.",
+        "zh": "我喜欢下雪，雪后的世界很安静，无人来扰我清梦。"
+      },
+      "source_id": 40015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Яркое солнце и синее небо радуют сердце.",
+        "en": "Clear weather all around brightens the heart.",
+        "zh": "晴空万里，真让人心情愉快。"
+      },
+      "source_id": 40016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Пение птиц на рассвете - дар природы. Отправляемся в путь. Наше странствие начинается.",
+        "en": "The birdsong at daybreak is nature's gift to us. Let us go. Our journey begins anew.",
+        "zh": "清晨的鸟鸣，是大自然的馈赠。启程吧，属于我们的旅途也要开始了。"
+      },
+      "source_id": 40017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Полуденное солнце навевает дрёму. Поищем место для привала?",
+        "en": "...The midday sun has a way of making one yearn for a moment of sleep. What say we find ourselves a place to rest?",
+        "zh": "正午的阳光，让人想要小睡片刻。找个地方休息一下如何？"
+      },
+      "source_id": 40018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Я смотрю на луну и прислушиваюсь к ветру. В чаше вино, а на сердце покой... Чудесного тебе вечера.",
+        "en": "I gaze up at the moon and lend my ear to the gentle breeze, with wine in my cup and peace in my heart... Have a wonderful evening.",
+        "zh": "抬头见月，侧耳听风，壶中有酒，我心太平…\n晚上好。"
+      },
+      "source_id": 40019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Ветер затих... Замолчал мир. Сейчас лучшее время, чтобы как следует отдохнуть. До завтра.",
+        "en": "The wind has ceased... The world is silent, so now is the best time to rest well. See you tomorrow.",
+        "zh": "风停了…\n安静的世界，适合好好休息。明天见。"
+      },
+      "source_id": 40020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Кадзухе: Плавание",
+        "en": "About Kaedehara Kazuha: Sailing",
+        "zh": "关于枫原万叶自己·航行"
+      },
+      "text": {
+        "ru": "Вообще, не каждую ночь на море волны и ветер. В ясную погоду луна освещает водную рябь, а косяки рыб кружат близ корабля. В такие мгновения, когда я сижу на носу и смотрю вдаль, чувствую, что это странствие того стоило... Жаль только, что матросы орут свои песни. Разве им не нужно спать?",
+        "en": "In truth, not every night out at sea is filled with wind and waves. When the weather is clear, the moonlight flows over the rippling water, and schools of fish circle the ship's hull. At moments like that, when I look out into the distance from the prow, I feel like this journey is worth it... The only thing that takes away from that feeling is the sailors' singing. They're so loud... don't they need to sleep?",
+        "zh": "其实，大海并非每晚都充满风浪。天气清朗的时候，月光倒映在摇晃的海面上，鱼群在船舶的周围随行。我坐在船头眺望远方，会觉得这段旅程非常值得…唯一的遗憾是水手们的歌声太吵了，他们不用睡觉的吗？"
+      },
+      "source_id": 40021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Кадзухе: Самурайское благородство",
+        "en": "About Kaedehara Kazuha: Samurai Nobility",
+        "zh": "关于枫原万叶自己·贵族武士"
+      },
+      "text": {
+        "ru": "Когда-то клан Каэдэхара был знаменитым самурайским кланом. Жаль, что по наследию мне не досталось ничего, кроме титула. Но мне довольно и этого. Самураю нужна не роскошная жизнь, а поэзия, вино и меч.",
+        "en": "The Kaedehara Clan was once a famed samurai clan. It's a pity that by the time the noble name passed to me, the title itself was all that was left. But it is enough for me. A samurai has no need of a lavish life — we find all that we need in wine, song, and the blade in our hands.",
+        "zh": "枫原家曾经也是有名的武士门第，可惜传承到我这里时，除了贵族的名号外已经别无长物。不过对我来说倒也足够了，武士不需要富足的生活，我们需要的是诗歌、美酒与手中的刀。"
+      },
+      "source_id": 40022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Выход в море",
+        "en": "About Us: Going Out to Sea",
+        "zh": "关于我们·出海"
+      },
+      "text": {
+        "ru": "Выйдем вместе в море, когда выдастся погожий денёк?",
+        "en": "What say you join me out at sea someday when the weather's fine?",
+        "zh": "找个好天气，出海看看如何？"
+      },
+      "source_id": 40023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Приятная беседа",
+        "en": "About Us: Frank Speech",
+        "zh": "关于我们·畅谈"
+      },
+      "text": {
+        "ru": "Мне нравятся искренние люди, потому что с ними можно говорить без стеснения. Если у тебя есть что сказать, говори без утайки. Я слушаю все голоса природы, включая и твой.",
+        "en": "I like frank people, because we can freely speak our minds to one another. There is no need to hide anything that you wish to say. I hear the voices of all things in nature, and that includes yours.",
+        "zh": "我喜欢性格爽朗的人，这样相处时可以畅所欲言。有什么想说的不必藏在心里，我能够听到自然万物的声音，其中也包括你的声音。"
+      },
+      "source_id": 40024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Мне видится, что Глаз Бога - доказательство силы, а не её источник. Он символизирует волю смертных идти вперёд, а самураи в этих устремлениях полагаются на свои клинки.",
+        "en": "As I see it, a Vision is the proof of one's strength, not the source of it. It symbolizes the mortal desire to always keep moving forward, but in this endeavor, we samurai place our faith in our blades alone.",
+        "zh": "在我看来，神之眼是力量的「证明」，而不是力量的「来源」。神之眼象征的是凡人继续向前的愿望，而我们武士的底气，一直都是手里的刀。"
+      },
+      "source_id": 40025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся: Бамбуковые мечи",
+        "en": "Something to Share: Bamboo Blades",
+        "zh": "有什么想要分享·竹刀"
+      },
+      "text": {
+        "ru": "О, ты хочешь научиться искусству фехтования? Посмотрим... Вот, возьми. Это один из бамбуковых мечей, которые я только что сделал. С ними мы сможем потренироваться без опасений, что кто-нибудь поранится.",
+        "en": "Ah, you'd like to learn the art of the sword? Let me see... Alright — here, take this. It's a bamboo blade I just made. With these, we can practice sparring without having to worry about getting injured.",
+        "zh": "想学剑道的话…我想想，拿着这个吧，这是我刚刚做好的竹刀。用这个切磋的话，我们就都不会受伤了。"
+      },
+      "source_id": 40026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся: Кленовые листья",
+        "en": "Something to Share: Maple Leaves",
+        "zh": "有什么想要分享·枫叶"
+      },
+      "text": {
+        "ru": "«Горная тропка укрыта листами цвета огня, клич печальный оленя доносят ветра до меня» ...Я очень люблю кленовые листья. Печально, что случается так много прощаний, когда они становятся красными.",
+        "en": "\"On this mountain path, where the red leaves lifeless lie... My heart calls for a companion, echoing the deer's cry...\" Hm... I do love maple leaves, but it is a shame that so many goodbyes seem to happen when they turn red.",
+        "zh": "「深山踏红叶，耳畔闻鹿鸣」…我很喜欢枫叶，可惜枫叶红时总多离别。"
+      },
+      "source_id": 40027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Не кричите, чайки! Отныне я вновь странник.",
+        "en": "Farewell, dear gulls, please calm your cries. From this day forth, I am a wanderer once more.",
+        "zh": "海鸥别叫啦，从今天起，我也是漂泊者呀。"
+      },
+      "source_id": 40028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Бэй Доу...",
+        "en": "About Beidou",
+        "zh": "关于北斗…"
+      },
+      "text": {
+        "ru": "Я обязан Бэй Доу жизнью. Она приняла меня, когда я бежал из Инадзумы, и в наиболее трудный этап моей жизни наделила меня храбростью вернуться. Она - боевой товарищ, которому мы с командой можем доверять.",
+        "en": "I owe Beidou my life. She took me in when I fled from Inazuma and gave me the courage to return there at the most difficult time of my life. She is a comrade in whom I and all the other sailors can place our trust.",
+        "zh": "北斗大姐头是我的恩人。大姐头她收留了从稻妻逃出来的我，并在我最困难的那段时期里，给了我重返稻妻的勇气。她是我和所有船员可以托付后背的战友。"
+      },
+      "source_id": 40029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Горо...",
+        "en": "About Gorou",
+        "zh": "关于五郎…"
+      },
+      "text": {
+        "ru": "Когда я был в розыске, сопротивление много мне помогало. Знакомство с генералом Горо было мимолётным, но он произвёл на меня неизгладимое впечатление. Он говорит всё, как на духу. Он переносит радости и невзгоды вместе с подчинёнными и готов отдать жизнь ради друзей. Мы с ним отлично поладили.",
+        "en": "When I was a wanted man, the resistance gave me a lot of help. The time I spent with Gorou was brief, but he left a deep impression on me. He's the type of person who says whatever's on his mind. He shares the highs and lows of his subordinates, and is never afraid to draw his sword for the sake of a friend. That's the kind of person I can really get along with.",
+        "zh": "我在被通缉的那段时间里，反抗军给了我许多帮助。那时候我与五郎只有短暂的接触，但我对他的印象很深刻。他是那种有话就说的直性子，与部下同甘共苦，为朋友两肋插刀，与我很合得来。"
+      },
+      "source_id": 40030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Кудзё Сара: Отношение...",
+        "en": "About Kujou Sara",
+        "zh": "关于九条裟罗·态度…"
+      },
+      "text": {
+        "ru": "Она нанесла моему другу поражение на дворцовой дуэли, и я признаю её силу. Но она использует эту силу, чтобы выполнять грязную работу своей хозяйки, беспрестанно бросая войска клана Кудзё на поиски и изъятие Глаз Бога. Этого я простить не могу.",
+        "en": "She defeated my friend in a duel before the throne, which I accept as proof of her great strength. But she uses that strength to serve as an oppressor's lackey, leading the Kujou Clan's troops to relentlessly seek out and confiscate Visions. This... I cannot forgive.",
+        "zh": "能在御前决斗中战胜我的朋友，我确实认可她的实力。但她却用这样的力量为虎作伥，带领九条军不断回收「神之眼」，我无法原谅。"
+      },
+      "source_id": 40031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Кудзё Сара: Новые взгляды...",
+        "en": "About Kujou Sara: Changing Perspective",
+        "zh": "关于九条裟罗·改观…"
+      },
+      "text": {
+        "ru": "Вот как... Оказывается, у неё есть свои идеалы, за которые она сражается. Любопытно, сможет ли клан Кудзё после этих смутных времён вернуться к былому процветанию?",
+        "en": "I see... So she does have her own ideals that she is fighting for. But I have to wonder: can the Kujou family flourish as they did before once this storm has passed?",
+        "zh": "原来如此。看来她也有自己坚持的信念。只是不知道风波平息后，「九条」家还能否延续曾经的昌盛。"
+      },
+      "source_id": 40032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О сёгуне Райдэн...",
+        "en": "About the Raiden Shogun",
+        "zh": "关于雷电将军…"
+      },
+      "text": {
+        "ru": "С тех пор как я покинул Инадзуму, я часто задавался вопросом: не из-за той дворцовой дуэли ненавижу ли я сёгуна Райдэн? Не из-за смертельного удара, который она нанесла моему другу? Я долго об этом размышлял, и пришёл к выводу, что нет. Мой друг принял благородную смерть в дуэли, и в действиях сёгуна не было несправедливости. Моё негодование вызвано Охотой на Глаза Бога. Никто не смеет лишать другого человека надежды и мечтаний. Даже божество.",
+        "en": "I've asked myself this question many times since leaving Inazuma. Do I simply resent the Raiden Shogun because of what happened in that duel? Because of the lethal stroke she dealt my dear friend? I've thought about this a good long time, and I believe the answer is no. My friend died an honorable death in that duel, and the Shogun was not unjustified in her conduct. My dissatisfaction with her has its roots in the Vision Hunt Decree. No one has the right to rob another of their hopes and dreams — not even a god.",
+        "zh": "离开稻妻后，我许多次扪心自问，我对雷电将军的不满是否源于那一次御前决斗，是否源于她对友人落下的那一刀？\n我想了很久，觉得不是的。我的友人是堂堂正正地死在了决斗场上，雷电将军的那一刀也并无不妥。我对她的不满，来源于「眼狩令」。没有任何人有资格剥夺他人的愿望，即便是「神」也不行。"
+      },
+      "source_id": 40033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Камисато Аяке...",
+        "en": "About Kamisato Ayaka",
+        "zh": "关于神里绫华…"
+      },
+      "text": {
+        "ru": "Уверен, все в Инадзуме слышали имя «Сирасаги Химэгими». Старшая дочь клана Камисато близка к совершенству, хоть и наши пути не пересекались. Интересно, какого она мнения о сегодняшней Инадзуме?",
+        "en": "I'm sure everyone living in Inazuma has heard of the \"Shirasagi Himegimi.\" The lady of the Kamisato Clan is as perfect as a person can be, though our paths have seldom crossed. I wonder what she thinks of the state of Inazuma today?",
+        "zh": "生活在稻妻的人，应该都听过「白鹭公主」这个名字吧。神里家的大小姐，近乎完美的一个人，不过我跟她没什么交集，不知道她对如今的稻妻抱有怎样的看法。"
+      },
+      "source_id": 40034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Ёимии...",
+        "en": "About Yoimiya",
+        "zh": "关于宵宫…"
+      },
+      "text": {
+        "ru": "В прошлый раз, когда она поручила капитану Бэй Доу доставить фейерверки в Ли Юэ, мне пришлось разгружать всё самому. Какие они тяжёлые! Вряд ли кто-нибудь ещё делает такие же огромные фейерверки, как она.",
+        "en": "The last time she commissioned Captain Beidou to ship fireworks to Liyue, I unloaded the shipment myself. They were so heavy! I doubt that anyone besides her could make such huge fireworks.",
+        "zh": "上次她托大姐头把烟火运到璃月，还是我亲自去卸的货。好沉！除了她以外，应该没人能造出这么大的烟火了吧。"
+      },
+      "source_id": 40035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Кадзухе I",
+        "en": "About Kaedehara Kazuha: I",
+        "zh": "想要了解枫原万叶·其一"
+      },
+      "text": {
+        "ru": "Хочешь узнать обо мне больше? Как видишь, я всего лишь странствующий самурай, которого можно было повстречать где угодно.",
+        "en": "You'd like to know more about me, you say? Well, as you see, I am but a wandering samurai that you could have run into just about anywhere.",
+        "zh": "想要了解我的事？如你所见，我只是个随处可见的流浪武士。"
+      },
+      "source_id": 40036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Кадзухе II",
+        "en": "About Kaedehara Kazuha: II",
+        "zh": "想要了解枫原万叶·其二"
+      },
+      "text": {
+        "ru": "У меня очень острый слух. Я слышу, как несётся по горам ветер, как расходятся облака, как в лесу грызут яблоки лисята, как крабы выдувают пузырьки... Это дар природы. Он позволяет мне почуять опасность задолго до её наступления.",
+        "en": "I have a very keen sense of hearing. My ears pick up all sorts of sounds: the wind through the mountain passes, the parting clouds, the sound of foxes chewing on apples in the forest, the sound of crabs blowing bubbles... This is nature's favor, it allows me to sense danger long before it draws near.",
+        "zh": "我的耳朵很敏锐，能够听到各种各样的声音。比如风吹过山岗的声音，云散开的声音，林间的小狐狸啃咬苹果的声音，螃蟹吐泡泡的声音…这是自然万物对我的眷顾，让我总能提前发现危险的到来。"
+      },
+      "source_id": 40037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Кадзухе III",
+        "en": "About Kaedehara Kazuha: III",
+        "zh": "想要了解枫原万叶·其三"
+      },
+      "text": {
+        "ru": "В детстве я обожал дождь. Звуки его убаюкивали меня, погружая в беспечный сон. А теперь, когда я вырос, мои чувства стали... неоднозначными. Мне, конечно же, нравится слушать дождь, но когда надвигаются тёмные тучи, я не могу не посетовать: «Найдётся ли сегодня добрый человек, который приютит меня на ночь?» Слушать дождь в мокрой одежде не очень приятно. Особенно портит настроение насморк.",
+        "en": "I used to love the rain when I was small. The sound of it would lull me into a peaceful sleep. But since I've grown older, my feelings have become more... complicated. I still like to listen to the rain today, but whenever I see the storm clouds start to gather, my heart sinks and I can't help but wonder: \"Hm... will some nice person let me stay the night today?\" Listening to the rain in drenched clothes is hardly peaceful — hehe... nothing can be when you're constantly interrupting yourself by sneezing.",
+        "zh": "小时候我很喜欢下雨，那种沙沙的声响容易给人一个安稳的梦。但长大了以后，对雨的感情就变得复杂了许多…虽然依旧喜欢听雨，但每次看到乌云的时候，却又忍不住感叹「今天能不能找到好心人让我借宿呢」。穿着湿漉漉的衣服听雨，往往会被喷嚏声打断了情调。"
+      },
+      "source_id": 40038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Кадзухе IV",
+        "en": "About Kaedehara Kazuha: IV",
+        "zh": "想要了解枫原万叶·其四"
+      },
+      "text": {
+        "ru": "Я никогда не задерживаюсь подолгу в одном и том же месте. Если задержусь, ослабнет моя связь с природой, а меч затупится. Я, пока могу, буду плавать в дальние края и встречать разных людей.",
+        "en": "I never stay in a single place for very long. Stagnancy dulls both my connection with nature and the blade I wield. While I am still able to, I want to travel far and wide and meet all sorts of different people.",
+        "zh": "我不会在一个地方驻足太久。因为太久的停留会让我跟「自然」产生隔阂，也会让我手里的刀变钝。趁我还能远航，我希望自己能去各种各样的地方，见到不同的人们。"
+      },
+      "source_id": 40039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Кадзухе V",
+        "en": "About Kaedehara Kazuha: V",
+        "zh": "想要了解枫原万叶·其五"
+      },
+      "text": {
+        "ru": "Не переживай. Если однажды наши пути разойдутся, мы обязательно встретимся вновь в каком-нибудь уголке мира. Не так-то просто разделить людей, связанных судьбой.",
+        "en": "Don't worry — even if the day comes for us to go our separate ways, I am certain that we will meet again, in some corner of the world. The fate that brings people together is not a cord so easily cut.",
+        "zh": "不必担心，就算有一天我们去往不同的地方，也一定会在世界的某处再次相遇。人与人的「缘」不是那么容易就断掉的东西。"
+      },
+      "source_id": 40040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Хобби Кадзухи...",
+        "en": "Kaedehara Kazuha's Hobbies",
+        "zh": "枫原万叶的爱好…"
+      },
+      "text": {
+        "ru": "Мне нравится дремать на нагретом полуденным солнцем камне, а затем проснуться и идти куда глаза глядят. Пока мой меч со мной, я могу отправиться куда угодно.",
+        "en": "I like falling asleep on a warm rock that's been soaking in the mid-afternoon sun, then waking up and continuing on my journey with no particular aim in mind. So long as I have my blade by my side, there is nowhere I cannot go.",
+        "zh": "躺在被正午的阳光晒暖的岩石上休息，醒来后继续漫无目的地前行。只要与刀相伴，我可以去任何地方。"
+      },
+      "source_id": 40041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Беспокойство Кадзухи...",
+        "en": "Kaedehara Kazuha's Troubles",
+        "zh": "枫原万叶的烦恼…"
+      },
+      "text": {
+        "ru": "Пред бурей звуки природы превращаются в гомон. У меня самого начинает жужжать в ушах. Ночью же я ворочаюсь и никак не могу уснуть. Это ещё та головная боль...",
+        "en": "The sounds of nature turn into a clamor of noise during stormy weather. It becomes a constant buzz in my ears. If it happens at night, I end up tossing and turning all night long without getting a wink of sleep. It's quite the headache...",
+        "zh": "每逢风暴降临的时候，「自然」的声音就会变得嘈杂，我的耳朵也会嗡嗡作响。如果是在晚上的话，往往会辗转许久都无法入眠，让人有些头痛。"
+      },
+      "source_id": 40042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Еда, которую проще всего добыть в плавании - рыба. Каждый морской странник должен уделить особое внимание тому, как приготовить рыбное блюдо вкусно. При случае мне хотелось бы угостить тебя моими творениями.",
+        "en": "The most easily obtainable food source when you're out at sea is, of course, fish. So it goes without saying that a seafaring adventurer must give careful consideration to how to cook a tasty fish-based meal... If the chance arises, I'd like you to try some of my cooking.",
+        "zh": "在大海上航行时，最容易获取到的食材便是鱼肉。怎么样把鱼做得好吃，是每个在海上冒险的人都要思考的问题。有机会的话，也想让你尝尝看我的手艺。"
+      },
+      "source_id": 40043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Мне не нравится еда, приготовленная абы как. По-моему, даже самую обычную рыбу при запекании следует доводить до совершенства. Трапезой должно наслаждаться. Разве можно довольствоваться чем попало?",
+        "en": "I am not particularly fond of food that is thrown together in a hurry without much care and attention. The way I see it, if your meal consists of a single fish, you should grill it to perfection. Eating is supposed to be an enjoyable experience, so how can we stand to be so slapdash about it?",
+        "zh": "我呢，不是特别喜欢那些粗制的食物。在我看来，就算是一条普普通通的鱼也要烧得好吃才行，吃东西本应是让人身心愉快的事情，怎么能将就呢？"
+      },
+      "source_id": 40044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Ах... Я узнал, что у тебя сегодня день рождения, и написал тебе хайку. К сожалению, оно не блещет. За несколько вечеров я сочинил только две строки. Их я тебе сначала и зачитаю.\n\nРассвет пылает.\nИдём под небом чужим\n\n...Постой, ничего не говори, ко мне пришло вдохновение.\n\nСо старым другом.\n\nЧто скажешь? С днём рождения. Поедим сегодня... чего-нибудь сладкого.",
+        "en": "I heard it was your birthday, so I wrote a haiku for you. Unfortunately, I'm not the most talented in this area, and after trying for several evenings, I was still only able to come up with the first two lines... I guess I'll just share what I've got so far, then. \"Sun and moon rejoice / Birds of dawn sing songs anew\"... Wait, don't say a word, I think the final line is coming to me... Yes, how about... \"Far from home, with you.\" Anyway, Happy Birthday. Let's go and get you some cake, shall we?",
+        "zh": "哈…得知今天的生日，我特地写了新的诗歌。只可惜诗才不佳，几个晚上只想到前两句，就先送给你吧。\n「流光换日月，鹤归云起庆生时」…欸等等，先别说话，我有灵感了。最后一句…「异乡有故知」，如何？\n生日快乐，今天一起去…吃点甜品吧。"
+      },
+      "source_id": 40045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Мой клинок становится острее.",
+        "en": "My blade grows keener.",
+        "zh": "这把刀，更加锋利了。"
+      },
+      "source_id": 40046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Снежинки падают на землю так тихо, почти неслышно... Но теперь мои чувства как никогда остры, и я смогу услышать и это.",
+        "en": "The sound of snow as it lands on the ground is so faint as to be practically nonexistent... But now, my senses are sharper than ever, and I believe I should be able to discern it.",
+        "zh": "雪落在地上的声音，细不可闻…但现在的我，应该可以听到了。"
+      },
+      "source_id": 40047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Могуч морской вал. Достичь новых вершин силы хочу и я.",
+        "en": "The waves rise high out in the open seas. I, too, must reach new heights of strength.",
+        "zh": "海上的风浪很大，我也要变得更强。"
+      },
+      "source_id": 40048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Когда странствуешь по свету, огорчения и невзгоды непременно будут ходить за тобой. Вот только мне кажется, что после знакомства с тобой и мой дух, и боевые навыки выросли. Уверен, отныне в моей жизни будет ещё больше свободы.",
+        "en": "As one travels the world, sorrows and frustrations are bound to journey with you. But I find that I've grown since meeting you, both in martial arts and in strength of character. I am confident that I will be more at ease in life from this point forth.",
+        "zh": "行走世间，自然会有各种烦恼相伴，但既得与你相遇，不管是武艺还是内心都有了新的成长。想必今后的人生也会更加自在吧。"
+      },
+      "source_id": 40049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Ци!",
+        "en": "Tch!",
+        "zh": "起！"
+      },
+      "source_id": 40050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Хи-и!",
+        "en": "Huh!",
+        "zh": "嘿！"
+      },
+      "source_id": 40051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Танцую с ветром!",
+        "en": "Wind strider!",
+        "zh": "踏风！"
+      },
+      "source_id": 40052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Лечу, оседлав ветер!",
+        "en": "Into the wind.",
+        "zh": "御风而行。"
+      },
+      "source_id": 40053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Ветер меня знает.",
+        "en": "The wind knows me.",
+        "zh": "朔风解意。"
+      },
+      "source_id": 40054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Мы с природой едины!",
+        "en": "One with nature!",
+        "zh": "往返自然！"
+      },
+      "source_id": 40055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Облака скрылись... Зов птицы!",
+        "en": "Clouds hide... the bird's call!",
+        "zh": "云隐…雁鸣！"
+      },
+      "source_id": 40056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Едины с ветром и облаками!",
+        "en": "As one with wind and cloud.",
+        "zh": "风共云行。"
+      },
+      "source_id": 40057
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Падшие листья... украшают полог ночи.",
+        "en": "Fallen leaves... adorn my night.",
+        "zh": "可叹，落叶飘零。"
+      },
+      "source_id": 40058
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Время действовать.",
+        "en": "Time to go.",
+        "zh": "该出发了。"
+      },
+      "source_id": 40059
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Запуск планера I",
+        "en": "Deploying Wind Glider: I",
+        "zh": "打开风之翼·其一"
+      },
+      "text": {
+        "ru": "Ветер указывает путь.",
+        "en": "I follow the wind.",
+        "zh": "顺着风的方向。"
+      },
+      "source_id": 40060
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Это вызывает у меня улыбку.",
+        "en": "Brings a smile to my face.",
+        "zh": "令人快慰。"
+      },
+      "source_id": 40061
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Судьбоносное подношение.",
+        "en": "A fateful offering.",
+        "zh": "天地的馈赠。"
+      },
+      "source_id": 40062
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Кто сказал, что в бродячей жизни нет никаких преимуществ?",
+        "en": "Who says there aren't benefits to a life of wandering?",
+        "zh": "偶遇珍宝，是云游四方的妙趣之一。"
+      },
+      "source_id": 40063
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Ха, недурно.",
+        "en": "Huh, not bad...",
+        "zh": "呼、有一套嘛…"
+      },
+      "source_id": 40064
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Мне нужно сохранять спокойствие.",
+        "en": "I must remain calm.",
+        "zh": "静心凝神。"
+      },
+      "source_id": 40065
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Нужно сосредоточиться!",
+        "en": "Stay focused!",
+        "zh": "保持专注！"
+      },
+      "source_id": 40066
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Мой черёд помочь тебе!",
+        "en": "My turn to aid you!",
+        "zh": "换我来保护你了！"
+      },
+      "source_id": 40067
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Я тебя прикрою.",
+        "en": "I've got your back.",
+        "zh": "你可以把后背交给我。"
+      },
+      "source_id": 40068
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Столько сожалений...",
+        "en": "So many regrets...",
+        "zh": "深感遗憾…"
+      },
+      "source_id": 40069
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Больше... никогда...",
+        "en": "Never... again...",
+        "zh": "下次…绝不会再…"
+      },
+      "source_id": 40070
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Это... конец...",
+        "en": "This is... the end...",
+        "zh": "结束了吗…"
+      },
+      "source_id": 40071
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Какая... мелочь.",
+        "en": "It's...fine.",
+        "zh": "不要…紧。"
+      },
+      "source_id": 40072
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Эй, не так сильно!",
+        "en": "That hurt!",
+        "zh": "好痛！"
+      },
+      "source_id": 40073
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Возьмешь меня с собой?",
+        "en": "Want me to come along?",
+        "zh": "要带上我吗？"
+      },
+      "source_id": 40074
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Ладно, пора в путь!",
+        "en": "Alright, let's head off.",
+        "zh": "出发出发。"
+      },
+      "source_id": 40075
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Звучит неплохо.",
+        "en": "Sounds good to me.",
+        "zh": "就这么做吧。"
+      },
+      "source_id": 40076
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "О Сангономии Кокоми...",
+        "en": "About Sangonomiya Kokomi",
+        "zh": "关于珊瑚宫心海…"
+      },
+      "text": {
+        "ru": "Когда я был в сопротивлении, меня окружали бойцы, которые равнялись на госпожу Сангономию. Она любит своих солдат, редко вступает в кровопролитные бои и всегда побеждает с минимальными потерями. Я слышал, что ей также пришлось возглавить правительство и взять на себя внешние связи острова Ватацуми. Она очень занята...",
+        "en": "During my time with the Resistance, there was no one among our ranks who wouldn't look up to Her Excellency. As someone with a great passion for military matters, victory at all costs isn't really part of her ethos. She'd always try to limit the casualties to the minimum while planning her next move. By some accounts, it also seems that she seeks to take charge of both internal and foreign affairs for Watatsumi Island. Wouldn't that be too much to expect of herself though?",
+        "zh": "我在反抗军的时候，周围的同伴无不对珊瑚宫大人充满敬仰。她爱惜兵力，很少会做出不计死伤的打法，总是能够用最小的代价取得胜利。听说她还要统管海祇岛的政务和外交，真的忙得过来吗…"
+      },
+      "source_id": 40077
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "О Сиканоине Хэйдзо...",
+        "en": "About Shikanoin Heizou",
+        "zh": "关于鹿野院平藏…"
+      },
+      "text": {
+        "ru": "Пусть вас не обманывает его веселый нрав. Как только он берётся за дело, его неугомонная энергия превращается в острую сосредоточенность. Это достойно восхищения.",
+        "en": "Don't be deceived by his happy-go-lucky disposition. As soon as he gets working on a case, that restless energy he carries around turns into a razor-sharp focus. It's quite remarkable to witness.",
+        "zh": "别看我这位侦探朋友平日里潇洒随性，一旦他办起案子来，那些原本围绕在他身旁活泼灵动的风，就聚成了凌厉锐气。确实让人钦佩。"
+      },
+      "source_id": 40078
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Способность сделать рыбу настолько вкусной является доказательством твоего выдающегося кулинарного мастерства.",
+        "en": "That you can make fish taste as delicious as this is proof of your outstanding culinary prowess.",
+        "zh": "能将鱼肉烹调出如此滋味，你的手艺当真了得。"
+      },
+      "source_id": 40079
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Твои блюда не только утоляют голод, но и успокаивают душу.",
+        "en": "Your cooking not only fills the stomach, it also soothes my soul.",
+        "zh": "你做的饭菜不仅能够饱腹，对我而言也是慰藉。"
+      },
+      "source_id": 40080
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Возможно, тебе стоит отдохнуть? Уставший повар готовит безвкусные блюда.",
+        "en": "Perhaps you should get some rest? A weary mind is a recipe for flavorless food.",
+        "zh": "要休息一下吗？内心疲惫的话，做出来的菜也会失去风味。"
+      },
+      "source_id": 40081
+    }
+  ],
+  "replica_count": 73
 }

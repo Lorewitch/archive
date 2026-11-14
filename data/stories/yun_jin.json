@@ -144,5 +144,974 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Как говорится, никакие истории о человеке не сравнятся с личным знакомством. Наконец-то мне выпала честь повстречать тебя. Меня зовут Юнь Цзинь. Я всего лишь скромный руководитель оперной труппы Юнь Хань. Последнее время мы выступаем в чайном доме «Хэюй». Надеюсь, ты почтишь нас своим присутствием.",
+        "en": "As the saying goes, you never truly know someone until you meet them in person, and at long last, I finally have the great honor of meeting you today. My name is Yun Jin, and I am humbled to be the director of the Yun-Han Opera Troupe. We have been performing at Heyu Tea House as of late, and we'd be honored to have you attend a performance sometime.",
+        "zh": "有道是闻名不如见面，今天终于有缘与你相会，实属荣幸。我姓云，单名一个堇字，不才正是云翰社当家主事的人。我们戏社最近挂靠在和裕茶馆，日后还请多多赏光，常来听戏。"
+      },
+      "source_id": 64000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Чувствительная тема",
+        "en": "Chat: Sensitive Topic",
+        "zh": "闲聊·敏感话题"
+      },
+      "text": {
+        "ru": "Последние пару дней мне что-то тесновато в талии. Быть может... я излишествовала в еде?",
+        "en": "My waistband has been feeling a little snug these last couple of days... Methinks I perchance have overindulged...",
+        "zh": "这两天总觉得身上腰封有点紧，难道…我胖了？"
+      },
+      "source_id": 64001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Отдых",
+        "en": "Chat: Relaxing",
+        "zh": "闲聊·闲适"
+      },
+      "text": {
+        "ru": "Ах... Сегодня я не стану делать причёску и макияж и с радостью предамся отдыху!",
+        "en": "Ahhh... Yes, I shall spare myself the hair and makeup routine today, and happily idle my time away!",
+        "zh": "不勒头，不画脸，今天乐得清闲。"
+      },
+      "source_id": 64002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Исполнение оперы",
+        "en": "Chat: Singing Opera",
+        "zh": "闲聊·清唱"
+      },
+      "text": {
+        "ru": "Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам.",
+        "en": "(Translated) How gently do the clouds and flowers sway, as dancing winds meander through the vales.",
+        "zh": "云婵娟来花婵娟，风流尽在山水间。"
+      },
+      "source_id": 64003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "...Ох, т-ты слышал это? / ...Ох, т-ты слышала это?",
+        "en": "*gasp* D—Did you hear that? Whew, it really startled me!",
+        "zh": "…嘶，你听、听见打雷没有？吓我一跳。"
+      },
+      "source_id": 64004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Б-р-р! Этот холод погубит меня!",
+        "en": "(Translated) Fie! This cold shall be mine end!",
+        "zh": "喂呀，冻煞我了。"
+      },
+      "source_id": 64005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Тёплый солнечный день, какая красота...",
+        "en": "What a sight to behold, the sun so warm and radiant...",
+        "zh": "暖阳和煦，真是好风光呀。"
+      },
+      "source_id": 64006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Рассветная роса отлично подходит для заваривания чая. Попьём чаю и в путь!",
+        "en": "Good morning! The dew at dawn is perfect for brewing tea, so I made some for you. Drink up, and then we'll head off!",
+        "zh": "早，清晨露水正好煎茶，喝完这杯茶再出发吧。"
+      },
+      "source_id": 64007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Хорошо бы после обеда подремать... Хм? Ты не устал? / Хорошо бы после обеда подремать... Хм? Ты не устала?",
+        "en": "I'd like to indulge in a nap after lunch. Oh? ...You're not tired?",
+        "zh": "午饭吃完之后，想睡一觉…哈…你不困吗？"
+      },
+      "source_id": 64008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Давай сегодня сходим и послушаем рассказчиков. «Дождь клинков» в исполнении господина Лю Су неповторим.",
+        "en": "Let's go listen to tonight's storytelling performance together. Liu Su's rendition of \"Ring of Raining Blades\" is most sublime!",
+        "zh": "一道去听听晚场说书吧，刘苏先生讲《裁雨声》是一绝。"
+      },
+      "source_id": 64009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Сегодня в воздухе витает прохлада, так что ложись пораньше. Спокойной ночи.",
+        "en": "There's a chill in the air tonight, so you mustn't stay out late. Good night!",
+        "zh": "夜里寒气重，早点歇息，晚安。"
+      },
+      "source_id": 64010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "О Юнь Цзинь: Учёба",
+        "en": "About Yun Jin: Schooling",
+        "zh": "关于云堇自己·开蒙"
+      },
+      "text": {
+        "ru": "Моё обучение началось очень рано. Одно из самых ранних моих воспоминаний - как отец учит меня читать. К сожалению, я даже наполовину не так одарена, как он. Для написания опер этого достаточно, но до его уровня эрудиции мне далеко.",
+        "en": "My schooling started very early. In fact, my earliest memories are of my father teaching me to read. Despite my best efforts, my ability is not half of his. Enough to write operas, but compared to his level of erudition, I still have much to strive for.",
+        "zh": "我开蒙早，刚记事的时候父亲就在教我读书了。可惜，他的本事要是有十分，我恐怕只学到了三分。写戏是够用了，但要和饱学之士相比，还差得太远。"
+      },
+      "source_id": 64011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Юнь Цзинь: Театральное обучение",
+        "en": "About Yun Jin: Opera Training",
+        "zh": "关于云堇自己·坐科"
+      },
+      "text": {
+        "ru": "В молодости моя мать была знаменитой оперной певицей гавани Ли Юэ. Все известные мне оперы я узнала от неё. Но ты и представить себе не можешь, каким строгим учителем она была. Стоит мне только вспомнить... Нет-нет-нет, лучше этого не вспоминать.",
+        "en": "In her youth, my mother was a famous opera singer in Liyue Harbor, and I learned all the operas I know from her. But, you could never imagine how strict she was with me as a teacher. Thinking back on it now, I... *sigh* No, no, no, I'd rather not think about it at all.",
+        "zh": "我母亲早年是璃月港内大有名气的角儿，我学的戏都是她教的。你是不知道她有多严厉，一想起以前学戏的经历…不不不，我还是别想了。"
+      },
+      "source_id": 64012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Оперная труппа",
+        "en": "About Us: Opera Troupe",
+        "zh": "关于我们·搭班"
+      },
+      "text": {
+        "ru": "Нам скоро предстоит дать несколько крупных выступлений, и так уж получилось, что на одну из ролей нам нужен опытный фехтовальщик. Думаю, ты замечательно подходишь. Что скажешь, хочешь присоединиться к труппе? А в перерывах мы бы наслаждались чаем.",
+        "en": "We have some grand performances coming up soon, and it just so happens that we have an opening for someone to play the part of a skilled swordfighter. I think you'd be a perfect match for the part. How about it? Would you like to join our troupe? We can even enjoy some tea together in between acts.",
+        "zh": "最近有几场大戏，正好缺一位擅长舞剑的演员，我觉得你各方面都挺适合。怎么样，有兴趣搭班吗？休息时，还能一起品茶。"
+      },
+      "source_id": 64013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Рок-н-ролл",
+        "en": "About Us: Rock 'n' Roll",
+        "zh": "关于我们·摇滚"
+      },
+      "text": {
+        "ru": "Хм? Тебе нравится рок-н-ролл? Вот здорово! В следующий раз пойдём на концерт вместе. А когда я вернусь, то скажу старшим, что проведывала тебя. Хе-хе, тогда у них не найдётся причин ворчать по поводу моего отсутствия.",
+        "en": "Huh? You like rock 'n' roll? Oh, that's great! I'll be sure to bring you along the next time I go out to see a show. And when I get back, I can just tell the senior troupe members that I went out to visit you... Hehe, that way, they won't have any reason to get on my case about going out.",
+        "zh": "欸，你还听摇滚？正好正好，下回我想出去听演唱会的时候，就找你一块去。回来的时候，我就说是拜访你去了，这下戏社里的老人肯定找不到借口唠叨我。"
+      },
+      "source_id": 64014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Мой Глаз Бога?.. Наверное, Властелину Камня нравится опера. Быть может, старику так понравилось моё выступление, что он решил одарить меня Глазом Бога, ха-ха.",
+        "en": "Hmm? My Vision? Hehe, I suppose the Lord of Geo must be a fan of the opera. Perhaps the old man was so delighted with my performance that he decided to grant me a Vision.",
+        "zh": "这神之眼嘛…说不定岩王爷也喜欢听戏呢？大概他老人家听得开心，就把神之眼送给我了，哈哈。"
+      },
+      "source_id": 64015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся: Напитки",
+        "en": "Something to Share: Drinks",
+        "zh": "有什么想要分享·饮品"
+      },
+      "text": {
+        "ru": "Больше всего мне нравится пробовать разные напитки. Я испробовала все изысканные сорта чая, изобретённые прошлыми поколениями, например, Сосновый нектар и Снежная слива. Я уже начинаю беспокоиться, что скоро не останется новых для меня напитков. Порекомендуешь что-нибудь?",
+        "en": "One of my absolute favorite pastimes is trying out all kinds of new beverages. I've already tried all the sophisticated-sounding drinks that previous generations came up with — you know, like Pine Nectar Tea and Snow Blossom Tea. I'm beginning to worry that I'll run out of new drinks to try soon. You don't happen to have any recommendations, do you?",
+        "zh": "我最喜欢尝试各种各样的饮品。老一辈发明的那些讲究茶饮，什么松间露呀梅上雪的，都让我试了个遍。现在正愁没有新饮品可以喝呢，欸，你有什么推荐吗？"
+      },
+      "source_id": 64016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся: Мечты",
+        "en": "Something to Share: Dreams",
+        "zh": "有什么想要分享·心愿"
+      },
+      "text": {
+        "ru": "Иногда мне хочется сбросить мой театральный костюм и отправиться путешествовать в другие края, посмотреть мир... А пока я должна упорно трудиться, чтобы когда-нибудь эта мечта осуществилась.",
+        "en": "Sometimes, I just feel like casting off my opera costume and going traveling overseas. You know, to explore the outside world. For now, I'll need to keep working hard at what I'm doing, so someday that dream can come true.",
+        "zh": "我偶尔也想脱下戏服，远游海外，去更大的世界看看。为了实现这个心愿，得更加努力才行。"
+      },
+      "source_id": 64017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Пение птиц на рассвете всегда поднимает мне настроение.",
+        "en": "The chirping of the songbirds at daybreak always puts me in the best of moods.",
+        "zh": "每天天刚破晓就能听见莺雀鸣啭，心情总能变得很好。"
+      },
+      "source_id": 64018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Синь Янь...",
+        "en": "About Xinyan",
+        "zh": "关于辛焱…"
+      },
+      "text": {
+        "ru": "Старшие члены труппы беспрестанно твердят о дурном влиянии рок-н-ролла и, само собой, не позволяют мне ходить на концерты Синь Янь. Мол, это для моего же блага. Хе, они просто неспособны принять новое. Эти старики мне не указ. Я ходила на концерты Синь Янь каждую неделю и буду ходить, и всё тут.",
+        "en": "The elders of the troupe are always harping on about rock 'n' roll being a bad influence. Needless to say, they never approve of me going to see Xinyan's shows. \"It's for your own good,\" they say. Hmph, all it's really about is their inability to accept anything new. Whatever, those old fogies can't tell me what to do. I'm going to keep rocking out at Xinyan's gigs, every week, and that's that.",
+        "zh": "戏社里那几个老人天天念叨，说是听多了摇滚会被带坏，不让我去听辛焱的演唱会。嘴上说着为我好，哼，我看他们只是接受不了新事物而已。我才不会听他们的，辛焱的演唱会我每周都要去，就是这样。"
+      },
+      "source_id": 64019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Ху Тао...",
+        "en": "About Hu Tao",
+        "zh": "关于胡桃…"
+      },
+      "text": {
+        "ru": "Ах да, Ху Тао. Очень выразительное лицо и острый ум. Даже в разговоре о самых заурядных вещах она сыплет остроумными замечаниями. Я ею восхищаюсь! С такими друзьями, как она, не соскучишься.",
+        "en": "Ah yes, Hu Tao. Very expressive face, and she has a sharp mind too — you can be discussing the most mundane thing in the world, and she'll always bring out a string of witty remarks. I admire her a lot. There's never a dull moment when you have friends like her around.",
+        "zh": "胡桃她呀，表情丰富，脑筋还转得快，哪怕只是聊些家常都能「妙语连珠」。真让人羡慕。和这样的朋友在一起，无论做什么事情都很有趣。"
+      },
+      "source_id": 64020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Чжун Ли...",
+        "en": "About Zhongli",
+        "zh": "关于钟离…"
+      },
+      "text": {
+        "ru": "Оперные традиции очень своеобразны и передаются из поколения в поколение. Иногда я обнаруживаю, что знаю только «как», но не «почему». Но в разговорах с Чжун Ли становится совершенно очевидно, что он знает происхождение практически всего. Кто не был бы рад иметь среди своей публики такого знатока?",
+        "en": "The customs of the opera are very particular, and are passed down from generation to generation. Sometimes I find that I only know the hows but not the whys behind what we do. But when speaking with Zhongli, it is abundantly evident that he knows the origins behind almost everything. Who wouldn't be delighted to have such a connoisseur in their audience?",
+        "zh": "我们这行的规矩代代相传，讲究多得很。有些事我只知其然，却不知其所以然。但钟离先生讲起这些竟能如数家珍，有这样懂行的观众，谁不开心呢？"
+      },
+      "source_id": 64021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Нин Гуан...",
+        "en": "About Ningguang",
+        "zh": "关于凝光…"
+      },
+      "text": {
+        "ru": "Воля Небес щедра и уже немало пожертвовала нашей труппе. Отплатить за её щедрость я могу лишь своей лучшей игрой.",
+        "en": "The Tianquan is a big spender and has made several very generous donations to our troupe. I can only return her generosity by delivering my best possible performance.",
+        "zh": "天权星出手阔绰，没少资助我们戏社。领了她的情，自然也要回报给她最好的演出。"
+      },
+      "source_id": 64022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Син Цю...",
+        "en": "About Xingqiu",
+        "zh": "关于行秋…"
+      },
+      "text": {
+        "ru": "О, так вы с Син Цю знакомы? Ха-ха, он весьма умён и остроумен. Если ослабишь бдительность, то тут же станешь объектом его розыгрышей... Не говори, что я не предупреждала.",
+        "en": "Oh, so you are also acquainted with Xingqiu? Haha, he is quite the clever one, and with a sharp wit as well. The moment you let your guard down, you're at risk of becoming the butt of one of his practical jokes... Don't say I didn't warn you.",
+        "zh": "原来你也认识行秋。哈哈，他聪明得很，鬼主意那么多，怕是一不留神就会捉弄你，可得留个心眼啊。"
+      },
+      "source_id": 64023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Шэнь Хэ...",
+        "en": "About Shenhe",
+        "zh": "关于申鹤…"
+      },
+      "text": {
+        "ru": "Сценарий «Созерцания богини уничтожения» я знаю практически наизусть уже много лет, но лишь недавно я обнаружила, что та самая «богиня» - реальная личность. Жизнь поистине полна неожиданностей! Я надеюсь, что она найдёт настоящих друзей и больше никогда не будет одинокой.",
+        "en": "I have long since known \"The Divine Damsel of Devastation\" inside out, back to front, but it was only very recently that I learned that the \"divine damsel\" in question is actually a real person. Life is full of strange twists sometimes! My only hope is that she can find true friendship and never be lonely again.",
+        "zh": "《神女劈观》的剧本我早就念得烂熟，但直到今天我才知道「神女」原来真有其人，世上缘分果然奇妙。惟愿她往后都有好友相伴，不再孤寂。"
+      },
+      "source_id": 64024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Кэ Цин...",
+        "en": "About Keqing",
+        "zh": "关于刻晴…"
+      },
+      "text": {
+        "ru": "Я ни разу не видела Нефритовое Равновесие в опере. Да что там, каждый раз, когда я вижу её на улице, она постоянно куда-то спешит.",
+        "en": "I have yet to see the Yuheng ever attend an opera performance. Now that I think about it, whenever I happen to see her out on the street, she always seems to be in a great hurry.",
+        "zh": "我倒没见过玉衡星来听戏。印象里，路边偶遇这位时，她也总是一副行色匆匆的样子。"
+      },
+      "source_id": 64025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Кадзухе...",
+        "en": "About Kaedehara Kazuha",
+        "zh": "关于枫原万叶…"
+      },
+      "text": {
+        "ru": "Немало иноземцев любит оперу Ли Юэ, и Каэдэхара Кадзуха один из них. Будь то партия струнно-духовых или ударных, он всегда сидит тихо и слушает. Образцовый зритель!",
+        "en": "Kaedehara Kazuha is among the many outlanders who enjoy Liyue opera. Whether it's an orchestral section or a percussive piece, he always sits there and listens quietly. Talk about great manners!",
+        "zh": "爱听戏的外国人士也有不少，这位枫原万叶就是其中之一。不论台上演的是文场还是武场，他总是安安静静地听，是个规矩的好观众。"
+      },
+      "source_id": 64026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Юнь Цзинь I",
+        "en": "More About Yun Jin: I",
+        "zh": "想要了解云堇·其一"
+      },
+      "text": {
+        "ru": "Многие из опер, которые мы сейчас исполняем, новые. Я написала их после того, как стала руководителем труппы. Думаю, именно то, что я могу писать собственный материал и исполнять его, способствовало росту моей популярности в Ли Юэ.",
+        "en": "Many of the operas we've been performing recently are new ones that I wrote after assuming the directorship of the troupe. I suppose the fact that I can both write and sing my own material has contributed to my rising popularity in Liyue Harbor.",
+        "zh": "我们戏社现在常唱的几出戏，有不少是我当家之后新写出来的。写也是我，唱也是我，一人多职，大概是因为这一点，我在璃月港有了些名气。"
+      },
+      "source_id": 64027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Юнь Цзинь II",
+        "en": "More About Yun Jin: II",
+        "zh": "想要了解云堇·其二"
+      },
+      "text": {
+        "ru": "По традиции актёрам перед выходом на сцену нужно стянуть волосы, наложить грим, надеть костюм и совершить множество других приготовлений. Звезда оперы в полном облачении, конечно, выглядит эффектно, но как же это утомительно. Поэтому я по возможности стараюсь выступать без грима, а если необходимо выступать в костюме и гриме, я стараюсь выбирать костюм полегче. К счастью, чайный дом «Хэюй», с которым мы сотрудничаем, уже давно, даёт нам послабления. В противном случае мы бы валились от изнеможения.",
+        "en": "Per the tradition, actors must wrap their hair, put on full-face makeup and an elaborate costume, and make all sorts of other preparations before they take the stage. There's no doubt that an opera star in full attire looks spectacular, but achieving this look is frightfully exhausting. So I perform without hair and makeup whenever I have the option — and if I must perform in full dress, I try to select a costume that isn't too heavy. Fortunately, the good folks at Heyu Tea House are quite lenient with us. Otherwise, we'd be working ourselves to early graves.",
+        "zh": "按照传统，伶人登台之前要勒头、画脸、穿行头，还有其他一些零碎的准备工作。虽然这样「全副武装」之后扮相会更好看，但也累人。所以我能清唱时就清唱，非得彩唱的话，我往往会挑轻便点的行头。\n幸好和我们戏社长期合作的和裕茶馆管得宽松，要不然我真是要累惨了。"
+      },
+      "source_id": 64028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Юнь Цзинь III",
+        "en": "More About Yun Jin: III",
+        "zh": "想要了解云堇·其三"
+      },
+      "text": {
+        "ru": "В самом начале моей оперной карьеры любовь публики вскружила мне голову, что не могло не сказаться на поведении. Не нравится сценарий? Не выступаю. Сцена тесновата? Не выступаю. Мало зрителей? Не выступаю. Сейчас я понимаю, какой я была... высокомерной. Никогда больше такого себе не позволю.",
+        "en": "At the start of my opera career, I have to say I did let the standing ovations from our audiences go to my head a little. It wasn't long before I developed a captious attitude... If I didn't like the script, or if the stage was too small, or if I thought there weren't enough people in the audience, I would refuse to perform. Looking back now, it was all terribly arrogant of me... my goodness. I shall never let myself become so vain again.",
+        "zh": "当初我刚登台唱戏，凭着观众抬爱，不免有些心高气傲。戏本不喜欢就不唱，戏台子小了也不唱，观众少了还是不唱。现在想来，那时候可真是…太傲慢了…以后万万不能这样。"
+      },
+      "source_id": 64029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Юнь Цзинь IV",
+        "en": "More About Yun Jin: IV",
+        "zh": "想要了解云堇·其四"
+      },
+      "text": {
+        "ru": "Оперная труппа Юнь Хань вот уже некоторое время находится под моим руководством. До этого я лишь умела писать оперы и исполнять их на сцене. Я никогда не задумывалась над тем, как управлять труппой. Когда я стала руководителем, мне пришлось быстро научиться многим вещам и пережить немало взлётов и падений в общении с людьми... Только теперь я понимаю, что жизнь отражает оперу, как и опера отражает жизнь.",
+        "en": "Now that I think about it, the Yun-Han Opera Troupe has been under my leadership for quite some time now. Before taking it over, I only knew two things: how to write opera and how to perform it on stage. I never gave any thought to how to run a troupe. Becoming the troupe's director gave me a crash course in this unfamiliar area and I've experienced all the highs and lows of working with people along the way... Only now do I understand that life mirrors opera, just as opera reflects life.",
+        "zh": "回想起来，云翰社传到我手上也有段时间了。原本我只懂得写戏、唱戏，从来没把心思放在经营交际上。做了戏社的当家之后，才不得不在这些事上多长点心眼，因此体味到不少人情冷暖…\n这时候我才真知道，人生如戏，戏如人生啊。"
+      },
+      "source_id": 64030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Юнь Цзинь V",
+        "en": "More About Yun Jin: V",
+        "zh": "想要了解云堇·其五"
+      },
+      "text": {
+        "ru": "Многие из легенд Ли Юэ повествуют об Архонтах и Адептах, поэтому и у большинства опер главная тема - сверхъестественное. Под эту категорию подпадает и наша последняя постановка, «Созерцание богини уничтожения». Давним поклонникам оперы такие истории по душе, но в наш век человечества мне хотелось бы рассказывать о людях. Да, было бы здорово петь о мечтах и надеждах простых людей. Я ещё ни с кем не делилась этой мыслью... Спасибо, что терпеливо выслушал меня. Мне очень повезло иметь такого друга, как ты. / Многие из легенд Ли Юэ повествуют об Архонтах и Адептах, поэтому и у большинства опер главная тема - сверхъестественное. Под эту категорию подпадает и наша последняя постановка, «Созерцание богини уничтожения». Давним поклонникам оперы такие истории по душе, но в наш век человечества мне хотелось бы рассказывать о людях. Да, было бы здорово петь о мечтах и надеждах простых людей. Я ещё ни с кем не делилась этой мыслью... Спасибо, что терпеливо выслушала меня. Мне очень повезло иметь такого друга, как ты.",
+        "en": "Well you know, many of Liyue's legends are centered around stories of gods and the adepti, so most operas focus on the supernatural, too. A prime example would be \"The Divine Damsel of Devastation,\" which we have been performing recently. Long-time opera fans adore this sort of material, but in this age of humanity, I would rather like to tell stories about ordinary people. Yes, how grand it would be to sing about the hopes and dreams of ordinary people for all to hear. I've never shared these thoughts with anyone before... Thank you for listening so patiently. I'm fortunate to have a close friend like you.",
+        "zh": "璃月多传说，大都是些魔神、仙人故事，所以璃月戏里最多的就是神仙戏。最近新演的《神女劈观》就属此类。虽然老戏迷们最爱听的就是这类故事，但如今是「人」的时代，我想多写些属于人类的故事，把天下人心唱给大家听。\n这些想法，过去我不曾向人提起。多谢你能耐心听我说这些。有一知音，我很幸运。"
+      },
+      "source_id": 64031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Хобби Юнь Цзинь...",
+        "en": "Yun Jin's Hobbies",
+        "zh": "云堇的爱好…"
+      },
+      "text": {
+        "ru": "Хобби? Ну конечно же, опера! Это моя истинная страсть, и я решила петь до конца своей жизни.",
+        "en": "My hobbies? Well, opera, of course! It's what I truly love and it's what I will be pursuing for the rest of my life.",
+        "zh": "爱好？当然是戏了。我是打定主意要唱一辈子的。"
+      },
+      "source_id": 64032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Беспокойство Юнь Цзинь...",
+        "en": "Yun Jin's Troubles",
+        "zh": "云堇的烦恼…"
+      },
+      "text": {
+        "ru": "Эх... Чтобы оставаться в форме, мне всегда приходится ограничивать себя в еде. Это очень обидно, потому что искушение отведать все лакомства города у меня так же сильно, как и у остальных.",
+        "en": "*sigh* Well, as you can probably imagine, I always have to be mindful of what I eat and make sure I stay in shape. It's a shame, because the temptation to indulge in all the tasty delicacies the city has to offer is just as strong to me as to anyone else...",
+        "zh": "烦恼…唉，为了保持体型，我平时一口都不能多吃。人生在世，连美食都不能奢求，真是遗憾哪。"
+      },
+      "source_id": 64033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Мясо «Тяньшу», чёрный окунь, ветчина на сковороде... Всё бы съела! К сожалению, обычно эти блюда мне есть не приходится, но... Если ты не возражаешь, я хотела бы спросить... Ты умеешь готовить какие-нибудь из этих блюд?",
+        "en": "Tianshu Meat, Black-Back Perch Stew, Cured Pork Dry Hotpot... Oh, I just want them all! Unfortunately, I basically never get to eat such things, but... um, if you don't mind me asking... Can you cook any of those dishes?",
+        "zh": "天枢肉、水煮黑背鲈、干锅腊肉…我都想吃。可惜平时基本吃不了，那个…我就随便问一问，你…会做这几道菜吗？"
+      },
+      "source_id": 64034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Каждый день одно и то же - обжаренные креветки... И как бы их ни приготовили, вкус всегда одинаковый. Как же они мне надоели...",
+        "en": "Every day's the same... Stir-Fried Shrimp, day in and day out. No matter how they prepare it, it always tastes the same. Ugh, ghastly! I really can't stand it anymore...",
+        "zh": "天天都是清炒虾仁，天天都是…再怎么做都还是那个味道，我是真的吃腻了。"
+      },
+      "source_id": 64035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Так у тебя сегодня день рождения? Ну, организовывать пиршества я не умею... но я могла бы спеть тебе. И только тебе одному. Какую песню тебе хотелось бы услышать? Выбирай. / Так у тебя сегодня день рождения? Ну, организовывать пиршества я не умею... но я могла бы спеть тебе. И только тебе одной. Какую песню тебе хотелось бы услышать? Выбирай.",
+        "en": "Oh, so today's your birthday? Well, I wouldn't know how to throw you a feast if I tried... so how about I sing you a song? For you alone, an audience of one. So... what song would you like to hear me sing? The choice is yours.",
+        "zh": "原来今天是你的生日吗？我没有置办宴席的本事，只能为你唱一曲了。不过，这一曲只为你一个人唱，要听什么？你来定。"
+      },
+      "source_id": 64036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Есть такая пословица: «Мастерство достигается трудом и гибнет от праздности».",
+        "en": "As the saying goes: \"Achievement in a field is the result of how hard you are willing to work at it, not how much you enjoy it.\"",
+        "zh": "俗语说：「业精于勤而荒于嬉。」"
+      },
+      "source_id": 64037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Похоже, тяжёлые тренировки наконец-то дают результат.",
+        "en": "It looks like all my rigorous training is finally paying off.",
+        "zh": "勤学苦练至今，总算是有了些成果。"
+      },
+      "source_id": 64038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Я начала тренироваться с копьём для того, чтобы мои боевые выступления на сцене выглядели лучше. Но я продолжила заниматься ради освоения техник самозащиты. Обе из этих целей достигнуты.",
+        "en": "I began my training in the art of the spear hoping to enhance my performance in stage combat. I stuck with it hoping to master the techniques of self-defense. Today, it looks like I have finally achieved both of these goals.",
+        "zh": "学枪一事，原先是为了台上舞枪好看，后来是为了掌握傍身武技。如今这两个目标都已达到。"
+      },
+      "source_id": 64039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Искусство владения копьём изменчиво и загадочно, как ни одно другое. Я рада, что во время моих тренировок ты рядом. Основы я уже освоила. В наших будущих спаррингах ты должен быть осторожным. / Искусство владения копьём изменчиво и загадочно, как ни одно другое. Я рада, что во время моих тренировок ты рядом. Основы я уже освоила. В наших будущих спаррингах ты должна быть осторожной.",
+        "en": "The art of the spear is a vast and profound discipline... There is an almost infinite number of things one can learn. I am glad to have had you by my side during my training. Haha, I believe I've grasped the basics now. I daresay you'd better be careful when we're sparring together in the future.",
+        "zh": "枪术千变万化，奥妙无比，让我庆幸的是，练枪时一直有你相伴。我已经领悟到其中旨要。往后切磋时，你可得小心了。"
+      },
+      "source_id": 64040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Шаг!",
+        "en": "And step!",
+        "zh": "着！"
+      },
+      "source_id": 64041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Прыжок!",
+        "en": "And leap!",
+        "zh": "崩！"
+      },
+      "source_id": 64042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Поднять знамёна!",
+        "en": "Flags up!",
+        "zh": "旗来！"
+      },
+      "source_id": 64043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Реют знамёна!",
+        "en": "Flags fly!",
+        "zh": "飞云旗！"
+      },
+      "source_id": 64044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Смотри!",
+        "en": "Observe!",
+        "zh": "看枪！"
+      },
+      "source_id": 64045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Слушай мою команду!",
+        "en": "Break a leg!",
+        "zh": "听我号令！"
+      },
+      "source_id": 64046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Объединим усилия!",
+        "en": "Strike as one!",
+        "zh": "勠力同心！"
+      },
+      "source_id": 64047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Одним ударом!",
+        "en": "Your grand finale!",
+        "zh": "一鼓作气！"
+      },
+      "source_id": 64048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Труппа рада любому пожертвованию.",
+        "en": "The troupe appreciates any donation.",
+        "zh": "我来瞧瞧。"
+      },
+      "source_id": 64049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Хм... Есть что-нибудь, что может пригодиться труппе во время путешествия?",
+        "en": "Hmm... Anything the troupe could use on our journey?",
+        "zh": "是旅行中用得上的物资吗？"
+      },
+      "source_id": 64050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Не стоит церемониться. Просто бери.",
+        "en": "No need to stand on ceremony. I'll just take this.",
+        "zh": "别客气，你收着就行。"
+      },
+      "source_id": 64051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Только не костюм!..",
+        "en": "Oof, watch the costume!",
+        "zh": "别把裙子弄坏了…"
+      },
+      "source_id": 64052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Ещё не опустился занавес...",
+        "en": "Ugh, the curtain's not down yet...",
+        "zh": "得重整旗鼓才行。"
+      },
+      "source_id": 64053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Этот сценарий надо переписать...",
+        "en": "This script needs a rewrite...",
+        "zh": "哼，好戏在后面。"
+      },
+      "source_id": 64054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Сначала ты.",
+        "en": "Exit stage right!",
+        "zh": "你先下场。"
+      },
+      "source_id": 64055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Я здесь, чтобы спасти положение.",
+        "en": "I'll save the show!",
+        "zh": "我来救场。"
+      },
+      "source_id": 64056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Всем спасибо... доброй ночи...",
+        "en": "Thank you... And goodnight...",
+        "zh": "曲终…人散…"
+      },
+      "source_id": 64057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Истинная трагедия...",
+        "en": "A true tragedy...",
+        "zh": "罢了…"
+      },
+      "source_id": 64058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Шоу... должно продолжаться...",
+        "en": "The show... Must go on...",
+        "zh": "没办法…唱下去了…"
+      },
+      "source_id": 64059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Остаёмся в образе...",
+        "en": "Stay in character...",
+        "zh": "要沉住气…"
+      },
+      "source_id": 64060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Как неловко...",
+        "en": "How embarrassing...",
+        "zh": "有点狼狈…"
+      },
+      "source_id": 64061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Это не постановочный бой...",
+        "en": "This isn't stage fighting...",
+        "zh": "下手好重…"
+      },
+      "source_id": 64062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Кхм! О, маэстро!",
+        "en": "(Translated) Ahem! Oh, Maestro!",
+        "zh": "走——了——"
+      },
+      "source_id": 64063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Хм, какую оперу исполняем сегодня?",
+        "en": "Hmm, which opera shall we perform today?",
+        "zh": "今天该唱哪出呢？"
+      },
+      "source_id": 64064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Да начнётся представление!",
+        "en": "Let's get this show on the road!",
+        "zh": "你叫我，我当然要来了。"
+      },
+      "source_id": 64065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ммм! Нет ничего лучше, чем насладиться любимой едой... Жаль, что я могу позволить себе только маленький кусочек.",
+        "en": "Mmm! There's no better feeling than indulging in your favorite food... It's a shame that I can only afford to have a little bite.",
+        "zh": "美食，总会让人倍感幸福…可惜只能点到为止，不能再多吃了。"
+      },
+      "source_id": 64066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Ох, настоящий пир! Подожди минутку, я принесу напитки!",
+        "en": "Oh, what a magnificent feast! Wait a second, I'll grab us some drinks to accompany the meal.",
+        "zh": "看着就很丰盛！稍等，我去找些饮品来，配着饭菜一起享用吧。"
+      },
+      "source_id": 64067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Прости... Эта еда мне не подходит.",
+        "en": "I'm sorry... This meal isn't really agreeing with me.",
+        "zh": "不好意思…这道菜肴呀，我是吃不了多少的。"
+      },
+      "source_id": 64068
+    }
+  ],
+  "replica_count": 69
 }

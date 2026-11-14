@@ -13,12 +13,14 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 73244
-# previous_quests: quest_wq_10130
-# next_quests: quest_wq_10120
+# previous_quests: 
+# next_quests: 
 # related_quests: 
 # quest_chain: quest_wq_73244
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 73244
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,6 +28,7 @@
 
 Хотя Джехт разобралась с Адерфи, предателем племени Танит, вам всё же интересно узнать, что случилось с остававшимся у Адерфи Бенбеном...
 
+**Бенбен:** (Бенбен лежит на земле... и не издаёт привычного «бип-бип».)
 
 **Джехт:** Как же... я могла забыть...
 
@@ -45,7 +48,7 @@
 
 **Джехт:** Я иду в его палатку из-за...
 
-Из-за Бенбена, так?..
+- **Путешественник:** Из-за Бенбена, так?..
 
 **Паймон:** А, точно! Бенбен всё ещё у Адерфи. Как же быть?!
 
@@ -57,23 +60,21 @@
 
 **Паймон:** Путешественник, давай пойдём вместе с ней.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Не будем терять время...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Сейчас же выдвигаемся!
 
+##### Общее продолжение
+
 **Паймон:** Ох, только бы с Бенбеном всё было в порядке...
 
+#### Поищите подсказки в палатке Адерфи
+
 #### Проверьте, что случилось с Бенбеном
-
-**Джехт:** Надеюсь, когда мы достанем конденсаторы, Бенбен сможет восстановиться...
-
-**Джехт:** Если вы переживаете, я могу пойти с вами.
-
-- **Путешественник:** Нет, оставайся здесь с Бенбеном.
-
-- **Путешественник:** Мы скоро вернёмся.
-
-**Джехт:** Хорошо, я останусь здесь. Буду ждать от вас хороших новостей. Берегите себя!
 
 **Паймон:** Смотрите, это же Бенбен!
 
@@ -87,9 +88,15 @@
 
 **Паймон:** Это называется «ничего не случилось»? О, бедный Бенбен...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Как это могло случиться...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Бенбен... Что с ним?
+
+##### Общее продолжение
 
 **Паймон:** Да, почему он на земле?..
 
@@ -117,9 +124,9 @@
 
 **Джехт:** Если с Бенбеном действительно не произошло ничего серьёзного, то мы и сами справимся!
 
-#### Исследуйте палатку изнутри
+**Джехт:** Хм? Кажется, здесь тоже нет ничего годного...
 
-**Бенбен:** (Бенбен лежит на земле... и не издаёт привычного «бип-бип».)
+#### Исследуйте палатку изнутри
 
 #### Прочитайте письмо
 
@@ -139,27 +146,39 @@
 
 **Джехт:** Возможно...
 
-- **Путешественник:** Они где-то спрятаны?
+##### Вариант ответа 1
 
-- **Путешественник:** Он их ещё не получил?
+- **Путешественник:** Они где-то спрятаны?
 
 **Джехт:** Вряд ли. Если они нужны для починки Бенбена, то зачем их прятать, а не использовать сразу?
 
 **Джехт:** Я поняла! Просто сделка ещё не состоялась!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Он их ещё не получил?
+
 **Джехт:** Ах, я поняла, что ты имеешь в виду. Сделка ещё не состоялась!
+
+##### Общее продолжение
 
 **Джехт:** Адерфи не отвёл Бенбена на место сделки, потому конденсаторов преобразования энергии здесь нет... Тогда остаётся только один вопрос - кто заключил сделку с Адерфи?
 
 **Джехт:** Ха, какой глупый вопрос. Боюсь, единственные, кто бы мог вести с ним дела за пределами племени, это...
 
-- **Путешественник:** Учёные из Сумеру?
+##### Вариант ответа 1
 
-- **Путешественник:** Фатуи!
+- **Путешественник:** Учёные из Сумеру?
 
 **Джехт:** Это Фатуи!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Фатуи!
+
 **Джехт:** Именно так. Больше некому.
+
+##### Общее продолжение
 
 **Паймон:** И что нам сейчас делать?
 
@@ -173,13 +192,19 @@
 
 **Паймон:** Тогда сделаем так - Паймон и Путешественник отправятся к Фатуи, а вы с Бенбеном подождёте здесь!
 
-- **Путешественник:** Хорошо!
+##### Вариант ответа 1
 
-- **Путешественник:** Ограбим Фатуи!
+- **Путешественник:** Хорошо!
 
 **Паймон:** Хорошо! Ограбим Фатуи!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Ограбим Фатуи!
+
 **Паймон:** Ага! Тем более, что нам не впервой!
+
+##### Общее продолжение
 
 **Джехт:** Мне очень хочется отправиться самой, но... Путешественник и Паймон, теперь починка Бенбена зависит от вас!
 
@@ -191,6 +216,28 @@
 
 **Джехт:** Когда добудете конденсаторы, встретимся в моей палатке!
 
+**Джехт:** Надеюсь, когда мы достанем конденсаторы, Бенбен сможет восстановиться...
+
+**Джехт:** Если вы переживаете, я могу пойти с вами.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Нет, оставайся здесь с Бенбеном.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Мы скоро вернёмся.
+
+##### Общее продолжение
+
+**Джехт:** Хорошо, я останусь здесь. Буду ждать от вас хороших новостей. Берегите себя!
+
+#### Отправляйтесь на место тайной встречи, указанное в письме
+
+#### Подождите на месте тайной встречи
+
+#### Одолейте Фатуи
+
 #### Поговорите с торговцем Фатуи
 
 **Торговец Фатуи:** О-остановитесь!..
@@ -201,7 +248,7 @@
 
 **Паймон:** Говори!
 
-Ну же!
+- **Путешественник:** Ну же!
 
 **Торговец Фатуи:** Хорошо, хорошо. Я скажу всё, что вы захотите узнать!
 
@@ -215,9 +262,9 @@
 
 **Торговец Фатуи:** До этого у нас плохо шли дела в пустыне. А в этот раз с Адерфи всё... всё получилось гладко.
 
-- **Путешественник:** Не приносит пользу... Что ты хочешь этим сказать?
+##### Вариант ответа 1
 
-- **Путешественник:** Что за дела вы ведёте в пустыне?..
+- **Путешественник:** Не приносит пользу... Что ты хочешь этим сказать?
 
 **Торговец Фатуи:** Я не знаю... Я правда не знаю! Это их дела, жителей пустыни... Я могу только предположить, что эта женщина, наверное, решила, что нам больше нельзя доверять...
 
@@ -225,11 +272,15 @@
 
 **Торговец Фатуи:** Мы то можем уйти из этого проклятого места, а ему остаётся только отдать последнее племени и подчиниться их воле...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Что за дела вы ведёте в пустыне?..
+
 **Торговец Фатуи:** ...Это секретно.
 
-...
+- **Путешественник:** ...
 
-**Паймон:** Посмотри, из-за тебя Путешественник (рассердилась)(рассердился)! А когда (она)(он) сердится, не жди ничего хорошего!
+**Паймон:** Посмотри, из-за тебя Путешественник рассердился! А когда он сердится, не жди ничего хорошего! / Посмотри, из-за тебя Путешественник рассердилась! А когда она сердится, не жди ничего хорошего!
 
 **Торговец Фатуи:** Хм... Ладно, ладно! Не сердись, я всё скажу! Хотя... хотя я знаю совсем немного...
 
@@ -238,6 +289,8 @@
 **Торговец Фатуи:** Что ещё... профессор Фродерок занимался поиском живых образцов в пустыне и отказывался подчиняться Доктору... Я считаю, что всё дело в зависти...
 
 **Торговец Фатуи:** Кхе-кхе, я сказал слишком много... В общем, Адерфи был нашим связным и все сделки с товарами осуществлялись через него.
+
+##### Общее продолжение
 
 **Торговец Фатуи:** Но Адерфи невероятно хитёр. То, что он хотел, мы ему давали, но сами ничего не получили взамен...
 
@@ -253,9 +306,15 @@
 
 **Торговец Фатуи:** А? Что значит «тоже пришли грабить»?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Да, отдавайте конденсаторы, живо.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Не повезло тебе встретиться с нами.
+
+##### Общее продолжение
 
 **Паймон:** Ох... Только не говори, что конденсаторы преобразования энергии - выдумка!
 
@@ -263,7 +322,7 @@
 
 **Паймон:** Где же эти конденсаторы?
 
-Паймон, мне нравится твоя настойчивость. Так держать!
+- **Путешественник:** Паймон, мне нравится твоя настойчивость. Так держать!
 
 **Паймон:** Хе-хе, правда?.. Путешественник, не меняй тему!
 
@@ -271,23 +330,31 @@
 
 **Торговец Фатуи:** ...Они в лагере неподалёку отсюда, вот ключ от лагеря... Я сказал вам всё, что знаю...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Идём!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Больше не попадайся нам на глаза!
 
+##### Общее продолжение
+
 **Торговец Фатуи:** Да, ладно, хорошо. Исчезаю.
 
-#### Вернитесь в палатку Джехт
+#### Отправляйтесь в лагерь Фатуи
 
-**Джехт:** Хм? Кажется, здесь тоже нет ничего годного...
+#### Соберите нужное количество конденсаторов преобразования энергии
+
+#### Вернитесь в палатку Джехт
 
 #### Передайте Джехт конденсаторы для преобразования энергии
 
 **Паймон:** Джехт!
 
-**Паймон:** Всё прошло гладко! Смотри! Конденсаторы теперь у нас!
-
 **Джехт:** Ну как? Вы не пострадали?
+
+**Паймон:** Всё прошло гладко! Смотри! Конденсаторы теперь у нас!
 
 #### Почините Бенбена
 
@@ -297,7 +364,7 @@
 
 **Джехт:** Бенбен?
 
-*Бенбен подключился к конденсаторам и быстро извлёк из них энергию.*
+Бенбен подключился к конденсаторам и быстро извлёк из них энергию.
 
 **Бенбен:** Бип-бип! Бип-бип!
 
@@ -319,7 +386,7 @@
 
 **Джехт:** Хотя Бенбен лежал и не двигался, он знает обо всём, что вы для него сделали.
 
-Не за что, Бенбен.
+- **Путешественник:** Не за что, Бенбен.
 
 **Бенбен:** Бип-бип!
 
@@ -333,12 +400,21 @@
 
 **Бенбен:** Бип-бип...
 
+#### Отправьтесь на тайную встречу
+
+**Паймон:** Джехт!
+
+**Джехт:** Ну как? Вы не пострадали?
+
+**Паймон:** Всё прошло гладко! Смотри! Конденсаторы теперь у нас!
+
 ## EN
 
 ### Rejoice With Me, for What Was Lost Is Now Found
 
 Though Jeht made quick work of Aderfi, who had been a traitor to the Tanit tribe, you can't help but wonder how Benben's doing after being entrusted to him...
 
+**Benben:** (Benben lies still on the ground without making any of its familiar beeping sounds.)
 
 **Jeht:** How... how could I forget...
 
@@ -358,7 +434,7 @@ Though Jeht made quick work of Aderfi, who had been a traitor to the Tanit tribe
 
 **Jeht:** I'm going to his tent because...
 
-Because of Benben, right?
+- **Traveler:** Because of Benben, right?
 
 **Paimon:** Ohh! Oh no, Benben's still over there at Aderfi's place!
 
@@ -370,23 +446,21 @@ Because of Benben, right?
 
 **Paimon:** Traveler, we should go with her!
 
+##### Response branch 1
+
 - **Traveler:** Then let's not wait any longer...
+
+##### Response branch 2
 
 - **Traveler:** Let's get going right now!
 
+##### Shared continuation
+
 **Paimon:** Yeah... Paimon hopes Benben's okay...
 
+#### Look for clues in Aderfi's tent
+
 #### Check on Benben
-
-**Jeht:** Energy Transformation Capacitors... I hope Benben will recover once we get them...
-
-**Jeht:** If you're still unsure, I can go with you!
-
-- **Traveler:** You stay here with Benben.
-
-- **Traveler:** We'll be back real quick.
-
-**Jeht:** Okay. I'll wait for your good news... Please stay safe!
 
 **Paimon:** Look, it's Benben!
 
@@ -400,9 +474,15 @@ Because of Benben, right?
 
 **Paimon:** You call this "nothing bad"? Ohh, poor Benben...
 
+##### Response branch 1
+
 - **Traveler:** How did it come to this...
 
+##### Response branch 2
+
 - **Traveler:** What's wrong with Benben?
+
+##### Shared continuation
 
 **Paimon:** Yeah, why is it lying on the ground...?
 
@@ -430,9 +510,9 @@ Because of Benben, right?
 
 **Jeht:** If it really was "nothing too serious", maybe we could even try fixing Benben ourselves!
 
-#### Investigate within the tent
+**Jeht:** Hmm... It looks like there's nothing useful here...
 
-**Benben:** (Benben lies still on the ground without making any of its familiar beeping sounds.)
+#### Investigate within the tent
 
 #### View Letter
 
@@ -452,27 +532,39 @@ Because of Benben, right?
 
 **Jeht:** Could it be...
 
-- **Traveler:** They might be hidden somewhere.
+##### Response branch 1
 
-- **Traveler:** He might've never received them.
+- **Traveler:** They might be hidden somewhere.
 
 **Jeht:** Doesn't look like it. If they were meant for repairing Benben, why would he try to hide them? Wouldn't it be more intuitive to use them right away?
 
 **Jeht:** Aha, I know! It must be because the transaction hasn't occurred yet!
 
+##### Response branch 2
+
+- **Traveler:** He might've never received them.
+
 **Jeht:** Ah, I know what you mean! The transaction hasn't even taken place!
+
+##### Shared continuation
 
 **Jeht:** Aderfi didn't bring Benben to the transaction, so there shouldn't be any Energy Transformation Capacitors here anyway... There's only one question left: who did he strike the deal with?
 
 **Jeht:** Ha, that was a dumb question for me to ask. There's only one group outside the tribe he'll have dealings like this with...
 
-- **Traveler:** Sumeru researchers?
+##### Response branch 1
 
-- **Traveler:** The Fatui!
+- **Traveler:** Sumeru researchers?
 
 **Jeht:** It's the Fatui!
 
+##### Response branch 2
+
+- **Traveler:** The Fatui!
+
 **Jeht:** Precisely. Who else could it be?
+
+##### Shared continuation
 
 **Paimon:** What should we do now?
 
@@ -486,13 +578,19 @@ Because of Benben, right?
 
 **Paimon:** Paimon and Traveler will go raid the Fatui! You just wait here with Benben.
 
-- **Traveler:** Yeah!
+##### Response branch 1
 
-- **Traveler:** Let's raid the Fatui!
+- **Traveler:** Yeah!
 
 **Paimon:** Yeah! Let's raid the Fatui!
 
+##### Response branch 2
+
+- **Traveler:** Let's raid the Fatui!
+
 **Paimon:** Yup yup! This won't be our first time!
+
+##### Shared continuation
 
 **Jeht:** I really wanna go myself, but... Traveler, Paimon, I'm counting on you to help Benben recover!
 
@@ -504,6 +602,28 @@ Because of Benben, right?
 
 **Jeht:** Let's meet up in my tent after you retrieve the Capacitors!
 
+**Jeht:** Energy Transformation Capacitors... I hope Benben will recover once we get them...
+
+**Jeht:** If you're still unsure, I can go with you!
+
+##### Response branch 1
+
+- **Traveler:** You stay here with Benben.
+
+##### Response branch 2
+
+- **Traveler:** We'll be back real quick.
+
+##### Shared continuation
+
+**Jeht:** Okay. I'll wait for your good news... Please stay safe!
+
+#### Head over to the designated location in the letter
+
+#### Wait at the location of the secret meeting
+
+#### Defeat the Fatui
+
 #### Talk to the Fatui negotiator
 
 **Fatui Negotiator:** P—Please stop...
@@ -514,7 +634,7 @@ Because of Benben, right?
 
 **Paimon:** Talk!
 
-Spit it out!
+- **Traveler:** Spit it out!
 
 **Fatui Negotiator:** Y—Yes, I'll tell you everything! Anything you want to know!
 
@@ -528,9 +648,9 @@ Spit it out!
 
 **Fatui Negotiator:** Our business in the desert area never went according to plan, until... until we struck the deal with Aderfi.
 
-- **Traveler:** No longer of any value... What does that mean?
+##### Response branch 1
 
-- **Traveler:** This... business you're doing in the desert. What is it?
+- **Traveler:** No longer of any value... What does that mean?
 
 **Fatui Negotiator:** I don't know... I really don't! That has to do with the internal workings of the desert folks... But if I had to guess, it might've been because she thought we were no longer trustworthy...
 
@@ -538,11 +658,15 @@ Spit it out!
 
 **Fatui Negotiator:** After all, we can always leave this wretched place when needed. Aderfi, on the other hand, will be used by the tribe until he's no longer 'of value'. His life is virtually in their hands.
 
+##### Response branch 2
+
+- **Traveler:** This... business you're doing in the desert. What is it?
+
 **Fatui Negotiator:** ...It's top secret.
 
-...
+- **Traveler:** ...
 
-**Paimon:** See, now Traveler's mad! You wouldn't want to mess with him / her!
+**Paimon:** See, now Traveler's mad! You wouldn't want to mess with him! / See, now Traveler's mad! You wouldn't want to mess with her!
 
 **Fatui Negotiator:** Ugh...! Alright, alright! Please don't get mad, I'll tell! But it's... it's not like I know the full story...
 
@@ -551,6 +675,8 @@ Spit it out!
 **Fatui Negotiator:** Professor Froderock was looking for live specimens in the desert — he always defied The Doctor's orders... That's just pure jealousy, if you ask me.
 
 **Fatui Negotiator:** Ahem, I've gone too far... Anyway, Aderfi had been our point of contact, and he was in charge of everything that had to do with trade.
+
+##### Shared continuation
 
 **Fatui Negotiator:** But he was extremely cunning. He somehow made us fulfill his every request, while we, on the other hand, never heard anything of the items we asked for...
 
@@ -566,9 +692,15 @@ Spit it out!
 
 **Fatui Negotiator:** Hold on... Did you just say "too"?
 
+##### Response branch 1
+
 - **Traveler:** Yep. Now hand over the Capacitors.
 
+##### Response branch 2
+
 - **Traveler:** It's bad luck you ran into us.
+
+##### Shared continuation
 
 **Paimon:** Argh... Don't tell Paimon the Energy Transformation Capacitors are all made up!
 
@@ -576,7 +708,7 @@ Spit it out!
 
 **Paimon:** Tell us where these Energy Transformation Capacitors are!
 
-Keep up the imposing tone, Paimon!
+- **Traveler:** Keep up the imposing tone, Paimon!
 
 **Paimon:** Hehe, Paimon will! ...Hey, Traveler, don't change the subject!
 
@@ -584,23 +716,31 @@ Keep up the imposing tone, Paimon!
 
 **Fatui Negotiator:** ...They're at a camp not far away from here. Here's the key to its entrance... I've told you everything I know...
 
+##### Response branch 1
+
 - **Traveler:** Then get moving!
+
+##### Response branch 2
 
 - **Traveler:** Don't get in our way ever again!
 
+##### Shared continuation
+
 **Fatui Negotiator:** Alright, alright, I'll make myself scarce.
 
-#### Return to Jeht's tent
+#### Go to the Fatui stronghold
 
-**Jeht:** Hmm... It looks like there's nothing useful here...
+#### Collect a certain number of Energy Transformation Capacitors
+
+#### Return to Jeht's tent
 
 #### Give the Energy Transformation Capacitors to Jeht
 
 **Paimon:** Jeht!
 
-**Paimon:** Everything went as smooth as it could! Look! We got the Energy Transformation Capacitors!
-
 **Jeht:** How was it? You didn't get into trouble, right?
+
+**Paimon:** Everything went as smooth as it could! Look! We got the Energy Transformation Capacitors!
 
 #### Fix Benben
 
@@ -610,7 +750,7 @@ Keep up the imposing tone, Paimon!
 
 **Jeht:** Benben?
 
-*Benben connects to the Energy Transformation Capacitors and quickly extracts energy from them.*
+Benben connects to the Energy Transformation Capacitors and quickly extracts energy from them.
 
 **Benben:** Beep-beep! Beep-beep!
 
@@ -632,7 +772,7 @@ Keep up the imposing tone, Paimon!
 
 **Jeht:** Even though Benben was lying still without saying anything, it knows everything you've done.
 
-No need to thank me, Benben.
+- **Traveler:** No need to thank me, Benben.
 
 **Benben:** Beep!
 
@@ -646,12 +786,21 @@ No need to thank me, Benben.
 
 **Benben:** Beep-beep...
 
+#### Head over to the secret meeting
+
+**Paimon:** Jeht!
+
+**Jeht:** How was it? You didn't get into trouble, right?
+
+**Paimon:** Everything went as smooth as it could! Look! We got the Energy Transformation Capacitors!
+
 ## ZH
 
 ### 失而复得者一同欢喜
 
 阿德菲虽然作为塔尼特的叛徒被婕德解决，但是，之前托付给阿德菲的奔奔现在又怎么样了呢…
 
+**奔奔:** （奔奔，躺在地上…并没有发出熟悉的「哔哔」声。）
 
 **婕德:** 怎么会…我居然忘记了…
 
@@ -671,7 +820,7 @@ No need to thank me, Benben.
 
 **婕德:** 我要去他的帐篷是因为…
 
-是因为奔奔吧…
+- **旅行者:** 是因为奔奔吧…
 
 **派蒙:** 啊，对哦！奔奔在阿德菲那里，这可怎么办！
 
@@ -683,23 +832,21 @@ No need to thank me, Benben.
 
 **派蒙:** 旅行者，我们也一起去吧。
 
+##### 对话分支 1
+
 - **旅行者:** 事不宜迟…
+
+##### 对话分支 2
 
 - **旅行者:** 现在就出发吧！
 
+##### 共同后续
+
 **派蒙:** 嗯，奔奔可千万别出事呀…
 
+#### 到达阿德菲的帐篷寻找线索
+
 #### 查看状态失常的奔奔
-
-**婕德:** 「充能转化容器」，希望拿到那个东西以后，就能够让奔奔恢复过来…
-
-**婕德:** 如果实在不安心的话，我也一起去吧。
-
-- **旅行者:** 你在这里陪奔奔吧。
-
-- **旅行者:** 我们马上就会回来的。
-
-**婕德:** 嗯，那我就在这里等你的好消息，一定要安全回来！
 
 **派蒙:** 啊，是奔奔！
 
@@ -713,9 +860,15 @@ No need to thank me, Benben.
 
 **派蒙:** 这也叫没出什么事吗…奔奔，奔奔…
 
+##### 对话分支 1
+
 - **旅行者:** 怎么会变成这样…
 
+##### 对话分支 2
+
 - **旅行者:** 奔奔…它怎么了？
+
+##### 共同后续
 
 **派蒙:** 对啊，它怎么躺在地上…
 
@@ -743,9 +896,9 @@ No need to thank me, Benben.
 
 **婕德:** 如果不是什么「严重的问题」的话，说不定我们也能解决一下！
 
-#### 在帐篷内进行调查
+**婕德:** 嗯，这里好像也没有什么有用的东西…
 
-**奔奔:** （奔奔，躺在地上…并没有发出熟悉的「哔哔」声。）
+#### 在帐篷内进行调查
 
 #### 查看信件
 
@@ -765,27 +918,39 @@ No need to thank me, Benben.
 
 **婕德:** 难道说…
 
-- **旅行者:** 藏在某个地方？
+##### 对话分支 1
 
-- **旅行者:** 还没有拿到？
+- **旅行者:** 藏在某个地方？
 
 **婕德:** 不太像，只是用来维修奔奔的话，也不用特地藏起来，直接使用不就好了…
 
 **婕德:** 我明白了！一定是这场交易还没发生！
 
+##### 对话分支 2
+
+- **旅行者:** 还没有拿到？
+
 **婕德:** 啊，我明白你的意思了，这场交易还没有发生！
+
+##### 共同后续
 
 **婕德:** 所以奔奔没被阿德菲带到交易现场，当然也没有「充能转化容器」…那剩下的问题只有一个了，阿德菲交易的对象是谁？
 
 **婕德:** 哈，真是问了个蠢问题，会和他在部落外做这种交易的恐怕只有一类人了…
 
-- **旅行者:** 是须弥的学者？
+##### 对话分支 1
 
-- **旅行者:** 是愚人众！
+- **旅行者:** 是须弥的学者？
 
 **婕德:** 是愚人众啦！
 
+##### 对话分支 2
+
+- **旅行者:** 是愚人众！
+
 **婕德:** 想也知道，不会有别人了。
+
+##### 共同后续
 
 **派蒙:** 那我们现在怎么办？
 
@@ -799,13 +964,19 @@ No need to thank me, Benben.
 
 **派蒙:** 那就这样好了，我和旅行者去抢愚人众，你和奔奔在这里等着！
 
-- **旅行者:** 好耶！
+##### 对话分支 1
 
-- **旅行者:** 抢愚人众！
+- **旅行者:** 好耶！
 
 **派蒙:** 好耶！我们去抢愚人众！
 
+##### 对话分支 2
+
+- **旅行者:** 抢愚人众！
+
 **派蒙:** 嗯嗯，反正也不是第一次啦！
+
+##### 共同后续
 
 **婕德:** 虽然很想自己去，但是…旅行者，派蒙，奔奔能不能恢复，就拜托你们了！
 
@@ -817,6 +988,28 @@ No need to thank me, Benben.
 
 **婕德:** 等拿到「充能转化容器」，就在我的帐篷那会合吧！
 
+**婕德:** 「充能转化容器」，希望拿到那个东西以后，就能够让奔奔恢复过来…
+
+**婕德:** 如果实在不安心的话，我也一起去吧。
+
+##### 对话分支 1
+
+- **旅行者:** 你在这里陪奔奔吧。
+
+##### 对话分支 2
+
+- **旅行者:** 我们马上就会回来的。
+
+##### 共同后续
+
+**婕德:** 嗯，那我就在这里等你的好消息，一定要安全回来！
+
+#### 前往信件中的密会地点
+
+#### 在密会地点进行等待
+
+#### 击败愚人众
+
 #### 与愚人众交易人员对话
 
 **愚人众交易人员:** 别、别打了…
@@ -827,7 +1020,7 @@ No need to thank me, Benben.
 
 **派蒙:** 说！
 
-快说！
+- **旅行者:** 快说！
 
 **愚人众交易人员:** 我说我说，你们想知道什么我都说！
 
@@ -841,9 +1034,9 @@ No need to thank me, Benben.
 
 **愚人众交易人员:** 之前我们在沙漠里的工作开展一直不是很顺利，这下倒是、倒是有点一拍即合的意思。
 
-- **旅行者:** 失去价值…你是什么意思？
+##### 对话分支 1
 
-- **旅行者:** 你们在沙漠里的工作…？
+- **旅行者:** 失去价值…你是什么意思？
 
 **愚人众交易人员:** 我不知道…我真的不知道！那是他们沙漠人内部的事务…不过要我猜的话，可能是因为那个女人认为我们不可信任了…
 
@@ -851,11 +1044,15 @@ No need to thank me, Benben.
 
 **愚人众交易人员:** 毕竟我们还能撤离这个鬼地方，而他只能被榨干价值，然后任部落处置…
 
+##### 对话分支 2
+
+- **旅行者:** 你们在沙漠里的工作…？
+
 **愚人众交易人员:** …机密。
 
-……
+- **旅行者:** ……
 
-**派蒙:** 你瞧，你惹旅行者生气啦！他 / 她生气的后果很严重哦！
+**派蒙:** 你瞧，你惹旅行者生气啦！他生气的后果很严重哦！ / 你瞧，你惹旅行者生气啦！她生气的后果很严重哦！
 
 **愚人众交易人员:** 唔…！好吧，好吧！请别生气，我说就是了！虽然…虽然我知道的也不多…
 
@@ -864,6 +1061,8 @@ No need to thank me, Benben.
 **愚人众交易人员:** 另外…佛罗德洛克教授也在沙漠里寻找活体样本，他一向不服从「博士」大人的领导…要我说，这就是嫉妒…
 
 **愚人众交易人员:** 咳咳，扯多了、扯多了…总之，阿德菲是我们的联络人，我们的物资交易一直由他负责。
+
+##### 共同后续
 
 **愚人众交易人员:** 只是阿德菲这个人异常狡猾，他要的东西我们给了不少，我们要的东西却一点眉目没有…
 
@@ -879,9 +1078,15 @@ No need to thank me, Benben.
 
 **愚人众交易人员:** 啊？「也」想来抢东西？
 
+##### 对话分支 1
+
 - **旅行者:** 对，快把「充能转化容器」交出来。
 
+##### 对话分支 2
+
 - **旅行者:** 遇上我们算你运气不好。
+
+##### 共同后续
 
 **派蒙:** 唔，不会那个什么「充能转化容器」也是你们编的吧！
 
@@ -889,7 +1094,7 @@ No need to thank me, Benben.
 
 **派蒙:** 那这些「充能转化容器」在什么地方？
 
-派蒙的气势真不错。
+- **旅行者:** 派蒙的气势真不错。
 
 **派蒙:** 嘿嘿，是嘛…旅行者不要转移话题啦…
 
@@ -897,23 +1102,31 @@ No need to thank me, Benben.
 
 **愚人众交易人员:** …就在附近的一个据点，这个就是据点的钥匙…我知道的我全告诉你们了…
 
+##### 对话分支 1
+
 - **旅行者:** 走吧！
+
+##### 对话分支 2
 
 - **旅行者:** 别让我们再看见你！
 
+##### 共同后续
+
 **愚人众交易人员:** 好好好，我这就消失。
 
-#### 返回婕德的帐篷
+#### 前往愚人众的据点
 
-**婕德:** 嗯，这里好像也没有什么有用的东西…
+#### 收集一定数量的「充能转化容器」
+
+#### 返回婕德的帐篷
 
 #### 将「充能转化容器」交给婕德
 
 **派蒙:** 婕德！
 
-**派蒙:** 没有没有，什么事都没有。对了，你看，这些就是「充能转化容器」！
-
 **婕德:** 怎么样，你们没出什么事吧？
+
+**派蒙:** 没有没有，什么事都没有。对了，你看，这些就是「充能转化容器」！
 
 #### 修复奔奔
 
@@ -923,7 +1136,7 @@ No need to thank me, Benben.
 
 **婕德:** 奔奔？
 
-*奔奔链接上了「充能转化容器」，以很快的速度汲取了其中的能量。*
+奔奔链接上了「充能转化容器」，以很快的速度汲取了其中的能量。
 
 **奔奔:** 哔哔——哔哔——
 
@@ -945,7 +1158,7 @@ No need to thank me, Benben.
 
 **婕德:** 看来就算躺着不动，但是你们做的事奔奔也能知道。
 
-不用谢，奔奔。
+- **旅行者:** 不用谢，奔奔。
 
 **奔奔:** 哔哔！
 
@@ -958,3 +1171,11 @@ No need to thank me, Benben.
 **派蒙:** 嗯，要好好休息呀，奔奔！
 
 **奔奔:** 哔哔…
+
+#### 面见密会的对象
+
+**派蒙:** 婕德！
+
+**婕德:** 怎么样，你们没出什么事吧？
+
+**派蒙:** 没有没有，什么事都没有。对了，你看，这些就是「充能转化容器」！

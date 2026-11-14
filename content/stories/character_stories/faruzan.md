@@ -514,3 +514,827 @@ And in the distance, a Vision shone brightly at the side of an unconscious Faruz
 「不对…欸…等等！那里好像躺着个人！」
 
 远处，昏迷不醒的珐露珊身旁，一枚神之眼正闪烁着夺目的光。
+
+# voice_source_ids: 76000,76001,76002,76003,76004,76005,76006,76007,76008,76009,76010,76011,76012,76013,76014,76015,76016,76017,76018,76019,76020,76021,76022,76023,76025,76026,76027,76028,76029,76030,76031,76032,76033,76034,76035,76036,76037,76038,76039,76040,76041,76042,76043,76044,76045,76046,76047,76048,76049,76050,76051,76052,76053,76054,76055,76056,76057,76058,76059,76060,76061,76062,76063,76064,76065,76066,76067,76068
+
+## REPLICAS_RU
+
+### Привет...
+
+Это премия «Выдающийся учёный Академии», это награда Ассоциации головоломок Сумеру за вклад в развитие отрасли, а это награда с Форума, посвящённого руинным механизмам... Ну как, не хочешь стать моим учеником? Кхм, к слову сказать, я принадлежу к школе семиотики, так что искать меня надо в даршане Хараватат. Не в Кшахреваре, не перепутай.
+
+### Поболтаем: Правила
+
+Сто лет прошло, а глупые правила Академии ни капли не изменились...
+
+### Поболтаем: Профессор
+
+А?.. Что говоришь? С возрастом я стала хуже слышать. Потрудись обращаться ко мне «Профессор Фарузан», так я слышу лучше.
+
+### Поболтаем: Исследования
+
+Научные исследования не должны зависеть от веяний времени. Темы не бывают «модными» или «устаревшими».
+
+### Когда идёт дождь...
+
+Я давно вышла из детского возраста и не вижу причины радоваться дождю.
+
+### Когда гремит гром...
+
+Ой!.. Ч-что? Пожилым людям неприлично бояться грома?
+
+### Когда идёт снег...
+
+Как красиво... Дух захватывает... Апчхи!.. Да, так и простудиться недолго...
+
+### Когда дует сильный ветер...
+
+Как приятно... Свежий воздух - это очень хорошо!
+
+### В пустыне...
+
+Почему мы снова вернулись на то же место...
+
+### Доброе утро...
+
+Мой дорогой, утро надо начинать с энергичного приветствия! Ну-ка, вспоминай, что нужно сказать? / Моя дорогая, утро надо начинать с энергичного приветствия! Ну-ка, вспоминай, что нужно сказать?
+
+### Добрый день...
+
+Я проголодалась... Может, пообедаем на Большом базаре? В еде я не привередлива, разве что не люблю всякие новомодные блюда.
+
+### Добрый вечер...
+
+Не стоит удивляться - учёные во все времена работали по ночам. Ночь - драгоценное время, когда можно спокойно обдумать свои идеи.
+
+### Спокойной ночи...
+
+От этого древнего текста у меня кружится голова... Так, на сегодня хватит, пора немного отдохнуть. Я тоже пойду спать, так что спокойной ночи.
+
+### О Фарузан: Профессор
+
+О чём ты хочешь узнать? Какие бывают разновидности нажимных плит? Конструкция нижнего уровня элементальных монументов? Так, подожди... Задавая вопрос, обратись ко мне как полагается: «профессор Фарузан»!
+
+### О Фарузан: Профессор без учеников
+
+Я хочу, чтобы мои ученики были по-настоящему увлечены изучением древних текстов. Равнодушные люди мне не нужны, лучше я вообще останусь без учеников! Что? Верно, если не будет учеников, кто поможет мне с моей работой... Помогать в свободное время своему наставнику - что в этом такого? Все так делают, и я когда-то помогала своему наставнику...
+
+### О нас: Вербовка учеников
+
+Теперь серьёзный вопрос: почему бы тебе не стать моим учеником? Мы выберем тему исследования, максимально приближенную к практике, и я тебе подробно всё объясню. Мы можем сосредоточиться на способах решения современных механических головоломок, а расшифровка вспомогательных текстов будет хорошим подспорьем в разработке темы. Я человек опытный, уверяю тебя, что знания, которые мы получим, окажутся весьма полезны будущим поколениям искателей приключений. У тебя нет причин не доверять мне! / Теперь серьёзный вопрос: почему бы тебе не стать моей ученицей? Мы выберем тему исследования, максимально приближенную к практике, и я тебе подробно всё объясню. Мы можем сосредоточиться на способах решения современных механических головоломок, а расшифровка вспомогательных текстов будет хорошим подспорьем в разработке темы. Я человек опытный, уверяю тебя, что знания, которые мы получим, окажутся весьма полезны будущим поколениям искателей приключений. У тебя нет причин не доверять мне!
+
+### О нас: Решение головоломок
+
+Все эти сто лет я постоянно решала головоломки, так что даже не заметила, как прошло время... Теперь я на свободе, и мне больше не нужно в одиночку корпеть над трудными темами. Вместе с тобой мы сможем весело провести время, копируя надписи на древних стелах, расшифровывая руны и решая головоломки... Надо наслаждаться каждой минутой, которую посвящаешь науке.
+
+### Глаз Бога...
+
+Пф... Не буду говорить о своих заслугах перед учёным миром, но даже Анемо Архонт признал мою квалификацию! А почему у меня до сих пор нет учеников... Дело не во мне, и не в науке, просто нужно подождать... Ведь и Глаз Бога я получила не сразу.
+
+### Давай поделимся: Кшахревар
+
+«В дальнейшем Кшахревар станет единственным даршаном, способным проводить исследования механизмов...» Хм, могу сказать, что учёные Кшахревара отличаются излишней самоуверенностью. Когда я вовсю решала сумерские головоломки, они ещё в кубики играли.
+
+### Давай поделимся: Хараватат
+
+Хараватат постоянно отклоняет мои запросы на финансирование. Дескать, темы, которые я исследую, вышли из моды, на них совсем нет спроса. Если следовать их логике, школу семиотики вообще пора упразднить, ведь Хараватат - даршан с наименьшим числом студентов.
+
+### Интересные вещи...
+
+Я повидала на своём веку самые разные руины, расшифровала те немногочисленные символы, что сохранились с древности. И могу сказать, что драконы руин - невероятно сложные механизмы. Хм... Наверное, «механизмы» не самое подходящее слово. Лучше будет сказать, что это «живые организмы», созданные в древности и дошедшие до наших дней...
+
+### О малой властительнице Кусанали...
+
+Результаты исследований даршана Хараватат используются в трудах учёных из Кшахревара... Потому что знания невозможно ограничить. Учёные будут благодарны малой властительнице Кусанали, ведь она освободила Академию от оков эгоистичных страстей, а вместе с Академией освободила и весь город мудрости. Теперь жаждущие знаний могут свободно искать сокровища в бескрайнем море науки.
+
+### О Тигнари...
+
+Исследование руин тропического леса - один из моих любимых научных проектов. Да, в следующий раз нужно будет взять с собой Тигнари. Путешествовать с ходячим «Руководством по выживанию в тропическом лесу» всё-таки интереснее. Должна сказать, несмотря на мой почтенный возраст, он знает куда больше разновидностей грибов, чем мне довелось попробовать...
+
+### О Коллеи...
+
+Коллеи... Она с уважением относится к старшим, прилежна и трудолюбива - идеальная ученица! Такие студенты заслуживают ласки и похвалы. Почему Тигнари с ней так строг? Хм... Нужно придумать, как её переманить... Кхм! Я хотела сказать... я всё-таки профессор... Надо придумать, как улучшить образовательную среду для подрастающего поколения...
+
+### О Сайно...
+
+В основе всех шуток Сайно лежат современные лексические и грамматические средства, но я всё равно не могу расшифровать их тайный смысл... А? Хочешь сказать, его шутки строятся на буквальных значениях слов и созвучиях? Правда?.. Но это же совсем не интересно...
+
+### О Лайле...
+
+Днём, завидев меня, Лайла прячет глаза и отходит подальше, но когда мы встречаемся ночью, она радостно со мной здоровается... Не пойму. Как бы там ни было, большинство ребятишек в Ртавахисте - настоящие гении, а у гениев свои причуды. Так что можно простить ей эту мелочь.
+
+### О Кавехе...
+
+Хороший мальчик с большим потенциалом. Как-то раз мы с ним разговорились о некоторых принципах конструкции механизмов. Хм, как бы это сказать... Он большой романтик, но у него хотя бы есть оригинальные идеи, нынче такое редкость. Слышала, он сейчас на мели... Когда получу финансирование, первым делом приглашу его на обед и как следует накормлю... Скоро, уже скоро.
+
+### О Нилу...
+
+Помню, учтивая девушка. Я была на Большом базаре всего несколько раз, но она меня запомнила. И убеждала людей не спорить со мной. Правильно. Нынешней молодёжи стоит поучиться у Нилу!
+
+### Узнать больше о Фарузан I
+
+Хочешь послушать мою историю? Что ж, придётся отмотать время на сто лет назад, моя биография охватывает больше этапов, чем многие исторические труды. Ну что, желание не пропало? Хорошо, жажда знаний - важнейшее качество учёного. Так что с почином!
+
+### Узнать больше о Фарузан II
+
+Решение старинных механических головоломок требует расшифровки большого количества древних текстов. Я не хвастаюсь, но их даже сравнивать нельзя с теми головоломками, которые приходилось решать тебе, это совершенно другой уровень. Не веришь? Тогда покажи мне самые сложные из тех, что ты решил. Если я потрачу на любую из них больше получаса, ты выиграл. / Решение старинных механических головоломок требует расшифровки большого количества древних текстов. Я не хвастаюсь, но их даже сравнивать нельзя с теми головоломками, которые приходилось решать тебе, это совершенно другой уровень. Не веришь? Тогда покажи мне самые сложные из тех, что ты решила. Если я потрачу на любую из них больше получаса, ты выиграла.
+
+### Узнать больше о Фарузан III
+
+Не окажись я в плену руин царя Дешрета, внесла бы куда больший вклад в науку Сумеру... К счастью, мои старые рукописи и комментарии кому-то пригодились. Кшахревар положил мои работы в основу школы изучения механизмов. Ха-ха, знаешь, всё-таки не зря меня называют профессором.
+
+### Узнать больше о Фарузан IV
+
+Я посвятила себя науке, а настоящий учёный должен иметь мужество принимать неудачи и отвечать за их последствия... Я никогда не хотела, чтобы меня жалели. И не забудь, что последнюю головоломку я разгадала сама и наконец вышла из этого проклятого места... Моя история должна вдохновлять людей на подвиги, а не вызывать жалость!
+
+### Узнать больше о Фарузан V
+
+Моя область исследований не пользуется таким уважением, как раньше, и Хараватат уже не раз отказывал мне в финансировании... Время от времени коллеги приглашают меня занять пост наставницы в Кшахреваре, предлагают прекрасные условия. Много учеников, щедрое финансирование... Но я им отказываю. Что бы ни случилось, кто-то должен продолжать работать над непопулярными темами, расширять пределы человеческих познаний.
+
+### Хобби Фарузан...
+
+В Порт-Ормосе встречаются жадные торговцы и наёмники, которые под видом «антиквариата» пытаются продавать разный подержанный хлам. Ха, никогда не упускаю случая разоблачить таких аферистов. Пожалуй, умением оценивать антиквариат я уступаю только Архонтам.
+
+### Беспокойство Фарузан...
+
+Сто лет назад меня больше всего беспокоило, что я не могу расшифровать надписи на руинах. А теперь ничто не беспокоит меня так сильно, как отказы в финансировании. Что же делать...
+
+### Любимая еда...
+
+Выпечка на огне получается намного вкуснее! При случае испеку тебе что-нибудь, узнаешь, какими были блюда в наше время. Выпечка, приготовленная по старому секретному рецепту! На Большом базаре ничего подобного не найдёшь, я ручаюсь!
+
+### Нелюбимая еда...
+
+Как он там называется?.. Падисаровый пудинг, вот. Кто его вообще придумал? Пудинги готовят из риса! От этих кулинарных нововведений голова идёт кругом. Нет, избавь меня от такого удовольствия. Даже если ты сам его приготовил, я пробовать не буду. / Как он там называется?.. Падисаровый пудинг, вот. Кто его вообще придумал? Пудинги готовят из риса! От этих кулинарных нововведений голова идёт кругом. Нет, избавь меня от такого удовольствия. Даже если ты сама его приготовила, я пробовать не буду.
+
+### Подарок I
+
+Ох... Ох... Вкуснее любого блюда в ресторане с вековой историей. Неужели поварское искусство всё это время тоже неустанно развивалось?
+
+### Подарок II
+
+Подача, запах и вкус - всё на высоте. Ты наверняка прочёл немало трудов по кулинарии! / Подача, запах и вкус - всё на высоте. Ты наверняка прочла немало трудов по кулинарии!
+
+### Подарок III
+
+Гм? Странный вкус... Ты хочешь, чтобы я отгадала, что это такое?
+
+### День рождения...
+
+С днём рождения! Вот, я смастерила для тебя игрушку. Миниатюрный механизм, оснащённый кнопками и рычажком, а сбоку есть ещё и колёсико.... С ним можно играть, вертеть в руках, а если он сломается, я починю. Что? Я принимаю тебя за ребёнка? Даже смешно. Радость и отдых нужны каждому, независимо от возраста!
+
+### Чувство возвышения: Начало
+
+До чего расторопный молодой человек! Ты всегда на высоте, даже когда дело касается сбора материалов. / До чего расторопная девушка! Ты всегда на высоте, даже когда дело касается сбора материалов.
+
+### Чувство возвышения: Нарастание
+
+Ты что, разблокировал какой-то механизм? Я чувствую непрерывный поток энергии. / Ты что, разблокировала какой-то механизм? Я чувствую непрерывный поток энергии.
+
+### Чувство возвышения: Кульминация
+
+Вижу, ты очень стараешься... Не волнуйся, профессор Фарузан знает, как направить и защитить своих подопечных. Со мной не пропадёшь.
+
+### Чувство возвышения: Окончание
+
+Океан мудрости безграничен, ста лет не хватит, чтобы разглядеть даже пену на гребне его волн... Так что нам с тобой предстоит решить много нерешённых головоломок и открыть целый ряд областей, которых пока нет на карте знаний человечества.
+
+### Элементальный навык I
+
+Сожаления бесполезны.
+
+### Элементальный навык II
+
+Ты хоть знаешь, кто я?
+
+### Элементальный навык III
+
+Посмотрим.
+
+### Взрыв стихии I
+
+Шестерёнки вихря!
+
+### Взрыв стихии II
+
+Дарю, наслаждайся!
+
+### Взрыв стихии III
+
+Истина всегда возвращается.
+
+### Открытие сундука I
+
+Там есть какие-нибудь артефакты?.. Гм... И всё?
+
+### Открытие сундука II
+
+Не зря отправлялись в путь.
+
+### Открытие сундука III
+
+Бери себе. И не забудь поблагодарить профессора Фарузан!
+
+### Низкий уровень HP I
+
+Мне такое не впервой!
+
+### Низкий уровень HP II
+
+Это... ерунда...
+
+### Низкий уровень HP III
+
+Не стоит меня недооценивать...
+
+### Низкий уровень HP компаньона I
+
+Берегись, не то распрощаешься с жизнью!
+
+### Низкий уровень HP компаньона II
+
+Не бойся, профессор Фарузан рядом!
+
+### Без сознания I
+
+Загадка... так и осталась неразгаданной...
+
+### Без сознания II
+
+Путь учёного... не имеет конца...
+
+### Без сознания III
+
+Время... не остановилось...
+
+### Получен тяжёлый удар I
+
+Подлый хулиган!
+
+### Получен тяжёлый удар II
+
+Никакого уважения к старшим!
+
+### Присоединяется к группе I
+
+Нужна помощь профессора?
+
+### Присоединяется к группе II
+
+Мне давно пора хорошенько размяться.
+
+### Присоединяется к группе III
+
+Хорошо, надо бывать в компании молодёжи.
+
+### О Сетосе...
+
+О? Ты имеешь в виду новоприбывшего? Он появился в самый подходящий момент! Я до сих пор не знаю, к какому Даршану он принадлежит, но в последнее время я постоянно с ним сталкиваюсь: на улицах, в магазинах, в ресторанах... Складывается впечатление, что он повсюду. То, как он кивает, когда говорит, напоминает... ох, даже не знаю... щеночка, да. Красноречивый молодой человек. На вид - хороший парень. Ты его знаешь? Уговори его посещать мои занятия. Скажи ему, что профессор Фарузан позаботится о нём.
+
+## REPLICAS_EN
+
+### Hello
+
+Here's the Akademiya's Distinguished Scholar Award, this is the Sumeru Puzzlers' League Lifetime Achievement Award, and there's something from the Synopsium on Ruin Mechanisms... What do you think? Got any interest in becoming my student? Ahem, just as a note, I am from the Haravatat Darshan. You'll get lost if you try to find me in the halls of Kshahrewar.
+
+### Chat: Rules
+
+A hundred years have passed, yet there hasn't been any change to those dumb rules at the Akademiya...
+
+### Chat: Honorifics
+
+Hm? What did you say? I'm old now, so every other phrase escapes my ears. Try calling me "Madam Faruzan," and I'll see if I can pick that up.
+
+### Chat: Conducting Research
+
+Academic research isn't some kind of fad. Topics don't just go in and out of fashion.
+
+### When It Rains
+
+I haven't been a child for many, many years, so I don't see any reason to be excited about the rain.
+
+### When Thunder Strikes
+
+Whoa! Wh—What? There's nothing wrong with being afraid of thunder even at an older age!
+
+### When It Snows
+
+How beautiful... How awe-inspiring... Achoo! *sniffle* Yes, and very cold-inducing as well...
+
+### When the Wind Is Blowing
+
+How cozy... A breezy, open environment really is the best.
+
+### In the Desert
+
+Hey, how did we circle back here again...
+
+### Good Morning
+
+Youngster, there's nothing quite like an enthusiastic greeting to start your morning! Try to remember now: What are you supposed to say?
+
+### Good Afternoon
+
+I'm starting to get hungry... How about we go get something from the Grand Bazaar? Anything goes as long as it's not overly "innovative."
+
+### Good Evening
+
+Don't act so surprised — scholars of every generation pull all-nighters for their research. After all, the night offers a precious opportunity to contemplate ideas and topics in peace.
+
+### Good Night
+
+This ancient text is making my head spin... Let's call it a night here and get some rest. I'll be heading to bed as well, so good night.
+
+### About Faruzan: Senior Scholar
+
+What is it that you'd like to learn more about? Different forms of pressure-based puzzle mechanisms? The base layer design of Elemental Monuments? Huh, wait... Did you forget to call me "Madam Faruzan" just now when you asked your question?
+
+### About Faruzan: A Mentor's Struggles
+
+I want my students to truly enjoy the study of ancient texts. If I can't find anyone like that, then I just won't take on any students! Ah, right, about finding someone to help me with my work... It's pretty reasonable for students to help their mentors when they have some free time, right? I mean, even I did that back in the day...
+
+### About Us: Student Recruitment
+
+Serious question: why don't you become my student? I'll tailor research topics to your needs and thoroughly explain everything you need to know. We can focus on practical ways to unlock modern-age puzzle mechanisms, and build on that with some work on the deciphering of associated texts. I've walked the walk, so I can promise you that everything you'd learn would be a great boon for your future adventures. There's no reason not to trust me!
+
+### About Us: Solving Puzzles
+
+When I was trapped, I spent so long solving puzzles that I became numb to even the flow of time. Now that I'm free again, I no longer have to face the puzzles of the world all on my own. Maybe we'll be able to spend some fun times together copying inscriptions, deciphering runes, and solving puzzles... Every minute should be savored.
+
+### About the Vision
+
+Hmph. My illustrious resume aside, my intellectual capabilities have been acknowledged even by the Anemo Archon himself. As for why I still can't find any students... Well, it's not due to any faults on my part or that of my Darshan. Maybe it's a matter of timing? I also received my Vision at precisely an opportune moment, after all.
+
+### Something to Share: Kshahrewar
+
+"Going forward, Kshahrewar will be the only Darshan dedicated to the study of mechanisms"... Hmph, if you ask me, the Kshahrewar scholars have gotten way ahead of themselves. When I was cracking puzzles all over Sumeru, they were still playing with rudimentary building blocks.
+
+### Something to Share: Haravatat
+
+Those geezers at Haravatat love to decline my funding requests with the excuse that my research's become too niche and impractical. By that logic, since we're still the Darshan with the lowest enrollment numbers, we might as well close our doors altogether.
+
+### Interesting Things
+
+I've visited numerous ruins of all shapes and sizes and interpreted what scant texts and symbols I could find. Ruin Drakes are indeed mechanisms of the highest order. Hmm... perhaps "mechanism" isn't the best word for them. You could argue that they're antiquated "living organisms" that have managed to survive until the present day...
+
+### About Lesser Lord Kusanali
+
+Knowledge is naturally something that cannot be limited or restrained. It's like how Kshahrewar can utilize Haravatat's research findings. All scholars will be grateful to Lesser Lord Kusanali for releasing the Akademiya— no, the entire City of Wisdom from the shackles of selfish desires. All who thirst for knowledge are now afforded the opportunity to search for treasures in the vast sea of knowledge.
+
+### About Tighnari
+
+One of my favorite projects is researching rainforest ruins. Ah right, I should ask Tighnari to come with me next time. It's always fun to travel with the living copy of the Rainforest Survival Guide. I must say, even though I've been around for more than a hundred years, he's seen far more varieties of fungi than I've had the chance to taste...
+
+### About Collei
+
+Ah, Collei... She's respectful toward her elders, diligent, and has a hard-working attitude — truly the perfect student! Children like her deserve all the affection and praise. Tighnari really has no reason to be as strict as he has been. Hmph... I need to find a way to win her over... Ahem! What I meant to say was, as a senior scholar, I should find ways to improve the learning environment of younger students.
+
+### About Cyno
+
+Cyno's jokes are composed using modern words and language patterns, but I still struggle to decipher any hidden meaning from his grammar and prose... Huh? It's all just literal meanings and homophones? Really...? Then, those jokes don't have any substance at all...
+
+### About Layla
+
+Sometimes, she'll lower her head and keep her distance when she sees me. However, she's all smiles and greetings at night... I don't quite get her. Anyway, most kids in Rtawahist are geniuses. A quirk or two isn't anything to concern myself with.
+
+### About Kaveh
+
+Kaveh's a good kid with great potential. I had a casual chat with him once about some principles of mechanism construction. Hmm, how should I put it... He's too much of an artsy romantic, but at least he has some original ideas, which is rare nowadays. I've heard that he's fallen on some hard times, so I'm planning to invite him out for a good meal once my funding gets approved. It'll happen soon, promise.
+
+### About Nilou
+
+I remember her; she's a courteous girl. I've only been to the Grand Bazaar a few times, but she's already remembered my name and face, and she's even tried to get the others to stop arguing with me. She really gets it! All youngsters should be more like her.
+
+### More About Faruzan: I
+
+Interested in my story? Well, Madam Faruzan's life started more than a hundred years ago, and her story covers as much ground as some major academic publications. Still curious? Good, willingness to learn is an indispensable trait for scholars. You've got one foot in the door.
+
+### More About Faruzan: II
+
+Solving a truly ancient mechanical puzzle requires deciphering a deluge of ancient texts. I don't mean to boast, but they're probably on a completely different level from the ones you've solved on your adventures. Oh? Don't believe me? Then why don't you pick out some of the hardest ones you've done and show them to me? If I spend more than a half hour on any of them, it's your win.
+
+### More About Faruzan: III
+
+If I didn't accidentally lose myself in that King Deshret ruin, I could have contributed even more to Sumeru... Thankfully, my manuscripts and treatises were still put to good use. Those freeloading Kshahrewar used them to establish the fundamentals of the study of mechanisms. Haha, I'm not called "Madam Faruzan" for nothing, you know.
+
+### More About Faruzan: IV
+
+As a scholar, I should have the courage to accept failure and shoulder all of its consequences. I never wanted anyone to pity me, whether it be back then or right now. Also, don't forget that I eventually managed to solve that final puzzle by my own power, and freed myself from that accursed place... Instead of pity, shouldn't people feel encouragement and inspiration from my story?
+
+### More About Faruzan: V
+
+My field of study is nowhere as esteemed as it used to be, and Haravatat has refused me funding more than once. Every now and then, Kshahrewar will try to invite me to teach under their banner, and the conditions they've offered me are truly out of this world. More students, a higher spending limit... I still turned them down, however. No matter what, someone has to keep studying niche topics, so we can expand the frontiers of humanity's knowledge.
+
+### Faruzan's Hobbies
+
+Some greedy merchants and mercenaries try to hawk "antiques" of unknown origin in Port Ormos at exorbitant prices, but their goods are nothing more than secondhand trash. Hmph, I bust their scams whenever I catch sight of one. My skill in antiques appraisal is probably second only to the gods of the Seven.
+
+### Faruzan's Troubles
+
+A hundred years ago, my greatest source of frustration was my inability to decipher the information engraved on ruin monuments. Now, nothing irritates me more than the struggle to get funding. Ugh, it's making my head hurt again...
+
+### Favorite Food
+
+You can improve the aroma of batter several times over if you bake it in the oven. Next time we're in the kitchen, I'll make some for you so you can get a taste of the flavors from my time. Since it'll be my super secret ancient recipe, I bet you won't find anything like it in the whole Grand Bazaar.
+
+### Least Favorite Food
+
+There's a new dessert that they call Padisarah Pudding. Who decided to create it? Shouldn't puddings be made with rice? These culinary innovations are really getting out of hand. Thank you, but there's really no need to share it with me, even if you made it yourself.
+
+### Receiving a Gift: I
+
+*munch* This is tastier than the food at most historic establishments. Could it be that the culinary arts haven't stopped improving?
+
+### Receiving a Gift: II
+
+The appearance, smell, and taste of this dish are all excellent. Do you read a lot of professional cooking books?
+
+### Receiving a Gift: III
+
+Hm? This indescribable taste... Are you trying to get me to figure out what this is?
+
+### Birthday
+
+Happy birthday! Here's a small toy for you. It's an assembly of a number of miniature puzzle mechanisms — you can find a button and lever here, as well as a roller to the side. Just play with it however you want, and I'll take care of it if it breaks. Hmph, and don't think I'm treating you like a child. Everyone, regardless of age, could use a moment of happiness and relaxation.
+
+### Feelings About Ascension: Intro
+
+Ha, aren't you an energetic youngster? So enthusiastic, even about collecting materials.
+
+### Feelings About Ascension: Building Up
+
+Oh? Have you unlocked some kind of mechanism? A continuous current of power is streaming in.
+
+### Feelings About Ascension: Climax
+
+Huh, you're really putting a lot into this... Don't worry, it's my responsibility as your senior to guide and protect you. I won't let you go astray.
+
+### Feelings About Ascension: Conclusion
+
+The past one hundred years have only afforded me the glimpse of a spindrift floating upon the endless sea of wisdom. As for the fields and puzzles that remain to be studied and explored... It'll be up to you and I to reveal their secrets.
+
+### Elemental Skill: I
+
+Too late for regrets.
+
+### Elemental Skill: II
+
+Dare to mess with me?
+
+### Elemental Skill: III
+
+We'll see about that.
+
+### Elemental Burst: I
+
+Gears of the storm!
+
+### Elemental Burst: II
+
+Have fun with this gift!
+
+### Elemental Burst: III
+
+Truth repeats its course.
+
+### Opening Treasure Chest: I
+
+A historical artifact? Hmph... never mind.
+
+### Opening Treasure Chest: II
+
+A find that was worth the trip.
+
+### Opening Treasure Chest: III
+
+Here you go. "Thank you, Madam Faruzan."
+
+### Low HP: I
+
+This isn't new!
+
+### Low HP: II
+
+This setback is nothing...
+
+### Low HP: III
+
+Don't underestimate me...
+
+### Ally at Low HP: I
+
+Careful, don't lose your life.
+
+### Ally at Low HP: II
+
+Watch and learn, youngster!
+
+### Fallen: I
+
+The puzzle... is still unsolved...
+
+### Fallen: II
+
+A scholar's journey... shouldn't end...
+
+### Fallen: III
+
+Time... didn't stop for me...
+
+### Heavy Hit Taken: I
+
+Wretched dastard!
+
+### Heavy Hit Taken: II
+
+No sense of respect!
+
+### Joining Party: I
+
+Need the help of an elder, huh?
+
+### Joining Party: II
+
+Been a while since I've limbered up.
+
+### Joining Party: III
+
+Sure, I'll hang out with you youngsters.
+
+### About Sethos
+
+Oh? You mean the new arrival? Yes, didn't he show up at the perfect time! I still don't know which Darshan he belongs to, but I seem to run into him all the time these days: out on the streets, in shops, at restaurants... It's like he's everywhere at once. The way he nods his head when he talks, it's like... oh, I don't know, like... a little puppy, yes. Eloquent young fellow, too. Seems like a good egg. Anyway, are you acquainted with him? You must encourage him to enroll in my classes. Tell him Madam Faruzan will take good care of him.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+这是当年教令院的杰出学者奖，这是须弥解谜协会终身成就奖，还有遗迹机关研讨会的…如何，可有志愿拜入我门下？咳咳，顺带一提，珐露珊前辈我是知论派学者，找我请到室罗婆耽学院来，不是刹诃伐罗学院，别走错地了。
+
+### 闲聊·规矩
+
+都过去一百年了，教令院的这些傻规矩怎么一点没改啊…
+
+### 闲聊·前辈
+
+啊——？什么？年纪大，听不见。先叫声前辈听听吧。
+
+### 闲聊·做学问
+
+做学问可不是赶潮流，没有冷门热门之说。
+
+### 下雨的时候…
+
+早不是小孩子了，下雨天有什么好兴奋的。
+
+### 打雷的时候…
+
+呜哇！？怎、怎么啦？年纪大就不可以害怕打雷了吗？
+
+### 下雪的时候…
+
+好美…让人着迷…阿嚏！好吧…也让人着凉…
+
+### 刮大风了…
+
+太舒服了，还是空气流通的环境好啊。
+
+### 在沙漠的时候…
+
+怎么兜兜转转又到这边来了…
+
+### 早上好…
+
+年轻人，早上就该拿出点精气神来！快重新向我问候一遍。
+
+### 中午好…
+
+有点饿了…去大巴扎吃点吗？我口味不挑，别太新潮就行。
+
+### 晚上好…
+
+别大惊小怪，不管哪个时代的学者，都会彻夜做研究。夜晚是能够宁静思考的宝贵时段。
+
+### 晚安…
+
+这篇古文看得我头昏眼花…今天就到这吧，早点休息，我也睡了，晚安。
+
+### 关于珐露珊自己·前辈
+
+想了解什么？压力机关的变体？元素方碑的底层设计？嗯，等等…你刚刚向我提问的时候，是不是忘了叫我前辈？
+
+### 关于珐露珊自己·光杆导师
+
+我希望我的学生都能打心底里喜欢古文研究，要是遇不到这样的孩子，那就干脆当一辈子的光杆导师！啊、啊？找新生打下手的事？偶尔用课余时间帮助一下前辈很合理吧？说得像是谁不是这样过来的一样…
+
+### 关于我们·招生
+
+认真说，要不要当我的学生？我会针对实际给你定制课题，讲得比谁都要透彻。现代机关解谜是重点，相关文献解读作为拓展…我是过来人，这些知识对今后的冒险大有裨益，你还能不信我？
+
+### 关于我们·解谜时光
+
+那一百年间，我不断重复着解谜，不知不觉变得麻木，连时间的流动都感受不到…现在好了，面对谜题，我不必再独自彷徨了。也许可以和你一起拓抄碑文、破译字符、解构机关…好好地品味每分每秒的钻研时光。
+
+### 关于「神之眼」…
+
+我的学术水平，哼，就算不谈我过去的光辉履历，这可是连神明他老人家都认可的。至于为什么招不到学生…不是我的问题，也不是学科的问题，大概是契机吧…就像我获得神之眼也是在特定的契机下。
+
+### 有什么想要分享·妙论派
+
+「刹诃伐罗学院是未来唯一有能力研究机关的学院」…哼，现如今，妙论派的宣言也未免太过自大了，我在须弥解谜的时候，他们还不知道在哪玩积木呢。
+
+### 有什么想要分享·知论派
+
+知论派那群家伙总喜欢以太过冷门、无人问津为由卡我的研究经费。按照这个评判标准，知论派至今都是人数最少的学派，干脆把室罗婆耽学院都关了算了。
+
+### 感兴趣的见闻…
+
+我去过大大小小的遗迹，从有限的古代图文来解读，「遗迹龙兽」，确实是精妙绝伦的机关，唔…也许不能用「机关」二字来概括，说它们是一种从古代遗留至今的「生命」也不为过…
+
+### 关于小吉祥草王…
+
+就像知论派的研究也会被用在妙论派上…知识本就是无法被限制的。所有学者都会感激小吉祥草王，让教令院，不，让须弥这个智慧的学城得以摆脱私欲的裹挟，让求知之人都有机会在学术之海中钩深索隐…
+
+### 关于提纳里…
+
+雨林遗迹研究算是最让我省心的项目，哦，得叫上提纳里。把活的《雨林生存指南》带在身边多有意思。哎呀，不得不说，虽然我年纪大，但吃过的蕈子远不如他见过的多呢。
+
+### 关于柯莱…
+
+柯莱啊…这姑娘尊敬师长，又勤勉又好学，是一顶一的完美学生！对这样的孩子就该温柔激励才对，提纳里有必要这么严苛吗？真是的…得想办法把她抢过…咳咳！我是说…作为前辈…得想办法优化一下当今年轻人的求学环境才行…
+
+### 关于赛诺…
+
+赛诺的笑话明明是由现代的文字和语言构成的，但我还是没法从文法和文义上推演出藏在话语中的意思…你是说就只是字面意思和谐音？真的…？那这些笑话也太没意思了…
+
+### 关于莱依拉…
+
+有时她看见我会低着头绕路走开，半夜里偶遇却又会大大方方地打招呼…搞不懂。算了，能挤进梨多梵谛的小崽子们大多都是天才，天才总有些自己的怪癖，我就不计较了。
+
+### 关于卡维…
+
+卡维这孩子是个好苗子。我跟他随便聊过一些机关构造原理，怎么说呢…尽管浪漫思想和艺术细胞都有些过甚，但还算有自己的想法，不容易。听说他日子过得有点紧，我一直等着哪天拿到经费就请他吃顿好的…等着吧。
+
+### 关于妮露…
+
+有印象，是个有礼貌的姑娘。去了大巴扎几次就把我记住了，还劝别人不要和我吵架。说的很对嘛，现在的年轻人啊，就该多向妮露学习。
+
+### 想要了解珐露珊·其一
+
+珐露珊前辈我的故事都赶得上某些文献的跨度了，得从一百多年前讲起…还想听吗？很好，积极求知，是学者不可或缺的品质。你入门了。
+
+### 想要了解珐露珊·其二
+
+从前的那些机关解谜需要配合大量的文献解读研究。不是我吹嘘，跟你解过的谜题恐怕完全不在一个层次。不服？好啊，你挑些你觉得难的，摆出来看看。能思考超过半小时就算我输。
+
+### 想要了解珐露珊·其三
+
+要不是误入那个赤王遗迹，我还能为须弥贡献更多…好在之前的手稿和论述没有白费，现在都便宜了妙论派，成了机关学的学科基础。呵呵，这一声「前辈」，我还是担得起的。
+
+### 想要了解珐露珊·其四
+
+作为学者，原本就该坦然接受失败、承受后果…我绝不希望别人可怜我，无论是过去还是现在！再说了，我明明是凭实力解开了最后的谜题，逃出了那个鬼地方…比起可怜，不该多从我身上找点激励和启发吗？
+
+### 想要了解珐露珊·其五
+
+我研究方向的地位已经大不如从前了，知论派卡我经费也不是一次两次了…妙论派三番四次邀请我到那边当导师，那条件还真诱人啊，更高的经费额度、更多的学生…但我还是拒绝了。不管怎样，总要有人负责钻研那些无人问津的领域，将全人类的智慧往外推出一小步。
+
+### 珐露珊的爱好…
+
+有些黑心商贩和佣兵常常混进奥摩斯港，拿着不知从哪弄来的「古董」高价兜售，其实全是些用坏用旧的破烂！哼，我见一次就拆穿一次。论「鉴古」，除了「尘世七执政」，我还没觉得自己能差过谁的。
+
+### 珐露珊的烦恼…
+
+一百年前，我最大的烦恼不过是解读不了遗迹碑文上的信息。一百年后，什么烦心事都比不过弄不到研究经费…唉！愁人…
+
+### 喜欢的食物…
+
+面糊拿去烤一烤，香味倍增！有机会我给你露两手，让你也尝尝我那辈的做法和风味。「古法秘制」，保准你逛遍大巴扎都找不来。
+
+### 讨厌的食物…
+
+那个叫什么…帕蒂沙兰布丁，那是谁发明的做法啊？布丁不应该得用米饭做吗？现在的这些创意，越来越花里胡哨了。不…谢谢，我没有尝试的兴趣，即使是你做的也免了。
+
+### 收到赠礼·其一
+
+唔…唔…比许多老字号做得都好吃，难道美食界也在不断进步？
+
+### 收到赠礼·其二
+
+色香味样样不差，莫非你常看美食制作类的书籍吗？
+
+### 收到赠礼·其三
+
+嗯？这什么东西，好晦涩的食物，你是想让我解读吗？
+
+### 生日…
+
+生日快乐！给你做了个玩具，拿好。它集合了微缩机关装置，这里有按键和推杆…侧面有滚轮…你就随便放在手上拨弄吧，坏了包修。把你当小孩子？笑话。快乐和放松是每个人都需要的东西，管它什么孩子大人的。
+
+### 突破的感受·起
+
+哈，手脚很麻利呀年轻人，找起材料来都是风风火火的。
+
+### 突破的感受·承
+
+噢？你解开了什么机关吗？力量正源源不断地涌过来呢~
+
+### 突破的感受·转
+
+呵，你倒是挺卖力的…放心吧，引导与保护，是前辈的职责，我不会让你陷入困境的。
+
+### 突破的感受·合
+
+在无边的智慧之海中，百年，也只能短暂地瞥见一角浪花…那些仍未深入的学问和没能解开的谜题，就靠你和我一起努力了。
+
+### 元素战技·其一
+
+后悔也晚了。
+
+### 元素战技·其二
+
+敢惹我？
+
+### 元素战技·其三
+
+走着瞧。
+
+### 元素爆发·其一
+
+毗岚重机！
+
+### 元素爆发·其二
+
+送你，拿去玩吧！
+
+### 元素爆发·其三
+
+真理，复始周转。
+
+### 打开宝箱·其一
+
+有文物出土？哦…这个啊。
+
+### 打开宝箱·其二
+
+算没白跑一趟。
+
+### 打开宝箱·其三
+
+给你拿去用好了，快说谢谢前辈。
+
+### 生命值低·其一
+
+也不是第一次了！
+
+### 生命值低·其二
+
+这种困境…不算什么…
+
+### 生命值低·其三
+
+别小看我了…
+
+### 同伴生命值低·其一
+
+注意安全，别送命了。
+
+### 同伴生命值低·其二
+
+这种时候要学着依靠前辈！
+
+### 倒下·其一
+
+谜题…仍未解开…
+
+### 倒下·其二
+
+学者之路…不应有尽头…
+
+### 倒下·其三
+
+时间…没为我停留…
+
+### 重受击·其一
+
+宵小狂徒！
+
+### 重受击·其二
+
+目无尊卑！
+
+### 加入队伍·其一
+
+还得靠前辈帮忙吧？
+
+### 加入队伍·其二
+
+好久没舒展筋骨了。
+
+### 加入队伍·其三
+
+行吧，陪陪年轻人。
+
+### 关于赛索斯…
+
+噢？那个新来的小子？来得正好！我还不知道他是哪个院的，最近老看到他晃来晃去，街上呀，商店里呀，餐馆里呀…哪儿都有他，这孩子说起话来一直点头，像个…像个小狗脑袋？能说会道得很呢，应该是个好苗子。哎，你要是认识他，记得劝他转到我门下来。前辈我呀，肯定不会让他吃亏的。

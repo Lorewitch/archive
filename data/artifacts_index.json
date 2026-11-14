@@ -726,6 +726,35 @@
     "search_text": "сердце глубин heart of depth 沉沦之心 мондштадт 5 1.2 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
+    "id": "heart_of_the_furnace",
+    "category": "artifacts",
+    "icon": "assets/icons/artifacts/heart_of_the_furnace.webp",
+    "title": {
+      "ru": "Сердце горна",
+      "en": "Heart of the Furnace",
+      "zh": "炉火融炼之心"
+    },
+    "region": "Снежная",
+    "rarity": 5,
+    "piece_count": 5,
+    "game_version": "7.0",
+    "tags": [
+      "артефакты",
+      "Снежная"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "сердце горна heart of the furnace 炉火融炼之心 снежная 5 7.0 артефакты цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+  },
+  {
     "id": "husk_of_opulent_dreams",
     "category": "artifacts",
     "icon": "assets/icons/artifacts/husk_of_opulent_dreams.webp",
@@ -1371,6 +1400,35 @@
     "filter_type": "",
     "sort_version": 1000000,
     "search_text": "встречная комета retracing bolide 逆飞的流星 ли юэ 5 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+  },
+  {
+    "id": "scarlet_proof",
+    "category": "artifacts",
+    "icon": "assets/icons/artifacts/scarlet_proof.webp",
+    "title": {
+      "ru": "Багряное доказательство",
+      "en": "Scarlet Proof",
+      "zh": "血红之证"
+    },
+    "region": "Снежная",
+    "rarity": 5,
+    "piece_count": 5,
+    "game_version": "7.0",
+    "tags": [
+      "артефакты",
+      "Снежная"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "багряное доказательство scarlet proof 血红之证 снежная 5 7.0 артефакты цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "scholar",

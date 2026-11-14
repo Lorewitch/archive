@@ -420,3 +420,851 @@ A "Vision" is also a resolute heart — and no finer ornament than it may be fou
 神明的目光察觉到了她，为她送去认可。
 
 「神之眼」，即为坚定的心。它会是最好的首饰。
+
+# voice_source_ids: 72000,72001,72002,72003,72004,72005,72006,72007,72008,72009,72010,72011,72012,72013,72014,72015,72016,72017,72018,72019,72020,72021,72022,72023,72024,72025,72026,72027,72028,72029,72030,72031,72032,72033,72034,72035,72036,72037,72038,72039,72040,72041,72042,72043,72044,72045,72046,72047,72048,72049,72050,72051,72052,72053,72054,72055,72056,72057,72058,72059,72060,72061,72062,72063,72064,72065,72066,72067,72068,72069
+
+## REPLICAS_RU
+
+### Привет...
+
+Здравствуй, путешественник из далёких краёв. Ночная пустыня очень опасна, останься у нас до утра, а я позабочусь о том, чтобы никто не потревожил твой сон. / Здравствуй, путешественница из далёких краёв. Ночная пустыня очень опасна, останься у нас до утра, а я позабочусь о том, чтобы никто не потревожил твой сон.
+
+### Поболтаем: Копьё и щит
+
+Чтобы оберегать самое ценное, одного щита недостаточно. Поэтому я должна брать в руки копьё.
+
+### Поболтаем: Жизнь
+
+Мечтаю, чтобы все люди жили в покое и благоденствии. Я была бы счастлива, если бы могла подарить всем такую жизнь.
+
+### Поболтаем: Надежды
+
+Я надеюсь, что всегда смогу защитить самое важное, чего бы это ни стоило. Пусть даже... иногда эта надежда кажется слишком дерзкой.
+
+### Когда идёт дождь...
+
+Главное - не простудиться.
+
+### Когда гремит гром...
+
+Как грохочет... Тебе не страшно?
+
+### Когда идёт снег...
+
+До чего странный порошок... Мелкий, как песок, белый, как облака, и холодный, как лёд...
+
+### Когда дует сильный ветер...
+
+В пустыне такой ветер поднимает песчаные бури, надо быть начеку.
+
+### В пустыне...
+
+Я буду рядом. Если тебе не по себе, просто возьми меня за руку.
+
+### Доброе утро...
+
+Доброе утро, путешественник. Хорошо ли тебе спалось? / Доброе утро, путешественница. Хорошо ли тебе спалось?
+
+### Добрый день...
+
+Уже полдень, в такой час золотое око небес может и обжечь. Давай найдём тенистое местечко и устроим себе небольшой отдых.
+
+### Добрый вечер...
+
+Ночное небо... Огромный купол, что появляется, когда отступает дневной свет. Кто знает, сколько секретов он скрывает...
+
+### Спокойной ночи...
+
+Да, уже и правда поздно, иди спать. А я? Мне до сна ещё далеко. Ночь прекрасна, но полна опасностей, так что ты пока спи, а я подежурю.
+
+### О Кандакии: Цвет глаз
+
+Странный? Не знаю, карий и голубой - самые обычные цвета...
+
+### О Кандакии: Деревня Аару
+
+Я выросла в деревне Аару и ещё маленькой несмышлёной девочкой узнала, что однажды унаследую от деда обязанность защищать деревню и её жителей... И теперь я с большой радостью исполняю свой долг.
+
+### О Кандакии: Родители
+
+Мой отец - учёный из Академии, в деревню Аару его привели исследования, и здесь он познакомился с моей матерью. О матери я знаю только со слов отца... Она подарила мне жизнь и в тот же день перешла в вечную ночь...
+
+### О нас: Хозяева и гости
+
+Ты всегда будешь гостем деревни Аару. Если устанешь в пути, приходи к нам, здесь ты найдёшь приют. В деревне Аару тебе всегда рады... И я всегда тебе рада.
+
+### О нас: Шкатулка с сокровищами
+
+Говорят, в сердце каждого человека есть шкатулка, где он всю жизнь хранит то, что ему дорого. Если так подумать, в моём сердце хранится много сокровищ... Угадаешь, что там есть?
+
+### Глаз Бога...
+
+Когда я получила Глаз Бога, многие люди в деревне говорили, что это милость аль-Ахмара... Но мне всё равно. Благоволят ко мне Архонты или нет, я всё равно буду исполнять свой долг Защитницы.
+
+### Давай поделимся...
+
+Мне по душе жизнь в деревне Аару. И каждый день, проведённый здесь, служит напоминанием: если я ослаблю бдительность, если случится непоправимое... Эта жизнь уже никогда не вернётся.
+
+### Интересные вещи...
+
+Тебе уже встречались на пути орехи аджиленах? Деревенские собирают такие орехи и готовят из них сладости, получается очень вкусно. Хочешь попробовать?
+
+### О малой властительнице Кусанали...
+
+Дендро Архонт... Наверное, спокойная жизнь потомков аль-Ахмара на этой земле - тоже знак её милости. Конечно, я испытываю к ней некоторую благодарность, но... Я всё-таки дитя пустыни.
+
+### О Лайле...
+
+Странная девушка, которая будто всегда в трансе? Да, я, кажется, её видела возле Стены Самиэль. Я не смогла разобрать, что она говорила и что за расчёты писала, но, похоже, она была очень довольна, когда закончила. Может, она так со стрессом справляется.
+
+### Об аль-Хайтаме...
+
+Странный учёный из Сумеру, он немного отличается от других учёных, которых я встречала. Он всё видит по-своему... Надеюсь, его острый ум не потревожит мирную жизнь в деревне Аару.
+
+### О Сайно...
+
+Генерал махаматра из Академии... Раньше его редко можно было увидеть по эту сторону Стены Самиэль, но теперь он к нам зачастил. Пустынники, должно быть, рассказывают о нём довольно жуткие истории...
+
+### О Дэхье...
+
+Когда Дэхья останавливается со своими Пустынниками в деревне Аару, она всегда держит их на коротком поводке, чем... сильно облегчает мне работу. Дэхья... Поначалу кажется, что она настоящее бедствие, но на самом деле это очень милая девушка.
+
+### Узнать больше о Кандакии I
+
+Хочешь узнать обо мне побольше... Это не очень интересная история, но, если ты настаиваешь, я расскажу... Придёт ночь, мы усядемся у костра, и я заведу свой рассказ.
+
+### Узнать больше о Кандакии II
+
+Мы народ, лишившийся защиты своего божества. Наш враг не ложь, а чернота на месте завтрашнего дня. С ложью за пазухой идти по дороге, выстланной колючками боли, пожалуй... Пожалуй, всё же благороднее, чем, забыв обо всём, умереть в объятиях правды.
+
+### Узнать больше о Кандакии III
+
+Даже сейчас некоторые люди верят, что царь Дешрет однажды воскреснет, но это невозможно. Прошлое - россыпь песчинок, пусть они летят вслед за ветром, не стоит пытаться их удержать.
+
+### Узнать больше о Кандакии IV
+
+Мой щит? Гм, если верить словам чужаков, мой щит осенён благословением Бенну. С ним каждая песчинка служит моим разведчиком, а песчаная буря выполняет мои приказы... Но это всего лишь домыслы чужаков. А мне важнее... что этот щит удобно лежит в руке.
+
+### Узнать больше о Кандакии V
+
+Хотелось бы, чтобы мой карий глаз умел заглядывать в будущее... Наверное, там всё золотое, цвета золота и солнечного света, цвета надежды... А тебе всегда будет сопутствовать удача. Я от всего сердца желаю тебе удачи.
+
+### Хобби Кандакии...
+
+Я больше всего люблю гулять по деревне. Я вижу, что всё в порядке, и знаю, что сегодняшний день похож на вчерашний, а вчерашний - на все предыдущие, на все другие счастливые дни.
+
+### Беспокойство Кандакии
+
+Время от времени некоторые безрассудные разбойники пытаются нарушить мир и спокойствие в деревне Аару. Интересно... Не слишком ли большая милость - загнать их в ущелье, кишащее монстрами? Как думаешь? Может, у тебя есть другие идеи?
+
+### Любимая еда...
+
+Для меня... размер порции важнее вкуса. Жизнь в пустыне требует куда больше сил, чем можно представить. После целого дня, проведённого на службе, самая большая радость - наесться до отвала.
+
+### Нелюбимая еда...
+
+Не то чтобы я совсем её не люблю, но по сравнению с мясом рыба для меня - настоящее испытание... Может, всё дело в том, что я выросла в пустыне и редко ела рыбу, поэтому плохо умею вытаскивать все эти мелкие косточки... Наверное, тебе смешно это слышать.
+
+### Подарок I
+
+Как же вкусно! Чтобы приготовить такое лакомство, ты наверняка потратил много сил! / Как же вкусно! Чтобы приготовить такое лакомство, ты наверняка потратила много сил!
+
+### Подарок II
+
+Ты ведь всё время проводишь в странствиях, а стряпня у тебя такая... домашняя.
+
+### Подарок III
+
+Наверное, у меня слишком устаревшие взгляды на то, что съедобно, а что нет...
+
+### День рождения...
+
+С днём рождения! Как здорово, что именно в этот день ты однажды и родился. Есть у тебя неисполненное желание? Если хочешь отправиться в какое-нибудь опасное место, я буду твоим телохранителем. А если решил немного отдохнуть, приходи в деревню Аару, я угощу тебя лучшим мясом и напитками. / С днём рождения! Как здорово, что именно в этот день ты однажды и родилась. Есть у тебя неисполненное желание? Если хочешь отправиться в какое-нибудь опасное место, я буду твоим телохранителем. А если решила немного отдохнуть, приходи в деревню Аару, я угощу тебя лучшим мясом и напитками.
+
+### Чувство возвышения: Начало
+
+Я чувствую новую силу... Пусть она поможет мне защитить всех, кто нуждается в защите...
+
+### Чувство возвышения: Нарастание
+
+Мой щит стал крепче, а копьё острее. Однажды я слышала басню о том, как самое острое на свете копьё пыталось пробить самый крепкий на свете щит... Но я не буду ставить таких опытов.
+
+### Чувство возвышения: Кульминация
+
+Сила, которую мы обретаем здесь и сейчас, нужна нам для будущих испытаний. Когда-то я научилась владеть копьём и щитом, и теперь мне здорово пригодились эти умения.
+
+### Чувство возвышения: Окончание
+
+Теперь я могу идти впереди тебя и отражать все опасности, которые встретятся тебе на пути. Если ты мне веришь, закрой глаза и предоставь всех врагов мне.
+
+### Элементальный навык I
+
+Уступи дорогу!
+
+### Элементальный навык II
+
+Прочь!
+
+### Элементальный навык III
+
+Давай, смелей!
+
+### Элементальный навык IV
+
+Отведай, каково мое копьё!
+
+### Элементальный навык V
+
+Вот и всё!
+
+### Элементальный навык VI
+
+Вам конец!
+
+### Взрыв стихии I
+
+Услышь мои молитвы!
+
+### Взрыв стихии II
+
+Даруй нам благословение!
+
+### Взрыв стихии III
+
+Мы победим!
+
+### Открытие сундука I
+
+Столько всего полезного...
+
+### Открытие сундука II
+
+Ну как, что-нибудь понравилось?
+
+### Открытие сундука III
+
+Надеюсь, тебе что-нибудь из этого пригодится.
+
+### Низкий уровень HP I
+
+Больше никакой пощады.
+
+### Низкий уровень HP II
+
+Кому-то пора бы и одуматься.
+
+### Низкий уровень HP III
+
+Прошу вас... убирайтесь!
+
+### Низкий уровень HP компаньона I
+
+Отдохни...
+
+### Низкий уровень HP компаньона II
+
+Вставай за мной!
+
+### Без сознания I
+
+Я слишком мало тренировалась...
+
+### Без сознания II
+
+Прости, я не смогла тебя защитить...
+
+### Без сознания III
+
+Мой щит... разбит.
+
+### Получен лёгкий удар I
+
+Ничего.
+
+### Получен тяжёлый удар I
+
+Потрясающе.
+
+### Получен тяжёлый удар II
+
+Царапина...
+
+### Присоединяется к группе I
+
+Что случилось? Кто-то попал в беду?
+
+### Присоединяется к группе II
+
+Не отставайте.
+
+### Присоединяется к группе III
+
+Со мной вы в безопасности.
+
+### О Сетосе...
+
+Сыновья и дочери царя Дешрета - гордый народ, и он не исключение. Я слышала его рассказ о силе Германубиса, заключённой в достойном сосуде. Насколько я понимаю, в последнее время он активно работает в городе Сумеру? Судя по всему, он говорил с Сайно и другими друзьями о своих планах посетить деревню Аару. Я с нетерпением жду возможности принять его у себя.
+
+## REPLICAS_EN
+
+### Hello
+
+Welcome, weary Traveler from afar. Nights in the desert are cruel. You should rest here tonight. Sleep soundly, and know that I am watching over you.
+
+### Chat: Spear and Shield
+
+A shield is not enough to protect the most important things. That's why I must also wield a spear.
+
+### Chat: Life
+
+Peace and good health should be enjoyed by all... If I can provide everyone with a life such as this, I will be content.
+
+### Chat: Wishes
+
+I will always seek to protect the things that are most important, no matter what it takes... even when it looks futile.
+
+### When It Rains
+
+Stay warm, or you'll catch a cold.
+
+### When Thunder Strikes
+
+The thunder rumbles — does it scare you?
+
+### When It Snows
+
+This strange powder, it is... fine, like sand, but white as the clouds, and cold as ice...
+
+### When the Wind Is Blowing
+
+In the desert, a strong gale like this will create a sandstorm, so it's always a good idea to stay alert.
+
+### In the Desert
+
+I am right by your side. But if you're still nervous, just take my hand.
+
+### Good Morning
+
+Good morning, Traveler. Did you sleep soundly last night?
+
+### Good Afternoon
+
+It's already noon. The golden eye of the sky glares down fiercely at this hour... Hehe, we should find some shade and escape its wrath.
+
+### Good Evening
+
+The night sky... that great canopy that descends when the light of day is gone. Who knows how many untold secrets it conceals...
+
+### Good Night
+
+Yes, it's time to rest. You should sleep. Me? It's still much too early. The night is beautiful, but it's also full of danger... I must keep watch, for your sake.
+
+### About Candace: Eye Color
+
+...Strange? I'm not sure what you mean, both amber and blue are fairly common eye colors, I believe...
+
+### About Candace: Aaru Village
+
+Aaru Village is where I was born and grew up. Even back when I was too young to understand anything else about the world, the one thing I knew for sure was that one day, I would take over from my grandfather as sworn protector of our village... Today, I am grateful to now hold this duty. It is what I was born to do.
+
+### About Candace: Parents
+
+My father was a scholar from the Akademiya. He originally came to Aaru Village on a research trip, and then he met my mother... As for her, unfortunately I only know what my father has told me. The day I was born, she began her journey into the eternal night...
+
+### About Us: Hosting Guests
+
+You will always be an honored guest of Aaru Village, no matter the day or time of your visit. If ever you tire of your journey, know that here, you can always find rest. Aaru Village welcomes you with open arms... as do I.
+
+### About Us: Treasure in the Chest
+
+They say in every person's heart is a precious box, into which they place the things they treasure, so that they may guard them for their entire life. My heart harbors many treasures... Care to guess what those might be?
+
+### About the Vision
+
+When I received my Vision, people in the village kept telling me it was a blessing from Ahmar... but that doesn't matter to me. I swore to protect the village, and I will do it with or without a Vision.
+
+### Something to Share
+
+I do love spending time in Aaru Village. But each day I spend here is also a reminder that if I ever start to let my guard down... sooner or later, the day may come when I no longer have a life to return to here.
+
+### Interesting Things
+
+Have you come across Ajilenakh Nuts yet on your journey? They're naturally very sweet, and the villagers make the most delicious candies from them. If you're interested, you should give them a try.
+
+### About Lesser Lord Kusanali
+
+Perhaps it is a testament to the Dendro Archon's benevolence that I, a descendant of the Al-Ahmar bloodline, am able to live peacefully on this land. If so, I suppose I am grateful for this much, but... I am first and foremost a child of the desert.
+
+### About Layla
+
+An eccentric girl who always seems to be in a trance...? Yes, I believe I've seen her before — near the Wall of Samiel. I couldn't make sense of what she was saying, nor the calculation she wrote down, but she seemed to be in a much better mood after she'd finished. Perhaps this is her way of relieving stress.
+
+### About Alhaitham
+
+A truly unusual scholar, unlike any other I've ever met. He sees and thinks about things in his own unique way... I only hope he never wields his sharp mind against the peace of Aaru Village.
+
+### About Cyno
+
+In the past, it was rare to see the Akademiya's General Mahamatra on this side of the Wall of Samiel, but recently he has been showing up here all the time. I believe that the Eremites have some truly terrifying stories to tell about him...
+
+### About Dehya
+
+Whenever Dehya brings any of her Eremites to stay at Aaru Village, she always keeps them on their best behavior. I have to say, it makes my life a lot easier. Ah, Dehya... She might look like trouble at first, but the truth is that she's really quite adorable.
+
+### More About Candace: I
+
+You want to know more about me? ...I can't promise you a great story, but if you insist... Okay, let's wait until nightfall. We can sit by the fireside and I'll tell you all you wish to know.
+
+### More About Candace: II
+
+We are a people whose god is no longer with us. Lies pose no threat to us... the threat we face is the prospect of no tomorrow. The path before us is paved with barbs, there is pain in every step — yes, we tread forward clinging to a lie, but perhaps... perhaps there is more virtue in this than in selfishly embracing the truth, and death along with it...
+
+### More About Candace: III
+
+Even now, there are those who hold on to a belief that King Deshret will be resurrected. But it's not possible. The past is but grains of sand, scattered to the four winds. The best we can do is to let go, and leave the wind to carry them to their final resting place.
+
+### More About Candace: IV
+
+My shield? Well, according to what people outside the village say, it has the blessing of Bennu. With this shield in hand, all the grains of sand are my eyes and ears, and the desert is ready to do my bidding... Their imaginations can get a little carried away sometimes. But anyway, that aside, the main thing for me is it always works like a charm.
+
+### More About Candace: V
+
+I'd really love to look into your future with my amber eye, if I could... Something tells me everything would be golden... somewhere between the color of sunlight and honey. A color filled with hope. Your journey will be a smooth road ahead. I give it my blessing.
+
+### Candace's Hobbies
+
+I always love taking walks in the village. Seeing that all is still well gives me a sense that... if today is just like yesterday, and yesterday is just like all the days before it... things have always been pleasant here, throughout history.
+
+### Candace's Troubles
+
+Every now and then, a few violent thugs make the mistake of trying to disrupt the peace and tranquility of Aaru Village. I do wonder... is chasing them into a monster-infested valley perhaps a little too... merciful? What do you think, do you have any better ideas on how they should be dealt with?
+
+### Favorite Food
+
+To me... quantity is more important than taste when it comes to food. Life in the desert uses up more energy than you might think. After a day's work, there's nothing more satisfying than having a filling meal.
+
+### Least Favorite Food
+
+I don't hate it, but compared to regular meat, eating fish is a real nuisance... Maybe it's because we don't really eat fish here in the desert, but for whatever reason, I'm just not very good at removing all those prickly little bones... This must sound ridiculous to you.
+
+### Receiving a Gift: I
+
+Mmm, absolutely delightful! This must have taken a lot of time and effort.
+
+### Receiving a Gift: II
+
+For someone who spends so much time on the road, your cooking tastes so... homely.
+
+### Receiving a Gift: III
+
+Maybe my definition of "edible" is a little too old-fashioned...
+
+### Birthday
+
+Happy birthday! It's amazing to think that you were born on this day, years ago in the past. Do you have a birthday wish? If it involves going somewhere dangerous, let me join you — I'll be your guard. Or if you're looking to rest and revitalize, come to Aaru Village, and I'll serve you the finest meats and drinks we have.
+
+### Feelings About Ascension: Intro
+
+I feel a newfound strength within me... May it help me to be a better protector.
+
+### Feelings About Ascension: Building Up
+
+My shield grows sturdier, and my spear sharper. One is an unstoppable force, the other an immovable object... Oh, but... I would never pit these against each other.
+
+### Feelings About Ascension: Climax
+
+I learned to wield the spear and shield knowing that I would one day need them, and today I use these skills to protect the village. So perhaps this new strength I now gain in the present is preparing me for trials that lie ahead in the future.
+
+### Feelings About Ascension: Conclusion
+
+I am now capable of venturing ahead of you, and fending off all dangers that would seek to come your way. If you trust me, then I invite you to close your eyes and leave the enemies to me.
+
+### Elemental Skill: I
+
+Yield!
+
+### Elemental Skill: II
+
+Flee!
+
+### Elemental Skill: III
+
+Do your worst!
+
+### Elemental Skill: IV
+
+Pin them down!
+
+### Elemental Skill: V
+
+Hah, too easy!
+
+### Elemental Skill: VI
+
+You're exposed!
+
+### Elemental Burst: I
+
+Hear my prayer!
+
+### Elemental Burst: II
+
+Grant us your blessing!
+
+### Elemental Burst: III
+
+We shall prevail!
+
+### Opening Treasure Chest: I
+
+These look... surprisingly useful.
+
+### Opening Treasure Chest: II
+
+What do you think? Anything catch your eye?
+
+### Opening Treasure Chest: III
+
+I hope you can find some use for these.
+
+### Low HP: I
+
+No more mercy.
+
+### Low HP: II
+
+Remorseless. Hmph.
+
+### Low HP: III
+
+Leave... now...
+
+### Ally at Low HP: I
+
+Please, rest...
+
+### Ally at Low HP: II
+
+Get behind me!
+
+### Fallen: I
+
+Need to... train harder...
+
+### Fallen: II
+
+I have failed... I'm sorry...
+
+### Fallen: III
+
+The shield... has broken...
+
+### Light Hit Taken: I
+
+It's nothing.
+
+### Heavy Hit Taken: I
+
+Impressive.
+
+### Heavy Hit Taken: II
+
+Just a graze.
+
+### Joining Party: I
+
+What's wrong? Are you in danger?
+
+### Joining Party: II
+
+Stay close.
+
+### Joining Party: III
+
+I promise to keep you safe.
+
+### About Sethos
+
+The sons and daughters of King Deshret are a proud people, and he is no exception. I have heard his tale, of Hermanubis's glory dwelling within a worthy vessel. I also understand he has been active in Sumeru City recently? Apparently, he has spoken to Cyno and other friends of his plans to visit Aaru Village. I look forward to hosting him.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好呀，远道而来的旅行者，夜晚的沙漠可是很严酷的，不如就在敝处稍住一晚吧，由我来照看你的无梦之夜。
+
+### 闲聊·盾与枪
+
+为了保护珍贵之物，只有盾是不够的。所以…我才会握起枪。
+
+### 闲聊·生活
+
+希望每个人都平安无事。只要能维持这样的生活，我就心满意足了…
+
+### 闲聊·愿望
+
+无论以怎样的方法，我都希望守护住那些重要的东西。尽管有时…这会是一种奢望。
+
+### 下雨的时候…
+
+可别着凉了。
+
+### 打雷的时候…
+
+雷声隆隆——会让你害怕吗？
+
+### 下雪的时候…
+
+这些白色的东西，冰冰凉凉的…
+
+### 刮大风了…
+
+在沙漠里，这样的风会吹起沙暴，得小心了。
+
+### 在沙漠的时候…
+
+我就在你身旁。若你不放心的话，就请牵着我的手吧。
+
+### 早上好…
+
+早上好啊，不知旅者昨夜可曾安然入眠？
+
+### 中午好…
+
+已经是中午了，天上明眸之光灼然炫目，不如找个荫凉处歇息一下吧。
+
+### 晚上好…
+
+夜晚啊，在那光芒褪尽的诸多帷帐之后，藏着多少难言的隐秘呢…
+
+### 晚安…
+
+嗯，确实已经到休息的时间了，你先去睡吧。我吗？离我入睡的时候还早，夜晚虽然美丽却也危险，我得好好帮你守夜才行啊。
+
+### 关于坎蒂丝自己·瞳色
+
+很奇怪吗，不管是琥珀色还是蔚蓝色，应该都还算常见的瞳色吧…
+
+### 关于坎蒂丝自己·阿如村
+
+我自小就在阿如村出生长大，在我尚且懵懂之时就知道，将来一定会从祖父手中接过守护阿如村的职责…如今，这已是我欣然接受的天职了。
+
+### 关于坎蒂丝自己·父母
+
+我的父亲是教令院的学者，当时为了研究才到了阿如村，也由此和我的母亲相遇。关于母亲的事，我全是从父亲口中得知的…在我出生那日，母亲就走入永夜之中了…
+
+### 关于我们·主客
+
+你永远是阿如村的客人，无论何时，若是在旅途中觉得困倦疲累，你都可以到这儿来歇息一会儿。阿如村永远欢迎你…我永远会欢迎你。
+
+### 关于我们·宝匣之中
+
+据说每个人心中都有一个宝匣，他们将珍视之物装入匣中，花上一生的时间好好守护。这样想要守护的东西，在我的宝匣之中也有许多，要猜猜看都有什么吗？
+
+### 关于「神之眼」…
+
+在我获得「神之眼」的时候，村里不少人都说这是阿赫玛尔的恩眷…但对我来说这并不重要。无论有没有神明的恩赐，我都会履行「守护者」的职责。
+
+### 有什么想要分享…
+
+我很喜欢在阿如村度过的日子。同时，在这里度过的每一天也都在提醒我，如果我因为松懈失察而酿成大错的话，就再也无法回到这样的生活了。
+
+### 感兴趣的见闻…
+
+你有在旅行的途中见过枣椰吗，村里的人经常把它们摘回来做成糖果吃，味道非常甜美。如果感兴趣的话，你也尝尝看吧。
+
+### 关于小吉祥草王…
+
+草神啊…作为阿赫玛尔血脉延续的我既然能在此安然生存，或许也仰赖她的仁慈吧。不过，虽说心中怀有淡薄的感激之念，但我毕竟是沙漠的子嗣…
+
+### 关于莱依拉…
+
+「状若梦游的古怪少女」么…我确实在防沙壁附近看到过，虽然完全听不懂她说的话和写在纸上的一堆算式…不过，她似乎说完那些心情变好了许多。或许这是她排解心中压力的方式吧。
+
+### 关于艾尔海森…
+
+真是奇怪的须弥学者，跟我接触过的其他学者都有些不太一样，他的想法与见解都很独到…希望他的这份锐利，不会打扰到阿如村的安宁吧。
+
+### 关于赛诺…
+
+教令院的大风纪官…之前很少到防沙壁的这一侧来，最近却常常出现。关于他，镀金旅团里似乎流传着一些相当可怕的传说…
+
+### 关于迪希雅…
+
+迪希雅，她每次带着镀金旅团的人在阿如村寄宿的时候，都能约束好手下的行动，可以说…给我免了很多麻烦。迪希雅小姐，跟看上去大大咧咧的样子不同，是个非常可爱的人哦。
+
+### 想要了解坎蒂丝·其一
+
+想要了解我的事情吗…那算不上是一个好故事，但要是你执意想听的话…那就在入夜之后，由我在篝火边为你讲述吧。
+
+### 想要了解坎蒂丝·其二
+
+我们是失去了神明庇护的一族，对我们而言，谎言不是什么敌人，没有明天才是。怀揣谎言行走于痛苦的荆棘之路上，说不定…说不定比自顾自拥抱真相死去的人要高尚一些呢…
+
+### 想要了解坎蒂丝·其三
+
+即使到现在，也有人相信赤王有朝一日能够复活，但那是不可能的。一切的过去都如同被吹拂的砂砾，对过往之事来说，随风而去才是最好的归宿。
+
+### 想要了解坎蒂丝·其四
+
+我的盾牌？喔，如果按照村外人的说法，这面盾牌上可是有着「贝努」的祝福呢，只要拿着这面盾牌，沙漠里的每一颗沙砾都是我的斥候，沙暴也任我驱使…这其实都是外人的臆想。但无论如何，对我来说…至少这面盾牌用得挺顺手的。
+
+### 想要了解坎蒂丝·其五
+
+我真想用这只琥珀色的眼睛，预见你的未来…我想，它大概会是一片金黄，介于阳光和黄金之间，是充满希望的颜色。你的前路一定会顺利，我由衷祝福着它。
+
+### 坎蒂丝的爱好…
+
+在村中散步就是我最喜欢做的事。看到一切都好，就让人觉得今日犹如昨天，昨天犹如过去，而过去又总是好的。
+
+### 坎蒂丝的烦恼…
+
+偶尔还是会有不长眼的宵小之徒，企图打扰阿如村的宁静。或许…只将那些家伙赶进全是魔兽的山谷里还是太过仁慈了，怎么样，你有更好的建议吗？
+
+### 喜欢的食物…
+
+对我来说…食物的分量比口味更重要。在沙漠里生活需要耗费比想象中更多的体力，一天的劳累过后，没有比吃饱肚子更为惬意的事了吧。
+
+### 讨厌的食物…
+
+倒也没到讨厌的程度，不过相较于肉，鱼吃起来确实非常麻烦…可能也是在沙漠中很少吃鱼的关系吧，我对于那种将刺从鱼肉中剔除的工作并不擅长…让你见笑了。
+
+### 收到赠礼·其一
+
+好吃极了，为做出这样的美食，你想必付出了相当的努力吧。
+
+### 收到赠礼·其二
+
+明明是四处漂泊的旅人，你做的饭，却有家的味道呢。
+
+### 收到赠礼·其三
+
+或许是我对可食用之物的定义太过保守…
+
+### 生日…
+
+祝你生日快乐！多了不起啊，你在过去某年某月的这一天出生了。有什么想要实现的愿望吗。如果要去险远之处，我就作你旅途的护卫。若是想稍作休息，那就来阿如村，我用最好的烤肉和饮料招待你。
+
+### 突破的感受·起
+
+感觉到了更坚实的力量，希望我可以保护更多…
+
+### 突破的感受·承
+
+更坚固的盾，和更锋利的枪。我曾听说过一个枪和盾的故事…不，我不会做出枪盾相击的尝试。
+
+### 突破的感受·转
+
+人在「现在」获得的力量，或许都是为了应对「将来」的不安。就像我过去锻炼枪术和持盾的技巧，实际上都是为了守护现在的安稳。
+
+### 突破的感受·合
+
+现在的我，已经可以站在你的身前，替你挡下所有的危险。如果你相信我的话，就请闭上双眼，将敌人交给我吧。
+
+### 元素战技·其一
+
+破！
+
+### 元素战技·其二
+
+走开！
+
+### 元素战技·其三
+
+来吧！
+
+### 元素战技·其四
+
+坠刺！
+
+### 元素战技·其五
+
+不过如此！
+
+### 元素战技·其六
+
+有破绽！
+
+### 元素爆发·其一
+
+听取我的战祷！
+
+### 元素爆发·其二
+
+赐予我们祝福！
+
+### 元素爆发·其三
+
+此为守护之战！
+
+### 打开宝箱·其一
+
+都是些有用之物呀…
+
+### 打开宝箱·其二
+
+怎么样，有看得上眼的么？
+
+### 打开宝箱·其三
+
+希望里面有能帮上你的东西。
+
+### 生命值低·其一
+
+不用手下留情了。
+
+### 生命值低·其二
+
+仍不悔改吗？
+
+### 生命值低·其三
+
+请你们，滚开…
+
+### 同伴生命值低·其一
+
+好好休息一下…
+
+### 同伴生命值低·其二
+
+站我身后吧！
+
+### 倒下·其一
+
+仍需磨炼…
+
+### 倒下·其二
+
+对不起，我没能守护…
+
+### 倒下·其三
+
+盾，破碎了…
+
+### 普通受击·其一
+
+没问题。
+
+### 重受击·其一
+
+了不起。
+
+### 重受击·其二
+
+小伤罢了…
+
+### 加入队伍·其一
+
+怎么了，遇到危险了吗？
+
+### 加入队伍·其二
+
+记得跟紧我哦。
+
+### 加入队伍·其三
+
+我会保证你的安全。
+
+### 关于赛索斯…
+
+赤王的子民永远保有骄傲，他也是如此。我听说了他的事，赫曼努比斯的威光将与有能力的人共存。听说他最近在须弥城很活跃，还跟赛诺他们提起阿如村，说是想来作客，我很期待。

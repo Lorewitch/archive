@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 70096
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10253
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 70096
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 130
 
 ## RU
 
@@ -58,19 +61,25 @@
 
 **Паймон:** Ты это серьёзно? Почему Паймон кажется, что разница между разными драконами примерно такая же, как между разными Архонтами...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Зачем тебе «Справочник сильных противников»?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Ты интересуешься драконами?
 
+##### Общее продолжение
+
 **Лоэн:** После недавних размышлений я понял, что лучший способ стать ещё сильнее - это бросать вызов сильнейшим противникам по всему Тейвату.
 
-(В своём репертуаре...)
+- **Путешественник:** (В своём репертуаре...)
 
 **Лоэн:** Но сегодня утром, когда я собирался выходить из дома... передо мной появилась какая-то странная штуковина и начала нести чепуху.
 
-**Барбелот:** «Потерянный человек, трижды тебе предстоит столкнуться с величием дракона. Тогда, и только тогда, ты постигнешь истинный смысл силы».
+**Странный предмет:** «Потерянный человек, трижды тебе предстоит столкнуться с величием дракона. Тогда, и только тогда, ты постигнешь истинный смысл силы».
 
-(Вполне в духе Барбелот...)
+- **Путешественник:** (Вполне в духе Барбелот...)
 
 **Лоэн:** Обычно я не придаю значения всяким пророчествам, но... Скажем так, у меня ощущение, что мной пытаются манипулировать, и мне это не нравится.
 
@@ -82,11 +91,11 @@
 
 **Лоэн:** Есть только один способ узнать, правда это или нет.
 
-#### Отправляйтесь на поиски таинственного древнего дракона
-
 **Слажнев:** Наш Капитан не просто силён. Он даже разработал средство, способное противостоять Бездне! Готов поспорить, ты об этом не знал. Да, умник? И при этом ты считаешь меня лжеэкспертом, который ничего не знает?!
 
 **Лейфхельм:** А ты знаешь, с какой поразительной скоростью передвигается наш магистр ордена? Он проделал путь от Нод-Края до Мондштадта по артериям земли быстрее, чем ты завязываешь шнурки. Если, конечно, ты вообще умеешь их завязывать!
+
+#### Отправляйтесь на поиски таинственного древнего дракона
 
 **Айно:** Инеффа, Инеффа! Смотри на ту мельницу! Мне нужно, чтобы ты запечатлела принцип её работы!
 
@@ -120,17 +129,11 @@
 
 **Айно:** Инеффа! Иди и сокруши его!
 
+#### Помогите Инеффе собрать материалы
+
+#### Одолейте Стража руин
+
 #### Поговорите с Инеффой
-
-**Николь:** Эх, впервые сама взялась за дело, и вот как всё обернулось...
-
-- **Путешественник:** Всё поначалу даётся с трудом...
-
-- **Путешественник:** За какое дело ты впервые сама взялась?
-
-**Паймон:** К тому же всё закончилось неплохо!
-
-**Николь:** Хм... Это «Уроки ведьм». Потом объясню.
 
 **Лоэн:** У тебя очень плавные движения, совсем не как у механизма.
 
@@ -144,7 +147,7 @@
 
 **Инеффа:** Поняла... Прошу прощения. Поговорим позже.
 
-*Спустя некоторое время...*
+Спустя некоторое время...
 
 **Айно:** Хр-р-р... Хр-р-р...
 
@@ -158,13 +161,15 @@
 
 **Инеффа:** Кстати, человек, который рассказал нам об особых механизмах, также упоминал Драконий хребет. Почему бы вам не заглянуть туда?
 
+#### Отправляйтесь на Драконий хребет
+
 #### Найдите дракона Драконьего хребта
 
 **Дурин:** ...Ищущий силы, следуя указаниям судьбы, наконец прибыл.
 
 **Паймон:** Дурин... Почему Паймон ничуть не удивлена?
 
-В его манере говорить есть что-то странное...
+- **Путешественник:** В его манере говорить есть что-то странное...
 
 **Дурин:** Суверенный правитель, творение ведьмы и потомок ангелов... Все они обладают разными способностями, но всех их называют драконами.
 
@@ -178,9 +183,15 @@
 
 **Дурин:** П-подожди! М-молодой человек, испытание, которое ты ищешь, не здесь. Отправляйся в логово Ужаса Бури и встреться лицом к лицу с последним пророчеством!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Как быстро говорит!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Словно актёр, который спешит уйти со сцены!
+
+##### Общее продолжение
 
 **Паймон:** С тобой всё в порядке, Дурин? Ты сегодня как-то странно говоришь.
 
@@ -194,9 +205,15 @@
 
 **Паймон:** Э-э... А зачем, собственно, Дурин приходил сюда? Если не считать последнюю фразу про логово Ужаса Бури, он нёс какой-то бред...
 
+##### Вариант ответа 1
+
 - **Путешественник:** У меня есть догадка...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это было сделано, чтобы получилось число «три».
+
+##### Общее продолжение
 
 **Лоэн:** Очень интересно. Мне захотелось собственными глазами увидеть, как именно исполнится это «пророчество»...
 
@@ -218,7 +235,7 @@
 
 **Лоэн:** Если интерпретировать пророчество с долей снисходительности, то формально я уже трижды столкнулся с могуществом дракона.
 
-Осталось постигнуть истинный смысл силы...
+- **Путешественник:** Осталось постигнуть истинный смысл силы...
 
 **Лоэн:** Хм, полагаю, именно поэтому пророчество привело меня сюда...
 
@@ -240,9 +257,15 @@
 
 **Паймон:** Звучит разумно... но совсем на тебя не похоже, Лоэн...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Сначала Дурин... потом Лоэн...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Будто они произносят заранее заготовленный текст?
+
+##### Общее продолжение
 
 **Лоэн:** «Ангел, избравший силу, жаждал быть ближе к людям, и в итоге пал, превратившись в жалкого монстра...»
 
@@ -270,9 +293,15 @@
 
 **Лоэн:** Безусловно, я обязательно приму это к сведению. Что-нибудь ещё? Или я могу вернуться к составлению своего «Справочника сильных противников»?
 
+##### Вариант ответа 1
+
 - **Путешественник:** (Не сказал, что последует совету...)
 
-- **Путешественник:** (Более чем уверен(а), что он вернётся к составлению справочника...)
+##### Вариант ответа 2
+
+- **Путешественник:** (Более чем уверен, что он вернётся к составлению справочника...) / (Более чем уверена, что он вернётся к составлению справочника...)
+
+##### Общее продолжение
 
 **Лоэн:** Впрочем, сегодня я многое узнал. Хм... Наверное, стал немного сильнее?
 
@@ -289,6 +318,20 @@
 **Николь:** Судьба человечества обречена стать ещё более непредсказуемой... Ангельское руководство больше не является единственной силой, указывающей людям путь в будущее.
 
 **Николь:** Но эти бесконечные возможности... Может быть, в этом и заключается сила человечества?
+
+**Николь:** Эх, впервые сама взялась за дело, и вот как всё обернулось...
+
+##### Вариант ответа 1
+
+- **Путешественник:** Всё поначалу даётся с трудом...
+
+**Паймон:** К тому же всё закончилось неплохо!
+
+##### Вариант ответа 2
+
+- **Путешественник:** За какое дело ты впервые сама взялась?
+
+**Николь:** Хм... Это «Уроки ведьм». Потом объясню.
 
 ## EN
 
@@ -322,19 +365,25 @@ What can serve as a symbol of one's power...?
 
 **Paimon:** Seriously? Paimon feels like the power gaps between dragons aren't much smaller than those between the Archons...
 
+##### Response branch 1
+
 - **Traveler:** Why do you want to compile a Formidable Foes Fieldbook, anyway?
+
+##### Response branch 2
 
 - **Traveler:** Sure sounds like "dragons" got your attention…
 
+##### Shared continuation
+
 **Lohen:** Well... Long story short, after a period of reflection, I concluded that the best way to get even stronger was to challenge the most powerful opponents from all over the world.
 
-(...Isn't that what you were already doing before?)
+- **Traveler:** (...Isn't that what you were already doing before?)
 
 **Lohen:** But then earlier this morning, just as I was about to set off... this weird-looking thing appeared in front of me and started talking a bunch of nonsense.
 
-**Barbeloth:** "Lost human, thrice shall you face the might of the dragon. Then, and only then, will you comprehend the true meaning of strength."
+**Strange-Looking Object:** "Lost human, thrice shall you face the might of the dragon. Then, and only then, will you comprehend the true meaning of strength."
 
-(That sounds like something Barbeloth would say...)
+- **Traveler:** (That sounds like something Barbeloth would say...)
 
 **Lohen:** I'm not one for believing in prophecies, but... Hmph, well let's just say that I feel like I'm being played here, and I don't like it one bit.
 
@@ -346,11 +395,11 @@ What can serve as a symbol of one's power...?
 
 **Lohen:** If we want the truth, there's only one way to find out.
 
-#### Seek the mysterious ancient dragon
-
 **Slazhnev:** Our captain isn't just strong — he even developed a compound that counters the Abyss! Bet you didn't know that, did you, smartypants? And yet you think I'm a "false expert" who doesn't know anything!?
 
 **Leifhelm:** Well, do you know about our Grand Master's amazing speed? He used the Ley Lines to travel all the way from Nod-Krai to Mondstadt in less time than it takes you to tie your shoelaces — if you even know how!
+
+#### Seek the mysterious ancient dragon
 
 **Aino:** Ineffa! Ineffa! Did you see that windmill!? I need you to make a record of how it works!
 
@@ -384,17 +433,11 @@ What can serve as a symbol of one's power...?
 
 **Aino:** Ineffa! Strip it for parts!
 
+#### Help Ineffa gather materials
+
+#### Defeat the Ruin Guard
+
 #### Talk to Ineffa
-
-**Nicole:** *sigh* Still, even if it was my first attempt, I can't believe this is how things turned out...
-
-- **Traveler:** Starting's never easy...
-
-- **Traveler:** Your first attempt at what, though?
-
-**Paimon:** Besides, it didn't really end badly!
-
-**Nicole:** Hah... My first Witch's Homework. I'll explain it all later.
 
 **Lohen:** Such fluid movements... I'd never have guessed you were a machine.
 
@@ -408,7 +451,7 @@ What can serve as a symbol of one's power...?
 
 **Ineffa:** Understood... My apologies, Mr. Lohen. We can talk about this later.
 
-*After much exploration...*
+After much exploration...
 
 **Aino:** Zzz... Zzz...
 
@@ -422,13 +465,15 @@ What can serve as a symbol of one's power...?
 
 **Ineffa:** By the way, the person who told us about these special mechanisms also mentioned Dragonspine. You might want to go there and check things out...
 
+#### Go to Dragonspine
+
 #### Seek the dragon of Dragonspine
 
 **Durin:** ...Seeker of Power, Follower of Fate, you are here at last.
 
 **Paimon:** It's Durin... Paimon's really not surprised at all.
 
-There's something odd about the way he's speaking...
+- **Traveler:** There's something odd about the way he's speaking...
 
 **Durin:** A sovereign ruler, the creation of a mage, and a descendant of angels... All wield disparate powers, yet all were crowned as dragons.
 
@@ -442,9 +487,15 @@ There's something odd about the way he's speaking...
 
 **Durin:** W—Wait! Y—Young human, the trial you seek is far from here. You must venture to Stormterror's Lair and face the final prophecy!
 
+##### Response branch 1
+
 - **Traveler:** Why is he talking so fast?
 
+##### Response branch 2
+
 - **Traveler:** He sounds like an actor who wants to get off stage!
+
+##### Shared continuation
 
 **Paimon:** Are you alright, Durin? You sound kinda weird today.
 
@@ -458,9 +509,15 @@ There's something odd about the way he's speaking...
 
 **Paimon:** Uhm... Why exactly was Durin here? Apart from that last line about "venturing to Stormterror's Lair," he just seemed to be talking nonsense...
 
+##### Response branch 1
+
 - **Traveler:** Something tells me...
 
+##### Response branch 2
+
 - **Traveler:** ...He was only here so that the next dragon counts as number three.
+
+##### Shared continuation
 
 **Lohen:** Interesting. I'm getting curious as to exactly how this "prophecy" will come true...
 
@@ -482,7 +539,7 @@ There's something odd about the way he's speaking...
 
 **Lohen:** If we're being generous with our interpretation, then technically, I've already "thrice faced the might of the dragon."
 
-But do you "comprehend the true meaning of strength" yet?
+- **Traveler:** But do you "comprehend the true meaning of strength" yet?
 
 **Lohen:** I guess that's why the prophecy has guided me here...
 
@@ -504,9 +561,15 @@ But do you "comprehend the true meaning of strength" yet?
 
 **Paimon:** Paimon thinks you might be on to something here, Lohen... But, uhm, you're speaking kinda funny...
 
+##### Response branch 1
+
 - **Traveler:** First Durin... now Lohen...
 
+##### Response branch 2
+
 - **Traveler:** Why does everyone sound like they're reading from a script?
+
+##### Shared continuation
 
 **Lohen:** "The angel who chose power still yearned to remain close to humanity, eventually falling to become a pitiful monster..."
 
@@ -534,9 +597,15 @@ But do you "comprehend the true meaning of strength" yet?
 
 **Lohen:** Indeed, and I'll make sure to treat it as valued advice. Now, was there anything else — or can I get back to compiling my Formidable Foes Fieldbook?
 
+##### Response branch 1
+
 - **Traveler:** (He didn't say he plans to follow that advice...)
 
+##### Response branch 2
+
 - **Traveler:** (Pretty sure he's just gonna keep compiling his fieldbook, whatever she says...)
+
+##### Shared continuation
 
 **Lohen:** I must admit though, it's been quite a productive day. I'm sure I must've gotten a tiny bit stronger, at least...
 
@@ -553,6 +622,20 @@ But do you "comprehend the true meaning of strength" yet?
 **Nicole:** It seems that humanity's fate is destined to become ever more unpredictable... The guidance of angels is no longer the only thing leading them toward the future.
 
 **Nicole:** But all those infinite possibilities... Perhaps that is precisely where humanity's true strength lies?
+
+**Nicole:** *sigh* Still, even if it was my first attempt, I can't believe this is how things turned out...
+
+##### Response branch 1
+
+- **Traveler:** Starting's never easy...
+
+**Paimon:** Besides, it didn't really end badly!
+
+##### Response branch 2
+
+- **Traveler:** Your first attempt at what, though?
+
+**Nicole:** Hah... My first Witch's Homework. I'll explain it all later.
 
 ## ZH
 
@@ -586,19 +669,25 @@ But do you "comprehend the true meaning of strength" yet?
 
 **派蒙:** 真的假的，我怎么觉得龙与龙之间的差距，大概就跟魔神与魔神之间的差距一样大…
 
+##### 对话分支 1
+
 - **旅行者:** 你为什么要编「强敌图鉴」？
+
+##### 对话分支 2
 
 - **旅行者:** 你看起来对「龙」有些在意？
 
+##### 共同后续
+
 **洛恩:** 这个么…经过前阵子的反思，我觉得继续变强的最好方法——还得是挑战诸国的强敌。
 
-（跟反思之前也没啥变化啊…）
+- **旅行者:** （跟反思之前也没啥变化啊…）
 
 **洛恩:** 可就在我今早准备出门的时候…有一个长得怪模怪样的东西，跟我说了些没头没尾的话。
 
-**芭比洛斯:** 「迷途的人类啊，你将三次直面龙威，随后理解强大的意义。」
+**怪模怪样的某物:** 「迷途的人类啊，你将三次直面龙威，随后理解强大的意义。」
 
-（这描述…怎么听都是芭比洛斯了吧！）
+- **旅行者:** （这描述…怎么听都是芭比洛斯了吧！）
 
 **洛恩:** 我倒是没把什么预言放在心上，不过现在的走向…哼，处处被人掌握的感觉，真让人不爽。
 
@@ -610,11 +699,11 @@ But do you "comprehend the true meaning of strength" yet?
 
 **洛恩:** 呵，真的假的，去会一会不就知道了。
 
-#### 寻访谜之古龙
-
 **斯莱日涅夫:** 「队长」不仅武力超群，还开发过对抗深渊的特效药！这你不知道了吧？还敢说我是啥都没见识过的假学者吗？
 
 **莱夫赫姆:** 那你知道我们团长的神速吗！他曾经只用一眨眼的功夫，就从挪德卡莱顺着地脉跑回了蒙德！
+
+#### 寻访谜之古龙
 
 **爱诺:** 伊涅芙伊涅芙！你看那个风车！快把它的结构记录下来！
 
@@ -648,17 +737,11 @@ But do you "comprehend the true meaning of strength" yet?
 
 **爱诺:** 伊涅芙！上去拆了它！
 
+#### 协助伊涅芙收集素材
+
+#### 击败遗迹守卫
+
 #### 与伊涅芙对话
-
-**尼可:** 唉，第一次亲自上手，居然会变成这样…
-
-- **旅行者:** 万事开头难嘛…
-
-- **旅行者:** 第一次上手什么？
-
-**派蒙:** 而且，结果也不算坏嘛！
-
-**尼可:** 嗯…是「魔女的课业」，回头再向你解释吧。
 
 **洛恩:** 很流畅的身法，完全看不出是机械。
 
@@ -672,7 +755,7 @@ But do you "comprehend the true meaning of strength" yet?
 
 **伊涅芙:** 是…抱歉，我们回头再谈吧。
 
-*一番探索之后…*
+一番探索之后…
 
 **爱诺:** 呼…呼…
 
@@ -686,13 +769,15 @@ But do you "comprehend the true meaning of strength" yet?
 
 **伊涅芙:** 对了，告诉我们特殊机关信息的人，还提到过「雪山」，也许各位可以再去那边看看？
 
+#### 前往龙脊雪山
+
 #### 寻访雪山之龙
 
 **杜林:** …追寻力量之人，依循命运的指引，终于来到了这里。
 
 **派蒙:** 果然是杜林…我怎么一点都不意外呢。
 
-但语气有点不一样？
+- **旅行者:** 但语气有点不一样？
 
 **杜林:** 至高领主、魔女造物、天使孑遗…行使着各不相同的力量，却都被冠以「龙」的名字。
 
@@ -706,9 +791,15 @@ But do you "comprehend the true meaning of strength" yet?
 
 **杜林:** 等等！年…年轻的人类啊，你想找的试炼不在这里，前往风龙废墟吧去直面最后一次预言！
 
+##### 对话分支 1
+
 - **旅行者:** 语速好快！
 
+##### 对话分支 2
+
 - **旅行者:** 像赶着下场的演员！
+
+##### 共同后续
 
 **派蒙:** 你没事吧？杜林？总感觉你今天说话怪怪的？
 
@@ -722,9 +813,15 @@ But do you "comprehend the true meaning of strength" yet?
 
 **派蒙:** 呃…所以杜林究竟是来做什么的？除了最后那句「前往风龙废墟」好像没什么有效信息…
 
+##### 对话分支 1
+
 - **旅行者:** 我有种预感。
 
+##### 对话分支 2
+
 - **旅行者:** 是为了凑「三」这个数。
+
+##### 共同后续
 
 **洛恩:** 有意思，我现在倒是想去见证一下，这「预言」会怎么实现了。
 
@@ -746,7 +843,7 @@ But do you "comprehend the true meaning of strength" yet?
 
 **洛恩:** 至少「三次直面龙威」，满打满算的话大概可以结束了。
 
-还剩下「理解强大的意义」…
+- **旅行者:** 还剩下「理解强大的意义」…
 
 **洛恩:** 嗯，估计这才是「预言」指引我来这的理由吧。
 
@@ -768,9 +865,15 @@ But do you "comprehend the true meaning of strength" yet?
 
 **派蒙:** 虽然话说得很有道理…但这真是洛恩你会说出来的台词吗！
 
+##### 对话分支 1
+
 - **旅行者:** 先是杜林…又是洛恩…
 
+##### 对话分支 2
+
 - **旅行者:** 怎么都开始念剧本了？
+
+##### 共同后续
 
 **洛恩:** 「选择了力量的天使，依旧渴望靠近人类，竟至堕落为了可悲的魔物…」
 
@@ -798,9 +901,15 @@ But do you "comprehend the true meaning of strength" yet?
 
 **洛恩:** 嗯，我会把这些台词，都当成宝贵的建议记下来。如果没什么事，我就回去继续编我的强敌图鉴了？
 
+##### 对话分支 1
+
 - **旅行者:** （没说会听从这建议呢…）
 
+##### 对话分支 2
+
 - **旅行者:** （还是要继续编图鉴啊…）
+
+##### 共同后续
 
 **洛恩:** 不过我今天确实也收获了不少，嗯…大概是有变强了那么一点吧？
 
@@ -817,3 +926,17 @@ But do you "comprehend the true meaning of strength" yet?
 **尼可:** 以后人类的命运，恐怕会变得更加不可预测吧？天使对人类的引导，也不再是通往未来的唯一解。
 
 **尼可:** 但这些无限的可能性…也许正是人类的「强大」之处呢？
+
+**尼可:** 唉，第一次亲自上手，居然会变成这样…
+
+##### 对话分支 1
+
+- **旅行者:** 万事开头难嘛…
+
+**派蒙:** 而且，结果也不算坏嘛！
+
+##### 对话分支 2
+
+- **旅行者:** 第一次上手什么？
+
+**尼可:** 嗯…是「魔女的课业」，回头再向你解释吧。

@@ -358,3 +358,808 @@ It lay there upon a thick stack of notes, like a fallen star pressed into the pa
 系列研讨会结束后，莱依拉再次打开记录了她与诃般荼「辩论」过程的文件袋时，意外发现袋中出现了一枚亮晶晶的「神之眼」。
 
 它就躺在一大摞厚厚的手写报告上，犹如一颗落地的星。
+
+# voice_source_ids: 74000,74001,74002,74003,74004,74005,74006,74007,74008,74009,74010,74011,74012,74013,74014,74015,74016,74017,74018,74019,74020,74021,74022,74023,74024,74025,74026,74027,74028,74029,74030,74031,74032,74033,74034,74035,74036,74037,74038,74039,74040,74041,74042,74043,74044,74045,74046,74047,74048,74049,74050,74051,74052,74053,74054,74055,74056,74057,74058,74059,74060,74061,74062,74063,74064,74065
+
+## REPLICAS_RU
+
+### Привет...
+
+*зевает* ...Привет, я Лайла, студентка Ртавахиста... Хм? Прости, я плохо спала сегодня и сейчас немного не в себе. Говоришь, хочешь взять меня в команду? Нет-нет, я не то, что бы не хочу, просто боюсь, что мой распорядок дня тебе не подойдёт... Но э-э... Рада присоединиться к команде!
+
+### Поболтаем: Взор
+
+Даже когда мы не смотрим на звёзды, они всегда там, следят за нами.
+
+### Поболтаем: Лунатизм
+
+Ноги так устали... Эх, наверное, я опять ходила во сне.
+
+### Поболтаем: Горе
+
+...Почему я должна писать так много бумаг? Почему?
+
+### Когда идёт дождь...
+
+Ужасная погода. Если не увижу сегодня небо... Эх, домашнее задание по звёздной картографии больше откладывать нельзя.
+
+### Когда идёт снег...
+
+Снег сверкает. Прямо как звёзды в ночном небе.
+
+### Когда светит солнце...
+
+Солнце светит... Спать хочется... Дай-ка я скорее подушку возьму, пока сон не пропал... Уже два дня, два дня не...
+
+### В пустыне...
+
+Днём жара, ночью холод. Я... Я так не могу...
+
+### Доброе утро...
+
+Выспался? Если нет, то ещё поспи... Я? Я... привыкла... / Выспалась? Если нет, то ещё поспи... Я? Я... привыкла...
+
+### Добрый день...
+
+Я посередине вычисления звёздных орбит, так что обедай без меня... Стой, этот угол не сходится... Нет-нет-нет... В какой момент я ошиблась?
+
+### Добрый вечер...
+
+Надо сегодня пораньше лечь спать. Надеюсь, получится уснуть... Великое божество мудрости, умоляю защитить мой сон. Ладно, закрываю глаза.
+
+### Спокойной ночи...
+
+...Так, посмотрим, что её поставило в тупик в этот раз. Хм... даже не прикасалась к третьему году звёздных таблиц, а над ними стоит поработать. И пару звёздных карт для промежуточного отчёта надо дорисовать... Ладно, с этого и начнём. А? А ты что встал? Сейчас спать надо. Я? Лунатничаю, конечно. / ...Так, посмотрим, что её поставило в тупик в этот раз. Хм... даже не прикасалась к третьему году звёздных таблиц, а над ними стоит поработать. И пару звёздных карт для промежуточного отчёта надо дорисовать... Ладно, с этого и начнём. А? А ты что встала? Сейчас спать надо. Я? Лунатничаю, конечно.
+
+### О Лайле: Теоретическая астрология
+
+Согласно моему учебнику, «использование теоретической астрологии для решения повседневных проблем не должно быть нашей целью». Должно или не должно, но причина, по которой никто этого не делает, в том, что оно просто того не стоит. Для точного предсказания нужно использовать несколько звёздных глобусов, проверить звёздные карты по меньшей мере за год. И всё это, чтобы сказать, поднимется ли завтра цена на специи или нет... Как ни крути, оно того не стоит...
+
+### О Лайле: Причины
+
+Раз уж я нашла что-то, что мне нравится и что у меня получается, то лучше этого и придерживаться. Пусть путь труден, пусть конкуренция жестока, пусть нет гарантий, что я выпущусь. Пусть, если я не выпущусь, то мне придётся вернуть все стипендии... Эх, может, лучше домой вернуться.
+
+### О нас: Дружба
+
+Да, я тоже не хочу по ночам догонять учебную программу, но она вечно ничего не успевает. Ничего не поделать, придётся мне ей помочь... Составишь компанию?
+
+### О нас: Путешествия
+
+Если после выпуска не останусь в Академии, то я хотела бы путешествовать с тобой по миру. Как думаешь?
+
+### Глаз Бога...
+
+*зевает* ...Что это светится? Я вроде выключала свет перед сном... А, это Глаз Бога. Вот оно что... Нет, стой... Я его разве у изголовья положила?
+
+### Давай поделимся...
+
+Главный редактор нашего даршана хранит звёздные таблицы, содержащие судьбы всех живых существ. Несомненно, это вершина астрологического знания. Когда я первый раз их увидела, слова сказать не могла от страха! А? Тебе интересно? Если просто посмотреть... Я помогу тебе подать заявку. Наверное, должны разрешить... Наверное...
+
+### Интересные вещи...
+
+Бывают растения, которые ловят жуков? Мне нужна их помощь. Я и так плохо засыпаю, а теперь у меня в комнате ещё какой-то жук маленький летает. Всё жужжит и жужжит. Я искала-искала, но так его и не нашла... Эх...
+
+### О Моне...
+
+Астрологист Мона Мегистус... Среди учёных Ртавахиста её астрологическая колонка в «Паровой птице» хорошо известна. Её статьи очень узкоспециальны, но нравятся даже людям вне науки. Этого очень непросто достичь... А? Её имя у меня от зубов отскакивает? Ну просто... я очень уважаю... потрясающих людей.
+
+### О Лизе...
+
+А, знаю о ком ты. Лиза Минчи, легендарный гений, который закончил Спантамад всего за два года. Мне бы её мозги... А? Ты её лично видел в Мондштадте? П-правда? Как она обычно учится? Какие книги читает? Какой работой занимается? С чего... С чего начать, чтобы стать как она? / А, знаю о ком ты. Лиза Минчи, легендарный гений, который закончил Спантамад всего за два года. Мне бы её мозги... А? Ты её лично видела в Мондштадте? П-правда? Как она обычно учится? Какие книги читает? Какой работой занимается? С чего... С чего начать, чтобы стать как она?
+
+### О Дори...
+
+А, До-ори... Я как-то, скрипя зубами, купила у неё кое-что. Она такая радостная была, когда я оплачивала; подумала, наверное, что я какая-то богачка - постоянно присылала мне рекламу товаров. Вот уж великое недоразумение... А я не только в стипендию свою залезла, но и большую часть года потом на одних овощах сидела и книги только дождавшись скидок покупала...
+
+### О Сайно...
+
+Генерал махаматра хорошо играет в «Священный призыв семерых»? Мм, интересно... Если будет возможность, хотелось бы попробовать сыграть с ним. В карточные игры типа «Священного призыва» проще играть, если владеешь техниками счёта, так что я... не знаю... может, и не проиграю ему.
+
+### О Кандакии...
+
+Я видела кого-то похожего на описание, когда проснулась после первого приступа лунатизма. Так это была Кандакия? Буду знать. Я хорошо помню, как тогда проснулась... Все доклады и статьи были готовы. Тогда я почувствовала... будто после ежедневного взывания к звёздам они наконец-то меня услышали и отправили свою посланницу, чтобы мне помочь... Я так была тронута!
+
+### Об аль-Хайтаме...
+
+Наверняка, тому, кто смог достигнуть позиции секретаря не надо волноваться, одобрят ли его проект, будет ли он успешным. А, нет. Если он секретарь, то ему и проекты не надо делать никакие. Везёт же...
+
+### Расскажи о малой властительнице Кусанали.
+
+Великое божество мудрости, в эти дни я ночи напролёт училась. Прошу, сделай так, чтобы я сдала экзамен! Умоляю, умоляю...
+
+### О Фарузан...
+
+Профессор Фарузан набрала студентов? В даршане Хараватат говорят, что у неё всегда трудности с заявками на финансирование своих проектов, так что и студентов сложно найти. Эх...
+
+### Узнать больше о Лайле I
+
+У меня нет природных талантов, да и сообразительностью я не отличаюсь... Я поступила в Академию только потому, что училась изо всех сил. Ой, извини... Некогда болтать сейчас. Сказала про Академию и вспомнила, что мне доклад об академическом прогрессе сдавать скоро... А прогресса-то и нет.
+
+### Узнать больше о Лайле II
+
+Отношения с наставницей? Хм... Как бы сказать... А, не пойми неправильно, она мне очень помогает. Она даже дала мне рекомендацию, когда я поступила в школу. Каждый раз, когда я понимаю, что больше не справляюсь, она меня подбадривает... а потом задаёт ещё одну работу...
+
+### Узнать больше о Лайле III
+
+Способнейшие люди со всего Сумеру стремятся в Академию, да ещё куча умных до ужаса иностранных студентов... Можешь себе представить, насколько высока конкуренция! Учиться вместе с такими людьми... Справлюсь ли я?
+
+### Узнать больше о Лайле IV
+
+Тсс, потише... Не разбуди её - пусть поспит спокойно... Кого «её»? А, уставшую Лайлу, которая вечно беспокоится об уроках, конечно... Я кто? Хе-хе, я тоже Лайла.
+
+### Узнать больше о Лайле V
+
+Я слышала, она думает, что это благодаря «милости звёзд» все её недоделанные уроки волшебным образом оказываются законченными после сна. Она совсем не догадывается... Ты только ей не говори, ладно?
+
+### Хобби Лайлы...
+
+Рисовать звёздные карты очень утомительно... Если бы мне это не нравилось, я бы, пожалуй, не справилась. То надо по линейке чертить, то расчёты делать, то положение звёзд прошлых лет смотреть... Раз - уже и день прошёл. Но глядя на законченную большую опрятную звёздную карту, меня наполняет чувство удовлетворения.
+
+### Беспокойство Лайлы...
+
+Я пока в Академию не поступила, нормально спала. Но как начала учёбу... Такой стресс постоянно... Я просто хочу спокойно проспать всю но-хо-хо-очь...
+
+### Любимая еда...
+
+Каждый раз перед сном я себе грею стакан молока и надеюсь, что хорошо посплю, надеюсь, что хорошо посплю, надеюсь, что хорошо посплю...
+
+### Нелюбимая еда...
+
+Как-то мне рассказали, про загадочную торговку, которая продаёт очень эффективный «сонный мармелад». Я на него всю стипендию потратила и остальные деньги, что были... Он, конечно, эффективный - я спала как убитая. Но двести тысяч за коробочку... Это слишком дорого... Я ни за что не смогу себе это позволить, никогда-никогда. Даже если вторая коробка в подарок. Даже если две коробки в подарок... Хм... Тогда бы я подумала.
+
+### Подарок I
+
+Поразительно! Я так завидую, ты правда умеешь всё.
+
+### Подарок II
+
+Мм... Вкусно.
+
+### Подарок III
+
+Эм... Может, в магазине чего-нибудь готового купим?
+
+### День рождения...
+
+С днём рождения. Это тебе карманная астролябия... Те же звёзды, что и в прошлом, сегодня следят за судьбами людей. Пусть они поделятся с тобой своим взглядом, сопровождают тебя и в пустыне, и в море, пока ты не достигнешь своей цели.
+
+### Чувство возвышения: Начало
+
+Соберись, Лайла... Надо больше стараться.
+
+### Чувство возвышения: Нарастание
+
+Соберись, Лайла... Ты хорошо справляешься, но ещё надо многому научиться.
+
+### Чувство возвышения: Кульминация
+
+Соберись, Лайла... Ты прилежно и много училась. Молодец. Но сейчас не время лениться: только расслабишься и сразу отстанешь, не сможешь выпуститься. Избавь себя от унижения.
+
+### Чувство возвышения: Окончание
+
+Соберись, Лайла... Верь в себя и в того, кто тебе помогал всё это время. Вместе мы можем решить любую проблему!
+Фуф... Все заботы позади. Вперёд!
+
+### Элементальный навык I
+
+Холод ночи!
+
+### Элементальный навык II
+
+Не сейчас!
+
+### Элементальный навык III
+
+Путеводные звёзды!
+
+### Взрыв стихии I
+
+Сияйте, звёзды!
+
+### Взрыв стихии II
+
+Холод, подчинись!
+
+### Взрыв стихии III
+
+Не бойся.
+
+### Открытие сундука I
+
+Всё пригодится.
+
+### Открытие сундука II
+
+Хорошо, что заметила. Чуть не пропустила.
+
+### Открытие сундука III
+
+Ого! Даже спать расхотелось.
+
+### Низкий уровень HP I
+
+Спать хочу...
+
+### Низкий уровень HP II
+
+Нет, нет, нет...
+
+### Низкий уровень HP III
+
+Убежать ещё успеем?
+
+### Низкий уровень HP компаньона I
+
+Проснись! Не время спать!
+
+### Низкий уровень HP компаньона II
+
+О нет! Тебя ранили!
+
+### Без сознания I
+
+Вечный сон... Наконец...
+
+### Без сознания II
+
+Простите, наставница...
+
+### Без сознания III
+
+Это просто... сон...
+
+### Получен тяжёлый удар I
+
+Это нечестно!
+
+### Получен тяжёлый удар II
+
+Так не по правилам!
+
+### Присоединяется к группе I
+
+Не спится? Надо погулять.
+
+### Присоединяется к группе II
+
+Я отпросилась... Не забыла же?
+
+### Присоединяется к группе III
+
+Эх, голова совсем не варит. Надо проветриться.
+
+## REPLICAS_EN
+
+### Hello
+
+*yawn* ...Hi, I'm Layla, a Rtawahist student... Hmm? Sorry, I didn't sleep well last night, so I'm a bit out of it today — what did you say, again? ...You wanna team up with me? No, no, it's not that I don't want to, I'm just not sure my crazy sleep schedule will really work for you... But uh, I guess... I look forward to working with you!
+
+### Chat: Gaze
+
+Even when we're not looking up at the stars, they're always there, watching over us.
+
+### Chat: Sleepwalking
+
+My legs are so sore... *sigh* Guess I must have been sleepwalking last night... again.
+
+### Chat: Woe Is Me
+
+*groan* ...Why do I have to write so many papers, whyyy...
+
+### When It Rains
+
+Oh, the weather's terrible. Shoot, if I can't see the sky tonight... Ugh, I really can't put off my star mapping homework any longer...
+
+### When It Snows
+
+The snow is sparkling. Just like the stars in the night sky.
+
+### When the Sun Is Out
+
+Mm, this sun's making me so... *yawn* sleepy... Mkay, lemme grab a pillow and rest my eyes before this wears off... It's been two, two days since I last, last... Zzz...
+
+### In the Desert
+
+Scorching hot days and freezing cold nights... I—I don't think I'm gonna make it...
+
+### Good Morning
+
+Did you get enough sleep? If you're still tired, you should go back to sleep for a bit... Me? *sigh* I'm... used to it...
+
+### Good Afternoon
+
+I'm in the middle of a stellar kinematics calculation right now, just go to lunch without me... Wait, th—this angle isn't right... No, no, no... Shoot, how far in was I when this mistake crept in...
+
+### Good Evening
+
+I'm going to turn in early tonight, hope I can actually get to sleep... Dear Mighty God of Wisdom, please bless my slumber, I pray. Okay. Closing my eyes now.
+
+### Good Night
+
+*yawn* ...Right, let's see what's stumped Daylight Layla this time. Hmm... she hasn't touched the third year of old Starlogs yet, they definitely need working through. And there's a few charts to be appended to the mid-term report, which... yep, she hasn't even started drawing up yet. Alright, time to get to work. ...Huh? What're you doing up? You should be asleep right now. Me? Sleepwalking, of course.
+
+### About Layla: Theoretical Astrology
+
+According to my textbook, "Using theoretical astrology to solve specific problems in our daily lives should not be our primary goal." But whether we should or not, the real reason nobody does it is that... well, it's just... it's not worth the effort. When we do a prediction, we usually have to use multiple celestial globes and consult at least one whole year's worth of Star Charts to get any... precise answers. To go through all that just to find out whether the price of spices will go up tomorrow... I mean, it's just not worth it...
+
+### About Layla: Reasoning
+
+Since I found something I like and that I'm good at, I think I should try and stick with it. Even if the journey is difficult, even if the competition is fierce, even if there's no guarantee I'll graduate, and even if I have to return all my scholarships if I fail my final exams... Huh, maybe I should just drop out and go back home.
+
+### About Us: Companionship
+
+I agree. I don't like having to pull an all-nighter to catch up on schoolwork either, but they just keep piling on the assignments, don't they? That's how things go here, so obviously I have to help her out... Wanna keep me company?
+
+### About Us: Traveling the World
+
+If I don't end up staying at the Akademiya after graduation, I think I'll come travel the world with you. What do you think?
+
+### About the Vision
+
+*yawn*... Where's that glowing coming from? I coulda sworn I turned the lights off before I fell asleep... Huh, it's just my Vision. No wonder... Wait, but... didn't I leave this on my nightstand?
+
+### Something to Share
+
+The chief editor of our Darshan keeps Starlogs that show the fates of all living beings. They are, without a shadow of a doubt, the apex of astronomical knowledge. The first time I saw one, I was scared speechless! Huh? Are you interested? If you just want to take a quick look... lemme put in an application for you, I think it should be fine... I think...?
+
+### Interesting Things
+
+Are there any plants that can catch bugs, because if so, I need their help. I don't fall asleep easily to begin with, but now there's this little flying bug somewhere in my room... The buzzing is so loud, and it never stops... but I—I've tried, but I just can't find it... *groan*
+
+### About Mona
+
+Mona Megistus, the Astrologist... Her astrology column in The Steambird is well-known among Rtawahist scholars. Her articles always cover super specialized topics, but can still be appreciated by non-academics. That's no easy feat... Huh? Her name seems to just roll off my tongue? Uh, that's just because... I have a lot of respect for... amazing people.
+
+### About Lisa
+
+Oh, I know who you're talking about. Lisa Minci — the legendary Spantamad prodigy who graduated in just two years. If only I had her brains... Huh? You met her in person when you were in Mondstadt? R—Really? So... what's her studying process like? What books does she read, and what kind of work does she do? Where... Where should I start if I want to learn from her?
+
+### About Dori
+
+Oh... D—Dori... ahem... I took the plunge and bought something from her once. She looked euphoric as I was settling the bill — I think she assumed I was some sort of mega-rich person. Kept relentlessly sending product ads to me in the mail afterwards. Ugh... biggest mistake of my life! I paid such a huge price for it... 'cause not only did I spend all of my scholarship money in one go, but for most of the next year, I had to survive mainly on cheap vegetables, and I couldn't buy textbooks unless they were on sale...
+
+### About Cyno
+
+The General Mahamatra is really good at Genius Invokation TCG? Ooh, I wonder if... I mean, if I ever got the chance, maybe I could play a game with him. Card games like Genius Invokation TCG are always easier when you're good at mental math, so actually, I... I dunno, but... I might not necessarily lose to him.
+
+### About Candace
+
+...Huh, I saw someone who matches that description when I woke up after sleepwalking for the first time. "Candace," huh? Now I know. I still remember the moment I woke up... All of my reports and essays were done. At the time, it felt like... like after pleading to the stars for days and days, now they'd finally heard me, and sent a messenger to help me... I felt so touched!
+
+### About Alhaitham
+
+I bet someone who's good enough to get a job like Scribe never has to worry about whether their projects will get approved or be successful. Wait... Oh shoot, if he's a Scribe, he probably doesn't have to do any projects in the first place. So lucky...
+
+### About Lesser Lord Kusanali
+
+Dear Mighty God of Wisdom, I've been studying late into the night for days on end, please let me pass this exam! Please, please... Zzz...
+
+### About Faruzan
+
+Has Professor Faruzan managed to get any students? People from the Haravatat Darshan say that she always has difficulty getting funding for her projects, so it's hard for her to attract students, too. *sigh*...
+
+### More About Layla: I
+
+I'm not naturally talented, nor am I a fast learner... I only got into the Akademiya by studying like crazy for the entrance exam... Oh shoot, I—I'm sorry, I can't chat right now. Mentioning the Akademiya reminds me that my academic progress report is due soon... and I still haven't got any progress to write about yet.
+
+### More About Layla: II
+
+My relationship with my adviser? Um... how should I put it... Oh, don't get me wrong, she's been good to me. She even gave me a recommendation when I started at the school. And every time I feel like I just can't go on, she's there to give me s—some much-needed encouragement... and then to assign me another essay right after...
+
+### More About Layla: III
+
+Almost all of Sumeru's best and brightest have attended the Akademiya, and there are a ton of scarily intelligent international students, too... so you can imagine how competitive it is here! Studying alongside some of these people, sometimes it makes me wonder... am I really cut out for this?
+
+### More About Layla: IV
+
+Shh, be quiet... Don't wake her up, just let her sleep peacefully. ...Who's "her"? Ah, well, a very weary Layla who's constantly stressed about her schoolwork, of course. ...And me? Hehe, I'm Layla too.
+
+### More About Layla: V
+
+I've heard people say she thinks a "blessing from the stars" is the reason why all of her outstanding schoolwork gets magically finished while she's asleep. Ah, she has absolutely no idea. ...Oh, but seriously, don't tell her, okay?
+
+### Layla's Hobbies
+
+Drawing Star Charts is really tiring work... I really don't think I'd be able to keep at it if it wasn't something I'm interested in. You have to use a ruler, then do some calculations on paper, then check past Starlogs... Before you know it, the whole day is gone. But then when I look at the finished product, a huge, neatly drawn, accurate map of the stars... it always gives me a huge sense of accomplishment.
+
+### Layla's Troubles
+
+I slept okay-ish before I came to the Akademiya, but since I started my studies... there's so much pressure... I just want to be able to sleep the whole night throo-hoo-hoough...
+
+### Favorite Food
+
+Every night before I go to bed, I make myself a glass of warm milk, in the hope I'll sleep well tonight, hope I'll sleep well tonight, hope I'll sleep well tonight... Zzz...
+
+### Least Favorite Food
+
+Someone once told me about a mysterious merchant who was selling really effective Sleep Gummies. It cost all my scholarship money, plus all the other Mora I'd saved up, but I bought some. They worked great, and for a while I slept like a baby. But... they're 200 thousand Mora a box... I can't afford that... I—I can't let myself buy them ever again, nope, no way. Not even if they were buy one, get one free, or... well, buy one, get two free, hmm... actually... maybe I'd consider that.
+
+### Receiving a Gift: I
+
+This is amazing! I'm so jealous, you're good at everything.
+
+### Receiving a Gift: II
+
+Mmm... it's really good.
+
+### Receiving a Gift: III
+
+Um... maybe we should just grab some takeout.
+
+### Birthday
+
+Happy birthday. I got you this pocket astrolabe... The same stars witness the fate of the human race today as did yesterday, and as will forever. May they cast their gaze upon you, and may they stay with you always, through the desert and across the ocean, until you reach your destination.
+
+### Feelings About Ascension: Intro
+
+Get it together, Layla... You've gotta work harder.
+
+### Feelings About Ascension: Building Up
+
+Get it together, Layla... You're doing well so far, but you've still got a lot to learn.
+
+### Feelings About Ascension: Climax
+
+Get it together, Layla... You've been studying hard and reading everything you could get your hands on. Well done. But you can't afford to slack off now. The moment you get lazy, you'll fall behind and end up having to postpone your graduation. Spare yourself the humiliation.
+
+### Feelings About Ascension: Conclusion
+
+Get it together, Layla! Believe in yourself, and in the person who's helped you come this far. The two of you together can solve any problem that comes your way!
+Whew... Alright! Time to leave my worries behind. Let's go!
+
+### Elemental Skill: I
+
+The night is cold.
+
+### Elemental Skill: II
+
+Not now!
+
+### Elemental Skill: III
+
+My guiding stars.
+
+### Elemental Burst: I
+
+Stars, shine for me.
+
+### Elemental Burst: II
+
+Cold, mine to command.
+
+### Elemental Burst: III
+
+Don't be scared.
+
+### Opening Treasure Chest: I
+
+A little goes a long way.
+
+### Opening Treasure Chest: II
+
+Huh, glad I saw this. I almost didn't even notice it.
+
+### Opening Treasure Chest: III
+
+Wow! Suddenly, I don't feel so tired.
+
+### Low HP: I
+
+So sleepy...
+
+### Low HP: II
+
+No no no no...
+
+### Low HP: III
+
+Is it too late for an extension?
+
+### Ally at Low HP: I
+
+Wake up! You look half asleep!
+
+### Ally at Low HP: II
+
+Oh no! Y—You're hurt!
+
+### Fallen: I
+
+Sweet sleep... at last...
+
+### Fallen: II
+
+I'm sorry, Professor...
+
+### Fallen: III
+
+This is just a... bad dream...
+
+### Heavy Hit Taken: I
+
+Come on, that's not fair!
+
+### Heavy Hit Taken: II
+
+That's against the rules!
+
+### Joining Party: I
+
+Can't sleep? Let's go for a walk then.
+
+### Joining Party: II
+
+I applied for vacation... You remembered too, right?
+
+### Joining Party: III
+
+*sigh* My mind is completely blank... I need to get out and unwind.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+哈…你好，我是梨多梵谛学院的在读学生莱依拉。…嗯？对不起，昨天没睡好我现在精神有点差，你刚才是在说「想和我组队」吗？
+没有没有，我不是不愿意，只是怕你不习惯我的作息方式…那、那个…请多关照！
+
+### 闲聊·注视
+
+就算我们不抬头仰望，星空，也永远注视着我们。
+
+### 闲聊·梦游
+
+腿好酸…唉，大概昨天晚上又梦游了吧。
+
+### 闲聊·哀叹
+
+…为什么报告和论文永远写不完？为什么？
+
+### 下雨的时候…
+
+天气好差，今晚没法观测星空的话…唉，我的星图课作业真的不能再拖了啊…
+
+### 下雪的时候…
+
+雪地看起来亮晶晶的，很像天上的星星。
+
+### 阳光很好…
+
+太阳晒着…好困…对，保持这个感觉，赶快找个枕头睡一觉…我已经两天、两天没有…
+
+### 在沙漠的时候…
+
+白天晒，晚上冷，我、我要不行了。
+
+### 早上好…
+
+你睡得饱吗？要是还困就回去再睡会儿吧…我？我…习惯了…
+
+### 中午好…
+
+我在计算星轨呢，刚算到一半，午饭你就先吃好了…这里的角度不太对劲吧…不、不会吧…我是从哪儿开始算错了呢？
+
+### 晚上好…
+
+今晚我要早早躺到床上去，争取早点睡着。伟大的智慧之神啊，求您庇护我的睡眠。好，我要闭上眼睛。
+
+### 晚安…
+
+…哈，让我看看她又被什么难住了。嗯…要整理三年份的旧星表，中期报告的附录还缺几张星图没画…好吧，从这份开始。
+嗯，你怎么来了？现在可是最重要的睡眠时间。我？我当然是在梦游了。
+
+### 关于莱依拉自己·理论星相学
+
+按照教科书上的说法：「利用理论星相学知识解决具体生活中的麻烦，这不是我们该关心的问题。」其实我觉得还有一个重要原因…就是…嗯，成本太高。我们测算的时候，一般会动用好多台星象仪，至少要查阅一年份的星图，才好给出一套…严谨的答案。但如果是为了算明天香料会不会涨价，怎么想都不太划算吧…
+
+### 关于莱依拉自己·理由
+
+既然有了自己喜欢又能做得好的事，就得坚持下去，哪怕这条道路特别艰辛，哪怕一路上竞争极其激烈，哪怕不一定能顺利毕业，哪怕没能顺利毕业的话，就要把所有的奖学金还回去…啊，要不我还是回家吧。
+
+### 关于我们·陪伴
+
+嗯哼，我也不想熬夜补课题进度，可谁叫她总有那么多做不完的事。没办法，我当然得帮帮她咯。…你想陪我一起吗？
+
+### 关于我们·漫游世界
+
+如果毕业之后，我没有留在教令院工作，就和你一起去漫游世界吧。你觉得怎么样？
+
+### 关于「神之眼」…
+
+哈…是什么在亮？我睡觉的时候忘了关灯吗…哦，是神之眼啊，我说呢…欸，不对，我睡觉之前…把它放在床头了吗？
+
+### 有什么想要分享…
+
+我们学院主编的星表汇聚了所有生灵的命运，毫无疑问是占星知识的顶峰，第一次看到的时候我整个人都被吓得说不出话了！欸？你感兴趣吗？只是简单看看的话…我帮你提交申请吧，应该能被批准，应该…
+
+### 感兴趣的见闻…
+
+有没有什么能捕虫的植物啊，快救救我吧。晚上本来就睡不着，房间里还有小飞虫，一直嗡嗡响个不停，但我、我怎么找都找不到它在哪里…呜呜…
+
+### 关于莫娜…
+
+在明论派学者的小圈子里，阿斯托洛吉斯·莫娜·梅姬斯图斯发表在《蒸汽鸟报》上的星相学文章名气不小。那些文章专业性都很强，但却能被学者之外的群体喜欢，要做到这点还是挺不容易的…欸？我把她的名字念得很流利？因为…厉害的人…得多多尊敬。
+
+### 关于丽莎…
+
+啊，我知道你在说谁了。丽莎·敏兹，传说中只用了两年就学成毕业的素论派天才，要是我也能有这样的头脑…你在蒙德的时候见过她本人？真、真的吗？她平时都是怎么学习的？看些什么书，做些什么工作？我…我该从哪里向她学起？
+
+### 关于多莉…
+
+多、莉、吗…我咬着牙、攥着拳头在她那里买过一次东西，她看我结账很痛快，好像误以为我是什么有钱人，后来还一直寄商品宣传单给我，唔…真是天大的误会！那次购物的代价…不仅把我的奖学金垫进去了，接下来的大半年里，我吃饭都不敢多要肉，买书还得等打折…
+
+### 关于赛诺…
+
+「大风纪官」大人很擅长「七圣召唤」吗…啊我是在想，有机会的话，说不定可以和他打一局。像「七圣召唤」这种牌类游戏，熟练掌握运算技巧的人玩起来总是简单一点，我反而…不一定…或许不会输给他。
+
+### 关于坎蒂丝…
+
+我第一次梦游醒来的时候，曾经见到过你描述的这个人，原来她叫坎蒂丝啊。我还记得自己醒来的那一刻…所有报告和文章都被完成了。当时的感觉就好像…好像我每天对着星空念叨，终于被星星听见了，它们派了一位使者来帮助我，呜呜…太感动了！
+
+### 关于艾尔海森…
+
+职务达到书记官这种高度的人，应该就不用发愁能不能立项、能不能成功了吧。不对，既然都当了书记官，应该连项目都不用做了。真好啊…
+
+### 关于小吉祥草王…
+
+伟大的智慧之神，我最近每晚都在熬夜复习，考试就请让我通过吧！拜托了拜托了…
+
+### 关于珐露珊…
+
+珐露珊老师招到学生了吗？听知论派的人说，她的项目申请经费一直很难，招不到学生也很正常。唉…
+
+### 想要了解莱依拉·其一
+
+我算不上有天赋，领悟力也不太够…拼命读书通过考试这才进了教令院。对不起，我…我先不跟你闲聊了，一说到教令院我就想起来，我的课题进度报告…到现在为止还没有进度呢。
+
+### 想要了解莱依拉·其二
+
+我和导师的关系吗？嗯…怎么说呢…啊，你不要误会了，其实导师对我挺好的，我入学的时候还得到了她的推荐呢。每次我觉得自己要撑不住了，她都会鼓励我，然后顺便多要求一篇论文…
+
+### 想要了解莱依拉·其三
+
+整个须弥最有才能的人几乎都到教令院来了，而且这儿还有那么多聪明得让人发抖的外国学者，你想想，这里的竞争该有多大！和这些人一起学习…我真的够格吗？
+
+### 想要了解莱依拉·其四
+
+嘘，小声点，不要吵醒她，就让她安心睡上一觉吧。你问我嘴里的「她」是谁？哦，当然是每天为课业抓耳挠腮的莱依拉呀。那我是谁？呵呵，我也是莱依拉呀。
+
+### 想要了解莱依拉·其五
+
+我听别人提过，她好像以为所有写不完的课业总能在一场梦之后自动完成，都是「星空的赐福」。她呀，完全搞错了哦。…不过，你可别告诉她哦。
+
+### 莱依拉的爱好…
+
+画星图真的是件累人的事，如果不是因为喜欢，我恐怕也坚持不下来。一会儿要用尺、一会儿要拿纸算、一会儿要查历年的星象…不知不觉一天时间就过去了。但看着画得整整齐齐的巨大星图，总是很有成就感。
+
+### 莱依拉的烦恼…
+
+从前我还没进入教令院念书的时候，睡眠质量还算过得去。但自从在这里学习之后…唔，压力实在是太恐怖了…我真的很想每天安安稳稳一觉到天亮，呜呜…
+
+### 喜欢的食物…
+
+每晚我躺上床之前，都会为自己热一杯牛奶喝，希望夜里能有个好觉，希望夜里能有个好觉，希望夜里能有个好觉。
+
+### 讨厌的食物…
+
+有一次，我听人说，有个神奇商人在卖的「睡眠软糖」很有效。我花光了奖学金和攒下的零花钱试了试，确实有效，那阵子我也睡得很好。但一盒卖二十万摩拉…实在太贵了，我、我绝对不会再买了，买一送一也不行，买一送二的话…我就再考虑考虑。
+
+### 收到赠礼·其一
+
+好厉害，好羡慕，你还真是什么都会呀。
+
+### 收到赠礼·其二
+
+…嗯，味道还算不错。
+
+### 收到赠礼·其三
+
+要不…我们还是去店里买外带吧？
+
+### 生日…
+
+生日快乐，我把这个袖珍星盘送给你。希望从过去到未来，见证了我们所有人类命运的星星能把目光分给你，伴随你走过沙漠、穿过海洋，到达你所探寻的终点。
+
+### 突破的感受·起
+
+莱依拉啊莱依拉，你还要更勤奋。
+
+### 突破的感受·承
+
+莱依拉啊莱依拉，你已经很勤奋了，不过你的知识还不够全面。
+
+### 突破的感受·转
+
+莱依拉啊莱依拉，你读书又勤奋又广博，这很好。但你可千万不能松懈，一时懈怠，就会落后于人，最后悲惨延毕。
+
+### 突破的感受·合
+
+莱依拉啊莱依拉，要相信自己，也要相信帮了你那么多的那个人。你们一起，什么问题都能解决！
+呼…好了，所有担心我都抛到脑后了，咱们出发吧！
+
+### 元素战技·其一
+
+寒星！
+
+### 元素战技·其二
+
+拒绝打扰！
+
+### 元素战技·其三
+
+星星的加护。
+
+### 元素爆发·其一
+
+星辰，为我降下。
+
+### 元素爆发·其二
+
+极寒，任我驱使。
+
+### 元素爆发·其三
+
+别害怕。
+
+### 打开宝箱·其一
+
+性价比不错。
+
+### 打开宝箱·其二
+
+还是你眼睛尖。
+
+### 打开宝箱·其三
+
+哇！突然感觉不困了。
+
+### 生命值低·其一
+
+我好困…
+
+### 生命值低·其二
+
+完了完了完了…
+
+### 生命值低·其三
+
+现在逃还来得及吗？
+
+### 同伴生命值低·其一
+
+醒醒，别昏过去！
+
+### 同伴生命值低·其二
+
+糟了糟了，你、你受伤了！
+
+### 倒下·其一
+
+永恒的睡眠…
+
+### 倒下·其二
+
+老师，对不起…
+
+### 倒下·其三
+
+拜托了，这是个…梦…
+
+### 重受击·其一
+
+你不讲理！
+
+### 重受击·其二
+
+这是违反规定的！
+
+### 加入队伍·其一
+
+睡不着就四处走走吧。
+
+### 加入队伍·其二
+
+请好假了…没有忘的吧？
+
+### 加入队伍·其三
+
+唉，脑袋空空，出去放松。

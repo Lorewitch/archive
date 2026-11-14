@@ -1,0 +1,82 @@
+{
+  "id": "glacial_warden",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/glacial_warden.webp",
+  "title": {
+    "ru": "Стражник льдов",
+    "en": "Glacial Warden",
+    "zh": "凝冰戍卫"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Стражник льдов",
+    "Glacial Warden",
+    "凝冰戍卫"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Снеговик, рождённый среди льдов и снегов ради любви.\nМужчины-снеговики - прирождённые рыцари. Большинство из них с рождения способны свободно конструировать собственное оружие изо льда и снега.\nЛегенда гласит, что в битве, где Белый царь сражался с Чёрным потоком разложения, один из снеговиков, служивший его стражем, пробудил силу, не свойственную своему народу, и превратился в настоящего исполина.\nЧем закончилась его история, неизвестно. Но нарушение запрета, надо полагать, не могло привести ни к чему хорошему.",
+    "en": "A Snegovik born of love amid the snow and ice.\nMale Snegovik are natural-born knights, and most are born able to freely forge weapons from ice and snow.\nLegend tells that during the Belyi Tsar's campaign against the dark tide, a Snegovik serving as his guard unleashed a power that didn't belong to his kind, transforming into a towering giant.\nThough his final fate remains unknown, one who violated such a taboo surely could not have met with a happy end.",
+    "zh": "于冰雪之中，为爱而生的雪精。\n雪精中的男性是天然的骑士，其中的大多数生来都能够自由利用冰雪凝造自己的武器。\n传说在白沙皇抵抗漆黑蚀流的战役中，有作为其护卫的雪精催动了不属于这一族群的力量，身形变化得相当巨大。\n虽然不知其最终的结局为何，但触犯了禁忌，想必不会有太好的后果吧。"
+  },
+  "description": {
+    "ru": "Снеговик, рождённый среди льдов и снегов ради любви.\nМужчины-снеговики - прирождённые рыцари. Большинство из них с рождения способны свободно конструировать собственное оружие изо льда и снега.\nЛегенда гласит, что в битве, где Белый царь сражался с Чёрным потоком разложения, один из снеговиков, служивший его стражем, пробудил силу, не свойственную своему народу, и превратился в настоящего исполина.\nЧем закончилась его история, неизвестно. Но нарушение запрета, надо полагать, не могло привести ни к чему хорошему.",
+    "en": "A Snegovik born of love amid the snow and ice.\nMale Snegovik are natural-born knights, and most are born able to freely forge weapons from ice and snow.\nLegend tells that during the Belyi Tsar's campaign against the dark tide, a Snegovik serving as his guard unleashed a power that didn't belong to his kind, transforming into a towering giant.\nThough his final fate remains unknown, one who violated such a taboo surely could not have met with a happy end.",
+    "zh": "于冰雪之中，为爱而生的雪精。\n雪精中的男性是天然的骑士，其中的大多数生来都能够自由利用冰雪凝造自己的武器。\n传说在白沙皇抵抗漆黑蚀流的战役中，有作为其护卫的雪精催动了不属于这一族群的力量，身形变化得相当巨大。\n虽然不知其最终的结局为何，但触犯了禁忌，想必不会有太好的后果吧。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112146",
+      "title": {
+        "ru": "Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя",
+        "en": "Ethereal Glimmershard / Ethereal Crystal / Ethereal Crystalscale Stone",
+        "zh": "幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112146.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112146",
+          "title": {
+            "ru": "Осколок эфирного сияния",
+            "en": "Ethereal Glimmershard",
+            "zh": "幻造萤屑"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112146.webp"
+        },
+        {
+          "key": "material_112147",
+          "title": {
+            "ru": "Эфирный кристалл",
+            "en": "Ethereal Crystal",
+            "zh": "幻造裂晶"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112147.webp"
+        },
+        {
+          "key": "material_112148",
+          "title": {
+            "ru": "Эфирная кристальная чешуя",
+            "en": "Ethereal Crystalscale Stone",
+            "zh": "幻造晶鳞石"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112148.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

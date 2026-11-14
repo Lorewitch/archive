@@ -336,3 +336,923 @@ However, since Venti does not keep the Holy Lyre der Himmel by his side, and sin
 但巴巴托斯喜欢人世，自然也希望以「温迪」的身份在蒙德更自在地行走。他仿照着神选者的特征，制作了与「神之眼」非常相像的玻璃珠。
 仿制出的道具并没有什么特殊功能，温迪引导元素力也并不依靠它。
 不过，由于天空之琴不在身边，温迪又懒得把普通的琴挎在腰间，便为它增加了变成木琴「斐林」的能力。
+
+# voice_source_ids: 11100,11101,11102,11103,11104,11105,11106,11107,11108,11109,11110,11111,11112,11113,11114,11115,11116,11117,11118,11119,11120,11121,11122,11123,11124,11125,11126,11127,11128,11129,11130,11131,11132,11133,11134,11135,11136,11137,11138,11139,11140,11141,11142,11143,11144,11145,11146,11147,11148,11149,11150,11151,11152,11153,11154,11155,11156,11157,11158,11159,11160,11161,11162,11163,11164,11165,11166,11167,11168,11169,11170,11171,11172,11173,11174,11175
+
+## REPLICAS_RU
+
+### Привет...
+
+*Зевает* Неплохо я вздремнул. Ах, путешественник, вот мы и встретились снова! Что? Ты меня не помнишь? Ха-ха-ха, тогда позволь мне заново присоединиться к твоей команде. Я должен удостовериться в том, чтобы все барды мира рассказывали истории о твоих похождениях! / *Зевает* Неплохо я вздремнул. Ах, путешественница, вот мы и встретились снова! Что? Ты меня не помнишь? Ха-ха-ха, тогда позволь мне заново присоединиться к твоей команде. Я должен удостовериться в том, чтобы все барды мира рассказывали истории о твоих похождениях!
+
+### Поболтаем: Музыка
+
+Конечно, я сыграю тебе ещё одну песню, но на этот раз с тебя яблоко!
+
+### Поболтаем: Сидр
+
+Вот бы сейчас сидеть на дереве с бутылочкой сидра в руке и любоваться бескрайними полями и лугами... Эх...
+
+### Поболтаем: Поэзия
+
+Пойдём же, путешественник! Нам ещё предстоит отыскать множество утраченных баллад. / Пойдём же, путешественница! Нам ещё предстоит отыскать множество утраченных баллад.
+
+### Когда идёт дождь...
+
+Пошли прыгать по лужам! Посмотрим, у кого получится больше брызг!
+
+### После дождя...
+
+Ох, дождь уже закончился? А я только разыгрался.
+
+### Когда идёт снег...
+
+Давай дождёмся, пока нападает снег, и сыграем в снежки!
+
+### Когда дует сильный ветер...
+
+О, ветер снова поднялся! Раскрывай свой планер!
+
+### Доброе утро...
+
+Доброе утро! Ну что, готов к новым свершениям? / Доброе утро! Ну что, готова к новым свершениям?
+
+### Добрый день...
+
+Мой живот урчит, но нельзя, чтобы меня снова поймали на воровстве еды из винокурни «Рассвет»... О, это ты! Куда путь держишь? Можно мне с тобой?
+
+### Добрый вечер...
+
+Ещё рано спать. Пошли прогуляемся!
+
+### Спокойной ночи...
+
+Ты уже баиньки? Ха-ха, сладких снов, друг!
+
+### О Венти...
+
+Практиковаться? Мне? Ха-ха, зачем? Я ведь и так знаю все песни в Тейвате.
+
+### О нас: Новые песни
+
+Я решил написать песню о тебе! Ну чего ты так на меня смотришь? Боишься, что не сможешь позволить себе такую роскошь? Да перестань, для тебя такая услуга стоит ровно ноль моры! Хотя... ты мог бы поделиться со мной ещё какими-нибудь интересными историям из своей жизни! / Я решил написать песню о тебе! Ну чего ты так на меня смотришь? Боишься, что не сможешь позволить себе такую роскошь? Да перестань, для тебя такая услуга стоит ровно ноль моры! Хотя... ты могла бы поделиться со мной ещё какими-нибудь интересными историям из своей жизни!
+
+### О нас: Герои
+
+Ха-ха, как только принц в моей истории спасёт принцессу, я сразу сделаю так, что песнь о нём разлетится по всем уголкам Тейвата. / Ха-ха, как только принцесса в моей истории спасёт принца, я сразу сделаю так, что песнь о ней разлетится по всем уголкам Тейвата.
+
+### О нас: Апостолы
+
+Вечерний бриз настраивает на то, чтобы стать моим учеником, ты так не думаешь? Мы можем начать прямо сейчас. Тебе всего лишь придётся сделать мне небольшое подношение...
+
+### О нас: Просьбы
+
+Думаешь, что я недостаточно делаю в качестве Анемо Архонта? Ну знаешь, тебе тоже не мешало бы постараться, чтобы стать моим последователем. Ты мог хотя бы показать свою заинтересованность... / Думаешь, что я недостаточно делаю в качестве Анемо Архонта? Ну знаешь, тебе тоже не мешало бы постараться, чтобы стать моим последователем. Ты могла хотя бы показать свою заинтересованность...
+
+### Глаз Бога...
+
+М? Интересно, откуда у меня Глаз Бога? Ну вот, держи, посмотри сам. Если хочешь, я могу сделать для тебя такой же, ха-ха. / М? Интересно, откуда у меня Глаз Бога? Ну вот, держи, посмотри сама. Если хочешь, я могу сделать для тебя такой же, ха-ха.
+
+### Давай поделимся...
+
+Olah! Ха-ха, так хиличурлы говорят «привет». Всякие на первый взгляд ненужные знания помогают сделать лексику композиций более богатой. Однако я до сих пор не написал ни одной песни на хиличурлском...
+
+### Интересные вещи...
+
+А ты когда-нибудь видел сесилию, путешественник? Это изумительный белый цветок, который растёт только в самых удалённых местах, на скалистых горах. Для меня это самый красивый цветок во всём Тейвате. / А ты когда-нибудь видела сесилию, путешественница? Это изумительный белый цветок, который растёт только в самых удалённых местах, на скалистых горах. Для меня это самый красивый цветок во всём Тейвате.
+
+### О Джинн...
+
+Действующий магистр Джинн... Какого ты о ней мнения? Да, не могу согласиться: сознательна, смела... добра и внимательна. Напоминает мне одного моего хорошего друга...
+
+### О Дилюке...
+
+Я не удивлён, что ты хочешь подружиться с Дилюком. Только представь, сколько винтажного вина хранится в его погребах... Муа-ха-ха-ха... А? Он не даёт тебе попробовать? Ни малейшей капельки? Хм... Ну, я думаю, ты хотя бы можешь оценить его аромат. Это всё же лучше, чем ничего, верно? Нет?
+
+### О Барбаре...
+
+Милый пастор с нежным голосом, ты знаешь её? Да? Идол? Концерты? Сходки фанатов? Ого... Это сила музыки...
+
+### О Рэйзоре...
+
+Мальчик из Вольфендома с белыми волосами, да. Его вырастили волки? Правда? Тогда понятно, почему так знаком его запах...
+
+### О Моне...
+
+Ох, тот астролог? Гляди, астрология и моё пение - это почти одно и то же. В обоих случаях у тебя не остаётся денег даже на выпивку! Ты считаешь, что астрология - это культурное явление, и поэтому оно ценнее? Хм, как грубо, пение уличных бардов не менее ценно!
+
+### О Дионе...
+
+В «Кошкином хвосте» есть один известный во всей округе напиток. Но он... а-а-а... Апчхи! *Шмыгает* Можешь принести мне бокальчик, пожалуйста? Я буду очень-очень тебе благодарен, обещаю.
+
+### Об Альбедо...
+
+Как объяснить образование белого мела в чёрной земле? Или образование земной коры в бескрайней пустоте космоса? За всем стоит та же древнейшая сила, что позволила чистейшей почве дать жизнь человеку... Но пытаться обуздать подобную силу очень и очень чревато. Боюсь представить, что может произойти, потеряй кто-нибудь контроль над ней в стенах города... Хотя, неважно! Пусть жители Мондштадта сами разбираются с возникшими в их городе проблемами!
+
+### О Мораксе...
+
+Так ты знаешь этого джентльмена? И как? Он обычный человек по имени Чжун Ли? Видать, сильно изменился, старый болван. Может, сопроводишь меня на встречу с ним? Я тут откопал бутылочку винтажного вина в долине Ветров, можно взять с собой в качестве подарка. Ох... Слушай, а он показался тебе сильным? Насколько? Он может смести меня одним взмахом?
+
+### Об Эоле...
+
+Эола хорошо разбирается в вине. Вне зависимости от времени года она всегда пьёт охлаждённые напитки. Это большая редкость в современном Мондштадте. Думаю, из неё получился бы хороший собутыльник. А? Ты хочешь сказать, что песня, которую я придумал о клане Лоуренс уже дошла до её ушей? Ха, какая разница? Может быть, мы даже споём вместе.
+
+### Узнать больше о Венти I
+
+Путешественник, ты как раз вовремя! Расскажи мне, каково твоё самое заветное желание? / Путешественница, ты как раз вовремя! Расскажи мне, каково твоё самое заветное желание?
+
+### Узнать больше о Венти II
+
+Путешествовать с тобой не бывает скучно! Вот только есть один недостаток - та феечка, что всюду за тобой летает... Она же постоянно ест! И представить не могу, сколько ты на неё тратишь!
+
+### Узнать больше о Венти III
+
+Пиро Архонт - своенравный и воинственный безумец, а Гео Архонт - тупица, не понимающий человеческой души. Откуда я это знаю? Ну... Из баллад... написанных о тех временах... которые про Архонтов...
+
+### Узнать больше о Венти IV
+
+Селестия... Не уверен, что даже у меня хватило бы сил долететь до неё. Да и вообще, вода там горькая, фрукты безвкусные... А знаешь, что это значит? Это значит, что там нет сидра! Ха-ха-ха, поэтому я бы не показался там, даже если бы меня пригласили.
+
+### Узнать больше о Венти V
+
+Моё сокровенное желание? Я всегда мечтал быть свободным и странствовать по свету. Но теперь я хочу, чтобы во всех этих путешествиях меня сопровождал ты! Каждый день с тобой - это новое приключение, а рассказчики всегда должны следовать за приключениями. / Моё сокровенное желание? Я всегда мечтал быть свободным и странствовать по свету. Но теперь я хочу, чтобы во всех этих путешествиях меня сопровождала ты! Каждый день с тобой - это новое приключение, а рассказчики всегда должны следовать за приключениями.
+
+### Хобби Венти...
+
+Я люблю выпить! И я люблю ветер! Если бы только в мире придумали делать сидр из ветра...
+
+### Беспокойство Венти...
+
+Вообще-то у меня аллергия на кошек. Я начинаю чихать сразу же, как только они подходят близ... ах... Апчхи! Ох, даже одна мысль о них заставляет меня чихать. Как думаешь, существует ли где-нибудь в мире лекарство от этой ужаснейшей болезни?
+
+### Любимая еда...
+
+Будешь яблоко? Я только что их нарвал. Смотри, какие спелые и сочные... *Откусывает* Воистину божественный плод.
+
+### Нелюбимая еда...
+
+Что это у тебя там за лакомство? ... Фу! Блины с плавленым сыром! Вонючая, липкая, отвратительная гадость!
+
+### День рождения...
+
+Как-то раз мне сказали, что на день рождения обязательно нужно съесть торт... Та-дам! Вот и твой праздничный торт! Он с яблочным вкусом. А вот и твоя ложка! Только вот тесто почти не поднялось, поэтому он больше похож на пирог... Ух, выпечка и впрямь наука не из лёгких...
+
+### Чувство возвышения: Начало
+
+Ох, что это было?
+
+### Чувство возвышения: Нарастание
+
+Хорошо поработали. Может, присядем отдохнуть и насладимся моей игрой? Что ты хочешь послушать? Каприччио или серенаду?
+
+### Чувство возвышения: Кульминация
+
+Пошли присядем. Смотри, я написал новую поэму и называл её «Ветер путешественника». / Пошли присядем. Смотри, я написал новую поэму и называл её «Ветер путешественницы».
+
+### Чувство возвышения: Окончание
+
+Хм... Я уже много раз смотрел на этот пейзаж, но в компании с тобой он начинает играть новыми красками. Неужто ты скрываешь ещё какие-то таланты? Даже если так, это ещё раз доказывает, что моя интуиция меня не подвела.
+
+### Элементальный навык I
+
+Ю-ху!
+
+### Элементальный навык II
+
+А вот и мы!
+
+### Элементальный навык III
+
+Соберитесь!
+
+### Элементальный навык IV
+
+Давайте играть!
+
+### Взрыв стихии I
+
+Думаешь, сможешь убежать?
+
+### Взрыв стихии II
+
+К полёту готов!
+
+### Начало спринта I
+
+Разве на планере не быстрее?
+
+### Запуск планера I
+
+Ю-ху!
+
+### Открытие сундука I
+
+Кхм, ты когда-нибудь слышал «Балладу о сундуке с сокровищами»? / Кхм, ты когда-нибудь слышала «Балладу о сундуке с сокровищами»?
+
+### Открытие сундука II
+
+Слава Барбатосу! Погоди-ка...
+
+### Открытие сундука III
+
+Вот это находка! Интересно, на сколько бутылок она потянет...
+
+### Низкий уровень HP I
+
+Ох, я не в настроении для всего этого!
+
+### Низкий уровень HP II
+
+Эй! Отстань от меня!
+
+### Низкий уровень HP III
+
+Это было неожиданно.
+
+### Низкий уровень HP компаньона I
+
+Дай мне попробовать!
+
+### Низкий уровень HP компаньона II
+
+Не сдавайся!
+
+### Без сознания I
+
+Я немного вздремну...
+
+### Без сознания II
+
+О нет, моя лира разбита...
+
+### Без сознания III
+
+Ох... Уф...
+
+### Получен лёгкий удар I
+
+Ай!
+
+### Получен тяжёлый удар I
+
+Как это грубо!
+
+### Присоединяется к группе I
+
+Дай мне время, мне надо собраться.
+
+### Присоединяется к группе II
+
+Ну, что, заждались меня?
+
+### Присоединяется к группе III
+
+Готовы к репетиции?
+
+### О Баал...
+
+Я слышал, что ты одолел и этого высокомерного сёгуна Райдэн? Ах... Я думаю, что когда она была кагэмуся, она стремилась к боевому искусству в его самом высоком проявлении. В настоящее время она, должно быть, также придумывает всевозможные причины, чтобы вызвать тебя на бой. Я по секрету расскажу о её слабости... Подойди поближе, я шепну тебе на ушко. Это сладости! / Я слышал, что ты одолела и этого высокомерного сёгуна Райдэн? Ах... Я думаю, что когда она была кагэмуся, она стремилась к боевому искусству в его самом высоком проявлении. В настоящее время она, должно быть, также придумывает всевозможные причины, чтобы вызвать тебя на бой. Я по секрету расскажу о её слабости... Подойди поближе, я шепну тебе на ушко. Это сладости!
+
+### Подарок I
+
+Ах, просто восхитительно! А можно повторить завтра? И послезавтра?..
+
+### Подарок II
+
+Ох, как же я объелся... Придётся в этот раз обойтись без фруктов...
+
+### Подарок III
+
+Поверить не могу, но, кажется, я не смогу это переварить. Ох, какая неприятная ситуация...
+
+### О Буер...
+
+Первое, что приходит на ум, когда слышишь о Дендро Архонте, - это её власть над снами, да? Её сны, как и мои стихи, наполнены романтикой и фантазией. Конечно же, мы отлично с ней ладим.
+
+### О Фурине...
+
+Бард должен уметь петь и на чём-нибудь играть, а вот театральным артистам требуется куда больше. Как насчёт того, чтобы предложить Фурине устроить представление на следующем Празднике ветряных цветов? М? Ты хочешь, чтобы я рассказал о том, как она спасла Фонтейн. Что ж тут такого? Человек подобного артистического дарования способен спасти весь мир!
+
+### О Хаборим...
+
+Этот мир действительно жесток: поколение за поколением люди вынуждены становиться пушечным мясом в битве с тьмой. Однако под предводительством Мавуики они совершили поистине божественный подвиг... Хех, начиная с «неё», наверное, натланцы всегда были такими. Ах, точно! Я слышал, что Мавуика любит выпить! Мы думаем об одном и том же?..
+
+### О Далии...
+
+О путник, хочешь ли ты услышать голос ветра и узнать его наставления? Я советую... побеседовать с дьяконом. Ха-ха, шучу. Приходи поболтать со мной за выпивкой в любое время! Причина, по которой я обычно привлекаю Далию в качестве посредника, заключается в том, что... ну, я думаю, ты догадываешься - он любит слушать шум ветра, но, что очень важно, у него есть собственный компас.
+
+### О Дурине...
+
+О, ещё один ребёнок госпожи мага поселился в Мондштадте - как здорово! Этот малыш, похоже, очень хотел поиграть с одним моим большим другом, так что я взял на себя скромную роль посредника. Забавно, но большой друг оказался даже более взволнован, чем малыш - прыгал от радости, хлопал себя по животу и танцевал. Ой-ой, кажется, большой друг нас услышал? Быстрее, спрячемся за деревом!
+
+## REPLICAS_EN
+
+### Hello
+
+*Yawn* That was a refreshing sleep. Ah, Traveler, we meet again! What? You don't remember me? Ahaha, well, allow me to join you on your quest once again. I must see to it that the bards of the world tell the Traveler's tales!
+
+### Chat: Playing the Lyre
+
+Sure, I'll play you another tune, but it'll cost you an apple.
+
+### Chat: Apple Cider
+
+Right now I wish I was sitting at the top of a tree, looking out over a meadow, cider in hand...
+
+### Chat: Ballads
+
+Come on Traveler, let's go! The world is full of lost ballads just waiting to be rediscovered.
+
+### When It Rains
+
+Let's go jumping in puddles and see who can make the biggest splash!
+
+### After the Rain
+
+It's stopped raining already? A shame, I wanted to play some more.
+
+### When It Snows
+
+Let's wait till the snow gets heavier and have a snowball fight!
+
+### When the Wind Is Blowing
+
+The wind has returned! Quick, let's go gliding!
+
+### Good Morning
+
+Morning! Ah... what's in store for today?
+
+### Good Afternoon
+
+My tummy is rumbling, but I can't get caught pilfering food from the Dawn Winery again... Oh, it's you! Where are you heading? May I join?
+
+### Good Evening
+
+Hmm, I'm still not sleepy. Fancy an evening stroll?
+
+### Good Night
+
+Off to the land of nod? Haha, farewell, my friend!
+
+### About Venti
+
+Practice? Me? There's no need — I already know every song in Teyvat!
+
+### About Us: New Songs
+
+I have decided to write a song about you! What are you giving me that look for? Can't afford it? Don't be preposterous, the price for you, my friend, is precisely zero Mora! Although... one thing you could do is tell me a few more of your stories!
+
+### About Us: Heroes
+
+Haha, once the hero in the song has actually rescued the princess, I will ensure this song spreads to every corner of the continent! / Haha, once the heroine in the song has actually rescued the prince, I will ensure this song spreads to every corner of the continent!
+
+### About Us: Apostles
+
+Ahh... an evening breeze really sets the mood for becoming my disciple, don't you think? We can do it right now... you just need to make me a small offering...
+
+### About Us: Requests
+
+What's that? You think I should try harder to be a good Anemo Archon? Well, you could be a better devotee too... you could be more pious, more passionate, or... um...
+
+### About the Vision
+
+Hmm? You want to know about my Vision? Oh, go on then, take a look for yourself. I can make you a matching one if you like! Hehehe.
+
+### Something to Share
+
+Olah! Haha, that's how the Hilichurls say "hello." Why, I learned it to aid with my songwriting, of course! Vast knowledge makes for a richer composition... That said, I haven't actually written any songs in Hilichurlian so far...
+
+### Interesting Things
+
+Traveler, have you ever seen a Cecilia? It's a magnificent white wildflower that only grows on the most remote mountains and clifftops. To me, at least, it is the most beautiful flower in all of Teyvat.
+
+### About Jean
+
+Acting Grand Master Jean... Well, what do you think of her? Yes, I couldn't agree more: conscientious, courageous... kind and considerate too. Reminds me of another good friend...
+
+### About Diluc
+
+I'm not surprised you want to befriend Master Diluc. Just think of all the vintage wine he must have stored away... Mwuhahaha... Huh? He doesn't let you sample it? Not even the slightest drop? Huh... Well, I guess you can still appreciate the aroma. That's still better than no wine at all, right? No?
+
+### About Barbara
+
+The darling Deaconess with the sweet singing voice — do you know her? You do? Idol, huh? Meet and greets? Concerts? Wow... That's the power of music for you...
+
+### About Razor
+
+Ah yes, the white-haired fellow from Wolvendom? Raised by wolves? Really? ... No wonder his scent is so familiar...
+
+### About Mona
+
+Oh, that astrologer? How should I put it? Fortune-telling and my singing are the same: Both lead to you being so poor you can't even cough up the money for a drink! ...You think that astrology is a cultural tradition, so at least still has some value? Hmph, so rude. In that case, so too is singing, so it still has its value too!
+
+### About Diona
+
+There's a special drink known far and wide at Cat's Tail. But it ah... ahh... ACHOO! *sniffs* How about you go and fetch one for me? I'll be truly thankful, I promise.
+
+### About Albedo
+
+How do you explain white chalk in black soil, or the earth's dense crust amidst the emptiness of space? Same reason the purest soil gave birth to human life... It's an ancient power with unmistakable properties. Trying to harness it is dangerous indeed, I can't imagine what would happen if someone lost control of it in the city... Ah, never mind! What goes on within Mondstadt's walls is up to Mondstadt's people to deal with!
+
+### About Morax
+
+Have you seen that gentleman around? Huh? He's just a normal man by the name of Zhongli now? That must be quite the change for that old block-head. Come with me to see him, will you? I have a vintage I dug up from Windrise that I can take as a condolence gift. Oh, ahh... did he still seem strong when you saw him? How strong? Am I likely to get blown away?
+
+### About Eula
+
+Eula has good taste when it comes to beverages of the alcoholic variety. Come summer or winter, she always likes them ice-cold. That's rare among Mondstadters these days! She and I would make great drinking buddies. Huh? My songs about the Lawrence Clan... She's heard them already? Eh, no harm done. Maybe she and I can do a duet sometime!
+
+### More About Venti: I
+
+Perfect timing, Traveler! I was about to ask you — what is your greatest wish?
+
+### More About Venti: II
+
+There's never a dull moment traveling with you! The only minor inconvenience is that pesky little pixie thing that follows you everywhere... She never stops eating — I can't begin to imagine how much you spend on food!
+
+### More About Venti: III
+
+The Pyro Archon is a wayward, warmongering wretch, and the Geo Archon is a brutish, blundering buffoon! How do I know? Because, this is written in the epic poems of days gone by!
+
+### More About Venti: IV
+
+Celestia... I'm not sure even I could fly that far. In any case, the water there tastes foul, and the fruit is bland. You know what that means? No cider! Haha, in that case, I wouldn't go there even if I was invited.
+
+### More About Venti: V
+
+My greatest wish? It has always been to roam free and experience the whole world. Now, I would add that wherever I go, it simply must be with you! Each day with you is an adventure, and where adventurers go, storytellers must follow!
+
+### Venti's Hobbies
+
+I like to drink! And I like the wind! If only there were such a thing as wind-brewed cider...
+
+### Venti's Troubles
+
+I'm actually highly allergic to cats. I start sneezing as soon as they enter the vicinity, and... Aah... Aa-choo! Ugh, apparently I can't even THINK about cats without sneezing. Do you think there is a cure for this monstrous affliction?
+
+### Favorite Food
+
+Here, have an apple. I just picked it. Look how ripe and juicy it is... *munching* ... Truly the fruit of the gods.
+
+### Least Favorite Food
+
+Hmm, what's that tasty morsel you've got there...? Eww! A melted cheese pancake? A smelly, sticky, slimy, disgusting mess!
+
+### Birthday
+
+Someone once told me you're supposed to eat a cake on your birthday... Tada! Here's your birthday cake — it's apple-flavored! And here's a spoon. The cake didn't rise properly in the oven... That's why it looks more akin to an apple pie... Ugh, baking is really quite complicated!
+
+### Feelings About Ascension: Intro
+
+Whoa! What was that?
+
+### Feelings About Ascension: Building Up
+
+Good work. Shall we repose for a moment with a tune? Shall it be a capriccio or a serenade?
+
+### Feelings About Ascension: Climax
+
+Come, sit with me. I've written a new poem. I call it "Wind of the Traveler."
+
+### Feelings About Ascension: Conclusion
+
+Hmm... Though I've long since viewed this scenery a great many times, there is something different about seeing it again with you. Surely you're not still concealing some other wondrous abilities? Hmm, even if you were, it would simply further prove that my intuition is correct.
+
+### Elemental Skill: I
+
+Yoo-Hoo!
+
+### Elemental Skill: II
+
+Here we go!
+
+### Elemental Skill: III
+
+Brace yourselves!
+
+### Elemental Skill: IV
+
+Let's play!
+
+### Elemental Burst: I
+
+Think you can get away?
+
+### Elemental Burst: II
+
+Time for takeoff!
+
+### Sprint Start: I
+
+Wouldn't gliding be faster?
+
+### Deploying Wind Glider: I
+
+Yahoo!
+
+### Opening Treasure Chest: I
+
+*clears throat* Have you heard The Ballad of the Treasure Chest?
+
+### Opening Treasure Chest: II
+
+Thank Barbatos! Wait a minute...
+
+### Opening Treasure Chest: III
+
+What a find! I wonder how many bottles this'll be worth...
+
+### Low HP: I
+
+Ugh, I'm not in the mood for this!
+
+### Low HP: II
+
+Oh, dear!
+
+### Low HP: III
+
+That was uncalled for.
+
+### Ally at Low HP: I
+
+Let me try!
+
+### Ally at Low HP: II
+
+Don't give up!
+
+### Fallen: I
+
+Let me sleep a while...
+
+### Fallen: II
+
+Oh no, my lyre is broken...
+
+### Fallen: III
+
+Ah... Ugh...
+
+### Light Hit Taken: I
+
+Ah!
+
+### Heavy Hit Taken: I
+
+How rude!
+
+### Joining Party: I
+
+Give me a moment to compose myself.
+
+### Joining Party: II
+
+Didn't keep you waiting, did I?
+
+### Joining Party: III
+
+Ready for a rehearsal?
+
+### About Baal
+
+So, I hear you defeated the mighty Raiden Shogun? Ah, I recall the days when she was a kagemusha, seeking to perfect her martial prowess. Hehe, she now no doubt employs a wide range of reasoning to get you to train with her. Oh but yes, come close and I shall let you in on her weakness — desserts!
+
+### Receiving a Gift: I
+
+Ahh, quite delightful! So... could I get the same again tomorrow? ...And maybe the day after that?
+
+### Receiving a Gift: II
+
+Oof, I'm so full... I'll have to pass on the post-meal fruits this time...
+
+### Receiving a Gift: III
+
+I can't believe it, but I don't think I can stomach this... Oh boy... What a predicament.
+
+### About Buer
+
+The first thing you think of when you hear "Dendro Archon" is her power over dreams. Her dreams are akin to my ballads: full of emotion and imagination. It goes without saying that we get along really well.
+
+### About Furina
+
+A bard must be versed in both music and song, but a stage performer requires far more skills than just these... Hey, don't you think we should invite her over to put on a show at the next Windblume Festival? ...Huh? You want me to talk about how she saved Fontaine? Well, I mean, she's such a talented artiste, it's no wonder. I wouldn't be surprised even if she'd saved the entire world.
+
+### About Haborym
+
+This world sure is cruel, forcing generation upon generation of human heroes to become cannon fodder in the fight against darkness. But, under Mavuika's leadership, they achieved a truly god-like feat... Hehe, starting with "her," I suppose the Natlanese have always been like that. Ah, right! I heard Mavuika likes to drink! Are you thinking what I'm thinking...?
+
+### About Dahlia
+
+O, Traveler, do you seek to hear the voice of the wind and know its guidance? Then I say to you... chatting to the deacon is your best bet. Haha, I'm kidding — come chat with me over a drink any time you want! The reason I usually get Dahlia to be my intermediary is because... well, I imagine you can probably guess why. He loves listening to the blustering of the wind, but crucially he has his own compass, too.
+
+### About Durin
+
+Another one of Madame Mage's children here in Mondstadt, what fun! My new little friend looked like he wanted to play with a certain older, bigger friend of mine — so I arranged a little introduction, and voila! It turns out my big friend was the more excited of the two! Why, you should've seen him jumping for joy, patting his belly, and dancing in circles. Oh dear, did he hear what I just said? Quick, quick, let's take cover behind that tree!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+哈…睡得好香呀。欸，你好呀，旅行者，我们又见面了。嗯？不记得我了？嘿嘿，那就让我再次加入你的旅程吧。你的诗篇，值得被我这个世上最好的吟游诗人传唱！
+
+### 闲聊·弹琴
+
+嗯…想接着听下去的话，送我一个苹果吧。
+
+### 闲聊·苹果酒
+
+嗯…好想坐在大树上，手边有喝不完的苹果酒。哎。
+
+### 闲聊·诗篇
+
+动身吧，旅行者。佚失的诗篇，还在等着我们呢。
+
+### 下雨的时候…
+
+来踩小水坑吧！看看谁溅出来的水花更大！
+
+### 雨过天晴…
+
+欸~这就天晴了？我还想多玩一会儿呢。
+
+### 下雪的时候…
+
+等雪积起来…我们来打雪仗吧！
+
+### 刮大风了…
+
+难得呀，要不要去飞一飞？
+
+### 早上好…
+
+早，准备开始新的冒险了么？
+
+### 中午好…
+
+咕…肚子饿了，又不敢再去晨曦酒庄蹭饭…啊，是你呀！欸嘿，要出门么？带我一个呗。
+
+### 晚上好…
+
+我还不困哦。要我陪你走走么？
+
+### 晚安…
+
+欸？要休息了吗？嘿嘿，晚安。
+
+### 关于温迪自己…
+
+练习？哼哼，我当然不需要啦，在这提瓦特就没有我不会唱的歌。
+
+### 关于我们·新歌
+
+我想把你写进新歌里！欸，怎么露出这种表情呀，担心付不起稿费吗？哈哈，摩拉就不要了，不如…跟我再讲讲你的故事吧！
+
+### 关于我们·勇者
+
+唔…嗯！嘿嘿，等到勇者救出了公主，我会第一时间让全大陆传唱这首歌谣。 / 唔…嗯！嘿嘿，等到勇者救出了王子，我会第一时间让全大陆传唱这首歌谣。
+
+### 关于我们·使徒
+
+夜风凉爽，是适合成为神的使徒的天气！那么事不宜迟，快来向我献上供奉吧？
+
+### 关于我们·请求
+
+欸，要风神我更加努力一点？那你是不是也要展示点诚意呢。比如虔诚、热爱，或者说…
+
+### 关于「神之眼」…
+
+欸？好奇我的「神之眼」？喔…喏，给你。喜欢的话…要我给你做一个一样的么？嘿嘿嘿。
+
+### 有什么想要分享…
+
+Olah！嘿嘿，这是丘丘人打招呼用的话哦。问我学这个干嘛？哎呀，为了创作，知识面当然越广越好啊。唔，好像，我还没尝试过用丘丘语写歌呢…
+
+### 感兴趣的见闻…
+
+旅行者，你见过塞西莉亚花么？那是一种只在安静的山崖顶上默默绽放的白色野花。在我心里，它就是全提瓦特最美的花。
+
+### 关于琴…
+
+骑士团代理团长大人…你觉得她是个怎样的人？嘿嘿，跟我想得一样。认真，勇敢，也不乏温柔。和我一个朋友有点像呢…
+
+### 关于迪卢克…
+
+去跟迪卢克老爷处好关系吧？你想，他家可是有好~多~珍藏的酒啊！嘿嘿嘿，嘿嘿嘿嘿…咦，无论如何不准喝酒么？那…就去闻一闻吧，闻一闻！只是闻的话，你也可以喔。
+
+### 关于芭芭拉…
+
+唱歌很好听的牧师女孩儿，你认识么、你认识么？…唔，偶像？…啊，握手会？…嗯，专场live？…这样啊，音乐还真是深奥呐。
+
+### 关于雷泽…
+
+那个奔狼领的白发少年，哦哦，是吗，是被狼养大的啊…怪不得呢，他身上的气息，令人怀念…
+
+### 关于莫娜…
+
+啊，那位占星术士吗？这么说吧，占卜和我的诗歌一样，都是让人穷到酒钱都凑不齐的没用技术呢！欸？你说占星至少是一项文化传统，所以不是没用的？呜，真失礼啊，那诗歌也一样有用啊！
+
+### 关于迪奥娜…
+
+远近闻名的猫尾酒馆特调酒。可是…呜，会，打，打喷嚏。要不，你帮我讨一杯酒来吧。我肯定会好好感激你的，一言为定。
+
+### 关于阿贝多…
+
+黑土与白垩、宇宙与地层，无垢之土创生原初之人…特征实在太明显了，难以忽视呀。这么危险的古老技术，万一在城里失控——嗨，算了，就让蒙德人自己解决蒙德的问题吧。
+
+### 关于摩拉克斯…
+
+你见过那位老爷子了？他近来还好吗？欸，变成名叫「钟离」的普通人了？对他那个死脑筋而言，这应该是不小的改变啊。啊，陪我去见见他吧，带上这瓶埋在风起地的陈年好酒当作慰问品。啊对了，他现在还强不强，实力还剩几成啊？我这样过去，应该不会被打飞吧？
+
+### 关于优菈…
+
+优菈对酒的品位可是很不错的。无论夏天、冬天都要喝冰的这一点，在现在的蒙德人里也算难得啦。感觉能和她成为不错的酒友。嗯？你说我编排的劳伦斯家的歌…早已经传到了她的耳朵里？哈，那有什么关系嘛？说不定，我们还能一起唱呢。
+
+### 想要了解温迪·其一
+
+来得正好，旅行者。我想听听，你的愿望是什么？
+
+### 想要了解温迪·其二
+
+跟你一起旅行真是件有趣的事，要说美中不足就是你身边的那只小不点了吧。那么能吃，你们的伙食费很了不得吧？哈哈。
+
+### 想要了解温迪·其三
+
+火之神是个横行霸道的战斗狂，岩之神是个不懂人心的死脑筋。问我怎么会知道这些？欸嘿，叙事诗里都写得一清二楚嘛，他们的故事。那个年代的故事。
+
+### 想要了解温迪·其四
+
+天空岛啊。连我也不一定飞得到那里呢。而且在那里，没有甜的水，也长不出什么好吃的果子。就更不会有好酒咯？嘿嘿，所以请我去我都不想去哦。
+
+### 想要了解温迪·其五
+
+我的愿望？嗯。以前，我想着要游历整个世界。现在也一样，不过嘛，加上了一份限定条件，那就是跟你一起。有你在，才是完整的。记叙者果然要和冒险者在一起才行嘛，嘿嘿！
+
+### 温迪的爱好…
+
+我喜欢酒！还有风！唔，如果能有用风酿的酒就好了。
+
+### 温迪的烦恼…
+
+其实，只要有猫在附近，我就忍不住会打喷嚏…啊-啊-阿嚏！唔…哎呀…就连想一想也不行么…欸，你知不知道该怎么治好这个毛病呀？
+
+### 喜欢的食物…
+
+你也来一个苹果吗，刚摘的。啊呜，啊…又脆又甜，苹果才是神的馈赠吧！
+
+### 讨厌的食物…
+
+哎，你在做什么好吃的吗？欸？热奶酪饼！这个…这个不行，热热的黏糊糊的，唔…对我来说，太腻了…
+
+### 生日…
+
+我以前听朋友说生日是要吃蛋糕的…喏，苹果蛋糕，给，勺子。烤出来的时候有点塌了，所以看上去像是苹果派。欸嘿，甜点还真是复杂呀。
+
+### 突破的感受·起
+
+欸！刚刚发生了什么！
+
+### 突破的感受·承
+
+辛苦啦。想要来点音乐放松一下吗？随想曲，还是小夜曲？
+
+### 突破的感受·转
+
+来，坐这边。我写了一首新诗哦，就叫它「旅行者之风」吧。
+
+### 突破的感受·合
+
+唔…明明这些风景早就看过很多遍了，有你在身边，却像是呈现出了不同的样子。你该不会…还藏着一大堆奇奇怪怪的能力吧？…唔，那倒也不错。说明，我看人的眼光很准呀，欸嘿。
+
+### 元素战技·其一
+
+哟呼——
+
+### 元素战技·其二
+
+在这哟。
+
+### 元素战技·其三
+
+留意脚下。
+
+### 元素战技·其四
+
+一起来玩吧。
+
+### 元素爆发·其一
+
+别想逃开喔？
+
+### 元素爆发·其二
+
+起风咯~
+
+### 冲刺开始·其一
+
+飞，比跑快吧？
+
+### 打开风之翼·其一
+
+呀嘿~
+
+### 打开宝箱·其一
+
+咳咳，请听一首，「宝箱之歌」！
+
+### 打开宝箱·其二
+
+嘿嘿，要不要感谢「风神的眷顾」呀？
+
+### 打开宝箱·其三
+
+收获不少，可以拿去换几瓶好酒啦。
+
+### 生命值低·其一
+
+等等，这可不好玩！
+
+### 生命值低·其二
+
+哎呀，别盯着我打呀。
+
+### 生命值低·其三
+
+好过分呐。
+
+### 同伴生命值低·其一
+
+交给我吧。
+
+### 同伴生命值低·其二
+
+还不能放弃哦。
+
+### 倒下·其一
+
+稍微睡一下吧…
+
+### 倒下·其二
+
+啊呀，弦断了…
+
+### 倒下·其三
+
+扑通。
+
+### 普通受击·其一
+
+哎呀…
+
+### 重受击·其一
+
+好粗鲁哦。
+
+### 加入队伍·其一
+
+调音完成。
+
+### 加入队伍·其二
+
+让你久等了哦？
+
+### 加入队伍·其三
+
+是要做热身运动吗。
+
+### 关于巴尔…
+
+听说，你把那位不可一世的雷电将军也击败了？啊…想当年她作为影武者的时候，就在追求极致的武技了。如今，也一定会借用各种各样的理由叫你做陪练吧。嗯嗯，偷偷告诉你她的弱点吧，耳朵凑过来——是「甜点心」哦！
+
+### 收到赠礼·其一
+
+啊，好满足！明天也会有吧？后天也会有吧？
+
+### 收到赠礼·其二
+
+呼，好饱，连餐后水果都要吃不下了…
+
+### 收到赠礼·其三
+
+竟然是连我都应付不来的食物。唔…这下可难办了。
+
+### 关于布耶尔…
+
+你说草神啊，说到草神，就会先想到她那关于「梦境」的权能吧？与我所作的那些诗歌一样，她所创造的梦境也一样充满了浪漫与想象，我们可是很合得来呢。
+
+### 关于芙宁娜…
+
+吟游诗人所擅长的，多是弹奏与演唱，可一位戏剧表演者所需要具备的能力，还远远不止这些…下次风花节把芙宁娜请过来一起表演怎么样？嗯？你想让我聊聊她拯救枫丹的事？有这样艺术才华的人就算拯救了整个世界，也毫不奇怪吧？
+
+### 关于赫布里穆…
+
+需要一个又一个的人类成为柴薪去对抗漆黑的威胁，这个世界还真是不讲情面。但在玛薇卡的带领下，他们创造了堪比魔神的成就…嘿嘿，从「她」开始，纳塔人似乎一直就是这样呢。对了，我听说玛薇卡很喜欢喝酒对吧？要不然…
+
+### 关于塔利雅…
+
+旅者，你想要聆听风的声音，寻求风的指引吗？那么…去找这位助祭肯定没错。哈哈，开个玩笑。你随时可以找我一边喝酒一边聊天噢！至于我平时拜托塔利雅传递消息的原因…你已经猜到了吧？他热衷于追逐喧嚣的风，却从来不会失去自己的方向。
+
+### 关于杜林…
+
+又有一位魔女小姐的孩子在蒙德落脚了，真热闹呀。这位小朋友看起来很想跟我的一位大朋友一起玩，于是我便做了一些微不足道的引荐工作。让人惊喜的是，大朋友比小朋友还激动，高兴得上蹿下跳，拍着肚皮转圈跳舞呢。哎呀，被大朋友听见了？快快，我们往树后躲一躲。

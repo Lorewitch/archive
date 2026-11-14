@@ -14,12 +14,14 @@
 # chapter_num_en: Historia Antiqua Chapter: Act I
 # chapter_num_zh: 古闻之章 第一幕
 # part_source_ids: 11020,11021,11022,11023,11024
-# previous_quests:
+# previous_quests: 
 # next_quests: quest_lq_2020
 # related_quests: quest_lq_2020
 # quest_chain: quest_lq_2014,quest_lq_2020
 # quest_series: Historia Antiqua || Historia Antiqua Chapter
 # version_source: wiki_release_category
+# game_source_ids: 11020,11021,11022,11023,11024
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -27,21 +29,29 @@
 
 Вы с Паймон увидели знакомое лицо на Бисерном пароме...
 
+#### Отправляйтесь на Бисерный паром
+
 #### Встретьтесь за столом с Чжун Ли
 
 **Чжун Ли:** А? Не ожидал увидеть вас здесь.
 
 **Вань Янь:** Эти двое - ваши друзья?
 
-**Чжун Ли:** Да. Мне посчастливилось познакомиться с путешественни(цей)(ком) совсем недавно. Он(а) многое повидал(а), весьма талантлив(а), и мне крайне приятно е(ё)(го) общество.
+**Чжун Ли:** Да. Мне посчастливилось познакомиться с путешественником совсем недавно. Он многое повидал, весьма талантлив, и мне крайне приятно его общество. / Да. Мне посчастливилось познакомиться с путешественницей совсем недавно. Она многое повидала, весьма талантлива, и мне крайне приятно её общество.
 
 **Чжун Ли:** Путешественник, мы только что обсуждали Властелина Камня в контексте истории. Не желаешь послушать?
 
 **Хань Сюэ:** Сей господин напрасно оспаривает силу Гео Архонта. Как профессиональный археолог, я собираюсь его в этом ошибочном мнении переубедить.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вообще-то он...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Может быть, ему виднее...
+
+##### Общее продолжение
 
 **Хань Сюэ:** Мы как раз обсуждаем местонахождение первой моры в истории.
 
@@ -83,9 +93,15 @@
 
 **Хань Сюэ:** Довольно же! Неужели вы считаете, что смогли понять Властелина Камня лучше меня?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вообще-то он...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Может быть, ему виднее...
+
+##### Общее продолжение
 
 **Чжун Ли:** Мои познания в истории небогаты, и хвастаться я бы ими не стал. Но если все мнения совпадают, то всякое обсуждение теряет свою ценность.
 
@@ -99,7 +115,7 @@
 
 **Хань Сюэ:** О! Эм...
 
-Звучит так, будто ты рассказываешь про кого-то другого.
+- **Путешественник:** Звучит так, будто ты рассказываешь про кого-то другого.
 
 **Чжун Ли:** Хе-хе... Речь ведь идёт о Властелине Камня.
 
@@ -107,11 +123,17 @@
 
 **Вань Янь:** Господин! Я... у меня есть несколько вопросов касательно археологии. Не могли бы мы найти место потише и поговорить? Если вы, конечно, не возражаете.
 
-**Чжун Ли:** О, я ни в коем случае не откажу. Но ничего, если мой друг / я подруга составит нам компанию? Возможно, он(а) тоже сможет нам помочь.
+**Чжун Ли:** О, я ни в коем случае не откажу. Но ничего, если мой друг составит нам компанию? Возможно, он тоже сможет нам помочь. / О, я ни в коем случае не откажу. Но ничего, если моя подруга составит нам компанию? Возможно, она тоже сможет нам помочь.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Кто? Я?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Я здесь только слушать истории.
+
+##### Общее продолжение
 
 **Вань Янь:** Что вы, что вы! Я буду только рада. Пойдёмте же.
 
@@ -139,19 +161,31 @@
 
 **Вань Янь:** Ничего! Прошу, расскажите мне всё, что знаете! Я уделила много времени поискам ответа на этот вопрос.
 
-- **Путешественник:** Чжун Ли, кажется, смутился.
+##### Вариант ответа 1
 
-- **Путешественник:** Неужели это настолько запутанная история?
+- **Путешественник:** Чжун Ли, кажется, смутился.
 
 **Чжун Ли:** Да нет, просто... Не знаю, с чего начать.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Неужели это настолько запутанная история?
+
 **Чжун Ли:** Так и есть. Даже не знаю, с чего начать.
+
+##### Общее продолжение
 
 **Климент:** Ах, так вот где вы, господин Чжун Ли! Я уж вас обыскался.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Фатуи?!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Тебе чего?! Говори!
+
+##### Общее продолжение
 
 **Паймон:** Брось оружие! Не подходи! Не то... не то Паймон доложит на тебя Миллелитам!
 
@@ -169,9 +203,15 @@
 
 **Чжун Ли:** То есть это считается работой на ритуальное бюро?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что же делать?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Нам следует быть осторожными.
+
+##### Общее продолжение
 
 **Чжун Ли:** Раз это работа, ничего не поделаешь. Консультант ритуального бюро «Ваншэн» обязан чтить свой долг.
 
@@ -181,9 +221,15 @@
 
 **Чжун Ли:** Тогда по дороге мы сможем продолжить наш разговор. Ты тоже можешь к нам присоединиться, Путешественник.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Зачем?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Я в археологии ничего не смыслю.
+
+##### Общее продолжение
 
 **Чжун Ли:** Этот опыт может пригодиться тебе в будущих приключениях.
 
@@ -191,11 +237,11 @@
 
 **Климент:** Постойте! У нас ведь археологическая экспедиция, а не групповая экскурсия. Зачем нам столько людей?
 
-**Чжун Ли:** Видите ли, мо(я подруга)(й друг) обладает несравненным талантом находить сокровища, без чего в нашей экспедиции не обойтись.
+**Чжун Ли:** Видите ли, мой друг обладает несравненным талантом находить сокровища, без чего в нашей экспедиции не обойтись. / Видите ли, моя подруга обладает несравненным талантом находить сокровища, без чего в нашей экспедиции не обойтись.
 
 **Климент:** Что? Каким талантом?
 
-**Чжун Ли:** От глаз (моей подруги)(моего друга) не ускользнёт ни один сундук.
+**Чжун Ли:** От глаз моего друга не ускользнёт ни один сундук. / От глаз моей подруги не ускользнёт ни один сундук.
 
 **Паймон:** Это конёк Паймон тоже!
 
@@ -205,9 +251,15 @@
 
 **Климент:** Попалась бы какая-нибудь реликвия или следы древности, а если это будет фрагмент тела божества - так вообще отлично! Кто знает, какие находки нас ожидают.
 
+**Хань Сюэ:** Властелин Камня просто что-то с чем-то. Стоило ему уйти, как люди тут же начали порочить его имя...
+
+**И Сюань:** Хоть и живём мы в эпоху людей, но всё равно должны оказывать богам прошлого хоть толику уважения...
+
 ### Останки вихря
 
 После случайной встречи с Чжун Ли вы узнали, что Фатуи по имени Климент организовывает археологическую экспедицию. Чжун Ли присоединился к экспедиции в роли консультанта. Также с ними отправилась Вань Янь. И хотя Фатуи не вызывают у вас доверия, вы решили присоединиться к Чжун Ли. Цель экспедиции - найти Осиала, Архонта Вихрей.
+
+#### Направляйтесь в каменный лес Гуюнь
 
 #### Поговорите с членами экспедиции
 
@@ -243,7 +295,7 @@
 
 **Климент:** Раз уж с нами столько народу, думаю, лучше будет разделиться и приступить к поискам.
 
-**Чжун Ли:** Ладно. Тогда я пойду со (своей подругой)(своим другом). И, хоть я обладаю определёнными знаниями из разных наук, с нашим экспертом по археологии мне не сравниться.
+**Чжун Ли:** Ладно. Тогда я пойду со своим другом. И, хоть я обладаю определёнными знаниями из разных наук, с нашим экспертом по археологии мне не сравниться. / Ладно. Тогда я пойду со своей подругой. И, хоть я обладаю определёнными знаниями из разных наук, с нашим экспертом по археологии мне не сравниться.
 
 **Вань Янь:** А? Вы имеете в виду меня?
 
@@ -252,6 +304,16 @@
 **Вань Янь:** Я поняла... Тогда я покажу дорогу.
 
 **Чжун Ли:** Хорошо. Если кто-нибудь найдёт что-то редкое или ценное, то... Давайте встретимся на берегу напротив.
+
+#### Используйте чувство стихий, чтобы найти реликвии
+
+#### Победите монстров и откройте сундук
+
+#### Продолжайте поиск реликвий с помощью чувства стихий
+
+#### Продолжайте поиск реликвий с помощью чувства стихий
+
+#### Одолейте мимиков и заберите реликвию
 
 #### Встретьтесь со второй группой экспедиции
 
@@ -267,9 +329,15 @@
 
 **Вань Янь:** Предметом моих исследований всегда была Архонт Соли, и с реликвиями, принесёнными морем, я не знакома. Ничего необычного в этом нет!
 
+##### Вариант ответа 1
+
 - **Путешественник:** (Что-то тут не так...)
 
+##### Вариант ответа 2
+
 - **Путешественник:** (Нельзя ограничиваться только своей специализацией...)
+
+##### Общее продолжение
 
 **Вань Янь:** Ну а ты! Постоянно спрашиваешь, сколько стоит то, сколько стоит это! Разве можно измерять ценность реликвий посредством лишь моры?!
 
@@ -297,9 +365,15 @@
 
 **Климент:** Чушь! Я профессиональный археолог из Снежной. Разрази меня молния, если лгу!
 
+##### Вариант ответа 1
+
 - **Путешественник:** (Нет, ты используешь археологию ради наживы...)
 
+##### Вариант ответа 2
+
 - **Путешественник:** (Нет, ты пытаешься собрать останки божественной силы...)
+
+##### Общее продолжение
 
 **Чжун Ли:** Да, к слову, эту чашку продавать не стоит.
 
@@ -319,6 +393,14 @@
 
 Экспедиция по поиску останков Осиала вернулась из каменного леса Гуюнь с пустыми руками. Споры между Вань Янь и Климентом не прекращались ни на минуту. Во время одной из перепалок Вань Янь упомянула об Архонте Соли. Чтобы экспедиция не прошла даром, Климент решил направить группу на поиски реликвий этого божества.
 
+#### Направляйтесь в Солёные земли
+
+**Вань Янь:** Ты! Да ты просто скупердяй!
+
+**Климент:** Ну, а ты кто? Днями роешься в земельке в надежде найти что-нибудь ценное. Пыль одна в голове!
+
+**Паймон:** Опять ругаются... Что ж, не будем им мешать...
+
 #### Поговорите с членами экспедиции
 
 **Климент:** Я слышал, что в Солёных землях когда-то жил народ Архонта Соли. Поэтому, хе-хе... Здесь повсюду должны валяться драгоценные реликвии.
@@ -333,11 +415,19 @@
 
 **Вань Янь:** Вот только вход в руины запечатан загадочной силой, и печать эту ещё никто не смог разбить.
 
+**Вань Янь:** Я хоть и нашла механизм, который, похоже, связан с печатью, но когда активировала его, печать даже не шелохнулась.
+
 **Вань Янь:** Поэтому пока что происхождение печати и способ от неё избавиться занимают первое место в моём изучении Архонта Соли.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Связана ли она с народом Архонта соли?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Имеет ли она отношение к Властелину Камня?
+
+##### Общее продолжение
 
 **Вань Янь:** Не знаю. Реальных доказательств этому нет. Но я уверена, что за печатью скрывается давно забытая истина.
 
@@ -365,7 +455,9 @@
 
 **Вань Янь:** Ну, раз так говорит господин Чжун Ли... Тогда следуйте за мной.
 
-**Вань Янь:** Я хоть и нашла механизм, который, похоже, связан с печатью, но когда активировала его, печать даже не шелохнулась.
+#### Направляйтесь к первому механизму
+
+#### Найдите точку обзора, с которой можно сложить узор
 
 #### Направляйтесь ко второму механизму
 
@@ -401,6 +493,8 @@
 
 **Чжун Ли:** С помощью этой подсказки ты сможешь решить загадку.
 
+#### Активируйте элементальные монументы согласно подсказке Чжун Ли
+
 #### Направляйтесь к снятой печати
 
 **Чжун Ли:** Перед тем как войти в руины, я озвучу предложение, которое поможет вам избежать мелких ссор, как в каменном лесу Гуюнь.
@@ -411,7 +505,7 @@
 
 **Чжун Ли:** Чтобы показать искренность своих намерений, я на сокровища претендовать не буду - вы всё поделите между собой.
 
-Мне тоже ничего не нужно.
+- **Путешественник:** Мне тоже ничего не нужно.
 
 **Паймон:** Ты что, это же такая возможность! Не стоит её отвергать так быстро!
 
@@ -437,6 +531,11 @@
 
 Чжун Ли помог снять печать со входа во владения Архонта Соли. Перед тем как войти в руины, Чжун Ли поставил условия для Вань Янь и Климента. Они будут забирать сокровища по очереди и по одному предмету за раз.
 
+#### Спуститесь в пещеру
+
+#### Исследуйте пещеру и найдите вход в руины
+
+#### Найдите божественные реликвии в подземелье
 
 **Вань Янь:** Посмотрите. Эта чаша наполовину заполнена солью.
 
@@ -464,6 +563,7 @@
 
 **Чжун Ли:** Тогда идём дальше.
 
+#### Продолжайте поиск божественных реликвий
 
 **Климент:** Это что, каменная линейка? Вряд ли она чего-нибудь стоит...
 
@@ -485,9 +585,15 @@
 
 **Паймон:** Ну всё, началось...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Эх...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Кто бы говорил о бесполезных людях...
+
+##### Общее продолжение
 
 **Чжун Ли:** То есть вы хотите нарушить контракт?
 
@@ -503,6 +609,8 @@
 
 **Чжун Ли:** Вряд ли тебе понравится «гнев Камня».
 
+#### Накажите Климента
+
 #### Поговорите с Чжун Ли и Вань Янь
 
 **Чжун Ли:** Ещё будут изъяты твои сокровища.
@@ -513,13 +621,19 @@
 
 **Паймон:** Тоже мне археолог. Недолго ему хватило сил притворяться.
 
-- **Путешественник:** Хорошо, что мы оставались настороже.
+##### Вариант ответа 1
 
-- **Путешественник:** Надеюсь, ты никогда не станешь такой же жадиной, как он, Паймон.
+- **Путешественник:** Хорошо, что мы оставались настороже.
 
 **Паймон:** И хорошо, что у Паймон нюх на лжецов.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Надеюсь, ты никогда не станешь такой же жадиной, как он, Паймон.
+
 **Паймон:** Паймон нравится мора, но Паймон не делает ничего плохого!
+
+##### Общее продолжение
 
 **Чжун Ли:** Проступок Климента породила жадность. Но нарушить контракт людей толкает много чего другого помимо жадности.
 
@@ -547,9 +661,15 @@
 
 **Вань Янь:** Мои предки были людьми, которых Архонт Соли защитила во время Войны Архонтов.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Если подумать, ты ни разу не произнесла «Гео Архонт»...
 
-- **Путешественник:** Хм, я ни разу не слышал(а), чтобы ты сказала «Властелин Камня»...
+##### Вариант ответа 2
+
+- **Путешественник:** Хм, я ни разу не слышал, чтобы ты сказала «Властелин Камня»... / Хм, я ни разу не слышала, чтобы ты сказала «Властелин Камня»...
+
+##### Общее продолжение
 
 **Паймон:** Точно. Раз уж об этом зашла речь, то в Ли Юэ почти никто не употребляет имя «Моракс»...
 
@@ -566,6 +686,8 @@
 **Чжун Ли:** Разумеется. Добавлю только, что Ли Юэ - больше не Ли Юэ Моракса.
 
 **Чжун Ли:** Следуйте за мной. Впереди нас ждут ответы.
+
+#### Продолжайте исследование руин
 
 #### Осмотрите сломанный меч
 
@@ -651,13 +773,19 @@
 
 **Паймон:** Эй! Эй, постой!
 
-- **Путешественник:** Похоже, для неё это было слишком.
+##### Вариант ответа 1
 
-- **Путешественник:** Всё, что ты сказал, правда?
+- **Путешественник:** Похоже, для неё это было слишком.
 
 **Чжун Ли:** Таково наказание. Не нарушь она контракт, я бы не стал рассказывать ей эту жестокую историю.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Всё, что ты сказал, правда?
+
 **Чжун Ли:** Да. Иначе зачем мне было наказывать истиной? Я бы не стал рассказывать эту жестокую историю, не нарушь она контракт.
+
+##### Общее продолжение
 
 **Чжун Ли:** Давайте проследуем за ней. Боюсь, что в глубине руин будет нечто, что заставит её принять правду.
 
@@ -709,19 +837,25 @@
 
 **Чжун Ли:** Судя по её виду, боюсь, что ещё некоторое время её будут терзать сомнения... И даже если она не сможет сразу от них избавиться, то просто знать правду уже хорошо.
 
-- **Путешественник:** Почему тебе столько всего известно о кончине Архонта Соли?
+##### Вариант ответа 1
 
-- **Путешественник:** Ты знал, как сломать печать, не из слухов, да?
+- **Путешественник:** Почему тебе столько всего известно о кончине Архонта Соли?
 
 **Чжун Ли:** В те далёкие времена история Хеврии также послужила мне предостережением.
 
-**Чжун Ли:** Ты очень проницател(ьна)(ен). Но дело тут не в мудрости, а в одном лишь возрасте.
+##### Вариант ответа 2
+
+- **Путешественник:** Ты знал, как сломать печать, не из слухов, да?
+
+**Чжун Ли:** Ты очень проницателен. Но дело тут не в мудрости, а в одном лишь возрасте. / Ты очень проницательна. Но дело тут не в мудрости, а в одном лишь возрасте.
+
+##### Общее продолжение
 
 **Чжун Ли:** Вера в давно погибшее божество ничего хорошего не принесёт.
 
 **Чжун Ли:** ...Будь то вера в Хеврию, или Моракса, не важно.
 
-Однажды народ Ли Юэ это поймёт.
+- **Путешественник:** Однажды народ Ли Юэ это поймёт.
 
 **Чжун Ли:** Здесь больше не на что смотреть. Путешественник, пройдёшься со мной в каменный лес Гуюнь?
 
@@ -745,7 +879,7 @@
 
 **Чжун Ли:** Им место здесь, и здесь они обретут покой...
 
-Что нам делать теперь?
+- **Путешественник:** Что нам делать теперь?
 
 **Чжун Ли:** Я собственноручно положил конец эпохе. И я всегда думал, каким должно остаться в моей памяти то прошлое... которое я окончил.
 
@@ -757,21 +891,27 @@
 
 **Паймон:** Чжун Ли...
 
-**Чжун Ли:** Поэтому, путешественни(ца)(к), я вспомнил о тебе.
+**Чжун Ли:** Поэтому, путешественник, я вспомнил о тебе. / Поэтому, путешественница, я вспомнил о тебе.
 
-**Чжун Ли:** Ты т(а)(от), кто пронзает небеса и пересекает моря звёзд. Запечатлённая в твоей памяти история однажды вместе с тобой перейдёт в другие миры.
+**Чжун Ли:** Ты тот, кто пронзает небеса и пересекает моря звёзд. Запечатлённая в твоей памяти история однажды вместе с тобой перейдёт в другие миры. / Ты та, кто пронзает небеса и пересекает моря звёзд. Запечатлённая в твоей памяти история однажды вместе с тобой перейдёт в другие миры.
 
-**Чжун Ли:** Тако(й)(му) путешественни(це)(ку), как ты, нужно лишь записать, что произошло, и тогда у Тейвата будет что-то вроде запасной копии всех его эпох и событий...
+**Чжун Ли:** Такому путешественнику, как ты, нужно лишь записать, что произошло, и тогда у Тейвата будет что-то вроде запасной копии всех его эпох и событий... / Такой путешественнице, как ты, нужно лишь записать, что произошло, и тогда у Тейвата будет что-то вроде запасной копии всех его эпох и событий...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Так вот зачем ты позвал нас с собой.
 
-- **Путешественник:** Ты взял нас с собой не ради поиска сокровищ?
-
 **Паймон:** Это большая ответственность.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Ты взял нас с собой не ради поиска сокровищ?
 
 **Чжун Ли:** Ха-ха-ха... Когда ты покинешь Тейват, желаю тебе успехов в поиске сокровищ даже среди звёзд.
 
 **Чжун Ли:** Раз уж меня прозвали богом богатства, то эти слова имеют определённый вес.
+
+##### Общее продолжение
 
 **Чжун Ли:** Итак, пора предать соляную чашу и соляную планку морю.
 
@@ -781,11 +921,15 @@
 
 **Чжун Ли:** Это касается и Архонта Вихрей Осиала, который стал узником Нефритового дворца в морских глубинах...
 
+#### Погрузите реликвии в океан
+
 ## EN
 
 ### Shadow of Yore
 
 You and Paimon recognize a familiar face as you come aboard the Pearl Galley...
+
+#### Go to the Pearl Galley
 
 #### Meet Zhongli at the tableside
 
@@ -799,9 +943,15 @@ You and Paimon recognize a familiar face as you come aboard the Pearl Galley...
 
 **Hanxue:** This good sir seems not to appreciate the almighty power of the Lord of Geo. As a professional archaeologist, I am inclined to correct some of his erroneous views.
 
+##### Response branch 1
+
 - **Traveler:** Actually, he is...
 
+##### Response branch 2
+
 - **Traveler:** No one knows better than him...
+
+##### Shared continuation
 
 **Hanxue:** We are discussing the whereabouts of the first Mora.
 
@@ -843,9 +993,15 @@ You and Paimon recognize a familiar face as you come aboard the Pearl Galley...
 
 **Hanxue:** Enough! Do you think you understand the Lord of Geo more than me?
 
+##### Response branch 1
+
 - **Traveler:** Actually, he is...
 
+##### Response branch 2
+
 - **Traveler:** No one knows better than him...
+
+##### Shared continuation
 
 **Zhongli:** I know but little about history and I wouldn't dare to brag. But discussion is meaningless if everyone has the same opinion, no?
 
@@ -859,7 +1015,7 @@ You and Paimon recognize a familiar face as you come aboard the Pearl Galley...
 
 **Hanxue:** Oh... Huh...
 
-It's like you're telling someone else's tale.
+- **Traveler:** It's like you're telling someone else's tale.
 
 **Zhongli:** Hehe, I mean... I am talking about Rex Lapis.
 
@@ -869,9 +1025,15 @@ It's like you're telling someone else's tale.
 
 **Zhongli:** Oh, it's no problem at all. But may my friend accompany us? Perhaps they could be of some help.
 
+##### Response branch 1
+
 - **Traveler:** Who, me?
 
+##### Response branch 2
+
 - **Traveler:** I'm just here for a good story.
+
+##### Shared continuation
 
 **Wanyan:** Of course. They can come if that's what pleases you, sir. Let's go.
 
@@ -899,19 +1061,31 @@ It's like you're telling someone else's tale.
 
 **Wanyan:** Don't worry, please tell me what you know! This event... I have already searched for answers for a long time.
 
-- **Traveler:** You look a bit embarrassed, Zhongli.
+##### Response branch 1
 
-- **Traveler:** Is the story that complicated?
+- **Traveler:** You look a bit embarrassed, Zhongli.
 
 **Zhongli:** No, it's just... Where should I begin?
 
+##### Response branch 2
+
+- **Traveler:** Is the story that complicated?
+
 **Zhongli:** Quite so. I don't know where to begin.
+
+##### Shared continuation
 
 **Kliment:** Over here! Mr. Zhongli, I've been looking for you! Ah, so you're over here all this time.
 
+##### Response branch 1
+
 - **Traveler:** The Fatui?
 
+##### Response branch 2
+
 - **Traveler:** What do you want!? Spit it out!
+
+##### Shared continuation
 
 **Paimon:** Put down your weapon and stay back! Otherwise... Ah... Paimon's reporting you to the Millelith!
 
@@ -929,9 +1103,15 @@ It's like you're telling someone else's tale.
 
 **Zhongli:** So you mean to say that this is work for the Wangsheng Funeral Parlor, yes?
 
+##### Response branch 1
+
 - **Traveler:** What should we do?
 
+##### Response branch 2
+
 - **Traveler:** I think it's best to be cautious.
+
+##### Shared continuation
 
 **Zhongli:** Well since it's work, I don't have a choice. A consultant of the Wangsheng Funeral Parlor must respect their duty.
 
@@ -941,9 +1121,15 @@ It's like you're telling someone else's tale.
 
 **Zhongli:** That will give us a chance to continue the topic we were just discussing. Oh, and you should tag along too, Traveler.
 
+##### Response branch 1
+
 - **Traveler:** Why?
 
+##### Response branch 2
+
 - **Traveler:** I don't really know anything about archaeology.
+
+##### Shared continuation
 
 **Zhongli:** This experience may be of help to you on your future adventures.
 
@@ -965,9 +1151,15 @@ It's like you're telling someone else's tale.
 
 **Kliment:** An ancient artifact would be good, traces of ancient activity would be great, but a piece of the god's limb would be even better... Who knows what surprises we may find...?
 
+**Hanxue:** The Lord of Geo sure is something. Barely been gone and already his name is being slandered.
+
+**Yixuan:** Although we are in the age of humankind, surely we must still show a measure of respect for the gods of the past...
+
 ### Vortex's Wake
 
 After your chance meeting with Zhongli, you learn that a Fatuus named Kliment is trying to organize an archaeological expedition. Zhongli is roped in as a consultant, along with an archaeologist named Wanyan who volunteers for the task. Though you distrust the Fatui, you join up at Zhongli's invitation. The first subject of this investigation is Osial, Overlord of the Vortex.
+
+#### Go to Guyun Stone Forest
 
 #### Talk to the people
 
@@ -1013,6 +1205,16 @@ After your chance meeting with Zhongli, you learn that a Fatuus named Kliment is
 
 **Zhongli:** Okay. If we find anything valuable or rare, let's meet on the shore opposite from here.
 
+#### Use Elemental Sight to search for relics
+
+#### Defeat the opponents and open the chest
+
+#### Continue using Elemental Sight to search for relics
+
+#### Continue using Elemental Sight to search for relics
+
+#### Defeat the mimic monsters and recover the relic
+
 #### Meet up with the other group
 
 **Kliment:** ...You call yourself a scholar of archaeology? You can't even recognize this or that. What are you good for?
@@ -1027,9 +1229,15 @@ After your chance meeting with Zhongli, you learn that a Fatuus named Kliment is
 
 **Wanyan:** I—I've just been researching the God of Salt, so I'm not familiar with sea relics. Is that so strange!?
 
+##### Response branch 1
+
 - **Traveler:** (Hmm, it is a bit strange...)
 
+##### Response branch 2
+
 - **Traveler:** (One shouldn't lack general knowledge in their field...)
+
+##### Shared continuation
 
 **Wanyan:** And you! You kept asking about how much Mora everything is worth! Can the value of relics only be measured in Mora!?
 
@@ -1057,9 +1265,15 @@ After your chance meeting with Zhongli, you learn that a Fatuus named Kliment is
 
 **Kliment:** Nonsense! I'm a professional archaeology researcher from Snezhnaya, I swear. If I'm lying, may the Lord of Geo strike me down!
 
+##### Response branch 1
+
 - **Traveler:** (No, you're trying to get rich off archaeology...)
 
+##### Response branch 2
+
 - **Traveler:** (No, you're trying to collect the strength of the gods...)
+
+##### Shared continuation
 
 **Zhongli:** Oh, by the way. You probably don't want to sell that teacup.
 
@@ -1079,6 +1293,14 @@ After your chance meeting with Zhongli, you learn that a Fatuus named Kliment is
 
 The expedition to investigate Osial in the Guyun Stone Forest came away with slim pickings. Kliment and Wanyan also clashed vociferously over their differing perspectives, which has greatly displeased the former. During the argument, he heard Wanyan mention the tale of the God of Salt, and decided to take the party there to try their luck, lest he finishes this venture empty-handed.
 
+#### Go to Sal Terrae
+
+**Wanyan:** Argh! You're simply a money-grubber!
+
+**Kliment:** And what are you then? All you think about is digging up valuable relics every day!
+
+**Paimon:** They're still arguing? Ugh... let's not bother them...
+
 #### Talk to the people
 
 **Kliment:** I heard that Sal Terrae was once the home of the God of Salt's people. Therefore... hehehe. There are sure to be loads of valuable relics nearby.
@@ -1093,11 +1315,19 @@ The expedition to investigate Osial in the Guyun Stone Forest came away with sli
 
 **Wanyan:** However, the ruin entrance has been sealed by a mysterious power. Nobody has been able to break the seal.
 
+**Wanyan:** I found a mechanism that seemed to be related to the seal. But when I undid the mechanism, the seal wasn't affected at all.
+
 **Wanyan:** So at the moment, the seal's origin and how to break it are very important topics in my research on the God of Salt.
+
+##### Response branch 1
 
 - **Traveler:** Is it related to the God of Salt's people?
 
+##### Response branch 2
+
 - **Traveler:** Is it related to Rex Lapis?
+
+##### Shared continuation
 
 **Wanyan:** I don't know, there's no concrete evidence. But I'm pretty sure the seal is meant to hide some kind of long-forgotten truth.
 
@@ -1125,7 +1355,9 @@ The expedition to investigate Osial in the Guyun Stone Forest came away with sli
 
 **Wanyan:** Okay, since Mr. Zhongli says so... Follow me, then.
 
-**Wanyan:** I found a mechanism that seemed to be related to the seal. But when I undid the mechanism, the seal wasn't affected at all.
+#### Go to the first mechanism
+
+#### Look for a spot from which the picture formed by the relics can be seen
 
 #### Go to the second mechanism
 
@@ -1161,6 +1393,8 @@ The expedition to investigate Osial in the Guyun Stone Forest came away with sli
 
 **Zhongli:** With this clue, you should be able to solve the puzzle.
 
+#### Follow Zhongli's instructions and light the monuments up
+
 #### Go to the site of the broken seal
 
 **Zhongli:** Before entering the ruin, I have a proposal that will help us prevent the kind of senseless arguing between you two that we saw at Guyun Stone Forest.
@@ -1171,7 +1405,7 @@ The expedition to investigate Osial in the Guyun Stone Forest came away with sli
 
 **Zhongli:** To show my sincerity, I won't be taking any treasure — this will just be between you all.
 
-I won't take any either.
+- **Traveler:** I won't take any either.
 
 **Paimon:** Hey! Don't pass an opportunity like this up so easily!
 
@@ -1197,6 +1431,11 @@ I won't take any either.
 
 With the aid of Zhongli's knowledge, you are able to undo the seals, but before entering the ruin, he lays a condition before Wanyan and Kliment: to alternate who gets claim to each treasure encountered, with only one object permitted per claim.
 
+#### Descend into the cave
+
+#### Explore the cave and enter the ruins
+
+#### Explore further and look for divine relics
 
 **Wanyan:** Look at this. It's filled halfway with salt.
 
@@ -1224,6 +1463,7 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 
 **Zhongli:** Then let's move on, shall we?
 
+#### Continue exploring
 
 **Kliment:** Ha, just a simple ruler. Doesn't look to be worth anything.
 
@@ -1245,9 +1485,15 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 
 **Paimon:** Oh boy, here we go again...
 
+##### Response branch 1
+
 - **Traveler:** *sigh*
 
+##### Response branch 2
+
 - **Traveler:** While we're on the topic of "useless" people...
+
+##### Shared continuation
 
 **Zhongli:** So you are saying, you want to break the contract?
 
@@ -1263,6 +1509,8 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 
 **Zhongli:** —Will "suffer the Wrath of the Rock" — you may find it rather unpleasant.
 
+#### Punish Kliment
+
 #### Talk to Zhongli and Wanyan
 
 **Zhongli:** I shall confiscate your treasure as well.
@@ -1273,13 +1521,19 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 
 **Paimon:** Some "archaeological survey..." He could only pretend for so long.
 
-- **Traveler:** At least we had our guard up.
+##### Response branch 1
 
-- **Traveler:** I hope you never become as greedy as him, Paimon.
+- **Traveler:** At least we had our guard up.
 
 **Paimon:** Yeah, good thing Paimon can smell a liar from a mile away.
 
+##### Response branch 2
+
+- **Traveler:** I hope you never become as greedy as him, Paimon.
+
 **Paimon:** Hey! Paimon likes Mora, but Paimon doesn't do bad things!
+
+##### Shared continuation
 
 **Zhongli:** Kliment's wrongdoing stemmed from greed, yes. But besides greed, there are many other things that may tempt us to break contracts.
 
@@ -1307,9 +1561,15 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 
 **Wanyan:** Our ancestors were those protected by the God of Salt all those years ago, when the Archon War engulfed the land in chaos.
 
+##### Response branch 1
+
 - **Traveler:** Come to think of it, I've never heard you say "Rex Lapis..."
 
+##### Response branch 2
+
 - **Traveler:** Hmm, I've never heard you say "Lord of Geo..."
+
+##### Shared continuation
 
 **Paimon:** Oh, right. Now that you mention it, the people of Liyue very seldom use the name "Morax..."
 
@@ -1326,6 +1586,8 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 **Zhongli:** Naturally, of course. But I must add, Liyue is no longer Morax's Liyue.
 
 **Zhongli:** Come with me. All the answers you seek lie ahead.
+
+#### Proceed deeper within
 
 #### Examine the broken sword
 
@@ -1411,13 +1673,19 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 
 **Paimon:** Hey! Heyyy! Come back!
 
-- **Traveler:** That was too much for her to take.
+##### Response branch 1
 
-- **Traveler:** What you said really is true, right?
+- **Traveler:** That was too much for her to take.
 
 **Zhongli:** It is a punishment, after all. I did not want to tell her such cruel facts, but the contract was broken...
 
+##### Response branch 2
+
+- **Traveler:** What you said really is true, right?
+
 **Zhongli:** Indeed. Otherwise, why would I use the truth as punishment? I did not want to tell her such cruel facts, but the contract was broken...
+
+##### Shared continuation
 
 **Zhongli:** Let's follow her deeper into the ruin. There, I fear, we will find something that will leave her no choice but to face the truth.
 
@@ -1469,19 +1737,25 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 
 **Zhongli:** Judging by how she appeared, I fear that she will struggle for a time. But even if she may not escape that struggle immediately, simply recognizing the truth is good enough for now.
 
-- **Traveler:** You seem all too familiar with what happened to the God of Salt.
+##### Response branch 1
 
-- **Traveler:** You didn't just hear rumors about the way to break the seal, did you?
+- **Traveler:** You seem all too familiar with what happened to the God of Salt.
 
 **Zhongli:** Indeed. In ages past, Havria's story served as a warning to me as well.
 
+##### Response branch 2
+
+- **Traveler:** You didn't just hear rumors about the way to break the seal, did you?
+
 **Zhongli:** No, indeed. How sharp of you — yet this is not a matter of wisdom. Only age.
+
+##### Shared continuation
 
 **Zhongli:** Faith in a god who has already passed will do you no good.
 
 **Zhongli:** So it is for Havria, and so it is for Morax also.
 
-The people of Liyue will understand that one day.
+- **Traveler:** The people of Liyue will understand that one day.
 
 **Zhongli:** Alright, then. Now, would you like to accompany me in taking a trip to Guyun Stone Forest?
 
@@ -1505,7 +1779,7 @@ Within the ruins, Kliment and Wanyan each betray the contract in turn for person
 
 **Zhongli:** To leave them here is to let them slumber, and it is also a homecoming...
 
-So, what would you like us to do?
+- **Traveler:** So, what would you like us to do?
 
 **Zhongli:** I ended an era with my own two hands. I have always wondered how I should... remember that which I ended.
 
@@ -1523,15 +1797,21 @@ So, what would you like us to do?
 
 **Zhongli:** As long as a Traveler like you is able to record what happened, then a backup of sorts will exist for times and tides of Teyvat.
 
+##### Response branch 1
+
 - **Traveler:** So that's why you wanted us to come with you.
 
-- **Traveler:** So you didn't just bring me along to find treasure?
-
 **Paimon:** Sounds like tough work.
+
+##### Response branch 2
+
+- **Traveler:** So you didn't just bring me along to find treasure?
 
 **Zhongli:** Hahaha... Well, may you find treasure among the stars, even after you have left Teyvat.
 
 **Zhongli:** Now, I am the God of Wealth, so I would think that my words have some weight here.
+
+##### Shared continuation
 
 **Zhongli:** Now then, it is time that we consigned both the salt chalice and salt ruler to the sea.
 
@@ -1541,11 +1821,19 @@ So, what would you like us to do?
 
 **Zhongli:** This includes Osial, Overlord of the Vortex, who the Jade Chamber most recently returned to this ocean prison...
 
+#### Consign the relics to the ocean
+
 ## ZH
 
 ### 旧日之影
 
+#### 任务记录
+
+**钟离:** 哦，这倒无妨。不过，不知我的这位朋友方便一起来吗？说不定空/荧能提供更多帮助。
+
 行至珠钿舫，你和派蒙偶然认出了一张熟悉的面孔…
+
+#### 前往珠钿舫
 
 #### 与桌边的钟离交谈
 
@@ -1559,9 +1847,15 @@ So, what would you like us to do?
 
 **翰学:** 这位先生，好像轻看了岩王爷的神力。作为专业的考古学家，我想纠正他的一些观点。
 
+##### 对话分支 1
+
 - **旅行者:** 他、他其实…
 
+##### 对话分支 2
+
 - **旅行者:** 也许没人比他更懂…
+
+##### 共同后续
 
 **翰学:** 我们正在讨论，「历史上第一枚摩拉」的下落。
 
@@ -1603,9 +1897,15 @@ So, what would you like us to do?
 
 **翰学:** 得了吧，是你懂岩王爷还是我懂岩王爷？
 
+##### 对话分支 1
+
 - **旅行者:** 他、他其实…
 
+##### 对话分支 2
+
 - **旅行者:** 也许没人比他更懂…
+
+##### 共同后续
 
 **钟离:** 历史之事，我只略通一二，岂敢自诩。但如果观念没有分歧，研讨也就失去了意义。
 
@@ -1619,7 +1919,7 @@ So, what would you like us to do?
 
 **翰学:** 唔、唔…
 
-就像在说别人的故事一样。
+- **旅行者:** 就像在说别人的故事一样。
 
 **钟离:** 呵呵，本来就是岩王帝君的故事啊。
 
@@ -1627,11 +1927,17 @@ So, what would you like us to do?
 
 **宛烟:** 这位先生！那个…我有些考古学方面的问题，想换一个安静的地方，向你请教。不知会不会打扰先生？
 
-**钟离:** 哦，这倒无妨。不过，不知我的这位朋友方便一起来吗？说不定空/荧能提供更多帮助。
+**钟离:** 哦，这倒无妨。不过，不知我的这位朋友方便一起来吗？说不定他能提供更多帮助。 / 哦，这倒无妨。不过，不知我的这位朋友方便一起来吗？说不定她能提供更多帮助。
+
+##### 对话分支 1
 
 - **旅行者:** 我吗？
 
+##### 对话分支 2
+
 - **旅行者:** 就当作来听听故事吧。
+
+##### 共同后续
 
 **宛烟:** 先生都这么说了，那当然欢迎！我们走吧。
 
@@ -1659,19 +1965,31 @@ So, what would you like us to do?
 
 **宛烟:** 没关系，请把你知道的历史都告诉我吧！这件事…这件事，我已经调查很久了！
 
-- **旅行者:** 钟离看起来有点为难。
+##### 对话分支 1
 
-- **旅行者:** 是这么复杂的故事吗？
+- **旅行者:** 钟离看起来有点为难。
 
 **钟离:** 不…只是，该从哪里说起呢。
 
+##### 对话分支 2
+
+- **旅行者:** 是这么复杂的故事吗？
+
 **钟离:** 嗯，不知该从哪里说起。
+
+##### 共同后续
 
 **克列门特:** 哦，在这在这！钟离先生！哎呀，找了好久，没想到你在这里。
 
+##### 对话分支 1
+
 - **旅行者:** 愚人众？！
 
+##### 对话分支 2
+
 - **旅行者:** 老实点！
+
+##### 共同后续
 
 **派蒙:** 放下武器！保持距离！不然…不然我要报告千岩军了！
 
@@ -1689,9 +2007,15 @@ So, what would you like us to do?
 
 **钟离:** 也就是说，是往生堂的工作，对吧。
 
+##### 对话分支 1
+
 - **旅行者:** 怎么办？
 
+##### 对话分支 2
+
 - **旅行者:** 我觉得谨慎一点比较好。
+
+##### 共同后续
 
 **钟离:** 既然是工作，那就没办法了。身为往生堂的客卿，就要尊重这个身份。
 
@@ -1701,9 +2025,15 @@ So, what would you like us to do?
 
 **钟离:** 那刚刚的话题，路上有机会再继续讲吧。对了，旅行者，你也一起来吧。
 
+##### 对话分支 1
+
 - **旅行者:** 为什么？
 
+##### 对话分支 2
+
 - **旅行者:** 其实我不太懂考古。
+
+##### 共同后续
 
 **钟离:** 接下来的经历，或许会对你未来的旅途有所帮助。
 
@@ -1725,9 +2055,15 @@ So, what would you like us to do?
 
 **克列门特:** 古物也好，痕迹也好，要是有一点点魔神肢体的碎片就更好了…总之，说不定能有大收获呢。
 
+**翰学:** 岩王爷，是很了不起的！这才刚刚离去，就有人开始诋毁了…
+
+**逸轩:** 即使进入了「人」的时代，也该对我们曾经的「神」，保持基本的敬畏吧…
+
 ### 漩涡之遗
 
 偶遇钟离之后，你得知愚人众克列门特正在组建考古小队，除了自告奋勇加入的考古学家宛烟之外，钟离也被聘请成为顾问。虽然你信不过愚人众，但在钟离的邀请下，你还是加入了这支考古小队，而你们的第一个调查目标，则是「漩涡之魔神」奥赛尔。
+
+#### 一同前往孤云阁
 
 #### 与众人交谈
 
@@ -1773,6 +2109,16 @@ So, what would you like us to do?
 
 **钟离:** 嗯，如果收集到了什么珍贵或者稀奇的东西，我想想…就到对岸汇合吧。
 
+#### 使用「元素视野」寻找古物
+
+#### 击败周围的敌人，打开宝箱
+
+#### 继续用「元素视野」寻找古物
+
+#### 继续用「元素视野」寻找古物
+
+#### 击败幻形兽，回收古物
+
 #### 与另一队汇合
 
 **克列门特:** …你这也叫考古学家？！这也看不出来，那也不认识，你到底行不行啊！
@@ -1787,9 +2133,15 @@ So, what would you like us to do?
 
 **宛烟:** 我…我一直都在研究「盐之魔神」，对海里的东西不懂，也很正常吧！
 
+##### 对话分支 1
+
 - **旅行者:** （作为学者，确实有点奇怪…）
 
+##### 对话分支 2
+
 - **旅行者:** （专注一个领域，也不该缺乏通识…）
+
+##### 共同后续
 
 **宛烟:** 倒是你，一直在问我这个值多少摩拉、那个值多少摩拉！文物的价值难道就是摩拉吗！
 
@@ -1817,9 +2169,15 @@ So, what would you like us to do?
 
 **克列门特:** 胡说！我是至冬国的专业考古研究员，如假包换！
 
+##### 对话分支 1
+
 - **旅行者:** （不，就是想借考古的名义发财吧…）
 
+##### 对话分支 2
+
 - **旅行者:** （不，是想收集魔神残余的力量吧…）
+
+##### 共同后续
 
 **钟离:** 哦，对了，那个茶杯，最好别卖掉。
 
@@ -1839,6 +2197,14 @@ So, what would you like us to do?
 
 孤云阁一行，关于「漩涡之魔神」奥赛尔的收获寥寥，克列门特和宛烟还因为观念不同发生了激烈的争吵，这都让克列门特很不开心。他在争吵中听到宛烟提起了「盐之魔神」的故事，为了不让此行一无所获，他决定带队前往地中之盐碰碰运气。
 
+#### 一同前往地中之盐
+
+**宛烟:** 你啊！简直掉进钱眼里了！
+
+**克列门特:** 你才是，天天挖文物，脑子里进灰了吧！
+
+**派蒙:** 还、还在吵…我们别打扰了吧…
+
 #### 与众人交谈
 
 **克列门特:** 我听说，「地中之盐」曾经是「盐之魔神」的子民生活的地方，所以，嘿嘿…有价值的文物应该遍地都是吧。
@@ -1853,11 +2219,19 @@ So, what would you like us to do?
 
 **宛烟:** 只不过，这个遗迹的入口，被神秘的力量封印了，一直都没有人能够解开。
 
+**宛烟:** 虽然我找到了一个可能和解封有关的机关，但即便解开了那个，封印还是纹丝不动。
+
 **宛烟:** 所以目前，封印的由来和解除方法，都是「盐之魔神」的研究中，非常重要的课题。
+
+##### 对话分支 1
 
 - **旅行者:** 和子民有关？
 
+##### 对话分支 2
+
 - **旅行者:** 和帝君有关？
+
+##### 共同后续
 
 **宛烟:** 不知道，没有切实的证据。但封印存在的意义，多半是为了隐藏某种事实。
 
@@ -1885,7 +2259,9 @@ So, what would you like us to do?
 
 **宛烟:** 那…既然钟离先生这么说，好吧，那我来带路。
 
-**宛烟:** 虽然我找到了一个可能和解封有关的机关，但即便解开了那个，封印还是纹丝不动。
+#### 前往第一处机关所在地
+
+#### 寻找能完整看到残骸上图案的位置
 
 #### 前往第二处机关所在地
 
@@ -1921,6 +2297,8 @@ So, what would you like us to do?
 
 **钟离:** 有了这些提示，你一定有眉目了吧？
 
+#### 根据钟离提示，点亮附近的方碑
+
 #### 前往封印解除的地方
 
 **钟离:** 在进入遗迹之前，我有个提议，可以避免在孤云阁那样无谓的争吵。
@@ -1931,7 +2309,7 @@ So, what would you like us to do?
 
 **钟离:** 为示诚意，你们选取即可，不用把我列入序列。
 
-我也不用了。
+- **旅行者:** 我也不用了。
 
 **派蒙:** 喂喂喂，这么好的机会，不要放弃得这么快嘛！
 
@@ -1957,6 +2335,11 @@ So, what would you like us to do?
 
 借助钟离的知识，你们顺利地解开了封印，但在进入遗迹之前，钟离向宛烟与克列门特提出了一个契约：「顺次取物，每次一件」。
 
+#### 向下进入洞穴
+
+#### 探索洞穴，进入遗迹
+
+#### 向前探索，寻找魔神古物
 
 **宛烟:** 这个里面，有装了一半的盐。
 
@@ -1984,6 +2367,7 @@ So, what would you like us to do?
 
 **钟离:** 那么，我们继续前进吧。
 
+#### 继续向前探索与寻找
 
 **克列门特:** 哼，一把尺子而已，看起来就没什么用。
 
@@ -2005,9 +2389,15 @@ So, what would you like us to do?
 
 **派蒙:** 他果然还是这么做了…
 
+##### 对话分支 1
+
 - **旅行者:** 唉…
 
+##### 对话分支 2
+
 - **旅行者:** 既然说了这种话…
+
+##### 共同后续
 
 **钟离:** 那也就是，你想破坏「契约」了？
 
@@ -2023,6 +2413,8 @@ So, what would you like us to do?
 
 **钟离:** 「食岩之罚」，你自己感受一下吧…可不会太轻松的。
 
+#### 惩罚克列门特
+
 #### 与钟离和宛烟交谈
 
 **钟离:** 你的收获，也由我没收了。
@@ -2033,13 +2425,19 @@ So, what would you like us to do?
 
 **派蒙:** 说是考古勘探，终于还是装不下去了呢。
 
-- **旅行者:** 幸好早有提防。
+##### 对话分支 1
 
-- **旅行者:** 以后派蒙可别变成他那样。
+- **旅行者:** 幸好早有提防。
 
 **派蒙:** 就是，幸好我已经有敏锐的嗅觉了。
 
+##### 对话分支 2
+
+- **旅行者:** 以后派蒙可别变成他那样。
+
 **派蒙:** 我喜欢摩拉，但我不干坏事！
+
+##### 共同后续
 
 **钟离:** 克列门特的错误，在于贪欲。但在贪欲之外，也还有许多令人想要违背契约的诱惑。
 
@@ -2067,9 +2465,15 @@ So, what would you like us to do?
 
 **宛烟:** 我们的祖辈，就是在魔神战争席卷大陆的苦难时期里，曾受「盐之魔神」庇护的子民。
 
+##### 对话分支 1
+
 - **旅行者:** 说起来，从没听你喊过「帝君」…
 
+##### 对话分支 2
+
 - **旅行者:** 说起来，从没听你喊过「岩王爷」…
+
+##### 共同后续
 
 **派蒙:** 对喔，这样一提醒的话，确实很少有璃月人会把「摩拉克斯」挂在嘴上…
 
@@ -2086,6 +2490,8 @@ So, what would you like us to do?
 **钟离:** 那是自然。而且，璃月已经不再是摩拉克斯的璃月了。
 
 **钟离:** 跟我走吧，一切答案就在前方。
+
+#### 继续深入探索
 
 #### 观察房间内的断剑
 
@@ -2171,13 +2577,19 @@ So, what would you like us to do?
 
 **派蒙:** 喂！喂，别跑啊！
 
-- **旅行者:** 对她来说打击太大了。
+##### 对话分支 1
 
-- **旅行者:** 钟离说的，的确是「真相」吧。
+- **旅行者:** 对她来说打击太大了。
 
 **钟离:** 毕竟，这是惩罚。若非如此，我也不想讲出这么残酷的事。
 
+##### 对话分支 2
+
+- **旅行者:** 钟离说的，的确是「真相」吧。
+
 **钟离:** 嗯，不然也不会把「真相」当作惩罚了。我也不想讲出这么残酷的事。
+
+##### 共同后续
 
 **钟离:** 我们也继续往深处走吧。在那里…恐怕会有，令她无论如何都不得不接受「真相」的东西。
 
@@ -2229,19 +2641,25 @@ So, what would you like us to do?
 
 **钟离:** 看她的模样，恐怕还会继续动摇一阵…不过，即使不能马上解脱，只是认清现实，也还不错。
 
-- **旅行者:** 你对盐之魔神的遭遇太熟悉了。
+##### 对话分支 1
 
-- **旅行者:** 解印的办法，不只是道听途说吧。
+- **旅行者:** 你对盐之魔神的遭遇太熟悉了。
 
 **钟离:** 嗯，在很久很久以前，赫乌莉亚的故事对我来说，也是一份告诫。
 
+##### 对话分支 2
+
+- **旅行者:** 解印的办法，不只是道听途说吧。
+
 **钟离:** 真是敏锐，不过…也只是因为我活得比较长而已。
+
+##### 共同后续
 
 **钟离:** 信仰一位已经逝去的神，实在没有什么好处。
 
 **钟离:** …不论是对赫乌莉亚的信仰，还是对摩拉克斯的信仰，都是一样的。
 
-璃月人总有一天也会明白的。
+- **旅行者:** 璃月人总有一天也会明白的。
 
 **钟离:** 好了。接下来，陪我去一趟「孤云阁」如何？
 
@@ -2265,7 +2683,7 @@ So, what would you like us to do?
 
 **钟离:** 让它们留在这里，既是沉眠，也是返乡…
 
-所以钟离要我做什么呢？
+- **旅行者:** 所以钟离要我做什么呢？
 
 **钟离:** 我亲手终结了一个时代。我一直在想，如何记录那些…被我终结的历史。
 
@@ -2283,15 +2701,21 @@ So, what would you like us to do?
 
 **钟离:** 身为旅行者的你，只要能够「记录」，那么，提瓦特的时代与历史，就获得了一种「存在的备份」…
 
+##### 对话分支 1
+
 - **旅行者:** 原来这才是找我同行的理由。
 
-- **旅行者:** 原来不是为了让我找宝箱啊。
-
 **派蒙:** 任重而道远啊。
+
+##### 对话分支 2
+
+- **旅行者:** 原来不是为了让我找宝箱啊。
 
 **钟离:** 哈哈哈…祝你离开提瓦特以后，在星海之间也能捡到宝箱。
 
 **钟离:** 我有「财富之神」的别号，所以这句话是有效力的。
+
+##### 共同后续
 
 **钟离:** 那么，接下来，就是将「盐盏」与「盐尺」投入海中的时刻了。
 
@@ -2300,3 +2724,5 @@ So, what would you like us to do?
 **钟离:** 刚才我说过吧？这里镇压了很多旧日的魔神。
 
 **钟离:** 也包括被「群玉阁」重锁深海的「漩涡之魔神」，奥赛尔…
+
+#### 将遗物投入海中

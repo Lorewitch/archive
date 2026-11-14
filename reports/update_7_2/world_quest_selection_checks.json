@@ -1,0 +1,737 @@
+{
+  "all_remaining_markdown_byte_exact_to_input_zip": 1684,
+  "removed_source_cards_absent": true,
+  "world_quest_review": {
+    "reviewed": 271,
+    "kept": 209,
+    "removed": 62
+  },
+  "quest_group_counts": {
+    "legend_quests": 58,
+    "world_quests": 209,
+    "archon_quests": 53
+  },
+  "all_surviving_story_parts_equal_previous_built_json": 443,
+  "voiceovers_rebuilt_from_unchanged_already_corrected_markdown": {
+    "characters": 102,
+    "language_blocks": 493,
+    "entries": [
+      {
+        "id": "sigewinne",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "dori",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "ganyu",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "charlotte",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "traveler",
+        "language_blocks_reconciled": 84
+      },
+      {
+        "id": "chevreuse",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "durin",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "beidou",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "shenhe",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "yun_jin",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "mavuika",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "lan_yan",
+        "language_blocks_reconciled": 8
+      },
+      {
+        "id": "mona",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "chongyun",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "columbina",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "sandrone",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "zhongli",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "emilie",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "xiao",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "mitya",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "xiangling",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "wanderer",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "ororon",
+        "language_blocks_reconciled": 7
+      },
+      {
+        "id": "clorinde",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "zibai",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "qiqi",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "freminet",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "kachina",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "kinich",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "bennett",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "eula",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "gorou",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "amber",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "yumemizuki_mizuki",
+        "language_blocks_reconciled": 8
+      },
+      {
+        "id": "illuga",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "xianyun",
+        "language_blocks_reconciled": 7
+      },
+      {
+        "id": "lohen",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "citlali",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "xingqiu",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "navia",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "tighnari",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "jahoda",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "nahida",
+        "language_blocks_reconciled": 7
+      },
+      {
+        "id": "skirk",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "ningguang",
+        "language_blocks_reconciled": 9
+      },
+      {
+        "id": "chiori",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "kuki_shinobu",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "venti",
+        "language_blocks_reconciled": 15
+      },
+      {
+        "id": "kamisato_ayaka",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "kujou_sara",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "fischl",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "faruzan",
+        "language_blocks_reconciled": 7
+      },
+      {
+        "id": "gaming",
+        "language_blocks_reconciled": 7
+      },
+      {
+        "id": "furina",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "keqing",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "lyney",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "sangonomiya_kokomi",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "tartaglia",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "barbara",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "xilonen",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "mualani",
+        "language_blocks_reconciled": 11
+      },
+      {
+        "id": "layla",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "cyno",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "nilou",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "diona",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "nicole",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "dehya",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "iansan",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "klee",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "razor",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "neuvillette",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "baizhu",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "ineffa",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "ifa",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "shikanoin_heizou",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "lisa",
+        "language_blocks_reconciled": 8
+      },
+      {
+        "id": "varesa",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "arlecchino",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "prune",
+        "language_blocks_reconciled": 8
+      },
+      {
+        "id": "jean",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "dahlia",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "albedo",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "hu_tao",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "collei",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "escoffier",
+        "language_blocks_reconciled": 5
+      },
+      {
+        "id": "kaveh",
+        "language_blocks_reconciled": 7
+      },
+      {
+        "id": "sethos",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "sucrose",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "raiden_shogun",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "mika",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "yelan",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "yae_miko",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "kaeya",
+        "language_blocks_reconciled": 8
+      },
+      {
+        "id": "thoma",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "arataki_itto",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "yanfei",
+        "language_blocks_reconciled": 3
+      },
+      {
+        "id": "chasca",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "aloy",
+        "language_blocks_reconciled": 2
+      },
+      {
+        "id": "kamisato_ayato",
+        "language_blocks_reconciled": 6
+      },
+      {
+        "id": "diluc",
+        "language_blocks_reconciled": 1
+      },
+      {
+        "id": "candace",
+        "language_blocks_reconciled": 4
+      },
+      {
+        "id": "xinyan",
+        "language_blocks_reconciled": 9
+      }
+    ]
+  },
+  "all_quest_parts_present_in_three_languages": true,
+  "mandatory_stories": [
+    {
+      "id": "quest_wq_10187",
+      "parts": 5,
+      "source_ids": [
+        77104,
+        77105,
+        77107,
+        77128,
+        77131
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text_unchanged": true
+    },
+    {
+      "id": "quest_wq_10188",
+      "parts": 1,
+      "source_ids": [
+        77160
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text_unchanged": true
+    },
+    {
+      "id": "quest_wq_10255",
+      "parts": 7,
+      "source_ids": [
+        77102,
+        77103,
+        77110,
+        77111,
+        77112,
+        77115,
+        77116
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text_unchanged": true
+    },
+    {
+      "id": "quest_wq_10277",
+      "parts": 10,
+      "source_ids": [
+        77113,
+        77134,
+        77136,
+        77155,
+        77176,
+        77177,
+        77178,
+        77179,
+        77180,
+        77248
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text_unchanged": true
+    },
+    {
+      "id": "quest_wq_10278",
+      "parts": 4,
+      "source_ids": [
+        77145,
+        77146,
+        77192,
+        77205
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text_unchanged": true
+    },
+    {
+      "id": "quest_wq_10279",
+      "parts": 3,
+      "source_ids": [
+        77135,
+        77140,
+        77141
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text_unchanged": true
+    },
+    {
+      "id": "quest_wq_10280",
+      "parts": 2,
+      "source_ids": [
+        77114,
+        77250
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text_unchanged": true
+    },
+    {
+      "id": "quest_wq_10282",
+      "parts": 2,
+      "source_ids": [
+        77100,
+        77101
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text_unchanged": true
+    }
+  ],
+  "unrelated_category_json_and_indexes_byte_exact": true,
+  "style_application_and_source_files_byte_exact": 26,
+  "archon_story_character_quest_markdown_byte_exact": true,
+  "removed_ids_absent_from_every_public_json": 1712,
+  "css_unchanged": true,
+  "browser_visual_check": "Not performed; application JS/CSS and source files are unchanged.",
+  "retained_previous_markdown_count": 1279,
+  "current_new_card_count": 405,
+  "current_total_markdown_count": 1684,
+  "new_image_count_unchanged": 191,
+  "all_current_addition_paths_exist": true,
+  "surviving_quest_unique_source_parts": 903,
+  "retained_source_parts_including_nonpublished_service_parts": 924,
+  "published_parts_match_previous_narrative_audit": true,
+  "voiceover_count": 9330,
+  "total_quest_cards": 320,
+  "automated_tests": {
+    "python": 5,
+    "node": 29,
+    "failed": 0
+  },
+  "validation_commands": [
+    {
+      "command": "python3 tools/check_source.py",
+      "chunk_id": "8815c6",
+      "wall_time_seconds": 2.2900155189999998,
+      "exit_code": 0,
+      "original_token_count": 12,
+      "output": "Проверка конфликтов Git: OK\n"
+    },
+    {
+      "command": "python3 tools/check_archive.py",
+      "chunk_id": "f10424",
+      "wall_time_seconds": 5.3191514699999995,
+      "exit_code": 0,
+      "original_token_count": 29,
+      "output": "Проверка архива: OK (books: 169, artifacts: 63, weapons: 253, items: 476, stories: 443, enemies: 280)\n"
+    },
+    {
+      "command": "python3 tools/check_bot_index.py",
+      "chunk_id": "600510",
+      "wall_time_seconds": 0.514062162,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "Индексы Альтер: OK (состав записей, маршруты, поисковые связи, формат v2/v3)\n"
+    },
+    {
+      "command": "python3 -m unittest discover -s tools -p 'test_*.py'",
+      "chunk_id": "10bf82",
+      "wall_time_seconds": 0.045707182,
+      "exit_code": 0,
+      "original_token_count": 26,
+      "output": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.003s\n\nOK\n"
+    },
+    {
+      "command": "node --test tools/test_client.cjs tools/test_pwa.cjs",
+      "chunk_id": "e5e0a6",
+      "wall_time_seconds": 0.983051342,
+      "exit_code": 0,
+      "original_token_count": 699,
+      "output": "✔ every Alter deep link resolves to its original section, group and entry (729.837644ms)\n✔ opening a different book with fewer volumes displays its first volume (2.859421ms)\n✔ hover and click share one request; failed requests can be retried (2.367151ms)\n✔ the reading cache stays bounded after a long browsing session (2.929898ms)\n✔ a late catalog response cannot replace the newly selected category (2.890518ms)\n✔ character specialty filters and combined weapon filters return matching entries (9.650366ms)\n✔ category counts are available before visiting any category (3.462559ms)\n✔ game text is escaped before Markdown formatting (2.277235ms)\n✔ offline misses are distinguishable from genuinely empty optional categories (7.084717ms)\n✔ the manifest is portable under /archive/, with both regular and maskable install icons (2.196594ms)\n✔ installation saves the shell and catalogs, without downloading every text or Alter indexes (30.168853ms)\n✔ a failed first install never replaces a usable older release (4.719299ms)\n✔ an active release keeps HTML paired with its cached JS until the update is accepted (18.812309ms)\n✔ saved text works offline across HTML cache-version changes, and fresh online text replaces it (4.863025ms)\n✔ HTTP 500 falls back to saved text, while an unknown offline entry stays a distinct error (4.312436ms)\n✔ an authoritative deletion removes both dynamic and precached catalog copies (9.959121ms)\n✔ malformed online JSON cannot poison a valid saved copy (2.030895ms)\n✔ only known empty categories return an empty list offline (3.512394ms)\n✔ offline page reload and deep links keep the archive shell, while other project scopes are untouched (10.108084ms)\n✔ activation preserves saved texts, removes older catalogs, and retains unrelated application caches (1.693257ms)\n✔ first-visit warmup saves an opened text but rejects external, bot and source-file URLs (4.5602ms)\n✔ simultaneous cache writes keep the storage limit and evict the oldest records (7.037392ms)\n✔ storage failures do not interrupt fresh online reading (1.559706ms)\n✔ native installation is offered only after a user clicks, and standalone windows hide the install button (3.090479ms)\n✔ manual installation help closes the mobile menu before opening a focusable dialog (1.337942ms)\n✔ a fresh online response clears the saved-copy status after network recovery (0.822297ms)\n✔ an available update never reloads reading until the user chooses it (0.83121ms)\n✔ returning to About restores native installation, update and offline status (0.934706ms)\n✔ conflicted online HTML cannot replace a usable offline release (20.600113ms)\nℹ tests 29\nℹ suites 0\nℹ pass 29\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 901.446743\n"
+    },
+    {
+      "command": "node --check assets/js/archive.js",
+      "chunk_id": "5ef906",
+      "wall_time_seconds": 0.117181527,
+      "exit_code": 0,
+      "original_token_count": 0,
+      "output": ""
+    },
+    {
+      "command": "node --check sw.js",
+      "chunk_id": "faa4ee",
+      "wall_time_seconds": 3.8809e-05,
+      "exit_code": 0,
+      "original_token_count": 0,
+      "output": ""
+    },
+    {
+      "command": "python3 tools/check_bot_index.py",
+      "chunk_id": "fd61bc",
+      "wall_time_seconds": 0.3425469,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "Индексы Альтер: OK (состав записей, маршруты, поисковые связи, формат v2/v3)\n"
+    },
+    {
+      "command": "python3 tools/check_archive.py",
+      "chunk_id": "7f61d3",
+      "wall_time_seconds": 4.983141296,
+      "exit_code": 0,
+      "original_token_count": 29,
+      "output": "Проверка архива: OK (books: 169, artifacts: 63, weapons: 253, items: 476, stories: 443, enemies: 280)\n"
+    }
+  ],
+  "build_commands": [
+    {
+      "command": [
+        "python3",
+        "tools/build_archive.py"
+      ],
+      "chunk_id": "9901ad",
+      "wall_time_seconds": 1.000859144,
+      "session_id": 61987,
+      "original_token_count": 0,
+      "output": "",
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "tools/prune_bot_index.py"
+      ],
+      "chunk_id": "f1fdb4",
+      "wall_time_seconds": 0.791485206,
+      "exit_code": 0,
+      "original_token_count": 13,
+      "output": "Pruned bot mentions: 1404 entries and 36227 phrases\n"
+    },
+    {
+      "command": [
+        "python3",
+        "tools/build_bot_runtime_index.py"
+      ],
+      "chunk_id": "ae701b",
+      "wall_time_seconds": 0.130538723,
+      "exit_code": 0,
+      "original_token_count": 19,
+      "output": "Built bot runtime index: 1404 entries, 36227 phrases; 5.6 MB (was 14.6 MB)\n"
+    },
+    {
+      "command": [
+        "python3",
+        "tools/bump_cache_version.py"
+      ],
+      "chunk_id": "aa4fd0",
+      "wall_time_seconds": 2.1923e-05,
+      "exit_code": 0,
+      "original_token_count": 5,
+      "output": "Cache version: 794\n"
+    },
+    {
+      "command": [
+        "python3",
+        "tools/build_pwa.py"
+      ],
+      "chunk_id": "e255ec",
+      "wall_time_seconds": 0.417940204,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Built sw.js: release 83b6e284663a1418, 60 offline shell/catalog assets\n"
+    },
+    {
+      "command": "python3 tools/build_bot_mentions_index.py",
+      "exit_code": 0,
+      "output": "Built bot mention index: 1404 entries (books: 169, artifacts: 63, weapons: 253, items: 476, stories: 443), version bot_mentions:8e6cc6ced38e\nBot mention report: signature_aliases=6355, related_terms=14139, related_lookup_terms=6526, signature_lookup_terms=114, mention_phrases=36227, noisy_related_terms=138, broken_entries=0\n"
+    },
+    {
+      "command": "python3 tools/build_bot_runtime_index.py",
+      "chunk_id": "0616a6",
+      "wall_time_seconds": 0.403657582,
+      "exit_code": 0,
+      "original_token_count": 19,
+      "output": "Built bot runtime index: 1404 entries, 36227 phrases; 5.6 MB (was 14.6 MB)\n"
+    },
+    {
+      "command": "python3 tools/build_pwa.py",
+      "chunk_id": "0edbba",
+      "wall_time_seconds": 0.381782149,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Built sw.js: release 83b6e284663a1418, 60 offline shell/catalog assets\n"
+    }
+  ],
+  "verification_scope": "Historical stage before notes removal and world-series metadata update; current verification: final_source_audit.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "exaiphanes_blade",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/exaiphanes_blade.webp",
+  "title": {
+    "ru": "Клинок озарения",
+    "en": "Exaiphanes Blade",
+    "zh": "星锋剑"
+  },
+  "region": "",
+  "rarity": 5,
+  "game_version": "7.0",
+  "tags": [
+    "оружие"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Длинный меч, некогда сиявший светом Бледной звезды. В руках путника он превращается в совершенно новый свет, не имеющий ничего общего с какой-либо из прошлых эпох.\n\n### История\n\nПолон путь встреч и прощаний,\nИ верные спутники мои -\nлишь меч и мечта.\n\nСвет, пусть даже лишь на краткий миг,\nспособен рассечь бескрайнюю тьму.\nИ так свет снизошёл на мир.",
+    "en": "A longsword that once shone with the Pale Star's light. In the voyager's hand, it becomes a brand-new light that has nothing to do with any past era.\n\n### Story\n\nTravels are full of meetings and partings.\nPerhaps the only trusty and inseparable companions of a Traveler,\nAre the sword in their hand and the dream in their heart.\n\nLight, even if it should last but an instant,\nCan shatter the eternal night.\nAnd thus, light descended.",
+    "zh": "曾经闪耀着苍星辉光的长剑。在踏上旅途之人的手中，成为了不属于任何旧时代的崭新光芒。\n\n### 故事\n\n旅途中总是充满了相遇与别离。\n始终不会抛弃旅人的忠实旅伴，\n恐怕只有长剑与远行的梦想了。\n\n光明，纵然只是蓦然的一瞬，\n也足以划破亿兆永劫的暗夜。\n——于是，光就这样降临了。"
+  },
+  "description": {
+    "ru": "Длинный меч, некогда сиявший светом Бледной звезды. В руках путника он превращается в совершенно новый свет, не имеющий ничего общего с какой-либо из прошлых эпох.\n\n### История\n\nПолон путь встреч и прощаний,\nИ верные спутники мои -\nлишь меч и мечта.\n\nСвет, пусть даже лишь на краткий миг,\nспособен рассечь бескрайнюю тьму.\nИ так свет снизошёл на мир.",
+    "en": "A longsword that once shone with the Pale Star's light. In the voyager's hand, it becomes a brand-new light that has nothing to do with any past era.\n\n### Story\n\nTravels are full of meetings and partings.\nPerhaps the only trusty and inseparable companions of a Traveler,\nAre the sword in their hand and the dream in their heart.\n\nLight, even if it should last but an instant,\nCan shatter the eternal night.\nAnd thus, light descended.",
+    "zh": "曾经闪耀着苍星辉光的长剑。在踏上旅途之人的手中，成为了不属于任何旧时代的崭新光芒。\n\n### 故事\n\n旅途中总是充满了相遇与别离。\n始终不会抛弃旅人的忠实旅伴，\n恐怕只有长剑与远行的梦想了。\n\n光明，纵然只是蓦然的一瞬，\n也足以划破亿兆永劫的暗夜。\n——于是，光就这样降临了。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword",
+  "entry_kind": "weapon"
+}

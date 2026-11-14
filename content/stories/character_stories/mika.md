@@ -583,3 +583,935 @@ That day, the Reconnaissance Company's dinner was especially sumptuous. Everyone
 同僚们讶异地发现，两名深渊法师的元素护罩早已残破不堪。看着米卡右腕光彩璀璨的「神之眼」，他们似乎明白了什么…
 
 那一天，游击小队的晚饭格外丰盛，大家都为米卡举杯庆祝，只有米卡本人还惊魂未定，云里雾里。
+
+# voice_source_ids: 80000,80001,80002,80003,80004,80005,80006,80007,80008,80009,80010,80011,80012,80013,80014,80015,80016,80017,80018,80019,80020,80021,80022,80023,80024,80025,80026,80027,80028,80029,80030,80031,80032,80033,80034,80035,80036,80037,80038,80039,80040,80041,80042,80043,80044,80045,80046,80047,80048,80049,80050,80051,80052,80053,80054,80055,80056,80057,80058,80059,80060,80061,80062,80063,80064,80065,80066,80067,80068,80069,80070,80071,80072,80073,80074,80075,80076
+
+## REPLICAS_RU
+
+### Привет...
+
+Представлюсь: Мика, геодезист разведывательного отряда Ордо Фавониус. Для меня большая честь сражаться с тобой плечом к плечу. Если что-то понадобится, дай мне знать, я всегда к твоим услугам... Постараюсь разведать маршрут и выяснить всю информацию о противнике!
+
+### Поболтаем: Цель
+
+Надо всегда быть готовыми к бою... Новое задание может появиться в любой момент.
+
+### Поболтаем: Отчёт о текущем положении
+
+Нужно уточнить наше местоположение, измерить расстояние до цели... Ну вот, отчёт о текущем положении готов.
+
+### Поболтаем: Разведка маршрута
+
+Где бы ты ни оказался, тщательная разведка всегда поможет тебе проложить безопасный маршрут. / Где бы ты ни оказалась, тщательная разведка всегда поможет тебе проложить безопасный маршрут.
+
+### Когда идёт дождь...
+
+Надо же, какой дождь... Надеюсь, дорога не раскиснет, иначе придётся чистить сапоги всему отряду, а на готовку времени не останется.
+
+### Когда гремит гром...
+
+Гром - лучший друг разведчиков, он маскирует звук наших шагов.
+
+### Когда идёт снег...
+
+Сугробы приятны глазу, но они скрывают рельеф местности, за это я не люблю снег.
+
+### Когда светит солнце...
+
+Мягкий солнечный свет создаёт отличную видимость... И настроение сразу улучшается!
+
+### Когда дует сильный ветер...
+
+Ну и ветер... Может, это Анемо Архонт подаёт нам знак? Или просто особенность рельефа...
+
+### Доброе утро...
+
+О, доброе утро! Я приготовил обычный завтрак, какой готовлю в экспедициях. Пожалуйста, угощайся! Если не возражаешь, за едой можем обсудить сегодняшний план действий.
+
+### Добрый день...
+
+Подожди минутку, еда почти готова! Сегодня в меню обед номер три - любимое полевое угощение разведывательного отряда. А как пообедаем, я посмотрю, нет ли рядом подходящего места, чтобы прилечь после еды.
+
+### Добрый вечер...
+
+Ужин готов! Конечно, у нас тут полевая кухня, без изысков... Зато все блюда очень питательны - надеюсь, ты не откажешься. Если нужно привести в порядок оружие или снаряжение, я обо всём позабочусь.
+
+### Спокойной ночи...
+
+Пока не наступила ночь, мне нужно закончить отчёт о сегодняшних изысканиях. Я поставил раскладушки, почему бы тебе не поспать? Отдохнёшь немного, я к тому времени приготовлю ночной перекус. Тогда и сменишь меня на дежурстве.
+
+### О Мике: Работа
+
+Гм... В чём заключается работа геодезиста? Я должен первым разведывать неизвестные территории, выяснять рельеф местности, определять выгодные позиции. Иногда мне также приходится иметь дело с дозорными неприятеля, поэтому я должен уметь не только картографировать рельеф, но ещё вести бой, оказывать первую помощь и обладать всеми необходимыми навыками для выживания в полевых условиях.
+
+### О Мике: Мелочи жизни
+
+Кто-то ведь должен ставить палатки, разводить костры, готовить еду, приводить в порядок снаряжение. Если другим членам отряда не хочется тратить время на все эти мелочи, а я худо-бедно с ними справляюсь, значит, я должен помочь... И дать товарищам немного отдыха.
+
+### О нас: Слухи
+
+Ой, извини... Вернувшись в Мондштадт, я слышал о ваших подвигах. У таких сильных воинов, как вы с Паймон, должен быть свой особый кодекс чести. Некоторые силачи отличаются вспыльчивым нравом, я боюсь сказать что-нибудь не то и разозлить их... Хорошо, что вы с Паймон такие добрые, с вами мне можно не волноваться!
+
+### О нас: Кодовые слова
+
+Некоторые разведчики используют кодовые слова: «Октавий» означает, что стрелы на исходе и пора возвращаться в лагерь... А слово «Вера» расшифровывается так: «Условия хорошие, можно начинать бой». Слушай, а может, нам с тобой тоже придумать какие-нибудь кодовые слова? Это пригодится, особенно если мы будем долго работать вместе. Предлагай, я соглашусь с любой твоей идеей!
+
+### Глаз Бога...
+
+Честно говоря, я сам очень удивился, получив Глаз Бога. Он и правда здорово мне помогает, но я не могу полностью полагаться на его силу. Для меня Глаз Бога скорее средство на экстренный случай. Как рыцарь ордена я должен уделять больше внимания работе в команде и помогать товарищам преодолевать трудности.
+
+### Давай поделимся...
+
+Есть простой способ определить расстояние до объекта, он может оказаться тебе полезным: вытяни руку и наведи большой палец на цель. Сначала совмести ось правого глаза с большим пальцем и левой стороной мишени, потом - ось левого глаза с большим пальцем и правой стороной мишени и умножь расстояние между двумя сторонами на коэффициент... Этот трюк поможет тебе определить высоту горы или ширину реки, понять, можно ли одним махом взобраться на вершину или доплыть до другого берега.
+
+### Интересные вещи...
+
+Кли говорила, что на свете есть растения, которые умеют передавать звуки. Если бы такое растение можно было брать с собой... Тогда я мог бы отправлять в штаб отчёты о местности в режиме реального времени - мало того, я посылал бы с передовой распоряжения остальным товарищам, чтобы они вовремя прикрывали меня стрелами.
+
+### О Кэйе...
+
+Чтобы попасть в орден, мне пришлось пройти множество испытаний. И старшим экзаменатором был как раз капитан Кэйа. Капитан Кэйа всё время поддерживал меня, он дал мне много советов... Но иногда я почти не понимал, что он хочет сказать, боялся, что плохо справляюсь. Так не хотелось его разочаровать.
+
+### О Варке: Наставления
+
+Магистр Варка - сильный командир, пользующийся общим уважением, а ещё - мой личный боевой инструктор. Он сказал, что для ближнего боя мне не хватает роста и силы, поэтому моими главными помощниками должны стать быстрая реакция, копьё и арбалет. Должен сказать, такой стиль боя мне подходит гораздо больше.
+
+### О Варке: Капитано
+
+Магистр сказал, что мне нужно ставить перед собой по-настоящему высокие цели и непрерывно стремиться к их достижению. Я старался, но только в экспедиции понял, насколько это важно... Однажды нам встретился Предвестник Фатуи по имени Капитано. Я даже не представляю, как можно одолеть такого противника. Просто... Мир сильных воинов от меня пока слишком далёк...
+
+### О Джинн...
+
+Заместитель... то есть действующий магистр - сильный и надёжный лидер, который никогда не забывает о своих подчинённых. Мне остаётся столькому у неё научиться: организации работы, оказанию первой помощи, а ещё кулинарии...
+
+### Об Эмбер...
+
+Командир Эмбер... На передовой не встретишь человека надёжней, она настоящий мастер своего дела! Задачи геодезистов и скаутов схожи, ведь те и другие действуют на передовой. У Эмбер большой опыт, и я научился у неё многим навыкам выживания, а ещё тонкостям ухода за тетивой и стрелами арбалета.
+
+### Об Эоле: Задания
+
+Капитан Эола - сильный воин с уникальным боевым стилем, и она всегда очень обо мне заботилась. Как только меня приняли в орден, она сразу нагрузила меня задачами. Работы было в несколько раз больше, чем у других рыцарей, и это помогло мне быстро адаптироваться к новой жизни. Если привыкнуть к манере общения капитана Эолы, с ней становится очень приятно иметь дело!
+
+### Об Эоле: Манера держаться
+
+Я восхищаюсь капитаном Эолой, правда. Она дружелюбна, имеет непринуждённые манеры и обладает невероятной внутренней силой. Если бы люди всё время на меня странно косились, шептались у меня за спиной, я бы вообще из дома не выходил.
+
+### О Лизе...
+
+Когда я учился картографированию, библиотекарь Лиза всё время мне помогала. Она отыскала для меня множество полезных книг. Вот бы мне её эрудицию... Знаний много не бывает, любые знания однажды оказываются полезны.
+
+### О Кли...
+
+Кли? Она очень весёлая, а ещё... Говорят, силой она не уступает самому магистру. Она несколько раз брала меня с собой на поиски приключений, и мы прекрасно проводили время вместе! Правда, случалось, что она устраивала опасные эксперименты с оружием, и мне даже приходилось править свои карты... Но всё равно - оно того стоило!
+
+### О Венти...
+
+Мне нравится этот бард, у него настоящий талант к музыке, и его песни всегда наполняют душу теплом, как если бы я вернулся домой. Попроси меня назвать песню, в которой заключён дух Мондштадта, и я выберу какую-нибудь из песен Венти. Жаль, я редко бываю в городе, иначе бы каждый день приносил ему подарки...
+
+### Об Альбедо...
+
+Главный алхимик был очень добр ко мне, и помог изготовить всё геодезическое оборудование, которое я использую в полевых условиях... А ещё подарил чертёжное перо, которым можно пользоваться, даже если висишь вниз головой на дереве. Правда, рисование оказалось совсем не похоже на картографию. Я как-то попробовал сделать несколько этюдов, надеясь дополнить ими собранную на местности информацию. Говорят, увидев мои этюды, капитан Альбедо долго молчал...
+
+### Узнать больше о Мике I
+
+Гм... Рассказать о себе? Я самый обычный человек, ничего интересного. Могу разве что рассказать немного о своём прошлом. Хочешь послушать?
+
+### Узнать больше о Мике II
+
+С самого детства я мечтал стать картографом и нанести на карту каждый уголок Тейвата. И только потом узнал, что в ордене как раз имеется такая должность. Благодаря поддержке отца и брата я смог пройти отбор и стать геодезистом на передовой. Теперь моя мечта сбылась, а большего и желать нельзя.
+
+### Узнать больше о Мике III
+
+Все рыцари ордена по-своему сильны, у каждого есть чему научиться. Благодаря товарищам из ордена у меня появилось много новых умений, и теперь я должен отблагодарить своих учителей: если кому-то нужна моя помощь, я никогда не отказываю.
+
+### Узнать больше о Мике IV
+
+Правда... После того как я выполнил несколько поручений магистра Варки и капитана Эолы, некоторые рыцари стали считать меня кем-то вроде личного посыльного магистра и капитана. И любая моя оговорка может принести командованию ненужные проблемы. Поэтому, оказавшись в не совсем знакомой компании, я чувствую себя немного скованно. И все думают, что я просто трус. Вот такое недоразумение.
+
+### Узнать больше о Мике V
+
+Знаешь, после экспедиции я перестал беспокоиться о мелочах. Пока я никому не добавляю проблем, люди могут думать обо мне всё, что хотят, я не возражаю. Орден - моя вторая семья, я должен безупречно делать свою работу, чтобы остальные рыцари на заданиях чувствовали себя в безопасности, чтобы в жизни моих товарищей было меньше тревог и забот...
+
+### Хобби Мики...
+
+Хобби?.. Что я люблю, кроме работы... Наверное, устраивать ночёвки в незнакомых местах. Полюбоваться новым пейзажем, разбить уютный лагерь, развести костёр, приготовить ужин. Что может быть лучше?
+
+### Беспокойство Мики...
+
+Честно говоря, я плохо умею заводить беседу с незнакомыми людьми. Наверное, разговоры - не самая сильная моя сторона. Можешь дать мне несколько советов, как расположить к себе незнакомца?
+
+### Любимая еда...
+
+Магистр говорит, молодым людям нужно есть больше мяса, мясо укрепляет силы и увеличивает выносливость. Вряд ли я когда-нибудь стану мускулистым силачом, но мясо очень люблю, и остальные члены разведывательного отряда разделяют моё пристрастие.
+
+### Нелюбимая еда...
+
+В отличие от брата, я не выношу вкус вина. С первого же глотка пьянею до беспамятства, и товарищам приходится со мной возиться. А если вино особенно крепкое, одного запаха из открытой бутылки достаточно, чтобы у меня закружилась голова.
+
+### Подарок I
+
+Спасибо! Но мне жаль набивать таким драгоценным блюдом желудок! Ты позволишь мне его сохранить?
+
+### Подарок II
+
+Отменный вкус, а какая большая порция... Я доставил тебе много хлопот!
+
+### Подарок III
+
+Уф... ну, раз уж ты приготовил это для меня... постараюсь всё съесть. / Уф... ну, раз уж ты приготовила это для меня... постараюсь всё съесть.
+
+### День рождения...
+
+Как обычно говорят... Эм... Сегодня особенный день! И его нужно провести так, чтобы он по-настоящему запомнился! Я составил для тебя «Путеводитель по самым прекрасным пейзажам Мондштадта», в нём собрана информация о разных красивых местах, которые пока почти никому не известны. Желаю, чтобы каждый твой день был полон радости, сегодня и всегда!
+
+### Чувство возвышения: Начало
+
+Мне до тебя ещё расти и расти, но сейчас я чувствую себя намного увереннее. По крайней мере, не принесу тебе лишних забот.
+
+### Чувство возвышения: Нарастание
+
+Надеюсь, что смогу снабдить тебя полезной информацией и снять часть груза с твоих плеч!
+
+### Чувство возвышения: Кульминация
+
+Позволь мне... всегда быть рядом! Исследовать эту землю вместе с тобой!
+
+### Чувство возвышения: Окончание
+
+Спасибо! Теперь я приблизился к своей цели - обеспечить команде безопасное продвижение вперёд, чтобы никто не страдал от усталости из-за неудобного маршрута и не боялся попасть в западню!
+
+### Элементальный навык I
+
+Сдерживание обстрелом.
+
+### Элементальный навык II
+
+Разведка боем.
+
+### Элементальный навык III
+
+Последнее предупреждение.
+
+### Элементальный навык IV
+
+Меткий выстрел!
+
+### Элементальный навык V
+
+Прошу прощения!
+
+### Элементальный навык VI
+
+Устранение угрозы!
+
+### Взрыв стихии I
+
+Не падайте духом, друзья!
+
+### Взрыв стихии II
+
+Я позабочусь о раненых!
+
+### Взрыв стихии III
+
+Это наш шанс!
+
+### Запуск планера I
+
+Я посмотрю сверху...
+
+### Открытие сундука I
+
+Быть разведчиком не так уж и плохо!
+
+### Открытие сундука II
+
+Какие есть трофеи?
+
+### Открытие сундука III
+
+Нам здорово повезло! Тут сокровища!
+
+### Низкий уровень HP I
+
+Возникли небольшие трудности...
+
+### Низкий уровень HP II
+
+Нам стоит сменить тактику?
+
+### Низкий уровень HP III
+
+Противник слишком... силён...
+
+### Низкий уровень HP компаньона I
+
+Отступай, я прикрою!
+
+### Низкий уровень HP компаньона II
+
+Здесь нужен врач...
+
+### Без сознания I
+
+Надо было... идти кружным путём...
+
+### Без сознания II
+
+Я виноват...
+
+### Без сознания III
+
+Всё... я всё испортил...
+
+### Получен лёгкий удар I
+
+Я держусь!
+
+### Получен лёгкий удар II
+
+Всё в порядке!
+
+### Получен тяжёлый удар I
+
+Не больно... Нет...
+
+### Получен тяжёлый удар II
+
+Без паники...
+
+### Присоединяется к группе I
+
+Позвольте мне проверить ваше снаряжение... Так, всё в порядке.
+
+### Присоединяется к группе II
+
+Моё копьё и арбалет к вашим услугам!
+
+### Присоединяется к группе III
+
+Я... я буду прокладывать маршрут!
+
+### О Лоэне...
+
+Вы не видели Лоэна? Кажется, мы перепутали блокноты, а он куда-то пропал... Эх... Наверняка снова один пошёл сражаться с монстрами, хотя я просил его этого не делать. Если бы я тоже был капитаном... может, он бы меня слушался... хотя, может, и нет...
+
+## REPLICAS_EN
+
+### Hello
+
+Mika, Front-Line Land Surveyor, Knights of Favonius Reconnaissance Company, reporting in. It's an honor to fight alongside you. If there's anything I can do to support you, just let me know and I'll get to it right away. Anyway, I'll make every effort to navigate us safely and report accurate intel on the enemy!
+
+### Chat: Staying on Target
+
+We'd better stay battle ready... Our next mission could start at any time.
+
+### Chat: Situation Report
+
+Verifying our current position, measuring distance to target area... Alright, I've recorded the terrain conditions.
+
+### Chat: Establishing a Route
+
+No matter what kind of environment you may find yourself in, with thorough reconnaissance, you should be able to establish a safe route.
+
+### When It Rains
+
+Ahh, the rain is really coming down... let's just hope the conditions out here won't get too muddy. Otherwise, I'll need to help everyone clean their boots, and there won't be enough time to prepare a meal...
+
+### When Thunder Strikes
+
+Thunder can mask the sound of movement, which is why it's our friend.
+
+### When It Snows
+
+Freshly fallen snow may be beautiful, but it masks the more nuanced features of terrain, which can be a pain.
+
+### When the Sun Is Out
+
+The sun is out and visibility is excellent... Perfect conditions for observation. Couldn't ask for anything better!
+
+### When the Wind Is Blowing
+
+Huh... Could this wind be a sign from the Anemo Archon? Or is it just a result of the terrain's effects on the atmosphere...
+
+### Good Morning
+
+Oh, good morning! ...I prepared the breakfast we usually eat in the expeditionary force. If you don't mind, maybe you could tell me our plan of action for today while you eat.
+
+### Good Afternoon
+
+Oh, please wait a moment, our meal's almost ready! Field ration no.3 — it's the Reconnaissance Company's favorite. I'll check the nearby area again shortly to see if there are any suitable places for a short rest.
+
+### Good Evening
+
+Dinner's served! Although it's just some basic field rations, it should still have all the nutrients you need. Please, dig in... If you have any equipment that needs maintenance, you can also give them to me.
+
+### Good Night
+
+It's getting late, and I need to get the day's survey records in order. The camp beds are ready, so why don't you have a rest? After you've recovered your energy, our midnight snack should also be ready, and we can trade posts.
+
+### About Mika: Work
+
+Hmm? What's a Front-Line Land Surveyor? Well, my duty is to scout ahead into unknown territory, survey the terrain, and identify key locations. Sometimes, we also have to deal with enemy sentries, so in addition to being able to map out the terrain, I also have to stay combat ready, know first aid, and have strong survival skills...
+
+### About Mika: Mundane Tasks
+
+Making camp, starting a fire, cooking food, and maintaining equipment... these are all essential tasks that must be done. If the others dislike such duties, and if I can uh, manage them to a satisfactory degree, then the least I can do is to help out... That way, everyone can have a breather and relax a little...
+
+### About Us: Rumors
+
+Ah, sorry... I heard all about you when I first arrived back in Mondstadt. Super powerful people like you and Paimon usually have some kind of strict personal code. Since many super powerful people would also have a bad temper, I was afraid that if I misspoke, you might get upset. But luckily, you two are really nice, and I have nothing to worry about!
+
+### About Us: Speaking in Code
+
+Some forward scouts will use the word "Octave" to indicate that they've run out of arrows and are returning to camp... Or "Vera" to mean "the conditions are good, we should engage the enemy"... Hey, why don't we also come up with some code words? It'll come in handy, especially if we'll be working together long term. Go ahead, I'm good with any of your ideas!
+
+### About the Vision
+
+To be honest, even I was amazed that I managed to receive a Vision. It's really come in handy, but I shouldn't completely rely on its powers. Instead, I prefer to think of it as a sort of safeguard to use in case something happens. As a member of the Knights of Favonius, I should place more importance on team cooperation, and come up with ways to overcome difficulties together with my teammates.
+
+### Something to Share
+
+Here's a simple survey trick that you might find useful... Stretch out your arm, and raise your thumb towards the target area. Align your right eye's line of sight and your thumb to the left side of the target, and your left eye to the right side of the target, and multiply the distance between the two sides by the right multiplier... You can use this trick to estimate the height of a mountain and whether it's climbable, or the width of a river and whether you can swim across.
+
+### Interesting Things
+
+I heard Klee mention that there's a type of plant that can relay sound... if only we could somehow carry this plant with us in the field. That way, I could instantly report back about the terrain... I could even stay near the front lines and guide our rear forces to attack enemy targets from afar with volleys of arrows.
+
+### About Kaeya
+
+Before joining the Knights, I had to take a number of exams. Captain Kaeya was the main person in charge of all the testing. He was really supportive, and gave me all kinds of tips, but sometimes, I would struggle to understand what he was saying... I would get worried that I was not keeping up with his pace, and that I was letting him down...
+
+### About Varka: Instruction
+
+Grand Master Varka is not only a strong leader who commands respect, but also my personal combat instructor. He taught me to think on my feet and avoid engaging enemies at close combat to make up for my small stature and relative lack of stamina. Following his advice, I learned how to fight with a polearm and crossbow, and I must say, this fighting style is far more suitable to me.
+
+### About Varka: The Captain
+
+The Grand Master said that I need to set higher goals for myself, and strive to achieve them. I've always had that kind of attitude, but it wasn't until I was on the expedition that I realized how serious things can become... One day, I met the Fatui Harbinger known as The Captain. I can't even begin to imagine how I can deal with an opponent like him. I just... Such powerful people are really on a level of their own, I'm not even remotely close...
+
+### About Jean
+
+The Deputy... I mean, the Acting Grand Master is a strong and considerate leader who always makes me feel at ease. She's always out there looking after all of us. Whether it's organizing work, rendering first aid, or cooking delicious meals, there's so much I can learn from her...
+
+### About Amber
+
+Oh? Amber the Outrider? She's the most reliable vanguard, and has amazing reconnaissance skills! The roles of Front-Line Surveyors and the Outriders are similar given that we both operate ahead of the main force. Amber has a lot of experience, and I've learned a lot of survival skills from her, as well as how to better maintain my crossbow strings and arrows.
+
+### About Eula: Tasks
+
+Captain Eula is a strong fighter with a combat style of her own, and she's always looked out for me. When I first joined the company, she assigned me a variety of tasks, way more than what other members had, and that quickly improved my ability to adapt. Once I grew accustomed to the way she expresses herself, I was able to work together with her just fine!
+
+### About Eula: Daily Conduct
+
+Actually, I really admire Captain Eula. She is friendly and free-spirited, and her mental fortitude is out of this world. If other people gave me strange looks all the time and talked behind my back like they do about her, I don't think I'd be able to leave my room...
+
+### About Lisa
+
+Our librarian Lisa had always offered her help when I was first teaching myself how to draw maps. She even found a bunch of useful books for me to study. *sigh* If only I could be as well-learned as she is... After all, it never hurts to have more knowledge, and you never know when you might need it...
+
+### About Klee
+
+Oh? Klee? She's super cheerful, and I've heard that... she's as strong as the Grand Master himself. She's invited me to go on adventures with her before, and we always had a great time together! Although she would experiment with dangerous weapons from time to time, which means I've had to revise my maps on several occasions... But I still feel it's worth it!
+
+### About Venti
+
+I really like that bard... He's a very talented performer, and his melodies always seem to make me feel at home. If I had to pick a tune that best represents Mondstadt, it'd definitely be one of his. It's too bad that I'm not often in the city, otherwise, I could bring him some gifts every day...
+
+### About Albedo
+
+The Chief Alchemist has been very kind to me. He helped me make all the survey equipment I use in the field... I even have some pens he made that will work even when I'm hanging upside down from a tree. But it seems that making artistic sketches is quite different from making maps. I've tried to make some sketches of a target area as supplemental intel before, and word has it that Captain Albedo went silent for a long time when he saw them...
+
+### More About Mika: I
+
+Hmm? You want to know more about me? Well, I'm just an ordinary person, so I don't really have any interesting stories... I guess all I could talk about is my experiences, would you be willing to hear about that?
+
+### More About Mika: II
+
+Ever since I was a kid, I've wanted to become a cartographer, and map out every corner of Teyvat. It's only later on that I discovered the Knights of Favonius actually have that kind of role. Thanks to my father and brother's support, I was able to make it through the selection process and become a Front-Line Surveyor. This job has let me live out my dreams, and it's already brought me lots of fulfillment.
+
+### More About Mika: III
+
+Everyone in the Knights of Favonius is really strong, and I feel like there's something I could learn from each member. After gaining new skills from everyone, I should also do my best to return the favor. So if there's anything the others need help with, then I'll do my best to make that happen.
+
+### More About Mika: IV
+
+It seems like... after I assisted the Grand Master and Captain Eula a few times with their errands, some members of our group have begun to see me as their official messenger. If I ever misspoke, it would cause trouble for our leaders, and the blame would be all mine. So, whenever I am around others I'm unfamiliar with, I often try to only comment on things I'm absolutely confident in, which makes everyone think I'm timid. But would you say this whole situation is just a sort of misunderstanding?
+
+### More About Mika: V
+
+You know, one good thing after coming back from the expedition is that I don't feel so worried anymore. As long as I'm not causing trouble for anyone else, then I don't really mind what anyone might think of me. The Knights of Favonius is like my second family, and I've got to master my work as a Front-Line Surveyor. My hard work can let everyone finish their tasks more smoothly and end their days with just that much less to worry about...
+
+### Mika's Hobbies
+
+Oh? My hobbies? ...I guess my favorite thing would be camping out in unknown territory. Just taking in the fresh scenery, making a cozy little camp, starting a bonfire and making some food. It really brings me happiness!
+
+### Mika's Troubles
+
+To be honest, I'm not too good at dealing with people I'm not familiar with. Maybe it's because I'm not really good at holding a conversation. Can you give me some pointers in that area?
+
+### Favorite Food
+
+The Grand Master said that a youngster like me needs to eat more meat, which will build more strength and physical stamina. Even though there's little chance I'll ever get really buff. I do like eating meat dishes. The others in the Reconnaissance Company seem to share this taste as well.
+
+### Least Favorite Food
+
+Unlike my brother, I can't stand the taste of alcohol. All it takes is one sip and I'd be out cold, and the others would have to go out of their way to take care of me. Even just the smell of a strong drink being opened is enough to make me dizzy.
+
+### Receiving a Gift: I
+
+Thanks so much... this is such a marvelous dish, I would feel terrible using it just to fill my stomach! Can I put it away for storage?
+
+### Receiving a Gift: II
+
+The taste and portions are both incredible. You really went the extra mile for me.
+
+### Receiving a Gift: III
+
+Ugh... well, since you went to the trouble of making this for me. I promise I'll finish it.
+
+### Birthday
+
+Oh, what should we do for an occasion like this? Hmm... Today is your most special day, so we should really live it up! I've prepared "A Tour of Mondstadt's Most Stunning Spots." It contains information on lots of beautiful locations that are hardly known to anyone else. I wish you happiness every day until this day arrives again next year.
+
+### Feelings About Ascension: Intro
+
+Even though I'm still miles behind you, I'm feeling a little more confident now. At least, I won't end up dragging you down again.
+
+### Feelings About Ascension: Building Up
+
+I hope I'll be able to provide more useful intelligence, and help take some weight off of your shoulders!
+
+### Feelings About Ascension: Climax
+
+Please allow me to always travel alongside you, and survey the land around us!
+
+### Feelings About Ascension: Conclusion
+
+Thank you so much! With this, I am now so much closer to my goal — allowing everyone to advance safely and navigate through rough terrain without any fear of fatigue or potential danger!
+
+### Elemental Skill: I
+
+Providing cover fire.
+
+### Elemental Skill: II
+
+Engaging.
+
+### Elemental Skill: III
+
+Final warning.
+
+### Elemental Skill: IV
+
+Precision strike!
+
+### Elemental Skill: V
+
+You had your chance!
+
+### Elemental Skill: VI
+
+Neutralizing threats!
+
+### Elemental Burst: I
+
+Let's keep going, team!
+
+### Elemental Burst: II
+
+Leave the wounded to me!
+
+### Elemental Burst: III
+
+Now's our chance!
+
+### Deploying Wind Glider: I
+
+I'll be the eyes above...
+
+### Opening Treasure Chest: I
+
+Scouting ahead has its benefits!
+
+### Opening Treasure Chest: II
+
+What do we have here?
+
+### Opening Treasure Chest: III
+
+Treasure located. Good work, everyone!
+
+### Low HP: I
+
+This is... a tight spot...
+
+### Low HP: II
+
+Should we reconsider our tactics?
+
+### Low HP: III
+
+The enemy is... quite strong.
+
+### Ally at Low HP: I
+
+Fall back, I'll cover you!
+
+### Ally at Low HP: II
+
+You need medical attention...
+
+### Fallen: I
+
+Should have... tried to flank them...
+
+### Fallen: II
+
+I'm sorry... everyone...
+
+### Fallen: III
+
+No... I blew it...
+
+### Light Hit Taken: I
+
+Hang in there!
+
+### Light Hit Taken: II
+
+I'll be alright!
+
+### Heavy Hit Taken: I
+
+I'm fine... really!
+
+### Heavy Hit Taken: II
+
+Keep your cool...
+
+### Joining Party: I
+
+Let me double check our equipment... alright, everything's ready.
+
+### Joining Party: II
+
+My lance and crossbow are prepped and ready.
+
+### Joining Party: III
+
+I—I'll take point and scout ahead!
+
+### About Lohen
+
+Have you seen Lohen? I just realized our notebooks got switched, and I don't know where he went. *sigh* I bet he rushed off to fight a bunch of monsters on his own, even though I warned him not to. If I were a captain too, then maybe he'd listen to me... Then again, maybe he wouldn't...
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+西风骑士团游击小队所属，前进测绘员米卡，向你报到。与你并肩作战是我的荣幸，请随意差遣我吧…我会竭尽全力，为你探清前路，查明敌情！
+
+### 闲聊·目标
+
+赶快调整好状态，不知道下个任务什么时候会来。
+
+### 闲聊·记录状况
+
+核对当前位置、向目标扇区测距…嗯，地理状况记录完毕。
+
+### 闲聊·探明道路
+
+无论处在什么环境里，只要仔细探索，应该都可以找到通畅的道路。
+
+### 下雨的时候…
+
+好大的雨…希望地面不要变得泥泞，不然就要帮大家擦靴子了…做饭的时间要不够了。
+
+### 打雷的时候…
+
+雷声可以掩盖行动的声响，是我们的好朋友。
+
+### 下雪的时候…
+
+积雪很漂亮，但又会把原来的地貌覆盖掉，我不太喜欢。
+
+### 阳光很好…
+
+阳光柔和，视距充足，观察条件良好。嗯，心情真舒畅！
+
+### 刮大风了…
+
+这风…是出自风神的旨意，还是地形对大气的作用呢？
+
+### 早上好…
+
+哦！早啊，我准备了远征队常吃的早饭，不介意的话，请一边用餐，一边和我说说今天的行动计划吧？
+
+### 中午好…
+
+请稍等，游击小队最爱的三号野战午餐很快就准备好。待会儿我再看看，附近有没有适合午休的地方。
+
+### 晚上好…
+
+晚饭完成了，虽然还是行军餐，有点简陋…但提供的营养肯定管够，请不要介意…如果有需要维护的装备，也请交给我吧。
+
+### 晚安…
+
+时间还早，我要整理一下今天的勘测记录。行军床已经准备好了，请你先休息吧。等到你的精力恢复，夜宵应该也做好了，到时候，我们可以交替值岗。
+
+### 关于米卡自己·工作
+
+前进测绘员？这个岗位的职责是率先进入未知的区域，探明地形，寻找最有价值的阵位，有时还要对付敌方的哨兵。所以，除了测绘地形，我也得掌握战斗、医疗和野外生存的技巧。
+
+### 关于米卡自己·琐事
+
+搭建营帐、生火做饭、维护装备，这些事总得有人来做嘛。如果别人嫌这些事麻烦，而我做得还勉强合格，那我至少可以…让大家轻松一点，开心一点？
+
+### 关于我们·传闻
+
+对不起，刚回蒙德那几天，我听说了你们的事迹。像你和派蒙这样的超级强者，总有自己独特的原则。有些强者的脾气不太好，也许我说错一个词，就会让他们不高兴…好在你们都很和善，我根本不用担心！
+
+### 关于我们·暗语
+
+有的前锋会用「奥克塔维」表示「弩箭耗尽，正在返回营地」；用「薇拉」表示「状况良好，可以交战」。要不然，我们也约定几个暗语？毕竟我们会长期合作，这样更方便。哦，你说了算，我都听你的！
+
+### 关于「神之眼」…
+
+说实话，能够得到「神之眼」，我也很吃惊。它的确能为我提供不少帮助，但我不能依赖它的力量，而是要把它当成一种保险手段。作为骑士团的一员，我更应该重视团队合作，想办法和同伴们一起战胜困难。
+
+### 有什么想要分享…
+
+有个简单的测距法，应该对你们有用：伸直手臂，竖起拇指对准目标，分别用右眼和拇指的轴线对准目标的左侧，左眼对准目标右侧，把两侧间的距离乘以一个数，就能提前确认山有多高，河有多宽，能不能一口气爬上山顶，游到对岸。
+
+### 感兴趣的见闻…
+
+听可莉前辈说，世上有种传递声音的植物，要是这种植物可以被随身携带就好了。这样一来，我就能实时汇报地形情况，甚至待在前方，为后方的同伴提供指引，用弩箭远远地抛射，早早排除威胁。
+
+### 关于凯亚…
+
+入团之前，我接受了许多测试，主考官就是凯亚队长。凯亚队长一直支持着我，给我各种建议…不过，有时我不太理解他的话，担心自己跟不上他的节奏，让他扫兴。
+
+### 关于法尔伽·教诲
+
+法尔伽大团长是万分可敬的强者，也是我在战斗方面的老师。他觉得我个子小，体力没优势，教导我「打架的理念要灵活」，「避免和敌人短兵相接」。所以，我才学着用长枪和手弩对付敌人，这样的战法的确更适合我。
+
+### 关于法尔伽·队长
+
+大团长还说，我要树立更高的目标，不断磨练本领，我一直是这么想的，但直到远征期间，我才明白事情的严重性。有一天，我们遇见了自称「队长」的愚人众执行官。我完全没法想象，该怎么招架那样的对手。强者的境界，对我来说实在太遥远了。
+
+### 关于琴…
+
+副团长…代理团长是让人安心的好前辈，一直守护着大家的强者。在工作排期、战地医疗、还有下厨这几个领域，我能向她学习的东西，简直无穷无尽。
+
+### 关于安柏…
+
+安柏长官…安柏前辈是最可靠的前锋，侦察领域的强者！前进测绘员和侦察骑士的阵位很接近，总是提前于主力部队行动。安柏前辈的经验太丰富了，我从她那里学到了很多野外生存的技巧，还有维护弩弦和箭矢的窍门。
+
+### 关于优菈·任务
+
+优菈队长是战斗风格独树一帜的强者，她一直很照顾我。我刚刚入队时，她就给我安排各种各样的任务，数量是其他队员的好几倍，更快地锻炼了我的适应力。只要习惯了她的表达方式，和她相处起来就很愉快！
+
+### 关于优菈·作风
+
+其实，我很羡慕优菈队长，她为人友善，作风洒脱，内心特别强大。要是我也被别人用奇怪的目光盯住，还在背后不停议论，我大概会不敢出门吧。
+
+### 关于丽莎…
+
+在我自学测绘的时候，丽莎长官一直在帮我，为我找到了好多有用的书，要是我也像她那样博学就好了。知识总归是不嫌多的，也许哪天就能用到呢？
+
+### 关于可莉…
+
+可莉前辈？她的性格特别开朗，好像还是…和大团长旗鼓相当的强者？她好几次邀请我一起冒险，我们玩得超开心！虽然她偶尔会试验厉害的武器，让我重画很多地方的地图…不过，我也觉得很值得！
+
+### 关于温迪…
+
+好喜欢那位吟游诗人，他是演奏乐器的强者，他的曲调总让我有种回到家里的亲切感。如果要选出最能代表蒙德的曲子，我一定投他的作品一票。可惜我平常待在城里的时间不多，不然就可以每天送他一些礼物了。
+
+### 关于阿贝多…
+
+阿贝多长官对我有恩，我常用的测绘装备就是他帮我制作的，还有一种绘图笔，就算倒挂在树上，也能正常使用。嗯不过，测绘地图和画画好像并不相通？之前我对着目标区域画过几张写生，作为补充的情报，听说阿贝多长官看见之后，沉默了好久。
+
+### 想要了解米卡·其一
+
+我自己的事？我只是个普通人，没什么有意思的故事。如果只聊我以前的经历，你愿意听吗？
+
+### 想要了解米卡·其二
+
+从小时候起，我就想当一个地图测绘员，描绘出提瓦特每个角落的轮廓。后来我发现，骑士团正好有这样的岗位，就在哥哥和爸爸的支持下参加了选拔，当上了前进测绘员。这份工作让我过上了理想中的生活，我已经心满意足了。
+
+### 想要了解米卡·其三
+
+骑士团的大家都好强，每个人都有值得我学习的地方。我从大家身上学到了新的本领，也应该给大家回报，如果大家有需要我的地方，我都会尽全力帮忙。
+
+### 想要了解米卡·其四
+
+不过，帮大团长和优菈队长跑过几次腿后，有的同伴已经把我当成两位长官的信使了。如果我说错了话，给两位长官带来了困扰，那可就是我的过错了。所以，每次和不太熟悉的同伴交谈，我多少都有点拘束，让大家觉得我很胆小，这算是一种误解吗？
+
+### 想要了解米卡·其五
+
+好在，经历过远征后，我没那么担心了。只要不给其他人添麻烦，就算大家对我有什么看法，我也不会介意。骑士团就像是我的第二个家，我要把前进测绘员的工作干得完美无缺，让我的家人们平平安安地完成任务，轻松愉快地度过每一天。
+
+### 米卡的爱好…
+
+爱好吗…除了工作，我最喜欢的应该是…在陌生的地方野营了。沉浸在新鲜的美景里，搭一个舒舒服服的营地，升起篝火做一顿好吃的饭菜，真的很愉快！
+
+### 米卡的烦恼…
+
+说实在的，我不擅长和陌生人打交道，也许是我不懂说话的技巧吧。这方面的窍门，能请你教一教我吗？
+
+### 喜欢的食物…
+
+大团长说，我这种年轻人就该多吃肉，把力量和体能练得棒棒的。虽然我怎么也不可能长出一身结实的肌肉啦，但我确实很喜欢肉类料理，这一点倒是和游击小队的大家很合拍。
+
+### 讨厌的食物…
+
+不像我的哥哥，我完全欣赏不了酒的风味，只要喝上一小口，我就会醉得不省人事，给大家添麻烦。碰上有的陈年烈酒，光是打开瓶塞后的气味，都能让我脚步发晃。
+
+### 收到赠礼·其一
+
+太感谢了，这道料理实在太珍贵，我怎么舍得吃！可以把它收藏起来吗？
+
+### 收到赠礼·其二
+
+口味和份量都无可挑剔，让你为我费心了。
+
+### 收到赠礼·其三
+
+唔…不管怎么样，这可是你为我做的饭菜，我一定会吃完的。
+
+### 生日…
+
+这种时候应该怎么说才好呢…嗯，今天是最特别的日子！应该用最热烈、最盛大的方式来庆祝！我为你准备了一本「蒙德绝景游览手册」，手册上记录了很多风景优美的地点，但没什么人知道这些地方哦。希望你从今天到明年的今天，每天都开开心心！
+
+### 突破的感受·起
+
+虽然比起你还差得远，但我现在有一点信心了，至少不会再拖你的后腿。
+
+### 突破的感受·承
+
+希望我能给你带来更多有用的情报，真真切切地帮你分担压力！
+
+### 突破的感受·转
+
+请允许我…一直和你同行，一起丈量脚下的大地！
+
+### 突破的感受·合
+
+实在感谢！这下，我就距离目标更近了——让大家安安心心地前进，不必在崎岖的地形受苦受累，也不用惧怕角落里隐藏的危险！
+
+### 元素战技·其一
+
+速射牵制。
+
+### 元素战技·其二
+
+试探攻击。
+
+### 元素战技·其三
+
+请你后退。
+
+### 元素战技·其四
+
+精确射击！
+
+### 元素战技·其五
+
+对不起了！
+
+### 元素战技·其六
+
+肃清威胁！
+
+### 元素爆发·其一
+
+大家，请振作！
+
+### 元素爆发·其二
+
+我负责医疗！
+
+### 元素爆发·其三
+
+打开突破口！
+
+### 打开风之翼·其一
+
+从高处观察…
+
+### 打开宝箱·其一
+
+是新的收获！
+
+### 打开宝箱·其二
+
+有战利品吗？
+
+### 打开宝箱·其三
+
+找到了宝藏，恭喜大家！
+
+### 生命值低·其一
+
+有点麻烦…
+
+### 生命值低·其二
+
+要改变战术吗？
+
+### 生命值低·其三
+
+对手…很强啊。
+
+### 同伴生命值低·其一
+
+请后撤，我来顶住！
+
+### 同伴生命值低·其二
+
+要快点治疗…
+
+### 倒下·其一
+
+早知道…就迂回了…
+
+### 倒下·其二
+
+对不起，大家…
+
+### 倒下·其三
+
+完了…我搞砸了…
+
+### 普通受击·其一
+
+要忍住！
+
+### 普通受击·其二
+
+没问题的！
+
+### 重受击·其一
+
+不痛…不痛！
+
+### 重受击·其二
+
+不能慌张…
+
+### 加入队伍·其一
+
+清点装备…一切就位。
+
+### 加入队伍·其二
+
+嗯，长枪和弩箭都准备好了。
+
+### 加入队伍·其三
+
+我…我来为队伍探路！
+
+### 关于洛恩…
+
+你看见洛恩了吗？我才发现我的笔记本跟他的互换了，而他一大早又不见了。唉，他肯定是一个人冲去魔物聚集点了…明明说过这样做很危险的…要是我也是「队长」就好了，那样我说的话他就会听了…呃，会吗…

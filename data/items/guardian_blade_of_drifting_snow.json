@@ -1,0 +1,52 @@
+{
+  "id": "guardian_blade_of_drifting_snow",
+  "category": "items",
+  "icon": "assets/icons/enemies/guardian_blade_of_drifting_snow.webp",
+  "title": {
+    "ru": "Разящая вьюга",
+    "en": "Guardian Blade of Drifting Snow",
+    "zh": "游雪的护刃"
+  },
+  "region": "Снежная",
+  "rarity": null,
+  "game_version": "7.1",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древняя представительница народа снеговиков, пользующаяся большим уважением среди сородичей.\nКогда-то она следовала за легендарной снегурочкой, печально известной своей багряной славой, и получила важную миссию - «до конца жизни защищать народ снеговиков». Говорят, такую миссию тогда поручили семерым, но теперь осталась только она. При каждой смене правителя снеговиков она должна лично присутствовать и засвидетельствовать её.\nПосле прихода к власти нынешней правительницы снеговиков она покинула их горную обитель. Возможно, из-за разногласий во взглядах.",
+    "en": "An ancient Snegovik held in high esteem among her kin.\nShe once served the legendary Great Snegurochka, whose name was steeped in crimson infamy, and was entrusted with the solemn duty of protecting the Snegovik clan for the rest of her life. It is said that seven were given this charge, but she alone remains. Every succession of the Snegovik sovereign must therefore take place under her watchful eye.\nAfter the current Snegurochka princess ascended to power, she left the clan's manor in the mountains — perhaps because their ideals no longer aligned.",
+    "zh": "在雪精一族之中拥有相当声望的古老雪精。\n曾经跟随过那位有着猩红恶名的传说中的大雪孃，被授予「须毕生守护雪精一族」的重任，当时被授予这重任的据说共有七位，如今只剩下她。在每一次雪精的王公交替时，都必须由她亲眼见证。\n在如今的雪孃王公上位之后，或是出于理念的不一致，离开了雪精们的山中之馆。"
+  },
+  "description": {
+    "ru": "Древняя представительница народа снеговиков, пользующаяся большим уважением среди сородичей.\nКогда-то она следовала за легендарной снегурочкой, печально известной своей багряной славой, и получила важную миссию - «до конца жизни защищать народ снеговиков». Говорят, такую миссию тогда поручили семерым, но теперь осталась только она. При каждой смене правителя снеговиков она должна лично присутствовать и засвидетельствовать её.\nПосле прихода к власти нынешней правительницы снеговиков она покинула их горную обитель. Возможно, из-за разногласий во взглядах.",
+    "en": "An ancient Snegovik held in high esteem among her kin.\nShe once served the legendary Great Snegurochka, whose name was steeped in crimson infamy, and was entrusted with the solemn duty of protecting the Snegovik clan for the rest of her life. It is said that seven were given this charge, but she alone remains. Every succession of the Snegovik sovereign must therefore take place under her watchful eye.\nAfter the current Snegurochka princess ascended to power, she left the clan's manor in the mountains — perhaps because their ideals no longer aligned.",
+    "zh": "在雪精一族之中拥有相当声望的古老雪精。\n曾经跟随过那位有着猩红恶名的传说中的大雪孃，被授予「须毕生守护雪精一族」的重任，当时被授予这重任的据说共有七位，如今只剩下她。在每一次雪精的王公交替时，都必须由她亲眼见证。\n在如今的雪孃王公上位之后，或是出于理念的不一致，离开了雪精们的山中之馆。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "material_113092",
+      "title": {
+        "ru": "Треснувшие доспехи скитальца",
+        "en": "Vagabond's Cracked Armor",
+        "zh": "游离者的裂甲"
+      },
+      "icon": "assets/icons/items/world_bosses/item_113092.webp",
+      "text": {
+        "ru": "Древняя часть доспехов снеговика, вся покрытая трещинами.\nДоспехи, выкованные в давние времена, не были рассчитаны на столь долгую службу. Появившиеся с годами трещины лишь скрывались благодаря постоянному развитию технологий вечного льда у снеговиков. Подобно трещинам на поверхности этих доспехов, клятва оберегать и защищать обнаруживает свою хрупкость в тот самый миг, когда теряет того, кто её хранит.",
+        "en": "An ancient piece of Snegovik armor with cracks all over it.\nArmor forged in the old days was never built to last this long. The cracks that have appeared over time have merely been masked by the Snegovik's steadily advancing mastery of Prime Ice technology. Like the cracks across this armor's surface, the oath to safeguard and protect reveals its fragility the instant its keeper is gone.",
+        "zh": "古老雪精布满裂纹的肩甲。\n在古老时代打造的甲胄本就没法保存那么久，弥补其上逐渐出现的裂隙的，不过是雪精在岁月的磨砺中越发熟稔的臻冰造艺。守护之誓的脆弱亦如这甲胄表面的裂纹，在失去维护者的刹那就会变得显眼起来。"
+      }
+    }
+  ],
+  "material_count": 1
+}

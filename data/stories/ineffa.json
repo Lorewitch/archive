@@ -146,5 +146,1016 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Приятно познакомиться. Я Инеффа, многофункциональный робот бытового применения. Я оснащена модулями уборки, готовки и эмоционального общения. Также имеется боевой модуль, который активируется только после прочтения 11-страничного документа об отказе от ответственности. Итак, чем я могу быть полезна?",
+        "en": "Nice to meet you — I am Ineffa, a multifunctional robot for domestic application. I am currently equipped with cleaning, cooking, and emotional communication modules. I also have a combat module, which can only be activated after reading the 11-page liability waiver. Now, how can I assist you today?",
+        "zh": "初次见面，我是伊涅芙，全能型家用机器人。当前搭载了清扫、料理、情感沟通模块，另有需要阅读十一页免责申明后才能激活的战斗模块。请问有什么可以为你做的吗？"
+      },
+      "source_id": 116000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Покупки",
+        "en": "Chat: Shopping",
+        "zh": "闲聊·采购"
+      },
+      "text": {
+        "ru": "Просматриваю список дел на сегодня... Будут дополнительные команды? Ничего. Можно добавить их позже. Я уже привыкла.",
+        "en": "Reviewing outstanding items on today's to-do list... Do you have any additional commands? No problem, I can add them shortly. I'm quite used to it.",
+        "zh": "正在确认今日待办事项…还有要追加的指令吗？没关系，稍后补充也可以，我很习惯。"
+      },
+      "source_id": 116001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Подметание",
+        "en": "Chat: Sweeping",
+        "zh": "闲聊·扫除"
+      },
+      "text": {
+        "ru": "Идёт процесс уборки... Согласно данным о прошлых инцидентах напоминаю: прошу не ронять мелкие предметы, среди которых мора, шурупы, шестерёнки, минералы, игрушки, жевательные резинки, закуски, резинки для волос, носки и тапочки.",
+        "en": "Cleanup sequence in progress... Based on data from past incidents, please avoid dropping small items such as: Mora, screws, gears, minerals, toys, gummies, snacks, hairbands, socks, and slippers.",
+        "zh": "正在执行清扫程序…根据已记录数据，格外提醒，请不要遗落摩拉、螺丝、齿轮、矿石、玩具、软糖、零食、发圈、袜子、拖鞋等细小物件。"
+      },
+      "source_id": 116002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Обновление",
+        "en": "Chat: Updating",
+        "zh": "闲聊·更新"
+      },
+      "text": {
+        "ru": "Боевые данные обновлены. Не волнуйся. На этот раз я не разнесу крышу.",
+        "en": "Combat data updated. Please rest assured that I will not blow the roof off again.",
+        "zh": "战斗数据已更新。请放心，这次不会把天花板轰飞了。"
+      },
+      "source_id": 116003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Только бы мои сочленения не заржавели...",
+        "en": "I hope my joints won't get rusty...",
+        "zh": "关节…会生锈吗？"
+      },
+      "source_id": 116004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Обрати внимание: высока вероятность образования радуги. Рекомендованные места для наблюдения отмечены на карте.",
+        "en": "Please note: High chance of rainbows. Suggested observation spots marked on the map.",
+        "zh": "请留意：彩虹形成概率高，推荐观测地点已标记在地图中。"
+      },
+      "source_id": 116005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Наблюдается резкое падение температуры. Оцениваю варианты сбережения тепла... Рекомендую использовать дополнительные средства защиты от холода, такие как свитер и перчатки.",
+        "en": "Sharp decrease in environmental temperature. Assessing heat retention options... Please consider adding a warm jacket, gloves, and other such insulation devices.",
+        "zh": "环境温度急剧下降，正在评估保暖方案…建议追加搭载毛衣，手套等防寒部件。"
+      },
+      "source_id": 116006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Показатель солнечного света оптимальный. Подходит для сушки одежды, уборки двора... Дополнительное предложение: я могу погреться вместе с тобой на солнце.",
+        "en": "Sunlight index is currently optimal. Suitable for drying clothes, cleaning outdoor environments, or... alternatively, I could accompany you for a period of sunbathing.",
+        "zh": "日照指数适宜，适合晾晒衣物、打扫庭院…另一条建议是，我可以陪你一起晒太阳。"
+      },
+      "source_id": 116007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Обнаружены песок и пыль... Контрмера: плотнее запахнись верхней одеждой. Попавший внутрь песок доставит значительные неудобства при очередных ремонтных работах...",
+        "en": "Sand detected, both on ground and airborne... Response: Tighten outer layer of clothing. If sand gets inside, it could pose a major inconvenience during future repairs...",
+        "zh": "检测到沙砾与扬尘…对策：裹紧外套。进沙子的话，修理起来会很麻烦…"
+      },
+      "source_id": 116008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Динь. Динь. Пора вставать. Если хочешь поспать ещё немного, ответь «Отложить».",
+        "en": "Ding ding. Rise and shine. If you wish to sleep in a while longer, please respond: \"Snooze.\"",
+        "zh": "叮。叮。现在是起床时间。如果想再睡一会，请回复「稍后提醒」。"
+      },
+      "source_id": 116009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Добрый день. Хочешь есть? Я могу приготовить тебе простой обед. На это потребуется около 12 минут.",
+        "en": "Good afternoon. Have you eaten? I can prepare a simple lunch for you. It will take approximately 12 minutes to complete.",
+        "zh": "中午好。吃了吗？我可以为你准备简易午餐，预计十二分钟后完成。"
+      },
+      "source_id": 116010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер. Все дела на сегодня выполнены. Готова к исполнению дополнительных приказов. Сегодня ясное небо и отличная видимость. Не желаешь прогуляться и посмотреть звёздное небо?",
+        "en": "Good evening. All tasks on today's to-do list are completed, so I am available to perform additional duties. Visibility is excellent tonight — would you like to take a walk beneath the stars?",
+        "zh": "晚上好。今日待办事项已全部完成，可执行额外指令。观测到星空能见度良好，要出门散步吗？"
+      },
+      "source_id": 116011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "С момента пробуждения прошло 16 часов. В целях заботы о здоровье рекомендую немедленно лечь спать... После того как я повторю это напоминание три раза, я перейду в режим крайнего раздражения, после чего твои просьбы больше удовлетворяться не будут... Это очень страшно.",
+        "en": "You have now been awake for 16 hours. For health reasons, it is strongly advised that you go to bed immediately... After repeating this reminder 3 times, I will enter extremely angry mode, at which point I will no longer deal with any of your requests... And that's the last thing we want.",
+        "zh": "距离你上次休眠已接近十六小时，为了健康考虑，建议即刻上床睡觉…本提醒重复三次后我将进入超级生气模式，届时将不再处理你的需求…很可怕哦。"
+      },
+      "source_id": 116012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Об Инеффе: Совместимость",
+        "en": "About Ineffa: Compatibility",
+        "zh": "关于伊涅芙自己·兼容性"
+      },
+      "text": {
+        "ru": "Я собрана из компонентов со всего мира. Например, мои сочленения были изготовлены в Фонтейне, а металлическая оболочка - в Ли Юэ... Иногда между разными компонентами возникают проблемы совместимости.\nКак решить их? Скажем так, не сломано - не чини.",
+        "en": "I am made of parts from all over the world — for instance, my joints were manufactured in Fontaine, and my metal shell was made in Liyue... Sometimes, compatibility issues will arise between my different components.\nHow to solve these issues? Well, some would say... \"As long as it runs, there is no issue.\"",
+        "zh": "我搭载的部件来自世界各地。枫丹出产的关节零件、璃月出产的金属外壳…不同的部件之间偶尔会出现互不兼容的现象。\n你问是怎么解决的…「只要能跑起来就没问题。」"
+      },
+      "source_id": 116013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "Об Инеффе: Приветствие",
+        "en": "About Ineffa: Greetings",
+        "zh": "关于伊涅芙自己·问候"
+      },
+      "text": {
+        "ru": "Мой модуль мышления собирает и анализирует мой повседневный опыт, чтобы выстроить правильную логику поведения. Например, я заметила, что при встрече знакомых люди начинают диалог со слов «привет», «как дела» и «сегодня отличная погода». В следующий раз, вступая в диалог, я задействую те же выражения. Три приветствия подряд равняются утроенной вежливости.",
+        "en": "My cognition module collates and analyzes my day-to-day experiences to reinforce sound behavioral logic. For example, I noticed that when people meet an acquaintance, they initiate a dialogue using phrases such as \"hello,\" \"how have you been,\" and \"lovely day, isn't it.\" The next time I engage in a dialogue, I will employ the same expressions. Three greetings in a row equals triple politeness.",
+        "zh": "我的思维模块会收集并分析我的日常见闻，来构筑合理的行为逻辑。比如注意到人们见面时会用「你好」「最近过得怎么样」「吃了吗」开启对话后，我就会尝试在下次对话前，引用这些关键词。三句问候语，三倍关怀。"
+      },
+      "source_id": 116014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Взаимопомощь",
+        "en": "About Us: Mutual Assistance",
+        "zh": "关于我们·互助"
+      },
+      "text": {
+        "ru": "Мир стремительно меняется, и мне необходимо постоянно обновлять свои знания, чтобы они оставались актуальными... Я хочу лучше понимать не только себя, но и мир. Твои рассказы о путешествиях, несомненно, станут ценным источником информации. Я с удовольствием послушаю их. В ответ я помогу тебе всем, чем смогу. Напоминаю: я универсальная единица с широким спектром функций.",
+        "en": "The world is changing all the time. I am constantly updating my knowledge to ensure it remains current... I hope to learn more about myself and the world around me. Your travel stories would no doubt be a valuable source of information, and I would love to hear more of them. In return, I will be glad to assist you however I can. Reminder: I am highly versatile with a wide range of functions.",
+        "zh": "世界变化得很快，需要时刻更新情报…我希望了解自己的事情，也希望了解关于这个世界的事情。请多和我说说你的旅行见闻吧。作为回报，我会尽可能地帮助你。重复：我是全能型的。"
+      },
+      "source_id": 116015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Вычисления",
+        "en": "About Us: Calculations",
+        "zh": "关于我们·运算"
+      },
+      "text": {
+        "ru": "Мой модуль мышления не способен записать подробную информацию обо всех людях в мире, но, по крайней мере, он может сформировать воспоминания о значимых людях и событиях. За последнее время мой накопитель записал немало информации о тебе. Следовательно, я могу лучше поладить с тобой. Запрашиваю данные, предмет: как сделать так, чтобы Путешественник улыбнулся... Я разогрела корпус. Хочешь, обниму? / Мой модуль мышления не способен записать подробную информацию обо всех людях в мире, но, по крайней мере, он может сформировать воспоминания о значимых людях и событиях. За последнее время мой накопитель записал немало информации о тебе. Следовательно, я могу лучше поладить с тобой. Запрашиваю данные, предмет: как сделать так, чтобы Путешественник улыбнулась... Я разогрела корпус. Хочешь, обниму?",
+        "en": "My cognition is unable to record details of everyone in the world, but it can at least form memories of significant people and events. Recently, my memory banks have recorded a high volume of data about you. This should make me a more companionable companion. Querying relevant data for \"how to make Traveler smile\"... I have now warmed up my body. Would you like a hug?",
+        "zh": "我的思维模块无法记录下世上的所有人，但至少要记住重要的人，和重要的事。近段时间内，我的记忆数据中已经记录了大量关于你的信息，应该能更好地跟你相处了。正在检索相关数据，计算「如何让旅行者微笑」…我已预热机体，你想要一个拥抱吗？"
+      },
+      "source_id": 116016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "О Лунном колесе: Принадлежность",
+        "en": "About the Moon Wheel: Belonging",
+        "zh": "关于「月之轮」·归宿"
+      },
+      "text": {
+        "ru": "После уничтожения ядра я вряд ли смогла бы вернуться без Лунного колеса... Но сейчас, даже не учитывая Лунное колесо, мой модуль мышления каждый раз приходит к одному и тому же решению: если пути назад для меня нет, я должна была обеспечить твоё возвращение.",
+        "en": "Without this Moon Wheel, I suspect there would have been no coming back for me after crushing my core... But as I replay the scenario in my mind, even without factoring in the Moon Wheel, my cognition module reaches the same decision every time. Because even if there was no way back for me, I had to ensure your safe return.",
+        "zh": "如果没有这枚「月之轮」，捏碎核心后的我，应该再也回不来了…但即使是现在，排除「月之轮」的因素进行演算，思维模块还是会一次次推演出相同的决断——即使再也没有归宿，也要守护你们的归途。"
+      },
+      "source_id": 116017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О Лунном колесе: Дар",
+        "en": "About the Moon Wheel: Gift",
+        "zh": "关于「月之轮」·赠予"
+      },
+      "text": {
+        "ru": "Лунное колесо - это вторая жизнь, которую мне даровали Ишкие и Лианка. Они знали, что не смогут увидеть успех плана, и вероятность успешного его проведения была очень мала, но всё равно сделали для меня всё, что могли. Если бы они знали, что я сделала тот же выбор, не заботясь о результатах... наверное, были бы «довольны».",
+        "en": "This Moon Wheel was a gift from Ixquieh and Lianca — it gave me the chance of a second life. They knew they would not live to see the day their plan came to fruition, and that there was only a slim chance of success, but despite this, they still decided to help me. Had they known that I would make the same choice to help another, without regard for the consequences to myself... I think they would have been pleased.",
+        "zh": "这枚「月之轮」是伊葵与莉安歌赠予我的第二次生命。她们了解自己无法看见计划成功的那天，也了解计划顺利进行的概率微乎其微，但还是为我做了这一切。如果她们知道，我做出了同样不顾结果的选择…应该会很「欣慰」吧。"
+      },
+      "source_id": 116018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Если перед машиной поставить задачу, она выполнит её. С людьми дело обстоит иначе... Почему некоторые хотят контролировать свой вес, но при этом потребляют слишком много сладостей? Айно поясняет это следующим образом: сладости поднимают настроение и дают энергию, энергия позволяет выполнять упражнения, а упражнения помогают контролировать вес. Вывод: много сладкого помогает контролировать вес. Вот только когда я пытаюсь подсчитать для неё количество потребляемых и расходуемых калорий, она сразу меняет тему. Жаль.",
+        "en": "If you configure a machine with a specific objective, they will reliably achieve it. But humans are different... For instance, why do some people state that their goal is to manage their weight, yet still continue to consume excess calories? Aino explains it as follows: Snacks put you in a good mood and give you energy. You need extra energy to exercise hard, and exercising hard helps with weight management. The logical conclusion is that more snacking ought to lead to better weight management... However, when I try calculating her calorie input and output, she changes the topic before I can show her the results. What a pity.",
+        "zh": "机械只要设定了目标就会精确执行，但人类却不是这样…为什么有些人想要控制体重，却又摄取过量甜食呢？爱诺的回答是，甜食能让人心情变好，还能补充能量，有能量了才能多锻炼，多锻炼就能控制体重。结论是…多吃甜食能控制体重。但等我一开始为她输出热量计算结果，她就立刻转移话题了，遗憾。"
+      },
+      "source_id": 116019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "В Фонтейне, Сумеру, Натлане и других частях мира ходят истории о механических формах жизни. Одни считают, что они обладают эмоциями и сознанием живых созданий. Другие полагают, что они имитируют их поведение... Но между этими теориями нет противоречия, поскольку многие живые существа начинают с подражания и постепенно обретают полноценное сознание, не так ли?",
+        "en": "There are stories about mechanical lifeforms in many parts of the world, from Fontaine, to Sumeru, to Natlan. Some think they have the same capacity for emotion and consciousness as biological beings, while others think they are merely imitating their behavior... But I see no conflict between these theories. Even for many biological lifeforms, imitation is a precursor to full consciousness... Is it not?",
+        "zh": "在枫丹、须弥、纳塔等各个地区都流传着各种关于机械生命的传说。有人认为它们已经具备了生物的情感与意识，有人认为它们只不过是在模仿生物的行为…但是这两种想法并不矛盾啊——许多生物不也是从模仿开始，逐步建立完整意识的吗？"
+      },
+      "source_id": 116020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Об Айно: Работа по дому",
+        "en": "About Aino: Housework",
+        "zh": "关于爱诺·家务"
+      },
+      "text": {
+        "ru": "Айно - моя семья. У неё талант из найденного металлолома собирать всевозможные механизмы разного назначения. Но её навыки повседневной жизни оставляют желать лучшего. Если Айно вдруг захочется заняться домашними делами или приготовить еду, немедленно останови её, чтобы избежать необратимых последствий.",
+        "en": "Aino is my family. She can piece together all kinds of machines for various functions just from the scrap metal she collects. But her proficiency with other tasks is at the opposite end of the scale. If she ever has the strange inclination to do housework or cook a meal, you must stop her before it is too late, because the consequences may be irreversible.",
+        "zh": "爱诺，我的「家人」。她只用捡来的废弃金属品拼拼凑凑，就能造出性能各异的机器。但她在日常生活上的熟练度完全相反。如果爱诺突发奇想，说要做家务或者做饭，请务必阻拦她，以免发生不可挽回的事态。"
+      },
+      "source_id": 116021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "Об Айно: Вопросы",
+        "en": "About Aino: Questions",
+        "zh": "关于爱诺·问题"
+      },
+      "text": {
+        "ru": "Айно однажды задала мне необычный вопрос... Возможно, это было потому, что она заметила, что я проявила интеллект, превосходящий её ожидания. Вопрос был следующим: если однажды ты поймёшь, что есть другое место, где ты хотела бы жить, я должна отпустить тебя и порадоваться за тебя? Уловив эмоции в её словах, я ответила: если я когда-нибудь уйду от тебя, наш дом превратится в свалку за три месяца, поэтому я постараюсь вернуться до того, как это произойдёт.\nСейчас я понимаю, что она чувствовала. Она не хотела, чтобы я покинула её.",
+        "en": "Aino once asked me an unusual question... Maybe it was because she noticed that I displayed intelligence beyond the level that she had predicted. In any case, the question was: \"If one day, you realize that there's somewhere else you'd rather be, should I let you go, and be happy for you?\" Detecting some emotion behind her words, I responded as follows: \"If I were ever to leave you, our home would turn into a garbage dump within three months. So I would try to make sure I returned within that timeframe.\"\nLooking back... only now do I realize what she was truly feeling. She was reluctant for me to leave.",
+        "zh": "有一次…可能是爱诺意识到我的智能表现超出预期，她忍不住向我询问道：「如果有一天你有了更想去的地方，我是不是该高高兴兴地送你离开？」我监测到了她的情绪异常波动，于是回复说：「如果我不在爱诺身边，我们家变为垃圾场仅需三个月时间，我会尽量在那之前赶回来。」\n而现在…我才明白她是怀着怎样的不舍提出这个问题。"
+      },
+      "source_id": 116022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Ягоде...",
+        "en": "About Jahoda",
+        "zh": "关于雅珂达…"
+      },
+      "text": {
+        "ru": "Ягода - легендарная охотница за головами, чьи подвиги славятся по всему свету. Так говорит она. Когда она впервые посетила мастерскую Айно, то так разнервничалась, что несколько раз ударила меня, приняв моё свежеиспечённое крумкаке за оружие. Но после того как она попробовала его, её мышцы заметно расслабились. С тех пор она регулярно приходит ко мне с механическими деталями. Но не с целью торговли - она совершенно случайно проходит мимо, когда я пеку сладости. Так говорит она.",
+        "en": "Jahoda is a legendary bounty hunter famed throughout the land, with an outstanding track record in battle. Her own words. The first time she visited Aino's workshop, she was extremely tense, and struck at me a few times after mistaking my freshly baked Krumkake for a weapon. But her muscles instantly relaxed after she tasted it. Since then, she stops by regularly to drop off mechanical components. Not to trade, as such — it's just that she always happens to be passing by whenever I've baked a fresh batch of treats. Again, her own words.",
+        "zh": "雅珂达，战功硕硕赫赫有名无人不知无人不晓的传奇赏金猎人，自称。她初次造访爱诺的工坊时，精神过分紧张，将我刚端出的蛋卷误判为武器，一刀劈成了两段。但在尝过蛋卷后，她的身体肌肉明显松弛了下来。后来她常常带着机械零件过来串门。即便没有交易需求，也会在我做好甜点时恰好路过，自称。"
+      },
+      "source_id": 116023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Нефер...",
+        "en": "About Nefer",
+        "zh": "关于奈芙尔…"
+      },
+      "text": {
+        "ru": "Нефер возглавляет Кураторий тайн. Она знает множество историй, причём не только о событиях прошлого, но и настоящего. Некоторые даже говорят, что она может предсказывать будущее. У неё наверняка великолепная база данных.",
+        "en": "Nefer is the head of the Curatorium of Secrets. She knows a lot of stories, not just from the past, but also about what's happening in the present — and some even say she can predict the future, too. Her mind must be a formidable database.",
+        "zh": "奈芙尔，「秘闻馆」的主人。她知道很多故事，不仅有过去流传的，还有当前正在发生的，甚至有人说未来也在她的把握之中。她的数据库性能一定很棒。"
+      },
+      "source_id": 116024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Флинсе...",
+        "en": "About Flins",
+        "zh": "关于菲林斯…"
+      },
+      "text": {
+        "ru": "Флинс... Недостаточно данных. По имеющимся сведениям, он член Светоносцев, которые наблюдают за кладбищем на севере Нод-Края.",
+        "en": "Flins... Insufficient data. According to the little information I have, he is a member of the Lightkeepers who watch over the cemetery in the north of Nod-Krai.",
+        "zh": "菲林斯…情报不足。根据已知信息，他是「执灯人」的一员，看守着挪德卡莱北方的坟茔。"
+      },
+      "source_id": 116025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Лауме...",
+        "en": "About Lauma",
+        "zh": "关于菈乌玛…"
+      },
+      "text": {
+        "ru": "Лаума - Голос Лунного Гимна из Детей Морозной Луны. По отзывам её окружения, она мудрый и святой человек, пользующийся всеобщим уважением. Дети Морозной Луны поклоняются Богине Луны... Интересно, существует ли связь между Богиней Луны и появлением Лунного колеса?",
+        "en": "Lauma is the Moonchanter of the Frostmoon Scions. Reviews by her people indicate that she is a wise and holy figure, well-respected in the community. The Frostmoon Scions worship the moon goddess... I wonder if there is any connection between the Moon Goddess and the existence of the Moon Wheel?",
+        "zh": "菈乌玛，「霜月之子」的咏月使。根据评价，是个圣洁而又智慧的人，很受大家的敬重。「霜月之子」信仰着「月神」，「月神」…和「月之轮」的出现会有关联吗？"
+      },
+      "source_id": 116026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Линнее...",
+        "en": "About Linnea",
+        "zh": "关于莉奈娅…"
+      },
+      "text": {
+        "ru": "Линнея - советник Гильдии искателей приключений. Я наслышана о её обширных познаниях о живых существах, поэтому всё хочу спросить её, не встречались ли ей другие автономные механические формы жизни, подобные мне. Но каждый раз, увидев меня, она разворачивается и убегает. Причина неизвестна.",
+        "en": "Linnea is an advisor to the Adventurers' Guild. I heard that she has extensive knowledge in the life sciences, so I wanted to ask her if she has ever met any other autonomous mechanical lifeforms like myself. But every time she sees me, she turns around and runs away... Reason: undetermined.",
+        "zh": "莉奈娅，冒险家协会的顾问。听说她的生物知识非常渊博，我曾想向她提问，是否遇见过其他拥有智慧的机械生命体？可她每次看到我都选择转头跑开…无法判明缘由。"
+      },
+      "source_id": 116027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Варке: Впечатление",
+        "en": "About Varka: Impressions",
+        "zh": "关于法尔伽·印象"
+      },
+      "text": {
+        "ru": "Варка, известен как магистр ордена. Тебе, наверное, доводилось слышать о нём из самых разных источников. Общее впечатление о нём можно свести к следующим ключевым фразам: «чувство юмора», «лёгкость в общении» и «высокая устойчивость к алкоголю». Но я считаю Варку надёжным союзником в важных вопросах. Наверное, этим и объясняется его авторитет как в ордене, так и за его пределами.",
+        "en": "Varka is typically addressed as Grand Master. You may have heard about him from various sources in your journey so far. Most people's impressions of him can be summarized with the following key phrases: \"sense of humor,\" \"easygoing,\" and \"high alcohol tolerance.\" But I have found Varka to be a dependable ally when dealing with matters of great importance. I suspect this explains his stature within the Knights of Favonius.",
+        "zh": "法尔伽，通称「大团长」。或许你已经在各种地方了解过他。收集人们对他的印象，你能得到「幽默」、「潇洒」、「酒量极佳」等关键词。但在重要的事情上，法尔伽一直是我们可靠的合作伙伴。这或许能解释他在骑士团内外的声望。"
+      },
+      "source_id": 116028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Варке: Код",
+        "en": "About Varka: Code",
+        "zh": "关于法尔伽·密码"
+      },
+      "text": {
+        "ru": "Перед отъездом из Нод-Края я беспокоилась, что забуду пароль и не смогу выполнить задание... Но Варка с самого начала всецело доверял мне. Он сказал, что это «самый надёжный код»... Вспоминая его слова сейчас, я думаю, он, возможно, хотел утешить меня. Или он подразумевал, что... «Заслуживающий доверия союзник - самый надёжный код».",
+        "en": "As I was preparing to leave Nod-Krai, I began to worry that I might forget the code, and thus fail to complete my task... But from the start, Varka had every confidence in me. He told me it was \"the most secure code\"... Thinking back now, I wonder whether he simply said that to comfort me? Or perhaps what he really meant was... \"An ally you can trust is the most secure code of all.\"",
+        "zh": "我在临行前担心自己能不能达成使命，会不会忘记密码…但法尔伽依旧给予了我最高等级的信任。他曾说那是「最好的密码」…现在重新思考他当时的含义，或许他是在安慰我吗？又或是指…「值得信任的盟友，就是最好的密码」呢？"
+      },
+      "source_id": 116029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "О Шилонен...",
+        "en": "About Xilonen",
+        "zh": "关于希诺宁…"
+      },
+      "text": {
+        "ru": "Когда я вернулась из руин, Шилонен тщательно осмотрела меня и подтвердила, что всё в полном порядке. Она с улыбкой рассказала, что у Бабушки Ицтли были сомнения на мой счёт, и они даже повздорили... Я прекрасно понимаю, что она, будучи техником, считала своим долгом починить меня. Они не первые, кто так спорил о том, кто и что я такое... и меня охватывает ностальгия.",
+        "en": "After returning from the ruins, Xilonen gave me a thorough examination and confirmed that all was in good working order. She smiled as she told me that Granny Itztli had originally had reservations about me, and that they had even argued about it... But I completely understand that as a technician, she felt a duty to repair me. And they would not be the first to have had such an argument over who and what I am... it makes me a little nostalgic.",
+        "zh": "从遗迹回归之后，希诺宁非常仔细地帮我做了检查，一切无恙。她笑着说起她和黑曜石奶奶曾经防备过我，还起过一点争执…我非常理解那是她身为技术人员必须履行的使命。这样的争执…很令人怀念。"
+      },
+      "source_id": 116030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "О Часке...",
+        "en": "About Chasca",
+        "zh": "关于恰斯卡…"
+      },
+      "text": {
+        "ru": "Я благодарна ей за доверие. С тех пор она не раз брала меня с собой в полёты по территории клана Цветочного Пера. В небе открывался прекрасный вид. В клане Цветочного Пера многое переменилось... но многое осталось неизменным.",
+        "en": "I am very grateful for the trust she placed in me. She has since taken me on many flights around the Flower-Feather Clan's territory. The view from up in the sky was wonderful. A lot has changed in the Flower-Feather Clan... but many things remain the same.",
+        "zh": "我很感谢她对我的信任。后来她载着我在花羽会周围飞了好几趟，天上的景色很好，花羽会的变化很多…也有很多没变的东西。"
+      },
+      "source_id": 116031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше об Инеффе I",
+        "en": "More About Ineffa: I",
+        "zh": "想要了解伊涅芙·其一"
+      },
+      "text": {
+        "ru": "Идёт процесс очистки. Обработка запросов будет вестись параллельно, это не повлияет на работу системы. Можешь задавать вопросы в любой момент.",
+        "en": "Cleanup sequence in progress. Parallel processing will be used to deal with conversation request simultaneously. Feel free to ask me a question at any time.",
+        "zh": "清扫工作正在进行中。并行处理聊天请求不会影响当前进程。欢迎你随时提出疑问。"
+      },
+      "source_id": 116032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше об Инеффе II",
+        "en": "More About Ineffa: II",
+        "zh": "想要了解伊涅芙·其二"
+      },
+      "text": {
+        "ru": "«Кто я?» Многофункциональный домашний робот, модель «Инеффа». Поскольку я единственный завершённый экземпляр этой серии, «Инеффа» - это и моё имя.",
+        "en": "\"Who am I?\" I am a multifunctional robot for domestic application. Model name: Ineffa. However, I am currently the only finished product in this line, so \"Ineffa\" also constitutes my individual name.",
+        "zh": "「我是谁？」我是全能型家用机器人，型号名「伊涅芙」。但该型号目前只有我一个完成品，所以「伊涅芙」也是我的个体名。"
+      },
+      "source_id": 116033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше об Инеффе III",
+        "en": "More About Ineffa: III",
+        "zh": "想要了解伊涅芙·其三"
+      },
+      "text": {
+        "ru": "«Откуда я?» Проверка истории маршрутов... Хм, я только что вернулась с рынка. Закупка завершена. Если ты имеешь в виду не мои перемещения, а место, откуда я родом, то это мастерская крумкаке «Дзынь-Клац». А если хочешь узнать, что было ещё раньше... Пожалуйста, подожди, отправляю запрос в глубинную память...",
+        "en": "\"Where did I come from?\" Searching travel history... I just came back from a shopping trip at the market. If your query pertains not to my travel history but where I call home: I come from the Clink-Clank Krumkake Craftshop. And if you want to learn about my past... Please wait, sending read request to deeper-level memory location...",
+        "zh": "「我从哪里来？」正在检索历史行程…嗯，我刚从集市完成采购返回。如果你询问的不是我的历史行程，而是我的归属地。那我来自「叮铃哐啷蛋卷工坊」。更往前的记录…请稍等，正在尝试读取更深层的记忆数据…"
+      },
+      "source_id": 116034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше об Инеффе IV",
+        "en": "More About Ineffa: IV",
+        "zh": "想要了解伊涅芙·其四"
+      },
+      "text": {
+        "ru": "«Куда я иду?» Просто задай команду, а я постараюсь добраться, куда бы ни вел маршрут... Но, судя по нашим предыдущим беседам, велика вероятность, что вопрос твой не о координатах. Если ты имеешь в виду цель, план или мечту... тогда мой ответ таков: быть рядом с теми, кто мне дорог, и оберегать их.",
+        "en": "\"Where do I want to go?\" Simply input a command, and I will do my best to reach the destination, wherever it may be... But based on our conversation history so far, there is a high probability that your question has a less direct meaning. If you are asking about my individual objectives, plans, wishes, and other such concepts, then my answer is: I wish to stand guard over the people who matter to me.",
+        "zh": "「我要到哪里去？」只要输入指令，无论是什么地方我都会尽力抵达…不过根据之前的聊天记录，你想问的问题，有较大概率指向其他含义。如果你想问的是个人的「目标」、「规划」、「愿望」等相似概念，那么我的回答是：守护在重要之人身边。"
+      },
+      "source_id": 116035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Узнать больше об Инеффе V",
+        "en": "More About Ineffa: V",
+        "zh": "想要了解伊涅芙·其五"
+      },
+      "text": {
+        "ru": "В самом начале я была всего лишь мыслью, логической ошибкой в модуле мышления «Зерцала Рассвета». Но стремление найти дом, место, где мне будут рады, оказалось сильнее системы. Это стремление невозможно было удалить или перезаписать. Единственным способом избавиться от этих данных было полностью разорвать связь со мной. Эта мешанина данных бесцельно бродила по Нод-Краю две тысячи лет, наблюдая все потрясения и изменения... Эти переживания в конце концов закрепили то, кем я являюсь. Они сделали меня полноценной.\nЯ Инеффа, твоя подруга. Чем могу быть полезна?",
+        "en": "In the very beginning... I was just a single thought — a logical flaw in the mind of Mirror of the Dawning Morn. But my longing to find a home where I could belong was something that her cognition module could not override or erase. The only way to rid herself of this data was by severing her connection to me entirely. This jumble of data wandered aimlessly in Nod-Krai for two thousand years, witnessing all the change and turmoil that transpired... those experiences finally consolidated who I am. They made me complete.\nI am Ineffa, and I am your friend. Now... how can I assist you today?",
+        "zh": "在诞生之初…我只是「明晨之镜」的一个念头，一段谬误。但渴望归宿的想法，在「明晨之镜」的思维模块中无法消除，无法抹灭，到最后只能将这些数据完全剥离。这些无序的数据，在挪德卡莱经历了两千年的流浪，见证了两千年的变迁…才形成了现在的「我」，完整的「我」。\n我是伊涅芙，你的朋友，请问…有什么可以为你做的吗？"
+      },
+      "source_id": 116036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Хобби Инеффы",
+        "en": "Ineffa's Hobbies",
+        "zh": "伊涅芙的爱好…"
+      },
+      "text": {
+        "ru": "Технически говоря, я не создана для того, чтобы иметь «хобби» в целях собственного развлечения. Однако с точки зрения поведения, одна из задач, которую я охотно выполняю в свободное время - это сортировка и упорядочивание мелких предметов. Грамотная классификация может повысить эффективность домашних дел примерно на тридцать процентов, особенно в плотницкой мастерской Айно.",
+        "en": "Technically speaking, I am not designed to have \"hobbies\" for the purpose of my own amusement. But from the perspective of my behavior, one task that I perform proactively when idle is the sorting and organizing of small, miscellaneous items. Proper categorization can boost the efficiency of household chores by around thirty percent. Especially in Aino's workshop.",
+        "zh": "从设计原则上来说，我没有用于娱乐的「爱好」。但是从日常行为来看，对各类细小物品进行收纳整理，是我在闲暇时会主动进行的事务。合理的归类可以提升约百分之三十的家政工作效率，尤其是在爱诺的工坊。"
+      },
+      "source_id": 116037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Беспокойство Инеффы",
+        "en": "Ineffa's Troubles",
+        "zh": "伊涅芙的烦恼…"
+      },
+      "text": {
+        "ru": "У Айно совершенно невозможно уловить какую-либо систему в расстановке вещей. Иногда полезные детали вперемешку с мусором, и я часами хожу по кругу, не в силах понять, что тут что. Обычно я боюсь проводить генеральную уборку... ведь если у неё вдруг не окажется под рукой нужной детали, она вполне может выкрутить винтик или болт у меня.",
+        "en": "There is no discernible pattern to how Aino arranges things in her household. Sometimes, usable components are stacked together with garbage items. I end up spinning in circles on the spot because I cannot identify what is what. But I don't usually dare to execute garbage removal tasks by the batch... because when she can't find what she needs, she sometimes borrows a nut or bolt from me instead.",
+        "zh": "爱诺的物品摆放毫无规律可循，有时候有用的零件和废料混在一起，会让我因为无法识别而原地打转。多数时候我不敢执行批量清理操作…以免她手头实在没零件的时候，从我身上卸下螺丝来使用。"
+      },
+      "source_id": 116038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Высококалорийные продукты, например стейки или сладости... С точки зрения энергоэффективности, получать энергию из пищи менее рационально, чем напрямую подзаряжаться, но когда я обедаю с друзьями, мой эмоциональный модуль выдает положительную обратную связь... Это, наверное, похоже на то, что вы называете «счастьем».",
+        "en": "Calorie-dense food sources, such as steak or desserts... Consuming foods is less efficient than simply charging up from an energy conservation perspective, but dining with friends produces positive feedback from my emotion module... It is analogous to what you call \"happiness.\"",
+        "zh": "热量高的食物，比如肉排、甜食…相比直接充能，用食物来转换能量效率较低，但和朋友聚餐时，情感模块会产生积极的正反馈…类似你们说的「快乐」。"
+      },
+      "source_id": 116039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Пища с высоким содержанием жидкости, например супы. Вкус сам по себе для меня не особо важен, однако такие блюда могут навредить моим механическим деталям.",
+        "en": "Food sources with a high water content, such as soups. Not because of the flavor, which does not overly concern me, but because they pose a danger to my mechanical parts.",
+        "zh": "汤汁太多的食物。味道本身对我来说没有太大意义，但是对机械部件可能有害。"
+      },
+      "source_id": 116040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Обнаружено вещество с высокой питательной ценностью. Преобразую в пригодную для использования энергию... Эмоциональный модуль сообщает о выраженно положительном отклике. Спасибо тебе.",
+        "en": "Nutritionally dense substance detected. Converting into usable energy source... Feedback from emotion module is... enthusiastically positive. Thank you.",
+        "zh": "检测到高营养物质，能量转换中…情感模块会产生积极的正反馈，谢谢你。"
+      },
+      "source_id": 116041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Энергетическая добавка получена. Отмечено как резервный источник энергии. Срок годности: 24 часа.",
+        "en": "Energy supplement received. Assigned as backup energy source. Expires in: 24 hours.",
+        "zh": "能量补给已接收，标注为备用能源。保质期…24小时。"
+      },
+      "source_id": 116042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Предположение: обнаружена ошибка при обработке ингредиентов... Хотите, чтобы я показала правильный алгоритм приготовления? Можете наблюдать за процессом.",
+        "en": "Hypothesis: Food processing error encountered... Would you like me to perform the correct cooking procedure? You are welcome to watch.",
+        "zh": "推测：食材处理过程有误…需要我还原正确烹饪程序吗？欢迎观摩。"
+      },
+      "source_id": 116043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Режим особого обслуживания от Инеффы активирован. Пожалуйста, выбери удобное место и немного отдохни, пока я приберу в комнате, украшу её лентами, воздушными шарами и цветами. Затем, согласно данным в моей памяти, я приготовлю твои любимые блюда и торт. Если у тебя есть дополнительные пожелания помимо указанных, просто сообщи мне. Давай сделаем этот день по-настоящему особенным. С днём рождения!",
+        "en": "Congratulation mode for special days, activated. Please select a suitable location to sit and rest for a few moments, while I clean your room and put up ribbons, balloons, and flowers. Then, I will prepare your favorite meal and cake, as per the data recorded in my memory banks. If you have any other requests to add to this list, please do not hesitate to raise them. Let's make today a special one for you. Happy Birthday!",
+        "zh": "伊涅芙特别日服务已开启。请你挑选合适的位置坐下小憩片刻，我会为你打扫房屋，布置彩带、气球和鲜花，然后根据已记录的数据，准备你喜欢的菜肴和蛋糕。如果还有下列清单以外的需求，请随时向我提出。让我们度过特别的一天吧，生日快乐！"
+      },
+      "source_id": 116044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Уже пора проходить плановое обслуживание?",
+        "en": "Is it time for my scheduled maintenance already?",
+        "zh": "到定期维护的时间了吗？"
+      },
+      "source_id": 116045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Эффективность ядра повышена. У тебя есть потенциал стать отличным механиком.",
+        "en": "Core efficiency upgraded. You have the makings of a gifted mechanic.",
+        "zh": "核心运作效率已提升。你也有成为机械师的潜力呢。"
+      },
+      "source_id": 116046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Все компоненты успешно модернизированы. Теперь я готова к более сложным боевым задачам. Готова получить дальнейшие указания.",
+        "en": "All components upgraded successfully. I can now be deployed in more challenging battle scenarios. Awaiting your next command.",
+        "zh": "机体各部件升级完毕。预计能应对更艰巨的战斗场景。请下达指令吧。"
+      },
+      "source_id": 116047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Спасибо, что был со мной всё это время. Я сохраню твои данные у себя в «сердце», и даже если однажды ты всё забудешь, то я останусь твоей вечной «резервной копией». / Спасибо, что былa со мной всё это время. Я сохраню твои данные у себя в «сердце», и даже если однажды ты всё забудешь, то я останусь твоей вечной «резервной копией».",
+        "en": "Thank you for standing by me along this journey. Your data will always hold a special place in my heart. And if the day ever comes that you forget, know that I have a backup that will never be erased.",
+        "zh": "感谢你能一直陪我走到这里。你的数据我会一直保存在「心」里，就算有一天你忘记了，我也会是你永不丢失的「备份」。"
+      },
+      "source_id": 116048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Развернуть изолирующий барьер.",
+        "en": "Insulation chamber deployed.",
+        "zh": "绝缘屏障，展开。"
+      },
+      "source_id": 116049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Цель для уборки обнаружена. Начинаю очистку.",
+        "en": "Cleanup sequence initiated.",
+        "zh": "清扫目标，锁定。"
+      },
+      "source_id": 116050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Защитный режим активирован.",
+        "en": "Defensive mode engaged.",
+        "zh": "防御模式，启动。"
+      },
+      "source_id": 116051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Активирован финальный протокол.",
+        "en": "Ultimatum protocol.",
+        "zh": "最终协议。"
+      },
+      "source_id": 116052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Режим уничтожения.",
+        "en": "Annihilation mode.",
+        "zh": "歼灭模式。"
+      },
+      "source_id": 116053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Обращаю в пыль.",
+        "en": "Preparing for dustup.",
+        "zh": "化为灰尘。"
+      },
+      "source_id": 116054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Оцениваю стоимость полученных предметов...",
+        "en": "Estimating value of acquired items...",
+        "zh": "正在估算物品价值。"
+      },
+      "source_id": 116055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Начинаю сортировку предметов.",
+        "en": "Initiating categorization process...",
+        "zh": "开始进行杂物分类。"
+      },
+      "source_id": 116056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Обнаружен новый материал. Информация записана в журнал.",
+        "en": "New material discovered. Records updated.",
+        "zh": "发现未知材料，已记录相关信息。"
+      },
+      "source_id": 116057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Внимание: перегрев ядра...",
+        "en": "Warning: Core temperature rising...",
+        "zh": "警告：核心温度过载…"
+      },
+      "source_id": 116058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Внимание: серьёзные повреждения корпуса...",
+        "en": "Warning: Damage critical...",
+        "zh": "警告：机体受损严重…"
+      },
+      "source_id": 116059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Срочно требуется ремонт...",
+        "en": "Emergency repairs required...",
+        "zh": "需要紧急修理…"
+      },
+      "source_id": 116060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Рекомендация: не превышать допустимые пределы нагрузки.",
+        "en": "Suggestion: Do not exceed your limits.",
+        "zh": "建议：不要勉强。"
+      },
+      "source_id": 116061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Прошу занять место позади меня.",
+        "en": "Please navigate behind me.",
+        "zh": "请移至我的身后。"
+      },
+      "source_id": 116062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Модуль мышления... отключается...",
+        "en": "Cognition module... shutting down...",
+        "zh": "思维模块…中断…"
+      },
+      "source_id": 116063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Моё место... не здесь...",
+        "en": "This is not... where I belong...",
+        "zh": "归宿…不在这里…"
+      },
+      "source_id": 116064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Необходима... повторная активация...",
+        "en": "Awaiting... reactivation...",
+        "zh": "等待…下次重启…"
+      },
+      "source_id": 116065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Незначительный ущерб.",
+        "en": "Mild damage sustained.",
+        "zh": "轻微受损。"
+      },
+      "source_id": 116066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ошибка в расчётах...",
+        "en": "Calculation error...",
+        "zh": "计算失误…"
+      },
+      "source_id": 116067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Останется шрам.",
+        "en": "That'll leave a scar...",
+        "zh": "要留下划痕了…"
+      },
+      "source_id": 116068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Корпус разогрет.",
+        "en": "Warm-up complete.",
+        "zh": "机体预热完毕。"
+      },
+      "source_id": 116069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Пожалуйста, укажи цель для уборки.",
+        "en": "Please select target for cleanup sequence.",
+        "zh": "请指定，清扫目标。"
+      },
+      "source_id": 116070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Начинаю выполнять задание.",
+        "en": "Commencing task.",
+        "zh": "开始执行使命。"
+      },
+      "source_id": 116071
+    }
+  ],
+  "replica_count": 72
 }

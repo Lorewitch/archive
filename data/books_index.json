@@ -502,6 +502,192 @@
     "search_text": "биография клана гуннхильдр biography of gunnhildr 古恩希尔德小传 мондштадт 0 book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
+    "id": "book_suit_1073",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "",
+    "title": {
+      "ru": "Репродукция созерцателя луны",
+      "en": "Moongazer's Engraving",
+      "zh": "望月者的摹刻"
+    },
+    "region": "Снежная",
+    "rarity": 3,
+    "volume_count": 2,
+    "game_version": "6.7",
+    "tags": [
+      "книги",
+      "Репродукция созерцателя луны"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 6007000,
+    "search_text": "репродукция созерцателя луны moongazer's engraving 望月者的摹刻 снежная 3 book_series 6.7 книги том 1 volume 1 卷 1 том 2 volume 2 卷 2"
+  },
+  {
+    "id": "book_suit_1074",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "",
+    "title": {
+      "ru": "Танцы Полярной звезды",
+      "en": "Polestar Ballet Anthology",
+      "zh": "极星舞剧集"
+    },
+    "region": "Снежная",
+    "rarity": 4,
+    "volume_count": 4,
+    "game_version": "7.0",
+    "tags": [
+      "книги",
+      "Танцы Полярной звезды"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 7000000,
+    "search_text": "танцы полярной звезды polestar ballet anthology 极星舞剧集 снежная 4 book_series 7.0 книги том 1 volume 1 卷 1 том 2 volume 2 卷 2 том 3 volume 3 卷 3 том 4 volume 4 卷 4"
+  },
+  {
+    "id": "book_suit_1075",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "",
+    "title": {
+      "ru": "Сердце зверя Бездны",
+      "en": "Heart of the Abyssal Beast",
+      "zh": "渊兽之心"
+    },
+    "region": "Снежная",
+    "rarity": 3,
+    "volume_count": 1,
+    "game_version": "7.2",
+    "tags": [
+      "книги",
+      "Сердце зверя Бездны"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 7002000,
+    "search_text": "сердце зверя бездны heart of the abyssal beast 渊兽之心 снежная 3 book_series 7.2 книги том 1 volume 1 卷 1"
+  },
+  {
+    "id": "book_suit_1076",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "",
+    "title": {
+      "ru": "История Снежной",
+      "en": "General History of Snezhnaya",
+      "zh": "至冬国通史"
+    },
+    "region": "Снежная",
+    "rarity": 3,
+    "volume_count": 2,
+    "game_version": "7.0",
+    "tags": [
+      "книги",
+      "История Снежной"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 7000000,
+    "search_text": "история снежной general history of snezhnaya 至冬国通史 снежная 3 book_series 7.0 книги том 1 volume 1 卷 1 том 2 volume 2 卷 2"
+  },
+  {
+    "id": "book_suit_1077",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "",
+    "title": {
+      "ru": "Дополнение к всеобщей истории Снежной",
+      "en": "General History of Snezhnaya Supplement",
+      "zh": "至冬国通史补编"
+    },
+    "region": "Снежная",
+    "rarity": 3,
+    "volume_count": 3,
+    "game_version": "7.2",
+    "tags": [
+      "книги",
+      "Дополнение к всеобщей истории Снежной"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 7002000,
+    "search_text": "дополнение к всеобщей истории снежной general history of snezhnaya supplement 至冬国通史补编 снежная 3 book_series 7.2 книги том 1 volume 1 卷 1 том 2 volume 2 卷 2 том 3 volume 3 卷 3"
+  },
+  {
+    "id": "book_suit_1078",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "",
+    "title": {
+      "ru": "Белый и Чёрный",
+      "en": "Belyi and Chernyi",
+      "zh": "白与黑"
+    },
+    "region": "Снежная",
+    "rarity": 3,
+    "volume_count": 1,
+    "game_version": "7.2",
+    "tags": [
+      "книги",
+      "Белый и Чёрный"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 7002000,
+    "search_text": "белый и чёрный belyi and chernyi 白与黑 снежная 3 book_series 7.2 книги том 1 volume 1 卷 1"
+  },
+  {
     "id": "breeze_amidst_the_forest",
     "category": "books",
     "subtype": "book_series",

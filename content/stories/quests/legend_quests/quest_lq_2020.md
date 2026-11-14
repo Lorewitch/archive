@@ -15,11 +15,13 @@
 # chapter_num_zh: 古闻之章 第二幕
 # part_source_ids: 11120,11121,11122,11123,11124
 # previous_quests: quest_lq_2014
-# next_quests:
+# next_quests: 
 # related_quests: quest_lq_2014
 # quest_chain: quest_lq_2014,quest_lq_2020
 # quest_series: Historia Antiqua || Historia Antiqua Chapter
 # version_source: wiki_release_category
+# game_source_ids: 11120,11121,11122,11123,11124
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -47,6 +49,8 @@
 
 #### Отыщите дядюшку Дая рядом с причалом
 
+#### Отыщите дядюшку Дая рядом с причалом
+
 **Паймон:** Эй! Это вы дядюшка Дай?
 
 **Дядюшка Дай:** Он самый.
@@ -71,9 +75,15 @@
 
 **Паймон:** Дяденька, кажется, нас недооценивает...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Держи себя в руках, Паймон...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Паймон, опять в тебе взыграл дух соперничества...
+
+##### Общее продолжение
 
 **Дядюшка Дай:** Вы не в курсе случившегося. Инцидент сей произошёл в шахте, и он несколько необычен. В шахтах всегда было небезопасно, и я на всякий случай нанял специалиста.
 
@@ -89,9 +99,9 @@
 
 **Паймон:** А потому, что самый лучший знаток камня в Тейвате - наш друг!
 
-А ты случайно не имеешь в виду...
+- **Путешественник:** А ты случайно не имеешь в виду...
 
-(Отлично, мне тоже хотелось бы задать ему парочку вопросов.)
+- **Путешественник:** (Отлично, мне тоже хотелось бы задать ему парочку вопросов.)
 
 **Паймон:** Ох-хо-хо! Всегда найдётся кто-то лучше! Подожди немного, сейчас мы его приведём!
 
@@ -109,9 +119,15 @@
 
 **Чжун Ли:** Уж его-то у меня в избытке.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы тут приняли поручение...
 
+##### Вариант ответа 2
+
 - **Путешественник:** У нас есть одно особое задание...
+
+##### Общее продолжение
 
 **Паймон:** Нам нужен человек, который смыслит в геологии и руде.
 
@@ -139,6 +155,8 @@
 
 **Паймон:** Раз Чжун Ли согласен, идём к дядюшке Даю!
 
+**Дядюшка Дай:** Ваш специалист по камням... Как он выглядит?
+
 #### Вернитесь к дядюшке Даю рядом с причалом
 
 **Паймон:** Дядюшка Дай! А вот мы и вернулись!
@@ -153,7 +171,7 @@
 
 **Дядюшка Дай:** Расхваливать его я не стану. Вы сейчас сами всё увидите.
 
-**Кунь Цзюнь:** Эм... Так это здесь?
+**???:** Эм... Так это здесь?
 
 **Дядюшка Дай:** Лёгок на помине! Позвольте мне представить вам моего помощника, Кунь Цзюня.
 
@@ -163,7 +181,7 @@
 
 **Чжун Ли:** ...
 
-Это Чжун Ли, консультант ритуального бюро «Ваншэн».
+- **Путешественник:** Это Чжун Ли, консультант ритуального бюро «Ваншэн».
 
 **Дядюшка Дай:** Консультант ритуального бюро «Ваншэн»... Господин Чжун Ли! Весьма о вас наслышан. Говорят, вы обладаете выдающимися способностями и эрудицией. Не ожидал, что сегодня повстречаю вас.
 
@@ -171,7 +189,7 @@
 
 **Паймон:** Дядюшка Дай, разве тебе не интересно узнать, кто из них лучший эксперт?
 
-Так вот что ты задумала.
+- **Путешественник:** Так вот что ты задумала.
 
 **Дядюшка Дай:** А? Хм... Я даже не знаю с чего начать...
 
@@ -215,9 +233,15 @@
 
 **Кунь Цзюнь:** Блестяще. Этот камень действительно образовался рядом с вулканом. Я наткнулся на него на рынке и сразу же купил. Продавец принял его за производственные отходы и понятия не имел, какое это сокровище.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Но ведь кристальная руда есть везде.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Чем так хорош этот конкретный кусок?
+
+##### Общее продолжение
 
 **Кунь Цзюнь:** Одна лишь чистота и редкость драгоценным его ещё не делает. Во многих более редких и ценных кристаллах встречаются вкрапления воды или золотого песка.
 
@@ -273,6 +297,8 @@
 
 **Дядюшка Дай:** Хорошо, я буду ждать здесь. Для поисков вам открыта вся шахта. Если вы найдёте какие-нибудь следы пропавших, обязательно дайте знать!
 
+**Браво:** Куда пропали мои друзья? Ах... какой ужас.
+
 #### Найдите улики
 
 **Паймон:** Вон там! Что это?
@@ -297,9 +323,15 @@
 
 **Чжун Ли:** Да.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Может, они им были ни к чему?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Может, они просто забыли о них?
+
+##### Общее продолжение
 
 **Чжун Ли:** Маловероятно.
 
@@ -315,11 +347,17 @@
 
 **Паймон:** Ой!
 
-Думаешь... их похитили?
+- **Путешественник:** Думаешь... их похитили?
 
 **Чжун Ли:** Вполне вероятно. Для дальнейших заключений нам понадобится больше улик.
 
 **Паймон:** Возможно, они ушли не по своей воле... Запишем это и расскажем дядюшке Даю.
+
+**Кунь Цзюнь:** Будет лучше, если мы разделимся. Я буду искать здесь.
+
+**Кунь Цзюнь:** Хм... начнём с изучения деталей... какие у нас тут в округе камни...
+
+**Дядюшка Дай:** Поиски улик я оставляю вам.
 
 #### Продолжайте поиск улик
 
@@ -399,6 +437,8 @@
 
 **Паймон:** Происшествие в рабочей части... так и запишем.
 
+**Кунь Цзюнь:** Разве их мог похитить ребёнок? Хм...
+
 #### Расскажите дядюшке Даю о результатах вашего расследования
 
 **Дядюшка Дай:** Вы вернулись! Как идёт расследование?
@@ -429,7 +469,7 @@
 
 **Дядюшка Дай:** На север! Хорошо, я соберу людей и начну поиски.
 
-Вам помочь?
+- **Путешественник:** Вам помочь?
 
 **Дядюшка Дай:** Вы оказали нам неоценимую помощь с расследованием, поэтому беготню мы возьмём на себя. Если мы сейчас поспешим, то, может быть, ещё нагоним их.
 
@@ -457,6 +497,10 @@
 
 **Паймон:** Точно, где Кунь Цзюнь? Паймон уверена, он всё ещё занят расследованием. Давайте позовём его!
 
+**Исследовать камень:** (Похоже... это какой-то вид кор ляписа?)
+
+**Исследовать камень:** (Оказывается, эти камни могут запоминать, что происходило вокруг них. Какие удивительные камни!)
+
 #### Разыщите Кунь Цзюня
 
 **Паймон:** Кунь Цзюнь, что это ты ищешь? Зацепки мы все уже нашли, идём!
@@ -465,9 +509,15 @@
 
 **Чжун Ли:** «Жемчужина дракона»?
 
-- **Путешественник:** Никогда о таком не слышал(а).
+##### Вариант ответа 1
+
+- **Путешественник:** Никогда о таком не слышал. / Никогда о таком не слышала.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Мне о таком неизвестно.
+
+##### Общее продолжение
 
 **Чжун Ли:** Жемчужина дракона часто используется в ковке. Для чего она тебе?
 
@@ -509,6 +559,10 @@
 
 **Чжун Ли:** Давайте найдём выход из перевала Линцзю. Если следов там не будет, значит, шахтёры ещё не покинули перевал. Ежели мы найдём новые следы, посмотрим, куда они нас приведут.
 
+**Исследовать камень:** (Похоже... это какой-то вид кор ляписа?)
+
+**Исследовать камень:** (Оказывается, эти камни могут запоминать, что происходило вокруг них. Какие удивительные камни!)
+
 #### Продолжайте поиск улик поблизости
 
 **Паймон:** Ой, тут следы!
@@ -517,11 +571,31 @@
 
 **Паймон:** Если мы пойдём по их следам, то узнаем, куда они направились!
 
+#### Продолжайте идти по следам
+
 #### Расспросите людей поблизости
 
-**Исследовать камень:** (На первый взгляд ничем не отличается от обычного янтаря... Однако Кунь Цзюнь может читать его воспоминания.)
+**Паймон:** Скажи, пожалуйста, не видел ли ты поблизости шахтёров?
 
-**Исследовать камень:** (Эти камни смогут помочь нам в нашем расследовании.)
+**Юн Гуй:** Шахтёров? Нет, не видел.
+
+**Паймон:** Хм... Спросим у кого-нибудь другого.
+
+**Юн Гуй:** Ох... Старость не радость... Что же вы, ноги мои, еле волочитесь?..
+
+#### Расспросите людей поблизости
+
+**Паймон:** Привет! Ты здесь шахтёров не видел? Огромного роста, четыре человека!
+
+**Вэй:** Не мешай! Я тут облаками любуюсь, не видишь, что ли?
+
+**Паймон:** Ой, какие мы сердитые...
+
+**Паймон:** Ладно, обратимся к кому-нибудь ещё.
+
+**Вэй:** Ай, опять вы! Я занят!
+
+#### Расспросите людей поблизости
 
 **Паймон:** Приветики! Здесь шахтёры не проходили?
 
@@ -543,25 +617,11 @@
 
 **Паймон:** За ними!
 
-**Паймон:** Скажи, пожалуйста, не видел ли ты поблизости шахтёров?
+#### Продолжайте следовать вдоль дороги
 
-**Юн Гуй:** Шахтёров? Нет, не видел.
+**Сяо Лин:** Никогда такого не видела... Они что, лунатики? Очень странно.
 
-**Паймон:** Хм... Спросим у кого-нибудь другого.
-
-#### Расспросите людей поблизости
-
-**Исследовать камень:** (Похоже... это какой-то вид кор ляписа?)
-
-**Исследовать камень:** (Оказывается, эти камни могут запоминать, что происходило вокруг них. Какие удивительные камни!)
-
-**Паймон:** Привет! Ты здесь шахтёров не видел? Огромного роста, четыре человека!
-
-**Вэй:** Не мешай! Я тут облаками любуюсь, не видишь, что ли?
-
-**Паймон:** Ой, какие мы сердитые...
-
-**Паймон:** Ладно, обратимся к кому-нибудь ещё.
+#### Спасите учёного от монстров
 
 #### Поговорите с учёным
 
@@ -581,7 +641,7 @@
 
 **Вань Юй:** Да. Позавчера я вышла от Южных небесных врат по направлению к перевалу Линцзю. Примерно на полпути мне повстречалась группа людей, четыре мужчины и ребёнок.
 
-Нельзя ли поподробнее?
+- **Путешественник:** Нельзя ли поподробнее?
 
 **Вань Юй:** Я спешила и не обратила на них внимания. Об их внешности ничего сказать не могу... простите.
 
@@ -597,7 +657,7 @@
 
 **Паймон:** Ребенок и четверо взрослых. Совпадение? Паймон так не думает.
 
-Это вполне могли быть не они.
+- **Путешественник:** Это вполне могли быть не они.
 
 **Паймон:** Э... но... но...
 
@@ -655,13 +715,23 @@
 
 **Паймон:** А? Он что-то шепчет...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Будто сопротивляется из последних сил...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Кажется, он пытается подняться.
+
+##### Общее продолжение
 
 **Чжун Ли:** Какое неестественное упорство.
 
 **Чжун Ли:** Неподалёку есть лагерь. Отведём его туда, чтобы он мог оправиться, а потом решим, что делать.
+
+**Исследовать камень:** (На первый взгляд ничем не отличается от обычного янтаря... Однако Кунь Цзюнь может читать его воспоминания.)
+
+**Исследовать камень:** (Эти камни смогут помочь нам в нашем расследовании.)
 
 #### Отнесите шахтёра в лагерь неподалёку
 
@@ -671,15 +741,21 @@
 
 **Чжун Ли:** Он переутомился и потерял сознание. К счастью, его жизни ничто не угрожает.
 
-Как он смог так себя изнурить?
+- **Путешественник:** Как он смог так себя изнурить?
 
 **Паймон:** Паймон услышала, как он говорил что-то о копании. Может, он докопался?
 
 **Чжун Ли:** Не исключено.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Странно...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Он ведь не сам сюда пришёл?
+
+##### Общее продолжение
 
 **Кунь Цзюнь:** Хм? Кажется, у него что-то в кармане...
 
@@ -715,9 +791,15 @@
 
 **Паймон:** Какой красивый... Переливается всеми цветами радуги! А под другим углом это словно другой кристалл.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Выглядит дорого...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это правда мне?
+
+##### Общее продолжение
 
 **Кунь Цзюнь:** Пожалуйста, прими его.
 
@@ -741,7 +823,7 @@
 
 **Кунь Цзюнь:** Отдохните. Когда будете готовы выдвигаться, позовёте. Я буду неподалёку.
 
-С ним ведь ничего не случится?
+- **Путешественник:** С ним ведь ничего не случится?
 
 **Чжун Ли:** Не переживай. Местность я уже осмотрел. Никакой опасности здесь нет.
 
@@ -749,9 +831,9 @@
 
 **Паймон:** Хм? С чего это ты вдруг стал такой серьёзный?
 
-**Чжун Ли:** Путешественни(ца)(к), знакомо ли тебе название «Жемчужина дракона»?
+**Чжун Ли:** Путешественник, знакомо ли тебе название «Жемчужина дракона»? / Путешественница, знакомо ли тебе название «Жемчужина дракона»?
 
-Нет.
+- **Путешественник:** Нет.
 
 **Паймон:** Это тот камень, который ищет Кунь Цзюнь? Что в нём такого особенного?
 
@@ -775,7 +857,7 @@
 
 **Чжун Ли:** Ещё остались люди из горного дела, которые сохранили к Жемчужинам дракона интерес. Но Кунь Цзюнь, который сам не знает, зачем ему этот камень, - это случай единичный.
 
-Быть может, он держит истинные побуждения в тайне.
+- **Путешественник:** Быть может, он держит истинные побуждения в тайне.
 
 **Паймон:** В тайне... Он злодей, получается?!
 
@@ -805,7 +887,7 @@
 
 **Кунь Цзюнь:** Опять-таки, с ходом времени и изменениями в окружении воспоминания руды могут меняться.
 
-Есть ли в этом закономерность?
+- **Путешественник:** Есть ли в этом закономерность?
 
 **Кунь Цзюнь:** Хм, трудно сказать... Лично я считаю, что руда, как правило, хранит более свежие воспоминания.
 
@@ -817,6 +899,14 @@
 
 **Кунь Цзюнь:** Ага, и в самом деле. Идём дальше.
 
+**Шахтёр:** Ох... Ух...
+
+**Шахтёр:** (Он выглядит измождённым.)
+
+**Шахтёр:** Ох... Ух...
+
+**Шахтёр:** (Он выглядит измождённым.)
+
 #### Найдите улики под древним деревом
 
 **Кунь Цзюнь:** Ух ты, какое огромное дерево!
@@ -827,9 +917,15 @@
 
 **Чжун Ли:** Давайте разделимся. Я возьму эту область, а вы могли бы исследовать ту часть.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хорошо.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Будь осторожен.
+
+##### Общее продолжение
 
 **Чжун Ли:** Конечно.
 
@@ -851,13 +947,13 @@
 
 **Кунь Цзюнь:** ...Голова закружилась. Ничего, уже прошло.
 
-Ты что-нибудь видел?
+- **Путешественник:** Ты что-нибудь видел?
 
 **Кунь Цзюнь:** Пока что... хм... ничего.
 
 **Паймон:** Ладно тогда. Путешественник, Паймон поищет вон там. А ты полезай на дерево.
 
-Почему ты думаешь, что на дереве могут быть какие-либо зацепки?
+- **Путешественник:** Почему ты думаешь, что на дереве могут быть какие-либо зацепки?
 
 **Паймон:** Не попробуешь - не узнаешь! К тому же с него видна вся округа!
 
@@ -887,8 +983,17 @@
 
 **Чжун Ли:** В конце входа чувствуется присутствие чего-то необычного. Всем приготовиться. Будьте крайне осторожны.
 
+#### Завершите приготовления и войдите в тоннель
+
+#### Войдите в подземелье в конце тоннеля
 
 **Шахтёр:** У... у...
+
+**Шахтёр:** Ох...
+
+**Шахтёр:** Уф... уф...
+
+#### Одолейте Аждаху
 
 #### Узнайте правду
 
@@ -904,7 +1009,7 @@
 
 **Цзю:** Значит, такова мудрость богов? Искоренить всё, что сочтёшь ненужным, назначить тиранов, которые уничтожают природу!
 
-**Кунь Цзюнь:** Нет. Ты не помнишь.
+**???:** Нет. Ты не помнишь.
 
 **Паймон:** Этот голос...
 
@@ -916,21 +1021,27 @@
 
 **Цзю:** Т-ты...
 
-**Кунь Цзюнь:** Не кто иной, как... Аждаха.
+**Кунь Цзюнь?:** Не кто иной, как... Аждаха.
 
 **Чжун Ли:** Во время битвы... ты наделил нас своей силой...
 
-**Кунь Цзюнь:** Да, ха-ха. Это всё, что я мог сделать.
+**Кунь Цзюнь?:** Да, ха-ха. Это всё, что я мог сделать.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Кто именно из вас Аждаха?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Разве ты не Кунь Цзюнь?
 
-**Кунь Цзюнь:** Прости, что утаил от тебя правду, путешественни(ца)(к). Некоторые вещи я понял, лишь когда добрался до этого дерева.
+##### Общее продолжение
 
-**Кунь Цзюнь:** Позволь мне пояснить. Я не целый Аждаха... а всего лишь его осколок.
+**Кунь Цзюнь?:** Прости, что утаил от тебя правду, путешественник. Некоторые вещи я понял, лишь когда добрался до этого дерева. / Прости, что утаил от тебя правду, путешественница. Некоторые вещи я понял, лишь когда добрался до этого дерева.
 
-**Кунь Цзюнь:** Небо и земля, инь и ян, две противоположности... Можешь считать существование меня и того Аждахи, которого ты видишь здесь, отражением таких противоположностей. «Мы» - расщеплённая воля Аждахи.
+**Кунь Цзюнь?:** Позволь мне пояснить. Я не целый Аждаха... а всего лишь его осколок.
+
+**Кунь Цзюнь?:** Небо и земля, инь и ян, две противоположности... Можешь считать существование меня и того Аждахи, которого ты видишь здесь, отражением таких противоположностей. «Мы» - расщеплённая воля Аждахи.
 
 **Паймон:** Так Аждах двое?!
 
@@ -960,7 +1071,7 @@
 
 **Кунь Цзюнь:** Память камня недолговечна. Сохраняются лишь воспоминания, основывающиеся на сильных чувствах. Но время шло, и воспоминания затуманивались всё больше. Эрозия - величайший разрушитель воспоминаний.
 
-Эрозия?..
+- **Путешественник:** Эрозия?..
 
 **Кунь Цзюнь:** Из-за эрозии память Аждахи стала подобна стёртым до глади барельефам. Он позабыл лицо старого друга, а память о защите Ли Юэ рассыпалась, как песок.
 
@@ -1016,9 +1127,15 @@
 
 **Паймон:** Девочка исчезла...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Теперь она за печатью?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Погибла из-за эрозии?
+
+##### Общее продолжение
 
 **Чжун Ли:** Доволен ли ты теперь, Аждаха?
 
@@ -1051,11 +1168,6 @@
 **Чжун Ли:** Верно. Поэтому нам нужно идти дальше и исправить всё то, что ты натворил.
 
 **Кунь Цзюнь:** Ха-ха, верно. Идём.
-
-
-**Шахтёр:** Ох... Ух...
-
-**Шахтёр:** (Он выглядит измождённым.)
 
 #### Вернитесь к основанию дерева
 
@@ -1145,9 +1257,9 @@
 
 **Паймон:** Хм?!
 
-Теперь это...
+- **Путешественник:** Теперь это...
 
-...настоящий Кунь Цзюнь?
+- **Путешественник:** ...настоящий Кунь Цзюнь?
 
 **Чжун Ли:** Да. Не волнуйтесь, он просто спит.
 
@@ -1155,16 +1267,13 @@
 
 **Чжун Ли:** С настоящим Кунь Цзюнем нам ещё предстоит познакомиться.
 
-Но как же Аждаха?..
+- **Путешественник:** Но как же Аждаха?..
 
-Он был твоим хорошим другом.
+- **Путешественник:** Он был твоим хорошим другом.
 
 **Чжун Ли:** Был.
 
 **Чжун Ли:** Это было так давно... но события тысячелетней давности до сих пор так отчётливы.
-
-
-**Шахтёр:** Ох...
 
 #### Поговорите с Чжун Ли
 
@@ -1176,17 +1285,29 @@
 
 **Чжун Ли:** Он был заточён печатью по своей воле. Жаль только, что эрозия заставила его об этом забыть.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Сила эрозии ужасна.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Эрозия влияет и на тебя?
+
+##### Общее продолжение
 
 **Чжун Ли:** Это неизбежно. Но одну истину я понимаю лучше обычных людей: когда пора уходить - уходи.
 
 **Чжун Ли:** Чем значительнее сила, попавшая под воздействие эрозии, тем большую опасность она представляет. Волны тысячелетий способны изнурить даже камень...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Поэтому ты решил уйти...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Из-за этого ты перестал быть Гео Архонтом...
+
+##### Общее продолжение
 
 **Чжун Ли:** Я также испытал эрозию на себе, когда своими руками заточил за печатью старого друга.
 
@@ -1202,13 +1323,13 @@
 
 **Паймон:** Ай, не стоит!
 
-Подожди.
+- **Путешественник:** Подожди.
 
-Я хотел(а) бы кое о чём тебя спросить.
+- **Путешественник:** Я хотел бы кое о чём тебя спросить. / Я хотела бы кое о чём тебя спросить.
 
 **Чжун Ли:** О чём именно?
 
-(Мой брат)(Моя сестра)...
+- **Путешественник:** Моя сестра... / Мой брат...
 
 **Паймон:** Точно! Паймон чуть не забыла!
 
@@ -1216,9 +1337,15 @@
 
 **Паймон:** Он рассказал нам об исчезновении Каэнри'ах и божьей каре... Именно тогда мы поняли, что всё это связано с человеком, которого мы ищем.
 
-- **Путешественник:** Это касается (моего брата)(моей сестры).
+##### Вариант ответа 1
+
+- **Путешественник:** Это касается моей сестры. / Это касается моего брата.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Для меня это очень важно.
+
+##### Общее продолжение
 
 **Паймон:** Чжун Ли, ты настоящий бог, проживший тысячи лет. Тебе это должно быть знакомо.
 
@@ -1230,7 +1357,7 @@
 
 **Паймон:** Почему?!
 
-...
+- **Путешественник:** ...
 
 **Паймон:** Почему ты не хочешь ничего нам рассказать? Ведь это так важно для нас!
 
@@ -1244,13 +1371,19 @@
 
 **Чжун Ли:** Я считаю тебя другом и совсем не желаю тебя расстраивать. Но, будучи богом контрактов, я должен им следовать.
 
-- **Путешественник:** Я нисколько не удивл(ена)(ён).
+##### Вариант ответа 1
 
-- **Путешественник:** Признаться, я этого ожидал(а).
+- **Путешественник:** Я нисколько не удивлён. / Я нисколько не удивлена.
 
-**Паймон:** Так ты был(а) готов(а) к такому ответу?
+##### Вариант ответа 2
 
-Вполне.
+- **Путешественник:** Признаться, я этого ожидал. / Признаться, я этого ожидала.
+
+##### Общее продолжение
+
+**Паймон:** Так ты был готов к такому ответу? / Так ты была готова к такому ответу?
+
+- **Путешественник:** Вполне.
 
 **Чжун Ли:** Ты понимаешь этот мир всё лучше и лучше.
 
@@ -1264,23 +1397,17 @@
 
 **Чжун Ли:** На твоём пути к тому человеку возникнут преграды. Важно верить, что путь твой правильный, и тогда ничто не потеряет смысл.
 
-### Дополнительный диалог — Разговор с Чжун Ли об Аждахе
-
+### Дополнительные реплики
 
 **Чжун Ли:** Эту каменную стелу воздвиг Творец Гор. Она называет Аждаху ужасным драконом и служит напоминанием потомкам держаться подальше от этого места... от печати.
 
 **Чжун Ли:** Жаль... Грань между добром и злом тонка. Если бы только добро и зло в нём можно было объяснить просто... то только таким образом.
 
-(Вы молча смотрите на стоящего под деревом Чжун Ли...)
+- **Путешественник:** (Вы молча смотрите на стоящего под деревом Чжун Ли...)
 
-**Чжун Ли:** (Слышно лишь, как шуршит листвой ветер. Время словно превратилось в неосязаемую реку, что течёт в тишине...)
+**Потом Чжун Ли не проронил ни слова...:** (Слышно лишь, как шуршит листвой ветер. Время словно превратилось в неосязаемую реку, что течёт в тишине...)
 
-**Чжун Ли:** (Тысяча лет в мире смертных всего лишь мимолётное мгновенье. Камень чувствует это, как и земля, как и боги.)
-
-
-**Чжун Ли:** (Слышно лишь, как шуршит листвой ветер. Время словно превратилось в неосязаемую реку, что течёт в тишине...)
-
-**Чжун Ли:** (Тысяча лет в мире смертных всего лишь мимолётное мгновенье. Камень чувствует это, как и земля, как и боги.)
+**Потом Чжун Ли не проронил ни слова...:** (Тысяча лет в мире смертных всего лишь мимолётное мгновенье. Камень чувствует это, как и земля, как и боги.)
 
 ## EN
 
@@ -1308,6 +1435,8 @@ Katheryne of the Adventurers' Guild in Liyue Harbor has a new commission for you
 
 #### Head to the dock and find the foreman, Uncle Dai
 
+#### Head to the dock and find the foreman, Uncle Dai
+
 **Paimon:** Hey! Are you Uncle Dai?
 
 **Uncle Dai:** I am indeed.
@@ -1332,9 +1461,15 @@ Katheryne of the Adventurers' Guild in Liyue Harbor has a new commission for you
 
 **Paimon:** Do you think we're not up to the job?
 
+##### Response branch 1
+
 - **Traveler:** Steady, Paimon...
 
+##### Response branch 2
+
 - **Traveler:** Paimon, you're getting competitive again...
+
+##### Shared continuation
 
 **Uncle Dai:** It just occurred to me that you don't have all the facts. The incident in question happened in a mine, and it's a little out of the ordinary, to say the least. Mines are dangerous places, as I'm sure you're aware. As such, I've enlisted an industry expert to cover all contingencies.
 
@@ -1350,9 +1485,9 @@ Katheryne of the Adventurers' Guild in Liyue Harbor has a new commission for you
 
 **Paimon:** Because Teyvat's number one rock expert happens to be a friend of ours...
 
-You must be talking about...
+- **Traveler:** You must be talking about...
 
-(Perfect, I was planning to ask him a few questions.)
+- **Traveler:** (Perfect, I was planning to ask him a few questions.)
 
 **Paimon:** Haha~ Didn't expect that, did you! Wait here, we'll go fetch him.
 
@@ -1370,9 +1505,15 @@ You must be talking about...
 
 **Zhongli:** Ah... something I'm rarely short of.
 
+##### Response branch 1
+
 - **Traveler:** We've accepted a commission...
 
+##### Response branch 2
+
 - **Traveler:** We have a special task...
+
+##### Shared continuation
 
 **Paimon:** We need someone who understands geology and ore.
 
@@ -1400,6 +1541,8 @@ You must be talking about...
 
 **Paimon:** Well, we got him! Let's head back to Uncle Dai!
 
+**Uncle Dai:** Your rock expert... what does he look like?
+
 #### Return to the dock and talk to Uncle Dai
 
 **Paimon:** Uncle Dai! We're back!
@@ -1414,7 +1557,7 @@ You must be talking about...
 
 **Uncle Dai:** It's no use me singing his praises. You'll have to see for yourselves.
 
-**Kun Jun:** Uh... is this the place?
+**???:** Uh... is this the place?
 
 **Uncle Dai:** Aha! Speak of the devil! Allow me to introduce my assistant, Kun Jun.
 
@@ -1424,7 +1567,7 @@ You must be talking about...
 
 **Zhongli:** ...
 
-This is Zhongli, a consultant from the funeral parlor.
+- **Traveler:** This is Zhongli, a consultant from the funeral parlor.
 
 **Uncle Dai:** Wangsheng Funeral Parlor's consultant... Mr. Zhongli! I've heard about you. They say you're a man of great knowledge and many talents. I had no idea I'd be meeting you in person today.
 
@@ -1432,7 +1575,7 @@ This is Zhongli, a consultant from the funeral parlor.
 
 **Paimon:** Uncle Dai, aren't you going to test them?
 
-So that's what you were planning.
+- **Traveler:** So that's what you were planning.
 
 **Uncle Dai:** Huh? I... I wouldn't know where to start...
 
@@ -1476,9 +1619,15 @@ So that's what you were planning.
 
 **Kun Jun:** Remarkable. This rock does indeed hail from the vicinity of a volcano. I came across it in a market and snapped it straight up. The seller thought it was some leftover industrial remnant. They had no inkling of the treasure that lay within.
 
+##### Response branch 1
+
 - **Traveler:** Isn't Crystal Ore found everywhere?
 
+##### Response branch 2
+
 - **Traveler:** What makes this one so special?
+
+##### Shared continuation
 
 **Kun Jun:** Purity and geological rarity alone aren't enough to make a treasure. Some of the most precious crystals contain deposits of water or sand.
 
@@ -1534,6 +1683,8 @@ You arrive at the mine, the scene of the incident, and begin your investigation.
 
 **Uncle Dai:** Very well, I'll wait here, please proceed wherever you'd like. If you come across any clues, let me know straight away.
 
+**Bravo:** Where did my friends disappear to? Ugh... I tremble just thinking about it.
+
 #### Look for clues
 
 **Paimon:** Over here! What's this?
@@ -1558,9 +1709,15 @@ You arrive at the mine, the scene of the incident, and begin your investigation.
 
 **Zhongli:** Hmm, correct.
 
+##### Response branch 1
+
 - **Traveler:** Maybe they didn't need them?
 
+##### Response branch 2
+
 - **Traveler:** Maybe they just forgot them?
+
+##### Shared continuation
 
 **Zhongli:** Improbable.
 
@@ -1576,11 +1733,17 @@ You arrive at the mine, the scene of the incident, and begin your investigation.
 
 **Paimon:** Oh...!
 
-Do you think... someone kidnapped them?
+- **Traveler:** Do you think... someone kidnapped them?
 
 **Zhongli:** It's certainly a possibility. We'll need more clues before any further inference can be made.
 
 **Paimon:** If they didn't leave, maybe they were made to leave... Let's make a note and let Uncle Dai know.
+
+**Kun Jun:** We'll work more efficiently if we split up. I'll start my investigations here.
+
+**Kun Jun:** Hmm... let's start with the details... what type of rocks do we have here...
+
+**Uncle Dai:** I'll leave the investigations to you.
 
 #### Look for more clues
 
@@ -1660,6 +1823,8 @@ Do you think... someone kidnapped them?
 
 **Paimon:** An on-site accident... We should note that down too.
 
+**Kun Jun:** Could it be that the child I saw kidnapped them? Hmm...
+
 #### Report the outcome of your investigation to Uncle Dai
 
 **Uncle Dai:** You're back! How are the investigations going?
@@ -1690,7 +1855,7 @@ Do you think... someone kidnapped them?
 
 **Uncle Dai:** North! Right, I'll rally my men and head in pursuit.
 
-Do you need help?
+- **Traveler:** Do you need help?
 
 **Uncle Dai:** You've been invaluable to the investigation, but leave the legwork to us. If we set off now and make haste, we might be able to catch them.
 
@@ -1718,6 +1883,10 @@ Do you need help?
 
 **Paimon:** Oh yeah, where's Kun Jun? Paimon bets he's still investigating. Let's go find him!
 
+**Observe Stone:** (It looks like... some sort of Cor Lapis?)
+
+**Observe Stone:** (It was able to record the information we needed. A curious stone, indeed.)
+
 #### Find Kun Jun
 
 **Paimon:** Kun Jun! What are you searching for? We're all out of clues! Let's get going!
@@ -1726,9 +1895,15 @@ Do you need help?
 
 **Zhongli:** Dragonfall?
 
+##### Response branch 1
+
 - **Traveler:** Never heard of it.
 
+##### Response branch 2
+
 - **Traveler:** Not my area of expertise.
+
+##### Shared continuation
 
 **Zhongli:** Dragonfall is often used in forging. What use do you have for it?
 
@@ -1770,6 +1945,10 @@ The evidence at the mining site suggests that the miners followed the road north
 
 **Zhongli:** Let us make our way to the end of Lingju Pass. If there are no footprints there, it would suggest that the miners are still within the pass itself. However, if we find new tracks, we can follow them wherever they may lead.
 
+**Observe Stone:** (It looks like... some sort of Cor Lapis?)
+
+**Observe Stone:** (It was able to record the information we needed. A curious stone, indeed.)
+
 #### Look for more clues in the area
 
 **Paimon:** Hey! Footprints!
@@ -1778,11 +1957,31 @@ The evidence at the mining site suggests that the miners followed the road north
 
 **Paimon:** If we follow their footprints, we should be able to find where they went!
 
+#### Follow the footprints
+
 #### Ask people nearby for information
 
-**Observe Stone:** (This rock is no different from ordinary Cor Lapis... and yet, Kun Jun was able to see a memory through it.)
+**Paimon:** Hi there, have you seen anyone dressed like a miner around here?
 
-**Observe Stone:** (It was thanks to this sort of rock that we were able to find some clues.)
+**Yonggui:** A miner? I'm afraid not.
+
+**Paimon:** *sigh* Let's try someone else.
+
+**Yonggui:** *sigh* My legs don't work like they used to... Guess my age is catching up with me...
+
+#### Ask people nearby for information
+
+**Paimon:** Hello! Have you seen any miners nearby? About this tall — four of them?
+
+**Wei:** Stop bothering me! Can't you see I'm cloud-watching?
+
+**Paimon:** Geez! A little grumpy, aren't we?
+
+**Paimon:** Whatever, let's go ask someone else.
+
+**Wei:** You again... I'm busy!
+
+#### Ask people nearby for information
 
 **Paimon:** Hey there, seen any miners?
 
@@ -1804,25 +2003,11 @@ The evidence at the mining site suggests that the miners followed the road north
 
 **Paimon:** Let's go after them!
 
-**Paimon:** Hi there, have you seen anyone dressed like a miner around here?
+#### Follow the road and keep up the pursuit
 
-**Yonggui:** A miner? I'm afraid not.
+**Ling:** I've never seen anything like it... Were they sleepwalking? So bizarre...
 
-**Paimon:** *sigh* Let's try someone else.
-
-#### Ask people nearby for information
-
-**Observe Stone:** (It looks like... some sort of Cor Lapis?)
-
-**Observe Stone:** (It was able to record the information we needed. A curious stone, indeed.)
-
-**Paimon:** Hello! Have you seen any miners nearby? About this tall — four of them?
-
-**Wei:** Stop bothering me! Can't you see I'm cloud-watching?
-
-**Paimon:** Geez! A little grumpy, aren't we?
-
-**Paimon:** Whatever, let's go ask someone else.
+#### Save the ambushed scholar
 
 #### Talk to the scholar
 
@@ -1842,7 +2027,7 @@ The evidence at the mining site suggests that the miners followed the road north
 
 **Wanyu:** Yes. I set off from Nantianmen the day before yesterday heading for Lingju Pass. About halfway there I came across some people — a few men and a child.
 
-Can you be a bit more specific?
+- **Traveler:** Can you be a bit more specific?
 
 **Wanyu:** I was in a hurry, I didn't get a good look. I'm afraid I'm not even sure what they looked like... apologies.
 
@@ -1858,7 +2043,7 @@ Can you be a bit more specific?
 
 **Paimon:** A child with a group of adults! Sounds pretty close to Paimon!
 
-It could easily have been a different group.
+- **Traveler:** It could easily have been a different group.
 
 **Paimon:** Uh... but...
 
@@ -1916,13 +2101,23 @@ It could easily have been a different group.
 
 **Paimon:** *gasp* Sounds like he's whispering something...
 
+##### Response branch 1
+
 - **Traveler:** He looks like he's struggling...
 
+##### Response branch 2
+
 - **Traveler:** He looks like he's trying to stand up.
+
+##### Shared continuation
 
 **Zhongli:** It seems that he thinks he still has work to do. Something's not right.
 
 **Zhongli:** There's a camp nearby. We should take him there and monitor his condition before deciding our next move.
+
+**Observe Stone:** (This rock is no different from ordinary Cor Lapis... and yet, Kun Jun was able to see a memory through it.)
+
+**Observe Stone:** (It was thanks to this sort of rock that we were able to find some clues.)
 
 #### Take the miner to a nearby camp to rest
 
@@ -1932,15 +2127,21 @@ It could easily have been a different group.
 
 **Zhongli:** He's worked himself into a stupor. Thankfully, he's not in serious danger.
 
-How did he get so exhausted?
+- **Traveler:** How did he get so exhausted?
 
 **Paimon:** Paimon heard him talking about digging for something. Did he dig himself into this state?
 
 **Zhongli:** It's certainly a possibility.
 
+##### Response branch 1
+
 - **Traveler:** Strange...
 
+##### Response branch 2
+
 - **Traveler:** Wasn't he brought here?
+
+##### Shared continuation
 
 **Kun Jun:** Hm? It looks like there's something in his pocket...
 
@@ -1976,9 +2177,15 @@ How did he get so exhausted?
 
 **Paimon:** It's beautiful... Oh — and the colors change as you turn it! It's like a different crystal from each angle.
 
+##### Response branch 1
+
 - **Traveler:** Looks expensive...
 
+##### Response branch 2
+
 - **Traveler:** Can I really keep this?
+
+##### Shared continuation
 
 **Kun Jun:** But of course, take it.
 
@@ -2002,7 +2209,7 @@ How did he get so exhausted?
 
 **Kun Jun:** Get some rest, and call me when you're ready to set off. I won't be far.
 
-He'll be okay on his own, right?
+- **Traveler:** He'll be okay on his own, right?
 
 **Zhongli:** Rest easy, I surveyed the area. There's no danger here.
 
@@ -2012,7 +2219,7 @@ He'll be okay on his own, right?
 
 **Zhongli:** Traveler... Does Dragonfall mean anything to you?
 
-No.
+- **Traveler:** No.
 
 **Paimon:** You mean the ore that Kun Jun's looking for? What's so special about it?
 
@@ -2036,7 +2243,7 @@ No.
 
 **Zhongli:** There are those in the mining trade who retain a keen interest in Dragonfall. But for someone like Mr. Kun Jun... whose motivations for seeking it are unclear even unto himself... it's practically unheard-of.
 
-Perhaps he has ulterior motives.
+- **Traveler:** Perhaps he has ulterior motives.
 
 **Paimon:** Ulterior motives... *gasp* Is he a villain!?
 
@@ -2066,7 +2273,7 @@ Finally, you reach Nantianmen. A curious ancient tree has quietly stood here thr
 
 **Kun Jun:** Then again, the memories of ore can shift with the passage of time and the changing of the environment.
 
-Is there a pattern to it?
+- **Traveler:** Is there a pattern to it?
 
 **Kun Jun:** Hmm, difficult to say... I feel that ore memories tend to be from the recent past.
 
@@ -2078,6 +2285,14 @@ Is there a pattern to it?
 
 **Kun Jun:** Indeed... Let's keep going.
 
+**Miner:** Ugh... Oh...
+
+**Observe Miner:** (He looks exhausted.)
+
+**Miner:** Ugh... Oh...
+
+**Miner:** (He looks exhausted.)
+
 #### Head to the ancient tree and investigate
 
 **Kun Jun:** Wow, such an immense tree!
@@ -2088,9 +2303,15 @@ Is there a pattern to it?
 
 **Zhongli:** Let's conduct separate investigations. I'll take that area, perhaps you could survey this section.
 
+##### Response branch 1
+
 - **Traveler:** Sure.
 
+##### Response branch 2
+
 - **Traveler:** Be careful.
+
+##### Shared continuation
 
 **Zhongli:** Alright then.
 
@@ -2112,13 +2333,13 @@ Is there a pattern to it?
 
 **Kun Jun:** ...Just a bit light-headed... It's passed, nothing to worry about.
 
-Did you see anything?
+- **Traveler:** Did you see anything?
 
 **Kun Jun:** Not... hmm... not yet...
 
 **Paimon:** *sigh* Whatever, Paimon's going to investigate over there. Why don't you climb the tree and have a look, Traveler?
 
-You're sure there'll be clues in the tree?
+- **Traveler:** You're sure there'll be clues in the tree?
 
 **Paimon:** If you don't try you don't know! Anyway, you'll be able to get a good look at our surroundings from up there!
 
@@ -2148,8 +2369,17 @@ You're sure there'll be clues in the tree?
 
 **Zhongli:** There is an unusual presence emanating from inside the tunnel. Prepare yourselves, and tread lightly.
 
+#### After preparing, enter the tunnel
+
+#### Enter the Domain at the end of the underground tunnel
 
 **Miner:** Ugh... ugh...
+
+**Miner:** Oh...
+
+**Miner:** Argh...
+
+#### Defeat Azhdaha
 
 #### Learn the truth of the situation
 
@@ -2165,7 +2395,7 @@ You're sure there'll be clues in the tree?
 
 **Jiu:** So here lies the wisdom of the gods? Destroy all deemed redundant, enlist tyrants to ravage the wilderness!
 
-**Kun Jun:** No. You have forgotten.
+**???:** No. You have forgotten.
 
 **Paimon:** ...That... that voice...
 
@@ -2177,21 +2407,27 @@ You're sure there'll be clues in the tree?
 
 **Jiu:** Y—You're...
 
-**Kun Jun:** Azhdaha... the very same.
+**Kun Jun?:** Azhdaha... the very same.
 
 **Zhongli:** During the battle... you embued us with your power...
 
-**Kun Jun:** Haha... yes. It was all I could manage.
+**Kun Jun?:** Haha... yes. It was all I could manage.
+
+##### Response branch 1
 
 - **Traveler:** Then... which one is the real Azhdaha?
 
+##### Response branch 2
+
 - **Traveler:** You're not Kun Jun?
 
-**Kun Jun:** Forgive me for concealing the truth, Traveler. There were things that only became clear to me upon reaching this tree.
+##### Shared continuation
 
-**Kun Jun:** Allow me to elaborate. I am not Azhdaha the whole... but a fragment.
+**Kun Jun?:** Forgive me for concealing the truth, Traveler. There were things that only became clear to me upon reaching this tree.
 
-**Kun Jun:** Heaven and earth, yin and yang, opposing forces... You can consider the existence of me and the Azhdaha you see there, to be a reflection of such polarities. "We" are a schism of the will... the will of Azhdaha.
+**Kun Jun?:** Allow me to elaborate. I am not Azhdaha the whole... but a fragment.
+
+**Kun Jun?:** Heaven and earth, yin and yang, opposing forces... You can consider the existence of me and the Azhdaha you see there, to be a reflection of such polarities. "We" are a schism of the will... the will of Azhdaha.
 
 **Paimon:** So... so there are two Azhdahas!?
 
@@ -2221,7 +2457,7 @@ You're sure there'll be clues in the tree?
 
 **Kun Jun:** The memories of rocks do not last long. Those memories that survive are rooted in powerful emotion. But as time passes, so these memories fade into obscurity. Erosion is the world's greatest destroyer of memories.
 
-Erosion...?
+- **Traveler:** Erosion...?
 
 **Kun Jun:** Erosion ground Azhdaha's consciousness into oblivion. Slowly, he forgot the face of his old friend, and his memories of defending Liyue Harbor disintegrated.
 
@@ -2277,9 +2513,15 @@ Erosion...?
 
 **Paimon:** The little girl vanished...
 
+##### Response branch 1
+
 - **Traveler:** Sealed away?
 
+##### Response branch 2
+
 - **Traveler:** Eroded?
+
+##### Shared continuation
 
 **Zhongli:** Are you satisfied, Azhdaha?
 
@@ -2312,11 +2554,6 @@ Erosion...?
 **Zhongli:** Indeed. Hence the need to get going, to fix the damage left in your wake.
 
 **Kun Jun:** Ha... straight down to business, as always. Let's go.
-
-
-**Miner:** Ugh... Oh...
-
-**Miner:** (He looks exhausted.)
 
 #### Return to the ancient tree
 
@@ -2406,9 +2643,9 @@ Erosion...?
 
 **Paimon:** Huh!?
 
-So is this...
+- **Traveler:** So is this...
 
-...the real Kun Jun?
+- **Traveler:** ...the real Kun Jun?
 
 **Zhongli:** Yes. Don't be alarmed, he's only asleep.
 
@@ -2416,16 +2653,13 @@ So is this...
 
 **Zhongli:** In fact... we have yet to meet the real Kun Jun.
 
-But what about Azhdaha...
+- **Traveler:** But what about Azhdaha...
 
-He was a great friend of yours.
+- **Traveler:** He was a great friend of yours.
 
 **Zhongli:** He was.
 
 **Zhongli:** Centuries may have passed since then... but events from a thousand years ago... remain crystal clear in my mind.
-
-
-**Miner:** Oh...
 
 #### Talk to Zhongli
 
@@ -2437,17 +2671,29 @@ He was a great friend of yours.
 
 **Zhongli:** He was willing to be sealed away. But as the erosion set in... he forgot.
 
+##### Response branch 1
+
 - **Traveler:** The power of erosion is... scary.
 
+##### Response branch 2
+
 - **Traveler:** Have you also been affected by erosion?
+
+##### Shared continuation
 
 **Zhongli:** Even I cannot avoid it. But there is something I understand better than most: When the door opens, it is time to leave.
 
 **Zhongli:** The greater the power, the greater the danger erosion may bring about. The millennia may come and go, but even a stone may tire.
 
+##### Response branch 1
+
 - **Traveler:** Is that why you chose to leave...?
 
+##### Response branch 2
+
 - **Traveler:** Is that why you chose to step down as the Geo Archon...?
+
+##### Shared continuation
 
 **Zhongli:** Personally sealing away an old friend... this is just one form of erosion I have endured.
 
@@ -2463,13 +2709,13 @@ He was a great friend of yours.
 
 **Paimon:** No worries!
 
-Hold on.
+- **Traveler:** Hold on.
 
-I want to ask you something.
+- **Traveler:** I want to ask you something.
 
 **Zhongli:** Oh? About what?
 
-About my (brother)(sister).
+- **Traveler:** About my sister. / About my brother.
 
 **Paimon:** Oh yeah! Paimon nearly forgot!
 
@@ -2477,9 +2723,15 @@ About my (brother)(sister).
 
 **Paimon:** He told us about Khaenri'ah and the punishment of the gods... That's when we realized that those events... were connected to the person we're searching for.
 
+##### Response branch 1
+
 - **Traveler:** My sibling.
 
+##### Response branch 2
+
 - **Traveler:** This is crucial for me.
+
+##### Shared continuation
 
 **Paimon:** Zhongli, you're a god. You've lived through thousands of years of history. Surely you experienced the incident.
 
@@ -2491,7 +2743,7 @@ About my (brother)(sister).
 
 **Paimon:** Why!?
 
-...
+- **Traveler:** ...
 
 **Paimon:** You can't even give us a thread of information? This is so important to us!
 
@@ -2505,13 +2757,19 @@ About my (brother)(sister).
 
 **Zhongli:** You two are friends to me. I can assure it brings me no pleasure to disappoint you. But as the God of Contracts, I cannot go back on my word.
 
+##### Response branch 1
+
 - **Traveler:** Well, it's not out of character.
+
+##### Response branch 2
 
 - **Traveler:** I believe you.
 
+##### Shared continuation
+
 **Paimon:** Would you be ready to find out?
 
-Perhaps.
+- **Traveler:** Perhaps.
 
 **Zhongli:** It appears your understanding of this world continues to grow.
 
@@ -2525,27 +2783,25 @@ Perhaps.
 
 **Zhongli:** If you take the same road as that person, there may be more difficulties ahead. But as long as you firmly believe that you are on the right path... everything has meaning.
 
-### Additional dialogue — Zhongli on Azhdaha
-
+### Additional dialogue
 
 **Zhongli:** This tablet was erected by Mountain Shaper. It names Azhdaha as a terrible dragon, and serves as a warning for later generations to stay away from this place... from the seal.
 
 **Zhongli:** It's a shame... There is a fine line between good and evil. If the good and evil within him could be summarized in a single sentence... well, never mind.
 
-(You gaze quietly at Zhongli as he stands beneath the tree...)
+- **Traveler:** (You gaze quietly at Zhongli as he stands beneath the tree...)
 
-**Zhongli:** (Amidst the quiet, only the soft sound of the wind can be heard. Time seems to transform into an invisible river, trickling away...)
+**Zhongli says nothing more...:** (Amidst the quiet, only the soft sound of the wind can be heard. Time seems to transform into an invisible river, trickling away...)
 
-**Zhongli:** (A fleeting moment, a thousand years in the mortal world. The rocks feel it, and so too does the earth and the gods.)
-
-
-**Zhongli:** (Amidst the quiet, only the soft sound of the wind can be heard. Time seems to transform into an invisible river, trickling away...)
-
-**Zhongli:** (A fleeting moment, a thousand years in the mortal world. The rocks feel it, and so too does the earth and the gods.)
+**Zhongli says nothing more...:** (A fleeting moment, a thousand years in the mortal world. The rocks feel it, and so too does the earth and the gods.)
 
 ## ZH
 
 ### 世多古怪，横生盗匪
+
+#### 任务记录
+
+有关我空/荧的事。
 
 璃月港冒险家协会的凯瑟琳那里有新委托，你和派蒙决定前去看看。
 
@@ -2566,6 +2822,8 @@ Perhaps.
 **凯瑟琳:** 是啊，旅行者的能力毋庸置疑。
 
 **凯瑟琳:** 具体委托内容可以见面详谈。如果你们愿意接下这份工作，就到码头附近找老戴聊聊吧。
+
+#### 到码头附近找工头老戴
 
 #### 到码头附近找工头老戴
 
@@ -2593,9 +2851,15 @@ Perhaps.
 
 **派蒙:** 大叔，你是不是小看我们？
 
+##### 对话分支 1
+
 - **旅行者:** 派蒙，别这么说…
 
+##### 对话分支 2
+
 - **旅行者:** 派蒙，开始争强好胜了呢…
+
+##### 共同后续
 
 **老戴:** 你们有所不知，这次的事发生在矿区，而且有些离奇。矿区向来多事故，以防万一，我才找了懂行的高手。
 
@@ -2611,9 +2875,9 @@ Perhaps.
 
 **派蒙:** 当然不会了，因为世上最懂石头的人，是我们的朋友才对！
 
-该不会，你说的是…
+- **旅行者:** 该不会，你说的是…
 
-（刚好，我也有些事想问他。）
+- **旅行者:** （刚好，我也有些事想问他。）
 
 **派蒙:** 哼哼，天外有天，人外有人！你在这里等着，我们马上就带他过来！
 
@@ -2631,9 +2895,15 @@ Perhaps.
 
 **钟离:** 时间倒是有。
 
+##### 对话分支 1
+
 - **旅行者:** 我们接到一份委托…
 
+##### 对话分支 2
+
 - **旅行者:** 有一件特别的工作…
+
+##### 共同后续
 
 **派蒙:** 这份工作需要了解地质与矿石的人哦。
 
@@ -2661,6 +2931,8 @@ Perhaps.
 
 **派蒙:** 既然钟离答应了，那我们走吧，回去找老戴！
 
+**老戴:** 最懂石头的人，得是什么样啊…？
+
 #### 回码头找老戴聊聊
 
 **派蒙:** 老戴，我们回来了！
@@ -2675,7 +2947,7 @@ Perhaps.
 
 **老戴:** 我说不清，一会儿等他来了，你们自己感受吧！
 
-**昆钧:** 呃…是这儿吗？
+**？？？:** 呃…是这儿吗？
 
 **老戴:** 哎呀来得正好！给各位介绍一下，这是我找的帮手，昆钧。
 
@@ -2685,7 +2957,7 @@ Perhaps.
 
 **钟离:** ……
 
-他叫钟离，是往生堂的客卿。
+- **旅行者:** 他叫钟离，是往生堂的客卿。
 
 **老戴:** 往生堂客卿钟离先生…我也有所耳闻，听说你学富五车，才高八斗。没想到，今天能见到本人。
 
@@ -2693,7 +2965,7 @@ Perhaps.
 
 **派蒙:** 老戴，你不试试吗？看他们谁才是真正的行家！
 
-原来要当场比试啊。
+- **旅行者:** 原来要当场比试啊。
 
 **老戴:** 啊？这…我、我也不知从何比起啊…
 
@@ -2737,9 +3009,15 @@ Perhaps.
 
 **昆钧:** 一点不错，这块石头出自火山周边，我一边闲逛，一边在集市买了这个。卖家当它是边角料，却不知其中奥妙。
 
+##### 对话分支 1
+
 - **旅行者:** 水晶矿不是哪里都有吗？
 
+##### 对话分支 2
+
 - **旅行者:** 为什么这块就是上好的呢？
+
+##### 共同后续
 
 **昆钧:** 光是成色纯净质地高级，还不足以称为珍宝。更高一等的罕见水晶，有些包着水胆，有些则藏着金沙。
 
@@ -2795,6 +3073,8 @@ Perhaps.
 
 **老戴:** 哎，好的好的。我在这里候着，你们随意搜查，要是有失踪兄弟的线索，务必告诉我！
 
+**阿虎:** 兄弟们到底去哪儿了…唉，真吓人。
+
 #### 寻找线索
 
 **派蒙:** 你们看，这是什么？
@@ -2819,9 +3099,15 @@ Perhaps.
 
 **钟离:** 对。
 
+##### 对话分支 1
+
 - **旅行者:** 也许用不到吧？
 
+##### 对话分支 2
+
 - **旅行者:** 会不会是忘带行李了？
+
+##### 共同后续
 
 **钟离:** 不像。
 
@@ -2837,11 +3123,17 @@ Perhaps.
 
 **派蒙:** 咿——！
 
-你是说，被人带走了？
+- **旅行者:** 你是说，被人带走了？
 
 **钟离:** 这种可能性不小。更进一步的推论，需要更多线索。
 
 **派蒙:** 不是自发离开而是被人带走，把这种可能性记录下来转告给老戴吧。
+
+**昆钧:** 我就在这里调查好了，分头行动效率也会高一些。
+
+**昆钧:** 唔…先从细致观察做起吧…看看附近的石头，嗯嗯…
+
+**老戴:** 调查的事就有劳各位了。
 
 #### 寻找更多线索
 
@@ -2921,6 +3213,8 @@ Perhaps.
 
 **派蒙:** 工作区或许有状况，把这条线索记录下来吧。
 
+**昆钧:** 难道说，是那个孩子把他们带走了？唔…
+
 #### 向老戴汇报调查结果
 
 **老戴:** 你们回来了，调查得怎么样？
@@ -2951,7 +3245,7 @@ Perhaps.
 
 **老戴:** 北方！好，我这就带人去找。
 
-需要帮忙吗？
+- **旅行者:** 需要帮忙吗？
 
 **老戴:** 都把调查的事交给你们了，跑腿就让我们弟兄几个来吧。先走一步，说不定快马加鞭还能追上他们。
 
@@ -2979,6 +3273,10 @@ Perhaps.
 
 **派蒙:** 对哦，小昆这家伙，多半还在调查。去叫他吧！
 
+**观察石块:** （看起来…可能是石珀的一种？）
+
+**观察石块:** （竟然能记录下我们需要的信息，真是神奇的石头啊。）
+
 #### 寻找昆钧
 
 **派蒙:** 小昆，你还在这里找什么呀？线索都查得差不多，该出发啦！
@@ -2987,9 +3285,15 @@ Perhaps.
 
 **钟离:** 「镇龙石」？
 
+##### 对话分支 1
+
 - **旅行者:** 没听说过。
 
+##### 对话分支 2
+
 - **旅行者:** 是我不了解的东西。
+
+##### 共同后续
 
 **钟离:** 镇龙石一般用于锻造业，你找这个有什么用？
 
@@ -3031,6 +3335,10 @@ Perhaps.
 
 **钟离:** 我们到灵矩关出口去。如果那里没有脚印，就说明他们还在灵矩关内，如果有新线索，就继续追查。
 
+**观察石块:** （看起来…可能是石珀的一种？）
+
+**观察石块:** （竟然能记录下我们需要的信息，真是神奇的石头啊。）
+
 #### 在附近寻找更多线索
 
 **派蒙:** 呀，脚印！
@@ -3039,11 +3347,31 @@ Perhaps.
 
 **派蒙:** 跟着脚印就能找到他们的去处了，对吧？
 
+#### 跟着脚印继续追踪
+
 #### 向附近的人们打听情报
 
-**观察石块:** （明明和普通石珀没什么区别…小昆却能从中读到记忆。）
+**派蒙:** 请问你在这附近见过矿工打扮的人吗？
 
-**观察石块:** （多亏了这种石头，我们才能追踪到线索。）
+**永贵:** 矿工？没见过。
+
+**派蒙:** 嗯…问问别人好了。
+
+**永贵:** 唉，年纪大了，走不动路喽…
+
+#### 向附近的人们打听情报
+
+**派蒙:** 你好，你看见过矿工吗？这么大的个子，一共四个！
+
+**小伟:** 去去去，别打扰我欣赏浮云！
+
+**派蒙:** 好不耐烦的样子啊，这个人…
+
+**派蒙:** 算了，再问问其他人吧。
+
+**小伟:** 哎呀别吵，没看见我在忙吗？
+
+#### 向附近的人们打听情报
 
 **派蒙:** 请问你在这附近见过矿工打扮的人吗？
 
@@ -3065,25 +3393,11 @@ Perhaps.
 
 **派蒙:** 我们追吧！
 
-**派蒙:** 请问你在这附近见过矿工打扮的人吗？
+#### 沿路继续追踪
 
-**永贵:** 矿工？没见过。
+**小玲:** 我也是第一次看见那种情况…那些大人是睡着了吗？真奇怪。
 
-**派蒙:** 嗯…问问别人好了。
-
-#### 向附近的人们打听情报
-
-**观察石块:** （看起来…可能是石珀的一种？）
-
-**观察石块:** （竟然能记录下我们需要的信息，真是神奇的石头啊。）
-
-**派蒙:** 你好，你看见过矿工吗？这么大的个子，一共四个！
-
-**小伟:** 去去去，别打扰我欣赏浮云！
-
-**派蒙:** 好不耐烦的样子啊，这个人…
-
-**派蒙:** 算了，再问问其他人吧。
+#### 救下被围攻的学者
 
 #### 与学者对话
 
@@ -3103,7 +3417,7 @@ Perhaps.
 
 **琬玉:** 对，我是前天从南天门出发的，要往灵矩关方向去。半路上遇到一队人，是一个小孩和几个大人。
 
-能说得详细一点吗？
+- **旅行者:** 能说得详细一点吗？
 
 **琬玉:** 我走得比较急，没能细看。面貌特征什么的都记不清了…抱歉。
 
@@ -3119,7 +3433,7 @@ Perhaps.
 
 **派蒙:** 小孩跟大人的组合，没那么常见吧！
 
-还是挺常见的。
+- **旅行者:** 还是挺常见的。
 
 **派蒙:** 呃…那、那…
 
@@ -3177,13 +3491,23 @@ Perhaps.
 
 **派蒙:** 嗯？嘴里嘀咕着什么东西…
 
+##### 对话分支 1
+
 - **旅行者:** 一直在挣扎…
 
+##### 对话分支 2
+
 - **旅行者:** 很想站起来的样子。
+
+##### 共同后续
 
 **钟离:** 如此执着，实在反常。
 
 **钟离:** 附近有个营地，先带他到那里安顿下来，再做打算。
+
+**观察石块:** （明明和普通石珀没什么区别…小昆却能从中读到记忆。）
+
+**观察石块:** （多亏了这种石头，我们才能追踪到线索。）
 
 #### 送矿工去附近的营地休息
 
@@ -3193,15 +3517,21 @@ Perhaps.
 
 **钟离:** 他是劳累过度，陷入了昏迷。幸好，没有性命之忧。
 
-他怎么会累成这样？
+- **旅行者:** 他怎么会累成这样？
 
 **派蒙:** 我刚才听见他在念叨，说要挖什么东西，所以他是挖累了吗？
 
 **钟离:** 不无可能。
 
+##### 对话分支 1
+
 - **旅行者:** 好奇怪…
 
+##### 对话分支 2
+
 - **旅行者:** 他不是被带走了吗？
+
+##### 共同后续
 
 **昆钧:** 嗯？他口袋里好像有什么东西…
 
@@ -3237,9 +3567,15 @@ Perhaps.
 
 **派蒙:** 好漂亮的水晶啊，颜色还会变！这样看，那样看…感觉都不一样。
 
+##### 对话分支 1
+
 - **旅行者:** 看起来非常贵重…
 
+##### 对话分支 2
+
 - **旅行者:** 真的可以给我吗？
+
+##### 共同后续
 
 **昆钧:** 别客气，拿着吧。
 
@@ -3263,7 +3599,7 @@ Perhaps.
 
 **昆钧:** 你们慢慢休息，出发前叫我一声。我就在附近，不会走远。
 
-他一个人不要紧吧。
+- **旅行者:** 他一个人不要紧吧。
 
 **钟离:** 不用担心，我刚才看过周围，没有其他危险。
 
@@ -3273,7 +3609,7 @@ Perhaps.
 
 **钟离:** 旅行者，关于「镇龙石」，你有什么印象吗？
 
-没有。
+- **旅行者:** 没有。
 
 **派蒙:** 是他找的那种矿石对吧，有什么特别之处吗？
 
@@ -3297,7 +3633,7 @@ Perhaps.
 
 **钟离:** 矿业相关的工作者里，也有一些对镇龙石感兴趣的人。但像昆兄这样说不出缘由却要找石头的…十分少见。
 
-或许他是另有来意。
+- **旅行者:** 或许他是另有来意。
 
 **派蒙:** 另有来意…是坏人吗？！
 
@@ -3327,7 +3663,7 @@ Perhaps.
 
 **昆钧:** 果然，矿石的记忆也会随时间、环境而变化。
 
-有什么规律吗？
+- **旅行者:** 有什么规律吗？
 
 **昆钧:** 呃，不太好归纳呢…我个人觉得，矿石中留存的，大多是近期的记忆。
 
@@ -3339,6 +3675,14 @@ Perhaps.
 
 **昆钧:** 嗯，也有道理。走吧，去前面看看。
 
+**矿工:** 唔…呜…
+
+**观察矿工:** （他看起来似乎很疲惫。）
+
+**矿工:** 唔…呜…
+
+**矿工:** （他看起来似乎很疲惫。）
+
 #### 到古树下调查线索
 
 **昆钧:** 哇，好大一棵树！
@@ -3349,9 +3693,15 @@ Perhaps.
 
 **钟离:** 分头调查吧，那边交给我，这一带就拜托你们了。
 
+##### 对话分支 1
+
 - **旅行者:** 好。
 
+##### 对话分支 2
+
 - **旅行者:** 注意安全。
+
+##### 共同后续
 
 **钟离:** 嗯。
 
@@ -3373,13 +3723,13 @@ Perhaps.
 
 **昆钧:** …刚刚有些头晕而已，没关系，已经好了。
 
-有什么发现吗？
+- **旅行者:** 有什么发现吗？
 
 **昆钧:** 暂时…嗯，暂时还没有。
 
 **派蒙:** 没办法了，旅行者，我到那边再找找，你爬到树上去看看？
 
-你确定树上有线索？
+- **旅行者:** 你确定树上有线索？
 
 **派蒙:** 不试试怎么知道没有，再说，你还可以登高望远呀！
 
@@ -3409,8 +3759,17 @@ Perhaps.
 
 **钟离:** 尽头有些不寻常的气息。谨慎起见，各位，请做好准备。
 
+#### 准备完成后进入地道
+
+#### 进入地道尽头的秘境
 
 **矿工:** 呜…呜…
+
+**矿工:** 呃…
+
+**矿工:** 呼…呼…
+
+#### 击败若陀龙王
 
 #### 了解真相
 
@@ -3426,7 +3785,7 @@ Perhaps.
 
 **阿鸠:** 这就是神的考量吗？毁灭你所不需要的东西，带着屠夫蹂躏荒野！
 
-**昆钧:** 不，是你忘记了。
+**？？？:** 不，是你忘记了。
 
 **派蒙:** 这个声音是…
 
@@ -3438,21 +3797,27 @@ Perhaps.
 
 **阿鸠:** 你究竟是…
 
-**昆钧:** 如你所见，若陀龙王。
+**昆钧？:** 如你所见，若陀龙王。
 
 **钟离:** 方才那场战斗中，你把力量都用在了我们身上。
 
-**昆钧:** 哈哈，没办法，我拥有的只有这些。
+**昆钧？:** 哈哈，没办法，我拥有的只有这些。
+
+##### 对话分支 1
 
 - **旅行者:** 到底谁才是若陀龙王…
 
+##### 对话分支 2
+
 - **旅行者:** 你不是昆钧吗？
 
-**昆钧:** 恕我未能及时告知真相，旅行者。有些事我也是到了这棵树下才明白过来。
+##### 共同后续
 
-**昆钧:** 确切说来，我并非完整的若陀龙王…而是一小块碎片。
+**昆钧？:** 恕我未能及时告知真相，旅行者。有些事我也是到了这棵树下才明白过来。
 
-**昆钧:** 天地、阴阳、两仪，你可以将我和那边的龙王视为此种「存在」。「我们」均是若陀龙王意志的分体。
+**昆钧？:** 确切说来，我并非完整的若陀龙王…而是一小块碎片。
+
+**昆钧？:** 天地、阴阳、两仪，你可以将我和那边的龙王视为此种「存在」。「我们」均是若陀龙王意志的分体。
 
 **派蒙:** 有两个若陀龙王？！
 
@@ -3482,7 +3847,7 @@ Perhaps.
 
 **昆钧:** 岩石的记忆并不很长，能留存其中的只有极为强烈的情感。时间越久，记忆便越模糊。「磨损」，正是世界加诸其身的导火索。
 
-「磨损」…
+- **旅行者:** 「磨损」…
 
 **昆钧:** 磨损夺去了若陀龙王的思考，让他渐渐回忆不起故友的面貌，想不起曾亲自守护的璃月港。
 
@@ -3538,9 +3903,15 @@ Perhaps.
 
 **派蒙:** 那个小女孩完全消失了…
 
+##### 对话分支 1
+
 - **旅行者:** 被封印的宿命吗？
 
+##### 对话分支 2
+
 - **旅行者:** 被磨损的宿命吗？
+
+##### 共同后续
 
 **钟离:** 若陀，满意了吗？
 
@@ -3573,11 +3944,6 @@ Perhaps.
 **钟离:** 没错。所以我现在要去外面走走，处理因你而起的问题。
 
 **昆钧:** 哈哈，所言甚是。走吧。
-
-
-**矿工:** 唔…呜…
-
-**矿工:** （他看起来似乎很疲惫。）
 
 #### 返回古树下
 
@@ -3667,9 +4033,9 @@ Perhaps.
 
 **派蒙:** 呜哇！！
 
-现在倒下的是…
+- **旅行者:** 现在倒下的是…
 
-真正的昆钧吧？
+- **旅行者:** 真正的昆钧吧？
 
 **钟离:** 对。不必担心，他只是睡着了。
 
@@ -3677,16 +4043,13 @@ Perhaps.
 
 **钟离:** 我们与昆钧，确实素不相识。
 
-但曾在他体内的那个若陀…
+- **旅行者:** 但曾在他体内的那个若陀…
 
-是你重要的朋友。
+- **旅行者:** 是你重要的朋友。
 
 **钟离:** 嗯。
 
 **钟离:** 许久之前的事了…虽已千年，却像昨日种种，历历在目。
-
-
-**矿工:** 呃…
 
 #### 与钟离对话
 
@@ -3698,17 +4061,29 @@ Perhaps.
 
 **钟离:** 他是自愿被封印的。只可惜，因「磨损」而忘却了。
 
+##### 对话分支 1
+
 - **旅行者:** 「磨损」的力量太可怕了。
 
+##### 对话分支 2
+
 - **旅行者:** 你也被「磨损」了吗？
+
+##### 共同后续
 
 **钟离:** 我亦无法逃避。只是我比常人更懂得一个道理：该离开时，便要离开。
 
 **钟离:** 越是强大的力量，被「磨损」后带来的危险也更大。几千年岁月冲刷，哪怕是岩石…也会偶感疲惫。
 
+##### 对话分支 1
+
 - **旅行者:** 所以你才决定离开…
 
+##### 对话分支 2
+
 - **旅行者:** 所以你卸下了岩神一职…
+
+##### 共同后续
 
 **钟离:** 亲手封印老友，也是我所经历的「磨损」之一。
 
@@ -3724,13 +4099,13 @@ Perhaps.
 
 **派蒙:** 不用客气哦！
 
-等等。
+- **旅行者:** 等等。
 
-我想向你打听一些事。
+- **旅行者:** 我想向你打听一些事。
 
 **钟离:** 什么事？
 
-有关我空/荧的事。
+- **旅行者:** 有关我妹妹的事。 / 有关我哥哥的事。
 
 **派蒙:** 对哦，差点忘了！
 
@@ -3738,9 +4113,15 @@ Perhaps.
 
 **派蒙:** 他跟我们说起了坎瑞亚的消失与神明们的惩罚…我们也是到那时才知道，这些事与我们要找的人有关。
 
+##### 对话分支 1
+
 - **旅行者:** 事关我的亲人。
 
+##### 对话分支 2
+
 - **旅行者:** 这一切对我很重要。
+
+##### 共同后续
 
 **派蒙:** 钟离，你可是活了几千年的货真价实的神，一定亲历过那件事吧。
 
@@ -3752,7 +4133,7 @@ Perhaps.
 
 **派蒙:** 为什么？！
 
-……
+- **旅行者:** ……
 
 **派蒙:** 为什么不能透露相关信息？这对我们真的很重要啊！
 
@@ -3766,13 +4147,19 @@ Perhaps.
 
 **钟离:** 我将你视为朋友，让你失望并非我的本意。但身为契约之神，我绝不能背弃这份契约。
 
+##### 对话分支 1
+
 - **旅行者:** 不，并不意外。
+
+##### 对话分支 2
 
 - **旅行者:** 其实，我猜也是。
 
+##### 共同后续
+
 **派蒙:** 你已经做好心理准备了吗？
 
-可能吧。
+- **旅行者:** 可能吧。
 
 **钟离:** 你似乎变得越来越了解这个世界了。
 
@@ -3786,20 +4173,14 @@ Perhaps.
 
 **钟离:** 在你走向那个人的路上，也许会有更多困难，但只要你坚信这条路通往「正确」，一切就有意义。
 
-### 补充对话——钟离谈若陀龙王
-
+### 补充对话
 
 **钟离:** 此碑由理水叠山真君所立。碑文中称若陀为恶龙，是为提醒后人远离这处封印。
 
 **钟离:** 可惜…善与恶只隔一线。若他的善恶是可以简单说清的事，倒也罢了。
 
-（静静注视立在树下的钟离…）
+- **旅行者:** （静静注视立在树下的钟离…）
 
-**钟离:** （寂静中，惟闻风声飒飒。时间仿佛化作无形的河流，自身旁静静淌过…）
+**此后，钟离便不再开口…:** （寂静中，惟闻风声飒飒。时间仿佛化作无形的河流，自身旁静静淌过…）
 
-**钟离:** （浮光一瞬，人间千年。岩石有心，大地与神明亦然。）
-
-
-**钟离:** （寂静中，惟闻风声飒飒。时间仿佛化作无形的河流，自身旁静静淌过…）
-
-**钟离:** （浮光一瞬，人间千年。岩石有心，大地与神明亦然。）
+**此后，钟离便不再开口…:** （浮光一瞬，人间千年。岩石有心，大地与神明亦然。）

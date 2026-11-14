@@ -1,0 +1,32 @@
+# id: precursor_s_secret_source_matrix_of_overseer_network
+# category: enemies
+# title_ru: Предтечная секретная система матрицы оператора наблюдения
+# title_en: Precursor's Secret Source Matrix of Overseer Network
+# title_zh: 先驱秘源统辖阵列
+# game_source_ids: 24090601
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# enemy_group: automatons
+# enemy_type: common_enemy
+# region: Луна
+# icon: assets/icons/enemies/common_enemies/precursor_s_secret_source_matrix_of_overseer_network.webp
+# tags: Предтечная секретная система матрицы оператора наблюдения, Precursor's Secret Source Matrix of Overseer Network, 先驱秘源统辖阵列
+# game_version: 6.7
+
+## RU
+
+Древний механизм, застрявший в руинах на лунной поверхности. За долгие века даже самое крепкое и надёжное устройство неизбежно утрачивает цель, некогда заложенную в него создателем, и начинает без разбора атаковать и уничтожать любую живую тварь, осмеливающуюся ступить на охраняемую им землю.
+В записях древней цивилизации, давно канувшей в небытие, эти вышедшие из-под контроля механизмы именовались «Ур-Намраншит-Тилимуту-Бавар», что означает «тот, кто приносит свет во тьму». Пылая мечтой о бескрайнем звёздном море, лидеры первопроходцев начертали самые искренние слова на золотых знаках, надеясь, что грядущие наследники с помощью этих помощников смогут сохранить свет, озаряющий Вселенную.
+Увы, свет так и не воссиял ни для кого, а механизм, удостоенный титула «Оператор наблюдения», не дождался того, кому был предназначен служить. Теперь, затерянный среди этих руин, он остаётся лишь последним вышедшим из-под контроля осколком давно утраченного идеала.
+
+## EN
+
+An ancient machine trapped amongst the lunar ruins. Even the sturdiest and most reliable machines will be conquered by the passing of long years, losing the purpose bestowed upon them by their creators. Now, this entity only attacks and eliminates anything that dares set foot on the ground it defends.
+In the records of a long-lost ancient civilization, these out-of-control machines were once called "Ur-Namrasit-Tilimtu-Babbar," or "the one who brings light to the darkness." With a yearning for the boundless sea of stars, the leaders of the "pioneers" engraved their most earnest words in golden sigils, hoping that their successors, with the help of these assistants, would be able to keep the light that illuminates the universe shining bright.
+Alas, the light did not arise for anyone, and the machine that was given the title of "overseer" did not manage to wait for the one it should have served. Now, stranded in these ruins, it is but the last, out-of-control remnant of a long-lost ideal.
+
+## ZH
+
+滞留于月面遗迹中的远古机械体。在漫长的时光中，无论是多么坚实可靠的机器，终也会不可避免地遗失最初被造主赋予的目的，变得只会无差别地攻击并排除一切胆敢踏入其守护之地的生灵。
+在如今早已消逝的古老文明的记录中，这些失控的机械体曾被称作「乌尔-纳姆兰希特-蒂里穆图-巴瓦尔」，意思是「为黑暗升起光明者」。怀着对无尽星海的憧憬，「先驱」的主导者们将最诚挚的话语铭刻在黄金的纹路上，期待后世的继业者能在这些助手的帮助下，点亮那束真正照亮寰宇的光明。
+但光明终究没有为任何人升起，被冠以「统辖」之名的机关终究也没有等到它们理应服侍的主人。如今滞留在遗迹中的，也不过是早已失控的、理想的最后一缕残渣。
+

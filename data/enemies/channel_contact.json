@@ -1,0 +1,82 @@
+{
+  "id": "channel_contact",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/channel_contact.webp",
+  "title": {
+    "ru": "Связной канала",
+    "en": "Channel Contact",
+    "zh": "渠道联络人"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Связной канала",
+    "Channel Contact",
+    "渠道联络人"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Хитрый волкодлак, маскирующий ручную пушку под древесный ствол.\nБлагодаря мастерству маскировки оружия и грузов ему часто поручают перевозку товаров и передачу важных сведений.\nСвою ручную пушку он, вероятно, тоже изготовил сам в свободное время. Иногда из неё даже запускают сигнальные ракеты, замаскированные под фейерверки.\nНе позволяйте внешности ввести себя в заблуждение - перед вами чрезвычайно расчётливый и хитрый альв.",
+    "en": "A cunning Volkodlak that disguises its hand cannon as a tree trunk.\nSkilled at disguising the weapons and cargo they carry, they are often entrusted with transporting goods or relaying intelligence.\nThe hand cannon they carry was likely something they made in their spare time. At times, they also use it to fire signal rounds disguised as fireworks.\nDon't be fooled by their appearance. These fae are far more shrewd and cunning than they seem.",
+    "zh": "将手砲伪装成树干的狡猾兽怪。\n因为擅长对手头上的武器和货物进行伪装，所以经常被委托进行运送货物或者传递情报之类的工作。\n手中的手砲想必也是利用闲暇之余制作的吧。有的时候也会用手砲发射伪装成烟花的信号弹。\n不要被其外表欺骗，实则是相当精明和狡猾的妖精。"
+  },
+  "description": {
+    "ru": "Хитрый волкодлак, маскирующий ручную пушку под древесный ствол.\nБлагодаря мастерству маскировки оружия и грузов ему часто поручают перевозку товаров и передачу важных сведений.\nСвою ручную пушку он, вероятно, тоже изготовил сам в свободное время. Иногда из неё даже запускают сигнальные ракеты, замаскированные под фейерверки.\nНе позволяйте внешности ввести себя в заблуждение - перед вами чрезвычайно расчётливый и хитрый альв.",
+    "en": "A cunning Volkodlak that disguises its hand cannon as a tree trunk.\nSkilled at disguising the weapons and cargo they carry, they are often entrusted with transporting goods or relaying intelligence.\nThe hand cannon they carry was likely something they made in their spare time. At times, they also use it to fire signal rounds disguised as fireworks.\nDon't be fooled by their appearance. These fae are far more shrewd and cunning than they seem.",
+    "zh": "将手砲伪装成树干的狡猾兽怪。\n因为擅长对手头上的武器和货物进行伪装，所以经常被委托进行运送货物或者传递情报之类的工作。\n手中的手砲想必也是利用闲暇之余制作的吧。有的时候也会用手砲发射伪装成烟花的信号弹。\n不要被其外表欺骗，实则是相当精明和狡猾的妖精。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112152",
+      "title": {
+        "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+        "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+        "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112152.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112152",
+          "title": {
+            "ru": "Наросший осколок",
+            "en": "Accreted Fragment",
+            "zh": "沉积残片"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp"
+        },
+        {
+          "key": "material_112153",
+          "title": {
+            "ru": "Осадочный сгусток",
+            "en": "Accreted Mass",
+            "zh": "沉积结块"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112153.webp"
+        },
+        {
+          "key": "material_112154",
+          "title": {
+            "ru": "Осадочный нарост",
+            "en": "Accreted Growth",
+            "zh": "沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112154.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -316,3 +316,854 @@ But those in the stories can never know the ending beforehand, so as they run fo
 神明或者大灵的认可不代表她一定会成就什么宏伟的事业，这一点她已经从现实中学到了，不过她还没有学到的是：
 在英雄们的传说初具雏形的阶段，它毫不起眼，颜色晦暗，更不用提激励人心，不过成就伟大所需的原初动力已经蓄满，只要主角们继续前行，未来将为他们而闪烁。
 但故事里的人永远不会提前知道结局，所以他们不计前途、奋力奔跑时的眼泪最美丽。
+
+# voice_source_ids: 100000,100001,100002,100003,100004,100005,100006,100007,100008,100009,100010,100011,100012,100013,100014,100015,100016,100017,100018,100019,100020,100021,100022,100023,100024,100025,100026,100027,100028,100029,100030,100031,100032,100033,100034,100035,100036,100037,100038,100039,100040,100041,100042,100043,100044,100045,100046,100047,100048,100049,100050,100051,100052,100053,100054,100055,100056,100057,100058,100059,100060,100061,100062,100063,100064,100065,100066,100067,100068,100069
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет! Я Качина из Детей Эха. Мне нравятся злакофрукты, и я хотела бы стать сильнее, хотя я ещё не очень умею сражаться. Думаешь, мне стоит оставить всё это на потом? Тогда... Ты куда-то собираешься идти? Я хорошо знаю эти места, так что могу показать дорогу!
+
+### Поболтаем: Мания к порядку
+
+А... Я только что увидела кирпич, который криво стоит. Что же делать? Теперь у меня будто завриан на душе скребётся...
+
+### Поболтаем: Получится ли
+
+У меня получится... Или нет... Получится... Нет, я... Кхм, ничего, обязательно получится! Да ведь?
+
+### Поболтаем: Коллекция
+
+Если тебе скучно, можем посмотреть на мою коллекцию. Если что-то понравится, можешь себе забрать.
+
+### Когда идёт дождь...
+
+От дождя почва становится рыхлой, поэтому при добыче ископаемых надо быть ещё внимательнее, чем обычно!
+
+### Когда гремит гром...
+
+А-а-а!!! Я... я не боюсь! Я просто... испугалась!
+
+### Когда идёт снег...
+
+Давай вместе поваляемся в снегу! Не волнуйся, я не буду прятаться в снегу, а потом на тебя выскакивать, как это делает Айо!
+
+### Когда светит солнце...
+
+Только посмотри на этот самоцвет! На солнце кажется, будто внутри него прячется целая радуга!
+
+### В пустыне...
+
+Как думаешь, есть ли под этим песком блестящие камни? Можно покопать по-быстрому и проверить.
+
+### Доброе утро...
+
+Доброе утро! Я уже всё собрала, так что можно отправляться в путь в любое время!
+
+### Добрый день...
+
+Мне спать не хочется, так что если хочешь вздремнуть, я за тобой присмотрю. У меня много что не получается, но слух у меня очень хороший! Неприятности я слышу издалека.
+
+### Добрый вечер...
+
+Муалани позвала пойти с ней в пещеру сегодня вечером, чтобы испытать смелость... Мне так страшно! Что же делать? Я не хотела её разочаровывать, поэтому закрыла глаза и согласилась... Что бы ни случилось, я должна перебороть страх вместе с ней! А!? Ты тоже идёшь? Вот здорово! Фух...
+
+### Спокойной ночи...
+
+И почему я опять сегодня всё испортила... Нет, я не хочу плакать, но просто не могу сдержаться... Хнык-хнык... А! Разве мы уже не пожелали друг другу спокойной ночи? Спасибо, что не спишь и утешаешь меня...
+
+### О Качине: Турбовихрь
+
+Мы с Айо вместе это имя придумали! Я уже придумала первую половину, а потом увидела, как Айо двигается и в голову пришла вторая. Я часто гоняюсь с Айо, сидя на вихре, и даже побеждаю!
+
+### О Качине: Смерть
+
+Пасть в бою во время Войны ночных дозорных - большая честь для воинов Натлана. Будучи одной из них, я должна чувствовать то же самое. Но пока я была там, даже повторяя это про себя, я всё равно постоянно была в ужасе... Спасибо вам за то, что вы так рисковали, отправились в Царство Ночи и вернули меня обратно... Хнык-хнык... Я правда так вам благодарна!
+
+### О нас: Легенды
+
+В Натлане множество легенд о героях, и моя любимая - легенда о господине Траоре! Как это невероятно круто - быть способным запечатать Бездну под землей, будучи обычным смертным! А, это мне напомнило... Ты побывал во многих странах Тейвата, так что ты, наверное, знаешь много легенд, да ведь? Мне очень любопытно... Не расскажешь мне какие-нибудь из них, как будет время? / В Натлане множество легенд о героях, и моя любимая - легенда о господине Траоре! Как это невероятно круто - быть способным запечатать Бездну под землей, будучи обычным смертным! А, это мне напомнило... Ты побывала во многих странах Тейвата, так что ты, наверное, знаешь много легенд, да ведь? Мне очень любопытно... Не расскажешь мне какие-нибудь из них, как будет время?
+
+### О нас: Небольшой подарок
+
+Выбирай, что нравится! Пусть это будет символом нашей дружбы. Я принесла все свои лучшие и самые блестящие руды, так что давай, возьми одну! Я буду очень рада, если ты возьмёшь одну!
+
+### Глаз Бога...
+
+Когда я впервые увидела этот блестящий Глаз Бога, я подумала, что глаза меня обманывают... Он блестит ярче, чем любая руда, которую я когда-либо видела. И хотя сейчас я далеко не так сильна, как герои легенд, если однажды моя история кого-нибудь вдохновит, я буду самым счастливым человеком на свете. Даже одного человека будет достаточно...
+
+### Давай поделимся...
+
+Айо - мой спутник, и он очень важен для меня! Хотя сейчас он выглядит послушным, в молодости он очень любил бодать людей. Он очень сильный, так что даже меня иногда сбивает с ног. Но ничего не поделаешь, ведь так тепетлизавры проявляют свою привязанность! Ой, Айо, перестань бодаться! Хорошо, хорошо, я больше ничего не скажу!
+
+### Интересные вещи...
+
+А ты знаешь? Плоды корундина по форме напоминают самоцветы! Вот бы и срок годности у них был такой же...
+
+### О Муалани...
+
+Муалани моя самая первая подруга! До встречи с ней я даже не подозревала о существовании таких милых людей, как она, и о том, сколько всего интересного есть на свете! Смотри, это наше с ней фото! Она сказала, что надо подпрыгнуть прямо во время съёмки... Я выгляжу немного скованной? Хе-хе, подловил! На нас много людей смотрело, когда мы фотографировались, так что я очень нервничала... / Муалани моя самая первая подруга! До встречи с ней я даже не подозревала о существовании таких милых людей, как она, и о том, сколько всего интересного есть на свете! Смотри, это наше с ней фото! Она сказала, что надо подпрыгнуть прямо во время съёмки... Я выгляжу немного скованной? Хе-хе, подловила! На нас много людей смотрело, когда мы фотографировались, так что я очень нервничала...
+
+### О Киниче...
+
+Это Муалани познакомила меня с ним! Честно говоря, сначала я его немного боялась, потому что его глаза... ну, у него страшный взгляд. Только потом я узнала, что он тайно преподал урок задирам, что меня обижали. Но когда я попыталась дать ему подарок в знак благодарности, он отказался его принять. Он сказал что-то вроде того, что уже получил достаточное вознаграждение...
+
+### О Часке...
+
+Она - знаменитый «миротворец» Натлана! Говорят, она может уладить любой конфликт без проблем. Наверное, она это делает потому, что, как и я, не любит, когда люди ссорятся друг с другом...
+
+### Об Иансан...
+
+Как-то я попросила Иансан потренировать меня, чтобы стать сильнее. Она заставляла меня выполнять всевозможные тяжёлые тренировки, и зачастую я справлялась с ними, лишь доведя себя до предела. К счастью, она всегда знала, какой объем тренировок мне подходит, так что после каждого занятия у меня оставалось достаточно энергии, чтобы добраться до дома... Я очень ей благодарна.
+
+### О Ситлали...
+
+Муалани сказала, что вы смогли спасти меня только благодаря её изобретению, поэтому я должна взять на себя часть ответственности за уничтожение камня духов. Я набралась смелости, извинилась перед ней лично, и предложила в качестве компенсации выбрать несколько камней из моей коллекции. Она почесала голову и сказала: «Если я не возьму один, то будет неудобно, не так ли? Тогда... Мы будем квиты, если я выберу что-нибудь достаточно похожее, да?» В итоге она взяла самый непримечательный кусок обсидиана, который у меня был, и выпроводила меня. Ты как думаешь? Может, мне попробовать дать ей что-нибудь ещё? Не знаешь, что ей нравится?
+
+### О Шилонен...
+
+Когда я получила своё древнее имя, дядя Пакаль отвёл меня к ней и попросил сделать для меня Турбовихрь. Её мастерство действительно несравненно!
+Потом мы обсуждали сбор и хранение самоцветов и даже показали друг другу свои коллекции. В её коллекции всё в идеальном состоянии, так что она, должно быть, очень заботится о своих камнях. А вот к собственной жизни она относится более... непринуждённо... Однажды я искала её и никак не могла найти! В итоге я обнаружила, что она греется на солнышке на большом дереве и крепко спит...
+
+### О Пиро Архонте...
+
+Я и мечтать не могла, что сама Пиро Архонт однажды назовёт меня героем Натлана... Она - кумир всех воинов нашей земли, и получить её признание - это так... Хнык... Меня переполняют чувства каждый раз, когда думаю об этом, прости... Хнык-хнык... Прости! Не стоит мне сейчас плакать...
+
+### Об Ифе...
+
+Ифа - удивительный завроветеринар! Любой заврианчик, который к нему сходит, после возвращения начинает вести здоровый образ жизни! Они правильно питаются, хорошо спят, не доставляют хлопот и в принципе больше не болеют! Поэтому, если завриан приболел, все первым делом просят Ифу прилететь и осмотреть его!
+
+### Узнать больше о Качине I
+
+«Утхабити» - моё древнее имя. Оно означает способность оставаться сильным перед лицом невзгод. Эх... Но я часто задаюсь вопросом, почему мне дали такое имя. Я такая слабая, и дома, и в племени обо мне мало кто знает... Вокруг меня столько сильных и крутых людей - достойна ли я этого имени?
+
+### Узнать больше о Качине II
+
+Про мою семью... Я средний ребёнок в семье. Папа возлагает большие надежды на мою старшую сестру, а мама постоянно занята младшей сестрой. Живётся нам не очень легко, поэтому я должна быть хорошей девочкой и быстро повзрослеть... Или, по крайней мере, сделать так, чтобы им не приходилось постоянно беспокоиться обо мне.
+
+### Узнать больше о Качине III
+
+Дядя Пакаль очень добр ко мне! Когда другие люди в племени говорят обо мне гадости, он всегда меня защищает. И всё же... Мне не по себе, когда ему приходится это делать. В конце концов, я должна завоевать всеобщее уважение своими собственными руками...
+
+### Узнать больше о Качине IV
+
+Я всегда знала, что слезами ничему не поможешь, и никогда не слышала, чтобы герои легенд плакали на глазах у друзей. Мне очень хочется сдержать слёзы, но я просто не могу... А? Это нормально? Слезы - это хороший способ выплеснуть свои эмоции? Неужели... Ты правда так думаешь? Хнык... Спасибо, спасибо... О нет, почему я снова плачу?
+
+### Узнать больше о Качине V
+
+Я всегда считала, что это вполне естественно, когда на меня не обращают внимание, ведь я такая слабая. Но теперь, после разговора с Вайоб, я изменила своё мнение. «Утхабити» - моё древнее имя, и я... Я решила, насколько смогу, стать самой лучшей версией себя. В этом мире должны быть вещи, которых могу достичь только я. Я буду... продолжать стремиться. Надеюсь, когда-нибудь этот обсидиан будет хранить записи о моих деяниях и станет... ещё более сияющим и ослепительным.
+
+### Хобби Качины...
+
+Это первый самоцвет, который я нашла. Такой красивый оттенок зелёного, не находишь? Сначала их было два одинаковых, но второй я отдала Муалани. Смотри, узор на нём похож на текущую воду! О, и вот этот: на первый взгляд он кажется чёрным, но если посмотреть на солнце, то увидишь целую радугу! Хе-хе, я собирала эту коллекцию по одному камешку!
+
+### Беспокойство Качины...
+
+Однажды Муалани подарила мне огромную шляпу. Она была очень крутой и отлично защищала от солнца, так что мне она очень нравилась. Но со временем она превратилась в войлочную... В итоге мне пришлось купить эту шляпу взамен, потому что к ней не прилипает мех заврианов.
+
+### Любимая еда...
+
+Я люблю чипсы из злакофруктов! Они бы мне ещё больше нравились, если бы их можно было в башню сложить!
+
+### Нелюбимая еда...
+
+А?! А чего порция такая большая? Но если я всё не доем, то труд повара пропадёт зря? Ничего, я все доем! Ложечку за маму, ложечку за папу...
+
+### Подарок I
+
+Ого, это мне? Так вкусно! Я буду есть медленно, чтобы насладиться каждым кусочком...
+
+### Подарок II
+
+Вкус, аромат, презентация... всё в этом блюде изумительно! Если будешь участвовать в кулинарном конкурсе, то обязательно победишь!
+
+### Подарок III
+
+Спасибо, что нашёл время сделать что-то для меня! Я... я обещаю, что всё доем. Просто... дай мне ещё пару минут! / Спасибо, что нашла время сделать что-то для меня! Я... я обещаю, что всё доем. Просто... дай мне ещё пару минут!
+
+### День рождения...
+
+С днём рождения! Это тебе. Это пищуха, вырезанная из радужного опала. Радужный опал довольно тёплый на ощупь, но он ничем не выделяется, поэтому его легко не заметить под землей. Но чем больше носишь его с собой, тем больше он блестит! Это один из моих любимых самоцветов. Надеюсь, он тебе понравится.
+
+### Чувство возвышения: Начало
+
+У меня уши дрожат? Нет, я не нервничаю... Я просто очень счастлива. Прости, но я не могу их контролировать, они сейчас слишком взволнованы. Вот... давай я их прикрою.
+
+### Чувство возвышения: Нарастание
+
+Ты правда обо мне так заботишься... Хнык... Я не хотела плакать, но я просто... так тронута твоей добротой.
+
+### Чувство возвышения: Кульминация
+
+«Двор сгорел дотла, но пламя так и не погасло. На следующее утро оно разгорится вновь, ещё ярче, чем прежде». Это одна из моих любимых фраз господина Траоре. Я должна продолжать усердно работать!
+
+### Чувство возвышения: Окончание
+
+Ты показал мне много нового и интересного, помог мне вырасти... Не знаю, чем я могу отплатить тебе, но я хочу найти ответ сама. Так что отныне позволь мне быть героем... героем, который тебя защищает! / Ты показала мне много нового и интересного, помогла мне вырасти... Не знаю, чем я могу отплатить тебе, но я хочу найти ответ сама. Так что отныне позволь мне быть героем... героем, который тебя защищает!
+
+### Элементальный навык I
+
+Вертись!
+
+### Элементальный навык II
+
+Хай-я!
+
+### Элементальный навык III
+
+Вот оно!
+
+### Элементальный навык IV
+
+Начинай крутиться!
+
+### Элементальный навык V
+
+Ударная волна!
+
+### Элементальный навык VI
+
+Турбовихрь, вперёд!
+
+### Взрыв стихии I
+
+Разойдись!
+
+### Взрыв стихии II
+
+Пора бурить!
+
+### Взрыв стихии III
+
+Не подходи!
+
+### Открытие сундука I
+
+Ого! Посмотри на эти самоцветы!
+
+### Открытие сундука II
+
+Тоже любишь собирать блестящие камни? Кто же не любит! Они такие красивые!
+
+### Открытие сундука III
+
+Помочь разложить? В этом я эксперт!
+
+### Низкий уровень HP I
+
+Ничего. Просто царапина.
+
+### Низкий уровень HP II
+
+Так... Качина, соберись!
+
+### Низкий уровень HP III
+
+Я обязательно справлюсь!
+
+### Низкий уровень HP компаньона I
+
+Не забудь обо мне!
+
+### Низкий уровень HP компаньона II
+
+Я тут! Оставь это мне!
+
+### Без сознания I
+
+Прости... Я перестаралась.
+
+### Без сознания II
+
+Моё имя... Нельзя его позорить...
+
+### Без сознания III
+
+Эх... Опять всё испортила...
+
+### Получен лёгкий удар I
+
+Просто царапина!
+
+### Получен тяжёлый удар I
+
+Уф... Я в порядке.
+
+### Присоединяется к группе I
+
+Ого! Можно вступить?
+
+### Присоединяется к группе II
+
+О, ура! Давай!
+
+### Присоединяется к группе III
+
+Ещё один шанс поучиться у тебя!
+
+## REPLICAS_EN
+
+### Hello
+
+Hello! I'm Kachina, a member of the Children of Echoes. I adore Grainfruits and would love to become more strong, even though I'm still not much of a fighter. Uh... I should probably save all that for later, right? Then, um... Are you hoping to go somewhere? I'm pretty familiar with these parts, so I can show you the way!
+
+### Chat: Staying Organized
+
+Ah... I just saw a brick that wasn't properly stacked. What should I do? Now it feels like there's a little Saurian scratching away inside my chest...
+
+### Chat: Can I Do It
+
+I can do it... No, I can't... I can do it... No, I... Ahem, it's fine, I can definitely do it!!! ...Right?
+
+### Chat: Collectibles
+
+If you're bored, why don't we take a look at my collection together? If something catches your eye, feel free to take it!
+
+### When It Rains
+
+Rain makes the soil all muddy and soft, so you've got to be even more careful than usual when you're mining!
+
+### When Thunder Strikes
+
+Aaah!! Um... I—I'm not scared! I was just... caught off guard!
+
+### When It Snows
+
+Let's go roll around in the snow together! Hehe, don't worry, I won't hide in the snow before suddenly jumping out at you like Ayo does!
+
+### When the Sun Is Out
+
+Come look at this gem! When you hold it up under the sun, it almost looks like it's got a whole rainbow hiding inside!
+
+### In the Desert
+
+Do you think there's any shiny ores underneath all of this sand? We can do a quick dig just to check!
+
+### Good Morning
+
+Good morning! I've already packed everything, so we can head out whenever!
+
+### Good Afternoon
+
+I'm not sleepy, so if you want to take a nap, I'll keep watch. There are a lot of things that I'm not that good at, but my ears are still plenty sharp! I can hear trouble coming from a mile away.
+
+### Good Evening
+
+Mualani asked me to go into a cave with her tonight in a test of courage, and I—I—I'm... I'm so scared! What should I do? I didn't want to disappoint her, so I closed my eyes and said I'd go... No matter what happens, I should face it together with her! Ehh!? You're coming too? Th—Thank goodness! Phew...
+
+### Good Night
+
+*sniffle* I don't know how I managed to screw things up again today... Nooo, I don't wanna cry, but I just can't seem to help myself... *sniffle*... Ahh! D—Didn't we both already say good night to each other? Th—Thank you for staying up and comforting me though, it means a lot...
+
+### About Kachina: Turbo Twirly
+
+Ayo and I came up with the name together! I had already decided on the first part, "turbo," and then I chose "twirly" because I noticed it looked a lot like Ayo in action. I often race against Ayo on it, and I've even won!
+
+### About Kachina: Dying
+
+Falling in battle during the Night Warden Wars is an honor for the warriors of Natlan. As one of their number, I should feel the same. But while I was down there, even as I kept repeating that to myself, I was still terrified the whole time... I'm really grateful that you took such a huge risk to go to the Night Kingdom and bring me back... *sniffle* Really, I can't thank you enough!
+
+### About Us: Legends
+
+There are a lot of legends about heroes in Natlan, and my favorite is the one about Lord Traore! How incredibly cool is it to be able to seal the Abyss beneath the ground as an ordinary mortal? Oh, that reminds me... you've been to a bunch of countries in Teyvat, so you must know a lot of legends, right? I'm super curious... Could you tell me some of them when you can find the time?
+
+### About Us: Small Gift
+
+Please pick one you like! Just think of it as a symbol of our friendship. I've brought all of my best and shiniest ores, so come on, take one! I'll be really happy if you do!
+
+### About the Vision
+
+When I saw this shiny Vision for the first time, I really thought my eyes were playing a trick on me... It's more shiny than any ore I've ever seen. Even though I'm nowhere near as strong as a legendary hero right now, if one day, my story could inspire someone else, I'd be the happiest person in the world. Really, just one person would be enough...
+
+### Something to Share
+
+Ayo is a very important companion to me! Even though he looks well-behaved now, he really loved headbutting people when he was younger. He's super strong, so even I get knocked over sometimes. Not much you can do about it, though, because it's just how Tepetlisaurs show their affection! Oof, Ayo, stop headbutting me! Alright, alright, I won't say any more!
+
+### Interesting Things
+
+Did you know? Spinel fruit are shaped just like gems! Now, if only they had the same shelf-life as actual gems...
+
+### About Mualani
+
+Mualani's my first good friend! Before I met her, I never even knew that people as sweet as her existed, or how many fun things there are in the world! Look, this is a photo of us! She said we should jump right when they took the photo... I look a bit stiff? Hehe, you caught me! A lot of people were staring at us when we took this photo, so I was really nervous...
+
+### About Kinich
+
+It was Mualani who introduced me to him! To be honest, I was a little scared of him at first, because his eyes... well, he's got a scary look. It was only later that I found out that he secretly taught my bullies a lesson. But when I tried to give him a gift to thank him, he refused to take it. He said something along the lines of having already received enough compensation...
+
+### About Chasca
+
+She's a famous "peacemaker" in Natlan! They say she can resolve any conflict, no sweat. I guess that she probably does it because like me, she's really not a fan of people getting into fights with each other...
+
+### About Iansan
+
+Before, when I wanted to become stronger, I asked Iansan to train me. She had me do all sorts of high-intensity workouts, and I often only managed to get through them by pushing myself to the limit. Luckily, she always knew just the right amount of training for me, so I still had just enough energy to make my way home after each session... I'm really grateful to her.
+
+### About Citlali
+
+Mualani told me that you were only able to save me thanks to her invention, so I have to accept my share of the responsibility for the destruction of the Spiritspeaker Stone. I worked up the courage to apologize to her in person, and asked her to pick a few rocks from my collection as repayment. She scratched her head and said, "Well, it'll become an issue if I don't pick one, won't it? Then... We'll be even as long as I pick something reasonably similar, right?" In the end, she waved me off after taking the most unremarkable piece of obsidian I had. What do you think? Should I try to get her something else? Do you know the kind of thing she likes?
+
+### About Xilonen
+
+After I received my Ancient Name, Uncle Pacal took me to see her and asked her to make Turbo Twirly for me. Her craftsmanship really is out of this world!
+Later, we discussed our experiences collecting and storing gems, and even admired each other's collections. Everything in her collection is in top condition, so she must take great care of them. She seems to take a more... casual approach to her own life, though... Once, I went looking for her, and couldn't find her for ages! I eventually found her basking in the sunshine in a big tree, sound asleep...
+
+### About the Pyro Archon
+
+I never could have dreamed that the Pyro Archon herself would one day call me a hero of Natlan... She's the idol of every warrior in our land, so being recognized by her is like... *sniffle* I just get overwhelmed every time I think about it, sorry... *sniffle* Sorry, sorry! I shouldn't have started crying...
+
+### About Ifa
+
+Ifa's a really amazing sauro-vet! Any little Saurian who sees him comes back and starts living a healthy life! They eat right, sleep well, don't cause trouble, and basically don't get sick again! So whenever a Saurian's looking sick, everyone's first thought is to ask him to fly over and have a look!
+
+### More About Kachina: I
+
+"Uthabiti" is my Ancient Name — it means the ability to stay strong in the face of adversity. *sigh* But I often wonder why the Wayob decided to give the name to me. I'm so weak, and whether at home or among the tribe, few people even know of me... With so many strong and cool people around me, am I really worthy of the name?
+
+### More About Kachina: II
+
+My family, huh... I'm the middle child of my family. My Dad's placed most of his hopes on my older sister, and my Mom has to spend a lot of time taking care of my younger sister. Our life isn't exactly easy, so I've got to be a good girl, and grow up quickly... Or at the very least, make sure they won't have to constantly worry about me.
+
+### More About Kachina: III
+
+Uncle Pacal is really nice to me! Whenever other people in the tribe talk bad about me, he always defends me. Still... I feel bad whenever he has to do that. After all, I need to win everyone's respect with my own hands...
+
+### More About Kachina: IV
+
+I've always known that crying won't solve anything, and I've never heard a legend talk about the hero crying in front of their friends, either. I really want to hold back my tears, but I just can't... Huh? It's okay? Tears are a good way to let out your emotions? Do... Do you really think so? *sniffle* Thank you, thank you... Oh no, why am I crying again?
+
+### More About Kachina: V
+
+I've always thought that it was only natural for me to be overlooked because I was weak. Now that I've talked with the Wayob though, I've changed my mind. "Uthabiti" is my Ancient Name, and I've... I've decided to become the best "me" I can be. There have to be things in this world that only I can accomplish. I will... keep striving. I hope this obsidian will one day hold a record of my deeds and become... even more radiant and dazzling.
+
+### Kachina's Hobbies
+
+This is the first gem I found. It's such a pretty shade of green, don't you think? It was originally one half of a pair, but I gave the other one to Mualani. Look, the pattern on it looks just like flowing water! Oh, and this one, too — it might look black at first glance, but put it under the sun, and you'll see all kinds of a rainbow of color! Hehe, I built this collection, one stone at a time!
+
+### Kachina's Troubles
+
+Mualani gave me a huge hat once. It was super cool, and was perfect for blocking the sun, so I really loved it. Over time, though, it kind of turned into a felt hat... In the end, I had to get this hat instead, just because Saurian fur won't get stuck to it.
+
+### Favorite Food
+
+I love Grainfruit Chips! I would love them even more if they could be stacked neatly into a tower.
+
+### Least Favorite Food
+
+Huh!? Is this really just one portion? But if I don't finish the whole thing, won't I have let the chef's hard work go to waste? I—It's alright, I'll finish the whole thing! Small bites, Kachina, small bites...
+
+### Receiving a Gift: I
+
+Whoa, is this for me? It's super delicious! I'm going to eat slowly, so I can savor every bite...
+
+### Receiving a Gift: II
+
+The taste, the aroma, the presentation... everything about this dish is marvelous! If there's ever a cook-off, I'm sure you'd win!
+
+### Receiving a Gift: III
+
+Thank you for taking the time to make something for me! I—I promise that I'll finish this. Just... give me a few more minutes!
+
+### Birthday
+
+Happy birthday! This is for you. It's a pika carved from Iridescent Opal. Iridescent Opal's quite warm to the touch, but it doesn't really stand out, so it's easy to miss it underground. The more you carry it with you, though, the shinier it gets! It's one of my favorite gems, so I hope you'll like it too.
+
+### Feelings About Ascension: Intro
+
+Are my ears... trembling? No, I'm not nervous... I'm just really happy. Sorry, but I can't really control them, they're way too excited right now. Here, I'll... let me just cover them up.
+
+### Feelings About Ascension: Building Up
+
+You really care a lot about me... *sniffle* Ugh, I didn't mean to cry, but I'm just... so touched by your kindness.
+
+### Feelings About Ascension: Climax
+
+"Though the court burned to rubble, the flame never once went out. It shall reignite the next morn, more radiant than afore." This is one of my favorite quotes from Lord Traore. I—I must keep working hard!
+
+### Feelings About Ascension: Conclusion
+
+You've shown me all kinds of new and fascinating things, and really helped me to grow... I have no idea how I could ever repay you, but I want to find the answer by myself. So from now on, please allow me to be the hero... the hero that protects you!
+
+### Elemental Skill: I
+
+Let 'er rip!
+
+### Elemental Skill: II
+
+Sha~bam!
+
+### Elemental Skill: III
+
+Here goes!
+
+### Elemental Skill: IV
+
+Spin to win!
+
+### Elemental Skill: V
+
+Shockwave!
+
+### Elemental Skill: VI
+
+Let's go, Twirly!
+
+### Elemental Burst: I
+
+Clear the area!
+
+### Elemental Burst: II
+
+Drilling down!
+
+### Elemental Burst: III
+
+Get back.
+
+### Opening Treasure Chest: I
+
+Whoa! Look at all these shiny rocks!
+
+### Opening Treasure Chest: II
+
+Do you also like collecting shiny rocks? I mean, who wouldn't want to? They're so pretty!
+
+### Opening Treasure Chest: III
+
+Need help organizing the loot? I'm an expert!
+
+### Low HP: I
+
+It's nothing, I can walk it off!
+
+### Low HP: II
+
+C'mon... Pull yourself together, Kachina!
+
+### Low HP: III
+
+I... I can do it! I have to!
+
+### Ally at Low HP: I
+
+Don't forget about me!
+
+### Ally at Low HP: II
+
+I'm here! Just leave it to me!
+
+### Fallen: I
+
+Sorry... I pushed myself... too hard.
+
+### Fallen: II
+
+My name... I must honor it...
+
+### Fallen: III
+
+No... I messed up... again...
+
+### Light Hit Taken: I
+
+It's just a scratch!
+
+### Heavy Hit Taken: I
+
+Oof... I'm fine.
+
+### Joining Party: I
+
+Whoa! I can... join the team?
+
+### Joining Party: II
+
+Oh yay! Okay, let's go!
+
+### Joining Party: III
+
+Another chance to learn from you!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好呀，我是「回声之子」的卡齐娜。喜欢吃颗粒果，想要变强，不擅长打架。啊…不是说这些的时候？那、那…请问你接下来想去哪里走走？我挺熟悉这一带的，就让我来带路吧。
+
+### 闲聊·整理癖
+
+啊…我刚刚发现有块砖没有堆整齐。怎么办？现在感觉心里有只小龙在不停地挠啊挠。
+
+### 闲聊·行不行
+
+我可以、我不行、我可以、我…唔唔，没事的，我可以的，一定没问题的…对吧？
+
+### 闲聊·收藏品
+
+无聊的话，要不要一起来看看我包里的收藏？看上什么拿走也没关系哦。
+
+### 下雨的时候…
+
+雨水会让泥土变得松软，所以雨天挖矿一定要比平时更加更加小心哦。
+
+### 打雷的时候…
+
+呀——啊…我、我不是害怕，只是被吓了一跳而已。
+
+### 下雪的时候…
+
+我们一起去雪地上打滚吧，嘿嘿。你放心，我不会像阿尤一样，钻到雪里又突然冒出来吓你的。
+
+### 阳光很好…
+
+快看这块宝石！在太阳的照射下，它里面好像藏着彩虹。
+
+### 在沙漠的时候…
+
+这下面会不会藏着金闪闪的矿石？要不要挖挖看？
+
+### 早上好…
+
+早呀，我已经整理好背包啦，我们随时可以出发。
+
+### 中午好…
+
+我不困，但如果你想午睡一会儿的话，我可以帮你望风。虽然我有许多不擅长的事情，但…我的耳朵还算灵敏。远处的风吹草动，我都能感觉到。
+
+### 晚上好…
+
+玛拉妮邀请我晚上去山洞试胆，我我我，好紧张，怎么办？我不想拒绝朋友，就…就闭上眼睛答应了…不、不管发生什么事情，我都应该和她一起面对。欸？你也一起来吗？太、太好了！呜…
+
+### 晚安…
+
+今天怎么又把事情给搞砸了，呜呜呜…怎么办，明明不想哭的，但眼泪完全停不下来了，呜呜…噫——，刚、刚刚我们不是互相说了晚安，要去睡觉了吗？但谢谢你安慰我…
+
+### 关于卡齐娜自己·冲天转转
+
+这个名字是我和阿尤一起取的。我先想好了前半部分，又根据阿尤的动作定下了后半。我常常会乘着它和阿尤比赛跑步，我们各有输赢呢。
+
+### 关于卡齐娜自己·死亡
+
+能在「巡夜者战争」中死去，对纳塔战士们来说是一种荣光，身为其中一员的我也不该例外…但当时我一边这样告诉自己，一边在心里害怕得要命…你们冒着巨大的危险从夜神之国把我带回来，我真的非常感激！呜呜，谢谢你们每个人…
+
+### 关于我们·传说
+
+纳塔流传着很多英雄传说，其中我最喜欢的就是陶奥鲁大人的事迹，居然能以血肉之躯把深渊给封入地下，实在太厉害了！对了对了，你走过了那么多国家，一定也知道很多传说故事吧？我真的很好奇…有空的时候可以和我讲讲吗？
+
+### 关于我们·小礼物
+
+来挑一个你喜欢的吧！作为我们是好朋友的证明。我能收集到的最好看、最闪亮的矿石全都在这里啦。如果你愿意选一颗收下的话，我会很开心的！
+
+### 关于「神之眼」…
+
+在我第一次看到这枚亮晶晶神之眼的时候，我还以为自己眼花了呢，它比我见过的任何一块石头都要闪亮。虽然我现在与那些传说中的英雄相比，还差得很远，但如果有一天，我的故事也能激励别人，哪怕只有一个人也好，那也会成为我最大的幸福…
+
+### 有什么想要分享…
+
+阿尤是我很重要的伙伴，别看它现在模样乖巧，它再小些的时候，表达喜欢的方式是冲过来用头撞人。它力气可大了，有时候我都会被它撞得摔倒。不过这也没办法嘛，毕竟嵴锋龙是一种很亲人的龙。哎呀，别撞我呀，阿尤，好好好，我不揭你短啦。
+
+### 感兴趣的见闻…
+
+澄晶实的果实形状就像宝石一样，如果它也能像宝石一样长时间存放就好了…
+
+### 关于玛拉妮…
+
+玛拉妮是我的第一个好朋友。遇到她之前，我都不知道这个世界上有这么好的人，还有这么多好玩的事情。看，这是我们合影的画片。她说是要在合影时一起往上跳…你说我动作看着有点僵硬？嘿嘿…被你发现了…当时镜头外有很多人在看着我们，让我有点紧张…
+
+### 关于基尼奇…
+
+基尼奇哥哥还是玛拉妮介绍给我认识的呢。不瞒你说，一开始我有点害怕他，因为他的眼神看起来…稍微有一点凶。我后来才知道，他私底下教训过欺负我的坏蛋。但在我送他回礼的时候，他又不肯收下，说是已经得到了足额的报酬…
+
+### 关于恰斯卡…
+
+她是纳塔有名的「调停人」，据说任何争斗都能被她轻松摆平。她会这么做，恐怕是像我一样，很讨厌人与人之间起什么冲突吧…
+
+### 关于伊安珊…
+
+之前为了变强，我拜托伊安珊带我训练。她安排了各种各样高强度的锻炼方式，我常常需要咬紧牙关才能坚持下去。好在她给我安排的训练量非常精准，每次结束后都留出了供我走回家的体力…我还是很感谢她的。
+
+### 关于茜特菈莉…
+
+玛拉妮和我说了，你们能救出我，还多亏了她的发明。「灵觉髓石」坏掉了，我也有不可推脱的责任…后来我鼓起勇气去找她道歉了，并且让她在我收藏的石头里挑几块，她挠着头说：「这，我不挑一个是不是很麻烦啊。拿个差不多的我们就两清，是吧？」最后只拿走了最不起眼的一块黑曜石，就摆了摆手让我走了。你说，我要不要再帮她找点什么？她喜欢什么，你知道吗？
+
+### 关于希诺宁…
+
+在我获得古名后，帕加尔叔叔带我去找了希诺宁姐姐，请她帮我打造了冲天转转，她的手艺简直出神入化。
+后来，我们交流过宝石收藏与存储的经验，还欣赏了彼此的珍品。她的收藏品状态非常好，肯定照顾得十分细致。但她自己的生活…似乎要更加随性？有一次我找了她很久都没找到，最后发现她在一棵大树上晒着太阳睡着了…
+
+### 关于火神大人…
+
+我做梦都想不到，居然有一天能被火神大人亲口认可为「纳塔的英雄」，火神大人是每一位纳塔战士的偶像，我…我得到了偶像的…呜…我一想起来就太感动了，呜呜呜…对不起，对不起对不起。不该在这时候哭的…
+
+### 关于伊法…
+
+伊法哥哥是个很厉害的龙医生！凡是给他看过病的小龙，回来后都作息规律、不乱吃乱跑，几乎再没生过病啦。所以每当大家发现有龙身体不舒服，第一反应都是请他飞过来看一看。
+
+### 想要了解卡齐娜·其一
+
+「乌沙博蒂」是我的古名，它的意思是坚强，唉，可很多时候我都想不明白为什么这个古名会给我。我那么弱小，不管是在家里，还是在部族里，存在感都不算高…有那么多优秀的人在身边，我真的有拥有它的资格吗？
+
+### 想要了解卡齐娜·其二
+
+要说我家人的话…我在家中排行第二。我知道爸爸把期许主要寄托在了姐姐身上，而妈妈现在又要照顾年幼的妹妹。我们的生活有些辛苦，所以我需要管好自己，早点长大…至少让爸爸妈妈少操点心。
+
+### 想要了解卡齐娜·其三
+
+帕加尔叔叔待我很好。部族里其他人议论我的时候，他总会帮我说话。其实…他那样做，我心里反而过意不去。我只有靠自己的实力赢得大家认可才行啊…
+
+### 想要了解卡齐娜·其四
+
+我一直知道，流泪并不能解决任何问题。传说故事里，我从来没听过有英雄会在大家面前哭啊。我很想忍住眼泪，但我总是失败…欸？你说没关系？流泪是一种很重要的发泄方式？你…你真的这么想吗？呜呜呜，谢谢你，呜…我怎么又哭了。
+
+### 想要了解卡齐娜·其五
+
+我之前一直觉得自己很弱小，被人忽视也是理所当然…但，听到大灵女士那番话之后，我不再那么想了。「乌沙博蒂」是我的古名，我…已经决定要变成更好的「自己」。这个世界上一定有我才能做到的事。我会…继续努力。希望这块黑曜石有朝一日也能容纳我的事迹，成为一颗…更加璀璨的宝石。
+
+### 卡齐娜的爱好…
+
+这块是我第一次挖出来的宝石，翠绿翠绿的，很好看吧？最初它们是一对，另外一块我送给了玛拉妮，你看，它的花纹像流水一样。对了，还有这块，别看它是黑色的，但放在太阳下面就会有五彩斑斓的感觉…嘿嘿，这些全都是我一块一块收集起来的。
+
+### 卡齐娜的烦恼…
+
+之前玛拉妮送了我一顶很大的帽子，太酷了，还能完美地遮住太阳，我真的好喜欢，但戴着戴着，它就成了一顶毡帽…后来我只能换成现在这顶不会粘毛的帽子了。
+
+### 喜欢的食物…
+
+粒果片片是我的最爱，要是能堆得整齐一点，那就更加完美了。
+
+### 讨厌的食物…
+
+欸？分量这么大吗？但、但我吃不完的话，不就浪费了厨师的劳动成果吗？唔唔，没关系…我一定可以吃完的！小口小口慢慢吃…
+
+### 收到赠礼·其一
+
+哇——真的是送给我的吗？太好吃了！我要慢慢吃，让美味停留得更久一点。
+
+### 收到赠礼·其二
+
+又香又好吃，摆盘也很精致。如果有「厨艺战争」的话，你一定会赢吧！
+
+### 收到赠礼·其三
+
+谢谢你愿意为我花时间！我、我一定会吃完的，请再多给我一点时间。
+
+### 生日…
+
+生日快乐！这个送给你，是虹闪石雕成的鼠兔。虹闪石的触感温润，但在地下很不起眼，一不留神就会错过…不过带在身边久了，它的光泽就会越来越漂亮的。这是我最喜欢的宝石之一，希望你也喜欢。
+
+### 突破的感受·起
+
+我的耳朵在抖吗？不是紧张…而是开心。对不起，它们现在激动得不得了，我控制不住。我…我捂住它们吧。
+
+### 突破的感受·承
+
+你真的非常重视我…呜…呃、我没有想哭的，就是太感动了…
+
+### 突破的感受·转
+
+「王庭焚弃，火却未曾殄熄。明晨它要再度燃起，比昨日更为辉熠。」这是陶奥鲁大人说过的话中，我最喜欢的一句。我，我必须要努力才行…
+
+### 突破的感受·合
+
+你带我一起见识了种种新奇的事物，让我成长了很多，我不知道该怎么回报你才好…但这次我想自己找到答案。接下来就让我来当英雄吧，保护你的英雄！
+
+### 元素战技·其一
+
+旋转！
+
+### 元素战技·其二
+
+嘿——哟！
+
+### 元素战技·其三
+
+来咯！
+
+### 元素战技·其四
+
+开转咯！
+
+### 元素战技·其五
+
+冲地波！
+
+### 元素战技·其六
+
+冲天转转，出发！
+
+### 元素爆发·其一
+
+清退！
+
+### 元素爆发·其二
+
+矿石采集。
+
+### 元素爆发·其三
+
+切勿靠近。
+
+### 打开宝箱·其一
+
+哇哇，有亮晶晶的石头！
+
+### 打开宝箱·其二
+
+你也喜欢收集石头吗？我懂我懂，这些石头太好看了。
+
+### 打开宝箱·其三
+
+需要帮忙整理吗？我很拿手！
+
+### 生命值低·其一
+
+没事，小伤罢了。
+
+### 生命值低·其二
+
+我要…振作起来。
+
+### 生命值低·其三
+
+我、我一定可以的！
+
+### 同伴生命值低·其一
+
+不要忘了还有我呀！
+
+### 同伴生命值低·其二
+
+我在！交给我吧！
+
+### 倒下·其一
+
+对不起，是我逞强了。
+
+### 倒下·其二
+
+不能愧对…「乌沙博蒂」…
+
+### 倒下·其三
+
+呜…又搞砸了吗…
+
+### 普通受击·其一
+
+擦伤而已。
+
+### 重受击·其一
+
+唔，不要紧。
+
+### 加入队伍·其一
+
+呜哇？我可以参加吗？
+
+### 加入队伍·其二
+
+太好了！一起动身吧。
+
+### 加入队伍·其三
+
+又能向你学习战斗技巧了。

@@ -21,6 +21,9 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: Пропавшая на чужбине
+# game_source_ids: 71059
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 20
 
 ## RU
 
@@ -28,12 +31,19 @@
 
 В Разломе вы встретили одинокую путницу, мага Фатуи по имени Катарина. Похоже, она бродит по Разлому не просто так. Спросите у неё, в чём дело.
 
+**Катарина:** Мне нужно отдохнуть. Болят старые раны... Извини.
+
+**Катарина:** Если что, приходи в другой раз... У меня как раз есть к тебе просьба.
 
 **Катарина:** А вот и вы! Будьте как дома.
 
 **Катарина:** Извините, в прошлый раз я вас второпях выставила и даже не объяснила, что мне от вас нужно.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ничего страшного. Я слушаю.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Да ладно, мы ещё ни на что не соглашались.
 
@@ -41,9 +51,15 @@
 
 **Катарина:** Пфф... ну да, ну да.
 
+##### Общее продолжение
+
 **Катарина:** Успокойтесь, ничего плохого я не попрошу.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Тогда рассказывай.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Ты точно не заставишь нас проворачивать гнусные делишки Фатуи.
 
@@ -52,6 +68,8 @@
 **Катарина:** Хорошие дела... плохие... мне вас останавливать?..
 
 **Катарина:** Ох, какие же вы сложные. Сначала выслушайте меня!
+
+##### Общее продолжение
 
 **Катарина:** Дело такое... Мой Коля... Мой соратник Николай не выходит на связь.
 
@@ -65,7 +83,7 @@
 
 **Катарина:** Миллелитам... Зачем? Фатуи ничего хорошего от вражды с ними нет.
 
-Что ты хочешь этим сказать?
+- **Путешественник:** Что ты хочешь этим сказать?
 
 **Катарина:** Да я сама уже ничего не понимаю...
 
@@ -73,9 +91,15 @@
 
 **Катарина:** Ужасно... Что же случилось на поверхности...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это долгая история...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это вы всю кашу заварили...
+
+##### Общее продолжение
 
 **Катарина:** Хм... Об этом попозже поговорим. Война есть война... друзья быстро сменяются врагами, и это та реальность, в которой живут Фатуи.
 
@@ -88,6 +112,16 @@
 **Катарина:** Там он отделился от нас, хотел отвлечь преследующего врага... Он был хорошим бойцом, и я знала, что он не погибнет.
 
 **Катарина:** Надеюсь, он оставил там зацепки... Я очень на это надеюсь.
+
+**Катарина:** А вот и вы. Что-нибудь нашли?
+
+**Катарина:** Если нет, то нет. Располагайтесь.
+
+**Катарина:** Не обращайте внимание... Я вовсе не нервничаю. Я всё равно собираюсь остаться здесь до старости, и, возможно, мне придётся просить вас оформить за меня пенсию!
+
+**Паймон:** Вот же ты лентяйка!
+
+**Катарина:** Ну, если вы не найдёте ничего нового, я буду бездельничать здесь до старости.
 
 #### Найдите подсказку, которую оставил Николай
 
@@ -107,25 +141,7 @@
 
 #### Отправляйтесь к месту, указанному в дневнике Николая
 
-**Катарина:** Так вы вернулись. У меня тут ещё осталась огненная вода.
-
-**Катарина:** Ха-ха, я не предлагаю вам со мной пить. Если вас ранят, то огненной водой можно промывать раны.
-
-**Катарина:** Ну как? Есть новости?
-
-Мы вот что нашли.
-
 #### Осмотрите место, указанное в дневнике
-
-**Катарина:** А вот и вы. Что-нибудь нашли?
-
-**Катарина:** Если нет, то нет. Располагайтесь.
-
-**Катарина:** Не обращайте внимание... Я вовсе не нервничаю. Я всё равно собираюсь остаться здесь до старости, и, возможно, мне придётся просить вас оформить за меня пенсию!
-
-**Паймон:** Вот же ты лентяйка!
-
-**Катарина:** Ну, если вы не найдёте ничего нового, я буду бездельничать здесь до старости.
 
 #### Прочитайте оставленные Николаем записи
 
@@ -143,11 +159,21 @@
 
 #### Поговорите с Паймон
 
+**Паймон:** Хм... Значок... Тот парень Фатуи оставил?
+
 **Паймон:** Ох... тут же никого нет. И что же мы скажем Кате?..
 
 **Паймон:** Что ж, Паймон думает, что мы тут уже не поможем. Идём обратно.
 
-**Паймон:** Хм... Значок... Тот парень Фатуи оставил?
+#### Расскажите о найденных подсказках Катарине
+
+**Катарина:** Так вы вернулись. У меня тут ещё осталась огненная вода.
+
+**Катарина:** Ха-ха, я не предлагаю вам со мной пить. Если вас ранят, то огненной водой можно промывать раны.
+
+**Катарина:** Ну как? Есть новости?
+
+- **Путешественник:** Мы вот что нашли.
 
 #### Поговорите с Катариной
 
@@ -155,15 +181,21 @@
 
 **Катарина:** Пожалуйста, скажите, где Коля? Он жив?..
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы его не нашли, но, возможно, он ещё жив.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Вероятно, он сбежал через тайный ход.
+
+##### Общее продолжение
 
 **Катарина:** Коля никогда бы не бросил меня и не дезертировал. Я просто знаю это. Битвами его не напугать.
 
 **Катарина:** Где вы всё это нашли?
 
-Пещера на юго-востоке. Дай-ка отмечу.
+- **Путешественник:** Пещера на юго-востоке. Дай-ка отмечу.
 
 **Паймон:** Это жуткое место, которое кишит чудовищами...
 
@@ -173,7 +205,7 @@
 
 **Катарина:** Коля... Не опозорь Царицу, не опозорь меня...
 
-...
+- **Путешественник:** ...
 
 **Катарина:** Кхм-кхм... Простите! Распустила тут нюни... Я только что вспомнила, что не успела поблагодарить вас как следует!
 
@@ -181,9 +213,15 @@
 
 **Катарина:** У меня есть немного моры... и кое-какие материалы, которые я насобирала. Сейчас они мне ни к чему, так что возьмите.
 
+##### Вариант ответа 1
+
 - **Путешественник:** А что ты будешь делать дальше?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Тебе нужна помощь?
+
+##### Общее продолжение
 
 **Катарина:** Что дальше? Спасибо за заботу, но мне больше не нужно просить вас о помощи с плохими делами.
 
@@ -197,15 +235,21 @@
 
 **Катарина:** Девиз «кто, если не мы» значит, что и жизнь свою мы должны отдать без колебаний.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Что, если ты замышляешь злое, и мне нужно тебя остановить?
 
-- **Путешественник:** Тебе обязательно всегда думать, как Фатуи?
-
 **Катарина:** ...всегда наступает момент, когда нет выбора, и все мы должны делать то, что должны, не так ли?
+
+##### Вариант ответа 2
+
+- **Путешественник:** Тебе обязательно всегда думать, как Фатуи?
 
 **Катарина:** Да. А что не так?
 
 **Катарина:** Идеи, точки зрения... Это так скучно! Пфф... под моей маской не только идеи, но и страх перед пулями!
+
+##### Общее продолжение
 
 **Катарина:** Ладно-ладно... сколько серьёзности... Детей, которые ещё недостаточно взрослые, чтобы пить, всегда заботят такие странные вещи.
 
@@ -225,12 +269,19 @@
 
 You run into a Fatui mage named Katarina who is wandering alone in The Chasm. What is she doing here? Ask her what's going on.
 
+**Katarina:** I need to get some rest now. My old injuries still hurt. My apologies.
+
+**Katarina:** Please come back another day if you have more questions. I'll also have a favor to ask.
 
 **Katarina:** Ah, you came! Sit and make yourself at home.
 
 **Katarina:** I'm sorry that I sent you away in a hurry last time. I didn't even tell you what I wanted you to help me with.
 
+##### Response branch 1
+
 - **Traveler:** It's fine. You can say it now.
+
+##### Response branch 2
 
 - **Traveler:** No worries. We haven't yet said yes.
 
@@ -238,9 +289,15 @@ You run into a Fatui mage named Katarina who is wandering alone in The Chasm. Wh
 
 **Katarina:** Pfft... you do have a point.
 
+##### Shared continuation
+
 **Katarina:** Relax, I won't make you do anything evil.
 
+##### Response branch 1
+
 - **Traveler:** Well then, go ahead.
+
+##### Response branch 2
 
 - **Traveler:** You certainly won't let us interfere with the Fatui's plans.
 
@@ -249,6 +306,8 @@ You run into a Fatui mage named Katarina who is wandering alone in The Chasm. Wh
 **Katarina:** Why are you talking about "good" or "evil"... and why would I stop you?
 
 **Katarina:** *sigh* You're starting to get on my nerves. Would you just let me finish?
+
+##### Shared continuation
 
 **Katarina:** Well, I have been separated from my Kolya — Nikolay, a member of my team.
 
@@ -262,7 +321,7 @@ You run into a Fatui mage named Katarina who is wandering alone in The Chasm. Wh
 
 **Katarina:** The Millelith... why? It does no good to make them our enemy.
 
-What do you mean?
+- **Traveler:** What do you mean?
 
 **Katarina:** That's my line!
 
@@ -270,9 +329,15 @@ What do you mean?
 
 **Katarina:** Darn it! What on earth happened up there...
 
+##### Response branch 1
+
 - **Traveler:** It's a long story...
 
+##### Response branch 2
+
 - **Traveler:** The Fatui started it...
+
+##### Shared continuation
 
 **Katarina:** Hmph... Let's leave this topic for another day. War is war — there are no eternal allies nor perpetual enemies. That's the reality that we, the Fatui, live in.
 
@@ -285,6 +350,16 @@ What do you mean?
 **Katarina:** At the time, he tried to lure the enemies chasing us away from the rest of the team... He's an excellent soldier, and I know for sure that he wouldn't die there.
 
 **Katarina:** I can only hope that he has left us some clues...
+
+**Katarina:** You're back. Did you find anything?
+
+**Katarina:** It's alright if you found nothing. Go get some rest.
+
+**Katarina:** Don't you worry about me... I'm not anxious. After all, I kinda wanna stay here for my retirement. Maybe I'll ask you to deal with my pension application!
+
+**Paimon:** Wow, you sure are getting some good rest!
+
+**Katarina:** Hmph, if you keep coming back here without bringing me any news... Who knows, you might just find me resting till I rest in peace.
 
 #### Look for clues Nikolay left behind
 
@@ -304,25 +379,7 @@ What do you mean?
 
 #### Find the place mentioned in Nikolay's diary
 
-**Katarina:** You're back. I have some Fire-Water to spare.
-
-**Katarina:** Haha, I'm not inviting you to drink. It can also be used to clean your wounds if you're injured.
-
-**Katarina:** How is it? Did you find anything?
-
-We found this.
-
 #### Look for the place the diary mentioned
-
-**Katarina:** You're back. Did you find anything?
-
-**Katarina:** It's alright if you found nothing. Go get some rest.
-
-**Katarina:** Don't you worry about me... I'm not anxious. After all, I kinda wanna stay here for my retirement. Maybe I'll ask you to deal with my pension application!
-
-**Paimon:** Wow, you sure are getting some good rest!
-
-**Katarina:** Hmph, if you keep coming back here without bringing me any news... Who knows, you might just find me resting till I rest in peace.
 
 #### Read the information Nikolay left behind
 
@@ -340,11 +397,21 @@ We found this.
 
 #### Talk to Paimon
 
+**Paimon:** Eh... Is this the insignia left behind by the Fatui guy?
+
 **Paimon:** Uh... There's no sign of anyone. What are we supposed to tell Katya?
 
 **Paimon:** Well, Paimon guesses there's not much we can do. Let's head back.
 
-**Paimon:** Eh... Is this the insignia left behind by the Fatui guy?
+#### Tell Katarina about the clues you found
+
+**Katarina:** You're back. I have some Fire-Water to spare.
+
+**Katarina:** Haha, I'm not inviting you to drink. It can also be used to clean your wounds if you're injured.
+
+**Katarina:** How is it? Did you find anything?
+
+- **Traveler:** We found this.
 
 #### Talk to Katarina
 
@@ -352,15 +419,21 @@ We found this.
 
 **Katarina:** Please tell me where Kolya is. Is he still alive?
 
+##### Response branch 1
+
 - **Traveler:** We didn't find him, but he's probably still alive.
 
+##### Response branch 2
+
 - **Traveler:** He might've escaped through a secret tunnel.
+
+##### Shared continuation
 
 **Katarina:** Kolya would never desert and abandon me. I'm sure of it, I just know it. He wouldn't run away in the face of a battle.
 
 **Katarina:** Where did you find these?
 
-A cave in the southeast. Let me mark it out for you.
+- **Traveler:** A cave in the southeast. Let me mark it out for you.
 
 **Paimon:** It's a creepy place with many monsters inside it.
 
@@ -370,7 +443,7 @@ A cave in the southeast. Let me mark it out for you.
 
 **Katarina:** Kolya, please don't bring shame to the Tsaritsa. Don't bring shame on me.
 
-...
+- **Traveler:** ...
 
 **Katarina:** Ahem, I—I'm fine... Just got a bit sentimental there. It just occurred to me that I haven't properly thanked you two!
 
@@ -378,9 +451,15 @@ A cave in the southeast. Let me mark it out for you.
 
 **Katarina:** I have some Mora...and some other materials that I collected. They are of no use to me now, so please take them.
 
+##### Response branch 1
+
 - **Traveler:** What's your plan next?
 
+##### Response branch 2
+
 - **Traveler:** Do you need my help?
+
+##### Shared continuation
 
 **Katarina:** What's my plan next? Thank you for asking, but I don't need you to assist me in my "evil-doing" anymore.
 
@@ -394,15 +473,21 @@ A cave in the southeast. Let me mark it out for you.
 
 **Katarina:** When we say "if not us, then who"... Well, this is what that means.
 
+##### Response branch 1
+
 - **Traveler:** What if you're up to something evil and I must stop you?
 
-- **Traveler:** Do you always have to do it the Fatui way?
-
 **Katarina:** ...There's always a moment when you're left with no choice. And we all have things that we must do, right?
+
+##### Response branch 2
+
+- **Traveler:** Do you always have to do it the Fatui way?
 
 **Katarina:** Yes. Is that so strange?
 
 **Katarina:** But anyway... Ideas, perspectives... What terribly boring avenues of inquiry! Pfft... Don't you go thinking that there are only ideas underneath my mask. I am certainly not bulletproof beneath it!
+
+##### Shared continuation
 
 **Katarina:** You're too serious. I mean, I get it. Kids who haven't grown old enough to hold their liquor tend to get drowned in all sorts of strange worries.
 
@@ -422,12 +507,19 @@ A cave in the southeast. Let me mark it out for you.
 
 在层岩巨渊之下，遇到了独自游荡的愚人众术士卡塔琳娜，她似乎是为了什么目的而在层岩巨渊徘徊，去问问她究竟是为了什么事吧。
 
+**卡塔琳娜:** 我要休息了，旧伤还在痛…抱歉。
+
+**卡塔琳娜:** 有事的话，请改天再来找我吧…我正好也有事要拜托你。
 
 **卡塔琳娜:** 你们来了！请随便坐坐吧。
 
 **卡塔琳娜:** 抱歉，之前急匆匆把你们赶走，也没有说清楚要请你们帮什么忙。
 
+##### 对话分支 1
+
 - **旅行者:** 没关系，你请说吧。
+
+##### 对话分支 2
 
 - **旅行者:** 没关系，我们还没答应你呢。
 
@@ -435,9 +527,15 @@ A cave in the southeast. Let me mark it out for you.
 
 **卡塔琳娜:** 噗…你说的很有道理。
 
+##### 共同后续
+
 **卡塔琳娜:** 放心吧，我不会让你们做坏事的。
 
+##### 对话分支 1
+
 - **旅行者:** 那你请说。
+
+##### 对话分支 2
 
 - **旅行者:** 你当然不会让我们坏愚人众的事。
 
@@ -446,6 +544,8 @@ A cave in the southeast. Let me mark it out for you.
 **卡塔琳娜:** 什么好事…坏事…我阻止你们…？
 
 **卡塔琳娜:** 唉…你们好烦啊，听我把话说完好不好！
+
+##### 共同后续
 
 **卡塔琳娜:** 是这样的…我的科利亚…我的队员尼古拉和我失散了。
 
@@ -459,7 +559,7 @@ A cave in the southeast. Let me mark it out for you.
 
 **卡塔琳娜:** 千岩军…为什么？和他们为敌对我们愚人众没有好处的。
 
-你是什么意思？
+- **旅行者:** 你是什么意思？
 
 **卡塔琳娜:** 我还想问你…！
 
@@ -467,9 +567,15 @@ A cave in the southeast. Let me mark it out for you.
 
 **卡塔琳娜:** 可恶…地面上到底发生了些什么啊…
 
+##### 对话分支 1
+
 - **旅行者:** 说来话长…
 
+##### 对话分支 2
+
 - **旅行者:** 事端是你们挑起的…
+
+##### 共同后续
 
 **卡塔琳娜:** 哼…那个之后再说。战争就是这样…敌友瞬息万变，这就是愚人众栖身其中的环境。
 
@@ -482,6 +588,16 @@ A cave in the southeast. Let me mark it out for you.
 **卡塔琳娜:** 他在那里和我们分开了，他想要引开追击的敌人…他是个优秀的战士，我知道他不会死在那里。
 
 **卡塔琳娜:** 希望他在那边留下了线索…希望如此。
+
+**卡塔琳娜:** 你回来了。请问有什么发现吗？
+
+**卡塔琳娜:** 没有的话也没关系的，请随便休息一下吧。
+
+**卡塔琳娜:** 不用在乎我是否着急啦…反正我也有留在这里养老的计划，说不定还要拜托你替我申领退休金呢！
+
+**派蒙:** 哇，你这家伙倒是悠闲！
+
+**卡塔琳娜:** 哼，你们再没什么新发现的话，我可要在这里悠闲到老咯。
 
 #### 寻找尼古拉留下的线索
 
@@ -501,25 +617,7 @@ A cave in the southeast. Let me mark it out for you.
 
 #### 前往尼古拉日志中提及的地点
 
-**卡塔琳娜:** 你们回来了，我还有些火水可以分。
-
-**卡塔琳娜:** 哈哈…没有要你们陪我喝酒啦，如果你们受伤的话，火水也可以用来清洁伤口的。
-
-**卡塔琳娜:** 怎么样？有何收获？
-
-我们找到了这些。
-
 #### 探索日志提及的地点
-
-**卡塔琳娜:** 你回来了。请问有什么发现吗？
-
-**卡塔琳娜:** 没有的话也没关系的，请随便休息一下吧。
-
-**卡塔琳娜:** 不用在乎我是否着急啦…反正我也有留在这里养老的计划，说不定还要拜托你替我申领退休金呢！
-
-**派蒙:** 哇，你这家伙倒是悠闲！
-
-**卡塔琳娜:** 哼，你们再没什么新发现的话，我可要在这里悠闲到老咯。
 
 #### 阅读尼古拉留下的信息
 
@@ -537,11 +635,21 @@ A cave in the southeast. Let me mark it out for you.
 
 #### 与派蒙对话
 
+**派蒙:** 咦…这个徽记…就是那个愚人众家伙留下的吗？
+
 **派蒙:** 唔…连个人影都没有，这下我们要怎么回去交差呀…
 
 **派蒙:** 嗯，也没有别的办法啦，我们回去吧？
 
-**派蒙:** 咦…这个徽记…就是那个愚人众家伙留下的吗？
+#### 将找到的线索告诉卡塔琳娜
+
+**卡塔琳娜:** 你们回来了，我还有些火水可以分。
+
+**卡塔琳娜:** 哈哈…没有要你们陪我喝酒啦，如果你们受伤的话，火水也可以用来清洁伤口的。
+
+**卡塔琳娜:** 怎么样？有何收获？
+
+- **旅行者:** 我们找到了这些。
 
 #### 与卡塔琳娜对话
 
@@ -549,15 +657,21 @@ A cave in the southeast. Let me mark it out for you.
 
 **卡塔琳娜:** 请告诉我，科利亚他人在哪里？他还活着吗…？
 
+##### 对话分支 1
+
 - **旅行者:** 我们没有找到他，但他可能还活着。
 
+##### 对话分支 2
+
 - **旅行者:** 他可能通过密道逃走了。
+
+##### 共同后续
 
 **卡塔琳娜:** 科利亚不可能丢下我去做逃兵的。你们…你们可以放心，我明白的，他是不会临阵脱逃的。
 
 **卡塔琳娜:** 这些东西，你们是在哪里发现的？
 
-东南方一处山洞，我为你标出来。
+- **旅行者:** 东南方一处山洞，我为你标出来。
 
 **派蒙:** 是一个很邪门的地方，有很多奇怪的怪物…
 
@@ -567,7 +681,7 @@ A cave in the southeast. Let me mark it out for you.
 
 **卡塔琳娜:** 科利亚，请不要让女皇陛下蒙羞，不要让我蒙羞……
 
-……
+- **旅行者:** ……
 
 **卡塔琳娜:** 咳，咳…我没事的…抱歉，抱歉！把气氛搞得这么僵…才想起来，还没来得及好好感谢你们呢！
 
@@ -575,9 +689,15 @@ A cave in the southeast. Let me mark it out for you.
 
 **卡塔琳娜:** 我还有些摩拉…还有就是…之前收集的一些物资，反正已经没有什么用了，请你收下吧。
 
+##### 对话分支 1
+
 - **旅行者:** 接下来有何打算？
 
+##### 对话分支 2
+
 - **旅行者:** 还需要我帮忙吗？
+
+##### 共同后续
 
 **卡塔琳娜:** 接下来吗？谢谢关心，不过我不需要再拜托你帮忙「做坏事」啦。
 
@@ -591,15 +711,21 @@ A cave in the southeast. Let me mark it out for you.
 
 **卡塔琳娜:** 所谓「舍我其谁」呢…就是这样的事。
 
+##### 对话分支 1
+
 - **旅行者:** 如果你在作恶，而我必须阻止你呢？
 
-- **旅行者:** 你一定要拘泥于愚人众的立场吗？
-
 **卡塔琳娜:** …我们都有没得选择的时候，也都有不得不去做的事情，对吧？
+
+##### 对话分支 2
+
+- **旅行者:** 你一定要拘泥于愚人众的立场吗？
 
 **卡塔琳娜:** 嗯？是呀，很奇怪吗？
 
 **卡塔琳娜:** 理念呀、立场呀，都是太无聊的问题了。噗…我的面具下面可不是只有理念，我是怕子弹的！
+
+##### 共同后续
 
 **卡塔琳娜:** 好啦…你真的太严肃了，没到喝酒年纪的孩子呀，总是有奇奇怪怪的烦恼。
 

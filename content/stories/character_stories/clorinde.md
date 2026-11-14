@@ -395,3 +395,923 @@ As Clorinde raised her sword and spoke these words, the merchant simply stared b
 「在这里，只有剑能证明你的名誉。」
 克洛琳德举剑说道，不知道何时出现在她胸前的「神之眼」倒映着富商惊恐的神情。
 「…还是说，你压根没有为自己的名誉挥剑的『勇气』？」
+
+# voice_source_ids: 98000,98001,98002,98003,98004,98005,98006,98007,98008,98009,98010,98011,98012,98013,98014,98015,98016,98017,98018,98019,98020,98021,98022,98023,98024,98025,98026,98027,98028,98029,98030,98031,98032,98033,98034,98035,98036,98037,98038,98039,98040,98041,98042,98043,98044,98045,98046,98047,98048,98049,98050,98051,98052,98053,98054,98055,98056,98057,98058,98059,98060,98061,98062,98063,98064,98065,98066,98067,98068,98069
+
+## REPLICAS_RU
+
+### Привет...
+
+Приветствую вас. Меня зовут Клоринда, я судебный дуэлянт Кур-де-Фонтейна. Если хочешь воспользоваться моими услугами, изложи суть разногласий... Можешь опустить лишние детали, они меня не касаются.
+
+### Поболтаем: Противники
+
+На дуэлях я противостояла многим противникам. Большинство из них я победила. Остальные сдались сами. ...Хм? Нет. Я ещё ни разу не проиграла.
+
+### Поболтаем: Судебный дуэлянт
+
+Я судебный дуэлянт, и моё мнение не имеет значения, ведь когда я достаю свой клинок, я становлюсь орудием закона Фонтейна.
+
+### Поболтаем: Секреты победы
+
+Дуэль - это битва характеров, а меч - продолжение силы духа дуэлянта. Если сердце испуганно сжимается, то мечу лучше остаться в ножнах, потому что ты не сможешь эффективно противостоять противнику.
+
+### Когда идёт дождь...
+
+В дождливые дни добыча обычно отдыхает. Но только не охотник.
+
+### После дождя...
+
+Битва между ветром и дождём, похоже, подошла к концу.
+
+### Когда гремит гром...
+
+Надеюсь, это был звук, свидетельствующий о том, что в мире стало на одного злодея меньше.
+
+### Когда идёт снег...
+
+Для меня это новый пейзаж. И, надо сказать, довольно мрачный.
+
+### В пустыне...
+
+Я никогда так сильно не скучала по Фонтейну...
+
+### Доброе утро...
+
+Доброе утро. Я скоро пойду пить кофе, не хочешь присоединиться? Я принесла кофейные чашки, могу одолжить тебе одну, если понадобится.
+
+### Добрый день...
+
+Прошу прощения, я освобожусь с работы чуть позже. Вот, возьми сэндвич, он поможет утолить голод.
+
+### Добрый вечер...
+
+К сожалению, я не могу дать тебе рекомендаций по выбору вина. Но я могу посоветовать несколько менее известных ресторанов, которые стоит посетить.
+
+### Спокойной ночи...
+
+Спокойной ночи. Я пойду спать, как только закончу вечернее обслуживание оружия.
+
+### О Клоринде: Новостные репортажи
+
+Все газеты грешат репортажами, которые нельзя назвать ни честными, ни справедливыми. Некоторые репортёры позволяют своим взглядам колебаться под влиянием связей и обещанной моры.
+Если хочешь узнать правду, лучше всего обратиться к людям, которые непосредственно вовлечены в ситуацию. Задай вопросы и сделай собственные выводы.
+По крайней мере, не позволяйте чужим лживым речам затмить твой разум.
+
+### О Клоринде: Мушкеты и мечи
+
+Мой выбор оружия соответствует традициям Охотников Сумеречного двора. Мушкет, чтобы загнать добычу, и меч, чтобы нанести ей смертельный удар.
+На дуэлях я, разумеется, обычно использую только меч. Как только ты ступаешь на ринг, бежать некуда, а значит, и загонять тебя не нужно.
+
+### О нас: Церемонии
+
+Перед каждой дуэлью я протираю свой меч тряпкой, смоченной в специальной чистящей жидкости. Отчасти это нужно для того, чтобы поддерживать его в рабочем состоянии, но вместе с тем это помогает мне сохранять спокойствие и очищает разум от навязчивых мыслей.
+Ты тоже владеешь мечом. У тебя есть похожие ритуалы?
+
+### О нас: Люди в тени зла
+
+Многие свои привычки я переняла у Охотников Сумеречного двора. Они боролись с монстрами, а я - с нарушителями закона. Но монстры - зло по своей природе, и иного они не знают. Но этого нельзя сказать о развращённом человечестве, у которого есть все возможности творить добро, но которое охотно выбирает путь зла.
+А ты? Что побуждает тебя носить клинок?
+
+### Глаз Бога...
+
+После того как я получила Глаз Бога, количество людей, которые сдаются на дуэли, значительно возросло. Некоторые дуэлянты даже думают, что я использую его для устрашения.
+Я же всегда считала, что моего послужного списка непобедимого дуэлянта вполне достаточно для запугивания. Пожалуй, мне стоит стремиться к более значительным победам на дуэли.
+
+### Давай поделимся...
+
+Я видела, как многие люди вступают в спор по самым пустяковым поводам, воспринимают их как оскорбление личного достоинства и в итоге доводят дело до суда. Мало того, что эти ситуации сами по себе абсурдны, так они ещё и решают устроить дуэль.
+Мне, как судебному дуэлянту, не составляет труда уладить вопросы чести на дуэли. Но всё же... Как бы это сказать? Для рядового жителя Фонтейна, как мне кажется, вопросы вроде того, есть ли маркоту место в кофе, не настолько принципиальны, чтобы решать их на мечах...
+
+### Интересные вещи...
+
+Тебе встречались порхающие помидорки? Трудно предугадать, куда и как быстро они полетят, поэтому они отлично подходят для стрельбы по мишеням. Точнее, они были бы хороши, если бы не пришлось отправляться в дикую природу, чтобы найти их... Хотелось бы, чтобы кто-нибудь выращивал их в домашних условиях.
+
+### О Шарлотте...
+
+Шарлотта - один из самых тактичных репортёров. Я не могу сказать о ней ничего плохого.
+В отличие от некоторых, она не подстерегает меня со своей камерой по дороге на работу, не ходит за мной в кофейню, чтобы выяснить, что я буду сегодня пить... И что самое замечательное, она прекрасно знает, что я не даю интервью, и не надоедает мне по этому поводу.
+
+### О Фурине...
+
+Раньше на чаепитиях я всегда стояла позади неё, держа меч наготове. Но теперь я могу сидеть за столом и наслаждаться чаем и угощениями вместе с ней.
+Теперь я начинаю понимать, почему она постоянно жалуется на то, как трудно поддерживать фигуру в форме.
+
+### О Навии...
+
+В последнее время у Навии хорошее настроение. Она буквально каждый день приглашает меня присоединиться к ней в «Настольной труппе» для работы над новым сценарием.
+Истории всегда очень разные. За исключением тех нескольких случаев, когда я брала на себя роль ведущей, я часто выступаю в роли персонажа и присоединяюсь к ней на время приключения. Но я стараюсь не играть за персонажей, имеющих отношение к суду, чтобы не создавать слишком серьёзную атмосферу...
+
+### О Нёвиллете...
+
+Ни у кого не возникает сомнений в авторитете юдекса. Он всегда выносит справедливый приговор - и, если потребуется, я подтвержу справедливость этого приговора своим мечом.
+
+### О Шеврёз...
+
+Ах да, капитан Шеврёз. Это имя я где-то уже слышала. На неё неоднократно подавали судебные иски, обвиняя в превышении полномочий при задержании преступников. Во время дачи показаний она с такой решимостью опровергала обвинения, что истцы теряли дар речи. Она исключительная личность.
+
+### О Лини...
+
+Я должна поаплодировать великому иллюзионисту за тот уровень профессионализма, который он демонстрирует в своём ремесле. Если у меня когда-нибудь появится возможность, я бы очень хотела оказаться на одном из его выступлений в качестве зрителя.
+
+### О Фремине...
+
+Однажды я получила посылку, в которой лежала миниатюрная механическая игрушка и открытка с благодарностью. Игрушка была искусно выполнена. При первой же возможности нужно лично поблагодарить господина Фремине... Говоришь, такой возможности может не представиться? Что ж, тогда я тоже напишу благодарственную открытку. Пожалуйста, передай её Фремине.
+
+### О Тиори...
+
+Я и раньше покупала одежду в её магазине. Она хорошего качества. Но в большинстве случаев я предпочитаю носить свою форму. Отчасти потому, что она служит для чёткого обозначения моей принадлежности, а отчасти потому, что мне нравятся хорошо знакомые вещи. Как и мой меч, эта униформа привычна и функциональна - у меня нет ни малейшего желания её сменить.
+
+### О Ризли...
+
+Управлять крепостью Меропид - нелёгкое дело. Ризли, несомненно, в высшей степени способный человек, если ему удаётся поддерживать относительную стабильность в подобном месте.
+Я подозреваю, что он умалчивает о некоторых своих методах, но мы не можем утверждать наверняка.
+
+### О Сиджвин...
+
+Госпожа Сиджвин - отличная медсестра, она одинаково хорошо умеет лечить раненых и утешать страждущих. Я уверена, что её добрая и любящая натура пробуждает то немногое хорошее, что есть даже в самых отъявленных преступниках крепости Меропид.
+Возможно, это послужит для них достаточным стимулом, чтобы изменить своё поведение.
+
+### Об Эмилии...
+
+Я слышала, что она парфюмер. А ещё я кое-что слышала о её настоящей профессии. Однажды я увидела её на улице, она гладила маленькую собачку и нежно улыбалась. Мы кивнули друг другу, а потом разошлись каждая в свою сторону.
+
+### Узнать больше о Клоринде I
+
+Работа судебного дуэлянта не так уж сложна. Можно сказать, что это одна из самых простых профессий - победить своего соперника, как того требует суд. Вот и всё.
+Возможно, именно поэтому некоторые люди в обиходе называют меня «палачом».
+
+### Узнать больше о Клоринде II
+
+Я всегда делаю всё от меня зависящее, чтобы поединок был честным. Если у моего противника плохое зрение, я закрываю глаза. Если его подвижность ограничена, я ограничиваю свой диапазон движений. Что бы ни случилось, каждая дуэль, в которой я участвую, должна быть честной.
+
+### Узнать больше о Клоринде III
+
+Я уже сбилась со счёта, сколько раз люди сдавались прямо перед началом дуэли. Им даже не хватило смелости достать оружие. Я склоняюсь к мысли, что их так называемые пострадавшие честь и достоинство всего лишь искажённые представления самовлюблённых людей.
+Они становятся архитекторами собственного поражения задолго до того, как встретятся со мной лицом к лицу. Мне не нужно ничего предпринимать, когда кто-то находится в плену собственных мыслей.
+
+### Узнать больше о Клоринде IV
+
+Тебе доводилось видеть виновного человека на суде? По моему опыту, они всегда искажают правду, пытаясь доказать свою невиновность. Насилие объясняют добродетелью, а зло - добром... Но чем бы они ни оправдывались, всё заканчивается одинаково: «Это была минутная слабость, любой другой на моём месте поступил бы точно так же, поэтому не надо меня наказывать».
+Они пытаются найти способ скрыть свою подлость, обливая ею всех остальных.
+Их ложь необходимо разоблачить, а суд - очистить от их скверны. Именно поэтому я стала судебным дуэлянтом.
+
+### Узнать больше о Клоринде V
+
+Я видела многих людей, ищущих сострадания у суда. Я не отношусь к ним неуважительно, но они ищут не там, где нужно.
+Суд - это место беспристрастного правосудия. А правосудие... всегда должно оставаться равнодушным, иначе оно не сможет восторжествовать.
+Правосудие легко сбить с пути, когда в дело вмешиваются эмоции. Беспристрастный суд уступает место мстительному наказанию, а мстительность со стороны суда не менее жестока, чем преступления, совершаемые нарушителями закона.
+
+### Хобби Клоринды...
+
+В отличие от работы судебным дуэлянтом, роль ведущей в «Настольной труппе» даёт мне свободу оставаться за пределами истории и наблюдать за реакцией людей, не вовлекаясь в драму. Я создаю и контролирую мир, в котором они действуют... Ммм? Похоже на то, как наблюдают за животным в клетке, пойманным на охоте? Интересная точка зрения... Я никогда не думала об этом раньше. Но я бы ни в коем случае не стала досаждать игрокам, я хочу, чтобы они наслаждались историей. Так что это совсем не похоже на охоту.
+
+### Беспокойство Клоринды...
+
+Я надеюсь, что эти репортёры перестанут донимать меня, когда я пытаюсь насладиться чашкой кофе, купить букет цветов или почитать книгу. В противном случае мне придётся подать иск, чтобы парочка таких репортёров стала примером для остальных. Если они потребуют дуэли, я заставлю их принести свою камеру, и в интересах справедливости у меня в руках тоже будет только камера.
+
+### Любимая еда...
+
+Я в целом люблю мясные блюда, но только когда мясо свежее. Ничто не сравнится с ароматом свежего мяса, приготовленного на гриле, с щепоткой соли и кислыми фруктами на гарнир. Давай как-нибудь сходим вместе на охоту, я тебе приготовлю.
+
+### Нелюбимая еда...
+
+Я не люблю рыбу. В ней слишком много костей, и я не выношу запаха... Может быть, это потому, что я переела рыбы в детстве.
+
+### Подарок I
+
+Превосходный вкус. В точности как я люблю. Только не говори об этом репортёрам или гурманам - они умеют оценивать еду только через объектив камеры или газетные статьи.
+
+### Подарок II
+
+Отличная еда. Буду медленно есть, чтобы подольше насладиться вкусом.
+
+### Подарок III
+
+Тебе повезло, что это не подают в ресторане, иначе посетители пожаловались бы шеф-повару.
+
+### День рождения...
+
+С днём рождения! У меня есть для тебя подарок - ожерелье из коротких мечей, которое я сделала своими руками.
+По традиции в первый день рождения новичка как Охотника Сумеречного двора его наставник делает ему ожерелье с подвеской в виде короткого меча с гравировкой имени новичка. Его следует носить так, чтобы меч был на груди. Оно символизирует то, как острие меча подвергает допросу собственное сердце: пойду ли я по пути предательства, есть ли в моём сердце сомнения, полон ли я решимости искоренить всякое зло?
+Хотя ты и не Охотник Сумеречного двора, я верю, что ты, как и я, готов сражаться во имя добра.
+Почему меч, а не мушкет? Потому что огнестрельное оружие может дать осечку. Кроме того, есть что-то неуместное в допросе сердца под дулом пистолета. / С днём рождения! У меня есть для тебя подарок - ожерелье из коротких мечей, которое я сделала своими руками.
+По традиции в первый день рождения новичка как Охотника Сумеречного двора её наставник делает ей ожерелье с подвеской в виде короткого меча с гравировкой имени новичка. Его следует носить так, чтобы меч был на груди. Оно символизирует то, как острие меча подвергает допросу собственное сердце: пойду ли я по пути предательства, есть ли в моём сердце сомнения, полна ли я решимости искоренить всякое зло?
+Хотя ты и не Охотница Сумеречного двора, я верю, что ты, как и я, готова сражаться во имя добра.
+Почему меч, а не мушкет? Потому что огнестрельное оружие может дать осечку. Кроме того, есть что-то неуместное в допросе сердца под дулом пистолета.
+
+### Чувство возвышения: Начало
+
+Интересно... Успехи, безусловно, есть.
+
+### Чувство возвышения: Нарастание
+
+Даже мой меч лежит в руке как влитой. Словно продолжение меня самой.
+
+### Чувство возвышения: Кульминация
+
+Кажется, моё зрение улучшилось... Попробую рассмотреть вон тот листок.
+
+### Чувство возвышения: Окончание
+
+Ты воин, поэтому вряд ли тебе нужна моя помощь. Но если тебе когда-нибудь понадобится моя сила, я буду сражаться за тебя всеми доступными мне средствами. Как всегда.
+
+### Элементальный навык I
+
+Приготовиться.
+
+### Элементальный навык II
+
+Заряжай!
+
+### Элементальный навык III
+
+Тень охотника!
+
+### Взрыв стихии I
+
+Поймать всех!
+
+### Взрыв стихии II
+
+Время для дачи показаний.
+
+### Взрыв стихии III
+
+Там, где таится зло, стреляй на поражение!
+
+### Открытие сундука I
+
+Какая удача. И весьма вовремя.
+
+### Открытие сундука II
+
+Если предметы окажутся невостребованными, мы можем забрать их себе бесспорно.
+
+### Открытие сундука III
+
+Кто первым найдёт, тот себе и заберёт. По-моему, справедливо.
+
+### Низкий уровень HP I
+
+Пора кончать с этим.
+
+### Низкий уровень HP II
+
+Полная анархия...
+
+### Низкий уровень HP III
+
+...Смешно.
+
+### Низкий уровень HP компаньона I
+
+Уходим!
+
+### Низкий уровень HP компаньона II
+
+Я займусь этим. Отправляйся в безопасное место.
+
+### Без сознания I
+
+Победитель... определён...
+
+### Без сознания II
+
+Я... повержена...
+
+### Без сознания III
+
+Твоё имя очищено...
+
+### Получен лёгкий удар I
+
+Меткий выстрел.
+
+### Получен тяжёлый удар I
+
+Довольно!
+
+### Присоединяется к группе I
+
+Как пожелаешь.
+
+### Присоединяется к группе II
+
+Хочешь, чтобы я сражалась за тебя?
+
+### Присоединяется к группе III
+
+Мой клинок проведёт нас сквозь тени.
+
+## REPLICAS_EN
+
+### Hello
+
+Greetings. I am Clorinde, a Champion Duelist of the Court of Fontaine. If you wish to hire my services, please state the nature of your dispute... You may leave out any extraneous details, those are no concern of mine.
+
+### Chat: Opponents
+
+I've faced many opponents in my duels. Most of them, I defeated. The rest surrendered. ...Hm? No. I have never lost a duel.
+
+### Chat: Champion Duelist
+
+In my role as Champion Duelist, my opinions do not matter. For when I draw my blade, I am but an instrument of Fontaine's law.
+
+### Chat: Secret to Success
+
+A duel is a battle of wills, and the sword an extension of the duelist's spirit. If your heart recoils in fear, then your sword may as well be in its scabbard, because you will not wield it effectively against your foe.
+
+### When It Rains
+
+Prey will usually rest on rainy days. But not the hunter.
+
+### After the Rain
+
+The battle between wind and rain appears to have reached its end.
+
+### When Thunder Strikes
+
+Hopefully, that was the sound of one more villain being removed from the world.
+
+### When It Snows
+
+This is a new sight for me. A rather bleak one, I must say.
+
+### In the Desert
+
+...I have never missed Fontaine so much in all my life.
+
+### Good Morning
+
+Good morning. I'm going for coffee shortly, would you like to join me? I brought coffee cups — you can borrow one if you need.
+
+### Good Afternoon
+
+Apologies, I don't get off work till later. Here, take this sandwich. It'll keep the wolf from the door.
+
+### Good Evening
+
+I'm afraid I'm unable to share any wine recommendations with you. But I can recommend a few lesser-known restaurants that are well worth a visit.
+
+### Good Night
+
+Goodnight. I'll be heading to bed as soon as I've completed my nightly weapon maintenance.
+
+### About Clorinde: News Reports
+
+Every newspaper is plagued by reporting that is neither particularly fair, nor remotely just. Some writers allow their views to be swayed by personal connections and promises of Mora.
+If you want to find out the truth of a situation, the best way is to go to the people directly involved. Ask your own questions, and come to your own conclusions.
+At the very least, don't let other people's deceitful tongues serve as a substitute for your own brain.
+
+### About Clorinde: Muskets and Swords
+
+My choice of weapons follows the Marechaussee Hunter tradition. A Musket to chase away my prey, and a sword to deliver it a fatal strike.
+In duels, of course, I typically only use my sword. Once you set foot in the Duelists' Ring, there is nowhere to run, and therefore no need to chase you away.
+
+### About Us: Ceremony
+
+Before every duel, I wipe my sword down with a cloth soaked in a special cleaning liquid. It's partly to keep it in good working order, but it also helps me to remain calm and rid my mind of any intrusive thoughts.
+You're a fellow sword-wielder. Do you have any similar rituals?
+
+### About Us: People and the Shadow of Evil
+
+Many of my habits are customs I've adopted from the Marechaussee Hunter tradition. They fought against monsters, while I fight against lawbreakers. But monsters are evil by nature, it is all they know. The same cannot be said for the corrupt of humanity, who have the ability and opportunity to do good, yet willingly choose the path of evil.
+And you? What is your reason for carrying a blade?
+
+### About the Vision
+
+After I received my Vision, the amount of people surrendering to me in duels went up substantially. Some duelists even think I use it as an intimidation tactic.
+I always thought my undefeated track record was enough of an intimidation tactic. Perhaps I should aim to win more dramatically in future duels.
+
+### Something to Share
+
+I've seen many people get into a dispute over the most trivial thing, take it as a grave affront to their personal dignity, and end up bringing the matter to court. As if that's not already ridiculous enough, they then opt for a duel.
+As a Champion Duelist, I have no qualms about settling matters of honor with a duel. Still... How can I put this? For the average citizen of Fontaine, I would have thought that questions like whether Marcotte really belongs in coffee are not so crucial to resolve that they warrant the drawing of swords...
+
+### Interesting Things
+
+You've seen Bloatty Floatties before, yes? It's hard to predict where they will fly to and how fast, which makes them good for target practice. Or rather, they would be, if you didn't have to go out into the wild to find one... If only someone out there was willing to cultivate them domestically.
+
+### About Charlotte
+
+Charlotte is one of the more tactful journalists out there. I don't have anything negative to say about her.
+Unlike some, she doesn't ambush me with her Kamera on my way to work, or follow me to the coffee shop to report on what I'm drinking today... And most commendably of all, she is well aware that I do not do interviews and doesn't nag me about it continuously.
+
+### About Furina
+
+In the past, I always stood behind her at tea parties, sword at the ready. But now, I get to sit at the table and enjoy the tea and treats along with her.
+I'm now beginning to understand why she complains all the time about how hard it is to maintain her physique.
+
+### About Navia
+
+Navia's been in a good mood lately. It seems like every other day she's asking me to join her at Tabletop Troupe for a new script.
+The story is always so different. Save for the few times when I've taken the role of Game Master, I often play in character and join her on the adventure. But I do try to avoid playing any characters from the court, so as not to make the atmosphere too serious...
+
+### About Neuvillette
+
+No one is in any doubt as to the Iudex's authority. He always delivers a fair verdict — and when necessary, I will reiterate the fairness of this verdict with my sword.
+
+### About Chevreuse
+
+Ah yes, Captain Chevreuse. That's a name I've heard before. She has been landed with lawsuits on several occasions, after being accused of using excessive force when arresting culprits. She refuted the allegations just as forcefully during her testimony, leaving the plaintiff speechless. I think she's outstanding.
+
+### About Lyney
+
+I have to applaud the great magician for the level of professionalism he displays in his craft. If I ever have the time, I would very much like to enjoy one of his shows as a regular audience member.
+
+### About Freminet
+
+One day, I received a parcel containing a miniature mechanical toy and a thank-you card. The toy was exquisitely made. I must thank Mr. Freminet in person when I get the opportunity... Hm? The opportunity may be hard to come by, you say? Very well, then I too shall write a thank-you card. Please pass it on to him for me.
+
+### About Chiori
+
+I've bought clothes from her store before. They're good quality. But most of the time, I prefer to wear my work uniform. Partly because it serves to clearly communicate my identity, and partly because I like things that are familiar. Just like my sword, this uniform is familiar and functional — I have no desire to change it.
+
+### About Wriothesley
+
+Managing the Fortress of Meropide is no mean feat. Wriothesley is undoubtedly a highly capable person if he can maintain relative stability in a place like that.
+I highly suspect that he keeps quiet about some of the methods he uses, but there's no way we can know.
+
+### About Sigewinne
+
+Miss Sigewinne is an excellent nurse, equally adept at treating the injured and comforting the distressed. I'm sure that her kind and loving nature brings out what little good there may be even in the vilest offenders of the Fortress of Meropide.
+And maybe that just might serve as enough of a motivation for them to change their ways.
+
+### About Emilie
+
+I've heard that she's a perfumer. I've also heard a little about her true profession. I saw her out on the street once. She was stroking a little dog, and had a gentle smile on her face. We nodded at each other, then each went our separate ways.
+
+### More About Clorinde: I
+
+A Champion Duelist's job is not that complicated. In fact, you could say it's one of the simplest jobs there is. Defeat your opponent, as requested by the Trial Court. That's all there is to it.
+...Perhaps that's why some people colloquially refer to me as an "executioner."
+
+### More About Clorinde: II
+
+I always do what I can to ensure every duel is a fair fight. If my opponent has impaired vision, I cover my eyes. If their mobility is limited, I restrict my range of movement. Whatever happens, every duel I participate in must be fair.
+
+### More About Clorinde: III
+
+I've lost count of how many times I've had people surrender right before the duel begins. When someone lacks the courage even to draw their weapon, I'm inclined to think that whatever grievance and claims of reputational damage brought them to this point are just the skewed opinions of a self-serving individual.
+Long before they face me, they are the architects of their own defeat. I needn't make a move when someone is a prisoner of their own soul.
+
+### More About Clorinde: IV
+
+Have you ever seen a guilty person on trial? In my experience, they always twist the truth in an effort to protest their innocence. Violence is explained away as virtue, and evil as good... But whatever their excuse, it always ends the same way: "It was a momentary lapse of judgment, but anyone else in my position would have done the same thing, so don't single me out for punishment."
+They seek to hide their own foulness by smearing it on everyone else too.
+Their lies must be demolished, and the court cleansed of their filth. And that is exactly why I became a Champion Duelist.
+
+### More About Clorinde: V
+
+I've seen many people seek compassion from the court. No disrespect to them, but they're looking in the wrong place.
+The court is a place of impartial justice. And justice... must always remain indifferent, or it cannot prevail.
+Justice is too easily led astray once human emotion enters the mix. If impartial judgment were to give way to vindictive punishment, vindictiveness at the hand of the court would be every bit as cruel as the crimes perpetrated by lawbreakers.
+
+### Clorinde's Hobbies
+
+Unlike my work as a duelist, being a Game Master in Tabletop Troupe gives me the freedom to stay outside of the story itself. and observe people's reactions without getting personally involved in all the drama. I create and control the world in which they operate... Hmm? Like watching a caged animal caught on a hunt? That's an interesting angle... I'd never thought of it like that before. But I would never give the players a hard time — I just want them to enjoy the story. So it's quite different from hunting.
+
+### Clorinde's Troubles
+
+I do hope those journalists stop harassing me while I'm just trying to enjoy a cup of coffee, buy a bunch of flowers, or read a book. Otherwise, I may have to file a lawsuit to make an example of one or two of them. If they request a duel, I'll make them bring their Kamera, and in the interest of fairness, I too will bring only a Kamera.
+
+### Favorite Food
+
+I like meaty dishes in general, but only if the meat is fresh. There's nothing like the flavor of freshly hunted meat cooked over the grill with a little salt to taste and a portion of sour fruits on the side. You should come hunting with me some time, I'll cook for you.
+
+### Least Favorite Food
+
+I don't enjoy fish. There's too many bones, and I can't stand the smell... Maybe it's because I had my fill of fish as a child.
+
+### Receiving a Gift: I
+
+The flavor is perfect. Exactly how I like it. Don't let the journalists or gourmets in on this though — they only know how to appreciate food through the lens of a Kamera or the words of a newspaper article.
+
+### Receiving a Gift: II
+
+Mm, this is fine food. I'll enjoy it slowly so it lasts longer.
+
+### Receiving a Gift: III
+
+...You're lucky this wasn't served in a restaurant, or the diners would be complaining to the chef.
+
+### Birthday
+
+Happy Birthday. I have a gift for you — it's a short-sword necklace that I made myself.
+In the Marechaussee Hunters' tradition, on a new member's first birthday as a hunter, his mentor will make him a short-sword necklace with his name engraved, to be worn with the sword hanging over the chest. This is to symbolize interrogating his own heart at swordpoint: Will I tread the path of treachery, is there doubt in my heart, or am I resolved to eradicate all evil?
+Though you're not a Marechaussee Hunter, I believe that you're committed, like I am, to fighting the good fight.
+Why a sword, and not a musket? Because guns can misfire. Also, there's something a little inelegant about interrogating your heart at gunpoint. / Happy Birthday. I have a gift for you — it's a short-sword necklace that I made myself.
+In the Marechaussee Hunters' tradition, on a new member's first birthday as a hunter, her mentor will make her a short-sword necklace with her name engraved, to be worn with the sword hanging over the chest. This is to symbolize interrogating her own heart at swordpoint: Will I tread the path of treachery, is there doubt in my heart, or am I resolved to eradicate all evil?
+Though you're not a Marechaussee Hunter, I believe that you're committed, like I am, to fighting the good fight.
+Why a sword, and not a musket? Because guns can misfire. Also, there's something a little inelegant about interrogating your heart at gunpoint.
+
+### Feelings About Ascension: Intro
+
+Interesting... This is certainly an improvement.
+
+### Feelings About Ascension: Building Up
+
+Even my sword feels more at home in my hand now. Like an extension of my own body.
+
+### Feelings About Ascension: Climax
+
+I feel like my eyesight just improved... Let me do a test-shot on that leaf over there.
+
+### Feelings About Ascension: Conclusion
+
+As a warrior yourself, I don't believe you require my help. But should you ever wish to borrow my strength, I will fight for you with everything I have. As always.
+
+### Elemental Skill: I
+
+Ready.
+
+### Elemental Skill: II
+
+Loaded.
+
+### Elemental Skill: III
+
+Into the shadows!
+
+### Elemental Burst: I
+
+Hunt them down!
+
+### Elemental Burst: II
+
+Time to testify.
+
+### Elemental Burst: III
+
+Where evil lurks, shoot on sight!
+
+### Opening Treasure Chest: I
+
+A stroke of good luck. And a very welcome one.
+
+### Opening Treasure Chest: II
+
+If these items are unclaimed, we may take them without controversy.
+
+### Opening Treasure Chest: III
+
+First to find gets to stake their claim. Seems fair.
+
+### Low HP: I
+
+Time to finish this.
+
+### Low HP: II
+
+This is sheer anarchy...
+
+### Low HP: III
+
+...What a disgrace.
+
+### Ally at Low HP: I
+
+Retreat!
+
+### Ally at Low HP: II
+
+I'll take over. Get to safety.
+
+### Fallen: I
+
+The victor... is declared...
+
+### Fallen: II
+
+I am... defeated...
+
+### Fallen: III
+
+You've cleared your name...
+
+### Light Hit Taken: I
+
+A sharp shooter.
+
+### Heavy Hit Taken: I
+
+Enough!
+
+### Joining Party: I
+
+Per your wishes.
+
+### Joining Party: II
+
+Need to hire a duelist?
+
+### Joining Party: III
+
+My blade will lead us through the shadows.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+枫丹廷决斗代理人，克洛琳德，向你致意。如需雇佣我进行代理决斗，请先陈述你所陷之纠纷…无需赘述人情，这与我无关。
+
+### 闲聊·对手
+
+我在决斗中遇见过不少对手，他们大部分都落败了，剩下的则主动投降…我有没有输过？没有。
+
+### 闲聊·决斗代理人
+
+决斗代理人是我的职业，我怎么想并不重要。因为握紧长剑之时，我代表的是枫丹的律法与规则。
+
+### 闲聊·制胜诀窍
+
+决斗是意志的对战，剑则是决斗者心灵的延伸。如果你的心已然畏缩，那你的剑也会如同裹鞘一般，无法斩败任何人。
+
+### 下雨的时候…
+
+猎物会在雨天休息，但猎人不能。
+
+### 雨过天晴…
+
+看来风和云的对决分出胜负了。
+
+### 打雷的时候…
+
+希望世界上能少个恶徒。
+
+### 下雪的时候…
+
+真新奇。但也够冷清的。
+
+### 在沙漠的时候…
+
+我从来没这么想念过枫丹。
+
+### 早上好…
+
+早上好。我正准备去喝杯咖啡，一起吗？我自带咖啡杯，如果你需要，我可以借你一个。
+
+### 中午好…
+
+抱歉，现在还是我的工作时间。这份三明治给你，先吃点垫垫吧。
+
+### 晚上好…
+
+很抱歉不能和你分享品酒心得，但我可以向你推荐几家颇具特色的冷门餐馆。
+
+### 晚安…
+
+晚安。我维护好武器后也会休息。
+
+### 关于克洛琳德自己·新闻报道
+
+报纸上总是存在着一些谈不上公正，也绝不算正义的报道。撰写它们的人都被人情与摩拉带偏了心。
+如果你想知道某件事的真相，最好的方法是去找相关的人，用你自己的嘴发问，用你自己的心去理解。
+至少，别让其他人的舌头代替你的头脑。
+
+### 关于克洛琳德自己·铳枪与长剑
+
+我的武器装备遵循逐影猎人的传统制式。铳枪用来驱赶猎物，长剑给予它们致命一击。
+当然，代理决斗时我一般只用长剑，踏上决斗场的人已经无路可逃，用不着再做驱赶。
+
+### 关于我们·仪式
+
+在每次决斗开始前，我会用浸了特制药水的软布擦拭武器，一方面是为了保养，另一方面是为了让自己保持沉静，排除杂念。
+作为执剑者，你应该也有自己的仪式吧？
+
+### 关于我们·人与魔影
+
+我的许多习惯都承袭自逐影猎人的传统。他们对抗的是邪恶魔物，而我对抗的则是不法凶徒。但魔物本就生来邪毒，这是它们的本能，那些堕落的人本来有行善的能力与机会，但他们却自寻恶孽。
+你呢？你持剑的理由是什么？
+
+### 关于「神之眼」…
+
+在我获得「神之眼」后，在决斗中向我投降的人数明显增加了不少。有的代理人说，这枚「神之眼」是我进行决斗时的「震慑手段」。
+我还以为我从未败北的决斗战绩才是「震慑手段」，或许我以后的决斗应该赢得更有表现力一些。
+
+### 有什么想要分享…
+
+我曾多次见证某些矛盾琐事，被当事人基于纯粹的感性反复咀嚼，最终演变成一桩事关人身尊严，不可退让的惊天耻辱，闹上审判庭，甚至引发一场荒诞的决斗。
+作为决斗代理人，我对于用决斗来维护名誉这件事没有意见。但是…怎么说呢，从一个普通的枫丹市民角度来看，咖啡里到底该不该加茉洁草，实在不见得是一件非要用剑来论证的事情…
+
+### 感兴趣的见闻…
+
+见过蓬蓬果吧？它们飘飞的速度和位置不易捉摸，很适合作为枪靶练习射击。但是，去野外找蓬蓬果很不方便，要是有人愿意人工培育蓬蓬果就好了…
+
+### 关于夏洛蒂…
+
+夏洛蒂小姐是一位识趣的记者，我对她没什么坏印象。
+毕竟，夏洛蒂小姐既不会在上班的路上堵截拍摄我，也不会跟踪我去咖啡馆，记录我今天喝了什么咖啡。最值得称赞的是，她明确地知道，我不接受记者采访，所以不会来自讨没趣。
+
+### 关于芙宁娜…
+
+从前参加茶会的时候，我总是扶着剑站在她背后，现在我却能在长桌对面就座，与她分享茶点。
+位置变化之后，我开始理解为什么她会成天念叨着「控制体态」了。
+
+### 关于娜维娅…
+
+娜维娅最近心情很好，隔几天就会拉我去「桌上剧团」玩新剧本。
+选材五花八门。除了担任了几次剧本主持人，我也作为玩家和她共同参与了几场冒险。但我会尽量避免扮演和审判庭有关的角色，防止气氛变得太过严肃…
+
+### 关于那维莱特…
+
+最高审判官的权威无可置疑，他总是能做出最公正的判决。必要的时候，我也会用剑再次强调判决的公正性。
+
+### 关于夏沃蕾…
+
+夏沃蕾队长，我听说过她的大名。她曾经因为抓捕凶犯时的手段太过强硬，而遭到过几次起诉。她应诉时态度依然十分强硬，将对方驳得哑口无言，实在出色。
+
+### 关于林尼…
+
+这位大魔术师的职业素养值得称赞。如果有空的话，我会以观众的身份享受他的魔术表演。
+
+### 关于菲米尼…
+
+有天我收到了一个包裹，装着迷你机械玩具和表达谢意的卡片。那份玩具十分精致，下次有机会，我会对菲米尼先生当面表达一下感谢…最好不要当面？好吧，那我也写份卡片，请你帮我带给他。
+
+### 关于千织…
+
+我买过她家的衣服，质量不错。但平时，我更习惯穿现在这套工作制服，一方面它可以明确地阐述出我的身份，另一方面是因为我喜欢熟悉的事物。这套制服就像是我的剑，熟悉且适用，不必多做更换。
+
+### 关于莱欧斯利…
+
+梅洛彼得堡并不是一处好打理的地方。能让那个地方保持相对的稳定，莱欧斯利的手腕无可置疑。
+其中应该不乏一些不能明说的手段，这就不是我们能知道的了。
+
+### 关于希格雯…
+
+希格雯小姐是一位优秀的护士，既擅长治疗身体的伤痛，又懂得如何疗愈人的内心。即使是梅洛彼得堡里的那些心怀恶孽的凶徒，想必也会被她的美德和善心感动，内心涌起一丝善念。
+这一丝善念，或许就能成为他们踏上改邪归正之路的契机。
+
+### 关于艾梅莉埃…
+
+我听说过这名香水设计师小姐，对她真正的职业也有所耳闻。偶尔一次，我遇到她正在抚摸一只路边的小狗，脸上挂着温和的笑意。我们互相点头后就道别了。
+
+### 想要了解克洛琳德·其一
+
+决斗代理人的工作并不繁杂，甚至可以说十分简单。遵循审判庭的要求，击败对手就好。除此之外，无需多想。
+…也许这就是外面有些人把我称为「刽子手」的原因。
+
+### 想要了解克洛琳德·其二
+
+进行代理决斗时，我会尽可能保证与对手公平较量。如果对手有眼疾，我就会蒙住眼睛，如果对手腿脚不便，我则会限定自己的移动范围。无论如何，我所参与的必须是一场公平的决斗。
+
+### 想要了解克洛琳德·其三
+
+我见过太多人临阵投降。连拔出武器的勇气都没有，所谓的冤屈和名誉受损，想必也只是自私的一家之言罢了。
+他们早已被自己击败，无需我动手，就自愿变成了心灵的囚徒。
+
+### 想要了解克洛琳德·其四
+
+你见过审判庭上的罪人吗？在我所经历过的审判里，罪人们总会强词夺理，将自己伪装成好人。在他们口中，暴行变成义举，罪恶变为正义…但他们狡辩的终点却总是一句话——自己虽然一时糊涂，但这罪过人人都会犯，实在无可指责。
+他们掩盖自身污秽的方法，就是污染整片水源。
+而击碎这群罪人们的谎言，为正义之廷激浊扬清，正是我成为决斗代理人的理由。
+
+### 想要了解克洛琳德·其五
+
+我见过许多想要在审判庭上寻求温和人情的人。我并无不敬，但他们来错了地方。
+审判庭是昭示公理正义的场所，而正义总是…也必须冷漠，否则它就无从延续。
+如果正义掺杂了人情，那么它有时候就容易被误导偏折，让基于公理执行的「审判」变为由人情驱使的「私刑」。而审判庭中的「私刑」，与那些违律的凶恶暴行无异。
+
+### 克洛琳德的爱好…
+
+与代理决斗不同，「桌上剧团」主持人的身份，能够让我游离于故事之外，在不卷入人情冷暖的情况下观察人们的种种反应，为他们搭建出一个受我掌控的世界。嗯？你说听起来像看着笼子里的猎物？有道理…是我没有思考过的角度，不过我从来不会为难玩家，尽量都让他们开心地体验故事，这点和打猎还是很不一样的。
+
+### 克洛琳德的烦恼…
+
+希望那些记者不要再打扰我喝咖啡、买花和看书。否则我会考虑抓两个典型向审判庭起诉。如果他们申请代理决斗，我会让他们带着留影机上场的。公平起见，我也会只带留影机。
+
+### 喜欢的食物…
+
+用肉类做的菜肴都不错，但肉一定要新鲜。刚猎下的肉用盐简单调味后烤制，旁边搭配上微酸的水果，味道十分不错。下次有机会的话，随我去打猎，我做给你尝尝。
+
+### 讨厌的食物…
+
+鱼类不合我的胃口，一方面是刺太多，另一方面则是有一股腥味…或许我在儿时已经吃够了。
+
+### 收到赠礼·其一
+
+完美的味道，很合我口味。别让记者和美食家发现，他们只会用镜头和报纸享受美食。
+
+### 收到赠礼·其二
+
+嗯，不错的美食，很适合慢慢品尝。
+
+### 收到赠礼·其三
+
+…幸好这道菜并非出自餐馆，避免了一些厨师和食客之间的矛盾。
+
+### 生日…
+
+生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。
+按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为他亲手打造一柄刻有姓名的短剑项链，并让他把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。
+虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。
+为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行。 / 生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。
+按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为她亲手打造一柄刻有姓名的短剑项链，并让她把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。
+虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。
+为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行。
+
+### 突破的感受·起
+
+原来如此，的确有所长进。
+
+### 突破的感受·承
+
+剑挥舞时的手感更好了，完全能适应。
+
+### 突破的感受·转
+
+眼力有所提升？让我朝那片落叶试射一下。
+
+### 突破的感受·合
+
+在武力层面，我并不认为你会需要我的帮助。但倘若你希望借助我的力量，我会尽我所能，一如既往。
+
+### 元素战技·其一
+
+预备。
+
+### 元素战技·其二
+
+上膛。
+
+### 元素战技·其三
+
+猎影！
+
+### 元素爆发·其一
+
+射猎邪魔！
+
+### 元素爆发·其二
+
+你的自证时刻。
+
+### 元素爆发·其三
+
+洞见恶孽，逐灭鬼影！
+
+### 打开宝箱·其一
+
+路遇好运，不错。
+
+### 打开宝箱·其二
+
+没有归属的物品，不会引发纠纷。
+
+### 打开宝箱·其三
+
+先到者得，合理。
+
+### 生命值低·其一
+
+…速决胜负。
+
+### 生命值低·其二
+
+骄纵轻狂。
+
+### 生命值低·其三
+
+…可笑。
+
+### 同伴生命值低·其一
+
+退场！
+
+### 同伴生命值低·其二
+
+由我接手，后退。
+
+### 倒下·其一
+
+胜负…已分…
+
+### 倒下·其二
+
+败者…当如此…
+
+### 倒下·其三
+
+你已证明了名誉…
+
+### 普通受击·其一
+
+还算精准。
+
+### 重受击·其一
+
+够了！
+
+### 加入队伍·其一
+
+如你所邀。
+
+### 加入队伍·其二
+
+需要我为你代理决斗吗？
+
+### 加入队伍·其三
+
+剑锋，直指暗影。

@@ -518,6 +518,40 @@
     "search_text": "гидро призрак hydro specter 水飘浮灵 elementals common_enemy инадзума, сумеру 2.1 призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核"
   },
   {
+    "id": "icebound_reflection",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/icebound_reflection.webp",
+    "title": {
+      "ru": "Ледяное отражение",
+      "en": "Icebound Reflection",
+      "zh": "冰结镜映体"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "tags": [
+      "Ледяное отражение",
+      "Icebound Reflection",
+      "冰结镜映体"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 7002000,
+    "search_text": "ледяное отражение icebound reflection 冰结镜映体 elementals common_enemy снежная 7.2 осколок снежного сердца / снежное зеркальное сердце / снежное сердце неведения snowborn heartshard / snowborn mirrorheart / snowborn heart of ignorance 雪结片心 / 雪结镜心 / 雪结无明心"
+  },
+  {
     "id": "icy_crystal_frostnight_scion",
     "category": "enemies",
     "enemy_group": "elementals",

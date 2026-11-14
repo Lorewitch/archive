@@ -1,0 +1,125 @@
+# id: material_set_114093
+# category: items
+# title_ru: Возрождение снежного императора / Церемония снежного императора / Скорбь снежного императора / Прощание снежного императора
+# title_en: The Frost Emperor's Revival / The Frost Emperor's Ceremony / The Frost Emperor's Lament / The Frost Emperor's Farewell
+# title_zh: 凛雪帝皇的复生 / 凛雪帝皇的庆仪 / 凛雪帝皇的悲恤 / 凛雪帝皇的辞决
+# game_source_ids: 114093,114094,114095,114096
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# item_group: development_materials
+# entry_type: material_set
+# region: Снежная
+# icon: assets/icons/items/development_materials/item_114093.webp
+# tags: материалы
+# material_type: weapon_ascension
+# material_1_id: material_114093
+# material_1_ru: Возрождение снежного императора
+# material_1_en: The Frost Emperor's Revival
+# material_1_zh: 凛雪帝皇的复生
+# material_1_icon: assets/icons/items/development_materials/item_114093.webp
+# material_2_id: material_114094
+# material_2_ru: Церемония снежного императора
+# material_2_en: The Frost Emperor's Ceremony
+# material_2_zh: 凛雪帝皇的庆仪
+# material_2_icon: assets/icons/items/development_materials/item_114094.webp
+# material_3_id: material_114095
+# material_3_ru: Скорбь снежного императора
+# material_3_en: The Frost Emperor's Lament
+# material_3_zh: 凛雪帝皇的悲恤
+# material_3_icon: assets/icons/items/development_materials/item_114095.webp
+# material_4_id: material_114096
+# material_4_ru: Прощание снежного императора
+# material_4_en: The Frost Emperor's Farewell
+# material_4_zh: 凛雪帝皇的辞决
+# material_4_icon: assets/icons/items/development_materials/item_114096.webp
+# game_version: 7.0
+
+## RU
+
+### material: material_114093
+
+Материал возвышения оружия.
+Герой, вышедший со снежных равнин, ещё не стал правителем тех замёрзших земель, но уже тогда имел привычку слишком многое рассказывать окружающим.
+Поэтому он немало удивился, получив подарок от снежных альвов, которые в те времена ещё не приняли человеческий облик.
+Насколько ему было известно, он никогда не рассказывал им, что появился на свет из яйца, белого как лёд, глубоко среди гор, похожих на крылья, и никогда не упоминал дату своего рождения.
+
+### material: material_114094
+
+Материал возвышения оружия.
+Придворные альвы не понимали, почему подарок для царя должен иметь именно такую форму. Они лишь старались украсить его как можно большим количеством драгоценных украшений.
+Лишь царь на троне и снежные альвы понимали, что он означает.
+Ведь значение имела не сама церемония, а древняя истина, которую она хранила.
+
+### material: material_114095
+
+Материал возвышения оружия.
+Это был подарок, который она приготовила своему другу на троне в ту ночь, когда истина всколыхнулась, словно горькие воды. К тому времени она уже перестала быть той, кем была прежде.
+Они оба чувствовали, что это их последний разговор.
+Ведь после этого путь, которым они когда-то шли вместе, распался из-за слабости одного и гнева другого.
+
+### material: material_114096
+
+Материал возвышения оружия
+Предмет, появившийся на столе в канун войны, хотя никто не знал, когда и как он там оказался.
+Он сразу узнал работу друга, которого не видел уже долгие годы.
+Лишь тогда он понял, что именно с этого началось каждое бедствие, что это горький плод всех желаний и предвестник всякого разрушения.
+
+## EN
+
+### material: material_114093
+
+Weapon Ascension Material.
+The hero who emerged from the snowfields had yet to become the ruler of that frozen realm, but even then, he had already shown a habit of confiding far too much to those around him.
+So he was all the more surprised when he received a gift from the fae of snow, who at the time had not yet taken their human form.
+As far as he knew, he never told them that he was born from an egg as pale as ice deep within the wing-like mountains, nor did he ever mention the date of his birth.
+
+### material: material_114094
+
+Weapon Ascension Material.
+The fae of the court didn't understand why a gift meant for the Tsar must be made in such shape. They knew only to lavish their craft upon ornaments bright as jewels.
+Only the Tsar seated upon the throne and the fae of snow understood the meaning behind it.
+For what mattered was never the ceremony, but the ancient truth it preserved.
+
+### material: material_114095
+
+Weapon Ascension Material.
+On the night the truth stirred like bitter waves, she prepared this gift for her friend upon the throne—though she herself was no longer the person she used to be.
+They both seemed to understand that they might never speak to each other like this again.
+For after that night, the path they once walked together diverged—sundered by the weakness of one, and the fury of the other.
+
+### material: material_114096
+
+Weapon Ascension Material.
+An object that appeared upon the table on the eve of war, though none knew when or how it'd come to be there.
+He recognized it for the handiwork of the friend he hadn't seen for many long years.
+Only then did he realize, that this was the beginning of every calamity, the bitter fruit of every desire, and the omen of every destruction.
+
+## ZH
+
+### material: material_114093
+
+赋予武器突破之力的材料。
+自雪原中走出的，尚未成为整个雪原之主的英雄，在那时已展现出总向周围人倾诉太多的习性。
+所以在他获得当时尚未化作人型的冰雪的精灵的礼物时倍感惊讶。
+对于他来说，他从未记得自己向对方诉说过自如翼的山峰之中、似冰雪般的卵中诞生的事，也不曾向对方述说那一日的日期。
+
+### material: material_114094
+
+赋予武器突破之力的材料。
+宫廷里的妖精们并不明白为何被献与皇帝的礼物被制造成这样的形状，他们只会一味堆砌如宝珠般的饰品上的工艺。
+唯有王座上的皇帝与冰雪的精灵知晓这饰品背后的含义。
+重要的从来不是仪式，而是仪式中具有的往昔的真意。
+
+### material: material_114095
+
+赋予武器突破之力的材料。
+在真相如苦水泛起波澜的夜晚，已然不似从前的她为王座之上的友人筹备的礼物。
+两人之间都觉得那应该是他们最后一次如此交谈。
+因为在那以后，他们从前同行的道路就因其中一人的软弱与另一人的愤怒分崩离析。
+
+### material: material_114096
+
+赋予武器突破之力的材料。
+在战争的前夕，不知何时也不知如何出现在桌上之物。
+他知道那是他久未得见的友人亲手所制。
+天地原如，他在此时才恍然，这就是一切厄难的开端，一切欲望的苦果，一切毁灭的先兆。
+

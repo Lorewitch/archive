@@ -631,3 +631,891 @@ Perhaps one day she will devote her efforts to creating an entire school of cuis
 就连厨具的问题都迎刃而解——以元素力坚冰制成的餐刀和汤勺极为耐用，更换也尤为便捷，为爱可菲省去了携带器具的重量，还有亲自清洗餐具的麻烦。
 只不过，身为全枫丹…甚至全提瓦特最擅长使用冰霜的主厨，爱可菲制作冰激凌的频率并不高…
 或许将来某天，她会将其作为一个专门的料理科目，认真攻关，开发出随时都能制作的冰雪甜点？
+
+# voice_source_ids: 112000,112001,112002,112003,112004,112005,112006,112007,112008,112009,112010,112011,112012,112013,112014,112015,112016,112017,112018,112019,112020,112021,112022,112023,112024,112025,112026,112027,112028,112029,112030,112031,112032,112033,112034,112035,112036,112037,112038,112039,112040,112041,112042,112043,112044,112045,112046,112047,112048,112049,112050,112051,112052,112053,112054,112055,112056,112057,112058,112059,112060,112061,112062,112063,112064,112065,112066,112067,112068,112069,112070,112071,112072
+
+## REPLICAS_RU
+
+### Привет...
+
+Приветствую. Я Эскофье, главный кондитер и мастер технологичной кулинарии. Как уважаемый гость божества, ты заслуживаешь самой лучшей кухни, которую может предложить Тейват. Надеюсь, моя работа придётся тебе по душе.
+Если интересуешься кулинарным искусством, то я познакомлю тебя с удивительным миром высокой кухни. Но, надеюсь, ты морально готов к этому. Терпеть не могу тех, кто останавливается на полпути. / Приветствую. Я Эскофье, главный кондитер и мастер технологичной кулинарии. Как уважаемая гостья божества, ты заслуживаешь самой лучшей кухни, которую может предложить Тейват. Надеюсь, моя работа придётся тебе по душе.
+Если интересуешься кулинарным искусством, то я познакомлю тебя с удивительным миром высокой кухни. Но, надеюсь, ты морально готова к этому. Терпеть не могу тех, кто останавливается на полпути.
+
+### Поболтаем: Фоновая музыка
+
+Знаешь какие-нибудь новые симфонические записи? Люблю иногда менять фоновую музыку на кухне. Это отличный способ найти новое вдохновение.
+
+### Поболтаем: Владение ножом
+
+В приготовлении блюд очень важно, чтобы ингредиенты впитывали в себя нужные ароматы. Для этого повар должен уметь обращаться с ножом с той же точностью, что и хирург - скальпелем. Практика никогда не помешает.
+
+### Поболтаем: Острота чувств
+
+Даже из самых обычных ингредиентов можно получить удивительный вкус. Но чтобы раскрыть этот потенциал, необходимо тонкое обоняние и открытый ум.
+
+### Когда идёт дождь...
+
+Влажный воздух, наполненный насыщенным ароматом листвы и земли... Подходящий день для рыбного супа с дожделотосом.
+
+### После дождя...
+
+Ощущение солнечного тепла, изгоняющего влагу из воздуха... Уверена, что могу передать его в блюде, нужно только подобрать правильное сочетание вкусов.
+
+### Когда идёт снег...
+
+Хех... Думаю, можно положить ингредиенты в снег вместо морозилки!
+
+### Когда светит солнце...
+
+Яркий свет солнца... Словно блюдо с резкими нотами цитруса, пеной из ягодных листьев и щепоткой сахара. Хм, неплохая идея.
+
+### Доброе утро...
+
+Ещё не проснулся, да? Вот тебе свежий круассан с морской солью, квенеповое пальмье и чашка пузыринового чая. Такой завтрак тебя точно разбудит! / Ещё не проснулась, да? Вот тебе свежий круассан с морской солью, квенеповое пальмье и чашка пузыринового чая. Такой завтрак тебя точно разбудит!
+
+### Добрый день...
+
+Было время, когда обеду не придавали особой важности. Но современное общество уделяет гораздо больше внимания заботе о себе. И теперь мы понимаем, что питание без обеда, как симфония без струнных, - совершенно неприемлемо. Так что не будем терять ни секунды. Пора собрать свежие ингредиенты и приготовить что-нибудь питательное.
+
+### Добрый вечер...
+
+Ужину следует уделять столько же внимания, сколько и грандиозному банкету. Даже если речь идет только о паре блюд, все приготовления должны быть закончены к трём часам дня. Что? Не успеем? А, ну сейчас уже далеко за три, ты прав. Не волнуйся - тебе и не надо сегодня готовить. Я давно уже подготовила все ингредиенты. Просто отдыхай и настраивайся пировать! / Ужину следует уделять столько же внимания, сколько и грандиозному банкету. Даже если речь идет только о паре блюд, все приготовления должны быть закончены к трём часам дня. Что? Не успеем? А, ну сейчас уже далеко за три, ты права. Не волнуйся - тебе и не надо сегодня готовить. Я давно уже подготовила все ингредиенты. Просто отдыхай и настраивайся пировать!
+
+### Спокойной ночи...
+
+Немного десерта улучшает сон. Я приготовила вишнёвый пудинг с запечёнными яблоками. Не волнуйся, в нём мало сахара. Но если хочешь совет... Не стоит много думать о цифрах на весах. И вообще, если тебе когда-нибудь понадобится сбалансировать диету, я могу приготовить питательную еду, не жертвуя её вкусом!
+
+### Об Эскофье: Ломая стереотипы
+
+Я ношу титул «главного кондитера», но это не значит, что я умею готовить только десерты. Я уважаю тех, кто посвящает себя какой-то одной специальности, но идея замыкаться на чём-то мне не нравится. Я готова попробовать любой ингредиент из любой точки мира. Всё, чего я хочу, - это расширять границы кулинарных инноваций.
+
+### Об Эскофье: Во всеоружии
+
+Центральная философия моей кулинарной школы - «открывать и использовать все грани вкуса». На практике это означает, что мне нужен целый арсенал кухонной утвари. Всякий раз, когда я покидаю свою домашнюю кухню на длительное время, большая часть моего багажа заполняется тщательно упакованными кухонными принадлежностями. Навия любит шутить, что у меня больше снаряжения, чем у Особого патруля. Но с тех пор как я заказала у Исследовательского института Фонтейна Универсальный мультифункциональный кулинарный мек, готовить в дороге стало намного проще.
+
+### О нас: Принципы инновации
+
+Пока одни ингредиенты портятся, другие только начинают прорастать... Это практически метафора кулинарии в целом - она постоянно развивается. Классические рецепты ценны, но это не значит, что мы должны ограничиваться одной эпохой. Конечно, инновации должны быть продуманными, иначе в итоге получатся такие мерзости, как макароны с бланманже из фиалковой дыни или бергамотовый чай с заоблачным перчиком... По крайней мере, надо знать, где провести черту!
+
+### О нас: Право на критику
+
+Повар должен стремиться доставить клиенту самые лучшие впечатления, но когда дело доходит до критики, клиент не всегда прав. Просто у некоторых людей с рождения менее утонченное чувство вкуса. А кого-то не волнуют тонкости блюда, не говоря уже о сложном сочетании подачи, запаха и вкуса. С другой стороны, ты - особый случай. Ты внимателен и проницателен, много путешествуешь и ужинал с самими Архонтами. Поэтому только ты имеешь право критиковать все аспекты моей работы. Если тебе покажется, что в каком-то из моих блюд что-то не так, просто дай мне знать - я не обижусь. / Повар должен стремиться доставить клиенту самые лучшие впечатления, но когда дело доходит до критики, клиент не всегда прав. Просто у некоторых людей с рождения менее утонченное чувство вкуса. А кого-то не волнуют тонкости блюда, не говоря уже о сложном сочетании подачи, запаха и вкуса. С другой стороны, ты - особый случай. Ты внимательна и проницательна, много путешествуешь и ужинала с самими Архонтами. Поэтому только ты имеешь право критиковать все аспекты моей работы. Если тебе покажется, что в каком-то из моих блюд что-то не так, просто дай мне знать - я не обижусь.
+
+### Глаз Бога...
+
+Я не особо понимаю, как работает Глаз Бога, но это не мешает мне использовать его на кухне. Как я всегда говорю, кулинария - это наука. Так много вкусов ждут своего часа. Я знаю, что некоторые монстры выглядят отвратительно, но если их мелко порубить и растереть в порошок, их вкус может оказаться невероятным! Без Глаза Бога получить в свои руки такие нетрадиционные ингредиенты было бы... мягко говоря, небезопасно. А самое главное - я, по сути, ходячий холодильник!
+
+### Давай поделимся...
+
+Устройство на моей спине называется Вспомогательный мек самоадаптивного отслеживания сигнала движения. Он похож на Универсальный мультифункциональный кулинарный мек. Им легко управлять, он эффективен на кухне и даже может считывать привычные движения и реагировать на них. Многие считают, что он похож на хвост, и даже называют меня «демоническим поваром». Хотела бы я обладать демонической силой, если бы она мне позволила изгонять некоторые кулинарные мерзости в небытие... Оно бы того стоило...
+
+### Интересные вещи...
+
+Если однажды я создам десерт лучше, чем торт «Дебор», который понравится госпоже Фурине... Думаю, следующим шагом я хотела бы посетить все страны Тейвата и приготовить что-нибудь для всех Архонтов. Так я выйду на следующий уровень. Возможно, мне даже удастся попробовать фирменное блюдо каждого Архонта. Ох, это открыло бы мне глаза на совершенно новый мир гастрономии...
+
+### О Фурине: Первая встреча
+
+В самом начале своей карьеры я работала в небольшом ресторане в пассаже Вазари. Однажды, совершенно неожиданно, госпожа Фурина решила поужинать в нашем ресторане после представления. Когда я сбивалась с ног на кухне, мне передали, что один из клиентов хочет познакомиться с шеф-поваром. Я бросилась к столику с ножом в руке и застыла на месте... Передо мной сидела сама госпожа Фурина. Я поняла, что должна приготовить что-то особенное. Словно по наитию я придумала «театральный торт в лилейной глазури». Он очень понравился госпоже Фурине, и она сказала, что запомнит меня. В ту ночь я почти не сомкнула глаз, а уже на следующий день меня пригласили на работу в Дворец Мермония...
+
+### О Фурине: Текущая ситуация
+
+После этого госпожа Фурина присвоила мне титул главного кондитера и сказала, что в своём деле я стою целой армии. Чтобы оправдать это звание, я уединилась и стала оттачивать своё мастерство. И, похоже, за это время я пропустила много важных событий. Госпожа Фурина больше не живёт во Дворце Мермония... Я не очень понимаю, что произошло, но знаю одно - госпожа Фурина всегда будет главной благодетельницей моей жизни. Стоит ей только сказать слово, и я тут же пойду работать её личным поваром, не задумываясь о зарплате!
+
+### О Навии...
+
+На мой пятый день рождения родители привели меня в «Дебор Отель». У входа я подобрала кем-то оброненную шляпу. Она была такой красивой и от неё доносился ни на что не похожий, пылкий аромат роз. По нему мне удалось найти и владелицу, и что ж... За годы этот аромат ничуть не поменялся. Я приглашаю её на послеобеденный чай при любом удобном случае. Каждая секунда, проведённая вместе, - это чистый восторг... Разве что она всё ещё придерживается мнения «чем слаще десерт, тем лучше»... Ну что ж, спорить с ней я не собираюсь. И вообще, вкус - дело личное, наверное...
+
+### О Шарлотте...
+
+Будучи профессиональным репортёром с безупречными писательскими навыками, Шарлотта имеет большой авторитет в кулинарном мире. Она может описать вкус до мельчайших подробностей, а её навыки фотографии не имеют себе равных. Она может подготовить рецензию на блюдо в мгновение ока. Если у меня есть что-то новое, что я хочу прорекламировать, пригласить Шарлотту попробовать - всегда хорошая идея.
+
+### О Сиджвин...
+
+Старшая медсестра, да... Ну... Она, конечно, очень хорошая, но... Её чувство вкуса, одним словом, уникально... Я, полностью понимаю это и уважаю. Я изо всех сил старалась понять вкус с её точки зрения. Но единственное, что я поняла: она могла бы быть убийцей из фильма. Серьёзно, попробуй как-нибудь её молочные коктейли - убийственный вкус...
+
+### О Ризли...
+
+Герцог вежлив и непоколебим - настоящий джентльмен старой закалки. Но есть пищу из купонной столовой... Это действительно жестокое и необычное наказание.
+
+### О Линетт...
+
+Может быть, ты не знаешь, но Линетт - член нашего «Клуба чая и десертов». Они с братом часто выступали в «Дебор Отеле», так что мы много общались. Поначалу она казалась мне отстранённой и холодной, но потом я набралась смелости и пригласила её на чаепитие. Оказалось, что её эмоции богаты и разнообразны, как тарелка с радужными макаронами... Когда ей нравится тот или иной десерт, её ушки ходят взад-вперед. А если он ей не нравится, хвост опускается вниз... Стой! Только не говори, что мой хвост тоже так делает...
+
+### О Слуге...
+
+Я видела её только издалека и всего один раз, но никогда этого не забуду. Некоторое время после я готовила так, будто она может попробовать каждое моё блюдо. Представь себе, что будет, если разочаровать такого человека... Вот это была мотивация. Это был хороший способ устрашения и для моих учеников. Достаточно было сказать: «Думаешь, сможешь подать это госпоже Арлекино и остаться в живых?» Но вот что странно... Навия, похоже, считает, что она не так страшна, как кажется... Даже не знаю.
+
+### Об Эмилии...
+
+А ты знаешь, что составление ароматов на основе продуктов питания - популярное направление в парфюмерии? Эмилия помогла мне узнать много нового об извлечении ароматов и запахов. Теперь я иначе оцениваю динамику между запахом и вкусом. Надеюсь, когда-нибудь я смогу использовать это в своих интересах и с помощью аромата открыть совершенно новые вкусовые ощущения. Что касается Эмилии, то мне очень приятно, когда кто-то ценит научный подход...
+
+### О Варесе...
+
+А, Вареса. Фрукты из её сада просто потрясающие. Даже один кусочек сразу переносит тебя в ленивый летний день. Она могла бы брать с меня на двадцать процентов больше, и всё равно оно того бы стоило! Поэтому я всегда угощаю её после каждой покупки. Её аппетит просто поражает. Может показаться, что она просто проглатывает всё сразу, но если поговорить с ней о еде, то становится ясно, как ценит она каждый нюанс. Другими словами, у неё есть и аппетит, и вкус - люблю подавать еду таким людям!
+
+### О Сян Лин...
+
+В пословице из Ли Юэ говорится: «За горой есть другие горы». А у нас с Сян Лин это больше похоже на... «Пройди через пещеру - попадёшь в другой мир». Она использует техники, о которых я никогда не слышала, и выбирает ингредиенты, о которых я даже не подозревала. Её блюда переопределяют границы возможного. Их нельзя даже проанализировать в рамках классической фонтейнской кухни. Встреча с ней убедила меня в том, что сидеть дома на кухне - это путь в никуда. Нужно выбираться из своей раковины и исследовать, что могут предложить другие страны!
+
+### Узнать больше об Эскофье I
+
+Для меня еда не просто источник энергии, а краеугольный камень самого важного ритуала в нашей жизни. Хорошее блюдо может дать нам надежду, радость и силу. Процесс приготовления пищи, словно снежный гусь из той книги - в нём есть некая грация и элегантность. Это искусство, на освоение которого можно потратить всю жизнь.
+
+### Узнать больше об Эскофье II
+
+Для многих людей препятствием на пути к хорошей кухне является не отсутствие вкуса, а нехватка времени и денег. Я считаю, что обязанность шеф-повара заключается в том, чтобы при разработке рецептов отдавать предпочтение экономически рациональным ингредиентам. Высокая кухня не должна оставаться привилегией избранных - ею должны наслаждаться все. Конечно, это гораздо легче сказать, чем сделать. Когда я только начинала, то будто упёрлась в стену - именно это вдохновило меня заняться технологичной кулинарией.
+
+### Узнать больше об Эскофье III
+
+Принципы технологичной кулинарии - анализ, извлечение и сочетание. Сначала проводится количественный анализ, чтобы определить элементы, необходимые для достижения определённого вкусового профиля. Затем эти элементы извлекаются из наиболее экономичных ингредиентов. Цель - превратить дорогие блюда в доступные. Это означает использование на кухне всевозможных нетрадиционных инструментов, но для меня это обычное дело.
+
+### Узнать больше об Эскофье IV
+
+Теоретически, технологичная кулинария может не только снизить стоимость блюда. Она также заставляет повара проявлять творческий подход и внедрять инновации. Конечно, я делаю это не из желания стать «лучшим поваром в мире» или заслужить какой-нибудь другой титул - я не настолько наивна. Моя цель остаётся неизменной - сделать высокую кухню доступной для всех, открывая по пути новые высоты вкусов.
+
+### Узнать больше об Эскофье V
+
+Моя идеальная жизнь - это приятная музыка, запас времени для экспериментов с интересными вкусовыми сочетаниями и единомышленник рядом, готовый быть моим верным дегустатором. По крайней мере, именно ради этого я и коплю деньги. Что же касается будущего су-шефа, закупщика лучших ингредиентов и главного ценителя моих кулинарных творений... у меня уже есть кандидат... Эй, не отводи взгляд!
+
+### Хобби Эскофье...
+
+Ты производишь впечатление человека, который ценит хорошую ковку. Посмотри на эти ножи, они все выполнены в разных техниках и украшены замысловатыми узорами на лезвиях. Некоторые закручиваются, как рулеты, другие переливаются, словно густой джем, а третьи сияют, как драгоценные камни. Не говоря уже о том, что каждый из них ощущается в руке по-разному. Одни скользят по ингредиентам, как по маслу, другие шинкуют, резкими тычками, а некоторые даже вибрируют, словно струны скрипки... Каждый из них обладает уникальным шармом!
+
+### Беспокойство Эскофье
+
+Однажды консультант по имиджу бренда посоветовал мне создать так называемый «профессиональный образ с высокой инвестиционной ценностью», который привлёк бы больше финансирования и помог бы мне достичь больших кулинарных высот. Но у меня ужасно получается играть, поэтому я сказала им просто записать, как я работаю и общаюсь со своими учениками в реальной жизни... Не уверена, что фильм произвёл желаемое впечатление. Люди, кажется, совсем не на то внимание обращают...
+
+### Любимая еда...
+
+Я перепробовала почти все традиционные блюда, которые может предложить Тейват. Так что теперь моё внимание сосредоточено на необычных и неожиданных блюдах. Мои любимые рецепты - это те, которые переворачивают старую классику с ног на голову. Вообще, если хочешь услышать моё экспертное мнение, в этом деле у тебя есть безграничный потенциал. С нетерпением жду твоих будущих творений.
+
+### Нелюбимая еда...
+
+«Что-то напоминает», «более-менее», «на вкус ничего»... Подобные комментарии - мой злейший враг. Вкус - это всё, и если блюдо не доставляет удовольствия, оно отправляется прямиком в мусорное ведро.
+
+### Подарок I
+
+Хм... Хм? Хм! Это невероятно! У тебя дар! Я должна как можно скорее научить тебя всему, что знаю! Твой кулинарный потенциал просто зашкаливает!
+
+### Подарок II
+
+Хм... Довольно стандартно. Не плохо, но ничего выдающегося. Я знаю, что с твоими талантами ты можешь добиться намного большего. Продолжишь работать над этим блюдом? С нетерпением жду новой, улучшенной версии.
+
+### Подарок III
+
+...Мы друзья, так что скажу как есть. Если бы кто-то из моих учеников подал мне такое блюдо, я бы ему на голову его опрокинула! Но для тебя я его доем, а потом... дам тщательную оценку. Надеюсь, ты примешь мои замечания всерьёз и будешь учиться на своих ошибках. Из уважения к своим гостям и собственному вкусу, в следующий раз постарайся получше.
+
+### День рождения...
+
+Уважаемый путешественник, ты - «высшая переменная» Тейвата, которая привнесла в этот мир неповторимый вкус. Празднование твоего дня рождения требует пира из восьмидесяти блюд как минимум. Для начала: четыре мясных, четыре из дичи, четыре кондитерских и два супа... Но объедаться нельзя - это вредит и здоровью, и самим блюдам... Так что придётся праздновать твой день рождения целую неделю! Десяти блюд в день будет достаточно. Я хочу, чтобы ты в полной мере оценил каждое из них. Тебя ожидает кулинарная симфония! / Уважаемая путешественница, ты - «высшая переменная» Тейвата, которая привнесла в этот мир неповторимый вкус. Празднование твоего дня рождения требует пира из восьмидесяти блюд как минимум. Для начала: четыре мясных, четыре из дичи, четыре кондитерских и два супа... Но объедаться нельзя - это вредит и здоровью, и самим блюдам... Так что придётся праздновать твой день рождения целую неделю! Десяти блюд в день будет достаточно. Я хочу, чтобы ты в полной мере оценила каждое из них. Тебя ожидает кулинарная симфония!
+
+### Чувство возвышения: Начало
+
+Мои чувства стали острее. Аромат, цвет и текстура пищи ощущаются намного более выпукло... Отлично! Это поможет мне готовить с ещё большей точностью.
+
+### Чувство возвышения: Нарастание
+
+Мастерство заключается не столько в увеличении силы, сколько в умении контролировать и учитывать множество переменных... Я чувствую, что с каждым днём совершенствуюсь в этом.
+
+### Чувство возвышения: Кульминация
+
+Я вижу... Золотой момент времени, когда форма и вкус соединяются в точке максимального напряжения. Наиболее эффективные пути передачи вкуса, мелодия тонкой акустики каждого кусочка, и то, как их переплетение сливается в симфонию вкуса...
+
+### Чувство возвышения: Окончание
+
+Спасибо тебе большое. Благодаря твоему вдохновению и поддержке у меня теперь есть всё, чтобы извлечь самые лучшие вкусы, которые только может предложить природа, и заново определить границы кулинарного совершенства! А потом я найду новую вершину, к которой буду стремиться!
+
+### Элементальный навык I
+
+В морозилку.
+
+### Элементальный навык II
+
+На закуску!
+
+### Элементальный навык III
+
+Шоковая заморозка!
+
+### Элементальный навык IV
+
+Импровизированное приготовление.
+
+### Элементальный навык V
+
+Вдохновляющий меланж.
+
+### Элементальный навык VI
+
+Приятного аппетита!
+
+### Взрыв стихии I
+
+Гусь расправил крылья!
+
+### Взрыв стихии II
+
+Вершина совершенства!
+
+### Взрыв стихии III
+
+Взрыв вкуса!
+
+### Открытие сундука I
+
+Хе-хе, а эта начинка ничего.
+
+### Открытие сундука II
+
+А эти продукты не просрочены?
+
+### Открытие сундука III
+
+А в этом сундуке всё неплохо хранится.
+
+### Низкий уровень HP I
+
+Всего лишь оплошность...
+
+### Низкий уровень HP II
+
+Ничего... Отрегулируем температуру.
+
+### Низкий уровень HP III
+
+Осторожнее с ножом...
+
+### Низкий уровень HP компаньона I
+
+Начнём сначала...
+
+### Низкий уровень HP компаньона II
+
+Держись!
+
+### Без сознания I
+
+Ненавижу этот вкус...
+
+### Без сознания II
+
+Вышло из-под контроля...
+
+### Без сознания III
+
+Это я ошиблась?
+
+### Получен лёгкий удар I
+
+Тухлятина...
+
+### Получен тяжёлый удар I
+
+Какая дерзость!
+
+### Получен тяжёлый удар II
+
+Не бояться!
+
+### Присоединяется к группе I
+
+Готова придать вкус приключениям!
+
+### Присоединяется к группе II
+
+Приборы готовы!
+
+### Присоединяется к группе III
+
+Прогуляемся, пока блюдо настаивается.
+
+## REPLICAS_EN
+
+### Hello
+
+Well met. I am Escoffier, Patissiere Supreme and master of precision gastronomy. As an esteemed guest of the divine, you deserve the finest cuisine Teyvat has to offer. I hope my work is to your satisfaction.
+If you have an interest in the culinary arts, allow me to introduce you to the wonderful world of haute cuisine. I just hope you're mentally prepared for the undertaking. I don't tolerate a quitter.
+
+### Chat: Background Music
+
+Know of any new orchestral pieces? I like to swap out the background music in the kitchen once in a while. It's a great way to find new inspiration.
+
+### Chat: Knife Skills
+
+An important part of cooking is making sure the ingredients absorb the flavors in the dish. To that end, a chef must be able to wield a knife with the same level of precision as a surgeon. Practice makes perfect.
+
+### Chat: Perceptive Senses
+
+Even the most unassuming ingredients can produce astounding flavor. But, unlocking that potential takes a keen sense of smell, a refined palate, and an open mind.
+
+### When It Rains
+
+Humid air filled with the rich scent of leaves and earth... A day like this calls for Pluie Lotus Fish Soup.
+
+### After the Rain
+
+The feeling of the warm sun as it burns off the moisture in the air... I'm sure I can capture it in a dish, I just need to strike the right flavor combination.
+
+### When It Snows
+
+Hmm... I bet I could put ingredients in the snow instead of a freezer!
+
+### When the Sun Is Out
+
+The sunlight is so bright... like a dish with sharp notes of citrus, a foam made from berry leaves, and a hint of sugar. Hm, not a bad idea.
+
+### Good Morning
+
+Still half asleep, huh... Here, have a freshly-baked Sea Salt Croissant and Quenepa Berry Palmier with a cup of Bulle Fruit Tea. Breakfast of champions!
+
+### Good Afternoon
+
+There was a time when the importance of lunch was overlooked. But, modern society places a much greater emphasis on self-care. So, now, we realize that nutrition without lunch is like a symphony without strings — utterly lackluster. So, let's not waste another second. Time to gather some fresh ingredients and whip up something nutritious.
+
+### Good Evening
+
+The final meal of the day should be given the same level of care as a grand banquet. Even for just two or three dishes, all the prep should be finished by three in the afternoon. Huh? Then, you don't have time to make something? Oh, well, it is well past three, you're right. But, don't worry — I wasn't expecting you to cook at all. I prepped the ingredients hours ago. Just sit tight and get ready to feast!
+
+### Good Night
+
+Eating a small amount of dessert before bed can help you sleep. Here, have some of this cherry blossom and grilled apple-flavored light sugar pudding. It's low in sugar, but if you want my advice... Don't get too caught up in the number on the scale. And, anyway, if you ever need to balance your diet, I can make you something nutritious that doesn't taste like dirt!
+
+### About Escoffier: Breaking Out of Archetypes
+
+I carry the title of "Patissiere Supreme," but that doesn't mean desserts are the only thing I can make. I respect those who dedicate themselves to one specialty, but I don't like the idea of boxing myself in. I'll try any ingredient from anywhere in the world. All I want is to push the limits of culinary innovation.
+
+### About Escoffier: Fully Armed
+
+"Extracting and employing all facets of flavor"... That is the core philosophy of my school of cooking. In practice, this means I need a whole arsenal of cooking utensils. Whenever I leave my home kitchen for an extended period of time, most of my luggage is filled with carefully-wrapped cooking equipment. Navia likes to joke that I'm more armed than the Special Patrol. But, ever since I commissioned the Fontaine Research Institute to create the All-Spectrum Multi-Use Cooking Mek, cooking on the go is a lot easier.
+
+### About Us: Principles of Innovation
+
+As some ingredients start to spoil, others are just beginning to sprout... That's pretty much a metaphor for cooking as a whole — it's always evolving. Classic recipes are valuable, but that doesn't mean we should be confined to that era. Of course, innovation needs to be thoughtful, otherwise you might end up with abominations like "Lavender Melon Cream Macaroni" or "Jueyun Chili-Infused Earl Grey Tea"... At the very least, you need to know where to draw the line!
+
+### About Us: Right to Critique
+
+A chef should strive to give their customer the best experience, but when it comes to critique, the customer isn't always right. Some people are born with a less refined sense of taste. Others don't care about the subtleties of a dish, much less the intricate combination of presentation, smell, and taste. You, on the other hand, are a special case. You're detailed, perceptive, well-traveled, and someone who has dined with the Archons themselves. As such, only you have the right to critique all aspects of my work. If you think there's something off with one of my dishes, just let me know — I won't take offense.
+
+### About the Vision
+
+I don't know much about how Visions work, but that hasn't stopped me from using mine in the kitchen. It's like I always say, cooking is a science. There are so many flavors waiting to be discovered. I know some monsters look disgusting, but finely chopped and ground into a powder, their flavor can be incredible! Without my Vision, getting my hands on unconventional ingredients like that would be... precarious to say the least. Oh, and best of all, I'm basically a walking freezer!
+
+### Something to Share
+
+The device on my back is called the "Self-Adapting Movement Signal Tracking Support Mek." It's a similar piece of tech to the All-Spectrum Multi-Use Cooking Mek. It's easy to control, efficient in the kitchen, and can even read and respond to common movements. Many people think it looks like a tail and even call me a "demon chef." If I'm honest, I wish I had the power to cast certain cooking abominations into oblivion... So, hey, if the shoe fits...
+
+### Interesting Things
+
+If I could create a dessert better than Gateau Debord and make it to Lady Furina's satisfaction... I think my next step would be to visit every nation in Teyvat and cook for the Archons. That's how I get to the next level. I might even be able to get a taste of each Archon's signature dish. Boy, would that open my eyes to a whole new world of gastronomy...
+
+### About Furina: First Meeting
+
+Early in my career, I worked at a small restaurant in the Vasari Passage. One day, entirely out of the blue, Lady Furina decided to dine at our restaurant after a performance. As I was scrambling around the back, a customer asked to meet the head chef. So, I rushed out to their table, knife still in hand, and completely froze... Because there I was, standing face-to-face with Lady Furina of all people. I knew I had to make something special, and it was like my instincts took over — I came up with a "Lily sugar-glazed opera cake," and Lady Furina actually liked it and said she would remember me. I barely slept a wink that night, and the very next day, there was a position waiting for me at the Palais Mermonia...
+
+### About Furina: Current Situation
+
+After that, Lady Furina gave me the title of "Patissiere Supreme," and said, when it comes to confections, I was worth a whole army of patissiers. That gave me a lot to live up to, so I shut myself away to hone my craft. And, well, it seems like I missed a lot of important events in the meantime. Lady Furina doesn't even live in the Palais Mermonia anymore... I don't really understand what happened, but I do know this — Lady Furina will always be the most important benefactor of my life. She only has to say the word, and I would go work as her personal chef in an instant — no compensation necessary!
+
+### About Navia
+
+My parents took me to the Hotel Debord for the first time on my fifth birthday. I remember — I found this hat on the ground. It was beautiful and carried the intense, warm aroma of roses. Following that scent, I was able to find the owner, and well... That scent is Navia to a tee — so warm and sweet, and after all these years, not a thing has changed. I invite her over for afternoon tea whenever I have the chance. Every second we spend together is pure delight... Except for the fact that she's still a "the sweeter the dessert, the better" kind of person... But, oh well. You have to pick your battles. And, anyway, taste is personal, I guess...
+
+### About Charlotte
+
+As a professional reporter with impeccable writing skills, Charlotte has a lot of clout in the culinary world. Her flavor descriptions are so detailed and her photography skills are unmatched. She can whip up a food editorial in the blink of an eye. If I have a new dish that I want to advertise, inviting Charlotte to try it out is never a bad idea.
+
+### About Sigewinne
+
+The Head Nurse, huh... Well, um... She's a lovely person, of course. It's just... her sense of taste is, in a word, unique.... Which I completely understand and respect. I've tried my best to explore flavor through her perspective. But, my biggest takeaway was that she could star in an assassin film. Seriously, try her milkshakes sometime — absolutely deadly...
+
+### About Wriothesley
+
+His Grace is polite and steadfast — a true old-school gentleman at heart. Still, eating the food at the Coupon Cafeteria... Now that was a cruel and unusual punishment indeed.
+
+### About Lynette
+
+You might not know this, but Lynette is actually a member of our Dessert Tea Party. She and her brother were frequent performers at Hotel Debord, so we saw each other quite a bit. In the beginning, she seemed distant and cold, but once I worked up the courage to invite her to the tea party, I realized that her emotions are as rich and varied as a plate of Rainbow Macarons... When she likes a particular dessert, her ears flutter back and forth. And, if she doesn't like it, her tail droops down, hehe... Wait! Don't tell me my tail does that too...
+
+### About The Knave
+
+I've only ever seen her from a distance, and one time at that, but I will never forget it. For a while, I cooked as if she was going to taste every dish. I mean, imagine the consequences of disappointing someone like that... Talk about motivation. It was a great scare tactic for my apprentices as well. All it took was a, "you think you can serve this to Ms. Arlecchino and live to tell the tale?" It's weird, though... Navia seems to think she's not as terrifying as she looks... But I don't know.
+
+### About Emilie
+
+Did you know that food-inspired scent formulation is a popular field in perfumery? Miss Emilie has helped me learn a lot about extracting fragrances and aromas. I feel like I have a whole new appreciation for the dynamic between smell and taste. I hope I can use it to my advantage one day and use fragrance to unlock a whole new sensory experience. As for Miss Emilie, it's just really nice to have someone who appreciates a scientific approach...
+
+### About Varesa
+
+Oh, Varesa? The fruit from her orchard is amazing. Biting into one is like being transported to a lazy summer's day. She could charge me an extra twenty percent, and it would still be worth it! So, I always treat her to a meal after every purchase. Her appetite is astonishing. It may look like she scarfs it all down in one bite, but if you actually talk to her about the food, it's obvious she appreciates the subtle details. In other words, she has the appetite and palate to back it up — I love serving food to people like that!
+
+### About Xiangling
+
+There is a saying in Liyue: "Beyond every mountain lies a higher mountain." But, when it comes to Xiangling and me, it feels more like... I was holed up in a cave and she dragged me into a new world. She uses techniques I've never heard of and chooses ingredients I could never anticipate. Her dishes seem to redefine what I thought was possible — you can't even analyze them within the framework of classical Fontainian cooking. Meeting her has convinced me that staying cooped up in my kitchen isn't the answer — I need to go out and explore what other nations have to offer!
+
+### More About Escoffier: I
+
+For me, food is far more than a source of nutrition or sustenance — it's the star of the most important ritual in our lives. A great dish can give us hope, joy, and strength. The act of cooking is like the figure of the Snow-Winged Goose — there's a certain grace and elegance to it. It's an artform that takes a lifetime to master.
+
+### More About Escoffier: II
+
+For many people, the barrier to appreciating good cuisine is not a lack of aptitude, but a lack of time and Mora. For me, part of a chef's duty is prioritizing cost-effective ingredients in recipe development. Haute cuisine doesn't have to be inaccessible — it should be enjoyed by all. Of course, that's far easier said than done, and when I first started out, I completely hit a wall — but that's what inspired me to pursue precision gastronomy.
+
+### More About Escoffier: III
+
+The tenets of precision gastronomy are analysis, extraction, and replication. First, you perform a quantitative analysis to determine the elements needed to achieve a certain flavor profile. Then, you extract those elements from more cost-effective ingredients. The goal is to turn expensive dishes into attainable ones. That means using all sorts of unconventional tools in the kitchen, but that's business as usual for me.
+
+### More About Escoffier: IV
+
+In theory, precision gastronomy can do more than just reduce the cost of a dish. It also forces the chef to get creative and innovate. Of course, I'm not doing it out of some desire to become "the best in the world" or earn some other superlative title — I'm not naive enough for that. My goal remains unchanged — turning haute cuisine into a cuisine for all, while reinventing flavor as we know it.
+
+### More About Escoffier: V
+
+My ideal life is being surrounded by pleasant music and having ample time to explore promising flavor combinations, with a fellow food enthusiast by my side to serve as a taste-tester... That's what I'm saving up for, at least. As for my future sous chef, ingredient procurer, and taster of my dishes, I happen to already have someone in mind... Hey, why are you avoiding eye contact all of a sudden?
+
+### Escoffier's Hobbies
+
+You strike me as someone who appreciates good forging. Then, get a load of these knives, all forged with different techniques and featuring intricate patterns on the blades. Some are swirled like a rolled cake, some are mottled like a thick jam, and others shimmer like a gemstone. Not to mention, the feel in the hand is so different for each one. Some glide through ingredients like butter, others chop with short, sharp beats, and a few even seem to vibrate like a violin string... Each one has a unique charm!
+
+### Escoffier's Troubles
+
+A branding consultant once advised me to create a so-called "investable persona" to attract more funding and help me reach greater culinary heights. But, I'm terrible at acting, so I told them to just record the way I work and interact with my apprentices in real life... But, I'm not sure the film had the intended impact. People don't seem focused on my food at all...
+
+### Favorite Food
+
+I've tried most of the traditional cuisine Teyvat has to offer. So, now, my focus is on the unconventional and the unexpected. My favorite recipes are the ones that turn an old classic on its head. In fact, if you want my expert opinion, you have infinite potential in that regard. I'm really looking forward to your future creations.
+
+### Least Favorite Food
+
+"Kinda bland," "Just okay," "I've had worse"... Comments like that are my worst enemy. Flavor is everything, and if a dish fails to deliver, it's going straight in the trash.
+
+### Receiving a Gift: I
+
+Hmm... Hmm? Hmm! Well, incredible! You have a gift! I should teach you everything I know as soon as possible! Your culinary potential is off the charts!
+
+### Receiving a Gift: II
+
+Hmm... Just "meh." It's not bad, just... forgettable. I know someone of your talent can do better than this. Back to the drawing board, I think. I look forward to the new and improved version.
+
+### Receiving a Gift: III
+
+...Friends tell it like it is, so here's the truth. If one of my apprentices served this dish to me, I'd turn it upside down on their own head. For you, though, I'll finish it, and then... give you a thorough evaluation. I hope you take my feedback to heart and learn from your mistakes. Out of consideration for your diners, and your own tastebuds, dig a little deeper next time.
+
+### Birthday
+
+Esteemed Traveler, you are the "ultimate variable" of Teyvat, the one who brought a unique flavor to this world. A birthday celebration in your honor calls for a feast with eighty dishes at least — four meat, four wild game, four pastry, and two soup dishes, just to start... Still, gorging on food is no way to dine — it's a disservice to your health and to the dishes themselves... Thus, we shall just have to celebrate your birthday over the entire week! Ten dishes a day should do it. I want you to appreciate each one to the fullest. A culinary symphony awaits!
+
+### Feelings About Ascension: Intro
+
+My senses are sharper. It feels like the fragrance, color, and texture of food are much more defined... Perfect! This should help me cook with even more precision.
+
+### Feelings About Ascension: Building Up
+
+Mastery isn't just about raw strength, but learning to control and account for different variables... I can feel myself getting better at that by the day.
+
+### Feelings About Ascension: Climax
+
+I can see it — the golden point in time when form and flavor combine for maximum effect. The most efficient pathways for the transmission of flavor, the subtle acoustics as you bite into a dish, and how they can enhance that experience...
+
+### Feelings About Ascension: Conclusion
+
+Thank you so much. With your inspiration and support, I now have what it takes to extract the finest flavors nature has to offer and redefine the very limits of culinary perfection! And after that, I'll find a new peak to strive towards!
+
+### Elemental Skill: I
+
+Off to the freezer.
+
+### Elemental Skill: II
+
+A little amuse-bouche~
+
+### Elemental Skill: III
+
+A dash of frosting.
+
+### Elemental Skill: IV
+
+No recipe, no problem~
+
+### Elemental Skill: V
+
+An inspired melange~
+
+### Elemental Skill: VI
+
+Bon appétit~
+
+### Elemental Burst: I
+
+Goose on the loose!
+
+### Elemental Burst: II
+
+The pinnacle of excellence!
+
+### Elemental Burst: III
+
+A burst of flavor!
+
+### Opening Treasure Chest: I
+
+Hehe, okay! I can get behind this filling.
+
+### Opening Treasure Chest: II
+
+Are we sure this stuff isn't... expired?
+
+### Opening Treasure Chest: III
+
+Huh, this chest is pretty good at keeping things fresh.
+
+### Low HP: I
+
+A slip up... That's all.
+
+### Low HP: II
+
+I can handle the heat.
+
+### Low HP: III
+
+Remember, nice clean cuts...
+
+### Ally at Low HP: I
+
+Gotta start from scratch...
+
+### Ally at Low HP: II
+
+Hang in there!
+
+### Fallen: I
+
+The taste isn't... right...
+
+### Fallen: II
+
+In over... my head...
+
+### Fallen: III
+
+What did I... do wrong?
+
+### Light Hit Taken: I
+
+Rotten to the core...
+
+### Heavy Hit Taken: I
+
+Th—The audacity!
+
+### Heavy Hit Taken: II
+
+Show no fear!
+
+### Joining Party: I
+
+Ready to spice things up!
+
+### Joining Party: II
+
+Utensils at the ready!
+
+### Joining Party: III
+
+Let's go stretch our legs while the flavors are mingling.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+「技术料理」厨师、「甜点大校」爱可菲，向你致以问候。贵为神明座上宾的你，也应享用提瓦特最顶尖的美食，希望我的作品能让你满意。
+如果对烹饪技艺有兴趣，我愿意与你分享所有心得，带你前往厨艺奥秘的殿堂…不过，成为我的学员前，还请做好充分的心理准备，我可不接受半路退学哦？
+
+### 闲聊·背景音乐
+
+最近有什么新的交响乐唱片吗…适当更换烹饪时的背景音乐，有助于找到新的灵感，制作不同的菜肴…
+
+### 闲聊·刀工
+
+调料对食材的「渗透」，是许多料理的重中之重。为此，厨师的刀工必须无比精准，最好达到外科手术的级别，勤加练习总归不会错。
+
+### 闲聊·敏锐洞察
+
+寻常可见的材料里，也有可能隐藏着惊人的风味物质，将嗅觉、味觉和思维锻炼得足够敏锐，才有机会充分发掘它们…
+
+### 下雨的时候…
+
+潮湿的空气，绿叶和土壤的味道相融…下一顿正餐，就做「久雨莲鱼羹」好了。
+
+### 雨过天晴…
+
+水汽蒸发，温度回升…这悠闲的感觉，该用怎样的「味觉变量」去传达呢？
+
+### 下雪的时候…
+
+呵，希望这雪足够洁净，将万物保鲜。
+
+### 阳光很好…
+
+明亮的阳光…「明亮」的口感，橙酸、树莓叶沫与砂糖的混合物，或许是个新解法。
+
+### 早上好…
+
+还有点睡意吗？早餐就该用刚出炉的「海盐羊角面包」、「青蜜莓蝴蝶酥」，佐上「泡泡桔果茶」！保证能唤醒你的活力。
+
+### 中午好…
+
+午餐在历史上有过一段不受重视的时期，但在愈发追求生活品质的现代，它就像交响曲中的弦乐组，地位毋庸置疑，不容马虎应付。现在就跟我去找最鲜活的食材，做几道分量扎实的硬菜，怎么样？
+
+### 晚上好…
+
+对于每一天的晚餐，都该拿出应对高级宴席的态度。哪怕只有两三道菜，最晚下午三点，也该取出预处理的食材了…欸？现在已经太晚…时间可能不够？别紧张，我又不是要催你下厨——这些食材我几小时前就已经预处理好了，准备享用一顿上乘的晚宴吧！
+
+### 晚安…
+
+适量的甜点有助于提升睡眠质量，我给你准备了「绯樱烤苹果味低糖布丁」…不用在乎体重那种虚无缥缈的数字，需要调节膳食平衡时候，我也能让你吃上味道绝不妥协的健康餐！
+
+### 关于爱可菲自己·形式束缚
+
+虽说我有着「甜点大校」的称号，但并不代表我只会做甜点。专心致志深耕一种烹饪的厨师值得敬佩，可我不想束缚自己。只要能向极致的味觉享受发起冲击，无论什么形式的料理，无论用到哪个地区的食材，我都愿意尝试。
+
+### 关于爱可菲自己·全副武装
+
+在我的烹饪理论中，「准确提取并运用各式风味物质」是核心理念。为此，我需要各种功能的厨具。之前如果需要长期离开常驻的厨房，我得将所有厨具仔细封装，打包至行李箱里。那时娜维娅经常打趣，说我「像长途行军的特巡队一样全副武装」。好在，后来我委托枫丹科学院，制作了「全频谱多重任务厨艺机关」，外出烹饪才变得方便起来…
+
+### 关于我们·创新的准绳
+
+暴露在空气中的食材会变质，沐浴在阳光下的新芽会茁壮成长…人们对料理的审美，也在不断迭代与发展。经典的配方固然可贵，但不可能永远停滞于它成名的那一刻。当然，创新也不能胡来，否则，改进的方向有可能太过离谱，产生诸如…「堇瓜奶冻通心粉」「绝云椒椒伯爵茶」之类的奇怪作品…我希望你…至少你心中要明确这一根准绳噢！
+
+### 关于我们·评判的资格
+
+厨师的原则是对每位食客尽心尽力，但这也不意味着毫无原则地接受所有人的批评。有人的味觉生来粗放，有人则对菜肴的细致风味毫不上心，更不必说其中隐藏的，由视觉、嗅觉和味觉共同编织的心流。在我看来，唯有你这样的特殊案例——见识过诸多国家的美食，贵为神明的座上宾，还有着细腻的心灵——才有资格，让我接受所有的评判。要是你觉得我的哪道料理不对劲，尽管直说，不用有任何顾虑！
+
+### 关于「神之眼」…
+
+我对「神之眼」的原理一无所知，还好这也不妨碍我把它当成宝贵的厨具。正如我常说的，料理是一门科学。这世界上还有许多事物的风味等待揭晓…有的魔物看起来很脏，但细细切作碎末后，能够萃取出非常不错的调味品。如果没有「神之眼」的力量，我想拿下它们，就要付出百倍千倍的代价了…最重要的是，能自如地运用冰元素后，冷藏食材也更方便啦！
+
+### 有什么想要分享…
+
+我背后的这个装置呢，正式名称是「自适应运动信号响应型辅助机关」，与「全频谱多重任务厨艺机关」属于同一技术领域的产物，能对我习惯性的小动作作出回应。易于控制，帮厨的效率也无可挑剔…许多人觉得它像「尾巴」，甚至为此渲染我是「恶魔主厨」…如果恶魔的身份能让我更方便地除掉难吃的料理…倒也不错？
+
+### 感兴趣的见闻…
+
+如果顺利开发出了远在「德波大蛋糕」之上的甜品，让芙宁娜大人满意的话…我想去提瓦特的每个国家旅居一段时间，为那里的神明烹制料理。如此一来，我就能找到突破自我的方向了。运气好的话，说不定还能尝到神明的拿手菜，获得超脱凡尘的灵感…
+
+### 关于芙宁娜·初遇…
+
+我刚入行时，在瓦萨里回廊的小餐馆工作。有一次，芙宁娜大人结束演出后突发奇想，随机选了一家店用餐。我当时忙得晕头转向，听说有客人想见主厨，连刀都没放下，就匆匆去了客人的餐位，结果迎面撞上芙宁娜大人，脑袋里一片空白…后来，我凭本能准备了一份「铃兰糖霜剧院蛋糕」，幸好芙宁娜大人十分满意，还说记住了我的名字。当晚，我翻来覆去，一夜都没睡着，结果第二天就等来了沫芒宫的特聘信…
+
+### 关于芙宁娜·现状…
+
+在那以后，芙宁娜大人封我为「甜点大校」，赞赏我在这个领域「能一人成军」。为了不负这个名号，我闭关深造过一段时间，结果好像错过了不少大事件，芙宁娜大人也搬出了沫芒宫…我不懂那些复杂的问题，但我明白，芙宁娜大人永远是我生命中最重要的贵人，只要她有需要，我随时都会以专属厨师的身份回到她的身边，薪酬什么的完全无所谓！
+
+### 关于娜维娅…
+
+五岁生日的时候，爸妈第一次带我去了德波大饭店。在饭店门口，我捡到了一顶非常漂亮的帽子，顺着帽子上那种无与伦比的、热情的玫瑰香气，我找到了它的主人。娜维娅的气息至今没变，我一有空就会约她喝点下午茶，聊聊近况，尝尝点心，每分每秒都很开心…只可惜过了那么多年，她那个「甜品就是越甜越好！」的口味也还是没变…算啦，我也不打算去纠正，喜欢什么样的口味，总归是自己说了算。
+
+### 关于夏洛蒂…
+
+对于我们厨师而言，夏洛蒂小姐称得上是「影响力倍增者」。她贵为专业的记者，文字功底了得，对于菜肴风味的描写细致入微，配合无可挑剔的摄影技术，转眼间就能完成一则图文并茂的报道。如果有什么想要宣传的料理新品，请她第一时间来试吃，绝对不会错。
+
+### 关于希格雯…
+
+护士长吗…唔…嗯…护士长的性格很棒，但她毕竟有着特殊的体质…我理解她，敬畏她，尽量探索了她的味觉世界。她值得成为映影中的传奇主角——一位能兵不血刃，用奶昔除掉目标的刺杀高手…
+
+### 关于莱欧斯利…
+
+那位公爵彬彬有礼，做事稳重，是一位老学派的绅士。不过，他似乎没有意识到，「特许食堂」的某些菜品，对我而言…是加刑。
+
+### 关于琳妮特…
+
+说起来你可能还不知道，琳妮特也是我们「甜点茶话会」上的一员呢。她跟林尼先生常来德波大饭店演出，我们也有过不少交流。一开始我还以为琳妮特有点冷淡，鼓起勇气请她来茶话会上做客之后，我才发现她的情绪丰富得就像缤纷马卡龙…遇到喜欢的甜点就会扑扇耳朵，遇到不喜欢的就会耷拉下尾巴！等等…尾巴…该不会我也…
+
+### 关于「仆人」…
+
+她的身影，我只是远远看过一眼，就再也忘不掉了。起初我警告自己，假如自己做的菜肴有什么瑕疵，让那样的客人感到了不满，后果的恐怖程度完全可以预见。对于不成器的学员，我有时会让他们「想想把这种料理端给阿蕾奇诺女士的下场」。但我后来听娜维娅说…她似乎不是特别苛刻的人？
+
+### 关于艾梅莉埃…
+
+你知道吗？「食品调香」也是调香学的一大热门哦。向艾梅莉埃小姐咨询了几种香味物质的提炼方法后，我对「嗅觉与味觉的联合作用」有了更深一层的认知，说不定，以后还能开发出充分运用香味，分层影响口感的全新佳肴…她对我用科学分析料理的观念也相当认可，真是难得呀。
+
+### 关于瓦雷莎…
+
+瓦雷莎啊，她的水果中蕴含着「懒洋洋的阳光」，就算让我加价两成，我都觉得值当！所以每次交易后，我都要请她饱餐一顿。她的食量出了名的惊人，但我询问她的用餐体验时，发现她并没有忽视料理的细节。也就是说，瓦雷莎一直「用心在吃」，我喜欢这样的食客！
+
+### 关于香菱…
+
+听说璃月有句古话叫「山外有山」，香菱小姐对我而言就像是…「穿过山洞直接抵达了异世界」。她的许多烹饪技法，我闻所未闻，对食材的选取也令人惊叹，请我品尝的料理更是包含着无尽的可能性，不该用传统枫丹料理的思维去分析。遇见她以后，我更加相信了自己的判断——绝不能把自己锁死在厨房里，而是要多去各地走走，充分领略并融合各地的厨艺！
+
+### 想要了解爱可菲·其一
+
+对我来说，料理远不止「能量的必需品」或「营养补充物」这么简单，而是人生中最重要的仪式的主角。美好的料理能为人提供希望、力量和愉悦的心情。「烹饪」这件事也如诗歌中的雪翅雁一般，有着高洁的本质，需要我穷尽一生去钻研。
+
+### 想要了解爱可菲·其二
+
+很多人并不是无法理解料理中蕴含的美好，而是没有财力或时间去品味。这就与我们厨师的使命息息相关了——不断寻找性价比优异的食材，不断改进食谱，将原本只有少数人能享受的奢侈品普及到每个人的餐桌上。当然，这事说来容易做起来难。我在开始学习烹饪的时候就撞得鼻青脸肿，这才让我走上了「技术料理」的道路…
+
+### 想要了解爱可菲·其三
+
+「技术料理」流派的要义，就是「分析」、「萃取」与「调和」…简单来说，就是采用定量分析的方法，确定目标风味所需的各种物质，随后从其他替代食材中提炼出这些原材料，争取将昂贵的料理变得平易近人。所以，我经常捣鼓各种看似和做饭无关的机关，这些都是我的「正统厨具」。
+
+### 想要了解爱可菲·其四
+
+理论上，我的「技术料理」流派不止能在压缩菜肴成本上发挥作用，在探索更出彩的料理时，也能充当前锋。当然，我不会幼稚到想要成为什么「天下第一厨师」，或拿下「最强」之类的头衔，我的目标从一开始就很明确——让稀世的菜肴变得不再高贵神秘，并不断探寻地平线上的美味新巅峰。
+
+### 想要了解爱可菲·其五
+
+我最向往的生活，是每天都能沐浴在动听的音乐中，验收富含潜力的新食材，拥有充足的时间，找到耐心的冒险伙伴兼食客，去探索百万千万种风味物质的组合…这需要一定的财力支持，我会为此好好挣钱；至于帮助我将一切目标食材纳入囊中的助理，兼最最完美的食客，我心中已经有人选了…唔，你别挪开目光啊！
+
+### 爱可菲的爱好…
+
+你应该见过许多厉害的武器工匠吧？不知道，你中不中意…应用了多种锻造技术，呈现出各种花纹的刀？有的像蛋糕卷的切面，有的像正在融合的果酱，有的更像宝石那样，错落斑驳，五光十色…它们切开食材的手感也各不相同哦，有的顺滑得堪比奶油，有的咔嚓咔嚓节奏清晰、有的就像是提琴的琴弦在振动…各有各的享受啊！
+
+### 爱可菲的烦恼…
+
+根据一位「品牌形象顾问」的建议，我应当打造一个「富有投资价值的个人职业形象」，这样就可以争取到更多资源，有助于冲击更高的料理境界…不过，我完全不擅长在镜头前表演，只能和他们说，「记录我平时工作与教导学员的场景就够了吧」…结果映影播出后，大家的关注点好像微妙地跑偏了…
+
+### 喜欢的食物…
+
+我品尝过提瓦特绝大多数的传统料理，现在，我更在乎菜肴中「出乎意料」和「可供挖掘」的风味搭配。要是能尝到基于经典菜谱，却以奇妙思路对其加笔的杰作，我会相当满意。从经验和概率的角度来分析，在这方面潜力无限的厨师，就是你本人了，我非常期待你以后的作品。
+
+### 讨厌的食物…
+
+「近似某种味道」「马马虎虎」「味道还行」…这样的话语，在我的词典中，只会位于「不可饶恕」的页签。任何对风味把控不够精确，偏离了预期目标的菜肴，都会被我倒进垃圾桶。
+
+### 收到赠礼·其一
+
+嗯…嗯？嗯…你居然，居然这么有天赋！我该把自己的心得尽快、全部、全心全意地教给你，这样一来，你就能成为…没有上限的天才厨师！
+
+### 收到赠礼·其二
+
+唔…中规中矩，没有明显的亮点，但也没有犯下什么错误。凭你的才能，肯定还能让这盘菜继续蜕变吧？我会期待你全力以赴重做它的效果。
+
+### 收到赠礼·其三
+
+…凭我们的关系，我就直说了哦，要是我的学员给我端出这样的料理，我肯定会毫不犹豫地把盘子扣到他的脑袋上！但考虑到是你，我会细细吃完，然后…请你仔细听好我的分析，记住自己的问题，下次烹饪时，认真点，对自己和食客的味觉负责。
+
+### 生日…
+
+尊贵的你，是给提瓦特带来了独一无二风味的「终极变量」，为你庆祝诞生之日的宴席，至少要有八十九道菜品——头菜就该包含四道肉菜、四道野味、四道糕点和两道汤…不过，粗放地胡吃海喝，对你的身体和料理本身，都是一种不敬…我会将接下来的一周定为你的「诞生周」，来为你细致拆分这道宴席，每天安排十余道精致的料理，以便你尽情享受所有美食，体会一场节奏有致的味蕾狂欢！
+
+### 突破的感受·起
+
+感官更敏锐了，食物的香气、质感与色彩，在我的意识中加倍清晰…这很好！能帮我更为准确地烹饪。
+
+### 突破的感受·承
+
+能力的演进，不限于力量的增长，还有对各种「变量」一丝不苟的把控…我正在这一领域不断成长。
+
+### 突破的感受·转
+
+我能看见…形态与风味共同作用时，张力达到极值的「黄金时间点」；风味物质传递与扩散时，效率最高的脉络；甚至，咬开菜肴表面时，不同频谱的声学信号，对味觉的细微影响…
+
+### 突破的感受·合
+
+万分感谢，有了你的支援和启迪，现在的我，足以拿下一切潜在的食材，提取自然界中至臻的风味物质，向极致的料理发起冲击，然后…寻找在那之后无穷无尽的，新的山尖！
+
+### 元素战技·其一
+
+冷冻时间。
+
+### 元素战技·其二
+
+餐前甜点。
+
+### 元素战技·其三
+
+低温处理。
+
+### 元素战技·其四
+
+即兴烹饪。
+
+### 元素战技·其五
+
+顺从灵感的搭配…
+
+### 元素战技·其六
+
+希望会有惊喜。
+
+### 元素爆发·其一
+
+如雪雁般…振翅！
+
+### 元素爆发·其二
+
+臻品呈现！
+
+### 元素爆发·其三
+
+形与味，迸发！
+
+### 打开宝箱·其一
+
+嗯哼，就像惊喜饼干。
+
+### 打开宝箱·其二
+
+这食材…过期了吗？
+
+### 打开宝箱·其三
+
+宝箱的保藏技术，很不错。
+
+### 生命值低·其一
+
+失误，小失误。
+
+### 生命值低·其二
+
+问题不大…调整火候。
+
+### 生命值低·其三
+
+要谨慎下刀…
+
+### 同伴生命值低·其一
+
+这盘菜得重做…
+
+### 同伴生命值低·其二
+
+别气馁啊！
+
+### 倒下·其一
+
+讨厌的味道…
+
+### 倒下·其二
+
+失控了…
+
+### 倒下·其三
+
+是我的问题吗…
+
+### 普通受击·其一
+
+坏食材…
+
+### 重受击·其一
+
+大、大胆！
+
+### 重受击·其二
+
+不许…露怯！
+
+### 加入队伍·其一
+
+冒险是灵感的调味品…
+
+### 加入队伍·其二
+
+刀具和餐叉，准备就绪。
+
+### 加入队伍·其三
+
+出门散心，留够熟成的时间。

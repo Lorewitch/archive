@@ -400,3 +400,882 @@ As if to respond to Thoma's choice - on this night of divergent destinies, a Vis
 为忠义而燃烧的意志铸就出强烈愿望，引来了神明的注视。
 
 像是要回应托马的选择一般——在这个命运分歧的夜晚，他身边多出了一颗鲜红如烈焰的「神之眼」。
+
+# voice_source_ids: 50008,50009,50010,50011,50012,50013,50014,50015,50016,50017,50018,50019,50020,50021,50022,50023,50024,50025,50026,50027,50028,50029,50030,50031,50032,50033,50034,50035,50036,50037,50038,50039,50040,50041,50042,50043,50044,50045,50046,50047,50048,50049,50050,50051,50052,50053,50054,50055,50056,50057,50058,50059,50060,50061,50062,50063,50064,50065,50066,50067,50068,50069,50070,50071,50072,50073,50074,50075,50076,50077,50078,50079
+
+## REPLICAS_RU
+
+### Привет...
+
+Рад наконец-то встретиться с тобой, путешественник. Я уже давно слышу о тебе. Я твой новый друг, Тома. Если ты, конечно, не против! / Рад наконец-то встретиться с тобой, путешественница. Я уже давно слышу о тебе. Я твой новый друг, Тома. Если ты, конечно, не против!
+
+### Поболтаем: Приглашение
+
+Эй... Как насчёт того, чтобы как-нибудь вместе поужинать? Разумеется, я угощаю.
+
+### Поболтаем: Беспокойство
+
+Такое ощущение, будто я забыл что-то сделать... Я прибрался во дворе, поставил чай... Эх, наверно, мне просто кажется.
+
+### Поболтаем: Мора
+
+Последнее время я много тратил, и у меня осталось всего 10 моры... Ну, 10 моры лучше отсутствия моры!
+
+### Когда идёт дождь...
+
+Почему вдруг пошёл дождь? Ты в порядке? Вот, возьми мой плащ...
+
+### Когда гремит гром...
+
+В такую погоду лучше не оставаться под открытым небом, иначе в тебя точно ударит молния.
+
+### Когда идёт снег...
+
+Не бегай по льду... Если ты упадёшь, я не стану помогать, ведь тебе нужно же как-то учиться.
+
+### Когда светит солнце...
+
+Какая прекрасная погода! Может, прогуляемся?
+
+### Доброе утро...
+
+Доброе утро! Если ты свободен, давай вместе сходим на рынок. С утра овощи самые свежие. / Доброе утро! Если ты свободна, давай вместе сходим на рынок. С утра овощи самые свежие.
+
+### Добрый день...
+
+Сегодня на обед у нас тэмпура с сакурой и трёхцветное данго! Вот, это для тебя, это для Паймон, а ещё я немного отложил для госпожи Камисато и самого главы клана. Постой, я кое-кого забыл... Себя.
+
+### Добрый вечер...
+
+Давай быстрее, нам нужно сходить на рынок, в это время дня цены на рыбу снижаются. О, и если ты найдёшь что-то, без чего не сможешь обойтись, я помогу тебе сбить цену.
+
+### Спокойной ночи...
+
+Ладно, спокойной ночи. У тебя был напряжённый день, тебе тоже следует немного отдохнуть. Не засиживайся допоздна.
+
+### О Томе: Управляющий
+
+Ни Аяка, ни Аято не собирались делать меня управляющим, я вызвался сам. Мне нравится такая работа. Когда я привожу всё в порядок, то испытываю чувство выполненного долга. Да и посмотри на реакцию остальных... Да, думаю, я делаю хорошую работу.
+
+### О Томе: Значение
+
+Для меня работа по дому - это поддержание чистоты, чтобы у всех, кто там живёт, была улыбка на лице. А теперь... Похоже, я ответственен за ещё одну улыбку. Буду стараться изо всех сил!
+
+### О нас: Обед в одиночестве
+
+Эй, как так получилось, что ты ешь здесь совсем один? ...Ничего, если я присоединюсь к тебе? Или ты предпочитаешь есть в одиночестве? / Эй, как так получилось, что ты ешь здесь совсем одна? ...Ничего, если я присоединюсь к тебе? Или ты предпочитаешь есть в одиночестве?
+
+### О нас: Клятва
+
+Если бы ты не проявил храбрость и не выступил в одиночку против сёгуна Райдэн на церемонии Охоты за Глазами Бога, я бы потерял свой Глаз Бога, а вместе с ним и все свои стремления. Я много об этом думал, и, кажется, есть только один способ, как я могу тебе отплатить... 
+Я, Тома, даю тебе своё оружие и свою преданность. Несмотря ни на что, я буду сражаться за тебя. / Если бы ты не проявила храбрость и не выступила в одиночку против сёгуна Райдэн на церемонии Охоты за Глазами Бога, я бы потерял свой Глаз Бога, а вместе с ним и все свои стремления. Я много об этом думал, и, кажется, есть только один способ, как я могу тебе отплатить... 
+Я, Тома, даю тебе своё оружие и свою преданность. Несмотря ни на что, я буду сражаться за тебя.
+
+### Глаз Бога...
+
+Те, кому дарован Глаз Бога, должны дорожить им. Я точно не хочу потерять свой.
+
+### Давай поделимся...
+
+Я знаком со многими людьми и должен заметить, что инадзумцы уделяют больше внимания этикету, чем мондштадтцы. Если всегда будешь проявлять вежливость, всё станет намного проще.
+
+### Интересные вещи: Тануки
+
+Мне всегда хотелось увидеть, как тануки меняет облик. Говорят, он может превратиться во что угодно, и что ему нравится разыгрывать прохожих. У него есть чувство юмора, это уж точно.
+
+### Интересные вещи: Животные
+
+Ты тоже любишь животных? Если да, позволь как-нибудь отвести тебя на прогулку по пригороду. Стоит только свистнуть, как отовсюду вылезут щенки и котята и начнут тереться об ноги, требуя ласки. Ха-ха, просто представляя это, я уже чувствую себя гораздо счастливее.
+
+### О Яэ Мико...
+
+Госпожа Мико? А... а что с ней? Ах... Каждый раз, когда госпожа Камисато отправляет меня передать сообщения, меньше всего я хочу отправляться в Великий храм Наруками... Ох! Не потому, что госпожа Мико ужасно пугает меня, а... уважение! Она вызывает у меня уважение, ха-ха-ха...
+
+### О сёгуне Райдэн: Сравнение
+
+На моей родине, в Мондштадте, практически все с большим уважением относятся к Анемо Архонту, Барбатосу. Но люди в Инадзуме немного по-другому относятся к сёгуну. Как бы так выразиться... Они чувствуют любовь, уважение, благодарность... А ещё страх.
+
+### О сёгуне Райдэн: Неизвестность
+
+Если честно, у меня нет никакой обиды на сёгуна. Да, она чуть не лишила меня Глаза Бога, но это всё из-за её особенной точки зрения. У всех своя точка зрения, и в этом нет ничего странного. 
+Единственное, чего я не понимаю, - это её цель. Как она представляет себе вечность для Инадзумы? И почему для этого необходимо пожертвовать стремлениями её народа? Я не могу ни понять, ни согласиться с её подходом.
+
+### О Бэй Доу...
+
+Капитан Южного Креста - действительно грозная женщина. Однажды она пообещала вывезти меня в открытый океан, чтобы взглянуть на грозу, отделяющую Инадзуму от внешнего мира. Жаль, что у меня пока не получилось принять её предложение...
+
+### О Камисато Аято...
+
+Как главе клана Камисато, ему приходится непросто. Из-за нестабильной политической ситуации ему приходится бороться с общественным беспокойством с одной стороны, и кучкой корыстных и подлых чиновников с другой стороны. Лучше не зацикливаться на этом. Всё, что я могу сделать, это присматривать за ним, когда он дома.
+
+### О Камисато Аяке...
+
+Госпожа - во всех отношениях всесторонне развитая личность. Она эрудированная, милосердная, хорошо воспитанная и элегантная... Единственное, чего ей не хватает, это откровенности. Иногда кажется, будто она собирается что-то сказать, но потом сдерживается. Если такое произойдёт, продолжай спрашивать её мнение, возможно, ты сможешь помочь ей немного открыться.
+
+### О Ёимии...
+
+Знаменитая владелица «Фейерверков Наганохары»? С ней легко поладить. Она очень прямолинейная, говорит всё, что думает. О, фейерверки Наганохары - просто потрясающие, если выдастся шанс посмотреть на них, не упусти его. Кстати об этом, держи скидочный купон.
+
+### О Саю...
+
+Ах, Саю, упрямая Саю. Я бесчисленное количество раз просил её научить меня ниндзюцу, но она всегда отказывается. А теперь она меня даже избегает... Я просто ученик, ищущий учителя, неужели я и правда перегнул палку?
+
+### О Кудзё Саре...
+
+Генерал комиссии Тэнрё, хм... Столкнувшись с ней, веди себя осторожнее. Она обладает реальной властью и довольно упряма. Улыбка и невинный взгляд не окажут на неё влияния.
+
+### Об Аратаки Итто...
+
+Ходят слухи, что он довольно интересный человек. Говорят, что в нём даже течёт кровь ёкаев. Вы с ним встречались? Если вы знакомы, может, представишь меня ему когда-нибудь? Лучше заводить самых разных друзей... В том числе ёкаев!
+
+### О Сиканоине Хэйдзо...
+
+Хо, это детектив из комиссии Тэнрё. Он делает всё по-своему, и с ним нелегко поладить. Кроме того... Если требуется детектив, то это дело вряд ли закончится хорошо. Думаю, лучше и дальше держаться от него подальше.
+
+### О Джинн...
+
+Джинн из клана Гуннхильдр теперь магистр Ордо Фавониус? Она определённо это заслужила, ведь она известна своим безупречным поведением... А, просто «действующий» магистр? Ха-ха, ну, человеку с её положением плевать на титулы.
+
+### Об Эоле...
+
+Ты уже встречался с Эолой Лоуренс? Я знаю только, что её семья - самые вспыльчивые люди, которых ты когда-либо встретишь. Лучше держаться от них подальше. Ах, я снова думаю о Мондштадте... Столько хороших воспоминаний. / Ты уже встречалась с Эолой Лоуренс? Я знаю только, что её семья - самые вспыльчивые люди, которых ты когда-либо встретишь. Лучше держаться от них подальше. Ах, я снова думаю о Мондштадте... Столько хороших воспоминаний.
+
+### Узнать больше о Томе I
+
+Я могу чем-нибудь помочь? Если нужно сделать что-то по дому, или у тебя возникли с кем-то разногласия, просто скажи. Хм? Разговор... Ясно. Это немного отличается от того, к чему я привык, но я буду стараться.
+
+### Узнать больше о Томе II
+
+Я родом не из Инадзумы...Кажется, я уже говорил об этом? Я добрался сюда на лодке из Мондштадта. Мне понравилось это место, а ещё мне посчастливилось познакомиться с замечательными братом и сестрой Камисато, поэтому я остался.
+
+### Узнать больше о Томе III
+
+Я тоже иногда скучаю по дому, поэтому могу понять иностранных торговцев на острове Рито. Я стараюсь присматривать за ними. Разница между нами в том, что они считают себя временными жителями и не пытаются влиться в жизнь Инадзумы. И поскольку они так думают, это становится реальностью. Большинство Инадзумцев всегда будет считать их чужаками.
+
+### Узнать больше о Томе IV
+
+Для некоторых наиболее консервативных жителей Инадзумы идея того, что иностранец может работать на одну из комиссий, немыслима. Так что когда-то мне были здесь не очень рады. Уверен, меня бы давно выгнали, если бы Камисато не вступались за меня. Я не мог подвести клан после всего добра, что они мне оказали, поэтому проделал много работы, и наконец все смогли принять меня.
+
+### Узнать больше о Томе V
+
+Не уверен, стоит ли об этом рассказывать, но... Надеюсь, ты не против. Какое-то время мне очень хотелось вернуться домой. Мондштадт - моя родина, в конце концов. Но я разрывался... Я не мог оставить и Инадзуму. Просто посмотри, как хорошо ко мне относились местные. В клане Камисато всегда было для меня место, а люди, с которыми я здесь познакомился, стали мне словно родными. Я долго раздумывал об этом и в итоге решил остаться в Инадзуме. Когда я скучаю по Мондштадту... то могу просто поговорить с тобой. Ты ведь не возражаешь против моей болтовни, да?
+
+### Хобби Томы...
+
+В последнее время я увлечён историями о сверхъестественном. Особенно мне нравятся истории о ёкаях, меняющих облик. Они такие увлекательные! До этого я какое-то время увлекался ниндзюцу, а ещё раньше... Хм? Ты считаешь, я недостаточно целеустремлённый? Нет! Ты всё неправильно понял! / В последнее время я увлечён историями о сверхъестественном. Особенно мне нравятся истории о ёкаях, меняющих облик. Они такие увлекательные! До этого я какое-то время увлекался ниндзюцу, а ещё раньше... Хм? Ты считаешь, я недостаточно целеустремлённый? Нет! Ты всё неправильно поняла!
+
+### Беспокойство Томы...
+
+Я расстроен. Господин устраивает званый ужин для гостей сегодня вечером и попросил меня приготовить крабов в масле. Но проблема в том, что за последние два дня я так и не смог нигде найти крабов! Мне что, придётся нырять в океан и ловить их самому?
+
+### Любимая еда...
+
+Без сомнений, моя любимая еда - суп одзони. Мне нравится готовить одну большую кастрюлю на всех. Это рецепт хорошего времяпрепровождения.
+
+### Нелюбимая еда...
+
+Что касается еды, то меня всё устраивает. Хотя, если считать напитки... Я не могу много пить. Не смейся! И, прежде чем ты спросишь, да, мне тоже интересно, какой я после этого мондштадтец. Но, знаешь... Чрезмерное употребление алкоголя вредно для здоровья, поэтому лучше не пить.
+
+### День рождения...
+
+Быстрее, пойдём со мной! Я вспомнил, что у тебя день рождения, и решил устроить настоящую вечеринку. Там есть еда, есть напитки, и я пригласил целую кучу твоих друзей. Эй, это же твой день рождения! Я не собирался позволить тебе провести его в одиночестве!
+
+### Чувство возвышения: Начало
+
+Правда? Это сделает меня сильнее? Лучше не шути, мне ещё нужно постирать кучу белья.
+
+### Чувство возвышения: Нарастание
+
+Такое чувство, словно... внутри меня начал разгораться огонь.
+
+### Чувство возвышения: Кульминация
+
+Как мне использовать всю эту силу? Нужно серьёзно над этим подумать.
+
+### Чувство возвышения: Окончание
+
+Спасибо, что доверяешь мне. Твоя доброта согревает моё сердце сильнее, чем самое яркое пламя. Не волнуйся, я понял, чем хочу заниматься. Моя сила станет твоим щитом, и я всегда буду рядом, чтобы защитить тебя.
+
+### Элементальный навык I
+
+Зажжём!
+
+### Элементальный навык II
+
+Посмотри!
+
+### Элементальный навык III
+
+Не подходи близко!
+
+### Взрыв стихии I
+
+Вот и подкрепление.
+
+### Взрыв стихии II
+
+Огневая поддержка!
+
+### Взрыв стихии III
+
+Я тебя прикрою.
+
+### Открытие сундука I
+
+Что у нас здесь?
+
+### Открытие сундука II
+
+Предсказание судьбы было верным...
+
+### Открытие сундука III
+
+Хе-хе, было ничьё - стало моё.
+
+### Низкий уровень HP I
+
+Эй! Зачем это?
+
+### Низкий уровень HP II
+
+Мне конец...
+
+### Низкий уровень HP III
+
+Как же больно...
+
+### Низкий уровень HP компаньона I
+
+Не отчаивайся. Я здесь, чтобы помочь.
+
+### Низкий уровень HP компаньона II
+
+Ну и дела... иди, отдохни.
+
+### Без сознания I
+
+Пора вернуться домой...
+
+### Без сознания II
+
+Берегите себя...
+
+### Без сознания III
+
+Я не смог спасти всех...
+
+### Получен тяжёлый удар I
+
+Ай-ай-ай.
+
+### Получен тяжёлый удар II
+
+Хватит!
+
+### Присоединяется к группе I
+
+Думаю, домашние дела подождут.
+
+### Присоединяется к группе II
+
+Пойдём найдём новых друзей.
+
+### Присоединяется к группе III
+
+Куда направимся в этот раз?
+
+### Подарок I
+
+Вкусно! Можно мне ещё пиалу риса?
+
+### Подарок II
+
+У тебя есть минутка? Не поделишься со мной своими кулинарными секретами?
+
+### Подарок III
+
+Не думаю, что когда-либо пробовал такое... Но всё не так уж и плохо.
+
+## REPLICAS_EN
+
+### Hello
+
+It's good to meet you at last, Traveler. I've been hearing about you for a long time now. I'm your new buddy, Thoma — as long as that's okay with you, of course!
+
+### Chat: Thoma's Treat
+
+Hey... how about we go for a nice meal some time? My treat, of course.
+
+### Chat: Concern
+
+I feel like there's something I forgot to do... hmm, I tidied the courtyard, put the tea on... Eh, it's probably just my mind playing tricks on me.
+
+### Chat: Mora
+
+I really did spend a lot recently, only 10 Mora left... Still, 10 Mora's better than no Mora!
+
+### When It Rains
+
+Where'd this rain come from? Are you gonna be okay? Here, I'll lend you my coat...
+
+### When Thunder Strikes
+
+You don't wanna be out in open country in this kind of weather. You'll get struck by lightning for sure.
+
+### When It Snows
+
+Don't run on the ice... 'cause if you fall down, I won't help you up, you gotta learn somehow.
+
+### When the Sun Is Out
+
+Lovely weather we're having! Will you join me for a walk?
+
+### Good Morning
+
+Morning! If you're free, why not come with me to the market? The vegetables are freshest earlier in the day.
+
+### Good Afternoon
+
+On the lunch menu today, we have Sakura Tempura and Tricolor Dango! Here, there's some for you, some for Paimon, and I also put some aside for milady and the man of the clan himself. Ah, wait, I forgot someone... There's none for me...
+
+### Good Evening
+
+Come quick, we gotta get down to the market — they slash the prices on fish around this time of day. Oh, and if you find something that you just can't do without, I'll help you haggle the price down.
+
+### Good Night
+
+Okay, good night. You had a busy day today, you should get some rest, too. Don't stay up too late.
+
+### About Thoma: Housekeeper
+
+It was never Ayaka or Ayato's intention to make me the housekeeper, I volunteered. I like this kind of work. Putting everything in order gives me a great sense of achievement, and based on everyone's reactions... Yeah, I think I do a pretty good job.
+
+### About Thoma: Meaning
+
+For me, housework is about keeping a space clean and tidy, so that everyone who lives there has a smile on their face. And now... it looks like I'm responsible for another smile. I'll do my best to deliver!
+
+### About Us: Eating Alone
+
+Hey, how come you're eating here all alone? ...Uh, is it okay if I join you? Or did you just want some space?
+
+### About Us: Oath
+
+If you hadn't put yourself out there during the Vision Hunt Ceremony and taken on the Raiden Shogun all by yourself, I would've lost my Vision, and with it all my aspirations. I've been thinking about this a lot, and it seems like there's only one way I could ever properly repay you... 
+I, Thoma, give to you my weapon and my loyalty, and I promise to fight for you, no matter what.
+
+### About the Vision
+
+Those that receive Visions should look after them. I certainly don't plan on losing mine.
+
+### Something to Share
+
+I've gotten to know all kinds of people over the years, and I'd say that Inazumans are more particular about etiquette than Mondstadters. If you make sure you're always polite to people, it's much easier to get things done.
+
+### Interesting Things: Tanuki
+
+I've always wanted to see a tanuki shapeshifting. They say it can change into all kinds of things, and that it likes to play pranks on passersby. It's a creature with a sense of humor, that's for sure.
+
+### Interesting Things: Animals
+
+Are you an animal person, too? If you are, let me take you to the outskirts some time, it's great. I just need to give a whistle, and all these puppies and kittens will come out of nowhere and start strutting around your ankles, clamoring for your affection. Haha, just imagining it is already brightening my day.
+
+### About Yae Miko
+
+Lady Miko? Wh—What about her? *sigh* Every time Miss Kamisato sends me out to deliver messages, my least-favorite destination is the Grand Narukami Shrine... Oh! N—Not because Lady Miko scares the bejeebers out of me, it's, uh... respect. Yes! She strikes respect deep into my heart, ahahahaha...
+
+### About the Raiden Shogun: Comparison
+
+In my homeland of Mondstadt, almost everyone has great reverence for the Anemo Archon, Barbatos. But people in Inazuma feel a little differently toward the Shogun. How can I put this... They feel love, respect, gratitude... but also fear.
+
+### About the Raiden Shogun: The Unknown
+
+Honestly, I don't harbor any resentment toward the Shogun. Yes, she almost took my Vision away, but ultimately that's just because of her unique perspective. Everyone has their own perspective, there's nothing strange about that.
+The only thing I don't understand is her goal in doing so. What does she imagine eternity really looks like for Inazuma? And why is sacrificing her people's aspirations so necessary to achieve it? I can neither understand nor agree with her approach.
+
+### About Beidou
+
+The captain of The Crux — a formidable woman indeed. She once promised to take me out onto the open ocean to get a look at the thunderstorm that seals off Inazuma from the outside world. It's a shame that to this day, I've never had the chance to take her up on the offer...
+
+### About Kamisato Ayato
+
+As head of the Kamisato Clan, he's in a tough position. With all the political upheaval, he has to contend with public disquiet on one hand and a bunch of self-serving, degenerate public officials on the other. It's best not to dwell on it. All I can do is make sure to look out for him when he's at home.
+
+### About Kamisato Ayaka
+
+Milady is in all respects a well-rounded person: erudite, compassionate, well-mannered, and elegant... The one thing she could do better is to speak her mind more. In fact, watch out for this the next time you're talking to her — sometimes, she looks like she's about to say something, but then she holds back. If that happens, keep asking her opinion, see if you can encourage her to open up a little.
+
+### About Yoimiya
+
+Of Naganohara Fireworks fame? She's so easy to get along with. Super straightforward, just says whatever she thinks. Oh, and Naganohara fireworks are just incredible, you should take every chance you get to see them in action. Ah, on that note — here, have a coupon!
+
+### About Sayu
+
+Ah Sayu, stubborn Sayu. I've asked her countless times to teach me ninjutsu, but she always refuses. She even goes out of her way to avoid me now... I'm just a student looking for a teacher, am I really that out of line?
+
+### About Kujou Sara
+
+The Tenryou Commission General... Mm... Make sure to be extra careful if you have any dealings with her. She has a lot of power in her hands, and she's not very open to persuasion. Smiling and batting your eyelids certainly won't get you anywhere with her.
+
+### About Arataki Itto
+
+Hmm... Word on the street is that he's quite a character — apparently, he even has youkai heritage. Have you met him? If you two are close, maybe you could introduce me sometime. It's good to make friends from all walks of life... youkai included!
+
+### About Shikanoin Heizou
+
+Ho, that guy is a detective for the Tenryou Commission. He seems to have his own way of doing things — not the easiest person to get along with. Also... Any situation that involves a detective is probably not one that's going to end well. I think I'll keep on giving him a wide berth.
+
+### About Jean
+
+Oh, so Jean from the Gunnhildr Clan is the Master of the Knights of Favonius now? She definitely deserves it, she's known all over for her impeccable conduct... Oh, just the "Acting" Grand Master? Haha, well, someone of her standing won't care about titles.
+
+### About Eula
+
+You've had a run-in with Eula Lawrence before, huh? All I know is that their whole family are about the worst-tempered people you could ever meet. You're better off steering clear of them if you can help it. Ah, now I'm in a Mondstadt mood again... The memories.
+
+### More About Thoma: I
+
+Anything I can lend a hand with? If something needs doing around the house or you're having some interpersonal strife, just say the word. Hmm? A conversation... I see, I see. That's a little different from what I'm used to, but I'm all for it.
+
+### More About Thoma: II
+
+I'm not from Inazuma originally — I think I've told you that before, right? I took a boat all the way here from Mondstadt, found I liked the place, and was also lucky enough to meet the wonderful Kamisato siblings, so I just ended up staying.
+
+### More About Thoma: III
+
+I get homesick once in a while, too, so I completely relate to all the international merchants on Ritou. I try to look out for them as much as I can. The difference between us is that they see themselves as just passing by, and have no intention of trying to integrate here. And because that's how they think, it becomes their reality. The majority of Inazumans will never see them as anything more than outsiders.
+
+### More About Thoma: IV
+
+For some of the more conservatively minded people in Inazuma, the idea of an outlander working as a retainer for one of the Commissions is unthinkable. So there was a time when I was not that welcome here. I'm pretty sure I'd have been deported a long time ago without a couple of Kamisatos fighting my corner. I couldn't let the clan down after they'd been so kind to me, so I put in a lot of honest work, and eventually, everyone was finally able to accept me.
+
+### More About Thoma: V
+
+I'm not sure if I should get into this, but... Ah, hopefully you won't mind. I went through a period where I really just wanted to go home — Mondstadt is my homeland, after all. But I was torn... It wouldn't be easy to leave Inazuma behind, either. I mean, just look how good the people here have been to me. The Kamisato Clan always has a room for me, and there are people I've met here that are like family. So, I went back and forth over it, and ultimately decided I'd stay in Inazuma. When I'm missing Mondstadt... I can just chat with you. You don't mind my rambling, do you?
+
+### Thoma's Hobbies
+
+I've been really getting into stories about the unnatural recently. Especially ones about shapeshifting youkai — they're so fascinating. Before that, I was really into ninjutsu for a while, and before that... Hmm? You think I'm not dedicated enough? N—No! It's not like that, you got me all wrong!
+
+### Thoma's Troubles
+
+I'm in a real pickle here. The chief is hosting a banquet for his friends tonight, and he says he wants me to splurge a little by cooking some Butter Crab. The only problem is that for the last two days, I haven't been able to buy crab anywhere! So, what, am I gonna have to dive into the ocean and grab them myself?
+
+### Favorite Food
+
+Without a doubt, my favorite food is Rice Cake Soup. I like cooking up a big, delicious potful for everyone to share. It's a recipe for a good time.
+
+### Least Favorite Food
+
+As far as food is concerned, I'm fine with anything. If we're counting beverages, though... I'm not very good with alcohol. Don't laugh, and before you say it — yes, I've wondered what this says about my identity as a Mondstadter. But, y'know... too much alcohol is bad for you, anyway. So not drinking is a good thing.
+
+### Birthday
+
+Quick, come with me! I remembered it's your birthday, obviously, so I thought I'd throw you a proper party. There's food, there's drinks, and I invited a whole bunch of your friends, too. Hey, this is your birthday we're talking about! I wasn't about to let you spend it all alone!
+
+### Feelings About Ascension: Intro
+
+Really? This'll make me stronger? You'd better not be kidding, I have stacks of laundry to do.
+
+### Feelings About Ascension: Building Up
+
+It feels like... a fire inside of me has just begun to burn.
+
+### Feelings About Ascension: Climax
+
+I have all of this power, but how should I use it? I need to give this one some serious thought.
+
+### Feelings About Ascension: Conclusion
+
+Thank you for placing your trust in me. Your kindness warms my heart more than the brightest flame ever could. But not to worry, I've figured out what I want to do now. My strength is your shield, and I will always be here to protect you.
+
+### Elemental Skill: I
+
+Fire it up!
+
+### Elemental Skill: II
+
+Check this out~
+
+### Elemental Skill: III
+
+Don't get too close!
+
+### Elemental Burst: I
+
+Here's backup.
+
+### Elemental Burst: II
+
+Supporting fire!
+
+### Elemental Burst: III
+
+I got you covered.
+
+### Opening Treasure Chest: I
+
+Ooh, what's in here?
+
+### Opening Treasure Chest: II
+
+Mm! The fortune slip was right...
+
+### Opening Treasure Chest: III
+
+Hehe, finders keepers.
+
+### Low HP: I
+
+Hey! What was that for?
+
+### Low HP: II
+
+I'm done for...
+
+### Low HP: III
+
+*grimace* Right where it hurts...
+
+### Ally at Low HP: I
+
+Don't despair, I'm here to help.
+
+### Ally at Low HP: II
+
+What a mess... go on, take a rest.
+
+### Fallen: I
+
+Time to go home...
+
+### Fallen: II
+
+Take care, everyone...
+
+### Fallen: III
+
+I couldn't save everybody...
+
+### Heavy Hit Taken: I
+
+Ow ow ow...
+
+### Heavy Hit Taken: II
+
+Stop it!
+
+### Joining Party: I
+
+I guess the housework can wait.
+
+### Joining Party: II
+
+Let's get out there and make some friends.
+
+### Joining Party: III
+
+Where are we headed this time?
+
+### Receiving a Gift: I
+
+Delicious! Could I get another bowl of rice?
+
+### Receiving a Gift: II
+
+Um, are you free right now? Would you mind sharing some of your cooking tips with me?
+
+### Receiving a Gift: III
+
+I don't think I've ever tasted anything like this... Oh, it's not too bad, though.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+初次见面，异乡的旅人，你的名字我可是早就听说了。只要你不嫌弃，我托马，从今天起就是你的朋友了。
+
+### 闲聊·请客
+
+嗯…找个时间一起吃顿好的怎么样，我请客。
+
+### 闲聊·担忧
+
+总觉得有什么事忘记做了…庭院打理过，茶也煎了，嗯…应该是错觉吧。
+
+### 闲聊·摩拉
+
+这几天花得太多，身上只剩十摩拉了，不过幸好还有十摩拉！
+
+### 下雨的时候…
+
+怎么突然下雨了？你没事吧？要不要用我的外套挡挡？
+
+### 打雷的时候…
+
+这种天气就别在野外晃悠了，会被劈的。
+
+### 下雪的时候…
+
+别在雪地上跑哦，摔了我可不扶你。
+
+### 阳光很好…
+
+天气真不错啊，一起散步吧。
+
+### 早上好…
+
+早啊。要是你不忙，要不要跟我一起去集市上逛逛？早上的蔬菜可是最水灵的哦。
+
+### 中午好…
+
+今天午饭除了绯樱天妇罗还有三彩团子！来，你和派蒙都有份，还有神里小姐和家主大人的…欸等下，我好像忘了准备自己的份。
+
+### 晚上好…
+
+快走快走，这个点去市场买鱼能便宜不少。要是心血来潮想买什么小玩意儿，我帮你砍价。
+
+### 晚安…
+
+嗯，晚安。你这一天也辛苦了吧。早点休息去吧，别熬夜。
+
+### 关于托马自己·家政官
+
+不论是神里小姐还是家主大人，最初都没打算让我担任家政官，还是我自告奋勇的。我很喜欢这些活，将一切打理得井井有条，特别有成就感。看大家的反应…嗯，我应该干得不错。
+
+### 关于托马自己·意义
+
+把居住的地方打扫干净，布置整齐，让所有生活在这里的人露出笑容，这就是家政的意义。至于现在…我会连带着为了你的份一起，好好努力的。
+
+### 关于我们·一人食
+
+怎么一个人在这儿安安静静吃饭？…嗯，你介不介意跟我一起？还是说你比较想一个人吃？
+
+### 关于我们·立誓
+
+要不是你在「狩眼仪式」上站出来，单枪匹马与将军对抗，我应该已经失去神之眼，失去愿望了。我想了很久，恐怕只有这样才配得上你挺身而出的觉悟——
+我，托马，愿献上我的武艺与忠诚。不惜一切，为你而战。
+
+### 关于「神之眼」…
+
+既然得到了神之眼，就得好好珍惜，我可不想把它弄丢了。
+
+### 有什么想要分享…
+
+以我长期和大家打交道的经验来看，比起蒙德人，稻妻人更加在意礼节。要是能始终保持礼貌的态度，事情会变得好办不少。
+
+### 感兴趣的见闻·狸猫
+
+我一直想见识狸猫的变化手段。传闻中，狸猫能够变化成各种各样的形态，跟路人开玩笑，是一种很有幽默感的生灵哦。
+
+### 感兴趣的见闻·动物
+
+你喜欢小动物吗？要是你也喜欢的话，下次我带你去城郊附近走走。到时候我一声口哨，好多可爱的小猫小狗就会钻出来，黏在你的脚边向你撒娇。哈哈，光是想象就觉得很开心了。
+
+### 关于八重神子…
+
+神子大人？为、为什么突然提她？唉，每次小姐派我出去送口信，我最不想去的就是鸣神大社了。啊，倒不是神子大人的气场让人发慌，而是，呃…是敬畏…敬畏！啊哈哈…
+
+### 关于雷电将军·比较
+
+在我的故乡蒙德，绝大多数人都尊敬着风神巴巴托斯大人。但稻妻人对待将军大人的态度就不同了。怎么说呢…除了爱戴与感激，好像还有些畏惧的成分。
+
+### 关于雷电将军·未知
+
+说实话，我对将军本人没什么怨恨。虽说她差点夺走我的神之眼，但那是因为她的立场特殊吧。立场不同是很正常的事情。
+我想不明白的，是她的目的。她所设想的永恒国度到底是什么样？为什么非得牺牲民众的愿望换取。我无法理解，也无法认同。
+
+### 关于北斗…
+
+「南十字」船队的大姐头可真是个飒爽的人呐。她曾经允诺带我去遥远的外海，看看封锁一切的雷暴是个什么样子。只是可惜，我一直没这个机会出去看看…
+
+### 关于神里绫人…
+
+家主大人也够不容易的了。时局动荡，人心不安，同僚里又有不少贪官败类，想想都头疼。我所能做的，也就是在生活方面给予些照顾了。
+
+### 关于神里绫华…
+
+神里小姐知书达理，心地善良又温柔端庄，就是不够坦率。欸对了，下次说话的时候，要是小姐又露出那副欲言又止的模样，你一定要主动些，多问问她的想法。
+
+### 关于宵宫…
+
+「长野原烟花店」的那位店长？她很容易相处的，算是心直口快的类型。哦对了，她家的烟花也是厉害得很，有机会一定要多看几次。喏，优惠券给你。
+
+### 关于早柚…
+
+唉，早柚太倔强了。不管我找她多少次，都不肯传授我忍术。甚至最近都刻意躲着我了…明明只是想求师而已，是我做得太过头了吗？
+
+### 关于九条裟罗…
+
+这位天领奉行麾下的将领，嗯…跟她交涉得拿出十二分的谨慎。她手握实权，又有点固执，嬉皮笑脸是绝对行不通的。
+
+### 关于荒泷一斗…
+
+那是市井传闻中的怪人，据说还拥有妖怪的血脉，你见过他了吗？要是你们熟络的话，帮我引荐引荐呗。广交朋友总是好事…妖怪朋友也算！
+
+### 关于鹿野院平藏…
+
+嚯，他可是天领奉行那边的「侦探」。他给人一种我行我素的感觉，不太容易打交道。另外，需要侦探出现的场合，一般也不会有什么好事。我还是和风暴中心保持距离吧。
+
+### 关于琴…
+
+古恩希尔德家的琴小姐做了西风骑士团的团长吗？的确合适，她的优秀正直是出了名的…哦，目前还只是代理团长吗？哈哈，那种名头根本无所谓啦。
+
+### 关于优菈…
+
+你还遇见过优菈·劳伦斯吗？我只知道，他们家的人脾气烂透了，最好不要有什么来往。啊，跟你聊这些，又想起了很多蒙德的往事…真好。
+
+### 想要了解托马·其一
+
+有什么需要我帮忙的吗？家中杂务，人际交往，一句话的事。欸？聊天吗…这样这样。那倒是需要更用心一些了。
+
+### 想要了解托马·其二
+
+我应该跟你提过吧？我不是土生土长的稻妻人。我是从蒙德一路坐船来的，因为喜欢这里的风土，又遇到了家主大人和神里小姐这样亲切的人，干脆就留了下来。
+
+### 想要了解托马·其三
+
+其实我也会有想老家的时候，所以，我特别能理解离岛上那些外国商人，也想尽量多关照关照。不同的是，他们只把自己当作一个过客，并不想融入稻妻，因此也就只是过客了。大多数稻妻人不会把他们当自己人。
+
+### 想要了解托马·其四
+
+对一些保守的稻妻人来说，一个外国人要做奉行家的家臣，是几乎不能想象的事。因此，我有过一段不受人待见的经历。要不是他俩力保，恐怕我早被赶走了。为了不辜负神里家的恩情，那之后我诚心努力了很久，最终才被大家接纳。
+
+### 想要了解托马·其五
+
+这话跟你说…应该没关系吧。有一阵子，我很想回老家去。毕竟蒙德才是我的故乡，但稻妻…我同样难以割舍。你看，我受过许多稻妻人的恩惠——神里家始终有留给我的房间，还有不是亲人胜似亲人的人。就算吃过苦头，但也是帮助我的人多。想来想去，觉得自己还是留在稻妻好。实在想念蒙德的时候…就找你聊聊好了。你不会嫌弃我唠叨吧？
+
+### 托马的爱好…
+
+最近的话，我比较喜欢怪谈故事，那些千变万化的妖怪实在是神奇。之前的话，对忍术也有不小的兴趣。嗯？三分钟热度？…不，不是这样的！
+
+### 托马的烦恼…
+
+我现在真的很烦恼。晚上大人要在家设宴招待朋友，说好了由我来露一手，做黄油蟹蟹撑场面的。结果这两天根本买不到螃蟹！难道我只能下水抓螃蟹了吗？
+
+### 喜欢的食物…
+
+要说我最喜欢的食物，那绝对是市井杂煮了。煮好香喷喷的一大锅，然后大家一起分着吃，又热闹又开心。
+
+### 讨厌的食物…
+
+食物的范围里没什么，但如果饮料也算的话…我不怎么能喝酒。别笑我，我也怀疑过自己是不是蒙德人了。不过…过量饮酒对身体有害，不喝酒，也是好事吧。
+
+### 生日…
+
+快跟我来，现在就来！你的生日我当然不会忘记，这不，准备好了一场大聚会。有吃有喝，还有一大帮你的朋友。嘿，这是纪念你诞生的好日子，我可不会让你一个人孤零零地过！
+
+### 突破的感受·起
+
+这样就能变强吗？不是在开玩笑吧，我还有衣服没洗完呢。
+
+### 突破的感受·承
+
+似乎…有一股火焰在我心中燃烧。
+
+### 突破的感受·转
+
+拥有了强大的力量，要用来做什么呢？嗯…得好好考虑考虑了啊。
+
+### 突破的感受·合
+
+谢谢你对我的信赖。你给予我的恩惠，比火焰更温暖。放心吧，我找到自己想做的事了。这份力量将化作坚盾，一直守护你。
+
+### 元素战技·其一
+
+火之盾！
+
+### 元素战技·其二
+
+看看这个。
+
+### 元素战技·其三
+
+小心着火。
+
+### 元素爆发·其一
+
+后援登场。
+
+### 元素爆发·其二
+
+护持之火！
+
+### 元素爆发·其三
+
+我来守护你。
+
+### 打开宝箱·其一
+
+里面有什么好东西呢？
+
+### 打开宝箱·其二
+
+哟，果然今天运势大吉。
+
+### 打开宝箱·其三
+
+嘿嘿，见者有份。
+
+### 生命值低·其一
+
+喂！有必要吗？
+
+### 生命值低·其二
+
+惨了惨了…
+
+### 生命值低·其三
+
+嘶，有那么点疼…
+
+### 同伴生命值低·其一
+
+别怕，我会保护你的。
+
+### 同伴生命值低·其二
+
+真是乱来，快去歇着。
+
+### 倒下·其一
+
+要回老家了啊…
+
+### 倒下·其二
+
+各位…保重。
+
+### 倒下·其三
+
+没能尽到…守护的职责…
+
+### 重受击·其一
+
+疼疼疼。
+
+### 重受击·其二
+
+住手！
+
+### 加入队伍·其一
+
+好吧，家务待会再说。
+
+### 加入队伍·其二
+
+出门找点新朋友。
+
+### 加入队伍·其三
+
+这次去哪儿转转？
+
+### 收到赠礼·其一
+
+好香！我还想再添一碗米饭！
+
+### 收到赠礼·其二
+
+你还有时间吗？和我一起分享厨艺心得吧！
+
+### 收到赠礼·其三
+
+没怎么尝试过的味道…虽然也不坏吧。

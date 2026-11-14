@@ -21,6 +21,9 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: Созерцание луны
+# game_source_ids: 76131,76143
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 30
 
 ## RU
 
@@ -30,15 +33,19 @@
 
 #### Отправляйтесь на обратную сторону Луны
 
-Я готов(а).
+- **Путешественник:** Подожди.
+
+**Коломбина:** Хорошо, буду ждать тебя здесь.
+
+**Коломбина:** Готов? / Готова?
+
+- **Путешественник:** Я готов. / Я готова.
 
 **Коломбина:** Тогда в путь. Следуйте за мной, как и в прошлый раз.
 
 #### Отправляйтесь на обратную сторону Луны
 
-Подожди.
-
-**Коломбина:** Хорошо, буду ждать тебя здесь.
+#### Найдите способ проникнуть внутрь базы
 
 #### Найдите способ проникнуть внутрь базы
 
@@ -46,7 +53,7 @@
 
 **Паймон:** Кто бы мог подумать, что база до сих пор работает. Поразительно.
 
-Ну, это же технология драконов.
+- **Путешественник:** Ну, это же технология драконов.
 
 **Коломбина:** В таком случае давайте не будем отвлекать их от дел.
 
@@ -64,13 +71,233 @@
 
 #### Пройдите вглубь базы
 
+#### Активируйте терминал
+
+**Паймон:** Отлично! Ещё один терминал!
+
+**Паймон:** Твой выход, Яйцо!
+
+**Яйцо:** Терминал активирован. Отправляю запрос на получение данных базы.
+
+**Яйцо:** Данные базы получены.
+
+**Яйцо:** Начинаю поиск по запросу «проект "Созерцатель луны"»... Ничего не найдено.
+
+**Яйцо:** Начинаю поиск по запросу «Лусалим»... Есть!
+
+**Яйцо:** Я нашла исследовательскую лабораторию Лусалима внутри базы.
+
+**Паймон:** Хе-хе, вот это находка! Скорее пойдём посмотрим!
+
+**Яйцо:** Изучаю инженерные схемы и маршруты базы... Хм... Достаточно идти вперёд, и мы будем на месте.
+
+- **Путешественник:** Есть ещё какая-нибудь информация?
+
+**Яйцо:** Начинаю поиск дополнительной информации... Хм? «Властелин тьмы, вернувшийся из звёздного моря»?
+
+**Паймон:** Что это ещё такое?
+
+**Яйцо:** Данные свидетельствуют о том, что существование этой базы... продиктовано волей «Властелина тьмы».
+
+**Яйцо:** Эта постройка была возведена позже всех остальных, что нам встречались. Её нижние уровни ведут к ядру Луны, в котором есть расселина.
+
+**Яйцо:** Из трещины в ядре вырывается нескончаемый поток энергии древних лун, питающий базу.
+
+**Яйцо:** Её цель - превратить Луну в... космическое оружие!
+
+**Паймон:** К-космическое оружие? Тогда получается, что этот Властелин тьмы...
+
+- **Путешественник:** Вероятно, это вернувшийся Владыка драконов Нибелунг.
+
+**Паймон:** Владыка драконов вернулся?! Ух ты, мы особенные, раз оказались в таком месте...
+
+**Паймон:** Сначала небесный порядок, потом Владыка драконов, а теперь и мы!
+
+- **Путешественник:** К звёздам и к безднам!
+
+**Паймон:** Если так, то... дальше нам нужно быть во сто раз осторожнее!
+
+**Паймон:** Коломбина, если вдруг что-то пойдёт не так, ты защитишь нас? А? Коломбина? Коломбина, ты где?
+
+**Паймон:** Путешественник! Коломбина исчезла!
+
+- **Путешественник:** ...Когда?
+
+**Паймон:** Паймон не заметила, как это произошло... Яйцо, ты видела Коломбину?
+
+**Яйцо:** Нет, я читала информацию в терминале...
+
+**Паймон:** Ой-ой, это ужасно... Наша защитница исчезла! Только не говорите Паймон, что здесь обитают привидения!
+
+- **Путешественник:** (Коломбина никогда не ушла бы, не попрощавшись. Должна быть веская причина.)
+
+- **Путешественник:** (Дело в Яйце? Нет, она всё время читала информацию с терминала.)
+
+- **Путешественник:** (Неужели...)
+
+**Коломбина:** К тому же здесь у меня возникает странное ощущение, что это место мне знакомо...
+
+- **Путешественник:** (Похоже, исчезновение Коломбины связано с тем чувством, о котором она говорила, - ей всё казалось здесь знакомым. Что же находится на этой базе?)
+
+**Паймон:** Путешественник, что делать?!
+
+##### Вариант ответа 1
+
+- **Путешественник:** Пойдём в лабораторию Лусалима.
+
+**Яйцо:** Да. Там мы наверняка узнаем секреты, которые скрывает эта база. А значит, сможем найти подсказки, касающиеся исчезновения Коломбины.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Учитывая ситуацию, отступаем.
+
+**Паймон:** Паймон понимает, что ты шутишь, чтобы успокоить... Паймон нужно набраться смелости!
+
+**Паймон:** Мы должны найти Коломбину. Мы не оставим её здесь!
+
+**Яйцо:** Нужно попасть в лабораторию Лусалима. Там кроются тайны базы, там мы можем узнать больше об исчезновении Коломбины.
+
+##### Общее продолжение
+
+**Яйцо:** Но для этого нужно преодолеть системы безопасности, расположенные впереди, и мы не можем допустить, чтобы по всей базе включилась тревога.
+
+**Паймон:** Есть способ отключить систему оповещения? Сейчас Паймон посмотрит...
+
+##### Вариант ответа 1
+
+- **Путешественник:** Осмотреть
+
+**Паймон:** Тот проход ведёт к лаборатории Лусалима, но нам нужно найти способ отключить систему безопасности!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Осмотреть
+
+**Паймон:** Похоже, эта комната ведёт на второй этаж.
+
+##### Вариант ответа 3
+
+- **Путешественник:** Осмотреть
+
+**Яйцо:** Согласно чертежам, комнаты на втором этаже слева и справа - это рубки управления.
+
+##### Вариант ответа 4
+
+- **Путешественник:** Осмотреть
+
+**Паймон:** Произошло обрушение. Дальше дороги нет.
+
+##### Вариант ответа 5
+
+- **Путешественник:** Осмотреть
+
+**Яйцо:** Согласно чертежам, комнаты на втором этаже слева и справа - это рубки управления.
+
+##### Общее продолжение
+
+**Паймон:** Нужно пройти через комнату слева, чтобы подняться на второй этаж. Там находится рубка управления.
+
+**Паймон:** Давай найдём способ незаметно пробраться туда.
+
+#### Найдите способ отключить сигнализацию впереди
+
+#### Изучите левую рубку управления
+
+#### Изучите левую рубку управления
+
+#### Изучите механизмы
+
+**Паймон:** Эта штука сможет отключить систему безопасности?
+
+**Яйцо:** Да, это устройство управления.
+
+**Яйцо:** Но нужно отключить системы безопасности и здесь, и в комнате справа, причём сделать это нужно быстро, одно за другим.
+
+**Паймон:** Значит, как только мы отключим систему безопасности здесь, нам нужно со всех ног мчаться в другую рубку управления?
+
+- **Путешественник:** Задача ясна.
+
+#### Отключите два контроллера сигнализации за отведённое время
+
+#### Отключите два контроллера сигнализации за отведённое время
+
+#### Отключите два контроллера сигнализации за отведённое время
+
+#### Отключите два контроллера сигнализации за отведённое время
+
+#### Отключите два контроллера сигнализации за отведённое время
+
+#### Двигайтесь вперёд
+
+#### Двигайтесь вперёд
+
+**Паймон:** Ой-ой! Нас заметили!
+
+**Яйцо:** Сюда!
+
+#### Двигайтесь вперёд
+
+#### Найдите способ пройти через прожекторное заграждение
+
+#### Двигайтесь вперёд
+
+#### Двигайтесь вперёд
+
+#### Найдите способ пройти через блокаду
+
+#### Отыщите зацепки в лаборатории
+
+#### Отыщите зацепки в лаборатории
+
+**Паймон:** А? Эта штука ещё работает?
+
+**Паймон:** А вдруг там есть какая-то информация? Давайте откроем и посмотрим.
+
+**Паймон:** Так это и есть послание, которое инопланетное существо передало драконам?..
+
+**Яйцо:** Вот оно что...
+
+**Паймон:** Выходит, проект «Созерцатель луны» был призван отправить сообщение обратно во Вселенную?
+
+**Паймон:** Если дело только в этом, почему нельзя было использовать Око Ибни-Белума?
+
+**Паймон:** Может, Паймон что-то упустила? Паймон ещё раз проверит!
+
+**Паймон:** Ого! В конце есть сноска!
+
+**Паймон:** «Моей "дочери", Нин Нин».
+
+**Паймон:** Нин Нин?! Стоп!.. Яйцо, так ты дочь Лусалима?!
+
+**Паймон:** Тогда как ты стала такой?!
+
+**Яйцо:** Я... Я не знаю... У меня нет этих воспоминаний... Почему я ничего не помню?
+
+- **Путешественник:** Нам нужно осмотреть ядро Луны.
+
+**Паймон:** Н-но как же Коломбина? Мы всё ещё не нашли ни единой зацепки, связанной с её исчезновением...
+
+- **Путешественник:** Её исчезновение может быть связано с ядром Луны.
+
+**Паймон:** Точно, то знакомое чувство, о котором она говорила, должно быть связано с ядром Луны... Паймон предлагает поторопиться!
+
+#### Отправляйтесь к ядру Луны
+
+#### Отправляйтесь к ядру Луны
+
+#### Отправляйтесь к ядру Луны
+
+#### Сопротивляйтесь гравитационной аномалии
+
+#### Поговорите с Коломбиной
+
 **Паймон:** Ой? Гравитация вернулась в норму...
 
 **Паймон:** Коломбина! Ты вернулась! Это ты решила проблему? Как вовремя...
 
 **Паймон:** Мы очень переживали. Где ты была?
 
-Ты в порядке?
+- **Путешественник:** Ты в порядке?
 
 **Коломбина:** Простите. Я не ожидала, что нижние уровни этой базы уходят прямо к ядру Луны, где сконцентрирована чрезвычайно мощная энергия древних лун.
 
@@ -118,7 +345,7 @@
 
 **Коломбина:** Я понимаю. Спасибо тебе, Нин Нин. Я скоро вернусь.
 
-Коломбина, я пойду с тобой.
+- **Путешественник:** Коломбина, я пойду с тобой.
 
 **Коломбина:** Хорошо.
 
@@ -146,7 +373,7 @@
 
 **Паймон:** В таком случае Паймон увеличит твою долю на одну порцию! Теперь тебе достанется три, а Паймон - семь.
 
-Паймон ведёт себя как старшая сестра. Дети быстро растут.
+- **Путешественник:** Паймон ведёт себя как старшая сестра. Дети быстро растут.
 
 **Паймон:** Чего ты так удивляешься? Паймон видела, как взрослеет Яйцо!
 
@@ -154,173 +381,21 @@
 
 **Коломбина:** Путешественник, пойдём со мной.
 
-#### Активируйте терминал
+#### Следуйте за Коломбиной к ядру Луны
 
-**Паймон:** Отлично! Ещё один терминал!
-
-**Паймон:** Твой выход, Яйцо!
-
-**Яйцо:** Терминал активирован. Отправляю запрос на получение данных базы.
-
-**Яйцо:** Данные базы получены.
-
-**Яйцо:** Начинаю поиск по запросу «проект "Созерцатель луны"»... Ничего не найдено.
-
-**Яйцо:** Начинаю поиск по запросу «Лусалим»... Есть!
-
-**Яйцо:** Я нашла исследовательскую лабораторию Лусалима внутри базы.
-
-**Паймон:** Хе-хе, вот это находка! Скорее пойдём посмотрим!
-
-**Яйцо:** Изучаю инженерные схемы и маршруты базы... Хм... Достаточно идти вперёд, и мы будем на месте.
-
-Есть ещё какая-нибудь информация?
-
-**Яйцо:** Начинаю поиск дополнительной информации... Хм? «Властелин тьмы, вернувшийся из звёздного моря»?
-
-**Паймон:** Что это ещё такое?
-
-**Яйцо:** Данные свидетельствуют о том, что существование этой базы... продиктовано волей «Властелина тьмы».
-
-**Яйцо:** Эта постройка была возведена позже всех остальных, что нам встречались. Её нижние уровни ведут к ядру Луны, в котором есть расселина.
-
-**Яйцо:** Из трещины в ядре вырывается нескончаемый поток энергии древних лун, питающий базу.
-
-**Яйцо:** Её цель - превратить Луну в... космическое оружие!
-
-**Паймон:** К-космическое оружие? Тогда получается, что этот Властелин тьмы...
-
-Вероятно, это вернувшийся Владыка драконов Нибелунг.
-
-**Паймон:** Владыка драконов вернулся?! Ух ты, мы особенные, раз оказались в таком месте...
-
-**Паймон:** Сначала небесный порядок, потом Владыка драконов, а теперь и мы!
-
-К звёздам и к безднам!
-
-**Паймон:** Если так, то... дальше нам нужно быть во сто раз осторожнее!
-
-**Паймон:** Коломбина, если вдруг что-то пойдёт не так, ты защитишь нас? А? Коломбина? Коломбина, ты где?
-
-**Паймон:** Путешественник! Коломбина исчезла!
-
-...Когда?
-
-**Паймон:** Паймон не заметила, как это произошло... Яйцо, ты видела Коломбину?
-
-**Яйцо:** Нет, я читала информацию в терминале...
-
-**Паймон:** Ой-ой, это ужасно... Наша защитница исчезла! Только не говорите Паймон, что здесь обитают привидения!
-
-(Коломбина никогда не ушла бы, не попрощавшись. Должна быть веская причина.)
-
-(Дело в Яйце? Нет, она всё время читала информацию с терминала.)
-
-(Неужели...)
-
-**Коломбина:** К тому же здесь у меня возникает странное ощущение, что это место мне знакомо...
-
-(Похоже, исчезновение Коломбины связано с тем чувством, о котором она говорила, - ей всё казалось здесь знакомым. Что же находится на этой базе?)
-
-**Паймон:** Путешественник, что делать?!
-
-- **Путешественник:** Пойдём в лабораторию Лусалима.
-
-- **Путешественник:** Учитывая ситуацию, отступаем.
-
-**Яйцо:** Да. Там мы наверняка узнаем секреты, которые скрывает эта база. А значит, сможем найти подсказки, касающиеся исчезновения Коломбины.
-
-**Паймон:** Паймон понимает, что ты шутишь, чтобы успокоить... Паймон нужно набраться смелости!
-
-**Паймон:** Мы должны найти Коломбину. Мы не оставим её здесь!
-
-**Яйцо:** Нужно попасть в лабораторию Лусалима. Там кроются тайны базы, там мы можем узнать больше об исчезновении Коломбины.
-
-**Яйцо:** Но для этого нужно преодолеть системы безопасности, расположенные впереди, и мы не можем допустить, чтобы по всей базе включилась тревога.
-
-**Паймон:** Есть способ отключить систему оповещения? Сейчас Паймон посмотрит...
-
-- **Путешественник:** Осмотреть
-
-**Паймон:** Тот проход ведёт к лаборатории Лусалима, но нам нужно найти способ отключить систему безопасности!
-
-**Паймон:** Похоже, эта комната ведёт на второй этаж.
-
-**Яйцо:** Согласно чертежам, комнаты на втором этаже слева и справа - это рубки управления.
-
-**Паймон:** Произошло обрушение. Дальше дороги нет.
-
-**Яйцо:** Согласно чертежам, комнаты на втором этаже слева и справа - это рубки управления.
-
-**Паймон:** Нужно пройти через комнату слева, чтобы подняться на второй этаж. Там находится рубка управления.
-
-**Паймон:** Давай найдём способ незаметно пробраться туда.
-
-#### Изучите механизмы
-
-**Паймон:** Эта штука сможет отключить систему безопасности?
-
-**Яйцо:** Да, это устройство управления.
-
-**Яйцо:** Но нужно отключить системы безопасности и здесь, и в комнате справа, причём сделать это нужно быстро, одно за другим.
-
-**Паймон:** Значит, как только мы отключим систему безопасности здесь, нам нужно со всех ног мчаться в другую рубку управления?
-
-Задача ясна.
-
-#### Отключите два контроллера сигнализации за отведённое время
-
-**Коломбина:** Готов(а)?
-
-#### Двигайтесь вперёд
-
-**Паймон:** Ой-ой! Нас заметили!
-
-**Яйцо:** Сюда!
-
-#### Отыщите зацепки в лаборатории
-
-**Паймон:** А? Эта штука ещё работает?
-
-**Паймон:** А вдруг там есть какая-то информация? Давайте откроем и посмотрим.
-
-**Паймон:** Так это и есть послание, которое инопланетное существо передало драконам?..
-
-**Яйцо:** Вот оно что...
-
-**Паймон:** Выходит, проект «Созерцатель луны» был призван отправить сообщение обратно во Вселенную?
-
-**Паймон:** Если дело только в этом, почему нельзя было использовать Око Ибни-Белума?
-
-**Паймон:** Может, Паймон что-то упустила? Паймон ещё раз проверит!
-
-**Паймон:** Ого! В конце есть сноска!
-
-**Паймон:** «Моей "дочери", Нин Нин».
-
-**Паймон:** Нин Нин?! Стоп!.. Яйцо, так ты дочь Лусалима?!
-
-**Паймон:** Тогда как ты стала такой?!
-
-**Яйцо:** Я... Я не знаю... У меня нет этих воспоминаний... Почему я ничего не помню?
-
-Нам нужно осмотреть ядро Луны.
-
-**Паймон:** Н-но как же Коломбина? Мы всё ещё не нашли ни единой зацепки, связанной с её исчезновением...
-
-Её исчезновение может быть связано с ядром Луны.
-
-**Паймон:** Точно, то знакомое чувство, о котором она говорила, должно быть связано с ядром Луны... Паймон предлагает поторопиться!
+#### Следуйте за Коломбиной к ядру Луны
 
 ### Проект «Созерцатель луны»
 
 В ходе предыдущих приключений вы узнали немало важных тайн, однако загадки проекта «Созерцатель луны» и Нин Нин так и остались неразгаданными. Поэтому вы решили отправиться на поиски последней цели этого путешествия...
 
+#### Прыгните в Лунный кратер
+
 #### Пройдите через пусковую шахту
 
 **Коломбина:** Мы спустились.
 
-Это ядро Луны?
+- **Путешественник:** Это ядро Луны?
 
 **Коломбина:** Нет, ядро Луны впереди. Раз ты со мной, придётся воспользоваться обычным способом, чтобы туда попасть.
 
@@ -336,15 +411,25 @@
 
 #### Идите по правильному пути
 
+#### Идите по правильному пути
+
+#### Идите по правильному пути
+
+#### Прыгните в Лунный кратер
+
+#### Откройте проход к ядру Луны
+
+#### Откройте проход к ядру Луны
+
 **Коломбина:** Нам нужно открыть эту дверь.
 
-Для этого нужен ключ.
+- **Путешественник:** Для этого нужен ключ.
 
 **Коломбина:** Ключ у тебя.
 
 **Коломбина:** Это последний объект Лусалима - предыдущим была лаборатория Лунной завесы, которая превратилась в Лунное море.
 
-Ты говоришь про Исток древней луны?
+- **Путешественник:** Ты говоришь про Исток древней луны?
 
 **Коломбина:** Да.
 
@@ -352,41 +437,43 @@
 
 **Коломбина:** Им нас не остановить.
 
-#### Идите по правильному пути
+#### Победите последнего защитника
 
-**Коломбина:** Магис вернулась с Паймон и Нин Нин. Как будешь готов(а), мы тоже отправимся в путь.
+#### Уклоняйтесь от высокоэнергетических орудий
 
-- **Путешественник:** Готов(а).
+#### Победите последнего защитника
 
-- **Путешественник:** Подожди.
-
-**Коломбина:** Тогда идём.
-
-**Коломбина:** Хорошо, но лучше не затягивать.
+#### Победите последнего защитника
 
 #### Отправляйтесь к ядру Луны
 
+#### Отправляйтесь к ядру Луны
+
+#### Следуйте за Коломбиной
+
+#### Следуйте за Коломбиной
+
 **Коломбина:** Путешествие подошло к концу. Она и есть ключ к запуску проекта «Созерцатель луны».
 
-Кто?
+- **Путешественник:** Кто?
 
 **Коломбина:** След, оставленный здесь последним наследником проекта.
 
 **Коломбина:** Она всё объяснит.
 
-**След Нин-Киггии:** Эй! Привет.
+**???:** Эй! Привет.
 
-Привет?
+- **Путешественник:** Привет?
 
 **След Нин-Киггии:** Меня зовут Нин-Киггия. Можете звать меня Нин Нин. Так меня обычно называют.
 
 **След Нин-Киггии:** Как тебя зовут? Ибни-Белум? Унгиен? Магис? Или ты Лусалим?
 
-Я Путешественник.
+- **Путешественник:** Я Путешественник.
 
 **След Нин-Киггии:** Хе-хе, не нужно отвечать. К сожалению, меня больше нет. Это всего лишь запись.
 
-**След Нин-Киггии:** Но, если посмотреть на это с другой стороны, то нет повода для печали. Ты здесь, а это значит, что план удался - ты унаследовал(а) нашу миссию.
+**След Нин-Киггии:** Но, если посмотреть на это с другой стороны, то нет повода для печали. Ты здесь, а это значит, что план удался - ты унаследовал нашу миссию. / Но, если посмотреть на это с другой стороны, то нет повода для печали. Ты здесь, а это значит, что план удался - ты унаследовала нашу миссию.
 
 **След Нин-Киггии:** У тебя, должно быть, осталось ещё много вопросов. Например, кто я?
 
@@ -404,7 +491,7 @@
 
 **След Нин-Киггии:** Возможно, ты унаследуешь имя кого-нибудь из предшественников в этом море информации, а может быть, и нет, но, скорее всего, ты помнишь, что у тебя есть миссия.
 
-Так вот как родилась Яйцо...
+- **Путешественник:** Так вот как родилась Яйцо...
 
 **След Нин-Киггии:** Далее следует поблагодарить госпожу Магис, которая раскрыла природу нашего космического гостя - формы жизни, основанной на данных. Её исследования послужили основой, благодаря которой ты появилась на свет.
 
@@ -424,7 +511,7 @@
 
 **След Нин-Киггии:** Если подумать, вполне возможно, что ты унаследуешь моё имя, ха-ха.
 
-**След Нин-Киггии:** Пора прощаться, иди и выполни свою миссию. И в заключение... приветствую тебя и всех созерцателей лузвёздного небаны.
+**След Нин-Киггии:** Пора прощаться, иди и выполни свою миссию. И в заключение... приветствую тебя и всех созерцателей лу(звёздного неба)ны.
 
 **Коломбина:** Вот так. Путешественник.
 
@@ -436,7 +523,7 @@
 
 **Коломбина:** Они станут ключом и откроют модуль Ока Ибни-Белума, чтобы снова отправить сообщение во Вселенную.
 
-Затем они вернутся в круговорот жизни...
+- **Путешественник:** Затем они вернутся в круговорот жизни...
 
 **Коломбина:** Этот цикл повторяется уже не раз.
 
@@ -448,17 +535,17 @@
 
 **Коломбина:** Но мир в Тейвате восстановлен, по крайней мере, на данный момент.
 
-(Если сигнал, отправленный на этот раз, привлечёт внимание тьмы, обитающей среди звёзд...)
+- **Путешественник:** (Если сигнал, отправленный на этот раз, привлечёт внимание тьмы, обитающей среди звёзд...)
 
 **Коломбина:** Я выполню обещание и отдам ключ и сообщение Нин Нин.
 
 **Коломбина:** Как думаешь, нам следует помешать ей выполнить миссию? Или лучше поддержать её?
 
-Мне нужно время всё обдумать.
+- **Путешественник:** Мне нужно время всё обдумать.
 
 **Коломбина:** Я понимаю. Тогда давай вернёмся в самую первую башню созерцателей луны.
 
-А как же Паймон и Нин Нин?
+- **Путешественник:** А как же Паймон и Нин Нин?
 
 **Коломбина:** Не волнуйся, Магис их заберёт.
 
@@ -466,15 +553,35 @@
 
 **Коломбина:** Пошли. Пора уходить.
 
+#### Вернитесь в башню созерцателей луны
+
+#### Вернитесь в башню созерцателей луны
+
+**Коломбина:** Магис вернулась с Паймон и Нин Нин. Как будешь готов, мы тоже отправимся в путь. / Магис вернулась с Паймон и Нин Нин. Как будешь готова, мы тоже отправимся в путь.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Готов. / Готова.
+
+**Коломбина:** Тогда идём.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Подожди.
+
+**Коломбина:** Хорошо, но лучше не затягивать.
+
+#### Вернитесь в башню созерцателей луны
+
 #### Поговорите с Яйцом
 
 **Коломбина:** Мы вернулись.
 
 **Паймон:** Путешественник, Коломбина, ваша экспедиция в ядро Луны завершилась успешно!
 
-Мы многое узнали.
+- **Путешественник:** Мы многое узнали.
 
-**Паймон:** О? Ты узнал(а) о происхождении Яйца и о проекте «Созерцатель луны»?
+**Паймон:** О? Ты узнал о происхождении Яйца и о проекте «Созерцатель луны»? / О? Ты узнала о происхождении Яйца и о проекте «Созерцатель луны»?
 
 **Коломбина:** Да, и ключ для открытия модуля «Созерцателя луны» тоже здесь.
 
@@ -488,7 +595,7 @@
 
 **Паймон:** Коломбина? Путешественник? Почему такие мрачные?
 
-Потому что её миссия связана с непредсказуемыми рисками.
+- **Путешественник:** Потому что её миссия связана с непредсказуемыми рисками.
 
 **Яйцо:** Какими рисками?
 
@@ -534,11 +641,11 @@
 
 **Яйцо:** Пока голоса звучат, во Вселенной не сможет воцариться тишина, и этого достаточно.
 
-**Коломбина:** Путешественник... Ты всё обдумал(а)?
+**Коломбина:** Путешественник... Ты всё обдумал? / Путешественник... Ты всё обдумала?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Думаю, стоит в последний раз реализовать проект «Созерцатель луны».
-
-- **Путешественник:** Очень жаль, но мы не можем рисковать.
 
 **Коломбина:** Да, я тоже так думаю.
 
@@ -560,9 +667,15 @@
 
 **Паймон:** А? Что ты имеешь в виду?
 
+##### Вариант ответа 2
+
+- **Путешественник:** Очень жаль, но мы не можем рисковать.
+
 **Коломбина:** А что, если я смогу использовать силу Богини Луны, чтобы прикрыть сообщение, которое отправит Нин Нин?
 
-Что ты имеешь в виду?
+- **Путешественник:** Что ты имеешь в виду?
+
+##### Общее продолжение
 
 **Коломбина:** Куувяки и энергия древних лун по своей сути являются силой Мира света. Я могу вложить свою силу в сообщение, которое отправит Нин Нин.
 
@@ -576,7 +689,7 @@
 
 **Коломбина:** Я постараюсь максимально замаскировать сообщение. Тогда его источник будет не так легко отследить.
 
-Звучит вполне реалистично.
+- **Путешественник:** Звучит вполне реалистично.
 
 **Яйцо:** Но... ты не пострадаешь?
 
@@ -596,9 +709,15 @@
 
 **Коломбина:** Да. Для меня это более чем веская причина.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Созерцатели луны...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Приветствую вас всех.
+
+##### Общее продолжение
 
 **Паймон:** П-Паймон тоже!
 
@@ -628,7 +747,7 @@
 
 **Яйцо:** Тогда однажды, обязательно пробьётся луч света, который станет рассветом, пронзающим ночную тьму.
 
-**Яйцо:** И наконец... мы... созерцатели лузвёздного небаны из неприметного уголка Вселенной...
+**Яйцо:** И наконец... мы... созерцатели лу(звёздного неба)ны из неприметного уголка Вселенной...
 
 **Яйцо:** Наши имена...
 
@@ -650,7 +769,7 @@
 
 **Паймон:** Её шляпа...
 
-Ты в порядке, Коломбина?
+- **Путешественник:** Ты в порядке, Коломбина?
 
 **Коломбина:** Со мной всё в порядке. Но сейчас мне нужно сосредоточиться, пока моя сила не достигнет предела.
 
@@ -680,9 +799,9 @@
 
 **Терминал:** (...Помехи в сигнале...)
 
-**Терминал:** Всё в порядке, Итэр / Люмин? Что случилось?
+**Терминал:** Всё в порядке, Итэр? Что случилось? / Всё в порядке, Люмин? Что случилось?
 
-**Терминал:** ...Уже иду, Люмин / Итэр...
+**Терминал:** ...Уже иду, Люмин... / ...Уже иду, Итэр...
 
 **Терминал:** (...Помехи в сигнале...)
 
@@ -700,15 +819,19 @@ During your previous adventures, you have learned some very important secrets in
 
 #### Go to the reverse side of the moon
 
-We're ready.
+- **Traveler:** Give us a moment.
+
+**Columbina:** Don't worry. I'll be waiting right here.
+
+**Columbina:** Are you ready?
+
+- **Traveler:** We're ready.
 
 **Columbina:** Let's go, then. Follow me closely, just like before.
 
 #### Go to the reverse side of the moon
 
-Give us a moment.
-
-**Columbina:** Don't worry. I'll be waiting right here.
+#### Find a way to enter the base
 
 #### Find a way to enter the base
 
@@ -716,7 +839,7 @@ Give us a moment.
 
 **Paimon:** Who would've thought this base would still be operational? This is crazy.
 
-That's dragon-tech for you.
+- **Traveler:** That's dragon-tech for you.
 
 **Columbina:** In that case, let's not disturb the fruits of their labor.
 
@@ -734,13 +857,233 @@ That's dragon-tech for you.
 
 #### Move deeper into the base
 
+#### Activate the terminal
+
+**Paimon:** Great! Here's another terminal!
+
+**Paimon:** Your time to shine, Eggie!
+
+**Eggie:** Terminal activated. Requesting base data.
+
+**Eggie:** Base data acquired.
+
+**Eggie:** Searching for Project Moongazer... No data.
+
+**Eggie:** Searching for Lusalim... There we go!
+
+**Eggie:** I've located Lusalim's research lab. It's inside this base.
+
+**Paimon:** Haha, jackpot! Let's hurry over and check it out!
+
+**Eggie:** Reading the base's engineering schematics and routes... Hmm... We just need to keep going forward, and we'll get there.
+
+- **Traveler:** Is there any other intel?
+
+**Eggie:** Retrieving other data... Huh? "The Lord of Darkness Who Returned From the Sea of Stars"?
+
+**Paimon:** Who's that?
+
+**Eggie:** The data indicates that the existence of this base... stems from the will of this "Lord of Darkness."
+
+**Eggie:** Its construction also dates to a much later time than any of the other facilities we've visited. Its bottom-most levels lead to the moon's core, into which a fissure has been carved.
+
+**Eggie:** An endless stream of ancient moon energy surges from the fissure — it's what powers this base.
+
+**Eggie:** Its purpose was to turn the moon into... a space-based weapon!
+
+**Paimon:** S—Space-based weapon? Wait, is this "Lord of Darkness"...
+
+- **Traveler:** It's probably the returning dragon king, Nibelung.
+
+**Paimon:** So the dragon king returned!? Wow, we must be pretty special to have stumbled into a place like this...
+
+**Paimon:** First, the Heavenly Principles arrived, then the dragon king, and now us!
+
+- **Traveler:** Ad astra abyssosque, as they say.
+
+**Paimon:** In that case, we're gonna have to be really careful how we proceed.
+
+**Paimon:** If something goes wrong, Columbina, you gotta protect us, okay— Huh? Hang on. Where's Columbina?
+
+**Paimon:** She's gone!
+
+- **Traveler:** ...When did that happen?
+
+**Paimon:** Paimon didn't even notice her leaving... Eggie, did you see where Columbina went?
+
+**Eggie:** No, I was extracting the data from the terminal...
+
+**Paimon:** O—Oh no... The one person keeping us safe just disappeared! Is this place... haunted or something?
+
+- **Traveler:** (Columbina wouldn't leave without saying something. There must be some reason for this.)
+
+- **Traveler:** (Something related to Eggie, perhaps? No, she was reading the data on the terminal.)
+
+- **Traveler:** (Could it have been...?)
+
+**Columbina:** Also, now we're here, that strange sense of familiarity is only growing stronger...
+
+- **Traveler:** (Columbina's disappearance might have something to do with that sense of familiarity she mentioned. What exactly is hiding inside this base?)
+
+**Paimon:** What do we do now!?
+
+##### Response branch 1
+
+- **Traveler:** We go to Lusalim's laboratory.
+
+**Eggie:** Yes. That place must hold the secrets this base conceals. We might find some clues about Columbina's disappearance there.
+
+##### Response branch 2
+
+- **Traveler:** Considering the situation, we might want to fall back.
+
+**Paimon:** Paimon can tell you're just joking to keep the mood light... Be brave, Paimon, be brave!
+
+**Paimon:** We're gonna find Columbina! We're not leaving her behind!
+
+**Eggie:** We should head to Lusalim's lab. That place must hold the secrets this base conceals. We might find some clues about Columbina's disappearance there.
+
+##### Shared continuation
+
+**Eggie:** That said, our route requires us to pass through the security systems ahead — we can't afford to trigger a base-wide alarm.
+
+**Paimon:** Is there a way to disable the security somehow? Let Paimon see...
+
+##### Response branch 1
+
+- **Traveler:** Observe
+
+**Paimon:** That route over there leads to Lusalim's lab, but we gotta find a way to switch the security off first!
+
+##### Response branch 2
+
+- **Traveler:** Observe
+
+**Paimon:** Looks like this room leads to the second floor.
+
+##### Response branch 3
+
+- **Traveler:** Observe
+
+**Eggie:** The blueprints show that the security control rooms are on the second floor of the left and right wings.
+
+##### Response branch 4
+
+- **Traveler:** Observe
+
+**Paimon:** Looks like there's been a cave-in. There's no way through.
+
+##### Response branch 5
+
+- **Traveler:** Observe
+
+**Eggie:** The blueprints show that the security control rooms are on the second floor of the left and right wings.
+
+##### Shared continuation
+
+**Paimon:** Looks like we need to reach the second floor through the room on the left. That's where the security control room is.
+
+**Paimon:** How about we find a way to sneak in and check it out?
+
+#### Try to shut off the security system up ahead
+
+#### Investigate the control room on the left
+
+#### Investigate the control room on the left
+
+#### Investigate the device
+
+**Paimon:** Can we turn off the security system with this?
+
+**Eggie:** That's right, these are the security controls.
+
+**Eggie:** But it seems we need to shut down both the security controls here and in the room on the right — and we need to do it in quick succession.
+
+**Paimon:** So that means once we turn the security system off here, we've gotta hurry over to the other control room as fast as we can, right?
+
+- **Traveler:** Understood.
+
+#### Shut off both security control devices within the time limit
+
+#### Shut off both security control devices within the time limit
+
+#### Shut off both security control devices within the time limit
+
+#### Shut off both security control devices within the time limit
+
+#### Shut off both security control devices within the time limit
+
+#### Continue onward
+
+#### Continue onward
+
+**Paimon:** Oh no! We've been spotted!
+
+**Eggie:** Over here!
+
+#### Continue onward
+
+#### Find a way to pass through the zone sealed off by searchlights
+
+#### Continue onward
+
+#### Continue onward
+
+#### Find a way through the sealed zone
+
+#### Look for clues in the research lab
+
+#### Look for clues in the research lab
+
+**Paimon:** Hmm? This thing looks like it still works.
+
+**Paimon:** Maybe there's some info inside? Let's open it up and take a look.
+
+**Paimon:** Is this the message that the creature from space sent to the dragons...?
+
+**Eggie:** I see. So that's how it was...
+
+**Paimon:** So Project Moongazer was meant to send this kind of message back out into the universe?
+
+**Paimon:** If that's all there was to it, couldn't they just have used the Eye of Ibni-Belum?
+
+**Paimon:** Did Paimon miss something? Hang on, she's gonna check again!
+
+**Paimon:** Huh! Whaddya know, there really is a footnote at the end!
+
+**Paimon:** "To my 'daughter,' Ninnin."
+
+**Paimon:** Ninnin!? Wait... So you're Lusalim's daughter, Eggie!?
+
+**Paimon:** Wait, then how'd you end up like this?
+
+**Eggie:** I... I don't know... I don't have these memories... Why don't I have them?
+
+- **Traveler:** We need to go take a look at the moon's core.
+
+**Paimon:** B—But what about Columbina? We still haven't found any clues regarding her disappearance...
+
+- **Traveler:** That might also be connected to the moon's core.
+
+**Paimon:** Oh, right! That familiar feeling she mentioned earlier must be the core, right? Come on, let's check it out!
+
+#### Head toward the moon's core
+
+#### Head toward the moon's core
+
+#### Head toward the moon's core
+
+#### Resist the gravitational anomaly
+
+#### Talk to Columbina
+
 **Paimon:** Huh? Gravity seems back to normal...
 
 **Paimon:** Columbina! You're back! Was it you who fixed the problem just now? Talk about perfect timing...
 
 **Paimon:** We were so worried! Where did you go?
 
-Are you alright?
+- **Traveler:** Are you alright?
 
 **Columbina:** I'm sorry. I didn't expect the depths of this base to actually lead to the moon's core. It contains an extremely high concentration of ancient moon energy.
 
@@ -788,7 +1131,7 @@ Are you alright?
 
 **Columbina:** I understand. Thank you, Ninnin. I'll be right back.
 
-I'll go with you, Columbina.
+- **Traveler:** I'll go with you, Columbina.
 
 **Columbina:** If you insist.
 
@@ -816,7 +1159,7 @@ I'll go with you, Columbina.
 
 **Paimon:** In that case, Paimon will increase your snack allowance by one share! Now it's three for you and seven for Paimon.
 
-Paimon, acting like a big sister... How quickly they grow.
+- **Traveler:** Paimon, acting like a big sister... How quickly they grow.
 
 **Paimon:** Heh, why so surprised? Paimon did watch Eggie grow up, y'know!
 
@@ -824,173 +1167,21 @@ Paimon, acting like a big sister... How quickly they grow.
 
 **Columbina:** Alright. Traveler, come with me.
 
-#### Activate the terminal
+#### Follow Columbina into the moon's core
 
-**Paimon:** Great! Here's another terminal!
-
-**Paimon:** Your time to shine, Eggie!
-
-**Eggie:** Terminal activated. Requesting base data.
-
-**Eggie:** Base data acquired.
-
-**Eggie:** Searching for Project Moongazer... No data.
-
-**Eggie:** Searching for Lusalim... There we go!
-
-**Eggie:** I've located Lusalim's research lab. It's inside this base.
-
-**Paimon:** Haha, jackpot! Let's hurry over and check it out!
-
-**Eggie:** Reading the base's engineering schematics and routes... Hmm... We just need to keep going forward, and we'll get there.
-
-Is there any other intel?
-
-**Eggie:** Retrieving other data... Huh? "The Lord of Darkness Who Returned From the Sea of Stars"?
-
-**Paimon:** Who's that?
-
-**Eggie:** The data indicates that the existence of this base... stems from the will of this "Lord of Darkness."
-
-**Eggie:** Its construction also dates to a much later time than any of the other facilities we've visited. Its bottom-most levels lead to the moon's core, into which a fissure has been carved.
-
-**Eggie:** An endless stream of ancient moon energy surges from the fissure — it's what powers this base.
-
-**Eggie:** Its purpose was to turn the moon into... a space-based weapon!
-
-**Paimon:** S—Space-based weapon? Wait, is this "Lord of Darkness"...
-
-It's probably the returning dragon king, Nibelung.
-
-**Paimon:** So the dragon king returned!? Wow, we must be pretty special to have stumbled into a place like this...
-
-**Paimon:** First, the Heavenly Principles arrived, then the dragon king, and now us!
-
-Ad astra abyssosque, as they say.
-
-**Paimon:** In that case, we're gonna have to be really careful how we proceed.
-
-**Paimon:** If something goes wrong, Columbina, you gotta protect us, okay— Huh? Hang on. Where's Columbina?
-
-**Paimon:** She's gone!
-
-...When did that happen?
-
-**Paimon:** Paimon didn't even notice her leaving... Eggie, did you see where Columbina went?
-
-**Eggie:** No, I was extracting the data from the terminal...
-
-**Paimon:** O—Oh no... The one person keeping us safe just disappeared! Is this place... haunted or something?
-
-(Columbina wouldn't leave without saying something. There must be some reason for this.)
-
-(Something related to Eggie, perhaps? No, she was reading the data on the terminal.)
-
-(Could it have been...?)
-
-**Columbina:** Also, now we're here, that strange sense of familiarity is only growing stronger...
-
-(Columbina's disappearance might have something to do with that sense of familiarity she mentioned. What exactly is hiding inside this base?)
-
-**Paimon:** What do we do now!?
-
-- **Traveler:** We go to Lusalim's laboratory.
-
-- **Traveler:** Considering the situation, we might want to fall back.
-
-**Eggie:** Yes. That place must hold the secrets this base conceals. We might find some clues about Columbina's disappearance there.
-
-**Paimon:** Paimon can tell you're just joking to keep the mood light... Be brave, Paimon, be brave!
-
-**Paimon:** We're gonna find Columbina! We're not leaving her behind!
-
-**Eggie:** We should head to Lusalim's lab. That place must hold the secrets this base conceals. We might find some clues about Columbina's disappearance there.
-
-**Eggie:** That said, our route requires us to pass through the security systems ahead — we can't afford to trigger a base-wide alarm.
-
-**Paimon:** Is there a way to disable the security somehow? Let Paimon see...
-
-- **Traveler:** Observe
-
-**Paimon:** That route over there leads to Lusalim's lab, but we gotta find a way to switch the security off first!
-
-**Paimon:** Looks like this room leads to the second floor.
-
-**Eggie:** The blueprints show that the security control rooms are on the second floor of the left and right wings.
-
-**Paimon:** Looks like there's been a cave-in. There's no way through.
-
-**Eggie:** The blueprints show that the security control rooms are on the second floor of the left and right wings.
-
-**Paimon:** Looks like we need to reach the second floor through the room on the left. That's where the security control room is.
-
-**Paimon:** How about we find a way to sneak in and check it out?
-
-#### Investigate the device
-
-**Paimon:** Can we turn off the security system with this?
-
-**Eggie:** That's right, these are the security controls.
-
-**Eggie:** But it seems we need to shut down both the security controls here and in the room on the right — and we need to do it in quick succession.
-
-**Paimon:** So that means once we turn the security system off here, we've gotta hurry over to the other control room as fast as we can, right?
-
-Understood.
-
-#### Shut off both security control devices within the time limit
-
-**Columbina:** Are you ready?
-
-#### Continue onward
-
-**Paimon:** Oh no! We've been spotted!
-
-**Eggie:** Over here!
-
-#### Look for clues in the research lab
-
-**Paimon:** Hmm? This thing looks like it still works.
-
-**Paimon:** Maybe there's some info inside? Let's open it up and take a look.
-
-**Paimon:** Is this the message that the creature from space sent to the dragons...?
-
-**Eggie:** I see. So that's how it was...
-
-**Paimon:** So Project Moongazer was meant to send this kind of message back out into the universe?
-
-**Paimon:** If that's all there was to it, couldn't they just have used the Eye of Ibni-Belum?
-
-**Paimon:** Did Paimon miss something? Hang on, she's gonna check again!
-
-**Paimon:** Huh! Whaddya know, there really is a footnote at the end!
-
-**Paimon:** "To my 'daughter,' Ninnin."
-
-**Paimon:** Ninnin!? Wait... So you're Lusalim's daughter, Eggie!?
-
-**Paimon:** Wait, then how'd you end up like this?
-
-**Eggie:** I... I don't know... I don't have these memories... Why don't I have them?
-
-We need to go take a look at the moon's core.
-
-**Paimon:** B—But what about Columbina? We still haven't found any clues regarding her disappearance...
-
-That might also be connected to the moon's core.
-
-**Paimon:** Oh, right! That familiar feeling she mentioned earlier must be the core, right? Come on, let's check it out!
+#### Follow Columbina into the moon's core
 
 ### Project Moongazer
 
 During your previous adventures, you have learned some very important secrets indeed. Yet the mysteries surrounding Project Moongazer and Ninnin have not yet come undone, and so, you decide to check out the final stop on this trip...
 
+#### Take the plunge into Moonheart Chasm
+
 #### Pass through the launch silo
 
 **Columbina:** We made it down.
 
-Is this the moon's core?
+- **Traveler:** Is this the moon's core?
 
 **Columbina:** No, that's still up ahead. With you coming along, we'll have to enter it the normal way.
 
@@ -1006,15 +1197,25 @@ Is this the moon's core?
 
 #### Advance down the correct path
 
+#### Advance down the correct path
+
+#### Advance down the correct path
+
+#### Take the plunge into Moonheart Chasm
+
+#### Open the way to the moon's core
+
+#### Open the way to the moon's core
+
 **Columbina:** Beneath this door is where we need to go.
 
-Looks like we'll need a key to open it.
+- **Traveler:** Looks like we'll need a key to open it.
 
 **Columbina:** You already have it with you.
 
 **Columbina:** This is Lusalim's final facility — the one before was the Lunar Veil Laboratory, which is now the lunar sea.
 
-You mean the Ancient Moon's Fount?
+- **Traveler:** You mean the Ancient Moon's Fount?
 
 **Columbina:** That's the one.
 
@@ -1022,37 +1223,39 @@ You mean the Ancient Moon's Fount?
 
 **Columbina:** Regardless, they can do nothing to stop us.
 
-#### Advance down the correct path
+#### Defeat the final guardian
 
-**Columbina:** Maagees has already picked Paimon and Ninnin up and is heading back. We can get going once you're ready.
+#### Dodge the high-energy blast
 
-- **Traveler:** We're ready.
+#### Defeat the final guardian
 
-- **Traveler:** Give us a moment.
-
-**Columbina:** Then let's go.
-
-**Columbina:** Alright. Still, we shouldn't delay for too long.
+#### Defeat the final guardian
 
 #### Head toward the moon's core
 
+#### Head toward the moon's core
+
+#### Follow Columbina
+
+#### Follow Columbina
+
 **Columbina:** Our journey has reached its end. She is the key to activating Project Moongazer.
 
-Who?
+- **Traveler:** Who?
 
 **Columbina:** An imprint left here by the project's final inheritor.
 
 **Columbina:** She will explain everything.
 
-**Nin-Kiggia's Mark:** Hey! Hello there.
+**???:** Hey! Hello there.
 
-Hello?
+- **Traveler:** Hello?
 
 **Nin-Kiggia's Mark:** I'm Nin-Kiggia. You can call me Ninnin. That's what people usually call me.
 
 **Nin-Kiggia's Mark:** What's your name? Ibni-Belum? Ungien? Maagees? Or are you Lusalim?
 
-I'm Traveler.
+- **Traveler:** I'm Traveler.
 
 **Nin-Kiggia's Mark:** Hehe, no need to answer me. Unfortunately, I'm no longer here. This is just a recording.
 
@@ -1074,7 +1277,7 @@ I'm Traveler.
 
 **Nin-Kiggia's Mark:** You might inherit the name of someone who came before us through the ocean of data, or you might not, but you will probably recall that you have a mission.
 
-So this is how Eggie was born...
+- **Traveler:** So this is how Eggie was born...
 
 **Nin-Kiggia's Mark:** Next, we must say thank you to Madam Maagees, who uncovered the nature of our astral visitor — a data-based lifeform. Her research was the foundation upon which you were born.
 
@@ -1094,7 +1297,7 @@ So this is how Eggie was born...
 
 **Nin-Kiggia's Mark:** Come to think of it, you might actually have inherited my name, hehe.
 
-**Nin-Kiggia's Mark:** It's time to say goodbye. Go complete your mission. And lastly... I salute you, and all your fellow Mostarry skyongazers.
+**Nin-Kiggia's Mark:** It's time to say goodbye. Go complete your mission. And lastly... I salute you, and all your fellow Mo(starry sky)ongazers.
 
 **Columbina:** And that's everything.
 
@@ -1106,7 +1309,7 @@ So this is how Eggie was born...
 
 **Columbina:** They will use themselves as keys to open the Moongazer module in the Eye of Ibni-Belum, and resend the message out into the universe.
 
-Then, they will return to the cycle of life...
+- **Traveler:** Then, they will return to the cycle of life...
 
 **Columbina:** Yes, and this cycle may have already happened more than once.
 
@@ -1118,17 +1321,17 @@ Then, they will return to the cycle of life...
 
 **Columbina:** But peace has been restored in Teyvat, at least for now.
 
-(If the signal sent out this time ends up drawing the attention of the darkness that dwells amidst the stars to this place...)
+- **Traveler:** (If the signal sent out this time ends up drawing the attention of the darkness that dwells amidst the stars to this place...)
 
 **Columbina:** As promised, I will hand the key and the message over to Ninnin.
 
 **Columbina:** But do you think we should stop her from completing her mission? Or should we support her?
 
-I need some time to think.
+- **Traveler:** I need some time to think.
 
 **Columbina:** Mmhmm, I understand. Then let us return to the first Moongazer's tower.
 
-What about Paimon and Ninnin?
+- **Traveler:** What about Paimon and Ninnin?
 
 **Columbina:** Don't worry. Maagees will pick them up.
 
@@ -1136,13 +1339,33 @@ What about Paimon and Ninnin?
 
 **Columbina:** Let's go. It's time to leave.
 
+#### Return to the Moongazers' tower
+
+#### Return to the Moongazers' tower
+
+**Columbina:** Maagees has already picked Paimon and Ninnin up and is heading back. We can get going once you're ready.
+
+##### Response branch 1
+
+- **Traveler:** We're ready.
+
+**Columbina:** Then let's go.
+
+##### Response branch 2
+
+- **Traveler:** Give us a moment.
+
+**Columbina:** Alright. Still, we shouldn't delay for too long.
+
+#### Return to the Moongazers' tower
+
 #### Talk to Eggie
 
 **Columbina:** We're back.
 
 **Paimon:** Traveler, Columbina! Looks like things went just dandy for you two at the moon's core, huh?
 
-We did indeed learn a lot.
+- **Traveler:** We did indeed learn a lot.
 
 **Paimon:** Oh? So you know where Eggie came from, and what Project Moongazer's all about?
 
@@ -1158,7 +1381,7 @@ We did indeed learn a lot.
 
 **Paimon:** Columbina? Traveler? Why do you two look so serious?
 
-Because her mission involves unknown risks.
+- **Traveler:** Because her mission involves unknown risks.
 
 **Eggie:** What kind of risks?
 
@@ -1206,9 +1429,9 @@ As Eggie reads the information, you tell Paimon everything.
 
 **Columbina:** Traveler... have you made up your mind?
 
-- **Traveler:** Maybe we could execute Project Moongazer one last time.
+##### Response branch 1
 
-- **Traveler:** It's unfortunate, but we can't take the risk.
+- **Traveler:** Maybe we could execute Project Moongazer one last time.
 
 **Columbina:** I agree.
 
@@ -1230,9 +1453,15 @@ As Eggie reads the information, you tell Paimon everything.
 
 **Paimon:** Huh? What does that mean?
 
+##### Response branch 2
+
+- **Traveler:** It's unfortunate, but we can't take the risk.
+
 **Columbina:** And what if I could use my power as the Moon Goddess to shield the messages that Ninnin sends?
 
-What does that mean?
+- **Traveler:** What does that mean?
+
+##### Shared continuation
 
 **Columbina:** Kuuvahki and the ancient moon's energy are both, in essence, the power of the Light Realm. As such, I can infuse my power into the transmitted messages.
 
@@ -1246,7 +1475,7 @@ What does that mean?
 
 **Columbina:** I will try to shield the message as far as possible. At that point, its source will not be so easily traced.
 
-That sounds more feasible.
+- **Traveler:** That sounds more feasible.
 
 **Eggie:** But... will this hurt you?
 
@@ -1266,9 +1495,15 @@ That sounds more feasible.
 
 **Columbina:** Yes. That's all the reason I need.
 
+##### Response branch 1
+
 - **Traveler:** Moongazers...
 
+##### Response branch 2
+
 - **Traveler:** I send you all my regards.
+
+##### Shared continuation
 
 **Paimon:** P—Paimon does, too!
 
@@ -1298,7 +1533,7 @@ That sounds more feasible.
 
 **Eggie:** Then one day, there will surely come a ray of light that pierces the night like the dawn.
 
-**Eggie:** Last but not least... we are... Mostarry skyongazers in an unremarkable corner of the universe...
+**Eggie:** Last but not least... we are... Mo(starry sky)ongazers in an unremarkable corner of the universe...
 
 **Eggie:** Our names are...
 
@@ -1320,7 +1555,7 @@ That sounds more feasible.
 
 **Paimon:** Her hat...
 
-Are you okay, Columbina?
+- **Traveler:** Are you okay, Columbina?
 
 **Columbina:** I'm fine. But I need to stay focused for what comes next, since I'll be pushing my strength to its limits.
 
@@ -1370,15 +1605,19 @@ Are you okay, Columbina?
 
 #### 前往月亮背面
 
-准备好了。
+- **旅行者:** 稍等一下。
+
+**哥伦比娅:** 嗯，我就在这等你。
+
+**哥伦比娅:** 准备好了吗？
+
+- **旅行者:** 准备好了。
 
 **哥伦比娅:** 那我们出发了，像刚才一样跟紧我。
 
 #### 前往月亮背面
 
-稍等一下。
-
-**哥伦比娅:** 嗯，我就在这等你。
+#### 设法进入基地内部
 
 #### 设法进入基地内部
 
@@ -1386,7 +1625,7 @@ Are you okay, Columbina?
 
 **派蒙:** 没想到这座基地居然还在好好地运行着，不可思议。
 
-真是强劲的龙族科技。
+- **旅行者:** 真是强劲的龙族科技。
 
 **哥伦比娅:** 那我们也不要去打扰它们吧。
 
@@ -1404,13 +1643,233 @@ Are you okay, Columbina?
 
 #### 深入基地
 
+#### 激活终端
+
+**派蒙:** 太好了！这里又有一个终端！
+
+**派蒙:** 轮到你表现了，黑蛋！
+
+**黑蛋:** 终端已激活，正在申请获得基地数据。
+
+**黑蛋:** 基地数据已获得。
+
+**黑蛋:** 开始检索「望月者计划」…无内容。
+
+**黑蛋:** 开始检索「卢沙里姆」…有了！
+
+**黑蛋:** 我在基地内部找到了一个卢沙里姆的研究室。
+
+**派蒙:** 哦？果然有收获，我们快去那里看看！
+
+**黑蛋:** 正在读取基地工程蓝图与路线，嗯…向前进就能抵达。
+
+- **旅行者:** 还有什么其他情报吗？
+
+**黑蛋:** 开始检索其他信息…嗯？「从星海间返回的漆黑之王」？
+
+**派蒙:** 这是什么？
+
+**黑蛋:** 信息显示，这座基地的存在…源自那位「漆黑之王」的意志。
+
+**黑蛋:** 它的建成时间，也比我们之前见过的设施要晚许多。它的底部通向月心，那里被挖出了一道罅缝。
+
+**黑蛋:** 源源不断的古月之力从月心罅缝涌出，成为了基地的能源。
+
+**黑蛋:** 它的目的，是将月球打造成…天基武器！
+
+**派蒙:** 天、天基武器？那难道那位「漆黑之王」是…
+
+- **旅行者:** 大概就是归来的龙王尼伯龙根。
+
+**派蒙:** 是龙王回来了？！我们也太厉害了吧，这是闯到什么地方来了？
+
+**派蒙:** 天理来完龙王来，龙王来完我们来！
+
+- **旅行者:** 向着星辰与深渊。
+
+**派蒙:** 这样说的话…前面的路我们得打起十二分警惕了。
+
+**派蒙:** 哥伦比娅，万一有不对劲的事，你要保护好我们呀…咦？哥伦比娅？哥伦比娅呢？
+
+**派蒙:** 旅行者！哥伦比娅不见了！
+
+- **旅行者:** …是什么时候？
+
+**派蒙:** 完全没有感觉到…黑蛋，你看见哥伦比娅了吗？
+
+**黑蛋:** 没有，我一直在读取终端里的信息…
+
+**派蒙:** 糟、糟糕了啊…保护我们的人居然不见了！有鬼啊！
+
+- **旅行者:** （哥伦比娅绝对不会不告而别，一定有其他原因。）
+
+- **旅行者:** （会和黑蛋有关吗？不，她一直在读取终端的信息。）
+
+- **旅行者:** （那难道是…？）
+
+**哥伦比娅:** 而且站在这里，那种奇怪的熟悉感更深了…
+
+- **旅行者:** （看来哥伦比娅消失的原因和她所说的熟悉感有关，这座基地里到底有什么？）
+
+**派蒙:** 旅行者，我们现在可怎么办呀？！
+
+##### 对话分支 1
+
+- **旅行者:** 去卢沙里姆的研究室。
+
+**黑蛋:** 嗯，那里一定有关于这座基地的秘密，或许也能找到关于哥伦比娅消失的线索。
+
+##### 对话分支 2
+
+- **旅行者:** 事已至此，先撤退吧。
+
+**派蒙:** 我知道你是想开个玩笑让我别害怕…嗯…我要鼓起勇气！
+
+**派蒙:** 我们要去找哥伦比娅，我们不会把她丢在这里的！
+
+**黑蛋:** 我们应该去卢沙里姆的研究室。那里一定有关于这座基地的秘密，或许也能找到关于哥伦比娅消失的线索。
+
+##### 共同后续
+
+**黑蛋:** 但我们的路线要经过前方的警戒设施，不能触发基地的全面警报。
+
+**派蒙:** 有没有办法关闭这些警戒设施？让我看看…
+
+##### 对话分支 1
+
+- **旅行者:** 观察
+
+**派蒙:** 那边就是通向卢沙里姆研究室的路线，但我们要先想办法关闭警戒设施。
+
+##### 对话分支 2
+
+- **旅行者:** 观察
+
+**派蒙:** 这个房间好像可以通向二楼。
+
+##### 对话分支 3
+
+- **旅行者:** 观察
+
+**黑蛋:** 工程蓝图显示，左侧二楼和右侧二楼的房间是警戒控制室。
+
+##### 对话分支 4
+
+- **旅行者:** 观察
+
+**派蒙:** 好像已经崩塌了，没有能通过的路。
+
+##### 对话分支 5
+
+- **旅行者:** 观察
+
+**黑蛋:** 工程蓝图显示，左侧二楼和右侧二楼的房间是警戒控制室。
+
+##### 共同后续
+
+**派蒙:** 看起来，我们要先走左边的房间上到二楼，那里是警戒控制室。
+
+**派蒙:** 找个办法，溜进去看看吧？
+
+#### 设法关闭前方的警戒设施
+
+#### 调查左侧控制室
+
+#### 调查左侧控制室
+
+#### 调查机关
+
+**派蒙:** 这个东西是不是可以关闭警戒设施？
+
+**黑蛋:** 没错，这就是警戒控制器。
+
+**黑蛋:** 但是似乎要在短时间内将这里和右侧房间的警戒控制器一起关闭才行。
+
+**派蒙:** 也就是说，关闭了这里的控制器后，要尽快抵达另一间控制室，对吧？
+
+- **旅行者:** 我明白了。
+
+#### 在时限内关闭两个警戒控制器
+
+#### 在时限内关闭两个警戒控制器
+
+#### 在时限内关闭两个警戒控制器
+
+#### 在时限内关闭两个警戒控制器
+
+#### 在时限内关闭两个警戒控制器
+
+#### 继续前进
+
+#### 继续前进
+
+**派蒙:** 不好！被发现了！
+
+**黑蛋:** 这边！
+
+#### 继续前进
+
+#### 设法穿过探照灯封锁区
+
+#### 继续前进
+
+#### 继续前进
+
+#### 设法穿过封锁区
+
+#### 在研究室内寻找线索
+
+#### 在研究室内寻找线索
+
+**派蒙:** 咦？这个东西好像还能用。
+
+**派蒙:** 会不会有什么情报呢，打开看看。
+
+**派蒙:** 这就是那只星空生物传递给龙族的消息吗…
+
+**黑蛋:** 原来是这样…
+
+**派蒙:** 所以说，望月者计划，指的就是把这样的消息重新发送入宇宙？
+
+**派蒙:** 只是这样的话，用那座「伊比尼伯龙之眼」就可以办到吧？
+
+**派蒙:** 是不是还有什么内容我漏看了？我再检查一下！
+
+**派蒙:** 呜哇！末尾果然还有一段注脚！
+
+**派蒙:** 「给我的『女儿』，宁宁」
+
+**派蒙:** 宁宁？！等等…黑蛋，你是卢沙里姆的女儿？！
+
+**派蒙:** 那你怎么也变成了现在这个样子？！
+
+**黑蛋:** 怎么会…我不知道…我没有这些记忆。
+
+- **旅行者:** 我们得去月心那里看看。
+
+**派蒙:** 那、那哥伦比娅呢？还没找到她消失的线索…
+
+- **旅行者:** 她的消失或许也和月心有关。
+
+**派蒙:** 对哦，她前面说的熟悉的感觉，也只可能是月心了…我们快走！
+
+#### 前往月心
+
+#### 前往月心
+
+#### 前往月心
+
+#### 抵抗重力异常
+
+#### 与哥伦比娅交谈
+
 **派蒙:** 咦？重力好像变正常了…
 
 **派蒙:** 哥伦比娅！你回来了！是你解决了刚才的问题吗？真是太及时了…
 
 **派蒙:** 我们真是好担心，你去了哪里呀？
 
-你还好吗？
+- **旅行者:** 你还好吗？
 
 **哥伦比娅:** 很抱歉，我没想到，这个基地的深处居然通向了月心。那里凝聚了浓度极高的古月之力。
 
@@ -1458,7 +1917,7 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 我知道了，谢谢你，宁宁。我很快就回来。
 
-哥伦比娅，我和你一起去吧。
+- **旅行者:** 哥伦比娅，我和你一起去吧。
 
 **哥伦比娅:** 好。
 
@@ -1486,7 +1945,7 @@ Are you okay, Columbina?
 
 **派蒙:** 那我就再多给你一份零食吧，现在是你三我七了。
 
-派蒙这次有了姐姐的样子。
+- **旅行者:** 派蒙这次有了姐姐的样子。
 
 **派蒙:** 嘿嘿，怎么不是呢？我可算看着黑蛋长大的哦！
 
@@ -1494,173 +1953,21 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 嗯，旅行者，跟我来。
 
-#### 激活终端
+#### 跟随哥伦比娅前往月心
 
-**派蒙:** 太好了！这里又有一个终端！
-
-**派蒙:** 轮到你表现了，黑蛋！
-
-**黑蛋:** 终端已激活，正在申请获得基地数据。
-
-**黑蛋:** 基地数据已获得。
-
-**黑蛋:** 开始检索「望月者计划」…无内容。
-
-**黑蛋:** 开始检索「卢沙里姆」…有了！
-
-**黑蛋:** 我在基地内部找到了一个卢沙里姆的研究室。
-
-**派蒙:** 哦？果然有收获，我们快去那里看看！
-
-**黑蛋:** 正在读取基地工程蓝图与路线，嗯…向前进就能抵达。
-
-还有什么其他情报吗？
-
-**黑蛋:** 开始检索其他信息…嗯？「从星海间返回的漆黑之王」？
-
-**派蒙:** 这是什么？
-
-**黑蛋:** 信息显示，这座基地的存在…源自那位「漆黑之王」的意志。
-
-**黑蛋:** 它的建成时间，也比我们之前见过的设施要晚许多。它的底部通向月心，那里被挖出了一道罅缝。
-
-**黑蛋:** 源源不断的古月之力从月心罅缝涌出，成为了基地的能源。
-
-**黑蛋:** 它的目的，是将月球打造成…天基武器！
-
-**派蒙:** 天、天基武器？那难道那位「漆黑之王」是…
-
-大概就是归来的龙王尼伯龙根。
-
-**派蒙:** 是龙王回来了？！我们也太厉害了吧，这是闯到什么地方来了？
-
-**派蒙:** 天理来完龙王来，龙王来完我们来！
-
-向着星辰与深渊。
-
-**派蒙:** 这样说的话…前面的路我们得打起十二分警惕了。
-
-**派蒙:** 哥伦比娅，万一有不对劲的事，你要保护好我们呀…咦？哥伦比娅？哥伦比娅呢？
-
-**派蒙:** 旅行者！哥伦比娅不见了！
-
-…是什么时候？
-
-**派蒙:** 完全没有感觉到…黑蛋，你看见哥伦比娅了吗？
-
-**黑蛋:** 没有，我一直在读取终端里的信息…
-
-**派蒙:** 糟、糟糕了啊…保护我们的人居然不见了！有鬼啊！
-
-（哥伦比娅绝对不会不告而别，一定有其他原因。）
-
-（会和黑蛋有关吗？不，她一直在读取终端的信息。）
-
-（那难道是…？）
-
-**哥伦比娅:** 而且站在这里，那种奇怪的熟悉感更深了…
-
-（看来哥伦比娅消失的原因和她所说的熟悉感有关，这座基地里到底有什么？）
-
-**派蒙:** 旅行者，我们现在可怎么办呀？！
-
-- **旅行者:** 去卢沙里姆的研究室。
-
-- **旅行者:** 事已至此，先撤退吧。
-
-**黑蛋:** 嗯，那里一定有关于这座基地的秘密，或许也能找到关于哥伦比娅消失的线索。
-
-**派蒙:** 我知道你是想开个玩笑让我别害怕…嗯…我要鼓起勇气！
-
-**派蒙:** 我们要去找哥伦比娅，我们不会把她丢在这里的！
-
-**黑蛋:** 我们应该去卢沙里姆的研究室。那里一定有关于这座基地的秘密，或许也能找到关于哥伦比娅消失的线索。
-
-**黑蛋:** 但我们的路线要经过前方的警戒设施，不能触发基地的全面警报。
-
-**派蒙:** 有没有办法关闭这些警戒设施？让我看看…
-
-- **旅行者:** 观察
-
-**派蒙:** 那边就是通向卢沙里姆研究室的路线，但我们要先想办法关闭警戒设施。
-
-**派蒙:** 这个房间好像可以通向二楼。
-
-**黑蛋:** 工程蓝图显示，左侧二楼和右侧二楼的房间是警戒控制室。
-
-**派蒙:** 好像已经崩塌了，没有能通过的路。
-
-**黑蛋:** 工程蓝图显示，左侧二楼和右侧二楼的房间是警戒控制室。
-
-**派蒙:** 看起来，我们要先走左边的房间上到二楼，那里是警戒控制室。
-
-**派蒙:** 找个办法，溜进去看看吧？
-
-#### 调查机关
-
-**派蒙:** 这个东西是不是可以关闭警戒设施？
-
-**黑蛋:** 没错，这就是警戒控制器。
-
-**黑蛋:** 但是似乎要在短时间内将这里和右侧房间的警戒控制器一起关闭才行。
-
-**派蒙:** 也就是说，关闭了这里的控制器后，要尽快抵达另一间控制室，对吧？
-
-我明白了。
-
-#### 在时限内关闭两个警戒控制器
-
-**哥伦比娅:** 准备好了吗？
-
-#### 继续前进
-
-**派蒙:** 不好！被发现了！
-
-**黑蛋:** 这边！
-
-#### 在研究室内寻找线索
-
-**派蒙:** 咦？这个东西好像还能用。
-
-**派蒙:** 会不会有什么情报呢，打开看看。
-
-**派蒙:** 这就是那只星空生物传递给龙族的消息吗…
-
-**黑蛋:** 原来是这样…
-
-**派蒙:** 所以说，望月者计划，指的就是把这样的消息重新发送入宇宙？
-
-**派蒙:** 只是这样的话，用那座「伊比尼伯龙之眼」就可以办到吧？
-
-**派蒙:** 是不是还有什么内容我漏看了？我再检查一下！
-
-**派蒙:** 呜哇！末尾果然还有一段注脚！
-
-**派蒙:** 「给我的『女儿』，宁宁」
-
-**派蒙:** 宁宁？！等等…黑蛋，你是卢沙里姆的女儿？！
-
-**派蒙:** 那你怎么也变成了现在这个样子？！
-
-**黑蛋:** 怎么会…我不知道…我没有这些记忆。
-
-我们得去月心那里看看。
-
-**派蒙:** 那、那哥伦比娅呢？还没找到她消失的线索…
-
-她的消失或许也和月心有关。
-
-**派蒙:** 对哦，她前面说的熟悉的感觉，也只可能是月心了…我们快走！
+#### 跟随哥伦比娅前往月心
 
 ### 望月者计划
 
 在先前的冒险中，你们得知了一些很有分量的秘辛，可望月者计划与宁宁的谜团依旧没有解开，于是，你们决定出发调查此行的最后一站…
 
+#### 跃入月心深坑
+
 #### 穿越发射井
 
 **哥伦比娅:** 我们下来了。
 
-这里就是月心吗？
+- **旅行者:** 这里就是月心吗？
 
 **哥伦比娅:** 不，月心还在前面。这次有你同行，我们就得用常规方法进入那里。
 
@@ -1676,15 +1983,25 @@ Are you okay, Columbina?
 
 #### 通过正确的路前进
 
+#### 通过正确的路前进
+
+#### 通过正确的路前进
+
+#### 跃入月心深坑
+
+#### 打开月心通道
+
+#### 打开月心通道
+
 **哥伦比娅:** 这道门下面，就是我们要去的地方了。
 
-好像需要钥匙才能开门。
+- **旅行者:** 好像需要钥匙才能开门。
 
 **哥伦比娅:** 钥匙就在你身上。
 
 **哥伦比娅:** 这里是卢沙里姆最后的研究场所，而上一个是月幕实验室，也就是现在的月海。
 
-是…月海的古月之源？
+- **旅行者:** 是…月海的古月之源？
 
 **哥伦比娅:** 就是这个。
 
@@ -1692,37 +2009,39 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 不过它们拦不住我们。
 
-#### 通过正确的路前进
+#### 击败最后的防卫者
 
-**哥伦比娅:** 玛歌已经带上派蒙和宁宁返回了，等你准备好了，我们也动身吧。
+#### 躲避高能冲击炮
 
-- **旅行者:** 准备好了。
+#### 击败最后的防卫者
 
-- **旅行者:** 稍等一下。
-
-**哥伦比娅:** 那我们走吧。
-
-**哥伦比娅:** 嗯，最好不要耽误太久。
+#### 击败最后的防卫者
 
 #### 前往月心
 
+#### 前往月心
+
+#### 跟随哥伦比娅
+
+#### 跟随哥伦比娅
+
 **哥伦比娅:** 旅程的终点到了，她就是开启望月者计划的钥匙。
 
-她是谁？
+- **旅行者:** 她是谁？
 
 **哥伦比娅:** 是望月者计划的最后继承者，留在这里的印迹。
 
 **哥伦比娅:** 她会解释一切。
 
-**宁希姬娅的印迹:** 嘿！你好啊。
+**？？？:** 嘿！你好啊。
 
-你好？
+- **旅行者:** 你好？
 
 **宁希姬娅的印迹:** 我是宁希姬娅，你也可以叫我宁宁，是我的小名。
 
 **宁希姬娅的印迹:** 你叫什么名字？伊比尼伯龙？乌吉恩？玛歌？还是卢沙里姆？
 
-我是旅行者。
+- **旅行者:** 我是旅行者。
 
 **宁希姬娅的印迹:** 嘿嘿，不用回答我，因为很遗憾，我已经不在了，这只是一段留言。
 
@@ -1744,7 +2063,7 @@ Are you okay, Columbina?
 
 **宁希姬娅的印迹:** 你可能会继承信息海洋中某位前辈的名字，也可能不会，但大概你能想起你有一个使命。
 
-原来这就是黑蛋的诞生…
+- **旅行者:** 原来这就是黑蛋的诞生…
 
 **宁希姬娅的印迹:** 接下来，还要感谢玛歌前辈，她揭开了那位星空访客的本质——一种信息生命，她的研究是你诞生的基石。
 
@@ -1764,7 +2083,7 @@ Are you okay, Columbina?
 
 **宁希姬娅的印迹:** 这样一想，搞不好，你继承的可能会是我的名字呢，哈哈。
 
-**宁希姬娅的印迹:** 该说再见了，去完成你的使命吧。最后…向你和所有的望月星空者致意。
+**宁希姬娅的印迹:** 该说再见了，去完成你的使命吧。最后…向你和所有的望月(星空)者致意。
 
 **哥伦比娅:** 就是这样。旅行者。
 
@@ -1776,7 +2095,7 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 它们会用自己当作钥匙，打开伊比尼伯龙之眼的望月者模块。向宇宙重新发送消息。
 
-最后回归生命的循环…
+- **旅行者:** 最后回归生命的循环…
 
 **哥伦比娅:** 嗯，这个循环可能已经不止发生过一次了。
 
@@ -1788,17 +2107,17 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 可现在，提瓦特已经恢复了平静，至少现在如此。
 
-（如果这次发出的信号，最后却让星空中的黑暗注意到这里…）
+- **旅行者:** （如果这次发出的信号，最后却让星空中的黑暗注意到这里…）
 
 **哥伦比娅:** 我会依照承诺，把钥匙和信息交给宁宁。
 
 **哥伦比娅:** 但你觉得我们应该阻止宁宁完成她的使命，还是支持她？
 
-我需要一点时间考虑。
+- **旅行者:** 我需要一点时间考虑。
 
 **哥伦比娅:** 嗯，我理解。那我们就返回那座最初的望月者高塔吧。
 
-派蒙和宁宁呢？
+- **旅行者:** 派蒙和宁宁呢？
 
 **哥伦比娅:** 放心，玛歌会接上她们的。
 
@@ -1806,13 +2125,33 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 走吧。该离开这了。
 
+#### 返回望月者高塔
+
+#### 返回望月者高塔
+
+**哥伦比娅:** 玛歌已经带上派蒙和宁宁返回了，等你准备好了，我们也动身吧。
+
+##### 对话分支 1
+
+- **旅行者:** 准备好了。
+
+**哥伦比娅:** 那我们走吧。
+
+##### 对话分支 2
+
+- **旅行者:** 稍等一下。
+
+**哥伦比娅:** 嗯，最好不要耽误太久。
+
+#### 返回望月者高塔
+
 #### 与黑蛋交谈
 
 **哥伦比娅:** 我们回来了。
 
 **派蒙:** 旅行者，哥伦比娅，看来你们在月心的冒险很顺利！
 
-我们确实知道了很多。
+- **旅行者:** 我们确实知道了很多。
 
 **派蒙:** 哦？黑蛋的来历，还有望月者计划的内容，都知道了吗？
 
@@ -1828,7 +2167,7 @@ Are you okay, Columbina?
 
 **派蒙:** 哥伦比娅？旅行者？你们的脸色怎么都那么沉重呀？
 
-因为她的使命中存在不可知的风险。
+- **旅行者:** 因为她的使命中存在不可知的风险。
 
 **黑蛋:** 什么风险？
 
@@ -1876,9 +2215,9 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 旅行者…你考虑好了吗？
 
-- **旅行者:** 也许可以最后执行一次望月者计划。
+##### 对话分支 1
 
-- **旅行者:** 虽然很遗憾，但我们不能冒险。
+- **旅行者:** 也许可以最后执行一次望月者计划。
 
 **哥伦比娅:** 嗯，我也这么想。
 
@@ -1900,9 +2239,15 @@ Are you okay, Columbina?
 
 **派蒙:** 欸？那是什么意思？
 
+##### 对话分支 2
+
+- **旅行者:** 虽然很遗憾，但我们不能冒险。
+
 **哥伦比娅:** 如果说，我可以用月神的力量，掩护宁宁发出的信息呢？
 
-具体是什么意思？
+- **旅行者:** 具体是什么意思？
+
+##### 共同后续
 
 **哥伦比娅:** 月矩力和古月之力本质上都是光界力，我可以将我的力量融入宁宁发出的信息中。
 
@@ -1916,7 +2261,7 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 我会尽全力，把它送去我能抵达的极限。届时它的来源也不会被轻易定位了吧。
 
-这样听起来比较可行。
+- **旅行者:** 这样听起来比较可行。
 
 **黑蛋:** 可是…这会让你受伤吗？
 
@@ -1936,9 +2281,15 @@ Are you okay, Columbina?
 
 **哥伦比娅:** 足够了。
 
+##### 对话分支 1
+
 - **旅行者:** 望月者…
 
+##### 对话分支 2
+
 - **旅行者:** 我向所有的你们致意。
+
+##### 共同后续
 
 **派蒙:** 我、我也是！
 
@@ -1968,7 +2319,7 @@ Are you okay, Columbina?
 
 **黑蛋:** 那么总有一天，总有一束光，会成为刺破夜幕的曙光。
 
-**黑蛋:** 最后…我们是…宇宙中一个不起眼角落里的… 望月星空者…
+**黑蛋:** 最后…我们是…宇宙中一个不起眼角落里的… 望月(星空)者…
 
 **黑蛋:** 我们的名字是…
 
@@ -1980,7 +2331,7 @@ Are you okay, Columbina?
 
 **黑蛋:** 卢沙里姆…
 
-**黑蛋:** 宁希基娅…
+**黑蛋:** 宁希姬娅…
 
 **黑蛋:** 向所有能听见的你…致意…
 
@@ -1990,7 +2341,7 @@ Are you okay, Columbina?
 
 **派蒙:** 她的帽子…
 
-你还好吗？哥伦比娅。
+- **旅行者:** 你还好吗？哥伦比娅。
 
 **哥伦比娅:** 我没问题。不过接下来，我需要集中注意力，直到我的力量达到极限。
 
@@ -2020,9 +2371,9 @@ Are you okay, Columbina?
 
 **终端:** （…一阵干扰的杂音…）
 
-**终端:** …哥哥！好了吗？ / 荧，怎么样了？
+**终端:** …哥哥！好了吗？ / …荧，怎么样了？
 
-**终端:** …荧，马上来 / 哥哥，马上好…
+**终端:** …荧，马上来… / …哥哥，马上好…
 
 **终端:** （…一阵干扰的杂音…）
 

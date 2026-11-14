@@ -1,0 +1,163 @@
+﻿id,category,group,version,source_ids,title_ru,path
+heart_of_the_furnace,artifacts,,7.0,"15048,48543,48523,48553,48513,48533",Сердце горна,content/artifacts/heart_of_the_furnace.md
+scarlet_proof,artifacts,,7.0,"15047,47543,47523,47553,47513,47533",Багряное доказательство,content/artifacts/scarlet_proof.md
+book_suit_1078,books,book_series,7.2,"1078,121767",Белый и Чёрный,content/books/book_suit_1078.md
+book_suit_1073,books,book_series,6.7,"1073,121625,121626",Репродукция созерцателя луны,content/books/book_suit_1073.md
+book_suit_1076,books,book_series,7.0,"1076,121679,121680",История Снежной,content/books/book_suit_1076.md
+book_suit_1074,books,book_series,7.0,"1074,121675,121676,121677,121678",Танцы Полярной звезды,content/books/book_suit_1074.md
+book_suit_1077,books,book_series,7.2,"1077,121764,121765,121766",Дополнение к всеобщей истории Снежной,content/books/book_suit_1077.md
+book_suit_1075,books,book_series,7.2,"1075,121768",Сердце зверя Бездны,content/books/book_suit_1075.md
+silver_light,weapons,,7.1,11438,Серебряный свет,content/weapons/sword/silver_light.md
+exaiphanes_blade,weapons,,7.0,11521,Клинок озарения,content/weapons/sword/exaiphanes_blade.md
+whitelake_frostfeather,weapons,,7.0,11520,Морозное перо белого озера,content/weapons/sword/whitelake_frostfeather.md
+emberwell,weapons,,7.0,11436,Источник пламени,content/weapons/sword/emberwell.md
+new_bough,weapons,,7.1,11437,Новая ветвь,content/weapons/sword/new_bough.md
+beyond_the_chrysalis,weapons,,7.1,11522,За пределами кокона,content/weapons/sword/beyond_the_chrysalis.md
+heretic_s_molten_blade,weapons,,7.0,11435,Расплавленный клинок еретика,content/weapons/sword/heretic_s_molten_blade.md
+winter_s_heavy_heart,weapons,,7.1,14437,Застывшее сердце зимы,content/weapons/catalyst/winter_s_heavy_heart.md
+clash_of_kings,weapons,,7.0,14435,Игры королей,content/weapons/catalyst/clash_of_kings.md
+hymn_of_the_maelstrom,weapons,,7.1,14524,Ода водоворота,content/weapons/catalyst/hymn_of_the_maelstrom.md
+echoes_of_the_heart,weapons,,7.0,14436,Отголоски сердца,content/weapons/catalyst/echoes_of_the_heart.md
+starsealed_edict,weapons,,7.2,14525,Звёздный указ,content/weapons/catalyst/starsealed_edict.md
+frostbreath,weapons,,7.0,13435,Морозное дыхание,content/weapons/polearm/frostbreath.md
+song_of_the_vigil,weapons,,7.0,13436,Песнь бдения,content/weapons/polearm/song_of_the_vigil.md
+jade_vista,weapons,,7.0,15435,Поникшая артемизия,content/weapons/bow/jade_vista.md
+covenant_of_frost_and_snow,weapons,,7.0,15436,Завет льда и снега,content/weapons/bow/covenant_of_frost_and_snow.md
+breezeborne_refrain,weapons,,7.1,15437,Напевы нежного ветра,content/weapons/bow/breezeborne_refrain.md
+blade_of_atonement,weapons,,7.0,12436,Клинок искупления,content/weapons/claymore/blade_of_atonement.md
+forged_by_the_golden_melody,weapons,,7.0,12435,Творение золотой мелодии,content/weapons/claymore/forged_by_the_golden_melody.md
+vesna,stories,character_stories,7.1,10000143,Весна,content/stories/character_stories/vesna.md
+alyosha,stories,character_stories,7.0,10000148,Алёша,content/stories/character_stories/alyosha.md
+mitya,stories,character_stories,7.2,10000136,Митя,content/stories/character_stories/mitya.md
+vodyanitsa,stories,character_stories,7.1,10000140,Водяница,content/stories/character_stories/vodyanitsa.md
+valeriy,stories,character_stories,7.2,10000137,Валерий,content/stories/character_stories/valeriy.md
+odette,stories,character_stories,7.0,10000150,Одетта,content/stories/character_stories/odette.md
+quest_wq_77683,stories,world_quests,7.2,77683,Оружие и печати,content/stories/quests/world_quests/quest_wq_77683.md
+quest_wq_77130,stories,world_quests,7.0,77130,"Подобно лабиринту, заточившему её слуг",content/stories/quests/world_quests/quest_wq_77130.md
+quest_wq_77210,stories,world_quests,7.0,77210,"Затонувший корабль проплыл мимо, не прозвонив в колокол",content/stories/quests/world_quests/quest_wq_77210.md
+quest_wq_10255,stories,world_quests,7.0,"77102,77103,77110,77111,77112,77115,77116",В обители жизни,content/stories/quests/world_quests/quest_wq_10255.md
+quest_wq_77667,stories,world_quests,7.1,77667,Подарок детям,content/stories/quests/world_quests/quest_wq_77667.md
+quest_wq_77654,stories,world_quests,7.0,77654,Наследие Сферы теней,content/stories/quests/world_quests/quest_wq_77654.md
+quest_wq_70137,stories,world_quests,7.2,70137,К пламени жизни,content/stories/quests/world_quests/quest_wq_70137.md
+quest_wq_10286,stories,world_quests,7.1,77014,Вариация встречного течения,content/stories/quests/world_quests/quest_wq_10286.md
+quest_wq_10285,stories,world_quests,7.1,70100,Мечи и секреты,content/stories/quests/world_quests/quest_wq_10285.md
+quest_wq_10284,stories,world_quests,7.0,"77000,77001,77002,77003,77004,77005,77006,77007,77008,77009,77010,77011,77012,77013,77235,77236,77237",Вариации Белого и Чёрного,content/stories/quests/world_quests/quest_wq_10284.md
+quest_wq_70135,stories,world_quests,7.2,70135,Корабельный заслон,content/stories/quests/world_quests/quest_wq_70135.md
+quest_wq_77241,stories,world_quests,7.2,77241,Под слоем пыли и снега,content/stories/quests/world_quests/quest_wq_77241.md
+quest_wq_77664,stories,world_quests,7.1,77664,Письмо из Заполярного дворца,content/stories/quests/world_quests/quest_wq_77664.md
+quest_wq_77227,stories,world_quests,7.2,77227,Тёмное облако в бутылке,content/stories/quests/world_quests/quest_wq_77227.md
+quest_wq_70133,stories,world_quests,7.2,70133,"Гром, рассеивающий скверну",content/stories/quests/world_quests/quest_wq_70133.md
+quest_wq_70131,stories,world_quests,7.2,70131,Непоколебимая твердыня,content/stories/quests/world_quests/quest_wq_70131.md
+quest_wq_10282,stories,world_quests,7.0,"77100,77101",Дворец иль царская гробница,content/stories/quests/world_quests/quest_wq_10282.md
+quest_wq_77685,stories,world_quests,7.2,77685,Жизнь на платформе,content/stories/quests/world_quests/quest_wq_77685.md
+quest_wq_77686,stories,world_quests,7.2,77686,Шахматная партия Царицы II,content/stories/quests/world_quests/quest_wq_77686.md
+quest_wq_77681,stories,world_quests,7.2,77681,"Картофель, горячий суп, снежные просторы...",content/stories/quests/world_quests/quest_wq_77681.md
+quest_wq_77211,stories,world_quests,7.0,77211,В круговороте тишины,content/stories/quests/world_quests/quest_wq_77211.md
+quest_wq_77669,stories,world_quests,7.1,77669,Шахматы Царицы I,content/stories/quests/world_quests/quest_wq_77669.md
+quest_wq_10283,stories,world_quests,7.0,"77142,77143",Трущобы,content/stories/quests/world_quests/quest_wq_10283.md
+quest_wq_10280,stories,world_quests,7.0,"77114,77250","Зеркальное отражение, обращённое к врагам",content/stories/quests/world_quests/quest_wq_10280.md
+quest_wq_77665,stories,world_quests,7.1,77665,Новый портрет Царицы,content/stories/quests/world_quests/quest_wq_77665.md
+quest_wq_77251,stories,world_quests,7.2,77251,К рассвету и огням,content/stories/quests/world_quests/quest_wq_77251.md
+quest_wq_77204,stories,world_quests,7.0,77204,Над лёгким снегом,content/stories/quests/world_quests/quest_wq_77204.md
+quest_wq_70098,stories,world_quests,7.2,70098,Знамёна на северном ветру,content/stories/quests/world_quests/quest_wq_70098.md
+quest_wq_77653,stories,world_quests,7.0,77653,Наследие Сферы теней,content/stories/quests/world_quests/quest_wq_77653.md
+quest_wq_77684,stories,world_quests,7.2,77684,Финансовый план,content/stories/quests/world_quests/quest_wq_77684.md
+quest_wq_77668,stories,world_quests,7.1,77668,Зимняя ночь. Благовоспитанные дамы. Чаепитие.,content/stories/quests/world_quests/quest_wq_77668.md
+quest_wq_77226,stories,world_quests,7.2,77226,Загнанный зверь,content/stories/quests/world_quests/quest_wq_77226.md
+quest_wq_77670,stories,world_quests,7.0,77670,Снежные гости,content/stories/quests/world_quests/quest_wq_77670.md
+quest_wq_77656,stories,world_quests,7.0,77656,Заря после снегопада,content/stories/quests/world_quests/quest_wq_77656.md
+quest_wq_10187,stories,world_quests,7.0,"77104,77105,77107,77128,77131",Геспериды любви и ненависти,content/stories/quests/world_quests/quest_wq_10187.md
+quest_wq_77650,stories,world_quests,7.0,77650,Охотник на снежных просторах,content/stories/quests/world_quests/quest_wq_77650.md
+quest_wq_77132,stories,world_quests,7.0,77132,Нежные напевы,content/stories/quests/world_quests/quest_wq_77132.md
+quest_wq_77655,stories,world_quests,7.0,77655,Наследие Сферы теней,content/stories/quests/world_quests/quest_wq_77655.md
+quest_wq_77682,stories,world_quests,7.2,77682,Боевой строй против лютой зимы,content/stories/quests/world_quests/quest_wq_77682.md
+quest_wq_77229,stories,world_quests,7.2,77229,Странный свет,content/stories/quests/world_quests/quest_wq_77229.md
+quest_wq_77144,stories,world_quests,7.0,77144,В ожидании зари,content/stories/quests/world_quests/quest_wq_77144.md
+quest_wq_77666,stories,world_quests,7.1,77666,Собрание при дворе,content/stories/quests/world_quests/quest_wq_77666.md
+quest_wq_77652,stories,world_quests,7.0,77652,Сообща любое дело спорится,content/stories/quests/world_quests/quest_wq_77652.md
+quest_wq_77129,stories,world_quests,7.0,77129,"Великое сердце, скованное тонкой цепью",content/stories/quests/world_quests/quest_wq_77129.md
+quest_wq_10279,stories,world_quests,7.2,"77135,77140,77141","Старая улица, где эхом звучит печаль",content/stories/quests/world_quests/quest_wq_10279.md
+quest_wq_77148,stories,world_quests,7.0,77148,Заснеженная лесная пустошь,content/stories/quests/world_quests/quest_wq_77148.md
+quest_wq_10278,stories,world_quests,7.2,"77145,77146,77192,77205",Сперва заставь землю разверзнуть свою пасть,content/stories/quests/world_quests/quest_wq_10278.md
+quest_wq_10188,stories,world_quests,7.0,77160,Её дворец рушится в метель,content/stories/quests/world_quests/quest_wq_10188.md
+quest_wq_74251,stories,world_quests,6.7,74251,Истории из прошлого,content/stories/quests/world_quests/quest_wq_74251.md
+quest_wq_77209,stories,world_quests,7.0,77209,Вечно под водной гладью,content/stories/quests/world_quests/quest_wq_77209.md
+quest_wq_70138,stories,world_quests,7.2,70138,Вместе по стылым дорогам,content/stories/quests/world_quests/quest_wq_70138.md
+quest_wq_70132,stories,world_quests,7.2,70132,За грядущий день,content/stories/quests/world_quests/quest_wq_70132.md
+quest_wq_76187,stories,world_quests,6.7,76187,Чай или пузырин?,content/stories/quests/world_quests/quest_wq_76187.md
+quest_wq_70134,stories,world_quests,7.2,70134,Деревья становятся лесом,content/stories/quests/world_quests/quest_wq_70134.md
+quest_wq_73356,stories,world_quests,6.7,73356,Встреча «кукол»,content/stories/quests/world_quests/quest_wq_73356.md
+quest_wq_10277,stories,world_quests,7.2,"77113,77134,77136,77155,77176,77177,77178,77179,77180,77248",Город кристаллов в глубине Длинного ущелья,content/stories/quests/world_quests/quest_wq_10277.md
+quest_wq_77137,stories,world_quests,7.0,77137,"Край, где шепчет прилив",content/stories/quests/world_quests/quest_wq_77137.md
+quest_wq_76681,stories,world_quests,6.7,76681,Происхождение последовательности,content/stories/quests/world_quests/quest_wq_76681.md
+quest_wq_77651,stories,world_quests,7.0,77651,Луч утренней зари,content/stories/quests/world_quests/quest_wq_77651.md
+quest_wq_70136,stories,world_quests,7.2,70136,Неугасающие угли,content/stories/quests/world_quests/quest_wq_70136.md
+quest_aq_1704,stories,archon_quests,7.2,"7030,7031",Час погибели,content/stories/quests/archon_quests/quest_aq_1704.md
+quest_aq_1701,stories,archon_quests,7.0,"7005,7006,7007,7008,7009",Ноктюрн мёртвых душ,content/stories/quests/archon_quests/quest_aq_1701.md
+quest_aq_1705,stories,archon_quests,7.2,"7023,7029,7025,7026,7027,7028",Вчерашний день с другого берега,content/stories/quests/archon_quests/quest_aq_1705.md
+quest_aq_1700,stories,archon_quests,7.0,"7011,7012,7013,7014",Безжалостный мороз,content/stories/quests/archon_quests/quest_aq_1700.md
+quest_aq_1702,stories,archon_quests,7.1,"7015,7016,7017",Белая ночь после долгого сна,content/stories/quests/archon_quests/quest_aq_1702.md
+quest_aq_1703,stories,archon_quests,7.1,"7018,7019,7020",Реквием загробного мира,content/stories/quests/archon_quests/quest_aq_1703.md
+volkodlak_lobber,enemies,,7.0,25131001,Волкодлак-метатель,content/enemies/common_enemies/volkodlak_lobber.md
+chimeric_winged_elephant,enemies,,7.0,26310301,Крылатая химера-слон,content/enemies/common_enemies/chimeric_winged_elephant.md
+volkodlak_basher,enemies,,7.0,25131201,Волкодлак-громила,content/enemies/common_enemies/volkodlak_basher.md
+volkodlak_raider,enemies,,7.0,25131401,Волкодлак-налётчик,content/enemies/common_enemies/volkodlak_raider.md
+chimeric_skorp,enemies,,7.2,26310801,Химера-скорпион,content/enemies/common_enemies/chimeric_skorp.md
+fanged_zealot,enemies,,7.0,25133601,Безумец с бивнями,content/enemies/common_enemies/fanged_zealot.md
+glaciomancer,enemies,,7.0,25135001,Колдун льдов,content/enemies/common_enemies/glaciomancer.md
+juvenile_tree_segment,enemies,,7.0,25138001,Часть молодого дерева,content/enemies/common_enemies/juvenile_tree_segment.md
+long_eared_striker,enemies,,7.0,25132701,Длинноухий штурмовик,content/enemies/common_enemies/long_eared_striker.md
+chimeric_armored_beast,enemies,,7.0,26310101,Бронешлемовый зверь,content/enemies/common_enemies/chimeric_armored_beast.md
+voywolf_hunter,enemies,,7.0,25133701,Ловчий воющих волков,content/enemies/common_enemies/voywolf_hunter.md
+chimeric_horned_bear,enemies,,7.0,26310401,Рогатая химера-медведь,content/enemies/common_enemies/chimeric_horned_bear.md
+winged_halberd_knight,enemies,,7.0,25130101,Крылатый рыцарь с алебардой,content/enemies/common_enemies/winged_halberd_knight.md
+icebound_reflection,enemies,,7.2,20090101,Ледяное отражение,content/enemies/common_enemies/icebound_reflection.md
+channel_contact,enemies,,7.0,25132801,Связной канала,content/enemies/common_enemies/channel_contact.md
+precursor_s_secret_source_matrix_of_overseer_network,enemies,,6.7,24090601,Предтечная секретная система матрицы оператора наблюдения,content/enemies/common_enemies/precursor_s_secret_source_matrix_of_overseer_network.md
+winged_soarer_knight,enemies,,7.0,25130201,Крылатый парящий рыцарь,content/enemies/common_enemies/winged_soarer_knight.md
+chimeric_crocohoof,enemies,,7.2,26310701,Копытная химера-крокодил,content/enemies/common_enemies/chimeric_crocohoof.md
+glacial_warden,enemies,,7.0,25135101,Стражник льдов,content/enemies/common_enemies/glacial_warden.md
+volkodlak_sharpshooter,enemies,,7.0,25131601,Волкодлак-снайпер,content/enemies/common_enemies/volkodlak_sharpshooter.md
+chimeric_burrowbeast,enemies,,7.0,26310201,Химера-землерой,content/enemies/common_enemies/chimeric_burrowbeast.md
+rugged_elder_leshy,enemies,,7.0,25137001,Суровый леший-старейшина,content/enemies/common_enemies/rugged_elder_leshy.md
+leomastiff_guard,enemies,,7.0,25132601,Левмастиф-страж,content/enemies/common_enemies/leomastiff_guard.md
+immortal_construct,items,world_bosses,7.0,"25140101,113090",Бессмертный конструкт,content/items/world_bosses/immortal_construct.md
+chimeric_winged_lion,items,world_bosses,7.0,"26310501,113091",Крылатая химера-лев,content/items/world_bosses/chimeric_winged_lion.md
+wavebinder,items,world_bosses,7.2,"25134601,113093",Удерживающий волны,content/items/world_bosses/wavebinder.md
+guardian_blade_of_drifting_snow,items,world_bosses,7.1,"25135202,113092",Разящая вьюга,content/items/world_bosses/guardian_blade_of_drifting_snow.md
+item_101279,items,teyvat_resources,7.0,101279,Криозвёздник,content/items/teyvat_resources/item_101279.md
+item_101276,items,teyvat_resources,7.0,101276,Флоковая трава,content/items/teyvat_resources/item_101276.md
+item_101277,items,teyvat_resources,7.0,101277,Золотой папоротник,content/items/teyvat_resources/item_101277.md
+item_131058,items,teyvat_resources,7.0,131058,Лазурная звездоснежка,content/items/teyvat_resources/item_131058.md
+item_101285,items,teyvat_resources,7.2,101285,Фонарная ягода,content/items/teyvat_resources/item_101285.md
+item_101282,items,teyvat_resources,7.0,101282,Светящийся флюорит,content/items/teyvat_resources/item_101282.md
+item_101278,items,teyvat_resources,7.0,101278,Свёкла,content/items/teyvat_resources/item_101278.md
+item_101273,items,teyvat_resources,7.2,101273,Полынь альвов,content/items/teyvat_resources/item_101273.md
+item_101280,items,teyvat_resources,7.0,101280,Снежноцвет,content/items/teyvat_resources/item_101280.md
+item_131059,items,teyvat_resources,7.0,131059,Радужно-кристальная звездоснежка,content/items/teyvat_resources/item_131059.md
+item_131056,items,teyvat_resources,7.0,131056,Лунный снежный пинагор,content/items/teyvat_resources/item_131056.md
+item_110017,items,teyvat_resources,7.0,110017,Мёд,content/items/teyvat_resources/item_110017.md
+item_101270,items,teyvat_resources,6.7,101270,Слеза застывшей луны,content/items/teyvat_resources/item_101270.md
+item_101274,items,teyvat_resources,7.2,101274,Кристаллический гриб-зонтик,content/items/teyvat_resources/item_101274.md
+item_131057,items,teyvat_resources,7.0,131057,Свекольная звездоснежка,content/items/teyvat_resources/item_131057.md
+item_131055,items,teyvat_resources,7.0,131055,Сливочный снежный пинагор,content/items/teyvat_resources/item_131055.md
+item_131054,items,teyvat_resources,7.0,131054,Пепельный снежный пинагор,content/items/teyvat_resources/item_131054.md
+item_101281,items,teyvat_resources,7.0,101281,Смородина,content/items/teyvat_resources/item_101281.md
+item_101275,items,teyvat_resources,7.0,101275,Морозник,content/items/teyvat_resources/item_101275.md
+item_101333,items,teyvat_resources,7.0,101333,Древесина синего бука,content/items/teyvat_resources/item_101333.md
+item_101334,items,teyvat_resources,7.0,101334,Древесина лиственницы,content/items/teyvat_resources/item_101334.md
+item_101331,items,teyvat_resources,7.0,101331,Древесина снежного тополя,content/items/teyvat_resources/item_101331.md
+item_101332,items,teyvat_resources,7.0,101332,Древесина белой берёзы,content/items/teyvat_resources/item_101332.md
+material_set_112146,items,common_enemies,7.0,"112146,112147,112148",Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя,content/items/common_enemies/material_set_112146.md
+material_set_112152,items,common_enemies,7.0,"112152,112153,112154",Наросший осколок / Осадочный сгусток / Осадочный нарост,content/items/common_enemies/material_set_112152.md
+material_set_112143,items,common_enemies,6.7,"112143,112144,112145",Повреждённое лунное железо / Угасшее лунное железо / Безупречное лунное железо,content/items/common_enemies/material_set_112143.md
+material_set_112158,items,common_enemies,7.2,"112158,112159,112160",Осколок снежного сердца / Снежное зеркальное сердце / Снежное сердце неведения,content/items/common_enemies/material_set_112158.md
+material_set_112149,items,common_enemies,7.0,"112149,112150,112151",Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры,content/items/common_enemies/material_set_112149.md
+material_set_112155,items,common_enemies,7.0,"112155,112156,112157",Опустевший корень жизни / Росток узла жизни / Свернувшееся ядро жизни,content/items/common_enemies/material_set_112155.md
+material_set_114089,items,development_materials,7.0,"114089,114090,114091,114092",Порция выдержанного духовного нектара / Хмель выдержанного духовного нектара / Упоение выдержанным духовным нектаром / Пир выдержанного духовного нектара,content/items/development_materials/material_set_114089.md
+material_set_104371,items,development_materials,7.0,"104371,104372,104373",Учения о «Славе» / Указания о «Славе» / Философия о «Славе»,content/items/development_materials/material_set_104371.md
+material_set_104368,items,development_materials,7.0,"104368,104369,104370",Учения о «Стойкости» / Указания о «Стойкости» / Философия о «Стойкости»,content/items/development_materials/material_set_104368.md
+material_set_114093,items,development_materials,7.0,"114093,114094,114095,114096",Возрождение снежного императора / Церемония снежного императора / Скорбь снежного императора / Прощание снежного императора,content/items/development_materials/material_set_114093.md
+material_set_114085,items,development_materials,7.0,"114085,114086,114087,114088",Восхождение армии Бледной звезды / Сбор армии Бледной звезды / Боевой клич армии Бледной звезды / Триумф армии Бледной звезды,content/items/development_materials/material_set_114085.md
+material_set_104365,items,development_materials,7.0,"104365,104366,104367",Учения о «Милосердии» / Указания о «Милосердии» / Философия о «Милосердии»,content/items/development_materials/material_set_104365.md
+item_200129,items,development_materials,7.1,200129,Кисточка с ароматом чая,content/items/development_materials/item_200129.md

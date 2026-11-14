@@ -1,0 +1,82 @@
+{
+  "id": "juvenile_tree_segment",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/juvenile_tree_segment.webp",
+  "title": {
+    "ru": "Часть молодого дерева",
+    "en": "Juvenile Tree Segment",
+    "zh": "幼嫩的分节树"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Часть молодого дерева",
+    "Juvenile Tree Segment",
+    "幼嫩的分节树"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Леший, обитающий среди лесов и полей.\nСреди многочисленных альвов Снежной лешие - один из самых необычных народов, почти никогда не появляющийся в городах. Возможно, именно лешие живут дольше всех среди альвов, и очень немногие представители других долгоживущих народов становились свидетелями всей жизни лешего. Впрочем, большинству людей, вероятно, не под силу даже отличить одного лешего от другого.",
+    "en": "A Leshy that grows in forests and wilds.\nAmong the many fae of Snezhnaya, Leshies are a very unusual kind, rarely appearing in cities. They may well be the longest-lived among all fae, and few members of other long-lived races have ever witnessed a Leshy's life from beginning to end. Of course, most people would likely struggle even to distinguish one Leshy from another.",
+    "zh": "生长在林野之中的树妖。\n在至冬的诸多妖精中，树妖也是极为特殊的一种，它几乎很少出现在城市中。在诸多妖精之中，树妖或许是最为长寿的，很少有长生的其他种族见证过树妖的一生。不过大多数人可能连分辨树妖中的个体都做不到吧。"
+  },
+  "description": {
+    "ru": "Леший, обитающий среди лесов и полей.\nСреди многочисленных альвов Снежной лешие - один из самых необычных народов, почти никогда не появляющийся в городах. Возможно, именно лешие живут дольше всех среди альвов, и очень немногие представители других долгоживущих народов становились свидетелями всей жизни лешего. Впрочем, большинству людей, вероятно, не под силу даже отличить одного лешего от другого.",
+    "en": "A Leshy that grows in forests and wilds.\nAmong the many fae of Snezhnaya, Leshies are a very unusual kind, rarely appearing in cities. They may well be the longest-lived among all fae, and few members of other long-lived races have ever witnessed a Leshy's life from beginning to end. Of course, most people would likely struggle even to distinguish one Leshy from another.",
+    "zh": "生长在林野之中的树妖。\n在至冬的诸多妖精中，树妖也是极为特殊的一种，它几乎很少出现在城市中。在诸多妖精之中，树妖或许是最为长寿的，很少有长生的其他种族见证过树妖的一生。不过大多数人可能连分辨树妖中的个体都做不到吧。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112155",
+      "title": {
+        "ru": "Опустевший корень жизни / Росток узла жизни / Свернувшееся ядро жизни",
+        "en": "Hollow Root of Life / Sprout Node of Life / Coiled Core of Life",
+        "zh": "灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112155.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112155",
+          "title": {
+            "ru": "Опустевший корень жизни",
+            "en": "Hollow Root of Life",
+            "zh": "灵生空根"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112155.webp"
+        },
+        {
+          "key": "material_112156",
+          "title": {
+            "ru": "Росток узла жизни",
+            "en": "Sprout Node of Life",
+            "zh": "灵生分蘖节"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112156.webp"
+        },
+        {
+          "key": "material_112157",
+          "title": {
+            "ru": "Свернувшееся ядро жизни",
+            "en": "Coiled Core of Life",
+            "zh": "灵生盘枝心"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112157.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -144,5 +144,932 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Здравствуй, постарайся как можно более кратко изложить цель своего визита. А? Ты не по делу? Ох, от этого меня ещё больше тянет нервничать. Ладно, давай сядем и всё обсудим в подробностях... Да, можешь обращаться ко мне «ваша светлость». Так меня все называют в крепости, и... в общем, я к этому привык.",
+        "en": "Hello, please try to quickly summarize your intents and goals for this meeting. Oh? You're not here for business? Well, that just makes me even more nervous.\nAlright, then perhaps we should sit down and discuss things in a little more detail... Oh, and you can call me \"Your Grace.\" That's what they all call me down in the Fortress, and... well, I kinda got used to it.",
+        "zh": "你好，请尽量简洁地说明你的来意。嗯？不是公事？那我反而更紧张了。\n坐下详谈吧。顺便一提，你可以称呼我「公爵」，他们都是这么叫的，我也听习惯了。"
+      },
+      "source_id": 86000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Наклейки",
+        "en": "Chat: Stickers",
+        "zh": "闲聊·贴纸"
+      },
+      "text": {
+        "ru": "Если как-нибудь увидишь у меня на спине наклейки, сделай одолжение и сними их... Мелюзины любят иногда пошутить.",
+        "en": "If you ever see any stickers on my back, do me a favor and take them off... Melusines like to play pranks sometimes.",
+        "zh": "如果看到我背后粘着美露莘画的贴纸，帮我揭掉吧？"
+      },
+      "source_id": 86001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Домашние животные",
+        "en": "Chat: Pets",
+        "zh": "闲聊·宠物"
+      },
+      "text": {
+        "ru": "Когда-то я подумывал о том, чтобы завести питомца на рабочем месте, но вскоре отказался от этой идеи. Неправильно держать животных там, где они не увидят солнца.",
+        "en": "I once considered keeping some pets in my office, but soon gave up on the idea. It's just not right to keep small animals where they won't be able to see the sun.",
+        "zh": "我曾经考虑过要不要在办公室里养宠物，但小猫小狗在不见阳光的地方生活太可怜了。还是算了吧。"
+      },
+      "source_id": 86002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Предостережение",
+        "en": "Chat: Words of Advice",
+        "zh": "闲聊·忠告"
+      },
+      "text": {
+        "ru": "Вот тебе моё предостережение: не нарушай закон. Нужны ещё советы? Да пожалуйста: не вздумай нарушать закон.",
+        "en": "Word of advice: Don't break the law. Hmm, is there anything else? Oh, yeah... Seriously, don't break the law.",
+        "zh": "不要违法。还有什么需要叮嘱的吗？哦对了，不要违法。"
+      },
+      "source_id": 86003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Идёт дождь? Ну это обычное дело. Вот когда в крепости Меропид над головой начинает капать - это серьёзная проблема.",
+        "en": "Oh, it's raining? That's alright. A real problem would be if we could feel water dripping on our heads in the Fortress of Meropide.",
+        "zh": "下雨了？还好。要是在梅洛彼得堡感到头顶滴水的话，问题可就大了。"
+      },
+      "source_id": 86004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Говорят, что грома боятся те, кому есть что скрывать.",
+        "en": "You know, they say if you're scared of the thunder, it's really because you've got something else to hide.",
+        "zh": "心中无罪的人，在这种天气下也能安睡吧。"
+      },
+      "source_id": 86005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Это не тот холод, к которому я привык.",
+        "en": "Hmm... This is a different kind of cold than what I'm used to.",
+        "zh": "嗯…和水下的冷不太一样。"
+      },
+      "source_id": 86006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Говорят, что нет ничего нового под солнцем, но пикник на солнышке никогда не устареет.",
+        "en": "They say there's nothing new under the sun, but somehow a picnic in the warm sunshine never gets old.",
+        "zh": "「太阳之下无新事」，但可以找个好地方野餐。"
+      },
+      "source_id": 86007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Утро. Какой в газетах прогноз погоды на сегодня?",
+        "en": "Morning. What do the papers have to say about today's weather forecast?",
+        "zh": "早。晨报上的天气预测怎么说？"
+      },
+      "source_id": 86008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "В купонной столовой сейчас, наверное, не протолкнуться. Попрошу кого-нибудь принести еду в кабинет.",
+        "en": "The Coupon Cafeteria is probably crowded right now. I'll have someone deliver the food straight to my office.",
+        "zh": "现在特许食堂人正多，我叫人送餐到办公室来吧。"
+      },
+      "source_id": 86009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Уже вечер? Могу поклясться, что я только что выпил свой послеобеденный чай.",
+        "en": "Huh, is it evening already? Could have sworn I'd just had my afternoon tea.",
+        "zh": "都这个时间了？总觉得才刚刚喝过下午茶。"
+      },
+      "source_id": 86010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Доброй ночи. Я еще немного посижу - хочу перепроверить кое-какие цифры, пока всё тихо и спокойно.",
+        "en": "Good night. I'll be staying up for a little while yet — want to run some numbers while everything's nice and quiet.",
+        "zh": "晚安。我要等会儿再睡，趁夜深人静正好算几笔账。"
+      },
+      "source_id": 86011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Ризли: Недоразумения",
+        "en": "About Wriothesley: Misunderstanding",
+        "zh": "关于莱欧斯利自己·误解"
+      },
+      "text": {
+        "ru": "Люди склонны видеть во мне наделенного чудесными способностями всезнайку. На самом же деле я всего лишь человек с двумя глазами и ушами. Как я могу знать обо всём, что происходит в крепости Меропид?",
+        "en": "People have this tendency to see me as an all-knowing figure with mystical powers. In reality, I'm just one man with two eyes and two ears. How can I possibly know everything that's happening in the Fortress of Meropide?",
+        "zh": "他们不是把我想得太神秘，就是太全能了。我只有一双眼睛、一对耳朵，怎么可能照顾到梅洛彼得堡的每一个角落呢。"
+      },
+      "source_id": 86012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Ризли: Небольшие перерывы",
+        "en": "About Wriothesley: Small Breaks",
+        "zh": "关于莱欧斯利自己·小憩"
+      },
+      "text": {
+        "ru": "Я уже давно отбыл свой срок, так что ничто не мешает мне время от времени выходить в наземный мир как свободному гражданину для отдыха.\nО, не стоит беспокоиться... В крепости Меропид в настоящее время нет таких проблем, которые требовали бы моего круглосуточного присутствия.",
+        "en": "I finished serving my sentence long ago, so there's nothing stopping me from taking an occasional breather in the overworld as a free citizen.\nAh, there's no need to worry... The Fortress of Meropide doesn't currently have any problem so big as to require my round-the-clock presence to operate effectively.",
+        "zh": "我早已服完刑，现在是自由公民，当然可以来水上闲逛。\n不必担忧。要是梅洛彼得堡必须要我一直待在下面才能稳定运转，那也太不健康了。"
+      },
+      "source_id": 86013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Заключение под стражу",
+        "en": "About Us: Committing to Jail",
+        "zh": "关于我们·收监"
+      },
+      "text": {
+        "ru": "О многих людях я составляю первое впечатление по содержанию их сопроводительных документов. И ты, кажется, в этом не исключение.",
+        "en": "I form my first impressions of many people based on the contents of their inmate registration papers. Seems like you're no exception to the rule.",
+        "zh": "我对很多人的第一印象都是从收监登记表开始的，看来你也没能例外。"
+      },
+      "source_id": 86014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Выход из тюрьмы",
+        "en": "About Us: Finishing the Jail Term",
+        "zh": "关于我们·出狱"
+      },
+      "text": {
+        "ru": "Говорят, что дружбу лучше начинать, когда нет конфликта интересов. Похоже, что для нас настал подходящий момент.",
+        "en": "They say it's best to begin a friendship when there's no conflict of interest. Seems like the appropriate time has come.",
+        "zh": "都说没了利益牵扯才好做朋友，我们可以现在开始。"
+      },
+      "source_id": 86015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Когда-то другие заключённые научили меня управлять элементами с помощью химических зелий. Думаю, ответственные за раздачу Глаз Бога не станут слишком переживать из-за такого отступления от правил.",
+        "en": "Some inmates once taught me a way to wield the elements by throwing around chemical potions. I guess whoever's in charge of handing out Visions doesn't care too much about a little rule-bending.",
+        "zh": "我以前跟一些罪人学过借助化学药剂使用元素的方法。无论「神之眼」的发放归哪个部门管，他们似乎不是很介意这点僭越之举。"
+      },
+      "source_id": 86016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Хочешь узнать, как улизнуть от жандармов? Возьми себе длинное имя, которое сложно запомнить. Каждый раз, когда они будут кричать «Руки вверх, этот... как тебя там?», их заминка даст тебе фору.",
+        "en": "Want a tip on how to escape from the Gardes? Just give yourself a name that's really long and difficult to pronounce. They'll be stumbling over your name as soon as they try to announce that you are under arrest.",
+        "zh": "知道怎么做更容易逃脱警备队的抓捕吗？给自己起个又长又难记的名字，然后他们在大喊「那个谁，把手举起来！」时就会卡壳。"
+      },
+      "source_id": 86017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "«Кто не работает, тот не ест» - так с давних пор написано на стенах крепости Меропид. Не знаю, кто придумал это первым, но здесь, под водой, это очень удобный принцип.",
+        "en": "\"If a man will not work, he shall not eat.\" This phrase has been on the walls of the Fortress of Meropide for as long as anyone can remember. I don't know who first came up with it, but it's been pretty useful in the underworld.",
+        "zh": "「不劳动者不得食」，这句话很久以前就刷在梅洛彼得堡墙上了。我也不知道是谁安排的，在水下的确很实用。"
+      },
+      "source_id": 86018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Нёвиллете...",
+        "en": "About Neuvillette",
+        "zh": "关于那维莱特…"
+      },
+      "text": {
+        "ru": "Однажды Нёвиллет вызвал меня, чтобы обсудить кое-какие вопросы у него в кабинете. Когда я подъехал к дворцу Мермония, то увидел его у дороги, до нитки мокрого от дождя. Я протянул ему зонтик, и хотя он вежливо поблагодарил меня, выражение его лица было несколько... расстроенным, я бы сказал. Наверное, я ему чем-то помешал.",
+        "en": "I was once summoned by Neuvillette to discuss some matters with him in his office. When I approached the Palais Mermonia, I saw him standing by the road, completely drenched in the rain. I held out an umbrella for him, and while he thanked me politely, his expression was a little... distressed, I guess. I can only assume that I had disturbed him in the middle of something.",
+        "zh": "记得有次被那维莱特叫去上面谈事情，走到沫芒宫门口正好看到他在路边淋雨。我替他打了伞，他礼貌地道了谢，表情却不大自然。我大概是打扰到了什么吧。"
+      },
+      "source_id": 86019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Фурине...",
+        "en": "About Furina",
+        "zh": "关于芙宁娜…"
+      },
+      "text": {
+        "ru": "Госпожа Фурина не проявила особого интереса к моему процессу и ушла ещё до его окончания. Вероятно, потому, что я признал себя виновным по всем пунктам обвинения, как только они были оглашены. Разочаровать Гидро Архонта - дело серьёзное, так что... полагаю, у меня нет иного выбора, кроме как продолжать одаривать её огромным количеством чая высочайшего качества.",
+        "en": "Miss Furina displayed a severe lack of interest in my trial and excused herself early, probably because I pleaded guilty to all charges as soon as they were announced. Disappointing the Hydro Archon is a big deal, so... suppose I've got no choice but to keep gifting her copious amounts of the highest quality tea.",
+        "zh": "可能是因为我认罪太快，芙宁娜小姐在当年的审判中看起来兴致索然，早早就退场了。让水神大人失望可是大事，只好今后多给她送些好茶了。"
+      },
+      "source_id": 86020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Сиджвин...",
+        "en": "About Sigewinne",
+        "zh": "关于希格雯…"
+      },
+      "text": {
+        "ru": "Старшая медсестра Сиджвин обладает всеми приличествующеми её профессии добродетелями и искренне заботится о благополучии окружающих. Похоже, правда, что она переняла от меня некоторые дурные привычки, например, часто устраивает пари со своими подругами-мелюзинами на тему того, кто прилепит больше наклеек на мои вещи. Нет, на самом деле мне это нисколько не мешает.",
+        "en": "Sigewinne the head nurse possesses all the virtues associated with the medical profession and genuinely cares for the well-being of everyone around her.\nShe seems to have picked up some bad habits from me, though, like frequently betting with her Melusine friends over who'd be able to put more stickers on my belongings. Hm? No, I'm not actually bothered by it.",
+        "zh": "希格雯护士长具备一名医护人员所需的全部美德，并关心着身边每一位同伴。\n不过她似乎从我身上学走了一些坏习惯，比如时常和她的美露莘朋友们打赌，看谁能偷偷在我的东西上贴更多贴纸。不，我并不觉得困扰。"
+      },
+      "source_id": 86021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Клоринде...",
+        "en": "About Clorinde",
+        "zh": "关于克洛琳德…"
+      },
+      "text": {
+        "ru": "Клоринда - лучший судебный дуэлянт, которого только можно найти. О её боевом мастерстве ходят легенды. Я сам никогда не сражался с ней, но это просто потому, что не было необходимости.",
+        "en": "Clorinde is the best Champion Duelist you can find. Her combat prowess is already the stuff of legend. I've never fought her myself, but that's because there's never been a need for it.",
+        "zh": "克洛琳德应该是你能找到的最好的决斗代理人了，实力有目共睹。我从未和她比试过，没有那个必要。"
+      },
+      "source_id": 86022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Лини...",
+        "en": "About Lyney",
+        "zh": "关于林尼…"
+      },
+      "text": {
+        "ru": "Признаю, когда я убрал из-под воды шпионов Дома очага, это была своего рода провокация для Фатуи. Но в ответ они отправили к нам кучку детей... Эти дети были им не нужны? Или Фатуи понимали, что я не допущу, чтобы им причинили серьёзный вред? Ох...",
+        "en": "I'll admit that when I removed the House of the Hearth's spies in the underworld, that was kind of an intentional provocation to the Fatui. But their only response was to send down a bunch of children... Was it because they truly saw those kids as disposable? Or because they knew I wouldn't have it in me to let them come to serious harm? *sigh*",
+        "zh": "我承认，拔除「壁炉之家」安插在水下的眼线是种挑衅。而他们的回应是只派几个孩子下来，的确令我有些难办。是真心觉得他们也可以被牺牲，还是看准了我不会对小孩下狠手呢…唉。"
+      },
+      "source_id": 86023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Навии...",
+        "en": "About Navia",
+        "zh": "关于娜维娅…"
+      },
+      "text": {
+        "ru": "Крепость Меропид сотрудничает со Спина-ди-Росула по некоторым вопросам, связанным с поставками и логистикой, но других общих дел у нас нет. Это не потому, что я не доверяю Навии или её способностям - на самом деле я очень высоко её ценю. Единственная причина, по которой мы продолжаем держаться подальше друг от друга, заключается в соглашении, которое я заключил с покойным господином Калласом.",
+        "en": "The Fortress of Meropide works with Spina di Rosula on some matters regarding supplies and logistics, but we don't have any other dealings. This isn't because I don't trust Navia or her abilities, in fact, I hold her in quite high regard. The only reason we continue to stay out of each other's way is because I wanna honor the agreement I made with the late Mr. Callas.",
+        "zh": "梅洛彼得堡和刺玫会有一些物资方面的合作，但仅限于此。并不是不信任娜维娅小姐或是质疑她的能力——实际上恰恰相反——只不过，我们之间水下水上的事务互不干涉是我与卡雷斯先生约好的规矩，维持不变就好。"
+      },
+      "source_id": 86024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Об Эмилии...",
+        "en": "About Emilie",
+        "zh": "关于艾梅莉埃…"
+      },
+      "text": {
+        "ru": "Её услуги крепости Меропид вроде как не требуются. Порой уроки прошлого оставляют свои следы. А запах - это тоже след, не так ли?",
+        "en": "The Fortress of Meropide doesn't need her services. Yet some things are best preserved the way they are, warts and all, so people don't make the same mistakes twice... I say warts, but yeah. I mean the smell.",
+        "zh": "梅洛彼得堡应该用不上她的服务，有些痕迹就是作为「前车之鉴」被留下来的。…气味也是痕迹的一种，不是吗？"
+      },
+      "source_id": 86025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Шеврёз...",
+        "en": "About Chevreuse",
+        "zh": "关于夏沃蕾…"
+      },
+      "text": {
+        "ru": "Заключённые, за которыми присматривает Особый патруль, по большей части ведут себя прилично, и в этом немалая заслуга капитана.",
+        "en": "Most inmates seem to gain a new level of respect for the rules after receiving attention from the Special Security and Surveillance Patrol. As the captain, Chevreuse is an instrumental part of that team.",
+        "zh": "被特巡队关照过的犯人大多挺老实的，这位队长功不可没。"
+      },
+      "source_id": 86026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Ризли I",
+        "en": "More About Wriothesley: I",
+        "zh": "想要了解莱欧斯利·其一"
+      },
+      "text": {
+        "ru": "Теоретически, люди, которые со мной не знакомы, могут считать себя счастливчиками.",
+        "en": "As a general rule, the less a person sees of me, the happier their life is.",
+        "zh": "理论上来讲，完全不认识我的人会比较幸福。"
+      },
+      "source_id": 86027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Ризли II",
+        "en": "More About Wriothesley: II",
+        "zh": "想要了解莱欧斯利·其二"
+      },
+      "text": {
+        "ru": "Откуда у меня шрамы? О, однажды чудовище из глубин ворвалось в крепость Меропид, и во время нашей схватки я был серьёзно ранен... Ну, конечно, это враньё, не вздумай поверить.",
+        "en": "Hmm? Oh the scar on my body? It's from a gash I got while battling a gigantic undersea monster that tried to take over the Fortress of Meropide. ...Hah, just kidding.",
+        "zh": "身上的疤痕？曾有深海巨兽企图占领梅洛彼得堡，我和它搏斗时被抓伤了。…当然是假的，不要信。"
+      },
+      "source_id": 86028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Ризли III",
+        "en": "More About Wriothesley: III",
+        "zh": "想要了解莱欧斯利·其三"
+      },
+      "text": {
+        "ru": "Знаешь, большинство наручников можно открыть универсальным ключом, если модель совпадает. Но только не мои.",
+        "en": "Did you know, many similar models of handcuffs can all be unlocked using the same master key? Except mine, of course. They're different.",
+        "zh": "你知道吗，手铐只要型号相近，大部分都能用通用的钥匙打开。只有我这副不一样。"
+      },
+      "source_id": 86029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Ризли IV",
+        "en": "More About Wriothesley: IV",
+        "zh": "想要了解莱欧斯利·其四"
+      },
+      "text": {
+        "ru": "На самом деле мои личные возможности очень ограничены. Видишь ли, я не умею ни лечить болезни, ни изобретать, ни строить корабли. Я просто знаю, где найти людей, которые на всё это способны, и они, случается, готовы поделиться со мной мастерством, если им как следует заплатить.",
+        "en": "Honestly, my personal abilities are pretty limited. I got no talent in medicine, inventions, or ship-making. But what I do know how to do is find those people with those talents, and get 'em to come work for me.",
+        "zh": "我的个人能力其实很有限。你看，我既不会治病，也不会搞发明，更不会造大船。我只是知道该去哪里找人做这些事，而他们恰好愿意卖我这个面子而已。"
+      },
+      "source_id": 86030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Ризли V",
+        "en": "More About Wriothesley: V",
+        "zh": "想要了解莱欧斯利·其五"
+      },
+      "text": {
+        "ru": "Сейчас мне живется неплохо, но я по-прежнему завидую тому, чего у меня нет и не было, - например, спокойному и счастливому детству или способности легко доверять другим. Кому-то это может показаться противоречивым, кто-то считает, что об этом неудобно говорить, но я не думаю, что есть что-то плохое в том, чтобы это признать - предпочитаю жить в ладу с самим собой.",
+        "en": "I've managed to get myself to a pretty comfortable place in life, but there's still some things I want that are outside my reach, like a peaceful and happy childhood, or the ability to trust other people. Maybe some people would see those feelings as shameful or contradictory, but I don't see a problem with sharing them. After all, why should anybody be afraid to admit what they want?",
+        "zh": "我现在过上了还不错的生活，但也仍然羡慕一些我得不到的东西——比如安逸快乐的童年，和轻易信赖他人的能力。可能有人认为这很矛盾，或者难以启齿，我倒觉得没什么不好承认的——何必和自己的本心过不去呢？"
+      },
+      "source_id": 86031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Хобби Ризли...",
+        "en": "Wriothesley's Hobbies",
+        "zh": "莱欧斯利的爱好…"
+      },
+      "text": {
+        "ru": "Панкратион? Это не столько хобби, сколько жизненная необходимость. Посоветуешь что-нибудь ещё?",
+        "en": "Boxing? To me, that's more of a necessity than a hobby. You got some suggestions for actual hobbies?",
+        "zh": "拳击？不算是爱好吧，只是生活所需。你有什么其他推荐吗？"
+      },
+      "source_id": 86032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Беспокойство Ризли...",
+        "en": "Wriothesley's Troubles",
+        "zh": "莱欧斯利的烦恼…"
+      },
+      "text": {
+        "ru": "Мне кажется, с виду я вылитый уроженец Фонтейна, но полной уверенности у меня нет. Окончательно убедиться можно, только прыгнув в воду Первозданного моря?",
+        "en": "While I do possess some stereotypical Fontainian looks, when you're an orphan, you can never really be sure where you're from. Who knows, maybe I'll take a dip in the Primordial Sea one of these days just to check...",
+        "zh": "我确实有着枫丹人的长相，但没法百分之百肯定——只能跳胎海水确认咯？"
+      },
+      "source_id": 86033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "В кофе я люблю добавлять молоко, а в чай - два кусочка сахара.",
+        "en": "I usually take some milk with my coffee and two cubes of sugar with my tea.",
+        "zh": "喝咖啡时我习惯加奶，茶的话，两块糖就好了。"
+      },
+      "source_id": 86034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Тебе доводилось пробовать молочные коктейли Сиджвин? Вкус просто... опустошающий.",
+        "en": "Have you ever had one of Sigewinne's milkshakes? The taste that comes to mind is... what's that flavor... desolation.",
+        "zh": "你喝过护士长做的奶昔吗？能从中尝出…「荒芜」的味道。"
+      },
+      "source_id": 86035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Идеальное сочетание вкусов. Я бы никогда не смог приготовить это сам.",
+        "en": "What a perfect blend of flavors. I could have never made this myself.",
+        "zh": "完美的调味，我就不擅长这个。"
+      },
+      "source_id": 86036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Вкусно. Я обязательно угощу тебя чем-нибудь в следующий раз.",
+        "en": "Lovely. I'll be sure to treat you to something next time.",
+        "zh": "好吃。下次换我请客。"
+      },
+      "source_id": 86037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Прости, я... заварю себе чай.",
+        "en": "Please excuse me, I'm... I'm gonna brew a cup of tea.",
+        "zh": "等我去泡杯茶。"
+      },
+      "source_id": 86038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "У нас считается, что дети Фонтейна рождаются, сопровождённые добрыми пожеланиями и благословениями родителей, но мне хотелось бы верить, что это относится и ко всем прочим людям нашего мира. В сравнении с этим любые мои пожелания будут выглядеть немного банальными, правда? Увы, если ты совершишь преступление, я не смогу в подарок на день рождения сократить твой срок наказания, разве что вручу особую порцию бесплатного питания. Так что лучше не нарушай закон, тогда мы сможем отпраздновать его в каком-нибудь более приятном местечке на поверхности.",
+        "en": "Our tradition says that all children of Fontaine are born amid their parents' wishes and blessings, but I'd like to think that all children are born from such wonderful feelings. Anything that I can say to celebrate your birth would feel a little trivial next to that, right?\nUnfortunately, I won't be able to reduce your prison sentence if you were to commit a crime — the only thing I would be able to pull off would be a special Welfare Meal for your birthday dinner. With all that in mind, why don't you try to respect the law a bit more around your birthday, so we'll be able to celebrate somewhere nice on the surface?",
+        "zh": "枫丹的孩子是伴随着双亲的心愿与祝福诞生的，不过我愿意相信这世上的每一个人都是如此。和这个比起来，我的祝愿就有些微不足道了。\n不，如果你犯事的话我是没办法帮你减刑的，只能在今天给你安排一份特殊的福利餐。所以生日期间还是安分一点，保证我们可以在水上庆祝，好吗？"
+      },
+      "source_id": 86039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Твоё доверие - честь для меня.",
+        "en": "It is my honor to win your trust.",
+        "zh": "能获得你的信任，是我的荣幸。"
+      },
+      "source_id": 86040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Ого, похоже, теперь я должен тебе услугу.",
+        "en": "Uh oh, looks like I'll owe you a favor now.",
+        "zh": "这下必须还你一个人情了。"
+      },
+      "source_id": 86041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Ха, почему тебя это как будто радует даже больше, чем меня?",
+        "en": "Ha, why do you look even more pleased about this than me?",
+        "zh": "哈，你怎么看起来比我要得意？"
+      },
+      "source_id": 86042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Мне нравятся знаки силы и надежды. Они дают мне больше уверенности в том, что завтра будет лучше, чем сегодня. Дело не в моём пессимизме, просто факт есть факт: попутный ветер не всегда будет дуть в спину. Но что бы ни случилось, мы по крайней мере сможем разобраться с этим вместе, правда?",
+        "en": "I like signs of strength and hope. They give me reassurance that tomorrow will be better than today. This isn't to be pessimistic, but it's impossible for the present to be without its doubts and troubles — that's just the truth. But come hell or high water, if nothing else then at least we'll be able to figure it out together, right?",
+        "zh": "我喜欢力量和希望的信号，会让我感觉未来一切向好。这并非悲观，只是陈述事实，因为现实本就不可能一帆风顺。但有个好消息，就是当坏事发生时，我们可以站在同一阵线，对吧？"
+      },
+      "source_id": 86043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Начнём.",
+        "en": "Let's begin.",
+        "zh": "开始吧。"
+      },
+      "source_id": 86044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Не пытайся сбежать.",
+        "en": "Don't run away now.",
+        "zh": "别跑啊。"
+      },
+      "source_id": 86045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Минутку.",
+        "en": "A moment, please.",
+        "zh": "请留步。"
+      },
+      "source_id": 86046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Доброго пути.",
+        "en": "Have a safe trip.",
+        "zh": "一路顺风。"
+      },
+      "source_id": 86047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Может стать немного прохладно.",
+        "en": "This could get a little chilly.",
+        "zh": "注意防寒。"
+      },
+      "source_id": 86048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Сохраняй спокойствие и признай свою вину!",
+        "en": "Stay cool and face your guilt!",
+        "zh": "无需畏惧，直面罪责。"
+      },
+      "source_id": 86049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "А, так он не заперт. Как удобно.",
+        "en": "Oh, this wasn't locked? How convenient.",
+        "zh": "没有锁吗？真方便啊。"
+      },
+      "source_id": 86050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "На твоём месте я бы это взял. Наверняка пригодится.",
+        "en": "I'd take it if I were you. I'm sure it'll come in handy.",
+        "zh": "先收好吧，总能派上用场。"
+      },
+      "source_id": 86051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Если владелец неизвестен, имущество лучше всего передать в общественную собственность, так что... никто ничего не видел, правда?",
+        "en": "All unclaimed articles should be turned in, so... neither of us saw anything here, right?",
+        "zh": "无主之物最好归公…所以这里什么都没有，对吧？"
+      },
+      "source_id": 86052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Не надо бояться.",
+        "en": "No need to fear.",
+        "zh": "不慌。"
+      },
+      "source_id": 86053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Подкрепления не будет? Ладно.",
+        "en": "No backup, huh? Fine by me.",
+        "zh": "不叫增援？也行。"
+      },
+      "source_id": 86054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Пора импровизировать.",
+        "en": "Time to improvise.",
+        "zh": "见机行事。"
+      },
+      "source_id": 86055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Отступай.",
+        "en": "Step back.",
+        "zh": "退后。"
+      },
+      "source_id": 86056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Ступай в лазарет.",
+        "en": "Get to the infirmary.",
+        "zh": "去医务室。"
+      },
+      "source_id": 86057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Прости... Я не смог защитить...",
+        "en": "Sorry... I couldn't protect...",
+        "zh": "抱歉，没能守住…"
+      },
+      "source_id": 86058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Я рискнул по полной, и вот результат...",
+        "en": "Instead of going big, guess I'm going home...",
+        "zh": "孤注一掷的后果…"
+      },
+      "source_id": 86059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "У меня... нет возражений.",
+        "en": "I have... no objections.",
+        "zh": "我没有异议。"
+      },
+      "source_id": 86060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Щадишь меня?",
+        "en": "Going easy on me?",
+        "zh": "这么客气？"
+      },
+      "source_id": 86061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "...Неплохо.",
+        "en": "...Not bad.",
+        "zh": "…还可以。"
+      },
+      "source_id": 86062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "За работу.",
+        "en": "Let's get to work.",
+        "zh": "开工。"
+      },
+      "source_id": 86063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "У тебя есть для меня работа на стороне? Без проблем.",
+        "en": "Got a side job for me? Sure thing.",
+        "zh": "请我出外勤？走。"
+      },
+      "source_id": 86064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Сделаю всё возможное, но никаких гарантий.",
+        "en": "I'll do my best, but I can't guarantee you victory.",
+        "zh": "我尽力，但不保证赢。"
+      },
+      "source_id": 86065
+    }
+  ],
+  "replica_count": 66
 }

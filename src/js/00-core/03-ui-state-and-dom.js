@@ -31,9 +31,7 @@ const state = {
       typeFiltersByGroup: {
         common_enemies: [],
         development_materials: [],
-        teyvat_resources: [],
-        serenitea_pot: [],
-        useful_items: []
+        teyvat_resources: []
       }
     },
     stories: {

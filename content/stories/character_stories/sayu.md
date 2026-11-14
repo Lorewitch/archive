@@ -301,3 +301,953 @@ Regarding her growing taller, it seems that even a Vision is unable to do anythi
 如今，借助「神之眼」的力量，早柚能举起比自己身高还高的双手剑，也不必为乱世中无处不在的争斗感到恐惧。
 只是，她本人最切身的烦恼还未得到解决。
 对于长高这件事，似乎连「神之眼」都无能为力呢。
+
+# voice_source_ids: 53005,53009,53010,53011,53012,53013,53014,53015,53016,53017,53018,53019,53020,53021,53022,53023,53024,53025,53026,53027,53028,53029,53030,53031,53032,53033,53034,53035,53036,53037,53038,53039,53040,53041,53042,53043,53044,53045,53046,53047,53048,53049,53050,53051,53052,53053,53054,53055,53056,53057,53058,53059,53060,53061,53062,53063,53064,53065,53066,53067,53068,53069,53070,53071,53072,53073,53074,53075,53076,53077,53078,53079,53080,53081,53082,53083,53084,53085
+
+## REPLICAS_RU
+
+### О Юмэмидзуки Мидзуки...
+
+Странный фиолетовый ёкай... Когда она смотрит на меня, кажется, что она хочет меня съесть... Ох! Опасно! Лучше держаться от неё подальше!
+
+### Элементальный навык I
+
+Пока!
+
+### Элементальный навык II
+
+Мне пора бежать.
+
+### Элементальный навык III
+
+Пуф!
+
+### Элементальный навык IV
+
+Меня здесь уже нет.
+
+### Элементальный навык V
+
+Не поймаешь!
+
+### Элементальный навык VI
+
+Как ветром сдуло...
+
+### Взрыв стихии I
+
+Двойная ниндзя!
+
+### Взрыв стихии II
+
+Давай, выходи!
+
+### Взрыв стихии III
+
+Хм...
+
+### Начало спринта I
+
+Скрыться под покровом бури!
+
+### Открытие сундука I
+
+А здесь довольно уютно... Можно поспать!
+
+### Открытие сундука II
+
+Задание выполнено! Можно мне вернуться и поспать?
+
+### Открытие сундука III
+
+Что здесь? Может, эликсир роста?
+
+### Низкий уровень HP I
+
+Что это был за способ скрыться?..
+
+### Низкий уровень HP II
+
+Что-то меня мутит...
+
+### Низкий уровень HP III
+
+Фух, как я устала.
+
+### Низкий уровень HP компаньона I
+
+Я тебя защищу.
+
+### Низкий уровень HP компаньона II
+
+Отдохни пять минуток. Или десять.
+
+### Без сознания I
+
+Почти... получилось... скрыться...
+
+### Без сознания II
+
+Спо... спо-койной ночи...
+
+### Без сознания III
+
+Не нужно было лениться...
+
+### Получен лёгкий удар I
+
+Ай!
+
+### Получен тяжёлый удар I
+
+Почти удалось увернуться...
+
+### Получен тяжёлый удар II
+
+Я теряю сознание.
+
+### Присоединяется к группе I
+
+Спать-то как хочется!
+
+### Присоединяется к группе II
+
+Может я пойду отосплюсь?
+
+### Присоединяется к группе III
+
+Эх! Меня словили.
+
+### Привет...
+
+Саю из Сюмацубан к вашим услугам! Фух... Если прямо сейчас я вам не нужна, то я пойду вздремну немного. Кстати, не надо гладить меня по голове, когда я сплю.
+
+### Поболтаем: Сон
+
+*зевает* *храпит*
+
+### Поболтаем: Работа
+
+Кажется, не стоило сегодня вообще вылезать из кровати.
+
+### Поболтаем: Рост
+
+Когда же я уже подрасту?
+
+### Когда идёт дождь...
+
+Ой, давай быстрее найдём укрытие! Полив идёт на пользу растениям, а не людям...
+
+### Когда гремит гром...
+
+Фух, ну и погодка! Лучшее, что сейчас можно сделать, - это забраться под одеялко, где темно, уютно и тепло...
+
+### Когда идёт снег...
+
+В такую погоду спрятаться несложно. Есть такая техника под названием «снежный покров». Позволяет стать практически невидимым. Всё, что люди будут видеть, глядя на тебя - танцующие снежинки. Ой! Это же был секрет... Не говори жрицам, что я проговорилась.
+
+### Когда светит солнце...
+
+Обожаю такую уютную погоду! *зевает* Поспать бы сейчас...
+
+### Когда дует ветер...
+
+Ветреный день - лучший день для побега.
+
+### Когда дует сильный ветер...
+
+Если ветер такой сильный, что глаза всё равно не открываются, то я предпочитаю посмотреть какой-нибудь сладкий сон.
+
+### Доброе утро...
+
+...Утро? Уже? Ну ладно, я только десять минуточек ещё подремлю... Пожалуйста, всего десять минут... Нет? Ну хорошо, тогда пять? *храпит*
+
+### Добрый день...
+
+Сейчас полдень? Ну наконец-то можно прикорнуть.
+
+### Добрый вечер...
+
+Разведка окончена, признаков жрицы в радиусе 3 миль не обнаружено. Переход к следующей фазе: тихий час!
+
+### Доброй ночи...
+
+Ну неужели... отбой... Сладких снов...
+
+### О Саю: Сюмацубан
+
+Да, я из Сюмацубан, но мне поручают лишь всякую мелочь вроде сбора информации или мелкого воровства. Поэтому, если вдруг какая-то работа останется невыполненной... ну что ж, ничего страшного.
+
+### О Саю: Увиливание
+
+В Сюмацубан мне не поручают ничего серьёзного, а если какую-нибудь работу откладывать на потом достаточно долго, то её обязательно сделает кто-нибудь другой. И сделает лучше. А вот сон - это крайне важно. Если я буду недосыпать, то как же я вырасту?
+
+### О нас: Любезность
+
+Не окажешь услугу? Предупреди, если вдруг увидишь жрицу. Я лишь... на минутку прикрою глаза.
+
+### О нас: Поглаживание по голове
+
+Я тебе не домашний питомец, знаешь ли! Гм, раз ты уже... Ладно, можешь погладить меня по голове, я обещаю не кусаться. Но только совсем недолго! Ведь это может привести к задержке роста...
+
+### Глаз Бога...
+
+Мой меч безумно тяжёлый. И хотя я владею искусством ниндзя, я всё равно могу поднять его только с помощью Глаза Бога. Так что да, Глаз Бога здорово меня выручает.
+
+### Давай поделимся...
+
+Сэнсэй говорит, что я буду последней ниндзя нашей школы. Что уж тут поделаешь... Тем более, что в бою это направление ниндзюцу не особо-то полезно - я только и умею, что скрываться и заметать следы.
+
+### Интересные вещи...
+
+Ты знаешь кто такой мудзина? Это как тануки, но гораздо милее. Я тебе покажу в следующий раз!
+
+### О Камисато Аяке...
+
+Она старшая дочь клана Камисато и всегда выглядит очень достойно и изящно. Но она попросила одну из жриц присматривать за мной, чтобы я не увиливала от работы. Ну за что?
+
+### О Камисато Аято...
+
+Иногда, когда я отдыхаю на ветке дерева, мне слышно как жрицы ведут о нём разговоры. Кажется, он очень важная персона, ещё и страшно занят большую часть времени. Впрочем, я его совсем не понимаю - в конце концов, это всего лишь работа. Её ведь можно просто... не делать.
+
+### О Томе...
+
+У него есть Глаз Бога, но каждый раз, когда я его встречаю, он досаждает меня разговорами об изучении искусства ниндзя. Я не знаю в чем его проблема. Не то, чтобы у меня было время его обучать. Я и так жутко не высыпаюсь.
+
+### О Ёимии...
+
+Каждый раз при встрече она говорит: «Здравствуй, крошка тануки! Идём на праздник, будет весело!» Во-первых, я не тануки. Во-вторых, я не хочу ни на какой праздник. А в-третьих, она говорит, что будет весело, а на самом деле только и мечтает о том, чтобы я продемонстрировала искусство ниндзя во время фейерверков. А это даже с моей работой в Сюмацубан никак не связано!
+
+### О сёгуне Райдэн...
+
+Её превосходительство? Вот уж кого я точно никогда не повстречаю. Если хочешь узнать побольше, попробуй спросить у госпожи Аяки.
+
+### О Яэ Мико...
+
+Она постоянно гладит меня по голове... Но я её ещё ни разу не укусила и даже не возмущалась. Я не знаю как она воспримет, если я дам ей отпор. Но что же мне делать?.. Если она продолжит поглаживать меня, я навсегда останусь маленького роста!
+
+### Об Аратаки Итто...
+
+Почему вокруг него всегда столько шума? И как он вырос таким высоким?
+
+### О Куки Синобу...
+
+Это имя мне ни о чём не говорит, дай-ка подумать... Что? Это маленькая помощница Аратаки Итто? Ну, тогда она тоже наверняка не даст поспать. Яблоко от яблони...
+
+### Узнать больше о Саю I
+
+Вжуух...
+
+### Узнать больше о Саю II
+
+Да? Ты хочешь знать, как называется моя школа ниндзюцу? Эмм... Знаешь, я сейчас не могу собраться с мыслями, я ещё в полусне. Дай мне ещё немного подремать. Может быть, я вспомню, когда проснусь.
+
+### Узнать больше о Саю III
+
+Ну ладно, ладно... Я расскажу тебе. Но если ты будешь смеяться, то я больше никогда с тобой не заговорю. Моя школа ниндзюцу называется Искусство Юху. Якобы наше направление строится вокруг высмеивания врага, но... да что тут скажешь...
+
+### Узнать больше о Саю IV
+
+Ты умеешь лазить по деревьям? Я в этом спец, могу научить. Возле храма есть одно дерево. Оно просто идеально подходит для того, чтобы спать на нём весь день. Никто в жизни тебя там не найдёт... Эм, точнее, я хотела сказать, что там неплохо можно устроиться, чтобы слегка передохнуть. В следующий раз, когда захочешь вздремнуть, скажи мне - и я отведу тебя к нему.
+
+### Узнать больше о Саю V
+
+Этот наряд мне подарил сэнсэй. Сказал, что он вдохновлён мудзиной и это поможет мне скрываться или ещё чем-то... А потом сэнсэй сказал, что я уже взрослая и готова справляться со всем в одиночку, но мне всё равно нужно быть осторожной и беречь себя... А потом сэнсэй ушёл. Как я могу быть готова справляться со всем в одиночку, с моим-то ростом?
+Ага? Ты... ты составишь мне компанию? Обещаешь меня не бросать?
+
+### Хобби Саю
+
+Когда я надеваю капюшон, то могу спать сладким сном сколько угодно, ничуть не беспокоясь о том, что жрица меня найдёт. Эх, должно быть, это лучшее в мире чувство.
+
+### Проблемы Саю: Недопонимание
+
+Когда люди впервые меня видят, они почему-то всегда называют меня «тануки», «плюшевый мишка» или «котёночек»... Но Саю - это Саю. И уж точно никакой не тануки.
+
+### Проблемы Саю: Рост
+
+Когда же у меня произойдёт скачок роста? Все мои ровесники уже практически в два раза выше меня, а я всё ещё... Ай, довольно! Мне нужен сон, сон - вот что мне поможет. Спокойной ночи!
+
+### Проблемы Саю: Раздражительность
+
+Недавно кто-то мне сказал, что излишняя раздражительность тоже может помешать росту! Ох! Даже не знаю, что теперь с этим делать...
+
+### Любимая еда...
+
+Высокоуглеводная пища, как онигири, например, даёт немедленный прилив энергии. Съедаешь что-нибудь такое сразу после пробуждения - и никакого осоловелого взгляда или спутанности мыслей. А после можно снова прилечь.
+
+### Нелюбимая еда...
+
+Нельзя быть привередливой в еде, если тебе ещё расти и расти! Хотя, по правде сказать, за последнее время в росте я совсем не прибавила. Может, я ем недостаточно овощей? Но салат не насыщает и бывает таким горьким...
+
+### День рождения...
+
+Хочешь освоить несколько навыков ниндзя? Я могу тебя научить кое-чему! Только тому, что сама умею, разумеется. Хм? Почему я не сплю? Э-э, потому что мне не хочется... И ещё потому что сегодня особенный день! Сегодня я не сплю, чтобы не упустить возможность лично поздравить тебя. С днём рождения!
+
+### Чувство возвышения: Начало
+
+Мне кажется, или я стала немножечко выше?!
+
+### Чувство возвышения: Нарастание
+
+Класс! Теперь я могу ускользать быстрее, чем когда-либо раньше! Хи-хи, теперь меня никто не поймает.
+
+### Чувство возвышения: Кульминация
+
+Спасибо за помощь в сборе всех этих материалов. Я бы и сама это сделала, но... наверняка бы уснула, не завершив начатое.
+
+### Чувство возвышения: Окончание
+
+Я думаю, я наконец готова справляться со всем сама, как мне говорил сэнсэй. И... может быть, не так уж и страшно, если я больше не вырасту. В конце концов, важно другое... что у меня есть ты.
+
+### Подарок I
+
+Ну вот, поели, теперь можно и поспать...
+
+### Подарок II
+
+Поешь этого... и точно захочется спать.
+
+### Подарок III
+
+О нет... Нужен план побега.
+
+### О Кираре...
+
+Однажды я проснулась от послеобеденного сна и почувствовала необычное тепло за спиной. Когда я обернулась, то увидела что там, свернувшись калачиком, спит кошка. И что удивительно - у неё было целых два пушистых хвоста вместо одного! Я так удивилась, что чуть с дерева не упала! Это какая-то техника ниндзюцу?
+
+### О Прюн...
+
+Она подарила мне толстую книгу «Введение в диетологию» и сказала, что, чтобы вырасти, нужно не только спать, но и правильно питаться. Но странно... при всех её знаниях мы всё равно почти одного роста. Может, она на самом деле не хочет становиться выше?
+
+## REPLICAS_EN
+
+### About Yumemizuki Mizuki
+
+That strange, purple youkai... Every time she looks at me, I get this feeling like she could devour me whole... Eek! I can't afford to get on her bad side, so I'm just gonna stay out of her way!
+
+### Elemental Skill: I
+
+Bye!
+
+### Elemental Skill: II
+
+Gotta dash~!
+
+### Elemental Skill: III
+
+Poof!
+
+### Elemental Skill: IV
+
+I'm outta here.
+
+### Elemental Skill: V
+
+Can't catch me~!
+
+### Elemental Skill: VI
+
+And away I go.
+
+### Elemental Burst: I
+
+Twinjutsu!
+
+### Elemental Burst: II
+
+Come on out!
+
+### Elemental Burst: III
+
+Hah! ...Phew...
+
+### Sprint Start: I
+
+Make my escape.
+
+### Opening Treasure Chest: I
+
+Looks kinda cozy in here... Nap time!
+
+### Opening Treasure Chest: II
+
+Mission accomplished! Can I go back and sleep now?
+
+### Opening Treasure Chest: III
+
+Ooh, what's in here? Maybe a growth serum?
+
+### Low HP: I
+
+What was that escape method again...?
+
+### Low HP: II
+
+I feel kinda woozy.
+
+### Low HP: III
+
+Whew, so tired.
+
+### Ally at Low HP: I
+
+I'll protect you.
+
+### Ally at Low HP: II
+
+Take 5. Or maybe 10.
+
+### Fallen: I
+
+Almost. Got. Away...
+
+### Fallen: II
+
+Uh, sw—sweet dreams...
+
+### Fallen: III
+
+My fault for being so lazy...
+
+### Light Hit Taken: I
+
+Ow.
+
+### Heavy Hit Taken: I
+
+Almost dodged that.
+
+### Heavy Hit Taken: II
+
+I'm about to pass out over here.
+
+### Joining Party: I
+
+So sleepy.
+
+### Joining Party: II
+
+Can I go catch up on my sleep?
+
+### Joining Party: III
+
+Drat, you caught me.
+
+### Hello
+
+Sayu, Shuumatsuban, at your disposal! Whew, but if you don't need me right now, I'm gonna grab some sleep. Nope, no need to tuck me in — I need the extra room to grow into.
+
+### Chat: Asleep
+
+*yawns* *snoring*
+
+### Chat: Work
+
+Seems like I should have just stayed in bed today.
+
+### Chat: Height
+
+Surely I should be due a growth spurt by now?
+
+### When It Rains
+
+Eek, let's find shelter, quick! Watering works on plants, but not people...
+
+### When Thunder Strikes
+
+Phew, this weather is wild! Best thing to do is dive under the covers where it's dark and snug and warm and nyam nyam nyam~ *sleeps*
+
+### When It Snows
+
+It's really easy to hide in weather like this. There's this ninjutsu technique called Cloak of Snow where you can pretty much make yourself invisible — all other people see when they look at you is the snowflakes dancing in the air. Wait, it's confidential though! Don't tell any of this to the shrine maiden...
+
+### When the Sun Is Out
+
+Loooove it when the weather's like this, just makes you wanna... *yawn* doze off for a while.
+
+### When It's Windy
+
+A windy day is a good day for a getaway.
+
+### When the Wind Is Blowing
+
+I always know it's time to get some shut-eye when the wind's so strong that I can't open my eyes anyway.
+
+### Good Morning
+
+...Morning? Already? Okay, I'm just gonna snooze for, like, 10 more minutes... Please, just 10 minutes... No? Okay, 5 minutes then? *snores*
+
+### Good Afternoon
+
+Is it noon yet? Finally, I'm so ready for my nap.
+
+### Good Evening
+
+Recon confirms, no sign of the shrine maiden within a 3-mile radius. Moving to the next phase: sleepy time!
+
+### Good Night
+
+At long last... bed time... G'night...
+
+### About Sayu: Shuumatsuban
+
+Yeah, I'm in the Shuumatsuban, but they only ever get me to do stuff like... *yawn* information gathering and stealing. So, y'know... it's not really a big deal if the work doesn't get done.
+
+### About Sayu: Skiving
+
+So I don't do any important work at the Shuumatsuban, and anything that gets put off for long enough ends up getting done by someone who's more suited to it anyway. Sleep, on the other hand — that is of the utmost importance. Because I need to get enough sleep to make sure I get my growth spurt.
+
+### About Us: Favor
+
+Hey, will you do me a favor and let me know if you see the shrine maiden coming? I'm just gonna, um... rest my eyes for a moment.
+
+### About Us: Headpats
+
+I'm not a pet, y'know! Hmm, but since it's you... Okay, you can pat my head and I promise not to bite your hand. Just a little, though! If you pat someone's head too much, it stunts their growth.
+
+### About the Vision
+
+My sword is crazy heavy, even with my ninjutsu training there's no way I could lift it without the help of my Vision. So yeah, having a Vision is a huge help for me.
+
+### Something to Share
+
+Sensei says I'll be the last ninja ever in our line. I guess it can't be helped, because this style of ninjutsu wouldn't be much help in a fight anyway — all I've been taught is how to escape and how to cover your tracks.
+
+### Interesting Things
+
+Do you know the mujina? It looks similar to a tanuki, but it's way cuter. I'll take you to see one next time!
+
+### About Kamisato Ayaka
+
+As the eldest daughter of the Kamisato Clan, she always looks very graceful and elegant. But she got one of the shrine maidens to keep tabs on me and make sure I don't slack off... Why would she do that?
+
+### About Kamisato Ayato
+
+Sometimes, when I'm taking a rest up in a tree, I overhear the shrine maidens talking about him. Sounds like he's pretty important and super busy most of the time. I don't get it, though — it's only work, or whatever, so why doesn't he just... not do it?
+
+### About Thoma
+
+He's got a Vision, and yet for some reason he pesters me about learning ninjutsu every time I run into him. I don't know what his deal is. It's not like I'd have the time to teach him anyway, I barely get enough sleep as it is.
+
+### About Yoimiya
+
+Every time she sees me she says, "Hey, little tanuki! Let's go hang out at the festival." Firstly, I'm not a tanuki. Secondly, I don't wanna go to a festival. Thirdly, she says she wants to hang out — but really, she just wants me to do a ninjutsu performance during the fireworks show. That's not even related to my work for the Shuumatsuban!
+
+### About the Raiden Shogun
+
+Her Excellency? Definitely not someone I'd ever get to meet. If you've got questions, maybe Miss Ayaka's the person to ask.
+
+### About Yae Miko
+
+She's always patting me on the head... I've never bitten her, though, or even said anything, because I'm frightened of how she'd react if I stood up to her. But what am I gonna do? Because if she keeps on patting my head, I'm gonna get stuck at this height forever!
+
+### About Arataki Itto
+
+Why does he have to make such a racket? And how did he get so tall!?
+
+### About Kuki Shinobu
+
+Doesn't ring a bell, umm... What? Arataki Itto's little sidekick? Ugh, well she's definitely gotta be a sleep disturbance then. Birds of a feather flock together...
+
+### More About Sayu: I
+
+Zzzz...
+
+### More About Sayu: II
+
+Huh? You wanna know the name of my style of ninjutsu? Uhh... Y'know what, I can't think straight right now, I'm still half asleep here. Lemme snooze a while longer, maybe my mind'll be clearer when I wake up.
+
+### More About Sayu: III
+
+Alright, fine... I'll tell you. But you'd better not laugh, or I'm never talking to you again. Uh so, my style of ninjutsu is called... um... Yoohoo Art.
+The reason is supposedly that our style focuses on making fun of the enemy, but still... I mean... *sigh*
+
+### More About Sayu: IV
+
+Do you know how to climb trees? I'm an expert, I can teach you. There's this tree down at the shrine — it's the perfect place, you could just literally sleep there all day if you wanted and no one would ever find you... Uh, I just mean, it's a great place for a power nap. Next time you wanna take a nap, let me know, I'll take you there.
+
+### More About Sayu: V
+
+It was actually Sensei who gave me this outfit. They said it was modeled after the mujina, and it could help with escapes, or something... and then Sensei said that I was all grown up and ready to go it alone, but that I should still be careful to protect myself... then they left me. Am I really ready to go it alone, at my height?
+Um... Hmm? Y—You'll keep my company? Really? Promise you won't leave me?
+
+### Sayu's Hobbies
+
+When I put my hood on, I can snooze away to my heart's content without having to worry about the shrine maiden finding me. *sigh* I think it must be one of the best feelings in the whole world.
+
+### Sayu's Troubles: Misunderstanding
+
+For some reason, when people meet me for the first time, they always call me tanuki, or teddy-bear, or kitty-cat... But Sayu is just Sayu — and definitely not a tanuki.
+
+### Sayu's Troubles: Height
+
+When is my growth spurt gonna come? Everyone my age practically twice my height, and I'm still... Ugh, enough, I need sleep, sleep is the answer. Good night!
+
+### Sayu's Troubles: Feedback Loop
+
+Recently someone told me that if you get annoyed too easily, that'll stunt your growth, too! ...Gah! I dunno what I can do about that...
+
+### Favorite Food
+
+High-carb foods that give you instant energy, like rice balls. If you eat one the moment you wake up, it stops you feeling so groggy and bleary-eyed. Then, you can just relax and get straight back to sleep.
+
+### Least Favorite Food
+
+Can't be picky about food when you've still got growing to do! ...That said, I haven't gained any height recently — maybe I'm not eating enough vegetables? But salad isn't filling enough and sometimes it can be really bitter... *sigh*
+
+### Birthday
+
+Wanna learn some ninja skills? I can teach you! Well, only the skills I know, of course. Hmm? Why aren't I asleep? ...Uhh, because I'm not sleepy... and also because today is a special day! I had to stay awake today so I'd have the chance to say it to you in person: Happy Birthday.
+
+### Feelings About Ascension: Intro
+
+Is it just me, or did I get a little taller!?
+
+### Feelings About Ascension: Building Up
+
+Awesome, now I can slip away faster than ever. Hee-hee, they can't catch me now.
+
+### Feelings About Ascension: Climax
+
+Hey, thanks for going and gathering all those materials for me. I would've gone myself, but... I probably would've got about halfway before falling asleep.
+
+### Feelings About Ascension: Conclusion
+
+I think I'm finally ready to go it alone now, just like Sensei said I should. And... maybe it's not such a big deal now if I can't grow any taller. Because what really matters... is that I have you to keep me company.
+
+### Receiving a Gift: I
+
+I'm soooo full, time for a nap...
+
+### Receiving a Gift: II
+
+If you eat enough of this... it makes you really sleepy.
+
+### Receiving a Gift: III
+
+Uh oh... Need an escape plan.
+
+### About Kirara
+
+One time, when I woke up from an afternoon nap, I felt something warm against my back. I turned around and saw a cat curled up fast asleep. You wouldn't believe this — it had not only one, but two fluffy tails! I almost fell from the tree in surprise. I—Is this some form of ninjutsu too?
+
+### About Prune
+
+She gave me this big, thick book called "An Introduction to Nutrition" and told me that if I wanna grow taller, I also need to eat well — apparently, just sleeping all the time isn't enough. Kinda weird, though... Despite everything she knows, we're still pretty much the same height. I dunno, maybe she actually doesn't wanna grow taller?
+
+## REPLICAS_ZH
+
+### 关于梦见月瑞希…
+
+奇怪的紫色妖怪…被她盯着的时候，感觉好像要被吃掉一样…唔！惹不起，我还是躲着她走吧！
+
+### 元素战技·其一
+
+走啦…唔。
+
+### 元素战技·其二
+
+溜咯…啊。
+
+### 元素战技·其三
+
+咕噜，哈！…嘿呀。
+
+### 元素战技·其四
+
+极意遁走。
+
+### 元素战技·其五
+
+抓不住我…呜。
+
+### 元素战技·其六
+
+随风而遁…呜。
+
+### 元素爆发·其一
+
+分身之术。
+
+### 元素爆发·其二
+
+出来吧！
+
+### 元素爆发·其三
+
+嘿咻…呜。
+
+### 冲刺开始·其一
+
+疾风遁术。
+
+### 打开宝箱·其一
+
+这个箱子…好像可以睡进去。
+
+### 打开宝箱·其二
+
+大丰收！可以睡觉了吗？
+
+### 打开宝箱·其三
+
+是对长高有帮助的东西吗？
+
+### 生命值低·其一
+
+逃跑的话，该用…
+
+### 生命值低·其二
+
+头晕乎乎的。
+
+### 生命值低·其三
+
+呼，好累。
+
+### 同伴生命值低·其一
+
+我来掩护。
+
+### 同伴生命值低·其二
+
+先退下休息。
+
+### 倒下·其一
+
+没能...逃掉...
+
+### 倒下·其二
+
+…晚、晚安了…
+
+### 倒下·其三
+
+不该偷懒的…
+
+### 普通受击·其一
+
+痛。
+
+### 重受击·其一
+
+没躲开。
+
+### 重受击·其二
+
+呜，要晕倒了。
+
+### 加入队伍·其一
+
+好困。
+
+### 加入队伍·其二
+
+可以睡觉吗？
+
+### 加入队伍·其三
+
+呜，居然被抓住了。
+
+### 初次见面…
+
+「终末番」早柚，参上。
+呼——如果没有什么事情的话，我先去睡觉了。对了，不准趁我睡觉的时候偷偷摸我的头。
+
+### 闲聊·睡着
+
+呼啊…呼噜呼噜——
+
+### 闲聊·工作
+
+工作还不如睡觉。
+
+### 闲聊·长高
+
+什么时候才能长高呢？
+
+### 下雨的时候…
+
+快躲雨，被雨淋到就长不高了。
+
+### 打雷的时候…
+
+好大的动静，不过只要整个人都钻到被子里就能安稳睡觉了。
+
+### 下雪的时候…
+
+雪天很方便躲藏。比如说「雪降之隐」这种忍术，借助飘雪隐去身形，等别人察觉的时候，对方的眼前就只剩下飘落的雪花了。啊，你千万不要把这些告诉巫女姐姐。
+
+### 阳光很好…
+
+舒舒服服的好天气，啊——好困哦。
+
+### 起风的时候…
+
+风起之时，便是开溜的好时机。
+
+### 刮大风了…
+
+风吹得眼睛睁不开了，不如就这样，闭起眼睛睡一觉吧。
+
+### 早上好…
+
+已经…已经早上了吗？再睡10分钟…就10分钟嘛…那、那5分钟也行…呼…
+
+### 中午好…
+
+好困，午睡时间还没到吗？
+
+### 晚上好…
+
+确认完毕，方圆十里内没有巫女姐姐的踪影。今晚可以睡个好觉啦~
+
+### 晚安…
+
+终于…可以睡觉了…晚…晚安…
+
+### 关于早柚自己·终末番
+
+我虽然属于「终末番」，但交给我的工作无非就是些情报收集、偷取物品之类的琐事。所以…所以不做也没有什么关系嘛。
+
+### 关于早柚自己·旷工
+
+「终末番」的工作本来就没什么意义嘛，一直拖着不做，就会有更合适的人去做。但是睡觉不一样啊，只要睡得够久，说不定哪天就能长高了，这可是意义非凡的。
+
+### 关于我们·帮个忙
+
+如果巫女姐姐来了，记得告诉我一声哦，我稍微睡…啊不，休息会儿。
+
+### 关于我们·摸摸头
+
+摸摸头？唔，如果是你的话...那好吧，我不会咬你的，但是不能摸太久了，否则会长不高的！
+
+### 关于「神之眼」…
+
+双手剑真的很重，光靠忍术的话，我肯定举不起来。但是有了「神之眼」就不一样了，所以不管怎么说，「神之眼」对我帮助很大。
+
+### 有什么想要分享…
+
+老师说我是我们流派最后一代传人了。毕竟也不是什么特别适合战斗的流派，我学的也都是些逃跑和隐蔽气息用的忍术，这也是没办法的事情吧…
+
+### 感兴趣的见闻…
+
+你知道貉吗？一种比狸猫可爱得多的小动物，下次带你一起去看看吧~
+
+### 关于神里绫华…
+
+神里家的大小姐优雅又端庄，但是她专门任命了一位巫女姐姐来监督我，不让我偷懒…怎会如此…
+
+### 关于神里绫人…
+
+我在树上休息的时候，经常会听到巫女姐姐们在聊他，似乎是一位工作很忙的大人。真是奇怪，工作什么的明明旷掉就好了…
+
+### 关于托马…
+
+明明都有神之眼了，他每次出现还是缠着我说想要学忍术，真是搞不懂。而且我睡觉的时间都不够，哪有时间教他嘛。
+
+### 关于宵宫…
+
+她每次碰到我就说什么，小狸猫我们一起去祭典玩之类的话。我才不是狸猫，也不想去祭典。说是一起去玩，其实就是想着在祭典上让我配合她的烟火表演忍术，但是这和「终末番」的工作有什么关联嘛！
+
+### 关于雷电将军…
+
+那位大人…不是我能见到的人物。想知道更多事情的话，或许问问绫华大小姐比较好。
+
+### 关于八重神子…
+
+她总喜欢摸我的头，可是我不敢咬她，也不敢反抗，总感觉如果拒绝了她会发生很可怕的事情。但是，再这样被摸下去，我会不会真的长不高了？怎么办呀…
+
+### 关于荒泷一斗…
+
+怎么会有这么吵吵嚷嚷的人，而且他还能长这么高！
+
+### 关于久岐忍…
+
+没什么印象的名字，让我想想…欸？她是荒泷一斗的小弟吗？那肯定也是干扰睡眠的人，毕竟有个词叫做一丘之貉，啊不对，是一丘之狸！
+
+### 想要了解早柚·其一
+
+呼——
+
+### 想要了解早柚·其二
+
+呃…你是问我忍术流派的名字吗？那个…想不起来了啦，我还没睡醒，我再去睡一觉，睡醒后说不定就能想起来了。
+
+### 想要了解早柚·其三
+
+好吧，告诉你也行。你先答应我不准笑，不然我就再也不理你了。我们流派叫做——呜呼流…
+说是因为我们流派的忍术以戏弄敌人为长而取的名字，可是，可是…唉。
+
+### 想要了解早柚·其四
+
+你会爬树吗？我非常擅长这个，可以教你哦。还有，神社那边有棵树特别适合偷…啊不，特别适合小憩。下次你想睡午觉的时候，记得来找我，我们一起爬上去午睡吧。
+
+### 想要了解早柚·其五
+
+其实这套衣服是老师给我的，说是以貉为原型做的，还有助于我逃跑什么的…然后又说我已经长大了可以独当一面了，但也要保护好自己，说完老师就离开了我。可我这个身高，真的能独当一面吗…
+唔…欸？你是说你会陪着我吗？你真的不会离开我吗？
+
+### 早柚的爱好…
+
+套上衣服上的帽子，不用担心会被巫女姐姐找到，然后睡个天昏地暗，这应该是世界上最幸福的事情了吧。
+
+### 早柚的烦恼·误会
+
+很多人第一次见到我的时候，都会大呼小叫，还把我当成狸猫。可早柚就是早柚，才不是狸猫。
+
+### 早柚的烦恼·身高
+
+什么时候才能长高呢？跟我同年的人身高都快是我的两倍了，可我还…不行，再睡久一点一定能长高的！我要睡觉了，晚安。
+
+### 早柚的烦恼·死循环
+
+我上次听人说，烦恼太多也会长不高…呜，我该怎么办才好…
+
+### 喜欢的食物…
+
+能一下子提供很多能量的食物吧，比如说饭团。睡醒了吃一个就不会头晕眼花，然后又能继续睡觉了。
+
+### 讨厌的食物…
+
+想要长高的话，就不能挑食！说来最近好像身高也没有变化，是不是因为蔬菜吃少了，但是沙拉真的没有办法提供饱腹感，而且还苦苦的，呜欸——
+
+### 生日…
+
+你有什么想学的忍术吗？我可以教你！当然仅限于我会的。呃？你问我为什么不睡觉？嗯…我还不困，而且，而且今天是特别的日子，我不可以睡过去，因为我想亲口对你说——生日快乐呀。
+
+### 突破的感受·起
+
+我有长高一点点吗？
+
+### 突破的感受·承
+
+太好了，能溜得更快了，这下子肯定不会被抓住了。
+
+### 突破的感受·转
+
+谢谢你帮我收集了那么多材料，要是我自己来的话…肯定在路上就会睡着了。
+
+### 突破的感受·合
+
+我好像确实像老师说的那样，可以独当一面了。这样子长不长高或许对我来说也没有那么重要了，因为现在重要的是…有你陪在我身边。
+
+### 收到赠礼·其一
+
+肚子好饱。这下可以安心睡觉啦。
+
+### 收到赠礼·其二
+
+吃着吃着…就困了。
+
+### 收到赠礼·其三
+
+要想个办法…逃走。
+
+### 关于绮良良…
+
+有次我午觉睡醒，感觉身后暖和和的，一转头就看见有只猫正蜷着睡觉，关键是有一对毛茸茸的尾巴！吓得我差点从树枝上掉下去。这，这也是变身术吗？
+
+### 关于布伦妮…
+
+她送了我一本很厚的书，叫《营养学导论》，她说光睡觉是不够的，还要按照上面的公式吃饭才能长高。但是，她明明懂这么多，我们好像也差不多高嘛…奇怪，难道她不想长高吗？

@@ -1,0 +1,82 @@
+{
+  "id": "voywolf_hunter",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/voywolf_hunter.webp",
+  "title": {
+    "ru": "Ловчий воющих волков",
+    "en": "Voywolf Hunter",
+    "zh": "嗥狼追猎者"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Ловчий воющих волков",
+    "Voywolf Hunter",
+    "嗥狼追猎者"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nКогда-то его клан был настолько могущественным, что мог выставить собственное войско под началом Царя Зверей. Но после того как Белый царь, владыка Двора Бледной звезды, объединил все земли вечной мерзлоты, клан, почти не понёсший потерь в войне, оказался под подозрением, постепенно пришёл в упадок и ко времени восшествия Ледяной Царицы окончательно покинул центр власти Снежной. Сегодня большинство волкодлаков волчьего рода обитают среди снежных равнин и горных лесов.",
+    "en": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\nTheir clan once prospered to the point that they could serve as an independent army under the King of Beasts. Yet after the Belyi Tsar, master of the Pale Star's royal court, unified the frozen lands, the clan's relatively small losses in the war caused them to fall under suspicion. They gradually declined, and by the time the Tsaritsa ascended the throne, they had withdrawn from the center of power in Snezhnaya. Today, most wolf-pack Volkodlak make their homes in the snowy plains and mountain forests.",
+    "zh": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\n其曾经的氏族曾一度昌盛到能够在兽之王的麾下独立成军，而在白沙皇作为苍星王廷的主人统一冻土全境之后，在战争中没有太大损失的氏族却不被信任，逐渐衰落，于冰之女皇登临王座时期离开了至冬权力的中心。如今群狼的兽怪大多寓居于雪原与山林之中。"
+  },
+  "description": {
+    "ru": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nКогда-то его клан был настолько могущественным, что мог выставить собственное войско под началом Царя Зверей. Но после того как Белый царь, владыка Двора Бледной звезды, объединил все земли вечной мерзлоты, клан, почти не понёсший потерь в войне, оказался под подозрением, постепенно пришёл в упадок и ко времени восшествия Ледяной Царицы окончательно покинул центр власти Снежной. Сегодня большинство волкодлаков волчьего рода обитают среди снежных равнин и горных лесов.",
+    "en": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\nTheir clan once prospered to the point that they could serve as an independent army under the King of Beasts. Yet after the Belyi Tsar, master of the Pale Star's royal court, unified the frozen lands, the clan's relatively small losses in the war caused them to fall under suspicion. They gradually declined, and by the time the Tsaritsa ascended the throne, they had withdrawn from the center of power in Snezhnaya. Today, most wolf-pack Volkodlak make their homes in the snowy plains and mountain forests.",
+    "zh": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\n其曾经的氏族曾一度昌盛到能够在兽之王的麾下独立成军，而在白沙皇作为苍星王廷的主人统一冻土全境之后，在战争中没有太大损失的氏族却不被信任，逐渐衰落，于冰之女皇登临王座时期离开了至冬权力的中心。如今群狼的兽怪大多寓居于雪原与山林之中。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112152",
+      "title": {
+        "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+        "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+        "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112152.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112152",
+          "title": {
+            "ru": "Наросший осколок",
+            "en": "Accreted Fragment",
+            "zh": "沉积残片"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112152.webp"
+        },
+        {
+          "key": "material_112153",
+          "title": {
+            "ru": "Осадочный сгусток",
+            "en": "Accreted Mass",
+            "zh": "沉积结块"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112153.webp"
+        },
+        {
+          "key": "material_112154",
+          "title": {
+            "ru": "Осадочный нарост",
+            "en": "Accreted Growth",
+            "zh": "沉积增生物"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112154.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

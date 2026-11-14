@@ -144,5 +144,988 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Приветствую вас. Меня зовут Клоринда, я судебный дуэлянт Кур-де-Фонтейна. Если хочешь воспользоваться моими услугами, изложи суть разногласий... Можешь опустить лишние детали, они меня не касаются.",
+        "en": "Greetings. I am Clorinde, a Champion Duelist of the Court of Fontaine. If you wish to hire my services, please state the nature of your dispute... You may leave out any extraneous details, those are no concern of mine.",
+        "zh": "枫丹廷决斗代理人，克洛琳德，向你致意。如需雇佣我进行代理决斗，请先陈述你所陷之纠纷…无需赘述人情，这与我无关。"
+      },
+      "source_id": 98000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Противники",
+        "en": "Chat: Opponents",
+        "zh": "闲聊·对手"
+      },
+      "text": {
+        "ru": "На дуэлях я противостояла многим противникам. Большинство из них я победила. Остальные сдались сами. ...Хм? Нет. Я ещё ни разу не проиграла.",
+        "en": "I've faced many opponents in my duels. Most of them, I defeated. The rest surrendered. ...Hm? No. I have never lost a duel.",
+        "zh": "我在决斗中遇见过不少对手，他们大部分都落败了，剩下的则主动投降…我有没有输过？没有。"
+      },
+      "source_id": 98001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Судебный дуэлянт",
+        "en": "Chat: Champion Duelist",
+        "zh": "闲聊·决斗代理人"
+      },
+      "text": {
+        "ru": "Я судебный дуэлянт, и моё мнение не имеет значения, ведь когда я достаю свой клинок, я становлюсь орудием закона Фонтейна.",
+        "en": "In my role as Champion Duelist, my opinions do not matter. For when I draw my blade, I am but an instrument of Fontaine's law.",
+        "zh": "决斗代理人是我的职业，我怎么想并不重要。因为握紧长剑之时，我代表的是枫丹的律法与规则。"
+      },
+      "source_id": 98002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Секреты победы",
+        "en": "Chat: Secret to Success",
+        "zh": "闲聊·制胜诀窍"
+      },
+      "text": {
+        "ru": "Дуэль - это битва характеров, а меч - продолжение силы духа дуэлянта. Если сердце испуганно сжимается, то мечу лучше остаться в ножнах, потому что ты не сможешь эффективно противостоять противнику.",
+        "en": "A duel is a battle of wills, and the sword an extension of the duelist's spirit. If your heart recoils in fear, then your sword may as well be in its scabbard, because you will not wield it effectively against your foe.",
+        "zh": "决斗是意志的对战，剑则是决斗者心灵的延伸。如果你的心已然畏缩，那你的剑也会如同裹鞘一般，无法斩败任何人。"
+      },
+      "source_id": 98003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "В дождливые дни добыча обычно отдыхает. Но только не охотник.",
+        "en": "Prey will usually rest on rainy days. But not the hunter.",
+        "zh": "猎物会在雨天休息，但猎人不能。"
+      },
+      "source_id": 98004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Битва между ветром и дождём, похоже, подошла к концу.",
+        "en": "The battle between wind and rain appears to have reached its end.",
+        "zh": "看来风和云的对决分出胜负了。"
+      },
+      "source_id": 98005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Надеюсь, это был звук, свидетельствующий о том, что в мире стало на одного злодея меньше.",
+        "en": "Hopefully, that was the sound of one more villain being removed from the world.",
+        "zh": "希望世界上能少个恶徒。"
+      },
+      "source_id": 98006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Для меня это новый пейзаж. И, надо сказать, довольно мрачный.",
+        "en": "This is a new sight for me. A rather bleak one, I must say.",
+        "zh": "真新奇。但也够冷清的。"
+      },
+      "source_id": 98007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Я никогда так сильно не скучала по Фонтейну...",
+        "en": "...I have never missed Fontaine so much in all my life.",
+        "zh": "我从来没这么想念过枫丹。"
+      },
+      "source_id": 98008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро. Я скоро пойду пить кофе, не хочешь присоединиться? Я принесла кофейные чашки, могу одолжить тебе одну, если понадобится.",
+        "en": "Good morning. I'm going for coffee shortly, would you like to join me? I brought coffee cups — you can borrow one if you need.",
+        "zh": "早上好。我正准备去喝杯咖啡，一起吗？我自带咖啡杯，如果你需要，我可以借你一个。"
+      },
+      "source_id": 98009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Прошу прощения, я освобожусь с работы чуть позже. Вот, возьми сэндвич, он поможет утолить голод.",
+        "en": "Apologies, I don't get off work till later. Here, take this sandwich. It'll keep the wolf from the door.",
+        "zh": "抱歉，现在还是我的工作时间。这份三明治给你，先吃点垫垫吧。"
+      },
+      "source_id": 98010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "К сожалению, я не могу дать тебе рекомендаций по выбору вина. Но я могу посоветовать несколько менее известных ресторанов, которые стоит посетить.",
+        "en": "I'm afraid I'm unable to share any wine recommendations with you. But I can recommend a few lesser-known restaurants that are well worth a visit.",
+        "zh": "很抱歉不能和你分享品酒心得，但我可以向你推荐几家颇具特色的冷门餐馆。"
+      },
+      "source_id": 98011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Спокойной ночи. Я пойду спать, как только закончу вечернее обслуживание оружия.",
+        "en": "Goodnight. I'll be heading to bed as soon as I've completed my nightly weapon maintenance.",
+        "zh": "晚安。我维护好武器后也会休息。"
+      },
+      "source_id": 98012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Клоринде: Новостные репортажи",
+        "en": "About Clorinde: News Reports",
+        "zh": "关于克洛琳德自己·新闻报道"
+      },
+      "text": {
+        "ru": "Все газеты грешат репортажами, которые нельзя назвать ни честными, ни справедливыми. Некоторые репортёры позволяют своим взглядам колебаться под влиянием связей и обещанной моры.\nЕсли хочешь узнать правду, лучше всего обратиться к людям, которые непосредственно вовлечены в ситуацию. Задай вопросы и сделай собственные выводы.\nПо крайней мере, не позволяйте чужим лживым речам затмить твой разум.",
+        "en": "Every newspaper is plagued by reporting that is neither particularly fair, nor remotely just. Some writers allow their views to be swayed by personal connections and promises of Mora.\nIf you want to find out the truth of a situation, the best way is to go to the people directly involved. Ask your own questions, and come to your own conclusions.\nAt the very least, don't let other people's deceitful tongues serve as a substitute for your own brain.",
+        "zh": "报纸上总是存在着一些谈不上公正，也绝不算正义的报道。撰写它们的人都被人情与摩拉带偏了心。\n如果你想知道某件事的真相，最好的方法是去找相关的人，用你自己的嘴发问，用你自己的心去理解。\n至少，别让其他人的舌头代替你的头脑。"
+      },
+      "source_id": 98013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Клоринде: Мушкеты и мечи",
+        "en": "About Clorinde: Muskets and Swords",
+        "zh": "关于克洛琳德自己·铳枪与长剑"
+      },
+      "text": {
+        "ru": "Мой выбор оружия соответствует традициям Охотников Сумеречного двора. Мушкет, чтобы загнать добычу, и меч, чтобы нанести ей смертельный удар.\nНа дуэлях я, разумеется, обычно использую только меч. Как только ты ступаешь на ринг, бежать некуда, а значит, и загонять тебя не нужно.",
+        "en": "My choice of weapons follows the Marechaussee Hunter tradition. A Musket to chase away my prey, and a sword to deliver it a fatal strike.\nIn duels, of course, I typically only use my sword. Once you set foot in the Duelists' Ring, there is nowhere to run, and therefore no need to chase you away.",
+        "zh": "我的武器装备遵循逐影猎人的传统制式。铳枪用来驱赶猎物，长剑给予它们致命一击。\n当然，代理决斗时我一般只用长剑，踏上决斗场的人已经无路可逃，用不着再做驱赶。"
+      },
+      "source_id": 98014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Церемонии",
+        "en": "About Us: Ceremony",
+        "zh": "关于我们·仪式"
+      },
+      "text": {
+        "ru": "Перед каждой дуэлью я протираю свой меч тряпкой, смоченной в специальной чистящей жидкости. Отчасти это нужно для того, чтобы поддерживать его в рабочем состоянии, но вместе с тем это помогает мне сохранять спокойствие и очищает разум от навязчивых мыслей.\nТы тоже владеешь мечом. У тебя есть похожие ритуалы?",
+        "en": "Before every duel, I wipe my sword down with a cloth soaked in a special cleaning liquid. It's partly to keep it in good working order, but it also helps me to remain calm and rid my mind of any intrusive thoughts.\nYou're a fellow sword-wielder. Do you have any similar rituals?",
+        "zh": "在每次决斗开始前，我会用浸了特制药水的软布擦拭武器，一方面是为了保养，另一方面是为了让自己保持沉静，排除杂念。\n作为执剑者，你应该也有自己的仪式吧？"
+      },
+      "source_id": 98015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Люди в тени зла",
+        "en": "About Us: People and the Shadow of Evil",
+        "zh": "关于我们·人与魔影"
+      },
+      "text": {
+        "ru": "Многие свои привычки я переняла у Охотников Сумеречного двора. Они боролись с монстрами, а я - с нарушителями закона. Но монстры - зло по своей природе, и иного они не знают. Но этого нельзя сказать о развращённом человечестве, у которого есть все возможности творить добро, но которое охотно выбирает путь зла.\nА ты? Что побуждает тебя носить клинок?",
+        "en": "Many of my habits are customs I've adopted from the Marechaussee Hunter tradition. They fought against monsters, while I fight against lawbreakers. But monsters are evil by nature, it is all they know. The same cannot be said for the corrupt of humanity, who have the ability and opportunity to do good, yet willingly choose the path of evil.\nAnd you? What is your reason for carrying a blade?",
+        "zh": "我的许多习惯都承袭自逐影猎人的传统。他们对抗的是邪恶魔物，而我对抗的则是不法凶徒。但魔物本就生来邪毒，这是它们的本能，那些堕落的人本来有行善的能力与机会，但他们却自寻恶孽。\n你呢？你持剑的理由是什么？"
+      },
+      "source_id": 98016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "После того как я получила Глаз Бога, количество людей, которые сдаются на дуэли, значительно возросло. Некоторые дуэлянты даже думают, что я использую его для устрашения.\nЯ же всегда считала, что моего послужного списка непобедимого дуэлянта вполне достаточно для запугивания. Пожалуй, мне стоит стремиться к более значительным победам на дуэли.",
+        "en": "After I received my Vision, the amount of people surrendering to me in duels went up substantially. Some duelists even think I use it as an intimidation tactic.\nI always thought my undefeated track record was enough of an intimidation tactic. Perhaps I should aim to win more dramatically in future duels.",
+        "zh": "在我获得「神之眼」后，在决斗中向我投降的人数明显增加了不少。有的代理人说，这枚「神之眼」是我进行决斗时的「震慑手段」。\n我还以为我从未败北的决斗战绩才是「震慑手段」，或许我以后的决斗应该赢得更有表现力一些。"
+      },
+      "source_id": 98017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Я видела, как многие люди вступают в спор по самым пустяковым поводам, воспринимают их как оскорбление личного достоинства и в итоге доводят дело до суда. Мало того, что эти ситуации сами по себе абсурдны, так они ещё и решают устроить дуэль.\nМне, как судебному дуэлянту, не составляет труда уладить вопросы чести на дуэли. Но всё же... Как бы это сказать? Для рядового жителя Фонтейна, как мне кажется, вопросы вроде того, есть ли маркоту место в кофе, не настолько принципиальны, чтобы решать их на мечах...",
+        "en": "I've seen many people get into a dispute over the most trivial thing, take it as a grave affront to their personal dignity, and end up bringing the matter to court. As if that's not already ridiculous enough, they then opt for a duel.\nAs a Champion Duelist, I have no qualms about settling matters of honor with a duel. Still... How can I put this? For the average citizen of Fontaine, I would have thought that questions like whether Marcotte really belongs in coffee are not so crucial to resolve that they warrant the drawing of swords...",
+        "zh": "我曾多次见证某些矛盾琐事，被当事人基于纯粹的感性反复咀嚼，最终演变成一桩事关人身尊严，不可退让的惊天耻辱，闹上审判庭，甚至引发一场荒诞的决斗。\n作为决斗代理人，我对于用决斗来维护名誉这件事没有意见。但是…怎么说呢，从一个普通的枫丹市民角度来看，咖啡里到底该不该加茉洁草，实在不见得是一件非要用剑来论证的事情…"
+      },
+      "source_id": 98018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Тебе встречались порхающие помидорки? Трудно предугадать, куда и как быстро они полетят, поэтому они отлично подходят для стрельбы по мишеням. Точнее, они были бы хороши, если бы не пришлось отправляться в дикую природу, чтобы найти их... Хотелось бы, чтобы кто-нибудь выращивал их в домашних условиях.",
+        "en": "You've seen Bloatty Floatties before, yes? It's hard to predict where they will fly to and how fast, which makes them good for target practice. Or rather, they would be, if you didn't have to go out into the wild to find one... If only someone out there was willing to cultivate them domestically.",
+        "zh": "见过蓬蓬果吧？它们飘飞的速度和位置不易捉摸，很适合作为枪靶练习射击。但是，去野外找蓬蓬果很不方便，要是有人愿意人工培育蓬蓬果就好了…"
+      },
+      "source_id": 98019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Шарлотте...",
+        "en": "About Charlotte",
+        "zh": "关于夏洛蒂…"
+      },
+      "text": {
+        "ru": "Шарлотта - один из самых тактичных репортёров. Я не могу сказать о ней ничего плохого.\nВ отличие от некоторых, она не подстерегает меня со своей камерой по дороге на работу, не ходит за мной в кофейню, чтобы выяснить, что я буду сегодня пить... И что самое замечательное, она прекрасно знает, что я не даю интервью, и не надоедает мне по этому поводу.",
+        "en": "Charlotte is one of the more tactful journalists out there. I don't have anything negative to say about her.\nUnlike some, she doesn't ambush me with her Kamera on my way to work, or follow me to the coffee shop to report on what I'm drinking today... And most commendably of all, she is well aware that I do not do interviews and doesn't nag me about it continuously.",
+        "zh": "夏洛蒂小姐是一位识趣的记者，我对她没什么坏印象。\n毕竟，夏洛蒂小姐既不会在上班的路上堵截拍摄我，也不会跟踪我去咖啡馆，记录我今天喝了什么咖啡。最值得称赞的是，她明确地知道，我不接受记者采访，所以不会来自讨没趣。"
+      },
+      "source_id": 98020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Фурине...",
+        "en": "About Furina",
+        "zh": "关于芙宁娜…"
+      },
+      "text": {
+        "ru": "Раньше на чаепитиях я всегда стояла позади неё, держа меч наготове. Но теперь я могу сидеть за столом и наслаждаться чаем и угощениями вместе с ней.\nТеперь я начинаю понимать, почему она постоянно жалуется на то, как трудно поддерживать фигуру в форме.",
+        "en": "In the past, I always stood behind her at tea parties, sword at the ready. But now, I get to sit at the table and enjoy the tea and treats along with her.\nI'm now beginning to understand why she complains all the time about how hard it is to maintain her physique.",
+        "zh": "从前参加茶会的时候，我总是扶着剑站在她背后，现在我却能在长桌对面就座，与她分享茶点。\n位置变化之后，我开始理解为什么她会成天念叨着「控制体态」了。"
+      },
+      "source_id": 98021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Навии...",
+        "en": "About Navia",
+        "zh": "关于娜维娅…"
+      },
+      "text": {
+        "ru": "В последнее время у Навии хорошее настроение. Она буквально каждый день приглашает меня присоединиться к ней в «Настольной труппе» для работы над новым сценарием.\nИстории всегда очень разные. За исключением тех нескольких случаев, когда я брала на себя роль ведущей, я часто выступаю в роли персонажа и присоединяюсь к ней на время приключения. Но я стараюсь не играть за персонажей, имеющих отношение к суду, чтобы не создавать слишком серьёзную атмосферу...",
+        "en": "Navia's been in a good mood lately. It seems like every other day she's asking me to join her at Tabletop Troupe for a new script.\nThe story is always so different. Save for the few times when I've taken the role of Game Master, I often play in character and join her on the adventure. But I do try to avoid playing any characters from the court, so as not to make the atmosphere too serious...",
+        "zh": "娜维娅最近心情很好，隔几天就会拉我去「桌上剧团」玩新剧本。\n选材五花八门。除了担任了几次剧本主持人，我也作为玩家和她共同参与了几场冒险。但我会尽量避免扮演和审判庭有关的角色，防止气氛变得太过严肃…"
+      },
+      "source_id": 98022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Нёвиллете...",
+        "en": "About Neuvillette",
+        "zh": "关于那维莱特…"
+      },
+      "text": {
+        "ru": "Ни у кого не возникает сомнений в авторитете юдекса. Он всегда выносит справедливый приговор - и, если потребуется, я подтвержу справедливость этого приговора своим мечом.",
+        "en": "No one is in any doubt as to the Iudex's authority. He always delivers a fair verdict — and when necessary, I will reiterate the fairness of this verdict with my sword.",
+        "zh": "最高审判官的权威无可置疑，他总是能做出最公正的判决。必要的时候，我也会用剑再次强调判决的公正性。"
+      },
+      "source_id": 98023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Шеврёз...",
+        "en": "About Chevreuse",
+        "zh": "关于夏沃蕾…"
+      },
+      "text": {
+        "ru": "Ах да, капитан Шеврёз. Это имя я где-то уже слышала. На неё неоднократно подавали судебные иски, обвиняя в превышении полномочий при задержании преступников. Во время дачи показаний она с такой решимостью опровергала обвинения, что истцы теряли дар речи. Она исключительная личность.",
+        "en": "Ah yes, Captain Chevreuse. That's a name I've heard before. She has been landed with lawsuits on several occasions, after being accused of using excessive force when arresting culprits. She refuted the allegations just as forcefully during her testimony, leaving the plaintiff speechless. I think she's outstanding.",
+        "zh": "夏沃蕾队长，我听说过她的大名。她曾经因为抓捕凶犯时的手段太过强硬，而遭到过几次起诉。她应诉时态度依然十分强硬，将对方驳得哑口无言，实在出色。"
+      },
+      "source_id": 98024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Лини...",
+        "en": "About Lyney",
+        "zh": "关于林尼…"
+      },
+      "text": {
+        "ru": "Я должна поаплодировать великому иллюзионисту за тот уровень профессионализма, который он демонстрирует в своём ремесле. Если у меня когда-нибудь появится возможность, я бы очень хотела оказаться на одном из его выступлений в качестве зрителя.",
+        "en": "I have to applaud the great magician for the level of professionalism he displays in his craft. If I ever have the time, I would very much like to enjoy one of his shows as a regular audience member.",
+        "zh": "这位大魔术师的职业素养值得称赞。如果有空的话，我会以观众的身份享受他的魔术表演。"
+      },
+      "source_id": 98025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Фремине...",
+        "en": "About Freminet",
+        "zh": "关于菲米尼…"
+      },
+      "text": {
+        "ru": "Однажды я получила посылку, в которой лежала миниатюрная механическая игрушка и открытка с благодарностью. Игрушка была искусно выполнена. При первой же возможности нужно лично поблагодарить господина Фремине... Говоришь, такой возможности может не представиться? Что ж, тогда я тоже напишу благодарственную открытку. Пожалуйста, передай её Фремине.",
+        "en": "One day, I received a parcel containing a miniature mechanical toy and a thank-you card. The toy was exquisitely made. I must thank Mr. Freminet in person when I get the opportunity... Hm? The opportunity may be hard to come by, you say? Very well, then I too shall write a thank-you card. Please pass it on to him for me.",
+        "zh": "有天我收到了一个包裹，装着迷你机械玩具和表达谢意的卡片。那份玩具十分精致，下次有机会，我会对菲米尼先生当面表达一下感谢…最好不要当面？好吧，那我也写份卡片，请你帮我带给他。"
+      },
+      "source_id": 98026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Тиори...",
+        "en": "About Chiori",
+        "zh": "关于千织…"
+      },
+      "text": {
+        "ru": "Я и раньше покупала одежду в её магазине. Она хорошего качества. Но в большинстве случаев я предпочитаю носить свою форму. Отчасти потому, что она служит для чёткого обозначения моей принадлежности, а отчасти потому, что мне нравятся хорошо знакомые вещи. Как и мой меч, эта униформа привычна и функциональна - у меня нет ни малейшего желания её сменить.",
+        "en": "I've bought clothes from her store before. They're good quality. But most of the time, I prefer to wear my work uniform. Partly because it serves to clearly communicate my identity, and partly because I like things that are familiar. Just like my sword, this uniform is familiar and functional — I have no desire to change it.",
+        "zh": "我买过她家的衣服，质量不错。但平时，我更习惯穿现在这套工作制服，一方面它可以明确地阐述出我的身份，另一方面是因为我喜欢熟悉的事物。这套制服就像是我的剑，熟悉且适用，不必多做更换。"
+      },
+      "source_id": 98027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Ризли...",
+        "en": "About Wriothesley",
+        "zh": "关于莱欧斯利…"
+      },
+      "text": {
+        "ru": "Управлять крепостью Меропид - нелёгкое дело. Ризли, несомненно, в высшей степени способный человек, если ему удаётся поддерживать относительную стабильность в подобном месте.\nЯ подозреваю, что он умалчивает о некоторых своих методах, но мы не можем утверждать наверняка.",
+        "en": "Managing the Fortress of Meropide is no mean feat. Wriothesley is undoubtedly a highly capable person if he can maintain relative stability in a place like that.\nI highly suspect that he keeps quiet about some of the methods he uses, but there's no way we can know.",
+        "zh": "梅洛彼得堡并不是一处好打理的地方。能让那个地方保持相对的稳定，莱欧斯利的手腕无可置疑。\n其中应该不乏一些不能明说的手段，这就不是我们能知道的了。"
+      },
+      "source_id": 98028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Сиджвин...",
+        "en": "About Sigewinne",
+        "zh": "关于希格雯…"
+      },
+      "text": {
+        "ru": "Госпожа Сиджвин - отличная медсестра, она одинаково хорошо умеет лечить раненых и утешать страждущих. Я уверена, что её добрая и любящая натура пробуждает то немногое хорошее, что есть даже в самых отъявленных преступниках крепости Меропид.\nВозможно, это послужит для них достаточным стимулом, чтобы изменить своё поведение.",
+        "en": "Miss Sigewinne is an excellent nurse, equally adept at treating the injured and comforting the distressed. I'm sure that her kind and loving nature brings out what little good there may be even in the vilest offenders of the Fortress of Meropide.\nAnd maybe that just might serve as enough of a motivation for them to change their ways.",
+        "zh": "希格雯小姐是一位优秀的护士，既擅长治疗身体的伤痛，又懂得如何疗愈人的内心。即使是梅洛彼得堡里的那些心怀恶孽的凶徒，想必也会被她的美德和善心感动，内心涌起一丝善念。\n这一丝善念，或许就能成为他们踏上改邪归正之路的契机。"
+      },
+      "source_id": 98029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Об Эмилии...",
+        "en": "About Emilie",
+        "zh": "关于艾梅莉埃…"
+      },
+      "text": {
+        "ru": "Я слышала, что она парфюмер. А ещё я кое-что слышала о её настоящей профессии. Однажды я увидела её на улице, она гладила маленькую собачку и нежно улыбалась. Мы кивнули друг другу, а потом разошлись каждая в свою сторону.",
+        "en": "I've heard that she's a perfumer. I've also heard a little about her true profession. I saw her out on the street once. She was stroking a little dog, and had a gentle smile on her face. We nodded at each other, then each went our separate ways.",
+        "zh": "我听说过这名香水设计师小姐，对她真正的职业也有所耳闻。偶尔一次，我遇到她正在抚摸一只路边的小狗，脸上挂着温和的笑意。我们互相点头后就道别了。"
+      },
+      "source_id": 98030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Клоринде I",
+        "en": "More About Clorinde: I",
+        "zh": "想要了解克洛琳德·其一"
+      },
+      "text": {
+        "ru": "Работа судебного дуэлянта не так уж сложна. Можно сказать, что это одна из самых простых профессий - победить своего соперника, как того требует суд. Вот и всё.\nВозможно, именно поэтому некоторые люди в обиходе называют меня «палачом».",
+        "en": "A Champion Duelist's job is not that complicated. In fact, you could say it's one of the simplest jobs there is. Defeat your opponent, as requested by the Trial Court. That's all there is to it.\n...Perhaps that's why some people colloquially refer to me as an \"executioner.\"",
+        "zh": "决斗代理人的工作并不繁杂，甚至可以说十分简单。遵循审判庭的要求，击败对手就好。除此之外，无需多想。\n…也许这就是外面有些人把我称为「刽子手」的原因。"
+      },
+      "source_id": 98031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Клоринде II",
+        "en": "More About Clorinde: II",
+        "zh": "想要了解克洛琳德·其二"
+      },
+      "text": {
+        "ru": "Я всегда делаю всё от меня зависящее, чтобы поединок был честным. Если у моего противника плохое зрение, я закрываю глаза. Если его подвижность ограничена, я ограничиваю свой диапазон движений. Что бы ни случилось, каждая дуэль, в которой я участвую, должна быть честной.",
+        "en": "I always do what I can to ensure every duel is a fair fight. If my opponent has impaired vision, I cover my eyes. If their mobility is limited, I restrict my range of movement. Whatever happens, every duel I participate in must be fair.",
+        "zh": "进行代理决斗时，我会尽可能保证与对手公平较量。如果对手有眼疾，我就会蒙住眼睛，如果对手腿脚不便，我则会限定自己的移动范围。无论如何，我所参与的必须是一场公平的决斗。"
+      },
+      "source_id": 98032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Клоринде III",
+        "en": "More About Clorinde: III",
+        "zh": "想要了解克洛琳德·其三"
+      },
+      "text": {
+        "ru": "Я уже сбилась со счёта, сколько раз люди сдавались прямо перед началом дуэли. Им даже не хватило смелости достать оружие. Я склоняюсь к мысли, что их так называемые пострадавшие честь и достоинство всего лишь искажённые представления самовлюблённых людей.\nОни становятся архитекторами собственного поражения задолго до того, как встретятся со мной лицом к лицу. Мне не нужно ничего предпринимать, когда кто-то находится в плену собственных мыслей.",
+        "en": "I've lost count of how many times I've had people surrender right before the duel begins. When someone lacks the courage even to draw their weapon, I'm inclined to think that whatever grievance and claims of reputational damage brought them to this point are just the skewed opinions of a self-serving individual.\nLong before they face me, they are the architects of their own defeat. I needn't make a move when someone is a prisoner of their own soul.",
+        "zh": "我见过太多人临阵投降。连拔出武器的勇气都没有，所谓的冤屈和名誉受损，想必也只是自私的一家之言罢了。\n他们早已被自己击败，无需我动手，就自愿变成了心灵的囚徒。"
+      },
+      "source_id": 98033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Клоринде IV",
+        "en": "More About Clorinde: IV",
+        "zh": "想要了解克洛琳德·其四"
+      },
+      "text": {
+        "ru": "Тебе доводилось видеть виновного человека на суде? По моему опыту, они всегда искажают правду, пытаясь доказать свою невиновность. Насилие объясняют добродетелью, а зло - добром... Но чем бы они ни оправдывались, всё заканчивается одинаково: «Это была минутная слабость, любой другой на моём месте поступил бы точно так же, поэтому не надо меня наказывать».\nОни пытаются найти способ скрыть свою подлость, обливая ею всех остальных.\nИх ложь необходимо разоблачить, а суд - очистить от их скверны. Именно поэтому я стала судебным дуэлянтом.",
+        "en": "Have you ever seen a guilty person on trial? In my experience, they always twist the truth in an effort to protest their innocence. Violence is explained away as virtue, and evil as good... But whatever their excuse, it always ends the same way: \"It was a momentary lapse of judgment, but anyone else in my position would have done the same thing, so don't single me out for punishment.\"\nThey seek to hide their own foulness by smearing it on everyone else too.\nTheir lies must be demolished, and the court cleansed of their filth. And that is exactly why I became a Champion Duelist.",
+        "zh": "你见过审判庭上的罪人吗？在我所经历过的审判里，罪人们总会强词夺理，将自己伪装成好人。在他们口中，暴行变成义举，罪恶变为正义…但他们狡辩的终点却总是一句话——自己虽然一时糊涂，但这罪过人人都会犯，实在无可指责。\n他们掩盖自身污秽的方法，就是污染整片水源。\n而击碎这群罪人们的谎言，为正义之廷激浊扬清，正是我成为决斗代理人的理由。"
+      },
+      "source_id": 98034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше о Клоринде V",
+        "en": "More About Clorinde: V",
+        "zh": "想要了解克洛琳德·其五"
+      },
+      "text": {
+        "ru": "Я видела многих людей, ищущих сострадания у суда. Я не отношусь к ним неуважительно, но они ищут не там, где нужно.\nСуд - это место беспристрастного правосудия. А правосудие... всегда должно оставаться равнодушным, иначе оно не сможет восторжествовать.\nПравосудие легко сбить с пути, когда в дело вмешиваются эмоции. Беспристрастный суд уступает место мстительному наказанию, а мстительность со стороны суда не менее жестока, чем преступления, совершаемые нарушителями закона.",
+        "en": "I've seen many people seek compassion from the court. No disrespect to them, but they're looking in the wrong place.\nThe court is a place of impartial justice. And justice... must always remain indifferent, or it cannot prevail.\nJustice is too easily led astray once human emotion enters the mix. If impartial judgment were to give way to vindictive punishment, vindictiveness at the hand of the court would be every bit as cruel as the crimes perpetrated by lawbreakers.",
+        "zh": "我见过许多想要在审判庭上寻求温和人情的人。我并无不敬，但他们来错了地方。\n审判庭是昭示公理正义的场所，而正义总是…也必须冷漠，否则它就无从延续。\n如果正义掺杂了人情，那么它有时候就容易被误导偏折，让基于公理执行的「审判」变为由人情驱使的「私刑」。而审判庭中的「私刑」，与那些违律的凶恶暴行无异。"
+      },
+      "source_id": 98035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Хобби Клоринды...",
+        "en": "Clorinde's Hobbies",
+        "zh": "克洛琳德的爱好…"
+      },
+      "text": {
+        "ru": "В отличие от работы судебным дуэлянтом, роль ведущей в «Настольной труппе» даёт мне свободу оставаться за пределами истории и наблюдать за реакцией людей, не вовлекаясь в драму. Я создаю и контролирую мир, в котором они действуют... Ммм? Похоже на то, как наблюдают за животным в клетке, пойманным на охоте? Интересная точка зрения... Я никогда не думала об этом раньше. Но я бы ни в коем случае не стала досаждать игрокам, я хочу, чтобы они наслаждались историей. Так что это совсем не похоже на охоту.",
+        "en": "Unlike my work as a duelist, being a Game Master in Tabletop Troupe gives me the freedom to stay outside of the story itself. and observe people's reactions without getting personally involved in all the drama. I create and control the world in which they operate... Hmm? Like watching a caged animal caught on a hunt? That's an interesting angle... I'd never thought of it like that before. But I would never give the players a hard time — I just want them to enjoy the story. So it's quite different from hunting.",
+        "zh": "与代理决斗不同，「桌上剧团」主持人的身份，能够让我游离于故事之外，在不卷入人情冷暖的情况下观察人们的种种反应，为他们搭建出一个受我掌控的世界。嗯？你说听起来像看着笼子里的猎物？有道理…是我没有思考过的角度，不过我从来不会为难玩家，尽量都让他们开心地体验故事，这点和打猎还是很不一样的。"
+      },
+      "source_id": 98036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Беспокойство Клоринды...",
+        "en": "Clorinde's Troubles",
+        "zh": "克洛琳德的烦恼…"
+      },
+      "text": {
+        "ru": "Я надеюсь, что эти репортёры перестанут донимать меня, когда я пытаюсь насладиться чашкой кофе, купить букет цветов или почитать книгу. В противном случае мне придётся подать иск, чтобы парочка таких репортёров стала примером для остальных. Если они потребуют дуэли, я заставлю их принести свою камеру, и в интересах справедливости у меня в руках тоже будет только камера.",
+        "en": "I do hope those journalists stop harassing me while I'm just trying to enjoy a cup of coffee, buy a bunch of flowers, or read a book. Otherwise, I may have to file a lawsuit to make an example of one or two of them. If they request a duel, I'll make them bring their Kamera, and in the interest of fairness, I too will bring only a Kamera.",
+        "zh": "希望那些记者不要再打扰我喝咖啡、买花和看书。否则我会考虑抓两个典型向审判庭起诉。如果他们申请代理决斗，我会让他们带着留影机上场的。公平起见，我也会只带留影机。"
+      },
+      "source_id": 98037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я в целом люблю мясные блюда, но только когда мясо свежее. Ничто не сравнится с ароматом свежего мяса, приготовленного на гриле, с щепоткой соли и кислыми фруктами на гарнир. Давай как-нибудь сходим вместе на охоту, я тебе приготовлю.",
+        "en": "I like meaty dishes in general, but only if the meat is fresh. There's nothing like the flavor of freshly hunted meat cooked over the grill with a little salt to taste and a portion of sour fruits on the side. You should come hunting with me some time, I'll cook for you.",
+        "zh": "用肉类做的菜肴都不错，但肉一定要新鲜。刚猎下的肉用盐简单调味后烤制，旁边搭配上微酸的水果，味道十分不错。下次有机会的话，随我去打猎，我做给你尝尝。"
+      },
+      "source_id": 98038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я не люблю рыбу. В ней слишком много костей, и я не выношу запаха... Может быть, это потому, что я переела рыбы в детстве.",
+        "en": "I don't enjoy fish. There's too many bones, and I can't stand the smell... Maybe it's because I had my fill of fish as a child.",
+        "zh": "鱼类不合我的胃口，一方面是刺太多，另一方面则是有一股腥味…或许我在儿时已经吃够了。"
+      },
+      "source_id": 98039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Превосходный вкус. В точности как я люблю. Только не говори об этом репортёрам или гурманам - они умеют оценивать еду только через объектив камеры или газетные статьи.",
+        "en": "The flavor is perfect. Exactly how I like it. Don't let the journalists or gourmets in on this though — they only know how to appreciate food through the lens of a Kamera or the words of a newspaper article.",
+        "zh": "完美的味道，很合我口味。别让记者和美食家发现，他们只会用镜头和报纸享受美食。"
+      },
+      "source_id": 98040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Отличная еда. Буду медленно есть, чтобы подольше насладиться вкусом.",
+        "en": "Mm, this is fine food. I'll enjoy it slowly so it lasts longer.",
+        "zh": "嗯，不错的美食，很适合慢慢品尝。"
+      },
+      "source_id": 98041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Тебе повезло, что это не подают в ресторане, иначе посетители пожаловались бы шеф-повару.",
+        "en": "...You're lucky this wasn't served in a restaurant, or the diners would be complaining to the chef.",
+        "zh": "…幸好这道菜并非出自餐馆，避免了一些厨师和食客之间的矛盾。"
+      },
+      "source_id": 98042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения! У меня есть для тебя подарок - ожерелье из коротких мечей, которое я сделала своими руками.\nПо традиции в первый день рождения новичка как Охотника Сумеречного двора его наставник делает ему ожерелье с подвеской в виде короткого меча с гравировкой имени новичка. Его следует носить так, чтобы меч был на груди. Оно символизирует то, как острие меча подвергает допросу собственное сердце: пойду ли я по пути предательства, есть ли в моём сердце сомнения, полон ли я решимости искоренить всякое зло?\nХотя ты и не Охотник Сумеречного двора, я верю, что ты, как и я, готов сражаться во имя добра.\nПочему меч, а не мушкет? Потому что огнестрельное оружие может дать осечку. Кроме того, есть что-то неуместное в допросе сердца под дулом пистолета. / С днём рождения! У меня есть для тебя подарок - ожерелье из коротких мечей, которое я сделала своими руками.\nПо традиции в первый день рождения новичка как Охотника Сумеречного двора её наставник делает ей ожерелье с подвеской в виде короткого меча с гравировкой имени новичка. Его следует носить так, чтобы меч был на груди. Оно символизирует то, как острие меча подвергает допросу собственное сердце: пойду ли я по пути предательства, есть ли в моём сердце сомнения, полна ли я решимости искоренить всякое зло?\nХотя ты и не Охотница Сумеречного двора, я верю, что ты, как и я, готова сражаться во имя добра.\nПочему меч, а не мушкет? Потому что огнестрельное оружие может дать осечку. Кроме того, есть что-то неуместное в допросе сердца под дулом пистолета.",
+        "en": "Happy Birthday. I have a gift for you — it's a short-sword necklace that I made myself.\nIn the Marechaussee Hunters' tradition, on a new member's first birthday as a hunter, his mentor will make him a short-sword necklace with his name engraved, to be worn with the sword hanging over the chest. This is to symbolize interrogating his own heart at swordpoint: Will I tread the path of treachery, is there doubt in my heart, or am I resolved to eradicate all evil?\nThough you're not a Marechaussee Hunter, I believe that you're committed, like I am, to fighting the good fight.\nWhy a sword, and not a musket? Because guns can misfire. Also, there's something a little inelegant about interrogating your heart at gunpoint. / Happy Birthday. I have a gift for you — it's a short-sword necklace that I made myself.\nIn the Marechaussee Hunters' tradition, on a new member's first birthday as a hunter, her mentor will make her a short-sword necklace with her name engraved, to be worn with the sword hanging over the chest. This is to symbolize interrogating her own heart at swordpoint: Will I tread the path of treachery, is there doubt in my heart, or am I resolved to eradicate all evil?\nThough you're not a Marechaussee Hunter, I believe that you're committed, like I am, to fighting the good fight.\nWhy a sword, and not a musket? Because guns can misfire. Also, there's something a little inelegant about interrogating your heart at gunpoint.",
+        "zh": "生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。\n按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为他亲手打造一柄刻有姓名的短剑项链，并让他把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。\n虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。\n为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行。 / 生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。\n按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为她亲手打造一柄刻有姓名的短剑项链，并让她把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。\n虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。\n为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行。"
+      },
+      "source_id": 98043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Интересно... Успехи, безусловно, есть.",
+        "en": "Interesting... This is certainly an improvement.",
+        "zh": "原来如此，的确有所长进。"
+      },
+      "source_id": 98044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Даже мой меч лежит в руке как влитой. Словно продолжение меня самой.",
+        "en": "Even my sword feels more at home in my hand now. Like an extension of my own body.",
+        "zh": "剑挥舞时的手感更好了，完全能适应。"
+      },
+      "source_id": 98045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Кажется, моё зрение улучшилось... Попробую рассмотреть вон тот листок.",
+        "en": "I feel like my eyesight just improved... Let me do a test-shot on that leaf over there.",
+        "zh": "眼力有所提升？让我朝那片落叶试射一下。"
+      },
+      "source_id": 98046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Ты воин, поэтому вряд ли тебе нужна моя помощь. Но если тебе когда-нибудь понадобится моя сила, я буду сражаться за тебя всеми доступными мне средствами. Как всегда.",
+        "en": "As a warrior yourself, I don't believe you require my help. But should you ever wish to borrow my strength, I will fight for you with everything I have. As always.",
+        "zh": "在武力层面，我并不认为你会需要我的帮助。但倘若你希望借助我的力量，我会尽我所能，一如既往。"
+      },
+      "source_id": 98047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Приготовиться.",
+        "en": "Ready.",
+        "zh": "预备。"
+      },
+      "source_id": 98048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Заряжай!",
+        "en": "Loaded.",
+        "zh": "上膛。"
+      },
+      "source_id": 98049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Тень охотника!",
+        "en": "Into the shadows!",
+        "zh": "猎影！"
+      },
+      "source_id": 98050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Поймать всех!",
+        "en": "Hunt them down!",
+        "zh": "射猎邪魔！"
+      },
+      "source_id": 98051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Время для дачи показаний.",
+        "en": "Time to testify.",
+        "zh": "你的自证时刻。"
+      },
+      "source_id": 98052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Там, где таится зло, стреляй на поражение!",
+        "en": "Where evil lurks, shoot on sight!",
+        "zh": "洞见恶孽，逐灭鬼影！"
+      },
+      "source_id": 98053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Какая удача. И весьма вовремя.",
+        "en": "A stroke of good luck. And a very welcome one.",
+        "zh": "路遇好运，不错。"
+      },
+      "source_id": 98054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Если предметы окажутся невостребованными, мы можем забрать их себе бесспорно.",
+        "en": "If these items are unclaimed, we may take them without controversy.",
+        "zh": "没有归属的物品，不会引发纠纷。"
+      },
+      "source_id": 98055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Кто первым найдёт, тот себе и заберёт. По-моему, справедливо.",
+        "en": "First to find gets to stake their claim. Seems fair.",
+        "zh": "先到者得，合理。"
+      },
+      "source_id": 98056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Пора кончать с этим.",
+        "en": "Time to finish this.",
+        "zh": "…速决胜负。"
+      },
+      "source_id": 98057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Полная анархия...",
+        "en": "This is sheer anarchy...",
+        "zh": "骄纵轻狂。"
+      },
+      "source_id": 98058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "...Смешно.",
+        "en": "...What a disgrace.",
+        "zh": "…可笑。"
+      },
+      "source_id": 98059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Уходим!",
+        "en": "Retreat!",
+        "zh": "退场！"
+      },
+      "source_id": 98060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Я займусь этим. Отправляйся в безопасное место.",
+        "en": "I'll take over. Get to safety.",
+        "zh": "由我接手，后退。"
+      },
+      "source_id": 98061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Победитель... определён...",
+        "en": "The victor... is declared...",
+        "zh": "胜负…已分…"
+      },
+      "source_id": 98062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Я... повержена...",
+        "en": "I am... defeated...",
+        "zh": "败者…当如此…"
+      },
+      "source_id": 98063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Твоё имя очищено...",
+        "en": "You've cleared your name...",
+        "zh": "你已证明了名誉…"
+      },
+      "source_id": 98064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Меткий выстрел.",
+        "en": "A sharp shooter.",
+        "zh": "还算精准。"
+      },
+      "source_id": 98065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Довольно!",
+        "en": "Enough!",
+        "zh": "够了！"
+      },
+      "source_id": 98066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Как пожелаешь.",
+        "en": "Per your wishes.",
+        "zh": "如你所邀。"
+      },
+      "source_id": 98067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Хочешь, чтобы я сражалась за тебя?",
+        "en": "Need to hire a duelist?",
+        "zh": "需要我为你代理决斗吗？"
+      },
+      "source_id": 98068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Мой клинок проведёт нас сквозь тени.",
+        "en": "My blade will lead us through the shadows.",
+        "zh": "剑锋，直指暗影。"
+      },
+      "source_id": 98069
+    }
+  ],
+  "replica_count": 70
 }

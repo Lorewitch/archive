@@ -1,0 +1,102 @@
+{
+  "id": "material_set_114085",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/item_114085.webp",
+  "title": {
+    "ru": "Восхождение армии Бледной звезды / Сбор армии Бледной звезды / Боевой клич армии Бледной звезды / Триумф армии Бледной звезды",
+    "en": "Rise of the Pale Star Army / Muster of the Pale Star Army / Clarion of the Pale Star Army / Triumph of the Pale Star Army",
+    "zh": "苍星军势的始动 / 苍星军势的集结 / 苍星军势的鸣令 / 苍星军势的征服"
+  },
+  "region": "Снежная",
+  "rarity": null,
+  "game_version": "7.0",
+  "tags": [
+    "материалы"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "weapon_ascension",
+  "material_type_title": {
+    "ru": "Возвышение оружия",
+    "en": "Weapon Ascension",
+    "zh": "武器突破"
+  },
+  "materials": [
+    {
+      "key": "material_114085",
+      "title": {
+        "ru": "Восхождение армии Бледной звезды",
+        "en": "Rise of the Pale Star Army",
+        "zh": "苍星军势的始动"
+      },
+      "icon": "assets/icons/items/development_materials/item_114085.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nНа востоке тундры это заносчивое чудовище, рождённое среди гор, похожих на крылья, не более чем жалкий торговец солодом и рудой.\nПодчинённые ему вилы всего лишь слабаки с крыльями насекомых, а домовые своими короткими руками не способны даже поднять оружие.\nКто станет прислушиваться к воплям такого сброда? Разве хватит у них сил выстоять против натиска королей волкодлаков?",
+        "en": "Weapon Ascension Material.\n\"In the east of the tundra, that arrogant monster born within the wing-like mountain is nothing more than a lowly peddler of malt and minerals.\"\n\"The Vila under his command are but weaklings with insect wings, while the Domovoy cannot even lift weapons with their stunted arms.\"\n\"Who would heed the clamor of such rabble? What strength could they possibly have to stand against the onslaught of the kings of Volkodlak?\"",
+        "zh": "赋予武器突破之力的材料。\n「于整片冻土东方，那如翼之山中诞生的妄自尊大的怪物，不过是贩卖麦芽与矿物的卑劣之徒。」\n「听命于他的风仙不过是长着虫翅的羸弱之众，矮灵们甚至无法用那短小的双臂举起武器。」\n「这群乌合之众的叫嚣又有何人听取，他们又有何等能力阻遏诸位兽王的侵袭？」"
+      }
+    },
+    {
+      "key": "material_114086",
+      "title": {
+        "ru": "Сбор армии Бледной звезды",
+        "en": "Muster of the Pale Star Army",
+        "zh": "苍星军势的集结"
+      },
+      "icon": "assets/icons/items/development_materials/item_114086.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\n«Они захватили каньон лишь по счастливой случайности. Этот до смешного заносчивый глупец уже растерял всю свою силу, а его былой порыв давно угас».\n«Даже собрав все силы, они едва способны сдержать малую часть нашего войска. Скоро их поражение станет очевидным».\n«Воины, вперёд! Наш король уже предрёк, что этот поход завершится лёгкой победой!»",
+        "en": "Weapon Ascension Material.\n\"They seized the canyon by sheer luck. That laughably arrogant fool is no more than a spent bolt, a fading gale.\"\n\"Even with all their strength, they can barely hold back a fraction of our forces. Soon enough, their defeat will be plain to see.\"\n\"Soldiers, march onward! For our king has already foretold, for this entire campaign shall end in effortless victory!\"",
+        "zh": "赋予武器突破之力的材料。\n「靠运气占据了峡谷，那可笑的妄自尊大者不过是强弩之末，冲风之衰。」\n「他们拼尽全力才可抵挡我们的军势一二，很快就将流露出败迹。」\n「军士们，不断行进吧，因兽王的令已喻示，我们轻松便能取得整场战役的胜利！」"
+      }
+    },
+    {
+      "key": "material_114087",
+      "title": {
+        "ru": "Боевой клич армии Бледной звезды",
+        "en": "Clarion of the Pale Star Army",
+        "zh": "苍星军势的鸣令"
+      },
+      "icon": "assets/icons/items/development_materials/item_114087.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\n«Наш враг Мономах воздвиг свой дворец за долиной. Похоже, уверен, что способен противостоять нам».\n«В нынешних обстоятельствах мы должны проявить предельную осторожность. О лёгкой победе больше не может быть и речи».\n«Но это не имеет значения. Пока мудрость ведёт нас вперёд, повелитель вместе с кланами преодолеет любые испытания и откроет новую славную эпоху!»",
+        "en": "Weapon Ascension Material.\n\"Our enemy Monomakh has built his palace beyond the valley, a sign that he is fully confident in his ability to contend with us.\"\n\"As matters stand, he deserves our utmost caution. Any talk of a swift victory should now be set aside.\"\n\"But it matters not. With wisdom to guide us all, the King shall stand with the clans to overcome every hardship and usher in a glorious new era!\"",
+        "zh": "赋予武器突破之力的材料。\n「我们的仇敌莫诺马赫已在山谷之外建造他的行宫，意味着他有十足的自信与我们进行周旋。」\n「如今看来，他值得我们一切的小心注意，速胜之论已不必再提。」\n「但是没关系，以智慧引领诸灵的王必会与诸氏族一同克服一切艰难，走向光辉的新纪元！」"
+      }
+    },
+    {
+      "key": "material_114088",
+      "title": {
+        "ru": "Триумф армии Бледной звезды",
+        "en": "Triumph of the Pale Star Army",
+        "zh": "苍星军势的征服"
+      },
+      "icon": "assets/icons/items/development_materials/item_114088.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\n«Да здравствует Белый царь, защитник всех альвов, наследник Бледной звезды, государь священной крови!»\n«Славьтесь, ведь теперь вся тундра едина под сиянием Полярной звезды!»\n«Славьтесь, ведь его величество сразил лжецаря и объединил всех альвов. Таково его великодушие, такова его милость!»",
+        "en": "Weapon Ascension Material.\n\"All hail the Tsar, Protector of all fae, Heir to the Pale Star, sovereign born of sacred blood!\"\n\"Praise be, for the entire tundra now stands as one beneath the brilliance of the Polestar!\"\n\"Praise be, for His Majesty has slain the false king and embraced all fae. Such is his benevolence, such is his mercy!\"",
+        "zh": "赋予武器突破之力的材料。\n「所有妖精的庇护主，苍星的继承者，诞生自神圣血脉的我等的帝王，白沙皇！」\n「称颂吧，如今整个冰原已然在极星的辉曜下浑然一体。」\n「称颂吧，诛杀了伪王的皇帝接纳了所有的妖精，竟是如此仁爱和慈悲！」"
+      }
+    }
+  ],
+  "material_count": 4
+}

@@ -357,3 +357,815 @@ Nilou thought then that she had perhaps found the purpose of dance at last —
 妮露想着，或许她已经找到舞蹈对自己的意义了——
 
 成为美，然后，传递艺术的美丽与价值。
+
+# voice_source_ids: 70000,70001,70002,70003,70004,70005,70006,70007,70008,70009,70010,70011,70012,70013,70014,70015,70016,70017,70018,70019,70020,70021,70022,70023,70024,70025,70026,70027,70028,70029,70030,70031,70032,70033,70034,70035,70036,70037,70038,70039,70040,70041,70042,70043,70044,70045,70046,70047,70048,70049,70050,70051,70052,70053,70054,70055,70056,70057,70058,70059,70060,70061,70062,70063,70064,70065,70066
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет! Я Нилу из Театра Зубаира. Сегодня на сцене я буду танцевать вот такой танец. Не зевай, представление начинается...
+
+### Поболтаем: Тренировки
+
+Сначала вот так... Следующее движение... Так... Да... Хорошо!
+
+### Поболтаем: Сонливость
+
+Нужно сделать глубокий вдох и представить, что выдыхаешь огромный пузырь, а в нём - твоя усталость. Выдох... Улетай, пузырь!
+
+### Поболтаем: Отдых
+
+А хорошо иногда устроить себе такой выходной... Можно отдыхать и ни о чём не думать.
+
+### Когда идёт дождь...
+
+Погода - как настроение, иногда на небо набегают хмурые тучи, но это не повод расстраиваться. Ведь после дождя небо станет ещё светлее.
+
+### Когда гремит гром...
+
+Слушать раскаты грома бывает страшновато. Боишься? Могу научить тебя одному волшебному приёму.
+
+### Когда идёт снег...
+
+А? Ничего себе, снег! Слышишь, как шуршат снежинки? А как они кружатся! Правда похоже на танец духов природы?
+
+### Когда светит солнце...
+
+В ясную погоду... солнце светит так ласково... Эх, даже в сон клонит.
+
+### Когда дует сильный ветер...
+
+С тобой всё в порядке? Берегись песчаных бурь.
+
+### Доброе утро...
+
+Доброе утро! А? Почему ты так смотришь? Н-наверное, у меня волосы растрепались? Ой, не смотри на меня, я сейчас причешусь.
+
+### Добрый день...
+
+Ммм... Гм... Чем бы пообедать, выпечкой или рисом?.. Или хумусом?
+
+### Добрый вечер...
+
+Добрый вечер! Сегодня у меня выступление в Театре Зубаира. Дать два билетика?
+
+### Спокойной ночи...
+
+Перед сном нужно как следует выговориться и прогнать все тревоги. Тогда спать будешь крепко. Если хочешь, я тебя выслушаю.
+
+### О Нилу: Язык тела
+
+Иногда танец передаёт чувства точнее слов. Когда не знаешь, что сказать, танцуй!
+
+### О Нилу: Танцы и знания
+
+Чтобы постигать знания, нужен настоящий дар, многие люди ужасно стараются, но в результате получают только усталость и разочарование... Танец - другое дело, можно совсем не разбираться в танцах и наслаждаться представлением. А если мой танец раскроет публике красоту и ценность искусства, я буду просто счастлива.
+
+### О нас: Как прогнать злость
+
+Ты сердишься? Гм, надо это прекращать. Смотри, я тебя научу. Нарисуй правой рукой большой круг прямо перед собой, потом представь, что вытаскиваешь всю злость из груди и бросаешь в этот круг. А теперь оттолкни его подальше! Ну как, стало легче?
+
+### О нас: Приключения на чужбине
+
+Я никогда не покидала Сумеру, но... Мне так хочется отправиться с тобой на поиски приключений. В незнакомом месте нужно просто немного освоиться, и всё будет хорошо. Ой, а на пляжах в Инадзуме случайно нет большущих песчаных червей, которые неожиданно выскакивают из песка?
+
+### Глаз Бога...
+
+Я получила Глаз Бога, когда впервые вышла на сцену. Думаю, если милостивая Архонт удостоила вниманием моё выступление, значит, она признаёт красоту мирского искусства.
+
+### Давай поделимся...
+
+Иногда старания не приносят результата, это нормально. Например, как бы я ни старалась, учение даршана Ртавахист для меня - тёмный лес. Если ничего не получается, нужно встряхнуть головой, чтобы мысли потекли по другому руслу, и тогда всё будет в порядке.
+
+### Интересные вещи: Танец кристальных бабочек
+
+Кристальные бабочки бывают самых разных цветов. Если ты не вытерпишь и протянешь руку, чтобы прикоснуться к этой красоте, она сразу полетит прочь, выписывая в воздухе невероятные пируэты. Эх, если бы я умела летать, научилась бы у кристальных бабочек их танцу.
+
+### Интересные вещи: Падисара
+
+Когда богиня цветов пускается в танец, на её следах распускаются настоящие падисары. Это, наверное, очень красиво... Хотелось бы посмотреть.
+
+### О Сайно...
+
+Он из Академии, а я побаиваюсь людей из Академии. Они там невысокого мнения о песнях и танцах. Я иногда думаю, а как они вообще развлекаются, если не любят танцы? А, значит, Сайно играет в «Священный призыв семерых»? Да уж, трудно себе представить.
+
+### О Тигнари...
+
+Говорят, он настоящий специалист в ботанике. Значит, и в грибах наверняка разбирается, отличает съедобные от несъедобных... Завидую!
+
+### О Коллеи...
+
+Она иногда приходит на мои представления. Стажёр Лесного дозора, такая ответственная. Как-то раз она попросила меня быть внимательней, чтобы не заблудиться в лесу. Как думаешь, с чего бы это? Ни разу такого не было, чтобы я заблудилась.
+
+### О Кавехе...
+
+Я слышала, он построил великолепный Алькасар-сарай. Должно быть, это настоящее счастье - работать над такой красотой. Когда во время репетиции я вспоминаю, что публика скоро увидит мой танец, сердце тотчас же наполняется радостной силой.
+
+### О Дэхье...
+
+В последнее время столько всего произошло, самой не верится. Вообще-то, я хотела выбрать подарки для Дэхьи и Дуньярзады... Но до сих пор так и не знаю, что им подарить. А если дарить всё, что советуют друзья с Большого базара, получится слишком много. Как же мне быть...
+
+### О Дори...
+
+Щедрая негоциантка Дори тоже приходила на мои представления. Но потом у неё был какой-то разговор с Зубаиром, и после она у нас не появлялась. Интересно, что случилось? Гм... А? То есть она хотела устроить мне турне по Тейвату? Не может быть. Надеюсь, Зубаир ей отказал? Правда ведь, отказал?..
+
+### О малой властительнице Кусанали...
+
+Все на Большом базаре обожают малую властительницу Кусанали. Так хочется узнать, что она думает о моём танце Сабзеруз... Ой, нет, лучше не надо. Если она и правда появится на представлении, я от страха с ума сойду.
+
+### Узнать больше о Нилу I
+
+Гм... Ой! Извини, я как раз думала, что бы такого съесть. Немного отвлеклась... Тебе нужна помощь?
+
+### Узнать больше о Нилу II
+
+Моя наставница научила меня всему, что нужно знать о танце, но она всегда говорила, что самое главное - наполнить чувствами каждое движение. Только такой танец вызовет отклик у публики. А выразить можно лишь те чувства, которые испытываешь. Чтобы выразить танцем красоту, я сама должна стать воплощением красоты.
+
+### Узнать больше о Нилу III
+
+Иногда мне приходят письма от зрителей, они говорят, что мои танцы поднимают им настроение. Я стараюсь разделить эту радость со всеми работниками театра. Публика видит на сцене одну меня, но я помню, что каждое наше представление - результат работы всех участников труппы.
+
+### Узнать больше о Нилу IV
+
+Иногда на Большом базаре выступают жонглёры из цирка, они подбрасывают мячики в воздух и ловят, подбрасывают и ловят. Я как-то тоже пробовала жонглировать, но все мячики упали мне на голову. Зубаир и все остальные очень смеялись. Наверное, они думали, что у меня прекрасная координация... Да, теперь они знают моё слабое место.
+
+### Узнать больше о Нилу V
+
+Однажды мне сказали, что я похожа на солнечный оазис - дарю людям отдохновение и тепло. Конечно, мне было приятно, но на самом деле я стремлюсь к другому... Я хочу стать для людей чем-то большим. Но теперь, подружившись с тобой, я знаю, каково это - когда о тебе заботятся и окружают вниманием. Теперь... теперь, я понимаю, что настоящий оазис - это ты!
+
+### Хобби Нилу...
+
+Вся моя жизнь - танец, а танец - моя жизнь... Как бы это объяснить? Да уж, логика - не сильная моя сторона. Словом, я просто танцую и всегда буду танцевать. Своими представлениями я хочу донести до людей красоту танца.
+
+### Беспокойство Нилу...
+
+Я так и не научилась отличать съедобные грибы от несъедобных... Говорят, от цвета это не зависит, ядовитыми могут оказаться и яркие грибы, и самые невзрачные. Эх, вроде понятно, но всё равно непонятно...
+
+### Любимая еда...
+
+Сладости всегда поднимают настроение, в Сумеру почти все любят сладкое! Может, попробуешь? Я устрою тебе настоящую дегустацию...
+
+### Нелюбимая еда...
+
+Я редко ем грибы, я их боюсь. Нет, я не пускаюсь бежать, увидев на дороге гриб! Просто... в детстве я случайно съела ядовитый гриб и потом несколько дней провалялась в постели... Если хочешь попробовать какой-нибудь из грибных деликатесов Сумеру, прежде убедись, что грибы в нём съедобные!
+
+### Подарок I
+
+Оказывается, вот что имеют в виду, когда говорят, что вкус настоящего деликатеса танцует на кончике языка... Настоящее чудо!
+
+### Подарок II
+
+Спасибо. Каждый мой танец - результат усердных тренировок. Наверное, и ты много стараний вложил в это блюдо. / Спасибо. Каждый мой танец - результат усердных тренировок. Наверное, и ты много стараний вложила в это блюдо.
+
+### Подарок III
+
+Извини, у меня в последнее время совсем нет аппетита. Не обижайся!
+
+### День рождения...
+
+Гм-гм... С днём рождения! Я тут недавно разучила новый танец, хочу тебе показать. А, волнуюсь ли я? Фух, от тебя ничего не скроешь! Я хотела передать свои чувства в движениях, но хореография получилась сложновата... В общем, желаю, чтобы тебе всегда сопутствовали радость и красота!
+
+### Чувство возвышения: Начало
+
+А? Что за странное чувство?
+
+### Чувство возвышения: Нарастание
+
+Я разогрелась, сейчас покажу настоящий класс!
+
+### Чувство возвышения: Кульминация
+
+Я как будто лежу на спине огромного Анемо слайма. Так легко и приятно...
+
+### Чувство возвышения: Окончание
+
+С тобой так хорошо. Мне всё время кажется, что сейчас у меня из груди полетят бабочки... Давай я лучше станцую, и ты всё поймёшь.
+
+### Элементальный навык I
+
+Вот и я.
+
+### Элементальный навык II
+
+Танец начинается!
+
+### Элементальный навык III
+
+Я сделаю всё возможное!
+
+### Взрыв стихии I
+
+Потанцуй с волнами!
+
+### Взрыв стихии II
+
+Смотрите на меня!
+
+### Взрыв стихии III
+
+Этот танец я посвящаю тебе.
+
+### Открытие сундука I
+
+Это всё тебе.
+
+### Открытие сундука II
+
+Давай я помогу собрать.
+
+### Открытие сундука III
+
+Ого, какая приятная неожиданность.
+
+### Низкий уровень HP I
+
+Со мной всё в порядке...
+
+### Низкий уровень HP II
+
+Неприятно...
+
+### Низкий уровень HP III
+
+Глубокий вдох...
+
+### Низкий уровень HP компаньона I
+
+Не бойся, я рядом.
+
+### Низкий уровень HP компаньона II
+
+Я тебя прикрою!
+
+### Без сознания I
+
+Я хотела... выйти на поклон...
+
+### Без сознания II
+
+Мой танец... окончен...
+
+### Без сознания III
+
+Красота, не покидай меня...
+
+### Получен тяжёлый удар I
+
+Ай, надо держать баланс...
+
+### Получен тяжёлый удар II
+
+Немного... больно.
+
+### Присоединяется к группе I
+
+Где сегодня станцуем?
+
+### Присоединяется к группе II
+
+Чем я могу помочь?
+
+### Присоединяется к группе III
+
+А? Меня зовёте? Уже иду!
+
+## REPLICAS_EN
+
+### Hello
+
+Hello, I'm Nilou from Zubayr Theater. We have one dance scheduled for today, and it's about to start — keep your eyes peeled!
+
+### Chat: Practice
+
+First get into position like this, then move like that... Yep, that's it.
+
+### Chat: Sleepiness
+
+Take a deep breath, as if you're about to blow up a huge balloon. Exhale all your sleepiness into it, and then, poof — it's now flying away!
+
+### Chat: Rest
+
+Relaxing days like this are nice... Let's take it easy.
+
+### When It Rains
+
+The weather and our moods are the same — they can both get gloomy. It's all right, though, because the sky will become even brighter after the rain.
+
+### When Thunder Strikes
+
+Thunder is kinda scary. Are you afraid of it? If so, I can share a nifty method to help with that.
+
+### When It Snows
+
+Huh? Wow, it's snowing. You can really hear the snow falling. Add in the swirling snowflakes, and it feels like the spirit of nature is dancing.
+
+### When the Sun Is Out
+
+Sunny days are so warm and cozy... *yawn* They make me sleepy...
+
+### When the Wind Is Blowing
+
+Are you all right? Watch out for sandstorms.
+
+### Good Morning
+
+Good morning! Huh, why are you staring at me? ...M—My hair's sticking up? Ahh, don't look! I'll go fix it right now.
+
+### Good Afternoon
+
+Uhh... Mmm... Should I eat some baked goods, or should I get something with rice? Or maybe... I can have some hummus instead?
+
+### Good Evening
+
+Good evening! I have a performance at Zubayr Theater tonight. Want some tickets?
+
+### Good Night
+
+Remember, let out all your frustrations before bedtime for a better night's rest. If you want, I'm more than happy to be your audience.
+
+### About Nilou: Body Language
+
+Sometimes, you can convey more with dance than words. If you don't know what to say, then just dance.
+
+### About Nilou: Dance and Wisdom
+
+You need an extreme amount of talent to pursue knowledge and wisdom. Many people throw their entire lives into it, only to end up burned out and depressed... Dance isn't like that. You don't have to understand what you're seeing to enjoy watching it. If I can use my movements to demonstrate the beauty and meaning of dance, then I'm happy.
+
+### About Us: Dealing with Anger
+
+Are you sulking? That's no good — c'mon, follow my lead. First, use your right hand to draw a biiig circle in front of you. Then, use both hands to take all those negative feelings off your chest and into the circle. Next, push it away as hard as you can! So? Feeling better now?
+
+### About Us: Going on Adventures
+
+I've never left Sumeru City, but... I want to go on adventures with you. Going to new places will be fine as long as I can adjust... Umm, quick question: Inazuma's beaches won't have huge Wenut that'll suddenly jump out at us, right?
+
+### About the Vision
+
+I received my Vision when I debuted on stage. If even the goddess was willing to watch my performance, then that must mean she had acknowledged the beauty of human-made art.
+
+### Something to Share
+
+It's normal for hard work to produce no results. For example, no matter how hard I try, I can never understand the Rtawahists' teachings. When you're stuck, shake up your mind, flip your brain around, and change the direction you're going in.
+
+### Interesting Things: Dance of the Crystalflies
+
+Crystalflies come in all sorts of colors. They're so pretty that you can't not be curious. When you quietly reach out to one, it instantly steps into an elegant and nimble dance, and flies away from you. Hehe, if I could fly, I'd take dance lessons from them.
+
+### Interesting Things: Padisarahs
+
+When the Goddess of Flowers danced, real Padisarahs would bloom underneath her feet. That sounds like such a beautiful scene. I'd love to see it.
+
+### About Cyno
+
+I don't really like interacting with people from the Akademiya because they don't view the arts too kindly. I often wonder what they do when they're bored... Huh, Cyno plays Genius Invokation TCG? I can't believe it...
+
+### About Tighnari
+
+I hear he's a really talented botanist. He must be good at telling apart mushrooms. At least, he would never have to worry about eating a poisonous one... I'm so jealous.
+
+### About Collei
+
+She sometimes comes to watch my performances. She's a really hard-working Trainee Forest Ranger. One time, she warned me about getting lost. What did she mean by that? It's not like I've gotten lost before...
+
+### About Kaveh
+
+I heard he was the one who built the magnificent Palace of Alcazarzaray. He must have had a wonderful time making such a masterpiece, like when I'm in the middle of dance practice. Just thinking about dancing for everyone gives me so much happiness and motivation.
+
+### About Dehya
+
+It's hard to believe that so many things have happened recently... I wanted to pick out a good present for Dehya and Dunyarzad, but I just can't make up my mind. Everyone at the Grand Bazaar has given me many suggestions, but if I took them all, it'd be too much... What should I do...
+
+### About Dori
+
+The big-spending merchant Dori has watched me dance before. I remember that she talked with Mr. Zubayr once, and then never came back. Did something happen? ...Huh? She wanted me to go on tour around Teyvat? No way, Mr. Zubayr definitely would've refused for me! ...Ahh, please tell me he has...
+
+### About Lesser Lord Kusanali
+
+The people of the Great Bazaar love Lesser Lord Kusanali. I'd love to hear her thoughts on my Dance of Sabzeruz... Oh, no, no, forget it... If she were in the audience, I'd get stage fright...
+
+### More About Nilou: I
+
+Aaagh! Sorry, I'm trying to decide what to eat, and I got lost in thought. Hee-hee, do you need help with anything?
+
+### More About Nilou: II
+
+My teacher taught me everything there is to know about dance, but she said that the most important thing is putting feeling into your movements. Only then can you move your audience and convey emotion. To express beauty, I must first become the embodiment of beauty.
+
+### More About Nilou: III
+
+Sometimes, I receive letters from showgoers who say that my dancing has cheered them up. I always share this kind of happy news with everyone at Zubayr Theater. Even though I'm the one the audience sees on the stage, it's because of everyone's collective efforts that I can stand up there in the first place.
+
+### More About Nilou: IV
+
+The Grand Bazaar occasionally hosts other kinds of performances, such as juggling showcases. I've tried juggling before, but I always end up catching the balls with my head... Mr. Zubayr and everyone else just laughed at me. They probably thought I had really good hand-eye coordination. Hee-hee, I've been exposed.
+
+### More About Nilou: V
+
+Someone once told me that I was like a shining oasis that restored life and happiness to others with its warmth. That was nice of them to say, and I was happy to hear it, but... what I want to show people is much more than that. After spending so much time with you, though, I finally understand how it feels to have someone care for and look after you. Now... Now, I feel like that comparison is a far better one for you.
+
+### Nilou's Hobbies
+
+"My life is dance," or "Dance is my life"... Which phrase is the better way to describe it? Agh, I'm no good at logical things like this. Anyway, I'll just keep on dancing. I want to use my performances to show the beauty of art to more people.
+
+### Nilou's Troubles
+
+I still can't tell poisonous mushrooms apart from non-poisonous ones... Apparently, color doesn't mean much — poisonous mushrooms can be bright or dull. Mmm, I feel like I understand, but I also don't...
+
+### Favorite Food
+
+Sweets always make you feel better! Most people in Sumeru love them. Wanna try some? I'll get some for you!
+
+### Least Favorite Food
+
+I have a hard time eating mushrooms, mostly because I'm scared... Not the type of scared that makes you want to run away, though! When I was little, I once ate a poisonous mushroom and was bedridden for days... If you want to eat any of Sumeru's mushroom dishes, please make sure to check that the ingredients are all edible!
+
+### Receiving a Gift: I
+
+This must be what it feels like to have flavors dancing on your tongue... How wonderful!
+
+### Receiving a Gift: II
+
+Thank you. You must have put a lot of love and effort into this dish, just like I put so much of me into my dance practice.
+
+### Receiving a Gift: III
+
+Sorry, my appetite's been a bit off lately. Please don't take offense.
+
+### Birthday
+
+Umm... Happy birthday! I learned a new dance, and I want to show it to you. Uh, am I nervous? *sigh* You saw right through me. It's because... I wanted to incorporate my feelings into the moves, but then the choreography just got more and more difficult... Anyway, I just wish that your life will always be full of wonder and happiness.
+
+### Feelings About Ascension: Intro
+
+Huh? What's this feeling...?
+
+### Feelings About Ascension: Building Up
+
+I'm done warming up. I can do even better now!
+
+### Feelings About Ascension: Climax
+
+I feel like I'm lying down on the back of a massive Anemo Slime. Ahh, it's so light and comfy~
+
+### Feelings About Ascension: Conclusion
+
+I really like being with you. I don't know why, but it feels like a butterfly is trying to burst out of my chest... Anyway, how about I show a new dance to you?
+
+### Elemental Skill: I
+
+Here!
+
+### Elemental Skill: II
+
+Positions!
+
+### Elemental Skill: III
+
+With all my strength!
+
+### Elemental Burst: I
+
+Dance with the waves!
+
+### Elemental Burst: II
+
+All eyes on me!
+
+### Elemental Burst: III
+
+This dance is for you.
+
+### Opening Treasure Chest: I
+
+For you~
+
+### Opening Treasure Chest: II
+
+Let me help you pack this up.
+
+### Opening Treasure Chest: III
+
+Wow, what a lovely surprise!
+
+### Low HP: I
+
+Ah, don't worry about me...
+
+### Low HP: II
+
+How troublesome...
+
+### Low HP: III
+
+Deep breaths...
+
+### Ally at Low HP: I
+
+Don't worry, I'm here.
+
+### Ally at Low HP: II
+
+I'll stand in for you!
+
+### Fallen: I
+
+It's time for the curtain... to fall...
+
+### Fallen: II
+
+The show... can't go on...
+
+### Fallen: III
+
+Beauty... Don't leave me...
+
+### Heavy Hit Taken: I
+
+Ah, I gotta keep my balance...
+
+### Heavy Hit Taken: II
+
+That... hurt a little.
+
+### Joining Party: I
+
+Where are we dancing today?
+
+### Joining Party: II
+
+Anything I can help you with?
+
+### Joining Party: III
+
+...Oh, you're calling for me? Coming!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，我是来自祖拜尔剧场的妮露。今天上演的剧目是这一支舞。请你不要眨眼哦，要开始了——
+
+### 闲聊·练习
+
+先这样…下一个动作是…这样吧，嗯…嗯！
+
+### 闲聊·困意
+
+深呼吸，吹一个大大的气球，把困意放进气球里，呼——气球飞走吧。
+
+### 闲聊·休息
+
+这样清闲的日子倒也不错嘛，优哉游哉。
+
+### 下雨的时候…
+
+天气和心情一样，有时候会变得阴沉沉的，但是不用着急，雨后的天空会更加澄澈。
+
+### 打雷的时候…
+
+雷声有点恐怖呢，你会害怕吗？我可以分享你一个神奇的方法哦。
+
+### 下雪的时候…
+
+欸？哇——下雪了。你听，下雪的簌簌声，加上旋转着的雪花，像不像自然的精灵在跳舞？
+
+### 阳光很好…
+
+阳光明媚的日子…晒得暖洋洋的。唔，会犯困…
+
+### 刮大风了…
+
+你还好吗？小心风沙哦。
+
+### 早上好…
+
+早上好哦。欸？你盯着我看是…哦头、头发翘起来了吗？啊，先别看我，唔，我马上整理好。
+
+### 中午好…
+
+唔…嗯…中午吃饼好呢，还是吃饭呢…要不吃豆泥吧？
+
+### 晚上好…
+
+晚上好，今晚我在祖拜尔剧场有演出。给你两张剧票吧？
+
+### 晚安…
+
+睡前把烦恼全部都倾诉掉，会睡得比较香哦。如果你愿意，我很乐意当你的听众。
+
+### 关于妮露自己·肢体语言
+
+有时候，舞蹈比语言更能传达出心情，不知道该说什么好的时候，就跳舞吧。
+
+### 关于妮露自己·舞蹈与知识
+
+探究知识需要很高很高的天赋，很多人拼了命地努力，结果劳累又沮丧…但跳舞就不一样了，就算看不懂门道，也能看个热闹。要是能从这份肢体动作中品味到艺术的美丽与价值，那我就更开心了。
+
+### 关于我们·缓解生气
+
+你会生闷气吗？嗯，生闷气是不好的。来，跟着我做。先在身前用右手画一个大大的圆，然后，双手把讨厌的事都从胸口里取出来，放在圆里。接着，用力地推出去！怎么样，心情好起来了吗？
+
+### 关于我们·外出冒险
+
+尽管我之前没离开过须弥城，但…我想和你一起去冒险。哦，到陌生的地方，我适应一下就好…唔，稻妻的沙滩下，真的不会有很大很大的沙虫，突然钻出来吗？
+
+### 关于「神之眼」…
+
+我的神之眼是第一次登台跳舞时拿到的。我想，神明大人会成为我的观众，一定也认可了人类艺术的美丽之处吧。
+
+### 有什么想要分享…
+
+努力没有结果，也是很正常的。就像我不管怎么努力，也没办法理解明论派的知识。嗯，这个时候晃一晃脑袋，让大脑转个弯，换个方向就好了。
+
+### 感兴趣的见闻·晶蝶之舞
+
+晶蝶有各种各样的颜色，很漂亮。当你实在按捺不住好奇心，悄悄伸出手的时候，它们就会一下子跳起优美而迅疾的舞步，离你远去。啊，我要是会飞的话，就能学会晶蝶之舞了。
+
+### 感兴趣的见闻·帕蒂沙兰
+
+花神大人跳舞的时候，真正的帕蒂沙兰会在她踏足过的地上盛开。…啊，听起来就非常美好，真想见一见这样的场景。
+
+### 关于赛诺…
+
+教令院的人，我不太敢接触，毕竟他们对歌舞艺术的印象都不好。我常常会想，那他们会通过什么来解闷呢？呃…你说赛诺的话，会玩「七圣召唤」？真是不可思议呢。
+
+### 关于提纳里…
+
+据说他是很厉害的植物学家。那他分辨蘑菇的本领肯定很厉害，至少不会吃到毒蘑菇…好羡慕呀。
+
+### 关于柯莱…
+
+她偶尔会来看我的演出，是一位很热心的见习巡林员呢。她还提醒过我小心迷路，这是为什么呢？我也没有迷路过呀。
+
+### 关于卡维…
+
+我听说是他建造了华美的艾尔卡萨扎莱宫，能建造出那样的作品，过程应该快乐又陶醉吧。就像我练舞的时候一样，只要一想到能跳给大家看，就充满了喜悦和动力呢。
+
+### 关于迪希雅…
+
+最近发生了那么多事情，总觉得很不可思议。我原本想为迪希雅和迪娜泽黛挑选一些合适的礼物。但我自己拿不定主意，嗯…要是把大巴扎朋友们推荐的品种全送去，又太多了。哎呀，到底该怎么办才好呢？
+
+### 关于多莉…
+
+出手阔绰的多莉大商人也曾看过我跳舞。我记得，有一次她和祖拜尔先生商量了什么事情，之后就再也没来过了。会是什么事情呢？嗯…呃？你是说她可能想带我进行一场提瓦特巡演？不会吧，祖拜尔先生肯定帮忙拒绝了吧…应该拒绝了吧…
+
+### 关于小吉祥草王…
+
+大巴扎的大家都很喜欢小吉祥草王大人，好想听听她对我跳的花神之舞的评价呀…啊！不、不，还是算了算了。她真的来了，我肯定会紧张得不得了。
+
+### 想要了解妮露·其一
+
+唔——啊！抱歉，我在想等下去吃什么好呢？有点出神了…你需要帮忙吗？
+
+### 想要了解妮露·其二
+
+我的老师教过我很多跳舞的要领，但她说，最重要的还是要把情感都投入到舞蹈里，因为这样才是最能打动人的。有所感，才能抒发。想要传达美丽的话，我就要成为美丽本身吧。
+
+### 想要了解妮露·其三
+
+有时候我会收到观众们的来信，说他们因为我的舞蹈打起了精神。我会和祖拜尔剧场的大家共同分享这份快乐。虽然在观众眼里，我是在台前的那一个，但在我心中，这永远是靠所有人的努力才能取得的成果。
+
+### 想要了解妮露·其四
+
+大巴扎有时候会有一些杂技表演，比如说不停抛起球来又不停接住。以前我也试过这个，但是不知道怎么回事就是接不住球，反而全掉头上了。当时祖拜尔先生他们都笑了起来。嗯…好像在他们眼里，我的身体协调能力应该特别强一样…暴露短处了呢。
+
+### 想要了解妮露·其五
+
+以前有人说我就像是暖阳下的绿洲，让人感到治愈与温暖。我多多少少会高兴一下，但我的追求、我试图向大家呈现的价值不止在此。不过，和你相处久了我才知道，被人照顾和关怀是这样的感觉。现在…现在，我感觉那个比喻更适合你。
+
+### 妮露的爱好…
+
+我的人生就是跳舞，跳舞就是我的人生…到底该说哪个才比较好呢？哎呀，我果然不适合思考这些太有逻辑的东西。总之，我会一直跳下去的。用我的表演，让这份艺术之美被更多人看见。
+
+### 妮露的烦恼…
+
+我还是搞不懂哪些蘑菇有毒，哪些又没有…据说，颜色不管是鲜艳还是朴素的蘑菇，都有可能有毒。唔，好像明白了什么，又好像什么都没明白…
+
+### 喜欢的食物…
+
+甜食总能让人心情愉快，须弥大多数人都喜欢甜食哦！欸，你要不要也试试看？我可以给你一一介绍。
+
+### 讨厌的食物…
+
+我有点难以接受菌菇那一类，主要是害怕。不是那种见到了想逃走的害怕啦。我…我是小时候误吃过毒蘑菇，在床上躺了好几天…如果你想尝一尝须弥的菌菇美食，要记得确保是无毒蘑菇哦。
+
+### 收到赠礼·其一
+
+原来美食在舌尖起舞，指的就是这样的感觉…好神奇呀！
+
+### 收到赠礼·其二
+
+谢谢你。就像我不断练习跳舞一样，这道菜肴，一定也凝结着你的心血吧。
+
+### 收到赠礼·其三
+
+抱歉，可能是我最近胃口不太好，你别介意。
+
+### 生日…
+
+那个…生日快乐！我最近学会了一支新的舞蹈，想要跳给你看。呃，你问我紧张吗？呼——被你看出来了呀。因为，想要融合心意与技巧，不知不觉编得越来越难…总之，希望美好与快乐能永远留在你身边。
+
+### 突破的感受·起
+
+啊，这是什么感觉？
+
+### 突破的感受·承
+
+身体舒展开了，能比以往发挥得更出色吧。
+
+### 突破的感受·转
+
+我就像躺在一只大大的风史莱姆背上，好轻好轻。
+
+### 突破的感受·合
+
+我喜欢和你待在一起。嗯…我也不知道为什么，总感觉好像有蝴蝶要从胸腔飞出来一般…还是让我跳一支舞给你看吧。
+
+### 元素战技·其一
+
+来了哟。
+
+### 元素战技·其二
+
+准备跳喽。
+
+### 元素战技·其三
+
+全力以赴。
+
+### 元素爆发·其一
+
+和浪花共舞吧。
+
+### 元素爆发·其二
+
+请看好了哦。
+
+### 元素爆发·其三
+
+这支舞，献给你。
+
+### 打开宝箱·其一
+
+都给你。
+
+### 打开宝箱·其二
+
+我来帮忙一起收吧。
+
+### 打开宝箱·其三
+
+哇，是意外之喜。
+
+### 生命值低·其一
+
+唔，不用担心我…
+
+### 生命值低·其二
+
+真伤脑筋呀…
+
+### 生命值低·其三
+
+得快点深呼吸…
+
+### 同伴生命值低·其一
+
+别急，我来了。
+
+### 同伴生命值低·其二
+
+请让我来抵挡一阵！
+
+### 倒下·其一
+
+还没来得及…谢幕…
+
+### 倒下·其二
+
+不能…继续跳舞了吗…
+
+### 倒下·其三
+
+美丽之物，不要远去…
+
+### 重受击·其一
+
+啊，要稳住平衡。
+
+### 重受击·其二
+
+有点…疼。
+
+### 加入队伍·其一
+
+今天要去哪里跳舞呢？
+
+### 加入队伍·其二
+
+有什么我能帮忙的吗？
+
+### 加入队伍·其三
+
+啊…是叫我吗？来啦。

@@ -15,12 +15,15 @@
 # part_source_ids: 76096
 # previous_quests: quest_wq_10095
 # next_quests: 
-# related_quests: quest_wq_10086,quest_wq_70099,quest_wq_10094,quest_wq_10095
-# quest_chain: quest_wq_10086,quest_wq_70099,quest_wq_10094,quest_wq_10095,quest_wq_10132
+# related_quests: quest_wq_70099,quest_wq_10086,quest_wq_10094,quest_wq_10095
+# quest_chain: quest_wq_70099,quest_wq_10086,quest_wq_10094,quest_wq_10095,quest_wq_10132
 # quest_series: A Long Day in the Mountains
 # version_source: wiki_release_category
 
 # quest_series_ru: Долгий день в горах
+# game_source_ids: 76096
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 50
 
 ## RU
 
@@ -29,74 +32,6 @@
 Вы наконец возвращаетесь в Зал столпов из Зала безучастия...
 
 #### Отправляйтесь в центр Зала столпов
-
-**Цайтлинд:** Чего только в жизни не увидишь.
-
-**Цайтлинд:** Я уже собиралась сказать, что вы неплохо противостояли Меланте... Но...
-
-**Цайтлинд:** Что именно вы сделали?
-
-**Цайтлинд:** И... кто вы такие?
-
-**Паймон:** Твои воспоминания начинают исчезать?
-
-**Цайтлинд:** Кто... я?
-
-Тебя зовут Цайтлинд.
-
-**Паймон:** Правильно! А Паймон - это Паймон, а это Путешественник. Мы твои друзья!
-
-**Цайтлинд:** Друзья?..
-
-**Паймон:** Конечно! Мы с тобой прошли через огонь и воду. Мы друзья!
-
-**Цайтлинд:** Правда?
-
-**Цайтлинд:** Я чувствую, что так и есть.
-
-**Паймон:** А твоя сестра недавно отправилась путешествовать по миру, чтобы сменить обстановку. Когда-нибудь вы обязательно встретитесь.
-
-**Паймон:** Возможно, она забыла тебя. Но вы связаны кровными узами, и у вас одинаковая внешность.
-
-**Паймон:** Паймон уверена, что вы сразу же узнаете друг друга при встрече.
-
-**Цайтлинд:** У меня есть старшая сестра...
-
-**Паймон:** Не обращай внимания на это надгробие!
-
-**Паймон:** Твоя сестра поставила его ради забавы. Надгробие символизирует её новую жизнь.
-
-**Паймон:** Твоя сестра точно жива!
-
-**Цайтлинд:** Сестра...
-
-**Паймон:** Угу.
-
-**Цайтлинд:** Зачем же она так сделала? Глупая...
-
-**Паймон:** Э-э-э...
-
-**Паймон:** В общем, в твоём чемоданчике должна быть информация о тебе, посмотришь - и всё вспомнишь.
-
-**Цайтлинд:** Да, хорошо.
-
-**Паймон:** И ещё, ты удивительный человек!
-
-**Паймон:** Ты настолько невероятная, что спасла весь мир!
-
-**Цайтлинд:** Я?
-
-**Паймон:** Все тебе очень благодарны. Так что знай: ты совершила по-настоящему важный поступок.
-
-**Паймон:** Если тебя кто-то обидит, напиши (путешественнице)(путешественнику). (В мире нет ничего, с чем она не смогла бы справиться.)(В мире нет ничего, с чем он не смог бы справиться.)
-
-Чем хочешь заняться?
-
-**Цайтлинд:** Я не знаю. Но я чувствую себя так, будто не ела несколько дней.
-
-**Паймон:** Паймон тоже голодна! Паймон нужно поесть прямо сейчас!
-
-**Паймон:** Скорей опустошай свой рюкзак! Паймон хочет съесть кучу куриных шашлычков с грибами!
 
 #### Поговорите с Историем
 
@@ -174,11 +109,11 @@
 
 **Паймон:** Нет, нет, ни в коем случае. Все говорят, что ты сокровище человечества. Давай лучше выберем кого-нибудь другого!
 
-**Паймон:** Но у Паймон и (путешественницы)(путешественника), эм, есть очень важные дела.
+**Паймон:** Но у Паймон и путешественника, эм, есть очень важные дела. / Но у Паймон и путешественницы, эм, есть очень важные дела.
 
-Нет, Паймон. Все равны.
+- **Путешественник:** Нет, Паймон. Все равны.
 
-Никакая великая цель не оправдывает принесение в жертву окружающих.
+- **Путешественник:** Никакая великая цель не оправдывает принесение в жертву окружающих.
 
 **Паймон:** Ходить и спрашивать, кто готов отказаться от всего, что он пережил... тоже неправильно.
 
@@ -246,26 +181,37 @@
 
 **Паймон:** Остались незавершённые дела?
 
-- **Путешественник:** Идёмте...
+##### Вариант ответа 1
 
-- **Путешественник:** Мне нужно немного времени.
+- **Путешественник:** Идёмте...
 
 **Историй:** Ох...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Мне нужно немного времени.
+
 **Цайтлинд:** Я буду ждать тебя. Когда придёт время, мы всё увидим вместе.
 
+#### Поговорите с Историем
 
-**Цайтлинд:** Это почерк сестры.
+**Цайтлинд:** Готовы?
 
-**Паймон:** Это письма, которые мы не нашли внизу?
+**Историй:** Цайтлинд, подумай ещё раз.
 
-**Цайтлинд:** Нет. Просто несколько сообщений и короткое стихотворение, которое она сама написала.
+**Цайтлинд:** Нет.
 
-**Цайтлинд:** Это не прощание. Думаю, сестра всё ещё жива.
+##### Вариант ответа 1
 
-**Паймон:** Мы можем посмотреть?
+- **Путешественник:** Идёмте...
 
-**Цайтлинд:** Вы всё увидите.
+**Историй:** Ох...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Мне нужно немного времени.
+
+**Цайтлинд:** Я буду ждать тебя. Когда придёт время, мы всё увидим вместе.
 
 #### Постройте лестницу в небеса
 
@@ -313,6 +259,30 @@
 
 #### Исследуйте Коридор пустоты
 
+#### Осмотрите стопку книг
+
+**Цайтлинд:** Это почерк сестры.
+
+**Паймон:** Это письма, которые мы не нашли внизу?
+
+**Цайтлинд:** Нет. Просто несколько сообщений и короткое стихотворение, которое она сама написала.
+
+**Цайтлинд:** Это не прощание. Думаю, сестра всё ещё жива.
+
+**Паймон:** Мы можем посмотреть?
+
+**Цайтлинд:** Вы всё увидите.
+
+#### Продолжайте исследование
+
+#### Воспоминания...
+
+#### Отправляйтесь в Коридор пустоты
+
+#### Поговорите с Цайтлинд
+
+#### Поговорите с Цайтлинд
+
 **Цайтлинд:** Стихотворение сестры...
 
 **Цайтлинд:** Ох, одни эмоции, ни капли литературного таланта.
@@ -345,35 +315,41 @@
 
 **Цайтлинд:** Это тоже своего рода вечность.
 
-#### Продолжайте исследование
+#### Войдите в Атриум сущности
 
-**Цайтлинд:** Готовы?
+**Меланта:** Дитя человечества... Нет... Ты!..
 
-**Историй:** Цайтлинд, подумай ещё раз.
+**Меланта:** О моя создательница! Почему ты выбрала её и отвергла меня?.. / О моя создательница! Почему ты выбрала его и отвергла меня?..
 
-**Цайтлинд:** Нет.
+**Паймон:** Кажется, он разозлился...
 
-- **Путешественник:** Идёмте...
+**Меланта:** Верни их обратно.
 
-- **Путешественник:** Мне нужно немного времени.
+#### Победите стражников
 
-**Историй:** Ох...
+#### Исследуйте аномалию
 
-**Цайтлинд:** Я буду ждать тебя. Когда придёт время, мы всё увидим вместе.
+#### Найдите скрытых противников и победите их
 
-#### Воспоминания...
+#### Найдите скрытых противников и победите их
 
-**Меланта:** (Чужеземка)(Чужеземец), поскольку ты не дитя человечества, как мне обращаться к тебе?
+#### Найдите скрытых противников и победите их
 
-Меня зовут Путешественник, и...
+#### Найдите скрытых противников и победите их
 
-...что значит «дитя человечества»?
+#### Поговорите с созерцателем
+
+**Меланта:** Чужеземец, поскольку ты не дитя человечества, как мне обращаться к тебе? / Чужеземка, поскольку ты не дитя человечества, как мне обращаться к тебе?
+
+- **Путешественник:** Меня зовут Путешественник, и...
+
+- **Путешественник:** ...что значит «дитя человечества»?
 
 **Меланта:** Все, кто происходит от первородного предка, созданного по образу и подобию всемогущего повелителя, и все, кто происходит из его рода, называются детьми человечества. Даже искусственные люди из Первозданного моря, которым было даровано особое помилование, относятся к их числу.
 
 **Меланта:** Но ты нет.
 
-Почему божество забрало мою сестру / моего брата?
+- **Путешественник:** Почему божество забрало мою сестру? / Почему божество забрало моего брата?
 
 **Меланта:** Не могу ответить, потому что я тоже не могу этого понять.
 
@@ -421,90 +397,11 @@
 
 **Цайтлинд:** Путешественник, прошу тебя.
 
-#### Войдите в Атриум сущности
+#### Победите «меланхолию»
 
-**Меланта:** Дитя человечества... Нет... Ты!..
+#### Победите «меланхолию»
 
-**Меланта:** О моя создательница! Почему ты выбрала (его)(её) и отвергла меня?..
-
-**Паймон:** Кажется, он разозлился...
-
-**Меланта:** Верни их обратно.
-
-
-**Меланта:** Нихилита! Нихилита!
-
-**Меланта:** Я понял, понял...
-
-**Меланта:** Когда божество покидает трон, все творения обретают свободу.
-
-**Цайтлинд:** Меланта.
-
-**Меланта:** Что ты хотела мне сказать?
-
-**Цайтлинд:** Это результат многолетней борьбы с собственной меланхолией, хотя, пожалуй, я говорю об этом слишком поздно.
-
-**Цайтлинд:** Если ты чувствуешь неодолимую тоску, это физиологическое заболевание. Как можно скорее обратись к врачу и выполняй все назначения.
-
-**Меланта:** Ты похожа на свою сестру. Совершенно необъяснима.
-
-**Меланта:** Созданиям, подобным нам, воплощениям правил... К кому нам обратиться за лечением?
-
-**Цайтлинд:** Испытываешь чувство вины за избиение пациента?
-
-**Паймон:** Знакомства с местными обитателями не пошли тебе на пользу, Цайтлинд. Ты научилась плохому...
-
-**Цайтлинд:** В душе у любого интроверта есть тёмная сторона.
-
-**Цайтлинд:** В любом случае ты больше не увидишь меня такой.
-
-**Паймон:** Опять печаль нагоняешь...
-
-**Цайтлинд:** Я же говорила, что у меня есть тёмная сторона.
-
-Меланта, у меня остались вопросы.
-
-**Меланта:** Если у тебя есть вопросы, спрашивай. Я скоро исчезну.
-
-**Меланта:** Вынеся приговор художнику, который нарушил законы пространства, перекрыв путь в Коридор пустоты...
-
-**Меланта:** ...я превысил полномочия. Моё неповиновение вызвало самоуничтожение в соответствии с установленными правилами.
-
-**Меланта:** Я на самом деле не хочу отвечать на твои вопросы, но подозреваю, что подобное сопротивление ускорит моё исчезновение.
-
-Расскажи о моей сестре / моём брате...
-
-**Меланта:** Разве ты не пришёл / пришла сюда сам(а)? Разве твоя воля не принадлежит тебе, а ноги не свободны? Иди и ищи!
-
-**Меланта:** Ты не похож(а) на меня... я сам сковал свои крылья, а потом смотрел, как они ломаются.
-
-Зачем ты всех мучаешь?
-
-**Меланта:** Мучаю? Нет. Я исправляю их. Я возвращаю им облик, который был задуман небесами. Они вознеслись, но вместо того чтобы принять священную неизменность горнего мира, всё ещё льнут к тленной скверне земной юдоли.
-
-**Меланта:** Я понял. Я завидую. Завидую им. Завидую падшему Нихилите. Завидую переменам. Завидую свободе. Завидую... жизни.
-
-**Меланта:** Я думал, если буду всё делать правильно, то когда создательница вернётся, она похвалит меня. И этого было бы довольно. Довольно, чтобы утешить меня... довольно, чтобы доказать, что все они ошибались.
-
-**Меланта:** Почему она не обернулась? Почему не спросила, хочу ли я уйти вместе с ней?
-
-**Цайтлинд:** Если ты и раньше был таким бессердечным упрямцем, то нетрудно понять почему. Будь в тебе хоть капля непокорности - глядишь, и правда бы позвала.
-
-Хочешь о чём-то спросить, Цайтлинд?
-
-**Цайтлинд:** Я? Дай-ка подумать... Хочу понять, почему люди говорят, что этот санаторий проклят.
-
-**Меланта:** ...Когда-то здесь разразилось бедствие Бездны. Рыцари, что несли стражу, бились насмерть и не отступили. Когда донесение достигло Тернового порта, в нём было лишь одно:
-
-**Меланта:** «Никто из ушедших на Пик ветров не придёт назад».
-
-**Цайтлинд:** Вот оно что. Значит, всё исказилось со временем. Нет никакого проклятия. Есть лишь воины, уснувшие вечным сном. Это место упокоения рыцарей западного ветра.
-
-**Меланта:** У меня почти не осталось времени. Я ненавижу вас. Всех вас. И всё же я хочу лишь одного - удержать сознание, продлить эту искру, не дать ей погаснуть.
-
-**Меланта:** Ты и твоя сестра - смертные, что любят всё и вся, - жаждете встретить свою кончину. А я так отчаянно желаю жить... и всё же дни мои сочтены.
-
-**Меланта:** Нихилита, скорбь моя невыразима...
+#### Победите «меланхолию»
 
 #### Поговорите с созерцателем
 
@@ -538,17 +435,51 @@
 
 **Цайтлинд:** Я же говорила, что у меня есть тёмная сторона.
 
-Меланта.
+- **Путешественник:** Меланта, у меня остались вопросы.
 
-У меня остались вопросы.
-
-**Меланта:** Я больше не в силах отвечать. И не хочу.
+**Меланта:** Если у тебя есть вопросы, спрашивай. Я скоро исчезну.
 
 **Меланта:** Вынеся приговор художнику, который нарушил законы пространства, перекрыв путь в Коридор пустоты...
 
 **Меланта:** ...я превысил полномочия. Моё неповиновение вызвало самоуничтожение в соответствии с установленными правилами.
 
+**Меланта:** Я на самом деле не хочу отвечать на твои вопросы, но подозреваю, что подобное сопротивление ускорит моё исчезновение.
+
+- **Путешественник:** Расскажи о моей сестре... / Расскажи о моём брате...
+
+**Меланта:** Разве ты не пришёл сюда сам? Разве твоя воля не принадлежит тебе, а ноги не свободны? Иди и ищи! / Разве ты не пришла сюда сама? Разве твоя воля не принадлежит тебе, а ноги не свободны? Иди и ищи!
+
+**Меланта:** Ты не похож на меня... я сам сковал свои крылья, а потом смотрел, как они ломаются. / Ты не похожа на меня... я сам сковал свои крылья, а потом смотрел, как они ломаются.
+
+- **Путешественник:** Зачем ты всех мучаешь?
+
+**Меланта:** Мучаю? Нет. Я исправляю их. Я возвращаю им облик, который был задуман небесами. Они вознеслись, но вместо того чтобы принять священную неизменность горнего мира, всё ещё льнут к тленной скверне земной юдоли.
+
+**Меланта:** Я понял. Я завидую. Завидую им. Завидую падшему Нихилите. Завидую переменам. Завидую свободе. Завидую... жизни.
+
+**Меланта:** Я думал, если буду всё делать правильно, то когда создательница вернётся, она похвалит меня. И этого было бы довольно. Довольно, чтобы утешить меня... довольно, чтобы доказать, что все они ошибались.
+
+**Меланта:** Почему она не обернулась? Почему не спросила, хочу ли я уйти вместе с ней?
+
+**Цайтлинд:** Если ты и раньше был таким бессердечным упрямцем, то нетрудно понять почему. Будь в тебе хоть капля непокорности - глядишь, и правда бы позвала.
+
+- **Путешественник:** Хочешь о чём-то спросить, Цайтлинд?
+
+**Цайтлинд:** Я? Дай-ка подумать... Хочу понять, почему люди говорят, что этот санаторий проклят.
+
+**Меланта:** ...Когда-то здесь разразилось бедствие Бездны. Рыцари, что несли стражу, бились насмерть и не отступили. Когда донесение достигло Тернового порта, в нём было лишь одно:
+
+**Меланта:** «Никто из ушедших на Пик ветров не придёт назад».
+
+**Цайтлинд:** Вот оно что. Значит, всё исказилось со временем. Нет никакого проклятия. Есть лишь воины, уснувшие вечным сном. Это место упокоения рыцарей западного ветра.
+
+**Меланта:** У меня почти не осталось времени. Я ненавижу вас. Всех вас. И всё же я хочу лишь одного - удержать сознание, продлить эту искру, не дать ей погаснуть.
+
+**Меланта:** Ты и твоя сестра - смертные, что любят всё и вся, - жаждете встретить свою кончину. А я так отчаянно желаю жить... и всё же дни мои сочтены.
+
 **Меланта:** Нихилита, скорбь моя невыразима...
+
+#### Вернитесь в центр Зала столпов
 
 #### Поговорите с Историем
 
@@ -568,7 +499,7 @@
 
 **Историй:** Когда вырастешь, не забывай о нашей доброте.
 
-**Историй:** ?
+**Декс:** ?
 
 **Паймон:** Кстати, ты что-нибудь знаешь о том еретическом мифе, в котором свет и тьма породили первородного человека?
 
@@ -616,6 +547,122 @@
 
 **Цайтлинд:** Пойдёмте, Путешественник, Паймон. Проводите меня вниз. А потом мы познакомимся заново.
 
+#### Уйдите вместе с Цайтлинд
+
+**Цайтлинд:** Чего только в жизни не увидишь.
+
+**Цайтлинд:** Я уже собиралась сказать, что вы неплохо противостояли Меланте... Но...
+
+**Цайтлинд:** Что именно вы сделали?
+
+**Цайтлинд:** И... кто вы такие?
+
+**Паймон:** Твои воспоминания начинают исчезать?
+
+**Цайтлинд:** Кто... я?
+
+- **Путешественник:** Тебя зовут Цайтлинд.
+
+**Паймон:** Правильно! А Паймон - это Паймон, а это Путешественник. Мы твои друзья!
+
+**Цайтлинд:** Друзья?..
+
+**Паймон:** Конечно! Мы с тобой прошли через огонь и воду. Мы друзья!
+
+**Цайтлинд:** Правда?
+
+**Цайтлинд:** Я чувствую, что так и есть.
+
+**Паймон:** А твоя сестра недавно отправилась путешествовать по миру, чтобы сменить обстановку. Когда-нибудь вы обязательно встретитесь.
+
+**Паймон:** Возможно, она забыла тебя. Но вы связаны кровными узами, и у вас одинаковая внешность.
+
+**Паймон:** Паймон уверена, что вы сразу же узнаете друг друга при встрече.
+
+**Цайтлинд:** У меня есть старшая сестра...
+
+**Паймон:** Не обращай внимания на это надгробие!
+
+**Паймон:** Твоя сестра поставила его ради забавы. Надгробие символизирует её новую жизнь.
+
+**Паймон:** Твоя сестра точно жива!
+
+**Цайтлинд:** Сестра...
+
+**Паймон:** Угу.
+
+**Цайтлинд:** Зачем же она так сделала? Глупая...
+
+**Паймон:** Э-э-э...
+
+**Паймон:** В общем, в твоём чемоданчике должна быть информация о тебе, посмотришь - и всё вспомнишь.
+
+**Цайтлинд:** Да, хорошо.
+
+**Паймон:** И ещё, ты удивительный человек!
+
+**Паймон:** Ты настолько невероятная, что спасла весь мир!
+
+**Цайтлинд:** Я?
+
+**Паймон:** Все тебе очень благодарны. Так что знай: ты совершила по-настоящему важный поступок.
+
+**Паймон:** Если тебя кто-то обидит, напиши путешественнику. В мире нет ничего, с чем он не смог бы справиться. / Если тебя кто-то обидит, напиши путешественнице. В мире нет ничего, с чем она не смогла бы справиться.
+
+- **Путешественник:** Чем хочешь заняться?
+
+**Цайтлинд:** Я не знаю. Но я чувствую себя так, будто не ела несколько дней.
+
+**Паймон:** Паймон тоже голодна! Паймон нужно поесть прямо сейчас!
+
+**Паймон:** Скорей опустошай свой рюкзак! Паймон хочет съесть кучу куриных шашлычков с грибами!
+
+**Меланта:** Нихилита! Нихилита!
+
+**Меланта:** Я понял, понял...
+
+**Меланта:** Когда божество покидает трон, все творения обретают свободу.
+
+**Цайтлинд:** Меланта.
+
+**Меланта:** Что ты хотела мне сказать?
+
+**Цайтлинд:** Это результат многолетней борьбы с собственной меланхолией, хотя, пожалуй, я говорю об этом слишком поздно.
+
+**Цайтлинд:** Если ты чувствуешь неодолимую тоску, это физиологическое заболевание. Как можно скорее обратись к врачу и выполняй все назначения.
+
+**Меланта:** Ты похожа на свою сестру. Совершенно необъяснима.
+
+**Меланта:** Созданиям, подобным нам, воплощениям правил... К кому нам обратиться за лечением?
+
+**Цайтлинд:** Испытываешь чувство вины за избиение пациента?
+
+**Паймон:** Знакомства с местными обитателями не пошли тебе на пользу, Цайтлинд. Ты научилась плохому...
+
+**Цайтлинд:** В душе у любого интроверта есть тёмная сторона.
+
+**Цайтлинд:** В любом случае ты больше не увидишь меня такой.
+
+**Паймон:** Опять печаль нагоняешь...
+
+**Цайтлинд:** Я же говорила, что у меня есть тёмная сторона.
+
+- **Путешественник:** Меланта.
+
+- **Путешественник:** У меня остались вопросы.
+
+**Меланта:** Я больше не в силах отвечать. И не хочу.
+
+**Меланта:** Вынеся приговор художнику, который нарушил законы пространства, перекрыв путь в Коридор пустоты...
+
+**Меланта:** ...я превысил полномочия. Моё неповиновение вызвало самоуничтожение в соответствии с установленными правилами.
+
+**Меланта:** Нихилита, скорбь моя невыразима...
+
+Вы поднимаетесь наверх...
+
+Вы попадаете в Коридор пустоты...
+
 ## EN
 
 ### The Final Judgment
@@ -623,74 +670,6 @@
 You finally make your way back to the Pillar Hall from the Apathic Interval...
 
 #### Go to the center of the Pillar Hall
-
-**Zeitlind:** Wow, you really do wind up seeing anything if you live long enough...
-
-**Zeitlind:** I was just thinking earlier — you were incredible back there, especially against Melanta... but...
-
-**Zeitlind:** What was it you did again?
-
-**Zeitlind:** And... who are you, exactly?
-
-**Paimon:** Is your memory fading away?
-
-**Zeitlind:** Who... am I?
-
-Your name is Zeitlind.
-
-**Paimon:** That's right! Also, Paimon's Paimon, and this here is Traveler. We're your good friends!
-
-**Zeitlind:** Friends...?
-
-**Paimon:** Yes! We're friends who've been through hell and back together.
-
-**Zeitlind:** Really?
-
-**Zeitlind:** I can feel it. It must be true.
-
-**Paimon:** And your sister's been traveling the world lately, just to clear her head. Someday, the two of you will meet again.
-
-**Paimon:** She might not remember you at first, either... but you share the same blood, not to mention the same face.
-
-**Paimon:** You'll recognize each other right away, Paimon's sure of it!
-
-**Zeitlind:** I have an older sister...
-
-**Paimon:** Ah, you can ignore this gravestone!
-
-**Paimon:** Your sister put it up herself, just for fun. It's her way of saying she's been reborn.
-
-**Paimon:** She's definitely still alive!
-
-**Zeitlind:** My sister...
-
-**Paimon:** Mm-hmm.
-
-**Zeitlind:** She's kind of silly, huh?
-
-**Paimon:** ...Eh?
-
-**Paimon:** Anyway, there should be some information about you in your suitcase. Take a look. You'll probably remember things once you do.
-
-**Zeitlind:** Okay. I will.
-
-**Paimon:** And one more thing. You're an amazing person.
-
-**Paimon:** Like, saved-an-entire-world amazing.
-
-**Zeitlind:** Who, me?
-
-**Paimon:** Everyone is deeply grateful to you. So live proudly, okay?
-
-**Paimon:** And if anyone ever picks on you or makes you feel bad, just write to Traveler. There's nothing (she)(he) can't handle for you.
-
-Is there anything you want to do right now?
-
-**Zeitlind:** I don't know... But I'm... starving. Like I haven't eaten in days.
-
-**Paimon:** Heh. Paimon's hungry too! She needs food now!
-
-**Paimon:** Hurry up and empty your backpack! Paimon wants tons of Chicken-Mushroom Skewers!
 
 #### Talk to Istoria
 
@@ -770,9 +749,9 @@ Is there anything you want to do right now?
 
 **Paimon:** But Traveler and Paimon... Uh, we still have some important things to take care of...
 
-That's not right, Paimon. Everyone is equal.
+- **Traveler:** That's not right, Paimon. Everyone is equal.
 
-Bearing great responsibility is no reason to sacrifice others.
+- **Traveler:** Bearing great responsibility is no reason to sacrifice others.
 
 **Paimon:** And going around asking who's willing to give up everything they've lived through... That doesn't feel right either.
 
@@ -840,26 +819,37 @@ Bearing great responsibility is no reason to sacrifice others.
 
 **Paimon:** Is there anything else you need to do?
 
-- **Traveler:** Let's go...
+##### Response branch 1
 
-- **Traveler:** Give me a few moments more to prepare.
+- **Traveler:** Let's go...
 
 **Istoria:** *sigh*
 
+##### Response branch 2
+
+- **Traveler:** Give me a few moments more to prepare.
+
 **Zeitlind:** I'll wait for you. Let us bear witness together when the time comes.
 
+#### Talk to Istoria
 
-**Zeitlind:** This is... my sister's handwriting.
+**Zeitlind:** Well, are you ready?
 
-**Paimon:** Oh, are these letters we didn't manage to collect down below earlier?
+**Istoria:** Lind... Would you reconsider?
 
-**Zeitlind:** No. Just a few messages she left behind, and a short poem she wrote.
+**Zeitlind:** No.
 
-**Zeitlind:** It's not a farewell. She must still be alive.
+##### Response branch 1
 
-**Paimon:** Can we read all this?
+- **Traveler:** Let's go...
 
-**Zeitlind:** Oh, you will.
+**Istoria:** *sigh*
+
+##### Response branch 2
+
+- **Traveler:** Let's wait a little longer.
+
+**Zeitlind:** I'll wait for you. Let us bear witness together when the time comes.
 
 #### Build the stairway to the heavens
 
@@ -907,6 +897,30 @@ Bearing great responsibility is no reason to sacrifice others.
 
 #### Explore the Corridor of Nothingness
 
+#### Investigate the pile of books
+
+**Zeitlind:** This is... my sister's handwriting.
+
+**Paimon:** Oh, are these letters we didn't manage to collect down below earlier?
+
+**Zeitlind:** No. Just a few messages she left behind, and a short poem she wrote.
+
+**Zeitlind:** It's not a farewell. She must still be alive.
+
+**Paimon:** Can we read all this?
+
+**Zeitlind:** Oh, you will.
+
+#### Continue exploring
+
+#### Memory...
+
+#### Go to the Corridor of Nothingness
+
+#### Talk to Zeitlind
+
+#### Talk to Zeitlind
+
 **Zeitlind:** My sister's poem...
 
 **Zeitlind:** Oh my. It's all emotion. Not a lick of literary flair.
@@ -939,35 +953,41 @@ Bearing great responsibility is no reason to sacrifice others.
 
 **Zeitlind:** That, too, is a kind of eternity.
 
-#### Continue exploring
+#### Enter the Atrium of Suchness
 
-**Zeitlind:** Well, are you ready?
+**Melanta:** Child of humanity... No... You are...!
 
-**Istoria:** Lind... Would you reconsider?
+**Melanta:** My creator, my lord... why would you choose her and abandon me? / My creator, my lord... why would you choose him and abandon me?
 
-**Zeitlind:** No.
+**Paimon:** Hey, did it... suddenly fly into a rage...?
 
-- **Traveler:** Let's go...
+**Melanta:** Send them back.
 
-- **Traveler:** Let's wait a little longer.
+#### Defeat the Keepers
 
-**Istoria:** *sigh*
+#### Investigate the anomaly
 
-**Zeitlind:** I'll wait for you. Let us bear witness together when the time comes.
+#### Find the hidden enemies and defeat them
 
-#### Memory...
+#### Find the hidden enemies and defeat them
+
+#### Find the hidden enemies and defeat them
+
+#### Find the hidden enemies and defeat them
+
+#### Talk to the Watcher
 
 **Melanta:** Outlander... Since you are no child of humanity, how should I address you?
 
-My name is Traveler. And...
+- **Traveler:** My name is Traveler. And...
 
-What do you mean by "child of humanity"?
+- **Traveler:** What do you mean by "child of humanity"?
 
 **Melanta:** All who descend from the first ancestor shaped by the lord of all, and those born of that lineage, are called children of humanity. Even the artificial people of the Primordial Sea, granted special pardon, are counted among them.
 
 **Melanta:** But you... You stand outside this order.
 
-Why did a god take my sister / brother?
+- **Traveler:** Why did a god take my sister? / Why did a god take my brother?
 
 **Melanta:** I cannot answer, because I do not comprehend it myself.
 
@@ -1015,90 +1035,11 @@ Why did a god take my sister / brother?
 
 **Zeitlind:** Traveler... I'll leave it to you.
 
-#### Enter the Atrium of Suchness
+#### Defeat "melancholy"
 
-**Melanta:** Child of humanity... No... You are...!
+#### Defeat "Melancholy"
 
-**Melanta:** My creator, my lord... why would you choose (him)(her) and abandon me?
-
-**Paimon:** Hey, did it... suddenly fly into a rage...?
-
-**Melanta:** Send them back.
-
-
-**Melanta:** Nihilita! Nihilita!
-
-**Melanta:** I understand. I understand now...
-
-**Melanta:** When the divine departs the throne, all creations are free.
-
-**Zeitlind:** Melanta.
-
-**Melanta:** What do you want to say?
-
-**Zeitlind:** This comes from years of living alongside my own melancholy, though I suppose I'm saying it a bit late.
-
-**Zeitlind:** If your melancholy feels uncontrollable, that's a physiological illness. You should seek help early. Get treatment, and cooperate with the ones administering it.
-
-**Melanta:** You are like your sister. Utterly incomprehensible.
-
-**Melanta:** Heh. Creatures like us — manifestations of the rules... Who shall we see when we fall ill?
-
-**Zeitlind:** Do you feel guilty now, beating up a patient?
-
-**Paimon:** Guess getting to know others has changed you a bit, Zeitlind. You sure have picked up some bad habits along the way...
-
-**Zeitlind:** We introverts are all a little twisted on the inside.
-
-**Zeitlind:** You won't be seeing me like this for much longer anyway.
-
-**Paimon:** There you go again, saying something super saddening...
-
-**Zeitlind:** Like I said, I've got a dark side.
-
-Melanta, I still have questions.
-
-**Melanta:** Then ask them now. I won't be here much longer.
-
-**Melanta:** Passing judgment on the painter who defiled the laws of space, severing the path to the Corridor of Nothingness...
-
-**Melanta:** Those were acts of transgression. My rebellion has triggered self-destruction as per the rules themselves.
-
-**Melanta:** In truth, I would rather not answer your questions, but I suspect even that small act of defiance would only hasten my disappearance.
-
-About my sibling...
-
-**Melanta:** You've already come this far, have you not? Your will is still your own, and your feet are still unshackled. Go, find your sibling yourself!
-
-**Melanta:** You're not like me... a being who bound their own wings, only to watch them break.
-
-Why are you tormenting everyone?
-
-**Melanta:** Tormenting them? No. I'm correcting them. I'm returning them to the form heaven intended. They ascend to heaven, yet reject its sacred stillness and cling instead to the corruption of the mortal world.
-
-**Melanta:** So that's it. I'm jealous. Jealous of them. Jealous of the fallen Nihilita. Jealous of change. Jealous of freedom. Jealous of... life.
-
-**Melanta:** I thought that if I did everything right, then when my creator returned, she would praise me. That would have been enough. Enough to soothe me... enough to prove them all wrong.
-
-**Melanta:** Why would she not look back? Why did she not ask if I wished to leave beside her...?
-
-**Zeitlind:** If you were always this stubborn and heartless, the answer shouldn't be hard to grasp. If you'd shown even a hint of rebellion, she might have taken you with her.
-
-Zeitlind, is there anything you wanted to ask?
-
-**Zeitlind:** Me? Let me think... I want to know why people say this sanatorium is cursed.
-
-**Melanta:** ...Once, the Abyss brought disaster to this land. The knights stationed here fought to the last and did not retreat. When the report of the battle arrived at Dornman Port, it contained only a single line:
-
-**Melanta:** "None who went to Windrest Peak returned."
-
-**Zeitlind:** I see. So, there never was a curse — only warriors who fell in battle and slumber on — the peak where the "knights of the west wind" rest...
-
-**Melanta:** My time is almost gone. I am filled with hate — hate for all of you. And still, I want nothing more than to cling to consciousness, to let my awareness live on, unbroken.
-
-**Melanta:** You and your sister — mortals who love everything and everyone — you still yearn for an ending. And I, who want so badly to go on living... I must face mine instead.
-
-**Melanta:** Nihilita, my weariness runs deeper than words...
+#### Defeat "melancholy"
 
 #### Talk to the Watcher
 
@@ -1132,17 +1073,51 @@ Zeitlind, is there anything you wanted to ask?
 
 **Zeitlind:** Like I said, I've got a dark side.
 
-Melanta.
+- **Traveler:** Melanta, I still have questions.
 
-I still have questions.
-
-**Melanta:** I no longer have the strength to answer them. Nor the will.
+**Melanta:** Then ask them now. I won't be here much longer.
 
 **Melanta:** Passing judgment on the painter who defiled the laws of space, severing the path to the Corridor of Nothingness...
 
 **Melanta:** Those were acts of transgression. My rebellion has triggered self-destruction as per the rules themselves.
 
+**Melanta:** In truth, I would rather not answer your questions, but I suspect even that small act of defiance would only hasten my disappearance.
+
+- **Traveler:** About my sibling...
+
+**Melanta:** You've already come this far, have you not? Your will is still your own, and your feet are still unshackled. Go, find your sibling yourself!
+
+**Melanta:** You're not like me... a being who bound their own wings, only to watch them break.
+
+- **Traveler:** Why are you tormenting everyone?
+
+**Melanta:** Tormenting them? No. I'm correcting them. I'm returning them to the form heaven intended. They ascend to heaven, yet reject its sacred stillness and cling instead to the corruption of the mortal world.
+
+**Melanta:** So that's it. I'm jealous. Jealous of them. Jealous of the fallen Nihilita. Jealous of change. Jealous of freedom. Jealous of... life.
+
+**Melanta:** I thought that if I did everything right, then when my creator returned, she would praise me. That would have been enough. Enough to soothe me... enough to prove them all wrong.
+
+**Melanta:** Why would she not look back? Why did she not ask if I wished to leave beside her...?
+
+**Zeitlind:** If you were always this stubborn and heartless, the answer shouldn't be hard to grasp. If you'd shown even a hint of rebellion, she might have taken you with her.
+
+- **Traveler:** Zeitlind, is there anything you wanted to ask?
+
+**Zeitlind:** Me? Let me think... I want to know why people say this sanatorium is cursed.
+
+**Melanta:** ...Once, the Abyss brought disaster to this land. The knights stationed here fought to the last and did not retreat. When the report of the battle arrived at Dornman Port, it contained only a single line:
+
+**Melanta:** "None who went to Windrest Peak returned."
+
+**Zeitlind:** I see. So, there never was a curse — only warriors who fell in battle and slumber on — the peak where the "knights of the west wind" rest...
+
+**Melanta:** My time is almost gone. I am filled with hate — hate for all of you. And still, I want nothing more than to cling to consciousness, to let my awareness live on, unbroken.
+
+**Melanta:** You and your sister — mortals who love everything and everyone — you still yearn for an ending. And I, who want so badly to go on living... I must face mine instead.
+
 **Melanta:** Nihilita, my weariness runs deeper than words...
+
+#### Return to the center of the Pillar Hall
 
 #### Talk to Istoria
 
@@ -1162,7 +1137,7 @@ You tell Istoria what just happened...
 
 **Istoria:** When you grow up... Remember the kindness we've shown you, okay?
 
-**Istoria:** ?
+**Dex:** ?
 
 **Paimon:** By the way... that heretical myth about light and darkness birthing the primordial human... Do you have any idea what it refers to?
 
@@ -1210,6 +1185,122 @@ You tell Istoria what just happened...
 
 **Zeitlind:** Come on, Traveler, Paimon. Take me back down. Then... we'll meet again, like it's the first time.
 
+#### Leave with Zeitlind
+
+**Zeitlind:** Wow, you really do wind up seeing anything if you live long enough...
+
+**Zeitlind:** I was just thinking earlier — you were incredible back there, especially against Melanta... but...
+
+**Zeitlind:** What was it you did again?
+
+**Zeitlind:** And... who are you, exactly?
+
+**Paimon:** Is your memory fading away?
+
+**Zeitlind:** Who... am I?
+
+- **Traveler:** Your name is Zeitlind.
+
+**Paimon:** That's right! Also, Paimon's Paimon, and this here is Traveler. We're your good friends!
+
+**Zeitlind:** Friends...?
+
+**Paimon:** Yes! We're friends who've been through hell and back together.
+
+**Zeitlind:** Really?
+
+**Zeitlind:** I can feel it. It must be true.
+
+**Paimon:** And your sister's been traveling the world lately, just to clear her head. Someday, the two of you will meet again.
+
+**Paimon:** She might not remember you at first, either... but you share the same blood, not to mention the same face.
+
+**Paimon:** You'll recognize each other right away, Paimon's sure of it!
+
+**Zeitlind:** I have an older sister...
+
+**Paimon:** Ah, you can ignore this gravestone!
+
+**Paimon:** Your sister put it up herself, just for fun. It's her way of saying she's been reborn.
+
+**Paimon:** She's definitely still alive!
+
+**Zeitlind:** My sister...
+
+**Paimon:** Mm-hmm.
+
+**Zeitlind:** She's kind of silly, huh?
+
+**Paimon:** ...Eh?
+
+**Paimon:** Anyway, there should be some information about you in your suitcase. Take a look. You'll probably remember things once you do.
+
+**Zeitlind:** Okay. I will.
+
+**Paimon:** And one more thing. You're an amazing person.
+
+**Paimon:** Like, saved-an-entire-world amazing.
+
+**Zeitlind:** Who, me?
+
+**Paimon:** Everyone is deeply grateful to you. So live proudly, okay?
+
+**Paimon:** And if anyone ever picks on you or makes you feel bad, just write to Traveler. There's nothing he can't handle for you. / And if anyone ever picks on you or makes you feel bad, just write to Traveler. There's nothing she can't handle for you.
+
+- **Traveler:** Is there anything you want to do right now?
+
+**Zeitlind:** I don't know... But I'm... starving. Like I haven't eaten in days.
+
+**Paimon:** Heh. Paimon's hungry too! She needs food now!
+
+**Paimon:** Hurry up and empty your backpack! Paimon wants tons of Chicken-Mushroom Skewers!
+
+**Melanta:** Nihilita! Nihilita!
+
+**Melanta:** I understand. I understand now...
+
+**Melanta:** When the divine departs the throne, all creations are free.
+
+**Zeitlind:** Melanta.
+
+**Melanta:** What do you want to say?
+
+**Zeitlind:** This comes from years of living alongside my own melancholy, though I suppose I'm saying it a bit late.
+
+**Zeitlind:** If your melancholy feels uncontrollable, that's a physiological illness. You should seek help early. Get treatment, and cooperate with the ones administering it.
+
+**Melanta:** You are like your sister. Utterly incomprehensible.
+
+**Melanta:** Heh. Creatures like us — manifestations of the rules... Who shall we see when we fall ill?
+
+**Zeitlind:** Do you feel guilty now, beating up a patient?
+
+**Paimon:** Guess getting to know others has changed you a bit, Zeitlind. You sure have picked up some bad habits along the way...
+
+**Zeitlind:** We introverts are all a little twisted on the inside.
+
+**Zeitlind:** You won't be seeing me like this for much longer anyway.
+
+**Paimon:** There you go again, saying something super saddening...
+
+**Zeitlind:** Like I said, I've got a dark side.
+
+- **Traveler:** Melanta.
+
+- **Traveler:** I still have questions.
+
+**Melanta:** I no longer have the strength to answer them. Nor the will.
+
+**Melanta:** Passing judgment on the painter who defiled the laws of space, severing the path to the Corridor of Nothingness...
+
+**Melanta:** Those were acts of transgression. My rebellion has triggered self-destruction as per the rules themselves.
+
+**Melanta:** Nihilita, my weariness runs deeper than words...
+
+You arrive at the upper level...
+
+You arrive at the Corridor of Nothingness...
+
 ## ZH
 
 ### 最后的审判
@@ -1217,74 +1308,6 @@ You tell Istoria what just happened...
 总算从无想之间回到了柱殿…
 
 #### 前往柱殿中心
-
-**彩特琳德:** 活着真是什么都能见到啊。
-
-**彩特琳德:** 刚才就想说了，对梅兰塔的时候你们真是厉害…但是…
-
-**彩特琳德:** 你们做了什么来着？
-
-**彩特琳德:** 你们是谁来着？
-
-**派蒙:** 记忆消褪开始了吗？
-
-**彩特琳德:** 我是，谁？
-
-你叫彩特琳德。
-
-**派蒙:** 对，然后我叫派蒙，这位是旅行者。我们是你的好朋友！
-
-**彩特琳德:** 我们是朋友？
-
-**派蒙:** 没错，我们是一起经历过大风大浪、穿越过刀山火海的好朋友。
-
-**彩特琳德:** 是吗？
-
-**彩特琳德:** 我能感觉到，一定是的。
-
-**派蒙:** 然后你的姐姐为了换心情最近去环游世界了。总有一天你们会相见的。
-
-**派蒙:** 她和你一样，可能暂时不记得你了。但是你们血脉相连，还有一样的面庞。
-
-**派蒙:** 见面第一时间就一定能认出来对方。
-
-**彩特琳德:** 我还有个姐姐。
-
-**派蒙:** 啊，你可以无视这个墓碑！
-
-**派蒙:** 这个墓碑是你姐姐给自己立着玩的，代表自己重获新生。
-
-**派蒙:** 你姐姐绝对还活着！
-
-**彩特琳德:** 我姐姐…
-
-**派蒙:** 嗯嗯。
-
-**彩特琳德:** 她怎么这么无聊啊。
-
-**派蒙:** 呃。
-
-**派蒙:** 总之你的手提箱里应该有你自己的一些信息，看一看应该就知道了。
-
-**彩特琳德:** 嗯，我知道了。
-
-**派蒙:** 还有哦，你是个非常了不起的人。
-
-**派蒙:** 拯救过一个世界那种程度的了不起。
-
-**彩特琳德:** 我吗？
-
-**派蒙:** 大家都非常感激你。所以你要骄傲地活着。
-
-**派蒙:** 有人欺负你了让你不愉快了，就写信给旅行者，没有什么是(她)(他)摆不平的。
-
-你现在有什么想做的事情吗？
-
-**彩特琳德:** 我也不知道。但是我好像是几天没吃饭一样饿。
-
-**派蒙:** 我也饿了我也饿了。我要立刻吃东西。
-
-**派蒙:** 赶紧把你的背包倒空。我要吃好多野菇鸡肉串。
 
 #### 与伊斯托利亚对话
 
@@ -1364,9 +1387,9 @@ You tell Istoria what just happened...
 
 **派蒙:** 但是我和旅行者，唔，还有很重要的事情要去做。
 
-不对哦，派蒙。所有人都是平等的。
+- **旅行者:** 不对哦，派蒙。所有人都是平等的。
 
-责任重大不是牺牲他人的理由。
+- **旅行者:** 责任重大不是牺牲他人的理由。
 
 **派蒙:** 去问其他人愿不愿意放弃经历的一切，确实也有点…
 
@@ -1434,26 +1457,37 @@ You tell Istoria what just happened...
 
 **派蒙:** 还有什么别的事情要处理吗？
 
-- **旅行者:** 出发吧…
+##### 对话分支 1
 
-- **旅行者:** 再等等。
+- **旅行者:** 出发吧…
 
 **伊斯托利亚:** 唉…
 
+##### 对话分支 2
+
+- **旅行者:** 再等等。
+
 **彩特琳德:** 嗯，我等你。等下一起见证吧。
 
+#### 与伊斯托利亚对话
 
-**彩特琳德:** 这是，姐姐的笔迹。
+**彩特琳德:** 怎么样？准备好了吗？
 
-**派蒙:** 啊，这是之前在下面没有收集到的书信吗？
+**伊斯托利亚:** 琳德，你再考虑一下吧。
 
-**彩特琳德:** 不是，只是一些寄语和姐姐写的一首小诗。
+**彩特琳德:** 不了。
 
-**彩特琳德:** 确实不是告别。姐姐应该还活着。
+##### 对话分支 1
 
-**派蒙:** 这个我们能看吗？
+- **旅行者:** 出发吧…
 
-**彩特琳德:** 你们会看到的。
+**伊斯托利亚:** 唉…
+
+##### 对话分支 2
+
+- **旅行者:** 再等等。
+
+**彩特琳德:** 嗯，我等你。等下一起见证吧。
 
 #### 构筑登天之阶
 
@@ -1501,6 +1535,30 @@ You tell Istoria what just happened...
 
 #### 探索无所有廊
 
+#### 调查书堆
+
+**彩特琳德:** 这是，姐姐的笔迹。
+
+**派蒙:** 啊，这是之前在下面没有收集到的书信吗？
+
+**彩特琳德:** 不是，只是一些寄语和姐姐写的一首小诗。
+
+**彩特琳德:** 确实不是告别。姐姐应该还活着。
+
+**派蒙:** 这个我们能看吗？
+
+**彩特琳德:** 你们会看到的。
+
+#### 继续向前探索
+
+#### 回忆…
+
+#### 前往无所有廊
+
+#### 与彩特琳德对话
+
+#### 与彩特琳德对话
+
 **彩特琳德:** 姐姐的诗…
 
 **彩特琳德:** 全是情感，没有一点文学素养。
@@ -1533,35 +1591,41 @@ You tell Istoria what just happened...
 
 **彩特琳德:** 这也是一种永恒吧。
 
-#### 继续向前探索
+#### 进入「非有非无有之殿」
 
-**彩特琳德:** 怎么样？准备好了吗？
+**梅兰塔:** 人子…不，你是！
 
-**伊斯托利亚:** 琳德，你再考虑一下吧。
+**梅兰塔:** 我的造主啊，我的造主啊。为何你要选择她抛弃了我。 / 我的造主啊，我的造主啊。为何你要选择他抛弃了我。
 
-**彩特琳德:** 不了。
+**派蒙:** 它突然生气起来了？
 
-- **旅行者:** 出发吧…
+**梅兰塔:** 把他们赶回去。
 
-- **旅行者:** 再等等。
+#### 击败守护者
 
-**伊斯托利亚:** 唉…
+#### 调查异象
 
-**彩特琳德:** 嗯，我等你。等下一起见证吧。
+#### 找到并击败隐藏的敌人
 
-#### 回忆…
+#### 找到并击败隐藏的敌人
+
+#### 找到并击败隐藏的敌人
+
+#### 找到并击败隐藏的敌人
+
+#### 与守望者对话
 
 **梅兰塔:** 异邦人，既然你并非人之子，我该怎么称呼你。
 
-我叫旅行者，以及…
+- **旅行者:** 我叫旅行者，以及…
 
-人之子是什么意思？
+- **旅行者:** 人之子是什么意思？
 
 **梅兰塔:** 众生之统领所造之始祖、始祖之后代，皆属人子。胎海假人，特蒙恩赦，亦算此类。
 
 **梅兰塔:** 但，你不是。
 
-神明为什么要抓走我的妹妹 / 哥哥？
+- **旅行者:** 神明为什么要抓走我的妹妹？ / 神明为什么要抓走我的哥哥？
 
 **梅兰塔:** 无法回答，只因为我也无法理解。
 
@@ -1609,90 +1673,11 @@ You tell Istoria what just happened...
 
 **彩特琳德:** 旅行者，麻烦你了。
 
-#### 进入「非有非无有之殿」
+#### 战胜「忧郁」
 
-**梅兰塔:** 人子…不，你是！
+#### 战胜「忧郁」
 
-**梅兰塔:** 我的造主啊，我的造主啊。为何你要选择(他)(她)抛弃了我。
-
-**派蒙:** 它突然生气起来了？
-
-**梅兰塔:** 把他们赶回去。
-
-
-**梅兰塔:** 尼西里塔！尼西里塔！
-
-**梅兰塔:** 我明白了，我明白了。
-
-**梅兰塔:** 神不在其座，造物皆是自由的。
-
-**彩特琳德:** 梅兰塔。
-
-**梅兰塔:** 你要说什么？
-
-**彩特琳德:** 这也是我一直以来和忧郁的情绪相伴得到的一些经验，不过现在说可能有点太迟了。
-
-**彩特琳德:** 如果你感到了不可遏制的忧郁，那是生理病变，早点就医、积极配合治疗。
-
-**梅兰塔:** 和你姐姐一样，莫名其妙。
-
-**梅兰塔:** 呵呵。我们这种因为规则具现的…怪物，病了应该找谁呢？
-
-**彩特琳德:** 殴打病人现在有负罪感吗？
-
-**派蒙:** 彩特琳德，怎么感觉你和人混熟了之后坏坏的。
-
-**彩特琳德:** 内向的人心里都阴暗。
-
-**彩特琳德:** 你也看不了现在的我多久了。
-
-**派蒙:** 又说这种悲伤的话。
-
-**彩特琳德:** 我内心阴暗嘛。
-
-梅兰塔。我还有问题。
-
-**梅兰塔:** 还有什么就快问吧，我已经快要消失了。
-
-**梅兰塔:** 自作主张处理了玷污空间之理的画师，斩断了无所有廊的通路。
-
-**梅兰塔:** 这都是僭越之举，我的叛逆已经引发了规则内的自灭。
-
-**梅兰塔:** 我甚至不愿意回答你的提问，但是恐怕这种反抗也会加速我的消失。
-
-关于我的血亲…
-
-**梅兰塔:** 你不是来到了这里吗？你不是还有自由的意志与无拘的双足吗？你自己去找啊！
-
-**梅兰塔:** 又不是像我一样，翅膀先被自己束缚，然后又被折断。
-
-你为什么要虐待众人？
-
-**梅兰塔:** 虐待？这是让他们回到应有的姿态。升入天国，居然不喜神圣的不变唱随，还在欣羡人间的腐朽。
-
-**梅兰塔:** 我明白了。我在嫉妒。我嫉妒他们，嫉妒堕天的尼西里塔。我嫉妒变化，嫉妒自由，嫉妒…生命。
-
-**梅兰塔:** 我以为，只要我一个人做得够好。我的造主归来之时，她会表扬我。这就足够抚慰我，足以证明其他所有人都错了。
-
-**梅兰塔:** 她为什么不愿意回头。为什么不问我是否愿意和她一起离开…
-
-**彩特琳德:** 你如果以前也这么死板无情的话，不难理解为什么。你要是叛逆一些的话，说不定就真喊上你了。
-
-彩特琳德有什么想问的吗？
-
-**彩特琳德:** 还有我的事吗？我想想啊。为什么疗养院会有魔性之山的传说？
-
-**梅兰塔:** …曾经深渊灾害爆发。驻守在这里的骑士们死战不退。战报传回荆夫港时，是这么写的：
-
-**梅兰塔:** 「去往风息山的人，无人归还。」
-
-**彩特琳德:** 我明白了。所以是误传。没有诅咒，只有安息的战士。西风的安息处。
-
-**梅兰塔:** 我的时间已经不多了。我好恨，我恨你们所有人。但是我无比想要维持意识的连续性。
-
-**梅兰塔:** 你和你姐姐——爱一切、爱所有人的凡人，渴望着结束。而我如此希望活下去，却要面临终结。
-
-**梅兰塔:** 尼西里塔，我好忧愁…
+#### 战胜「忧郁」
 
 #### 与守望者对话
 
@@ -1726,17 +1711,51 @@ You tell Istoria what just happened...
 
 **彩特琳德:** 我内心阴暗嘛。
 
-梅兰塔。
+- **旅行者:** 梅兰塔。我还有问题。
 
-我还有问题。
-
-**梅兰塔:** 我已无力再回答，我也不愿再回答。
+**梅兰塔:** 还有什么就快问吧，我已经快要消失了。
 
 **梅兰塔:** 自作主张处理了玷污空间之理的画师，斩断了无所有廊的通路。
 
 **梅兰塔:** 这都是僭越之举，我的叛逆已经引发了规则内的自灭。
 
+**梅兰塔:** 我甚至不愿意回答你的提问，但是恐怕这种反抗也会加速我的消失。
+
+- **旅行者:** 关于我的血亲…
+
+**梅兰塔:** 你不是来到了这里吗？你不是还有自由的意志与无拘的双足吗？你自己去找啊！
+
+**梅兰塔:** 又不是像我一样，翅膀先被自己束缚，然后又被折断。
+
+- **旅行者:** 你为什么要虐待众人？
+
+**梅兰塔:** 虐待？这是让他们回到应有的姿态。升入天国，居然不喜神圣的不变唱随，还在欣羡人间的腐朽。
+
+**梅兰塔:** 我明白了。我在嫉妒。我嫉妒他们，嫉妒堕天的尼西里塔。我嫉妒变化，嫉妒自由，嫉妒…生命。
+
+**梅兰塔:** 我以为，只要我一个人做得够好。我的造主归来之时，她会表扬我。这就足够抚慰我，足以证明其他所有人都错了。
+
+**梅兰塔:** 她为什么不愿意回头。为什么不问我是否愿意和她一起离开…
+
+**彩特琳德:** 你如果以前也这么死板无情的话，不难理解为什么。你要是叛逆一些的话，说不定就真喊上你了。
+
+- **旅行者:** 彩特琳德有什么想问的吗？
+
+**彩特琳德:** 还有我的事吗？我想想啊。为什么疗养院会有魔性之山的传说？
+
+**梅兰塔:** …曾经深渊灾害爆发。驻守在这里的骑士们死战不退。战报传回荆夫港时，是这么写的：
+
+**梅兰塔:** 「去往风息山的人，无人归还。」
+
+**彩特琳德:** 我明白了。所以是误传。没有诅咒，只有安息的战士。西风的安息处。
+
+**梅兰塔:** 我的时间已经不多了。我好恨，我恨你们所有人。但是我无比想要维持意识的连续性。
+
+**梅兰塔:** 你和你姐姐——爱一切、爱所有人的凡人，渴望着结束。而我如此希望活下去，却要面临终结。
+
 **梅兰塔:** 尼西里塔，我好忧愁…
+
+#### 返回柱殿中心
 
 #### 与伊斯托利亚对话
 
@@ -1756,7 +1775,7 @@ You tell Istoria what just happened...
 
 **伊斯托利亚:** 等你长大了，要记得我们的好啊。
 
-**伊斯托利亚:** ？
+**小右:** ？
 
 **派蒙:** 话说，那个关于光暗原人的异端神话，你有什么头绪吗？
 
@@ -1803,3 +1822,119 @@ You tell Istoria what just happened...
 **彩特琳德:** 我不保证记得这件事。也不能保证她还能记得你。
 
 **彩特琳德:** 走吧，旅行者和派蒙，送我下去吧。然后我们再重新认识一下。
+
+#### 和彩特琳德一起离开
+
+**彩特琳德:** 活着真是什么都能见到啊。
+
+**彩特琳德:** 刚才就想说了，对梅兰塔的时候你们真是厉害…但是…
+
+**彩特琳德:** 你们做了什么来着？
+
+**彩特琳德:** 你们是谁来着？
+
+**派蒙:** 记忆消褪开始了吗？
+
+**彩特琳德:** 我是，谁？
+
+- **旅行者:** 你叫彩特琳德。
+
+**派蒙:** 对，然后我叫派蒙，这位是旅行者。我们是你的好朋友！
+
+**彩特琳德:** 我们是朋友？
+
+**派蒙:** 没错，我们是一起经历过大风大浪、穿越过刀山火海的好朋友。
+
+**彩特琳德:** 是吗？
+
+**彩特琳德:** 我能感觉到，一定是的。
+
+**派蒙:** 然后你的姐姐为了换心情最近去环游世界了。总有一天你们会相见的。
+
+**派蒙:** 她和你一样，可能暂时不记得你了。但是你们血脉相连，还有一样的面庞。
+
+**派蒙:** 见面第一时间就一定能认出来对方。
+
+**彩特琳德:** 我还有个姐姐。
+
+**派蒙:** 啊，你可以无视这个墓碑！
+
+**派蒙:** 这个墓碑是你姐姐给自己立着玩的，代表自己重获新生。
+
+**派蒙:** 你姐姐绝对还活着！
+
+**彩特琳德:** 我姐姐…
+
+**派蒙:** 嗯嗯。
+
+**彩特琳德:** 她怎么这么无聊啊。
+
+**派蒙:** 呃。
+
+**派蒙:** 总之你的手提箱里应该有你自己的一些信息，看一看应该就知道了。
+
+**彩特琳德:** 嗯，我知道了。
+
+**派蒙:** 还有哦，你是个非常了不起的人。
+
+**派蒙:** 拯救过一个世界那种程度的了不起。
+
+**彩特琳德:** 我吗？
+
+**派蒙:** 大家都非常感激你。所以你要骄傲地活着。
+
+**派蒙:** 有人欺负你了让你不愉快了，就写信给旅行者，没有什么是他摆不平的。 / 有人欺负你了让你不愉快了，就写信给旅行者，没有什么是她摆不平的。
+
+- **旅行者:** 你现在有什么想做的事情吗？
+
+**彩特琳德:** 我也不知道。但是我好像是几天没吃饭一样饿。
+
+**派蒙:** 我也饿了我也饿了。我要立刻吃东西。
+
+**派蒙:** 赶紧把你的背包倒空。我要吃好多野菇鸡肉串。
+
+**梅兰塔:** 尼西里塔！尼西里塔！
+
+**梅兰塔:** 我明白了，我明白了。
+
+**梅兰塔:** 神不在其座，造物皆是自由的。
+
+**彩特琳德:** 梅兰塔。
+
+**梅兰塔:** 你要说什么？
+
+**彩特琳德:** 这也是我一直以来和忧郁的情绪相伴得到的一些经验，不过现在说可能有点太迟了。
+
+**彩特琳德:** 如果你感到了不可遏制的忧郁，那是生理病变，早点就医、积极配合治疗。
+
+**梅兰塔:** 和你姐姐一样，莫名其妙。
+
+**梅兰塔:** 呵呵。我们这种因为规则具现的…怪物，病了应该找谁呢？
+
+**彩特琳德:** 殴打病人现在有负罪感吗？
+
+**派蒙:** 彩特琳德，怎么感觉你和人混熟了之后坏坏的。
+
+**彩特琳德:** 内向的人心里都阴暗。
+
+**彩特琳德:** 你也看不了现在的我多久了。
+
+**派蒙:** 又说这种悲伤的话。
+
+**彩特琳德:** 我内心阴暗嘛。
+
+- **旅行者:** 梅兰塔。
+
+- **旅行者:** 我还有问题。
+
+**梅兰塔:** 我已无力再回答，我也不愿再回答。
+
+**梅兰塔:** 自作主张处理了玷污空间之理的画师，斩断了无所有廊的通路。
+
+**梅兰塔:** 这都是僭越之举，我的叛逆已经引发了规则内的自灭。
+
+**梅兰塔:** 尼西里塔，我好忧愁…
+
+来到了上层…
+
+来到了无所有廊…

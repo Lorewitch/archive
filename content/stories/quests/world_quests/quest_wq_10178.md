@@ -20,7 +20,10 @@
 # quest_series: Nightingale's Song
 # version_source: wiki_release_category
 
-# quest_series_ru: Песнь соловья
+# quest_series_ru: Соловьиная трель
+# game_source_ids: 76100,76160,76161,76162
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 20
 
 ## RU
 
@@ -28,19 +31,27 @@
 
 Договоритесь встретиться с Иллуги в Лагере у скалы после завершения подготовки и примите участие в следующем этапе боевых действий.
 
+#### Отправляйтесь в Лагерь у скалы
+
 #### Поговорите со Светоносцем
 
-**Анлейв:** А вы... неужели вы те самые искатели приключений, которые снуют в любых руинах, где происходит что-то странное?
+**???:** А вы... неужели вы те самые искатели приключений, которые снуют в любых руинах, где происходит что-то странное?
 
-**Анлейв:** Это передовая линия борьбы с Дикой Охотой на скале Кипумаки, вам здесь не место.
+**???:** Это передовая линия борьбы с Дикой Охотой на скале Кипумаки, вам здесь не место.
 
-- **Путешественник:** Это именно то место, где я должен / должна быть.
+##### Вариант ответа 1
 
-- **Путешественник:** Я пришёл / пришла на подмогу.
+- **Путешественник:** Это именно то место, где я должен быть. / Это именно то место, где я должна быть.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Я пришёл на подмогу. / Я пришла на подмогу.
+
+##### Общее продолжение
 
 **Паймон:** Ага, мы пришли помочь в борьбе с Дикой Охотой!
 
-**Анлейв:** Хм, даже если у вас и есть какие-то способности, сейчас иная ситуация. Поле боя не место для детей...
+**???:** Хм, даже если у вас и есть какие-то способности, сейчас иная ситуация. Поле боя не место для детей...
 
 **Иллуги:** Что случилось, Анлейв?
 
@@ -68,9 +79,15 @@
 
 **Анлейв:** ...Постойте! Как вы здесь оказались?! Это передовая линия борьбы с Дикой Охотой на скале Кипумаки. Вам здесь не место.
 
-- **Путешественник:** Это именно то место, где я должен / должна быть.
+##### Вариант ответа 1
 
-- **Путешественник:** Я пришёл / пришла на подмогу.
+- **Путешественник:** Это именно то место, где я должен быть. / Это именно то место, где я должна быть.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Я пришёл на подмогу. / Я пришла на подмогу.
+
+##### Общее продолжение
 
 **Паймон:** Угу, мы пришли помочь!
 
@@ -88,7 +105,7 @@
 
 **Иллуги:** Они - те временные помощники, о которых я упоминал ранее.
 
-**Анлейв:** Это они? Хотя я видел его / её способности... Правду говорят: герои проявляют себя с юных лет!
+**Анлейв:** Это они? Хотя я видел его способности... Правду говорят: герои проявляют себя с юных лет! / Это они? Хотя я видел её способности... Правду говорят: герои проявляют себя с юных лет!
 
 **Анлейв:** Ладно! Раз командир так решил, я ему доверяю.
 
@@ -98,15 +115,13 @@
 
 #### Посетите оперативное совещание
 
-**Анлейв:** О! Командир, мы здесь всё уладим, а потом встречаемся в Пирамиде.
-
 **Иллуги:** Перед началом совещания позвольте представить вам: это Путешественник и Паймон! Они те самые искатели приключений, которые помогли вернуть Серебряный фитиль.
 
 **Иллуги:** Они будут участвовать в предстоящих операциях как члены нашего отряда.
 
 **Паймон:** Пускай мы искатели приключений, но у нас большой опыт в сражениях с Бездной, так что мы точно не будем обузой!
 
-Для меня большая честь познакомиться с вами.
+- **Путешественник:** Для меня большая честь познакомиться с вами.
 
 **Анлейв:** Я Анлейв. Думаю, мне не нужно особо представляться? Похоже, судьба крепко связала нас. Отныне мы товарищи по оружию!
 
@@ -164,7 +179,7 @@
 
 **Паймон:** А?! Как такое возможно?..
 
-...Это способности Дикой Охоты?
+- **Путешественник:** ...Это способности Дикой Охоты?
 
 **Иллуги:** Именно так. В последнее время стали поступать сообщения о появлении Дикой Охоты, подчиняющей разум людей, и похоже, что источник всех бед находится именно здесь.
 
@@ -220,7 +235,7 @@
 
 **Паймон:** Пускай мы искатели приключений, но у нас большой опыт в сражениях с Бездной, так что мы точно не будем обузой!
 
-Для меня большая честь познакомиться с вами.
+- **Путешественник:** Для меня большая честь познакомиться с вами.
 
 **Анлейв:** Я Анлейв! Вы присоединились к Светоносцам в критический момент! Смело!
 
@@ -278,7 +293,7 @@
 
 **Паймон:** А?! Как такое возможно?..
 
-...Это способности Дикой Охоты?
+- **Путешественник:** ...Это способности Дикой Охоты?
 
 **Иллуги:** Именно так. В последнее время стали поступать сообщения о появлении Дикой Охоты, подчиняющей разум людей, и похоже, что источник всех бед находится именно здесь.
 
@@ -328,6 +343,76 @@
 
 **Все:** Есть!
 
+#### Наберитесь сил
+
+**Иллуги:** Хм... У старика тоже всё готово. Отлично.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Есть хорошие новости?
+
+**Иллуги:** Да, новости из Пирамиды. Старик тоже готовится к противостоянию с бессмертным монстром, и у него всё идёт по плану. Теперь дело за нами...
+
+- **Путешественник:** Что случилось? Что тебя тревожит?
+
+**Иллуги:** ...Нет, ничего. Просто кажется, что я как неоперившийся птенец...
+
+**Иллуги:** Я нервничал, потому что не понимал, что затеял старик... Наверняка я казался тебе смешным.
+
+- **Путешественник:** Нет, ты молодец, правда.
+
+**Иллуги:** Спасибо. Я буду стараться ещё больше. И не подведу вас.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Ложись сегодня пораньше. Завтра нам понадобится много сил.
+
+**Иллуги:** Да, и ты тоже.
+
+**Анлейв:** Наконец этот день настал...
+
+- **Путешественник:** Ты до сих пор на ногах?
+
+**Анлейв:** Не могу уснуть перед важным боем! А вот тебе нужно отдохнуть - ты ещё растёшь. Ложись спать пораньше, иначе не вырастешь.
+
+**Роллон:** Хм, кажется, ничего не забыл... Что такое? Хочешь о чём-то спросить?
+
+##### Вариант ответа 1
+
+- **Путешественник:** Расскажи, что случилось три года назад...
+
+**Роллон:** Раны, оставшиеся тогда, у многих из нас до сих пор не затянулись, хотя прошло три года...
+
+**Роллон:** Нам с братом повезло... Моего брата Ивара спас командир. Мы оба выжили и до сих пор выполняем долг ратников.
+
+**Роллон:** Надеюсь, завтра всё пройдёт хорошо. Тогда мы сможем хотя бы почтить память погибших товарищей.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Нет, ничего. Извини, что тебя побеспокоил. / Нет, ничего. Извини, что тебя побеспокоила.
+
+**Роллон:** Постарайся скорее заснуть.
+
+**Бьорн:** ♪~
+
+- **Путешественник:** Ты выглядишь очень спокойным.
+
+**Бьорн:** Я готовился к завтрашнему бою три последних года. Поэтому я весь в предвкушении, а волнения во мне нет ни капли.
+
+- **Путешественник:** Надеюсь, завтра всё пройдёт хорошо.
+
+**Бьорн:** Даже если нет, мы справимся. Не беспокойся.
+
+- **Путешественник:** (Стоит отдохнуть...)
+
+##### Вариант ответа 1
+
+- **Путешественник:** (Надо отдохнуть.)
+
+##### Вариант ответа 2
+
+- **Путешественник:** (Есть ещё дела...)
+
 #### Поговорите с Иллуги
 
 **Иллуги:** Нам пора выдвигаться. Влайку, действуй по намеченному плану.
@@ -343,6 +428,14 @@
 **Анлейв:** Мы вас не подведём!
 
 **Иллуги:** Время пришло! Да начнётся битва на скале! Воины, вперёд!
+
+#### Отправляйтесь к Лагерю на скале
+
+#### Отправляйтесь к Лагерю на скале
+
+#### Победите чудовищ
+
+#### Двигайтесь дальше
 
 #### Устраните препятствия и продолжайте путь
 
@@ -366,6 +459,8 @@
 
 **Иллуги:** ...?! Отряд! Приготовиться к бою!
 
+#### Победите чудовищ
+
 #### Поговорите с Паймон
 
 **Паймон:** Ч-что происходит? Как бы мы ни атаковали, мы не можем его ранить...
@@ -386,7 +481,7 @@
 
 **Голос монстра:** ...как сберечь свои жалкие шкуры?
 
-Придумаем, как отправить тебя в ад!
+- **Путешественник:** Придумаем, как отправить тебя в ад!
 
 **Голос монстра:** Ха-ха... я жду... жду с нетерпением...
 
@@ -418,33 +513,15 @@
 
 **Роллон:** Ты сейчас ему только лучше делаешь. Успокойся.
 
-Мы должны захватить инициативу.
+- **Путешественник:** Мы должны захватить инициативу.
 
-**Иллуги:** Путешественник прав(а), нельзя идти на поводу у противника. Мы должны взять инициативу в свои руки и двигаться по плану.
+**Иллуги:** Путешественник прав, нельзя идти на поводу у противника. Мы должны взять инициативу в свои руки и двигаться по плану. / Путешественник права, нельзя идти на поводу у противника. Мы должны взять инициативу в свои руки и двигаться по плану.
 
 **Иллуги:** Вперёд!
 
+#### Двигайтесь дальше
+
 #### Восстановите барьер
-
-**Иллуги:** Хм... У старика тоже всё готово. Отлично.
-
-- **Путешественник:** Есть хорошие новости?
-
-- **Путешественник:** Ложись сегодня пораньше. Завтра нам понадобится много сил.
-
-**Иллуги:** Да, новости из Пирамиды. Старик тоже готовится к противостоянию с бессмертным монстром, и у него всё идёт по плану. Теперь дело за нами...
-
-Что случилось? Что тебя тревожит?
-
-**Иллуги:** ...Нет, ничего. Просто кажется, что я как неоперившийся птенец...
-
-**Иллуги:** Я нервничал, потому что не понимал, что затеял старик... Наверняка я казался тебе смешным.
-
-Нет, ты молодец, правда.
-
-**Иллуги:** Спасибо. Я буду стараться ещё больше. И не подведу вас.
-
-**Иллуги:** Да, и ты тоже.
 
 #### Обсудите стратегию с соратниками
 
@@ -460,7 +537,7 @@
 
 **Анлейв:** Эй, братишка, что за упаднические речи! Плевать на этих монстров, сколько бы их ни пришло - всех раскидаю!
 
-Но оставаться здесь до последнего тоже не выход...
+- **Путешественник:** Но оставаться здесь до последнего тоже не выход...
 
 **Паймон:** Неужели и правда больше ничего не возможно сделать?..
 
@@ -500,7 +577,7 @@
 
 **Иллуги:** Есть возражения? Это очень опасное задание, если вы не хотите...
 
-Не спрашивай. Я в деле, командир.
+- **Путешественник:** Не спрашивай. Я в деле, командир.
 
 **Паймон:** Это задание как раз для нас! Мы защитим Иллуги и не отдадим врагу Серебряный фитиль!
 
@@ -518,17 +595,9 @@
 
 #### Активируйте три колоса тёмного леса
 
-**Роллон:** Командир, Путешественник, что вы здесь делаете? Не переживайте, как только мы закончим, сразу выдвинемся в Пирамиду.
+#### Активируйте три колоса тёмного леса
 
-
-**Анлейв:** Наконец этот день настал...
-
-Ты до сих пор на ногах?
-
-**Анлейв:** Не могу уснуть перед важным боем! А вот тебе нужно отдохнуть - ты ещё растёшь. Ложись спать пораньше, иначе не вырастешь.
-
-
-Колос тёмного леса резонирует с Серебряным фитилём, высвобождая много куувяки...
+#### Активируйте три колоса тёмного леса
 
 #### Устраните препятствия и продолжайте путь
 
@@ -566,9 +635,13 @@
 
 **Паймон:** Иллуги! Не слушай эту чушь!
 
-Довольно! Умри!
+- **Путешественник:** Довольно! Умри!
 
 **Иллуги:** ...Путешественник! Давай скорее покончим с этим!
+
+#### Победите чудовищ
+
+#### Победите чудовищ
 
 #### Изучите обстановку на позициях
 
@@ -622,39 +695,27 @@
 
 **Паймон:** Иллуги...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы должны двигаться вперёд, хотя бы ради Бьорна.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Мы обязательно одолеем врага. Победа будет за нами!
 
+##### Общее продолжение
+
 **Иллуги:** ...Что ж, тогда вперёд!
+
+#### Активируйте колос тёмного леса
 
 #### Активируйте последний колос тёмного леса
 
-**Роллон:** Хм, кажется, ничего не забыл... Что такое? Хочешь о чём-то спросить?
-
-- **Путешественник:** Расскажи, что случилось три года назад...
-
-- **Путешественник:** Нет, ничего. Извини, что тебя побеспокоил(а).
-
-**Роллон:** Раны, оставшиеся тогда, у многих из нас до сих пор не затянулись, хотя прошло три года...
-
-**Роллон:** Нам с братом повезло... Моего брата Ивара спас командир. Мы оба выжили и до сих пор выполняем долг ратников.
-
-**Роллон:** Надеюсь, завтра всё пройдёт хорошо. Тогда мы сможем хотя бы почтить память погибших товарищей.
-
-**Роллон:** Постарайся скорее заснуть.
+#### Сокрушите око
 
 #### Сокрушите око
 
-**Бьорн:** ♪~
-
-Ты выглядишь очень спокойным.
-
-**Бьорн:** Я готовился к завтрашнему бою три последних года. Поэтому я весь в предвкушении, а волнения во мне нет ни капли.
-
-Надеюсь, завтра всё пройдёт хорошо.
-
-**Бьорн:** Даже если нет, мы справимся. Не беспокойся.
+#### Сокрушите око
 
 #### Обсудите стратегию с соратниками
 
@@ -684,7 +745,7 @@
 
 **Иллуги:** ...во время обороны позиции он был атакован оком и...
 
-Он был слишком тяжело ранен, и, несмотря на все усилия, спасти его...
+- **Путешественник:** Он был слишком тяжело ранен, и, несмотря на все усилия, спасти его...
 
 **Анлейв:** ...Как это возможно? Как такое могло случиться?!
 
@@ -704,7 +765,7 @@
 
 **Иллуги:** ...
 
-Иллуги, ты в порядке?
+- **Путешественник:** Иллуги, ты в порядке?
 
 **Иллуги:** Я... я в порядке.
 
@@ -716,7 +777,7 @@
 
 **Анлейв:** ...Командир! Я не это имел в виду, просто я... Эх!
 
-Это не только твоя вина.
+- **Путешественник:** Это не только твоя вина.
 
 **Паймон:** Да! Мы все... мы должны нести эту ответственность вместе!
 
@@ -762,7 +823,13 @@
 
 #### Отправляйтесь на поле боя...
 
+#### Отправляйтесь на поле боя...
+
 **Иллуги:** (Туман становится гуще... Всё труднее разглядеть путь впереди...)
+
+#### Вперёд...
+
+#### Отправляйтесь на поле боя...
 
 #### Победите врагов
 
@@ -785,6 +852,8 @@
 **Бич бесконечного разложения:** ...Совсем как ты... цыплёночек... Хе-хе...
 
 **Иллуги:** Заткни свою пасть и умри!
+
+#### Победите чудовищ
 
 #### Победите врагов
 
@@ -820,7 +889,7 @@
 
 **Роллон:** Поговорим позже. Сейчас надо одолеть врага.
 
-Командир, мы ждём твоего приказа!
+- **Путешественник:** Командир, мы ждём твоего приказа!
 
 **Иллуги:** Вы...
 
@@ -836,12 +905,6 @@
 
 #### Восстановите печать
 
-(Стоит отдохнуть...)
-
-- **Путешественник:** (Надо отдохнуть.)
-
-- **Путешественник:** (Есть ещё дела...)
-
 #### Победите Бич бесконечного разложения
 
 **Бич бесконечного разложения:** Хе-хе... Такая печать мне ничего не сделает...
@@ -853,6 +916,8 @@
 **Роллон:** ...Командир! Осторожно, монстр!
 
 **Иллуги:** Монстр! Ты за это заплатишь!
+
+#### Победите Бич бесконечного разложения
 
 #### Поговорите с соратниками
 
@@ -880,6 +945,8 @@
 
 #### Поговорите с соратниками
 
+#### Поговорите с соратниками
+
 **Паймон:** Выходит... мы его уничтожили, да?
 
 **Роллон:** Похоже на то. Даже следов не осталось.
@@ -894,11 +961,17 @@
 
 **Анлейв:** Вот и славно! Теперь, командир, можете наказать меня.
 
-- **Путешественник:** Накажите меня! Если бы не он, это сделал(а) бы я.
+##### Вариант ответа 1
+
+- **Путешественник:** Накажите меня! Если бы не он, это сделал бы я. / Накажите меня! Если бы не он, это сделала бы я.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Всё же бить человека - это уже слишком...
 
 **Паймон:** Да, это так, но... чувства Анлейва можно понять - в этот раз Иллуги и правда перешёл все границы!
+
+##### Общее продолжение
 
 **Иллуги:** Нет... я не буду тебя наказывать. Ты прав.
 
@@ -920,7 +993,7 @@
 
 **Иллуги:** ...
 
-Чтобы доверять другим, тоже нужна храбрость.
+- **Путешественник:** Чтобы доверять другим, тоже нужна храбрость.
 
 **Иллуги:** Путешественник...
 
@@ -946,37 +1019,143 @@
 
 **Иллуги:** ...Вернёмся к делу. Путешественник, Паймон и я первыми вернёмся в Пирамиду, чтобы доложить обстановку старику.
 
-**Паймон:** Ух... Вокруг Столба Эмблы обстановка очень сложная...
-
 **Иллуги:** После того как передадите сообщение товарищам, несущим дежурство на поверхности, как можно скорее возвращайтесь в Пирамиду и присоединяйтесь к дальнейшим боевым действиям.
 
 **Роллон:** Мы обо всём позаботимся.
 
 **Анлейв:** Плевать, кто он - хоть профессор, хоть студент! Пора показать ему силу Светоносцев!
 
+**Паймон:** Ух... Вокруг Столба Эмблы обстановка очень сложная...
+
 #### Поговорите с Иллуги
+
+#### Поговорите с Иллуги
+
+**Иллуги:** Тот монстр упомянул, что Профессор уже отправился в путь. Значит, бессмертный демон протянул свои когти к Столбу Эмблы...
 
 **Паймон:** Госпожа Алия... С ней ведь ничего не случится?..
 
-Сейчас остаётся только верить в неё.
+- **Путешественник:** Сейчас остаётся только верить в неё.
 
 **Иллуги:** Да, давайте верить и дорожить каждой секундой, которую она для нас отвоевала.
 
 **Иллуги:** Выполнение нашей миссии - это лучшая благодарность, которую мы можем ей оказать.
 
-**Иллуги:** Тот монстр упомянул, что Профессор уже отправился в путь. Значит, бессмертный демон протянул свои когти к Столбу Эмблы...
+**Анлейв:** О! Командир, мы здесь всё уладим, а потом встречаемся в Пирамиде.
+
+**Роллон:** Командир, Путешественник, что вы здесь делаете? Не переживайте, как только мы закончим, сразу выдвинемся в Пирамиду.
+
+Колос тёмного леса резонирует с Серебряным фитилём, высвобождая много куувяки...
+
+**Паймон:** Ух... Вокруг Столба Эмблы обстановка очень сложная...
 
 ### Фокусная точка древнего круга I
 
 Найдите и активируйте колос тёмного леса
 
+#### Доберитесь до лагеря в центре поля боя
+
+#### Победите чудовищ
+
+#### Активируйте колос тёмного леса
+
 ### Фокусная точка древнего круга II
 
 Найдите и активируйте колос тёмного леса
 
+#### Перейдите к позиции на западной стороне поля боя
+
+#### Освободите и активируйте колос тёмного леса
+
 ### Фокусная точка древнего круга III
 
 Найдите и активируйте колос тёмного леса
+
+#### Перейдите к позиции на южной стороне поля боя
+
+#### Перейдите к позиции на южной стороне поля боя и осмотритесь
+
+#### Устраните препятствия и продолжайте путь
+
+**Иллуги:** С дороги! Прочь!
+
+**Голос монстра:** Хи-хи... Куда ты так торопишься?
+
+**Голос монстра:** Всё равно вы... все умрёте рано или поздно... только... кому-то придётся отправиться в путь пораньше...
+
+**Голос монстра:** Он сам жаловался... что не умер три года назад... теперь... я исполню его желание...
+
+**Иллуги:** ...Бьорн? Что ты с ним сделал?!
+
+**Голос монстра:** Он был слишком слаб... слабак... жалкое ничтожество...
+
+**Голос монстра:** ...Удел слабака - смерть. Разве нет?
+
+**Иллуги:** Не смей так говорить! Он никакой не слабак!
+
+**Голос монстра:** О... По-твоему... он сильный...
+
+**Голос монстра:** Но... сильные всё равно умирают...
+
+**Голос монстра:** Мне казалось... ты прекрасно это понимаешь...
+
+**Голос монстра:** Те, кто был сильнее тебя... все они умерли... три года назад... десять лет назад...
+
+**Иллуги:** ...Заткни свою поганую пасть!
+
+**Голос монстра:** Да... оказывается, настоящий слабак... это ты...
+
+**Голос монстра:** Почему же... почему каждый раз... каждый раз выживаешь ты один?
+
+**Голос монстра:** ...Ты бежишь с поля боя? Жалкий трус, для которого нет ничего дороже своей шкуры...
+
+**Паймон:** Иллуги! Не слушай эту чушь!
+
+- **Путешественник:** Довольно! Умри!
+
+**Иллуги:** ...Путешественник! Давай скорее покончим с этим!
+
+**Иллуги:** С дороги, прочь!
+
+**Голос монстра:** Хи-хи... Куда ты так торопишься...
+
+**Голос монстра:** Всё равно вы... все умрёте рано или поздно... только... кому-то придётся отправиться в путь пораньше...
+
+**Голос монстра:** Он сам жаловался... что не умер три года назад... теперь... я исполню его желание...
+
+**Иллуги:** ...Бьорн? Что ты с ним сделал?!
+
+**Голос монстра:** Он был слишком слаб... слабак... жалкое ничтожество...
+
+**Голос монстра:** ...Удел слабака - смерть. Разве нет?
+
+**Иллуги:** Не смей так говорить! Он никакой не слабак!
+
+**Голос монстра:** О... По-твоему... он сильный...
+
+**Голос монстра:** Но... сильные всё равно умирают...
+
+**Голос монстра:** Мне казалось... ты прекрасно это понимаешь...
+
+**Голос монстра:** Те, кто был сильнее тебя... все они умерли... три года назад... десять лет назад...
+
+**Иллуги:** ...Заткни свою поганую пасть!
+
+**Голос монстра:** Да... оказывается, настоящий слабак... это ты...
+
+**Голос монстра:** Почему же... почему каждый раз... каждый раз выживаешь ты один?
+
+**Голос монстра:** ...Ты бежишь с поля боя? Жалкий трус, для которого нет ничего дороже своей шкуры...
+
+**Паймон:** Иллуги! Не слушай эту чушь!
+
+- **Путешественник:** Довольно! Умри!
+
+**Иллуги:** ...Путешественник! Давай скорее покончим с этим!
+
+#### Победите чудовищ
+
+#### Победите чудовищ
 
 #### Перейдите к позиции на южной стороне поля боя и осмотритесь
 
@@ -1030,51 +1209,81 @@
 
 **Паймон:** Иллуги...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы должны двигаться вперёд, хотя бы ради Бьорна.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Мы обязательно одолеем врага. Победа будет за нами!
 
+##### Общее продолжение
+
 **Иллуги:** ...Что ж, тогда вперёд!
 
-#### Устраните препятствия и продолжайте путь
+**Иллуги:** ...Что с Бьорном?
 
-**Иллуги:** С дороги! Прочь!
+**Эгле:** ...Он тяжело ранен. Всё произошло так внезапно... Он пытался защитить нас... *плачет*
 
-**Голос монстра:** Хи-хи... Куда ты так торопишься?
+**Эгле:** ...Обстановка на поле боя слишком опасная, да и он не выдержит тряски при транспортировке. Нам приходится оказывать экстренную помощь на месте, но с нашими текущими возможностями мы...
 
-**Голос монстра:** Всё равно вы... все умрёте рано или поздно... только... кому-то придётся отправиться в путь пораньше...
+**Бьорн:** ...Командир...
 
-**Голос монстра:** Он сам жаловался... что не умер три года назад... теперь... я исполню его желание...
+**Иллуги:** Бьорн!
 
-**Иллуги:** ...Бьорн? Что ты с ним сделал?!
+**Бьорн:** ...прости... я не смог выполнить задание...
 
-**Голос монстра:** Он был слишком слаб... слабак... жалкое ничтожество...
+**Иллуги:** Ты отлично справился! Позиция удержана, и все целы и невредимы...
 
-**Голос монстра:** ...Удел слабака - смерть. Разве нет?
+**Бьорн:** Правда?.. Значит, у меня получилось... Как хорошо...
 
-**Иллуги:** Не смей так говорить! Он никакой не слабак!
+**Иллуги:** Не разговаривай. Побереги силы для выздоровления.
 
-**Голос монстра:** О... По-твоему... он сильный...
+**Бьорн:** Если не сейчас... потом уже не будет шанса...
 
-**Голос монстра:** Но... сильные всё равно умирают...
+**Иллуги:** Это приказ командира! Я запрещаю тебе говорить такие вещи! С тобой всё будет хорошо... обязательно будет хорошо...
 
-**Голос монстра:** Мне казалось... ты прекрасно это понимаешь...
+**Бьорн:** Хех... хорошо... слушаюсь... я больше не буду об этом говорить...
 
-**Голос монстра:** Те, кто был сильнее тебя... все они умерли... три года назад... десять лет назад...
+**Бьорн:** Но... я смогу смотреть в глаза Вейде с чистой совестью...
 
-**Иллуги:** ...Заткни свою поганую пасть!
+**Бьорн:** Он часто говорил... мы, Светоносцы, как шпороцветник...
 
-**Голос монстра:** Да... оказывается, настоящий слабак... это ты...
+**Бьорн:** Перед лицом Дикой Охоты... мы все очень хрупкие... как цветы шпороцветника... легко опадаем...
 
-**Голос монстра:** Почему же... почему каждый раз... каждый раз выживаешь ты один?
+**Бьорн:** Но... пока листья ещё есть... пока корни крепко держатся в земле...
 
-**Голос монстра:** ...Ты бежишь с поля боя? Жалкий трус, для которого нет ничего дороже своей шкуры...
+**Бьорн:** В следующем сезоне... и после... обязательно распустятся новые цветы...
 
-**Паймон:** Иллуги! Не слушай эту чушь!
+**Бьорн:** Мы не потерпим поражения... верно... командир?..
 
-Довольно! Умри!
+**Иллуги:** Конечно! Мы не потерпим поражения! Я собственными руками уничтожу это чудовище!
 
-**Иллуги:** ...Путешественник! Давай скорее покончим с этим!
+**Бьорн:** Ты самый сильный среди нас... я верю в тебя... командир...
+
+**Иллуги:** Не беспокойся, Бьорн, я обязательно сдержу обещание! А теперь отдыхай. Всё будет хорошо, ты скоро поправишься...
+
+**Бьорн:** ...
+
+**Иллуги:** ...
+
+**Иллуги:** ...Путешественник, Паймон, нам пора идти. Задание ещё не выполнено, мы не можем здесь задерживаться.
+
+**Паймон:** Иллуги...
+
+##### Вариант ответа 1
+
+- **Путешественник:** Мы должны двигаться вперёд, хотя бы ради Бьорна.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Мы обязательно одолеем врага. Победа будет за нами!
+
+##### Общее продолжение
+
+**Иллуги:** ...Что ж, тогда вперёд!
+
+#### Активируйте колос тёмного леса
 
 ## EN
 
@@ -1082,19 +1291,27 @@
 
 You have agreed to meet Illuga at Cliffwatch Camp once preparations are complete and take part in the next phase of the operation.
 
+#### Go to Cliffwatch Camp
+
 #### Talk to the Lightkeeper
 
-**Anleifr:** You're... not one of those adventurers who come running the moment they get a whiff of something going down in some ruins somewhere, are you?
+**???:** You're... not one of those adventurers who come running the moment they get a whiff of something going down in some ruins somewhere, are you?
 
-**Anleifr:** This is the front line we're holding against the Wild Hunt on Kipumaki Cliff. You shouldn't be here.
+**???:** This is the front line we're holding against the Wild Hunt on Kipumaki Cliff. You shouldn't be here.
+
+##### Response branch 1
 
 - **Traveler:** This is exactly where I should be.
 
+##### Response branch 2
+
 - **Traveler:** I came to help.
+
+##### Shared continuation
 
 **Paimon:** Yeah. We're help to help deal with the Wild Hunt.
 
-**Anleifr:** *sigh* You might be decent in a fight, but this is different. A battlefield is no place for kids like you...
+**???:** *sigh* You might be decent in a fight, but this is different. A battlefield is no place for kids like you...
 
 **Illuga:** Something the matter, Anleifr?
 
@@ -1106,9 +1323,9 @@ You have agreed to meet Illuga at Cliffwatch Camp once preparations are complete
 
 **Anleifr:** Huh? Captain, what's that supposed to mean?
 
-**Illuga:** They / They are the temporary recruits I mentioned earlier.
+**Illuga:** They are the temporary recruits I mentioned earlier.
 
-**Anleifr:** They / They are the ones? Well... I suppose heroes are indeed made young.
+**Anleifr:** They are the ones? Well... I suppose heroes are indeed made young.
 
 **Anleifr:** Alright. If you say so, Captain. I trust your judgment.
 
@@ -1122,9 +1339,15 @@ You have agreed to meet Illuga at Cliffwatch Camp once preparations are complete
 
 **Anleifr:** ...Hold on. What are you doing here!? This is the front line against the Wild Hunt on Kipumaki Cliff. You shouldn't be here.
 
+##### Response branch 1
+
 - **Traveler:** This is exactly where I should be.
 
+##### Response branch 2
+
 - **Traveler:** I came to help.
+
+##### Shared continuation
 
 **Paimon:** Yeah, we're here to help too!
 
@@ -1140,9 +1363,9 @@ You have agreed to meet Illuga at Cliffwatch Camp once preparations are complete
 
 **Anleifr:** Huh? Captain, what's that supposed to mean?
 
-**Illuga:** They / They are the temporary recruits I mentioned earlier.
+**Illuga:** They are the temporary recruits I mentioned earlier.
 
-**Anleifr:** They / They are the ones? I mean I know what he's / she's capable of... I guess heroes really are made young.
+**Anleifr:** They are the ones? I mean I know what he's capable of... I guess heroes really are made young. / They are the ones? I mean I know what she's capable of... I guess heroes really are made young.
 
 **Anleifr:** Alright. If you say so, Captain. I trust your judgment.
 
@@ -1152,15 +1375,13 @@ You have agreed to meet Illuga at Cliffwatch Camp once preparations are complete
 
 #### Join the strategy meeting
 
-**Anleifr:** Oh! Captain, once everything's set on our end, we'll regroup with you in Piramida.
-
 **Illuga:** Before we begin, let me do the introductions. Traveler and Paimon are the adventurers I mentioned earlier, the ones who helped retrieve the Silver Lampwick.
 
-**Illuga:** They / They will be joining our team for the upcoming operation.
+**Illuga:** They will be joining our team for the upcoming operation.
 
 **Paimon:** We're adventurers, but we've got a lot of experience fighting the Abyss, so we won't slow you down!
 
-Delighted to make your acquaintance.
+- **Traveler:** Delighted to make your acquaintance.
 
 **Anleifr:** I'm Anleifr. I suppose we can skip the "nice to meet yous," seeing how we've crossed paths before. Looking forward to fighting alongside you.
 
@@ -1218,7 +1439,7 @@ Delighted to make your acquaintance.
 
 **Paimon:** What!? How is that possible...
 
-...Was that the Wild Hunt's doing?
+- **Traveler:** ...Was that the Wild Hunt's doing?
 
 **Illuga:** Exactly. We've received reports of Wild Hunt anomalies that corrupt the mind across various areas, and it is likely that it all began here.
 
@@ -1270,11 +1491,11 @@ Delighted to make your acquaintance.
 
 **Illuga:** Before we begin, let me do the introductions. Traveler and Paimon are the adventurers I mentioned earlier, the ones who helped retrieve the Silver Lampwick.
 
-**Illuga:** They / They will be joining our team for the upcoming operation.
+**Illuga:** They will be joining our team for the upcoming operation.
 
 **Paimon:** We're adventurers, but we've got a lot of experience fighting the Abyss, so we won't slow you down!
 
-Delighted to make your acquaintance.
+- **Traveler:** Delighted to make your acquaintance.
 
 **Anleifr:** I'm Anleifr. Gotta say, joining the Lightkeepers at a time like this takes real guts, you two.
 
@@ -1332,7 +1553,7 @@ Delighted to make your acquaintance.
 
 **Paimon:** What!? How is that possible...
 
-...Was that the Wild Hunt's doing?
+- **Traveler:** ...Was that the Wild Hunt's doing?
 
 **Illuga:** Exactly. We've received reports of Wild Hunt anomalies that corrupt the mind across various areas, and it is likely that it all began here.
 
@@ -1382,6 +1603,76 @@ Delighted to make your acquaintance.
 
 **Crowd:** Yes, sir!
 
+#### Gather your strength
+
+**Illuga:** Hmm... the old man's all set too. Excellent.
+
+##### Response branch 1
+
+- **Traveler:** Got good news?
+
+**Illuga:** Yeah. Word from Piramida. The old man's been making his own preparations to fight that undying fiend. Things are going smoothly on his end... Now it's up to us.
+
+- **Traveler:** What's wrong? Something on your mind?
+
+**Illuga:** ...Ah, it's nothing. Just thinking that I've still got a long way to go...
+
+**Illuga:** I was worried because I didn't understand what the old man was trying to do... Must've made a fool of myself in front of you.
+
+- **Traveler:** You've already done so well.
+
+**Illuga:** Thank you. I'll work harder from now on. I won't let anyone down.
+
+##### Response branch 2
+
+- **Traveler:** Get some rest. We'll need our strength for tomorrow.
+
+**Illuga:** You too.
+
+**Anleifr:** This day has finally come...
+
+- **Traveler:** You still up?
+
+**Anleifr:** Can't sleep with a battle like this on the horizon! You should, though. You're still growing, don't stunt that by staying up.
+
+**Rollon:** That should be everything... What's up? Something you'd like to ask?
+
+##### Response branch 1
+
+- **Traveler:** About three years ago...
+
+**Rollon:** For many of us, the wounds from three years ago still haven't healed.
+
+**Rollon:** My brother and I... we were the lucky ones. My brother's Ivar, by the way. The captain saved him. We both survived, and we can still carry out our duties as Lightkeepers.
+
+**Rollon:** I just hope everything goes smoothly tomorrow. That way, we can at least bring some peace to our fallen comrades.
+
+##### Response branch 2
+
+- **Traveler:** It's nothing. Sorry to bother you.
+
+**Rollon:** You should get some rest.
+
+**Bjorn:** ♪~
+
+- **Traveler:** You seem pretty relaxed.
+
+**Bjorn:** I've spent the last three years preparing for tomorrow's battle. At this point, there's no tension, only anticipation.
+
+- **Traveler:** I hope everything goes well tomorrow.
+
+**Bjorn:** Even if there's trouble, we'll handle it. Don't worry.
+
+- **Traveler:** (Time to rest...)
+
+##### Response branch 1
+
+- **Traveler:** (Let's rest now.)
+
+##### Response branch 2
+
+- **Traveler:** (I still have things to do...)
+
 #### Talk to Illuga
 
 **Illuga:** We need to get ready to move. Vlaicu, proceed according to the original plan.
@@ -1397,6 +1688,14 @@ Delighted to make your acquaintance.
 **Anleifr:** Leave it to us!
 
 **Illuga:** It's time. Operation Clifftop begins now! All units, move out!
+
+#### Go to the clifftop camp
+
+#### Go to the clifftop camp
+
+#### Defeat the monsters
+
+#### Continue onward
 
 #### Clear the obstacles and continue onward
 
@@ -1420,6 +1719,8 @@ Delighted to make your acquaintance.
 
 **Illuga:** ...!? Everyone, get ready!
 
+#### Defeat the monsters
+
 #### Talk to Paimon
 
 **Paimon:** Wh—What's going on? No matter how we attack, it's like we can't hurt it at all...
@@ -1440,7 +1741,7 @@ Delighted to make your acquaintance.
 
 **Voice From the Monster:** ...To crawl away and save your own skins?
 
-A way to send you to hell!
+- **Traveler:** A way to send you to hell!
 
 **Voice From the Monster:** Haha... now that... is something worth waiting for...
 
@@ -1472,33 +1773,15 @@ A way to send you to hell!
 
 **Rollon:** Thinking like that is exactly what it wants. Calm down.
 
-We should be the ones taking the initiative.
+- **Traveler:** We should be the ones taking the initiative.
 
 **Illuga:** Traveler's right. We can't let our enemy drag us around. We push forward on our terms, and our plan.
 
 **Illuga:** Let us press on!
 
+#### Continue onward
+
 #### Rebuild the barrier
-
-**Illuga:** Hmm... the old man's all set too. Excellent.
-
-- **Traveler:** Got good news?
-
-- **Traveler:** Get some rest. We'll need our strength for tomorrow.
-
-**Illuga:** Yeah. Word from Piramida. The old man's been making his own preparations to fight that undying fiend. Things are going smoothly on his end... Now it's up to us.
-
-What's wrong? Something on your mind?
-
-**Illuga:** ...Ah, it's nothing. Just thinking that I've still got a long way to go...
-
-**Illuga:** I was worried because I didn't understand what the old man was trying to do... Must've made a fool of myself in front of you.
-
-You've already done so well.
-
-**Illuga:** Thank you. I'll work harder from now on. I won't let anyone down.
-
-**Illuga:** You too.
 
 #### Discuss countermeasures with your teammates
 
@@ -1514,7 +1797,7 @@ You've already done so well.
 
 **Anleifr:** Come on, brother, you're talking like you've already given up! Monsters? I don't care how many line up, I'll knock 'em all down!
 
-Even so, trying to hold out here forever isn't a real plan...
+- **Traveler:** Even so, trying to hold out here forever isn't a real plan...
 
 **Paimon:** Is there really nothing we can do...
 
@@ -1554,7 +1837,7 @@ Even so, trying to hold out here forever isn't a real plan...
 
 **Illuga:** Any objections? It's extremely dangerous. If either of you doesn't want to...
 
-No need to ask. Of course I'm in, Captain.
+- **Traveler:** No need to ask. Of course I'm in, Captain.
 
 **Paimon:** This is the perfect mission for us! We'll keep both Illuga and the Silver Lampwick safe!
 
@@ -1572,17 +1855,9 @@ No need to ask. Of course I'm in, Captain.
 
 #### Activate three Verdant Crests
 
-**Rollon:** Captain, Traveler, what brings you two here? No need to worry. Once we finish up, we'll head back to Piramida.
+#### Activate three Verdant Crests
 
-
-**Anleifr:** This day has finally come...
-
-You still up?
-
-**Anleifr:** Can't sleep with a battle like this on the horizon! You should, though. You're still growing, don't stunt that by staying up.
-
-
-The Verdant Crest resonates with the Silver Lampwick, unleashing a powerful surge of kuuvahki...
+#### Activate three Verdant Crests
 
 #### Clear the obstacles and continue onward
 
@@ -1620,9 +1895,13 @@ The Verdant Crest resonates with the Silver Lampwick, unleashing a powerful surg
 
 **Paimon:** Illuga, don't listen to its nonsense!
 
-Enough! Time to die!
+- **Traveler:** Enough! Time to die!
 
 **Illuga:** ...Traveler! Let's finish this quickly!
+
+#### Defeat the monsters
+
+#### Defeat the monsters
 
 #### Check the status of the position
 
@@ -1676,39 +1955,27 @@ Enough! Time to die!
 
 **Paimon:** Illuga...
 
+##### Response branch 1
+
 - **Traveler:** We have to keep moving, for Bjorn's sake.
+
+##### Response branch 2
 
 - **Traveler:** We will defeat the enemy and claim victory.
 
+##### Shared continuation
+
 **Illuga:** ...Yeah. Let's keep going.
+
+#### Activate the Verdant Crest
 
 #### Activate the last Verdant Crest
 
-**Rollon:** That should be everything... What's up? Something you'd like to ask?
-
-- **Traveler:** About three years ago...
-
-- **Traveler:** It's nothing. Sorry to bother you.
-
-**Rollon:** For many of us, the wounds from three years ago still haven't healed.
-
-**Rollon:** My brother and I... we were the lucky ones. My brother's Ivar, by the way. The captain saved him. We both survived, and we can still carry out our duties as Lightkeepers.
-
-**Rollon:** I just hope everything goes smoothly tomorrow. That way, we can at least bring some peace to our fallen comrades.
-
-**Rollon:** You should get some rest.
+#### Defeat the Evil Eye
 
 #### Defeat the Evil Eye
 
-**Bjorn:** ♪~
-
-You seem pretty relaxed.
-
-**Bjorn:** I've spent the last three years preparing for tomorrow's battle. At this point, there's no tension, only anticipation.
-
-I hope everything goes well tomorrow.
-
-**Bjorn:** Even if there's trouble, we'll handle it. Don't worry.
+#### Defeat the Evil Eye
 
 #### Discuss countermeasures with your teammates
 
@@ -1738,7 +2005,7 @@ I hope everything goes well tomorrow.
 
 **Illuga:** ...He was struck by the Evil Eye's attack while defending the position...
 
-His injuries were too severe. We tried everything... but we couldn't save him.
+- **Traveler:** His injuries were too severe. We tried everything... but we couldn't save him.
 
 **Anleifr:** ...No way. How... How could that be!?
 
@@ -1758,7 +2025,7 @@ His injuries were too severe. We tried everything... but we couldn't save him.
 
 **Illuga:** ...
 
-Illuga, are you alright?
+- **Traveler:** Illuga, are you alright?
 
 **Illuga:** I... I'm fine.
 
@@ -1770,7 +2037,7 @@ Illuga, are you alright?
 
 **Anleifr:** ...Captain! That's not what I meant, I just... sigh...
 
-This isn't your burden alone.
+- **Traveler:** This isn't your burden alone.
 
 **Paimon:** That's right. All of us... We've gotta carry this together!
 
@@ -1814,9 +2081,15 @@ This isn't your burden alone.
 
 **Illuga:** (This is my duty... I can't run anymore...)
 
+#### Sally forth to the battlefield...
+
 #### Proceed to the battlefield...
 
 **Illuga:** (The fog's getting thicker. I can hardly see the path in front of us...)
+
+#### Press on...
+
+#### Press on to the battlefield...
 
 #### Slay your foes
 
@@ -1839,6 +2112,8 @@ This isn't your burden alone.
 **Scourge of Endless Decay:** ...Just like you, little hatchling... Hehe...
 
 **Illuga:** Shut your filthy mouth. Die!
+
+#### Defeat the monsters
 
 #### Slay your foes
 
@@ -1874,7 +2149,7 @@ This isn't your burden alone.
 
 **Rollon:** Talk later. Focus on taking down the enemy first.
 
-Captain, give us the order!
+- **Traveler:** Captain, give us the order!
 
 **Illuga:** You guys...
 
@@ -1890,12 +2165,6 @@ Captain, give us the order!
 
 #### Repair the seal
 
-(Time to rest...)
-
-- **Traveler:** (Let's rest now.)
-
-- **Traveler:** (I still have things to do...)
-
 #### Defeat the Scourge of Endless Decay
 
 **Scourge of Endless Decay:** Hehe... A seal like this will not hold me...
@@ -1907,6 +2176,8 @@ Captain, give us the order!
 **Rollon:** ...Captain! Watch out for that monster!
 
 **Illuga:** Monster! You'll pay for this!
+
+#### Defeat the Scourge of Endless Decay
 
 #### Talk to your teammates
 
@@ -1934,6 +2205,8 @@ Captain, give us the order!
 
 #### Talk to your teammates
 
+#### Talk to your teammates
+
 **Paimon:** Finally... this thing's done for good, right?
 
 **Rollon:** Seems so. Not even ashes were left behind.
@@ -1948,11 +2221,17 @@ Anleifr lands a heavy punch on Illuga...
 
 **Anleifr:** Alright, Captain. All done. You can punish me now.
 
+##### Response branch 1
+
 - **Traveler:** Punish me instead. If he hadn't done that, I would've.
+
+##### Response branch 2
 
 - **Traveler:** Punching him might've been a step too far...
 
 **Paimon:** That's true... but Paimon can't say she doesn't understand how Anleifr feels. You crossed a line this time, Illuga!
+
+##### Shared continuation
 
 **Illuga:** No... I won't punish you. You were right.
 
@@ -1974,7 +2253,7 @@ Anleifr lands a heavy punch on Illuga...
 
 **Illuga:** ...
 
-Looks like it takes courage to trust others, too.
+- **Traveler:** Looks like it takes courage to trust others, too.
 
 **Illuga:** Traveler...
 
@@ -2000,37 +2279,143 @@ Looks like it takes courage to trust others, too.
 
 **Illuga:** ...Back to business. Traveler, Paimon, and I will head back to Piramida first to report to the old man.
 
-**Paimon:** Uh oh... things look reeeeal bad around the Pillar of Embla...
-
 **Illuga:** Once you've passed the message to our comrades who are holding the formations on the surface, return to Piramida as soon as you can and join the next phase of the operation.
 
 **Rollon:** Leave it to us.
 
 **Anleifr:** To hell with all that "Professor" and "Student" nonsense. It's time we show 'em what we Lightkeepers are made of!
 
+**Paimon:** Uh oh... things look reeeeal bad around the Pillar of Embla...
+
 #### Talk to Illuga
+
+#### Talk to Illuga
+
+**Illuga:** That monster mentioned that "the 'Professor' has already set forth." I fear that deathless fiend has set his sights on the Pillar of Embla...
 
 **Paimon:** Is... Is Miss Alia gonna be ok?
 
-All we can do now is trust her.
+- **Traveler:** All we can do now is trust her.
 
 **Illuga:** Yeah — and make the most of every second she's fighting to buy us.
 
 **Illuga:** Completing our mission is the best way we can repay her.
 
-**Illuga:** That monster mentioned that "the 'Professor' has already set forth." I fear that deathless fiend has set his sights on the Pillar of Embla...
+**Anleifr:** Oh! Captain, once everything's set on our end, we'll regroup with you in Piramida.
+
+**Rollon:** Captain, Traveler, what brings you two here? No need to worry. Once we finish up, we'll head back to Piramida.
+
+The Verdant Crest resonates with the Silver Lampwick, unleashing a powerful surge of kuuvahki...
+
+**Paimon:** Uh oh... things look reeeeal bad around the Pillar of Embla...
 
 ### Focal Point of Ancient Array (I)
 
 Find and activate the Verdant Crest
 
+#### Go to the center of the battlefield
+
+#### Defeat the monsters
+
+#### Activate the Verdant Crest
+
 ### Focal Point of Ancient Array (II)
 
 Find and activate the Verdant Crest
 
+#### Go to the position on the western side of the battlefield
+
+#### Release and activate the Verdant Crest
+
 ### Focal Point of Ancient Array (III)
 
 Find and activate the Verdant Crest
+
+#### Go to the position on the southern side of the battlefield
+
+#### Go to the position on the southern side of the battlefield and take a look
+
+#### Clear the obstacles and continue onward
+
+**Illuga:** Out of the way! Move!
+
+**Voice From the Monster:** Hehe... what's the hurry...
+
+**Voice From the Monster:** One way or another... you're all going to die. But some of you... just get to go a bit earlier...
+
+**Voice From the Monster:** He whined about not dying back then... Three years ago... And now... I'll fulfill his wish...
+
+**Illuga:** ...Bjorn? What did you do to him!?
+
+**Voice From the Monster:** He was too weak... the weaklings... Useless... Crawling insects...
+
+**Voice From the Monster:** ...Dying is all they're good for, no?
+
+**Illuga:** Don't you dare insult him! He's not weak at all!
+
+**Voice From the Monster:** Oh... In your eyes... he was strong...
+
+**Voice From the Monster:** But... but the strong die all the same...
+
+**Voice From the Monster:** I thought... you understood that better than anyone...
+
+**Voice From the Monster:** The ones stronger than you... They all died, didn't they? They died three years ago... and ten years ago as well...
+
+**Illuga:** ...Shut your mouth!
+
+**Voice From the Monster:** Yes... the only weak one here... is you...
+
+**Voice From the Monster:** Otherwise... why is it that every time... every time... you're the only one who survives?
+
+**Voice From the Monster:** ...You ran from the battlefield, didn't you? Just a coward clinging to life...
+
+**Paimon:** Illuga, don't listen to its nonsense!
+
+- **Traveler:** Enough! Time to die!
+
+**Illuga:** ...Traveler! Let's finish this quickly!
+
+**Illuga:** Out of the way, move it!
+
+**Voice From the Monster:** Hehe... What's the hurry...
+
+**Voice From the Monster:** One way or another... you're all going to die. But some of you... just get to go a bit earlier...
+
+**Voice From the Monster:** He whined about not dying back then... Three years ago... And now... I'll fulfill his wish...
+
+**Illuga:** ...Bjorn? What did you do to him!?
+
+**Voice From the Monster:** He was too weak... the weaklings... Useless... Crawling insects...
+
+**Voice From the Monster:** ...Dying is all they're good for, no?
+
+**Illuga:** Don't you dare insult him! He's not weak at all!
+
+**Voice From the Monster:** Oh... In your eyes... he was strong...
+
+**Voice From the Monster:** But... but the strong die all the same...
+
+**Voice From the Monster:** I thought... you understood that better than anyone...
+
+**Voice From the Monster:** The ones stronger than you... They all died, didn't they? They died three years ago... and ten years ago as well...
+
+**Illuga:** ...Shut your mouth!
+
+**Voice From the Monster:** Yes... the only weak one here... is you...
+
+**Voice From the Monster:** Otherwise... why is it that every time... every time... you're the only one who survives?
+
+**Voice From the Monster:** ...You ran from the battlefield, didn't you? Just a coward clinging to life...
+
+**Paimon:** Illuga, don't listen to its nonsense!
+
+- **Traveler:** Enough! Time to die!
+
+**Illuga:** ...Traveler! Let's finish this quickly!
+
+#### Defeat the monsters
+
+#### Defeat the monsters
 
 #### Go to the position on the southern side of the battlefield and take a look
 
@@ -2084,51 +2469,81 @@ Find and activate the Verdant Crest
 
 **Paimon:** Illuga...
 
+##### Response branch 1
+
 - **Traveler:** We have to keep moving, for Bjorn's sake.
+
+##### Response branch 2
 
 - **Traveler:** We will defeat the enemy and claim victory.
 
+##### Shared continuation
+
 **Illuga:** ...Yeah. Let's keep going.
 
-#### Clear the obstacles and continue onward
+**Illuga:** ...How is Bjorn?
 
-**Illuga:** Out of the way! Move!
+**Egle:** ...He's badly injured. The attack came too suddenly, and to protect us, he... *sob*
 
-**Voice From the Monster:** Hehe... what's the hurry...
+**Egle:** ...The battlefield was too dangerous, and he was in no state to be moved. We had no choice but to treat him here on the spot, but with the resources we have to hand, it's just...
 
-**Voice From the Monster:** One way or another... you're all going to die. But some of you... just get to go a bit earlier...
+**Bjorn:** ...Captain...
 
-**Voice From the Monster:** He whined about not dying back then... Three years ago... And now... I'll fulfill his wish...
+**Illuga:** Bjorn!
 
-**Illuga:** ...Bjorn? What did you do to him!?
+**Bjorn:** ...I'm sorry... I couldn't complete the mission...
 
-**Voice From the Monster:** He was too weak... the weaklings... Useless... Crawling insects...
+**Illuga:** You did great! The position remains secure, and everyone's still safe...
 
-**Voice From the Monster:** ...Dying is all they're good for, no?
+**Bjorn:** Really...? I did it, then... That's good...
 
-**Illuga:** Don't you dare insult him! He's not weak at all!
+**Illuga:** Stop talking. You need rest.
 
-**Voice From the Monster:** Oh... In your eyes... he was strong...
+**Bjorn:** If I don't say it now... I won't get another chance...
 
-**Voice From the Monster:** But... but the strong die all the same...
+**Illuga:** ...Don't say that! That's an order from your captain! You'll be fine... You'll be fine...
 
-**Voice From the Monster:** I thought... you understood that better than anyone...
+**Bjorn:** Heh... alright... as you command... I won't mention that again...
 
-**Voice From the Monster:** The ones stronger than you... They all died, didn't they? They died three years ago... and ten years ago as well...
+**Bjorn:** But at least... I'll finally be able to face Veyde with no regrets...
 
-**Illuga:** ...Shut your mouth!
+**Bjorn:** He would say... that we Lightkeepers are like Winter Iceleas...
 
-**Voice From the Monster:** Yes... the only weak one here... is you...
+**Bjorn:** In the face of the Wild Hunt... each of us is fragile... like a Winter Icelea's petals... How easily we shatter...
 
-**Voice From the Monster:** Otherwise... why is it that every time... every time... you're the only one who survives?
+**Bjorn:** But... so long as the leaves remain... so long as the roots stay firmly in the soil...
 
-**Voice From the Monster:** ...You ran from the battlefield, didn't you? Just a coward clinging to life...
+**Bjorn:** When the next season comes... and the one after that... new flowers will bloom anew...
 
-**Paimon:** Illuga, don't listen to its nonsense!
+**Bjorn:** We will not fail... Isn't that right... Captain...
 
-Enough! Time to die!
+**Illuga:** ...Yes. We will not fail! I will see that monster buried at my hands once and for all!
 
-**Illuga:** ...Traveler! Let's finish this quickly!
+**Bjorn:** ...You're the strongest among us... I believe in you... Captain...
+
+**Illuga:** ...Rest assured, Bjorn. I'll keep our promise. Rest now... Things will have turned around by the time you recover...
+
+**Bjorn:** ...
+
+**Illuga:** ...
+
+**Illuga:** ...Traveler, Paimon, we need to go. The mission isn't over yet. We can't stay here any longer.
+
+**Paimon:** Illuga...
+
+##### Response branch 1
+
+- **Traveler:** We have to keep moving, for Bjorn's sake.
+
+##### Response branch 2
+
+- **Traveler:** We will defeat the enemy and claim victory.
+
+##### Shared continuation
+
+**Illuga:** ...Yeah. Let's keep going.
+
+#### Activate the Verdant Crest
 
 ## ZH
 
@@ -2136,19 +2551,27 @@ Enough! Time to die!
 
 与叶洛亚约定，在准备完毕后前往「望崖营壁」与他会合，并参加下一阶段的作战行动。
 
+#### 前往「望崖营壁」
+
 #### 与执灯人对话
 
-**安莱夫:** 你们是…该不会又是那种一听到哪里的遗迹发生了异变，就跑过来凑热闹的冒险家吧？
+**？？？:** 你们是…该不会又是那种一听到哪里的遗迹发生了异变，就跑过来凑热闹的冒险家吧？
 
-**安莱夫:** 这里可是对抗苦壑崖上的狂猎的最前线，不是你们该来的地方。
+**？？？:** 这里可是对抗苦壑崖上的狂猎的最前线，不是你们该来的地方。
+
+##### 对话分支 1
 
 - **旅行者:** 这里正是我该来的地方。
 
+##### 对话分支 2
+
 - **旅行者:** 我是来助阵的。
+
+##### 共同后续
 
 **派蒙:** 嗯，我们是来帮忙对付狂猎的！
 
-**安莱夫:** 唉，就算你们确实有些本事，但现在情况不一样，战场不是你们这些小孩子应该轻易涉足的地方…
+**？？？:** 唉，就算你们确实有些本事，但现在情况不一样，战场不是你们这些小孩子应该轻易涉足的地方…
 
 **叶洛亚:** 出什么状况了吗，安莱夫？
 
@@ -2160,9 +2583,9 @@ Enough! Time to die!
 
 **安莱夫:** 欸？队长，你这是什么意思？
 
-**叶洛亚:** 他们 / 她们就是我之前提到的临时入队的帮手。
+**叶洛亚:** 他们就是我之前提到的临时入队的帮手。 / 她们就是我之前提到的临时入队的帮手。
 
-**安莱夫:** 他们 / 她们就是？还真是…英雄出少年啊。
+**安莱夫:** 他们就是？还真是…英雄出少年啊。 / 她们就是？还真是…英雄出少年啊。
 
 **安莱夫:** 好吧！既然队长都说是了，我相信队长的判断。
 
@@ -2176,9 +2599,15 @@ Enough! Time to die!
 
 **安莱夫:** …不对啊！你们怎么跑这儿来了？！这里可是对抗苦壑崖上的狂猎的最前线，不是你们该来的地方。
 
+##### 对话分支 1
+
 - **旅行者:** 这里正是我该来的地方。
 
+##### 对话分支 2
+
 - **旅行者:** 我是来助阵的。
+
+##### 共同后续
 
 **派蒙:** 嗯，我们也来帮忙啦！
 
@@ -2194,9 +2623,9 @@ Enough! Time to die!
 
 **安莱夫:** 欸？队长，你这是什么意思？
 
-**叶洛亚:** 他们 / 她们就是我之前提到的临时入队的帮手。
+**叶洛亚:** 他们就是我之前提到的临时入队的帮手。 / 她们就是我之前提到的临时入队的帮手。
 
-**安莱夫:** 他们 / 她们就是？虽说见识过他 / 她的本领…确实是…英雄出少年啊。
+**安莱夫:** 他们就是？虽说见识过他的本领…确实是…英雄出少年啊。 / 她们就是？虽说见识过她的本领…确实是…英雄出少年啊。
 
 **安莱夫:** 好吧！既然队长都说是了，我相信队长的判断。
 
@@ -2206,15 +2635,13 @@ Enough! Time to die!
 
 #### 参加作战会议
 
-**安莱夫:** 哦！队长，我们这边安排妥当了就回皮拉米达城和你们会合。
-
 **叶洛亚:** 在会议开始前先正式介绍一下，旅行者和派蒙就是之前提过的，协助取回「银灯芯」的冒险家。
 
-**叶洛亚:** 他们 / 她们将作为我们队伍的成员参与接下来的作战。
+**叶洛亚:** 他们将作为我们队伍的成员参与接下来的作战。 / 她们将作为我们队伍的成员参与接下来的作战。
 
 **派蒙:** 虽然是冒险家，但是和深渊作战我们也很有经验的，一定不会拖后腿的！
 
-请多指教了。
+- **旅行者:** 请多指教了。
 
 **安莱夫:** 我是安莱夫，我就不用多介绍了吧？说起来咱们也算是缘分不浅哪，今后就是战友了。
 
@@ -2272,7 +2699,7 @@ Enough! Time to die!
 
 **派蒙:** 啊？！怎么会这样…
 
-…是狂猎的能力吗？
+- **旅行者:** …是狂猎的能力吗？
 
 **叶洛亚:** 正是。近来各处时有报告摄人心智的狂猎出没，一切的祸端恐怕就起于此地。
 
@@ -2324,11 +2751,11 @@ Enough! Time to die!
 
 **叶洛亚:** 在会议开始前先正式介绍一下，旅行者和派蒙就是之前提过的，协助取回「银灯芯」的冒险家。
 
-**叶洛亚:** 他们 / 她们将作为我们队伍的成员参与接下来的作战。
+**叶洛亚:** 他们将作为我们队伍的成员参与接下来的作战。 / 她们将作为我们队伍的成员参与接下来的作战。
 
 **派蒙:** 虽然是冒险家，但是和深渊作战我们也很有经验的，一定不会拖后腿的！
 
-请多指教了。
+- **旅行者:** 请多指教了。
 
 **安莱夫:** 我是安莱夫，两位居然在这个节骨眼上加入我们执灯人，有志气啊！
 
@@ -2386,7 +2813,7 @@ Enough! Time to die!
 
 **派蒙:** 啊？！怎么会这样…
 
-…是狂猎的能力吗？
+- **旅行者:** …是狂猎的能力吗？
 
 **叶洛亚:** 正是。近来各处时有报告摄人心智的狂猎出没，一切的祸端恐怕就起于此地。
 
@@ -2436,6 +2863,76 @@ Enough! Time to die!
 
 **众人:** 是！
 
+#### 养精蓄锐
+
+**叶洛亚:** 唔…老爷子那边的准备也一切顺利，太好了。
+
+##### 对话分支 1
+
+- **旅行者:** 有什么好消息吗？
+
+**叶洛亚:** 嗯，是从皮拉米达城传来的消息。为了对抗那不死的妖魔，老爷子也做了些准备，他那边进展顺利，现在就看我们的了…
+
+- **旅行者:** 怎么了？有什么让你特别担心的吗？
+
+**叶洛亚:** …啊，没什么。只是在想，我到底还是太不成熟了…
+
+**叶洛亚:** 之前因为不理解老爷子的用心而自顾自地着急，也让你见笑了。
+
+- **旅行者:** 你已经做得很好了。
+
+**叶洛亚:** 谢谢，今后我会更加努力，一定不辜负大家的期望。
+
+##### 对话分支 2
+
+- **旅行者:** 早点休息，为了明天也该养精蓄锐。
+
+**叶洛亚:** 嗯，你也是。
+
+**安莱夫:** 总算等到这一天了…
+
+- **旅行者:** 还不休息吗？
+
+**安莱夫:** 大战当前，哪里睡得着啊！倒是你，正是长身体的时候，早点休息吧，不然小心长不高啊。
+
+**罗洛:** 嗯，应该没什么遗漏的了…怎么了，有什么想问的吗？
+
+##### 对话分支 1
+
+- **旅行者:** 关于三年前的事…
+
+**罗洛:** 对我们中的许多人来说，虽然已经过去三年了，但是那时留下的伤口还是没有愈合。
+
+**罗洛:** 我和哥哥都算是幸运的…我的哥哥就是队长救下的伊瓦尔，我们都活了下来，并且现在也能继续履行执灯士的职责。
+
+**罗洛:** 希望明天一切顺利，这样的话，至少也能告慰过去牺牲的战友吧。
+
+##### 对话分支 2
+
+- **旅行者:** 没什么，打扰你休息了。
+
+**罗洛:** 你也早些休息。
+
+**比约恩:** ♪~
+
+- **旅行者:** 你看起来很放松啊。
+
+**比约恩:** 为了明天的战斗，我已经准备三年了，现在只有期待，哪里还会紧张。
+
+- **旅行者:** 希望明天一切顺利。
+
+**比约恩:** 即便遇到困难我们也会解决的，别担心。
+
+- **旅行者:** （该休息了…）
+
+##### 对话分支 1
+
+- **旅行者:** （现在休息吧。）
+
+##### 对话分支 2
+
+- **旅行者:** （还有些事要做…）
+
 #### 与叶洛亚对话
 
 **叶洛亚:** 我们该准备出发了。弗莱库，按原定计划行事。
@@ -2451,6 +2948,14 @@ Enough! Time to die!
 **安莱夫:** 包在我们身上！
 
 **叶洛亚:** 到时间了，崖上作战正式开始！全员，即刻行动！
+
+#### 前往崖上营地
+
+#### 前往崖上营地
+
+#### 击败魔物
+
+#### 继续前进
 
 #### 排除障碍，继续前进
 
@@ -2474,6 +2979,8 @@ Enough! Time to die!
 
 **叶洛亚:** …？！所有人！准备迎敌！
 
+#### 击败魔物
+
 #### 与派蒙对话
 
 **派蒙:** 怎、怎么回事，不管我们怎么攻击，好像根本伤不到它…
@@ -2494,7 +3001,7 @@ Enough! Time to die!
 
 **来自魔物的声音:** …苟且偷生的办法？
 
-是送你下地狱的办法！
+- **旅行者:** 是送你下地狱的办法！
 
 **来自魔物的声音:** 哈哈…那还真是…真是叫人期待啊…
 
@@ -2526,33 +3033,15 @@ Enough! Time to die!
 
 **罗洛:** 你这么想就正中它的下怀了，冷静下来吧。
 
-应该由我们掌控战局的主动权。
+- **旅行者:** 应该由我们掌控战局的主动权。
 
 **叶洛亚:** 旅行者说得对，不能跟着敌人的步调走，我们必须掌握主动，按我们自己的计划推进。
 
 **叶洛亚:** 继续前进吧！
 
+#### 继续前进
+
 #### 重建结界
-
-**叶洛亚:** 唔…老爷子那边的准备也一切顺利，太好了。
-
-- **旅行者:** 有什么好消息吗？
-
-- **旅行者:** 早点休息，为了明天也该养精蓄锐。
-
-**叶洛亚:** 嗯，是从皮拉米达城传来的消息。为了对抗那不死的妖魔，老爷子也做了些准备，他那边进展顺利，现在就看我们的了…
-
-怎么了？有什么让你特别担心的吗？
-
-**叶洛亚:** …啊，没什么。只是在想，我到底还是太不成熟了…
-
-**叶洛亚:** 之前因为不理解老爷子的用心而自顾自地着急，也让你见笑了。
-
-你已经做得很好了。
-
-**叶洛亚:** 谢谢，今后我会更加努力，一定不辜负大家的期望。
-
-**叶洛亚:** 嗯，你也是。
 
 #### 与队友商量对策
 
@@ -2568,7 +3057,7 @@ Enough! Time to die!
 
 **安莱夫:** 我说老弟，你这是什么丧气话！什么狗屁魔物，来多少我打退多少！
 
-但在这里硬撑也不是个事…
+- **旅行者:** 但在这里硬撑也不是个事…
 
 **派蒙:** 难道真的一点办法也没有了吗…
 
@@ -2608,7 +3097,7 @@ Enough! Time to die!
 
 **叶洛亚:** 你们对这个安排有异议吗？这是非常危险的任务，如果你们不愿意的话…
 
-何必多此一问，我当然愿意，队长。
+- **旅行者:** 何必多此一问，我当然愿意，队长。
 
 **派蒙:** 这任务最适合我们了！我们一定会保护好叶洛亚还有「银灯芯」的！
 
@@ -2626,17 +3115,9 @@ Enough! Time to die!
 
 #### 激活三处苍林之穗
 
-**罗洛:** 队长，旅行者，你们怎么过来了？这里没什么需要留意的，我们收拾完就回皮拉米达城。
+#### 激活三处苍林之穗
 
-
-**安莱夫:** 总算等到这一天了…
-
-还不休息吗？
-
-**安莱夫:** 大战当前，哪里睡得着啊！倒是你，正是长身体的时候，早点休息吧，不然小心长不高啊。
-
-
-苍林之穗与「银灯芯」共鸣，迸发出强大的月矩力…
+#### 激活三处苍林之穗
 
 #### 排除障碍，继续前进
 
@@ -2674,9 +3155,13 @@ Enough! Time to die!
 
 **派蒙:** 叶洛亚！别听它胡说八道！
 
-少废话，纳命来！
+- **旅行者:** 少废话，纳命来！
 
 **叶洛亚:** …旅行者！我们速战速决！
+
+#### 击败魔物
+
+#### 击败魔物
 
 #### 查看阵地的情况
 
@@ -2730,39 +3215,27 @@ Enough! Time to die!
 
 **派蒙:** 叶洛亚…
 
+##### 对话分支 1
+
 - **旅行者:** 就算为了比约恩，我们也得向前。
+
+##### 对话分支 2
 
 - **旅行者:** 我们一定能打败敌人，取得胜利。
 
+##### 共同后续
+
 **叶洛亚:** …嗯，继续前进吧！
+
+#### 激活苍林之穗
 
 #### 激活最后一处苍林之穗
 
-**罗洛:** 嗯，应该没什么遗漏的了…怎么了，有什么想问的吗？
-
-- **旅行者:** 关于三年前的事…
-
-- **旅行者:** 没什么，打扰你休息了。
-
-**罗洛:** 对我们中的许多人来说，虽然已经过去三年了，但是那时留下的伤口还是没有愈合。
-
-**罗洛:** 我和哥哥都算是幸运的…我的哥哥就是队长救下的伊瓦尔，我们都活了下来，并且现在也能继续履行执灯士的职责。
-
-**罗洛:** 希望明天一切顺利，这样的话，至少也能告慰过去牺牲的战友吧。
-
-**罗洛:** 你也早些休息。
+#### 击溃魔眼
 
 #### 击溃魔眼
 
-**比约恩:** ♪~
-
-你看起来很放松啊。
-
-**比约恩:** 为了明天的战斗，我已经准备三年了，现在只有期待，哪里还会紧张。
-
-希望明天一切顺利。
-
-**比约恩:** 即便遇到困难我们也会解决的，别担心。
+#### 击溃魔眼
 
 #### 与队友商量对策
 
@@ -2792,7 +3265,7 @@ Enough! Time to die!
 
 **叶洛亚:** …他在保卫阵地时，被魔眼的攻击给…
 
-他伤得太重，尽管全力救治，还是…
+- **旅行者:** 他伤得太重，尽管全力救治，还是…
 
 **安莱夫:** …怎么可能？怎么会这样？！
 
@@ -2812,7 +3285,7 @@ Enough! Time to die!
 
 **叶洛亚:** ……
 
-叶洛亚，你没事吧？
+- **旅行者:** 叶洛亚，你没事吧？
 
 **叶洛亚:** 我…我没事。
 
@@ -2824,7 +3297,7 @@ Enough! Time to die!
 
 **安莱夫:** …队长！我不是这个意思，只是我…唉！
 
-这不是你一个人的责任。
+- **旅行者:** 这不是你一个人的责任。
 
 **派蒙:** 是呀，我们所有人…我们应该所有人一起承担！
 
@@ -2870,7 +3343,13 @@ Enough! Time to die!
 
 #### 前往战场…
 
+#### 前往战场…
+
 **叶洛亚:** （雾越来越重了…渐渐快要看不清前方的路了…）
+
+#### 前进…
+
+#### 前往战场…
 
 #### 手刃仇敌
 
@@ -2893,6 +3372,8 @@ Enough! Time to die!
 **「靡穷之孽」:** …就像你一样啊…小鸡仔…嘻嘻…
 
 **叶洛亚:** 闭上你的狗嘴，受死吧！
+
+#### 击败魔物
 
 #### 手刃仇敌
 
@@ -2928,7 +3409,7 @@ Enough! Time to die!
 
 **罗洛:** 有话待会儿再说，先集中精力应对敌人。
 
-队长，下命令吧！
+- **旅行者:** 队长，下命令吧！
 
 **叶洛亚:** 你们…
 
@@ -2944,12 +3425,6 @@ Enough! Time to die!
 
 #### 修复封印
 
-（该休息了…）
-
-- **旅行者:** （现在休息吧。）
-
-- **旅行者:** （还有些事要做…）
-
 #### 击败「靡穷之孽」
 
 **「靡穷之孽」:** 呵呵…这种程度的封印能奈我何…
@@ -2961,6 +3436,8 @@ Enough! Time to die!
 **罗洛:** …队长！小心那怪物！
 
 **叶洛亚:** 魔物！你会付出代价的！
+
+#### 击败「靡穷之孽」
 
 #### 与队友对话
 
@@ -2988,6 +3465,8 @@ Enough! Time to die!
 
 #### 与队友对话
 
+#### 与队友对话
+
 **派蒙:** 总算是…消灭掉它了吧？
 
 **罗洛:** 看起来是的，甚至没留下任何痕迹。
@@ -3002,11 +3481,17 @@ Enough! Time to die!
 
 **安莱夫:** 好了！队长，你可以处罚我了。
 
+##### 对话分支 1
+
 - **旅行者:** 罚我吧，他不打我也会打。
+
+##### 对话分支 2
 
 - **旅行者:** 打人还是有点太过了…
 
 **派蒙:** 是这样没错…但是，也不是不能理解安莱夫的心情，这次的确是叶洛亚太过分了！
+
+##### 共同后续
 
 **叶洛亚:** 不…我不会处罚你的，你是对的。
 
@@ -3028,7 +3513,7 @@ Enough! Time to die!
 
 **叶洛亚:** ……
 
-看来相信他人也需要勇气。
+- **旅行者:** 看来相信他人也需要勇气。
 
 **叶洛亚:** 旅行者…
 
@@ -3054,37 +3539,143 @@ Enough! Time to die!
 
 **叶洛亚:** …说回正题，我会和旅行者、派蒙先行一步返回皮拉米达城向老爷子报告情况。
 
-**派蒙:** 呜哇…厄布拉神柱的方向看起来很不妙的样子…
-
 **叶洛亚:** 你们向地面驻守的战友们传递消息后，也尽快返回皮拉米达城，加入后续的作战。
 
 **罗洛:** 交给我们吧。
 
 **安莱夫:** 管它什么「教授」、「学生」的，是时候让它知道一下我们执灯人的厉害了！
 
+**派蒙:** 呜哇…厄布拉神柱的方向看起来很不妙的样子…
+
 #### 与叶洛亚对话
+
+#### 与叶洛亚对话
+
+**叶洛亚:** 刚才那怪物提到「『教授』已经启程」，恐怕那不死的妖魔已经将爪牙伸向了厄布拉神柱…
 
 **派蒙:** 爱莉厄小姐…她不会有事吧…
 
-现在只有相信她了。
+- **旅行者:** 现在只有相信她了。
 
 **叶洛亚:** 嗯，相信她，并且珍惜她为我们抢下的每一分、每一秒吧。
 
 **叶洛亚:** 完成我们的使命，就是对她最大的回报了。
 
-**叶洛亚:** 刚才那怪物提到「『教授』已经启程」，恐怕那不死的妖魔已经将爪牙伸向了厄布拉神柱…
+**安莱夫:** 哦！队长，我们这边安排妥当了就回皮拉米达城和你们会合。
+
+**罗洛:** 队长，旅行者，你们怎么过来了？这里没什么需要留意的，我们收拾完就回皮拉米达城。
+
+苍林之穗与「银灯芯」共鸣，迸发出强大的月矩力…
+
+**派蒙:** 呜哇…厄布拉神柱的方向看起来很不妙的样子…
 
 ### 古老的阵眼·其一
 
 寻找并激活苍林之穗…
 
+#### 前往战场腹地的营地
+
+#### 击败魔物
+
+#### 激活苍林之穗
+
 ### 古老的阵眼·其二
 
 寻找并激活苍林之穗…
 
+#### 前往战场西侧的阵地
+
+#### 解放并激活苍林之穗
+
 ### 古老的阵眼·其三
 
 寻找并激活苍林之穗…
+
+#### 前往战场南侧的阵地
+
+#### 前往战场南侧的阵地查看
+
+#### 排除障碍，继续前进
+
+**叶洛亚:** 别挡道，滚开！
+
+**来自魔物的声音:** 嘻嘻…你急什么…
+
+**来自魔物的声音:** 反正你们…迟早都得死…不过是…有人要提早上路了…
+
+**来自魔物的声音:** 他不是抱怨…三年前自己没死成么…现在…我就成全他…
+
+**叶洛亚:** …比约恩？你把他怎么了？！
+
+**来自魔物的声音:** 是他太弱了…弱者…废物…虫豸…
+
+**来自魔物的声音:** …会死难道不是理所应当么？
+
+**叶洛亚:** 不准你侮辱他！他一点也不弱！
+
+**来自魔物的声音:** 哦…在你看来…他是强者…
+
+**来自魔物的声音:** 可是…可是强者就不会死么…
+
+**来自魔物的声音:** 我还以为…你心里清楚得很哪…
+
+**来自魔物的声音:** 那些比你强的人…不都死掉了么…不管是三年前…还是十年前…
+
+**叶洛亚:** …闭上你的狗嘴！
+
+**来自魔物的声音:** 是啊…原来弱小的…就只有你而已啊…
+
+**来自魔物的声音:** 要不然为什么…每次…每次活下来的都只有你？
+
+**来自魔物的声音:** …是你从战场逃跑了吧？苟且偷生的胆小鬼…
+
+**派蒙:** 叶洛亚！别听它胡说八道！
+
+- **旅行者:** 少废话，纳命来！
+
+**叶洛亚:** …旅行者！我们速战速决！
+
+**叶洛亚:** 别挡道，滚开！
+
+**来自魔物的声音:** 嘻嘻…你急什么…
+
+**来自魔物的声音:** 反正你们…迟早都得死…不过是…有人要提早上路了…
+
+**来自魔物的声音:** 他不是抱怨…三年前自己没死成么…现在…我就成全他…
+
+**叶洛亚:** …比约恩？你把他怎么了？！
+
+**来自魔物的声音:** 是他太弱了…弱者…废物…虫豸…
+
+**来自魔物的声音:** …会死难道不是理所应当么？
+
+**叶洛亚:** 不准你侮辱他！他一点也不弱！
+
+**来自魔物的声音:** 哦…在你看来…他是强者…
+
+**来自魔物的声音:** 可是…可是强者就不会死么…
+
+**来自魔物的声音:** 我还以为…你心里清楚得很哪…
+
+**来自魔物的声音:** 那些比你强的人…不都死掉了么…不管是三年前…还是十年前…
+
+**叶洛亚:** …闭上你的狗嘴！
+
+**来自魔物的声音:** 是啊…原来弱小的…就只有你而已啊…
+
+**来自魔物的声音:** 要不然为什么…每次…每次活下来的都只有你？
+
+**来自魔物的声音:** …是你从战场逃跑了吧？苟且偷生的胆小鬼…
+
+**派蒙:** 叶洛亚！别听它胡说八道！
+
+- **旅行者:** 少废话，纳命来！
+
+**叶洛亚:** …旅行者！我们速战速决！
+
+#### 击败魔物
+
+#### 击败魔物
 
 #### 前往战场南侧的阵地查看
 
@@ -3138,48 +3729,78 @@ Enough! Time to die!
 
 **派蒙:** 叶洛亚…
 
+##### 对话分支 1
+
 - **旅行者:** 就算为了比约恩，我们也得向前。
+
+##### 对话分支 2
 
 - **旅行者:** 我们一定能打败敌人，取得胜利。
 
+##### 共同后续
+
 **叶洛亚:** …嗯，继续前进吧！
 
-#### 排除障碍，继续前进
+**叶洛亚:** …比约恩怎么样了？
 
-**叶洛亚:** 别挡道，滚开！
+**伊捷莉:** …伤得很重。攻击来得太突然了，他为了保护我们…呜…
 
-**来自魔物的声音:** 嘻嘻…你急什么…
+**伊捷莉:** …战场环境太危险，他也经不起转移的颠簸了，我们只能就地进行紧急处理，但以我们现有的能力，实在是…
 
-**来自魔物的声音:** 反正你们…迟早都得死…不过是…有人要提早上路了…
+**比约恩:** …队长…
 
-**来自魔物的声音:** 他不是抱怨…三年前自己没死成么…现在…我就成全他…
+**叶洛亚:** 比约恩！
 
-**叶洛亚:** …比约恩？你把他怎么了？！
+**比约恩:** …对不起…我没能完成任务…
 
-**来自魔物的声音:** 是他太弱了…弱者…废物…虫豸…
+**叶洛亚:** 你完成得很好！阵地守住了，大家也都平安无事…
 
-**来自魔物的声音:** …会死难道不是理所应当么？
+**比约恩:** 是吗…原来我做到了…太好了…
 
-**叶洛亚:** 不准你侮辱他！他一点也不弱！
+**叶洛亚:** 别说话了，先专心养伤。
 
-**来自魔物的声音:** 哦…在你看来…他是强者…
+**比约恩:** 现在不说…以后就没机会了…
 
-**来自魔物的声音:** 可是…可是强者就不会死么…
+**叶洛亚:** …这是队长命令！我不许你再说这种话！你会没事的…一定会没事的…
 
-**来自魔物的声音:** 我还以为…你心里清楚得很哪…
+**比约恩:** 呵…好…遵命…我不会再说了…
 
-**来自魔物的声音:** 那些比你强的人…不都死掉了么…不管是三年前…还是十年前…
+**比约恩:** 不过…等我见到维德…也算能够交代了…
 
-**叶洛亚:** …闭上你的狗嘴！
+**比约恩:** 他以前常说…我们执灯人就像冬凌草…
 
-**来自魔物的声音:** 是啊…原来弱小的…就只有你而已啊…
+**比约恩:** 面对狂猎…我们每个人都很脆弱…就像冬凌草的花一样…会轻易凋落…
 
-**来自魔物的声音:** 要不然为什么…每次…每次活下来的都只有你？
+**比约恩:** 但是…只要叶片还在…只要根还牢牢扎在泥土里…
 
-**来自魔物的声音:** …是你从战场逃跑了吧？苟且偷生的胆小鬼…
+**比约恩:** 到了下一季…再下一季…总会有新的花朵绽放…
 
-**派蒙:** 叶洛亚！别听它胡说八道！
+**比约恩:** 我们是不会失败的…对吧…队长…
 
-少废话，纳命来！
+**叶洛亚:** …嗯！我们绝不会失败！我一定会亲手、彻底将那魔物葬送！
 
-**叶洛亚:** …旅行者！我们速战速决！
+**比约恩:** …你是我们之中最强的…我相信你…队长…
+
+**叶洛亚:** …放心吧，比约恩，我一定遵守约定。你该休息了…等你伤养好了，一切都会好的…
+
+**比约恩:** ……
+
+**叶洛亚:** ……
+
+**叶洛亚:** …旅行者，派蒙，我们该走了。任务还没结束，我们不能在这里耽搁了。
+
+**派蒙:** 叶洛亚…
+
+##### 对话分支 1
+
+- **旅行者:** 就算为了比约恩，我们也得向前。
+
+##### 对话分支 2
+
+- **旅行者:** 我们一定能打败敌人，取得胜利。
+
+##### 共同后续
+
+**叶洛亚:** …嗯，继续前进吧！
+
+#### 激活苍林之穗

@@ -289,3 +289,863 @@ Barbara received her Vision for the simple but beautiful wish that took hold in 
 翌日清晨她醒来，发觉孩子的烧已经退了。也许是因为她的歌声，也许是因为不知何时落在她手边的「神之眼」。
 但芭芭拉并没有把注意力放在这件事上。看着孩子的笑靥，她真心地感到快乐。
 「用歌声治愈所有人」——芭芭拉的神之眼，就诞生于这样单纯而温柔的梦想。
+
+# voice_source_ids: 6100,6101,6102,6103,6104,6105,6106,6107,6108,6109,6110,6111,6112,6113,6114,6115,6116,6117,6118,6119,6120,6121,6122,6123,6124,6125,6126,6127,6128,6129,6130,6131,6132,6133,6134,6135,6136,6137,6138,6139,6140,6141,6142,6143,6144,6145,6146,6147,6148,6149,6150,6151,6152,6153,6154,6155,6156,6157,6158,6159,6160,6161,6162,6163,6164,6165,6166,6167,6168,6169,6170
+
+## REPLICAS_RU
+
+### Привет...
+
+Та-да! А вот и Барбара! Оставь лечение мне, я тебя не подведу!
+
+### Поболтаем: Сон
+
+*Зевает* Если мы будем и дальше так стоять, то я усну...
+
+### Поболтаем: Энергичность
+
+Все работают не покладая рук, нам тоже не следует лениться!
+
+### Поболтаем: Секрет бодрости
+
+Совсем устал? Попробуй мой новый пряный напиток, он сразу поднимет тебя на ноги! / Совсем устала? Попробуй мой новый пряный напиток, он сразу поднимет тебя на ноги!
+
+### Когда идёт дождь...
+
+Не стой долго под дождём, а то простудишься!
+
+### Когда гремит гром...
+
+Ай!
+
+### Когда идёт снег...
+
+Ох, снежинки! Посмотри, как они танцуют!
+
+### Когда светит солнце...
+
+Погода такая замечательная! Мне хочется петь!
+
+### Когда дует сильный ветер...
+
+Не бойся, меня не сдует!
+
+### Доброе утро...
+
+Доброе утро! Давай сегодня всё сделаем на отлично.
+
+### Добрый день...
+
+Что? Ты хочешь послушать, как я пою? Прости, но... шоу ещё не началось.
+
+### Добрый вечер...
+
+Я очень хочу поесть острого кальмара в «Хорошем охотнике», но мой желудок... Эм, не обращай внимания...
+
+### Спокойной ночи...
+
+У нас сегодня был отличный день! А теперь хорошенько отдохни.
+
+### О Барбаре...
+
+«Взываю к направляющим нас ветрам, дайте мне сил встать и двигаться дальше, когда я паду. Даруй мне мудрость отличить зло от добра, когда я потеряю свой путь. Даруй мне храбрость, когда я столкнусь с несправедливостью...» Ох, прости, я просто молилась. Тебе что-нибудь нужно?
+
+### О нас: Надежды
+
+Я мечтаю подарить улыбку всем окружающим! Я очень рада, что могу быть полезной в твоём путешествии.
+
+### О нас: Мечты
+
+Спасибо, что ты всё это время был со мной. Я чувствую, что становлюсь ближе к своей мечте. Надеюсь, это не изменится и в будущем! / Спасибо, что ты всё это время была со мной. Я чувствую, что становлюсь ближе к своей мечте. Надеюсь, это не изменится и в будущем!
+
+### Глаз Бога...
+
+У каждого есть свои желания. Объединить и исполнить эти желания, и сделать всех счастливыми - такую цель мне даровал мой Архонт.
+
+### Давай поделимся...
+
+Мне никогда не надоест любоваться захватывающей природой, окружающей Мондштадт. Но я слышала, что на берегу моря недалеко от Инадзумы растут голубые деревья. Мне просто нужно накопить ещё немного, и... Что? Хочешь знать, на что я коплю? Хе-хе, это мой маленький секретик.
+
+### Интересные вещи...
+
+Подсолнухи такие яркие, и они всегда обращены к солнцу. Кстати, моя мама прислала мне платье с подсолнухами... Интересно, когда выпадет возможность надеть его на выступление?
+
+### О Джинн...
+
+Действующий магистр... Лидер Ордо Фавониус... Она всем очень нравится. Что? Как к ней отношусь я? Ну... Конечно, я ей только восхищаюсь!
+
+### О Лизе...
+
+Я всегда хорошо забочусь о Лизе. Если она когда-нибудь захочет стать звездой, то она может рассчитывать на мою безоговорочную поддержку. Я буду болеть за неё изо всех сил, пока не охрипну... Хм, хотя это может отпугнуть других её поклонников...
+
+### Об Эмбер...
+
+Я много раз наблюдала, как Эмбер сломя голову бежит из города на задание. Наверное, работа скаута не из лёгких.
+
+### О Дилюке...
+
+Господин Дилюк? В последний раз, когда я выступала в «Доле ангелов», он весь вечер хмурился... Может быть, ему не нравится, как я пою?
+
+### О Венти...
+
+У Венти великолепный голос, но песни, которые поёт он, и которые умею петь я, сильно отличаются. Я пыталась выучить хотя бы одну, но... у его песен очень сложные мелодии.
+
+### О Беннете...
+
+Я постоянно вижу Беннета в соборе, покрытого шрамами и синяками... Но судя по его широкой улыбке, они его не сильно волнуют. Но всё равно, ему нужно быть осторожнее.
+
+### О Варке...
+
+Мой отец уехал в экспедицию вместе с магистром Варкой... Надеюсь, с ними всё в порядке. Ох, о чём я беспокоюсь? Магистр ордена - не кто иной, как Рыцарь Бореалис! Конечно, с ними всё будет хорошо! Но, как бы то ни было, я обязательно буду молиться об их благополучном возвращении.
+
+### О Розарии...
+
+С сестрой Розарией сложно сблизиться, особенно учитывая то, что она редко присоединяется к молитве... Но я уверена, что она верит в Анемо Архонта! Хотя у меня так и не хватает смелости заговорить с ней...
+
+### О Ноэлль...
+
+Ноэлль просто милашка! Она так добра и терпелива. Находясь с ней рядом, ты можешь почувствовать себя очень беззаботно... Ах да! Ещё она умеет готовить вкуснейшие сладости! А самое главное - они все не вредны для здоровья! Хи-хи!
+
+### Узнать больше о Барбаре I
+
+Рыцари выглядят безумно красиво, когда они машут своими мечами на поле боя! Правда же? Я тоже как-то раз пробовала помахать мечом... Ох, давай просто скажем, что за меч мне лучше не браться.
+
+### Узнать больше о Барбаре II
+
+Я хочу вылечить всех. Этой простой цели хватило для того, чтобы я стала пастором. Я довольна, пока мне удаётся помогать другим.
+
+### Узнать больше о Барбаре III
+
+Будучи идолом, я научилась одной вещи у Алисы: «Настоящий идол должен исцелять души людей...» Я совершенно с этим согласна!
+
+### Узнать больше о Барбаре IV
+
+Я каждый день стараюсь изо всех сил... Надеюсь, что мои старания заслужат доверие жителей Мондштадта.
+
+### Узнать больше о Барбаре V
+
+Каждый раз выходя на сцену, я начинаю сомневаться в себе. Получится ли у меня исцелить всех людей в Мондштадте? Но сейчас я смотрю на тебя и чувствую, что, пока мы продолжаем идти вперёд, может быть, однажды я смогу... Что? Я уже вылечила тебя? Что ж, одного раза мало! Говоришь, я уже многих вылечила? Возможно...
+
+### Хобби Барбары...
+
+Улыбки на лицах людей, которым я помогаю, заставляют меня идти вперёд.
+
+### Беспокойство Барбары...
+
+Мои товарищи то и дело получают раны, но я не могу разделить бремя их боли. Единственное, что я могу сделать, это как можно лучше залечить их ранения! Я позабочусь о том, чтобы все были здоровы.
+
+### Любимая еда...
+
+Тебе нравится острая сушёная рыба? У меня с собой есть две рыбки... Вот, держи одну!
+
+### Нелюбимая еда...
+
+Я не люблю горькое, особенно... горькую тыкву.
+
+### День рождения...
+
+Держи! Это подарок на твой день рождения с моим эксклюзивным автографом! Хе-хе, когда выйдет моя следующая песня, я позабочусь о том, чтобы ты её услышал первым! С днём рождения! / Держи! Это подарок на твой день рождения с моим эксклюзивным автографом! Хе-хе, когда выйдет моя следующая песня, я позабочусь о том, чтобы ты её услышала первой! С днём рождения!
+
+### Чувство возвышения: Начало
+
+Танец Барбары зарядит тебя здоровьем!
+
+### Чувство возвышения: Нарастание
+
+Ой, большое спасибо тебе за твою поддержку! О нет, я слишком взволнована, моё сердце стучит так громко!
+
+### Чувство возвышения: Кульминация
+
+Прошу, скажи мне, как стать сильнее! Просто предоставить это тебе? Нет, нет, так не пойдёт! Я тоже хочу помочь!
+
+### Чувство возвышения: Окончание
+
+Путешествуя с тобой, я осознала, что моя сцена - это весь мир! Большое тебе спасибо! Хи-хи, хорошо! Давай крикнем это ещё раз. Три, два, один, Барбара - вперёд!
+
+### Элементальный навык I
+
+Вы все под моей защитой!
+
+### Элементальный навык II
+
+Потанцуем!
+
+### Элементальный навык III
+
+Да начнётся шоу!
+
+### Взрыв стихии I
+
+♪М-ммм-ммм-ммм...
+
+### Взрыв стихии II
+
+На старт, внимание, марш!
+
+### Взрыв стихии III
+
+Смелее, мы сможем!
+
+### Начало спринта I
+
+Давай, Барбара, давай!
+
+### Конец спринта I
+
+*тяжело дышит* Со мной всё в порядке!
+
+### Конец спринта II
+
+Продолжаем...
+
+### Открытие сундука I
+
+О такой неожиданности я могла бы спеть.
+
+### Открытие сундука II
+
+Посмотри, как сверкает!
+
+### Открытие сундука III
+
+Хм-хм-хм ♪ Сегодня удачный день!
+
+### Низкий уровень HP I
+
+Обо мне не беспокойся!
+
+### Низкий уровень HP II
+
+Я не могу остановиться сейчас! Как они без меня?
+
+### Низкий уровень HP III
+
+Сдаваться нельзя!
+
+### Низкий уровень HP компаньона I
+
+Не хочу, чтобы тебе было больно...
+
+### Низкий уровень HP компаньона II
+
+Пожалуйста, позволь обработать твои раны!
+
+### Без сознания I
+
+Мне как-то... нехорошо...
+
+### Без сознания II
+
+Почему все перестали петь?
+
+### Без сознания III
+
+Сестра...
+
+### Получен лёгкий удар I
+
+Ой...
+
+### Получен тяжёлый удар I
+
+О не-е-ет!
+
+### Присоединяется к группе I
+
+Я позабочусь об этом.
+
+### Присоединяется к группе II
+
+Пожелай мне удачи!
+
+### Присоединяется к группе III
+
+Мы сможем!
+
+### Подарок I
+
+Отведать блюдо, которое приходится мне по вкусу - удовольствие редкое. Сегодня мой счастливый день!
+
+### Подарок II
+
+Спасибо, что приготовил это специально для меня. В этот раз ты помогаешь мне исцелиться! / Спасибо, что приготовила это специально для меня. В этот раз ты помогаешь мне исцелиться!
+
+### Подарок III
+
+Ой-ой...
+
+### О Далии...
+
+Я искренне восхищаюсь Далией. Он несёт нам слово Барбатоса, и его речи неизменно приносят облегчение. Но он редко задерживается в соборе, предпочитая шумные рынки и таверны. Иногда его бывает очень трудно найти... как и сестру Розарию.
+
+## REPLICAS_EN
+
+### Hello
+
+Tada! *giggles* Barbara is here~ Leave the healing to me, I will not disappoint you!
+
+### Chat: Sleepiness
+
+*yawn* All this standing around is making me so sleepy...
+
+### Chat: Encouragement
+
+Everyone is working super hard, we should be too!
+
+### Chat: Keeping One Refreshed
+
+Are you tired? Try my new spicy energy drink, I'm sure it'll wake you up!
+
+### When It Rains
+
+Don't stay out in the rain for too long, you'll catch a cold!
+
+### When Thunder Strikes
+
+Whoa!
+
+### When It Snows
+
+Ooh, snowflakes! Look at them dance!
+
+### When the Sun Is Out
+
+This weather is so amazing! I could burst into song.
+
+### When the Wind Is Blowing
+
+Don't worry! I will not... be blown away!
+
+### Good Morning
+
+Morning~ Let's do our best today.
+
+### Good Afternoon
+
+Oh? You want to hear me sing...? Sorry, the show is... It hasn't started yet.
+
+### Good Evening
+
+I really want to eat some spicy squid at Good Hunter... but my stomach, er... Never mind...
+
+### Good Night
+
+We had a great day today! Get some rest.
+
+### About Barbara
+
+"To the wind that guides me: When I'm exhausted, bless me with the strength to keep going forward. When I'm uncertain, bless me with the wisdom to distinguish good from evil. When I suffer from injustice, bless me with the courage to fight back..." ...Oops, my apologies, I was just doing my prayers. *giggles* You need something?
+
+### About Us: Hopes
+
+My dream is to bring a smile to the faces of all the people in my life! As long as I can help you on your journey, I'm happy~
+
+### About Us: Dreams
+
+Thank you for being with me for all this time, I can feel that I'm getting closer to my dream. Hope we can keep this up in the future~!
+
+### About the Vision
+
+Everyone has their own desires. To bring together and fulfill those desires and make everyone happy — that is the purpose my Archon has bestowed upon me.
+
+### Something to Share
+
+I could never get bored of the breathtakingly beautiful nature that surrounds Mondstadt. I've heard that there are blue trees that exist by the sea shore near Inazuma City. I just need to save up a little more, and... What's that? You want to know what I'm saving up for? *chuckles* That's my little secret.
+
+### Interesting Things
+
+Sunflowers always face the sun. They're so bright. In fact, my mother sent me a sunflower-style dress... I wonder when I'll finally get to wear it on stage?
+
+### About Jean
+
+Acting Grand Master... Leader of the Knights of Favonius... Everyone seems to like her a lot. Oh? Me? I... Of course I have nothing but admiration for her!
+
+### About Lisa
+
+I always take good care of Lisa. If she ever wants to become a star, she'll have my unconditional support, I'll cheer at the top of my lungs until my voice goes hoarse... Hmm, that might scare off her other fans though...
+
+### About Amber
+
+I've seen Amber rushing out of Mondstadt on a mission countless times. Being an Outrider doesn't look easy.
+
+### About Diluc
+
+Oh, Master Diluc? Last time, when I was performing at Angel's Share, he kept frowning... Maybe he doesn't like my singing?
+
+### About Venti
+
+Venti's voice is amazing! But all the songs he sings and the ones I'm good at are very different. I tried to learn them but... the melodies are just so complicated.
+
+### About Bennett
+
+Bennett always comes to the cathedral covered in scrapes and bruises... Though it clearly never bothers him a bit, given the big grin he always has on his face. He really should take better care of himself.
+
+### About Varka
+
+My father left on the expedition with Grand Master Varka... I hope they are okay. Oh, what am I worried about? The Grand Master is none other than the Knight of Boreas, of course they will be fine! Still, I will be sure to pray for their safe return.
+
+### About Rosaria
+
+Sister Rosaria is hard to get to know, especially given she never joins in on prayers, but... Oh, I'm sure she believes in the Anemo Archon! Although, I still don't really have the courage to try to talk to her...
+
+### About Noelle
+
+Noelle is just the cutest! She's so kind and patient, you just feel totally relaxed when you're around her. ...Oh yeah, and she makes the tastiest snacks! Best part is, they're also healthy. Hehehe!
+
+### More About Barbara: I
+
+Knights look so cool when they swing their sword in combat! Don't you think so? I tried using a sword before but... *sigh* Uh, let's just say I have zero talent with a sword.
+
+### More About Barbara: II
+
+I want to heal everyone. This simple thought was all the motivation I needed to become a Deaconess. As long as I'm able to help everyone, I'll be content.
+
+### More About Barbara: III
+
+Being an idol, I learned from Alice that "A true idol should always try to heal the soul of the people..." Yes, I completely agree.
+
+### More About Barbara: IV
+
+I'm doing my best everyday... I hope my efforts earn the trust of the people of Mondstadt.
+
+### More About Barbara: V
+
+Every time I get on stage I always start to doubt myself — can I really heal every person in Mondstadt? But I look at you now, and I feel that as long as we keep marching forward, maybe one day I might just— Huh? I've already healed you? Well, one's not enough! I've already healed a lot of people? I suppose...
+
+### Barbara's Hobbies
+
+The smiles on the faces of the people I've helped keeps me going.
+
+### Barbara's Troubles
+
+My companions keep getting injured, but I'm unable to share the burden of their pain. The only thing I can do is my absolute very best to heal their wounds! I'll make sure that everyone is healthy.
+
+### Favorite Food
+
+Do you like spicy dried fish? I have two in my bag. Here, have one!
+
+### Least Favorite Food
+
+I don't like anything bitter, especially... ugh, bitter gourd.
+
+### Birthday
+
+Here you go! This is the gift I got for your birthday, along with my exclusive autograph! Hehe, when my next song comes out, I'll make sure you're the first one to hear it! Happy birthday!
+
+### Feelings About Ascension: Intro
+
+A dance from Barbara, to bring you more healing!
+
+### Feelings About Ascension: Building Up
+
+Aw, thank you so much for your support! Oh no, I'm too excited, my heart just can't stop racing!
+
+### Feelings About Ascension: Climax
+
+Please, tell me how I can be stronger! Just leave it up to you? No, no, that won't do! I want to help too!
+
+### Feelings About Ascension: Conclusion
+
+Traveling with you, I have discovered that the world is my stage! Thank you so much! *giggles* Ok! Let's shout it out one more time! Three, two, one — Go Barbara, go!
+
+### Elemental Skill: I
+
+I'll protect us!
+
+### Elemental Skill: II
+
+Let's dance!
+
+### Elemental Skill: III
+
+Let the show begin!
+
+### Elemental Burst: I
+
+♪La la-la-la-la~
+
+### Elemental Burst: II
+
+Ready, steady, go!
+
+### Elemental Burst: III
+
+Come on, we can do it!
+
+### Sprint Start: I
+
+Go Barbara, go!
+
+### Sprint End: I
+
+*pant*... I'm fine!
+
+### Sprint End: II
+
+*pant* Keep going...
+
+### Opening Treasure Chest: I
+
+This is the kind of surprise I could sing about.
+
+### Opening Treasure Chest: II
+
+Oh, look at it sparkle!
+
+### Opening Treasure Chest: III
+
+Hmm hmm hmm♪ Things are going so smoothly today~
+
+### Low HP: I
+
+Don't worry about me!
+
+### Low HP: II
+
+I can't stop now, they need me!
+
+### Low HP: III
+
+Gotta keep trying!
+
+### Ally at Low HP: I
+
+I don't want to see you hurt...
+
+### Ally at Low HP: II
+
+Please, let me tend to your wounds!
+
+### Fallen: I
+
+I feel... a little weak...
+
+### Fallen: II
+
+Why has everyone stopped singing?
+
+### Fallen: III
+
+Sister...
+
+### Light Hit Taken: I
+
+Ouchie!
+
+### Heavy Hit Taken: I
+
+Oh no!
+
+### Joining Party: I
+
+I'll take care of it.
+
+### Joining Party: II
+
+Wish me luck!
+
+### Joining Party: III
+
+We can do this!
+
+### Receiving a Gift: I
+
+It's a rare pleasure to eat food that suits my tastes so well. Today is a blessed day! Hehehe.
+
+### Receiving a Gift: II
+
+Thank you for cooking these for me. This time around, you are the one healing me!
+
+### Receiving a Gift: III
+
+Oh, uh, oh dear...
+
+### About Dahlia
+
+I really look up to Dahlia. We rely on him to share the word of Barbatos, and it's always a great help to us all. He never sticks around long at the Cathedral, though. Maybe it's too quiet for him? He seems to love the markets and the taverns. And he can be hard to find sometimes... same as Rosaria.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+芭芭拉，闪耀登场~治疗就交给我吧，不会让你失望的！
+
+### 闲聊·犯困
+
+再这样站下去，会…想睡觉的…
+
+### 闲聊·激励
+
+大家应该都在努力着，那我们也不能偷懒，对吧？
+
+### 闲聊·提神秘诀
+
+欸，是没精神了吗？尝一尝我做的辣味饮料吧，很提神的喔！
+
+### 下雨的时候…
+
+这样淋着不要紧吗？会感冒的吧？
+
+### 打雷的时候…
+
+呜哇！
+
+### 下雪的时候…
+
+欸！是雪花欸！冰冰凉凉的~！
+
+### 阳光很好…
+
+这样的好天气，嗯~适合比较明快的曲风呢！
+
+### 刮大风了…
+
+放心，我不会被吹走的！
+
+### 早上好…
+
+早安~今天也要加油呀。
+
+### 中午好…
+
+欸，想听我唱歌…？对不起，还…还没有到演出时间呢。
+
+### 晚上好…
+
+想吃猎鹿人餐馆的香辣鲈鱼…可是最近的肚子，呜…
+
+### 晚安…
+
+辛苦了！请好好休息吧。
+
+### 关于芭芭拉自己…
+
+「指引我前进的风啊。在我困顿时给我继续前行的力量，在我迷惑时给我辨明善恶的智慧，在我遭受不义时给我抗争的勇气…」…哎呀，抱歉，刚才在专心祈祷。有什么事吗？
+
+### 关于我们·愿望
+
+我的愿望，是给身边的大家带来笑容！只要能帮上你的忙，我就很开心了。
+
+### 关于我们·梦想
+
+谢谢你陪我走到现在，离我的梦想已经越来越近了呢。未来的日子，也请多多关照啦~！
+
+### 关于「神之眼」…
+
+每个人都会有自己的愿望。汇聚大家的愿望，让大家感到幸福，这一定，就是神给予我的使命吧。
+
+### 有什么想要分享…
+
+蒙德城外青青的原野，真的百看不厌。但我听说，世界上还有蓝色的树林呢！就在海对岸的稻妻城那边。嗯！我还得多攒一点…欸？问我在攒什么？嘿嘿，是秘密哦~！
+
+### 感兴趣的见闻…
+
+向日葵一直对着阳光的样子，很耀眼呢。其实，妈妈送过我一条向日葵风格的礼裙…但我什么时候才能穿上它去演出呢？
+
+### 关于琴…
+
+代理团长大人…骑士团的领袖，大家都很喜欢她哦。欸？问我吗？我…我当然也非常尊敬她！
+
+### 关于丽莎…
+
+我一直承蒙丽莎姐姐照顾呢。要是她也成为偶像的话，我绝对会全力应援，喊到嗓子哑掉…啊，这样会吓到别人的吧…
+
+### 关于安柏…
+
+以前就经常看到安柏风风火火地往城外跑，侦察骑士还真是辛苦呀。
+
+### 关于迪卢克…
+
+迪卢克老爷吗？上次在「天使的馈赠」演出，他一直皱着眉头…是不是我唱的歌他不喜欢呢？
+
+### 关于温迪…
+
+温迪的声音很好听！不过，他唱的歌跟我擅长的风格差异很大。我试着偷偷学过…那旋律还真是复杂呀。
+
+### 关于班尼特…
+
+班尼特经常带着一身伤痕来教堂…他却一直毫不在意、大大咧咧地笑着。唔…还是应该更爱惜自己才好啊。
+
+### 关于法尔伽…
+
+父亲跟着法尔伽大团长一起出远门了，也不知道路途中会不会遇到什么…啊，没关系，大团长可是「北风骑士」，一定没问题的！我…也会为他们祈祷的。
+
+### 关于罗莎莉亚…
+
+罗莎莉亚修女虽然难以接近，也从不参加祈祷，但我觉得…唔，她一定是相信着风神的！不过，不过我并没有勇气和她交流就是了…
+
+### 关于诺艾尔…
+
+诺艾尔实在是太可爱了！人又温柔，还很有耐心，跟她在一起的时候，完全不会有什么压力…哦，对了，她做的茶点也很特别。又香，又甜，而且很健康，嘿嘿。
+
+### 想要了解芭芭拉·其一
+
+骑士们挥剑作战的样子好帅啊！你是不是也有这种感觉？我自己也试过用剑…欸嘿嘿，可惜我在剑术上，完全没有天赋呢。
+
+### 想要了解芭芭拉·其二
+
+想要治愈大家。就是这么简单的心情，让我成为了牧师。要是能帮上大家就好了。
+
+### 想要了解芭芭拉·其三
+
+偶像，唔...是从艾莉丝那边了解到的…「优秀的偶像能够治愈人们的心灵。」嗯，嗯，总之就是这样啦。
+
+### 想要了解芭芭拉·其四
+
+我每天都在努力，这份努力…如果能配得上蒙德城大家的信任…
+
+### 想要了解芭芭拉·其五
+
+每次演出的时候我都会想…我真的能够治愈蒙德城里的每个人么？但是看着你，我总觉得只要一步步向前，总有一天…欸？至少已经把你治愈了…？这时候不是应该说！我已经治愈很多人了吗？！不过这样也不错…
+
+### 芭芭拉的爱好…
+
+是大家脸上的笑容，一直在支持我。
+
+### 芭芭拉的烦恼…
+
+同伴们一直在受伤…我，没有替大家分担痛苦的力量。但我可以尽最大的努力治疗！一定，要让大家恢复健康。
+
+### 喜欢的食物…
+
+你喜欢麻辣小鱼干吗？我这还有两条…喏，给你一条！
+
+### 讨厌的食物…
+
+我不太喜欢苦的东西，特别是…苦瓜。
+
+### 生日…
+
+请收下！这个是给你的生日礼物，专属签名绘哟~欸嘿，等下一首新歌，我会第一时间唱给你听的！生日快乐呀！
+
+### 突破的感受·起
+
+芭芭拉的舞步…治愈力UP！
+
+### 突破的感受·承
+
+谢谢你的支持~啊，不好，好像有点太激动了…心脏怦怦跳个不停。
+
+### 突破的感受·转
+
+请告诉我继续变强的秘诀~欸？放心交给你就行？…这怎么行，我也要一起努力！
+
+### 突破的感受·合
+
+和你一起旅行，我才意识到舞台是没有边界的。谢谢你！嘿嘿…好！一起喊出那句咒语吧！三、二、一，——芭芭拉冲呀！
+
+### 元素战技·其一
+
+我会保护大家！
+
+### 元素战技·其二
+
+打起精神来哟！
+
+### 元素战技·其三
+
+演唱，开始！
+
+### 元素爆发·其一
+
+♪哼哼哼~哼哼~
+
+### 元素爆发·其二
+
+准备好了吗~
+
+### 元素爆发·其三
+
+大家加油喔！
+
+### 冲刺开始·其一
+
+芭芭拉，冲呀！
+
+### 冲刺结束·其一
+
+呼…呼…没问题！
+
+### 冲刺结束·其二
+
+能跟得上！
+
+### 打开宝箱·其一
+
+想用歌声，带给人们同样的惊喜。
+
+### 打开宝箱·其二
+
+光彩熠熠！
+
+### 打开宝箱·其三
+
+嗯哼♪真是幸运的一天~
+
+### 生命值低·其一
+
+我没关系的！
+
+### 生命值低·其二
+
+为了大家，我还不能…
+
+### 生命值低·其三
+
+我再坚持一下…
+
+### 同伴生命值低·其一
+
+我…不想看你受伤。
+
+### 同伴生命值低·其二
+
+让我为你治疗，拜托了！
+
+### 倒下·其一
+
+有点，没力气了…
+
+### 倒下·其二
+
+大家的声音，听不到呢…
+
+### 倒下·其三
+
+姐姐…
+
+### 普通受击·其一
+
+疼…
+
+### 重受击·其一
+
+讨厌…
+
+### 加入队伍·其一
+
+放心交给我就好。
+
+### 加入队伍·其二
+
+我会加油的！
+
+### 加入队伍·其三
+
+一起努力吧！
+
+### 收到赠礼·其一
+
+很少吃到那么合我口味的菜肴。今天是幸运日呢！
+
+### 收到赠礼·其二
+
+谢谢你特意做的这些，这次，是被你治愈了。
+
+### 收到赠礼·其三
+
+不，不好…
+
+### 关于塔利雅…
+
+塔利雅是一位十分可靠的前辈，由他传达的神谕，总能为大家带来很大帮助。不过，他不喜欢待在教堂里，经常光顾集市和酒馆这样人声嘈杂的地方。有时想找他人都找不到…就跟罗莎莉亚修女一样呢。

@@ -1,0 +1,375 @@
+{
+  "id": "material_set_112149",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/item_112149.webp",
+  "title": {
+    "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+    "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+    "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+  },
+  "region": "Снежная",
+  "rarity": null,
+  "game_version": "7.0",
+  "tags": [
+    "материалы"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "chimeric_armored_beast",
+    "chimeric_burrowbeast",
+    "chimeric_horned_bear",
+    "chimeric_winged_elephant"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "chimeric_armored_beast",
+      "title": {
+        "ru": "Бронешлемовый зверь",
+        "en": "Chimeric Armored Beast",
+        "zh": "嵌合鍪甲兽"
+      },
+      "icon": "assets/icons/enemies/common_enemies/chimeric_armored_beast.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nЧто, если четвероногий зверь получит панцирь и таранный рог, как у оникабуто? Возможно, тогда он станет грозным оружием, способным прорвать строй вражеского войска.\nКазалось бы, подобные химеры, созданные ради одной-единственной цели, редко способны выжить в природе: лишившись своего предназначения, большинство из них погибает, не выдержав противоречия законам природы. Однако бронешлемовый зверь - редкое исключение.\nСегодня на землях вечной мерзлоты Снежной нередко можно встретить стаи бронешлемовых зверей, охотящихся сообща.",
+        "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nIf a four-legged beast were given a carapace and charging horn like those of an Onikabuto, it might well become a shock force capable of breaking through enemy formations.\nIn theory, man-made monsters designed around a single function rarely survive in the wild. Once they lose the place or purpose for which they were made, most perish for having defied the laws of nature. Clearly, however, the Armored Beast is not one of them.\nToday, on the frozen lands of Snezhnaya, Armored Beasts can often be seen hunting in packs.",
+        "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n四足的猛兽如若拥有如鬼兜虫般的甲壳和撞角，说不定能够成为冲破敌对军势的奇兵。\n按理说这种追求单一功能的合成魔兽很少能够真的在自然界生存，大多数在失去了其运用的场所后就将因为违背自然的规律而消亡死去，但显然鍪甲兽并不在此列。\n如今，至冬的冻土上，倒是经常能看到鍪甲兽成群结队狩猎的身影。"
+      },
+      "description": {
+        "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nЧто, если четвероногий зверь получит панцирь и таранный рог, как у оникабуто? Возможно, тогда он станет грозным оружием, способным прорвать строй вражеского войска.\nКазалось бы, подобные химеры, созданные ради одной-единственной цели, редко способны выжить в природе: лишившись своего предназначения, большинство из них погибает, не выдержав противоречия законам природы. Однако бронешлемовый зверь - редкое исключение.\nСегодня на землях вечной мерзлоты Снежной нередко можно встретить стаи бронешлемовых зверей, охотящихся сообща.",
+        "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nIf a four-legged beast were given a carapace and charging horn like those of an Onikabuto, it might well become a shock force capable of breaking through enemy formations.\nIn theory, man-made monsters designed around a single function rarely survive in the wild. Once they lose the place or purpose for which they were made, most perish for having defied the laws of nature. Clearly, however, the Armored Beast is not one of them.\nToday, on the frozen lands of Snezhnaya, Armored Beasts can often be seen hunting in packs.",
+        "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n四足的猛兽如若拥有如鬼兜虫般的甲壳和撞角，说不定能够成为冲破敌对军势的奇兵。\n按理说这种追求单一功能的合成魔兽很少能够真的在自然界生存，大多数在失去了其运用的场所后就将因为违背自然的规律而消亡死去，但显然鍪甲兽并不在此列。\n如今，至冬的冻土上，倒是经常能看到鍪甲兽成群结队狩猎的身影。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112149",
+          "title": {
+            "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+            "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+            "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112149.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112149",
+              "title": {
+                "ru": "Ядро химеры",
+                "en": "Chimeric Core",
+                "zh": "嵌合种"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112149.webp"
+            },
+            {
+              "key": "material_112150",
+              "title": {
+                "ru": "Симбиотическое ядро химеры",
+                "en": "Symbiotic Chimeric Nucleus",
+                "zh": "并生嵌合胞"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112150.webp"
+            },
+            {
+              "key": "material_112151",
+              "title": {
+                "ru": "Сердцевина химеры",
+                "en": "Prime Chimeric Nexus",
+                "zh": "源生嵌合体"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112151.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "chimeric_burrowbeast",
+      "title": {
+        "ru": "Химера-землерой",
+        "en": "Chimeric Burrowbeast",
+        "zh": "嵌合梭地兽"
+      },
+      "icon": "assets/icons/enemies/common_enemies/chimeric_burrowbeast.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nЕсли чудовище, свободно передвигающееся под землёй и снегом, обретёт зрение, позволяющее видеть даже во тьме, станет ли оно ещё более грозным хищником?\nРезультат эксперимента превзошёл все ожидания. Эти землеройные звери по ночам бродят под поверхностью земли, устраивая во тьме ловушки и подстерегая добычу из засады.\nПо сообщению «Вестника», рабочие из Светлолёдовки якобы видели гигантского землеройного зверя ростом почти с двух человек... Впрочем, это всего лишь слухи.",
+        "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nIf a monster that burrows and moves through earth and snow were granted vision that could see all within the shadows, could it become an even stronger predator?\nThe experiment proved astonishingly successful. These Burrowbeasts move beneath the surface at night, digging traps in the dark or hiding in the shadows to hunt.\nAccording to a report in Vestnik, a worker living in Svetloledovka once saw a giant Burrowbeast nearly as tall as two people... though that is probably nothing more than a wild rumor.",
+        "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n穿梭于土地与冰雪中的魔物如果拥有了在阴影中看清一切的视觉，是否能够成为更为强大的捕猎者呢？\n实验的结果居然超乎寻常的成功，这种梭地兽会在夜晚穿梭于地表之下，在黑暗中挖掘陷阱或是躲在暗处狩猎。\n据《先驱报》的报道所述，曾有在彩冰镇生活的工人看到过几乎有两人高的巨大梭地兽…不过应该是无稽之谈吧。"
+      },
+      "description": {
+        "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nЕсли чудовище, свободно передвигающееся под землёй и снегом, обретёт зрение, позволяющее видеть даже во тьме, станет ли оно ещё более грозным хищником?\nРезультат эксперимента превзошёл все ожидания. Эти землеройные звери по ночам бродят под поверхностью земли, устраивая во тьме ловушки и подстерегая добычу из засады.\nПо сообщению «Вестника», рабочие из Светлолёдовки якобы видели гигантского землеройного зверя ростом почти с двух человек... Впрочем, это всего лишь слухи.",
+        "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nIf a monster that burrows and moves through earth and snow were granted vision that could see all within the shadows, could it become an even stronger predator?\nThe experiment proved astonishingly successful. These Burrowbeasts move beneath the surface at night, digging traps in the dark or hiding in the shadows to hunt.\nAccording to a report in Vestnik, a worker living in Svetloledovka once saw a giant Burrowbeast nearly as tall as two people... though that is probably nothing more than a wild rumor.",
+        "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n穿梭于土地与冰雪中的魔物如果拥有了在阴影中看清一切的视觉，是否能够成为更为强大的捕猎者呢？\n实验的结果居然超乎寻常的成功，这种梭地兽会在夜晚穿梭于地表之下，在黑暗中挖掘陷阱或是躲在暗处狩猎。\n据《先驱报》的报道所述，曾有在彩冰镇生活的工人看到过几乎有两人高的巨大梭地兽…不过应该是无稽之谈吧。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112149",
+          "title": {
+            "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+            "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+            "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112149.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112149",
+              "title": {
+                "ru": "Ядро химеры",
+                "en": "Chimeric Core",
+                "zh": "嵌合种"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112149.webp"
+            },
+            {
+              "key": "material_112150",
+              "title": {
+                "ru": "Симбиотическое ядро химеры",
+                "en": "Symbiotic Chimeric Nucleus",
+                "zh": "并生嵌合胞"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112150.webp"
+            },
+            {
+              "key": "material_112151",
+              "title": {
+                "ru": "Сердцевина химеры",
+                "en": "Prime Chimeric Nexus",
+                "zh": "源生嵌合体"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112151.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "chimeric_horned_bear",
+      "title": {
+        "ru": "Рогатая химера-медведь",
+        "en": "Chimeric Horned Bear",
+        "zh": "嵌合角熊"
+      },
+      "icon": "assets/icons/enemies/common_enemies/chimeric_horned_bear.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Продукт биоалхимии. Химера весьма необычной формы.\nОна возникла не по замыслу создателя, а самостоятельно сформировалась из фрагментов живой материи, благодаря чему обрела даже способность свободно управлять силой стихий.\nНеужели даже жизнь, раздробленная почти до отдельных фрагментов, продолжает следовать некой воле и великой силе, заставляющей её расти по загадочному замыслу?\nВозможно, сегодня ответа на этот вопрос уже не знает никто.",
+        "en": "A product of bio-alchemy, a man-made monster with an exceptionally unusual formation.\nA man-made monster not formed according to its creator's design, but through the spontaneous assembly of life segments. As a result, it came to possess certain wondrous traits, including the ability to freely wield elemental power.\nEven if life is broken down until almost nothing remains but segments, could some will or power still guide them to grow according to a mysterious plan?\nPerhaps no one knows the answer to that by now.",
+        "zh": "生物炼金的产物，成型十分特殊的合成魔兽。\n并未按照人工的设想，而是通过生命切片自行组合形成的合成魔物，因此甚至有了一些自如使用元素力的神异。\n生命即便破碎到了几乎只剩切片的地步，也有什么意念与伟力令他们按照某种神秘的规划生长吗？\n这答案到了如今或许已然无人知晓。"
+      },
+      "description": {
+        "ru": "Продукт биоалхимии. Химера весьма необычной формы.\nОна возникла не по замыслу создателя, а самостоятельно сформировалась из фрагментов живой материи, благодаря чему обрела даже способность свободно управлять силой стихий.\nНеужели даже жизнь, раздробленная почти до отдельных фрагментов, продолжает следовать некой воле и великой силе, заставляющей её расти по загадочному замыслу?\nВозможно, сегодня ответа на этот вопрос уже не знает никто.",
+        "en": "A product of bio-alchemy, a man-made monster with an exceptionally unusual formation.\nA man-made monster not formed according to its creator's design, but through the spontaneous assembly of life segments. As a result, it came to possess certain wondrous traits, including the ability to freely wield elemental power.\nEven if life is broken down until almost nothing remains but segments, could some will or power still guide them to grow according to a mysterious plan?\nPerhaps no one knows the answer to that by now.",
+        "zh": "生物炼金的产物，成型十分特殊的合成魔兽。\n并未按照人工的设想，而是通过生命切片自行组合形成的合成魔物，因此甚至有了一些自如使用元素力的神异。\n生命即便破碎到了几乎只剩切片的地步，也有什么意念与伟力令他们按照某种神秘的规划生长吗？\n这答案到了如今或许已然无人知晓。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112149",
+          "title": {
+            "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+            "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+            "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112149.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112149",
+              "title": {
+                "ru": "Ядро химеры",
+                "en": "Chimeric Core",
+                "zh": "嵌合种"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112149.webp"
+            },
+            {
+              "key": "material_112150",
+              "title": {
+                "ru": "Симбиотическое ядро химеры",
+                "en": "Symbiotic Chimeric Nucleus",
+                "zh": "并生嵌合胞"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112150.webp"
+            },
+            {
+              "key": "material_112151",
+              "title": {
+                "ru": "Сердцевина химеры",
+                "en": "Prime Chimeric Nexus",
+                "zh": "源生嵌合体"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112151.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "chimeric_winged_elephant",
+      "title": {
+        "ru": "Крылатая химера-слон",
+        "en": "Chimeric Winged Elephant",
+        "zh": "嵌合翼象兽"
+      },
+      "icon": "assets/icons/enemies/common_enemies/chimeric_winged_elephant.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Снежная",
+      "game_version": "7.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nКоротконогий слон с крыльями мог бы свободно преодолевать любые преграды местности, а заодно доставать плоды с самых высоких деревьев.\nИменно ради этой цели и была создана эта химера. Позднее, во время войны против Полчищ чёрных зверей, крылатые слоны вместе с вилами занимались разведкой, обеспечивая бесперебойную передачу приказов во время наступления Белого царя.",
+        "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nA short-legged elephant with wings could likely migrate without being restricted by terrain, and would also be able to reach fruit growing in higher places.\nFor that purpose alone, its creator brought such a beast into being. Later, during the war against the dark tide, Chimeric Winged Elephants worked alongside the Vila in intelligence and communications, ensuring that the Belyi Tsar's commands could pass smoothly and swiftly as his army advanced.",
+        "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n拥有翅膀的矮足象大概可以不受地理条件的限制进行迁移，并且也能满足摘取更高处果实的需求。\n仅仅是出于这个目的，制造者便制造出了这样的合成魔兽。在后来抵抗漆黑兽潮的战争之中，嵌合翼象兽与风仙共同进行着情报工作，保证了白沙皇进军时军令的畅通无阻。"
+      },
+      "description": {
+        "ru": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nКоротконогий слон с крыльями мог бы свободно преодолевать любые преграды местности, а заодно доставать плоды с самых высоких деревьев.\nИменно ради этой цели и была создана эта химера. Позднее, во время войны против Полчищ чёрных зверей, крылатые слоны вместе с вилами занимались разведкой, обеспечивая бесперебойную передачу приказов во время наступления Белого царя.",
+        "en": "A product of bio-alchemy that was once widespread across the frozen lands, an aberrant chimeric monster.\nA short-legged elephant with wings could likely migrate without being restricted by terrain, and would also be able to reach fruit growing in higher places.\nFor that purpose alone, its creator brought such a beast into being. Later, during the war against the dark tide, Chimeric Winged Elephants worked alongside the Vila in intelligence and communications, ensuring that the Belyi Tsar's commands could pass smoothly and swiftly as his army advanced.",
+        "zh": "冻土之上一度盛行的生物炼金的产物，异种合成魔兽。\n拥有翅膀的矮足象大概可以不受地理条件的限制进行迁移，并且也能满足摘取更高处果实的需求。\n仅仅是出于这个目的，制造者便制造出了这样的合成魔兽。在后来抵抗漆黑兽潮的战争之中，嵌合翼象兽与风仙共同进行着情报工作，保证了白沙皇进军时军令的畅通无阻。"
+      },
+      "drops": [
+        {
+          "id": "material_set_112149",
+          "title": {
+            "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+            "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+            "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112149.webp",
+          "item_group": "common_enemies",
+          "entry_type": "material_set",
+          "game_version": "7.0",
+          "materials": [
+            {
+              "key": "material_112149",
+              "title": {
+                "ru": "Ядро химеры",
+                "en": "Chimeric Core",
+                "zh": "嵌合种"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112149.webp"
+            },
+            {
+              "key": "material_112150",
+              "title": {
+                "ru": "Симбиотическое ядро химеры",
+                "en": "Symbiotic Chimeric Nucleus",
+                "zh": "并生嵌合胞"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112150.webp"
+            },
+            {
+              "key": "material_112151",
+              "title": {
+                "ru": "Сердцевина химеры",
+                "en": "Prime Chimeric Nexus",
+                "zh": "源生嵌合体"
+              },
+              "icon": "assets/icons/items/common_enemies/item_112151.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 4,
+  "item_group": "common_enemies",
+  "entry_type": "material_set",
+  "materials": [
+    {
+      "key": "material_112149",
+      "title": {
+        "ru": "Ядро химеры",
+        "en": "Chimeric Core",
+        "zh": "嵌合种"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112149.webp",
+      "text": {
+        "ru": "Ядро внутри тела мутировавшей химеры.\nПростейшее ядро, выращенное внутри тела химеры. Даже простейшее ядро содержит в себе план роста всех алхимических созданий.",
+        "en": "The internal core harvested from aberrant man-made monsters.\nThis is the most fundamental core grown within a man-made monster. Yet, simple as it may be, it contains the primordial design for the growth of all man-made creations.",
+        "zh": "异种合成魔兽体内的核心。\n合成魔兽生长于体内的最简单的核心。即便是最简单的核心，也蕴藏着一切合成造物生长的规划。"
+      }
+    },
+    {
+      "key": "material_112150",
+      "title": {
+        "ru": "Симбиотическое ядро химеры",
+        "en": "Symbiotic Chimeric Nucleus",
+        "zh": "并生嵌合胞"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112150.webp",
+      "text": {
+        "ru": "Ядро внутри тела мутировавшей химеры.\nОтносительно сложное ядро внутри химеры. Сросшееся ядро означает, что оно должно приводить в движение жизненные циклы двух существ, формируя тем самым единый организм.",
+        "en": "The internal core harvested from aberrant man-made monsters.\nA relatively complex core harvested from a man-made monster. This symbiotic nucleus is engineered to sustain the biological cycles of two distinct life-forms, seamlessly weaving them into a single organism.",
+        "zh": "异种合成魔兽体内的核心。\n合成魔兽体内相对复杂的核心，并生的核心意味着将要驱动两种生命的循环，以此构成同一个生物。"
+      }
+    },
+    {
+      "key": "material_112151",
+      "title": {
+        "ru": "Сердцевина химеры",
+        "en": "Prime Chimeric Nexus",
+        "zh": "源生嵌合体"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112151.webp",
+      "text": {
+        "ru": "Ядро внутри тела мутировавшей химеры.\nСамое сложное ядро, которое способно выдержать тело химеры. Это уже совершенные семена жизни, хоть и созданные по плану человека. Тот, кто сумел их создать, возможно, уже постиг сам способ, которым была сотворена жизнь.",
+        "en": "The internal core harvested from aberrant man-made monsters.\nThe most complex core a man-made monster can possibly sustain, serving as an artificially engineered yet flawless seed of life. Whoever brought this creation into life has surely unlocked the very secrets of how life itself is shaped.",
+        "zh": "异种合成魔兽体内的核心。\n合成魔兽体内可承受的最为复杂的核心，已是受人工规划却完美的生命之种。将之制造而出的人，或许已理解生命本身被塑造的方式了吧。"
+      }
+    }
+  ],
+  "material_count": 3
+}

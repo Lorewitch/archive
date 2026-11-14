@@ -14,12 +14,14 @@
 # chapter_num_en: Lupus Minor Chapter: Act I
 # chapter_num_zh: 小狼之章 第一幕
 # part_source_ids: 451,452,453,454
-# previous_quests:
-# next_quests:
-# related_quests:
+# previous_quests: 
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_lq_2005
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 451,452,453,454
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -27,7 +29,7 @@
 
 Вместе с Паймон вы решаете направиться в Вольфендом. Немногие в Мондштадте осмеливаются пойти туда. Вы даже не представляете, какие опасности ждут вас на этой земле, почти не тронутой рукой человека.
 
-#### Поговорите с Паймон.
+#### Отправляйтесь в Вольфендом
 
 **Паймон:** Это Вольфендом! Жители Мондштадта редко здесь бывают...
 
@@ -37,35 +39,29 @@
 
 **Паймон:** Такие вот здоровенные!
 
-Ой, они нас заметили. Готовься к бою!
+- **Путешественник:** Ой, они нас заметили. Готовься к бою!
 
 #### Поговорите с Паймон
 
-**Рэйзор:** Вы правда поможете?
-
-**Рэйзор:** Волки охотятся сами. Всегда хорошо. Но ловушка - это интересно.
-
-**Рэйзор:** Ставим ловушку, гоним кабана. Да?
-
-**Рэйзор:** Не взорвись.
+#### Победите слаймов
 
 #### Поблагодарите мальчика за помощь
 
 **Паймон:** Сп... Спасибо... А-а-а! Волки! Бежим!
 
-**Рэйзор:** Не бойтесь. Волки - друзья. А вы кто?
+**???:** Не бойтесь. Волки - друзья. А вы кто?
 
 **Паймон:** Обычные путешественники. Просто проходили мимо.
 
-**Рэйзор:** Вы пахнете... знакомо.
+**???:** Вы пахнете... знакомо.
 
 **Паймон:** Мы пахнем?
 
-**Рэйзор:** Ордо Фавониус, верно? Рыцари - друзья.
+**???:** Ордо Фавониус, верно? Рыцари - друзья.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Как тебя зовут?
-
-- **Путешественник:** Ты тоже рыцарь?
 
 **Рэйзор:** Я Рэйзор.
 
@@ -73,11 +69,17 @@
 
 **Рэйзор:** Нет.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Ты тоже рыцарь?
+
 **Рэйзор:** Я Рэйзор. Я не рыцарь.
+
+##### Общее продолжение
 
 **Паймон:** А?
 
-Что это за волки?
+- **Путешественник:** Что это за волки?
 
 **Рэйзор:** Моя стая. Моя семья.
 
@@ -91,11 +93,21 @@
 
 **Паймон:** Не переживай. Паймон попросит - Путешественник поймает вам кабана.
 
-**Паймон:** Путешественник - отличный / ая охотник / ца.
+**Паймон:** Путешественник - отличный охотник. / Путешественник - отличная охотница.
 
 **Рэйзор:** Не надо. Рыцари помогают, волки голодают. Так всегда.
 
 **Паймон:** У нас получится, вот увидишь! Жди здесь!
+
+#### Добудьте достаточно мяса
+
+**Рэйзор:** Вы правда поможете?
+
+**Рэйзор:** Волки охотятся сами. Всегда хорошо. Но ловушка - это интересно.
+
+**Рэйзор:** Ставим ловушку, гоним кабана. Да?
+
+**Рэйзор:** Не взорвись.
 
 #### Принесите три куска мяса Рэйзору
 
@@ -133,9 +145,9 @@
 
 **Паймон:** Приветики, Эмбер!
 
-- **Путешественник:** Эмбер, я...
+##### Вариант ответа 1
 
-- **Путешественник:** Привет, Эмбер! Как поживаешь?
+- **Путешественник:** Эмбер, я...
 
 **Паймон:** Эмбер, ты знаешь чудаковатого мальчика со стаей волков?
 
@@ -171,11 +183,21 @@
 
 **Эмбер:** Если у тебя есть время, поможешь мне с расследованием?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Без проблем.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Давай займёмся этим.
 
+##### Общее продолжение
+
 **Эмбер:** Здорово! Я знала, что на тебя можно положиться.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Привет, Эмбер! Как поживаешь?
 
 **Эмбер:** Хм... Похоже, тебе особенно нечем заняться.
 
@@ -185,9 +207,15 @@
 
 **Паймон:** Как и ожидалось!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Конечно!
 
+##### Вариант ответа 2
+
 - **Путешественник:** В чём дело?
+
+##### Общее продолжение
 
 **Эмбер:** Волки атакуют караваны у Ущелья Пьяницы.
 
@@ -214,6 +242,8 @@
 **Эмбер:** Ты со мной?
 
 #### Отправляйтесь в Ущелье Пьяницы
+
+#### Поговорите с Эмбер о беспорядках
 
 **Эмбер:** Смотри! Там что-то происходит!
 
@@ -275,7 +305,7 @@
 
 **Эмбер:** Нужно осмотреться вокруг.
 
-#### Поговорите с Паймон.
+#### Найдите улику
 
 **Паймон:** Следы когтей.
 
@@ -283,25 +313,25 @@
 
 **Паймон:** Как минимум два волка... И они...
 
-Большие?
+- **Путешественник:** Большие?
 
 **Паймон:** Да.. Они... Как минимум два метра ростом!
 
-Паймон... Ты когда-нибудь видела волка?
+- **Путешественник:** Паймон... Ты когда-нибудь видела волка?
 
 **Паймон:** Ну... Волки достаточно редкие создания.
 
-#### Поговорите с Паймон.
+#### Найдите улику
 
 **Паймон:** Зуб волка.
 
 **Паймон:** Должно быть, волк врезался в дверь и выбил зуб.
 
-Недостаточно кальция в организме.
+- **Путешественник:** Недостаточно кальция в организме.
 
 **Паймон:** Нам повезло, что никто из местных серьёзно не пострадал.
 
-#### Важная подсказка
+#### Найдите улику
 
 **Эмбер:** Волчья шерсть. В Ли Юэ из такой шерсти делают кисти для каллиграфии.
 
@@ -313,9 +343,15 @@
 
 **Паймон:** Ещё один клок. А это что?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Семечко.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Что в нём особенного?
+
+##### Общее продолжение
 
 **Эмбер:** Это волчий крюк. Посмотри, на семечке много маленьких крючков.
 
@@ -363,7 +399,7 @@
 
 **Драфф:** Их перспективы на будущее.
 
-Согласен / на.
+- **Путешественник:** Согласен. / Согласна.
 
 **Драфф:** Молодые люди бывают крайне вспыльчивы. Если тебя не затруднит, пригляди за ними.
 
@@ -379,8 +415,6 @@
 
 #### Отправляйтесь в Вольфендом
 
-**Рэйзор:** Волчий крюк выглядит так. Он останавливает кровь.
-
 #### Поговорите с Рэйзором
 
 **Рэйзор:** Кто здесь?
@@ -391,13 +425,19 @@
 
 **Паймон:** Так вы всё-таки не знакомы?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Красная девушка.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Так это была не Эмбер?
 
+##### Общее продолжение
+
 **Рэйзор:** Нет. Эта тоже красная. Но та - другая.
 
-**Эмбер:** Ясно. Ты говорил(а) об этом парне?
+**Эмбер:** Ясно. Ты говорил об этом парне? / Ясно. Ты говорила об этом парне?
 
 **Паймон:** Да. Его зовут Рэйзор.
 
@@ -414,6 +454,8 @@
 **Рэйзор:** Чую кровь. Надо спешить.
 
 **Эмбер:** Кровь? Надеюсь, волки не напали на тех глупцов.
+
+#### Ищите что-нибудь странное по пути
 
 #### Поговорите с Эмбер
 
@@ -443,6 +485,8 @@
 
 **Паймон:** Ох, Рэйзор уже ушёл.
 
+#### Догоните Рэйзора
+
 #### Поговорите с Рэйзором
 
 **Рэйзор:** Вот он. На него напали люди.
@@ -462,6 +506,8 @@
 **Эмбер:** Ты уже второй раз говоришь о хранителе. Кого ты имеешь в виду?
 
 **Рэйзор:** Мне нужно увести Лупикал подальше. Следуй за мной. Может быть, увидишь хранителя.
+
+#### Отправляйтесь в чащобу Вольфендома
 
 #### Обсудите с Рэйзором, как помочь раненому волку
 
@@ -495,7 +541,9 @@
 
 #### Соберите волчьи крюки
 
-**Эмбер:** Путешественник, мне нужно, чтобы ты собрал(а) волчьи крюки. Я поговорю с Рэйзором.
+**Эмбер:** Путешественник, мне нужно, чтобы ты собрал волчьи крюки. Я поговорю с Рэйзором. / Путешественник, мне нужно, чтобы ты собрала волчьи крюки. Я поговорю с Рэйзором.
+
+**Рэйзор:** Волчий крюк выглядит так. Он останавливает кровь.
 
 #### Отдайте волчьи крюки Рэйзору
 
@@ -533,7 +581,9 @@
 
 **Рэйзор:** Мы не нападали на деревню.
 
-#### Поговорите с Рэйзором, Волком Севера.
+#### Отправляйтесь к могиле Волка Севера
+
+#### Сразитесь с Волком Севера
 
 **Рэйзор:** Прошу, успокойся.
 
@@ -569,9 +619,15 @@
 
 **Рэйзор:** И здесь тоже не могу.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Рэйзор...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Не унывай.
+
+##### Общее продолжение
 
 **Рэйзор:** Спасибо вам. Путешественник, Паймон, другая красная девушка.
 
@@ -585,7 +641,7 @@
 
 You and Paimon decide to pay a visit to Wolvendom, a place in Mondstadt that few people pass through, without any knowledge of the dangers that may await you within this primordial territory.
 
-#### Talk to Paimon
+#### Go to Wolvendom
 
 **Paimon:** This is Wolvendom. People from Mondstadt hardly ever come here...
 
@@ -595,35 +651,29 @@ You and Paimon decide to pay a visit to Wolvendom, a place in Mondstadt that few
 
 **Paimon:** ...Like those super-duper massive ones over there!
 
-...Eek, they've seen us! Prepare for battle!
+- **Traveler:** ...Eek, they've seen us! Prepare for battle!
 
 #### Talk to Paimon
 
-**Razor:** ...You really want to help?
-
-**Razor:** Wolves hunt on instinct. Works every time. But... setting trap sounds fun.
-
-**Razor:** First, we set trap. Next, chase boar in — yes?
-
-**Razor:** Hope it won't explode...
+#### Defeat the slimes
 
 #### Thank the boy for his help
 
 **Paimon:** *panting* Th—Thank you— Aaah! Wolves! Ruuuun!
 
-**Razor:** Do not worry. Wolves friends. But, you are...?
+**???:** Do not worry. Wolves friends. But, you are...?
 
 **Paimon:** We're just some boring old travelers passing through...
 
-**Razor:** Don't smell boring. You smell... *sniff* familiar...
+**???:** Don't smell boring. You smell... *sniff* familiar...
 
 **Paimon:** ...We smell?
 
-**Razor:** You smell like Knights of Favonius. They are friends.
+**???:** You smell like Knights of Favonius. They are friends.
+
+##### Response branch 1
 
 - **Traveler:** What's your name?
-
-- **Traveler:** Are you also one of the Knights?
 
 **Razor:** I am Razor.
 
@@ -631,11 +681,17 @@ You and Paimon decide to pay a visit to Wolvendom, a place in Mondstadt that few
 
 **Razor:** I am not.
 
+##### Response branch 2
+
+- **Traveler:** Are you also one of the Knights?
+
 **Razor:** I am Razor. I am no knight.
+
+##### Shared continuation
 
 **Paimon:** Huh?
 
-What's with the wolf pack?
+- **Traveler:** What's with the wolf pack?
 
 **Razor:** My wolf pack... they are my family.
 
@@ -649,11 +705,21 @@ What's with the wolf pack?
 
 **Paimon:** Oh, ah... don't worry, Paimon will get Traveler to catch you another boar.
 
-**Paimon:** Traveler is stronger than he / she looks.
+**Paimon:** Traveler is stronger than he looks. / Traveler is stronger than she looks.
 
 **Razor:** N—No need. When knights try to help, wolves go hungry...
 
 **Paimon:** Don't be silly! Wait here — we won't screw this up, just watch!
+
+#### Collect enough Raw Meat
+
+**Razor:** ...You really want to help?
+
+**Razor:** Wolves hunt on instinct. Works every time. But... setting trap sounds fun.
+
+**Razor:** First, we set trap. Next, chase boar in — yes?
+
+**Razor:** Hope it won't explode...
 
 #### Give three chunks of Raw Meat to Razor
 
@@ -691,9 +757,9 @@ On your last legs from being attacked by an enormous slime, you were rescued by 
 
 **Paimon:** Hi Amber~
 
-- **Traveler:** Amber, something has come up...
+##### Response branch 1
 
-- **Traveler:** Hey Amber, what's up?
+- **Traveler:** Amber, something has come up...
 
 **Paimon:** Amber, do you know a wolf boy from Wolvendom?
 
@@ -729,11 +795,21 @@ On your last legs from being attacked by an enormous slime, you were rescued by 
 
 **Amber:** If you have time, could you come and check out the situation with me?
 
+##### Response branch 1
+
 - **Traveler:** Sure.
+
+##### Response branch 2
 
 - **Traveler:** Let's get to it.
 
+##### Shared continuation
+
 **Amber:** Awesome! I knew I could count on you, let's go.
+
+##### Response branch 2
+
+- **Traveler:** Hey Amber, what's up?
 
 **Amber:** Hi... Looks like you've got a bit of time on your hands.
 
@@ -743,9 +819,15 @@ On your last legs from being attacked by an enormous slime, you were rescued by 
 
 **Paimon:** Told you so!
 
+##### Response branch 1
+
 - **Traveler:** Sure.
 
+##### Response branch 2
+
 - **Traveler:** What's the issue?
+
+##### Shared continuation
 
 **Amber:** Recently, wolves have been attacking the carts at Drunkard Gorge.
 
@@ -772,6 +854,8 @@ On your last legs from being attacked by an enormous slime, you were rescued by 
 **Amber:** Come with me!
 
 #### Go to Drunkard Gorge
+
+#### Talk to Amber about the disturbance up ahead
 
 **Amber:** Look, up ahead! Something's happening.
 
@@ -833,7 +917,7 @@ It seems that the "red, burny girl" was not Amber, as you had thought. But you r
 
 **Amber:** Let's investigate the area again.
 
-#### Talk to Paimon
+#### Investigate clues
 
 **Paimon:** These claw marks...
 
@@ -841,25 +925,25 @@ It seems that the "red, burny girl" was not Amber, as you had thought. But you r
 
 **Paimon:** This time there were at least two wolves, and they must be...
 
-Be what?
+- **Traveler:** Be what?
 
 **Paimon:** Yes, yes! They must be at least... two meters high!
 
-...Paimon, you do know what a wolf is, right?
+- **Traveler:** ...Paimon, you do know what a wolf is, right?
 
 **Paimon:** Hey! Wolves are mysterious creatures, it's not like you see them every day.
 
-#### Talk to Paimon
+#### Investigate clues
 
 **Paimon:** This is a wolf's tooth.
 
 **Paimon:** He must have smashed into the door when he pounced.
 
-Perhaps it's calcium deficient.
+- **Traveler:** Perhaps it's calcium deficient.
 
 **Paimon:** Anyway, seems pretty lucky how no one in the village got seriously injured.
 
-#### Important clue
+#### Investigate clues
 
 **Amber:** Wolf fur... I heard that in Liyue they make calligraphy brushes out of this stuff.
 
@@ -871,9 +955,15 @@ Perhaps it's calcium deficient.
 
 **Paimon:** Another hair. But what's that stuck to it?
 
+##### Response branch 1
+
 - **Traveler:** A seed.
 
+##### Response branch 2
+
 - **Traveler:** Is there something special about it?
+
+##### Shared continuation
 
 **Amber:** It's the seed of a Wolfhook berry. Look, there are little hooks on the seed.
 
@@ -921,7 +1011,7 @@ Perhaps it's calcium deficient.
 
 **Draff:** Their future outlook, I mean.
 
-I agree.
+- **Traveler:** I agree.
 
 **Draff:** Young people can be so impulsive sometimes. If it's not too much to ask, I hope you can keep an eye on them, stop them from getting into trouble.
 
@@ -937,8 +1027,6 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 #### Go to Wolvendom
 
-**Razor:** Looks like this. Can use to stop bleeding.
-
 #### Talk to Razor
 
 **Razor:** Who's there?
@@ -949,9 +1037,15 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **Paimon:** ...So you don't know each other after all?
 
+##### Response branch 1
+
 - **Traveler:** "The red one, burny girl..."
 
+##### Response branch 2
+
 - **Traveler:** That wasn't Amber?
+
+##### Shared continuation
 
 **Razor:** No. This girl also red, but not so burny like other girl.
 
@@ -972,6 +1066,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 **Razor:** *sniff* I smell blood. Quick.
 
 **Amber:** Blood? I hope the wolves didn't attack those idiots...
+
+#### Check for strange things along the way
 
 #### Talk to Amber
 
@@ -1001,6 +1097,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **Paimon:** He's already gone!
 
+#### Catch up to Razor
+
 #### Talk to Razor
 
 **Razor:** This is him. We find his blood. Bad men did this.
@@ -1020,6 +1118,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 **Amber:** That's now the second time you've brought that up. Tell us who that is.
 
 **Razor:** I take Lupical further in. Follow me, maybe you see.
+
+#### Go deeper into Wolvendom
 
 #### Talk to Razor about how to help the injured wolf
 
@@ -1054,6 +1154,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 #### Collect Wolfhook
 
 **Amber:** Traveler, go and find some Wolfhooks. I need to talk with Razor.
+
+**Razor:** Looks like this. Can use to stop bleeding.
 
 #### Give a Wolfhook to Razor
 
@@ -1091,7 +1193,9 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **Razor:** We. Did. Not. Raid. Village.
 
-#### Talk to Razor and the Wolf of the North
+#### Go to the grave of the Wolf of the North
+
+#### Challenge the Wolf of the North
 
 **Razor:** Please. Calm down.
 
@@ -1127,9 +1231,15 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **Razor:** But also not wolf...
 
+##### Response branch 1
+
 - **Traveler:** Razor...
 
+##### Response branch 2
+
 - **Traveler:** Cheer up...
+
+##### Shared continuation
 
 **Razor:** Thank you. Traveler, Paimon and... other red girl.
 
@@ -1143,7 +1253,7 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 你与派蒙决定探访蒙德的人烟稀少之地，奔狼领，全然不知这片生态原始的领域中潜藏着怎样的危险。
 
-#### 与派蒙对话
+#### 前往奔狼领
 
 **派蒙:** 这里叫做「奔狼领」，据说蒙德的人很少涉足这里…
 
@@ -1153,35 +1263,29 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **派蒙:** 看，就是这——么巨大。
 
-…它们进攻过来了！做好准备！
+- **旅行者:** …它们进攻过来了！做好准备！
 
 #### 与派蒙对话
 
-**雷泽:** 啊，你们真的要帮忙吗…
-
-**雷泽:** 狼群有自己的方法，更有效。不过陷阱，很新鲜。
-
-**雷泽:** 放置好以后，把野猪赶过去，对吧。
-
-**雷泽:** 不会爆炸吧…
+#### 消灭史莱姆
 
 #### 感谢相助的少年
 
 **派蒙:** 谢…谢谢你——奔狼领的狼群来了！快逃吧！
 
-**雷泽:** 不用担心。 狼是朋友。 可，你们是谁？
+**？？？:** 不用担心。 狼是朋友。 可，你们是谁？
 
 **派蒙:** 我们只是普通的旅行者……
 
-**雷泽:** 不普通，你们。 不过，有熟悉的气味。
+**？？？:** 不普通，你们。 不过，有熟悉的气味。
 
 **派蒙:** 熟悉的气味？
 
-**雷泽:** 骑士团，对吧？骑士团里有朋友。
+**？？？:** 骑士团，对吧？骑士团里有朋友。
+
+##### 对话分支 1
 
 - **旅行者:** 你叫什么名字？
-
-- **旅行者:** 你也是骑士团的人吗？
 
 **雷泽:** 我是雷泽。
 
@@ -1189,11 +1293,17 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **雷泽:** 和骑士团没关系。
 
+##### 对话分支 2
+
+- **旅行者:** 你也是骑士团的人吗？
+
 **雷泽:** 我是雷泽。 和骑士团没有关系。
+
+##### 共同后续
 
 **派蒙:** 呜啊…
 
-狼群…是怎么回事？
+- **旅行者:** 狼群…是怎么回事？
 
 **雷泽:** 啊……狼群，是家人。
 
@@ -1212,6 +1322,16 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 **雷泽:** 我，我觉得不必了。骑士团的朋友每次动手，狼群都要饿肚子…
 
 **派蒙:** 不用和我们客气啦。你们就等着我们的好消息吧。
+
+#### 获取足够的兽肉
+
+**雷泽:** 啊，你们真的要帮忙吗…
+
+**雷泽:** 狼群有自己的方法，更有效。不过陷阱，很新鲜。
+
+**雷泽:** 放置好以后，把野猪赶过去，对吧。
+
+**雷泽:** 不会爆炸吧…
 
 #### 将三块兽肉带给雷泽
 
@@ -1249,9 +1369,9 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **派蒙:** 你好啊，安柏。
 
-- **旅行者:** 安柏，有件事情……
+##### 对话分支 1
 
-- **旅行者:** 你好啊，最近怎么样？
+- **旅行者:** 安柏，有件事情……
 
 **派蒙:** 安柏，你认识奔狼领的男孩吗？
 
@@ -1287,11 +1407,21 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **安柏:** 如果有空的话，来协助我调查一下，可以吗？
 
+##### 对话分支 1
+
 - **旅行者:** 没问题。
+
+##### 对话分支 2
 
 - **旅行者:** 还是正事要紧。
 
+##### 共同后续
+
 **安柏:** 哼哼，真可靠。 那我们出发吧。
+
+##### 对话分支 2
+
+- **旅行者:** 你好啊，最近怎么样？
 
 **安柏:** 啊，你看起来挺闲的。
 
@@ -1301,9 +1431,15 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **派蒙:** 果然是这句话！
 
+##### 对话分支 1
+
 - **旅行者:** 没问题。
 
+##### 对话分支 2
+
 - **旅行者:** 是什么事？
+
+##### 共同后续
 
 **安柏:** 最近狼群开始袭击「醉汉峡」沿线的车队了。
 
@@ -1330,6 +1466,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 **安柏:** 你们也一起来吧。
 
 #### 前往醉汉峡
+
+#### 向安柏了解前方的骚乱
 
 **安柏:** 前方有骚乱！
 
@@ -1391,7 +1529,7 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **安柏:** 还是再去调查一下现场的痕迹吧。
 
-#### 与派蒙对话
+#### 调查线索
 
 **派蒙:** 这个爪印——
 
@@ -1399,25 +1537,25 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **派蒙:** 数量不止两条，大小的话，这一匹大概有——
 
-大概有？
+- **旅行者:** 大概有？
 
 **派蒙:** …嗯，呃，大概有两米高！
 
-…派蒙，你，见过狼吗？
+- **旅行者:** …派蒙，你，见过狼吗？
 
 **派蒙:** 狼很神秘的，一般哪有机会看到。
 
-#### 与派蒙对话
+#### 调查线索
 
 **派蒙:** 这个是狼的牙齿。
 
 **派蒙:** 好像是扑起来的时候，正好撞到了关上的门。
 
-可能是有点缺钙。
+- **旅行者:** 可能是有点缺钙。
 
 **派蒙:** 总之这次袭击，没有村民受致命伤，真是万幸。
 
-#### 重要线索
+#### 调查线索
 
 **安柏:** 这是狼的毛发。 据说璃月人会拿这个制作毛笔。
 
@@ -1429,9 +1567,15 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **派蒙:** 这是另一撮毛，不过，上面沾了什么。
 
+##### 对话分支 1
+
 - **旅行者:** 是种子。
 
+##### 对话分支 2
+
 - **旅行者:** 有什么特殊的吗？
+
+##### 共同后续
 
 **安柏:** 哼哼，这是钩钩果的种子。看到了吗，种子上的这种钩子。
 
@@ -1479,7 +1623,7 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **杜拉夫:** 说他们的未来。
 
-我同意你的意见。
+- **旅行者:** 我同意你的意见。
 
 **杜拉夫:** 年轻人容易火气上头。劳烦各位再照顾一下吧，别让他们做蠢事。
 
@@ -1495,8 +1639,6 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 #### 前往奔狼领
 
-**雷泽:** 钩钩果，就是这样的。它处理一下能止血。麻烦你了。
-
 #### 与雷泽对话
 
 **雷泽:** 是谁？！
@@ -1507,9 +1649,15 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **派蒙:** 什么，原来你们不认识吗？！
 
+##### 对话分支 1
+
 - **旅行者:** 「红色，很烫的女孩子」——
 
+##### 对话分支 2
+
 - **旅行者:** 真的不是安柏吗？
+
+##### 共同后续
 
 **雷泽:** 不认识。 虽然也是红色，但是没有那个人那么烫。
 
@@ -1530,6 +1678,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 **雷泽:** 有血的气味。我们要快点。
 
 **安柏:** 难道说是那群傻子被狼袭击了？！
+
+#### 查看沿路的异样
 
 #### 与安柏对话
 
@@ -1559,6 +1709,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **派蒙:** 啊，雷泽已经走了。
 
+#### 跟上雷泽
+
 #### 与雷泽对话
 
 **雷泽:** 是它。被那群人抓住了。
@@ -1578,6 +1730,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 **安柏:** 这句话刚才听过了。你还是解释一下吧。
 
 **雷泽:** 我要把卢皮卡抱到深处去。和我一起来吧。或许它会现身回答你。
+
+#### 前往奔狼领深处
 
 #### 向雷泽了解救治伤狼的办法
 
@@ -1612,6 +1766,8 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 #### 采集钩钩果
 
 **安柏:** 麻烦你去收集一下钩钩果了。我在这里有些事情要问他。
+
+**雷泽:** 钩钩果，就是这样的。它处理一下能止血。麻烦你了。
 
 #### 将一枚钩钩果交给雷泽
 
@@ -1649,7 +1805,9 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **雷泽:** 不是我们，袭击的村子——
 
-#### 与雷泽、北风狼对话
+#### 前往北风之狼墓地
+
+#### 挑战北风之狼
 
 **雷泽:** 请你，息怒。
 
@@ -1685,9 +1843,15 @@ You are yet again led to Wolvendom. Are these Wolfhook seeds solid evidence? Are
 
 **雷泽:** 我，也不属于这里…
 
+##### 对话分支 1
+
 - **旅行者:** 雷泽…
 
+##### 对话分支 2
+
 - **旅行者:** 不要太消沉了。
+
+##### 共同后续
 
 **雷泽:** 谢谢你们。旅行者，派蒙，还有……另一个红色的女孩。
 

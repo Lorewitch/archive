@@ -251,3 +251,917 @@ At that moment, another special feeling blossomed in Xiao's heart. Loneliness? P
 如此时刻，魈心中也有一股特别的情感随之升起。
 寂寞？安心？抑或是，对未来的恐惧？
 少年身姿的仙人扪心自问，却得不出答案。
+
+# voice_source_ids: 16100,16101,16102,16103,16104,16105,16106,16107,16108,16109,16110,16111,16112,16113,16114,16115,16116,16117,16118,16119,16120,16121,16122,16123,16124,16125,16126,16127,16128,16129,16130,16131,16132,16133,16134,16135,16136,16137,16138,16139,16140,16141,16142,16143,16144,16145,16146,16147,16148,16149,16150,16151,16152,16153,16154,16155,16156,16157,16158,16159,16160,16161,16162,16163,16164,16165,16166,16167,16168,16169,16170,16171
+
+## REPLICAS_RU
+
+### Привет...
+
+Если ты проснулся с ножом у горла, если монстры вцепились в тебя, если смерть стоит у порога... Скажи моё имя. Адепт Сяо. Я приду на зов. / Если ты проснулась с ножом у горла, если монстры вцепились в тебя, если смерть стоит у порога... Скажи моё имя. Адепт Сяо. Я приду на зов.
+
+### Поболтаем: Праздность
+
+Я опустился до безделья. Смехотворно.
+
+### Поболтаем: Свобода духа
+
+Духи пустошей умрут скорее, чем навредят мне.
+
+### Поболтаем: Осквернение
+
+Аргх... Эти воспоминания... мрачны...
+
+### Когда идёт дождь...
+
+Демоны не отдыхают в дождь. Пойдём.
+
+### После дождя...
+
+Прояснело? Хм. Погода неважна.
+
+### Когда гремит гром...
+
+Многие смертные боятся молний... Непостижимо. Бояться чего-то столь обычного.
+
+### Когда идёт снег...
+
+Когда снег станет потолще, его можно будет есть...
+
+### Доброе утро...
+
+Мы теряем время. Пора в путь.
+
+### Добрый день...
+
+Обед... Давай вернёмся на постоялый двор «Ваншу».
+
+### Добрый вечер...
+
+Ночь... Силы зла властвуют безраздельно. Не выходи на улицу.
+
+### Спокойной ночи...
+
+Иди. Я тут буду.
+
+### О Сяо: Нелюдим
+
+Я вовсе не человек. Не очень понимаю людские чувства.
+
+### О Сяо: Ли Юэ
+
+Ли Юэ быстро меняется... Неважно. Я не собираюсь приноравливаться.
+
+### О нас: Предостережения
+
+Если наступит день, когда и ты впадёшь во тьму, то придётся мне...
+
+### О нас: Доверие
+
+Остерегайся тьмы. От меня пощады не будет.
+Хотя ты... Ты, пожалуй, сможешь устоять.
+
+### О нас: Сонливость
+
+Кто это?! А... Думаешь, я стоя сплю? Никакого уважения к Адептам.
+
+### О нас: Праздник морских фонарей
+
+Праздник морских фонарей? Опять пришла пора, когда смертные засыпают море Ли Юэ своим светящимся мусором. Какое ребячество...
+Но если хочешь, я пойду с тобой.
+
+### Глаз Бога: Желания
+
+Глаз Бога? Желание? Ха. Не суди Адептов по смертным. У меня нет желаний.
+
+### Глаз Бога: Причины
+
+Нет здесь никакого секрета. Я просто не говорю никому о своих желаниях.
+Смертные ведь говорят, что если рассказать о желании, то оно не сбудется... А? Не то же самое?
+
+### Давай поделимся...
+
+Убийство - моя специальность. Если не можешь закончить дело - позови меня.
+
+### Интересные вещи...
+
+Когда-то на месте Тростниковых островов была пустошь.
+Но это было много лет... нет, веков назад.
+
+### О Чжун Ли...
+
+Хочу спросить... Скажи, Чжун Ли целыми днями просто... Кормит птиц? Любуется цветами? Рассматривает старинные вещи?
+Это всё... зачем?
+
+### О Бэй Доу...
+
+Бэй Доу? У меня с ней нет никаких отношений. Но морские чудовища - существуют. И она сильна для обычного человека, если смогла одолеть Хай Шаня.
+
+### О Бай Чжу...
+
+Думаешь... Бай Чжу сможет сделать лекарство от моей боли? Я ценю твоё намерение, но лекарства смертных не действуют на Адептов.
+
+### О Ху Тао...
+
+Ху Тао? Живая девушка, аж голова болит от неё. Но зато она забавная - точно не вырастет скучным человеком.
+
+### О Венти...
+
+Венти? Вот как его теперь зовут. Его музыка... Неважно.
+
+### О Гань Юй...
+
+Гань Юй не Божественный зверь, но и не человек. Нельзя не прийти в замешательство, идя лишь за долгом между мирами Адептов и смертных... Что? Я? Яксу, что умеет лишь убивать и выживать, на роль её наставника? Твой разум явно находится не в том мире, в котором живёт тело.
+
+### О Шэнь Хэ...
+
+Похоже, Шэнь Хэ доверяет тебе. Хотя, разве могло быть иначе? Такого доброго и сердечного человека, как ты, днём с огнём не сыщешь.
+
+### О Е Лань...
+
+Говорят, однажды она последовала в Разлом по следам Миллелитов. Если она может самостоятельно раскрывать подобные тайны, то определённо обладает выдающимися способностями.
+
+### Узнать больше о Сяо I
+
+Я согласен тебя защищать.
+Но не приближайся ко мне и не мешай мне. А то пожалеешь.
+
+### Узнать больше о Сяо II
+
+За тысячелетия я уничтожил несчётное количество призраков. Не хочешь навлечь на себя беду - держись от меня подальше. Считай меня просто оружием.
+
+### Узнать больше о Сяо III
+
+Их голоса... Я постоянно их слышу. Хрип, стоны... Они истошно требуют крови...
+Это мой выбор и моё наказание. Тебя не касается.
+
+### Узнать больше о Сяо IV
+
+Моракс? Что ты можешь знать об этом имени?
+Он дал мне имя Сяо, освободил от бесконечных мук.
+Не прощу никого, кто будет порочить его. Даже тебя.
+
+### Узнать больше о Сяо V
+
+Уже поздно. Связь между нами слишком сильна. Даже если захочешь, ты не сможешь разорвать её. А? Не собираешься? Истребление всего зла... Моей битве не будет конца. Но я хочу узнать о тебе побольше.
+
+### Хобби Сяо...
+
+А ты смелый. Спрашивать о моих увлечениях.
+Сразись со мной. Посмотрим, выдержишь ли ты мои удары. / А ты смелая. Спрашивать о моих увлечениях.
+Сразись со мной. Посмотрим, выдержишь ли ты мои удары.
+
+### Беспокойство Сяо...
+
+Беспокойство? Ха... Это пустой звук для Адепта. Невозможно беспокоиться тысячу лет.
+
+### Любимое блюдо: Миндальный тофу
+
+Меня не интересует еда смертных. Готовка мучительна, а ожидание долго. Разве что миндальный тофу ещё можно есть.
+
+### Любимое блюдо: Воспоминания
+
+Вкус миндального тофу похож на вкус снов.
+
+### Нелюбимая еда...
+
+Я сам должен положить мясо на лепёшку? А потом... всё вместе есть? Морока... Люди совсем уже здравый смысл потеряли.
+
+### День рождения...
+
+Идея смертных отмечать день своего рождения абсолютно излишня. Хм... Подожди. Я сложил тебе бабочку из листьев.
+Возьми. Это оберег Адептов, он отгоняет зло.
+
+### Чувство возвышения: Начало
+
+И это всё? Много шума из ничего.
+
+### Чувство возвышения: Нарастание
+
+Новая сила? Она будет только сеять смерть.
+
+### Чувство возвышения: Кульминация
+
+Предел силы - самоуничтожение. Ответь, зачем ты упорствуешь?
+
+### Чувство возвышения: Окончание
+
+Своими руками я погубил бесчисленные души. И даже сам не смог избежать тьмы... Ты продолжаешь вынуждать меня стать своим... «товарищем».
+Собираешься меня спасти? Ты... Тебя так трудно понять.
+
+### Элементальный навык I
+
+Хм!
+
+### Элементальный навык II
+
+Скукота.
+
+### Элементальный навык III
+
+Бесполезно.
+
+### Атака в падении I
+
+Вот тебе!
+
+### Атака в падении II
+
+Никчёмное существо!
+
+### Взрыв стихии I
+
+Исчезни!
+
+### Взрыв стихии II
+
+Истребление всего зла.
+
+### Взрыв стихии III
+
+Плачь!
+
+### Открытие сундука I
+
+Если это полезно, то я возьму.
+
+### Открытие сундука II
+
+Зачем кому-то это нужно... Забудь, мне всё равно.
+
+### Открытие сундука III
+
+Хм... Приличное качество.
+
+### Низкий уровень HP I
+
+Молчи.
+
+### Низкий уровень HP II
+
+Приготовься к смерти, глупец!
+
+### Низкий уровень HP III
+
+Уф!.. Ладно.
+
+### Низкий уровень HP компаньона I
+
+...Слабо.
+
+### Низкий уровень HP компаньона II
+
+Отойди, если хочешь выжить.
+
+### Без сознания I
+
+Это... кара?
+
+### Без сознания II
+
+Этот день... наконец, настал.
+
+### Без сознания III
+
+Невозможно...
+
+### Получен лёгкий удар I
+
+И всё?
+
+### Получен тяжёлый удар I
+
+Эй, прочь с дороги!
+
+### Присоединяется к группе I
+
+Меня кто-то звал?
+
+### Присоединяется к группе II
+
+Зло должно быть изгнано.
+
+### Присоединяется к группе III
+
+Побеждать демонов - моя работа.
+
+### Подарок I
+
+Хм... Неплохо... Что ты так смотришь?
+
+### Подарок II
+
+Не стоило.
+
+### Подарок III
+
+В следующий раз попробуй что-нибудь другое.
+
+## REPLICAS_EN
+
+### Hello
+
+If you awake to a knife at your throat, if monsters dig their claws into you, if death comes knocking at your door... Call out my name. Adeptus Xiao. I will be here when you call.
+
+### Chat: Idleness
+
+Reduced to just standing around... How absurd.
+
+### Chat: Wandering Spirits
+
+The damned will sooner die again than lay a hand on me.
+
+### Chat: Corruption
+
+Grrgh... Those memories, so dark...
+
+### When It Rains
+
+Demons do not stop for the rain. Move.
+
+### After the Rain
+
+The rain stopped? I don't concern myself with the weather.
+
+### When Thunder Strikes
+
+Many mortals fear lightning... Incomprehensible. Fear of something so common.
+
+### When It Snows
+
+Once the snow is thick enough, we can eat it...
+
+### Good Morning
+
+We're wasting time. Let's go.
+
+### Good Afternoon
+
+Lunch... We'll go back to Wangshu Inn.
+
+### Good Evening
+
+Night... When the darkness comes to envelop you. Don't stay outside.
+
+### Good Night
+
+Go. I'll be here.
+
+### About Xiao: Inhuman
+
+I'm far from human. I can't make much of human emotions.
+
+### About Xiao: Liyue
+
+Liyue is changing. Rapidly... Forget it. It means nothing to me.
+
+### About Us: Warnings
+
+If a day comes where even you are taken by the darkness, it will be up to me...
+
+### About Us: Trust
+
+Do not fall prey to the darkness. I have no mercy.
+Though, perhaps you can stand your ground alone.
+
+### About Us: Drowsiness
+
+Who's there? Oh... You think I sleep? You have no respect for the ways of the adepti.
+
+### About Us: Lantern Rite
+
+The Lantern Rite? The time for humans to discard their glowing trash into the sea has returned... How childish...
+Though, if you insist... I will go with you.
+
+### About the Vision: Desires
+
+Visions? Desire? Ha. Do not judge adepti by your mortal ideals. I have no desire.
+
+### About the Vision: Reasons
+
+Hiding? I'm hiding nothing. I just won't speak of desire to others.
+Do you mortals not have a rule about spoken wishes never coming true? Hm? What do you mean that's not the same?
+
+### Something to Share
+
+I deal in death. If you cannot bring yourself to kill — speak my name.
+
+### Interesting things
+
+Dihua Islet was once deserted.
+Though that was many decades... no, centuries ago...
+
+### About Zhongli
+
+Can I ask... Zhongli — what does he do with his days? Huh? Birds, antiques, flowers...
+Hmm... What deeper meaning do they hold?
+
+### About Beidou
+
+Beidou? I have nothing to do with her. Though there is such a thing as the leviathan. As a mere human, she has proven her power in defeating Haishan.
+
+### About Baizhu
+
+You want... Baizhu to make a medicine to take away my pain? I understand your intentions, but mortal medicine has no effect on adepti.
+
+### About Hu Tao
+
+Hu Tao? Her liveliness is irritating. Fortunately, she is also humorous, so you need not worry about her growing into a boring human.
+
+### About Venti
+
+Venti? So that's the name he goes by. His tunes are... forget it.
+
+### About Ganyu
+
+Ganyu is neither mortal nor illuminated beast. Wandering both the mortal and adepti realms with duty as her sole guide, it was inevitable that she would become perplexed... What? Me? You believe a yaksha who knows nothing more than how to massacre countless souls and emerge unscathed is a suitable mentor for such an individual? ...Your mind occupies a very different world from that which your body inhabits.
+
+### About Shenhe
+
+It seems Shenhe places a great deal of trust in you. Well, how could she not. There are few people in the world as kind and good-natured as you.
+
+### About Yelan
+
+I've heard that she once investigated The Chasm, following the trail of the Millelith. If she can investigate mysteries like that on her own, she must be someone of rare skill.
+
+### More About Xiao: I
+
+I'm willing to protect you.
+But don't think about getting close, and stay out of my way, or all that awaits you is regret.
+
+### More About Xiao: II
+
+In the thousands of years that have passed, I have taken countless wraiths. If you want no trouble, stay away from me. See me as a weapon, and nothing more.
+
+### More About Xiao: III
+
+Their voices... I can always hear them. Their screams, their cries, demanding more death...
+This is my burden to carry. It has nothing to do with you.
+
+### More About Xiao: IV
+
+Morax...? What do you know of this name!?
+He gave me the name Xiao, and released me from the endless pain I endured.
+I will not forgive those that dare to speak against him, even you.
+
+### More About Xiao: V
+
+It's too late. The connection between us is too strong. Even if you wanted to, it's too late to sever it. Hm? You've never thought to sever it?
+*sigh* This eternal dance of demon subjugation... My fight goes on.
+But, I would like to know more about you.
+
+### Xiao's Hobbies
+
+There's nothing timid about you, having the courage to ask about my hobbies.
+So, fight me. How long do you think your body will last against my blows?
+
+### Xiao's Troubles
+
+Trouble? Ha. Trouble means nothing to adepti. There is no trouble that can last for a thousand years.
+
+### Favorite Food: Almond Tofu
+
+I have no interest in mortal food. Cooking is tedious and the wait is long. The one thing I can manage to stomach is almond tofu.
+
+### Favorite Food: Memories
+
+The taste of Almond Tofu feels like a fond dream...
+
+### Least Favorite Food
+
+Wait. I am expected to place slices of meat in wrappings myself? And then... eat them? Together? Ugh, humans these days do not know what they are doing.
+
+### Birthday
+
+This mortal concept of commemorating the day of your birth really is redundant. Ahem. Wait. Uhh, have this. It's a butterfly I made from leaves.
+Okay. Take it. It's an adepti amulet — it staves off evil.
+
+### Feelings About Ascension: Intro
+
+This is it? Nothing worth getting excited about.
+
+### Feelings About Ascension: Building Up
+
+New power? All it will be used for is death.
+
+### Feelings About Ascension: Climax
+
+The limit to one's power is self-destruction. Answer me. Why do you persist?
+
+### Feelings About Ascension: Conclusion
+
+Countless souls have fallen prey to these hands. I too have been swallowed by the darkness — and yet you dare to drive me on. You may think of me as... your companion. You seek to find me salvation? 
+...You... really are a difficult being to comprehend.
+
+### Elemental Skill: I
+
+Hmph.
+
+### Elemental Skill: II
+
+Boring.
+
+### Elemental Skill: III
+
+Useless.
+
+### Plunging Attacks: I
+
+Here!
+
+### Plunging Attacks: II
+
+Worthless!
+
+### Elemental Burst: I
+
+Disappear!
+
+### Elemental Burst: II
+
+Evil conquering!
+
+### Elemental Burst: III
+
+Lament!
+
+### Opening Treasure Chest: I
+
+If it's useful, I'll take it.
+
+### Opening Treasure Chest: II
+
+Why would anyone want... *sigh* Forget it, it's not my concern.
+
+### Opening Treasure Chest: III
+
+Hmph... there's quality here.
+
+### Low HP: I
+
+Shut it.
+
+### Low HP: II
+
+Prepare to die, fool!
+
+### Low HP: III
+
+*grunts* Good.
+
+### Ally at Low HP: I
+
+...Weak.
+
+### Ally at Low HP: II
+
+Get back if you wanna survive.
+
+### Fallen: I
+
+Is this... retribution?
+
+### Fallen: II
+
+The day... has finally come.
+
+### Fallen: III
+
+Impossible...
+
+### Light Hit Taken: I
+
+That's it?
+
+### Heavy Hit Taken: I
+
+Ugh, get out of my way!
+
+### Joining Party: I
+
+You called?
+
+### Joining Party: II
+
+Evil shall be dispersed.
+
+### Joining Party: III
+
+Conquering demons is what I do.
+
+### Receiving a Gift: I
+
+Mm... Not bad... Why are you staring at me?
+
+### Receiving a Gift: II
+
+No need.
+
+### Receiving a Gift: III
+
+Try something else next time.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+如遇失道旷野之难，路遭贼人之难，水火刀兵之难，鬼神药毒之难，恶兽毒虫之难，冤家恶人之难，便呼我名。
+「三眼五显仙人」——「魈」，听召前来守护。
+
+### 闲聊·闲散
+
+我居然沦落到如此闲散的地步，可笑。
+
+### 闲聊·荒魂
+
+荒野上的孤魂，休想伤我分毫。
+
+### 闲聊·侵蚀
+
+…呃啊…哼，想起了一些不愉快的事。
+
+### 下雨的时候…
+
+魔物不会因为下雨就休息。我们走。
+
+### 雨过天晴…
+
+天晴了？哼，我不关心天气。
+
+### 打雷的时候…
+
+不少凡人害怕打雷。无法理解，这分明很寻常。
+
+### 下雪的时候…
+
+雪积起来之后，就可以挖着吃了。
+
+### 早上好…
+
+时候不早了。出发吧。
+
+### 中午好…
+
+午餐…回望舒客栈吧。
+
+### 晚上好…
+
+夜晚，不祥之物最易骚动。你最好别出门。
+
+### 晚安…
+
+你去吧，我会在这里等你。
+
+### 关于魈自己·非人
+
+我并非人类，不太能够理解人类的感情。
+
+### 关于魈自己·璃月
+
+近来璃月变化得过于迅速了…呵，罢了，我也没打算适应。
+
+### 关于我们·警示
+
+如果有一天，连你也陷入了黑暗。就由我来——
+
+### 关于我们·信任
+
+别被污染，我不会留情的。
+…我是说，既然是「你」，「你」应该能够保持坚定。
+
+### 关于我们·犯困
+
+…谁！？…你觉得我是站着睡着了？哼，不敬仙师！
+
+### 关于我们·海灯节
+
+海灯节？哼，原来又到了凡人用发光垃圾塞满璃月港的时候了，唉，为何如此幼稚。
+不过你若无聊，我便陪你去。
+
+### 关于「神之眼」·欲望
+
+「神之眼」、欲望？呵…不要用凡人的标准来揣测仙人，我没有欲望。
+
+### 关于「神之眼」·理由
+
+并不是有意隐瞒。我的欲望，不应对外人讲。
+人间不是有着愿望说出口就会失效的规矩…呃，不是一回事？
+
+### 有什么想要分享…
+
+杀戮是我的强项。如果你下不去手，就叫我来。
+
+### 感兴趣的见闻…
+
+荻花洲，曾经一度荒芜。
+虽然，是过去好多年…不，好几百年的事了。
+
+### 关于钟离…
+
+嗯…打听一下。请问钟离大人平日里都在…呃，遛鸟？赏花？品鉴古玩？
+…钟离大人做这些，是有什么深意…
+
+### 关于北斗…
+
+北斗吗？我与她没有什么交情。不过，冥海巨兽确有其事。能够将「海山」击败，作为人类，她的实力值得肯定。
+
+### 关于白术…
+
+你想…托付白术研制缓解我痛苦的药物？呵…你的好意我心领了。凡人的药物，对仙人是无法起效的。
+
+### 关于胡桃…
+
+胡桃？那孩子，活泼到令人头疼。所幸她还算风趣，不必担心会成长为无趣的人类。
+
+### 关于温迪…
+
+温迪…？原来如此，名字叫作温迪啊。他演奏的曲调…不，没什么。
+
+### 关于甘雨…
+
+甘雨既非仙兽，又非凡人，游走于仙人两界，靠着职责支撑自我，困惑是免不了的。...你说，我？呵，要让只懂杀戮与生存之道的夜叉，去开导瑞兽？天方夜谭。
+
+### 关于申鹤…
+
+申鹤似乎对你颇为信赖。…也是。毕竟，世间难得几人能有你这般的善心与热忱。
+
+### 关于夜兰…
+
+我听说她曾调查千岩军在层岩巨渊的相关痕迹。孤身追查秘密，想来也是有点本事的人。
+
+### 想要了解魈·其一
+
+我会为你护法。
+但是…别靠近我，别妨碍我。否则，你会后悔的。
+
+### 想要了解魈·其二
+
+在这千年以来，我猎杀过数以万计的怨魂。不想惹上麻烦，就离我远点。把我当作「工具」就好。
+
+### 想要了解魈·其三
+
+「它们」的声音…常常在我的耳边出现。咆哮、号哭…嘶喊着杀戮…
+这是我自己的选择和自己的报应。与你无关。
+
+### 想要了解魈·其四
+
+摩拉克斯？关于这个名字，你究竟知道多少？
+他是赐予我「魈」之名之人，将我从漫长的痛苦中解放。
+胆敢对他不敬的话。即使是你，我也不会原谅。
+
+### 想要了解魈·其五
+
+已经迟了。我们之间的关联已经太多了。即使你想要放弃，也来不及了吧。嗯？没有这样想过？
+…「靖妖傩舞」，我的战斗是不会停下的。
+但是，关于你的事情，我想了解更多。
+
+### 魈的爱好…
+
+你还真是胆量不小，有勇气询问我的爱好。
+那便来战吧。以你的身躯，扛得住我几招呢？
+
+### 魈的烦恼…
+
+烦恼？呵…这个问题对仙人毫无意义，没有什么烦恼能够存在千年。
+
+### 喜欢的食物·杏仁豆腐
+
+我对人间的食物并无兴致。烹饪繁琐，等待漫长。唯独杏仁豆腐，勉强可以入口。
+
+### 喜欢的食物·回忆
+
+杏仁豆腐的味道，和「美梦」非常相似呢。
+
+### 讨厌的食物…
+
+要我亲手在薄饼中包入肉片？啊…然后…一起吃下去？呵…麻烦。如今的人间，真是越来越缺乏常识了。
+
+### 生日…
+
+诞生的时日…人类的这些纪念，真是冗余。嗯…等着。我给你折一只梧桐树叶蝴蝶。
+好了，拿去吧。这是仙法，可以辟邪。
+
+### 突破的感受·起
+
+只是这种程度而已。没什么值得大惊小怪的。
+
+### 突破的感受·承
+
+新的力量？这力量，也只会被用于斩杀。
+
+### 突破的感受·转
+
+力量的尽头，是自我毁灭。回答我，为何如此执着呢？
+
+### 突破的感受·合
+
+我的枪缨，早就屠戮了无尽的怨魂。连我本人，不免也被黑暗吞噬。——你却敢于驱使这样的我，将我当作…「同伴」。
+…你是想要救赎我吗？…你，真是难以理解的生物。
+
+### 元素战技·其一
+
+哼。
+
+### 元素战技·其二
+
+无聊。
+
+### 元素战技·其三
+
+无用。
+
+### 下落攻击·其一
+
+这里！
+
+### 下落攻击·其二
+
+无能。
+
+### 元素爆发·其一
+
+就此消失。
+
+### 元素爆发·其二
+
+靖妖傩舞。
+
+### 元素爆发·其三
+
+悲鸣吧。
+
+### 打开宝箱·其一
+
+对你有用便好。
+
+### 打开宝箱·其二
+
+这些物品的用途…算了，我不关心。
+
+### 打开宝箱·其三
+
+嗯…品质尚可。
+
+### 生命值低·其一
+
+住口。
+
+### 生命值低·其二
+
+愚蠢。
+
+### 生命值低·其三
+
+很好。
+
+### 同伴生命值低·其一
+
+…弱小。
+
+### 同伴生命值低·其二
+
+想活命，就退后。
+
+### 倒下·其一
+
+这是…报应吗。
+
+### 倒下·其二
+
+这一天…到来了呀。
+
+### 倒下·其三
+
+不可能…
+
+### 普通受击·其一
+
+就凭你？
+
+### 重受击·其一
+
+别妨碍我。
+
+### 加入队伍·其一
+
+听召而来。
+
+### 加入队伍·其二
+
+诸邪退散。
+
+### 加入队伍·其三
+
+降魔乃分内之事。
+
+### 收到赠礼·其一
+
+嗯，不错…为什么要盯着我看。
+
+### 收到赠礼·其二
+
+不用麻烦。
+
+### 收到赠礼·其三
+
+下次做点别的吧。

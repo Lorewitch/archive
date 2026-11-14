@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 75232
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_75232
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 75232
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,12 +28,17 @@
 
 Вы подпадаете в питомник цветов хмеля в дикой местности острова Тете. Им управляет таинственная женщина...
 
-
 **???:** Хм... Горьковато. Слишком много огнетравы?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Привет.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Огнетрава?
+
+##### Общее продолжение
 
 **???:** Мерцающие рогатые грибы... Ферментировать, потом выпарить дважды. Хм... Результат: слабый...
 
@@ -39,21 +46,27 @@
 
 #### Поговорите с Атцили
 
-**Паймон:** (Светящийся бутон мягко покачивается от прикосновения и словно пульсирует в каком-то беззвучном ритме...)
+**Странный цветок:** (Светящийся бутон мягко покачивается от прикосновения и словно пульсирует в каком-то беззвучном ритме...)
 
 **???:** Пожалуйста, не трогайте цветок!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Извини.
+
+**???:** Ты вежлив. Понятно, почему он тебя не испугался. / Ты вежлива. Понятно, почему он тебя не испугался.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Это цветок потрогал меня первым.
 
-**???:** Ты вежлив(а). Понятно, почему он тебя не испугался.
-
 **???:** А ты с юмором. Хм... Но он тебя не боится.
+
+##### Общее продолжение
 
 **Паймон:** Ах! Посмотри! Он как будто танцует!
 
-Он скорее... извивается.
+- **Путешественник:** Он скорее... извивается.
 
 **Паймон:** Фу... Не используй такое отвратительное слово для цветка! Лучше сказать «покачивается».
 
@@ -63,78 +76,90 @@
 
 **???:** Некоторые люди... эм, как бы это сказать, рождаются с природным духовным даром. И потому цветок хмеля, впитывающий духовное вещество, особенно тянется к ним: по легенде он служит мостом между двумя мирами.
 
-**???:** Кстати, я Атцили Дикий Глаз! Винодел из бара «Пьяный мёд». А вас как зовут?
+**Атцили:** Кстати, я Атцили Дикий Глаз! Винодел из бара «Пьяный мёд». А вас как зовут?
 
-- **Путешественник:** Я Бабушка Светлана Кулак Орангутана / Я Эммануэль Вместо Ноги Ель.
+##### Вариант ответа 1
 
-- **Путешественник:** Привет. Я Путешественник.
+- **Путешественник:** Я Бабушка Светлана Кулак Орангутана. / Я Эммануэль Вместо Ноги Ель.
 
 **Паймон:** А Паймон - Хантер Гордон Летающий Компаньон!
 
-**???:** Пф... Какие дурацкие имена.
+**Атцили:** Пф... Какие дурацкие имена.
 
 **Паймон:** Твоё не намного лучше!
 
 **Паймон:** Ладно, хватит шуток. Паймон зовут Паймон. А это Путешественник!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Привет. Я Путешественник.
+
 **Паймон:** Паймон зовут Паймон!
 
-**???:** Вы как раз вовремя! У меня к вам просьба!
+##### Общее продолжение
+
+**Атцили:** Вы как раз вовремя! У меня к вам просьба!
 
 **Паймон:** А? По части этого... духовного зрения?
 
-**???:** Умничка. Держи конфетку.
+**Атцили:** Умничка. Держи конфетку.
 
 **Паймон:** Ух ты, спасибо!
 
-**???:** В общем, я пытаюсь придумать новый напиток для «Пьяного мёда», чтобы привлечь новых клиентов для моей сестры-неумёхи.
+**Атцили:** В общем, я пытаюсь придумать новый напиток для «Пьяного мёда», чтобы привлечь новых клиентов для моей сестры-неумёхи.
 
-**???:** И один из моих последних вариантов... Ну, название примерно такое...
+**Атцили:** И один из моих последних вариантов... Ну, название примерно такое...
 
-**???:** «Безалкогольный напиток, который дарит весёлые и сладкие грёзы, позволяя обычным людям испытать опыт духовного зрения, но без опьянения и похмелья!»
+**Атцили:** «Безалкогольный напиток, который дарит весёлые и сладкие грёзы, позволяя обычным людям испытать опыт духовного зрения, но без опьянения и похмелья!»
 
-**???:** Самый важный ингредиент для этого напитка - чистейший нектар, добываемый из цветов хмеля. И здесь начинаются проблемы.
+**Атцили:** Самый важный ингредиент для этого напитка - чистейший нектар, добываемый из цветов хмеля. И здесь начинаются проблемы.
 
 **Паймон:** Нектар недостаточно чистый?
 
-**???:** Верно! Держи ещё конфетку.
+**Атцили:** Верно! Держи ещё конфетку.
 
 **Паймон:** Хе-хе, Паймон сегодня в ударе!
 
-**???:** Эх... если бы мой дар духовного зрения был достаточно силён, я бы сразу же поняла, в чём дело. А пока приходится снова и снова проводить эксперименты и анализировать образцы.
+**Атцили:** Эх... если бы мой дар духовного зрения был достаточно силён, я бы сразу же поняла, в чём дело. А пока приходится снова и снова проводить эксперименты и анализировать образцы.
 
-**???:** Но теперь у меня есть вы! Твой удивительный талант духовного зрения - как раз то, что мне нужно!
+**Атцили:** Но теперь у меня есть вы! Твой удивительный талант духовного зрения - как раз то, что мне нужно!
 
-Что мне нужно сделать?
+- **Путешественник:** Что мне нужно сделать?
 
-**???:** Сначала выпей этот экстракт нектара, а потом я тебе всё объясню.
+**Атцили:** Сначала выпей этот экстракт нектара, а потом я тебе всё объясню.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Хорошо.
 
+**Атцили:** Вот, держи.
+
+##### Вариант ответа 2
+
 - **Путешественник:** Погоди, выглядит как-то...
 
-**???:** Вот, держи.
+**Атцили:** Не переживай, в худшем случае ты ослепнешь!
 
-**???:** Не переживай, в худшем случае ты ослепнешь!
+**Атцили:** Но какая разница, когда у тебя такое сильное духовное зрение?
 
-**???:** Но какая разница, когда у тебя такое сильное духовное зрение?
+- **Путешественник:** Так себе логика!
 
-Так себе логика!
-
-**???:** Пф. Шучу, ты не ослепнешь.
+**Атцили:** Пф. Шучу, ты не ослепнешь.
 
 **Паймон:** Давай к делу!
+
+##### Общее продолжение
 
 Вы залпом выпиваете жидкость из бутылочки. Вас окутывает приторный, будто немного гнилостный запах...
 Словно давно забытый сон обрёл форму - и обратился в мерцающий влажный туман...
 
 Но вскоре туман рассеивается, и перед глазами вновь вырисовывается привычный мир.
 
-**???:** Я же сказала, что ты не ослепнешь. Пора начинать!
+**Атцили:** Я же сказала, что ты не ослепнешь. Пора начинать!
 
-**???:** Прямо за порогом моего дома раскинулись три поля цветов хмеля. С твоей помощью я смогу без труда найти цветы с примесями.
+**Атцили:** Прямо за порогом моего дома раскинулись три поля цветов хмеля. С твоей помощью я смогу без труда найти цветы с примесями.
 
-**???:** За мной. Я расскажу об инструментах.
+**Атцили:** За мной. Я расскажу об инструментах.
 
 #### Поговорите с Атцили
 
@@ -149,6 +174,8 @@
 **???:** Эти цветы реагируют на определённую конституцию тела. Хотя природа этой реакции до конца не ясна, но стоит подойти достаточно близко - и вы сразу же заметите необычные изменения.
 
 **???:** Вы всё поймёте на поле.
+
+#### Расследуйте проблему цветочных полей
 
 #### Поговорите с Атцили
 
@@ -166,47 +193,49 @@
 
 #### Расследуйте проблему цветочных полей
 
-**Дамбара:** Хр-р-р...
+**???:** Хр-р-р...
 
-**Дамбара:** Мяу?
+**???:** Мяу?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Ой, котёнок!
 
-- **Путешественник:** Иллюзией меня не обмануть! К бою!
+**???:** Атцили, ах ты негодяйка! Ты обучала людей без моего ведома!
 
-**Дамбара:** Мяу!!!
+**???:** Ах... Люди... Невоспитанные, грязные, мерзкие люди!
 
-**Дамбара:** Атцили, ах ты негодяйка! Ты обучала людей без моего ведома!
+**???:** Разве мама не научила тебя, как обращаться с жалкими, одинокими, свободолюбивыми и хрупкими цветочками вроде меня?..
 
-**Дамбара:** Ах... Люди... Невоспитанные, грязные, мерзкие люди!
-
-**Дамбара:** Разве мама не научила тебя, как обращаться с жалкими, одинокими, свободолюбивыми и хрупкими цветочками вроде меня?..
-
-**Дамбара:** Хнык... Кстати, меня зовут Дамбара Бледная. Можно просто Дамбара.
+**???:** Хнык... Кстати, меня зовут Дамбара Бледная. Можно просто Дамбара.
 
 **Дамбара:** Испытайте ярость моих когтей, глупые захватчики! Мои клыки жаждут справедливости!
 
 **Дамбара:** Подожди! Тебе разве не страшно? У меня не получилось тебя напугать? Эм...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Остынь, котёночек.
-
-- **Путешественник:** Остановись! Мне страшно до слёз.
-
-- **Путешественник:** Ты иллюзия? Я (должна)(должен) уничтожить тебя.
 
 **Дамбара:** Ха! Что задумали? Котёнка обидеть каждый норовит! Хотели украсть мою пыльцу?
 
 **Дамбара:** Мя-я-я-я-я-у! Ах ты!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Сгинь, мерзкая иллюзия!
 
-- **Путешественник:** Я тебя вообще трогать не (собиралась)(собирался).
+Вы замахиваетесь мечом на Дамбару Бледную! И котёнок растворяется в воздухе...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Я тебя вообще трогать не собирался. / Я тебя вообще трогать не собиралась.
 
 **Дамбара:** Ха! Я так и зн... А?
 
 **Дамбара:** Тебе не нужна пыльца? И нектар не заберёшь?
 
-Нет. У тебя слишком много странных примесей в теле.
+- **Путешественник:** Нет. У тебя слишком много странных примесей в теле.
 
 **Дамбара:** Э-э-э... Я... Хм...
 
@@ -214,29 +243,71 @@
 
 **Дамбара:** Эм, пока.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Остановись! Мне страшно до слёз.
+
+##### Вариант ответа 3
+
+- **Путешественник:** Ты иллюзия? Я должен уничтожить тебя. / Ты иллюзия? Я должна уничтожить тебя.
+
+Вы замахиваетесь мечом на Дамбару Бледную! И котёнок растворяется в воздухе...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Иллюзией меня не обмануть! К бою!
+
+**???:** Мяу!!!
+
 Вы замахиваетесь мечом на иллюзорного котёнка, и он исчезает...
 
-Вы замахиваетесь мечом на Дамбару Бледную! И котёнок растворяется в воздухе...
-
-Вы замахиваетесь мечом на Дамбару Бледную! И котёнок растворяется в воздухе...
-
-#### Поговорите с Атцили
-
-**Сэр Брианнус:** Гав-гав-гав... Гав! Гав! Гав!
+**???:** Гав-гав-гав... Гав! Гав! Гав!
 
 **Сэр Брианнус:** Я рыцарь-защитник этого места, сэр Гав Брианнус! А вы?..
 
+##### Вариант ответа 1
+
 - **Путешественник:** Меня зовут Путешественник.
+
+**Сэр Брианнус:** Гав, это честь для меня, господин Путешественник. Могу я спросить, что вас сюда привело? / Гав, это честь для меня, госпожа Путешественник. Могу я спросить, что вас сюда привело?
+
+- **Путешественник:** Мне нужны цветы, которые вы охраняете.
+
+**Сэр Брианнус:** Значит, моя догадка была верна. Прошу прощения, но я дал клятву. Я не дам вам тронуть моего оруженосца и даму.
+
+- **Путешественник:** Оруженосец и дама... Но это один или два цветка?
+
+**Сэр Брианнус:** Эм... Позволь мне объяснить с биологической точки зрения. У цветка хмеля есть и тычинка, и пестик, верно?
+
+**Сэр Брианнус:** Поэтому... Это и оруженосец, и дама.
+
+##### Вариант ответа 1
+
+- **Путешественник:** Тебе не запутать меня этой биологией! К бою!
+
+Вы замахиваетесь мечом на сэра Брианнуса, и огромная собака исчезает в вечерних сумерках...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Как... прогрессивно.
+
+**Сэр Брианнус:** Ха-ха, для тебя цветы «прогрессивны»? Они были задолго до того, как это слово вообще появилось.
+
+**Сэр Брианнус:** Что ж, господин, было приятно с тобой пообщаться. К сожалению, я буду держаться своей клятвы. Достань же свой меч и готовься к бою! / Что ж, госпожа, было приятно с тобой пообщаться. К сожалению, я буду держаться своей клятвы. Достань же свой меч и готовься к бою!
+
+Сэр Брианнус вызывает вас на дуэль. Вы замахиваетесь мечом на пса, и он исчезает...
+
+##### Вариант ответа 2
 
 - **Путешественник:** Хороший пёсик!
 
 **Сэр Брианнус:** Гав-гав-гав... Гав! Гав!
 
-Кто здесь такой хорошенький?
+- **Путешественник:** Кто здесь такой хорошенький?
 
 **Сэр Брианнус:** Гав! Гав!
 
-Наша малышка Паймон!
+- **Путешественник:** Наша малышка Паймон!
 
 **Паймон:** А?
 
@@ -244,39 +315,91 @@
 
 **Сэр Брианнус:** Р-р-р... Как смеете вы унижать достоинство рыцаря! Я вызываю вас на дуэль!
 
-**Сэр Брианнус:** Гав, это честь для меня, господин / госпожа Путешественник. Могу я спросить, что вас сюда привело?
-
-Вы замахиваетесь мечом на сэра Брианнуса, и огромная собака исчезает в вечерних сумерках...
-
 Сэр Брианнус вызывает вас на дуэль. Вы замахиваетесь мечом на пса, и он исчезает...
 
-Мне нужны цветы, которые вы охраняете.
+**???:** Хрю-хрю... Хм... Хрю-хрю...
 
-**Сэр Брианнус:** Значит, моя догадка была верна. Прошу прощения, но я дал клятву. Я не дам вам тронуть моего оруженосца и даму.
+##### Вариант ответа 1
 
-Оруженосец и дама... Но это один или два цветка?
+- **Путешественник:** Дай угадаю, ты умеешь говорить?
 
-**Сэр Брианнус:** Эм... Позволь мне объяснить с биологической точки зрения. У цветка хмеля есть и тычинка, и пестик, верно?
+**???:** Хрю-хрю?
 
-**Сэр Брианнус:** Поэтому... Это и оруженосец, и дама.
+**???:** Хрю-хрю.
 
-- **Путешественник:** Тебе не запутать меня этой биологией! К бою!
+##### Вариант ответа 1
 
-- **Путешественник:** Как... прогрессивно.
+- **Путешественник:** Вот как? Почему ты так думаешь?
 
-**Сэр Брианнус:** Ха-ха, для тебя цветы «прогрессивны»? Они были задолго до того, как это слово вообще появилось.
+**???:** Хрю-хрю... Хрю-хрю! Хр-хр, хрю!
 
-**Сэр Брианнус:** Что ж, (госпожа)(господин), было приятно с тобой пообщаться. К сожалению, я буду держаться своей клятвы. Достань же свой меч и готовься к бою!
+##### Вариант ответа 1
 
-Сэр Брианнус вызывает вас на дуэль. Вы замахиваетесь мечом на пса, и он исчезает...
+##### Вариант ответа 2
+
+- **Путешественник:** У меня тоже есть один человек, которого я считаю членом семьи.
+
+**???:** Хрю-хрю! Хр-хр...
+
+**Паймон:** Эм... Вы так славно беседуете... Паймон даже неловко тебя отвлекать...
+
+**Паймон:** Но цветок, который мы ищем, в другой стороне!
+
+##### Вариант ответа 1
+
+- **Путешественник:** А? Как?
+
+##### Вариант ответа 2
+
+- **Путешественник:** Это не иллюзия?
+
+##### Общее продолжение
+
+**Невинный поросёнок:** Хрю-хрю! Хрю-хрю!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Да, и я так думаю.
+
+**???:** Хрю-хрю! Хрю-хрю!
+
+##### Вариант ответа 1
+
+##### Общее продолжение
+
+- **Путешественник:** Вот как... У тебя есть семья?
+
+**???:** Хрю-хрю...
+
+##### Вариант ответа 2
+
+- **Путешественник:** Привет. Я Путешественник.
+
+**???:** Хрю! Хрю!
+
+##### Вариант ответа 3
+
+- **Путешественник:** Ты всего лишь иллюзия? Получай!
+
+**???:** Хрю-хрю?!
+
+Вы замахиваетесь мечом на лесного кабана. Он издаёт громкий визг и падает на землю.
+
+#### Поговорите с Атцили
 
 **Паймон:** Привет, Атцили, мы вернулись!
 
 **Паймон:** На том участке поля оказалось три плохих цветка! Эм, но Путешественник... как-то странно себя ведёт. С тобой всё в порядке?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Всё нормально.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это всё иллюзии от пыльцы.
+
+##### Общее продолжение
 
 **???:** Галлюцинации? Ничего страшного. Цветы хмеля часто выделяют галлюциногенную пыльцу - это их способ самозащиты. Видимо, на тебя они отреагировали особенно бурно.
 
@@ -284,62 +407,13 @@
 
 **???:** Но... Эм, Путешественник, не было никаких других симптомов?
 
-Нет...
+- **Путешественник:** Нет...
 
 **???:** Поверю тебе на слово... Но если почувствуешь недомогание - сразу говори.
 
 **Паймон:** А теперь займёмся последним участком!
 
 #### Расследуйте проблему цветочных полей
-
-**Невинный поросёнок:** Хрю-хрю... Хм... Хрю-хрю...
-
-- **Путешественник:** Дай угадаю, ты умеешь говорить?
-
-- **Путешественник:** Привет. Я Путешественник.
-
-- **Путешественник:** Ты всего лишь иллюзия? Получай!
-
-**Невинный поросёнок:** Хрю-хрю?
-
-**Невинный поросёнок:** Хрю! Хрю!
-
-**Невинный поросёнок:** Хрю-хрю?!
-
-**Невинный поросёнок:** Хрю-хрю.
-
-- **Путешественник:** Вот как? Почему ты так думаешь?
-
-- **Путешественник:** Да, и я так думаю.
-
-**Невинный поросёнок:** Хрю-хрю... Хрю-хрю! Хр-хр, хрю!
-
-- **Путешественник:** Вот как... У тебя есть семья?
-
-- **Путешественник:** У меня тоже есть один человек, которого я считаю членом семьи.
-
-**Невинный поросёнок:** Хрю-хрю! Хрю-хрю!
-
-- **Путешественник:** Вот как... У тебя есть семья?
-
-- **Путешественник:** У меня тоже есть один человек, которого я считаю членом семьи.
-
-**Невинный поросёнок:** Хрю-хрю...
-
-**Невинный поросёнок:** Хрю-хрю! Хр-хр...
-
-**Паймон:** Эм... Вы так славно беседуете... Паймон даже неловко тебя отвлекать...
-
-**Паймон:** Но цветок, который мы ищем, в другой стороне!
-
-- **Путешественник:** А? Как?
-
-- **Путешественник:** Это не иллюзия?
-
-**Невинный поросёнок:** Хрю-хрю! Хрю-хрю!
-
-Вы замахиваетесь мечом на лесного кабана. Он издаёт громкий визг и падает на землю.
-
 
 «До встречи, звёздное дитя! Если в этой стране мы не увидимся... я буду ждать тебя в следующей...»
 
@@ -350,9 +424,9 @@
 
 **Паймон:** Путешественник, очнись! Ты в порядке?! Мы нашли цветок!
 
-**Паймон:** Ух... Ты так застыл(а). Неужели снова галлюцинации?
+**Паймон:** Ух... Ты так застыл. Неужели снова галлюцинации? / Ух... Ты так застыла. Неужели снова галлюцинации?
 
-Первым делом давай используем Экстрактор снов. Я в порядке.
+- **Путешественник:** Первым делом давай используем Экстрактор снов. Я в порядке.
 
 **Паймон:** Эм, Паймон рада, что ты в порядке.
 
@@ -360,27 +434,27 @@
 
 **Паймон:** Атцили! Мы нашли странный цветок, про который ты говорила!
 
-**Паймон:** Но Путешественник... с ним / ней что-то не так!
+**Паймон:** Но Путешественник... с ним что-то не так! / Но Путешественник... с ней что-то не так!
 
-Я в порядке. Просто голова закружилась...
+- **Путешественник:** Я в порядке. Просто голова закружилась...
 
 **???:** Что вы увидели? Какая-то опасная галлюцинация?
 
-*Вы рассказываете Атцили о том, что видели...*
+Вы рассказываете Атцили о том, что видели...
 
 **???:** Проделки Папы-шамана...
 
-Что?
+- **Путешественник:** Что?
 
 **???:** «Папа-шаман» - легенда, передающаяся среди шаманов и виноделов. Говорят, он проводник душ тех, кому не довелось с честью пасть в бою.
 
 **???:** Неприятный дух, который любит развлекаться, создавая кошмары. Зачастую он насылает на людей жуткие видения.
 
-...
+- **Путешественник:** ...
 
 **???:** Кхм... В общем, Путешественник, я тебя сейчас осмотрю. Скорее всего, ничего страшного.
 
-**???:** Не переживай. Путешественник, ты вдохнул(а) слишком много галлюциногенной пыльцы, поэтому какое-то время может кружиться голова, но на этом всё.
+**???:** Не переживай. Путешественник, ты вдохнул слишком много галлюциногенной пыльцы, поэтому какое-то время может кружиться голова, но на этом всё. / Не переживай. Путешественник, ты вдохнула слишком много галлюциногенной пыльцы, поэтому какое-то время может кружиться голова, но на этом всё.
 
 **Паймон:** Понятно...
 
@@ -408,6 +482,8 @@
 
 **???:** Кроме того, я отвечу на все ваши вопросы. Так что не забудьте заглянуть!
 
+#### Дождитесь следующего дня
+
 #### Поговорите с Атцили и попробуйте «Сладкий сон»
 
 **???:** Ха-ха, так вы не забыли про мой особый купаж «Сладкого сна». У меня для вас хорошие новости!
@@ -426,9 +502,15 @@
 
 **Паймон:** Вообще ни разу!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хочу знать, что напиток не опасен.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ты обещала мне раскрыть его секрет.
+
+##### Общее продолжение
 
 **???:** А? Точно... Дай подумать...
 
@@ -440,9 +522,15 @@
 
 **Паймон:** Это же очень опасно!..
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ты имеешь в виду, что я умру?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Всё в порядке, Паймон, я всего лишь... умру?
+
+##### Общее продолжение
 
 **???:** Всё верно. Но это не истинная смерть, так как твоё тело будет продолжать функционировать. Если только... ты не увлечёшься пейзажами мира грёз и не забудешь вернуться.
 
@@ -462,13 +550,19 @@
 
 **???:** Хе-хе, ну как? Попробуете? Или боитесь?
 
-- **Путешественник:** Меня таким не испугать.
+##### Вариант ответа 1
 
-- **Путешественник:** А что такого? Я уже умирал(а) не раз.
+- **Путешественник:** Меня таким не испугать.
 
 **Паймон:** Т-тогда и Паймон будет! Куда Путешественник - туда и Паймон.
 
-**Паймон:** Уф... Тогда и Паймон будет! Не только тебе строить из себя (крутую)(крутого).
+##### Вариант ответа 2
+
+- **Путешественник:** А что такого? Я уже умирал не раз. / А что такого? Я уже умирала не раз.
+
+**Паймон:** Уф... Тогда и Паймон будет! Не только тебе строить из себя крутого. / Уф... Тогда и Паймон будет! Не только тебе строить из себя крутую.
+
+##### Общее продолжение
 
 **???:** Ха-ха, расслабьтесь. Хватит на всех! Вот ваш особый купаж «Сладкого сна», два бокала.
 
@@ -483,23 +577,29 @@
 
 **???:** Olah! Mosi mita yo! Sada mimi dada! Sada domu dada!
 
-- **Путешественник:** Yo ya dala?
+##### Вариант ответа 1
 
-- **Путешественник:** Mi in dala?
+- **Путешественник:** Yo ya dala?
 
 **???:** Мы друзья! Мы все здесь друзья!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Mi in dala?
+
 **???:** О, ты в прекрасном, счастливом месте!
+
+##### Общее продолжение
 
 **Паймон:** Ahaha! Mi zido mita dada!
 
-Sado! Yo beru mimi beru?!
+- **Путешественник:** Sado! Yo beru mimi beru?!
 
 **???:** Ха-ха, о чём ты? Это ты говоришь на нашем языке!
 
 **Паймон:** Sama! Mito! Ya upa dala?
 
-Ya upa dala?
+- **Путешественник:** Ya upa dala?
 
 **???:** Ха-ха, там сокровища! Пошли откопаем!
 
@@ -507,13 +607,13 @@ Ya upa dala?
 
 **Паймон:** Mimi Mani! Mimi mosi! Mimi muhe!
 
-Mimi muhe!
+- **Путешественник:** Mimi muhe!
 
 **???:** Ура! Сокровище!
 
 **Паймон:** Mosi mita! Mita dada! Hahahahahaha!
 
-*Unta dada, yoyo upa, nunu beru valo yoyo...*
+Unta dada, yoyo upa, nunu beru valo yoyo...
 
 #### Поговорите с Атцили
 
@@ -521,9 +621,9 @@ Mimi muhe!
 
 **Паймон:** ...Ой-ёй, у Паймон голова раскалывается... Путешественник, ты как?
 
-Мне снился такой странный сон...
+- **Путешественник:** Мне снился такой странный сон...
 
-Во сне мы с хиличурлами... раскапывали сокровища?
+- **Путешественник:** Во сне мы с хиличурлами... раскапывали сокровища?
 
 **Паймон:** Ох... Это трудно описать словами... Кстати, а долго мы были «мертвы»?
 
@@ -537,7 +637,7 @@ Mimi muhe!
 
 **Паймон:** А? Эм... давайте попробуем.
 
-*Вы с Паймон вспомнили как можно больше подробностей странного сна, а Атцили Дикий Глаз старательно всё записала.*
+Вы с Паймон вспомнили как можно больше подробностей странного сна, а Атцили Дикий Глаз старательно всё записала.
 
 **???:** Ха-ха, отлично! Полный хаос... но в целом грёзы вышли весёлые!
 
@@ -553,7 +653,7 @@ Mimi muhe!
 
 **Паймон:** Фух... Это немного успокаивает. Всё же эффект у него мощный.
 
-И странный.
+- **Путешественник:** И странный.
 
 **???:** Пф... Да, я поняла.
 
@@ -569,12 +669,17 @@ Mimi muhe!
 
 You encounter a nursery full of blooming Brewblossoms in the wilderness of Tete Isle. It appears to be administered by a mysterious woman...
 
-
 **???:** Hmm... This bitter taste... Did I add too much Flamegrass?
+
+##### Response branch 1
 
 - **Traveler:** Hey there.
 
+##### Response branch 2
+
 - **Traveler:** Flamegrass?
+
+##### Shared continuation
 
 **???:** Glowing Hornshrooms... They need to be fermented first, then steamed twice. Hmm... The effect is still too weak...
 
@@ -582,21 +687,27 @@ You encounter a nursery full of blooming Brewblossoms in the wilderness of Tete 
 
 #### Talk to Atzilli
 
-**Paimon:** (A softly glowing flower bud sways at your touch, pulsing to some silent, secret rhythm...)
+**Strange Flower:** (A softly glowing flower bud sways at your touch, pulsing to some silent, secret rhythm...)
 
 **???:** Hey! Hands off, please!
 
-- **Traveler:** I'm sorry.
+##### Response branch 1
 
-- **Traveler:** It touched me first.
+- **Traveler:** I'm sorry.
 
 **???:** You're quite polite. No wonder it doesn't dislike you.
 
+##### Response branch 2
+
+- **Traveler:** It touched me first.
+
 **???:** Heh, a smooth talker, huh? But... Hmm... It doesn't seem to dislike you.
+
+##### Shared continuation
 
 **Paimon:** Hey! Look at the flower! Is it... dancing?
 
-Looks more like... wriggling to me.
+- **Traveler:** Looks more like... wriggling to me.
 
 **Paimon:** Eww! Don't use such disgusting language on a flower! At least say it's "swaying" or something!
 
@@ -606,78 +717,90 @@ Looks more like... wriggling to me.
 
 **???:** Some people... Hmm, how should I put it? They're born with a natural spiritual affinity. So Brewblossoms, which absorb spiritual essence, are naturally more drawn to them. After all, legend says they're plants that act as a bridge between worlds.
 
-**???:** By the way, I'm "Mad-Eye" Atzilli, a winemaker at the Me & Dew. And who might you be?
+**Atzilli:** By the way, I'm "Mad-Eye" Atzilli, a winemaker at the Me & Dew. And who might you be?
+
+##### Response branch 1
 
 - **Traveler:** I'm Svetlana Babushka, "Fist of the Beastly Ape." / I'm Emmanuelle, the "Alloy Oakleg."
 
-- **Traveler:** Hello, I'm Traveler.
-
 **Paimon:** And Paimon's the "Soaring Hero," Hunter Gordon! Ah...
 
-**???:** Pffft... Did you mean to introduce yourself with both names?
+**Atzilli:** Pffft... Did you mean to introduce yourself with both names?
 
 **Paimon:** Don't call Paimon out! It's not like your name's any less weird!
 
 **Paimon:** Alright, enough joking! Paimon's Paimon, and this is Traveler!
 
+##### Response branch 2
+
+- **Traveler:** Hello, I'm Traveler.
+
 **Paimon:** And Paimon's Paimon!
 
-**???:** Paimon and Traveler, huh? You've got perfect timing! There's actually something I need your help with!
+##### Shared continuation
+
+**Atzilli:** Paimon and Traveler, huh? You've got perfect timing! There's actually something I need your help with!
 
 **Paimon:** Eh? Anything to do with that... clairvoyance thing you talked about?
 
-**???:** Ooh, sharp! Here, have a candy.
+**Atzilli:** Ooh, sharp! Here, have a candy.
 
 **Paimon:** Yay! You're the best!
 
-**???:** So here's the deal. I've been working on a brand-new drink for the Me & Dew. Mainly to help my clueless big sis pull in some fresh-faced, trend-chasing clientele.
+**Atzilli:** So here's the deal. I've been working on a brand-new drink for the Me & Dew. Mainly to help my clueless big sis pull in some fresh-faced, trend-chasing clientele.
 
-**???:** And my latest project is... Well, it goes something like this...
+**Atzilli:** And my latest project is... Well, it goes something like this...
 
-**???:** "A dreamy, joy-sparking, zero-alcohol blend that lets ordinary folks feel a clairvoyance-adjacent sensation without getting tipsy or having to deal with a hangover!"
+**Atzilli:** "A dreamy, joy-sparking, zero-alcohol blend that lets ordinary folks feel a clairvoyance-adjacent sensation without getting tipsy or having to deal with a hangover!"
 
-**???:** The key ingredient is a dollop of high-purity nectar from these Brewblossoms. But that's where the problem lies...
+**Atzilli:** The key ingredient is a dollop of high-purity nectar from these Brewblossoms. But that's where the problem lies...
 
 **Paimon:** Is the nectar not pure enough?
 
-**???:** Bingo! Another candy for you!
+**Atzilli:** Bingo! Another candy for you!
 
 **Paimon:** Hehe, Paimon's on a roll today!
 
-**???:** If only my affinity for clairvoyance were strong enough, I could spot the flaws instantly... But as it stands, all I can do is test and analyze the samples over and over again.
+**Atzilli:** If only my affinity for clairvoyance were strong enough, I could spot the flaws instantly... But as it stands, all I can do is test and analyze the samples over and over again.
 
-**???:** But thankfully, you showed up, and it looks like your affinity's much stronger than mine! Hehe, you might just be the answer to my prayers!
+**Atzilli:** But thankfully, you showed up, and it looks like your affinity's much stronger than mine! Hehe, you might just be the answer to my prayers!
 
-Alright, what can I do to help?
+- **Traveler:** Alright, what can I do to help?
 
-**???:** First, drink this little bottle of nectar extract. Then I'll explain.
+**Atzilli:** First, drink this little bottle of nectar extract. Then I'll explain.
+
+##### Response branch 1
 
 - **Traveler:** It's worth a shot.
 
+**Atzilli:** Here. Take this.
+
+##### Response branch 2
+
 - **Traveler:** Uhh... This stuff looks kinda suspicious...
 
-**???:** Here. Take this.
+**Atzilli:** Relax! Theoretically, the worst it can do is blind you!
 
-**???:** Relax! Theoretically, the worst it can do is blind you!
+**Atzilli:** And hey, if your affinity for clairvoyance is really that great, you'll be fine, even with a bad eye. You've got two, right?
 
-**???:** And hey, if your affinity for clairvoyance is really that great, you'll be fine, even with a bad eye. You've got two, right?
+- **Traveler:** Well, "eye" protest your ridiculous sense of logic!
 
-Well, "eye" protest your ridiculous sense of logic!
-
-**???:** Pfft, chill, chill! I'm just joking! You won't go blind. Probably.
+**Atzilli:** Pfft, chill, chill! I'm just joking! You won't go blind. Probably.
 
 **Paimon:** Can we just get started already?!
+
+##### Shared continuation
 
 You down the nectar in one gulp. A strange sweetness, tinged with some putrid pungency, spreads through your body...
 Like a dream long forgotten, unraveling into damp, glimmering mist....
 
 The mist quickly clears, and your vision returns to normal.
 
-**???:** See? Told you you'd be fine. Now let's get started!
+**Atzilli:** See? Told you you'd be fine. Now let's get started!
 
-**???:** There are three flower fields right outside. With your help, I'll be able to spot the tainted Brewblossoms in no time.
+**Atzilli:** There are three flower fields right outside. With your help, I'll be able to spot the tainted Brewblossoms in no time.
 
-**???:** Follow me. I'll tell you about the tools we're going to use.
+**Atzilli:** Follow me. I'll tell you about the tools we're going to use.
 
 #### Talk to Atzilli
 
@@ -692,6 +815,8 @@ The mist quickly clears, and your vision returns to normal.
 **???:** They'll react to people with special constitutions. I'm not sure how they'll react exactly, but I know that if you get close enough, the flower's bound to do something weird and obvious.
 
 **???:** You'll see what I mean once we're in the flower fields.
+
+#### Investigate the issue with the flower fields
 
 #### Talk to Atzilli
 
@@ -709,39 +834,41 @@ Hmm... Judging by the sample, the purity's spot-on. No sign of any impurities or
 
 #### Investigate the issue with the flower fields
 
-**Dambara:** Purrrr...
+**???:** Purrrr...
 
-**Dambara:** Meeeow?
+**???:** Meeeow?
+
+##### Response branch 1
 
 - **Traveler:** Whoa! A kitty!
 
-- **Traveler:** You can't fool me with an illusion. Taste my blade!
+**???:** Atzilli, what a two-faced witch you are! Did you start raising humans behind my back?
 
-**Dambara:** Meeeow!!!
+**???:** Ugh... Humans... Rude, filthy, stinking humans!
 
-**Dambara:** Atzilli, what a two-faced witch you are! Did you start raising humans behind my back?
+**???:** Didn't your mothers teach you how to treat a poor, lonely, free-spirited delicate flower like me...? *sniff*
 
-**Dambara:** Ugh... Humans... Rude, filthy, stinking humans!
-
-**Dambara:** Didn't your mothers teach you how to treat a poor, lonely, free-spirited delicate flower like me...? *sniff*
-
-**Dambara:** *sniff* Anyway, I'm "Dambara the Pale," but you can just call me Dambara.
+**???:** *sniff* Anyway, I'm "Dambara the Pale," but you can just call me Dambara.
 
 **Dambara:** Face the wrath of my claws, foolish intruders! My fangs thirst for justice!
 
 **Dambara:** H—Hey! Why aren't you scared?! Am I not scary enough...? Tch...
 
+##### Response branch 1
+
 - **Traveler:** Easy, kitty. No need to go full beast-mode.
-
-- **Traveler:** Please stop. I'm so scared I'm about to cry.
-
-- **Traveler:** You're just an illusion, aren't you? Guess I'll just have to get rid of you.
 
 **Dambara:** Ha! What's your game? Planning to hurt me? Steal my precious pollen?
 
 **Dambara:** ...Meeeow! You scoundrel!
 
+##### Response branch 1
+
 - **Traveler:** Begone, foul mirage!
+
+You swing your sword at Dambara the Pale, and — Poof! The little cat vanishes...
+
+##### Response branch 2
 
 - **Traveler:** I'm not here to hurt you. I'm just... ignoring you.
 
@@ -749,7 +876,7 @@ Hmm... Judging by the sample, the purity's spot-on. No sign of any impurities or
 
 **Dambara:** You didn't take any pollen? Or drink any nectar?
 
-Nope. You've got too many weird impurities in your body.
+- **Traveler:** Nope. You've got too many weird impurities in your body.
 
 **Dambara:** Eh? Uhh... Hmm.
 
@@ -757,29 +884,71 @@ Nope. You've got too many weird impurities in your body.
 
 **Dambara:** Well then... Goodbye.
 
-You swing your sword at the illusion, and — poof! The little cat vanishes...
+##### Response branch 2
+
+- **Traveler:** Please stop. I'm so scared I'm about to cry.
+
+##### Response branch 3
+
+- **Traveler:** You're just an illusion, aren't you? Guess I'll just have to get rid of you.
 
 You swing your sword at Dambara the Pale, and — poof! The little cat vanishes...
 
-You swing your sword at Dambara the Pale, and — Poof! The little cat vanishes...
+##### Response branch 2
 
-#### Talk to Atzilli
+- **Traveler:** You can't fool me with an illusion. Taste my blade!
 
-**Sir Briannus:** Hroooo... Woof! Woof, woof!
+**???:** Meeeow!!!
+
+You swing your sword at the illusion, and — poof! The little cat vanishes...
+
+**???:** Hroooo... Woof! Woof, woof!
 
 **Sir Briannus:** I am Sir Woofington Briannus, knight of this realm! Pray tell, what names do you bear?
 
+##### Response branch 1
+
 - **Traveler:** Just call me Traveler.
+
+**Sir Briannus:** Awoo~ Well met, Sir Traveler! What brings you hither? / Awoo~ Well met, Lady Traveler! What brings you hither?
+
+- **Traveler:** I'm looking for the flowers you're guarding.
+
+**Sir Briannus:** As I feared. Alas, I have sworn on my blade to forbid outsiders from approaching my squire and maiden.
+
+- **Traveler:** Squire and maiden... So there are two flowers?
+
+**Sir Briannus:** Err, well... biologically speaking, each Brewblossom has both a stamen and a pistil, yes?
+
+**Sir Briannus:** So... Technically, a single flower is both squire and maiden at the same time.
+
+##### Response branch 1
+
+- **Traveler:** Trying to distract me with biology? Not happening — En garde!
+
+You swing your sword at Sir Briannus, and — poof! The big dog vanishes...
+
+##### Response branch 2
+
+- **Traveler:** That's... oddly progressive.
+
+**Sir Briannus:** Woof! Did you just call flowers "progressive"? I'll have you know they predate the very concept!
+
+**Sir Briannus:** Well then, Sir Traveler, it has been a pleasure. But my sworn duty calls — have at thee! / Well then, Lady Traveler, it has been a pleasure. But my sworn duty calls — have at thee!
+
+Sir Briannus challenges you to a duel. You swing your sword at the big dog, and — Poof! It vanishes...
+
+##### Response branch 2
 
 - **Traveler:** Good doggie, good doggie.
 
 **Sir Briannus:** Wroo, rrooh! Woof, woof!
 
-Who's the goodest pet around?
+- **Traveler:** Who's the goodest pet around?
 
 **Sir Briannus:** Woof, woof!
 
-It's Paimon, of course!
+- **Traveler:** It's Paimon, of course!
 
 **Paimon:** Huh!?
 
@@ -787,39 +956,91 @@ It's Paimon, of course!
 
 **Sir Briannus:** You dare mock a knight to his face? I demand a duel!
 
-**Sir Briannus:** Awoo~ Well met, Sir / Lady Traveler! What brings you hither?
-
-You swing your sword at Sir Briannus, and — poof! The big dog vanishes...
-
 Sir Briannus challenges you to a duel. You swing your sword at the big dog, and — Poof! It vanishes...
 
-I'm looking for the flowers you're guarding.
+**???:** Oink oink... Mmm... Oink oink...
 
-**Sir Briannus:** As I feared. Alas, I have sworn on my blade to forbid outsiders from approaching my squire and maiden.
+##### Response branch 1
 
-Squire and maiden... So there are two flowers?
+- **Traveler:** Let me guess — you can talk?
 
-**Sir Briannus:** Err, well... biologically speaking, each Brewblossom has both a stamen and a pistil, yes?
+**???:** Oink oink?
 
-**Sir Briannus:** So... Technically, a single flower is both squire and maiden at the same time.
+**???:** Oink... oink...
 
-- **Traveler:** Trying to distract me with biology? Not happening — En garde!
+##### Response branch 1
 
-- **Traveler:** That's... oddly progressive.
+- **Traveler:** Oh? And why do you think that?
 
-**Sir Briannus:** Woof! Did you just call flowers "progressive"? I'll have you know they predate the very concept!
+**???:** Oink oink... oink oink! Mmm, mmh... oink oink!
 
-**Sir Briannus:** Well then, Sir / Lady Traveler, it has been a pleasure. But my sworn duty calls — have at thee!
+##### Response branch 1
 
-Sir Briannus challenges you to a duel. You swing your sword at the big dog, and — Poof! It vanishes...
+##### Response branch 2
+
+- **Traveler:** I also have one person I consider family.
+
+**???:** Oink oink! Mmmph, mmph...!
+
+**Paimon:** Ahem! Not to interrupt this... beautiful friendship, but...
+
+**Paimon:** Paimon's pretty sure the flower we're looking for is over there!
+
+##### Response branch 1
+
+- **Traveler:** Huh? What?
+
+##### Response branch 2
+
+- **Traveler:** This isn't another illusion!?
+
+##### Shared continuation
+
+**Innocent Piggy:** Oink oink! Oink oink!
+
+##### Response branch 2
+
+- **Traveler:** That's a sound argument. I concur!
+
+**???:** Oink oink! Oink oink!
+
+##### Response branch 1
+
+##### Shared continuation
+
+- **Traveler:** I see... Do you have any family?
+
+**???:** Oink oink...
+
+##### Response branch 2
+
+- **Traveler:** Hello, I'm Traveler.
+
+**???:** Oink oink!
+
+##### Response branch 3
+
+- **Traveler:** You're an illusion, aren't you? Take this!
+
+**???:** Oink oink?!
+
+You swing your sword at the forest boar — It gives a loud squeal and then collapses...
+
+#### Talk to Atzilli
 
 **Paimon:** Atzilli, we're back!
 
 **Paimon:** There were three bad flowers in that field! But, umm... Traveler was acting a little strange. You're okay, right...?
 
+##### Response branch 1
+
 - **Traveler:** Yeah, I'm fine.
 
+##### Response branch 2
+
 - **Traveler:** Just pollen-induced hallucinations. No big deal.
+
+##### Shared continuation
 
 **???:** Hallucinations? Then there's no need to worry. It's common for Brewblossoms to release hallucinogenic pollen as a defense mechanism. They must've been especially reactive to you.
 
@@ -827,62 +1048,13 @@ Sir Briannus challenges you to a duel. You swing your sword at the big dog, and 
 
 **???:** But still... hmm. Traveler, are you experiencing any other symptoms?
 
-Nope. Not yet, anyway...
+- **Traveler:** Nope. Not yet, anyway...
 
 **???:** All right. You know yourself best, but if anything starts to feel off, please let me know immediately.
 
 **Paimon:** Then let's finish up the last field in one go!
 
 #### Investigate the issue with the flower fields
-
-**Innocent Piggy:** Oink oink... Mmm... Oink oink...
-
-- **Traveler:** Let me guess — you can talk?
-
-- **Traveler:** Hello, I'm Traveler.
-
-- **Traveler:** You're an illusion, aren't you? Take this!
-
-**Innocent Piggy:** Oink oink?
-
-**Innocent Piggy:** Oink oink!
-
-**Innocent Piggy:** Oink oink?!
-
-**Innocent Piggy:** Oink... oink...
-
-- **Traveler:** Oh? And why do you think that?
-
-- **Traveler:** That's a sound argument. I concur!
-
-**Innocent Piggy:** Oink oink... oink oink! Mmm, mmh... oink oink!
-
-- **Traveler:** I see... Do you have any family?
-
-- **Traveler:** I also have one person I consider family.
-
-**Innocent Piggy:** Oink oink! Oink oink!
-
-- **Traveler:** I see... Do you have any family?
-
-- **Traveler:** I also have one person I consider family.
-
-**Innocent Piggy:** Oink oink...
-
-**Innocent Piggy:** Oink oink! Mmmph, mmph...!
-
-**Paimon:** Ahem! Not to interrupt this... beautiful friendship, but...
-
-**Paimon:** Paimon's pretty sure the flower we're looking for is over there!
-
-- **Traveler:** Huh? What?
-
-- **Traveler:** This isn't another illusion!?
-
-**Innocent Piggy:** Oink oink! Oink oink!
-
-You swing your sword at the forest boar — It gives a loud squeal and then collapses...
-
 
 "Farewell, child of the stars! Should we not meet again in this nation... I shall await you in another..."
 
@@ -895,7 +1067,7 @@ By the time your senses return, Paimon is already hovering nervously around you.
 
 **Paimon:** You totally spaced out for a second there... Were you seeing stuff again?
 
-Let's use the Dream Extractor first. I'm fine.
+- **Traveler:** Let's use the Dream Extractor first. I'm fine.
 
 **Paimon:** Well, as long as you're okay!
 
@@ -905,21 +1077,21 @@ Let's use the Dream Extractor first. I'm fine.
 
 **Paimon:** But... something's off with Traveler. Any ideas?
 
-I'm fine, just a little lightheaded.
+- **Traveler:** I'm fine, just a little lightheaded.
 
 **???:** Did you see anything over there? Some kind of dangerous hallucination?
 
-*You describe the hallucination you saw to Atzilli...*
+You describe the hallucination you saw to Atzilli...
 
 **???:** The "Papa Witch Doctor's Prank"...
 
-What's that?
+- **Traveler:** What's that?
 
 **???:** It's an old tale passed down among shamans and brewers. They say Papa Witch Doctor guides the spirits of those who were unlucky and didn't die in glorious battle.
 
 **???:** He's the kind of twisted spirit who treats fear like a game — always crafting eerie nightmares to toy with the living who catch his eye.
 
-...
+- **Traveler:** ...
 
 **???:** Anyway... Ahem! Anyway, let me look you over, Traveler. You should be mostly fine.
 
@@ -951,6 +1123,8 @@ A few minutes later...
 
 **???:** I'll also answer those questions you had earlier, so don't forget to come over!
 
+#### Wait until the following day
+
 #### Talk to Atzilli and try out the "dream drink"
 
 **???:** Haha, remember that "Sweet Dream Brew" I mentioned? Well, I've got some great news for you!
@@ -969,9 +1143,15 @@ A few minutes later...
 
 **Paimon:** Not at all!
 
+##### Response branch 1
+
 - **Traveler:** I need to be sure this drink isn't dangerous.
 
+##### Response branch 2
+
 - **Traveler:** You promised to explain the secret behind it.
+
+##### Shared continuation
 
 **???:** Hmm? Oh, right... I did, didn't I...?
 
@@ -983,9 +1163,15 @@ A few minutes later...
 
 **Paimon:** Which part of "die within five seconds" sounds "tolerable" to you!?
 
+##### Response branch 1
+
 - **Traveler:** So you're saying drinking it will kill me.
 
+##### Response branch 2
+
 - **Traveler:** It's fine, Paimon! The worst that can happen is that... I... die?
+
+##### Shared continuation
 
 **???:** It's not a true death, per se, because your body will continue to function normally. Unless... you get so lost in the dreamscape that you forget to come back.
 
@@ -1005,13 +1191,19 @@ A few minutes later...
 
 **???:** So? Wanna try? Or are you chicken?
 
-- **Traveler:** I'm not scared of something like that.
+##### Response branch 1
 
-- **Traveler:** That's nothing. I've "died" more times than I can count.
+- **Traveler:** I'm not scared of something like that.
 
 **Paimon:** Then... give Paimon one too! No way Traveler's going anywhere without her!
 
+##### Response branch 2
+
+- **Traveler:** That's nothing. I've "died" more times than I can count.
+
 **Paimon:** Hmph... give Paimon one too! She's not going to let you show off on your own!
+
+##### Shared continuation
 
 **???:** Haha, no worries — there's plenty for both of you! Here are your two cups of "Sweet Dream Brew."
 
@@ -1026,23 +1218,29 @@ And then, a hazy dream...
 
 **???:** Olah! Mosi mita yo! Sada mimi dada! Sada domu dada!
 
-- **Traveler:** Yo ya dala?
+##### Response branch 1
 
-- **Traveler:** Mi in dala?
+- **Traveler:** Yo ya dala?
 
 **???:** I'm your friend, and you're my friend! We're all good friends!
 
+##### Response branch 2
+
+- **Traveler:** Mi in dala?
+
 **???:** Oh, you're in a happy place — a very happy place!
+
+##### Shared continuation
 
 **Paimon:** Ahaha! Mi zido mita dada!
 
-Sado! Yo beru mimi beru!?
+- **Traveler:** Sado! Yo beru mimi beru!?
 
 **???:** Haha, what are you talking about? You're the one who started speaking our language!
 
 **Paimon:** Sama! Mito! Ya upa dala?
 
-Ya upa dala?
+- **Traveler:** Ya upa dala?
 
 **???:** Hehe, there's treasure up there! Let's go dig it up!
 
@@ -1050,13 +1248,13 @@ Ya upa dala?
 
 **Paimon:** Mimi Mani! Mimi mosi! Mimi muhe!
 
-Mimi muhe!
+- **Traveler:** Mimi muhe!
 
 **???:** Yay! Treasure!
 
 **Paimon:** Mosi mita! Mita dada! Hahahahahaha!
 
-*Unta dada, yoyo upa, nunu beru valo yoyo...*
+Unta dada, yoyo upa, nunu beru valo yoyo...
 
 #### Talk to Atzilli
 
@@ -1064,9 +1262,9 @@ Mimi muhe!
 
 **Paimon:** Ugh... Paimon's head hurts so bad... Traveler, are you okay?
 
-We had a very strange dream...
+- **Traveler:** We had a very strange dream...
 
-We dreamed we were digging treasure... with Hilichurls?
+- **Traveler:** We dreamed we were digging treasure... with Hilichurls?
 
 **Paimon:** Umm... It's hard to explain... By the way, were we "dead" for a long time?
 
@@ -1080,7 +1278,7 @@ We dreamed we were digging treasure... with Hilichurls?
 
 **Paimon:** Huh? Uh... We'll try!
 
-*You and Paimon piece together the bizarre dreamscape as "Mad-Eye" Atzilli listens intently, scribbling down notes.*
+You and Paimon piece together the bizarre dreamscape as "Mad-Eye" Atzilli listens intently, scribbling down notes.
 
 **???:** Haha, that was great! It was total nonsense, but overall, what a fun dream it must have been!
 
@@ -1096,7 +1294,7 @@ We dreamed we were digging treasure... with Hilichurls?
 
 **Paimon:** Phew... That's a bit of a relief. Its effects are... kinda strong.
 
-Strong and strange.
+- **Traveler:** Strong and strange.
 
 **???:** Pfft... Alright, alright, I get it!
 
@@ -1112,12 +1310,17 @@ Strong and strange.
 
 在提提岛的野外遇到了盛开着醅幽花的苗圃，而苗圃的管理者似乎是一位神秘的女子…
 
-
 **？？？:** 唔…这个苦味，是火烧草放多了吗？
+
+##### 对话分支 1
 
 - **旅行者:** 你好。
 
+##### 对话分支 2
+
 - **旅行者:** 什么火烧草？
+
+##### 共同后续
 
 **？？？:** 微光角菌…需要发酵后蒸煮…嗯，两轮…效果：微弱…
 
@@ -1125,21 +1328,27 @@ Strong and strange.
 
 #### 和埃兹莉交谈
 
-**派蒙:** （散发着微光的花蕾随着手指的抚摸轻轻摇摆，似乎正依照着某种无声的节律脉动…）
+**奇怪的花朵:** （散发着微光的花蕾随着手指的抚摸轻轻摇摆，似乎正依照着某种无声的节律脉动…）
 
 **？？？:** 请不要乱碰这朵花！
 
-- **旅行者:** 对不起。
+##### 对话分支 1
 
-- **旅行者:** 是这朵花碰了我。
+- **旅行者:** 对不起。
 
 **？？？:** 你还挺有礼貌。难怪它不讨厌你呢。
 
+##### 对话分支 2
+
+- **旅行者:** 是这朵花碰了我。
+
 **？？？:** 油嘴滑舌。不过，它确实不讨厌你呢。
+
+##### 共同后续
 
 **派蒙:** 欸？仔细一看，它像是在「跳舞」呢！
 
-它在…蠕动。
+- **旅行者:** 它在…蠕动。
 
 **派蒙:** 呜啊…不要用那么恶心的词来形容花啦！不如说是在「舞动」呢。
 
@@ -1149,78 +1358,90 @@ Strong and strange.
 
 **？？？:** 有些人…唔，我该怎么说呢，生来便有灵性。因而吸收灵性物质的醅幽花对他们更加亲切，毕竟传说它是跨越两界的植物嘛。
 
-**？？？:** 顺便，我是「怪眼」埃兹莉！「醅蜜」酒吧的酿酒师。你们叫什么？
+**埃兹莉:** 顺便，我是「怪眼」埃兹莉！「醅蜜」酒吧的酿酒师。你们叫什么？
+
+##### 对话分支 1
 
 - **旅行者:** 我是「猩猩拳」斯维杰纳娅·巴布什卡。 / 我是「合金橡木腿」埃曼努埃莱。
 
-- **旅行者:** 你好，我是旅行者。
-
 **派蒙:** 我是「超级飞侠」亨特·哥顿！
 
-**？？？:** 哇…好傻的名字。
+**埃兹莉:** 哇…好傻的名字。
 
 **派蒙:** 你的也好不到哪里去啦！
 
 **派蒙:** 不闹了！我是派蒙，这位是旅行者！
 
+##### 对话分支 2
+
+- **旅行者:** 你好，我是旅行者。
+
 **派蒙:** 我是派蒙！
 
-**？？？:** 你们来得正好！我正好有事情要拜托你们帮忙！
+##### 共同后续
+
+**埃兹莉:** 你们来得正好！我正好有事情要拜托你们帮忙！
 
 **派蒙:** 咦？是你刚刚说的…「暝视」什么的吗？
 
-**？？？:** 聪明呢，给你糖吃。
+**埃兹莉:** 聪明呢，给你糖吃。
 
 **派蒙:** 哇，谢谢！
 
-**？？？:** 是这样啦，我一直在想办法给「醅蜜」调配新的饮料，好为我那个什么也不会的老姐吸引新潮的顾客。
+**埃兹莉:** 是这样啦，我一直在想办法给「醅蜜」调配新的饮料，好为我那个什么也不会的老姐吸引新潮的顾客。
 
-**？？？:** 而我最近的一个项目呢，就是这个…嗯，让我想想怎么说…
+**埃兹莉:** 而我最近的一个项目呢，就是这个…嗯，让我想想怎么说…
 
-**？？？:** 「能创造酣乐甜美的梦境，让普通人获得接近暝视的体验，但却不会喝高、不会宿醉的无酒精饮料！」
+**埃兹莉:** 「能创造酣乐甜美的梦境，让普通人获得接近暝视的体验，但却不会喝高、不会宿醉的无酒精饮料！」
 
-**？？？:** 这种饮料最重要的原料，就是从这些醅幽花中提取的高纯度花蜜。不过问题就在这里咯。
+**埃兹莉:** 这种饮料最重要的原料，就是从这些醅幽花中提取的高纯度花蜜。不过问题就在这里咯。
 
 **派蒙:** 是花蜜的纯度不够？
 
-**？？？:** 没错！给你糖吃！
+**埃兹莉:** 没错！给你糖吃！
 
 **派蒙:** 嘿嘿，我真厉害！
 
-**？？？:** 嗯…如果我的暝视天赋足够的话，就能很容易看出问题所在。不像现在只能一遍遍地实验分析。
+**埃兹莉:** 嗯…如果我的暝视天赋足够的话，就能很容易看出问题所在。不像现在只能一遍遍地实验分析。
 
-**？？？:** 不过幸好你们来了，借助你了不起的暝视天赋，正好可以帮我的忙！
+**埃兹莉:** 不过幸好你们来了，借助你了不起的暝视天赋，正好可以帮我的忙！
 
-需要我怎么做呢？
+- **旅行者:** 需要我怎么做呢？
 
-**？？？:** 请先喝下这瓶花蜜萃取液，然后我再给你解释。
+**埃兹莉:** 请先喝下这瓶花蜜萃取液，然后我再给你解释。
+
+##### 对话分支 1
 
 - **旅行者:** 请给我喝。
 
+**埃兹莉:** 这里，给。
+
+##### 对话分支 2
+
 - **旅行者:** 慢着，这看起来不太妙…
 
-**？？？:** 这里，给。
+**埃兹莉:** 没问题啦，理论上只是有致盲可能而已！
 
-**？？？:** 没问题啦，理论上只是有致盲可能而已！
+**埃兹莉:** 如果你的暝视天赋很强大的话，眼睛留不留都无所谓啦。
 
-**？？？:** 如果你的暝视天赋很强大的话，眼睛留不留都无所谓啦。
+- **旅行者:** 这逻辑也太随意了吧！
 
-这逻辑也太随意了吧！
-
-**？？？:** 噗哧，开玩笑的嘛，你不会瞎掉的。
+**埃兹莉:** 噗哧，开玩笑的嘛，你不会瞎掉的。
 
 **派蒙:** 认真点啦！
+
+##### 共同后续
 
 你将瓶里的液体一饮而尽，一阵甜腐气息弥漫全身…
 仿佛一个被遗忘太久的旧梦，化作了潮湿闪光的薄雾…
 
 很快，薄雾散去，你眼前的景物恢复了正常。
 
-**？？？:** 我说吧，你不会瞎掉的。我们现在就开始吧！
+**埃兹莉:** 我说吧，你不会瞎掉的。我们现在就开始吧！
 
-**？？？:** 我家门口这三片花田都需要处理，有你们的帮助，我就可以很容易地分辨出有杂质的醅幽花了。
+**埃兹莉:** 我家门口这三片花田都需要处理，有你们的帮助，我就可以很容易地分辨出有杂质的醅幽花了。
 
-**？？？:** 跟我来，我先带你们熟悉一下工具。
+**埃兹莉:** 跟我来，我先带你们熟悉一下工具。
 
 #### 和埃兹莉交谈
 
@@ -1235,6 +1456,8 @@ Strong and strange.
 **？？？:** 它们是会对特殊体质产生反应的花朵。虽然不清楚是怎么样的反应，但如果靠得足够近，异状一定会格外显眼的。
 
 **？？？:** 等你们进入花田就知道了。
+
+#### 调查花田的问题
 
 #### 和埃兹莉交谈
 
@@ -1252,39 +1475,41 @@ Strong and strange.
 
 #### 调查花田的问题
 
-**丹巴拉:** 呼噜噜噜噜…
+**？？？:** 呼噜噜噜噜…
 
-**丹巴拉:** 呜喵？
+**？？？:** 呜喵？
+
+##### 对话分支 1
 
 - **旅行者:** 噫，小猫！
 
-- **旅行者:** 你这幻象骗不到我，看剑！
+**？？？:** 埃兹莉，你这臭女人！你背着我养人类了吗！
 
-**丹巴拉:** 喵哇！！
+**？？？:** 啊…人类…没教养的、肮脏的、臭臭的人类！
 
-**丹巴拉:** 埃兹莉，你这臭女人！你背着我养人类了吗！
+**？？？:** 你妈妈没有教过你，该怎么样对待一株可怜的、孤独的、自以为自由的脆弱小花…呜呜…
 
-**丹巴拉:** 啊…人类…没教养的、肮脏的、臭臭的人类！
-
-**丹巴拉:** 你妈妈没有教过你，该怎么样对待一株可怜的、孤独的、自以为自由的脆弱小花…呜呜…
-
-**丹巴拉:** 呜呜…顺便，我是「苍白的丹巴拉」，叫我丹巴拉就好。
+**？？？:** 呜呜…顺便，我是「苍白的丹巴拉」，叫我丹巴拉就好。
 
 **丹巴拉:** 来呀！无法无天的入侵者，有胆就面对我的利爪和尖牙！
 
 **丹巴拉:** 等等，你怎么还不退下！是我的威慑力还不够吗！呃…
 
+##### 对话分支 1
+
 - **旅行者:** 请不要过激，小猫。
-
-- **旅行者:** 请停下，现在威慑力足够了。
-
-- **旅行者:** 你是幻象吧？我得消灭你。
 
 **丹巴拉:** 哈！告诉我，你想干什么！是不是想要伤害我！是不是想要偷走我的花粉？
 
 **丹巴拉:** …唉呀！你这下流的家伙！
 
+##### 对话分支 1
+
 - **旅行者:** 你这幻象，看剑！
+
+你挥剑砍向苍白的丹巴拉，小猫应声消散了…
+
+##### 对话分支 2
 
 - **旅行者:** 我没想伤害你，只是要忽略掉你。
 
@@ -1292,7 +1517,7 @@ Strong and strange.
 
 **丹巴拉:** 没有偷花粉…？也没有吸花蜜？
 
-没有，你身体里奇怪的杂质太多了。
+- **旅行者:** 没有，你身体里奇怪的杂质太多了。
 
 **丹巴拉:** 啊？哦…嗯……
 
@@ -1300,29 +1525,71 @@ Strong and strange.
 
 **丹巴拉:** 那，再见。
 
+##### 对话分支 2
+
+- **旅行者:** 请停下，现在威慑力足够了。
+
+##### 对话分支 3
+
+- **旅行者:** 你是幻象吧？我得消灭你。
+
+你挥剑砍向苍白的丹巴拉，小猫应声消散了…
+
+##### 对话分支 2
+
+- **旅行者:** 你这幻象骗不到我，看剑！
+
+**？？？:** 喵哇！！
+
 你挥剑砍向小猫的幻象，它应声消散了…
 
-你挥剑砍向苍白的丹巴拉，小猫应声消散了…
-
-你挥剑砍向苍白的丹巴拉，小猫应声消散了…
-
-#### 和埃兹莉交谈
-
-**布利安努斯爵士:** 呜呜呜…呜汪！汪汪！
+**？？？:** 呜呜呜…呜汪！汪汪！
 
 **布利安努斯爵士:** 我是此地的骑士，阿汪·布利安努斯爵士，请问来者姓名是…？
 
+##### 对话分支 1
+
 - **旅行者:** 叫我旅行者就好。
+
+**布利安努斯爵士:** 嗷呜，旅行者先生，幸会。请问，您来到这里有何贵干呢？ / 嗷呜，旅行者小姐，幸会。请问，您来到这里有何贵干呢？
+
+- **旅行者:** 我是来找您所保护的那朵花的。
+
+**布利安努斯爵士:** 那么我的猜测没错。抱歉，我已经立下了剑的誓言，不能让你接触我的侍从与仕女。
+
+- **旅行者:** 侍从与仕女…是两朵花？
+
+**布利安努斯爵士:** 呃…你看，让我从生物学上解释，一朵醅幽花里既有雄蕊，也有雌蕊，对吧？
+
+**布利安努斯爵士:** 所以…你看，既是侍从，也是仕女。
+
+##### 对话分支 1
+
+- **旅行者:** 你这幻象竟用生物学蛊惑我，看剑！
+
+你挥剑砍向布利安努斯爵士，大狗应声消散了…
+
+##### 对话分支 2
+
+- **旅行者:** 还挺…前卫的。
+
+**布利安努斯爵士:** 嘿嘿，你会认为鲜花的存在很「前卫」吗？在我们发明「前卫」这个词很久以前，它们就这样存在了。
+
+**布利安努斯爵士:** 好了，先生，和你聊天很高兴，但抱歉，我要坚守剑的誓言，请拔剑开始决斗吧！ / 好了，小姐，和你聊天很高兴，但抱歉，我要坚守剑的誓言，请拔剑开始决斗吧！
+
+布利安努斯爵士向你发起决斗，你挥剑砍向大狗，它应声消散了…
+
+##### 对话分支 2
 
 - **旅行者:** 好狗狗，好狗狗。
 
 **布利安努斯爵士:** 呜呜呜…呜汪！呜汪！
 
-谁是我的好朋友？
+- **旅行者:** 谁是我的好朋友？
 
 **布利安努斯爵士:** 呜汪！呜汪！
 
-是我们的小派蒙！
+- **旅行者:** 是我们的小派蒙！
 
 **派蒙:** 欸？！
 
@@ -1330,39 +1597,91 @@ Strong and strange.
 
 **布利安努斯爵士:** 呜呜…你竟敢羞辱一位骑士，我要求决斗！
 
-**布利安努斯爵士:** 嗷呜，旅行者先生 / 小姐，幸会。请问，您来到这里有何贵干呢？
-
-你挥剑砍向布利安努斯爵士，大狗应声消散了…
-
 布利安努斯爵士向你发起决斗，你挥剑砍向大狗，它应声消散了…
 
-我是来找您所保护的那朵花的。
+**？？？:** 哼哼…嗯…哼哼…
 
-**布利安努斯爵士:** 那么我的猜测没错。抱歉，我已经立下了剑的誓言，不能让你接触我的侍从与仕女。
+##### 对话分支 1
 
-侍从与仕女…是两朵花？
+- **旅行者:** 我猜，你会说话？
 
-**布利安努斯爵士:** 呃…你看，让我从生物学上解释，一朵醅幽花里既有雄蕊，也有雌蕊，对吧？
+**？？？:** 哼哼？
 
-**布利安努斯爵士:** 所以…你看，既是侍从，也是仕女。
+**？？？:** 哼呜，哼呜。
 
-- **旅行者:** 你这幻象竟用生物学蛊惑我，看剑！
+##### 对话分支 1
 
-- **旅行者:** 还挺…前卫的。
+- **旅行者:** 这样吗？你为什么会这么觉得？
 
-**布利安努斯爵士:** 嘿嘿，你会认为鲜花的存在很「前卫」吗？在我们发明「前卫」这个词很久以前，它们就这样存在了。
+**？？？:** 哼哼…哼哼！嗯唔，嗯唔哼哼！
 
-**布利安努斯爵士:** 好了，先生 / 小姐，和你聊天很高兴，但抱歉，我要坚守剑的誓言，请拔剑开始决斗吧！
+##### 对话分支 1
 
-布利安努斯爵士向你发起决斗，你挥剑砍向大狗，它应声消散了…
+##### 对话分支 2
+
+- **旅行者:** 我也还有一位家人。
+
+**？？？:** 哼哼！呼呼…！
+
+**派蒙:** 那个…虽然你们聊得很开心的样子…我不知道该不该现在打扰你们啦…
+
+**派蒙:** 但是，我们要找的那朵花应该在那边吧！
+
+##### 对话分支 1
+
+- **旅行者:** 欸？啊？？
+
+##### 对话分支 2
+
+- **旅行者:** 这不是幻觉？！
+
+##### 共同后续
+
+**无辜的小猪:** 哼哼！哼哼！
+
+##### 对话分支 2
+
+- **旅行者:** 没错，我也这样认为！
+
+**？？？:** 哼哼！哼哼！
+
+##### 对话分支 1
+
+##### 共同后续
+
+- **旅行者:** 这样啊…你还有其他家人吗？
+
+**？？？:** 哼哼…
+
+##### 对话分支 2
+
+- **旅行者:** 你好，我是旅行者。
+
+**？？？:** 哼！哼！
+
+##### 对话分支 3
+
+- **旅行者:** 你是幻象吧？看剑！
+
+**？？？:** 哼哼？！
+
+你挥剑砍向林猪，它惨叫一声倒下了…
+
+#### 和埃兹莉交谈
 
 **派蒙:** 「怪眼」小姐，我们回来啦！
 
 **派蒙:** 这片花田里居然有三朵坏花！呃，只不过旅行者的表现好奇怪哦…不会有问题吧…？
 
+##### 对话分支 1
+
 - **旅行者:** 我没问题的。
 
+##### 对话分支 2
+
 - **旅行者:** 只是花粉造成的幻觉而已。
+
+##### 共同后续
 
 **？？？:** 幻觉吗？那应该没事的，醅幽花释放致幻花粉是常见的自保手段。它们应该是对你格外敏感。
 
@@ -1370,62 +1689,13 @@ Strong and strange.
 
 **？？？:** 只不过…唔，旅行者还有什么其他不适感吗？
 
-我没有…
+- **旅行者:** 我没有…
 
 **？？？:** 那我就暂且相信你…但如果你感觉身体有问题请一定跟我说。
 
 **派蒙:** 那我们就一鼓作气完成最后一片花田吧！
 
 #### 调查花田的问题
-
-**无辜的小猪:** 哼哼…嗯…哼哼…
-
-- **旅行者:** 我猜，你会说话？
-
-- **旅行者:** 你好，我是旅行者。
-
-- **旅行者:** 你是幻象吧？看剑！
-
-**无辜的小猪:** 哼哼？
-
-**无辜的小猪:** 哼！哼！
-
-**无辜的小猪:** 哼哼？！
-
-**无辜的小猪:** 哼呜，哼呜。
-
-- **旅行者:** 这样吗？你为什么会这么觉得？
-
-- **旅行者:** 没错，我也这样认为！
-
-**无辜的小猪:** 哼哼…哼哼！嗯唔，嗯唔哼哼！
-
-- **旅行者:** 这样啊…你还有其他家人吗？
-
-- **旅行者:** 我也还有一位家人。
-
-**无辜的小猪:** 哼哼！哼哼！
-
-- **旅行者:** 这样啊…你还有其他家人吗？
-
-- **旅行者:** 我也还有一位家人。
-
-**无辜的小猪:** 哼哼…
-
-**无辜的小猪:** 哼哼！呼呼…！
-
-**派蒙:** 那个…虽然你们聊得很开心的样子…我不知道该不该现在打扰你们啦…
-
-**派蒙:** 但是，我们要找的那朵花应该在那边吧！
-
-- **旅行者:** 欸？啊？？
-
-- **旅行者:** 这不是幻觉？！
-
-**无辜的小猪:** 哼哼！哼哼！
-
-你挥剑砍向林猪，它惨叫一声倒下了…
-
 
 「再会了，星空之子！如果我不能和你再在这个国度相遇…那么我会，我会在另一个国度等你…」
 
@@ -1438,7 +1708,7 @@ Strong and strange.
 
 **派蒙:** 呜哇…你刚才就在这里发呆，是又看见了幻觉吗？
 
-先用美梦汲取瓶吧。
+- **旅行者:** 先用美梦汲取瓶吧。
 
 **派蒙:** 嗯，总之你没事就好。
 
@@ -1448,21 +1718,21 @@ Strong and strange.
 
 **派蒙:** 但是…旅行者变得好怪…你知道是怎么回事吗！
 
-我没事，只是头有点晕晕的…
+- **旅行者:** 我没事，只是头有点晕晕的…
 
 **？？？:** 你们在那里发现什么了？是什么危险的幻象吗？
 
-*你为埃兹莉具言了所见的幻象…*
+你为埃兹莉具言了所见的幻象…
 
 **？？？:** 「巫医爸爸的恶作剧」…
 
-那是什么？
+- **旅行者:** 那是什么？
 
 **？？？:** 「巫医爸爸」是在萨满和酿酒师中间流传的一个传说。人们说他会指引那些不幸而未能光荣战死的人的魂灵。
 
 **？？？:** 这家伙是个把恐怖当游戏的恶劣家伙，所以他经常制造诡异的噩梦，来玩弄那些被他注意到的生者。
 
-……
+- **旅行者:** ……
 
 **？？？:** 噗哧…总之，让我检查一下旅行者的身体，应该不会有什么大碍的。
 
@@ -1494,6 +1764,8 @@ Strong and strange.
 
 **？？？:** 而且我也会解答你之前的疑问，所以请不要忘记过来呀！
 
+#### 等到第二天
+
 #### 与埃兹莉对话，品尝一下美梦饮料
 
 **？？？:** 哈哈，还记得我说过的「美梦特调」吗？我有一个好消息要告诉你们！
@@ -1512,9 +1784,15 @@ Strong and strange.
 
 **派蒙:** 一点也不！
 
+##### 对话分支 1
+
 - **旅行者:** 我需要确认这饮料是否危险。
 
+##### 对话分支 2
+
 - **旅行者:** 你答应过给我解释它的秘密。
+
+##### 共同后续
 
 **？？？:** 嗯？ 哦，对哦…让我想想怎么说呢…
 
@@ -1526,9 +1804,15 @@ Strong and strange.
 
 **派蒙:** 听起来还是好危险…！
 
+##### 对话分支 1
+
 - **旅行者:** 你的意思是，喝了会死？
 
+##### 对话分支 2
+
 - **旅行者:** 没事啦，派蒙，喝了只是…会死…？
+
+##### 共同后续
 
 **？？？:** 话是这么说啦，但你的身体机能仍然在正常运转。除非…你过于沉迷梦想中的景色，忘记了回来。
 
@@ -1548,13 +1832,19 @@ Strong and strange.
 
 **？？？:** 嘿嘿，要不要也来试试？还是说害怕了？
 
-- **旅行者:** 这种东西我才不怕。
+##### 对话分支 1
 
-- **旅行者:** 那有什么，我「死」过不止一回呢。
+- **旅行者:** 这种东西我才不怕。
 
 **派蒙:** 那…那也给我来一杯！不管去哪里我都要和旅行者一起。
 
+##### 对话分支 2
+
+- **旅行者:** 那有什么，我「死」过不止一回呢。
+
 **派蒙:** 哼…给我也来一杯！不能让你一个人装酷。
+
+##### 共同后续
 
 **？？？:** 哈哈，不用担心，人人都有！这里是你们的两杯「美梦特饮」。
 
@@ -1569,23 +1859,29 @@ Strong and strange.
 
 **？？？:** Olah! Mosi mita yo! Sada mimi dada! Sada domu dada!
 
-- **旅行者:** Yo ya dala?
+##### 对话分支 1
 
-- **旅行者:** Mi in dala?
+- **旅行者:** Yo ya dala?
 
 **？？？:** 我是你的朋友！你也是我的朋友，我们都是好朋友！
 
+##### 对话分支 2
+
+- **旅行者:** Mi in dala?
+
 **？？？:** 哦，你在一个快乐的地方，快乐的地方！
+
+##### 共同后续
 
 **派蒙:** Ahaha! Mi zido mita dada!
 
-Sado! Yo beru mimi beru?!
+- **旅行者:** Sado! Yo beru mimi beru?!
 
 **？？？:** 哈哈，你在说什么呢！是你先说了我们的语言！
 
 **派蒙:** Sama! Mito! Ya upa dala?
 
-Ya upa dala?
+- **旅行者:** Ya upa dala?
 
 **？？？:** 啊哈哈，在那上面是宝藏！我们去挖宝藏！
 
@@ -1593,13 +1889,13 @@ Ya upa dala?
 
 **派蒙:** Mimi Mani! Mimi mosi! Mimi muhe!
 
-Mimi muhe!
+- **旅行者:** Mimi muhe!
 
 **？？？:** 好耶，是宝藏！
 
 **派蒙:** Mosi mita! Mita dada! Hahahahahaha!
 
-*Unta dada, yoyo upa, nunu beru valo yoyo…*
+Unta dada, yoyo upa, nunu beru valo yoyo…
 
 #### 和埃兹莉交谈
 
@@ -1607,9 +1903,9 @@ Mimi muhe!
 
 **派蒙:** …呜哇，我的头好痛…旅行者，你呢？
 
-我们做了一个好怪异的梦…
+- **旅行者:** 我们做了一个好怪异的梦…
 
-我们梦见和丘丘人一起…挖宝藏？
+- **旅行者:** 我们梦见和丘丘人一起…挖宝藏？
 
 **派蒙:** 唔…好难解释发生了什么…话说回来，我们「死掉」了很长时间吗？
 
@@ -1623,7 +1919,7 @@ Mimi muhe!
 
 **派蒙:** 啊？唔…我们尽量吧！
 
-*你与派蒙尽可能地拼凑着光怪陆离的梦境，「怪眼」埃兹莉津津有味地记录了下来。*
+你与派蒙尽可能地拼凑着光怪陆离的梦境，「怪眼」埃兹莉津津有味地记录了下来。
 
 **？？？:** 哈哈，太好了！虽然乱七八糟的…但总体来说是个很开心的幻梦！
 
@@ -1639,7 +1935,7 @@ Mimi muhe!
 
 **派蒙:** 呼…那样说我们稍微有点放心啦…毕竟它的功能感觉相当强大。
 
-确实很怪异。
+- **旅行者:** 确实很怪异。
 
 **？？？:** 噗哧…好啦，我知道了！
 

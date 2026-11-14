@@ -3404,6 +3404,657 @@
     "search_text": "маски хиличурлов hilichurl masks 丘丘人的面具 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops обычные противники hilichurl hilichurl_fighter hilichurl_berserker wooden_shield_hilichurl_guard ice_shield_hilichurl_guard rock_shield_hilichurl_guard hilichurl_shooter pyro_hilichurl_shooter electro_hilichurl_shooter cryo_hilichurl_shooter hilichurl_grenadier electro_hilichurl_grenadier cryo_hilichurl_grenadier wooden_shieldwall_mitachurl rock_shieldwall_mitachurl ice_shieldwall_mitachurl blazing_axe_mitachurl crackling_axe_mitachurl thunderhelm_lawachurl frostarm_lawachurl stonehide_lawachurl anemo_samachurl electro_samachurl dendro_samachurl hydro_samachurl geo_samachurl cryo_samachurl хиличурл 丘丘人 хиличурл-боец hilichurl fighter 打手丘丘人 хиличурл-берсерк hilichurl berserker 冲锋丘丘人 хиличурл с деревянным щитом wooden shield hilichurl guard 木盾丘丘人 хиличурл с ледяным щитом ice shield hilichurl guard 冰盾丘丘人 хиличурл с каменным щитом rock shield hilichurl guard 岩盾丘丘人 хиличурл-стрелок hilichurl shooter 射手丘丘人 пиро хиличурл-стрелок pyro hilichurl shooter 火箭丘丘人 электро хиличурл-стрелок electro hilichurl shooter 雷箭丘丘人 крио хиличурл-стрелок cryo hilichurl shooter 冰箭丘丘人 хиличурл-гренадёр hilichurl grenadier 爆弹丘丘人 электро хиличурл-гренадёр electro hilichurl grenadier 雷弹丘丘人 крио хиличурл-гренадёр cryo hilichurl grenadier 冰弹丘丘人 митачурл с деревянным щитом wooden shieldwall mitachurl 木盾丘丘暴徒 митачурл с каменным щитом rock shieldwall mitachurl 岩盾丘丘暴徒 митачурл с ледяным щитом ice shieldwall mitachurl 冰盾丘丘暴徒 митачурл с огненным топором blazing axe mitachurl 火斧丘丘暴徒 митачурл с электрическим топором crackling axe mitachurl 雷斧丘丘暴徒 лавачурл с громовым шлемом thunderhelm lawachurl 丘丘雷兜王 лавачурл с инеевым панцирем frostarm lawachurl 丘丘霜铠王 лавачурл с каменным панцирем stonehide lawachurl 丘丘岩盔王 анемо шамачурл anemo samachurl 风丘丘萨满 электро шамачурл electro samachurl 雷丘丘萨满 дендро шамачурл dendro samachurl 草丘丘萨满 гидро шамачурл hydro samachurl 水丘丘萨满 гео шамачурл geo samachurl 岩丘丘萨满 крио шамачурл cryo samachurl 冰丘丘萨满 damaged_mask stained_mask ominous_mask разбитая маска damaged mask 破损的面具 грязная маска stained mask 污秽的面具 зловещая маска ominous mask 不祥的面具"
   },
   {
+    "id": "material_set_112143",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112143.webp",
+    "title": {
+      "ru": "Повреждённое лунное железо / Угасшее лунное железо / Безупречное лунное железо",
+      "en": "Fractured Lunar Iron / Depleted Lunar Iron / Unblemished Lunar Iron",
+      "zh": "残损的月铁 / 空竭的月铁 / 无秽的月铁"
+    },
+    "region": "Луна",
+    "game_version": "6.7",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112143",
+        "title": {
+          "ru": "Повреждённое лунное железо",
+          "en": "Fractured Lunar Iron",
+          "zh": "残损的月铁"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112143.webp"
+      },
+      {
+        "key": "material_112144",
+        "title": {
+          "ru": "Угасшее лунное железо",
+          "en": "Depleted Lunar Iron",
+          "zh": "空竭的月铁"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112144.webp"
+      },
+      {
+        "key": "material_112145",
+        "title": {
+          "ru": "Безупречное лунное железо",
+          "en": "Unblemished Lunar Iron",
+          "zh": "无秽的月铁"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112145.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "precursor_s_secret_source_matrix_of_overseer_network"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "precursor_s_secret_source_matrix_of_overseer_network",
+        "title": {
+          "ru": "Предтечная секретная система матрицы оператора наблюдения",
+          "en": "Precursor's Secret Source Matrix of Overseer Network",
+          "zh": "先驱秘源统辖阵列"
+        },
+        "icon": "assets/icons/enemies/common_enemies/precursor_s_secret_source_matrix_of_overseer_network.webp",
+        "enemy_group": "automatons"
+      }
+    ],
+    "dropped_by_count": 1,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Луна"
+    ],
+    "filter_type": "",
+    "sort_version": 6007000,
+    "search_text": "повреждённое лунное железо / угасшее лунное железо / безупречное лунное железо fractured lunar iron / depleted lunar iron / unblemished lunar iron 残损的月铁 / 空竭的月铁 / 无秽的月铁 луна 6.7 common_enemies material_set материалы precursor_s_secret_source_matrix_of_overseer_network предтечная секретная система матрицы оператора наблюдения precursor's secret source matrix of overseer network 先驱秘源统辖阵列 material_112143 material_112144 material_112145 повреждённое лунное железо fractured lunar iron 残损的月铁 угасшее лунное железо depleted lunar iron 空竭的月铁 безупречное лунное железо unblemished lunar iron 无秽的月铁"
+  },
+  {
+    "id": "material_set_112146",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112146.webp",
+    "title": {
+      "ru": "Осколок эфирного сияния / Эфирный кристалл / Эфирная кристальная чешуя",
+      "en": "Ethereal Glimmershard / Ethereal Crystal / Ethereal Crystalscale Stone",
+      "zh": "幻造萤屑 / 幻造裂晶 / 幻造晶鳞石"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112146",
+        "title": {
+          "ru": "Осколок эфирного сияния",
+          "en": "Ethereal Glimmershard",
+          "zh": "幻造萤屑"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112146.webp"
+      },
+      {
+        "key": "material_112147",
+        "title": {
+          "ru": "Эфирный кристалл",
+          "en": "Ethereal Crystal",
+          "zh": "幻造裂晶"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112147.webp"
+      },
+      {
+        "key": "material_112148",
+        "title": {
+          "ru": "Эфирная кристальная чешуя",
+          "en": "Ethereal Crystalscale Stone",
+          "zh": "幻造晶鳞石"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112148.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "glacial_warden",
+      "glaciomancer",
+      "winged_halberd_knight",
+      "winged_soarer_knight"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "glacial_warden",
+        "title": {
+          "ru": "Стражник льдов",
+          "en": "Glacial Warden",
+          "zh": "凝冰戍卫"
+        },
+        "icon": "assets/icons/enemies/common_enemies/glacial_warden.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "glaciomancer",
+        "title": {
+          "ru": "Колдун льдов",
+          "en": "Glaciomancer",
+          "zh": "凝冰秘法师"
+        },
+        "icon": "assets/icons/enemies/common_enemies/glaciomancer.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "winged_halberd_knight",
+        "title": {
+          "ru": "Крылатый рыцарь с алебардой",
+          "en": "Winged Halberd-Knight",
+          "zh": "持戟羽骑士"
+        },
+        "icon": "assets/icons/enemies/common_enemies/winged_halberd_knight.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "winged_soarer_knight",
+        "title": {
+          "ru": "Крылатый парящий рыцарь",
+          "en": "Winged Soarer Knight",
+          "zh": "舞空羽骑士"
+        },
+        "icon": "assets/icons/enemies/common_enemies/winged_soarer_knight.webp",
+        "enemy_group": "mystical_beasts"
+      }
+    ],
+    "dropped_by_count": 4,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "осколок эфирного сияния / эфирный кристалл / эфирная кристальная чешуя ethereal glimmershard / ethereal crystal / ethereal crystalscale stone 幻造萤屑 / 幻造裂晶 / 幻造晶鳞石 снежная 7.0 common_enemies material_set материалы glacial_warden glaciomancer winged_halberd_knight winged_soarer_knight стражник льдов glacial warden 凝冰戍卫 колдун льдов 凝冰秘法师 крылатый рыцарь с алебардой winged halberd-knight 持戟羽骑士 крылатый парящий рыцарь winged soarer knight 舞空羽骑士 material_112146 material_112147 material_112148 осколок эфирного сияния ethereal glimmershard 幻造萤屑 эфирный кристалл ethereal crystal 幻造裂晶 эфирная кристальная чешуя ethereal crystalscale stone 幻造晶鳞石"
+  },
+  {
+    "id": "material_set_112149",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112149.webp",
+    "title": {
+      "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+      "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+      "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112149",
+        "title": {
+          "ru": "Ядро химеры",
+          "en": "Chimeric Core",
+          "zh": "嵌合种"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112149.webp"
+      },
+      {
+        "key": "material_112150",
+        "title": {
+          "ru": "Симбиотическое ядро химеры",
+          "en": "Symbiotic Chimeric Nucleus",
+          "zh": "并生嵌合胞"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112150.webp"
+      },
+      {
+        "key": "material_112151",
+        "title": {
+          "ru": "Сердцевина химеры",
+          "en": "Prime Chimeric Nexus",
+          "zh": "源生嵌合体"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112151.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "chimeric_armored_beast",
+      "chimeric_burrowbeast",
+      "chimeric_horned_bear",
+      "chimeric_winged_elephant"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "chimeric_armored_beast",
+        "title": {
+          "ru": "Бронешлемовый зверь",
+          "en": "Chimeric Armored Beast",
+          "zh": "嵌合鍪甲兽"
+        },
+        "icon": "assets/icons/enemies/common_enemies/chimeric_armored_beast.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "chimeric_burrowbeast",
+        "title": {
+          "ru": "Химера-землерой",
+          "en": "Chimeric Burrowbeast",
+          "zh": "嵌合梭地兽"
+        },
+        "icon": "assets/icons/enemies/common_enemies/chimeric_burrowbeast.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "chimeric_horned_bear",
+        "title": {
+          "ru": "Рогатая химера-медведь",
+          "en": "Chimeric Horned Bear",
+          "zh": "嵌合角熊"
+        },
+        "icon": "assets/icons/enemies/common_enemies/chimeric_horned_bear.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "chimeric_winged_elephant",
+        "title": {
+          "ru": "Крылатая химера-слон",
+          "en": "Chimeric Winged Elephant",
+          "zh": "嵌合翼象兽"
+        },
+        "icon": "assets/icons/enemies/common_enemies/chimeric_winged_elephant.webp",
+        "enemy_group": "mystical_beasts"
+      }
+    ],
+    "dropped_by_count": 4,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "ядро химеры / симбиотическое ядро химеры / сердцевина химеры chimeric core / symbiotic chimeric nucleus / prime chimeric nexus 嵌合种 / 并生嵌合胞 / 源生嵌合体 снежная 7.0 common_enemies material_set материалы chimeric_armored_beast chimeric_burrowbeast chimeric_horned_bear chimeric_winged_elephant бронешлемовый зверь chimeric armored beast 嵌合鍪甲兽 химера-землерой chimeric burrowbeast 嵌合梭地兽 рогатая химера-медведь chimeric horned bear 嵌合角熊 крылатая химера-слон chimeric winged elephant 嵌合翼象兽 material_112149 material_112150 material_112151 ядро химеры chimeric core 嵌合种 симбиотическое ядро химеры symbiotic chimeric nucleus 并生嵌合胞 сердцевина химеры prime chimeric nexus 源生嵌合体"
+  },
+  {
+    "id": "material_set_112152",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112152.webp",
+    "title": {
+      "ru": "Наросший осколок / Осадочный сгусток / Осадочный нарост",
+      "en": "Accreted Fragment / Accreted Mass / Accreted Growth",
+      "zh": "沉积残片 / 沉积结块 / 沉积增生物"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112152",
+        "title": {
+          "ru": "Наросший осколок",
+          "en": "Accreted Fragment",
+          "zh": "沉积残片"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112152.webp"
+      },
+      {
+        "key": "material_112153",
+        "title": {
+          "ru": "Осадочный сгусток",
+          "en": "Accreted Mass",
+          "zh": "沉积结块"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112153.webp"
+      },
+      {
+        "key": "material_112154",
+        "title": {
+          "ru": "Осадочный нарост",
+          "en": "Accreted Growth",
+          "zh": "沉积增生物"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112154.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "channel_contact",
+      "fanged_zealot",
+      "leomastiff_guard",
+      "long_eared_striker",
+      "volkodlak_basher",
+      "volkodlak_lobber",
+      "volkodlak_raider",
+      "volkodlak_sharpshooter",
+      "voywolf_hunter"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "channel_contact",
+        "title": {
+          "ru": "Связной канала",
+          "en": "Channel Contact",
+          "zh": "渠道联络人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/channel_contact.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "fanged_zealot",
+        "title": {
+          "ru": "Безумец с бивнями",
+          "en": "Fanged Zealot",
+          "zh": "牙兽狂徒"
+        },
+        "icon": "assets/icons/enemies/common_enemies/fanged_zealot.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "leomastiff_guard",
+        "title": {
+          "ru": "Левмастиф-страж",
+          "en": "Leomastiff Guard",
+          "zh": "狮獒护卫"
+        },
+        "icon": "assets/icons/enemies/common_enemies/leomastiff_guard.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "long_eared_striker",
+        "title": {
+          "ru": "Длинноухий штурмовик",
+          "en": "Long-Eared Striker",
+          "zh": "长耳强袭者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/long_eared_striker.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "volkodlak_basher",
+        "title": {
+          "ru": "Волкодлак-громила",
+          "en": "Volkodlak Basher",
+          "zh": "兽怪敲打者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/volkodlak_basher.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "volkodlak_lobber",
+        "title": {
+          "ru": "Волкодлак-метатель",
+          "en": "Volkodlak Lobber",
+          "zh": "兽怪投掷者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/volkodlak_lobber.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "volkodlak_raider",
+        "title": {
+          "ru": "Волкодлак-налётчик",
+          "en": "Volkodlak Raider",
+          "zh": "兽怪捷掠者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/volkodlak_raider.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "volkodlak_sharpshooter",
+        "title": {
+          "ru": "Волкодлак-снайпер",
+          "en": "Volkodlak Sharpshooter",
+          "zh": "兽怪瞄击者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/volkodlak_sharpshooter.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "voywolf_hunter",
+        "title": {
+          "ru": "Ловчий воющих волков",
+          "en": "Voywolf Hunter",
+          "zh": "嗥狼追猎者"
+        },
+        "icon": "assets/icons/enemies/common_enemies/voywolf_hunter.webp",
+        "enemy_group": "mystical_beasts"
+      }
+    ],
+    "dropped_by_count": 9,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "наросший осколок / осадочный сгусток / осадочный нарост accreted fragment / accreted mass / accreted growth 沉积残片 / 沉积结块 / 沉积增生物 снежная 7.0 common_enemies material_set материалы channel_contact fanged_zealot leomastiff_guard long_eared_striker volkodlak_basher volkodlak_lobber volkodlak_raider volkodlak_sharpshooter voywolf_hunter связной канала channel contact 渠道联络人 безумец с бивнями fanged zealot 牙兽狂徒 левмастиф-страж leomastiff guard 狮獒护卫 длинноухий штурмовик long-eared striker 长耳强袭者 волкодлак-громила volkodlak basher 兽怪敲打者 волкодлак-метатель volkodlak lobber 兽怪投掷者 волкодлак-налётчик volkodlak raider 兽怪捷掠者 волкодлак-снайпер volkodlak sharpshooter 兽怪瞄击者 ловчий воющих волков voywolf hunter 嗥狼追猎者 material_112152 material_112153 material_112154 наросший осколок accreted fragment 沉积残片 осадочный сгусток accreted mass 沉积结块 осадочный нарост accreted growth 沉积增生物"
+  },
+  {
+    "id": "material_set_112155",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112155.webp",
+    "title": {
+      "ru": "Опустевший корень жизни / Росток узла жизни / Свернувшееся ядро жизни",
+      "en": "Hollow Root of Life / Sprout Node of Life / Coiled Core of Life",
+      "zh": "灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112155",
+        "title": {
+          "ru": "Опустевший корень жизни",
+          "en": "Hollow Root of Life",
+          "zh": "灵生空根"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112155.webp"
+      },
+      {
+        "key": "material_112156",
+        "title": {
+          "ru": "Росток узла жизни",
+          "en": "Sprout Node of Life",
+          "zh": "灵生分蘖节"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112156.webp"
+      },
+      {
+        "key": "material_112157",
+        "title": {
+          "ru": "Свернувшееся ядро жизни",
+          "en": "Coiled Core of Life",
+          "zh": "灵生盘枝心"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112157.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "juvenile_tree_segment",
+      "rugged_elder_leshy"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "juvenile_tree_segment",
+        "title": {
+          "ru": "Часть молодого дерева",
+          "en": "Juvenile Tree Segment",
+          "zh": "幼嫩的分节树"
+        },
+        "icon": "assets/icons/enemies/common_enemies/juvenile_tree_segment.webp",
+        "enemy_group": "mystical_beasts"
+      },
+      {
+        "id": "rugged_elder_leshy",
+        "title": {
+          "ru": "Суровый леший-старейшина",
+          "en": "Rugged Elder Leshy",
+          "zh": "苍遒的木灵长"
+        },
+        "icon": "assets/icons/enemies/common_enemies/rugged_elder_leshy.webp",
+        "enemy_group": "mystical_beasts"
+      }
+    ],
+    "dropped_by_count": 2,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7000000,
+    "search_text": "опустевший корень жизни / росток узла жизни / свернувшееся ядро жизни hollow root of life / sprout node of life / coiled core of life 灵生空根 / 灵生分蘖节 / 灵生盘枝心 снежная 7.0 common_enemies material_set материалы juvenile_tree_segment rugged_elder_leshy часть молодого дерева juvenile tree segment 幼嫩的分节树 суровый леший-старейшина rugged elder leshy 苍遒的木灵长 material_112155 material_112156 material_112157 опустевший корень жизни hollow root of life 灵生空根 росток узла жизни sprout node of life 灵生分蘖节 свернувшееся ядро жизни coiled core of life 灵生盘枝心"
+  },
+  {
+    "id": "material_set_112158",
+    "category": "items",
+    "icon": "assets/icons/items/common_enemies/item_112158.webp",
+    "title": {
+      "ru": "Осколок снежного сердца / Снежное зеркальное сердце / Снежное сердце неведения",
+      "en": "Snowborn Heartshard / Snowborn Mirrorheart / Snowborn Heart of Ignorance",
+      "zh": "雪结片心 / 雪结镜心 / 雪结无明心"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "common_enemies",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "material_112158",
+        "title": {
+          "ru": "Осколок снежного сердца",
+          "en": "Snowborn Heartshard",
+          "zh": "雪结片心"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112158.webp"
+      },
+      {
+        "key": "material_112159",
+        "title": {
+          "ru": "Снежное зеркальное сердце",
+          "en": "Snowborn Mirrorheart",
+          "zh": "雪结镜心"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112159.webp"
+      },
+      {
+        "key": "material_112160",
+        "title": {
+          "ru": "Снежное сердце неведения",
+          "en": "Snowborn Heart of Ignorance",
+          "zh": "雪结无明心"
+        },
+        "icon": "assets/icons/items/common_enemies/item_112160.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "icebound_reflection"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "icebound_reflection",
+        "title": {
+          "ru": "Ледяное отражение",
+          "en": "Icebound Reflection",
+          "zh": "冰结镜映体"
+        },
+        "icon": "assets/icons/enemies/common_enemies/icebound_reflection.webp",
+        "enemy_group": "elementals"
+      }
+    ],
+    "dropped_by_count": 1,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "",
+    "sort_version": 7002000,
+    "search_text": "осколок снежного сердца / снежное зеркальное сердце / снежное сердце неведения snowborn heartshard / snowborn mirrorheart / snowborn heart of ignorance 雪结片心 / 雪结镜心 / 雪结无明心 снежная 7.2 common_enemies material_set материалы icebound_reflection ледяное отражение icebound reflection 冰结镜映体 material_112158 material_112159 material_112160 осколок снежного сердца snowborn heartshard 雪结片心 снежное зеркальное сердце snowborn mirrorheart 雪结镜心 снежное сердце неведения snowborn heart of ignorance 雪结无明心"
+  },
+  {
     "id": "mirror_maiden_prisms",
     "category": "items",
     "icon": "assets/icons/items/common_enemies/dismal_prism.webp",

@@ -506,3 +506,815 @@ O, my Creator...
 尼可捏着自己的神之眼，用它盖住了天空岛的轮廓。
 我的造主啊——
 「——你可承认我是人类了。你要爱护我、原谅我。从此以后，我要活得潇洒一些了。」
+
+# voice_source_ids: 131000,131001,131002,131003,131004,131005,131006,131007,131008,131009,131010,131011,131012,131013,131014,131015,131016,131017,131018,131019,131020,131021,131022,131023,131024,131025,131026,131027,131028,131029,131030,131031,131032,131033,131034,131035,131036,131037,131038,131039,131040,131041,131042,131043,131044,131045,131046,131047,131048,131049,131050,131051,131052,131053,131054,131055,131056,131057,131058,131059,131060,131061,131062,131063,131064,131065,131066
+
+## REPLICAS_RU
+
+### Привет...
+
+Хочешь, я представлюсь ещё раз? Хм, на этот раз магия самопредставления Алисы не мешает... Кхм, я Николь. Как видишь, я... ах, снова! Я поторопилась...
+
+### Поболтаем: Романы
+
+Хм... Не лучшая идея.
+
+### Поболтаем: Скульптуры
+
+Метафоры говорят сами за себя.
+
+### Поболтаем: Молчание
+
+Кто я теперь? Всего лишь «человек», потерявший голос.
+
+### Доброе утро...
+
+Доброе утро.
+
+### Добрый день...
+
+Добрый день.
+
+### Добрый вечер...
+
+Поздним вечером вдохновение приходит чаще всего, поэтому в прошлом люди нередко встречали ангелов именно в это время. Возможно, именно поэтому мы все стали «совами». Но это не совсем точно, поскольку у нас тогда не было биологических часов или циклов сна. Строго говоря, дело было в регулярной корректировке функций нашего организма, чтобы избегать вечернего времени?
+
+### Спокойной ночи...
+
+Уже спать? Спокойной ночи, спокойной ночи. Хм-хм.
+
+### О Николь: Популярные произведения
+
+Пока автор жив, максимум, на что он может рассчитывать, - создать популярное произведение. Люди - это отражение настоящего. Как учёный Академии не может обладать двадцатилетним опытом в первый день обучения, так и современный писатель не способен создать классику своего времени. Иными словами, остаётся лишь писать то, что интересно. Впрочем, я не пишу, так что и переживать мне не о чем.
+
+### О Николь: Аллегории
+
+Метафорическая коммуникация также была распространённым методом общения, используемым ангелами в прошлом. Поскольку метафоры подвержены изменениям, как только меняются общественные нормы, ключ к их пониманию теряется навсегда. Фух, что ж. Некоторые древние люди каждый день размышляли над странными вопросами, оставляя нас в неведении, отвечать на них или нет. Поэтому, если ангел говорит вам, что начинает рассказывать истории, используя метафоры и аллегории, вам следует серьёзно задуматься, всё ли хорошо. Скульптуры - отличный тому пример. В моих скульптурах белка на самом деле является метафорой человечества.
+
+### О нас: Литературная помощницаЛитературный помощник
+
+В последнее время всё труднее заставить «господина Девятого» меня слушать. С тех пор как к ней вернулся разум, она только и делает, что спорит со мной о сюжетных поворотах и писательских решениях. Ты очень хорошо разбираешься в этом. Может, станешь моим новым литературным помощником? / В последнее время всё труднее заставить «господина Девятого» меня слушать. С тех пор как к ней вернулся разум, она только и делает, что спорит со мной о сюжетных поворотах и писательских решениях. Ты очень хорошо разбираешься в этом. Может, станешь моей новой литературной помощницей?
+
+### О нас: Приключения
+
+Если говорить о нашем сотрудничестве, пожалуй, безопаснее всего - отправляться в приключения. А вот если начать перебирать события с самого начала времён, это может закончиться плохо. Я, конечно, полностью тебе доверяю, но я не настолько вольна, как Алиса. Впрочем, если я буду рассказывать всё только тебе, думаю, ничего страшного не случится.
+
+### Глаз Бога...
+
+Это не просто украшение. Это доказательство того, что небеса вновь признали меня, - на этот раз как «человека». Что для меня значит быть человеком? Хм... Свобода - и не совсем свобода. Если подумать, мои обстоятельства не так уж сильно изменились.
+
+### Давай поделимся...
+
+Историю? Ты правда хочешь послушать? Правда? Хе-хе, как же это радует. Обычно я начинаю со слов «давным-давно», когда приходится объяснять что-то сложное. Но если поболтать... Хм, Аркадия, Лан-гань, Дельфы, Патра... У меня есть множество историй.
+
+### Интересные вещи...
+
+Знаешь, почему белки - удачная метафора человека? Потому что и те и другие относятся к... эм... надотряду Euarchontoglires. Пусть так. Знаешь о таком? Я узнала о нём от Алисы.
+
+### Об Алисе: Встреча
+
+Тогда, пожертвовав большей частью своих знаний, силы, а в итоге и голосом, чтобы сохранить человеческий облик, я долго бесцельно скиталась. Пока не встретила Алису. Это она меня испортила.
+
+### Об Алисе: Дочь
+
+На самом деле я ничуть не умнее других ангелов. Я выбрала пожертвовать голосом, потому что... Как там говорится? «Смелым сопутствует удача»? Небеса требовали молчания и наказания, и я решила, что жизнь без голоса может стать неплохой ставкой. Услышав это, Алиса заметила: «Дочь моря отдала голос ради ног, дети воздуха - ради формы, а теперь и дочь небес пожертвовала голосом, чтобы стать человеком».
+
+### О Кли...
+
+Кли такая милая. Но Алиса боится, что я могу плохо повлиять на развитие её мышления, поэтому не позволяет мне говорить с ней мысленно. Как думаешь, Кли считает меня странной? В следующий раз спроси у неё обо мне. И замолви словечко!
+
+### Об Альбедо...
+
+В одной из схлопнувшихся возможностей Альбедо был Человеком изначальным, странствующим между мирами, записывающим и создающим всё. Но никто не смог бы сказать, выбрал бы он в конце разрушение или спасение. Хорошо, что на этот раз путь выбран тобой. Что стало с тем другим Альбедо? Я больше не вижу ту вероятность. Да и копировать чужие ответы бессмысленно - это твоё путешествие.
+
+### О Моне...
+
+Так Мона и Барби всё ещё не хотят встречаться из-за каких-то странных причин и только переписываются? Понимаю, понимаю. Я тоже не встречала Рэйндоттир лично до её двадцатилетия. Алиса каждый раз говорила, что жителям Каэнри'ах неудобно выходить, но она приносила письма.
+
+### О Прюн...
+
+Алиса сказала, что отправила ту маленькую охотницу на ведьм «ради веселья». Предупредила меня не попадаться ей. Интересная девочка... Если она действительно меня найдёт, можно будет вместе отправиться на поиски сокровищ.
+
+### О Дурине...
+
+Я ведь самая первая поклонница Ани. Мне нравятся все её истории, и, конечно же, я буду с нетерпением ждать и оберегать её последнее, всё время развивающееся повествование.
+
+### О Цзы Бай...
+
+Лучше... нам всё же не встречаться. Дело не в том, что она мне не нравится. Скорее это... мой комплекс. Как у отстающего ученика перед отличником. Старшие ангелы часто говорили об одной выдающейся девушке из соседнего региона, связанной с архангелом. Имя Цзы Бай звучало очень часто.
+
+### О Яэ Мико...
+
+Жаль, что эпоха Ани не совпала с эпохой издательского дома Яэ. Коммерческое написание книг не противоречит стилю Ани. Да, госпожа Яэ думает о прибыли, но именно её вкус определяет успех. Она не загоняет авторов в рамки и не штампует один и тот же сюжет. Она постоянно ищет новые, свежие идеи.
+
+### О Фишль...
+
+Хмф, вообще-то именно я заслуживаю её восхищения. Идея книги была моей - господин Девятый лишь доработал её, отшлифовал и... собственно, написал.
+
+### Узнать больше о Николь I
+
+Скульптуры - мой способ вести записи. Слова со временем теряют смысл, документы разрушаются, картины выцветают. А скульптуры... У них больше шансов пережить время. И нет, дело не в том, что у меня плохой почерк или мне лень писать или рисовать. Совсем нет.
+
+### Узнать больше о Николь II
+
+Идея написать роман появилась после знакомства с произведениями Ани. Тогда я поняла, что ангельские метафоры могут служить основой для историй. Мне было что рассказать, и у меня были воспоминания, которые невозможно стереть. Это было и призванием, и способом самореализации... но в итоге победила моя лень.
+
+### Узнать больше о Николь III
+
+Утраченные знания можно восстановить, силу - вернуть тренировками. Но некоторые исчезнувшие возможности лучше оставить в прошлом. Главное - стабильность настоящего. Попытки вернуть утраченное из-за сожаления могут привести к будущему, которое мы не сможем контролировать.
+
+### Узнать больше о Николь IV
+
+Ангелы, отвергшие мудрость ради силы, превратились в изменённых драконов, вроде Урсы - без чётких элементальных характеристик. Со временем герои почти полностью их истребили. Если бы я выбрала силу... Хм, сложно представить. Но, пожалуй, моя чешуя была бы серебряной.
+
+### Узнать больше о Николь V
+
+Человечество - удивительный, сияющий вид. Я отказалась от крыльев не ради падения, а чтобы стать частью чего-то осязаемого. Я пожертвовала голосом не ради молчания, а чтобы научиться слушать. В каждом человеке есть божественный потенциал, и каждый день среди вас открывает мне что-то новое.
+
+### Хобби Николь...
+
+Это ведь очевидно, разве нет?
+
+### Беспокойство Николь...
+
+Теперь все мои близкие знают, что я болтушка. Значит, можно больше не притворяться? Но вдруг я всем надоем? Хм, да и Кли слишком мала. Пожалуй, ещё немного побуду «благопристойным ангелом».
+
+### Любимая еда...
+
+Я не привередлива в еде. Но люблю перец, зелёный лук и чеснок. Чем ярче вкус, тем лучше. Не из-за вкуса как такового: когда не нужно говорить, можно не бояться обжечь рот. Мы с Алисой и Барби как-то устроили соревнование - и я победила. Даже со слезами и горящими губами. Боль в горле, запах - это всё такие мелочи. Конечно, потом я почистила зубы и прополоскала рот.
+
+### Нелюбимая еда...
+
+Хм... сложный вопрос. Если еда приготовлена хорошо, я съем что угодно.
+
+### Подарок I
+
+Мм! Это... очень вкусно!
+
+### Подарок II
+
+Как мило. Я вижу, сколько старания тобой вложено.
+
+### Подарок III
+
+К-какой... необычный запах. Мне обязательно это есть?
+
+### День рождения...
+
+С днём рождения! Я спрятала твой подарок в сундуке и подготовила для тебя несколько загадок. Пойдём, я подскажу!
+
+### Чувство возвышения: Начало
+
+«И тут все запаниковали, уставившись на Николь с полным недоверием. Наконец кто-то спросил: "Ты вырубила Алису? Зачем ты это сделала, Николь?"»
+
+### Чувство возвышения: Нарастание
+
+«Сохраняя полное спокойствие, Николь подняла палец и ответила: "Алиса истощена. На поле боя она станет лишь обузой. Отведите её отдохнуть"».
+
+### Чувство возвышения: Кульминация
+
+«"Но как нам справиться с Рэйндоттир без Алисы?" - группа с сомнением отвергла предложение Николь. Увидев их недоверие, Николь шагнула вперёд...»
+
+### Чувство возвышения: Окончание
+
+«"Перед вами стоит ангел, странствующий по земле уже тысячи лет", - произнесла она. В тот же миг облака расступились, у её ног возникла золотая лестница, и Николь, не колеблясь, начала восхождение по божественным ступеням».
+
+### Особый тяжёлый удар: I
+
+Чую сокровища...
+
+### Особый тяжёлый удар: II
+
+Где же они?
+
+### Особый тяжёлый удар: III
+
+...
+
+### Элементальный навык I
+
+Нет, спасибо.
+
+### Элементальный навык II
+
+Прочь.
+
+### Элементальный навык III
+
+Какое дерзновение.
+
+### Взрыв стихии I
+
+Это наш маленький секрет.
+
+### Взрыв стихии II
+
+Я часть тебя.
+
+### Взрыв стихии III
+
+«Волю небес приму как свою».
+
+### Открытие сундука I
+
+О-о! Кхм... Мм.
+
+### Открытие сундука II
+
+Не знаю, чья это работа, но спрятано очень искусно.
+
+### Открытие сундука III
+
+...
+
+### Низкий уровень HP I
+
+Алиса! Барби! Помогите!
+
+### Низкий уровень HP II
+
+О-ох!..
+
+### Низкий уровень HP III
+
+!..
+
+### Низкий уровень HP компаньона I
+
+Отдохни. Я рядом.
+
+### Низкий уровень HP компаньона II
+
+!..
+
+### Без сознания I
+
+Роман... ещё не... рассказала...
+
+### Без сознания II
+
+Все вероятности... сводятся к одному...
+
+### Без сознания III
+
+...
+
+### Получен тяжёлый удар I
+
+Уф...
+
+### Присоединяется к группе I
+
+Я стану твоим проводником.
+
+### Присоединяется к группе II
+
+Мм-хм...
+
+### Присоединяется к группе III
+
+...
+
+### После дождя...
+
+На самом деле, когда ты видишь сокровище на конце радуги, это потому, что фея спрятала его там под дождём.
+
+## REPLICAS_EN
+
+### Hello
+
+Oh, should I introduce myself again? Hm, looks like no interference from Alice's self-introduction magic this time, so I suppose I'll just go ahead... Ahem, I'm Nicole. As you can see, I'm— Ah, again! Guess I spoke too soon...
+
+### Chat: Novels
+
+Hm... Not the best idea I've ever had.
+
+### Chat: Statue
+
+Mm... Metaphors speak for themselves.
+
+### Chat: Silence
+
+What am I now, you ask? Just a "human" who's lost her voice.
+
+### Good Morning
+
+Good morning.
+
+### Good Afternoon
+
+Good afternoon.
+
+### Good Evening
+
+Nighttime is when inspiration strikes the most, so it was also the most common time for people of the past to encounter angels. I suppose they're the ones who are largely to blame for why we turned into a bunch of night owls. Although, that's not quite accurate. It's not like we had biological clocks or sleep cycles. What we did was more akin to... regular functional maintenance. So, I suppose it was just a matter of avoiding the evening hours...
+
+### Good Night
+
+Heading to bed already? Hehe, good night, then.
+
+### About Nicole: Popular Works
+
+As long as an author still lives, the most they can hope for is to create something popular. People are an amalgamation of the present, after all. Just as it's impossible for an Akademiya scholar to have twenty years of knowledge at the beginning of their studies, a modern author cannot hope to write a classic in their own time. In other words, all one can do is simply write what is interesting. Anyway, I'm not the one doing the writing, so I feel little pressure in that regard.
+
+### About Nicole: Allegories
+
+In the past, angels often relied on allegory as a means of communication. Why? Because as society changes, allegories lose their effectiveness, so more often than not, the key to interpreting them is lost forever... and I must say, thank goodness for that. Sometimes, the people of the past would obsess over the strangest questions — the kinds we couldn't just answer or ignore. But toss a cryptic allegory at them and... Problem solved. All that to say, if an angel starts speaking in metaphors and allegories, you might be asking the wrong question. My sculptures are a perfect example of this tactic. The little squirrel is actually a metaphor for humanity.
+
+### About Us: Ghostwriting
+
+Lately, it's been getting harder and harder to get Mr. Nine to listen to me. Ever since regaining her intellect, all she does is argue with me about plot points and writing choices. You're quite knowledgeable. Any interest in becoming my new ghostwriter?
+
+### About Us: Adventuring
+
+In terms of us working together, I suppose going on adventures is the safest option. If I were to go through event after event since the beginning of time, things could get dangerous. You have my full trust, of course, but I'm not as free as Alice to do as I please. Although, if you're the only one I tell, I suppose it should be fine.
+
+### About the Vision
+
+This isn't just decorative. It's proof that I've been recognized by the heavens once again — but this time, as a "human." Huh? What does being "human" mean to me? Oh. Well, it's being free and... not so free, I suppose. Come to think of it, perhaps my circumstances haven't improved that much.
+
+### Something to Share
+
+Oh, a story? You really want to hear one? You actually do, don't you? Hehe, that makes me so happy. Most of the time, when I open with, "a long, long time ago" it's because I'm explaining some complicated thing or another. But since we're just chatting... Hm, Arcadia, Lang-Gan, Delphi, Patra... There are so many stories I could tell.
+
+### Interesting Things
+
+Do you know why squirrels are a good metaphor for humans? Because both belong to the, um... "Euarchontoglires" classification. Sure, let's go with that. Are you familiar with that term? I learned it from Alice.
+
+### About Alice: Encounter
+
+Back then, after I sacrificed most of my knowledge, power, and ultimately my voice to maintain a human form, I spent the long, meandering days in listless wandering. Until I met Alice, and she corrupted me.
+
+### About Alice: Daughter
+
+In truth, it's not that I'm any smarter than the other angels. I chose to offer up my voice back then because, well... How does that saying go? "Fortune favors the bold"? The heavens demanded silence and punishment, so I thought a lifetime of voicelessness could be a good bargaining chip. Alice had quite an interesting remark after hearing about it all. She said, "The daughter of the sea offered up her voice to gain legs, the children of the air did the same to gain form, and now the daughter of the heavens sacrificed her voice to become human."
+
+### About Klee
+
+Klee is adorable. But Alice is worried I might have a bad influence on her brain development, so she doesn't let me speak in her head. Do you think that makes me seem weird to Klee? Ask her for me next time, will you? And put in a good word!
+
+### About Albedo
+
+In another converged possibility, Albedo was the "Primordial Human" who traveled through worlds, recording and creating all. However, once that journey reached its end, no one would have been able to guarantee whether he would choose destruction or salvation. Luckily, you're the one who embarked on the journey this time. Hm? How did the alternate Albedo fare? I can no longer observe that possibility. Besides, copying someone else's answer is of little use. This journey is your own.
+
+### About Mona
+
+So, for some strange reason, Mona and Barbie are still refusing to meet face to face, and their only contact is through letters? Well, I suppose it's understandable. It wasn't until after Rhinedottir turned twenty that I actually met her in person. Alice said it wasn't convenient for Khaenri'ahns to come and go, so she brought letters back and forth instead.
+
+### About Prune
+
+Alice said she sent that little Witch Hunter on her quest "because it makes life more entertaining." She warned me to be careful not to get caught, but this little girl sounds like quite an interesting child. If she actually manages to find me, I think it would be fun to go treasure hunting together.
+
+### About Durin
+
+I've been Anya's fan since the beginning. I love all her stories. So, of course, I cannot wait to see how this final, ever-evolving masterpiece of hers is going to unfold — and I will protect it at all costs.
+
+### About Zibai
+
+Um, I'd rather us... not meet, actually. It's not that I dislike her, it's more of a... complex on my part. Kinda like how a weak student feels running into the top of the class. The older angels loved to talk about the exceptional young woman from the neighboring area with ties to the Archangel. Safe to say, Zibai's name came up a lot.
+
+### About Yae Miko
+
+It's such a shame that Yae Publishing House wasn't around during Anya's era of writing. I don't think commercial writing is at odds with Anya's style at all. I'm sure Miss Yae cares about the business side of things, but her personal taste is what drives her success. At the very least, she doesn't confine authors to a box or mass-produce a single trope until something more popular comes along. She focuses on introducing things that are new and fresh.
+
+### About Fischl
+
+Hmph, I'm the one who deserves her admiration. The book was my idea to begin with. All Mr. Nine did was refine it, polish it, and... actually write it all out.
+
+### More About Nicole: I
+
+Making sculptures is my way of keeping records. The written word loses meaning over time. Besides, documents crumble and disintegrate, while paintings return to blank canvases as their pigment fades. Sculptures, at least, have a better chance of standing the test of time... And, no. It's not because my handwriting is ugly, I'm too lazy to write things down, or I can't be bothered to practice painting. Just so we're clear.
+
+### More About Nicole: II
+
+Hm, the idea of writing a novel came about after reading Anya's work. That's when I first discovered that the metaphors angels love so much could be used to tell stories. I had something to say, along with a wealth of indelible memories to draw upon. So, it felt both like something I was meant to do and a path to self-fulfillment all at once. In the end, though, I was far too lazy to follow through.
+
+### More About Nicole: III
+
+Lost knowledge can be relearned over time. Lost power can be regained with training. But, when certain possibilities run their course or fade away, it is best for them to remain forgotten. After all, what matters most is the stability of the present moment. Letting regret or remorse drive us to resurrect what has been lost could leave us with a future we are unable to control.
+
+### More About Nicole: IV
+
+The angels who forsook wisdom in favor of power became corrupted dragons like Ursa, ones without distinct Elemental characteristics. Of course, over time, heroes have hunted them to near extinction. What if I had chosen power like those dragons? ...It's difficult to imagine. I'd like to think my scales would have been a glittering silver, though.
+
+### More About Nicole: V
+
+Humanity is such an intriguing, brilliant species. Giving up my wings was not a fall from grace, but a chance to become part of something tangible. Sacrificing my voice did not silence me, but gave me the strength to listen before judging. Divine potential lies within each and every human, and each day I spend among you is more fascinating than the last.
+
+### Nicole's Hobbies
+
+Does that... not go without saying?
+
+### Nicole's Troubles
+
+At this point, all my closest friends know I'm a chatterbox. So does that mean I don't have to pretend anymore? But what if that gives people headaches, and no one wants to talk to me ever again... Hm, plus Klee's still not old enough. Guess I need to put on the dignified angel act a little longer.
+
+### Favorite Food
+
+I'm not really picky about food. But, I love hot peppers, green onions, and garlic — the stronger the flavor, the better. Not necessarily because of the taste itself, though. When you don't have to open your mouth to speak, you don't have to worry about the spice burning your throat. So, when Alice, Barbie, and I had a spicy food-eating contest, I won. Even with tears streaming down my face, and feeling like my lips were on fire, I won. Sore throat, bad breath... Hehe, doesn't mean a thing to me. Of course, I did brush my teeth and wash out my mouth afterwards.
+
+### Least Favorite Food
+
+Hm... That's a tough question. As long as the food is made well, I'll pretty much eat anything.
+
+### Receiving a Gift: I
+
+Mmm! This is... absolutely delicious!
+
+### Receiving a Gift: II
+
+How sweet. I can certainly tell how much thought you put into it.
+
+### Receiving a Gift: III
+
+Wh—What a... curious aroma. Do I have to?
+
+### Birthday
+
+Happy Birthday! I hid your birthday gift inside a chest and set up a bunch of puzzles for you to solve. Come on, I'll guide you through it!
+
+### Feelings About Ascension: Intro
+
+"Just like that, the group was thrown into a panic, staring at Nicole in utter disbelief until a question broke the silence, 'You knocked Alice out? Why would you do that, Nicole?'"
+
+### Feelings About Ascension: Building Up
+
+"The very picture of calm, Nicole raised a finger and replied, 'Alice has exhausted her strength. She'd be nothing but a burden out here on the battlefield. Now, we can take her to rest.'"
+
+### Feelings About Ascension: Climax
+
+"'But without Alice, how can we possibly hope to be a match for Rhinedottir?' the group wondered, dismissing Nicole's suggestion. Seeing their frowns of doubt, Nicole stepped forward..."
+
+### Feelings About Ascension: Conclusion
+
+"'Before you stands an angel who has wandered this earth for millennia,' she replied. Upon her declaration, the clouds parted, a golden staircase unfolding at her feet, and with a simple step, Nicole began to ascend the stairs of divinity."
+
+### Special Charged Attack: I
+
+Do I sense... treasure?
+
+### Special Charged Attack: II
+
+Where is it...
+
+### Special Charged Attack: III
+
+...
+
+### Elemental Skill: I
+
+I think not.
+
+### Elemental Skill: II
+
+Begone.
+
+### Elemental Skill: III
+
+Such defiance.
+
+### Elemental Burst: I
+
+Our little secret.
+
+### Elemental Burst: II
+
+I live within you.
+
+### Elemental Burst: III
+
+"Heaven's will, made mine."
+
+### Opening Treasure Chest: I
+
+Oooh! Ahem... Mmm.
+
+### Opening Treasure Chest: II
+
+I'm not sure whose work this was, but this one was hidden quite well.
+
+### Opening Treasure Chest: III
+
+...
+
+### Low HP: I
+
+Alice! Barbie! A little help here!
+
+### Low HP: II
+
+Uh oh...
+
+### Low HP: III
+
+...!
+
+### Ally at Low HP: I
+
+Rest, for I am with you.
+
+### Ally at Low HP: II
+
+...!
+
+### Fallen: I
+
+So much for that... novel...
+
+### Fallen: II
+
+All possibilities... come to a close...
+
+### Fallen: III
+
+...
+
+### Heavy Hit Taken: I
+
+Oof...
+
+### Joining Party: I
+
+I shall be your guide.
+
+### Joining Party: II
+
+Mhmhm...
+
+### Joining Party: III
+
+...
+
+### After the Rain
+
+In truth, it's thanks to the Seelie that there's always treasure at the end of the rainbow.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+让我也再自我介绍一次？嗯，这次没有艾莉丝的自我介绍魔法捣乱了。咳咳，我是尼可。如你所见，只是——啊啊，怎么又弹出来了。
+
+### 闲聊·小说
+
+嗯…不是个好点子。
+
+### 闲聊·雕塑
+
+无须言语，托喻自明。
+
+### 闲聊·沉默
+
+我现在的本质？只是失去声音的「人」罢了。
+
+### 早上好…
+
+早上好。
+
+### 中午好…
+
+午安。
+
+### 晚上好…
+
+晚上是灵感迸发最频繁的时间，所以也是以前的人遇到天使最多的时间。都怪以前地上的人，我们好像都变成夜猫子了。不过这么说也不对，毕竟以前的我们其实没有生物钟、睡眠周期一类的东西。严格来说，算是固定机能休整尽量避开晚间？
+
+### 晚安…
+
+这就睡了吗？晚安晚安。哼哼。
+
+### 关于尼可自己·流行作品
+
+只要是活着的人，创作出来的当然只能是流行作品啊。举个例子就像，人没办法教令院刚上学就拥有二十年研究经历？毕竟人是当下的集合。既然今人写不出古典名著，那当然故事怎么有趣怎么来了。反正又不是我提笔写字。
+
+### 关于尼可自己·托喻法
+
+托喻法也是以前天使们常用的交流方法。因为托喻是会失效的，社会风貌一旦变化，解喻的钥匙就会永远失传。呼，谢天谢地。有些古人天天就琢磨一些奇怪的问题，这让我们回答也不是，不回答又不行。所以如果天使开始给你说隐喻、托喻的故事了，那你就得好好想想是不是自己的问题了。举例说明的话，其实我做的雕塑里，小松鼠就是人类的暗喻哦。
+
+### 关于我们·代笔
+
+你的见识也挺多的，怎么样。有没有兴趣来当我的新代笔啊。九老师最近越来越不听话了。恢复了知性之后，经常和我争论设定和点子的问题。
+
+### 关于我们·冒险
+
+一起冒险可以说是我们风险最低的合作形式了。如果把所有的事情从开天辟地开始讲起，那才是真正危险的协助呢。我是完全信任你啦。但是我也没有艾莉丝那么自由。不过，只是和你一个人说一说的话，应该没问题吧。
+
+### 关于「神之眼」…
+
+这个可不是装饰哦。这个是我作为「人」，再一次被天空的意志认可才获得的证明。「人」意味着什么？嗯，自由与不那么自由吧。这么一想，好像其实境遇也没好太多。
+
+### 有什么想要分享…
+
+真的要说吗？真的要听我说吗？你其实也很想听对吧？嘿嘿，我很开心哦。之前每次从很久很久以前说起都只是因为解释起来很复杂。如果只是聊聊天的话…我想想，阿卡狄亚、琅玕、德尔斐、帕特拉…我有很多事情可以说呢。
+
+### 感兴趣的见闻…
+
+小松鼠啊。你可知道为什么用它作为「人类」的喻体吗？嗯，因为「灵长总目」吧。你听说过这个词吗？我从艾莉丝那里听来的。
+
+### 关于艾莉丝·相遇
+
+当初我献上了大部分的知识和力量，最后还牺牲了声音来维持人的形体。就这样度过了漫长的流浪时光。后来遇到了艾莉丝，然后我就被她带坏了。
+
+### 关于艾莉丝·女儿
+
+其实我也没有比其他天使聪明啦。当初选择献上声音…那句话怎么说的来着——「福至心灵」？因为天空要的是缄默与惩罚，我想那不开口作为筹码是不是还挺有分量的？艾莉丝听了我的故事后评价说「海的女儿献上声音获得双脚，大气的儿女献上声音有了形体，现在天空的女儿居然也能献上声音成为人」。
+
+### 关于可莉…
+
+可莉真是太可爱了。但是艾莉丝说担心我对小可莉的大脑发育有不好影响，不准我私底下盯着可莉说话。可莉她，会不会把我当成是个古怪的小姨啊？下次你帮我问问。多说些好话！
+
+### 关于阿贝多…
+
+在另一个被收束的可能性里，阿贝多是那个旅行世界，记录一切又创造一切的「原初之人」。不过谁也不能保证在旅途的最后，他会选择毁灭还是维持。还好这一次是你踏上的旅途。那个可能性里的阿贝多的故事？我已经观测不到了。你不要抄这份答案，你的旅程是你自己的。
+
+### 关于莫娜…
+
+所以莫娜和芭比还在因为奇怪的原因不肯见面只肯写信吗？理解理解。莱茵多特二十岁以前我也没见过她本人呢。艾莉丝每次都说坎瑞亚人不方便出来，但是她带了信。
+
+### 关于布伦妮…
+
+艾莉丝说为了给生活寻找乐趣，她扶持了一个魔女猎人。让我小心不要被魔女猎人抓住了。听起来是个很有意思的小朋友。有机会找到我的话，就和她一起去找宝箱吧。
+
+### 关于杜林…
+
+我可是安雅最早的书迷了。她的故事我都很喜欢，她最后的，永远延续的这个叙事，我当然会好好期待、好好守护的。
+
+### 关于兹白…
+
+那个…能不能不要让我们见面。也不是讨厌她啦，应该说是，心理阴影？差生害怕遇到优等生是这样的。以前阿姐总会说隔壁地区天使长的优秀妹妹。她出现的频率高得很啊。
+
+### 关于八重神子…
+
+世界上最大的遗憾就是安雅的时代和八重堂的时代没有重合。在我看来，为了商业盈利的写作和安雅的风格也并不冲突。八重小妹虽说是为了卖书盈利，但她自己的审美还是支撑起了八重堂与时代。至少没有因为情节或题材喜闻乐见，就去让作者重复自己、量产同质化的东西。她的策略是不断开发大家可能会喜欢的新东西。
+
+### 关于菲谢尔…
+
+可恶啊，这个小妹妹的崇拜应该是属于我的。九老师只是拿着我的点子进行细化、打磨、执行而已。
+
+### 想要了解尼可·其一
+
+制作雕塑其实是我的记录。因为语言的记写会在时间里丢失意义，甚至被直接抹去。图画会因为颜料剥落重回空白。至少雕塑能存在得长久一点。不是因为字写得难看又懒得写，画画懒得练。
+
+### 想要了解尼可·其二
+
+嗯，想自己写小说的想法是看了安雅的小说之后迸发出来的。原来天使们常用的暗喻法和有趣的故事能这么结合在一起啊。我有故事要说，我有不能被磨灭的记忆。大概就是使命感和自我实现的诱惑催生的冲动吧。不过还是败给了我的懒。
+
+### 想要了解尼可·其三
+
+失去的知识可以再慢慢学习，丢失的力量可以通过锻炼或者其他办法再度拥有。那些已经湮灭、收束的可能性最好还是忘掉吧。因为稳定的现在才是最好的样子。遗憾和悔恨被重新召回，或许会演变成无法控制的未来。
+
+### 想要了解尼可·其四
+
+选择放弃智慧，选择力量的天使们，成为了乌萨那样没有明显元素特征的「魔龙」。它们在漫长的历史里被英雄们猎杀得差不多了。如果当初我选择了龙一样的力量形态…唔，想象不出来。总之鳞片得是银闪闪的样子。
+
+### 想要了解尼可·其五
+
+「人类」是多么有趣的、多么闪耀的物种啊。我舍弃翅膀并非是坠落，而是为了触碰；我舍弃声音，也并非是缄默，只是为了在评价之前好好倾听。神圣的潜力在你们所有人之中。行走在人间的每一天，我都感觉很有意思。
+
+### 尼可的爱好…
+
+那还用说嘛。
+
+### 尼可的烦恼…
+
+现在和我关系好的朋友都了解我是话痨了。是不是我不用再装了？但是这样你们会不会因为脑子疼不再愿意理我了？嗯，小可莉还没长大。我再装一会儿端庄。
+
+### 喜欢的食物…
+
+其实我不怎么挑食。不过，我特别喜欢辣椒、葱蒜，味道越大越好。倒也不是喜欢味道啦。不用开口说话，不怕辣到嗓子。上次和艾莉丝、芭比比吃辣，最后我赢了。虽然眼泪止不住，嘴唇胀得疼。但是我赢了。嗓子疼、嘴里有味道，呵呵，我不在乎。当然，我好好刷牙漱口了的。
+
+### 讨厌的食物…
+
+嗯…这个问题真的是难倒我了。只要菜不做烂，我应该都不挑吧。
+
+### 收到赠礼·其一
+
+哎呀，这个也太好吃了吧！
+
+### 收到赠礼·其二
+
+我已经品尝到了你的心意。确实十分美味。
+
+### 收到赠礼·其三
+
+这…这个味道。不行，艾莉丝，我端不住了…
+
+### 生日…
+
+祝你生日快乐！给你的生日礼物我已经藏在宝箱里了。前面还有我精心布置的谜题，让我带领你去取吧！
+
+### 突破的感受·起
+
+「众人顿时慌了神，他们看向尼可的眼神充满不可思议：『尼可，你在做什么？你打晕艾莉丝做什么？』…」
+
+### 突破的感受·承
+
+「尼可不慌不忙，伸出一根手指：『艾莉丝已经力量耗尽了。留在战场也只是累赘。带她下去休息吧。』」
+
+### 突破的感受·转
+
+「『没有了艾莉丝，我们怎么匹敌莱茵多特？』众人对尼可的建议不屑一顾。只见尼可走上前去…」
+
+### 突破的感受·合
+
+「『在你们面前的，是在大地上流浪了数千年的天使。』云开夜散，登天金阶铺设而下，尼可一步一步踏上神性之梯。」
+
+### 特殊重攻击·其一
+
+有宝藏的味道。
+
+### 特殊重攻击·其二
+
+在哪里在哪里。
+
+### 特殊重攻击·其三
+
+……
+
+### 元素战技·其一
+
+拒绝。
+
+### 元素战技·其二
+
+退却。
+
+### 元素战技·其三
+
+悖逆。
+
+### 元素爆发·其一
+
+对大家保密哦。
+
+### 元素爆发·其二
+
+我一直，身在其中。
+
+### 元素爆发·其三
+
+「吾以己心代天心」。
+
+### 打开宝箱·其一
+
+哦哦！咳咳。嗯。
+
+### 打开宝箱·其二
+
+虽然不知道是哪位姐妹，不过藏得不错呀。
+
+### 打开宝箱·其三
+
+……
+
+### 生命值低·其一
+
+救命啊——艾莉丝！芭比！换人换人了！
+
+### 生命值低·其二
+
+呜啊——
+
+### 生命值低·其三
+
+……！
+
+### 同伴生命值低·其一
+
+已经足够了，撤退吧。
+
+### 同伴生命值低·其二
+
+……！
+
+### 倒下·其一
+
+新小说点子…还没…说…
+
+### 倒下·其二
+
+所有可能性…都收束…
+
+### 倒下·其三
+
+……
+
+### 重受击·其一
+
+呃——
+
+### 加入队伍·其一
+
+我来揭示。
+
+### 加入队伍·其二
+
+呵呵…
+
+### 加入队伍·其三
+
+……
+
+### 雨过天晴…
+
+其实彩虹尽头的宝藏都是仙灵们淋雨埋的。

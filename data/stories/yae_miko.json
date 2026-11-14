@@ -144,5 +144,1044 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я Гудзи Великого храма Наруками. Цель моего визита - следить за каждым твоим шагом, ибо таков порядок в храме... Да ладно, не надо так нервничать. Ради всего святого, мне просто положено так говорить. Я же не могу просто так слоняться без дела. А теперь давай, развлеки меня.",
+        "en": "I am the Guuji of the Grand Narukami Shrine. The purpose of my visit is to monitor your every move, for such is the order of the shrine... Oh, come on, don't be so nervous. It's only officialese, for goodness' sake. I couldn't just go gallivanting around for no reason at all, could I? Now, come on, do something amusing for me.",
+        "zh": "我是鸣神大社的宫司，此番造访，自是为了确认你的一举一动，此为大社诏令…呵，不用那么紧张，场面话罢了，这样才有正当理由休沐嘛。快，去做些有趣的事让我看看吧。"
+      },
+      "source_id": 58000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Литературное творчество",
+        "en": "Chat: Creative Writing",
+        "zh": "闲聊·创作体裁"
+      },
+      "text": {
+        "ru": "Такое чувство, что сейчас все вокруг пишут об одних только путешествиях в другие миры. Ха, одним Архонтам известно, что этих писателей так разочаровывает в собственном мире.",
+        "en": "Traveling to other worlds is all that anyone seems to be writing about these days. Huh, goodness knows what they find so disappointing about their own world.",
+        "zh": "最近八重堂穿越异世的小说也太多了，哼，就对自己的世界如此不满吗。"
+      },
+      "source_id": 58001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Истории",
+        "en": "Chat: Stories",
+        "zh": "闲聊·故事"
+      },
+      "text": {
+        "ru": "Большинство людей могли бы описать всю свою мимолётную жизнь всего лишь в нескольких коротких строках... Их истории действительно ужасно скучно читать.",
+        "en": "Most humans could have the entirety of their fleeting lives chronicled in but a few short lines... Their stories really make for terribly dull reading.",
+        "zh": "很多人的一生，写于纸上也不过几行，大多都是些无聊的故事啊。"
+      },
+      "source_id": 58002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Бренный мир",
+        "en": "Chat: Mortal World",
+        "zh": "闲聊·尘世"
+      },
+      "text": {
+        "ru": "Лично я считаю, что идея о том, чтобы всё оставалось неизменным вечно, просто прекрасна. Эх, но, увы, мир устроен совсем не так.",
+        "en": "Personally, I think the idea of things staying the same forever is quite beautiful. *sigh* But alas, that is simply not the way the world works.",
+        "zh": "于我而言，不变也是一种美好，哎呀，可尘世哪是如此不变之物。"
+      },
+      "source_id": 58003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Если дождь не прекратится, мой мех промокнет насквозь...",
+        "en": "If this rain keeps up, my fur will be dripping wet...",
+        "zh": "下起雨后，浑身的毛发都会变得湿漉漉的…"
+      },
+      "source_id": 58004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Многие боятся грома, но для меня он словно старый друг.",
+        "en": "Many people dread the sound of thunder... To me, it sounds fondly familiar.",
+        "zh": "很多人会害怕打雷，不过我听到雷声只会觉得亲近。"
+      },
+      "source_id": 58005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Неразумные кицунэ бросаются головой в снег в поисках пищи... Хм? Хочешь посмотреть, как это делаю я? Ха! Ну ещё бы.",
+        "en": "I always see these non-sentient kitsune pouncing headfirst into the snow, scavenging for food... Hmm? You'd like to see me do that? Hah! I'm sure you would.",
+        "zh": "未生灵智的小狐狸，往往会一头栽入雪地来觅食…想看我那样做？哼。"
+      },
+      "source_id": 58006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Утречка. Ты ужасно сонный, ты плохо спал? В чём дело? Творил пакости прошлой ночью? / Утречка. Ты ужасно сонная, ты плохо спала? В чём дело? Творила пакости прошлой ночью?",
+        "en": "Morning. You look awfully drowsy, didn't you sleep well? Tsk-tsk, come on then, what is it? What mischief were you up to last night, hmm?",
+        "zh": "早，嗯？怎么一副无精打采的样子，没有睡好吗？哎呀，昨晚是去做什么坏事了么？"
+      },
+      "source_id": 58007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Хм... Как же сложно. Что бы съесть на обед? Только не жареный тофу, хочу чего-нибудь полегче. А, знаю. Давненько я не видела ту девочку из комиссии Ясиро. Давай попросим её приготовить для нас что-нибудь.",
+        "en": "Hmm... ugh, what a headache. What should I have for lunch? Not Fried Tofu again, I'm in the mood for something a little lighter today. Ah — I know. I haven't seen the Yashiro Commission girl in a while. Let's get her to make us a little something.",
+        "zh": "嗯~伤脑筋，中午吃些什么呢？油豆腐吃腻了，想吃点清淡的。话说好久没见到社奉行家的小姑娘了，我们不如就去吃她做的点心吧。"
+      },
+      "source_id": 58008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Луна сегодня просто великолепна. Нельзя упускать такой момент. Давай прогуляемся вместе при лунном свете. Отказ не принимается.",
+        "en": "The moon is simply magnificent tonight. We mustn't squander it. Come, join me for a moonlight stroll — I won't take no for an answer.",
+        "zh": "今夜的月光如此清亮，不做些什么真是浪费。随我一同去月下漫步吧，不许拒绝。"
+      },
+      "source_id": 58009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Полагаю, мне следует немного поспать. Хм, должна признать, мне трудно заснуть, если я не слышу успокаивающих раскатов грома.",
+        "en": "I suppose I should get some sleep. Hmm, I must say, I do find it hard to doze off peacefully without the soothing sound of thunder booming in the background.",
+        "zh": "该入眠了，呵，在夜里不听到连绵的雷声，甚至都会睡不安稳呢。"
+      },
+      "source_id": 58010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "О Яэ Мико: Вечность",
+        "en": "About Yae Miko: Eternity",
+        "zh": "关于八重神子自己·永恒"
+      },
+      "text": {
+        "ru": "Вечность означает, что никогда не придётся расставаться с тем, что мы имеем. Но, с другой стороны, это также означает отказ от возможности получить что-то новое. Так уж устроен мир... Нельзя получить всё и сразу.",
+        "en": "Eternity means never having to let go of what you already have. But on the other hand, it also means giving up on all other possibilities. That's just the way of the world... No one can have everything.",
+        "zh": "所谓的永恒，就是不再失去已拥有之物，但从别的角度说，也放弃了得到更多的可能，不过世事总是如此，没人能够得到全部。"
+      },
+      "source_id": 58011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Яэ Мико: Интересы",
+        "en": "About Yae Miko: Interests",
+        "zh": "关于八重神子自己·趣味"
+      },
+      "text": {
+        "ru": "Люди - просто очаровательные существа, поэтому я их так люблю. Их жизни коротки, но пока они рядом, они сияют столь же ярко, как полуденное солнце. Есть такие, чей свет никогда не тускнеет, даже через много лет... Истории их жизни - сплошное удовольствие.",
+        "en": "Humans are just fascinating creatures, that's why I'm so fond of them. They live such short lives, but for the time they're around, they shine as bright as the midday sun. There are some whose light never grows dim, even over great stretches of time... These are the lives that make for real page-turners.",
+        "zh": "人类很有趣，所以我才如此喜欢人类。明明生命短暂，却能散发映昼光辉。他们之中，有些人的光芒，即使隔开久远时间长河都不曾黯淡。阅读这样的人生，是一大乐事啊。"
+      },
+      "source_id": 58012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Писательство",
+        "en": "About Us: Authorship",
+        "zh": "关于我们·作家"
+      },
+      "text": {
+        "ru": "Скучно. И тут тоже тоска зелёная... С чего эти люди решили стать писателями? Слушай, почему бы тебе не написать рассказ и не отправить его в издательский дом Яэ? Уверена, меня бы это позабавило... Кхм, точнее, я уверена, что это был бы бестселлер.",
+        "en": "Boring. Utterly boring... Ugh, what could have possibly persuaded these people to become authors? Say, why don't you write out your story and submit it to Yae Publishing House? I'm sure that would keep me amused— Ahem, I mean, I'm sure it would be a best-seller.",
+        "zh": "无聊，这本也无聊透顶…啊呀，这些人都是为了什么才成为作家的。欸，对了，不如你把自己的经历写下来投给八重堂吧，感觉一定能给我一点乐…一定能大受欢迎吧。"
+      },
+      "source_id": 58013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Эрозия",
+        "en": "About Us: Erosion",
+        "zh": "关于我们·磨损"
+      },
+      "text": {
+        "ru": "Изолирование себя от остального мира может только ускорить эрозию... Представь себе мир, где есть только ты, и никто не может послужить тебе «зеркалом», отражающим твои черты... Как это было бы ужасно. Мы вместе, и жизненно важно, чтобы мы служили друг другу путеводным светом. Довольно трудно оставаться просветлёнными в темноте.",
+        "en": "Sealing yourself away from the rest of the world may only serve to accelerate the effects of erosion... Imagine, a world consisting of you and you alone, with no one else to reflect you back at yourself... how awful that would be. Whenever we are together, it is vital that we always shine a light for each other, okay? It's rather difficult to remain enlightened in the dark.",
+        "zh": "将自己封闭起来，或许会更快地遭受「磨损」。只有自己的世界，无他人作镜以对映，可是很可怕的事…你我共处之时，重要的就是互相观照哦。"
+      },
+      "source_id": 58014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Говоришь... тебе нравится, как я ношу свой Глаз Бога? У тебя намётанный глаз. Держу пари, ты бы хотел его погладить. / Говоришь... тебе нравится, как я ношу свой Глаз Бога? У тебя намётанный глаз. Держу пари, ты бы хотела его погладить.",
+        "en": "You're saying... you like how I wear my Vision? You certainly have an eye for a priceless treasure. Well then, I bet you'd like to pet it.",
+        "zh": "你说…你很喜欢我佩戴「神之眼」的方式？真有眼光。那么…要来摸摸看吗？"
+      },
+      "source_id": 58015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Нагрей масло в кастрюле на среднем огне. Добавь тофу и уменьши огонь. Обжаривай до золотисто-коричневого цвета, вынь его, затем подавай горячим. Готово, жареный тофу. В этом мире нет ничего вкуснее. Ну, я же рассказала тебе рецепт? Тогда почему ты ещё не начал готовить? / Нагрей масло в кастрюле на среднем огне. Добавь тофу и уменьши огонь. Обжаривай до золотисто-коричневого цвета, вынь его, затем подавай горячим. Готово, жареный тофу. В этом мире нет ничего вкуснее. Ну, я же рассказала тебе рецепт? Тогда почему ты ещё не начала готовить?",
+        "en": "Heat oil on a medium-high flame in a pot. Add the tofu and reduce the heat to a low flame. Cook until golden-brown, take it out, then serve piping hot. There you have it, Fried Tofu. There is nothing more delicious in this world. Well, I've told you how to make it, have I not? Why are you still standing there?",
+        "zh": "在油温到八成热时，沿锅下豆腐，再开成小火，等到煎至金黄的时候再夹出来，热乎乎的，这世上没有比油豆腐更好吃的东西了。咦，做法都已经告诉你了，你怎么还愣在这里呢？"
+      },
+      "source_id": 58016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Хоть иногда я немного устаю от её вида, - ведь, в конце концов, я не могу избежать встречи с ней в Великом храме Наруками, - моя судьба тесно связана со Священной сакурой.",
+        "en": "Though I occasionally get a little weary of the sight of it — I can't exactly avoid seeing it at the Grand Narukami Shrine, after all — my fate is intimately intertwined with the Sacred Sakura.",
+        "zh": "虽然因为在鸣神大社，日日抬头都能得见，有时也会觉得厌烦。不过，那棵神樱毕竟已经是我命运所系之物了啊。"
+      },
+      "source_id": 58017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О сёгуне Райдэн...",
+        "en": "About the Raiden Shogun",
+        "zh": "关于雷电将军…"
+      },
+      "text": {
+        "ru": "Запираться в Царстве эвтюмии, когда она явно хочет выйти - это просто умышленное самоистязание, серьёзно... С другой стороны, пусть она и упрямая, но при этом довольно милая, тебе не кажется?",
+        "en": "Locking herself away in the Plane of Euthymia when she clearly wants to be out — it's just willful self-torture, really... On the other hand, it's also rather stubborn-but-cute, don't you think?",
+        "zh": "明明想要出来，却一直把自己关在一心净土里，简直就是自我折磨嘛…从另一个角度来说，也挺可爱的不是吗。"
+      },
+      "source_id": 58018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Камисато Аято...",
+        "en": "About Kamisato Ayato",
+        "zh": "关于神里绫人…"
+      },
+      "text": {
+        "ru": "Подлец из Ясиро... Он всегда был непредсказуемым, даже в детстве. Не поддавайся его тёплой улыбке. Неизвестно, какой коварный план зреет у него в голове. Это просто сводит с ума... Что ты имеешь в виду, говоря «хитрый, как лиса»? Хм, если ты пытаешься намекнуть, что мы с ним в чём-то похожи, то сильно ошибаешься.",
+        "en": "The Yashiro rascal... he's always been an unpredictable one, even as a child. Don't be taken in by his warm smile. There's no knowing what devious scheme might be brewing inside his head — it's really quite maddening... What do you mean, \"sly as a fox\"? Hmph, if you're trying to insinuate that he and I are anything alike, you are sorely mistaken.",
+        "zh": "社奉行家的那个小子啊，从小就不安分，别看他表面上笑得春风和煦，暗地里可不知道在盘算什么呢，令人讨厌…哼，我可跟他不是一类人，哪来同类相斥的说法。"
+      },
+      "source_id": 58019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Камисато Аяке...",
+        "en": "About Kamisato Ayaka",
+        "zh": "关于神里绫华…"
+      },
+      "text": {
+        "ru": "Мне и правда очень нравится эта девочка из комиссии Ясиро. Она ловко справляется со всеми трудностями, с которыми сталкивается. К сожалению, зачастую это неблагодарная работа. Жаль. Если бы она не была из клана Камисато, я бы уже давно забрала её в издательский дом Яэ.",
+        "en": "I'm very fond indeed of the Yashiro Commission girl. She adroitly handles every matter that comes before her. Unfortunately, it's often thankless work. Pity. Were she not a member of the Kamisato Clan, I would have long since snatched her up for the Yae Publishing House.",
+        "zh": "我很喜欢社奉行家的小姑娘，任何事都安排得井井有条。不过社奉行一直都在做些吃力不讨好的活，可怜，如果她不是神里家的人，我早就把她挖到八重堂了。"
+      },
+      "source_id": 58020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Кудзё Саре...",
+        "en": "About Kujou Sara",
+        "zh": "关于九条裟罗…"
+      },
+      "text": {
+        "ru": "Не самая сообразительная тэнгу в лесу. Она не унаследовала блестящий ум папочки, это точно. Эх, как бы это сказать? Я полагаю, что прямота и отсутствие такта имеют свои преимущества... Но я очень надеюсь, что в следующий раз, когда она посетит храм, то будет держаться подальше. У меня есть дела поважнее, чем отвечать на её непрекращающиеся вопросы об Эи.",
+        "en": "Not the sharpest tengu in the forest — she certainly didn't inherit the brilliant mind of daddy tengu, that's for sure. *sigh* How shall I put this? I suppose being blunt and dispensing with tact has its own advantages... But I do hope that the next time she visits the shrine, she keeps to herself. I've got better things to do than answer her incessant questions about Ei.",
+        "zh": "这块愚笨的木头啊，远不如她那天狗爹爹心思活络…哎呀，怎么说呢，虽说木讷耿直也有木讷耿直的好处吧，不过还是希望下次不要在神社拦着我，一个劲追问影的事了。"
+      },
+      "source_id": 58021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Ёимии...",
+        "en": "About Yoimiya",
+        "zh": "关于宵宫…"
+      },
+      "text": {
+        "ru": "Фейерверки Наганохары стоят того, чтобы ждать их каждый год. Ходят слухи, что недавно она вызвала настоящий переполох в комиссии Тэнрё, устроив большой фейерверк. Хех, уверена, что члены клана Кудзё просто побагровели от ярости... Жаль, что мне не удалось увидеть это своими глазами.",
+        "en": "Naganohara fireworks are well worth the wait every year. Word is that she caused quite an uproar among the Tenryou Commission recently by setting off fireworks all over the place. Heh, I'm sure the members of the Kujou Clan must've turned purple with rage... A pity that I couldn't be there to see it for myself.",
+        "zh": "长野原的烟花嘛，也是每年难得的值得期盼之物了。据说前些天她还大闹天领奉行，在敷地大放烟花。呵，九条家的人恐怕气得脸都变青了，真是可惜呀，没能亲眼看到那副场景。"
+      },
+      "source_id": 58022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Гань Юй...",
+        "en": "About Ganyu",
+        "zh": "关于甘雨…"
+      },
+      "text": {
+        "ru": "Хм, прошло уже много времени с тех пор, как я в последний раз видела Гань Юй. До того, как указ Сакоку вступил в силу, мы часто встречались, чтобы обсудить отношения между нашими странами. Я всегда считала её вполне надёжной. В следующий раз, когда отправишься в Ли Юэ, передай ей немного свежего морского гриба от меня.",
+        "en": "Hmm, now that you mention it, it's been a while since I last saw Ganyu. Before the Sakoku Decree came into effect, the two of us would often meet to discuss bilateral relations between our two nations. I always found her quite reliable. The next time you go to Liyue, take her some more fresh Sea Ganoderma for me.",
+        "zh": "这么说来，很久没有见过甘雨姐姐了。稻妻尚未锁国时，璃月与稻妻往来事务都是我与她接洽，真是相当可靠，下次若有机会去璃月，再给她带些新鲜的海灵芝吧。"
+      },
+      "source_id": 58023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Сангономии Кокоми...",
+        "en": "About Sangonomiya Kokomi",
+        "zh": "关于珊瑚宫心海…"
+      },
+      "text": {
+        "ru": "Божественные жрицы, кажется, становятся всё симпатичнее с каждым поколением. Интересно, как она выглядит, исполняя танец Божественного покоя... Возможно, когда она крутится вокруг своей оси, рядом даже появляются маленькие косяки рыб. Если ей когда-нибудь понадобится более опытная жрица, у которой можно было бы поучиться, я с радостью поделюсь с ней знаниями... Хе-хе, если она, конечно, вежливо меня попросит.",
+        "en": "These Divine Priestesses seem to be getting cuter every generation. I wonder how she looks performing the Dance of Divine Peace... Perhaps even little schools of fish swish around her while she spins. If she's ever looking for a more experienced head shrine maiden to learn from, I'd be quite happy to share a few tips with her... Hehe, as long as she asked me nicely, of course.",
+        "zh": "现在的巫女，一个比一个可爱。不知道这孩子跳起太平神乐之舞会是什么样子，说不好群鱼也会跟着旋转吧。只要她肯叫我一声神子姐姐，呵呵…我倒有些心得愿意分享。"
+      },
+      "source_id": 58024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Куникудзуси...",
+        "en": "About Kunikuzushi",
+        "zh": "关于国崩…"
+      },
+      "text": {
+        "ru": "Я ещё тогда думала, что из-за него могут возникнуть проблемы. Но она настаивала, что и пальцем не шевельнёт против своего собственного творения. Если бы я знала, как всё обернётся, я бы просто избавилась от него без её ведома. Хм? А что сейчас? Ну, сейчас проблемы уже возникли.",
+        "en": "I thought it was a disaster waiting to happen at the time, but she insisted that she wasn't going to lift a finger against the object of her own creation. Had I known how things would unfold, I would have simply disposed of it without her knowing. Hmm? What about now? Hehe... Well, we're no longer waiting for the disaster to happen, are we?",
+        "zh": "我当时就觉得那是个麻烦，不过她却说毕竟是自己创造之物不愿出手。早知变成现在这样，还不如当初就瞒着她处理掉算了。现在？呵…现在，已经变麻烦啦。"
+      },
+      "source_id": 58025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Об Аратаки Итто...",
+        "en": "About Arataki Itto",
+        "zh": "关于荒泷一斗…"
+      },
+      "text": {
+        "ru": "Ах, чудак-óни. Хех, я слышала, что он доставил много неприятностей клану Кудзё. Комиссия Тэнрё хотела снять его сообщения с доски объявлений, утверждая, что они «наносят ущерб общественному порядку». Я позаботилась о том, чтобы они остались нетронутыми, ха-ха. Он такой забавный... В наши дни нечасто встретишь таких óни, как он.",
+        "en": "Ah, the oddball oni. Heh, I hear that he's been quite a pain for the Kujou Clan. The Tenryou Commission wanted to remove his messages on the bulletin board, claiming that they were \"harmful to public order.\" I made quite sure they stayed put, haha. He's an entertaining character... you don't often see oni like him in this day and age.",
+        "zh": "他呀，鬼族的奇怪小子，呵，听说他找了九条家不少的麻烦。天领奉行的人想要以有伤风化为由将他写于街上的留言擦掉，是我找人保留的，呵，这么有趣的小鬼，这些年可是难能一见了。"
+      },
+      "source_id": 58026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Горо...",
+        "en": "About Gorou",
+        "zh": "关于五郎…"
+      },
+      "text": {
+        "ru": "У него красивый хвост. Правда... мой всё же мягче.",
+        "en": "He certainly has a beautiful tail. Although... mine's a little softer.",
+        "zh": "五郎的尾巴色泽很漂亮，不过…还是我的更柔软一些。呵…"
+      },
+      "source_id": 58027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Саю...",
+        "en": "About Sayu",
+        "zh": "关于早柚…"
+      },
+      "text": {
+        "ru": "Ах да, маленькая ниндзя... Если что она и умеет, так это прятаться. Кано Нана постоянно жалуется мне на это. Она тратит так много времени на поиски Саю, что у неё почти не остаётся времени на чтение. Как по мне, то у Саю есть тайный союзник, который всё время помогает ей скрыться...",
+        "en": "Ah yes, the little ninja child... If there's one thing she can do, it's stay hidden. Kano Nana constantly complains to me about it. Apparently, she now spends so much of her time searching for Sayu that she barely has any time to read anymore. If you ask me, I'd say that Sayu has a secret ally who is helping her hide all the time...",
+        "zh": "这个子小小的孩子，躲倒是挺会躲的，鹿野奈奈经常向我抱怨，得花很多时间找她，连看小说的时间都变少了。要我说啊，或许是有人在暗中帮助早柚呢？"
+      },
+      "source_id": 58028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Куки Синобу...",
+        "en": "About Kuki Shinobu",
+        "zh": "关于久岐忍…"
+      },
+      "text": {
+        "ru": "Я много слышала о младшей сестре Миюки. Интересная девочка. Хотя она и происходит из семьи жриц, но не пошла по их стопам, а попробовала свои силы во многих различных профессиях, училась в Ли Юэ и даже присоединилась к банде Аратаки... Очаровательно. Возможно, мне стоит попросить Миюки представить меня. Да, Миюки и в голову не придёт отказать мне в просьбе.",
+        "en": "I've heard a lot about Miyuki's little sister. Quite the character, I'm told. Although she comes from a family of shrine maidens, she's gone her own way in life — tried her hand at many different trades, studied abroad in Liyue, even ended up joining the Arataki Gang... Fascinating girl. Maybe I should have Miyuki introduce me. Yes, that'll work — Miyuki wouldn't dream of refusing my request.",
+        "zh": "听说阿幸的这位妹妹很有个性，虽说出自巫女世家，却远离神社，学了许多门手艺，甚至去过璃月留学，最后还加入了荒泷派…如此有趣的女孩子，应该让阿幸帮忙引荐一下，嗯，阿幸肯定不会拒绝我的。"
+      },
+      "source_id": 58029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Яэ Мико I",
+        "en": "More About Yae Miko: I",
+        "zh": "想要了解八重神子·其一"
+      },
+      "text": {
+        "ru": "О? Ты хочешь узнать обо мне побольше? Я готова рассказать, но что я получу взамен? Это должна быть честная сделка. Ты расскажи мне всё о себе, а я поведаю тебе всё о себе. Договорились?",
+        "en": "Oh? You'd like to know more about me? I'm willing to tell, but what will I gain in exchange, hmm? It has to be a fair trade. So you tell me all about you, and I'll tell you all about me. Deal?",
+        "zh": "想知道更多我的事？也不是不行，不过世事都讲究一个互惠互利，想了解我，就拿你自己的事来交换如何？"
+      },
+      "source_id": 58030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Яэ Мико II",
+        "en": "More About Yae Miko: II",
+        "zh": "想要了解八重神子·其二"
+      },
+      "text": {
+        "ru": "Кицунэ Сайгу сказала, что отправляется в долгое путешествие и с тех пор так и не вернулась. Эх, тогда я совсем не хотела брать на себя бремя управления Великим храмом Наруками. Поэтому она сказала мне, что как Гудзи я смогу съесть столько жареного тофу, сколько захочу. Что за нелепый аргумент... Честно говоря, она несла столько чепухи, что порой была просто невыносима...",
+        "en": "Kitsune Saiguu said that she was going off on a long trip, and she's never been back since. *sigh* At the time, I wasn't the least bit inclined to take on the burden of managing the Grand Narukami Shrine. So she told me that as Guuji, I would be able to eat all the Fried Tofu I desired. As if that would be a convincing reason... That woman spoke so much nonsense, honestly, she could be so insufferable...",
+        "zh": "狐斋宫大人啊，说着出一趟远门，就再也没有回来。唉，我那时可一点都不想接手鸣神大社的麻烦事，她对我说，说我要是当了神社的宫司，就可以随心所欲地吃油豆腐了。什么糟糕的理由呀，吵吵闹闹的，令人头疼的女人…"
+      },
+      "source_id": 58031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Яэ Мико III",
+        "en": "More About Yae Miko: III",
+        "zh": "想要了解八重神子·其三"
+      },
+      "text": {
+        "ru": "Я решила основать издательский дом Яэ просто потому, что хотела читать больше интересных лёгких романов, вот и всё. Но, оказывается, видеть измотанных авторов, из последних сил отчаянно пытающихся закончить свои романы, - вот настоящее развлечение. Ты даже представить себе не можешь оправдания, которые они придумывают, когда пытаются получить отсрочку. В них они вкладывают гораздо больше фантазии, чем в сами романы.",
+        "en": "I decided to found Yae Publishing House simply because I wished to read more interesting light novels, that's all. But, it turns out that seeing frazzled authors scraping the bottom of their barrel in a desperate attempt to get their novels finished is where the real amusement comes from. You wouldn't believe some of the excuses they come up with when they're trying to get a deadline extension. Oh, so much more creative than the novels themselves.",
+        "zh": "最开始建立八重堂的动机当然是为了看有趣的小说，不过到后来乐趣就变成看那些小说家殚精竭虑的样子了。呵，你永远想不出来那些人在拖稿的时候说出的理由，哎呀，比他们自己写的小说要有趣多了。"
+      },
+      "source_id": 58032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Яэ Мико IV",
+        "en": "More About Yae Miko: IV",
+        "zh": "想要了解八重神子·其四"
+      },
+      "text": {
+        "ru": "Даже сверхъестественные существа в конце концов умирают, включая Архонтов. Ужасно обидно, когда их истории теряются во времени вместе с ними, так что их больше никогда не вспомнят. Но, чтобы перенести эти истории на бумагу, нужны первоклассные сочинители с отточенным стилем. И раз уж в мире не хватает таких писателей, значит нужно их вырастить... вырастить писателей, которые смогут изложить эти истории.",
+        "en": "Even supernatural beings eventually pass away, including gods. It's a terrible shame when their tales are lost to time along with them, never to be remembered again. The problem is, only those with first-class writing and composition skills are qualified to commit these stories to paper. If there is no qualified writing talent in the world, we must cultivate it... Yes, home-grown writers are what we need, capable of adequately capturing these stories with the written word.",
+        "zh": "无论如何，魔神皆有消亡之时，若是他们的那些故事随时间一起散佚于天地，再无人忆起，那就太可惜了。以及，有资格写他们故事的人，必须得有上乘的文思与笔法…如果世上没有这样的人，那就培养出…培养出足以书写那些故事的作家吧。"
+      },
+      "source_id": 58033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Яэ Мико V",
+        "en": "More About Yae Miko: V",
+        "zh": "想要了解八重神子·其五"
+      },
+      "text": {
+        "ru": "Хотя я заядлая читательница романов, написанных другими, самой мне ещё не довелось взяться за перо. Всё-таки написание романа - довольно сложное дело. Но если настанет день, когда ты достигнешь конца своего приключения и захочешь, чтобы кто-нибудь описал его, и если у меня будет время, когда этот день наступит... Посмотрим.",
+        "en": "Though I'm an avid reader of novels written by others, I've yet to pick up the pen myself. Writing a novel is quite an undertaking, after all. But, if there comes a day when you reach the end of your adventure and want somebody to record it — and if I happen to have the time when that day comes... We'll see.",
+        "zh": "说来，虽然看过许多人写的小说，我自己倒是从未动笔过，写小说毕竟还是很麻烦的事嘛。不过，如果你的冒险结束了，想要有人记录你的故事，而我那时正好有空的话…"
+      },
+      "source_id": 58034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Хобби Яэ Мико...",
+        "en": "Yae Miko's Hobbies",
+        "zh": "八重神子的爱好…"
+      },
+      "text": {
+        "ru": "Моё любимое развлечение - читать истории других людей. Моё второе любимое развлечение - наблюдать за чужим беспокойством... Если бы я могла объединить их, ха-ха... О, это было бы истинным развлечением.",
+        "en": "My favorite pastime is reading other people's stories. My second favorite is watching other people squirm... If I could find a way to combine the two, haha... Oh, that would be entertainment in its purest form.",
+        "zh": "我第一喜欢的是他人的故事，第二喜欢的就是看他人烦恼的神色，两者若是在一起，哈，那可是相得益彰的有趣啊。"
+      },
+      "source_id": 58035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Беспокойство Яэ Мико...",
+        "en": "Yae Miko's Troubles",
+        "zh": "八重神子的烦恼…"
+      },
+      "text": {
+        "ru": "Мир и спокойствие, кажется, сейчас в моде, но через некоторое время они ужасно надоедают...",
+        "en": "Peace and tranquility seems to be all the rage nowadays, but it gets dreadfully boring after a while...",
+        "zh": "过度安稳的日子实在是太过无聊了啊…"
+      },
+      "source_id": 58036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Ты когда-нибудь слышал о блюде под названием «Удон кицунэ»? На самом деле всё довольно просто... Это обычный жареный тофу, подаваемый с удоном. Что думаешь? Лапша и жареный тофу, вот и всё. Разве это не звучит божественно? / Ты когда-нибудь слышала о блюде под названием «Удон кицунэ»? На самом деле всё довольно просто... Это обычный жареный тофу, подаваемый с удоном. Что думаешь? Лапша и жареный тофу, вот и всё. Разве это не звучит божественно?",
+        "en": "Have you ever heard of a dish called \"Kitsune Udon\"? It's quite simple, really... Just Fried Tofu served on top of Udon noodles. What do you think? Noodles and Fried Tofu, that's all. Doesn't it sound heavenly?",
+        "zh": "你有听说过一物，其名为「狐狸乌冬」吗，其实也就是加了油豆腐的乌冬啦。怎么样，油豆腐加乌冬，听上去就很好吃吧。"
+      },
+      "source_id": 58037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Всё маринованное для меня категорически запрещено... Мне всё равно, оризия это или кивиак, - кто вообще может вынести эту отвратительную вонь? Я Гудзи Великого храма Наруками, и я отказываюсь осквернять себя, прикасаясь к этой мерзости.",
+        "en": "Anything that has been pickled is firmly off-limits for me... I don't care whether it's Medaka or Kiviak, what sort of person can stand that vile stench? I, for one, am Guuji of the Grand Narukami Shrine, and I refuse to defile myself by ingesting such pungent things.",
+        "zh": "不行，腌制过的东西不行，不管是花鳉还是腌海雀，不觉得都有一股不能让人接受的臭味吗？本宫身为鸣神大社的宫司，怎么能咽下如此不洁不净之物。"
+      },
+      "source_id": 58038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birth Date",
+        "zh": "生辰…"
+      },
+      "text": {
+        "ru": "Ах, так сегодня твой день рождения... «В этот торжественный день годовщины твоего рождения я поручаю своему роду позаботиться о том, чтобы то, что ты ищешь, обязательно нашлось, а то, что ты жаждешь, обязательно было тобой получено. Пусть сердце твоё остаётся чистым, а дух - стойким, и тогда их защита всегда будет с тобой». Как-то так. Пусть следующий год будет удачным, а все твои желания исполнятся. Ну, мы закончили?",
+        "en": "Ah, so today is your birthday... \"On your ceremonious reckoning of years, I task my kin with seeing to it that that which you seek, you shall surely find, and that that for which your heart longs, you shall surely receive. Remain pure of heart and true of spirit, and their protection shall be bestowed on you.\" There you go. May all go well in your year ahead, and may all your wishes be fulfilled. Are we done?",
+        "zh": "今日是你的生辰啊…\n「凡御岁之祝礼，以徒名之令，遇其其之所求，遂其其之所愿，正心明神，以受萌荫庇佑。」好了，就这样。祝你这一年能够诸事顺遂，得偿所愿吧。"
+      },
+      "source_id": 58039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "При обучении жриц титул «тёккай» присваивается после того, как ученица завершила учёбу и может правильно петь во время церемоний. Это может быть очень просто для людей, но это самый трудный шаг для кицунэ... В конце концов, мы всего лишь лисы.",
+        "en": "When training to become a shrine maiden, the title of \"Chokkai\" is granted once one has completed their requisite studies and can correctly chant for ceremonies. This might be very straightforward for humans, but it's the most difficult step for the kitsune... We are only foxes, after all.",
+        "zh": "所谓巫女修行阶位，在修习毕业之后，能准确开口念诵祭言即可称为「直阶」。对于人类来说很方便，不过对狐族来说倒是最困难的一步…毕竟是狐狸嘛。"
+      },
+      "source_id": 58040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Обучение, которое необходимо пройти для того, чтобы стать помощницей Гудзи, или «сэйкай», очень трудное. Приходится соблюдать множество жёстких ограничений... Есть только один способ пройти через это: есть ночью, убедившись, что никто тебя не поймает.",
+        "en": "The training required to become a Guuji's Assistant, or \"Seikai,\" is arduous indeed. You must observe a myriad of harsh restrictions... There is only one way to make it through: snack at night, and make sure you don't get caught.",
+        "zh": "成为宫司代理，也就是「正阶」的修行可是很辛苦的，要受诸多清修戒律，修行的秘诀唯有一条，就是晚上偷偷进食时，不要被人发现。"
+      },
+      "source_id": 58041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Достижение ранга «мэйкай» требует понимания устройства мира, преодоления его ограничений и понимания всех явлений внутри него. Обычно любому, кто достигает этого уровня, даруется Глаз Бога и продолжительность жизни куда длиннее, чем у обычной кицунэ.",
+        "en": "Attaining the rank of \"Meikai\" requires one to decipher the workings of the world, transcend its limitations, and fathom all phenomena within. Usually, any who reach this level are granted a Vision and a lifespan far beyond that of the average kitsune.",
+        "zh": "升为「明阶」，即要求进入天地明察的境界，神通宇内，世事洞明。只要进入了这个境界，一般都会受获神之眼，拥有远超一般狐族的悠长寿命了哦。"
+      },
+      "source_id": 58042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "На протяжении всей истории только Гудзи Великого храма Наруками носили звание «дзёкай». Это почетное звание, не связанное со способностями обладателя. Но я не вижу ничего дурного в том, чтобы объявить себя самым могущественным дзёкаем в истории.",
+        "en": "Throughout history, only the Guuji of the Grand Narukami Shrine has ever held the rank of \"Joukai.\" It is an honorary title, not related to the capabilities of the holder. But of course, if I were to declare myself the most powerful Joukai in history, I don't see why there'd be anything wrong with that.",
+        "zh": "鸣神大社的「净阶」，历来只有鸣神大社的宫司具有，仅此一位。「净阶」只是类似荣誉职位的东西，跟实力倒没什么关系，不过我若是自称实力最强的「净阶」，倒也无何不可。"
+      },
+      "source_id": 58043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Здесь!",
+        "en": "Right here.",
+        "zh": "律令。"
+      },
+      "source_id": 58044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Сейчас!",
+        "en": "Right now.",
+        "zh": "咒禁。"
+      },
+      "source_id": 58045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Явись!",
+        "en": "Emerge!",
+        "zh": "敕！"
+      },
+      "source_id": 58046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Предстань!",
+        "en": "Come on out.",
+        "zh": "显化。"
+      },
+      "source_id": 58047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Покажи им!",
+        "en": "Show them.",
+        "zh": "留形。"
+      },
+      "source_id": 58048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Я наблюдаю!",
+        "en": "I'm always watching.",
+        "zh": "真瞳显现！"
+      },
+      "source_id": 58049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Ничто не длится вечно.",
+        "en": "Nothing lasts forever.",
+        "zh": "雷霆侘寂！"
+      },
+      "source_id": 58050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Зрелище, достойное созерцания.",
+        "en": "A sight to behold.",
+        "zh": "雷光凄美啊。"
+      },
+      "source_id": 58051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Так, что тут у нас?",
+        "en": "Well, what do we have here?",
+        "zh": "有什么有趣的东西吗？"
+      },
+      "source_id": 58052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Только не говори, что это всё...",
+        "en": "Don't tell me that's everything...",
+        "zh": "就只有这些么…"
+      },
+      "source_id": 58053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Быстрее, открой его, покажи, что внутри.",
+        "en": "Go on. Open it up, show me what's inside.",
+        "zh": "快，打开来给我看看。"
+      },
+      "source_id": 58054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "С меня довольно.",
+        "en": "That's quite enough.",
+        "zh": "这样下去可不行啊。"
+      },
+      "source_id": 58055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Больше никаких игр.",
+        "en": "Ugh, no more games.",
+        "zh": "可不能再玩下去了。"
+      },
+      "source_id": 58056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Вот теперь вы привлекли моё внимание.",
+        "en": "Now, you've got my attention.",
+        "zh": "好了，要认真一些了哦。"
+      },
+      "source_id": 58057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Не заставляй себя.",
+        "en": "My, you're cutting it close.",
+        "zh": "别再勉强了。"
+      },
+      "source_id": 58058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Я разберусь с этим.",
+        "en": "I shall handle this.",
+        "zh": "交给我就好。"
+      },
+      "source_id": 58059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Веселье окончено...",
+        "en": "The fun's over...",
+        "zh": "哎呀，玩过头了…"
+      },
+      "source_id": 58060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Какая нелепая концовка...",
+        "en": "What a dreadful ending...",
+        "zh": "结局真是糟糕啊…"
+      },
+      "source_id": 58061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Вот тебе и «вечность»...",
+        "en": "So much for \"eternity\"...",
+        "zh": "止步于此，何谈永恒…"
+      },
+      "source_id": 58062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "И это всё?",
+        "en": "Is that all?",
+        "zh": "就这样？"
+      },
+      "source_id": 58063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Какая досада.",
+        "en": "What a nuisance.",
+        "zh": "真是麻烦。"
+      },
+      "source_id": 58064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Что бы ты делал без меня? / Что бы ты делала без меня?",
+        "en": "Whatever would you do without me?",
+        "zh": "这时候想起我了？"
+      },
+      "source_id": 58065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Ладно, позабавь меня.",
+        "en": "Alright, amuse me.",
+        "zh": "去做点有意思的事吧。"
+      },
+      "source_id": 58066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Ну, раз ты так вежливо просишь...",
+        "en": "Well, since you asked so nicely...",
+        "zh": "好吧，既然你都来邀请我了…"
+      },
+      "source_id": 58067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ого! А ты и вправду знаешь, что мне нравится!",
+        "en": "My, my! You really know what appeals to my tastes, don't you.",
+        "zh": "哎呀，小家伙，你对我的口味了解得很清楚嘛。"
+      },
+      "source_id": 58068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Раз уж ты сам это приготовил, попробовать - меньшее, что я могу сделать, ха-ха... / Раз уж ты сама это приготовила, попробовать - меньшее, что я могу сделать, ха-ха...",
+        "en": "Since you've made it yourself, I guess having a little taste is the least I can do, haha...",
+        "zh": "既然是你亲手做的，我就尝尝看吧，呵呵…"
+      },
+      "source_id": 58069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Как бы выразиться... На фоне этого любые старания будут прогрессом.",
+        "en": "How should I put this... There's so much room for improvement that the only way is up.",
+        "zh": "怎么说呢…小家伙，需要努力的地方还有不少哦？"
+      },
+      "source_id": 58070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "О Кираре...",
+        "en": "About Kirara",
+        "zh": "关于绮良良…"
+      },
+      "text": {
+        "ru": "В последнее время ёкаев всё больше интересует мир людей. Интересно, выйдет ли из этого что-то хорошее? Хочешь знать, что я об этом думаю? Хи-хи, как по мне, нет ничего лучше, чем жить сегодняшним днём. К тому же как я могу не любить малышку-ёкая, которая охотно приглашает меня на ужин, а потом оплачивает счёт?",
+        "en": "More youkai have expressed an interest in the human world lately. I wonder if that's a good thing or not. You want to know what I think? Hehe, I would tell them to live for the moment. Besides, how could I ever dislike a little youkai who would willingly take us out to dinner and pay for the meal?",
+        "zh": "最近对人类社会感兴趣的妖怪真是越来越多了。这种趋势，该说是好事吗？我的态度？哎呀，当然是劝大家及时行乐啦。再说，乖乖掏钱请客吃饭的小后辈，谁会不喜欢呢？"
+      },
+      "source_id": 58071
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "О Юмэмидзуки Мидзуки: Конкуренция",
+        "en": "About Yumemizuki Mizuki: Business Rivalry",
+        "zh": "关于梦见月瑞希·产业竞争"
+      },
+      "text": {
+        "ru": "«Те, кто страдает от тревоги и усталости, не могут в полной мере погрузиться в чтение книг?» Что ж, полагаю, издательскому дому Яэ нужно приложить больше усердия. Судя по всему, мы не опубликовали ни одного романа, который бы понравился госпоже Мидзуки. Я дам редакторам и писателям больше времени... Если мы всё равно не сможем удовлетворить её запросы, то мне, как главному редактору, полагаю, придётся написать такую книгу самой. Хм... «Хроники баку» - неплохое название, да?",
+        "en": "\"Anxiety and exhaustion strip people of the emotional energy for novels\"? Hmph, well, I suppose Yae Publishing House needs to work harder, then. Apparently, we haven't published a single volume to Miss Mizuki's liking. I'll give my editors and writers more time... If we still can't satisfy her, then as the Editor-in-Chief, I suppose I'll have to write one myself. Hm...\"The Baku Chronicles\" has a nice ring to it, hmm?",
+        "zh": "「焦虑劳累之人根本读不进小说」？唉，我们「八重堂」真是失败啊，旗下的小说还是趣味性不足，到现在为止，还没能推出足够获得瑞希小姐认可的小说。再给我的编辑和作家一点时间吧，要是接下来的作品还是没法让瑞希店长点头，我这个没用的主编，就只能亲自给瑞希小姐写一本小说咯，名字…就叫「梦貘记」好了。"
+      },
+      "source_id": 58072
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "О Юмэмидзуки Мидзуки: Повторная встреча",
+        "en": "About Yumemizuki Mizuki: Reunion",
+        "zh": "关于梦见月瑞希·重遇"
+      },
+      "text": {
+        "ru": "Когда Мидзуки только вернулась в Инадзуму, она всегда выглядела обеспокоенной. Даже когда она видела меня на улице, то старалась не смотреть в мою сторону... А я? Ну, конечно, я не окликала её. Иногда она оборачивалась, чтобы украдкой взглянуть на меня, когда мы проходили мимо друг друга... Я думала, не повернуться ли к ней, но уверена, это напугало бы её, она тут же превратилась бы в баку и убежала в горы.\nНо теперь... она освоилась. По крайней мере, она чувствует себя достаточно комфортно, чтобы критиковать меня, отвечая на письма читателей в журнале «Это жизнь». Юмэкуй-баку быстро адаптируются.",
+        "en": "When Mizuki first returned to Inazuma, she was so skittish. Whenever she saw me on the street, she would immediately avert her eyes... Oh, me? No, I didn't call her out on it. It was pretty fun to watch her squirm, actually. Sometimes, she would turn back to sneak a glance once we passed each other... I thought about turning around to face her, but I'm sure it would have scared her straight back into her baku form and sent her running for the hills.\nBut, now... she's a lot more comfortable. Well, comfortable enough to criticize me in the reader correspondence column of That's Life, at least. The baku are quick to adapt, I suppose.",
+        "zh": "瑞希刚回来稻妻那一会，总是一副揣着心事的样子，明明在路上看见了我，却还要把目光撇开…我？我当然没有主动搭讪她。还想多看一阵她那副别扭的模样呢。如果我没想错，等我们俩擦肩而过之后，她还要扭过头，瞪着眼睛瞅我两眼…要是我这时候再回头看她，只怕瑞希要被我吓得露出原形，捂着耳朵飘走了。\n不过现在嘛…她都已经会在闲事月刊的读者来信里给我挑刺了。食梦貘的成长，真是迅速哪。"
+      },
+      "source_id": 58073
+    }
+  ],
+  "replica_count": 74
 }

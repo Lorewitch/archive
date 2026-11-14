@@ -144,5 +144,1114 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Скаут Эмбер готова к службе! Найдите меня, если вам понадобится помощь!",
+        "en": "Outrider Amber reporting for duty! Just say the word if you ever need my help!",
+        "zh": "侦察骑士安柏，前来报到！今后有什么需要帮忙的，尽管说好啦！"
+      },
+      "source_id": 10100
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Увлечения",
+        "en": "Chat: Hobbies",
+        "zh": "闲聊·兴趣"
+      },
+      "text": {
+        "ru": "Хочется пробежаться.",
+        "en": "I feel like running.",
+        "zh": "好想跑一会儿步呀。"
+      },
+      "source_id": 10101
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Волнения",
+        "en": "Chat: Longings",
+        "zh": "闲聊·挂念"
+      },
+      "text": {
+        "ru": "Джинн расстроится, если увидит, что мы валяем дурака.",
+        "en": "Jean will be upset if she catches us lazing around like this.",
+        "zh": "要是被琴发现我们在偷懒，她会不高兴的。"
+      },
+      "source_id": 10102
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Открытия",
+        "en": "Chat: New Discoveries",
+        "zh": "闲聊·新发现"
+      },
+      "text": {
+        "ru": "Смотри, что это там? Пойдём проверим!",
+        "en": "Hey, there's something strange over there... C'mon, let's take a look!",
+        "zh": "那边好像有什么奇怪的东西耶…不去看吗、不去看看吗？"
+      },
+      "source_id": 10103
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь: Тревога",
+        "en": "When It Rains: Worries",
+        "zh": "下雨的时候·担忧"
+      },
+      "text": {
+        "ru": "О нет, пошёл дождь... Теперь моя форма вся промокнет...",
+        "en": "Oh no, it's raining... now my uniform will get all wet...",
+        "zh": "下雨了…蝴蝶结会淋湿的…"
+      },
+      "source_id": 10104
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт дождь: Напоминание",
+        "en": "When It Rains: Reminder",
+        "zh": "下雨的时候·提醒"
+      },
+      "text": {
+        "ru": "Снова пошёл дождь... Наша видимость уменьшится, мы должны быть начеку.",
+        "en": "It's raining again... This will hinder our vision, we must remain vigilant!",
+        "zh": "下雨了啊…视野会有影响，要小心哦。"
+      },
+      "source_id": 10105
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Ого! Погода такая классная!",
+        "en": "Wow~ This weather is awesome!",
+        "zh": "唔哇~天气真好。"
+      },
+      "source_id": 10106
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Если бы только ветер был немного сильнее...",
+        "en": "If only the wind was a little stronger...",
+        "zh": "嗯…要是风大点就好了。"
+      },
+      "source_id": 10107
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует ветер: Удовлетворение",
+        "en": "When It's Windy: Pleasant",
+        "zh": "起风的时候·惬意"
+      },
+      "text": {
+        "ru": "Ветерок такой приятный...",
+        "en": "This breeze... so refreshing!",
+        "zh": "真舒服呀…"
+      },
+      "source_id": 10108
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Когда дует ветер: Отдых",
+        "en": "When It's Windy: Relax",
+        "zh": "起风的时候·放松"
+      },
+      "text": {
+        "ru": "Мне нравится такая погода. Ах... Так расслабляет!",
+        "en": "I love this kind of weather, ahh... so relaxing~",
+        "zh": "我喜欢这种天气，嗯…真轻松！"
+      },
+      "source_id": 10109
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Хочешь пойти на утреннюю пробежку вместе?",
+        "en": "Morning! Want to go on a jog?",
+        "zh": "早上好哟！要不要一起晨跑？"
+      },
+      "source_id": 10110
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Можно пообедать вместе с тобой?",
+        "en": "Can I get lunch with you?",
+        "zh": "可以跟你一起吃午饭吗？"
+      },
+      "source_id": 10111
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Темнеет... Мне зажечь факел?",
+        "en": "It's getting late, should I light a torch?",
+        "zh": "天黑了，要我点个火把吗？"
+      },
+      "source_id": 10112
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Правильно, отдых очень важен! Встретимся завтра здесь же, пока!",
+        "en": "Agreed, getting rest is essential! Let's meet here tomorrow then. See ya!",
+        "zh": "没错，休息也很重要！那就说好了哦，明天见！"
+      },
+      "source_id": 10113
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "Об Эмбер...",
+        "en": "About Amber",
+        "zh": "关于安柏自己…"
+      },
+      "text": {
+        "ru": "Чемпион полётов Мондштадта. Да, это я!",
+        "en": "Mondstadt Gliding Champion, yep, that's me! Gliding Champion!",
+        "zh": "蒙德城的飞行冠军，就是我啦！"
+      },
+      "source_id": 10114
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Соревнования",
+        "en": "About Us: Contests",
+        "zh": "关于我们·比赛"
+      },
+      "text": {
+        "ru": "Запомни, что я не уступлю победу даже тебе!",
+        "en": "Remember that I don't go easy on anyone, even you!",
+        "zh": "就算是你，比赛我也不会放水！"
+      },
+      "source_id": 10115
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Полёты",
+        "en": "About Us: Gliding",
+        "zh": "关于我们·飞行"
+      },
+      "text": {
+        "ru": "Когда я учу тебя летать, сама чувствую, что могу лететь ещё быстрее... Что? Почему ты смеёшься? Я докажу это! Давай наперегонки, прямо сейчас!",
+        "en": "When I'm teaching you to glide, I feel like I can go even faster than usual... Huh? What are you laughing at? I'll prove it! We can race — right now!",
+        "zh": "教你飞…与你一起飞行的时候，我自己好像也能飞得更快…欸，你在笑什么啊？来比赛吧！现在就比！"
+      },
+      "source_id": 10116
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Мой Глаз Бога - это знак того, что Архонты верят в меня. Да, я должна стать лучшим скаутом!",
+        "en": "My Vision... Is a sign that the Archons believe in me. Yes, I must become the best Outrider I can possibly be!",
+        "zh": "「神之眼」，是神对我的认可吧。嗯，我要成为最优秀的侦察骑士才行！"
+      },
+      "source_id": 10117
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Вид с башен собора просто великолепный, тебе обязательно надо туда подняться!",
+        "en": "The view from the Cathedral's clock tower is amazing! You should check it out.",
+        "zh": "走嘛~去大教堂的钟楼上看看，风景超棒的！"
+      },
+      "source_id": 10118
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Смотри, это голуби! Эх... Я бы хотела летать вместе с ними.",
+        "en": "Look, there's a pigeon over there! *giggle* I wish I could fly alongside them.",
+        "zh": "看，那里有鸽子！嗯…想跟它们一起飞呢。"
+      },
+      "source_id": 10119
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Джинн: Помощь",
+        "en": "About Jean: Help",
+        "zh": "关于琴·帮忙"
+      },
+      "text": {
+        "ru": "После того как магистр ордена отправился в экспедицию, все дела ордена, большие и маленькие, легли на плечи Джинн. Я так хочу ей помочь...",
+        "en": "After the Grand Master left on his expedition, all the affairs of the Knights of Favonius, both big and small, have been left up to Jean. If only there was more I could do to help her...",
+        "zh": "大团长出征之后，大大小小的事务都压在了琴的身上。如果我也能多帮到她一点就好了…"
+      },
+      "source_id": 10120
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Джинн: Забота",
+        "en": "About Jean: Care",
+        "zh": "关于琴·关怀"
+      },
+      "text": {
+        "ru": "Джинн всё ещё работает? Нам следует пригласить её на кофе... Пойдём!",
+        "en": "Jean might still be working? We should invite her for coffee... Let's go.",
+        "zh": "琴可能还在工作？…走，一起请她喝杯咖啡吧。"
+      },
+      "source_id": 10121
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Лизе: Истории",
+        "en": "About Lisa: Listening to Stories",
+        "zh": "关于丽莎·听故事"
+      },
+      "text": {
+        "ru": "Мы должны заглянуть к Лизе, когда выдастся свободная минутка! Когда мы виделись в последний раз, она рассказывала историю о сокровище на Драконьем хребте, но тогда её отвлекли, и она не смогла закончить. Не могу дождаться услышать конец этой истории!",
+        "en": "When you have time, we should go see Lisa! Last time I saw her, she was telling me about a story involving a treasure in the Dragonspine area. But, we got cut off before she could finish. I can't wait to hear the rest of her story!",
+        "zh": "等你有空，我们一起去找丽莎吧！她上次和我讲了一个龙脊雪山宝藏的故事，只讲到一半。唔，我还想知道后续！"
+      },
+      "source_id": 10122
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Лизе: Восторг",
+        "en": "About Lisa: Admiration",
+        "zh": "关于丽莎·钦佩"
+      },
+      "text": {
+        "ru": "Если Лиза не спит, то она читает! Не понимаю, как ей это удаётся, я бы не смогла сидеть так долго и не шевелиться.",
+        "en": "If Lisa's not sleeping, she'll be reading! I don't know how she does it, I wouldn't be able to sit still for that long.",
+        "zh": "丽莎好像除了睡觉的时间都在看书！真厉害啊，我就坐不住那么长时间。"
+      },
+      "source_id": 10123
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кэйе: Тревога",
+        "en": "About Kaeya: Concerns",
+        "zh": "关于凯亚·忧虑"
+      },
+      "text": {
+        "ru": "У меня странное предчувствие... Ты недавно общался с Кэйей? Он не досаждал тебе? / У меня странное предчувствие... Ты недавно общалась с Кэйей? Он не досаждал тебе?",
+        "en": "...I'm feeling uneasy all of a sudden! Was that Kaeya with you earlier? Did he give you any trouble?",
+        "zh": "…有种不安的感觉！刚才是凯亚陪着你吧？他没给你添麻烦吧？"
+      },
+      "source_id": 10124
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Кэйе: Смутьян",
+        "en": "About Kaeya: Culprit",
+        "zh": "关于凯亚·祸首"
+      },
+      "text": {
+        "ru": "С одуванчиками в саду что-то не так... Я уверена, что Кэйа имеет к этому какое-то отношение!",
+        "en": "There's something weird-looking about the dandelions in the garden... Hmm, I bet Kaeya had something to do with this!",
+        "zh": "花圃里的蒲公英看上去蔫蔫的，哼…一定又是凯亚捣的鬼！"
+      },
+      "source_id": 10125
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Беннете...",
+        "en": "About Bennett",
+        "zh": "关于班尼特…"
+      },
+      "text": {
+        "ru": "Кто? Беннет? Хм... Кажется, я уже слышала это имя. Ах, точно! Это тот непоседливый парень из Гильдии искателей приключений! Я иногда натыкаюсь на него в своих патрулях. Кажется, он очень любит искать сокровища.",
+        "en": "Hmm? Bennett... I feel like I've heard that name before... Oh! Yes, he's that hot-blooded guy from the Adventurers' Guild, right! I tend to come across him way out in the wild from time to time, he seems to really love treasure hunting.",
+        "zh": "嗯？班尼特…好像在哪里听过…哦！你说的是冒险家协会那个热血的男孩子啊！嗯，我有时会在秘境附近见到他，好像对寻宝很有热情呢。"
+      },
+      "source_id": 10126
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Кли...",
+        "en": "About Klee",
+        "zh": "关于可莉…"
+      },
+      "text": {
+        "ru": "Кли? Иногда она бывает капризной, но все в Ордо Фавониус её обожают. Но всё же... мне нужно следить за ней, иначе Джинн снова посадит её под замок.",
+        "en": "Klee? She can be a bit cheeky sometimes, but everyone in the Knights of Favonius likes her. Although... I really ought to keep a closer eye on her if I wanna keep her from getting put in confinement by Jean again.",
+        "zh": "可莉呀，偶尔会有点调皮，但骑士团的大家都很喜欢她！唔…为了不让她又被琴抓去关禁闭，还是看紧她一点吧。"
+      },
+      "source_id": 10127
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Об Альбедо...",
+        "en": "About Albedo",
+        "zh": "关于阿贝多…"
+      },
+      "text": {
+        "ru": "Всё своё время Альбедо проводит в своей мастерской, копаясь в своём крутом оборудовании. Но при разговоре с ним никогда непонятно, о чём он думает... Кто знает, что творится у него в голове...",
+        "en": "Albedo spends most of his time in his workshop, tinkering away with all of his awesome stuff. But, when you see him in person, you can never quite tell what he is thinking, not a clue at all.",
+        "zh": "阿贝多，大多数时候都呆在自己的工坊里，捣鼓一些很厉害的东西。但是，见到他的时候，会有种猜不透他在想些什么的感觉。嗯，猜不透呢…"
+      },
+      "source_id": 10128
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Ноэлль...",
+        "en": "About Noelle",
+        "zh": "关于诺艾尔…"
+      },
+      "text": {
+        "ru": "Хочешь спросить о Ноэлль? Она очень-очень сильная. Но всё же она младше нас, поэтому нам нужно заботиться о ней.",
+        "en": "You wanna know about Noelle? She's super resilient. Still, since she's younger than us, we should look out for her.",
+        "zh": "你问诺艾尔吗？她的韧性可是很强的。作为前辈，你也要多照顾她一点哦。"
+      },
+      "source_id": 10129
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Об Эоле...",
+        "en": "About Eula",
+        "zh": "关于优菈…"
+      },
+      "text": {
+        "ru": "Эола - моя лучшая подруга! Как только ты привыкнешь к её шуткам, ты увидишь, что она на самом деле очень милая. Тем не менее из-за её фамилии люди часто относятся к ней предвзято. Как можно заставить людей понять её?",
+        "en": "Eula is a great friend of mine! You just need to get used to her sense of humor and you'll get along fine! The only reason she's misunderstood by so many people is her family name. How can I get them to see her for who she really is?",
+        "zh": "优菈是我的好伙伴！只要习惯了优菈开的玩笑，你就会发现，其实她是很好相处的。只不过，优菈因为自己的姓氏，经常被很多人误解，怎么样才能让大家理解她呢…"
+      },
+      "source_id": 10130
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше об Эмбер I",
+        "en": "More About Amber: I",
+        "zh": "想要了解安柏·其一"
+      },
+      "text": {
+        "ru": "А я отличный охотник! Хочешь посмотреть, на что я способна? А хочешь устроить охотничье состязание?",
+        "en": "I'm a pro at hunting, you know! How about I show you some of my skills? Or even better... how about a little competition?",
+        "zh": "狩猎我也很擅长哦！怎么样，想不想看看我的身手？还是…要来个狩猎比赛？"
+      },
+      "source_id": 10131
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше об Эмбер II",
+        "en": "More About Amber: II",
+        "zh": "想要了解安柏·其二"
+      },
+      "text": {
+        "ru": "А теперь я раскрою тебе самый главный секрет чемпиона полётов! Самое главное - это быть храбрым!",
+        "en": "I'll share my ultimate Gliding Champion secret with you! The most important thing to remember, is to have courage!",
+        "zh": "和你分享我的飞行冠军经验吧！最重要的，就是要有勇气！"
+      },
+      "source_id": 10132
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше об Эмбер III",
+        "en": "More About Amber: III",
+        "zh": "想要了解安柏·其三"
+      },
+      "text": {
+        "ru": "У меня не получается решать загадки. Во время Луди Гарпастума я всегда обхожу сцену с загадками стороной... А ты любишь загадки?",
+        "en": "I'm really not that good with riddles. I always try to avoid the riddles stand during Ludi Harpastum... What about you?",
+        "zh": "其实我不擅长解谜，羽球节里看到猜谜的摊位都要绕着走…你呢？"
+      },
+      "source_id": 10133
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше об Эмбер IV",
+        "en": "More About Amber: IV",
+        "zh": "想要了解安柏·其四"
+      },
+      "text": {
+        "ru": "Я присоединилась к рыцарям из-за дедушки, осталась из-за Джинн, а благодаря тебе увидела мир за стенами Мондштадта. Я так счастлива!",
+        "en": "I joined the Knights because of my grandpa, I stayed because of Jean. And now, you're the one that showed me the world beyond Mondstadt. I couldn't be happier.",
+        "zh": "我因为爷爷才加入骑士团，因为琴留在了团里。现在，是你陪我见到了蒙德以外的天空。我真的很开心。"
+      },
+      "source_id": 10134
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше об Эмбер V",
+        "en": "More About Amber: V",
+        "zh": "想要了解安柏·其五"
+      },
+      "text": {
+        "ru": "Я хочу увидеть другие миры, хочу знать, насколько велика вселенная! Ты же будешь со мной, да? Будешь?",
+        "en": "I would like to explore the other worlds beyond. I wanna see how deep the rabbit hole goes! You'll keep me company, right?",
+        "zh": "我还想去更远的世界。我想去看天空的尽头！你也会继续陪着我的，对吧、对吧？"
+      },
+      "source_id": 10135
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Хобби Эмбер...",
+        "en": "Amber's Hobbies",
+        "zh": "安柏的爱好…"
+      },
+      "text": {
+        "ru": "Барон Зайчик, смотрите, какой сегодня безупречный день!",
+        "en": "Baron Bunny, today is another squeaky clean day!",
+        "zh": "兔兔伯爵，今天也是干干净净的一天！"
+      },
+      "source_id": 10136
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Беспокойство Эмбер...",
+        "en": "Amber's Troubles",
+        "zh": "安柏的烦恼…"
+      },
+      "text": {
+        "ru": "А ты знаешь, как печь вкусные лунные пироги?",
+        "en": "Oh... Do you have any idea how to make a decent Moon Pie?",
+        "zh": "唔…你知道，怎样才能做出好吃的月亮派吗？"
+      },
+      "source_id": 10137
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Джинн готовит невероятно вкусный кофе! Тебе обязательно стоит его попробовать.",
+        "en": "Jean makes the most amazing cup of coffee! You'll have to try it sometime.",
+        "zh": "琴泡的咖啡真的好香！有机会你要尝尝哦。"
+      },
+      "source_id": 10138
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я могу вытерпеть всё что угодно, но только не холодный сок из волчьих крюков... Фу...",
+        "en": "I can handle anything and everything! As long as it isn't cold Wolfhook juice... Ugh, yuck...",
+        "zh": "只要不是冰钩钩果汁…唔…我都应付得来！"
+      },
+      "source_id": 10139
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения тебя! Вот, держи, это мой подарок - Барон Зайчик, особый экземпляр. Я сама его сшила для тебя, а это значит, что он не взорвётся. Не бойся!",
+        "en": "Hey, happy birthday! Here, I have a gift for you: an exclusive, custom-made version of Baron Bunny that I sewed for you myself. Uh... don't worry, \"custom-made\" means that it won't explode!",
+        "zh": "嘿嘿嘿，生日快乐！来，这个给你，是我亲手缝的「兔兔伯爵·特别定制版」…放心放心，是特别定制版哦，不会爆炸的！"
+      },
+      "source_id": 10140
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Да! Быстра как ветер!",
+        "en": "Yeah! As fast as riding the wind!",
+        "zh": "哇！像乘着风一样轻快~"
+      },
+      "source_id": 10141
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "На такой скорости никто не сможет меня обогнать!",
+        "en": "At this speed, no one can keep up with me!",
+        "zh": "现在的速度，没有人能追得上了吧！"
+      },
+      "source_id": 10142
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Небеса над Мондштадтом стали меньше... или это мой взгляд стал видеть дальше?",
+        "en": "The skies over Mondstadt seem to have gotten smaller... or is it that my sight reaches further than ever before?",
+        "zh": "蒙德的天空好像变小了…还是因为我的视野变大了？"
+      },
+      "source_id": 10143
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Кажется, что с нашей первой встречи я стала намного сильнее. Хи-хи, спасибо тебе большое! Можно, я угощу тебя медовым мясом с морковкой? Ну давай же, пойдём!",
+        "en": "It seems that now... I've improved so much compared to when we first met! Hehe, thank you so much! Let me treat you to a Sticky Honey Roast! Let's go, let's go!",
+        "zh": "我现在…比起最初跟你认识的时候，又进步了不少吧。嘿嘿，非常感谢！让我请你吃蜜酱胡萝卜煎肉吧，跟我来跟我来！"
+      },
+      "source_id": 10144
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Взять!",
+        "en": "Get them!",
+        "zh": "靠你咯。"
+      },
+      "source_id": 10145
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Вперёд, Барон Зайчик!",
+        "en": "Go go Baron Bunny!",
+        "zh": "兔兔伯爵，出击！"
+      },
+      "source_id": 10146
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "♪М-ммм-ммм-ммм... М-ммм-ммм-ммм...",
+        "en": "♪Hmm~ hmm~ hmm~ hmm~ hmm~",
+        "zh": "♪哼哼~哼哼哼~"
+      },
+      "source_id": 10147
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "От моего взгляда не ускользнуть!",
+        "en": "No one escapes my sights!",
+        "zh": "百发百中！"
+      },
+      "source_id": 10148
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Град стрел!",
+        "en": "Let it rain!",
+        "zh": "箭如…雨下！"
+      },
+      "source_id": 10149
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Вам не сбежать!",
+        "en": "No escape!",
+        "zh": "你没有退路了！"
+      },
+      "source_id": 10150
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Встретимся там!",
+        "en": "I'll race you there!",
+        "zh": "来比赛吧！"
+      },
+      "source_id": 10151
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Начало спринта II",
+        "en": "Sprint Start: II",
+        "zh": "冲刺开始·其二"
+      },
+      "text": {
+        "ru": "Спорим, ты меня не догонишь!",
+        "en": "Betcha can't keep up with me!",
+        "zh": "跟得上我吗？"
+      },
+      "source_id": 10152
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Конец спринта I",
+        "en": "Sprint End: I",
+        "zh": "冲刺结束·其一"
+      },
+      "text": {
+        "ru": "Говорю же - победа за мной!",
+        "en": "Told you I'd win.",
+        "zh": "说了你们跑不过我。"
+      },
+      "source_id": 10153
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Конец спринта II",
+        "en": "Sprint End: II",
+        "zh": "冲刺结束·其二"
+      },
+      "text": {
+        "ru": "Так-то лучше!",
+        "en": "That's more like it!",
+        "zh": "就是这种感觉！"
+      },
+      "source_id": 10154
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Запуск планера I",
+        "en": "Deploying Wind Glider: I",
+        "zh": "打开风之翼·其一"
+      },
+      "text": {
+        "ru": "Чемпион полётов Мондштадта. Да, это я!",
+        "en": "Get ready for the Gliding Champion of Mondstadt!",
+        "zh": "我可是蒙德城的飞行冠军！"
+      },
+      "source_id": 10155
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Запуск планера II",
+        "en": "Deploying Wind Glider: II",
+        "zh": "打开风之翼·其二"
+      },
+      "text": {
+        "ru": "Я не подведу!",
+        "en": "I won't let you down!",
+        "zh": "尽管交给我吧！"
+      },
+      "source_id": 10156
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Открывать сундук - всё равно что разворачивать подарок!",
+        "en": "Opening a chest is like unwrapping a gift!",
+        "zh": "打开宝箱的一瞬间，最兴奋了！"
+      },
+      "source_id": 10159
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Скаут Эмбер нашла ещё одну цель!",
+        "en": "Another target tracked down by Outrider Amber!",
+        "zh": "侦察骑士，发现目标！"
+      },
+      "source_id": 10160
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Ого, это пригодится!",
+        "en": "Wow, these will come in handy!",
+        "zh": "哇，都是好东西！"
+      },
+      "source_id": 10161
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Я никогда не сдамся!",
+        "en": "I'll never surrender!",
+        "zh": "…我可不会认输！"
+      },
+      "source_id": 10162
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Ай! Злюка...",
+        "en": "Ouch! Meanie...",
+        "zh": "好痛…这家伙…"
+      },
+      "source_id": 10163
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "*тяжело дышит* О... ты... заплатишь за это!",
+        "en": "*panting* Ugh... You'll... pay for that!",
+        "zh": "别小瞧我！"
+      },
+      "source_id": 10164
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Осторожно!",
+        "en": "Take cover!",
+        "zh": "小心啊！"
+      },
+      "source_id": 10165
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Эй... Нужна помощь?",
+        "en": "Hey... Need some help?",
+        "zh": "你…要不要紧？我来帮帮你吧？"
+      },
+      "source_id": 10166
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Больше нет сил...",
+        "en": "Tired...",
+        "zh": "跑累了…"
+      },
+      "source_id": 10167
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Надо больше... тренировок...",
+        "en": "Must keep... training...",
+        "zh": "训练…还不够…"
+      },
+      "source_id": 10168
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Победа за тобой...",
+        "en": "You got me...",
+        "zh": "这次我…输了啊…"
+      },
+      "source_id": 10169
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Эй!",
+        "en": "Hey!",
+        "zh": "真难缠！"
+      },
+      "source_id": 10170
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Эй, не так сильно!",
+        "en": "Ugh, not so hard!",
+        "zh": "好痛！"
+      },
+      "source_id": 10171
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Это жульничество!",
+        "en": "That's cheating!",
+        "zh": "犯规啦！"
+      },
+      "source_id": 10172
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Предоставь это мне!",
+        "en": "Leave it to me!",
+        "zh": "交给我吧！"
+      },
+      "source_id": 10173
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Приготовились!",
+        "en": "At the ready!",
+        "zh": "准备就绪！"
+      },
+      "source_id": 10174
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Скаут Эмбер, докладываю!",
+        "en": "Outrider Amber, reporting!",
+        "zh": "侦察骑士登场！"
+      },
+      "source_id": 10175
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ого! Как вкусно, да ты превосходный повар!",
+        "en": "Wow! This is delicious, you're an amazing cook!",
+        "zh": "哇，这个太好吃了。你真厉害！"
+      },
+      "source_id": 10176
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Хотела бы я готовить так же хорошо...",
+        "en": "I wish I was as good at cooking as you...",
+        "zh": "要是我也有这样的手艺就好了…"
+      },
+      "source_id": 10177
+    },
+    {
+      "number": 77,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Эм, я просто не привыкла к такому вкусу, прости! Ты здесь совершенно ни при чём!",
+        "en": "Uh, I'm just not used to this taste, sorry! Nothing to do with you of course!",
+        "zh": "我不太习惯这种味道，抱歉啦！不是你的问题！"
+      },
+      "source_id": 10178
+    },
+    {
+      "number": 78,
+      "title": {
+        "ru": "О Коллеи...",
+        "en": "About Collei",
+        "zh": "关于柯莱…"
+      },
+      "text": {
+        "ru": "Коллеи мне написала, что её элеазар совсем прошёл... Я так за неё рада! Очень хотелось бы подлететь к ней и крепко-крепко обнять! Ещё она говорит, что очень по всем в Мондштадте соскучилась и, как будет готова, обязательно к нам приедет и всё расскажет... Ах, было бы здорово, если бы она успела к следующему Луди Гарпастуму. Скорее бы её увидеть!",
+        "en": "Collei wrote to me saying that her Eleazar has been completely cured... I'm so happy for her! I wish I could fly to her side right now and give her the biggest hug! She also said she misses everyone in Mondstadt, and that once she's ready, she'll come visit us in person and tell us all about her progress... Oh, it would be great if she could make it in time for the next Ludi Harpastum. Aaah I can't wait to see her again!",
+        "zh": "柯莱和我写信说，她的「魔鳞病」已经彻底康复…我太为她高兴了！真想下一秒就飞到她身边，紧紧地抱住她。她还说很想念蒙德的大家，想等哪一天独当一面之后，亲口来汇报自己的成长…啊，要是能赶上下一次羽球节就好了，我都快等不及了！"
+      },
+      "source_id": 10179
+    },
+    {
+      "number": 79,
+      "title": {
+        "ru": "О Мике...",
+        "en": "About Mika",
+        "zh": "关于米卡…"
+      },
+      "text": {
+        "ru": "О, Мика - ветеран отряда Эолы. Поначалу он всё время называл меня «командир» - наверное, потому что у меня неплохие отношения с Эолой. Потом я рассказала ему, что я скаут, но он всё равно обращается ко мне на «вы»... Мне очень неловко. У нас разные обязанности, он специалист по картографии, и в этом мне с ним никогда не сравниться.",
+        "en": "Oh! Mika's a veteran of Eula's team. When he first arrived, it was always \"Yes, Commander!\" every time he spoke to me — I guess it must have been because he saw how close I was with Eula. But then, even after I told him I was actually an Outrider, he still called me \"Ma'am\"... It was so embarrassing. We have completely different responsibilities, after all. I definitely could never match his expertise in cartography.",
+        "zh": "哦，米卡是优菈那儿的老队员了，最初可能是看我和优菈关系比较好吧，总是长官长官地叫我。在我跟他分享自己的侦察心得之后，他又改叫我前辈了…弄得我挺不好意思的。明明我们的职责不一样，他在绘制地图上的专业性，是我怎么都比不上的。"
+      },
+      "source_id": 10180
+    }
+  ],
+  "replica_count": 79
 }

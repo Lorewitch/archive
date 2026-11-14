@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 72268,72269,72270,72275
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10059
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 72268,72269,72270,72275
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,9 +28,13 @@
 
 Вы приняли испытание и готовитесь отправиться в Теснину на поиски Сияния света...
 
+#### Идите к Сиянию света
+
+#### Изучите воду в пруду во время Вечной ночи
+
 #### Поговорите с призраком у печати
 
-**Уда:** Я Уда из дзибасири. Герой Сангономии, ты досто(йна)(ин) принять испытание.
+**Уда:** Я Уда из дзибасири. Герой Сангономии, ты достоин принять испытание. / Я Уда из дзибасири. Герой Сангономии, ты достойна принять испытание.
 
 **Уда:** Я отвечаю за испытание мудрости. Разгадай все головоломки, чтобы вернуть Огни высоких врат.
 
@@ -36,15 +42,19 @@
 
 **Уда:** Я подожду в Башне трёх миров, пока ты завершишь испытание.
 
+**Уда:** Я Уда из дзибасири. Посторонним сюда нельзя.
+
+#### Выпустите все Огни высоких врат
+
+#### Выпустите все Огни высоких врат
+
+#### Выпустите все Огни высоких врат
+
 #### Выпустите все Огни высоких врат
 
 **Уда:** Иди же, герой Сангономии, прими это испытание.
 
 **Уда:** Верни все Огни высоких врат.
-
-#### Выпустите все Огни высоких врат
-
-**Уда:** Я Уда из дзибасири. Посторонним сюда нельзя.
 
 #### Поговорите с Уда
 
@@ -60,23 +70,31 @@
 
 Вы приняли испытание и готовитесь отправиться в Храм вечной ночи на поиски Сияния света...
 
+#### Идите к Сиянию света
+
+#### Изучите воду в пруду во время Вечной ночи
+
 #### Поговорите с призраком у печати
 
-**Эки:** Я Эки из дзибасири. Герой Сангономии, ты досто(йна)(ин) принять испытание.
+**Эки:** Я Эки из дзибасири. Герой Сангономии, ты достоин принять испытание. / Я Эки из дзибасири. Герой Сангономии, ты достойна принять испытание.
 
 **Эки:** Я отвечаю за испытание проницательности. Разгадай все головоломки, чтобы вернуть Огни высоких врат.
 
 **Эки:** Поле боя непрестанно меняется. Держи ухо востро, а глаза широко раскрытыми, чтобы понять ситуацию и совладать с неизвестностью.
+
+**Эки:** Я Эки из дзибасири. Если у тебя нет важных дел, то покинь это место.
+
+#### Выпустите все Огни высоких врат
+
+#### Выпустите все Огни высоких врат
+
+#### Выпустите все Огни высоких врат
 
 #### Выпустите все Огни высоких врат
 
 **Эки:** Герой Сангономии, завершено ли испытание?
 
 **Эки:** Найди все Огни высоких врат. Поможет тебе проницательность!
-
-#### Выпустите все Огни высоких врат
-
-**Эки:** Я Эки из дзибасири. Если у тебя нет важных дел, то покинь это место.
 
 #### Поговорите с Эки
 
@@ -92,9 +110,13 @@
 
 Вы приняли испытание и готовитесь отправиться в Сердце змея на поиски Сияния света.
 
+#### Идите к Сиянию света
+
+#### Изучите воду в пруду во время Вечной ночи
+
 #### Поговорите с призраком у печати
 
-**Даймон:** Я Даймон из дзибасири. Герой Сангономии, ты досто(йна)(ин) принять испытание.
+**Даймон:** Я Даймон из дзибасири. Герой Сангономии, ты достоин принять испытание. / Я Даймон из дзибасири. Герой Сангономии, ты достойна принять испытание.
 
 **Даймон:** Доблесть - это сила, позволяющая победить всех врагов любыми способами. Просто победи всех противников и выпусти Пламя Высоких Ворот, чтобы открылся проход.
 
@@ -104,15 +126,19 @@
 
 **Даймон:** Я подожду в Башне трёх миров, пока ты завершишь испытание.
 
+**Уда:** Я Даймон из дзибасири. Откуда ты здесь - я не знаю. Уходи.
+
+#### Выпустите все Огни высоких врат
+
+#### Выпустите все Огни высоких врат
+
+#### Выпустите все Огни высоких врат
+
 #### Выпустите все Огни высоких врат
 
 **Даймон:** Герой Сангономии, завершено ли испытание?
 
 **Даймон:** В поисках истиной доблести любыми способами уничтожь врагов.
-
-#### Выпустите все Огни высоких врат
-
-**Уда:** Я Даймон из дзибасири. Откуда ты здесь - я не знаю. Уходи.
 
 #### Поговорите с Даймон
 
@@ -124,14 +150,13 @@
 
 Выслушав Эбоси, вы подумали, почему бы не принять участие в испытаниях в трёх уголках Энканомии.
 
-
 **Эбоси:** Раз я здесь, значит, кровавый коралл в руках Ватацуми. Это утешает.
 
 **Эбоси:** Меня зовут Эреб. На языке Инадзумы - Эбоси. Я служу Сангономии, и я одна из жриц Энканомии.
 
-**Эбоси:** А вы, должно быть, (героиня, получившая)(герой, получивший) коралл?
+**Эбоси:** А вы, должно быть, герой, получивший коралл? / А вы, должно быть, героиня, получившая коралл?
 
-Да, это я.
+- **Путешественник:** Да, это я.
 
 **Эбоси:** Приношу свои извинения, но мне нужно рассказать об одном очень непростом деле. По правде говоря, я не знаю, с чего начать.
 
@@ -147,9 +172,15 @@
 
 **Эбоси:** Конечно, причиной этого было то, что наши предки в Энканомии не получали солнечного света...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Можно ближе к делу?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это мы уже слышали. Можно ближе к сути?
+
+##### Общее продолжение
 
 **Эбоси:** Ах, прошу прощения. После того, как мы наладили дипломатические связи, я, будучи прислужницей Сангономии, частенько выступала в роли гида...
 
@@ -167,9 +198,15 @@
 
 **Эбоси:** Прошу вас принять это испытание.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я пройду испытание.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Меня очень интересуют тайны.
+
+##### Общее продолжение
 
 **Эбоси:** Прекрасно. Позвольте мне открыть это испытание для вас.
 
@@ -185,7 +222,7 @@
 
 **Эбоси:** Пожалуйста, снимите печать с Сияния света. Затем поднимитесь к Небесным вратам, и вы попадёте на место проведения испытания.
 
-Сияние света?
+- **Путешественник:** Сияние света?
 
 **Эбоси:** Ночью видно три столба света, бьющие из купола. Они указывают на Сияние света.
 
@@ -196,6 +233,10 @@
 **Эбоси:** Все дзибасири в зоне испытаний - чудаки. Если вы попадёте туда не через телепорт, они не будут с вами вежливо общаться.
 
 **Эбоси:** Я останусь тут и буду надеяться, что вы преодолеете все препятствия и вернётесь со славой.
+
+#### Завершите испытание
+
+#### Завершите испытание
 
 #### Завершите испытание
 
@@ -215,15 +256,9 @@
 
 **Эбоси:** Что вы хотите узнать?
 
+##### Вариант ответа 1
+
 - **Путешественник:** О вишапах глубин...
-
-- **Путешественник:** О Ватацуми Омиками...
-
-- **Путешественник:** Каков был миропорядок до появления солнца и луны?
-
-- **Путешественник:** О Дайнити Микоси...
-
-- **Путешественник:** У меня больше нет вопросов.
 
 **Эбоси:** Они первобытные элементальные существа, не покорённые и не сломленные силой, пришедшей с небес, благодаря тому, что живут глубоко под водой.
 
@@ -235,6 +270,10 @@
 
 **Эбоси:** Только используя жизненную силу Ватацуми Омиками, чтобы пробудить его второго слугу, мы смогли преобразовать эту дикую, яростную стихийную силу.
 
+##### Вариант ответа 2
+
+- **Путешественник:** О Ватацуми Омиками...
+
 **Эбоси:** Ватацуми Омиками по воле рока попал в это место, где не правят силы небес.
 
 **Эбоси:** Несомненно, для нас, жителей Бякуякоку, это обернулось удачей. Мы многим ему обязаны.
@@ -242,6 +281,10 @@
 **Эбоси:** К сожалению, общаясь с нами, Ватацуми Омиками постиг истину, предшествовавшую его появлению. И небеса подтолкнули его принести себя в жертву.
 
 **Эбоси:** Правда, стоявшая за этой жертвой, должна была остаться нераскрытой. Только так народ Бякуякоку мог жить под властью Семерых.
+
+##### Вариант ответа 3
+
+- **Путешественник:** Каков был миропорядок до появления солнца и луны?
 
 **Эбоси:** До того как Бякуякоку погрузилась в пучину вод, весь мир объединяла единая культура.
 
@@ -251,11 +294,21 @@
 
 **Эбоси:** Через много-много лет запрет небес ослаб. Так Ватацуми Омиками удалось попасть сюда.
 
+##### Вариант ответа 4
+
+- **Путешественник:** О Дайнити Микоси...
+
 **Эбоси:** Дайнити Микоси создан мудрецом Абраксом и освещает даже самые тёмные глубины.
 
 **Эбоси:** Кроме того, у него есть множество других функций.
 
 **Эбоси:** Это удивительное устройство, обладающее великой мощью.
+
+##### Вариант ответа 5
+
+##### Общее продолжение
+
+- **Путешественник:** У меня больше нет вопросов.
 
 **Эбоси:** Хорошо. Ещё раз прошу, сохраните в секрете всё, что вы видели здесь, в Энканомии.
 
@@ -264,6 +317,10 @@
 ### Yachimatahiko's Trial
 
 Accepting the trial, you prepare to go to The Narrows to search for The Emanant Skylight
+
+#### Go to The Emanant Skylight
+
+#### Investigate the water in the pool during Evernight
 
 #### Talk to the afterimage in front of the seal
 
@@ -275,15 +332,19 @@ Accepting the trial, you prepare to go to The Narrows to search for The Emanant 
 
 **Uda:** I will await your completion of the challenge at the Tower of the Three Realms above.
 
+**Uda:** I am Uda of the Jibashiri. Unrelated people may not enter.
+
+#### Release all the Flames of the High Gate
+
+#### Release all the Flames of the High Gate
+
+#### Release all the Flames of the High Gate
+
 #### Release all the Flames of the High Gate
 
 **Uda:** Go forth, hero of Sangonomiya, and take on the challenge!
 
 **Uda:** Return all the Flames of the High Gate to their places.
-
-#### Release all the Flames of the High Gate
-
-**Uda:** I am Uda of the Jibashiri. Unrelated people may not enter.
 
 #### Talk to Uda
 
@@ -299,6 +360,10 @@ Accepting the trial, you prepare to go to The Narrows to search for The Emanant 
 
 Accepting the trial, you prepare to go to the Evernight Temple to search for The Emanant Skylight
 
+#### Go to The Emanant Skylight
+
+#### Investigate the water in the pool during Evernight
+
 #### Talk to the afterimage in front of the seal
 
 **Eki:** I am Eki of the Jibashiri. Hero of Sangonomiya, I acknowledge that you are worthy to take on this challenge.
@@ -307,15 +372,19 @@ Accepting the trial, you prepare to go to the Evernight Temple to search for The
 
 **Eki:** The battlefield is ever-changing. Only by keeping your eyes and ears wide open at all times may you grasp the situation and master all these variables.
 
+**Eki:** I am Eki of the Jibashiri. If you are here on unimportant affairs, depart from this place.
+
+#### Release all the Flames of the High Gate
+
+#### Release all the Flames of the High Gate
+
+#### Release all the Flames of the High Gate
+
 #### Release all the Flames of the High Gate
 
 **Eki:** Have you completed the challenge, hero of Sangonomiya?
 
 **Eki:** Use your insight and find all the Flames of the High Gate!
-
-#### Release all the Flames of the High Gate
-
-**Eki:** I am Eki of the Jibashiri. If you are here on unimportant affairs, depart from this place.
 
 #### Talk to Eki
 
@@ -331,6 +400,10 @@ Accepting the trial, you prepare to go to the Evernight Temple to search for The
 
 Accepting the trial, you prepare to go to the Serpent's Heart to search for The Emanant Skylight
 
+#### Go to The Emanant Skylight
+
+#### Investigate the water in the pool during Evernight
+
 #### Talk to the afterimage in front of the seal
 
 **Daimon:** I am Daimon of the Jibashiri. Hero of Sangonomiya, I acknowledge that you are worthy to take on this challenge.
@@ -343,15 +416,19 @@ Accepting the trial, you prepare to go to the Serpent's Heart to search for The 
 
 **Daimon:** I will await your completion of the challenge at the Tower of the Three Realms above.
 
+**Uda:** I am Daimon of the Jibashiri. I know not how you entered this place, but please leave.
+
+#### Release all the Flames of the High Gate
+
+#### Release all the Flames of the High Gate
+
+#### Release all the Flames of the High Gate
+
 #### Release all the Flames of the High Gate
 
 **Daimon:** Have you completed the challenge, hero of Sangonomiya?
 
 **Daimon:** To pursue true valor, use all the means at your disposal to defeat the foes before you.
-
-#### Release all the Flames of the High Gate
-
-**Uda:** I am Daimon of the Jibashiri. I know not how you entered this place, but please leave.
 
 #### Talk to Daimon
 
@@ -363,14 +440,13 @@ Accepting the trial, you prepare to go to the Serpent's Heart to search for The 
 
 Having heard Eboshi's introduction, you decide that it should be alright to head to the three corners of Enkanomiya to take part in the trials.
 
-
 **Eboshi:** That I have appeared before you must mean that the Bloodbranch Coral is in Watatsumi's hands. And a most comforting thought that is.
 
 **Eboshi:** My name is Erebos. In the Inazuman tongue, that would be Eboshi. I am an auxiliary of Sangonomiya, one of the shrine maidens of Enkanomiya.
 
 **Eboshi:** You must be the hero who obtained the coral, I suppose?
 
-That would be me.
+- **Traveler:** That would be me.
 
 **Eboshi:** My apologies, but that which I shall shortly speak of is a most complicated matter. In truth, I do not know where to begin.
 
@@ -386,9 +462,15 @@ That would be me.
 
 **Eboshi:** ...This, of course, being mostly a consequence of our ancestors' lack of sunlight in the depths of Enkanomiya...
 
+##### Response branch 1
+
 - **Traveler:** Uh, could we get to the point?
 
+##### Response branch 2
+
 - **Traveler:** This feels like old news. Could we get to the point?
+
+##### Shared continuation
 
 **Eboshi:** Ah, sorry. During the process of establishing foreign relations, I would give guided tours to visitors in my role as a Sangonomiya auxiliary, so I just...
 
@@ -406,9 +488,15 @@ That would be me.
 
 **Eboshi:** Please accept this challenge.
 
+##### Response branch 1
+
 - **Traveler:** I accept your challenge.
 
+##### Response branch 2
+
 - **Traveler:** Oh, secrets. I like secrets.
+
+##### Shared continuation
 
 **Eboshi:** That is well. In that case, allow me to open that path for you.
 
@@ -424,7 +512,7 @@ That would be me.
 
 **Eboshi:** Release the seal on The Emanant Skylight. Then, you may ascend to the Gate of Heaven and access the site of the trial.
 
-The Emanant Skylight?
+- **Traveler:** The Emanant Skylight?
 
 **Eboshi:** At night, you can see three pillars of light that descend from the dome above. These pillars point unto The Emanant Skylight.
 
@@ -435,6 +523,10 @@ The Emanant Skylight?
 **Eboshi:** Whatever the case may be. All the Jibashiri at the trial area are weirdos. If you don't pass through the teleporter to get there, they won't speak gently to you.
 
 **Eboshi:** Either way, I can only stay here and hope that you will conquer all the obstacles set before you, and that you will return crowned in recognition.
+
+#### Complete the challenge
+
+#### Complete the challenge
 
 #### Complete the challenge
 
@@ -454,15 +546,9 @@ The Emanant Skylight?
 
 **Eboshi:** What else do you wish to know?
 
+##### Response branch 1
+
 - **Traveler:** Tell me about the Bathysmal Vishaps...
-
-- **Traveler:** Tell me about Watatsumi Omikami...
-
-- **Traveler:** So, what were things like before the sun and moon?
-
-- **Traveler:** Tell me about the Dainichi Mikoshi.
-
-- **Traveler:** I've got nothing else to ask.
 
 **Eboshi:** They are primordial elemental beings, unbent and unbowed by the power that came from the heavens owing to their living deep underwater.
 
@@ -474,6 +560,10 @@ The Emanant Skylight?
 
 **Eboshi:** Only by using Watatsumi Omikami's life force to awaken its second servant could we convert this raw, raging elemental power.
 
+##### Response branch 2
+
+- **Traveler:** Tell me about Watatsumi Omikami...
+
 **Eboshi:** Watatsumi Omikami, due to ill-fortune, fell into this place, beyond the jurisdiction of the heavenly order.
 
 **Eboshi:** This was undoubtedly to the good fortune of us, the people of Byakuyakoku. It has done a great many things for us.
@@ -481,6 +571,10 @@ The Emanant Skylight?
 **Eboshi:** Unfortunately, by making contact with us, it also grasped a truth that came before its own existence. Thus, it was forced by heaven to sacrifice itself.
 
 **Eboshi:** The truth behind this sacrifice had to remain unknown to all. Only thus could the people of Byakuyakoku be allowed to live under the rule of The Seven.
+
+##### Response branch 3
+
+- **Traveler:** So, what were things like before the sun and moon?
 
 **Eboshi:** Before Byakuyakoku fell into the deep sea, the whole world had a single unified culture.
 
@@ -490,11 +584,21 @@ The Emanant Skylight?
 
 **Eboshi:** Much, much later, heaven's powers of prohibition would gradually weaken. Thus did Watatsumi Omikami manage to fall into this place.
 
+##### Response branch 4
+
+- **Traveler:** Tell me about the Dainichi Mikoshi.
+
 **Eboshi:** The Dainichi Mikoshi was constructed by the Sage Abrax. It has the power to bring light to the dark depths.
 
 **Eboshi:** It has quite a few other functions, to boot.
 
 **Eboshi:** All in all, it is a very powerful device.
+
+##### Response branch 5
+
+##### Shared continuation
+
+- **Traveler:** I've got nothing else to ask.
 
 **Eboshi:** Fair enough. Again, please remember to keep all that you have seen here in Enkanomiya an eternal secret.
 
@@ -503,6 +607,10 @@ The Emanant Skylight?
 ### 八衢彦之试炼
 
 你接受了试炼，准备前往狭间之街寻找「天光流泻之处」…
+
+#### 前往「天光流泻之处」
+
+#### 在「常夜」时调查池水
 
 #### 和封印前的残魂对话
 
@@ -514,15 +622,19 @@ The Emanant Skylight?
 
 **宇陀:** 我将在上方三界塔处等候你完成挑战。
 
+**宇陀:** 我乃末代地走官·宇陀。无关人士请回。
+
+#### 解放所有「高门之火」
+
+#### 解放所有「高门之火」
+
+#### 解放所有「高门之火」
+
 #### 解放所有「高门之火」
 
 **宇陀:** 珊瑚宫之勇者, 前去挑战吧。
 
 **宇陀:** 让所有的「高门之火」归位吧。
-
-#### 解放所有「高门之火」
-
-**宇陀:** 我乃末代地走官·宇陀。无关人士请回。
 
 #### 和宇陀对话
 
@@ -538,6 +650,10 @@ The Emanant Skylight?
 
 你接受了试炼，准备前往常夜灵庙寻找「天光流泻之处」…
 
+#### 前往「天光流泻之处」
+
+#### 在「常夜」时调查池水
+
 #### 和封印前的残魂对话
 
 **江木:** 我乃末代地走官·江木。珊瑚宫之勇者，我认可你挑战的荣誉。
@@ -546,15 +662,19 @@ The Emanant Skylight?
 
 **江木:** 战场瞬息万变。唯有耳观八方、眼观六路才能把握情况，把握一切变数。
 
+**江木:** 我乃末代地走官·江木。闲杂人等速速退散。
+
+#### 解放所有「高门之火」
+
+#### 解放所有「高门之火」
+
+#### 解放所有「高门之火」
+
 #### 解放所有「高门之火」
 
 **江木:** 珊瑚宫之勇者，已经完成了挑战吗？
 
 **江木:** 发挥你的洞察力，找到所有的「高门之火」吧！
-
-#### 解放所有「高门之火」
-
-**江木:** 我乃末代地走官·江木。闲杂人等速速退散。
 
 #### 和江木对话
 
@@ -570,6 +690,10 @@ The Emanant Skylight?
 
 你接受了试炼，准备前往蛇心之地寻找「天光流泻之处」…
 
+#### 前往「天光流泻之处」
+
+#### 在「常夜」时调查池水
+
 #### 和封印前的残魂对话
 
 **大门:** 我乃末代地走官·大门。珊瑚宫之勇者，我认可你挑战的荣誉。
@@ -582,15 +706,19 @@ The Emanant Skylight?
 
 **大门:** 我将在上方三界塔处等候你完成挑战。
 
+**宇陀:** 我乃末代地走官·大门。虽然不知道你怎么来的，请回吧。
+
+#### 解放所有「高门之火」
+
+#### 解放所有「高门之火」
+
+#### 解放所有「高门之火」
+
 #### 解放所有「高门之火」
 
 **大门:** 珊瑚宫之勇者，已经完成了挑战吗？
 
 **大门:** 追求勇武，那就用尽一切手段打倒所有挡在面前的敌人就可以了。
-
-#### 解放所有「高门之火」
-
-**宇陀:** 我乃末代地走官·大门。虽然不知道你怎么来的，请回吧。
 
 #### 和大门对话
 
@@ -602,14 +730,13 @@ The Emanant Skylight?
 
 听闻了乌帽子巫女的介绍，你觉得前往渊下宫边陲三角进行试炼也无不可。
 
-
 **乌帽子:** 此身既然已经显现，那血枝珊瑚应该已入海祇之手。让人欣慰。
 
 **乌帽子:** 我名厄伯斯，稻妻式名字是乌帽子。乃是珊瑚宫之辅弼，渊下宫巫女中的一位。
 
 **乌帽子:** 您应该就是取得珊瑚枝的勇者吧？
 
-是我没错。
+- **旅行者:** 是我没错。
 
 **乌帽子:** 实在抱歉，我要讲述之事可能过于复杂，不知应该如何说起。
 
@@ -625,9 +752,15 @@ The Emanant Skylight?
 
 **乌帽子:** 这种说法的来由呢，是因为我们和祖先都在渊下宫生活得不到日照…
 
+##### 对话分支 1
+
 - **旅行者:** 说重点。
 
+##### 对话分支 2
+
 - **旅行者:** 怎么又是这话。说重点。
+
+##### 共同后续
 
 **乌帽子:** 啊，抱歉。以前日子与诸国外交，我作为珊瑚宫之辅弼，经常担任向导。一不小心就…
 
@@ -645,9 +778,15 @@ The Emanant Skylight?
 
 **乌帽子:** 请您接受这个挑战吧。
 
+##### 对话分支 1
+
 - **旅行者:** 我接受挑战。
 
+##### 对话分支 2
+
 - **旅行者:** 我对秘密很感兴趣。
+
+##### 共同后续
 
 **乌帽子:** 如此甚好，那么我来为你启动追加的试炼。
 
@@ -663,7 +802,7 @@ The Emanant Skylight?
 
 **乌帽子:** 请你解开天光流泻之处的封印，升入天之门扉到达试炼之处。
 
-天光流泻之处?
+- **旅行者:** 天光流泻之处?
 
 **乌帽子:** 在夜晚可以看到自穹顶落下的三道光柱，这些光柱指向了天光流泻之处。
 
@@ -674,6 +813,10 @@ The Emanant Skylight?
 **乌帽子:** 总之试炼之处的地走官们都是怪人。没有通过传送门过去的话，他们是不会和气说话的。
 
 **乌帽子:** 我唯有在这里恭候你踏破所有阻碍，取得所有认可之后归来。
+
+#### 完成挑战
+
+#### 完成挑战
 
 #### 完成挑战
 
@@ -693,15 +836,9 @@ The Emanant Skylight?
 
 **乌帽子:** 你还有什么想知道的呢?
 
+##### 对话分支 1
+
 - **旅行者:** 关于深海龙蜥…
-
-- **旅行者:** 关于海祇大御神…
-
-- **旅行者:** 关于日月之前的事…
-
-- **旅行者:** 关于大日御舆…
-
-- **旅行者:** 没有其他的事了。
 
 **乌帽子:** 深海龙蜥是原始的元素生物，因为久居深海，所以并没有被天上降临的力量降伏。
 
@@ -713,6 +850,10 @@ The Emanant Skylight?
 
 **乌帽子:** 我们唯有使用海祇大御神生命力，唤醒它的第二眷属，将荒蛮的元素力转化掉。
 
+##### 对话分支 2
+
+- **旅行者:** 关于海祇大御神…
+
 **乌帽子:** 海祇大御神因为它的厄运，落入了「天之秩序」管辖之外的此处。
 
 **乌帽子:** 这件事毫无疑问是我等白夜国民的好运。它真的为了我们做了许多事情。
@@ -720,6 +861,10 @@ The Emanant Skylight?
 **乌帽子:** 只不过也因为接触了我们，触碰了甚至在它诞生之前的真相。于是它被天京敕令，必须舍身成仁。
 
 **乌帽子:** 此番献头，必须做到无人怀疑。唯有此法，白夜之民才能被允许活在新的「七之秩序」之下。
+
+##### 对话分支 3
+
+- **旅行者:** 关于日月之前的事…
 
 **乌帽子:** 白夜国落入海渊之前，确实整个世界都在统一的文化之下。
 
@@ -729,10 +874,20 @@ The Emanant Skylight?
 
 **乌帽子:** 直到很久以后，天之禁令的力量逐渐减弱了。海祇大御神掉入了这里。
 
+##### 对话分支 4
+
+- **旅行者:** 关于大日御舆…
+
 **乌帽子:** 大日御舆是贤人·阿布拉克设计的建筑。它拥有为海渊之下带来光的力量。
 
 **乌帽子:** 除此以外，还集成了很多功能。
 
 **乌帽子:** 总之很厉害。
+
+##### 对话分支 5
+
+##### 共同后续
+
+- **旅行者:** 没有其他的事了。
 
 **乌帽子:** 那么好的。请你务必记住，渊下宫所遇之事，请当成永远的秘密吧。

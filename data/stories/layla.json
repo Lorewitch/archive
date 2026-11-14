@@ -144,5 +144,932 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "*зевает* ...Привет, я Лайла, студентка Ртавахиста... Хм? Прости, я плохо спала сегодня и сейчас немного не в себе. Говоришь, хочешь взять меня в команду? Нет-нет, я не то, что бы не хочу, просто боюсь, что мой распорядок дня тебе не подойдёт... Но э-э... Рада присоединиться к команде!",
+        "en": "*yawn* ...Hi, I'm Layla, a Rtawahist student... Hmm? Sorry, I didn't sleep well last night, so I'm a bit out of it today — what did you say, again? ...You wanna team up with me? No, no, it's not that I don't want to, I'm just not sure my crazy sleep schedule will really work for you... But uh, I guess... I look forward to working with you!",
+        "zh": "哈…你好，我是梨多梵谛学院的在读学生莱依拉。…嗯？对不起，昨天没睡好我现在精神有点差，你刚才是在说「想和我组队」吗？\n没有没有，我不是不愿意，只是怕你不习惯我的作息方式…那、那个…请多关照！"
+      },
+      "source_id": 74000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Взор",
+        "en": "Chat: Gaze",
+        "zh": "闲聊·注视"
+      },
+      "text": {
+        "ru": "Даже когда мы не смотрим на звёзды, они всегда там, следят за нами.",
+        "en": "Even when we're not looking up at the stars, they're always there, watching over us.",
+        "zh": "就算我们不抬头仰望，星空，也永远注视着我们。"
+      },
+      "source_id": 74001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Лунатизм",
+        "en": "Chat: Sleepwalking",
+        "zh": "闲聊·梦游"
+      },
+      "text": {
+        "ru": "Ноги так устали... Эх, наверное, я опять ходила во сне.",
+        "en": "My legs are so sore... *sigh* Guess I must have been sleepwalking last night... again.",
+        "zh": "腿好酸…唉，大概昨天晚上又梦游了吧。"
+      },
+      "source_id": 74002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Горе",
+        "en": "Chat: Woe Is Me",
+        "zh": "闲聊·哀叹"
+      },
+      "text": {
+        "ru": "...Почему я должна писать так много бумаг? Почему?",
+        "en": "*groan* ...Why do I have to write so many papers, whyyy...",
+        "zh": "…为什么报告和论文永远写不完？为什么？"
+      },
+      "source_id": 74003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Ужасная погода. Если не увижу сегодня небо... Эх, домашнее задание по звёздной картографии больше откладывать нельзя.",
+        "en": "Oh, the weather's terrible. Shoot, if I can't see the sky tonight... Ugh, I really can't put off my star mapping homework any longer...",
+        "zh": "天气好差，今晚没法观测星空的话…唉，我的星图课作业真的不能再拖了啊…"
+      },
+      "source_id": 74004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Снег сверкает. Прямо как звёзды в ночном небе.",
+        "en": "The snow is sparkling. Just like the stars in the night sky.",
+        "zh": "雪地看起来亮晶晶的，很像天上的星星。"
+      },
+      "source_id": 74005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Солнце светит... Спать хочется... Дай-ка я скорее подушку возьму, пока сон не пропал... Уже два дня, два дня не...",
+        "en": "Mm, this sun's making me so... *yawn* sleepy... Mkay, lemme grab a pillow and rest my eyes before this wears off... It's been two, two days since I last, last... Zzz...",
+        "zh": "太阳晒着…好困…对，保持这个感觉，赶快找个枕头睡一觉…我已经两天、两天没有…"
+      },
+      "source_id": 74006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Днём жара, ночью холод. Я... Я так не могу...",
+        "en": "Scorching hot days and freezing cold nights... I—I don't think I'm gonna make it...",
+        "zh": "白天晒，晚上冷，我、我要不行了。"
+      },
+      "source_id": 74007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Выспался? Если нет, то ещё поспи... Я? Я... привыкла... / Выспалась? Если нет, то ещё поспи... Я? Я... привыкла...",
+        "en": "Did you get enough sleep? If you're still tired, you should go back to sleep for a bit... Me? *sigh* I'm... used to it...",
+        "zh": "你睡得饱吗？要是还困就回去再睡会儿吧…我？我…习惯了…"
+      },
+      "source_id": 74008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Я посередине вычисления звёздных орбит, так что обедай без меня... Стой, этот угол не сходится... Нет-нет-нет... В какой момент я ошиблась?",
+        "en": "I'm in the middle of a stellar kinematics calculation right now, just go to lunch without me... Wait, th—this angle isn't right... No, no, no... Shoot, how far in was I when this mistake crept in...",
+        "zh": "我在计算星轨呢，刚算到一半，午饭你就先吃好了…这里的角度不太对劲吧…不、不会吧…我是从哪儿开始算错了呢？"
+      },
+      "source_id": 74009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Надо сегодня пораньше лечь спать. Надеюсь, получится уснуть... Великое божество мудрости, умоляю защитить мой сон. Ладно, закрываю глаза.",
+        "en": "I'm going to turn in early tonight, hope I can actually get to sleep... Dear Mighty God of Wisdom, please bless my slumber, I pray. Okay. Closing my eyes now.",
+        "zh": "今晚我要早早躺到床上去，争取早点睡着。伟大的智慧之神啊，求您庇护我的睡眠。好，我要闭上眼睛。"
+      },
+      "source_id": 74010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "...Так, посмотрим, что её поставило в тупик в этот раз. Хм... даже не прикасалась к третьему году звёздных таблиц, а над ними стоит поработать. И пару звёздных карт для промежуточного отчёта надо дорисовать... Ладно, с этого и начнём. А? А ты что встал? Сейчас спать надо. Я? Лунатничаю, конечно. / ...Так, посмотрим, что её поставило в тупик в этот раз. Хм... даже не прикасалась к третьему году звёздных таблиц, а над ними стоит поработать. И пару звёздных карт для промежуточного отчёта надо дорисовать... Ладно, с этого и начнём. А? А ты что встала? Сейчас спать надо. Я? Лунатничаю, конечно.",
+        "en": "*yawn* ...Right, let's see what's stumped Daylight Layla this time. Hmm... she hasn't touched the third year of old Starlogs yet, they definitely need working through. And there's a few charts to be appended to the mid-term report, which... yep, she hasn't even started drawing up yet. Alright, time to get to work. ...Huh? What're you doing up? You should be asleep right now. Me? Sleepwalking, of course.",
+        "zh": "…哈，让我看看她又被什么难住了。嗯…要整理三年份的旧星表，中期报告的附录还缺几张星图没画…好吧，从这份开始。\n嗯，你怎么来了？现在可是最重要的睡眠时间。我？我当然是在梦游了。"
+      },
+      "source_id": 74011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Лайле: Теоретическая астрология",
+        "en": "About Layla: Theoretical Astrology",
+        "zh": "关于莱依拉自己·理论星相学"
+      },
+      "text": {
+        "ru": "Согласно моему учебнику, «использование теоретической астрологии для решения повседневных проблем не должно быть нашей целью». Должно или не должно, но причина, по которой никто этого не делает, в том, что оно просто того не стоит. Для точного предсказания нужно использовать несколько звёздных глобусов, проверить звёздные карты по меньшей мере за год. И всё это, чтобы сказать, поднимется ли завтра цена на специи или нет... Как ни крути, оно того не стоит...",
+        "en": "According to my textbook, \"Using theoretical astrology to solve specific problems in our daily lives should not be our primary goal.\" But whether we should or not, the real reason nobody does it is that... well, it's just... it's not worth the effort. When we do a prediction, we usually have to use multiple celestial globes and consult at least one whole year's worth of Star Charts to get any... precise answers. To go through all that just to find out whether the price of spices will go up tomorrow... I mean, it's just not worth it...",
+        "zh": "按照教科书上的说法：「利用理论星相学知识解决具体生活中的麻烦，这不是我们该关心的问题。」其实我觉得还有一个重要原因…就是…嗯，成本太高。我们测算的时候，一般会动用好多台星象仪，至少要查阅一年份的星图，才好给出一套…严谨的答案。但如果是为了算明天香料会不会涨价，怎么想都不太划算吧…"
+      },
+      "source_id": 74012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Лайле: Причины",
+        "en": "About Layla: Reasoning",
+        "zh": "关于莱依拉自己·理由"
+      },
+      "text": {
+        "ru": "Раз уж я нашла что-то, что мне нравится и что у меня получается, то лучше этого и придерживаться. Пусть путь труден, пусть конкуренция жестока, пусть нет гарантий, что я выпущусь. Пусть, если я не выпущусь, то мне придётся вернуть все стипендии... Эх, может, лучше домой вернуться.",
+        "en": "Since I found something I like and that I'm good at, I think I should try and stick with it. Even if the journey is difficult, even if the competition is fierce, even if there's no guarantee I'll graduate, and even if I have to return all my scholarships if I fail my final exams... Huh, maybe I should just drop out and go back home.",
+        "zh": "既然有了自己喜欢又能做得好的事，就得坚持下去，哪怕这条道路特别艰辛，哪怕一路上竞争极其激烈，哪怕不一定能顺利毕业，哪怕没能顺利毕业的话，就要把所有的奖学金还回去…啊，要不我还是回家吧。"
+      },
+      "source_id": 74013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Дружба",
+        "en": "About Us: Companionship",
+        "zh": "关于我们·陪伴"
+      },
+      "text": {
+        "ru": "Да, я тоже не хочу по ночам догонять учебную программу, но она вечно ничего не успевает. Ничего не поделать, придётся мне ей помочь... Составишь компанию?",
+        "en": "I agree. I don't like having to pull an all-nighter to catch up on schoolwork either, but they just keep piling on the assignments, don't they? That's how things go here, so obviously I have to help her out... Wanna keep me company?",
+        "zh": "嗯哼，我也不想熬夜补课题进度，可谁叫她总有那么多做不完的事。没办法，我当然得帮帮她咯。…你想陪我一起吗？"
+      },
+      "source_id": 74014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Путешествия",
+        "en": "About Us: Traveling the World",
+        "zh": "关于我们·漫游世界"
+      },
+      "text": {
+        "ru": "Если после выпуска не останусь в Академии, то я хотела бы путешествовать с тобой по миру. Как думаешь?",
+        "en": "If I don't end up staying at the Akademiya after graduation, I think I'll come travel the world with you. What do you think?",
+        "zh": "如果毕业之后，我没有留在教令院工作，就和你一起去漫游世界吧。你觉得怎么样？"
+      },
+      "source_id": 74015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "*зевает* ...Что это светится? Я вроде выключала свет перед сном... А, это Глаз Бога. Вот оно что... Нет, стой... Я его разве у изголовья положила?",
+        "en": "*yawn*... Where's that glowing coming from? I coulda sworn I turned the lights off before I fell asleep... Huh, it's just my Vision. No wonder... Wait, but... didn't I leave this on my nightstand?",
+        "zh": "哈…是什么在亮？我睡觉的时候忘了关灯吗…哦，是神之眼啊，我说呢…欸，不对，我睡觉之前…把它放在床头了吗？"
+      },
+      "source_id": 74016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Главный редактор нашего даршана хранит звёздные таблицы, содержащие судьбы всех живых существ. Несомненно, это вершина астрологического знания. Когда я первый раз их увидела, слова сказать не могла от страха! А? Тебе интересно? Если просто посмотреть... Я помогу тебе подать заявку. Наверное, должны разрешить... Наверное...",
+        "en": "The chief editor of our Darshan keeps Starlogs that show the fates of all living beings. They are, without a shadow of a doubt, the apex of astronomical knowledge. The first time I saw one, I was scared speechless! Huh? Are you interested? If you just want to take a quick look... lemme put in an application for you, I think it should be fine... I think...?",
+        "zh": "我们学院主编的星表汇聚了所有生灵的命运，毫无疑问是占星知识的顶峰，第一次看到的时候我整个人都被吓得说不出话了！欸？你感兴趣吗？只是简单看看的话…我帮你提交申请吧，应该能被批准，应该…"
+      },
+      "source_id": 74017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Бывают растения, которые ловят жуков? Мне нужна их помощь. Я и так плохо засыпаю, а теперь у меня в комнате ещё какой-то жук маленький летает. Всё жужжит и жужжит. Я искала-искала, но так его и не нашла... Эх...",
+        "en": "Are there any plants that can catch bugs, because if so, I need their help. I don't fall asleep easily to begin with, but now there's this little flying bug somewhere in my room... The buzzing is so loud, and it never stops... but I—I've tried, but I just can't find it... *groan*",
+        "zh": "有没有什么能捕虫的植物啊，快救救我吧。晚上本来就睡不着，房间里还有小飞虫，一直嗡嗡响个不停，但我、我怎么找都找不到它在哪里…呜呜…"
+      },
+      "source_id": 74018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Моне...",
+        "en": "About Mona",
+        "zh": "关于莫娜…"
+      },
+      "text": {
+        "ru": "Астрологист Мона Мегистус... Среди учёных Ртавахиста её астрологическая колонка в «Паровой птице» хорошо известна. Её статьи очень узкоспециальны, но нравятся даже людям вне науки. Этого очень непросто достичь... А? Её имя у меня от зубов отскакивает? Ну просто... я очень уважаю... потрясающих людей.",
+        "en": "Mona Megistus, the Astrologist... Her astrology column in The Steambird is well-known among Rtawahist scholars. Her articles always cover super specialized topics, but can still be appreciated by non-academics. That's no easy feat... Huh? Her name seems to just roll off my tongue? Uh, that's just because... I have a lot of respect for... amazing people.",
+        "zh": "在明论派学者的小圈子里，阿斯托洛吉斯·莫娜·梅姬斯图斯发表在《蒸汽鸟报》上的星相学文章名气不小。那些文章专业性都很强，但却能被学者之外的群体喜欢，要做到这点还是挺不容易的…欸？我把她的名字念得很流利？因为…厉害的人…得多多尊敬。"
+      },
+      "source_id": 74019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "А, знаю о ком ты. Лиза Минчи, легендарный гений, который закончил Спантамад всего за два года. Мне бы её мозги... А? Ты её лично видел в Мондштадте? П-правда? Как она обычно учится? Какие книги читает? Какой работой занимается? С чего... С чего начать, чтобы стать как она? / А, знаю о ком ты. Лиза Минчи, легендарный гений, который закончил Спантамад всего за два года. Мне бы её мозги... А? Ты её лично видела в Мондштадте? П-правда? Как она обычно учится? Какие книги читает? Какой работой занимается? С чего... С чего начать, чтобы стать как она?",
+        "en": "Oh, I know who you're talking about. Lisa Minci — the legendary Spantamad prodigy who graduated in just two years. If only I had her brains... Huh? You met her in person when you were in Mondstadt? R—Really? So... what's her studying process like? What books does she read, and what kind of work does she do? Where... Where should I start if I want to learn from her?",
+        "zh": "啊，我知道你在说谁了。丽莎·敏兹，传说中只用了两年就学成毕业的素论派天才，要是我也能有这样的头脑…你在蒙德的时候见过她本人？真、真的吗？她平时都是怎么学习的？看些什么书，做些什么工作？我…我该从哪里向她学起？"
+      },
+      "source_id": 74020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Дори...",
+        "en": "About Dori",
+        "zh": "关于多莉…"
+      },
+      "text": {
+        "ru": "А, До-ори... Я как-то, скрипя зубами, купила у неё кое-что. Она такая радостная была, когда я оплачивала; подумала, наверное, что я какая-то богачка - постоянно присылала мне рекламу товаров. Вот уж великое недоразумение... А я не только в стипендию свою залезла, но и большую часть года потом на одних овощах сидела и книги только дождавшись скидок покупала...",
+        "en": "Oh... D—Dori... ahem... I took the plunge and bought something from her once. She looked euphoric as I was settling the bill — I think she assumed I was some sort of mega-rich person. Kept relentlessly sending product ads to me in the mail afterwards. Ugh... biggest mistake of my life! I paid such a huge price for it... 'cause not only did I spend all of my scholarship money in one go, but for most of the next year, I had to survive mainly on cheap vegetables, and I couldn't buy textbooks unless they were on sale...",
+        "zh": "多、莉、吗…我咬着牙、攥着拳头在她那里买过一次东西，她看我结账很痛快，好像误以为我是什么有钱人，后来还一直寄商品宣传单给我，唔…真是天大的误会！那次购物的代价…不仅把我的奖学金垫进去了，接下来的大半年里，我吃饭都不敢多要肉，买书还得等打折…"
+      },
+      "source_id": 74021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Сайно...",
+        "en": "About Cyno",
+        "zh": "关于赛诺…"
+      },
+      "text": {
+        "ru": "Генерал махаматра хорошо играет в «Священный призыв семерых»? Мм, интересно... Если будет возможность, хотелось бы попробовать сыграть с ним. В карточные игры типа «Священного призыва» проще играть, если владеешь техниками счёта, так что я... не знаю... может, и не проиграю ему.",
+        "en": "The General Mahamatra is really good at Genius Invokation TCG? Ooh, I wonder if... I mean, if I ever got the chance, maybe I could play a game with him. Card games like Genius Invokation TCG are always easier when you're good at mental math, so actually, I... I dunno, but... I might not necessarily lose to him.",
+        "zh": "「大风纪官」大人很擅长「七圣召唤」吗…啊我是在想，有机会的话，说不定可以和他打一局。像「七圣召唤」这种牌类游戏，熟练掌握运算技巧的人玩起来总是简单一点，我反而…不一定…或许不会输给他。"
+      },
+      "source_id": 74022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Кандакии...",
+        "en": "About Candace",
+        "zh": "关于坎蒂丝…"
+      },
+      "text": {
+        "ru": "Я видела кого-то похожего на описание, когда проснулась после первого приступа лунатизма. Так это была Кандакия? Буду знать. Я хорошо помню, как тогда проснулась... Все доклады и статьи были готовы. Тогда я почувствовала... будто после ежедневного взывания к звёздам они наконец-то меня услышали и отправили свою посланницу, чтобы мне помочь... Я так была тронута!",
+        "en": "...Huh, I saw someone who matches that description when I woke up after sleepwalking for the first time. \"Candace,\" huh? Now I know. I still remember the moment I woke up... All of my reports and essays were done. At the time, it felt like... like after pleading to the stars for days and days, now they'd finally heard me, and sent a messenger to help me... I felt so touched!",
+        "zh": "我第一次梦游醒来的时候，曾经见到过你描述的这个人，原来她叫坎蒂丝啊。我还记得自己醒来的那一刻…所有报告和文章都被完成了。当时的感觉就好像…好像我每天对着星空念叨，终于被星星听见了，它们派了一位使者来帮助我，呜呜…太感动了！"
+      },
+      "source_id": 74023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Об аль-Хайтаме...",
+        "en": "About Alhaitham",
+        "zh": "关于艾尔海森…"
+      },
+      "text": {
+        "ru": "Наверняка, тому, кто смог достигнуть позиции секретаря не надо волноваться, одобрят ли его проект, будет ли он успешным. А, нет. Если он секретарь, то ему и проекты не надо делать никакие. Везёт же...",
+        "en": "I bet someone who's good enough to get a job like Scribe never has to worry about whether their projects will get approved or be successful. Wait... Oh shoot, if he's a Scribe, he probably doesn't have to do any projects in the first place. So lucky...",
+        "zh": "职务达到书记官这种高度的人，应该就不用发愁能不能立项、能不能成功了吧。不对，既然都当了书记官，应该连项目都不用做了。真好啊…"
+      },
+      "source_id": 74024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Расскажи о малой властительнице Кусанали.",
+        "en": "About Lesser Lord Kusanali",
+        "zh": "关于小吉祥草王…"
+      },
+      "text": {
+        "ru": "Великое божество мудрости, в эти дни я ночи напролёт училась. Прошу, сделай так, чтобы я сдала экзамен! Умоляю, умоляю...",
+        "en": "Dear Mighty God of Wisdom, I've been studying late into the night for days on end, please let me pass this exam! Please, please... Zzz...",
+        "zh": "伟大的智慧之神，我最近每晚都在熬夜复习，考试就请让我通过吧！拜托了拜托了…"
+      },
+      "source_id": 74025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Фарузан...",
+        "en": "About Faruzan",
+        "zh": "关于珐露珊…"
+      },
+      "text": {
+        "ru": "Профессор Фарузан набрала студентов? В даршане Хараватат говорят, что у неё всегда трудности с заявками на финансирование своих проектов, так что и студентов сложно найти. Эх...",
+        "en": "Has Professor Faruzan managed to get any students? People from the Haravatat Darshan say that she always has difficulty getting funding for her projects, so it's hard for her to attract students, too. *sigh*...",
+        "zh": "珐露珊老师招到学生了吗？听知论派的人说，她的项目申请经费一直很难，招不到学生也很正常。唉…"
+      },
+      "source_id": 74026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Лайле I",
+        "en": "More About Layla: I",
+        "zh": "想要了解莱依拉·其一"
+      },
+      "text": {
+        "ru": "У меня нет природных талантов, да и сообразительностью я не отличаюсь... Я поступила в Академию только потому, что училась изо всех сил. Ой, извини... Некогда болтать сейчас. Сказала про Академию и вспомнила, что мне доклад об академическом прогрессе сдавать скоро... А прогресса-то и нет.",
+        "en": "I'm not naturally talented, nor am I a fast learner... I only got into the Akademiya by studying like crazy for the entrance exam... Oh shoot, I—I'm sorry, I can't chat right now. Mentioning the Akademiya reminds me that my academic progress report is due soon... and I still haven't got any progress to write about yet.",
+        "zh": "我算不上有天赋，领悟力也不太够…拼命读书通过考试这才进了教令院。对不起，我…我先不跟你闲聊了，一说到教令院我就想起来，我的课题进度报告…到现在为止还没有进度呢。"
+      },
+      "source_id": 74027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Лайле II",
+        "en": "More About Layla: II",
+        "zh": "想要了解莱依拉·其二"
+      },
+      "text": {
+        "ru": "Отношения с наставницей? Хм... Как бы сказать... А, не пойми неправильно, она мне очень помогает. Она даже дала мне рекомендацию, когда я поступила в школу. Каждый раз, когда я понимаю, что больше не справляюсь, она меня подбадривает... а потом задаёт ещё одну работу...",
+        "en": "My relationship with my adviser? Um... how should I put it... Oh, don't get me wrong, she's been good to me. She even gave me a recommendation when I started at the school. And every time I feel like I just can't go on, she's there to give me s—some much-needed encouragement... and then to assign me another essay right after...",
+        "zh": "我和导师的关系吗？嗯…怎么说呢…啊，你不要误会了，其实导师对我挺好的，我入学的时候还得到了她的推荐呢。每次我觉得自己要撑不住了，她都会鼓励我，然后顺便多要求一篇论文…"
+      },
+      "source_id": 74028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Лайле III",
+        "en": "More About Layla: III",
+        "zh": "想要了解莱依拉·其三"
+      },
+      "text": {
+        "ru": "Способнейшие люди со всего Сумеру стремятся в Академию, да ещё куча умных до ужаса иностранных студентов... Можешь себе представить, насколько высока конкуренция! Учиться вместе с такими людьми... Справлюсь ли я?",
+        "en": "Almost all of Sumeru's best and brightest have attended the Akademiya, and there are a ton of scarily intelligent international students, too... so you can imagine how competitive it is here! Studying alongside some of these people, sometimes it makes me wonder... am I really cut out for this?",
+        "zh": "整个须弥最有才能的人几乎都到教令院来了，而且这儿还有那么多聪明得让人发抖的外国学者，你想想，这里的竞争该有多大！和这些人一起学习…我真的够格吗？"
+      },
+      "source_id": 74029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Лайле IV",
+        "en": "More About Layla: IV",
+        "zh": "想要了解莱依拉·其四"
+      },
+      "text": {
+        "ru": "Тсс, потише... Не разбуди её - пусть поспит спокойно... Кого «её»? А, уставшую Лайлу, которая вечно беспокоится об уроках, конечно... Я кто? Хе-хе, я тоже Лайла.",
+        "en": "Shh, be quiet... Don't wake her up, just let her sleep peacefully. ...Who's \"her\"? Ah, well, a very weary Layla who's constantly stressed about her schoolwork, of course. ...And me? Hehe, I'm Layla too.",
+        "zh": "嘘，小声点，不要吵醒她，就让她安心睡上一觉吧。你问我嘴里的「她」是谁？哦，当然是每天为课业抓耳挠腮的莱依拉呀。那我是谁？呵呵，我也是莱依拉呀。"
+      },
+      "source_id": 74030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Лайле V",
+        "en": "More About Layla: V",
+        "zh": "想要了解莱依拉·其五"
+      },
+      "text": {
+        "ru": "Я слышала, она думает, что это благодаря «милости звёзд» все её недоделанные уроки волшебным образом оказываются законченными после сна. Она совсем не догадывается... Ты только ей не говори, ладно?",
+        "en": "I've heard people say she thinks a \"blessing from the stars\" is the reason why all of her outstanding schoolwork gets magically finished while she's asleep. Ah, she has absolutely no idea. ...Oh, but seriously, don't tell her, okay?",
+        "zh": "我听别人提过，她好像以为所有写不完的课业总能在一场梦之后自动完成，都是「星空的赐福」。她呀，完全搞错了哦。…不过，你可别告诉她哦。"
+      },
+      "source_id": 74031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Хобби Лайлы...",
+        "en": "Layla's Hobbies",
+        "zh": "莱依拉的爱好…"
+      },
+      "text": {
+        "ru": "Рисовать звёздные карты очень утомительно... Если бы мне это не нравилось, я бы, пожалуй, не справилась. То надо по линейке чертить, то расчёты делать, то положение звёзд прошлых лет смотреть... Раз - уже и день прошёл. Но глядя на законченную большую опрятную звёздную карту, меня наполняет чувство удовлетворения.",
+        "en": "Drawing Star Charts is really tiring work... I really don't think I'd be able to keep at it if it wasn't something I'm interested in. You have to use a ruler, then do some calculations on paper, then check past Starlogs... Before you know it, the whole day is gone. But then when I look at the finished product, a huge, neatly drawn, accurate map of the stars... it always gives me a huge sense of accomplishment.",
+        "zh": "画星图真的是件累人的事，如果不是因为喜欢，我恐怕也坚持不下来。一会儿要用尺、一会儿要拿纸算、一会儿要查历年的星象…不知不觉一天时间就过去了。但看着画得整整齐齐的巨大星图，总是很有成就感。"
+      },
+      "source_id": 74032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Беспокойство Лайлы...",
+        "en": "Layla's Troubles",
+        "zh": "莱依拉的烦恼…"
+      },
+      "text": {
+        "ru": "Я пока в Академию не поступила, нормально спала. Но как начала учёбу... Такой стресс постоянно... Я просто хочу спокойно проспать всю но-хо-хо-очь...",
+        "en": "I slept okay-ish before I came to the Akademiya, but since I started my studies... there's so much pressure... I just want to be able to sleep the whole night throo-hoo-hoough...",
+        "zh": "从前我还没进入教令院念书的时候，睡眠质量还算过得去。但自从在这里学习之后…唔，压力实在是太恐怖了…我真的很想每天安安稳稳一觉到天亮，呜呜…"
+      },
+      "source_id": 74033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Каждый раз перед сном я себе грею стакан молока и надеюсь, что хорошо посплю, надеюсь, что хорошо посплю, надеюсь, что хорошо посплю...",
+        "en": "Every night before I go to bed, I make myself a glass of warm milk, in the hope I'll sleep well tonight, hope I'll sleep well tonight, hope I'll sleep well tonight... Zzz...",
+        "zh": "每晚我躺上床之前，都会为自己热一杯牛奶喝，希望夜里能有个好觉，希望夜里能有个好觉，希望夜里能有个好觉。"
+      },
+      "source_id": 74034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Как-то мне рассказали, про загадочную торговку, которая продаёт очень эффективный «сонный мармелад». Я на него всю стипендию потратила и остальные деньги, что были... Он, конечно, эффективный - я спала как убитая. Но двести тысяч за коробочку... Это слишком дорого... Я ни за что не смогу себе это позволить, никогда-никогда. Даже если вторая коробка в подарок. Даже если две коробки в подарок... Хм... Тогда бы я подумала.",
+        "en": "Someone once told me about a mysterious merchant who was selling really effective Sleep Gummies. It cost all my scholarship money, plus all the other Mora I'd saved up, but I bought some. They worked great, and for a while I slept like a baby. But... they're 200 thousand Mora a box... I can't afford that... I—I can't let myself buy them ever again, nope, no way. Not even if they were buy one, get one free, or... well, buy one, get two free, hmm... actually... maybe I'd consider that.",
+        "zh": "有一次，我听人说，有个神奇商人在卖的「睡眠软糖」很有效。我花光了奖学金和攒下的零花钱试了试，确实有效，那阵子我也睡得很好。但一盒卖二十万摩拉…实在太贵了，我、我绝对不会再买了，买一送一也不行，买一送二的话…我就再考虑考虑。"
+      },
+      "source_id": 74035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Поразительно! Я так завидую, ты правда умеешь всё.",
+        "en": "This is amazing! I'm so jealous, you're good at everything.",
+        "zh": "好厉害，好羡慕，你还真是什么都会呀。"
+      },
+      "source_id": 74036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Мм... Вкусно.",
+        "en": "Mmm... it's really good.",
+        "zh": "…嗯，味道还算不错。"
+      },
+      "source_id": 74037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Эм... Может, в магазине чего-нибудь готового купим?",
+        "en": "Um... maybe we should just grab some takeout.",
+        "zh": "要不…我们还是去店里买外带吧？"
+      },
+      "source_id": 74038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения. Это тебе карманная астролябия... Те же звёзды, что и в прошлом, сегодня следят за судьбами людей. Пусть они поделятся с тобой своим взглядом, сопровождают тебя и в пустыне, и в море, пока ты не достигнешь своей цели.",
+        "en": "Happy birthday. I got you this pocket astrolabe... The same stars witness the fate of the human race today as did yesterday, and as will forever. May they cast their gaze upon you, and may they stay with you always, through the desert and across the ocean, until you reach your destination.",
+        "zh": "生日快乐，我把这个袖珍星盘送给你。希望从过去到未来，见证了我们所有人类命运的星星能把目光分给你，伴随你走过沙漠、穿过海洋，到达你所探寻的终点。"
+      },
+      "source_id": 74039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Соберись, Лайла... Надо больше стараться.",
+        "en": "Get it together, Layla... You've gotta work harder.",
+        "zh": "莱依拉啊莱依拉，你还要更勤奋。"
+      },
+      "source_id": 74040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Соберись, Лайла... Ты хорошо справляешься, но ещё надо многому научиться.",
+        "en": "Get it together, Layla... You're doing well so far, but you've still got a lot to learn.",
+        "zh": "莱依拉啊莱依拉，你已经很勤奋了，不过你的知识还不够全面。"
+      },
+      "source_id": 74041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Соберись, Лайла... Ты прилежно и много училась. Молодец. Но сейчас не время лениться: только расслабишься и сразу отстанешь, не сможешь выпуститься. Избавь себя от унижения.",
+        "en": "Get it together, Layla... You've been studying hard and reading everything you could get your hands on. Well done. But you can't afford to slack off now. The moment you get lazy, you'll fall behind and end up having to postpone your graduation. Spare yourself the humiliation.",
+        "zh": "莱依拉啊莱依拉，你读书又勤奋又广博，这很好。但你可千万不能松懈，一时懈怠，就会落后于人，最后悲惨延毕。"
+      },
+      "source_id": 74042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Соберись, Лайла... Верь в себя и в того, кто тебе помогал всё это время. Вместе мы можем решить любую проблему!\nФуф... Все заботы позади. Вперёд!",
+        "en": "Get it together, Layla! Believe in yourself, and in the person who's helped you come this far. The two of you together can solve any problem that comes your way!\nWhew... Alright! Time to leave my worries behind. Let's go!",
+        "zh": "莱依拉啊莱依拉，要相信自己，也要相信帮了你那么多的那个人。你们一起，什么问题都能解决！\n呼…好了，所有担心我都抛到脑后了，咱们出发吧！"
+      },
+      "source_id": 74043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Холод ночи!",
+        "en": "The night is cold.",
+        "zh": "寒星！"
+      },
+      "source_id": 74044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Не сейчас!",
+        "en": "Not now!",
+        "zh": "拒绝打扰！"
+      },
+      "source_id": 74045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Путеводные звёзды!",
+        "en": "My guiding stars.",
+        "zh": "星星的加护。"
+      },
+      "source_id": 74046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Сияйте, звёзды!",
+        "en": "Stars, shine for me.",
+        "zh": "星辰，为我降下。"
+      },
+      "source_id": 74047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Холод, подчинись!",
+        "en": "Cold, mine to command.",
+        "zh": "极寒，任我驱使。"
+      },
+      "source_id": 74048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Не бойся.",
+        "en": "Don't be scared.",
+        "zh": "别害怕。"
+      },
+      "source_id": 74049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Всё пригодится.",
+        "en": "A little goes a long way.",
+        "zh": "性价比不错。"
+      },
+      "source_id": 74050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Хорошо, что заметила. Чуть не пропустила.",
+        "en": "Huh, glad I saw this. I almost didn't even notice it.",
+        "zh": "还是你眼睛尖。"
+      },
+      "source_id": 74051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Ого! Даже спать расхотелось.",
+        "en": "Wow! Suddenly, I don't feel so tired.",
+        "zh": "哇！突然感觉不困了。"
+      },
+      "source_id": 74052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Спать хочу...",
+        "en": "So sleepy...",
+        "zh": "我好困…"
+      },
+      "source_id": 74053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Нет, нет, нет...",
+        "en": "No no no no...",
+        "zh": "完了完了完了…"
+      },
+      "source_id": 74054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Убежать ещё успеем?",
+        "en": "Is it too late for an extension?",
+        "zh": "现在逃还来得及吗？"
+      },
+      "source_id": 74055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Проснись! Не время спать!",
+        "en": "Wake up! You look half asleep!",
+        "zh": "醒醒，别昏过去！"
+      },
+      "source_id": 74056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "О нет! Тебя ранили!",
+        "en": "Oh no! Y—You're hurt!",
+        "zh": "糟了糟了，你、你受伤了！"
+      },
+      "source_id": 74057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Вечный сон... Наконец...",
+        "en": "Sweet sleep... at last...",
+        "zh": "永恒的睡眠…"
+      },
+      "source_id": 74058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Простите, наставница...",
+        "en": "I'm sorry, Professor...",
+        "zh": "老师，对不起…"
+      },
+      "source_id": 74059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Это просто... сон...",
+        "en": "This is just a... bad dream...",
+        "zh": "拜托了，这是个…梦…"
+      },
+      "source_id": 74060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Это нечестно!",
+        "en": "Come on, that's not fair!",
+        "zh": "你不讲理！"
+      },
+      "source_id": 74061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Так не по правилам!",
+        "en": "That's against the rules!",
+        "zh": "这是违反规定的！"
+      },
+      "source_id": 74062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Не спится? Надо погулять.",
+        "en": "Can't sleep? Let's go for a walk then.",
+        "zh": "睡不着就四处走走吧。"
+      },
+      "source_id": 74063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Я отпросилась... Не забыла же?",
+        "en": "I applied for vacation... You remembered too, right?",
+        "zh": "请好假了…没有忘的吧？"
+      },
+      "source_id": 74064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Эх, голова совсем не варит. Надо проветриться.",
+        "en": "*sigh* My mind is completely blank... I need to get out and unwind.",
+        "zh": "唉，脑袋空空，出去放松。"
+      },
+      "source_id": 74065
+    }
+  ],
+  "replica_count": 66
 }

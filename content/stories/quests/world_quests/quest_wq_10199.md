@@ -21,12 +21,29 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: Созерцание луны
+# game_source_ids: 76062,76127,76133
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 20
 
 ## RU
 
 ### Гости со звёзд
 
 Вы узнаёте о местонахождении Коломбины через терминал Ока Ибни-Белума. Возможно, она находится в следующем комплексе...
+
+#### Отправляйтесь к Лунному морю
+
+#### Отправляйтесь к Лунному морю
+
+#### Отправляйтесь к Лунному морю
+
+#### Отправляйтесь к Лунному морю
+
+#### Отправляйтесь к Лунному морю
+
+#### Отправляйтесь к Лунному морю
+
+#### Встретьтесь с Коломбиной
 
 #### Проверьте состояние Мэгги
 
@@ -46,11 +63,11 @@
 
 **Паймон:** Эх... Ладно, ладно. И что теперь делать? Может, отступим и подождём другого шанса, раз Унги вернулся?
 
-У нас нет времени.
+- **Путешественник:** У нас нет времени.
 
 **Коломбина:** Хм... Археолунная буря приближается к Кругу Унгиена, а там до сих пор обитает множество маленьких существ.
 
-Позаботься о Мэгги, а мы принесём Исток древней луны.
+- **Путешественник:** Позаботься о Мэгги, а мы принесём Исток древней луны.
 
 **Коломбина:** Хорошо, но будьте осторожны.
 
@@ -61,6 +78,30 @@
 **Паймон:** Хорошо! Мы займёмся этим!
 
 **Яйцо:** Я вам... помогу...
+
+#### Следуйте за стаей куухенки
+
+#### Пройдите по Лунному морю
+
+#### Освободите стаю куухенки
+
+#### Следуйте за стаей куухенки
+
+#### Пересеките Лунное море
+
+#### Победите монстров
+
+#### Взаимодействуйте со стаей куухенки
+
+#### Следуйте за сияющими финвалами, в которых превратились куухенки
+
+#### Пересеките Лунное море
+
+#### Двигайтесь вперёд
+
+#### Извлеките Исток древней луны в центре Лунного моря
+
+#### Извлеките Исток древней луны в центре Лунного моря
 
 #### Поговорите с Паймон
 
@@ -78,7 +119,7 @@
 
 **Яйцо:** Это энергетическая форма, созданная учёным по имени... Лусалим...
 
-Кто такой Лусалим?
+- **Путешественник:** Кто такой Лусалим?
 
 **Яйцо:** Ученик Унгиена и Магис... Вероятно... это он оставил сообщение в терминале...
 
@@ -100,7 +141,7 @@
 
 **Яйцо:** Здесь был построен... гигантский генератор завесы... Он мог скрыть всю Луну...
 
-Но сейчас Луна не скрыта.
+- **Путешественник:** Но сейчас Луна не скрыта.
 
 **Яйцо:** Это потому, что... прежде чем завеса была опущена... существо из-за пределов звёзд пронзило её.
 
@@ -110,7 +151,7 @@
 
 **Паймон:** Постой... существо из-за пределов звёзд?! Неужели это...
 
-Владыка небес...
+- **Путешественник:** Владыка небес...
 
 **Яйцо:** Никто не предвидел его появления, но оно изменило всё...
 
@@ -121,6 +162,12 @@
 **Коломбина:** Осторожно!
 
 **Паймон:** Ой! Унги внизу! Скорее прячемся!
+
+#### Отразите атаку Унги
+
+#### Отразите атаку Унги
+
+#### Отразите атаку Унги
 
 #### Поговорите с Яйцом
 
@@ -174,9 +221,15 @@
 
 **Паймон:** А? Это...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я тоже верю в тебя, Яйцо.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Я тоже верю в тебя, Нин Нин.
+
+##### Общее продолжение
 
 **Яйцо:** Спасибо вам... Тогда начнём...
 
@@ -238,7 +291,7 @@
 
 **Яйцо:** А затем Унгиен очнулся и передал драконам послание.
 
-Какое послание?
+- **Путешественник:** Какое послание?
 
 **Яйцо:** Об этом информации нет.
 
@@ -252,7 +305,7 @@
 
 **Коломбина:** Какая удивительная ситуация... Судя по всему, это сообщение может быть ключевым элементом проекта «Созерцатель луны», и мне всё больше интересно, что там сказано.
 
-Придётся поискать в другом месте.
+- **Путешественник:** Придётся поискать в другом месте.
 
 **Паймон:** Унгиен выжил?
 
@@ -282,7 +335,7 @@
 
 **Коломбина:** Он создал где-то исследовательский центр? Скорее всего, именно там мы найдём ключ к проекту «Созерцатель луны».
 
-Боюсь, его исследовательский центр больше не существует.
+- **Путешественник:** Боюсь, его исследовательский центр больше не существует.
 
 **Коломбина:** А? Вы что-то обнаружили?
 
@@ -292,7 +345,7 @@
 
 **Коломбина:** В таком случае боюсь, на ум приходит Владыка небес...
 
-Я тоже так думаю.
+- **Путешественник:** Я тоже так думаю.
 
 **Коломбина:** Завеса, способная скрыть Луну... очень похоже на лживое небо.
 
@@ -360,9 +413,9 @@
 
 **Паймон:** И правда... Заговорила о благодарности! Но мы ведь друзья, так что не будем об этом!
 
-**Коломбина:** Да, этому меня научил(а) он / она. Нин Нин, ты тоже можешь поучиться.
+**Коломбина:** Да, этому меня научил он. Нин Нин, ты тоже можешь поучиться. / Да, этому меня научила она. Нин Нин, ты тоже можешь поучиться.
 
-С удовольствием.
+- **Путешественник:** С удовольствием.
 
 **Коломбина:** Следуйте за мной, когда будете готовы.
 
@@ -372,27 +425,29 @@
 
 #### В пути...
 
-(Что случилось?..)
+- **Путешественник:** (Что случилось?..)
 
-(На борту корабля произошла авария... Мы сели в спасательные капсулы... Мы благополучно совершили посадку на Луне?)
+- **Путешественник:** (На борту корабля произошла авария... Мы сели в спасательные капсулы... Мы благополучно совершили посадку на Луне?)
 
-(Так, я всё ещё нахожусь в спасательной капсуле... Надо проверить, в порядке ли Паймон...)
+- **Путешественник:** (Так, я всё ещё нахожусь в спасательной капсуле... Надо проверить, в порядке ли Паймон...)
 
-(Выйти из спасательной капсулы)
+- **Путешественник:** (Выйти из спасательной капсулы)
+
+#### Найдите способ вернуться на поверхность
 
 #### Поговорите с Паймон
 
 **Паймон:** У-у-у, Путешественник! Паймон знала, что ты в порядке.
 
-Паймон, всё в порядке?
+- **Путешественник:** Паймон, всё в порядке?
 
 **Паймон:** Ни разу не в порядке! Когда Паймон вышла из спасательной капсулы, никого не было... Паймон чуть не умерла от страха!
 
 **Паймон:** Паймон так рада, что нашла тебя! Хе-хе!
 
-**Паймон:** Дай-ка Паймон хорошенько осмотреть тебя. Ты не ранен(а)?
+**Паймон:** Дай-ка Паймон хорошенько осмотреть тебя. Ты не ранен? / Дай-ка Паймон хорошенько осмотреть тебя. Ты не ранена?
 
-Не волнуйся. Я в порядке.
+- **Путешественник:** Не волнуйся. Я в порядке.
 
 **Паймон:** Вот и славно! Кто бы мог подумать, что у корабля возникнут проблемы... Постой, мы ведь должны были это предвидеть...
 
@@ -400,55 +455,43 @@
 
 **Паймон:** Ну да. Полёт был отвратительным... Но мы всё-таки добрались до Луны...
 
-Вот тебе и технология драконов.
+- **Путешественник:** Вот тебе и технология драконов.
 
 **Паймон:** Паймон винит Яйцо за то, что она всё время отвлекала нас! Мы совсем забыли хорошенько осмотреть корабль.
 
 **Паймон:** Ах да! Где же она? Паймон вспомнила, что она тоже села в спасательную капсулу.
 
-Нужно её найти.
+- **Путешественник:** Нужно её найти.
 
 **Паймон:** Паймон надеется, с ней всё в порядке!
 
 #### Найдите Яйцо
 
-**Паймон:** Получилось! Всё прошло лучше, чем Паймон ожидала.
-
-**Паймон:** Осталось активировать третью энергетическую станцию?
-
-**Яйцо:** Смотрите... она уже активирована.
-
-**Паймон:** Ты права... Неужели она до сих пор в рабочем состоянии? Технологии драконов впечатляют...
-
-Возможно, её кто-то активировал.
-
-**Паймон:** Кто-то активировал? Ты имеешь в виду... Коломбину? Если подумать, это наверняка она... Но почему она активировала только одну?
-
-**Паймон:** Может быть, она... обнаружила что-то подозрительное? Здесь что-то не так?
-
-**Паймон:** Эй... Яйцо, ты же не вводишь нас в заблуждение в очередной раз? Это выходит за рамки твоего уровня дружбы!
-
-**Яйцо:** Я не знаю... в чём заключается моя миссия...
-
-**Яйцо:** Но она точно не включает в себя... повышение уровня дружбы с кем-либо...
-
-**Паймон:** А?! Яйцо, ты изменилась! Информация с терминала вскружила тебе голову?
-
-Давай сначала отправимся в Око Ибни-Белума.
-
-**Яйцо:** Да... Путешественник... более (рассудительная)(рассудительный)... (уравновешенная)(уравновешенный)... (вдумчивая)(вдумчивый)... ты лучший напарник... не то что Паймон...
-
-**Яйцо:** Идём... Путешественник... я пойду за тобой...
-
-**Паймон:** А?! Яйцо! Я уменьшу твою порцию вкусняшек ещё на десять процентов!
-
 #### Отправляйтесь под землю
+
+#### Поговорите с Паймон
 
 **Паймон:** Смотри! Спасательная капсула! Это спасательная капсула Яйца?
 
 **Паймон:** Её нет внутри... Видимо, она благополучно выбралась.
 
 **Паймон:** Может, она спряталась в этом месте, похожем на руины?.. Пойдём и поищем её.
+
+#### Найдите Яйцо в руинах
+
+#### Откройте проход
+
+#### Найдите Яйцо в руинах
+
+#### Найдите Яйцо в руинах
+
+#### Найдите Яйцо в руинах
+
+#### Активируйте механизм
+
+#### Найдите Яйцо в руинах
+
+#### Найдите Яйцо в руинах
 
 #### Спасите Яйцо
 
@@ -476,6 +519,8 @@
 
 **Паймон:** Ой! Это тот, который мы видели по дороге сюда? Пойдём посмотрим.
 
+#### Вернитесь к терминалу у входа
+
 #### Активируйте терминал
 
 **Паймон:** Яйцо, это тот самый терминал, о котором ты говорила?
@@ -484,7 +529,7 @@
 
 **Яйцо:** Ах...
 
-С тобой всё в порядке?
+- **Путешественник:** С тобой всё в порядке?
 
 **Яйцо:** Нин... Нин...
 
@@ -506,13 +551,13 @@
 
 **Паймон:** Тебя увезли, чтобы использовать в качестве источника энергии, потому что у тебя такая же сила...
 
-Для чего используется эта станция по производству энергии?
+- **Путешественник:** Для чего используется эта станция по производству энергии?
 
 **Яйцо:** Чтобы питать... Око Ибни-Белума...
 
 **Паймон:** Око... Ибни-Белума? Что это? Звучит знакомо.
 
-Это была одна из площадок для посадки космических кораблей.
+- **Путешественник:** Это была одна из площадок для посадки космических кораблей.
 
 **Паймон:** Око... Ибни-Белума? Что это такое?
 
@@ -524,7 +569,7 @@
 
 **Яйцо:** Да... Мы сейчас находимся внутри одного из них...
 
-А какое именно назначение у Ока Ибни-Белума?
+- **Путешественник:** А какое именно назначение у Ока Ибни-Белума?
 
 **Яйцо:** В рабочих журналах указано, что... это станция мониторинга поверхности Луны... способная осуществлять наблюдение за всей лунной поверхностью.
 
@@ -534,7 +579,7 @@
 
 **Яйцо:** Я не знаю... Но... это возможно...
 
-Нужно пойти и проверить.
+- **Путешественник:** Нужно пойти и проверить.
 
 **Яйцо:** Мы активировали первую...
 
@@ -560,11 +605,21 @@
 
 **Яйцо:** Хорошо, я Нин Нин Яйцо.
 
-Что ещё за вкусняшки?
+- **Путешественник:** Что ещё за вкусняшки?
 
 **Паймон:** Это наш маленький секрет!
 
 **Паймон:** Быстрее, пойдёмте к другим энергетическим станциям!
+
+#### Вернитесь на поверхность
+
+#### Вернитесь на поверхность
+
+#### Найдите другие энергетические станции
+
+#### Победите монстров
+
+#### Активируйте терминал
 
 #### Поговорите с Яйцом
 
@@ -587,6 +642,44 @@
 **Яйцо:** Локатор сигнала... находится на самой вершине башни... Он требует ручной настройки...
 
 **Паймон:** Вот как... Надо придумать, как подняться наверх.
+
+#### Отправляйтесь наверх, чтобы отрегулировать устройство отслеживания
+
+#### Поговорите с Яйцом
+
+**Паймон:** Получилось! Всё прошло лучше, чем Паймон ожидала.
+
+**Паймон:** Осталось активировать третью энергетическую станцию?
+
+**Яйцо:** Смотрите... она уже активирована.
+
+**Паймон:** Ты права... Неужели она до сих пор в рабочем состоянии? Технологии драконов впечатляют...
+
+- **Путешественник:** Возможно, её кто-то активировал.
+
+**Паймон:** Кто-то активировал? Ты имеешь в виду... Коломбину? Если подумать, это наверняка она... Но почему она активировала только одну?
+
+**Паймон:** Может быть, она... обнаружила что-то подозрительное? Здесь что-то не так?
+
+**Паймон:** Эй... Яйцо, ты же не вводишь нас в заблуждение в очередной раз? Это выходит за рамки твоего уровня дружбы!
+
+**Яйцо:** Я не знаю... в чём заключается моя миссия...
+
+**Яйцо:** Но она точно не включает в себя... повышение уровня дружбы с кем-либо...
+
+**Паймон:** А?! Яйцо, ты изменилась! Информация с терминала вскружила тебе голову?
+
+- **Путешественник:** Давай сначала отправимся в Око Ибни-Белума.
+
+**Яйцо:** Да... Путешественник... более рассудительный... уравновешенный... вдумчивый... ты лучший напарник... не то что Паймон... / Да... Путешественник... более рассудительная... уравновешенная... вдумчивая... ты лучший напарник... не то что Паймон...
+
+**Яйцо:** Идём... Путешественник... я пойду за тобой...
+
+**Паймон:** А?! Яйцо! Я уменьшу твою порцию вкусняшек ещё на десять процентов!
+
+#### Отправляйтесь к Оку Ибни-Белума
+
+#### Активируйте Око Ибни-Белума
 
 #### Поговорите с Яйцом
 
@@ -612,7 +705,7 @@
 
 **Яйцо:** Система не может подтвердить личность объекта...
 
-Надо пойти и проверить.
+- **Путешественник:** Надо пойти и проверить.
 
 **Паймон:** Хм... Полной уверенности нет, но, по крайней мере, у нас есть направление... Как мы туда доберёмся?
 
@@ -638,11 +731,11 @@
 
 **Яйцо:** Там есть скрытый модуль... Проект «Созерцатель луны»... ответил мне...
 
-Узнала что-то новое?
+- **Путешественник:** Узнала что-то новое?
 
 **Яйцо:** Модуль... хранит историю происхождения этой башни...
 
-**Яйцо:** Его создал один из первых представителей драконьего рода по имени Ибни-первый созерцатель луныБелум...
+**Яйцо:** Его создал один из первых представителей драконьего рода по имени Ибни-(первый созерцатель луны)Белум...
 
 **Яйцо:** Космический корабль, на котором мы прилетели... тоже его творение... именно он привёл на Луну учёных-драконов...
 
@@ -670,7 +763,7 @@
 
 **Яйцо:** Это место, Око... изначально было станцией приёма и передачи сигналов из глубокого космоса... построенное для того, чтобы снова уловить тот сигнал...
 
-И... Они преуспели?
+- **Путешественник:** И... Они преуспели?
 
 **Яйцо:** Прошло много лет... первопроходец скончался... но сигнал так и не появился снова...
 
@@ -680,7 +773,7 @@
 
 **Паймон:** Ой, как жаль. Паймон кажется, что мы только что узнали что-то очень важное...
 
-Это и есть проект «Созерцатель луны»?
+- **Путешественник:** Это и есть проект «Созерцатель луны»?
 
 **Яйцо:** Нет... я всего лишь прочитала записи в журнале...
 
@@ -696,9 +789,9 @@
 
 **Паймон:** Эй, это тебе достанется двадцать процентов. А Паймон - восемьдесят!
 
-Похоже, Яйцо - своего рода ключевая матрица.
+- **Путешественник:** Похоже, Яйцо - своего рода ключевая матрица.
 
-Не хватает части содержимого, поэтому не получается изготовить ключ.
+- **Путешественник:** Не хватает части содержимого, поэтому не получается изготовить ключ.
 
 **Паймон:** Хм... Да, Паймон тоже так считает! Кстати, а проект «Созерцатель луны» может быть связан с миссией Яйца?
 
@@ -714,9 +807,15 @@
 
 **Паймон:** Эта перемена Паймон не нравится, но, если речь идёт о миссии Яйца, Паймон обязана её поддержать.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Узрите Паймон Созерцательницу!
 
+##### Вариант ответа 2
+
 - **Путешественник:** Узрите Паймон Великодушную!
+
+##### Общее продолжение
 
 **Паймон:** Хе-хе! Яйцо как-никак помогает нам найти Коломбину.
 
@@ -726,7 +825,7 @@
 
 **Паймон:** Хе-хе. Ну что, пойдём к следующей цели?
 
-Пошли.
+- **Путешественник:** Пошли.
 
 **Паймон:** Ура! Вторая остановка в нашем суперкрутом лунном приключении - Круг Унги-Унги! Пошли!
 
@@ -737,6 +836,16 @@
 ### Гости со звёзд
 
 Вы узнаёте о местонахождении Коломбины через терминал Ока Ибни-Белума. Возможно, она находится в следующем комплексе...
+
+#### Поднимитесь на скоростной транзитный канал
+
+#### Поднимитесь на скоростной транзитный канал
+
+#### Отправляйтесь в Круг Унгиена
+
+#### Отправляйтесь в Круг Унгиена
+
+#### Помогите куухенки отразить атаку монстров
 
 #### Поговорите с Яйцом
 
@@ -756,6 +865,10 @@
 
 **Яйцо:** Хм... Давайте сначала проследуем за этим гигантским существом... Оно приведёт нас в Круг Унгиена.
 
+#### Следуйте за куухенки в Круг Унгиена
+
+#### Следуйте за куухенки в Круг Унгиена
+
 #### Осмотрите Круг Унгиена
 
 **Паймон:** Ой, едва вошли, как Паймон почувствовала, что тело стало тяжелее!
@@ -766,15 +879,23 @@
 
 **Паймон:** Но почему этого не видно снаружи?
 
-Это место не выглядит так, будто оно образовалось естественным путём.
+- **Путешественник:** Это место не выглядит так, будто оно образовалось естественным путём.
 
 **Паймон:** Хочешь сказать, что кто-то построил это место? Неужели тот самый Унги-Унги?
 
-Найдём терминал - узнаем.
+- **Путешественник:** Найдём терминал - узнаем.
 
 **Яйцо:** Идём за ними...
 
 **Паймон:** О! Приятели Яйца показывают дорогу! Быстрее за ними!
+
+#### Следуйте за куухенки, чтобы найти терминал
+
+#### Следуйте за куухенки, чтобы найти терминал
+
+#### Победите монстров
+
+#### Найдите способ избавиться от лунных лиан
 
 #### Поговорите с Яйцом
 
@@ -785,6 +906,8 @@
 **Паймон:** А? Яйцо, что ты наделала?
 
 **Яйцо:** Попробуй ещё раз...
+
+#### Найдите способ избавиться от лунных лиан
 
 #### Активируйте терминал
 
@@ -800,7 +923,7 @@
 
 **Яйцо:** Спутанные лунные лианы... Они растут там, где энергия древних лун вышла из равновесия... Возможно, именно поэтому...
 
-Есть ли ещё полезная информация?
+- **Путешественник:** Есть ли ещё полезная информация?
 
 **Яйцо:** Есть повреждённый инженерный чертёж...
 
@@ -814,23 +937,43 @@
 
 **Паймон:** Смотри! Мегакуухенки снова появился! И направляется к тому большому дереву...
 
-Коломбина скорее всего там.
+- **Путешественник:** Коломбина скорее всего там.
 
-**Паймон:** Паймон надеется, что ты не (ошиблась)(ошибся). Пойдём к дереву.
+**Паймон:** Паймон надеется, что ты не ошибся. Пойдём к дереву. / Паймон надеется, что ты не ошиблась. Пойдём к дереву.
+
+#### Идите к большому дереву
 
 #### Загляните внутрь ствола через щель
 
-**Паймон:** Справа ничего примечательного.
+##### Вариант ответа 1
 
-**Паймон:** В центре небольшой павильон, а над ним несколько высоких стоек... Это те самые антенны, которые мы видели раньше?
-
-**Паймон:** Ой! Слева от беседки есть дверь! Похоже на чёрный вход. Раз есть чёрный вход, значит, должна быть и дорога. Поищем поблизости!
-
-- **Путешественник:** Посмотреть налево
+##### Вариант ответа 2
 
 - **Путешественник:** Посмотреть по центру
 
+**Паймон:** В центре небольшой павильон, а над ним несколько высоких стоек... Это те самые антенны, которые мы видели раньше?
+
+##### Вариант ответа 3
+
 - **Путешественник:** Посмотреть направо
+
+**Паймон:** Справа ничего примечательного.
+
+##### Общее продолжение
+
+- **Путешественник:** Посмотреть налево
+
+**Паймон:** Ой! Слева от беседки есть дверь! Похоже на чёрный вход. Раз есть чёрный вход, значит, должна быть и дорога. Поищем поблизости!
+
+#### Найдите тропинку слева
+
+#### Активируйте подъёмник
+
+#### Осмотрите систему энергоснабжения
+
+#### Идите по тропе
+
+#### Активируйте терминал
 
 #### Спуститесь под землю, чтобы решить проблему с энергоснабжением
 
@@ -878,11 +1021,15 @@
 
 **Яйцо:** Нет никаких записей об этом...
 
-Возможно, на станции найдётся больше информации.
+- **Путешественник:** Возможно, на станции найдётся больше информации.
 
 **Паймон:** Паймон согласна. Но сперва нужно разобраться с энергоснабжением...
 
 **Паймон:** Согласно чертежам, система энергоснабжения находится под землёй. Вперёд!
+
+#### Спуститесь под землю, чтобы решить проблему с энергоснабжением
+
+#### Спуститесь под землю, чтобы решить проблему с энергоснабжением
 
 #### Оставайтесь в поле окклюзии
 
@@ -894,15 +1041,31 @@
 
 **Яйцо:** Но не волнуйтесь... это поле окклюзии может временно задержать их... пока мы не выйдем за пределы зоны действия генератора...
 
+#### Спуститесь под землю, чтобы решить проблему с энергоснабжением
+
+#### Выясните причину неисправности системы энергоснабжения
+
+#### Очистите вторую турбину от лиан
+
+#### Очистите третью турбину от лиан
+
+#### Отправляйтесь к следующему безопасному полю окклюзии
+
+#### Уничтожьте оставшиеся лианы
+
+#### Активируйте терминал, перезапустите силовой двигатель
+
+#### Защищайте Яйцо, пока оно считывает данные с терминала
+
 #### Поговорите с Яйцом
 
-**Паймон:** Яйцо, Путешественник (разобралась)(разобрался) со всеми монстрами! А у тебя как дела?
+**Паймон:** Яйцо, Путешественник разобрался со всеми монстрами! А у тебя как дела? / Яйцо, Путешественник разобралась со всеми монстрами! А у тебя как дела?
 
 **Яйцо:** Это... проект «Созерцатель луны»...
 
 **Паймон:** Ой? Здесь тоже записано про проект «Созерцатель луны»?
 
-Что там написано?
+- **Путешественник:** Что там написано?
 
 **Яйцо:** О проекте ничего не сказано... но есть примечание.
 
@@ -912,11 +1075,11 @@
 
 **Паймон:** «Наставнику аль-Хайтаму. Благодарю за вклад в моё обучение». Что-то в этом роде...
 
-Паймон тоже писала благодарности?
+- **Путешественник:** Паймон тоже писала благодарности?
 
 **Паймон:** Паймон видела это на рабочем столе аль-Хайтама! Наверняка это написал кто-то из его студентов.
 
-Кто тогда оставил эту запись?
+- **Путешественник:** Кто тогда оставил эту запись?
 
 **Яйцо:** Это всё... Больше никаких записей...
 
@@ -927,6 +1090,24 @@
 **Паймон:** О! Получилось!
 
 **Паймон:** Ой-ой... Эти огромные диски крутятся так быстро, что могут нас затянуть! Нужно бежать! Сейчас же!
+
+#### Вернитесь на поверхность
+
+#### Вернитесь на поверхность
+
+#### Используйте аварийный проход, чтобы вернуться на поверхность
+
+#### Спаситесь от работающей турбины
+
+#### Ремонт двигателя завершён
+
+#### Поднимитесь на Небесный Путь
+
+#### Поднимитесь на Небесный Путь
+
+#### Выйдите в открытый космос...
+
+#### Найдите Коломбину
 
 #### Найдите Коломбину
 
@@ -942,7 +1123,7 @@
 
 **Паймон:** Коломбина! Это правда ты? Наконец-то мы тебя нашли!
 
-Мы не помешали, заглянув без предупреждения?
+- **Путешественник:** Мы не помешали, заглянув без предупреждения?
 
 **Коломбина:** Конечно нет. Я очень рада вас видеть. Можно сказать, это приятный сюрприз.
 
@@ -950,7 +1131,7 @@
 
 **Коломбина:** Но как вы оказались на Луне?
 
-Долгая история.
+- **Путешественник:** Долгая история.
 
 Вы рассказываете Коломбине о том, как случайно прилетели на Луну на космическом корабле.
 
@@ -1016,7 +1197,7 @@
 
 **Коломбина:** Не волнуйся, такое происходит только с Нин Нин и её сородичами.
 
-Почему она приняла твой облик?
+- **Путешественник:** Почему она приняла твой облик?
 
 **Коломбина:** Я одолжила ей свою силу, чтобы Дети Морозной Луны, увидев чёрную куухенки, но не найдя меня, не начали беспокоиться.
 
@@ -1042,7 +1223,7 @@
 
 **Паймон:** Так не пойдёт! Паймон хочет лунную вечеринку!
 
-Что случилось с Лунным морем?
+- **Путешественник:** Что случилось с Лунным морем?
 
 **Коломбина:** Мэгги.
 
@@ -1056,7 +1237,7 @@
 
 **Паймон:** Ой-ой, друзья должны ладить, а не драться. Паймон и Путешественник никогда не дерутся!
 
-Я забочусь о младших.
+- **Путешественник:** Я забочусь о младших.
 
 **Паймон:** Паймон уважает старших!
 
@@ -1100,7 +1281,7 @@
 
 **Паймон:** Магис-Гети? Это имя... было в терминале?
 
-Это возлюбленная Унгиена.
+- **Путешественник:** Это возлюбленная Унгиена.
 
 **Паймон:** Она превратилась в мегакуухенки?! Как такое возможно?! Тогда второй... Унги... неужели...
 
@@ -1118,11 +1299,27 @@
 
 **Паймон:** Тогда вперёд!
 
+Покинув силовой двигатель, вы благополучно вернулись на поверхность...
+
 ## EN
 
 ### Visitors From the Stars
 
 You learn Columbina's location through the terminal at The Eye of Ibni-Belum. She might be at the next facility...
+
+#### Go to the lunar sea
+
+#### Go to the lunar sea
+
+#### Go to the lunar sea
+
+#### Go to the lunar sea
+
+#### Go to the lunar sea
+
+#### Go to the lunar sea
+
+#### Meet up with Columbina
 
 #### Check on Maggie's condition
 
@@ -1142,11 +1339,11 @@ You learn Columbina's location through the terminal at The Eye of Ibni-Belum. Sh
 
 **Paimon:** Ugh... Oh, fine. So what do we do now? Should we fall back and wait for another chance now that Ungie's back?
 
-There's no time for that.
+- **Traveler:** There's no time for that.
 
 **Columbina:** Yes... The Archaeolune Storm is closing in on Ungien's Circle, and there are many little creatures living there.
 
-You take care of Maggie. We'll grab the Ancient Moon's Fount.
+- **Traveler:** You take care of Maggie. We'll grab the Ancient Moon's Fount.
 
 **Columbina:** Alright. But be careful.
 
@@ -1157,6 +1354,30 @@ You take care of Maggie. We'll grab the Ancient Moon's Fount.
 **Paimon:** Okay! Leave it to us!
 
 **Eggie:** I'll... help too...
+
+#### Follow the floating school of kuuhenki forward
+
+#### Advance through the lunar sea
+
+#### Rescue the trapped shoaling kuuhenki
+
+#### Follow the shoaling kuuhenki
+
+#### Pass through the lunar sea
+
+#### Defeat the monsters
+
+#### Interact with the shoaling kuuhenki
+
+#### Follow the shoaling kuuhenki that have transformed into Lumenfin Whales
+
+#### Pass through the lunar sea
+
+#### Continue onward
+
+#### Extract the Ancient Moon's Fount at the heart of the lunar sea
+
+#### Extract the Ancient Moon's Fount at the heart of the lunar sea
 
 #### Talk to Paimon
 
@@ -1174,7 +1395,7 @@ You take care of Maggie. We'll grab the Ancient Moon's Fount.
 
 **Eggie:** This is an energy entity created by a researcher named... Lusalim...
 
-Who's that?
+- **Traveler:** Who's that?
 
 **Eggie:** Ungien and Maagees' student... Likely also... the one who left the message in the terminal...
 
@@ -1196,7 +1417,7 @@ Who's that?
 
 **Eggie:** A massive Veil generator... was built here... One that could conceal the entire moon...
 
-But the moon isn't hidden right now...
+- **Traveler:** But the moon isn't hidden right now...
 
 **Eggie:** That is because... before the Veil could take shape... an entity from beyond the stars pierced it.
 
@@ -1206,7 +1427,7 @@ But the moon isn't hidden right now...
 
 **Paimon:** Wait... a being from beyond the stars!? Could it be...?
 
-The great ruler of the firmament...
+- **Traveler:** The great ruler of the firmament...
 
 **Eggie:** No one anticipated the entity's arrival. But it changed everything...
 
@@ -1217,6 +1438,12 @@ The great ruler of the firmament...
 **Columbina:** Look out!
 
 **Paimon:** Oh no! Ungie's below us! Quick, get out of the way!
+
+#### Repel Ungie
+
+#### Repel Ungie
+
+#### Repel Ungie
 
 #### Talk to Eggie
 
@@ -1270,9 +1497,15 @@ The great ruler of the firmament...
 
 **Paimon:** Eh? This is...
 
+##### Response branch 1
+
 - **Traveler:** I believe in you, too, Eggie.
 
+##### Response branch 2
+
 - **Traveler:** I believe in you, too, Ninnin.
+
+##### Shared continuation
 
 **Eggie:** Thank you... Here I go...
 
@@ -1334,7 +1567,7 @@ The great ruler of the firmament...
 
 **Eggie:** Then, Ungien awoke, and he passed a message to them.
 
-What was the message?
+- **Traveler:** What was the message?
 
 **Eggie:** There is no information about this.
 
@@ -1348,7 +1581,7 @@ What was the message?
 
 **Columbina:** What a surprising turn of events... It seems that message may be the key to understanding Project Moongazer. I'm getting more curious about what it is by the moment.
 
-Looks like we'll have to look elsewhere for that.
+- **Traveler:** Looks like we'll have to look elsewhere for that.
 
 **Paimon:** So... Was Ungien still alive after all that?
 
@@ -1378,7 +1611,7 @@ Looks like we'll have to look elsewhere for that.
 
 **Columbina:** Did he also establish a research facility somewhere? That's most likely where we'll find the key to Project Moongazer.
 
-I'm afraid his research facility no longer exists.
+- **Traveler:** I'm afraid his research facility no longer exists.
 
 **Columbina:** Oh? Did you discover something?
 
@@ -1388,7 +1621,7 @@ You tell Columbina about Lusalim, the Lunar Veil project, and the Descender from
 
 **Columbina:** In that case, I fear the great ruler of the firmament is the likely culprit...
 
-I had the same thought.
+- **Traveler:** I had the same thought.
 
 **Columbina:** A veil that could obscure the moon... That sounds very similar to the false sky.
 
@@ -1456,9 +1689,9 @@ I had the same thought.
 
 **Paimon:** You're right... She's actually talking about paying us back! But we're friends, so there's no need for all that!
 
-**Columbina:** Yes. He / She taught me that lesson, actually. You could stand to learn it, too, Ninnin.
+**Columbina:** Yes. He taught me that lesson, actually. You could stand to learn it, too, Ninnin. / Yes. She taught me that lesson, actually. You could stand to learn it, too, Ninnin.
 
-It was, and would be, my honor.
+- **Traveler:** It was, and would be, my honor.
 
 **Columbina:** Well then, follow me when you're ready.
 
@@ -1468,19 +1701,21 @@ You catch sight of Columbina in the distance on a deserted island on the east si
 
 #### Now in transit...
 
-(What... happened...?)
+- **Traveler:** (What... happened...?)
 
-(Right, there was an accident on board the spaceship... We got into the escape pods... Did we make moonfall successfully?)
+- **Traveler:** (Right, there was an accident on board the spaceship... We got into the escape pods... Did we make moonfall successfully?)
 
-(It seems like I'm still in my escape pod... I need to make sure Paimon's alright...)
+- **Traveler:** (It seems like I'm still in my escape pod... I need to make sure Paimon's alright...)
 
-(Exit the escape pod.)
+- **Traveler:** (Exit the escape pod.)
+
+#### Find a way to return to the surface
 
 #### Talk to Paimon
 
 **Paimon:** Ohhh, Paimon just knew you'd be okay!
 
-How are you feeling, Paimon?
+- **Traveler:** How are you feeling, Paimon?
 
 **Paimon:** Not good at all! When Paimon came out of her escape pod, you two were gone... Paimon was scared half to death!
 
@@ -1488,7 +1723,7 @@ How are you feeling, Paimon?
 
 **Paimon:** Now then, let Paimon give you a quick once-over! Are you hurt or anything?
 
-Don't worry, I'm fine.
+- **Traveler:** Don't worry, I'm fine.
 
 **Paimon:** Well, that's a relief! Who could have imagined that ancient ship would run into problems... Wait, no, we totally should've seen this coming...
 
@@ -1496,55 +1731,43 @@ Don't worry, I'm fine.
 
 **Paimon:** Whew... Whatever. The ride was kinda awful... but we still made moonfall in the end...
 
-That's dragon-tech for you.
+- **Traveler:** That's dragon-tech for you.
 
 **Paimon:** Paimon blames Eggie for distracting us! We totally neglected to give the spaceship a good looking over.
 
 **Paimon:** Speaking of Eggie... Where is she? Paimon remembers she got into an escape pod, too.
 
-We have to find her.
+- **Traveler:** We have to find her.
 
 **Paimon:** Yeah. Paimon hopes she's okay!
 
 #### Look for Eggie
 
-**Paimon:** Success! Well, that was easier than Paimon expected.
-
-**Paimon:** But we still need to activate the third station, right?
-
-**Eggie:** Look... It's already active.
-
-**Paimon:** Whoa, you're right... It still works, after all this time? Dragon tech sure is reliable...
-
-Someone else might have activated it...
-
-**Paimon:** Someone else? You mean... Columbina? After all, who else could it be... But why did she only activate one?
-
-**Paimon:** You don't think... she found out something was wrong? Are we gonna run into some sort of problem?
-
-**Paimon:** Hey... Eggie, you're not misleading us again, are you? This one's coming out of your friendship level!
-
-**Eggie:** I don't know... what my mission is...
-
-**Eggie:** But I'm sure it doesn't include... raising anyone's friendship levels...
-
-**Paimon:** Huh!? Eggie, you've changed! Did all that info from the terminals go to your head?
-
-Let's check out the Eye of Ibni-Belum first, shall we?
-
-**Eggie:** Hmm... Traveler... more rational... reliable... good thinker... a superior partner... unlike Paimon...
-
-**Eggie:** Let's go... Traveler... I'll walk with you...
-
-**Paimon:** Huh!? Okay, that's it! Paimon's deducting another ten percent from your share of the snacks!
-
 #### Head to the underground space
+
+#### Talk to Paimon
 
 **Paimon:** Look! There's an escape pod! This must be Eggie's one, right?
 
 **Paimon:** But she doesn't seem to be in there... She must've made it out safely.
 
 **Paimon:** Could she have escaped into this ruin-like place...? We should go inside and look for her.
+
+#### Look for Eggie within the ruins
+
+#### Open the passage door
+
+#### Look for Eggie within the ruins
+
+#### Look for Eggie within the ruins
+
+#### Look for Eggie within the ruins
+
+#### Activate the mechanism
+
+#### Look for Eggie within the ruins
+
+#### Look for Eggie within the ruins
 
 #### Rescue Eggie
 
@@ -1572,6 +1795,8 @@ Let's check out the Eye of Ibni-Belum first, shall we?
 
 **Paimon:** Oh! Is that the thingamajig we saw on our way in? Let's go find it.
 
+#### Activate the entrance terminal
+
 #### Activate the terminal
 
 **Paimon:** Is this the terminal you were talking about, Eggie?
@@ -1580,7 +1805,7 @@ Let's check out the Eye of Ibni-Belum first, shall we?
 
 **Eggie:** Ahh...
 
-Are you alright?
+- **Traveler:** Are you alright?
 
 **Eggie:** Nin... Nin...
 
@@ -1602,13 +1827,13 @@ Are you alright?
 
 **Paimon:** You must've been taken away to be used as an energy source because you have the same power...
 
-What is this energy generation station used for?
+- **Traveler:** What is this energy generation station used for?
 
 **Eggie:** To power... the Eye of Ibni-Belum...
 
 **Paimon:** The Eye... of Ibni-Belum? What's that? Sounds kinda familiar.
 
-It was one of the spaceship landing sites.
+- **Traveler:** It was one of the spaceship landing sites.
 
 **Paimon:** The... Eye of Ibni-Belum? What's that supposed to be?
 
@@ -1620,7 +1845,7 @@ It was one of the spaceship landing sites.
 
 **Eggie:** Yes... We're inside one of them right now...
 
-What exactly does this Eye of Ibni-Belum do?
+- **Traveler:** What exactly does this Eye of Ibni-Belum do?
 
 **Eggie:** The work logs record that... it is a lunar surface monitoring station... capable of monitoring the entire lunar surface.
 
@@ -1630,7 +1855,7 @@ What exactly does this Eye of Ibni-Belum do?
 
 **Eggie:** I don't know... but... It's possible...
 
-Looks like we're taking a trip over there then.
+- **Traveler:** Looks like we're taking a trip over there then.
 
 **Eggie:** We've already activated... this one...
 
@@ -1656,11 +1881,21 @@ Looks like we're taking a trip over there then.
 
 **Eggie:** Alright... I'm Ninnin, aka Eggie...
 
-Sorry, what was that about snacks?
+- **Traveler:** Sorry, what was that about snacks?
 
 **Paimon:** Oh, uh, that's between Paimon and Ninnin!
 
 **Paimon:** C'mon! We need to head to the other stations!
+
+#### Return to the surface
+
+#### Return to the surface
+
+#### Search for other energy generation stations
+
+#### Defeat the monsters
+
+#### Activate the terminal
 
 #### Talk to Eggie
 
@@ -1683,6 +1918,44 @@ Sorry, what was that about snacks?
 **Eggie:** The signal locator... is at the top of the tower... It requires manual adjustment...
 
 **Paimon:** Huh... Then let's figure out a way to get up there and check it out.
+
+#### Go to the top to adjust the signal locator
+
+#### Talk to Eggie
+
+**Paimon:** Success! Well, that was easier than Paimon expected.
+
+**Paimon:** But we still need to activate the third station, right?
+
+**Eggie:** Look... It's already active.
+
+**Paimon:** Whoa, you're right... It still works, after all this time? Dragon tech sure is reliable...
+
+- **Traveler:** Someone else might have activated it...
+
+**Paimon:** Someone else? You mean... Columbina? After all, who else could it be... But why did she only activate one?
+
+**Paimon:** You don't think... she found out something was wrong? Are we gonna run into some sort of problem?
+
+**Paimon:** Hey... Eggie, you're not misleading us again, are you? This one's coming out of your friendship level!
+
+**Eggie:** I don't know... what my mission is...
+
+**Eggie:** But I'm sure it doesn't include... raising anyone's friendship levels...
+
+**Paimon:** Huh!? Eggie, you've changed! Did all that info from the terminals go to your head?
+
+- **Traveler:** Let's check out the Eye of Ibni-Belum first, shall we?
+
+**Eggie:** Hmm... Traveler... more rational... reliable... good thinker... a superior partner... unlike Paimon...
+
+**Eggie:** Let's go... Traveler... I'll walk with you...
+
+**Paimon:** Huh!? Okay, that's it! Paimon's deducting another ten percent from your share of the snacks!
+
+#### Head for The Eye of Ibni-Belum
+
+#### Activate The Eye of Ibni-Belum
 
 #### Talk to Eggie
 
@@ -1708,7 +1981,7 @@ Sorry, what was that about snacks?
 
 **Eggie:** The system cannot confirm this person's identity...
 
-Looks like we have to check it out in person.
+- **Traveler:** Looks like we have to check it out in person.
 
 **Paimon:** Hmm... We can't be totally sure, but at least we have a lead for now... So, how are we gonna get there?
 
@@ -1734,11 +2007,11 @@ Looks like we have to check it out in person.
 
 **Eggie:** There is a hidden module... "Project Moongazer"... It responded to me...
 
-Any new intel?
+- **Traveler:** Any new intel?
 
 **Eggie:** The module... records the origins of this tower...
 
-**Eggie:** It starts with a dragon pioneer named Ibnithe first Moongazer-Belum...
+**Eggie:** It starts with a dragon pioneer named Ibni(the first Moongazer)-Belum...
 
 **Eggie:** The lunar vessel we traveled in... was his creation... He was the one who led dragon researchers to the moon...
 
@@ -1766,7 +2039,7 @@ Any new intel?
 
 **Eggie:** This place, the Eye... It was originally a deep-space signal transceiver station... built to recapture that signal...
 
-And... did they succeed?
+- **Traveler:** And... did they succeed?
 
 **Eggie:** Many years went by... the pioneer passed away... but the signal never appeared again...
 
@@ -1776,7 +2049,7 @@ And... did they succeed?
 
 **Paimon:** Aww, what a shame... Wow, Paimon feels like we just stumbled on something super important...
 
-And this is "Project Moongazer"?
+- **Traveler:** And this is "Project Moongazer"?
 
 **Eggie:** No... these are just the log entries I read...
 
@@ -1792,9 +2065,9 @@ And this is "Project Moongazer"?
 
 **Paimon:** Hey, you're the one who gets twenty percent. Paimon's getting eighty!
 
-Sounds like Eggie is a key mold of sorts.
+- **Traveler:** Sounds like Eggie is a key mold of sorts.
 
-Some content is missing, so a key can't be forged.
+- **Traveler:** Some content is missing, so a key can't be forged.
 
 **Paimon:** Hmm... Yeah, Paimon feels like that's exactly it! Come to think of it, could this "Project Moongazer" be connected to Eggie's mission?
 
@@ -1810,9 +2083,15 @@ Some content is missing, so a key can't be forged.
 
 **Paimon:** While Paimon could certainly do without the attitude, if this is Eggie's mission, then Paimon's gonna help!
 
+##### Response branch 1
+
 - **Traveler:** Behold, Paimon the Observant!
 
+##### Response branch 2
+
 - **Traveler:** Behold, Paimon the Generous!
+
+##### Shared continuation
 
 **Paimon:** Heh! Well, Eggie did help us look for Columbina, didn't she?
 
@@ -1822,7 +2101,7 @@ Some content is missing, so a key can't be forged.
 
 **Paimon:** Hehehe. So, should we head to the next stop now?
 
-Let's go.
+- **Traveler:** Let's go.
 
 **Paimon:** Yay! Second stop on our super awesome lunar adventure — the "Ungi-Ungi Circle"! Let's go!
 
@@ -1833,6 +2112,16 @@ Let's go.
 ### Visitors From the Stars
 
 You learn Columbina's location through the terminal at The Eye of Ibni-Belum. She might be at the next facility...
+
+#### Get on the high-speed transit lane
+
+#### Get on the high-speed transit lane
+
+#### Head to Ungien's Circle
+
+#### Head to Ungien's Circle
+
+#### Help the kuuhenki fend off the monsters
 
 #### Talk to Eggie
 
@@ -1852,6 +2141,10 @@ You learn Columbina's location through the terminal at The Eye of Ibni-Belum. Sh
 
 **Eggie:** Hmm... Let's follow the giant lifeform first... It will lead us into Ungien's Circle.
 
+#### Follow the kuuhenki to Ungien's Circle
+
+#### Follow the kuuhenki to Ungien's Circle
+
 #### Observe Ungien's Circle
 
 **Paimon:** Whoa, Paimon suddenly felt like a ton of bricks the moment she flew in here!
@@ -1862,15 +2155,23 @@ You learn Columbina's location through the terminal at The Eye of Ibni-Belum. Sh
 
 **Paimon:** But why couldn't we see them from the outside?
 
-This place doesn't look like it formed naturally...
+- **Traveler:** This place doesn't look like it formed naturally...
 
 **Paimon:** You mean someone built this place? ...Was it that Ungi-Ungi guy?
 
-We'll probably find out when we find that terminal.
+- **Traveler:** We'll probably find out when we find that terminal.
 
 **Eggie:** We should follow them...
 
 **Paimon:** Oh! Eggie's buddies are leading the way! Quick, after 'em!
+
+#### Follow the kuuhenki to find the terminal
+
+#### Follow the kuuhenki to find the terminal
+
+#### Defeat the monsters
+
+#### Find a way to clear the Moonlit Vines
 
 #### Talk to Eggie
 
@@ -1881,6 +2182,8 @@ We'll probably find out when we find that terminal.
 **Paimon:** Huh? What did you do, Eggie?
 
 **Eggie:** Let's try that again...
+
+#### Find a way to clear the Moonlit Vines
 
 #### Activate the terminal
 
@@ -1896,7 +2199,7 @@ We'll probably find out when we find that terminal.
 
 **Eggie:** Knotted Moonlight Vines... They grow in places where the ancient moon's power has been thrown into turmoil... perhaps that's why...
 
-Is there any useful information?
+- **Traveler:** Is there any useful information?
 
 **Eggie:** There's a damaged engineering blueprint here...
 
@@ -1910,23 +2213,43 @@ Is there any useful information?
 
 **Paimon:** Look! There's that Mega Kuuhenki again! And it's flying up that big tree...
 
-Odds are that Columbina is over there.
+- **Traveler:** Odds are that Columbina is over there.
 
 **Paimon:** Let's hope you're right! Come on. Next stop, that tree!
 
+#### Advance in the direction of the large tree
+
 #### Examine the inside of the trunk through the gap
 
-**Paimon:** Nothing interesting on the right.
+##### Response branch 1
 
-**Paimon:** There's a little pavilion in the middle with these really tall struts on top... Could that be the antenna setup we saw earlier?
-
-**Paimon:** Ooh! There's a door to the left of the pavilion! Seems like a back door... and where there's a back door, there's gotta be a path! Let's find it!
-
-- **Traveler:** Look Left
+##### Response branch 2
 
 - **Traveler:** Look at the Middle
 
+**Paimon:** There's a little pavilion in the middle with these really tall struts on top... Could that be the antenna setup we saw earlier?
+
+##### Response branch 3
+
 - **Traveler:** Look Right
+
+**Paimon:** Nothing interesting on the right.
+
+##### Shared continuation
+
+- **Traveler:** Look Left
+
+**Paimon:** Ooh! There's a door to the left of the pavilion! Seems like a back door... and where there's a back door, there's gotta be a path! Let's find it!
+
+#### Search for the path on the left
+
+#### Activate the lift
+
+#### Check the power system
+
+#### Follow the path
+
+#### Activate the terminal
 
 #### Head underground to solve the power issue
 
@@ -1974,11 +2297,15 @@ Odds are that Columbina is over there.
 
 **Eggie:** I haven't found any relevant records...
 
-We might find more intel at the capture station.
+- **Traveler:** We might find more intel at the capture station.
 
 **Paimon:** Makes sense. First off, though, we have to solve our power problem...
 
 **Paimon:** The blueprints say the power system's underground, so let's get moving!
+
+#### Head underground to solve the power issue
+
+#### Head underground to solve the power issue
 
 #### Stay within the occlusion field
 
@@ -1990,6 +2317,22 @@ We might find more intel at the capture station.
 
 **Eggie:** But don't worry... this occlusion field can temporarily hold the storms back... so long as we don't exit the generator's range...
 
+#### Head underground to solve the power issue
+
+#### Check the cause of the power malfunction
+
+#### Clear the vines on the second turbine
+
+#### Clear the vines on the third turbine
+
+#### Head for the next safe occlusion field
+
+#### Clear the remaining vines
+
+#### Activate the terminal and restart the power engine
+
+#### Protect Eggie while she reads the terminal
+
 #### Talk to Eggie
 
 **Paimon:** Eggie, Traveler's beaten those monsters! How are things on your end?
@@ -1998,7 +2341,7 @@ We might find more intel at the capture station.
 
 **Paimon:** Huh? Is that recorded in this one, too?
 
-What does the terminal say?
+- **Traveler:** What does the terminal say?
 
 **Eggie:** Nothing about the project... but there's a supplementary note...
 
@@ -2008,11 +2351,11 @@ What does the terminal say?
 
 **Paimon:** "To Mr. Alhaitham — thank you for your contributions to Paimon's studies," or something like that...
 
-You've written a thank-you message before, Paimon?
+- **Traveler:** You've written a thank-you message before, Paimon?
 
 **Paimon:** Paimon saw one on Alhaitham's desk! One of his students must have written it.
 
-Then who left this message?
+- **Traveler:** Then who left this message?
 
 **Eggie:** That's all it says... There are no further records...
 
@@ -2023,6 +2366,24 @@ Then who left this message?
 **Paimon:** Oh! It worked!
 
 **Paimon:** Uh oh... Those big wheels are spinning so fast, they might suck us in! We gotta skedaddle — now!
+
+#### Return to the surface
+
+#### Return to the surface
+
+#### Use the emergency passageway to return to the surface
+
+#### Flee from the spinning turbine
+
+#### Power engine repair complete
+
+#### Ride the Skymount
+
+#### Ride the Skymount
+
+#### Entering space...
+
+#### Search for Columbina
 
 #### Search for Columbina
 
@@ -2038,7 +2399,7 @@ Then who left this message?
 
 **Paimon:** Columbina! It's really you this time! Finally, we've found you!
 
-Are we interrupting anything by dropping by unannounced?
+- **Traveler:** Are we interrupting anything by dropping by unannounced?
 
 **Columbina:** Of course not. I'm glad to see you. I'd go so far as to call this a pleasant surprise.
 
@@ -2046,7 +2407,7 @@ Are we interrupting anything by dropping by unannounced?
 
 **Columbina:** Still, how did you get to the moon?
 
-It's a long story.
+- **Traveler:** It's a long story.
 
 You tell Columbina about how you accidentally wound up flying to the moon in a spaceship.
 
@@ -2112,7 +2473,7 @@ You tell Columbina about how you accidentally wound up flying to the moon in a s
 
 **Columbina:** Don't worry, that only happens between Ninnin and her own kind.
 
-But why did she take your form?
+- **Traveler:** But why did she take your form?
 
 **Columbina:** I lent her my power so the Frostmoon Scions wouldn't worry if they suddenly discovered a black kuuhenki but couldn't find me.
 
@@ -2138,7 +2499,7 @@ But why did she take your form?
 
 **Paimon:** That won't do! Paimon still wants to attend your moon party!
 
-What's the matter with the lunar sea?
+- **Traveler:** What's the matter with the lunar sea?
 
 **Columbina:** Maggie.
 
@@ -2152,7 +2513,7 @@ What's the matter with the lunar sea?
 
 **Paimon:** Oh dear. Companions are supposed to get along, not fight. Take Traveler and Paimon, for instance. We never fight about anything.
 
-I care for the young.
+- **Traveler:** I care for the young.
 
 **Paimon:** I respect my elders.
 
@@ -2196,7 +2557,7 @@ I care for the young.
 
 **Paimon:** Maagees-Geti? Wait a minute... isn't that the name from the terminal just now?
 
-Ungien's lover, yes.
+- **Traveler:** Ungien's lover, yes.
 
 **Paimon:** So she turned into a Mega Kuuhenki!? What's going on? Then the second one... Ungie... Could that be...
 
@@ -2214,11 +2575,33 @@ You tell Columbina about the information you discovered in the terminal.
 
 **Paimon:** Okay, let's go!
 
+You leave the engine and return safely to the surface...
+
 ## ZH
 
 ### 星空访客
 
+#### 任务记录
+
 通过「伊比尼伯龙之眼」的终端，你们得知了哥伦比娅的位置，她可能在就下一座设施之中…
+
+通过「伊比尼伯龙之眼」的终端，你们得知了哥伦比娅的位置，她可能在就下一座设施之中…
+
+通过「伊比尼伯龙之眼」的终端，你们得知了哥伦比娅的位置，她可能就在下一座设施之中…
+
+#### 前往月海
+
+#### 一同前往月海
+
+#### 一同前往月海
+
+#### 一同前往月海
+
+#### 一同前往月海
+
+#### 一同前往月海
+
+#### 与哥伦比娅会合
 
 #### 查看玛歌的情况
 
@@ -2238,11 +2621,11 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 可恶…好吧，那现在怎么办？乌吉已经回来了，我们要先撤回去，等下一次机会吗？
 
-来不及了。
+- **旅行者:** 来不及了。
 
 **哥伦比娅:** 嗯…古月风暴已经逼近了乌吉恩圈，那里还有很多小生灵。
 
-你照顾玛歌，我们去拿古月之源。
+- **旅行者:** 你照顾玛歌，我们去拿古月之源。
 
 **哥伦比娅:** 好，但小心一些。
 
@@ -2253,6 +2636,30 @@ You tell Columbina about the information you discovered in the terminal.
 **派蒙:** 好！交给我们吧！
 
 **黑蛋:** 我也来…帮忙…
+
+#### 跟随群游月灵前进
+
+#### 在月海中前进
+
+#### 解救受困的群游月灵
+
+#### 跟随群游月灵
+
+#### 穿越月海
+
+#### 击败魔物
+
+#### 与群游月灵交互
+
+#### 跟随群游月灵变化出的荧鳍鲸
+
+#### 穿越月海
+
+#### 继续前进
+
+#### 夺取月海中央的古月之源
+
+#### 夺取月海中央的古月之源
 
 #### 与派蒙交谈
 
@@ -2270,7 +2677,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 这是一个叫做…卢沙里姆的学者制造出的能量体…
 
-卢沙里姆是谁？
+- **旅行者:** 卢沙里姆是谁？
 
 **黑蛋:** 是乌吉恩和玛歌的学生…应该也是…在终端中写下留言的人…
 
@@ -2292,7 +2699,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 一座巨大的月幕发生器…在这里建立了…它能遮蔽整个月亮…
 
-可现在月亮并没有被藏起来。
+- **旅行者:** 可现在月亮并没有被藏起来。
 
 **黑蛋:** 因为就在月幕成形的前夕…一位天外而来的存在戳破了它。
 
@@ -2302,7 +2709,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 等等…天外而来的存在？！难道是那一位？！
 
-高天的主宰…
+- **旅行者:** 高天的主宰…
 
 **黑蛋:** 那个存在的降临，没有人预料到。但它的到来，却改变了一切…
 
@@ -2313,6 +2720,12 @@ You tell Columbina about the information you discovered in the terminal.
 **哥伦比娅:** 小心！
 
 **派蒙:** 糟了！乌吉在下面！快躲开！
+
+#### 击退乌吉
+
+#### 击退乌吉
+
+#### 击退乌吉
 
 #### 与黑蛋交谈
 
@@ -2366,9 +2779,15 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 欸？这是…
 
+##### 对话分支 1
+
 - **旅行者:** 我也相信你，黑蛋。
 
+##### 对话分支 2
+
 - **旅行者:** 我也相信你，宁宁。
+
+##### 共同后续
 
 **黑蛋:** 谢谢你们…那我开始了…
 
@@ -2430,7 +2849,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 而后，乌吉恩醒来了，他向龙族传递了一个消息。
 
-什么消息？
+- **旅行者:** 什么消息？
 
 **黑蛋:** 没有关于这方面的内容。
 
@@ -2444,7 +2863,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **哥伦比娅:** 真是令人惊讶的情况…这样看，那则消息或许就是望月者计划的关键内容，我越来越好奇那是什么了。
 
-看来我们还得去其他地方找找看。
+- **旅行者:** 看来我们还得去其他地方找找看。
 
 **派蒙:** 那之后…乌吉恩还活着吗？
 
@@ -2474,7 +2893,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **哥伦比娅:** 他是否也在某个地方建立了研究设施呢？望月者计划的关键内容应该就保存在那里。
 
-他的研究设施恐怕已经不存在了。
+- **旅行者:** 他的研究设施恐怕已经不存在了。
 
 **哥伦比娅:** 嗯？你们有过发现吗？
 
@@ -2484,7 +2903,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **哥伦比娅:** 我不得不想到…那位高天的主宰。
 
-我也这么认为。
+- **旅行者:** 我也这么认为。
 
 **哥伦比娅:** 能够遮蔽月亮的天幕…听起来又和虚假之天很相似。
 
@@ -2552,9 +2971,9 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 真的哦…居然谈起回报了！但我们是朋友，不用谈这些啦！
 
-**哥伦比娅:** 嗯，这一点，还是他 / 她教我的，宁宁你也可以学一学。
+**哥伦比娅:** 嗯，这一点，还是他教我的，宁宁你也可以学一学。 / 嗯，这一点，还是她教我的，宁宁你也可以学一学。
 
-是我的荣幸。
+- **旅行者:** 是我的荣幸。
 
 **哥伦比娅:** 所以，准备好了就跟我来吧。
 
@@ -2564,19 +2983,21 @@ You tell Columbina about the information you discovered in the terminal.
 
 #### 航行中…
 
-（怎么…回事…？）
+- **旅行者:** （怎么…回事…？）
 
-（对了，是飞船发生了事故…我们进入了逃生舱…已经成功降落了吗？）
+- **旅行者:** （对了，是飞船发生了事故…我们进入了逃生舱…已经成功降落了吗？）
 
-（我似乎还在逃生舱里…得赶紧去确认派蒙的情况…）
+- **旅行者:** （我似乎还在逃生舱里…得赶紧去确认派蒙的情况…）
 
-（离开逃生舱。）
+- **旅行者:** （离开逃生舱。）
+
+#### 想办法回到地面
 
 #### 与派蒙交谈
 
 **派蒙:** 呜呜呜，旅行者！我就知道你一定会没事的。
 
-派蒙还好吗？
+- **旅行者:** 派蒙还好吗？
 
 **派蒙:** 刚才很不好，我从逃生舱里出来一看，你们都不见了，差点吓死我了。
 
@@ -2584,7 +3005,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 快让我看看，你有没有哪里受伤？
 
-放心，我也没事。
+- **旅行者:** 放心，我也没事。
 
 **派蒙:** 这样我就不担心了，没想到飞船居然出了问题…不对，其实这种事早就该想到的…
 
@@ -2592,55 +3013,43 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 而且虽然过程有些糟糕…但我们最后还是成功来到了月球上…
 
-真是强劲的龙族科技。
+- **旅行者:** 真是强劲的龙族科技。
 
 **派蒙:** 都怪刚才黑蛋太引人注意，让我忘记好好检查一下飞船。
 
 **派蒙:** 啊对了！黑蛋呢？我记得她也钻进了逃生舱。
 
-我们得去找她。
+- **旅行者:** 我们得去找她。
 
 **派蒙:** 希望她不要有事！
 
 #### 寻找黑蛋
 
-**派蒙:** 这样就成功了吧！比预想中要顺利呢。
-
-**派蒙:** 现在是不是还需要去激活第三座能源发生站？
-
-**黑蛋:** 看…那个已经是激活状态了。
-
-**派蒙:** 真的欸…第三座能源发生站居然是好的吗？龙族科技果然强劲…
-
-也有可能是其他人激活的。
-
-**派蒙:** 其他人？你是说…哥伦比娅？这么一想也只能是她了…可她为什么只激活了一座呢？
-
-**派蒙:** 该不会…她发现了什么不对劲的地方吧？难道这里面有什么问题？
-
-**派蒙:** 喂…黑蛋，你不会又坑了我们吧？那我可要扣你的好感度了！
-
-**黑蛋:** 虽然不知道…我的使命是什么…
-
-**黑蛋:** 但是一定不包括…提升谁的好感度…
-
-**派蒙:** 哈呀？黑蛋，你变了！是终端的信息让你膨胀了吗？
-
-还是先去「伊比尼伯龙之眼」看看吧。
-
-**黑蛋:** 嗯…旅行者…更加理性…稳重…擅于思考…是更好的合作伙伴…不像派蒙…
-
-**黑蛋:** 我们出发吧…旅行者…我跟着你走…
-
-**派蒙:** 哈呀？！黑蛋！我要再扣你一成零食！
-
 #### 前往地下
+
+#### 与派蒙交谈
 
 **派蒙:** 看！逃生舱！这是黑蛋的逃生舱吧？
 
 **派蒙:** 但她好像已经不在里面了…应该也是顺利逃出来了吧。
 
 **派蒙:** 会是逃进了这个像遗迹一样的地方吗…感觉我们得进去找一找了。
+
+#### 在遗迹内寻找黑蛋
+
+#### 打开通道门
+
+#### 在遗迹内寻找黑蛋
+
+#### 在遗迹内寻找黑蛋
+
+#### 在遗迹内寻找黑蛋
+
+#### 激活机关
+
+#### 在遗迹内寻找黑蛋
+
+#### 在遗迹内寻找黑蛋
 
 #### 救出黑蛋
 
@@ -2668,6 +3077,8 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 哦！是不是我们来的时候看见的那个？我们快去找找。
 
+#### 返回入口的终端
+
 #### 激活终端
 
 **派蒙:** 黑蛋，你说的终端就是这个吧？
@@ -2676,7 +3087,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 啊…
 
-你还好吗？
+- **旅行者:** 你还好吗？
 
 **黑蛋:** 宁…宁…
 
@@ -2698,13 +3109,13 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 黑蛋一定是因为身上有同样的力量，才被当成能源抓走了。
 
-能源发生站是用来做什么的？
+- **旅行者:** 能源发生站是用来做什么的？
 
 **黑蛋:** 为…「伊比尼伯龙之眼」…供能…
 
 **派蒙:** 伊比尼伯龙…之眼？那又是什么？听起来有些耳熟。
 
-是飞船降落地点之一。
+- **旅行者:** 是飞船降落地点之一。
 
 **派蒙:** 伊比尼伯龙…之眼？那又是什么？
 
@@ -2716,7 +3127,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 嗯…我们就在其中一个里面…
 
-「伊比尼伯龙之眼」具体是干什么的？
+- **旅行者:** 「伊比尼伯龙之眼」具体是干什么的？
 
 **黑蛋:** 工作日志里记录…它是一座月球表面监测站…能够监测月球全表面。
 
@@ -2726,7 +3137,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 我不知道…但是…存在这种可能性…
 
-看来我们得去那里看看。
+- **旅行者:** 看来我们得去那里看看。
 
 **黑蛋:** 我们已经启动了…第一座…
 
@@ -2752,11 +3163,21 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 好吧…宁宁·黑蛋。
 
-什么零食？
+- **旅行者:** 什么零食？
 
 **派蒙:** 哎呀，这是我们的小秘密啦。
 
 **派蒙:** 快，我们该出发去其它能源发生站了！
+
+#### 返回地面
+
+#### 返回地面
+
+#### 寻找其它能源发生站
+
+#### 击败魔物
+
+#### 激活终端
 
 #### 与黑蛋交谈
 
@@ -2779,6 +3200,44 @@ You tell Columbina about the information you discovered in the terminal.
 **黑蛋:** 讯号定位器…在最顶部…需要手动调整…
 
 **派蒙:** 这样么…那我们先想办法上去看看吧。
+
+#### 前往顶部调整讯号定位器
+
+#### 与黑蛋交谈
+
+**派蒙:** 这样就成功了吧！比预想中要顺利呢。
+
+**派蒙:** 现在是不是还需要去激活第三座能源发生站？
+
+**黑蛋:** 看…那个已经是激活状态了。
+
+**派蒙:** 真的欸…第三座能源发生站居然是好的吗？龙族科技果然强劲…
+
+- **旅行者:** 也有可能是其他人激活的。
+
+**派蒙:** 其他人？你是说…哥伦比娅？这么一想也只能是她了…可她为什么只激活了一座呢？
+
+**派蒙:** 该不会…她发现了什么不对劲的地方吧？难道这里面有什么问题？
+
+**派蒙:** 喂…黑蛋，你不会又坑了我们吧？那我可要扣你的好感度了！
+
+**黑蛋:** 虽然不知道…我的使命是什么…
+
+**黑蛋:** 但是一定不包括…提升谁的好感度…
+
+**派蒙:** 哈呀？黑蛋，你变了！是终端的信息让你膨胀了吗？
+
+- **旅行者:** 还是先去「伊比尼伯龙之眼」看看吧。
+
+**黑蛋:** 嗯…旅行者…更加理性…稳重…擅于思考…是更好的合作伙伴…不像派蒙…
+
+**黑蛋:** 我们出发吧…旅行者…我跟着你走…
+
+**派蒙:** 哈呀？！黑蛋！我要再扣你一成零食！
+
+#### 前往「伊比尼伯龙之眼」
+
+#### 启动「伊比尼伯龙之眼」
 
 #### 与黑蛋交谈
 
@@ -2804,7 +3263,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 系统无法确认身份…
 
-感觉需要过去看看了。
+- **旅行者:** 感觉需要过去看看了。
 
 **派蒙:** 嗯…虽然不能确定，但是至少有了方向…所以我们要怎么过去？
 
@@ -2830,11 +3289,11 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 有一个隐藏模块…「望月者计划」…它响应了我…
 
-是什么新情报吗？
+- **旅行者:** 是什么新情报吗？
 
 **黑蛋:** 这个模块…记录着这座高塔的起源…
 
-**黑蛋:** 它来自一位龙族先驱，名字是「伊比尼最初的望月者伯龙」…
+**黑蛋:** 它来自一位龙族先驱，名字是「伊比尼(最初的望月者)伯龙」…
 
 **黑蛋:** 我们乘坐的登月飞船…也是他的成果…是他带领着普通的龙族学者来到了月亮上…
 
@@ -2862,7 +3321,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 这座「伊比尼伯龙之眼」…最初其实是一座深空信号接发站…为了再次捕捉那个信号…
 
-那后来他们成功了吗？
+- **旅行者:** 那后来他们成功了吗？
 
 **黑蛋:** 后来…过去了很多年…直到那位先驱离世…信号都没有再出现…
 
@@ -2872,7 +3331,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 好遗憾啊…感觉我们知道了很不得了的事…
 
-这就是「望月者计划」吗？
+- **旅行者:** 这就是「望月者计划」吗？
 
 **黑蛋:** 不…这些只是我读取到的日志信息…
 
@@ -2888,9 +3347,9 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 两成是你的，我有八成！
 
-听起来黑蛋像是一个钥匙模具。
+- **旅行者:** 听起来黑蛋像是一个钥匙模具。
 
-缺少了内容物，所以打造不出钥匙。
+- **旅行者:** 缺少了内容物，所以打造不出钥匙。
 
 **派蒙:** 欸？好像感觉就是这个意思！这么想的话，这个「望月者计划」会不会跟黑蛋的使命有关呢？
 
@@ -2906,9 +3365,15 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 虽然我不喜欢这样的变化，但如果和她的使命有关，我也只能支持她了。
 
+##### 对话分支 1
+
 - **旅行者:** 哇，是细心派蒙！
 
+##### 对话分支 2
+
 - **旅行者:** 哇，是大方派蒙！
+
+##### 共同后续
 
 **派蒙:** 哼哼，毕竟黑蛋也有帮我们找哥伦比娅嘛。
 
@@ -2918,7 +3383,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 嘿嘿，那我们现在该去下一站了吧？
 
-出发吧。
+- **旅行者:** 出发吧。
 
 **派蒙:** 好耶！月球大冒险第二站——「乌吉乌吉圈」！出发！
 
@@ -2928,7 +3393,17 @@ You tell Columbina about the information you discovered in the terminal.
 
 ### 星空访客
 
-通过「伊比尼伯龙之眼」的终端，你们得知了哥伦比娅的位置，她可能在就下一座设施之中…
+通过「伊比尼伯龙之眼」的终端，你们得知了哥伦比娅的位置，她可能就在下一座设施之中…
+
+#### 登上高速换行通道
+
+#### 登上高速换行通道
+
+#### 前往乌吉恩圈
+
+#### 前往乌吉恩圈
+
+#### 帮助月灵抵御魔物
 
 #### 与黑蛋交谈
 
@@ -2948,6 +3423,10 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 嗯…先跟上它…它会带我们进入乌吉恩圈。
 
+#### 跟随月灵进入乌吉恩圈
+
+#### 跟随月灵进入乌吉恩圈
+
 #### 观察乌吉恩圈
 
 **派蒙:** 哎呀，一进来就感觉到身体变重了！
@@ -2958,15 +3437,23 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 可为什么外面一点也看不出来呢？
 
-这里看起来不是自然诞生的。
+- **旅行者:** 这里看起来不是自然诞生的。
 
 **派蒙:** 你是说有人建造了这个地方吗？该不会是那个乌吉乌吉吧？
 
-找到终端应该就知道了。
+- **旅行者:** 找到终端应该就知道了。
 
 **黑蛋:** 跟上它们…
 
 **派蒙:** 哦！黑蛋的老乡在带路！快跟上！
+
+#### 跟随月灵寻找终端
+
+#### 跟随月灵寻找终端
+
+#### 击败魔物
+
+#### 设法清理月光藤蔓
 
 #### 与黑蛋交谈
 
@@ -2977,6 +3464,8 @@ You tell Columbina about the information you discovered in the terminal.
 **派蒙:** 咦？黑蛋你做了什么？
 
 **黑蛋:** 再试试吧…
+
+#### 设法清理月光藤蔓
 
 #### 激活终端
 
@@ -2992,7 +3481,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 淤结月光藤蔓…会长在古月之力紊乱的地方…也许是这个原因…
 
-还有有用的情报吗？
+- **旅行者:** 还有有用的情报吗？
 
 **黑蛋:** 有一张损毁的工程蓝图…
 
@@ -3006,23 +3495,43 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 快看！月灵大王又出现了！它往那棵大树上面飞去了…
 
-哥伦比娅在那边的可能性很高。
+- **旅行者:** 哥伦比娅在那边的可能性很高。
 
 **派蒙:** 希望不会有错，我们往那棵大树的方向前进吧。
 
+#### 往大树的方向前进
+
 #### 通过缝隙观察树干内部
 
-**派蒙:** 右边好像没有值得在意的东西。
+##### 对话分支 1
 
-**派蒙:** 中间有一个小亭子，亭子上面有几根很高的架子…那不会就是我们前面看见的天线吧？
-
-**派蒙:** 咦！小亭子左边有个门！看起来是后门呢，既然有后门一定就有路，我们在附近找一找吧。
-
-- **旅行者:** 看向左边
+##### 对话分支 2
 
 - **旅行者:** 看向中间
 
+**派蒙:** 中间有一个小亭子，亭子上面有几根很高的架子…那不会就是我们前面看见的天线吧？
+
+##### 对话分支 3
+
 - **旅行者:** 看向右边
+
+**派蒙:** 右边好像没有值得在意的东西。
+
+##### 共同后续
+
+- **旅行者:** 看向左边
+
+**派蒙:** 咦！小亭子左边有个门！看起来是后门呢，既然有后门一定就有路，我们在附近找一找吧。
+
+#### 寻找左侧的小路
+
+#### 启动升降梯
+
+#### 检查动力系统
+
+#### 沿小路前进
+
+#### 激活终端
 
 #### 前往地下解决动力问题
 
@@ -3070,11 +3579,15 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 没有相关的记录…
 
-也许星空生物捕捉站里有更多情报。
+- **旅行者:** 也许星空生物捕捉站里有更多情报。
 
 **派蒙:** 我觉得你说得很有道理。看来现在必须先去解决动力问题了…
 
 **派蒙:** 按照设计图的指示，动力系统就在地下，我们快些前进吧。
+
+#### 前往地下解决动力问题
+
+#### 前往地下解决动力问题
 
 #### 停留在阻滞力场内
 
@@ -3086,6 +3599,22 @@ You tell Columbina about the information you discovered in the terminal.
 
 **黑蛋:** 不过别担心…这个阻滞力场能够暂时阻隔它们…只要我们不离开发生器的范围…
 
+#### 前往地下解决动力问题
+
+#### 检查动力系统故障原因
+
+#### 清除第二涡轮的藤蔓
+
+#### 清除第三涡轮的藤蔓
+
+#### 前往下一个安全的阻滞力场
+
+#### 清除剩余藤蔓
+
+#### 激活终端，重启动力引擎
+
+#### 保护黑蛋读取终端
+
 #### 与黑蛋交谈
 
 **派蒙:** 黑蛋，旅行者把那些魔物都解决啦，你这边怎么样？
@@ -3094,7 +3623,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 欸？这里也记录了望月者计划？
 
-内容是什么？
+- **旅行者:** 内容是什么？
 
 **黑蛋:** 没有计划的内容…只是一段补充文字…
 
@@ -3104,11 +3633,11 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 「给艾尔海森老师——感谢你为我的学业做出的贡献。」什么什么的…
 
-派蒙还写过致谢吗？
+- **旅行者:** 派蒙还写过致谢吗？
 
 **派蒙:** 是我在艾尔海森的办公桌上看到的！肯定是他的学生写的吧？
 
-那这段话是谁留下的？
+- **旅行者:** 那这段话是谁留下的？
 
 **黑蛋:** 就只有这些内容…没有更多记录了…
 
@@ -3119,6 +3648,24 @@ You tell Columbina about the information you discovered in the terminal.
 **派蒙:** 哦！成功了！
 
 **派蒙:** 不好…那些大轮子转得有点太快了…好像要把我们吸过去了，得赶紧离开这里！
+
+#### 返回地面
+
+#### 返回地面
+
+#### 使用紧急通道返回地面
+
+#### 逃离运转的涡轮
+
+#### 动力引擎修复完成
+
+#### 搭乘天攀艏
+
+#### 搭乘天攀艏
+
+#### 进入太空…
+
+#### 寻找哥伦比娅
 
 #### 寻找哥伦比娅
 
@@ -3134,7 +3681,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 哥伦比娅！真的是你！跑了这么远，我们终于找到你了。
 
-突然上门，有没有打扰你？
+- **旅行者:** 突然上门，有没有打扰你？
 
 **哥伦比娅:** 当然不会，我很高兴见到你们，可以说是惊喜。
 
@@ -3142,7 +3689,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **哥伦比娅:** 但你们是怎么来到月亮上的？我也很好奇。
 
-这个就说来话长了。
+- **旅行者:** 这个就说来话长了。
 
 告诉了哥伦比娅误打误撞乘飞船来到月球的事。
 
@@ -3208,7 +3755,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **哥伦比娅:** 不用担心，这种情况只在宁宁和她的同类身上发生。
 
-那她为什么会变成你的样子？
+- **旅行者:** 那她为什么会变成你的样子？
 
 **哥伦比娅:** 是我借给她的力量。以免霜月之子看见一只黑色的月灵却又找不到我，而产生不必要的担忧。
 
@@ -3234,7 +3781,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 那怎么行，我还要参加月球派对呢！
 
-那月海的暴动是怎么回事？
+- **旅行者:** 那月海的暴动是怎么回事？
 
 **哥伦比娅:** 玛歌。
 
@@ -3248,7 +3795,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 哎呀，伙伴之间要好好相处，不要打架。我和旅行者就从来不打架。
 
-我爱护幼小。
+- **旅行者:** 我爱护幼小。
 
 **派蒙:** 我尊重长辈。
 
@@ -3292,7 +3839,7 @@ You tell Columbina about the information you discovered in the terminal.
 
 **派蒙:** 玛歌洁蒂？等一下，这个名字…不是刚才那个终端里的名字吗？
 
-是乌吉恩的爱人。
+- **旅行者:** 是乌吉恩的爱人。
 
 **派蒙:** 她变成了月灵大王？！这是怎么回事？！那月灵二大王…乌吉…难道是…
 
@@ -3309,3 +3856,5 @@ You tell Columbina about the information you discovered in the terminal.
 **哥伦比娅:** 先跟我来吧，等解决了古月风暴的问题，可能会有办法和乌吉交流。
 
 **派蒙:** 那我们出发！
+
+离开动力引擎，顺利返回了地面…

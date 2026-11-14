@@ -14,17 +14,21 @@
 # chapter_num_zh:
 # part_source_ids: 71127
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_71127
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 71127
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
 ### Застланный облаками путь к Обители Чиван
 
 Паймон немного обеспокоена состоянием Адепта Фу Цзинь. Если есть свободное время, было бы неплохо ещё раз посетить террасу Чиван.
+
+#### Поднимитесь на вершину горы Лайсинь
 
 #### Поговорите с Лин Юань
 
@@ -46,17 +50,23 @@
 
 **Лин Юань:** Забыла.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Нужна помощь?
 
-- **Путешественник:** Поздно же ты спохватилась, Лазурь.
-
 **Лин Юань:** Силы Адептов, которой вы обладаете, достаточно, чтобы открыть врата Покоев Карпа. Так что да, мне нужна ваша помощь.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Поздно же ты спохватилась, Лазурь.
 
 **Паймон:** Да, как ты могла забыть о столь важном факте? Ну, правда!
 
 **Лин Юань:** Это потому, что я зверь, мыслящий медленно. Видя её, я думаю о многом. Но и многое забываю. Это моя вина.
 
 **Лин Юань:** Силы Адептов, которой вы обладаете, достаточно, чтобы открыть врата Покоев Карпа. Мне нужна ваша помощь.
+
+##### Общее продолжение
 
 **Паймон:** А? Погоди-ка, так ты всё это время ждала нас здесь?
 
@@ -69,6 +79,88 @@
 **Лин Юань:** Идите за мной.
 
 #### Отправляйтесь к Покоям Карпа
+
+#### Войдите в Покои Карпа
+
+#### Войдите в Покои Карпа
+
+#### Найдите Фу Цзинь
+
+**Голос Фу Цзинь:** А? Путешественник, Паймон и Лин Юань... Вы все пришли сюда? Почему?
+
+**Паймон:** Ого, это голос Фу Цзинь! И он... доносится откуда-то снизу?
+
+##### Вариант ответа 1
+
+- **Путешественник:** Я немного волнуюсь за тебя.
+
+**Паймон:** Да! Мы все беспокоимся о твоём здоровье, поэтому пришли, не предупредив... Но ты ж так же сделала в своё время, поэтому Паймон думает, что мы в расчёте!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Лин Юань немного волнуется за тебя.
+
+**Лин Юань:** Нет. Я...
+
+**Лин Юань:** ...
+
+**Паймон:** Да! Лин Юань так беспокоилась о твоём здоровье, что аж едва могла говорить, поэтому мы пришли сюда, не предупредив... Но ты ж так же сделала в своё время, поэтому Паймон думает, что мы в расчёте!
+
+##### Общее продолжение
+
+**Голос Фу Цзинь:** А? А! Простите! Когда я вернулась сюда, чтобы отдохнуть, я, кажется, забыла открыть проход! Мне очень жаль. Вы пришли сюда, чтобы увидеть меня, а столкнулись со столькими сложностями...
+
+**Паймон:** О, это было не так уж и сложно! Но почему ты... прячешься в луже?
+
+**Голос Фу Цзинь:** Хм, как бы сказать?.. Я пока не могу вернуться в ту форму, которую предпочитаю, а поскольку вы всегда видите меня в образе карпа, я не могу не чувствовать себя немного неловко...
+
+##### Вариант ответа 1
+
+- **Путешественник:** Мы же уже видели тебя много раз, верно?
+
+##### Вариант ответа 2
+
+- **Путешественник:** Нет смысла прятаться.
+
+##### Общее продолжение
+
+**Голос Фу Цзинь:** Ха-ха... Но раньше я могла превращаться в человека, когда захочу, поэтому я думала, что передвигаться в облике карпа - это вопрос удобства. А теперь я могу быть только скользкой рыбой, поэтому мне немного...
+
+**Паймон:** Странно, что ты так упорствуешь. Ну ладно, главное, что с тобой всё в порядке!
+
+**Паймон:** Но Лин Юань сказала, что твоя сила Адептов не была израсходована, она лишь рассеялась по горам, лесам и рекам долины Чэньюй. Вот почему ты так ослабла...
+
+**Паймон:** Если мы соберём рассеянную силу Адептов, как во время поиска золотого карпа в долине Яоде, ты восстановишься, верно?
+
+**Голос Фу Цзинь:** Да... По крайней мере, в теории, но...
+
+**Паймон:** Верно, верно? Поэтому, если мы увидим похожих карпов, нам нужно принести их сюда! Так ты восстановишь свои силы гораздо быстрее!
+
+**Голос Фу Цзинь:** Не хочу утруждать вас! Моя сила ещё не настолько слаба. Если я здесь отдохну, этого будет достаточно...
+
+- **Путешественник:** Нам не сложно...
+
+- **Путешественник:** Мы будем их высматривать, только и всего.
+
+**Голос Фу Цзинь:** Спасибо. Однако я не хочу больше беспокоить вас. Вы и так уже много для меня сделали.
+
+**Голос Фу Цзинь:** Если по дороге найдёте силу Адептов, перенесите её в нефрит.
+
+**Голос Фу Цзинь:** Баланс воды и почвы был восстановлен. Если мы сможем добавить больше силы в Заветный нефрит, то обеспечим благоприятную погоду и процветание в будущем году.
+
+**Лин Юань:** А как же ты?
+
+**Голос Фу Цзинь:** Ну, я же вам сказала. Мне нужно всего лишь отдохнуть!
+
+**Голос Фу Цзинь:** Путешественник, Паймон, я действительно благодарна и счастлива, что вы решили навестить меня. Впервые кто-то пришёл сюда после ухода Властительницы лекарств.
+
+**Голос Фу Цзинь:** И тебе спасибо, Лин Юань.
+
+**Лин Юань:** Я ничем не заслужила твоей благодарности.
+
+**Голос Фу Цзинь:** Ладно, ладно! Тогда считай, что я благодарю тебя за то, что ты привела сюда Путешественник и Паймон!
+
+**Голос Фу Цзинь:** И напоследок... Позвольте ещё раз поблагодарить вас, Путешественник и Паймон. За всё, что вы сделали.
 
 **Паймон:** Кстати говоря, это должна быть твоя обитель, верно, Фу Цзинь? Мне кажется, что она немного отличается от других обителей Адептов, в которых мы бывали... Как бы это сказать? Она кажется более... прагматичной?
 
@@ -98,17 +190,23 @@
 
 **Паймон:** Вот это да! Теперь Паймон стало любопытно. Какая ты в человеческом обличье, Лин Юань? Будешь ли ты такой же синей, как сейчас? Или ты была бы... чуть светлее?
 
+##### Вариант ответа 1
+
 - **Путешественник:** И мне интересно.
 
-- **Путешественник:** Лин Юань, можешь на секундочку превратиться человека?
-
 **Лин Юань:** Я не понимаю вашего любопытства. Вы сами люди. Если вас интересуют человеческие формы, посмотрите на себя.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Лин Юань, можешь на секундочку превратиться человека?
 
 **Лин Юань:** Я отказываюсь. Человеческие тела слабы. Им не хватает клыков, чтобы разрывать добычу, и когтей, чтобы преследовать врагов и охотиться. Я не стану делать этого без приказа Фу Цзинь.
 
 **Фу Цзинь:** Правда? В таком случае, думаю, нам стоит уважать желания Лин Юань...
 
 **Лин Юань:** У меня нет никаких желаний. Если у вас есть, скажите мне прямо.
+
+##### Общее продолжение
 
 **Фу Цзинь:** Хе-хе... Спасибо вам, Путешественник и Паймон. Я и представить себе не могла, что настанет день, когда я смогу свободно общаться с кем-то...
 
@@ -119,73 +217,6 @@
 **Фу Цзинь:** ...Простите, я немного увлеклась. Я хотела попробовать стать похожей на других Адептов, поэтому сказала несколько высокопарных фраз...
 
 **Фу Цзинь:** Я останусь здесь и буду молиться, чтобы ваше путешествие было успешным.
-
-#### Найдите Фу Цзинь
-
-**Фу Цзинь:** А? Путешественник, Паймон и Лин Юань... Вы все пришли сюда? Почему?
-
-**Паймон:** Ого, это голос Фу Цзинь! И он... доносится откуда-то снизу?
-
-- **Путешественник:** Я немного волнуюсь за тебя.
-
-- **Путешественник:** Лин Юань немного волнуется за тебя.
-
-**Паймон:** Да! Мы все беспокоимся о твоём здоровье, поэтому пришли, не предупредив... Но ты ж так же сделала в своё время, поэтому Паймон думает, что мы в расчёте!
-
-**Лин Юань:** Нет. Я...
-
-**Лин Юань:** ...
-
-**Паймон:** Да! Лин Юань так беспокоилась о твоём здоровье, что аж едва могла говорить, поэтому мы пришли сюда, не предупредив... Но ты ж так же сделала в своё время, поэтому Паймон думает, что мы в расчёте!
-
-**Фу Цзинь:** А? А! Простите! Когда я вернулась сюда, чтобы отдохнуть, я, кажется, забыла открыть проход! Мне очень жаль. Вы пришли сюда, чтобы увидеть меня, а столкнулись со столькими сложностями...
-
-**Паймон:** О, это было не так уж и сложно! Но почему ты... прячешься в луже?
-
-**Фу Цзинь:** Хм, как бы сказать?.. Я пока не могу вернуться в ту форму, которую предпочитаю, а поскольку вы всегда видите меня в образе карпа, я не могу не чувствовать себя немного неловко...
-
-- **Путешественник:** Мы же уже видели тебя много раз, верно?
-
-- **Путешественник:** Нет смысла прятаться.
-
-**Фу Цзинь:** Ха-ха... Но раньше я могла превращаться в человека, когда захочу, поэтому я думала, что передвигаться в облике карпа - это вопрос удобства. А теперь я могу быть только скользкой рыбой, поэтому мне немного...
-
-**Паймон:** Странно, что ты так упорствуешь. Ну ладно, главное, что с тобой всё в порядке!
-
-**Паймон:** Но Лин Юань сказала, что твоя сила Адептов не была израсходована, она лишь рассеялась по горам, лесам и рекам долины Чэньюй. Вот почему ты так ослабла...
-
-**Паймон:** Если мы соберём рассеянную силу Адептов, как во время поиска золотого карпа в долине Яоде, ты восстановишься, верно?
-
-**Фу Цзинь:** Да... По крайней мере, в теории, но...
-
-**Паймон:** Верно, верно? Поэтому, если мы увидим похожих карпов, нам нужно принести их сюда! Так ты восстановишь свои силы гораздо быстрее!
-
-**Фу Цзинь:** Не хочу утруждать вас! Моя сила ещё не настолько слаба. Если я здесь отдохну, этого будет достаточно...
-
-Нам не сложно...
-
-Мы будем их высматривать, только и всего.
-
-**Фу Цзинь:** Спасибо. Однако я не хочу больше беспокоить вас. Вы и так уже много для меня сделали.
-
-**Фу Цзинь:** Если по дороге найдёте силу Адептов, перенесите её в нефрит.
-
-**Фу Цзинь:** Баланс воды и почвы был восстановлен. Если мы сможем добавить больше силы в Заветный нефрит, то обеспечим благоприятную погоду и процветание в будущем году.
-
-**Лин Юань:** А как же ты?
-
-**Фу Цзинь:** Ну, я же вам сказала. Мне нужно всего лишь отдохнуть!
-
-**Фу Цзинь:** Путешественник, Паймон, я действительно благодарна и счастлива, что вы решили навестить меня. Впервые кто-то пришёл сюда после ухода Властительницы лекарств.
-
-**Фу Цзинь:** И тебе спасибо, Лин Юань.
-
-**Лин Юань:** Я ничем не заслужила твоей благодарности.
-
-**Фу Цзинь:** Ладно, ладно! Тогда считай, что я благодарю тебя за то, что ты привела сюда Путешественник и Паймон!
-
-**Фу Цзинь:** И напоследок... Позвольте ещё раз поблагодарить вас, Путешественник и Паймон. За всё, что вы сделали.
-
 
 **Мао:** Лазурь, Лазурь, ты не рассказала мне концовку истории в прошлый раз!
 
@@ -211,7 +242,6 @@
 
 **Мао:** Хорошо, договорились! Я придумаю концовку для этой истории...
 
-
 **Паймон:** А это не Лин Юань?
 
 **Лин Юань:** ...
@@ -226,7 +256,7 @@
 
 **Паймон:** Думала... Подожди, а что значит твоё первое высказывание?
 
-**Лин Юань:** Я думаю о вопросе, который Путешественник задал(а).
+**Лин Юань:** Я думаю о вопросе, который Путешественник задал. / Я думаю о вопросе, который Путешественник задала.
 
 **Лин Юань:** «Если людские дела - часть закона природы, что ты думаешь о самих людях?»
 
@@ -234,21 +264,33 @@
 
 **Паймон:** Эй, ты так говоришь, будто Мао за человека не считаешь!
 
-**Лин Юань:** Мао - человек, который относится к поселенцам, но не является частью поселения. Ты и Путешественник относитесь к категории попутчиков, но ты не «принадлежишь» своему попутчику / своей попутчице. В этом и заключается разница.
+**Лин Юань:** Мао - человек, который относится к поселенцам, но не является частью поселения. Ты и Путешественник относитесь к категории попутчиков, но ты не «принадлежишь» своему попутчику. В этом и заключается разница. / Мао - человек, который относится к поселенцам, но не является частью поселения. Ты и Путешественник относитесь к категории попутчиков, но ты не «принадлежишь» своей попутчице. В этом и заключается разница.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Ты не считаешь Мао частью общества?
 
-- **Путешественник:** Сложно сказать...
-
 **Лин Юань:** Мао ещё не полностью стал частью общества. Большинство человеческих детей таковы до тех пор, пока не станут полностью поглощены порядком, как это происходит и в природе.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Сложно сказать...
 
 **Паймон:** Ну, хватит уже эти странные разговоры вести!
 
+##### Общее продолжение
+
 **Лин Юань:** Я слишком долго не общалась с людьми из поселения. Возможно, из-за ненависти, возможно, из-за страха, а может, из-за того и другого.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Потому что они занимают землю, которая принадлежит природе?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Потому что Фу Цзинь пожертвовала собой ради них?
+
+##### Общее продолжение
 
 **Лин Юань:** Я не знаю.
 
@@ -264,7 +306,6 @@
 
 **Лин Юань:** Есть многое, чего я не понимаю. Я постараюсь понять, чтобы однажды, как и обещала, ответить на твой вопрос.
 
-
 **Мао:** Слушая Гору, думаю, что оперы Фонтейна похожи на наши!
 
 **Мао:** Рыцари, маги, храбрые воины и злые драконы - вы убиваете меня, я убиваю вас, и в конце концов все погибают!
@@ -276,7 +317,6 @@
 **Отмонтень:** Лазурь?
 
 **Мао:** О, точно! Я ведь так и не рассказал тебе о Лазури... Что, если ты расскажешь мне больше о «лемурских големах», а я расскажу тебе о Лазури!
-
 
 **Лин Юань:** ...
 
@@ -290,7 +330,6 @@
 
 **Лин Юань:** ...Забудь об этом. Пойдём. Ты сказала, что всё ещё хочешь увидеть чай.
 
-
 **Мао:** Сестрица Фу Цзинь! Поздравляю с возвращением в прежний облик!
 
 **Мао:** Лазурь уже рассказала мне об этом! Ты очень любишь чай, поэтому я специально попросил дедушку Лу приготовить для тебя супер-пупер вкусное печенье!
@@ -299,11 +338,15 @@
 
 **Мао:** Путешественник, Паймон, и вам угощений хватит! Полакомимся печеньем и отпразднуем выздоровление Фу Цзинь!
 
+##### Вариант ответа 1
+
 - **Путешественник:** (Взять одно печенье)
 
-- **Путешественник:** (Взять два печенья)
-
 **Паймон:** Хе-хе, спасибо, Мао! Осталось ещё много, поэтому Паймон возьмёт два печенья.
+
+##### Вариант ответа 2
+
+- **Путешественник:** (Взять два печенья)
 
 **Паймон:** Хе-хе, спасибо, Мао! Паймон возьмёт ещё два... А-а-а! Осталось только одно!
 
@@ -312,6 +355,8 @@
 ### The Cloud-Padded Path to the Chiwang Repose
 
 Paimon is a bit worried about Adeptus Fujin's condition. If you have time, it might be good to pay another visit to Chiwang Terrace.
+
+#### Ascend the summit of Mt. Laixin
 
 #### Speak to Lingyuan
 
@@ -333,17 +378,23 @@ Paimon is a bit worried about Adeptus Fujin's condition. If you have time, it mi
 
 **Lingyuan:** It escaped my mind.
 
+##### Response branch 1
+
 - **Traveler:** Do you need help?
 
-- **Traveler:** Bit late now, Bluey.
-
 **Lingyuan:** The adeptal energy you possess is sufficient to open the gate of Carp's Rest. So yes, I need your help.
+
+##### Response branch 2
+
+- **Traveler:** Bit late now, Bluey.
 
 **Paimon:** Yeah, how could you forget something as important as that!? Really, now.
 
 **Lingyuan:** It is because I am a slow-witted beast. Seeing her, I think of many things, and forget many things. It is my fault.
 
 **Lingyuan:** The adeptal energy you possess is sufficient to open the gate of Carp's Rest. So yes, I need your help.
+
+##### Shared continuation
 
 **Paimon:** Huh? Wait a sec, so you've been waiting here for us this whole time?
 
@@ -356,6 +407,88 @@ Paimon is a bit worried about Adeptus Fujin's condition. If you have time, it mi
 **Lingyuan:** Follow me.
 
 #### Go to Carp's Rest
+
+#### Enter Carp's Rest
+
+#### Enter Carp's Rest
+
+#### Look for Fujin
+
+**Fujin's Voice:** Huh? Traveler, Paimon, and Lingyuan... Why did you all come here?
+
+**Paimon:** Whoa, that's Fujin's voice! And it's... coming from down below?
+
+##### Response branch 1
+
+- **Traveler:** I'm a little worried about you.
+
+**Paimon:** Yeah! We're all worried about your health, so we just came here without giving you a heads up — you did the same thing to us first, so Paimon thinks we're square now!
+
+##### Response branch 2
+
+- **Traveler:** Lingyuan is a little worried about you.
+
+**Lingyuan:** I am not. I just...
+
+**Lingyuan:** ...
+
+**Paimon:** Yeah! Lingyuan's been so worried about your health that she can barely speak, so we just came here without giving you a heads up — but you did the same thing to us first, so Paimon thinks we're square now!
+
+##### Shared continuation
+
+**Fujin's Voice:** Huh? Ah! Sorry! When I returned here to rest, I think I forgot to unlock the entrance...! I am so sorry. You came here to see me, but I made things harder for you instead...
+
+**Paimon:** Oh, it wasn't much of a hassle! But why are you... uh, hiding in a puddle?
+
+**Fujin's Voice:** Hmm, how should I put it...? Because I can't return to the form I prefer yet, and with you guys always seeing me in my Carp form, I can't help but feel a bit... embarrassed...
+
+##### Response branch 1
+
+- **Traveler:** You are aware that we've already seen it many, many times, right?
+
+##### Response branch 2
+
+- **Traveler:** So there's no need to hide yourself, is there?
+
+##### Shared continuation
+
+**Fujin's Voice:** Ahaha... But before, I could turn back into human form whenever I wanted, so I thought moving around as a Carp was just a matter of convenience. But now, all I have is this slick and slippery self, so I find it a bit...
+
+**Paimon:** Whoa, that's a bit of a strange thing to be so insistent about... But anyway, all that matters is that you're okay!
+
+**Paimon:** But Lingyuan said that your adeptal energy wasn't consumed, it was just dispersed around the mountains, forests, and rivers of Chenyu Vale, and that's why you've been weakened so much...
+
+**Paimon:** So if we were to collect the scattered adeptal energy, just like when we were finding the Golden Carp in Yaodie Valley, then you'd get better, right?
+
+**Fujin's Voice:** Yes... At least, in theory, that's correct, but...
+
+**Paimon:** Right, right? So if we see similar Carp, we should just bring them back here! That way, you'll recover much faster!
+
+**Fujin's Voice:** Th—That would be far too much trouble for you! My power is not yet that feeble. If I simply rest here for some time, it will be enough...
+
+- **Traveler:** It's not that much of a hassle...
+
+- **Traveler:** ...We'll just keep our eyes peeled if we run into any.
+
+**Fujin's Voice:** Thank you, then. However, I really don't want to trouble you anymore on my behalf. You've already done so much for me.
+
+**Fujin's Voice:** If the two of you should happen to find any more adeptal energy during your travels, please simply transfer it into the jade here.
+
+**Fujin's Voice:** Though balance has been restored to the water and soil, if we can add more power to the Rainjade, we can ensure favorable weather and prosperous years to come.
+
+**Lingyuan:** ...And what about you?
+
+**Fujin's Voice:** Really now! I already told you, all I need to do is rest here for a bit!
+
+**Fujin's Voice:** Traveler, Paimon, I really am quite grateful, and quite happy, that you came to visit me. This is the first time anyone has come here since Herblord left.
+
+**Fujin's Voice:** And thank you as well, Lingyuan.
+
+**Lingyuan:** I have done nothing worthy of your thanks.
+
+**Fujin's Voice:** Alright, enough of that! Then just think of it as me thanking you for bringing Traveler and Paimon here! Really, now...
+
+**Fujin's Voice:** And lastly... Let me say thank you once more, Traveler and Paimon. For all you have done.
 
 **Paimon:** Speaking of which, this should be your abode, right, Fujin? It feels a bit different from the other adeptal abodes we've been in... How should Paimon put it... it feels more... pragmatic?
 
@@ -385,17 +518,23 @@ Paimon is a bit worried about Adeptus Fujin's condition. If you have time, it mi
 
 **Paimon:** Wow! After all that, Paimon's getting curious. What does your human form look like, Lingyuan? Would you be as blue as you are now? Or would you be... Uh, a slightly lighter shade?
 
+##### Response branch 1
+
 - **Traveler:** Now I'm curious too.
 
-- **Traveler:** Lingyuan, could you turn human, just for a second?
-
 **Lingyuan:** I do not understand your curiosity. You are people too. If you are interested in human forms, just look at yourselves.
+
+##### Response branch 2
+
+- **Traveler:** Lingyuan, could you turn human, just for a second?
 
 **Lingyuan:** I refuse. Human bodies are weak. They lack fangs to rend and rip prey, and claws to hound and hunt enemies. I would not do such a thing unless commanded to by Fujin.
 
 **Fujin:** ...Eh? R—Really? I—In that case, I think maybe we should just respect Lingyuan's wishes...?
 
 **Lingyuan:** I do not have any wishes. If you have some, tell me so directly.
+
+##### Shared continuation
 
 **Fujin:** Hehe... Anyway, thank you, Traveler and Paimon. I never imagined the day would come when I would be able to talk to others like this...
 
@@ -406,73 +545,6 @@ Paimon is a bit worried about Adeptus Fujin's condition. If you have time, it mi
 **Fujin:** ...Sorry, I got a bit carried away. I wanted to try being like those adepti, so I thought I'd try out a phrase or two...
 
 **Fujin:** Anyway! I'll be staying here and praying for your journey to go smoothly.
-
-#### Look for Fujin
-
-**Fujin:** Huh? Traveler, Paimon, and Lingyuan... Why did you all come here?
-
-**Paimon:** Whoa, that's Fujin's voice! And it's... coming from down below?
-
-- **Traveler:** I'm a little worried about you.
-
-- **Traveler:** Lingyuan is a little worried about you.
-
-**Paimon:** Yeah! We're all worried about your health, so we just came here without giving you a heads up — you did the same thing to us first, so Paimon thinks we're square now!
-
-**Lingyuan:** I am not. I just...
-
-**Lingyuan:** ...
-
-**Paimon:** Yeah! Lingyuan's been so worried about your health that she can barely speak, so we just came here without giving you a heads up — but you did the same thing to us first, so Paimon thinks we're square now!
-
-**Fujin:** Huh? Ah! Sorry! When I returned here to rest, I think I forgot to unlock the entrance...! I am so sorry. You came here to see me, but I made things harder for you instead...
-
-**Paimon:** Oh, it wasn't much of a hassle! But why are you... uh, hiding in a puddle?
-
-**Fujin:** Hmm, how should I put it...? Because I can't return to the form I prefer yet, and with you guys always seeing me in my Carp form, I can't help but feel a bit... embarrassed...
-
-- **Traveler:** You are aware that we've already seen it many, many times, right?
-
-- **Traveler:** So there's no need to hide yourself, is there?
-
-**Fujin:** Ahaha... But before, I could turn back into human form whenever I wanted, so I thought moving around as a Carp was just a matter of convenience. But now, all I have is this slick and slippery self, so I find it a bit...
-
-**Paimon:** Whoa, that's a bit of a strange thing to be so insistent about... But anyway, all that matters is that you're okay!
-
-**Paimon:** But Lingyuan said that your adeptal energy wasn't consumed, it was just dispersed around the mountains, forests, and rivers of Chenyu Vale, and that's why you've been weakened so much...
-
-**Paimon:** So if we were to collect the scattered adeptal energy, just like when we were finding the Golden Carp in Yaodie Valley, then you'd get better, right?
-
-**Fujin:** Yes... At least, in theory, that's correct, but...
-
-**Paimon:** Right, right? So if we see similar Carp, we should just bring them back here! That way, you'll recover much faster!
-
-**Fujin:** Th—That would be far too much trouble for you! My power is not yet that feeble. If I simply rest here for some time, it will be enough...
-
-It's not that much of a hassle...
-
-...We'll just keep our eyes peeled if we run into any.
-
-**Fujin:** Thank you, then. However, I really don't want to trouble you anymore on my behalf. You've already done so much for me.
-
-**Fujin:** If the two of you should happen to find any more adeptal energy during your travels, please simply transfer it into the jade here.
-
-**Fujin:** Though balance has been restored to the water and soil, if we can add more power to the Rainjade, we can ensure favorable weather and prosperous years to come.
-
-**Lingyuan:** ...And what about you?
-
-**Fujin:** Really now! I already told you, all I need to do is rest here for a bit!
-
-**Fujin:** Traveler, Paimon, I really am quite grateful, and quite happy, that you came to visit me. This is the first time anyone has come here since Herblord left.
-
-**Fujin:** And thank you as well, Lingyuan.
-
-**Lingyuan:** I have done nothing worthy of your thanks.
-
-**Fujin:** Alright, enough of that! Then just think of it as me thanking you for bringing Traveler and Paimon here! Really, now...
-
-**Fujin:** And lastly... Let me say thank you once more, Traveler and Paimon. For all you have done.
-
 
 **Little Mao:** Bluey, Bluey, you didn't tell me the ending to that story you were telling me last time!
 
@@ -498,7 +570,6 @@ It's not that much of a hassle...
 
 **Little Mao:** In... In that case, then it's a deal! I'll think of an ending for the story...
 
-
 **Paimon:** Huh? Lingyuan, is that you?
 
 **Lingyuan:** ...
@@ -523,19 +594,31 @@ It's not that much of a hassle...
 
 **Lingyuan:** Little Mao is a human that belongs to the settled humans, but is not a human who constitutes the settlement. You and Traveler "constitute" travel companions, but you do not "belong" to Traveler. That is the difference.
 
-- **Traveler:** You don't consider Little Mao a part of the social order?
+##### Response branch 1
 
-- **Traveler:** I wouldn't be too sure...
+- **Traveler:** You don't consider Little Mao a part of the social order?
 
 **Lingyuan:** Not in full. Most human young are like this until they are completely absorbed by the order, just as it is in nature.
 
+##### Response branch 2
+
+- **Traveler:** I wouldn't be too sure...
+
 **Paimon:** Hey! Don't say weird things like that!
+
+##### Shared continuation
 
 **Lingyuan:** It has been too long since I have been in contact with the humans who constitute the settlement. It could be because of hatred, fear, or maybe even both.
 
+##### Response branch 1
+
 - **Traveler:** Because they have encroached on the land that belongs to nature?
 
+##### Response branch 2
+
 - **Traveler:** Because Fujin chose to sacrifice herself for them?
+
+##### Shared continuation
 
 **Lingyuan:** I don't know.
 
@@ -551,7 +634,6 @@ It's not that much of a hassle...
 
 **Lingyuan:** There are many things I do not understand. I will try to understand until I can answer your question, as I promised to.
 
-
 **Little Mao:** Listening to Mountain, it sounds like Fontaine's operas are pretty similar to ours!
 
 **Little Mao:** Knights, magicians, brave warriors, and evil dragons, you kill me, I kill you, and in the end, everyone's dead!
@@ -563,7 +645,6 @@ It's not that much of a hassle...
 **Hautemontagne:** Eh? Bluey?
 
 **Little Mao:** Oh, right! I never told you about Bluey, did I... How about this? You tell me more about "Ray-more-young Golems," and I'll tell you about Bluey!
-
 
 **Lingyuan:** ...
 
@@ -577,7 +658,6 @@ It's not that much of a hassle...
 
 **Lingyuan:** ...Forget it. Let's go. Or did you not clamor to see the present tea garden?
 
-
 **Little Mao:** Big Sis Fujin! Congratulations on returning to your former self!
 
 **Little Mao:** Bluey already told me all about it! You really like tea, so I specially requested that Grandpa Lu make you a super-duper delicious teacake!
@@ -586,11 +666,15 @@ It's not that much of a hassle...
 
 **Little Mao:** There's some for you two, too! We can all eat teacakes together and celebrate Fujin's recovery!
 
+##### Response branch 1
+
 - **Traveler:** (Take a piece of cake.)
 
-- **Traveler:** (Take two pieces of cake.)
-
 **Paimon:** Hehe, thanks, Little Mao! Since there's so much left, Paimon will take two pieces!
+
+##### Response branch 2
+
+- **Traveler:** (Take two pieces of cake.)
 
 **Paimon:** Hehe, thanks, Little Mao! Since that's the case, Paimon will take two... too? Waaah! There's only one piece left!
 
@@ -599,6 +683,8 @@ It's not that much of a hassle...
 ### 赤望所居，锦落云程
 
 派蒙似乎有些担心浮锦仙人的状况。若是有时间的话，不妨再回「赤望台」看一看吧。
+
+#### 前往来歆山顶
 
 #### 与灵渊对话
 
@@ -620,17 +706,23 @@ It's not that much of a hassle...
 
 **灵渊:** 我没想起来。
 
+##### 对话分支 1
+
 - **旅行者:** 需要帮忙吗？
 
-- **旅行者:** 阿蓝，好笨。
-
 **灵渊:** 你们拥有她的仙力，能够开启锦落庭的大门。是的，希望你们帮助我。
+
+##### 对话分支 2
+
+- **旅行者:** 阿蓝，好笨。
 
 **派蒙:** 就是就是！为什么连这么重要的事情都能忘啦！真是的！
 
 **灵渊:** 因为我只是愚钝的野兽。见到她，想了很多事情，忘了很多事情。是我的错。
 
 **灵渊:** 你们拥有她的仙力，能够开启锦落庭的大门。希望你们帮助我。
+
+##### 共同后续
 
 **派蒙:** 欸？等一下，所以你是一直在这里等我们吗？
 
@@ -643,6 +735,88 @@ It's not that much of a hassle...
 **灵渊:** 跟我来。
 
 #### 前往锦落庭
+
+#### 进入锦落庭
+
+#### 进入锦落庭
+
+#### 寻找浮锦
+
+**浮锦的声音:** 欸？旅行者和派蒙，还有灵渊…为什么会到这里来呀？
+
+**派蒙:** 哇啊，是浮锦的声音！好像是…从这下面传上来的？
+
+##### 对话分支 1
+
+- **旅行者:** 我有些担心你。
+
+**派蒙:** 是呀，我们都很担心你的身体状况，所以没打招呼就来了——不过，浮锦一开始不也没打招呼就把我们拉过来了嘛，这样我们就算是扯平啦！
+
+##### 对话分支 2
+
+- **旅行者:** 灵渊有些担心你。
+
+**灵渊:** 我没有。我只是…
+
+**灵渊:** ……
+
+**派蒙:** 你看，灵渊这都担心得说不出话了，所以我们没打招呼就来了——不过，浮锦一开始不也没打招呼就把我们拉过来了嘛，这样我们就算是扯平啦！
+
+##### 共同后续
+
+**浮锦的声音:** 欸？啊！抱歉！我回锦落庭休息的时候，好像忘了解除门口的封锁了…！对不起，你们明明是来探望我的，却给你们添了那么多麻烦…
+
+**派蒙:** 也算不上是添麻烦啦。不过，为什么你要躲在这个…呃，水坑里呀？
+
+**浮锦的声音:** 怎么说呢…因为我现在还没能恢复我最喜欢的形态，总是让你们看到鲤鱼的样子，稍微觉得有些…不好意思…
+
+##### 对话分支 1
+
+- **旅行者:** 明明之前已经见过好多次了…
+
+##### 对话分支 2
+
+- **旅行者:** 那也没必要躲起来吧？
+
+##### 共同后续
+
+**浮锦的声音:** 啊哈哈…因为之前能随时变回人的样子，所以觉得用鲤鱼的形态行动起来会更方便；现在只剩下滑溜溜的样子了，反而觉得有点…
+
+**派蒙:** 呜哇，还真是奇怪的执着…总之，浮锦你没事就好！
+
+**派蒙:** 不过，按照灵渊之前的说法，浮锦的力量其实不是直接消耗掉了，而是逸散到了沉玉谷的山林河川之间，所以才会变得虚弱…
+
+**派蒙:** 那要是像我们在药蝶谷找金色的鲤鱼一样，把逸散的仙力收集起来，浮锦就能恢复了吧？
+
+**浮锦的声音:** 嗯…理论上来说是这样没错啦，不过…
+
+**派蒙:** 对吧对吧？那我们之后要是发现了类似的鲤鱼，就把它带回这里来吧！这样一来，浮锦也能早日恢复啦！
+
+**浮锦的声音:** 这、这种事情也太麻烦你们了！小仙我的力量还没有耗尽到那种程度，只要在这里稍稍静养一段时间，就可以…
+
+- **旅行者:** 倒也不算是麻烦…
+
+- **旅行者:** …只是遇到的话会留神一下。
+
+**浮锦的声音:** 谢谢你们。不过，我真的不想因为自己的事情再给你们添麻烦了，你们为我做过的已经太多了。
+
+**浮锦的声音:** 要是二位在旅途中寻到了更多逸散的仙力，就将它们直接汇入这里的祀珑吧。
+
+**浮锦的声音:** 虽然水土的调理已经完成，但若是能向祀珑中注入更多力量，就能保证沉玉谷风调雨顺、年登岁稔。
+
+**灵渊:** …那你呢？
+
+**浮锦的声音:** 真是的，我都说了，我只要在这里休养一段时间就好啦！
+
+**浮锦的声音:** 旅行者和派蒙，真的非常感谢你们能来探望我。我真的真的好开心。自从药君离开，还是第一次有人到这里来呢。
+
+**浮锦的声音:** 也谢谢你，灵渊。
+
+**灵渊:** 我没做什么值得你感谢的事情。
+
+**浮锦的声音:** 哎呀，好啦！就当我是在感谢你把旅行者和派蒙带到这里吧，真是的！
+
+**浮锦的声音:** 最后…让我再说一次谢谢吧，旅行者和派蒙。谢谢你们做过的一切。
 
 **派蒙:** 话说回来，这里就是浮锦的洞天吧？总觉得和我们见过的其他洞天不太一样，怎么说呢，好像更…有现实感？
 
@@ -672,17 +846,23 @@ It's not that much of a hassle...
 
 **派蒙:** 呜啊，你这么一说，我开始好奇灵渊化成的人形到底是什么样的了！会是像现在一样蓝蓝的吗？还是会…呃，更白一点？
 
+##### 对话分支 1
+
 - **旅行者:** 我也很好奇！
 
-- **旅行者:** 灵渊，可以变一下看看吗？
-
 **灵渊:** 我不理解你好奇的原因。你也是人。对人的形态感兴趣，看看自己就好。
+
+##### 对话分支 2
+
+- **旅行者:** 灵渊，可以变一下看看吗？
 
 **灵渊:** 我拒绝。人类的身躯过于羸弱。没有撕碎猎物的尖牙，没有逐狩仇敌的利爪。除非浮锦命令，我不会做那种事。
 
 **浮锦:** …欸？这、这个，我觉得还是应该尊重灵渊的想法吧…？
 
 **灵渊:** 我没有什么想法。你要是有想法的话，可以直接告诉我。
+
+##### 共同后续
 
 **浮锦:** 呵呵…总之，谢谢你们，旅行者和派蒙。我也没有想到，有朝一日，还能像这样和其他人交流…
 
@@ -693,73 +873,6 @@ It's not that much of a hassle...
 **浮锦:** …对不起是我得意忘形了。我刚才想要像仙人那样，说一下这句话试试看…
 
 **浮锦:** 无论如何，我都会在这里祈愿，愿你们接下来的旅途一帆风顺。
-
-#### 寻找浮锦
-
-**浮锦:** 欸？旅行者和派蒙，还有灵渊…为什么会到这里来呀？
-
-**派蒙:** 哇啊，是浮锦的声音！好像是…从这下面传上来的？
-
-- **旅行者:** 我有些担心你。
-
-- **旅行者:** 灵渊有些担心你。
-
-**派蒙:** 是呀，我们都很担心你的身体状况，所以没打招呼就来了——不过，浮锦一开始不也没打招呼就把我们拉过来了嘛，这样我们就算是扯平啦！
-
-**灵渊:** 我没有。我只是…
-
-**灵渊:** ……
-
-**派蒙:** 你看，灵渊这都担心得说不出话了，所以我们没打招呼就来了——不过，浮锦一开始不也没打招呼就把我们拉过来了嘛，这样我们就算是扯平啦！
-
-**浮锦:** 欸？啊！抱歉！我回锦落庭休息的时候，好像忘了解除门口的封锁了…！对不起，你们明明是来探望我的，却给你们添了那么多麻烦…
-
-**派蒙:** 也算不上是添麻烦啦。不过，为什么你要躲在这个…呃，水坑里呀？
-
-**浮锦:** 怎么说呢…因为我现在还没能恢复我最喜欢的形态，总是让你们看到鲤鱼的样子，稍微觉得有些…不好意思…
-
-- **旅行者:** 明明之前已经见过好多次了…
-
-- **旅行者:** 那也没必要躲起来吧？
-
-**浮锦:** 啊哈哈…因为之前能随时变回人的样子，所以觉得用鲤鱼的形态行动起来会更方便；现在只剩下滑溜溜的样子了，反而觉得有点…
-
-**派蒙:** 呜哇，还真是奇怪的执着…总之，浮锦你没事就好！
-
-**派蒙:** 不过，按照灵渊之前的说法，浮锦的力量其实不是直接消耗掉了，而是逸散到了沉玉谷的山林河川之间，所以才会变得虚弱…
-
-**派蒙:** 那要是像我们在药蝶谷找金色的鲤鱼一样，把逸散的仙力收集起来，浮锦就能恢复了吧？
-
-**浮锦:** 嗯…理论上来说是这样没错啦，不过…
-
-**派蒙:** 对吧对吧？那我们之后要是发现了类似的鲤鱼，就把它带回这里来吧！这样一来，浮锦也能早日恢复啦！
-
-**浮锦:** 这、这种事情也太麻烦你们了！小仙我的力量还没有耗尽到那种程度，只要在这里稍稍静养一段时间，就可以…
-
-倒也不算是麻烦…
-
-…只是遇到的话会留神一下。
-
-**浮锦:** 谢谢你们。不过，我真的不想因为自己的事情再给你们添麻烦了，你们为我做过的已经太多了。
-
-**浮锦:** 要是二位在旅途中寻到了更多逸散的仙力，就将它们直接汇入这里的祀珑吧。
-
-**浮锦:** 虽然水土的调理已经完成，但若是能向祀珑中注入更多力量，就能保证沉玉谷风调雨顺、年登岁稔。
-
-**灵渊:** …那你呢？
-
-**浮锦:** 真是的，我都说了，我只要在这里休养一段时间就好啦！
-
-**浮锦:** 旅行者和派蒙，真的非常感谢你们能来探望我。我真的真的好开心。自从药君离开，还是第一次有人到这里来呢。
-
-**浮锦:** 也谢谢你，灵渊。
-
-**灵渊:** 我没做什么值得你感谢的事情。
-
-**浮锦:** 哎呀，好啦！就当我是在感谢你把旅行者和派蒙带到这里吧，真是的！
-
-**浮锦:** 最后…让我再说一次谢谢吧，旅行者和派蒙。谢谢你们做过的一切。
-
 
 **小茂:** 阿蓝，阿蓝，你上次给我讲的那个故事，还没有结尾呢！
 
@@ -785,7 +898,6 @@ It's not that much of a hassle...
 
 **小茂:** 那…那就这样说好了，我想想这个故事该怎么结尾…
 
-
 **派蒙:** 欸，这不是灵渊吗？
 
 **灵渊:** ……
@@ -810,19 +922,31 @@ It's not that much of a hassle...
 
 **灵渊:** 小茂是属于聚落的人类，而不是组成聚落的人类。你和旅行者「组成」了旅行的同伴，而不「属于」旅行者。这就是区别。
 
-- **旅行者:** 你认为小茂不是社会秩序的一部分？
+##### 对话分支 1
 
-- **旅行者:** 这可不好说…
+- **旅行者:** 你认为小茂不是社会秩序的一部分？
 
 **灵渊:** 还没有完全成为这种秩序的一部分。人类的幼崽几乎都是这样，直到他们被这种秩序彻底涂抹，就像是自然那样。
 
+##### 对话分支 2
+
+- **旅行者:** 这可不好说…
+
 **派蒙:** 喂！不要说这么奇怪的话啦！
+
+##### 共同后续
 
 **灵渊:** 我太久没有接触过组成聚落的人类了。或许是出于厌恶，或许是出于恐惧，或许两者皆有。
 
+##### 对话分支 1
+
 - **旅行者:** 因为他们侵占了属于自然的土地？
 
+##### 对话分支 2
+
 - **旅行者:** 因为浮锦为了他们选择牺牲自己？
+
+##### 共同后续
 
 **灵渊:** 我不知道。
 
@@ -838,7 +962,6 @@ It's not that much of a hassle...
 
 **灵渊:** 许多事情，我不理解。我会试着理解，直到我能够按照约定，回答你的问题。
 
-
 **小茂:** 听大山这么讲，我感觉枫丹的「歌剧」和我们这边的戏好像也差不多呢！
 
 **小茂:** 骑士呀，巫师呀，勇士呀，恶龙呀，你杀我，我杀你的，最后大家都死了！
@@ -850,7 +973,6 @@ It's not that much of a hassle...
 **沃特蒙泰涅:** 欸？阿兰？
 
 **小茂:** 对喔，我好像还没给大山讲过阿蓝的事情…这样吧，你再给我讲一讲「累牡蛎牙」的魔像，我就给你讲阿蓝的故事好啦！
-
 
 **灵渊:** ……
 
@@ -864,19 +986,22 @@ It's not that much of a hassle...
 
 **灵渊:** …算了。走吧。你不是还要去看现在的茶园吗。
 
-
 **小茂:** 浮锦姐姐！祝贺你重新变回来！
 
 **小茂:** 我已经听阿蓝说过啦！浮锦姐姐好像很喜欢喝茶的样子，我就专门拜托了陆爷爷，为浮锦姐姐准备了超级美味的茶糕！
 
 **浮锦:** 嗯，我已经完全变回来啦！小茂，谢谢你专门为我准备茶糕，我好开心！
 
-**小茂:** 旅行者哥哥 / 姐姐，派蒙姐姐，我也准备了你们的份喔！大家一起吃茶糕，庆祝浮锦姐姐恢复精神吧！
+**小茂:** 旅行者哥哥，派蒙姐姐，我也准备了你们的份喔！大家一起吃茶糕，庆祝浮锦姐姐恢复精神吧！ / 旅行者姐姐，派蒙姐姐，我也准备了你们的份喔！大家一起吃茶糕，庆祝浮锦姐姐恢复精神吧！
+
+##### 对话分支 1
 
 - **旅行者:** （拿一块茶糕。）
 
-- **旅行者:** （拿两块茶糕。）
-
 **派蒙:** 嘿嘿，谢谢小茂！既然如此，那我也拿两块吧！
+
+##### 对话分支 2
+
+- **旅行者:** （拿两块茶糕。）
 
 **派蒙:** 嘿嘿，谢谢小茂！既然如此，那我也…呜啊，只剩下一块啦！

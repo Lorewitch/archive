@@ -324,3 +324,953 @@ They would become the Prinzessin's new friends, though that would happen even fu
 从结果上来看，断罪的父皇与母后，都能见到奥兹，并且认为奥兹就是皇女的第一个朋友。
 而「受累世厄运诅咒的探险家」、「异世界的来访者」，以及「奇怪的小精灵外貌的应急食品」…
 他们成为皇女的新朋友，则是更久以后的事情了。
+
+# voice_source_ids: 19009,19010,19011,19012,19013,19014,19015,19016,19017,19018,19019,19020,19021,19022,19023,19024,19025,19026,19027,19028,19029,19030,19031,19032,19033,19034,19035,19036,19037,19038,19039,19040,19041,19042,19043,19044,19045,19046,19047,19048,19049,19050,19051,19052,19053,19054,19055,19056,19057,19058,19059,19060,19061,19062,19063,19064,19065,19066,19067,19068,19069,19070,19072,19073,19074,19075,19076,19077
+
+## REPLICAS_RU
+
+### Привет...
+
+Фишль: Я Фишль, Принцесса осуждения, волею судьбы призванная в этот мир... Что? Ты тоже путешественник из другого мира? Что ж, хорошо, я милостиво позволю тебе путешествовать со мной.
+Оз: Она имела в виду «Привет! Рада тебя видеть». / Фишль: Я Фишль, Принцесса осуждения, волею судьбы призванная в этот мир... Что? Ты тоже путешественница из другого мира? Что ж, хорошо, я милостиво позволю тебе путешествовать со мной.
+Оз: Она имела в виду «Привет! Рада тебя видеть».
+
+### Поболтаем: Шёпот судьбы
+
+Я слышала голоса судьбы, нашёптывавшие мне моё имя...
+
+### Поболтаем: Сотворение мира
+
+Хм... Да осияет слава принцессы этот бренный мир.
+
+### Поболтаем: Человек из другого мира
+
+Фишль: Меня терзает беспокойство о свите, которую мне пришлось оставить... 
+Оз: Не стоит беспокоиться, миледи. С людьми из Гильдии искателей приключений всё будет в порядке.
+
+### После дождя...
+
+О, солнце вышло... Кхм, свет, мгновенно сменяющий тьму дождевых облаков, великолепен, словно счастливый поворот судьбы перед лицом неминуемой гибели!
+
+### Когда гремит гром...
+
+Фишль: Ах, посмотри - это божественная молния, предзнаменование грядущих тёмных времён! 
+Оз: Возможно, судьба хочет намекнуть, что миледи не убрала сушащееся бельё с улицы... 
+Фишль: Что?!
+
+### Когда идёт снег...
+
+Фишль: Хм, прекрасный вид. Это напоминает мне о пейзажах в моём мире, где кровь и слёзы грешников застыли перед лицом Принцессы Осуждения и... А... А... А-пчхи! 
+Оз: Не только слёзы и кровь, миледи, но ещё и слюна их и сопли... 
+Фишль: Оз! А... А-пчхи!
+
+### Когда светит солнце...
+
+Фишль: Оззи, мой милый фамильяр... 
+Оз: Оззи? Что происходит?.. 
+Фишль: Как принцесса, я приказываю тебе раскрыть свои благословенные крылья, дабы заслонить ими солнце и небеса, дабы вечная ночь опустилась на эти земли. 
+Оз: Если миледи не взяла с собой зонтик, то это только её вина!
+
+### Доброе утро: Фишль
+
+День и ночь - это лишь мираж. Тем не менее нити судьбы вновь привели тебя в объятия моей вечной ночи.
+
+### Доброе утро: Оз
+
+Оз: Доброе утро. Миледи знала, что вы придёте, а потому решила приготовить завтрак... 
+Фишль: Оз! ...Кхм. Так что привело тебя ко мне?
+
+### Добрый день...
+
+Даже благородная принцесса имеет право на усталость в такой час...
+
+### Добрый вечер...
+
+Фишль: Звёзды на чёрном бархате небосвода - не что иное, как зияющие дыры, что выклёвывает Оз в его ткани под покровом бесконечной ночи.
+Оз: Вы говорите странные вещи, миледи.
+
+### Спокойной ночи...
+
+Фишль: Да будет глубоким и безмятежным твой сон, и пусть минуют тебя кошмары. В конце концов, разве смеют они посещать тех, кто благословлен Нирваной Ночи?
+Оз: Миледи говорит, «Спокойной ночи».
+
+### О Фишль: Принцесса осуждения
+
+Фишль: Я? Хо-хо, запомни же, что я Фишль, Принцесса осуждения, хозяйка Нирваны Ночи, судья этого мира, назначающая ему наказание и вскрывающая правду! 
+Оз: Миледи - агент Гильдии искателей приключений. 
+Фишль: Это лишь один из моих титулов.
+
+### О нас: Существа не из мира сего
+
+Мы с тобой - путешественники из других миров. То, что мы встретились здесь, - наверняка воля судьбы.
+
+### О нас: Победа над мировым чудовищем
+
+У тебя обеспокоенный вид. Путешественник, не впадай в отчаяние. Моим левым глазом, Глазом правосудия, я вижу нити судьбы, и я сделаю всё, чтобы уберечь твою. И Оз, ворон, что видел нирвану тысячи миров, будет наблюдать за твоим путешествием. Если ночные чудовища этого мира захотят проникнуть в твои сны, то я, Принцесса осуждения, осыплю их градом стрел правосудия!
+
+### О нас: Дорогие сердцу люди
+
+Фишль: Оз, мой верный друг... Мы встретились с человеком, с путешественником, который так же, как и я, пришёл из другого мира... Возможно, жестокая судьба улыбается даже мне, той, в чьих жилах течёт грешная кровь... Даже если судьба моя - быть заключённой в этой реальности навсегда...
+Оз: А, я понимаю, моя леди! В этом путешественнике вы нашли человека, который не оставит вас. / Фишль: Оз, мой верный друг... Мы встретились с человеком, с путешественницей, которая так же, как и я, пришла из другого мира... Возможно, жестокая судьба улыбается даже мне, той, в чьих жилах течёт грешная кровь... Даже если судьба моя - быть заключённой в этой реальности навсегда...
+Оз: А, я понимаю, моя леди! В этой путешественнице вы нашли человека, который не оставит вас.
+
+### О нас: Быть на страже
+
+Фишль: Озвальдо Храфнавинс. Я, хозяйка Нирваны Ночи, Принцесса осуждения, призываю тебя быть готовым защитить путешественника от превратностей его судьбы и, в случае необходимости, отдать жизнь за то, чтобы вырвать его из лап всепоглощающей тьмы!
+Оз: Миледи, перестаньте распоряжаться моей жизнью, как вам вздумается! / Фишль: Озвальдо Храфнавинс. Я, хозяйка Нирваны Ночи, Принцесса осуждения, призываю тебя быть готовым защитить путешественницу от превратностей её судьбы и, в случае необходимости, отдать жизнь за то, чтобы вырвать её из лап всепоглощающей тьмы!
+Оз: Миледи, перестаньте распоряжаться моей жизнью, как вам вздумается!
+
+### Глаз Бога...
+
+А? Тебя интересует мой «Мистический шар бездны»? Это регалия моего рода, которая свидетельствует о моём положении и служит для узнавания простолюдинами. Даже здесь, в этом запущенном мире регалия всегда может найти меня, ибо я носительница королевской крови и благородного духа. И связь нашу невозможно прервать...
+
+### Давай поделимся...
+
+Фишль: Согласно системе летоисчисления этого мира, мне уже больше трёх тысяч лет. Конечно, для меня, которая обозревает три тысячи вселенных, иллюзорное течение времени не имеет никакого значения. 
+Оз: Да будет так, моя леди. Вот только в этом мире ваши слова не убедят бармена: по местным меркам вы слишком юны, чтобы пить вино, и это не изменить.
+
+### Интересные вещи...
+
+Полное имя Оза - Озвальдо Храфнавинс. В мире, откуда пришла я, он владеет звёздами и небесами в трёх измерениях, и в тени чёрных крыльев его находят покой души погибших в сражениях смельчаков. Вырван будет язык того, кто неправильно произнесёт его имя... Но я принцесса, а ты человек, пользующийся моим расположением, поэтому мы с тобой можем позволить себе называть его «Оз».
+
+### О Беннете...
+
+Фишль: А, тот мальчик, преследуемый злым роком... Ошибки быть не может: через Глаз правосудия я видела, как скорбит его сердце, отверженное этим миром... 
+Оз: Нельзя оставлять этого несчастного без присмотра.
+
+### О Лизе...
+
+Фишль: Та ведьма-библиотекарь, владелица знаний о вселенной... Если заручиться её доверием, то откроется невиданная кладезь мудрости... 
+Оз: Она говорит, «Пока ты возвращаешь книги в библиотеку вовремя, ты можешь продолжать спокойно брать новые».
+
+### О Кэйе...
+
+Фишль: Не разглядеть правды, не разобрать судьбу, из лжи и истины выткан гобелен его речей... Возможно, этот человек, как и я, несёт бремя видения сквозь судьбы... 
+Оз: А может, он и правда пират?
+
+### О Моне...
+
+Фишль: А, этот «великий астролог Мона»... Мона, которой однажды хватило тщеславия попытаться вызнать судьбу Принцессы осуждения! Она превратилась в трепещущую развалину, перерождённую и сломленную. 
+Оз: Бедняжка отчаянно пыталась не рассмеяться. И это было непросто.
+
+### О Розарии...
+
+Фишль: Многие думают, что она благочестивая и преданная последовательница своего Анемо Архонта. 
+Оз: «Благочестивая», моя миледи? 
+Фишль: Именно. Однажды вечером я видела, как она сказала некому человеку: «Именем Барбатоса, пропади ты пропадом!» Не иначе как это была молитва.
+
+### Узнать больше о Фишль I
+
+Осудить виновных, благословить тех, кому благоволит судьба, собрать под крыльями Нирваны Ночи ставшие ненужными сны со всего мира - вот бремя Принцессы осуждения, вот её долг, и того никто не оспорит.
+
+### Узнать больше о Фишль II
+
+Мой левый глаз? Это - Глаз правосудия, который видит всю правду мира. Почему я скрываю его под повязкой... Хотелось бы тебе нести бремя всей правды этого мира? Это вызывает боль, и к тому же мир становится тусклым и бессмысленным, когда разделён на правду и ложь.
+
+### Узнать больше о Фишль III
+
+Фишль:Ужас Бури? Неужели никто не предполагал, что существо такой силы, сдерживаемое цепями, как домашняя зверюшка, однажды принесёт катастрофу этому миру? Ах, никчемные людишки из никчёмного мира... 
+Оз: Но разве миледи не заботилась о душах этих никчёмных людишек во время катастрофы? 
+Фишль: Ну, это потому что высшим долгом принцессы является защита душ простых смертных...
+
+### Узнать больше о Фишль IV
+
+Оз: Некоторые люди называют миледи другими именами. Но для меня та, кто дал мне жизнь и силы, всегда будет носить имя Фишль. Только это имя соответствует её судьбе, и ошибка непростительна... 
+Фишль: Ох, мои уши горят. Скажите на милость, о чём это вы тут секретничаете?
+Оз: О, миледи, я говорил о ночной иллюзии! И об имени Принцессы осуждения!
+
+### Узнать больше о Фишль V
+
+Почему я, принцесса, должна судить грешников? Конечно, потому что они идут против судьбы... В конце концов, судьба привела тебя сюда, в этот мир, участь свела нас, сплела вместе наши пути. Я, Фишль, буду защищать тебя. Потому что... Потому что это предопределено судьбой!
+
+### Хобби Фишль: Спросить у Фишль
+
+Я путешествовала среди звёзд и видела множество миров, я постигла судьбы тысяч вселенных и каждого смертного.
+
+### Хобби Фишль: Спросить у Оза
+
+Оз: Миледи любит читать романы. Эх... Это имя, «Оз», она нашла в своей любимой книге. *вздыхает*
+
+### Беспокойство Фишль...
+
+Что? Что в этом мире может волновать меня, Принцессу осуждения... Если ты действительно хочешь знать, я скажу: это люди, кто не может принять мою суть. Но в том нет трагедии: удел благородных особ - одиночество. И всё, что нужно - не потерять благородство души...
+
+### Любимая еда...
+
+Фишль: Еда - это лишь оковы для смертного тела. Но если ты очень хочешь услышать ответ, вот он: нет более достойной пищи для Принцессы осуждения, чем слёзы грешников и языки лжецов... 
+Оз: Но разве миледи больше не любит медовые бутерброды из ночного летнего дворца?
+Фишль: Это... Это лишь, чтобы восполнить необходимую этому бренному телу энергию!
+
+### Нелюбимая еда...
+
+Оз: Полагаю, я знаю ответ... 
+Фишль: Конечно, знаешь. Бедное существо, скованное поправшими законы природы оковами... 
+Оз: Оно никогда больше не сможет летать, как я... 
+Фишль: Лишённый головы, которую преклонял раньше перед величием монархов... Отражение всех мук моего мира во плоти. Имя ему... 
+Оз: Точно было что-то про «цыплёнка» и «соус», верно?
+
+### День рождения...
+
+Фишль: Ха-ха! Раз сегодня день, в который ты волею судьбы родился, то я не могу стоять в стороне. Говори! Расскажи мне, что в своей короткой и скоротечной жизни, что в этом глухом, разлагающемся мире ты желаешь больше всего? Говори, да я услышу слова твои! Пусть даже...
+Оз: Она говорит, «С днём рождения! Если хочешь, она...» 
+Фишль: Оз! Молчать! / Фишль: Ха-ха! Раз сегодня день, в который ты волею судьбы родилась, то я не могу стоять в стороне. Говори! Расскажи мне, что в своей короткой и скоротечной жизни, что в этом глухом, разлагающемся мире ты желаешь больше всего? Говори, да я услышу слова твои! Пусть даже...
+Оз: Она говорит, «С днём рождения! Если хочешь, она...» 
+Фишль: Оз! Молчать!
+
+### Чувство возвышения: Начало
+
+Фишль: Мои стрелы воспевают моё священное имя, когда летят сквозь ночную тьму и молят о том, чтобы пурпурные молнии справедливой кары настигли врагов судьбы! 
+Оз: Ваши речи прекрасны, миледи! Быть может, ваши стрелы настигнут какого-нибудь голубя? Время ужина.
+
+### Чувство возвышения: Нарастание
+
+Фишль: Теперь я стала ещё ближе к тому величию, что подобает иметь Принцессе осуждения, и пусть трепещут противники судьбы, имя которой «Реальность». 
+Оз: Это будет полезно и в вашей работе в Гильдии искателей приключений, миледи.
+
+### Чувство возвышения: Кульминация
+
+Ликуйте! Ликуйте и содрогайтесь от страха! Почему? Потому что я, Принцесса осуждения, хозяйка Нирваны Ночи, уже взглянула левым глазом на вязь судьбы, что оплела вселенную, и увидела каждую повисшую осиротевшую нить!
+
+### Чувство возвышения: Окончание
+
+Когда я пришла в этот мир, я потеряла часть сил, но теперь они полностью вернулись ко мне. Муа-ха-ха, близок час расплаты!.. О, не волнуйся. Даже в последние минуты, когда я призову на этот мир карающие молнии, с тобой ничего не случится. Потому что ты благословлён мною, Принцессой осуждения Фишль. / Когда я пришла в этот мир, я потеряла часть сил, но теперь они полностью вернулись ко мне. Муа-ха-ха, близок час расплаты!.. О, не волнуйся. Даже в последние минуты, когда я призову на этот мир карающие молнии, с тобой ничего не случится. Потому что ты благословлена мною, Принцессой осуждения Фишль.
+
+### Элементальный навык I
+
+Именем принцессы!
+
+### Элементальный навык II
+
+Оз, покажись!
+
+### Элементальный навык III
+
+Я призываю тебя!
+
+### Элементальный навык IV
+
+Оз: «Нет покоя для грешной души...»
+
+### Взрыв стихии I
+
+Крылья тьмы, явитесь и отрежьте день от ночи!
+
+### Взрыв стихии II
+
+Ночная иллюзия!
+
+### Взрыв стихии III
+
+Ворон тьмы, да будет ночь!
+
+### Взрыв стихии IV
+
+Оз: «Как пожелаете, миледи!»
+
+### Взрыв стихии V
+
+Оз: «Ночная иллюзия!»
+
+### Открытие сундука I
+
+Судьба привела меня сюда!
+
+### Открытие сундука II
+
+Какие сокровища скрыты в этом бесплодном мире?
+
+### Открытие сундука III
+
+Ха-ха-ха, воскликни моё прославленное имя!
+
+### Низкий уровень HP I
+
+Ха! Хотите узреть мою истинную мощь?
+
+### Низкий уровень HP II
+
+Оз: «Миледи! Если вы падёте...»
+
+### Низкий уровень HP III
+
+Столь жестокая судьба - не для монарших особ!
+
+### Низкий уровень HP компаньона I
+
+Ха, позволь мне!
+
+### Низкий уровень HP компаньона II
+
+Оз: Миледи, срочно требуется ваше присутствие...
+
+### Без сознания I
+
+Этот мир - не место для принцессы...
+
+### Без сознания II
+
+Я... восстану... снова...
+
+### Без сознания III
+
+Оз: Миледи!
+
+### Получен тяжёлый удар I
+
+Неподчинение.
+
+### Присоединяется к группе I
+
+Во имя принцессы!
+
+### Присоединяется к группе II
+
+Оз: Узрите Принцессу осуждения!
+
+### Присоединяется к группе III
+
+Нити твоей судьбы в моих руках!
+
+### Подарок I
+
+Фишль: Такое изысканное лакомство достойно того, чтобы его подали в королевском обеденном зале.
+Оз: Миледи говорит, что ей очень нравятся твои блюда.
+
+### Подарок II
+
+Фишль: Чтобы победить мировое чудовище, нужно отринуть мирские желания и проложить путь к своей судьбе.
+Оз: И всё же вы наелись досыта, миледи.
+
+### Подарок III
+
+Фишль: Ты осмеливаешься подавать принцессе это бедствие?!
+Оз: Миледи не в восторге от этого блюда. Прошу прощения.
+
+## REPLICAS_EN
+
+### Hello
+
+Fischl: I, Fischl, Prinzessin der Verurteilung, descend upon this land by the call of fate an— Oh, you are also a traveler from another world? Very well, I grant you permission to travel with me.
+Oz: She means, "Nice to meet you."
+
+### Chat: Whispers of Destiny
+
+I hear the voice of fate, speaking my name in humble supplication...
+
+### Chat: Creation of the World
+
+Hm-hm, may the glory of the Prinzessin bring light to this world.
+
+### Chat: One From the Beyond
+
+Fischl: I do worry about the well-being of my retinue during my impromptu absence...
+Oz: I'm sure the good people of the Adventurers' Guild are absolutely fine, mein Fräulein.
+
+### After the Rain
+
+Oh, the sun's out— Oh, um... This meteorological transformation is most splendid! Like a felicitous twist of fate in the face of certain doom.
+
+### When Thunder Strikes
+
+Fischl: Hark! 'Tis Thundering Retribution, an omen of dark times ahead...
+Oz: That, and mein Fräulein's laundry is still on the line...
+Fischl: Wha... Seriously!?
+
+### When It Snows
+
+Fischl: A wonderful sight indeed. Why, it reminds me of my home world, where at the sight of the Prinzessin der Verurteilung, the very blood and tears of sinners turn to ice! ...Achoo! Achoo!
+Oz: Not only their blood and tears, but also their saliva and mucus, mein Fräulein.
+Fischl: Oz— Ahh—Achoo!!!
+
+### When the Sun Is Out
+
+Fischl: Ozzie, my dear familiar...
+Oz: "Ozzie?" What's gotten into you...
+Fischl: Her Majesty beseeches you to unfurl your blessèd wings, and with them blot out the heavens, plunging the world into eternal night...
+Oz: If you didn't bring your parasol with you, that's your own fault, mein Fräulein!
+
+### Good Morning: Greet Fischl
+
+Dusk and dawn but fleeting shadows are. Once more, the twists of fate have led you into my everlasting night.
+
+### Good Morning: Greet Oz
+
+Oz: Good morning. Mein Fräulein heard you'd be dropping by, so she's preparing breakfast.
+Fischl: Oz! ...Ahem. To what do I owe the pleasure?
+
+### Good Afternoon
+
+Even one of royal blood finds oneself susceptible to drowsiness at this hour.
+
+### Good Evening
+
+Fischl: The stars of firmament are naught but rifts, thrust open by Oz's beak into the boundless tapestry of darkness.
+Oz: You do say the strangest things, mein Fräulein.
+
+### Good Night
+
+Fischl: Sweet shall be thy sleep, spared of the Mares of the Night! For no Night-Mares would dare draw near to those who are blessed by the Immernachtreich!
+Oz: She means, "Goodnight."
+
+### About Fischl: Prinzessin der Verurteilung
+
+Fischl: Me? Hehehe. Remember thou this, that I, Fischl, am the Prinzessin der Verurteilung, Sovereign of Immernachtreich, omniscient and eminent judge of all the world's iniquity!
+Oz: She's an investigator for the Adventurers' Guild.
+Fischl: ...Ahem. That is but one of my many royal engagements.
+
+### About Us: Beings Who Descended Upon This World
+
+Huh, you and I are both travelers from another world. That our paths have crossed here is no accident, but the will of fate.
+
+### About Us: Shooting Down the World Beast
+
+You seem... troubled. Traveler, do not lose heart! For with my left eye, the Auge der Verurteilung, which sees the threads of fate, I will surely keep you from harm. And Oz, the raven that has witnessed the demise of countless worlds, will watch over you on your journey. Should this world, like a beast prowling in the night, covet your dreams, then I, Prinzessin der Verurteilung, shall fell it with my ensorcelled arrows of judgment!
+
+### About Us: Ones Dear to Heart
+
+Fischl: Oz, my loyal companion. That we should have met this person, one who hails from another world as I do... Perhaps even cruel fate has deigned to smile upon me, though sin courses through my veins. If I am indeed destined to remain here, in this inescapable prison that is reality, at least—
+Oz: I understand, mein Fräulein! In this traveler, Fräulein has found one who will never forsake her.
+
+### About Us: Standing Watch
+
+Fischl: Ozvaldo von Hrafnavins. I, the Prinzessin der Verurteilung, sovereign of the Immernachtreich, do hereby call upon thee to do all within thy power to deliver the traveler from the claws of fate that would seek to snatch them at every turn, and to ready thy mind lest thou be required to make the ultimate sacrifice in the performance of this noblest of duties.
+Oz: ...You'd place my life in danger so easily, mein Fräulein?
+
+### About the Vision
+
+Oh? You inquire about my Edelstein der Dunkelheit? It is a royal heirloom, a ceremonial ornament that displays the majesty of the Prinzessin der Verurteilung before the unworthy. Even here, in this fallen world, I have been reunited with my rightful inheritance as one of royal blood and noble spirit, for the majesty of a true princess shall draw her royal heirlooms unto her wherever so she may roam.
+
+### Something to Share
+
+Fischl: If one must reckon time as this world does, I, Fischl, have already seen three thousand winters. Not that the illusory passage of time has any bearing on one such as I, to whom the causality of three thousand universes has been unveiled.
+Oz: Be that as it may, mein Fräulein, you are not yet considered to be of drinking age in this world, and no bartender can ever be convinced otherwise.
+
+### Interesting Things
+
+Oz's full name is Ozvaldo von Hrafnavins. Where I hail from, he holds dominion over star and sky across three universes, and the souls of the mighty, fallen in battle, rest in the shadow of his wings. One should add that the penalty for mispronouncing his name is to have one's tongue torn from one's mouth. However, as I am a princess and you are one who has my favor, we are at liberty to simply call him, "Oz."
+
+### About Bennett
+
+Fischl: Ah, the ill-starred young man... My Auge der Verurteilung has seen with unmistakable clarity how his heart ails at being forsaken by the world—
+Oz: Someone needs to keep an eye on the unlucky fellow.
+
+### About Lisa
+
+Fischl: The magus-custodian of books, gatekeeper of universal knowledge... Win her trust, and one may yet gain access to a vast repository of wisdom...
+Oz: She means as long as you return your first few library books on time, you'll never have any trouble borrowing a book again.
+
+### About Kaeya
+
+Fischl: His nature is obscure, his fate a mystery, and his speech a vexing tapestry woven of both fact and fiction... Perhaps he and I share the burden of mystical sight...
+Oz: Or perhaps he's secretly an actual pirate?
+
+### About Mona
+
+Fischl: Aha, yes, Mona, the mighty astrologer... Mona, who once had the vanity to probe the fate of the Prinzessin der Verurteilung herself! She wound up a trembling wreck, overborne and overmastered.
+Oz: The poor lass was trying desperately not to laugh. It was no easy task.
+
+### About Rosaria
+
+Fischl: One finds Sister Rosaria to be a most devout believer in the Anemo Archon.
+Oz: ..."Devout believer," mein Fräulein?
+Fischl: Indeed! One night, I heard her invoking the name of the Archon thus in another's presence: "May you be struck down in the name of Lord Bartabos!" One presumed that she was leading a prayer.
+
+### About Fischl: I
+
+To condemn the guilty, to sanctify the just, and to draw all castaway dreams into the embrace of the infinite Immernachtreich. This is the birthright of the Prinzessin der Verurteilung, and her burden. None may gainsay it.
+
+### About Fischl: II
+
+My left eye? It is the all-seeing Auge der Verurteilung, which reveals all that is true in the world. As to the question of why I conceal it... Well, would you willingly bear the agony of piercing to the heart of all truths? Furthermore... the world would lose much of its appeal if wholly stripped of delusion and falsehood.
+
+### About Fischl: III
+
+Fischl: Stormterror? Why, one never would have thought that a being that one might have kept as her pet could, in this world, be capable of causing such calamity. *sigh* Pitiable are the incompetents of this world...
+Oz: That said, mein Fräulein, were you not beside yourself with worry for everyone's safety during said calamity?
+Fischl: Th—That is because the Prinzessin der Verurteilung has the solemn duty to safeguard the souls of all, be they petty beings or not...
+
+### About Fischl: IV
+
+Oz: Some people address her by other names. But to me, the one who gave me life and bestowed my powers upon me is Fischl, and none other. All things considered, Fischl is the name that most aptly captures her identity. Seriously, don't call her anything else, or—
+Fischl: Oh, how one's royal ears do burn! Pray tell, what is the matter which you discuss so furtively?
+Oz: Mid—Midnight Phantasmagoria, mein Fräulein! And... the majesty of the Verurteilung name!
+
+### About Fischl: V
+
+Why must the Prinzessin der Verurteilung punish sin? Because sin defies fate's rightful decree, of course! ...And of course, fate brought you here, so, so... Ahem! It was fate that saw to your descent upon this world, destiny that saw our paths intertwined. I, Fischl, shall always protect you. Because... because fate has revealed to me that this is what has been decreed!
+
+### Fischl's Hobbies: Ask Fischl
+
+I, Fischl, have roamed the galaxy and traversed countless worlds. I have learned the fate of ten thousand universes and have had revealed unto me the destiny of every living soul.
+
+### Fischl's Hobbies: Ask Oz
+
+Oz: Mein Fräulein reads a lot of novels. *sigh* My name, "Oz," is from one of her favorites.
+
+### Fischl's Troubles
+
+What does it take to rile a princess? ...If you must know, it is those who cannot recognize my true identity. But it is no great loss, for solitude is the noble's lot, so long as I do not lose the nobility of my soul...
+
+### Favorite Food
+
+Fischl: Hmph! What is food but the shackles of mortal flesh? ...But if the Prinzessin der Verurteilung should reckon any morsel worthy, then it must be the tears of sinners and the tongues of liars.
+Oz: Has mein Fräulein lost her appetite for the Mitternachtsbrot des Sommernachtgartens?
+Fischl: ...Uh— That is merely to provide mine earthly vessel with such sustenance as it doth require to perform its royal duties!
+
+### Least Favorite Food
+
+Oz: I believe I know the answer to this one...
+Fischl: Indeed you do, Oz! Ah, that poor mortal coil, mutilated by bondage unnatural...
+Oz: It will never again fly as I do...
+Fischl: Deprived of the humble coif with which it was born to gaze in awe at the majesty of its monarch... Surely it is a glimpse of my homeworld's hell, in the flesh. Hmm, the name of the dish escapes me...
+Oz: Something something "Madame," isn't it?
+
+### Birthday
+
+Fischl: Well! If today is truly the anniversary of your birth, it shan't do for me not to mark the occasion. You have my full attention. Speak! Speak to me of your wishes, that which you most desire to fulfill during your fleeting and harsh existence in this wretched world. Whatever that wish may be. Even if, perchance—
+Oz: She means, "Happy Birthday, and if you want, she can—"
+Fischl: Silence, Oz.
+
+### Feelings About Ascension: Intro
+
+Fischl: My magic arrow cries out my holy name as it streaks through the night, praying that the violet lightning of retribution shall strike the enemies of fate down from the skies!
+Oz: Quite awe-inspiring, mein Fräulein! Since it's nearly dinner time, perhaps you might shoot a pigeon down while you're at it?
+
+### Feelings About Ascension: Building Up
+
+Fischl: With this, I may more fully manifest my majesty as Prinzessin der Verurteilung, and defeat that sworn enemy of fate named "reality."
+Oz: It will also be of use in your work for the Adventurers' Guild, mein Fräulein.
+
+### Feelings About Ascension: Climax
+
+Rejoice! Else, tremble in fear! Whenceforth springs this call to mirth and misery, you ask? Let it be known that I, the Prinzessin der Verurteilung, sovereign of the Immernachtreich, have peered forth with mine leftmost eye into the tapestry of fate that doth make up the universe, and beheld its every warp, weft and dangling orphaned thread!
+
+### Feelings About Ascension: Conclusion
+
+I appear to have now regained most of the strength I lost in my transition to this world. Mwuhahaha, the day of judgment is nigh! ...Ah, worry not. Even at the last, when I bring the lightning of retribution upon this world, you shall come to no harm, for thou art blessed by the Prinzessin.
+
+### Elemental Skill: I
+
+By royal decree!
+
+### Elemental Skill: II
+
+Oz, reveal thyself!
+
+### Elemental Skill: III
+
+I summon thee!
+
+### Elemental Skill: IV
+
+Oz: No rest for the wicked...
+
+### Elemental Burst: I
+
+Wings of Darkness, come, sever night from day!
+
+### Elemental Burst: II
+
+Midnight Phantasmagoria!
+
+### Elemental Burst: III
+
+Shadow raven, let night fall!
+
+### Elemental Burst: IV
+
+Oz: As you wish, mein Fräulein!
+
+### Elemental Burst: V
+
+Oz: Midnight Phantasmagoria!
+
+### Opening Treasure Chest: I
+
+Destiny has brought me hither!
+
+### Opening Treasure Chest: II
+
+What trinkets lie veiled within this desolate plane?
+
+### Opening Treasure Chest: III
+
+Hahaha, cry out my illustrious name!
+
+### Low HP: I
+
+Doth thou wish to witness my true power?
+
+### Low HP: II
+
+Oz: Mein Fräulein! Should you fall...
+
+### Low HP: III
+
+This cruel fate befits not one of royal blood!
+
+### Ally at Low HP: I
+
+Hmph! Allow me!
+
+### Ally at Low HP: II
+
+Oz: Mein Fräulein, your presence is urgently required...
+
+### Fallen: I
+
+This realm is no home for a princess...
+
+### Fallen: II
+
+One shall... descend... once again...
+
+### Fallen: III
+
+Oz: Mein Fräulein!
+
+### Heavy Hit Taken: I
+
+Insubordination!
+
+### Joining Party: I
+
+In the name of the Prinzessin!
+
+### Joining Party: II
+
+Oz: Behold, the Prinzessin der Verurteilung!
+
+### Joining Party: III
+
+The threads of your fate lie in my hands!
+
+### Receiving a Gift: I
+
+Fischl: Such an exquisite delicacy is worthy of being served in the Garten Sanssouci.
+Oz: Mein Fräulein says that she thoroughly enjoys your delicious cooking.
+
+### Receiving a Gift: II
+
+Fischl: To vanquish the Beast of the World, one must first rise above mundane desires, thus weaving the path that leads to destiny.
+Oz: And yet, on this occasion, you appear to have eaten your fill, mein Fräulein.
+
+### Receiving a Gift: III
+
+Fischl: Why dost thou insist on raining down chaos and destruction in the presence of your Prinzessin?
+Oz: Mein Fräulein does not care a great deal for this dish. My apologies.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+菲谢尔：我即断罪之皇女，真名为菲谢尔。应命运的召唤降临在此间——哎？你也是，异世界的旅人吗…？那好吧，本皇女恩许你同行。
+奥兹：她的意思是「你好，很高兴认识你」。
+
+### 闲聊·真命低语
+
+我听见命运的嚅嗫，低声呼唤我之尊名…
+
+### 闲聊·天地创造
+
+哼哼，就让皇女的光采荣耀此间天地吧。
+
+### 闲聊·彼方之人
+
+菲谢尔：不知在遥远彼方的扈从…
+奥兹：毋须担心冒险家协会的大家。
+
+### 雨过天晴…
+
+天晴了吗，真舒…咳，此间须臾的霁月光风，就如命运的转折点一般呢！愉快！
+
+### 打雷的时候…
+
+菲谢尔：啊啊，看那昭告命运的圣裁之雷…
+奥兹：这么说来，是不是还有衣服没收？
+菲谢尔：欸？！
+
+### 下雪的时候…
+
+菲谢尔：哼哼，这可是好光景。就像在「那个世界」，罪人的血与泪在断罪的皇女面前凝结的模样呢——啊、啊——阿嚏！阿嚏！
+奥兹：面对小姐，罪人的鼻涕恐怕都要凝结了。
+菲谢尔：奥兹——啊、阿嚏！
+
+### 阳光很好…
+
+菲谢尔：奥兹，我之眷属啊…
+奥兹：喔？怎么突然——
+菲谢尔：以皇女之名，以你的祝圣之翼，遮蔽日月星空，带来永恒的幽夜吧。
+奥兹：不要强人所难！
+
+### 早上好·问候菲谢尔
+
+昼夜时空皆为虚像，命运的纽带却再次将你带到了我的永恒长夜中。
+
+### 早上好·问候奥兹
+
+奥兹：早上好！听说你要来，小姐在准备早点…
+菲谢尔：奥兹！…咳，有何贵干？
+
+### 中午好…
+
+哈…即使贵为皇女，在这样的时辰也不免困乏…
+
+### 晚上好…
+
+菲谢尔：天穹上的星光，都是奥兹在无尽的夜幕上啄出来的洞。
+奥兹：是才怪啦！
+
+### 晚安…
+
+菲谢尔：你的深眠将平安无梦。毕竟，岂有梦魇，敢染指幽夜净土所祝圣之人…
+奥兹：她说「晚安」。
+
+### 关于菲谢尔自己·断罪之皇女
+
+菲谢尔：我吗？哼哼。记好了，我乃幽夜净土的主人，断罪之皇女菲谢尔，裁断此世一切罪责，透彻此间一切真知。
+奥兹：就是冒险家协会的调查员。
+菲谢尔：…那只是肤浅的表象！
+
+### 关于我们·降临此间之人
+
+我与你同为异世界的旅人，在此相遇。错不了，想必是命运的意志吧。
+
+### 关于我们·射落世界之兽
+
+看你有什么烦恼的样子…？旅人啊，不必困惑。因为，我以我的左眼，这只透彻因果之丝的「断罪之眼」，守望着你的命运；以奥兹那见证过一千世界寂灭的鸦眼，观察着你的进路。假若名为「世界」的夜巡凶兽觊觎你的梦想，那我便以断罪的圣裁魔矢将其射落！
+
+### 关于我们·重要之人
+
+菲谢尔：奥兹，我之忠友啊…能遇到「那个人」，与本皇女同样不属于这个世界的旅人…连残酷的命运，也会对我罪孽深重的血脉，展露微笑呢。就算是我的命运，我无法逃离的「现实」…
+奥兹：啊啊，我明白。那个旅行者的话，不管发生了什么，都不会抛弃小姐的吧。
+
+### 关于我们·守望
+
+菲谢尔：奥兹华尔多·赫芙那梵茵斯。为我，为幽夜净土的主宰，断罪的皇女，做好献出生命的觉悟，守望他注定多舛的命运吧。
+奥兹：不要随便让我送命啊！ / 菲谢尔：奥兹华尔多·赫芙那梵茵斯。为我，为幽夜净土的主宰，断罪的皇女，做好献出生命的觉悟，守望她注定多舛的命运吧。
+奥兹：不要随便让我送命啊！
+
+### 关于「神之眼」…
+
+嗯？这个「渊色的幽邃秘珠」吗。那是我族的王器，向一切无礼者昭告断罪皇女之仪。即使流落到了这个荒芜的世界，王器仍然追随着皇族之血与崇高之魂，找到了我，这就是无法斩断的因果吧…
+
+### 有什么想要分享…
+
+菲谢尔：这么说来，按照这个世界的历法，我有三千多岁了。当然，日月流转的虚像对看破三千宇宙因果的我而言没有意义。
+奥兹：小姐，这招是骗不过酒保的，没到喝酒的年纪就是没到喝酒的年纪。
+
+### 感兴趣的见闻…
+
+奥兹的全名，是奥兹华尔多·赫芙那梵茵斯，在「那个世界」主宰着三个宇宙的星海与夜空，以影之翼荫蔽所有战死的勇者之魂。顺带一提，叫错他的名字会被处以拔舌之刑。但我是皇女，而你是我认可的人，所以我们可以随意叫他奥兹。
+
+### 关于班尼特…
+
+菲谢尔：那位厄运的少年吗…错不了的，我这只「断罪之眼」见证过，他那被世界唾弃的悲哀——
+奥兹：那个倒霉蛋，置之不理可不行。
+
+### 关于丽莎…
+
+菲谢尔：那司书的魔女，坐拥着宇宙知识的宝库…如果能赢取她的信任，或许就能获得伟大智慧…
+奥兹：她说「图书馆的规矩就是有借有还，再借不难」。
+
+### 关于凯亚…
+
+菲谢尔：无法看透的真实，无法断明的因果，虚实交织的狂言…那个人，或许也与我一样，背负了「魔眼」的命运…
+奥兹：也可能暗地里是个海盗…？
+
+### 关于莫娜…
+
+菲谢尔：啊啊，那位「伟大的占星术士莫娜」…哼，此人曾经妄图窥探本皇女的命运，结果却浑身颤抖呢。
+奥兹：当时占星术士似乎在努力憋笑，非常不容易。
+
+### 关于罗莎莉亚…
+
+菲谢尔：她吗？似乎是虔信风神的忠实修女呢。
+奥兹：「虔信」？「忠实」？
+菲谢尔：没错。有天晚上看到过，她对什么人说「以风神巴托巴斯的名义，去死吧」这样的话，想必是在领祷吧。
+
+### 想要了解菲谢尔·其一
+
+哼哼，为应受罪罚之徒断罪，为命运青睐之人祝圣，以无尽的幽夜净土收容世间一切不被容赦的梦想，这就是断罪皇女血脉背负的沉重使命，谁人也不许质疑。
+
+### 想要了解菲谢尔·其二
+
+我的左眼？我的左眼是透彻世间一切真相的「断罪之眼」。至于为何要遮起来…那么，窥见此间与彼方一切真实的负担与痛，你愿意承受吗？再说了，通晓此世与常世一切妄念与谎言，又是何等无趣的事，哼哼。
+
+### 想要了解菲谢尔·其三
+
+菲谢尔：风魔龙？那种本皇女寝宫花园里拴着的宠物级别的东西，没想到在这个世界也能形成灾祸呢。哼，一群没用的家伙…
+奥兹：虽然小姐这么说，当时不也为大家担心得不得了吗。
+菲谢尔：那、那还不是因为身为皇女，有守护尘世众生一切灵魂的崇高职责…
+
+### 想要了解菲谢尔·其四
+
+奥兹：有的人会用其他的名字呼唤小姐。但对我来说，将生命与力量分给我的人，只有「菲谢尔」这个名字。这才是符合她命运的名字，千万不要弄错…
+菲谢尔：你们，商谈之事为何？
+奥兹：关、关于至夜幻现！还有断罪之名！
+
+### 想要了解菲谢尔·其五
+
+皇女应断之罪为何，那当然是「违逆命运」了…毕竟，正是命运，让你…是命运，令你我降临此世，将因果交织相连。我、我会守护你，只、只因这是命运的默示录中昭告之事！
+
+### 菲谢尔的爱好·询问菲谢尔
+
+本皇女驰骋星间，行遍诸多世界，领略过一万种宇宙的命运，通读一切灵魂的默示录。
+
+### 菲谢尔的爱好·询问奥兹
+
+奥兹：小姐喜欢看小说。唉…「奥兹」这个名字，也是她从喜欢的小说里挑的。
+
+### 菲谢尔的烦恼…
+
+嗯？这世间能困扰皇女的事情…硬要说的话，那就是，总有人无法接受我的真实身份。但无妨，毕竟高贵者注定孤独嘛。只要我不失却这颗崇高之心…
+
+### 喜欢的食物…
+
+菲谢尔：哼，食物只是凡骨肉胎所受的桎梏。但硬要说的话，能配得上断罪皇女的，那莫过于罪人之泪与谎言之舌…
+奥兹：并不是小姐常做的「常夜夏宫蜜吐司」吗？
+菲谢尔：——只，只是为了补充这具躯壳所需的能量！
+
+### 讨厌的食物…
+
+奥兹：小姐讨厌的，应该是那个吧…
+菲谢尔：那个吗。被违抗自然的锁链束缚的肢体…
+奥兹：再也不能如我这般飞翔…
+菲谢尔：失去了那生来便仰慕皇族王者的卑下头颅，简直是「那个世界」的地狱略影。其名为…
+奥兹：好像是叫什么酿鸡来着？
+
+### 生日…
+
+菲谢尔：哼哼，既然今日是你的命定之日，那我不可能坐视不管。来，说吧！在这腐朽而幽邃的世界里，在你渺小而短暂的人生中，有什么想要实现的愿望，尽管说来，让本皇女听听！嗯…即使是…
+奥兹：她说「生日快乐，如果你想要，她」…
+菲谢尔：奥兹！多嘴！
+
+### 突破的感受·起
+
+菲谢尔：至夜的魔箭…它在高声呼唤着我的祝圣之名，祈求着罪罚的苍紫雷光，射落命运之敌！
+奥兹：伟哉！考虑到晚饭，如果能射落鸽子就更好了。
+
+### 突破的感受·承
+
+菲谢尔：有了这个，就能更好地行使断罪皇女的威仪，击败名为「现实」的命运之敌了。
+奥兹：嗯，就能更好地完成协会的工作了。
+
+### 突破的感受·转
+
+狂喜吧！战栗吧！要问为何的话，须知幽夜净土的断罪皇女，已经用这只左眼，看清了编织宇宙的命运之丝！
+
+### 突破的感受·合
+
+来到这个世界而失去的力量，似乎已经恢复了大半。哼哼哼，定罪之时即将…啊啊，不必担心。即使到了终末之刻，我在此世降下罪罚之雷时，也不会伤及你。因为，你可是我的祝圣之人啊。
+
+### 元素战技·其一
+
+以断罪之名！
+
+### 元素战技·其二
+
+现身吧，奥兹！
+
+### 元素战技·其三
+
+回应我吧！
+
+### 元素战技·其四
+
+奥兹：又来了…
+
+### 元素爆发·其一
+
+黑之翼，屏断昼夜——
+
+### 元素爆发·其二
+
+至夜幻现！
+
+### 元素爆发·其三
+
+影之鸦，渴求幽夜——
+
+### 元素爆发·其四
+
+奥兹：一如小姐所愿！
+
+### 元素爆发·其五
+
+奥兹：至夜幻现！
+
+### 打开宝箱·其一
+
+命运，指引我来此！
+
+### 打开宝箱·其二
+
+荒芜的世界，竟藏有这等瑰宝！
+
+### 打开宝箱·其三
+
+哈哈哈，高呼我的祝圣之名吧！
+
+### 生命值低·其一
+
+只好稍微认真一点了，哼。
+
+### 生命值低·其二
+
+奥兹：小姐，如果你倒下了，我——！
+
+### 生命值低·其三
+
+皇女的命运，不应在此完结…！
+
+### 同伴生命值低·其一
+
+哼，就让我来吧！
+
+### 同伴生命值低·其二
+
+奥兹：小姐，那边有些不妙…
+
+### 倒下·其一
+
+这个世界，也容不得本皇女吗…
+
+### 倒下·其二
+
+我将再度降临…呜…
+
+### 倒下·其三
+
+奥兹：小姐！…
+
+### 重受击·其一
+
+不敬之徒。
+
+### 加入队伍·其一
+
+以皇女之名！
+
+### 加入队伍·其二
+
+菲谢尔：赞颂我的降临吧。奥兹：伟哉！
+
+### 加入队伍·其三
+
+你的命运，已成为我掌间之丝！
+
+### 收到赠礼·其一
+
+菲谢尔：此等珍馐，可纳于忘忧之御膳园中。
+奥兹：小姐说，这就是她理想的美味。
+
+### 收到赠礼·其二
+
+菲谢尔：为射落世界之兽，必须突破尘俗欲望，编织通向命运之间的道路。
+奥兹：但刚才，小姐不是吃得很香吗？
+
+### 收到赠礼·其三
+
+菲谢尔：为何要将残破与毁灭，呈于本皇女面前？
+奥兹：小姐不太喜欢这道菜肴，请你见谅。

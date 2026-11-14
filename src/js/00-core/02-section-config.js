@@ -41,7 +41,7 @@ const SECTIONS = [
     data: () => ITEMS,
     groups: ITEM_GROUPS,
     groupField: "item_group",
-    defaultGroup: "misc",
+    defaultGroup: "teyvat_resources",
     filter: "region",
     filterLabel: "Все регионы",
     empty: "В этой категории пока нет предметов.",

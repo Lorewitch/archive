@@ -21,12 +21,23 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: По следам Нарцисса
+# game_source_ids: 74165
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 30
 
 ## RU
 
 ### Пробуждение от великого сна
 
 В Первозданном море повстречайтесь лицом к лицу с мечтой Нарциссенкрейца о спасении.
+
+#### Войдите в течение
+
+#### Войдите в течение
+
+#### Войдите в течение
+
+#### Двигайтесь дальше
 
 #### Поговорите с гигантским существом
 
@@ -56,6 +67,10 @@
 
 **Нарциссенкрейц:** Я иду за Чудесным мечом.
 
+#### Победите Нарциссенкрейца
+
+#### Победите Нарциссенкрейца
+
 #### Поговорите с Нарциссенкрейцем
 
 **Нарциссенкрейц:** Не бывать этому... Я уже достиг точки невозврата. Как я дошёл до такого состояния?
@@ -74,9 +89,9 @@
 
 **Нарциссенкрейц:** Пока наконец ко мне не вернулась моя слабая смертная суть - моя личность.
 
-- **Путешественник:** Первозданное море разливается не так быстро.
+##### Вариант ответа 1
 
-- **Путешественник:** Тот кит уже побеждён.
+- **Путешественник:** Первозданное море разливается не так быстро.
 
 **Нарциссенкрейц:** Я уже давно заметил, что во входных значениях первой заложенной мной мировой формулы произошли изменения.
 
@@ -88,6 +103,10 @@
 
 **Нарциссенкрейц:** Хм, понятно.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Тот кит уже побеждён.
+
 **Нарциссенкрейц:** Я должен был заметить, что во входных значениях первой заложенной мной мировой формулы произошли изменения - появилась некая «переменная».
 
 **Нарциссенкрейц:** Не всё, что приходит извне Вселенной, можно назвать «сошествием» или «переменной».
@@ -97,6 +116,8 @@
 **Нарциссенкрейц:** Свидетель всего сущего, регистратор всего сущего, архитектор всего сущего.
 
 **Нарциссенкрейц:** Только тот, чьи ценности равны мировым, достоин этого звания.
+
+##### Общее продолжение
 
 **Нарциссенкрейц:** Я тоже мечтал стать кем-то вроде тебя. Но эта мечта теперь разбита вдребезги.
 
@@ -150,7 +171,7 @@
 
 **Нарциссенкрейц:** Но это уже невозможно. В конце концов, не сам человек решает свою судьбу, теперь я не способен даже о чём-либо мечтать.
 
-**Анн:** Ну что ж, рыцарь Путешественник, когда будешь готов(а), давай снова запечатаем Первозданное море и покинем это место.
+**Анн:** Ну что ж, рыцарь Путешественник, когда будешь готов, давай снова запечатаем Первозданное море и покинем это место. / Ну что ж, рыцарь Путешественник, когда будешь готова, давай снова запечатаем Первозданное море и покинем это место.
 
 **Нарциссенкрейц:** Не бывать этому... Я уже достиг точки невозврата. Как я дошёл до такого состояния?
 
@@ -168,7 +189,7 @@
 
 **Нарциссенкрейц:** Пока наконец ко мне не вернулась моя слабая смертная суть - моя личность.
 
-Первозданное море разливается не так быстро.
+- **Путешественник:** Первозданное море разливается не так быстро.
 
 **Нарциссенкрейц:** Я уже давно заметил, что во входных значениях первой заложенной мной мировой формулы произошли изменения.
 
@@ -232,13 +253,21 @@
 
 **Нарциссенкрейц:** Но это уже невозможно. В конце концов, не сам человек решает свою судьбу, теперь я не способен даже о чём-либо мечтать.
 
-**Анн:** Ну что ж, рыцарь Путешественник, когда будешь готов(а), давай снова запечатаем Первозданное море и покинем это место.
+**Анн:** Ну что ж, рыцарь Путешественник, когда будешь готов, давай снова запечатаем Первозданное море и покинем это место. / Ну что ж, рыцарь Путешественник, когда будешь готова, давай снова запечатаем Первозданное море и покинем это место.
 
 ## EN
 
 ### Waking from the Great Dream
 
 In the Primordial Sea, face Narzissenkreuz's dream of salvation.
+
+#### Enter the ocean current
+
+#### Enter the ocean current
+
+#### Enter the ocean current
+
+#### Keep moving ahead
 
 #### Talk to the giant being
 
@@ -268,6 +297,10 @@ In the Primordial Sea, face Narzissenkreuz's dream of salvation.
 
 **Narzissenkreuz:** Now, I shall come to take the Holy Blade.
 
+#### Defeat Narzissenkreuz
+
+#### Defeat Narzissenkreuz
+
 #### Talk to Narzissenkreuz
 
 **Narzissenkreuz:** Impossible... I had already reached the stage of "no return." How have I fallen to this point?
@@ -286,9 +319,9 @@ In the Primordial Sea, face Narzissenkreuz's dream of salvation.
 
 **Narzissenkreuz:** Until, at last, my weak, ordinary self has returned to its physical body.
 
-- **Traveler:** The Primordial Sea won't overflow its banks so soon.
+##### Response branch 1
 
-- **Traveler:** That creature has already been defeated.
+- **Traveler:** The Primordial Sea won't overflow its banks so soon.
 
 **Narzissenkreuz:** Indeed, I can sense changes in the values originally entered into the world-formula.
 
@@ -300,6 +333,10 @@ In the Primordial Sea, face Narzissenkreuz's dream of salvation.
 
 **Narzissenkreuz:** I see, I see.
 
+##### Response branch 2
+
+- **Traveler:** That creature has already been defeated.
+
 **Narzissenkreuz:** I should have sensed the changes in the values originally entered into the world-formula. A "variable" has descended upon this world.
 
 **Narzissenkreuz:** Not everything from outside the universe can be called a "presence" or "variable."
@@ -309,6 +346,8 @@ In the Primordial Sea, face Narzissenkreuz's dream of salvation.
 **Narzissenkreuz:** The witness of all, the recorder of all, the designer of all.
 
 **Narzissenkreuz:** Only one who is worth a world can bear that title.
+
+##### Shared continuation
 
 **Narzissenkreuz:** I once dreamed of becoming one just like you. But that dream is now shattered.
 
@@ -380,7 +419,7 @@ In the Primordial Sea, face Narzissenkreuz's dream of salvation.
 
 **Narzissenkreuz:** Until, at last, my weak, ordinary self has returned to its physical body.
 
-The Primordial Sea won't overflow its banks so soon.
+- **Traveler:** The Primordial Sea won't overflow its banks so soon.
 
 **Narzissenkreuz:** Indeed, I can sense changes in the values originally entered into the world-formula.
 
@@ -452,6 +491,14 @@ The Primordial Sea won't overflow its banks so soon.
 
 在原始胎海中，去直面水仙十字的救世梦想。
 
+#### 进入洋流
+
+#### 进入洋流
+
+#### 进入洋流
+
+#### 前进
+
 #### 与眼前的巨物对话
 
 **纳齐森科鲁兹:** 我…感受到了「理性」。到来之人，汝等是水仙十字的后继者，还是齿轮的鹰犬？
@@ -480,6 +527,10 @@ The Primordial Sea won't overflow its banks so soon.
 
 **纳齐森科鲁兹:** 现在，我要来取圣剑了。
 
+#### 击败纳齐森科鲁兹
+
+#### 击败纳齐森科鲁兹
+
 #### 与纳齐森科鲁兹对话
 
 **纳齐森科鲁兹:** 不可能…我明明已经登达了「不退还」之位阶。为什么，跌落到了如此境界。
@@ -498,9 +549,9 @@ The Primordial Sea won't overflow its banks so soon.
 
 **纳齐森科鲁兹:** 直到最后，我懦弱的凡人性——我的人格也回到了我的体内。
 
-- **旅行者:** 胎海泛滥并没有那么快。
+##### 对话分支 1
 
-- **旅行者:** 那条鲸已经被打败了。
+- **旅行者:** 胎海泛滥并没有那么快。
 
 **纳齐森科鲁兹:** 我已经有所察觉，最早填入「世界式」的输入值出现了变动。
 
@@ -512,6 +563,10 @@ The Primordial Sea won't overflow its banks so soon.
 
 **纳齐森科鲁兹:** 原来是这样，原来是这样。
 
+##### 对话分支 2
+
+- **旅行者:** 那条鲸已经被打败了。
+
 **纳齐森科鲁兹:** 我本该有所察觉，最早填入「世界式」的输入值出现了变动。有「变量」降临此间。
 
 **纳齐森科鲁兹:** 并非是所有宇宙外到来的事物都能被叫做「降临」或者「变量」。
@@ -521,6 +576,8 @@ The Primordial Sea won't overflow its banks so soon.
 **纳齐森科鲁兹:** 一切的见证者，一切的记录者，一切的设计者。
 
 **纳齐森科鲁兹:** 唯有自身等价一个世界的人才能担此头衔。
+
+##### 共同后续
 
 **纳齐森科鲁兹:** 我也做过这样的梦，想要成为你这样的事物。不过这个梦，刚刚破碎了。
 
@@ -592,7 +649,7 @@ The Primordial Sea won't overflow its banks so soon.
 
 **纳齐森科鲁兹:** 直到最后，我懦弱的凡人性——我的人格也回到了我的体内。
 
-胎海泛滥并没有那么快。
+- **旅行者:** 胎海泛滥并没有那么快。
 
 **纳齐森科鲁兹:** 我已经有所察觉，最早填入「世界式」的输入值出现了变动。
 

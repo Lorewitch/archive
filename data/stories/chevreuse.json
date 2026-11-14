@@ -144,5 +144,988 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я Шеврёз, капитан Особого патруля охраны и наблюдения Фонтейна. Прости, обойдусь без любезностей. Есть ли дело, требующее моего внимания?",
+        "en": "I'm Chevreuse, Captain of Fontaine's Special Security and Surveillance Patrol. You'll excuse me if I skip the pleasantries. Is there a case that needs my attention?",
+        "zh": "我是枫丹特巡队队长夏沃蕾，寒暄就免了，有什么棘手的案件需要处理吗？"
+      },
+      "source_id": 90000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Мушкет",
+        "en": "Chat: Musket",
+        "zh": "闲聊·铳枪"
+      },
+      "text": {
+        "ru": "Мушкет - моё любимое оружие. И мощное, и грозное... иногда последнее гораздо полезнее.",
+        "en": "The musket is my favorite weapon. It's both powerful and threatening... sometimes the latter trait is far more useful.",
+        "zh": "铳枪是我最喜欢的武器，它具有强大的杀伤力和威慑力。有些时候，后者甚至比前者更有用。"
+      },
+      "source_id": 90001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Патруль",
+        "en": "Chat: Patrol",
+        "zh": "闲聊·巡逻"
+      },
+      "text": {
+        "ru": "Особый патруль по охране и наблюдению не занимается регулярным патрулированием окрестностей Фонтейна. Люди, которых мы выслеживаем, не будут просто так появляться на улице.",
+        "en": "The Special Security and Surveillance Patrol isn't involved in regular patrol duties around Fontaine. The people we're after aren't exactly the type who just pop up on the street.",
+        "zh": "我们特巡队并不参与枫丹廷的日常巡视工作，我们追捕的人，也不可能在大街上露面。"
+      },
+      "source_id": 90002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Еда",
+        "en": "Chat: Food",
+        "zh": "闲聊·食物"
+      },
+      "text": {
+        "ru": "«Праздничный круг» - лучшая закуска. Её легко взять с собой, и можно сочетать с огромным количеством соусов... Пойду куплю. Скоро вернусь.",
+        "en": "\"Feast-O's\" are just the best snack. They're easy to carry with you, and go with so many sauces... Actually, I'm gonna go buy some. Be right back.",
+        "zh": "「圈圈圆圆」这种零食便于携带，还可以搭配酱汁，尝出不同风味…等着，我去买几份回来。"
+      },
+      "source_id": 90003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Не волнуйся. Мой мушкет может стрелять и под дождём.",
+        "en": "Don't worry. My musket can still fire in the rain.",
+        "zh": "放心，即使是在雨里，我的铳枪依旧能够正常开火。"
+      },
+      "source_id": 90004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Некоторые преступники пытаются за раскатами грома скрыть грохот выстрелов. Но таким трюком мой слух не обмануть.",
+        "en": "Some criminals try to use the sound of thunder to conceal gun shots. But, that trick doesn't fool my ears.",
+        "zh": "有些罪犯会用雷鸣声来掩盖枪声，但这骗不过我的耳朵。"
+      },
+      "source_id": 90005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Подожди! Мне нужно позаботиться о мушкете, пока механизм не замёрз.",
+        "en": "...Hold! I need to service my musket before the mechanism freezes.",
+        "zh": "…等等，我要维护一下铳枪。以免它的机关结构被冻住。"
+      },
+      "source_id": 90006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Прекрасная погода! Особенно подходит для ведения слежки.",
+        "en": "What nice weather! Especially good for keeping an eye on things.",
+        "zh": "天气不错，视野良好。"
+      },
+      "source_id": 90007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Боюсь, такой ветер даже мои пули может сдуть в сторону.",
+        "en": "With this wind, I'm afraid even my bullets might get blown off their mark.",
+        "zh": "这种风速…只怕连出膛的子弹也会被吹歪。"
+      },
+      "source_id": 90008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Просторы пустыни как нельзя лучше подходят для того, чтобы скрыть некоторые вещи от посторонних глаз.",
+        "en": "The sheer vastness of the desert is perfect for keeping certain things buried and out of sight.",
+        "zh": "广阔的沙漠，很适合掩埋某些事物。"
+      },
+      "source_id": 90009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Я как раз собиралась провести несколько раундов силовой тренировки. Не хочешь присоединиться?",
+        "en": "Good morning! I was just about to do a few rounds of strength training. Do you want to join?",
+        "zh": "早上好，我刚准备去做几组体能训练，要一起吗？"
+      },
+      "source_id": 90010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Добрый день! Не хочешь ли перекусить со мной в столовой особого патруля? Там еда действительно сытная.",
+        "en": "Afternoon! Do you want to grab some food with me at the Special Patrol's mess hall? The food there really fills the stomach.",
+        "zh": "中午好，要和我一起去特巡队食堂吃饭吗？那里的饭菜很适合填饱肚子。"
+      },
+      "source_id": 90011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Ещё один рабочий день закончился, и никаких ужасных событий не произошло. Давай перекусим в полночь. Я покажу, куда пойдём.",
+        "en": "Another day of work over, and without any huge disasters to boot. Let's grab a midnight snack. I'll lead the way.",
+        "zh": "今天的工作总算结束了，而且没出什么大乱子，我们去吃点夜宵吧，我来带路。"
+      },
+      "source_id": 90012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Спокойной ночи. Я тоже собираюсь скоро пойти отдохнуть. Надеюсь, за ночь ничего серьёзного не произойдёт.",
+        "en": "Good night. I'm also going to turn in soon. ...I really hope nothing too serious happens while I'm asleep.",
+        "zh": "晚安。我稍后也会去休息，希望…今晚不要发生太多紧急事态。"
+      },
+      "source_id": 90013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Шеврёз: Особый патруль по охране и наблюдению",
+        "en": "About Chevreuse: Special Security and Surveillance Patrol",
+        "zh": "关于夏沃蕾自己·特巡队"
+      },
+      "text": {
+        "ru": "Особый патруль по охране и наблюдению имеет дело с огромным количеством чудовищных преступлений и опасных преступников. В связи с этим методы, применяемые нами для обеспечения правопорядка, могут быть несколько... жёсткими.",
+        "en": "The Special Security and Surveillance Patrol deals with a whole host of heinous crimes and dangerous criminals. As such, the methods we employ to enforce the law can be a bit on the... harsher side.",
+        "zh": "特巡队专门应对各类危急凶案和恶劣罪犯，所以，我们在执法时会相对…强硬一些。"
+      },
+      "source_id": 90014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О Шеврёз: Фуражка",
+        "en": "About Chevreuse: Uniform Cap",
+        "zh": "关于夏沃蕾自己·帽子"
+      },
+      "text": {
+        "ru": "В Особом патруле по охране и наблюдению существует неписаное правило. Если кто-то из сотрудников уходит из жизни, мы храним его фуражку. Если ребёнок умершего сотрудника вступает в ряды Особого патруля, мы передаём фуражку ему... Наверное, это можно назвать передачей по наследству.",
+        "en": "There's an unwritten rule in the Special Security and Surveillance Patrol. Any time a member dies in the line of duty, we hold onto their cap. Should a child of a deceased member ever join the Special Patrol, we then pass the cap down to them... I suppose you could call it a way of passing on a member's legacy.",
+        "zh": "在特巡队里，有一个不成文的规定。如果一个队员牺牲了，那我们就会将他的帽子保存起来，如果他的后代也成为了特巡队员，我们会将这顶帽子授予他的后代…这也算是一种「传承」吧。"
+      },
+      "source_id": 90015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Интересы",
+        "en": "About Us: Interests",
+        "zh": "关于我们·兴趣"
+      },
+      "text": {
+        "ru": "В свободное время я люблю читать криминальные романы. От детективов они отличаются тем, что в них меньше внимания уделяется описанию сложных деталей самого преступления, а больше - эмоциональным и человеческим конфликтам, связанным с конкретным делом. Это так интересно.",
+        "en": "In my free time, I like to read crime novels. They differ from murder mysteries in that they focus less on describing the complicated details of the crime itself and more on the emotional and human conflicts surrounding the case. I find them very interesting.",
+        "zh": "我会在空闲时读一些「犯罪小说」。和推理小说不同的是，犯罪小说并不会去设计复杂的犯罪手法，而是着重描写围绕罪案发生的各色人情纠葛和情绪冲突，在我看来还挺有趣的。"
+      },
+      "source_id": 90016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "О нас: Закон",
+        "en": "About Us: The Law",
+        "zh": "关于我们·法理"
+      },
+      "text": {
+        "ru": "Вы можете обратиться ко мне в любое время, если у вас возникнут вопросы, связанные с законодательством. Вообще-то... вы должны приходить ко мне сразу же, как только у вас появляется хоть малейшее подозрение, что совершено противоправное действие. Я не могу сказать, сколько идиотов я встречаю каждый год... Они переступают черту только потому, что они не узнают, где эта черта проходит. Я не хочу, чтобы ты попал в такую же ситуацию. / Вы можете обратиться ко мне в любое время, если у вас возникнут вопросы, связанные с законодательством. Вообще-то... вы должны приходить ко мне сразу же, как только у вас появляется хоть малейшее подозрение, что совершено противоправное действие. Я не могу сказать, сколько идиотов я встречаю каждый год... Они переступают черту только потому, что они не узнают, где эта черта проходит. Я не хочу, чтобы ты попала в такую же ситуацию.",
+        "en": "You can come to me at any time if you have questions about the law. Actually... You should come to me the minute you have the slightest inkling that something may not be legal.\nI can't tell you how many idiots I encounter every year who overstep simply because they fail to check where the line is drawn. I don't want to see you become like them.",
+        "zh": "如果你对法理有什么疑问，可以随时来问我，或者说…当你的脑子里出现「也许这件事并不算违法」的念头时，必须第一时间来和我商量。\n每年都有不少蠢货因为侥幸心理而踏过红线，我可不愿意看见你成为那种人。"
+      },
+      "source_id": 90017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Мой Глаз Бога, безусловно, абсолютно необходим при выполнении моих обязанностей. Например, мой мушкет ни разу не давал сбоя с тех пор, как я получила Глаз Бога. Я бы сказала, что капитан, владеющий мушкетом и Глазом Бога, более чем способен отпугнуть несколько трусливых преступников.",
+        "en": "My Vision is certainly an integral part of the way I execute my duties. For instance, my musket has never had a major malfunction since I received my Vision.\nI'd say a captain who wields a musket and a Vision is more than enough to scare off a few cowardly criminals.",
+        "zh": "在我的工作中，「神之眼」确实是一种不可忽视的武力辅助。有了它之后，我的铳枪再也没有发生过严重故障。\n「同时持有神之眼和铳枪的特巡队队长」，这些名头加起来，应该能够吓倒一些胆小的嫌疑人了。"
+      },
+      "source_id": 90018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Харкорт действительно сделал это, он арестовал Милис... даже несмотря на то, что по-настоящему любил её. Я должна восхищаться им, но... разве Милис действительно сделала что-то плохое? Она лишь нашла какое-то драгоценное украшение и продала его. Наверное, оно ей не принадлежало, но вряд ли это такое уж чудовищное преступление, каким его выставили аристократы... Ах, порой не так-то просто понять, что является справедливым правосудием, не так ли?",
+        "en": "Harcourt really did it, he arrested Mylis... even though she was his true love. I have to admire him for that, although... did Mylis really do anything wrong? All she did was find some jewelry and sell it off. I guess it didn't belong to her, but it's hardly the heinous crime that the aristocrats made it out to be... *sigh* It's hard to know what justice should look like sometimes, isn't it?",
+        "zh": "汉考特竟然真的逮捕了米莉丝…面对挚爱之人也能下得去手，让人钦佩。但是米莉丝做错了什么呢？她只是变卖了一件捡到的首饰而已，就变成了贵族口中十恶不赦的罪人…正义真让人捉摸不透，你觉得呢？"
+      },
+      "source_id": 90019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Интересные вещи: Жандарматоны",
+        "en": "Interesting Things: Gardemek",
+        "zh": "感兴趣的见闻·警卫机关"
+      },
+      "text": {
+        "ru": "Хотя наша организация относится к Палате Жардинаж, Особый патруль по охране и наблюдению практически не использует жандарматонов. Почему?.. Ну, скажем так, эти громоздкие машины только мешают нашим пулям.",
+        "en": "Although our organization belongs to the Maison Gardiennage, the Special Security and Surveillance Patrol makes little use of Gardemeks. As for the reason... Well, let's just say those cumbersome machines would only get in the way of our bullets.",
+        "zh": "虽然我们隶属于执律庭，但特巡队执行任务时，并不会大量启用警卫机关。至于为什么…呵，那些笨重的机关，只会挡住我们射出的子弹。"
+      },
+      "source_id": 90020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Навии...",
+        "en": "About Navia",
+        "zh": "关于娜维娅…"
+      },
+      "text": {
+        "ru": "Я слышала о деле об убийстве, по которому проходил отец Навии. В то время оно вызвало большой переполох в Палате Жардинаж. Полагаю, оно стало причиной многих разногласий. К счастью, правда всплыла на поверхность, и истинный виновник был привлечён к ответственности... Правосудие не всегда бывает быстрым, но в конце концов оно всегда торжествует.",
+        "en": "I've heard about the murder case involving Navia's father. It caused quite the stir in the Maison Gardiennage at the time. It was the source of many disagreements, I believe.\nFortunately, the truth has come to light and the true culprit has been held accountable... Justice may not always be swift, but it always prevails in the end.",
+        "zh": "我听说过和娜维娅小姐父亲有关的那件谋杀案，当时在执律庭也闹得沸沸扬扬，不少人都因为这件案件而吵个不停…\n好在如今案件已然昭雪，真正的凶犯也已经伏法…「正义」总算是正式入席了。"
+      },
+      "source_id": 90021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Лини...",
+        "en": "About Lyney",
+        "zh": "关于林尼…"
+      },
+      "text": {
+        "ru": "Лини - довольно известный фокусник. Однажды мы арестовали фокусника, подозреваемого в умышленном причинении вреда, мошенничестве и убийстве, но так и не смогли разгадать его методы. В итоге мы привлекли Лини в качестве консультанта. Он помог нам найти важнейшую улику, благодаря которой мы смогли доказать вину подозреваемого. Я слышала, что на основе этого дела был написан роман о фокуснике, который использует магические трюки для совершения преступлений. Но роман описывает их слишком подробно. Большая часть информации об этом деле до сих пор не рассекречена, поэтому пока публикация романа приостановлена.",
+        "en": "Lyney is quite the famous magician. We once had a case where we arrested a magician suspected of deliberate harm, fraudulent behavior, and murder, but we could never figure out his methods. In the end, we brought on Lyney as a consultant. He helped us find a crucial piece of evidence that led to the successful conviction of the suspect. I heard that an author actually used that case as the basis for their mystery novel about a magician who used their craft to commit crimes.\nUnfortunately... the author ended up going a little overboard on the graphic detail, and since the crime is still fresh in everyone's minds, it'll be a while before they're able to get it published.",
+        "zh": "我认识这位大魔术师。有一次我们逮捕了一位涉嫌故意伤害、拐骗和谋杀的魔术师，却一直弄不清他的犯罪手法。最后还是请来了林尼先生做顾问，才找到了关键物证，顺利将嫌疑人定了罪。听说一位小说家对这件罪案很感兴趣，写了一本用魔术手法犯罪的推理小说。\n不过…小说的细节描述实在太过详细，现在还处于脱敏期，暂时是无法出版了。"
+      },
+      "source_id": 90022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Фремине...",
+        "en": "About Freminet",
+        "zh": "关于菲米尼…"
+      },
+      "text": {
+        "ru": "Однажды я увидела Фремине в магазине, мы оба потянулись за одним и тем же устройством, последним в наличии. Как раз в тот момент, когда я собиралась уступить, Фремине отдёрнул руку и выбежал из магазина. Это может показаться странным, но он бежал так, словно за ним гнались жандармы.",
+        "en": "I once saw Freminet in a shop when we both reached for the same gadget. It was the last one available, but just as I was about to tell him he could have it, he withdrew his hand and ran out of the store. It might sound odd, but he fled like the Gardes were after him.",
+        "zh": "我有一次出门买零件的时候遇见过这位潜水员，当时我们都想要买下店里剩下的唯一一个通用零件。我刚想说把那枚零件让给他，但他却一下子缩回了手，低着头一路小跑出了店里。说难听点，简直像个犯人一样…"
+      },
+      "source_id": 90023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Клоринде...",
+        "en": "About Clorinde",
+        "zh": "关于克洛琳德…"
+      },
+      "text": {
+        "ru": "Клоринда создала себе в Фонтейне репутацию судебного дуэлянта. У нас разные позиции, поэтому я не имею права давать комментарии по поводу её работы. Но я верю, что она участвует в дуэлях из чувства справедливости.",
+        "en": "Clorinde has built quite the reputation for herself in Fontaine as a Champion Duelist. Our positions are different, so I'm not at liberty to make any comments about her work. But I trust that she takes on those duels out of her own sense of justice.",
+        "zh": "这位决斗代理人在枫丹廷可是大名鼎鼎啊。我们两人职务不同，我不会随意评价她的工作。但我相信，她接下那些代理决斗的原因，都是发自她内心的「正义」。"
+      },
+      "source_id": 90024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Ризли...",
+        "en": "About Wriothesley",
+        "zh": "关于莱欧斯利…"
+      },
+      "text": {
+        "ru": "Ризли работает очень эффективно. Как минимум все преступники знают, что крепость Меропид не то место, где хочется задержаться до глубокой старости. Это пригождается нам при проведении допросов.",
+        "en": "The work Wriothesley does is highly effective. At least all criminals know that the Fortress of Meropide isn't the type of place you want to stay at long enough to grow old. That fact comes in handy during our interrogation work.",
+        "zh": "莱欧斯利先生的工作卓有成效。至少罪人们都清楚地知道，「梅洛彼得堡」并不是一个养老的好去处。这对我们的审讯工作提供了很大帮助。"
+      },
+      "source_id": 90025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Об Эмилии...",
+        "en": "About Emilie",
+        "zh": "关于艾梅莉埃…"
+      },
+      "text": {
+        "ru": "Эмилия - мой хороший друг. Её экспертные знания в области химии не раз помогали мне при анализе улик или выслеживании убийцы. Она помогает нам обнаружить информацию, которую никто другой не может узнать, например, какие духи носил подозреваемый или какие цветы он посылал в подарок. Она даже может определить места, где побывал преступник, вплоть до грязи, в которую он наступил... К тому же она никогда не ошибается.",
+        "en": "Emilie is a good friend. Her expert knowledge of chemistry has been a great help to me many times when analyzing evidence or tracking down a killer. She helps us discover information that no one else can see, like what type of perfume a suspect wore or what type of flowers they sent as a gift. She can even determine the places they've been right down to the very dirt they've stepped in... Plus, she's never been wrong.",
+        "zh": "我俩私交不错，我有好几次请她用专业的化学知识来帮我分析物证、追缉凶犯。她还能帮忙发现很多看不见的信息，比如犯人用了什么香水、送过什么花，甚至去过什么地方、踩过什么泥土…她从没错过。"
+      },
+      "source_id": 90026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Тиори...",
+        "en": "About Chiori",
+        "zh": "关于千织…"
+      },
+      "text": {
+        "ru": "Метод решения споров у Тиори несколько радикальный. Но в её распоряжении неплохие связи, и она не раз предоставляла Особому патрулю по охране и наблюдению оперативную информацию. В свою очередь, я закрываю глаза на все случаи, когда она выставляет кого-то за дверь или выводит из бизнеса злостного конкурента. Если разобраться, то можно обнаружить, что Тиори всегда права. Только она не из тех, кто тратит время на объяснения.",
+        "en": "Chiori's method of resolving disputes is bit radical. But, she has quite the network at her disposal and has provided the Special Security and Surveillance Patrol with intelligence on more than one occasion. In return, I turn a blind eye whenever she throws someone out the door or runs a malignant competitor out of business. If you look into it, you'll find that Chiori is always in the right. She's just not the type to waste her breath on explanations.",
+        "zh": "千织处理纠纷的方式有些激进。但她凭借自己的门路和人脉，为特巡队提供过很多次情报。作为回礼，我会在她把人丢出店门、或是掀翻恶性竞争对手的店铺时睁一只眼闭一只眼。事后调查你会发现，千织总是有理的那一方。她只是懒得和人废话罢了。"
+      },
+      "source_id": 90027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Шарлотте...",
+        "en": "About Charlotte",
+        "zh": "关于夏洛蒂…"
+      },
+      "text": {
+        "ru": "Шарлотта - из тех репортёров, от которых действительно болит голова. Когда происходит какое-либо серьёзное дело, она всегда оказывается одной из первых на месте преступления, как бы мы ни старались быстрее оцепить его. Однажды её даже задержали в качестве подозреваемой на полмесяца, но она смогла закончить статью, находясь под стражей... Мне стоит выделить время и провести с её редактором официальный разговор по поводу её поведения.",
+        "en": "Charlotte is the type of reporter that really gives you a headache. Whenever there's a major case, she's always one of the first people in the vicinity no matter how hard we try to secure the scene. One time, she was even detained as a suspect for half a month, but she was still able to finish her article while in custody... I really do need to find the time to have a formal conversation with her editor about her behavior.",
+        "zh": "这是一位让人头疼的记者小姐。每次重案发生后，无论我们怎么封锁现场，她都能第一时间出现在最近的地方…有次我的一名手下甚至把她列为了第一嫌疑人，羁押了足足半个月，但她还是在拘留室里写完了报道…我要找个时间，正式和她的主编谈谈了。"
+      },
+      "source_id": 90028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Сиджвин...",
+        "en": "About Sigewinne",
+        "zh": "关于希格雯…"
+      },
+      "text": {
+        "ru": "Особый патруль по охране и наблюдению и мелюзин связывает давняя дружба. Мы часто сотрудничаем с мелюзинами, работающими в Сумеречном дворе. Они добрые, честные и надёжные. Когда дело касается серьёзных преступлений, их роль незаменима. Я сама очень дружна с несколькими мелюзинами, в том числе и с Сиджвин. Мелюзины уже давно стали одними из наших самых незаменимых партнёров. Любой, кто посмеет клеветать на мелюзин или принижать их, увидит дула наших мушкетов.",
+        "en": "The Special Security and Surveillance Patrol has a long-lasting friendship with the Melusines. We often collaborate with the Melusines who work in the Marechaussee Phantom. They're kind, honest, and reliable. When it comes to handling major cases, the role they play is irreplaceable. I, myself, am quite close to several Melusines, Sigewinne included.\nMelusines have long been one of our most indispensable partners. If there continue to be those who dare to slander and belittle their name, then they'll find themselves looking down the barrels of our muskets.",
+        "zh": "特巡队和美露莘的交情由来已久。我们经常和逐影庭里的美露莘合作。她们善良、诚实又可靠，在处理某些重案时，还能发挥无可替代的作用…而我个人，也和几位美露莘关系不错。希格雯护士长就是其中一位。\n从过去到现在，美露莘都是我们不可或缺的同伴。如果…再有任何人胆敢用任何方式污蔑中伤她们，那么特巡队的枪口，绝不会留情。"
+      },
+      "source_id": 90029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "О Нёвиллете...",
+        "en": "About Neuvillette",
+        "zh": "关于那维莱特…"
+      },
+      "text": {
+        "ru": "Всем известно, что юдекс воздерживается от личных эмоций, когда председательствует в суде. Некоторые даже говорят, что ему не хватает теплоты человеческих чувств. Но, на мой взгляд, правосудие следует вершить, оставаясь беспристрастным. Кто нарушает закон, тот виновен. Всё просто.",
+        "en": "Everyone knows that the Iudex abstains himself of all personal emotion when presiding over a trial. Some even say he lacks the warmth of human emotion. But the way I see it, justice should remain uncorrupted by personal feelings. Those who break the law bear guilt. It's as simple as that.",
+        "zh": "众人皆知，最高审判官大人在审判时全无私情。有人说他少了点人情味，但在我看来，正义本就不该被人情干扰。违律者即有罪，仅此而已。"
+      },
+      "source_id": 90030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "О Фурине...",
+        "en": "About Furina",
+        "zh": "关于芙宁娜…"
+      },
+      "text": {
+        "ru": "Однажды госпожа Фурина приказала нам провести что-то вроде... церемониального мушкетёрского представления. Она не только хотела, чтобы у каждого из нас были особые церемониальные мушкеты, но и чтобы мы отрабатывали всевозможные специальные строевые приёмы. К счастью, в итоге она не смогла подобрать подходящую песню для выступления, и вопрос был снят.",
+        "en": "Lady Furina once ordered us to carry out some sort of... ceremonial musketeer performance. She not only wanted each of us outfitted with special \"ceremonial muskets,\" but she wanted us to practice all sorts of specialized drill formations as well. Luckily, in the end, she couldn't find the right song to pair with the performance and the matter was dropped entirely.",
+        "zh": "芙宁娜大人…有段时间突然指定我们进行什么…花枪表演训练。她不仅要求我们全员装配一种特制的「礼仪铳枪」，还要接受特殊的舞枪训练…还好，因为她始终找不到喜欢的仪仗曲，这件事就草草作罢了。"
+      },
+      "source_id": 90031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Шеврёз I",
+        "en": "More About Chevreuse: I",
+        "zh": "想要了解夏沃蕾·其一"
+      },
+      "text": {
+        "ru": "Извините, я не умею разговаривать с людьми... Ну, я имею в виду, разговаривать с людьми вне комнаты для допросов. Если хочешь что-то узнать, пожалуйста, спрашивай.",
+        "en": "Sorry, I'm not great at talking to people... Well, talking to people outside of an interrogation room that is. If there's anything you want to know, please just ask.",
+        "zh": "抱歉，我并不擅长和人交际。或者说…和正常人交际。如果你有什么想问的，直接问就是。"
+      },
+      "source_id": 90032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Шеврёз II",
+        "en": "More About Chevreuse: II",
+        "zh": "想要了解夏沃蕾·其二"
+      },
+      "text": {
+        "ru": "Особый патруль по охране и наблюдению - это лишь одно из многочисленных подразделений Палаты Жардинаж. У нас более дерзкий подход к делу, и некоторые в Палате Жардинаж считают, что мы играем не совсем по правилам. Но я не думаю, что на работу Особого патруля должны влиять внешние силы. Преступники, с которыми мы сталкиваемся, - это не обычные гуляки из Дворца Мермония. Когда преступления совершаются быстро и без предупреждения, подобно внезапному ливню, мы должны уметь реагировать так же быстро.",
+        "en": "The Special Security and Surveillance Patrol is just one of the many branches of the Maison Gardiennage. We have a more daring way of doing things, and some in the Maison Gardiennage are under the impression that we don't exactly play by the rules.\nBut, I don't think the way the Special Patrol operates should be influenced by outside forces. The criminals we face aren't your everyday goody-goodies from the Palais Mermonia. When crimes are committed swiftly and without warning, like the sudden downpour of a rainstorm, we have to be able to respond just as fast.",
+        "zh": "特巡队是隶属于执律庭的多个执法部门之一。因为我们的行事风格和人员组成都非常大胆，在执律庭某些先生嘴里，我们是「最不守规矩」的部门。\n但是，我认为特巡队的行事准则不应受外界影响。我们要对付的恶徒可不是沫芒宫里的好好先生。如果罪人的违法乱纪来得像暴雨一样突然，那我们也绝不能慢他们半拍。"
+      },
+      "source_id": 90033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Шеврёз III",
+        "en": "More About Chevreuse: III",
+        "zh": "想要了解夏沃蕾·其三"
+      },
+      "text": {
+        "ru": "Преступники, с которыми я сталкиваюсь, не всегда хладнокровные убийцы и бессердечные злодеи. Большинство из них начинают с того, что совершают небольшую ошибку, но боятся признаться. Пытаясь втайне исправить ситуацию, они неосознанно попадают в водоворот лжи. Не успевают они оглянуться, как ложь накапливается, и они становятся на путь преступлений, пусть даже из лучших намерений. Мой любимый драматург однажды написал: «Ложь - почва, на которой произрастает грех». Но через несколько лет его арестовали за плагиат. Ирония судьбы, так сказать...",
+        "en": "The criminals I encounter aren't all cold-blooded killers and heartless villains.\nMost of them start off by making a small mistake but are too afraid to own up to it. In their efforts to make up for it in secret, they end up getting sucked into a whirlpool of lies. Before they know it, they're in over their heads, and they're forced down the path of a criminal despite the best of intentions.\nThere's this line by my favorite playwright that goes, \"Lies are the soil in which the seeds of crime are sown.\"\nBut, he was arrested for plagiarism a few years later. Talk about dramatic irony, I suppose...",
+        "zh": "我接触的犯罪者，并非全是穷凶极恶的歹徒或恶匪。\n更多的人，最开始都只是犯下了一个小错，他们害怕为此负责，想要悄悄补救，却在不自觉中陷入了谎言的漩涡，最后…在无数谎言的挟裹下，身不由己地走上了犯罪的歧途。\n我最喜欢的那位剧作家曾经在一台歌剧里写道：「谎言是生发罪行的恶土」。\n但是，他自己却在几年后因为剽窃罪而被捕…真是给那台歌剧做了一个戏剧性的注脚。"
+      },
+      "source_id": 90034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше о Шеврёз IV",
+        "en": "More About Chevreuse: IV",
+        "zh": "想要了解夏沃蕾·其四"
+      },
+      "text": {
+        "ru": "После того как отца посадили в тюрьму, на меня навесили ярлык «дочь преступника». Пока росла во Флёв Сандр, я на собственном опыте убедилась, что многие уголки Фонтейна остаются в тени. Моё сложное детство не подарило мне много друзей, зато, что гораздо ценнее, я приобрела знания. Те, кто следит за исполнением закона, должны иметь своё понимание справедливости и руководствоваться им. Сей истине меня учил отец. И это не раз оказывалось верным.",
+        "en": "After my father was imprisoned, I was labeled \"a crook's daughter.\" Growing up in Fleuve Cendre, I saw first-hand how many corners of Fontaine remain shrouded in shadow. Though my upbringing didn't garner me many friends, the knowledge I acquired was far more precious.\nThose who enforce the law must have their own conception of justice, one that they use to govern their actions. That is what my father taught me.\nAnd it has proved itself to be true many times over.",
+        "zh": "我的父亲受过牢狱之灾，我曾被称作「罪人的女儿」。我还在灰河长大，见过不少太阳光照不到的角落。托这些经历的福，讨厌我的人有不少，但我学会的东西更多。\n执法者要相信自己心中的「正义」，并且将其付诸在自己的行动中…这是父亲教导我的话。\n我也深以为然。"
+      },
+      "source_id": 90035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Узнать больше о Шеврёз V",
+        "en": "More About Chevreuse: V",
+        "zh": "想要了解夏沃蕾·其五"
+      },
+      "text": {
+        "ru": "Честно говоря, как капитан Особого патруля по охране и наблюдению, я видела зло, превосходящее все возможные пределы. Я не могу не чувствовать злость и бессилие, когда думаю обо всех хороших, невинных людях, которые пострадали или даже погибли, участвуя в тех или иных событиях. Я твёрдо убеждена, что преступники должны быть наказаны, но не стоит позволять наказанию затягивать нас в бесконечный круг мести. Если мы ослеплены эмоциями и позволяем им управлять нашими действиями, мы рискуем утонуть в них. Те, кто обладает большей властью, должны особенно хорошо осознавать этот факт. Нужно добиваться установления справедливости так, как её понимаешь, но также следует не терять себя в погоне за ней.",
+        "en": "To be honest, as the Captain of the Special Security and Surveillance Patrol, I've witnessed evil beyond measure. Too many times, I've seen good, innocent people get hurt or even lose their lives after getting caught up in events beyond their control... I can't help but feel angry and powerless whenever I think about them.\nI firmly believe that criminals must be punished, but we must not let punishment trap us in an endless cycle of vengeance.\nIf we are blinded by our emotions and let them control our actions, we run the risk of drowning in them.\nThose who hold more power should be especially cognizant of that fact. We must all search for our own sense of justice, but we must also be wary of losing ourselves in the pursuit of it.",
+        "zh": "实不相瞒，作为特巡队队长，我见过很多毫无道德底线可言的恶人胡作非为，也见过无辜与善良之人卷入事件受伤，甚至付出生命。我常常感到愤怒与无力。\n我坚信「罪人」应当受到惩罚，但这并不意味着无尽的复仇循环。\n如果我们蒙蔽双眼，任由情感驱使自身的行为，迟早都会溺亡在冬天的海水里。\n越是掌握权力，就越该警惕这一点。坚定追寻自己心中的「正义」，但万不可迷失在追寻它的路上。"
+      },
+      "source_id": 90036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Хобби Шеврёз...",
+        "en": "Chevreuse's Hobbies",
+        "zh": "夏沃蕾的爱好…"
+      },
+      "text": {
+        "ru": "Тренировка? Стрельба по мишеням? Но если честно, то чтение криминальных романов. Я вдруг вспомнила, что мне нужно взять недавно изданную книгу «Загадочные материалы».",
+        "en": "Perhaps training? Or target practice? If I really had to say, though, it would be reading crime novels. That reminds me, I should grab the latest copy of \"The Murder Files.\"",
+        "zh": "训练？射击？非要说的话…看犯罪小说吧。对了，我要去拿最新一期的《谜案寻踪》了。"
+      },
+      "source_id": 90037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Беспокойство Шеврёз...",
+        "en": "Chevreuse's Troubles",
+        "zh": "夏沃蕾的烦恼…"
+      },
+      "text": {
+        "ru": "Мне очень не нравится терять время, изучая запутанные правила этикета. Я лучше потрачу усилия на то, чтобы держать преступников под контролем.",
+        "en": "I really hate wasting time learning frivolous pieces of etiquette. My time is better spent keeping criminals in check.",
+        "zh": "不要再让我学习那些繁琐的礼仪了，与其将时间浪费在这上面，我宁愿去盯防凶犯。"
+      },
+      "source_id": 90038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Обожаю всё, что содержит жир и сахар. Такая пища обеспечивает меня энергией на весь рабочий день... К тому же она поднимает настроение. Но в свободные дни... еда, от которой полнеешь, становится моим злейшим врагом. Я искореняю зло, и это приносит радость.",
+        "en": "I love anything full of grease and sugar. Food like that provides me with ample energy during the workday... Plus, it's a real mood booster. But, on my days off... those fat-inducing foods become my worst enemy. That being said, absolving the world of their existence also comes with its own pleasures.",
+        "zh": "富含油脂和糖分的食物，可以在工作日为我提供充足的能量，还有好心情。休息日？休息日的话，它们就沦为了会增长体重的「罪恶食品」，而将此等「罪恶」消灭，同样能带给我一天的好心情。"
+      },
+      "source_id": 90039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я... не могу есть сырую пищу. Моя еда должна быть должным образом приготовлена.",
+        "en": "I... can't really handle eating raw food. If I'm going to eat it, then it has to be fully cooked.",
+        "zh": "我…不太能接受生冷食物。既然是要入口的东西，至少要做得全熟才行…"
+      },
+      "source_id": 90040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Очень вкусно. Эх... Кажется, я переела... Придётся отработать дополнительными тренировками.",
+        "en": "It's delicious. *sigh* But it seems I've already had a few bites too many... I'll have to work it off with extra training.",
+        "zh": "很不错。不过…呵，就是我不由自主地吃太多，等会要加练了。"
+      },
+      "source_id": 90041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Хм, гораздо лучше, чем в столовой Особого патруля.",
+        "en": "Hm, much better than what we get in the Special Patrol's mess hall.",
+        "zh": "嗯，比特巡队食堂的饭菜味道好多了。"
+      },
+      "source_id": 90042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Сытно, но добавки не хочется... Отличное блюдо, по моему мнению.",
+        "en": "It's filling but doesn't leave you wanting more... An excellent dish in my book.",
+        "zh": "足够填饱肚子，也不会勾起额外的食欲…这道菜对我来说非常优秀。"
+      },
+      "source_id": 90043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения! Гм... Внимание! Подбородок вверх, плечи назад! Снимем мерки... Я хочу заказать для тебя более компактный, удобный мушкет и кобуру... Хорошо, вольно. Пока мушкет изготавливается, потренируйся несколько часов в тире. Не стоит терять время! Следуй за мной!",
+        "en": "Happy Birthday! Ahem... At attention! Chin up, shoulders back! Let's take your measurements... I want to commission a smaller, more portable musket and holster for you...\nOkay, at ease. While the musket is being commissioned, you need to log some hours at the shooting range first. No time like the present! Follow me!",
+        "zh": "生日快乐。嗯…立正！站直一些，不要屈膝。我要测量一下你的身体数据，给你订做一柄便携的小型铳枪，还有速拔枪套…\n好了，放松。在铳枪做好之前，我先带着你用训练铳枪打一段时间的靶。现在就开始，跟我走。"
+      },
+      "source_id": 90044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Неплохо. Чувствую, что с каждой минутой целюсь всё увереннее.",
+        "en": "Not bad. I feel my aim getting steadier by the minute.",
+        "zh": "不错。端枪的手更稳了。"
+      },
+      "source_id": 90045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Ха, попробуй превзойти мой мушкет.",
+        "en": "More accurate at longer range, not bad.",
+        "zh": "这样的话，也许能狙击到更远的敌人…"
+      },
+      "source_id": 90046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Большое спасибо! Теперь я сильна как никогда. Преступникам от меня не скрыться!",
+        "en": "Thanks! With this strength, I can't imagine many criminals will be able to get away now!",
+        "zh": "多谢，有了这样的力量，追缉恶徒就更有效率了。"
+      },
+      "source_id": 90047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Спасибо за помощь. Я не могу обещать, что все силы Особого патруля будут в твоём распоряжении, но только скажи - я приду на помощь.",
+        "en": "Thanks for all your help. I can't promise that the full force of the Special Patrol will be at your beck and call, but as for myself, you need only say the word and I'll be there.",
+        "zh": "感谢你为我提供的所有帮助…虽然我不能承诺特巡队随时听你差遣，但就我个人来说，只要你开口，我就会与你同行。"
+      },
+      "source_id": 90048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Стоять!",
+        "en": "Stop right there!",
+        "zh": "不许动！"
+      },
+      "source_id": 90049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Брось оружие!",
+        "en": "Drop your weapons!",
+        "zh": "放下武器！"
+      },
+      "source_id": 90050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Последнее предупреждение!",
+        "en": "Final warning!",
+        "zh": "最后通牒！"
+      },
+      "source_id": 90051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Так тебе и надо!",
+        "en": "You asked for it!",
+        "zh": "必要武力。"
+      },
+      "source_id": 90052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Да восторжествует правосудие!",
+        "en": "Justice will prevail!",
+        "zh": "绳之以法。"
+      },
+      "source_id": 90053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Руки вверх!",
+        "en": "Hands where I can see them!",
+        "zh": "束手就擒！"
+      },
+      "source_id": 90054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Только посмотри, что у нас тут.",
+        "en": "Look what we have here.",
+        "zh": "不错。"
+      },
+      "source_id": 90055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Надеюсь, тут нет контрабандных товаров.",
+        "en": "There better not be any contraband in here.",
+        "zh": "希望里面没有赃物。"
+      },
+      "source_id": 90056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Спокойно. Это не воровство.",
+        "en": "At ease. I don't believe this counts as theft.",
+        "zh": "这不算是违法所得，放心吧。"
+      },
+      "source_id": 90057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "У тебя был выбор!..",
+        "en": "You had a choice...!",
+        "zh": "恶徒…！"
+      },
+      "source_id": 90058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Неуважение к закону!",
+        "en": "No respect for the law!",
+        "zh": "目无法纪。"
+      },
+      "source_id": 90059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Твои преступления очевидны.",
+        "en": "Your crimes are evident.",
+        "zh": "你，无权申辩了。"
+      },
+      "source_id": 90060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Назад в строй!",
+        "en": "Back in formation!",
+        "zh": "稳住队列！"
+      },
+      "source_id": 90061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "В строю любой ценой!",
+        "en": "Hold your positions!",
+        "zh": "保持阵型！"
+      },
+      "source_id": 90062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Справедливости... нет...",
+        "en": "The arc of justice... is broken...",
+        "zh": "正义…何在…"
+      },
+      "source_id": 90063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Преступники... ещё на свободе...",
+        "en": "They're still... out there...",
+        "zh": "罪人…尚未…"
+      },
+      "source_id": 90064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Это не конец...",
+        "en": "This can't be... the end...",
+        "zh": "这就是…结局吗…"
+      },
+      "source_id": 90065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Сопротивление бесполезно!..",
+        "en": "Do not attempt to resist...!",
+        "zh": "无用顽抗…！"
+      },
+      "source_id": 90066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Команда, пора действовать!",
+        "en": "Alright team, let's move it out!",
+        "zh": "出动吧。"
+      },
+      "source_id": 90067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Дополнительная тренировка не помешает!",
+        "en": "A little extra training never hurts!",
+        "zh": "就当是加练。"
+      },
+      "source_id": 90068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Полная боеготовность!",
+        "en": "Armed and ready!",
+        "zh": "我随时准备着。"
+      },
+      "source_id": 90069
+    }
+  ],
+  "replica_count": 70
 }

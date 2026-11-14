@@ -508,3 +508,849 @@ Scrutinizing it, all she could manage was to mumble a few words:
 夏洛蒂端详着它，无奈地喃喃说道：
 
 「…这件事，就别报道了吧。」
+
+# voice_source_ids: 88000,88001,88002,88003,88004,88005,88006,88007,88008,88009,88010,88011,88012,88013,88014,88015,88016,88017,88018,88019,88020,88021,88022,88023,88024,88025,88026,88027,88028,88029,88030,88031,88032,88033,88034,88035,88036,88037,88038,88039,88040,88041,88042,88043,88044,88045,88046,88047,88048,88049,88050,88051,88052,88053,88054,88055,88056,88057,88058,88059,88060,88061,88062,88063,88064,88065,88066,88067,88068
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет! Я Шарлотта, журналистка из «Паровой птицы». Приятно познакомиться. Может, у тебя найдётся время для эксклюзивного интервью? Моё журналистское чутьё подсказывает, что в тебе таится множество новостей, которые готовы вырваться наружу!
+
+### Поболтаем: Новости
+
+Если не терять бдительности, то выяснится, что поблизости полно новостей, которые только и ждут своего часа.
+
+### Поболтаем: Журналисты
+
+В Кур-де-Фонтейне хватает журналистов, но не все они одинаково профессиональны. Если хочешь дать интервью, я - лучший выбор.
+
+### Поболтаем: «Паровая птица»
+
+«Паровая птица» - прекрасное издание. Много выдающихся журналистов, а главный редактор всегда открыта для новых идей. Но самое главное - они вовремя платят авторам.
+
+### Когда идёт дождь...
+
+Ой-ой, главное - чтобы вода не попала на камеру!
+
+### Когда гремит гром...
+
+Проклятье! Опять опоздала. Никак не могу сделать снимок удара молнии...
+
+### Когда идёт снег...
+
+Бр-р! Пальцы так замёрзли, что с трудом нажимают на кнопку спуска затвора.
+
+### Когда светит солнце...
+
+Отличное освещение для фото! Ну-ка, прими позу! Не забудь про улыбку!
+
+### Доброе утро...
+
+Доброе утро! Ты уже читал газету? Нет?.. Ну ничего, я тебе прочитаю... / Доброе утро! Ты уже читала газету? Нет?.. Ну ничего, я тебе прочитаю...
+
+### Добрый день...
+
+Пора обедать! Идём со мной, я знаю одно славное местечко!
+
+### Добрый вечер...
+
+Время для вечерней беседы. Хочешь поделиться какими-нибудь историями? Я с удовольствием их выслушаю. ...О, не волнуйся, я не напечатаю ни одной из них без твоего разрешения. Даю слово.
+
+### Спокойной ночи...
+
+Спокойной ночи. Отдохни, а я схожу в редакцию, сделаю последнюю вычитку пары статей. До завтра!
+
+### О Шарлотте: Профессия
+
+Журналистов не все любят. Как говорится: «Ложь полна увиливаний, а правда - острых углов».
+
+### О Шарлотте: Фотография
+
+Я не могу сделать хорошую фотографию, если объект съёмки мне не интересен. Мне приходится заставлять себя нажимать на кнопку спуска затвора, если я не в восторге от того, что снимаю.
+
+### О нас: Эксклюзивный материал
+
+Итак, пришло время интервью. Готов стать звездой? Просто следуй моим указаниям и постарайся хорошо выглядеть на фото! И ты, Паймон, - ты ведь обладаешь силой полёта! Можешь показать это как-то более захватывающе? / Итак, пришло время интервью. Готова стать звездой? Просто следуй моим указаниям и постарайся хорошо выглядеть на фото! И ты, Паймон, - ты ведь обладаешь силой полёта! Можешь показать это как-то более захватывающе?
+
+### О нас: Лица с обложки
+
+Хорошие новости, я уговорила Евфрасию сделать вас главной темой следующей «Паровой птицы». Ваше фото будет на обложке, а внутри целая статья, которую я сама написала... Что значит «не нужно»? Я потратила кучу времени, чтобы уговорить Евфрасию! Может, передумаешь? А я взамен угощу вас роскошным обедом!
+
+### Глаз Бога...
+
+Честно говоря... Я бы предпочла Анемо Глаз Бога. Если бы я могла свободно летать, мне было бы намного легче добираться до мест проведения интервью! Впрочем, Крио не так уж плох. По крайней мере, мне не нужно беспокоиться о том, что моя камера перегреется.
+
+### Давай поделимся...
+
+«Ваш надёжный источник невероятных истин!» - это мой девиз в работе. А? Да-да, «надёжный» и «невероятный» в одном предложении. Если бы я должна была выбирать, то, конечно, важнее надёжность! Но большинство читателей скорее заплатят деньги за сенсационные выдумки, чем за обыденные факты... Поэтому мы должны сосредоточиться на самых невероятных правдивых историях, чтобы заинтересовать публику.
+
+### Интересные вещи...
+
+Позволь представить тебе единственного и неповторимого Господина Верите. Это не просто камера - он мой верный спутник и помощник. Видишь его шляпку и галстук-бабочку? Их мне сделала на заказ Тиори. Очень красиво, да? У меня есть для него несколько других нарядов, выполненных в разных стилях. На каждое интервью, по какому бы поводу оно ни проводилось, он приодевается, чтобы произвести впечатление!
+
+### О Навии...
+
+Теперь, когда имя её отца очищено, а дело об исчезновениях девушек раскрыто, Навии, наверное, наконец-то стало легче дышать. Не знаю почему, но в последнее время она оказалась в эпицентре всех плохих новостей... К счастью для неё, я отыскиваю все статьи, в которых она упоминается, и подправляю их перед публикацией. А потом меня постоянно отчитывает Евфрасия за вмешательство... Но, знаешь, я думаю, что Навия заслуживает передышки, так что я рада ей помочь. Кроме того, она согласилась дать мне подробное эксклюзивное интервью, ради такого стоит потерпеть!
+
+### О Лини...
+
+Какая неожиданность - Лини опять отказался от интервью со мной. Знаешь, в какой раз? Вообще-то я уже сбилась со счёта. Но ничего! Отказ от интервью только подтверждает мои подозрения, что он скрывает потрясающую историю! И я буду копать, пока не найду её, чтобы потрясти мир!
+
+### О Линетт...
+
+Какой вопрос ей ни задай, Линетт просто спокойно опускает глаза, сохраняя отсутствующее выражение лица. Как будто она какая-то... кукла с заводным механизмом. Меня так и тянет написать статью под названием: «Механическая помощница фокусника»... но у меня есть подозрение, что даже это не вызовет у неё никакой реакции.
+
+### О Клоринде...
+
+Клоринда - самый известный судебный дуэлянт в Фонтейне, а заодно и самый загадочный. У меня есть источник, который говорит, что она использует какой-то мистический ритуал, чтобы сохранить своё оружие... Может быть, в этом секрет её знаменитого послужного списка на дуэльном ринге без единого поражения? Ах, как бы мне хотелось задать ей этот вопрос... Но вряд ли мне представится такая возможность. Она публично заявила, что не даёт интервью.
+
+### О Ризли...
+
+Итак... Ты ведь лично встречался с герцогом, да? Можешь поделиться какой-нибудь информацией о нём? Только не рассказывай про премиальные купоны, столовую, «Кто не работает, тот не ест»... Это всем известно. Меня же интересуют более личные моменты жизни главы крепости. Что значит «конфиденциально»? Мы же договаривались! А как же пир, который я для вас закатила? Ах вы, мошенники, в тюрьме вам самое место! / Итак... Ты ведь лично встречалась с герцогом, да? Можешь поделиться какой-нибудь информацией о нём? Только не рассказывай про премиальные купоны, столовую, «Кто не работает, тот не ест»... Это всем известно. Меня же интересуют более личные моменты жизни главы крепости. Что значит «конфиденциально»? Мы же договаривались! А как же пир, который я для вас закатила? Ах вы, мошенники, в тюрьме вам самое место!
+
+### Об Эмилии...
+
+Эмилия делает лучшие духи во всём Кур-де-Фонтейне. На днях она показала мне удивительное средство, которое помогает от насекомых, излишнего потоотделения и запаха - всё в одном! Это просто спасение для таких людей, как я, которые всегда в дороге. Сегодня я капнула немного этого средства на запястье... Понюхай, это божественно!
+
+### О Тиори...
+
+Я немного покрутилась у Дома Тиори. Туда приходят не только богатые дамы Фонтейна и туристы из дальних стран, но и весьма суровые ребята. Здоровенные мускулистые типы со шрамами на лице, в масках, с мечами наготове... Но они всегда приходят с подарками и ведут себя кротко как овечки... В основном. Тех, кто не умеет себя сдерживать, буквально вышвыривают за дверь. Серьёзно! Я как-то засняла полёт одного высоченного громилы!
+
+### О Фремине...
+
+Мы несколько раз встречались с Фремине, после того как познакомились. Он живо заинтересовался Господином Верите - моим фотографическим помощником - и даже внёс несколько усовершенствований в объектив. Но, признаться, у меня сердце замирало при виде того, как он за несколько секунд полностью разобрал Господина Верите... Поразительно, что и собрал его назад он так же быстро. Похоже, у Фремине богатый опыт - я была уверена, что он, должно быть, выходец из Исследовательского института Фонтейна, но он это отрицал.
+
+### О Нёвиллете...
+
+Чтобы взять интервью у юдекса, сначала нужно заранее представить все вопросы на рассмотрение во Дворец Мермония, который решает, какие вопросы утвердить, а какие запретить задавать... Так они хотят увериться, что интервью пройдёт без сучка без задоринки. Это такая морока. Один рассказ об этом меня выматывает.
+
+### О Фурине...
+
+Манеры госпожи Фурины просто пленительны. Она рождена, чтобы быть звездой. Евфрасия как-то назначила одного журналиста её сопровождающим, но вскоре он уволился... Как я слышала, Фурина настаивала, чтобы он показывал ей все сделанные фотографии и заставляла переделывать, если её что-то не устраивало. Якобы она была настолько придирчива, что бедному парню пришлось сделать 127 снимков Фурины в одной и той же позе, прежде чем она осталась довольна...
+
+### Узнать больше о Шарлотте I
+
+Я прекрасно понимаю, что пускаться вслед за правдой - дело рискованное. Но из скрытых истин получаются эксклюзивные новости. А я эксклюзив не упущу! Кхм... Я хотела сказать, что не упущу возможности исполнить свой журналистский долг и представить общественности лучшие эксклюзивные новости в своих мощных, увлекательных и правдивых репортажах!
+
+### Узнать больше о Шарлотте II
+
+Когда я начинала работать журналистом, я ничего не знала о том, как писать новости, и мне пришлось разбираться самой, читая чужие статьи. Кроме «Паровой птицы», есть и другие независимые издания, как правило, с более узкой специализацией. Например, «Наблюдатель», где публикуются сплетни о знаменитостях, «Еженедельник развлечение», который освещает спортивные состязания и развлекательные мероприятия, «Шеф-повар», посвящающий себя ресторанной критике, и «Поразительно!» - нечто вроде фабрики слухов и домыслов. Я многое вынесла для себя из чтения этих изданий. Или... Ну, по крайней мере, ознакомилась с разными стилями письма.
+
+### Узнать больше о Шарлотте III
+
+Однажды я полгода работала под прикрытием для разоблачительной статьи о торговце некачественной едой. Я переоделась бродягой, проникла на заднюю кухню, устроилась кухонной работницей и оставалась там до тех пор, пока не собрала достаточно веских доказательств. Затем я изложила всё это в статье и опубликовала её в газете. Отклик был бурным. Виновные, конечно, понесли наказание за свои преступления, но это не помешало им начать на меня охоту. Каждый день, приходя домой, я видела письма с угрозами, лежащие на моем прикроватном столике, а входную дверь редакции забрасывали грязью... «Паровая птица» быстро направила жалобу жандармам, а меня отправили в Мондштадт писать репортаж о «Священном призыве семерых». Только спустя какое-то время я смогла спокойно вернуться в Фонтейн. Такие вещи случаются постоянно. Я, честно говоря, не знаю, как с этим справляется Евфрасия...
+
+### Узнать больше о Шарлотте IV
+
+Я всегда была любопытной. Ещё в детстве, задолго до того, как я задумалась о журналистике, я была убеждена, что в каждом уголке таятся секреты и тайны... Для меня мир - это огромный кладезь спрятанных сокровищ - бесчисленных историй, которые только и ждут, чтобы их раскрыли. Каждый раз, когда я вижу потенциальную тайну, я делаю снимок на камеру и добавляю его в свою коллекцию. Эти фотографии - как моя личная карта сокровищ... Я постоянно возвращаюсь к ним, пытаясь найти новые способы расшифровать их и раскрыть истину.
+
+### Узнать больше о Шарлотте V
+
+Меня не волнует, насколько значимы эти скрытые истины, что за ними кроется и какими будут последствия... Я просто хочу открыть их миру. Выражаясь языком искателей приключений, я думаю, что для меня... главное - это азарт погони, а не сокровища в конце. А ещё на этом пути мне встретилось много замечательных людей: мои друзья из Фонтейна, Евфрасия, которая считает меня прирождённой журналисткой, и такие люди, как ты, которые присоединяются ко мне в поисках правды. Без чужой помощи я бы, наверное, так и осталась девчонкой, которая носится по городу, беспорядочно снимая всё подряд... Знаешь, я нечасто оказываюсь в роли человека, у которого берут интервью, и это... было очень приятно.
+
+### Хобби Шарлотты
+
+Я коллекционирую объективы. Все они обладают разными достоинствами - у одних невероятный диапазон фокусных расстояний, у других - широкий обзор. А ещё есть новинки, которые позволяют накладывать на изображение специальные эффекты. Вот, например, этот объектив: если сделать с его помощью портретное фото, то лицо будет казаться пухлым... Давай, я тебя сфотографирую! И тебя, Паймон!
+
+### Беспокойство Шарлотты
+
+У меня сложилась не самая лучшая репутация в глазах некоторых людей - думаю, это связано с тем, что я иногда бываю немного... жёсткой на интервью. И теперь, когда я прихожу задавать вопросы, меня часто ждут с настороженностью... Эх. Но в свою защиту скажу, что на некоторых действительно приходится давить, иначе они не раскроются...
+
+### Любимая еда...
+
+Сладкое - моя слабость. Сколько бы я ни съела за обедом, никогда не откажусь от десерта. Как говорит моя мама... В моём желудке всегда есть специальное местечко для сладкого!
+
+### Нелюбимая еда...
+
+Терпеть не могу острое. Как будто мой желудок оснащён сверхчувствительным детектором специй или чем-то в этом роде, потому что даже самый слабый намёк на чили приводит его в действие. Один маленький кусочек - и желудок начинает болеть... и так на весь день, ох...
+
+### Подарок I
+
+А ты отлично готовишь! Не хотите завести кулинарную колонку в нашей газете? Я уже придумала, как её вписать.
+
+### Подарок II
+
+Неплохо... Научишь меня это готовить?
+
+### Подарок III
+
+Ух... Сочная новость... с душераздирающей концовкой...
+
+### День рождения...
+
+С днём рождения! Ты уже читал сегодняшний номер «Паровой птицы»? Я опубликовала там поздравление с днем рождения для тебя, хе-хе... Подожди, у тебя нет газеты? Ничего страшного, я как раз купила по дороге из редакции. Смотри! Пришлось постараться, чтобы поздравление попало в номер! / С днём рождения! Ты уже читала сегодняшний номер «Паровой птицы»? Я опубликовала там поздравление с днем рождения для тебя, хе-хе... Подожди, у тебя нет газеты? Ничего страшного, я как раз купила по дороге из редакции. Смотри! Пришлось постараться, чтобы поздравление попало в номер!
+
+### Чувство возвышения: Начало
+
+Какое странное и прекрасное чувство... Я должна это записать.
+
+### Чувство возвышения: Нарастание
+
+Значит, эта штука действительно повышает силу? Я думала, что это всё слухи, а теперь вот убедилась на собственном опыте...
+
+### Чувство возвышения: Кульминация
+
+Ты уже делал подобное для других? Для этого требовались такие же материалы или нет? А ещё мне интересно... О, прости, профессиональная привычка. / Ты уже делала подобное для других? Для этого требовались такие же материалы или нет? А ещё мне интересно... О, прости, профессиональная привычка.
+
+### Чувство возвышения: Окончание
+
+Вот это да! Мой мозг действует быстрее, а у моего тела больше энергии... Теперь от меня не ускользнёт ни одна новость! Но сначала давай сделаем фото на память об этом прекрасном моменте.
+
+### Элементальный навык I
+
+Скажи «сыр»!
+
+### Элементальный навык II
+
+Улыбочку!
+
+### Элементальный навык III
+
+Прими позу!
+
+### Взрыв стихии I
+
+Настоящая бомба!
+
+### Взрыв стихии II
+
+Экстренные новости!
+
+### Взрыв стихии III
+
+Эксклюзивная новость сражает наповал!
+
+### Открытие сундука I
+
+О! Выглядит неплохо.
+
+### Открытие сундука II
+
+Хотелось бы взять интервью у того, кто это здесь оставил.
+
+### Открытие сундука III
+
+Сомневаюсь, что кто-то до сих пор это ищет...
+
+### Низкий уровень HP I
+
+Я продолжаю съёмку...
+
+### Низкий уровень HP II
+
+Я не закончила с новостями!
+
+### Низкий уровень HP III
+
+Камера ещё работает!
+
+### Низкий уровень HP компаньона I
+
+Осторожно!
+
+### Низкий уровень HP компаньона II
+
+Я не стану писать твой некролог!
+
+### Без сознания I
+
+Передай фотографии в «Паровую птицу»...
+
+### Без сознания II
+
+Хотя бы... я всё записала...
+
+### Без сознания III
+
+Заголовок... Ещё нужен заголовок...
+
+### Получен лёгкий удар I
+
+Как грубо!
+
+### Получен тяжёлый удар I
+
+Моя камера!
+
+### Присоединяется к группе I
+
+Начнём интервью!
+
+### Присоединяется к группе II
+
+Есть новости?
+
+### Присоединяется к группе III
+
+Чем ближе к месту событий, тем достовернее новости!
+
+### Об Эскофье...
+
+Благодаря ей я перепробовала столько потрясающей еды! Её новые блюда, новые блюда других поваров отеля, даже новые блюда её учеников... Я уже почти могу назвать себя кулинарным критиком. Мне даже как-то неудобно бесплатно есть лучшую еду в Фонтейне... Но я не жалуюсь!
+
+## REPLICAS_EN
+
+### Hello
+
+Hi there! I'm Charlotte, a journalist with The Steambird. It's a pleasure to meet you. If you've got time, would you be open to doing an exclusive interview? My journalistic instincts tell me that there's a treasure trove of news in you just bursting to get out!
+
+### Chat: News
+
+If you keep your eyes peeled and your mind engaged, you'll find there's always a news story nearby just waiting to be discovered.
+
+### Chat: Journalists
+
+There are lots of journalists in the Court of Fontaine, but not all of them hold themselves to a high professional standard. If you're ever looking to do an interview... I'm your best choice.
+
+### Chat: The Steambird
+
+The Steambird is an excellent publication. They have many outstanding journalists and the Editor-in-Chief is always open to new ideas. But most importantly, they pay their writers on time.
+
+### When It Rains
+
+Uh-oh, I better find a way to keep my Kamera dry!
+
+### When Thunder Strikes
+
+Drat! Missed it again. I never quite manage to get a shot of the lightning strike...
+
+### When It Snows
+
+Brrr! My fingers are frozen stiff. I can barely manage to press the shutter button.
+
+### When the Sun Is Out
+
+Perfect lighting for a photo! C'mon, strike a pose. Don't forget to smile!
+
+### Good Morning
+
+Morning! Did you read the paper yet? No? ...No worries, I'll read it for you...
+
+### Good Afternoon
+
+Lunch time! Come with me — I know a great place!
+
+### Good Evening
+
+Time for an evening chat. Any stories you're willing to share? I'd love to hear them. ...Oh, don't worry, I won't print any of them without your permission. You have my word.
+
+### Good Night
+
+Good night. You go get some rest — I gotta head to The Steambird offices to do some final proofreading of some articles. See you tomorrow!
+
+### About Charlotte: Career
+
+People aren't always very fond of journalists. You know what they say — lies are soft and malleable, but the truth is sharp and inflexible.
+
+### About Charlotte: Photography
+
+I can't take a good photograph without an interesting subject. I really have to force myself to press the shutter button if I'm not excited by what I'm snapping.
+
+### About Us: Exclusive Feature
+
+Alright, the time has come for your interview. Ready to be a star? Just follow my lead and try to look good for the Kamera! You too, Paimon — you have the power of flight! Could you try to make it look a little more exciting?
+
+### About Us: Headliners
+
+Good news — I've convinced Euphrasie to make you the next headliners of The Steambird! You'll be right up there on the front cover, there'll be a whole feature about you that I wrote myself, and— Huh? What do you mean, "no need"? C'mon, I've been pushing Euphrasie for ages on this! Can't you reconsider? I'll make it up to you, I promise! I'll treat you to a huge meal, pleeease?
+
+### About the Vision
+
+To be honest... I'd prefer to have an Anemo Vision. Being able to fly around freely would make getting to interviews sooo much easier! A Cryo Vision's not too bad, though. At least I don't need to worry about my Kamera overheating.
+
+### Something to Share
+
+"Your credible source of the unbelievable truth!" That's my journalistic motto. Hmm? ...Haha, yep, exactly — "credible" and "incredible" at the same time! What's that? ...Oh, if I had to choose, then obviously being credible is much more important! But most readers would sooner pay money for sensational stories than mundane facts... So we have to focus on the most incredible true stories to keep our readers engaged.
+
+### Interesting Things
+
+Allow me to introduce the one and only Monsieur Verite. He's not just any Kamera — he's my trusty companion and assistant. See his little hat and bow tie? I had those custom made by Chiori. Pretty neat, huh? I've got loads of other outfits for him too, all in different styles. He comes dressed to impress for every interview, whatever the occasion!
+
+### About Navia
+
+Now that her father's name's been cleared, and the case of the serial disappearances of young women is resolved, I guess Navia must be able to finally breathe a little easier. I don't know why, but somehow, she's found herself at the epicenter of all sorts of bad news lately... Luckily for her, I've been snatching up all the articles that mention her and doing whatever damage control I can before they get published. Heh, and uh... then getting told off constantly by Euphrasie for interfering... But y'know, I think Navia deserves a break, so I'm happy to take one for the team. Also, she agreed to do an in-depth exclusive interview, which definitely sweetens the deal!
+
+### About Lyney
+
+Surprise, surprise — Lyney refused an interview with me once again. Do you know how many times that is now? ...Uh, actually, I've lost count. But never mind! Evading me only further confirms my suspicion that he's hiding the news story of a lifetime! As long as I keep digging, I'll find it — and when I do, it will shake the world like no other news report in history!
+
+### About Lynette
+
+No matter what question you pose to her, Lynette just calmly lowers her eyes with an expressionless look on her face. It's like she's some sort of... clockwork doll. I'm really tempted to write an article titled something like: "The Genius Magician's Puppet Assistant: Magic's Best-Kept Secret"... but I have a sneaking suspicion that even that wouldn't get a reaction out of her.
+
+### About Clorinde
+
+Clorinde is one of the most well-known Champion Duelists in Fontaine, but she's also the most mysterious. I have a source who tells me that she uses some sort of mystical ritual to keep her weapon as good as new... Could this be the secret behind her famously undefeated track record in the Duelists' Ring? Ah, I'd love to spring that question on her one day... but I don't think I'll get the chance. She's publicly stated that she doesn't accept interviews.
+
+### About Wriothesley
+
+So... Did you get to meet the Duke in person? Yeah? Any nuggets of information that I should know about? Never mind the Credit Coupons, the Coupon Cafeteria, "If a man will not work, he shall not eat"... That's all just generic filler. I'm talking about personal anecdotes about the man of Meropide himself... What do you mean, "confidentiality"? Aw, not you, too! We had a deal! That does it — remember that gigantic feast I treated you to? I want my money back! Get your butts back to prison and do your time, you swindlers, you!
+
+### About Emilie
+
+Emilie makes the best perfume in the whole Court of Fontaine. She introduced me to this amazing one the other day that works as an insect repellent, anti-perspirant, and deodorant all in one! It's a total life-saver for someone like me who spends so much time zooming around all over the place. I actually sprayed some on my wrist today... Go on, take a whiff, it's heavenly!
+
+### About Chiori
+
+I did a little snooping around at Chioriya Boutique once. Aside from the wealthy housewives of Fontaine and the box-ticking tourists from overseas, some of the regular customers there look like really rough characters! Big muscly types with scars on their face, guys in masks and hats with their swords drawn... But they always come bearing gifts and acting like humble servants. Uh... Well, mostly. Anyone with a bad attitude is literally sent flying back out the door. Seriously! I snapped a photo of a guy being thrown out once, he was like four feet in the air!
+
+### About Freminet
+
+I've met Freminet a few times since being introduced. He quickly took an interest in Monsieur Verite — that's my Kamera-slash-assistant — and even made a few improvements to my lenses. I gotta say, though, my heart was in my mouth watching him completely dismantle Monsieur Verite in a matter of seconds... Amazing he managed to reassemble it just as swiftly. He seems very experienced — I was convinced he must have graduated from the Fontaine Research Institute, but he denied it.
+
+### About Neuvillette
+
+If you want to interview the Iudex, you have to provide all the interview questions in advance and get them reviewed by the relevant department at the Palais Mermonia, who decide which questions to approve and which ones you're not allowed to ask... It's their way of making sure the interview goes off without a hitch. It's such a rigmarole. I'm losing the will to live just talking about it.
+
+### About Furina
+
+Lady Furina has a very captivating presence. She was born to be a star. Euphrasie once assigned a journalist to shadow her, but he quit not long into the assignment... From what I've heard, the reason he left was that Furina insisted on seeing every photo he took of her right away, and she'd make him redo it if she wasn't happy with how it turned out. Apparently, she was so picky that the poor guy once had to take 127 shots of her in the same pose before she was content...
+
+### More About Charlotte: I
+
+I'm well aware that following the truth wherever it leads is risky business. But buried truths make exclusive news, so good luck trying to keep secrets from me when we need a good story... telling journalist like me in this world with a strong sense of journalistic integrity! Ahem! I make it my goal to provide the public with only the best exclusive news, through powerful, engaging, and honest reporting!
+
+### More About Charlotte: II
+
+When I first started working as a journalist, I didn't know anything about how to write the news, so I had to figure it all out for myself by reading articles by other people. As well as The Steambird, I also looked at some other independent publications out there, which tend to be more specialized. For example, there's "The Observer" for celebrity gossip, "Leisure Weekly," which focuses on competitive sport and other entertainment news, "Top Chef" for those who like to read... all the food critiques in one place, and "Bedazzled!" which is just sort of a glorified rumor and speculation mill. I learned a whole lot from reading all those papers. Or... Well, I at least learned how to master a bunch of different writing styles.
+
+### More About Charlotte: III
+
+I once spent six months working undercover for an exposé piece about a merchant who was selling shoddy food products. I disguised myself as a vagrant, infiltrated the back kitchen, took a job as a kitchen hand, and stuck around until I'd gathered enough solid evidence about their misdeeds. Then, I put it all in an article and had it published in the paper. The backlash was intense. They were punished for their crimes, sure, but that didn't stop them from launching a vicious campaign of vengeance against me almost immediately. I was coming home to threat letters sitting on my bedside table on a daily basis, and we'd also find mud slung on the front door to our office... The Steambird quickly filed a report to the Gardes, and I was sent to Mondstadt to report on Genius Invokation TCG. It took a while before I could safely return to Fontaine. These kind of things happen all the time. I honestly don't know Euphrasie deals with it...
+
+### More About Charlotte: IV
+
+I've always been a very curious person. Even as a kid, long before I ever thought about going into journalism, I was always convinced that secrets and mysteries were lurking in every corner... To me, the world is a giant hoard of hidden treasure, with countless stories waiting to be uncovered. Every time I see something where I think a secret might be hiding, I snap a photo with my Kamera and add it to my collection. These photos are like my own personal treasure map... and I'm constantly going back to them, trying new ways to decipher them and expose the truth.
+
+### More About Charlotte: V
+
+I don't really care whether these hidden truths are significant, what they mean, or what the wider ramifications are... I just want to bring them into the light of day. To put it in adventurer terms, I guess for me... it's all about the thrill of the chase, and not the treasure at the end. I've also met a lot of people along the way: all my Fontaine friends, Euphrasie, who believes I was born to be a journalist, and people like you, who join me in the search for the truth. Without everyone's help, I'd probably still be that nosy kid who runs around furiously snapping photos like a lunatic... Anywho... It's not often that I get to be the interviewee, but... this has been a real pleasure.
+
+### Charlotte's Hobbies
+
+I love collecting different Kamera lenses. They all have different strengths — some might have an incredible range of focal lengths, others might have a really wide field of view. Oh, and there's also more novelty ones that can apply special effects to the image. Take this one, for example — when you take a portrait photo with this, it turns their face all chubby... C'mon, I'll take one of you! And you, Paimon!
+
+### Charlotte's Troubles
+
+I've ended up with a less-than-favorable reputation in some people's eyes — I think it's because I can sometimes be a little bit, um... intense in interviews. Now, whenever I show up to interview someone, they're always really wary of me... *sigh* But in my defense, with some people, you really have to put the pressure on or they won't open up...
+
+### Favorite Food
+
+Hehe, sweet things are my weakness. However big the main meal, I can always manage a dessert or several. Or as my mother puts it... There's always a special place reserved in my stomach for dessert!
+
+### Least Favorite Food
+
+Spicy food doesn't agree with me at all. It's like my stomach is fitted with a super-sensitive spice detector or something, 'cause even the mildest hint of chili will set it off. One small bite and the stomachache begins... and it always lasts for like an entire day, ugh...
+
+### Receiving a Gift: I
+
+You're a good chef! Any interest in starting a culinary column in our paper? I know just how we could slot you in.
+
+### Receiving a Gift: II
+
+Hey, not bad... Would you mind teaching me to make this some time?
+
+### Receiving a Gift: III
+
+Whewee... This is uh, a juicy news story... with a gut-wrenching conclusion...
+
+### Birthday
+
+Happy Birthday! Did you read today's Steambird yet? I put a birthday greeting in there for you, hehe... Wait, you still haven't bought a copy? No problem, I picked one up before leaving the office. Look — here it is! I fought pretty hard to get it on this page.
+
+### Feelings About Ascension: Intro
+
+What a strange and wonderful feeling... I've gotta write this down for my records.
+
+### Feelings About Ascension: Building Up
+
+So this stuff really does boost people's strength, huh? I thought it was all rumors, but now here I am, experiencing it for myself...
+
+### Feelings About Ascension: Climax
+
+Have you done this for other people in the past, too? Were the materials you used different, and if so, how? Also, I'm wondering... Uh, sorry. Force of habit.
+
+### Feelings About Ascension: Conclusion
+
+Holy smokes! My mind can think faster, my body has more energy... There's not a news story out there that can escape me now! But first things first — let's take a photo to commemorate this beautiful moment.
+
+### Elemental Skill: I
+
+Say cheese!
+
+### Elemental Skill: II
+
+Smile!
+
+### Elemental Skill: III
+
+Hold that pose!
+
+### Elemental Burst: I
+
+Truth bomb!
+
+### Elemental Burst: II
+
+Breaking news!
+
+### Elemental Burst: III
+
+Hard-hitting exclusive!
+
+### Opening Treasure Chest: I
+
+Ooh! This looks alright.
+
+### Opening Treasure Chest: II
+
+I wish I could interview whoever left this stuff here.
+
+### Opening Treasure Chest: III
+
+I doubt anyone's still looking for these...
+
+### Low HP: I
+
+I'm getting this all on Kamera...
+
+### Low HP: II
+
+There's still news to report!
+
+### Low HP: III
+
+My Kamera's still working!
+
+### Ally at Low HP: I
+
+Careful!
+
+### Ally at Low HP: II
+
+I'm not writing your obituary!
+
+### Fallen: I
+
+Take these photos to The Steambird...
+
+### Fallen: II
+
+At least I documented everything...
+
+### Fallen: III
+
+Headline... Still needs a headline...
+
+### Light Hit Taken: I
+
+How rude!
+
+### Heavy Hit Taken: I
+
+My Kamera!
+
+### Joining Party: I
+
+Let's get this interview started!
+
+### Joining Party: II
+
+What's the news?
+
+### Joining Party: III
+
+Nearer to the action is closer to the truth!
+
+### About Escoffier
+
+I've tried so many amazing dishes thanks to her! Between her work, the other chefs at her Hotel, and her apprentices, I can almost call myself a food critic at this point. I feel a little bad, getting to eat the finest food in Fontaine for free... But, I'm not complaining, either!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+初次见面，我是《蒸汽鸟报》记者夏洛蒂，很高兴见到你。有空的话，你愿意接受我的专项访谈吗？记者的直觉告诉我，你的身上能挖掘出不少爆炸性新闻。
+
+### 闲聊·新闻
+
+只要眼睛够尖，脑子够快，每天都能找到好新闻。
+
+### 闲聊·记者
+
+枫丹廷里有许多记者，但并不是每一位都拥有合格的职业素质。如果你想接受采访的话，最好还是来找我喔。
+
+### 闲聊·蒸汽鸟报
+
+《蒸汽鸟报》是一家优秀的报社，有一位开明的主编和许多出色的记者。最重要的是，稿费也结得非常迅速。
+
+### 下雨的时候…
+
+留影机镜头可不能进水！
+
+### 打雷的时候…
+
+欸！可惜，又没抓拍到闪电…
+
+### 下雪的时候…
+
+…真是够冷的，手指都摁不动快门了。
+
+### 阳光很好…
+
+哇，这光线真不错！来，快摆个姿势，我给你拍张画片！
+
+### 早上好…
+
+早上好，今天的报纸看了吗？没有？那我念给你听。
+
+### 中午好…
+
+是午饭时间了呀，我知道一家餐厅很不错，跟我来吧。
+
+### 晚上好…
+
+晚上最适合谈心了，你有什么故事愿意和我分享吗？放心，我们事先说好能不能登报，我一定遵守约定。
+
+### 晚安…
+
+晚安，赶紧休息吧。我还要去报社校对稿件，明天见啦。
+
+### 关于夏洛蒂自己·职业
+
+记者并不是一个讨人喜欢的职业。毕竟就像那句话说的：「谎言处处圆滑，真相棱角分明。」
+
+### 关于夏洛蒂自己·留影
+
+只有在拍摄有趣的东西时，我才能拍出一张好画片。对于某些无聊透顶的留影对象…我能摁下快门，就已经足够有耐心了。
+
+### 关于我们·长篇专题
+
+嗨，准备好接受专访，成为最耀眼的大明星了吗？来，听我指挥，先摆一个好看的姿势…派蒙也飞得好看一点！
+
+### 关于我们·扉页人物
+
+好消息！我已经说服了欧芙小姐，下一刊《蒸汽鸟报》的「扉页人物」就是你们了，而且还会搭配本记者亲自撰写的专题报道。欸…不用了？我可是求了欧芙小姐好久啊！再考虑一下吧？我…我可以再请你们吃一顿大餐！
+
+### 关于「神之眼」…
+
+说到这个…其实我更想要一枚「风元素」神之眼的呢。那样的话，也许我就能借助风飞来飞去，轻松地去各地采访了。但这枚「冰元素」的神之眼也不错，至少我不用担心留影机内部机关过热的问题了。
+
+### 有什么想要分享…
+
+真实至上，故事超群。这就是我的工作原则，欸？哪一个是重点？那当然是「真实性」啦，「故事性」只是一种帮助读者们理解新闻的辅助手段。唉，但据我观察…比起「真相」，读者更愿意为「故事」付钱啦。
+
+### 感兴趣的见闻…
+
+为你介绍，我最好的伙伴和助手，独一无二的留影机「温亨廷先生」。瞧瞧他的帽子和领带，都是我专门找千织小姐订做的，是不是特别好看？我还给他订做了好几套不同风格的服饰，以应对不同的采访场合呢。
+
+### 关于娜维娅…
+
+娜维娅的父亲沉冤得雪，「少女连环失踪案」也结了案，她总算可以稍微放下点心了。真不知道为什么，她最近总是成为各种坏新闻的主角，还好我把报社里所有关于她的报道都揽了过来，尽量控制着稿件内容。
+虽然…因为这件事我也被欧芙小姐训了很多次，但为了帮上她，还有和她约好的那篇深度独家访谈，我挨点骂也值得了！
+
+### 关于林尼…
+
+好吧，林尼先生又拒绝了我一次。这是第几次了来着…没关系！林尼先生越是拒绝我，我就越能确定，他的身上藏着某些富有巨大价值的故事，这个故事的爆炸性一定是前所未有的。我一定要挖掘出来！
+
+### 关于琳妮特…
+
+无论被问的是什么问题，琳妮特小姐都只是安安静静地垂下眼眸，脸上没有任何表情，就像一个…一个发条人偶。我真想写一篇报道，就叫做《魔术的诀窍——天才魔术师的「人偶助手」》！但我觉得，她就算看见这篇报道也不会有任何反应…
+
+### 关于克洛琳德…
+
+克洛琳德小姐可是枫丹廷里最著名，也最神秘的「决斗代理人」，我从私人渠道打听到，她会用一些神秘的仪式维护自己的武器。也许这就是她在决斗中常胜不败的关键？可她曾公开表示过不想接受记者的采访…我应该没法当面问她这个问题了。
+
+### 关于莱欧斯利…
+
+最近有见到那位「公爵」吗？有没有帮我留意和他有关的信息呀？特许券、特许食堂…「不劳动者不得食」…这种大路消息就算了，有没有关于「公爵」个人的故事？什么，保密…怎么连你的口风也那么紧！把我的那顿大餐还来！哼，骗子！你干脆回去接着服刑啦！
+
+### 关于艾梅莉埃…
+
+艾梅莉埃小姐的香水是整个枫丹廷里最好的！前两天她还向我推荐一款兼具驱虫、快速止汗、遮蔽汗水味的香水呢，这款香水对我这种经常出外勤的人可太重要了。我今天还喷了一些在手腕上…喏，你闻闻，可香了。
+
+### 关于千织…
+
+我曾经仔细观察过「千织屋」。店里除了枫丹贵妇人和慕名而至的外国游客之外，还经常会来一些看起来就不好惹的角色！有的一身肌肉、脸上留疤，有的蒙面戴帽、怀里揣刀…但不管怎样，他们手上几乎都提着礼物样式的东西，态度也毕恭毕敬。呃…那些态度不好的，出门时都是飞出来的，我还抓拍过那样的瞬间呢！
+
+### 关于菲米尼…
+
+在那之后，我和菲米尼又见了几次面。他对我的留影机助手「温亨廷先生」很感兴趣，还帮我改良了镜头。说实话…他三两下就把「温亨廷先生」拆解成零件的时候，我的心可是提到了嗓子眼…没想到他安装的手法也一样干净、娴熟。我差点都以为他是枫丹科学院出来的了，但他否认了。
+
+### 关于那维莱特…
+
+如果有记者要去采访「最高审判官」的话，得提前定好所有采访问题，并且把这些问题送去给沫芒宫里的有关部门审定，只有通过审定的问题才能出现在采访中…以此保证整场采访不会出现任何问题。这样的流程实在是太繁琐了，光是想到这些我就精疲力尽了。
+
+### 关于芙宁娜…
+
+水神芙宁娜大人的言行举止都十分富有感染力，是一个天生的大明星。欧芙小姐之前还指派了一位记者专门去跟访她呢，但是他没过多久就辞职了。
+至于辞职的原因…据我打听到的消息，是因为这位记者每拍一张画片，都要拿去给芙宁娜大人看，如果她不满意就得重拍。最夸张的一次，这位老兄对着芙宁娜大人的一个姿势整整重拍了一百二十七次…
+
+### 想要了解夏洛蒂·其一
+
+我很清楚地知道，追寻「真相」这种行为伴随着风险啦，不过，一个「独家真相」也意味着一篇「独家新闻」，我可不会放过…咳！我的意思是，我可不会放过这个…这个履行记者职责的大好机会。我一定要将最真实、最有力、最有趣的独家新闻报道带给所有人！
+
+### 想要了解夏洛蒂·其二
+
+刚做记者的时候，我对写报道文章一窍不通，只能通过阅读其他报道来学习。除了《蒸汽鸟报》之外，还有一些在小范围印发的私人刊物。比如专门报道枫丹廷内各种明星八卦的《观窥者报》、持续关注各种娱乐活动和赛事的《娱乐家周刊》、评论美食的《主厨》、只会胡说八道和造谣传谣的《惊奇！》等等。
+这些报纸都给了我很大的启发，让我学会了…嗯，驾驭许多不同的行文风格。
+
+### 想要了解夏洛蒂·其三
+
+为了揭示真相，我曾经假扮成游民，混进了一家伪劣食品商的后厨做了六个月的杂工，在搜集到足够的第一手资料后，我就将他们干的事都写成报道，登在了报纸上。
+报道的反响十分强烈，那家伪劣食品商也受到了惩罚，但他们的报复也随之而来，我每天回家时床头柜上都放着一封恐吓信，报社的门口也总是被人泼泥巴…
+报社很快报了警，而我则被指派去蒙德做「七圣召唤」报道，过了好一阵子才回枫丹。
+唉，这样的事发生了很多次，真不知道欧芙小姐是怎么把它们全摆平的…
+
+### 想要了解夏洛蒂·其四
+
+在小时候，我还没入记者这行的时候，我的好奇心特别重，总觉得万事万物后都隐藏着秘密。
+对我来说，这个世界是一片巨大的藏宝地，藏匿着无数不为人知的故事等待发掘。每当遇见那些我觉得藏匿有秘密的事物，就会拿出留影机拍下一张画片，放在我的画片集里。
+这些画片都是只属于我的「藏宝图」…而我也一直不断用各种方法解读着它们，试图揭示出隐藏在画片中的「真相」。
+
+### 想要了解夏洛蒂·其五
+
+我不在意这些「真相」究竟有什么价值、代表着什么、或者说和什么事有关…我只是想要将它们揭示出来。如果用冒险家的说法，我应该是属于那种…专注于享受寻宝过程的人吧，至于最后究竟能寻到什么宝，我倒是不怎么执着啦。
+在求证的过程中，我认识了许多人。枫丹的朋友们，认为我天生就是做记者的料的欧芙小姐，还有陪我一起探寻和见证「真相」的你。没有大家的帮助，我恐怕还是那个只会到处拍照的野丫头吧。
+总之…我很高兴能接受你的「特殊采访」。
+
+### 夏洛蒂的爱好…
+
+我最喜欢收藏各种各样的留影机镜头了。有些镜头有着超高的缩放焦距，有些镜头的视野非常广阔。对了，还有一些镜头有着特别功能，拍出来的画片会带着各种特别效果，你看这个镜头，用它拍摄人像的话，会把人的脸拍得胖乎乎的。来！我给你拍一张，派蒙也来！
+
+### 夏洛蒂的烦恼…
+
+也许是因为我有时提问的态度会有些…激烈，导致一部分人对我的印象不太好。我每次去采访的时候，大家都是一副防备我的样子…唉，但对于某些采访对象，我必须得用这种态度来提问啊。
+
+### 喜欢的食物…
+
+嘿嘿，我最喜欢甜甜的东西了。无论正餐吃多少东西，都能继续吃甜点。用我妈妈的话来说就是…我的胃里永远给甜点留着空呢。
+
+### 讨厌的食物…
+
+我吃不了辣的东西。我的胃里就像是装着一部超敏感的辣味监测机关一样，无论辣味有多淡，只要我敢吃，它就敢痛…而且一痛就是一整天，呜…
+
+### 收到赠礼·其一
+
+哇，你的手艺真好！要不要在报纸上做一个厨艺专栏？我都想好排版和构图了。
+
+### 收到赠礼·其二
+
+味道不错呀，有空的话…下次也教教我吧？
+
+### 收到赠礼·其三
+
+唉…这道菜的味道…还有品尝这道菜的我，都足够上新闻了…
+
+### 生日…
+
+生日快乐！你读了今天的《蒸汽鸟报》吗？我对你的生日祝福已经登载在上面啦。欸…你没买吗？没关系，我离开报社的时候顺手拿了一份，你瞧瞧，就在这里，这是我能争取到的最好版面啦。
+
+### 突破的感受·起
+
+这感觉真奇妙，得记录下来。
+
+### 突破的感受·承
+
+这些东西居然真能助人成长？我之前只是听说，没想到今天能亲身体验。
+
+### 突破的感受·转
+
+你之前也用这种方式帮过其他人吗？所用的材料有什么不同？还有…呃，不好意思，又犯职业病了。
+
+### 突破的感受·合
+
+喔！我能感觉到，思考的速度变快了，身体里也全是劲…我一定能抓住更多独家新闻！但在那之前，我们先合张影吧，给这个美好时刻留下点纪念。
+
+### 元素战技·其一
+
+看镜头！
+
+### 元素战技·其二
+
+笑一个。
+
+### 元素战技·其三
+
+摆个好姿势！
+
+### 元素爆发·其一
+
+真实至上！
+
+### 元素爆发·其二
+
+爆炸新闻！
+
+### 元素爆发·其三
+
+夏洛蒂，为您报道！
+
+### 打开宝箱·其一
+
+喔！看上去不错。
+
+### 打开宝箱·其二
+
+真想采访一下把箱子放在这里的人。
+
+### 打开宝箱·其三
+
+这些东西应该不在失物招领列表上吧？
+
+### 生命值低·其一
+
+我、我还能记录…
+
+### 生命值低·其二
+
+还有新闻要报道！
+
+### 生命值低·其三
+
+留影机还能用！
+
+### 同伴生命值低·其一
+
+小心点！
+
+### 同伴生命值低·其二
+
+喂！我可不想写讣告！
+
+### 倒下·其一
+
+把报道…带回报社…
+
+### 倒下·其二
+
+至少…记录下来了…
+
+### 倒下·其三
+
+标题，还没想…
+
+### 普通受击·其一
+
+真不礼貌。
+
+### 重受击·其一
+
+我的镜头！
+
+### 加入队伍·其一
+
+采访开始喽！
+
+### 加入队伍·其二
+
+有什么新闻吗？
+
+### 加入队伍·其三
+
+靠得越近，报道越真实。
+
+### 关于爱可菲…
+
+说起来都有点不好意思了，托爱可菲小姐的厨，我试吃了许多厉害的菜肴…她自己的新品，她酒店下属的新品，甚至是学员的新品…我都快变成兼职美食评论家了，一分摩拉都不用付，就能吃遍枫丹最新最棒的美食！

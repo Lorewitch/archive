@@ -359,3 +359,959 @@ Eula finally found herself on a gentle path of revenge that was hers alone... an
 「我」的生存方法、「我」的自我保护、「我」的不懈执着…
 哪怕称之为仇恨、称之为报复，也不会改变它善良而顽强的本质。
 只属于优菈的、温柔的仇恨之路。在她找到它的瞬间，神之眼悄然浮现。
+
+# voice_source_ids: 39009,39010,39011,39012,39013,39014,39015,39016,39017,39018,39019,39020,39021,39022,39023,39024,39025,39026,39027,39028,39029,39030,39031,39032,39033,39034,39035,39036,39037,39038,39039,39040,39041,39042,39043,39044,39045,39046,39047,39048,39049,39050,39051,39052,39053,39054,39055,39056,39057,39058,39059,39060,39061,39062,39063,39064,39065,39066,39067,39068,39069,39070,39071,39072,39073,39074,39075,39076,39077,39078,39079,39080,39081,39082,39083,39084,39085,39086,39087
+
+## REPLICAS_RU
+
+### Привет...
+
+Рыцарь Ордо Фавониус, капитан разведывательного отряда, Рыцарь Морская пена Эола Лоуренс передаёт тебе привет... Да, Лоуренс, всё верно. Как видишь, я потомок тех самых аристократов-злодеев, шпион в ордене, который ищет мести и былой славы.
+
+### Поболтаем: Этикет
+
+Этикет рыцарей и этикет дворян похожи, но у рыцарей хватило ума избавиться от всего лишнего.
+
+### Поболтаем: Искусство меча
+
+Хочешь поучиться у меня фехтовальному стилю Фавония? Я покажу тебе. О, да! Ты у меня попляшешь, запомни мои слова.
+
+### Поболтаем: Правила
+
+Старые дворянские правила... Просто кивай и улыбайся. Меня заставляли учить их наизусть сотнями, но я всё равно не отношусь к ним серьёзно.
+
+### Когда идёт дождь...
+
+Залезай под зонт, не промокни. Если ты заболеешь, кому я буду мстить?
+
+### Когда гремит гром...
+
+Неприятная погода. Гром заглушает звуки и мешает воспринимать окружающий мир.
+
+### Когда светит солнце...
+
+Хороший вид! С высоты лучше видно окружающих тебя врагов.
+
+### Доброе утро...
+
+Проснись и пой. За два часа до восхода солнца, когда часовые на посту валятся с ног, - идеальное время для нападения!
+
+### Добрый день...
+
+Ешь меньше хлеба и больше мяса на обед, чтобы потом не хотелось спать. Враги только этого и ждут.
+
+### Добрый вечер...
+
+«Пусть лёгкий ветерок мягко погрузит вас в сон». Одно из тех редких приветствий старых аристократов, которое приятно услышать.
+
+### Спокойной ночи...
+
+Хочешь, сыграю колыбельную на костяном свистке? Ты уснёшь глубоким вечным сном... Хм, но для своей мести я выберу что-то более изобретательное.
+
+### Об Эоле: Рыцарь
+
+Легче всего отомстить, если проникнуть в стан врага, да? Поэтому я присоединилась к рыцарям.
+
+### Об Эоле: Отношение
+
+Раз я присоединилась к рыцарям Ордо Фавониус, я выполняю свои обязанности, как и любой другой уважающий себя человек. Может, я и потомок потерявших честь аристократов, но совесть у меня есть.
+
+### Об Эоле: Разведка
+
+Рыцари разведки могут свободно атаковать вражеские войска или сдерживать их на фланге, не следуя особым предписаниям. Как раз в моём стиле.
+
+### Об Эоле: Танец
+
+Традиции клана Лоуренс не так уж и плохи, по крайней мере, ритуальный танец. Он чист и благороден, он даровал мне душевный покой и утешение. За эти годы я никогда не прекращала танцевать, и тело помнит каждое движение... Если хочешь научиться фехтовальному стилю Фавония, сначала надо освоить танец.
+
+### О нас: Общность
+
+На самом деле мы немного похожи в том, что мы оба - чужаки в Мондштадте. Только тебя, чужака, встречают с распростёртыми объятьями, а ко мне относятся с враждебностью и презрением. / На самом деле мы немного похожи в том, что мы обе - чужаки в Мондштадте. Только тебя, чужака, встречают с распростёртыми объятьями, а ко мне относятся с враждебностью и презрением.
+
+### О нас: Месть
+
+Наша с тобой вражда надолго, так что я дождусь дня, когда я смогу свести с тобой счёты раз и навсегда. Может, через десять, двадцать лет... Не волнуйся, я не забуду. До тех пор ты должен быть жив, здоров и счастлив. / Наша с тобой вражда надолго, так что я дождусь дня, когда я смогу свести с тобой счёты раз и навсегда. Может, через десять, двадцать лет... Не волнуйся, я не забуду. До тех пор ты должна быть жива, здорова и счастлива.
+
+### Глаз Бога...
+
+Не очень приятно, когда тебя зовут «потомок преступников». Я могу избавиться от этого прозвища, только если буду продолжать мстить по-своему. Если я хочу отомстить, мне нужна сила. Имеет смысл получить Глаз Бога, верно?
+
+### Давай поделимся: Костяной свисток
+
+Мой костяной свисток может воспроизводить разные звуки, чтобы запутать врагов, и это довольно полезно. Я часто использую его, чтобы сыграть звук волн, именно поэтому я получила звание Рыцарь Морская пена. Но никого не интересует, что мастерство игры на костяном свистке уходит своими корнями в Ли Юэ... Но никто не хочет задуматься об этом. Я лишь ненавистный всеми преступник Мондштадта, который нашёл себе в учителя изгнанника из Ли Юэ...
+
+### Давай поделимся: Вино
+
+Вообще надо подавать выдержанное вино из одуванчиков в серебряном стакане, дать вину подышать и спустя двенадцать минут добавить лёд. При этом вино не должно покрывать лёд более чем на шестьдесят процентов. Но это слишком хлопотно.
+
+### Интересные вещи...
+
+Почему туманные цветки такие редкие? Порошок, который из них делают, чудесным образом влияет на звук костяного свистка. Звучание становится чистым и звонким.
+
+### Об Эмбер...
+
+Эмбер всегда своевольничала. В тот день, когда я впервые вступила в орден, она убирала для меня общежитие, показывала мне окрестности, а потом предлагала помочь разобраться со всякими неприятностями. Со стороны это выглядело, будто старшая сестра заботится о младшей. Она за это заплатит!
+
+### О Джинн...
+
+Действующий магистр. Она и мой клан - заклятые враги. Но она дала мне немало возможностей, как служебных, так и личных, признав мою силу и пригласив меня присоединиться к ордену. Поэтому я подумываю отомстить ей не очень неприятным поражением.
+
+### О Лизе...
+
+Надоедливая женщина, её голова забита тысячами, нет, десятками тысяч книг. Она хорошо помнит тёмную историю клана Лоуренс с момента основания и до сегодняшнего дня. По идее она могла бы помочь мне выследить кое-кого, но я не могу переступить через себя и попросить её о помощи.
+
+### О Барбаре...
+
+Она всегда такая милая, в чём её секрет? Если бы я могла научиться у неё нескольким трюкам... Нет, давай забудем об этом, «кумир» и «потомок преступников» не очень хорошо сочетаются.
+
+### О Варке...
+
+Магистр ордена, он очень прямолинейный, его не заботят слухи. Просто хороший человек. Однажды я сразилась с ним на мечах, и это была ничья. Это беззаботное выражение лица, это игривое отношение, он определённо поддавался! Это было величайшее презрение по отношению ко мне! Я это так не оставлю!
+
+### О Венти...
+
+Я слышала, как пел этот бард. Он рассказывал о клане Лоуренс забавные истории, пародировал манеру речи. Даже я не смогла сдержать смех... Он ещё поплатится!
+
+### О Рэйзоре...
+
+Свободный от социальных норм, ему не нужно заботиться о том, как он выглядит в глазах других, не нужно исполнять так называемые семейные обязанности... Его жизнь такая простая.
+
+### О Сахарозе...
+
+Алхимик? Она дала мне устройство, с помощью которого, по её словам, можно проникнуть в лагерь ордена Бездны. В результате оно взорвалось, выдав врагам моё местоположение, и я была окружена тринадцатью митачурлами. После этого я хотела отомстить ей, но, увидев её взволнованное и виноватое лицо, увидев записи о провале эксперимента на стене, я ничего не смогла сделать. В конце концов, я не пострадала, просто перепачкалась и опозорилась.
+
+### О Дилюке...
+
+Я не лажу с некоторыми рыцарями, а он не ладит со мной, хотя в теории мы оба на одной стороне. Но он всегда такой заносчивый - он хуже действующего магистра Джинн! Не хочу иметь с ним ничего общего.
+
+### О Дионе...
+
+Она всегда была замечательным барменом и проявляла искренний интерес в разговоре со мной. Она работает в таверне, чтобы уничтожить винную индустрию Мондштадта, и я вступила в орден рыцарей, чтобы отомстить им. Родственная душа, не иначе...
+
+### О Янь Фэй: Дежавю
+
+Это долгая история... Мы случайно спасли её, когда выслеживали партию опасного груза ордена Бездны. В то время орден маскировал опасные грузы под обычные, которые должны были перевезти из Тернового порта в порт Ли Юэ. Она была консультантом, сопровождавшим торговое судно, и поэтому когда груз начал вызывать подозрения, она взяла на себя смелость провести расследование и в итоге попала в переплёт. Если бы мы прибыли на несколько минут позже, ей настал бы конец.
+
+### О Янь Фэй: Мнение
+
+С тех пор мы поддерживаем связь, и мне нравится её остроумие. Она знает правила, но также знает, как их обойти. Если бы только хотя бы часть ордена могла у неё поучиться. Кроме того, её навыки должны помочь мне найти одного человека. Можно сказать, так она отплатит мне за услугу.
+
+### Узнать больше об Эоле I
+
+Что можно сказать о биографии преступника? Неважно, что ты скажешь или сделаешь, к тебе будут относиться враждебно, как к потенциальной опасности. Сейчас дела пошли на поправку. До того как я вступила в орден, ни «Хороший охотник», ни «Мондштадтский купец» мне ничего не продавали, и мне приходилось идти в пустоши, чтобы поохотиться, развести костёр и самой приготовить еду.
+
+### Узнать больше об Эоле II
+
+Люди советуют мне говорить мягче и быть осторожной со словами, ведь так меня легче будет простить. Но они так думают только потому, что никогда не были настоящими «преступниками»... Но нет простых путей к искуплению, когда ты изгой. Поэтому я не буду ходить вокруг них на цыпочках, а заставлю себя уважать. Скажем, сойдёмся мы в поединке. И если выиграют они, то я понесу своё наказание. Но если выиграю я - они должны будут выполнить мои требования. Какие? Да хотя бы продайте мне хлеба, наконец!
+
+### Узнать больше об Эоле III
+
+Рыцари Ордо Фавониус не так уж плохи, по крайней мере, они ценят способности человека больше, чем его статус. Несколько раз я скрещивала мечи с их лучшими бойцами и убедила их в своей силе, поэтому получила приглашение присоединиться к ордену. Служба в ордене облегчает месть и делает жизнь менее хлопотной, так почему бы и нет?
+
+### Узнать больше об Эоле IV
+
+Дурная слава легла на клан Лоуренс только после его падения. До этого его история была полна славы, но, к сожалению, все забыли эту историю. Магистр ордена сказал, что само по себе стать рыцарем недостаточно для восстановления былой чести клана, но, по крайней мере, это нанесёт удар по предрассудкам. Мне очень понравились эти слова.
+
+### Узнать больше об Эоле V
+
+Если члены клана не признают своих ошибок и продолжают отравлять Мондштадт, то я должна уничтожить их и фамилию Лоуренс своими собственными руками... Это, вероятно, единственная «семейная обязанность», которую я хочу выполнить. После этого я изменю свою фамилию. Можешь придумать мне новую!
+
+### Хобби Эолы...
+
+Люблю бодрящую свежесть. Пить прохладное вино, сидя в устье каньона и наслаждаясь ветром, или прыгнуть в ледяное озеро у подножия Драконьего хребта. Когда-нибудь ты будешь проходить мимо, и я затащу тебя в ледяную воду.
+
+### Беспокойство Эолы...
+
+Были времена, когда таверна была настолько переполнена, что меня просили разделить с кем-нибудь столик. Но когда они слышали фамилию Лоуренс, то позёры, провокаторы и задиры появляются словно из ниоткуда. А всего лишь хочу выпить. Разве я много прошу?!
+
+### Любимая еда...
+
+Я люблю готовить угощения, а это не всегда ваши обычные сладости. Например, холодный омлет из помидоров и мясного парфе, который отлично сочетается с малиновым джулепом со льдом и мятой. Важно то, что люди улыбаются, когда едят мои угощения.
+
+### Нелюбимая еда...
+
+Я не ем густые супы. У них насыщенная текстура, они дают тяжёлое чувство сытости, которое мешает тренировкам и боям. Их неудобно носить с собой. В общем, суп и я - заклятые враги!
+
+### День рождения...
+
+Сегодня памятный день, но развитие не ограничивается возрастом. Прими мой подарок - костяной свисток, и позволь мне научить тебя его секретам. Когда настанет день расплаты, посмотрим, как долго ты сможешь им отбиваться... Это будет интересно.
+
+### Чувство возвышения: Начало
+
+Мои боевые навыки значительно улучшились, но ещё рано злорадствовать. В Ордо Фавониус есть немало грозных рыцарей, и я должна оставить их далеко позади, если хочу отомстить за свой клан!
+
+### Чувство возвышения: Нарастание
+
+Неплохо. С моими нынешними способностями я чувствую, что могу победить действующего магистра!
+
+### Чувство возвышения: Кульминация
+
+Странно... Моя сила растёт невероятно быстро, когда я с тобой. Мне очень повезло нажить такого врага. Мне придётся вцепиться в тебя зубами и никуда не отпускать.
+
+### Чувство возвышения: Окончание
+
+Очень хорошо! Я ощущаю мощь твёрдого льда. Ни действующий магистр, ни сам магистр ордена не встанут у меня на пути! Нет времени на раздумья! Пора разработать свой план и броситься в атаку. После победы над рыцарями Ордо Фавониус ты станешь следующей целью... Не пытайся сбежать. Оставайся рядом со мной и будь свидетелем этого.
+
+### Элементальный навык I
+
+Моли о пощаде.
+
+### Элементальный навык II
+
+Мороз!
+
+### Элементальный навык III
+
+Вдребезги!
+
+### Элементальный навык IV
+
+Я приговариваю тебя!
+
+### Элементальный навык V
+
+Разбить!
+
+### Элементальный навык VI
+
+Око за око!
+
+### Взрыв стихии I
+
+Бушующие волны льда!
+
+### Взрыв стихии II
+
+Заледеней!
+
+### Взрыв стихии III
+
+Я отомщу!
+
+### Начало спринта I
+
+Прибавь шагу!
+
+### Запуск планера I
+
+Время разведки!
+
+### Открытие сундука I
+
+Что у нас здесь...
+
+### Открытие сундука II
+
+Это мне пригодится.
+
+### Открытие сундука III
+
+Ха, по крайней мере, удача не делает различий по происхождению.
+
+### Низкий уровень HP I
+
+Удача не на нашей стороне...
+
+### Низкий уровень HP II
+
+Скрестим мечи!
+
+### Низкий уровень HP III
+
+Наконец достойный соперник!
+
+### Низкий уровень HP компаньона I
+
+Дальше я сама!
+
+### Низкий уровень HP компаньона II
+
+Отойди, это приказ!
+
+### Без сознания I
+
+Какое жалкое зрелище...
+
+### Без сознания II
+
+Мы ещё поквитаемся...
+
+### Без сознания III
+
+Неужто меня настигло возмездие?
+
+### Получен тяжёлый удар I
+
+Неплохо!
+
+### Получен тяжёлый удар II
+
+Ничего себе...
+
+### Присоединяется к группе I
+
+Рыцари, выдвигаемся!
+
+### Присоединяется к группе II
+
+Я на разведку.
+
+### Присоединяется к группе III
+
+Каков план боя?
+
+### Подарок I
+
+О? Ты меня испытываешь? Вызов принят.
+
+### Подарок II
+
+Как-то не очень... Попробуешь?
+
+### Подарок III
+
+Вот это наглость! Ты мстишь мне?
+
+### О Мике: Общение
+
+Когда Мика пришёл в наш разведывательный отряд, я была уверена, что через пару дней он запросится домой, как все остальные. Но он меня удивил. Ни разу не пикнул и с заданиями своими справился, можно сказать, отлично. А ещё сам вызвался выполнять мои поручения, чтобы мне не приходилось лишний раз взаимодействовать с людьми... Хм, все члены отряда почему-то уверены, что обо мне нужно заботиться. Не знаю, кто им это внушил...
+
+### О Мике: Возвращение
+
+Мика совсем не изменился после экспедиции, но он стал заметно сильнее. Магистр явно никому не даёт отлынивать от тренировок... М? Мика сам не заметил? Это он просто не очень сообразительный... или скромный. Всё-таки он в моей команде, а я такие вещи сразу замечаю.
+
+## REPLICAS_EN
+
+### Hello
+
+Captain Eula Lawrence, Spindrift Knight, Knights of Favonius Reconnaissance Company. I extend to you my greetings. Huh? What's that...? Yes, Lawrence, the evil aristocrats of historical infamy. Oh, we're still very much evil. Just look at me, I'm infiltrating the inner ranks of the Knights of Favonius, all as part of a diabolical plan to exact our revenge and reclaim our former glory!
+
+### Chat: Etiquette
+
+Knights and aristocrats share the same cultural heritage, but the knights had enough sense to do away with all the superfluous detail.
+
+### Chat: Bladework
+
+You want to learn some Favonius Bladework? Heh, alright then, I'll teach you... Oh yes, I'll teach you, alright, mark my words...
+
+### Chat: Rules
+
+Aristocratic etiquette is all just for show... Just smile and nod along! I was forced to learn all of the rules by heart, but even I don't take them that seriously.
+
+### When It Rains
+
+Quick, under the umbrella, or you'll get soaked! You can't risk catching a cold, because it might turn into something more serious, and if that happens... Well, I can't go avenging my clan by picking on the sick now, can I?
+
+### When Thunder Strikes
+
+This weather is a hindrance. The thunder drowns out all other sounds, hampering my perception of the surrounding environment.
+
+### When the Sun Is Out
+
+Visibility is excellent! If we head to higher ground, we can do a full recon of enemy activity in the area.
+
+### Good Morning
+
+Rise and shine! The two-hour period before sunrise is the perfect time to strike, because the sentries are getting drowsy towards the end of their long night shift.
+
+### Good Afternoon
+
+Go easy on the grains at lunch and fill up on lean meat instead. If you get drowsy in the afternoon, anyone who's looking for an opportunity to take you down will make their move.
+
+### Good Evening
+
+"May the gentle breeze softly send thee into a sweet sleep." ...One of a select few aristocratic pleasantries that's actually quite lovely.
+
+### Good Night
+
+Would you like to hear a lullaby on the bone whistle? It'll send you into a deep and everlasting sleep... Hmm, no. When it comes to my revenge, far more imaginative means of retribution are in order...
+
+### About Eula: The Knights
+
+The easiest way to destroy your enemy is to take them down from the inside, right? That's why I joined the Knights of Favonius.
+
+### About Eula: Bearing
+
+Since I'm a genuine Knight of Favonius, I fulfill my duties like any other self-respecting individual would. Look, I may be a descendant of a disgraced ruling elite, but I'm not a total degenerate!
+
+### About Eula: Scout
+
+The role of a scout is to hunt down enemy troops, or fend off the enemy in side skirmishes away from the main battle. There aren't a whole lot of rules, which suits my style very well indeed!
+
+### About Eula: Dance
+
+Not all customs of the Lawrence Clan are despicable. At least the "Dance of Sacrifice" is pure and noble. It puts my mind at ease and gives me comfort. It's been years, but it's still dear to me. My body remembers every step that I... Well anyway, to end this digression, those who wish to master my signature "Favonius Bladework" technique have to pass my dance class first.
+
+### About Us: Commonality
+
+We're not so different, you and I. We're both outsiders in Mondstadt. Difference is, Mondstadt welcomes you with open arms, but they treat me with hostility and suspicion...
+
+### About Us: Feud
+
+Our feud is for the long term, so rather than get payback on a piecemeal basis, I think I'll make things easier for myself and wait for a day when I can settle the score once and for all. It could be in ten years, could even be twenty... But don't worry, I won't forget. In the meantime, I'll need you to take good care of yourself and have a happy, healthy life, okay?
+
+### About the Vision
+
+"Descendant of a depraved dynasty" isn't the most flattering reputation to have. The only way I can shake it for good is if I keep avenging my kin in my own way. Those who desire vengeance need power first, so it makes sense that I would get a Vision.
+
+### Something to Share: Bone Whistle
+
+My bone whistle makes a versatile range of sounds, which comes in handy for confusing the enemy. I often use it to imitate the sound of the sea, which is where I get my title of "Spindrift Knight" — this despite the fact that the bone whistle is actually a Liyue tradition... But then again, no one seems to look too closely into that kind of thing. I'm mean, they took me on, and I'm an exile of Mondstadt trained by an outcast of Liyue...
+
+### Something to Share: Wine-Tasting
+
+Technically, aged Dandelion Wine should be poured into a silver goblet and allowed to breathe for 12 minutes, then you're supposed to add ice cubes, ideally so 60% of the ice is submerged beneath the wine. I refuse to do all that though, it's not worth the hassle.
+
+### Interesting Things
+
+Why do Mist Flowers have to be so rare? The powder they produce works wonders for the bone whistle. It gives it a crisper, clearer sound.
+
+### About Amber
+
+Amber's someone who thinks for herself. On the day I first joined the Knights, she cleaned my dormitory and gave me a tour of the headquarters, and she's helped me with a myriad of other things in the time since. Now, everyone looks at me like the older sibling who needs the younger sibling to do everything for them! Hmph. For this, she must pay!
+
+### About Jean
+
+The Acting Grand Master's family and mine are sworn enemies. But she draws a clear line between professional and personal matters. She saw I was capable, admitted me into the Knights, and gave me lots of opportunities. So, when the time comes for vengeance, I'll afford her a reasonably soft landing.
+
+### About Lisa
+
+She's so annoying. She must have read thousands of books... could even be tens of thousands. Meaning, she can effortlessly recall any number of vile tales about the Lawrence Clan's corruption off the top of her head, accurate down to the exact date. Logically speaking, she'd be the perfect person to talk to about someone I'd like to track down, but... swallowing my pride would be too great a challenge.
+
+### About Barbara
+
+Everyone loves her. What's her secret? Maybe I could learn a thing or two from her... Hmm, or maybe not. I can't imagine a "Shining Idol" would want anything to do with a descendant of a depraved dynasty.
+
+### About Varka
+
+Hmph, the Grand Master... He doesn't like to beat around the bush and has no care for rumors or trivial matters. A good guy, I guess. I sparred with him once, which ended in a tie, but his relaxed expression and leisurely attitude clearly indicated that he had been holding back the whole time... Such indignity! I will not let it go!
+
+### About Venti
+
+I heard that bard sing a few songs about the Lawrence Clan... They were lighthearted and funny stories that mocked the clan in a way I've never heard anyone else do. Even I couldn't help but burst out laughing... And for this, he must pay!
+
+### About Razor
+
+Free from social mores and other people's opinions, and no family obligations... Must be an easy life!
+
+### About Sucrose
+
+The alchemist... She once gave me a piece of equipment and told me it would help me infiltrate an Abyss Order camp undetected. In reality, it caused a huge explosion that completely blew my cover and before I knew it I was being accosted by 13 mitachurls... Afterwards, I marched straight back there, intending to make her pay for what she had done, but when I saw how panicked and sheepish she looked, and watched her post her results on the wall with the word "Fail," I couldn't bring myself to go through with it... After all, I didn't get hurt, just a little disheveled... and a little humiliated.
+
+### About Diluc
+
+I don't get along with some of the knights, and he doesn't think much of them in general, so you'd think that would make us allies. But the way he always acts so aloof — he's even worse than Acting Grand Master Jean. I want nothing to do with him.
+
+### About Diona
+
+Diona? She's a miracle worker when it comes to making cocktails, and to my surprise, we get along really well. She infiltrated a tavern with the hopes of tearing down the wine industry, while I infiltrated the knights to exact my revenge on them. A kindred spirit it seems...
+
+### About Yanfei: Encounter
+
+This one's a long story... We ended up saving her life once when we were tracking down a batch of dangerous cargo that belonged to the Abyss Order. The Abyss Order had packed it up like regular cargo and wanted it shipped from Dornman Port to Liyue Harbor. She was acting as a consultant for the merchant vessel, where she discovered something in the cargo — and then began to investigate, putting herself in grave danger. Had we arrived just a few minutes later, it's likely she wouldn't have been so fortunate.
+
+### About Yanfei: Assessment
+
+We've kept in touch ever since. I like how smart she is. She knows the rules, but she also knows how to be flexible and act according to the situation. A few of the Knights would do well to take a leaf out of her book... Also, with her smarts, maybe she could help me track someone down that I've been looking for... She does owe me a favor from last time, after all.
+
+### More About Eula: I
+
+The life of a Lawrence doesn't include much worth talking about... Basically, whatever you say, whatever you do, people will always despise you and treat you like a potential threat to society. It's nowhere near as bad as it used to be, though. Before I'd joined the Knights, good grief... I couldn't even buy groceries. Even Good Hunter and Mondstadt General Goods wouldn't take my money. I literally had to go out and hunt my own food and cook it over a campfire if I wanted to eat dinner.
+
+### More About Eula: II
+
+People tell me that if I just spoke more softly, or was more polite, or acted more deferentially, others may find it easier to forgive me, but the only reason they think that way is because they've never been branded a pariah before. There is no easy path to redemption when you're a social pariah. I'm more inclined to stop tiptoeing around everyone all the time and just get out there and make them respect me the old-fashioned way! As in, we square off and if they win, I humbly accept my punishment, but if they lose, they must acquiesce to my demands... Such as... Well, I mean, if I want to buy a loaf of bread, take my darn money, for crying out loud!
+
+### More About Eula: III
+
+The Knights of Favonius are actually fairly reasonable, at the very least they reward merit and not social status. The reason they invited me to join their ranks is because I'd sparred with some of their crack troops and won through my own sheer skill. Being an insider in the organization will make getting revenge much easier, as it removes many of life's complications, so what's not to love?
+
+### More About Eula: IV
+
+The name Lawrence only became a social stigma after the clan fell from grace. It was once an honor to be called a Lawrence, but unfortunately, most people have forgotten about that part of history. The Grand Master says that I am performing rather well as a knight, and that if it's not enough to restore the honor of the Lawrence name, it's certainly a strong rebuttal against the one-sided opinions so many people throw around. I'm quite satisfied with that appraisal.
+
+### More About Eula: V
+
+If my family members refuse to change their corrupt ways, or worse, continue to cause active harm in Mondstadt... I should be the one to end them, along with the Lawrence name itself. For once, it'd be a family obligation I'd actually enjoy. And once the deed was done, I'd be free to pick any name I wanted. Or even let you pick one for me!
+
+### Eula's Hobbies
+
+I'm into all sorts of cool things. Sipping a nice cold drink, sitting in a canyon feeling the biting wind howl past my face, or diving into the lake at the foot of Dragonspine... Waiting for you to stroll by unsuspectingly, so I can sneak up behind you and drag you down into the icy depths...
+
+### Eula's Troubles
+
+Sometimes, when it's busy in the tavern, they ask me to share a table with other customers. But once they find out that I'm a Lawrence, suddenly everyone gets indignant and provocative, and starts trying to bait me out in some way. I just want to have a drink, is that too much to ask!?
+
+### Favorite Food
+
+I like making my own treats. Not always your typical sweet treats, though. For example, a Chilled Tomato and Aspic Jelly Egg Roll pairs very nicely with an ice-cold glass of Berry & Mint Punch. The most important thing is that they leave the people who like eating them with big smiles on their faces.
+
+### Least Favorite Food
+
+I can't stand a rich broth. The flavor is too overpowering, it's so filling you can't train or fight afterward, and also, it doesn't really work as field rations... Simply put, broth and I are sworn enemies!
+
+### Birthday
+
+Today is a day worth observing, though you shouldn't mark your development in age alone. Accept my gift of a bone whistle, and allow me to teach you its secrets. When your day of reckoning comes, see how long you can fend me off with it... It'll make the whole thing much more exciting.
+
+### Feelings About Ascension: Intro
+
+My fighting skills just got a whole lot stronger... But I shouldn't get too conceited just yet. There are some truly formidable knights among our ranks, and I must outperform them immeasurably if I wish to defeat them and avenge my clan!
+
+### Feelings About Ascension: Building Up
+
+Good! With this much power, I daresay even the Acting Grand Master herself would be no match for me!
+
+### Feelings About Ascension: Climax
+
+How strange... In the time I've spent with you, my strength seems to have improved exceptionally quickly. I suppose I was rather fortunate to make an enemy of you. I'd better dig my teeth in to make sure you can't get away!
+
+### Feelings About Ascension: Conclusion
+
+Excellent! The unstoppable power of an immovable glacier dwells within me now and no grand master, acting or otherwise, can stand in my way! There is no time to delay. I must devise my plan, and unleash my attack! Once I have crushed the Knights of Favonius beneath my heel, my next target... is you. Don't try to run. Stand beside me and witness all that must come to pass.
+
+### Elemental Skill: I
+
+Beg for mercy.
+
+### Elemental Skill: II
+
+Shudder!
+
+### Elemental Skill: III
+
+Crush!
+
+### Elemental Skill: IV
+
+I condemn you!
+
+### Elemental Skill: V
+
+Rack and ruin!
+
+### Elemental Skill: VI
+
+Eye for an eye!
+
+### Elemental Burst: I
+
+Flood of frost!
+
+### Elemental Burst: II
+
+Freeze to the core!
+
+### Elemental Burst: III
+
+Vengeance will be mine!
+
+### Sprint Start: I
+
+More speed.
+
+### Deploying Wind Glider: I
+
+Time to scout!
+
+### Opening Treasure Chest: I
+
+What do we have here...
+
+### Opening Treasure Chest: II
+
+I can put these to good use.
+
+### Opening Treasure Chest: III
+
+Ha, at least good luck doesn't discriminate by clan.
+
+### Low HP: I
+
+The odds are against us...
+
+### Low HP: II
+
+Let us cross swords...
+
+### Low HP: III
+
+Well met!
+
+### Ally at Low HP: I
+
+I'll take it from here!
+
+### Ally at Low HP: II
+
+Disengage, that's an order!
+
+### Fallen: I
+
+What a sorry sight...
+
+### Fallen: II
+
+I'll be back... with a vengeance...
+
+### Fallen: III
+
+Guess I got my comeuppance...
+
+### Heavy Hit Taken: I
+
+Touché!
+
+### Heavy Hit Taken: II
+
+Good grief...
+
+### Joining Party: I
+
+Ready for reconnaissance.
+
+### Joining Party: II
+
+I'll scout ahead.
+
+### Joining Party: III
+
+What's your battle plan?
+
+### Receiving a Gift: I
+
+Oh? Are you putting me to the test? Challenge accepted.
+
+### Receiving a Gift: II
+
+Eh, not that great... How about you try it?
+
+### Receiving a Gift: III
+
+The nerve on you, are you exacting revenge?
+
+### About Mika: Communication
+
+When Mika was assigned to the Reconnaissance Company, I thought that he'd only last a few days, just like the others before him. But he surprised me. He never made a peep, but he completed all of his tasks quite admirably. He even volunteered to run errands for me, and assist with communication... Hmph... I don't know who is going around telling people that I need looking after...
+
+### About Mika: Returning
+
+Mika's personality hasn't changed one bit since he's been out with the expedition, though his abilities have improved significantly. The Grand Master is clearly making sure nobody neglects their training... Hmm? Mika's unaware of his own improvement? It must be one of his blind spots... or perhaps he's just being humble. Either way, things like this don't escape me. I know my team.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+西风骑士团，游击小队队长，「浪花骑士」优菈·劳伦斯，向你致以问候…嗯，劳伦斯，没错。如你所见，我是罪人的后裔，是骑士团的内鬼，正在向他们复仇。
+
+### 闲聊·礼仪
+
+骑士和贵族的礼仪一脉相承，只是前者脚踏实地，简化了繁文缛节。
+
+### 闲聊·剑技
+
+西风剑术？想和我学两手吗？等你学成再找你报仇，想必能增添不少乐趣。
+
+### 闲聊·规矩
+
+贵族们的陈腐规矩啊…听听就好，哪怕像我一样，被迫背诵了几百条，也不必当真。
+
+### 下雨的时候…
+
+快到伞下来，别被淋湿了。要是你得了病，身体早早就垮掉，那我找谁报仇去？
+
+### 打雷的时候…
+
+麻烦的天气，雷声会干扰听觉，影响我对周边的感知。
+
+### 阳光很好…
+
+视野不错！登上高地，就能将周围的敌情尽收眼底。
+
+### 早上好…
+
+该起床了，日出前两个小时，值岗一夜的哨兵最为疲惫，是我们活动的绝佳时间！
+
+### 中午好…
+
+午饭要少吃谷物，多吃肉类，防止午后困倦，被人趁机暗算。
+
+### 晚上好…
+
+「愿柔风伴你，度过安详的一夜。」…旧贵族的问候语里，难得有这么中听的一句。
+
+### 晚安…
+
+想听骨哨的催眠曲吗？会让你长睡不醒…但这样的报仇方法，实在太无聊了。
+
+### 关于优菈自己·骑士
+
+打入敌人内部，不就能更方便地复仇了吗？所以我才加入骑士团啊。
+
+### 关于优菈自己·态度
+
+既然成为了西风骑士，基本工作还是要尽职的，不然就连混日子的庸人们都不如了。哪怕是罪人，也不能这么丢脸。
+
+### 关于优菈自己·游击
+
+游击骑士的职责是自由狩猎敌军，或者在侧面战场牵制敌人，没有太多规矩，更符合我的作风。
+
+### 关于优菈自己·舞蹈
+
+劳伦斯家的传统倒也不全是糟粕，至少「祭礼之舞」纯净而高洁，让我心境平和，给过我不少慰藉。这么多年来，我一直没有放下它，每个舞步都刻进了我的身体…所以，言归正传，想要学到只属于我的「西风剑术」，还得先过舞蹈这关。
+
+### 关于我们·共性
+
+其实我们俩有点像，对于蒙德，我们都是「外人」。只不过，你这个外人受到欢迎，而我一直被提防，被人敌视。
+
+### 关于我们·复仇
+
+你还会和我结下更多仇的，不如就等到哪天一并清算吧，这样能省掉不少麻烦。也许是十年后，二十年后…放心，我不会忘的。在那之前，你可要生龙活虎，平安无事啊。
+
+### 关于「神之眼」…
+
+「罪人的后裔」，这个名号不太中听，我只有不断用我的方式复仇，才能彻底摆脱它。想要复仇就需要力量，得到「神之眼」，也是情理之中的事吧。
+
+### 有什么想要分享·骨哨
+
+我的骨哨能吹出各种音色，迷惑敌人，相当实用。我经常用它吹奏海浪的声音，「浪花骑士」的称号就是这样来的。但没人在乎，这骨哨的技艺起源于璃月。毕竟他们也不会去深究…一个被蒙德排斥的罪人，找了个被人遗忘的璃月人当老师嘛。
+
+### 有什么想要分享·品酒
+
+按理说，陈酿蒲公英酒要搭配银杯，醒酒十二分钟后加入冰块，酒面没过冰块六成为宜。但这样实在太麻烦了，我可不乐意。
+
+### 感兴趣的见闻…
+
+冰雾花呀，怎么就这么罕见呢？它制作的粉末有奇效，能让骨哨的音色变得更通透。
+
+### 关于安柏…
+
+安柏总是自作主张，我刚加入骑士团那天，她替我打扫宿舍，带我四处参观，之后也主动帮我搞定各种麻烦事。在别人看来，我就像是个被妹妹照顾的姐姐，这怎么像话！这些仇，我都记下了！
+
+### 关于琴…
+
+代理团长啊，她和我的家族是宿敌。但她公私分明，认可我的实力，邀请我加入骑士团，给了我不少机会。所以我考虑在复仇时，赏她一个不算难看的败北。
+
+### 关于丽莎…
+
+啊，麻烦的女人，她的脑袋里装着几千本书，也许是几万本。她能随口数落劳伦斯家的黑历史，每件事的日期都很准确。按理来说，她能帮我追查某个人的下落，可我又拉不下脸去找她。
+
+### 关于芭芭拉…
+
+她到底有什么秘诀，这么讨人喜欢？要是能和她学两招…哦不，还是算了吧，「偶像」和「罪人的后裔」，怎么想都不合拍。
+
+### 关于法尔伽…
+
+大团长啊，他的性格很直爽，不在乎琐事和传闻，算是个老好人吧。我和他切磋过一次，打成了平手，但他那轻松的表情，散漫的态度，绝对是在放水！是对我最大的轻视！这个仇，我绝不会忘的！
+
+### 关于温迪…
+
+那个吟游诗人唱过几首歌，把劳伦斯家放进轻快的故事，用从没听过的口吻调侃，连我都憋不住笑…这个仇，我不会忘的。
+
+### 关于雷泽…
+
+不用拘泥于礼仪，不必在乎他人的目光，也没有所谓的家族责任…他的生活方式，还蛮轻松的。
+
+### 关于砂糖…
+
+那个炼金术士？她给过我一种装置，说是能用来潜入深渊教团的营地，结果却发出巨响爆炸了，害我当场暴露，被十三个丘丘暴徒围攻。事后我本来想找她算账，可看她慌张又内疚的样子，还有墙上贴着的失败记录，我也不好说什么。反正我没受伤，只是灰头土脸，有点丢人。
+
+### 关于迪卢克…
+
+我和骑士团的某些人不对付，他也看骑士团不顺眼，理论上，我俩是一边的。但他总是对人不理不睬的样子，感觉比代理团长还麻烦。唉，我可不想和他打交道。
+
+### 关于迪奥娜…
+
+她呀，是个奇妙的调酒师呢，居然和我聊得来。她为了毁灭蒙德酒业在酒馆工作，而我为了向骑士团复仇加入了骑士团，天下还有这么巧的事。
+
+### 关于烟绯·相识…
+
+说来话长…有次我们追踪深渊教团的一批危险品，碰巧救下了她。当时，教团的危险品被伪装成普通货物，要从荆夫港转运到璃月港，她是跟随商船的顾问，发现货物有鬼，就擅自进行了调查，结果引火上身。要是我们再晚几分钟到，她就要倒大霉了。
+
+### 关于烟绯·看法…
+
+之后我们一直保持着联络，我还蛮喜欢她那股机灵劲儿的。她牢记规矩，但懂得变通，如果骑士团里的某些人能学学她就好了。而且，凭她的本事，应该能帮我找到那个人。就当是她还上欠我的人情了。
+
+### 想要了解优菈·其一
+
+罪人的经历，有什么好了解的？反正不管说什么做什么，都会被敌视，被当成潜在的危险分子吧。现在还算好了，没加入骑士团的时候，猎鹿人和蒙德百货都不愿意卖东西给我，吃饭都得去野外打猎生火自己做。
+
+### 想要了解优菈·其二
+
+有人劝过我低声下气，谨言慎行，说这样也许能获得谅解，但他们会这么想，只是因为他们没当过真正的「罪人」。…「罪人」是不会轻易被原谅的，那还不如洒脱一点，上门复仇，堂堂正正地去较量。要是赢了我，我听凭处置，可要是输了，就得满足我的要求。比如…唉，至少也要好好地把东西卖给我吧。
+
+### 想要了解优菈·其三
+
+西风骑士团倒还挺像样的，至少他们更看重一个人的「才能」而非「身份」。当年我和他们的精锐切磋过几次，用实力折服了他们，所以收到了入团邀请。在骑士团内部工作，复仇更方便了，生活中的麻烦也减少了，何乐而不为呢？
+
+### 想要了解优菈·其四
+
+劳伦斯家族是在堕落后才背负恶名的，在此之前，这个姓氏也曾满载荣耀，可惜所有人都像是忘掉了那段历史。大团长说我作为骑士，干得还算不错，不说找回劳伦斯最初的荣光，至少是对片面观点的迎头痛击。这个说法倒是挺合我意的。
+
+### 想要了解优菈·其五
+
+如果家族里的那些人一直执迷不悟，甚至继续荼毒蒙德，那他们和劳伦斯这个姓氏，就该被我亲手抹杀…这大概是我唯一想要履行的「家族责任」吧。在那之后，我就随意改个姓氏，由你来起都没问题！
+
+### 优菈的爱好…
+
+凉爽的事，我都很中意。比如，痛饮冰镇后的酒和饮料，坐在峡谷山口享受狂风，或者跳进龙脊雪山山脚的湖里泡澡。哈，没准哪天你在湖边晃荡，会被我拖进冰水里哦。
+
+### 优菈的烦恼…
+
+有的时候酒馆生意太火爆，我被要求和人拼桌。听说我是劳伦斯家的人，摆谱的、挑衅的、明着暗着使绊子的，就从各种地方冒出来了，唉，还让不让人好好喝酒了？
+
+### 喜欢的食物…
+
+我喜欢亲手做点心，点心不一定都是甜品，比如冰镇后的番茄肉冻蛋卷，就很适合搭配冰树莓薄荷酒。重要的是，有些人吃到我做的点心，就会笑得很开心。
+
+### 讨厌的食物…
+
+浓郁的汤品，我实在不能接受。口感太厚重，饱腹感很强，影响运动和战斗，还不方便携带，简直是我的天敌。
+
+### 生日…
+
+今天是个值得纪念的日子，但你的成长不能只限于年龄。送你一个特制骨哨，跟我学学吹奏的方法吧。等到我向你报仇的那天，你可以试试，用这枚骨哨干扰我，拖延时间，挣扎得更有趣一些吧。
+
+### 突破的感受·起
+
+战技提升了不少，但还不值得沾沾自喜。骑士团里也有不少家伙格外勤奋，要想战胜他们完成复仇，必须远远将他们甩在身后。
+
+### 突破的感受·承
+
+不错，以我现在的实力，哪怕和代理团长一较高下，也十拿九稳了！
+
+### 突破的感受·转
+
+奇怪…和你同行时，力量增长得格外迅猛呢。看来和你结仇是件走运的事，我得紧紧咬住你不放了。
+
+### 突破的感受·合
+
+很好！这股坚冰的力量已被我牢牢掌控。别说代理团长，大团长都没法再阻挡我了！事不宜迟，我可以制定计划，发起总攻了。挫败西风骑士团之后，下个目标就是你，你也别想逃，乖乖待在我身边，见证这一切吧。
+
+### 元素战技·其一
+
+求饶吧。
+
+### 元素战技·其二
+
+结霜！
+
+### 元素战技·其三
+
+粉化！
+
+### 元素战技·其四
+
+判决！
+
+### 元素战技·其五
+
+破碎！
+
+### 元素战技·其六
+
+以眼还眼！
+
+### 元素爆发·其一
+
+冰浪怒涛！
+
+### 元素爆发·其二
+
+以霜还怨！
+
+### 元素爆发·其三
+
+坚冰，断绝深仇！
+
+### 冲刺开始·其一
+
+加快脚步。
+
+### 打开风之翼·其一
+
+空中行动，视野更棒。
+
+### 打开宝箱·其一
+
+有所发现。
+
+### 打开宝箱·其二
+
+嗯，大多能派上用场。
+
+### 打开宝箱·其三
+
+罪人也有这么走运的时候啊…
+
+### 生命值低·其一
+
+开战不利…
+
+### 生命值低·其二
+
+要正式接敌了…
+
+### 生命值低·其三
+
+不赖嘛！
+
+### 同伴生命值低·其一
+
+退回去，都交给我！
+
+### 同伴生命值低·其二
+
+听我指挥，拉开间距！
+
+### 倒下·其一
+
+狼狈的收场…
+
+### 倒下·其二
+
+我还能…撑住…
+
+### 倒下·其三
+
+罪人的结局吗…
+
+### 重受击·其一
+
+还不错！
+
+### 重受击·其二
+
+难得啊！
+
+### 加入队伍·其一
+
+游击骑士，率先行动。
+
+### 加入队伍·其二
+
+由我打前锋。
+
+### 加入队伍·其三
+
+行动计划敲定了吗？
+
+### 收到赠礼·其一
+
+哦？这是对我的挑战吗。我接受了。
+
+### 收到赠礼·其二
+
+马马虎虎嘛…你自己也尝尝？
+
+### 收到赠礼·其三
+
+你这家伙，是在报复我吗？
+
+### 关于米卡·沟通
+
+米卡被分来游击小队的时候，我以为他会像之前某些人一样，没干几天就想走了。没想到他不声不响，任务却完成得相当出色，还主动承担了所有跑腿的任务，替我和其他人沟通。哼，一个两个都想着照顾我，也不知道是谁教出来的。
+
+### 关于米卡·回归
+
+这次米卡从远征队回来，性格没什么变化，实力倒是强劲了不少。看来大团长没有怠慢对大家的训练。嗯？你说他自己都没发现？那是他迟钝吧…或者说，谦虚。毕竟是我小队的成员，这种事，看一眼就知道了。

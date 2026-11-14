@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 76142
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_76142
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 76142
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,6 +28,7 @@
 
 Под Лагерем у скалы есть заброшенная стоянка...
 
+#### Осмотрите ущелье
 
 **???:** Эй, Чернов, ты как там?
 
@@ -43,6 +46,8 @@
 
 **???:** Эй! Оружие к бою, фонари повыше! Нам предстоит тяжёлое сражение.
 
+#### Одолейте монстров
+
 #### Продолжайте исследование
 
 **???:** Филаев, не бойся! Мы с Патоличевым выведем тебя отсюда. Соберись, ты ведь светоносец! И держи меч крепче!
@@ -59,12 +64,15 @@
 
 **???:** Вперёд, готовимся к обороне! Покажем этим псам, на что способны «Рысаки вихря»!
 
+#### Одолейте монстров
+
 ## EN
 
 ### Reverberation of Heroic Spirits
 
 There seems to be a dilapidated campsite below Cliffwatch Camp...
 
+#### Investigate the canyon
 
 **???:** Hey, Chernov, you okay?
 
@@ -82,6 +90,8 @@ There seems to be a dilapidated campsite below Cliffwatch Camp...
 
 **???:** Alright! Weapons up, lanterns steady. We've got another wave coming!
 
+#### Clear out the monsters
+
 #### Continue exploring
 
 **???:** Don't be afraid. Patoli and I will get you out of here. Stand tall — hold that blade like a proper Lightkeeper!
@@ -98,12 +108,15 @@ There seems to be a dilapidated campsite below Cliffwatch Camp...
 
 **???:** Come on, prepare the defense! Let these damned creatures witness the wrath of the Frostgale Steeds!
 
+#### Clear out the monsters
+
 ## ZH
 
 ### 英灵的残响
 
 在望崖营壁下，似乎有一处破败的营地…
 
+#### 探查峡谷内部
 
 **？？？:** 嘿，契诺夫，你还好吧。
 
@@ -121,6 +134,8 @@ There seems to be a dilapidated campsite below Cliffwatch Camp...
 
 **？？？:** 嘿！拿好你们的武器和灯，我们还有一场硬仗要打呢。
 
+#### 清除魔物
+
 #### 继续向前探索
 
 **？？？:** 菲拉耶夫，别怕，我和帕托利会带你一起出去的。精神点，像个合格的执灯人一样，把剑拿稳了！
@@ -136,3 +151,5 @@ There seems to be a dilapidated campsite below Cliffwatch Camp...
 **菲拉耶夫:** 这也是我们的荣幸，队长。
 
 **？？？:** 来吧，准备防守！让这群狗东西见识一下「凛风之马」的厉害！
+
+#### 清除魔物

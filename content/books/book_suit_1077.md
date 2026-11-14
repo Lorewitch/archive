@@ -1,0 +1,381 @@
+# id: book_suit_1077
+# category: books
+# title_ru: Дополнение к всеобщей истории Снежной
+# title_en: General History of Snezhnaya Supplement
+# title_zh: 至冬国通史补编
+# game_source_ids: 1077,121764,121765,121766
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# subtype: book_series
+# volume_count: 3
+# rarity: 3
+# region: Снежная
+# icon:
+# tags: книги, Дополнение к всеобщей истории Снежной
+# game_version: 7.2
+
+## RU
+
+### Том 1
+
+...
+О ранних годах царя Мстислава Кровопийцы, верховного вождя союза волкодлаков и смертельного врага императора Мономаха, достоверных сведений не сохранилось. У кланов волкодлаков никогда не было обычая записывать свою историю, а песни, что передаются из уст в уста, нередко грешат преувеличениями. Если отбросить все нелепые предания, нам известно лишь одно: Мстислав родился в клане Аркудино и был младшим сыном вождя Бодвара. В те времена их клан был вассалом Чернареки и регулярно платил им дань в обмен на защиту.
+
+Согласно «Волховской летописи», убив владыку волкодлаков Чернареки, «Кровавая Княжна» Яльяна Моревна сама явилась в клан Аркудино. Бодвар, сознавая, что не в силах ей противостоять, добровольно открыл ворота и, облачённый в длинную белую полотняную рубаху, встретил её на коленях с деревянным подносом, на котором лежали хлеб и соль. Он обещал Яльяне, что будет «слушаться её во всём, как родную мать» и платить втрое больше дани, чем прежнему господину, и просил лишь явить милосердие и пощадить стариков, женщин и детей его клана. Но Яльяна ответила:
+
+«Ты предал свою мать, а я - нет. Твоя дань бессердечна. И кровь твоя бессердечна».
+
+Затем она убила Бодвара. Согласно одному диковинному повествованию, которое впервые встречается лишь в «Тайной истории Двора Бледной звезды» (великий князь П. Н. Костомаров полагал, что эта книга была написана после восшествия на престол императрицы Анастасии), Яльяна заключила Бодвара в жутком орудии, отлитом из латуни в форме быка, пригвоздила его там и заживо выпустила из него кровь. Орудие якобы было устроено так искусно, что кровь непрерывно вытекала из пасти медного быка, на усладу Яльяне.
+
+Эти нелепые сведения явно порождены воображением позднейших поколений, не знавших даже, за какое время свёртывается кровь. Позднейшим драматургам, чтобы оправдать подобный рассказ, пришлось добавить, будто латунного быка ещё и нагревали, дабы кровь не могла свернуться. Как бы там ни было, Яльяна действительно уничтожила клан Аркудино с невообразимой жестокостью, и имя его навсегда исчезло из истории.
+
+Ни один из сохранившихся источников не позволяет судить о целях Яльяны, но известно, что она никогда не принимала покорности побеждённых. В «Жизнеописании князей волкодлаков» приведён следующий рассказ (оригинальный текст рукописи см. в приложении):
+
+Покорив Харжацк, прародину волкодлаков, обликом напоминающих зайцев, Яльяна приказала своему ученику, будущему императору Мономаху, найти ей домового и предать смерти всех, кто был выше него. Юный Мономах, мудрый и милосердный, спросил её: всегда ли тот, кто стоит, выше того, кто сидит? Она ответила: «Да». Тогда Мономах поднял домового и усадил на её высокий престол, так что у всех волкодлаков из Харжацев уши оказались ниже макушки домового, и весь клан был спасён от смерти.
+
+Хотя большинство историков-альвов, включая автора «Давоградской летописи», не считают сведения из «Жизнеописания князей волкодлаков» хоть сколько-нибудь достоверными, этот нелепый рассказ отражает один неоспоримый факт: после встречи с юным Мономахом Яльяна стала всё реже истреблять альвов. Несомненно, юный император Мономах своей врождённой добродетелью наставил её на праведный путь и смягчил её жестокую натуру. Несколько столетий спустя, ещё до начала войны императора Мономаха с союзом волкодлаков, клан Харжацев, служивший союзу, добровольно перешёл на сторону Двора Бледной звезды. Его вождь Свенельд Порфирий называл молодого императора Спасителем и вместе с великим князем Альвисом ведал торговлей, горным промыслом и распределением дани в Китежграде. Так же поступали и все сто девяносто два его отпрыска.
+
+Как бы там ни было, кровь Бодвара не принесла милосердного мира. По преданию, перед смертью он спросил Яльяну:
+
+«Какую ярость пробудят в медвежонке страдания старого медведя?» («Волховская летопись»)
+
+Этим медвежонком был его единственный уцелевший младший сын, будущий основатель союза волкодлаков Мстислав Бодварович Кровопийца.
+...
+
+### Том 2
+
+...
+В те времена дать приют сироте из разгромленного клана считалось глупостью, сулящей одни лишь беды. Когда юный Альрек Яриславич привёл изгнанника в длинный дом и попросил старейшин клана защитить его, те выбранили Альрека за безрассудство и недомыслие. Выхватив мечи и боевые топоры, они решили отрубить обоим головы и отправить их с посланцем в Геспериды, чтобы война не пришла в их собственный дом. Мстислав выступил вперёд и согласился принять такую участь, прося лишь пощадить Альрека. Но Альрек обнажил свой меч, сразил одного из бросившихся на него дружинников и, воткнув окровавленный клинок в землю, сказал:
+
+«Сегодня вы отсылаете врагам головы невинных. Кто же завтра отошлёт ваши головы?» («Давоградская летопись»)
+
+С этими словами он убил ещё двух дружинников, схватил Мстислава за руку и прорвался с ним к выходу из дома. Завладев боевым конём, они вдвоём вскочили ему на спину и, невзирая на метель, отправились искать убежища у клана, к которому принадлежала мать Альрека. Клан этот звался «Волкодлак», и позднее именно это слово стало обозначать в человеческом языке всех им подобных.
+
+Прежде на снежных равнинах не было единого народа, который называл бы себя «волкодлаки». Люди Нимрода не считали волчью стражу Чернареки своими родичами, подобно тому как мы не считаем, что в жилах домовых, вил и водяных течёт одна и та же кровь. Вековая вражда между кланами была сильнее их ненависти к снеговикам. Они непрестанно воевали друг с другом за скудные источники тепла, пищу и чистую воду. В таком положении, лишённом всякого милосердия, говорить о некоем «союзе», который объединял бы существ разного облика и происхождения, мог лишь безумный мечтатель.
+
+Однако юный Мстислав и был таким мечтателем. Благодаря невероятной отваге и военной хитрости он не однажды разбивал войска могущественных соседей, приходивших за данью. При этом он убивал лишь их предводителей, отпускал домой пленников, которым полагалось стать рабами, и всю добычу раздавал своим подданным. Этой показной искренностью он вскоре добился того, что его избрали новым вождём клана Волкодлаков. Как повествует «Волховская летопись», став вождём, он сказал своему синаймосу, Альреку Яриславичу «Освободителю»:
+
+«Они признают меня царём, но не мне надлежит царствовать. Я ответил [на их желание] лишь потому, что не могу более смотреть, как невинных и слабых лишают счастья и режут, словно скот. [Нам] надлежит либо объединиться, либо погибнуть, и [ты] научил меня не принимать гибель».
+
+Следует подчеркнуть, что это была лишь ложь, которой Мстислав пытался завоевать любовь подданных, а вовсе не искреннее проявление милосердия. Ведь после того он повёл завоевательные войны и в каждом покорённом клане насильно разлучал семьи, запрещал местные наречия и заставлял всех учиться единой письменности. Молодых и крепких представителей завоёванных кланов он распределял между разными полками, велел им всем называть себя «волкодлаками» и поощрял браки между ними.
+Эти жестокие и беспощадные указы столь основательно изменили облик снежных равнин, что даже через несколько тысячелетий, когда клан Харжацев откололся от союза волкодлаков и перешёл на сторону Двора Бледной звезды, эти похожие на зайцев альвы по-прежнему считали естественным называть себя волкодлаками. По окончании войны великий князь Альвис предложил пересмотреть их представления о собственной идентичности, но подавляющее большинство знати, включая самого императора Мономаха, единодушно выступило против, и от этого замысла пришлось отказаться.
+
+Слава царя Мстислава достигла вершины после битвы при Далограде. Когда «Кровавая Княжна» Яльяна Моревна лично вышла на поле боя, передовые отряды водяных и волкодлаков были быстро разбиты. Молодой князь водяных Домбертиев не мог больше смотреть, как гибнут союзники, добровольно пришедшие ему на помощь, и просил Мстислава отступить первым, обещая ценой собственной жизни прикрыть его отход. Альрек Яриславич тоже убеждал его уйти: они ещё слишком слабы, чтобы противостоять захватчикам, и, если Мстислав погибнет здесь, юный союз волкодлаков распадётся. Но царь Мстислав ответил:
+
+«Если [я] сегодня не умру здесь, от её [Яльяны] руки погибнет в семьдесят раз больше [подданных], которые слабее меня. [Мы] сражаемся, чтобы жестокость не истребляла невинные жизни. Я не склоню головы и не отступлю. Ей нужна наша кровь? Пусть сперва растопчет наши кости и сама возьмёт её». («Давоградская летопись»)
+
+После этих слов он вскочил на боевого коня и устремился к главным силам Яльяны. Говорят, его тело пронзили в десятках мест, а рана на горле не зажила даже спустя несколько тысячелетий. И всё же он бился насмерть, не отступая, и вновь и вновь бросался на снеговиков. Союзное войско водяных и волкодлаков несло невообразимые потери, к концу сражения семь из каждых десяти воинов были убиты или ранены. Замёрзшее озеро сплошь обагрилось кровью; павшие воины погрузились в его глубины, так и не обретя могил. Но всё же Яльяна была отбита и отступила в Геспериды.
+
+Через три месяца после битвы царь Мстислав созвал в своей вотчине вождей всех кланов. Встав перед огромным медным чаном, полным медовухи, он разрезал рубец на руке и капнул кровью в напиток. Остальные вожди последовали его примеру. Тогда он зачерпнул чашу смешанного с кровью мёда, выпил её залпом и сказал:
+
+«Мы испили крови друг друга, и отныне меж нами нет кровной вражды. Все, кто пьёт эту кровь со мною, во веки веков будут моими кровными родичами. Оскорбление одного есть оскорбление всего рода; за убийство одного мстит весь род. Кто нарушит эту клятву, пусть собственной кровью наполнит сей медный чан». («Волховская летопись»)
+
+Вожди поочерёдно принесли клятву, а царя Мстислава с той поры стали звать Мудрецом-Кровопийцей. До исчезновения Яльяны он сражался с нею семь раз и дважды одержал победу.
+
+Однако история бесчисленное множество раз учила нас: слепая храбрость, не питаемая высокими добродетелями, в конце концов становится ядом, пожирающим самое себя. Когда Яльяна ушла, союз волкодлаков лишился общего внешнего врага и начал медленно погружаться в праздность и разложение. К тому времени, когда молодой император Мономах воздвиг Китежград под Бледной звездой, этот непрочный союз, объявлявший себя нерушимым, сохранял лишь видимость единства, держась на личной дружбе царя Мстислава с вождями отдельных кланов. И потому, когда прежние вожди умерли, кланы волкодлаков, и прежде недовольные союзом, без колебаний поступили на службу Двору Бледной звезды.
+
+Согласно записям в «Песеннике Святой Стривожи», император Мономах часто говорил своим сановникам, что следует помнить урок союза Мстислава: не кичиться своими свершениями и не предаваться пороку, но всегда держаться добродетели, дабы не допустить непоправимой ошибки.
+...
+
+### Том 3
+
+Приложение: рукопись «Жизнеописание князей волкодлаков». Императорская публичная библиотека Снежной. Дар великого князя И. М. Ковалевского.
+
+Необходимо отметить, что исторические сочинения волкодлаков той поры крайне туманны и трудны для понимания, а также изобилуют ошибками и пропусками, поэтому доверять им почти невозможно. Например, все источники того времени прямо указывают, что царь Мстислав погиб от копья, пронзившего ему голову, не успев встретиться на поле боя с императором Мономахом. И перед смертью он успел только произнести: «Что?» Поскольку автор этой книги не скупится на похвалы волкодлакам, а о прочих кланах, особенно о людях, постоянно распространяет клевету и уничижительные отзывы, все сведения, не подтверждённые другими свидетельствами, надлежит считать плодом воображения и художественного вымысла.
+
+...
+Отчего Харжацы остались живы
+Пошла Яльяна войною на клан Харжацев и покорила его. И рекла она ученику своему, Мономаху Снежному:
+«Поди, приведи раба из домовых и мерь по росту его. Чьи уши выше темени домового окажутся, умертви всех до единого. А прочих отдай в рабство Ии тон Антропонам».
+
+И спросил Мономах у Яльяны:
+«Верно ли, что те, у кого уши будут не выше темени домового, не умрут?»
+
+И Яльяна ответила:
+«Верно».
+
+И спросил тогда Мономах:
+«Верно ли, что человек выше всего бывает, когда стоит?»
+
+И ответила Яльяна:
+«Верно».
+
+Тогда Мономах нашёл домового, привёл его в Геспериды и усадил на высокий престол. Столь высок и велик был престол, что низкорослый домовой, сидя на нём, оказался выше Яльяны, которая стояла. И ни у кого в клане Харжацев уши не были выше темени домового, сидевшего на престоле.
+
+Увидев это, Яльяна разгневалась весьма и жестоко избила Мономаха. А когда устала бить, то, памятуя о данном слове, не стала убивать Харжацев, но всех их обратила в рабов Ии тон Антропонов.
+
+Вот отчего клан Харжацев живёт и множится до сего дня.
+
+...
+Как царь Мстислав утопил людей Альрека
+В ту пору дочь царя Водяного из клана Далеграда, именем Васелиса, молвила: «На войну не пойду». Изменив союзу, взяла она часть водного народа и ушла к Мономаху Снежному из Китежа.
+
+Прознав о том, царь Мстислав разгневался весьма: «Как посмели эти водные холопы изменить мне!» Сказав так, он послал войско грабить поселения Далеграда, жечь земли, убивать людей.
+
+Тогда пришёл синаймос его, Альрек Яриславич, и неспокойно было сердце его, и молвил он [царю] так:
+
+«Хоть Васелиса и изменила, но отец её, царь Водяной, и весь остальной народ измены не свершали. Прежде они были нашими союзниками, и нет за ними ни вины, ни проступка. Не обрекай их на смерть и разграбление».
+
+Услыхав такие речи, царь Мстислав пришёл в ярость и сказал так:
+
+«Тебе жаль водных холопов, что мне изменили! Так пусть твои люди сойдут под воду и станут им товарищами! Как терпеть холопа, восставшего [против] своего хозяина? Как оставить в живых холопа, предавшего своего хозяина?»
+
+Сказав так, царь Мстислав повелел дружине и воинам своим взять всех людей Альрека. И каждого завернули в войлочную кошму, связали и бросили в глубокую воду.
+
+...
+О проклятии, речённом царём Мстиславом перед смертью
+Видя это, великий конунг волкодлаков царь Мстислав понял, что бежать ему некуда, и сел [на] землю, скрестив ноги. И в гневе стал бранить Мономаха Снежного из клана Китежа, и молвил так:
+
+«Хвастливый холоп Мономах! Пёс, глодающий подачки у шатра Яльяны Моревны! Нищий, которого пустили в дом! Не радуйся раньше времени, что смута принесла тебе победу, ибо победа твоя непрочна! Сегодня я гибну от твоей руки по велению неба, а доблесть и сила твоя тут ни при чём! Ты одолел меня, ты похитил мой народ и земли, но после придёт тот, кто похитит твой народ и твои земли. Ты истощил всю силу свою, чтобы победить меня. Так слушай проклятие, на которое я тебя обрекаю:
+
+Воин, хоть велика накопленная тобою воинская слава, отныне зло будет следовать за тобою, как тень. Всё, что творишь, всё, что любишь, обернётся белой бедой и кровной враждой. Во всю жизнь не станешь ты сильнее, чем ныне. С каждым днём будешь хиреть и слабеть. Душу твою ни небо не примет, ни земля, и, словно зашитый в брюхо мёртвого коня, будешь ты заживо заточён в своих мёртвых останках. Куда бы ни бежал ты, стоит ночи опуститься, я буду неотступно смотреть на тебя из тени, пока не сведу с ума и не исчерпаю жизнь твою до конца. Срок моей жизни истёк. Ныне я умираю».
+
+Сподвижники Мономаха - его синаймос Всеславич Филипов, домовой Альвис, Васелиса фон Стривожа и Васелиса из Далеграда - услыхав слова Мстислава, разгневались весьма. Мономах тяжко вздохнул, но сердце его всё равно желало помиловать врага. Тогда Васелиса фон Стривожа подошла и молвила [Мономаху]:
+
+«Царь мой, разве не видел ты, как этот ничтожный обошёлся прежде со своим синаймосом, Альреком Яриславичем?»
+
+Услышав сии слова, Мономах отбросил всякое сомнение, и жизнь [Мстислава] тотчас пресеклась.
+
+## EN
+
+### Volume 1
+
+...
+Concerning Emperor Monomakh's mortal enemy, the Grand Suzerain of the Volkodlak Alliance, the "Blood-Devourer" King Miscislav: Nothing can now be ascertained of his early life and deeds. The Volkodlak kindreds never had any tradition of setting their history down in writing, and the songs they pass from mouth to mouth are oft embellished. Setting aside every absurd and unfounded legend, we know only one thing: That Miscislav was born into the Arkudino kindred, the youngest son of the chieftain Bodvar. In that age, they were vassals of the Cirnareka people, rendering tribute at fixed intervals in exchange for protection.
+
+According to The Volkhov Chronicles, after the "Knyazhna of Blood" Yalyane Morevna had slain the Beastlord of Cirnareka, she went in person to the Arkudino kindred. Bodvar, knowing himself no match for her, opened the gates of his own accord. Robed in white woven cloth, bearing a wooden tray proferring bread and salt, he knelt to receive her coming. He promised Yalyane that he would gladly "obey her every word as one serves a mother," and would render three times the tribute he had paid his former overlord, begging only that she might in her mercy spare the lives of the aged, the weak, the women and the children of his kindred. But Yalyane answered:
+
+"You have betrayed your mother. I have not. Your tribute is devoid of love, and your blood is devoid of love as well."
+
+Thereupon she killed Bodvar. One bizarre account (found at first only in the Anecdota of the Pale Star Court, a work which Grand Duke P. N. Kostomarov holds to have been written after the accession of Tsaritsa Anastasya) tells of how she nailed Bodvar inside a dreadful instrument of torture cast from brass in the shape of a bull, and let him bleed until he was but a drained husk; and that the device was most ingeniously contrived, so that the blood would always run out from this brazen bull's mouth, for her to sip at her pleasure.
+
+Such an outlandish record plainly issues from the imagination of a later age, whose authors did not so much as know how long blood takes to congeal. So playwrights of later years were obliged to claim that the brazen bull could also be heated, so that the blood might not clot, all to make sense of the tale. Yalyane did, however, raze Arkudino by means of incomparably savage cruelty, and from that time the name of this kindred vanished utterly from history.
+
+No surviving source permits us to conjecture what Yalyane thought. Yet, we can be sure that she never once accepted the submission of a defeated foe. The Tables and Lives of the Beast Lords records the following story (for the original manuscript, see the appendix):
+
+After Yalyane had conquered the Harjatsk kindred (this being the ancestral land of those Volkodlak whose form is that of hares), she commanded her disciple — none other than the future Emperor Monomakh — to find her a Domovoy, and to put to death all who stood taller than that Domovoy. The young Monomakh, both clever and merciful, asked her whether a person standing is always taller than a person seated. She answered, "Yes." Whereupon Monomakh lifted the Domovoy up and set him upon her high throne, so that not one ear in all the Harjatsk kindred stood higher than the crown of that Domovoy's head. By this means did he preserve their lives.
+
+Although the majority of fae historians, the author of The Davograd Chronicles among them, hold that there is nothing credible in the record of the Tables and Lives of the Beast Lords, this absurd story nevertheless reflects a single fact — that after meeting with the young Monomakh, Yalyane's slaughter of the fae grew ever less. No doubt this came about because the young Emperor Monomakh, by the exalted virtue native to him, instructed her and transformed her cruel, barbarous nature. Centuries later, before war had yet broken out between Emperor Monomakh and the Volkodlak Alliance, the Harjatsk kindred, who had formerly served that Alliance, of their own accord went over to the royal court of the Pale Star. Their chieftain Sveneld Porfiry named the young Emperor "the Savior" and labored alongside Grand Duke Alvis to sustain commerce, mining, and the apportionment of tribute made to Kitezh, and his one hundred and ninety-two children did likewise.
+
+In any case, Bodvar's blood brought no merciful peace. Legend has it that before his death, he asked Yalyane thus:
+
+"What rage will the old bear's pain awaken in the cub?" (The Volkhov Chronicles)
+
+That cub was his one surviving youngest son: the "Blood-Devourer" who would, in latter days, found the Volkodlak Alliance, Miscislav Bodvarovich.
+...
+
+### Volume 2
+
+...
+In that age, to take in the orphan of a fallen kindred was reckoned a folly, an invitation to loss without gain. When the young Alrekr Jarizleivich brought this exile to the longhouse and entreated the elders of his kindred to grant him protection, they did naught but rail at Alrekr for his rashness and his stupidity. And they drew their swords and battle-axes, one after another, meaning to strike off the heads of the pair and send them by messenger to Hesperides, so that the fires of war might not reach their homes. Miscislav stepped forward and declared himself willing to accept this arrangement, asking only that Alrekr be spared. But Alrekr drew his own sword, cut down one of the housecarls who rushed upon him, planted the bloodied blade in the ground, and said:
+
+"Today you hand over the head of an innocent man. And shall another hand yours over tomorrow?" (The Davograd Chronicles)
+
+So saying, he killed two more housecarls, seized Miscislav by the arm, and broke out of the hall. Seizing a warhorse, he rode with him through the blizzard to seek refuge with his mother's people. That kindred's name was "Volkodlak," and it is from here that the word passed into the tongues of later humankind, who applied it thereafter to all their kind alike.
+
+Before that time, there had never existed any common understanding of a people called "Volkodlak" across the snowy plains. The retainers of Nyholmgarthir would not have reckoned the Wolf-Guard of Cirnareka as blood-kin, any more than we would suppose the Domovoy, the Vila, and the Water Imps share one blood. The ancestral feuds between the kindreds far exceeded their hatred of the Snegovik, and in the struggle for the few sources of heat, for food, and for clean water, they made war upon one another without ceasing. In circumstances so wholly void of virtue, to speak idly of some "alliance" spanning differences of form and blood was but a madman's dream.
+
+Yet the young Miscislav was a madman of that precise sort. By incredible valor and cunning, he several times led his forces to victory over powerful neighbors who came demanding tribute. But he killed only their leaders, sent home those captives who should by right have been made slaves, and distributed all the plundered goods among his subordinates. By such devices of feigned candor, he was soon raised up as the new chieftain of the Volkodlak. According to The Volkhov Chronicles, after he became chief, he spoke thus to his Synaimos, Alrekr Jarizleivich, "The Liberator":
+
+"They acknowledge me as king, and yet I am not one who ought to be king. I answer them [in their wish] only because I cannot endure that the innocent and the weak should again be robbed of happiness and slaughtered like cattle. [We] must either stand together or die, and [you] have taught me not to accept the latter."
+
+It must be emphasized that this was no more than a lie by which Miscislav won hearts, and not some truth of his merciful mind. For after that he made war upon every quarter, and with each kindred he subdued he would break up their families by force, forbid them their own dialects, compel them to learn a single common script, muster those survivors who were young and strong into legions not their own, require them all to call themselves "Volkodlak," and encourage them to intermarry.
+These savage and cruel ordinances so reshaped the face of the snowy plains that even thousands of years hence, when the Harjatsk kindred forsook the Volkodlak Alliance and turned to the royal court of the Pale Star, these hare-fae still knew themselves as "Volkodlak" as a matter of course. After the war had ended, Grand Duke Alvis proposed that the identity of these fae be reshaped, but the proposal was abandoned when the great majority of the nobility, Emperor Monomakh himself among them, opposed it with one voice.
+
+King Miscislav's renown reached its height after the Battle of Dalegrad. Against the "Knyazhna of Blood" Yalyane Morevna, who took the field in person, the vanguard of the Water Imps and the Volkodlak was swiftly routed. The young Water Imp prince Vodyanoy Donbettyr could not bear to watch further slaughter of the allies who had come unbidden to his rescue, and he begged the King to withdraw ahead of him, and offered to die covering his retreat. Alrekr Jarizleivich likewise urged Miscislav to depart, for they were still too weak to stand against the invader, and should he fall in battle, the newborn Volkodlak Alliance would surely break apart. But King Miscislav answered:
+
+"If [I] do not die here today, then those [common folk] weaker than I will die seventyfold at her [Yalyane's] hand. [We] fight so that innocent lives may not be devoured by cruelty, and I will neither bow my head nor give one step of ground. She wants our blood, so let her first trample our bones to pieces and come drain it herself." (The Davograd Chronicles)
+
+Having said thus, he paid no heed to the dissuasions of those about him, but mounted his warhorse himself and charged Yalyane's main battle line. It is said that he was pierced through in dozens of places from head to foot, and that the wound in his throat had still not healed thousands of years afterward. Yet he fought on to the death and would not fall back, charging the Snegovik again and again. At the close of the engagement, the allied Water Imp and Volkodlak host had suffered an unimaginable seven-in-ten casualty rate, staining the ice lake a deep crimson, their bones sinking into it with no ground for burial. But Yalyane too was beaten back, withdrawing to Hesperides.
+
+Three months after the battle ended, King Miscislav summoned the chieftains of all the Volkodlak kindreds, and before a vast bronze vat brimming with mead he cut open the wound on his arm and let his blood drip into the drink. The chieftains of the remaining kindreds did likewise. He ladled up a bowl of the blood-mead, drank it off at a draught, and spoke thus:
+
+"We drink one another's blood, and from this time forward, let there be no blood feud between us. Whoever drinks this blood with me shall be my blood-kin for all generations. If one is dishonored, let all their kith be dishonored. If one is slain, let all their kin take vengeance. And whoever breaks this oath, let his blood fill this vat to the brim." (The Volkhov Chronicles)
+
+The chieftains of every kindred swore the oath in turn, and from that time King Miscislav was also called "the Blood-Devouring Sage." Before the time when Yalyane would vanish without a trace, he fought her seven times in all, and in two of those battles did emerge victorious.
+
+Yet, as history has shown us time and again, brute courage unnourished by exalted virtue must at last devolve into self-devouring poison. After Yalyane's departure, the Volkodlak Alliance lost its common enemy abroad, and began its slow descent into pleasure-seeking and decay. By the time the young Emperor Monomakh raised the city of Kitezhgrad beneath the Pale Star, this brittle alliance that held itself unbreakable had long retained nothing but the appearance of unity, sustained only by the personal ties between King Miscislav and the leaders of the various kindreds. It was for this reason that, once those chieftains were dead, the kindreds, which had never been free of discontent with the Alliance, pledged themselves to the royal court of the Pale Star without hesitation.
+
+According to the Songbook of Saint Strivozha, Emperor Monomakh would often say to his ministers that they must keep in mind the lesson of the Miscislavli Alliance, never to grow vain of their own achievements nor willingly to fall into corruption, but to uphold virtue at all times, lest they commit some great error beyond all remedy.
+...
+
+### Volume 3
+
+"Appendix: the original manuscript of the Tables and Lives of the Beast Lords, Snezhnayan Imperial Public Library, presented by Grand Duke I. M. Kovalevsky"
+
+It must be noted that the beast-histories of that age are excessively obscure and difficult to understand, and their records are riddled with error and omission. Thus, their credibility should be rated the lowest order. For example: all contemporary sources state plainly that King Miscislav never met Emperor Monomakh upon the field at all, but was killed by a spear driven through his skull, and that his last words were merely "What." Given that the text's author spares no praise for the Volkodlak, while heaping calumny and disparagement on the remaining kindreds (and upon humankind above all), every record in it that lacks independent corroboration must be regarded as the product of imagination and invention.
+
+...
+"The Reason Why the Harjatsk Folk Yet Live"
+Yalyane went against the Harjatsk tribe and made war upon them, and when she had seized and subdued them, she spake unto the disciple of her, Monomakh Snezhnyi, saying:
+"Go thou and take a Domovoy slave, and measuring by the height of him, whosoever hath the ears of them standing higher than the crown of the Domovoy's head, slay them all. Those remaining, every one, shall be made slaves unto the Hyioi ton Anthropon."
+
+Monomakh asked of Yalyane, saying:
+"So long as the ears of them stand not higher than the crown of the Domovoy's head, they shall be spared from death. Is it thus?"
+
+Yalyane answered:
+"It is thus."
+
+Monomakh asked again, saying:
+"When men, every one, are standing, then are they at their tallest. Is it thus?"
+
+Yalyane answered again:
+"It is thus."
+
+Thereupon Monomakh went and sought out a Domovoy, and brought him unto the land of Hesperides, and set him upon a throne built up high, and bade him be seated. Because that throne was built exceeding high and broad, the short one seated was taller even than Yalyane standing. And so the ears of the Harjatsk tribe, every one, stood not higher than the crown of the head of that Domovoy, who sat upon the throne.
+
+Yalyane, seeing it, was exceeding wroth, and beat Monomakh most sore. And when she grew weary of beating him, because of the word of her mouth that she had given before, she did not in the end slay the Harjatsk folk, but made them all slaves unto the Hyioi ton Anthropon.
+
+The reason why the Harjatsk tribe have lived and multiplied unto this day was this.
+
+...
+"The Matter of King Miscislav Drowning the People of Alrekr"
+At that time, the daughter of King Vodyanoy of the Dalegrad tribe, she who was named Vaselisa, saying with the mouth of her, "I will not go forth to war," took a portion of the people of the waters and went over in revolt unto Monomakh Snezhnyi of Kitezh.
+
+Hearing of that matter, King Miscislav's anger broke out exceedingly. "How dare these water-slaves, every one of them, revolt!" So saying, he plundered and burned all the people and the lands of Dalegrad, and sent forth his soldiers unto the slaughter.
+
+From there, the Synaimos of him, Alrekr Jarizleivich, came; and the heart of him being not at ease, he spake [unto the King] thus:
+
+"Though Vaselisa hath revolted, the father of her, King Vodyanoy, and the people remaining, every one, have none of them revolted, so it is. These, in former days, were companions unto us and gave us their help. Of fault or error they have none at all, so it is. In a plundering so evil, let them not be slain."
+
+At those words, King Miscislav was wroth with a fierce and savage anger, and spake he thus:
+
+"Those water-slaves that have revolted, every one, thou dost pity so exceedingly! Let the people under thy own command, then, go down beneath the waters and be companions unto them! A slave that goeth against the master of his own, how may he be suffered? A slave that hath betrayed the master of his own, how may he be let live?"
+
+From there, King Miscislav sent [forth] by his decree palace guards and soldiers of his own, and they seized the people under the command of Alrekr, every one of them, and rolled them up one by one in felt rugs, and bound them, and cast them away into the deep waters.
+
+...
+"The Matter of King Miscislav Pronouncing a Curse Before His Death"
+The Veliky Konungr of the Great Volkodlak, King Miscislav, seeing it thus, and knowing of himself that he could not flee and escape, sat down cross-legged [upon] the ground. Being wroth at him, he cried out and reviled Monomakh Snezhnyi of the Kitezh tribe with a loud voice, and spake thus:
+
+"Thou braggart slave Monomakh, thou dog that begged for bones to gnaw before the tent of Yalyane Morevna, thou beggar-child picked up and reared in her house, thou hast in one moment won a victory in wild snatching at confusion. Be not so exceeding glad of it! That I die this day at thy hand was brought forth from the first by the destiny as the eternal heavens dictate. [Think'st thou that it was] accomplished by thy valor and strength? Thou hast slain and conquered me, and hast stolen away the people and the lands of mine. Hereafter, there shall surely be another also, who shall steal away the people and the lands of thine. Thou hast spent all the great strength of thine own, and hast overcome me (in battle) — now hear thou well the curse that I pronounce upon thee:
+
+"O warrior, though thou hast gathered up the repute of thy valor exceedingly well, from this time forward shall evil spirits follow close after thee like a shadow. To all the livelihood of thine, and to whatsoever thy heart holds dear, every one, there shall come white calamity; there shall come blood feud. The life of thine shall never in any wise be made more hale than it is this day. It shall only be given thee to fall lower and grow weaker with each day's passing, and the soul of thine, Heaven above shall not receive, nor shall the earth below take in, but as one sewn up within the belly of a dead horse, it shall be shut up alive in that corpse-husk of thine and die there. Whithersoever thou flee, so long as black night falls, I shall be in the shadows watching thee without once diverting mine gaze, driving thee unto madness, and the life of thine shall be utterly spent away. The term of mine life is ended. I die now, and let that be all."
+
+Now the companions of Monomakh were these: Vseslavyevich Filipov, who was the Synaimos of him, and that Domovoy Alvis, and Vaselisa von Strivozha, and Vaselisa of Dalegrad. These, hearing these words, were exceeding wroth in their bellies. Monomakh sighed aloud once, and the heart of him still wished to pardon. At that moment, Vaselisa von Strivozha drew near, and spake [unto] Monomakh, saying:
+
+"O king mine, hast thou not seen how this man dealt before [with] the Synaimos of his own, Alrekr Jarizleivich?"
+
+Monomakh, hearing these words, held doubt in his belly no more, and the life of [Miscislav] was cut off then and there.
+
+## ZH
+
+### 卷 1
+
+……
+关于莫诺马赫皇帝的死敌，兽怪联盟的大君主，「饮血者」穆斯季斯莱沃王，其早年生平行迹已不可考。兽怪诸氏族向来缺乏以文字记述历史的传统，口头相传的歌谣又往往多有夸饰。抛开所有荒诞不经的传说，我们知道的只有一件事，即穆斯季斯莱沃出生于阿尔库季诺氏族，是首领博德瓦尔的幼子。那时，他们是切纳雷卡氏族的附庸，定期向后者纳贡，以换取庇护。
+
+按照《沃尔霍编年史》的说法，「血王女」雅莉亚涅·莫蕾芙娜在杀死切纳雷卡的兽主后，亲自前往了阿尔库季诺氏族。博德瓦尔自知不敌，主动打开城门，身穿白布编织的长袍，端着呈了面包与盐的木盘，跪下迎接她的到来。他向雅莉亚涅许诺，甘愿「像服侍母亲那样对她惟命是从」，并缴纳三倍于他们旧主的贡物，只乞求她能出于慈悲，饶过族中老弱妇孺的性命。雅莉亚涅却回答说：
+
+「你背叛了你的母亲，我没有。你的贡物是不仁爱的，你的血也是不仁爱的。」
+
+随后，她便杀死了博德瓦尔。一种离奇的说法是（最初仅见载于《苍星王廷秘史》——波·尼·克斯托马洛夫大公认为，该书写作于安娜丝塔夏女皇继位后），她将博德瓦尔钉在了一具黄铜熔铸、状如牡牛的可怖刑具里，生生放血涸竭而死；那刑具设计得极为巧妙，血总是能从铜牛口中流出来，供她啜饮取乐。
+
+这种离奇的记载显然是出自后世的想象——他们甚至不知道血液的凝固时间——以至于后来的剧作家为了自圆其说，不得不声称这铜牛还可以加热，好让血不会凝固。不过，雅莉亚涅的确以一种无比残暴酷烈的手段夷平了阿尔库季诺，这个氏族的名字从此便彻底消失在了历史上。
+
+没有任何现存史料可供我们推测雅莉亚涅的想法，但她的确从未接受过任何败者的臣服。《诸兽王公表传》中记载了这样一个故事（原始抄本见附录）：
+
+雅莉亚涅征服赫尔雅茨克氏族（这是那些形貌如兔的兽怪们的祖地）后，命她的徒弟——也就是日后的莫诺马赫皇帝——为她找一位矮灵，凡是比矮灵更高的，尽皆处死。聪慧而仁爱的少年莫诺马赫则问她，站着的人是否总比坐着的人更高？她回答说「是的」，于是莫诺马赫便将矮灵举起来，放在她高高的王座上，使赫尔雅茨克全族的耳朵无一高过那位矮灵的头顶，从而保下了他们的性命。
+
+尽管包括《达沃格莱德编年史》的作者在内，大多数妖灵历史学家都认为《诸兽王公表传》的记载全无可信之处，但这个荒诞不经的故事却反应了这样的事实：与少年莫诺马赫相遇后，雅莉亚涅对妖灵的屠戮越来越少。毫无疑问，这正是由于年轻的莫诺马赫皇帝以其与生俱来的崇高美德教化了她，改变了她残虐荒蛮的凶性。数百年后，莫诺马赫皇帝与兽怪联盟尚未开战之时，原本效命于兽怪联盟的赫尔雅茨克氏族便主动投靠了苍星王廷，其首领斯韦涅尔德·波里菲尔将年轻的皇帝称作「拯救者」，与阿尔维斯大公齐心合力，共同支撑基捷的商业、矿业与贡赋分配，他的一百九十二个孩子也都是这样。
+
+无论如何，博德瓦尔的血并没有带来仁爱的和平。传说，他在死前这样问雅莉亚涅：
+
+「老熊的痛苦，会让小熊如何愤怒？」（《沃尔霍编年史》）
+
+这只小熊就是他唯一幸存下来的幼子，日后建立起兽怪联盟的「饮血者」，穆斯季斯莱沃·博德瓦洛维奇。
+……
+
+### 卷 2
+
+……
+在那个时代，收留败亡氏族的遗孤被视为有损无益的愚行。当年轻的阿列克雷·雅里兹列维奇将这位流亡者引至长屋，恳求氏族中的老者们庇护他时，他们只是怒斥阿列克雷的鲁莽与蠢笨，并纷纷拔出佩剑和战斧，要砍下二人的头颅，遣使者送往赫斯珀利德斯，以免战火烧到他们家中。穆斯季斯莱沃走上前去，愿意接受这样的安排，只请求饶过阿列克雷；阿列克雷却拔出剑来，斩杀了一名冲上来的亲卫，把染血的剑插在地上，说：
+
+「你们今天交出无辜者的头，明天又要等着谁交出你们的头？」（《达沃格莱德编年史》）
+
+言罢，他又杀死了两名亲卫，拉着穆斯季斯莱沃闯出屋去，夺过一匹战马，和他同乘，冒着暴风雪前去投奔他母亲所在的氏族。那个氏族的名字是伏尔加德拉克，在后来的人类语言里，这个词被译作「兽怪」。
+
+此前，雪原上从未有过名为「兽怪」的共识。尼约默罗德的扈从不会将切纳雷卡的狼卫视为他们的血亲，正如我们不会认为矮灵、风仙和水妖流着相同的血。各氏族间的世仇远超过他们对雪精的恨意，为了争夺有限的热源、食物和净水，他们总是彼此征伐。在这种毫无美德可言的情形下，妄谈某种跨越形貌与血脉的「同盟」，无异于痴人说梦。
+
+然而年轻的穆斯季斯莱沃正是这样的痴人。凭着不可思议的勇武与谋略，他数次率军击败了前来索要贡物的强邻，却只是杀死他们的领头人，放那些本应被充作奴隶的战俘回家，并将所掠的财物全部赏赐给下属。凭着这样假装坦诚的手段，他很快就被推举为伏尔加德拉克的新首领。据《沃尔霍编年史》记载，在成为首领后，他对他的森奈莫斯，「解放者」阿列克雷·雅里兹列维奇这样说：
+
+「他们认我为王，可我不是应当为王的。我回应他们（的愿望），只是因为不能容忍无辜的弱者再被夺去幸福，像家畜一样被宰杀。（我们）要么团结，要么死去，（你）教我不要接受后者。」
+
+需要强调的是，这不过是穆斯季斯莱沃用来笼络人心的谎言，而非仁爱的真心话。因为在那之后，他征伐四方，每攻下一个氏族，就要强行拆散他们的家族，禁止他们说方言、迫使他们学习统一的文字，并将那些年轻力壮的幸存者整编到不同的军团里，要他们全都自称「兽怪」，鼓励他们相互通婚。
+这些残暴酷烈的政令是如此彻底地重塑了雪原的样貌，以至于数千年后，赫尔雅茨克氏族背弃兽怪联盟、倒向苍星王廷时，这些形貌如兔的妖灵依然理所当然地自称是「兽怪」。战争结束后，阿尔维斯大公曾提议重塑这些妖灵的身份认同，却因包括莫诺马赫皇帝本人在内的绝大多数贵族一致反对而作罢。
+
+穆斯季斯莱沃王的声望在达洛格莱德之战后达到了巅峰。面对亲自出阵的「血王女」雅莉亚涅·莫蕾芙娜，水妖与兽怪的先锋很快便溃不成军。年轻的水妖王子沃佳瑙·冬伯帝尔不忍再看主动赶来救援的盟友被屠戮，请求他先行撤退，并愿意以死为他殿后。阿列克雷·雅里兹列维奇也劝说他离开，因为他们还太弱小，无法与侵略者对抗，如果他战死在这里，新生的兽怪联盟就会分崩离析。穆斯季斯莱沃王却回答说：
+
+「（我）今天不死在这里，那些比我更弱小的（民众），就要七十倍地死在她（雅莉亚涅）手里。（我们）是为保护无辜的性命不被残暴吞噬而战，我绝不俯首，也绝不后退。她要我们的血，那就先踏碎我们的尸骨，自己来取吧。」（《达沃格莱德编年史》）
+
+说罢，他便不顾旁人劝阻，亲自骑上战马，冲向了雅莉亚涅的主阵。据说他全身上下被刺穿了数十处，喉部的伤口更是直到几千年后都没有痊愈，却依然死战不退，一次又一次地向雪精发起冲锋。在战役最后，水妖与兽怪联军的伤亡甚至达到了难以想象的七成，整片冰湖都被染成了深红色，他们的尸骨沉在湖里、无地安葬，但雅莉亚涅也被击退，撤回了赫斯珀利德斯。
+
+战役结束三个月后，穆斯季斯莱沃王将所有氏族的首领召集到伏尔加德拉克，在盛满蜜酒的巨型铜瓮前，划破臂上的伤口，将血滴进酒里，随后其余氏族的首领也这样做了。他舀起一碗血酒，一饮而尽，说：
+
+「我们饮下彼此的血，自此以后，再无血仇。凡与我共饮此血的，世代皆为我的血亲。一人受辱则全族受辱，一人遇害则全族复仇。违背这誓言的，当让他的血流满这铜瓮。」（《沃尔霍编年史》）
+
+各氏族的首领皆依次立誓，穆斯季斯莱沃王也从此被称作「饮血的智者」。直到雅莉亚涅销声匿迹，他与她总共交战过七次，其中两次取得了胜利。
+
+然而，正如历史无数次向我们昭示，缺乏崇高美德滋养的蛮勇，终将沦为自噬的毒鸩。雅莉亚涅离去后，兽怪联盟失去了共同的外敌，开始缓缓坠向享乐与腐朽。当年轻的莫诺马赫皇帝在苍星下筑起基捷城时，这个自称牢不可破的脆弱联盟早已只剩下表面的统一，仅靠穆斯季斯莱沃王与各氏族首领的私交来维系。正因如此，在首领们死去后，原本便对联盟有所不满的各氏族便毫不犹豫地投效了苍星王廷。
+
+据《圣丝翠维莎歌本》的记载，莫诺马赫皇帝也时常对大臣们说，定要谨记穆斯季斯莱沃洛联盟的教训，绝不可以功业自矜、自甘堕落，而是无论何时都要秉持美德，以免铸成无法弥补的大错。
+……
+
+### 卷 3
+
+【附录：《诸兽王公表传》的原始抄本，至冬皇家公共图书馆，约·米·科瓦列夫斯基大公捐赠】
+
+必须指出，那个时代的兽怪史书过于晦涩难懂，且记载错漏百出，因而可信度极低。例如，同时代的所有史料均明确表示，穆斯季斯莱沃王在战场上并未与莫诺马赫皇帝见面，便被长枪贯穿头颅而死，遗言只有「什么」。鉴于该书作者对兽怪总是不吝赞美之词，对其余氏族（尤其是人类）则是多有污蔑与贬低，书中所有未经相互印证的记载均应视为想象与虚构创作的产物。
+
+……
+【合儿牙思人活着的根由】
+野里牙捏去合儿牙思部行战讨了，得手降伏了有来，向徒弟他的木乃马禾思乃真行说道：
+「你去捉一个朵木斡亦奴隶来，比身长他的量着，耳他的高过了朵木斡亦头顶的，尽都杀了。余剩的人每，都与亦亦的俺脱鲁浑人做奴隶。」
+
+木乃马禾向野里牙捏行问说道：
+「只要耳他的不曾高过了朵木斡亦头顶，便得免死，是这般么？」
+
+野里牙捏答道：
+「是这般有。」
+
+木乃马禾又问说道：
+「人每站立着的时候，是最高长的，是这般么？」
+
+野里牙捏又答道：
+「是这般有。」
+
+于是，木乃马禾去寻了一个朵木斡亦人来，引到也失别里迭石地面行，将他放在高高筑起的王座上，教他坐着。因那王座筑得好生高阔，那短人坐着，竟比野里牙捏站着还要高长了。合儿牙思部的耳每，便都不曾高过那坐在王座上的朵木斡亦人头顶。
+
+野里牙捏见了好生发怒，将木乃马禾狠狠打了一顿。打累了，因先时口里应承了言语他的，到底不曾杀害合儿牙思人，只尽都充作了亦亦的俺脱鲁浑人的奴隶。
+
+合儿牙思部生息存活到如今的根由，为此有来。
+
+……
+【密赤思老王沉爱黎烈哥力百姓的事】
+那时候，答鲁火剌部的斡底阿奴王女儿他的，名叫斡吉里撒的，口里「征战里不行去」说着，水里的百姓一份取了，乞帖石的抹奴靺鞨雪泥真根底背叛进去了。
+
+那件事，密赤思老王听着，怒气他的好生发作了着。「这水里的奴才每怎生背叛敢！」这般说了，（把）答鲁火剌的百姓地面全都抄掠了、焚烧了着，杀戮上发兵行去了。
+
+从那里，昔乃木思他的，爱黎烈哥力野里思烈兀赤来着，心肠他的不安伏，（向王）这般说道：
+
+「斡吉里撒虽背叛了，父亲他的斡底阿奴王，并余剩留下的百姓每，全都不曾背叛的便是。这每我们根底早先从伴当做相帮的有来，罪过差错全无有的便是。这般恶的抄掠上，休要杀了。」
+
+那言语上，密赤思老王凶猛暴虐地发怒着，这般说道：
+
+「你把那背叛了的水里奴才每，那般好生可怜呵！你跟前管属的百姓，水底下进着，与他们伴当相做着行着！奴才（向）主子自己的逆拗着行的，怎生忍容得？奴才（把）主子自己的背叛了的，怎生活着放得？」
+
+从那里，密赤思老王（将）宿卫并军士自己的教旨里差遣了去，（把）爱黎烈哥力的管属的百姓全每捉了，一个个地毡毯里卷裹了、绑扎了，深水里抛掷丢去了。
+
+……
+【密赤思老王死前宣咒的事】
+大孛烈火迭剌的兀里乞忽温翁哥力，密赤思老王见这般，自知逃走脱不得，（在）地上盘膝坐了。他根底发怒着，（向）乞迭失部的摩那末诃雪泥只泥大声喝骂，这般说道：
+
+「大言的奴才摩那末诃，也列捏木列兀那帐前讨骨头啃的狗、房里拾来养的乞儿，你一时间因乱攘窃得了胜，休好生欢喜着。我今日死在你手里，原是长天的命数生出，（岂是）你的勇力以成的么？你（向）我根底杀赢了，百姓地面我的偷着取了，后头必定别人也，百姓地面你的偷着取了去的有。你大气力自己的竭尽着，（对）我战胜了，我向你宣的咒，你好生听着：
+
+「勇士，勇名你的虽好生积攒了有，从这时候往前，恶祟便如影儿般随定你行有。凡营生你的，心爱的甚么也一切，白灾成着、血仇成的有来。生世你的，比今日健旺成的，怎也不成。只教你日日往下跌落软弱下去了，魂灵你的，天上也不收，地上也不纳，便如缝在死马肚腹里的一般，生生困闭在你那尸壳里死了有。你哪里行逃奔呵，只要黑夜落下来呵，我在影儿里不错眼地觑定你，逼得你发疯着，性命你的彻底耗尽的有。我活的时限尽了，我如今死便了。」
+
+摩那末诃的伴当每，昔乃木思他的做的花思老也赤弼里保，并那朵木斡亦人阿儿兀思、温思脱里斡札部的窝昔里撒、答禄合剌部的八色里撒一切，这言语根底听着，肚里好生发怒了。摩那末诃大声叹息了一回，心肠他的依然饶恕的愿着。那时候，温思脱里斡札部的窝昔里撒近前来，（向）摩那末诃行说道：
+
+「王我的，这人先前（对待）昔乃木思他自己的，阿儿力哥也里思烈兀赤，怎样做着行的，你不见么？」
+
+摩那末诃这言语听着，肚里疑虑再无成着，性命他（密赤思老）的当下断绝了。
+

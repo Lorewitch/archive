@@ -296,3 +296,892 @@ But to those with conviction, a Vision is simply an extension of their strength,
 他不谈论过去，也不否认过去。
 对于那些无法辨别道路的人，「神之眼」或许是神赐予的引路之灯。
 可对于明确了信念的人，它只是力量的延伸、意志的模型，是无穷历练的奖章与回望来路的标识。
+
+# voice_source_ids: 8100,8101,8102,8103,8104,8105,8106,8107,8108,8109,8110,8111,8112,8113,8114,8115,8116,8117,8118,8119,8120,8121,8122,8123,8124,8125,8126,8127,8128,8129,8130,8131,8132,8133,8134,8135,8136,8137,8138,8139,8140,8141,8142,8143,8144,8145,8146,8147,8148,8149,8150,8151,8152,8153,8154,8155,8156,8157,8158,8159,8160,8161,8162,8163,8164,8165,8166,8167,8168,8169,8170,8171,8172
+
+## REPLICAS_RU
+
+### Привет...
+
+Дилюк, из Мондштадта. Я не люблю пустые разговоры. Дай знать, если понадобится помощь.
+
+### Поболтаем: Отдых
+
+Здесь можно передохнуть.
+
+### Поболтаем: Ордо Фавониус
+
+В следующий раз тебе бы следовало взять с собой рыцарей Ордо Фавониус.
+
+### Поболтаем: Гильдия
+
+У меня ещё много дел в гильдии. Отдохни, пока я буду с ними разбираться.
+
+### Когда идёт дождь: Зонт
+
+Мне не нужен зонт. Если нужен тебе - не стесняйся.
+
+### Когда идёт дождь: Очищение
+
+Дождь... Если бы он только мог очистить порочные души этого мира.
+
+### Когда светит солнце...
+
+Неважно, какова погода. Главное - придерживаться своей дороги.
+
+### Когда дует сильный ветер...
+
+За воем ветра можно скрыть звуки совершающегося преступления.
+
+### Доброе утро...
+
+Нет нужды в болтовне. Важно только то, что ночь прошла спокойно.
+
+### Добрый день...
+
+Хочешь попробовать что-нибудь из нашего тайного меню?
+
+### Добрый вечер...
+
+Стемнело.
+
+### Спокойной ночи...
+
+До встречи. Я прослежу, чтобы по дороге домой с тобой ничего не случилось.
+
+### О Дилюке...
+
+Легенда о «Полуночном герое»? Интересно...
+
+### О нас: Потребности
+
+Дай знать, если тебе нужна помощь. За выплатами обращайся к Эльзеру.
+
+### О нас: Доказательства
+
+Ты доказал свою решимость. Теперь настала моя очередь. / Ты доказала свою решимость. Теперь настала моя очередь.
+
+### Глаз Бога...
+
+Глаз Бога - это свет в море тьмы, окружающей заблудшие души. Но для тех, кто имеет веру, Глаз Бога всего лишь символ признания.
+
+### Давай поделимся...
+
+Иногда я остаюсь поработать в «Доле ангелов». Именно в таверну стекаются все слухи Мондштадта.
+
+### Интересные вещи...
+
+Что? А почему ты спрашиваешь? ...Это сова, тихо наблюдающая за своей добычей из темноты, выжидающая идеального момента для удара... Безупречно.
+
+### О Кэйе...
+
+Кэйа? Ты можешь доверять ему только наполовину... И то в лучшем случае.
+
+### О Лизе...
+
+Я верю, что Лиза может стать самым надёжным рыцарем Ордо Фавониус... Если она сама этого захочет.
+
+### О Джинн: Враги
+
+Бессмысленные поручения могут стать злейшим врагом Джинн.
+
+### О Джинн: Обязанности
+
+Её несравненное чувство ответственности - единственная причина, по которой она до сих пор не нашла своего истинного призвания.
+
+### О Моне...
+
+По велению Анемо Архонта земля Мондштадта очень плодотворна. Я не вижу надобности в предсказаниях о хорошем урожае.
+
+### О Дионе...
+
+Отношение Дионы ко мне такое... Как бы это сказать? Довольно непреклонное. Я ещё не нашёл возможности поговорить с ней должным образом. Не уверен, не нравится ли ей моё семейное древо или... Что? Она просто презирает алкоголь? Ха... Никогда не думал, что встречу в Мондштадте другого бармена, похожего на меня.
+
+### О Варке...
+
+Магистр Варка... Я понимаю его позицию, но его действия я одобрить не могу... Я сказал слишком много... Я уже давно покинул орден. Забудь, что я сказал.
+
+### Об Эоле...
+
+Я слышал о ней, и у неё есть свои убеждения. Желание вырваться из оков её клана также заслуживает похвалы. И все же она... Присоединилась к рыцарям Ордо Фавониус.
+
+### Узнать больше о Дилюке I
+
+Чем могу служить?
+
+### Узнать больше о Дилюке II
+
+Что? Ордо Фавониус? Хм... Мне нечего сказать. У нас с ними просто разные взгляды и всё.
+
+### Узнать больше о Дилюке III
+
+Я давно не играл ни с кем в шахматы, кроме моего дворецкого. Как раз сейчас у меня выдалась свободная минутка. Хочешь сыграть со мной?
+
+### Узнать больше о Дилюке IV
+
+Шах и мат! Давненько у меня не было такой интересной игры.
+
+### Узнать больше о Дилюке V
+
+Неплохо. Ты постоянно удивляешь меня, будь то битва или шахматы. Хм... Работа с тобой пробуждает во мне чувство новизны, поэтому... Я бы хотел и дальше сопровождать тебя, партнёр.
+
+### Хобби Дилюка...
+
+Произведение искусства в поместье? Оно не моё. Это из коллекции моего покойного отца.
+
+### Беспокойство Дилюка...
+
+Победа над демонами, населяющими зловещую тьму, потребует чего-то большего, чем взмахи мечом.
+
+### Любимая еда...
+
+Хочешь знать, что в моём бокале? Это виноградный сок, мой любимый напиток.
+
+### Нелюбимая еда...
+
+Мне не нравится алкоголь... Просто не нравится ощущать его вкус.
+
+### День рождения...
+
+С днём рождения. Это очень важный день для тебя. Расскажи мне, чего ты желаешь? Если в моих силах даровать тебе это, то я обязательно над этим подумаю.
+
+### Чувство возвышения: Начало
+
+Мы должны быть сильными, чтобы достичь поставленной цели.
+
+### Чувство возвышения: Нарастание
+
+Что ожидает нас впереди? Я редко задумываюсь над этим. Неважно, что встаёт у меня на пути, я должен идти вперёд.
+
+### Чувство возвышения: Кульминация
+
+Я стал сильнее... Но этого всё равно недостаточно. Чтобы столкнуться лицом к лицу с ужасами бездны и принести рассвет, кто-то должен пролить свет на кромешную тьму.
+
+### Чувство возвышения: Окончание
+
+Раньше я был уверен, что для того, чтобы искоренить зло, мне придётся погрузиться во тьму одному. Но путешествуя с тобой, я понимаю, что ошибался. Друг... Прими мою благодарность.
+
+### Элементальный навык I
+
+Ух!
+
+### Элементальный навык II
+
+Хэх!
+
+### Элементальный навык III
+
+Ха-а!
+
+### Взрыв стихии I
+
+Настал час суда!
+
+### Взрыв стихии II
+
+Да поднимется пламя!
+
+### Взрыв стихии III
+
+Пылающая кара!
+
+### Открытие сундука I
+
+Лучше, чем ничего.
+
+### Открытие сундука II
+
+Недурно.
+
+### Открытие сундука III
+
+Нам нужно больше.
+
+### Низкий уровень HP I
+
+Это всё, что ты можешь?
+
+### Низкий уровень HP II
+
+Чтоб тебя!
+
+### Низкий уровень HP III
+
+Ты за это заплатишь!
+
+### Низкий уровень HP компаньона I
+
+Осторожно!
+
+### Низкий уровень HP компаньона II
+
+Не изнуряй себя! Отойди!
+
+### Без сознания I
+
+В чём была моя ошибка...
+
+### Без сознания II
+
+Нельзя оправдать... поражение...
+
+### Без сознания III
+
+Мое пламя... потушено...
+
+### Получен тяжёлый удар I
+
+Ох!
+
+### Присоединяется к группе I
+
+Вперёд.
+
+### Присоединяется к группе II
+
+Какова наша цель?
+
+### Присоединяется к группе III
+
+Покончим с этим как можно скорее.
+
+### Поболтаем: Подготовка
+
+Подготовься заранее и нанеси упреждающий удар по врагу.
+
+### Поболтаем: Планирование
+
+Давай передохнём и спланируем наш следующий шаг.
+
+### Поболтаем: Предупреждение
+
+У каждого действия есть свои риски. Нельзя забывать об осторожности.
+
+### Элементальный навык I
+
+Ух!
+
+### Элементальный навык II
+
+Ха.
+
+### Элементальный навык III
+
+Ха!
+
+### Взрыв стихии I
+
+Пламя, очисти!
+
+### Взрыв стихии II
+
+Уничтожить нечестивых!
+
+### Взрыв стихии III
+
+Рассвет, прорвись!
+
+### Подарок I
+
+Изысканно. Незабываемый аромат.
+
+### Подарок II
+
+Вижу, что шеф-повар вложил всю душу. Прекрасное блюдо.
+
+### Подарок III
+
+...Спасибо.
+
+## REPLICAS_EN
+
+### Hello
+
+Diluc, of Mondstadt. Not interested in idle chit-chat. If you have things you want to get done, let me know.
+
+### Chat: Relax
+
+Guess we can rest a bit.
+
+### Chat: Knights of Favonius
+
+You should really bring the Knights of Favonius with you next time.
+
+### Chat: Wine Guild
+
+I still have a lot to do at the Guild. How about you take a rest while I go back?
+
+### When It Rains: Umbrella
+
+I don't need an umbrella, but you can use one if you need.
+
+### When It Rains: Cleansing
+
+Rain... If only it could cleanse the corrupt souls of this world.
+
+### When the Sun Is Out
+
+Listen, as long as you stick to your own path, it doesn't matter what Mother Nature throws at you.
+
+### When the Wind Is Blowing
+
+Some use the wind's whistling to drown out the sound of their crimes.
+
+### Good Morning
+
+No need for small talk. All that matters is that you were safe last night.
+
+### Good Afternoon
+
+Would you like to try the secret menu?
+
+### Good Evening
+
+Night has fallen.
+
+### Good Night
+
+Alright, see you next time. I'll make sure you leave safely.
+
+### About Diluc
+
+The legend of the "Darknight Hero"? An interesting rumor.
+
+### About Us: Needs
+
+Just say the word if you need anything. For reimbursements, ask Elzer.
+
+### About Us: Proof
+
+You have already proven your determination. Well then, it is now time for you to witness my resolve.
+
+### About the Vision
+
+Visions are a light in the sea of darkness that surrounds those who have lost their way. But for those who have faith, they are little more than badges of conviction.
+
+### Something to Share
+
+Occasionally I'll work the bar at Angel's Share. The tavern is known for being the center of information in Mondstadt.
+
+### Interesting Things
+
+What? Why do you ask? ...It's an owl, quietly watching its prey from the darkness, waiting for the perfect moment to strike... Flawless.
+
+### About Kaeya
+
+Kaeya? You can only trust half of what he says... at best.
+
+### About Lisa
+
+I believe Lisa has the potential to become the most reliable of the knights. If she's willing.
+
+### About Jean: Enemies
+
+Trifling matters can become Jean's greatest enemy.
+
+### About Jean: Responsibilities
+
+Her unparalleled sense of responsibility is the sole reason why she still hasn't found her true calling.
+
+### About Mona
+
+The land of Mondstadt, by the Anemo Archon's grace, is bountiful. I see no need for the harvest forecasts of astrologers.
+
+### About Diona
+
+Diona's attitude towards me is... how should I put it? Rather rigid. I've yet to find the opportunity to speak with her properly. I'm not sure if it's an issue with my family line or— Oh? It's not? She simply despises alcohol? Huh... I never thought I'd come across another bartender like myself in Mondstadt.
+
+### About Varka
+
+Grand Master Varka... While I understand his disposition, I can make no sense of his actions. ...I—I've said too much already. I've long since left the Knights of Favonius. Forget I said anything.
+
+### About Eula
+
+Ah, yes... I've heard about her. She has her own convictions. Her determination to liberate herself from the shackles of her clan is praiseworthy. But, she's... joined the Knights of Favonius.
+
+### More About Diluc: I
+
+You have business to attend to?
+
+### More About Diluc: II
+
+Huh? Knights of Favonius? ...I have nothing to say about them. We have different views is all.
+
+### More About Diluc: III
+
+It's been a long while since I played chess with anyone but my butler. I just so happen to have a moment. Care to play a round?
+
+### More About Diluc: IV
+
+Checkmate! ...Still, it's been a while since someone tested me this much.
+
+### More About Diluc: V
+
+Not bad. Be it chess or combat, you always seem to surprise me. Hm, working with you is quite the novelty. So... I look forward to continuing to work with you, partner.
+
+### Diluc's Hobbies
+
+The artwork in the manor? It's not mine. It's a collection that belonged to my late father.
+
+### Diluc's Troubles
+
+The darkness that seethes with evil, full of demons that must be vanquished, will take more than a blade to be torn asunder.
+
+### Favorite Food
+
+You want to know what's in my glass? It's... grape juice. My drink of choice.
+
+### Least Favorite Food
+
+I don't like alcohol. It's just... I don't like how it feels in my mouth...
+
+### Birthday
+
+Happy birthday. This is an important day for you. So tell me, what is it you wish for? If it is within my power to bestow it upon you, I will give it my consideration.
+
+### Feelings About Ascension: Intro
+
+Power is necessary if we are to meet our objectives.
+
+### Feelings About Ascension: Building Up
+
+What lies in wait for us? I rarely stop to think about it.
+No matter what dares to stand in my way, I must press forward.
+
+### Feelings About Ascension: Climax
+
+I've become stronger... Though it is still not enough, I will always face the darkness.
+For dawn to come, there must be those who dare to pierce the darkness with their light.
+
+### Feelings About Ascension: Conclusion
+
+I used to believe... if I was to stamp out evil, I would have to walk alone in darkness. However, seeing your perseverance, I know I was wrong. Friend... I owe you my thanks.
+
+### Elemental Skill: I
+
+Hmph.
+
+### Elemental Skill: II
+
+Hah!
+
+### Elemental Skill: III
+
+Haah!——
+
+### Elemental Burst: I
+
+Your verdict is...!
+
+### Elemental Burst: II
+
+Burn!
+
+### Elemental Burst: III
+
+Time for — retribution!
+
+### Opening Treasure Chest: I
+
+Hmph, better than nothing.
+
+### Opening Treasure Chest: II
+
+I suppose this will do.
+
+### Opening Treasure Chest: III
+
+We'll need more where that came from.
+
+### Low HP: I
+
+Is that all you've got?
+
+### Low HP: II
+
+Darn you!
+
+### Low HP: III
+
+You will pay for that!
+
+### Ally at Low HP: I
+
+Careful!
+
+### Ally at Low HP: II
+
+Don't burn yourself out! Retreat!
+
+### Fallen: I
+
+Where did I go wrong...
+
+### Fallen: II
+
+There can be no excuse... for defeat...
+
+### Fallen: III
+
+My flame... has been... extinguished...
+
+### Heavy Hit Taken: I
+
+Urgh!
+
+### Joining Party: I
+
+Let's go.
+
+### Joining Party: II
+
+What's our objective?
+
+### Joining Party: III
+
+Let's finish this, swiftly.
+
+### Chat: Preparation
+
+We should prepare while we can, then make a preemptive strike against the enemy.
+
+### Chat: Planning
+
+Let's take a moment to rest and plan our next move.
+
+### Chat: Warning
+
+Every course of action has its risks. Be careful.
+
+### Elemental Skill: I
+
+Huh!
+
+### Elemental Skill: II
+
+Hyah!
+
+### Elemental Skill: III
+
+Haah!—
+
+### Elemental Burst: I
+
+Flames, purge!
+
+### Elemental Burst: II
+
+Lay waste to the wicked!
+
+### Elemental Burst: III
+
+Dawn, break forth!
+
+### Receiving a Gift: I
+
+Exquisite. Unforgettable flavors.
+
+### Receiving a Gift: II
+
+I can see the chef put their heart into this one. A fine dish.
+
+### Receiving a Gift: III
+
+...Umm, thanks.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+蒙德城的迪卢克，应约而来。闲聊恕不奉陪，如果你是想做一番大事，我倒有点兴致。
+
+### 闲聊·放松
+
+偶尔悠闲一下，也不错。
+
+### 闲聊·骑士团
+
+应该换骑士团的那些家伙来陪你。
+
+### 闲聊·行会
+
+行会里还有很多事，你要么在这休息，我回去看看。
+
+### 下雨的时候·伞
+
+我不用伞，你随意。
+
+### 下雨的时候·清洗
+
+雨吗，可惜洗刷不了那些污秽的心。
+
+### 阳光很好…
+
+只要坚信自己的道路，就无所谓天气是晴是雨。
+
+### 刮大风了…
+
+呼啸的风声，会被用来遮掩犯罪的痕迹。
+
+### 早上好…
+
+寒暄就免了。昨夜一切平安就好。
+
+### 中午好…
+
+想试试隐藏菜单吗？
+
+### 晚上好…
+
+夜晚到了。
+
+### 晚安…
+
+嗯，下次见。我会目送你安全离开的。
+
+### 关于迪卢克自己…
+
+「暗夜英雄」的传说吗？有趣的传言。
+
+### 关于我们·需要
+
+需要什么就直说。报销问题找埃泽。
+
+### 关于我们·证明
+
+你已经证明了你的决心。那么，也让你见证一下我的意志吧。
+
+### 关于「神之眼」…
+
+对于无法看清眼前道路的人来说，「神之眼」或许是神的一盏明灯。但对于有信念的人来说，只是一个可有可无的奖章罢了。
+
+### 有什么想要分享…
+
+我偶尔会去「天使的馈赠」亲自调酒，因为酒馆是情报集中流通的地方。
+
+### 感兴趣的见闻…
+
+…是夜枭。在黑暗中守望、观察的猛禽，只在最合适的时机出手，没有任何破绽。
+
+### 关于凯亚…
+
+凯亚吗…那个男人说的话，只能信一半。
+
+### 关于丽莎…
+
+丽莎，能成为骑士团内最值得仰赖的人之一。如果她愿意的话。
+
+### 关于琴·敌人
+
+无意义的琐事，是琴最大的敌人。
+
+### 关于琴·职责
+
+琴那无人能及的责任心，终究让她没能看清自己真正的职责啊。
+
+### 关于莫娜…
+
+蒙德的土地浸润着风神的恩泽，就不需要赞助占星术士来预测收成了吧。
+
+### 关于迪奥娜…
+
+迪奥娜对我的态度很是生硬，我也一直没找到合适的机会交流。如果是涉及到家族恩怨的话…嗯？不是？只是单纯地讨厌酒？没想到在这蒙德，也会有讨厌酒的酒保啊。
+
+### 关于法尔伽…
+
+大团长法尔伽，我能理解他的立场，却无法认同他的做派。呵…是我多言了。我早已不是西风骑士，忘了我说的话吧。
+
+### 关于优菈…
+
+我听说过她，她有自己的理念。努力挣脱家族束缚的气势也值得称道。但她…却加入了西风骑士团。
+
+### 想要了解迪卢克·其一
+
+有何贵干？
+
+### 想要了解迪卢克·其二
+
+嗯，你问骑士团？哼…没什么可多谈的，道路不同罢了。
+
+### 想要了解迪卢克·其三
+
+很久不和管家之外的人对弈了。难得有这份闲暇，跟我下局棋吧。
+
+### 想要了解迪卢克·其四
+
+将军。哼，但能把我逼到这个地步，还真是不简单啊。
+
+### 想要了解迪卢克·其五
+
+你还不赖。无论是对弈还是战斗，都不乏让人眼前一亮的表现。不…这样的合作，对我来说也算新奇…那么，今后也同行吧，「吾友」。
+
+### 迪卢克的爱好…
+
+庄园里的那些艺术品？那不是我的。是先父有收集的爱好。
+
+### 迪卢克的烦恼…
+
+真正应当消灭的敌人，孕育罪恶的「黑暗」本身，需要用刀剑以外的方法去斩断…
+
+### 喜欢的食物…
+
+你问我杯子里的是什么酒？葡萄汁而已，我一般喝这个。
+
+### 讨厌的食物…
+
+我不喜欢酒。没什么…我不喜欢酒的口感。
+
+### 生日…
+
+生日快乐，这是属于你的重要日子。说吧，你的心愿。如果在我能力范围之内，我会考虑的。
+
+### 突破的感受·起
+
+为了达成目标，力量是必须的。
+
+### 突破的感受·承
+
+前方会有什么？我很少会思考这种问题。
+我必须前进，不论有谁阻挡在我面前。
+
+### 突破的感受·转
+
+力量增强了…虽然还不够，但终归是在向前方探索。
+在「黎明」到来之前，必须有人稍微照亮「黑暗」…
+
+### 突破的感受·合
+
+我原以为——要扫荡罪恶的话，我必须独自行走在长夜之中。
+但你的坚持让我意识到，我又一次错了。「同伴」，我向你致以感谢。
+
+### 元素战技·其一
+
+呵。
+
+### 元素战技·其二
+
+哈。
+
+### 元素战技·其三
+
+哈！——
+
+### 元素爆发·其一
+
+在此——宣判！
+
+### 元素爆发·其二
+
+火焰——烧尽。
+
+### 元素爆发·其三
+
+审判——喝啊！
+
+### 打开宝箱·其一
+
+哼，就当是聚沙成塔。
+
+### 打开宝箱·其二
+
+还不赖。
+
+### 打开宝箱·其三
+
+一点一滴地积累吧。
+
+### 生命值低·其一
+
+这点程度…
+
+### 生命值低·其二
+
+可恶…
+
+### 生命值低·其三
+
+你会付出代价。
+
+### 同伴生命值低·其一
+
+…当心点。
+
+### 同伴生命值低·其二
+
+状态不好就去休息。
+
+### 倒下·其一
+
+计划…出错了吗…
+
+### 倒下·其二
+
+败者…没有借口…
+
+### 倒下·其三
+
+要熄灭了吗…
+
+### 重受击·其一
+
+可恶。
+
+### 加入队伍·其一
+
+走吧。
+
+### 加入队伍·其二
+
+任务的目标是…
+
+### 加入队伍·其三
+
+利落地解决吧。
+
+### 闲聊·准备
+
+提前做好准备，先于对方进攻吧。
+
+### 闲聊·计划
+
+休息时，也可以思考接下来的计划。
+
+### 闲聊·提醒
+
+任何行动难免都有风险，你要多加小心。
+
+### 元素战技·其一
+
+呵。
+
+### 元素战技·其二
+
+哈。
+
+### 元素战技·其三
+
+哈！——
+
+### 元素爆发·其一
+
+在此——清算！
+
+### 元素爆发·其二
+
+烈焰——燃毁！
+
+### 元素爆发·其三
+
+破晓——将至！
+
+### 收到赠礼·其一
+
+很精致。风味令人难忘。
+
+### 收到赠礼·其二
+
+能品尝出厨师的专注。不错的菜肴。
+
+### 收到赠礼·其三
+
+…谢谢。

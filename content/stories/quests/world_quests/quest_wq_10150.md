@@ -21,12 +21,25 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: Древние цвета
+# game_source_ids: 74006
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 20
 
 ## RU
 
 ### Собирается дождь
 
 Помогите Мамер собрать детали для починки Сеймура.
+
+#### Расспросите жителей деревни Меруси о деталях
+
+#### Соберите необычные детали
+
+#### Соберите необычные детали
+
+#### Соберите необычные детали
+
+#### Соберите необычные детали
 
 #### Вернитесь и разыщите Мамер
 
@@ -84,7 +97,7 @@
 
 **Мамер:** ...Путешественник и Паймон.
 
-**Сеймур:** Эта информация уже была введена ранее. Очень рад познакомиться с вами, многоуважаемый господин / госпожа Путешественник и очаровательная госпожа Паймон.
+**Сеймур:** Эта информация уже была введена ранее. Очень рад познакомиться с вами, многоуважаемый господин Путешественник и очаровательная госпожа Паймон. / Эта информация уже была введена ранее. Очень рад познакомиться с вами, госпожа Путешественник и очаровательная госпожа Паймон.
 
 **Сеймур:** Большое спасибо за помощь с устранением угрозы в прошлом конфликте. Я модель 4ACV07, можете называть меня Сеймур. / Польщён невероятной честью лично наблюдать ваш изящный танец с клинком в последнем конфликте. Я модель 4ACV07, можете называть меня Сеймур.
 
@@ -100,9 +113,9 @@
 
 **Паймон:** Трансляционный модуль заводного устройства?
 
-Ты говоришь о её «даре»?
+- **Путешественник:** Ты говоришь о её «даре»?
 
-**Сеймур:** Прошу прощения, я не могу ответить на ваш вопрос, господин / госпожа, поскольку не понимаю, какое значение вы вкладываете в слово «дар».
+**Сеймур:** Прошу прощения, я не могу ответить на ваш вопрос, господин, поскольку не понимаю, какое значение вы вкладываете в слово «дар». / Прошу прощения, я не могу ответить на ваш вопрос, госпожа, поскольку не понимаю, какое значение вы вкладываете в слово «дар».
 
 **Сеймур:** В связи с этим я не могу определить, существует ли связь между указанным «даром» и моим трансляционным модулем.
 
@@ -166,7 +179,7 @@
 
 **Паймон:** А-а! Что происходит?!
 
-(В этот раз всё сопровождается толчками...)
+- **Путешественник:** (В этот раз всё сопровождается толчками...)
 
 **Сеймур:** Предупреждение: уровень загрязнения окружающей среды повышается очень быстро.
 
@@ -186,29 +199,11 @@
 
 #### Направляйтесь к указанному месту
 
-**Паймон:** Как же так? Почему мы не можем пройти?!
+#### Направляйтесь к указанному месту
 
-**Мамер:** Странно... Похоже, что-то преграждает путь...
+#### Направляйтесь к указанному месту
 
-**Паймон:** Ох, что же делать?..
-
-- **Путешественник:** Если Сеймур проломит стену...
-
-- **Путешественник:** То течение...
-
-**Сеймур:** Прошу прощения господин / госпожа Путешественник, это невозможно. Толщина стены превышает мои возможности. Моя энергия закончится ещё до того, как тоннель будет завершён.
-
-**Мамер:** Вон там... можно проплыть... кровь Прародителя уже...
-
-**Паймон:** Кровь? Мамер, что с тобой? Какая кровь?
-
-**Мамер:** Мешкать больше нельзя. Прошу, Путешественник... Сеймур... Надо проплыть вон там...
-
-**Мамер:** Да. Вон там... можно проплыть... потому что кровь Прародителя уже...
-
-**Паймон:** Кровь? Мамер, что с тобой? Какая кровь?
-
-**Мамер:** Мешкать больше нельзя. Нам... надо проплыть вон там...
+#### Одолейте гончих Разрыва
 
 #### Найдите спрятавшуюся поблизости мелюзину
 
@@ -230,15 +225,19 @@
 
 **Глейсти:** Ещё тут моя подруга, но её загнали вон туда...
 
-**Глейсти:** Эту малышку зовут Пука... Ох, высокий братец / высокая сестрица, вы сможете спасти её?
+**Глейсти:** Эту малышку зовут Пука... Ох, высокий братец, вы сможете спасти её? / Эту малышку зовут Пука... Ох, высокая сестрица, вы сможете спасти её?
 
-Запросто.
+- **Путешественник:** Запросто.
 
 **Паймон:** Да! Идём!
 
+#### Найдите мелюзину, которая не может выбраться
+
+#### Разрежьте водоросли
+
 #### Поговорите со спасённой мелюзиной
 
-**Глейсти:** Спасибо вам, высокий братец / высокая сестрица и добрый призрак!
+**Глейсти:** Спасибо вам, высокий братец и добрый призрак! / Спасибо вам, высокая сестрица и добрый призрак!
 
 **Паймон:** Это кого ты тут назвала призраком? Вообще-то перед тобой Паймон. Ну и Путешественник ещё... Кстати, что тут только что случилось? И чем вы занимались?
 
@@ -250,7 +249,7 @@
 
 **Мамер:** ...
 
-Мамер привела нас.
+- **Путешественник:** Мамер привела нас.
 
 **Глейсти:** А? Но откуда ты узнала, что мы здесь?
 
@@ -286,7 +285,7 @@
 
 **Паймон:** Индекс загрязнения?
 
-(Может, это связано с той галлюцинацией?..)
+- **Путешественник:** (Может, это связано с той галлюцинацией?..)
 
 **Пука:** Насчёт безопасного места... Может, нам просто вернуться домой?
 
@@ -295,6 +294,8 @@
 **Глейсти:** Понятно. Спасибо, добросердечная госпожа Паймон!
 
 **Паймон:** Хи-хи, тогда идём!
+
+#### Направляйтесь к указанному месту
 
 #### Направляйтесь к указанному месту
 
@@ -332,13 +333,19 @@
 
 **Паймон:** Хи-хи, всё-таки Путешественник и Паймон - опытные искатели приключений, это вам не шутки! Но как подобное могло произойти внутри Элинаса?
 
-- **Путешественник:** Они появились одновременно с толчками.
+##### Вариант ответа 1
 
-- **Путешественник:** Не выношу этот вид монстров.
+- **Путешественник:** Они появились одновременно с толчками.
 
 **Мамер:** Ох, что же с Прародителем?..
 
-**Паймон:** Вот почему ты так усердствовал(а) в бою...
+##### Вариант ответа 2
+
+- **Путешественник:** Не выношу этот вид монстров.
+
+**Паймон:** Вот почему ты так усердствовал в бою... / Вот почему ты так усердствовала в бою...
+
+##### Общее продолжение
 
 **Паймон:** Кстати, Паймон думала, что этот твой Прародитель - это секрет, о котором знают только мелюзины. А оказалось, что и мелюзины не в курсе...
 
@@ -348,7 +355,7 @@
 
 **Паймон:** Мда...
 
-(Хм, а я тогда слышал(а) голос...)
+- **Путешественник:** (Хм, а я тогда слышал голос...) / (Хм, а я тогда слышала голос...)
 
 **Паймон:** Но мы видели, как Мамер починила Сеймура и как благодаря указаниям Мамер мы смогли прийти на помощь Пуке и остальным. Похоже, Прародитель Мамер хороший!
 
@@ -382,11 +389,22 @@
 
 **Сеймур:** Я распознаю в вашем голосе недоверие, госпожа Паймон. Но не извольте беспокоиться, мой продвинутый модуль горнодобычи способен пробиться через скалу данной толщины.
 
-**Сеймур:** Многоуважаемый господин / Многоуважаемая прекрасная госпожа Путешественник, (настоятельно) прошу вас доставить меня в водное пространство наверху. Во время действия модуля горнодобычи я не смогу поддерживать нормальную работу модуля подводного плавания.
+**Сеймур:** Многоуважаемый господин Путешественник,  прошу вас доставить меня в водное пространство наверху. Во время действия модуля горнодобычи я не смогу поддерживать нормальную работу модуля подводного плавания. / Многоуважаемая прекрасная госпожа Путешественник, настоятельно прошу вас доставить меня в водное пространство наверху. Во время действия модуля горнодобычи я не смогу поддерживать нормальную работу модуля подводного плавания.
 
 **Паймон:** Ты и на такое способен!
 
+#### Вернитесь в деревню Меруси
+
+#### Направляйтесь к указанному месту кратчайшим путём
+
+#### Одолейте гончих Разрыва
+
+#### Исследуйте руду, используя резонанс призмы
+
 #### Поговорите со спасённой мелюзиной
+
+Резонанс призмы раскалывает камень, и оттуда появляется мелюзина...
+Вы бросаетесь вперёд, чтобы помочь ей подняться, но, к счастью, она, по всей видимости, не пострадала...
 
 **Вирда:** А? Мамер? Откуда ты здесь? А вы кто?
 
@@ -428,13 +446,13 @@
 
 **Паймон:** Ну, как сказать...
 
-*Вы рассказываете Вирде о произошедшем...*
+Вы рассказываете Вирде о произошедшем...
 
 **Вирда:** Как же такое могло случиться?..
 
 **Вирда:** Если вдуматься, они и правда выглядели подозрительно! Ох, мне ещё столькому предстоит научиться. Сестрица Седиль бы вот сразу...
 
-Ты знаешь, куда они отправились?
+- **Путешественник:** Ты знаешь, куда они отправились?
 
 **Вирда:** Да! Я видела, как они пошли вон туда!
 
@@ -454,8 +472,7 @@
 
 **Сеймур:** Превышен показатель враждебности. Перехожу в режим очистки. Госпожа Мамер, в целях безопасности отойдите подальше.
 
-*Резонанс призмы раскалывает камень, и оттуда появляется мелюзина...
-Вы бросаетесь вперёд, чтобы помочь ей подняться, но, к счастью, она, по всей видимости, не пострадала...*
+#### Одолейте гончих Разрыва
 
 #### Поговорите с Мамер
 
@@ -483,7 +500,7 @@
 
 **Айрус:** Я собиралась задать ему трёпку. Но он произнёс пару непонятных фраз, и после этого появились монстры, которые гнались за нами до этого самого места. Вот же дрянной человечишка...
 
-Чудовища в других местах тоже явились по его призыву?
+- **Путешественник:** Чудовища в других местах тоже явились по его призыву?
 
 **Айрус:** А? Чудовища были где-то ещё?
 
@@ -529,9 +546,15 @@
 
 **Мамер:** То приятное и спокойное место...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Почему ты нам об этом рассказала?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мы вас всё равно не отпустим.
+
+##### Общее продолжение
 
 **Айрус:** Даже наёмники могут выбирать, на кого работать. Человеку, способному ради своих целей призвать чудовищ, я не согласна служить ни за какую сумму!
 
@@ -549,7 +572,7 @@
 
 **Вирда:** И даже не думайте ни о каких глупостях, иначе Палата Жардинаж вас не пощадит!
 
-*Вирда уводит разоружённых наёмников со связанными руками.*
+Вирда уводит разоружённых наёмников со связанными руками.
 
 **Паймон:** И что нам теперь делать, Путешественник?
 
@@ -561,21 +584,27 @@
 
 **Мамер:** Как больно... Не надо... Зачем?...
 
-...Я тоже его слышу.
+- **Путешественник:** ...Я тоже его слышу.
 
 **Паймон:** Эй! Путешественник, теперь и ты выглядишь хуже некуда... Что случилось? Что ты слышишь? Можешь разобрать слова?
 
-Я в порядке, но...
+- **Путешественник:** Я в порядке, но...
+
+##### Вариант ответа 1
 
 - **Путешественник:** Нужно поторопиться.
 
-- **Путешественник:** У нас мало времени.
-
 **Мамер:** Да... Времени нет.
+
+##### Вариант ответа 2
+
+- **Путешественник:** У нас мало времени.
 
 **Паймон:** Нам туда, где мы собирали материал для красок?
 
 **Мамер:** Да... Пожалуйста, Путешественник и Паймон... давайте поспешим.
+
+##### Общее продолжение
 
 **Паймон:** Конечно, раз ты так просишь, но... Может, тебе лучше сначала отдохнуть? Выглядишь ты неважно...
 
@@ -587,11 +616,51 @@
 
 **Паймон:** Ага, идём! Наверно, мы можем пройти через тот «короткий путь»!
 
+#### Направляйтесь к указанному месту
+
+**Паймон:** Как же так? Почему мы не можем пройти?!
+
+**Мамер:** Странно... Похоже, что-то преграждает путь...
+
+**Паймон:** Ох, что же делать?..
+
+##### Вариант ответа 1
+
+- **Путешественник:** Если Сеймур проломит стену...
+
+**Сеймур:** Прошу прощения господин Путешественник, это невозможно. Толщина стены превышает мои возможности. Моя энергия закончится ещё до того, как тоннель будет завершён. / Прошу прощения госпожа Путешественник, это невозможно. Толщина стены превышает мои возможности. Моя энергия закончится ещё до того, как тоннель будет завершён.
+
+**Мамер:** Вон там... можно проплыть... кровь Прародителя уже...
+
+**Паймон:** Кровь? Мамер, что с тобой? Какая кровь?
+
+**Мамер:** Мешкать больше нельзя. Прошу, Путешественник... Сеймур... Надо проплыть вон там...
+
+##### Вариант ответа 2
+
+- **Путешественник:** То течение...
+
+**Мамер:** Да. Вон там... можно проплыть... потому что кровь Прародителя уже...
+
+**Паймон:** Кровь? Мамер, что с тобой? Какая кровь?
+
+**Мамер:** Мешкать больше нельзя. Нам... надо проплыть вон там...
+
 ## EN
 
 ### There Will Come Soft Rains
 
 Help Mamere collect the parts to repair Seymour.
+
+#### Ask about the parts in Merusea Village
+
+#### Collect strange parts
+
+#### Collect strange parts
+
+#### Collect strange parts
+
+#### Collect strange parts
 
 #### Return to Mamere
 
@@ -649,7 +718,7 @@ Components of unknown purpose skitter across the ground. She picks them all up �
 
 **Mamere:** ...They're Traveler and Paimon.
 
-**Seymour:** You have entered this data previously. It is an honor to meet you, noble Mr. / Ms. Traveler, and Paimon, the adorable little one.
+**Seymour:** You have entered this data previously. It is an honor to meet you, noble Mr. Traveler, and Paimon, the adorable little one. / You have entered this data previously. It is an honor to meet you, Ms. Traveler, and Paimon, the adorable little one.
 
 **Seymour:** Thank you for your help in the previous altercation. I am Prototype 4ACV07. You may call me Seymour. / It was my honor to witness your elegant swordsmanship during the previous altercation, Miss. I am Prototype 4ACV07. You may call me Seymour.
 
@@ -665,7 +734,7 @@ Components of unknown purpose skitter across the ground. She picks them all up �
 
 **Paimon:** An artificed clockwork relay module?
 
-Are you referring to her token?
+- **Traveler:** Are you referring to her token?
 
 **Seymour:** I apologize, but I cannot answer your question. I do not understand the meaning of this "token" you refer to.
 
@@ -731,7 +800,7 @@ Are you referring to her token?
 
 **Paimon:** Agh! What's going on?
 
-(It was accompanied by a quake this time...)
+- **Traveler:** (It was accompanied by a quake this time...)
 
 **Seymour:** Warning. Extreme increase in environmental contamination detected.
 
@@ -751,29 +820,11 @@ Are you referring to her token?
 
 #### Head to the designated location
 
-**Paimon:** Wait, what's wrong? Why can't we continue on?
+#### Head to the designated location
 
-**Mamere:** Strange... it seems like something's blocking the way...
+#### Head to the designated location
 
-**Paimon:** Ohh, what do we do...
-
-- **Traveler:** We could use Seymour to break the wall down...
-
-- **Traveler:** The currents over there...
-
-**Seymour:** I apologize, Mr. / Ms.Traveler, but that is impossible. The thickness of the rock wall exceeds my output limits. I would run out of energy before a tunnel could be successfully bored.
-
-**Mamere:** S—Swim... from over there... Father's... blood... is already...
-
-**Paimon:** Blood? Mamere, are you okay? What blood?
-
-**Mamere:** We cannot... delay any further. Please, Traveler... Seymour... Let's swim from over there...
-
-**Mamere:** That's right. Swim... Over there... Because Father's blood... is already...
-
-**Paimon:** Blood? Mamere, are you okay? What blood?
-
-**Mamere:** We cannot... delay any further. Let's swim from over there...
+#### Defeat the Rifthounds
 
 #### Find the hiding Melusine nearby
 
@@ -797,9 +848,13 @@ Are you referring to her token?
 
 **Glaisti:** That child's name is Puca... Tall one, could I please ask you to rescue her?
 
-Leave it to us.
+- **Traveler:** Leave it to us.
 
 **Paimon:** Yes. Let's go!
+
+#### Find the trapped Melusine
+
+#### Cut the Seagrass
 
 #### Talk to the rescued Melusine
 
@@ -815,7 +870,7 @@ Leave it to us.
 
 **Mamere:** ...
 
-Mamere brought us here.
+- **Traveler:** Mamere brought us here.
 
 **Glaisti:** Huh? But how did you know we were here?
 
@@ -851,7 +906,7 @@ Mamere brought us here.
 
 **Paimon:** Contamination index?
 
-(Could that be related to the hallucinations I saw earlier...?)
+- **Traveler:** (Could that be related to the hallucinations I saw earlier...?)
 
 **Puca:** A... safe place? So do we just need to go back home?
 
@@ -860,6 +915,8 @@ Mamere brought us here.
 **Glaisti:** Got it. Thank you, Ms. Paimon! You've got a good heart!
 
 **Paimon:** Hehe, alright, let's go!
+
+#### Head to the designated location
 
 #### Head to the designated location
 
@@ -897,13 +954,19 @@ Mamere brought us here.
 
 **Paimon:** Hehe, Traveler and Paimon are well-seasoned adventurers, y'know! Still, what are these things doing inside Elynas?
 
-- **Traveler:** And they appeared alongside the quake, too.
+##### Response branch 1
 
-- **Traveler:** They're my least favorite monsters.
+- **Traveler:** And they appeared alongside the quake, too.
 
 **Mamere:** I wonder how Father is doing...
 
+##### Response branch 2
+
+- **Traveler:** They're my least favorite monsters.
+
 **Paimon:** No wonder you were going at them that hard...
+
+##### Shared continuation
 
 **Paimon:** Speaking of that, Paimon thought that Father was a secret only the Melusines knew about. Paimon didn't think that the other Melusines hadn't heard of him either...
 
@@ -913,7 +976,7 @@ Mamere brought us here.
 
 **Paimon:** That's understandable...
 
-(That means that the voice I heard then was...)
+- **Traveler:** (That means that the voice I heard then was...)
 
 **Paimon:** Well, now that we've seen you repair Seymour and take us to help Puca and such, Paimon's sure that your Father must be a decent person!
 
@@ -947,15 +1010,26 @@ Mamere brought us here.
 
 **Seymour:** I detect a lack of faith in my functionalities, Ms. Paimon. Concern is unnecessary. My most advanced mining module can penetrate rock layers of this thickness.
 
-**Seymour:** Noble Sir / Noble and lovely Lady Traveler, please / I ask you to take me to the waters up above. I cannot maintain diving unit operation while my mining module is active.
+**Seymour:** Noble Sir Traveler, please take me to the waters up above. I cannot maintain diving unit operation while my mining module is active. / Noble and lovely Lady Traveler, I ask you to take me to the waters up above. I cannot maintain diving unit operation while my mining module is active.
 
 **Paimon:** Well, guess he can do that too, huh?
 
+#### Return to Merusea Village
+
+#### Head to the designated location through the shortcut
+
+#### Defeat the Rifthounds
+
+#### Use the Prismatic Resonance to investigate the ore
+
 #### Talk to the rescued Melusine
+
+The prismatic resonance shatters the ore, and a Melusine unexpectedly falls out...
+You rush over to help her up, and fortunately, she doesn't appear to be injured...
 
 **Virda:** Huh? Mamere? What are you doing here? And you are...
 
-**Paimon:** Paimon's Paimon, and he / she's Traveler. Mamere brought us here.
+**Paimon:** Paimon's Paimon, and he's Traveler. Mamere brought us here. / Paimon's Paimon, and she's Traveler. Mamere brought us here.
 
 **Virda:** Ah, is that so? Thank you all! My name is Virda, but just call me Vi. I'm an apprentice agent of the Marechaussee Phantom!
 
@@ -993,13 +1067,13 @@ Mamere brought us here.
 
 **Paimon:** Uh, how should we explain this...
 
-*You tell Virda about what happened before...*
+You tell Virda about what happened before...
 
 **Virda:** Huh!? So that actually happened?
 
 **Virda:** Now that I think about it, they *were* behaving very suspiciously! *sigh* I guess I still have a lot to learn. Were Sedile in my shoes...
 
-Did you see which way they went?
+- **Traveler:** Did you see which way they went?
 
 **Virda:** Yes! They were heading that way!
 
@@ -1019,8 +1093,7 @@ Did you see which way they went?
 
 **Seymour:** Excess hostile reactions detected. Switching to purification mode. For your own safety, Ms. Mamere, please keep a certain distance.
 
-*The prismatic resonance shatters the ore, and a Melusine unexpectedly falls out...
-You rush over to help her up, and fortunately, she doesn't appear to be injured...*
+#### Defeat the Rifthounds
 
 #### Talk to Mamere
 
@@ -1048,7 +1121,7 @@ You rush over to help her up, and fortunately, she doesn't appear to be injured.
 
 **Irus:** I was going to get even with that scoundrel, but he did some hand-sign and blabbered out... something in a language I didn't know. That's when those monsters appeared, and they chased us all the way here. Why, that scumbag...
 
-Did he summon the monsters at the other locations?
+- **Traveler:** Did he summon the monsters at the other locations?
 
 **Irus:** What? What other locations are you talking about?
 
@@ -1094,9 +1167,15 @@ Did he summon the monsters at the other locations?
 
 **Mamere:** It's a warm place that makes people at ease...
 
+##### Response branch 1
+
 - **Traveler:** Why would you tell us this?
 
+##### Response branch 2
+
 - **Traveler:** Even so, we won't let you off so easy!
+
+##### Shared continuation
 
 **Irus:** Hey, even mercenaries know how to be picky about our employers! That self-serving, monster-summoning fraudster is no employer of mine, no matter how much he's offering!
 
@@ -1114,7 +1193,7 @@ Did he summon the monsters at the other locations?
 
 **Virda:** Hmph. Alright, mercs, don't get any funny ideas, or the Maison Gardiennage are gonna show you what for!
 
-*After disarming the mercenaries and tying their hands, Virda escorts them away.*
+After disarming the mercenaries and tying their hands, Virda escorts them away.
 
 **Paimon:** So, uh, what are we supposed to do now, Traveler?
 
@@ -1126,21 +1205,27 @@ Did he summon the monsters at the other locations?
 
 **Mamere:** It hurts... No... Why are you doing that...
 
-...I heard it too.
+- **Traveler:** ...I heard it too.
 
 **Paimon:** And you look just as horrible, Traveler! You heard something? What did you hear?
 
-I'm fine, but...
+- **Traveler:** I'm fine, but...
+
+##### Response branch 1
 
 - **Traveler:** We must hurry.
 
-- **Traveler:** We're out of time.
-
 **Mamere:** That's right... There's no time...
+
+##### Response branch 2
+
+- **Traveler:** We're out of time.
 
 **Paimon:** So we've gotta hurry... to the place where we collected the paints previously?
 
 **Mamere:** Yes... Please, Traveler, Paimon... We have to get over there...
+
+##### Shared continuation
 
 **Paimon:** Even if you say that... Shouldn't you rest for a bit? You look like you're hurting all over...
 
@@ -1152,11 +1237,51 @@ I'm fine, but...
 
 **Paimon:** Okay. Let's go! There should be a shortcut we can take!
 
+#### Head to the designated location
+
+**Paimon:** Wait, what's wrong? Why can't we continue on?
+
+**Mamere:** Strange... it seems like something's blocking the way...
+
+**Paimon:** Ohh, what do we do...
+
+##### Response branch 1
+
+- **Traveler:** We could use Seymour to break the wall down...
+
+**Seymour:** I apologize, Mr.Traveler, but that is impossible. The thickness of the rock wall exceeds my output limits. I would run out of energy before a tunnel could be successfully bored. / I apologize, Ms.Traveler, but that is impossible. The thickness of the rock wall exceeds my output limits. I would run out of energy before a tunnel could be successfully bored.
+
+**Mamere:** S—Swim... from over there... Father's... blood... is already...
+
+**Paimon:** Blood? Mamere, are you okay? What blood?
+
+**Mamere:** We cannot... delay any further. Please, Traveler... Seymour... Let's swim from over there...
+
+##### Response branch 2
+
+- **Traveler:** The currents over there...
+
+**Mamere:** That's right. Swim... Over there... Because Father's blood... is already...
+
+**Paimon:** Blood? Mamere, are you okay? What blood?
+
+**Mamere:** We cannot... delay any further. Let's swim from over there...
+
 ## ZH
 
 ### 细雨将至
 
 为了帮助玛梅赫，搜集用来修理西摩尔的零件吧。
+
+#### 在海沫村打听零件的事情
+
+#### 收集「奇特的零件」
+
+#### 收集「奇特的零件」
+
+#### 收集「奇特的零件」
+
+#### 收集「奇特的零件」
 
 #### 回去找玛梅赫
 
@@ -1215,7 +1340,7 @@ I'm fine, but...
 
 **玛梅赫:** …是旅行者和派蒙。
 
-**西摩尔:** 此前已经经由您录入过了。见到您是我的荣幸，(尊贵的)旅行者先生 / 小姐，还有可爱的派蒙小姐。
+**西摩尔:** 此前已经经由您录入过了。见到您是我的荣幸，尊贵的旅行者先生，还有可爱的派蒙小姐。 / 此前已经经由您录入过了。见到您是我的荣幸，旅行者小姐，还有可爱的派蒙小姐。
 
 **西摩尔:** 感谢您在先前冲突中的协助。我是原型机4ACV07，您也可以叫我西摩尔。 / 很荣幸能在先前的冲突中目睹您优美的剑舞与端丽的身姿，小姐。我是原型机4ACV07，您也可以叫我西摩尔。
 
@@ -1231,9 +1356,9 @@ I'm fine, but...
 
 **派蒙:** 奇械发条中继模块？
 
-是她的「信物」吗？
+- **旅行者:** 是她的「信物」吗？
 
-**西摩尔:** 非常抱歉，我无法回答您的问题，尊敬的先生 / 尊贵的小姐，因为我无法理解您所指「信物」的含义。
+**西摩尔:** 非常抱歉，我无法回答您的问题，尊敬的先生，因为我无法理解您所指「信物」的含义。 / 非常抱歉，我无法回答您的问题，尊贵的小姐，因为我无法理解您所指「信物」的含义。
 
 **西摩尔:** 因此，我也无法做出判断，您所指的「信物」与我的奇械发条中继模块之间是否存在关联。
 
@@ -1297,7 +1422,7 @@ I'm fine, but...
 
 **派蒙:** 呜啊！怎么回事！
 
-（这次伴随着震动…）
+- **旅行者:** （这次伴随着震动…）
 
 **西摩尔:** 警告。检测到环境污染程度急剧上升。
 
@@ -1317,29 +1442,11 @@ I'm fine, but...
 
 #### 前往指定地点
 
-**派蒙:** 怎…怎么回事？为什么过不去了？！
+#### 前往指定地点
 
-**玛梅赫:** 奇怪…好像被什么东西堵住了…
+#### 前往指定地点
 
-**派蒙:** 呜哇，要怎么办…
-
-- **旅行者:** 要是用西摩尔把墙壁打碎的话…
-
-- **旅行者:** 那边的洋流…
-
-**西摩尔:** 抱歉，旅行者先生 / 小姐，做不到。岩壁的厚度超过了我的能力极限，在挖出隧道之前，我的能源就会先耗尽。
-
-**玛梅赫:** 从…从那边，游过去…父亲大人的…血…已经…
-
-**派蒙:** 血…？你没事吧，玛梅赫？什么血？
-
-**玛梅赫:** 已经…不能再耽搁了，拜托了，旅行者，还有…西摩尔…我们…从那边，游过去…
-
-**玛梅赫:** 没错…从那边，游过去，因为父亲大人的血…已经…
-
-**派蒙:** 血…？你没事吧，玛梅赫？什么血？
-
-**玛梅赫:** 已经…不能再耽搁了，我们…从那边，游过去…
+#### 消灭兽境猎犬
 
 #### 寻找躲藏在附近的美露莘
 
@@ -1361,15 +1468,19 @@ I'm fine, but...
 
 **格蕾丝蒂:** 不是的，还有一个朋友，被困在了那边…
 
-**格蕾丝蒂:** 是个叫芙佳的孩子…个子高高的大哥哥 / 大姐姐，能拜托你们帮忙一起去把她救出来吗？
+**格蕾丝蒂:** 是个叫芙佳的孩子…个子高高的大哥哥，能拜托你们帮忙一起去把她救出来吗？ / 是个叫芙佳的孩子…个子高高的大姐姐，能拜托你们帮忙一起去把她救出来吗？
 
-交给我们吧。
+- **旅行者:** 交给我们吧。
 
 **派蒙:** 嗯！我们走！
 
+#### 寻找被困的美露莘
+
+#### 斩断海草
+
 #### 与获救的美露莘对话
 
-**格蕾丝蒂:** 谢谢你们，个子高高的大哥哥 / 大姐姐，还有好心的飘浮灵小姐！
+**格蕾丝蒂:** 谢谢你们，个子高高的大哥哥，还有好心的飘浮灵小姐！ / 谢谢你们，个子高高的大姐姐，还有好心的飘浮灵小姐！
 
 **派蒙:** 谁是飘浮灵啦！我是派蒙，这是旅行者…话说回来，刚才是怎么回事啊？为什么你们两个会在这种地方？
 
@@ -1381,7 +1492,7 @@ I'm fine, but...
 
 **玛梅赫:** ……
 
-是玛梅赫带我们来的。
+- **旅行者:** 是玛梅赫带我们来的。
 
 **格蕾丝蒂:** 咦？可是，你是怎么知道我们在这里的呢？
 
@@ -1417,7 +1528,7 @@ I'm fine, but...
 
 **派蒙:** 「污染指数」？
 
-（难道说，和之前的幻觉有关…）
+- **旅行者:** （难道说，和之前的幻觉有关…）
 
 **芙佳:** 安…安全的地方，只要回家就可以了吧…？
 
@@ -1426,6 +1537,8 @@ I'm fine, but...
 **格蕾丝蒂:** 我明白了，谢谢你，好心的派蒙小姐！
 
 **派蒙:** 嘿嘿，好，我们走吧！
+
+#### 前往指定地点
 
 #### 前往指定地点
 
@@ -1463,13 +1576,19 @@ I'm fine, but...
 
 **派蒙:** 嘿嘿，毕竟旅行者和我是经验丰富的冒险家嘛！不过，为什么厄里那斯内部会出现这些东西呢？
 
-- **旅行者:** 而且是随着震动出现的。
+##### 对话分支 1
 
-- **旅行者:** 是我最讨厌的魔物。
+- **旅行者:** 而且是随着震动出现的。
 
 **玛梅赫:** 不知道父亲大人怎么样了…
 
+##### 对话分支 2
+
+- **旅行者:** 是我最讨厌的魔物。
+
 **派蒙:** 难怪战斗的时候这么卖力喔…
+
+##### 共同后续
 
 **派蒙:** 话说回来，我刚才还以为你说的「父亲大人」是什么只有美露莘才知道的秘密呢，没想到其他美露莘也没听说过…
 
@@ -1479,7 +1598,7 @@ I'm fine, but...
 
 **派蒙:** 是喔…
 
-（这么说来，那时听到的声音…）
+- **旅行者:** （这么说来，那时听到的声音…）
 
 **派蒙:** 嗯，不过既然见识了玛梅赫修好西摩尔，也看到玛梅赫依照指引带我们来帮助芙佳她们，看来这个玛梅赫爸爸是个好人！
 
@@ -1513,15 +1632,26 @@ I'm fine, but...
 
 **西摩尔:** 我能够探知到您对我机体性能的不信任，派蒙小姐。不过不必担心，我搭载了最先进的采掘模块，足以击穿这种厚度的岩层。
 
-**西摩尔:** 尊贵的 / 尊贵而美丽的旅行者先生 / 小姐，拜托您 / 恳请您将我带到上方的水体中。在运行采掘模块时，我无法保持潜航单元的正常运作。
+**西摩尔:** 尊贵的旅行者先生，拜托您将我带到上方的水体中。在运行采掘模块时，我无法保持潜航单元的正常运作。 / 尊贵而美丽的旅行者小姐，恳请您将我带到上方的水体中。在运行采掘模块时，我无法保持潜航单元的正常运作。
 
 **派蒙:** 还有这样的功能喔！
 
+#### 回到海沫村
+
+#### 利用捷径前往指定地点
+
+#### 消灭兽境猎犬
+
+#### 利用棱晶共鸣调查矿石
+
 #### 与获救的美露莘对话
+
+通过棱晶的共鸣击碎了矿石，没想到从中竟然摔出了一个美露莘…
+连忙跑过去将她扶了起来，所幸，看上去似乎并没有受什么伤…
 
 **薇尔妲:** 欸？玛梅赫？为什么会在这里？还有，你们是…
 
-**派蒙:** 我是派蒙，他 / 她是旅行者，是玛梅赫带我们来帮你的。
+**派蒙:** 我是派蒙，他是旅行者，是玛梅赫带我们来帮你的。 / 我是派蒙，她是旅行者，是玛梅赫带我们来帮你的。
 
 **薇尔妲:** 是这样吗？原来如此，谢谢你们！我是薇尔妲，叫我「薇」就好啦，我是「逐影庭」的见习探员哦！
 
@@ -1559,13 +1689,13 @@ I'm fine, but...
 
 **派蒙:** 唔，该怎么说呢…
 
-*向薇尔妲讲述了先前发生的事情…*
+向薇尔妲讲述了先前发生的事情…
 
 **薇尔妲:** 欸？！居然发生了这种事吗！
 
 **薇尔妲:** 现在想想的话，那几个家伙看上去鬼鬼祟祟的，确实很可疑！呜，我果然还是不够成熟，要是瑟琪前辈遇到这种事情的话…
 
-你知道他们往哪去了吗？
+- **旅行者:** 你知道他们往哪去了吗？
 
 **薇尔妲:** 是的！薇刚才看到了，他们是往那个方向去了哦！
 
@@ -1585,8 +1715,7 @@ I'm fine, but...
 
 **西摩尔:** 检测到过量敌性反应。切换至涤净模式。为了您的安全，玛梅赫小姐，请暂时前往稍远的位置躲避。
 
-*通过棱晶的共鸣击碎了矿石，没想到从中竟然摔出了一个美露莘…
-连忙跑过去将她扶了起来，所幸，看上去似乎并没有受什么伤…*
+#### 消灭兽境猎犬
 
 #### 与玛梅赫对话
 
@@ -1614,7 +1743,7 @@ I'm fine, but...
 
 **伊洛丝:** 我刚想找他算账，他就做了个手势，念了两句听不懂的话，就出现了那群怪物，一路把我们追到了这个地方！啊啊，那个混账…
 
-其他地方的魔兽也是他召唤的吗？
+- **旅行者:** 其他地方的魔兽也是他召唤的吗？
 
 **伊洛丝:** 啊？什么其他地方的魔兽？
 
@@ -1660,9 +1789,15 @@ I'm fine, but...
 
 **玛梅赫:** 是那个很温暖、很让人安心的地方…
 
+##### 对话分支 1
+
 - **旅行者:** 为什么要告诉我们？
 
+##### 对话分支 2
+
 - **旅行者:** 就算这样也不会放过你们！
+
+##### 共同后续
 
 **伊洛丝:** 哼，就算是佣兵，我们也是会挑选雇主的！这种为了自己的目的，甚至召唤出魔兽的雇主…不管给多少，我也不能接受！
 
@@ -1680,7 +1815,7 @@ I'm fine, but...
 
 **薇尔妲:** 哼，可别想着什么奇怪的事情，不然执律庭可饶不了你们！
 
-*将佣兵们缴械、双手捆缚后，薇尔妲带着他们离开了。*
+将佣兵们缴械、双手捆缚后，薇尔妲带着他们离开了。
 
 **派蒙:** 唔，所以，旅行者，我们现在…
 
@@ -1692,21 +1827,27 @@ I'm fine, but...
 
 **玛梅赫:** 好痛…好痛…不要…为什么要做那样的事情…
 
-…我也听到了。
+- **旅行者:** …我也听到了。
 
 **派蒙:** 呜！旅行者，你的脸色看上去也很糟糕…到底怎么回事？听到了？是说听到了什么啊？
 
-我没事，不过…
+- **旅行者:** 我没事，不过…
+
+##### 对话分支 1
 
 - **旅行者:** 要赶快过去。
 
-- **旅行者:** 没时间了。
-
 **玛梅赫:** 是的…没时间了…
+
+##### 对话分支 2
+
+- **旅行者:** 没时间了。
 
 **派蒙:** 赶过去…是说之前采集颜料的地方吗？
 
 **玛梅赫:** 是的…呜，拜托了，旅行者，派蒙…我们快点过去…
+
+##### 共同后续
 
 **派蒙:** 就算你这么说…你现在这个样子，还是先休息一下比较好吧？毕竟，你看上去真的很难受…
 
@@ -1717,3 +1858,33 @@ I'm fine, but...
 **玛梅赫:** 拜托了…旅行者，派蒙。请…带我一起去那个地方。之前，我们一起收集高纯度矿石的地方…
 
 **派蒙:** 嗯。我们走吧！那边的「近道」，应该可以过去！
+
+#### 前往指定地点
+
+**派蒙:** 怎…怎么回事？为什么过不去了？！
+
+**玛梅赫:** 奇怪…好像被什么东西堵住了…
+
+**派蒙:** 呜哇，要怎么办…
+
+##### 对话分支 1
+
+- **旅行者:** 要是用西摩尔把墙壁打碎的话…
+
+**西摩尔:** 抱歉，旅行者先生，做不到。岩壁的厚度超过了我的能力极限，在挖出隧道之前，我的能源就会先耗尽。 / 抱歉，旅行者小姐，做不到。岩壁的厚度超过了我的能力极限，在挖出隧道之前，我的能源就会先耗尽。
+
+**玛梅赫:** 从…从那边，游过去…父亲大人的…血…已经…
+
+**派蒙:** 血…？你没事吧，玛梅赫？什么血？
+
+**玛梅赫:** 已经…不能再耽搁了，拜托了，旅行者，还有…西摩尔…我们…从那边，游过去…
+
+##### 对话分支 2
+
+- **旅行者:** 那边的洋流…
+
+**玛梅赫:** 没错…从那边，游过去，因为父亲大人的血…已经…
+
+**派蒙:** 血…？你没事吧，玛梅赫？什么血？
+
+**玛梅赫:** 已经…不能再耽搁了，我们…从那边，游过去…

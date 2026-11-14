@@ -1,0 +1,41 @@
+{
+  "id": "item_101281",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/item_101281.webp",
+  "title": {
+    "ru": "Смородина",
+    "en": "Rimecurrant",
+    "zh": "冰醋栗"
+  },
+  "region": "Снежная",
+  "rarity": 0,
+  "game_version": "7.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Ароматная ягода, растущая на покрытых инеем ледяных ветвях.",
+    "en": "A richly flavored berry that sprouts from frost-rimed, icy branches.",
+    "zh": "从霜结的冰枝之上，生长出来的风味丰富的浆果。"
+  },
+  "description": {
+    "ru": "Ароматная ягода, растущая на покрытых инеем ледяных ветвях.",
+    "en": "A richly flavored berry that sprouts from frost-rimed, icy branches.",
+    "zh": "从霜结的冰枝之上，生长出来的风味丰富的浆果。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "ingredient",
+  "item_type_title": {
+    "ru": "Ингредиент",
+    "en": "Ingredient",
+    "zh": "食材"
+  }
+}

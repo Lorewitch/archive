@@ -1,32 +1,32 @@
 {
-  "books": 105,
-  "artifacts": 61,
-  "weapons": 234,
-  "items": 251,
-  "stories": 385,
-  "enemies": 257,
+  "books": 111,
+  "artifacts": 63,
+  "weapons": 253,
+  "items": 291,
+  "stories": 443,
+  "enemies": 280,
   "groups": {
     "items": {
-      "common_enemies": 47,
-      "development_materials": 51,
-      "teyvat_resources": 95,
+      "common_enemies": 53,
+      "development_materials": 58,
+      "teyvat_resources": 118,
       "weekly_bosses": 14,
-      "world_bosses": 44
+      "world_bosses": 48
     },
     "stories": {
-      "archon_quests": 47,
-      "character_stories": 117,
+      "archon_quests": 53,
+      "character_stories": 123,
       "legend_quests": 58,
-      "world_quests": 163
+      "world_quests": 209
     },
     "bestiary": {
       "abyss": 23,
-      "automatons": 26,
-      "elementals": 28,
+      "automatons": 27,
+      "elementals": 29,
       "fatui": 29,
       "hilichurls": 29,
       "human_factions": 58,
-      "mystical_beasts": 64
+      "mystical_beasts": 85
     }
   }
 }

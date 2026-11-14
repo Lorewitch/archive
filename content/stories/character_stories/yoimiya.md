@@ -301,3 +301,916 @@ Sometimes, she stops to ask herself this: "How did someone as ordinary as me rec
 宵宫想，就算有，或许对我而言也不过如此。因为，我只是一个追赶快乐、欢喜度日的烟花匠人而已。
 自那以后，时间过得飞快，宵宫对「火焰」的掌控愈发娴熟，制作烟花也愈发得心应手了。
 偶尔，她会问自己：就算是我这样普普通通的人，也能得到神明的认可。为什么呢？难道说…神明也喜欢烟花吗？
+
+# voice_source_ids: 49009,49010,49011,49012,49013,49014,49015,49016,49017,49018,49019,49020,49021,49022,49023,49024,49025,49026,49027,49028,49029,49030,49031,49032,49033,49034,49035,49036,49037,49038,49039,49040,49041,49042,49043,49044,49045,49046,49047,49048,49049,49050,49051,49052,49053,49054,49055,49056,49057,49058,49059,49060,49061,49062,49063,49064,49065,49066,49067,49068,49069,49070,49071,49072,49073,49074,49075,49076,49077,49078,49079,49080,49081,49082,49083
+
+## REPLICAS_RU
+
+### Элементальный навык I
+
+Начинаем световое шоу!
+
+### Элементальный навык II
+
+Фитиль зажжён!
+
+### Элементальный навык III
+
+Осторожно с огнём!
+
+### Взрыв стихии I
+
+Повторим праздник!
+
+### Взрыв стихии II
+
+Встречайте золотую рыбку!
+
+### Взрыв стихии III
+
+А вот и фейерверки!
+
+### Запуск планера I
+
+Лети выше неба!
+
+### Открытие сундука I
+
+Мы найдём здесь материалы для фейерверков?
+
+### Открытие сундука II
+
+Что у нас здесь?
+
+### Открытие сундука III
+
+Позволь мне открыть!
+
+### Низкий уровень HP I
+
+Ой-ой-ой!
+
+### Низкий уровень HP II
+
+Это провал...
+
+### Низкий уровень HP III
+
+Нужно быть осторожней...
+
+### Низкий уровень HP компаньона I
+
+Я пришла на помощь!
+
+### Низкий уровень HP компаньона II
+
+Не бойся, Ёимия уже здесь!
+
+### Без сознания I
+
+Горит... слишком... ярко...
+
+### Без сознания II
+
+Веселья тоже бывает слишком много...
+
+### Без сознания III
+
+Праздник... окончен.
+
+### Получен лёгкий удар I
+
+Полегче, пожалуйста!
+
+### Получен тяжёлый удар I
+
+Это не считается!
+
+### Присоединяется к группе I
+
+Как насчёт того, чтобы устроить праздник?
+
+### Присоединяется к группе II
+
+Давай поиграем!
+
+### Присоединяется к группе III
+
+Больше попутчиков! Ура!
+
+### Привет...
+
+Добро пожаловать в Наганохару! Меня зовут Ёимия. Если тебе что-то понадобится, просто дай мне знать!
+У нас есть кусикацу, яичный рулет... Нет-нет, погоди, мы вовсе не ресторан. Мы создаём фейерверки! Как этот, видишь? Сверкающие, трескучие фейерверки!
+
+### Поболтаем: Фейерверки
+
+Фейерверки быстро заканчиваются, а дружба - это навсегда.
+
+### Поболтаем: Истории
+
+Хочешь, расскажу тебе историю? Всё равно нечем заняться...
+
+### Поболтаем: Золотые рыбки
+
+У тебя когда-нибудь были золотые рыбки? Они такие милые...
+
+### Когда идёт дождь...
+
+Ой, фейерверки сейчас промокнут! Скорее в укрытие! Эх, не успеем...
+
+### Когда идёт снег...
+
+Погляди, я делаю снежок... Пиу!
+
+### Когда светит солнце...
+
+Ух ты, как приятно! А внутри так тепло и хорошо стало, сейчас взлечу, словно облачко!
+
+### Когда дует сильный ветер...
+
+Ветер такой сильный! Я себя едва слышу!
+
+### Доброе утро...
+
+Доброе утро. Какой же утром свежий воздух! Давай, сделай пару глубоких вдохов - это полезно для мозга!
+
+### Добрый день...
+
+Пора обедать! ...Ну и ну! Яйцо с двумя желтками! Это к удаче...
+
+### Добрый вечер...
+
+Самое время проверить наши фейеверки. По правде говоря, зачем им куда-то взлетать, они и тут, на земле будут смотреться не хуже... Да шучу я, шучу. Я позабочусь о безопасности.
+
+### Спокойной ночи...
+
+Хочешь загадку? Что делать, если целый день любовался фейерверками? Правильный ответ - продолжать смотреть на них во сне, конечно же! Спокойной ночи. До завтра!
+
+### О Ёимии: Семья
+
+Мой отец плохо слышит. Когда я была маленькой, то он всегда отвечал мне улыбкой, что бы я ни говорила, и поэтому я думала, что всё говорю правильно. Я продолжала говорить, а он продолжал улыбаться. Потом я узнала, что он улыбался потому, что плохо меня слышал, но я продолжаю говорить с ним, потому что это делает его по-настоящему счастливым.
+
+### О Ёимии: Разговоры
+
+Я не согласна с выражением «язык мой - враг мой». Чувства, которые стоят за словами, всегда искренни. Можно подобрать неправильные слова и вызвать недоразумение, но оно легко разрешится, если продолжить разговор. А замолчишь - и собеседник уже не узнает, что ты имел в виду, и вы не станете ближе.
+
+### О нас: Камень, ножницы, бумага
+
+Давай сыграем в «камень-ножницы-бумага»! На счёт три: камень, ножницы, бумага! Ура, я победила! Я победила! ...Кхм, что? Я не меняла выбор. С чего бы мне менять выбор?
+
+### О нас: Дружба
+
+На самом деле не имеет значения, чем я занимаюсь. Важно то, с кем я это делаю. Когда я с тобой, то даже самые простые вещи приносят мне много радости - наблюдать за природой, пинать какую-нибудь жестянку. Просто мне никогда не надоедает болтать с тобой.
+
+### Глаз Бога...
+
+Хочешь, расскажу кое-что по секрету? Когда я только получила Глаз Бога, то использовала его как огниво, чтобы запускать фейерверки, а ещё... кипятила им воду. Потом и вовсе бросила его в кладовке и думать о нём забыла. Это мой отец в итоге нашёл его и объяснил мне, что это ценный артефакт, который необходимо бережно хранить. Ха-ха, хорошо хоть наш дорогой Архонт не забрал его обратно.
+
+### Душевные беседы: Праздник морских фонарей
+
+Ты знаешь, что многие из фейерверков, которые запускали во время Праздника морских фонарей в Ли Юэ, были куплены в нашей лавке? Я изготовила их на заказ, а потом попросила Бэй Доу доставить их в Ли Юэ. Указ Сакоку запрещает экспортировать такие товары, но... какой же праздник без фейерверков?
+
+### Душевные беседы: Цикличность
+
+«Когда последние искры фейерверков растворяются в небе, они превращаются в дождь и снег и вновь падают на землю, питая почву, насыщая человечество, чтобы в один прекрасный день им позволили снова взмыть в небеса и явить себя во всём своём великолепии». Из всех преданий, которые рассказывал мне отец, это моё любимое.
+
+### Душевные беседы: Островки света
+
+Тебе в детстве случалось ступать на островки света? Я имею в виду пятна света, которые появляются там, где пробивающиеся сквозь листву лучи озаряют землю. Когда-то я думала, что они исчезнут, если на них наступить, но стоило мне попытаться это сделать, и они запрыгивали мне на ноги. Я пыталась наступать на них снова и снова, но ничего не получалось... Вконец рассердившись, я уселась на камень и, вздохнув, подумала: «В этом мире есть вещи, которые нельзя затоптать...»
+
+### Интересные вещи...
+
+Как-то во время летнего праздника я присела рядом с детьми и наблюдала, как они ловят золотых рыбок. Вдруг меня посетила неожиданная мысль: «А что, если создать фейерверки, которые можно будет запускать на поверхности воды?». Так родился фейерверк «Золотые рыбки»! Он снуёт по воде вперёд-назад, выпускает разноцветные огни и даже пузырьки! Я и подумать не могла, что это и в самом деле сработает, но, видимо, в этом мире чудеса ещё случаются.
+
+### О Бэй Доу...
+
+Бэй Доу помогает мне вывозить фейерверки с тех самых пор, как Инадзума закрыла границы. Я создала громадный фейерверк в виде судна специально, чтобы удивить её. Когда флот Южного Креста уже собирался отчаливать, он взмыл в небо перед самыми их глазами! Матросы не на шутку перепугались - они решили, что одно из их судов каким-то чудом взлетело! Но Бэй Доу этот трюк очень понравился. Она сказала, что это было очень приятно и неожиданно - идеальный сюрприз.
+
+### О сёгуне Райдэн...
+
+Наверное, невозможно представить ничего более отдалённого от «вечности», к которой стремится сёгун, чем фейерверки. Полагаю, она считает, что их скоротечной красоте нет практического применения в Инадзуме. Вероятно, это одна из тех вещей, которые сложно понять тем, кто познал «вечность». А нам, смертным, просто необходимо почитать короткие мгновения красоты, ведь сама наша жизнь напоминает мимолётную тень.
+
+### О Камисато Аяке: Серьёзность
+
+Нам часто приходится работать вместе. Она не похожа на других членов комиссий - никогда не перебивает меня и отвечает серьёзно и терпеливо. Мне кажется, что слово «леди» придумали специально для неё.
+
+### О Камисато Аяке: Купальни
+
+Однажды мы обсуждали вопросы, связанные с праздником лета до поздней ночи. Поскольку мы очень утомились, мне показалось хорошей идеей сходить вместе в купальню. Когда она поняла, что ей предлагают искупаться в одном бассейне со множеством других людей, она тут же залилась румянцем. Оказалось, благородным леди нельзя ходить в общественные купальни.
+
+### О Томе...
+
+Он любит поговорить, но никогда и слова не скажет наобум. Иногда кажется, что между тем, что он говорит нет связи, но стоит ещё немного послушать, и всё складывается в единый замысел. Да... У нас совершенно разный подход к вещам. Когда у меня не получается решить какой-нибудь вопрос, я всегда зову его на помощь.
+
+### О Яэ Мико...
+
+Однажды во время обряда в храме, Аяка попросила меня изготовить фейерверки, чтобы порадовать леди Гудзи. Я с удивлением подумала: «Разве леди Гудзи не должна находиться в храме во время обряда?». Пока она шла, я глаз с неё не спускала, гадая, как же она собирается запускать фейерверки. Я всё ждала и ждала, ждала и ждала, пока ко мне наконец не подошла Аяка, чтобы сказать, что леди Гудзи осталась очень довольна фейерверками. Когда же она успела их запустить? Или это не она всё время сидела в храме?
+
+### Об Аратаки Итто: Дуэли
+
+Он может и выглядит устрашающе, но дети его очень любят. Впрочем, он обожает соревноваться. Каждый раз, когда мы играем с детьми, всё сводится к состязанию между мной и ним. Например, кто сможет за один присест приговорить тарелку рамэна или съесть кислую сливу и не скривиться. Дети подбадривают нас возгласами и пытаются угадать победителя. Разве могу я проиграть, когда такое дело?
+
+### Об Аратаки Итто: Банда Аратаки
+
+Банда Аратаки? Надо же! Так он вовсе не бездельник?
+
+### О Кадзухе...
+
+Такие беззаботные люди, как я, предпочитают говорить всё прямо, а те, кого что-то гложет, часто говорят о древней поэзии или красотах природы. Они обсуждают цветы и птиц, ветер и луну. Только о действительности, которая их окружает, они молчат. А ему есть что рассказать, не сомневаюсь.
+
+### О Кудзё Саре...
+
+Комиссия Тэнрё часто вызывает меня, чтобы зачитать лекцию по вопросам общественной защиты и противопожарной безопасности. Кудзё Сара, пожалуй, самая здравомыслящая из них. По крайней мере, она всегда готова меня выслушать прежде, чем сделать выводы. Если правда на моей стороне, она принимает мою точку зрения, а если нет... Хе-хе, тогда приходится привлекать Тому для извинений!
+
+### О Саю...
+
+Скажи мне, если увидишь её. Мне бы очень хотелось сводить её на какой-нибудь праздник и познакомить с новыми друзьями. Она всегда выглядит смурной, но если ей будет с кем провести время, она наверняка воспрянет духом.
+
+### О Кли...
+
+Хм! Говоришь, в Мондштадте есть маленькая девочка, которая отлично делает бомбы? Они не сильно отличаются от фейерверков, так что, возможно, у неё талант... С удовольствием бы с ней познакомилась. Но разве не опасно позволять детям играть со взрывчаткой? Жителей Мондштадта это не беспокоит?
+
+### Узнать больше о Ёимии I
+
+Хочешь расскажу кое-что? Хорошо, хорошо. Усаживайся здесь, а я расскажу тебе о том, чем горжусь больше всего - об истории семьи Наганохара! А я редко говорю о серьёзном, знаешь ли.
+
+### Узнать больше о Ёимии II
+
+В нашей семье есть давний обычай, по которому мы к каждому изготовленному на заказ фейерверку прилагаем записку. В ней изложена точная формула заказанного фейерверка, но её способна прочитать только наша семья. Мы можем изготовить точно такой же фейерверк спустя десятки или сотни лет, при условии что клиент принесёт нам эту записку.
+
+### Узнать больше о Ёимии III
+
+Самые прекрасные фейерверки сопровождают самые чудесные события. Неуловимые оттенки эмоций, которые так легко ускользают в небытие, запечатлеваются в наших фейерверках и передаются дальше в другом облике. Записки, которые мы оставляем нашим клиентам, подобны ключу к вратам, открыв которые можно отдать дань прошлому. Мы в Наганохаре - хранители этих врат.
+
+### Узнать больше о Ёимии IV
+
+Каждое мгновение праздника лета порождает трогательные истории. Познакомившиеся при свете фейерверков люди вырастают, взрослеют и, рано или поздно, стареют. Запуская фейерверки, под вспышками которых они начинали свой путь, люди могут снова увидеть небо, каким оно было для них много лет назад... Фейерверки не вечные, но я думаю, что чудесные эмоции, которые они вызывают, заслуживают того, чтобы вместе с Инадзумой войти в вечность.
+
+### Узнать больше о Ёимии V
+
+Последнюю историю я, пожалуй, рассказывать не буду. Давай лучше полюбуемся фейерверками в тишине. О прекрасном пейзаже, что нас окружает, и обо всём том, что хочешь сказать, можешь записать на бумаге. Нет-нет, я не говорю, что на этом всё заканчивается. Напротив, я думаю, что это лишь начало нашей истории...
+
+### Хобби Ёимии: Игры
+
+Фейерверки! Что, не считается? Тогда нужно подумать. Эм... Хороший вопрос. Мне нравится болтать с соседями, ходить с детьми на праздники, плавать, собирать дикие фрукты... Ох, не могу выбрать, что же мне нравится больше всего... Стой, я поняла! Я обожаю со всеми играть!
+
+### Хобби Ёимии: Подражание
+
+Буль-буль-буль... Ха! Это Паймон так делает, когда исчезает!
+
+### Проблемы Ёимии...
+
+Я наконец дочитала очень длинный роман. Закончилось тем, что его героиня потеряла память, а свадьба расстроилась... Как грустно!
+
+### Любимая еда...
+
+Мне десерты нравятся больше всего. Во время праздников я всегда ем на ходу, переходя от палатки к палатке. А ты умеешь готовить вкусные десерты? Давай поменяемся - я тебе дам данго, которое сама сделала. Бери вот эти, они покрупнее.
+
+### Нелюбимая еда...
+
+Молоко запускает настоящие фейерверки в моём желудке - бр-р-р, бабах! А вот блюда и десерты с добавлением молока таких проблем почему-то не вызывают. Наверное, фея, которая живёт у меня в животе, просто немного привередливая.
+
+### День рождения...
+
+День рождения - это не только твой праздник. Люди, которые дарят тебе торты, зажигают свечи, хлопают в ладоши, поздравляют тебя... Они действительно благодарны за то, что ты есть на свете. Поэтому отмечать этот день нужно весело и с гостями, чтобы у каждого была возможность выразить тебе свою благодарность! Так что с днём рождения тебя! Приготовься! Сейчас будет фейерверк!
+
+### Чувство возвышения: Начало
+
+Чем выше они летят, тем громче взрываются!
+
+### Чувство возвышения: Нарастание
+
+Ха-ха, дай-ка мне попробовать запустить фейерверк из лука прямиком в небо!
+
+### Чувство возвышения: Кульминация
+
+Я научилась у тебя стольким боевым навыкам, что мне уже можно подрабатывать искателем приключений, когда я не занята своей основной работой - изготовлением фейерверков... а может, мне и вовсе стать героем?
+
+### Чувство возвышения: Окончание
+
+«Отбросьте страх, Ёимия уже здесь! Долой зло! Справедливость восторжествует!»
+Как думаешь, детям понравится, если я так представлю способности, которым у тебя научилась? Классно, правда? Хе-хе. Если тебя кто-то будет донимать, ты мне скажи. Я за тебя заступлюсь!
+
+### Подарок I
+
+Ого, да у тебя настоящий талант готовить вкусные угощения! Тебе обязательно нужно открыть собственный киоск на фестивале. От клиентов отбоя не будет!
+
+### Подарок II
+
+Хорошая еда поднимает настроение, сразу тянет рассказывать истории. Кстати, я тут вспомнила одну неплохую, ну-ка послушай!..
+
+### Подарок III
+
+Ух, у меня словно призрак в животе завёлся... Так не должно быть...
+
+### О Кираре...
+
+Курьер из «Комании экспресс»? Она очень расторопна, и на неё всегда можно положиться. Когда я создаю пиротехнические смеси, у меня часто в самый неподходящий момент заканчиваются ингредиенты, отвечающие за цвет огней. Но она доставляет новую партию ровно тогда, когда требуется! В благодарность я как-то подарила ей готовый фейерверк. Вот только она побоялась его зажечь - сказала, что когда-то в прошлом её напугал звук салюта. Ха-ха, тогда я предложила ей отбежать подальше, чтобы я смогла запустить фейерверк для неё.
+
+## REPLICAS_EN
+
+### Elemental Skill: I
+
+Time for a light show!
+
+### Elemental Skill: II
+
+The fuse is lit!
+
+### Elemental Skill: III
+
+Fire hazard~
+
+### Elemental Burst: I
+
+A festive reprise!
+
+### Elemental Burst: II
+
+Goldfish of doom!
+
+### Elemental Burst: III
+
+Here come the fireworks!
+
+### Deploying Wind Glider: I
+
+Up, up, and away!
+
+### Opening Treasure Chest: I
+
+Ooh! Will we find any firework materials in here?
+
+### Opening Treasure Chest: II
+
+What do we have here?
+
+### Opening Treasure Chest: III
+
+Ooh, let me open it!
+
+### Low HP: I
+
+Uh-oh, uh-oh!
+
+### Low HP: II
+
+Oh, that hurt...
+
+### Low HP: III
+
+Gotta watch it...
+
+### Ally at Low HP: I
+
+I've come to help!
+
+### Ally at Low HP: II
+
+Never fear, Yoimiya's here!
+
+### Fallen: I
+
+Burned... too... brightly...
+
+### Fallen: II
+
+Ohh... fizzled out...
+
+### Fallen: III
+
+The festival... ends.
+
+### Light Hit Taken: I
+
+Lighter, please!
+
+### Heavy Hit Taken: I
+
+That didn't count!
+
+### Joining Party: I
+
+Are you going to hold a festival?
+
+### Joining Party: II
+
+Let's go out and play!
+
+### Joining Party: III
+
+More companions. Hooray!
+
+### Hello
+
+Welcome to Naganohara! My name is Yoimiya — just let me know if you need anything! We have Kushikatsu, Egg Roll... Wait, no, we're not a restaurant. We make fireworks! Like these, see? Sparkling, crackling, little fireworks~
+
+### Chat: Fireworks
+
+Fireworks are for now, but friends are forever.
+
+### Chat: Telling Stories
+
+If we've got nothing else to do, why don't I tell you a story?
+
+### Chat: Goldfish
+
+Have you ever kept goldfish as pets? They're very cute.
+
+### When It Rains
+
+Ahh, the fireworks are going to get soaked! Let's find shelter, quick! Oh, we're not going to make it!
+
+### When It Snows
+
+Haha, watch me make a snowball... pew!
+
+### When the Sun Is Out
+
+Ah, this is great! I feel so relaxed all over, I could almost float away.
+
+### When the Wind Is Blowing
+
+The wind's so strong—! It's blowing my voice back at me—! Hahaha...
+
+### Good Morning
+
+Ah... *yawns* Good morning. The morning air is the freshest. Come on, take a few extra breaths — it'll make you smarter~
+
+### Good Afternoon
+
+Time for lunch! ... Oh my, it's an egg with a double yolk. What wonderful luck!
+
+### Good Evening
+
+Now's the best time to test our fireworks out, though I'm sure they'll look good whether they explode in the sky or on the ground... Hehe, just kidding. I'll pay attention to safety.
+
+### Good Night
+
+Question time! So, what should you do after watching fireworks all day? Hehe, the answer is... to watch them again in your dreams, of course! Good night. See you tomorrow!
+
+### About Yoimiya: Family Matters
+
+My father's hearing isn't very good. When I was young, he would always smile no matter what I said to him, and so I thought that everything I said was correct. So I kept talking, and he would keep smiling. Later, I found out that he was smiling because he couldn't hear clearly, but... as long as he's truly happy, I'll keep talking to him.
+
+### About Yoimiya: Talking
+
+I don't worry about "loose lips sinking ships." The emotions contained in the words people say don't lie. Misunderstandings that arise from saying things wrongly can be resolved if you just talk more, but if you say nothing, the other person won't understand what you mean, and they can't get closer to you.
+
+### About Us: Rock, Paper, Scissors
+
+Let's have a game of rock paper scissors! On my count, now — rock, paper, scissors! Woohoo, I won! I won! ... Hmm? I didn't change my choice halfway. Why would I ever do that?
+
+### About Us: Companionship
+
+It actually doesn't matter what I do. What matters are the people I work with. When I'm with you, even simple things like watching the scenery or kicking a small jar about make me happy. Talking to you never gets old, after all.
+
+### About the Vision
+
+Let me let you in on a little secret. When I first received my Vision, I used it as a flint to light fireworks and boil water, before returning home, chucking it into a storeroom, and forgetting all about it. In the end, it was my father who found it and told me that it was a precious item that I should keep safe. Haha, at least it didn't get taken back by our dear Archon.
+
+### Something to Share: Lantern Rite
+
+Did you know? A lot of the fireworks used during Liyue's Lantern Rite were purchased from our shop. I made them to order before asking Beidou to ship them to Liyue. Exports like these aren't allowed under the Sakoku Decree, but... How can there be festivals without fireworks?
+
+### Something to Share: Cycles
+
+"When the last sparks of the fireworks have disappeared into the sky, they turn into rain and snow, and will fall upon the earth again, nourishing the land and nurturing humanity, so that someday they can be sent up into the sky again and display their magnificence." Of the many stories my father told me, this one is my favorite.
+
+### Something to Share: Spots of Light
+
+Did you ever try to step on a spot of light before as a child? You know, those patches on the ground created when the sunlight passes through the leaves. I once thought that it would disappear if I stepped on it, but it would always jump onto my foot instead. I tried and tried and tried, but I never succeeded... Quite the sore loser I was, then — sitting on a rock, sighing to myself and thinking, "Ah, so there are things in this world that can't be stepped on..."
+
+### Interesting Things
+
+While squatting next to some children and watching them catch goldfish during one summer festival, I suddenly had a thought: could I make fireworks that could go off on the surface of the water? Thus, the "Goldfish Fireworks" were born! They can swim here and there, emit multi-colored lights, and they can even spit bubbles! I never thought that it would actually work, but I guess wonders never cease.
+
+### About Beidou
+
+Beidou's been helping me ship my fireworks out ever since Inazuma was locked down. I prepared a huge boat-shaped firework just to surprise her — and when the Crux Fleet was about to leave, this firework went whoosh! Right in front of their eyes, straight into the sky. The sailors got such a huge fright — they thought one of their ships had somehow flown off! But Beidou liked that trick very much, saying that it was exactly what a pleasant surprise should be — very pleasant, and a surprise.
+
+### About the Raiden Shogun
+
+Fireworks are probably the furthest thing from the "eternity" that the Shogun pursues. She probably feels that their transient glory has no practical purpose in Inazuma. *sigh* It's probably something that one who has "eternity" in their grasp will find hard to comprehend. It is precisely because we mortals are like fleeting shadows that we need to treasure such flickers of beauty.
+
+### About Kamisato Ayaka: Seriousness
+
+We cooperate a lot due to work. Unlike people in the other two Commissions, she always lets me finish speaking and answers me seriously without showing any impatience. I'd say that the word "ladylike" was practically made just for her.
+
+### About Kamisato Ayaka: Baths
+
+We once discussed matters concerning the summer festival deep into the night. We were both really tired, and I invited her to go take a bath. But when she heard that it involved many people bathing in the same pool, she went red in an instant! That was when I first learned that noble ladies can't use public baths.
+
+### About Thoma
+
+He's quite the talker and has reasons behind every word that he says. Sometimes, it might seem like there's no connection, but as he goes on, everything will eventually dovetail nicely towards a single purpose. It's... quite different from how I do things. I ask him for help whenever I encounter a matter I can't settle.
+
+### About Yae Miko
+
+Ayaka once asked me during a ritual at the shrine if I could prepare some fireworks for the Lady Guuji's leisure. I thought to myself, "isn't the Lady Guuji supposed to sit inside the shrine throughout the ritual?" So I watched her the whole time during the ritual, wondering how she'd like to release fireworks. I waited, and I waited, and then Ayaka came over at length to tell me that the Lady Guuji was most pleased. I mean, what? She'd already released the fireworks? Was the person sitting inside the shrine not her, then?
+
+### About Arataki Itto: Duels
+
+Oh, he may look scary, but he is very popular with the children. However, he can be very competitive. Every time we play with the children, it always turns into a showdown between him and me. For example, we'd drink a bowl of ramen soup in one go, or try to eat sour plums without making any faces. The children will cheer us both on and try to guess the winner. And when that happens... well, then I can't let him beat me, right?
+
+### About Arataki Itto: Arataki's Gang
+
+Arataki's gang? Huh!? So he isn't just someone with too much free time on his hands?
+
+### About Kaedehara Kazuha
+
+People with no worries like myself speak plainly, while those with many cares often speak of ancient poetry or the scenery. They talk of flowers and birds, wind and moon, but never about the reality that confronts them. He's got quite the tale to tell, I'm sure.
+
+### About Kujou Sara
+
+Due to public safety and fire hazard-related concerns, I often get whisked off to the Tenryou Commission's place for a lecture. Kujou Sara's probably the most reasonable of the bunch. At least she'll hear me out before passing any judgment. If I'm in the right, she'll acknowledge my perspective, and if I'm wrong... Hehe, then I'll get Thoma to come and help me apologize to her!
+
+### About Sayu
+
+Let me know if you see her, alright? I'd really love to take her to one of the festivals and introduce her to lots of new friends. She always looks a little down, but if she meets some people she can hang out with, maybe she'll slowly pick herself up again!
+
+### About Klee
+
+Wait, you said there was a kid in Mondstadt who was good at making bombs?... Now, they aren't much different from fireworks. In other words, she might be a genius... Ohh, I'd love to meet her. *sigh* But isn't it dangerous to let children play with explosives? Don't the people of Mondstadt worry about that?
+
+### More About Yoimiya: I
+
+You wanna hear a story? Alright, alright. Sit here, and I shall tell you the story I'm most proud of — the story of the Naganohara family! You'll rarely ever hear me talk about something this serious, you know?
+
+### More About Yoimiya: II
+
+Our family has a long tradition in which we will give every client who orders customized fireworks a note. Its contents can only be understood by our family, and it records the specific formula of the fireworks that were ordered. Whether ten years or a hundred years pass, our family can make exactly the same fireworks as they did in the past so long as the client brings us that note.
+
+### More About Yoimiya: III
+
+The loveliest fireworks go along with the most wondrous moments. Tiny little emotions that can easily slip away are captured within these fireworks and passed down in a different form. The notes we give our clients are like a key that awaits those who wish to open a gate to commemorate the past. We at Naganohara are the keepers of that gate.
+
+### More About Yoimiya: IV
+
+Every moment of the summer festival is a moving tale. Those who meet under the light of fireworks grow up, mature, and grow old. When they set off the same fireworks as they did in the beginning, the skies reflect that same image from years ago... Fireworks are not eternal, but I believe that the wonderful emotions behind them should walk alongside Inazuma into eternity.
+
+### More About Yoimiya: V
+
+I shan't tell the final tale, I think. Instead, let's watch the fireworks together in silence. You can record the beautiful scenery and all the things you wanna say down. Not that this is the end, of course. On the contrary, I believe that our story is only just beginning.
+
+### Yoimiya's Hobbies: Playing
+
+Fireworks! Wait, that doesn't count? Well then, let me think. Um... This one's a toughie. I like to chat with the neighbors, I like going to summer festivals with the children, swimming, picking wild fruits... Oh, I can't decide which I like most... Wait, I've got it! I love playing with everyone!
+
+### Yoimiya's Hobbies: Copycat
+
+*Blubbering noises* Hah! I'm copying the sound that Paimon makes while disappearing!
+
+### Yoimiya's Troubles
+
+The novel that I've been reading for a while finally reached its end. But the heroine lost her memory, and the planned wedding fell through... That's so... sad...
+
+### Favorite Food
+
+I prefer snacks to entrees. I always go from stall to stall during festivals, eating as I go. By the way, are you any good at making snacks? I'll trade the dango I made with you. Here, have the big ones!
+
+### Least Favorite Food
+
+Ugh... Milk never fails to start some real fireworks in my stomach — crackle, kaboom! Y'know what I mean? But I can handle dishes and snacks made with milk for some reason, hmm. Maybe the little Seelie in my stomach is just pickier than most.
+
+### Birthday
+
+Birthdays are never occasions for yourself alone. Those who send you cakes, light candles, applaud, and cheer... They are all truly thankful that you were born into this world. That's why it must be a lively occasion, so that everyone can get their chance to thank you! Well then — happy birthday! Are you ready? I'm about to ignite the fireworks!
+
+### Feelings About Ascension: Intro
+
+The higher they fly, the louder the explosion!
+
+### Feelings About Ascension: Building Up
+
+Hehehe, let me give this "shooting fireworks straight into the skies with a bow" business a shot!
+
+### Feelings About Ascension: Climax
+
+With all these combat skills I've learned from you, I should just become an adventurer on the side — apart from my day job making fireworks... Or... should I just become a hero instead?
+
+### Feelings About Ascension: Conclusion
+
+"Never fear, Yoimiya is here! Evil begone! Justice prevails!"
+Think this is a good way to introduce the powers you've taught me to the children? Isn't it cool? Hehe! Hey, tell me if anyone picks on you, too. I'll stick up for you!
+
+### Receiving a Gift: I
+
+Wow, you've got a real knack for making tasty treats! You should totally set up a stall at a festival some time, oh it'd be a hit for sure!
+
+### Receiving a Gift: II
+
+Good food really perks you up, and puts you in the mood to share some stories. Ooh, actually I got a good one, you've gotta hear this one...!
+
+### Receiving a Gift: III
+
+Urgh, it feels like there's a Specter swirling around in my stomach... That can't be ideal.
+
+### About Kirara
+
+The courier from Komaniya Express? She's super reliable and really quick on her feet! Ingredients used in coloring the fireworks always run out quickly, but she always delivers a new batch right when I need them! I gave her a firework once as a thank-you gift, but she was too scared to light it, saying that she got spooked once by the sound of fireworks. Hehe, so I told her to find a nice viewing spot far away and set it off for her.
+
+## REPLICAS_ZH
+
+### 元素战技·其一
+
+想看烟花吗？
+
+### 元素战技·其二
+
+点燃引信！
+
+### 元素战技·其三
+
+小心火烛~
+
+### 元素爆发·其一
+
+祭典重现！
+
+### 元素爆发·其二
+
+金鱼来啦！
+
+### 元素爆发·其三
+
+烟花来喽！
+
+### 打开风之翼·其一
+
+飞高高啦——
+
+### 打开宝箱·其一
+
+会有烟花材料吗？
+
+### 打开宝箱·其二
+
+里面有什么呢？
+
+### 打开宝箱·其三
+
+我来开我来开！
+
+### 生命值低·其一
+
+不妙不妙！
+
+### 生命值低·其二
+
+出丑了啊…
+
+### 生命值低·其三
+
+得小心起来了啊。
+
+### 同伴生命值低·其一
+
+换我来支援你！
+
+### 同伴生命值低·其二
+
+别担心，有我在。
+
+### 倒下·其一
+
+一不小心就…
+
+### 倒下·其二
+
+玩过头了…
+
+### 倒下·其三
+
+祭典…结束了。
+
+### 普通受击·其一
+
+轻点啊。
+
+### 重受击·其一
+
+这下不算！
+
+### 加入队伍·其一
+
+你想办祭典吗？
+
+### 加入队伍·其二
+
+一起去玩吧！
+
+### 加入队伍·其三
+
+同行的伙伴增加了！
+
+### 初次见面…
+
+欢迎光临「长野原」！我叫宵宫，有什么需要的都可以告诉我！
+呃…「什锦炸串」和「鸟蛋烧」…不不不，我们家不是饭店啦，是做烟花的！嗯，就是这个，闪闪亮亮，啪啦啪啦的，小烟花~
+
+### 闲聊·烟花
+
+烟花易逝，人情长存。
+
+### 闲聊·讲故事
+
+没事做的话，我来给你讲故事吧！
+
+### 闲聊·金鱼
+
+你养过金鱼吗？很乖巧很可爱哦。
+
+### 下雨的时候…
+
+呜哇，烟花要湿透了！得找地方躲躲，啊，要来不及了！
+
+### 下雪的时候…
+
+哈哈，看我搓个雪球，咻——
+
+### 阳光很好…
+
+全身上下都暖暖的，好舒服啊。嗯，感觉要飘起来了。
+
+### 刮大风了…
+
+风好大啊——声音都被吹回来啦——！
+
+### 早上好…
+
+啊——早上好啊，早上的空气最新鲜啦，多吸两口就会变聪明哦。
+
+### 中午好…
+
+嗯，该吃午饭啦，欸…今天的鸡蛋，是双黄蛋呢。嘿嘿，运气真好。
+
+### 晚上好…
+
+现在是最适合测试烟花效果的时间，无论是在天上还是地上炸开都会很好看。嘿嘿，开玩笑的，我会注意安全啦。
+
+### 晚安…
+
+提问时间——！请问，当看完一整天的烟花之后，接下来要做什么？嘿嘿，答案揭晓：当然是去梦里看烟花啦！晚安，明天见。
+
+### 关于宵宫自己·家事
+
+我的老爹耳朵不太好，小时候我无论对他说什么，他都是一副笑呵呵的样子，我就以为我说的都是对的，所以就一直说，一直说，他就一直笑。后来我才知道他笑是因为他听不清楚，但…只要他真的很开心，那我还是会一直说给他听。
+
+### 关于宵宫自己·说话
+
+我不担心什么「祸从口出」，因为蕴含在语言中的情感是不会骗人的。就算说错话被误会，用更多的话去化解就好，但如果什么都不说，对方就没办法了解你的心意，也就没有和你拉近关系的契机了。
+
+### 关于我们·猜拳
+
+我们来玩石头剪刀布吧！听我口令：石头，剪刀，布！好欸，我赢了！我赢了！嗯？我没变啊，才不会变呢。
+
+### 关于我们·陪伴
+
+其实我不在意我要做什么事，我更在意的是和我一起做事的人。比如和你在一起，就算只是看看风景，踢踢罐子，我都很开心。因为，跟你说话怎么都说不腻嘛。
+
+### 关于「神之眼」…
+
+悄悄告诉你一件事哦，我刚刚拿到「神之眼」的时候，我是把它当打火石来用的。我用它点过烟花烧过水，回家就把它往库房一扔不管了。结果，还是我老爹发现，告诉我这是个特别珍贵的东西，要好好保管。哈哈…幸好没有被神明大人收回去。
+
+### 有什么想要分享·海灯节
+
+你知道吗？璃月的海灯节，有很多烟花都是从我们家订购的。我按照要求做好，再找北斗阿姊用船送去璃月。虽然按锁国令的规矩，我不该把这些东西往外送，但…有节日的地方，烟花一定不能缺席。
+
+### 有什么想要分享·循环
+
+「烟花在天空中留下的光点消失之后，会变成雨，会变成雪，重新落到地上。它们滋润了大地，抚育了人类，为的是再一次被送上天空，重现华丽的瞬间。」在老爹讲的很多很多故事里，这是我很喜欢的一个。
+
+### 有什么想要分享·光斑
+
+你小时候踩过地上的光斑吗？就是阳光很好的时候，光线穿过树叶在地上留下的那种光斑。本来以为踩了就会消失，结果它总是会跳到脚背上，我就一直踩，一直踩，试了好久也没成功。那时候挺不甘心的，坐在小石头上叹气，「唉，这个世界上居然有踩不到的东西啊…」
+
+### 感兴趣的见闻…
+
+有一次夏日祭，我蹲在孩子们旁边看他们捞金鱼的时候，我突然想，有没有可能做出一种能在水上放的烟花呢？然后，「金鱼烟花」就诞生了！能在水面上游来游去，能发出七彩的光，还能吐泡泡呢，很不可思议吧！…我也没想到我真的能成功，但这个世界上就是有很多很多不可思议的事呢。
+
+### 关于北斗…
+
+稻妻锁国之后，都是北斗阿姊帮我运烟花出去，为了给她一个惊喜，我准备了一个巨大的船型烟花。在「南十字船队」准备离开的时候，这烟花就在他们眼前冲了出去，直飞天空。船员们都以为是船队的船飞出去了，吓了一大跳，但北斗阿姊特别喜欢这个创意。她告诉我，惊喜惊喜，就是要又惊又喜，哈哈。
+
+### 关于雷电将军…
+
+烟花是和将军追求的「永恒」距离最远的东西，她可能觉得须臾的华光对于稻妻来说没有实际意义。唉，这就是执掌「永恒」的人难以理解的东西吧，正是因为我们都是「须臾之人」，才更需要纪念须臾的美好。
+
+### 关于神里绫华·认真
+
+因为工作关系，她和我家有很多合作。和其他两个奉行的人不同，她每次都会听我把话说完，还会很认真地回答我，完全不会有不耐烦的样子。嗯，「大家闺秀」这个词，就是为她而生的吧。
+
+### 关于神里绫华·泡澡
+
+有一次谈夏日祭的事谈到很晚，我们都很累了，我就邀请她去泡澡解乏。但她听说「泡澡」是很多人泡在同一个池子里的时候，脸一下子就红了，那时候我才意识到，大小姐是不能使用公共浴场的。
+
+### 关于托马…
+
+他是个很擅长说话的人，话从他的嘴里说出来，就一定会有他的想法。虽然看似没什么联系，但绕着绕着，最后都巧妙地指向了同一个目的。嗯…总之就是和我的风格完全不一样啦，遇到我搞不定的事，我就会请他出马。
+
+### 关于八重神子…
+
+有次神社祭典，绫华问我能不能为宫司大人准备玩乐用的烟花。可是…宫司大人不是要出席祭典，全程坐在神社里吗？然后我祭典的时候就一直看着她，想知道她要怎么放烟花。我等啊等，等啊等，结果等来了绫华，说宫司大人特别满意…欸？她已经放过了？难道，坐在里面的不是她？
+
+### 关于荒泷一斗·对决
+
+哦，他呀。别看他长得那么凶，他很受小孩子欢迎的。不过他的胜负心很强，每次我们一起陪孩子们玩，最后都会变成我和他一决胜负，比如一口气喝完拉面汤，面无表情吃酸梅什么的，孩子们会猜我们谁会赢，还会在旁边加油助威，哎呀，那我可不能输了，对吧？
+
+### 关于荒泷一斗·帮派
+
+「荒泷派」？欸？！原来他不是无所事事的人呐？
+
+### 关于枫原万叶…
+
+像我这样没有心事的人，就喜欢有话直说。而有心事的人，往往都喜欢说古代的诗歌或者沿途的风景，比如花与鸟，风与月，唯独不提眼前的现实。他也是有故事的人吧。嗯，我懂的，我懂的。
+
+### 关于九条裟罗…
+
+因为治安和消防问题，我经常被抓去天领奉行的属地接受教育。在那帮人里，九条裟罗应该是最讲道理的一个了，至少她不会在了解情况之前就预设我的对错。如果我是正确的，她也会认同我的观点，如果我错了…嘿嘿，那就去拜托托马帮我赔礼道歉。
+
+### 关于早柚…
+
+如果你见到她，记得告诉我哦？我很想带她去参加祭典，给她介绍很多很多新朋友。因为我看她平时精神不是太好，如果认识一些能玩在一起的人，她应该就会慢慢活泼起来吧。
+
+### 关于可莉…
+
+嗯？你说在蒙德有个擅长制作炸弹的小孩子？唔，炸弹和烟花其实相差不大，也就是说，她是这方面的天才？真想见上一面呐。欸，但是…让小孩子玩炸弹很危险吧？蒙德人不会担心吗？
+
+### 想要了解宵宫·其一
+
+要听我讲故事啊？好呀好呀，这边坐，我给你讲讲最让我自豪的、「长野原」家的故事吧！是难得的正经话题哟。
+
+### 想要了解宵宫·其二
+
+我们家有项悠久的传统，那就是我们会给每一位来定做烟花的客人附赠一张纸条，这张纸条只有我们家的人能看懂，上面记录了烟花的具体配方。不管是过去了十年还是一百年，只要客人能把这张纸条带回来，我们家就能做出和当年完全相同的烟花。
+
+### 想要了解宵宫·其三
+
+最美的烟花配最棒的瞬间。那些易逝的小心情就这么被封装在烟花里，以另一种形式传承下去。纸条就像一把钥匙，等待想要纪念过去的人来开门。那么，「长野原」烟花匠人的工作，就是帮大家把门看好。
+
+### 想要了解宵宫·其四
+
+夏日祭上每时每刻都在诞生动人的故事，在烟花下相识相知的人们慢慢成长，成熟，最终老去。当他们放起如初的烟花，天空中倒映出的依然是他们如初的模样…烟花不是永恒的，但藏在烟花背后的美妙情感，我觉得应该和稻妻一起走向永恒。
+
+### 想要了解宵宫·其五
+
+最后的故事，就不由我来讲了吧，我很想和你静静看一场烟花，把今夜的美景，还有你想说的话全部记录下来。啊，不要误会，不是到此为止的意思，而是关于我们的「故事」，从此才要开始。
+
+### 宵宫的爱好·玩耍
+
+烟花！啊，这个不算吗？那我想想，唔…这个问题好难啊，我喜欢和邻居聊家常，也喜欢和小孩子一起逛夏日祭、游泳、摘野果，好像没办法挑一个特殊的出来…哦，我懂了！我喜欢的，应该就是和大家一起玩吧！
+
+### 宵宫的爱好·模仿
+
+咕噜咕噜咕噜，嘿！哈哈，我在学派蒙消失的动作。
+
+### 宵宫的烦恼…
+
+嗯，我追读了好长时间的小说，终于迎来了大结局，结果女主角失忆了，说好的婚礼也没办成…好难过，怎么这样！
+
+### 喜欢的食物…
+
+比起主食，我更喜欢吃点心，每次祭典的时候我都会一家一家吃过去，直到吃不下为止。对了，你擅长做点心吗？我拿我做的团子和你换，这几个大的都给你。
+
+### 讨厌的食物…
+
+牛奶。喝了牛奶的话肚子里面就像开烟花会一样，噼里啪啦的。但加了牛奶的菜或者点心我可以吃，我也不知道为什么。可能是肚子里的小仙灵比较挑食？
+
+### 生日…
+
+生日从来都不是你一个人的节日哦，愿意为你送蛋糕，点蜡烛，鼓掌欢呼的人，都发自真心地感谢你能够降生在这个世界上。所以，一定要热热闹闹的才好，让所有人都有感谢你的机会！那么，生日快乐！准备好了吗？我要放烟花了！
+
+### 突破的感受·起
+
+飞得更高，炸得更响！
+
+### 突破的感受·承
+
+哈哈，我来试试看，直接用弓箭把烟花送上天空吧！
+
+### 突破的感受·转
+
+难得从你这里学到了这么多战斗技巧，干脆除了烟花工匠之外，我再去兼职当冒险家好了，或者…「英雄」也不错？
+
+### 突破的感受·合
+
+「『英雄形态』的宵宫姐姐登场！邪恶退散！正义必胜！」
+就这么和小孩子们介绍你教给我的新力量，没问题吧？应该很帅吧。嘿嘿，如果有人欺负你也要告诉我哦，宵宫姐姐帮你出头！
+
+### 收到赠礼·其一
+
+哇，你做点心的手艺很不一般啊！去祭典上摆摊的话，肯定会成为最热门的那一个吧！
+
+### 收到赠礼·其二
+
+吃到了好吃的东西，人就会变得很有精神。一有精神，就想开始讲故事。嗯，我来挑个故事吧！
+
+### 收到赠礼·其三
+
+哎呀，肚子里面好像有飘浮灵在上下闹腾…这不应该呀…
+
+### 关于绮良良…
+
+你说「狛荷屋」的那位快递员呀，她手脚可麻利啦。做烟花的时候，时常有一两种决定颜色的材料消耗得比别的都快，这种时候，她总能很快补来新货，帮了大忙。有次我送了她一个烟花，想要表达感谢。她却怎么也不敢放，说是之前被烟花的动静吓到过。哈哈，那就只好让她跑到远远的地方，我来放给她看喽。

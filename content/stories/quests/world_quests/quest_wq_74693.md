@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 74693
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74693
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_revelation
 
 # quest_series_ru: Пророчество ведьмы
+# game_source_ids: 74693
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 30
 
 ## RU
 
@@ -44,11 +47,19 @@
 
 **Сайно:** Понятно. Чтобы получить карты с красивой рубашкой и играть сильными картами, нужно заплатить определённую цену. Понимаю.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Думаю, ты вообще ничего не понял.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Я тоже...
 
+##### Вариант ответа 3
+
 - **Путешественник:** Ты пришёл сюда сыграть в карты?
+
+##### Общее продолжение
 
 **Паймон:** Эй! Ты же не знаешь, зачем Сайно здесь! Может, он пришёл, чтобы...
 
@@ -76,11 +87,11 @@
 
 **Сайно:** Итак, моя очередь!
 
-*Сайно делает глубокий вдох, принимает эффектную позу и тянет карту...*
+Сайно делает глубокий вдох, принимает эффектную позу и тянет карту...
 
 **Барбелот:** Перевёрнутая «Умеренность»... Неудивительно, что именно ты, генерал махаматра Академии Сумеру, вытянул её.
 
-Ты слышала о Сайно?
+- **Путешественник:** Ты слышала о Сайно?
 
 **Барбелот:** Алиса несколько раз упоминала его. Ей кажется забавным, что в такой чопорной и старомодной Академии есть генерал махаматра с развитым чувством юмора.
 
@@ -122,9 +133,15 @@
 
 **Барбелот:** Когда это произойдёт, борьба внутри тебя тоже должна подойти к решающему завершению.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Сайно не проиграет.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Сайно самый сильный.
+
+##### Общее продолжение
 
 **Сайно:** Спасибо, Путешественник, Паймон.
 
@@ -132,17 +149,33 @@
 
 **Паймон:** ...А? Что за бред? Подожди, неужели...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Опять?!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Он придумал ещё одну.
 
+##### Вариант ответа 3
+
 - **Путешественник:** Барбелот, пожалуйста, не...
+
+##### Общее продолжение
 
 **Барбелот:** ...Какое отношение это имеет к крепости Меропид?
 
 **Сайно:** Потому что это...
 
 **Сайно:** Аркан побега из тюрьмы.
+
+#### Послушайте историю Сайно...
+
+#### Послушайте историю Сайно...
+
+#### Выслушайте историю Сайно...
+
+#### Покиньте историю
 
 ## EN
 
@@ -162,11 +195,19 @@ You encounter Cyno at Barbeloth's fortune-telling booth...
 
 **Cyno:** Mm, I see. Obtaining beautiful card backs and playing powerful cards both require a certain price. I think I understand.
 
+##### Response branch 1
+
 - **Traveler:** I don't think you do...
+
+##### Response branch 2
 
 - **Traveler:** I don't think I do...
 
+##### Response branch 3
+
 - **Traveler:** You came all this way to play cards?
+
+##### Shared continuation
 
 **Paimon:** Hey! You don't know why Cyno's here! Maybe he came here to—
 
@@ -194,11 +235,11 @@ You encounter Cyno at Barbeloth's fortune-telling booth...
 
 **Cyno:** And now it's my turn to draw...!
 
-*Cyno takes a deep breath, makes a stylish pose, and draws a card...*
+Cyno takes a deep breath, makes a stylish pose, and draws a card...
 
 **Barbeloth:** Ah, reversed Temperance. A fitting card for the "General Mahamatra" of the Sumeru Akademiya.
 
-You already know who Cyno is?
+- **Traveler:** You already know who Cyno is?
 
 **Barbeloth:** Alice mentioned him a few times. She finds it funny that the stuffy old Akademiya has a General Mahamatra with such a "well-developed" sense of humor.
 
@@ -240,9 +281,15 @@ You already know who Cyno is?
 
 **Barbeloth:** When it does, the battle within you should also reach a decisive end.
 
+##### Response branch 1
+
 - **Traveler:** Cyno won't lose.
 
+##### Response branch 2
+
 - **Traveler:** Cyno's the strongest.
+
+##### Shared continuation
 
 **Cyno:** Thank you, Traveler and Paimon.
 
@@ -250,17 +297,33 @@ You already know who Cyno is?
 
 **Paimon:** ...Huh? Why would you... Wait, was that...
 
+##### Response branch 1
+
 - **Traveler:** Oh no, not again!
+
+##### Response branch 2
 
 - **Traveler:** He's come up with another one.
 
+##### Response branch 3
+
 - **Traveler:** Barbeloth, don't ask—
+
+##### Shared continuation
 
 **Barbeloth:** ...What does this have to do with acting crazy?
 
 **Cyno:** Because now I have this card...
 
 **Cyno:** ...People might accuse me of being a bona-fide "Lunar-tic"!
+
+#### Listen to Cyno's story...
+
+#### Listen to Cyno's story
+
+#### Finish listening to Cyno's story
+
+#### Leave the story
 
 ## ZH
 
@@ -280,11 +343,19 @@ You already know who Cyno is?
 
 **赛诺:** 好吧，拿到好看的牌背和使用强力的卡牌都需要付出代价，我明白的。
 
+##### 对话分支 1
+
 - **旅行者:** 你根本没明白。
+
+##### 对话分支 2
 
 - **旅行者:** 我根本不明白！
 
+##### 对话分支 3
+
 - **旅行者:** 你怎么来这里打牌了？
+
+##### 共同后续
 
 **派蒙:** 喂！你根本什么也没问，直接就说出原因了吗？说不定赛诺是来…
 
@@ -312,11 +383,11 @@ You already know who Cyno is?
 
 **赛诺:** 那么，到我的回合了，抽牌…！
 
-*赛诺深吸一口气，用帅气的姿势抽出了卡牌…*
+赛诺深吸一口气，用帅气的姿势抽出了卡牌…
 
 **芭比洛斯:** 是逆位的「节制」啊，被你这位须弥教令院的「大风纪官」抽到，倒是不出所料。
 
-你之前听说过赛诺？
+- **旅行者:** 你之前听说过赛诺？
 
 **芭比洛斯:** 艾莉丝和我提起过几次，说古板的教令院，居然有这么一位富有幽默感的「大风纪官」，真是有趣。
 
@@ -358,9 +429,15 @@ You already know who Cyno is?
 
 **芭比洛斯:** 在那个时候，你内心的鏖战，应该也会走向最终的决战。
 
+##### 对话分支 1
+
 - **旅行者:** 赛诺不会输的。
 
+##### 对话分支 2
+
 - **旅行者:** 赛诺是最强的。
+
+##### 共同后续
 
 **赛诺:** 谢谢你，旅行者，派蒙。
 
@@ -368,14 +445,30 @@ You already know who Cyno is?
 
 **派蒙:** …哈？怎么莫名其妙的，等一下，难道说——
 
+##### 对话分支 1
+
 - **旅行者:** 怎么又来了！
+
+##### 对话分支 2
 
 - **旅行者:** 转换得好快！
 
+##### 对话分支 3
+
 - **旅行者:** 芭比洛斯女士，您不要——
+
+##### 共同后续
 
 **芭比洛斯:** …这和梅洛彼得堡有什么关系？
 
 **赛诺:** 因为这是…
 
 **赛诺:** 「越狱」圣牌。
+
+#### 聆听赛诺的故事…
+
+#### 聆听赛诺的故事
+
+#### 听完赛诺的故事
+
+#### 离开故事

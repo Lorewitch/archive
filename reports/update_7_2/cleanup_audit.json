@@ -1,0 +1,368 @@
+{
+  "removed": [
+    {
+      "path": "archive",
+      "bytes": 172261143,
+      "reason": "Unreferenced nested duplicate of the old project; no build, route or source imports archive/."
+    },
+    {
+      "path": "content/items/misc/item_121633.md",
+      "bytes": 892,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/misc/item_121734.md",
+      "bytes": 889,
+      "reason": "Food/drink remained in misc; excluded rather than moved to another category."
+    },
+    {
+      "path": "content/items/misc/item_121643.md",
+      "bytes": 768,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/misc/item_121641.md",
+      "bytes": 763,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/misc/item_121413.md",
+      "bytes": 1158,
+      "reason": "Food/drink remained in misc; excluded rather than moved to another category."
+    },
+    {
+      "path": "content/items/misc/item_121636.md",
+      "bytes": 918,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/misc/item_121733.md",
+      "bytes": 893,
+      "reason": "Food/drink remained in misc; excluded rather than moved to another category."
+    },
+    {
+      "path": "content/items/misc/item_121720.md",
+      "bytes": 1135,
+      "reason": "Food/drink remained in misc; excluded rather than moved to another category."
+    },
+    {
+      "path": "content/items/misc/item_121732.md",
+      "bytes": 930,
+      "reason": "Food/drink remained in misc; excluded rather than moved to another category."
+    },
+    {
+      "path": "content/items/misc/item_121635.md",
+      "bytes": 782,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/misc/item_118014.md",
+      "bytes": 2476,
+      "reason": "Food/drink remained in misc; excluded rather than moved to another category."
+    },
+    {
+      "path": "content/items/misc/item_121639.md",
+      "bytes": 942,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/misc/item_121640.md",
+      "bytes": 1033,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/misc/item_121634.md",
+      "bytes": 801,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/misc/item_121642.md",
+      "bytes": 1047,
+      "reason": "Snowman decoration accessory; no lore narrative, excluded from new content."
+    },
+    {
+      "path": "content/items/food_potions",
+      "bytes": 1,
+      "reason": "Unused empty category is absent from the original menu."
+    },
+    {
+      "path": "assets/icons/items/food_potions/item_108985.webp",
+      "bytes": 18108,
+      "reason": "No references from current content, JS, CSS, index or manifest; UI dynamic icons preserved."
+    },
+    {
+      "path": "assets/icons/items/food_potions/item_108988.webp",
+      "bytes": 14604,
+      "reason": "No references from current content, JS, CSS, index or manifest; UI dynamic icons preserved."
+    },
+    {
+      "path": "assets/icons/items/food_potions/item_108997.webp",
+      "bytes": 18832,
+      "reason": "No references from current content, JS, CSS, index or manifest; UI dynamic icons preserved."
+    },
+    {
+      "path": "assets/icons/items/misc/item_118014.webp",
+      "bytes": 19826,
+      "reason": "No references from current content, JS, CSS, index or manifest; UI dynamic icons preserved."
+    },
+    {
+      "path": "assets/icons/items/misc/item_121643.webp",
+      "bytes": 11886,
+      "reason": "No references from current content, JS, CSS, index or manifest; UI dynamic icons preserved."
+    },
+    {
+      "path": "assets/icons/items/misc/item_121720.webp",
+      "bytes": 8492,
+      "reason": "No references from current content, JS, CSS, index or manifest; UI dynamic icons preserved."
+    }
+  ],
+  "source_code": "All 13 JS modules and their named functions are referenced. Build tools, CI, PWA source and both Alter indexes retained; no speculative code deletion.",
+  "scope": "Five public inventory groups only. Removed misc, useful_items and serenitea_pot by explicit user instruction.",
+  "inventory_cleanup": [
+    {
+      "path": "assets/icons/items/misc/item_107032.webp",
+      "bytes": 9702
+    },
+    {
+      "path": "assets/icons/items/misc/item_107035.webp",
+      "bytes": 16238
+    },
+    {
+      "path": "assets/icons/items/misc/item_107036.webp",
+      "bytes": 9992
+    },
+    {
+      "path": "assets/icons/items/misc/item_107037.webp",
+      "bytes": 13364
+    },
+    {
+      "path": "assets/icons/items/misc/item_121411.webp",
+      "bytes": 14304
+    },
+    {
+      "path": "assets/icons/items/misc/item_121412.webp",
+      "bytes": 7458
+    },
+    {
+      "path": "assets/icons/items/misc/item_121442.webp",
+      "bytes": 10958
+    },
+    {
+      "path": "assets/icons/items/misc/item_121443.webp",
+      "bytes": 10394
+    },
+    {
+      "path": "assets/icons/items/misc/item_121444.webp",
+      "bytes": 11032
+    },
+    {
+      "path": "assets/icons/items/misc/item_121446.webp",
+      "bytes": 13510
+    },
+    {
+      "path": "assets/icons/items/misc/item_121541.webp",
+      "bytes": 15490
+    },
+    {
+      "path": "assets/icons/items/misc/item_121542.webp",
+      "bytes": 17148
+    },
+    {
+      "path": "assets/icons/items/misc/item_121583.webp",
+      "bytes": 9980
+    },
+    {
+      "path": "assets/icons/items/misc/item_121588.webp",
+      "bytes": 12018
+    },
+    {
+      "path": "assets/icons/items/misc/item_121612.webp",
+      "bytes": 9476
+    },
+    {
+      "path": "assets/icons/items/misc/item_121613.webp",
+      "bytes": 15134
+    },
+    {
+      "path": "assets/icons/items/misc/item_121615.webp",
+      "bytes": 17652
+    },
+    {
+      "path": "assets/icons/items/misc/item_121616.webp",
+      "bytes": 18040
+    },
+    {
+      "path": "assets/icons/items/misc/item_121622.webp",
+      "bytes": 14648
+    },
+    {
+      "path": "assets/icons/items/misc/item_121623.webp",
+      "bytes": 14266
+    },
+    {
+      "path": "assets/icons/items/misc/item_121624.webp",
+      "bytes": 13202
+    },
+    {
+      "path": "assets/icons/items/misc/item_121627.webp",
+      "bytes": 13900
+    },
+    {
+      "path": "assets/icons/items/misc/item_121631.webp",
+      "bytes": 12552
+    },
+    {
+      "path": "assets/icons/items/misc/item_121632.webp",
+      "bytes": 11990
+    },
+    {
+      "path": "assets/icons/items/misc/item_121637.webp",
+      "bytes": 7664
+    },
+    {
+      "path": "assets/icons/items/misc/item_121638.webp",
+      "bytes": 6316
+    },
+    {
+      "path": "assets/icons/items/misc/item_121644.webp",
+      "bytes": 7720
+    },
+    {
+      "path": "assets/icons/items/misc/item_121652.webp",
+      "bytes": 15360
+    },
+    {
+      "path": "assets/icons/items/misc/item_121654.webp",
+      "bytes": 9866
+    },
+    {
+      "path": "assets/icons/items/misc/item_121655.webp",
+      "bytes": 14174
+    },
+    {
+      "path": "assets/icons/items/misc/item_121656.webp",
+      "bytes": 11836
+    },
+    {
+      "path": "assets/icons/items/misc/item_121658.webp",
+      "bytes": 17288
+    },
+    {
+      "path": "assets/icons/items/misc/item_121659.webp",
+      "bytes": 13066
+    },
+    {
+      "path": "assets/icons/items/misc/item_121660.webp",
+      "bytes": 13664
+    },
+    {
+      "path": "assets/icons/items/misc/item_121661.webp",
+      "bytes": 12918
+    },
+    {
+      "path": "assets/icons/items/misc/item_121668.webp",
+      "bytes": 10052
+    },
+    {
+      "path": "assets/icons/items/misc/item_121671.webp",
+      "bytes": 20876
+    },
+    {
+      "path": "assets/icons/items/misc/item_121673.webp",
+      "bytes": 9986
+    },
+    {
+      "path": "assets/icons/items/misc/item_121709.webp",
+      "bytes": 14726
+    },
+    {
+      "path": "assets/icons/items/misc/item_121711.webp",
+      "bytes": 10490
+    },
+    {
+      "path": "assets/icons/items/misc/item_121712.webp",
+      "bytes": 16392
+    },
+    {
+      "path": "assets/icons/items/misc/item_121717.webp",
+      "bytes": 7438
+    },
+    {
+      "path": "assets/icons/items/misc/item_121718.webp",
+      "bytes": 11948
+    },
+    {
+      "path": "assets/icons/items/misc/item_121719.webp",
+      "bytes": 8734
+    },
+    {
+      "path": "assets/icons/items/misc/item_121721.webp",
+      "bytes": 11678
+    },
+    {
+      "path": "assets/icons/items/misc/item_121722.webp",
+      "bytes": 4982
+    },
+    {
+      "path": "assets/icons/items/misc/item_121723.webp",
+      "bytes": 9566
+    },
+    {
+      "path": "assets/icons/items/misc/item_121724.webp",
+      "bytes": 12090
+    },
+    {
+      "path": "assets/icons/items/misc/item_121725.webp",
+      "bytes": 9064
+    },
+    {
+      "path": "assets/icons/items/misc/item_121726.webp",
+      "bytes": 13392
+    },
+    {
+      "path": "assets/icons/items/misc/item_121735.webp",
+      "bytes": 11206
+    },
+    {
+      "path": "assets/icons/items/misc/item_221052.webp",
+      "bytes": 10514
+    },
+    {
+      "path": "assets/icons/items/serenitea_pot/item_380482.webp",
+      "bytes": 13524
+    },
+    {
+      "path": "assets/icons/items/useful_items/item_111037.webp",
+      "bytes": 13648
+    },
+    {
+      "path": "assets/icons/items/useful_items/item_200909.webp",
+      "bytes": 10930
+    },
+    {
+      "path": "assets/icons/items/useful_items/item_220132.webp",
+      "bytes": 13264
+    },
+    {
+      "path": "assets/icons/items/useful_items/item_220133.webp",
+      "bytes": 13664
+    },
+    {
+      "path": "assets/icons/items/useful_items/item_220134.webp",
+      "bytes": 13890
+    },
+    {
+      "path": "assets/icons/items/useful_items/item_220135.webp",
+      "bytes": 13206
+    },
+    {
+      "path": "assets/icons/items/useful_items/item_220136.webp",
+      "bytes": 16236
+    },
+    {
+      "path": "assets/icons/items/useful_items/item_220138.webp",
+      "bytes": 17504
+    }
+  ],
+  "inventory_removed_card_count": 185
+}

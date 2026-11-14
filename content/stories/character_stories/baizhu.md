@@ -510,3 +510,923 @@ The Vision was like the gaze of a god who had witness to everything, but it was 
 此刻首先映入他竖瞳的，是一枚「神之眼」。萤火一般，悄然出现在墓碑上。
 
 仿佛神明的视线，见证了一切；又如师父的目光，温柔的期许。
+
+# voice_source_ids: 82000,82001,82002,82003,82004,82005,82006,82007,82008,82009,82010,82011,82012,82013,82014,82015,82016,82017,82018,82019,82020,82021,82022,82023,82024,82025,82026,82027,82028,82029,82030,82031,82032,82033,82034,82035,82036,82037,82038,82039,82040,82041,82042,82043,82044,82045,82046,82047,82048,82049,82050,82051,82052,82053,82054,82055,82056,82057,82058,82059,82060,82061,82062,82063,82064,82065,82066,82067,82068,82069,82070
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет. Я доктор Бай Чжу из хижины «Бубу». Расскажи, что тебя беспокоит, как давно проявились первые симптомы? Мм? Тебе не нужен врач, ты просто хочешь со мной поговорить? Извини, тогда придётся подождать. Я приму пациентов и вернусь к тебе чуть позже.
+
+### Поболтаем: Давай сбавим темп
+
+Бай Чжу: До чего красиво вокруг, такими видами надо любоваться не спеша.
+Чан Шэн: Так и скажи, что устал и не можешь больше идти.
+
+### Поболтаем: Естественные законы
+
+Жизнь и смерть... природа и весь мир подчиняются естественным законам. Но откуда мы знаем, где проходят границы этих законов, если никогда не пробовали их на прочность?
+
+### Поболтаем: Здоровье
+
+Кхе-кхе-кхе... Старая болячка, ничего страшного. Не беспокойся.
+
+### Когда идёт дождь...
+
+Дождь, сырость... Лучше куда-нибудь спрятаться.
+
+### Когда гремит гром...
+
+Не переживай. Надо смотреть под ноги и стараться не подходить близко к деревьям, тогда гроза не опасна.
+
+### Когда идёт снег...
+
+Чан Шэн: Как же холодно... и с-с-спать... хочется...
+ Бай Чжу: Чан Шэн? Ну вот, заснула...
+
+### Когда светит солнце...
+
+Бай Чжу: Прекрасная погода. Кстати, мы ведь недавно получили партию целебных трав...
+Чан Шэн: Не переживай. Если даже Ци Ци забудет их просушить, травник Гуй точно вспомнит.
+Бай Чжу: Да, ты права.
+
+### Когда дует сильный ветер...
+
+От такого ветра лучше куда-нибудь спрятаться. Да... Помни, здоровье превыше всего.
+
+### Доброе утро...
+
+Доброе утро. Я привык пить чай перед завтраком. Налить тебе чашечку?
+
+### Добрый день...
+
+Пообедав, не стоит долго засиживаться за столом. Лучше пойти прогуляться, это полезно для пищеварения.
+
+### Добрый вечер...
+
+Добрый вечер. Если ты пришёл на осмотр, прошу прощения, сегодня мои часы приёма уже закончились. Правда, неотложным больным я помогаю в любое время. А если тебе просто захотелось со мной увидеться, ты как раз вовремя, я сейчас свободен. / Добрый вечер. Если ты пришла на осмотр, прошу прощения, сегодня мои часы приёма уже закончились. Правда, неотложным больным я помогаю в любое время. А если тебе просто захотелось со мной увидеться, ты как раз вовремя, я сейчас свободен.
+
+### Спокойной ночи...
+
+Тебе до сих пор не спится? А по-моему, ты уже зеваешь.
+
+### О Бай Чжу: Современная и традиционная медицина
+
+Да, наставник оставил мне множество превосходных древних рецептов. И хотя эти рецепты были составлены нашими предками и прошли испытание временем, мы не должны застревать в прошлом. Времена меняются, меняется среда, меняются обычаи. И снадобья, помогавшие больным в старину, сегодня могут оказаться бесполезными. Излишняя приверженность старинным способам лечения может навредить пациентам.
+
+### О Бай Чжу: Укрепить надежду
+
+Люди, давно страдающие от болезни, часто бывают подавлены, а серьёзная болезнь отнимает у них последние силы, чтобы цепляться за жизнь. В таком случае первым делом нужно врачевать не тело больного, а его дух. Ведь если человек поверил, что его не спасти, если он не хочет жить, никакой врач не сможет ему помочь.
+
+### О нас: Врач и пациент
+
+Всем больным, которые обращаются за лечением в хижину «Бубу», я стараюсь помогать одинаково, мне всё равно, сколько у них моры. И ты не исключение.
+
+### О нас: Испытание снадобий
+
+Иногда яд превращается в снадобье. Вещество, которое будет крайне ядовито для одних людей, для других может оказаться спасительным лекарством. Это известный принцип фармакологии. Только не стоит посвящать пациентов в такие подробности. Узнав, что доктор Бай Чжу выписал им яд, они едва ли придут сюда снова. Ты первый человек, который выслушал это без страха. Хотя чему я удивляюсь, ведь ты многомудрый путешественник с широкими познаниями. Значит, я могу выписывать тебе разные... сильнодействующие средства? Я как раз хотел найти подопытного, чтобы испытывать новые лекарства. / Иногда яд превращается в снадобье. Вещество, которое будет крайне ядовито для одних людей, для других может оказаться спасительным лекарством. Это известный принцип фармакологии. Только не стоит посвящать пациентов в такие подробности. Узнав, что доктор Бай Чжу выписал им яд, они едва ли придут сюда снова. Ты первый человек, который выслушал это без страха. Хотя чему я удивляюсь, ведь ты многомудрая путешественница с широкими познаниями. Значит, я могу выписывать тебе разные... сильнодействующие средства? Я как раз хотел найти подопытного, чтобы испытывать новые лекарства.
+
+### Глаз Бога...
+
+Ха-ха, даже Архонты позволили такому безумцу, как я, исследовать природу жизни и смерти. Глаз Бога появился как раз вовремя, и я очень за него благодарен.
+
+### Давай поделимся: Засахаренные фрукты
+
+Наверное, ты будешь смеяться, но сам я тоже не люблю горькие снадобья. Ты знаешь, по состоянию здоровья мне постоянно приходится принимать лекарства. Я придумал такой выход: выпив горький отвар, я заедаю его засахаренными фруктами, чтобы перебить неприятный вкус во рту.
+
+### Давай поделимся: Секретное снадобье
+
+Иногда встречаются люди, которые малейшее недомогание принимают за смертельную болезнь. Переубеждать таких «больных» бесполезно, и я стал готовить для них белые безвкусные пилюли из смеси цветка-сахарка и цветка цинсинь. Стоит им успокоиться, как «болезнь» проходит, и они начинают на все лады расхваливать моё секретное снадобье. Но я думаю, не стоит винить людей за столь пристальное внимание к собственному здоровью.
+
+### Интересные вещи...
+
+Говорят, в тропических лесах Сумеру встречается большое разнообразие грибов, и некоторые виды могут даже вызывать галлюцинации. Скорее всего, такие грибы обладают немалой лекарственной ценностью. Пока у меня не было возможности как следует их изучить, но однажды я устрою себе отпуск и отправлюсь в Сумеру, чтобы наверстать упущенное.
+
+### О Ци Ци...
+
+Да, ты прав: именно искусство Адептов сохранило последние проблески сознания Ци Ци. И благодаря Ци Ци я придумал, как спасать людей, оказавшихся на границе между жизнью и смертью. Поскольку Адепты сжалились над этой девочкой и явили своё искусство, чтобы удержать её в мире людей, я решил воспользоваться такой возможностью и оставить её в аптеке. Что в этом плохого? / Да, ты права: именно искусство Адептов сохранило последние проблески сознания Ци Ци. И благодаря Ци Ци я придумал, как спасать людей, оказавшихся на границе между жизнью и смертью. Поскольку Адепты сжалились над этой девочкой и явили своё искусство, чтобы удержать её в мире людей, я решил воспользоваться такой возможностью и оставить её в аптеке. Что в этом плохого?
+
+### О Ху Тао: Разногласия
+
+У нас есть некоторые теоретические разногласия, но я ничего не имею против госпожи Ху. Разве что она относится ко мне с излишней насторожённостью.
+
+### О Ху Тао: Усталость
+
+Бай Чжу: Мне бы хотелось, чтобы госпожа Ху была чуть более щепетильна в деловых вопросах.
+Чан Шэн: А, значит, ты до сих пор не забыл, как она пришла к хижине «Бубу» рекламировать свои услуги?
+Бай Чжу: Эх... И когда ей нечем заняться, она сразу вспоминает о Ци Ци.
+Чан Шэн: Похоже, у тебя накопилось к ней много вопросов.
+Бай Чжу: Не в этом дело, просто каждый раз, когда она похищает Ци Ци, мне приходится обращаться в Департамент по делам граждан, чтобы они уладили дело. Это так утомительно.
+
+### О Гань Юй...
+
+Люди, в чьих жилах течёт божественная кровь, отличаются крепким здоровьем. Все болезни Гань Юй проходят сами, без снадобий и лекарств. Простым смертным не стоит на неё равняться: если мы не получим медицинской помощи после травмы или перелома, последствия могут быть очень печальны.
+
+### О Кэ Цин...
+
+Лицо многое может рассказать о здоровье человека, и постоянное утомление на лице Нефритового Равновесия говорит о давней привычке работать по ночам и всё своё время отдавать размышлениям. Чтобы сохранить здоровье, ей следует больше отдыхать. К сожалению, она слишком амбициозна, готова пожертвовать хорошим самочувствием ради карьеры. Даже если я дам ей совет, она едва ли станет меня слушать.
+
+### О Яо Яо...
+
+Приходя поиграть с Ци Ци, она всякий раз жалуется, что целебные отвары слишком горчат. Спрашивает, нет ли у меня каких-нибудь сладких лекарств. Но если лекарство спасает жизнь человека, какая разница, что у него за вкус?
+
+### О Чжун Ли...
+
+Чжун Ли... Образованнейший человек, он может поддержать разговор на любую тему, даже о древней медицине. Наверняка разбирается в методах укрепления здоровья и гармонизации энергии. С обычной головной болью или лихорадкой он прекрасно справится сам, без моих рецептов.
+
+### О Сяо...
+
+Бай Чжу: Только милосерднейший из милосердных способен постоянно сражаться с демонами, оберегая жизнь. Однажды мне довелось с ним встретиться. Он был в забытьи, я привёл его в хижину «Бубу» и целый день выхаживал. Жаль, тогда я не знал, кто передо мной, успел обменяться с ним всего парой слов, а после он ушёл.
+Чан Шэн: Но потом вы увиделись снова. О чём тут жалеть?
+Бай Чжу: Да, ты права.
+
+### О Тигнари...
+
+Значит, у тебя есть знакомые даже в Академии Сумеру? Ты не мог бы познакомить меня с Тигнари? Я хочу проконсультироваться с ним по поводу свойств некоторых целебных трав. / Значит, у тебя есть знакомые даже в Академии Сумеру? Ты не могла бы познакомить меня с Тигнари? Я хочу проконсультироваться с ним по поводу свойств некоторых целебных трав.
+
+### Узнать больше о Бай Чжу I
+
+Я всего лишь обычный врач, едва ли ты услышишь от меня что-нибудь интересное. Если хочешь послушать истории об удивительном, лучше обратиться к рассказчику из чайного дома «Хэюй».
+
+### Узнать больше о Бай Чжу II
+
+У меня правда нет для тебя никаких захватывающих историй. И когда наставник принимал меня в ученики, я не проходил суровых испытаний. Наставник увидел, что я не слишком глуп, дал прочесть простую клятву, и с того я стал учиться врачеванию.
+
+### Узнать больше о Бай Чжу III
+
+Клятва не была особенно сложной. Какие-то слова я помню до сих пор: «Если больной обращается за помощью, я не буду спрашивать, беден он или богат, не буду раздумывать и колебаться. К страждущему больному я буду относиться так, как если бы сам был на его месте. Так надлежит поступать настоящему врачу».
+
+### Узнать больше о Бай Чжу IV
+
+Я понимаю наставника. Он хотел, чтобы я думал только о больных, не отвлекаясь на внешние обстоятельства. Да... У него было доброе сердце, наставник всегда готов был пожертвовать собой ради других. Жаль, что он ушёл из жизни раньше положенного ему срока.
+
+### Узнать больше о Бай Чжу V
+
+Врач обязан спасать больных, но и сам он - человек, заслуживающий спасения. Спасая других людей, я не должен пренебрегать своим здоровьем. Самопожертвование достойно уважения, но мы пришли в этот мир не для того, чтобы жертвовать собой, вот что стоит помнить.
+
+### Хобби Бай Чжу...
+
+Мне нравится сортировать лекарственные средства, составлять из них пилюли или целебные мази, учитывая уникальные свойства каждого ингредиента. Изготовление снадобий принято считать непростым занятием, но я его просто обожаю. Вообрази, что всю щедрость неба и земли можно уместить в маленькой таблетке, которая будет спасать жизни! Невероятно, правда?
+
+### Беспокойство Бай Чжу...
+
+В деле врача самое трудное - не назначить лечение, а выяснить причину болезни. Эх... Причин для недомогания может быть огромное множество: кто-то ненароком повредил себе желудок, соревнуясь в поедании заоблачных перчиков, кто-то выпил слишком много воды, и теперь его тошнит и мутит... Надеюсь, люди научатся дорожить своим здоровьем и не будут подвергать его неоправданному риску.
+
+### Любимая еда...
+
+За столом не стоит быть слишком разборчивым. Мясо, яйца, молоко, овощи, фрукты... любые питательные продукты стоит включать в рацион, при этом избегая переедания. Обжорство опасно для здоровья. Прости, что повторяю избитую истину, но я врач, а потому должен напомнить: ты - это то, что ты ешь.
+
+### Нелюбимая еда...
+
+Зачем тебе столько сладостей? Не стоит есть все сразу, не то в зубах появятся дырки. Я? Я знаю меру. И острое ем тоже нечасто. Ты прав, я в самом деле строго слежу за питанием. Всё-таки я врач, как я могу ждать от пациентов, что они будут соблюдать диету, если сам не делаю того же? / Зачем тебе столько сладостей? Не стоит есть все сразу, не то в зубах появятся дырки. Я? Я знаю меру. И острое ем тоже нечасто. Ты права, я в самом деле строго слежу за питанием. Всё-таки я врач, как я могу ждать от пациентов, что они будут соблюдать диету, если сам не делаю того же?
+
+### Подарок I
+
+Чан Шэн:: А есть ещё? Положи мне побольше!
+Бай Чжу: И правда вкусно.
+
+### Подарок II
+
+Поздравляю! Ты делаешь успехи в кулинарии.
+
+### Подарок III
+
+Не беспокойся, это всё равно вкуснее, чем лекарства.
+
+### День рождения...
+
+Чан Шэн: Как там говорят... Бай Чжу, напомни!
+Бай Чжу: Поздравление с днём рождения?
+Чан Шэн: Ну да.
+Бай Чжу: Пусть каждый твой день будет наполнен счастьем, как сегодня. С днём рождения, путешественник!
+Чан Шэн: Так, а мне тогда что сказать? Гм... Желаю тебе... Ничего не могу придумать. С днём рождения, вот.
+Чан Шэн: Над чем вы смеётесь? Намаялась я с вами. Люди ещё более скользкие существа, чем змеи. / Чан Шэн: Как там говорят... Бай Чжу, напомни!
+Бай Чжу: Поздравление с днём рождения?
+Чан Шэн: Ну да.
+Бай Чжу: Пусть каждый твой день будет наполнен счастьем, как сегодня. С днём рождения, путешественница!
+Чан Шэн: Так, а мне тогда что сказать? Гм... Желаю тебе... Ничего не могу придумать. С днём рождения, вот.
+Чан Шэн: Над чем вы смеётесь? Намаялась я с вами. Люди ещё более скользкие существа, чем змеи.
+
+### Чувство возвышения: Начало
+
+Всему своё время. Не стоит торопиться.
+
+### Чувство возвышения: Нарастание
+
+Спасибо тебе за помощь. Я ещё никогда не чувствовал себя таким здоровым!
+
+### Чувство возвышения: Кульминация
+
+Возможно, дело в том, что у меня наладилось здоровье, но я чувствую себя удивительно бодрым. Не устаю даже после целого дня на приёме. И всё благодаря тебе.
+
+### Чувство возвышения: Окончание
+
+В последние дни я добавил тебе столько хлопот. Я сам врач, но тебе приходилось заботиться о моём здоровье. Кхе-кхе... Мне очень неловко. Но ничего, теперь всё изменится, отныне я буду заботиться о тебе.
+
+### Элементальный навык I
+
+Чан Шэн: Тебе нужно подлечиться.
+
+### Элементальный навык II
+
+Доброе лекарство горько на вкус.
+
+### Элементальный навык III
+
+Не забывайте про побочные эффекты.
+
+### Взрыв стихии I
+
+Неотложный случай.
+
+### Взрыв стихии II
+
+Здоровье превыше всего.
+
+### Взрыв стихии III
+
+Кризис позади.
+
+### Начало спринта I
+
+Кхе... Кхе...
+
+### Открытие сундука I
+
+Чан Шэн: Что? И вся возня только ради этого?
+Бай Чжу: Чан Шэн...
+
+### Открытие сундука II
+
+У искателей приключений жизнь не сахар.
+
+### Открытие сундука III
+
+Надо будет вымыть руки. Кто знает, сколько рук трогало этот сундук.
+
+### Низкий уровень HP I
+
+...Я держусь.
+
+### Низкий уровень HP II
+
+Чан Шэн: Плохо дело!
+
+### Низкий уровень HP III
+
+Слишком рано... сдаваться.
+
+### Низкий уровень HP компаньона I
+
+Будь осторожнее.
+
+### Низкий уровень HP компаньона II
+
+Нужно позаботиться о твоих ранах...
+
+### Без сознания I
+
+Жизнь догорает... как свеча.
+
+### Без сознания II
+
+Прости, Чан Шэн...
+
+### Без сознания III
+
+Какой я после этого врач...
+
+### Получен лёгкий удар I
+
+Только не очки...
+
+### Получен тяжёлый удар I
+
+Хм, просто царапина.
+
+### Присоединяется к группе I
+
+Я буду лечить ваши раны.
+
+### Присоединяется к группе II
+
+Пора отправиться на вызов.
+
+### Присоединяется к группе III
+
+Надеюсь, это не займёт много времени.
+
+### О Ка Мине...
+
+По сравнению со своими сверстниками, у Ка Мина много шрамов и старых травм. Каждый раз, когда он ко мне приходит, у него всегда найдётся новый синяк или растяжение... Эх, сколько бы я ни говорил, что надо быть осторожнее - всё бесполезно. Так что я научил его некоторым полезным приёмам перевязки и обработки ран. Надеюсь, они окажутся ему полезны.
+
+## REPLICAS_EN
+
+### Hello
+
+Hello. I am Baizhu, a practitioner of medicine at Bubu Pharmacy. So, are you experiencing any discomfort? If so, where? And how many days have the symptoms persisted? Hmm? You don't require medical attention? Oh, so you came to see me... Ah, then I'm sorry, I'm afraid I must ask you to wait. I'd like to see the other patients first before discussing things any further.
+
+### Chat: Let's Slow Down
+
+Baizhu: *huffing* When on the road, one should take ample time to pause and appreciate the wondrous scenery along the way.
+Changsheng: You're about to collapse, aren't you?
+
+### Chat: Natural Laws
+
+Life, death... and the world around us all follow a set of laws... Hehe, but if you never test the limits, how can anyone know where the boundaries of these laws are?
+
+### Chat: Physical Condition
+
+*coughing violently* Ah, it's just some chronic problem I have flaring up again, nothing to worry about.
+
+### When It Rains
+
+The weather is damp and chilly. I suggest getting indoors to avoid these conditions, if possible.
+
+### When Thunder Strikes
+
+Don't worry. As long as we watch the road ahead, and avoid walking under the trees, then the lightning should not pose any problems for us.
+
+### When It Snows
+
+Changsheng: S—So c—cold, s—so s—sleepy...
+Baizhu: Changsheng? Changsheng? Heh, out like a light...
+
+### When the Sun Is Out
+
+Baizhu: What lovely weather. Which reminds me, we just received a batch of herbs...
+Changsheng: Don't worry, even if Qiqi forgot to dry out the herbs, Herbalist Gui will certainly remember to put them out in the sun.
+Baizhu: Hehe. Yes, you're right.
+
+### When the Wind Is Blowing
+
+I would advise you to stay out of such windy conditions... *sigh* Don't forget to always consider your health first.
+
+### Good Morning
+
+Good morning. I'm in the habit of enjoying a cup of tea before breakfast. Shall I pour some for you?
+
+### Good Afternoon
+
+You mustn't sit for extended periods of time after eating lunch. Instead, I recommend going for a walk, it's good for digestion.
+
+### Good Evening
+
+Good evening. If you're here for treatment, then I'm afraid that Bubu Pharmacy's clinic has already closed for the day. However, if you are experiencing a medical emergency, then I'll see what I can do for you, of course. If you happen to be here just to see me, then you're right on time! I'm off duty now.
+
+### Good Night
+
+Ah, you're still awake. Haha, is that a yawn I see?
+
+### About Baizhu: Modern vs. Ancient Medicine
+
+Yes, my master did entrust to me many medical formulas from the ancient era. However, although the ancient prescriptions were compiled by our ancestors and have stood the test of time, we mustn't also forget to look forward. Times have changed, and so have our surroundings and customs. Treatments that were effective in the bygone times may not prove to be as effective now. Clinging to the classic prescriptions of the past may not ultimately serve the best interest of the patients nowadays.
+
+### About Baizhu: Bolstering Hope
+
+People who suffer from chronic illnesses are often mentally exhausted, and if their condition becomes critical, they may find themselves clinging to life with only a final, thin thread of hope. At such a moment, healing their body is not the priority; the doctor should focus on bolstering their faith in themselves. After all, if the patient believes they aren't going to make it and gives up on themselves, then no medical treatment will be able to help them, no matter how sophisticated the treatment may be.
+
+### About Us: Doctor-Patient Relationship
+
+I tend to anyone who comes to Bubu Pharmacy seeking medical attention, regardless of their wealth or status. I treat everyone fairly, and I do my best to heal them. You are no exception, either.
+
+### About Us: Medicine Testing
+
+A poison to one may be a boon to another. What may be considered to be a universally harmful substance to one group of people may prove to be the perfect medicine needed to save another room of patients. The mechanism behind this is easily understood by those well-versed in pharmacology. It's just that I can't ever tell my patients these kinds of details. If they were to find out that I gave them a poisonous substance as a prescription, it might scare them away for good.
+Hehe, you're the first person who's never flinched at hearing this. You are the wise Traveler after all — I'm sure you've seen a lot on your adventures. So, ahem, I suppose you'll be fine with more... potent prescriptions in the future, then? I've been worried about finding people to test my medicine on, hehe.
+
+### About the Vision
+
+Hehe, the gods have somehow allowed a delusional person such as myself to explore the nature of life and death. This Vision was just the thing I need, and I'm most thankful.
+
+### Something to Share: Candied Fruit
+
+It might sound ironic, but even I don't like taking bitter medicine. You're aware of my weak physical condition... I've been routinely taking medicine for some years now. All I can really do is eat some candied fruit afterward to get rid of the bitter aftertaste.
+
+### Something to Share: Secret Medication
+
+I've met some people who jump to conclusions and believe they've contracted some deadly disease the moment they experience even the slightest discomfort. Reasoning with them is useless. Eventually, I came up with some tasteless pills made of Sweet Flower and Qingxin, and prescribed them to these patients. After they calmed down and their "symptoms" subsided, they praised the effectiveness of my secret medication. But I suppose I can't fault them for prioritizing their health.
+
+### Interesting Things
+
+It's said that there are a wide variety of mushroom species native to Sumeru's rainforests, and that some species can even cause hallucinatory effects, which may have medicinal value. However, I've never had the opportunity to study these mushrooms in detail. I'm thinking to go and have a look for myself the next time I'm on vacation.
+
+### About Qiqi
+
+Yes, you've guessed correctly. The preservation of a thread of Qiqi's consciousness was in fact the work of the adepti. It's also thanks to Qiqi that I managed to come up with a way to save someone on the brink of death. Since the adepti took pity on this child and even used their arts to keep her on this side of existence, I thought I'd take the opportunity to keep her around the pharmacy. There's no harm in that, is there?
+
+### About Hu Tao: Different Approach
+
+We have some differences in ideology, that's all. I don't harbor any ill-will toward Director Hu. If anything, I think she's more wary of me.
+
+### About Hu Tao: Exhausting Encounters
+
+Baizhu: If possible, I sincerely wish that Director Hu would be more sensible about her business practices.
+Changsheng: Oh, so you haven't forgotten about the time when she was disseminating flyers right outside of Bubu Pharmacy.
+Baizhu: *sigh* I just wish that she wouldn't be so concerned about Qiqi whenever she has nothing better to do.
+Changsheng: Sounds like you have something against her...
+Baizhu: It's not that I take issue with Director Hu... It's just that every time she kidnaps Qiqi, I have to go all the way to the Ministry of Civil Affairs to get someone to sort it all out. It's... quite exhausting.
+
+### About Ganyu
+
+Those with the blood of the adepti have strong constitutions. Even when she is ill or injured, she does not require any medicine to recover. She isn't like your average mortal, who would be left with long-term residual issues if they did not receive medical treatment after a serious injury.
+
+### About Keqing
+
+If I were to hazard a guess about her health from a face reading, I would presume the Yuheng's frequent looks of exhaustion are due to her long-time habits of burning the midnight oil and never giving her mind a rest. If she wishes to maintain her health, she should stop working and relax from time to time. Unfortunately, she is overly ambitious, and seems to be completely willing to trade her health for her career. Even if I were to tell her this myself, I'm afraid she would not listen to me.
+
+### About Yaoyao
+
+Every time she comes to play with Qiqi, she complains about the taste of medicine and asks me if I have anything that isn't bitter. If the medicine will save someone's life, who cares how bitter it tastes, hmm?
+
+### About Zhongli
+
+Ah, Zhongli... Yes, I can tell he is very knowledgeable. He can carry a conversation even when discussing niche topics like ancient medicine. He must also have some habits and practices for himself when it comes to healthy living. The common headache or fever should pose no problem for him, so he doesn't need a prescription from me.
+
+### About Xiao
+
+Baizhu: Only the most magnanimous soul could labor to preserve life by slaying evil spirits. I was once fortunate enough to see the Conqueror of Demons with my own eyes. We even brought him back to the pharmacy to take care of him for a day. Unfortunately, I did not know his true identity at the time, and didn't even have a chance to speak with him before he left on his own.
+Changsheng: But you've seen him since then, haven't you? There's no reason to be upset.
+Baizhu: Yes, you're right.
+
+### About Tighnari
+
+Ah, so you have an acquaintance from the Sumeru Akademiya? In that case, could I trouble you to introduce me to this Tighnari? I have many questions about herbal medicine that I would like to ask him.
+
+### More About Baizhu: I
+
+I am merely a mortal doctor, so I'm afraid I don't have many interesting stories to share. If you're looking for legends, then you should go to the Heyu Tea House and listen to the storytellers there.
+
+### More About Baizhu: II
+
+If you're looking for some kind of thrilling story, I'm afraid I don't have one. Even when I was studying medicine under my late Master, I didn't experience any particularly dire situations. My master saw that I had a good head on my shoulders, had me swear a simple oath, and took me in... That's all there was to it.
+
+### More About Baizhu: III
+
+The oath wasn't complicated. I still remember some of it:
+"...When a person comes seeking medical attention, I will not consider his status, nor will I be suspicious of or worry about any subsequent consequences. I shall strive to witness the patient's distress and feel it as if were my own, for this is the hallmark of a great physician."
+
+### More About Baizhu: IV
+
+I understand my master's intentions. He hoped that I would be able to put myself more in the patients' shoes, and not ever be swayed by external factors. *sigh* He really did have a compassionate heart, and was always ready to sacrifice himself for others. It's unfortunate that he passed so early and never had the chance to live his years to their fullest.
+
+### More About Baizhu: V
+
+While it is a doctor's duty to save others, the doctor is also themselves a person who deserves to be saved. If we wish to preserve lives, we should strive for an outcome where everyone will live to see another day. Those who willingly give themselves up for others are worthy of our respect, but we should not accept their sacrifice as predestined or an inevitable part of life.
+
+### Baizhu's Hobbies
+
+I enjoy sorting medicinal ingredients and using each ingredient's unique properties to produce pills or ointments. I know this process like the back of my hand. People think that the process of making medicine is difficult and complicated, but to me, it brings endless enjoyment. Amazing, isn't it? That we can condense the bounties of heaven and earth into a tiny, unremarkable pill, and use it to bring people back from the verge of death.
+
+### Baizhu's Troubles
+
+The most difficult part of seeing patients isn't prescribing medication, but identifying the cause of the disease. *sigh* There could be a million reasons why someone may feel unwell. Maybe they were having a friendly Jueyun Chili-eating contest with someone, and ended up damaging their stomach without realizing it. Or maybe, circumstances led them to drink too much water, which caused them to start feeling nauseous. I just wish people would take better care of themselves, and find something better to do than repeatedly put their bodies through so much distress.
+
+### Favorite Food
+
+You shouldn't be a picky eater. Meat, eggs, milk, vegetables, fruit... they all have nutritional value and should be a regular part of your diet, but you should also avoid eating too much. Eating or drinking excessively can also be detrimental to your health. Take it from me. As a doctor, I know all too well that many health crises find their way into the body from the mouth.
+
+### Least Favorite Food
+
+Why would you ever purchase so much candy? *sigh* Just be sure not to eat it too quickly, and remember that too much candy can give you cavities. Me? I seldom indulge in sweets, and I don't often eat spicy food, either. After all, if I don't watch what I eat, then how can I expect that of my patients?
+
+### Receiving a Gift: I
+
+Changsheng: Superb! More please!
+Baizhu: It is good, isn't it?
+
+### Receiving a Gift: II
+
+Well done. Your culinary skills have improved.
+
+### Receiving a Gift: III
+
+Well, at least it still tastes better than medicine.
+
+### Birthday
+
+Changsheng: Sss. Refresh my memory, Baizhu. How do we say that again...?
+Baizhu: Hehe. You mean how to wish someone a happy birthday?
+Changsheng: Yes, precisely!
+Baizhu: I hope that this day will be one filled with joy every year, and that you would always keep these times near. Happy Birthday, Traveler!
+Changsheng: Hey, so what should I say now? Let me think... Um, uh... *sigh* I can't think of anything. I sincerely wish you a happy birthday, too.
+Changsheng: What are you laughing at? People are so bothersome, with more traditions and twists than even a snake.
+
+### Feelings About Ascension: Intro
+
+Everything must take its due course. No need to be impatient.
+
+### Feelings About Ascension: Building Up
+
+Thanks to your hard work, I think I'm feeling stronger than ever.
+
+### Feelings About Ascension: Climax
+
+My energy is on the rise... I suppose it is due to the recent improvements in my condition. I don't feel so weary, even after a full day of seeing patients. This is all thanks to your efforts.
+
+### Feelings About Ascension: Conclusion
+
+You've been working hard day after day. Even though I'm the doctor, I've still had to trouble you with my health. *cough* How shameful... But don't worry. From this day on, I will take care of you.
+
+### Elemental Skill: I
+
+Changsheng: The doctor will see you now~
+
+### Elemental Skill: II
+
+A bitter pill to swallow.
+
+### Elemental Skill: III
+
+Mind the side effects.
+
+### Elemental Burst: I
+
+Seems like an emergency.
+
+### Elemental Burst: II
+
+Remember, health comes first.
+
+### Elemental Burst: III
+
+Taking a turn for the better.
+
+### Sprint Start: I
+
+*coughing*
+
+### Opening Treasure Chest: I
+
+Changsheng: What? So all that running around was for this?
+Baizhu: Changsheng, behave...
+
+### Opening Treasure Chest: II
+
+The life of an adventurer certainly isn't easy.
+
+### Opening Treasure Chest: III
+
+Don't forget to wash your hands. Goodness knows where these things have been.
+
+### Low HP: I
+
+...I can still keep going.
+
+### Low HP: II
+
+Changsheng: A slippery situation!
+
+### Low HP: III
+
+I can't... fall here.
+
+### Ally at Low HP: I
+
+Exercise caution.
+
+### Ally at Low HP: II
+
+Be mindful of your injuries.
+
+### Fallen: I
+
+I shed... this mortal coil...
+
+### Fallen: II
+
+I'm sorry... Changsheng...
+
+### Fallen: III
+
+Some doctor... I am...
+
+### Light Hit Taken: I
+
+Not my glasses...
+
+### Heavy Hit Taken: I
+
+Hmph, this is nothing.
+
+### Joining Party: I
+
+I'll treat your wounds.
+
+### Joining Party: II
+
+Time for a house call.
+
+### Joining Party: III
+
+Hopefully, this won't take long.
+
+### About Gaming
+
+Gaming has quite a lot of scars and old injuries compared to other people his age. And every time he comes to see me, he always seems to have a new bruise here, and a new sprain there... *sigh* No matter how many times I insist that he needs to be more careful, it always goes in one ear and out the other. All I can do is teach him some useful techniques for dressing and treating his wounds. I hope he finds them useful.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+嗯，我是「不卜庐」的大夫白术。身体哪里不适，有几天了，和我说说吧…哦？不是来问诊而是专程来找我的？抱歉，恐怕要请你稍候了，我接待完后面的病人就来和你详谈。
+
+### 闲聊·慢节奏
+
+白术：这一路上的无限风光，得慢慢欣赏才有意趣。
+长生：你是不是跑不动了？
+
+### 闲聊·天道
+
+生死有道，天行有常…呵呵，不试一试，谁能知道这天道的边界在哪里呢？
+
+### 闲聊·体质
+
+咳…咳…老毛病了，不是什么大事，你别担心。
+
+### 下雨的时候…
+
+雨天湿寒，还是找个地方避避吧。
+
+### 打雷的时候…
+
+别怕，小心看路，不要在树下行走，雷电伤不了我们。
+
+### 下雪的时候…
+
+长生：…好冷，好困。
+白术：长生？这就睡着了吗…
+
+### 阳光很好…
+
+白术：好天气，「不卜庐」新收的药草…
+长生：放心啦，就算七七忘记晾药草，阿桂也不会忘的，好好晒太阳吧。
+白术：的确。
+
+### 刮大风了…
+
+碰上这么大的风你也不躲吗？唉，要爱惜自己的身体啊。
+
+### 早上好…
+
+早上好。我习惯餐前一杯茶，要给你倒一杯吗？
+
+### 中午好…
+
+午餐后不要久坐，最好起身走一走，有助于消食。
+
+### 晚上好…
+
+晚上好，如果是来看病的话，抱歉了，今天「不卜庐」大夫的坐诊时间已经结束。不过，你有紧急情况的话那自然另当别论。如果只是来找我的话，正好，现在是我的私人时间。
+
+### 晚安…
+
+还不想睡吗？可你已经在打哈欠了。
+
+### 关于白术自己·今方古方
+
+师父的确留下了不少古人总结出的千金良方。不过古方虽然久经考验，我们这些今人却不能一味泥古。古时与今时，环境不同，风俗有异，过去管用的方子今天不一定管用。还守着过去的千金良方，最终是要耽误病患性命的。
+
+### 关于白术自己·医心
+
+久病的人精神萎靡，如果得的是重症，更是全凭一口气吊着。这时候最要紧的事不是医治他的身体，而是稳固他的信心。毕竟病人要是认定自己活不成，也不想活了，再高明的医术也都无能为力了。
+
+### 关于我们·医患
+
+凡是来「不卜庐」求医的，不论贵贱，我都会一视同仁，尽力救治，你也不例外。
+
+### 关于我们·试药
+
+甲之毒药，乙之蜜糖。对某些人来说百害无一利的毒物，对另一些人来说却恰好是救命的良药，这在药理上也是成立的。只是这些话却不能对普通病患说，要是让他们知道我开的方子里有毒药，恐怕以后就再也不敢来这里了吧。
+知道了这件事却毫不恐惧的，你还是第一个。不愧是见多识广的旅行者，那么以后我也可以放心给你开些猛药了吧？正愁找不到试药的人呢，呵呵。
+
+### 关于「神之眼」…
+
+呵呵，神也允许我这狂妄之人探索生死之道呢。这神之眼来得正好，多谢了。
+
+### 有什么想要分享·蜜饯
+
+说了不怕你笑话，其实我自己也不爱喝苦药。我的体质你也知道，常年喝药是免不了了，没办法，只能喝完药多吃点蜜饯缓解一下嘴里的苦味。
+
+### 有什么想要分享·秘药
+
+我曾遇上一些人，身体略有不适，便以为自己得了重病，以理相劝仍是不依不饶。后来，我干脆以甜甜花和清心为原料，调制出了一批白色无味的药丸，配给这批疑心过重的「患者」。他们得到安慰后，「病情」有所缓和，转而称赞起了我「秘药」的效力。像这类情况，我也是能够理解的。
+
+### 感兴趣的见闻…
+
+据说须弥雨林中的蘑菇种类众多，有些品种甚至能让人产生幻觉，大概有些药用价值。不过我一直没有机会详细考察一番，要是以后能有闲暇亲眼看看就好了。
+
+### 关于七七…
+
+你猜得没错，封住七七一缕神智的的确是仙人的秘法。也是多亏七七，我才摸索出了保住将死之人的方法。既然仙人都怜悯这孩子，施法将她留在「此岸」，那我顺水推舟收留她，又有何不妥呢？
+
+### 关于胡桃·道不同
+
+观念不同而已，我对胡堂主本人并无意见。非要说的话，应该是她防备我居多吧。
+
+### 关于胡桃·疲惫
+
+白术：有可能的话，我还是希望胡堂主做生意时注意些方式方法。
+长生：哦，原来你还记着她到「不卜庐」门口打广告的事啊。
+白术：唉，没事的时候，也别总是惦记七七了。
+长生：你其实对她有意见吧？
+白术：我又怎么会真跟她计较呢，只是每次她把七七带走，我都要费劲拜托总务司寻人，实在太累人了。
+
+### 关于甘雨…
+
+仙家体质强健，即便身体有恙，不需药物也能自愈。不像凡夫俗子，一旦伤筋动骨，没有医治非落下残疾不可。
+
+### 关于刻晴…
+
+从面部状态来看，玉衡星应该是习惯了熬夜，且思虑过多，才会时不时显露疲态。想要保养好身体的话，还得放下工作，静养为宜。可惜她太过上进，似乎是打定了主意要用健康换事业，我这话说了她未必听得进去。
+
+### 关于瑶瑶…
+
+…这孩子每次来找七七玩耍时都要和我抱怨药苦，问我有没有不苦的药。治病救人的药，哪有不苦的呢？
+
+### 关于钟离…
+
+钟离先生这样的博学多闻之士，哪怕是聊起偏门的古医方也能从容应答，肯定自有一套养生调理的讲究。普通的头疼脑热他自己就能解决了，的确没必要到我这里来开方子。
+
+### 关于魈…
+
+白术：降魔大圣杀生为护生，心有大慈悲。我曾有幸亲眼见过他本人，还将昏迷的他带回庐中照顾了一天，只可惜当时我不识仙师真身，又没来得及多交谈几句，他就独自离开了。
+长生：后来你们不是又见过嘛，不用遗憾啦。
+白术：说得也是。
+
+### 关于提纳里…
+
+原来须弥教令院里有你的相识？那能否麻烦你帮我与这位提纳里先生联络一番，我有不少药草方面的事情想要请教。
+
+### 想要了解白术·其一
+
+我一个治病的大夫，身上能有什么有趣的故事。你要是对传奇故事感兴趣，不如去和裕茶馆请说书先生讲几段。
+
+### 想要了解白术·其二
+
+非要说什么惊心动魄的故事，我这里实在没有。当初我拜师学医时，也没经历什么重大考验，师父他老人家看我不算太笨，让我发了简单的誓，也就入门了。
+
+### 想要了解白术·其三
+
+誓言不算复杂，我还记得个大概：
+「…若有疾厄来求救者，不得问其贵贱贫富，亦不得瞻前顾后，自虑吉凶。见彼苦恼，若己有之，如此可为苍生大医。」
+
+### 想要了解白术·其四
+
+师父的意思我明白，他是希望我勿为外物所动，多为病患考虑。唉，他老人家的确是宅心仁厚，一心舍己救人，可惜未享天年便早早去了。
+
+### 想要了解白术·其五
+
+医者普救世人，但我以为医者自身也在世人之列。身为医者，既要救人也要救己，舍己为人固然值得钦佩，但没有人生来就是要为他人牺牲的，不该这样。
+
+### 白术的爱好…
+
+分拣药材，再依其各自特性炮制成药丸或是药膏，这其中的过程我再熟悉不过。世人都觉得制药过程繁难，但在我看来，其实乐趣无穷。试想，竟有人能将天地造化之功凝聚于小小一剂药中，挽救苍生性命，不是很奇妙吗？
+
+### 白术的烦恼…
+
+为病人看诊时最麻烦的从来不是配药，而是找对病因。唉，病人们身体不适的原因真是千奇百怪，有和人比赛吃绝云椒椒吃到肠胃受损而不自知的，有过量饮水导致头晕恶心的…我只盼望世人都能以健康为重，没事不要胡乱折腾自己的身体。
+
+### 喜欢的食物…
+
+挑食可不是好事。肉、蛋、奶、蔬菜、水果…凡是有营养的食物都要吃，但也不能吃得太多，暴饮暴食同样对身体有害。你别嫌我唠叨，正因我是大夫，才深刻地明白祸从口入的道理。
+
+### 讨厌的食物…
+
+怎么买了这么多糖？你别一口气吃太多，糖吃多了容易蛀牙。我？我对甜味的摄入很有分寸，辛辣的食物也不常吃。你说的没错，我的确非常注意饮食管理。毕竟，如果我连自己的饮食都管不好，又怎么好意思给病人提饮食建议呢。
+
+### 收到赠礼·其一
+
+长生：还有吗？多来点！
+白术：味道的确不错。
+
+### 收到赠礼·其二
+
+你的厨艺有进步，恭喜。
+
+### 收到赠礼·其三
+
+不用担心，味道总比药好些。
+
+### 生日…
+
+长生：那话怎么说来着…哎呀，白术，提醒我一下。
+白术：过生日时的吉利话吗？
+长生：对对对。
+白术：愿你年年有今日，岁岁有今朝。旅行者，生日快乐。
+长生：话都被你说了，那我说什么？算了，我再想点别的。我祝旅行者…嗯…嗯…唉，想不出来了，祝你心情愉快吧。
+长生：你们笑什么嘛，人就是麻烦，比蛇还会弯弯绕。
+
+### 突破的感受·起
+
+凡事需循序渐进，不必急躁。
+
+### 突破的感受·承
+
+多劳你费心，感觉身体比以前强健了不少。
+
+### 突破的感受·转
+
+大概是最近体质有所变化的缘故，精神比从前好了许多，坐诊一天下来也不觉得疲惫。这都是你的功劳。
+
+### 突破的感受·合
+
+连日来辛苦你了。明明我自己就是大夫，却还要麻烦你为我的身体忙前忙后，咳咳…惭愧。放心，往后不会有这种事了，我会照顾你。
+
+### 元素战技·其一
+
+长生：得治治。
+
+### 元素战技·其二
+
+良药苦口啊。
+
+### 元素战技·其三
+
+是药三分毒。
+
+### 元素爆发·其一
+
+病宜速救。
+
+### 元素爆发·其二
+
+须知惜命。
+
+### 元素爆发·其三
+
+且尝，苦尽甘来。
+
+### 冲刺开始·其一
+
+咳…咳。
+
+### 打开宝箱·其一
+
+长生：捣鼓了半天是为了这个啊。
+白术：长生…
+
+### 打开宝箱·其二
+
+冒险生活不容易啊。
+
+### 打开宝箱·其三
+
+回头擦擦手吧，这箱子我怕不够干净。
+
+### 生命值低·其一
+
+…我还能撑。
+
+### 生命值低·其二
+
+长生：不妙不妙！
+
+### 生命值低·其三
+
+我不能…先倒下。
+
+### 同伴生命值低·其一
+
+不可冒进。
+
+### 同伴生命值低·其二
+
+留心伤口…
+
+### 倒下·其一
+
+人死灯灭…
+
+### 倒下·其二
+
+长生，抱歉…
+
+### 倒下·其三
+
+愧为医者啊…
+
+### 普通受击·其一
+
+啧，眼镜。
+
+### 重受击·其一
+
+这点痛，哼。
+
+### 加入队伍·其一
+
+伤口由我处理。
+
+### 加入队伍·其二
+
+这就出诊。
+
+### 加入队伍·其三
+
+希望别走太远…
+
+### 关于嘉明…
+
+比起这个年纪的寻常少年，他身上有更多伤痕旧患，每每过来又常添不少淤青扭损…唉，劝恐怕是劝不住的。我教过他一些包扎和养护的方法，希望对他有帮助。

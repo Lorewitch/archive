@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 75197
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_75197
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 75197
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -28,7 +30,7 @@
 
 #### Поговорите с Орбаном
 
-**Орбан:** Хорошо, что ты (зашла)(зашёл). Насчёт тех клыков... А, так ты уже все (собрала)(собрал)?
+**Орбан:** Хорошо, что ты зашёл. Насчёт тех клыков... А, так ты уже все собрал? / Хорошо, что ты зашла. Насчёт тех клыков... А, так ты уже все собрала?
 
 **Орбан:** Пока вы были заняты исследованием, у меня возникла одна проблемка. Сколько бы я этот клык молотом ни бил, ни крошки не отскакивает...
 
@@ -48,7 +50,7 @@
 
 **Паймон:** А? Погоди. Если Паймон не изменяет память, Ситлали рассказывала, что Пепельное море образовалось из-за битвы Санхаджа с Бездной пятьсот лет назад...
 
-Этот ансамбль точно существовал тысячу лет назад?
+- **Путешественник:** Этот ансамбль точно существовал тысячу лет назад?
 
 **Орбан:** Ха-ха, ошибки быть не может! О подвигах Бродячего ансамбля в эпоху аристократов говорится в «Истории королей и кланов».
 
@@ -58,11 +60,17 @@
 
 **Паймон:** Ничего себе... Нужно отдать Альбедо должное...
 
+##### Вариант ответа 1
+
 - **Путешественник:** При случае отблагодарим его.
+
+**Паймон:** Точно! Что бы мы без него делали?.. Путешественник, давай попробуем поглотить силу рунного камня!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Хорошо, сейчас я всё сделаю.
 
-**Паймон:** Точно! Что бы мы без него делали?.. Путешественник, давай попробуем поглотить силу рунного камня!
+##### Общее продолжение
 
 **Орбан:** Ха-ха, вот и отлично. Держи клык. Дело теперь за тобой.
 
@@ -72,7 +80,7 @@
 
 **Паймон:** Эм... Мы ещё не поглотили «жизненную силу»...
 
-*Вы рассказываете Орбану о произошедшем...*
+Вы рассказываете Орбану о произошедшем...
 
 **Орбан:** Я не ожидал, что случится такое... Ох, главное, что вы вернулись целыми и невредимыми.
 
@@ -92,7 +100,7 @@
 
 **Паймон:** А? Погоди. Если Паймон не изменяет память, Ситлали рассказывала, что Пепельное море образовалось из-за битвы Санхаджа с Бездной пятьсот лет назад...
 
-Этот ансамбль точно существовал тысячу лет назад?
+- **Путешественник:** Этот ансамбль точно существовал тысячу лет назад?
 
 **Орбан:** Ха-ха, ошибки быть не может! О подвигах Бродячего ансамбля в эпоху аристократов говорится в «Истории королей и кланов».
 
@@ -102,17 +110,23 @@
 
 **Паймон:** Ничего себе... Нужно отдать Альбедо должное...
 
+##### Вариант ответа 1
+
 - **Путешественник:** При случае отблагодарим его.
+
+**Паймон:** Точно! Что бы мы без него делали?.. Путешественник, давай попробуем поглотить силу рунного камня!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Хорошо, сейчас я всё сделаю.
 
-**Паймон:** Точно! Что бы мы без него делали?.. Путешественник, давай попробуем поглотить силу рунного камня!
+##### Общее продолжение
 
 **Орбан:** Ха-ха, вот и отлично. Держи клык. Дело теперь за тобой.
 
 **Орбан:** Сила алхимии поистине удивительна. Поглотить «жизненную силу» из тысячелетнего камня... Как такое вообще возможно?
 
-**Орбан:** Хорошо, что ты (зашла)(зашёл). Насчёт тех клыков... А, так ты уже все (собрала)(собрал)?
+**Орбан:** Хорошо, что ты зашёл. Насчёт тех клыков... А, так ты уже все собрал? / Хорошо, что ты зашла. Насчёт тех клыков... А, так ты уже все собрала?
 
 **Орбан:** Пока вы были заняты исследованием, у меня возникла одна проблемка. Сколько бы я этот клык молотом ни бил, ни крошки не отскакивает...
 
@@ -136,11 +150,17 @@
 
 **Паймон:** Ничего себе... Нужно отдать Альбедо должное...
 
+##### Вариант ответа 1
+
 - **Путешественник:** При случае отблагодарим его.
+
+**Паймон:** Точно! Что бы мы без него делали?.. Путешественник, давай попробуем поглотить силу рунного камня!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Хорошо, сейчас я всё сделаю.
 
-**Паймон:** Точно! Что бы мы без него делали?.. Путешественник, давай попробуем поглотить силу рунного камня!
+##### Общее продолжение
 
 **Орбан:** Ха-ха, вот и отлично. Держи клык. Дело теперь за тобой.
 
@@ -150,7 +170,7 @@
 
 **Паймон:** Эм... Мы ещё не поглотили «жизненную силу»...
 
-*Вы рассказываете Орбану о произошедшем...*
+Вы рассказываете Орбану о произошедшем...
 
 **Орбан:** Я не ожидал, что случится такое... Ох, главное, что вы вернулись целыми и невредимыми.
 
@@ -174,21 +194,27 @@
 
 **Паймон:** Ничего себе... Нужно отдать Альбедо должное...
 
+##### Вариант ответа 1
+
 - **Путешественник:** При случае отблагодарим его.
+
+**Паймон:** Точно! Что бы мы без него делали?.. Путешественник, давай попробуем поглотить силу рунного камня!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Хорошо, сейчас я всё сделаю.
 
-**Паймон:** Точно! Что бы мы без него делали?.. Путешественник, давай попробуем поглотить силу рунного камня!
+##### Общее продолжение
 
 **Орбан:** Ха-ха, вот и отлично. Держи клык. Дело теперь за тобой.
 
 **Орбан:** Сила алхимии поистине удивительна. Поглотить «жизненную силу» из тысячелетнего камня... Как такое вообще возможно?
 
-#### Поговорите с Орбаном
+#### Получите напитанный силой драконий клык
 
-(От рунного камня, что лежит на алхимическом верстаке, исходит странное свечение...)
+**Алхимический верстак:** (От рунного камня, что лежит на алхимическом верстаке, исходит странное свечение...)
 
-Поместите драконий клык
+- **Путешественник:** Поместите драконий клык
 
 #### Поговорите с Орбаном
 
@@ -200,15 +226,49 @@
 
 **Орбан:** Благодарю тебя за помощь. Сам я ничего не смыслю в алхимии. Теперь все нужные материалы у нас есть. Подождите немного, оружие скоро будет готово!
 
+#### Поговорите с Орбаном
+
+Орбан начал делать оружие...
+
 **Орбан:** Готово! Ха-ха-ха, подойди, возьми его. Ну, как тебе?
 
-Сколько с меня?
+- **Путешественник:** Сколько с меня?
 
-**Орбан:** Нисколько. Я был рад возможности поработать с этими материалами. Ты мне ничего не (должна)(должен).
+**Орбан:** Нисколько. Я был рад возможности поработать с этими материалами. Ты мне ничего не должен. / Нисколько. Я был рад возможности поработать с этими материалами. Ты мне ничего не должна.
 
 **Орбан:** Ладно. Возьми это оружие с собой в приключения. Позаботься о нём как следует.
 
-*Орбан начал делать оружие...*
+- **Путешественник:** Насчёт драконьих клыков...
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+- **Путешественник:** Насчёт драконьих клыков...
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+- **Путешественник:** Насчёт драконьих клыков...
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+- **Путешественник:** Насчёт драконьих клыков...
+
+##### Вариант ответа 1
+
+##### Вариант ответа 2
+
+##### Общее продолжение
 
 ## EN
 
@@ -238,7 +298,7 @@ You picked up a strange "Dragontooth" while adventuring in Dragonspine. Perhaps 
 
 **Paimon:** Eh? Wait a sec, if Paimon's memory isn't failing her, didn't Citlali tell us that the Mare Jivari was created by Sanhaj's battle with the Abyss... five hundred years ago?
 
-Are we sure the troupe's story is from a thousand years back?
+- **Traveler:** Are we sure the troupe's story is from a thousand years back?
 
 **Orban:** Haha, how could it be mistaken? That wandering troupe's story of heroism has long since been recorded in the "History of Kings and Clans."
 
@@ -248,11 +308,17 @@ Are we sure the troupe's story is from a thousand years back?
 
 **Paimon:** That sounds impressive... as expected of Albedo...
 
+##### Response branch 1
+
 - **Traveler:** We'll have to thank him later.
+
+**Paimon:** Yeah! If not for him, we'd be totally stuck... Anyway, Traveler, let's try absorbing the Runestone's power!
+
+##### Response branch 2
 
 - **Traveler:** Alrighty, I'll handle it.
 
-**Paimon:** Yeah! If not for him, we'd be totally stuck... Anyway, Traveler, let's try absorbing the Runestone's power!
+##### Shared continuation
 
 **Orban:** Haha, that's great! Here — you take this Dragontooth, and I'll leave that whole side of things to you.
 
@@ -262,7 +328,7 @@ Are we sure the troupe's story is from a thousand years back?
 
 **Paimon:** We didn't even get around to absorbing the "vitality"...
 
-*You tell Orban about what happened before...*
+You tell Orban about what happened before...
 
 **Orban:** I never expected something like that to happen... *sigh* I'm just glad you're safe and sound.
 
@@ -282,7 +348,7 @@ Are we sure the troupe's story is from a thousand years back?
 
 **Paimon:** Eh? Wait a sec, if Paimon's memory isn't failing her, didn't Citlali tell us that the Mare Jivari was created by Sanhaj's battle with the Abyss... five hundred years ago?
 
-Are we sure the troupe's story is from a thousand years back?
+- **Traveler:** Are we sure the troupe's story is from a thousand years back?
 
 **Orban:** Haha, how could it be mistaken? That wandering troupe's story of heroism has long since been recorded in the "History of Kings and Clans."
 
@@ -292,11 +358,17 @@ Are we sure the troupe's story is from a thousand years back?
 
 **Paimon:** That sounds impressive... as expected of Albedo...
 
+##### Response branch 1
+
 - **Traveler:** We'll have to thank him later.
+
+**Paimon:** Yeah! If not for him, we'd be totally stuck... Anyway, Traveler, let's try absorbing the Runestone's power!
+
+##### Response branch 2
 
 - **Traveler:** Alrighty, I'll handle it.
 
-**Paimon:** Yeah! If not for him, we'd be totally stuck... Anyway, Traveler, let's try absorbing the Runestone's power!
+##### Shared continuation
 
 **Orban:** Haha, that's great! Here — you take this Dragontooth, and I'll leave that whole side of things to you.
 
@@ -326,11 +398,17 @@ Are we sure the troupe's story is from a thousand years back?
 
 **Paimon:** That sounds impressive... as expected of Albedo...
 
+##### Response branch 1
+
 - **Traveler:** We'll have to thank him later.
+
+**Paimon:** Yeah! If not for him, we'd be totally stuck... Anyway, Traveler, let's try absorbing the Runestone's power!
+
+##### Response branch 2
 
 - **Traveler:** Alrighty, I'll handle it.
 
-**Paimon:** Yeah! If not for him, we'd be totally stuck... Anyway, Traveler, let's try absorbing the Runestone's power!
+##### Shared continuation
 
 **Orban:** Haha, that's great! Here — you take this Dragontooth, and I'll leave that whole side of things to you.
 
@@ -340,7 +418,7 @@ Are we sure the troupe's story is from a thousand years back?
 
 **Paimon:** We didn't even get around to absorbing the "vitality"...
 
-*You tell Orban about what happened before...*
+You tell Orban about what happened before...
 
 **Orban:** I never expected something like that to happen... *sigh* I'm just glad you're safe and sound.
 
@@ -364,21 +442,27 @@ Are we sure the troupe's story is from a thousand years back?
 
 **Paimon:** That sounds impressive... as expected of Albedo...
 
+##### Response branch 1
+
 - **Traveler:** We'll have to thank him later.
+
+**Paimon:** Yeah! If not for him, we'd be totally stuck... Anyway, Traveler, let's try absorbing the Runestone's power!
+
+##### Response branch 2
 
 - **Traveler:** Alrighty, I'll handle it.
 
-**Paimon:** Yeah! If not for him, we'd be totally stuck... Anyway, Traveler, let's try absorbing the Runestone's power!
+##### Shared continuation
 
 **Orban:** Haha, that's great! Here — you take this Dragontooth, and I'll leave that whole side of things to you.
 
 **Orban:** Alchemy's truly something else, huh... How does one even absorb "vitality" from a thousand year-old stone?
 
-#### Talk to Orban
+#### Obtain a Dragontooth that has absorbed power
 
-(The Runestone on the Crafting Bench emits a strange glow...)
+**Alchemist's Crafting Bench:** (The Runestone on the Crafting Bench emits a strange glow...)
 
-Place the Dragontooth
+- **Traveler:** Place the Dragontooth
 
 #### Talk to Orban
 
@@ -390,15 +474,49 @@ Place the Dragontooth
 
 **Orban:** Thanks for your help. I can't work any alchemy to save my life. Right, now that we've got all the materials we need, give me a moment or two, and I'll get this weapon made right away...
 
+#### Talk to Orban
+
+Orban starts forging the weapon...
+
 **Orban:** There, it's done! Haha! Here, hold that. How does it feel?
 
-How much do I owe you?
+- **Traveler:** How much do I owe you?
 
 **Orban:** Oh, don't worry about paying for it. The chance to work with these materials was a rare pleasure. No need to bring Mora into it.
 
 **Orban:** Alright. I'd say this weapon is ready for an adventure, wouldn't you? I hope you'll take good care of it.
 
-*Orban starts forging the weapon...*
+- **Traveler:** About these Dragonteeth...
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+- **Traveler:** About these Dragonteeth...
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+- **Traveler:** About these Dragonteeth...
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
+
+- **Traveler:** About these Dragonteeth...
+
+##### Response branch 1
+
+##### Response branch 2
+
+##### Shared continuation
 
 ## ZH
 
@@ -428,7 +546,7 @@ How much do I owe you?
 
 **派蒙:** 咦？等一下喔，如果我没记错的话，茜特菈莉好像说过，烬寂海是在五百年前，因为桑哈杰的战斗，才成为烬寂海的…
 
-那支乐团真的是一千年前的人吗？
+- **旅行者:** 那支乐团真的是一千年前的人吗？
 
 **乌尔班:** 哈哈，这怎么可能有错呢？那支流浪的乐团可是活跃在旧贵族时代的英雄，《列王与宗室史》中就有记载。
 
@@ -438,11 +556,17 @@ How much do I owe you?
 
 **派蒙:** 听、听起来好像很厉害…该说不愧是阿贝多吗…
 
+##### 对话分支 1
+
 - **旅行者:** 之后要谢谢阿贝多才行。
+
+**派蒙:** 是呀是呀！否则真不知道要怎么办才好…总之，旅行者，我们接下来就试试汲取符石的力量吧！
+
+##### 对话分支 2
 
 - **旅行者:** 好，就交给我吧。
 
-**派蒙:** 是呀是呀！否则真不知道要怎么办才好…总之，旅行者，我们接下来就试试汲取符石的力量吧！
+##### 共同后续
 
 **乌尔班:** 哈哈，那就太好了。来，这枚「牙齿」给你，这件事就拜托你了。
 
@@ -452,7 +576,7 @@ How much do I owe you?
 
 **派蒙:** 呃，我们还没来得及汲取「生命力」，就…
 
-*向乌尔班讲述了之前发生的事情…*
+向乌尔班讲述了之前发生的事情…
 
 **乌尔班:** 没想到还会发生这种事啊…唉，人没事就好，平平安安回来比什么都重要。
 
@@ -472,7 +596,7 @@ How much do I owe you?
 
 **派蒙:** 咦？等一下喔，如果我没记错的话，茜特菈莉好像说过，烬寂海是在五百年前，因为桑哈杰的战斗，才成为烬寂海的…
 
-那支乐团真的是一千年前的人吗？
+- **旅行者:** 那支乐团真的是一千年前的人吗？
 
 **乌尔班:** 哈哈，这怎么可能有错呢？那支流浪的乐团可是活跃在旧贵族时代的英雄，《列王与宗室史》中就有记载。
 
@@ -482,11 +606,17 @@ How much do I owe you?
 
 **派蒙:** 听、听起来好像很厉害…该说不愧是阿贝多吗…
 
+##### 对话分支 1
+
 - **旅行者:** 之后要谢谢阿贝多才行。
+
+**派蒙:** 是呀是呀！否则真不知道要怎么办才好…总之，旅行者，我们接下来就试试汲取符石的力量吧！
+
+##### 对话分支 2
 
 - **旅行者:** 好，就交给我吧。
 
-**派蒙:** 是呀是呀！否则真不知道要怎么办才好…总之，旅行者，我们接下来就试试汲取符石的力量吧！
+##### 共同后续
 
 **乌尔班:** 哈哈，那就太好了。来，这枚「牙齿」给你，这件事就拜托你了。
 
@@ -516,11 +646,17 @@ How much do I owe you?
 
 **派蒙:** 听、听起来好像很厉害…该说不愧是阿贝多吗…
 
+##### 对话分支 1
+
 - **旅行者:** 之后要谢谢阿贝多才行。
+
+**派蒙:** 是呀是呀！否则真不知道要怎么办才好…总之，旅行者，我们接下来就试试汲取符石的力量吧！
+
+##### 对话分支 2
 
 - **旅行者:** 好，就交给我吧。
 
-**派蒙:** 是呀是呀！否则真不知道要怎么办才好…总之，旅行者，我们接下来就试试汲取符石的力量吧！
+##### 共同后续
 
 **乌尔班:** 哈哈，那就太好了。来，这枚「牙齿」给你，这件事就拜托你了。
 
@@ -530,7 +666,7 @@ How much do I owe you?
 
 **派蒙:** 呃，我们还没来得及汲取「生命力」，就…
 
-*向乌尔班讲述了之前发生的事情…*
+向乌尔班讲述了之前发生的事情…
 
 **乌尔班:** 没想到还会发生这种事啊…唉，人没事就好，平平安安回来比什么都重要。
 
@@ -554,21 +690,27 @@ How much do I owe you?
 
 **派蒙:** 听、听起来好像很厉害…该说不愧是阿贝多吗…
 
+##### 对话分支 1
+
 - **旅行者:** 之后要谢谢阿贝多才行。
+
+**派蒙:** 是呀是呀！否则真不知道要怎么办才好…总之，旅行者，我们接下来就试试汲取符石的力量吧！
+
+##### 对话分支 2
 
 - **旅行者:** 好，就交给我吧。
 
-**派蒙:** 是呀是呀！否则真不知道要怎么办才好…总之，旅行者，我们接下来就试试汲取符石的力量吧！
+##### 共同后续
 
 **乌尔班:** 哈哈，那就太好了。来，这枚「牙齿」给你，这件事就拜托你了。
 
 **乌尔班:** 不过，炼金术的力量还真神奇啊，居然能从千年前的石头里提取出「生命力」…究竟是怎么做到的呢？
 
-#### 与乌尔班对话
+#### 获得汲取了力量的龙牙
 
-（放置于炼金合成台上的符石正散发着奇怪的光…）
+**炼金合成台:** （放置于炼金合成台上的符石正散发着奇怪的光…）
 
-放置龙牙
+- **旅行者:** 放置龙牙
 
 #### 与乌尔班对话
 
@@ -580,12 +722,46 @@ How much do I owe you?
 
 **乌尔班:** 辛苦你们帮忙了，我对炼金可是一点头绪都没有。好，这样一来材料就备齐了，你在这稍微等一下，我马上就能把那柄武器做好！
 
+#### 与乌尔班对话
+
+乌尔班开始制作武器…
+
 **乌尔班:** 做好了！哈哈哈，来，拿好了，是不是很有份量感？
 
-我要付多少钱？
+- **旅行者:** 我要付多少钱？
 
 **乌尔班:** 钱？不需要，你能拿来这些材料让我制作武器，我就已经很满足了，你不需要再付钱给我。
 
 **乌尔班:** 好了，拿着这把武器去冒险吧，你可要好好珍惜它啊。
 
-*乌尔班开始制作武器…*
+- **旅行者:** 关于「龙牙」…
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+- **旅行者:** 关于「龙牙」…
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+- **旅行者:** 关于「龙牙」…
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续
+
+- **旅行者:** 关于「龙牙」…
+
+##### 对话分支 1
+
+##### 对话分支 2
+
+##### 共同后续

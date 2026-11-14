@@ -1,0 +1,41 @@
+{
+  "id": "item_131058",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/item_131058.webp",
+  "title": {
+    "ru": "Лазурная звездоснежка",
+    "en": "Frostpetal Starbloom Fish",
+    "zh": "青仙星花鱼"
+  },
+  "region": "Снежная",
+  "rarity": 3,
+  "game_version": "7.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Особый вид рыб, обитающий в водах Снежной. Если посмотреть на неё спереди, шесть плавников складываются в силуэт, напоминающий одновременно звезду и снежинку, поэтому первый обнаруживший её рыболов назвал этот вид звездоснежкой.\nЛазурный подвид окраской напоминает внешний край лепестков морозника, благодаря чему получил прилагательное «лазурный». По сравнению со своими сородичами лазурная звездоснежка обладает исключительно острым чутьём и всегда замечает опасность издалека, после чего стремительно скрывается благодаря мощной тяге, создаваемой шестью плавниками...",
+    "en": "A special species that swims the waters of Snezhnaya. Viewed from the front, its six fins form a shape resembling stars and snowflakes, and so the angler who first discovered them called them \"Starbloom Fish.\" The azure subspecies has coloration akin to the outer petal-edges of a Frostfairy Flower, and so was given the prefix \"Frostpetal.\" Compared to its kin, the Frostpetal Starbloom Fish has the keenest senses of the family, always able to detect danger from far off. And thanks to the propulsion advantage of its six fins, they are also quick to flee from said danger.",
+    "zh": "游弋在至冬水域的特殊鱼种，从正面观察，六片鱼鳍呈现出近似星星与雪花的形状，因而被最早发现它的鱼师命名为「星花鱼」。其中青色亚种的色彩与霜仙花的花瓣外缘相仿，因而被冠以「青仙」的前缀。相比同族，青仙星花鱼的感官敏锐，总能远远察觉到危险，进而凭借六片鱼鳍的动力优势快速远逃…"
+  },
+  "description": {
+    "ru": "Особый вид рыб, обитающий в водах Снежной. Если посмотреть на неё спереди, шесть плавников складываются в силуэт, напоминающий одновременно звезду и снежинку, поэтому первый обнаруживший её рыболов назвал этот вид звездоснежкой.\nЛазурный подвид окраской напоминает внешний край лепестков морозника, благодаря чему получил прилагательное «лазурный». По сравнению со своими сородичами лазурная звездоснежка обладает исключительно острым чутьём и всегда замечает опасность издалека, после чего стремительно скрывается благодаря мощной тяге, создаваемой шестью плавниками...",
+    "en": "A special species that swims the waters of Snezhnaya. Viewed from the front, its six fins form a shape resembling stars and snowflakes, and so the angler who first discovered them called them \"Starbloom Fish.\" The azure subspecies has coloration akin to the outer petal-edges of a Frostfairy Flower, and so was given the prefix \"Frostpetal.\" Compared to its kin, the Frostpetal Starbloom Fish has the keenest senses of the family, always able to detect danger from far off. And thanks to the propulsion advantage of its six fins, they are also quick to flee from said danger.",
+    "zh": "游弋在至冬水域的特殊鱼种，从正面观察，六片鱼鳍呈现出近似星星与雪花的形状，因而被最早发现它的鱼师命名为「星花鱼」。其中青色亚种的色彩与霜仙花的花瓣外缘相仿，因而被冠以「青仙」的前缀。相比同族，青仙星花鱼的感官敏锐，总能远远察觉到危险，进而凭借六片鱼鳍的动力优势快速远逃…"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "animal",
+  "item_type_title": {
+    "ru": "Животное",
+    "en": "Animal",
+    "zh": "动物"
+  }
+}

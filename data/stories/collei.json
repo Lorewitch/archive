@@ -144,5 +144,988 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Стажёр Лесного дозора Коллеи готова к службе! Я буду отвечать за твою безопасность в лесу Авидья... Уф, кажется, всё сказала правильно, нигде не сбилась...",
+        "en": "Trainee Forest Ranger Collei, reporting for duty! I will ensure your safe passage through this forest. ...Phew, I think I've finally got that line down! ...I—I didn't get any of it wrong, did I?",
+        "zh": "见习巡林员柯莱，前来报到！我会保障你在林间出行时的安全——呼，总算能说出这句出场词了，我没念错字吧…"
+      },
+      "source_id": 67000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Маршрут патрулирования леса",
+        "en": "Chat: Forest Patrol Route Map",
+        "zh": "闲聊·巡林路线图"
+      },
+      "text": {
+        "ru": "Сегодня у нас такой маршрут... Сначала сюда, потом туда... Ох, сколько же тут всего написано...",
+        "en": "According to today's forest patrol route map... we need to head here first, then make our way over to there... Hmm... There's a loooot of writing...",
+        "zh": "今天的巡林路线图…先往这里再拐到那里…嗯，字好多…"
+      },
+      "source_id": 67001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Самочувствие",
+        "en": "Chat: Status",
+        "zh": "闲聊·状态"
+      },
+      "text": {
+        "ru": "Гм, сегодня я неплохо себя чувствую. А раз так, надо побольше всего успеть.",
+        "en": "Ah, I'm feeling alright today. I'll take the chance to try and get some more done than usual.",
+        "zh": "呼，今天的状态不错，趁着这个机会，多做一点事吧。"
+      },
+      "source_id": 67002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Воспоминания",
+        "en": "Chat: Memory",
+        "zh": "闲聊·回忆"
+      },
+      "text": {
+        "ru": "Когда сидишь без дела, в голове всё время крутятся разные мысли... Гм... Вспомнилось кое-что неприятное...",
+        "en": "When I don't have much to keep me occupied, old thought patterns start to creep back in, and— Soon as I start talking about it, the flashbacks start...",
+        "zh": "手头没有事情，心里就容易东想西想——唔，一说就想起了不好的事…"
+      },
+      "source_id": 67003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Дождь прошёл, но после него осталось много луж, будь осторожен! Так и разные события проходят, оставляя после себя воспоминания... Хе-хе! / Дождь прошёл, но после него осталось много луж, будь осторожна! Так и разные события проходят, оставляя после себя воспоминания... Хе-хе!",
+        "en": "Even though the rain has stopped, you still need to watch out for puddles. Just like how the past stays in the memory, long after... Ah, ahem, sorry!",
+        "zh": "雨虽然停了，还是要小心水洼。就像一些事，明明过去了还是会留下回忆…咳咳！"
+      },
+      "source_id": 67004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Во время грозы лучше держаться подальше от высоких деревьев. А дозорным следует быть особенно внимательными и следить, чтобы не случилось лесного пожара.",
+        "en": "When you hear thunder, it's best practice to stay away from tall trees. Rangers must also be on the lookout for any signs of a forest fire.",
+        "zh": "打雷的时候，最好避开大树。对巡林员来说，还要格外注意检查，谨防森林火灾。"
+      },
+      "source_id": 67005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Какая славная погода. Погреться на солнышке и для здоровья полезно.",
+        "en": "The weather's not bad. Let's get some sun! Hehe, after all, it's excellent for your health.",
+        "zh": "天气不错，多晒晒太阳，对身体也好。"
+      },
+      "source_id": 67006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Гм, ветер - это здорово. Эмбер обожает такую погоду, для неё это отличная возможность испытать себя.",
+        "en": "Ahh, the wind is perfect. Not too light, not too strong... Hehe, I bet Amber would be itching to test her limits in this weather.",
+        "zh": "嗯，风力正好。安柏应该会很喜欢趁这样的天气挑战自己吧。"
+      },
+      "source_id": 67007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро!.. Уа-а-х... Извини, я вчера опять занималась допоздна...",
+        "en": "Good morning! *yawn* Sorry, I was catching up on my studying again last night...",
+        "zh": "早上好！哈…抱歉，昨晚又在补习…"
+      },
+      "source_id": 67008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Если выходишь на длинный маршрут, не всегда удаётся вернуться в лагерь к обеденному перерыву. Я взяла с собой немного питы. Хочешь попробовать?",
+        "en": "It's quite normal to be out until midday on the longer patrol routes. I brought a few extra Pita Pockets — would you like one?",
+        "zh": "巡林路线一长，中午回不来也很正常。我多准备了一些「口袋饼」，要来一份吗？"
+      },
+      "source_id": 67009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Скоро стемнеет, в такое время в лесу нельзя терять бдительности.",
+        "en": "It's getting dark out. You need to be extra careful if you're going through the forest at this hour.",
+        "zh": "天快黑了，走在林子里一定要加倍小心。"
+      },
+      "source_id": 67010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Собираешься спать? Костёр разведён, ты ложись, а я подежурю.",
+        "en": "Are you ready to get some sleep? Okay. The campfire's lit — I'll keep watch tonight.",
+        "zh": "准备休息了吗？篝火已经生好了，我会为你守夜的。"
+      },
+      "source_id": 67011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Коллеи: Лесной дозор",
+        "en": "About Collei: Forest Ranger",
+        "zh": "关于柯莱自己·巡林"
+      },
+      "text": {
+        "ru": "Перед тем, как оказаться в Сумеру, я какое-то время бродяжничала, приходилось есть всё подряд: и съедобное, и несъедобное. Зато с тех пор я не боюсь дикой природы, потому и устроилась в Лесной дозор. Если бы у нас был экзамен по предмету «Выживание в дикой местности», я сдала бы его на отлично... Устный экзамен, конечно. С письменным возникли бы трудности.",
+        "en": "I wandered the wilderness for quite a long time before arriving in Sumeru, and I've eaten everything out there countless times — edible or not. Since I'm familiar with the wilderness, the work of a Forest Ranger seemed a natural fit for me when I arrived here. If they did courses in wilderness survival, I'm pretty sure I could pass... well, as long as there was no written test.",
+        "zh": "来须弥之前，我在野外流浪过一段日子，能吃不能吃的东西都尝过了好几遍，对野外还算熟悉，所以来这儿之后就做起了巡林的工作。如果「野外生存」也算一门课目的话，我还是有自信考到及格的…嗯，不做笔试的话。"
+      },
+      "source_id": 67012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Коллеи: Дополнительные занятия",
+        "en": "About Collei Herself: Cram",
+        "zh": "关于柯莱自己·补习"
+      },
+      "text": {
+        "ru": "А? Ты хочешь спросить, чему посвящены мои дополнительные занятия? Думаешь, наставник передаёт мне какие-то сокровенные знания?.. Гм... Как тебе сказать... Я изучаю «Основы грамотности Тейвата»...",
+        "en": "Hmm? You wanna know what it is that I'm studying every day? ...Y—Yes, my master is a brilliant intellectual, but no, he's not teaching me anything heavily academic at the moment. It's, um... heh, \"Basic Literacy in Teyvat\"...",
+        "zh": "欸？你问我每天都在补习什么？跟着这么厉害的师父，是不是什么很高深的知识…呃…这个么…《提瓦特识字大全》…"
+      },
+      "source_id": 67013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Старое знакомство",
+        "en": "About Us: Old Friends",
+        "zh": "关于我们·旧识"
+      },
+      "text": {
+        "ru": "Эмбер писала мне про тебя. Не думала, что в Мондштадте за это время столько всего случится. Жаль, я пока плохо читаю, некоторые слова не могу разобрать... Может, расскажешь мне ещё раз, что там у вас произошло?",
+        "en": "Amber's mentioned you before in her letters. I can't believe how much has happened in Mondstadt since I was there. Too bad I had to skip the words I didn't know, so I missed out on a lot of details... Oh, but since you're here now, would you be willing to tell me the whole story?",
+        "zh": "我听安柏在信里提起过你，没想到在蒙德又发生了这么多事。可惜跳着字读，好多细节都没弄懂…欸，你愿意再跟我讲一遍吗？"
+      },
+      "source_id": 67014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Новая дружба",
+        "en": "About Us: New Friends",
+        "zh": "关于我们·新交"
+      },
+      "text": {
+        "ru": "Пока я не попала в Мондштадт, думала, что у меня никогда в жизни не будет друзей... Потом в Сумеру я познакомилась с наставником, а теперь встретилась с тобой. Всё-таки мне очень повезло.",
+        "en": "I used to think that I'd never make a single friend in my whole life, but things changed when I went to Mondstadt... Then after that, I met Master in Sumeru. Now I've met you, too. All in all, I think I've been really lucky.",
+        "zh": "我曾经以为「朋友」什么的，这辈子都不会和我扯上关系，直到去了蒙德…后来在须弥遇见了师父，现在又遇到了你。果然，我还是很幸运的啊。"
+      },
+      "source_id": 67015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Ха... Не думала, что и мне однажды будет дарован Глаз Бога. Раньше я верила, что Архонты жалуют своей милостью только тех людей, которые с самого детства окружены любовью... Гм... Да... Признаю, у меня много предрассудков. Надо их исправлять.",
+        "en": "I never thought there'd come a day where I get my own Vision. In the past, I used to think that the gods only cared about people who were born popular... Um, but I was in a bad place back then. Sorry.",
+        "zh": "哈…真没想到，我也会有拿到神之眼的一天。以前总觉得神明会看的，都是那些生来就被大家喜欢的人…唔，我…我承认我有很多不好的偏见。是我不对。"
+      },
+      "source_id": 67016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся: Названия техник",
+        "en": "Something to Share: Skill Names",
+        "zh": "有什么想要分享·技能名"
+      },
+      "text": {
+        "ru": "Наставник говорит, что главное в обучении - практика, поэтому я иногда беру почитать какие-нибудь лёгкие романы, чтобы выучить новые слова... Во всяком случае, их читать интереснее, чем научные работы наставника. Но в последней книге главный герой владеет разными техниками, и у всех такие непонятные названия... А? Как называется книга? Гм, кажется... «Онибудо»? Ты тоже её читал? / Наставник говорит, что главное в обучении - практика, поэтому я иногда беру почитать какие-нибудь лёгкие романы, чтобы выучить новые слова... Во всяком случае, их читать интереснее, чем научные работы наставника. Но в последней книге главный герой владеет разными техниками, и у всех такие непонятные названия... А? Как называется книга? Гм, кажется... «Онибудо»? Ты тоже её читала?",
+        "en": "Master is always reminding me that practice makes perfect, so I sometimes try reading some light novels to improve my reading ability... Because they're at least easier to read than Master's essays. But recently, I was reading this book where the main character has loads of different skills. Each one has a name, and I didn't know a single word in any of them... Hmm? The title? I think it was, um... \"Onibudou\"? Have you read it before?",
+        "zh": "师父常说最有效的学习就是实践，所以我偶尔也会找些轻小说来看，想多认些字…起码比师父的论文好读。不过，我最近读到的一本书里，主角有好多能力，起的名字全是我看不懂的词…嗯？书的名字？应该是叫…《鬼武道》？你也读过吗？"
+      },
+      "source_id": 67017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся: Запечатанная сила",
+        "en": "Something to Share: Sealed Power",
+        "zh": "有什么想要分享·封印之力"
+      },
+      "text": {
+        "ru": "Ох... «Это проделки запечатанной силы»... «Держись от меня подальше!» Почему жители Инадзумы так легко бросаются подобными словами? Неужели им потом не стыдно? Ай... Нет, не могу больше читать!",
+        "en": "Ugh... Here we go again: \"The power sealed within me grows restless\"... and \"You'd be wise to stay away from me\"... Why are people in Inazuma casually coming out with lines like these all the time? Doesn't it embarrass them when they think back on it later? Aaah... no, it's too cringey. I can't read any more of this!",
+        "zh": "唔哇…又是「被封印的力量在躁动」…还有什么「离我远点才是上策」…为什么稻妻人都能这么自然地说出这些话，他们以后不会觉得尴尬吗？啊…不行，不能再读下去了！"
+      },
+      "source_id": 67018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Животные и растения... Одни съедобные, другие нет, вот и вся разница. Тсс, если наставник услышит, мне конец. Знаешь, я очень люблю деревья, у которых есть дупла. Особенно когда хочется спрятаться... Каждому человеку бывает нужно куда-нибудь спрятаться. Разве нет?",
+        "en": "Well, there's plants and animals, there's ones you can eat and ones you can't, but beyond that it's all much of a... uh, muchness really? ...Shh, don't tell Master I said that. Although... personally, I guess I quite like trees that have a hollow in it? Especially in those moments where I just want to curl up in a ball and hide away. Everyone must have moments like that, right? ...No?",
+        "zh": "花草动物吗…除了能不能吃，好像也没有太大区别。嘘，这话不能被师父听见。要问我的话，我比较喜欢有树洞的树？尤其是在想要「找个地方钻进去」的时候…每个人都会有的吧？不是吗？"
+      },
+      "source_id": 67019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Тигнари...",
+        "en": "About Tighnari",
+        "zh": "关于提纳里…"
+      },
+      "text": {
+        "ru": "Наставник бывает резок в словах, часто ругает искателей приключений, которые любят наесться ядовитых грибов, но на самом деле он очень добрый человек. Он много со мной занимается, а ещё читает мне письма из Мондштадта. Я так ему благодарна!",
+        "en": "Although Master can be quite stern and is always criticizing adventurers for carelessly eating poisonous mushrooms, he is actually a gentle soul. He's so patient when he tutors me, and he even reads out letters from Mondstadt for me. I've always been very grateful to him.",
+        "zh": "师父虽然平时说话有些严厉，还经常批评那些乱吃毒蘑菇的冒险家，但他其实是个很温柔的人。不仅会耐心地给我补课，还会为我读蒙德寄来的信。我一直很感激他！"
+      },
+      "source_id": 67020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Дори...",
+        "en": "About Dori",
+        "zh": "关于多莉…"
+      },
+      "text": {
+        "ru": "Я встретила её во время одного из патрулей, она как будто знала, что я хочу пить, и вытащила из своего мешка бутылку прохладного сока... Хорошо, что наставник был рядом, он её остановил. Иначе я бы потратила на этот сок всю накопленную мору...",
+        "en": "I ran into her once on forest ranger duty. She pulled out a bottle of fruit juice from her bag that looked really tasty, as if she somehow knew I was thirsty... Fortunately, Master was there, and he stopped me from spending all of my hard-earned Mora in a moment of weakness...",
+        "zh": "有次我在巡林路上遇见了她，像是知道我口渴一样，她从袋子里掏出了一瓶看起来特别好喝的果汁…还好当时师父在场，制止了她。不然，我差点就一个冲动，把好不容易攒起来的摩拉都花出去了…"
+      },
+      "source_id": 67021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О малой властительнице Кусанали...",
+        "en": "About Lesser Lord Kusanali",
+        "zh": "关于小吉祥草王…"
+      },
+      "text": {
+        "ru": "Дендро Архонт... В детстве я часто хотела спросить Архонтов, почему на мою долю выпало столько невзгод. Эх, наверное, Архонты тоже не всесильны.",
+        "en": "The Dendro Archon... When I was a kid, there were so many times when I just wanted to scream out to the gods and ask them why, why did I have to go through so much pain...? *sigh* But, for all I know, maybe the gods feel just as helpless about everything they have to endure as I did back then.",
+        "zh": "草神啊…小时候我很多次想大声问问神明，为什么要让我经历这么多苦难。唉，说不定就连神明自己，也经历着各种无奈的事吧。"
+      },
+      "source_id": 67022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Сайно...",
+        "en": "About Cyno",
+        "zh": "关于赛诺…"
+      },
+      "text": {
+        "ru": "Ой, можешь не говорить о нём при мне? Нет, махаматра - не плохой человек, это он забрал меня из Мондштадта, и теперь в Сумеру у меня появился безопасный дом. Но стоит вспомнить, как они накладывали мне эту «печать»... Ох... Шея снова заныла...",
+        "en": "Um... I'd rather not talk about him, if that's okay? Oh, no — the General Mahamatra isn't a bad guy or anything. Matter of fact, I have him to thank for bringing me back from Mondstadt to Sumeru and finding me a safe place to stay. It's just that... whenever I'm reminded of the sealing process just before leaving Mondstadt... ooh... the back of my neck starts hurting again...",
+        "zh": "欸…我们能不提他吗？不，大风纪官不是什么坏人，当初就是他带着我从蒙德回到了须弥，才让我有了安身的地方。只是一想起回须弥前那个「封印」的过程…唔…脖子后边又开始觉得痛了…"
+      },
+      "source_id": 67023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кавехе...",
+        "en": "About Kaveh",
+        "zh": "关于卡维…"
+      },
+      "text": {
+        "ru": "Однажды махаматра приводил его к нам на ужин. Только успели поставить на стол первые фрукты, как он завёл бесконечный рассказ о своём бесчувственном и упрямом соседе, мы даже слова не могли вставить. Только кивали и улыбались, так и прошёл весь ужин. Да, непростой он человек.",
+        "en": "The General Mahamatra once brought him to our place for a meal. From the moment the fruit arrived on the table, he ranted non-stop about his difficult and stubborn roommate for the entire meal. We didn't get a single word in the whole time. We just nodded along and tried to stifle our laughter. It took a lot of effort.",
+        "zh": "大风纪官曾带着他来我们这里吃过一顿饭。在餐前水果刚端上桌的时候，他就开始大谈他那个又不讲情理又固执的室友，我们连插话的时机都找不到。只能点点头，憋着笑，吃完了整顿饭。唉，真是不容易。"
+      },
+      "source_id": 67024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Нилу...",
+        "en": "About Nilou",
+        "zh": "关于妮露…"
+      },
+      "text": {
+        "ru": "Она какая-то рассеянная. Если бы её пригласили выступить в окрестностях Гандхарвы, она бы наверняка заблудилась в лесу... Нет, я бы не дала ей заблудиться, ведь я стажёр Лесного дозора.",
+        "en": "She seems a little absent-minded. If she ever comes to perform around Gandharva Ville, I'm worried she'll end up wandering off into the forest and getting lost... So I'll have to watch out for her, as a responsible trainee forest ranger should.",
+        "zh": "感觉她有点迷迷糊糊的样子，如果来化城郭附近表演的话，不会走着走着就迷路在深林里吧…那我可一定要好好看着她，尽我见习巡林员的职责。"
+      },
+      "source_id": 67025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Об Эмбер...",
+        "en": "About Amber",
+        "zh": "关于安柏…"
+      },
+      "text": {
+        "ru": "Эмбер такая молодец, она добрая, весёлая, смелая и справедливая... Я никого так не уважаю, я перед ней просто преклоняюсь! Она вся светится, словно огонёк, и людям вокруг становится теплее. Не знаю, где бы я сейчас была, если бы не она... Так много времени прошло, она наверняка повзрослела и стала ещё красивей! Не знаю, смогу ли когда-нибудь за ней угнаться.",
+        "en": "Amber is amazing. She's friendly and has tons of enthusiasm, plus she's really brave and always does the right thing... She's the person I admire most of all! She's like a cozy fire that makes everyone around her feel warm. There's no way I'd be where I am today without her... So much time has gone by — I bet she's even more cool and confident than ever these days! Who knows if I'll ever be able to match her.",
+        "zh": "安柏她真的很厉害，又热情又活泼，又勇敢又正义…是我最钦佩、最崇拜的人了！她总能像一团火一样照亮别人，要不是她，我肯定没法走到今天这一步…过了这么久，她现在一定变得更加沉稳、更加帅气了吧！真不知道什么时候才能赶上她。"
+      },
+      "source_id": 67026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Кэйе...",
+        "en": "About Kaeya",
+        "zh": "关于凯亚…"
+      },
+      "text": {
+        "ru": "Как поживают наши друзья в Мондштадте? Я тогда доставила им много хлопот, надо бы вернуться и извиниться... Гм, вот только в Мондштадте мне придётся слушать постоянные издёвки от этого капитана кавалерии... Ладно, подождём, подождём ещё немного...",
+        "en": "How's everyone in Mondstadt, are they good? I caused so much trouble back then, I sometimes wonder if I should make some time to go back there and apologize... Hmm, but what if I ran into the Cavalry Captain, and he started teasing me? ...Yeah, there's no rush, maybe I'll leave it a while longer.",
+        "zh": "蒙德的大家都还好吗？那阵子我可是惹了不少麻烦啊，要不要找个时间回去道歉呢…唔，但感觉一露面就会被那位骑兵队长捉弄…还是再等等吧，再等等…"
+      },
+      "source_id": 67027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Прошло так много времени, но в письмах Лиза до сих пор называет меня «малышка Коллеи», даже не знаю... А? Тебя она называет милашкой? Пха-ха... Извини, я не над тобой смеюсь... Просто настроение сразу поднялось!",
+        "en": "After all this time, Lisa still calls me \"Little Collei\" when she writes to me. I feel like by now she... hmm? She calls you \"cutie\"? Hahaha... Sorry, I don't mean to laugh, um... but I must say, that makes me feel a lot better.",
+        "zh": "明明已经过去了那么久，丽莎给我写信的时候，还是在叫我「小柯莱」，总感觉…嗯？你说她也叫你小可爱？噗…对不起，我不是有意要笑出来的…一下子就开心了好多啊。"
+      },
+      "source_id": 67028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Фишль...",
+        "en": "About Fischl",
+        "zh": "关于菲谢尔…"
+      },
+      "text": {
+        "ru": "«Принцесса осуждения»? Извини, я пробыла в Мондштадте не так долго, ничего о ней не слышала. Но это имя... Хм... Да нет, ничего.",
+        "en": "...\"Prinzessin der Verurteilung\"? ...Mmm, nope, sorry. I wasn't in Mondstadt for very long, so I didn't hear of her. That name, though... *grimace*... Ahem, nothing.",
+        "zh": "…「断罪之皇女」？抱歉，我在蒙德待的时间不长，没有听过这样的人物。不过这个名字…嘶…咳，没什么。"
+      },
+      "source_id": 67029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Коллеи I",
+        "en": "More About Collei: I",
+        "zh": "想要了解柯莱·其一"
+      },
+      "text": {
+        "ru": "Обо мне? Хочешь узнать, что я делала до того, как попасть в Сумеру? Гм... Может, напишешь Эмбер? Ай, нет, если Кэйа узнает, то всё... А он точно узнает! Гм-гм, ладно, тогда я сама расскажу... Уф, извини! Мне нужно пару дней, чтобы настроиться.",
+        "en": "You wanna know more about me? If you mean about before I came to Sumeru, then, um... M—Maybe you could write to Amber and ask her about it? Wait wait wait, no, not that. If Kaeya found out, that would be a disaster. What am I saying — of course he'd find out! O—Okay, I'll tell you myself, then. Whew... I'm sorry! Please give me a few days to work up to it...",
+        "zh": "我的事情么？如果你问的是来须弥之前的…唔，要不…你写信问一下安柏？啊，不行，要是让凯亚发现了就全完了…不对，他肯定会发现的吧！还、还是我自己来说吧，呼——对不起！请先让我再做几天心理准备…"
+      },
+      "source_id": 67030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Коллеи II",
+        "en": "More About Collei: II",
+        "zh": "想要了解柯莱·其二"
+      },
+      "text": {
+        "ru": "Оказавшись в Мондштадте, я наговорила Эмбер и всем остальным много такого, о чём сейчас жалею... Как я могла, ведь они хотели мне помочь! Что они тогда обо мне подумали? Даже представить страшно... Ох, извини. Давай пока остановимся здесь? А то завтра... Мне снова будет стыдно за свои слова.",
+        "en": "When I ended up in Mondstadt, I said a lot of things to Amber and the others that I shouldn't have. I still feel ashamed whenever I think about it... How could I talk like that to people who were just trying to help me? I shudder to think what they must have thought of me back then... Uhh, sorry, maybe we can leave it there for today? If I go any further than that, I know I'll regret it tomorrow.",
+        "zh": "流浪到蒙德的时候，我对安柏他们说了很多不该说的话，现在回想起来还是会很羞愧…我这人真是的，怎么能对想帮我的人说那些话呢！他们那时候究竟是怎么看我的？想想就又…呜，抱歉，今天先到这里可以吗？不然等到明天…我又要为刚刚说过的话后悔了。"
+      },
+      "source_id": 67031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Коллеи III",
+        "en": "More About Collei: III",
+        "zh": "想要了解柯莱·其三"
+      },
+      "text": {
+        "ru": "Из-за элеазара меня отправили лечиться к «Доктору»... Нет, это было не лечение, а «эксперименты». Шло время, и я стала невольно задумываться, что я сделала не так? Почему никто не приходит мне на помощь... И возненавидела всех людей, даже тех, кто не имел отношения к Фатуи. Вспоминаю себя тогда... Я была такой глупой.",
+        "en": "I was once taken to someone they call \"The Doctor\" for treatment for my Eleazar... well, actually \"treatment\" is the wrong word — it was more... experimentation. After so long in that place, I couldn't help but start to wonder, what have I done wrong to deserve this? Why won't anyone come to rescue me? Gradually, I went from hating just the Fatui to hating everyone in the world. Thinking about it now... it was quite childish.",
+        "zh": "因为「魔鳞病」的关系，我曾经被送到「博士」手下治疗…不，那不是治疗，而是「实验」。在那种环境里待久了，我也不由开始想，自己到底做错了什么？为什么没有人来救我…渐渐地，就连「愚人众」以外的人也一并恨上了。现在想想…实在是，太幼稚了。"
+      },
+      "source_id": 67032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Коллеи IV",
+        "en": "More About Collei: IV",
+        "zh": "想要了解柯莱·其四"
+      },
+      "text": {
+        "ru": "Благодаря вам, мой элеазар пропал без следа. Это чудо, о котором я даже не мечтала. Я и не смела надеяться на полное выздоровление, я просто хотела побольше успеть, пока моё тело ещё живёт. Сначала это была месть, потом Лесной дозор... Теперь я свободна жить собственной жизнью.",
+        "en": "Thanks to you guys, my Eleazar has disappeared without a trace. It's the miracle that I never dared to wish for. ...I never held out hope for a cure, I just figured I'd try and just do as much as I could before my body stops moving. First I was focused on revenge, then forest patrol... and now, finally, I am free to live my life.",
+        "zh": "多亏有你们在，「魔鳞病」消失了，是我从前想都不敢想的奇迹。嗯…我一直对完全治愈不抱希望，只想在身体不能活动前，多做一些事情。起初是复仇，后来是巡林…现在，我终于可以自由地活下去了。"
+      },
+      "source_id": 67033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Коллеи V",
+        "en": "More About Collei: V",
+        "zh": "想要了解柯莱·其五"
+      },
+      "text": {
+        "ru": "Ты ведь продолжишь путешествовать? Позволь и мне помочь? Я всему буду усердно учиться... Грамоте, медицине, сражениям, оценке опасностей... Даже мелочам вроде проверки фонарей! Надеюсь, что по пути мы поможем ещё многим людям... Как ты помог мне. / Ты ведь продолжишь путешествовать? Позволь и мне помочь? Я всему буду усердно учиться... Грамоте, медицине, сражениям, оценке опасностей... Даже мелочам вроде проверки фонарей! Надеюсь, что по пути мы поможем ещё многим людям... Как ты помогла мне.",
+        "en": "Are you going to keep traveling? Let me do my part, please? I'll study hard... whether it's reading, medicine, combat, or assessing the danger... even something small, like checking the streetlights! I hope that many more people will get the help they need along the way... just like how you saved me.",
+        "zh": "你接下来还会继续旅行吗，请让我多尽一份力吧。我会努力学习…不管是认字还是学医术，还有战斗、排查危险…甚至是检查路灯这种小事！希望这一路上，能有更多和我一样的人得到帮助——就像你拯救了我一样。"
+      },
+      "source_id": 67034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Хобби Коллеи...",
+        "en": "Collei's Hobbies",
+        "zh": "柯莱的爱好…"
+      },
+      "text": {
+        "ru": "Хобби... Шить, оттачивать свои лётные навыки, помогать людям! А? Говоришь, где-то уже это слышал? Потому что... Я тоже хочу стать человеком, рядом с которым «всем становится теплее». / Хобби... Шить, оттачивать свои лётные навыки, помогать людям! А? Говоришь, где-то уже это слышала? Потому что... Я тоже хочу стать человеком, рядом с которым «всем становится теплее».",
+        "en": "My hobbies? ...Sewing, practicing gliding, and helping people! Hmm? Sounds familiar? Well, that's because... I want to be someone that gives people that warm feeling, too.",
+        "zh": "爱好嘛…缝纫、练习飞行，还有帮助他人！嗯？你说听着有点耳熟？因为…我也想成为「能照亮别人的人」。"
+      },
+      "source_id": 67035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Беспокойство Коллеи...",
+        "en": "Collei's Troubles",
+        "zh": "柯莱的烦恼…"
+      },
+      "text": {
+        "ru": "«В настоящее время... В целях унификации... различных сортов сельскохозяйственных культур... Во избежание длительного употребления в пищу съедобных грибов... Принимаются меры по импорту...» Что это такое? Почему в научных работах Академии всё так непонятно? Почему нельзя просто написать: «Мы не хотим есть одни грибы»?",
+        "en": "\"In response to the homo— homogenization of crop species... taken import measures... avoid long-term consumption of fungal foods...\" What is the point of all this... They're literally saying, \"I don't wanna eat mushrooms,\" but because they're from the Akademiya, they have to make it sound all complicated!",
+        "zh": "「针对当前…农作物品种…单一化…避兔长期食用菌类…采取的进口错施…」——这都是什么和什么啊？为什么教令院的论文连「不想吃蘑菇」都能写得这么复杂啊！"
+      },
+      "source_id": 67036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Наверное, пита? Её удобно брать с собой в дозор, а ещё она отлично утоляет голод. А если помечтать... Тогда, наверное, моё любимое блюдо - редисовые шарики.",
+        "en": "Pita pockets are travel-friendly and filling, so they're probably the food I eat the most. But if we're talking about more than just \"filling,\" my favorite food would be... mmm, Fried Radish Balls, I think.",
+        "zh": "「口袋饼」方便携带，又容易吃饱，应该是我最常吃的东西了？如果不考虑肚子的需要，我最喜欢的食物…嗯，应该是「炸萝卜丸子」吧。"
+      },
+      "source_id": 67037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Скитаясь, я так голодала, что ела даже волчьи крюки, раскрошенные в порошок. Так что нелюбимой еды у меня нет. Разве что грибы я стараюсь не трогать... Дело не во вкусе, просто не хочется оказаться среди тех самых людей, которых так критикует наставник.",
+        "en": "During my wandering days, there were times when I had to crack open Wolfhooks and force them down if I didn't want to go hungry, so there aren't really any foods that I especially hate. If I had to pick one thing that I won't touch, it would be mushrooms of any kind. Nothing to do with the flavor — I just don't want to ever be the one on the receiving end of one of Master's stern lectures...",
+        "zh": "流浪的时候肚子饿了，连钩钩果都要掰碎了吃下去，所以我没有什么特别讨厌的食物。一定要说的话，我不会碰的只有各种蘑菇吧？和口味无关，只是不希望被师父长篇大论批评的人是自己而已…"
+      },
+      "source_id": 67038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ого, как вкусно! Научишь меня такому рецепту?",
+        "en": "Mmm... It's delicious! Could you teach me?",
+        "zh": "嗯——真好吃！你能教教我吗？"
+      },
+      "source_id": 67039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "С таким кулинарным талантом ты не будешь голодать, даже если однажды окажешься на улице.",
+        "en": "With skills like this, I bet you never go hungry when you're out in the wilderness, huh?",
+        "zh": "有这手艺，流浪在外也不会饿肚子了吧。"
+      },
+      "source_id": 67040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Извини, наставник не разрешает мне пробовать странную еду.",
+        "en": "Sorry, Master says I'm not supposed to eat anything that looks suspicious.",
+        "zh": "抱歉，师父交代过我，不能吃奇怪的东西。"
+      },
+      "source_id": 67041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём... С днём рождения! А это тортик, я испекла его для тебя, а вот запасная свечка... Эмбер писала, что этого должно хватить... Ой, а ещё, чуть не забыла, вот мой подарок!\nИзвини, я никогда ещё не поздравляла друзей с днём рождения, не знаю, понравится ли тебе мой подарок... Но я старалась. Если что-то не так, обязательно скажи, в следующем году я подготовлюсь лучше!",
+        "en": "Uh, H—Happy Birthday! Here's the cake I made for you, and here are the candles, so yeah... Amber said in her letter that this would do the job... Oh! And, and here's the gift I got for you!\n...I'm sorry, I don't have much experience arranging birthday parties. I have no idea if you'll like it... Aah, I'm getting all flustered now. If anything's not how you like it, please say, and I'll make absolutely sure to plan a nicer birthday celebration for you next year!",
+        "zh": "生、生日快乐！这个是我准备的蛋糕，这个是备用的蜡烛…安柏在信里说这样就行…啊，还有、还有这个是送给你的礼物！\n…不好意思，我没什么办生日会的经验，也不知道合不合你的心意…弄得手忙脚乱的。有什么不足一定要跟我说，明年，我一定会准备得更好！"
+      },
+      "source_id": 67042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Я становлюсь лучше?",
+        "en": "Does this mean I'm making progress?",
+        "zh": "我这是在进步吗？"
+      },
+      "source_id": 67043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Я чувствую, что я теперь... Не такая, какой была раньше.",
+        "en": "I'm starting to feel like... I'm finally a better person than I used to be.",
+        "zh": "我能感觉得到，我已经…不再是以前的我了。"
+      },
+      "source_id": 67044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Даже если моя жизнь окажется под угрозой, я не стану пользоваться их силой.",
+        "en": "Even if it's a life-or-death situation, I'll never need to rely on their power again.",
+        "zh": "就算到生死关头，也不必再依靠「它们」的力量了。"
+      },
+      "source_id": 67045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Если я сейчас освобожу запечатанную силу, она ведь всё равно будет мне подвластна, правда?\nШучу! Моя настоящая сила - опыт, который я получила во время наших с тобой приключений!",
+        "en": "It probably wouldn't even matter if I unsealed that power now — I've come so far, I think I'd be able to control it, don't you? Well — only one way to find out! Hu-uh!\n...Just kidding. My real superpower is all about the adventure experience I've had with you.",
+        "zh": "现在的我，即使解开被封印的力量，也可以驾驭自如了吧？嘿！\n说笑的，和你一起辛苦冒险的经历，才是我现在拥有的力量啊。"
+      },
+      "source_id": 67046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Уходи.",
+        "en": "Go!",
+        "zh": "去。"
+      },
+      "source_id": 67047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Лети.",
+        "en": "Fly.",
+        "zh": "飞吧。"
+      },
+      "source_id": 67048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Куйлейн-Анбар, помоги!",
+        "en": "Cuilein-Anbar, help!",
+        "zh": "拜托了，柯里安巴！"
+      },
+      "source_id": 67049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Попробуй-ка вот это!",
+        "en": "Try this on for size!",
+        "zh": "试、试试这个！"
+      },
+      "source_id": 67050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Потанцуем!",
+        "en": "Just like we rehearsed!",
+        "zh": "来跳舞吧！"
+      },
+      "source_id": 67051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "В лесу нужно своевременно пополнять свои запасы.",
+        "en": "It's important to replenish your supplies often when you're out in the wild.",
+        "zh": "在野外要时刻注意补给。"
+      },
+      "source_id": 67052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Какая удача!",
+        "en": "Wow, this is so lucky.",
+        "zh": "真幸运啊。"
+      },
+      "source_id": 67053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Гм... Вроде ядовитых грибов там нет.",
+        "en": "Phew, glad there weren't any poisonous mushrooms inside.",
+        "zh": "嗯…箱里没长毒蘑菇吧。"
+      },
+      "source_id": 67054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Мы ещё поквитаемся...",
+        "en": "I—I can keep going!",
+        "zh": "我…还撑得住！"
+      },
+      "source_id": 67055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Ерунда, царапина! Бывало и хуже.",
+        "en": "I've been through worse!",
+        "zh": "这点小痛，不算什么！"
+      },
+      "source_id": 67056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Врача... Скорее...",
+        "en": "Uh... I'm hurt pretty bad...",
+        "zh": "需要…尽快治疗…"
+      },
+      "source_id": 67057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Здоровье превыше всего!",
+        "en": "Don't push yourself!",
+        "zh": "身体要紧！"
+      },
+      "source_id": 67058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Нет, так не пойдёт.",
+        "en": "You're gonna get injured...",
+        "zh": "这样下去不太妙啊。"
+      },
+      "source_id": 67059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Я хотела стать... хорошим дозорным.",
+        "en": "A Forest Ranger... forever.",
+        "zh": "得做优秀的…巡林员。"
+      },
+      "source_id": 67060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "И это... всё?",
+        "en": "No... not like this...",
+        "zh": "居然会…这么倒下…"
+      },
+      "source_id": 67061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Значит... этот день настал...",
+        "en": "I knew... this day would come...",
+        "zh": "还是…到这一天了…"
+      },
+      "source_id": 67062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Как же так...",
+        "en": "How the...",
+        "zh": "怎么会…"
+      },
+      "source_id": 67063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Не трогай меня!",
+        "en": "D—Don't touch me!",
+        "zh": "别碰我！"
+      },
+      "source_id": 67064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Вы под моей защитой.",
+        "en": "I'll ensure your safety.",
+        "zh": "就由我来保护。"
+      },
+      "source_id": 67065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Готовы? В путь!",
+        "en": "Everything's ready, let's go!",
+        "zh": "准备齐全，出发吧！"
+      },
+      "source_id": 67066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Стажёр Лесного дозора готова к службе!",
+        "en": "Trainee Forest Ranger Collei, reporting!",
+        "zh": "见习巡林员报到！"
+      },
+      "source_id": 67067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "О Фарузан...",
+        "en": "About Faruzan",
+        "zh": "关于珐露珊…"
+      },
+      "text": {
+        "ru": "Гм... Честно говоря, я не знаю, как себя с ней вести... Она всё время хвалит меня за усердие в учёбе, но мне приходится так много учиться только потому, что у меня ничего не получается! А однажды я случайно увидела её исследовательские заметки - я только пробежала глазами по странице, ничего толком не успела прочитать, но это самая страшная книга во всём Сумеру! Страница была испещрена древними письменами, ни одного слова не разобрать...",
+        "en": "Um... To be honest, I don't really know how to handle people like Madam Faruzan... She's always saying that I'm a hardworking student and eager to learn, but that's because I have to be! I'm a slow learner, so I have to put in the extra effort. Oh, there was a time when I accidentally saw her research journal — only for a second, though. It was all written in old script, and I couldn't even make out half of it... Definitely the scariest book in Teyvat!",
+        "zh": "呃…老实说，我不太擅长应付这位前辈…虽然她经常夸我勤奋好学，但我真的是因为学得太慢，没办法了，才总是在补习啊！还有一回，我不小心看到了她的研究笔记，虽然只瞟了一眼，但那绝对是全须弥最可怕的书！——上面全是古文，我连半个字都看不懂。"
+      },
+      "source_id": 67068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Хи-хи!",
+        "en": "Hai!",
+        "zh": "嘿。"
+      },
+      "source_id": 67069
+    }
+  ],
+  "replica_count": 70
 }

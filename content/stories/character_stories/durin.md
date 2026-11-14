@@ -436,3 +436,1057 @@ His wish had been granted.
 于是一场伟大的试炼开始了，炼成阵的光芒最终照亮了蒙德城的天空。
 当一切尘埃落定后，杜林在自己这一侧的炼成阵中央发现了一枚闪亮的神之眼。
 他的愿望实现了。
+
+# voice_source_ids: 123000,123001,123002,123003,123004,123005,123006,123007,123008,123009,123010,123011,123012,123013,123014,123015,123016,123017,123018,123019,123020,123021,123022,123023,123024,123025,123026,123027,123028,123029,123030,123031,123032,123033,123034,123035,123036,123037,123038,123039,123040,123041,123042,123043,123044,123045,123046,123047,123048,123049,123050,123051,123052,123053,123054,123055,123056,123057,123058,123059,123060,123061,123062,123063,123064,123065,123066,123067,123068,123069,123070,123071,123072,123073,123074,123075,123076,123077,123078,123079,123080,123081,123082
+
+## REPLICAS_RU
+
+### Привет...
+
+Давно не виделись, я Дурин. Хотя раньше все называли меня Мини-Дурин, но как видишь, сейчас я уже не такой маленький... Понимаю, к моему нынешнему облику непросто привыкнуть, если честно, я и сам ещё не привык к этому телу... Мне столько всего предстоит узнать, и впредь я буду искренне просить тебя о помощи.
+
+### Поболтаем: Истории
+
+Каждый день - новая страница в истории, и, прежде чем перевернуть её, я хочу насладиться каждым пейзажем и каждой заметкой.
+
+### Поболтаем: Прогулка
+
+Могу я остановиться здесь и поиграть... то есть, прогуляться? Я не уйду далеко.
+
+### Поболтаем: Стеснительность
+
+Мне ещё столько нужно узнать о «человеческом общении». Например, куда девать руки, когда я нервничаю? Я просто... очень хочу подружиться со всеми.
+
+### Когда идёт дождь...
+
+Ох, как хочется прыгнуть в лужу...
+
+### Когда гремит гром...
+
+В такую погоду лучше не летать слишком высоко...
+
+### Когда идёт снег...
+
+Он спал в таком месте?..
+
+### Когда светит солнце...
+
+Красиво, как в сказке.
+
+### В пустыне...
+
+Плохо дело, хочется пить...
+
+### Доброе утро...
+
+Доброе утро. Не обращай внимания на то, что я наклоняю голову - у меня немного затекла шея. Прошлой ночью кошка пришла и уснула всего в нескольких метрах от меня. Обычно я пугаю мелких животных. Я не хотел её беспокоить, поэтому всю ночь старался не шевелиться...
+
+### Добрый день...
+
+Существование второго завтрака означает, что между завтраком и обедом обязательно должен быть ещё один приём пищи?
+
+### Добрый вечер...
+
+Интересно, сегодня я увижу звёзды?..
+
+### Спокойной ночи...
+
+Нет ничего более умиротворяющего, чем свернуться калачиком и хорошо выспаться.
+
+### О Дурине: Зрелость
+
+Думаешь, я стал более зрелым? Как ни посмотри, я уже не выгляжу как ребёнок... Кроме того, я не хочу стоять на месте.
+
+### О Дурине: Потеря контроля
+
+Глубоко внутри меня я чувствую эту огромную, неистовую силу. К счастью, алхимия Альбедо безупречна, и сила Бездны внутри меня держится под контролем - всё словно находится в равновесии, не позволяя ей вырваться наружу или трансформироваться. Поэтому нет нужды бояться, что я могу потерять контроль или причинить кому-то вред.
+
+### О Дурине: Эгоизм
+
+Я знаю, что имя Дурин в этом мире вызывает неприязнь. Заменив Дурина с Драконьего хребта, я лишил его права на воскрешение. Признаю, это эгоистично, но в то время я жаждал стать «человеком». Я хотел стать частью мира людей и принести в него больше добра... Я не хотел упускать эту возможность. Я не жалею о своём выборе. Наверное, все так, как говорит Альбедо - все живые существа по-своему эгоистичны...
+Я не могу и не должен говорить за другого Дурина. Я лишь хочу идти своим путём, поступать правильно, чтобы, когда люди произносят имя Дурин, оно ассоциировалось у них с прекрасными воспоминаниями.
+
+### О нас: Столкновение рогами
+
+У драконов есть традиция биться рогами в знак дружбы. Но я боюсь, что не рассчитаю силу, и раню тебя, так что, наверное, не стоит... Ты точно не боишься? Ну хорошо! В целях безопасности давай я буду стоять неподвижно, а ты стукнешься головой о мои рога.
+
+### О нас: Благословение
+
+«Пусть на твоём пути, куда бы ты ни отправился, всегда будут дружба и доброта».
+Это твоё благословение, дар путешественника, прошедшего через многие миры. Я никогда не забуду его. С того дня моя история начала меняться... Спасибо. Я чувствую, как сильно я изменился. Возможно... нет, без сомнения, теперь у меня есть сила защитить тех, кто мне дорог. Поэтому я хочу отблагодарить тебя за твоё благословение обещанием: я всегда и всюду приду тебе на помощь.
+Я обязательно приду, как только узнаю, что ты в опасности. Всё, я закончил...
+
+### О Глазе Бога...
+
+Одним из эффектов Бездны является увеличение силы живых существ. Моя нынешняя форма служит ярким примером того. Я не могу полностью контролировать эту силу, но моё уникальное строение тела, похоже, даёт мне возможность использовать Бездну во благо. Контролировать её очень трудно, требуется предельная концентрация. В противном случае малейшая ошибка с моей стороны может навредить тем, кто мне дорог. Чтобы этого избежать, я должен продолжать учиться и практиковаться...
+Я полагаю, что Глаз Бога является признанием моих усилий.
+
+### Давай поделимся...
+
+Двалин так быстро летает... Может, потому что его крылья больше, чем у меня? Иногда я думаю, что, если бы я по-прежнему был драконом, то есть игрушечным драконом из Симуланки, я бы мог с ним потягаться.
+
+### Интересные вещи...
+
+Моим первым другом была бумажная белка-летяга. Поначалу она была единственной, кто хотел со мной играть. У неё были заострённые ушки и большой бумажный хвост, и она немного напоминала белок в Тейвате. Я собирал для неё цветы с высоких мест... Я очень скучаю по ней.
+Хочешь вместе со мной собирать шишки для белок? Конечно, с удовольствием!
+
+### О матери...
+
+С тех пор как я взял в руки перо матери, я каждый день усердно записываю истории. Кли учила меня ловить рыбу, в результате чего мы оказались в одиночной камере. Альбедо попросил меня помочь вскипятить воду, и это едва не закончилось тем, что чайник превратился в пепел. Маленький мальчик за городскими воротами показал мне, как кормить голубей, и один из них решил присесть на мои рога. Я продолжу заполнять страницы своей книги, и, может быть, когда однажды я буду листать её, я услышу знакомый голос, который тихо скажет: «Какая чудесная история».
+
+### Об Алисе...
+
+Тётя Алиса попросила меня проводить больше времени с Кли. Она сказала, что вознаградит меня, дав мне всё, что я захочу. Но вознаграждения хотят только дети, а я явно вырос... Мне нравится играть с Кли, потому что я счастлив, когда мы проводим время вместе - всё просто. Когда я сказал об этом тёте Алисе, она была вне себя от радости и сказала, что подберёт «огромную игрушку» специально для меня...
+
+### Об Альбедо: Семья
+
+Альбедо поделился со мной многими своими мыслями о том, как стать человеком. Он рассказал мне о многих проблемах, с которыми сталкиваются люди - о работе, идеалах, жизни... Некоторые из этих вещей мне слишком сложно понять, а другие и вовсе невозможно представить.
+Я могу постепенно узнавать об этих проблемах по мере их возникновения, прежде чем принимать собственные решения. Семья - это единственное, что человек не может выбрать. Я знаю, что у меня непростая и весьма необычная семья, но с братом Альбедо я чувствую себя спокойно и уютно. В этом смысле моя семья ничем не отличается от большинства других.
+
+### Об Альбедо: Предчувствие
+
+Альбедо - идеальный «человек». Он знает так много и всегда способен справиться с любыми трудностями. Он открыт и дружелюбен по отношению к окружающим. Но иногда мне кажется, что у него есть и другая сторона, о которой никто и не подозревает. Например, он готов пойти на решительные меры, чтобы достичь своих целей... Я не знаю, откуда берётся это странное предчувствие - возможно, это своего рода резонанс между существами, принадлежащими к одному «виду»?
+
+### О Страннике: Друг
+
+Вскоре после того, как я покинул Симуланку, я последовал за Мастером Шляпкой в Сумеру. Академия такая большая и красивая. И там так много книг. Только сейчас, когда я учусь читать и писать, я вдруг осознал, как должно быть тяжело учиться там.
+Хотя бывали моменты, когда у всех было свободное время, и они приходили к Мастеру Шляпке, чтобы поиграть в карты, поболтать или даже поделиться вкусной едой. Например, тот с большими ушами, или тот, у которого уши на шапке ещё больше, или тот, что похож на волкодава... Я спросил Мастера Шляпку, друзья ли они. Он всегда жалуется, что они шумные, но никогда не отрицал, что они друзья.
+
+### О Страннике: Решимость
+
+У нас с ним есть общие черты. Кажется, он всегда знает, о чём я думаю, и затем направляет меня как умудрённый жизненным опытом человек. Когда я говорю: «Не подходите слишком близко», в действительности я хочу обратного... Мастер Шляпка поступает именно так. Поэтому даже когда он говорит, что хочет побыть один, даже если он намеренно пытается отговорить меня, я всегда решительно остаюсь рядом с ним.
+
+### О Нилу...
+
+Когда я был в Сумеру, я специально выбрал время, чтобы навестить фею Нилу... Прости, сила привычки - в этом мире я должен называть её госпожой Нилу. Я смотрел, как она танцует на Большом базаре, и она была прекрасна, словно фея.
+
+### О Навии...
+
+Если будет возможность, я бы хотел поблагодарить короля Столицы Созвездия... Я имею в виду госпожу Навию. Интересно, она будет шокирована, увидев, как я выгляжу сейчас? Думаешь, нет? Замечательно!
+
+### О Кираре...
+
+Если бы все кошки в таверне «Кошкин хвост» были такими, как Кирара, они бы не нервничали при виде меня...
+
+### О Венти...
+
+«Юный бард нежно перебирал струны, и его голос был чист, как горный ручей. Это был не боевой гимн и не молитва, а шёпот звёзд, ветер, шелестящий в кронах деревьев. Веки дракона слегка дрогнули, а в его горле тихо потрескивало пламя».
+Однажды ночью я не мог заснуть и отправился на прогулку по лесу. Там я встретил Барбатоса, который делал то же самое. Он спел мне эту песню, и она мне так понравилась, что я решил её выучить...
+
+### О Лизе...
+
+После того как наставница Лиза задаёт мне домашнее задание, она заставляет меня сесть за парту и сделать его. Однажды, когда я был очень уставшим, я поставил книгу на парту, чтобы она закрывала меня, и попытался незаметно вздремнуть. Когда я проснулся, она стояла рядом и улыбалась. Я до смерти перепугался. Но, прежде чем я успел извиниться, она похвалила меня за то, что я усвоил самый ценный урок... Думаю, она имела в виду мою готовность признавать свои ошибки.
+Думаешь, она не за это меня похвалила?
+
+### О Кли...
+
+Альбедо однажды сказал, что относится к Кли как к младшей сестре, а сама Кли любит называть меня старшим братом. Формально я и вправду её старший брат, хотя я совсем недавно стал человеком. Если говорить о человеческом возрасте, то можно ли считать её моей младшей сестрой? Хм...
+
+### О Фишль...
+
+Меня интересует... Ещё в Симуланке я почувствовал, что она отличается от других. Она, как я, вышла из книги?
+
+### О Дионе...
+
+В сказках та, кто умеет готовить затуманивающие разум зелья и управляет множеством кошек, скорее всего, могущественная ведьма.
+
+### О Варке...
+
+Магистр ордена Варка отличается от большинства рыцарей Мондштадта. Он силён, но не внушает страха - в его присутствии окружающие чувствуют себя спокойно и в безопасности. Он из тех рыцарей, которые могут отпускать шутки даже во время сражения с Дикой Охотой, хотя большинство его шуток пролетают мимо моих ушей... Хочешь знать, какие я понял? Ну, я их не расслышал, вероятно, потому что он часто невнятно произносит слова после выпитого...
+
+### Узнать больше о Дурине I
+
+До того, как я оказался здесь, я проводил большую часть времени, погружённый в истории моей матери. Я никогда не обнимал её и не чувствовал тепла её объятий, но её нежный голос сопровождал меня на протяжении многих моментов - как счастливых, так и грустных. Если когда-нибудь захочешь услышать её истории, я с удовольствием прочитаю их тебе.
+
+### Узнать больше о Дурине II
+
+Я слышал, что при разговоре с людьми нужно смотреть им в глаза - это базовый этикет. Но я также слышал, что пристально смотреть на человека - невежливо. Я решил попробовать часто моргать во время разговора или держать один глаз закрытым, но все говорили, что мне нужно пойти к Барбаре и проверить зрение...
+Похоже, правила общения в этом мире и в самом деле одни из самых трудновыполнимых...
+
+### Узнать больше о Дурине III
+
+Было время, когда я слышал в своём сердце странный голос, который заставлял меня сомневаться, действительно ли я настоящий... В моих венах течёт кровь дракона - будут ли люди бояться меня из-за этого? Однажды мне приснилось, что все игрушечные фигурки в Столице Созвездия бросают в меня камни. Когда я проснулся, меня окружал дождь из конфетти - мои друзья в Мондштадте решили устроить мне сюрприз на день рождения... В тот момент я понял, что странный голос в моём сердце был не воздействием дракона, а моей собственной неуверенностью и сомнениями...
+Я никогда не забуду эту картину: свечи на торте освещали тёплые улыбки друзей... В тот момент я вышел из тумана неуверенности.
+
+### Узнать больше о Дурине IV
+
+Перед тем, как отбыть в Нод-Край, магистр Джинн и Альбедо предупредили меня, что мы отправляемся в очень опасное путешествие - что то, с чем нам придётся столкнуться, может оказаться гораздо серьёзнее, чем я могу себе представить. Они уважали мой выбор и хотели, чтобы я всё хорошо обдумал, прежде чем присоединиться к ним. Но когда я услышал, что ты в беде, я незамедлительно попросил их взять меня с собой.
+Только увидев Дикую Охоту вблизи, я понял, что такое настоящая опасность. Увиденное было гораздо страшнее, чем мои представления о проваливающейся под ногами земле и обрушивающихся Игрушечных шахтах...
+Нет, я не жалею о своём решении. Но я боялся... боялся, что не смогу помочь. Это выводило меня из себя - сомневаюсь, что это от тебя ускользнуло... К счастью, всё закончилось хорошо, и теперь я могу спокойно принимать похвалу.
+
+### Узнать больше о Дурине V
+
+Люди, как мне кажется, состоят из частичек других людей... Не в алхимическом смысле, а скорее... Скорее в том смысле, что я помню слова своих друзей, или то, как мне нравятся рестораны, в которых мы вместе обедаем, или то, как ты вдохновляешь меня путешествовать по миру... Я стал тем, кем я есть сегодня, потому что впитал в себя всё это от окружающих.
+И теперь я тоже хочу стать частью их сердец.
+
+### Хобби Дурина...
+
+Сейчас для меня всё в Мондштадте в новинку, и я хочу всё исследовать. В-вино? Н-нет, я не могу пить вино... По крайней мере, пока.
+
+### Беспокойство Дурина...
+
+Животные Тейвата не бумажные, и у меня больше нет острых когтей. Я думал, что наконец-то смогу спокойно их погладить... Но они всё равно убегают, почуяв мой запах. Ох...
+
+### Любимая еда...
+
+Я люблю мясо. Большие куски. Но сейчас мне требуется много времени, чтобы его съесть. Мне сложно пользоваться ножом и вилкой - никак не могу запомнить, что из этого нужно, чтобы нарезать мясо...
+
+### Нелюбимая еда...
+
+Прошу прощения, можно мне поменьше овощей? Можно вообще без овощей.
+
+### Подарок I
+
+Какие столовые приборы использовать? Можно есть руками?
+
+### Подарок II
+
+Спасибо. По правилам этикета предполагается, что я должен ответить взаимностью, поэтому позволь угостить тебя напитком.
+
+### Подарок III
+
+Прошу прощения, похоже, у меня не работают вкусовые рецепторы... Позволь попробовать ещё раз... Ой, с ними действительно что-то не так!
+
+### День рождения...
+
+Твой день рождения наступил так быстро! Прости, я всё время придумываю новые детали, которые можно добавить, поэтому ещё не закончил...
+Это лодка-оригами, которую я делаю для тебя. Бумажные животные на борту - наши друзья. А человек на носу, которого я ещё не успел раскрасить, - это ты. В моём представлении ты совсем как рулевой, излучающий золотой свет... Хочешь помочь мне раскрасить тебя в золотой цвет?
+Ой, чуть не забыл. Лодка называется «Путешественник». Желаю тебе продолжать плыть вперёд вместе со своими друзьями! С днём рождения! / Твой день рождения наступил так быстро! Прости, я всё время придумываю новые детали, которые можно добавить, поэтому ещё не закончил...
+Это лодка-оригами, которую я делаю для тебя. Бумажные животные на борту - наши друзья. А человек на носу, которого я ещё не успел раскрасить, - это ты. В моём представлении ты совсем как рулевой, излучающий золотой свет... Хочешь помочь мне раскрасить тебя в золотой цвет?
+Ой, чуть не забыл. Лодка называется «Путешественница». Желаю тебе продолжать плыть вперёд вместе со своими друзьями! С днём рождения!
+
+### Чувство возвышения: Начало
+
+Легенда гласит, что на вершине замка злой дракон охраняет сверкающие самоцветы.
+
+### Чувство возвышения: Нарастание
+
+Странствующий герой взобрался на крепостную стену и увидел дракона, чья чешуя была покрыта звёздной пылью. Он подталкивал носом осколки падших звёзд, словно помогая потерявшимся звёздным духам вернуться на свой путь.
+
+### Чувство возвышения: Кульминация
+
+Дзынь. Герой бросил свой меч и, раскрыв ладони, сказал: «Я пришёл из-за пределов звёздного пространства. Прошу, позволь мне помочь».
+
+### Чувство возвышения: Окончание
+
+С тех пор окна на вершине башни светились всю ночь напролёт, пока дракон вел героя в дозор по космическому берегу. Звёздное небо было их плащом, а дружба - компасом, указывавшим путь.
+
+### Элементальный навык I
+
+Опасно!
+
+### Элементальный навык II
+
+Осторожно!
+
+### Элементальный навык III
+
+Я справлюсь!
+
+### Элементальный навык IV
+
+Назад!
+
+### Элементальный навык V
+
+Разрыв!
+
+### Элементальный навык VI
+
+Пожирающий коготь!
+
+### Взрыв стихии I
+
+История только начинается.
+
+### Взрыв стихии II
+
+Гниение... Возрождение.
+
+### Взрыв стихии III
+
+Поворот судьбы.
+
+### Взрыв стихии IV
+
+Не подходи!
+
+### Взрыв стихии V
+
+Тени Бездны... сгорают.
+
+### Взрыв стихии VI
+
+Скорбь по концовке.
+
+### Открытие сундука I
+
+Волнуюсь, будто открываю подарок...
+
+### Открытие сундука II
+
+Как пользоваться этими предметами?
+
+### Открытие сундука III
+
+Такого я ещё не видел... Узнал что-то новое.
+
+### Низкий уровень HP I
+
+Я могу продолжать.
+
+### Низкий уровень HP II
+
+Силы ещё не исчерпаны.
+
+### Низкий уровень HP III
+
+Нет... не сейчас!
+
+### Низкий уровень HP компаньона I
+
+Позволь защитить тебя.
+
+### Низкий уровень HP компаньона II
+
+Доверься мне.
+
+### Без сознания I
+
+Это...можно считать хорошей концовкой?
+
+### Без сознания II
+
+Прости...
+
+### Без сознания III
+
+Стану ли я звездой на небосводе?..
+
+### Получен лёгкий удар I
+
+Руки прочь.
+
+### Получен лёгкий удар II
+
+Нет.
+
+### Получен тяжёлый удар I
+
+Как грубо!
+
+### Получен тяжёлый удар II
+
+Прекрати!
+
+### Присоединяется к группе I
+
+Всем привет! Я Дурин.
+
+### Присоединяется к группе II
+
+Я буду рядом.
+
+### Присоединяется к группе III
+
+Усилить боевую мощь? Я постараюсь.
+
+## REPLICAS_EN
+
+### Hello
+
+It's been a long time. I'm Durin. Everyone used to call me Mini Durin, but as you can see, I'm not really "mini" anymore... Do you find my appearance strange? To tell you the truth, it's still a little strange to me... I have so much to learn — I hope you don't mind if I ask you for help.
+
+### Chat: Stories
+
+Each day is a new page in my story. I want to savor every scene, every footnote, before I turn to the next one.
+
+### Chat: Walking
+
+Can I stop here and play— I mean, take a stroll? I won't go too far.
+
+### Chat: Awkward
+
+I still have so much to learn about "human interactions." Like, where should I put my hands when I'm nervous? I just... really want to make friends with everyone.
+
+### When It Rains
+
+Oh dear, I'm feeling the urge to jump in a puddle...
+
+### When Thunder Strikes
+
+It's best not to fly too high in this weather...
+
+### When It Snows
+
+Did "it" once slumber in a place like this...?
+
+### When the Sun Is Out
+
+It's like a scene from a fairy tale — how pretty.
+
+### In the Desert
+
+Oh dear, I'm getting thirsty...
+
+### Good Morning
+
+Good morning. Please don't mind my head lolling — my neck's a bit stiff. Last night, a cat came and slept only a few meters away. Usually, I frighten small animals off. I didn't want to disturb it, so I tried not to move all night...
+
+### Good Afternoon
+
+If brunch is a thing, does that mean there's such a thing as linner?
+
+### Good Evening
+
+I wonder if we'll see the stars tonight...
+
+### Good Night
+
+There's nothing more peaceful than curling up in your own tail for some good sleep.
+
+### About Durin: Growing Up
+
+You... think I'm getting more mature? Well, I mean, I'm not a little kid anymore, so I have to start acting more grown-up. Besides... the last thing I want is to stay stuck in the past.
+
+### About Durin: Losing Control
+
+I can feel this vast, almost frenzied power lurking deep inside me. Fortunately, Albedo's alchemy is flawless, and this Abyssal power within my form is kept in check — it's as though everything is in equilibrium, preventing the possibility of overflow or corruption. As such, there's no need to fear that I might lose control or hurt anyone.
+
+### About Durin: Selfish
+
+I know taking the name Durin for myself in this world invites criticism. Replacing Durin of Dragonspine means that I've stolen his right to resurrection. Admittedly, this is selfish, but at the time, I yearned to be "human." I wished to be a real part of everyone's world, and to bring more good to it too... I didn't want to reject that opportunity. I don't regret the choice I made. Maybe it's like Albedo says — all life can be selfish...
+Either way, I can't speak for the other Durin — I only wish to walk my own path, to do right, so that when the name "Durin" passes people's lips, it's accompanied by beautiful memories.
+
+### About Us: Clashing Horns
+
+Dragons clash horns as a way to express their friendship. But I'm scared I might use too much force. I don't want to hurt you, after all... Are you sure you're not worried? Alright! In the interests of safety, how about I stand still, and you bump your head on my horns?
+
+### About Us: Blessing
+
+"May you find friendship and goodwill, no matter where you go."
+This is the blessing that you, as a Traveler who had traversed many worlds, gave to me. I've never forgotten. Ever since that day, my story began to change... Thank you. I can feel how much I've transformed. Maybe— no, undoubtedly, I now have the strength to protect those I cherish. So, I want to repay your blessing with a promise: No matter when, no matter where, so long as you need me, I'll lend you my help.
+Uhm, so I'll definitely come as soon as I find out you're in danger. Alright, I'm done, that should just about cover everything...
+
+### About the Vision
+
+One of the effects of the Abyss is that it can increase the power of living things. My current form serves as ample roof of this phenomenon. Though I can't fully control its power, my unique constitution seems to give me have the potential to use the Abyss in service of good. Controlling it is hard and requires immense concentration — otherwise, any missteps I take could hurt those I hold dear. To avoid this, I must continue to learn and practice...
+I believe this Vision serves as recognition of my efforts.
+
+### Something to Share
+
+Dvalin flies so fast... Is it because his wings are bigger than mine? Sometimes I think, if I still had my dragon form — the toy block one from Simulanka, I mean — I could give him a run for his money.
+
+### Interesting Things
+
+My first friend was an origami flying squirrel. At first, it was the only thing that wanted to play with me. It had two pointy ears and a big paper tail, and it looked a little like the squirrels in Teyvat. I used to pick flowers for it from high places... I miss that squirrel a lot.
+You want to pick pinecones for the squirrels together? Of course, I'd love to!
+
+### About Mother
+
+Ever since taking up Mother's pen, I've diligently committed each day's stories to paper. Klee taught me how to fish, which ended with us locked in solitary confinement. Albedo had me help him boil water, which almost ended in the kettle turning to ash. A little boy outside the city gate showed me how to feed the pigeons, and one of them decided to perch on my horns. I'll continue to fill the pages of my book, and maybe, when I'm turning the pages one day, I'll hear a familiar voice quietly narrating, "This is a wonderful story indeed."
+
+### About Alice
+
+Aunt Alice asked me to spend more time with Klee. She said she'd reward me by giving me anything I wanted. But only children want rewards, and I'm clearly all grown up... I like playing with Klee because I'm happy when we spend time together — it's as simple as that. When I told Aunt Alice that, though, she was overjoyed, and said she'd pick out a "giant toy" just for me...
+
+### About Albedo: Family
+
+Albedo has shared so many of his experiences with me regarding becoming truly human. He's explained many of the problems that humans face — things like work, ideals, life... Some of these things are too difficult for me to understand — some are too difficult for me even to imagine.
+Albedo says I can slowly learn about these problems as I experience them, before making my own choices. Family is the only thing that a human can't choose. I know my family is complicated and highly unusual, but with Albedo as my brother, I'm filled with a sense of peace and belonging. In that sense, my family is no different from most.
+
+### About Albedo: Sense
+
+Albedo is the perfect "human." He knows so much and is always able to handle everything he faces. He's sincere and friendly to those around him. But sometimes, I feel like there's another side to him, one no one would expect. Like how he takes decisive measures to achieve his aims... I don't know where this uncanny intuition comes from — perhaps it's a sort of resonance between beings who share a "species"?
+
+### About the Wanderer: Friends
+
+Shortly after leaving Simulanka, I followed Hat Guy to Sumeru. The Akademiya was so big and so beautiful — and there were so many books. It's only now that I'm learning to read and write that I suddenly understand how stressful it must be studying there.
+Not that there weren't times when people had time off and came to Hat Guy to play cards, chat, or even share delicious food. Like the one with the large ears, or the one with the hat that had even larger ears, or the one who looked like a small wolfhound... I've asked Hat Guy if they're his friends. He always complains about how noisy they are, but he's never denied their friendship.
+
+### About the Wanderer: Resolution
+
+We share some similarities, he and I — he always seems to know what I'm thinking, and then guides me as someone who's "already seen it all." Whenever I tell people, "Don't get too close," I really want them to resolutely refuse... That's what Hat Guy does. So even when he says he wants to be alone, even if he deliberately tries to discourage me, I always stick by his side.
+
+### About Nilou
+
+When I was in Sumeru, I took the time to visit Fairy Nilou— Sorry, force of habit — I should call her Miss Nilou in this world. I watched her dancing at the Grand Bazaar, and she was as beautiful as a fairy.
+
+### About Navia
+
+If I get the chance, I'd like to thank the King of Constellation Metropole— Uhm, I mean to say, Miss Navia. I wonder if she'll be shocked to see what I look like now? ... You don't think she'll mind? That's great news!
+
+### About Kirara
+
+If all the kitties in The Cat's Tail were like Kirara, I don't think they'd get so nervous when they see me...
+
+### About Venti
+
+"The young bard gently plucked his strings, a voice as clear as a mountain stream. It was no battle hymn nor prayer, but the murmuring of stars, the wind blowing through the trees. The dragon's eyelids faintly twitched, flames gently crackling in its throat."
+One night, when I couldn't sleep, I took a stroll in the wilds. I met Lord Barbatos doing likewise. He sang this song for me, and I liked it so much, I made sure to learn it...
+
+### About Lisa
+
+After Miss Lisa sets homework for me, she makes me sit at my desk to complete it. One time, when I was exhausted, I stood my book up on my desk so it blocked her view and tried to nap in secret. When I woke up, she was standing there smiling. It scared me stiff. But before I could finish apologizing, she praised me for learning the most valuable lesson... I think she was talking about my willingness to acknowledge my mistakes.
+Oh, so you don't think that's what she meant?
+
+### About Klee
+
+Albedo once told me he treats Klee like a little sister. Klee likes to call me Big Brother Durin, too. I guess I am technically her big brother, though I haven't been human for very long — if we're talking about human age, is she really my *little* sister? Hmm...
+
+### About Fischl
+
+I can't help but wonder... Back in Simulanka, I felt like she was different from the others. Is she the same as me — did she come out of a book, too?
+
+### About Diona
+
+In fairy tales, anyone who can mix potions that befuddle the heart and mind and command the obedience of cats is almost certainly a powerful witch.
+
+### About Varka
+
+Grand Master Varka is different from most of Mondstadt's knights. He's powerful but not imposing — he leaves people feeling calm and safe. He's the sort of knight who can crack a joke while fighting off the Wild Hunt — although most of his jokes go way over my horns... You want to know about ones I did understand? Well, I didn't hear them clearly either, probably because he often slurs his words after drinking...
+
+### More About Durin: I
+
+Before I came here, I spent most of my time living inside Mother's stories. I never hugged her or felt the warmth of her embrace, but her gentle voice guided me through so many moments — both happy and sad. If you ever want to hear her stories, I'd be more than glad to read them to you.
+
+### More About Durin: II
+
+I've heard it's polite to look people in the eye when talking to them. But I've also heard it's rude to stare. I thought to try blinking often while talking, or to keep one eye closed at a time, but everyone kept telling me to see Miss Barbara and have my eyes checked...
+It seems the rules for socializing in this world really are some of the hardest to follow...
+
+### More About Durin: III
+
+For a while, I could hear this strange voice inside my heart that made me question whether I was truly me... There's dragon blood flowing through my veins — will humans fear me because of it? One time, I dreamed that all the toy figures in Constellation Metropole were throwing stones at me. When I woke up, I was surrounded by a shower of confetti — my friends in Mondstadt had decided to throw me a surprise birthday party... That was when I realized the strange voice in my heart wasn't draconic influence, but my own insecurity and self-doubt...
+I'll never forget it — the light from the candles on my cake illuminating my smiling friends... That was the moment I emerged from the fog of uncertainty.
+
+### More About Durin: IV
+
+Before we left for Nod-Krai, Master Jean and Albedo warned me that we were embarking on a journey of great danger — that whatever we ended up facing may be far more serious than I could imagine. They respected my choice — they just wanted me to consider things fully before joining them. But when I heard you were in danger, I requested that they let me join them immediately.
+Only after seeing the Wild Hunt up close did I understand what danger really is. The scene was far more terrifying than my mental images of the ground giving way underfoot, the Toytanium Mines collapsing in on themselves..
+No, I don't regret my decision. But I was scared... I was worried I would be unable to help. It left me on edge — I'm sure you noticed. Luckily, everything turned out well, and now I can feel comfortable accepting everyone's praise.
+
+### More About Durin: V
+
+I feel like humans are pieced together from bits of other people... Not in an alchemical sense, more like... More like how I remember things that my friends have said, or how I like the restaurants we eat at together, or how you inspired me to travel the world... The reason I am who I am today is that I've absorbed all these influences from other people.
+And now I want to become a piece of other people's hearts, too.
+
+### Durin's Hobbies
+
+Right now, everything in Mondstadt is new to me, and I want to explore it all. W—Wine? N—No, I can't drink wine... At least, not yet.
+
+### Durin's Troubles
+
+The animals in Teyvat aren't made of folded paper, and I don't have sharp claws anymore... I thought maybe I'd be able to pet them now, but whenever I try, they just run away scared... *sigh*
+
+### Favorite Food
+
+I love eating meat — big chunks of it. But at the moment, it takes me a long time to finish. Using a knife and fork is a little complicated for me — I can never remember which one does the cutting...
+
+### Least Favorite Food
+
+Excuse me, could I have a smaller portion of vegetables on mine? Or perhaps no vegetables at all?
+
+### Receiving a Gift: I
+
+What type of cutlery should I use for this? Can I just use my hands?
+
+### Receiving a Gift: II
+
+Thank you. Societal expectations demand reciprocity, so let me treat you to a drink.
+
+### Receiving a Gift: III
+
+I'm sorry, my taste buds appear to be faulty... Let me try again... Oh dear, there really is a problem with them!
+
+### Birthday
+
+It feels like your birthday's come around so fast! I'm sorry, I keep thinking of new details to add, so I still haven't finished...
+This is an origami boat I've been making for you — the paper animals on board are our friends. And this person standing at the bow, who I haven't had time to color in yet, is you. In my mind, you helm the ship, radiating golden light... Do you want to help me paint you gold?
+Oh, I almost forgot — this boat is called "The Traveler." May you continue to sail forward alongside your friends! Happy birthday!
+
+### Feelings About Ascension: Intro
+
+A legend told of an evil dragon who hoarded glittering gems behind the high windows of a castle.
+
+### Feelings About Ascension: Building Up
+
+A wandering hero ascended the ramparts, only to find the dragon — its scales covered in stardust — pushing the fragments of fallen stars with its snout, as though helping lost star-spirits back on their paths.
+
+### Feelings About Ascension: Climax
+
+The hero threw down his sword and spoke with open palms — "I come from beyond the stars, please permit me to help."
+
+### Feelings About Ascension: Conclusion
+
+From that day forth, the high windows shone through the night, as the dragon led the hero to patrol the cosmic shore. Starlight was their cloak, and friendship the compass that led their way.
+
+### Elemental Skill: I
+
+Stay back!
+
+### Elemental Skill: II
+
+Watch out!
+
+### Elemental Skill: III
+
+Leave it to me!
+
+### Elemental Skill: IV
+
+Get back!
+
+### Elemental Skill: V
+
+Sunder!
+
+### Elemental Skill: VI
+
+Devouring claw!
+
+### Elemental Burst: I
+
+The story has only just begun.
+
+### Elemental Burst: II
+
+Decay... New life.
+
+### Elemental Burst: III
+
+A turning point in fate.
+
+### Elemental Burst: IV
+
+Stay away from me!
+
+### Elemental Burst: V
+
+The Abyss's burning shadow.
+
+### Elemental Burst: VI
+
+A lament for the end.
+
+### Opening Treasure Chest: I
+
+What suspense... It's like opening a gift...
+
+### Opening Treasure Chest: II
+
+How do you use these?
+
+### Opening Treasure Chest: III
+
+I've never seen this before... Interesting.
+
+### Low HP: I
+
+I can go on.
+
+### Low HP: II
+
+My strength is far from spent.
+
+### Low HP: III
+
+No... not yet!
+
+### Ally at Low HP: I
+
+It's my turn to protect you.
+
+### Ally at Low HP: II
+
+Trust me.
+
+### Fallen: I
+
+Does this make... a good ending?
+
+### Fallen: II
+
+I'm sorry...
+
+### Fallen: III
+
+Will I become a star... in the sky...?
+
+### Light Hit Taken: I
+
+Stay your hand.
+
+### Light Hit Taken: II
+
+No.
+
+### Heavy Hit Taken: I
+
+Absurd!
+
+### Heavy Hit Taken: II
+
+Stop that!
+
+### Joining Party: I
+
+Hello everyone, I'm Durin.
+
+### Joining Party: II
+
+I'll be right behind you.
+
+### Joining Party: III
+
+Increasing our combat strength? I'll do my best.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+好久不见了，我是杜林。虽然在这之前大家似乎都叫我小杜林，但如你所见，现在的我应该算不上「小」了…看起来你还不太习惯我这个模样，说实话我也在逐渐适应这副身体…还有许多知识和规则等待我学习，今后，我会诚心向你求教。
+
+### 闲聊·故事
+
+每天都是故事里新的一页，翻页前我想好好体验每一处风景，每一个注脚。
+
+### 闲聊·逛逛
+
+我可以在这附近玩…逛一逛吗？不会走远的。
+
+### 闲聊·局促
+
+我还有许多「人类社交」的知识需要学习，紧张的时候手不知道放哪里好…但我很想跟大家交朋友。
+
+### 下雨的时候…
+
+糟糕，好想踩水坑…
+
+### 打雷的时候…
+
+这种天气，还是别飞太高…
+
+### 下雪的时候…
+
+「它」曾经长眠在这样的地方吗…
+
+### 阳光很好…
+
+像童话书里一样，好看。
+
+### 在沙漠的时候…
+
+不太妙，想喝水…
+
+### 早上好…
+
+早上好。请别介意我侧着头，脖子有点僵…昨天半夜非常罕见地有只小猫睡在我几米开外的地方，居然没被我吓跑。不想惊动它，所以我一晚上没敢动…
+
+### 中午好…
+
+既然有早午餐，会有午晚餐吗？
+
+### 晚上好…
+
+不知道今晚能不能看到星星呢…
+
+### 晚安…
+
+尾巴团着身子睡，很安心。
+
+### 关于杜林自己·成熟
+
+觉得我变成熟了？再怎么说，我也不是小孩子的模样了，不学着成长有点说不过去…我不想一直停滞不前。
+
+### 关于杜林自己·「失控」
+
+我能感受到身体深处，潜藏着近乎疯狂的强大能量。所幸阿贝多的炼金术非常完美，深渊力量在这副身体里一直很稳定，就像达到了某种巧妙的平衡，隔绝了「外溢」或「侵蚀」的可能。因此，请不要担心我会「失控」，我不会伤害大家。
+
+### 关于杜林自己·自私
+
+我知道以「杜林」这个名字活跃在这个世界，必须面临一些讨论。取代雪山的杜林，意味着我抢走了他复活的权利。不得不说这多少有些自私，但当时我很想作为一个「人」，真正融入大家所在的世界，并为这个世界带来更多好的东西…这样的机会我不想放弃，直到现在也没有后悔过。也许这就像阿贝多所说的，生物总有自私的一面…
+我不能，也无法代替另一个杜林说话，我只想找到属于自己的路，做出一些正确的事，让大家再提起「杜林」这个名字时，会有些算得上美好的记忆。
+
+### 关于我们·碰碰角
+
+龙的习惯里，表示友好要碰碰角。但我怕力度没掌握好，我的角会磕疼你的脑袋，还是算了吧…真的没关系吗？那好！安全起见，我站着不动，你来碰碰我的角呢？
+
+### 关于我们·祝福
+
+「愿你不论身处何处，都有同伴与善意相随」。
+这是你作为游历诸多世界的旅者赐予我的祝福，我一直都记得。也是从这句祝福开始，我的「故事」开始变得不一样…谢谢你。现在，我能真切地感受到自己的变化，我也许…不，我绝对有能力去保护对我重要的人。所以我也想用我的承诺来回应你的祝福——不论何时何地，只要你需要我，我都能成为你的助力。
+呃，当我得知你陷入危险时，我也一定会来的。嗯，我补充完了，这回应该够严谨了…
+
+### 关于「神之眼」…
+
+深渊的特质之一，是可以「增幅」生物的力量，这点目前在我身上得到了最有力的验证。我无法完全掌控深渊的力量，但凭借特殊体质，似乎有了正面化运用它的可能。学习控制这股力量的过程非常困难，必须保持高度专注，否则我的失误就有可能会伤害到我身边的人。为了避免这种事情发生，我只能一遍又一遍地练习…
+而这枚「神之眼」，大概是对我努力的肯定吧。
+
+### 有什么想要分享…
+
+特瓦林飞得很快，是因为他翅膀比我大吗…我偶尔会想，如果还是龙的形态，我指的是希穆兰卡时的积木大龙，有那样的体格说不定还能跟他再比三个来回。
+
+### 感兴趣的见闻…
+
+我的第一个朋友是一只折纸小飞鼠，当时只有它愿意跟我玩。我常常给它摘高处的花，它有一双尖尖的耳朵和大大的纸片尾巴，有点像提瓦特的小松鼠。我很想念它。
+…一起去给它们摘高处的松果？当然，我很乐意！
+
+### 关于母亲…
+
+接过母亲的笔后，我有认真地把每天的「故事」都写下来。跟可莉学习捕鱼，结果被一起关进禁闭室；在阿贝多工作时帮他烧水，差点把水壶烧成灰了，好险；和城门前的小男孩一起喂了鸽子，有一只居然主动落在我的角上。我会继续写很多页。或许…在某次翻页时，熟悉的旁白会再次响起，轻轻对我说：真是个不错的故事。
+
+### 关于艾莉丝…
+
+艾莉丝阿姨让我多陪可莉玩，想要什么奖励都可以跟她说。可是小孩子才要奖励，我明明已经不算小孩了…我喜欢跟可莉玩是因为跟她在一起很开心，不为别的。没想到她听完后更高兴了，坚持要挑一个「大玩具」送给我…
+
+### 关于阿贝多·家人
+
+关于如何成为一个真正的人，阿贝多给我传授了很多经验。他给我列举了一些人类必定会面临的问题，工作，理想，还有生活…有些很难，暂时听不懂。有些则更难，根本想象不出来。
+但他说这些都可以一边体验一边摸索，然后做出自己的选择。唯独家庭，是每个人出生时无法选择的。我明白我的「家」很复杂，和别的家庭都不一样。但有阿贝多作为我的兄弟，家人，我又觉得我的家是一个令人安心的地方，跟许多人的家没什么两样。
+
+### 关于阿贝多·感应
+
+阿贝多是一个完美的「人」。他懂很多，总能面面俱到，把所有事情都处理好，对待周围的人也很真诚友好。但有时，我又觉得他并不只有他呈现出来的样子，也许还有令人意想不到的一面，比如用决绝的手段去达到目的…我不知道为什么会有这种奇怪的直觉，这算是「同类」之间的感应吗？
+
+### 关于流浪者·朋友
+
+刚离开希穆兰卡的时候，我跟着阿帽去过须弥，教令院很大很漂亮，书也很多，现在我开始学习写字看书了，才意识到在那里当学者很不轻松。
+不过也有闲暇的时候。有许多人会主动找阿帽打牌，聊天，还有送好吃的。比如那个长了大耳朵的人，和帽子上长着更大耳朵的人，还有像小狼犬的人…我私底下问过阿帽，他们都是你的好朋友吗？虽然阿帽嘴上总是不耐烦地点评他们有多聒噪，却没有否认过他们是朋友这件事。
+
+### 关于流浪者·坚定
+
+我们身上有一些很相似的地方，他似乎每次都能看穿我的想法，以「过来人」的口气引导我。当我说「请不要靠近我」时，其实很希望有人能坚定地陪在我身边…阿帽就是这么做的。所以轮到阿帽说让他一个人时，就算他故意泼我冷水，我也会坚定地跟上去。
+
+### 关于妮露…
+
+在须弥的时候我还抽空拜访了妮露仙子，好像在这个世界叫她妮露小姐比较合适，抱歉，我还有点改不过来。我看她在大巴扎跳了舞，真的跟仙子一样好看！
+
+### 关于娜维娅…
+
+有机会的话，我还想去感谢星轨王城的国王，唔，应该叫娜维娅小姐才对。不知道她看见我现在的样子会不会很惊讶…你说她马上就能接受？那太好了。
+
+### 关于绮良良…
+
+如果猫尾酒馆的猫咪们都像绮良良小姐那样，就不会见到我就紧张了吧…
+
+### 关于温迪…
+
+「年轻的诗人轻拨弦，歌声如溪流清澈婉转。不是战歌，也非祷文，是星辰低语，是风过树林。龙的眼皮微微动，火焰在喉咙深处轻轻嗡。」
+有一个深夜我睡不着在野外散步，偶遇了巴巴托斯大人，他给我唱了这首诗，我很喜欢，所以悄悄背下来了…
+
+### 关于丽莎…
+
+丽莎老师给我布置完作业后会让我去座位上写。有一次我实在太困，就把书本立起来当掩体，偷偷打盹。迷迷糊糊睁眼间发现她在一旁笑眯眯地看着我，吓得我瞬间坐直。我道歉的话还没说完，她却欣慰地夸我学到了最实用的知识。我想，她指的应该是我积极认错的态度。
+你说她夸的不是这个？
+
+### 关于可莉…
+
+阿贝多说过，他把可莉当成妹妹在照顾，而可莉也喜欢叫我小杜林哥哥，言下之意我理应也是可莉的哥哥才对。可是——如果按照人类的年龄来定义的话，可莉又真的算是我的妹妹吗？唔…
+
+### 关于菲谢尔…
+
+我还是有点在意。早在希穆兰卡时我就觉得她跟其他人不一样，请问她跟我一样，也是从书里走出来的吗？
+
+### 关于迪奥娜…
+
+在童话故事里，会调制迷惑人心智的魔药，还能同时指挥很多猫咪的人，很可能是了不起的女巫。
+
+### 关于法尔伽…
+
+法尔伽大团长跟蒙德城的许多骑士很不一样，他强大却不威严，有他在的场合会让人感到很放松，很有安全感。他是那种可以一边开玩笑一边跟狂猎战斗的骑士。虽然他讲的十个笑话里有七个我听不太懂。另外三个？也许是因为他酒喝多了，我听不太清…
+
+### 想要了解杜林·其一
+
+来到这里之前，我大部分时间都生活在母亲写的故事里。虽然我没有真正拥抱过她，也不知道她手心的温度…但她温柔的声音就像柔纱一样，陪伴我度过了很多愉快和难过的瞬间。你想听哪一页的故事？我都可以讲给你听。
+
+### 想要了解杜林·其二
+
+我听说，跟人对话时看着对方的眼睛，这是基本礼仪。可又听说，一直盯着别人看是很不礼貌的行为。为了能达到这两个要求，我试过讲话时多眨眼，或者睁一只眼闭一只眼。结果…谈话的最后大家都热心建议我去找芭芭拉小姐看看眼睛…
+果然，「社交」的法则是这个世界众多运行规则中较难的部分。
+
+### 想要了解杜林·其三
+
+有一段时间，心底会传来奇怪的杂音——我究竟是不是原来的我？流着魔龙心脏的血，人们会因此害怕我吗？有一次，我梦见整个星轨王城的积木小人都在朝我丢石子，惊醒后，见到的居然是飘落的彩纸…原来是蒙德的大家正打算给我补办生日派对。那一刻我才意识到，那些杂音并不是魔龙的干扰，而是我的迷茫和不自信…
+我永远忘不了那个画面，蛋糕上的烛光映照着朋友们温暖的笑脸…这些，就是支持我在迷雾里勇敢迈步的最大动力。
+
+### 想要了解杜林·其四
+
+去挪德卡莱前，琴团长和阿贝多郑重告知过我那将是一场危机四伏的旅途，实际状况可能还会比想象中严重。他们很尊重我的意愿，让我务必考虑清楚再做决定。可当时我一想到你正处于危险中，就立刻请求他们让我加入了。
+接触到真正的「狂猎」后，我才对「危险」这个词有了实感。那种场面比我脑海中「地面被踩出大坑，积木矿窟崩塌」的程度还要危险数倍。
+不，我绝对没有后悔过。倒不如说，是后怕…那时我会担心帮不上忙，所以多数时间我都很紧绷，你应该也察觉到了。还好结果不错，我可以坦率地接受大家的夸赞了。
+
+### 想要了解杜林·其五
+
+我觉得…人，似乎是由别人的部分拼凑而成的。哦，当然不是指炼金术之类的。或许换一个说法吧…就像我会记住朋友们讲过的话，一起去过的餐馆也会成为我喜欢的餐馆，就连我想要去更多不同的地方这件事也是受你启发…我之所以成为今天这样的我，是因为有很多人影响、改变了我。
+所以同样的，我也希望能成为别人心里的一小块拼图。
+
+### 杜林的爱好…
+
+目前为止，蒙德的一切对我来说都很新奇，我想要慢慢探索个遍。喝、喝酒？不行，喝酒不行…暂时还不行。
+
+### 杜林的烦恼…
+
+提瓦特的动物不是折纸做的，而且我现在也没有尖锐的爪子了，本来还以为终于可以放心摸摸它们了…没想到还是会被我的气息吓跑…唉。
+
+### 喜欢的食物…
+
+喜欢吃肉，一大块完整的肉。但现阶段我吃饭的速度会比较慢，请别见怪。毕竟，刀叉的使用规则对我来说还比较复杂。唔，切肉是用哪一把餐刀来着…
+
+### 讨厌的食物…
+
+请问，我的那份，配餐蔬菜可以减半吗？要是没配菜就更好了。
+
+### 收到赠礼·其一
+
+该用哪种餐具？我可以直接用手拿着吃吗？
+
+### 收到赠礼·其二
+
+谢谢。按照「礼尚往来」的社交准则，我请你喝点饮料吧。
+
+### 收到赠礼·其三
+
+对不起…我的味觉似乎出问题了。我再尝尝…啊，真出问题了！
+
+### 生日…
+
+今天比想象中来得快。抱歉，想加的细节越来越多，所以其实还没做完——
+这是我想送你的折纸船，上面载着的折纸小动物是我们的朋友，而这个站在船头没来得及上色的小人就是你。在我印象里，你就像一个散发着金光的引舵人…能请你跟我一起涂上金色的颜料吗？
+对了，这艘船的名字叫「旅者号」，愿你今后也像现在这样被朋友们一路簇拥着前进，生日快乐！
+
+### 突破的感受·起
+
+传说在城堡高窗，有恶龙贪占着宝石璀璨。
+
+### 突破的感受·承
+
+游侠攀上梯阶城垛，却发现龙鳞上落满星尘斑斑。它正用鼻尖轻推流星碎屑，帮迷路的小星灵找回航线。
+
+### 突破的感受·转
+
+噢，游侠丢掉他的剑，摊开掌心——「我来自星空以外，或许能帮点忙？」
+
+### 突破的感受·合
+
+从此塔顶窗口彻夜亮闪闪，龙载着游侠巡视银河堤岸。星光成为他们的披风，友谊是前进的罗盘。
+
+### 元素战技·其一
+
+有危险！
+
+### 元素战技·其二
+
+当心！
+
+### 元素战技·其三
+
+交给我！
+
+### 元素战技·其四
+
+退后！
+
+### 元素战技·其五
+
+崩裂！
+
+### 元素战技·其六
+
+噬爪！
+
+### 元素爆发·其一
+
+故事，才刚开始。
+
+### 元素爆发·其二
+
+腐殖…新生。
+
+### 元素爆发·其三
+
+命途的转折。
+
+### 元素爆发·其四
+
+别靠近我！
+
+### 元素爆发·其五
+
+渊影…焚灭。
+
+### 元素爆发·其六
+
+结局的哀叹。
+
+### 打开宝箱·其一
+
+跟拆礼物一样紧张…
+
+### 打开宝箱·其二
+
+请问这些物品应该怎么用？
+
+### 打开宝箱·其三
+
+这个我也没见过…长见识了。
+
+### 生命值低·其一
+
+还能继续。
+
+### 生命值低·其二
+
+力量远未耗尽。
+
+### 生命值低·其三
+
+至少…不是现在！
+
+### 同伴生命值低·其一
+
+换我来保护你。
+
+### 同伴生命值低·其二
+
+相信我。
+
+### 倒下·其一
+
+这样…算好结局吗？
+
+### 倒下·其二
+
+对不起…
+
+### 倒下·其三
+
+我会变成星星吗…
+
+### 普通受击·其一
+
+住手。
+
+### 普通受击·其二
+
+不。
+
+### 重受击·其一
+
+蛮不讲理！
+
+### 重受击·其二
+
+别这样！
+
+### 加入队伍·其一
+
+大家好，我是杜林。
+
+### 加入队伍·其二
+
+我会跟紧你的。
+
+### 加入队伍·其三
+
+增强战力？我努力。

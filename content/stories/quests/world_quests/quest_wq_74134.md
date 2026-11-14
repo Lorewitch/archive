@@ -13,12 +13,14 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 74134
-# previous_quests: quest_wq_10143
+# previous_quests: 
 # next_quests: 
-# related_quests:
+# related_quests: 
 # quest_chain: quest_wq_74134
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 74134
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,6 +28,7 @@
 
 Войдя в странную комнату, Катерпиллер кое-что вспомнил...
 
+#### Поговорите с Катерпиллером
 
 **Паймон:** Ого! Что это за место?
 
@@ -41,7 +44,6 @@
 
 **Паймон:** Есть какие-нибудь зацепки? Такие, которые могли бы пропустить такие любители, как мы?
 
-
 **Паймон:** Именно здесь был создан Ордо Нарциссенкрейц!
 
 **Катерпиллер:** Нет никаких ритуальных предметов, к тому же я уже давно не проводил ритуал рассеивания. Однако...
@@ -49,7 +51,6 @@
 **Катерпиллер:** Всё верно, знакомая обстановка подстегнула мою память. Да, это здесь.
 
 **Паймон:** Возможно, существуют зацепки, которые мы пропустили, но которые сразу же опознает Катерпиллер.
-
 
 **Паймон:** Что такое? Что-то случилось?
 
@@ -73,11 +74,107 @@
 
 **Катерпиллер:** Он именно такой человек.
 
-**Паймон:** В таком случае, Путешественник, пока есть возможность, что бы ты хотел(а) спросить?
+**Паймон:** В таком случае, Путешественник, пока есть возможность, что бы ты хотел спросить? / В таком случае, Путешественник, пока есть возможность, что бы ты хотела спросить?
 
-#### Поговорите с Катерпиллером
+- **Путешественник:** Только вопросы о самом Катерпиллере...
 
-**Паймон:** Есть ещё вопросы?
+**Катерпиллер:** Ты хочешь спросить обо мне? Мне казалось, что пока мы были в заключении, мы отлично узнали друг друга.
+
+**Катерпиллер:** Однако я понимаю, что ты хочешь узнать о чём-то более сокровенном.
+
+**Катерпиллер:** «Сейчас я собираюсь проделать великую работу, которую ещё никто никогда не делал...»
+
+**Катерпиллер:** «...Я открою миру истинное лицо человека, ничего не утаивая. И этим человеком буду я сам».
+
+**Паймон:** Эх, такое чувство, что Катерпиллер вдруг заговорил логично. Паймон даже и не знает, как комментировать.
+
+**Катерпиллер:** Не потому ли это, что Лануар уже вернулась? Нам предстоит столкнуться с более запутанным миром.
+
+**Катерпиллер:** Рубеж девяти лет пройден, теперь нужен опыт шестнадцатилетнего...
+
+**Паймон:** А... А? Опыт шестнадцатилетнего будет достаточным?
+
+**Катерпиллер:** Первые слова, которые я услышал в этом теле, были словами Нарциссенкрейца.
+
+**Катерпиллер:** Помимо упоминаний о силе священного меча Ордо Нарциссенкрейц, способной искупить грех, он также сказал:
+
+**Катерпиллер:** «Тело всего лишь оболочка. Даже в теле хиличурла может быть заключено сознание разума».
+
+- **Путешественник:** Он создал тебя?
+
+**Катерпиллер:** Может, и так. Я тоже пытался разузнать о своих истоках, но так и не смог найти вразумительного ответа.
+
+**Паймон:** Катерпиллера жалко...
+
+**Катерпиллер:** А я так не думаю.
+
+**Катерпиллер:** Потому что я заметил, что люди большей частью совершенно не знают, зачем они пришли в этот мир. Но при этом наслаждаются жизнью.
+
+**Катерпиллер:** Кроме того, будет не совсем верно сказать, что он создал меня.
+
+- **Путешественник:** Как тогда?
+
+**Катерпиллер:** Создание есть деяние Архонта, если мы назовём упомянутого Архонтом.
+
+**Катерпиллер:** Знаете ли вы, что в учении Нарциссенкрейца является самым важным при создании человека?
+
+**Паймон:** Что же?
+
+**Катерпиллер:** Это воображение. Воображение человека, вплоть до мельчайших деталей, сродни воображению океаниды, представляющей себе существо в дикой природе.
+
+**Катерпиллер:** Есть история о могущественных жрецах и магах, которые представили себе своего сына. В конце концов, они обнаружили, что и сами были лишь чьим-то воображением.
+
+**Катерпиллер:** Прости, я отошёл от темы. Но мне показалось, что всё это связано с тем, о чём вы хотели узнать.
+
+**Паймон:** Хотя мы и не особо поняли...
+
+- **Путешественник:** Расскажи об Ордо Нарциссенкрейц...
+
+**Паймон:** Раз тебе это место знакомо, можешь рассказать нам о событиях, которые здесь происходили?
+
+**Катерпиллер:** Честно говоря, в моих воспоминаниях отложилось, что члены Ордо Нарциссенкрейц были весьма доброжелательными людьми.
+
+**Катерпиллер:** Но в учении Нарциссенкрейца было довольно много радикальных положений, которые людям трудно принять.
+
+**Паймон:** Звучит не очень хорошо...
+
+**Катерпиллер:** Нарциссенкрейц, как предписывает древняя система, проводил церемонии, используя чудесный меч.
+
+**Катерпиллер:** В древности в Ли Юэ говорили «обезглавить трёх демонов в теле человека», а в Сумеру - «превозмочь атмаграху». Он же называл это «отказ от эго».
+
+**Катерпиллер:** Он считал, что сознание людей - это препятствие. Если во время поиска Пути человек получит Глаз Бога, то вступит на путь, с которого уже нельзя свернуть.
+
+**Паймон:** В таком случае... что же было с людьми, когда они отказывались от себя?
+
+**Катерпиллер:** На самом деле, они держались вполне обычно. Говорят, что люди не могут увидеть истину мира, потому что их эго намеренно фильтрует информацию, получаемую с помощью пяти чувств.
+
+- **Путешественник:** Это не кажется таким уж страшным.
+
+**Катерпиллер:** Только вот я не знаю, для чего Нарциссенкрейц собирал сознание и волю.
+
+- **Путешественник:** Можешь рассказать что-нибудь ещё о Нарциссенкрейце?
+
+**Катерпиллер:** В другой раз. Слишком о многом можно рассказать. Позвольте мне привести мои мысли в порядок.
+
+- **Путешественник:** Расскажи о событиях, которые произошли много лет назад.
+
+**Катерпиллер:** Много лет назад между Гильотеном, которого сейчас именуют Отцом Механизмов, и Нарциссенкрейцем было напряжённое противостояние.
+
+**Катерпиллер:** Тогда Гильотена ещё называли Белым рыцарем, защищающим государство.
+
+**Паймон:** Пф.
+
+- **Путешественник:** А если сравнивать с Почётным рыцарем, кто будет круче?
+
+**Катерпиллер:** Я всё же думаю, что сильнее окажется Куколка призрачного мотылька.
+
+**Паймон:** Ха-ха-ха, что за странный титул!
+
+**Катерпиллер:** Это титул, который мне пожаловал Ордо Нарциссенкрейц. Понимаете ли, моё имя созвучно с гусеницей, то есть куколкой, формой жизни, которая может совершенно измениться и превратиться в бабочку.
+
+**Паймон:** Пр... прости.
+
+**Катерпиллер:** Возможно, в этом прозвище заключена надежда, что рано или поздно я стану человеком.
 
 **Катерпиллер:** Если я найду что-то стоящее, то тут же свяжусь с вами.
 
@@ -87,9 +184,9 @@
 
 **Катерпиллер:** И вы.
 
-Мы дождёмся тебя.
+- **Путешественник:** Мы дождёмся тебя.
 
-*Катерпиллер покинул место.*
+Катерпиллер покинул место.
 
 **Анн:** Фу-ух...
 
@@ -113,7 +210,7 @@
 
 **Анн:** Мне довелось испытать множество приключений с Паймон и почётным рыцарем, прежде чем я поняла, что она всего лишь персонаж истории.
 
-Это как понимать?
+- **Путешественник:** Это как понимать?
 
 **Паймон:** Да-да, как понимать? Катерпиллер, ты знаком с Лирис?
 
@@ -135,7 +232,7 @@
 
 **Анн:** Первая фраза, которую ты сказал, когда увидел меня...
 
-«Моё имя - Катерпиллер...»
+- **Путешественник:** «Моё имя - Катерпиллер...»
 
 **Анн:** Нет, другая!
 
@@ -149,7 +246,7 @@
 
 **Анн:** Рыцарь Путешественник, Паймон, в этот раз я не стану вас утруждать. Я отправлюсь вместе с Катерпиллером.
 
-Правда?
+- **Путешественник:** Правда?
 
 **Катерпиллер:** Доверьтесь мне.
 
@@ -161,7 +258,7 @@
 
 **Сеймур:** Систематизация дискеты прервана в срочном порядке.
 
-**Сеймур:** Господин / Госпожа Путешественник, Паймон, пожалуйста, немедленно удалитесь.
+**Сеймур:** Господин Путешественник, Паймон, пожалуйста, немедленно удалитесь. / Госпожа Путешественник, Паймон, пожалуйста, немедленно удалитесь.
 
 **Паймон:** А-а-а! Сеймур, успокойся. Это...
 
@@ -175,7 +272,7 @@
 
 **Сеймур:** Вот как?
 
-Да! Да!
+- **Путешественник:** Да! Да!
 
 **Сеймур:** Хорошо. Мы можем снова поговорить о моём необычном дизайне.
 
@@ -189,7 +286,7 @@
 
 **Катерпиллер:** Мари-Анн. Или, иными словами, Мари-Анн Гильотен.
 
-...Мари-Анн Гильотен!
+- **Путешественник:** ...Мари-Анн Гильотен!
 
 **Сеймур:** ...(механический скрежет), ... (механический голос становится чуть понятнее) Гильотен.
 
@@ -213,7 +310,7 @@
 
 **Сеймур:** Не понимаю. Но вероятность оцениваю как высокую.
 
-*После обмена информацией...*
+После обмена информацией...
 
 **Катерпиллер:** Появился Жакоб...
 
@@ -229,7 +326,7 @@
 
 **Сеймур:** Отрицательно. Опасность. Опасность. Обнаружены остатки деятельности Ордо Нарциссенкрейц.
 
-**Сеймур:** Господин / Госпожа Путешественник, Паймон и Анн, скорее найдите безопасное место и спрячьтесь.
+**Сеймур:** Господин Путешественник, Паймон и Анн, скорее найдите безопасное место и спрячьтесь. / Госпожа Путешественник, Паймон и Анн, скорее найдите безопасное место и спрячьтесь.
 
 **Сеймур:** Активирован режим массового уничтожения.
 
@@ -247,7 +344,9 @@
 
 **Сеймур:** Вот как?
 
-Да! Да!
+- **Путешественник:** Да! Да!
+
+**Сеймур:** Хорошо. Мы можем снова поговорить о моём необычном дизайне.
 
 **Катерпиллер:** Я Катерпиллер, но ты, конечно, это знаешь. Говори, как сейчас та девушка, которую ты должен защищать?
 
@@ -259,7 +358,7 @@
 
 **Катерпиллер:** Мари-Анн. Или, иными словами, Мари-Анн Гильотен.
 
-...Мари-Анн Гильотен!
+- **Путешественник:** ...Мари-Анн Гильотен!
 
 **Сеймур:** ...(механический скрежет), ... (механический голос становится чуть понятнее) Гильотен.
 
@@ -295,7 +394,7 @@
 
 **Катерпиллер:** Лирис - человек, но в то же время океанида. Нарциссенкрейц в обществе Ордо Нарциссенкрейц называл её Красной королевой.
 
-Это как понимать?
+- **Путешественник:** Это как понимать?
 
 **Паймон:** Почему такое чувство, как будто всё связано?
 
@@ -305,7 +404,7 @@
 
 **Катерпиллер:** В двух словах, это часы судного дня.
 
-Часы Судного дня?
+- **Путешественник:** Часы Судного дня?
 
 **Катерпиллер:** Когда придёт ночь, наступит апокалипсис.
 
@@ -327,7 +426,7 @@
 
 **Паймон:** Вот как...
 
-В общем, сначала обменяемся информацией...
+- **Путешественник:** В общем, сначала обменяемся информацией...
 
 Вы с Паймон обсудили случившиеся события с тремя собеседниками (ни один из которых человеком не являлся).
 
@@ -335,7 +434,7 @@
 
 **Анн:** Элинас...
 
-Вспомнил что-то?
+- **Путешественник:** Вспомнил что-то?
 
 **Анн:** Не знаю. Всё так неясно. Как будто водяной пар, который нельзя ни увидеть, ни поймать.
 
@@ -351,7 +450,7 @@
 
 **Катерпиллер:** Ха-ха, конечно, только то, что в моих силах. Хотя вы освободили нас с Лануар из заточения, я не джинн из волшебной лампы.
 
-Паймон, что ты хочешь?
+- **Путешественник:** Паймон, что ты хочешь?
 
 **Паймон:** Хм... ну если так... Мора... Нет, что-нибудь вкусненькое...
 
@@ -363,9 +462,15 @@
 
 **Паймон:** Путешественник, что думаешь? Так пойдёт?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Да, отлично.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Мне всё равно.
+
+##### Общее продолжение
 
 **Катерпиллер:** Понял. В таком случае идёмте.
 
@@ -375,7 +480,19 @@
 
 **Катерпиллер:** Я планирую вместе с Сеймуром и Анн остаться здесь и посмотреть, удастся ли найти что-то важное в воспоминаниях и материалах. Путешественник, Паймон, возвращайтесь потом сюда.
 
-**Сеймур:** Хорошо. Мы можем снова поговорить о моём необычном дизайне.
+**Паймон:** Есть ещё вопросы?
+
+**Паймон:** Хотя многое известно...
+
+- **Путешественник:** Но вопросов не становится меньше...
+
+**Катерпиллер:** Мне нужно просмотреть классические труды. Может быть, удастся восстановить картины прошлого.
+
+**Катерпиллер:** Поэтому, возможно, время от времени меня здесь не будет.
+
+**Паймон:** Но для тебя сейчас опасно находиться в Фонтейне.
+
+**Катерпиллер:** С помощью маскировки и уловок, которыми я всегда жил, мне удастся справиться.
 
 ## EN
 
@@ -383,6 +500,7 @@
 
 In a wondrous room, Caterpillar recalls something...
 
+#### Talk to Caterpillar
 
 **Paimon:** Whoa, what is this place?
 
@@ -398,7 +516,6 @@ In a wondrous room, Caterpillar recalls something...
 
 **Paimon:** Do you spot any clues? You know, the kind that outsiders like us would easily miss.
 
-
 **Paimon:** Well, this is the Narzissenkreuz Ordo!
 
 **Caterpillar:** Hmm. There are no longer any ceremonial items here, nor has there been a Dispelling Ritual conducted for a long time. Nonetheless...
@@ -406,7 +523,6 @@ In a wondrous room, Caterpillar recalls something...
 **Caterpillar:** Yes, the familiar setting is stirring my memory. This is the right place.
 
 **Paimon:** Maybe there might be clues that we've overlooked, but that you could spot off the bat!
-
 
 **Paimon:** So, have you found anything?
 
@@ -432,9 +548,105 @@ In a wondrous room, Caterpillar recalls something...
 
 **Paimon:** Well, since we've got this opportunity, is there anything else you want to ask, Traveler?
 
-#### Talk to Caterpillar
+- **Traveler:** Tell me about yourself, Caterpillar...
 
-**Paimon:** Do you have any other questions?
+**Caterpillar:** About me? I thought we got acquainted well enough during our jailbreak.
+
+**Caterpillar:** But I understand that you're asking about something deeper.
+
+**Caterpillar:** "Now, I shall perform a terrible feat that never been done before and will never be done again..."
+
+**Caterpillar:** "...I will expose someone's true self before all, without any facade or masks... and that someone shall be myself."
+
+**Paimon:** Wow, that's really... a lot. Paimon doesn't think she can lighten this atmosphere up at all...
+
+**Caterpillar:** Lanoire has already gone home, did she not? We have to face a more complicated world now.
+
+**Caterpillar:** The time for things from under the age of nine is over. Next, we probably need the experiences from age sixteen or so—
+
+**Paimon:** Huh... What? Uh, the "experiences from sixteen or so"?
+
+**Caterpillar:** The first voice I heard while in this body was that of Narzissenkreuz.
+
+**Caterpillar:** Other than speaking of the redeeming powers of the Holy Blade of Narzissenkreuz, he also preached thus:
+
+**Caterpillar:** "The body is just a shell. Even the body of a hilichurl can bear sentient consciousness."
+
+- **Traveler:** Did he create you, then?
+
+**Caterpillar:** Perhaps he did. I've tried to unravel my own origin, but the answers I got were all pretty vague.
+
+**Paimon:** Poor you...
+
+**Caterpillar:** Well, I don't really feel that way.
+
+**Caterpillar:** I have discovered, after all, that most humans do not know the reason why they were born, and yet they still live happily.
+
+**Caterpillar:** Also, it is not quite correct to say that he "created me."
+
+- **Traveler:** How so?
+
+**Caterpillar:** Creation is a feat for a god... If we may call the one above a "god."
+
+**Caterpillar:** In the tenets of Narzissenkreuz, do you know what is most critical in creating someone?
+
+**Paimon:** What is it?
+
+**Caterpillar:** It's imagination. Imagining a person, down to the last detail, akin to an Oceanid imagining a creature in the wild.
+
+**Caterpillar:** There's a story that tells of a powerful mage-priest imagining his own son, only to realize he himself was the product of someone else's imagination.
+
+**Caterpillar:** Sorry for digressing, but I feel that this information is relevant to your questions.
+
+**Paimon:** Well, that didn't make anything clear, but...
+
+- **Traveler:** About the Narzissenkreuz Ordo...
+
+**Paimon:** Since you find this place so familiar, what could you tell us about it?
+
+**Caterpillar:** Actually, as I recall, most of the people in the Narzissenkreuz Ordo were very kind.
+
+**Caterpillar:** Narzissenkreuz's teachings just contained many radical ideas that were, perhaps, difficult for people to accept.
+
+**Paimon:** That doesn't sound good at all...
+
+**Caterpillar:** Narzissenkreuz would lead ceremonies with the Holy Blade, in accordance with the ancient dictates.
+
+**Caterpillar:** They call it "Tri-Factor Excision" in Liyue, and in Sumeru, "Shattering Atmagraha." He called it "Renunciation of the Ego."
+
+**Caterpillar:** He believed that one's own will is an obstacle, and that accidentally receiving a Vision while seeking the path is a guaranteed path to destruction.
+
+**Paimon:** So... After someone gives themselves up, what happens to them?
+
+**Caterpillar:** Well, they stay quite normal, actually. It is said that people cannot perceive the truth, because a body with a self sees the world filtered through the five senses.
+
+- **Traveler:** That doesn't sound so scary, then.
+
+**Caterpillar:** However, I never found out what Narzissenkreuz's ultimate purpose for collecting all those wills and selves was.
+
+- **Traveler:** Can you elaborate concerning Narissenkreuz?
+
+**Caterpillar:** Another time, perhaps. There is so much to be said... I'll need time to process it all.
+
+- **Traveler:** About what happened all those years ago...
+
+**Caterpillar:** Many years ago, the one then called "Lord-Artificer" Guillotin and Narzissenkreuz had an intense clash.
+
+**Caterpillar:** Guillotin was even called the "White Cavalier of Protection" back then...
+
+**Paimon:** Pffft.
+
+- **Traveler:** Is that a better title than Honorary Knight?
+
+**Caterpillar:** Well, if we're comparing impressive titles, I submit "Chrysalis of the Phantasmic Moth."
+
+**Paimon:** Bwahahaha, just what kind of weird title is that!?
+
+**Caterpillar:** ...The title that the Ordo gave me. See, I'm Caterpillar, a creature that turns into a chrysalis before completely metamorphosing into a butterfly.
+
+**Paimon:** S—Sorry.
+
+**Caterpillar:** I suppose the name contained the wings of hope that I would mature into a human.
 
 **Caterpillar:** If I find anything worth mentioning, I'll let you know immediately.
 
@@ -444,9 +656,9 @@ In a wondrous room, Caterpillar recalls something...
 
 **Caterpillar:** You too.
 
-We'll wait for you.
+- **Traveler:** We'll wait for you.
 
-*Caterpillar leaves.*
+Caterpillar leaves.
 
 **Ann:** *Yawn*...
 
@@ -470,7 +682,7 @@ We'll wait for you.
 
 **Ann:** I went through many adventures with Paimon and Traveler just to find out that she was merely a character in a story.
 
-What's going on here?
+- **Traveler:** What's going on here?
 
 **Paimon:** Yeah, what's going on? Do you know Lyris, Caterpillar?
 
@@ -492,7 +704,7 @@ What's going on here?
 
 **Ann:** The first thing you said to me...
 
-"My name is Caterpillar..."
+- **Traveler:** "My name is Caterpillar..."
 
 **Ann:** No, the next line!
 
@@ -506,7 +718,7 @@ What's going on here?
 
 **Ann:** I won't be troubling you this time, Knight Traveler, Paimon. I'll go with Caterpillar.
 
-Are you sure?
+- **Traveler:** Are you sure?
 
 **Caterpillar:** Trust me.
 
@@ -532,7 +744,7 @@ Are you sure?
 
 **Seymour:** Is that so?
 
-Yes, totally.
+- **Traveler:** Yes, totally.
 
 **Seymour:** Very well. In that case, we can continue to discuss my extraordinary design.
 
@@ -546,7 +758,7 @@ Yes, totally.
 
 **Caterpillar:** Mary-Ann. Or, as you might call her, Mary-Ann Guillotin.
 
-...Mary-Ann Guillotin!
+- **Traveler:** ...Mary-Ann Guillotin!
 
 **Seymour:** ... *mechanical noises* ...*the mechnical noises slowly become clearer* Guillotin.
 
@@ -570,7 +782,7 @@ Yes, totally.
 
 **Seymour:** I do not understand, but I determine the likelihood of success to be: high.
 
-*You share information...*
+You share information...
 
 **Caterpillar:** So, Jakob has emerged...
 
@@ -604,7 +816,9 @@ Ann and Seymour return to the Narzissenkreuz Ordo...
 
 **Seymour:** Is that so?
 
-Yes, totally.
+- **Traveler:** Yes, totally.
+
+**Seymour:** Very well. In that case, we can continue to discuss my extraordinary design.
 
 **Caterpillar:** I am Caterpillar, as you know. Speaking of which, how's the young lady you were protecting doing?
 
@@ -616,7 +830,7 @@ Yes, totally.
 
 **Caterpillar:** Mary-Ann. Or, as you might call her, Mary-Ann Guillotin.
 
-...Mary-Ann Guillotin!
+- **Traveler:** ...Mary-Ann Guillotin!
 
 **Seymour:** ... *mechanical noises* ...*the mechnical noises slowly become clearer* Guillotin.
 
@@ -652,7 +866,7 @@ Yes, totally.
 
 **Caterpillar:** Lyris did indeed exist. She was an Oceanid as well, and Narzissenkreuz's name for her within the Ordo was the "Red Empress."
 
-What's going on here?
+- **Traveler:** What's going on here?
 
 **Paimon:** Paimon feels like it's all connected!
 
@@ -662,7 +876,7 @@ What's going on here?
 
 **Caterpillar:** Simply put, it's the Doomsday Clock.
 
-Doomsday Clock?
+- **Traveler:** Doomsday Clock?
 
 **Caterpillar:** When the clock strikes midnight, the apocalypse will come.
 
@@ -684,7 +898,7 @@ Doomsday Clock?
 
 **Paimon:** That's true...
 
-Anyway, let's share our findings...
+- **Traveler:** Anyway, let's share our findings...
 
 You and Paimon briefly share all that happened with the other three people (though technically speaking, none of them are humans).
 
@@ -692,7 +906,7 @@ You and Paimon briefly share all that happened with the other three people (thou
 
 **Ann:** Elynas...
 
-Did you think of something?
+- **Traveler:** Did you think of something?
 
 **Ann:** I don't know. I'm not sure. It's like water boiling off into gas. I can't see it, and I can't quite grasp it, either.
 
@@ -708,7 +922,7 @@ Did you think of something?
 
 **Caterpillar:** Haha! It should be something within the scope of my abilities, of course. You did free Lanoire and I from prison, but I'm no Jinn in a bottle.
 
-So, what would your wish be, Paimon?
+- **Traveler:** So, what would your wish be, Paimon?
 
 **Paimon:** Hmm, if that's the case, then Mora... No, wait, yummy food...
 
@@ -720,9 +934,15 @@ So, what would your wish be, Paimon?
 
 **Paimon:** Traveler, what do you think? Is that a good wish?
 
+##### Response branch 1
+
 - **Traveler:** That'll do, Paimon. That'll do.
 
+##### Response branch 2
+
 - **Traveler:** S'all good.
+
+##### Shared continuation
 
 **Caterpillar:** I understand. Then, let us work together.
 
@@ -732,7 +952,19 @@ So, what would your wish be, Paimon?
 
 **Caterpillar:** Now, I plan to work with Seymour and Ann to see if we can use our experiences and the information available here to figure something new out. Traveler, Paimon, let's meet back here later.
 
-**Seymour:** Very well. In that case, we can continue to discuss my extraordinary design.
+**Paimon:** Do you have any other questions?
+
+**Paimon:** Even though we learned a lot...
+
+- **Traveler:** There's still more questions that will need answers...
+
+**Caterpillar:** I'll have to pore over the records and try to piece it all together.
+
+**Caterpillar:** So, I'm afraid you won't always find me here.
+
+**Paimon:** Fontaine can be dangerous for you as it is now...
+
+**Caterpillar:** I'll disguise myself, and rely on the methods I've developed to do what I must. I'll survive.
 
 ## ZH
 
@@ -740,6 +972,7 @@ So, what would your wish be, Paimon?
 
 来到了奇妙的房间，卡特皮拉回忆起了一些信息…
 
+#### 与卡特皮拉对话
 
 **派蒙:** 呜啊，这里是什么地方啊？
 
@@ -755,7 +988,6 @@ So, what would your wish be, Paimon?
 
 **派蒙:** 你能注意到什么线索吗？那种我们这种外行会一眼看漏的那种。
 
-
 **派蒙:** 这里就是「水仙十字结社」了！
 
 **卡特皮拉:** 没有了仪式道具，也很久没有执行「驱散仪式」了。不过…
@@ -763,7 +995,6 @@ So, what would your wish be, Paimon?
 **卡特皮拉:** 没错，熟悉的布置正在唤醒我的记忆。是这里没错。
 
 **派蒙:** 或许有些我们没注意到的线索，卡特皮拉一下子就能认出来吧。
-
 
 **派蒙:** 怎么样，有发现什么吗？
 
@@ -789,9 +1020,105 @@ So, what would your wish be, Paimon?
 
 **派蒙:** 那旅行者，趁这个机会，你有什么想问的吗？
 
-#### 与卡特皮拉对话
+- **旅行者:** 关于卡特皮拉自己…
 
-**派蒙:** 还有什么其他的问题吗？
+**卡特皮拉:** 你问我吗，我还以为之前的越狱过程里我们都很熟悉了呢。
+
+**卡特皮拉:** 不过我也知道，你想问的是更加深层的东西。
+
+**卡特皮拉:** 「现在，我将做一件史无前例，后无来者的艰巨工作…」
+
+**卡特皮拉:** 「…我要把一个人的真面目，丝毫不加隐藏地揭露在世人面前。而这个人，便是我自己。」
+
+**派蒙:** 唔，总感觉卡特皮拉说起话来突然一套一套的。我都不知道怎么当捧哏。
+
+**卡特皮拉:** 这不是因为莉诺尔已经回去了嘛。我们需要面对更加复杂的世界了。
+
+**卡特皮拉:** 九岁以下的时间结束了，接下来大概需要十六岁左右的阅历——
+
+**派蒙:** 嗯…嗯？只需要十六岁左右的阅历就够了吗？
+
+**卡特皮拉:** 我在这具身体最初听到的话语正是纳齐森科鲁兹的声音。
+
+**卡特皮拉:** 除了之前就提到的水仙十字圣剑的救赎之力，他还说道：
+
+**卡特皮拉:** 「身体只是躯壳，就算是丘之民的肉体，也可以承载智慧的意识。」
+
+- **旅行者:** 是他创造了你？
+
+**卡特皮拉:** 或许如此吧。我也尝试追查过自身的起源，不过得到的答案模糊不清。
+
+**派蒙:** 卡特皮拉好可怜。
+
+**卡特皮拉:** 我自己倒也没有这种感觉。
+
+**卡特皮拉:** 因为我发现大部分人类也并不明白自己来到世界的原因。他们一样可以开心的活着。
+
+**卡特皮拉:** 而且说是「创造我」也不太对。
+
+- **旅行者:** 怎么说？
+
+**卡特皮拉:** 创造是神的功业——如果我们把上面那个叫做神的话。
+
+**卡特皮拉:** 你知道水仙十字的教谕中，创造人最重要的部分是什么吗？
+
+**派蒙:** 是什么？
+
+**卡特皮拉:** 是想象。事无巨细地想象一个人，就像是纯水精灵事无巨细地想象林野间的生命形态。
+
+**卡特皮拉:** 有一个故事就是说强大的法师与祭司想象自己的儿子，最后却发现，自己也是别人的想象。
+
+**卡特皮拉:** 对不起，扯远了。不过我总觉得似乎这些事情和你们的疑问有关。
+
+**派蒙:** 虽然不是很明白的样子…
+
+- **旅行者:** 关于水仙十字结社…
+
+**派蒙:** 你既然对这里有种熟悉的感觉，能和我们讲讲这里的事吗？
+
+**卡特皮拉:** 其实在我记忆里，「水仙十字结社」的众人还是比较面貌和善的。
+
+**卡特皮拉:** 只不过纳齐森科鲁兹的教导有许多激进之处，或许会让人难以接受。
+
+**派蒙:** 听起来就不太妙…
+
+**卡特皮拉:** 纳齐森科鲁兹依照古制，会使用圣剑来主持仪式。
+
+**卡特皮拉:** 璃月古法称之「斩三尸」，须弥古法则叫「断我执」。他则称呼这件事为「自我割舍」。
+
+**卡特皮拉:** 他认为人的自我意志是阻碍，如果不小心求道过程中获得了神之眼，那就走入不可回头的歧途了。
+
+**派蒙:** 那…舍弃自我之后，人会怎么样呢？
+
+**卡特皮拉:** 其实还挺正常的。据说人看不清世界的真相，就是因为有一个自我在身体里有意地过滤五感。
+
+- **旅行者:** 那好像就没那么可怕了。
+
+**卡特皮拉:** 只是我不知道，纳齐森科鲁兹收集那些自我与意志，最终是为了什么呢？
+
+- **旅行者:** 能再讲讲水仙十字的别的事吗？
+
+**卡特皮拉:** 下次吧。能说的太多了，让我整理一下思维。
+
+- **旅行者:** 关于多年前的事情…
+
+**卡特皮拉:** 多年以前，现在称之为「奇械公」的吉约丹和纳齐森科鲁兹有过激烈的对抗。
+
+**卡特皮拉:** 当年吉约丹还叫「护国的白骑士」呢…
+
+**派蒙:** 噗。
+
+- **旅行者:** 和「荣誉骑士」比哪个更厉害？
+
+**卡特皮拉:** 那我还是觉得「幻光蝶蛾之蛹」更厉害。
+
+**派蒙:** 噗啊哈哈哈，这是什么奇怪的头衔啦！
+
+**卡特皮拉:** …是结社给我安的头衔。你看，我是卡特皮拉，也就是结蛹、完全变态，然后化蝶的那种生命。
+
+**派蒙:** 对、对不起哦。
+
+**卡特皮拉:** 可能包含着让我最后成人的希冀吧。
 
 **卡特皮拉:** 如果有什么值得一说的新发现，我会立刻告诉你们的。
 
@@ -801,9 +1128,9 @@ So, what would your wish be, Paimon?
 
 **卡特皮拉:** 你们也是。
 
-我们会等你的。
+- **旅行者:** 我们会等你的。
 
-*卡特皮拉离开了此地。*
+卡特皮拉离开了此地。
 
 **安:** 呼啊~
 
@@ -827,7 +1154,7 @@ So, what would your wish be, Paimon?
 
 **安:** 我和派蒙还有旅行者骑士一起经历了许多冒险，才知道她只不过故事中的角色罢了。
 
-这是怎么回事？
+- **旅行者:** 这是怎么回事？
 
 **派蒙:** 对啊对啊，这是怎么回事？卡特皮拉你认识莉利丝吗？
 
@@ -849,7 +1176,7 @@ So, what would your wish be, Paimon?
 
 **安:** 你见到我的第一句话…
 
-「我的名字是卡特皮拉…」
+- **旅行者:** 「我的名字是卡特皮拉…」
 
 **安:** 下一句啦！
 
@@ -863,7 +1190,7 @@ So, what would your wish be, Paimon?
 
 **安:** 旅行者骑士、派蒙，这次就不麻烦你们了。我和卡特皮拉一起去吧。
 
-真的没问题吗？
+- **旅行者:** 真的没问题吗？
 
 **卡特皮拉:** 相信我。
 
@@ -875,7 +1202,7 @@ So, what would your wish be, Paimon?
 
 **西摩尔:** 磁盘整理紧急中断。
 
-**西摩尔:** 旅行者先生 / 小姐，派蒙小姐，请立刻进行回避。
+**西摩尔:** 旅行者先生，派蒙小姐，请立刻进行回避。 / 旅行者小姐，派蒙小姐，请立刻进行回避。
 
 **派蒙:** 呜啊，西摩尔冷静一点。这个人是…
 
@@ -885,11 +1212,11 @@ So, what would your wish be, Paimon?
 
 **西摩尔:** …此话题优先级降权。请你立刻束手就擒。
 
-**卡特皮拉:** 西摩尔，听我说，我现在已经对旅行者先生 / 小姐投降啦。
+**卡特皮拉:** 西摩尔，听我说，我现在已经对旅行者先生投降啦。 / 西摩尔，听我说，我现在已经对旅行者小姐投降啦。
 
 **西摩尔:** 是这样吗？
 
-对的对的。
+- **旅行者:** 对的对的。
 
 **西摩尔:** 好的。我们可以重新聊一下我的非凡设计了。
 
@@ -903,7 +1230,7 @@ So, what would your wish be, Paimon?
 
 **卡特皮拉:** 玛丽安。或者，叫她玛丽安·吉约丹。
 
-…玛丽安·吉约丹！
+- **旅行者:** …玛丽安·吉约丹！
 
 **西摩尔:** …（嘈杂的机械音），…（嘈杂的机械音逐渐清晰），吉约丹。
 
@@ -927,7 +1254,7 @@ So, what would your wish be, Paimon?
 
 **西摩尔:** 虽然不明白。但是判断可行度：高。
 
-*分享了信息…*
+分享了信息…
 
 **卡特皮拉:** 雅各布出现了啊…
 
@@ -943,7 +1270,7 @@ So, what would your wish be, Paimon?
 
 **西摩尔:** 否定的。危险。危险。检测到水仙十字结社残党活动。
 
-**西摩尔:** 旅行者先生 / 小姐，派蒙小姐还有安，请立刻找安全的地方回避。
+**西摩尔:** 旅行者先生，派蒙小姐还有安，请立刻找安全的地方回避。 / 旅行者小姐，派蒙小姐还有安，请立刻找安全的地方回避。
 
 **西摩尔:** 广域歼灭模式启动。
 
@@ -957,11 +1284,13 @@ So, what would your wish be, Paimon?
 
 **西摩尔:** …此话题优先级降权。请你立刻束手就擒。
 
-**卡特皮拉:** 西摩尔，听我说，我现在已经对旅行者先生 / 小姐投降啦。
+**卡特皮拉:** 西摩尔，听我说，我现在已经对旅行者先生投降啦。 / 西摩尔，听我说，我现在已经对旅行者小姐投降啦。
 
 **西摩尔:** 是这样吗？
 
-对的对的。
+- **旅行者:** 对的对的。
+
+**西摩尔:** 好的。我们可以重新聊一下我的非凡设计了。
 
 **卡特皮拉:** 我是卡特皮拉，你当然知道吧。话说，你要保护的小姑娘现在怎么样了？
 
@@ -973,7 +1302,7 @@ So, what would your wish be, Paimon?
 
 **卡特皮拉:** 玛丽安。或者，叫她玛丽安·吉约丹。
 
-…玛丽安·吉约丹！
+- **旅行者:** …玛丽安·吉约丹！
 
 **西摩尔:** …（嘈杂的机械音），…（嘈杂的机械音逐渐清晰），吉约丹。
 
@@ -1009,7 +1338,7 @@ So, what would your wish be, Paimon?
 
 **卡特皮拉:** 莉利丝确有其人，她也是一位纯水精灵。在社内被纳齐森科鲁兹称呼为「红女皇」。
 
-这是怎么回事？
+- **旅行者:** 这是怎么回事？
 
 **派蒙:** 怎么感觉都连起来了！
 
@@ -1019,7 +1348,7 @@ So, what would your wish be, Paimon?
 
 **卡特皮拉:** 简单来说，就是末日的时钟。
 
-末日时钟？
+- **旅行者:** 末日时钟？
 
 **卡特皮拉:** 当时间走到午夜，末日就会来临。
 
@@ -1041,7 +1370,7 @@ So, what would your wish be, Paimon?
 
 **派蒙:** 是喔…
 
-总之，先互通一下情报…
+- **旅行者:** 总之，先互通一下情报…
 
 和派蒙一起，与三人（虽然严格而言都不是人类）分享了此前发生的事情。
 
@@ -1049,7 +1378,7 @@ So, what would your wish be, Paimon?
 
 **安:** 厄里那斯…
 
-有想起什么吗？
+- **旅行者:** 有想起什么吗？
 
 **安:** 不知道。不清楚。就像沸腾汽化的水，看不清、抓不到的感觉。
 
@@ -1065,7 +1394,7 @@ So, what would your wish be, Paimon?
 
 **卡特皮拉:** 哈哈，当然是在我做得到的范围内啦。虽然你们将我和莉诺尔从牢狱中解放，但毕竟我不是魔瓶里的镇灵。
 
-派蒙有什么愿望？
+- **旅行者:** 派蒙有什么愿望？
 
 **派蒙:** 唔…如果是这样的话…摩拉…不对，还是好吃的…
 
@@ -1077,9 +1406,15 @@ So, what would your wish be, Paimon?
 
 **派蒙:** 旅行者，你觉得呢？可以吗？
 
+##### 对话分支 1
+
 - **旅行者:** 就这样吧。
 
+##### 对话分支 2
+
 - **旅行者:** 我没所谓。
+
+##### 共同后续
 
 **卡特皮拉:** 我明白了。那我们就一起行动吧。
 
@@ -1089,4 +1424,16 @@ So, what would your wish be, Paimon?
 
 **卡特皮拉:** 接下来，我打算和西摩尔、安在这里基于之前经历和这里的资料，看看有没有突破点。旅行者、派蒙，之后再在这里会合吧。
 
-**西摩尔:** 好的。我们可以重新聊一下我的非凡设计了。
+**派蒙:** 还有什么其他的问题吗？
+
+**派蒙:** 虽然知道了很多事情…
+
+- **旅行者:** 但是似乎还有许多疑问…
+
+**卡特皮拉:** 我需要去翻阅一下文献，然后看看能不能拼凑出所有过往。
+
+**卡特皮拉:** 所以我可能有时候会不在这里。
+
+**派蒙:** 现在的枫丹对你有些危险。
+
+**卡特皮拉:** 我会用伪装和我一直以来赖以生存的一些手段去处理这些事情的。

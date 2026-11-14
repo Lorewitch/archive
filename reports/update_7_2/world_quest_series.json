@@ -1,0 +1,3468 @@
+{
+  "world_quests_reviewed": 209,
+  "families": [
+    {
+      "key": "Witch's Homework",
+      "title_ru": "Уроки ведьм",
+      "members": [
+        "quest_wq_10134",
+        "quest_wq_2076",
+        "quest_wq_2077",
+        "quest_wq_2078",
+        "quest_wq_2079",
+        "quest_wq_2080",
+        "quest_wq_2081",
+        "quest_wq_2082",
+        "quest_wq_2083",
+        "quest_wq_10189",
+        "quest_wq_10239",
+        "quest_wq_10252",
+        "quest_wq_10253"
+      ],
+      "navigation": "collection",
+      "title_origin": "game_series",
+      "sources": [
+        "https://wotpack.ru/vse-zadaniya-mira-nod-kraya-v-genshin-impact-i-skrytye-kvesty/"
+      ],
+      "note": "Независимые задания коллекции; последовательная зависимость не добавляется."
+    },
+    {
+      "key": "Witch's Revelation",
+      "title_ru": "Пророчество ведьмы",
+      "members": [
+        "quest_wq_74691",
+        "quest_wq_74692",
+        "quest_wq_74693",
+        "quest_wq_74694",
+        "quest_wq_74695",
+        "quest_wq_74696",
+        "quest_wq_74697",
+        "quest_wq_74698"
+      ],
+      "navigation": "collection",
+      "title_origin": "game_series",
+      "sources": [
+        "https://wotpack.ru/vse-zadaniya-mira-nod-kraya-v-genshin-impact-i-skrytye-kvesty/"
+      ],
+      "note": ""
+    },
+    {
+      "key": "Aranyaka",
+      "title_ru": "Араньяка",
+      "members": [
+        "quest_wq_73024",
+        "quest_wq_10073",
+        "quest_wq_10076",
+        "quest_wq_10070",
+        "quest_wq_10072",
+        "quest_wq_10083",
+        "quest_wq_10069",
+        "quest_wq_73248",
+        "quest_wq_10079",
+        "quest_wq_10082",
+        "quest_wq_73056",
+        "quest_wq_73057",
+        "quest_wq_73058"
+      ],
+      "navigation": "collection",
+      "title_origin": "game_series",
+      "sources": [
+        "https://genshin-impact.fandom.com/ru/wiki/Араньяка"
+      ],
+      "note": "Включены присутствующие сюжетные ветви и эпилоги. Порядок каталога не превращает параллельные ветви в обязательную последовательность; прежние связи глав сохранены."
+    },
+    {
+      "key": "A Long Day in the Mountains",
+      "title_ru": "Долгий день в горах",
+      "members": [
+        "quest_wq_70099",
+        "quest_wq_10086",
+        "quest_wq_10094",
+        "quest_wq_10095",
+        "quest_wq_10132"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [
+        "https://landofgames.ru/articles/walkthroughs/29502-dolgij-den-v-gorah-v-genshin-impact-kak-nachat-i-projti.html"
+      ],
+      "note": "Старое отдельное вступление и полная карточка пролога сохранены ради прежних ссылок; тексты не дублируются заново."
+    },
+    {
+      "key": "Canticles of Harmony",
+      "title_ru": "Оды Гармонии",
+      "members": [
+        "quest_wq_10183",
+        "quest_wq_10184",
+        "quest_wq_10182",
+        "quest_wq_10181",
+        "quest_wq_10185"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [
+        "https://ghost.mwb.moe/ru/genshin/chapter/10181"
+      ],
+      "note": "Порядок: увертюра, I, II, III, финал; взят из имеющихся официальных chapter_num_ru."
+    },
+    {
+      "key": "Lost Traveler in the Ashen Realm",
+      "title_ru": "Заблудший путник в обители пепла",
+      "members": [
+        "quest_wq_10213",
+        "quest_wq_10215",
+        "quest_wq_10216",
+        "quest_wq_10217"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [
+        "https://ghost.mwb.moe/ru/genshin/chapter/10213"
+      ],
+      "note": ""
+    },
+    {
+      "key": "In the Wake of Narcissus",
+      "title_ru": "По следам Нарцисса",
+      "members": [
+        "quest_wq_10152",
+        "quest_wq_10153",
+        "quest_wq_10154",
+        "quest_wq_10155"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": "Название и порядок актов из официальных chapter_num_ru в предоставленных исходниках."
+    },
+    {
+      "key": "Moon Gazing",
+      "title_ru": "Созерцание луны",
+      "members": [
+        "quest_wq_10197",
+        "quest_wq_10199",
+        "quest_wq_10228"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": "Название и порядок глав из официальных chapter_num_ru в предоставленных исходниках."
+    },
+    {
+      "key": "Valor's Afterglow",
+      "title_ru": "Отблески храбрости",
+      "members": [
+        "quest_wq_71036",
+        "quest_wq_71038",
+        "quest_wq_71039"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": "Сохранена подтверждённая серия из исходного архива."
+    },
+    {
+      "key": "Nightingale's Song",
+      "title_ru": "Соловьиная трель",
+      "members": [
+        "quest_wq_10177",
+        "quest_wq_10178",
+        "quest_wq_10179"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [
+        "https://ghost.mwb.moe/ru/genshin/chapter/10177"
+      ],
+      "note": ""
+    },
+    {
+      "key": "Ann of the Narzissenkreuz",
+      "title_ru": "Анн из Нарциссенкрейц",
+      "members": [
+        "quest_wq_10146",
+        "quest_wq_10148",
+        "quest_wq_10149"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": "Точная подпись и порядок актов из официальных chapter_num_ru в предоставленных исходниках."
+    },
+    {
+      "key": "Questioning Melusine and Answering Machine",
+      "title_ru": "Опрос мелюзины и ответ машины",
+      "members": [
+        "quest_wq_10200",
+        "quest_wq_10201",
+        "quest_wq_10202"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "key": "Ancient Colors",
+      "title_ru": "Древние цвета",
+      "members": [
+        "quest_wq_10142",
+        "quest_wq_10150",
+        "quest_wq_10151"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": "Порядок актов из официальных chapter_num_ru в предоставленных исходниках."
+    },
+    {
+      "key": "Pursuit",
+      "title_ru": "Погоня",
+      "members": [
+        "quest_wq_74141",
+        "quest_wq_74142"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "key": "Lost in a Foreign Land",
+      "title_ru": "Пропавшая на чужбине",
+      "members": [
+        "quest_wq_71058",
+        "quest_wq_71059"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "key": "Sacred Sakura Cleansing Ritual",
+      "title_ru": "Очищение Священной сакуры",
+      "members": [
+        "quest_eq_40053",
+        "quest_wq_10025"
+      ],
+      "navigation": "collection",
+      "title_origin": "game_series",
+      "sources": [],
+      "note": "Отдельная старая карточка Конды перекрывается с полной сборкой серии; это не две последовательные части. Ссылки сохранены, искусственная навигационная зависимость не добавляется."
+    },
+    {
+      "key": "Тайные приказы ледяного дворца",
+      "title_ru": "Тайные приказы ледяного дворца",
+      "members": [
+        "quest_wq_77664",
+        "quest_wq_77665",
+        "quest_wq_77666",
+        "quest_wq_77667",
+        "quest_wq_77668",
+        "quest_wq_77669",
+        "quest_wq_77681",
+        "quest_wq_77682",
+        "quest_wq_77683",
+        "quest_wq_77684",
+        "quest_wq_77685",
+        "quest_wq_77686"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [
+        "https://wotpack.ru/taynye-prikazy-ledyanogo-dvortsa-v-genshin-impact-kak-proyti-2-y-i-3-y-v-reputatsii-tsaritsy/"
+      ],
+      "note": "Две доступные главы по шесть поручений; третья глава будущего обновления не добавляется."
+    },
+    {
+      "key": "Древняя баллада о кристаллическом потоке и каменных ларцах",
+      "title_ru": "Древняя баллада о кристаллическом потоке и каменных ларцах",
+      "members": [
+        "quest_wq_10277",
+        "quest_wq_10278",
+        "quest_wq_10279",
+        "quest_wq_10280"
+      ],
+      "navigation": "linear",
+      "title_origin": "game_series",
+      "sources": [
+        "https://genshin.hoyoverse.com/m/ru/news/detail/167187",
+        "https://wotpack.ru/drevnyaya-ballada-o-kristallicheskom-potoke-i-kamennyh-lartsah-v-genshin-impact-prohozhdenie-vseh-zadaniy/"
+      ],
+      "note": ""
+    },
+    {
+      "key": "Её дворец рушится в метель",
+      "title_ru": "Её дворец рушится в метель",
+      "members": [
+        "quest_wq_10187",
+        "quest_wq_10255",
+        "quest_wq_10282",
+        "quest_wq_10188"
+      ],
+      "navigation": "parallel_final",
+      "title_origin": "game_series",
+      "sources": [
+        "https://wotpack.ru/vse-zadaniya-mira-snezhnoy-v-genshin-impact-i-skrytye-kvesty/",
+        "https://www.playground.ru/genshin_impact/guide/kovcheg_chto_nekogda_byl_dushoj_v_genshin_impact_kak_sobrat_vse_fragmenty_oka_graj-1866371"
+      ],
+      "note": "Первые три истории можно проходить в любом порядке; финал следует после всех трёх. Параллельность сохранена в связях навигации."
+    },
+    {
+      "key": "ice_giant_story",
+      "title_ru": "Великое сердце, скованное тонкой цепью",
+      "members": [
+        "quest_wq_77129",
+        "quest_wq_77130",
+        "quest_wq_77132"
+      ],
+      "navigation": "linear",
+      "title_origin": "first_quest_title",
+      "sources": [
+        "https://genshindrop.io/community/guides/great-heart-fettered-by-slender-chains-quest"
+      ],
+      "note": "Подтверждённая скрытая история. Отдельное официальное общее название не найдено; использовано название первого задания."
+    },
+    {
+      "key": "ice_house_story",
+      "title_ru": "Вечно под водной гладью",
+      "members": [
+        "quest_wq_77209",
+        "quest_wq_77210",
+        "quest_wq_77211"
+      ],
+      "navigation": "linear",
+      "title_origin": "first_quest_title",
+      "sources": [
+        "https://wotpack.ru/vse-zadaniya-mira-snezhnoy-v-genshin-impact-i-skrytye-kvesty/"
+      ],
+      "note": "Подтверждённая скрытая история ледяной хижины; показана под названием первого задания, без выдуманного официального заголовка."
+    },
+    {
+      "key": "rankova_zorya_story",
+      "title_ru": "Заря после снегопада",
+      "members": [
+        "quest_wq_77656",
+        "quest_wq_77670"
+      ],
+      "navigation": "linear",
+      "title_origin": "first_quest_title",
+      "sources": [
+        "https://showgamer.com/guides/5729-snezhnye-gosti-v-genshin-impact-kak-nachat-i-ukrasit-snegovikov",
+        "https://showgamer.com/guides/5147-stanciya-rankova-zorya-v-genshin-impakt"
+      ],
+      "note": "Основная сцена восстановления станции и эпилог. Предшествующие хроники трёх мест встречи не объявлены единой линейной цепочкой."
+    },
+    {
+      "key": "hunter_hideout_chronicles",
+      "title_ru": "Домик следопыта",
+      "members": [
+        "quest_wq_77650",
+        "quest_wq_77653",
+        "quest_wq_77654",
+        "quest_wq_77655",
+        "quest_wq_77652",
+        "quest_wq_77651"
+      ],
+      "navigation": "collection",
+      "title_origin": "official_meeting_place_name",
+      "sources": [
+        "https://showgamer.com/ru/guides/5108-domik-sledopyta-v-genshin-impakt"
+      ],
+      "note": "Коллекция хроник места встречи Алёши. Три задания «Наследие Сферы теней» сохранены отдельными записями под общей коллекцией."
+    },
+    {
+      "key": "tide_cave_chronicles",
+      "title_ru": "Пещера прилива",
+      "members": [
+        "quest_wq_77137",
+        "quest_wq_77144"
+      ],
+      "navigation": "collection",
+      "title_origin": "official_meeting_place_name",
+      "sources": [
+        "https://wotpack.ru/reputatsiya-snezhnoy-v-genshin-impact-kak-otkryt-i-proyti-vse-zadaniya-mest-vstrechi/"
+      ],
+      "note": "Только сохранённые после лорного отбора хроники места встречи Водяницы; исключённые мини-игры не возвращались."
+    },
+    {
+      "key": "royal_theatre_chronicles",
+      "title_ru": "Королевский театр",
+      "members": [
+        "quest_wq_10284",
+        "quest_wq_77204"
+      ],
+      "navigation": "collection",
+      "title_origin": "official_meeting_place_name",
+      "sources": [
+        "https://wotpack.ru/reputatsiya-snezhnoy-v-genshin-impact-kak-otkryt-i-proyti-vse-zadaniya-mest-vstrechi/"
+      ],
+      "note": "Только сохранённые после лорного отбора хроники места встречи Одетты."
+    },
+    {
+      "key": "sandrones_tea_meetings",
+      "title_ru": "Приглашение от леди",
+      "members": [
+        "quest_wq_73356",
+        "quest_wq_74251",
+        "quest_wq_76187",
+        "quest_wq_74253",
+        "quest_wq_74254"
+      ],
+      "navigation": "collection",
+      "title_origin": "introductory_quest_title",
+      "sources": [
+        "https://genshindb.ru/gajdy/chaepitiya-s-sandrone/",
+        "https://gensh.honeyhunterworld.com/q_76218/?lang=RU"
+      ],
+      "note": "Коллекция сохранённых чаепитий Сандроне; заголовок взят у вступительного задания. Вступление и ранее удалённые бытовые встречи не восстановлены; линейная зависимость между чаепитиями не создаётся."
+    },
+    {
+      "key": "wangshan_guhua_story",
+      "title_ru": "Прогулка по Залу Ваншань, которую стоит запомнить",
+      "members": [
+        "quest_wq_71107",
+        "quest_wq_71108"
+      ],
+      "navigation": "linear",
+      "title_origin": "first_quest_title",
+      "sources": [
+        "https://gensh.honeyhunterworld.com/q_71107/?lang=RU",
+        "https://www.hoyolab.com/article/24778473"
+      ],
+      "note": "Объединены две уже имеющиеся главы. Третьего задания «Скрытая долина, тайный герой» не было в исходном пользовательском архиве; оно не заявляется добавленным."
+    },
+    {
+      "key": "tadhla_story",
+      "title_ru": "Сокол Тадлэ",
+      "members": [
+        "quest_wq_73279",
+        "quest_wq_73281",
+        "quest_wq_73282"
+      ],
+      "navigation": "linear",
+      "title_origin": "first_quest_title",
+      "sources": [
+        "https://protogamer.ru/guides/578-sokol-tadleh-genshin-impact",
+        "https://wotpack.ru/slozhivshij-krylja-sokol-v-genshin-impact-kak-poluchit-dostizhenie-milost-ohotnika/"
+      ],
+      "note": ""
+    },
+    {
+      "key": "mitya_danika_investigation",
+      "title_ru": "Загнанный зверь",
+      "members": [
+        "quest_wq_77227",
+        "quest_wq_77241",
+        "quest_wq_77226"
+      ],
+      "navigation": "parallel_final",
+      "title_origin": "final_quest_title",
+      "sources": [
+        "https://wotpack.ru/zagnannyy-zver-v-genshin-impact-kak-dognat-drogina-i-zaschitit-poezd/"
+      ],
+      "note": "Подтверждённое общее расследование Мити и Даники с совместным финалом. Отдельное официальное общее название не подтверждено: заголовок — название финала. Ранее исключённые вводные квесты не возвращались."
+    }
+  ],
+  "standalone": [
+    {
+      "id": "quest_wq_10031",
+      "title_ru": "Лунная бездна",
+      "source_parts": [
+        72145,
+        72146,
+        72147,
+        72148,
+        72149
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10032",
+      "title_ru": "Охотники за грозами Сэйрая",
+      "source_parts": [
+        72155,
+        72156,
+        72157,
+        72158
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10036",
+      "title_ru": "Сказания из Татары",
+      "source_parts": [
+        72114,
+        72115,
+        72116,
+        72117,
+        72118,
+        72119,
+        72120,
+        72122
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10037",
+      "title_ru": "Наследие Оробаси",
+      "source_parts": [
+        72129,
+        72130,
+        72131,
+        72132,
+        72133,
+        72134
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10044",
+      "title_ru": "Сквозь туман",
+      "source_parts": [
+        72166,
+        72167,
+        72172,
+        72173
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10051",
+      "title_ru": "Записи о путешествии вглубь Разлома",
+      "source_parts": [
+        71037,
+        71040,
+        71041,
+        71042,
+        71043,
+        71044,
+        71045,
+        71048,
+        71049
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10055",
+      "title_ru": "От заката до рассвета в Бякуякоку",
+      "source_parts": [
+        72177,
+        72190,
+        72191,
+        72192,
+        72242
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10058",
+      "title_ru": "Особый гадальный листок",
+      "source_parts": [
+        72263,
+        72265,
+        72266
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10059",
+      "title_ru": "Тайна Эреб",
+      "source_parts": [
+        72268,
+        72269,
+        72270,
+        72275
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10060",
+      "title_ru": "Скорбная песнь Гипериона",
+      "source_parts": [
+        72241,
+        72247,
+        72248,
+        72249
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10087",
+      "title_ru": "Золотая страна грёз",
+      "source_parts": [
+        73052,
+        73053,
+        73054,
+        73055
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10107",
+      "title_ru": "Древний язык, новые знания",
+      "source_parts": [
+        73083,
+        73110,
+        73189,
+        73190,
+        73191
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10120",
+      "title_ru": "Её враги бушуют, словно волны...",
+      "source_parts": [
+        73212,
+        73225,
+        73264
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10121",
+      "title_ru": "Хварна добра и зла",
+      "source_parts": [
+        73231,
+        73232,
+        73235,
+        73238,
+        73251,
+        73253,
+        73254,
+        73256,
+        73257
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10125",
+      "title_ru": "Монументальное исследование",
+      "source_parts": [
+        73285,
+        73329,
+        73330
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10126",
+      "title_ru": "Бледное пламя",
+      "source_parts": [
+        73307,
+        73309,
+        73310,
+        73312,
+        73314,
+        73315,
+        73316,
+        73317,
+        73318,
+        73332,
+        73334
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10130",
+      "title_ru": "Панихида Билцис",
+      "source_parts": [
+        73103,
+        73186,
+        73187,
+        73219,
+        73220,
+        73287
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10131",
+      "title_ru": "Утраченный апокалипсис",
+      "source_parts": [
+        73305
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_10143",
+      "title_ru": "Незавершённая комедия",
+      "source_parts": [
+        74025,
+        74026,
+        74028
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10145",
+      "title_ru": "Хроники Исследовательского института Фонтейна",
+      "source_parts": [
+        74053,
+        74087,
+        74088
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10147",
+      "title_ru": "Дикая фея Эриния",
+      "source_parts": [
+        74082,
+        74083,
+        74084,
+        74085
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10168",
+      "title_ru": "Нефритовое благословение",
+      "source_parts": [
+        71100,
+        71102,
+        71103
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10203",
+      "title_ru": "Между обещанием и забвением",
+      "source_parts": [
+        75000,
+        75002,
+        75003,
+        75019
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10204",
+      "title_ru": "По следам избранника драконов",
+      "source_parts": [
+        75009,
+        75010,
+        75015,
+        75018,
+        75022,
+        75023,
+        75024,
+        75025,
+        75028,
+        75035,
+        75036,
+        75094,
+        75107,
+        75108,
+        75177,
+        75178
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10230",
+      "title_ru": "Записи о заброшенном городе",
+      "source_parts": [
+        75149,
+        75150,
+        75166,
+        75175,
+        75176,
+        75181,
+        75189,
+        75200,
+        75201,
+        75202
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10231",
+      "title_ru": "Финальные всполохи пламени",
+      "source_parts": [
+        75151
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_10240",
+      "title_ru": "Дорога к пламенным вершинам",
+      "source_parts": [
+        75148
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_10241",
+      "title_ru": "Полька под луной",
+      "source_parts": [
+        76005,
+        76009,
+        76010,
+        76011,
+        76014
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10242",
+      "title_ru": "Превыше серебра и злата",
+      "source_parts": [
+        76202,
+        76203,
+        76204,
+        76205
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10260",
+      "title_ru": "Оттенки пустоты",
+      "source_parts": [
+        76026,
+        76027,
+        76028
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10283",
+      "title_ru": "Трущобы",
+      "source_parts": [
+        77142,
+        77143
+      ],
+      "reason": "Already a complete named chapter/chain inside one card"
+    },
+    {
+      "id": "quest_wq_10285",
+      "title_ru": "Мечи и секреты",
+      "source_parts": [
+        70100
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_10286",
+      "title_ru": "Вариация встречного течения",
+      "source_parts": [
+        77014
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_1105",
+      "title_ru": "Хранитель ветви: Дайнслейф",
+      "source_parts": [
+        18000
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70098",
+      "title_ru": "Знамёна на северном ветру",
+      "source_parts": [
+        70098
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70131",
+      "title_ru": "Непоколебимая твердыня",
+      "source_parts": [
+        70131
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70132",
+      "title_ru": "За грядущий день",
+      "source_parts": [
+        70132
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70133",
+      "title_ru": "Гром, рассеивающий скверну",
+      "source_parts": [
+        70133
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70134",
+      "title_ru": "Деревья становятся лесом",
+      "source_parts": [
+        70134
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70135",
+      "title_ru": "Корабельный заслон",
+      "source_parts": [
+        70135
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70136",
+      "title_ru": "Неугасающие угли",
+      "source_parts": [
+        70136
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70137",
+      "title_ru": "К пламени жизни",
+      "source_parts": [
+        70137
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_70138",
+      "title_ru": "Вместе по стылым дорогам",
+      "source_parts": [
+        70138
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_71050",
+      "title_ru": "Микологическое исследование Разлома",
+      "source_parts": [
+        71050
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_71051",
+      "title_ru": "Гидрологическое исследование Разлома",
+      "source_parts": [
+        71051
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_71052",
+      "title_ru": "Палеонтологическое исследование Разлома",
+      "source_parts": [
+        71052
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_71061",
+      "title_ru": "Погасший гриб просит помощи",
+      "source_parts": [
+        71061
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_71062",
+      "title_ru": "Пропавший в глубинах отряд",
+      "source_parts": [
+        71062
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_71115",
+      "title_ru": "Бабочка, что тихо летит сквозь долину",
+      "source_parts": [
+        71115
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_71127",
+      "title_ru": "Застланный облаками путь к Обители Чиван",
+      "source_parts": [
+        71127
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_72141",
+      "title_ru": "Зловещая инструкция",
+      "source_parts": [
+        72141
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_72236",
+      "title_ru": "Трёхцветный архив",
+      "source_parts": [
+        72236
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_72237",
+      "title_ru": "Антигон",
+      "source_parts": [
+        72237
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_73244",
+      "title_ru": "Возрадуйся обретению утраченного",
+      "source_parts": [
+        73244
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_73341",
+      "title_ru": "Сердце амриты",
+      "source_parts": [
+        73341
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_74011",
+      "title_ru": "Тайны «Книги Откровения»",
+      "source_parts": [
+        74011
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_74056",
+      "title_ru": "Неоконченная история",
+      "source_parts": [
+        74056
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_74120",
+      "title_ru": "Последний вопрос",
+      "source_parts": [
+        74120
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_74134",
+      "title_ru": "Оглашение разгадки ожидается",
+      "source_parts": [
+        74134
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_74135",
+      "title_ru": "Первичные факты",
+      "source_parts": [
+        74135
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_74140",
+      "title_ru": "Сквозь тайное зеркало",
+      "source_parts": [
+        74140
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_74185",
+      "title_ru": "Во имя прошлого и будущего",
+      "source_parts": [
+        74185
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_74228",
+      "title_ru": "Дар морских духов",
+      "source_parts": [
+        74228
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_75069",
+      "title_ru": "Искажённое расширение",
+      "source_parts": [
+        75069
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_75146",
+      "title_ru": "Краткая история камней",
+      "source_parts": [
+        75146
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_75147",
+      "title_ru": "Исследователь древних руин",
+      "source_parts": [
+        75147
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_75169",
+      "title_ru": "Путь внутрь горы",
+      "source_parts": [
+        75169
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_75197",
+      "title_ru": "Клык разложения",
+      "source_parts": [
+        75197
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_75230",
+      "title_ru": "Последний выживший из Теночцитока",
+      "source_parts": [
+        75230
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_75232",
+      "title_ru": "Пайтити мечты",
+      "source_parts": [
+        75232
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76001",
+      "title_ru": "Отзвуки скорбного колокола",
+      "source_parts": [
+        76001
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76069",
+      "title_ru": "Безымянный окровавленный памятник",
+      "source_parts": [
+        76069
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76076",
+      "title_ru": "Клятва Светоносцев",
+      "source_parts": [
+        76076
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76114",
+      "title_ru": "Странный отшельник",
+      "source_parts": [
+        76114
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76115",
+      "title_ru": "Когда пыль осела",
+      "source_parts": [
+        76115
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76117",
+      "title_ru": "Человек, который отбросил прошлое",
+      "source_parts": [
+        76117
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76141",
+      "title_ru": "Окно в мир",
+      "source_parts": [
+        76141
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76142",
+      "title_ru": "Эхо павших героев",
+      "source_parts": [
+        76142
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_76681",
+      "title_ru": "Происхождение последовательности",
+      "source_parts": [
+        76681
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_77148",
+      "title_ru": "Заснеженная лесная пустошь",
+      "source_parts": [
+        77148
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_77229",
+      "title_ru": "Странный свет",
+      "source_parts": [
+        77229
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    },
+    {
+      "id": "quest_wq_77251",
+      "title_ru": "К рассвету и огням",
+      "source_parts": [
+        77251
+      ],
+      "reason": "No confirmed shared series with another retained card; prerequisite alone is insufficient"
+    }
+  ],
+  "invalid_series_keys_removed": [
+    "I"
+  ],
+  "display_order_is_not_unlock_dependency": true,
+  "metadata_changes": [
+    {
+      "id": "quest_wq_10134",
+      "path": "content/stories/quests/world_quests/quest_wq_10134.md",
+      "title_ru": "Уроки ведьм: Решение",
+      "family": "Witch's Homework",
+      "order": 10,
+      "before_sha256": "c84cd1b5f45bbb9c0af691b3f52c2997e9d89dfcce39ee2c441de10952dab03f",
+      "after_sha256": "c36a553c28b871bc68deda42681c671bd0abbd82a64b1f89057b81675ec560f2",
+      "body_sha256": "5eb324b94ec11c0bf06f6b4905766ea7a11890cdeed751a8f4764e9c277fb102",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_2076",
+      "path": "content/stories/quests/world_quests/quest_wq_2076.md",
+      "title_ru": "Уроки ведьм: Неожиданное задание",
+      "family": "Witch's Homework",
+      "order": 20,
+      "before_sha256": "610013b68daa9baad4a04011cd8ee9dd4e070c17ab3380a2feb325a4052dee68",
+      "after_sha256": "2b1cebb2cef92d08c38090b7960fa9d05cae75e1a674f3c49a508ac4280edbec",
+      "body_sha256": "b7e8955b90651b9aadd9e95bd25ff39e891d37fdbb9c7c78186590333f1a9704",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_2077",
+      "path": "content/stories/quests/world_quests/quest_wq_2077.md",
+      "title_ru": "Уроки ведьм: Тест на проницательность",
+      "family": "Witch's Homework",
+      "order": 30,
+      "before_sha256": "36919f34cbf0c88a5e14a5cbd4e8413156d6e0d2aaeefef7d1dc813a48067468",
+      "after_sha256": "a62a8a078cd3170fb82696538fdf9d02a8490ef0938856ce38a52812d5f6ef56",
+      "body_sha256": "a3b67689e0d956fb24ba2e2e0961b63a463be2f9ca50749d16b23fc93d5fc77d",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_2078",
+      "path": "content/stories/quests/world_quests/quest_wq_2078.md",
+      "title_ru": "Уроки ведьм: Вопросы за пределами вопросов",
+      "family": "Witch's Homework",
+      "order": 40,
+      "before_sha256": "6b670a8851085fd43be4df26294fc9b01539bf7f64709926086373efb90f6ce9",
+      "after_sha256": "cc300e2af0e422e414a250df72b229860e1b93c9ceac2851b9f0f444dec6d8b0",
+      "body_sha256": "daaa3823262d092a1f3e95d78bdb9651d3c460219e23d592e694b540515820ab",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_2079",
+      "path": "content/stories/quests/world_quests/quest_wq_2079.md",
+      "title_ru": "Уроки ведьм: Этот мир",
+      "family": "Witch's Homework",
+      "order": 50,
+      "before_sha256": "3cdf84b8dbfcc18bcad04b271b000cc8af441b1616e94cedc228e18ea6fb9f4b",
+      "after_sha256": "e9c7216e6098ce3165c7b558bdbfcf60ebff53873adf042e27d6648633e665c0",
+      "body_sha256": "ffb3c8002aca753e9151f82bd3a2184cdd83fdebfd717e25b2f583763f8fa7d5",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_2080",
+      "path": "content/stories/quests/world_quests/quest_wq_2080.md",
+      "title_ru": "Уроки ведьм: Пробуждение ветра",
+      "family": "Witch's Homework",
+      "order": 60,
+      "before_sha256": "20bfe5b2b6cf14aa14b7cc8746083d0fadbd21bb7578a04c57e137005db04490",
+      "after_sha256": "5edb026cb470541de5b8b588ac4684f90c31561be0d56fc12559d3c78926f929",
+      "body_sha256": "8fa33a480f00a7a67c863fb045d06555e951f9941fa1f8a59bc9de368bbb1937",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_2081",
+      "path": "content/stories/quests/world_quests/quest_wq_2081.md",
+      "title_ru": "Уроки ведьм: Волчата",
+      "family": "Witch's Homework",
+      "order": 70,
+      "before_sha256": "b5bb991f2c8d4079d303ee56d8139fa9b206c518236be65f41a40c9416c150d3",
+      "after_sha256": "90926b0c1c372be1044ec2ffff675133f89f04c14257b3efe3c29af4d79e00a0",
+      "body_sha256": "55f3116cca974cb6307e94dae44833f16a1b12361a876b433483a4b06e7a95e5",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_2082",
+      "path": "content/stories/quests/world_quests/quest_wq_2082.md",
+      "title_ru": "Уроки ведьм: Цветы из сказочной страны",
+      "family": "Witch's Homework",
+      "order": 80,
+      "before_sha256": "46f601c3cd2b9384e4d13f312722ea7c2bb9d31d881608c9b64b9f962ea68d12",
+      "after_sha256": "b9598ca057e1b6c33e8552da270207889c7c4ca1577f9dcd601370c8606d7278",
+      "body_sha256": "97a291468203fd6c219d48edaa2bea802a02abef2968c3cdc2cb5356fd62e112",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_2083",
+      "path": "content/stories/quests/world_quests/quest_wq_2083.md",
+      "title_ru": "Уроки ведьм: Искрящиеся листья",
+      "family": "Witch's Homework",
+      "order": 90,
+      "before_sha256": "7849f8de40a8f24b0b40467976c0ed8e5b0f5d1cea76f6d0119485f284d4c0bb",
+      "after_sha256": "50960d62b1964d0e37547ac8de08552191d723d6ffe25e1f21ff47bec53b2272",
+      "body_sha256": "0523612b4351e77f3e90374f7b438904e86eab439cf39b8ee7804e10ede1e9f1",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10189",
+      "path": "content/stories/quests/world_quests/quest_wq_10189.md",
+      "title_ru": "Уроки ведьм: Вопрос без заголовка",
+      "family": "Witch's Homework",
+      "order": 100,
+      "before_sha256": "4fe70d523c6f88838c18df9f7494f56d6d4c5be0dbdb6a7a0b3c8b6f0ab97e22",
+      "after_sha256": "cc9c5f246dfca81f0e39078be8bb778aa4441d12c394414ac3cf01971ed806e5",
+      "body_sha256": "133b381f71f0197ca00d9cea519722777a1b65804ed969ed5310282d9201d323",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10239",
+      "path": "content/stories/quests/world_quests/quest_wq_10239.md",
+      "title_ru": "Уроки ведьм: Роль наставника?..",
+      "family": "Witch's Homework",
+      "order": 110,
+      "before_sha256": "41977829a2fbce47978a7c7e837ec27d2e834b4cca1f594fcee3d04718c5b3a3",
+      "after_sha256": "ea6c0041f6af8b6d075f5c8f33e8508c2ae46ea6752f13823213be7deec41e36",
+      "body_sha256": "8fcb46a890946167eb207a92b3641a1d0a46e2ccc6fef0f782136bc42e98c1bd",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10252",
+      "path": "content/stories/quests/world_quests/quest_wq_10252.md",
+      "title_ru": "Уроки ведьм: Предмет опровержения",
+      "family": "Witch's Homework",
+      "order": 120,
+      "before_sha256": "a62fd7d2f8063b217c5e6a8fde7bdd5f4a7439bc0edca328e784bfe83586e84a",
+      "after_sha256": "348cab8614188f6f03311dc6ded30729f87570ee6df8efcfa6d492b96d720f2d",
+      "body_sha256": "a2ab80883ffe1674223caeaa90d82768a9f40474845099db15784f3f792f5884",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10253",
+      "path": "content/stories/quests/world_quests/quest_wq_10253.md",
+      "title_ru": "Уроки ведьм: О различных врагах",
+      "family": "Witch's Homework",
+      "order": 130,
+      "before_sha256": "0a679ef0907c91aca6cc32e116946949ac7125bb3b84852536779df474e338b0",
+      "after_sha256": "3f1f5f9b7642996a1a55db2487a17a8b3ba1413e3817119fa25fad3bddc959c1",
+      "body_sha256": "0ec35303a39188ad6d87e5ec30d1d469ba0451345c2577a9c21b62c82396319b",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74691",
+      "path": "content/stories/quests/world_quests/quest_wq_74691.md",
+      "title_ru": "Случайные пророчества",
+      "family": "Witch's Revelation",
+      "order": 10,
+      "before_sha256": "d27d2ff9b3b251f97c2054d183507c9632f27c519b53a36f8cd48030af739fc5",
+      "after_sha256": "ac1fac9a968d80434d8eaab1a74142cd4ebdb8cb815005d9f0ced51b6863d13e",
+      "body_sha256": "0d50596fe2d66098b9a68eea0fc2d197596bbc4fe3a7968664e55df66c0825ac",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74692",
+      "path": "content/stories/quests/world_quests/quest_wq_74692.md",
+      "title_ru": "Пророчество ведьмы: Указания фирменного коктейля",
+      "family": "Witch's Revelation",
+      "order": 20,
+      "before_sha256": "48ef60a9fc51e2c0a2ff30fd20a279777597b960fe145e0db70953190a1edbed",
+      "after_sha256": "1d9918637fabe65924dc427a9a9347653c1f77f09e63872dd6e8d4363034f565",
+      "body_sha256": "b7d36d0570e446a48ff2b523acac4d2f32ddaaf2ebfa69fee4b3910646bc28a6",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74693",
+      "path": "content/stories/quests/world_quests/quest_wq_74693.md",
+      "title_ru": "Пророчество ведьмы: Указания долга",
+      "family": "Witch's Revelation",
+      "order": 30,
+      "before_sha256": "56da2d2f8f6a53762b30d8bb5ea3f493ec0477da4c1dff2acaed692dcbf96066",
+      "after_sha256": "f977af500f6429488b7cb61678441ee87a426d65385fc71216ccfd41b676fa56",
+      "body_sha256": "ebf11e8790d3da2b847cf373ab7917b008ce7fab5e38220b0b2e3b20f66aa870",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74694",
+      "path": "content/stories/quests/world_quests/quest_wq_74694.md",
+      "title_ru": "Пророчество ведьмы: Указания путешествий",
+      "family": "Witch's Revelation",
+      "order": 40,
+      "before_sha256": "5c8b03cd54e756df05a43dd38d3bd05f865b605b6ca52675280a6411034f4904",
+      "after_sha256": "a89f02aa567cba2e9188e7934f4c22371a3d9e3a4de5b565dc50584277a9dec6",
+      "body_sha256": "8480b7f7e1eff6713e90c9ac44b641a00946509fac4726c2d0d6fd26c02a1507",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74695",
+      "path": "content/stories/quests/world_quests/quest_wq_74695.md",
+      "title_ru": "Пророчество ведьмы: Указания надзирателя",
+      "family": "Witch's Revelation",
+      "order": 50,
+      "before_sha256": "486fdaec885045c8387171e61379be7cddc2fe7839aaa6f882b38e75270067e6",
+      "after_sha256": "31446bc4d68199211a4368c260e97aa3ec88e8613be341b00d6d2a78e028aa96",
+      "body_sha256": "cde649e9daac20f6cfc1c40a6f510e5d4f1c66676d5d7145cc34e33de4806d09",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74696",
+      "path": "content/stories/quests/world_quests/quest_wq_74696.md",
+      "title_ru": "Пророчество ведьмы: Указания причудливой формы",
+      "family": "Witch's Revelation",
+      "order": 60,
+      "before_sha256": "dc5d762a6c07415d3dc97df692685459f1504e973e0c484250558d3483ecbb7e",
+      "after_sha256": "65d5cbec07a826bf0c77d5a329c5f6fc52ae1758590e55ad302079c6a0fbf058",
+      "body_sha256": "684d7baf52ed69b21ae755f874ac7dd7c681e5909b89657b2eda3b20db7d221e",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74697",
+      "path": "content/stories/quests/world_quests/quest_wq_74697.md",
+      "title_ru": "Пророчество ведьмы: Указания вне снов",
+      "family": "Witch's Revelation",
+      "order": 70,
+      "before_sha256": "61d276d559caf2d5670b3139657fff53708a3fa68eb2193cb68eb4f074764544",
+      "after_sha256": "49a7821a3d00a8269c22392de748861d1437431ec4251de4086c5d59b2940dfb",
+      "body_sha256": "08c1230e168cf7873f44cf8d6a153df64d4b09ff749b92d409af36b2e2200270",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74698",
+      "path": "content/stories/quests/world_quests/quest_wq_74698.md",
+      "title_ru": "Пророчество ведьмы: Указания великого ёкая",
+      "family": "Witch's Revelation",
+      "order": 80,
+      "before_sha256": "4f4b03691e03561dd998f4223bbea59bcb00471294a806dc123c034b7dee8032",
+      "after_sha256": "805cf6292ad1dde5c1909e38efd8d655c3245c4c6af503228fae33ee7c438275",
+      "body_sha256": "67ab1e32d55e1b0723581bb4c3b1188d32298170e7c4511083d10546662606c3",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_73024",
+      "path": "content/stories/quests/world_quests/quest_wq_73024.md",
+      "title_ru": "Встреча в лесу",
+      "family": "Aranyaka",
+      "order": 10,
+      "before_sha256": "af4cd8d00e1d24721a04e14079afcbb24034d02f185cfee69df9f481af2e95b2",
+      "after_sha256": "c0a1f5547dca2fca97d4ef34ed4334bbe268db34225dbff635d1d3696f336f22",
+      "body_sha256": "9bba6fcba0610004551df557817e78a55e14c1caabc2b5cee905840905107e8b",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10073",
+      "path": "content/stories/quests/world_quests/quest_wq_10073.md",
+      "title_ru": "Встреча в лесу",
+      "family": "Aranyaka",
+      "order": 20,
+      "before_sha256": "63855210cb86674520233ae2ea3ace2e485d7be486e170d560b20ca5d5e884f4",
+      "after_sha256": "0b599c5f81f85ca23bf8a3ddc8ac011d7256451b1b080c484a2563d704122072",
+      "body_sha256": "804330f5b58aafb5a264f0eabd694f76fb600fbd74121b39f149219efffa1430",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10076",
+      "path": "content/stories/quests/world_quests/quest_wq_10076.md",
+      "title_ru": "Питомник грёз",
+      "family": "Aranyaka",
+      "order": 30,
+      "before_sha256": "6fa3cfc71eab5d247f4fdc8e92ba9bfc55fc5b0b52fe710f2ac7c150173f3882",
+      "after_sha256": "a53cd13d969f028f96480ca5d30c801a09534ad2789e126614ab7567dce246e5",
+      "body_sha256": "d1f80c3fab43c17b3d39221485baaee84d058c681b56f80e0ea188eda07418be",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10070",
+      "path": "content/stories/quests/world_quests/quest_wq_10070.md",
+      "title_ru": "Вимана-агама",
+      "family": "Aranyaka",
+      "order": 40,
+      "before_sha256": "4069c23642e4c4a408c4a82248c830ea92d136965d3d9abe15033e81ea378df6",
+      "after_sha256": "d3e529ab58c8f7fb6290bd3e2d848e0cdebd41666969950a9324e1f3104155c5",
+      "body_sha256": "a2e4666f6e8772917482c709bbb1389cef57aaa08e1fd59671c8a6e1563db5e8",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10072",
+      "path": "content/stories/quests/world_quests/quest_wq_10072.md",
+      "title_ru": "Варуна-гата",
+      "family": "Aranyaka",
+      "order": 50,
+      "before_sha256": "28975a3bce52961dfbfc2f88c2be3b37cad0cfafd56c83128c5a9ef278b3043a",
+      "after_sha256": "7b81b60db2688c9e880696fdf7ef8c80099f221b500bf52e87b872b3d2230559",
+      "body_sha256": "c80a4b475fa18bdb62a2ee43ea01be65f3c3c08c733e464d729a75c7e45d2b3e",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10083",
+      "path": "content/stories/quests/world_quests/quest_wq_10083.md",
+      "title_ru": "Агнихотра-сутра",
+      "family": "Aranyaka",
+      "order": 60,
+      "before_sha256": "8c4fe33ac1b2eb233e3ff675918127e9e310f5db894579e88a56476fa3434d3a",
+      "after_sha256": "da52f5c66ef7da3ef31739d42112ad9ff2a92405d9e90c05ee375ef8ee1f8d63",
+      "body_sha256": "139fbf87e830c4f336a6a4b3c1b629029bf5e73521043d92780597f6bbdcc41e",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10069",
+      "path": "content/stories/quests/world_quests/quest_wq_10069.md",
+      "title_ru": "Кулинарная мечта",
+      "family": "Aranyaka",
+      "order": 70,
+      "before_sha256": "446b1a4baf71c35ec34489b10f6de50705a353d8873de7b3f63caba2f999b3a2",
+      "after_sha256": "1cb8ee51f8b447e3c85928f7c802d0246efc9668a99af7444a4248550e571ee4",
+      "body_sha256": "b0cc7f8f564765ea9fc1369fa2e8ed1f4ca634900f7b4288db026a1f679d69ec",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_73248",
+      "path": "content/stories/quests/world_quests/quest_wq_73248.md",
+      "title_ru": "Выступление в лесу",
+      "family": "Aranyaka",
+      "order": 80,
+      "before_sha256": "cd060c3b1420095fb2c37e9df23066d36ff0c9f89851e632abd05b9891f23066",
+      "after_sha256": "587fad5d3bdd1c5d958356fa753bad336661b6a254b868551151cd0d640d24df",
+      "body_sha256": "5cbcc2ba88568ab8fcb8f8e9229de50f23e5f40344b175a3c1de1ffb4a345b8c",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10079",
+      "path": "content/stories/quests/world_quests/quest_wq_10079.md",
+      "title_ru": "Питомник утраченных грёз",
+      "family": "Aranyaka",
+      "order": 90,
+      "before_sha256": "60b8835f4190ac679797e7fabf6d3cc44706df0dea5612b4d02393b34626c95e",
+      "after_sha256": "04750d02a55d73a9bcf9284b6e151e26799ab5dbe977cab2b720978413f92299",
+      "body_sha256": "fc8a76e1d72040b962dd8144e0b098ad5a49af00b9e6412f065e59a5fc4cbc61",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10082",
+      "path": "content/stories/quests/world_quests/quest_wq_10082.md",
+      "title_ru": "В конце концов, лес помнит всё",
+      "family": "Aranyaka",
+      "order": 100,
+      "before_sha256": "c928620d5c9acc9be45e176107e2d5d174ba53d0c4791541eebd83d127040e67",
+      "after_sha256": "5e2b86a6f7d6106f4c115aa7481d9a03e8927e202745f666b1d5212e09019725",
+      "body_sha256": "5b9bacca1b652ee64231c2033f14ec47a4347ddfddd2462c4be23ccd5664bf6b",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_73056",
+      "path": "content/stories/quests/world_quests/quest_wq_73056.md",
+      "title_ru": "Воспоминания Аранаги",
+      "family": "Aranyaka",
+      "order": 110,
+      "before_sha256": "9af87d42d6786878d3cd60deb8e7638c0c8fa29f0f30bc25fba40c7c02af4336",
+      "after_sha256": "104ae1c16c567a84d12877ce32c05f112e19a873ee8beb0583ab7ae288f93ef1",
+      "body_sha256": "4b69a273130c77b36e4fffe27c30a781b8a25b2e408e3919c2e973bdaa56ede0",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_73057",
+      "path": "content/stories/quests/world_quests/quest_wq_73057.md",
+      "title_ru": "Старый друг Аранакина",
+      "family": "Aranyaka",
+      "order": 120,
+      "before_sha256": "d4efe1bd0f8be195702a89229280770361d7c664f8307f5c1bdecf13ebdde48b",
+      "after_sha256": "9e8ffcfc7510ede38d542198a78b62de9214e668fc52dcb0467be453d9c88912",
+      "body_sha256": "1dfc87d7a2bf0301843c602fc31ab031ce5fc572954dd71e029616c9d8e1ef58",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_73058",
+      "path": "content/stories/quests/world_quests/quest_wq_73058.md",
+      "title_ru": "Запись Арагару",
+      "family": "Aranyaka",
+      "order": 130,
+      "before_sha256": "cfb3df98d5136f882eaf2fc89dac0de346d40d3fdaddb616f9991edf39d49e69",
+      "after_sha256": "343f498cd1434643dae48d772e90353794eb2a0ed61d7399d5b936ca62399f50",
+      "body_sha256": "e7798b6cf6093aa34f9d8bfb190a167556c905f6035063989502974759f9c067",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_70099",
+      "path": "content/stories/quests/world_quests/quest_wq_70099.md",
+      "title_ru": "Ветер стих",
+      "family": "A Long Day in the Mountains",
+      "order": 10,
+      "before_sha256": "40ace94b601e86cab72096456b24626cb1431be75acfc08ee1068125d97b744f",
+      "after_sha256": "c01e9707b61e3b0d5f4ad59cd509d3dab39cd6748d34479dd836b3850ca6c83c",
+      "body_sha256": "86b420e559ecb60d492775d32c8215212c07ed24def8e8e944d16c005fdb0612",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10086",
+      "path": "content/stories/quests/world_quests/quest_wq_10086.md",
+      "title_ru": "Волшебная гора",
+      "family": "A Long Day in the Mountains",
+      "order": 20,
+      "before_sha256": "4707668b5e6b94f3e655b8c5e8328df6b030fbb16e3056bf0c74583051497adc",
+      "after_sha256": "23892a8d473b4c5183fcd2d0804bd2987d07f2d3446299a3d6a2f1040152f0a6",
+      "body_sha256": "e6aeb3e54796e8ec470f8205dc211984305f71b07c4569db0d91336fdf76ecde",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10094",
+      "path": "content/stories/quests/world_quests/quest_wq_10094.md",
+      "title_ru": "Рай",
+      "family": "A Long Day in the Mountains",
+      "order": 30,
+      "before_sha256": "3a568199488ad787b26d4b5f0dbccd5e12f55b22f1f339b705001b625973ab7d",
+      "after_sha256": "76d031a8fe7a48d2f92b450fe55ed501533758cb88d75ee230de1802fae9242c",
+      "body_sha256": "5436c699de2e5f7bee177e42c3f187d232cfcfb982bf354dbd4ad8f95c623360",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10095",
+      "path": "content/stories/quests/world_quests/quest_wq_10095.md",
+      "title_ru": "Ад",
+      "family": "A Long Day in the Mountains",
+      "order": 40,
+      "before_sha256": "3519a6baae1b597ed797e06272995e40bd7a8804f5b7f0b0537b4e3528e52410",
+      "after_sha256": "f933a91ec193acfce7344e3533d1c4bb35ba99f9faabee5746869e25ffd28ae3",
+      "body_sha256": "4f1b1ad028d8c361e7b23933d93c4b6c5a80fab069009a8fcbbbee3767bfffa6",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10132",
+      "path": "content/stories/quests/world_quests/quest_wq_10132.md",
+      "title_ru": "Суд",
+      "family": "A Long Day in the Mountains",
+      "order": 50,
+      "before_sha256": "dc96813fe18712dab8e5e026c38758c2298e619b7835bc01c3daaabf4c44ebfe",
+      "after_sha256": "b7ce1191de9dffbfa8d440e42b95dfb3e02f3cf8765e89adb3ccfd7afa92aaa7",
+      "body_sha256": "fac09c71e0ec2dfb5908408872f625da9f253266dc71c5e3d0bc86e15c706b0b",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10183",
+      "path": "content/stories/quests/world_quests/quest_wq_10183.md",
+      "title_ru": "Сон о Петрикоре",
+      "family": "Canticles of Harmony",
+      "order": 10,
+      "before_sha256": "f20a671aa8487647cbe3c451b51163ae05d7fcbde4633ccea84d21c6931ef1fd",
+      "after_sha256": "bc11b11944b01f14a28788dd89ef77771d5c66c940296df9e667572d27d438cd",
+      "body_sha256": "dff3a85146e3337f1becc59b5f657afc9c2986fa153311144a5a98a2c1179757",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10184",
+      "path": "content/stories/quests/world_quests/quest_wq_10184.md",
+      "title_ru": "Дворец морского повелителя",
+      "family": "Canticles of Harmony",
+      "order": 20,
+      "before_sha256": "0ed7332c32038e911fe883903100f69ffcce9e5fdc2644a27a5760ded95fec74",
+      "after_sha256": "593de174750214437af7e8f2d33e5649794758e0c63d49941cce082d4c026763",
+      "body_sha256": "aedb01a373aa258e449e1fe5ac2008b30a6d75db352fe012b6871432e38cbecd",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10182",
+      "path": "content/stories/quests/world_quests/quest_wq_10182.md",
+      "title_ru": "В кандалах",
+      "family": "Canticles of Harmony",
+      "order": 30,
+      "before_sha256": "a4c5a65e9dd98023b01feb2a1b6288862ed1be9ee3c845eafbca40d401d4dc1f",
+      "after_sha256": "f8af83330c3f54a9ac435d0a6cc700a7a1baa337eae7abd43ac6518e4f455597",
+      "body_sha256": "3ba94eadfe7bb84bc64c870d181626e51253b807ffc1b97b5d485203f12a08af",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10181",
+      "path": "content/stories/quests/world_quests/quest_wq_10181.md",
+      "title_ru": "Рапсодия Фарсалии",
+      "family": "Canticles of Harmony",
+      "order": 40,
+      "before_sha256": "6b16383822bb1e881317515ebd12085a9187e68f0f1566ea87f035b98b2a35be",
+      "after_sha256": "888e84e17bb4f5a6dd3b859b646e8343242e81cd4dfd9260135761512544e617",
+      "body_sha256": "10e5bf4e3a058d9a3d46c69f2c15cf50538f015c24dff04eda94e82c08b8c1fe",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10185",
+      "path": "content/stories/quests/world_quests/quest_wq_10185.md",
+      "title_ru": "Реквием",
+      "family": "Canticles of Harmony",
+      "order": 50,
+      "before_sha256": "d976e92d38c9e1522c44b94a09b3bfe068defe480ca4c4681ff79dd1eb21297d",
+      "after_sha256": "70f65d89d32ae9ce144359d29379d4398d6dde9e0b248927062dd0abc361a087",
+      "body_sha256": "1b6aafc1a1e51f068cd3845aaf867b9474d0239656e706ff81f183b630df3898",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10213",
+      "path": "content/stories/quests/world_quests/quest_wq_10213.md",
+      "title_ru": "Засыпанный пеплом город",
+      "family": "Lost Traveler in the Ashen Realm",
+      "order": 10,
+      "before_sha256": "6c339829b389bf83104e36ca2437bac72867d2f7ee857c0148f2141f40726ca0",
+      "after_sha256": "14b28cd5820509bd7c85e6ba8823a7e0a403b96f6ad5f320d359d67c72870409",
+      "body_sha256": "bb7b4f256b83817a0b4c162d56dd76e1d4cc276dbd07fa5b3a4da17f3db1fda2",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10215",
+      "path": "content/stories/quests/world_quests/quest_wq_10215.md",
+      "title_ru": "Сон о далёком небе",
+      "family": "Lost Traveler in the Ashen Realm",
+      "order": 20,
+      "before_sha256": "888c9bafbc9c292d6a348a0dc48835f1a9c93daeae350f6bf764b6f3470f8c72",
+      "after_sha256": "93a1c4831c4a6bce145366c3850ca68667cbf5db60ab98916ce55a43528641dd",
+      "body_sha256": "703d3407a5c7b369347243d500a2ebbe68ffdd7514b4788f557d16a13ae39b59",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10216",
+      "path": "content/stories/quests/world_quests/quest_wq_10216.md",
+      "title_ru": "Дрожь «Тонатиу»",
+      "family": "Lost Traveler in the Ashen Realm",
+      "order": 30,
+      "before_sha256": "ee12ac8f8952b5f4a04ea767af1ee6881e26f9bd3b96788e5584718edee0b093",
+      "after_sha256": "09a2072e2b56e58ee0d164ed654131218ecb6ca39af34c9a19168e805db72978",
+      "body_sha256": "aeb5a8c07e3fb3397616018afc4aae8ae1d7b73be6de90b896eff43b5eccb59b",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10217",
+      "path": "content/stories/quests/world_quests/quest_wq_10217.md",
+      "title_ru": "Обещание Избранника",
+      "family": "Lost Traveler in the Ashen Realm",
+      "order": 40,
+      "before_sha256": "fcda2d82659fc24d0321002dc8e3a8d67952b182b492a66453950866cde328d7",
+      "after_sha256": "617ce052162e578f6b75c46300e984c0d52c8f0bd836196a6f9b3773fe4dcd60",
+      "body_sha256": "a1f9da32d574bb938f53e6d00ae4582616104ca424d33da02bbdcc8a1f332668",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10152",
+      "path": "content/stories/quests/world_quests/quest_wq_10152.md",
+      "title_ru": "Поиск в Море водорослей",
+      "family": "In the Wake of Narcissus",
+      "order": 10,
+      "before_sha256": "631c675edd86f86ca189c2301f4ac48748bcc167e03a3e103aef2e9701c70813",
+      "after_sha256": "9164ce898841ac376150e9b64c6b70616d1c2392b75503173f101d05f2bf4c05",
+      "body_sha256": "c46c889e7f811cc021c08ee1fd74e09bbc5d0140405ce08c8a4549e31ee49a96",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10153",
+      "path": "content/stories/quests/world_quests/quest_wq_10153.md",
+      "title_ru": "Покой спасителя",
+      "family": "In the Wake of Narcissus",
+      "order": 20,
+      "before_sha256": "3a93fdc1c40e5a70d6c0f0fca129847f4b2942a4411cc4d908b6bbad93e3bde3",
+      "after_sha256": "516c82de3f70bd08e30558fbd8f917ad424cb5841f32e85fd44514b7514607f6",
+      "body_sha256": "37bda2bafc0e1844e8e2db4e7a325737ea32733b1577030b281e6cc1dd294db0",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10154",
+      "path": "content/stories/quests/world_quests/quest_wq_10154.md",
+      "title_ru": "Пробуждение от великого сна",
+      "family": "In the Wake of Narcissus",
+      "order": 30,
+      "before_sha256": "a111cacf6becc31c51d119643523e9a8b3a2e9d63691199d79b8ac68143e386f",
+      "after_sha256": "2ae6473ba0fb3dcc123d81992d69b3967d90d854d8ceea3a0abbe79ffe08f9e4",
+      "body_sha256": "ffdb469f591952eae23a82228b570efc9f4b586f99734bf08ef7e177765cfd28",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10155",
+      "path": "content/stories/quests/world_quests/quest_wq_10155.md",
+      "title_ru": "След за кормой",
+      "family": "In the Wake of Narcissus",
+      "order": 40,
+      "before_sha256": "a5fcdf403d56ab5f8f6bfa061b92512b0305ac89deafdb2f7883441820ef5b1f",
+      "after_sha256": "03961cc975b8c1ede58e56a207f356a58613c5265fe358365b52d41ea7bfcce4",
+      "body_sha256": "0ce5bc7eb3be2e9e18126935e5854fdca63ff0e16a440855d72ea007e6a624cb",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10197",
+      "path": "content/stories/quests/world_quests/quest_wq_10197.md",
+      "title_ru": "Первопроходцы",
+      "family": "Moon Gazing",
+      "order": 10,
+      "before_sha256": "bc4ce92c81b237c403c966931dccad0d2f834a549ae04f05705e9511786325cb",
+      "after_sha256": "b0964c69524ec6a7f5c4fa68acd17a0a51b690329d906b52f3e4a18748f1f12a",
+      "body_sha256": "b3fae9c274eee67bd02204754771871a432424bb74a7686cd943d715f5572c04",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10199",
+      "path": "content/stories/quests/world_quests/quest_wq_10199.md",
+      "title_ru": "Гости со звёзд",
+      "family": "Moon Gazing",
+      "order": 20,
+      "before_sha256": "d62cdfa10d9d78bc45833206ef92b68d386f67c9b0b965f7eba13f86e8bc96eb",
+      "after_sha256": "6f1ac94b525ffc94b4861fbe7ce83dc088ddc628d81f602239abc9314c8b72d7",
+      "body_sha256": "539e9458f607c42e4235066816c50fbb3dbc9db964e3c98d536f770ffec1227f",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10228",
+      "path": "content/stories/quests/world_quests/quest_wq_10228.md",
+      "title_ru": "Проект «Созерцатель луны»",
+      "family": "Moon Gazing",
+      "order": 30,
+      "before_sha256": "f0ed81b6941ec5c9156fa7ebdbe222e69c85328bf57f1bf469d9f91616b93852",
+      "after_sha256": "81f59592e92d929e438a9d0d12431a018449b87ae71440de8e98dc88274b9012",
+      "body_sha256": "85b9d09ddaf41eadda8fb22def311bc2a3d40e2c09590badbfb673ebf814b287",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_71036",
+      "path": "content/stories/quests/world_quests/quest_wq_71036.md",
+      "title_ru": "Отблески храбрости",
+      "family": "Valor's Afterglow",
+      "order": 10,
+      "before_sha256": "d050602942dd3c33645baff7658bcceea5b319ee36e7ffa9ce4879767e39ab4d",
+      "after_sha256": "c3b527ba55be9611d97a4da7babeab89dddce469ec2a940cf9246585f3920d27",
+      "body_sha256": "afd78bc85fb7cd7649dbfa7e4e358a059a8c035fa552f0621ae98e0f6cc33318",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_71038",
+      "path": "content/stories/quests/world_quests/quest_wq_71038.md",
+      "title_ru": "Отблески храбрости: Возвращение к закату",
+      "family": "Valor's Afterglow",
+      "order": 20,
+      "before_sha256": "2afeb764edeebed78e104a27c0f48510e5bbbf0e37912bb0f6dc1b4e90a44439",
+      "after_sha256": "03d163cbd17410108347da414bb4f4a908c41ce6aafb3f5a0ec5618e7493c490",
+      "body_sha256": "82d633ad5a4acb1d29837821875cf410dc7017ceece64853cdcefc5d029d1a9b",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_71039",
+      "path": "content/stories/quests/world_quests/quest_wq_71039.md",
+      "title_ru": "Отблески храбрости: Воспоминания о свете",
+      "family": "Valor's Afterglow",
+      "order": 30,
+      "before_sha256": "156a22739900b422eb3ef37383ba461490648ad869f5397142d8812daa981d7d",
+      "after_sha256": "d23045e09015d7ad27dea78f9abc1bea3f58dadbe3b8e69fb106d26b25c19f63",
+      "body_sha256": "ce076a55a6e3edb609a75b1983306b73e8ae352d0073fed45e8fca58d27c8e61",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10177",
+      "path": "content/stories/quests/world_quests/quest_wq_10177.md",
+      "title_ru": "Предзнаменование Ночного дозора",
+      "family": "Nightingale's Song",
+      "order": 10,
+      "before_sha256": "aae02ce1421bd0dd9590d5e657246500b4bc501a8c8ca49fcafe9bd93b736c6c",
+      "after_sha256": "81fc4be5fdce62181993a7864c29a4a81729375030cbffddc8ea25cf01536d83",
+      "body_sha256": "a2a7f3386ae10edd508717a988143a2121f8cdda3b177895418b91be8107c454",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10178",
+      "path": "content/stories/quests/world_quests/quest_wq_10178.md",
+      "title_ru": "Поэма Доруда",
+      "family": "Nightingale's Song",
+      "order": 20,
+      "before_sha256": "1737277c34525e778f366a28df624f624f16a00b058271ddf44b4a3f95de2bfd",
+      "after_sha256": "596e36f9017eb5873940c02ef6fb21e76e1ee75c1cb9728dbf36f5a3c3fa5994",
+      "body_sha256": "9ab8e13019f3a9b2e9e94f6474495a511ee96cab9f0a551e871d44c4667788fe",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10179",
+      "path": "content/stories/quests/world_quests/quest_wq_10179.md",
+      "title_ru": "Звезда иного времени",
+      "family": "Nightingale's Song",
+      "order": 30,
+      "before_sha256": "875312a0b636a77df1e777d6f3a15bbbf4d9c8eeaf8057845ea3475e2375a7ba",
+      "after_sha256": "bf89d45c45d340920f64db4231c6290626cf2f69c7314496ba88bd4671c4d1d3",
+      "body_sha256": "66a89260698008491541cd53e8a866f15510aca3a497be8e8dddce04f8e1b0fe",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10146",
+      "path": "content/stories/quests/world_quests/quest_wq_10146.md",
+      "title_ru": "Великое приключение в Нарциссенкрейце",
+      "family": "Ann of the Narzissenkreuz",
+      "order": 10,
+      "before_sha256": "fabc4a568adfbd751d57485407a2487eb09c283ee9b378c4f193359e97d5e558",
+      "after_sha256": "deb64366ce8d19497521f0bba859d9c36e3291a1e7b2b2b6be3ade6869234021",
+      "body_sha256": "976ed5fe107ecb8296eea05c17847c5f949368aaefe0cff68dbac3b4c8803953",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10148",
+      "path": "content/stories/quests/world_quests/quest_wq_10148.md",
+      "title_ru": "Королевство в зеркале",
+      "family": "Ann of the Narzissenkreuz",
+      "order": 20,
+      "before_sha256": "c63f78809afaefa0b4e1a7a835039c505e5817941ac3c1e3ab9fbb8fa7a53d0a",
+      "after_sha256": "6d7c6fe82ad02ac2957c0b52c93d5ac39140e93c15b25ff19c6a75a8c3416b46",
+      "body_sha256": "34fd2c36569d41ad6e3a0ab2b707180b2bdbaca83dd1369a8f20b896b517a535",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10149",
+      "path": "content/stories/quests/world_quests/quest_wq_10149.md",
+      "title_ru": "«Если она больше не мечтает о тебе...»",
+      "family": "Ann of the Narzissenkreuz",
+      "order": 30,
+      "before_sha256": "4c9d331f6a236c02e539e56973367e302ca64f76de71ffb8c4c880867cbd1c67",
+      "after_sha256": "e7b1e34d9f9ff03968f5fd7af59233cda75f01de2908fb1bb6f5c050cc889e4a",
+      "body_sha256": "23a047f8ad6c49984db79f1142f0428b5230ff12327aa03dbbdc68c099d12dbe",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10200",
+      "path": "content/stories/quests/world_quests/quest_wq_10200.md",
+      "title_ru": "Опрос мелюзины и ответ машины I",
+      "family": "Questioning Melusine and Answering Machine",
+      "order": 10,
+      "before_sha256": "ad7b2230db2d5517900e54ef972c835ac99c481e4fb1aefd859064c734aec448",
+      "after_sha256": "51fead988b2ba0d94aa834b3558cc6b1f2384b904b2e60863e76c613037c9680",
+      "body_sha256": "9a2b49189f493a49c7731b7beece985427d2e7ea6d1cc5008e06222608350674",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10201",
+      "path": "content/stories/quests/world_quests/quest_wq_10201.md",
+      "title_ru": "Опрос мелюзины и ответ машины II",
+      "family": "Questioning Melusine and Answering Machine",
+      "order": 20,
+      "before_sha256": "336145dffd5bbd6570316ca19e6602264ebbe88ae4a31a96f2235594e91d5713",
+      "after_sha256": "d09a4803632638eb8e271eb32b22147c8999b47dca706e21e1ee9ea4af1949d6",
+      "body_sha256": "b760d218fb3c42c22574b27d5c1ae49c276c97605ed400c82d06739260b25f5f",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10202",
+      "path": "content/stories/quests/world_quests/quest_wq_10202.md",
+      "title_ru": "Опрос мелюзины и ответ машины III",
+      "family": "Questioning Melusine and Answering Machine",
+      "order": 30,
+      "before_sha256": "7decd7f74893553c91117a913779e92e3098c699947c0016a20004c1e0c771e0",
+      "after_sha256": "62d7618276163a59701a88ac0e61f6477b481ab831b5148162233c62efccd485",
+      "body_sha256": "54e0f90c5f33fd23020bf77c1b039e6904034533dd5e33f15fbc79f369db9fc9",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10142",
+      "path": "content/stories/quests/world_quests/quest_wq_10142.md",
+      "title_ru": "Кисть морской пены и кармина",
+      "family": "Ancient Colors",
+      "order": 10,
+      "before_sha256": "c91e7f15fa612f702c05dc19bb625bc56f4d75ff1218d1bae45ba04ea1508a12",
+      "after_sha256": "742847386cadd5b6257c7b7504883e14ea0e634985b6857a4c4c5088990f0e47",
+      "body_sha256": "52d373bd6039c1a075d4e1f857a96d6648d55ebec6373ed385fac56fdde1339c",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10150",
+      "path": "content/stories/quests/world_quests/quest_wq_10150.md",
+      "title_ru": "Градиент из снов и охры",
+      "family": "Ancient Colors",
+      "order": 20,
+      "before_sha256": "9a58a551cc03a860f55c0077b1cdd2dd74697e9f3929d717c00115dd2b906e0c",
+      "after_sha256": "afeb4f59c14c58e6743c5e69a0d0a7c6e066be66d8e68641780d53a04be70575",
+      "body_sha256": "4b55defffc17ffd215c55b5631e1d16496ec4dce372cd1d23b41a3e8f34bd197",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10151",
+      "path": "content/stories/quests/world_quests/quest_wq_10151.md",
+      "title_ru": "Синяя тоска сердца и луны",
+      "family": "Ancient Colors",
+      "order": 30,
+      "before_sha256": "bde1d354660d979a2e675d59efba0a9fda2a60c5c2bb76e5610006e43064d759",
+      "after_sha256": "203eeda7a71b69cecf3560c17bd5fe3784e0a803ea59718d6eabd8bc0a9a8d8e",
+      "body_sha256": "b6a7931e1bab809860f77c95f8e35c5b6560726228325aa05afbbae33c350046",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_74141",
+      "path": "content/stories/quests/world_quests/quest_wq_74141.md",
+      "title_ru": "Погоня",
+      "family": "Pursuit",
+      "order": 10,
+      "before_sha256": "8e924a299469636c12158900b9a6769c43cc60b6f79566036759fcba67b5a6a3",
+      "after_sha256": "520eb04a515577a3136ef3bc79f98ba5f14f2090c7f280a46769c9f3de929577",
+      "body_sha256": "7e53fe010033412dcb50f0bf8d5ab41833d621f9fdfe51ae67354907f627c5d6",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_74142",
+      "path": "content/stories/quests/world_quests/quest_wq_74142.md",
+      "title_ru": "Погоня",
+      "family": "Pursuit",
+      "order": 20,
+      "before_sha256": "460b7ddb1e13d87d34bc530521ad89f26654bffb87eed5d95b634b738af8c6a0",
+      "after_sha256": "ab0af35943583a7b189f4f6dd27dc52f4a2d5a8de7f8794a582a0ed64907fdf8",
+      "body_sha256": "e2a5894409791e4e870eb6a55386f5e2e6934176a0d37aad2243d4f51be352d3",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_71058",
+      "path": "content/stories/quests/world_quests/quest_wq_71058.md",
+      "title_ru": "Пропавшая на чужбине",
+      "family": "Lost in a Foreign Land",
+      "order": 10,
+      "before_sha256": "00d07ea006d39122f713ffe1273d6e9d9da7ae2f23954f2c14193f87f05127aa",
+      "after_sha256": "8bd9981b52452c4b5718f770371203544f8a3122168ca54e524980868e9a7aae",
+      "body_sha256": "e9e774859581b70f1115e75404db7dd2203ea1416424a932b8721f378fd549a3",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_71059",
+      "path": "content/stories/quests/world_quests/quest_wq_71059.md",
+      "title_ru": "Пропавшая на чужбине: По следам",
+      "family": "Lost in a Foreign Land",
+      "order": 20,
+      "before_sha256": "0bda400428bf2b7303a5864c4106325dc57e43f284b2279e1b2f1c75590a9d16",
+      "after_sha256": "66658c5538563763635cd2db20d5342308bde8bbd14dea4e4590454d1800f663",
+      "body_sha256": "37a4fffadcc9919483983a7288367ec1a101e7d289b466e9bd8aa71150defbd5",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_eq_40053",
+      "path": "content/stories/quests/world_quests/quest_eq_40053.md",
+      "title_ru": "Странный случай в деревне Конда",
+      "family": "Sacred Sakura Cleansing Ritual",
+      "order": 10,
+      "before_sha256": "e7b1deed2ca5d780f8fc97bdfb10135c222b4927d031ae23bf85abd53c823135",
+      "after_sha256": "4fe41753abce76565a63a4cce20188297974b43dcf881d17719d6e7cd06bfd49",
+      "body_sha256": "bad0bbae9b4f94c71549cd7913db3cacad6080d5493ef3fdbee33d582d3f01e7",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10025",
+      "path": "content/stories/quests/world_quests/quest_wq_10025.md",
+      "title_ru": "Очищение Священной сакуры",
+      "family": "Sacred Sakura Cleansing Ritual",
+      "order": 20,
+      "before_sha256": "b3d0d5d20a2359a63608a7a4d0e0b2b92f9d5c565d903180650a2c53d2937321",
+      "after_sha256": "2c7174c20597eb6cc97c7b532b8de0d2778ae8ea8e95c3446c2ee0a582a1b077",
+      "body_sha256": "aab134c8e264982bfcdd7e0a3e6df13d73331ef233f410351e8ef51675ad4ca8",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77664",
+      "path": "content/stories/quests/world_quests/quest_wq_77664.md",
+      "title_ru": "Письмо из Заполярного дворца",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 10,
+      "before_sha256": "478780d93fce0450a09b0ee35053fc38b49ee3be195d5940aa17e9d52b6d45de",
+      "after_sha256": "d6bfe6f23a0d9d1b5a28ac2fb18c26c2eb5795bba04a8dc732d9a3e02406fb62",
+      "body_sha256": "852ce2bcd9106e2724eb63390275c4e5422e67114ae359a6b358080625c86463",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77665",
+      "path": "content/stories/quests/world_quests/quest_wq_77665.md",
+      "title_ru": "Новый портрет Царицы",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 20,
+      "before_sha256": "0fcd667ddc9b146bc0cdaf6d97ceb3505e8e95d29e977b766f2ffe1131c6791b",
+      "after_sha256": "db4f24d715ae00a4f4ec952a2eea3d94628d59f6bf422e6d9e9fb2d90c49fe79",
+      "body_sha256": "2efe0176794bf55b5750c742d2a6a757a5559ef7f412474d770493b3565b9af7",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77666",
+      "path": "content/stories/quests/world_quests/quest_wq_77666.md",
+      "title_ru": "Собрание при дворе",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 30,
+      "before_sha256": "23f28a06d5dc51497867bce904f8e40773e86ca433043dc76cee520cb6b05d6f",
+      "after_sha256": "1cbc70cd8bb7e79b7486ff46f47eb0ef6a4254c6ebbd4206562f26d2b650525e",
+      "body_sha256": "be12b5af40b883c5cb7441f74fdbc057db1851f1a6e48dfad4e7fa074c3db887",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77667",
+      "path": "content/stories/quests/world_quests/quest_wq_77667.md",
+      "title_ru": "Подарок детям",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 40,
+      "before_sha256": "b19f95bc7b3c6047610ce1ac95c3d154362f9a1689c3587b086c64ae34f5594a",
+      "after_sha256": "71d252c42ba2f76116db7ee6e39cc1d0a074827fd535c4259de295703870e87d",
+      "body_sha256": "057dda1e05d84e4371db06400486bb8f3fbda3d7b0fc5034f19e6edf0685c8eb",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77668",
+      "path": "content/stories/quests/world_quests/quest_wq_77668.md",
+      "title_ru": "Зимняя ночь. Благовоспитанные дамы. Чаепитие.",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 50,
+      "before_sha256": "dfa47733aa2e1aba567808d8698633fbbf14ea0c5577eba236d3ea2d88ec187b",
+      "after_sha256": "cf3cf00edf8f06f9f1c1f51528b0456c965055ae9b1913deee3311c764b61b38",
+      "body_sha256": "00b2876d8933c60ae96a9644f1a67c77af08259624bb8cdb84669c00d7acb32e",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77669",
+      "path": "content/stories/quests/world_quests/quest_wq_77669.md",
+      "title_ru": "Шахматы Царицы I",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 60,
+      "before_sha256": "109d7285c62f96b596366cc97745031538be2eb6197969a17c289ae590a43fe8",
+      "after_sha256": "84f18510225e742354500df8e3a8f3bb2a48b6f072745e5a69b62540a74e98ec",
+      "body_sha256": "5bc4f16c52f16dcd8deb6ac228672c28c19ddacbb77c238bb569b6a053ac1b4d",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77681",
+      "path": "content/stories/quests/world_quests/quest_wq_77681.md",
+      "title_ru": "Картофель, горячий суп, снежные просторы...",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 70,
+      "before_sha256": "75a68c88e560bc55ff4d42661352e415cdf781262f5f448fc5d7afa500d50e5c",
+      "after_sha256": "a7135b92c37ff7cd766f1172f1ee7d9dafe992cd729d06c79bf1ba501671f06a",
+      "body_sha256": "8cd3ff674527233ef12b62987b7e23a12df5f6150a65b8b6d7549ac459c0422b",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77682",
+      "path": "content/stories/quests/world_quests/quest_wq_77682.md",
+      "title_ru": "Боевой строй против лютой зимы",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 80,
+      "before_sha256": "ae78bfb8f5011623a99202cd05e7ee68ff1e1899482ccc24d57f1fb838cd6645",
+      "after_sha256": "c68f144ec7bcfad72c0c175cce3551002c2b0748c7d9d0fce8619e39d94cca2c",
+      "body_sha256": "4869c1ba0b8048181a27f4359cc17bcce615165273fee4a3e0cff2584ce4729d",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77683",
+      "path": "content/stories/quests/world_quests/quest_wq_77683.md",
+      "title_ru": "Оружие и печати",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 90,
+      "before_sha256": "8a4244ff2c2727573fd42225fe3abd276e145f83b83f6d235468e420a955d0fd",
+      "after_sha256": "5c5f7ad14f5aa63eb0ad0526cd695abea67d000fb2499155275b6b21ae7578c7",
+      "body_sha256": "5b0324ba4bae008a4000f18d256b48ef9091687f25401e966a53396b4850349f",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77684",
+      "path": "content/stories/quests/world_quests/quest_wq_77684.md",
+      "title_ru": "Финансовый план",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 100,
+      "before_sha256": "a18a23b32cf7eaa2a6ef7944af1e7e33bd47959596e69fee6148b827e785c46c",
+      "after_sha256": "74352d18cb90510f60aec9d9b7ccb617ad8a6b5a8a2dd0f1ff46e331a1e1501a",
+      "body_sha256": "d8fa6be48d606fed2a30b17c5712176edcb4c15d06534fc39d3f7d2cbcac87f3",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77685",
+      "path": "content/stories/quests/world_quests/quest_wq_77685.md",
+      "title_ru": "Жизнь на платформе",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 110,
+      "before_sha256": "8447374c861b1372c457c93bea97e499576e83fb06012eb98148bdda67bcaef0",
+      "after_sha256": "d12bc160fbf47c77ecc02a982fdc4e6196f29949ee5f46744e60ab6ec88d753d",
+      "body_sha256": "4d99f043175b1ab9e0559461a390efb30f0a4cf75a9067ed9a95041df66ae64a",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77686",
+      "path": "content/stories/quests/world_quests/quest_wq_77686.md",
+      "title_ru": "Шахматная партия Царицы II",
+      "family": "Тайные приказы ледяного дворца",
+      "order": 120,
+      "before_sha256": "ebe0f71391ec19ec322bdccde6aad8cc28e677b53aad4725c6f1887eb039a236",
+      "after_sha256": "e45020e0af5967b5ab0716afc60791689ab06072249815ef21f40c95e2dcea42",
+      "body_sha256": "b33186372c5bd78c0303c5a6d9c90183c0606abff6d1e26f03af07a2e3dee255",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10277",
+      "path": "content/stories/quests/world_quests/quest_wq_10277.md",
+      "title_ru": "Город кристаллов в глубине Длинного ущелья",
+      "family": "Древняя баллада о кристаллическом потоке и каменных ларцах",
+      "order": 10,
+      "before_sha256": "bced4fdb74ba689006130686fd7b7209e37ffa67af4dbf3a8183b63dcfa537a3",
+      "after_sha256": "5c03cf8dc5aaa1a8bf1d32e993ec53c939152682a081bf06e5f17f43596aadb8",
+      "body_sha256": "12bbb4f6d732f9e42f16caabf6cb241cb15605e064ece75d742324164adfb57e",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10278",
+      "path": "content/stories/quests/world_quests/quest_wq_10278.md",
+      "title_ru": "Сперва заставь землю разверзнуть свою пасть",
+      "family": "Древняя баллада о кристаллическом потоке и каменных ларцах",
+      "order": 20,
+      "before_sha256": "bbcc7c4d782f2d31aa6fe036668c7ebb278cb282034d80387f7dc49faa439dd1",
+      "after_sha256": "4c3a8e11945dfed9d5d910bac03e16ad66900bcd9b8a80b087b60fc7865c39f6",
+      "body_sha256": "4d5d9c2dd3e6bcdaf16885662ce94e2d18882db8ee151559c530e4822bb96196",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10279",
+      "path": "content/stories/quests/world_quests/quest_wq_10279.md",
+      "title_ru": "Старая улица, где эхом звучит печаль",
+      "family": "Древняя баллада о кристаллическом потоке и каменных ларцах",
+      "order": 30,
+      "before_sha256": "1dda69f096977846f5c198626ae3d698d665ff74059f62502cd75822f0d06591",
+      "after_sha256": "568499a4db383bda7050749cd6d1b50f7c14b4f3b7121bdf94ead6ef7a679b9b",
+      "body_sha256": "d9762100f9dff381ea79815b663b56d23934e8809e24f33bf04327aeb9be949b",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10280",
+      "path": "content/stories/quests/world_quests/quest_wq_10280.md",
+      "title_ru": "Зеркальное отражение, обращённое к врагам",
+      "family": "Древняя баллада о кристаллическом потоке и каменных ларцах",
+      "order": 40,
+      "before_sha256": "806667c6a52f7b627e18702deefde1fd5c26f283c08f3e320e9e195c8e5dc1af",
+      "after_sha256": "b0ab565e0c731be2e072f792b71b9b76fafeaa73b2be7d25e7835d110834fd24",
+      "body_sha256": "d6fb2c5d17af4ec820362b725569f930219a3e6d3a4c1c1548747f092e13dbf6",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10187",
+      "path": "content/stories/quests/world_quests/quest_wq_10187.md",
+      "title_ru": "Геспериды любви и ненависти",
+      "family": "Её дворец рушится в метель",
+      "order": 10,
+      "before_sha256": "db65e46e1debc0c159dcf6cef75e771d3bfb6a02cf7f7625c0c58995d2bd5ff3",
+      "after_sha256": "41b436de865cf7a540c4b49ee2bd11fd5b11e3bbd35b97a2ca19936525263778",
+      "body_sha256": "279d4933c5f5a0a4fb2f2ed5b3fbe06b6a203badffa30820f40ad47b7d5fe9ba",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10255",
+      "path": "content/stories/quests/world_quests/quest_wq_10255.md",
+      "title_ru": "В обители жизни",
+      "family": "Её дворец рушится в метель",
+      "order": 20,
+      "before_sha256": "8d74b44adeed3d7ae33d55e411346a846066f2a7d6f10ffe8e80a16c75422d99",
+      "after_sha256": "3a0f663cf439f6d30f0b7e4e5380cdfcf8c936de303fd70db8321a26d05b5276",
+      "body_sha256": "a616ba290a01bf5b42eb474fc4c1a91d44608af1ebadd01e854758c2eabd30a9",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10282",
+      "path": "content/stories/quests/world_quests/quest_wq_10282.md",
+      "title_ru": "Дворец иль царская гробница",
+      "family": "Её дворец рушится в метель",
+      "order": 30,
+      "before_sha256": "a1c876679ecb7ee862e22c8ec1a35bd3ffab446cf4c7526699504b283cf3f2e9",
+      "after_sha256": "735b96c3ea540d79db5640e7689cd5b44dcf9b6e179bed7d57639a767e25d483",
+      "body_sha256": "b3e85393a075d96a23a661a224098d9636e83bc85738c85c8f6cbba0c7939cd0",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_10188",
+      "path": "content/stories/quests/world_quests/quest_wq_10188.md",
+      "title_ru": "Её дворец рушится в метель",
+      "family": "Её дворец рушится в метель",
+      "order": 40,
+      "before_sha256": "1940f15cbcc7760126f6d7dcca4f1ba4cd57526ae76cfa316bb7c4b1a36b0a25",
+      "after_sha256": "e1657c2ac686c198c7b7215149ff1459398ebd168d2d36f7a78bce3ecd8b4ec6",
+      "body_sha256": "e9380504d14a2d01165a2b357c754e647fa2770a089814ea1521df62a05d76db",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77129",
+      "path": "content/stories/quests/world_quests/quest_wq_77129.md",
+      "title_ru": "Великое сердце, скованное тонкой цепью",
+      "family": "ice_giant_story",
+      "order": 10,
+      "before_sha256": "98855d2cc5ba334b23cea3be7de8f04d3d54f48360bcd2310394fa749ade630e",
+      "after_sha256": "7038f9b5f9f9063e0f03039a6771dbb96d0ea8d8633a0f205c4602253ee90a8f",
+      "body_sha256": "b7d15b3a64e341ff9f0635a447edc1ca84a1b9093f270eba28f0bbff8c5dec29",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77130",
+      "path": "content/stories/quests/world_quests/quest_wq_77130.md",
+      "title_ru": "Подобно лабиринту, заточившему её слуг",
+      "family": "ice_giant_story",
+      "order": 20,
+      "before_sha256": "649726b41b08c09fb93e1ff824760f61c59011945ad30f10dee899f249fb4c47",
+      "after_sha256": "7e42cb99e81418c528c77d4ccf1177cb73bcad6142f15ed9ed14035e1e0c386f",
+      "body_sha256": "116631c16e6a3378bce0cf26226738603709707f365b06126bef52c7f5b68028",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77132",
+      "path": "content/stories/quests/world_quests/quest_wq_77132.md",
+      "title_ru": "Нежные напевы",
+      "family": "ice_giant_story",
+      "order": 30,
+      "before_sha256": "9dddb1a7ffecd0a5032a643b0a38fbd5250aa76d2858b638bd613a3f88241189",
+      "after_sha256": "dfe385daa1c1f788bf97cbdf5b338a748a9ac44cd21031bc70c46983270fd5bd",
+      "body_sha256": "dcabba676a6e8da4a0d74ffdbcc2fc57d59971d48054ec05938a704744c395d5",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77209",
+      "path": "content/stories/quests/world_quests/quest_wq_77209.md",
+      "title_ru": "Вечно под водной гладью",
+      "family": "ice_house_story",
+      "order": 10,
+      "before_sha256": "681398b9f6c8f72e7dbf403b77425f1f36e23037abba4aca280460cc12c928c2",
+      "after_sha256": "14112b8b0d5eb5f87e3c4ec2cb893393af42be35026287a92d9c20ca6acd5ce9",
+      "body_sha256": "b97f5cd59b9dd6c8be2a40137806c636d151ecaf40f0d4df5098f668046874b1",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77210",
+      "path": "content/stories/quests/world_quests/quest_wq_77210.md",
+      "title_ru": "Затонувший корабль проплыл мимо, не прозвонив в колокол",
+      "family": "ice_house_story",
+      "order": 20,
+      "before_sha256": "5e18875b5ed0f4d6d82e4c6e824a29adeb210503e53341038c3af0a5773aedef",
+      "after_sha256": "612dfdc976482bb2e0644e4f80edab6795aa9864bde43d082b1fda1c7dcda1ea",
+      "body_sha256": "08de269b982fb582114990c6bba25312ef1359ab669c9d852a4339af3669c08e",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77211",
+      "path": "content/stories/quests/world_quests/quest_wq_77211.md",
+      "title_ru": "В круговороте тишины",
+      "family": "ice_house_story",
+      "order": 30,
+      "before_sha256": "3afe4e8f23765fcfc3df1d47e47b5345bc319e2998d524fd9845a16726f9a9be",
+      "after_sha256": "2f5b7649ea0601d33d7fe909c01ff7b3ee6d12c73bcf1865c27d6f3c706b05ad",
+      "body_sha256": "08ad69d747bb9268c931359def4fd494d47e44090071e803026778d4ded1f963",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77656",
+      "path": "content/stories/quests/world_quests/quest_wq_77656.md",
+      "title_ru": "Заря после снегопада",
+      "family": "rankova_zorya_story",
+      "order": 10,
+      "before_sha256": "1264dd9a59985af86718d48763f948caf2719e74ed2e8a53ebd4a6fcfa9d4b25",
+      "after_sha256": "9c8b2c0a8fe8725d86be66b6907151c2ed106f0ee71cf1d9eee163efc502d963",
+      "body_sha256": "94bedcce4c55585a4282dd043cb34d6b64acd6f1a1d8279ac94fa17f1990c880",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77670",
+      "path": "content/stories/quests/world_quests/quest_wq_77670.md",
+      "title_ru": "Снежные гости",
+      "family": "rankova_zorya_story",
+      "order": 20,
+      "before_sha256": "e2d1529872469bbbe34e34eec6eeebd97b88ddcbe34b19a32550d24a35461ad5",
+      "after_sha256": "4558d23dfbe53b3c02f9b2ef75336eb4c3a609eb51fbe56e9bb36dbaaf705426",
+      "body_sha256": "59b0f0c60ef2da972bb5c9284babe884777f0d0aa6a05729102fc842e21e5e0e",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77650",
+      "path": "content/stories/quests/world_quests/quest_wq_77650.md",
+      "title_ru": "Охотник на снежных просторах",
+      "family": "hunter_hideout_chronicles",
+      "order": 10,
+      "before_sha256": "ab9c1e49e5a301ef849fd17a8fe9940fe71d11a90df79468a0062881c8089e67",
+      "after_sha256": "72f322ee702208d37cd8553abba1f2d687b73796a213b660eb42b47acad02201",
+      "body_sha256": "2cd6ccd97e3839ff937b6598cefcd3996e93c9ab8f91401b89d4f5ff6fa19f1c",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77653",
+      "path": "content/stories/quests/world_quests/quest_wq_77653.md",
+      "title_ru": "Наследие Сферы теней",
+      "family": "hunter_hideout_chronicles",
+      "order": 20,
+      "before_sha256": "7b6ed6cb42cd223432ccad47c05397369542a6a89ffc2b74f95224c224b38f7f",
+      "after_sha256": "5cb3bc863701fd1ba27a3d92988397c3e7a75df62fb49af9aaf789d2c41fe4f5",
+      "body_sha256": "c58ed9432e3c2021d56ea3f2a7f18bbfc0afb39fee4f6a5275c125fa17facd73",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77654",
+      "path": "content/stories/quests/world_quests/quest_wq_77654.md",
+      "title_ru": "Наследие Сферы теней",
+      "family": "hunter_hideout_chronicles",
+      "order": 30,
+      "before_sha256": "5bd71cf093489b9eefb5c96fa6a4ef9a2f31fe87b4a21ad9ec6c3aa3d869f112",
+      "after_sha256": "8462c84f728088849588b274d1876e9790bea326f87402090e5efdd5d6b18d73",
+      "body_sha256": "4a4f920cb000918413fcd2a5b716608e7d94727281a9684b7643d434bc34003c",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77655",
+      "path": "content/stories/quests/world_quests/quest_wq_77655.md",
+      "title_ru": "Наследие Сферы теней",
+      "family": "hunter_hideout_chronicles",
+      "order": 40,
+      "before_sha256": "9075f9127ede94296aeef77807e7966dcfda27db796d60b7ca0c841699e669e1",
+      "after_sha256": "49a94a22c8d81411463ffa4762971d437ef2602eb89af5749a66fe0130b19747",
+      "body_sha256": "fdb3574f04eef9d980fd4d3e5458eb190def842a8bcd2e71781af4ce07682046",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77652",
+      "path": "content/stories/quests/world_quests/quest_wq_77652.md",
+      "title_ru": "Сообща любое дело спорится",
+      "family": "hunter_hideout_chronicles",
+      "order": 50,
+      "before_sha256": "d2bb03646d0df24a99ec6a08b926c9d5c97252a984b53646a032541bfe951592",
+      "after_sha256": "75b48f31cf1c56521b49be44a21934e3cfd5f059812555f91b6f6d2ec863aedb",
+      "body_sha256": "bbabc47cf0d07732da5e6e418c95f67b7ac25a4bd1735b0ba7976137ad84c131",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77651",
+      "path": "content/stories/quests/world_quests/quest_wq_77651.md",
+      "title_ru": "Луч утренней зари",
+      "family": "hunter_hideout_chronicles",
+      "order": 60,
+      "before_sha256": "e533534843325501bef8586aba913031137be2465f09f21074db34cc08c62dc4",
+      "after_sha256": "f9a37cc198da58cb17800720b329c5bbbcf11769d4cf36c1ce696d3e608a00be",
+      "body_sha256": "2798479fbf6ad91cddc061adfc804a5768ef45937d364f2cdc2480df18e90b52",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77137",
+      "path": "content/stories/quests/world_quests/quest_wq_77137.md",
+      "title_ru": "Край, где шепчет прилив",
+      "family": "tide_cave_chronicles",
+      "order": 10,
+      "before_sha256": "5fa2833472b837a290789532348ebf9f9de1fa163fe30442049efde7291a6de1",
+      "after_sha256": "d9a6d97f6982895510707a7acd11ecb7520086424eabce9cd07614fade8114bb",
+      "body_sha256": "2bb994fbfd4746b9fe91ec0b6a0e037fd93d25b33139a3693c9d93c9d19d4ddb",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77144",
+      "path": "content/stories/quests/world_quests/quest_wq_77144.md",
+      "title_ru": "В ожидании зари",
+      "family": "tide_cave_chronicles",
+      "order": 20,
+      "before_sha256": "d3de2f066f47893790e7f33f238fda7c1a0e7a60d97ba77b6d1f43ee2d51bd17",
+      "after_sha256": "21362c88af067efe7b6a222f57b6655b2e3c29c6810121dcbf664ce897c0ff90",
+      "body_sha256": "17eef7649bb6ade7019e9ce60e7ec7a9f2290703dc859a4ba56f6fa2cbb1cd3a",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_10284",
+      "path": "content/stories/quests/world_quests/quest_wq_10284.md",
+      "title_ru": "Вариации Белого и Чёрного",
+      "family": "royal_theatre_chronicles",
+      "order": 10,
+      "before_sha256": "aa626849ab0d0461daf4cf09028bc4580f0f90658a0febc0e82f792abb4d67eb",
+      "after_sha256": "cf58c707400798840c34d66e17b236a6651918d9660acdd028ac27ebe1c61025",
+      "body_sha256": "c37ba9c968e11c0a54a2a3976ece641ffe29ac817a20ed437ed84972a0a1a060",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_77204",
+      "path": "content/stories/quests/world_quests/quest_wq_77204.md",
+      "title_ru": "Над лёгким снегом",
+      "family": "royal_theatre_chronicles",
+      "order": 20,
+      "before_sha256": "d7313dfc42ec6f6c9608c280662291c707bab72412e64ce03b036c16cd67d203",
+      "after_sha256": "b9ef84346ef51c257287ec9dd5cd36daf8acf8e322a408f215d0fd8ba9088383",
+      "body_sha256": "ef0de79dd10fd07e9e2a8c1f592d352d555578c629b3654544204992491978b7",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_73356",
+      "path": "content/stories/quests/world_quests/quest_wq_73356.md",
+      "title_ru": "Встреча «кукол»",
+      "family": "sandrones_tea_meetings",
+      "order": 10,
+      "before_sha256": "9de6a9c6fd4348a1217e2df36b6297e4e1a4a6c3fec771ab5dab1b8074c44821",
+      "after_sha256": "d0c96653f0c225ec4e8a6bb0f6d3a793eef2933b8294f91501cbdbabdf6b633b",
+      "body_sha256": "3faf4968aaf4537faf50613b4540d7e5c409d865a5e847b669998606f0d8cd41",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74251",
+      "path": "content/stories/quests/world_quests/quest_wq_74251.md",
+      "title_ru": "Истории из прошлого",
+      "family": "sandrones_tea_meetings",
+      "order": 20,
+      "before_sha256": "9bdf3a11d62a90deb16445eb96959f5efb17517a1f5b513aee6a1a635853f4fd",
+      "after_sha256": "68da6814563c21d20cf147c4f62032096d4b190ef081c62b05a04a59eb02b264",
+      "body_sha256": "db352da57578edf08c7ab5deb35be94460f8e5b50e0402bd5ac151d731fbd417",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_76187",
+      "path": "content/stories/quests/world_quests/quest_wq_76187.md",
+      "title_ru": "Чай или пузырин?",
+      "family": "sandrones_tea_meetings",
+      "order": 30,
+      "before_sha256": "499e9d7c8316bd3a95c76763845979ace480579460868910a5b311bb8d122330",
+      "after_sha256": "4ff423dab59497be0921591388869418c84e830ea2eef33f797692aaaa9acd2a",
+      "body_sha256": "f47ca72fc5c31f1efb30211e88cf8a206b2eaf9d798717853bf0fe2d20261ec8",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74253",
+      "path": "content/stories/quests/world_quests/quest_wq_74253.md",
+      "title_ru": "Анн, Мари-Анн и малышка Мари-Анн",
+      "family": "sandrones_tea_meetings",
+      "order": 40,
+      "before_sha256": "5b2162f8959ecde4247352bd601b79a15a37d83ddf3ed5d7c5847a12a05c13e5",
+      "after_sha256": "7e8af6fac6b241cc41f917177c8da8de4e9eadce5c31b0060b3f9dd99f83c8b8",
+      "body_sha256": "c3929073d694f3a01e7fd0a3f91b381f2b7a48268b9802daeb1e51fe710c2ed4",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_74254",
+      "path": "content/stories/quests/world_quests/quest_wq_74254.md",
+      "title_ru": "Вальс Нарцисса",
+      "family": "sandrones_tea_meetings",
+      "order": 50,
+      "before_sha256": "779b7e7451281abac026c2cd43c346fb942b04c29838ec71a33f1a4053dc34c9",
+      "after_sha256": "05cfa338e5472125c2be798f64e5fcaf5ace7371f0bb66d7e4843bdc72e69730",
+      "body_sha256": "ff2f0f9ad50d76084bcaae69d7eeb626f9e69475dcc820b7c17c1b9c4e46a3ec",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order"
+      ]
+    },
+    {
+      "id": "quest_wq_71107",
+      "path": "content/stories/quests/world_quests/quest_wq_71107.md",
+      "title_ru": "Прогулка по Залу Ваншань, которую стоит запомнить",
+      "family": "wangshan_guhua_story",
+      "order": 10,
+      "before_sha256": "7431ce58c2fb4e9d2592883cda77117635da2996b7e990580c40189ee80e09f7",
+      "after_sha256": "d56f45beb3fcbc6edffa51d7a45e0618d94766e350cc89e7ddd188d7bd29af2e",
+      "body_sha256": "6938ddd86077fa8e6c2386ac77b145ed4cd6d24b13d803cf73b4b387a8d4c063",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_71108",
+      "path": "content/stories/quests/world_quests/quest_wq_71108.md",
+      "title_ru": "Древние свитки и искусство меча Гухуа",
+      "family": "wangshan_guhua_story",
+      "order": 20,
+      "before_sha256": "5660fcb7bebb90ce5f3bb993a73172e8b557350248d01f816d1305f69008325a",
+      "after_sha256": "c27b041d04e38a123be0ba6db798a8081040f1704ab6bc3bf17fd44af4ecc309",
+      "body_sha256": "21f83c72722eda0e23f8944b87eebfe6bc1d94bcc90c1be9d15c81dad4cc3aba",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_73279",
+      "path": "content/stories/quests/world_quests/quest_wq_73279.md",
+      "title_ru": "Сокол Тадлэ",
+      "family": "tadhla_story",
+      "order": 10,
+      "before_sha256": "913611e0a361d91177cfdc42f28abc0554ec7e12ce13cbe3b843a2d330e27123",
+      "after_sha256": "c0d6577e1f1b4eec691d87e371fe1eeed5f26e35c264e82ea5a9096099f7ab55",
+      "body_sha256": "cd36a029ad7a3c7e7e21fefcb03b080ac243252640b8571917286c7ff7f9ad68",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_73281",
+      "path": "content/stories/quests/world_quests/quest_wq_73281.md",
+      "title_ru": "Соколиная охота",
+      "family": "tadhla_story",
+      "order": 20,
+      "before_sha256": "e268e694c4f0d3a4f52ea0ef1d7f4150d3711a62a63819f040f48d3c4e84fd71",
+      "after_sha256": "2b81ba1d9ecdc538a64811392777f5217b5333488a70ad351af8f6565d880c33",
+      "body_sha256": "cea4ce4b1bdef24f5c2a00c98779430944debf116425573403e46f7c1f1fcac6",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_73282",
+      "path": "content/stories/quests/world_quests/quest_wq_73282.md",
+      "title_ru": "Сложивший крылья сокол",
+      "family": "tadhla_story",
+      "order": 30,
+      "before_sha256": "429a601638ad76f2df78b5dc992b10f0fe46cb3d4a77b53974c04a05bd9503b1",
+      "after_sha256": "dda571b8f752e7f013ceb87b31f3a9faaf2e654567717cbdb79b034c41aaeb32",
+      "body_sha256": "4f76d90cbf69d48121a0a8ef144959c5a47ccbe85095ebc778261b1cebf8ef56",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77227",
+      "path": "content/stories/quests/world_quests/quest_wq_77227.md",
+      "title_ru": "Тёмное облако в бутылке",
+      "family": "mitya_danika_investigation",
+      "order": 10,
+      "before_sha256": "d95ded517ed2fcd796c84374997d9c1a0dec2c2d12a2b396eac324c31f08ed39",
+      "after_sha256": "2f9b2f30843d58ac68f33981e7ede72882f09762194aedbef58b23399325a43e",
+      "body_sha256": "d2762621d4aeb6a776a4a75b75258ad0071871a6ae33783d84f1732ce0563b45",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77241",
+      "path": "content/stories/quests/world_quests/quest_wq_77241.md",
+      "title_ru": "Под слоем пыли и снега",
+      "family": "mitya_danika_investigation",
+      "order": 20,
+      "before_sha256": "3e508192f38cbdabedad1244d06edc7b2da1e57a0608628177e41707cfe0948b",
+      "after_sha256": "6e3b8683fdd52e04c557b1fbfededbcdfdd69c03cb32e75bd2b6f758223ea2eb",
+      "body_sha256": "7e23b0516d4f8555548268abf3652501365266fe3fefb4035daa80d508ece177",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_77226",
+      "path": "content/stories/quests/world_quests/quest_wq_77226.md",
+      "title_ru": "Загнанный зверь",
+      "family": "mitya_danika_investigation",
+      "order": 30,
+      "before_sha256": "541f61bd617cf5ffbe6074144d7039c5ddc1bae986fe70fbebb8c1b475942451",
+      "after_sha256": "9be9734890578dfa4408a6627e7e9d220625e3d14985915f249c2ae310666fab",
+      "body_sha256": "f8c0ae3f259a679115c975fa96bc9c85f5639df206cdbf12650b26542e7fbb7c",
+      "changed_fields": [
+        "quest_series",
+        "quest_series_ru",
+        "quest_series_order",
+        "quest_chain",
+        "related_quests",
+        "previous_quests",
+        "next_quests"
+      ]
+    },
+    {
+      "id": "quest_wq_1105",
+      "path": "content/stories/quests/world_quests/quest_wq_1105.md",
+      "reason": "Removed Roman-number placeholder from series metadata; chapter title, text and route preserved."
+    }
+  ]
+}

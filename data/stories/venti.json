@@ -146,5 +146,1072 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "*Зевает* Неплохо я вздремнул. Ах, путешественник, вот мы и встретились снова! Что? Ты меня не помнишь? Ха-ха-ха, тогда позволь мне заново присоединиться к твоей команде. Я должен удостовериться в том, чтобы все барды мира рассказывали истории о твоих похождениях! / *Зевает* Неплохо я вздремнул. Ах, путешественница, вот мы и встретились снова! Что? Ты меня не помнишь? Ха-ха-ха, тогда позволь мне заново присоединиться к твоей команде. Я должен удостовериться в том, чтобы все барды мира рассказывали истории о твоих похождениях!",
+        "en": "*Yawn* That was a refreshing sleep. Ah, Traveler, we meet again! What? You don't remember me? Ahaha, well, allow me to join you on your quest once again. I must see to it that the bards of the world tell the Traveler's tales!",
+        "zh": "哈…睡得好香呀。欸，你好呀，旅行者，我们又见面了。嗯？不记得我了？嘿嘿，那就让我再次加入你的旅程吧。你的诗篇，值得被我这个世上最好的吟游诗人传唱！"
+      },
+      "source_id": 11100
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Музыка",
+        "en": "Chat: Playing the Lyre",
+        "zh": "闲聊·弹琴"
+      },
+      "text": {
+        "ru": "Конечно, я сыграю тебе ещё одну песню, но на этот раз с тебя яблоко!",
+        "en": "Sure, I'll play you another tune, but it'll cost you an apple.",
+        "zh": "嗯…想接着听下去的话，送我一个苹果吧。"
+      },
+      "source_id": 11101
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Сидр",
+        "en": "Chat: Apple Cider",
+        "zh": "闲聊·苹果酒"
+      },
+      "text": {
+        "ru": "Вот бы сейчас сидеть на дереве с бутылочкой сидра в руке и любоваться бескрайними полями и лугами... Эх...",
+        "en": "Right now I wish I was sitting at the top of a tree, looking out over a meadow, cider in hand...",
+        "zh": "嗯…好想坐在大树上，手边有喝不完的苹果酒。哎。"
+      },
+      "source_id": 11102
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Поэзия",
+        "en": "Chat: Ballads",
+        "zh": "闲聊·诗篇"
+      },
+      "text": {
+        "ru": "Пойдём же, путешественник! Нам ещё предстоит отыскать множество утраченных баллад. / Пойдём же, путешественница! Нам ещё предстоит отыскать множество утраченных баллад.",
+        "en": "Come on Traveler, let's go! The world is full of lost ballads just waiting to be rediscovered.",
+        "zh": "动身吧，旅行者。佚失的诗篇，还在等着我们呢。"
+      },
+      "source_id": 11103
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Пошли прыгать по лужам! Посмотрим, у кого получится больше брызг!",
+        "en": "Let's go jumping in puddles and see who can make the biggest splash!",
+        "zh": "来踩小水坑吧！看看谁溅出来的水花更大！"
+      },
+      "source_id": 11104
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Ох, дождь уже закончился? А я только разыгрался.",
+        "en": "It's stopped raining already? A shame, I wanted to play some more.",
+        "zh": "欸~这就天晴了？我还想多玩一会儿呢。"
+      },
+      "source_id": 11105
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Давай дождёмся, пока нападает снег, и сыграем в снежки!",
+        "en": "Let's wait till the snow gets heavier and have a snowball fight!",
+        "zh": "等雪积起来…我们来打雪仗吧！"
+      },
+      "source_id": 11106
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "О, ветер снова поднялся! Раскрывай свой планер!",
+        "en": "The wind has returned! Quick, let's go gliding!",
+        "zh": "难得呀，要不要去飞一飞？"
+      },
+      "source_id": 11107
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Ну что, готов к новым свершениям? / Доброе утро! Ну что, готова к новым свершениям?",
+        "en": "Morning! Ah... what's in store for today?",
+        "zh": "早，准备开始新的冒险了么？"
+      },
+      "source_id": 11108
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Мой живот урчит, но нельзя, чтобы меня снова поймали на воровстве еды из винокурни «Рассвет»... О, это ты! Куда путь держишь? Можно мне с тобой?",
+        "en": "My tummy is rumbling, but I can't get caught pilfering food from the Dawn Winery again... Oh, it's you! Where are you heading? May I join?",
+        "zh": "咕…肚子饿了，又不敢再去晨曦酒庄蹭饭…啊，是你呀！欸嘿，要出门么？带我一个呗。"
+      },
+      "source_id": 11109
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Ещё рано спать. Пошли прогуляемся!",
+        "en": "Hmm, I'm still not sleepy. Fancy an evening stroll?",
+        "zh": "我还不困哦。要我陪你走走么？"
+      },
+      "source_id": 11110
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Ты уже баиньки? Ха-ха, сладких снов, друг!",
+        "en": "Off to the land of nod? Haha, farewell, my friend!",
+        "zh": "欸？要休息了吗？嘿嘿，晚安。"
+      },
+      "source_id": 11111
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Венти...",
+        "en": "About Venti",
+        "zh": "关于温迪自己…"
+      },
+      "text": {
+        "ru": "Практиковаться? Мне? Ха-ха, зачем? Я ведь и так знаю все песни в Тейвате.",
+        "en": "Practice? Me? There's no need — I already know every song in Teyvat!",
+        "zh": "练习？哼哼，我当然不需要啦，在这提瓦特就没有我不会唱的歌。"
+      },
+      "source_id": 11112
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Новые песни",
+        "en": "About Us: New Songs",
+        "zh": "关于我们·新歌"
+      },
+      "text": {
+        "ru": "Я решил написать песню о тебе! Ну чего ты так на меня смотришь? Боишься, что не сможешь позволить себе такую роскошь? Да перестань, для тебя такая услуга стоит ровно ноль моры! Хотя... ты мог бы поделиться со мной ещё какими-нибудь интересными историям из своей жизни! / Я решил написать песню о тебе! Ну чего ты так на меня смотришь? Боишься, что не сможешь позволить себе такую роскошь? Да перестань, для тебя такая услуга стоит ровно ноль моры! Хотя... ты могла бы поделиться со мной ещё какими-нибудь интересными историям из своей жизни!",
+        "en": "I have decided to write a song about you! What are you giving me that look for? Can't afford it? Don't be preposterous, the price for you, my friend, is precisely zero Mora! Although... one thing you could do is tell me a few more of your stories!",
+        "zh": "我想把你写进新歌里！欸，怎么露出这种表情呀，担心付不起稿费吗？哈哈，摩拉就不要了，不如…跟我再讲讲你的故事吧！"
+      },
+      "source_id": 11113
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Герои",
+        "en": "About Us: Heroes",
+        "zh": "关于我们·勇者"
+      },
+      "text": {
+        "ru": "Ха-ха, как только принц в моей истории спасёт принцессу, я сразу сделаю так, что песнь о нём разлетится по всем уголкам Тейвата. / Ха-ха, как только принцесса в моей истории спасёт принца, я сразу сделаю так, что песнь о ней разлетится по всем уголкам Тейвата.",
+        "en": "Haha, once the hero in the song has actually rescued the princess, I will ensure this song spreads to every corner of the continent! / Haha, once the heroine in the song has actually rescued the prince, I will ensure this song spreads to every corner of the continent!",
+        "zh": "唔…嗯！嘿嘿，等到勇者救出了公主，我会第一时间让全大陆传唱这首歌谣。 / 唔…嗯！嘿嘿，等到勇者救出了王子，我会第一时间让全大陆传唱这首歌谣。"
+      },
+      "source_id": 11114
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Апостолы",
+        "en": "About Us: Apostles",
+        "zh": "关于我们·使徒"
+      },
+      "text": {
+        "ru": "Вечерний бриз настраивает на то, чтобы стать моим учеником, ты так не думаешь? Мы можем начать прямо сейчас. Тебе всего лишь придётся сделать мне небольшое подношение...",
+        "en": "Ahh... an evening breeze really sets the mood for becoming my disciple, don't you think? We can do it right now... you just need to make me a small offering...",
+        "zh": "夜风凉爽，是适合成为神的使徒的天气！那么事不宜迟，快来向我献上供奉吧？"
+      },
+      "source_id": 11115
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Просьбы",
+        "en": "About Us: Requests",
+        "zh": "关于我们·请求"
+      },
+      "text": {
+        "ru": "Думаешь, что я недостаточно делаю в качестве Анемо Архонта? Ну знаешь, тебе тоже не мешало бы постараться, чтобы стать моим последователем. Ты мог хотя бы показать свою заинтересованность... / Думаешь, что я недостаточно делаю в качестве Анемо Архонта? Ну знаешь, тебе тоже не мешало бы постараться, чтобы стать моим последователем. Ты могла хотя бы показать свою заинтересованность...",
+        "en": "What's that? You think I should try harder to be a good Anemo Archon? Well, you could be a better devotee too... you could be more pious, more passionate, or... um...",
+        "zh": "欸，要风神我更加努力一点？那你是不是也要展示点诚意呢。比如虔诚、热爱，或者说…"
+      },
+      "source_id": 11116
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "М? Интересно, откуда у меня Глаз Бога? Ну вот, держи, посмотри сам. Если хочешь, я могу сделать для тебя такой же, ха-ха. / М? Интересно, откуда у меня Глаз Бога? Ну вот, держи, посмотри сама. Если хочешь, я могу сделать для тебя такой же, ха-ха.",
+        "en": "Hmm? You want to know about my Vision? Oh, go on then, take a look for yourself. I can make you a matching one if you like! Hehehe.",
+        "zh": "欸？好奇我的「神之眼」？喔…喏，给你。喜欢的话…要我给你做一个一样的么？嘿嘿嘿。"
+      },
+      "source_id": 11117
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Olah! Ха-ха, так хиличурлы говорят «привет». Всякие на первый взгляд ненужные знания помогают сделать лексику композиций более богатой. Однако я до сих пор не написал ни одной песни на хиличурлском...",
+        "en": "Olah! Haha, that's how the Hilichurls say \"hello.\" Why, I learned it to aid with my songwriting, of course! Vast knowledge makes for a richer composition... That said, I haven't actually written any songs in Hilichurlian so far...",
+        "zh": "Olah！嘿嘿，这是丘丘人打招呼用的话哦。问我学这个干嘛？哎呀，为了创作，知识面当然越广越好啊。唔，好像，我还没尝试过用丘丘语写歌呢…"
+      },
+      "source_id": 11118
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "А ты когда-нибудь видел сесилию, путешественник? Это изумительный белый цветок, который растёт только в самых удалённых местах, на скалистых горах. Для меня это самый красивый цветок во всём Тейвате. / А ты когда-нибудь видела сесилию, путешественница? Это изумительный белый цветок, который растёт только в самых удалённых местах, на скалистых горах. Для меня это самый красивый цветок во всём Тейвате.",
+        "en": "Traveler, have you ever seen a Cecilia? It's a magnificent white wildflower that only grows on the most remote mountains and clifftops. To me, at least, it is the most beautiful flower in all of Teyvat.",
+        "zh": "旅行者，你见过塞西莉亚花么？那是一种只在安静的山崖顶上默默绽放的白色野花。在我心里，它就是全提瓦特最美的花。"
+      },
+      "source_id": 11119
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Джинн...",
+        "en": "About Jean",
+        "zh": "关于琴…"
+      },
+      "text": {
+        "ru": "Действующий магистр Джинн... Какого ты о ней мнения? Да, не могу согласиться: сознательна, смела... добра и внимательна. Напоминает мне одного моего хорошего друга...",
+        "en": "Acting Grand Master Jean... Well, what do you think of her? Yes, I couldn't agree more: conscientious, courageous... kind and considerate too. Reminds me of another good friend...",
+        "zh": "骑士团代理团长大人…你觉得她是个怎样的人？嘿嘿，跟我想得一样。认真，勇敢，也不乏温柔。和我一个朋友有点像呢…"
+      },
+      "source_id": 11120
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克…"
+      },
+      "text": {
+        "ru": "Я не удивлён, что ты хочешь подружиться с Дилюком. Только представь, сколько винтажного вина хранится в его погребах... Муа-ха-ха-ха... А? Он не даёт тебе попробовать? Ни малейшей капельки? Хм... Ну, я думаю, ты хотя бы можешь оценить его аромат. Это всё же лучше, чем ничего, верно? Нет?",
+        "en": "I'm not surprised you want to befriend Master Diluc. Just think of all the vintage wine he must have stored away... Mwuhahaha... Huh? He doesn't let you sample it? Not even the slightest drop? Huh... Well, I guess you can still appreciate the aroma. That's still better than no wine at all, right? No?",
+        "zh": "去跟迪卢克老爷处好关系吧？你想，他家可是有好~多~珍藏的酒啊！嘿嘿嘿，嘿嘿嘿嘿…咦，无论如何不准喝酒么？那…就去闻一闻吧，闻一闻！只是闻的话，你也可以喔。"
+      },
+      "source_id": 11121
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Барбаре...",
+        "en": "About Barbara",
+        "zh": "关于芭芭拉…"
+      },
+      "text": {
+        "ru": "Милый пастор с нежным голосом, ты знаешь её? Да? Идол? Концерты? Сходки фанатов? Ого... Это сила музыки...",
+        "en": "The darling Deaconess with the sweet singing voice — do you know her? You do? Idol, huh? Meet and greets? Concerts? Wow... That's the power of music for you...",
+        "zh": "唱歌很好听的牧师女孩儿，你认识么、你认识么？…唔，偶像？…啊，握手会？…嗯，专场live？…这样啊，音乐还真是深奥呐。"
+      },
+      "source_id": 11122
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Рэйзоре...",
+        "en": "About Razor",
+        "zh": "关于雷泽…"
+      },
+      "text": {
+        "ru": "Мальчик из Вольфендома с белыми волосами, да. Его вырастили волки? Правда? Тогда понятно, почему так знаком его запах...",
+        "en": "Ah yes, the white-haired fellow from Wolvendom? Raised by wolves? Really? ... No wonder his scent is so familiar...",
+        "zh": "那个奔狼领的白发少年，哦哦，是吗，是被狼养大的啊…怪不得呢，他身上的气息，令人怀念…"
+      },
+      "source_id": 11123
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Моне...",
+        "en": "About Mona",
+        "zh": "关于莫娜…"
+      },
+      "text": {
+        "ru": "Ох, тот астролог? Гляди, астрология и моё пение - это почти одно и то же. В обоих случаях у тебя не остаётся денег даже на выпивку! Ты считаешь, что астрология - это культурное явление, и поэтому оно ценнее? Хм, как грубо, пение уличных бардов не менее ценно!",
+        "en": "Oh, that astrologer? How should I put it? Fortune-telling and my singing are the same: Both lead to you being so poor you can't even cough up the money for a drink! ...You think that astrology is a cultural tradition, so at least still has some value? Hmph, so rude. In that case, so too is singing, so it still has its value too!",
+        "zh": "啊，那位占星术士吗？这么说吧，占卜和我的诗歌一样，都是让人穷到酒钱都凑不齐的没用技术呢！欸？你说占星至少是一项文化传统，所以不是没用的？呜，真失礼啊，那诗歌也一样有用啊！"
+      },
+      "source_id": 11124
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Дионе...",
+        "en": "About Diona",
+        "zh": "关于迪奥娜…"
+      },
+      "text": {
+        "ru": "В «Кошкином хвосте» есть один известный во всей округе напиток. Но он... а-а-а... Апчхи! *Шмыгает* Можешь принести мне бокальчик, пожалуйста? Я буду очень-очень тебе благодарен, обещаю.",
+        "en": "There's a special drink known far and wide at Cat's Tail. But it ah... ahh... ACHOO! *sniffs* How about you go and fetch one for me? I'll be truly thankful, I promise.",
+        "zh": "远近闻名的猫尾酒馆特调酒。可是…呜，会，打，打喷嚏。要不，你帮我讨一杯酒来吧。我肯定会好好感激你的，一言为定。"
+      },
+      "source_id": 11125
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Об Альбедо...",
+        "en": "About Albedo",
+        "zh": "关于阿贝多…"
+      },
+      "text": {
+        "ru": "Как объяснить образование белого мела в чёрной земле? Или образование земной коры в бескрайней пустоте космоса? За всем стоит та же древнейшая сила, что позволила чистейшей почве дать жизнь человеку... Но пытаться обуздать подобную силу очень и очень чревато. Боюсь представить, что может произойти, потеряй кто-нибудь контроль над ней в стенах города... Хотя, неважно! Пусть жители Мондштадта сами разбираются с возникшими в их городе проблемами!",
+        "en": "How do you explain white chalk in black soil, or the earth's dense crust amidst the emptiness of space? Same reason the purest soil gave birth to human life... It's an ancient power with unmistakable properties. Trying to harness it is dangerous indeed, I can't imagine what would happen if someone lost control of it in the city... Ah, never mind! What goes on within Mondstadt's walls is up to Mondstadt's people to deal with!",
+        "zh": "黑土与白垩、宇宙与地层，无垢之土创生原初之人…特征实在太明显了，难以忽视呀。这么危险的古老技术，万一在城里失控——嗨，算了，就让蒙德人自己解决蒙德的问题吧。"
+      },
+      "source_id": 11126
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Мораксе...",
+        "en": "About Morax",
+        "zh": "关于摩拉克斯…"
+      },
+      "text": {
+        "ru": "Так ты знаешь этого джентльмена? И как? Он обычный человек по имени Чжун Ли? Видать, сильно изменился, старый болван. Может, сопроводишь меня на встречу с ним? Я тут откопал бутылочку винтажного вина в долине Ветров, можно взять с собой в качестве подарка. Ох... Слушай, а он показался тебе сильным? Насколько? Он может смести меня одним взмахом?",
+        "en": "Have you seen that gentleman around? Huh? He's just a normal man by the name of Zhongli now? That must be quite the change for that old block-head. Come with me to see him, will you? I have a vintage I dug up from Windrise that I can take as a condolence gift. Oh, ahh... did he still seem strong when you saw him? How strong? Am I likely to get blown away?",
+        "zh": "你见过那位老爷子了？他近来还好吗？欸，变成名叫「钟离」的普通人了？对他那个死脑筋而言，这应该是不小的改变啊。啊，陪我去见见他吧，带上这瓶埋在风起地的陈年好酒当作慰问品。啊对了，他现在还强不强，实力还剩几成啊？我这样过去，应该不会被打飞吧？"
+      },
+      "source_id": 11127
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Об Эоле...",
+        "en": "About Eula",
+        "zh": "关于优菈…"
+      },
+      "text": {
+        "ru": "Эола хорошо разбирается в вине. Вне зависимости от времени года она всегда пьёт охлаждённые напитки. Это большая редкость в современном Мондштадте. Думаю, из неё получился бы хороший собутыльник. А? Ты хочешь сказать, что песня, которую я придумал о клане Лоуренс уже дошла до её ушей? Ха, какая разница? Может быть, мы даже споём вместе.",
+        "en": "Eula has good taste when it comes to beverages of the alcoholic variety. Come summer or winter, she always likes them ice-cold. That's rare among Mondstadters these days! She and I would make great drinking buddies. Huh? My songs about the Lawrence Clan... She's heard them already? Eh, no harm done. Maybe she and I can do a duet sometime!",
+        "zh": "优菈对酒的品位可是很不错的。无论夏天、冬天都要喝冰的这一点，在现在的蒙德人里也算难得啦。感觉能和她成为不错的酒友。嗯？你说我编排的劳伦斯家的歌…早已经传到了她的耳朵里？哈，那有什么关系嘛？说不定，我们还能一起唱呢。"
+      },
+      "source_id": 11128
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Венти I",
+        "en": "More About Venti: I",
+        "zh": "想要了解温迪·其一"
+      },
+      "text": {
+        "ru": "Путешественник, ты как раз вовремя! Расскажи мне, каково твоё самое заветное желание? / Путешественница, ты как раз вовремя! Расскажи мне, каково твоё самое заветное желание?",
+        "en": "Perfect timing, Traveler! I was about to ask you — what is your greatest wish?",
+        "zh": "来得正好，旅行者。我想听听，你的愿望是什么？"
+      },
+      "source_id": 11129
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Венти II",
+        "en": "More About Venti: II",
+        "zh": "想要了解温迪·其二"
+      },
+      "text": {
+        "ru": "Путешествовать с тобой не бывает скучно! Вот только есть один недостаток - та феечка, что всюду за тобой летает... Она же постоянно ест! И представить не могу, сколько ты на неё тратишь!",
+        "en": "There's never a dull moment traveling with you! The only minor inconvenience is that pesky little pixie thing that follows you everywhere... She never stops eating — I can't begin to imagine how much you spend on food!",
+        "zh": "跟你一起旅行真是件有趣的事，要说美中不足就是你身边的那只小不点了吧。那么能吃，你们的伙食费很了不得吧？哈哈。"
+      },
+      "source_id": 11130
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Венти III",
+        "en": "More About Venti: III",
+        "zh": "想要了解温迪·其三"
+      },
+      "text": {
+        "ru": "Пиро Архонт - своенравный и воинственный безумец, а Гео Архонт - тупица, не понимающий человеческой души. Откуда я это знаю? Ну... Из баллад... написанных о тех временах... которые про Архонтов...",
+        "en": "The Pyro Archon is a wayward, warmongering wretch, and the Geo Archon is a brutish, blundering buffoon! How do I know? Because, this is written in the epic poems of days gone by!",
+        "zh": "火之神是个横行霸道的战斗狂，岩之神是个不懂人心的死脑筋。问我怎么会知道这些？欸嘿，叙事诗里都写得一清二楚嘛，他们的故事。那个年代的故事。"
+      },
+      "source_id": 11131
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Венти IV",
+        "en": "More About Venti: IV",
+        "zh": "想要了解温迪·其四"
+      },
+      "text": {
+        "ru": "Селестия... Не уверен, что даже у меня хватило бы сил долететь до неё. Да и вообще, вода там горькая, фрукты безвкусные... А знаешь, что это значит? Это значит, что там нет сидра! Ха-ха-ха, поэтому я бы не показался там, даже если бы меня пригласили.",
+        "en": "Celestia... I'm not sure even I could fly that far. In any case, the water there tastes foul, and the fruit is bland. You know what that means? No cider! Haha, in that case, I wouldn't go there even if I was invited.",
+        "zh": "天空岛啊。连我也不一定飞得到那里呢。而且在那里，没有甜的水，也长不出什么好吃的果子。就更不会有好酒咯？嘿嘿，所以请我去我都不想去哦。"
+      },
+      "source_id": 11132
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Венти V",
+        "en": "More About Venti: V",
+        "zh": "想要了解温迪·其五"
+      },
+      "text": {
+        "ru": "Моё сокровенное желание? Я всегда мечтал быть свободным и странствовать по свету. Но теперь я хочу, чтобы во всех этих путешествиях меня сопровождал ты! Каждый день с тобой - это новое приключение, а рассказчики всегда должны следовать за приключениями. / Моё сокровенное желание? Я всегда мечтал быть свободным и странствовать по свету. Но теперь я хочу, чтобы во всех этих путешествиях меня сопровождала ты! Каждый день с тобой - это новое приключение, а рассказчики всегда должны следовать за приключениями.",
+        "en": "My greatest wish? It has always been to roam free and experience the whole world. Now, I would add that wherever I go, it simply must be with you! Each day with you is an adventure, and where adventurers go, storytellers must follow!",
+        "zh": "我的愿望？嗯。以前，我想着要游历整个世界。现在也一样，不过嘛，加上了一份限定条件，那就是跟你一起。有你在，才是完整的。记叙者果然要和冒险者在一起才行嘛，嘿嘿！"
+      },
+      "source_id": 11133
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Хобби Венти...",
+        "en": "Venti's Hobbies",
+        "zh": "温迪的爱好…"
+      },
+      "text": {
+        "ru": "Я люблю выпить! И я люблю ветер! Если бы только в мире придумали делать сидр из ветра...",
+        "en": "I like to drink! And I like the wind! If only there were such a thing as wind-brewed cider...",
+        "zh": "我喜欢酒！还有风！唔，如果能有用风酿的酒就好了。"
+      },
+      "source_id": 11134
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Беспокойство Венти...",
+        "en": "Venti's Troubles",
+        "zh": "温迪的烦恼…"
+      },
+      "text": {
+        "ru": "Вообще-то у меня аллергия на кошек. Я начинаю чихать сразу же, как только они подходят близ... ах... Апчхи! Ох, даже одна мысль о них заставляет меня чихать. Как думаешь, существует ли где-нибудь в мире лекарство от этой ужаснейшей болезни?",
+        "en": "I'm actually highly allergic to cats. I start sneezing as soon as they enter the vicinity, and... Aah... Aa-choo! Ugh, apparently I can't even THINK about cats without sneezing. Do you think there is a cure for this monstrous affliction?",
+        "zh": "其实，只要有猫在附近，我就忍不住会打喷嚏…啊-啊-阿嚏！唔…哎呀…就连想一想也不行么…欸，你知不知道该怎么治好这个毛病呀？"
+      },
+      "source_id": 11135
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Будешь яблоко? Я только что их нарвал. Смотри, какие спелые и сочные... *Откусывает* Воистину божественный плод.",
+        "en": "Here, have an apple. I just picked it. Look how ripe and juicy it is... *munching* ... Truly the fruit of the gods.",
+        "zh": "你也来一个苹果吗，刚摘的。啊呜，啊…又脆又甜，苹果才是神的馈赠吧！"
+      },
+      "source_id": 11136
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Что это у тебя там за лакомство? ... Фу! Блины с плавленым сыром! Вонючая, липкая, отвратительная гадость!",
+        "en": "Hmm, what's that tasty morsel you've got there...? Eww! A melted cheese pancake? A smelly, sticky, slimy, disgusting mess!",
+        "zh": "哎，你在做什么好吃的吗？欸？热奶酪饼！这个…这个不行，热热的黏糊糊的，唔…对我来说，太腻了…"
+      },
+      "source_id": 11137
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Как-то раз мне сказали, что на день рождения обязательно нужно съесть торт... Та-дам! Вот и твой праздничный торт! Он с яблочным вкусом. А вот и твоя ложка! Только вот тесто почти не поднялось, поэтому он больше похож на пирог... Ух, выпечка и впрямь наука не из лёгких...",
+        "en": "Someone once told me you're supposed to eat a cake on your birthday... Tada! Here's your birthday cake — it's apple-flavored! And here's a spoon. The cake didn't rise properly in the oven... That's why it looks more akin to an apple pie... Ugh, baking is really quite complicated!",
+        "zh": "我以前听朋友说生日是要吃蛋糕的…喏，苹果蛋糕，给，勺子。烤出来的时候有点塌了，所以看上去像是苹果派。欸嘿，甜点还真是复杂呀。"
+      },
+      "source_id": 11138
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Ох, что это было?",
+        "en": "Whoa! What was that?",
+        "zh": "欸！刚刚发生了什么！"
+      },
+      "source_id": 11139
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Хорошо поработали. Может, присядем отдохнуть и насладимся моей игрой? Что ты хочешь послушать? Каприччио или серенаду?",
+        "en": "Good work. Shall we repose for a moment with a tune? Shall it be a capriccio or a serenade?",
+        "zh": "辛苦啦。想要来点音乐放松一下吗？随想曲，还是小夜曲？"
+      },
+      "source_id": 11140
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Пошли присядем. Смотри, я написал новую поэму и называл её «Ветер путешественника». / Пошли присядем. Смотри, я написал новую поэму и называл её «Ветер путешественницы».",
+        "en": "Come, sit with me. I've written a new poem. I call it \"Wind of the Traveler.\"",
+        "zh": "来，坐这边。我写了一首新诗哦，就叫它「旅行者之风」吧。"
+      },
+      "source_id": 11141
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Хм... Я уже много раз смотрел на этот пейзаж, но в компании с тобой он начинает играть новыми красками. Неужто ты скрываешь ещё какие-то таланты? Даже если так, это ещё раз доказывает, что моя интуиция меня не подвела.",
+        "en": "Hmm... Though I've long since viewed this scenery a great many times, there is something different about seeing it again with you. Surely you're not still concealing some other wondrous abilities? Hmm, even if you were, it would simply further prove that my intuition is correct.",
+        "zh": "唔…明明这些风景早就看过很多遍了，有你在身边，却像是呈现出了不同的样子。你该不会…还藏着一大堆奇奇怪怪的能力吧？…唔，那倒也不错。说明，我看人的眼光很准呀，欸嘿。"
+      },
+      "source_id": 11142
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Ю-ху!",
+        "en": "Yoo-Hoo!",
+        "zh": "哟呼——"
+      },
+      "source_id": 11143
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "А вот и мы!",
+        "en": "Here we go!",
+        "zh": "在这哟。"
+      },
+      "source_id": 11144
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Соберитесь!",
+        "en": "Brace yourselves!",
+        "zh": "留意脚下。"
+      },
+      "source_id": 11145
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Давайте играть!",
+        "en": "Let's play!",
+        "zh": "一起来玩吧。"
+      },
+      "source_id": 11146
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Думаешь, сможешь убежать?",
+        "en": "Think you can get away?",
+        "zh": "别想逃开喔？"
+      },
+      "source_id": 11147
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "К полёту готов!",
+        "en": "Time for takeoff!",
+        "zh": "起风咯~"
+      },
+      "source_id": 11148
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Разве на планере не быстрее?",
+        "en": "Wouldn't gliding be faster?",
+        "zh": "飞，比跑快吧？"
+      },
+      "source_id": 11149
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Запуск планера I",
+        "en": "Deploying Wind Glider: I",
+        "zh": "打开风之翼·其一"
+      },
+      "text": {
+        "ru": "Ю-ху!",
+        "en": "Yahoo!",
+        "zh": "呀嘿~"
+      },
+      "source_id": 11150
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Кхм, ты когда-нибудь слышал «Балладу о сундуке с сокровищами»? / Кхм, ты когда-нибудь слышала «Балладу о сундуке с сокровищами»?",
+        "en": "*clears throat* Have you heard The Ballad of the Treasure Chest?",
+        "zh": "咳咳，请听一首，「宝箱之歌」！"
+      },
+      "source_id": 11151
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Слава Барбатосу! Погоди-ка...",
+        "en": "Thank Barbatos! Wait a minute...",
+        "zh": "嘿嘿，要不要感谢「风神的眷顾」呀？"
+      },
+      "source_id": 11152
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Вот это находка! Интересно, на сколько бутылок она потянет...",
+        "en": "What a find! I wonder how many bottles this'll be worth...",
+        "zh": "收获不少，可以拿去换几瓶好酒啦。"
+      },
+      "source_id": 11153
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Ох, я не в настроении для всего этого!",
+        "en": "Ugh, I'm not in the mood for this!",
+        "zh": "等等，这可不好玩！"
+      },
+      "source_id": 11154
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Эй! Отстань от меня!",
+        "en": "Oh, dear!",
+        "zh": "哎呀，别盯着我打呀。"
+      },
+      "source_id": 11155
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Это было неожиданно.",
+        "en": "That was uncalled for.",
+        "zh": "好过分呐。"
+      },
+      "source_id": 11156
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Дай мне попробовать!",
+        "en": "Let me try!",
+        "zh": "交给我吧。"
+      },
+      "source_id": 11157
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Не сдавайся!",
+        "en": "Don't give up!",
+        "zh": "还不能放弃哦。"
+      },
+      "source_id": 11158
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Я немного вздремну...",
+        "en": "Let me sleep a while...",
+        "zh": "稍微睡一下吧…"
+      },
+      "source_id": 11159
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "О нет, моя лира разбита...",
+        "en": "Oh no, my lyre is broken...",
+        "zh": "啊呀，弦断了…"
+      },
+      "source_id": 11160
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Ох... Уф...",
+        "en": "Ah... Ugh...",
+        "zh": "扑通。"
+      },
+      "source_id": 11161
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Ай!",
+        "en": "Ah!",
+        "zh": "哎呀…"
+      },
+      "source_id": 11162
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Как это грубо!",
+        "en": "How rude!",
+        "zh": "好粗鲁哦。"
+      },
+      "source_id": 11163
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Дай мне время, мне надо собраться.",
+        "en": "Give me a moment to compose myself.",
+        "zh": "调音完成。"
+      },
+      "source_id": 11164
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Ну, что, заждались меня?",
+        "en": "Didn't keep you waiting, did I?",
+        "zh": "让你久等了哦？"
+      },
+      "source_id": 11165
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Готовы к репетиции?",
+        "en": "Ready for a rehearsal?",
+        "zh": "是要做热身运动吗。"
+      },
+      "source_id": 11166
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "О Баал...",
+        "en": "About Baal",
+        "zh": "关于巴尔…"
+      },
+      "text": {
+        "ru": "Я слышал, что ты одолел и этого высокомерного сёгуна Райдэн? Ах... Я думаю, что когда она была кагэмуся, она стремилась к боевому искусству в его самом высоком проявлении. В настоящее время она, должно быть, также придумывает всевозможные причины, чтобы вызвать тебя на бой. Я по секрету расскажу о её слабости... Подойди поближе, я шепну тебе на ушко. Это сладости! / Я слышал, что ты одолела и этого высокомерного сёгуна Райдэн? Ах... Я думаю, что когда она была кагэмуся, она стремилась к боевому искусству в его самом высоком проявлении. В настоящее время она, должно быть, также придумывает всевозможные причины, чтобы вызвать тебя на бой. Я по секрету расскажу о её слабости... Подойди поближе, я шепну тебе на ушко. Это сладости!",
+        "en": "So, I hear you defeated the mighty Raiden Shogun? Ah, I recall the days when she was a kagemusha, seeking to perfect her martial prowess. Hehe, she now no doubt employs a wide range of reasoning to get you to train with her. Oh but yes, come close and I shall let you in on her weakness — desserts!",
+        "zh": "听说，你把那位不可一世的雷电将军也击败了？啊…想当年她作为影武者的时候，就在追求极致的武技了。如今，也一定会借用各种各样的理由叫你做陪练吧。嗯嗯，偷偷告诉你她的弱点吧，耳朵凑过来——是「甜点心」哦！"
+      },
+      "source_id": 11167
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Ах, просто восхитительно! А можно повторить завтра? И послезавтра?..",
+        "en": "Ahh, quite delightful! So... could I get the same again tomorrow? ...And maybe the day after that?",
+        "zh": "啊，好满足！明天也会有吧？后天也会有吧？"
+      },
+      "source_id": 11168
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Ох, как же я объелся... Придётся в этот раз обойтись без фруктов...",
+        "en": "Oof, I'm so full... I'll have to pass on the post-meal fruits this time...",
+        "zh": "呼，好饱，连餐后水果都要吃不下了…"
+      },
+      "source_id": 11169
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Поверить не могу, но, кажется, я не смогу это переварить. Ох, какая неприятная ситуация...",
+        "en": "I can't believe it, but I don't think I can stomach this... Oh boy... What a predicament.",
+        "zh": "竟然是连我都应付不来的食物。唔…这下可难办了。"
+      },
+      "source_id": 11170
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "О Буер...",
+        "en": "About Buer",
+        "zh": "关于布耶尔…"
+      },
+      "text": {
+        "ru": "Первое, что приходит на ум, когда слышишь о Дендро Архонте, - это её власть над снами, да? Её сны, как и мои стихи, наполнены романтикой и фантазией. Конечно же, мы отлично с ней ладим.",
+        "en": "The first thing you think of when you hear \"Dendro Archon\" is her power over dreams. Her dreams are akin to my ballads: full of emotion and imagination. It goes without saying that we get along really well.",
+        "zh": "你说草神啊，说到草神，就会先想到她那关于「梦境」的权能吧？与我所作的那些诗歌一样，她所创造的梦境也一样充满了浪漫与想象，我们可是很合得来呢。"
+      },
+      "source_id": 11171
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "О Фурине...",
+        "en": "About Furina",
+        "zh": "关于芙宁娜…"
+      },
+      "text": {
+        "ru": "Бард должен уметь петь и на чём-нибудь играть, а вот театральным артистам требуется куда больше. Как насчёт того, чтобы предложить Фурине устроить представление на следующем Празднике ветряных цветов? М? Ты хочешь, чтобы я рассказал о том, как она спасла Фонтейн. Что ж тут такого? Человек подобного артистического дарования способен спасти весь мир!",
+        "en": "A bard must be versed in both music and song, but a stage performer requires far more skills than just these... Hey, don't you think we should invite her over to put on a show at the next Windblume Festival? ...Huh? You want me to talk about how she saved Fontaine? Well, I mean, she's such a talented artiste, it's no wonder. I wouldn't be surprised even if she'd saved the entire world.",
+        "zh": "吟游诗人所擅长的，多是弹奏与演唱，可一位戏剧表演者所需要具备的能力，还远远不止这些…下次风花节把芙宁娜请过来一起表演怎么样？嗯？你想让我聊聊她拯救枫丹的事？有这样艺术才华的人就算拯救了整个世界，也毫不奇怪吧？"
+      },
+      "source_id": 11172
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "О Хаборим...",
+        "en": "About Haborym",
+        "zh": "关于赫布里穆…"
+      },
+      "text": {
+        "ru": "Этот мир действительно жесток: поколение за поколением люди вынуждены становиться пушечным мясом в битве с тьмой. Однако под предводительством Мавуики они совершили поистине божественный подвиг... Хех, начиная с «неё», наверное, натланцы всегда были такими. Ах, точно! Я слышал, что Мавуика любит выпить! Мы думаем об одном и том же?..",
+        "en": "This world sure is cruel, forcing generation upon generation of human heroes to become cannon fodder in the fight against darkness. But, under Mavuika's leadership, they achieved a truly god-like feat... Hehe, starting with \"her,\" I suppose the Natlanese have always been like that. Ah, right! I heard Mavuika likes to drink! Are you thinking what I'm thinking...?",
+        "zh": "需要一个又一个的人类成为柴薪去对抗漆黑的威胁，这个世界还真是不讲情面。但在玛薇卡的带领下，他们创造了堪比魔神的成就…嘿嘿，从「她」开始，纳塔人似乎一直就是这样呢。对了，我听说玛薇卡很喜欢喝酒对吧？要不然…"
+      },
+      "source_id": 11173
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "О Далии...",
+        "en": "About Dahlia",
+        "zh": "关于塔利雅…"
+      },
+      "text": {
+        "ru": "О путник, хочешь ли ты услышать голос ветра и узнать его наставления? Я советую... побеседовать с дьяконом. Ха-ха, шучу. Приходи поболтать со мной за выпивкой в любое время! Причина, по которой я обычно привлекаю Далию в качестве посредника, заключается в том, что... ну, я думаю, ты догадываешься - он любит слушать шум ветра, но, что очень важно, у него есть собственный компас.",
+        "en": "O, Traveler, do you seek to hear the voice of the wind and know its guidance? Then I say to you... chatting to the deacon is your best bet. Haha, I'm kidding — come chat with me over a drink any time you want! The reason I usually get Dahlia to be my intermediary is because... well, I imagine you can probably guess why. He loves listening to the blustering of the wind, but crucially he has his own compass, too.",
+        "zh": "旅者，你想要聆听风的声音，寻求风的指引吗？那么…去找这位助祭肯定没错。哈哈，开个玩笑。你随时可以找我一边喝酒一边聊天噢！至于我平时拜托塔利雅传递消息的原因…你已经猜到了吧？他热衷于追逐喧嚣的风，却从来不会失去自己的方向。"
+      },
+      "source_id": 11174
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "О Дурине...",
+        "en": "About Durin",
+        "zh": "关于杜林…"
+      },
+      "text": {
+        "ru": "О, ещё один ребёнок госпожи мага поселился в Мондштадте - как здорово! Этот малыш, похоже, очень хотел поиграть с одним моим большим другом, так что я взял на себя скромную роль посредника. Забавно, но большой друг оказался даже более взволнован, чем малыш - прыгал от радости, хлопал себя по животу и танцевал. Ой-ой, кажется, большой друг нас услышал? Быстрее, спрячемся за деревом!",
+        "en": "Another one of Madame Mage's children here in Mondstadt, what fun! My new little friend looked like he wanted to play with a certain older, bigger friend of mine — so I arranged a little introduction, and voila! It turns out my big friend was the more excited of the two! Why, you should've seen him jumping for joy, patting his belly, and dancing in circles. Oh dear, did he hear what I just said? Quick, quick, let's take cover behind that tree!",
+        "zh": "又有一位魔女小姐的孩子在蒙德落脚了，真热闹呀。这位小朋友看起来很想跟我的一位大朋友一起玩，于是我便做了一些微不足道的引荐工作。让人惊喜的是，大朋友比小朋友还激动，高兴得上蹿下跳，拍着肚皮转圈跳舞呢。哎呀，被大朋友听见了？快快，我们往树后躲一躲。"
+      },
+      "source_id": 11175
+    }
+  ],
+  "replica_count": 76
 }

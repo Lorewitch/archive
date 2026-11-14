@@ -1,0 +1,1064 @@
+[
+  {
+    "asset": "UI_EquipIcon_Bow_GlintstoneBow",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/bow/covenant_of_frost_and_snow.webp"
+    ],
+    "source": "cached download",
+    "sha256": "4ac5c026d34df4af1b8ce24c8036865c339397bc9c5f5c636a97e975bdd56d41"
+  },
+  {
+    "asset": "UI_EquipIcon_Catalyst_GlintstoneCatalyst",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/catalyst/echoes_of_the_heart.webp"
+    ],
+    "source": "cached download",
+    "sha256": "da6b1444be7c003deb17357f537d5128d58301d12d24c967aae4875538dfe68a"
+  },
+  {
+    "asset": "UI_EquipIcon_Pole_GlintstonePolearm",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/polearm/song_of_the_vigil.webp"
+    ],
+    "source": "cached download",
+    "sha256": "b1ac6bb28d2cb1bc3ddcdc53f6d6eb6fbbe006a472d29b0e1f5a8c7cec946d42"
+  },
+  {
+    "asset": "UI_EquipIcon_Claymore_GlintstoneClaymore",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/claymore/blade_of_atonement.webp"
+    ],
+    "source": "cached download",
+    "sha256": "b06467ab7e6027a78076adbe2777d8f6594fe228f244b759a0b25c34055179d7"
+  },
+  {
+    "asset": "UI_EquipIcon_Sword_WeaponQuestSnezhnaya",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/sword/exaiphanes_blade.webp"
+    ],
+    "source": "cached download",
+    "sha256": "d253e36036bb0620884c2ab298492fe5b10915fb017ded24b51d79a4488cdbf8"
+  },
+  {
+    "asset": "UI_EquipIcon_Sword_GlintstoneSword",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/sword/emberwell.webp"
+    ],
+    "source": "cached download",
+    "sha256": "ffbed7e95f1256faa4866102fff6f7d368deafb2e38c79700b9bf52b51b68f55"
+  },
+  {
+    "asset": "UI_EquipIcon_Sword_SerpentTooth",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/sword/heretic_s_molten_blade.webp"
+    ],
+    "source": "cached download",
+    "sha256": "2bb28f9484e095e3e607bb061a6245bace63acb2c27c877170c1fc8d90e640bb"
+  },
+  {
+    "asset": "UI_EquipIcon_Sword_Swanlake",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/sword/whitelake_frostfeather.webp"
+    ],
+    "source": "cached download",
+    "sha256": "1b70416e3f78f41b301a204913a3a82199d0dc473f365da3c74802e32d2081b9"
+  },
+  {
+    "asset": "UI_EquipIcon_Claymore_EscapeWheel",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/claymore/forged_by_the_golden_melody.webp"
+    ],
+    "source": "cached download",
+    "sha256": "811afa37e67ab602367a6d7fd53ef6bdb42bcf73f3aff04995f63c6e586a60c0"
+  },
+  {
+    "asset": "UI_EquipIcon_Pole_FaesCrystalle",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/polearm/frostbreath.webp"
+    ],
+    "source": "cached download",
+    "sha256": "61a8b292e6aa93d0c429f91ff0516ca7719c2f7c06937e1818cf4e9db364307b"
+  },
+  {
+    "asset": "UI_EquipIcon_Catalyst_SandMemoria",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/catalyst/clash_of_kings.webp"
+    ],
+    "source": "cached download",
+    "sha256": "f6581a8b3515a7c4b336f41a42aebd3b59bf6b5f1d457d8378297e087bd680bb"
+  },
+  {
+    "asset": "UI_EquipIcon_Bow_ShatteredMirror",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/bow/jade_vista.webp"
+    ],
+    "source": "cached download",
+    "sha256": "7a4ecd9525ed55ed38bd41bd5e1ac4d6472e87871fa6780dd857bcb90600375d"
+  },
+  {
+    "asset": "UI_EquipIcon_Bow_Windtalker",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/bow/breezeborne_refrain.webp"
+    ],
+    "source": "cached download",
+    "sha256": "2bb3e06831bc898c8c7db3e36e31fed95038fcc307083e3cbb0469d2e91daf77"
+  },
+  {
+    "asset": "UI_EquipIcon_Catalyst_FrostScepter",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/catalyst/winter_s_heavy_heart.webp"
+    ],
+    "source": "cached download",
+    "sha256": "12a9590eb3d6ff043f54986a221d0e999b98dbbc634756c766a467e8cf56e12a"
+  },
+  {
+    "asset": "UI_EquipIcon_Sword_Fajian",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/sword/silver_light.webp"
+    ],
+    "source": "cached download",
+    "sha256": "b060c1b4b50ea2b52403ab7f1cb97f627629b76ff60d95a868fceec50493af62"
+  },
+  {
+    "asset": "UI_EquipIcon_Sword_SpikedStake",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/sword/new_bough.webp"
+    ],
+    "source": "cached download",
+    "sha256": "cd6df37d06e50b827f7b6788903d7fa620a73543aa8e9396c504661ddbabd1b5"
+  },
+  {
+    "asset": "UI_EquipIcon_Sword_Samosvist",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/sword/beyond_the_chrysalis.webp"
+    ],
+    "source": "cached download",
+    "sha256": "28913b7f7cb19e5deaee15b2e2e692f74a48f1eac197087a1c569a34371754ec"
+  },
+  {
+    "asset": "UI_EquipIcon_Catalyst_Bludnye",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/catalyst/hymn_of_the_maelstrom.webp"
+    ],
+    "source": "cached download",
+    "sha256": "38a41bc78aedae5cb59288b14e2801202f155a6b68fb7b44441922c74b289e1c"
+  },
+  {
+    "asset": "UI_EquipIcon_Catalyst_Chernaya",
+    "status": "ok",
+    "paths": [
+      "assets/icons/weapons/catalyst/starsealed_edict.webp"
+    ],
+    "source": "cached download",
+    "sha256": "8da278f2e3b9e5ea4ceb08c26a4f5a3bb91cb8151e8a45fbcc87e5afb52f1db5"
+  },
+  {
+    "asset": "UI_RelicIcon_15048_4",
+    "status": "ok",
+    "paths": [
+      "assets/icons/artifacts/heart_of_the_furnace.webp"
+    ],
+    "source": "cached download",
+    "sha256": "500928f2e4dbf4ec0f115e2f1c218de4d862067fe82bb3226a0e537a7f938058"
+  },
+  {
+    "asset": "UI_RelicIcon_15047_4",
+    "status": "ok",
+    "paths": [
+      "assets/icons/artifacts/scarlet_proof.webp"
+    ],
+    "source": "cached download",
+    "sha256": "3244e38716b511ca26af617772035e896adfd175b31a126eca042e7fdffe1c6d"
+  },
+  {
+    "asset": "UI_AvatarIcon_Mitya",
+    "status": "ok",
+    "paths": [
+      "assets/icons/stories/character/mitya.webp"
+    ],
+    "source": "cached download",
+    "sha256": "33e98126637598aa36c91b193d215c5e077d18f42321cda952292e82d9255243"
+  },
+  {
+    "asset": "UI_AvatarIcon_Valeriy",
+    "status": "ok",
+    "paths": [
+      "assets/icons/stories/character/valeriy.webp"
+    ],
+    "source": "cached download",
+    "sha256": "0ed305614cba0f84cc76387e684cbd1c52bab156527cfd8ddf869214a7fe288d"
+  },
+  {
+    "asset": "UI_AvatarIcon_Vodyanitsa",
+    "status": "ok",
+    "paths": [
+      "assets/icons/stories/character/vodyanitsa.webp"
+    ],
+    "source": "cached download",
+    "sha256": "74141bdf988e86629d0e1d0ff68faafb147b9cb29fb3ee575f0895f50467a91b"
+  },
+  {
+    "asset": "UI_AvatarIcon_Vesna",
+    "status": "ok",
+    "paths": [
+      "assets/icons/stories/character/vesna.webp"
+    ],
+    "source": "cached download",
+    "sha256": "9163a64e62310c9a2a705b8f07d650ce66e6c5478ac337bdd11bf35e7690eef7"
+  },
+  {
+    "asset": "UI_AvatarIcon_Alyosha",
+    "status": "ok",
+    "paths": [
+      "assets/icons/stories/character/alyosha.webp"
+    ],
+    "source": "cached download",
+    "sha256": "14ad5ccf9d0c28352449309cf13419fa3329025bfa621c8e6cbccead7b8c059c"
+  },
+  {
+    "asset": "UI_AvatarIcon_Odette",
+    "status": "ok",
+    "paths": [
+      "assets/icons/stories/character/odette.webp"
+    ],
+    "source": "cached download",
+    "sha256": "123a93f3328ba78bff6018c12e374aee4edefb618f0512fafcd26e0496b18243"
+  },
+  {
+    "asset": "UI_MonsterIcon_Chimera_Manticore",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/chimeric_winged_lion.webp"
+    ],
+    "source": "cached download",
+    "sha256": "b2495f117c2c849947a2adb8af8d271f08b48448b704a463601a365c4503e438"
+  },
+  {
+    "asset": "UI_ItemIcon_113091",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/world_bosses/item_113091.webp"
+    ],
+    "source": "cached download",
+    "sha256": "a15ac3ec0b5a9c6da478eacd4017ea5fc56a7a15b1a5a9c063354fda6d2cbbcf"
+  },
+  {
+    "asset": "UI_MonsterIcon_Zharptitsa_02",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/immortal_construct.webp"
+    ],
+    "source": "cached download",
+    "sha256": "658c8b6c8670aeb54063eaa0c55059a0e05464e009ea16f9e7f91feb39f82bee"
+  },
+  {
+    "asset": "UI_ItemIcon_113090",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/world_bosses/item_113090.webp"
+    ],
+    "source": "cached download",
+    "sha256": "2deb5a50b5e94262daa35a55aa2488529b814fb242fcf2675b120044cb0cf509"
+  },
+  {
+    "asset": "UI_MonsterIcon_Snegurochka_Contessa_02",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/guardian_blade_of_drifting_snow.webp"
+    ],
+    "source": "cached download",
+    "sha256": "b570f88d699223e9069cd9a177da34ba8d050b2147ee0620df71667fd179a495"
+  },
+  {
+    "asset": "UI_ItemIcon_113092",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/world_bosses/item_113092.webp"
+    ],
+    "source": "cached download",
+    "sha256": "d613e39336af25ae9ca2cc221e224039f931ce39c16b43e5c75d0e28014ec52e"
+  },
+  {
+    "asset": "UI_MonsterIcon_Volkodlak_Whale",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/wavebinder.webp"
+    ],
+    "source": "cached download",
+    "sha256": "c400d67efd41238765d9e228b90fd8ac711007beb7f24d32cad9f103acd5eebd"
+  },
+  {
+    "asset": "UI_ItemIcon_113093",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/world_bosses/item_113093.webp"
+    ],
+    "source": "cached download",
+    "sha256": "3faed970f1ac364ac922a064fb18893cd58226285d72f01a7eb8e80063cdc91b"
+  },
+  {
+    "asset": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/volkodlak_lobber.webp"
+    ],
+    "source": "cached download",
+    "sha256": "366c9ffe34307cf1c446ef6ee3bbd12d33a62a80247a8fa30a7700f26242fc1c"
+  },
+  {
+    "asset": "UI_MonsterIcon_Chimera_ElephantBird",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/chimeric_winged_elephant.webp"
+    ],
+    "source": "cached download",
+    "sha256": "566451415d4e0539556c8b29acf6fa0a4035949a4bc973008ad372dcec7ac5de"
+  },
+  {
+    "asset": "UI_MonsterIcon_Vukodlak_Strong_Sword",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/volkodlak_basher.webp"
+    ],
+    "source": "cached download",
+    "sha256": "10ee0513462a383dd88e6db410dc89e8b60d7fe5e6ce4ecf1fd425a8312fac4f"
+  },
+  {
+    "asset": "UI_MonsterIcon_Vukodlak_Thin_Sword",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/volkodlak_raider.webp"
+    ],
+    "source": "cached download",
+    "sha256": "0539aa693f1e4ac373aa17d3119e6b02bba3c47faedb1e265a2257d9a28e6012"
+  },
+  {
+    "asset": "UI_MonsterIcon_Chimera_ScorpionChicken",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/chimeric_skorp.webp"
+    ],
+    "source": "cached download",
+    "sha256": "f8ed1aa57596c6262563fdffb2aae688854ed4084ac41e3c9daaf6c15b94b1cc"
+  },
+  {
+    "asset": "UI_MonsterIcon_Volkodlak_Mammoth",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/fanged_zealot.webp"
+    ],
+    "source": "cached download",
+    "sha256": "bf596857e2c15c358e1accb63fa3c8bf373cce05a297f6e1e3e08d726fdb74f2"
+  },
+  {
+    "asset": "UI_MonsterIcon_Human_Female_Staff_Snegurochka",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/glaciomancer.webp"
+    ],
+    "source": "cached download",
+    "sha256": "4be78f637e88b21c0982f4daeaf6eeed3833f4a9ffaed53e3585c566b15338f9"
+  },
+  {
+    "asset": "UI_MonsterIcon_Leshy_Normal_01",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/juvenile_tree_segment.webp"
+    ],
+    "source": "cached download",
+    "sha256": "5a621648917da4efc2eff957afd7ff5c0ab4015fef3c13a893d5ca340cb099f9"
+  },
+  {
+    "asset": "UI_MonsterIcon_Volkodlak_Arctichare",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/long_eared_striker.webp"
+    ],
+    "source": "cached download",
+    "sha256": "5da4ff1f049a474b9093ba87c9b28c0598a30810a4c30f7c2a3178c123fcfa72"
+  },
+  {
+    "asset": "UI_MonsterIcon_Chimera_BeetleLion",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/chimeric_armored_beast.webp"
+    ],
+    "source": "cached download",
+    "sha256": "e3da4f1c3d4a1c98c62f715d209e4b5d2d80dd00d4938042e798dcfd576d4266"
+  },
+  {
+    "asset": "UI_MonsterIcon_Volkodlak_Greyhound",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/voywolf_hunter.webp"
+    ],
+    "source": "cached download",
+    "sha256": "8110d20827ad5933faaaab65e3fec1a4efe64ff11621895749ed4c657d4b1f77"
+  },
+  {
+    "asset": "UI_MonsterIcon_Chimera_BearDeer",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/chimeric_horned_bear.webp"
+    ],
+    "source": "cached download",
+    "sha256": "75b7582323faafe6126d08530b98e306c35d4722e4b1c1bdf2c5ea74be92df50"
+  },
+  {
+    "asset": "UI_MonsterIcon_Human_Girl_Vila_Glaive",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/winged_halberd_knight.webp"
+    ],
+    "source": "cached download",
+    "sha256": "8bfd0bf96154b8409760f34164504ee8cc20884ed35d9b7f04fca28b345c4bfb"
+  },
+  {
+    "asset": "UI_MonsterIcon_Crystalian_01",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/icebound_reflection.webp"
+    ],
+    "source": "cached download",
+    "sha256": "640f61a5ee0355e437fffe9e43ad8a553450adca9f02a86b149d61fbbbee33f8"
+  },
+  {
+    "asset": "UI_MonsterIcon_Volkodlak_Beaver",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/channel_contact.webp"
+    ],
+    "source": "cached download",
+    "sha256": "cd957eab402f5702560ee74160498494c5f55bc696f49b7270cbabceb5dcbe77"
+  },
+  {
+    "asset": "UI_MonsterIcon_Monitor_01",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/precursor_s_secret_source_matrix_of_overseer_network.webp"
+    ],
+    "source": "cached download",
+    "sha256": "1e4047b4c2ec84f9cc270219be8ca5d00b6ec5eb81c80c089b876a939503ff4b"
+  },
+  {
+    "asset": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/winged_soarer_knight.webp"
+    ],
+    "source": "cached download",
+    "sha256": "973229e1f4672326aa66a3c3e80df99be1b840ae0618282a850c41f77f03a7aa"
+  },
+  {
+    "asset": "UI_MonsterIcon_Chimera_CrocodileBoar",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/chimeric_crocohoof.webp"
+    ],
+    "source": "cached download",
+    "sha256": "54cbacbfe89346107e7a361aaf1986d8ac393e6e680e7a335576d5b2a362a218"
+  },
+  {
+    "asset": "UI_MonsterIcon_Snegurochka_Male",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/glacial_warden.webp"
+    ],
+    "source": "cached download",
+    "sha256": "848848d47d444848b31a878e31ba224eca12200562045d4d74212355f230ec8d"
+  },
+  {
+    "asset": "UI_MonsterIcon_Vukodlak_Thin_Pistol",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/volkodlak_sharpshooter.webp"
+    ],
+    "source": "cached download",
+    "sha256": "e3bf318ba2989373ed64abab205bc43ff57d2ebe0ed2272e22d04d41bf1afd2f"
+  },
+  {
+    "asset": "UI_MonsterIcon_Chimera_OwlPangolin",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/chimeric_burrowbeast.webp"
+    ],
+    "source": "cached download",
+    "sha256": "9a758a08fa4e8f6c6cca47e741eb7b599e77e657d45377ab5cec080d1f1a0050"
+  },
+  {
+    "asset": "UI_MonsterIcon_Leshy_Mature_01",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/rugged_elder_leshy.webp"
+    ],
+    "source": "cached download",
+    "sha256": "ee5f319403172945d2029e29f7a34e5edbe03b3f9afd9cf117c5747dd379fb5a"
+  },
+  {
+    "asset": "UI_MonsterIcon_Volkodlak_Sheepdog",
+    "status": "ok",
+    "paths": [
+      "assets/icons/enemies/common_enemies/leomastiff_guard.webp"
+    ],
+    "source": "cached download",
+    "sha256": "b8ab818498d2a3663fd8888ca9278d17e11e05e1a55df277e78d55a7b6d76e30"
+  },
+  {
+    "asset": "UI_ItemIcon_101279",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101279.webp"
+    ],
+    "source": "cached download",
+    "sha256": "52dffc8c7f8530290fd286b207ae2a662e26531b127e27e801f332f1e08fad8b"
+  },
+  {
+    "asset": "UI_ItemIcon_101276",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101276.webp"
+    ],
+    "source": "cached download",
+    "sha256": "87fccf31964c21b3f7b6b72e0eb0781c6aa616b517d0678eac9bc6bf533291f3"
+  },
+  {
+    "asset": "UI_ItemIcon_101277",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101277.webp"
+    ],
+    "source": "cached download",
+    "sha256": "e78498df5e86c07af81dc472b982cb00f3cd9571ab9b14dab6e7c354f268265d"
+  },
+  {
+    "asset": "UI_ItemIcon_131058",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_131058.webp"
+    ],
+    "source": "cached download",
+    "sha256": "4b0f9de92f8f3a5d3224fe664111b772cbb0c8efcccae27b35ce170da6c6e3a4"
+  },
+  {
+    "asset": "UI_ItemIcon_101285",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101285.webp"
+    ],
+    "source": "cached download",
+    "sha256": "f36df990e7499d5e76b742d979739092c41edc19ed1aa07ab4efd0de5c94e629"
+  },
+  {
+    "asset": "UI_ItemIcon_101282",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101282.webp"
+    ],
+    "source": "cached download",
+    "sha256": "c79244f0e55031bb088d8ee17835dcd3a8e69dee81cf81d53226f8e12579d965"
+  },
+  {
+    "asset": "UI_ItemIcon_101278",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101278.webp"
+    ],
+    "source": "cached download",
+    "sha256": "c749dec8535b4d0804eda1cbd9e2ad81f217e7c218b1d1630f83617c8aadf19d"
+  },
+  {
+    "asset": "UI_ItemIcon_101273",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101273.webp"
+    ],
+    "source": "cached download",
+    "sha256": "ba8983e45cbf35d718d27991ee6b59e544e1ff5c6392a0b83bdf7217bbc32c79"
+  },
+  {
+    "asset": "UI_ItemIcon_101280",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101280.webp"
+    ],
+    "source": "cached download",
+    "sha256": "7f92af82feab2bcbc1f84a922c4e99fee06c83b073302ed3d7eb39935aad92a0"
+  },
+  {
+    "asset": "UI_ItemIcon_131059",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_131059.webp"
+    ],
+    "source": "cached download",
+    "sha256": "db4a1efb58d1d6892f6b589e461beb9543fc536112d4d25ab2a4b2b404439f38"
+  },
+  {
+    "asset": "UI_ItemIcon_131056",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_131056.webp"
+    ],
+    "source": "cached download",
+    "sha256": "1ad9f17758294eb021055b2411e16d127dfb62dd12ee567d732c1909f1eb82fa"
+  },
+  {
+    "asset": "UI_ItemIcon_110017",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_110017.webp"
+    ],
+    "source": "cached download",
+    "sha256": "385e3abe480ea1ef24bef0d1f1eddc1c977923d183c5cc8e16c07f4d7139b38b"
+  },
+  {
+    "asset": "UI_ItemIcon_101270",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101270.webp"
+    ],
+    "source": "cached download",
+    "sha256": "255f8b5f9b72c84251eaa68a56237e60de3ab5663de8533f5fd9f29b3f1925b5"
+  },
+  {
+    "asset": "UI_ItemIcon_101274",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101274.webp"
+    ],
+    "source": "cached download",
+    "sha256": "9d970c45807972bc9e9a5ad034467ac3c6a4fa1084368db89f5ff276eac8874e"
+  },
+  {
+    "asset": "UI_ItemIcon_131057",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_131057.webp"
+    ],
+    "source": "cached download",
+    "sha256": "0cc1bc422ce4d67284c9b445f76bd6fe4e5e25e0b83facf55cf4eb7400557936"
+  },
+  {
+    "asset": "UI_ItemIcon_131055",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_131055.webp"
+    ],
+    "source": "cached download",
+    "sha256": "c4b433ff20a406ef84b6c94938cf69f7a4b65942bbefffb75047e26737c3cec9"
+  },
+  {
+    "asset": "UI_ItemIcon_131054",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_131054.webp"
+    ],
+    "source": "cached download",
+    "sha256": "4e492401512779321a9b9852eb9e4285267da6495e9cc79c61ccaffd259c8434"
+  },
+  {
+    "asset": "UI_ItemIcon_101281",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101281.webp"
+    ],
+    "source": "cached download",
+    "sha256": "cd7fadf16556bc8bde9ec41b316942cd3bb1a91af444c7bba8ac9853bbd21b9e"
+  },
+  {
+    "asset": "UI_ItemIcon_101275",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/teyvat_resources/item_101275.webp"
+    ],
+    "source": "cached download",
+    "sha256": "96cd07f9ae2ae8a72146f8bffae806893079af12bae7a4696292f5d37fa45d9c"
+  },
+  {
+    "asset": "UI_ItemIcon_112146",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112146.webp"
+    ],
+    "source": "cached download",
+    "sha256": "8310db4c34a929d7a55f4ae6ce705bb6e7ffb270255fd788fe998780f8b48580"
+  },
+  {
+    "asset": "UI_ItemIcon_112147",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112147.webp"
+    ],
+    "source": "cached download",
+    "sha256": "bb3945ac0895cd8d4344cfbbb8a21b2495e35b7a3bccaa5bf11f522f7a918eba"
+  },
+  {
+    "asset": "UI_ItemIcon_112148",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112148.webp"
+    ],
+    "source": "cached download",
+    "sha256": "8ae758ac5301ef0a23cfb92c8ff0632aaa61428395e85aeb5a8bd7c659f68a29"
+  },
+  {
+    "asset": "UI_ItemIcon_112152",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112152.webp"
+    ],
+    "source": "cached download",
+    "sha256": "715b706d3e73a0a21571adb74e2efe12d32e8b87b64da738113ac7b54e175834"
+  },
+  {
+    "asset": "UI_ItemIcon_112153",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112153.webp"
+    ],
+    "source": "cached download",
+    "sha256": "c76375ecabfe8d43f9bbb4913ce4610d4b15a367fca28b30188f4cc6285489da"
+  },
+  {
+    "asset": "UI_ItemIcon_112154",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112154.webp"
+    ],
+    "source": "cached download",
+    "sha256": "1b697d2c931a156f690baaa61af515c4823abf397f6ea54a050f29016695f9f0"
+  },
+  {
+    "asset": "UI_ItemIcon_112143",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112143.webp"
+    ],
+    "source": "cached download",
+    "sha256": "238206425c891aff8b302b4dc66144507ed3b9ea7b47e48871642628d9c60f4f"
+  },
+  {
+    "asset": "UI_ItemIcon_112144",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112144.webp"
+    ],
+    "source": "cached download",
+    "sha256": "d773cb6a1bdca4509584ce244d370a0b31cf194ca9a2835b604772ce95c197bc"
+  },
+  {
+    "asset": "UI_ItemIcon_112145",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112145.webp"
+    ],
+    "source": "cached download",
+    "sha256": "d8a69e29da5be273db7e9508487dd466df2ace3c8140a082fcc47ad10383feff"
+  },
+  {
+    "asset": "UI_ItemIcon_112158",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112158.webp"
+    ],
+    "source": "cached download",
+    "sha256": "ecfd0b242ae4d0643f477e4c482d7c40ed7c8bdc15661f2d00e690a97a11ff75"
+  },
+  {
+    "asset": "UI_ItemIcon_112159",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112159.webp"
+    ],
+    "source": "cached download",
+    "sha256": "b4e7d65badd0cae86dec1955a459137b0c01ad43b5a6eb704298f58cfa2b0d7e"
+  },
+  {
+    "asset": "UI_ItemIcon_112160",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112160.webp"
+    ],
+    "source": "cached download",
+    "sha256": "f2caa0b2f6558f6e0c96685abffc274100825ddb01ab78718ac7444f7541814e"
+  },
+  {
+    "asset": "UI_ItemIcon_112149",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112149.webp"
+    ],
+    "source": "cached download",
+    "sha256": "c87e515768eec2e7c32dcd29c2d518d5f270f1d72af941607b8784e997d9b610"
+  },
+  {
+    "asset": "UI_ItemIcon_112150",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112150.webp"
+    ],
+    "source": "cached download",
+    "sha256": "3eba868f2bd76e09a9a66c419fb2d2238df08166c3f2c8c224c517358fcd2932"
+  },
+  {
+    "asset": "UI_ItemIcon_112151",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112151.webp"
+    ],
+    "source": "cached download",
+    "sha256": "e1a32e0f7cd1f0cadf822235db3e6bdd26288373e7b54f09982793f18a91b3d8"
+  },
+  {
+    "asset": "UI_ItemIcon_112155",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112155.webp"
+    ],
+    "source": "cached download",
+    "sha256": "0e1a7ce657ceb06af3286c9c0572bf353091b45da3d9389eacf21d9ca212513b"
+  },
+  {
+    "asset": "UI_ItemIcon_112156",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112156.webp"
+    ],
+    "source": "cached download",
+    "sha256": "ae1b99aab527f7a46d6c9561f272ee379336beaba0b4e93ed86a9df4f4d50423"
+  },
+  {
+    "asset": "UI_ItemIcon_112157",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/common_enemies/item_112157.webp"
+    ],
+    "source": "cached download",
+    "sha256": "59aad36d458fe9ed8c883740a76acee542f9bf786e779fa1f32b19347c26dd2a"
+  },
+  {
+    "asset": "UI_ItemIcon_114089",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114089.webp"
+    ],
+    "source": "cached download",
+    "sha256": "508f03d00defc86ed7baf0c8b8b264c545b738eb77dde075df24f03311438700"
+  },
+  {
+    "asset": "UI_ItemIcon_114090",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114090.webp"
+    ],
+    "source": "cached download",
+    "sha256": "d80dddbb692a0b53534536cb76b8dd1ddf507b854b45fd590e8da5b8044a38e4"
+  },
+  {
+    "asset": "UI_ItemIcon_114091",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114091.webp"
+    ],
+    "source": "cached download",
+    "sha256": "8f34a0a03a1df090bc9ce1f85f9c7a4f14ab29272faab8e0ec0b1ffaf76737fc"
+  },
+  {
+    "asset": "UI_ItemIcon_114092",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114092.webp"
+    ],
+    "source": "cached download",
+    "sha256": "7f06cb02bbfce7f754325af1103a7d52eb096f7028aa7423d378ae8d19e7a549"
+  },
+  {
+    "asset": "UI_ItemIcon_104371",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104371.webp"
+    ],
+    "source": "cached download",
+    "sha256": "4e9a93805183d3f20dbed47fc5b1acff2cfbc5fcf5d458b5ae856f00d8d3eb6a"
+  },
+  {
+    "asset": "UI_ItemIcon_104372",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104372.webp"
+    ],
+    "source": "cached download",
+    "sha256": "ad8b25700d2cd0999da998564a41e5d6221c8f5244e262297bf79ac17aceffac"
+  },
+  {
+    "asset": "UI_ItemIcon_104373",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104373.webp"
+    ],
+    "source": "cached download",
+    "sha256": "334d8ff8d57df06457d89344675ac038704205af42d6671b54bd04241f8ad9e4"
+  },
+  {
+    "asset": "UI_ItemIcon_104368",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104368.webp"
+    ],
+    "source": "cached download",
+    "sha256": "dba90391a2dfbe0e7a017d760564147e860f8e4604b83f31d9b4fbfb075afb59"
+  },
+  {
+    "asset": "UI_ItemIcon_104369",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104369.webp"
+    ],
+    "source": "cached download",
+    "sha256": "2f0f026dd09b2c9e8ef5af3418c4edd9e26147dabf2eaab2461a637d04939856"
+  },
+  {
+    "asset": "UI_ItemIcon_104370",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104370.webp"
+    ],
+    "source": "cached download",
+    "sha256": "27e6d841ed599203438c52357c7995ddbed0f0399fc134a0d1627aa680c73ba8"
+  },
+  {
+    "asset": "UI_ItemIcon_114093",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114093.webp"
+    ],
+    "source": "cached download",
+    "sha256": "b8ae19d80d0a198c2a5d5cb63372ad5ef58ec63b9b83e38699d454223fbe7ca6"
+  },
+  {
+    "asset": "UI_ItemIcon_114094",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114094.webp"
+    ],
+    "source": "cached download",
+    "sha256": "fd584315ec743bdbdc2399050984f90fe3a6cd5edcb6593ff312f72604a0d99e"
+  },
+  {
+    "asset": "UI_ItemIcon_114095",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114095.webp"
+    ],
+    "source": "cached download",
+    "sha256": "6c43c43a0a7d0ec673ab415c6c9fa0baecd06ccb369a53537cdb63b8f7ed4536"
+  },
+  {
+    "asset": "UI_ItemIcon_114096",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114096.webp"
+    ],
+    "source": "cached download",
+    "sha256": "e1e5de1b9ff2986084a435606dc8ac7fbb782050439e2d7ab0a37d795ae91bdf"
+  },
+  {
+    "asset": "UI_ItemIcon_114085",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114085.webp"
+    ],
+    "source": "cached download",
+    "sha256": "756faea199ad96101a6bee91e46f2af8f15ccb8766239a62033ff8d08e82e456"
+  },
+  {
+    "asset": "UI_ItemIcon_114086",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114086.webp"
+    ],
+    "source": "cached download",
+    "sha256": "f9c634fc91f5f6b771ea5b294935e0f55532efc0add1e8ee9006dfb753183a42"
+  },
+  {
+    "asset": "UI_ItemIcon_114087",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114087.webp"
+    ],
+    "source": "cached download",
+    "sha256": "078353aecaecc13aca22c0a66998c3fbd50f5d5d382e50075ae32bf7c250a27c"
+  },
+  {
+    "asset": "UI_ItemIcon_114088",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_114088.webp"
+    ],
+    "source": "cached download",
+    "sha256": "1322d498d35cb5ecf0b216f4a9aa9b614409e6adb068810d77da1d8b8986def7"
+  },
+  {
+    "asset": "UI_ItemIcon_104365",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104365.webp"
+    ],
+    "source": "cached download",
+    "sha256": "d1a11e54561b00bd97a1eeced1a4bec8b30f3b3544af1e08238616cfa6a8edf6"
+  },
+  {
+    "asset": "UI_ItemIcon_104366",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104366.webp"
+    ],
+    "source": "cached download",
+    "sha256": "4b06cbc97aadb5689f4c4326dd847764aa3c5db02189972c42c6060a4d77b28c"
+  },
+  {
+    "asset": "UI_ItemIcon_104367",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_104367.webp"
+    ],
+    "source": "cached download",
+    "sha256": "a85db4a00b53172ead0ebd6ef40bf3384983cd0abc7a3e20ab090458ef953a31"
+  },
+  {
+    "asset": "UI_ItemIcon_200129",
+    "status": "ok",
+    "paths": [
+      "assets/icons/items/development_materials/item_200129.webp"
+    ],
+    "source": "cached download",
+    "sha256": "0427e1985b63491f567f030222f4053cc7047f7fe75646e785a2b06e22c3ba15"
+  },
+  {
+    "asset": "UI_ChapterIcon_Snezhnaya",
+    "status": "ok",
+    "paths": [
+      "assets/icons/stories/quests/quest_aq_1700.webp"
+    ],
+    "source": "https://static.wikia.nocookie.net/gensin-impact (native Emblem_Snezhnaya.png)",
+    "sha256": "5b8b2b63025021013e5b5faa5cb16e51492b767234cc70eeffe632c48656550d"
+  }
+]

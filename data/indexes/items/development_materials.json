@@ -1530,6 +1530,46 @@
     "search_text": "учения об «остроумии» / указания об «остроумии» / философия об «остроумии» ingenuity talent books 「巧思」的教导 / 「巧思」的指引 / 「巧思」的哲学 сумеру 3.0 development_materials material_set talents таланты 天赋 ingenuity материалы развития teachings_of_ingenuity guide_to_ingenuity philosophies_of_ingenuity учения об «остроумии» teachings of ingenuity 「巧思」的教导 указания об «остроумии» guide to ingenuity 「巧思」的指引 философия об «остроумии» philosophies of ingenuity 「巧思」的哲学"
   },
   {
+    "id": "item_200129",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_200129.webp",
+    "title": {
+      "ru": "Кисточка с ароматом чая",
+      "en": "Tea-Scented Tassel",
+      "zh": "青翦垂缨"
+    },
+    "region": "Снежная",
+    "game_version": "7.1",
+    "item_group": "development_materials",
+    "entry_type": "item",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "weapon_ascension",
+    "material_type_title": {
+      "ru": "Возвышение оружия",
+      "en": "Weapon Ascension",
+      "zh": "武器突破"
+    },
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "weapon_ascension",
+    "sort_version": 7001000,
+    "search_text": "кисточка с ароматом чая tea-scented tassel 青翦垂缨 снежная 4 7.1 development_materials item weapon_ascension возвышение оружия weapon ascension 武器突破"
+  },
+  {
     "id": "justice_talent_books",
     "category": "items",
     "icon": "assets/icons/items/development_materials/teachings_of_justice.webp",
@@ -1825,6 +1865,453 @@
     "filter_type": "weapon_ascension",
     "sort_version": 2000000,
     "search_text": "маска злого военачальника / маска тигриной пасти / маска однорогого / маска кидзин mask of the weapon ascension materials 今昔剧画之恶尉 / 今昔剧画之虎啮 / 今昔剧画之一角 / 今昔剧画之鬼人 инадзума 2.0 development_materials material_set weapon_ascension возвышение оружия weapon ascension 武器突破 mask of the материалы развития mask_of_the_wicked_lieutenant mask_of_the_tigers_bite mask_of_the_one_horned mask_of_the_kijin маска злого военачальника mask of the wicked lieutenant 今昔剧画之恶尉 маска тигриной пасти mask of the tiger's bite 今昔剧画之虎啮 маска однорогого mask of the one-horned 今昔剧画之一角 маска кидзин mask of the kijin 今昔剧画之鬼人"
+  },
+  {
+    "id": "material_set_104365",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_104365.webp",
+    "title": {
+      "ru": "Учения о «Милосердии» / Указания о «Милосердии» / Философия о «Милосердии»",
+      "en": "Teachings of Charity / Guide to Charity / Philosophies of Charity",
+      "zh": "「慈爱」的教导 / 「慈爱」的指引 / 「慈爱」的哲学"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "talents",
+    "material_type_title": {
+      "ru": "Таланты",
+      "en": "Talents",
+      "zh": "天赋"
+    },
+    "materials": [
+      {
+        "key": "material_104365",
+        "title": {
+          "ru": "Учения о «Милосердии»",
+          "en": "Teachings of Charity",
+          "zh": "「慈爱」的教导"
+        },
+        "icon": "assets/icons/items/development_materials/item_104365.webp"
+      },
+      {
+        "key": "material_104366",
+        "title": {
+          "ru": "Указания о «Милосердии»",
+          "en": "Guide to Charity",
+          "zh": "「慈爱」的指引"
+        },
+        "icon": "assets/icons/items/development_materials/item_104366.webp"
+      },
+      {
+        "key": "material_104367",
+        "title": {
+          "ru": "Философия о «Милосердии»",
+          "en": "Philosophies of Charity",
+          "zh": "「慈爱」的哲学"
+        },
+        "icon": "assets/icons/items/development_materials/item_104367.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "talents",
+    "sort_version": 7000000,
+    "search_text": "учения о «милосердии» / указания о «милосердии» / философия о «милосердии» teachings of charity / guide to charity / philosophies of charity 「慈爱」的教导 / 「慈爱」的指引 / 「慈爱」的哲学 снежная 7.0 development_materials material_set talents таланты 天赋 материалы material_104365 material_104366 material_104367 учения о «милосердии» teachings of charity 「慈爱」的教导 указания о «милосердии» guide to charity 「慈爱」的指引 философия о «милосердии» philosophies of charity 「慈爱」的哲学"
+  },
+  {
+    "id": "material_set_104368",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_104368.webp",
+    "title": {
+      "ru": "Учения о «Стойкости» / Указания о «Стойкости» / Философия о «Стойкости»",
+      "en": "Teachings of Fortitude / Guide to Fortitude / Philosophies of Fortitude",
+      "zh": "「坚忍」的教导 / 「坚忍」的指引 / 「坚忍」的哲学"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "talents",
+    "material_type_title": {
+      "ru": "Таланты",
+      "en": "Talents",
+      "zh": "天赋"
+    },
+    "materials": [
+      {
+        "key": "material_104368",
+        "title": {
+          "ru": "Учения о «Стойкости»",
+          "en": "Teachings of Fortitude",
+          "zh": "「坚忍」的教导"
+        },
+        "icon": "assets/icons/items/development_materials/item_104368.webp"
+      },
+      {
+        "key": "material_104369",
+        "title": {
+          "ru": "Указания о «Стойкости»",
+          "en": "Guide to Fortitude",
+          "zh": "「坚忍」的指引"
+        },
+        "icon": "assets/icons/items/development_materials/item_104369.webp"
+      },
+      {
+        "key": "material_104370",
+        "title": {
+          "ru": "Философия о «Стойкости»",
+          "en": "Philosophies of Fortitude",
+          "zh": "「坚忍」的哲学"
+        },
+        "icon": "assets/icons/items/development_materials/item_104370.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "talents",
+    "sort_version": 7000000,
+    "search_text": "учения о «стойкости» / указания о «стойкости» / философия о «стойкости» teachings of fortitude / guide to fortitude / philosophies of fortitude 「坚忍」的教导 / 「坚忍」的指引 / 「坚忍」的哲学 снежная 7.0 development_materials material_set talents таланты 天赋 материалы material_104368 material_104369 material_104370 учения о «стойкости» teachings of fortitude 「坚忍」的教导 указания о «стойкости» guide to fortitude 「坚忍」的指引 философия о «стойкости» philosophies of fortitude 「坚忍」的哲学"
+  },
+  {
+    "id": "material_set_104371",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_104371.webp",
+    "title": {
+      "ru": "Учения о «Славе» / Указания о «Славе» / Философия о «Славе»",
+      "en": "Teachings of Glory / Guide to Glory / Philosophies of Glory",
+      "zh": "「荣光」的教导 / 「荣光」的指引 / 「荣光」的哲学"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "talents",
+    "material_type_title": {
+      "ru": "Таланты",
+      "en": "Talents",
+      "zh": "天赋"
+    },
+    "materials": [
+      {
+        "key": "material_104371",
+        "title": {
+          "ru": "Учения о «Славе»",
+          "en": "Teachings of Glory",
+          "zh": "「荣光」的教导"
+        },
+        "icon": "assets/icons/items/development_materials/item_104371.webp"
+      },
+      {
+        "key": "material_104372",
+        "title": {
+          "ru": "Указания о «Славе»",
+          "en": "Guide to Glory",
+          "zh": "「荣光」的指引"
+        },
+        "icon": "assets/icons/items/development_materials/item_104372.webp"
+      },
+      {
+        "key": "material_104373",
+        "title": {
+          "ru": "Философия о «Славе»",
+          "en": "Philosophies of Glory",
+          "zh": "「荣光」的哲学"
+        },
+        "icon": "assets/icons/items/development_materials/item_104373.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "talents",
+    "sort_version": 7000000,
+    "search_text": "учения о «славе» / указания о «славе» / философия о «славе» teachings of glory / guide to glory / philosophies of glory 「荣光」的教导 / 「荣光」的指引 / 「荣光」的哲学 снежная 7.0 development_materials material_set talents таланты 天赋 материалы material_104371 material_104372 material_104373 учения о «славе» teachings of glory 「荣光」的教导 указания о «славе» guide to glory 「荣光」的指引 философия о «славе» philosophies of glory 「荣光」的哲学"
+  },
+  {
+    "id": "material_set_114085",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_114085.webp",
+    "title": {
+      "ru": "Восхождение армии Бледной звезды / Сбор армии Бледной звезды / Боевой клич армии Бледной звезды / Триумф армии Бледной звезды",
+      "en": "Rise of the Pale Star Army / Muster of the Pale Star Army / Clarion of the Pale Star Army / Triumph of the Pale Star Army",
+      "zh": "苍星军势的始动 / 苍星军势的集结 / 苍星军势的鸣令 / 苍星军势的征服"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "weapon_ascension",
+    "material_type_title": {
+      "ru": "Возвышение оружия",
+      "en": "Weapon Ascension",
+      "zh": "武器突破"
+    },
+    "materials": [
+      {
+        "key": "material_114085",
+        "title": {
+          "ru": "Восхождение армии Бледной звезды",
+          "en": "Rise of the Pale Star Army",
+          "zh": "苍星军势的始动"
+        },
+        "icon": "assets/icons/items/development_materials/item_114085.webp"
+      },
+      {
+        "key": "material_114086",
+        "title": {
+          "ru": "Сбор армии Бледной звезды",
+          "en": "Muster of the Pale Star Army",
+          "zh": "苍星军势的集结"
+        },
+        "icon": "assets/icons/items/development_materials/item_114086.webp"
+      },
+      {
+        "key": "material_114087",
+        "title": {
+          "ru": "Боевой клич армии Бледной звезды",
+          "en": "Clarion of the Pale Star Army",
+          "zh": "苍星军势的鸣令"
+        },
+        "icon": "assets/icons/items/development_materials/item_114087.webp"
+      },
+      {
+        "key": "material_114088",
+        "title": {
+          "ru": "Триумф армии Бледной звезды",
+          "en": "Triumph of the Pale Star Army",
+          "zh": "苍星军势的征服"
+        },
+        "icon": "assets/icons/items/development_materials/item_114088.webp"
+      }
+    ],
+    "material_count": 4,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "weapon_ascension",
+    "sort_version": 7000000,
+    "search_text": "восхождение армии бледной звезды / сбор армии бледной звезды / боевой клич армии бледной звезды / триумф армии бледной звезды rise of the pale star army / muster of the pale star army / clarion of the pale star army / triumph of the pale star army 苍星军势的始动 / 苍星军势的集结 / 苍星军势的鸣令 / 苍星军势的征服 снежная 7.0 development_materials material_set weapon_ascension возвышение оружия weapon ascension 武器突破 материалы material_114085 material_114086 material_114087 material_114088 восхождение армии бледной звезды rise of the pale star army 苍星军势的始动 сбор армии бледной звезды muster of the pale star army 苍星军势的集结 боевой клич армии бледной звезды clarion of the pale star army 苍星军势的鸣令 триумф армии бледной звезды triumph of the pale star army 苍星军势的征服"
+  },
+  {
+    "id": "material_set_114089",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_114089.webp",
+    "title": {
+      "ru": "Порция выдержанного духовного нектара / Хмель выдержанного духовного нектара / Упоение выдержанным духовным нектаром / Пир выдержанного духовного нектара",
+      "en": "Measured Pour of the Cellared Spiritual Nectar / Intoxication of the Cellared Spiritual Nectar / Exhilaration of the Cellared Spiritual Nectar / Revelry of the Cellared Spiritual Nectar",
+      "zh": "藏窖灵浆的斟酌 / 藏窖灵浆的酩酊 / 藏窖灵浆的酣畅 / 藏窖灵浆的恣意"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "weapon_ascension",
+    "material_type_title": {
+      "ru": "Возвышение оружия",
+      "en": "Weapon Ascension",
+      "zh": "武器突破"
+    },
+    "materials": [
+      {
+        "key": "material_114089",
+        "title": {
+          "ru": "Порция выдержанного духовного нектара",
+          "en": "Measured Pour of the Cellared Spiritual Nectar",
+          "zh": "藏窖灵浆的斟酌"
+        },
+        "icon": "assets/icons/items/development_materials/item_114089.webp"
+      },
+      {
+        "key": "material_114090",
+        "title": {
+          "ru": "Хмель выдержанного духовного нектара",
+          "en": "Intoxication of the Cellared Spiritual Nectar",
+          "zh": "藏窖灵浆的酩酊"
+        },
+        "icon": "assets/icons/items/development_materials/item_114090.webp"
+      },
+      {
+        "key": "material_114091",
+        "title": {
+          "ru": "Упоение выдержанным духовным нектаром",
+          "en": "Exhilaration of the Cellared Spiritual Nectar",
+          "zh": "藏窖灵浆的酣畅"
+        },
+        "icon": "assets/icons/items/development_materials/item_114091.webp"
+      },
+      {
+        "key": "material_114092",
+        "title": {
+          "ru": "Пир выдержанного духовного нектара",
+          "en": "Revelry of the Cellared Spiritual Nectar",
+          "zh": "藏窖灵浆的恣意"
+        },
+        "icon": "assets/icons/items/development_materials/item_114092.webp"
+      }
+    ],
+    "material_count": 4,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "weapon_ascension",
+    "sort_version": 7000000,
+    "search_text": "порция выдержанного духовного нектара / хмель выдержанного духовного нектара / упоение выдержанным духовным нектаром / пир выдержанного духовного нектара measured pour of the cellared spiritual nectar / intoxication of the cellared spiritual nectar / exhilaration of the cellared spiritual nectar / revelry of the cellared spiritual nectar 藏窖灵浆的斟酌 / 藏窖灵浆的酩酊 / 藏窖灵浆的酣畅 / 藏窖灵浆的恣意 снежная 7.0 development_materials material_set weapon_ascension возвышение оружия weapon ascension 武器突破 материалы material_114089 material_114090 material_114091 material_114092 порция выдержанного духовного нектара measured pour of the cellared spiritual nectar 藏窖灵浆的斟酌 хмель выдержанного духовного нектара intoxication of the cellared spiritual nectar 藏窖灵浆的酩酊 упоение выдержанным духовным нектаром exhilaration of the cellared spiritual nectar 藏窖灵浆的酣畅 пир выдержанного духовного нектара revelry of the cellared spiritual nectar 藏窖灵浆的恣意"
+  },
+  {
+    "id": "material_set_114093",
+    "category": "items",
+    "icon": "assets/icons/items/development_materials/item_114093.webp",
+    "title": {
+      "ru": "Возрождение снежного императора / Церемония снежного императора / Скорбь снежного императора / Прощание снежного императора",
+      "en": "The Frost Emperor's Revival / The Frost Emperor's Ceremony / The Frost Emperor's Lament / The Frost Emperor's Farewell",
+      "zh": "凛雪帝皇的复生 / 凛雪帝皇的庆仪 / 凛雪帝皇的悲恤 / 凛雪帝皇的辞决"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "weapon_ascension",
+    "material_type_title": {
+      "ru": "Возвышение оружия",
+      "en": "Weapon Ascension",
+      "zh": "武器突破"
+    },
+    "materials": [
+      {
+        "key": "material_114093",
+        "title": {
+          "ru": "Возрождение снежного императора",
+          "en": "The Frost Emperor's Revival",
+          "zh": "凛雪帝皇的复生"
+        },
+        "icon": "assets/icons/items/development_materials/item_114093.webp"
+      },
+      {
+        "key": "material_114094",
+        "title": {
+          "ru": "Церемония снежного императора",
+          "en": "The Frost Emperor's Ceremony",
+          "zh": "凛雪帝皇的庆仪"
+        },
+        "icon": "assets/icons/items/development_materials/item_114094.webp"
+      },
+      {
+        "key": "material_114095",
+        "title": {
+          "ru": "Скорбь снежного императора",
+          "en": "The Frost Emperor's Lament",
+          "zh": "凛雪帝皇的悲恤"
+        },
+        "icon": "assets/icons/items/development_materials/item_114095.webp"
+      },
+      {
+        "key": "material_114096",
+        "title": {
+          "ru": "Прощание снежного императора",
+          "en": "The Frost Emperor's Farewell",
+          "zh": "凛雪帝皇的辞决"
+        },
+        "icon": "assets/icons/items/development_materials/item_114096.webp"
+      }
+    ],
+    "material_count": 4,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "материалы"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "weapon_ascension",
+    "sort_version": 7000000,
+    "search_text": "возрождение снежного императора / церемония снежного императора / скорбь снежного императора / прощание снежного императора the frost emperor's revival / the frost emperor's ceremony / the frost emperor's lament / the frost emperor's farewell 凛雪帝皇的复生 / 凛雪帝皇的庆仪 / 凛雪帝皇的悲恤 / 凛雪帝皇的辞决 снежная 7.0 development_materials material_set weapon_ascension возвышение оружия weapon ascension 武器突破 материалы material_114093 material_114094 material_114095 material_114096 возрождение снежного императора the frost emperor's revival 凛雪帝皇的复生 церемония снежного императора the frost emperor's ceremony 凛雪帝皇的庆仪 скорбь снежного императора the frost emperor's lament 凛雪帝皇的悲恤 прощание снежного императора the frost emperor's farewell 凛雪帝皇的辞决"
   },
   {
     "id": "moonlight_talent_books",

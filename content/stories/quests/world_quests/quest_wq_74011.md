@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 74011
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74011
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 74011
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,70 +28,83 @@
 
 Вы решили помочь Канотиле раскрыть тайну загадочной книги...
 
-
 **Паймон:** Эй, что ты делаешь под водопадом? Собираешься душ принять?
 
 **Паймон:** Ну, тогда не будем тебе мешать...
 
-**Канотила:** Какой ещё душ? Я обдумываю важные вопросы. Если тебе так интересно... считай, что я медитирую.
+**???:** Какой ещё душ? Я обдумываю важные вопросы. Если тебе так интересно... считай, что я медитирую.
 
-**Канотила:** Не явись ты сюда и не прерви ход моих мыслей, возможно, я бы уже что-то придумала.
+**???:** Не явись ты сюда и не прерви ход моих мыслей, возможно, я бы уже что-то придумала.
+
+##### Вариант ответа 1
 
 - **Путешественник:** Медитируешь...
 
+**???:** Я читала, что медитация помогает найти ответ, когда в жизни происходит что-то непонятное. Я ведь права?
+
+##### Вариант ответа 2
+
 - **Путешественник:** Извини, пожалуйста...
 
-**Канотила:** Я читала, что медитация помогает найти ответ, когда в жизни происходит что-то непонятное. Я ведь права?
+##### Общее продолжение
 
-**Канотила:** Итак... очень странный человек и разноцветный воздушный шарик. Судя по вашему облику, вы не из деревни?
+**???:** Итак... очень странный человек и разноцветный воздушный шарик. Судя по вашему облику, вы не из деревни?
 
 **Паймон:** Да! Паймон зовут Паймон, а это Путешественник... Так, подожди... Мы и правда не из деревни, но кого ты назвала разноцветным воздушным шариком?
 
-**Канотила:** Да, ведь вы видите всё иначе... Чуть не забыла...
+**???:** Да, ведь вы видите всё иначе... Чуть не забыла...
 
-**Канотила:** Дай-ка подумать... Путешественник, на что, по-твоему, похожа Паймон?
+**???:** Дай-ка подумать... Путешественник, на что, по-твоему, похожа Паймон?
+
+##### Вариант ответа 1
 
 - **Путешественник:** На белое привидение.
 
-- **Путешественник:** На живую консерву.
-
-- **Путешественник:** Паймон - это Паймон.
-
 **Паймон:** Стоп! «Привидение» - это ведь обзывательство?
+
+##### Вариант ответа 2
+
+- **Путешественник:** На живую консерву.
 
 **Паймон:** Вот и нет!
 
-**Паймон:** Эм... Верно, но ты не ответил(а) на вопрос.
+##### Вариант ответа 3
 
-**Канотила:** Ха-ха, как интересно. Но для меня Паймон похожа на радужный воздушный шарик, парящий в воздухе. А веревочка, к которой привязан шарик, уходит наверх, выше неба...
+- **Путешественник:** Паймон - это Паймон.
+
+**Паймон:** Эм... Верно, но ты не ответил на вопрос. / Эм... Верно, но ты не ответила на вопрос.
+
+##### Общее продолжение
+
+**???:** Ха-ха, как интересно. Но для меня Паймон похожа на радужный воздушный шарик, парящий в воздухе. А веревочка, к которой привязан шарик, уходит наверх, выше неба...
 
 **Паймон:** Что? Ты серьёзно?
 
-**Канотила:** Да... Паймон, а как, по-твоему, выглядит Путешественник?
+**???:** Да... Паймон, а как, по-твоему, выглядит Путешественник?
 
-**Паймон:** Эм... как белокурый друг / белокурая подруга Паймон, с которым / рой мы вместе путешествуем! А как ещё? Неужели ты видишь что-то другое?
+**Паймон:** Эм... как белокурый друг Паймон, с которым мы вместе путешествуем! А как ещё? Неужели ты видишь что-то другое? / Эм... как белокурая подруга Паймон, с которой мы вместе путешествуем! А как ещё? Неужели ты видишь что-то другое?
 
-**Канотила:** Что я вижу... Если тебе так интересно, я вижу монстра, способного разом проглотить целый мир.
+**???:** Что я вижу... Если тебе так интересно, я вижу монстра, способного разом проглотить целый мир.
 
 **Паймон:** Ой, какой ужас! Ты серьёзно?
 
-**Канотила:** Конечно, серьёзно! Наверное, вы уже знаете, что мелюзины видят многое из того, что скрыто от людских глаз...
+**???:** Конечно, серьёзно! Наверное, вы уже знаете, что мелюзины видят многое из того, что скрыто от людских глаз...
 
-**Канотила:** Но почему-то моё зрение устроено несколько иначе, чем у других мелюзин. Я вижу вещи, скрытые от взора всех остальных.
+**???:** Но почему-то моё зрение устроено несколько иначе, чем у других мелюзин. Я вижу вещи, скрытые от взора всех остальных.
 
-**Канотила:** В книгах сказано, что каждая вещь скрывает в себе свою «суть». А от этой «сути» зависит будущее вещи. Но я плохо понимаю, что это значит...
+**???:** В книгах сказано, что каждая вещь скрывает в себе свою «суть». А от этой «сути» зависит будущее вещи. Но я плохо понимаю, что это значит...
 
 **Паймон:** А как ты тогда поняла, что мы не местные?
 
-**Канотила:** Ну... Наша оптика отличается, и тем не менее всё увиденное мы раскладываем в уме по одинаковым категориям.
+**???:** Ну... Наша оптика отличается, и тем не менее всё увиденное мы раскладываем в уме по одинаковым категориям.
 
-**Канотила:** Например, ты безошибочно определишь, что цветок - это цветок, какого бы цвета он ни был.
+**???:** Например, ты безошибочно определишь, что цветок - это цветок, какого бы цвета он ни был.
 
-**Канотила:** В результате длительного взаимодействия с людьми я тоже начала понимать ваши «категории» и научилась подстраиваться под вас.
+**???:** В результате длительного взаимодействия с людьми я тоже начала понимать ваши «категории» и научилась подстраиваться под вас.
 
-**Канотила:** Но вы показались мне очень необычными, поэтому я сразу не смогла подобрать подходящую для вас «категорию»...
+**???:** Но вы показались мне очень необычными, поэтому я сразу не смогла подобрать подходящую для вас «категорию»...
 
-**Канотила:** Похоже, мне предстоит ещё многому научиться...
+**???:** Похоже, мне предстоит ещё многому научиться...
 
 **Паймон:** Ой, Паймон почти ничего не поняла, столько незнакомых слов... И ты битый час перед нами распинаешься, а мы даже имени твоего не знаем.
 
@@ -103,13 +118,19 @@
 
 **Паймон:** Ты всё про книги да про книги... Значит, мелюзины тоже читают?
 
-- **Путешественник:** Наверное, тебе очень неудобно перелистывать страницы?
+##### Вариант ответа 1
 
-- **Путешественник:** Не думал(а), что в таком месте тоже могут быть книги.
+- **Путешественник:** Наверное, тебе очень неудобно перелистывать страницы?
 
 **Паймон:** Может, они их не руками перелистывают? А антеннками на голове... Эм, ладно, какая разница!
 
 **Паймон:** Паймон не ожидала, что здесь можно хранить книги.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Не думал, что в таком месте тоже могут быть книги. / Не думала, что в таком месте тоже могут быть книги.
+
+##### Общее продолжение
 
 **Канотила:** Да, один великий учёный оставил здесь свои книги, они спрятаны в секретном месте. И всё сказанное мною сейчас почерпнуто из этих книг.
 
@@ -127,9 +148,15 @@
 
 **Канотила:** Мне показалось, что вы обладаете весьма обширными познаниями. Быть может, вам будет понятно, что там написано.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы разгадали уже немало загадок.
 
+##### Вариант ответа 2
+
 - **Путешественник:** У нас богатый практический опыт.
+
+##### Общее продолжение
 
 **Паймон:** Точно! Мы настоящие специалисты в разном непонятном! Так что показывай дорогу!
 
@@ -156,18 +183,19 @@
 
 **Канотила:** Книга как-то связана со мной и с моим «даром». Если я смогу понять книгу, возможно, это даст мне ответ на вопрос, почему я так отличаюсь от остальных мелюзин.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Наверное, тебе непросто приходится.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Нет ничего плохого в том, чтобы отличаться от остальных.
+
+##### Общее продолжение
 
 **Канотила:** Эх, ладно. Давайте зайдём внутрь!
 
 **Канотила:** Я должна понять, что написано в той странной книге.
-
-
-**Канотила:** Отлично! Давай попробуем вложить оставшиеся страницы!
-
-Вложить страницу
 
 #### Отправляйтесь туда, где хранится книга
 
@@ -175,11 +203,17 @@
 
 **Паймон:** Гм... Значит, ты тоже не понимаешь?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ни слова.
+
+**Паймон:** Может, это шифр? Давай посмотрим внимательней!
+
+##### Вариант ответа 2
 
 - **Путешественник:** Ладно, посмотрим внимательней.
 
-**Паймон:** Может, это шифр? Давай посмотрим внимательней!
+##### Общее продолжение
 
 Какое-то время вы изучаете незнакомые руны на странице. Руны начинают медленно распадаться и собираться в новые слова.
 Одновременно предметы вокруг вас отступают, и вам кажется, что вы оказались в новом, незнакомом месте.
@@ -188,15 +222,21 @@
 
 Вы оглядываетесь, пытаясь понять, откуда исходит голос, и вдруг резко приходите в себя. Снова смотрите в книгу, но страница выглядит так же, как в начале, словно ничего не произошло.
 
-**Паймон:** Ну... Путешественник, ты что-нибудь понял(а)?
+**Паймон:** Ну... Путешественник, ты что-нибудь понял? / Ну... Путешественник, ты что-нибудь поняла?
 
-- **Путешественник:** Я (перенеслась)(перенёсся) в какое-то странное место.
+##### Вариант ответа 1
 
-- **Путешественник:** Я видел(а), как руны распадаются и собираются в новые слова.
+- **Путешественник:** Я перенёсся в какое-то странное место. / Я перенеслась в какое-то странное место.
 
-**Паймон:** Странное место? Но ты всё это время был(а) тут! Может, у тебя от напряжения голова закружилась?
+**Паймон:** Странное место? Но ты всё это время был тут! Может, у тебя от напряжения голова закружилась? / Странное место? Но ты всё это время была тут! Может, у тебя от напряжения голова закружилась?
+
+##### Вариант ответа 2
+
+- **Путешественник:** Я видел, как руны распадаются и собираются в новые слова. / Я видела, как руны распадаются и собираются в новые слова.
 
 **Паймон:** Ну и чудеса! Может, у тебя от напряжения голова закружилась?
+
+##### Общее продолжение
 
 **Канотила:** Значит, ты тоже это видишь.
 
@@ -208,7 +248,7 @@
 
 **Канотила:** Но потом приходишь в себя и снова не можешь понять ни слова из того, что там написано.
 
-И что ты видела?..
+- **Путешественник:** И что ты видела?..
 
 **Канотила:** Ой, подождите, сейчас!
 
@@ -220,11 +260,17 @@
 
 **Паймон:** Но здесь говорится об Элинасе...
 
+**Канотила:** Хм, судя по тому, что мне удалось расшифровать, этот учёный изучал Элинаса и ещё что-то...
+
+**Паймон:** Эм... Значит, в книге записана какая-то очень давняя история!
+
+**Канотила:** Да. Но я всё равно плохо понимаю, что там произошло.
+
 **Канотила:** Даже во время медитации я не могу соединить между собой разные фрагменты книги.
 
 **Канотила:** Я понимаю отдельные эпизоды, но это не помогает... Правда, если я не ошибаюсь, в книге отсутствуют некоторые важные фрагменты.
 
-Но в блокноте перечислено несколько мест.
+- **Путешественник:** Но в блокноте перечислено несколько мест.
 
 **Паймон:** А, ты хочешь сказать, это подсказки?
 
@@ -246,95 +292,45 @@
 
 #### Отыщите страницы
 
-**Канотила:** Хм, судя по тому, что мне удалось расшифровать, этот учёный изучал Элинаса и ещё что-то...
+#### Отыщите страницы
 
-**Паймон:** Эм... Значит, в книге записана какая-то очень давняя история!
+#### Расшифруйте страницу
 
-**Канотила:** Да. Но я всё равно плохо понимаю, что там произошло.
+**Канотила:** Похоже на недостающие страницы! Давайте попробуем вложить их в книгу!
+
+- **Путешественник:** Вложить страницу
 
 #### Расшифруйте страницу
 
 **Канотила:** А потом останется только сконцентрироваться и помедитировать над книгой, как в прошлый раз.
 
-*Края страницы постепенно расплываются. Сначала вы чувствуете головокружение, но постепенно в словах на странице начинает угадываться смысл...*
+Края страницы постепенно расплываются. Сначала вы чувствуете головокружение, но постепенно в словах на странице начинает угадываться смысл...
 
 **Паймон:** Ого! Теперь даже Паймон понимает, что тут написано! Похоже, дело и правда в пропавших страницах!
 
 #### Расшифруйте страницу
 
-Вы читаете всё быстрее и вдруг понимаете, что снова оказались в том загадочном месте.
-Вы слышите тот же голос.
+**Канотила:** Отлично! Давай попробуем вложить оставшиеся страницы!
 
-«...Результат вычислений не меняется, сколько ни бейся. Пройдёт несколько сотен лет, и плодные воды мира иссякнут, а спустя ещё несколько столетий мир станет таким, каким мы видим его сейчас. Неприятное открытие.
-...Правда, не надо плакать. Тут нечего бояться. Я с тобой. Неужели ты мне не веришь? Ален и все остальные нам помогут. И потом, ты ведь наверняка выживешь в таком мире.
-...Я понимаю, ты беспокоишься, что организмы остальных людей отличаются от твоего. Да, это так. Значит, нужно дальше исследовать предметы, оставленные Золотой труппой. Вдруг это откроет нам новые возможности. Потом мы вместе вернёмся в Институт  Нарциссенкрейца, посмотрим, что там да как...»
+- **Путешественник:** Вложить страницу
 
-Голос снова исчез. Прошла целая вечность (хотя в этом мире перемены состояния материи невозможно измерить временем), когда голос зазвучал снова.
-
-«...Видимо, он нам больше не поможет. Теперь я могу положиться только на тебя. Перестань, правда. Мне тоже тяжело, но нельзя плакать, пока всё не закончилось. И надо придумать, как будем его лечить.
-...Не бойся, всё будет хорошо. Появилось много людей, которые готовы нас слушать. Чтобы оставаться убедительными... Кроме веры, нам нужна церемония...
-...Пусть это будет книга, назовём её "Книга Откровения". Напишем её нашим секретным шифром. Каждый видит вокруг мир, ограниченный рамками своего восприятия. Но это средство поможет нам поделиться прозрениями с другими...»
-
-Вы пытаетесь вслушаться в голос, но он постепенно стихает...
-Тут вы чувствуете, что мир вокруг начинает рушиться, вы слышите грохот и снова приходите в себя.
-
-Случилось землетрясение?
-
-**Паймон:** Землетрясение? Какое землетрясение? Всё было тихо...
-
-**Паймон:** У Паймон тоже голова немного закружилась, но ты вообще как будто сознание потерял(а)! Ты что, снова оказался / оказалась в том загадочном месте?
-
-**Паймон:** Что там вообще за место?.. И это довольно опасно, если подумать. А если ты не сможешь вернуться оттуда назад?
-
-**Паймон:** Но что ты там увидел(а)?
-
-- **Путешественник:** Я увидел(а) картину из чьего-то пророчества.
-
-- **Путешественник:** Я услышал(а) чьё-то пророчество.
-
-**Паймон:** А? Но на странице, которую мы нашли до этого, говорилось о каких-то расчётах и гипотезах... Может, пространство, которое ты увидел(а), - это воплощение этих расчётов?
-
-**Паймон:** А? Кто-то с тобой говорил? Какое пророчество? Всё это очень странно!
-
-**Паймон:** Гм... Если ты ничего не перепутал(а), значит, в книге записано пророчество?
-
-**Паймон:** Но почему всё так сложно? Почему книгу невозможно понять? Если автор не хотел, чтобы люди поняли его книгу, мог бы вообще ничего не писать!
-
-**Канотила:** На самом деле во время медитаций я тоже слышала разные звуки... Но то были песни цветов и птиц... О пророчестве я ничего не знаю.
-
-**Канотила:** Похоже, нам придётся войти в загадочное пространство, чтобы разобраться, что к чему... Чтобы попасть туда, давай помедитируем вместе.
-
-**Паймон:** Паймон как-то тревожно... Подождите! Паймон пойдёт с вами! Паймон не хочет оставаться здесь одна.
-
-**Паймон:** Путешественник, ты в порядке?
-
-Вы снова начинаете медитировать, чтобы понять написанное на странице.
-Края страницы постепенно расплываются, и непонятные прежде странные фигуры становятся трёхмерными, словно в панорамных книгах.
-Вы не успеваете понять, что происходит, как вокруг снова поднимается шум, и вы возвращаетесь в исходную точку.
-
-**Канотила:** Гм, я смогла понять символы, написанные на странице, но всё равно не знаю, что хотел сказать автор книги!
-
-**Канотила:** Остаётся одно - вложить в книгу последнюю страницу. Вдруг она поможет соединить всё вместе!
-
-Вы снова концентрируетесь и медитируете над книгой. Шум постепенно смолкает, кругом становится тихо.
-В этот момент вы слышите дробный звук, а следом вашу душу захлёстывает скорбью, смешанной с негодованием.
-
-Звук вас завораживает.
-Вы идёте туда, откуда он доносится, и перед глазами появляется совсем не знакомый, но до боли родной мир.
+#### Расшифруйте страницу
 
 #### Помедитируйте с Канотилой
-
-**Канотила:** Похоже на недостающие страницы! Давайте попробуем вложить их в книгу!
-
-Вложить страницу
 
 **Паймон:** Ой! Где мы оказались?
 
 **Паймон:** Похоже на сон. Это и есть то странное место, о котором вы говорили?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Всё стало намного отчётливей.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Здесь может быть опасно.
+
+##### Общее продолжение
 
 **Паймон:** И всё это сотворил автор книги? Как ему удалось спрятать в книге такое огромное пространство?..
 
@@ -348,11 +344,17 @@
 
 #### Найдите Канотилу
 
+#### Найдите Канотилу
+
+#### Найдите Канотилу
+
+#### Найдите Канотилу
+
 **Паймон:** А? Куда подевалась Канотила? Она ведь только что была здесь...
 
 **Паймон:** Погоди, на земле что-то есть! Давай посмотрим, что там.
 
-*Вы поднимаете книжную страницу...*
+Вы поднимаете книжную страницу...
 
 **Паймон:** Это такая же страница, как те, что мы находили раньше? Как она здесь оказалась?
 
@@ -362,13 +364,19 @@
 
 **Паймон:** Катастрофа? Истребление? Апокалипсис? Что?.. Слова знакомые, но Паймон всё равно не понимает, что он хотел сказать.
 
-- **Путешественник:** Если мы соединим её с остальными страницами...
+##### Вариант ответа 1
 
-- **Путешественник:** Похоже, это пророчество.
+- **Путешественник:** Если мы соединим её с остальными страницами...
 
 **Паймон:** Хм... Мы уже встречали упоминания о «расчётах»..
 
+##### Вариант ответа 2
+
+- **Путешественник:** Похоже, это пророчество.
+
 **Паймон:** Гм... Значит, мы были правы.
+
+##### Общее продолжение
 
 **Паймон:** Значит, это картина из будущего, которую хотел показать нам автор книги?
 
@@ -376,9 +384,15 @@
 
 **Паймон:** Но если миру в самом деле грозит такая опасность, почему он просто не рассказал об этом людям? Вместе бы что-нибудь придумали! Зачем всё так усложнять?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Может, иначе ему бы не поверили.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Наверное, у него были на то свои причины.
+
+##### Общее продолжение
 
 **Паймон:** Там ещё говорится о каком-то «тайном зеркале»... Наверное, в пространство пророчества можно попасть и другим способом.
 
@@ -386,15 +400,25 @@
 
 **Паймон:** Ладно, неважно! Забудем пока о пророчестве, сейчас важнее найти Канотилу! Давай продолжим осматривать окрестности.
 
+#### Найдите Канотилу
+
+#### Найдите Канотилу
+
+#### Найдите Канотилу
+
+#### Прогоните гончих Разрыва
+
 #### Продолжайте поиски
+
+**Паймон:** Ох, и куда подевалась Канотила? Здесь только пёсик...
 
 **Паймон:** Почему-то она больше не нападает. Паймон впервые видит такую гончую Разрыва.
 
 **Паймон:** Кажется... она хочет что-то нам сказать?
 
-Но нам её всё равно не понять.
+- **Путешественник:** Но нам её всё равно не понять.
 
-Лучше не подходить к ней близко.
+- **Путешественник:** Лучше не подходить к ней близко.
 
 **Паймон:** Подожди, у Паймон что-то с глазами?
 
@@ -402,9 +426,15 @@
 
 **Паймон:** Путешественник, посмотри! Неужели глаза подводят Паймон?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Наверное, это и есть гончая Разрыва.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Во сне возможно всё.
+
+##### Общее продолжение
 
 **Паймон:** Наверное, она хочет сказать, что мы можем уйти через этот ход?
 
@@ -414,7 +444,7 @@
 
 **Паймон:** Больше отсюда никак не выйти. Ладно, давай попробуем этот ход!
 
-**Паймон:** Ох, и куда подевалась Канотила? Здесь только пёсик...
+#### Продолжайте поиски
 
 #### Поговорите с Канотилой
 
@@ -446,15 +476,21 @@
 
 **Канотила:** А вы? Что вы нашли?
 
-- **Путешественник:** Ничего особенного.
+##### Вариант ответа 1
 
-- **Путешественник:** Мы нашли новую страницу.
+- **Путешественник:** Ничего особенного.
 
 **Паймон:** Мы нашли страницу. Но Паймон не уверена, что она поможет отыскать ответы на твои вопросы...
 
+##### Вариант ответа 2
+
+- **Путешественник:** Мы нашли новую страницу.
+
 **Паймон:** Точно! Мы нашли её внутри. Не знаем, будет ли от неё толк, но она похожа на остальные страницы из книги...
 
-*Вы достаёте страницу и протягиваете её Канотиле...*
+##### Общее продолжение
+
+Вы достаёте страницу и протягиваете её Канотиле...
 
 **Канотила:** Бабочка... Золотая бабочка...
 
@@ -482,76 +518,159 @@
 
 **Паймон:** Что? Лучше мы встретимся в реальном мире! И ты не будешь никуда убегать!
 
+#### Помедитируйте с Канотилой
+
+Вы снова начинаете медитировать, чтобы понять написанное на странице.
+Края страницы постепенно расплываются, и непонятные прежде странные фигуры становятся трёхмерными, словно в панорамных книгах.
+Вы не успеваете понять, что происходит, как вокруг снова поднимается шум, и вы возвращаетесь в исходную точку.
+
+**Канотила:** Гм, я смогла понять символы, написанные на странице, но всё равно не знаю, что хотел сказать автор книги!
+
+**Канотила:** Остаётся одно - вложить в книгу последнюю страницу. Вдруг она поможет соединить всё вместе!
+
+Вы читаете всё быстрее и вдруг понимаете, что снова оказались в том загадочном месте.
+Вы слышите тот же голос.
+
+«...Результат вычислений не меняется, сколько ни бейся. Пройдёт несколько сотен лет, и плодные воды мира иссякнут, а спустя ещё несколько столетий мир станет таким, каким мы видим его сейчас. Неприятное открытие.
+...Правда, не надо плакать. Тут нечего бояться. Я с тобой. Неужели ты мне не веришь? Ален и все остальные нам помогут. И потом, ты ведь наверняка выживешь в таком мире.
+...Я понимаю, ты беспокоишься, что организмы остальных людей отличаются от твоего. Да, это так. Значит, нужно дальше исследовать предметы, оставленные Золотой труппой. Вдруг это откроет нам новые возможности. Потом мы вместе вернёмся в Институт  Нарциссенкрейца, посмотрим, что там да как...»
+
+Голос снова исчез. Прошла целая вечность (хотя в этом мире перемены состояния материи невозможно измерить временем), когда голос зазвучал снова.
+
+«...Видимо, он нам больше не поможет. Теперь я могу положиться только на тебя. Перестань, правда. Мне тоже тяжело, но нельзя плакать, пока всё не закончилось. И надо придумать, как будем его лечить.
+...Не бойся, всё будет хорошо. Появилось много людей, которые готовы нас слушать. Чтобы оставаться убедительными... Кроме веры, нам нужна церемония...
+...Пусть это будет книга, назовём её "Книга Откровения". Напишем её нашим секретным шифром. Каждый видит вокруг мир, ограниченный рамками своего восприятия. Но это средство поможет нам поделиться прозрениями с другими...»
+
+Вы пытаетесь вслушаться в голос, но он постепенно стихает...
+Тут вы чувствуете, что мир вокруг начинает рушиться, вы слышите грохот и снова приходите в себя.
+
+**Паймон:** Путешественник, ты в порядке?
+
+- **Путешественник:** Случилось землетрясение?
+
+**Паймон:** Землетрясение? Какое землетрясение? Всё было тихо...
+
+**Паймон:** У Паймон тоже голова немного закружилась, но ты вообще как будто сознание потерял! Ты что, снова оказался в том загадочном месте? / У Паймон тоже голова немного закружилась, но ты вообще как будто сознание потеряла! Ты что, снова оказалась в том загадочном месте?
+
+**Паймон:** Что там вообще за место?.. И это довольно опасно, если подумать. А если ты не сможешь вернуться оттуда назад?
+
+**Паймон:** Но что ты там увидел? / Но что ты там увидела?
+
+##### Вариант ответа 1
+
+- **Путешественник:** Я увидел картину из чьего-то пророчества. / Я увидела картину из чьего-то пророчества.
+
+**Паймон:** А? Но на странице, которую мы нашли до этого, говорилось о каких-то расчётах и гипотезах... Может, пространство, которое ты увидел, - это воплощение этих расчётов? / А? Но на странице, которую мы нашли до этого, говорилось о каких-то расчётах и гипотезах... Может, пространство, которое ты увидела, - это воплощение этих расчётов?
+
+##### Вариант ответа 2
+
+- **Путешественник:** Я услышал чьё-то пророчество. / Я услышала чьё-то пророчество.
+
+**Паймон:** А? Кто-то с тобой говорил? Какое пророчество? Всё это очень странно!
+
+##### Общее продолжение
+
+**Паймон:** Гм... Если ты ничего не перепутал, значит, в книге записано пророчество? / Гм... Если ты ничего не перепутала, значит, в книге записано пророчество?
+
+**Паймон:** Но почему всё так сложно? Почему книгу невозможно понять? Если автор не хотел, чтобы люди поняли его книгу, мог бы вообще ничего не писать!
+
+**Канотила:** На самом деле во время медитаций я тоже слышала разные звуки... Но то были песни цветов и птиц... О пророчестве я ничего не знаю.
+
+**Канотила:** Похоже, нам придётся войти в загадочное пространство, чтобы разобраться, что к чему... Чтобы попасть туда, давай помедитируем вместе.
+
+**Паймон:** Паймон как-то тревожно... Подождите! Паймон пойдёт с вами! Паймон не хочет оставаться здесь одна.
+
+Вы снова концентрируетесь и медитируете над книгой. Шум постепенно смолкает, кругом становится тихо.
+В этот момент вы слышите дробный звук, а следом вашу душу захлёстывает скорбью, смешанной с негодованием.
+
+Звук вас завораживает.
+Вы идёте туда, откуда он доносится, и перед глазами появляется совсем не знакомый, но до боли родной мир.
+
+#### Расшифруйте страницу
+
 ## EN
 
 ### Book of Esoteric Revelations
 
 To investigate the secrets of the unfathomable book, you decide to work alongside Canotila...
 
-
 **Paimon:** Hey, what are you doing under a waterfall? Are you gonna take a bath or something?
 
 **Paimon:** Um, if that's the case, we won't disturb you...
 
-**Canotila:** What bath? I am pondering some profound questions. If I must say... I suppose I am "meditating."
+**???:** What bath? I am pondering some profound questions. If I must say... I suppose I am "meditating."
 
-**Canotila:** If you hadn't come thundering along and interrupted my train of thought, perhaps I would have already come up with the answers.
+**???:** If you hadn't come thundering along and interrupted my train of thought, perhaps I would have already come up with the answers.
+
+##### Response branch 1
 
 - **Traveler:** "Meditating"...
 
+**???:** I read in a book that if you run into something you can't make sense of, if you just "meditate," maybe you'll find the answers. I didn't misunderstand that, right?
+
+##### Response branch 2
+
 - **Traveler:** We're really sorry...
 
-**Canotila:** I read in a book that if you run into something you can't make sense of, if you just "meditate," maybe you'll find the answers. I didn't misunderstand that, right?
+##### Shared continuation
 
-**Canotila:** Let's see... A human most strange and a rainbow balloon. You two must be from outside the village?
+**???:** Let's see... A human most strange and a rainbow balloon. You two must be from outside the village?
 
-**Paimon:** Right! Paimon's Paimon, and he / she's Traveler... Wait a sec. Though you're right to say that we're not from here, what do you mean, a rainbow balloon?
+**Paimon:** Right! Paimon's Paimon, and he's Traveler... Wait a sec. Though you're right to say that we're not from here, what do you mean, a rainbow balloon? / Right! Paimon's Paimon, and she's Traveler... Wait a sec. Though you're right to say that we're not from here, what do you mean, a rainbow balloon?
 
-**Canotila:** Oh, right. You might not see it that way... I almost forgot about that again...
+**???:** Oh, right. You might not see it that way... I almost forgot about that again...
 
-**Canotila:** Let me think... Right. Traveler, what does Paimon look like to you?
+**???:** Let me think... Right. Traveler, what does Paimon look like to you?
+
+##### Response branch 1
 
 - **Traveler:** She looks like a white Specter.
 
-- **Traveler:** Like emergency food.
-
-- **Traveler:** Paimon's Paimon.
-
 **Paimon:** Wait! Don't people use "Specter" as an insult!?
+
+##### Response branch 2
+
+- **Traveler:** Like emergency food.
 
 **Paimon:** Now that's just wrong!
 
+##### Response branch 3
+
+- **Traveler:** Paimon's Paimon.
+
 **Paimon:** Uh... That sounds right, but it also sounds like you didn't answer that question at all.
 
-**Canotila:** Haha! Interesting. But to my eyes, Paimon is just like a little rainbow balloon floating in the air, and her string seems to extend upward, to somewhere above the sky itself...
+##### Shared continuation
+
+**???:** Haha! Interesting. But to my eyes, Paimon is just like a little rainbow balloon floating in the air, and her string seems to extend upward, to somewhere above the sky itself...
 
 **Paimon:** What the... Seriously!?
 
-**Canotila:** Yes... And just what does Traveler look like to your eyes, Paimon?
+**???:** Yes... And just what does Traveler look like to your eyes, Paimon?
 
 **Paimon:** Uh... Of course, Paimon's golden-haired traveling companion! Don't tell Paimon you see something else.
 
-**Canotila:** What I see... If I really must say, then I see a monster that looks like it could swallow the whole world in a single bite.
+**???:** What I see... If I really must say, then I see a monster that looks like it could swallow the whole world in a single bite.
 
 **Paimon:** That's way too scary! Are you serious!?
 
-**Canotila:** Of course I'm serious! Perhaps you've heard that we Melusines can see things that humans cannot see...
+**???:** Of course I'm serious! Perhaps you've heard that we Melusines can see things that humans cannot see...
 
-**Canotila:** But for some reason, I see things differently, even when compared to other Melusines. I can always find things that have been hidden.
+**???:** But for some reason, I see things differently, even when compared to other Melusines. I can always find things that have been hidden.
 
-**Canotila:** I have read that the "nature" of things is hidden beneath them, and this "nature" decides their "future." Not that I know what that means...
+**???:** I have read that the "nature" of things is hidden beneath them, and this "nature" decides their "future." Not that I know what that means...
 
 **Paimon:** If that's the case, how did you know that we're outsiders?
 
-**Canotila:** Well... Though what we see is different, we can still find "ideas" that we have in common.
+**???:** Well... Though what we see is different, we can still find "ideas" that we have in common.
 
-**Canotila:** Just like how you can tell a flower is still a flower, no matter how strange the color, right?
+**???:** Just like how you can tell a flower is still a flower, no matter how strange the color, right?
 
-**Canotila:** As long as I spend enough time with everyone, I can grasp the "concepts" that everyone talks about and then pretend to fit in.
+**???:** As long as I spend enough time with everyone, I can grasp the "concepts" that everyone talks about and then pretend to fit in.
 
-**Canotila:** If you hadn't looked special in my eyes at all, I wouldn't have struggled to find the right "concept" to describe you.
+**???:** If you hadn't looked special in my eyes at all, I wouldn't have struggled to find the right "concept" to describe you.
 
-**Canotila:** As I thought. It seems that I still have lots to learn...
+**???:** As I thought. It seems that I still have lots to learn...
 
 **Paimon:** Uh... That's a whole bunch of stuff that Paimon didn't really get. On that note, we've been talking for ages, but we don't even know your name!
 
@@ -565,13 +684,19 @@ To investigate the secrets of the unfathomable book, you decide to work alongsid
 
 **Paimon:** You keep talking about what you've read in books... Do Melusines read too?
 
-- **Traveler:** It must be really inconvenient for you to turn the pages, right?
+##### Response branch 1
 
-- **Traveler:** I wasn't expecting there to be books here.
+- **Traveler:** It must be really inconvenient for you to turn the pages, right?
 
 **Paimon:** But maybe they don't use their hands, but the feelers on their heads... Er, um, wait, that's not the point!
 
 **Paimon:** Still, Paimon wasn't expecting there to be books hidden here.
+
+##### Response branch 2
+
+- **Traveler:** I wasn't expecting there to be books here.
+
+##### Shared continuation
 
 **Canotila:** Yes, an amazing scholar left them behind, all hidden inside a secret base. All of what I just said, I learned from those books.
 
@@ -589,9 +714,15 @@ To investigate the secrets of the unfathomable book, you decide to work alongsid
 
 **Canotila:** You appear to be knowledgeable, well-informed outsiders. Perhaps you'll be able to understand that book quite easily.
 
+##### Response branch 1
+
 - **Traveler:** I've certainly solved a puzzle or two.
 
+##### Response branch 2
+
 - **Traveler:** Our experience tends to be more on the practical side.
+
+##### Shared continuation
 
 **Paimon:** That's right! We're like, super professionals at this! Come on, Canotila, show us the way!
 
@@ -618,18 +749,19 @@ There is a soft chime, and the shallow pool before you suddenly becomes unfathom
 
 **Canotila:** It has much to do with me and my token, and I'm also certain that if I figure it out, I'll know why I'm special in this way.
 
+##### Response branch 1
+
 - **Traveler:** That's quite the burden.
 
+##### Response branch 2
+
 - **Traveler:** There's nothing wrong with being special.
+
+##### Shared continuation
 
 **Canotila:** Well, then! That's enough of that! Let's go inside!
 
 **Canotila:** I must find a way to understand that strange book.
-
-
-**Canotila:** Awesome! Let's put another page in now, shall we?
-
-Insert Page
 
 #### Go to the place where the book is hidden
 
@@ -637,11 +769,17 @@ Insert Page
 
 **Paimon:** Hmm... So you can't understand it at all either, after all?
 
+##### Response branch 1
+
 - **Traveler:** Not a single word.
+
+**Paimon:** Maybe there's some kind of cipher! Take a closer look!
+
+##### Response branch 2
 
 - **Traveler:** I reckon we should look more closely.
 
-**Paimon:** Maybe there's some kind of cipher! Take a closer look!
+##### Shared continuation
 
 You stare at the runes on the page for some time. The runes slowly start to disintegrate and reassemble themselves, becoming new words.
 At the same time, your surroundings seem to recede, and you arrive in a strange new place.
@@ -652,13 +790,19 @@ You turn around to look for the source of the voice, but are suddenly awakened. 
 
 **Paimon:** So... Did you discover anything, Traveler?
 
-- **Traveler:** It was like I entered a strange place.
+##### Response branch 1
 
-- **Traveler:** I think I saw the runes dissolving, and then reconstructing themselves.
+- **Traveler:** It was like I entered a strange place.
 
 **Paimon:** A strange place? But you were here the whole time! Did you just stare too intensely or something?
 
+##### Response branch 2
+
+- **Traveler:** I think I saw the runes dissolving, and then reconstructing themselves.
+
 **Paimon:** That's weird... Did you just stare too intensely or something?
+
+##### Shared continuation
 
 **Canotila:** I knew you'd be able to see it too.
 
@@ -670,7 +814,7 @@ You turn around to look for the source of the voice, but are suddenly awakened. 
 
 **Canotila:** But as soon as you awake, you're back to being unable to comprehend it.
 
-Then what have you seen before...?
+- **Traveler:** Then what have you seen before...?
 
 **Canotila:** Oh! Wait just a moment.
 
@@ -682,11 +826,17 @@ Then what have you seen before...?
 
 **Paimon:** But it says something about an "Elynas" or something like that...
 
+**Canotila:** Hmm, based on my previous results, that scholar must have been conducting research on Elynas or something.
+
+**Paimon:** Uh... Then this book must record things that happened a long time ago!
+
+**Canotila:** Yes. But I still can't understand exactly what happened.
+
 **Canotila:** Even when "meditating," I can't make heads or tails of what comes before and after.
 
 **Canotila:** As such, though I can understand just a little bit, I still don't know what it is really saying... If I'm not mistaken, however, the book is still missing a lot of content.
 
-The notebook does mention a few locations.
+- **Traveler:** The notebook does mention a few locations.
 
 **Paimon:** Oh! So you mean that these locations might be clues?
 
@@ -708,95 +858,45 @@ The notebook does mention a few locations.
 
 #### Find the pages
 
-**Canotila:** Hmm, based on my previous results, that scholar must have been conducting research on Elynas or something.
+#### Find the pages
 
-**Paimon:** Uh... Then this book must record things that happened a long time ago!
+#### Decipher the page
 
-**Canotila:** Yes. But I still can't understand exactly what happened.
+**Canotila:** These do look like the missing pages from the book! Let's try putting one back in, shall we?
+
+- **Traveler:** Insert Page
 
 #### Decipher the page
 
 **Canotila:** And then we just need to concentrate and "meditate" on the book, like before.
 
-*The edges of the page gradually blur. After a spell of dizziness, the words seem to become clearer...*
+The edges of the page gradually blur. After a spell of dizziness, the words seem to become clearer...
 
 **Paimon:** Wow! This time, even Paimon could start to understand! Seems like the confusion was all due to the pages that were missing before, huh?
 
 #### Decipher the page
 
-As you read faster and faster, you fall into a trance and arrive again in that mysterious space.
-The same voice from before rings out.
+**Canotila:** Awesome! Let's put another page in now, shall we?
 
-"...No matter how many times I run the calculations, the results are the same. After a few hundred years, all the birthing waters of the world will dry up, and a few hundred years after that, the world will become as it appears now before us. This is quite the predicament."
-"...Hey, come on now, don't cry! There's nothing to be afraid of. I'm here, aren't I? Don't you trust me? Also, Alain and the others will definitely help. Also, I bet you'll definitely be able to survive in this world. You're special..."
-"...I know, I know. You're worried that constitution of others is different from yours. That's reasonable. Well, that's why we need to continue researching the things left behind by the Golden Troupe. Perhaps we'll discover some new possibilities. We'll go back to the Narzissenkreuz Institute together and take a look, okay?"
+- **Traveler:** Insert Page
 
-The voice drifts away again. After what feels like a long time — though, in this world, time seems to no longer measure changes in matter — you hear the voice once more.
-
-"It looks like he won't help us anymore. You're the only one I can rely on now. Hey, come on! Don't be like that. I'm sad too, but I won't cry until after the fat lady sings. Moreover, we still have to find a way to cure him."
-"...Don't be scared, it'll all go smoothly. There are already lots of people willing to listen to us. If we want to persuade them further... Besides belief, we'll also need ceremony..."
-"...As for the name, we'll call it the 'Book of Revealing,' and put it in the form of a book. We'll use our secret cipher to write it. Everyone only sees the world that their cognitive framework allows them to see. But using this method, we can share the visions we have foreseen with others..."
-
-Just as you begin to listen closely to what the voice is saying, it begins to gradually fade away...
-At the same time, you feel the world around you suddenly begin to collapse, and with a roaring sound resounding, you wake again.
-
-Was that an earthquake just now?
-
-**Paimon:** Earthquake? What earthquake? Nothing happened here...
-
-**Paimon:** Paimon did get a little dizzy, but you looked like you'd fainted! You didn't wind up in some mysterious space again, did you?
-
-**Paimon:** Just what's going on with that weird space, anyhow... And if you think about it, it's pretty dangerous too! What if you go in and can't get back out?
-
-**Paimon:** So just what did you encounter inside?
-
-- **Traveler:** I seem to have witnessed a premonition that someone had.
-
-- **Traveler:** I seem to have heard a prophecy that someone made.
-
-**Paimon:** Huh? The pages we found before did mention something about deductions and calculations, too... Could it be that the things revealed inside that space were actually the result of such deductions?
-
-**Paimon:** Eh? Did someone say anything in there? And it was some kind of prophecy? That's real creepy...
-
-**Paimon:** Hmm... If what you say is true, then this was actually a book of prophecies, wasn't it?
-
-**Paimon:** But why make the format so complicated? If the author didn't want people to understand it, wouldn't it have been better to not write it at all?
-
-**Canotila:** Actually, I also heard all kinds of sounds while I was meditating... But they were just the songs of birds and flowers... I don't know anything about the prophecy you spoke of.
-
-**Canotila:** It seems we must enter that space again to understand what is going on... If we meditate together this time, we should be able to enter it.
-
-**Paimon:** Paimon's still worried... Wait! Paimon wants to come too! No way is she gonna stay here alone.
-
-**Paimon:** Are you okay, Traveler?
-
-As you start meditating again, you once more attempt to understand the page's contents.
-The edges of the page blur, and the incomprehensible shapes that line it leap forth, as if mounted on a pop-up book.
-Yet, before you can make sense of what is happening, there is a rush of noise all around you, and you return to the world as it was.
-
-**Canotila:** Well, Paimon can read the words now, but the author's intended meaning is still a total mystery!
-
-**Canotila:** We'll just have to put this last page in and see what we get. Maybe the contents will link up, or something!
-
-Once again, you focus upon meditating, and the furor surrounding you fades. The world grows silent.
-Then, you hear the tiniest of sounds, and a feeling that is wrath, or perhaps grief, wells up within your heart.
-
-Your very soul feels drawn to this mysterious sound.
-And as you follow that sound, a whole world — utterly alien, supremely familiar — races to meet you.
+#### Decipher the page
 
 #### Meditate with Canotila
-
-**Canotila:** These do look like the missing pages from the book! Let's try putting one back in, shall we?
-
-Insert Page
 
 **Paimon:** Wha—? Where the heck did we end up?
 
 **Paimon:** This is like some kind of dreamscape! This must be the strange place you were talking about before.
 
+##### Response branch 1
+
 - **Traveler:** It's much more vivid than before.
 
+##### Response branch 2
+
 - **Traveler:** It could be dangerous.
+
+##### Shared continuation
 
 **Paimon:** Did the author of the book really create this place? And they hid such a big space inside it, too...
 
@@ -810,11 +910,17 @@ Insert Page
 
 #### Find Canotila
 
+#### Find Canotila
+
+#### Find Canotila
+
+#### Find Canotila
+
 **Paimon:** Huh!? Where'd Canotila go? She was just here a moment ago...
 
 **Paimon:** Wait! There's something on the ground, pick it up and take a look!
 
-*You pick up a page from a book...*
+You pick up a page from a book...
 
 **Paimon:** Is this page the same as the ones we found before? How did it end up here?
 
@@ -824,13 +930,19 @@ Insert Page
 
 **Paimon:** Cataclysm? Destruction? Some kinda apocalypse? What...? Even if Paimon can read the words, it still doesn't make any sense.
 
-- **Traveler:** But if we put it together with the other pages...
+##### Response branch 1
 
-- **Traveler:** This appears to be a prophecy.
+- **Traveler:** But if we put it together with the other pages...
 
 **Paimon:** Hmm... That's true. We've definitely seen something about "calculations" before.
 
+##### Response branch 2
+
+- **Traveler:** This appears to be a prophecy.
+
 **Paimon:** Huh... So it's as we guessed previously.
+
+##### Shared continuation
 
 **Paimon:** So, does this mean that this is the future the author wants us to see?
 
@@ -838,9 +950,15 @@ Insert Page
 
 **Paimon:** But if that really is the future, shouldn't the author tell everyone about it and find a solution? Why make a place like this?
 
+##### Response branch 1
+
 - **Traveler:** Maybe this is the only way everyone will believe it.
 
+##### Response branch 2
+
 - **Traveler:** Or maybe he had his own considerations.
+
+##### Shared continuation
 
 **Paimon:** It also mentions some kind of "Looking Glass"... Seems like there are other ways to get in here.
 
@@ -848,15 +966,25 @@ Insert Page
 
 **Paimon:** Ugh, forget it! Who cares about some dumb prophecy, anyway? The important thing right now is to find Canotila! Let's keep looking!
 
+#### Find Canotila
+
+#### Find Canotila
+
+#### Find Canotila
+
+#### Drive away the Rifthound(s)
+
 #### Keep exploring
+
+**Paimon:** No sign of Canotila or where she's gone. There's only this fellow here...
 
 **Paimon:** That said, it doesn't seem to want to attack us anymore. That's a first for a Rifthound, huh?
 
 **Paimon:** It looks like... It wants to say something to us?
 
-Not that we can understand it, anyway.
+- **Traveler:** Not that we can understand it, anyway.
 
-We shouldn't get too close... just in case.
+- **Traveler:** We shouldn't get too close... just in case.
 
 **Paimon:** Wait, is Paimon seeing things?
 
@@ -864,9 +992,15 @@ We shouldn't get too close... just in case.
 
 **Paimon:** Traveler, take a look! Is there something wrong with Paimon's eyes?
 
+##### Response branch 1
+
 - **Traveler:** It might be the Rifthound.
 
+##### Response branch 2
+
 - **Traveler:** Anything can happen in a dream.
+
+##### Shared continuation
 
 **Paimon:** Is it trying to tell us to go through that passage over there?
 
@@ -876,7 +1010,7 @@ We shouldn't get too close... just in case.
 
 **Paimon:** And it looks like there's no other route we can take, so let's just try it and see what happens!
 
-**Paimon:** No sign of Canotila or where she's gone. There's only this fellow here...
+#### Keep exploring
 
 #### Talk to Canotila
 
@@ -908,15 +1042,21 @@ We shouldn't get too close... just in case.
 
 **Canotila:** And you? What did you discover?
 
-- **Traveler:** Nothing special.
+##### Response branch 1
 
-- **Traveler:** We found another page.
+- **Traveler:** Nothing special.
 
 **Paimon:** Though Paimon doesn't think it'll answer your questions, we did find a page...
 
+##### Response branch 2
+
+- **Traveler:** We found another page.
+
 **Paimon:** Right! We found this inside, though we don't know if it'll be useful, it also looks like a page from this book...
 
-*You open the page you found, and show it to Canotila...*
+##### Shared continuation
+
+You open the page you found, and show it to Canotila...
 
 **Canotila:** The butterfly... It's the golden butterfly...
 
@@ -944,76 +1084,159 @@ We shouldn't get too close... just in case.
 
 **Paimon:** Uh, it might be better if we just meet in reality. Also, Canotila, don't go running around in that space anymore!
 
+#### Meditate with Canotila
+
+As you start meditating again, you once more attempt to understand the page's contents.
+The edges of the page blur, and the incomprehensible shapes that line it leap forth, as if mounted on a pop-up book.
+Yet, before you can make sense of what is happening, there is a rush of noise all around you, and you return to the world as it was.
+
+**Canotila:** Well, Paimon can read the words now, but the author's intended meaning is still a total mystery!
+
+**Canotila:** We'll just have to put this last page in and see what we get. Maybe the contents will link up, or something!
+
+As you read faster and faster, you fall into a trance and arrive again in that mysterious space.
+The same voice from before rings out.
+
+"...No matter how many times I run the calculations, the results are the same. After a few hundred years, all the birthing waters of the world will dry up, and a few hundred years after that, the world will become as it appears now before us. This is quite the predicament."
+"...Hey, come on now, don't cry! There's nothing to be afraid of. I'm here, aren't I? Don't you trust me? Also, Alain and the others will definitely help. Also, I bet you'll definitely be able to survive in this world. You're special..."
+"...I know, I know. You're worried that constitution of others is different from yours. That's reasonable. Well, that's why we need to continue researching the things left behind by the Golden Troupe. Perhaps we'll discover some new possibilities. We'll go back to the Narzissenkreuz Institute together and take a look, okay?"
+
+The voice drifts away again. After what feels like a long time — though, in this world, time seems to no longer measure changes in matter — you hear the voice once more.
+
+"It looks like he won't help us anymore. You're the only one I can rely on now. Hey, come on! Don't be like that. I'm sad too, but I won't cry until after the fat lady sings. Moreover, we still have to find a way to cure him."
+"...Don't be scared, it'll all go smoothly. There are already lots of people willing to listen to us. If we want to persuade them further... Besides belief, we'll also need ceremony..."
+"...As for the name, we'll call it the 'Book of Revealing,' and put it in the form of a book. We'll use our secret cipher to write it. Everyone only sees the world that their cognitive framework allows them to see. But using this method, we can share the visions we have foreseen with others..."
+
+Just as you begin to listen closely to what the voice is saying, it begins to gradually fade away...
+At the same time, you feel the world around you suddenly begin to collapse, and with a roaring sound resounding, you wake again.
+
+**Paimon:** Are you okay, Traveler?
+
+- **Traveler:** Was that an earthquake just now?
+
+**Paimon:** Earthquake? What earthquake? Nothing happened here...
+
+**Paimon:** Paimon did get a little dizzy, but you looked like you'd fainted! You didn't wind up in some mysterious space again, did you?
+
+**Paimon:** Just what's going on with that weird space, anyhow... And if you think about it, it's pretty dangerous too! What if you go in and can't get back out?
+
+**Paimon:** So just what did you encounter inside?
+
+##### Response branch 1
+
+- **Traveler:** I seem to have witnessed a premonition that someone had.
+
+**Paimon:** Huh? The pages we found before did mention something about deductions and calculations, too... Could it be that the things revealed inside that space were actually the result of such deductions?
+
+##### Response branch 2
+
+- **Traveler:** I seem to have heard a prophecy that someone made.
+
+**Paimon:** Eh? Did someone say anything in there? And it was some kind of prophecy? That's real creepy...
+
+##### Shared continuation
+
+**Paimon:** Hmm... If what you say is true, then this was actually a book of prophecies, wasn't it?
+
+**Paimon:** But why make the format so complicated? If the author didn't want people to understand it, wouldn't it have been better to not write it at all?
+
+**Canotila:** Actually, I also heard all kinds of sounds while I was meditating... But they were just the songs of birds and flowers... I don't know anything about the prophecy you spoke of.
+
+**Canotila:** It seems we must enter that space again to understand what is going on... If we meditate together this time, we should be able to enter it.
+
+**Paimon:** Paimon's still worried... Wait! Paimon wants to come too! No way is she gonna stay here alone.
+
+Once again, you focus upon meditating, and the furor surrounding you fades. The world grows silent.
+Then, you hear the tiniest of sounds, and a feeling that is wrath, or perhaps grief, wells up within your heart.
+
+Your very soul feels drawn to this mysterious sound.
+And as you follow that sound, a whole world — utterly alien, supremely familiar — races to meet you.
+
+#### Decipher the page
+
 ## ZH
 
 ### 秘诲揭示之书
 
 为了调查无法读懂的书的秘密，你决定和夏诺蒂拉一起行动…
 
-
 **派蒙:** 哎呀，你怎么待在瀑布下面啦，该不会是准备要冲澡吧？
 
 **派蒙:** 唔，要是那样的话，我们就不打扰了…
 
-**夏诺蒂拉:** 什么冲澡？我可是在思考一些很重要的问题呢，非要说的话…应该说是在「冥想」才对吧？
+**？？？:** 什么冲澡？我可是在思考一些很重要的问题呢，非要说的话…应该说是在「冥想」才对吧？
 
-**夏诺蒂拉:** 要不是你们突然跑过来打断了我的思路，说不定我现在都已经想出些什么来了。
+**？？？:** 要不是你们突然跑过来打断了我的思路，说不定我现在都已经想出些什么来了。
+
+##### 对话分支 1
 
 - **旅行者:** 「冥想」…
 
+**？？？:** 我看书上说，遇到什么弄不清楚的事情的话，只要「冥想」说不定就能找到答案，应该没弄错吧？
+
+##### 对话分支 2
+
 - **旅行者:** 还真是抱歉…
 
-**夏诺蒂拉:** 我看书上说，遇到什么弄不清楚的事情的话，只要「冥想」说不定就能找到答案，应该没弄错吧？
+##### 共同后续
 
-**夏诺蒂拉:** 是奇奇怪怪的人类和五颜六色的小气球，看你们的样子是从村子的外面过来的吧？
+**？？？:** 是奇奇怪怪的人类和五颜六色的小气球，看你们的样子是从村子的外面过来的吧？
 
-**派蒙:** 对啊，我是派蒙，然后他 / 她是旅行者…等一下，虽然我们是从外面过来的没错啦，不过五颜六色的小气球是什么啦？
+**派蒙:** 对啊，我是派蒙，然后他是旅行者…等一下，虽然我们是从外面过来的没错啦，不过五颜六色的小气球是什么啦？ / 对啊，我是派蒙，然后她是旅行者…等一下，虽然我们是从外面过来的没错啦，不过五颜六色的小气球是什么啦？
 
-**夏诺蒂拉:** 哦哦，在你们的眼中可能不是这样…差点又忘记了…
+**？？？:** 哦哦，在你们的眼中可能不是这样…差点又忘记了…
 
-**夏诺蒂拉:** 我想想…旅行者哥哥 / 姐姐，在你眼中派蒙是什么样子的呢？
+**？？？:** 我想想…旅行者哥哥，在你眼中派蒙是什么样子的呢？ / 我想想…旅行者姐姐，在你眼中派蒙是什么样子的呢？
+
+##### 对话分支 1
 
 - **旅行者:** 是白色飘浮灵。
 
-- **旅行者:** 是应急食品。
-
-- **旅行者:** 派蒙就是派蒙。
-
 **派蒙:** 等等，我记得飘浮灵是骂人的话吧？
+
+##### 对话分支 2
+
+- **旅行者:** 是应急食品。
 
 **派蒙:** 完全不对吧！
 
+##### 对话分支 3
+
+- **旅行者:** 派蒙就是派蒙。
+
 **派蒙:** 呃，虽然没错啦，不过听起来就好像没说一样。
 
-**夏诺蒂拉:** 哈哈，好有趣。不过在我眼中的派蒙就像只飘在空中的彩虹小气球，而且系着她的线似乎还一直连接到天空之上呢。
+##### 共同后续
+
+**？？？:** 哈哈，好有趣。不过在我眼中的派蒙就像只飘在空中的彩虹小气球，而且系着她的线似乎还一直连接到天空之上呢。
 
 **派蒙:** 什么啦，真的假的？
 
-**夏诺蒂拉:** 嗯…那么在派蒙眼里旅行者哥哥 / 姐姐又是什么样的呢？
+**？？？:** 嗯…那么在派蒙眼里旅行者哥哥又是什么样的呢？ / 嗯…那么在派蒙眼里旅行者姐姐又是什么样的呢？
 
 **派蒙:** 唔…那当然是一同旅行的金色头发的伙伴啦！你该不会看到的是别的什么东西吧。
 
-**夏诺蒂拉:** 我看到的…非要说的话，就像是能一口吞下天地的怪兽？
+**？？？:** 我看到的…非要说的话，就像是能一口吞下天地的怪兽？
 
 **派蒙:** 这也太可怕了，你该不会是认真在说吧？！
 
-**夏诺蒂拉:** 当然是认真的！或许你们听说过，我们美露莘能看到许多人类都看不到的东西…
+**？？？:** 当然是认真的！或许你们听说过，我们美露莘能看到许多人类都看不到的东西…
 
-**夏诺蒂拉:** 但是不知道为什么，似乎我看到的东西和其它美露莘眼中的都不一样，我总能看到那些隐藏起来的东西。
+**？？？:** 但是不知道为什么，似乎我看到的东西和其它美露莘眼中的都不一样，我总能看到那些隐藏起来的东西。
 
-**夏诺蒂拉:** 书里说，在事物之下隐藏着它们的「本质」，而这种「本质」决定了它们的「未来」，不过我也不知道是什么意思…
+**？？？:** 书里说，在事物之下隐藏着它们的「本质」，而这种「本质」决定了它们的「未来」，不过我也不知道是什么意思…
 
 **派蒙:** 既然这样，你怎么知道我们是从外面过来的呢？
 
-**夏诺蒂拉:** 这个嘛，虽然看到的东西不一样，但也还是能找到某种共同的「概念」的。
+**？？？:** 这个嘛，虽然看到的东西不一样，但也还是能找到某种共同的「概念」的。
 
-**夏诺蒂拉:** 就像无论是颜色多么奇异的花朵，说到底还是花朵不是吗？
+**？？？:** 就像无论是颜色多么奇异的花朵，说到底还是花朵不是吗？
 
-**夏诺蒂拉:** 只要和大家相处的时间够长，我也能理解大家说的「概念」，然后假装融入其中。
+**？？？:** 只要和大家相处的时间够长，我也能理解大家说的「概念」，然后假装融入其中。
 
-**夏诺蒂拉:** 要不是因为你们在我看来实在有点特殊，我才不会一时找不到「概念」来形容…
+**？？？:** 要不是因为你们在我看来实在有点特殊，我才不会一时找不到「概念」来形容…
 
-**夏诺蒂拉:** 果然我还有很多需要学习的地方…
+**？？？:** 果然我还有很多需要学习的地方…
 
 **派蒙:** 唔，好多没听过的词，好难懂…而且说了这么半天，我们都还不知道你的名字呢？
 
@@ -1027,13 +1250,19 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 一直在说书里什么的…原来美露莘也会读书吗？
 
-- **旅行者:** 那你们翻书的话应该很不方便吧。
+##### 对话分支 1
 
-- **旅行者:** 没想到这里也会有书。
+- **旅行者:** 那你们翻书的话应该很不方便吧。
 
 **派蒙:** 说不定他们不用手而是用头上的触角…不对，这个不是重点吧！
 
 **派蒙:** 不过没想到在这里也会有藏书的地方。
+
+##### 对话分支 2
+
+- **旅行者:** 没想到这里也会有书。
+
+##### 共同后续
 
 **夏诺蒂拉:** 嗯，是一位很厉害的学者留下来的书，全都藏在一个秘密的基地里，我刚才说的那些都是从书里学到的。
 
@@ -1051,9 +1280,15 @@ We shouldn't get too close... just in case.
 
 **夏诺蒂拉:** 你们看起来是见多识广的外来人，说不定看到那本书直接就能看懂了。
 
+##### 对话分支 1
+
 - **旅行者:** 倒是破解过不少谜题。
 
+##### 对话分支 2
+
 - **旅行者:** 我们实践经验比较丰富。
+
+##### 共同后续
 
 **派蒙:** 对啊对啊，这方面我们可是行家呢，那就麻烦夏诺蒂拉带我们过去啦！
 
@@ -1080,18 +1315,19 @@ We shouldn't get too close... just in case.
 
 **夏诺蒂拉:** 不仅和我而且和我的「信物」都有莫大的关联，或许搞清楚这本书的事情就能知道我为什么会这么特殊了。
 
+##### 对话分支 1
+
 - **旅行者:** 还真是辛苦呢。
 
+##### 对话分支 2
+
 - **旅行者:** 特殊也没什么不好。
+
+##### 共同后续
 
 **夏诺蒂拉:** 哎呀，不说这些了，我们一起进去吧！
 
 **夏诺蒂拉:** 得想办法读懂那本奇怪的书才行。
-
-
-**夏诺蒂拉:** 好厉害，再试试剩下的书页看看吧！
-
-放入书页
 
 #### 前往藏书的地方
 
@@ -1099,11 +1335,17 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 唔，果然你也看不懂吗？
 
+##### 对话分支 1
+
 - **旅行者:** 一个字也看不懂。
+
+**派蒙:** 说不定是什么密码呢，再仔细研究看看吧！
+
+##### 对话分支 2
 
 - **旅行者:** 再仔细看看。
 
-**派蒙:** 说不定是什么密码呢，再仔细研究看看吧！
+##### 共同后续
 
 你盯着书页上未知的符文看了一会，这些符文似乎慢慢开始分解重组，形成新的文字。
 与此同时周围的一切也渐渐远去，你好像来到了一个陌生的地方。
@@ -1114,13 +1356,19 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 嗯…所以旅行者你看出些什么了吗？
 
-- **旅行者:** 我好像进入了一个奇怪的地方。
+##### 对话分支 1
 
-- **旅行者:** 我好像看到这些符文在分解重组。
+- **旅行者:** 我好像进入了一个奇怪的地方。
 
 **派蒙:** 奇怪的地方？你明明刚刚一直都在这里啊，是不是看入迷了啦？
 
+##### 对话分支 2
+
+- **旅行者:** 我好像看到这些符文在分解重组。
+
 **派蒙:** 这么神奇？是不是你看入迷了啦？
+
+##### 共同后续
 
 **夏诺蒂拉:** 果然你也能看到。
 
@@ -1132,7 +1380,7 @@ We shouldn't get too close... just in case.
 
 **夏诺蒂拉:** 但是一旦回过神来，就又会回到看不懂的状态。
 
-那你之前看到过什么…
+- **旅行者:** 那你之前看到过什么…
 
 **夏诺蒂拉:** 哦哦，你们等一下。
 
@@ -1144,11 +1392,17 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 不过上面好像写了「厄里那斯」什么的…
 
+**夏诺蒂拉:** 嗯，从我之前解读的结果来看，那个学者似乎对厄里那斯和什么别的东西进行过研究的样子。
+
+**派蒙:** 唔，那这本书记录的应该已经是很多年以前的事情了吧。
+
+**夏诺蒂拉:** 嗯。不过具体是怎么回事我也看不懂了。
+
 **夏诺蒂拉:** 就算是在「冥想」的时候，这本书的前后文也没办法完全读通。
 
 **夏诺蒂拉:** 即便能稍微看懂一些，也不知道它究竟说了些什么…如果我想得没错的话，这本书应该缺失了不少重要的内容。
 
-不过笔记上好像提到了一些地点。
+- **旅行者:** 不过笔记上好像提到了一些地点。
 
 **派蒙:** 哦哦，你的意思是说，这些地点会是线索？
 
@@ -1160,7 +1414,7 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 而且是和厄里那斯有关的事情，怎么想都不能放任不管嘛！
 
-**夏诺蒂拉:** 嗯嗯，那就拜托派蒙和旅行者哥哥 / 姐姐了。
+**夏诺蒂拉:** 嗯嗯，那就拜托派蒙和旅行者哥哥了。 / 嗯嗯，那就拜托派蒙和旅行者姐姐了。
 
 **夏诺蒂拉:** 如果找到什么的话，只要带回到这里就好啦，我会在这里等着你们的。
 
@@ -1170,95 +1424,45 @@ We shouldn't get too close... just in case.
 
 #### 寻找书页
 
-**夏诺蒂拉:** 嗯，从我之前解读的结果来看，那个学者似乎对厄里那斯和什么别的东西进行过研究的样子。
+#### 寻找书页
 
-**派蒙:** 唔，那这本书记录的应该已经是很多年以前的事情了吧。
+#### 解读书页
 
-**夏诺蒂拉:** 嗯。不过具体是怎么回事我也看不懂了。
+**夏诺蒂拉:** 看起来这些真的是这本书缺失的书页呢，快把它放回到书里试试看吧！
+
+- **旅行者:** 放入书页
 
 #### 解读书页
 
 **夏诺蒂拉:** 就像之前我们做过的一样，只要集中精神，对着书「冥想」就好啦。
 
-*书页边缘渐渐变得模糊。一阵眩晕过后，书页上的文字似乎可以读懂了…*
+书页边缘渐渐变得模糊。一阵眩晕过后，书页上的文字似乎可以读懂了…
 
 **派蒙:** 哇，这次竟然连我都可以直接读懂了，果然是因为缺失了这些书页的缘故吗？
 
 #### 解读书页
 
-随着阅读书页的速度越来越快，恍惚之间，你似乎又来到了那个神秘的空间。
-之前的声音再次响起。
+**夏诺蒂拉:** 好厉害，再试试剩下的书页看看吧！
 
-「…无论计算多少次都一样。数百年后，世界的胎水将会干涸，在那之后又是百年，世界就会变成眼前的模样。这可麻烦了。
-「…真是的，不要哭嘛。没什么好怕的。还有我在。难道你不相信我吗？而且阿兰他们一定也会帮忙的。况且，如果是你的话，一定能在这样的世界生还…
-「…我明白了，你是担心别的人体质和你不一样。嗯，很有道理。那金色剧团留下的东西，也要继续研究才行，说不定也能找到新的可能性。我们之后一起回水仙十字院看看吧，好吗？」
+- **旅行者:** 放入书页
 
-声音再次远去。似乎过去了很久以后——但在这样的世界里时间似乎也失去了丈量物质变化的意义——话语声再次响起。
-
-「…看来他是不会帮忙的了。我能依靠的人只剩下你了。真是的，别这样嘛。我也很难过，但是在一切结束之前都不能哭。而且，还要想办法治好他才行。
-「…不用怕，一切都会顺利的。已经有很多人愿意听我们的话了。接下来，要进一步说服他们的话…除了信念，还需要仪式…
-「…名字的话就叫『揭示之书』，姑且制作成书的形式好了。就用我们的密文来写。大家只能看到自己认知框架下的世界。但利用这样的方式，就能将我们预见的景象分享给别人…」
-
-你刚想仔细听听到底在说什么，那个声音却渐行渐远了…
-这时你感到周围的世界突然开始崩塌，在一阵轰鸣声后，你再次清醒了过来。
-
-刚才是发生地震了吗？
-
-**派蒙:** 地震？什么地震啦，刚才什么事情也没有发生啊。
-
-**派蒙:** 虽然刚才我也有点晕晕的，不过你看上去就像是晕过去了一样！该不会是你又和之前一样进到那个什么神秘空间里去了吧？
-
-**派蒙:** 那个神秘空间到底是怎么回事啦…仔细想想还有点危险呢，要是进到里面出不来可就糟糕了。
-
-**派蒙:** 所以你到底在里面遇到什么啦？
-
-- **旅行者:** 似乎看见了某人预见的景象。
-
-- **旅行者:** 似乎听到了某人的预言。
-
-**派蒙:** 欸？之前找到的书页里好像也提到过推演什么的…该不会那个空间里面展示的就是推演的结果？
-
-**派蒙:** 欸？有人在里面说话吗？还是什么预言，听上去也太诡异了！
-
-**派蒙:** 唔…如果你说的没错的话，也就是说这其实是一本预言书？
-
-**派蒙:** 不过为什么要做成这么复杂才能读懂的形式呢？如果书的作者不想让人知道的话，一开始就不要写出来不就好了！
-
-**夏诺蒂拉:** 虽然我之前「冥想」的时候也有听到过各种声音…但我听到的只有鸟儿和花的歌声…你们说的预言什么的我完全不知道。
-
-**夏诺蒂拉:** 看来只有进到那个空间里面，才能知道到底怎么回事了…这次我们一起「冥想」吧，我们一起的话，应该就能成功进去了。
-
-**派蒙:** 还是有点担心…那我也要一起，我可不想一个人留在这里。
-
-**派蒙:** 旅行者，你怎么了啦？
-
-当你再次开始「冥想」，并试图理解书页上的内容时。
-书页的边缘渐渐模糊，那些原本无法理解的怪异图形，变得如立体书般跃然纸上。
-然而你还没来得及弄清楚发生了什么，周围重新变得喧嚣起来，你又回到了原来的世界。
-
-**夏诺蒂拉:** 唔，虽然确实能看懂上面写的字了，但还是不知道这本书的作者到底想说什么嘛！
-
-**夏诺蒂拉:** 只能把最后这张书页也放进去试试了，或许上面的内容可以连起来呢！
-
-你再次集中精神开始「冥想」，周围的喧嚣逐渐消失，世界霎时间安静下来。
-这时，耳边传来了一阵细碎的声响，随之而来的，一种不知是愤怒还是悲悯的情绪涌上心头。
-
-你的精神仿佛也被这神秘的声音所吸引。
-循着声音传来的方向，无比陌生而又无比亲切的世界闯入了视野。
+#### 解读书页
 
 #### 和夏诺蒂拉一起「冥想」
-
-**夏诺蒂拉:** 看起来这些真的是这本书缺失的书页呢，快把它放回到书里试试看吧！
-
-放入书页
 
 **派蒙:** 呜啊，我们这是到了什么地方？
 
 **派蒙:** 简直就像是梦境一样，该不会就是你们之前一直在说的那个奇怪的地方吧。
 
+##### 对话分支 1
+
 - **旅行者:** 比之前看到的要真切很多。
 
+##### 对话分支 2
+
 - **旅行者:** 说不定会有危险。
+
+##### 共同后续
 
 **派蒙:** 这里真的是那本书的作者创造出来的吗？竟然把这么大的空间藏进了书里…
 
@@ -1272,11 +1476,17 @@ We shouldn't get too close... just in case.
 
 #### 寻找夏诺蒂拉
 
+#### 寻找夏诺蒂拉
+
+#### 寻找夏诺蒂拉
+
+#### 寻找夏诺蒂拉
+
 **派蒙:** 咦！夏诺蒂拉跑到哪去了，明明刚才还在这里…
 
 **派蒙:** 等等地上好像有什么东西…捡起来看看吧。
 
-*从地上捡起了一张书页…*
+从地上捡起了一张书页…
 
 **派蒙:** 这个书页不是和我们之前找到过的那些一样吗？怎么会出现在这里呢。
 
@@ -1286,13 +1496,19 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 灾祸？毁灭？末日？什么嘛，就算能读懂也完全不知道他想说什么啦。
 
-- **旅行者:** 如果和之前的书页连起来看的话…
+##### 对话分支 1
 
-- **旅行者:** 看起来是个预言。
+- **旅行者:** 如果和之前的书页连起来看的话…
 
 **派蒙:** 唔…确实之前也看到过「计算」之类的话。
 
+##### 对话分支 2
+
+- **旅行者:** 看起来是个预言。
+
 **派蒙:** 唔…和我们之前猜的一样呢。
+
+##### 共同后续
 
 **派蒙:** 也就是说，这里就是书的作者想要让我们看到的未来景象吗？
 
@@ -1300,9 +1516,15 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 但如果真的未来会变成这样的话，不是应该告诉大家，然后想办法一起解决吗？为什么要弄出这样的地方呢？
 
+##### 对话分支 1
+
 - **旅行者:** 或许这样才能让大家相信。
 
+##### 对话分支 2
+
 - **旅行者:** 或许他也有自己的考虑。
+
+##### 共同后续
 
 **派蒙:** 上面还提到了「谜镜」什么的…看上去还有其它方法能进到这里。
 
@@ -1310,15 +1532,25 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 算了，先不管这个什么预言了。现在最重要的事情还是得赶快找到夏诺蒂拉，我们继续在周围找找看吧！
 
+#### 寻找夏诺蒂拉
+
+#### 寻找夏诺蒂拉
+
+#### 寻找夏诺蒂拉
+
+#### 驱赶兽境猎犬
+
 #### 继续探索
+
+**派蒙:** 唔，不知道夏诺蒂拉去哪了，只有这个家伙在这里…
 
 **派蒙:** 不过它不知道为什么好像没有再想攻击我们了，这样的兽境猎犬还是第一次见。
 
 **派蒙:** 看起来…它是想要对我们说些什么吗？
 
-反正也听不懂它说话。
+- **旅行者:** 反正也听不懂它说话。
 
-还是不要靠得太近吧。
+- **旅行者:** 还是不要靠得太近吧。
 
 **派蒙:** 等等，是我眼花了吗？
 
@@ -1326,9 +1558,15 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 旅行者，你快看看，应该不是我的眼睛出了什么问题吧？
 
+##### 对话分支 1
+
 - **旅行者:** 或许它就是刚才的兽境猎犬。
 
+##### 对话分支 2
+
 - **旅行者:** 在梦境里发生什么都不意外。
+
+##### 共同后续
 
 **派蒙:** 它的意思是想告诉我们要穿过那边的通道吗？
 
@@ -1338,7 +1576,7 @@ We shouldn't get too close... just in case.
 
 **派蒙:** 看上去也没有别的路可走的样子，没办法，我们就先穿过这个通道看看吧！
 
-**派蒙:** 唔，不知道夏诺蒂拉去哪了，只有这个家伙在这里…
+#### 继续探索
 
 #### 与夏诺蒂拉对话
 
@@ -1370,15 +1608,21 @@ We shouldn't get too close... just in case.
 
 **夏诺蒂拉:** 那你们呢？你们有发现什么吗？
 
-- **旅行者:** 没发现什么特别的。
+##### 对话分支 1
 
-- **旅行者:** 又找到了一张书页。
+- **旅行者:** 没发现什么特别的。
 
 **派蒙:** 虽然感觉对解决夏诺蒂拉的问题没什么用处，不过我们又找到了一张书页…
 
+##### 对话分支 2
+
+- **旅行者:** 又找到了一张书页。
+
 **派蒙:** 对啦，我们在里面找到了这个，虽然不知道有什么用，不过看起来也是这本书的书页的样子…
 
-*将找到的书页打开给夏诺蒂拉查看了…*
+##### 共同后续
+
+将找到的书页打开给夏诺蒂拉查看了…
 
 **夏诺蒂拉:** 蝴蝶…是金色的蝴蝶…
 
@@ -1405,3 +1649,73 @@ We shouldn't get too close... just in case.
 **夏诺蒂拉:** 那样说不定以后我们还会在那个空间再见面的！
 
 **派蒙:** 什么啦，我们还是在现实里见面会比较好吧。夏诺蒂拉也不要再去那个空间里面乱跑啦！
+
+#### 和夏诺蒂拉一起「冥想」
+
+当你再次开始「冥想」，并试图理解书页上的内容时。
+书页的边缘渐渐模糊，那些原本无法理解的怪异图形，变得如立体书般跃然纸上。
+然而你还没来得及弄清楚发生了什么，周围重新变得喧嚣起来，你又回到了原来的世界。
+
+**夏诺蒂拉:** 唔，虽然确实能看懂上面写的字了，但还是不知道这本书的作者到底想说什么嘛！
+
+**夏诺蒂拉:** 只能把最后这张书页也放进去试试了，或许上面的内容可以连起来呢！
+
+随着阅读书页的速度越来越快，恍惚之间，你似乎又来到了那个神秘的空间。
+之前的声音再次响起。
+
+「…无论计算多少次都一样。数百年后，世界的胎水将会干涸，在那之后又是百年，世界就会变成眼前的模样。这可麻烦了。
+「…真是的，不要哭嘛。没什么好怕的。还有我在。难道你不相信我吗？而且阿兰他们一定也会帮忙的。况且，如果是你的话，一定能在这样的世界生还…
+「…我明白了，你是担心别的人体质和你不一样。嗯，很有道理。那金色剧团留下的东西，也要继续研究才行，说不定也能找到新的可能性。我们之后一起回水仙十字院看看吧，好吗？」
+
+声音再次远去。似乎过去了很久以后——但在这样的世界里时间似乎也失去了丈量物质变化的意义——话语声再次响起。
+
+「…看来他是不会帮忙的了。我能依靠的人只剩下你了。真是的，别这样嘛。我也很难过，但是在一切结束之前都不能哭。而且，还要想办法治好他才行。
+「…不用怕，一切都会顺利的。已经有很多人愿意听我们的话了。接下来，要进一步说服他们的话…除了信念，还需要仪式…
+「…名字的话就叫『揭示之书』，姑且制作成书的形式好了。就用我们的密文来写。大家只能看到自己认知框架下的世界。但利用这样的方式，就能将我们预见的景象分享给别人…」
+
+你刚想仔细听听到底在说什么，那个声音却渐行渐远了…
+这时你感到周围的世界突然开始崩塌，在一阵轰鸣声后，你再次清醒了过来。
+
+**派蒙:** 旅行者，你怎么了啦？
+
+- **旅行者:** 刚才是发生地震了吗？
+
+**派蒙:** 地震？什么地震啦，刚才什么事情也没有发生啊。
+
+**派蒙:** 虽然刚才我也有点晕晕的，不过你看上去就像是晕过去了一样！该不会是你又和之前一样进到那个什么神秘空间里去了吧？
+
+**派蒙:** 那个神秘空间到底是怎么回事啦…仔细想想还有点危险呢，要是进到里面出不来可就糟糕了。
+
+**派蒙:** 所以你到底在里面遇到什么啦？
+
+##### 对话分支 1
+
+- **旅行者:** 似乎看见了某人预见的景象。
+
+**派蒙:** 欸？之前找到的书页里好像也提到过推演什么的…该不会那个空间里面展示的就是推演的结果？
+
+##### 对话分支 2
+
+- **旅行者:** 似乎听到了某人的预言。
+
+**派蒙:** 欸？有人在里面说话吗？还是什么预言，听上去也太诡异了！
+
+##### 共同后续
+
+**派蒙:** 唔…如果你说的没错的话，也就是说这其实是一本预言书？
+
+**派蒙:** 不过为什么要做成这么复杂才能读懂的形式呢？如果书的作者不想让人知道的话，一开始就不要写出来不就好了！
+
+**夏诺蒂拉:** 虽然我之前「冥想」的时候也有听到过各种声音…但我听到的只有鸟儿和花的歌声…你们说的预言什么的我完全不知道。
+
+**夏诺蒂拉:** 看来只有进到那个空间里面，才能知道到底怎么回事了…这次我们一起「冥想」吧，我们一起的话，应该就能成功进去了。
+
+**派蒙:** 还是有点担心…那我也要一起，我可不想一个人留在这里。
+
+你再次集中精神开始「冥想」，周围的喧嚣逐渐消失，世界霎时间安静下来。
+这时，耳边传来了一阵细碎的声响，随之而来的，一种不知是愤怒还是悲悯的情绪涌上心头。
+
+你的精神仿佛也被这神秘的声音所吸引。
+循着声音传来的方向，无比陌生而又无比亲切的世界闯入了视野。
+
+#### 解读书页

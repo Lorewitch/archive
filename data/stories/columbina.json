@@ -146,5 +146,1086 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Поболтаем: Пение",
+        "en": "Chat: Singing",
+        "zh": "闲聊·歌"
+      },
+      "text": {
+        "ru": "Я пою не для кого-то одного. Но если человек остановится послушать мои песни, мне хочется, чтобы они подарили ему умиротворение.",
+        "en": "I don't sing for anyone in particular. Still, if someone stops to listen, I hope it provides a moment of peace all the same.",
+        "zh": "我的歌并不为谁而唱。但如果有人驻足聆听，我希望他能从中获得片刻的安宁。"
+      },
+      "source_id": 125000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Луна",
+        "en": "Chat: Moongazing",
+        "zh": "闲聊·月亮"
+      },
+      "text": {
+        "ru": "Хочешь полюбоваться луной? Садись в моё кресло-качалку и наслаждайся зрелищем. Или мы можем отправиться на луну и созерцать Тейват с высоты. Как тебе больше нравится.",
+        "en": "Would you like to go moongazing? You can sit in my rocking chair and admire the view. Or we could go to the moon and gaze down at Teyvat. Whatever you prefer.",
+        "zh": "想要赏月吗？你可以坐到我的摇椅上，找个舒服的角度。或者我们一起去月亮上，赏提瓦特也行。"
+      },
+      "source_id": 125001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Прогулка",
+        "en": "Chat: Long Walks",
+        "zh": "闲聊·漫步"
+      },
+      "text": {
+        "ru": "Я раньше каждый день подолгу гуляла в Чертоге серебряной Луны, так что не беспокойся, я не останусь позади.",
+        "en": "I used to take long walks in Silvermoon Hall every day, so don't worry about me. I can keep up.",
+        "zh": "我过去每天都会在银月之庭漫步很久，不用担心我跟不上你的步伐。"
+      },
+      "source_id": 125002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Можешь звать меня Коломбина, или Куутар, или Богиня Луны... Как пожелаешь. Я привыкла к тому, что у меня много имён. Если нужно, я дарую тебе благословение луны.",
+        "en": "You can call me Columbina, or Kuutar, or Moon Goddess... Whatever you prefer. I'm used to having many names. The moon's blessing is yours, whenever you might find yourself in need.",
+        "zh": "你可以叫我哥伦比娅，也可以叫我库塔尔、月神大人…选你喜欢的吧。我习惯了有很多名字的日子。若你需要的话，我会给予你月亮的赐福。"
+      },
+      "source_id": 125003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Укрывшись от дождя и слушая, как он очищает землю, я чувствую себя в безопасности, как будто я «дома».",
+        "en": "Taking shelter and listening to the rain cleanse the earth makes me feel safe, like being \"home.\"",
+        "zh": "避雨的时候倾听雨水冲刷大地，会给我一种在「家」的安全感。"
+      },
+      "source_id": 125004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Небо снова ясное. Сегодня ночью можно будет увидеть луну.",
+        "en": "The sky is clear again. We should be able to see the moon tonight.",
+        "zh": "天晴了，晚上应该能看到月亮吧？"
+      },
+      "source_id": 125005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Ах! Если молния не предвещает грозы... звук грома бывает довольно пугающим...",
+        "en": "Ah...! Without lightning to give warning... the sound of thunder is quite startling...",
+        "zh": "唔…！看不到闪电的话…很容易被雷声吓到…"
+      },
+      "source_id": 125006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Я люблю снег. Он такой красивый и безмятежный, и я могу играть в снежки с куухенки. Хочешь поиграть прямо сейчас?",
+        "en": "I love the snow. It's so beautiful and peaceful, and I can have snowball fights with the kuuhenki. Shall we have one now?",
+        "zh": "我喜欢雪。美丽又安静，还能和月灵们打雪仗。你想现在来玩玩吗？"
+      },
+      "source_id": 125007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Если ветер слишком сильный, и ты не можешь открыть глаза, дай мне руку. Я поведу тебя.",
+        "en": "If the wind is too strong to keep your eyes open, give me your hand. I'll guide you.",
+        "zh": "睁不开眼的话，就把手给我，我带你走。"
+      },
+      "source_id": 125008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Ночью песок под ногами такой прохладный и приятный. Но днём он становится очень горячим...",
+        "en": "The sand is cool and comfortable to walk on at night, but it gets so hot during the day...",
+        "zh": "夜晚的沙子踩上去很凉快，很舒服。但到了白天就会变得好烫好烫…"
+      },
+      "source_id": 125009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро... Где же моя резинка для волос? Хм?.. Волосы растрепались? Где? Помоги мне их причесать.",
+        "en": "Good morning... Have you seen my hair tie? Hmm? My hair looks messy...? Which part? Could you brush it for me?",
+        "zh": "早…看到我的发绳了吗？嗯？头发有些乱…？在哪边？帮我梳梳。"
+      },
+      "source_id": 125010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Ах... Луна ещё не взошла. Хочу вздремнуть в обнимку с куухенки.",
+        "en": "Hmm... The moon hasn't risen yet. I think I'll take a nap with the kuuhenki.",
+        "zh": "呼…月亮还没升起来，我想先抱着月灵们睡个午觉。"
+      },
+      "source_id": 125011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Ночь наступила... Разве не забавное выражение? Как будто ночь наступает на землю, споткнувшись о луну.",
+        "en": "\"Nightfall\"... Quite an interesting expression, don't you think? It's as if night tumbles in each evening, tripping over the moon.",
+        "zh": "夜幕落下…不觉得这种说法很有趣吗？就好像「夜晚」是被月亮绊了一跤才掉下来的一样。"
+      },
+      "source_id": 125012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Не спится? Хм... Куухенки тоже иногда не могут уснуть. Обычно в такие моменты я пою им песни и рассказываю истории. Хочешь попробовать?",
+        "en": "Can't sleep? Hmm... The kuuhenki have that problem too sometimes. When that happens, I usually sing to them or tell them stories. Would you like me to do that for you?",
+        "zh": "睡不着吗？唔…月灵们有时也会这样。一般这种时候，我就给月灵们唱唱歌，讲讲故事。要不要给你也试试？"
+      },
+      "source_id": 125013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Коломбине: Повязка на глаза",
+        "en": "About Columbina: Eye Mask",
+        "zh": "关于哥伦比娅自己·眼罩"
+      },
+      "text": {
+        "ru": "Я привыкла «чувствовать» с помощью куувяки - она раскрывает суть вещей лучше, чем «зрение». Однако иногда любопытство берёт верх, и я открываю глаза, чтобы посмотреть. И в этом прелесть ажурной повязки.",
+        "en": "I'm used to \"sensing\" things with kuuvahki — it reveals the truth of things better than \"seeing\" does. Still, curiosity does sometimes get the better of me, and I open my eyes to take a peek. That's the nice thing about having an eye mask with holes.",
+        "zh": "我习惯了用月矩力去「感受」，这比「看」更能为我展现事物的真相。不过，我偶尔遇到好奇的时候，也会悄悄睁开眼睛偷看一下。我的眼罩是镂空的。"
+      },
+      "source_id": 125014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О Коломбине: Дом",
+        "en": "About Columbina: Home",
+        "zh": "关于哥伦比娅自己·家"
+      },
+      "text": {
+        "ru": "Раньше я думала, что всегда буду чувствовать себя чужой на этой земле, что луна - мой настоящий дом. Теперь у меня есть место, которое я могу назвать своим домом, и мои два дома стали ближе друг к другу.",
+        "en": "I used to think I would forever be a stranger to this land — that the moon was my true \"home.\" Now, I have an additional place to call home, and both my homes are now closer by.",
+        "zh": "我曾以为自己一直在流浪，月亮才是我的「家」。但现在，我的「家」不仅变多了，也变得更近了。"
+      },
+      "source_id": 125015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Деяния",
+        "en": "About Us: Great Deeds",
+        "zh": "关于我们·事迹"
+      },
+      "text": {
+        "ru": "Я слышала о тебе задолго до нашей первой встречи. Ещё когда я была с Фатуи, помню, как другие Предвестники говорили о твоих деяниях. Но у тебя так много титулов, что я... заснула ещё до того, как они дошли до твоего имени.",
+        "en": "I heard about you long before we met. Back when I was with the Fatui, I remember the other Harbingers talking about your deeds. But you have so many titles, I... fell asleep before they even got to your name.",
+        "zh": "我很久之前就听说过你。在「愚人众」的时候，其他执行官聊起过你的事迹。但似乎当时觉得你的名号太多，他们还没讲到名字的时候，我就已经睡着了。"
+      },
+      "source_id": 125016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "О нас: Путешествие",
+        "en": "About Us: Traveling",
+        "zh": "关于我们·旅行"
+      },
+      "text": {
+        "ru": "Можешь рассказать, на что нужно обращать внимание во время путешествия? Например, как общаться с людьми из других стран. А? Мне следует сосредоточиться на навыках разведения костра, приёмах охоты и... транспорте? Хм. А разве нельзя просто использовать куувяки для всего этого?",
+        "en": "Could you give me some tips for traveling? Like... how to talk to people from other nations. Hmm? I should focus more on fire-building skills, hunting techniques, and... transport? Huh. Couldn't I just use kuuvahki for all that?",
+        "zh": "能告诉我一些旅行期间的注意事项吗？比如怎么和其他国家的人说话之类的。嗯…？你说更应该关注生火和捕猎的技巧…日常的交通方式？这些…不是用月矩力就可以了吗？"
+      },
+      "source_id": 125017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О слиянии трёх лун...",
+        "en": "About the \"Tri-Lunar Convergence\"",
+        "zh": "关于「三相月临」…"
+      },
+      "text": {
+        "ru": "Три богини передали мне свои силы, которые слились в одну, ослепительную и нежную. Через неё я чувствую их любовь к этому миру, ощущаю надежды, которые они возлагали на него, и благословения, которые они дарили ему в последние мгновения своей жизни. Я унаследую их лунный свет и буду освещать им мир под луной - место, которое мы все называем «домом».",
+        "en": "The three goddesses bestowed their powers upon me, which converged into a force that is both dazzling and gentle. Through it, I can feel their attachment to this place, and I can sense the hopes and wishes they offered to this world in their final moments. I will inherit their moonlight and use it to illuminate the world beneath the moon — the place we all call \"home\".",
+        "zh": "三位女神将她们的权能交予了我。三份力量互相交汇，很耀眼，又很温柔。我能从中感受到她们对这个世界的眷恋，以及在生命最后时刻给予这个世界的期盼与祝福。我将继承她们的月光，让它照亮月下的世界，照亮我们共同的「家」。"
+      },
+      "source_id": 125018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Ещё в Снежной, будучи Третьим из Предвестников Фатуи, я пользовалась многими привилегиями. Мне не нужно было покупать билет на поезд или стоять в очереди на спектакль Королевской труппы... Ах да, и когда обедала в ресторане, мне... «возмещали расходы». Это выходило за рамки моего понимания, поэтому я ходила в рестораны с Сандроне или Арлекино.",
+        "en": "Back in Snezhnaya, being Third of the Fatui Harbingers came with a lot of perks. I didn't need to purchase a ticket for the train or stand in line for the Korolevskiy Troupe... Ah, and when I dined at a restaurant, I could get... \"reimbursed\"? That was a bit too complicated for me to understand, though, so I just tagged along with Sandrone or Arlecchino instead.",
+        "zh": "在至冬作为「愚人众」执行官第三席的时候，能够享受到许多生活中的便利。坐列车不用买票、去科洛列夫茨基剧团也不用排队…啊，但去餐厅吃饭的话，虽然能够…「报销」？但那好像很复杂，我搞不懂。所以我都是和桑多涅，或者阿蕾奇诺一起去吃。"
+      },
+      "source_id": 125019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Луна прекраснее, чем я могла себе представить. Голубая куувяки спокойно течёт, превращаясь в бескрайний океан, великолепные медузы, дрейфующие по морю, розовые инеевые финвалы, приплывающие из неведомых мест, огромные куухенки... Как только я приведу свой дом в более презентабельный вид, приглашу друзей в гости.",
+        "en": "The moon is more beautiful than I could have imagined. Blue kuuvahki flowing like an endless ocean, magnificent jellyfish drifting across the sea, pink frostfin whales coming from places unknown, enormous kuuhenki... It's magnificent. Once I've made my home a bit more presentable, I'll invite my friends up to visit.",
+        "zh": "月亮上的风景比我之前期待的还要美丽得多。蓝色的月矩力静静流淌，变为了一眼望不到边的海洋。漂亮的水母们在这片月色的海洋上自由飘荡。还有不知生活在哪里的粉色霜鳍鲸、好大好大的月灵…等我花些时间，把月亮上的「家」打理好，就请朋友们来做客吧。"
+      },
+      "source_id": 125020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Лауме...",
+        "en": "About Lauma",
+        "zh": "关于菈乌玛…"
+      },
+      "text": {
+        "ru": "Если направить лунный свет на голову Лаумы, её рога вырастут ещё выше. А если правильно рассчитать угол, то можно даже достать фрукты, до которых иначе не добраться... Что будет потом? Хм... Меня отругают.",
+        "en": "Aiming a beam of moonlight at Lauma's head makes her antlers grow taller, and if you get the angle just right, you can even get them to stab a piece of fruit that's too high to reach... Hmm? What then? Oh, um... You get scolded.",
+        "zh": "要是往菈乌玛头顶的方向递去一缕月光，她的角冠就会长得更高更大，算准角度，还能一下子戳中长在高处的果实…后来？嗯…被训了。"
+      },
+      "source_id": 125021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Николь...",
+        "en": "About Nicole",
+        "zh": "关于尼可…"
+      },
+      "text": {
+        "ru": "Мы поддерживали связь до недавнего времени. Я попросила её порекомендовать книги, которые я могла бы почитать куухенки. Она прислала мне целую гору книг и дала исчерпывающие пояснения о том, что послужило источником вдохновения для каждой из них и в каком контексте они были написаны. Я спросила, когда смогу прочитать книгу за её авторством, но потом вдруг перестала получать от неё вести. Возможно... она ушла писать книгу.",
+        "en": "Oh, we kept in touch until a short while ago. I asked her to recommend some books for me to read to the kuuhenki. She sent a whole lot and even gave me detailed explanations about the inspiration and setting for each one. I asked her when I might be able to read a book she had authored herself, but then I suddenly stopped hearing from her. Perhaps... she went off to write one.",
+        "zh": "前段时间我们还保持着联系。「有没有推荐的书？想拿来读给月灵们听。」像这样和尼可小姐说了一句之后，她送来了很多有趣的书籍，还向我详细介绍了每一个故事的灵感和设定。我问她，「什么时候才能读到尼可小姐亲笔写的书呢？」结果她突然消失不见了。嗯…或许是写书去了吧。"
+      },
+      "source_id": 125022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Нёвиллете...",
+        "en": "About Neuvillette",
+        "zh": "关于那维莱特…"
+      },
+      "text": {
+        "ru": "Гидро Дракон - верховный судья Фонтейна? Хм... Похоже, он из тех драконов, которые любят держать людей в заточении. Не особо хочется с ним встречаться.",
+        "en": "The Hydro Dragon who serves as the Iudex of Fontaine? Hmm... Another Dragon who puts people in prison. I'm not sure I'd want to meet him.",
+        "zh": "在枫丹担任最高审判官的水之龙？唔…听上去也是一位会将人投进囚牢的龙呢。不太想见他。"
+      },
+      "source_id": 125023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Семи...",
+        "en": "About The Seven",
+        "zh": "关于尘世七执政…"
+      },
+      "text": {
+        "ru": "Если наши пути пересекутся во время моего путешествия, я обязательно поздороваюсь.",
+        "en": "If we cross paths during my journey, I'll be sure to say hello.",
+        "zh": "如果在旅途中巧遇的话，我会和他们打个招呼的。"
+      },
+      "source_id": 125024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Ледяной Царице...",
+        "en": "About the Tsaritsa",
+        "zh": "关于「冰之女皇」…"
+      },
+      "text": {
+        "ru": "Когда я впервые пела в саду Заполярного дворца, мимо проходила Царица. Она стояла молча и неподвижно словно статуя с бесстрастным выражением лица. На мгновение мне показалось, что она хочет мне что-то сказать, но она так и не произнесла ни слова.\nОна скрывает свои эмоции под толстым слоем льда. Внешний мир видит только одну сторону её личности... Царицу. Если ответы, которые я искала, находятся на луне, то её ответы, вероятно, погребены под толстым слоем снега и льда.",
+        "en": "The first time I sang in the gardens of Zapolyarny Palace, the Tsaritsa happened to pass by. She stood there, silent and motionless, like a statue with no expression carved onto the face. For a moment, I felt as if she wanted to say something to me, but she never did.\nShe seals her emotions beneath thick sheets of ice. The outside world sees but one side of who she is... that of the Tsaritsa. If the answers I sought rest on the moon, perhaps hers lie buried in snow and ice.",
+        "zh": "我第一次在至冬宫的花园里唱歌的时候，「女皇」恰好途经那里，她静静地站在一旁，像一尊还没来得及刻画表情的雕像。有一刻，我感觉她想对我说些什么，但没有。\n她把感情封进了厚厚的冰层，只对外显露她作为女皇的一角…我的答案留在月亮上，她的答案，或许葬在了冰山之下。"
+      },
+      "source_id": 125025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Шуте...",
+        "en": "About The Jester",
+        "zh": "关于「丑角」…"
+      },
+      "text": {
+        "ru": "Он полная противоположность своему прозвищу, и это, по-видимому, сделано намеренно. Он известен как Шут, но его манера речи строгая и серьёзная, а сам он говорит загадками. На его маске изображена ухмылка, которая насмехается над миром, но сам он никогда не улыбается.",
+        "en": "He's quite the opposite of his codename, and that seems to be intentional. Although he's known as \"The Jester,\" his tone is stern and serious, and he speaks in confusing riddles. The mask he wears depicts a grin that mocks the world, but he himself never smiles.",
+        "zh": "他像是故意想成为他代号的反语。名为「丑角」，语调却严肃深沉，总是说些难懂的话。他佩戴嗤笑世界的面具，自己却从不微笑。"
+      },
+      "source_id": 125026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Капитане...",
+        "en": "About The Captain",
+        "zh": "关于「队长」…"
+      },
+      "text": {
+        "ru": "Многие уважают его, но столько же и боятся. Хм? Слишком запутанно? Понимаешь, существа, привыкшие жить в темноте, никогда не решатся приблизиться к свету. Это слишком опасно, ведь свет лишь удлиняет их тени.",
+        "en": "Many respect him, but just as many fear him. Hmm? Is that too confusing? Well, you see, creatures accustomed to living in darkness will never choose to get close to the light. It's too dangerous, for light would only lengthen their own shadow.",
+        "zh": "尊敬他的人不少，畏惧他的人也多。唔…不好懂么？那些习惯生活在阴暗处的生物是不会选择靠近光源的。光太危险，只会拖长他们自身的影子。"
+      },
+      "source_id": 125027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Докторе...",
+        "en": "About The Doctor",
+        "zh": "关于「博士」…"
+      },
+      "text": {
+        "ru": "Было время, когда Доктор заботился обо мне. Говорил, что относится ко мне как к родной сестре.\nПозже я поняла, что чем ближе человек к нему, тем легче ему этим человеком манипулировать. «Мы семья, а потому должны быть терпимее друг к другу, разве нет?» Я видела, что он искренне так думал, но я не хотела «терпеть». Эти ожидания напоминали мне о жадных взглядах возле алтаря в моём первом доме.",
+        "en": "There was a time when \"The Doctor\" took care of me, even claiming to think of me as a sister.\nIt was only later that I discovered, the closer you are to him, the more freely he uses you. \"What's a little discomfort among family? We endure for each other, surely.\" That's how he thought of things, and I could tell he meant it, but I didn't want to have to \"endure.\" Expectations like that... They took me back to my first home, and the eyes staring up at me from beneath the altar, so full of greed.",
+        "zh": "曾有一段时间，「博士」很照顾我，他说对待我就像对待自己的妹妹一样。\n后来我发现，越是在他心中亲近的人，他利用起来便越是自如。「既然是一家人，应该要学着忍让吧？」我看得出他由衷那么想，而我不想那么做。这种需要只会令我回想起在第一个家时，石台下的那些贪婪目光。"
+      },
+      "source_id": 125028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Об Арлекино...",
+        "en": "About Arlecchino",
+        "zh": "关于阿蕾奇诺…"
+      },
+      "text": {
+        "ru": "В Доме очага много детей, и иногда бывает шумно. Я слышала, как они называют Арлекино Отцом, и думала, что это правило, которому нужно следовать в этом месте. Поэтому, когда Арлекино проходила мимо, я тоже назвала её Отцом. И только тогда я узнала, насколько может быть тихо в Доме очага.",
+        "en": "The House of the Hearth is home to many children, and it can get quite noisy. The first time I heard them call Arlecchino \"Father,\" I thought it was a rule that had to be followed there. So, the next time she passed by, I used that title as well. That's when I learned just how quiet the House of the Hearth could become.",
+        "zh": "壁炉之家孩子们很多，有时会有些吵闹。我听见他们都叫阿蕾奇诺「父亲」，以为这是在壁炉之家时需要遵守的规矩。于是我在阿蕾奇诺经过时，也那样叫了一声。然后我才知道，原来壁炉之家还能那么安静。"
+      },
+      "source_id": 125029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "О Цыплёнке...",
+        "en": "About The Rooster",
+        "zh": "关于「公鸡」…"
+      },
+      "text": {
+        "ru": "Я могу научить тебя говорить так же, как он - всё, что тебе нужно сделать, это объединить «мору», «этот проклятый Панталоне» и «запомни мои слова» в одной фразе. Сейчас покажу. «Где мора? Запомни мои слова, я убью этого проклятого Панталоне». Или вот ещё: «Этот проклятый Панталоне будет кашлять морой, запомни мои слова». Видишь, как интересно?",
+        "en": "I can teach you to talk just like him — all you have to do is combine the words \"money,\" \"that darn Pantalone,\" and \"mark my words.\" Here, I'll show you. \"Where's the money? Mark my words, I'm going to kill that darn Pantalone.\" Or, \"That darn Pantalone is going to cough up the money, mark my words.\" See? Isn't that fascinating?",
+        "zh": "我可以教你怎么学他说话，只需要把「钱」、「该死的潘塔罗涅」和「我保证」三个词组混在一起就行了。「钱呢？该死的潘塔罗涅。我保证过的」是一种，「我保证让该死的潘塔罗涅吐出钱来」又是一种。你看，很神奇吧？"
+      },
+      "source_id": 125030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "О Сандроне: Механический ключ I",
+        "en": "About Sandrone: Clockwork Nature",
+        "zh": "关于桑多涅·发条"
+      },
+      "text": {
+        "ru": "Интересно, ключ на её спине когда-нибудь перестаёт вращаться? Он меняет направление? Она снимает его, когда спит? Как она переворачивается? Меня интересовал этот ключ с момента нашей первой встречи. Но поскольку мы тогда не были близки, мне казалось неуместным подойти и потрогать его. Поэтому, при любой возможности, я следовала за ней, пытаясь понять, как он движется. Но однажды она внезапно обернулась и спросила, почему я за ней хожу. Когда я объяснила ей причину, она сказала: «Если тебе так интересно, я могу прикрепить такой же к твоей спине, и ты сама всё увидишь». Так я прожила несколько дней с ключом на спине, и это было довольно непросто. Сандроне нелегко, поэтому с тех пор я стала больше заботиться о ней.",
+        "en": "I wonder, does the key on her back ever stop turning? Does it change direction? Does she remove it when she sleeps? How does she roll over? I've been curious about that key ever since I first met her. But since we weren't close then, it didn't seem right to just go up and touch it. So whenever I had the chance, I would follow behind her, trying to figure out the pattern of its movement. But one day, she suddenly turned around and demanded to know why I kept following her. After I told her the reason, she said, \"If you're that curious, why don't I put one on your back, and you can see for yourself?\" So I lived with a key on my back for a few days, and it was quite the challenge. Sandrone doesn't have it easy, so I've looked out for her even more since then.",
+        "zh": "她背后的发条会一直转吗？是永远朝同一个方向转吗？睡觉的时候，她会把发条拆下来吗？翻身要怎么办？刚见到桑多涅的时候，我就对她的发条产生了好奇。但那时和她还不熟，直接去碰似乎也不太好。所以我只要有机会就一直跟在她身后，想找到她发条转动的规律。但有一天，她突然转过身，看起来很生气地质问我为什么总要跟着她。我老老实实告诉她之后，她对我说，「你那么好奇的话，我给你背后安一个试试得了」。于是我就背着发条生活了几天，唔…的确很辛苦，桑多涅的生活真不容易。自那之后，我就更关心她了。"
+      },
+      "source_id": 125031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "О Сандроне: Механический ключ II",
+        "en": "About Sandrone: Clockwork Nature II",
+        "zh": "关于桑多涅·发条其二"
+      },
+      "text": {
+        "ru": "Я не знаю, что считается «смертью» для куклы... Я знаю только, что Сандроне не двигается, и я не чувствую, что она «работает». Её ключ... остановился. И всё из-за «техники», которую она использовала, чтобы вернуть меня к жизни. Она сказала, что однажды отомстит мне. Я бы очень хотела, чтобы всё было именно так, что это была лишь попытка напугать меня...",
+        "en": "I'm not sure what counts as \"death\" for a puppet... All I know is, Sandrone isn't moving, and I can't feel her \"operating.\" Her key has just... stopped. And all because of the \"technique\" she used to bring me back. She said she was going to get back at me that one time. How I wish that's all this was. Just an attempt to scare me...",
+        "zh": "我不清楚对人偶来说，怎么样才算是「死亡」…但桑多涅真的不动了，我感受不到她的「运转」，她的发条也不动了。她是为了那个「术式」，为了让我回到这里，才变成了这样…我多么希望她这么做只是为了吓我一次，就像她曾经说过会报复我的那样…"
+      },
+      "source_id": 125032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "О Дельце...",
+        "en": "About Regrator",
+        "zh": "关于「富人」…"
+      },
+      "text": {
+        "ru": "В его глазах все и каждый имеют цену, и он сам решает, какова их ценность. Мы все для него лишь предметы торга, которые он может использовать для расширения своей непрерывно растущей империи богатства. Но кто захочет побывать в такой скучной империи? Я точно не хочу.\nХм... Если бы он увидел меня сейчас, я уверена, его улыбка скрывала бы ещё больше презрения, чем раньше. Я словно слышу его слова: «Поздравляю, Коломбина. Твоя ценность возросла».",
+        "en": "In his eyes, everything and everyone has a price tag, and he gets to decide their value. We're all just bargaining chips he can use to expand his ever-increasing empire of wealth. But who would want to visit a boring empire like that? Not me, that's for sure.\nHmm... If he saw me now, I'm sure his smile would hide even more contempt than before. I can almost hear it now... \"Congratulations, Miss Columbina. Your value has appreciated.\"",
+        "zh": "在他眼中，每件事物，每个人，都是被明码标价了的，他掌握着价格的规则，通过运作筹码来扩建他的财富帝国。但那个地方很无聊，我也不会想去做客的。\n啊…如果「富人」见到现在的我，他的笑容里一定会藏入比以往更深的厌恶吧。我都能想象出他的声音了。「恭喜你升值了，哥伦比娅小姐。」"
+      },
+      "source_id": 125033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "О Розалине...",
+        "en": "About Rosalyne",
+        "zh": "关于罗莎琳…"
+      },
+      "text": {
+        "ru": "Если метаморфоза заканчивается тем, что пламя поглощает крылья, то, возможно, остаться в коконе - это единственный способ выжить. Но я сомневаюсь, что Розалина когда-либо рассматривала такой вариант, или, возможно, она с самого начала была готова к такому исходу. Будь то любовь, ненависть или просто танец, она всецело отдавала себя своим стремлениям... и после смерти другим оставалось лишь спеть ей похоронную песню.",
+        "en": "If metamorphosis ends in one's wings being engulfed in flame, perhaps remaining in the cocoon is how one survives. But, I doubt Rosalyne ever considered making that choice, or perhaps she had determined her own end from the very beginning. Whether it was love, hate, or a simple dance, she gave her whole self to her pursuits... and left others to sing her dirge after her departure.",
+        "zh": "如果羽化意味着催动翅膀扑向火焰，那么维持茧的形态是否才是留存生命的更好选择？罗莎琳仿佛从没考虑过可以那么选，又或者她早已为自己选定了结局。她尽情爱，尽情恨，尽情舞…然后将哀歌留给别人来唱。"
+      },
+      "source_id": 125034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "О Чайльде...",
+        "en": "About Childe",
+        "zh": "关于「公子」…"
+      },
+      "text": {
+        "ru": "Говорят, у него хорошие отношения с семьёй: они все вместе выезжают на природу и устраивают пикники у озера. Сандроне говорит, что из всех Предвестников его образ жизни больше всего похож на жизнь обычного человека. Я не очень понимаю обычных людей, но такая жизнь мне импонирует.",
+        "en": "I've heard he has a good relationship with his family. They go camping together and have barbecues by the lake. Sandrone says he's the Harbinger who lives most like an ordinary person. I don't really understand ordinary people, but that kind of life sounds nice to me.",
+        "zh": "听说他和家人的感情很好，休假的时候会举家外出，去湖边露营烧烤。桑多涅说他是执行官当中生活得最像普通人的那一个，我不了解普通人，但我觉得那样的日子听上去倒是不错。"
+      },
+      "source_id": 125035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Узнать больше о Коломбине I",
+        "en": "More About Columbina: I",
+        "zh": "想要了解哥伦比娅·其一"
+      },
+      "text": {
+        "ru": "Э... моя история? Хм... Это долгая история. О, ты приготовил чай и закуски? Тогда в качестве благодарности я расскажу побольше. / Э... моя история? Хм... Это долгая история. О, ты приготовила чай и закуски? Тогда в качестве благодарности я расскажу побольше.",
+        "en": "Huh...? My story? Um... That might take quite a while to tell. Oh, you brought tea and snacks? Well then, I suppose I could share a bit more in return.",
+        "zh": "欸…？我的故事？唔…那可能要说很长时间。嗯？你准备了茶水和点心？好吧，那作为回报，我就多讲一些。"
+      },
+      "source_id": 125036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Узнать больше о Коломбине II",
+        "en": "More About Columbina: II",
+        "zh": "想要了解哥伦比娅·其二"
+      },
+      "text": {
+        "ru": "Я потратила много времени, чтобы научиться общаться с людьми и жить в этом мире. Но, оглядываясь назад, я понимаю, что мой опыт общения с Детьми Морозной Луны и Фатуи был не самым лучшим. Долгое время я думала, что отношения построены на принципах получения выгоды - их единственная цель заключается в том, чтобы понять, что ты можешь взять, и что тебе за это придётся отдать.",
+        "en": "I used to spend a lot of time learning how to interact with people and go about life in this world. But looking back now, perhaps my experiences with the Frostmoon Scions and the Fatui weren't the best teachers. For a long time, I thought relationships were transactional — their only purpose being figuring out what you can take, and what it might cost you in return.",
+        "zh": "我曾用很长时间去学习如何同他人相处，如何同这个世界相处。现在回想起来，最初在「霜月之子」和「愚人众」的两段经历，都不是很好的教材呢。以至于很长一段日子里，我都以为相处和交往即是利益的索求与代价的支付。"
+      },
+      "source_id": 125037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Узнать больше о Коломбине III",
+        "en": "More About Columbina: III",
+        "zh": "想要了解哥伦比娅·其三"
+      },
+      "text": {
+        "ru": "Я люблю рассказывать истории куухенки и петь песни. В моей жизни есть пустота, которая существовала ещё до моего рождения и с тех пор преследует меня. Моя история с самого начала была неполной, поэтому я научилась использовать другие истории, чтобы заполнить пробелы. Я пытаюсь обрисовать её контуры словами и раскрасить её песнями.",
+        "en": "I love telling stories to the kuuhenki, and I love to sing. There's a blank space in my life that has existed since before I was born and has shadowed me since. My story was incomplete from the start, so I've learned to use other stories to fill in the gaps. It's like... painting a picture — I sketch the outline with words and color it in with song.",
+        "zh": "我喜欢为月灵们讲故事，也喜欢唱歌。我的人生有一块空白，它出现在我诞生之前，却如一个胎记般伴随着我的生活。当你的故事生来就是残缺的，你就得学着用其他故事去填补这个空白。我尝试用词语去摹画它的轮廓，又用歌声为它添上色彩。"
+      },
+      "source_id": 125038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Узнать больше о Коломбине IV",
+        "en": "More About Columbina: IV",
+        "zh": "想要了解哥伦比娅·其四"
+      },
+      "text": {
+        "ru": "В Ночь лунной молитвы я получила своё имя - Коломбина Гипоселениа. Раньше я думала, что имя - это просто обозначение, что-то внешнее по отношению к себе. Но после той ночи я поняла: имя - это моя связь с этим миром, оно содержит чувства моих друзей, это эхо того «я», которое живёт в их сердцах. Я буду дорожить этим именем.",
+        "en": "On Moon-Prayer Night, I received a name that belongs to me — Columbina Hyposelenia. I used to think a name was nothing more than an alias, something separate from oneself. But after that night, I realized my name is what connects me to this world and the people within it... It is all that is intangible — their friendship, love, and support — manifested for the world to see. I will cherish it forever.",
+        "zh": "在祈月之夜，我得到了自己的名字——哥伦比娅·希珀塞莱尼娅。从前的我会以为，名字不过是个代号，是自身以外的某种东西。但那晚过后我明白了，名字是我同这个世界的连接，它包含着朋友们的心意，是朋友们心中的「我」在现实中的回响。我会珍惜这个名字的。"
+      },
+      "source_id": 125039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Узнать больше о Коломбине V",
+        "en": "More About Columbina: V",
+        "zh": "想要了解哥伦比娅·其五"
+      },
+      "text": {
+        "ru": "Моя история похожа на оперу, которая идёт в обратном порядке. Сначала был конец, а потом я стала искать причины и объяснения. Но если бы я могла вернуться назад и прожить всё заново, я бы ничего не изменила. Мне нравится, как всё сложилось. Без этого путешествия я бы никогда не узнала, что родиться в Нод-Крае было моим собственным выбором, мои друзья никогда бы не помогли мне найти мою настоящую «семью», а ты никогда бы не последовал за луоннотар в Чертог серебряной Луны в ту ночь. Моя история могла бы обернуться другой пустотой, и я этого не хочу. / Моя история похожа на оперу, которая идёт в обратном порядке. Сначала был конец, а потом я стала искать причины и объяснения. Но если бы я могла вернуться назад и прожить всё заново, я бы ничего не изменила. Мне нравится, как всё сложилось. Без этого путешествия я бы никогда не узнала, что родиться в Нод-Крае было моим собственным выбором, мои друзья никогда бы не помогли мне найти мою настоящую «семью», а ты никогда бы не последовала за луоннотар в Чертог серебряной Луны в ту ночь. Моя история могла бы обернуться другой пустотой, и я этого не хочу.",
+        "en": "My story is like an opera played in reverse. The ending came first, and I was left searching for the whys and wherefores. But if I could go back and do it all over again, I wouldn't change a thing. I quite like it as it is now. Without this journey, I never would have known that being born in Nod-Krai was my own choice, my friends never would have helped me connect with my true \"family,\" and you never would have followed Luonnotar into Silvermoon Hall that night. My story would have been empty in a very different way. I don't like that version one bit.",
+        "zh": "我的故事像是一部倒放的歌剧。它先给予了我结果，才叫我去探寻原因。但若问我重来一次，是否希望这故事有所不同的话，我又会觉得现在这样挺好。如果没有这趟探寻的旅途，我就不会知道诞生在挪德卡莱其实是我自己的选择，就不会在朋友们的帮助下学会同真正的「家人」相处，你那晚也不会在努昂诺塔的指引下踏入银月之庭。我的故事或许会迎来另一种空白，我不希望那样。"
+      },
+      "source_id": 125040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Хобби Коломбины...",
+        "en": "Columbina's Hobbies",
+        "zh": "哥伦比娅的爱好…"
+      },
+      "text": {
+        "ru": "Мне нравится подниматься на Луну и наблюдать, как Тейват безмолвно вращается. Это приносит мне умиротворение.",
+        "en": "I like to go up to the moon and watch Teyvat revolve in silence. It brings me peace.",
+        "zh": "偶尔回到月亮上，睁开眼睛静静地看着提瓦特运转，会让我感到很安心。"
+      },
+      "source_id": 125041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Беспокойство Коломбины...",
+        "en": "Columbina's Troubles",
+        "zh": "哥伦比娅的烦恼…"
+      },
+      "text": {
+        "ru": "Хочется гулять по Нашгороду как обычный человек... но меня всегда узнают. Может, дело в моей одежде? Или в том, что я разговариваю с куухенки в городе? Обычные люди так не делают?",
+        "en": "I wish I could take a stroll in Nasha Town like a normal person... But I keep getting recognized. Is it my outfit? Or the fact that I talk to the kuuhenki in town? Do normal people not do that?",
+        "zh": "想和普通人一样在那夏镇散步…但每次都会被认出来。是应该换件外套吗？还是说普通人不会和镇上的月灵说话？"
+      },
+      "source_id": 125042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Свежие фрукты и овощи в сочетании с ароматным хлебом... Хм? Наверное, это немного простовато, но я к такому привыкла. Именно так меня кормили Дети Морозной Луны, когда я только родилась в Нод-Крае. Маленькие животные часто делились со мной ягодами, которые они собирали. Я предпочитаю еду в её наиболее естественном виде - это позволяет увидеть мир в его истинном обличье.",
+        "en": "Fresh fruit and vegetables paired with fragrant bread... Hmm? Oh, well, I suppose it is a bit plain, but I'm used to it. It's what the Frostmoon Scions gave me when I was first born in Nod-Krai. The little animals often shared their foraged berries with me too. I prefer food in its most natural state — it allows you to get a glimpse of the world as it's meant to be.",
+        "zh": "新鲜的水果、蔬菜，配上麦香味的面包…嗯？很朴素吗？可能是习惯了吧。最初诞生在挪德卡莱的时候，「霜月之子」给我的就是这些。小动物们也经常带它们采到的野果和我分享。我喜欢食物最初的样子，其中包含着一部分这个世界最初的模样。"
+      },
+      "source_id": 125043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Огненная вода и другие крепкие напитки. В Снежной их много. Я провела там много времени, но так и не смогла к ним привыкнуть. Почему людям нравится это ощущение, когда тело горит, а мир вращается? Может, они тоже хотят улететь на Луну?",
+        "en": "\"Fire-Water\" and other strong spirits. Snezhnaya has a lot of drinks like that. I was there for a long time, but I never got used to them. The world starts to spin and you feel like your insides are on fire. I just don't understand why people enjoy that feeling, unless... Do they want to float up to the moon too?",
+        "zh": "「火水」，还有其他一些味道很烈的酒。至冬有很多这样的饮品。尽管我在那边待了很长时间，但还是习惯不来。为什么大家喜欢那种身子像在燃烧、世界像在旋转的感觉呢？他们也想飘到月亮上去吗？"
+      },
+      "source_id": 125044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Хочу ещё. Хм?.. Больше нет? Надо будет запомнить в следующий раз приберечь немного.",
+        "en": "More please. Hmm? Oh, was that all? I'll have to remember to save some next time.",
+        "zh": "我还要。咦…？没有更多了吗？好吧，我下次省着吃。"
+      },
+      "source_id": 125045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Неплохо, я буду не спеша наслаждаться этим при лунном свете.",
+        "en": "It's quite pleasant. I'll savor it beneath the moonlight.",
+        "zh": "还不错，我会伴着月光慢慢享用的。"
+      },
+      "source_id": 125046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Хм... Сандроне давала мне нечто подобное, когда я её злила...",
+        "en": "Oh... Whenever Sandrone was mad at me, she'd give me things like this too...",
+        "zh": "唔…我惹桑多涅生气的时候，她也会给我吃类似的东西…"
+      },
+      "source_id": 125047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Твой день рождения каждый год в один и тот же день? Как удобно. Ночь лунной молитвы проводится каждый год в разное время, я только могу по луне определить, когда мой день рождения. Но день рождения - это и правда радостный праздник. Все собираются вместе, танцуют и готовят вкусные блюда. А?.. У обычных людей дни рождения не такие? Подарки, торт и друзья?.. Хм, хорошо, давай позовём друзей отпраздновать вместе. Я могу спеть тебе песню, а ещё попрошу Маалаус нарисовать для тебя картину.",
+        "en": "Your birthday is on the same day every year? Wow, that's easy to remember. Moon-Prayer Night is held at different times each year, so I can only estimate my birthday by sensing the moon. A birthday is such a joyous occasion, isn't it? Everyone gathers to dance while people make delicious offerings to give you. Huh...? Regular people's birthdays aren't like that? Gifts, cake, and friends...? Oh, that works too. Let's invite your friends to celebrate. I can sing you a song, and we can even ask Maalaus to paint a picture for you.",
+        "zh": "你的生日每年都是同一天吗？真好记。唔…祈月之夜每年举办的时间都不同，我只能通过感知月亮来估算自己的生日。不过，「生日」倒的确是个愉快的节日。大家围在一起跳舞，还会为你制作好吃的贡品。欸…？普通人的生日不是这样的吗？礼物、蛋糕，还有朋友…？嗯，好呀，那就叫上朋友们来为你一起庆祝。我可以为你唱首歌，还能叫上梅拉为你画幅画呢。"
+      },
+      "source_id": 125048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "По Вечной Луне поднимутся приливы.",
+        "en": "By the Eternal Moon, the tides shall surge.",
+        "zh": "潮汐因恒月而翻涌。"
+      },
+      "source_id": 125049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Холодная ночь озарена светом Морозной Луны.",
+        "en": "By the Frost Moon, the night shall be illuminated.",
+        "zh": "寒夜因霜月而长明。"
+      },
+      "source_id": 125050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Под Радужной Луной тьма погрузится ещё глубже во мрак.",
+        "en": "By the Iridescent Moon, darkness shall be cast deeper into the shadows.",
+        "zh": "幽冥因虹月而深邃。"
+      },
+      "source_id": 125051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Нити судьбы находятся в моих руках. Отныне новая луна будет наблюдать за миром и освещать его.",
+        "en": "I now hold the threads of fate in my hands. From now on, the new moon shall watch over and illuminate the world below.",
+        "zh": "命运的纺线继承到了我的掌间，自此，新月将注视并照亮月下的世界。"
+      },
+      "source_id": 125052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Поток.",
+        "en": "Flow.",
+        "zh": "漫流。"
+      },
+      "source_id": 125053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Достаточно.",
+        "en": "Surge.",
+        "zh": "盈满。"
+      },
+      "source_id": 125054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Сияние.",
+        "en": "Wane.",
+        "zh": "垂映。"
+      },
+      "source_id": 125055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Восходит новая луна.",
+        "en": "A new moon rises.",
+        "zh": "新月终临。"
+      },
+      "source_id": 125056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Слияние трёх лун.",
+        "en": "Three moons converge.",
+        "zh": "三月交辉之刻。"
+      },
+      "source_id": 125057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Лунную ночь для всего сущего.",
+        "en": "A moonlit night for all.",
+        "zh": "将此月夜，献予众生。"
+      },
+      "source_id": 125058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Это «сюрприз»... да?",
+        "en": "They call this a \"pleasant surprise\"... right?",
+        "zh": "是「惊喜」…对吧？"
+      },
+      "source_id": 125059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Они тоже убежали из дома?",
+        "en": "Hmm, did they run from home too?",
+        "zh": "它们也离家出走了吗？"
+      },
+      "source_id": 125060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Мне больше не нужны подношения, возьми их себе.",
+        "en": "You keep them. I no longer need offerings.",
+        "zh": "我已经不需要贡品了，你收下吧。"
+      },
+      "source_id": 125061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Голова кружится...",
+        "en": "Getting dizzy...",
+        "zh": "晕晕的…"
+      },
+      "source_id": 125062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Ночь становится темнее...",
+        "en": "It's growing dark...",
+        "zh": "夜色变深了…"
+      },
+      "source_id": 125063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Мне нехорошо...",
+        "en": "Not doing so well...",
+        "zh": "我不太好…"
+      },
+      "source_id": 125064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Голова кружится? Позволь мне поддержать тебя.",
+        "en": "Feeling woozy? Allow me to step in.",
+        "zh": "不晕么？你看起来轻飘飘的。"
+      },
+      "source_id": 125065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Хочешь отдохнуть?",
+        "en": "How about some rest?",
+        "zh": "你不休息吗？"
+      },
+      "source_id": 125066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Ночное небо... снова темнеет...",
+        "en": "The night sky... dims... once more...",
+        "zh": "夜空…再次黯淡…"
+      },
+      "source_id": 125067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Луна... разбилась...",
+        "en": "The moon has... waned...",
+        "zh": "月亮…坠落了…"
+      },
+      "source_id": 125068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Цена... разлуки...",
+        "en": "The price... of leaving home...",
+        "zh": "离家的…代价…"
+      },
+      "source_id": 125069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Я в порядке...",
+        "en": "I'm fine...",
+        "zh": "我没事…"
+      },
+      "source_id": 125070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ай!..",
+        "en": "Ouch...!",
+        "zh": "好痛…！"
+      },
+      "source_id": 125071
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "...Почему?",
+        "en": "...Why?",
+        "zh": "…为什么？"
+      },
+      "source_id": 125072
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Одолжить тебе лунный свет?",
+        "en": "Allow me to lend you some moonlight.",
+        "zh": "要我借你一束月光吗？"
+      },
+      "source_id": 125073
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Мы надолго уходим?",
+        "en": "Will we be gone long?",
+        "zh": "会出去很久吗？"
+      },
+      "source_id": 125074
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Хорошо, я пойду с тобой.",
+        "en": "I will follow where you lead.",
+        "zh": "嗯，我跟你走。"
+      },
+      "source_id": 125075
+    },
+    {
+      "number": 77,
+      "title": {
+        "ru": "О Сандроне: Механический ключ III",
+        "en": "About Sandrone: Clockwork Nature III",
+        "zh": "关于桑多涅·发条其三"
+      },
+      "text": {
+        "ru": "Я так рада, что Сандроне вернулась. Я заметила, что её механический ключ теперь иногда вращается чуть быстрее. Раньше он всегда вращался с одинаковой скоростью. Она сказала, что причина в том, что она приняла свои самые сокровенные чувства и изменилась. Но независимо от того, сменила ли она наряд или её ключ стал вращаться быстрее, для меня Сандроне - всё та же Сандроне, моя лучшая подруга. Мне очень нравится и то, какой она была раньше, и то, какой стала сейчас. Я сказала ей об этом, и её ключ закрутился ещё быстрее. Не знаю, в чём причина, но это очень интересно.",
+        "en": "Sandrone has returned. I'm so happy. I noticed her wind-up key sometimes turns a bit faster now — it always seemed to turn at the same speed before. She said it's because she's embraced her inner feelings, and that she's different now. But whether she's changed her outfit or her key turns faster, I feel like Sandrone is still Sandrone, my best friend. Whether it's her past or present self, she has my complete admiration. I told her this, and her key turned faster. I don't know why, but it's really interesting.",
+        "zh": "桑多涅回来了。我好开心。我发现她的发条现在偶尔会转得快一些，好像以前总是以同样的速度在转。她说这是因为自己接受了内心情感的缘故，现在的她和以前已经不一样了。但我觉得不论是换了身衣服，还是发条转得快了些，桑多涅就是桑多涅，是我最好的朋友。不论是从前还是现在的样子，我都很喜欢。听完我这么说后，她的发条转得更快了。虽然不知道为什么，但真有趣。"
+      },
+      "source_id": 125076
+    }
+  ],
+  "replica_count": 77
 }

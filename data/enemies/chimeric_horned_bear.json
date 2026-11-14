@@ -1,0 +1,82 @@
+{
+  "id": "chimeric_horned_bear",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/chimeric_horned_bear.webp",
+  "title": {
+    "ru": "Рогатая химера-медведь",
+    "en": "Chimeric Horned Bear",
+    "zh": "嵌合角熊"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Рогатая химера-медведь",
+    "Chimeric Horned Bear",
+    "嵌合角熊"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Продукт биоалхимии. Химера весьма необычной формы.\nОна возникла не по замыслу создателя, а самостоятельно сформировалась из фрагментов живой материи, благодаря чему обрела даже способность свободно управлять силой стихий.\nНеужели даже жизнь, раздробленная почти до отдельных фрагментов, продолжает следовать некой воле и великой силе, заставляющей её расти по загадочному замыслу?\nВозможно, сегодня ответа на этот вопрос уже не знает никто.",
+    "en": "A product of bio-alchemy, a man-made monster with an exceptionally unusual formation.\nA man-made monster not formed according to its creator's design, but through the spontaneous assembly of life segments. As a result, it came to possess certain wondrous traits, including the ability to freely wield elemental power.\nEven if life is broken down until almost nothing remains but segments, could some will or power still guide them to grow according to a mysterious plan?\nPerhaps no one knows the answer to that by now.",
+    "zh": "生物炼金的产物，成型十分特殊的合成魔兽。\n并未按照人工的设想，而是通过生命切片自行组合形成的合成魔物，因此甚至有了一些自如使用元素力的神异。\n生命即便破碎到了几乎只剩切片的地步，也有什么意念与伟力令他们按照某种神秘的规划生长吗？\n这答案到了如今或许已然无人知晓。"
+  },
+  "description": {
+    "ru": "Продукт биоалхимии. Химера весьма необычной формы.\nОна возникла не по замыслу создателя, а самостоятельно сформировалась из фрагментов живой материи, благодаря чему обрела даже способность свободно управлять силой стихий.\nНеужели даже жизнь, раздробленная почти до отдельных фрагментов, продолжает следовать некой воле и великой силе, заставляющей её расти по загадочному замыслу?\nВозможно, сегодня ответа на этот вопрос уже не знает никто.",
+    "en": "A product of bio-alchemy, a man-made monster with an exceptionally unusual formation.\nA man-made monster not formed according to its creator's design, but through the spontaneous assembly of life segments. As a result, it came to possess certain wondrous traits, including the ability to freely wield elemental power.\nEven if life is broken down until almost nothing remains but segments, could some will or power still guide them to grow according to a mysterious plan?\nPerhaps no one knows the answer to that by now.",
+    "zh": "生物炼金的产物，成型十分特殊的合成魔兽。\n并未按照人工的设想，而是通过生命切片自行组合形成的合成魔物，因此甚至有了一些自如使用元素力的神异。\n生命即便破碎到了几乎只剩切片的地步，也有什么意念与伟力令他们按照某种神秘的规划生长吗？\n这答案到了如今或许已然无人知晓。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112149",
+      "title": {
+        "ru": "Ядро химеры / Симбиотическое ядро химеры / Сердцевина химеры",
+        "en": "Chimeric Core / Symbiotic Chimeric Nucleus / Prime Chimeric Nexus",
+        "zh": "嵌合种 / 并生嵌合胞 / 源生嵌合体"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112149.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112149",
+          "title": {
+            "ru": "Ядро химеры",
+            "en": "Chimeric Core",
+            "zh": "嵌合种"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112149.webp"
+        },
+        {
+          "key": "material_112150",
+          "title": {
+            "ru": "Симбиотическое ядро химеры",
+            "en": "Symbiotic Chimeric Nucleus",
+            "zh": "并生嵌合胞"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112150.webp"
+        },
+        {
+          "key": "material_112151",
+          "title": {
+            "ru": "Сердцевина химеры",
+            "en": "Prime Chimeric Nexus",
+            "zh": "源生嵌合体"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112151.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

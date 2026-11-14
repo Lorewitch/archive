@@ -1,0 +1,1204 @@
+{
+  "modules_in_build": 13,
+  "unbuilt_source_js": [],
+  "named_functions": 239,
+  "unreferenced_named_function_candidates": [],
+  "scope": "Static name-reference scan; not a formal proof of reachability for every branch or CSS selector. Existing maintenance and build tools are intentionally retained.",
+  "functions": [
+    {
+      "name": "debounce",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 2
+    },
+    {
+      "name": "escapeHtml",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 126
+    },
+    {
+      "name": "inlineMarkdown",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 5
+    },
+    {
+      "name": "markdownToHtml",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 12
+    },
+    {
+      "name": "flushParagraph",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 4
+    },
+    {
+      "name": "flushList",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 5
+    },
+    {
+      "name": "flushQuote",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 5
+    },
+    {
+      "name": "flushAll",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 4
+    },
+    {
+      "name": "splitWeaponDescriptionText",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 2
+    },
+    {
+      "name": "readerSectionLabel",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 4
+    },
+    {
+      "name": "stripLeadingMarkdownHeading",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderReaderBlockHeading",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 4
+    },
+    {
+      "name": "emphasizeArtifactLabels",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 2
+    },
+    {
+      "name": "getSectionConfig",
+      "file": "src/js/00-core/04-text-and-scroll-utils.js",
+      "occurrences": 17
+    },
+    {
+      "name": "syncReaderModeClass",
+      "file": "src/js/00-core/03-ui-state-and-dom.js",
+      "occurrences": 2
+    },
+    {
+      "name": "primaryScrollY",
+      "file": "src/js/00-core/03-ui-state-and-dom.js",
+      "occurrences": 4
+    },
+    {
+      "name": "scrollPrimaryTo",
+      "file": "src/js/00-core/03-ui-state-and-dom.js",
+      "occurrences": 4
+    },
+    {
+      "name": "readerScrollbarMetrics",
+      "file": "src/js/00-core/03-ui-state-and-dom.js",
+      "occurrences": 4
+    },
+    {
+      "name": "syncReaderSectionScrollbars",
+      "file": "src/js/00-core/03-ui-state-and-dom.js",
+      "occurrences": 7
+    },
+    {
+      "name": "syncCustomScrollbarsSoon",
+      "file": "src/js/00-core/03-ui-state-and-dom.js",
+      "occurrences": 8
+    },
+    {
+      "name": "catalogFilterState",
+      "file": "src/js/00-core/03-ui-state-and-dom.js",
+      "occurrences": 10
+    },
+    {
+      "name": "archonCollectionFor",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 7
+    },
+    {
+      "name": "archonCollectionDefinition",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 5
+    },
+    {
+      "name": "romanToNumber",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "archonChapterOrder",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 5
+    },
+    {
+      "name": "isEnemyDropGroup",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 4
+    },
+    {
+      "name": "isEnemyDropEntry",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 3
+    },
+    {
+      "name": "isCommonEnemyCatalog",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 4
+    },
+    {
+      "name": "isDevelopmentMaterialsCatalog",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 3
+    },
+    {
+      "name": "isCharacterStoriesCatalog",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 4
+    },
+    {
+      "name": "typeFilterOptionValue",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 5
+    },
+    {
+      "name": "typeFilterOptionLabel",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "typeFilterOptionIcon",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "typeFilterOptionGroup",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 8
+    },
+    {
+      "name": "typeFilterOptionColor",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "migrateTypeFilterValue",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "normalizeDevelopmentMaterialType",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "itemGroupUsesTypeFilters",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 3
+    },
+    {
+      "name": "normalizeItemGroupType",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 3
+    },
+    {
+      "name": "itemGroupTypeTitle",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "normalizeStoryElement",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 7
+    },
+    {
+      "name": "storyElementValues",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 3
+    },
+    {
+      "name": "normalizeCharacterFilter",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 3
+    },
+    {
+      "name": "storyCharacterFilterValues",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "storyElementTitle",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "storyElementIcon",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "storyCharacterMatchesTypeFilters",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "itemTypeFilterValue",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "typeFiltersForCurrentCatalog",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 6
+    },
+    {
+      "name": "activeTypeFilters",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 4
+    },
+    {
+      "name": "renderTypeFilterRow",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 4
+    },
+    {
+      "name": "renderTypeFilters",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "normalizeCommonEnemyType",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 3
+    },
+    {
+      "name": "itemCommonEnemyTypes",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "catalogFilterLabel",
+      "file": "src/js/00-core/01-taxonomies-and-filters.js",
+      "occurrences": 2
+    },
+    {
+      "name": "loadStoryReferences",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "currentAssetVersion",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "versionedDataPath",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "versionedAssetPath",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 10
+    },
+    {
+      "name": "cssUrl",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "maskIconStyle",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 4
+    },
+    {
+      "name": "notifyLoadedData",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "fetchArchiveJson",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 3
+    },
+    {
+      "name": "fetchJson",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 4
+    },
+    {
+      "name": "fetchOptionalJson",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "normalizeList",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 4
+    },
+    {
+      "name": "assignSectionData",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "catalogCacheKey",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 3
+    },
+    {
+      "name": "catalogIndexPath",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "loadCatalogData",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 3
+    },
+    {
+      "name": "loadDetail",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 3
+    },
+    {
+      "name": "getBookById",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 3
+    },
+    {
+      "name": "getGenericDetail",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 4
+    },
+    {
+      "name": "loadArchiveSummary",
+      "file": "src/js/00-core/00-data-store.js",
+      "occurrences": 2
+    },
+    {
+      "name": "connectPwaControls",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 2
+    },
+    {
+      "name": "syncPwaControls",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 6
+    },
+    {
+      "name": "isInstalledArchive",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 2
+    },
+    {
+      "name": "syncPwaInstallButton",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 8
+    },
+    {
+      "name": "syncPwaNetworkStatus",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 5
+    },
+    {
+      "name": "sendFirstVisitUrls",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 3
+    },
+    {
+      "name": "rememberFirstVisitUrl",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 2
+    },
+    {
+      "name": "warmFirstVisit",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 4
+    },
+    {
+      "name": "showPwaUpdate",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 5
+    },
+    {
+      "name": "showPwaInstallHelp",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 3
+    },
+    {
+      "name": "installArchivePwa",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 2
+    },
+    {
+      "name": "updateArchivePwa",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 2
+    },
+    {
+      "name": "initArchivePwa",
+      "file": "src/js/03-app/03-pwa.js",
+      "occurrences": 2
+    },
+    {
+      "name": "setupCustomScrollbar",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 2
+    },
+    {
+      "name": "metrics",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 7
+    },
+    {
+      "name": "update",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 12
+    },
+    {
+      "name": "scrollToPointer",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 2
+    },
+    {
+      "name": "stopDrag",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 3
+    },
+    {
+      "name": "syncCustomScrollbars",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 3
+    },
+    {
+      "name": "scrollerForReaderSectionScrollbar",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 2
+    },
+    {
+      "name": "stopReaderSectionScrollbarDrag",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 3
+    },
+    {
+      "name": "scheduleViewportCleanup",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 4
+    },
+    {
+      "name": "updateToTopButton",
+      "file": "src/js/03-app/02-scrollbars-responsive.js",
+      "occurrences": 4
+    },
+    {
+      "name": "preserveScrollRender",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "restoreScrollPositions",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "currentCatalogConfig",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 17
+    },
+    {
+      "name": "rememberStoryCatalogOrigin",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "currentFilterState",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "renderActiveDetail",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "rerenderActiveDetailPreservingScroll",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 9
+    },
+    {
+      "name": "handleNavClick",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "handleAppClick",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "handleAppKeydown",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "syncCatalogResetButton",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "handleAppInput",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "handleAppChange",
+      "file": "src/js/03-app/00-event-handlers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "prefetchDetail",
+      "file": "src/js/03-app/01-render-controller.js",
+      "occurrences": 2
+    },
+    {
+      "name": "handleAppPrefetch",
+      "file": "src/js/03-app/01-render-controller.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderHome",
+      "file": "src/js/03-app/01-render-controller.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderLoading",
+      "file": "src/js/03-app/01-render-controller.js",
+      "occurrences": 6
+    },
+    {
+      "name": "renderError",
+      "file": "src/js/03-app/01-render-controller.js",
+      "occurrences": 8
+    },
+    {
+      "name": "render",
+      "file": "src/js/03-app/01-render-controller.js",
+      "occurrences": 7
+    },
+    {
+      "name": "init",
+      "file": "src/js/03-app/01-render-controller.js",
+      "occurrences": 2
+    },
+    {
+      "name": "materialSetTitle",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "titleOf",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 21
+    },
+    {
+      "name": "langLabel",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "labelFromOptions",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "normalizedGameVersion",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "bookTypeValue",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderBookTypeCell",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "iconFor",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "entryRarityBackgroundClass",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "isCharacterStoryEntry",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "detailHeaderIconFor",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "detailTitleVariant",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderReaderLangControl",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderReaderCornerControls",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 6
+    },
+    {
+      "name": "renderReaderTabBlock",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "renderReaderControls",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "renderReaderStickyHead",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 6
+    },
+    {
+      "name": "materialTitle",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 7
+    },
+    {
+      "name": "inventoryTitleLines",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderInventoryTitleBlock",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "renderInventoryMaterialTitleBlock",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderInventoryIcon",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderMaterialsCell",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "droppedByEnemies",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "renderGenericItemTypeCell",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderStoryElementPill",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderStoryElementCell",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderDroppedByCell",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderLootChip",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderEnemyDropDetail",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderEnemyNameBlock",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "droppedByGridClass",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "distributeDroppedByColumns",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderDroppedByCard",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderDroppedByCards",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderDroppedBySection",
+      "file": "src/js/01-render/00-common-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "optionsFor",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "itemMatchesFilter",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "fallbackSearchableText",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "searchableText",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "gameVersionSortValue",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 6
+    },
+    {
+      "name": "compareByTitle",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 5
+    },
+    {
+      "name": "entrySortVersion",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 9
+    },
+    {
+      "name": "compareByGameVersionDesc",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "filteredEntries",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "cssClassToken",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "catalogCardRarityClass",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "catalogCardClasses",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderCatalogCardVersion",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderCatalogCardMedia",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "catalogCellHasContent",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderCatalogCardMeta",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderCatalogCard",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "recordCountText",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 3
+    },
+    {
+      "name": "groupEntryCount",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderGroupSelector",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderArchonCollections",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderArchonCollectionHeader",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "catalogPageSize",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderPaginationControls",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "worldQuestSeriesKey",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 3
+    },
+    {
+      "name": "worldQuestSeriesOrder",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "worldCatalogUnits",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderWorldSeriesCard",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderCatalogTable",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 3
+    },
+    {
+      "name": "hasActiveCatalogFilters",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 3
+    },
+    {
+      "name": "catalogHasFilterControls",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "resetCatalogFilters",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderCatalogFilterReset",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderCatalog",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 3
+    },
+    {
+      "name": "updateCatalogTable",
+      "file": "src/js/01-render/01-catalog-renderer.js",
+      "occurrences": 7
+    },
+    {
+      "name": "renderBookDetail",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderTextArea",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "artifactPartTitle",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderArtifactDetail",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderArtifactTextArea",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "localizedEntryText",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 5
+    },
+    {
+      "name": "localizedMaterialText",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderBossOverviewCard",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderEnemyDropsDetail",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderEnemyMaterialsTextArea",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "storyParts",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "localizedStoryField",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 12
+    },
+    {
+      "name": "storyReplicaSource",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "normalizeStoryReplicaPart",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 6
+    },
+    {
+      "name": "storyReplicaParts",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "storyContentTypes",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "activeStoryContentType",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 4
+    },
+    {
+      "name": "storyContentParts",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "storyPartTitle",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "storyPartText",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "normalizeActiveStoryPart",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderStoryTextArea",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderQuestRelations",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderStoryDetail",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 3
+    },
+    {
+      "name": "renderGenericDetail",
+      "file": "src/js/01-render/02-detail-renderers.js",
+      "occurrences": 5
+    },
+    {
+      "name": "updateMobileMenuButton",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "syncMenuVisibility",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 5
+    },
+    {
+      "name": "openMenu",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "closeMenu",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 5
+    },
+    {
+      "name": "toggleMenu",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "isKnownGroup",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "groupValue",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 3
+    },
+    {
+      "name": "storyGroupLabel",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "catalogBackTarget",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "catalogBackLabel",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 4
+    },
+    {
+      "name": "routeHash",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 4
+    },
+    {
+      "name": "setRoute",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 15
+    },
+    {
+      "name": "parseHash",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "currentRouteKey",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "currentCatalogScrollKey",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 3
+    },
+    {
+      "name": "isCatalogRoute",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "resetHorizontalScroll",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 3
+    },
+    {
+      "name": "rememberCatalogScrollPosition",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "targetScrollPositionForRoute",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "scheduleRouteScroll",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "markRouteRendered",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 12
+    },
+    {
+      "name": "menuIcon",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 3
+    },
+    {
+      "name": "menuChildren",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 3
+    },
+    {
+      "name": "childActive",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    },
+    {
+      "name": "renderNav",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 3
+    },
+    {
+      "name": "collectionForCatalog",
+      "file": "src/js/02-routing/00-navigation-and-router.js",
+      "occurrences": 2
+    }
+  ]
+}

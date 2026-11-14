@@ -377,3 +377,940 @@ Perhaps this then constituted a heavenly gift... the ultimate recognition of her
 水食耗尽、掏得空空的背包中，不知何时，悄然多了一枚流光溢彩的「神之眼」。
 作为极少数敢在「边界」逗留的生者，胡桃作为或许打动了某位不可言说的神明。
 她因而获得高天的馈赠…极致的力量之证。
+
+# voice_source_ids: 36009,36010,36011,36012,36013,36014,36015,36016,36017,36018,36019,36020,36021,36022,36023,36024,36025,36026,36027,36028,36029,36030,36031,36032,36033,36034,36035,36036,36037,36038,36039,36040,36041,36042,36043,36044,36045,36046,36047,36048,36049,36050,36051,36052,36053,36054,36055,36056,36057,36058,36059,36060,36061,36062,36063,36064,36065,36066,36067,36068,36069,36070,36071,36072,36073,36074,36075,36076,36077,36078,36079,36080,36081,36082,36083,36084,36085
+
+## REPLICAS_RU
+
+### Привет...
+
+Э-эй, а зачем ты меня ищешь? А? А ты не знал! Управляющая бюро в семьдесят седьмом поколении - Ху Тао! То есть я! Но судя по твоему виду... Свежее лицо, ровная осанка... Ага, это явно не рабочий визит. Да? / Э-эй, а зачем ты меня ищешь? А? А ты не знала! Управляющая бюро в семьдесят седьмом поколении - Ху Тао! То есть я! Но судя по твоему виду... Свежее лицо, ровная осанка... Ага, это явно не рабочий визит. Да?
+
+### Поболтаем: Ритуальное бюро «Ваншэн»
+
+Зайдём ко мне на чай? Хе-хе...
+
+### Поболтаем: Клиенты
+
+Раз клиент, два клиент, три клиент...
+
+### Поболтаем: Отдых
+
+Вышло солнце - загорай на солнце. Вышла луна - нежься в лунном свете.
+
+### Когда идёт дождь...
+
+Э-эх... Гадство...
+
+### Когда гремит гром...
+
+Гром гремит - пора бежать!
+
+### Когда идёт снег...
+
+Ого! Снег!
+
+### Когда дует ветер...
+
+Ах, как хорошо.
+
+### Когда дует сильный ветер...
+
+А! Мою шляпу сейчас сдует!
+
+### Доброе утро...
+
+Будь здоров - вставай пораньше, ляжешь поздно - страдай дальше.
+
+### Добрый день...
+
+Эй! Добрый день! Обедал? / Эй! Добрый день! Обедала?
+
+### Добрый вечер...
+
+Хи-хи, вышла луна, и я вслед за ней.
+
+### Спокойной ночи...
+
+О, уже засыпаешь? Отдыхай - я пойду прогуляюсь ещё.
+
+### О Ху Тао: Имя
+
+Ху Тао значит «Хоронить Умерших Трупы Абсолютно Обязательно»! Хи-хи... А, не смешно?
+
+### О Ху Тао: любимые трюки
+
+Сейчас фокус покажу! Смотри... Огонь! А теперь... Вжух! Огненная бабочка! Лети, бабочка!
+
+### О нас: Любопытство
+
+Ты ведь много где побывал и много видел. Расскажешь как-нибудь, ага? / Ты ведь много где побывала и много видела. Расскажешь как-нибудь, ага?
+
+### О нас: Ночь
+
+Днём делай что хочешь, а ночью давай поосторожнее. Не делай глупостей, пока меня нет.
+
+### О нас: Ассистент
+
+Нужна помощь? Помощь нужна? Вот и я! Если надо помочь, то я изо всех сил!
+
+### О нас: Бой
+
+Сражаться так утомительно. Для меня это не цель, а способ. Для достижения цели нужен способ, так что драка - это способ защитить то, что я не хочу уступать. В этом мы с тобой похожи.
+
+### Глаз Бога...
+
+Глаз Бога... Глаз Бога? А, эта штука? Есть, и ладно.
+
+### Давай поделимся...
+
+Начатое дело доводи до конца. Ритуальное бюро «Ваншэн» особенное, на наших плечах лежит двойная ответственность. Наше дело - сделать так, чтобы клиенты из обоих миров были довольны.
+
+### Интересные вещи...
+
+Некоторые цветы растут только под лунным светом. Знаешь о таких? Нет? В следующий раз я тебе покажу.
+
+### О Чжун Ли...
+
+Чжун Ли выглядит молодым, а по характеру кажется таким древним. Всё знает, ко всему безразличен. А вдруг он... Хи-хи...
+Ладно, забудь.
+
+### О Ци Ци...
+
+Где Ци Ци? Быстро признавайся! Мне нужно спрятать её, хе-хе!
+
+### О Бай Чжу...
+
+Бай Чжу? А, скользкий тип.
+
+### О Нин Гуан...
+
+Воля Небес Нин Гуан очень богата. Очи её сияют, а лик прекрасен. Она знает всё, и ничто не ускользнёт от её взора!
+
+### О Бэй Доу...
+
+В Ли Юэ все знают Бэй Доу. Она меня не знает, но это ничего, главное, что я знаю её. Эх, я так хочу с ней подружиться!
+
+### О Син Цю...
+
+Говорят, господин Син Цю пишет книгу? Обычную или мистическую? Думаю, стоит рассказать ему кое-что из того, с чем я сталкиваюсь каждый день. Хорошая получится книга!
+
+### О Чун Юне...
+
+Позитивные энергии - это единство Инь и Ян... Кто мог подумать, что такие люди существуют в этом мире.
+
+### О Сяо...
+
+Что я знаю об Адептах? Ой-ой, это большой секрет! Не спрашивай меня о таком!
+
+### О Кэ Цин...
+
+Нефритовое Равновесие Кэ Цин... С ней тяжело общаться. Хи-хи, она такая серьёзная, что мне аж пошутить хочется. Она же не стукнет меня по голове своим мечом за это, да? Или стукнет?..
+
+### О Сян Лин...
+
+Сян Лин такая забавная! Только скажешь «Бу-у», а она уже подпрыгивает от страха! Я, поскольку работаю в специфической отрасли, люблю таких людей. Но нужно знать меру, а то Гоба меня когда-нибудь поджарит.
+
+### О Юнь Цзинь...
+
+Юнь Цзинь всегда выглядит такой грациозной на официальных мероприятиях, но ты будешь удивлён, какой дружелюбной она бывает наедине! Однажды я заключила с ней пари, что проигравший должен будет петь песни, выбранные победителем, в своём собственном стиле. Ох, как бы я хотела, чтобы ты услышал её оперную версию Хилиады! / Юнь Цзинь всегда выглядит такой грациозной на официальных мероприятиях, но ты будешь удивлена, какой дружелюбной она бывает наедине! Однажды я заключила с ней пари, что проигравший должен будет петь песни, выбранные победителем, в своём собственном стиле. Ох, как бы я хотела, чтобы ты услышала её оперную версию Хилиады!
+
+### О Шэнь Хэ...
+
+Она довольно интересная и не похожая ни на кого. Как думаешь, если я начну ежедневно есть божественные травы и пить горную росу, я смогу выглядеть такой же чистой и нетронутой, как она? Хе-хе...
+
+### Узнать больше о Ху Тао I
+
+♪Хиличурл заболел, а второй на то смотрел, третий снадобье искал, а четвёртый помогал; пятый помер, но шестой его поднял!♪
+
+### Узнать больше о Ху Тао II
+
+Поэтесса тёмных переулков. Это я!
+
+### Узнать больше о Ху Тао III
+
+Я считаю, что в работе в ритуальном бюро «Ваншэн» нет ничего сложного или страшного. Только хлопотно бывает. Жаль, что другие этого не понимают, и, когда видят, как мы ночью выходим на работу, начинают бояться. Эх... Всё из-за непонимания!
+
+### Узнать больше о Ху Тао IV
+
+Я семьдесят седьмая хозяйка ритуального бюро «Ваншэн», а мой дед был семьдесят пятым. Моей первой работой стали похороны дедушки. Неожиданно, да? И вот так незаметно пролетело несколько лет. Да, время так быстро бежит.
+
+### Узнать больше о Ху Тао V
+
+Во всём должен быть баланс, но следует помнить, что судьба изменчива. Нельзя предугадать смерть, но она действует по своим правилам. Запомни: никто, нигде и никогда не должен насмехаться над смертью. Только зная и уважая её ты можешь познать истинную ценность жизни.
+
+### Хобби Ху Тао...
+
+Чистое небо над морем безбрежным, ярко сияет луна в вышине... В такие моменты так и хочется написать пару стихов.
+
+### Беспокойство Ху Тао...
+
+Эх... Мне нужно найти весёлое занятие. Безделье хуже смерти.
+
+### Любимая еда...
+
+♪Ля-ля-ля-ля~ Варёная рыбка и пельмешки с креветочками, ням~
+
+### Нелюбимая еда...
+
+Слизь слайма, обжаренная с цветами цинсинь... Буэ... Это месть Сян Лин, да?
+
+### День рождения...
+
+Сегодня звёзды ярко сверкают на ночном небе, фаза луны прекрасна, наверняка сегодня особенный день. Хм, но что же это за день... Ага, я знаю, знаю, это твой день рождения! Действительно особенный день.
+
+### Чувство возвышения: Начало
+
+Ой-ой? Ой-ой-ой?
+
+### Чувство возвышения: Нарастание
+
+Ух, это было здорово. Спасибо!
+
+### Чувство возвышения: Кульминация
+
+Кто бы мог подумать, что я, Ху Тао, стану такой сильной? Энергия бьёт ключом, а сердце рвётся в небо! Как же здорово!
+
+### Чувство возвышения: Окончание
+
+Если я достигну пика силы, то придёт пора подвергнуть испытанию душу. Только благодаря тебе я смогла ступить в эти неизведанные чертоги. Здесь сердце и душа будто сливаются в единое облако... Рождение и смерть, все явления земные и небесные - это есть мы.
+
+### Элементальный навык I
+
+Ух!
+
+### Элементальный навык II
+
+Ци!
+
+### Элементальный навык III
+
+Ха!
+
+### Взрыв стихии I
+
+Уже пора!
+
+### Взрыв стихии II
+
+Пока!
+
+### Взрыв стихии III
+
+Огня языки, полыхают портки!
+
+### Начало спринта I
+
+Ух!
+
+### Начало спринта II
+
+Вперёд!
+
+### Начало спринта: III
+
+Яху...
+
+### Запуск планера I
+
+На крыльях ветра...
+
+### Открытие сундука I
+
+Джекпот!
+
+### Открытие сундука II
+
+Какой милый гробик с сокровищами!
+
+### Открытие сундука III
+
+Закопаем его в землю и подождём, пока вырастет много сундуков с сокровищами!
+
+### Низкий уровень HP I
+
+Ой-ой!
+
+### Низкий уровень HP II
+
+Ииииии!
+
+### Низкий уровень HP III
+
+Что-то мне это не нравится!
+
+### Низкий уровень HP компаньона I
+
+Полегче!
+
+### Низкий уровень HP компаньона II
+
+Дай мне попробовать!
+
+### Без сознания I
+
+Неужто... пришло моё время?
+
+### Без сознания II
+
+Я не забуду этого...
+
+### Без сознания III
+
+Ах...
+
+### Получен тяжёлый удар I
+
+Прекрати!
+
+### Присоединяется к группе I
+
+Ну что, объединим усилия?
+
+### Присоединяется к группе II
+
+А глаз-то намётан!
+
+### Присоединяется к группе III
+
+Одного выдворим - все разбегутся!
+
+### Подарок I
+
+Замечательно! Замечательно! А теперь позволь мне сочинить стихотворение в память об этом блюде.
+
+### Подарок II
+
+Тебе точно не нужна моя помощь? Отличная ведь сделка! В два раза больше еды за то же время!
+
+### Подарок III
+
+Фу... Объявляю это блюдо мёртвым. Да покоится оно с миром.
+
+### О Лань Янь...
+
+Лань Янь, говоришь? Она куда сильнее, чем кажется. Утверждает, что знает всего пару техник Цимэнь, но при этом может избавлять от таких неприятностей, как дыхание смерти и болезни! Ай, есть только одна проблема... Убирать всё плохое и делать людей здоровыми и крепкими - не самое лучшее для похоронного бизнеса!
+
+## REPLICAS_EN
+
+### Hello
+
+Yoh, now just why might you be looking for me, hm? Oh, you didn't know? I'm the 77th Director of the Wangsheng Funeral Parlor, Hu Tao. Though by the looks of you... Radiant glow, healthy posture... Yes, you're definitely here for something other than that which falls within my regular line of work, aren't you?
+
+### Chat: Wangsheng Funeral Parlor
+
+Wanna come over for tea?
+
+### Chat: Customers
+
+One client, two clients, three clients!
+
+### Chat: Taking a Break
+
+When the sun's out, bathe in sunlight. But when the moon's out, bathe in moonlight~
+
+### When It Rains
+
+*sigh* What a bummer...
+
+### When Thunder Strikes
+
+Lightning! Let's bolt!
+
+### When It Snows
+
+Snow!
+
+### When It's Windy
+
+Ahhhh~ What a nice breeze~
+
+### When the Wind Is Blowing
+
+My hat's gonna get blown away!
+
+### Good Morning
+
+Well are those who rise in the early morn, while those late to bed I shall forewarn~
+
+### Good Afternoon
+
+Yo! Afternoon! Had lunch?
+
+### Good Evening
+
+Hee-hee, moon's out, and so am I!
+
+### Good Night
+
+Oh, you sleepy? Get some rest, I'm gonna take a walk by myself...
+
+### About Hu Tao: Name
+
+Hu as in "Who put me in this coffin?" and Tao as in "I can't geT OUt!" Hehe... No, not funny?
+
+### About Hu Tao: Favorite Tricks
+
+Lemme show you some fire tricks. First... Fire! And then... Whoosh! Fire butterfly! Be free!
+
+### About Us: Curiosity
+
+You've been all over, so you must've seen a lot. When you've got the time, tell me your story, yea?
+
+### About Us: Night
+
+Run around all you like during the day, but you should be careful during the night. When I'm not around, best keep your wits about you.
+
+### About Us: Helper
+
+Need a hand, need a hand? I'm here! If you need some assistance, I'm here to give it my all to the very end!
+
+### About Us: Battle
+
+Fighting's a pain. For me, it's not an objective so much as a means to an end. Using the means to reach the end, to fight for that which I will not compromise on — it's in this way that you and I are the same.
+
+### About the Vision
+
+Vision... Vision...? Oh, this thing? Yeah, whatever...
+
+### Something to Share
+
+We are entrusted by the people to loyally see out their wishes. Wangsheng Funeral Parlor is special, in that it carries a dual responsibility, to those both of this realm, and the next.
+
+### Interesting Things
+
+Some plants only grow in gloomier spots with ample moonlight. You ever seen any? Oh, no? Well, I'll have to show you next time.
+
+### About Zhongli
+
+Zhongli looks young, but his personality is a bit dusty. Knows everything, but doesn't fret over anything. Hmm... Couldn't be that he's a...
+Hehe, forget it, whatever.
+
+### About Qiqi
+
+Have you seen Qiqi? Tell me where she is, quickly. I need to go seal her away, hee-hee!
+
+### About Baizhu
+
+Baizhu? Ugh, that guy...
+
+### About Ningguang
+
+Tianquan Ningguang... Well-off, a radiant gaze, exquisite face, in the know and capable of anything!
+
+### About Beidou
+
+Beidou is well-known in Liyue. She doesn't know me, but that's cool, me just knowing about her is enough. Aw man... I really do wanna make friends with her.
+
+### About Xingqiu
+
+I hear master Xingqiu is writing a book? Standard novella, or a ghost story? I think I should go tell him about all the things I run into — that'd make for a really good read!
+
+### About Chongyun
+
+All yang and no yin? Huh, who knew such people existed in this world?
+
+### About Xiao
+
+What would I know of the adepti? Ai-yai-yai, that kind of stuff is top-secret! Don't come asking me about it!
+
+### About Keqing
+
+The Yuheng, Keqing... she's quite hard to talk to. She's so uptight, hehe... Really makes me wanna mess with her. She wouldn't knock me in the head with her sword though, right? Or would she...?
+
+### About Xiangling
+
+Xiangling's a riot! Only a little "boo" and she jumps, she's so easy to scare! Being in the industry that I am, I just love these kinds of people the most. Gotta keep it in check though, in case Guoba ends up toasting me instead.
+
+### About Yun Jin
+
+Yun Jin always appears so graceful on formal occasions, but you'd be surprised how friendly she is in private! I made a bet with her once, and the loser had to sing lyrics of the winner's choice in their own singing style. My my, I wish you could have heard her operatic version of the Hilitune!
+
+### About Shenhe
+
+She is quite the fascinating individual, completely different from anyone else I've encountered. Do you think if I started eating divine herbs and drinking the dew of the mountains every single day, I'd be able to look as pure and pristine as she does? Oh~!
+
+### More About Hu Tao: I
+
+♪Silly-churl, billy-churl, silly-billy hilichurl. Frilly-churl, willy-churl, frilly-willy hilichurl♪ 
+Ah, hehe...
+
+### More About Hu Tao: II
+
+Versemonger of the darkest alleys — that's me!
+
+### More About Hu Tao: III
+
+If you ask me, there's nothing hard or scary about working at Wangsheng Funeral Parlor, it's just a pain is all. It's a shame — others see us going out to work at night and just don't understand — and that's what scares them. *sigh* You all just don't understand!
+
+### More About Hu Tao: IV
+
+I'm Wangsheng Funeral Parlor's 77th Funeral Director, my grandfather was the 75th. First thing I took over was funeral affairs. Haha, surprising huh? And just like that, it's already been a few years... Time really does go by so quickly.
+
+### More About Hu Tao: V
+
+Balance must be maintained, and yet destinies remain variable. Death has its own rules, and yet is still hard to predict. Remember — no matter where, no matter when, no matter what the reason — one should never poke fun at death. Only once you know and respect death can you truly understand the value of life.
+
+### Hu Tao's Hobbies
+
+A bright moon aloft amid the vast, clear skies... Moments like these are just perfect for writing poetry.
+
+### Hu Tao's Troubles
+
+*sigh* I gotta find something fun to do... Sitting around doing nothing is a fate worse than death.
+
+### Favorite Food
+
+♪La~la~la~ Steamed fish with a side of prawn dumplings~
+
+### Least Favorite Food
+
+Qingxin Slime Condensate... Bleugh... Surely this is Xiangling getting payback...
+
+### Birthday
+
+Tonight the stars are dazzling and the moon majestic, it must be a special day... But just what day could it be... Haha, I know, I know! It's your birthday! It really is a great day.
+
+### Feelings About Ascension: Intro
+
+O-ya? O-ya-ya-ya?
+
+### Feelings About Ascension: Building Up
+
+Yeah, this is good, thanks!
+
+### Feelings About Ascension: Climax
+
+I never imagined that I, Hu Tao, could ever be like this. Energy like a rushing torrent, a heart soaring like a gliding eagle! I feel great!
+
+### Feelings About Ascension: Conclusion
+
+If I reach my full physical potential, then the next test is of the heart. It's largely thanks to you that I've been able to step foot into this uncharted territory. It is here that heart and soul are as one like clouds. Death is a constant for all among the multitudes that sit beneath the heavens.
+
+### Elemental Skill: I
+
+Huh!
+
+### Elemental Skill: II
+
+Chi!
+
+### Elemental Skill: III
+
+Suh!
+
+### Elemental Burst: I
+
+Time to go!
+
+### Elemental Burst: II
+
+Cross over!
+
+### Elemental Burst: III
+
+Pyre, pyre, pants on fire!
+
+### Sprint Start: I
+
+Huyoh!
+
+### Sprint Start: II
+
+Go~
+
+### Sprint Start: III
+
+Hyu~
+
+### Deploying Wind Glider: I
+
+With the wind~
+
+### Opening Treasure Chest: I
+
+Jackpot!
+
+### Opening Treasure Chest: II
+
+Oh, what a cute treasure coffin!
+
+### Opening Treasure Chest: III
+
+If we bury it, maybe it'll spring back to life!
+
+### Low HP: I
+
+Ayaya!
+
+### Low HP: II
+
+Eeeeeee!
+
+### Low HP: III
+
+This isn't good!
+
+### Ally at Low HP: I
+
+Take it easy!
+
+### Ally at Low HP: II
+
+Lemme have a go!
+
+### Fallen: I
+
+Is it... my time?
+
+### Fallen: II
+
+I'll remember that...
+
+### Fallen: III
+
+Argh...
+
+### Heavy Hit Taken: I
+
+Quit it!
+
+### Joining Party: I
+
+Oh? Is it time for me to join you?
+
+### Joining Party: II
+
+Good eye!
+
+### Joining Party: III
+
+Send one, send 'em all!
+
+### Receiving a Gift: I
+
+Splendid, splendid! Now, allow me to compose a poem in loving memory of this dish.
+
+### Receiving a Gift: II
+
+Sure you don't want my help? C'mon, it's a great deal: cook twice the amount in the same time!
+
+### Receiving a Gift: III
+
+Ugh, I declare this dish dead, rest in peace.
+
+### About Lan Yan
+
+Lan Yan, you say? She's a lot stronger than she looks. She claims to only know a few of the Qimen arts, but she can get rid of dangerous things like fetor and illnesses! Aiya, there's only one problem... Removing all the bad stuff and making everyone all fit and strong isn't exactly good for the funeral business!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+唷，找本堂主有何贵干呀？嗯？你不知道吗，往生堂第七十七代堂主就是胡桃我啦！嘶，不过瞧你的模样，容光焕发，身体健康，嗯…想必是为了工作以外的事来找我，对吧？
+
+### 闲聊·往生堂
+
+不如去我那儿喝杯茶？嘿~
+
+### 闲聊·客户
+
+一个客户，两个客户，三个客户…
+
+### 闲聊·偷懒
+
+咳咳…太阳出来我晒太阳，月亮出来我晒月亮咯~
+
+### 下雨的时候…
+
+哎呀…麻烦喽。
+
+### 打雷的时候…
+
+打雷啦，起身啦。
+
+### 下雪的时候…
+
+哇，是雪！
+
+### 起风的时候…
+
+嗯，真舒服。
+
+### 刮大风了…
+
+欸？…唉，帽子都要吹飞了。
+
+### 早上好…
+
+嗯~早起身体好，晚睡人会飘。
+
+### 中午好…
+
+哟！中午好呀，吃了吗？
+
+### 晚上好…
+
+嘻嘻，月亮出来喽~咱也出门吧。
+
+### 晚安…
+
+哦，困了吗？那你好好休息，我一个人四处转转。
+
+### 关于胡桃自己·名字
+
+胡桃的胡是胡吃海喝的胡，胡桃的桃却不是淘气的淘！嘿嘿…不、不好笑吗？
+
+### 关于胡桃自己·拿手好戏
+
+变个戏法给你看，瞧好了哦…火！然后…嚯！火蝴蝶！呼，飞啦——哈哈。
+
+### 关于我们·好奇心
+
+你到处旅行，一定见多识广。有空也给我讲讲你自己的故事吧。
+
+### 关于我们·夜晚
+
+白天你尽管到处跑，晚上可得小心点。我不在的时候，务必谨慎行动。
+
+### 关于我们·帮手
+
+需要帮手吗？需要帮手吗？我来啦！若你需要帮助，胡桃我定当全力以赴，绝不推辞。
+
+### 关于我们·战斗
+
+战斗是件麻烦事，对我来说，它不是目的而是手段。用手段来达到目的，用战斗来维护不愿让步的东西。就这方面而言，我和你是一样的。
+
+### 关于「神之眼」…
+
+「神之眼」…「神之眼」？唔，这东西，随缘就好。
+
+### 有什么想要分享…
+
+受人之托，忠人之事。我们往生堂性质特殊，肩负着双倍责任，所以，一定要让两个世界的人都满意才行。
+
+### 感兴趣的见闻…
+
+有些花草只长在阴气重月光多的地方，你见过吗？没有？那下次带你见识见识。
+
+### 关于钟离…
+
+钟离长得那么年轻，性格倒像是个老古董，什么都懂，却什么都不关心，他该不会…？嘻嘻…
+唉，算了，随他去吧。
+
+### 关于七七…
+
+看到七七了吗？快告诉我她在哪，我要把她藏起来，嘿！
+
+### 关于白术…
+
+白术？哼，麻烦的家伙。
+
+### 关于凝光…
+
+天权凝光，富甲一方；明眸善睐，桃羞杏让；目达耳通，百了千当！
+
+### 关于北斗…
+
+北斗姐可是璃月名人，她不认识我没关系，我认识她就行。啊~真想和她交个朋友啊。
+
+### 关于行秋…
+
+听说行秋少爷在写书？话本还是怪谈呢？好想把平日遇见的杂事说给他听，写成书一定很好看吧。
+
+### 关于重云…
+
+纯阳正气，阴阳合一？啧啧，嘶…没想到世上真有这种体质的人。
+
+### 关于魈…
+
+仙家的事，我怎么知道？哎呀呀，天机不可泄露。你就别问我啦。
+
+### 关于刻晴…
+
+「玉衡」刻晴啊，嘶…是个很难打交道的人呢。嘿嘿，瞧那一本正经的样子，真想逗逗她。哎呦，她应该不会用剑敲我头吧？不会的吧？
+
+### 关于香菱…
+
+香菱可好玩了，一碰就跳，特别容易被唬住。做我们这行，最喜欢这种人喽。不过也得注意分寸，毕竟，锅巴会替香菱出头呢。
+
+### 关于云堇…
+
+云堇她在正式场合很优雅，私底下却非常容易亲近哦！上次我跟她打了个赌，输的人要用自己习惯的唱法唱对方填的词。哎呀呀，戏腔版的丘丘谣，你真该听一次！
+
+### 关于申鹤…
+
+她可真是个有意思的人呐，跟别人都不一样。你说，要是我从现在开始天天吃仙草、喝山露，会不会也变成她那么不染红尘的样子？嘿嘿…
+
+### 想要了解胡桃·其一
+
+大丘丘病了，二丘丘瞧；三丘丘采药，四丘丘熬；五丘丘死了，六丘丘抬~
+欸…呼。
+
+### 想要了解胡桃·其二
+
+小巷派暗黑打油诗人，正是本人！
+
+### 想要了解胡桃·其三
+
+若要我说，往生堂的工作既不困难也不可怕，只是麻烦而已。可惜旁人理解不了，见到咱们夜里出工，总是有些惧怕。唉，是他们不懂啊。
+
+### 想要了解胡桃·其四
+
+我是「往生堂」第七十七代堂主，我爷爷是第七十五代。我经手的第一份工作，就是替爷爷办葬礼。是不是很意外啊？哎呀，不知不觉就在这行做了好些年，时间过得可真快。
+
+### 想要了解胡桃·其五
+
+阴阳有序，命运无常。死亡难以预测，却也有它的规矩。记住了，无论何时何地，无论有何原因，人都不该轻易挑衅「死」之一事。唯有认识它、尊重它，才能明白活着的价值。
+
+### 胡桃的爱好…
+
+天清海阔，皓月凌空，此情此景，正适合作诗一首。
+
+### 胡桃的烦恼…
+
+唉…真想找些新乐子，无所事事比死亡可怕多了。
+
+### 喜欢的食物…
+
+♪啦啦啦啦~吃水煮鱼配虾饺啦~
+
+### 讨厌的食物…
+
+清心炒史莱姆凝液…呕…这是香菱对我的复仇吗？
+
+### 生日…
+
+今夜天星璀璨，月相壮丽，想必是个好日子。嘶，待我一算…嗯~我知道我知道，是你的生辰！哎呀，真是个好日子。
+
+### 突破的感受·起
+
+哦呀？哦呀呀？
+
+### 突破的感受·承
+
+嗯~真不错，谢啦。
+
+### 突破的感受·转
+
+没想到没想到，胡桃我现在力如泉涌，心似雄鹰，非常有自信哦。
+
+### 突破的感受·合
+
+力量若达到极限，接着考验的便是人心。多亏了你，我才能来到这片未曾踏足的领域。在这里，心和灵魂就像一片云彩…生老病死，天地万象，尽在吾辈。
+
+### 元素战技·其一
+
+喝！
+
+### 元素战技·其二
+
+起！
+
+### 元素战技·其三
+
+散！
+
+### 元素爆发·其一
+
+吃饱喝饱，一路走好！
+
+### 元素爆发·其二
+
+再会啦！
+
+### 元素爆发·其三
+
+蝶火燎原！
+
+### 冲刺开始·其一
+
+嚯——！
+
+### 冲刺开始·其二
+
+走~
+
+### 冲刺开始·其三
+
+咻~
+
+### 打开风之翼·其一
+
+顺风顺水~
+
+### 打开宝箱·其一
+
+撞大运咯！
+
+### 打开宝箱·其二
+
+让我看看，都有什么好东西。
+
+### 打开宝箱·其三
+
+快埋进土里，等它长出好多宝箱！
+
+### 生命值低·其一
+
+哎哟哎哟！
+
+### 生命值低·其二
+
+噫——！
+
+### 生命值低·其三
+
+糟糕！
+
+### 同伴生命值低·其一
+
+悠着点！
+
+### 同伴生命值低·其二
+
+放着我来！
+
+### 倒下·其一
+
+到我了吗…
+
+### 倒下·其二
+
+我记…仇…
+
+### 倒下·其三
+
+呃啊——
+
+### 重受击·其一
+
+干嘛呀！
+
+### 加入队伍·其一
+
+哦？该我出马了？
+
+### 加入队伍·其二
+
+你很有眼光嘛！
+
+### 加入队伍·其三
+
+一波送走，全送走。
+
+### 收到赠礼·其一
+
+甚好甚好。本堂主现在就来为这道菜肴题诗一首——
+
+### 收到赠礼·其二
+
+真不用我来帮忙吗？做一道送一道哦！
+
+### 收到赠礼·其三
+
+噫…这是什么东西呀？
+
+### 关于蓝砚…
+
+蓝姑娘啊…她实力不俗，可不仅仅是「皮毛」这么简单。奇门秘术可真了不得，病气死气都被搬走啦。哎呀，可谓是——世风日上，身强力壮，往生堂的生意越来越难做喽。

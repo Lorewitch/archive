@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 74695
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_74695
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
@@ -25,6 +25,9 @@
 # quest_collections: witch_revelation
 
 # quest_series_ru: Пророчество ведьмы
+# game_source_ids: 74695
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 50
 
 ## RU
 
@@ -64,9 +67,9 @@
 
 **Барбелот:** Спасибо, господин Ризли. Я поделюсь им с Алисой и остальными.
 
-**Барбелот:** ...Я всё слышала, Барби. Обязательно оставь мне немного!
+**Барбелот?:** ...Я всё слышала, Барби. Обязательно оставь мне немного!
 
-**Барбелот:** Я не могу позволить Николь молча забрать всё лишь потому, что я опаздываю...
+**Алиса:** Я не могу позволить Николь молча забрать всё лишь потому, что я опаздываю...
 
 **Барбелот:** Кхе-кхе! Да, да, я позабочусь, чтобы она оставила тебе немного.
 
@@ -74,11 +77,11 @@
 
 **Ризли:** Ничего страшного. Что в этом плохого? Влиятельным людям необязательно всегда быть серьёзными. У каждого есть право на индивидуальность.
 
-**Барбелот:** Именно! На самом деле, оптимизм и жизнерадостность - основные требования для вступления в Ведьмин шабаш.
+**Алиса:** Именно! На самом деле, оптимизм и жизнерадостность - основные требования для вступления в Ведьмин шабаш.
 
 **Барбелот:** Первый раз слышу о таком требовании...
 
-**Барбелот:** Я только что придумала! Ведьмин шабаш - это организация, которая приносит радость в мир, так что мы должны быть оптимистичными и жизнерадостными!
+**Алиса:** Я только что придумала! Ведьмин шабаш - это организация, которая приносит радость в мир, так что мы должны быть оптимистичными и жизнерадостными!
 
 **Ризли:** Лично я поддерживаю ваше право наслаждаться жизнью по своему усмотрению. Разумеется, в рамках закона.
 
@@ -86,27 +89,33 @@
 
 **Ризли:** Ох, это вызывает беспокойство.
 
-**Барбелот:** Эй, я здесь и всё слышу!
+**Алиса:** Эй, я здесь и всё слышу!
 
-**Барбелот:** К тому же я не собираюсь совершать преступных деяний на глазах у управляющего крепости Меропид.
+**Алиса:** К тому же я не собираюсь совершать преступных деяний на глазах у управляющего крепости Меропид.
 
-**Барбелот:** ...А если бы и собиралась, полагаю, твои камеры просторнее, чем одиночная камера в Ордо Фавониус. Не так ли?
+**Алиса:** ...А если бы и собиралась, полагаю, твои камеры просторнее, чем одиночная камера в Ордо Фавониус. Не так ли?
 
 **Ризли:** Ха-ха! Разве одиночная камера способна удержать легендарную ведьму?
 
 **Ризли:** Я уверен, что госпожа Алиса охотно примет наказание в силу своей скромности и безупречной честности.
 
-**Барбелот:** Именно так! Прекрасно сказано!
+**Алиса:** Именно так! Прекрасно сказано!
 
 **Барбелот:** Пожалуйста, хватит. Ризли, не подливай масла в огонь.
 
 **Барбелот:** Нет предела тому, что может натворить Алиса в хорошем настроении.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Я прекрасно понимаю, о чём ты.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Прошу, не теряйте благоговейного уважения к одиночной камере.
 
-**Паймон:** Ах да, кстати, Путешественник - почётный рыцарь Ордо Фавониус и не должен / должна говорить плохо ни про кого за глаза, в том числе про одиночную камеру!
+##### Общее продолжение
+
+**Паймон:** Ах да, кстати, Путешественник - почётный рыцарь Ордо Фавониус и не должен говорить плохо ни про кого за глаза, в том числе про одиночную камеру! / Ах да, кстати, Путешественник - почётный рыцарь Ордо Фавониус и не должна говорить плохо ни про кого за глаза, в том числе про одиночную камеру!
 
 **Ризли:** Почётный рыцарь пытается остановить сбежавшую ведьму? Из этого получится отличный спектакль. Обязательно позови меня посмотреть.
 
@@ -114,7 +123,7 @@
 
 **Паймон:** Паймон не ожидала, что ты придёшь сам и избавишь нас от необходимости спускаться за тобой под воду!
 
-Вот она, сила гадания.
+- **Путешественник:** Вот она, сила гадания.
 
 **Барбелот:** Ах да, пора заняться делом.
 
@@ -128,7 +137,7 @@
 
 **Ризли:** Ни один житель Фонтейна не отнесётся к этому несерьёзно.
 
-*Сказав, что отнесётся к этому со всей серьёзностью, Ризли берёт самую верхнюю карту...*
+Сказав, что отнесётся к этому со всей серьёзностью, Ризли берёт самую верхнюю карту...
 
 **Ризли:** Я не слишком хорошо знаком с этими картами. А вот это...
 
@@ -158,13 +167,19 @@
 
 **Ризли:** Что ж, это радует. Значит, я не зря прошёл все эти испытания.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Это были испытания, наполненные прекрасными пожеланиями.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Удача улыбается тем, кто пережил тяжёлые невзгоды.
 
+##### Общее продолжение
+
 **Ризли:** Поскольку меня гложет любопытство, задам-ка, пожалуй, немного дерзкий вопрос... Надеюсь, ты не против...
 
-**Барбелот:** Какой хитрец! Ты специально пытаешься разжечь наше любопытство, Ризли! Нам ничего не остаётся, как настоять, чтобы ты его задал.
+**Алиса:** Какой хитрец! Ты специально пытаешься разжечь наше любопытство, Ризли! Нам ничего не остаётся, как настоять, чтобы ты его задал.
 
 **Ризли:** Прошу прощения за мою прямоту.
 
@@ -176,41 +191,49 @@
 
 **Ризли:** Например...
 
-Например, взорвёшь крепость Меропид?
+- **Путешественник:** Например, взорвёшь крепость Меропид?
 
 **Ризли:** Хороший пример.
 
 **Паймон:** Всё никак забыть не можешь?!
 
-**Барбелот:** О!
+**Алиса:** О!
 
 **Барбелот:** Подожди минутку...
 
-**Барбелот:** Ха-ха! Какое совпадение! Я могу порекомендовать одного очень способного специалиста по взрывным работам.
+**Алиса:** Ха-ха! Какое совпадение! Я могу порекомендовать одного очень способного специалиста по взрывным работам.
 
-**Барбелот:** А почётный рыцарь будет сопровождать этого эксперта по взрывчатке и в критический момент предотвратит любые неприятности!
+**Алиса:** А почётный рыцарь будет сопровождать этого эксперта по взрывчатке и в критический момент предотвратит любые неприятности!
 
 **Барбелот:** ...Видишь, вот как исполнилось пророчество.
 
 **Ризли:** Да, она настоящий мастер разрушений.
 
-А ещё она милая. Очень милая.
+- **Путешественник:** А ещё она милая. Очень милая.
 
 **Паймон:** Это же малышка Кли! Ризли, возможно, не знает, но Кли - дочка Алисы.
 
-**Барбелот:** Точнее следует сказать: дочь великой искательницы приключений, злого-презлого Додокороля, защитницы старого Мондштадта...
+**Алиса:** Точнее следует сказать: дочь великой искательницы приключений, злого-презлого Додокороля, защитницы старого Мондштадта...
 
 **Барбелот:** Слишком длинно!
 
-**Барбелот:** ...В общем, самая милая дочка великого Тёмного Владыки Алисы, настоящий Рыцарь Искорка, Кли!
+**Алиса:** ...В общем, самая милая дочка великого Тёмного Владыки Алисы, настоящий Рыцарь Искорка, Кли!
 
-**Барбелот:** Эх, нужно было придерживаться первоначального плана, устроить грандиозную вечеринку и познакомить вас.
+**Алиса:** Эх, нужно было придерживаться первоначального плана, устроить грандиозную вечеринку и познакомить вас.
 
-**Барбелот:** Таким образом, когда Кли отправится в Фонтейн, у неё будет множество новых друзей, с которыми можно будет попить чаю.
+**Алиса:** Таким образом, когда Кли отправится в Фонтейн, у неё будет множество новых друзей, с которыми можно будет попить чаю.
 
 **Ризли:** Хорошая идея. Жду с нетерпением.
 
 **Ризли:** Разве можно отказаться от хорошего чая?
+
+#### Послушайте историю Ризли...
+
+#### Послушайте историю Ризли...
+
+#### Выслушайте историю Ризли...
+
+#### Покиньте историю
 
 ## EN
 
@@ -250,9 +273,9 @@ You encounter Wriothesley at Barbeloth's fortune-telling booth...
 
 **Barbeloth:** Thank you, Mr. Wriothesley. I'll make sure to share it with Alice and the others.
 
-**Barbeloth:** ...Is that my ears I feel tingling? Barbie! You simply have to save some for me!
+**Barbeloth?:** ...Is that my ears I feel tingling? Barbie! You simply have to save some for me!
 
-**Barbeloth:** Don't let Nicole scarf the lot down before I get there — it's not like she hasn't done it before!
+**Alice:** Don't let Nicole scarf the lot down before I get there — it's not like she hasn't done it before!
 
 **Barbeloth:** Ahem! Yes, yes, I'll make sure she leaves some for you.
 
@@ -260,11 +283,11 @@ You encounter Wriothesley at Barbeloth's fortune-telling booth...
 
 **Wriothesley:** It's quite all right. Where's the harm? Powerful people don't have to be serious all the time. Everyone's entitled to a little personality.
 
-**Barbeloth:** Exactly! As a matter of fact, optimism and cheerfulness are core entry requirements of the Hexenzirkel.
+**Alice:** Exactly! As a matter of fact, optimism and cheerfulness are core entry requirements of the Hexenzirkel.
 
 **Barbeloth:** This is the first I've heard of it...
 
-**Barbeloth:** It's a new rule I just came up with! The Hexenzirkel is supposed to bring joy to the world. It's only natural that we're cheerful and optimistic!
+**Alice:** It's a new rule I just came up with! The Hexenzirkel is supposed to bring joy to the world. It's only natural that we're cheerful and optimistic!
 
 **Wriothesley:** Speaking only for myself, I support everyone enjoying life however they please — provided no laws are broken, of course.
 
@@ -272,25 +295,31 @@ You encounter Wriothesley at Barbeloth's fortune-telling booth...
 
 **Wriothesley:** Oh my, well this is a concern.
 
-**Barbeloth:** Hah, you two do realize I'm still here, right!?
+**Alice:** Hah, you two do realize I'm still here, right!?
 
-**Barbeloth:** Besides, I'm not going to do anything criminal in front of the Administrator of the Fortress of Meropide.
+**Alice:** Besides, I'm not going to do anything criminal in front of the Administrator of the Fortress of Meropide.
 
-**Barbeloth:** ...And even if I was, I imagine your rooms are more spacious than the Knights of Favonius's solitary confinement room. Isn't that right, Mr. Wriothesley?
+**Alice:** ...And even if I was, I imagine your rooms are more spacious than the Knights of Favonius's solitary confinement room. Isn't that right, Mr. Wriothesley?
 
 **Wriothesley:** Haha! As though a mere solitary confinement room could hold a legendary mage such as yourself.
 
 **Wriothesley:** I'm sure Lady Alice has willingly accepted her punishment, no doubt due to her humility and unimpeachable trustworthiness.
 
-**Barbeloth:** Exactly — you couldn't be more right!
+**Alice:** Exactly — you couldn't be more right!
 
 **Barbeloth:** Please stop, Mr. Wriothesley. You really shouldn't encourage her.
 
 **Barbeloth:** Once she's in a good mood, there's no telling what Alice might do.
 
+##### Response branch 1
+
 - **Traveler:** I know exactly what you mean.
 
+##### Response branch 2
+
 - **Traveler:** Please show some respect for the solitary confinement room.
+
+##### Shared continuation
 
 **Paimon:** That's right! Traveler's the Honorary Knight of the Knights of Favonius, y'know! No talking bad about the solitary confinement room behind its back, hehe...
 
@@ -300,7 +329,7 @@ You encounter Wriothesley at Barbeloth's fortune-telling booth...
 
 **Paimon:** Still, Paimon didn't expect you to come here by yourself, Wriothesley. That saves us a trip underwater to fetch you!
 
-This must be the power of divination.
+- **Traveler:** This must be the power of divination.
 
 **Barbeloth:** Ah, speaking of which, it's about time we got down to business.
 
@@ -314,7 +343,7 @@ This must be the power of divination.
 
 **Wriothesley:** Then no Fontainian would fail to take it seriously.
 
-*Having said how seriously he would take it, Wriothesley goes straight for the topmost card...*
+Having said how seriously he would take it, Wriothesley goes straight for the topmost card...
 
 **Wriothesley:** I'm not too familiar with these cards. This one appears to be...
 
@@ -344,13 +373,19 @@ This must be the power of divination.
 
 **Wriothesley:** Such wonderful news! Looks like I didn't take that punch for nothing...
 
+##### Response branch 1
+
 - **Traveler:** It was a punch filled with beautiful wishes.
+
+##### Response branch 2
 
 - **Traveler:** Good fortune comes to those who survive great disasters.
 
+##### Shared continuation
+
 **Wriothesley:** As a matter of curiosity, I have a somewhat presumptuous question to ask... I hope you don't mind...
 
-**Barbeloth:** How sly! You're deliberately trying to pique our curiosity, Mr. Wriothesley! Now, we have no choice but to insist that you ask.
+**Alice:** How sly! You're deliberately trying to pique our curiosity, Mr. Wriothesley! Now, we have no choice but to insist that you ask.
 
 **Wriothesley:** Then permit me to be frank.
 
@@ -362,41 +397,49 @@ This must be the power of divination.
 
 **Wriothesley:** For example, what if...
 
-You blew up the Fortress of Meropide?
+- **Traveler:** You blew up the Fortress of Meropide?
 
 **Wriothesley:** Sure, let's go with that.
 
 **Paimon:** Are you really dragging that back up again!?
 
-**Barbeloth:** Oooh!
+**Alice:** Oooh!
 
 **Barbeloth:** No, don't you even...
 
-**Barbeloth:** Ahaha! What a happy coincidence! I just so happen to know a very skilled explosives expert. I can't recommend her highly enough.
+**Alice:** Ahaha! What a happy coincidence! I just so happen to know a very skilled explosives expert. I can't recommend her highly enough.
 
-**Barbeloth:** But then the Honorary Knight will surely act as her guardian, stepping in at the critical moment to stop anything bad from happening!
+**Alice:** But then the Honorary Knight will surely act as her guardian, stepping in at the critical moment to stop anything bad from happening!
 
 **Barbeloth:** ...And that is how the prophecy is fulfilled.
 
 **Wriothesley:** She sounds like quite the destructive force.
 
-And cute. Very cute.
+- **Traveler:** And cute. Very cute.
 
 **Paimon:** Huh, are we talking about Klee!? Wriothesley probably doesn't know that Klee is Alice's daughter, right?
 
-**Barbeloth:** Well, actually, I think you'll find her full title is Daughter of the Great Adventurer of the Realms, Dodo-King, Defender of Old Mondstadt...
+**Alice:** Well, actually, I think you'll find her full title is Daughter of the Great Adventurer of the Realms, Dodo-King, Defender of Old Mondstadt...
 
 **Barbeloth:** We don't have time for all that!
 
-**Barbeloth:** Fine... She's the Most Adorable Child of Alice, the Dodo-King, the Veritable Spark Knight, Klee!
+**Alice:** Fine... She's the Most Adorable Child of Alice, the Dodo-King, the Veritable Spark Knight, Klee!
 
-**Barbeloth:** Honestly, we really should go back to my original plan and throw a fabulous party for everyone where I can introduce you all properly.
+**Alice:** Honestly, we really should go back to my original plan and throw a fabulous party for everyone where I can introduce you all properly.
 
-**Barbeloth:** That way, when Klee goes to Fontaine, she'll have plenty of new friends to drink tea with.
+**Alice:** That way, when Klee goes to Fontaine, she'll have plenty of new friends to drink tea with.
 
 **Wriothesley:** That sounds like a wonderful plan. I'm looking forward to it already.
 
 **Wriothesley:** After all, it's not like I can turn down a good pot of tea.
+
+#### Listen to Wriothesley's story...
+
+#### Listen to Wriothesley's story
+
+#### Finish listening to Wriothesley's story
+
+#### Leave the story
 
 ## ZH
 
@@ -436,9 +479,9 @@ And cute. Very cute.
 
 **芭比洛斯:** 谢谢你，莱欧斯利先生，我会和艾莉丝她们分享的。
 
-**芭比洛斯:** …我听到了哦，芭比，必须给我留！
+**芭比洛斯？:** …我听到了哦，芭比，必须给我留！
 
-**芭比洛斯:** 不能像之前那样因为我来晚了就让尼可一声不吭地把所有——
+**艾莉丝:** 不能像之前那样因为我来晚了就让尼可一声不吭地把所有——
 
 **芭比洛斯:** 咳咳！知道了知道了，这次一定。
 
@@ -446,11 +489,11 @@ And cute. Very cute.
 
 **莱欧斯利:** 没关系，有什么不好，没有规定说能力强大的人不能拥有活泼的性格。
 
-**芭比洛斯:** 正是如此！乐观开朗可是我们魔女会的入会门槛之一。
+**艾莉丝:** 正是如此！乐观开朗可是我们魔女会的入会门槛之一。
 
 **芭比洛斯:** 第一次听说有这种门槛！
 
-**芭比洛斯:** 我刚刚想的！魔女会可是给世界带来快乐的组织，我们自己当然要先乐观开朗起来啦！
+**艾莉丝:** 我刚刚想的！魔女会可是给世界带来快乐的组织，我们自己当然要先乐观开朗起来啦！
 
 **莱欧斯利:** 仅代表个人，我支持诸位随心所欲地享受生活——当然，要在不违法乱纪的前提下。
 
@@ -458,25 +501,31 @@ And cute. Very cute.
 
 **莱欧斯利:** 哎呀，那可真是令人担忧。
 
-**芭比洛斯:** 嘿，我还在这呢！
+**艾莉丝:** 嘿，我还在这呢！
 
-**芭比洛斯:** 放心放心，我还不至于非要在梅洛彼得堡的管理人面前胡闹。
+**艾莉丝:** 放心放心，我还不至于非要在梅洛彼得堡的管理人面前胡闹。
 
-**芭比洛斯:** 而且…就算退一步讲，你那里应该比西风骑士团的禁闭室要更宽敞一些吧？
+**艾莉丝:** 而且…就算退一步讲，你那里应该比西风骑士团的禁闭室要更宽敞一些吧？
 
 **莱欧斯利:** 哈哈，难道一间禁闭室就能关住传说中的魔女吗？
 
 **莱欧斯利:** 艾莉丝女士甘愿受罚，肯定是因为她为人谦和且守信啊。
 
-**芭比洛斯:** 这话说得——真是太对了。
+**艾莉丝:** 这话说得——真是太对了。
 
 **芭比洛斯:** 停，停，莱欧斯利先生，请不要再助长她的气焰了。
 
 **芭比洛斯:** 一个心情愉悦的艾莉丝，可不一定会做出什么事来。
 
+##### 对话分支 1
+
 - **旅行者:** 深有体会。
 
+##### 对话分支 2
+
 - **旅行者:** 还请对禁闭室保持敬畏之心。
+
+##### 共同后续
 
 **派蒙:** 对哦，说起来旅行者可是骑士团的荣誉骑士，那么肯定是要维护禁闭室的尊严才对！
 
@@ -486,7 +535,7 @@ And cute. Very cute.
 
 **派蒙:** 不过没想到公爵已经提前过来了，省去了我们往水下跑一趟呢。
 
-这就是占卜的力量吧。
+- **旅行者:** 这就是占卜的力量吧。
 
 **芭比洛斯:** 啊，说到这个，也该做些正事了。
 
@@ -500,7 +549,7 @@ And cute. Very cute.
 
 **莱欧斯利:** 那没有枫丹人会不认真对待的。
 
-*说是要「认真对待」，莱欧斯利直接拿起了最上面的一张牌…*
+说是要「认真对待」，莱欧斯利直接拿起了最上面的一张牌…
 
 **莱欧斯利:** 我对这种牌不甚了解，这似乎是…
 
@@ -530,13 +579,19 @@ And cute. Very cute.
 
 **莱欧斯利:** 那可真是皆大欢喜。看来那一拳没有白挨？
 
+##### 对话分支 1
+
 - **旅行者:** 是带着美好祝愿的一拳。
+
+##### 对话分支 2
 
 - **旅行者:** 大难不死，必有后福。
 
+##### 共同后续
+
 **莱欧斯利:** 不过出于好奇，我有个相当冒昧的问题想要请教，不知能否直说…
 
-**芭比洛斯:** 真是狡猾，莱欧斯利先生这样说就是在故意引起我们的好奇心嘛！这下就算你不说，我也偏要问了。
+**艾莉丝:** 真是狡猾，莱欧斯利先生这样说就是在故意引起我们的好奇心嘛！这下就算你不说，我也偏要问了。
 
 **莱欧斯利:** 那就恕我直言了。
 
@@ -548,38 +603,46 @@ And cute. Very cute.
 
 **莱欧斯利:** 就比如…
 
-比如把梅洛彼得堡炸上天？
+- **旅行者:** 比如把梅洛彼得堡炸上天？
 
 **莱欧斯利:** 行，就这个。
 
 **派蒙:** 还惦记着这回事呢？！
 
-**芭比洛斯:** 欸。
+**艾莉丝:** 欸。
 
 **芭比洛斯:** 不，你等会儿…
 
-**芭比洛斯:** 哈哈！真是巧了！我这边正好有一位实力强劲的爆破专家可以介绍给你——
+**艾莉丝:** 哈哈！真是巧了！我这边正好有一位实力强劲的爆破专家可以介绍给你——
 
-**芭比洛斯:** 而荣誉骑士会作为那位爆破专家的随行监护人，在关键时刻阻拦一切坏事的发生！
+**艾莉丝:** 而荣誉骑士会作为那位爆破专家的随行监护人，在关键时刻阻拦一切坏事的发生！
 
 **芭比洛斯:** …你看，预言就是这样达成的。
 
 **莱欧斯利:** 看来是位破坏力很强的专家啊。
 
-而且非常可爱。
+- **旅行者:** 而且非常可爱。
 
 **派蒙:** 啊，是小可莉吧！公爵可能不知道，可莉是艾莉丝的女儿哦。
 
-**芭比洛斯:** 不，准确地说，应当是「诸世界的大冒险家」「很坏很坏的大魔王」「旧蒙德的守护者」…
+**艾莉丝:** 不，准确地说，应当是「诸世界的大冒险家」「很坏很坏的大魔王」「旧蒙德的守护者」…
 
 **芭比洛斯:** 太长了！
 
-**芭比洛斯:** …总之就是大魔王艾莉丝最可爱的孩子，名副其实的「火花骑士」——可莉！
+**艾莉丝:** …总之就是大魔王艾莉丝最可爱的孩子，名副其实的「火花骑士」——可莉！
 
-**芭比洛斯:** 唉，就应该按照原定的计划，大家一起好好办一场聚会，还能介绍你们认识呢。
+**艾莉丝:** 唉，就应该按照原定的计划，大家一起好好办一场聚会，还能介绍你们认识呢。
 
-**芭比洛斯:** 那样等可莉去枫丹玩的时候，还能有新朋友一起开茶会。
+**艾莉丝:** 那样等可莉去枫丹玩的时候，还能有新朋友一起开茶会。
 
 **莱欧斯利:** 听上去是个不错的计划，我已经开始期待了。
 
 **莱欧斯利:** 毕竟我是不会对一壶好茶说不的。
+
+#### 聆听莱欧斯利的故事…
+
+#### 聆听莱欧斯利的故事
+
+#### 听完莱欧斯利的故事
+
+#### 离开故事

@@ -424,3 +424,839 @@ Following a trail of shimmering colors, Citlali opened up her hand. As if from n
 「是的，但它对于你说来好像不只是一份使命。」
 循着色彩的指引，茜特菈莉张开手，一枚闪亮的神之眼不知何时出现在她的手心。
 「它似乎也是你的『心愿』呢。」
+
+# voice_source_ids: 107000,107001,107002,107003,107004,107005,107006,107007,107008,107009,107010,107011,107012,107013,107014,107015,107016,107017,107018,107019,107020,107021,107022,107023,107024,107025,107026,107027,107028,107029,107030,107031,107032,107033,107034,107035,107036,107037,107038,107039,107040,107041,107042,107043,107044,107045,107046,107047,107048,107049,107050,107051,107052,107053,107054,107055,107056,107057,107058,107059,107060,107061,107062,107063,107064,107065,107066,107067,107068
+
+## REPLICAS_RU
+
+### Привет...
+
+Я Ситлали из Повелителей Ночного Ветра. Звёзды рассеяли дым, скрывающий твоё будущее, и поведали мне тайны твоей судьбы. Тебя ждут удача и помощь могущественных союзников. Позволь мне присоединиться к тебе. Эй, я могу быть серьёзной! Перестань так на меня смотреть!
+
+### Поболтаем: Романы
+
+Я... Я прочитала почти все романы от издательского дома Яэ. Это... Это нормально, правда?
+
+### Поболтаем: Выпивка
+
+Выпьем за жизнь! Пусть мора и вино текут рекой!
+
+### Поболтаем: Транс
+
+Вход в транс опасен для большинства людей, так что даже не вздумай. Понятно?
+
+### Когда идёт дождь...
+
+Лучшее время, чтобы остаться дома и почитать книжку.
+
+### После дождя...
+
+Сегодня ночью будет видно звёзды.
+
+### Когда идёт снег...
+
+Ох... Я никогда такого ещё не видела.
+
+### В пустыне...
+
+Тьфу! Ой, это не я плевалась на землю. Я знаю, как себя вести! Просто песок в рот попал, клянусь!
+
+### Доброе утро...
+
+Доброе утро. В последний раз я вставала так рано, когда ещё была студенткой. А теперь, став мастером, могу позволить себе поспать. Так что, чем могу помочь?
+
+### Добрый день...
+
+Добрый день! Я человек с большой выдержкой, знаешь ли. После того как проснусь, никогда не пью до полудня... Хотя иногда мне приходится проводить церемонию всю ночь, и я вообще не сплю. Так что, когда это случается, никаких обещаний дать не могу...
+
+### Добрый вечер...
+
+Добрый вечер! В районах с высокой активностью флогистона всегда тепло, но в более отдалённых частях Натлана ночью температура может сильно упасть, так что не забудь укутаться потеплее. А? Ты не спрашивал? Ну, всё равно рассказываю! / Добрый вечер! В районах с высокой активностью флогистона всегда тепло, но в более отдалённых частях Натлана ночью температура может сильно упасть, так что не забудь укутаться потеплее. А? Ты не спрашивалa? Ну, всё равно рассказываю!
+
+### Спокойной ночи...
+
+Спокойной ночи! Дымка, укрывшая землю, и духи природы дремлют в лёгком сне, а зловещие звёзды едва видны - во всех отношениях прекрасный вечер. Стоп, а как это моя подушка оказалась на полу?..
+
+### О Ситлали: Воины миражей
+
+Ах, похоже, кто-то заинтересовался! «Война миражей» - это фэнтези-роман Накадзимы Дзюна, одна из первых известных работ издательства Яэ. Действие разворачивается в островном королевстве под названием Асихара. Главный герой большинства глав - Хигаси но Санкун, отшельник с головой кошки, приплывший из-за восточных морей. Однако его истинная личность оказывается гораздо глубже - он древний вассал, Наместник Востока. Роман невероятно длинный... За время написания автор сменился трижды, но в итоге истина о «Хоко» так и не была раскрыта...
+
+### О Ситлали: Концовка
+
+Ода воскресения может вернуть наши тела, но всё когда-нибудь заканчивается - даже солнце и звёзды. Ах, ты хочешь знать, что такое смерть? Представь себе застывший во времени полдень: ты скачешь верхом на завриане через бескрайнюю равнину, а на горизонте стоит некая фигура. Как бы быстро ты ни мчался, эта фигура остаётся недосягаемой - пока внезапно не бросается на тебя. Некуда спрятаться, и когда вы сталкиваетесь лицом к лицу, всё заканчивается.
+
+### О нас: Помощь
+
+Кроме своего старшинства в племени, я даже не знаю, чем могу быть тебе полезна. Твои союзники сильны, а будущее у тебя светлое - ты прекрасно справишься и самостоятельно... К тому же, разве старейшина не заслужила честный отдых? Если, конечно, тебе не нужно, чтобы я кого-то приструнила... Постой, но ты ведь не всерьёз это имеешь в виду, правда?
+
+### О нас: Неловкость
+
+Я... я отношусь к тебе так же, как и ко всем, честное слово! Ну ладно, люди в моём племени знают меня только по слухам, которые передаются из поколения в поколение. Но ты видишь меня настоящую. Моя уверенность и беззаботность - это лишь маска, потому что все этого от меня ждут... Но вот неловкость, тревоги, сомнения - вот такая я на самом деле. Я не стану лгать тебе, но и не жди, что я буду открывать душу больше одного раза.
+
+### Глаз Бога...
+
+В каком-то смысле получение Глаза Бога - это как обретение могущественного союзника. Но сказать, что у кого-то есть сильные союзники, - значит подчеркнуть, насколько этот человек уже исключителен. В конце концов, союзники лишь усиливают твою собственную мощь. А вот раскрыть эту силу - это уже полностью зависит от твоей воли.
+
+### Давай поделимся...
+
+До Натлана роман из Инадзумы в виде отдельных глав добирается за две недели, а вот на то, чтобы издать их в одном томе, уходит целый год. Есть ли в этом какой-то глубокий смысл? Не знаю. Но за эти две недели появляются такие безумные спойлеры и утечки, что невозможно понять, где догадки, а где откровенная чушь.
+
+### Интересные вещи...
+
+Согласно легенде, в Натлане когда-то существовал особый вид кактуса, который мастер моего мастера называл «мескалито». Говорят, что если его съесть, даже обычный смертный сможет заглянуть в иной мир. Но это всё лишь слухи - я понятия не имею, сохранился ли он до наших дней. Однако, если вдруг встретишь такой, ни за что не пробуй, ладно?
+
+### Об Оророне...
+
+Хм.
+
+### О Муалани...
+
+Что касается меня и Муалани, честно говоря, я уже не знаю, кто кому должен. Она ломает мою дверь, занимает у меня мору, ворует еду... но потом приносит мне закуски и оплачивает всякие мелочи. За всем этим сложно уследить. Я бы с радостью просто решила, что мы квиты, лишь бы она перестала будить меня в одиннадцать утра... Ой, то есть... Эм... Забудь! Она просто пугает меня громким стуком в дверь, вот и всё.
+
+### О Шилонен...
+
+Она совершенно игнорирует слухи обо мне и не перегибает палку с дружелюбием, поэтому с ней легко. Ой! Не то чтобы с тобой было сложно! Просто... Как обычно, всё усложняю. Замечательно, теперь ты и это знаешь.
+
+### О Мавуике...
+
+Хех, Мавуика... кхм, то есть Архонт как-то недавно зашла поговорить. Только ночью, перекусывая, я поняла, что всё это время она, по сути, хвасталась! Есть древняя пословица из другого края: «Архонты скромны, пока не спросишь их о долге - тогда гордость берёт верх». Кажется, это как раз про неё.
+
+### О Камисато Аяке...
+
+Юная леди, обернитесь, дайте-ка на вас взглянуть... Ах, так это из «Дела госпожи Орит». А я подумала, что это вторая героиня из «Великого детектива Харлока». Все эти наряды из Фонтейна для меня выглядят одинаково. Ладно, вы свободны. Мне больше нечего сказать.
+
+### О Киниче...
+
+Мелочь, что постоянно крутится возле него, - та ещё дрянь. О, Кинич твой друг? Хм, что ещё могу о нём сказать... Наверное, на него можно положиться.
+
+### Об Иансан...
+
+Я не так хорошо её знаю, но я разбираюсь в лёгких романах. У кого-то, кто настолько силён, несмотря на свои размеры, должно быть какое-то секретное усиление, которое она использует, чтобы вырасти аж до двух метров и сражаться в несколько раз яростнее.
+
+### Узнать больше о Ситлали I
+
+Что? Это ещё откуда взялось? Очередные слухи обо мне? Эх, ну ладно. Это всё правда... Я самая старая, самая странная и самая страшная шаманка в племени. Верь во что захочешь... Мне уже давным-давно надоело объясняться.
+
+### Узнать больше о Ситлали II
+
+Хочешь, чтобы я всё-таки объяснилась? В моём племени есть негласная традиция. Мастера-шаманы намеренно разжигают соперничество между своими учениками и другим мастером. Чтобы победить мастера, ученикам приходится усердно тренироваться. Большинство шаманов в племени принадлежат к школе, основанной моей подругой. Они выбрали меня в роли злой ведьмы, которую нужно одолеть, - ну что я могу с этим поделать? Я не пытаюсь усложнять им жизнь! Это не моя вина, что никто из них не может дать мне достойный бой! В общем, слухи, что я страшная старая ведьма... вот откуда всё началось.
+
+### Узнать больше о Ситлали III
+
+Верно. На людях я притворяюсь, но это моя настоящая личность. Всё довольно просто, на самом деле. Если люди ожидают, что ты будешь говорить как старик с акцентом, а ты отвечаешь изящной литературной речью, они впадают в ступор. Это обыкновенное невежество. Но невежество самая сложная вещь, с которой нужно бороться. Ведь, если честно, когда мы встретились, я и от тебя не ожидала ничего другого.
+
+### Узнать больше о Ситлали IV
+
+Итак, мастера-шаманы в моём племени обманывают своих учеников, заставляя их затаить на меня обиду. Хочешь узнать как? Самый традиционный метод - заявить, что тебя обманул мошенник, а затем отправить учеников разрисовывать его дом граффити. Праведный гнев заставит их сделать всё что угодно! Видишь, как это несправедливо? Правда, теперь большинство хотя бы отличает мой дом от дома случайного мошенника, так что такое со мной случается реже.
+
+### Узнать больше о Ситлали V
+
+О, эти бутылки вина? Это реликвии, найденные Ассоциацией реликвий заврианов. Нет-нет, это не мои! Хе-хе, так небрежно раскидать их, это Оророн их выпил, верно, Оророн? Выходи и извиняйся! У меня высокая стойкость, понимаешь, так что я не пьянею так легко. И даже если бы я напилась, я никогда не стала бы мусорить вот так. Кроме того, Ассоциация сказала, что их нашли в дикой местности. О, в абсолютно безопасном месте, конечно, не то чтобы это важно, потому что я их не разбрасывала, и какая разница. Просто поверь мне!
+
+### Хобби Ситлали
+
+Моя жизнь почти полностью лишена смысла. Остались лишь мутный ступор после сна, бредовые фантазии из романов и утешение на дне бутылки.
+
+### Беспокойство Ситлали...
+
+Ты всерьёз спрашиваешь? Я притворяюсь, что мне всё безразлично. Это мой защитный механизм. А на самом деле я только и делаю, что беспокоюсь обо всём на свете.
+
+### Любимая еда...
+
+Во-первых, я люблю мясо средней прожарки, чтобы оно сохраняло оригинальный вкус жертвенного подношения. Потом что-нибудь, что можно легко есть одной рукой, чтобы можно было читать и есть одновременно. Ну и, конечно, всё, что ты порекомендуешь!
+
+### Нелюбимая еда...
+
+Я не совсем понимаю, в чём смысл кислой еды. Ешь, когда голоден, пей, когда хочешь пить, и спи, когда устал. Если кислая еда должна разжигать аппетит, разве это не значит, что ты изначально не был голоден?
+
+### Подарок I
+
+Ого, это просто восхитительно! Я перепробовала всё, что можно найти у Повелителей Ночного Ветра, но ничего настолько потрясающего мне ещё не встречалось!
+
+### Подарок II
+
+Хм, я обычно такое не ем... Нет, подожди! Я не говорю, что это плохо! Ты... познакомил меня с новым вкусом! Это комплимент, честное слово! / Хм, я обычно такое не ем... Нет, подожди! Я не говорю, что это плохо! Ты... познакомилa меня с новым вкусом! Это комплимент, честное слово!
+
+### Подарок III
+
+Как, как это может быть невкусно? Ха-ха-ха...
+
+### День рождения...
+
+С днём рождения! Честно говоря, я понятия не имею, что тебе подарить. На твоём пути нет неблагоприятных звёзд. Что касается любви, сражений или будущих начинаний, твои перспективы выглядят просто великолепно. Благословение в стиле Миктлан вряд ли тебе понадобится. Я думала подарить тебе экземпляр «Цветы для принцессы Фишль», чтобы подсадить тебя на лёгкие романы, но, похоже, что у кого-то ещё больше книг издательского дома Яэ, чем у меня... Ах, что же делать, что же делать?
+
+### Чувство возвышения: Начало
+
+Хм, это не похоже на технику гадания потустороннего мира. Моя школа шаманизма опирается на землю, а не на небо. Когда лживые зловещие звёзды начинают скалить зубы, я связываю их духом земли, костями мёртвых животных и силой затмевающего дыма.
+
+### Чувство возвышения: Нарастание
+
+Небеса управляют человеческой судьбой, как кукловод управляет марионеткой. Так что сами зловещие звёзды не обладают свободной волей. Но как только я запечатываю их силу внутри куклы и связываю её с костями животных, остаточные мысли, заключённые в костях, позволяют им обрести сознание. Я называю эти, э-э, маленькие создания «цицимитли». Ты можешь думать о них как о воплощениях зловещих звёзд.
+
+### Чувство возвышения: Кульминация
+
+Каждый цицимитль содержит кости мелких животных, и, если задуматься, это немного жуткая техника. Так что, когда дело доходит до того, почему люди меня боятся... думаю, на мне лежит, может быть, процентов десять ответственности. Я ведь сама не причиняю вреда животным! Я просто нахожу кости в дикой природе!
+
+### Чувство возвышения: Окончание
+
+С этого момента я всегда буду рядом с тобой, пока звёзды не померкнут, огонь не угаснет и дым не рассеется.
+
+### Элементальный навык I
+
+За дело!
+
+### Элементальный навык II
+
+Цицимитль, исполни договор.
+
+### Элементальный навык III
+
+Пощады не будет.
+
+### Элементальный навык IV
+
+Осторожно... Осторожно...
+
+### Элементальный навык V
+
+Рука не дрогнет.
+
+### Элементальный навык VI
+
+Вот так!
+
+### Взрыв стихии I
+
+Вы двое, пора покончить с ними!
+
+### Взрыв стихии II
+
+Ситлалин, Ицпапа, за дело!
+
+### Взрыв стихии III
+
+Познай гнев Ицтли!
+
+### Открытие сундука I
+
+Неплохо. Это всё тебе.
+
+### Открытие сундука II
+
+Забирай. Я отблагодарю за это звёзды.
+
+### Открытие сундука III
+
+Тяжело нести всё это? Давай, я помогу.
+
+### Низкий уровень HP I
+
+Надо было остаться дома...
+
+### Низкий уровень HP II
+
+Я хочу домой...
+
+### Низкий уровень HP III
+
+Нужно... быть сильной...
+
+### Низкий уровень HP компаньона I
+
+Эй, нельзя умирать!
+
+### Низкий уровень HP компаньона II
+
+Надо было быть поосторожнее.
+
+### Без сознания I
+
+Ввысь... к звёздам...
+
+### Без сознания II
+
+Вниз... в землю...
+
+### Без сознания III
+
+Прости... меня...
+
+### Получен тяжёлый удар I
+
+Мощно!
+
+### Получен тяжёлый удар II
+
+Ай-ай-ай!
+
+### Присоединяется к группе I
+
+Я всегда вовремя.
+
+### Присоединяется к группе II
+
+Оставь меня в поко... Ах, забудь! Пойдём!
+
+### Присоединяется к группе III
+
+Как пожелаешь.
+
+### О Варесе...
+
+Воины в масках способны поражать воображение людей... В них часто видят воплощение героев, природы или богов. Одна из любимых городских легенд рассказывает о герое в маске, который доблестно спас пьяную ведьму, а затем с ней на плече ходил от двери к двери, перебудив весь район посреди ночи. У меня и так почти не осталось репутации приличной девушки, так что меня это не волнует. А почему меня это должно волновать? Я желаю ей только добра. В качестве платы... Я имею в виду, чтобы отплатить ей за помощь... пусть все её блюда будут грибами в течение десяти дней.
+
+## REPLICAS_EN
+
+### Hello
+
+I am Citlali from the Masters of the Night-Wind. I have read the stars and seen the future through the obscuring smoke. You shall be blessed with good fortune and have the aid of powerful allies during your journey. Allow me to join you — Hey, I can be serious! Stop looking at me like that!
+
+### Chat: Novels
+
+I—I've read almost every novel from Yae Publishing House. P—Pretty normal, right?
+
+### Chat: Drinking
+
+Here's to a life where the drinks keep flowing and the Mora keeps rolling!
+
+### Chat: Trance
+
+Going into a trance is risky for most people, so don't get any ideas.
+
+### When It Rains
+
+A perfect day to stay home and read.
+
+### After the Rain
+
+We should be able to see the stars tonight.
+
+### When It Snows
+
+Argh! I've never seen this stuff before!
+
+### In the Desert
+
+*spitting noise* Oh, that wasn't me spitting on the ground. I know better than that! I just had some sand in my mouth, I swear!
+
+### Good Morning
+
+*yawn* Morning. The last time I woke up this early, I was still a student. Now that I'm a master, I get to sleep in. Anyway, what do you need?
+
+### Good Afternoon
+
+Afternoon! I'm someone with a lot of restraint, y'know. After I wake up, I never drink before noon... Although, sometimes it takes me all night to perform a ceremony and I don't sleep at all. So, no promises when that happens...
+
+### Good Evening
+
+Evening! Areas with large amounts of phlogiston activity are warm no matter what, but in more remote parts of Natlan, the temperature really drops at night, so remember to bundle up. Huh? You didn't ask? Well, I'm telling you anyway!
+
+### Good Night
+
+Good night! The obscuring smoke and spirits of the earth are in a light slumber, and the inauspicious stars are faint — a fine evening by all accounts. Wait, how did my pillow get on the floor...
+
+### About Citlali: Mirage Warriors
+
+Ah, looks like someone's interested! "Mirage Warriors" is a fantasy novel by Nakajima Jun — it's one of the oldest and most renowned works to come out of Yae Publishing House. The story takes place in an island kingdom known as "Ashihara." The protagonist for most of the chapters is "Higashi no Sankun," a feline-headed hermit who came from across the eastern seas, but their true identity is actually the ancient vassal, the Viceroy of the East. The story is incredibly long... The author changed three times, but in the end, the truth of the "Houko" was still never revealed...
+
+### About Citlali: Endings
+
+The Ode of Resurrection can bring back our physical bodies, but everything will meet its end one day, even the sun and the stars. Oh, you want to know what death is like? Picture an afternoon suspended in time — you're riding a Saurian through a vast plain, and an unknown figure stands on the horizon. No matter how fast you ride, the figure is always out of reach — until it charges toward you without warning. There's nowhere to hide, and when you come face to face, that is the end.
+
+### About Us: Giving Help
+
+*sigh* Other than my seniority in the tribe, I really don't know what I can offer you. Your allies are powerful, and your future is bright — you should be perfectly fine on your own... Besides, shouldn't an old-timer like me be allowed to relax at home all day? Unless you need me to get someone to fall in line... Wait, you don't really need that, right?
+
+### About Us: Awkwardness
+
+I—I treat you just like everyone else, I swear! Fine, the people in my tribe only know me through rumors that have been around for generations. But, you see the real me. My confident and uninhibited persona is just an act, because that's what people expect out of me... But, the awkwardness, the anxiety, the uncertainty — that's who I really am. I won't lie to you, but don't expect me to pour my heart out more than once.
+
+### About the Vision
+
+In a way, obtaining a Vision is like gaining a powerful ally. But, saying someone has powerful allies is more of a comment on how extraordinary that person already is. After all, allies only augment your existing strength. Unleashing that strength depends entirely on your own will.
+
+### Something to Share
+
+It takes two weeks for a serialized Inazuma novel to reach Natlan, and a whole year for the chapters to come out in a single volume. I'm not sure if there's some kind of deeper meaning behind this, but during those two weeks, there are so many crazy spoilers and leaks. It's impossible to tell speculation from complete misinformation.
+
+### Interesting Things
+
+According to legend, there was once a special kind of cactus in Natlan that my master's master called the "mescalito." Eating it is supposed to allow even mortal eyes to see into another realm. It was just all a rumor, of course — I have no idea if it still exists. But, if you ever see one, don't try it, okay?
+
+### About Ororon
+
+Hmph.
+
+### About Mualani
+
+Between me and Mualani, I honestly don't know who owes who anymore. She breaks my door, owes me Mora, steals my food, but then she brings me snacks and pays for other things... It's too hard to keep track. I'm more than happy to just call it even at this point. Anything to get her to stop waking me up at eleven in the morning... Oh, I mean, um... Never mind! She just startles me with her knocking, that's all.
+
+### About Xilonen
+
+She's someone who completely ignores the rumors about me and doesn't go overboard with friendliness. So, I always feel comfortable around her. Oh! Not that I feel uncomfortable around you! I'm just... overthinking everything, as usual... Great, now you know that, too.
+
+### About Mavuika
+
+Heh, Mavuika... *ahem* I mean, the Archon came to talk to me the other day. It wasn't until I was eating snacks in the middle of the night that I realized she was basically bragging the whole time! There's an ancient saying from another land that goes, "Saints are humble until you ask them about their duty — that's when their pride stands tall." I think that fits her perfectly.
+
+### About Kamisato Ayaka
+
+...You, young lady over there, turn around and let me have a look. Ah, so this is from The Case Files of Miss Orith. I thought it was the second female lead from Great Detective Hurlock. All Fontaine clothes look the same to me. Alright, you can be on your way now. That's all I wanted to say.
+
+### About Kinich
+
+The small thing that follows him around is a nasty piece of work. Oh, Kinich is a friend of yours? Huh, what else can I say about him... He's pretty reliable, I suppose.
+
+### About Iansan
+
+I don't know her that well, but I do know light novels... Someone who's that powerful despite her size must have some kind of power-up that she uses to shoot up to seven feet tall and fight with 200% strength.
+
+### More About Citlali: I
+
+Huh? Where is this coming from all of a sudden? Did you hear one of the rumors about me? *sigh* Fine, it's true! I'm the oldest, strangest, and scariest shaman in the tribe. Believe what you want — I gave up explaining myself a long time ago.
+
+### More About Citlali: II
+
+You want me to explain anyway? *sigh* There's an unspoken tradition in my tribe. Shaman masters deliberately foster rivalries between their students and a rival master. That way, if the students want to defeat that master without getting obliterated, they need to work hard to surpass the previous generation. Most of the shamans in the tribe belong to the school founded by my friend. They chose me as the evil witch to defeat, so what can I do? I'm not trying to make their lives difficult! It's not my fault none of them can put up a fight! *sigh* Anyway, the rumors about me being a terrifying old hag... That's how it all started.
+
+### More About Citlali: III
+
+That's right. I put on an act in front of other people, but this is my real personality. It's pretty simple, actually. If people expect you to speak like an old-timer with an accent, and you respond with elegant, standard speech, people will be shocked out of their minds. Yeah, you're right — it's the stupidity of ignorance. But, ignorance is the hardest thing to overcome. After all, when we first met, I didn't expect you to be any different from the rest of them.
+
+### More About Citlali: IV
+
+So, the shaman masters in my tribe trick their students into forming a grudge against me, but do you want to know how? This is the most traditional method — say you were cheated by a scammer, then send your students to graffiti the scammer's house. With a little righteous indignation on your side, you can get them to do anything! See how unfair that is? At least most people can recognize my house from a random scammer now, so I don't get that one as much.
+
+### More About Citlali: V
+
+Oh, these wine bottles? The Saurian Relics Association found them... No, no, they're not mine. Heh, tossing them carelessly like this... Ororon must have drank them! Isn't that right, Ororon!? Come out and apologize! My tolerance is high, you see, so I don't get drunk easily. Even when I am drunk, I never litter like this. Besides, the Association said they were found in the wild. Oh! In a completely harmless location, of course — NOT that it matters, anyway, because I wasn't the one who tossed them, and... Who cares! Just trust me!
+
+### Citlali's Hobbies
+
+My life is nearly completely devoid of meaning. Nothing remains but groggy stupor after sleeping, delusional fantasies from novels, and the comfort at the bottom of a bottle.
+
+### Citlali's Troubles
+
+You really have to ask? I pretend not to care about anything as a shield. In reality, all I do is worry about things.
+
+### Favorite Food
+
+First, I like my meat cooked medium, so it retains some of the original flavor of a sacrificial offering. Next would be anything that's easy to eat with one hand so I can read at the same time. Oh, and then anything you recommend, of course!
+
+### Least Favorite Food
+
+I don't quite... get the point of sour foods. You eat when you're hungry, drink when you're thirsty, and sleep when you're tired. If sour foods are meant to whet the appetite, doesn't that mean you weren't hungry in the first place?
+
+### Receiving a Gift: I
+
+Whoa, this is delicious! I've tried every place around the Masters of the Night-Wind, and I've never had anything as amazing as this — I swear!
+
+### Receiving a Gift: II
+
+Huh, I don't usually eat things like this... No, wait! I'm not saying it's bad! You... introduced me to a new flavor! It's a compliment — cross my heart!
+
+### Receiving a Gift: III
+
+M—Must be something wrong with my tastebuds, ahahaha...
+
+### Birthday
+
+Happy birthday! Honestly, I don't know what to get you. There are no inauspicious stars in your path. Whether in regard to love, battle, or your future endeavors, your prospects seem great. A Mictlan-style blessing won't do much for you. I thought about getting you a copy of "Flowers for Princess Fischl" to get you hooked on light novels, but it seems like someone owns more books from Yae Publishing House than me... Ahh, what to do... what to do?
+
+### Feelings About Ascension: Intro
+
+Hmm, this doesn't feel like a divination technique from beyond this world. My school of shamanism relies on the earth rather than the sky. When the fake inauspicious stars show their teeth, I bind them with the spirit of the earth, the bones of dead animals, and the power of the obscuring smoke.
+
+### Feelings About Ascension: Building Up
+
+The heavens control human fate like a puppeteer controls a marionette. So, the inauspicious stars themselves do not have free will. But, once I seal their power inside of a doll and bind it with animal bones, the residual thoughts within the bones allow them to develop awareness. I call these, uh, little creations, "Tzitzimimeh." You can think of them as manifestations of the inauspicious stars.
+
+### Feelings About Ascension: Climax
+
+Each Tzitzimitl contains the bones of small animals, which is kind of a creepy technique if you think about it. So, when it comes to people being afraid of me... I guess I bear, maybe, ten percent of the responsibility. But, I don't harm any animals! I just find the bones in the wild!
+
+### Feelings About Ascension: Conclusion
+
+From this point on, I will always be by your side — until the stars diminish, the flames die out, and the smoke dissipates into nothing.
+
+### Elemental Skill: I
+
+Get to work!
+
+### Elemental Skill: II
+
+Fulfill our pact.
+
+### Elemental Skill: III
+
+Show no mercy.
+
+### Elemental Skill: IV
+
+Carefully... carefully...
+
+### Elemental Skill: V
+
+Steady now...
+
+### Elemental Skill: VI
+
+Just like that...
+
+### Elemental Burst: I
+
+You two — time to end them!
+
+### Elemental Burst: II
+
+Citlalin, Itzpapa, get 'em!
+
+### Elemental Burst: III
+
+Suffer the wrath of Itztli!
+
+### Opening Treasure Chest: I
+
+Hm, not bad. It's all yours.
+
+### Opening Treasure Chest: II
+
+Go on, take them. I'll thank the stars for you later.
+
+### Opening Treasure Chest: III
+
+Is it too much to carry? Here, lemme help.
+
+### Low HP: I
+
+Should've stayed inside...
+
+### Low HP: II
+
+*sigh* I wanna go home...
+
+### Low HP: III
+
+Gotta... be strong...
+
+### Ally at Low HP: I
+
+...Hey, no dying!
+
+### Ally at Low HP: II
+
+Reckless much?
+
+### Fallen: I
+
+Take me... stars above...
+
+### Fallen: II
+
+Take me... earth below...
+
+### Fallen: III
+
+I'm... sorry...
+
+### Heavy Hit Taken: I
+
+How dare you!
+
+### Heavy Hit Taken: II
+
+Ow ow ow...
+
+### Joining Party: I
+
+I'm never late...
+
+### Joining Party: II
+
+Leave me alo— Ahh, never mind! Let's go!
+
+### Joining Party: III
+
+Whatever you need.
+
+### About Varesa
+
+Warriors in masks have a way of capturing people's imaginations... They're often seen as incarnations of heroes, nature, or the gods. One much-loved urban legend tells the tale of a masked hero who valiantly rescued a drunken witch, and then went door to door waking up the entire neighborhood in the middle of the night, all while carrying her over her shoulder. I mean, I hardly had much of a reputation left anyway, so it's not like I care. Why would I care? I wish nothing but the best for her, obviously. As payback... I mean, to pay her back for her help... may all of her meals be mushrooms for ten days.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+「烟谜主」的茜特菈莉，已经透过迷烟看到了未来的道路。诸恶曜必不会伤害你，诸吉星必环绕你。你会拥有强大的「盟友」。请让我也同行。——呃，见到认真的我很奇怪吗？不要用这种眼神看着我啦！
+
+### 闲聊·小说
+
+基、基本上八重堂出版过的小说我都看过。也、也不奇怪吧！
+
+### 闲聊·喝酒
+
+岁月献给小酒杯，借钱九出十三归。
+
+### 闲聊·出神
+
+「出神仪式」对旁人来说还是挺不稳定的，就不要太好奇了吧。
+
+### 下雨的时候…
+
+在家里看小说的好日子。
+
+### 雨过天晴…
+
+今晚应该能看到星星了。
+
+### 下雪的时候…
+
+呜啊，从来没有见过！
+
+### 在沙漠的时候…
+
+呸——啊，我不是在随地吐痰，我怎么可能那么没有素质？是嘴里进飞沙了！你相信我！
+
+### 早上好…
+
+啊——早上好啊。上次这么早起床都是出师以前了。独当一面之后，我都是睡到自然醒。说吧，什么事？
+
+### 中午好…
+
+中午好啊。其实我还是很节制的，起床到中午的时间内是不会喝酒的…至于熬夜主持仪式结果彻夜不眠直到第二天天亮就是另一码事了…
+
+### 晚上好…
+
+晚上好啊。纳塔有些荒野晚上会有很大幅度的降温，别凉着了。燃素活跃的地方倒是白天晚上都一样。你没问？没问也听着！
+
+### 晚安…
+
+晚安。今晚恶曜不显，地灵微眠，迷烟浅睡。是个好夜晚。我的枕头怎么掉地上了…
+
+### 关于茜特菈莉自己·蜃楼战记
+
+哦，你感兴趣啊。《蜃楼战记》是稻妻八重堂中岛纯先生所著的幻想小说，算是八重堂活化石级别的老系列了。故事发生在名叫「苇之原」的幻想岛国。大部分章节的主角都是东渡而来的猫头道士「东之山君」，其真身正是超古代诸侯东王公。小说的篇幅很长很长，中间换过三次作者，最终还是没有揭开「方壶」的真相…
+
+### 关于茜特菈莉自己·终结
+
+纵使「还魂诗」可以唤回血气之身，但星曜、太阳尚有终结，何况生命。你问死亡是什么样的？那就像是在永恒的午后，你骑着龙驰骋在大平原上，天际线那边有一张看不清的脸。无论你速度多快，它都在天边不动。突然某一刻它动了起来，以恐怖的速度和你迎面撞上。你来不及躲避，当看清那张脸时，一切都结束了。
+
+### 关于我们·帮助
+
+欸，除了辈分虚高，我也不知道我在纳塔能帮你什么。你的「盟友」强大，前途光明。在这方面我已经没什么能为你做的了，更何况像我这种年纪的奶奶，一般不都该在家里找把椅子躺着了吗？除非你真的要我帮忙用辈分去压人…你不会真的需要这种吧…
+
+### 关于我们·局促
+
+我、我对你的态度和对其他人一样啊。没、没什么差别吧。呼…好吧，村里人对我的误会已经传了几代人，我早就放弃努力了。但是你不一样，你面前的我才是真正的我。对外无所顾忌、大大咧咧的模样，都是我努力装出来去迎合外界忌惮的…在你面前的局促才是真的我。我就是一个谨小慎微的人啊。我从来都不骗你，但是这个真心话我只说一次。
+
+### 关于「神之眼」…
+
+获得神之眼就是获得了另一种强大的「盟友」。不过当我们说某人「盟友」强大的时候，本质上还是在说其人本身超凡。毕竟「盟友」只是协助你的力量，只有你自己拥有无坚不摧的意志，才能把力量发挥出来。
+
+### 有什么想要分享…
+
+稻妻的小说连载运到纳塔会晚两周，而合订本要整整晚一年。不知道背后有什么深意。这时间差的两周内，各种稀奇古怪的内部消息、先行透露满天飞，不知道多少是造谣、多少是自己编的。
+
+### 感兴趣的见闻…
+
+传说纳塔曾有一种特殊的仙人掌，被我老师的老师称呼为「梅斯卡利脱」。据说食用它能让凡目也看到另一重世界。我也就说说，现在不知道「梅斯卡利脱」灭绝没有。你遇到了可千万别吃。
+
+### 关于欧洛伦…
+
+哼哼。
+
+### 关于玛拉妮…
+
+玛拉妮和我之间有笔算不清楚的账。她应该付我的报酬、弄坏我家门的赔偿、实付报酬、蹭我零食、给我带的小吃…总之算不清了。如果她不介意的话，我倒是想就此两清。正应该睡觉的周末上午十一点…啊，没什么！总之，突然被她咚咚咚锤门，太可怕了。
+
+### 关于希诺宁…
+
+像她这样既不在乎关于我的奇怪谣言，又不会过分热情的人相处起来最轻松不过了。啊，不是——在你面前我也很轻松。我拘谨的本性都不自觉流露了！
+
+### 关于玛薇卡…
+
+玛薇卡这家伙…咳咳，不好意思，火神大人她前些日子突然过来找我说了一大堆话。后来我半夜吃宵夜时才明白她过来炫耀了什么。有一句异邦的古话，想想还挺适合她的。「圣者谦卑，只有谈到自己责任时，会骄傲地加一句『我说句大话…』」。
+
+### 对神里绫华…
+
+…哈，小妹，你转过来给我看看。嘶，这是《奥西兹小姐事件簿》啊，嗨，我还以为是《赫尔洛克》系列的女二号呢。枫丹的衣服在我看来都一样。行了，你继续吧，我没事了。
+
+### 关于基尼奇…
+
+他身边的那个小东西有点烦人。他是你朋友吗？那我想想还有什么别的印象…他本人还是挺可靠的。嗯。
+
+### 关于伊安珊…
+
+好像对她没什么更深了解。不过根据八重堂小说的套路来看，这人能力这么强，个子这么小，是不是遇到紧急情况会有一个两米三的百分之二百出力模式啊？
+
+### 想要了解茜特菈莉·其一
+
+啊？你怎么突然过来和我说这个？是听到了关于我的传闻？唉，对对，我就是萨满里的老妖怪，想信就信吧。我已经放弃解释了。
+
+### 想要了解茜特菈莉·其二
+
+你还是想听我解释吗？唉。「烟谜主」有一个秘而不宣的传统：为了敦促后辈进步，老师会故意算计徒弟，让他们和师叔们结下梁子。为了不挨长辈的揍，后辈就必须拼命努力反超长辈。如今「烟谜主」大半都是我朋友的谱系。他们所有人都喜欢找我来当这个坏人巫婆。怎么办呢？我根本没想为难后生，可这么多年没有一个人能赢过我！唉！于是关于我多恐怖、脾气多差的谣言就根深蒂固了。
+
+### 想要了解茜特菈莉·其三
+
+没错。我在人前的状态是装出来的，这才是我本来的性格。这也很好理解吧，所有人都期待着你说话带着口音和过时表达的时候，你说出了优雅、字正腔圆的标准口音，对面也会愣住的。你说的没错，这就是一种不自知的愚蠢。但是这种愚蠢很难从习性上摒弃，你看，我一开始还以为你也和其他人一样呢，嘿嘿。
+
+### 想要了解茜特菈莉·其四
+
+你想知道「烟谜主」的后辈是怎么被他们师父算计，和我结下梁子的吗？最传统的做法就是师父骗徒弟自己被骗了，要去骗子家门口涂鸦。一般徒弟听了就会义愤填膺，捋起袖子就涂。真的很过分欸，对吧？不过最近大家都知道我家在哪里了，所以这招不怎么能见到了。
+
+### 想要了解茜特菈莉·其五
+
+这些龙遗迹研究协会送回来的酒瓶…啊，这，这是，对，是欧洛伦他喝完了随地乱扔的，和我没关系。对吧，欧洛伦，快出来认错！我酒量还不错，不会轻易喝醉的，就算醉了也不会乱扔垃圾。何况协会说是野外找到的在野外也没有给别人添麻烦而且这也不是我丢的…啊，解释不清楚了！请你相信我！
+
+### 茜特菈莉的爱好…
+
+我的生命太过无意义，只剩下喝酒的迷醉、看小说的妄想和睡觉的昏沉了。
+
+### 茜特菈莉的烦恼…
+
+这你还看不出来吗？看起来什么都不在乎只是我的保护色，其实我什么都很在乎。
+
+### 喜欢的食物…
+
+我喜欢五成熟的肉，比较接近祭祀品本来的味道。然后就是吃起来简单，可以一只手拿着另一只手翻小说的东西。再然后就是，你推荐的我都喜欢！
+
+### 讨厌的食物…
+
+就是…稍微有些不理解酸味的食物。饿了就吃东西，困了就睡觉，渴了就喝水。既然需要酸味开胃，那不就是不饿不需要吃东西吗？
+
+### 收到赠礼·其一
+
+呜啊，太好吃了。「烟谜主」附近的吃食我都尝过了，全都没你做的好吃。真的真的。
+
+### 收到赠礼·其二
+
+平常吃这种东西不多…不不不，不是说不好吃的意思！就是…现在感觉吃出来了另一番风味。是夸奖，真的是夸奖！
+
+### 收到赠礼·其三
+
+怎、怎么会不好吃呢。啊哈哈哈…
+
+### 生日…
+
+生日快乐！我也不知道有什么可以送你的，你的前途上灾星恶曜不显，爱情、功业、武勋的运势也很通畅。米克特兰式的祝福对你效果甚微。之前本想送你我传教用的《菲谢尔皇女夜谭》，但是看到你好像有很多八重堂藏书，我都羡慕…这可为难了，送你什么好呢？
+
+### 突破的感受·起
+
+不像是提瓦特外面世界的占卜技术，我——至少我这一系不依靠天，反而更依靠大地。天上虚假的凶星恶曜显露之时，我就依靠迷烟、大地之灵和动物骨头将其绑缚。
+
+### 突破的感受·承
+
+天上对人间命运的操控如同木偶提线，这些恶曜本身并没有自我意志。但是这些力量被封进布偶体内之后，凭着小动物骨头附着的念头，它们呈现出了意识。我把这些玩意…咳…小家伙叫做「星魔」，可以说是凶星恶曜的化现吧。
+
+### 突破的感受·转
+
+每个布偶里都有小动物的骨头，仔细想想确实也有点瘆人吧。用这样的秘术，被其他人所恐惧，可能有十分之一的责任确实在我。但是这都是我游历野外时收捡的，我可没有伤害小动物！你可不能误会我！
+
+### 突破的感受·合
+
+从今以后，我会一直与你同行。直到所有星辰消隐，直到所有的火熄灭，直到迷烟散尽。
+
+### 元素战技·其一
+
+出来干活！
+
+### 元素战技·其二
+
+履行盟约吧，星魔们。
+
+### 元素战技·其三
+
+不必留情。
+
+### 元素战技·其四
+
+小心…小心地…
+
+### 元素战技·其五
+
+不会手抖的。
+
+### 元素战技·其六
+
+好的。
+
+### 元素爆发·其一
+
+灭口交给你们俩了！
+
+### 元素爆发·其二
+
+茜特菈琳、伊兹帕帕，给我上！
+
+### 元素爆发·其三
+
+让你见识见识恶曜伤人！
+
+### 打开宝箱·其一
+
+挺好的，收下吧。
+
+### 打开宝箱·其二
+
+先收下，答谢诸星的祈祷我替你做。
+
+### 打开宝箱·其三
+
+两只手都抱不下的话我来帮你。
+
+### 生命值低·其一
+
+不该出门的…
+
+### 生命值低·其二
+
+唉，想回家啊。
+
+### 生命值低·其三
+
+不能…在你面前…
+
+### 同伴生命值低·其一
+
+…不许死！
+
+### 同伴生命值低·其二
+
+给奶奶我小心点。
+
+### 倒下·其一
+
+天上的诸曜啊…
+
+### 倒下·其二
+
+大地的迷烟啊…
+
+### 倒下·其三
+
+对不起…
+
+### 重受击·其一
+
+好胆子！
+
+### 重受击·其二
+
+疼疼！
+
+### 加入队伍·其一
+
+我可没迟到…
+
+### 加入队伍·其二
+
+哈？干什——啊，没事的，准备好了！
+
+### 加入队伍·其三
+
+那我肯定帮忙呀。
+
+### 关于瓦雷莎…
+
+带上面具的战士会被认为是「英雄」、「自然」、「神灵」的化身。曾经就有一个大家喜闻乐见的英雄扛着被酒打败的巫婆耀武扬威的故事，还是在半夜足足敲了一百户人家的门。我倒是也不剩什么好名声了，所以没有很在意。嗯，没有。为了她饮食健康，我要给她下连吃十天蘑菇的诅…呃，祝福！

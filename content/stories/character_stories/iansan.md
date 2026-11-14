@@ -433,3 +433,827 @@ Iansan removed the Vision and then lifted the barbell, with as much ease and cer
 伊安珊走到那副杠铃跟前，意外地发现，一枚闪亮的神之眼不知何时被挂在了杠铃的横杆上。
 伊安珊明白，这意味着她正在直面自己的「愿望」。然而在她看来，她面对的只是一个写在健身计划表上的「目标」。不过她没有疑惑太久，或许对于她来说，这两者并没有本质上的区别。
 伊安珊摘下神之眼，而后，就像这之前每天按计划健身时那样，把这副杠铃举了起来。
+
+# voice_source_ids: 110000,110001,110002,110003,110004,110005,110006,110007,110008,110009,110010,110011,110012,110013,110014,110015,110016,110017,110018,110019,110020,110021,110022,110023,110024,110025,110026,110027,110028,110029,110030,110031,110032,110033,110034,110035,110036,110037,110038,110039,110040,110041,110042,110043,110044,110045,110046,110047,110048,110049,110050,110051,110052,110053,110054,110055,110056,110057,110058,110059,110060,110061,110062,110063,110064,110065,110066,110067
+
+## REPLICAS_RU
+
+### Привет...
+
+Меня зовут Иансан. Я из Удела Благодатных Земель. Я самый известный тренер в моём племени. Вижу, ты в хорошей форме. Тоже следишь за здоровьем?
+
+### Поболтаем: Работа с весами
+
+Сегодня достигнуты не все цели. Нужен ещё один подход.
+
+### Поболтаем: Планирование питания
+
+Я немного превысила суточную норму калорий... Нужно пересмотреть свои планы на ужин.
+
+### Поболтаем: Сила
+
+Люди думают, что я родилась сверхсильной, но посмотрите на меня. Генетически мне досталось маленькое тельце. Вся моя сила - это результат регулярных продуманных тренировок. Приложите те же усилия, и вы сможете добиться тех же результатов.
+
+### Когда идёт дождь...
+
+Скорее, найди какое-нибудь укрытие. Ты же не хочешь простудиться, это только создаст лишнюю нагрузку на организм.
+
+### После дождя...
+
+Пора на солнышко!
+
+### Когда светит солнце...
+
+Отличная погода для тренировок на свежем воздухе.
+
+### Когда дует сильный ветер...
+
+В принципе, бег против ветра тоже можно считать тренировкой с нагрузкой.
+
+### В пустыне...
+
+Здесь не лучшее место для тренировки на природе...
+
+### Доброе утро...
+
+Доброе утро. Если хочешь закалить свою волю, то вставать рано - это одна из базовых тренировок. Тот, у кого не получается заставить себя встать с постели, не сможет следовать никаким планам. Кстати, сейчас отличное время для утренней пробежки. Хочешь со мной?
+
+### Добрый день...
+
+Добрый день! Ты хорошо пообедал? По-моему, обед - это самый главный приём пищи за день. Он не только восстанавливает энергию, но и важен для сбалансированного питания. Если ты хочешь узнать, как питаться правильно, я могу дать несколько советов. / Добрый день! Ты хорошо пообедала? По-моему, обед - это самый главный приём пищи за день. Он не только восстанавливает энергию, но и важен для сбалансированного питания. Если ты хочешь узнать, как питаться правильно, я могу дать несколько советов.
+
+### Добрый вечер...
+
+Добрый вечер. Не хочешь ли позаниматься спортом после наступления темноты? Сразу после захода солнца очень хорошо заниматься на свежем воздухе: не будет пагубного воздействия солнца, обезвоживания, а также это хороший способ утомить себя настолько, чтобы потом отлично выспаться. Попробуешь?
+
+### Спокойной ночи...
+
+Пора отдохнуть. Бодрствовать допоздна плохо для здоровья.
+
+### Об Иансан: Тренер
+
+Физическая форма всегда была важной частью культуры моего племени. Молодые люди даже по-дружески хвастаются друг перед другом своими мускулами. Поэтому очевидно: чтобы называться тренером в этом племени, нужно иметь соответствующие данные, иначе никто не будет воспринимать вас всерьёз. Однако в моём случае я никогда не ставила перед собой цель стать тренером. Много лет я лишь следовала своему тренировочному плану, а потом вдруг люди начали обращать на меня внимание. Внезапно они стали с изумлением наблюдать за тем, как я тренируюсь. Потом они стали спрашивать у меня совета, а дальше всё пошло по нарастающей само собой.
+
+### Об Иансан: Рост
+
+Не надо относиться ко мне, как к ребёнку. Да, я невысокая. Как и все мои предки. Наверное, это наследственное. Но не волнуйся, на моих мышцах это никак не сказывается.
+
+### О нас: Кругозор
+
+Говорят, что ты путешествуешь по миру и побывал в самых разных местах. Это здорово! Если у тебя есть время, не поведаешь ли мне о своих приключениях? Иногда мне нужно вдохновить учеников, и тогда я рассказываю истории об отваге перед лицом неизвестности и преодолении трудностей. / Говорят, что ты путешествуешь по миру и побывала в самых разных местах. Это здорово! Если у тебя есть время, не поведаешь ли мне о своих приключениях? Иногда мне нужно вдохновить учеников, и тогда я рассказываю истории об отваге перед лицом неизвестности и преодолении трудностей.
+
+### О нас: Взаимное вдохновение
+
+Как тренер, я часто должна давать советы другим людям, но на самом деле я предпочитаю работать в команде, где мы все мотивируем друг друга. Спорт - это дело всей моей жизни, и, как и в любом деле, если долго заниматься им в одиночку, это приводит к выгоранию - даже для меня. Ты мой друг, так что, может, будем мотивировать друг друга? Если однажды я поддамся искушению поваляться и поесть конфет, мне нужен будет кто-то рядом, у кого хватит смелости отговорить меня. / Как тренер, я часто должна давать советы другим людям, но на самом деле я предпочитаю работать в команде, где мы все мотивируем друг друга. Спорт - это дело всей моей жизни, и, как и в любом деле, если долго заниматься им в одиночку, это приводит к выгоранию - даже для меня. Ты моя подруга, так что, может, будем мотивировать друг друга? Если однажды я поддамся искушению поваляться и поесть конфет, мне нужен будет кто-то рядом, у кого хватит смелости отговорить меня.
+
+### Глаз Бога...
+
+Когда я только получила Глаз Бога, я составила подробный план, чтобы проверить его характеристики. Я считаю, что носителю Глаза Бога важно знать пределы своей силы, так же как любителю спортивных тренировок следует знать пределы своих физических возможностей. Иначе травмы неизбежны.
+
+### Давай поделимся: Спортивное оборудование
+
+Моё хобби - проектировать новое спортивное оборудование. Если вы когда-нибудь заметите в клубе какие-нибудь странные приспособления, скорее всего, они изготовлены мной. Я не пытаюсь быть авангардистом, но считаю, что разным людям подходит разное, поэтому я решила создать несколько вариантов. Не все хотят поднимать штангу каждый день, так что таким образом даже те, кого пугает традиционное оборудование для тяжёлой атлетики, смогут получать удовольствие от тренировок.
+
+### Давай поделимся: Физическая форма
+
+Жители Удела Благодатных Земель в основном крепкого телосложения, и моя комплекция несвойственна для них. В детстве окружающие считали меня слишком хрупкой, думали, что я не смогу постоять себя. Я не послушалась старших и пошла в спортивный клуб. Поначалу у меня было немало травм... Я прошла через это, возможно, чтобы оправдать своё древнее имя, а может, потому что не люблю, когда меня жалеют.
+
+### Интересные вещи...
+
+Мои соплеменники любят соревноваться с татанказаврами. Справедливости ради надо сказать, что обычно они довольно покладистые, и чаще всего их можно перевернуть, не разозлив. Но это всё равно рискованное дело, потому что по-настоящему разъярённый татанказавр будет мстить и не остановится, пока у него не закончатся силы. Одного разъярённого татанказавра достаточно, чтобы уничтожить целую деревню... Так что с ними стоит соблюдать осторожность. Я уже проводила занятия, объясняя ученикам, чего не стоит делать, чтобы не разозлить татанказавров.
+
+### О Ситлали...
+
+Бабушка Ицтли - потрясающий человек, но... Я не могу согласиться с её образом жизни. Иногда я встречаю её, когда выхожу на утреннюю пробежку. Сначала я думала, что она тоже рано встаёт, но потом узнала, что она не спала всю ночь и только идёт домой спать... Не понимаю, как ей удалось прожить уже более двухсот лет, не умерев от истощения. Шаманы Повелителей Ночного Ветра, думаю, отличаются от обычных людей.
+
+### О Муалани...
+
+Муалани всегда меня поражала. Её физическая подготовка намного лучше, чем у большинства моих учеников, хотя формально она никогда не проходила подготовку. Она записалась на мои занятия, но так и не пришла. Может быть, водные виды спорта лучше тренируют мышцы? Подозреваю, что ключ к разгадке - её душевный настрой. Насколько я знаю, она никогда не тренировалась с конкретной целью развить тело определённым образом.
+
+### О Шилонен...
+
+Шилонен - мой первый друг из племени Детей Эха. Когда я проектировала спортивное оборудование, у меня всегда было много идей, но немногие из них могли воплотиться в реальности. А она - один из тех редких мастеров, которые могут реализовать мои идеи. И качество её работы безупречно. Хотя она всегда откладывает сроки доставки. Но, думаю, если вы хотите, чтобы что-то было сделано хорошо, на это нужно время.
+
+### О Мавуике...
+
+Может быть, это из-за моего детства, но я не люблю полагаться на других или быть той, кого нужно защищать. Хотя, когда Мавуика рядом, я могу спокойно позволить ей постоять за меня. Я не боюсь её авторитета как лидера, наоборот, я всегда относилась к ней как к близкой подруге. И когда я с ней, то чувствую себя так, будто в темноте ночи вижу свет.
+
+### О Качине...
+
+Качина - особенная ученица. В основном из-за количества занятий, которые она посещала на протяжении многих лет... Столько раз я наблюдала за тем, как она нервно идёт на Стадион, а потом уходит оттуда, разбитая и подавленная. Потом она приходит ко мне, чтобы извиниться за плохое выступление, хотя, честно говоря, мне кажется, что это я подвела её, не выполнив обещаний, которые давала в своей рекламе. В общем, с тех пор я отказалась брать с неё плату и сказала, что она может тренироваться со мной, когда захочет. Я вижу в ней огромный потенциал, но знаю, что у неё есть свои проблемы... Я сделала всё, что могла, как тренер, так что через все остальные испытания, с которыми она столкнётся, ей придётся проходить самостоятельно.
+
+### О Киниче...
+
+Кинич выбирает для меня лучшие фрукты из фруктового сада Варесы, что сэкономило мне много сил. Иметь дело с ним было бы всегда в радость, но этот Ахав, который ходит с ним, невыносим. Ужасный грубиян. Я однажды предложила Киничу отправить Ахава ко мне на тренировки, чтобы научить хорошим манерам. Но он отказался, сказав, что у него свой способ обучения.
+
+### О Варесе: Отношение
+
+Ах, Вареса... Она моя лучшая ученица, моя гордость и радость. Надеюсь, она не произвела на тебя плохого впечатления... О нет, не в этом смысле. Когда дело доходит до боя, уверена, она выкладывается по полной. Я знаю, что в общем у неё всё под контролем. Но она может быть немного... слишком расслабленной, понимаешь? Мне кажется, если я не буду заставлять её концентрироваться, она потеряет всякое чувство времени и будет проводить каждый день так, словно она в отпуске. Выйдет из дома, чтобы выполнить поручение, а потом пойдёт беззаботно, позволяя себе отвлекаться на всякие лакомства по пути... Если это случается время от времени, то хорошо, но нельзя же так себя вести в путешествии, ведь риски высоки! В общем, я уже говорила ей обо всём этом, так что, надеюсь, она поняла. Но... меня беспокоит другое - количество еды, которое ей требуется. Вот скажи мне, разве это практично - отправляться в поход по холмам, неся на спине мешок еды размером с детёныша татанказавра?
+
+### О Варесе: Умеренность
+
+Меня беспокоит, что Вареса не умеет контролировать силу. Её метаболизм всегда работает на пределе, а это означает, что она тратит ужасно много энергии. Возможно, именно поэтому она такая обжора. Надеюсь, она поймёт, что ей нужно следить за этим, и будет распределять силы более рационально. Мне бы хотелось, чтобы она научилась лучше управлять своими энергетическими затратами, чтобы ей не нужно было каждый раз есть как лошадь... Конечно, приятно видеть, как она наслаждается едой, но в то же время я хочу призвать её быть более внимательной к тому, что она запихивает в свой организм. Никогда не стоит объедаться. Нужно обращать внимание на то, что и сколько ты ешь, и особенно ограничивать потребление жиров и сахара. Гораздо лучше взять диету под контроль сейчас, чем потом бороться с последствиями, когда у неё появятся проблемы со здоровьем.
+
+### Узнать больше об Иансан I
+
+Слышал об Академии чемпионов Паломничества? Это тренировочная программа, которую я организовала после череды своих побед на Паломничестве. Многие считали, что я наделена сверхчеловеческой силой: не каждый день увидишь, как невысокая девушка вроде меня обходит всех на Стадионе. Но я хотела показать, что во мне нет ничего сверхъестественного, это лишь результат многих лет последовательной упорной работы. Присоединяйтесь к моей программе тренировок, и вы сами убедитесь. В самом начале было очень странно... Сначала люди жаловались на меня как на мошенницу, несмотря на то, что занятия были бесплатными, потом я последовала совету Мавуики и ввела плату, и внезапно стало очень много желающих заниматься... Странно. / Слышала об Академии чемпионов Паломничества? Это тренировочная программа, которую я организовала после череды своих побед на Паломничестве. Многие считали, что я наделена сверхчеловеческой силой: не каждый день увидишь, как невысокая девушка вроде меня обходит всех на Стадионе. Но я хотела показать, что во мне нет ничего сверхъестественного, это лишь результат многих лет последовательной упорной работы. Присоединяйтесь к моей программе тренировок, и вы сами убедитесь. В самом начале было очень странно... Сначала люди жаловались на меня как на мошенницу, несмотря на то, что занятия были бесплатными, потом я последовала совету Мавуики и ввела плату, и внезапно стало очень много желающих заниматься... Странно.
+
+### Узнать больше об Иансан II
+
+Обычные штанги слишком велики для меня. Они загораживают мне обзор, когда я их поднимаю. Однажды я чуть не травмировала ученика, потому что не заметила его. Поэтому я попросила Шилонен сделать мне особую штангу из специального тяжёлого материала, который занимает гораздо меньше места. Это намного облегчает работу. Единственный минус - внешний вид может быть обманчивым... Люди всегда принимают её за игрушку. Однажды я забыла принести её домой из спортивного клуба, и несколько новых учеников заметили её на земле. Один из них решил поразвлечься, но когда он попытался поднять, то не смог сдвинуть с места, и в итоге потянул мышцы спины. Другие ученики ему не поверили, и через некоторое время остальные тоже потянули мышцы спины... Теперь я всегда ношу свою штангу с собой.
+
+### Узнать больше об Иансан III
+
+Впервые я узнала про науку о питании, когда восстанавливалась после травмы. В те времена люди не очень хорошо представляли себе, что такое хорошая тренировочная диета. Общее мнение сводилось к тому, что нужно «есть больше мяса». И многим членам спортивного клуба это помогало. Они из тех людей, которые могут поглощать целые тарелки жареного мяса за один присест. Но при моих размерах я никогда не смогу впихнуть в себя столько еды, поэтому я искала более эффективный способ питания. Поскольку я на некоторое время застряла дома, пока восстанавливалась, я взяла книги, чтобы изучить различные ингредиенты, и начала экспериментировать на кухне, пытаясь приготовить какие-то блюда, соответствующие моим целям тренировок. После нескольких неудачных попыток я наконец нашла рецепт, который мне подошёл, и он оказался судьбоносным. Он не только ускорил моё восстановление, но и помог побить мой рекорд в жиме лёжа. Я сожалею лишь о том, что хоть я рассказывала о рецепте всем и каждому, он до сих пор относительно неизвестен за пределами спортивного клуба.
+
+### Узнать больше об Иансан IV
+
+После того как я стала главным тренером, я ввела испытание для новичков в клубе - выбрать любое упражнение и посоревноваться со мной. Конечно, это всегда заканчивается одинаково. После того как новичок падает от усталости, я поднимаю его штангу и делаю ещё десять-двадцать подходов. Моя цель - не столько показать им, кто тут главный, сколько дать понять, что тренировки - это не шутка. Многие приходят в клуб, чтобы потешить своё самолюбие и покрасоваться, поэтому моя задача - донести до них, что спорт - это тяжёлый труд, а не веселье и игры.
+
+### Узнать больше об Иансан V
+
+Борьба с татанказаврами - давняя традиция племени, победить считается большой честью. Я решила попробовать, потренировавшись некоторое время, но несколько раз потерпела неудачу, и этот опыт заставил меня усомниться в моём подходе к тренировкам. А спустя некоторое время вождь татанказавров внезапно перевернулся и устроил погром в нашем поселении. В этом хаосе я оказалась между заврианом и маленькой девочкой, которая не успела вовремя убежать. Я должна была спасти её... поэтому я встала на пути у вождя татанказавров. Осознание того, что она находится прямо у меня за спиной и нуждается в моей защите, помогло мне найти в себе силы, о которых я даже не подозревала. Я набросилась и повалила татанказавра на спину. В тот день я снова поверила в свой подход к тренировкам. Я осознала, что благодаря им сила со временем неуклонно растёт, но максимально проявляется в экстремальные моменты по велению сердца.
+
+### Хобби Иансан...
+
+Изучение методов тренировок, проектирование спортивного оборудования, продумывание высокоэнергетического рациона... Одним словом, тренировки.
+
+### Беспокойство Иансан...
+
+Я ненавижу свой маленький рост. Не потому, что мечтаю быть высокой девушкой атлетического телосложения. Быть низкого роста неудобно. Например, когда я обучаю учеников, мне приходится стоять на табурете. Иначе, когда я демонстрирую правильную технику, меня не видят те ученики, которые находятся подальше.
+
+### Любимая еда...
+
+Моя любимая еда... Неважно, нравится мне еда или нет. Для меня важнее, чтобы калории оставались в рамках нормы, а питание было сбалансированным. Вкус имеет второстепенное значение.
+
+### Нелюбимая еда...
+
+Жареная в масле и чрезмерно переработанная пища... Я знаю, это исключает большую часть того, что остальной мир считает вкусным. Я знаю, что всё это вкусно, и я не против, но если посмотреть на содержание калорий и питательных веществ, то такая еда ужасна.
+
+### Подарок I
+
+Отличный выбор. Хорошее количество калорий, сбалансированное питание - именно то, что я ем во время тренировок. На самом деле у меня есть немного улучшенная версия этого рецепта. Дай мне знать, если захочешь попробовать.
+
+### Подарок II
+
+О, спасибо. Это очень популярное блюдо, хотя немного избыточно калорийное, так что я не очень люблю его... Прости, я довольно строго слежу за тем, что ем. Диета - одна из самых важных составляющих любого режима физических тренировок.
+
+### Подарок III
+
+Ох... Стоит держаться подальше от калорийных бомб! Спортсмен ты или нет, но такая еда губительна для здоровья!
+
+### День рождения...
+
+С днём рождения! Не хочешь ли попробовать мой особый диетический торт? В нём нет крема и сахара, поэтому он низкокалорийный, и я добавила в него немного овощей и злаков, чтобы сбалансировать рацион. Большинство праздничных тортов - опасная вещь. Из-за них процент жира в теле увеличивается каждый год вместе с возрастом...
+
+### Чувство возвышения: Начало
+
+Ключом к эффективным физическим тренировкам является продуманная методика, а именно: постепенное развитие и научно обоснованное питание.
+
+### Чувство возвышения: Нарастание
+
+Любой любитель физических тренировок, который слепо верит в одно лишь упорство, в конечном итоге получит травму - я поняла это на собственном опыте. Если заставлять себя брать нагрузку больше, чем можешь вынести, это приведёт к переломанным рукам и неделям восстановления, проведённым в изоляции. Правильное решение - строго придерживаться правильных методов тренировок.
+
+### Чувство возвышения: Кульминация
+
+В молодости я бы ликовала, если б к личному рекорду удалось добавить ещё одно отжимание, но сейчас сильно радуюсь редко. Я поняла, что при регулярных тренировках прогресс неизбежен, независимо от того, замечаю я его или нет.
+
+### Чувство возвышения: Окончание
+
+Может быть, мне суждено было пройти это испытание, чтобы доказать, что я достойна своего древнего имени. Слова, сказанные моими предками, актуальны и по сей день: «Неважно, с какой силой человек рождается, истинная сила приходит в результате упорного труда».
+
+### Элементальный навык I
+
+Словно молния!
+
+### Элементальный навык II
+
+Быстрее, сильнее!
+
+### Элементальный навык III
+
+Контроль дыхания!
+
+### Взрыв стихии I
+
+Двигайся!
+
+### Взрыв стихии II
+
+Отсчёт пошёл!
+
+### Взрыв стихии III
+
+По моей команде!
+
+### Открытие сундука I
+
+Трудолюбие будет вознаграждено.
+
+### Открытие сундука II
+
+Поставлю его на вершине горы, чтобы мотивировать скалолазов.
+
+### Открытие сундука III
+
+Потренируешься в поднятии тяжестей?
+
+### Низкий уровень HP I
+
+Всё хорошо. Стиснем зубы!
+
+### Низкий уровень HP II
+
+На пределе?
+
+### Низкий уровень HP III
+
+Мышцы слишком устали...
+
+### Низкий уровень HP компаньона I
+
+Полегче!
+
+### Низкий уровень HP компаньона II
+
+Не потяни мышцы!
+
+### Без сознания I
+
+Сбегайте за врачом...
+
+### Без сознания II
+
+Перетренировалась...
+
+### Без сознания III
+
+Постельный режим?
+
+### Получен лёгкий удар I
+
+Надо справиться.
+
+### Получен тяжёлый удар I
+
+Вот это уже похоже на настоящий удар...
+
+### Присоединяется к группе I
+
+Разминка завершена!
+
+### Присоединяется к группе II
+
+Нужен тренер?
+
+### Присоединяется к группе III
+
+Приступим к тренировке!
+
+## REPLICAS_EN
+
+### Hello
+
+Hi there, I'm Iansan from the Collective of Plenty, and I'm the most well-known fitness coach in my tribe. You look like you're in pretty good shape... do you work out, too?
+
+### Chat: Lifting
+
+You haven't quite hit your reps for today. Come on, one more set.
+
+### Chat: Diet Planning
+
+I've gone a little over my calorie budget so far... Need to rethink my dinner plans to get back on track.
+
+### Chat: Strength
+
+People seem to think I was born with super strength, but look at me. This tiny frame is what my genetics gave me. All my strength comes from consistent training with good technique. Put in the same work, and you can absolutely get the same results.
+
+### When It Rains
+
+Quick, find some shelter. You don't wanna catch a cold, it just puts unnecessary stress on your system.
+
+### After the Rain
+
+Time to get some sun. Come on!
+
+### When the Sun Is Out
+
+This weather's a good chance to train outdoors.
+
+### When the Wind Is Blowing
+
+Now that I think about it, running against the wind technically counts as resistance training.
+
+### In the Desert
+
+This is not the place for training outdoors...
+
+### Good Morning
+
+Hey, good morning. Becoming an early riser is one of the first things to work on when you're looking to improve your self-discipline. If you can't even get yourself out of bed, there's no chance you'll stick to your other plans either. Anyway, I'm in the mood for a morning run. Want to join me?
+
+### Good Afternoon
+
+Good afternoon. Did you eat a proper lunch? If you ask me, lunch is the most important meal of the day. It's crucial for replenishing your energy, and has a huge impact on your nutritional balance. If you ever need advice on how to eat right, just ask me.
+
+### Good Evening
+
+Good evening. Any interest in exercising after dark? The time right after sunset is perfect for outdoor activity: Since you avoid the worst of the sun, you don't get quite as dehydrated, and it's also a good way to tire yourself out enough for a great night's sleep. Want to give it a try?
+
+### Good Night
+
+You should get yourself to bed. Losing sleep means losing gains, there's no way around it.
+
+### About Iansan: Fitness Coach
+
+Physical fitness has always been a big part of my tribe's culture. Young people even show off their muscles to each other as a friendly gesture. So obviously, if you want to call yourself a fitness coach around here, you've gotta have the goods, or no one will take you seriously. In my case though, I never actually set out to become a fitness coach. For years, I was just minding my own business, following my training plan, and then somewhere along the way people started taking notice. Suddenly, people were watching in amazement while I was working out. Then they started asking me for tips, and it just grew from there.
+
+### About Iansan: Height
+
+Don't take me for a little kid — I'm just short, like all my ancestors before me. I guess it must be genetic... But thankfully, it doesn't affect my strength at all.
+
+### About Us: Travel Experiences
+
+I heard that you've traveled all over the world, and explored domains that few people have ever seen. It sounds amazing... Would you have time to tell me more about some of those experiences? Sometimes, what my students really need is the right inspiration, and I think your tales of braving the unknown and conquering adversity would be perfect for that.
+
+### About Us: Motivating Each Other
+
+As a coach, I'm often expected to give advice to other people, but I actually prefer to work in a team where we all motivate each other. Fitness is a lifelong endeavor, and like with anything, going it alone for too long leads to burnout — even for me. You're my friend, so could I ask you to be my motivation buddy? If there ever comes a day when I give in to the temptation to laze around and eat candy, I'll need someone by my side with the courage to call me out on it.
+
+### About the Vision
+
+When I first received my Vision, I made a detailed plan to test all its abilities. I believe it's important for a Vision-bearer to know the limits of their power, just as a fitness enthusiast should know their physical limits. Otherwise, you leave yourself vulnerable to injury.
+
+### Something to Share: Training Equipment
+
+Designing new fitness equipment is a bit of a hobby of mine. If you ever notice any strange-looking contraptions at the fitness club, there's a good chance it's my handiwork. I'm not trying to be avant-garde or anything — I just think that different things work for different people, so I figured I'd create some alternative options. Not everyone wants to pump iron every day, so this way, even people who get intimidated by traditional weight-lifting gear can still find a way to enjoy their training.
+
+### Something to Share: Physicality
+
+Most people in the Collective of Plenty have huge frames with big, well-developed muscles, making shorties like myself the odd ones out. When I was young, people always saw me as the one who needed protecting, and later on, when I wanted to join the fitness club, the elders tried to stop me. I joined anyway, of course, and even though I managed to injure myself a bunch of times at the beginning... I was determined to stick at it. Maybe it's because I wanted to live up to my Ancient Name, or maybe it's because I just didn't wanna be the object of other people's pity anymore.
+
+### Interesting Things
+
+People in my tribe like to test their strength against the tatankasaurs. In fairness, they're usually pretty docile creatures, and most of the time you can flip them over without making them angry. But it's still a risky business, because a truly enraged tatankasaur will charge with a vengeance, and won't stop until it's completely run out of energy. Just one rampaging tatankasaur is enough to destroy an entire village... So, you really have to know what you're doing with them. I've held classes before just to teach people how to not rile them up.
+
+### About Citlali
+
+I have a lot of respect for Granny Itztli, but... I can't say I agree with her lifestyle choices. I used to think she was a fellow early riser, because I'd always see her up and about on my morning runs — turns out she'd actually stayed up all night and was finally heading home to sleep... And she's been living like that for what, 200 years? How her body hasn't given out on her by now, I'll never know. The shamans in that tribe are just built different, I guess.
+
+### About Mualani
+
+Mualani has always impressed me. She's never taken any formal fitness training, and yet her strength and physique are better than most of the students I've had. She actually did sign up for a class once upon a time, but never ended up coming along. Maybe water sports are just more effective at inducing all-round muscle development? Who knows, but I suspect the key is her frame of mind. As far as I know, she's never gone out and trained with the specific goal of achieving a certain kind of body.
+
+### About Xilonen
+
+Xilonen is the first friend I ever made from the Children of Echoes. I have all sorts of new ideas when I'm designing fitness equipment, and she's one of the few people who can actually bring them to life. And not just that, but the build quality is always exceptional. My only issue is that she always pushes back on my deadlines... but I guess if you want something done well, it takes the time it takes.
+
+### About Mavuika
+
+Because of the childhood I had, I don't like relying on other people or needing their protection. But when Mavuika is around, even I feel comfortable letting her take the lead. To be clear, that's not because she's the leader and I'm intimidated by her. Quite the opposite. It's because I trust her as a close friend. Following her just feels right... almost instinctive, like moving towards the light when you're surrounded by darkness.
+
+### About Kachina
+
+Kachina's a very special student. Mostly because of the sheer number of classes she's attended over the years... So many times, I've watched her nervously walk into the stadium, only to leave later looking crushed and defeated. Then she comes to find me to apologize for her poor performance — although honestly, I feel like I've failed her by not delivering on the promises I make in my advertising. Anyway, since then, I've waived all her fees, and told her she can train with me whenever she wants. I see huge potential in her, but I know she has her own issues... I've done all I can do as a coach, so whatever other challenges she faces, she'll have to conquer them on her own.
+
+### About Kinich
+
+Kinich always does a great job whenever I need someone to hand-pick the best fruit from Varesa's orchard. Working with him would be a joy — if it weren't for that little monster he hangs around with... He says the nastiest things. Someone really needs to teach him some manners. I'd very happily do that myself, of course — I'm sure one of my training programs would whip Ajaw into shape — and in fact I've offered that to Kinich before. But, he turned me down. I guess he has his own way of keeping Ajaw in line.
+
+### About Varesa: Attitude
+
+Ah, Varesa... She's my star student, my pride and joy. I hope she hasn't made a bad impression on you... Oh — no, not like that. When push comes to shove, I'm sure she pulls her weight in battle, and I know she has things under control at the end of the day. It's just, she can be a little... too relaxed, you know? I feel like if I'm not there constantly pushing her to stay focused, she'll lose all sense of time and treat every day like she's on vacation. Leave the house to run an errand, but then saunter along without a care in the world, letting herself get distracted by every morsel of food she passes along the way... Once in a while that's fine, but you can't live like that when you're out adventuring, and the stakes are so high! Anyway, I've told her all this before, so hopefully I've gotten through to her by now. But... the other thing that worries me is the amount of food she needs. I mean, you tell me — is it really practical to go hiking through the hills with a sack of food on your back the size of a baby tatankasaur?
+
+### About Varesa: Moderation
+
+My biggest concern for Varesa right now is that her energy management seems out of control. Her metabolism seems like it's stuck on a high-burn mode, meaning she wastes an awful lot of energy, and I suspect that's the cause of her alarming appetite. I do hope she takes some time to look into what makes her this way. I'd love to see her gain the ability to manage her energy expenditure a little better, so she doesn't need to eat like a horse every single meal... I mean, it's nice to see her thoroughly enjoy her food, but at the same time, I want to urge her to be more mindful of what she's putting in her body. It's never a good idea to just gorge yourself — you have to pay attention to nutrition and quantity, and especially limit your fat and sugar intake. Much better to get her diet under control now than have to deal with the consequences when she develops health issues later in life.
+
+### More About Iansan: I
+
+Have you ever heard of the "Pilgrimage Victors Academy"? It's a training program I set up after my string of victories at the Pilgrimage. A lot of people assumed that I was blessed with superhuman strength — I guess it's not every day you see a short girl like me best everyone else in the stadium. But I wanted to show them that no, there's no mysterious force at work behind my strength, just years of consistent hard work. Join my training program and you'll see for yourself. It was a strange experience at the start, though... First, I had people reporting me as a scammer, despite the fact that the classes were free — then I took Mavuika's advice and introduced a fee, and suddenly the class was oversubscribed... Weird.
+
+### More About Iansan: II
+
+Standard barbells are too large for me. They block my vision when I'm lifting them, and I almost injured a student once because I couldn't see who was around me. So, I got Xilonen to make me a custom barbell from a special material that has a good weight, but takes up far less space. It makes things so much easier. The only downside is that looks can be deceiving... people are always mistaking it for a toy. Once, I forgot to bring it home from the fitness club, and some new students spotted it on the ground. One of them thought he'd have some fun with it, but when he went to pick it up, it wouldn't budge and he ended up pulling a muscle in his back. The other students didn't believe him, and before long the rest of them had pulled muscles in their backs, too... I make sure to carry it with me everywhere now.
+
+### More About Iansan: III
+
+My first foray into the science of nutrition came when I was recovering from an injury. Back then, people didn't have a very sophisticated idea of what a good training diet looks like — the general consensus was just "eat more meat." And for most of the fitness club, that worked well enough. They're the kind of people who can devour entire platters of grilled meat in one sitting. But at my size, I could never fit that much food in me, so I was already on the market for a more efficient way of meeting my nutritional needs. Since I was stuck at home recovering for a while, I borrowed some reading material to research various ingredients and started experimenting in the kitchen, trying to cook some meals to support my training goals. After several failed attempts, I finally found a recipe that worked for me, and it was game-changing. Not only did it speed up my recovery, it also helped me to break my bench press record. My only regret is that, despite sharing it around, it's still relatively unknown outside the fitness club.
+
+### More About Iansan: IV
+
+After I became head coach, I introduced a challenge for newcomers to the club — pick an exercise of your choice, and go head-to-head against me. Of course, it always ends the same way — after the newcomer collapses from exhaustion, I pick up their weights and continue for another ten to twenty sets of quality reps. My goal isn't so much to show them who's boss as to give them a taste of what serious training actually looks like. You get a lot of people joining the club who just want to ego-lift and show off, so it's my job to hammer home to them that fitness is hard work, not fun and games.
+
+### More About Iansan: V
+
+Wrestling tatankasaurs is a longstanding tradition in my tribe, and winning is seen as a great honor. I decided to give it a shot after I'd been training for a while, but failed several times over, and the experience left me doubting my entire approach to training. Then, a short while later, the chief of the tatankasaurs suddenly flipped and went on a rampage through our settlement. Amid the chaos, I found myself standing between the saurian and a little girl who hadn't managed to escape in time. I had to save her... so I confronted the tatankasaur chief head-on. Somehow, knowing that she was right behind me and needed my protection helped me find a strength within me that I never knew existed. I wrestled with all my might, and I threw that tatankasaur onto its back. That was the day I learned to trust in my training approach again. I realized that training does steadily build your strength over time, but to summon your full strength, you have to call on it from somewhere deep in your soul.
+
+### Iansan's Hobbies
+
+Researching training methods, designing training equipment, developing high-nutrition training meals... In a nutshell, training.
+
+### Iansan's Troubles
+
+I hate being short. Not because I dream of being tall and athletic-looking though, it's just inconvenient. Like, whenever I'm teaching a group of students, I have to stand on a stool. Otherwise, when I demonstrate the proper technique, the students at the back won't see.
+
+### Favorite Food
+
+My favorite food is... Hmm, honestly, I don't really have a favorite. I'm more concerned about the calories and the nutritional profile of what I eat. Taste is a secondary concern.
+
+### Least Favorite Food
+
+Deep-fried food and ultra-processed food... I know, that pretty much rules out most of what the rest of the world considers delicious. I know it all tastes good, and I have no problem with that, but if you look at the calorie content and the nutrient density, all that stuff is just awful.
+
+### Receiving a Gift: I
+
+Great choice. Good amount of calories, nutritionally balanced — exactly the kind of thing I eat when I am training. I actually have a slightly improved version of this recipe, though. Let me know if you ever want to try it.
+
+### Receiving a Gift: II
+
+Aw, thanks. This is a very popular dish, although the calories are a little high, so it's not really something I go for... Sorry, I'm pretty strict with what I eat. Diet's one of the most important parts of any fitness regimen.
+
+### Receiving a Gift: III
+
+Oh goodness... Everyone should stay away from calorie bombs like these! Athlete or not, this kind of thing is disastrous for your health!
+
+### Birthday
+
+Happy birthday! Would you like to try my custom-made fitness cake? There's no cream or sugar, so it's low-calorie, and I added in some veggies and grains to balance out the nutritional profile. Most birthday cakes out there are dangerous things to have around. All they do is make sure your body fat percentage goes up every year along with your age...
+
+### Feelings About Ascension: Intro
+
+The key to effective fitness training is sound methodology. Namely, gradual progression and science-backed nutrition.
+
+### Feelings About Ascension: Building Up
+
+Any fitness enthusiast who puts blind faith in perseverance alone will end up getting injured — I learned that the hard way. Pushing yourself to take on more than you can comfortably bear will just lead to two fractured arms and weeks of recovery in isolation. The right outlet for your perseverance is to stick doggedly to the right training methods.
+
+### Feelings About Ascension: Climax
+
+A younger me would get all excited whenever I added another push-up to my personal record, but that rarely happens these days. I've come to realize that as long as I stay consistent with my training, progress is the inevitable outcome whether I see it or not.
+
+### Feelings About Ascension: Conclusion
+
+Maybe this was all a test I had to go through, to prove myself worthy of my ancient name. Either way, those words spoken by my ancestors ring true to this day: "No matter what strength one is born with, true strength must be toiled for."
+
+### Elemental Skill: I
+
+Quick as a flash!
+
+### Elemental Skill: II
+
+Faster, stronger!
+
+### Elemental Skill: III
+
+Controlled breathing!
+
+### Elemental Burst: I
+
+Let's move!
+
+### Elemental Burst: II
+
+Start the clock!
+
+### Elemental Burst: III
+
+On my mark!
+
+### Opening Treasure Chest: I
+
+We deserve a reward for our hard work.
+
+### Opening Treasure Chest: II
+
+I'd have put this on top of a mountain, to motivate the rock climbers.
+
+### Opening Treasure Chest: III
+
+Hey, you wanna try deadlifting that?
+
+### Low HP: I
+
+Push through the pain!
+
+### Low HP: II
+
+Am I at my limit?
+
+### Low HP: III
+
+My muscles are too fatigued...
+
+### Ally at Low HP: I
+
+Take it easy!
+
+### Ally at Low HP: II
+
+Careful, don't injure yourself!
+
+### Fallen: I
+
+Back to the doctor's for me...
+
+### Fallen: II
+
+I overtrained... and underperformed...
+
+### Fallen: III
+
+Think I need a rest day...
+
+### Light Hit Taken: I
+
+C'mon, put your back into it!
+
+### Heavy Hit Taken: I
+
+That's more like it...
+
+### Joining Party: I
+
+I'm all warmed up!
+
+### Joining Party: II
+
+Anyone need a coach?
+
+### Joining Party: III
+
+Let's get started!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+叫我伊安珊就好，我来自沃陆之邦，是那里最有名的健身教练。看你体格还不错，对健身感兴趣吗？
+
+### 闲聊·举铁
+
+今天的指标还不够，再做一组吧。
+
+### 闲聊·饮食规划
+
+考虑到之前摄入的热量…晚餐得重新规划一下。
+
+### 闲聊·力量
+
+总有人认为我是天生神力，其实我从血脉中继承到的只有永远长不高的个子。我所有的力量都是通过合理的健身计划获得的，只要付出相同的努力，你也可以拥有。
+
+### 下雨的时候…
+
+赶紧找个地方躲雨吧，感冒了对身体不好。
+
+### 雨过天晴…
+
+该出来晒晒太阳了，集合！
+
+### 阳光很好…
+
+这种天气很适合拉练。
+
+### 刮大风了…
+
+逆风奔跑，也算是一种负重训练吧。
+
+### 在沙漠的时候…
+
+这里不太适合搞拉练…
+
+### 早上好…
+
+嗨，早上好啊。如果想要锻炼自己的意志，早起是最基础的项目之一。从床上爬起来都做不到的人，肯定也无法将任何计划坚持下去。话说回来，这个时间很适合晨跑，要不要一起？
+
+### 中午好…
+
+中午好啊，有好好吃午餐吧？在我看来，午餐是一日三餐中最重要的一餐，不仅担负着补充能量的重任，还是平衡营养的关键一环。如果不知道该怎么吃，我可以提供一些建议。
+
+### 晚上好…
+
+晚上好，你对夜间运动感不感兴趣？刚入夜的这段时间很适合到户外做一些运动。这个时间没有阳光暴晒，可以减少水分消耗，适当运动后获得的疲惫感还可以增加睡眠质量，要不要试试？
+
+### 晚安…
+
+该休息咯，熬夜可是健身的大忌。
+
+### 关于伊安珊自己·健身教练
+
+健身算是我们沃陆之邦的一项传统，年轻人都喜欢互相秀肌肉以示友好。想要在这样的部族里当健身教练，只有嘴上的功夫可不行，必须有拿得出手的本事。至于我嘛，其实我一开始没有当教练的心思，只是默默执行着自己的健身计划。不知从何时起，旁观的人脸上只剩下目瞪口呆的表情，而向我请教健身技巧的人也越来越多，我就自然而然地成为了教练。
+
+### 关于伊安珊自己·身高
+
+不要把我当小孩子，我只是长不高。我祖先也都这样，这好像是某种遗传…不过不必担心，对肌肉力量没有影响。
+
+### 关于我们·见闻
+
+我听说你周游各国，踏足过很多人迹罕至的秘境，真是了不起。有时间的话，能不能跟我讲讲你的见闻？我偶尔也需要向学员们提供一些精神上的激励，而冒险者战胜困难的故事绝对是上好的素材。
+
+### 关于我们·共勉
+
+作为教练，我经常需要向别人提供指导，但其实我更喜欢能与我共勉的人。健身也是一种修行，如果总是独自坚持，即便是我也不免会身心疲惫。所以，你能作为朋友向我提供鞭策吗？如果哪一天我被懒惰和糖分诱惑了，必须有人敢于点醒我啊。
+
+### 关于「神之眼」…
+
+刚获得神之眼的那段时间，我制作了一份详细的计划表，用来测试这枚神之眼的各项性能。我认为使用神之眼就和健身差不多，自己具体能举多重，能跳多远，都必须详加了解，否则一不小心就会受伤。
+
+### 有什么想要分享·健身器材
+
+我经常会尝试设计一些新式的健身器材。如果你在俱乐部看到了一些奇奇怪怪的东西，八成就是我的作品。倒不是我喜欢标新立异，而是我明白每个人的最佳健身方式各不相同，不是所有人都适合天天举铁。所以我想从器材入手，让那些被普通器材吓退的人也能享受到健身的乐趣。
+
+### 有什么想要分享·体格
+
+沃陆之邦的族民大多体格健硕，我这样的小个子可不常见。小时候，周围的人都默认我是需要被保护的对象。后来我不顾长辈的阻拦加入了健身俱乐部，那段时间没少受伤…一路坚持下来，或许是为了践行我的古名，或许也是因为我不喜欢他人眼中的怜悯。
+
+### 感兴趣的见闻…
+
+沃陆之邦的族民们喜欢和突角龙比力气，别看它们平时看起来温顺，就算被掀翻，好像也不会生气，但其实它们非常危险，一旦被惹怒，就会横冲直撞，在耗尽力气之前不会停下来。仅仅一头发怒的突角龙，就能拆完整座村落…至于如何与突角龙相处才能避免惹怒它们，就是一件很专业的事了，我还专门为此开设过培训课程呢。
+
+### 关于茜特菈莉…
+
+黑曜石奶奶确实是一位了不起的人物，但是…她的生活习惯我实在不敢苟同。我晨跑时偶尔会遇到她，本以为她也有早起的好习惯，后来才知道她是熬了通宵后正要回家睡觉…能这样生活两百多年还没有把身体搞垮，烟谜主的萨满真是一种神秘的存在。
+
+### 关于玛拉妮…
+
+玛拉妮一直是个让我惊叹的人，她的体态和力量比我的绝大多数学员都要好，但她从来没有接受过任何正规的健身训练。之前她报过我的培训班，但最后也没来。或许，是因为水上运动对肌肉的锻炼更全面？不过我能看出来，她从来没有为了保持身材刻意做过什么，难道这样的心态才是关键？
+
+### 关于希诺宁…
+
+希诺宁是我在回声之子第一个认识的朋友。我设计健身器材的时候总有很多新点子，而她是少有的能实现这些点子的工匠之一，且成品的质量绝对有保证。不过，我提出的交付日期总会被她延后，或许这就是「慢工出细活」？
+
+### 关于玛薇卡…
+
+或许是因为小时候的经历，我一贯不喜欢依赖别人，或者成为被保护的对象。但玛薇卡在场的话，即便是我也会安心地站在她的身后。我并非是被她作为领导者的威严所慑服，恰恰相反，我一直把她当作一位贴心朋友。而跟随她的感觉，更像是一种身处黑暗中追随火光的本能。
+
+### 关于卡齐娜…
+
+卡齐娜是一个很特殊的学员，主要就特殊在参加培训的次数最多…我一次次看着她紧张地走进竞技场，再失落地走出来。明明是我没有实现宣传广告上的豪言，她却会主动向我道歉。后来，我免除了她的报名费，并承诺她随时可以找我训练。我能看出她的潜力很不错，问题出在其他方面…作为教练，我把能做的都做了，而她的突破将由她亲自实现。
+
+### 关于基尼奇…
+
+基尼奇会将瓦雷莎果园里的水果精挑细选，替我省了不少精力。不过，他身边那个阿乔总是把每次合作都搅得很不愉快，那张嘴真是缺少严厉的管教。我曾建议基尼奇安排这个阿乔参加我的培训班，本教练肯定能让它学会礼貌。不过基尼奇还是拒绝了，他似乎自有教训阿乔的方法。
+
+### 关于瓦雷莎·态度
+
+我最最特别，也是最让我为之自豪的弟子瓦雷莎，希望她没有给你添麻烦…不，不是指战斗上拖后腿，也不是日常生活中冒冒失失之类的事，而是她的松弛感…如果不是我反复叮嘱，强调她一定要抓紧时间，她每次出门都悠悠哉哉，好像是郊游，走着走着，注意力就被各种食物吸引走了，一次两次没关系，严肃的冒险中总这样可不好，我已经让她自省了！另外，她的食量构成了巨大的负担，毕竟我们不可能背着半只突角龙那么大的…装满食物的背包，去翻山越岭吧？
+
+### 关于瓦雷莎·节制
+
+目前让我烦恼的是，瓦雷莎对力量的控制太过粗放。她的身体似乎长期处于一种高消耗的状态，白白浪费了很多能量，她那惊人的胃口大概就来源于此。我希望她更加了解自己的情况，合理分配力气，这样她也不用总是大吃特吃了…看她吃得满足，我是替她开心，但还是要提醒她注意饮食健康，不能暴饮暴食，不能营养失衡，不能摄入过量的油脂和糖分！要不然，吃出什么病来，麻烦可就大了。
+
+### 想要了解伊安珊·其一
+
+你听说过「归火圣夜巡礼优胜者培训班」吗？是我办的。之前我连续好几次获得优胜者资格，很多人都以为我拥有某种常人无法奢望的神秘力量，毕竟一个小个子打穿竞技场的事可不常见。但我想要告诉他们，我的力量并不神秘，而是规划与坚持的结果。为了证明这一点，我就办了这个培训班。不过让我奇怪的是，这个培训班最初是免费的，但被好多人举报诈骗，后来我听玛薇卡的建议设置了报名费，报名的人反倒络绎不绝…
+
+### 想要了解伊安珊·其二
+
+正常的杠铃对我来说还是太大了，举起来的时候遮挡视线，甚至看不到附近的人，差点伤到一名学员。所以我找希诺宁专门定制了一副杠铃，这副杠铃用的材料十分特殊，分量很足，但个头不大，操练起来很方便。唯一的缺点可能就是迷惑性很大，很容易让别人误以为这是个玩具模型。有次我把它落在俱乐部，被一帮新人看到。一个人想抓起这副杠铃打闹一下，结果一发力，杠铃纹丝不动，他自己倒闪了腰。其他人不信，然后一个个都闪了腰…那之后，我就一直随身携带这副杠铃了。
+
+### 想要了解伊安珊·其三
+
+我是在一次养伤期间接触到营养学的，那时大家对于健身期间该怎么吃都没有明确的概念，只觉得多吃肉就行。俱乐部的其他成员一顿就能吃完半张桌子那么大的烤肉，而我的体型可撑不起那么大的胃口，所以就想寻找获取营养更高效的方式。受伤期间无法出门，我就借来介绍食材的织卷，尝试烹饪健身餐。失败了很多次之后，真让我找到了一种合适的配方。借助这种健身餐，我不但很快痊愈，还突破了上次的卧推记录。唯一遗憾的是，虽然我把配方分享了出去，但在健身俱乐部之外的推广情况一直不太好。
+
+### 想要了解伊安珊·其四
+
+我成为总教练之后，加入俱乐部的新人都要先完成一项挑战——任选一个健身项目与我进行比试。当然，绝大部分挑战者筋疲力竭地倒下后，我还能捡起他们丢下的器材再做十几组标准动作。但这样的考验并不全是为了确立教练的威严，也是为了抚平年轻人内心的浮躁。很多新人学习健身的初衷就是为了炫耀，而我必须告诉他们，健身的本质是一种苦修。
+
+### 想要了解伊安珊·其五
+
+沃陆之邦有个习俗，就是找突角龙角力，并将这种比赛的胜利视为荣耀。我健身一段时间后，尝试过几次，但都没有成功，一度以为自己的健身策略是错误的。后来突角龙族群的首领突然失控，闯进部族驻地横冲直撞，为了救下一个来不及逃走的女孩，我正面拦下了它。角力过程中，意识到身后有需要保护的人，我竟然爆发出了之前从未察觉到的力量，成功掀翻了它。从那时起我才明白，我的选择是正确的。健身是一个积蓄力量的过程，但把这份力量完全发挥出来所需要的呐喊声，必须来自心灵深处。
+
+### 伊安珊的爱好…
+
+研究健身方法，设计健身器材，搭配健身餐饮…总的来说，就是健身吧。
+
+### 伊安珊的烦恼…
+
+个子矮是最让我烦心的事，倒不是我对高大健硕的形象有什么追求，主要是不方便。每次给学员们讲解的时候，我都得摆个凳子站上去。不然的话，站在后面的人根本看不到我的演示动作。
+
+### 喜欢的食物…
+
+我最喜欢的食物…没什么喜欢不喜欢的，我更关注热量是否超标，营养是否均衡，口味倒在其次。
+
+### 讨厌的食物…
+
+油炸和过度加工食物…我知道，这世界上可能有一半的「美食」都是这样制作出来的。我并非想指摘它们的口味，只是想强调一下，这类食物的热量控制和营养分配都很糟糕。
+
+### 收到赠礼·其一
+
+很有眼光嘛，我健身的时候就经常吃这种菜肴，热量适中，营养均衡。我还有改良版的配方，如果你感兴趣的话可以来尝尝。
+
+### 收到赠礼·其二
+
+哦，谢啦。这确实是大家都喜欢的口味，不过我就算了，热量有些超标…不好意思，严格执行饮食计划是健身流程中不可或缺的一环。
+
+### 收到赠礼·其三
+
+唔，这种热量炸弹…这已经不是健身不健身的问题了，这是健康不健康的问题！
+
+### 生日…
+
+生日快乐！要不要尝尝我专门订制的健身蛋糕？没有热量超标的奶油和糖霜，还特别加入了用来补充营养的谷物和蔬菜。人们平常吃的蛋糕可是一种非常危险的东西，稍不留意，脂肪就要随着年龄一起增长咯。
+
+### 突破的感受·起
+
+健身最重要的是正确的「方法」，是合理的训练梯度和科学的营养搭配。
+
+### 突破的感受·承
+
+盲信「毅力」的健身者早晚会把自己练到病床上去，就像最初的我那样。事实证明，强行挑战高难项目的结果就是双臂骨折再加上一个月的禁闭修养。「毅力」最合适的用途，就是执行正确的「方法」。
+
+### 突破的感受·转
+
+现在的我很少像最初那样因为多做一个俯卧撑就欢欣雀跃了，因为我明白，只要坚持下去，变强就是一件理所当然的事。
+
+### 突破的感受·合
+
+或许这一切就是继承古名所必须经历的试炼，而我也早已领悟到了祖先想传达给我的话：「力量无须与生俱来，力量无法不劳而获。」
+
+### 元素战技·其一
+
+风驰电掣！
+
+### 元素战技·其二
+
+更快，更强！
+
+### 元素战技·其三
+
+调整呼吸！
+
+### 元素爆发·其一
+
+动起来！
+
+### 元素爆发·其二
+
+计时开始！
+
+### 元素爆发·其三
+
+听我的口号！
+
+### 打开宝箱·其一
+
+天道酬勤。
+
+### 打开宝箱·其二
+
+我会把这东西摆到山尖上，这样攀岩的时候更有目标感。
+
+### 打开宝箱·其三
+
+要不整箱扛走？
+
+### 生命值低·其一
+
+还行，再咬咬牙！
+
+### 生命值低·其二
+
+快到极限了吗？
+
+### 生命值低·其三
+
+得留意下肌肉的承受能力了…
+
+### 同伴生命值低·其一
+
+悠着点！
+
+### 同伴生命值低·其二
+
+小心肌肉拉伤！
+
+### 倒下·其一
+
+又得去找医生了…
+
+### 倒下·其二
+
+这下练出事了…
+
+### 倒下·其三
+
+这次要在床上躺多久？
+
+### 普通受击·其一
+
+凑活。
+
+### 重受击·其一
+
+这还像回事…
+
+### 加入队伍·其一
+
+热身完毕！
+
+### 加入队伍·其二
+
+有谁需要指导？
+
+### 加入队伍·其三
+
+开练！

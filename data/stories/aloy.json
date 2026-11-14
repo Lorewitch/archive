@@ -118,5 +118,806 @@
       }
     }
   ],
-  "part_count": 6
+  "part_count": 6,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я Элой. Хотя я ещё не очень хорошо знаю этот мир, мой лук и стрелы всегда к твоим услугам. Если твоему отряду нужна помощь, я сделаю всё возможное.",
+        "en": "Aloy here. I don't know this world, but my arrows are sharp and my bow's ready. If your party needs help, I'll do what I can.",
+        "zh": "我是埃洛伊，虽然对这个世界还不太了解，但我的弓和箭随时为你所用。如果你的队伍需要我，我会倾力相助。"
+      },
+      "source_id": 62001
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: В путь",
+        "en": "Chat: Moving Out",
+        "zh": "闲聊·动身"
+      },
+      "text": {
+        "ru": "Не стойте без дела, пора в путь.",
+        "en": "Come on. Enough standing around, let's keep moving.",
+        "zh": "别闲站着了，该动身了。"
+      },
+      "source_id": 62002
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Помощь",
+        "en": "Chat: Help",
+        "zh": "闲聊·帮助"
+      },
+      "text": {
+        "ru": "Сейчас нельзя останавливаться. Людям нужна наша помощь.",
+        "en": "Let's get going. There are people who need our help.",
+        "zh": "现在不该停留，还有人需要我们帮助。"
+      },
+      "source_id": 62003
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Дождь смывает грязь.",
+        "en": "Rain. One way to wash off the grime.",
+        "zh": "雨，可以洗净脏污。"
+      },
+      "source_id": 62004
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Дождь прекратился, пора обсохнуть.",
+        "en": "Sky's running out of rain for now. Time to dry off.",
+        "zh": "雨停了，该把自己晾一晾了。"
+      },
+      "source_id": 62005
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Когда идёт снег, весь мир будто успокаивается.",
+        "en": "The world always seems quieter when it snows.",
+        "zh": "下雪时，似乎整个世界都静下来了。"
+      },
+      "source_id": 62006
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Ветер снова подул, так приятно дышать.",
+        "en": "Wind's kicking up again. Feels good to breathe it in.",
+        "zh": "又起风了，在风中呼吸的感觉真不错。"
+      },
+      "source_id": 62007
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Ветер усилился и больно бьёт по лицу.",
+        "en": "Wind is really whipping now. My face feels raw.",
+        "zh": "风烈起来了，刮得脸上生疼。"
+      },
+      "source_id": 62008
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Мир снова полон энергии, и я тоже.",
+        "en": "Morning. World's starting to stir again. Me too, I guess.",
+        "zh": "早上好。世界又充满了活力，我也一样。"
+      },
+      "source_id": 62009
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Прошло полдня, а у нас ещё много дел.",
+        "en": "Day's half over, but we still have a lot to do.",
+        "zh": "日已过半，我们还有不少事要忙。"
+      },
+      "source_id": 62010
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Солнце зашло, вот-вот появятся звёзды.",
+        "en": "Sunset. We'll be under the stars soon.",
+        "zh": "太阳落山了，再过不久星星就要出来了。"
+      },
+      "source_id": 62011
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Добрый вечер. Пришло время отдохнуть, если только ты не хочешь продолжить наше путешествие под светом звёзд.",
+        "en": "Night's here. Time to rest, unless we're going on by starlight.",
+        "zh": "晚上好。该休息了，除非你想借着星光继续行动。"
+      },
+      "source_id": 62012
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Об Элой...",
+        "en": "About Aloy",
+        "zh": "关于埃洛伊自己…"
+      },
+      "text": {
+        "ru": "С самого рождения ко мне относились как к изгою, у меня было очень тяжёлое детство. Здесь, хоть я и чужестранка, все относятся ко мне намного добрее, чем члены моего племени. Чувствую себя... хорошо.",
+        "en": "I grew up an outcast, and it wasn't much fun. Even though I'm a stranger here, people are friendlier than the tribe that was supposed to raise me. It's... nice.",
+        "zh": "我从小就是个流放者，那段日子很不好过。但在这里，即便是对待我这样的外人，大家也比我所降生的那个部落友好的多。感觉…很好。"
+      },
+      "source_id": 62013
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Действия",
+        "en": "About Us: Action",
+        "zh": "关于我们·行动"
+      },
+      "text": {
+        "ru": "Все мои действия направлены на спасение жизни, а не на смерть. Вот почему я сражаюсь бок о бок с тобой.",
+        "en": "Everything I do is in the service of life, not death. That's why I'm here with you.",
+        "zh": "我的一切行动都是为了拯救生命，而非带来死亡。这就是我与你并肩战斗的原因。"
+      },
+      "source_id": 62014
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Клятва",
+        "en": "About Us: Oath",
+        "zh": "关于我们·誓约"
+      },
+      "text": {
+        "ru": "Обещание, каким бы оно ни было, слишком сильно подчинено условностям. Но если ты хочешь, чтобы я поклялась, то я сделаю это.",
+        "en": "An oath seems like a formality. But if you want mine, you've got it.",
+        "zh": "立誓什么的，有点太循规蹈矩了。不过如果你想要我的誓约，那我的誓言与你同在。"
+      },
+      "source_id": 62015
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Вперёд",
+        "en": "About Us: Moving Forward",
+        "zh": "关于我们·前进"
+      },
+      "text": {
+        "ru": "Я всегда буду идти с тобой вперёд, до конца. Я не буду колебаться ни секунды и не подведу тебя.",
+        "en": "I'll do whatever it takes to finish this with you. I won't hesitate. I won't falter.",
+        "zh": "我会尽全力与你一起前进，直到终点。我不会踌躇，也不会辜负。"
+      },
+      "source_id": 62016
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Если я должна чем-то поделиться, пусть это будут мой лук и стрелы. Я использую их только для того, чтобы служить другим.",
+        "en": "If I have to share something, it'll be my bow... in the service of people who need the help.",
+        "zh": "如果说有什么可以分享的话，那一定是我的弓与箭，我只为扶助他人而使用。"
+      },
+      "source_id": 62017
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Прошлое этого мира, как и моё, также полно загадок. Если будет достаточно времени, я раскрою все его тайны.",
+        "en": "This land has a past full of secrets, just like my world. I'll uncover all of it, if I have enough time.",
+        "zh": "和我那边的世界一样，这片天地的过去也充满了秘密。如果能有足够的时间，我一定要把一切秘密都揭开。"
+      },
+      "source_id": 62018
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Узнать больше об Элой I",
+        "en": "More About Aloy: I",
+        "zh": "想要了解埃洛伊·其一"
+      },
+      "text": {
+        "ru": "Я не умею говорить о себе, главное - помнить о миссии.",
+        "en": "I'm not much for talking about myself. The mission is what's important.",
+        "zh": "我不太擅长谈论自己的事情，眼下的任务才是重点。"
+      },
+      "source_id": 62019
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Узнать больше об Элой II",
+        "en": "More About Aloy: II",
+        "zh": "想要了解埃洛伊·其二"
+      },
+      "text": {
+        "ru": "У меня нет родителей, меня вырастил человек по имени Раст. Он немного строгий, но у него большое сердце, а ещё он очень щедрый. Он научил меня многому... Я скучаю по нему.",
+        "en": "I never had parents. But a man named Rost raised me. He was stern, but kind and generous. And he trained me well. I miss him.",
+        "zh": "我没有父母，是一个叫罗斯特的男人抚养我长大的。他有点严厉，不过心肠很好，也很大方。他教了我很多东西，嗯…我很想他。"
+      },
+      "source_id": 62020
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Узнать больше об Элой III",
+        "en": "More About Aloy: III",
+        "zh": "想要了解埃洛伊·其三"
+      },
+      "text": {
+        "ru": "Я потратила много времени, пытаясь найти свою биологическую мать, но мне это не удалось. Вместо этого я нашла несколько сообщений, оставленных моей... матерью-клоном. Слушая её слова, я чувствовала, что она очень хорошо меня знает и с энтузиазмом поддерживает.",
+        "en": "I spent my whole life looking for my mother and never found her, not really. But I found ancient messages from the woman I was... cloned from. It felt like she knew me. And how to inspire me.",
+        "zh": "以前，我花了很多时间在寻找我的生母，却没能找到「她」。取而代之的是，我找到了一些远古的留言，是我的…「克隆母体」留下的。听着那些留言，我觉得她似乎很了解我，也很会鼓励我。"
+      },
+      "source_id": 62021
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Узнать больше об Элой IV",
+        "en": "More About Aloy: IV",
+        "zh": "想要了解埃洛伊·其四"
+      },
+      "text": {
+        "ru": "В детстве у меня не было друзей. Хотя позже на своем пути я встретила нескольких людей, но, когда я покидала тот мир, я не могла сказать, что мы были достаточно близки, чтобы узнать друг друга. Поэтому я очень рада, что провела с тобой так много времени, и что мы подружились.",
+        "en": "When I grew up, I didn't have any friends. Later in my travels, I made some. But I left that world before we could grow close. That's why I'm glad to have spent time with you.",
+        "zh": "在成长的过程中，我没有什么朋友。虽然后来在旅途中认识了一些人，但当我离开那个世界时，我和他们的关系还称不上熟络。所以，能和你一同度过这么多时间，成为朋友，我真的很开心。"
+      },
+      "source_id": 62022
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "Узнать больше об Элой V",
+        "en": "More About Aloy: V",
+        "zh": "想要了解埃洛伊·其五"
+      },
+      "text": {
+        "ru": "Мне нелегко доверять другим, но я могу гарантировать, что я надёжный человек. Ты - мой верный спутник. Странно, что я могу считать кого-то таким.",
+        "en": "Trust doesn't come easy for me, but I know I can trust you. You're a true friend, and I don't say that often.",
+        "zh": "我不会轻易信任他人，但我确定你是可以信任的。你是我真正的伙伴，我可不经常这样评价别人。"
+      },
+      "source_id": 62023
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "Хобби Элой...",
+        "en": "Aloy's Hobbies",
+        "zh": "埃洛伊的爱好…"
+      },
+      "text": {
+        "ru": "Не сказала бы, что у меня есть хобби, если только не считать чтение о вещах из прошлого. Стало быть, моё хобби... история?",
+        "en": "Not sure if I have a hobby, unless you count reading things from the past. So, history... I guess?",
+        "zh": "我不太清楚自己有什么爱好，「阅读古物」算一个吧。嗯，那就…历史？"
+      },
+      "source_id": 62024
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Беспокойство Элой...",
+        "en": "Aloy's Troubles",
+        "zh": "埃洛伊的烦恼…"
+      },
+      "text": {
+        "ru": "В дополнение к моему миру у меня теперь есть ещё один мир, который нужно спасти. Времени всегда не хватает.",
+        "en": "One world needed saving. Now another. There's never time to rest.",
+        "zh": "除了我自己的世界，现在又多了一个世界需要拯救。唔…时间总是不够用。"
+      },
+      "source_id": 62025
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я не привередлива в еде. Если я проголодаюсь в дороге, то могу съесть что угодно.",
+        "en": "I'm not picky. Anything's better than traveling on an empty stomach.",
+        "zh": "我不挑食。只要不饿着肚子旅行，吃什么都行。"
+      },
+      "source_id": 62026
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Однажды я ела тушёное мясо Озерам. Оно было настолько жёстким, что могло бы сойти за подошву сапога.",
+        "en": "Had an Oseram stew once that was so thick you could pave a road with it. Ugh.",
+        "zh": "我吃过一次「奥斯拉姆炖肉」，稠得都能当沥青铺路了，呕。"
+      },
+      "source_id": 62027
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Я никогда не придавала большого значения своему дню рождения. В мире, в котором я родилась, все поклоняются своим матерям, никто не празднует свой собственный день рождения. Но это не имеет значения. С днём рождения!",
+        "en": "Never put much stock in birthdays. Where I come from, it's a time to celebrate your mother, not yourself. Even so, I wish you a, uh... happy day.",
+        "zh": "我从来不怎么在意生日。在我出生的世界，大家都会纪念母亲，没人庆祝自己的生日。不过先不管那些。嗯…祝你生日快乐。"
+      },
+      "source_id": 62028
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Отлично, мы делаем успехи. Но нельзя на этом останавливаться.",
+        "en": "All right. Feels like we're making progress, but we can't stop now.",
+        "zh": "很好，咱们进展不错。但可不能止步于此。"
+      },
+      "source_id": 62029
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Расти, становиться сильнее... Это хорошо.",
+        "en": "Getting better. Getting stronger. Always a good thing.",
+        "zh": "有所成长，变得更强了，是件好事。"
+      },
+      "source_id": 62030
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Независимо от того, насколько ты опытен в охоте, ты всегда можешь стать лучше. Не останавливайся в своём развитии, потому что ты доволен собой. Никогда не прекращай учиться. / Независимо от того, насколько ты опытна в охоте, ты всегда можешь стать лучше. Не останавливайся в своём развитии, потому что ты довольна собой. Никогда не прекращай учиться.",
+        "en": "No matter how good a hunter you are, you can always get better. Never rest. Never stop learning.",
+        "zh": "无论现在是多精湛的猎手，总还能更进一步。不要因为自满而止步，不要停止学习。"
+      },
+      "source_id": 62031
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Когда мы только стали попутчиками, ты был для меня чужаком из мира, который я совсем не знала. Однако мы столько всего пережили вместе. Я могу обещать тебе, что ты всегда можешь рассчитывать на меня. / Когда мы только стали попутчиками, ты была для меня чужаком из мира, который я совсем не знала. Однако мы столько всего пережили вместе. Я могу обещать тебе, что ты всегда можешь рассчитывать на меня.",
+        "en": "When we started out, you were just another stranger in a world I didn't understand. But after everything we've been through, I can say this for certain: My bow is yours, now and always.",
+        "zh": "我们刚开始搭伴旅行时，对我而言，你还只是一个陌生人，来自我所不熟悉的世界。但既然如今我们已经一同经历了这么多，我可以向你保证：我的弓永远与你同在。"
+      },
+      "source_id": 62032
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Эта штука взрывается.",
+        "en": "This'll pack a punch!",
+        "zh": "这玩意是会炸的。"
+      },
+      "source_id": 62033
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Игрушка для охоты.",
+        "en": "Got something for you!",
+        "zh": "猎手的小玩具。"
+      },
+      "source_id": 62034
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Вы видели?",
+        "en": "Ever seen one of these?",
+        "zh": "见过这个吗？"
+      },
+      "source_id": 62035
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Путы!",
+        "en": "You're stuck now!",
+        "zh": "禁锢！"
+      },
+      "source_id": 62036
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Новый трюк.",
+        "en": "This is a new one.",
+        "zh": "一点新技巧。"
+      },
+      "source_id": 62037
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Это мои охотничьи угодья!",
+        "en": "The hunt is on!",
+        "zh": "这里是我的猎场！"
+      },
+      "source_id": 62038
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Запуск планера I",
+        "en": "Deploying Wind Glider: I",
+        "zh": "打开风之翼·其一"
+      },
+      "text": {
+        "ru": "Эта штука работает довольно хорошо.",
+        "en": "Ha! This thing is fun!",
+        "zh": "这玩意用着还不错。"
+      },
+      "source_id": 62039
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Кажется, это может пригодиться.",
+        "en": "These things look like they could come in handy.",
+        "zh": "嗯…算是些有用的东西。"
+      },
+      "source_id": 62040
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Что-то съедобное... Это пригодится.",
+        "en": "Let's see, that looks edible... and this looks useful.",
+        "zh": "这些能吃…这些能用…"
+      },
+      "source_id": 62041
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Кто же оставил эти вещи здесь?",
+        "en": "Who put all these things here?",
+        "zh": "这些，到底是谁留在这的呢…"
+      },
+      "source_id": 62042
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Коварная добыча...",
+        "en": "This one's a fighter...",
+        "zh": "棘手的猎物…"
+      },
+      "source_id": 62043
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Где же слабое место...",
+        "en": "Come on, gotta find that weak spot...",
+        "zh": "弱点在哪…"
+      },
+      "source_id": 62044
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Стоило только отвлечься...",
+        "en": "I'm out of my depth...",
+        "zh": "大意了…"
+      },
+      "source_id": 62045
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Осторожно!",
+        "en": "Watch out!",
+        "zh": "当心！"
+      },
+      "source_id": 62046
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Не будьте беспечны!",
+        "en": "Don't get reckless!",
+        "zh": "别太冒进！"
+      },
+      "source_id": 62047
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Что же пошло не так?..",
+        "en": "I failed...",
+        "zh": "哪里…出了错…"
+      },
+      "source_id": 62048
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Прости...",
+        "en": "I'm down... I'm sorry...",
+        "zh": "抱歉…"
+      },
+      "source_id": 62049
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Не могу подняться... Всё кончено...",
+        "en": "Can't get up... It's over...",
+        "zh": "失败的狩猎…"
+      },
+      "source_id": 62050
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Ох!",
+        "en": "Ugh!",
+        "zh": "唔…"
+      },
+      "source_id": 62051
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Получен лёгкий удар II",
+        "en": "Light Hit Taken: II",
+        "zh": "普通受击·其二"
+      },
+      "text": {
+        "ru": "Ничего страшного...",
+        "en": "I got this.",
+        "zh": "小问题…"
+      },
+      "source_id": 62052
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ой!",
+        "en": "Argh!",
+        "zh": "呃！"
+      },
+      "source_id": 62053
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "А это нелегко...",
+        "en": "Should've known this wouldn't be easy...",
+        "zh": "有点麻烦…"
+      },
+      "source_id": 62054
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Куда на этот раз?",
+        "en": "Where to this time?",
+        "zh": "这次要去哪转转？"
+      },
+      "source_id": 62055
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Элой готова к охоте.",
+        "en": "I'm Aloy. Ready for the hunt.",
+        "zh": "埃洛伊，加入狩猎。"
+      },
+      "source_id": 62056
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Нужна помощь?",
+        "en": "Need help? I'm here.",
+        "zh": "需要帮手吗？"
+      },
+      "source_id": 62057
+    }
+  ],
+  "replica_count": 57
 }

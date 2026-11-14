@@ -1,0 +1,82 @@
+{
+  "id": "icebound_reflection",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/icebound_reflection.webp",
+  "title": {
+    "ru": "Ледяное отражение",
+    "en": "Icebound Reflection",
+    "zh": "冰结镜映体"
+  },
+  "region": "Снежная",
+  "game_version": "7.2",
+  "tags": [
+    "Ледяное отражение",
+    "Icebound Reflection",
+    "冰结镜映体"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Необычный монстр, родившийся в особом льду и снеге.\nС весьма давних времён некая великая сила, сохранившаяся в Снежной, рождает в метелях подобных существ. Однако по неизвестной причине воля, которая должна пробуждаться по мере их роста, так и не возникает в глубине ледяного тела. Возможно, это оттого, что воля, подарившая им жизнь, умерла слишком давно.",
+    "en": "A strange monster born from a peculiar kind of ice and snow.\nSince ages long past, some remnant of a great power lingering in Snezhnaya has caused creatures such as this to grow amid the wind and snow. Yet for reasons unknown, the will that should have arisen alongside the growth of its body has never stirred from the depths of its frozen form. Perhaps the will that once allowed its life to come into being has simply been dead for far too long.",
+    "zh": "于特殊的冰雪中生长而出的奇特魔物。\n自相当久远的过去，某种残存于至冬的伟大力量令风雪之中生长出此等魔物，只是不知为何，本应随着身躯成长一同诞生的意志却并未自冰雪的身躯深处浮现。或许是因为令其生命能够诞生的意志已死去太久所致吧。"
+  },
+  "description": {
+    "ru": "Необычный монстр, родившийся в особом льду и снеге.\nС весьма давних времён некая великая сила, сохранившаяся в Снежной, рождает в метелях подобных существ. Однако по неизвестной причине воля, которая должна пробуждаться по мере их роста, так и не возникает в глубине ледяного тела. Возможно, это оттого, что воля, подарившая им жизнь, умерла слишком давно.",
+    "en": "A strange monster born from a peculiar kind of ice and snow.\nSince ages long past, some remnant of a great power lingering in Snezhnaya has caused creatures such as this to grow amid the wind and snow. Yet for reasons unknown, the will that should have arisen alongside the growth of its body has never stirred from the depths of its frozen form. Perhaps the will that once allowed its life to come into being has simply been dead for far too long.",
+    "zh": "于特殊的冰雪中生长而出的奇特魔物。\n自相当久远的过去，某种残存于至冬的伟大力量令风雪之中生长出此等魔物，只是不知为何，本应随着身躯成长一同诞生的意志却并未自冰雪的身躯深处浮现。或许是因为令其生命能够诞生的意志已死去太久所致吧。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112158",
+      "title": {
+        "ru": "Осколок снежного сердца / Снежное зеркальное сердце / Снежное сердце неведения",
+        "en": "Snowborn Heartshard / Snowborn Mirrorheart / Snowborn Heart of Ignorance",
+        "zh": "雪结片心 / 雪结镜心 / 雪结无明心"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112158.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.2",
+      "materials": [
+        {
+          "key": "material_112158",
+          "title": {
+            "ru": "Осколок снежного сердца",
+            "en": "Snowborn Heartshard",
+            "zh": "雪结片心"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112158.webp"
+        },
+        {
+          "key": "material_112159",
+          "title": {
+            "ru": "Снежное зеркальное сердце",
+            "en": "Snowborn Mirrorheart",
+            "zh": "雪结镜心"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112159.webp"
+        },
+        {
+          "key": "material_112160",
+          "title": {
+            "ru": "Снежное сердце неведения",
+            "en": "Snowborn Heart of Ignorance",
+            "zh": "雪结无明心"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112160.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -144,5 +144,946 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Приветствую! Я Далия, дьякон церкви Фавония и проповедник Анемо Архонта Барбатоса. Как ты, наверное, догадался, я схожу с ума от скуки. Итак, как обстоят твои дела? Есть проблемы? Я готов выслушать. И, возможно, немного посмеяться... Но и помочь тоже. / Приветствую! Я Далия, дьякон церкви Фавония и проповедник Анемо Архонта Барбатоса. Как ты, наверное, догадалась, я схожу с ума от скуки. Итак, как обстоят твои дела? Есть проблемы? Я готов выслушать. И, возможно, немного посмеяться... Но и помочь тоже.",
+        "en": "Greetings, I'm Dahlia, Deacon of the Church of Favonius and Herald of Barbatos. As you can probably tell, I'm going out of my mind with boredom right now. So, what's going on in your life? Any issues you're facing? I'm here to listen. And probably to laugh, a little... But also to help.",
+        "zh": "初次见面，我是塔利雅，西风教会的助祭，风神巴巴托斯的传道者。如你所见，现在正闲得发慌。你最近遇到了什么麻烦事吗？要不要讲给我听听？我大概率会笑，但我更大概率会帮你解决问题哦。"
+      },
+      "source_id": 115000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Шёпот ветра",
+        "en": "Chat: A Whisper on the Wind",
+        "zh": "闲聊·风的声音"
+      },
+      "text": {
+        "ru": "Слышишь? Голос, шепчущий на ветру, говорит... кому-то только что прилетело камнем по голове.",
+        "en": "Do you hear that? There's a voice whispering on the wind, it says... \"Some guy just took a stone to the head.\"",
+        "zh": "你听到了吗？风中的声音…好像有人被石子敲到了头？"
+      },
+      "source_id": 115001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Скука",
+        "en": "Chat: Bored",
+        "zh": "闲聊·无聊"
+      },
+      "text": {
+        "ru": "О Архонт! Как же мне скучно... Я не ищу неприятностей, но надеюсь, что мы столкнёмся с теми, кто их ищет...",
+        "en": "I'm bored... I'm not looking for trouble, exactly, but I kinda hope we run into someone else who is...",
+        "zh": "好闲，真希望能遇到哪位爱找麻烦的糊涂蛋啊…"
+      },
+      "source_id": 115002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Шум",
+        "en": "Chat: Drama",
+        "zh": "闲聊·热闹"
+      },
+      "text": {
+        "ru": "Идём, посмотрим, что происходит!",
+        "en": "C'mon, let's go find some drama!",
+        "zh": "走，看热闹去！"
+      },
+      "source_id": 115003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Когда дует ветер, вслед за ним приходит дождь. Поверь, я знаю об этом не понаслышке.",
+        "en": "Where the wind blows, the rain soon follows. Believe me, I have it on good authority.",
+        "zh": "风来雨至，这也是神谕的一种。"
+      },
+      "source_id": 115004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Я слышал, что молния - это способ, которым один из Архонтов передаёт свои пророчества... Не хочу показаться предвзятым, но... Барбатос определённо добрее.",
+        "en": "I heard that lightning is how one of the other archons delivers their prophetic words... Not that I'm biased or anything, but... Barbatos definitely has a softer touch.",
+        "zh": "我听说这是某位神明传达神谕的方式…不是我要说自家神明好话…巴巴托斯温柔多了。"
+      },
+      "source_id": 115005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда дует ветер...",
+        "en": "When It's Windy",
+        "zh": "起风的时候…"
+      },
+      "text": {
+        "ru": "Ветер поднимается. Начнём молитву.",
+        "en": "The wind is blowing. Let us pray.",
+        "zh": "起风了，开始祷告吧。"
+      },
+      "source_id": 115006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Я только что вернулся с утренней молитвы и чувствую себя благословлённым - мои вопросы к Барбатосу снова получили ответы. О, и я, конечно же, помолился за тебя.",
+        "en": "Good morning, my friend. I just got back from morning prayers, and I'm feeling very blessed — my questions to Barbatos were answered once again. Oh, and I said a prayer for you too, of course.",
+        "zh": "早上好啊，阁下。晨祷刚刚结束，真幸运，我的提问再次得到了风神的解答呢。当然，我也为你祈福了哦。"
+      },
+      "source_id": 115007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Не хочешь немного посидеть в таверне? Конечно, ни один здравомыслящий человек не станет напиваться в такое время, но именно поэтому сейчас стоит посетить таверну - больше шансов встретить весьма колоритных персонажей.",
+        "en": "Afternoon. You wanna go hang out in the tavern for a bit? No sane person gets drunk at this hour, of course, but that's why it's the best time to go... there's a higher chance of seeing some really colorful characters.",
+        "zh": "午安，要不要去酒馆坐一会儿？正常人肯定不会在这个时间买醉。但正因如此，现在去酒馆的话，更有可能遇到一些有趣的人呢。"
+      },
+      "source_id": 115008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер! Не желаешь посидеть со мной на городской стене и насладиться лёгким ветерком? Почему на стене, спросишь ты? Потому что оттуда открывается потрясающий вид.",
+        "en": "Good evening, care to join me up on the city wall to enjoy the breeze? Huh? Why the wall, you say? Because of the amazing view, of course!",
+        "zh": "晚上好，要不要去城墙上吹吹风？你问为什么是城墙？当然是因为视野好呀！"
+      },
+      "source_id": 115009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Владыка Барбатос общается со мной посредством вечернего ветра... Он шлёт тебе торжественное послание: уже поздно, пора ложиться спать.",
+        "en": "Lord Barbatos is communing with me on the evening wind... He sends you a solemn message: It's getting late, you should hit the hay.",
+        "zh": "晚风带来了神明的劝告——到休息的时间了。"
+      },
+      "source_id": 115010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "О Далии: Обязанности",
+        "en": "About Dahlia: Duties",
+        "zh": "关于塔利雅自己·职责"
+      },
+      "text": {
+        "ru": "Моя главная роль как дьякона в церкви Фавония - проведение богослужений. Кроме того, благодаря своему уникальному дару я являюсь глашатаем воли Барбатоса и передаю его откровения. В этом смысле я как бы представитель Анемо Архонта в церкви. Также не стоит забывать, что я руковожу церковным хором.",
+        "en": "My main role as deacon in the Church of Favonius is to support the prayer ceremonies. But since I have a natural talent for it, I've also wound up being the one responsible for hearing the will of Barbatos and communicating his revelations. In that sense, I'm kind of the Anemo Archon's representative in the church. On top of that, believe it or not, I'm also the cantor in the church choir.",
+        "zh": "助祭的职责主要是辅助西风教会完成祝祷仪式，但由于某些过人的天赋，我还负责聆听神明的旨意，并传达神明的谕示。某种意义上说，我算是风神在教会的代行人。另外你可能想不到，我还是教会合唱团的领唱哦。"
+      },
+      "source_id": 115011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Далии: Благосклонность богов",
+        "en": "About Dahlia: Divine Favor",
+        "zh": "关于塔利雅自己·神的偏爱"
+      },
+      "text": {
+        "ru": "Когда жители Мондштадта сталкиваются с трудностями, они молятся Анемо Архонту о помощи. Затем сестра Виктория приглашает меня возглавить утреннюю молитву в церкви, поскольку я всегда получаю ответы от Барбатоса, когда задаю ему вопрос. Почему я? Ха-ха, кто знает. Может, я один из тех, с кем богам нравится разговаривать.",
+        "en": "Whenever the people of Mondstadt face great hardship, they pray to the Anemo Archon for guidance. Then, Sister Victoria steps in and invites me to lead the church in morning prayers — reason being, I always seem to get answers from Barbatos whenever I ask him a question. Why me? Haha, who knows — maybe I'm just the kind of guy that gods like talking to.",
+        "zh": "每当蒙德人面临重大的难题，就会向风神寻求指示。而这时，维多利亚修女就会邀请我主持晨祷，因为我的提问一定会得到巴巴托斯的回答。哈哈，或许是因为我这个人很讨神明喜欢吧。"
+      },
+      "source_id": 115012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Деяния",
+        "en": "About Us: Great Deeds",
+        "zh": "关于我们·事迹"
+      },
+      "text": {
+        "ru": "Говорят, куда бы ты ни отправился, в итоге оказываешься в эпицентре грандиозных перипетий. А вот я отлично умею создавать их и так же отлично умею их разрешать. Из нас получится отличная команда, как думаешь? / Говорят, куда бы ты ни отправилась, в итоге оказываешься в эпицентре грандиозных перипетий. А вот я отлично умею создавать их и так же отлично умею их разрешать. Из нас получится отличная команда, как думаешь?",
+        "en": "So I hear that wherever you travel to, you end up getting dragged into some huge drama. Then there's me — great at creating drama, but also great at resolving it. That oughtta make us a great pair, don't you think?",
+        "zh": "我听说，你无论到什么地方，都能陷入各种各样的麻烦——你看我，我不光擅长制造麻烦，也擅长解决问题哦？怎么样，我们难道不是天生的好搭子吗？"
+      },
+      "source_id": 115013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Личности",
+        "en": "About Us: Identity",
+        "zh": "关于我们·身份"
+      },
+      "text": {
+        "ru": "В некотором смысле твоя роль почётного рыцаря и моя роль дьякона во многом схожи. Понимаешь, о чём я? На первый взгляд, они кажутся в основном церемониальными - лёгкая работёнка. Но на самом деле мы часто сталкиваемся с самыми тяжёлыми проблемами людей, которые затем развеиваем по ветру по завету Анемо Архонта. Как это благородно! Я поднимаю этот яблочный сидр за нас!",
+        "en": "It occurred to me recently that your role as Honorary Knight of Favonius and mine as deacon in the church are similar in a lot of ways. You know what I mean? Both are mostly ceremonial, both sound like pretty easygoing jobs, yet we both find ourselves dealing with people's most deeply rooted troubles, helping them cast their burdens to the wind with the aid of the Anemo Archon... Ah, what noble people we are! I dedicate this Apple Cider to us!",
+        "zh": "我有想过，骑士团的荣誉骑士和教会的助祭，某种意义上职责相通，不是么？我们的岗位看似轻松闲适，可我们经常接触人们心中最沉重的烦恼，并代表风神吹散它们——啊，多么高尚，这杯苹果酿敬我们自己！"
+      },
+      "source_id": 115014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Я всегда думал, что получу Анемо Глаз Бога, но результат оказался забавным... Похоже, Барбатос не видит во мне заблудшую душу, которой нужно его постоянное внимание.",
+        "en": "I always assumed I'd get an Anemo Vision, so this was a fun surprise... I guess Barbatos doesn't see me as a lost soul who needs his constant attention.",
+        "zh": "我一直以为我会获得风元素的神之眼，但结果就是如此有趣…或许在巴巴托斯眼里，我并不是需要他投下目光的迷途之人？"
+      },
+      "source_id": 115015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Вот что я думаю: сделать из пастора Барбары идола было гениальным маркетинговым ходом. Возможно, она даже не догадывалась об этом, и я сомневаюсь, что это было изначальной целью Алисы, но в результате Мондштадт обожает Барбару, и теперь у всех больше мотивации приходить в церковь.",
+        "en": "Here's a thought: turning Deaconess Barbara into an idol was a genius marketing move for the church. She probably wasn't in on it, and I doubt this was Alice's original goal, but regardless — the result is that Mondstadt loves Barbara and everyone's more motivated to come to church nowadays.",
+        "zh": "你有没有想过，让祈礼牧师芭芭拉担任「偶像」，其实是一种很高明的宣传策略？或许当事人并不知情，这也不是艾莉丝女士的初衷，但它的结果整个蒙德城都喜闻乐见。人们喜欢芭芭拉，天天都有理由走入教堂。"
+      },
+      "source_id": 115016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Говорят, что после смерти сыновья и дочери Анемо Архонта превращаются в одуванчики. Укоренившись в земле, наши неугомонные души жаждут свободы, поэтому мы взмываем в воздух при малейшем дуновении ветерка, надеясь улететь в небо. Те, кто не сумел далеко продвинуться в своём путешествии, мечтают превратиться в самое крепкое вино из одуванчиков, приносящее смелые перемены в скучные жизни благодаря силе опьянения... Возродиться в виде одуванчика! О, Анемо Архонт, молю, позволь мне после смерти стать одуванчиком.",
+        "en": "It is said that after we die, the sons and daughters of the Anemo Archon turn into dandelions. Rooted in the ground, our restless spirits yearn for freedom, and so we leap into the air wherever a breeze blows by, hoping to ride the wind into the sky. For those who don't make it far on their journey, they hope to get turned into the strongest Dandelion Wine, bringing bold change to boring lives through the power of drunkenness... Oh, to be reborn as a Dandelion! By the grace of the Anemo Archon, may that happen to me one day.",
+        "zh": "据说风神的子民死后都会化为蒲公英，它们从不甘心停留在自己扎根的土地，每当风起之时，便纷纷奔向天空。即便不能远行，也要把自己酿成最烈的酒，用醉意给无趣的人带来大胆的改变。啊，愿风神保佑，让我死后化为蒲公英。"
+      },
+      "source_id": 115017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О Венти...",
+        "en": "About Venti",
+        "zh": "关于温迪…"
+      },
+      "text": {
+        "ru": "Венти - мой близкий друг. Когда я жажду узнать волю Анемо Архонта, он всегда рад прояснить для меня ситуацию. А когда ему нужно что-то сделать, но он не может заняться этим лично, я делаю это от его имени. В общем, мы отлично сработались!",
+        "en": "Venti is a dear friend. Whenever I'm seeking to know the will of the Anemo Archon, he's always more than happy to clear things up for me. And when he needs something done but can't attend to it personally, I'll handle it on his behalf. So yeah, overall I'd say we have a very positive working relationship.",
+        "zh": "温迪，我亲爱的朋友。需要请示风神的旨意时，他会主动为我解惑；而一旦遇到他不方便亲自出手的时候，我会出面摆平。嗯…总的来说，我们保持着一种非常良性的合作关系呢。"
+      },
+      "source_id": 115018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Джинн...",
+        "en": "About Jean",
+        "zh": "关于琴…"
+      },
+      "text": {
+        "ru": "В Ордо Фавониус я лучше всех знаю действующего магистра Джинн. Наверное потому, что когда случаются неприятности, она всегда готова навести порядок. Однако у нас совершенно разные подходы к решению проблем. Я не стесняюсь вносить предложения, но она, как правило, придерживается своих собственных взглядов на вещи.",
+        "en": "Master Jean is probably the person I'm most familiar with in the Knights of Favonius. I guess that's because whenever there's trouble, she's always there to clean things up. We have very different approaches to problem-solving though. I never shy away from offering my suggestions, but she tends to stick to her own way of doing things.",
+        "zh": "在西风骑士团，我最熟悉的人或许就是琴团长，大概是因为我和她都经常出现在需要处理麻烦的场合？不过，我们解决问题的思路大不一样，我从不吝于和她分享好点子，而她也一直坚持她的做法。"
+      },
+      "source_id": 115019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Барбаре...",
+        "en": "About Barbara",
+        "zh": "关于芭芭拉…"
+      },
+      "text": {
+        "ru": "Барбара - не только член духовенства, но и друг. Она всегда готова поддержать, когда мне нужна помощь. В свою очередь, я забочусь о том, чтобы она могла мне помочь - стараюсь привлекать её к работе как можно чаще. ...Хм? Странный способ выразить признательность? Не думаю. Барбара больше всего радуется, когда помогает другим. А когда она счастлива, то и нам всем становится радостнее.",
+        "en": "Barbara is a fellow member of the clergy and also a friend. She's always there to support me when I need help. In return, I always make sure to look out for ways she can help me. I try to involve her as often as I can. ...Hmm? Weird way to show appreciation? I don't think so — Barbara's at her happiest when she's helping other people. And if she's happy, shouldn't we be happy for her?",
+        "zh": "芭芭拉是我的同事，也是我的朋友。每当我需要帮助时，她总是愿意施以援手。作为回报，我会尽量找出更多可以让她帮忙的事，然后继续邀请她帮忙。嗯？哪里奇怪？你知道的，芭芭拉总能在帮助别人的过程中收获快乐，她快乐，我们也都为她感到开心呀？"
+      },
+      "source_id": 115020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Розарии...",
+        "en": "About Rosaria",
+        "zh": "关于罗莎莉亚…"
+      },
+      "text": {
+        "ru": "Мы с Розарией близкие друзья, поэтому я привык к её постоянным отлучкам из церкви. Но когда мы только познакомились, она была крайне замкнутой. Она не хотела открывать мне свои секреты, но в конце концов я нашёл способ ловить её с поличным каждый раз, когда она пропадала, и это убедило её заключить со мной соглашение на взаимовыгодных условиях.",
+        "en": "Rosaria and I are very close friends, so I'm used to her habitual absences from church. But she was extremely closed-off back when we first met. Wouldn't open up to me about her secrets. Eventually, though, I found a way to catch her in the act every time she went missing, and that persuaded her to reach a mutually beneficial agreement with me.",
+        "zh": "我和罗莎莉亚算是知根知底的好朋友，也早就习惯了她平时不在教堂。不过刚认识的时候，她非常不愿意与我分享她的秘密。后来我找到了一种总是能抓到她的办法，她才和我进行了互利的交易。"
+      },
+      "source_id": 115021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Кэйе...",
+        "en": "About Kaeya",
+        "zh": "关于凯亚…"
+      },
+      "text": {
+        "ru": "Кэйа - мой закадычный собутыльник. Иногда мне необходимо выбить для Венти месячную скидку на все напитки в таверне, и я не смог бы сделать это без умения Кэйи торговаться. Беда в том, что он это знает и всегда использует, чтобы вытянуть из меня бесплатную выпивку. Но, увы, такова цена, которую приходится платить за то, что я проповедник Барбатоса, тот, кому доверено указывать путь... Выпьем за Анемо Архонта!",
+        "en": "Kaeya is my top drinking buddy. Sometimes, I need to negotiate a one-month all-you-can-drink deal at the tavern for Venti, and I couldn't do it without Kaeya's haggling skills. Trouble is, he knows it, and he's always using it to get free drinks out of me. But alas, that is the price I must pay for being the herald of Barbatos, the one trusted to guide the flock... And on that note — here's to the Anemo Archon. Cheers!",
+        "zh": "凯亚是我最要好的酒友，能偶尔为温迪提供酒馆包月畅饮服务，还要多亏他从中斡旋。不过，他也没少用这个理由鼓励我请客。好吧好吧，谁让我是深受大家信赖的巴巴托斯传道者呢。以风神的名义，让我们干杯吧！"
+      },
+      "source_id": 115022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克…"
+      },
+      "text": {
+        "ru": "Дилюк - очень необычный хозяин таверны: он единственный, на кого не действует красноречие Кэйи. А значит, я никогда не смогу с ним сторговаться о цене. Кроме того, я мало что знаю о бывшем капитане кавалерии Дилюке, кроме того, что хранится в архиве. ...Кстати, ты, наверное, знаешь его гораздо лучше, чем я. Может... пойдём в «Долю ангелов», и ты мне всё расскажешь?",
+        "en": "Diluc is a special breed of tavern owner: He's the only one who can't be won over by Kaeya's smooth-talking. Meaning, I can never haggle the price down with him. Apart from that, I don't know much about former Cavalry Captain Diluc beyond what's in the record room. ...Actually, you probably know him far better than I do, right? Well... How about we head to the Angel's Share and you give me the scoop?",
+        "zh": "迪卢克是一位非常特别的酒馆老板，唯有他能够识破凯亚给我的话术，拒绝我的砍价。除此以外，我对这位前任骑兵队长的了解，也不比档案室记载的多多少呢。这么说来，你对他肯定了解更多吧？怎样，有兴趣去「天使的馈赠」一起聊聊么？"
+      },
+      "source_id": 115023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кли...",
+        "en": "About Klee",
+        "zh": "关于可莉…"
+      },
+      "text": {
+        "ru": "Кли... Однажды она столкнулась со мной, когда я отрабатывал технику «неожиданного крещения» на Гидро слайме. Как же ей это понравилось! Она решила, что это отличный способ бросить Прыг-скок бомбу ещё выше. После этого мы веселились от души несколько дней, наблюдая, как высоко мы можем подбрасывать слаймов и Прыг-скок бомбы... пока не взорвали часть городской стены. Нас заметил стражник Лоуренс и доложил действующему магистру Джинн. И она запретила мне использовать неожиданное крещение на Прыг-скок бомбе. Печально...",
+        "en": "Ah, Klee... She ran into me once when I was in the middle of practicing my \"surprise baptism\" technique on a Hydro Slime. Boy, did she love that! She thought it would be a great way to send Jumpy Dumpty flying even higher. We ended up hanging out for days after that and had loads of fun seeing how high we could bounce slimes and Jumpy Dumpty... until we blew up part of the city wall. We got spotted by the guard, Lawrence, and he reported us to Master Jean. Now she's banned me from using surprise baptism on Jumpy Dumpty. Sad times...",
+        "zh": "可莉呀~有一次被她撞着我用水史莱姆练习水压剑，她可开心了，说又掌握了一种让蹦蹦炸弹蹦得更高的办法。我也可开心了，记得那几天都陪她玩到很晚，试着把史莱姆和蹦蹦们送到更高的地方——直到我们把城门顶上的砖墙炸塌，被守门的劳伦斯老哥告发，从那以后琴团长就严禁我用水压剑配合蹦蹦炸弹了。呜呜。"
+      },
+      "source_id": 115024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Узнать больше о Далии I",
+        "en": "More About Dahlia: I",
+        "zh": "想要了解塔利雅·其一"
+      },
+      "text": {
+        "ru": "Я предпочитаю находиться среди людей, а не сидеть в соборе. Чем больше народу, тем лучше. Конечно, сидеть и слушать, как люди рассказывают о своих проблемах, - это моя обязанность как дьякона, и мне это нравится, но не у всех хватает смелости обнажить душу перед другим человеком. Так что иногда мне приходится начинать первым. О чём целый день вздыхает та девушка на скамейке? И почему тот парень у городской стены постоянно хмурится? Я обращаю внимание на такое. Меня всегда интересовали люди и их взаимоотношения.",
+        "en": "I prefer being out among the people to sitting around in the Cathedral. The bigger the crowd, the better. Of course, sitting and listening to people talk about their problems is my duty as deacon — and I do love it — but not everyone has the courage to bare their soul to another person. So sometimes, I have to strike first. What's that girl on the bench sighing about all day? And why does that guy by the city wall always have a frown on his face? I'm always drawn in by these kinds of things. I wanna know what's going on in people's lives.",
+        "zh": "比起呆在教堂里，我更喜欢去人群聚集的地方，人越多越好。作为教会的助祭，聆听信众的烦恼既是我的职责，也是我的爱好。但是，并非所有人都有向他人倾诉的勇气，所以我必须主动出击。长椅上的那位姑娘为什么要叹气呢？墙边的大叔又为何要眉头紧锁？人与人之间的种种，一直吸引着我啊。"
+      },
+      "source_id": 115025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Узнать больше о Далии II",
+        "en": "More About Dahlia: II",
+        "zh": "想要了解塔利雅·其二"
+      },
+      "text": {
+        "ru": "Мне нравится помогать людям справляться с проблемами, потому что я получаю от этого удовольствие. Большинство людей ненавидят иметь дело с грязной стороной жизни, но это потому, что они не видят в этом ничего интересного. Вот пример: представь, что юноша и девушка влюблены друг в друга, но оба стесняются признаться в своих чувствах, опасаясь, что они не взаимны. Возможно, так продолжается уже долгое время. Немного подготовившись, я могу устроить так, что они случайно сядут рядом друг с другом во время выступления хора. Пытаются украдкой взглянуть друг на друга, их взгляды встречаются, и они вмиг краснеют... Такие моменты - главная причина, по которой я стал дьяконом.",
+        "en": "For the most part, helping people with their issues is something I do because I enjoy it. Most people hate dealing with the messy side of life, but that's because they don't see the fun in it. Here's an example: Imagine two young people have a crush on each other, and both are too shy to tell the other how they feel for fear it's not reciprocal. Maybe it's been that way for a long time. With just a little pre-planning, I can arrange it so that they just so happen to find themselves sitting next to each other during a choir performance. Both try to steal a glance at the other, they lock eyes, and start blushing... Moments like that are a huge part of the reason why I became a deacon.",
+        "zh": "对于我来说，帮别人处理麻烦更多是兴趣使然。很多人讨厌处理麻烦，那是因为他们没有发现其中的乐趣。想象一下，一对年轻人彼此倾慕，却因为不了解对方的想法而羞于表达心意，为此苦恼许久。你稍加安排，于是某次聆听唱诗班表演时，他们意外地发现对方就坐在身边，偷偷看向对方时视线相交，脸上浮起了红晕…欣赏这样有趣的瞬间，就是我担任助祭的动力之一啊。"
+      },
+      "source_id": 115026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Далии III",
+        "en": "More About Dahlia: III",
+        "zh": "想要了解塔利雅·其三"
+      },
+      "text": {
+        "ru": "Хочешь знать, как я завоевал благосклонность Анемо Архонта? Хе-хе, на самом деле это было очень просто. Всё, что нужно сделать, - это знать все таверны Мондштадта, присматривать за одним особенным посетителем и регулярно угощать его выпивкой. Ха-ха-ха, не смотри с таким удивлением. Всё в порядке. Да, я тоже знаю тайну Анемо Архонта, но никому не рассказываю об этом. Владыка Барбатос убедил меня в том, что хранить его тайну гораздо интереснее.",
+        "en": "I bet you're dying to know how I became the Anemo Archon's favorite. Hehehehe, it was actually pretty easy. All you gotta do is know Mondstadt's taverns, look out for a certain special customer, and buy him a drink on the regular. Hahaha, don't look so shocked — it's okay. Yes, I too know the Anemo Archon's secret identity, but I've never told anyone. The great Lord Barbatos successfully convinced me that keeping his secret would be the more fun choice.",
+        "zh": "你是不是很好奇我如何获得风神的偏爱？其实也不难，只要足够了解蒙德城的酒馆，并按时邀请一位特别的客人喝酒就行。哈哈，不要这么惊讶，我确实和你一样知晓风神的秘密，并从未向他人透露过。是伟大的巴巴托斯说服了我，保留秘密才是更有趣的选择。"
+      },
+      "source_id": 115027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Далии IV",
+        "en": "More About Dahlia: IV",
+        "zh": "想要了解塔利雅·其四"
+      },
+      "text": {
+        "ru": "Мне нравится быть дьяконом, но должен признать, как и любая другая работа, временами она бывает мучительной. Самое сложное - понять, как донести до людей волю Архонта. Когда случается бедствие, указания Барбатоса обычно довольно лаконичны и интуитивно понятны, но мне приходится искать способы придать им священный оттенок, чтобы они выглядели более убедительно и побуждали людей к действию. Например: «Воистину, возвращающийся ветер несёт небесную росу. О дети Анемо Архонта, разве семена ваши не посеяны? Так будьте же терпеливы, и из земли, на которой вы трудились, произрастут благословения свыше». На самом деле это означает следующее: «Сажайте, потому что скоро пойдёт дождь». Но очевидно, что первое звучит куда более похоже на послание свыше, верно? Поэтому каждый раз, когда я обращаюсь за советом к Барбатосу, я целую вечность размышляю над тем, как его перефразировать, прежде чем озвучить.",
+        "en": "I love being a deacon, but I will admit that like any job, it can be a pain at times. The hardest part for me is figuring out how to communicate the archon's will. Whenever there's a major crisis, Barbatos's guidance is usually pretty concise and intuitive, but I have to find ways of adding in some sacred-sounding rhetoric so it comes across as more convincing and inspires people to action. Like this: \"Verily, the returning wind shall carry the dew of the heavens. O children of the Anemo Archon, have your seeds not been sown? Then be patient, and from the land where you have toiled shall spring forth blessings from on high.\" All that really means is: \"Get planting, because it's gonna rain soon.\" But obviously, the former sounds much more like the sacred words of an oracle, right? So every time I seek advice from Barbatos, I end up spending ages thinking about how to rephrase it before I can finally announce it.",
+        "zh": "我很喜欢助祭这个身份，但我也必须承认身为助祭还是有烦恼的，那就是如何传达神谕。人们面临重大的问题时，巴巴托斯给出的许多指示其实相当直观、简洁。但是为了让人们心悦诚服，更迅速地采取行动，我必须让这种指示更具有「神圣感」。「归风带来了高天的甘露，风神的子民啊，可曾在土地上播撒辛劳，静候恩泽？」其实就是「抓紧播种，马上下雨」的意思，但是前者明显比后者更像是「神圣的谕示」，不是吗？所以，每次请示之后，我都要花费不少心思才发言呢。"
+      },
+      "source_id": 115028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Далии V",
+        "en": "More About Dahlia: V",
+        "zh": "想要了解塔利雅·其五"
+      },
+      "text": {
+        "ru": "Скажу по секрету, я всегда мечтал покинуть Мондштадт, отправиться туда, где нет ветра, и ввязаться в грандиозную авантюру. Ну, знаешь, как ты. Но когда столько заблудших душ нуждаются в наставлениях Анемо Архонта, я не могу без зазрения совести бросить их на произвол судьбы. Хм... Наверное, мне нужно чаще наслаждаться радостными аспектами жизни здесь. Нотки ветра, пузырьки воздуха в отменных напитках... и все те удивительные истории, которыми ты делишься.",
+        "en": "Don't tell anyone this, but... I've always dreamed of leaving Mondstadt, adventuring somewhere beyond the reaches of the wind, and getting caught up in some huge drama. Y'know, like you do. But then with so many lost souls needing guidance from the Anemo Archon, I can't in good conscience just abandon them, can I? Hmm... I guess I just need to savor the fun aspects of life right here more often. The musical tones of the wind, the air bubbles in fine brews... and all the amazing stories you have to share.",
+        "zh": "偷偷告诉你，我一直想离开蒙德城，前往风也吹不到的地方，再卷进各种各样的麻烦里…就像你那样。可是，只要迷茫的人们还需要寻求风神的指引，我就无法忍心脱身吧？嗯…不如多寻找些生活中的「乐趣」作为装点吧！比如风中的音符，佳酿里的气泡…你身上的新故事。"
+      },
+      "source_id": 115029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Хобби Далии...",
+        "en": "Dahlia's Hobbies",
+        "zh": "塔利雅的爱好…"
+      },
+      "text": {
+        "ru": "Мне нравится, когда по воле Барбатоса я оказываюсь в неожиданных обстоятельствах, встречаю новых людей. И даже если это принесёт мне безумные неприятности, я не против.",
+        "en": "I like getting Barbatos to put me in new and exciting situations where I meet new people. And I don't mind if it's some crazy drama that I end up needing to sort out.",
+        "zh": "请求神明赐予我足够精彩的偶遇，哪怕它本身是麻烦也行。"
+      },
+      "source_id": 115030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Беспокойство Далии...",
+        "en": "Dahlia's Troubles",
+        "zh": "塔利雅的烦恼…"
+      },
+      "text": {
+        "ru": "Печально, но факт: большая часть жизни - это повторение одного и того же обыденного цикла. Хм...",
+        "en": "The sad fact is, the majority of life is just a repeat of the same old daily cycle. Hm...",
+        "zh": "人生中的绝大部分时间，都只能重复波澜不惊的日常，唉…"
+      },
+      "source_id": 115031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Хм... Шкала специй простирается от лёгкой, острой, жгучей... до безумно острой. Вот это, на мой взгляд, вершина вкуса. Его невозможно превзойти.",
+        "en": "Mmm... So the spice scale goes from mild, to hot, to extra hot... but then there's off-the-charts insanely hot. Now that, to me, is the pinnacle of flavor. You just can't beat it.",
+        "zh": "嗯…你听说过变态辣吗？味觉的顶点，不外乎如此吧。"
+      },
+      "source_id": 115032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Хлеб, обычная похлёбка... Безвкусная пища ничем не отличается от коры дерева. По крайней мере, некоторые деревья хотя бы пахнут приятно...",
+        "en": "Bread, plain rice congee... They're just bland stomach-fillers. I say, if you're gonna go that route, why not eat tree bark? At least some trees have a nice scent...",
+        "zh": "面包，白粥…没有味道的果腹之物，跟树皮又有什么区别？树皮还有木香呢…"
+      },
+      "source_id": 115033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Спасибо за подарок! Да хранит тебя Анемо Архонт! К этому блюду лучше всего подойдёт вино из одуванчиков. Я угощаю.",
+        "en": "Thank you for your offering. May Lord Barbatos bless you! A meal like this is best paired with a glass of Dandelion Wine. My treat, you in?",
+        "zh": "感谢你的馈赠，愿风神庇佑你！品味这种料理，最好能配上新酿的蒲公英酒——要不我请客？"
+      },
+      "source_id": 115034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Спасибо за подарок. Я буду молиться за тебя.",
+        "en": "Thank you for your offering. I will remember you in my morning prayers.",
+        "zh": "感谢你的馈赠，我会在晨祷的时候为你祈福。"
+      },
+      "source_id": 115035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Прошу прощения, но давным-давно я принял пророчество от Анемо Архонта. Так вот, как дьякону церкви Фавония, мне запрещено употреблять такую пищу.",
+        "en": "I do apologize, but long ago I received a prophetic word from the Anemo Archon. Long story short, as the Deacon of the Church of Favonius, it's forbidden for me to consume this kind of food.",
+        "zh": "不好意思，很久之前我收到过来自风神的谕示。身为西风教会的助祭，我被禁止食用这种料理。"
+      },
+      "source_id": 115036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Да благословит сия плодородная земля меня щедрым урожаем, дабы приготовить из него прекрасные вина для моего гостя. Да благословит возвратившийся ветер меня цветами, что прольются дождём в честь этого знаменательного события. Да благословит Анемо Архонт день рождения моего друга и да дарует ему защиту и благополучие... Итак, пора задуть свечи! / Да благословит сия плодородная земля меня щедрым урожаем, дабы приготовить из него прекрасные вина для моей гостьи. Да благословит возвратившийся ветер меня цветами, что прольются дождём в честь этого знаменательного события. Да благословит Анемо Архонт день рождения моей подруги и да дарует ей защиту и благополучие... Итак, пора задуть свечи!",
+        "en": "May this fertile land bless me with a bountiful harvest of grains, to brew into fine wine for my guest. May the returning wind bless me with blossoms, to rain down in celebration of this gathering here today. May our god bless this day of my dear friend's birth, and watch over him I pray... 'Kay, you wanna blow the candles out now? / May this fertile land bless me with a bountiful harvest of grains, to brew into fine wine for my guest. May the returning wind bless me with blossoms, to rain down in celebration of this gathering here today. May our god bless this day of my dear friend's birth, and watch over her I pray... 'Kay, you wanna blow the candles out now?",
+        "zh": "愿沃土赐我以丰登的五谷，酿制迎客的美酒。愿归风赐我以初绽的花瓣，装点此刻的相聚。愿我等的神明赐福友人的诞辰，为他降下庇佑…嗯，该吹蜡烛了吧？ / 愿沃土赐我以丰登的五谷，酿制迎客的美酒。愿归风赐我以初绽的花瓣，装点此刻的相聚。愿我等的神明赐福友人的诞辰，为她降下庇佑…嗯，该吹蜡烛了吧？"
+      },
+      "source_id": 115037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Я был вознаграждён за свою верность. Но я буду продолжать молиться, ибо наш Архонт наблюдает за нами.",
+        "en": "I have been rewarded for my faithfulness. But I will continue to pray, because our god is still watching us.",
+        "zh": "我的虔诚得到了回馈，但我仍会继续祷告，因为神明依旧注视着我们。"
+      },
+      "source_id": 115038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Когда свежий ветер проносится сквозь толпу, он несёт с собой впечатления о людях. От яркой невинности детей до печальных вздохов старших поколений - всё это несёт с собой ветер. Чувствуешь ли ты его? Чувствуешь ли ты эти истории?",
+        "en": "When a fresh breeze wafts through a crowd, it carries with it impressions of the people. From the bright-eyed innocence of children to the sad sighs of the middle aged, the wind carries it all. Do you feel it? Can you sense the stories in the wind?",
+        "zh": "纯净的风拂过人群后，就带上了各种各样的气息。小孩子的懵懂，中年人的慨叹，都藏在这风中。你品味到了吗？这风中的气息。"
+      },
+      "source_id": 115039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Сделай шаг вперёд и начни свой путь. Вдали раздаётся колокольный звон. Это послание нашего Архонта, зовущее тебя в путь.",
+        "en": "Now go, and tread the path that is yours to tread. A bell rings out somewhere in the great outdoors. That, too, is a message from our Lord, calling you forth on your journey.",
+        "zh": "迈出脚步，踏上你必行的路吧。门外的铃声便是神明的谕示，正在唤你动身。"
+      },
+      "source_id": 115040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Услышь наши молитвы! Да направит нас ветер!",
+        "en": "Hear our prayers, O Lord. Let the Wind Lead.",
+        "zh": "祷告完毕，听凭风引。"
+      },
+      "source_id": 115041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Будет весело.",
+        "en": "This should be fun.",
+        "zh": "好玩的来了。"
+      },
+      "source_id": 115042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Чуть веселее!",
+        "en": "Let's stir things up!",
+        "zh": "再热闹些！"
+      },
+      "source_id": 115043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Неожиданное крещение!",
+        "en": "Surprise baptism!",
+        "zh": "水~压~剑！"
+      },
+      "source_id": 115044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Да пребудет с тобой Архонт!",
+        "en": "May the Archon protect you!",
+        "zh": "愿神明庇佑你！"
+      },
+      "source_id": 115045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Откровение Анемо Архонта!",
+        "en": "Thus saith the Anemo Archon!",
+        "zh": "风神启示！"
+      },
+      "source_id": 115046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "О, Фавоний, защити меня!",
+        "en": "West Wind, carry me!",
+        "zh": "西风，加护我身！"
+      },
+      "source_id": 115047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Запуск планера I",
+        "en": "Deploying Wind Glider: I",
+        "zh": "打开风之翼·其一"
+      },
+      "text": {
+        "ru": "Хвала Анемо Архонту!",
+        "en": "Thanks, Anemo Archon.",
+        "zh": "感谢风神。"
+      },
+      "source_id": 115048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Запуск планера II",
+        "en": "Deploying Wind Glider: II",
+        "zh": "打开风之翼·其二"
+      },
+      "text": {
+        "ru": "Хорошо, что не упал.",
+        "en": "Sure beats taking the short way down!",
+        "zh": "没掉下去就好。"
+      },
+      "source_id": 115049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "В священном предсказании указано, что тебе суждено забрать это сокровище, дабы избежать будущих конфликтов.",
+        "en": "The oracle has ordained that this treasure should go to you. That way, there's no squabbles.",
+        "zh": "神谕指示你收下这份财物，这是为了防止后来人为此陷入纷争。"
+      },
+      "source_id": 115050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Я только что почувствовал лёгкий ветерок... Хе-хе, это же благословение Барбатоса!",
+        "en": "I felt a gentle breeze just now... Hehehe, yes, this is a gift from Lord Barbatos!",
+        "zh": "刚刚有微风吹过，这是来自巴巴托斯的馈赠啊！"
+      },
+      "source_id": 115051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Может, закроем этот пустой сундук и оставим его здесь?",
+        "en": "Hey, should we close this empty chest and leave it out in the open?",
+        "zh": "要不把空箱子盖好，留在这里？"
+      },
+      "source_id": 115052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "У меня завтра утренняя молитва...",
+        "en": "Wait, I have morning prayers tomorrow...",
+        "zh": "我还得出席明天的晨祷呢…"
+      },
+      "source_id": 115053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Где лекари, когда они так нужны?",
+        "en": "Where are the healers when you need 'em?",
+        "zh": "治疗人员在哪里？"
+      },
+      "source_id": 115054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Эх, не надо было мне ввязываться...",
+        "en": "Agh, I shoulda minded my own business...",
+        "zh": "哎呀，不该卷进来的…"
+      },
+      "source_id": 115055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Пахнет жареным.",
+        "en": "Things are getting heated out there.",
+        "zh": "看来战斗相当激烈啊。"
+      },
+      "source_id": 115056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Позволь поговорить с ними.",
+        "en": "Maybe you should let me talk to them?",
+        "zh": "要不让我跟对面聊一下，先停战？"
+      },
+      "source_id": 115057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Барбатос...",
+        "en": "Barbatos...",
+        "zh": "巴巴托斯…"
+      },
+      "source_id": 115058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Слишком много проблем...",
+        "en": "Shoulda stayed away...",
+        "zh": "闹得…太大了…"
+      },
+      "source_id": 115059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Больше никаких утренних молитв...",
+        "en": "No more morning prayers...",
+        "zh": "晨祷，可以不去了…"
+      },
+      "source_id": 115060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "А вот и новые проблемы!",
+        "en": "Oh, here comes trouble!",
+        "zh": "麻烦来了？"
+      },
+      "source_id": 115061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Минуточку...",
+        "en": "One moment...",
+        "zh": "稍等一下…"
+      },
+      "source_id": 115062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "В предсказании этого не было...",
+        "en": "The oracle didn't mention that...",
+        "zh": "神谕没提到啊…"
+      },
+      "source_id": 115063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Как оживлённо!",
+        "en": "Alright, let's go, go, go!",
+        "zh": "凑个热闹！"
+      },
+      "source_id": 115064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Барбатос прислал меня!",
+        "en": "Barbatos sent me.",
+        "zh": "应神谕而来。"
+      },
+      "source_id": 115065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Начнём молитву!",
+        "en": "Let us pray.",
+        "zh": "开始祷告吧！"
+      },
+      "source_id": 115066
+    }
+  ],
+  "replica_count": 67
 }

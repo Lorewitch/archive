@@ -144,5 +144,1030 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Меня зовут Шэнь Хэ. Я рождена, чтобы нести проклятие бедствий, поэтому я склонна причинять вред окружающим. Дабы держать мою смертоносную природу под контролем, Адепты велели мне связать душу красными шнурами. Если ты не боишься идти рядом со мной... Ха, хорошо. Дай мне руку.",
+        "en": "My name is Shenhe. I was born fated to bear the curse of calamity, so I am prone to bring harm to the people around me. The adepti urged me to bind my soul with red ropes to keep my homicidal nature at bay. If you are able to walk alongside me without fear... Hah, very well. Now, give me your hand.",
+        "zh": "我名申鹤，命格孤煞，易伤身边人，仙人叮嘱要以此红绳锁魂，控制杀心。若你不畏惧与我同行…很好，就请伸出手来吧。"
+      },
+      "source_id": 63000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Дом",
+        "en": "Chat: Home",
+        "zh": "闲聊·归宿"
+      },
+      "text": {
+        "ru": "Смертные наивно полагают, что у каждого обязано быть место, называемое «домом». Я уже давно привыкла жить в горах среди птиц и зверей.",
+        "en": "The assumption that every person has somewhere to call home is naive. I got used to living in the mountains alongside the birds and beasts a long time ago.",
+        "zh": "人间的归宿是一种奢望，我早已习惯跟山川与鸟兽作伴了。"
+      },
+      "source_id": 63001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Девиз",
+        "en": "Chat: Motto",
+        "zh": "闲聊·要诀"
+      },
+      "text": {
+        "ru": "Очистить разум и уберечь жизнь...",
+        "en": "Mind be purged, world be saved.",
+        "zh": "回向正道，保身护命…"
+      },
+      "source_id": 63002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Слепое копьё",
+        "en": "Chat: A Blind Polearm",
+        "zh": "闲聊·刀枪无眼"
+      },
+      "text": {
+        "ru": "Моё копьё не отличит врага от друга, а сила красных шнуров ограничена, поэтому я терпеть не могу людные места.",
+        "en": "My polearm doesn't distinguish friend from foe, and there is clearly a limit to the red ropes' power. That's why I loathe crowded areas.",
+        "zh": "刀枪无眼，红绳的力量也有极限，所以我才不喜欢人多的地方。"
+      },
+      "source_id": 63003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Смертные в таких случаях обычно используют... зонт?",
+        "en": "In the mortal world, at times like these, is it not customary to... use an umbrella?",
+        "zh": "按照凡人的做法，这种时候，是否应该…撑伞？"
+      },
+      "source_id": 63004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "На небе разошлись тучи, как и у меня на душе. Надеюсь, никто не придёт и не станет беспокоить меня. В противном случае я заставлю их исчезнуть.",
+        "en": "The sky is clearing up, and so is my mood. I just hope no one shows up to bother me... If they do, I'll just make them disappear.",
+        "zh": "天气变好，我也很开心。只希望没有人来打扰…如果有，就让他们消失好了。"
+      },
+      "source_id": 63005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "В такую погоду чудовищ я могу просто замораживать, а остальное доделает молния. И одежда не запачкается.",
+        "en": "In this weather, I can freeze monsters in place and simply let the lightning bolts take care of the rest. A good way to not get my clothes dirty.",
+        "zh": "把魔物冻在原地，雷劈下来就能瞬间解决它们，还不会让衣服沾上尘土。"
+      },
+      "source_id": 63006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Хм... Это напомнило мне о наставнице. Она обожает летать на порывистых ветрах пика Цинъюнь.",
+        "en": "Yes... This reminds me of Master. She loves to ride the swift winds of Qingyun Peak.",
+        "zh": "嗯…师父最喜欢庆云顶上的罡风。"
+      },
+      "source_id": 63007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро. Утренняя роса так сладка. Хочешь, поделюсь с тобой?",
+        "en": "Good morning. The dew is very sweet today, would you like some?",
+        "zh": "早安。晨露很甜，要分一点给你吗？"
+      },
+      "source_id": 63008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Если тебя после обеда одолевает усталость, попробуй помедитировать. Действует прекрасно.",
+        "en": "If you feel fatigued after lunch, you should try meditating. It's very effective.",
+        "zh": "若是午后困乏，不妨试试打坐养神，很有效果。"
+      },
+      "source_id": 63009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Тебе нравится искусственный свет фонарей или сияние луны в горах?",
+        "en": "Do you prefer the artificial light of the cities and towns, or the moonlight in the mountains?",
+        "zh": "不知道你是喜欢人间的灯火，还是山林的月光？"
+      },
+      "source_id": 63010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Отдыхай и ни о чём не беспокойся. Я сплю очень чутко. При малейшем шорохе я выясню для тебя, в чём дело.",
+        "en": "Feel free to rest. I'm a light sleeper, if I hear anything in the vicinity, I'll investigate it for you.",
+        "zh": "放心休息吧，我睡眠很浅，有什么动静，我会替你查看的。"
+      },
+      "source_id": 63011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Шэнь Хэ: Инстинкт",
+        "en": "About Shenhe: Instinct",
+        "zh": "关于申鹤自己·本能"
+      },
+      "text": {
+        "ru": "Во всей моей подготовке - совершенствовании тела и разума, изучении искусств Адептов - я всегда руководствовалась инстинктами. Главное - самосохранение. Я никогда не стремилась помогать людям, и если я по пути уничтожила какое-нибудь зло, благодарить меня не стоит.",
+        "en": "For all the training I've had — honing my body and mind, learning the adepti arts — I've mostly been guided by my own instincts. It just comes down to self-preservation. I'm not trying to save the world, so if I wipe out some evil presence and it happens to benefit you, don't thank me. It's just a force of habit.",
+        "zh": "磨砺自身，修炼方术，都是本能使然，想要保全自己而已。我没有兼济苍生的胸怀，惩奸除恶只是顺手，不必感谢我。"
+      },
+      "source_id": 63012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Шэнь Хэ: Иная",
+        "en": "About Shenhe: Different",
+        "zh": "关于申鹤自己·异类"
+      },
+      "text": {
+        "ru": "Когда я проявляю милость, меня величают Адептом, а если кого-то ставлю на место - тут же становлюсь для них ведьмой. Хех... А вот простым человеком меня не считают никогда. В любом случае я всегда буду для них иной.",
+        "en": "If I treat people kindly, they call me an adeptus, and if I put them in their place, they call me a witch. Heh... The one thing you'll never hear them call me is \"human.\" They all seem to agree that I'm fundamentally... different from them.",
+        "zh": "受我恩惠的人叫我仙人，被我惩罚的人喊我魔女，呵…不管是仙是魔，终究都是跟凡人不同的异类罢了…"
+      },
+      "source_id": 63013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Взаимоотношения",
+        "en": "About Us: Manners",
+        "zh": "关于我们·待人接物"
+      },
+      "text": {
+        "ru": "Я почти не покидаю гор, поэтому я мало что знаю про общение с людьми. Когда возникает конфликт, я улаживаю его по-своему. Если тебе что-то покажется неподобающим, пожалуйста, скажи. Даже если я не пойму твоих доводов, то всё равно прислушаюсь к тебе.",
+        "en": "I rarely leave the mountains, so I was never taught proper manners. When a conflict arises, I just take care of it the way that comes naturally to me. But if you don't approve of my methods, please do let me know. Even if I don't fully understand your reasoning, I will always defer to you.",
+        "zh": "我很少下山，不懂得多少待人接物的道理。发生冲突的时候，我一律按自己的方式处理。但，如果你觉得不妥，都请告诉我，即使不理解，我也会听你的。"
+      },
+      "source_id": 63014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Красные шнуры",
+        "en": "About Us: Red Ropes",
+        "zh": "关于我们·红绳"
+      },
+      "text": {
+        "ru": "Наставница дала мне эти красные шнуры, чтобы сдерживать мои порывы. Но во время нашего с тобой путешествия я постигла суть всего этого. Теперь я свободно управляю своей силой и знаю, когда дать ей волю, а когда сдержаться. Меня от самой себя спасают не красные шнуры, а ты. Если ты понимаешь, что это для меня значит, оставайся рядом.",
+        "en": "My master gave me these red ropes in order to restrain my impulses. But during our journey together, I feel I have finally grasped the key to all of this. Somehow, controlling my strength — knowing when to restrain myself, and when to unleash — it comes more naturally to me now. I think that what saves me from myself is not my red ropes... but you. If you understand what that means to me, please stay by my side.",
+        "zh": "师父赐我红绳用以压制心性，但这些日子你我同修，我才真正领悟到要诀，力量收放也更自在…你才是真正能锁住我的红绳。若你懂得这份心情，就请留在我身旁。"
+      },
+      "source_id": 63015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Так этот блестящий камень называется «Глаз Бога»? Хех... Судьба легко отнимает свои подарки. Если однажды моя судьба развеется, погаснет и он.",
+        "en": "So this shiny gemstone is called a \"Vision\"? Heh... the gifts that fate brings, fate can just easily take away. If one day my connection to this Vision comes to an end, that'll be it, and the light inside of it will go out.",
+        "zh": "原来这颗闪耀的石头叫做「神之眼」？呵…有缘既得，无缘便失。日后倘若缘分消散，它也会熄灭吧。"
+      },
+      "source_id": 63016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Злых духов изгонять легко, но вот со внутренними демонами куда сложнее. Если ты сам не сможешь освободиться от них, то никакие искусства Адептов и техники экзорцизма не помогут.",
+        "en": "Driving evil spirits away comes easily to me. Getting rid of my inner demons, however... Unless you can find a way to let go, all the adepti arts and exorcism techniques in the world can't save you.",
+        "zh": "邪祟易驱，心魔难除。若自身无法放下执念，仙法与术式都无从挽回。"
+      },
+      "source_id": 63017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Почему все так радуются какому-то «первому снегу»? Если в горах снег каждый день, то какой из снегопадов считать первым? Ничего не понимаю. Пожалуйста, объясни мне.",
+        "en": "Why do I always hear people say, \"The first snow of the season is a sight for sore eyes\"? We have snow every single day in the mountains. So which instance counts as the \"first snow\"? I don't understand what they mean. Please explain this to me.",
+        "zh": "为什么说「初雪多浪漫」？那处山巅日日下雪，何日才算是初雪？我不理解，请你告诉我。"
+      },
+      "source_id": 63018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Нин Гуан...",
+        "en": "About Ningguang",
+        "zh": "关于凝光…"
+      },
+      "text": {
+        "ru": "Богатства, которых желают люди, мне ни к чему. Но в руках Нин Гуан богатства становятся средством решения проблем, с которыми никакому оружию не справиться. Она понимает неписаные правила общества и ведает, что в сердцах у людей... Наставница говорила, что это не под силу даже Адептам. Я восхищаюсь ею.",
+        "en": "I have no use for the wealth that ordinary people desire. But in the hands of Lady Ningguang, wealth becomes a means of solving complex issues of the kind that no weapons could ever hope to resolve. She understands the unwritten rules of human society, she knows what's in people's hearts... Master once told me that even the adepti aren't able to achieve this. I hold her and her work in high regard.",
+        "zh": "人们所谓的财富，对我而言没什么用。但到了凝光小姐手里，却能解决连刀枪都无法处理的难题。她能掌握人间规则，洞察人心…师父说，这些连仙人都无法做到。我很佩服她。"
+      },
+      "source_id": 63019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Бэй Доу...",
+        "en": "About Beidou",
+        "zh": "关于北斗…"
+      },
+      "text": {
+        "ru": "С ней не приходится церемониться и читать между строк, как с некоторыми, поэтому в её обществе мне куда комфортнее. Вот только... с ней постоянно кто-то есть, а ещё я слышала, что на корабле у неё много моряков... Мне нужно, чтобы ты был рядом. Только так я смогу вытерпеть их всех. / С ней не приходится церемониться и читать между строк, как с некоторыми, поэтому в её обществе мне куда комфортнее. Вот только... с ней постоянно кто-то есть, а ещё я слышала, что на корабле у неё много моряков... Мне нужно, чтобы ты была рядом. Только так я смогу вытерпеть их всех.",
+        "en": "I find I don't need to worry about etiquette with her, and unlike with some people, I don't need to rely on non-verbal cues to discern the true meaning of what she's saying. That makes me a lot more comfortable. The only problem is... Well, there are too many people around her all the time, and I heard there's also many crew members on her ship... I need you to go with me. It's the only way I can cope with so many people.",
+        "zh": "与她相处不用讲究礼节，交谈时也不用揣测深意，让我轻松了不少。只是…她身边总是有人，听说船上还有诸多船员…我需要跟你一起，才能应对人多的场合。"
+      },
+      "source_id": 63020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Юнь Цзинь...",
+        "en": "About Yun Jin",
+        "zh": "关于云堇…"
+      },
+      "text": {
+        "ru": "Юнь Цзинь исполняет... «оперу Ли Юэ», правильно? Подобный вид общения мне нравится. Можно узнать о поступках других людей, не встречаясь с ними лично. Невероятное получится выступление, если однажды она споёт о тебе. Я бы с удовольствием сходила на него.",
+        "en": "Yun Jin performs... It's called \"Liyue opera,\" isn't it? I like this particular type of social interaction. You can get to know about the other person's background without having to actually interact with them one on one. If she ever includes your story in one of her performances, I'm sure the result will end up being quite incredible. I'm looking forward to it.",
+        "zh": "云堇唱的…叫做「璃月戏」吧？我很喜欢这种形式。不必亲见其面，就能了解他人的事迹。如果将来她把你唱进戏里，那一定会是非常精彩的故事，我很期待。"
+      },
+      "source_id": 63021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Гань Юй...",
+        "en": "About Ganyu",
+        "zh": "关于甘雨…"
+      },
+      "text": {
+        "ru": "Наставница много рассказывала о ней... Она оказалась совсем не такой, какой я её себе представляла. Не волнуйся, я об этом ничего не скажу. К слову, в Ли Юэ она так загружена работой... Похоже, за место в мире смертных приходится платить.",
+        "en": "I've heard many stories about her from my master. She's really quite different from how I originally imagined her... But don't worry, I'll be keeping this to myself. Speaking of Ganyu, her work in Liyue Harbor is unbelievably busy... It seems that there is a price to pay for those who want to integrate into the mortal world.",
+        "zh": "我从师父那里听过许多有关她的事…她原先在我心中的形象，和实际差距还是挺大的。放心，我不会说出去。说起来，璃月港的工作竟这般繁忙…看来融入人间，也要付出一些代价。"
+      },
+      "source_id": 63022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Чун Юне...",
+        "en": "About Chongyun",
+        "zh": "关于重云…"
+      },
+      "text": {
+        "ru": "Мне трудно поверить, что в этом мире... у меня ещё остались родственники. Если вдруг у него возникнут трудности в тренировках, я с радостью укажу ему путь. Вот только ему придётся подняться ко мне в горы. Семейство их слишком уж... общительное. Вряд ли я смогу отклонить их приглашения вежливо...",
+        "en": "It's hard for me to believe that... I still have living relatives in this world. If he has any difficulties with his training, I am more than willing to help enlighten him. However, he will need to meet me alone in the mountains. Their family is too... sociable. I wouldn't know how to turn down their invitations without being impolite.",
+        "zh": "真没想到我在这世上…还有「亲缘」。他若是有什么修行上的困惑，我愿帮忙解答。不过，得请他上山来。他们一家太过热情，我不知道该如何回绝才符合礼数…"
+      },
+      "source_id": 63023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Син Цю...",
+        "en": "About Xingqiu",
+        "zh": "关于行秋…"
+      },
+      "text": {
+        "ru": "Я видела, как он наклонился к тебе и о чём-то шептал. Если он посмеет угрожать тебе, я заставлю его... Хм? Просто дружеская шутка? В самом деле?..",
+        "en": "I've seen him lean over to you and whisper things in your ear. If he dares threaten you, I will make sure he... Hmm? You mean it's just an in-joke between friends? Genuinely...?",
+        "zh": "我曾见到他凑在你耳旁不知说些什么。若他敢威胁你，我一定会将他…嗯？只是朋友间的玩闹话？当真如此吗…"
+      },
+      "source_id": 63024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Чжун Ли...",
+        "en": "About Zhongli",
+        "zh": "关于钟离…"
+      },
+      "text": {
+        "ru": "Этот господин называет себя смертным, но он тесно знаком с моей наставницей, а она Адепт. Однажды наставница сказала: «Если увидишь, как он пьёт на каменной лавке перед моей обителью, не беспокой его». Я так и поступила.",
+        "en": "That gentleman claims to be a mortal, yet is very familiar with my master, who is an adeptus. Master once said: \"If you see him drinking on a stone stool in front of my abode, do not disturb him. Let him sit quietly for a while.\" And that's precisely what I did.",
+        "zh": "那位先生自称是凡人，却与身为仙人的师父很熟络。师父曾说，如果碰见他在仙府前的石凳上饮酒，莫要打扰，让他静静独坐一会。我照做了。"
+      },
+      "source_id": 63025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Бай Чжу...",
+        "en": "About Baizhu",
+        "zh": "关于白术…"
+      },
+      "text": {
+        "ru": "Качество его трав превосходное, а ещё он уживчив и внимателен к другим. Но вот у змейки его язык без костей... Не переживай, я ей ничего не сделаю. Не хватало мне ещё со змеёй препираться.",
+        "en": "The quality of his medicinal herbs is as good as it gets, he is also easy-going and considerate of others. By comparison, the little snake on his neck has no filter at all... Haha, don't worry, I didn't lift a finger against it, I won't go as far as getting into a quarrel with a snake.",
+        "zh": "他的药草品质很好，为人也随和周到。相比起来，脖子上的小蛇倒是口无遮拦…放心，我没有动手。我还不至于和一条蛇置气。"
+      },
+      "source_id": 63026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Ху Тао...",
+        "en": "About Hu Tao",
+        "zh": "关于胡桃…"
+      },
+      "text": {
+        "ru": "Часто она бродит по лесам, напевая странные песенки. Думаю, я слышала их уже по нескольку раз. Я привыкла к её пению, но всё равно оно какое-то... странное. Но и против него я ничего не имею.",
+        "en": "I often see her wandering in the woods singing strange songs. Actually, I must have heard all of her songs several times each by now. I'm used to her singing, but I still find it strange. That being said, I don't hate it either.",
+        "zh": "她在附近山林游荡时，经常会唱奇怪的歌。久而久之，我把她的歌断断续续听了个遍。听习惯了也还是觉得奇怪，但，我并不讨厌。"
+      },
+      "source_id": 63027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Сяо...",
+        "en": "About Xiao",
+        "zh": "关于魈…"
+      },
+      "text": {
+        "ru": "Он всегда казался мне угрюмым. Во время нашей недавней встречи он был всё так же молчалив, но... вёл себя уже не так скованно. Может, он повстречал кого-то особенного.",
+        "en": "My first impression of him was that he's not one to smile. After meeting him again more recently, however, he's still as reserved as ever, but... he seems a lot more relaxed now. Maybe he... met someone special.",
+        "zh": "印象中他一直不苟言笑。近来见他，虽说沉默依旧，但…像是比从前轻松了不少。兴许是结识了哪位良人吧。"
+      },
+      "source_id": 63028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Шэнь Хэ I",
+        "en": "More About Shenhe: I",
+        "zh": "想要了解申鹤·其一"
+      },
+      "text": {
+        "ru": "Пожалуйста, не обращай внимания на то, как меня называет большинство людей. Я не Адепт, и никакими божественными способностями не обладаю. Я родилась в клане экзорцистов и росла в горах далеко от гавани Ли Юэ. Я лишь ученица Адепта, не более.",
+        "en": "Please don't pay any heed to the way most people refer to me. I am not an adeptus, and don't possess any divine abilities. I was born in a branch family of a clan of exorcists, and grew up in the mountains far away from Liyue Harbor. I am but an adeptus' disciple, nothing more, nothing less.",
+        "zh": "请不必在意人们对我的称呼，我不是仙人，也没什么神通。生于驱魔世家的旁系，长在远离璃月港的山间，只能算是个仙家弟子，仅此而已。"
+      },
+      "source_id": 63029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Шэнь Хэ II",
+        "en": "More About Shenhe: II",
+        "zh": "想要了解申鹤·其二"
+      },
+      "text": {
+        "ru": "Столкнувшись с нарушителями, которые просто хотят доставить неприятности, все обычно пытаются их урезонить. Мне этого не понять. Если проблему можно пресечь на корню, избавившись от злобных глупцов, зачем выбирать трудный путь?",
+        "en": "When faced with delinquents who are just out to cause trouble, most people will try to reason with them. This course of action perplexes me. Removing the root of the problem and disposing of these ill-intentioned fools seems like the obvious course of action. Why do common folks prefer the labor-intensive route?",
+        "zh": "遇到恶意滋事的人，人们似乎都会选择上前说教，我不太明白。明明可以直接将这些拦路碍事、心存歹念的恶人斩草除根，为什么要这般麻烦？"
+      },
+      "source_id": 63030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Шэнь Хэ III",
+        "en": "More About Shenhe: III",
+        "zh": "想要了解申鹤·其三"
+      },
+      "text": {
+        "ru": "Я была ученицей нескольких Адептов и тренировалась вместе с ними. По достижении определённого уровня вместо новых техник они стали обучать меня, как сдерживать желание убивать. Что ты, не волнуйся... Да, в земле остались воронки, а местами деревья вырвало вместе с корнями. Но всё это произошло в горах, вдали от цивилизации, и невинные не пострадали. К тому же, теперь я держу себя в руках.",
+        "en": "I am the apprentice of multiple adepti and have trained alongside them. After a certain point, however, they stopped teaching me new techniques and started focusing on how to control my intense homicidal urges. Oh, don't be nervous... Yes, craters have been left in the ground, and giant trees have been uprooted. But these things only ever happen in the mountains, far away from civilization, and certainly have never affected innocent lives. Besides, I can control myself now.",
+        "zh": "我师从多位仙家，静心修炼。随着修为提升，他们不再传授我新的术式，而是改教我怎样收敛杀性。别紧张…像平地凿出深坑，树木连根拔起之类的事，只在远离人烟的山林中发生过，从未波及过无辜性命。况且，现在我也已经能控制自我了。"
+      },
+      "source_id": 63031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Шэнь Хэ IV",
+        "en": "More About Shenhe: IV",
+        "zh": "想要了解申鹤·其四"
+      },
+      "text": {
+        "ru": "Отец намеревался обменять мою плоть и кровь на жизнь матери. Когда он оставил меня в той пещере, я всё надеялась, что он вернётся и спасёт меня. Прошёл день, второй, третий... Я сражалась с этим демоном до последнего издыхания, но так и не дождалась. Я до сих пор не знаю... Меня бросили потому, что я проклята, или проклятье наложено на меня из-за такой участи?",
+        "en": "My father's intent was to trade my flesh and blood for my mother's life. After he abandoned me in that cave, I still held out hope that he'd come back to rescue me. One day went by. Then two days, three days... I used every ounce of energy in my body to fight off that monster. But as I collapsed on the ground, I finally realized that the day I was waiting for would never come. To this day, I don't know which one it is... Was I abandoned because I'm cursed, or is it the way I've been treated in life that has cursed me?",
+        "zh": "父亲想用我的血肉换回母亲的生命。自从被他丢在山洞，我一度期盼过他会回来救我。一天、两天、三天…我拼尽全力与魔物厮杀，直到倒下都没能等到他。我不知道，究竟是我命格孤煞才遭人遗弃，还是命途坎坷使得我萌生出这股煞气？"
+      },
+      "source_id": 63032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Шэнь Хэ V",
+        "en": "More About Shenhe: V",
+        "zh": "想要了解申鹤·其五"
+      },
+      "text": {
+        "ru": "Однажды я тайком покинула горы и вернулась в родную деревню, не сказав об этом наставнице. Деревня оказалась заброшенной, а отец давно скончался. Вдруг я поняла, что уз между мной и родными не осталось. А у прошлого, которое меня заботило, нет будущего. С тех пор я отказалась от всего, что было связано с миром смертных... Пока не повстречала тебя.",
+        "en": "Once, I secretly left the mountain and returned to my childhood village without telling my master. But it was deserted, and my father had long since passed away. I suddenly realized that the bond between my relatives and I had been completely severed. And nothing that I'd ever cared about in the past could ever have a future. Ever since then, I have abandoned everything related to the mortal world... That is, until I met you.",
+        "zh": "有一回，我瞒着师父偷偷下山回到村里，却发现原本的村庄荒弃了，父亲早已去世。我突然明白，自己与血亲的缘分彻底断绝了。在乎的往事永无后话。自那日起，我一度舍弃人间种种…直到遇见你。"
+      },
+      "source_id": 63033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Хобби Шэнь Хэ...",
+        "en": "Shenhe's Hobbies",
+        "zh": "申鹤的爱好…"
+      },
+      "text": {
+        "ru": "Главное в медитации - покой. Избавься от мыслей и позволь воздуху наполнить твоё тело. Эта техника позволяет мне быстро сосредоточиться на себе. Наставница говорила, что после достижения определённого уровня принимать позу для медитации больше не нужно. Адепты могут медитировать даже стоя... Мне до этого ещё так далеко.",
+        "en": "The most important aspect of meditation is stillness. Let go of all agitation, and let the air around you flow into your body. This technique allows me to quickly focus in on myself. I heard from my master that after meditating beyond a certain point, there is no need to adopt the meditation posture anymore. Adepti can meditate even when standing up... I still have much more to improve on.",
+        "zh": "打坐的要点在于「静」，需要摒弃杂念，用身体感受周遭气息，它能让我迅速回归自我。听师父说，修为达到足够境界后，打坐的姿势就不用再拘泥，仙人哪怕站立着都能打坐…我还远远不够。"
+      },
+      "source_id": 63034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Беспокойство Шэнь Хэ...",
+        "en": "Shenhe's Troubles",
+        "zh": "申鹤的烦恼…"
+      },
+      "text": {
+        "ru": "Страх потерять близких и желание спасти их... Из-за этих чувств болит сердце. Я никогда не испытывала подобного. Это бремя, но... также это и опора.",
+        "en": "The fear of losing the people most important to me, and the desire to save them... This kind of feeling makes my heart ache, I've never experienced anything like it before. It's a burden, yes, but it's also... something to hold onto.",
+        "zh": "害怕失去重要之人、想要拯救重要之人…这种心情会将整颗心紧紧揪住，以前从未体会过。这是困扰，但…也是寄托。"
+      },
+      "source_id": 63035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "За время, проведённое вдали от гор, я попробовала немало блюд, но вкус их мне не запомнился. Никогда не забыть мне лишь лапшу, которую я давным-давно ела дома... Не нужно об этом вспоминать, не нужно...",
+        "en": "I've sampled numerous dishes during my time away from the mountains, but the truth is that I don't really remember how they taste. The only dish I can never forget the flavor of is that bowl of noodles I ate at home, so long ago... I shouldn't have to remember that. Why do I have to remember that?",
+        "zh": "下山期间尝了不少菜，但都不太记得味道了。唯独从前在家吃的那碗面，永远忘不了…不该记住才对，不该记住才对…"
+      },
+      "source_id": 63036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Если жевать лечебные травы достаточно долго, во вкусе останется лишь терпкая горечь... За годы обучения у Адептов я привыкла к ограничениям и предписаниям. Но сами Адепты... «Мира смертных удовольствия причинить вред Адепту не способны, поэтому мы можем невозбранно наслаждаться любыми из яств», - вот что сказала наставница.",
+        "en": "Chew medicinal herbs for long enough, and you can only taste the bitterness... In all the years I trained under the adepti, I had to abstain from all kinds of things, and to a point, I got used to it. But them... \"The common delights of the mortal realm pose no hindrance to the adepti, thus, we may indulge in all manner of dishes as we please\"... These are the exact words my master said.",
+        "zh": "药草嚼得久了，只剩苦味与涩味…修行多年，我早已习惯这些清规戒律了。仙人们？「仙人不会被人间俗物阻碍修为，所以可以敞开吃各式菜肴。」…这是师父的原话。"
+      },
+      "source_id": 63037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Я слышала, что для людей день рождения - важное событие, а именинников поздравляют и одаривают подарками. Материальные блага мне чужды, но ничего прекраснее звёздной ночи в горах я не видела. Я заморозила озеро и превратила его в зеркало, чтобы облака плыли и звёзды сверкали прямо у тебя перед глазами. Так я праздную твой день рождения... надеюсь, тебе нравится.",
+        "en": "I've been told that birthdays are important occasions for most people. They give presents to celebrate the anniversary of the other person's birth. Material possessions aren't really my thing, but... The view of the starry night sky in the mountains is the most beautiful thing I've ever seen in my life. I've frozen this lake and turned it into a mirror, so you can appreciate the reflection of the fleeting clouds and distant stars right up close. This is my way of celebrating your birthday... Hope you like it.",
+        "zh": "我听说生辰是个值得铭记的日子，人们会向寿星送上礼品以示庆贺。身外之物，我不太了解。银河夜色，是我在山林中见过最美丽的事物。我将湖面冻成明镜，让浮云和星斗映照在眼前，跟你共贺生辰…希望你喜欢。"
+      },
+      "source_id": 63038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Сила, которой я управляю... она растёт.",
+        "en": "The power I harness... It grows stronger.",
+        "zh": "我能操控的力量…愈发强大了。"
+      },
+      "source_id": 63039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Узнай об этом наставница, она бы наверняка добавила ещё красных шнуров...",
+        "en": "If my master were to learn about this, she'd probably have me add some more red ropes...",
+        "zh": "师父若知道了，怕是会让我多系几根红绳吧…"
+      },
+      "source_id": 63040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Последнее время я тренировалась не так упорно, но всё же я будто бы становлюсь сильнее, не прилагая сознательных усилий... Полагаю, что это возможно лишь рядом с тобой.",
+        "en": "I haven't been training as single-mindedly lately, and yet it's as if I'm growing stronger and stronger without making a conscious effort... I'm left to assume the only way for me to achieve this is by your side.",
+        "zh": "这段日子，我闭关修炼的时长有所削减，修为却不知不觉地增进…嗯，也许只有跟你一起才能做到。"
+      },
+      "source_id": 63041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Раньше я думала, что единственный способ возвыситься - очистить разум от мыслей. Но только после всего пережитого я поняла... Желание защищать пробуждается, только если разум наполнен правильными вещами. Это наделяет силу... смыслом.",
+        "en": "I once believed that freeing my mind from all agitation was the only way to overcome. But after everything I've experienced recently, I finally understand... Only when the right things weigh on your mind can the desire to protect awaken inside of you. And that turns your power into something... meaningful.",
+        "zh": "「心无杂念，方可超然」，这是我从前所想。经历种种才明白，唯有心存牵挂，才能唤醒守护的欲望，让力量…变得有意义。"
+      },
+      "source_id": 63042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Подчиняйся!",
+        "en": "Obey!",
+        "zh": "听令！"
+      },
+      "source_id": 63043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Проявись!",
+        "en": "Manifest!",
+        "zh": "显！"
+      },
+      "source_id": 63044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Освобождение!",
+        "en": "Unleash!",
+        "zh": "魂出！"
+      },
+      "source_id": 63045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Превращение!",
+        "en": "Transfiguration!",
+        "zh": "炼气化神！"
+      },
+      "source_id": 63046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Моя воля во плоти!",
+        "en": "My will embodied!",
+        "zh": "意生冰身！"
+      },
+      "source_id": 63047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Прими истинную форму!",
+        "en": "Take your true form!",
+        "zh": "付君真形！"
+      },
+      "source_id": 63048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "По указу небес!",
+        "en": "By ordinance divine!",
+        "zh": "天真敕奏！"
+      },
+      "source_id": 63049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Воплощение Крио!",
+        "en": "Cryo incarnate!",
+        "zh": "寒冰变神！"
+      },
+      "source_id": 63050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Следуй высшей воле!",
+        "en": "Do your master's bidding!",
+        "zh": "依律奉行！"
+      },
+      "source_id": 63051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Так вот что смертные называют сокровищами?",
+        "en": "So this is what the world considers to be \"treasure\"?",
+        "zh": "这就是凡间的宝物吧。"
+      },
+      "source_id": 63052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Сокровища Адептов обладают особыми силами. А сокровища смертных?",
+        "en": "Adepti treasures have special powers... Hmm, what about mortal ones?",
+        "zh": "与仙人法宝有何区别？"
+      },
+      "source_id": 63053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Эти вещи... для чего они?",
+        "en": "These things... What are they used for?",
+        "zh": "这些东西…该用到何处？"
+      },
+      "source_id": 63054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Ты пожалеешь об этом...",
+        "en": "You'll regret that...",
+        "zh": "休要怪我…"
+      },
+      "source_id": 63055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Я не уступлю...",
+        "en": "I shall not yield...",
+        "zh": "我不甘心…"
+      },
+      "source_id": 63056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Я истреблю их!",
+        "en": "I will wipe them out!",
+        "zh": "必须…诛除！"
+      },
+      "source_id": 63057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Не нужно заходить так далеко.",
+        "en": "Don't push yourself.",
+        "zh": "不必勉强。"
+      },
+      "source_id": 63058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Позвольте мне закончить.",
+        "en": "Allow me to finish this.",
+        "zh": "我来了结。"
+      },
+      "source_id": 63059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "От судьбы... не скрыться...",
+        "en": "No escape... from fate.",
+        "zh": "难逃…宿命…"
+      },
+      "source_id": 63060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Настал мой час...",
+        "en": "My time has come...",
+        "zh": "死丧既定…"
+      },
+      "source_id": 63061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Моё бремя проклятия...",
+        "en": "My curse to bear...",
+        "zh": "劫煞为灾…"
+      },
+      "source_id": 63062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Бесполезно!",
+        "en": "Feeble!",
+        "zh": "不成气候。"
+      },
+      "source_id": 63063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "И не мечтай!",
+        "en": "In your dreams!",
+        "zh": "休想！"
+      },
+      "source_id": 63064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Тебе же хуже!",
+        "en": "You will regret this!",
+        "zh": "别后悔！"
+      },
+      "source_id": 63065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Что означает... работать в команде?",
+        "en": "What exactly is teamwork?",
+        "zh": "团队作战…是什么意思？"
+      },
+      "source_id": 63066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Поняла. Мне нужно просто стоять здесь, да?",
+        "en": "Understood. I just have to stand here, right?",
+        "zh": "明白，站在这里就行了是吧。"
+      },
+      "source_id": 63067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "...Я сделаю так, как ты прикажешь.",
+        "en": "I will do as you command.",
+        "zh": "…听君敕令。"
+      },
+      "source_id": 63068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Этот вкус... Это правда для меня?",
+        "en": "Mmm, this taste... Is it really meant for me?",
+        "zh": "这般滋味…真的是我能够享受的吗？"
+      },
+      "source_id": 63069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Твои блюда, бесспорно, вкусны. Не могу отрицать.",
+        "en": "The food you cook is indisputably delicious. I can't refuse it.",
+        "zh": "你做的饭菜，确实美味。无法割舍。"
+      },
+      "source_id": 63070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Неважно. В конце концов, я привыкла к такому вкусу.",
+        "en": "No matter. I'm used to this kind of flavor, after all.",
+        "zh": "也好。这样的味道，我早就熟悉了。"
+      },
+      "source_id": 63071
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "О Сянь Юнь...",
+        "en": "About Xianyun",
+        "zh": "关于闲云…"
+      },
+      "text": {
+        "ru": "В прошлый раз, когда наставница и Шу Юй обедали в ресторане «Народный выбор», я заметила, что Шу Юй переняла некоторые манеры наставницы. Я ведь тоже выросла под её присмотром. Может быть, и я подсознательно взяла какие-то её черты...",
+        "en": "The last time Master and Shuyu came to dine at Wanmin Restaurant, I noticed that Shuyu seemed to have adopted a number of Master's mannerisms. It gave me pause for thought... I grew up under Master's care, too. Is it possible that I have subconsciously picked up a thing or two from her as well...?",
+        "zh": "上回，师父带漱玉来万民堂吃饭，漱玉言谈间已有了几分师父的神形…我也是在师父的呵护下如此成长，不知道我的举止，是否也带着些师父的样子呢…"
+      },
+      "source_id": 63072
+    }
+  ],
+  "replica_count": 73
 }

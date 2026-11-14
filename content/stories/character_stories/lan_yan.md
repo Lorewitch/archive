@@ -403,3 +403,859 @@ So when she discovered a Vision glinting softly at the bottom of her rattan bask
 「就算是天上的神仙，肯定也愿意看我们蓝砚编藤哩。」爷爷曾经这样自豪地称赞她。
 没人知道是否曾经真的有神仙驻足观看蓝砚编藤，但蓝砚自己相信，既然神仙们愿意倾注自己的神力，庇护这一方清秀山水，令人安居乐业，肯定也会赞赏人类用心织出的作品，赞赏作品中的珍惜之意。
 所以当她看到自己随身携带的藤包中出现了一枚莹亮的神之眼时，一点也不惊讶，倒是拿起它，开开心心地采藤去了。
+
+# voice_source_ids: 108000,108001,108002,108003,108004,108005,108006,108007,108008,108009,108010,108011,108012,108013,108014,108015,108016,108017,108018,108019,108020,108021,108022,108023,108024,108025,108026,108027,108028,108029,108030,108031,108032,108033,108034,108035,108036,108037,108038,108039,108040,108041,108042,108043,108044,108045,108046,108047,108048,108049,108050,108051,108052,108053,108054,108055,108056,108057,108058,108059,108060,108061,108062,108063,108064,108065,108066,108067
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет! Я Лань Янь из Ассоциации ремесленников долины Чэньюй! Тебя интересуют украшения или корзины? А может, ваза или какой-нибудь предмет мебели? Ах, у меня почти закончился ротанг. Пожалуй, мне стоит отправиться обратно в горы, чтобы собрать ещё... Что? Ты хочешь пойти со мной? Хе-хе, как мило с твоей стороны! В подарок я сделаю тебе шляпу из ротанга! Как тебе такое предложение?
+
+### Поболтаем: Планы на день
+
+Какой у меня план на день? Хм... Делать всё, что захочется, наверное! То же самое завтра и послезавтра, хе-хе.
+
+### Поболтаем: Семейные реликвии
+
+Лучшая мебель из ротанга изготавливается из прутьев, которые гладкие, тонкие и прочные, как шёлк. Такая мебель может быть столь же ценна, как семейное серебро или другие реликвии... И это вовсе не преувеличение!
+
+### Поболтаем: Ласточки
+
+При ясном небе ласточки гнёзда вьют, а в грозу под крышей они приют найдут.
+
+### Когда идёт дождь...
+
+Раз уж мы уже попали под дождь, почему бы не насладиться им? Зато не придётся тратить силы на то, чтобы бежать в укрытие.
+
+### Когда гремит гром...
+
+А-а-а! М-можно взять тебя за руку?
+
+### Когда светит солнце...
+
+Смотри! Солнце окутывает золотым сиянием всё, чего касаются его лучи!
+
+### Когда дует ветер...
+
+Слышишь? Динь-динь... Динь-динь... Моя серебряная заколка звенит, как колокольчик! Сегодня ветерок такой приятный и мягкий.
+
+### Когда дует сильный ветер...
+
+Динь-динь-динь... Похоже, на этот раз ветерок злится.
+
+### В пустыне...
+
+Хочешь воды? Вот, глотни моей. Я добавила листья мяты. Хорошо освежает, правда?
+
+### Доброе утро...
+
+О, птички тебя разбудили? Ха-ха, дай мне с ними поговорить. Посмотрим, сработает ли это. Они меня не всегда слушают.
+
+### Добрый день...
+
+Я собрала свежие цветы! Как раз хотела вернуться домой и приготовить что-нибудь для мамы... Тебе тоже стоит прийти! Моя семья будет рада тебя видеть!
+
+### Добрый вечер...
+
+На ночном рынке продают жареных насекомых! Хочешь попробовать?
+
+### Спокойной ночи...
+
+Так спать хочется... Пойду-ка я ложиться. Больше нет сил...
+
+### О Лань Янь: Счастье
+
+Для меня счастье - это наслаждаться каждым зёрнышком риса, слушать шум ветра, дремать на травке, и за один присест прочитать все десять томов страшного романа про призраков!
+
+### О Лань Янь: Наследники искусства Цимэнь
+
+Легендарный Повелитель Ветра действительно числится среди предков клана Лань, но наша семья давно отделилась от основной ветви. Искусство Цимэнь сложное и разнообразное, и пока я освоила лишь несколько трюков. Если дело доходит до чего-то более трудного, мне приходится обращаться за помощью к старшим и кузенам. Зато я отлично делаю фигурки из ротанга, даже дедушка не может со мной сравниться! Думаю, это единственная область, где я действительно чувствую себя на высоте.
+
+### О нас: Пожмём руки?
+
+Садись. Друг. Давай пожмём друг другу руки....
+Ой, нет, я не тебе сказала садиться - я говорила нашим зверушкам! Ах, прости, пожалуйста! Вставай... Я просто пыталась сказать им: «Смотрите сюда, друзья! У нас сегодня новый друг!» Что, это было непонятно? Ну... «Садись» может значить «послушай меня», «стой на месте» или даже «прекрати, что делаешь». Что? Как ты должен это понять? Нужно просто почаще приходить в горы, и ты быстро всё усвоишь! / Садись. Друг. Давай пожмём друг другу руки....
+Ой, нет, я не тебе сказала садиться - я говорила нашим зверушкам! Ах, прости, пожалуйста! Вставай... Я просто пыталась сказать им: «Смотрите сюда, друзья! У нас сегодня новый друг!» Что, это было непонятно? Ну... «Садись» может значить «послушай меня», «стой на месте» или даже «прекрати, что делаешь». Что? Как ты должна это понять? Нужно просто почаще приходить в горы, и ты быстро всё усвоишь!
+
+### О нас: Давай пожмём руки!
+
+Давай, пожми мне руку! Обними меня!
+А? Ну же, давай пожмём руки! Разве не так друзья поддерживают друг друга? Ой, подожди, ха-ха, да, это была твоя очередь! Прости, это я тебя запутала. Но ничего, всё нормально! Чем больше будем проводить время вместе, тем лучше будем понимать друг друга!
+
+### Глаз Бога...
+
+Благодаря моему Глазу Бога я могу легко подбрасывать чакрам в воздух и ловить его без всяких проблем... Но, детишки, не пытайтесь повторить это дома! Лезвие очень-очень острое! Хотя, Путешественник, ты, наверное, мог бы попробовать! Стой прямо, держи руку ровно и резко подбрасывай его вверх. У тебя обязательно получится! / Благодаря моему Глазу Бога я могу легко подбрасывать чакрам в воздух и ловить его без всяких проблем... Но, детишки, не пытайтесь повторить это дома! Лезвие очень-очень острое! Хотя, Путешественник, ты, наверное, могла бы попробовать! Стой прямо, держи руку ровно и резко подбрасывай его вверх. У тебя обязательно получится!
+
+### Давай поделимся...
+
+С дикими грибами нужно быть предельно осторожным. Многие из них совершенно несъедобны, а другие необходимо зажарить до полной готовности, чтобы они стали безопасными. И, если ты не доел их за один раз, остатки тоже нужно снова прожарить перед тем, как съесть. Многие забывают про этот шаг. Так что, если съешь пару кусочков, а потом твоя собака начнёт просить тебя развесить бельё, или куры начнут отдавать команды по дому, немедленно обратись за медицинской помощью! / С дикими грибами нужно быть предельно осторожным. Многие из них совершенно несъедобны, а другие необходимо зажарить до полной готовности, чтобы они стали безопасными. И, если ты не доелa их за один раз, остатки тоже нужно снова прожарить перед тем, как съесть. Многие забывают про этот шаг. Так что, если съешь пару кусочков, а потом твоя собака начнёт просить тебя развесить бельё, или куры начнут отдавать команды по дому, немедленно обратись за медицинской помощью!
+
+### Интересные вещи...
+
+Однажды я отдыхала на дереве после того, как закончила плести, и белка украла ротанговые шишки, которые я только что сделала! К счастью, я смогла вернуть их, обменяв на вдвое больше настоящих шишек. Честно говоря, я не особо волновалась из-за своей работы. Я переживала, что могла испортить белке весь день! Только представь: весь день собираешь шишки, приносишь их домой, а они оказываются несъедобные! Все беличьи друзья наверняка бы подняли её на смех...
+
+### О Сян Лин...
+
+Все говорят, что первое впечатление важно, и когда я впервые поела в ресторане «Народный выбор», меня охватило одно лишь сожаление... Сожаление о том, что я так долго откладывала поездку в гавань Ли Юэ! Я могла бы встретить Сян Лин намного раньше... В любом случае, как только она услышала, как я рассказываю о редких ингредиентах, которые можно найти в горах моего родного края, она тут же начала планировать поездку в долину Чэньюй! Я позабочусь о том, чтобы она не вернулась домой с пустыми руками!
+
+### О Ху Тао...
+
+Госпожа Ху всегда кажется такой жизнерадостной и оптимистичной. Даже когда ситуация была безвыходной, она не упускала случая подбодрить меня шуткой. Я знаю её совсем недолго и постоянно думаю... А всегда ли она такая? Хм... Во всяком случае, начиная с сегодняшнего дня, я хочу верить, что все её улыбки будут искренними - рождёнными от счастья, а не от желания утешить других.
+
+### О Кэ Цин...
+
+Когда же Нефритовое Равновесие наконец отдохнёт? Во время Праздника морских фонарей она буквально разрывалась на части, чтобы успеть всё. Я так хотела отблагодарить её за доброту и угостить чем-нибудь вкусным, но ни разу не смогла найти подходящий момент... Ещё мне ужасно хотелось, чтобы она уложила мои волосы так, чтобы они напоминали её кошачьи ушки. Но... может быть, это уже слишком? Хотя почему-то мне кажется, что она бы и не была против...
+
+### О Син Цю...
+
+Я уже несколько раз случайно встречала господина Син Цю в горах. Никого из торговой гильдии «Фэйюнь» при нём не было, так что это явно не было связано с делами. После таких случайных встреч он нередко приносил мне новейшие мистические романы, а я пообещала никому об этом не рассказывать. Но, кажется, только что рассказала тебе, да? Пожалуйста, храни этот секрет, Путешественник!
+
+### О Чун Юне...
+
+Как-то раз я сопровождала дедушку, когда он отправился на очередной вызов. В тот момент я заметила, как Чун Юнь выходит из дома с очень расстроенным видом. Судя по его беспомощному выражению, я подумала, что дело было серьёзным, но в самом доме я не ощутила ничего зловещего. Да и дедушка не предсказывал никакой беды. Может, Чун Юнь потратил слишком много сил, чтобы решить проблему, и теперь настолько устал, что не смог ничего объяснить... А? Ты думаешь, возможно, он вообще ничего не делал? Тогда я запуталась ещё больше...
+
+### О Ка Мине...
+
+Я знаю Ка Мина с самого детства! В те времена он был настоящим кошмаром для всех соседей, ха-ха. Что, говоришь, это не похоже на него? Ну, он очень изменился с тех пор, повзрослел, как и я. Но одно осталось прежним - куда бы он ни отправился, с собой у него всегда найдутся какие-нибудь вкусняшки. Возвращаясь из своих путешествий, он всегда привозит целую гору лакомств, чтобы поделиться со своими друзьями. И, конечно же, он никогда не уезжает, не запасшись своими любимыми сладостями из родных мест...
+
+### О Ци Ци...
+
+Ци Ци любит зябликов, правда? Я подумываю сделать для неё одного из ротанга! Ты знаешь, какой у неё любимый цвет?
+
+### Узнать больше о Лань Янь I
+
+Подожди-ка! Ещё секундочку... Почти готово... Осталось закончить эту ручку и... Фух... Готово! Хе-хе, извини за это. Мне тяжело делать несколько дел сразу. Я могу сосредоточиться только на чём-то одном. Ну вот, теперь я вся внимание!
+
+### Узнать больше о Лань Янь II
+
+Хочешь провести немного времени в горах? Можем попробовать увернуться от мягкошёрстных коз, пока они будут нас бодать. Или можем притвориться, что красноклювые пеликаны - это бандиты, а нам нужно спасти нефритового сердцепёрого окуня из их клювов... О, ты хочешь сыграть в «По следам ветра»? Ты будешь охотником? Хе-хе, кто-то тут уверенно настроен. Хорошо, если будешь бегать кругами, я позвоню в свой серебряный колокольчик, чтобы помочь тебе меня найти. Если тебе удастся даже кончика моих волос коснуться, я засчитаю это за твою победу! Знаешь, я ведь тоже неплоха в этой игре...
+
+### Узнать больше о Лань Янь III
+
+Моя серебряная заколка для волос выполнена в форме Серебрянокрылой чёрной птицы и является семейной реликвией. Серебряная шпилька, ожерелье и брошка - это подарки от моих родителей на день рождения. А браслет мне подарил дедушка на Праздник морских фонарей, а серьги - с последней Лунной охоты, кажется... Есть и другие вещи, которые мне дарили, когда я освоила планер, получила Глаз Бога и умудрилась съесть целых три миски риса за один присест...
+Хе-хе, моя семья считает, что серебряные украшения приносят удачу и отгоняют зло, так что мне постоянно дарят новые!
+Носить их все сразу довольно тяжело, но... полагаю, это и есть вес семейной любви!
+
+### Узнать больше о Лань Янь IV
+
+Когда я была маленькой, ротанговые фигурки меня жутко пугали... Как бы это описать? Представь себе кучу уродливых чёрных и серых кукол по всему дому... для ребёнка это просто кошмар! Когда дедушка отправлял меня учиться к главе нашего клана, я думала, что он одержим. Я была уверена, что двоюродная сестра обучает меня чёрной магии! Поэтому однажды ночью я набралась храбрости и сожгла все фигурки, которые смогла найти. К счастью, их назначение было в том, чтобы впитывать злую энергию, так что их всё равно бы уничтожили. Таково и было их предназначение.
+Но это заставило меня задуматься: если бы фигурки из ротанга выглядели милее, люди бы не принимали их за какие-то зловещие колдовские штуки...
+
+### Узнать больше о Лань Янь V
+
+Плести из ротанга вовсе не сложно, честное слово! Даже самые замысловатые фигурки создаются постепенно, по одной полоске за раз. Всё, что нужно - немного терпения, и в конце концов у тебя обязательно получится! По сравнению с самим навыком, аккуратность даётся труднее, а настойчивость - ещё труднее. Но если ты спросишь меня, я скажу, что самый важный элемент - это радость. Если тебе не нравится сам процесс, ты никогда не сделаешь работу по-настоящему хорошо. И это верно не только для плетения. Радость - вот что главное! И для меня, и для тебя!
+
+### Хобби Лань Янь...
+
+Согласно фольклору, духи утопленников обитают в проклятых водоёмах. Поэтому я решила проверить это, просто сунув палку в озеро... И она действительно там застряла! В водорослях застряла, если точнее. Даже не представляю, что случилось бы, если бы ты решил там поплавать. Было бы странно там не застрять...
+О, ещё слышала, что нельзя есть закатники после захода солнца или чистить яблоко перед зеркалом в полночь... Хм, интересно, есть ли во всём этом хоть какой-то здравый смысл? / Согласно фольклору, духи утопленников обитают в проклятых водоёмах. Поэтому я решила проверить это, просто сунув палку в озеро... И она действительно там застряла! В водорослях застряла, если точнее. Даже не представляю, что случилось бы, если бы ты решилa там поплавать. Было бы странно там не застрять...
+О, ещё слышала, что нельзя есть закатники после захода солнца или чистить яблоко перед зеркалом в полночь... Хм, интересно, есть ли во всём этом хоть какой-то здравый смысл?
+
+### Беспокойство Лань Янь...
+
+Ненавижу вынимать занозы. Приходится так сильно прищуриваться, чтобы их рассмотреть, и в итоге я всегда травмируюсь... Я уже все десять пальцев так порезала... *хнык*
+
+### Любимая еда...
+
+Свежие цветы не только потрясающе выглядят и пахнут, но и превращаются в изумительную выпечку! Вкус получается освежающим, но не слишком сладким. Ах, и он отлично сочетается с цветочным чаем... Ой, давай прямо сейчас отправимся собирать цветы! И даже корзинку тащить не нужно! Я просто сплету её, когда доберёмся до гор!
+
+### Нелюбимая еда...
+
+Как говорится, даже сахар сладок только тогда, когда ты счастлив... Всё кажется невкусным, если у тебя плохое настроение. Хе-хе, к счастью, у меня такая проблема бывает редко!
+
+### Подарок I
+
+Это просто восхитительно! Подожди... для такого блюда нужны особые столовые приборы из чистого серебра! Сейчас вернусь!
+
+### Подарок II
+
+Ах, спасибо! Вот, попробуй с этим соусом! Так ещё вкуснее!
+
+### Подарок III
+
+Подожди, ты съел это? С твоим желудком все в порядке? Тебе ничего не мерещится? / Подожди, ты съелa это? С твоим желудком все в порядке? Тебе ничего не мерещится?
+
+### День рождения...
+
+В моей семье всегда дарят серебряные украшения на день рождения. Так что, держи, эти две фигурки для тебя. Фигурка с серебряной ласточкой на голове - это я, а фигурка с маленьким серебряным мечом - это ты. Хе-хе, похоже на нас, правда?
+Я пропитала ротанговые прутья благовониями, так что, если повесить их на рюкзак, они будут отпугивать насекомых. А ещё я сделала серебряные аксессуары. Мастер отполировал их, а я позаботилась о том, чтобы скруглить края, чтобы ты случайно не порезался.
+С днём рождения, путешественник! Пусть тебе во всём сопутствует удача! / В моей семье всегда дарят серебряные украшения на день рождения. Так что, держи, эти две фигурки для тебя. Фигурка с серебряной ласточкой на голове - это я, а фигурка с серебряным цветком - это ты. Хе-хе, похоже на нас, правда?
+Я пропитала ротанговые прутья благовониями, так что, если повесить их на рюкзак, они будут отпугивать насекомых. А ещё я сделала серебряные аксессуары. Мастер отполировал их, а я позаботилась о том, чтобы скруглить края, чтобы ты случайно не порезалась.
+С днём рождения, путешественница! Пусть тебе во всём сопутствует удача!
+
+### Чувство возвышения: Начало
+
+Подожди, я же только сплела пару прутьев, а ты уже... Либо ты работаешь очень быстро, либо я гораздо медленнее, чем мне казалось...
+
+### Чувство возвышения: Нарастание
+
+Если серебру нужна полировка, чтобы оно блестело, то логично, что и нам нужно постоянно оттачивать свои навыки, чтобы стать такими же лёгкими и стремительными, как ласточки.
+
+### Чувство возвышения: Кульминация
+
+Давай пожмём друг другу руки! Ещё раз! Ещё раз! Помнишь? Это выражение счастья и благодарности - способ показать радость от всех хороших вещей в жизни!
+
+### Чувство возвышения: Окончание
+
+«Скромная ласточка строит гнездо из грязи, но никогда не остаётся без дома». Так что не недооценивай меня! Я стала достаточно сильной, чтобы теперь смочь тебя защитить. Хе-хе, и всё это благодаря тебе, конечно же! Огромное тебе спасибо!
+
+### Элементальный навык I
+
+Лети!
+
+### Элементальный навык II
+
+Плети!
+
+### Элементальный навык III
+
+Вверх и вниз.
+
+### Взрыв стихии I
+
+Недуги, прочь!
+
+### Взрыв стихии II
+
+Быстрая как ласточка!
+
+### Взрыв стихии III
+
+Танец на ветру!
+
+### Открытие сундука I
+
+Ого! Можно мне немного оставить себе? Поделись удачей!
+
+### Открытие сундука II
+
+Удача! Давай посмотрим, что там внутри.
+
+### Открытие сундука III
+
+Не спеши. Давай всё хорошенько подсчитаем...
+
+### Низкий уровень HP I
+
+Мне нужно больше времени...
+
+### Низкий уровень HP II
+
+Мне нужна помощь!
+
+### Низкий уровень HP III
+
+Непростая задача...
+
+### Низкий уровень HP компаньона I
+
+Я тебя прикрою!
+
+### Низкий уровень HP компаньона II
+
+Я справлюсь! Я быстрее их.
+
+### Без сознания I
+
+Не... сейчас...
+
+### Без сознания II
+
+Колокольчики больше... не звенят...
+
+### Без сознания III
+
+Полёт... окончен...
+
+### Получен лёгкий удар I
+
+Прекрати!
+
+### Получен тяжёлый удар I
+
+Что-то не так!
+
+### Получен тяжёлый удар II
+
+Какой вредный!
+
+### Присоединяется к группе I
+
+Не важно где - я буду с тобой!
+
+### Присоединяется к группе II
+
+Прогуляемся по городу.
+
+### Присоединяется к группе III
+
+Уже иду!
+
+## REPLICAS_EN
+
+### Hello
+
+Hello, I'm Lan Yan, from the Chenyu Vale Artisans Association! Can I interest you in any decorations or baskets? Or perhaps a vase or piece of furniture? Ah, I'm almost out of rattan. I should head back to the mountains to get more... Oh, you want to come with me? Hehe, that's so nice of you! I'll throw in a free rattan hat! How does that sound?
+
+### Chat: Daily Planning
+
+Oh, my plan for the day? Hm... Doing whatever I feel like, I suppose! Same with tomorrow, and the day after that, hehe.
+
+### Chat: Family Heirloom
+
+The best rattan furniture is made from strands that are smooth, thin, and strong like silk. Furniture like that can be just as precious as a silver family heirloom... That's no exaggeration!
+
+### Chat: Swallows
+
+Swallows nest when skies are fair, but hide when storms are in the air.
+
+### When It Rains
+
+Well, since we're already caught in the rain, we might as well enjoy it! Saves us the energy of running for shelter, at least.
+
+### When Thunder Strikes
+
+Whoa! C—Can I hold your hand?
+
+### When the Sun Is Out
+
+Look! Everything the sun touches is coated in gold!
+
+### When It's Windy
+
+Hear that? Ding a ling... Ding a ling... My silver hairpiece is ringing like a bell! The wind is nice and gentle today.
+
+### When the Wind Is Blowing
+
+Ding a ling a ling a ling... Sounds like the wind is angry this time.
+
+### In the Desert
+
+Need some water? Here, take a sip of mine. It's infused with mint leaves, so it's extra refreshing!
+
+### Good Morning
+
+Oh, did the birds wake you up? Haha, let me have a quick talk with them. We'll see if it works — they don't always listen to me.
+
+### Good Afternoon
+
+I picked some fresh flowers! I was just about to head back and cook something for my mom... You should come, too! My family would love to see you!
+
+### Good Evening
+
+The night market sells grilled insects! Wanna give them a try?
+
+### Good Night
+
+So sleepy... I'm gonna turn in for the night. I can't stay up any longer.
+
+### About Lan Yan: Happiness
+
+To me, happiness is... savoring every bite of rice down to the very last grain, listening to the sound of the wind while taking a nap on the grass, and reading all ten volumes of a supernatural novel in a single sitting!
+
+### About Lan Yan: Inheritors of Qimen Arts
+
+The legendary Wind Reader is indeed listed as an ancestor of the Lan clan, but my family split from the main branch a long time ago. The Qimen arts are complex and varied, and I've only learned a few tricks so far. Anything harder, and I need to ask my elders and cousins for help. Still, I'm really good at making rattan figures — even grandpa is no match for me! Hehe, I guess it's the one area where I really hold my own.
+
+### About Us: Let's Shake Hands?
+
+Sit. Friend. Handshake~
+Oh, no, I wasn't telling YOU to sit — I was talking to our animal friends! Ahh, I'm so sorry! Please, get up... I was trying to tell them, "Look over here, everyone! We have a new friend with us today!" Oh, that wasn't clear? Well... "Sit" can mean "listen to me" or "stay where you are" or even "stop what you're doing." Hm? How are you supposed to know? You just need to come to the mountains more often. You'll pick it up in no time!
+
+### About Us: Let's Shake Hands!
+
+Come on, shake my hand! Gimme a hug!
+Huh...? Well go on, let's shake hands! ...Isn't this how friends encourage each other? ...Oh wait, haha, yes, you this time! Sorry, it's my fault for confusing you. No worries, though! The more we hang out, the more we'll understand each other!
+
+### About the Vision
+
+Thanks to my Vision, I can toss my chakram into the air and catch it with ease... Ah, but don't try it at home, kids! The blade is actually really sharp! Although, you could probably give it a go, Traveler! Just stand still, keep your arm steady, and give a nice, swift throw. I'm sure you can do it!
+
+### Something to Share
+
+You can never be too careful when it comes to wild mushrooms. Many are completely inedible, and others have to be stir-fried and cooked fully to be safe. And, if you don't finish them in one sitting, you have to do the same to the leftovers before consuming them — a lot of people forget that step. So, if you eat a few bites, and your dog starts telling you to put away the laundry, or your chickens start ordering you around the house, seek medical attention right away!
+
+### Interesting Things
+
+Once, I was resting in a tree after finishing some weaving, and a squirrel stole the rattan pinecones I just made! Thankfully, I was able to get them back by trading for double the amount of real pinecones. Honestly, I didn't really care about losing my work, I was more worried about ruining the squirrel's entire day! Just imagine — you spend all day collecting pinecones only to get home and realize they're fake! All their squirrel friends would probably laugh at them...
+
+### About Xiangling
+
+Everyone says first impressions are important, and the first time I ate at Wanmin Restaurant, I had so much regret... regret that it took me so long to visit Liyue Harbor! I could have met Xiangling way sooner... In any case, as soon as she heard me talk about all the rare ingredients in the mountains of my hometown, she started planning a trip to Chenyu Vale! I'll make sure she doesn't go home empty-handed!
+
+### About Hu Tao
+
+Director Hu always seems so upbeat and cheerful. Even when the situation was desperate, she was always there with a joke to cheer me up. I haven't known her long, so I was wondering... Is she always like that? Hmm... In any case, starting from today, I hope all her smiles are out of genuine happiness, rather than an effort to reassure other people.
+
+### About Keqing
+
+When will the Yuheng finally take a break? She was running all over the place during the Lantern Rite. I wanted to treat her to a meal to thank her for her kindness, but I never had the chance... I was also hoping she could do my hair into a pair of cat ears just like hers. But... maybe that's asking too much. Although, something tells me she wouldn't mind...
+
+### About Xingqiu
+
+I've run into master Xingqiu several times in the mountains. He wasn't accompanied by anyone from the Feiyun Commerce Guild, so it never seemed like official business. After those chance encounters, he often brought me copies of the newest supernatural novels, and I promised to never tell anyone. Except... I definitely just told you, didn't I? Please keep that secret for the both of us, Traveler!
+
+### About Chongyun
+
+One time, I was out with grandpa on one of his house calls, when I saw Chongyun leave the house with a dejected look on his face. Given how helpless he looked, I assumed the situation must have been bad, but I didn't sense an ominous presence within the house. Grandpa's reading didn't predict any misfortune, either. Maybe he spent a lot of energy getting rid of the problem and was too tired to talk... Huh? You think it's possible he didn't do anything at all? That makes me even more confused...
+
+### About Gaming
+
+I've known Gaming since we were kids! He was quite the neighborhood terror back then, haha. Hm? That doesn't sound like him? Well, he's matured a lot since then, just like I have. One thing hasn't changed, though — he still carries snacks with him wherever he goes. He always comes back from his travels with a ton of goodies to share with his friends. And, of course, he never leaves without stocking up on his hometown favorites...
+
+### About Qiqi
+
+Qiqi likes finches, right? I'm thinking of making her one out of rattan! Do you know her favorite color?
+
+### More About Lan Yan: I
+
+Hold it! One moment... Almost there... Just need to finish this handle, and... Phew... Done! Hehe, sorry about that. I'm not the best multitasker — I can only focus on one thing at a time. Now, you have my undivided attention!
+
+### More About Lan Yan: II
+
+Wanna spend some time in the mountains? We can try to dodge Fluff-Fleece Goats as they headbutt us. Or, we can pretend the Red-Beaked Pelicans are bandits and try to rescue Jade Heartfeather Bass from their beaks... Oh, you want to play Windtrace? You'll be the Hunter? Hehe, someone's confident. Alright, if you end up running in circles, I'll ring my silver bell to help you find me. If you manage to touch even the tip of my hair, I'll count that as your win! I'm pretty good at this game, too, you know.
+
+### More About Lan Yan: III
+
+My silver hairpiece is in the shape of a "Jade-Plumed Silverwing," and it's a family heirloom. My silver hairpin, necklace, and brooch are all birthday presents from my parents. Oh, the bracelet is a Lantern Rite gift from my grandpa, and the earrings are from the last Moonchase Festival, I think... There are also others that were given to me when I mastered the wind glider, received my Vision, and managed to down three whole bowls of rice in one meal...
+Hehe, my family believes that silver accessories are auspicious and can ward off evil, so I'm constantly receiving new ones!
+Wearing them all at once is pretty heavy, but... I suppose that's the weight of a family's love!
+
+### More About Lan Yan: IV
+
+When I was little, rattan figures used to creep me out... How should I describe it? I mean, a bunch of misshapen black and gray dolls throughout the house... it's the stuff of nightmares for a kid! When grandpa used to send me to study with the head family of our clan, I thought he was possessed. I thought my cousin was teaching me the dark arts! So, one night, I worked up the courage to burn all the figures I could find. Luckily, their purpose was to absorb evil energy, so they were always meant to be destroyed.
+But, that got me thinking — if rattan figures looked cuter, maybe people wouldn't mistake them for some kind of evil sorcery...
+
+### More About Lan Yan: V
+
+Rattan weaving isn't hard, I swear! Even the most intricate figures are made one strand at a time. All you need is a little patience, and you'll get there in the end! Compared to the technique itself, precision is the hard part, and persistence can be even harder. If you ask me, though, the most important element is happiness. If you don't enjoy the process, you'll never do a good job — that's true for more than just weaving. Happiness is key! That goes for both of us!
+
+### Lan Yan's Hobbies
+
+According to folklore, spirits of drowned people exist in haunted bodies of water, so I tried to see if it was true by shoving a stick in a lake... And it actually got stuck! In all the seaweed, I mean. I can only imagine what would happen if you tried to go swimming. Not getting stuck would be more unusual...
+Oh, I also heard that you shouldn't eat sunsettias after sunset or peel an apple in front of a mirror at midnight... Huh, I wonder if there's truth to any of those folk legends...
+
+### Lan Yan's Troubles
+
+I hate removing splinters. You have to squint so hard to see them, and I always end up hurting myself... I've cut all ten of my fingers that way... *whimper*
+
+### Favorite Food
+
+Fresh flowers not only look and smell amazing, but they also make delicious pastries! The flavor is refreshing, but not too sweet. Ah, and it goes so well with a pot of floral tea... Ooh, let's go flower-picking right now! No need to bring a basket — I'll just weave one once we're in the mountains!
+
+### Least Favorite Food
+
+As the saying goes, even sugar is only sweet when you're happy. Everything tastes worse when you're in a bad mood. Hehe, luckily, I rarely have that problem.
+
+### Receiving a Gift: I
+
+This is delicious! Hold on, a dish like this calls for special utensils made of pure silver! Be right back!
+
+### Receiving a Gift: II
+
+Ah, thank you! Here, try it with this dipping sauce! The flavor is even better!
+
+### Receiving a Gift: III
+
+Wait, you ate some of this? Is your stomach okay? You're not seeing things, are you?
+
+### Birthday
+
+In my family, we always give silver accessories as birthday gifts. So, here, these two figures are for you. The one with the silver swallow on the head is me, and the one with the small silver sword is you. Hehe, looks just like us, right?
+I infused the rattan strands with incense, so hanging them on your knapsack should repel insects. Oh, and I designed the silver accessories, too. The silversmith polished them once, and I made sure to smooth out the edges a second time, so you don't have to worry about cutting yourself.
+Well, happy birthday, Traveler! May luck always be on your side! / In my family, we always give silver accessories as birthday gifts. So, here, these two figures are for you. The one with the silver swallow on the head is me, and the one with the silver flower is you. Hehe, looks just like us, right?
+I infused the rattan strands with incense, so hanging them on your knapsack should repel insects. Oh, and I designed the silver accessories, too. The silversmith polished them once, and I made sure to smooth out the edges a second time, so you don't have to worry about cutting yourself.
+Well, happy birthday, Traveler! May luck always be on your side!
+
+### Feelings About Ascension: Intro
+
+Wait, I barely got two strands in this project, and you already... Either you work super fast, or I'm slower than I thought...
+
+### Feelings About Ascension: Building Up
+
+If silver needs to be polished to shine, it only makes sense that we need to keep honing our skills to become as light and swift as a swallow.
+
+### Feelings About Ascension: Climax
+
+Let's shake hands! Again! Again! Still remember? It's an expression of happiness and gratitude — a way to express joy at all the good things in life!
+
+### Feelings About Ascension: Conclusion
+
+"The humble swallow builds with mud, and yet, is never without a nest." So, don't underestimate me! With how strong I've become, I should be more than capable of protecting you now. Hehe, it's all thanks to your help, of course! Thank you so much!
+
+### Elemental Skill: I
+
+Flip and fly.
+
+### Elemental Skill: II
+
+Closing in.
+
+### Elemental Skill: III
+
+Up and away.
+
+### Elemental Burst: I
+
+Ills, be gone!
+
+### Elemental Burst: II
+
+Swift as the swallow.
+
+### Elemental Burst: III
+
+Dancing in the wind~
+
+### Opening Treasure Chest: I
+
+Whoa, can I have some? Spread the luck around!
+
+### Opening Treasure Chest: II
+
+Score! Let's see what's inside!
+
+### Opening Treasure Chest: III
+
+Just a moment, let's tally this up...
+
+### Low HP: I
+
+Need some time...
+
+### Low HP: II
+
+Little help here~
+
+### Low HP: III
+
+This is tricky...
+
+### Ally at Low HP: I
+
+Get back! I'll cover for you!
+
+### Ally at Low HP: II
+
+I've got this! I'm faster than them.
+
+### Fallen: I
+
+Can't... fall now...
+
+### Fallen: II
+
+The bell rings... no more...
+
+### Fallen: III
+
+Grounded... for good...
+
+### Light Hit Taken: I
+
+Stop!
+
+### Heavy Hit Taken: I
+
+Something's off!
+
+### Heavy Hit Taken: II
+
+Nasty temper!
+
+### Joining Party: I
+
+Doesn't matter where, I'll be there!
+
+### Joining Party: II
+
+Let's hit the town!
+
+### Joining Party: III
+
+Coming!
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，我是沉玉谷手工艺工会的蓝砚。是想做点摆件、篮子还是花瓶、家具之类的呢？呃，备用的藤枝藤条不多了，得先去山里采一趟…你也想帮忙？嘻嘻，你人真好，我多送你一顶藤编遮阳帽可好？
+
+### 闲聊·每日计划
+
+今天的计划？嗯…听随当下的心意而动。明天也是，每天都是，嘻嘻。
+
+### 闲聊·传家宝
+
+好的藤器经篾薄如绸，纬条细若丝，经久不坏…说它能跟银器一样当传家宝一点都不夸张。
+
+### 闲聊·燕子
+
+天暖燕子么搭窝窝，升雷扯闪么我家躲。
+
+### 下雨的时候…
+
+赶不及躲雨了，那——安心淋雨吧，还省了跑步的力气。
+
+### 打雷的时候…
+
+呜哇！借、借你手握一会！
+
+### 阳光很好…
+
+看，阳光扫到的地方都镀上了一层金欸。
+
+### 起风的时候…
+
+听见吗？我头上的银饰叮铃…叮铃…风很温柔呢！
+
+### 刮大风了…
+
+叮叮叮叮叮——风有点生气了啊。
+
+### 在沙漠的时候…
+
+喝点水吗？尝尝我瓶子里的吧，泡薄荷叶子果然是明智的选择呢。
+
+### 早上好…
+
+被鸟叫吵醒了？哈哈，我去跟它们商量商量，但不一定奏效哦，它们有时也不听我的话。
+
+### 中午好…
+
+采了些很新鲜的花，我这就带回去给妈妈做好吃的…你也来嘛，我家里人见到你肯定高兴！
+
+### 晚上好…
+
+夜市里有碳烤小昆虫！想一起去尝尝吗？
+
+### 晚安…
+
+我好困…先睡了先睡了，就不陪你熬夜了。
+
+### 关于蓝砚自己·幸福感
+
+幸福感就是…每一口都细嚼慢咽直到吃完碗里最后一粒米，躺在草地上听着耳边的呼呼风声睡午觉，不被打扰地看完整整十册的志怪连载小说！
+
+### 关于蓝砚自己·奇门世家
+
+那位万象风角灵官在蓝氏的族谱中确有记载，可我家这一脉早已从宗家分枝散叶了。奇门术法纷繁复杂，我也只是学了个皮毛而已，有很多难题我还要向前辈们请教呢…但唯独扎藤人的手艺就连爷爷都要向我看齐，哈哈…这能算一种「独当一面」吗？
+
+### 关于我们·握手？
+
+坐好。朋友。握手~
+啊不不，我是让小动物们看我，不是叫你坐下啦！快请起来…这句话的意思是「大家看过来哦，今天有一位新朋友跟我们一起玩！」有点难懂吗？唔…「坐好」可以是「先别动」或者「听我说」，也可以是「停下来」…规律吗？哎呀总之你多来山里跟我们玩，自然就懂啦。
+
+### 关于我们·握手！
+
+来呀，握个手，抱一个吧。
+嗯…？来握手呀？哈哈，这回真的是我想要跟你握手的意思啦！好朋友之间不是这样相互鼓励的吗？对不起哦，怪我没有事先说清楚。但也没关系，我会多去找你玩，这样自然你也懂我我也懂你啦。
+
+### 关于「神之眼」…
+
+感谢神之眼的助力，我居然能毫不费力地将环刃抛起又稳稳接住…啊，环刃非常锋利，小朋友切勿模仿！但如果是你…要上手试试吗？身要定，臂要稳，手要疾，你的话一定能做到！
+
+### 有什么想要分享…
+
+想吃野蕈真的不能马虎，许多有毒的蕈子根本吃不得。另一些，则必须在处理的时候加工到位，用油炒熟！如果一顿吃不完，第二顿也要再次炒熟炒透，很多人就是在第二次中的招！如果吃两口后看到家里的鸡来找你借火，或者院子里的狗喊你去收衣服了，那么不要犹豫，赶快叫它们带你去看医生吧。
+
+### 感兴趣的见闻…
+
+有一回，我坐在树上编小摆件，伸个懒腰的功夫，刚编的藤制松果就被小松鼠全偷走了！还好后来我用双倍数量的真松果跟它们换回来了…东西被拿走是小事，但破坏小松鼠一天的好心情就不好了！忙活了一天采松果，回家发现是假的！唔…说不定还会被别的小松鼠嘲笑呢…
+
+### 关于香菱…
+
+都说第一印象很重要，在万民堂吃过在璃月港的第一顿饭后，我就后悔了。后悔怎么没有早点来璃月港，这样说不定能早点认识香菱！她听说我老家山里有许多罕见食材后，忙不迭就开始计划来沉玉谷的行程了，到时我一定得让她满载而归。
+
+### 关于胡桃…
+
+胡堂主给人感觉总是嘻嘻哈哈的，哪怕在危急的困境中她都没有忘记说玩笑话来安抚我…我跟她认识的时间不长，她一直都这样乐观积极吗？嗯…不管怎样，至少从今天开始，祝愿她笑的时候是真的很开心，而不是为了不让身边的人担心。
+
+### 关于刻晴…
+
+玉衡大人什么时候能闲下来呢？海灯节期间看她东奔西跑忙个不停，也没能找到机会请她吃顿饭，好好感谢她的招待…我还想拜托她帮我梳一对跟她一样的猫猫耳朵呢…会不会很僭越？但直觉告诉我她不会介意欸…
+
+### 关于行秋…
+
+我曾在山林里偶遇过行秋少爷几回，他身边没有飞云商会的伙计跟着，看起来不像在办公事…在那以后他时不时会给我送几本最新出版的志怪小说，请我帮他保守秘密。完了…我是不是不小心说出来了…这下请你帮我们俩都保守住秘密啊！
+
+### 关于重云…
+
+有一次我跟着爷爷上门占卦，正巧碰到他从事主家中沮丧离开…我本以为屋里头的情况不容乐观，就连他也无计可施了。可我进屋后并没有感受到任何不妙的气息，爷爷这边得出的也是吉卦…兴许是他费了大功夫，累到没力气说话了。你说他很可能什么都没做？那我就更不懂了…
+
+### 关于嘉明…
+
+我跟嘉明从小就认识，还记得他小时候是家喻户晓的淘气大魔王，现在完全看不出来？哈哈，也许这就是成长吧，我也跟小时候不太一样呢。但有一点他始终没变——就是走到哪总会带点好吃的在身上，每次回来都不会忘记给家乡朋友带些外地的点心。当然，更不会忘记打包一堆家乡小吃带走…
+
+### 关于七七…
+
+七七姑娘喜欢小团雀对吗？想用藤皮编一只送给她…你知道她喜欢什么颜色吗？
+
+### 想要了解蓝砚·其一
+
+先别说话！稍等一下…马上…编完这个把手就好…呼…搞定！嘻嘻别见怪，我脑筋比较简单，一时只能干一件事。但现在可以专心跟你聊天啦。
+
+### 想要了解蓝砚·其二
+
+要来山里面玩吗？可以和柔柔羊玩躲避头槌，或者让朱喙鹈鹕扮演大嘴巴强盗，在限定时间内从它嘴里解救可怜的玉玉心羽鲈…想玩风行迷踪？你当猎手？哼哼，很自信嘛。好吧，要是你急得打转，我会摇响银铃给你提示的，摸到我的发尖就算你赢，我也是很自信的哦。
+
+### 想要了解蓝砚·其三
+
+我头上的银饰是「银翎翦玉玄鸟」，是家中祖传的宝贝。银簪、银项圈、胸兜坠是爸爸妈妈给我的庆生礼物…噢，银手镯是有一年海灯节爷爷送的，银耳坠好像是逐月节的礼物…还有庆祝我学会用风之翼送的、庆祝我拿到神之眼送的、庆祝我吃了满满三大碗米饭送的…
+呵呵，在我们家族的传统里，银器有避邪解毒，护佑平安的作用，所以家人们总会想着法子给我添置…
+一套行头下来确实很沉呢…是沉甸甸又令人安心的爱哦。
+
+### 想要了解蓝砚·其四
+
+小时候，家里放的藤人常常让我发怵，该怎么描述好呢…黑黑灰灰的枯草随便一扎，是小孩子看了就会做噩梦的程度！当时我觉得爷爷一定是中邪了，才把我送去跟宗家的姐姐学害人的法术呢！于是半夜壮着胆子，把能找到的藤人统统烧掉了。好在吸收了病气的藤人本来就是要被焚毁的，算是没捅大篓子…
+从那时我就开始思考，如果把藤人做得可爱一些，是不是就不容易被人误解成歪门邪术了呢？
+
+### 想要了解蓝砚·其五
+
+藤编不难的，我真没骗你！再怎么复杂精妙的工艺，也离不开最简单的一行一竖，一经一纬，只要稍微有点耐心都能编出东西来！比起手艺，更难的是「细心」，再难一些，是要有「恒心」…但在我看来这些都不是最关键的，要我说，最最重要的，是「开心」。要是做起来不开心，什么事情都做不好的，我讲的不止是藤编…总之，要开心呀！我也是，你也是！
+
+### 蓝砚的爱好…
+
+之前我特别想要求证溺鬼的传说，就用棍子伸进闹水鬼的湖里…结果棍子真的被拽住了！水下面全是水草！要是下去游泳不被缠住才怪了…
+我还听说，日落后不要吃日落果，半夜时分不能对着镜子削苹果，这里头到底有什么依据呢…唔…
+
+### 蓝砚的烦恼…
+
+剪毛刺可真累人啊，既费眼睛又费手…把我十个指头都扎了个遍…呜。
+
+### 喜欢的食物…
+
+新鲜的花不仅好看好闻，做成糕饼还很好吃！清新不甜腻，再泡上一壶花茶…唔…走吧，一起去采花？不用找花篮啦，去到山里我现编一个。
+
+### 讨厌的食物…
+
+「糖也只在开心的时候吃才甜」，没心情的话吃什么都觉得差点意思…嘻嘻，好在这种情况很少发生。
+
+### 收到赠礼·其一
+
+好吃欸！稍等，我去把珍藏的纯银餐具拿出来，这才配得上这道菜嘛！
+
+### 收到赠礼·其二
+
+噢，谢谢。这里有蘸水哦，蘸着吃更美味。
+
+### 收到赠礼·其三
+
+你尝过了？肚子疼吗？眼前有小人在打转吗？
+
+### 生日…
+
+按照家里的传统，生日嘛，总得收点银器傍傍身的。喏，这两个小藤人送你，头上有银燕的是我，拿着小银剑的是你，嘻嘻，像不像？
+藤草我提前熏制过，挂在背包上可以帮你驱蚊除虫。小银饰样式也是我自己设计的，从银匠师傅手里拿回来后又仔细打磨了边角，绝对不会刮手。
+那么，祝你生辰快乐，愿福气运气常伴你左右！ / 按照家里的传统，生日嘛，总得收点银器傍傍身的。喏，这两个小藤人送你，头上有银燕的是我，戴着花的是你，嘻嘻，像不像？
+藤草我提前熏制过，挂在背包上可以帮你驱蚊除虫。小银饰样式也是我自己设计的，从银匠师傅手里拿回来后又仔细打磨了边角，绝对不会刮手。
+那么，祝你生辰快乐，愿福气运气常伴你左右！
+
+### 突破的感受·起
+
+等等，我才编了两个结你怎么就…是你太快了还是我太慢了呢…
+
+### 突破的感受·承
+
+银器要时常擦拭才能焕发光亮，人果然也要不断磨练才能「身轻如燕」呀。
+
+### 突破的感受·转
+
+握手~握手~握手~还记得吗？意思是表示开心，表示感谢，表示一切好的事情好的心情。
+
+### 突破的感受·合
+
+「燕衔泥，莫与齐」…别小瞧我哟，我的实力一路增长，如今要保护你也算绰绰有余了吧。哎呀，我知道这有不少你的功劳在里头…很感谢你！
+
+### 元素战技·其一
+
+翻飞。
+
+### 元素战技·其二
+
+穿织。
+
+### 元素战技·其三
+
+跃风。
+
+### 元素爆发·其一
+
+搬疾运厄。
+
+### 元素爆发·其二
+
+玄燕传喜。
+
+### 元素爆发·其三
+
+漫卷翩翩。
+
+### 打开宝箱·其一
+
+可以分我一些吗？沾沾喜气。
+
+### 打开宝箱·其二
+
+好消息！你快看里面有什么？
+
+### 打开宝箱·其三
+
+别急，我来数数…
+
+### 生命值低·其一
+
+给我点时间…
+
+### 生命值低·其二
+
+有人帮忙吗？
+
+### 生命值低·其三
+
+难办了…
+
+### 同伴生命值低·其一
+
+不能硬撑了，快撤下来！
+
+### 同伴生命值低·其二
+
+换我来吧，它们抓不住我。
+
+### 倒下·其一
+
+唯独现在…不能倒下…
+
+### 倒下·其二
+
+银铃…不响了…
+
+### 倒下·其三
+
+飞不起来…
+
+### 普通受击·其一
+
+别。
+
+### 重受击·其一
+
+不对头！
+
+### 重受击·其二
+
+脾气真差！
+
+### 加入队伍·其一
+
+去哪都行，不去也行。
+
+### 加入队伍·其二
+
+赶街子去喽。
+
+### 加入队伍·其三
+
+来啦来啦。

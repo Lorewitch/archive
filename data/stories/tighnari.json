@@ -140,5 +140,1072 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Привет! Меня зовут Тигнари, я страж леса Авидья, отвечаю за сохранение естественной среды тропического леса и безопасность людей в лесу. Если ты здесь впервые, советую прежде всего внимательно прочесть «Руководство по выживанию в лесу Авидья» и обратить особое внимание на главу «Как отличить съедобные грибы от ядовитых».",
+        "en": "Hi there. I'm Tighnari, Forest Watcher of the Avidya Forest. My duty is to preserve both the rainforest's ecosystem and the safety of its visitors. If this is your first time here, I suggest you first peruse the Avidya Forest Survival Guide, paying particular attention to the chapter \"Distinguishing Between Edible and Poisonous Mushrooms.\"",
+        "zh": "你好，我叫提纳里，是道成林的巡林官，负责维护雨林生态与行人安全。若你初入此地，我的建议是先通读《道成林生存指南》，并重点阅读「如何分辨可食用蕈与有毒蕈类」一章。"
+      },
+      "source_id": 69000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Закладки из листьев",
+        "en": "Chat: Leaf Bookmark",
+        "zh": "闲聊·叶片书签"
+      },
+      "text": {
+        "ru": "Если взять зелёный лист и просто придавить его сухими страницами, получится красивая и удобная закладка.",
+        "en": "If you press a leaf between dry sheets of paper, you can make an attractive and handy bookmark.",
+        "zh": "将树叶夹在干燥的纸页之间简单压制，就能做成好看又好用的书签了。"
+      },
+      "source_id": 69001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Ошибки",
+        "en": "Chat: Mistakes",
+        "zh": "闲聊·犯错"
+      },
+      "text": {
+        "ru": "Не нужно бояться ошибок, без них ничему не научишься.",
+        "en": "Don't be afraid to make mistakes. It's all part of the learning process.",
+        "zh": "不要害怕犯错，犯错也是学习过程中的一环。"
+      },
+      "source_id": 69002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Ценность знаний",
+        "en": "Chat: The Value of Knowledge",
+        "zh": "闲聊·知识的价值"
+      },
+      "text": {
+        "ru": "Ценность знаний невозможно измерить морой.",
+        "en": "The value of knowledge cannot simply be quantified in monetary terms.",
+        "zh": "知识的价值，是不能用金钱简单衡量的。"
+      },
+      "source_id": 69003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Я к такой погоде привык, а тебе лучше спрятаться под зонт.",
+        "en": "I'm used to the rain, but you should probably use an umbrella.",
+        "zh": "这种天气我已经习惯了，但你最好还是打个伞哦。"
+      },
+      "source_id": 69004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Я натираю хвост специальным эфирным маслом с защитой от влаги. Отряхнул немного, и он снова сухой!",
+        "en": "I applied a plant-based waterproofing oil to my tail. One swish and it's dry.",
+        "zh": "我的尾巴涂过用来防水的植物精油，甩甩就干啦。"
+      },
+      "source_id": 69005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Ничего себе, какой гром! Ох... Даже голова разболелась.",
+        "en": "Ah, the thunder's so loud! Ugh... My head hurts...",
+        "zh": "哎呦，好响的雷！呜…震得脑瓜疼。"
+      },
+      "source_id": 69006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Это бывает так редко! Ой, тебе холодно? Если хочешь, можешь погреть руки у меня в хвосте.",
+        "en": "I don't see weather like this very often! Oh, are you cold? If you want, you can tuck your hands into my tail.",
+        "zh": "这种天气可真少见！哎，你冷吗？冷的话可以把手埋进我的尾巴毛里。"
+      },
+      "source_id": 69007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Мои уши!.. Того и гляди вывернутся наизнанку!",
+        "en": "My ears... My ears... They're going to be blown inside out!",
+        "zh": "耳朵！…耳朵要吹翻过去了。"
+      },
+      "source_id": 69008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Ну и жара... Под таким солнцем растают даже туманные цветки... Хотя... Ничего им не будет, аха-ха-ха... Ох...",
+        "en": "Gah, it's so hot... Even a Mist Flower would melt in this heat... Ah, now that I think about it, it wouldn't... but you get what I mean, hehe... Ugh...",
+        "zh": "…好热啊…这么毒的太阳下，哪怕是冰雾花也会融化的吧…啊，仔细想想，其实不会啦，啊哈哈…唉…"
+      },
+      "source_id": 69009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Слышишь? Это капля росы сорвалась с листка.",
+        "en": "Shh, listen! That's the sound of dew dripping upon the leaves.",
+        "zh": "听！是晨露滴落叶梢的声音。"
+      },
+      "source_id": 69010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "После обеда я люблю забраться на дерево и наблюдать, как солнце играет на зелёных листьях. Иногда так засмотришься, что даже уснёшь. Хе-хе.",
+        "en": "During lunch breaks, I like to sit in a tree and admire the sunlight streaming through the canopy. If I'm not careful, I'll fall asleep... Hehe.",
+        "zh": "午休的时候我喜欢坐在树上，盯着从树枝缝隙间漏下来的阳光发呆，一不留神就会睡着…哈哈。"
+      },
+      "source_id": 69011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер. Я иду понаблюдать за лесом при свете луны. Пойдём вместе?",
+        "en": "Good evening. I'm preparing to go observe bioluminescent flora. Want to come?",
+        "zh": "晚上好。我正准备去观察夜光植被，要一起来吗？"
+      },
+      "source_id": 69012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Ложись спать, а я пока подежурю. Заодно заполню журнал патрулирования.",
+        "en": "Get some sleep. I'll be on guard duty — it'll be a good time to write today's patrol log entry.",
+        "zh": "你睡吧，我来守夜，顺便记录下今天的巡林日志。"
+      },
+      "source_id": 69013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Тигнари: Профессия",
+        "en": "About Tighnari: Profession",
+        "zh": "关于提纳里自己·专业"
+      },
+      "text": {
+        "ru": "Я учился в даршане Амурта, специализировался на ботанике. Наставник хотел, чтобы после выпуска я остался в Академии преподавать, но, если честно, мне требуется чуть более свободная среда для исследований. И ещё я не разделяю некоторые принципы, которых придерживаются учёные Академии. Хорошо, что наставник не стал меня уговаривать... Хотя я бы всё равно его не послушал.",
+        "en": "I studied botany in the Amurta Darshan. My academic adviser wanted me to join the faculty after graduation, but to be quite honest, I prefer a somewhat freer research environment. From my observations, the way that the Akademiya handles certain matters leaves much to be desired. Fortunately, my adviser didn't push the issue — heh, not like that would've worked.",
+        "zh": "我以前上学时从属生论派，主攻植物学。本来导师想让我毕业后留校任教，但说实话，我喜欢更自由一些的研究环境，而且就我的观察，教令院的某些行事作风令人不敢恭维。还好当时导师没有强求——…他强求也没用。"
+      },
+      "source_id": 69014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О Тигнари: Род",
+        "en": "About Tighnari: Kin",
+        "zh": "关于提纳里自己·族人"
+      },
+      "text": {
+        "ru": "Многие считают мой народ замкнутым и нелюдимым, и это представление появилось не на пустом месте. Нас на самом деле очень мало, и каждый второй - учёный, мы постоянно заняты своими исследованиями. Бывает, что за целый год даже хвостами друг другу не помашем. Например, папа у меня - энтомолог, последнее время он живёт в пустыне, изучает эволюционные процессы жуков. Ну не буду же я путаться у него под ногами. Стыдно признаться, но я плохо переношу палящее солнце. У меня от него все мысли плавятся.",
+        "en": "Many people think that my kind are loners, and I don't blame them for thinking that. The few of us around are mostly scholars, and we're always chasing our research — so you'd be lucky to spy a single tuft of tail fur in a whole year. Like my father, for example. He's an entomologist, and lately, he's been studying the evolution of beetles in the desert... I have no intention of joining him. I'm ashamed to admit that I don't tolerate the sun very well. Prolonged exposure turns my brain and body into mush.",
+        "zh": "确实有不少人觉得我这一族性格孤僻，也不怪他们这样想。我的族人确实数量很少，还大多是学者，总是为了研究到处跑，一年也见不到一根尾巴毛。像我爸就是昆虫学家，最近好像在沙漠里研究甲虫的古今演化过程，啊我就不跟着去凑热闹了。说来惭愧，我不擅长应付烈日。晒久了脑袋里就一团浆糊，晃晃荡荡的。"
+      },
+      "source_id": 69015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Узнать друг друга",
+        "en": "About Us: Getting Along",
+        "zh": "关于我们·相处"
+      },
+      "text": {
+        "ru": "Мне кажется, лучший способ узнать друг друга - провести вместе достаточно времени, а всё остальное - ерунда. Поэтому не пытайся сразу подать себя в выгодном свете, время всё расставит по своим местам.",
+        "en": "I believe that the best way to achieve mutual understanding with someone is to spend time with them. Other methods are less realistic. That's why there is no need to rush introductions. Time will settle everything.",
+        "zh": "我认为人与人之间相互了解的最好办法就是多花时间相处，其他的都不实际。所以不必急着自我介绍，时间会沉淀一切。"
+      },
+      "source_id": 69016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "О нас: Друзья",
+        "en": "About Us: Friends",
+        "zh": "关于我们·朋友"
+      },
+      "text": {
+        "ru": "Ты спрашиваешь, можем ли мы считаться друзьями? А что, тут нужно какое-то официальное подтверждение? Тогда давай скорее сюда своё «Удостоверение друга», я на нём распишусь.",
+        "en": "\"Are we officially friends?\" What, so this sort of thing needs official documentation now? Okay then... Well, hand over your \"friendship certificate.\" I assume it'll need my signature.",
+        "zh": "你问我们算是朋友吗？怎么，原来这种事情是需要官方认证的吗？那赶紧把你的「朋友证书」拿出来，我必须在上面签字。"
+      },
+      "source_id": 69017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Помню, в детстве я молился: если однажды мне посчастливится обрести Глаз Бога, пусть это будет Дендро. Тогда я ещё не интересовался никакими исследованиями, мне просто хотелось смастерить себе лестницу из лозы и забираться по ней на фруктовые деревья.",
+        "en": "I remember praying as a kid that if I were lucky enough to receive a Vision, it had to be a Dendro one. It wasn't because of research. I just wanted to make a vine ladder to reach high-hanging fruit.",
+        "zh": "我记得自己小时候曾经祈祷过，如果能有幸拥有「神之眼」，可一定得是草元素呀。不过那时的原因不是为了搞研究，而是想要制造藤蔓梯子，爬上去摘高处的果子吃。"
+      },
+      "source_id": 69018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Давай поделимся: Аранары",
+        "en": "Something to Share: Aranara",
+        "zh": "有什么想要分享·兰那罗"
+      },
+      "text": {
+        "ru": "Я наслышан об этих существах, но сам никогда их не видел. Иногда из глубины леса доносятся какие-то шорохи, но когда я подхожу ближе, всё стихает. И к лучшему: значит, аранары умеют себя защитить. Не то что некоторые искатели приключений: встретят в лесу леопарда Авидьи и лезут к нему пообщаться.",
+        "en": "I've heard about the Aranara for some time now, but I haven't personally seen any. Sometimes, I hear rustling sounds from the forest's depths, but they disappear when I go closer. That's a good thing, though. At least they know how to protect themselves, unlike those stupid adventurers whose first thought when they run into an Avidya Leopard is \"Ooh, maybe I'll form an inter-species friendship today.\"",
+        "zh": "我对这种生物早有耳闻，却一直没有亲眼见过。有时树林深处会有一些窸窸窣窣的响动，等我靠近时却又消失不见。这样也好，至少它们懂得如何保护自己，比那些碰见丛林豹还要上去亲切慰问的笨蛋冒险家们强多了。"
+      },
+      "source_id": 69019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Давай поделимся: Карката",
+        "en": "Something to Share: Karkata",
+        "zh": "有什么想要分享·卡卡塔"
+      },
+      "text": {
+        "ru": "Не переживай о Каркате. Я поговорил с одним знакомым матрой. Сказал, что Карката - мой ассистент, теперь без моего разрешения его никто пальцем не тронет. Хм, вижу, тебя очень беспокоит его судьба. Может, возьмёшь пару курсов в даршане Спантамад? Тогда, если меня однажды не станет, ты сможешь о нём позаботиться.",
+        "en": "Don't worry about Karkata. I told the matra I know that it's my research assistant. If anyone wants to do anything to it, they'll need to go through me. ...Since you seem to care a lot about Karkata, why don't you enroll in some courses at the Spantamad Darshan? That way, you can care for it even if I'm gone.",
+        "zh": "卡卡塔的事情你不必担心。我已经跟认识的风纪官打过招呼，说卡卡塔是我研究工作中的助手，要动它的话得先找我过问——嗯怎么，看你还挺惦记它的，要不要去素论派选些课程学学？那样就算有一天我不在了，你也能继续照管它。"
+      },
+      "source_id": 69020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Знаешь, растения отлично умеют маскироваться. Одни мимикрируют под насекомых и птиц, чтобы отпугивать естественных врагов. Другие умеют приманивать опылителей. Третьи ведут себя как настоящие хищники: завлекают добычу запахом или сладкой пыльцой... Гм, да ведь так ведут себя не только растения.",
+        "en": "Did you know that plants can camouflage themselves? Some mimic insects or birds to intimidate their natural predators, others produce bait to attract pollinators, and still others are obligate carnivores that utilize enticing fragrances or honey to lure in their prey... Hmm, I feel like I'm not just talking about plants anymore.",
+        "zh": "你知道吗？植物会伪装术。有些会拟态成昆虫或者鸟类，恐吓天敌；有些会制造诱饵，吸引其他生物为自己传播花粉；还有一些则是纯粹的捕食者，用香味或蜜糖吸引猎物上门…嗯，说到这里，感觉已经不只是植物会这样了。"
+      },
+      "source_id": 69021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Коллеи...",
+        "en": "About Collei",
+        "zh": "关于柯莱…"
+      },
+      "text": {
+        "ru": "Когда она сюда попала, то не умела толком ни читать, ни писать. Но это не беда, она очень старается и хорошо учится, у неё быстрый прогресс. Правда, она задалась целью стать хорошим врачом, а до этого ей ещё далеко. Иногда она бывает очень строга к себе... Гм, помоги ей как-нибудь при случае? Прошу тебя как её наставник. Спасибо.",
+        "en": "When that child was first brought here, she was effectively illiterate. It wasn't a huge issue, though. She's a hard worker and a diligent student, so she's made good progress. Still, her goal is to learn advanced medical techniques, so she still has a long way to go. She sometimes puts too much pressure on herself... Help her out when you can, would you? Consider it a favor for me as her mentor. Thanks a lot.",
+        "zh": "这孩子刚被带过来的时候，可以说是大字不识一个。不过问题不大。她学习勤奋，态度也认真，进步很快。只是，距离她习得精湛医术的目标还有很远的路要走。她有时会给自己很大的压力…噢，你有机会的话也多帮帮她吧？就当是我这个做师父的拜托你啦，多谢。"
+      },
+      "source_id": 69022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Сайно: Генерал махаматра",
+        "en": "About Cyno: General Mahamatra",
+        "zh": "关于赛诺·大风纪官"
+      },
+      "text": {
+        "ru": "Хочешь увидеть Сайно? Скажу тебе так: не завидую тем, кого он преследует по служебной надобности. Махаматра - человек большой, просто так с ним не повидаешься. Но иногда он появляется в окрестностях Гандхарвы, чтобы издалека посмотреть на Коллеи. Он старается, чтобы его никто не видел, но я всё равно слышу его шаги.",
+        "en": "You want to see Cyno...? Well, firstly, a word of caution: if he ever comes chasing you down for work-related reasons, prepare for the nightmare of a lifetime. Other than that, General Mahamatra is a high-ranking position, so it usually isn't easy to find him. But he does occasionally go to Gandharva Ville to see Collei. As much as he might want to stay unnoticed, he can't fool my ears.",
+        "zh": "你想见赛诺？那我丑话说在前头，被他因为公事追在屁股后面可是要倒大霉的。大风纪官毕竟位高权重，平日里还真不好找。不过他偶尔会到化城郭附近偷偷看望柯莱，就算他不想让人看见，我也能听出是他。"
+      },
+      "source_id": 69023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Об аль-Хайтаме...",
+        "en": "About Alhaitham",
+        "zh": "关于艾尔海森…"
+      },
+      "text": {
+        "ru": "Будь с ним осторожен. Я не в том смысле, что он какой-то злодей, просто им всегда и во всём руководит рассудок, и обычному человеку порой непросто это принять. Если не веришь, спроси у его соседа - иногда аль-Хайтам так выводит его из себя, что он раздувается от злости, словно настоящий Анемо слайм. / Будь с ним осторожна. Я не в том смысле, что он какой-то злодей, просто им всегда и во всём руководит рассудок, и обычному человеку порой непросто это принять. Если не веришь, спроси у его соседа - иногда аль-Хайтам так выводит его из себя, что он раздувается от злости, словно настоящий Анемо слайм.",
+        "en": "Be careful of Alhaitham. I'm not saying he's a bad guy, but he purely operates by rationality, so people often find his actions unacceptable. If you don't believe me, just ask his roommate — thanks to Alhaitham, he has more pent-up frustration than an angry Anemo Slime.",
+        "zh": "小心艾尔海森。啊，倒不是说他是什么坏蛋啦，但他做事始终被理性主导，总会有让常人觉得无法接受的地方。不信的话可以去看看他的室友，经常被他气得比风史莱姆还鼓。"
+      },
+      "source_id": 69024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Кавехе...",
+        "en": "About Kaveh",
+        "zh": "关于卡维…"
+      },
+      "text": {
+        "ru": "Кавех - известный архитектор Сумеру, его главное творение - великолепный Алькасар-сарай. Выполняя проект, Кавех даже обращался ко мне за консультацией, просил порекомендовать подходящие декоративные растения. Но когда дворец был уже построен, Кавех почему-то оказался весь в долгах. Теперь аль-Хайтам приютил его у себя дома и помог с деньгами. Не знаю, к добру это или к худу...",
+        "en": "Kaveh is a famous architect in Sumeru. The Palace of Alcazarzaray is his magnum opus. During the initial planning, he even asked me to recommend suitable ornamental flora. I don't know why or how, but he ended up heavily in debt after the palace was completed. Alhaitham is helping out by letting him stay at his place, but... I don't know whether that's a blessing or a curse...",
+        "zh": "卡维是须弥著名的建筑师，代表作就是那座醒目的卡萨扎莱宫。当初在设计建造的时候，他还来找我咨询过有没有合适的观赏植物推荐。但不知是怎么搞的，他在宫殿完工后却给自己欠了一屁股的债，目前正被学弟艾尔海森接济，借住在他家。这个…该说是幸，还是不幸呢…"
+      },
+      "source_id": 69025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Дори...",
+        "en": "About Dori",
+        "zh": "关于多莉…"
+      },
+      "text": {
+        "ru": "Знаменитая госпожа Сангема-бай. В одном из исследований мне понадобился очень редкий материал, который можно было получить только через секретные каналы Дори, так мы и познакомились. Гм... Даже не спрашивай, что это был за материал и что за исследование.",
+        "en": "The renowned Lord Sangemah Bay is none other than Dori. I became acquainted with her through a previous research project. It had required very rare materials, and the only way I could get them was through her and her mysterious supply network. Uh... never you mind what I was buying and what I was researching, thank you very much!",
+        "zh": "大名鼎鼎的桑歌玛哈巴依老爷——就是多莉啦。我能认识她，还是因为有次研究需要用到很稀有的材料，只有进货渠道成谜的多莉才能搞得到。啊那个…别问我找她买了什么，也别问我当时在研究什么，嗯。"
+      },
+      "source_id": 69026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Лайле...",
+        "en": "About Layla",
+        "zh": "关于莱依拉…"
+      },
+      "text": {
+        "ru": "Я слышал о ней. Знаменитая «Чудаковатая полуночница». Слухи о её лунатизме довольно абсурдные: нечеловеческая сила, ночной забег по деревне Аару, преодоление Стены Самиэль голыми руками... Некоторые даже говорят, что она во сне может написать работу в десять тысяч слов! Ну и небылицы.",
+        "en": "I've heard of her, the famous \"Sleepwalking Eccentric.\" The rumors about her sleepwalking are really quite absurd: feats of superhuman strength, sprinting through Aaru Village at night, scaling the Wall of Samiel with her bare hands... Some even say that she can write a 100,000-word thesis while asleep! What a load of nonsense.",
+        "zh": "我听说过她，远近闻名的「梦游怪人」。关于她「梦游」的传闻真是千奇百怪，什么怪力千斤顶啦，夜闯阿如村啦，徒手翻越防沙壁啦…甚至还有说她能边睡边写完十万字论文的！这都什么跟什么，哪也不挨哪。"
+      },
+      "source_id": 69027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Сайно много о ней рассказывал. По его словам, Лиза - незаурядная личность. Образованная, талантливая - жаль, что она так скоро вернулась в Мондштадт. Может, «знания» повернулись к ней своей пугающей стороной?..",
+        "en": "Cyno has mentioned her before — an extraordinary genius with a veritable wealth of knowledge and talent. A pity that she returned to Mondstadt so long ago. Perhaps, in the course of her study, she witnessed the horrifying side of knowledge...",
+        "zh": "我听赛诺说过他的这位师姐，是难得一见的天才，博学多闻，才华横溢，只可惜早早就回到了蒙德。难道她在进修的过程中，见到了「知识」令人畏惧的一面吗…"
+      },
+      "source_id": 69028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О малой властительнице Кусанали...",
+        "en": "About Lesser Lord Kusanali",
+        "zh": "关于小吉祥草王…"
+      },
+      "text": {
+        "ru": "Однажды в Академии я услышал такую фразу: «История растений есть история царства Дендро». Возможно, сказавший эту фразу не имел в виду ничего особенного, но мне всегда казалось, что в ней сокрыт глубокий смысл. Если однажды я повстречаю малую властительницу Кусанали, она мне всё объяснит?",
+        "en": "As a student, I once heard this saying: \"Plants and the Land of Dendro share the same history.\" It could just be one of those things that people say, but I've always felt that there's a deeper meaning to those words... If I meet Lesser Lord Kusanali one day, I wonder if she would explain them to me?",
+        "zh": "我在上学的时候曾听过这样的说法：「植物的历史，便是草之国的历史。」也许说者无心，但我总觉得此话另有深意。如果我有一天能见到小草神大人，她会给我解释吗？"
+      },
+      "source_id": 69029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Тигнари I",
+        "en": "More About Tighnari: I",
+        "zh": "想要了解提纳里·其一"
+      },
+      "text": {
+        "ru": "Ты уже освоился в тропическом лесу? Ни в коем случае не теряй бдительности, соблюдай правила безопасности и не стесняйся обращаться за помощью к Лесному дозору. / Ты уже освоилась в тропическом лесу? Ни в коем случае не теряй бдительности, соблюдай правила безопасности и не стесняйся обращаться за помощью к Лесному дозору.",
+        "en": "Are you acclimating to the rainforest? I suggest that you keep your eyes and ears open. Take care of yourself, and if anything happens, just flag down a Forest Ranger.",
+        "zh": "雨林生活还过得习惯吗？建议眼观六路，耳听八方，注意安全，有事记得找巡林员。"
+      },
+      "source_id": 69030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Тигнари II",
+        "en": "More About Tighnari: II",
+        "zh": "想要了解提纳里·其二"
+      },
+      "text": {
+        "ru": "Эх, иногда я даже завидую этим чудакам, которые ничегошеньки не знают, но всюду тянут свои руки и всё тащат в рот. Наверное, их мир полон разных «чудес», да?",
+        "en": "*sigh* Sometimes I really do envy those simpletons who go around touching and eating anything and everything. In their minds, it must feel like miracles happen every day.",
+        "zh": "哎，有时还挺羡慕那些什么都搞不清楚，还敢到处乱摸乱吃的家伙——在他们的世界里，一定处处都有「奇迹」发生吧？"
+      },
+      "source_id": 69031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Тигнари III",
+        "en": "More About Tighnari: III",
+        "zh": "想要了解提纳里·其三"
+      },
+      "text": {
+        "ru": "Как командир Лесного дозора время от времени я читаю своим подчинённым лекции. Если вдуматься, эти лекции нарушают запрет Академии на «распространение знаний», но что они мне сделают? Давайте, посадите меня под замок, посмотрим, справится ли Бимарстан с притоком новых больных, страдающих от странных недугов.",
+        "en": "To better serve the Avidya Forest, I occasionally offer training courses to the Forest Rangers. If you want to split hairs, then yes, these courses would be considered as \"dissemination of information\" by the Akademiya. But what are they gonna do — lock me up? I dare them. We'll see how many patients suffering from weird and wonderful ailments start flooding into the Bimarstan every day!",
+        "zh": "为了更好地管理道成林，我时不时会给巡林员们开设「培训」课程。要是逐字逐句深究的话，这些课程其实都算是在「传播知识」。不过教令院又能怎样呢？有本事就把我关起来，看看「健康之家」每天要多收多少千奇百怪的病患吧。"
+      },
+      "source_id": 69032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Тигнари IV",
+        "en": "More About Tighnari: IV",
+        "zh": "想要了解提纳里·其四"
+      },
+      "text": {
+        "ru": "Скажу тебе по секрету: я обожаю Большой базар. Бойкие торговцы, весёлая толпа, сцена с артистами и музыкантами. Жаль только, что мои уши плохо выносят весь этот шум. А? Ты будешь ходить за мной и прикрывать мне уши? Ха-ха, так нам будет не слишком удобно идти. Но всё равно, спасибо за предложение!",
+        "en": "I'll let you in on a secret: I actually really like the atmosphere in the Grand Bazaar. Business is booming, everyone's so lively, and the theater is full of song and dance. Unfortunately, my ears don't tolerate loud sounds very well... Huh? You'll cover my ears for me? ...It'd be way too hard to walk like that! Thanks for the thought, though.",
+        "zh": "悄悄跟你说啊，其实我很喜欢城里大巴扎的氛围。买卖兴旺，生活热闹，还有人在剧场里唱歌跳舞。但是很遗憾，嘈杂的声音对我的耳朵太不友好了。嗯？你说可以在背后帮我捂住？哈哈，那也太难走路了，但是心意我领啦。"
+      },
+      "source_id": 69033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Тигнари V",
+        "en": "More About Tighnari: V",
+        "zh": "想要了解提纳里·其五"
+      },
+      "text": {
+        "ru": "Когда я был маленьким, мне постоянно снились прекрасные и удивительные сны, но однажды я вырос, и сны навсегда исчезли, даже в памяти их не отыскать. Ты ещё видишь сны? Расскажи, что тебе снится?",
+        "en": "I had many beautiful and fantastical dreams as a child, but they vanished from my memory one day after I grew up. Do you still have dreams? Tell me about them.",
+        "zh": "我小时候做过许多美妙又奇幻的梦，但它们在我长大后的某一天，永远地消散在了记忆中。你还可以做梦吗？给我讲讲你的梦吧。"
+      },
+      "source_id": 69034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Хобби Тигнари...",
+        "en": "Tighnari's Hobbies",
+        "zh": "提纳里的爱好…"
+      },
+      "text": {
+        "ru": "В лесу Авидья часто можно увидеть опавшие листья или цветы, многие ещё совсем целые. Мне жаль оставлять их лежать на земле, и я собираю гербарий. Во-первых, гербарий - отличный учебный инструмент для подготовки дозорных. А ещё это просто красиво.",
+        "en": "Leaves and flowers often drop onto the ground of the Avidya Forest, sometimes perfectly intact. Leaving them on the ground would be such a pity... I can't help but pick them up and keep them as biological specimens. They can be used as educational materials for Forest Rangers or as decorative pieces. Very versatile.",
+        "zh": "道成林里经常有掉在地上的树叶和花朵，有些在掉落的时候还很完整，就这么扔在地上太可惜了…我总是忍不住把它们捡回来做成标本。既可以变成培训巡林员的教具，还可以当作漂亮的装饰品，一举多得。"
+      },
+      "source_id": 69035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Беспокойство Тигнари...",
+        "en": "Tighnari's Troubles",
+        "zh": "提纳里的烦恼…"
+      },
+      "text": {
+        "ru": "Беспокойство? Гм, дай-ка подумать... Загрязнение в лесу Авидья, искатели приключений, которые постоянно попадают в разные истории, собаки-спасатели, которые норовят вцепиться мне в хвост... Но это всё мелочи. А настоящих поводов для беспокойства у меня нет. Если так посмотреть, жизнь у лесных стражей довольно простая.",
+        "en": "Troubles? Let me think... Pollution in the Avidya Forest, adventurers who constantly stir up trouble, and rescue dogs that always want to mess with my tail... But these problems all have solutions. If you're talking about bigger concerns, then I really don't have any. In this regard, the life of a Forest Watcher is pretty simple.",
+        "zh": "烦恼吗？嗯，我想想…道成林中出现的污染、经常惹麻烦的冒险家、总是想要扑我尾巴的救援犬…但这些问题总有解决的办法。要说大的烦恼，还真没有。这么一看，巡林官的生活还挺简单的呢。"
+      },
+      "source_id": 69036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Странно, хотя в моих жилах течёт кровь плотоядного существа, но больше всего на свете я люблю грибы. Существует огромное множество съедобных грибов, их можно есть свежими и сухими. Ни на что не променяю этот аромат... А вкусом грибы затмевают даже тушёное мясо.",
+        "en": "This may sound strange, but although the blood of a carnivore runs through my veins, mushrooms are the one food that I can't give up. There are many species of edible mushrooms. Whether fresh or dried, they all give off a unique scent. Even when stewed with meat, it's the mushrooms' aroma that comes out on top.",
+        "zh": "说来稀奇，我身体里虽然流淌着食肉动物的血脉，但最无法割舍的食物却是蘑菇。可食用的蘑菇种类繁多，无论是新鲜的还是晾干的，都会散发独特的香味。与肉类一起炖煮时，就连肉香也要为它们让步。"
+      },
+      "source_id": 69037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Чувствительное обоняние не даёт мне наслаждаться слишком пряными блюдами. Эх, в Сумеру я многое теряю.",
+        "en": "My olfactory system is overly sensitive, so I lack the good fortune to enjoy heavily spiced foods... Quite the shame in Sumeru.",
+        "zh": "因为嗅觉太灵敏，我无福享受添加了太多香料的佳肴。唉，这在须弥可以说是重大遗憾了。"
+      },
+      "source_id": 69038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Превосходные ингредиенты, сдобренные изысканными приправами. Словом, так вкусно, что пальчики оближешь!",
+        "en": "Excellent ingredients and impeccable seasoning. In short — it's delicious.",
+        "zh": "食材优质，调味精妙，简而言之——非常好吃。"
+      },
+      "source_id": 69039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Интересное сочетание. Можешь написать мне рецепт? Включу его в меню угощений на следующем застолье нашего отряда.",
+        "en": "Nice flavor pairing. Could you give me a copy of the recipe? I want to put this on the menu for the Forest Rangers' next meal.",
+        "zh": "不错的搭配。可以请你抄份食谱给我吗？我想把它加入巡林小队下次聚餐的菜单里。"
+      },
+      "source_id": 69040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "...Может, научить тебя каким-нибудь новым рецептам?",
+        "en": "...Do I need to teach you some new recipes?",
+        "zh": "…需要我教你一些新菜吗？"
+      },
+      "source_id": 69041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения! Я решил подарить тебе бонсай, который как раз расцвёл, к нему прилагается руководство по уходу. Если с ним вдруг что-то случится, не стесняйся просить помощи, на этот бонсай распространяется «Пожизненное обслуживание от Лесного дозора».\nЗнаешь, к твоему дню рождения распустилось столько цветов, я долго не мог выбрать. В следующем году подарю какой-нибудь другой!",
+        "en": "Happy birthday! I picked out a potted plant in full bloom for you, along with a gardening guide. If anything happens to it, don't hesitate to find me at any time. This plant comes with a Forest Watcher lifetime guarantee.\nI'll have you know a lot of flowers are in season on your birthday. It took me forever to choose one. I'll get you a different species next year!",
+        "zh": "生日快乐！我选了一盆今日花期正盛的盆栽给你，另附养花指南。万一它之后出现任何问题，都请不要客气，随时找我，它有「巡林官终生保育凭证」。\n你知道吗，在你生日时开的花可多了，我挑了好久呢。等到明年，再送你新的品种吧！"
+      },
+      "source_id": 69042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Семена прорастают и пускают корни.",
+        "en": "Germinating seeds break through the soil and take root.",
+        "zh": "种籽萌发，破土生根。"
+      },
+      "source_id": 69043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Ростки тянутся к солнцу, появляются первые листья.",
+        "en": "Seedlings grow, reaching out with their branches and leaves.",
+        "zh": "幼苗拔高，开枝展叶。"
+      },
+      "source_id": 69044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Почки набухают, и распускаются цветы.",
+        "en": "Branches dotted with flower buds herald the advent of spring.",
+        "zh": "花蕾满枝，杏雨梨云。"
+      },
+      "source_id": 69045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Плоды с каждым днём тяжелеют.",
+        "en": "A rich harvest that will lead to even richer ones.",
+        "zh": "硕果丰熟，来日更盛。"
+      },
+      "source_id": 69046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Деревья заслоняют лес.",
+        "en": "One with the forest.",
+        "zh": "一叶障目。"
+      },
+      "source_id": 69047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Фокус!",
+        "en": "Enshroud!",
+        "zh": "障眼法！"
+      },
+      "source_id": 69048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Что, ничего не видно?",
+        "en": "Can't see?",
+        "zh": "看不清了吧？"
+      },
+      "source_id": 69049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Вырвать корни!",
+        "en": "I'll uproot you!",
+        "zh": "斩草除根！"
+      },
+      "source_id": 69050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Обрубить все ветки!",
+        "en": "Let's nip that in the bud!",
+        "zh": "蔓引株连！"
+      },
+      "source_id": 69051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Я слышу всё!",
+        "en": "I hear everything!",
+        "zh": "声音，我听见了。"
+      },
+      "source_id": 69052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Не отставай.",
+        "en": "Keep up.",
+        "zh": "跟紧了。"
+      },
+      "source_id": 69053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Откуда здесь сундук?",
+        "en": "Why is there a chest here?",
+        "zh": "这里怎么会有宝箱？"
+      },
+      "source_id": 69054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Наверное, можно не обращаться в бюро находок.",
+        "en": "Erm... I think we can forgo the lost-and-found report.",
+        "zh": "这个，应该不用写失物招领吧。"
+      },
+      "source_id": 69055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Приятный запах.",
+        "en": "*sniff* Smells like something good is inside.",
+        "zh": "闻起来有好东西哦。"
+      },
+      "source_id": 69056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Ай, вот же...",
+        "en": "Ugh, what a drag.",
+        "zh": "唉，真是麻烦。"
+      },
+      "source_id": 69057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Даже хвост распушился...",
+        "en": "My tail's all messed up...",
+        "zh": "尾巴毛都乱了…"
+      },
+      "source_id": 69058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Пора выполоть эти сорняки.",
+        "en": "Time to pull some weeds.",
+        "zh": "该清杂草了。"
+      },
+      "source_id": 69059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Здесь нужен врач.",
+        "en": "Go get yourself patched up.",
+        "zh": "快去疗伤。"
+      },
+      "source_id": 69060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "На кону твоя жизнь.",
+        "en": "Safety first.",
+        "zh": "救人要紧。"
+      },
+      "source_id": 69061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Опавшие листья... Вернутся к корням...",
+        "en": "Dust... to dust...",
+        "zh": "叶落…归根…"
+      },
+      "source_id": 69062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Мои исследования...",
+        "en": "I've not finished... my research...",
+        "zh": "还有未完成的研究…"
+      },
+      "source_id": 69063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Я не увидел, как распускаются цветы...",
+        "en": "Flowers haven't bloomed yet...",
+        "zh": "没能等到花开…"
+      },
+      "source_id": 69064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Ох.",
+        "en": "Excuse me?",
+        "zh": "哎呦。"
+      },
+      "source_id": 69065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Получен лёгкий удар II",
+        "en": "Light Hit Taken: II",
+        "zh": "普通受击·其二"
+      },
+      "text": {
+        "ru": "И всё?",
+        "en": "Who do you think you are?",
+        "zh": "行啊？"
+      },
+      "source_id": 69066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Да что ж такое!",
+        "en": "One thing after another!",
+        "zh": "没完没了！"
+      },
+      "source_id": 69067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Я тебя закопаю!",
+        "en": "I'll bury you.",
+        "zh": "等着入土吧！"
+      },
+      "source_id": 69068
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Я покажу дорогу.",
+        "en": "I'll lead the way.",
+        "zh": "我来领路。"
+      },
+      "source_id": 69069
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Эй! Кто опять наелся ядовитых грибов?",
+        "en": "*sigh*... Who ate a poisonous mushroom this time?",
+        "zh": "唉！有谁又吃毒蘑菇了吗？"
+      },
+      "source_id": 69070
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Идём собирать новые образцы!",
+        "en": "Let's go gather some samples!",
+        "zh": "走，去采些样本！"
+      },
+      "source_id": 69071
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "О Сайно: Хороший вопрос",
+        "en": "About Cyno: Good Question",
+        "zh": "关于赛诺·为什么呢"
+      },
+      "text": {
+        "ru": "После спасения моего наставника я отправил ему письмо, чтобы справиться о его здоровье. К моему удивлению, он ответил, что кто-то уже лично передал ему мои пожелания. А закончил он письмо вопросом: «Почему генерал махаматра сказал, что собирается использовать всю мощь Сумеру, чтобы восстановить репутацию мудрецов?»\n...Хороший вопрос. Действительно, почему?",
+        "en": "After my adviser's rescue, I wrote him a letter to send my regards. To my surprise, he wrote back saying that someone had already given him my regards in person. He ended the letter with a question \"The General Mahamatra said he hopes that the sages will enjoy 'a more tasteful reputation' thanks to the efforts of our Darshan. Whatever do you suppose he meant by 'a more tasteful reputation'?\" ...It's a good question. I'd like to know, too.",
+        "zh": "在导师被救出来后，我给他写了一封问候信，但没想到导师说已经有人以我的名义拜访过他了，并在回信的结尾附上了一个问题：「为什么大风纪官说要靠须弥『强威』重振贤者们的名望？」\n…问得好，到底是为什么呢。"
+      },
+      "source_id": 69072
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "О Дэхье...",
+        "en": "About Dehya",
+        "zh": "关于迪希雅…"
+      },
+      "text": {
+        "ru": "Всё так быстро случилось, что у меня совсем не было возможности её как следует поблагодарить. Это большая удача - иметь рядом такого способного и надёжного человека. Уверен, что многие пытались переманить её на свою сторону, но не похоже, чтобы Дэхью интересовала служба в Академии или Лесном дозоре. Так что я не буду напрашиваться на неизбежный отказ.",
+        "en": "Everything happened so fast, and I didn't get the chance to properly thank her. To have a capable and reliable person like her on your side is extremely fortunate. I'm sure she must have many groups trying to persuade her to join their ranks. But she definitely doesn't strike me as the kind of person who would be interested in joining the Akademiya or the Forest Rangers, so I'll spare myself the inevitable rejection.",
+        "zh": "之前情况危急，都没来得及好好向她道谢。能有这样强大又可靠的同伴是件非常幸运的事情，想要拉拢她的人一定不少。不过迪希雅看上去不像是愿意加入教令院或者巡林队的样子，我就不去自讨没趣了。"
+      },
+      "source_id": 69073
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "О Фарузан...",
+        "en": "About Faruzan",
+        "zh": "关于珐露珊…"
+      },
+      "text": {
+        "ru": "Профессор Фарузан обладает обширными познаниями. Я часто приглашаю её осмотреть разные механизмы в тропическом лесу... Надеюсь, во время следующего своего визита она не станет тайком подсовывать Коллеи разные угощения. Пища подобна лекарству, в питании главное - умеренность, а переедание ещё никому не шло на пользу.",
+        "en": "Madam Faruzan possesses an extensive wealth of knowledge. I often invite her to inspect the mechanisms in the rainforest. The next time she's in Gandharva Ville... *sigh* I hope she doesn't sneak Collei more food. Nutrition is like medicine: moderation is key.",
+        "zh": "珐露珊前辈见识广博，我经常邀请她来检查雨林里的机关…只是希望下次她来化城郭的时候，不要再给柯莱偷偷塞吃的了——营养就跟药剂一样得均衡适量，过剩了可没好处。"
+      },
+      "source_id": 69074
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "О Сетосе...",
+        "en": "About Sethos",
+        "zh": "关于赛索斯…"
+      },
+      "text": {
+        "ru": "Сетос? Довольно интересный человек. Он словно дальний родственник Сайно. С ним очень легко найти общий язык. В прошлый раз, когда он приезжал к нам в Гандхарву, то настоял на том, чтобы продемонстрировать свои навыки установки палатки, и устроил с Сайно соревнование по рыбной ловле. Коллеи очень расстроилась, потому что думала, что ей там больше не место...\nВсе говорят, что Сетос умеет развлечь себя - он и правда выглядит довольно жизнерадостным. Но к своей работе он относится очень серьёзно. Хм, хотя я не знаю, насколько верно в данном случае употреблять слово «работа». Мне кажется, он воспринимает свою роль в Храме Молчания скорее как некий долг. В общем, если тебе когда-нибудь понадобится помощь в пустыне, я уверен, он будет рад помочь.",
+        "en": "Sethos? Pretty interesting guy. He's like a distant cousin of Cyno's. Really easy to get along with. Last time he visited us in Gandharva Ville, he insisted on showing off his tent-pitching skills and had a fishing competition with Cyno. Collei got really upset, because she thought there was nothing for her to do anymore...\nPeople say Sethos is good at keeping himself amused — he certainly seems pretty cheerful. But he takes his work very seriously. Hmm, although I don't know how accurate \"work\" is — I think he sees his role at the Temple of Silence as more of a kind of duty. Anyway, if you ever find yourself needing assistance in the desert, I'm sure he'd be a good person to go to.",
+        "zh": "你说赛索斯？他很有意思，有点像赛诺的远房亲戚，而且很好相处。上次他来化城郭作客，抢着要秀一手搭帐篷的技术，还跟赛诺争着捞鱼，柯莱觉得自己的工作被替代了，很郁闷呢。\n大家都说赛索斯很擅长逗自己开心，过得很快活，工作起来又很认真。噢，说工作好像不太贴切，缄默之殿的事对他而言，比起工作更像是义务。如果你在沙漠需要帮助，可以找他。"
+      },
+      "source_id": 69075
+    }
+  ],
+  "replica_count": 76
 }

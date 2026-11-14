@@ -144,5 +144,960 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Меня зовут Тиори, я владелица «Дома Тиори». Если вам нужна одежда на заказ, пожалуйста, обращайтесь. Что касается иных вопросов, всё зависит от того, что вы предложите в обмен. Бизнес есть бизнес - сделка должна быть выгодной. Кроме того, в «Доме Тиори» строго запрещено курить, пить и дебоширить. В таких случаях принцип «клиент - король» не применим. Даже если придёт настоящий король, но не будет следовать правилам, то он окажется на тротуаре, как и любой другой.",
+        "en": "I am Chiori, the owner of Chioriya Boutique. Feel free to find me if you'd like to commission any tailor-made outfits. As for any other requests, it all depends on whether you have enough to offer in exchange. Just the rules of the \"business\" — you scratch my back, and I'll scratch yours. Also, smoking, drinking, and causing a ruckus are all strictly prohibited within the Boutique. That whole \"the customer is king\" concept doesn't fly here... And even when royalty does come into the shop, if they don't adhere to the rules, they'll find themselves being tossed out and kissing the pavement just like anyone else.",
+        "zh": "我叫千织，「千织屋」的老板。有服装定制类需求的话，欢迎找我。其他需求，就看你有没有足够用来交换的东西了，有来有回才叫「生意」嘛。另外，「千织屋」内严禁抽烟喝酒，寻衅闹事。「顾客即是神明」那一套在我这里不管用，就算来的真是神明，不守规矩被丢出去的时候，也一样是屁股着地。"
+      },
+      "source_id": 94000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Критика",
+        "en": "Chat: Criticism",
+        "zh": "闲聊·评价"
+      },
+      "text": {
+        "ru": "Я сама решаю, как мне жить дальше и кем быть. Никто мне не указывает, что делать.",
+        "en": "It's up to me to decide who I want to be and to cut my own path. No one can tell me what to do.",
+        "zh": "我来决定自己该怎么走，要成为谁。没人能对我指手画脚。"
+      },
+      "source_id": 94001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Портновский нож",
+        "en": "Chat: Tailor's Cutters",
+        "zh": "闲聊·裁缝刀"
+      },
+      "text": {
+        "ru": "Кто сказал, что кроить одежду обязательно ножницами? Жёсткие правила ни к чему. Мне нравится пользоваться собственными инструментами.",
+        "en": "Who says you have to use scissors to cut clothes? Leave those rigid rules behind. I much prefer using my own cutting tools.",
+        "zh": "谁说裁衣服一定要用剪刀？那些死板的规矩由它去吧，我喜欢自己用着顺手的刀具。"
+      },
+      "source_id": 94002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Модель",
+        "en": "Chat: Modeling",
+        "zh": "闲聊·模特"
+      },
+      "text": {
+        "ru": "Если собираешься стоять на месте, может, побудешь моей моделью? Я создам для тебя красивый костюм.",
+        "en": "If you really like standing around like this, then why don't you just model for me? I'll design some wonderful clothes for you.",
+        "zh": "真要站着不动的话，干脆来当我的模特吧。给你设计款好看的衣服。"
+      },
+      "source_id": 94003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Хуже дождя только грязные лужи. Так сложно отмыть испачканную одежду.",
+        "en": "It's not so much the rain that bothers me, but the mud. It's always such a pain to wash it out of my clothes.",
+        "zh": "比起下雨，我更讨厌地上泥水，溅到衣服上就很难洗掉。"
+      },
+      "source_id": 94004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "...Я вспоминаю родину.",
+        "en": "...This reminds me of home.",
+        "zh": "…想起了家乡往日的风景。"
+      },
+      "source_id": 94005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Он кружится, падая с небес, и манит своей чистотой... Но как только касается рук, красота его тает... Знаешь, между снежинками и модой больше общего, чем я думала...",
+        "en": "The way it comes floating from on high makes you want to reach out for it... But the moment it lands on your hand, its beauty dissipates... Hmm, I suppose there are more similarities between snowflakes and fashion than I thought...",
+        "zh": "清高却令人向往…落到手上的一瞬，这份美丽又随之消散…雪花这东西，和「时尚」还真像…"
+      },
+      "source_id": 94006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "В пустыне...",
+        "en": "In the Desert",
+        "zh": "在沙漠的时候…"
+      },
+      "text": {
+        "ru": "Как же мне здесь моду продвигать...",
+        "en": "Hmm, just how can I market high fashion here...",
+        "zh": "真难想象这种地方要怎么推行时尚。"
+      },
+      "source_id": 94007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Не ждите, что я приготовлю вам завтрак. Если пойдёшь в кафе, прихвати мне чашку кофе. Без молока и сахара.",
+        "en": "Morning. Don't expect me to make breakfast for you. But if you're going to the café, be a darling and bring me a cup of coffee. Black. No cream, no sugar.",
+        "zh": "早，别指望我会给你变出早饭来。你如果去咖啡厅的话就帮我带一杯咖啡来吧，不加奶，不加糖。"
+      },
+      "source_id": 94008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Уже время обеда? Я совсем не хочу есть... Не буду сейчас от работы отвлекаться. Пообедай без меня.",
+        "en": "Is it lunch time already? I'm not even hungry yet... I don't plan on taking a break now. You go ahead.",
+        "zh": "已经这个点了？肚子完全不饿啊…我不打算停下手头的活。午饭你自己吃就好。"
+      },
+      "source_id": 94009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "На улицах так шумно. Весь Кур-де-Фонтейн по магазинам решил пойти?",
+        "en": "It's so noisy out there. Has everyone in the entire Court of Fontaine decided to go out this evening?",
+        "zh": "外面好吵。全枫丹廷的人都出来逛街了吗？"
+      },
+      "source_id": 94010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Я собираюсь принять расслабляющую ванну. Увидимся завтра.",
+        "en": "I'm going to go relax by taking a nice, long bath. Well, I'll see you tomorrow.",
+        "zh": "我要去好好泡个澡放松一下。不多聊了，明天见。"
+      },
+      "source_id": 94011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О себе: Прямота",
+        "en": "About Chiori: Directness",
+        "zh": "关于自己·直接"
+      },
+      "text": {
+        "ru": "Многие тайно и в открытую говорили, что у меня плохой характер, что я недостаточно вежливо разговариваю и легко раню людей. Я считаю, что любезности, вежливости и комплименты - лишняя трата времени. Если ты обижаешься на правду, значит, ты слишком ранимый.",
+        "en": "Many have expressed displeasure both publicly and privately about my personality, and have complained that my words can be hurtful. But, if you ask me, all those showy pleasantries, greetings, and compliments are far more of a waste of everyone's time. If simply stating the facts seems hurtful, then perhaps they are too insecure.",
+        "zh": "很多人明里暗里表达过我的性格不够好，说话不够委婉，容易伤人。依我说，那种谁都看得出来的寒暄、客套和恭维才是在浪费彼此的时间吧？要是挑明事实就会受伤，那人也太脆弱了。"
+      },
+      "source_id": 94012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О себе: Концепция",
+        "en": "About Chiori: Brand Vision",
+        "zh": "关于自己·理念"
+      },
+      "text": {
+        "ru": "Начав работать над концепцией своего бренда, я вспоминала о событиях прошлого и на их основе придумала много ключевых слов для слогана. Трудность заключается в том, чтобы выбрать только одну фразу, ведь в каждом слове отражается какая-то сокровенная часть меня... Но среди них надо найти те, что лучше всего представляют меня как целое.\n«Никогда не признавать поражение». Это я. Это мой бренд.",
+        "en": "When I first started conceptualizing the idea of my brand, I reflected on many of my past experiences, and came up with a lot of phrases for the brand's slogan. It's difficult to pick only one phrase for the brand, especially when you realize that every word reflects on a deeply treasured part of yourself... but you can only choose that which best represents you.\n\"Never admit defeat.\" That's me. That's my brand.",
+        "zh": "最初构想品牌理念的时候，我想到了很多过去的经历，也由此提炼出了不少关键词。取舍是一件难事，尤其是你发现每一枚宝石都折射着你的一种想法…而你只能挑选最能代表你的那一枚。\n「永不认输」。那才是我，才是我的品牌。"
+      },
+      "source_id": 94013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Примерка",
+        "en": "About Us: Fitting",
+        "zh": "关于我们·试衣"
+      },
+      "text": {
+        "ru": "Поверь, тебе очень идёт. Что? Впервые видишь такой фасон? Это потому, что ты никогда не встречал модельера со вкусом. / Поверь, тебе очень идёт. Что? Впервые видишь такой фасон? Это потому, что ты никогда не встречала модельера со вкусом.",
+        "en": "Take it from me — this one looks good on you. Hmm? You've never seen a style like this before? Aw, that's because you've never met a designer with taste before.",
+        "zh": "听我的，这件适合你。什么？之前没见过这样的款式？呵，那是你之前遇到的设计师没品味。"
+      },
+      "source_id": 94014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Общение",
+        "en": "About Us: Exchange",
+        "zh": "关于我们·交换"
+      },
+      "text": {
+        "ru": "Сейчас, пожалуй, поздно об этом сообщать, но я всегда говорю, что у меня на уме. Ты, наверное, уже привык. Я так выражаю свои мысли, и меняться не собираюсь. Со мной ты тоже можешь не скрывать своё настоящее «я», будь собой. Обещаю, что никогда не буду упрекать тебя за это. Не веришь? Мы давно уже знакомы, разве я когда-нибудь нарушала слово? / Сейчас, пожалуй, поздно об этом сообщать, но я всегда говорю, что у меня на уме. Ты, наверное, уже привыкла. Я так выражаю свои мысли, и меняться не собираюсь. Со мной ты тоже можешь не скрывать своё настоящее «я», будь собой. Обещаю, что никогда не буду упрекать тебя за это. Не веришь? Мы давно уже знакомы, разве я когда-нибудь нарушала слово?",
+        "en": "I know you probably already know this, but I always just say what's on my mind. Maybe you've already grown accustomed to it, but that's just how I express myself, and I'm not going to change. You should also always act like yourself around me — there's no need to hide anything. I promise I'll never criticize you for who you are. Hmm? Don't believe me? After all this time together, have you ever seen me not keep my word?",
+        "zh": "事到如今再说这话有点晚了，但我向来是想说什么就说什么，你恐怕也习惯了。我不打算改变自己直来直往的作风，你也尽管在我面前表露最真实的自己吧，无须掩藏。我保证不会对你有所指摘。不信？你认识我那么久，我有说到但做不到的时候吗？"
+      },
+      "source_id": 94015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Я родилась в Инадзуме, поэтому люди Фонтейна прозвали меня «Громоподобной закройщицей». Если им так нравится, пусть называют. Я не питаю никакой привязанности к своей родине. Ведь всё, включая мой Глаз Бога, я получила только после того, как решила покинуть Инадзуму.\nНе то что бы я ненавидела острова, где ткань никогда полностью не высыхает, но я не вижу ни одной причины возвращаться.",
+        "en": "Because I was born in Inazuma, the people of Fontaine have dubbed me \"The Thundering Seamstress.\" If that's what they want to call me, then that's what they can call me. I have no lingering affection for my homeland. After all, everything, including my Vision, only came to me after I decided to leave Inazuma.\nOh, but that's not to say that I actively dislike those islands where fabric never fully dries. It's just that I haven't found any reason to go back.",
+        "zh": "因为我的出身，枫丹人称呼我为「鸣雷的裁锦师」。爱怎么称呼怎么称呼吧，我对故乡没什么依恋的感情，毕竟就连我的「神之眼」，都是在我决定离开稻妻时获得的。\n但我也不讨厌那个晒不干布料的地方，对我来说，只是没必要回去而已。"
+      },
+      "source_id": 94016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "В детстве родители отправляли меня на разные курсы, чтобы мне было куда тратить свою энергию. Одним из курсов было обучение искусству владения мечом. Но через некоторое время я вдруг почувствовала, что техника сражения двумя мечами мощная и очень мне нравится. Вскоре ко мне подошёл инструктор и сказал, чтобы я прекратила тренироваться, используя эту технику. Когда я спросила почему, он ответил, что это не стандартная техника владения мечом и что она «неправильная». Больше я на эти занятия никогда не ходила. Теперь, вспоминая об этом, я очень рада, что настояла на том, чтобы следовать по собственному пути. Возможно, я из тех, кому нужно, чтобы обе руки были заняты.",
+        "en": "When I was a kid, my parents would send me to a variety of activities to help expend my energy. One such activity was learning the art of the sword. But after some time, I suddenly felt that a dual wielding technique was really strong and impressive. It wasn't long before the instructor approached me and told me to stop practicing using that technique. When I asked him why, all he said was that it wasn't the standard sword technique, and that it was \"improper.\" After that, I never attended his class again. Now that I think about it, it's fortunate that I insisted on following the way I preferred. Perhaps I'm just the sort who needs to keep both my hands busy.",
+        "zh": "为了治我小时候好动的性格，父母送我去学过很多东西，「剑道」就是其中之一。但学了一阵子后，我突然觉得双手用刀很称我意，也很厉害，结果却被剑道老师制止了。我问他为什么，他只说这不是主流刀法，有些「不伦不类」。自那之后，我就再没去上过他的课。现在想想，当初坚持自己喜欢的用法真是太好了。或许，我天生就是两只手都闲不下来吧。"
+      },
+      "source_id": 94017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Тамото - мой первый шедевр. Я тогда захотела сшить похожую на меня куклу, чтобы она была мне моделью и помощницей. А? Компаньон? Нет, мне это не нужно.",
+        "en": "Tamoto is my first masterpiece. At the time, I was just thinking to stitch together a puppet girl who looked like me to be my model and assistant. Huh? What about a companion? No, I have no need for that.",
+        "zh": "「袖」是我的第一件作品，那时只想缝一个跟自己差不多模样的女孩，作为模特和帮手。嗯？陪伴？我没这种需要。"
+      },
+      "source_id": 94018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Навии...",
+        "en": "About Navia",
+        "zh": "关于娜维娅…"
+      },
+      "text": {
+        "ru": "Она меня раньше умоляла создать для неё всякие странные штуки. Например, маленькие короны для каждой ручки на штурвале корабля... Я на её просьбу только глаза закатила и сказала, что разве что сделаю для неё дизайн шляпы в виде корабля.\nТе, кто говорит, что я опередила своё время, явно с ней ещё не общались.",
+        "en": "She used to beg me to help her design all kinds of strange things. For example, little crowns for every handle on a ship's helm... I couldn't help but roll my eyes at her request, and tell her that the most I would do is design her hat like a boat.\nThose who say I'm ahead of my time have clearly never spoken to her.",
+        "zh": "她曾经很认真地「拜托」我设计各种奇奇怪怪的东西，比如为船舵的每个把手都设计一个不同的头冠。那时我忍不住翻了个白眼，说我最多把她的帽子设计成一条船。\n那些说我想法超前的人恐怕是没跟娜维娅聊过天。"
+      },
+      "source_id": 94019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Лини...",
+        "en": "About Lyney",
+        "zh": "关于林尼…"
+      },
+      "text": {
+        "ru": "Шляпу, которая скрывает множество секретов, я сделать не могу, а вот он со своей магией может. Иногда мне даже интересно, каково это - носить шляпу набитую всякими тайнами. Но мне это всё было бы ни к чему - проще всего жить, говоря напрямую, что думаешь.",
+        "en": "I can't make a hat that could hide secrets, but it seems Lyney can enchant his hat to do just that... I'm a little curious about how it feels to wear a hat full of so many tricks and secrets like his. As for me, I don't need the burden of all that, it's easiest to just say what's on my mind.",
+        "zh": "我做不出一顶能隐藏秘密的礼帽，但他通过魔术可以。有时我很好奇，他的帽子里装了那么多的秘密，戴起来会是什么感觉。对我来说，还是想到什么就说出来会比较轻松。"
+      },
+      "source_id": 94020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Линетт...",
+        "en": "About Lynette",
+        "zh": "关于琳妮特…"
+      },
+      "text": {
+        "ru": "Ассистентка иллюзиониста немногословна, но мне она доверяет. Похоже, кошкам я нравлюсь...",
+        "en": "The magician's assistant sure doesn't say much, but I know she trusts me. You know, I sure get a lot of love from cats...",
+        "zh": "这位助手小姐不太说话，但她很信任我。我似乎很讨猫喜欢啊…"
+      },
+      "source_id": 94021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Шарлотте...",
+        "en": "About Charlotte",
+        "zh": "关于夏洛蒂…"
+      },
+      "text": {
+        "ru": "Как-то Шарлотта пришла в магазин в надежде взять у меня интервью. Я ей сказала, что смысла в этом нет, ведь ничего нового не случилось. Но как только она собралась уходить, в магазин ворвался пьяница и начал буянить. Она всё это записала... Какой провал. Я только слышала, как репортёры гоняются за новостями, но теперь, похоже, новости сами за репортёрами бегают.",
+        "en": "One time, Charlotte came into the shop, hoping to do an interview with me. I told her there was no point, because there was nothing new to talk about. But just as she was leaving, a drunkard came stumbling into the shop and started causing trouble. She recorded the whole thing... What a fiasco. I've heard of journalists chasing leads, but now it seems news chases the journalists.",
+        "zh": "有次夏洛蒂来店里想采访我，我说别了又没什么新鲜事。结果她刚一出门，就有个醉汉来店里闹事，被她记录下了全程…真是见了鬼了。只听说过记者追新闻，现在还有新闻会追记者？"
+      },
+      "source_id": 94022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Шеврёз...",
+        "en": "About Chevreuse",
+        "zh": "关于夏沃蕾…"
+      },
+      "text": {
+        "ru": "Работать и разговаривать с Шеврёз так легко, что каждый раз, когда я с ней прощаюсь и возвращаюсь к клиентам, мне нужно некоторое время, чтобы настроиться на верный лад.",
+        "en": "Working with Chevreuse and talking with her are a cinch. So easy, in fact, that whenever I say goodbye to her and return to tending to my customers again, it takes me a moment to shift gears mentally.",
+        "zh": "和夏沃蕾的合作与谈话都很省力。这导致每次跟她告别，重新面对顾客的时候，我都有种不适应的感觉。"
+      },
+      "source_id": 94023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Об Эмилии...",
+        "en": "About Emilie",
+        "zh": "关于艾梅莉埃…"
+      },
+      "text": {
+        "ru": "Духи Эмилии очень популярны. Мы заключили договор, по которому она поставляет в «Дом Тиори» небольшие партии духов, над которыми работает. Потом Элоф тайно распыляет их в примерочной, и я сообщаю Эмилии об отзывах покупателей. За всё это время ни разу не было случая, чтобы посетитель сказал, что в примерочной странно пахнет. И вообще, они обычно все подходят спросить, где можно купить такой же аромат. Из любопытства я всегда покупаю флакончик, когда в её магазине появляется новый аромат. Должна сказать, что духи, которые всегда дарят ощущение свежести, - это настоящие произведения искусства.",
+        "en": "Emilie's perfumes are very popular. We have a business agreement where I ask her to deliver small quantities of perfume she's working on to Chioriya Boutique. I let Eloffe secretly spray the perfume in the fitting room, and then I'll let her know any feedback I get from the customers. Even after all this time, I've never once had a customer ever say that my fitting room smelled strange. In fact, they usually come one after another to ask where they can buy the fragrance. Out of curiosity, I always buy a bottle when she brings them to sell in her shop. I have to say that such fragrances which can always bring a sense of refreshment are truly works of art.",
+        "zh": "艾梅莉埃的香水很受欢迎。出于商业合作，我会请她将试做中的香水小样送到「千织屋」，让爱洛芙悄悄喷在顾客们使用的试衣间，然后我再将顾客们的反馈告诉她。但这么长时间下来，没有一位顾客说我试衣间里的味道奇怪，反倒是纷纷来问我店里的香水哪里有卖。出于好奇，每次她发售香水成品的时候，我也会买一瓶来闻闻。不得不说，那种每次都能品出新鲜感的香味，实为天才之作。"
+      },
+      "source_id": 94024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Ризли...",
+        "en": "About Wriothesley",
+        "zh": "关于莱欧斯利…"
+      },
+      "text": {
+        "ru": "Некоторые друзья и партнёры упоминали о нём. Я восхищаюсь его навыками управления и дипломатии, но сама я, конечно, не намерена менять то, как веду свои дела.",
+        "en": "Yes. Some of my friends and partners have mentioned him to me before. I admire his skills at management and diplomacy, but I certainly have no intention of changing my way of doing things.",
+        "zh": "一些朋友和合作者向我聊起过他，我很佩服他的手腕，但我也没打算改变自己的做事方式。"
+      },
+      "source_id": 94025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Кираре...",
+        "en": "About Kirara",
+        "zh": "关于绮良良…"
+      },
+      "text": {
+        "ru": "Когда я ещё жила в Инадзуме, там была кошка с зелёными глазами, которая постоянно за мной ходила, когда я шла на природу в поисках вдохновения. Её очень интересовали цвета и узоры ткани, которую я носила с собой. Она даже подходила и тёрлась о мои ноги, когда была в хорошем настроении.\nПотом я снова увидела и сразу узнала эти зелёные глаза, но они принадлежали девушке с двумя хвостами. Взгляд, которым она смотрит на новые интересные вещи, совсем не изменился за все эти годы.",
+        "en": "While I was still in Inazuma, there was a cat with green eyes that always liked to follow me whenever I went out into the wild in search of inspiration. The kitty seemed to be very interested in the colors and patterns of the fabric I was carrying. She would even come up and rub her head against my legs when she was in a good mood.\nLater, I recognized those green eyes again, but on a girl with two tails. The way she gazed at new and intriguing things still had not changed after so many years.",
+        "zh": "从前在稻妻，我到野外找设计灵感的时候，总有只绿眼睛的猫喜欢跟在我身边。那家伙好像对我手上布料的颜色和花纹很感兴趣，心情好了还会蹭蹭我的小腿。\n后来，我一眼就认出了这个绿眼睛、背后还长着两条尾巴的女孩。她看那些新奇东西的眼神，这么多年就没有变过。"
+      },
+      "source_id": 94026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Камисато Аяке...",
+        "en": "About Kamisato Ayaka",
+        "zh": "关于神里绫华…"
+      },
+      "text": {
+        "ru": "Если бы я не любила так играть в детстве, то никогда бы не познакомилась с молодой госпожой клана Камисато. Как-то раз я забралась в их двор, а её тэмари как раз подкатился к стене. Было заметно, что она одновременно и удивлена, и рада меня встретить. Мы довольно долго вместе играли и болтали, но в итоге меня обнаружили. Так наша недолгая дружба закончилась тем, что меня вышвырнули за ворота.",
+        "en": "If I wasn't always slipping away to go play when I was a child, I probably would never have had the chance to meet the young lady of the Kamisato Clan. There was one time when I climbed my way into the Kamisato Clan's courtyard, and her Temari just happened to roll over towards the wall. I could tell that she was both surprised and happy to see me. We played together and chatted for quite some time, but I was discovered in the end. And so, our brief friendship came to an end as I was kicked off the premises.",
+        "zh": "如果不是儿时贪玩，我恐怕也不会有机会认识这位神里家的大小姐。有次我翻进了神里家的院子，她的手鞠恰好滚到墙边。她见到我时既惊讶又兴奋，我陪她玩了好一会儿，又聊了很久的天…但最后我还是被人发现了，于是这短暂的友情就以我被人提了出去而告终。"
+      },
+      "source_id": 94027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Тиори I",
+        "en": "More about Chiori: I",
+        "zh": "想要了解千织·其一"
+      },
+      "text": {
+        "ru": "Не думаю, что у меня такой уж плохой характер, как некоторые говорят. Я не люблю тратить время на пустяки, вот и всё. Но почему-то эти пустяки постоянно не дают мне спокойно жить. Вот со временем у меня и сложилась плохая репутация. Я считаю, что это совершенно незаслуженно!",
+        "en": "I don't think my temper is as bad as people make it out to be. I just don't like wasting my time on trivial matters, that's all. But for some reason, it's always those trivial things that come back to haunt me. So, over time, I've ended up with a bad reputation. I would say that's completely unjust!",
+        "zh": "我自认为脾气没有人们说的那么差，我只是不喜欢在破事上浪费时间而已。但不知是什么原因，那些「破事」总是缠着我不放。久而久之，就落得了个不好的名声，我才想叫冤枉呢。"
+      },
+      "source_id": 94028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Тиори II",
+        "en": "More about Chiori: II",
+        "zh": "想要了解千织·其二"
+      },
+      "text": {
+        "ru": "С самого детства я терпеть не могу, когда меня поучают. Был период, когда я ненавидела любые правила и всегда действовала наперекор. Из-за своего упрямства мне пришлось пройти через множество страданий, но в конце концов я поняла, что правила - это не совсем плохо. Что я действительно не выношу, так это ощущение, будто я не могу поступать по-своему.",
+        "en": "Ever since I was a kid, I've always had a problem with authority. There was a period when I hated the rules, and would always insist on going against the grain. Thanks to this headstrong character of mine, I've had to go through a lot of suffering. But eventually, I came to understand that rules aren't completely a bad thing. What I really can't stand is the feeling that I can't make decisions based on what I truly think.",
+        "zh": "我从小就不喜欢被管教，有段时间特别讨厌「规矩」这东西，一定要和它对着干。托这倔脾气的福，我吃了不少苦头。但后来我渐渐明白，「规矩」不全是坏事。我真正讨厌的，是那种不能按自己想法做出决定的感觉。"
+      },
+      "source_id": 94029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Тиори III",
+        "en": "More about Chiori: III",
+        "zh": "想要了解千织·其三"
+      },
+      "text": {
+        "ru": "В детстве я всегда с нетерпением ждала летнего фестиваля в родном городе. Каждый год люди выходили на улицу, надев самые красивые наряды... Разноцветные шары на поясах у людей, золотые рыбки, которых, как ни старайся, никак не получается выловить из миски, яблоки в карамели, такие сладкие, что даже дети не могут их доесть, и фейерверки дома Наганохара... На таких праздниках мне всегда было очень весело, но, когда я возвращалась домой в конце вечера, постоянно казалось, что чего-то не хватает. Только повзрослев, я поняла, что тогда мне хотелось быть чем-то большим, чем просто частью публики. Когда люди говорят о фейерверках, они сразу вспоминают Наганохару, вот и мне хочется, чтобы настал такой день, когда, одеваясь к празднику, все выбирали бы одежду «Дома Тиори». Хе-хе, одна мысль об этом меня очень воодушевляет. Ладно, пойду в магазин и сделаю ещё несколько эскизов.",
+        "en": "When I was little, I used to always look forward to the summer festival in my hometown. Every year, people would take out the most vibrant and beautiful clothes, and carefully put them on before joining the crowd...\nEvery time the festival came around, there'd be all of these brightly colored spheres hanging from people's belts, goldfish that you couldn't scoop up from the bowl no matter how hard you tried, apple candy so sweet that even the children couldn't finish them all, and fireworks so beautiful that they could have only come from the Naganohara house... I always had a lot of fun at such festivals, but even then, I would always feel like something was \"missing\" when I went home at the end of the night. It was only after I got much older that I realized I must have wanted to become more than just a spectator at such a wonderful event.\n...It's just like how people will always associate the house of \"Naganohara\" with fireworks. I hope that one day, people will also associate festivals with Chioriya clothes.\nHehe, just thinking about the prospect of that gets me really fired up. Alright, time to go back to the shop and churn out a few more designs.",
+        "zh": "小时候最期待的，就是家乡夏日的祭典。每到那时，人们就会穿上最好看的衣服上街…\n腰带上五颜六色的水球、怎么都捞不起的金鱼、还有甜到腻人的苹果糖和长野原家的烟花…那时玩得很开心，但回到家后，却总觉得少了什么。现在才知道，那时的我，是不想只做「观众」…\n就像提到烟花，人们就想到「长野原」一样。我希望有一天，人们想穿上祭典的，都是「千织屋」的衣服。\n…哈，光是这么想想，就感觉心中充满激情。嗯，我要回店里做衣服去了。"
+      },
+      "source_id": 94030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Тиори IV",
+        "en": "More about Chiori: IV",
+        "zh": "想要了解千织·其四"
+      },
+      "text": {
+        "ru": "Хотя я часто с головой погружаюсь в работу, мне нравится жить настоящим моментом. Когда выдаётся свободное время, я часто беру с собой немного поесть и нахожу красивое место на природе, чтобы уютно вздремнуть после обеда, вечером возвращаюсь домой, слушаю любимую музыку, а потом довольная отправляюсь спать. А иногда я люблю пойти поужинать с друзьями, говорить обо всём, что происходит в мире, и веселиться до полного изнеможения. Честно говоря, всё зависит от того, что мне сейчас хочется делать. Как мода существует только в моменте, так и я люблю жить в моменте. Что скажешь? Хочешь, будем гулять всю ночь напролёт?",
+        "en": "Although I can get quite immersed in my work, I also enjoy living in the moment. When I have some free time, I would often pack some food and find a lovely place in nature to take a cozy midday nap, before returning home, relaxing some more, and then finally falling asleep to my favorite music. Oh, and other times, I like to go out for food with my friends, talk about everything that's happening in the world, and party until everyone's completely hammered. Honestly, it all just depends on what I feel like doing in the moment. Just as fashion only exists in the moment, I also love living in the moment. So, what do you think? Want to go out with me tonight and enjoy a whole night of fun?",
+        "zh": "虽然工作起来很投入，但我也喜欢享受当下的时光。闲下来的时候，我会一个人带上些吃的，找个风景好的地方静静睡个午觉，晚上再听些喜欢的音乐，美美睡去…有时候则是叫上朋友们吃顿饭，大家在一起谈天说地，开个不醉不归的派对…想怎么做全看当时的心情。正如「时尚」只存在于「当下」一样，我也喜欢活在当下。怎么样？不如今晚我们就出去狠狠放松一下？"
+      },
+      "source_id": 94031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Тиори V",
+        "en": "More about Chiori: V",
+        "zh": "想要了解千织·其五"
+      },
+      "text": {
+        "ru": "Мне нравятся всякие маленькие сладости Инадзумы и лёгкий вкус их блюд. Нравится текстура ткани с моей родины, традиция принимать ванну в конце дня... Но ещё мне нравятся мягкие волны морей Фонтейна и несравнимая красота его подводных пейзажей. Я часто размышляю, не живу ли я в тени своего прошлого и не предопределён ли день сегодняшней судьбой. Но затем я спрашиваю себя - а что бы это изменило? Я всё равно остаюсь той, которая живёт в настоящем. Даже если я такая, какая есть, только благодаря происшедшему в прошлом, будущее всё равно в моих руках, и никто в мире не может этого изменить.",
+        "en": "I love Inazuma's petite desserts, as well as all culinary dishes subtle and light. Similarly, I also like the feel of my homeland's fabrics, as well as the practice of taking a bath after a long working day. But on the flip side, I also adore the soft waves of Fontaine's seas, as well as the beautiful scenery underneath the waters.\nSometimes, I wonder if everything is in fact predestined, and if I'm still living in the shadow of my past. But then, another question always follows — would the answer to that really change anything? In any case, I'm still me, living in my present. Even if I'm only the way I am due to what has happened in my past, my future is still in my own hands, and no one in this world can really change that.",
+        "zh": "我喜欢稻妻的点心、喜欢清淡的食物…我喜欢家乡布料的触感、喜欢每天结束后泡个澡…但我也喜欢枫丹温柔的海水、喜欢海里美不胜收的景色…\n我常常会想，自己是否并没有摆脱「过去」对我造成的影响，是否今天的一切都是命中注定…\n但那又如何呢？我就是我，活在此刻。就算过去的一切塑造了如今的我，未来的路，也依旧由我自己选择，谁都无法改变这点。"
+      },
+      "source_id": 94032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Хобби Тиори...",
+        "en": "Chiori's Hobbies",
+        "zh": "千织的爱好…"
+      },
+      "text": {
+        "ru": "В своей работе я стремлюсь к мечте, а в хобби ищу свободу. Если я каждый день занимаюсь чем-то, что не люблю, то какой в этом смысл?",
+        "en": "I'm pursuing my dream through my work, and exploring the meaning of freedom through my art. What's the point of spending years and years of your life over something that's not near and dear to your heart?",
+        "zh": "我在工作中追寻梦想，在爱好中探索自由。如果我每天做的事不是自己热爱的，那还有什么意思？"
+      },
+      "source_id": 94033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Беспокойство Тиори...",
+        "en": "Chiori's Troubles",
+        "zh": "千织的烦恼…"
+      },
+      "text": {
+        "ru": "Иногда я беспокоюсь, что мой прогресс меньше, чем я рассчитывала, и если так пойдёт дальше, то трудно сказать, когда же осуществится моя мечта сделать «Дом Тиори» известным во всём мире. Но это не повод для сомнений или компромиссов. Какой смысл беспокоиться? Лучше потратить время на создание ещё нескольких фасонов.",
+        "en": "Sometimes, I worry that I haven't made as much progress as I'd hoped, and thus, it'd be hard to know when I would actually realize my dream of making Chioriya renowned throughout the world. Still, that's no reason to question or abandon the dream. Rather than worrying or doubting myself, my time would be better spent creating a few more designs.",
+        "zh": "我偶尔烦恼，追求理想的进度比预期更缓慢，这样下去不知我的品牌什么时候才能风靡世界。但我绝不会向现实妥协，烦恼又有什么帮助呢？还不如省下这个时间，多做几件衣服。"
+      },
+      "source_id": 94034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Никогда не забуду инадзумские десерты, которые я ела в детстве. Но больше даже, чем вкус, меня всегда интересовал процесс их приготовления. Если бы меня так не увлекало фантастическое разнообразие тканей и их цветов, то в мире было бы одним кондитером больше.",
+        "en": "I can never forget the Inazuman desserts I used to indulge in as a child. But rather than the joy of tasting them, I've always been more interested in the process of making them. Had I been less drawn to the fascinating world of fabrics and color, the world would have gained another dessert chef.",
+        "zh": "我忘不了小时候吃过的那些稻妻点心。但比起品尝时的喜悦，我更享受制作的过程。要不是布料的色彩与变化更丰富一些，恐怕这世上，就要多一个点心师傅了。"
+      },
+      "source_id": 94035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Не люблю еду с очень сильным вкусом, типа хаггиса. Ощущение от него, будто во время прогулки вдруг Гео призрак в лицо врезался. Не знаю, понятно так?",
+        "en": "I can't handle food with particularly strong flavors, like Haggis, for example. The experience of eating it is kind of like... suddenly getting hit with a faceful of Geo Specter out of nowhere. Does that make sense to you?",
+        "zh": "就拿羊杂哈吉斯举例吧，我吃不惯味道浓厚的菜。就像是好好地走在路上，冷不防被岩飘浮灵糊了一脸一样…我这么形容你能理解吧？"
+      },
+      "source_id": 94036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Мм, мне нравится этот вкус. В следующий раз тоже мне принеси, пожалуйста. Не волнуйся, я и тебе подарю что-нибудь в ответ.",
+        "en": "Mm, I do love this dish. Why don't you bring me some more next time. Don't worry, I'll also bring a gift for you in return.",
+        "zh": "嗯，这味道我很喜欢，下次再带给我点。放心，我也会给你回礼的。"
+      },
+      "source_id": 94037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Неплохо. Хорошо подойдёт на ужин, когда устанешь после рабочего дня.",
+        "en": "Not bad. I think this would be most enjoyable after a hard day's work in the shop.",
+        "zh": "不错的手艺，适合工作累了之后，坐在店里慢慢品尝。"
+      },
+      "source_id": 94038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Мне этот вкус не нравится. Принеси что-нибудь менее жирное в следующий раз.",
+        "en": "Ugh, I'm not fond of this flavor. Bring me something lighter on the palette next time.",
+        "zh": "这味道我不喜欢，下次换个清淡点的。"
+      },
+      "source_id": 94039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения. Скажи мне, какой хочешь подарок, мне лень гадать. А? Слишком прямо? Ну ладно, тогда зови Навию, Кирару и пару своих друзей, и приходите вечером в «Дом Тиори», устроим вечеринку. Я посмотрю, что другие подарят, и прямо на месте сделаю тебе подходящее украшение. Гарантирую, что тебе понравится - я в себе уверена.",
+        "en": "Yeah, yeah... Happy birthday, or whatever. Just tell me if there's a gift you like — I can't be bothered to try and guess what you want. Hm? Too direct? Alright then, why don't you grab Navia, Kirara, and the others, and maybe a few of your friends as well. We can have a party tonight at my place. I'll take some notes on the gifts that the others have prepared for you, and make you an accessory right then and there. Ten thousand mora that you'd like it. Haha, call it the confidence of the owner of Chioriya Boutique.",
+        "zh": "生日快乐。我懒得猜了，想要什么礼物就直说。嗯？太直接了？好吧，那就叫上娜维娅和绮良良她们，再约几个你的朋友，晚上来「千织屋」开派对。我参考参考他们会送你什么，然后当场做一个适合你的首饰送给你，保证你喜欢。我有这个自信。"
+      },
+      "source_id": 94040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "...Не пойдёт. Всё ещё слишком заурядно.",
+        "en": "...No good. Still feels too ordinary.",
+        "zh": "…不行，还是太普通。"
+      },
+      "source_id": 94041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "...Неплохо, но всё ещё не хватает изюминки.",
+        "en": "...Not bad, but it's still lacking the \"wow\" factor that makes it really stand out.",
+        "zh": "…还不错，但少了点引人驻足的亮点。"
+      },
+      "source_id": 94042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "...Отлично. Я добилась результата, которого хотела.",
+        "en": "Oho... That's more like it. I think I've got it.",
+        "zh": "…好，我抓到我想要的了。"
+      },
+      "source_id": 94043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Конечно, руки у меня никогда не трясутся, ведь я мастер своего дела, но должна признаться, что сейчас у меня сердце готово выпрыгнуть из груди. Спасибо, что был со мной, пока я работала над этим произведением. Оно для меня очень важно. Теперь я готова твёрдо продолжать свой путь. / Конечно, руки у меня никогда не трясутся, ведь я мастер своего дела, но должна признаться, что сейчас у меня сердце готово выпрыгнуть из груди. Спасибо, что была со мной, пока я работала над этим произведением. Оно для меня очень важно. Теперь я готова твёрдо продолжать свой путь.",
+        "en": "Of course, as a master of my craft, my hands will never shake while cutting fabric, but I'll admit, the excitement and anticipation has my heart really beating right now. Thank you for staying with me the whole time I worked on this piece. It is extremely important to me. I now have far more confidence in myself as I embark on the next step of my journey.",
+        "zh": "我的手是不会抖的，这是我的专业性…但我得承认，此时此刻我的心跳声实在有些吵了。感谢你一路帮助我完成我的作品，它对我有着无比重要的意义。今后的路，我会更有把握。"
+      },
+      "source_id": 94044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Вперёд, Тамото!",
+        "en": "Let's go, Tamoto!",
+        "zh": "袖。"
+      },
+      "source_id": 94045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Следующий!",
+        "en": "Next customer!",
+        "zh": "下一位？"
+      },
+      "source_id": 94046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Подай руку.",
+        "en": "Lend me a hand.",
+        "zh": "搭把手。"
+      },
+      "source_id": 94047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Я определяю моду!",
+        "en": "I am the cutting edge of fashion.",
+        "zh": "风尚，由我裁定。"
+      },
+      "source_id": 94048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Гладко, словно шёлк.",
+        "en": "Delicate as silk.",
+        "zh": "脆如绸锦。"
+      },
+      "source_id": 94049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Летите, цветные лоскуты!",
+        "en": "Scraps of color, scatter!",
+        "zh": "千红零落。"
+      },
+      "source_id": 94050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Неплохое исполнение... Но я бы и получше сделала.",
+        "en": "The handiwork is alright... though I've made much better myself.",
+        "zh": "这工艺还行吧，我做过比这更好的。"
+      },
+      "source_id": 94051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Так тебе такое нравится.",
+        "en": "Ah, so this is what you like?",
+        "zh": "原来你喜欢这种？"
+      },
+      "source_id": 94052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Хм... Надо свериться.",
+        "en": "Hmm... Let me take note of this.",
+        "zh": "嗯…我参考参考。"
+      },
+      "source_id": 94053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Вся одежда изодрана...",
+        "en": "My clothes are ruined...",
+        "zh": "衣服都破了…"
+      },
+      "source_id": 94054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Довольно уже.",
+        "en": "Are you done?",
+        "zh": "闹够了没有…"
+      },
+      "source_id": 94055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Пора тебя проучить...",
+        "en": "Time to teach you a lesson.",
+        "zh": "得给你点教训…"
+      },
+      "source_id": 94056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Эй, не красуйся.",
+        "en": "Hey, who're you trying to impress?",
+        "zh": "喂，别逞强。"
+      },
+      "source_id": 94057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Я погребальные одеяния не делаю.",
+        "en": "I don't make burial shrouds, you know.",
+        "zh": "我可不做寿衣。"
+      },
+      "source_id": 94058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Я для такого не скроена...",
+        "en": "I wasn't cut out... for this...",
+        "zh": "裁剪不当…"
+      },
+      "source_id": 94059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Никогда не признаю... поражение...",
+        "en": "I'll never... accept defeat...",
+        "zh": "我不认输…"
+      },
+      "source_id": 94060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Как же мой бренд...",
+        "en": "But what about... my brand...",
+        "zh": "我的品牌…还没有…"
+      },
+      "source_id": 94061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Это всё?",
+        "en": "Is that all?",
+        "zh": "就这点？"
+      },
+      "source_id": 94062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Как пошло...",
+        "en": "How tacky...",
+        "zh": "没品味的家伙…"
+      },
+      "source_id": 94063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Не с той связались...",
+        "en": "You've picked the wrong fight.",
+        "zh": "你惹错人了…"
+      },
+      "source_id": 94064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Добро пожаловать в «Дом Тиори».",
+        "en": "Welcome to Chioriya Boutique.",
+        "zh": "欢迎光临「千织屋」。"
+      },
+      "source_id": 94065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Нужна одежда на заказ?",
+        "en": "Let me guess... Need something tailor-made?",
+        "zh": "需要定制服务吗？"
+      },
+      "source_id": 94066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Поищем вдохновения на природе.",
+        "en": "Let's get out and find some inspiration.",
+        "zh": "出门找找灵感吧。"
+      },
+      "source_id": 94067
+    }
+  ],
+  "replica_count": 68
 }

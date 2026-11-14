@@ -1,0 +1,82 @@
+{
+  "id": "rugged_elder_leshy",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/rugged_elder_leshy.webp",
+  "title": {
+    "ru": "Суровый леший-старейшина",
+    "en": "Rugged Elder Leshy",
+    "zh": "苍遒的木灵长"
+  },
+  "region": "Снежная",
+  "game_version": "7.0",
+  "tags": [
+    "Суровый леший-старейшина",
+    "Rugged Elder Leshy",
+    "苍遒的木灵长"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Леший, выросший среди лесов и полей.\nЭти лешие обладают лишь зачатками разума и не способны говорить. На первый взгляд они кажутся результатом ранних экспериментов мастеров Золотого царства. Однако всё было совсем наоборот: согласно записям, этот народ был создан лишь после того, как мастера почти полностью овладели властью над жизнью.\nВозможно, в этом скрыт смысл, который нынешним альвам и людям ещё не дано постичь.",
+    "en": "A Leshy that grows in forests and wilds.\nWith only fragmentary sentience and no ability to speak, Leshies may appear to be the result of the Golden Realm's early experiments. Yet according to records, the truth is the opposite. Only after its artisans had almost fully mastered the authority over life did they create this race of fae.\nPerhaps there is some true purpose within this that neither the fae nor humans of the present can fully understand.",
+    "zh": "生长在林野之中的树妖。\n只有残缺灵智亦无法开口的树妖，看上去就如同黄金国的工匠们早期实验的结果。但是恰恰相反，根据记载，他们在几乎已经完全掌握了生命的权能后，才造出了这一种族的妖精。\n或许其中包含着现在的妖精与人无法参透的真意吧。"
+  },
+  "description": {
+    "ru": "Леший, выросший среди лесов и полей.\nЭти лешие обладают лишь зачатками разума и не способны говорить. На первый взгляд они кажутся результатом ранних экспериментов мастеров Золотого царства. Однако всё было совсем наоборот: согласно записям, этот народ был создан лишь после того, как мастера почти полностью овладели властью над жизнью.\nВозможно, в этом скрыт смысл, который нынешним альвам и людям ещё не дано постичь.",
+    "en": "A Leshy that grows in forests and wilds.\nWith only fragmentary sentience and no ability to speak, Leshies may appear to be the result of the Golden Realm's early experiments. Yet according to records, the truth is the opposite. Only after its artisans had almost fully mastered the authority over life did they create this race of fae.\nPerhaps there is some true purpose within this that neither the fae nor humans of the present can fully understand.",
+    "zh": "生长在林野之中的树妖。\n只有残缺灵智亦无法开口的树妖，看上去就如同黄金国的工匠们早期实验的结果。但是恰恰相反，根据记载，他们在几乎已经完全掌握了生命的权能后，才造出了这一种族的妖精。\n或许其中包含着现在的妖精与人无法参透的真意吧。"
+  },
+  "drops": [
+    {
+      "id": "material_set_112155",
+      "title": {
+        "ru": "Опустевший корень жизни / Росток узла жизни / Свернувшееся ядро жизни",
+        "en": "Hollow Root of Life / Sprout Node of Life / Coiled Core of Life",
+        "zh": "灵生空根 / 灵生分蘖节 / 灵生盘枝心"
+      },
+      "icon": "assets/icons/items/common_enemies/item_112155.webp",
+      "item_group": "common_enemies",
+      "entry_type": "material_set",
+      "game_version": "7.0",
+      "materials": [
+        {
+          "key": "material_112155",
+          "title": {
+            "ru": "Опустевший корень жизни",
+            "en": "Hollow Root of Life",
+            "zh": "灵生空根"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112155.webp"
+        },
+        {
+          "key": "material_112156",
+          "title": {
+            "ru": "Росток узла жизни",
+            "en": "Sprout Node of Life",
+            "zh": "灵生分蘖节"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112156.webp"
+        },
+        {
+          "key": "material_112157",
+          "title": {
+            "ru": "Свернувшееся ядро жизни",
+            "en": "Coiled Core of Life",
+            "zh": "灵生盘枝心"
+          },
+          "icon": "assets/icons/items/common_enemies/item_112157.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

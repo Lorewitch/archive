@@ -144,5 +144,988 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Слушай, прихожанин. Если у тебя трудноразрешимые проблемы, можешь обращаться ко мне. Ежели тебе просто помолиться, обратись к любой другой из сестёр.\n...Хм? Разве ты не прихожанин?",
+        "en": "Listen disciple, if you've got a problem you can't handle, then I'm the one for the job. But if you're looking for prayer, you'd better find some other Sister\n...Huh? You're not a disciple?",
+        "zh": "这位信徒，如果遇到难以解决的麻烦，可以来找我，如果只想祈祷，还请找其他修女。\n…嗯？你不是信徒吗？"
+      },
+      "source_id": 37009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Скука",
+        "en": "Chat: Boredom",
+        "zh": "闲聊·无聊"
+      },
+      "text": {
+        "ru": "Разве у нас не полно дел?",
+        "en": "Don't we have a job to do?",
+        "zh": "还不走吗？"
+      },
+      "source_id": 37010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Работа сверхурочно",
+        "en": "Chat: Overtime",
+        "zh": "闲聊·加班"
+      },
+      "text": {
+        "ru": "Мы можем поговорить обо всём кроме работы сверхурочно.",
+        "en": "Everything is negotiable, except overtime.",
+        "zh": "什么都可以商量，除了加班。"
+      },
+      "source_id": 37011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Жизнь в Мондштадте",
+        "en": "Chat: Life in Mondstadt",
+        "zh": "闲聊·蒙德生活"
+      },
+      "text": {
+        "ru": "Работай на совесть и живи каждый день с толком. Такова жизнь в Мондштадте, разве нет?",
+        "en": "Work hard and live each day to the fullest. That is what life in Mondstadt is all about, isn't it?",
+        "zh": "好好完成工作，好好度过每一天。蒙德的生活不就是如此吗？"
+      },
+      "source_id": 37012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Эх... От него падает эффективность.",
+        "en": "This will slow things down.",
+        "zh": "唉，影响效率。"
+      },
+      "source_id": 37013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Пфф, надоедает только.",
+        "en": "...What a nuisance.",
+        "zh": "嘁，麻烦。"
+      },
+      "source_id": 37014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Мы должны идти дальше. Смотри под ноги.",
+        "en": "We should keep moving, but watch your step in the snow.",
+        "zh": "雪天赶路，最好小心一些。"
+      },
+      "source_id": 37015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Нам так покровительствует Анемо Архонт Барсибатос? Погоди, кажется, его зовут Бартобас...",
+        "en": "Blessings from the Anemo Archon Barsibato? Wait... no, it's Bartobas...?",
+        "zh": "是风神巴斯巴托的庇佑吗？等等，好像是巴托巴斯…"
+      },
+      "source_id": 37016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро! Что, утренняя молитва уже началась? Какая рань...",
+        "en": "*yawn* Good morning... I've missed morning mass, haven't I? Ugh, it starts too early anyway.",
+        "zh": "早安，哈…晨祷已经开始了吗？也太早了。"
+      },
+      "source_id": 37017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Послеполуденное солнце благотворно влияет на сон. Попробуй как-нибудь.",
+        "en": "I'd say I sleep even better in the afternoon sun. You should try it sometime.",
+        "zh": "午后的阳光对睡眠有好处。你也试试吧。"
+      },
+      "source_id": 37018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер. Я на вечернюю молитву не пойду. Почему? Потому.",
+        "en": "Good evening. Don't expect to see me at prayer tonight... And don't ask why.",
+        "zh": "晚上好。晚间祷告的话，我不参加。嗯？不为什么。"
+      },
+      "source_id": 37019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Отдыхай и ни о чём не беспокойся. Я обо всём позабочусь.",
+        "en": "Go ahead, take a break. I'll handle things here.",
+        "zh": "去休息吧，不用操心，剩下的事我会处理。"
+      },
+      "source_id": 37020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Розарии: Сестра",
+        "en": "About Rosaria: Sister",
+        "zh": "关于罗莎莉亚自己·修女"
+      },
+      "text": {
+        "ru": "Я? Я самый обычный, скучный человек. Как видишь, мне не нравится ни собор, ни моя работа.",
+        "en": "Me? I'm just another ordinary person. Church, work... I just do what I have to do.",
+        "zh": "我？只是个无趣的人而已。如你所见，不爱教会也不爱工作。"
+      },
+      "source_id": 37021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Розарии: Тягости",
+        "en": "About Rosaria: Troubles",
+        "zh": "关于罗莎莉亚自己·麻烦"
+      },
+      "text": {
+        "ru": "Эти дежурные монашки одна другой надоедливее: если не тащат на молитву, так зовут петь в хоре. Не говори им, что я здесь.",
+        "en": "Each of the Sisters is worse than the next. If it's not about prayer, then it's about choir or some other thing I'm supposed to participate in... I'm trying to stay out of sight, so don't you dare tell them you saw me here.",
+        "zh": "那些值班修女一个比一个麻烦，不是抓人去祷告，就是叫人去唱诗班。你可别告诉她们我在这里。"
+      },
+      "source_id": 37022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Вера",
+        "en": "About Us: Beliefs",
+        "zh": "关于我们·信仰"
+      },
+      "text": {
+        "ru": "Боги могут защитить всех, но делать они этого не станут. В противном случае человеческие страдания были бы шуткой.",
+        "en": "Perhaps a god has the power to protect everyone if they would choose to do so, but that would never happen. Otherwise, people's suffering couldn't ever be taken seriously.",
+        "zh": "神或许能庇护所有人，可他不会这样做。否则，人的苦难就成了笑话。"
+      },
+      "source_id": 37023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Молитвы",
+        "en": "About Us: Prayer",
+        "zh": "关于我们·祷告"
+      },
+      "text": {
+        "ru": "Давай, молись. Но не ради богов или других людей, а ради себя.",
+        "en": "Pray. Not for the gods, nor the betterment of others... but for yourself.",
+        "zh": "祈祷吧。不是为了神或其他任何人，而是为了自己。"
+      },
+      "source_id": 37024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Бой",
+        "en": "About Us: Battle",
+        "zh": "关于我们·战斗"
+      },
+      "text": {
+        "ru": "Не напрягайся. Я всё сама сделаю.",
+        "en": "Don't overdo it. Let me take care of the dirty work.",
+        "zh": "不要勉强，有困难可以叫我。"
+      },
+      "source_id": 37025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Глаз Бога может служить доказательством силы или наградой за то, что выжил... Кто его знает. У каждой хорошей вещи две стороны. Я не берусь судить, что есть Глаз Бога. Мы просто молча наблюдаем друг за другом.",
+        "en": "A Vision... Could be proof of strength, or a medal for having survived... who knows? There're two sides to every coin. I won't limit my Vision with ceremonies and definitions. It witnesses me, and I witness it, that's all.",
+        "zh": "「神之眼」可以是实力的证明，也可以是幸存的勋章…谁知道呢？真正的好东西总是具有两面性。我不会定义「神之眼」。我和它只是互相见证的关系罢了。"
+      },
+      "source_id": 37026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Знаешь, чему стоит радоваться?.. Это так, предположение. Если однажды у тебя возникнет неразрешимая проблема, ты не думай, будто это конец. Может случиться так, что вместо тебя её решит кто-нибудь другой.",
+        "en": "You don't always know why good things happen, or why we should be happy about them. Heh... But if you ever face a problem too big to handle, don't give up hope. You never know, someone may be there to help, even if you can't see them.",
+        "zh": "要说什么是值得高兴的好事…呵，只是假设而已。如果有一天你遇到无法解决的难题，也别认为那就是人生的终点。说不定，会有人替你解决困境呢。"
+      },
+      "source_id": 37027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Травка с цветочками в круг моих интересов не входит. Исключение - одуванчики. Из них получается вкуснейшее вино. Выпить бокал во время отдыха куда приятнее, чем подремать в воскресенье.",
+        "en": "I take no interest in plant life and the sort, but the dandelion is an exception. How such a simple flower could turn into such a delectable wine is beyond me. A glass of dandelion wine after work is even better than sleeping in on Sunday.",
+        "zh": "花草不属于我感兴趣的范畴。不过，蒲公英是个例外，它能酿出相当美味的蒲公英酒。休息时间来一杯，比睡懒觉还舒服。"
+      },
+      "source_id": 37028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克…"
+      },
+      "text": {
+        "ru": "С первого взгляда видно, что этот богач совсем непрост. Сдержан, уверен в себе... и от него веет опасностью.",
+        "en": "Isn't it obvious? There's more than meets the eye to that rich tycoon. He's confident, yet discreet... and even a little bit dangerous.",
+        "zh": "一看就知道了吧？那位富豪老爷可不是个简单的人物。低调、自信…还有一点危险的气息。"
+      },
+      "source_id": 37029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Кэйе...",
+        "en": "About Kaeya",
+        "zh": "关于凯亚…"
+      },
+      "text": {
+        "ru": "Обычно люди не показывают своё истинное лицо, пока не напьются. Развязный, сладкоречивый язык Кэйи - уловка, от которой несёт притворством. Но я-то вижу его насквозь. Как-нибудь выпей с ним и посмотри.",
+        "en": "Wine has its uses... like revealing someone's true colors, for example. Smooth talk is Kaeya's veil, but being me, I can see right through it. Hah, you should see him when he's drunk.",
+        "zh": "人往往要到醉酒以后才会露出真面目。油嘴滑舌算是凯亚的保护色吧，呵，一目了然的伪装。你该看看他喝醉的样子。"
+      },
+      "source_id": 37030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Венти...",
+        "en": "About Venti",
+        "zh": "关于温迪…"
+      },
+      "text": {
+        "ru": "Бард этот очень особенный... Я ещё не поняла, почему, но он не такой, как остальные.",
+        "en": "There's something extremely interesting about this bard... I can't quite put my finger on it. There's something that makes him different from the others in Mondstadt.",
+        "zh": "这个吟游诗人身上有种非常特殊的气息…我还不能确定真相，但他与别的市民似乎很不一样。"
+      },
+      "source_id": 37031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Барбаре...",
+        "en": "About Barbara",
+        "zh": "关于芭芭拉…"
+      },
+      "text": {
+        "ru": "Барбара меня уже просто достала... Постоянно зовёт молиться или петь в хоре. Уж не приказала ли ей Виктория следить за мной?",
+        "en": "Barbara is like a thorn in my side, always nagging me about mass and choir practice. I wouldn't be surprised if Sister Victoria specifically asked her to keep an eye on me.",
+        "zh": "芭芭拉总是缠着我，叫我参加礼拜和唱诗班。难道维多利亚给她下了监督我工作的命令？"
+      },
+      "source_id": 37032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Джинн...",
+        "en": "About Jean",
+        "zh": "关于琴…"
+      },
+      "text": {
+        "ru": "Не только делает свою работу, но и помогает справляться другим. Она достойна восхищения.",
+        "en": "She's not only competent in her own work but also somehow manages to clear up various matters for others... Huh. Now that's a woman who deserves admiration.",
+        "zh": "不仅完成本职工作，还会替他人收尾。值得钦佩的女人。"
+      },
+      "source_id": 37033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Об Альбедо...",
+        "en": "About Albedo",
+        "zh": "关于阿贝多…"
+      },
+      "text": {
+        "ru": "Он словно картина маслом в старинном доме... Солидный, загадочный. Его так просто не разгадать. Мне нравятся люди с историей.",
+        "en": "He's like an oil painting you find hanging on the wall in some ancient hall, profound and mysterious... hard to see through. But what can I say, I find people with stories... interesting.",
+        "zh": "他就像一副挂在古旧房屋里的油画…厚重、神秘，无法被一眼看透。我不讨厌有故事的人。"
+      },
+      "source_id": 37034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Я не жалую людей, которые отлынивают от работы. Но я понимаю всех, кто уходит с работы вовремя, как она.",
+        "en": "Although I deplore those who play truant on a job, I respect her punctuality when it comes to closing up for the day.",
+        "zh": "我不喜欢上班偷懒的人，不过也很能理解她准点下班的心情。"
+      },
+      "source_id": 37035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Кли...",
+        "en": "About Klee",
+        "zh": "关于可莉…"
+      },
+      "text": {
+        "ru": "Ох, от неё ничего, кроме неприятностей. Очень милых, но неприятностей.",
+        "en": "Trouble, and lots of it. Although, it is sort of a cute kind of trouble...",
+        "zh": "唉，除了麻烦就是麻烦，虽然是可爱的麻烦。"
+      },
+      "source_id": 37036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Варке...",
+        "en": "About Varka",
+        "zh": "关于法尔伽…"
+      },
+      "text": {
+        "ru": "Варка - добрейший и заботливейший человек, хоть и болтлив, как старуха. Ох уж этот Варка...",
+        "en": "I'm sure Varka means well, but his long-winded conversations get real old real quick. Although, he does really care for those around him, doesn't he?",
+        "zh": "虽说是出于好意，但法尔伽啰嗦起来像个老头一样，相当在意身边的人呢。唉，那家伙。"
+      },
+      "source_id": 37037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Об отце...",
+        "en": "About Her Father",
+        "zh": "关于父亲…"
+      },
+      "text": {
+        "ru": "Отец? Какое чужое слово. Можно сказать, его у меня не было, или что их у меня было много. Ты чего так удивляешься?",
+        "en": "Father? I'm not familiar with the word. You could say that I don't have one — could also say I have many, too. What's it to you?",
+        "zh": "父亲？好遥远的词汇啊。对我而言可以说没有，也可以说有不止一个。怎么？很惊讶吗？"
+      },
+      "source_id": 37038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Розарии I",
+        "en": "More About Rosaria: I",
+        "zh": "想要了解罗莎莉亚·其一"
+      },
+      "text": {
+        "ru": "Обойдёмся без любезностей. Я здесь, чтобы выполнить свою работу. Если ты с чем-то не справляешься, предоставь это мне.",
+        "en": "Let's forgo the formalities. I'm here to finish a job. Just leave the dirty work to me.",
+        "zh": "跳过寒暄吧。我来这里是为了完成工作，你解决不了的问题可以移交给我。"
+      },
+      "source_id": 37039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Розарии II",
+        "en": "More About Rosaria: II",
+        "zh": "想要了解罗莎莉亚·其二"
+      },
+      "text": {
+        "ru": "Неверующих монахинь не так уж и мало. Это как охотник, что не любит есть дичь, или рыбак, которого тошнит от рыбы. Ты не обязан любить то, что делаешь. И не нужно избегать того, что не любишь. Это касается любой работы.",
+        "en": "What's weird about a Sister without reverence for the gods? There are hunters who don't eat pork, and fisherman who don't eat fish, aren't there? Just because you do something doesn't mean you love to do it. That's how every job goes.",
+        "zh": "不信神的修女并不稀奇，就像世上也有不喜欢吃猪肉的猎人、讨厌鱼肉的渔民。做某一件事不代表爱它，不爱一件事也不意味着必须远离。工作就是这样的东西。"
+      },
+      "source_id": 37040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Розарии III",
+        "en": "More About Rosaria: III",
+        "zh": "想要了解罗莎莉亚·其三"
+      },
+      "text": {
+        "ru": "Выпьем по бокалу? У меня тут вино из одуванчиков этого года. Очень недурно.",
+        "en": "This year's Dandelion Wine is sinfully good. Care for a glass?",
+        "zh": "来一杯吗？这是今年的蒲公英酒，味道很不错。"
+      },
+      "source_id": 37041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Розарии IV",
+        "en": "More About Rosaria: IV",
+        "zh": "想要了解罗莎莉亚·其四"
+      },
+      "text": {
+        "ru": "Зверь света Мондштадт одновременно молод и стар: достаточно стар, чтобы ему требовалась защита, и слишком молод, чтобы выжить в одиночку. Только такому месту нужны подобные мне люди. Я забочусь о Мондштадте, как сёстры заботятся о горожанах, и слежу за тем, чтобы он оставался свободным. Почему Мондштадт зверь света? ...Потому что такие, как я, погружены во тьму.",
+        "en": "Mondstadt is a beast of light, both old and young. Old in the sense that it constantly requires someone's protection, yet too young to ever survive on its own. That's why there's people like me. I care for Mondstadt just as the other Sisters care for the believers, we are all guiding that which we love onward on the path towards freedom. Huh? Why do I call it a beast of light? Because people like myself can only be found in the dark...",
+        "zh": "蒙德是一头既古老又年轻的白色野兽，古老到需要人去保护，也年轻到无法独立生存。只有这样的地方才会需要我这样的人。我像其他修女照顾市民那样照顾着蒙德，让它在自由的道路上平稳前进。你问我为什么它是白色的？…因为像我这样的人，是黑色的。"
+      },
+      "source_id": 37042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Розарии V",
+        "en": "More About Rosaria: V",
+        "zh": "想要了解罗莎莉亚·其五"
+      },
+      "text": {
+        "ru": "Иногда я чувствую, будто существуют «я» из прошлого, они совсем рядом, поддерживают меня... Тебе наверняка приходилось испытывать нечто подобное. Даже если ты выбрал другой путь, никогда не забывай, каким ты был раньше. Каждое из твоих прошлых «я» - фундамент, на котором стоишь ты сегодня. Не бойся прошлого, и не бойся вступать с ним в схватку.",
+        "en": "I sometimes feel that my former selves from years past still exist alongside me, urging me on. I'm sure you know the feeling, too. Even if you decide to venture down a new path, don't just abandon the former you. For that is the foundation upon which you now take footing. Do not fear your past, and do not be scared to come to grips with it.",
+        "zh": "我偶尔能感觉到过去每一年的自己都存在着、围绕着我…对我有所寄托。你一定也有相同的感觉，所以，哪怕如今你已走上截然不同的道路，也不要否认从前的自己。从前的每一个你，都是你脚下的基石。不要害怕过去，不要畏惧与它抗衡。"
+      },
+      "source_id": 37043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Хобби Розарии...",
+        "en": "Rosaria's Hobbies",
+        "zh": "罗莎莉亚的爱好…"
+      },
+      "text": {
+        "ru": "Некоторые проблемы можно решить только алкоголем. Однако же я никогда не пьянею.",
+        "en": "There are some troubles that only a stiff drink can take away. That being said, I never get drunk.",
+        "zh": "小酌怡情，有些烦心事只能靠酒精解决。话虽如此，我是不会醉的。"
+      },
+      "source_id": 37044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Беспокойство Розарии...",
+        "en": "Rosaria's Troubles",
+        "zh": "罗莎莉亚的烦恼…"
+      },
+      "text": {
+        "ru": "Уф... Я так не хочу каждый месяц участвовать в этих хоровых пениях, но Виктория уже отобрала меня лично...",
+        "en": "Ugh, definitely skipping next month's choir concert, but I bet Sister Victoria will be personally taking roll... What a nuisance.",
+        "zh": "唉…真不想参加下个月的合唱活动，可维多利亚亲自点名了…"
+      },
+      "source_id": 37045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Как тебе тушёное мясо с красным вином? Бокал вина и куски мяса на блюде - вот пища богов.",
+        "en": "Have you ever tried Beef Bourguignon? Big chunks of meat with the smooth taste of alcohol... Mmm, it's delectable.",
+        "zh": "试过红酒炖兽肉吗？酒精和大块的动物肉出现在一个盘子里，相当有品味。"
+      },
+      "source_id": 37046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Нужно макать картофельные оладьи в варенье? Извращение какое-то!",
+        "en": "You mean I'm supposed to dip this hash brown in jam? Ugh, this is sacrilege!",
+        "zh": "这个…这个土豆饼的蘸料居然是果酱？完全不合理！"
+      },
+      "source_id": 37047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Сегодня у тебя день рождения. Нужно ли с чем-нибудь или кем-нибудь разобраться? Я тебе помогу, только никому не говори, ясно?",
+        "en": "Today's your birthday, so if you have any dirty work that needs taking care of, I can give you a hand... Just don't tell anybody, got it?",
+        "zh": "今天是你生日，有什么想处理的人或事吗？我可以帮个小忙，别告诉其他人就行。"
+      },
+      "source_id": 37048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "То что нужно.",
+        "en": "Hmm, just what I needed.",
+        "zh": "嗯，感觉不错。"
+      },
+      "source_id": 37049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Нужна помощь? Я как раз свободна.",
+        "en": "You have a job for me? I've got time.",
+        "zh": "需要帮忙吗？我现在有空。"
+      },
+      "source_id": 37050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Ничего так. Чем лучше навыки, тем выше эффективность.",
+        "en": "Good. Getting stronger means finishing jobs quicker.",
+        "zh": "也好。能力越强，效率越高。"
+      },
+      "source_id": 37051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Я умею сражаться и убивать, но я никогда не обладала такой огромной силой. Спасибо тебе за благословение.",
+        "en": "I'm no stranger to spilling blood, but never have I possessed such power before. For such blessings, I give you thanks.",
+        "zh": "哪怕是擅长战斗与杀戮的我，也从未拥有过如此强大的力量，谢谢你的祝福。"
+      },
+      "source_id": 37052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Кия!",
+        "en": "Hyah!",
+        "zh": "嘿呀！"
+      },
+      "source_id": 37053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Правосудие!",
+        "en": "Judgment!",
+        "zh": "审判！"
+      },
+      "source_id": 37054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Тебе не уйти!",
+        "en": "You can't run!",
+        "zh": "别想跑！"
+      },
+      "source_id": 37055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Наказание!",
+        "en": "Punishment!",
+        "zh": "制裁！"
+      },
+      "source_id": 37056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Трепещи!",
+        "en": "Shiver!",
+        "zh": "战栗吧！"
+      },
+      "source_id": 37057
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Спокойной ночи...",
+        "en": "Lights out...",
+        "zh": "晚安了…"
+      },
+      "source_id": 37058
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "...Хм, здесь есть несколько интересных безделушек.",
+        "en": "...Hm, there are a few interesting trinkets here.",
+        "zh": "…倒也有不错的玩意。"
+      },
+      "source_id": 37059
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Полагаю, это не составило особого труда.",
+        "en": "I suppose it wasn't too much trouble.",
+        "zh": "还行，不算很麻烦。"
+      },
+      "source_id": 37060
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Это было... довольно здорово.",
+        "en": "That felt... pretty good.",
+        "zh": "心情不错。"
+      },
+      "source_id": 37061
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Гм! Становится интересно...",
+        "en": "Hmph. Things are getting interesting...",
+        "zh": "没想到…哼。"
+      },
+      "source_id": 37062
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Кажется, сегодня я работаю сверхурочно.",
+        "en": "Looks like overtime today.",
+        "zh": "得加个班了。"
+      },
+      "source_id": 37063
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "А ты знаешь своё дело!",
+        "en": "So you know your stuff, huh?",
+        "zh": "有两下子！"
+      },
+      "source_id": 37064
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Позволь мне всё уладить!",
+        "en": "Let me handle this!",
+        "zh": "退后！"
+      },
+      "source_id": 37065
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Не строй из себя героя!",
+        "en": "Don't try to be a hero!",
+        "zh": "不要恋战！"
+      },
+      "source_id": 37066
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Ну... хоть работать... больше не придётся...",
+        "en": "At least... no more... work.",
+        "zh": "这样也好…"
+      },
+      "source_id": 37067
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Возможно это... было предопределено...",
+        "en": "Maybe this is just... fate's dark design.",
+        "zh": "或许是…命中注定…"
+      },
+      "source_id": 37068
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Это... мое последнее задание?",
+        "en": "Is this... my final job?",
+        "zh": "唔…到此为止了吗…"
+      },
+      "source_id": 37069
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Вот оно как!",
+        "en": "I see how it is.",
+        "zh": "不过如此。"
+      },
+      "source_id": 37070
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ха, что за ерунда?",
+        "en": "Ugh, what a nuisance!",
+        "zh": "啧，真麻烦！"
+      },
+      "source_id": 37071
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Слыхала, у вас есть для меня работа.",
+        "en": "I hear you've got a job for me.",
+        "zh": "又有新工作了？"
+      },
+      "source_id": 37072
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Смотри не отставай.",
+        "en": "Make sure to keep up.",
+        "zh": "但愿配合顺利。"
+      },
+      "source_id": 37073
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Чем быстрее мы справимся, тем лучше.",
+        "en": "Sooner we're done, the better.",
+        "zh": "呼…速战速决。"
+      },
+      "source_id": 37074
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Кажется, в еде наши вкусы совпадают.",
+        "en": "It seems that our tastes are aligned when it comes to food.",
+        "zh": "看来这方面，我们品味相投。"
+      },
+      "source_id": 37075
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "По крайней мере, я смогу наесться.",
+        "en": "At least I'll be able to eat my fill with this.",
+        "zh": "至少能填饱肚子。"
+      },
+      "source_id": 37076
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Тебе правда нравится эта еда?",
+        "en": "Do you really like this food?",
+        "zh": "你对这种食物很感兴趣吗？"
+      },
+      "source_id": 37077
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "О Далии...",
+        "en": "About Dahlia",
+        "zh": "关于塔利雅…"
+      },
+      "text": {
+        "ru": "Мне нравится, что он всегда предлагает оплатить счёт. Кроме того, он знает, как вести себя в таверне: что можно спросить, а каких вопросов лучше избегать. Но с тех пор как мы узнали друг друга поближе, мне не нужно быть с ним настороже. Гораздо легче находить общий язык с умными людьми, такими как он.",
+        "en": "I like that he's in the habit of always offering to pick up the tab. In fact, his tavern etiquette in general is very good: He knows which questions he can ask and which ones to avoid. But since we figured each other out, I don't need to be too guarded around him anymore. It's so much easier to get along with people when they're smart like him.",
+        "zh": "主动请客是个好习惯，除此之外，他在酒桌上也很有分寸，知道什么该问，什么不该问。摸清彼此底牌后，我不必过多防备他，和聪明人打交道总是轻松的。"
+      },
+      "source_id": 37078
+    }
+  ],
+  "replica_count": 70
 }

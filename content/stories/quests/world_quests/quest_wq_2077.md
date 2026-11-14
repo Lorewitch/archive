@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 10004
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_2077
 # quest_series: Witch's Homework
 # version_source: verified_override
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 10004
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 30
 
 ## RU
 
@@ -68,7 +71,7 @@
 
 **Мона:** Займись ими другим способом, старая ведьма!
 
-Кажется, это очень личное...
+- **Путешественник:** Кажется, это очень личное...
 
 **Барбелот:** «Я уверена, тебе интересно, для чего я пишу это письмо. И я отвечу так... Если хочешь научиться предсказывать судьбу целого королевства или даже всего мира...
 
@@ -93,6 +96,8 @@
 **Паймон:** Раз уж ты не упомянула о транспортных расходах, Паймон предполагает, что это означает...
 
 **Мона:** Да! Тот же метод, что и всегда! Вперёд!
+
+#### Отправляйтесь к вратам Каэнри'ах
 
 #### Отправляйтесь к вратам Каэнри'ах
 
@@ -143,6 +148,12 @@
 **Мона:** Не вышло. Знамение истины открылось ровно настолько, чтобы монстры смогли проскользнуть.
 
 **Мона:** Проклятье! Я так и не увидела настоящих звёзд. Ну и ладно... Зато есть хоть на ком злость выместить.
+
+#### Отправляйтесь к вратам Каэнри'ах
+
+#### Победите монстров Бездны
+
+#### Поговорите с Моной
 
 #### Поговорите с Моной
 
@@ -222,7 +233,7 @@ Following the hints in the dictionary, you and Paimon decide to deliver the assi
 
 **Mona:** Well, then get it some other way, you old hag!
 
-Um, on second thought, this seems kinda private...
+- **Traveler:** Um, on second thought, this seems kinda private...
 
 **Barbeloth:** "Now, I'm sure you're curious as to the purpose of this letter. And to that, I say this... If you want to learn how to predict the fate of an entire kingdom, or even the entire world..."
 
@@ -247,6 +258,8 @@ Um, on second thought, this seems kinda private...
 **Paimon:** And since you didn't mention a transportation fee just now, Paimon's guessing that means...
 
 **Mona:** Yep! Same method as usual! Let's go!
+
+#### Head to the gates of Khaenri'ah
 
 #### Head to the gates of Khaenri'ah
 
@@ -297,6 +310,12 @@ Um, on second thought, this seems kinda private...
 **Mona:** No dice. The Sign of Truth only opened long enough for the monsters to slip through.
 
 **Mona:** Darn it! I didn't get a glimpse of the real stars at all. Whatever... I'll just take it out on you.
+
+#### Head to the gates of Khaenri'ah
+
+#### Defeat the Abyssal monsters
+
+#### Talk to Mona
 
 #### Talk to Mona
 
@@ -376,7 +395,7 @@ After sorting through the observation results, you all return to Mondstadt.
 
 **莫娜:** 老——太——婆——
 
-要不咱们还是别看了。
+- **旅行者:** 要不咱们还是别看了。
 
 **芭比洛斯:** 「闲话不说了。你想要知道怎么测算王国甚至是世界的命运吗？」
 
@@ -401,6 +420,8 @@ After sorting through the observation results, you all return to Mondstadt.
 **派蒙:** 你刚才没有提到交通费，难道是说？
 
 **莫娜:** 没错，就是用老办法。一起走吧。
+
+#### 前往坎瑞亚的大门之前
 
 #### 前往坎瑞亚的大门之前
 
@@ -451,6 +472,12 @@ After sorting through the observation results, you all return to Mondstadt.
 **莫娜:** 看样子没完全成功。就结果而言只打开了一瞬间，然后这些怪物就穿越「渴真天象」过来了。
 
 **莫娜:** 啊啊，真生气。真实星空一眼都没看上，就拿你们撒气好了。
+
+#### 前往坎瑞亚的大门之前
+
+#### 击败出现的深渊魔物
+
+#### 与莫娜对话
 
 #### 与莫娜对话
 

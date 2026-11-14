@@ -15,18 +15,23 @@
 # part_source_ids: 76148,76152
 # previous_quests: quest_wq_10094
 # next_quests: quest_wq_10132
-# related_quests: quest_wq_10086,quest_wq_70099,quest_wq_10094,quest_wq_10132
-# quest_chain: quest_wq_10086,quest_wq_70099,quest_wq_10094,quest_wq_10095,quest_wq_10132
+# related_quests: quest_wq_70099,quest_wq_10086,quest_wq_10094,quest_wq_10132
+# quest_chain: quest_wq_70099,quest_wq_10086,quest_wq_10094,quest_wq_10095,quest_wq_10132
 # quest_series: A Long Day in the Mountains
 # version_source: wiki_release_category
 
 # quest_series_ru: Долгий день в горах
+# game_source_ids: 76148,76152
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 40
 
 ## RU
 
 ### Львиная доблесть
 
 Вы нашли потерянные вещи Цайтлинд и освободили три области, но проблема ещё не полностью решена...
+
+#### Продолжайте поиски
 
 #### Поговорите с Историем
 
@@ -36,7 +41,7 @@
 
 **Историй:** Похоже, мы снова оказались в Зале безучастия.
 
-Как же нам выбраться отсюда?
+- **Путешественник:** Как же нам выбраться отсюда?
 
 **Историй:** Обычно это достигается с помощью медитации. Научитесь контролировать свой ум и мысли, а затем откажитесь от всех желаний.
 
@@ -46,13 +51,13 @@
 
 **Историй:** Такой человек, как ты, несёт на плечах судьбу мира. Боюсь, ты не сможешь отказаться от своих желаний. Да и не следует от них отказываться.
 
-Что нам теперь делать?
+- **Путешественник:** Что нам теперь делать?
 
 **Историй:** Сначала найдём Цайтлинд, а потом придумаем план.
 
 **Декс:** !
 
-Что ты подобрал?
+- **Путешественник:** Что ты подобрал?
 
 **Историй:** Декс, тебя тоже сюда затянуло?
 
@@ -66,6 +71,22 @@
 
 **Историй:** Тогда эти фрагменты будут называться фрагментами забвения.
 
+#### Соберите фрагменты забвения
+
+#### Соберите фрагменты забвения
+
+#### Снимите печать
+
+#### Используйте способности Декса, чтобы открыть проход
+
+#### Поднимитесь по лестнице
+
+#### Поднимитесь по лестнице
+
+#### Покиньте Зал безучастия
+
+#### Вернитесь в центр Зала столпов
+
 #### Поговорите с остальными
 
 **Паймон:** А-а-а! Где вы были? Вы Паймон до смерти напугали!
@@ -74,15 +95,15 @@
 
 **Историй:** Почему малышку Паймон не затянуло в Зал безучастия?
 
-Может, потому что кроме еды и сна...
+- **Путешественник:** Может, потому что кроме еды и сна...
 
-...она больше ни о чём не думает?
+- **Путешественник:** ...она больше ни о чём не думает?
 
 **Историй:** Логично.
 
 **Историй:** Похоже, Меланта сильно разозлился.
 
-**Историй:** Нам нужно срочно отправить (путешественницу)(путешественника) к Меланте.
+**Историй:** Нам нужно срочно отправить путешественника к Меланте. / Нам нужно срочно отправить путешественницу к Меланте.
 
 **Историй:** Давайте поговорим в другом месте. Здесь небезопасно.
 
@@ -92,11 +113,21 @@
 
 Вы нашли потерянные вещи Цайтлинд и освободили три области, но проблема ещё не полностью решена...
 
+#### Уйдите вместе с Цайтлинд
+
+#### Идите вперёд...
+
+#### Идите вперёд...
+
+#### Преодолейте препятствия
+
 ## EN
 
 ### Lion's Celerity
 
 You've recovered Zeitlind's lost belongings and liberated the three areas, but the problem is far from resolved...
+
+#### Explore up ahead
 
 #### Talk to Istoria
 
@@ -106,7 +137,7 @@ You've recovered Zeitlind's lost belongings and liberated the three areas, but t
 
 **Istoria:** Looks like we've all been cast back into the Apathic Interval.
 
-So how are we supposed to get out?
+- **Traveler:** So how are we supposed to get out?
 
 **Istoria:** The usual way is through meditation — learning to master your mind and thoughts, and then letting go of every desire.
 
@@ -116,13 +147,13 @@ So how are we supposed to get out?
 
 **Istoria:** For someone like you who carries the fate of the world on your shoulders, your desires probably can't be cast aside... nor should they be.
 
-Then what do we do?
+- **Traveler:** Then what do we do?
 
 **Istoria:** Let's find Zeitlind, and figure it out from there.
 
 **Dex:** !
 
-What'd you pick up?
+- **Traveler:** What'd you pick up?
 
 **Istoria:** Wait, Dex was dragged in as well?
 
@@ -136,6 +167,22 @@ What'd you pick up?
 
 **Istoria:** In which case, let's call the fragments Deathmuse Shards.
 
+#### Collect Deathmuse Shards
+
+#### Collect Deathmuse Shards
+
+#### Break the seal
+
+#### Use Dex's ability to clear a path
+
+#### Climb the stairs
+
+#### Climb the stairs
+
+#### Escape the Apathic Interval
+
+#### Return to the center of the Pillar Hall
+
 #### Talk to everyone
 
 **Paimon:** Ugh! Where did you two go just now? Paimon nearly had a heart attack there.
@@ -144,9 +191,9 @@ What'd you pick up?
 
 **Istoria:** Hmm? Why wasn't Paimon dragged into the Apathic Interval?
 
-Well... maybe because other than eating and sleeping...
+- **Traveler:** Well... maybe because other than eating and sleeping...
 
-She doesn't really think about much at all?
+- **Traveler:** She doesn't really think about much at all?
 
 **Istoria:** Hmm. Makes sense.
 
@@ -162,11 +209,21 @@ She doesn't really think about much at all?
 
 You've recovered Zeitlind's lost belongings and liberated the three areas, but the problem is far from resolved...
 
+#### Leave with Zeitlind
+
+#### Go forward...
+
+#### Go forward...
+
+#### Destroy the obstacles
+
 ## ZH
 
 ### 狮子奋迅
 
 找回了彩特琳德的失物，也顺便解放了三个区域，但问题还没有完全解决…
+
+#### 向前探索
 
 #### 与伊斯托利亚对话
 
@@ -176,7 +233,7 @@ You've recovered Zeitlind's lost belongings and liberated the three areas, but t
 
 **伊斯托利亚:** 看来我们都被重新投入无想之间了。
 
-所以我们应该怎么出去？
+- **旅行者:** 所以我们应该怎么出去？
 
 **伊斯托利亚:** 常规办法就是学习冥想，控制心和思绪。然后抛弃所有渴望的念头。
 
@@ -186,13 +243,13 @@ You've recovered Zeitlind's lost belongings and liberated the three areas, but t
 
 **伊斯托利亚:** 像你这种背负世界命运的人，渴望恐怕无法被自己割舍吧。何况也不应该被舍弃。
 
-那怎么办？
+- **旅行者:** 那怎么办？
 
 **伊斯托利亚:** 先找到彩特琳德再想办法吧。
 
 **小右:** ！
 
-你捡来了什么？
+- **旅行者:** 你捡来了什么？
 
 **伊斯托利亚:** 等等，小右也一起被拉进来了？
 
@@ -206,6 +263,22 @@ You've recovered Zeitlind's lost belongings and liberated the three areas, but t
 
 **伊斯托利亚:** 那这些碎片就叫做「念亡碎片」吧。
 
+#### 收集「念亡碎片」
+
+#### 收集「念亡碎片」
+
+#### 解除封印
+
+#### 借助小右的能力，打开通路
+
+#### 登上阶梯
+
+#### 登上阶梯
+
+#### 逃离无想之间
+
+#### 回到柱殿中心
+
 #### 与众人对话
 
 **派蒙:** 呜啊，你们刚才去哪里了！吓死我了。
@@ -214,9 +287,9 @@ You've recovered Zeitlind's lost belongings and liberated the three areas, but t
 
 **伊斯托利亚:** 为什么派蒙这个小家伙没有被拉入无想之间？
 
-可能她除了吃和睡…
+- **旅行者:** 可能她除了吃和睡…
 
-…本身就什么也不想吧。
+- **旅行者:** …本身就什么也不想吧。
 
 **伊斯托利亚:** 有道理。
 
@@ -231,3 +304,11 @@ You've recovered Zeitlind's lost belongings and liberated the three areas, but t
 ### 狮子奋迅
 
 找回了彩特琳德的失物，也顺便解放了三个区域，但问题还没有完全解决…
+
+#### 和彩特琳德一起离开
+
+#### 向前…
+
+#### 向前…
+
+#### 打破阻碍

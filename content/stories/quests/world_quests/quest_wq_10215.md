@@ -20,15 +20,46 @@
 # quest_series: Lost Traveler in the Ashen Realm
 # version_source: wiki_release_category
 
-# quest_series_ru: Потерянный путешественник в царстве пепла
+# quest_series_ru: Заблудший путник в обители пепла
+# game_source_ids: 75133,75134,75135
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 20
 
 ## RU
 
 ### Приключение в Царстве туманов
 
+#### Журнал
+
+**Паймон:** С тех пор как мы победили злого дракона, Малыш ждёт случая проявить себя. Наверное, он втайне соперничает с Коко?
+
+**Паймон:** Ну что, Малыш, есть мысли?
+
+**Паймон:** Паймон не думала, что ты так воодушевишься, Малыш. Тогда давайте посмотрим, как отсюда спуститься.
+
+**Бона:** О, я не знаю, что это такое, но Малыш, похоже, разбирается, так что давайте проверим!
+
+**Паймон:** Открыто! Умничка, Малыш! Это ты нашёл механизм!
+
+Молодец, Малыш.
+
+Не бойся, наш Малыш - настоящий храбрец.
+
+Идём, Малыш!
+
+**Паймон:** Странно. Ты тоже так думаешь, Малыш? Путешественник, посмотри, что там написано?
+
+Малыш расскажет обо всём за нас.
+
+**Паймон:** Мы с тобой можем летать, а как же Малыш и Бона?
+
+**Паймон:** Как-то это опасно. И непонятно, что нас там ждёт. Малыш, держись за нас!
+
 Одолев злого дракона, вы и самопровозглашённая искательница приключений Бона отправляетесь в путешествие вместе с таинственным Коко, чтобы найти «Тонатиу» и Нефрит Возвращения...
 
 #### Следуйте указаниям Коко, чтобы найти Алтарь Первозданного огня
+
+#### Поговорите с Боной
 
 **Паймон:** Паймон не ожидала, что Коко приведёт нас сюда. Ещё одна странная крепость. Совсем как та, где мы встретили Бону.
 
@@ -46,9 +77,9 @@
 
 **Паймон:** Ох, перестань! Твои истории пугают даже Коко!
 
-**Малыш:** Р-р-р! Р-р-р!
+**[Имя]:** Р-р-р! Р-р-р!
 
-**Паймон:** С тех пор как мы победили злого дракона, Малыш ждёт случая проявить себя. Наверное, он втайне соперничает с Коко?
+**Паймон:** С тех пор как мы победили злого дракона, [Имя] ждёт случая проявить себя. Наверное, он втайне соперничает с Коко?
 
 **Паймон:** Ну ладно, и где Алтарь, который мы ищем?
 
@@ -56,15 +87,15 @@
 
 **Бона:** Неужели вышла ошибка? Алтарь Первозданного огня не должен прятаться в горе. Как мы поднимемся оттуда в небо? Для этого придётся всю гору разрушить...
 
-Может быть, там приготовлено какое-нибудь специальное средство...
+- **Путешественник:** Может быть, там приготовлено какое-нибудь специальное средство...
 
 **Паймон:** Что же теперь делать? Внизу ты была уверена, что всё получится. И мы не понимаем, что говорит Коко.
 
 **Кокоуик:** Кулу...
 
-**Малыш:** Р-р-р! Р-р-р!
+**[Имя]:** Р-р-р! Р-р-р!
 
-**Паймон:** Ну что, Малыш, есть мысли?
+**Паймон:** Ну что, [Имя], есть мысли?
 
 **Бона:** Кажется, я поняла. Паймон, он хочет сказать, что сухая логика никуда нас не приведёт.
 
@@ -72,11 +103,11 @@
 
 **Бона:** Ладно, что бы там ни было внизу, думаю, мы должны пойти и проверить. Это ведь тоже приключение!
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
-**Паймон:** Паймон не думала, что ты так воодушевишься, Малыш. Тогда давайте посмотрим, как отсюда спуститься.
+**Паймон:** Паймон не думала, что ты так воодушевишься, [Имя]. Тогда давайте посмотрим, как отсюда спуститься.
 
-#### Поговорите с Боной
+#### Исследуйте окрестности руин
 
 **Бона:** Что-нибудь нашли?
 
@@ -88,9 +119,11 @@
 
 **Бона:** Это Скверна Бездны, которая всё ещё формируется, и кажется, что она просачивается сверху... Гм, а я думала, рядом с рисунками мы будем в безопасности.
 
-**Малыш:** Р-р-р... Р-р-р!
+**[Имя]:** Р-р-р... Р-р-р!
 
 **Бона:** А? О нет, кажется, что-то вот-вот упадёт. Будьте осторожны!
+
+#### Победите внезапно появившихся монстров
 
 #### Поговорите с Боной
 
@@ -100,17 +133,21 @@
 
 **Паймон:** Ну, мы нашли кое-что, похожее на механизм, но это довольно непросто...
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
-**Бона:** О, я не знаю, что это такое, но Малыш, похоже, разбирается, так что давайте проверим!
+**Бона:** О, я не знаю, что это такое, но [Имя], похоже, разбирается, так что давайте проверим!
+
+#### Осмотрите предмет, похожий на механизм
+
+#### Запустите механизм
 
 #### Поговорите с Боной
 
-**Паймон:** Открыто! Умничка, Малыш! Это ты нашёл механизм!
+**Паймон:** Открыто! Умничка, [Имя]! Это ты нашёл механизм!
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
-Молодец, Малыш.
+- **Путешественник:** Молодец, [Имя].
 
 **Паймон:** Рано радоваться! Впереди нас ждёт ещё много испытаний!
 
@@ -126,17 +163,17 @@
 
 **Паймон:** Бона, не заставляй его. Кажется, он правда очень боится. А вдруг внизу нас ждёт что-то очень и очень страшное?
 
-Я тоже боюсь!
+- **Путешественник:** Я тоже боюсь!
 
 **Паймон:** Да ладно, ты чего? Соберись, бери пример с нашего малыша!
 
-Мне не терпится туда спуститься.
+- **Путешественник:** Мне не терпится туда спуститься.
 
 **Паймон:** Кто бы мог подумать, что ты покажешь такое рвение. Но Паймон согласна: вряд ли тебе страшен тот, кто там прячется...
 
-Не бойся, наш Малыш - настоящий храбрец.
+- **Путешественник:** Не бойся, наш [Имя] - настоящий храбрец.
 
-**Малыш:** Р-р... Р-р-р!
+**[Имя]:** Р-р... Р-р-р!
 
 **Паймон:** Если Коко боится, давайте оставим его здесь. Вот только бросать его одного опасно...
 
@@ -144,13 +181,15 @@
 
 **Бона:** Только обещайте, что вернётесь, какой бы ни оказалась находка!
 
-Мы не бросаем своих товарищей.
+- **Путешественник:** Мы не бросаем своих товарищей.
 
 **Бона:** Да?.. Хорошо, я вам верю. Мы будем ждать вас здесь.
 
-Не беспокойся, мы обязательно вернёмся!
+- **Путешественник:** Не беспокойся, мы обязательно вернёмся!
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
+
+Злому дракону удалось сбежать...
 
 ### Дворец иллюзорного змея
 
@@ -164,23 +203,23 @@
 
 #### Исследуйте руины
 
-**Малыш:** У-у-у...
+**[Имя]:** У-у-у...
 
 **Паймон:** Ого, снаружи всё поражено разложением Бездны. Нас может завалить в любой момент. Как думаешь, это то, на что указывал Коко?
 
 **Паймон:** И неизвестно, что внутри. Хотя Паймон уверена, что никакого Алтаря там нет...
 
-«Сухая логика никуда нас не приведёт...»
+- **Путешественник:** «Сухая логика никуда нас не приведёт...»
 
 **Паймон:** Теперь Паймон понимает. Коко не хотел сюда идти из-за Бездны.
 
-Мы должны разобраться с Бездной.
+- **Путешественник:** Мы должны разобраться с Бездной.
 
 **Паймон:** Да. И Коко не хотел сюда идти из-за Бездны. Мы должны от неё избавиться!
 
-Идём, Малыш!
+- **Путешественник:** Идём, [Имя]!
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
 **Паймон:** Стойте, а как же Паймон? Ну вы даёте!
 
@@ -188,45 +227,63 @@
 
 #### Подойдите к подозрительному ядру
 
+#### Найдите способ очистить загрязнение Бездны
+
+#### Найдите способ очистить загрязнение Бездны
+
+#### Исследуйте подозрительное упавшее ядро
+
+#### Защитите упавшее ядро и одолейте монстров
+
+#### Исследуйте подозрительное упавшее ядро
+
 **Паймон:** Фух... Наконец-то всё.
 
 **Паймон:** И Автоматон таинственного источника, что защищал его, тоже утих.
 
 **Паймон:** Теперь давайте посмотрим, что там внутри!
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
 **Паймон:** Паймон надеется, там что-нибудь стоящее... Что? Пирофосфорит? Значит, он не один?
 
 **Паймон:** Смотри, свиток, в котором он лежит, выглядит подозрительно знакомо... Почерк такой же, как в записках, которые мы нашли в башне у древнего города.
 
-**Малыш:** Р-р... Р-р-р!
+**[Имя]:** Р-р... Р-р-р!
 
-**Паймон:** Странно. Ты тоже так думаешь, Малыш? Путешественник, посмотри, что там написано?
+**Паймон:** Странно. Ты тоже так думаешь, [Имя]? Путешественник, посмотри, что там написано?
 
 **Паймон:** Ого! Записки оставил тот самый искатель приключений! Значит, Ядро Чуулел здесь?
 
-- **Путешественник:** Может, и нет.
+##### Вариант ответа 1
 
-- **Путешественник:** Слишком много всего непонятного.
+- **Путешественник:** Может, и нет.
 
 **Паймон:** Да. И мы ведь нашли здесь пирофосфорит! Может, есть ещё и другие пирофосфориты?
 
+##### Вариант ответа 2
+
+##### Общее продолжение
+
+- **Путешественник:** Слишком много всего непонятного.
+
 **Паймон:** Да, и Коко привёл нас сюда! Неужели он сразу знал, что здесь спрятан ещё один пирофосфорит? И хотел, чтобы мы его нашли? Паймон не понимает...
 
-**Малыш:** Ру-у-у...
+**[Имя]:** Ру-у-у...
 
-Давайте вернёмся.
+- **Путешественник:** Давайте вернёмся.
 
 **Паймон:** Да. Наверняка Коко уже знает, что произошло. И мы обещали Боне вернуться, какой бы ни оказалась находка.
 
-Давайте отнесём это Боне.
+- **Путешественник:** Давайте отнесём это Боне.
 
 **Паймон:** Да. Может, Бона объяснит нам, что происходит. И мы обещали Боне вернуться, какой бы ни оказалась находка.
 
 **Паймон:** Уходим, скорее!
 
-#### Найдите способ очистить загрязнение Бездны
+#### Встретьтесь с Боной
+
+#### Поговорите с Боной
 
 **Бона:** Ох, наконец вы вернулись!
 
@@ -240,11 +297,11 @@
 
 **Бона:** А вдруг мой поддельный? Может, поэтому за все эти годы я не заметила в нём ничего необычного.
 
-Вряд ли...
+- **Путешественник:** Вряд ли...
 
 **Паймон:** Наш тоже отличается от обычного камня только узором.
 
-И ещё мы нашли...
+- **Путешественник:** И ещё мы нашли...
 
 **Паймон:** Да, мы нашли странные записки! Скорее всего, их оставил искатель приключений, который был здесь до нас. Хочешь посмотреть?
 
@@ -266,13 +323,13 @@
 
 **Бона:** Если мы не найдём «Тонатиу» и не завладеем Нефритом Возвращения, их жизни лишатся смысла!
 
-Путешествие ценно само по себе.
+- **Путешественник:** Путешествие ценно само по себе.
 
 **Бона:** Ты так думаешь? Знаешь, в Натлане редко можно встретить искателей приключений, которые ценят путешествие как опыт.
 
 **Бона:** В мире есть искатели приключений, у которых за душой ни одного подвига, но большинство всё же стремится к достижениям, чтобы доказать свою ценность. Разве нет?
 
-Важен полученный опыт.
+- **Путешественник:** Важен полученный опыт.
 
 **Бона:** Ты говоришь так, будто знаешь, что корабль на небе действительно существует. А что, если нет никакого «Тонатиу»?
 
@@ -282,17 +339,17 @@
 
 **Бона:** Итак, Путешественник и Паймон, если мы отыщем «Тонатиу» и благополучно вернёмся назад, вы должны будете в красках рассказать Гильдии о наших подвигах!
 
-Не беспокойся, Паймон это умеет.
+- **Путешественник:** Не беспокойся, Паймон это умеет.
 
 **Паймон:** Что? Ты хочешь сказать, что Паймон хвастунишка? Знаешь, если мы правда отыщем легендарный корабль, стоит только шепнуть Катерине, и на другой день об этом узнает весь Тейват!
 
-Хорошо.
+- **Путешественник:** Хорошо.
 
 **Паймон:** Да, мы ведь легендарные искатели приключений! Расскажем о нашем подвиге репортёрам, и завтра новость будет на первых полосах всех газет!
 
-Малыш расскажет обо всём за нас.
+- **Путешественник:** [Имя] расскажет обо всём за нас.
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
 
 **Паймон:** Здорово, что он согласился, но он сможет рассказать о наших подвигах только искателям приключений среди заврианов... Стоп, а среди заврианов тоже есть искатели приключений?
 
@@ -302,7 +359,7 @@
 
 **Кокоуик:** Кулу...
 
-**Малыш:** Р-р-р... Р-р-р...
+**[Имя]:** Р-р-р... Р-р-р...
 
 **Паймон:** Ч-что происходит? Свет! Паймон сейчас ослепнет!
 
@@ -310,19 +367,19 @@
 
 **Паймон:** Ого, похоже, к Коко вдруг вернулись силы!
 
-Видимо, Супермощный сверхлазер снова готов к бою.
+- **Путешественник:** Видимо, Супермощный сверхлазер снова готов к бою.
 
-**Паймон:** Ох, и как ты только запомнил(а) такое напыщенное название?
+**Паймон:** Ох, и как ты только запомнил такое напыщенное название? / Ох, и как ты только запомнила такое напыщенное название?
 
 **Паймон:** А вдруг тут действует тот же принцип, что и с энергетическими осколками? И на самом деле пирофосфорит нужен, чтобы накапливать энергию?
 
-Похоже, в пирофосфорите содержится та же самая энергия.
+- **Путешественник:** Похоже, в пирофосфорите содержится та же самая энергия.
 
 **Паймон:** Да, такая же, как в тех энергетических осколках...
 
 **Паймон:** И она помогает Коко сражаться с Бездной!
 
-**Малыш:** Р-р, р-р-р!
+**[Имя]:** Р-р, р-р-р!
 
 **Бона:** Путешественник, смотрите!
 
@@ -330,13 +387,13 @@
 
 **Бона:** Значит, вот что скрывалось за тем рисунком, который мы видели сначала...
 
-И на том рисунке мы тоже видели...
+- **Путешественник:** И на том рисунке мы тоже видели...
 
 **Паймон:** Да! Это ведь большой чёрный дракон с рисунка в руинах, где мы получили первое Золотое прошение?
 
 **Паймон:** Но из этого рисунка следует, что настоящий хозяин здесь - большой чёрный дракон.
 
-Дракон, захвативший город...
+- **Путешественник:** Дракон, захвативший город...
 
 **Паймон:** Да, из рисунка следует, что настоящий хозяин здесь - злой дракон.
 
@@ -364,25 +421,29 @@
 
 #### Следуйте указаниям Коко, чтобы найти Алтарь Первозданного огня
 
+#### Следуйте указаниям Коко, чтобы найти Алтарь Первозданного огня
+
 **Паймон:** Это и есть Алтарь? Ого, добраться туда будет непросто...
 
-**Паймон:** Мы с тобой можем летать, а как же Малыш и Бона?
+**Паймон:** Мы с тобой можем летать, а как же [Имя] и Бона?
 
 **Бона:** Вы что, забыли? Я искательница приключений из клана Цветочного Пера! У меня богатый лётный опыт.
 
 **Бона:** Я долечу туда даже с вашим заврёнком на буксире.
 
-У меня тоже есть лётная лицензия.
+- **Путешественник:** У меня тоже есть лётная лицензия.
 
 **Бона:** Вот и отлично. Я буду показывать дорогу, а вы постарайтесь не отстать.
 
-Устроим испытание на скорость?
+- **Путешественник:** Устроим испытание на скорость?
 
 **Бона:** Сейчас не время для соревнований. Я буду показывать дорогу, а вы постарайтесь не отстать.
 
-**Паймон:** Как-то это опасно. И непонятно, что нас там ждёт. Малыш, держись за нас!
+**Паймон:** Как-то это опасно. И непонятно, что нас там ждёт. [Имя], держись за нас!
 
-**Малыш:** Р-р-р!
+**[Имя]:** Р-р-р!
+
+#### Отправляйтесь к Алтарю Первозданного огня
 
 #### Отправляйтесь к Алтарю Первозданного огня
 
@@ -394,23 +455,65 @@
 
 **Паймон:** Ох, у Паймон от одной мысли об этом сердце не на месте.
 
-- **Путешественник:** Паймон, не бойся.
+##### Вариант ответа 1
 
-- **Путешественник:** Как волнующе!
+- **Путешественник:** Паймон, не бойся.
 
 **Паймон:** Ну ладно. Только не отлетай далеко от Паймон!
 
+##### Вариант ответа 2
+
+- **Путешественник:** Как волнующе!
+
 **Бона:** Ну да, и Паймон тоже взволнована! Ни один настоящий искатель приключений не пропустит такое испытание!
 
+##### Общее продолжение
+
 **Бона:** Итак, мы должны положить пирофосфорит на Алтарь? Но у нас два пирофосфорита... Гм. Давайте на всякий случай положим оба.
+
+#### Поднесите пирофосфорит Алтарю Первозданного огня
+
+#### Летите на «Тонатиу»
+
+#### Летите на «Тонатиу»
 
 ## EN
 
 ### Adventure in the Land of Mists
 
+#### Quest log
+
+**Paimon:** Little One sure has been eager to do something since we defeated the dragon. Is he in some kind of secret contest with Coco?
+
+**Paimon:** Any ideas, Little One?
+
+**Paimon:** Huh, you sure are excited, Little One. Well, time to figure out how to get down there.
+
+**Bona:** Oh, I don't know what you mean, but Little One looks pretty clued in, so let's check it out anyway!
+
+**Paimon:** It's open! You're awesome, Little One! We wouldn't have found the mechanism without you!
+
+I knew you could do it, Little One.
+
+**Paimon:** Now, really? C'mon, pull yourself together like Little One, why don't you?
+
+Let's go, Little One!
+
+**Paimon:** That's pretty strange. Don't you think so too, Little One? Traveler, what's written on them?
+
+Little One will take care of it.
+
+**Paimon:** We can fly just fine, but how about Little One and Bona?
+
+**Bona:** I can get over there, easy, even with Little One in tow.
+
+**Paimon:** Hmm... This feels like it could get super dangerous, and we can't know what might happen, so hold on tight, Little One!
+
 After finally repelling the evil dragon, you and the self-proclaimed adventurer Bona set off on a journey alongside the mysterious Cocouik to find the Tonatiuh and the Jade of Return...
 
 #### Follow Coco's guidance to find the Altar of Primal Flame
+
+#### Talk to Bona
 
 **Paimon:** Paimon didn't expect Coco to lead us here. This strange fortress looks just like the place where we met you, Bona.
 
@@ -428,9 +531,9 @@ After finally repelling the evil dragon, you and the self-proclaimed adventurer 
 
 **Paimon:** Please stop with the stories! You're scaring Coco!
 
-**Little One:** Rawr! Rawr!
+**[Name]:** Rawr! Rawr!
 
-**Paimon:** Little One sure has been eager to do something since we defeated the dragon. Is he in some kind of secret contest with Coco?
+**Paimon:** [Name] sure has been eager to do something since we defeated the dragon. Is he in some kind of secret contest with Coco?
 
 **Paimon:** Anyway, where's this Altar we're looking for?
 
@@ -438,15 +541,15 @@ After finally repelling the evil dragon, you and the self-proclaimed adventurer 
 
 **Bona:** Did we mess up? The Altar of Primal Flame can't be inside the mountain, can it? How would we be transported into the sky then, unless the mountain itself collapses?
 
-There could be a special transportation mode at play...
+- **Traveler:** There could be a special transportation mode at play...
 
 **Paimon:** Well, what now, then? You were so sure while we were down there. And we can't understand what Coco is trying to say, either.
 
 **Cocouik:** Kulu...
 
-**Little One:** Rawr! Rawr!
+**[Name]:** Rawr! Rawr!
 
-**Paimon:** Any ideas, Little One?
+**Paimon:** Any ideas, [Name]?
 
 **Bona:** I think I get it now. It's trying to tell us that following rigid logic won't get us anywhere!
 
@@ -454,11 +557,11 @@ There could be a special transportation mode at play...
 
 **Bona:** Well, regardless of what's below us, I say we go check it out. I mean, we're on an adventure, aren't we?
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
-**Paimon:** Huh, you sure are excited, Little One. Well, time to figure out how to get down there.
+**Paimon:** Huh, you sure are excited, [Name]. Well, time to figure out how to get down there.
 
-#### Talk to Bona
+#### Investigate the area around the ruins
 
 **Bona:** Found anything?
 
@@ -470,9 +573,11 @@ There could be a special transportation mode at play...
 
 **Bona:** This is nascent Abyssal Blight. Looks like it's seeping down from above... Hmm, I thought a place festooned with frescoes would be safer.
 
-**Little One:** Rrah... Rawr!
+**[Name]:** Rrah... Rawr!
 
 **Bona:** Huh? Uh-oh, I think something's gonna fall down. Watch out, everyone!
+
+#### Defeat the ambushing monsters
 
 #### Talk to Bona
 
@@ -482,17 +587,21 @@ There could be a special transportation mode at play...
 
 **Paimon:** Well, we did find something that looks like a mechanism, but it's kind of a pain...
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
-**Bona:** Oh, I don't know what you mean, but Little One looks pretty clued in, so let's check it out anyway!
+**Bona:** Oh, I don't know what you mean, but [Name] looks pretty clued in, so let's check it out anyway!
+
+#### Check on the mechanism-like object
+
+#### Activate the mechanism
 
 #### Talk to Bona
 
-**Paimon:** It's open! You're awesome, Little One! We wouldn't have found the mechanism without you!
+**Paimon:** It's open! You're awesome, [Name]! We wouldn't have found the mechanism without you!
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
-I knew you could do it, Little One.
+- **Traveler:** I knew you could do it, [Name].
 
 **Paimon:** But don't get ahead of yourself. Plenty of challenges await us!
 
@@ -508,17 +617,17 @@ I knew you could do it, Little One.
 
 **Paimon:** You shouldn't force the issue, Bona. It really does look super scared. Could there be something super dangerous down there?
 
-I'm scared too!
+- **Traveler:** I'm scared too!
 
-**Paimon:** Now, really? C'mon, pull yourself together like Little One, why don't you?
+**Paimon:** Now, really? C'mon, pull yourself together like [Name], why don't you?
 
-This is kind of exciting.
+- **Traveler:** This is kind of exciting.
 
 **Paimon:** Paimon didn't think you'd be so pumped up. But you can probably take on anyone we find down there, so...
 
-Don't worry, our little Saurian's a brave soul.
+- **Traveler:** Don't worry, our little Saurian's a brave soul.
 
-**Little One:** Rawr... Rawr!
+**[Name]:** Rawr... Rawr!
 
 **Paimon:** If Coco really is afraid, maybe we should have it stay behind... But not alone. That wouldn't work...
 
@@ -526,13 +635,15 @@ Don't worry, our little Saurian's a brave soul.
 
 **Bona:** But, whatever you find down there, you have to come back and find me, alright!
 
-We don't leave anyone behind.
+- **Traveler:** We don't leave anyone behind.
 
 **Bona:** I believe in you. We'll wait for you here.
 
-Don't worry, just wait here until we come back.
+- **Traveler:** Don't worry, just wait here until we come back.
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
+
+The evil dragon escapes successfully...
 
 ### Palace of the Vision Serpent
 
@@ -546,23 +657,23 @@ Following Cocouik's guidance, you come to the palace ruins on Ochkanatlan's uppe
 
 #### Explore the ruins
 
-**Little One:** Rrooh...
+**[Name]:** Rrooh...
 
 **Paimon:** Ugh, the exterior's been corroded by the Abyss. Looks like it might fall off anytime. Is this what Coco was pointing at?
 
 **Paimon:** And we don't know what's inside, either, though Paimon's pretty sure it's not the Altar...
 
-"Rigid logic won't get us anywhere..."
+- **Traveler:** "Rigid logic won't get us anywhere..."
 
 **Paimon:** Paimon gets it now. Coco didn't want to come in because of the Abyss.
 
-We have to do something about the Abyss.
+- **Traveler:** We have to do something about the Abyss.
 
 **Paimon:** Yeah, and that must be why Coco didn't want to come in. We have to get rid of it!
 
-Let's go, Little One!
+- **Traveler:** Let's go, [Name]!
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
 **Paimon:** Wait, what about Paimon? Rude!
 
@@ -570,45 +681,63 @@ Let's go, Little One!
 
 #### Approach the suspicious core
 
+#### Try to clear the Abyssal corruption out
+
+#### Try to clear the Abyssal corruption out
+
+#### Investigate the suspicious fallen core
+
+#### Protect the fallen core and repel the monsters
+
+#### Investigate the suspicious fallen core
+
 **Paimon:** Phew... It's finally over.
 
 **Paimon:** The Secret Source Automaton protecting it has also calmed down.
 
 **Paimon:** Now let's see what's inside!
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
 **Paimon:** Paimon hopes it won't let her down... Huh, another Pyrophosphorite chunk? There's more than one?
 
 **Paimon:** Wait, the woven scrolls wrapped around it look familiar. They're just like the notes we found in the tower outside the ruins...
 
-**Little One:** Rawr... Rawr!
+**[Name]:** Rawr... Rawr!
 
-**Paimon:** That's pretty strange. Don't you think so too, Little One? Traveler, what's written on them?
+**Paimon:** That's pretty strange. Don't you think so too, [Name]? Traveler, what's written on them?
 
 **Paimon:** Wow, these notes really were left behind by the same adventurer. So this must be the Core of Chu'ulel, then?
 
-- **Traveler:** There are other possibilities.
+##### Response branch 1
 
-- **Traveler:** There are too many things here that make little sense.
+- **Traveler:** There are other possibilities.
 
 **Paimon:** True, and we did find a new hunk o' Pyrophosphorite here. Maybe there are more to be found elsewhere.
 
+##### Response branch 2
+
+##### Shared continuation
+
+- **Traveler:** There are too many things here that make little sense.
+
 **Paimon:** True, and Coco did point us here. Did he know there was a Pyrophosphorite chunk and wanted us to have it? Paimon doesn't get it.
 
-**Little One:** Rroo...
+**[Name]:** Rroo...
 
-We should head back first.
+- **Traveler:** We should head back first.
 
 **Paimon:** You're right, Coco probably knows what's going on, and we did promise Bona that we'd go back no matter what we found.
 
-Let's take this back to Bona.
+- **Traveler:** Let's take this back to Bona.
 
 **Paimon:** You're right, maybe Bona will know what's going on, and we did promise her that we'd go back no matter what we found.
 
 **Paimon:** Let's get out of here, and quick.
 
-#### Try to clear the Abyssal corruption out
+#### Meet up with Bona
+
+#### Talk to Bona
 
 **Bona:** Hey! You're finally back!
 
@@ -622,11 +751,11 @@ You tell Bona about everything that transpired below.
 
 **Bona:** Wait, could mine be a counterfeit? ... Hmm, that might be why I haven't noticed anything special about it all these years.
 
-That can't be...
+- **Traveler:** That can't be...
 
 **Paimon:** The one we found down there looks ordinary too, other than the patterns on it.
 
-We also discovered that...
+- **Traveler:** We also discovered that...
 
 **Paimon:** Right, we found some strange notes left behind by an adventurer. Do you want to see 'em?
 
@@ -648,13 +777,13 @@ We also discovered that...
 
 **Bona:** If we cannot find the Tonatiuh and retrieve the Jade of Return, then everything they did would have been in vain.
 
-The journey itself is significant.
+- **Traveler:** The journey itself is significant.
 
 **Bona:** You really think so? It's rare to find adventurers who emphasize the journey in Natlan.
 
 **Bona:** Adventurers with no accomplishments do exist, but most adventurers need something to prove themselves, no?
 
-The experience is important.
+- **Traveler:** The experience is important.
 
 **Bona:** Your point assumes that the ship actually exists. What if it's just a story?
 
@@ -664,17 +793,17 @@ The experience is important.
 
 **Bona:** So, if we do find the vessel and return safely, make sure you two tell everyone at the Adventurers' Guild about what we've done, alright?
 
-Don't worry, Paimon has a knack for such things.
+- **Traveler:** Don't worry, Paimon has a knack for such things.
 
 **Paimon:** What, are you trying to say that Paimon is good at exaggerating? Anyway, if we really do find the legendary ship, telling Katheryne will be as good as telling all of Teyvat!
 
-Leave it to me.
+- **Traveler:** Leave it to me.
 
 **Paimon:** Hehe, we are legendary adventurers, after all. Just give any journalist our story and we'll be all over the headlines!
 
-Little One will take care of it.
+- **Traveler:** [Name] will take care of it.
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
 
 **Paimon:** Paimon's happy it agreed, but even if it wanted to say something, it can only talk to other Saurian adventurers, right? ...Wait, are Saurian adventurers even a thing?
 
@@ -684,7 +813,7 @@ Little One will take care of it.
 
 **Cocouik:** Kulu...
 
-**Little One:** Rooo... Rawr...
+**[Name]:** Rooo... Rawr...
 
 **Paimon:** Wh—What's going on? The light! It stings!
 
@@ -692,19 +821,19 @@ Little One will take care of it.
 
 **Paimon:** Huh! Coco suddenly looks... invigorated!
 
-Looks like firing the "Super Awesomesauce Laser" shouldn't be a problem.
+- **Traveler:** Looks like firing the "Super Awesomesauce Laser" shouldn't be a problem.
 
 **Paimon:** Uh... How did you remember such a frivolous name?
 
 **Paimon:** But still, could this be the same phenomenon as the energy scraps we found before? As in, that energy can be stored in Pyrophosphorite?
 
-Looks like Pyrophosphorites contain the energy as well.
+- **Traveler:** Looks like Pyrophosphorites contain the energy as well.
 
 **Paimon:** Yeah, it's the same as what happened with those energy scraps from before...
 
 **Paimon:** And Coco, in turn, uses the energy stored within to fight the Abyss.
 
-**Little One:** Rawr! Rawr!
+**[Name]:** Rawr! Rawr!
 
 **Bona:** Traveler, look!
 
@@ -712,13 +841,13 @@ Looks like Pyrophosphorites contain the energy as well.
 
 **Bona:** So this was covered up by the mural that we saw before...
 
-We've seen this in another, previous mural...
+- **Traveler:** We've seen this in another, previous mural...
 
 **Paimon:** Isn't that the big black dragon on the mural in the ruins where we got the first Golden Entreaty?
 
 **Paimon:** But in this painting, it looks like the black dragon is the master of this place.
 
-The dragon entrenches itself above the city...
+- **Traveler:** The dragon entrenches itself above the city...
 
 **Paimon:** This painting sure does make it look like the evil dragon is the master of this place.
 
@@ -746,25 +875,29 @@ With two pieces of Pyrophosphorite in hand, the road to the skies is open to you
 
 #### Follow Coco's guidance to find the Altar of Primal Flame
 
+#### Follow Coco's guidance to find the Altar of Primal Flame
+
 **Paimon:** Is that the Altar? That's gonna be hard to reach.
 
-**Paimon:** We can fly just fine, but how about Little One and Bona?
+**Paimon:** We can fly just fine, but how about [Name] and Bona?
 
 **Bona:** Did you forget that I'm an adventurer of the Flower-Feather Clan? I have plenty of flight experience myself.
 
-**Bona:** I can get over there, easy, even with Little One in tow.
+**Bona:** I can get over there, easy, even with [Name] in tow.
 
-I have a flying license, too.
+- **Traveler:** I have a flying license, too.
 
 **Bona:** That'll do. I'll lead the way, so just follow.
 
-Is this going to be a race?
+- **Traveler:** Is this going to be a race?
 
 **Bona:** Wow, hey, you sure this is the time to get competitive? Relax! I'll lead the way, so just follow!
 
-**Paimon:** Hmm... This feels like it could get super dangerous, and we can't know what might happen, so hold on tight, Little One!
+**Paimon:** Hmm... This feels like it could get super dangerous, and we can't know what might happen, so hold on tight, [Name]!
 
-**Little One:** Rawr!
+**[Name]:** Rawr!
+
+#### Head to the Altar of Primal Flame
 
 #### Head to the Altar of Primal Flame
 
@@ -776,23 +909,65 @@ Is this going to be a race?
 
 **Paimon:** Ugh, just thinking about it is getting Paimon all worried.
 
-- **Traveler:** Don't be scared, Paimon.
+##### Response branch 1
 
-- **Traveler:** How exciting!
+- **Traveler:** Don't be scared, Paimon.
 
 **Paimon:** Alright, if you say so. But don't stray too far from Paimon, you hear?
 
+##### Response branch 2
+
+- **Traveler:** How exciting!
+
 **Bona:** Right? I'm getting super excited too. No real adventurers would wanna miss out on a challenge like this!
 
+##### Shared continuation
+
 **Bona:** Anyway, so what we've gotta do now is put the Pyrophosphorite on the Altar, right? But, ah, we've got two on our hands, so... Let's put them both up there, just to be safe.
+
+#### Offer the Pyrophosphorite at the Altar of Primal Flame
+
+#### Fly to the Tonatiuh
+
+#### Fly to the Tonatiuh
 
 ## ZH
 
 ### 雾之国的冒险
 
+#### 任务记录
+
+**派蒙:** 自从打败了那条坏龙，小家伙就一直跃跃欲试的样子，难不成是在偷偷和绿宝进行什么冒险比赛？
+
+**派蒙:** 小家伙，你有什么头绪吗？
+
+**派蒙:** 唔，没想到小家伙这么精神，那我们先调查看看要怎么才能下去吧。
+
+**玻娜:** 哦哦，虽然不知道是什么，不过小家伙看起来有办法的样子嘛，我们过去看看吧！
+
+**派蒙:** 哇，打开了，这次多亏了小家伙才找到了机关呢。
+
+不愧是小家伙。
+
+**派蒙:** 喂，你怎么也开始害怕了，像小家伙一样打起精神来啊！
+
+出发了，小家伙！
+
+**派蒙:** 哇，实在是太诡异了，小家伙你也这样觉得吧，旅行者你快看看上面写的什么？
+
+交给小家伙吧。
+
+**派蒙:** 怎么办，我们是能用飞的啦，但是小家伙和玻娜要怎么办啦。
+
+**玻娜:** 就算是带上小家伙，飞到那边也是轻轻松松。
+
+**派蒙:** 总感觉很危险的样子，也不知道会发生什么，小家伙你可要抓紧我们啦。
+
 在终于击退了恶龙后，你们与自称冒险家的玻娜，还有神秘的绿宝一起，踏上了寻找天蛇船与「回还之玉」的旅途…
 
 #### 跟随绿宝的指引寻找源火祭坛
+
+#### 与玻娜对话
 
 **派蒙:** 没想到绿宝把我们带到了这里，看起来和我们遇到玻娜的那个地方一样，是座奇怪的要塞呢。
 
@@ -810,9 +985,9 @@ Is this going to be a race?
 
 **派蒙:** 哇，好可怕。你别说这种吓人的话吧，绿宝都被你吓到了！
 
-**小家伙:** 呀！呀！
+**[名字]:** 呀！呀！
 
-**派蒙:** 自从打败了那条坏龙，小家伙就一直跃跃欲试的样子，难不成是在偷偷和绿宝进行什么冒险比赛？
+**派蒙:** 自从打败了那条坏龙，[名字]就一直跃跃欲试的样子，难不成是在偷偷和绿宝进行什么冒险比赛？
 
 **派蒙:** 话说回来，我们要找的那个祭坛究竟在哪呀？
 
@@ -820,15 +995,15 @@ Is this going to be a race?
 
 **玻娜:** 难道是搞错了什么吗，源火祭坛应该不会藏在山体的中心吧，那岂不是要把整座山都吹塌了才能把我们送到天上？
 
-难道是有什么特殊的传送手段？
+- **旅行者:** 难道是有什么特殊的传送手段？
 
 **派蒙:** 呃，刚才在下面还说得信誓旦旦的，这下可难办了。而且我们又听不懂绿宝说话，也不知道它到底是什么意思…
 
 **「绿松石」:** 咕噜…
 
-**小家伙:** 呀！呀！
+**[名字]:** 呀！呀！
 
-**派蒙:** 小家伙，你有什么头绪吗？
+**派蒙:** [名字]，你有什么头绪吗？
 
 **玻娜:** 我知道了，小派蒙，它的意思是说，只是一板一眼地盘逻辑的话，冒险可是没办法继续的！
 
@@ -836,11 +1011,11 @@ Is this going to be a race?
 
 **玻娜:** 总之，不管下面是什么，我觉得都应该先去一探究竟呢，这也是冒险的一部分吧？
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
-**派蒙:** 唔，没想到小家伙这么精神，那我们先调查看看要怎么才能下去吧。
+**派蒙:** 唔，没想到[名字]这么精神，那我们先调查看看要怎么才能下去吧。
 
-#### 与玻娜对话
+#### 在遗迹周围调查
 
 **玻娜:** 你们有什么发现吗？
 
@@ -852,9 +1027,11 @@ Is this going to be a race?
 
 **玻娜:** 这是还在形成中的深渊秽露，看起来是从上面渗下来的…唔，我还以为有壁画的地方会比较安全呢。
 
-**小家伙:** 唔，呀！
+**[名字]:** 唔，呀！
 
 **玻娜:** 欸？不好，好像有什么东西要掉下来了，大家小心！
+
+#### 击败突然袭击的魔物
 
 #### 与玻娜对话
 
@@ -864,17 +1041,21 @@ Is this going to be a race?
 
 **派蒙:** 这个嘛，倒是有发现个像是机关的东西啦，但是有点麻烦的样子…
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
-**玻娜:** 哦哦，虽然不知道是什么，不过小家伙看起来有办法的样子嘛，我们过去看看吧！
+**玻娜:** 哦哦，虽然不知道是什么，不过[名字]看起来有办法的样子嘛，我们过去看看吧！
+
+#### 调查像是机关的东西
+
+#### 启动机关
 
 #### 与玻娜对话
 
-**派蒙:** 哇，打开了，这次多亏了小家伙才找到了机关呢。
+**派蒙:** 哇，打开了，这次多亏了[名字]才找到了机关呢。
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
-不愧是小家伙。
+- **旅行者:** 不愧是[名字]。
 
 **派蒙:** 不过也不要自满哦，接下来还有更多的挑战在等着我们呢！
 
@@ -890,17 +1071,17 @@ Is this going to be a race?
 
 **派蒙:** 玻娜你就不要强迫绿宝啦，它看起来真的很害怕的样子，难不成是下面有什么不得了的危险东西？
 
-好可怕！
+- **旅行者:** 好可怕！
 
-**派蒙:** 喂，你怎么也开始害怕了，像小家伙一样打起精神来啊！
+**派蒙:** 喂，你怎么也开始害怕了，像[名字]一样打起精神来啊！
 
-开始跃跃欲试了。
+- **旅行者:** 开始跃跃欲试了。
 
 **派蒙:** 哇，没想到你这么有精神，虽然我也觉得不管下面有什么都不会是你的对手啦。
 
-不用担心，我们有勇敢小龙。
+- **旅行者:** 不用担心，我们有勇敢小龙。
 
-**小家伙:** 呀…呀！
+**[名字]:** 呀…呀！
 
 **派蒙:** 唔，绿宝这么害怕的话，不如就先留在这里。啊，不过也不能把绿宝一个人抛下…
 
@@ -908,13 +1089,15 @@ Is this going to be a race?
 
 **玻娜:** 先说好哦，不管你们在下面发现了什么，都要回来这里找我会合！
 
-我们不会抛弃伙伴的。
+- **旅行者:** 我们不会抛弃伙伴的。
 
 **玻娜:** 真的吗…那就好，我相信你们，我们会在这里等你们回来的。
 
-你们就安心在这里等我们回来。
+- **旅行者:** 你们就安心在这里等我们回来。
 
-**小家伙:** 呀！
+**[名字]:** 呀！
+
+恶龙成功逃脱了…
 
 ### 幻蛇的宫殿
 
@@ -928,23 +1111,23 @@ Is this going to be a race?
 
 #### 探索遗迹内部
 
-**小家伙:** 呜…
+**[名字]:** 呜…
 
 **派蒙:** 呃啊，外面都被深渊侵蚀了，感觉随时会掉下来的样子，绿宝指给我们的难道就是这个东西吗？
 
 **派蒙:** 也不知道那里面是什么东西，反正我觉得肯定不会是什么祭坛啦…
 
-「只是一板一眼地盘逻辑的话…」
+- **旅行者:** 「只是一板一眼地盘逻辑的话…」
 
 **派蒙:** 啊啊，我知道啦。而且就是因为这些深渊，绿宝才会不愿意进来的吧。
 
-不能放着深渊不管。
+- **旅行者:** 不能放着深渊不管。
 
 **派蒙:** 确实，就是因为这些深渊，绿宝才会不愿意进来的吧，不能放着不管呢。
 
-出发了，小家伙！
+- **旅行者:** 出发了，[名字]！
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
 **派蒙:** 喂，你们两个怎么把我排除啦，好过分！
 
@@ -952,45 +1135,63 @@ Is this going to be a race?
 
 #### 靠近可疑的核心
 
+#### 设法清除深渊污染
+
+#### 设法清除深渊污染
+
+#### 调查坠落的可疑核心
+
+#### 保护坠落的核心并击退魔物
+
+#### 调查坠落的可疑核心
+
 **派蒙:** 呼，总算是结束了…
 
 **派蒙:** 保护它的秘源机兵也安静下来了呢。
 
 **派蒙:** 好吧，现在让我们看看这个里面到底是什么东西！
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
 **派蒙:** 可不要让我失望哦…欸？又是一块火磷石，原来这东西还不止一枚的吗？
 
 **派蒙:** 唔，等等，包裹它的织卷看起来也很眼熟啊…就像是我们最开始在遗迹外面的塔楼里捡到的那个笔记。
 
-**小家伙:** 呀…呀！
+**[名字]:** 呀…呀！
 
-**派蒙:** 哇，实在是太诡异了，小家伙你也这样觉得吧，旅行者你快看看上面写的什么？
+**派蒙:** 哇，实在是太诡异了，[名字]你也这样觉得吧，旅行者你快看看上面写的什么？
 
 **派蒙:** 哇，居然真的是之前那个冒险家留下来的笔记，「统律之心」说的就是这里吧。
 
-- **旅行者:** 还有其它的可能。
+##### 对话分支 1
 
-- **旅行者:** 想不通的事情太多了。
+- **旅行者:** 还有其它的可能。
 
 **派蒙:** 是哦，而且我们在这里也找到了新的火磷石，说不定在其它地方也会有很多呢。
 
+##### 对话分支 2
+
+##### 共同后续
+
+- **旅行者:** 想不通的事情太多了。
+
 **派蒙:** 是哦，而且绿宝把我们指向了这里，难道是它早知道这下面还藏了一块火磷石，所以想要让我们拿到？真是搞不懂。
 
-**小家伙:** 呜…
+**[名字]:** 呜…
 
-我们还是先回去吧。
+- **旅行者:** 我们还是先回去吧。
 
 **派蒙:** 哎，确实，绿宝一定会知道些什么吧，而且也答应了玻娜不管发现了什么都要先回去的。
 
-带回去让玻娜看看吧。
+- **旅行者:** 带回去让玻娜看看吧。
 
 **派蒙:** 哎，确实，如果让玻娜看看的话说不定会有什么发现，而且也答应了她不管找到了什么都要先回去的。
 
 **派蒙:** 我们赶紧离开这里吧。
 
-#### 设法清除深渊污染
+#### 与玻娜会合
+
+#### 与玻娜对话
 
 **玻娜:** 哦哦，你们终于回来了！
 
@@ -1004,11 +1205,11 @@ Is this going to be a race?
 
 **玻娜:** 等下，该不会我手上这枚其实是赝品吧…唔，难怪这么多年都没发现它有什么特殊的地方。
 
-不会吧。
+- **旅行者:** 不会吧。
 
 **派蒙:** 是啊，因为我们在下面找到的那块也一样，除了上面的花纹外没什么特别的。
 
-我们还发现了…
+- **旅行者:** 我们还发现了…
 
 **派蒙:** 哦对，我们还发现了一本奇怪的笔记，看起来像是以前来到这里的冒险家留下来的，你要看看吗？
 
@@ -1030,13 +1231,13 @@ Is this going to be a race?
 
 **玻娜:** 如果无法找到天蛇船，无法拿到「回还之玉」的话，那他们所做的一切就都没有意义了！
 
-旅途本身就有意义。
+- **旅行者:** 旅途本身就有意义。
 
 **玻娜:** 是吗，你是这样认为的啊，你这种体验派的冒险家在纳塔可不多见哦。
 
 **玻娜:** 虽说一事无成的冒险家也是存在的，但大部分人还是需要一些能够证明自己的东西的，不是吗？
 
-经验也是很重要的。
+- **旅行者:** 经验也是很重要的。
 
 **玻娜:** 你这种话是建立在真的存在那艘船的基础上的，假如世界上根本根本不存在什么天蛇船呢？
 
@@ -1046,17 +1247,17 @@ Is this going to be a race?
 
 **玻娜:** 所以哦，旅行者和小派蒙，要是我们真的能找到天蛇船然后平安回来，你们可要在那个冒险家协会好好宣传我们的事迹呀！
 
-交给派蒙吧，她很擅长。
+- **旅行者:** 交给派蒙吧，她很擅长。
 
 **派蒙:** 什么啦，你是想说我很擅长吹牛吗？要是我们真的找到了什么传说中的船，只要告诉凯瑟琳小姐都能传遍提瓦特了吧！
 
-交给我吧。
+- **旅行者:** 交给我吧。
 
 **派蒙:** 嗯嗯，毕竟我们也算是传奇冒险家呢，只要把我们的故事告诉哪个记者，马上就能上报纸的头条吧！
 
-交给小家伙吧。
+- **旅行者:** 交给[名字]吧。
 
-**小家伙:** 呀！
+**[名字]:** 呀！
 
 **派蒙:** 虽然它答应的是很开心啦，但它就算想要宣传也只能告诉龙冒险家吧…等等，龙里也会有冒险家吗？
 
@@ -1066,7 +1267,7 @@ Is this going to be a race?
 
 **「绿松石」:** 咕噜…
 
-**小家伙:** 呜呀…
+**[名字]:** 呜呀…
 
 **派蒙:** 怎、怎么回事啊，眼睛都要晃瞎了！
 
@@ -1074,19 +1275,19 @@ Is this going to be a race?
 
 **派蒙:** 哇，但是绿宝好像突然恢复了活力的样子！
 
-看起来能使用「超能特攻光线」了。
+- **旅行者:** 看起来能使用「超能特攻光线」了。
 
 **派蒙:** 嗯？旅行者，你是怎么能记住这么夸张的名字的啦。
 
 **派蒙:** 不过确实，难道就像我们之前找到的那些能量碎屑一样，火磷石就是用来储存这种能量的…
 
-看起来火磷石里也蕴藏着那种能量。
+- **旅行者:** 看起来火磷石里也蕴藏着那种能量。
 
 **派蒙:** 是哦，难道就像我们之前找到的那些能量碎屑一样，火磷石就是用来储存这种能量的…
 
 **派蒙:** 然后也是因为有了这种能量，绿宝才能对付深渊的吗？
 
-**小家伙:** 呀，呀！
+**[名字]:** 呀，呀！
 
 **玻娜:** 旅行者，你们看看这个。
 
@@ -1094,13 +1295,13 @@ Is this going to be a race?
 
 **玻娜:** 看起来我们之前见到的壁画其实是覆盖在这个上面的呢。
 
-在之前的壁画上也见到过…
+- **旅行者:** 在之前的壁画上也见到过…
 
 **派蒙:** 是哦，这不就是我们在拿到第一块「通牒金盘」的遗迹里的壁画上也看见过的那条大黑龙吗？
 
 **派蒙:** 看这上面画的，倒像是这条大黑龙才是这里的主人一样。
 
-龙盘踞在城市之上…
+- **旅行者:** 龙盘踞在城市之上…
 
 **派蒙:** 看这上面画的，倒像是那条坏龙才是这里的主人一样。
 
@@ -1128,25 +1329,29 @@ Is this going to be a race?
 
 #### 跟随绿宝的指引寻找源火祭坛
 
+#### 跟随绿宝的指引寻找源火祭坛
+
 **派蒙:** 那就是源火祭坛了吗…呃，感觉想要过去的话还有点困难。
 
-**派蒙:** 怎么办，我们是能用飞的啦，但是小家伙和玻娜要怎么办啦。
+**派蒙:** 怎么办，我们是能用飞的啦，但是[名字]和玻娜要怎么办啦。
 
 **玻娜:** 派蒙不会是在小看我吧，我可是花羽会的冒险家，飞行经验可是很丰富的。
 
-**玻娜:** 就算是带上小家伙，飞到那边也是轻轻松松。
+**玻娜:** 就算是带上[名字]，飞到那边也是轻轻松松。
 
-我也有飞行执照。
+- **旅行者:** 我也有飞行执照。
 
 **玻娜:** 那就好，我会在前面给你们引路，你们只要跟上我就好了。
 
-接下来是飞行竞速挑战吗？
+- **旅行者:** 接下来是飞行竞速挑战吗？
 
 **玻娜:** 哇，这种时候就不要有这种好胜之心啦，我会在前面给你们引路，你们只要跟上我就好了。
 
-**派蒙:** 总感觉很危险的样子，也不知道会发生什么，小家伙你可要抓紧我们啦。
+**派蒙:** 总感觉很危险的样子，也不知道会发生什么，[名字]你可要抓紧我们啦。
 
-**小家伙:** 呀！
+**[名字]:** 呀！
+
+#### 前往源火祭坛附近
 
 #### 前往源火祭坛附近
 
@@ -1158,12 +1363,24 @@ Is this going to be a race?
 
 **派蒙:** 哇，想想就开始担心了。
 
-- **旅行者:** 别害怕，派蒙。
+##### 对话分支 1
 
-- **旅行者:** 哇，好刺激。
+- **旅行者:** 别害怕，派蒙。
 
 **派蒙:** 好吧，既然你都这样说了，一会你可不要和我离得太远哦。
 
+##### 对话分支 2
+
+- **旅行者:** 哇，好刺激。
+
 **玻娜:** 对吧对吧，我也开始兴奋起来了呢，作为冒险家可不能错过这样的挑战！
 
+##### 共同后续
+
 **玻娜:** 总之现在是要把火磷石供奉到那个上面，不过我们手上有两枚火磷石，呃…保险起见就把它们一起放上去吧。
+
+#### 将火磷石供奉至源火祭坛
+
+#### 飞往天蛇船
+
+#### 飞往天蛇船

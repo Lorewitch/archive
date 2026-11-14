@@ -1,0 +1,94 @@
+{
+  "original_file": "archive (13-11-26-3).zip",
+  "original_sha256": "3fb48e921a076b67a90550e8c67e8e04b61ed32c74bc8673319ee01b560c0f17",
+  "approved_changes_file": "Archive_Lorovedmy_7_2_final.zip",
+  "approved_changes_sha256": "0be1696ea5081c07011af144e882440266d45973cb7c48b9c0e512913f8d0f15",
+  "original_markdown_files": 1293,
+  "retained_original_markdown_files": 1279,
+  "approved_original_quest_removals": 14,
+  "new_markdown_files": 162,
+  "total_markdown_files": 1441,
+  "duplicate_card_ids": [],
+  "overlapping_game_source_ids_between_original_and_added_cards": [],
+  "unexplained_missing_original_files": [],
+  "new_cards_by_category": {
+    "artifacts": 2,
+    "books": 6,
+    "weapons": 19,
+    "stories": 72,
+    "enemies": 23,
+    "items": 40
+  },
+  "new_cards_by_group": {
+    "artifacts/": 2,
+    "books/book_series": 6,
+    "weapons/": 19,
+    "stories/character_stories": 6,
+    "stories/world_quests": 60,
+    "stories/archon_quests": 6,
+    "enemies/": 23,
+    "items/world_bosses": 4,
+    "items/teyvat_resources": 23,
+    "items/common_enemies": 6,
+    "items/development_materials": 7
+  },
+  "world_quests": {
+    "new": 60,
+    "total": 209,
+    "mandatory_cards": 8,
+    "mandatory_parts": 34
+  },
+  "character_voiceovers": {
+    "characters": 123,
+    "entries": 9330,
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  "existing_story_quest_cards": 58,
+  "application_and_data_payload": "Rebuilt from the combined archive after removing 58 new notes and repairing three partial revision fragments; quest language bodies preserved.",
+  "remaining_source_gaps": "Unchanged; see QUEST_AUDIT_7_2.md and UPDATE_7_2.md.",
+  "reports": [
+    "UPDATE_7_2.md",
+    "QUEST_AUDIT_7_2.md",
+    "WORLD_QUEST_SELECTION.md",
+    "WORLD_QUEST_SERIES.md",
+    "SERIES_AND_FINAL_AUDIT.md"
+  ],
+  "subsequent_inventory_cleanup": {
+    "removed_added_cards": 185,
+    "removed_added_images": 61,
+    "report": "INVENTORY_CLEANUP.md"
+  },
+  "subsequent_notes_cleanup": {
+    "removed_cards": 58,
+    "removed_original_cards": 0,
+    "remaining_new_material_cards": 162,
+    "remaining_total_cards": 1441,
+    "report": "SERIES_AND_FINAL_AUDIT.md",
+    "removed_new_images": 8,
+    "removed_new_image_paths": [
+      "assets/icons/books/document_120135.webp",
+      "assets/icons/books/document_121331.webp",
+      "assets/icons/books/document_121590.webp",
+      "assets/icons/books/document_121607.webp",
+      "assets/icons/books/document_121609.webp",
+      "assets/icons/books/document_121755.webp",
+      "assets/icons/books/document_140019.webp",
+      "assets/icons/books/document_313000.webp"
+    ],
+    "original_assets_removed": 0,
+    "remaining_new_images": 122,
+    "cleanup": "reports/update_7_2/notes_cleanup.json"
+  },
+  "world_series_update": {
+    "series_count": 29,
+    "grouped_cards": 127,
+    "standalone_cards": 82,
+    "world_cards_preserved": 209,
+    "report": "WORLD_QUEST_SERIES.md",
+    "details": "reports/update_7_2/world_quest_series.json"
+  }
+}

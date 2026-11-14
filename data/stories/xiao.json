@@ -144,5 +144,1016 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Если ты проснулся с ножом у горла, если монстры вцепились в тебя, если смерть стоит у порога... Скажи моё имя. Адепт Сяо. Я приду на зов. / Если ты проснулась с ножом у горла, если монстры вцепились в тебя, если смерть стоит у порога... Скажи моё имя. Адепт Сяо. Я приду на зов.",
+        "en": "If you awake to a knife at your throat, if monsters dig their claws into you, if death comes knocking at your door... Call out my name. Adeptus Xiao. I will be here when you call.",
+        "zh": "如遇失道旷野之难，路遭贼人之难，水火刀兵之难，鬼神药毒之难，恶兽毒虫之难，冤家恶人之难，便呼我名。\n「三眼五显仙人」——「魈」，听召前来守护。"
+      },
+      "source_id": 16100
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Праздность",
+        "en": "Chat: Idleness",
+        "zh": "闲聊·闲散"
+      },
+      "text": {
+        "ru": "Я опустился до безделья. Смехотворно.",
+        "en": "Reduced to just standing around... How absurd.",
+        "zh": "我居然沦落到如此闲散的地步，可笑。"
+      },
+      "source_id": 16101
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Свобода духа",
+        "en": "Chat: Wandering Spirits",
+        "zh": "闲聊·荒魂"
+      },
+      "text": {
+        "ru": "Духи пустошей умрут скорее, чем навредят мне.",
+        "en": "The damned will sooner die again than lay a hand on me.",
+        "zh": "荒野上的孤魂，休想伤我分毫。"
+      },
+      "source_id": 16102
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Осквернение",
+        "en": "Chat: Corruption",
+        "zh": "闲聊·侵蚀"
+      },
+      "text": {
+        "ru": "Аргх... Эти воспоминания... мрачны...",
+        "en": "Grrgh... Those memories, so dark...",
+        "zh": "…呃啊…哼，想起了一些不愉快的事。"
+      },
+      "source_id": 16103
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Демоны не отдыхают в дождь. Пойдём.",
+        "en": "Demons do not stop for the rain. Move.",
+        "zh": "魔物不会因为下雨就休息。我们走。"
+      },
+      "source_id": 16104
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "После дождя...",
+        "en": "After the Rain",
+        "zh": "雨过天晴…"
+      },
+      "text": {
+        "ru": "Прояснело? Хм. Погода неважна.",
+        "en": "The rain stopped? I don't concern myself with the weather.",
+        "zh": "天晴了？哼，我不关心天气。"
+      },
+      "source_id": 16105
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Многие смертные боятся молний... Непостижимо. Бояться чего-то столь обычного.",
+        "en": "Many mortals fear lightning... Incomprehensible. Fear of something so common.",
+        "zh": "不少凡人害怕打雷。无法理解，这分明很寻常。"
+      },
+      "source_id": 16106
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Когда снег станет потолще, его можно будет есть...",
+        "en": "Once the snow is thick enough, we can eat it...",
+        "zh": "雪积起来之后，就可以挖着吃了。"
+      },
+      "source_id": 16107
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Мы теряем время. Пора в путь.",
+        "en": "We're wasting time. Let's go.",
+        "zh": "时候不早了。出发吧。"
+      },
+      "source_id": 16108
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Обед... Давай вернёмся на постоялый двор «Ваншу».",
+        "en": "Lunch... We'll go back to Wangshu Inn.",
+        "zh": "午餐…回望舒客栈吧。"
+      },
+      "source_id": 16109
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Ночь... Силы зла властвуют безраздельно. Не выходи на улицу.",
+        "en": "Night... When the darkness comes to envelop you. Don't stay outside.",
+        "zh": "夜晚，不祥之物最易骚动。你最好别出门。"
+      },
+      "source_id": 16110
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Иди. Я тут буду.",
+        "en": "Go. I'll be here.",
+        "zh": "你去吧，我会在这里等你。"
+      },
+      "source_id": 16111
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Сяо: Нелюдим",
+        "en": "About Xiao: Inhuman",
+        "zh": "关于魈自己·非人"
+      },
+      "text": {
+        "ru": "Я вовсе не человек. Не очень понимаю людские чувства.",
+        "en": "I'm far from human. I can't make much of human emotions.",
+        "zh": "我并非人类，不太能够理解人类的感情。"
+      },
+      "source_id": 16112
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Сяо: Ли Юэ",
+        "en": "About Xiao: Liyue",
+        "zh": "关于魈自己·璃月"
+      },
+      "text": {
+        "ru": "Ли Юэ быстро меняется... Неважно. Я не собираюсь приноравливаться.",
+        "en": "Liyue is changing. Rapidly... Forget it. It means nothing to me.",
+        "zh": "近来璃月变化得过于迅速了…呵，罢了，我也没打算适应。"
+      },
+      "source_id": 16113
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Предостережения",
+        "en": "About Us: Warnings",
+        "zh": "关于我们·警示"
+      },
+      "text": {
+        "ru": "Если наступит день, когда и ты впадёшь во тьму, то придётся мне...",
+        "en": "If a day comes where even you are taken by the darkness, it will be up to me...",
+        "zh": "如果有一天，连你也陷入了黑暗。就由我来——"
+      },
+      "source_id": 16114
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Доверие",
+        "en": "About Us: Trust",
+        "zh": "关于我们·信任"
+      },
+      "text": {
+        "ru": "Остерегайся тьмы. От меня пощады не будет.\nХотя ты... Ты, пожалуй, сможешь устоять.",
+        "en": "Do not fall prey to the darkness. I have no mercy.\nThough, perhaps you can stand your ground alone.",
+        "zh": "别被污染，我不会留情的。\n…我是说，既然是「你」，「你」应该能够保持坚定。"
+      },
+      "source_id": 16115
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Сонливость",
+        "en": "About Us: Drowsiness",
+        "zh": "关于我们·犯困"
+      },
+      "text": {
+        "ru": "Кто это?! А... Думаешь, я стоя сплю? Никакого уважения к Адептам.",
+        "en": "Who's there? Oh... You think I sleep? You have no respect for the ways of the adepti.",
+        "zh": "…谁！？…你觉得我是站着睡着了？哼，不敬仙师！"
+      },
+      "source_id": 16116
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "О нас: Праздник морских фонарей",
+        "en": "About Us: Lantern Rite",
+        "zh": "关于我们·海灯节"
+      },
+      "text": {
+        "ru": "Праздник морских фонарей? Опять пришла пора, когда смертные засыпают море Ли Юэ своим светящимся мусором. Какое ребячество...\nНо если хочешь, я пойду с тобой.",
+        "en": "The Lantern Rite? The time for humans to discard their glowing trash into the sea has returned... How childish...\nThough, if you insist... I will go with you.",
+        "zh": "海灯节？哼，原来又到了凡人用发光垃圾塞满璃月港的时候了，唉，为何如此幼稚。\n不过你若无聊，我便陪你去。"
+      },
+      "source_id": 16117
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Глаз Бога: Желания",
+        "en": "About the Vision: Desires",
+        "zh": "关于「神之眼」·欲望"
+      },
+      "text": {
+        "ru": "Глаз Бога? Желание? Ха. Не суди Адептов по смертным. У меня нет желаний.",
+        "en": "Visions? Desire? Ha. Do not judge adepti by your mortal ideals. I have no desire.",
+        "zh": "「神之眼」、欲望？呵…不要用凡人的标准来揣测仙人，我没有欲望。"
+      },
+      "source_id": 16118
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Глаз Бога: Причины",
+        "en": "About the Vision: Reasons",
+        "zh": "关于「神之眼」·理由"
+      },
+      "text": {
+        "ru": "Нет здесь никакого секрета. Я просто не говорю никому о своих желаниях.\nСмертные ведь говорят, что если рассказать о желании, то оно не сбудется... А? Не то же самое?",
+        "en": "Hiding? I'm hiding nothing. I just won't speak of desire to others.\nDo you mortals not have a rule about spoken wishes never coming true? Hm? What do you mean that's not the same?",
+        "zh": "并不是有意隐瞒。我的欲望，不应对外人讲。\n人间不是有着愿望说出口就会失效的规矩…呃，不是一回事？"
+      },
+      "source_id": 16119
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Убийство - моя специальность. Если не можешь закончить дело - позови меня.",
+        "en": "I deal in death. If you cannot bring yourself to kill — speak my name.",
+        "zh": "杀戮是我的强项。如果你下不去手，就叫我来。"
+      },
+      "source_id": 16120
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Когда-то на месте Тростниковых островов была пустошь.\nНо это было много лет... нет, веков назад.",
+        "en": "Dihua Islet was once deserted.\nThough that was many decades... no, centuries ago...",
+        "zh": "荻花洲，曾经一度荒芜。\n虽然，是过去好多年…不，好几百年的事了。"
+      },
+      "source_id": 16121
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Чжун Ли...",
+        "en": "About Zhongli",
+        "zh": "关于钟离…"
+      },
+      "text": {
+        "ru": "Хочу спросить... Скажи, Чжун Ли целыми днями просто... Кормит птиц? Любуется цветами? Рассматривает старинные вещи?\nЭто всё... зачем?",
+        "en": "Can I ask... Zhongli — what does he do with his days? Huh? Birds, antiques, flowers...\nHmm... What deeper meaning do they hold?",
+        "zh": "嗯…打听一下。请问钟离大人平日里都在…呃，遛鸟？赏花？品鉴古玩？\n…钟离大人做这些，是有什么深意…"
+      },
+      "source_id": 16122
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Бэй Доу...",
+        "en": "About Beidou",
+        "zh": "关于北斗…"
+      },
+      "text": {
+        "ru": "Бэй Доу? У меня с ней нет никаких отношений. Но морские чудовища - существуют. И она сильна для обычного человека, если смогла одолеть Хай Шаня.",
+        "en": "Beidou? I have nothing to do with her. Though there is such a thing as the leviathan. As a mere human, she has proven her power in defeating Haishan.",
+        "zh": "北斗吗？我与她没有什么交情。不过，冥海巨兽确有其事。能够将「海山」击败，作为人类，她的实力值得肯定。"
+      },
+      "source_id": 16123
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Бай Чжу...",
+        "en": "About Baizhu",
+        "zh": "关于白术…"
+      },
+      "text": {
+        "ru": "Думаешь... Бай Чжу сможет сделать лекарство от моей боли? Я ценю твоё намерение, но лекарства смертных не действуют на Адептов.",
+        "en": "You want... Baizhu to make a medicine to take away my pain? I understand your intentions, but mortal medicine has no effect on adepti.",
+        "zh": "你想…托付白术研制缓解我痛苦的药物？呵…你的好意我心领了。凡人的药物，对仙人是无法起效的。"
+      },
+      "source_id": 16124
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Ху Тао...",
+        "en": "About Hu Tao",
+        "zh": "关于胡桃…"
+      },
+      "text": {
+        "ru": "Ху Тао? Живая девушка, аж голова болит от неё. Но зато она забавная - точно не вырастет скучным человеком.",
+        "en": "Hu Tao? Her liveliness is irritating. Fortunately, she is also humorous, so you need not worry about her growing into a boring human.",
+        "zh": "胡桃？那孩子，活泼到令人头疼。所幸她还算风趣，不必担心会成长为无趣的人类。"
+      },
+      "source_id": 16125
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Венти...",
+        "en": "About Venti",
+        "zh": "关于温迪…"
+      },
+      "text": {
+        "ru": "Венти? Вот как его теперь зовут. Его музыка... Неважно.",
+        "en": "Venti? So that's the name he goes by. His tunes are... forget it.",
+        "zh": "温迪…？原来如此，名字叫作温迪啊。他演奏的曲调…不，没什么。"
+      },
+      "source_id": 16126
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Гань Юй...",
+        "en": "About Ganyu",
+        "zh": "关于甘雨…"
+      },
+      "text": {
+        "ru": "Гань Юй не Божественный зверь, но и не человек. Нельзя не прийти в замешательство, идя лишь за долгом между мирами Адептов и смертных... Что? Я? Яксу, что умеет лишь убивать и выживать, на роль её наставника? Твой разум явно находится не в том мире, в котором живёт тело.",
+        "en": "Ganyu is neither mortal nor illuminated beast. Wandering both the mortal and adepti realms with duty as her sole guide, it was inevitable that she would become perplexed... What? Me? You believe a yaksha who knows nothing more than how to massacre countless souls and emerge unscathed is a suitable mentor for such an individual? ...Your mind occupies a very different world from that which your body inhabits.",
+        "zh": "甘雨既非仙兽，又非凡人，游走于仙人两界，靠着职责支撑自我，困惑是免不了的。...你说，我？呵，要让只懂杀戮与生存之道的夜叉，去开导瑞兽？天方夜谭。"
+      },
+      "source_id": 16127
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "О Шэнь Хэ...",
+        "en": "About Shenhe",
+        "zh": "关于申鹤…"
+      },
+      "text": {
+        "ru": "Похоже, Шэнь Хэ доверяет тебе. Хотя, разве могло быть иначе? Такого доброго и сердечного человека, как ты, днём с огнём не сыщешь.",
+        "en": "It seems Shenhe places a great deal of trust in you. Well, how could she not. There are few people in the world as kind and good-natured as you.",
+        "zh": "申鹤似乎对你颇为信赖。…也是。毕竟，世间难得几人能有你这般的善心与热忱。"
+      },
+      "source_id": 16128
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Е Лань...",
+        "en": "About Yelan",
+        "zh": "关于夜兰…"
+      },
+      "text": {
+        "ru": "Говорят, однажды она последовала в Разлом по следам Миллелитов. Если она может самостоятельно раскрывать подобные тайны, то определённо обладает выдающимися способностями.",
+        "en": "I've heard that she once investigated The Chasm, following the trail of the Millelith. If she can investigate mysteries like that on her own, she must be someone of rare skill.",
+        "zh": "我听说她曾调查千岩军在层岩巨渊的相关痕迹。孤身追查秘密，想来也是有点本事的人。"
+      },
+      "source_id": 16129
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Сяо I",
+        "en": "More About Xiao: I",
+        "zh": "想要了解魈·其一"
+      },
+      "text": {
+        "ru": "Я согласен тебя защищать.\nНо не приближайся ко мне и не мешай мне. А то пожалеешь.",
+        "en": "I'm willing to protect you.\nBut don't think about getting close, and stay out of my way, or all that awaits you is regret.",
+        "zh": "我会为你护法。\n但是…别靠近我，别妨碍我。否则，你会后悔的。"
+      },
+      "source_id": 16130
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Сяо II",
+        "en": "More About Xiao: II",
+        "zh": "想要了解魈·其二"
+      },
+      "text": {
+        "ru": "За тысячелетия я уничтожил несчётное количество призраков. Не хочешь навлечь на себя беду - держись от меня подальше. Считай меня просто оружием.",
+        "en": "In the thousands of years that have passed, I have taken countless wraiths. If you want no trouble, stay away from me. See me as a weapon, and nothing more.",
+        "zh": "在这千年以来，我猎杀过数以万计的怨魂。不想惹上麻烦，就离我远点。把我当作「工具」就好。"
+      },
+      "source_id": 16131
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Сяо III",
+        "en": "More About Xiao: III",
+        "zh": "想要了解魈·其三"
+      },
+      "text": {
+        "ru": "Их голоса... Я постоянно их слышу. Хрип, стоны... Они истошно требуют крови...\nЭто мой выбор и моё наказание. Тебя не касается.",
+        "en": "Their voices... I can always hear them. Their screams, their cries, demanding more death...\nThis is my burden to carry. It has nothing to do with you.",
+        "zh": "「它们」的声音…常常在我的耳边出现。咆哮、号哭…嘶喊着杀戮…\n这是我自己的选择和自己的报应。与你无关。"
+      },
+      "source_id": 16132
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Сяо IV",
+        "en": "More About Xiao: IV",
+        "zh": "想要了解魈·其四"
+      },
+      "text": {
+        "ru": "Моракс? Что ты можешь знать об этом имени?\nОн дал мне имя Сяо, освободил от бесконечных мук.\nНе прощу никого, кто будет порочить его. Даже тебя.",
+        "en": "Morax...? What do you know of this name!?\nHe gave me the name Xiao, and released me from the endless pain I endured.\nI will not forgive those that dare to speak against him, even you.",
+        "zh": "摩拉克斯？关于这个名字，你究竟知道多少？\n他是赐予我「魈」之名之人，将我从漫长的痛苦中解放。\n胆敢对他不敬的话。即使是你，我也不会原谅。"
+      },
+      "source_id": 16133
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Сяо V",
+        "en": "More About Xiao: V",
+        "zh": "想要了解魈·其五"
+      },
+      "text": {
+        "ru": "Уже поздно. Связь между нами слишком сильна. Даже если захочешь, ты не сможешь разорвать её. А? Не собираешься? Истребление всего зла... Моей битве не будет конца. Но я хочу узнать о тебе побольше.",
+        "en": "It's too late. The connection between us is too strong. Even if you wanted to, it's too late to sever it. Hm? You've never thought to sever it?\n*sigh* This eternal dance of demon subjugation... My fight goes on.\nBut, I would like to know more about you.",
+        "zh": "已经迟了。我们之间的关联已经太多了。即使你想要放弃，也来不及了吧。嗯？没有这样想过？\n…「靖妖傩舞」，我的战斗是不会停下的。\n但是，关于你的事情，我想了解更多。"
+      },
+      "source_id": 16134
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Хобби Сяо...",
+        "en": "Xiao's Hobbies",
+        "zh": "魈的爱好…"
+      },
+      "text": {
+        "ru": "А ты смелый. Спрашивать о моих увлечениях.\nСразись со мной. Посмотрим, выдержишь ли ты мои удары. / А ты смелая. Спрашивать о моих увлечениях.\nСразись со мной. Посмотрим, выдержишь ли ты мои удары.",
+        "en": "There's nothing timid about you, having the courage to ask about my hobbies.\nSo, fight me. How long do you think your body will last against my blows?",
+        "zh": "你还真是胆量不小，有勇气询问我的爱好。\n那便来战吧。以你的身躯，扛得住我几招呢？"
+      },
+      "source_id": 16135
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Беспокойство Сяо...",
+        "en": "Xiao's Troubles",
+        "zh": "魈的烦恼…"
+      },
+      "text": {
+        "ru": "Беспокойство? Ха... Это пустой звук для Адепта. Невозможно беспокоиться тысячу лет.",
+        "en": "Trouble? Ha. Trouble means nothing to adepti. There is no trouble that can last for a thousand years.",
+        "zh": "烦恼？呵…这个问题对仙人毫无意义，没有什么烦恼能够存在千年。"
+      },
+      "source_id": 16136
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Любимое блюдо: Миндальный тофу",
+        "en": "Favorite Food: Almond Tofu",
+        "zh": "喜欢的食物·杏仁豆腐"
+      },
+      "text": {
+        "ru": "Меня не интересует еда смертных. Готовка мучительна, а ожидание долго. Разве что миндальный тофу ещё можно есть.",
+        "en": "I have no interest in mortal food. Cooking is tedious and the wait is long. The one thing I can manage to stomach is almond tofu.",
+        "zh": "我对人间的食物并无兴致。烹饪繁琐，等待漫长。唯独杏仁豆腐，勉强可以入口。"
+      },
+      "source_id": 16137
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Любимое блюдо: Воспоминания",
+        "en": "Favorite Food: Memories",
+        "zh": "喜欢的食物·回忆"
+      },
+      "text": {
+        "ru": "Вкус миндального тофу похож на вкус снов.",
+        "en": "The taste of Almond Tofu feels like a fond dream...",
+        "zh": "杏仁豆腐的味道，和「美梦」非常相似呢。"
+      },
+      "source_id": 16138
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Я сам должен положить мясо на лепёшку? А потом... всё вместе есть? Морока... Люди совсем уже здравый смысл потеряли.",
+        "en": "Wait. I am expected to place slices of meat in wrappings myself? And then... eat them? Together? Ugh, humans these days do not know what they are doing.",
+        "zh": "要我亲手在薄饼中包入肉片？啊…然后…一起吃下去？呵…麻烦。如今的人间，真是越来越缺乏常识了。"
+      },
+      "source_id": 16139
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Идея смертных отмечать день своего рождения абсолютно излишня. Хм... Подожди. Я сложил тебе бабочку из листьев.\nВозьми. Это оберег Адептов, он отгоняет зло.",
+        "en": "This mortal concept of commemorating the day of your birth really is redundant. Ahem. Wait. Uhh, have this. It's a butterfly I made from leaves.\nOkay. Take it. It's an adepti amulet — it staves off evil.",
+        "zh": "诞生的时日…人类的这些纪念，真是冗余。嗯…等着。我给你折一只梧桐树叶蝴蝶。\n好了，拿去吧。这是仙法，可以辟邪。"
+      },
+      "source_id": 16140
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "И это всё? Много шума из ничего.",
+        "en": "This is it? Nothing worth getting excited about.",
+        "zh": "只是这种程度而已。没什么值得大惊小怪的。"
+      },
+      "source_id": 16141
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Новая сила? Она будет только сеять смерть.",
+        "en": "New power? All it will be used for is death.",
+        "zh": "新的力量？这力量，也只会被用于斩杀。"
+      },
+      "source_id": 16142
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Предел силы - самоуничтожение. Ответь, зачем ты упорствуешь?",
+        "en": "The limit to one's power is self-destruction. Answer me. Why do you persist?",
+        "zh": "力量的尽头，是自我毁灭。回答我，为何如此执着呢？"
+      },
+      "source_id": 16143
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Своими руками я погубил бесчисленные души. И даже сам не смог избежать тьмы... Ты продолжаешь вынуждать меня стать своим... «товарищем».\nСобираешься меня спасти? Ты... Тебя так трудно понять.",
+        "en": "Countless souls have fallen prey to these hands. I too have been swallowed by the darkness — and yet you dare to drive me on. You may think of me as... your companion. You seek to find me salvation? \n...You... really are a difficult being to comprehend.",
+        "zh": "我的枪缨，早就屠戮了无尽的怨魂。连我本人，不免也被黑暗吞噬。——你却敢于驱使这样的我，将我当作…「同伴」。\n…你是想要救赎我吗？…你，真是难以理解的生物。"
+      },
+      "source_id": 16144
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Хм!",
+        "en": "Hmph.",
+        "zh": "哼。"
+      },
+      "source_id": 16145
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Скукота.",
+        "en": "Boring.",
+        "zh": "无聊。"
+      },
+      "source_id": 16146
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Бесполезно.",
+        "en": "Useless.",
+        "zh": "无用。"
+      },
+      "source_id": 16147
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Атака в падении I",
+        "en": "Plunging Attacks: I",
+        "zh": "下落攻击·其一"
+      },
+      "text": {
+        "ru": "Вот тебе!",
+        "en": "Here!",
+        "zh": "这里！"
+      },
+      "source_id": 16148
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Атака в падении II",
+        "en": "Plunging Attacks: II",
+        "zh": "下落攻击·其二"
+      },
+      "text": {
+        "ru": "Никчёмное существо!",
+        "en": "Worthless!",
+        "zh": "无能。"
+      },
+      "source_id": 16149
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Исчезни!",
+        "en": "Disappear!",
+        "zh": "就此消失。"
+      },
+      "source_id": 16150
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Истребление всего зла.",
+        "en": "Evil conquering!",
+        "zh": "靖妖傩舞。"
+      },
+      "source_id": 16151
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Плачь!",
+        "en": "Lament!",
+        "zh": "悲鸣吧。"
+      },
+      "source_id": 16152
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Если это полезно, то я возьму.",
+        "en": "If it's useful, I'll take it.",
+        "zh": "对你有用便好。"
+      },
+      "source_id": 16153
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Зачем кому-то это нужно... Забудь, мне всё равно.",
+        "en": "Why would anyone want... *sigh* Forget it, it's not my concern.",
+        "zh": "这些物品的用途…算了，我不关心。"
+      },
+      "source_id": 16154
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Хм... Приличное качество.",
+        "en": "Hmph... there's quality here.",
+        "zh": "嗯…品质尚可。"
+      },
+      "source_id": 16155
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Молчи.",
+        "en": "Shut it.",
+        "zh": "住口。"
+      },
+      "source_id": 16156
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Приготовься к смерти, глупец!",
+        "en": "Prepare to die, fool!",
+        "zh": "愚蠢。"
+      },
+      "source_id": 16157
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Уф!.. Ладно.",
+        "en": "*grunts* Good.",
+        "zh": "很好。"
+      },
+      "source_id": 16158
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "...Слабо.",
+        "en": "...Weak.",
+        "zh": "…弱小。"
+      },
+      "source_id": 16159
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Отойди, если хочешь выжить.",
+        "en": "Get back if you wanna survive.",
+        "zh": "想活命，就退后。"
+      },
+      "source_id": 16160
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Это... кара?",
+        "en": "Is this... retribution?",
+        "zh": "这是…报应吗。"
+      },
+      "source_id": 16161
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Этот день... наконец, настал.",
+        "en": "The day... has finally come.",
+        "zh": "这一天…到来了呀。"
+      },
+      "source_id": 16162
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Невозможно...",
+        "en": "Impossible...",
+        "zh": "不可能…"
+      },
+      "source_id": 16163
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "И всё?",
+        "en": "That's it?",
+        "zh": "就凭你？"
+      },
+      "source_id": 16164
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Эй, прочь с дороги!",
+        "en": "Ugh, get out of my way!",
+        "zh": "别妨碍我。"
+      },
+      "source_id": 16165
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Меня кто-то звал?",
+        "en": "You called?",
+        "zh": "听召而来。"
+      },
+      "source_id": 16166
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Зло должно быть изгнано.",
+        "en": "Evil shall be dispersed.",
+        "zh": "诸邪退散。"
+      },
+      "source_id": 16167
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Побеждать демонов - моя работа.",
+        "en": "Conquering demons is what I do.",
+        "zh": "降魔乃分内之事。"
+      },
+      "source_id": 16168
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Хм... Неплохо... Что ты так смотришь?",
+        "en": "Mm... Not bad... Why are you staring at me?",
+        "zh": "嗯，不错…为什么要盯着我看。"
+      },
+      "source_id": 16169
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Не стоило.",
+        "en": "No need.",
+        "zh": "不用麻烦。"
+      },
+      "source_id": 16170
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "В следующий раз попробуй что-нибудь другое.",
+        "en": "Try something else next time.",
+        "zh": "下次做点别的吧。"
+      },
+      "source_id": 16171
+    }
+  ],
+  "replica_count": 72
 }

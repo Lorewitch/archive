@@ -1448,6 +1448,926 @@
     "search_text": "обломок железа iron chunk 铁块 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item ore руда 矿石"
   },
   {
+    "id": "item_101270",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101270.webp",
+    "title": {
+      "ru": "Слеза застывшей луны",
+      "en": "Teardrop of the Moon",
+      "zh": "凝月泪滴"
+    },
+    "region": "Луна",
+    "game_version": "6.7",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Луна"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 6007000,
+    "search_text": "слеза застывшей луны teardrop of the moon 凝月泪滴 луна 0 6.7 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101273",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101273.webp",
+    "title": {
+      "ru": "Полынь альвов",
+      "en": "Fairy Wormwood",
+      "zh": "妖精绿艾"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7002000,
+    "search_text": "полынь альвов fairy wormwood 妖精绿艾 снежная 0 7.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101274",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101274.webp",
+    "title": {
+      "ru": "Кристаллический гриб-зонтик",
+      "en": "Kristallfold",
+      "zh": "析晶褶伞"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7002000,
+    "search_text": "кристаллический гриб-зонтик kristallfold 析晶褶伞 снежная 0 7.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101275",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101275.webp",
+    "title": {
+      "ru": "Морозник",
+      "en": "Frostfairy Flower",
+      "zh": "霜仙花"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7000000,
+    "search_text": "морозник frostfairy flower 霜仙花 снежная 0 7.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101276",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101276.webp",
+    "title": {
+      "ru": "Флоковая трава",
+      "en": "Flockingweed",
+      "zh": "植绒草"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7000000,
+    "search_text": "флоковая трава flockingweed 植绒草 снежная 0 7.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101277",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101277.webp",
+    "title": {
+      "ru": "Золотой папоротник",
+      "en": "Golden Fern",
+      "zh": "金蕨"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 7000000,
+    "search_text": "золотой папоротник golden fern 金蕨 снежная 0 7.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "item_101278",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101278.webp",
+    "title": {
+      "ru": "Свёкла",
+      "en": "Red Beet",
+      "zh": "红甜菜"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "свёкла red beet 红甜菜 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101279",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101279.webp",
+    "title": {
+      "ru": "Криозвёздник",
+      "en": "Glaciafruit",
+      "zh": "冰星果"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "криозвёздник glaciafruit 冰星果 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101280",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101280.webp",
+    "title": {
+      "ru": "Снежноцвет",
+      "en": "Snowball Flower",
+      "zh": "雪球花"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "снежноцвет snowball flower 雪球花 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101281",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101281.webp",
+    "title": {
+      "ru": "Смородина",
+      "en": "Rimecurrant",
+      "zh": "冰醋栗"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "смородина rimecurrant 冰醋栗 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101282",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101282.webp",
+    "title": {
+      "ru": "Светящийся флюорит",
+      "en": "Lumifluorite",
+      "zh": "幽光萤石"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "plant",
+    "sort_version": 7000000,
+    "search_text": "светящийся флюорит lumifluorite 幽光萤石 снежная 0 7.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "item_101285",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101285.webp",
+    "title": {
+      "ru": "Фонарная ягода",
+      "en": "Lanternberry",
+      "zh": "笼酸浆"
+    },
+    "region": "Снежная",
+    "game_version": "7.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7002000,
+    "search_text": "фонарная ягода lanternberry 笼酸浆 снежная 0 7.2 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_101331",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101331.webp",
+    "title": {
+      "ru": "Древесина снежного тополя",
+      "en": "Snow Poplar Wood",
+      "zh": "雪杨木"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "craft",
+    "sort_version": 7000000,
+    "search_text": "древесина снежного тополя snow poplar wood 雪杨木 снежная 1 7.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "item_101332",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101332.webp",
+    "title": {
+      "ru": "Древесина белой берёзы",
+      "en": "White Birch Wood",
+      "zh": "白桦木"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "craft",
+    "sort_version": 7000000,
+    "search_text": "древесина белой берёзы white birch wood 白桦木 снежная 1 7.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "item_101333",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101333.webp",
+    "title": {
+      "ru": "Древесина синего бука",
+      "en": "Bluebeech Wood",
+      "zh": "青榉木"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "craft",
+    "sort_version": 7000000,
+    "search_text": "древесина синего бука bluebeech wood 青榉木 снежная 1 7.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "item_101334",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_101334.webp",
+    "title": {
+      "ru": "Древесина лиственницы",
+      "en": "Larch Wood",
+      "zh": "落叶松木"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "craft",
+    "sort_version": 7000000,
+    "search_text": "древесина лиственницы larch wood 落叶松木 снежная 1 7.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "item_110017",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_110017.webp",
+    "title": {
+      "ru": "Мёд",
+      "en": "Honey",
+      "zh": "蜂蜜"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ingredient",
+    "item_type_title": {
+      "ru": "Ингредиент",
+      "en": "Ingredient",
+      "zh": "食材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "ingredient",
+    "sort_version": 7000000,
+    "search_text": "мёд honey 蜂蜜 снежная 0 7.0 teyvat_resources item ingredient ингредиент 食材"
+  },
+  {
+    "id": "item_131054",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131054.webp",
+    "title": {
+      "ru": "Пепельный снежный пинагор",
+      "en": "Charcoal Snowfin",
+      "zh": "炭灰雪圆鳍"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "пепельный снежный пинагор charcoal snowfin 炭灰雪圆鳍 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131055",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131055.webp",
+    "title": {
+      "ru": "Сливочный снежный пинагор",
+      "en": "Cream Snowfin",
+      "zh": "奶油雪圆鳍"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "сливочный снежный пинагор cream snowfin 奶油雪圆鳍 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131056",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131056.webp",
+    "title": {
+      "ru": "Лунный снежный пинагор",
+      "en": "Moonlight Snowfin",
+      "zh": "月光雪圆鳍"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "лунный снежный пинагор moonlight snowfin 月光雪圆鳍 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131057",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131057.webp",
+    "title": {
+      "ru": "Свекольная звездоснежка",
+      "en": "Ruby Starbloom Fish",
+      "zh": "赤甜星花鱼"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "свекольная звездоснежка ruby starbloom fish 赤甜星花鱼 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131058",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131058.webp",
+    "title": {
+      "ru": "Лазурная звездоснежка",
+      "en": "Frostpetal Starbloom Fish",
+      "zh": "青仙星花鱼"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "лазурная звездоснежка frostpetal starbloom fish 青仙星花鱼 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "item_131059",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/item_131059.webp",
+    "title": {
+      "ru": "Радужно-кристальная звездоснежка",
+      "en": "Iridescent Starbloom Fish",
+      "zh": "虹晶星花鱼"
+    },
+    "region": "Снежная",
+    "game_version": "7.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Снежная"
+    ],
+    "filter_type": "animal",
+    "sort_version": 7000000,
+    "search_text": "радужно-кристальная звездоснежка iridescent starbloom fish 虹晶星花鱼 снежная 3 7.0 teyvat_resources item animal животное 动物"
+  },
+  {
     "id": "jueyun_chili",
     "category": "items",
     "icon": "assets/icons/items/teyvat_resources/jueyun_chili.webp",

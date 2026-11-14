@@ -146,5 +146,988 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Я Сахароза, исследователь алхимии. Говорят, ты много где побывал, наверняка... нет, ничего. При первой встрече неприлично навязываться. Но... если ты не против, то, если расскажешь о своих путешествиях, то... я буду очень рада. / Я Сахароза, исследователь алхимии. Говорят, ты много где побывала, наверняка... нет, ничего. При первой встрече неприлично навязываться. Но... если ты не против, то, если расскажешь о своих путешествиях, то... я буду очень рада.",
+        "en": "I'm Sucrose, a researcher of alchemy. I've heard you've been to a lot of places, so I was wondering if you... Ah, what am I saying! It's only our first time meeting, I shouldn't trouble you. But... if you're willing, I'd love to hear any stories you have about your adventures. I'd... really like that.",
+        "zh": "我是砂糖，炼金术的…研究员。听说你去过很多地方，一定也…不，没什么，第一次见面，不该这么麻烦你。但…如果你愿意，和我讲讲路上有意思的事，那个…我，会很开心的。"
+      },
+      "source_id": 31009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Любопытство",
+        "en": "Chat: Curiosity",
+        "zh": "闲聊·好奇"
+      },
+      "text": {
+        "ru": "А это что такое? Ой... пропало. Можно пойду посмотрю?",
+        "en": "What was that? Oh... it's gone. Can I go take a look?",
+        "zh": "那是什么？啊…不见了，我可以去看看吗！"
+      },
+      "source_id": 31010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Организованность",
+        "en": "Chat: Organization",
+        "zh": "闲聊·整理"
+      },
+      "text": {
+        "ru": "Мне нужна минутка кое-что записать на заметку...",
+        "en": "I just need a moment to quickly take down some notes.",
+        "zh": "趁现在，赶快整理一下研究笔记…"
+      },
+      "source_id": 31011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Дышать полной грудью",
+        "en": "Chat: Deep Breaths",
+        "zh": "闲聊·深呼吸"
+      },
+      "text": {
+        "ru": "Аааах! Давно не выходила подышать.",
+        "en": "Ahhh! I haven't been out in a while.",
+        "zh": "嗯——！好久没出来透气了。"
+      },
+      "source_id": 31012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Сегодня мельницы крутятся быстрее обычного. Вот скажи, если на небольшое животное приделать сзади что-то типа мельницы, то будет ли оно быстрее бегать? Или, может, даже летать?",
+        "en": "The windmills are spinning faster than usual today. Hey, do you think if an animal put a propeller on its back and started running... do you think the propeller would make it run faster? Or even, fly?",
+        "zh": "今天城里的风车，转得好快。欸，你说，如果在小动物背上，也装一个像风车一样的东西，会让它们跑得更快呢，还是会飞起来呢？"
+      },
+      "source_id": 31013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Такой снегопад бывает пару раз в год, если сейчас не изучить, то придётся ждать до следующего года. Так что посторонись! А... апчхи! Да, знаю, надо одеться потеплее...",
+        "en": "Snow this big only falls a few times a year. If I miss it, I'll have to wait until next year to run my experiments, so please give me some space. Ah-Ahchooo! ...Yes, I know, I should wear more layers...",
+        "zh": "这么大的雪，一年都没有几次，错过了，想研究就要等明年了，所以就别拦我啦。啊…阿嚏！呃…我知道了，我多穿一点…"
+      },
+      "source_id": 31014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Уже... уже рассвело? Ну тогда ещё один опыт и спать! Честное слово, последний...",
+        "en": "The sun is already out? Oh, ah, okay! Just one last experiment, and then we can get some rest. Last one, I promise...",
+        "zh": "天…天已经亮了？！那、那再做最后一次实验吧，做完就休息！嗯，最后一次…"
+      },
+      "source_id": 31015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Влажность повышается. Ага... не провести ли серию опытов?",
+        "en": "Humidity levels are increasing. Think we should run some tests?",
+        "zh": "湿度上升，嗯…要不要再加一组实验呢？"
+      },
+      "source_id": 31016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро, как спалось? Исследования показывают, что без здорового сна невозможна эффективная умственная и физическая деятельность. А?.. Что? Мало сплю? Ну... ничего не поделаешь!",
+        "en": "Good morning. Did you sleep well? According to research, not getting a good night's sleep can have detrimental effects on your cognition and stamina. What? I'm always working through the night? Yeah, I know... Can't be helped I guess...",
+        "zh": "早上好，昨晚睡得还好吗？研究表明，只有睡眠充足，第二天的精神才会好，而且，脑袋的运转也会更高效哦。欸…什么？我总是熬夜？那个…唔，没办法嘛。"
+      },
+      "source_id": 31017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Аааа! Не подходи! Ой... Нет, я имела в виду, не надо близко подходить. Я эксперимент провожу. Может взорваться.",
+        "en": "Waaaaa! No, stay back, don't come over here! No, no, it's nothing personal — it's just that this experiment is highly volatile and might cause an explosion.",
+        "zh": "呜哇！别、别过来！啊…不是，我的意思是，不要靠得太近，我在做实验，这个…可能会爆炸的。"
+      },
+      "source_id": 31018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Добрый вечер. Подожди секунду! Объект 905 производит два типа световых выделений, которые для ясности обозначены как «Тип №1033» и «Тип №1035»... Ага, готово. Так что ты хотел? / Добрый вечер. Подожди секунду! Объект 905 производит два типа световых выделений, которые для ясности обозначены как «Тип №1033» и «Тип №1035»... Ага, готово. Так что ты хотела?",
+        "en": "Good evening. Please wait a moment. Experiment 905 has actually produced two light excretions, which, for clarity's sake, should be labeled No. 1033 and No. 1035 respectively... Right, now, what did you need me for?",
+        "zh": "晚上好，啊…请稍等一下！「实验体玖零伍式」的光照分泌物其实有两种，为了明确区分，就叫「壹零叁叁式」和「壹零叁伍式」…嗯，好了，请问有什么事情要找我吗？"
+      },
+      "source_id": 31019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Не надо меня ждать, иди спать. А?.. Так беспокоишься? Эксперимент уже в последней фазе. Скоро спать пойду, честное слово...",
+        "en": "No need to wait up for me. Please, get some sleep. Something bothering you? Oh, don't worry about me — I'm right at the end of my experiment. I promise I won't stay up late again...",
+        "zh": "不用等我，先去休息吧。唔…有这么不放心吗？实验已经在收尾了，不会熬夜的，真的…"
+      },
+      "source_id": 31020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Сахарозе: Биоалхимия",
+        "en": "About Sucrose: Bio-Alchemy",
+        "zh": "关于砂糖自己·「生物炼金」"
+      },
+      "text": {
+        "ru": "Биоалхимия делает упор не на «создании», а на «изменении». Искать скрытые свойства существ, усиливать их, комбинировать. Результаты всегда удивительны. Да... жизнь - поразительная вещь. Сколько всего мы ещё не знаем?",
+        "en": "Bio-alchemy, when compared with creation, places more emphasis on transformation. Finding those little secrets that living creatures have and scaling them up, combining them — the results are always such a surprise. Life really is fascinating. Just how much do we really know?",
+        "zh": "「生物炼金」，比起「创造」，更注重「改造」，找到生物隐藏起来的优点，然后放大，结合，结果往往都让人大吃一惊。嗯…生命真的是太神奇了，究竟还有多少我们不知道的东西呢？"
+      },
+      "source_id": 31021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Сахарозе: Застенчивость",
+        "en": "About Sucrose: Fear of Strangers",
+        "zh": "关于砂糖自己·怕生"
+      },
+      "text": {
+        "ru": "Я... не уверена, как себя вести с незнакомыми людьми. Каждый незнакомец обращает внимание на разные вещи. Можно случайно сказать недостаточно вежливо или даже ненароком обидеть. Эх... разговаривать - это трудно, намного труднее алхимии.",
+        "en": "I... um... really don't know how to act around new people. Everyone's personality is different, as are the things they care about. If I slip up and say the wrong thing, I'll offend someone, or sound impolite... Talking is hard, so much harder than alchemy.",
+        "zh": "我…其实我不知道怎么和陌生人说话。每个人性格都不一样，在意的东西也不一样，一不小心就会不够礼貌，或者哪里冒犯了，唉…说话真的好难啊，比炼金术什么的难多了。"
+      },
+      "source_id": 31022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Сахарозе: Уши",
+        "en": "About Sucrose: Ears",
+        "zh": "关于砂糖自己·耳朵"
+      },
+      "text": {
+        "ru": "Ой... ты заметил. Уши - это наследственное. Они не такие, как у обычных людей, поэтому я стараюсь прикрывать их волосами... / Ой... ты заметила. Уши - это наследственное. Они не такие, как у обычных людей, поэтому я стараюсь прикрывать их волосами...",
+        "en": "Oh, you, ahh... noticed. My ears are a hereditary feature... quite different from everyone else's. So, I try to hide them with my hair as much as possible.",
+        "zh": "你…你注意到了啊。我的耳朵是家里遗传下来的，和其他人很不一样，所以平时我都会用头发尽量把它们藏起来…"
+      },
+      "source_id": 31023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Наблюдения",
+        "en": "About Us: Observing",
+        "zh": "关于我们·观察"
+      },
+      "text": {
+        "ru": "Меня очень интересует твой опыт. Поэтому... можно я за тобой немного... понаблюдаю? Я тихонечко, совсем тебя не буду беспокоить... Ты не против?",
+        "en": "I'm curious to know about your background. I was wondering... could I perhaps... observe you for a while? I'll be silent, and I won't interfere with what you're doing. Would... that be okay?",
+        "zh": "我对你的经历，特别好奇，所以…我可以「观察」你一段时间吗？我会很安静的，不会打扰你，这样…你会介意吗？"
+      },
+      "source_id": 31024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О Сахарозе: Добыча",
+        "en": "About Us: Perks",
+        "zh": "关于我们·收获"
+      },
+      "text": {
+        "ru": "Честно говоря, когда мы только встретились, я заметила, что ты немного молчаливый, и боялась, что я тебя чем-то обидела. Но потом я поняла, что, на самом деле, с тобой очень легко ладить. Хе-хе... это тоже несколько неожиданный результат моих наблюдений. / Честно говоря, когда мы только встретились, я заметила, что ты немного молчаливая, и боялась, что я тебя чем-то обидела. Но потом я поняла, что, на самом деле, с тобой очень легко ладить. Хе-хе... это тоже несколько неожиданный результат моих наблюдений.",
+        "en": "To be honest, I was a little afraid when we first met, because you don't talk much... I thought I must have offended you somehow. But then as time went on, I discovered you're really easy to get along with. Hehe, just an unexpected outcome of my observations.",
+        "zh": "老实说，一开始我看你不怎么说话，有点害怕…还以为是在哪里冒犯了你，后来时间长了才慢慢发现，原来，你还是挺好相处的。嘿嘿，这也算…「观察」的意外收获吧。"
+      },
+      "source_id": 31025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "О нас: Просьбы",
+        "en": "About Us: Requests",
+        "zh": "关于我们·请求"
+      },
+      "text": {
+        "ru": "Говорят, ты прогнал Ужас Бури? Наверняка это было очень опасно. Хорошо, что с тобой ничего не случилось. Я подумала... во время боя он ничего, случайно, не обронил? Чешуйку там или кусочек кожи хотя бы. Очень хочется поизучать... / Говорят, ты прогнала Ужас Бури? Наверняка это было очень опасно. Хорошо, что с тобой ничего не случилось. Я подумала... во время боя он ничего, случайно, не обронил? Чешуйку там или кусочек кожи хотя бы. Очень хочется поизучать...",
+        "en": "I heard it was you that dealt with the Stormterror issue. No doubt it was a dangerous fight — it's a good thing you came out unscathed. I was ahh... also wondering — did Stormterror happen to drop anything during the fight? You know, a scale, some skin — even just a little would be fine. There are some tests I'd like to run...",
+        "zh": "听说，是你赶走了风魔龙？战斗一定特别危险吧，幸好你没事。那个…有件小事，风魔龙它在战斗的时候，有没有，掉下来什么东西呢？鳞也好，皮也好，一点点就可以，我想，研究一下…"
+      },
+      "source_id": 31026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Глаз Бога - мой самый важный инструмент для исследований. А? Ну инструмент же... Без Глаза Бога я не смогла бы проводить большинство экспериментов с элементами. В бою? Ну... бывает иногда. Когда иду собирать материалы, иногда использую.",
+        "en": "My Vision is my most important research tool. Hmm? Why, without it I'd be unable to proceed with most of my elemental research. Combat? Oh, I suppose I use it for that too when I'm out in the field looking for materials.",
+        "zh": "「神之眼」，是我最重要的实验器材。欸？就、就是实验器材啊，没有了「神之眼」，很多跟元素相关的实验，就没办法进行了。你说战斗？啊…偶尔吧，去野外找材料的时候，偶尔会用到。"
+      },
+      "source_id": 31027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "А в этой комнате я храню свою коллекцию костей. В шкафу слева кости ящериц, черепах, и белый карп ещё. Спереди висит скелет кабана, а в правом углу у нас хиличурл... А, да ты не волнуйся, тут ничего страшного. Если привыкнуть, то они все довольно милые.",
+        "en": "This room is where I keep all the bones I've collected. On the table on the left we have lizards, frogs, and grass carp. To the front we have the bones of a wild boar, and then over there in the right corner is a hilichurl... Oh, don't be nervous, nothing to be afraid of. They're really quite cute once you get used to them.",
+        "zh": "这个房间里，都是我收藏的骨头。放在左边柜子里的，有蜥蜴，青蛙，还有草鱼，挂在前面的是野猪，右边角落里的那个，是丘丘人…啊，别紧张，不用害怕，其实都是很可爱的东西，习惯了就好了。"
+      },
+      "source_id": 31028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Смотри, посаженные здесь туманные цветки все разные. Вот этот - самый сильный, а этот цветёт дольше... А? Ты про этот. Это «Туманный цветок №3, версия 17, увеличение лепестков», его особенность... Ну, он немножко побольше.",
+        "en": "If you look closely, you'll notice that the Mist Flowers I've planted here are all different. This one is the most powerful, this one blooms the longest... This one? Oh, this one is project 3, version 17, enlargement trial. Its defining trait is that... it's a bit larger.",
+        "zh": "你看，种在这里的冰雾花，其实每一朵都不一样。这一朵冰元素含量更高，这一朵花期更长…嗯？你问那一朵，哦，那一朵叫「叁式冰雾花改十七号放大版」，特点，嗯…就是更大一点。"
+      },
+      "source_id": 31029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Ноэлль...",
+        "en": "About Noelle",
+        "zh": "关于诺艾尔…"
+      },
+      "text": {
+        "ru": "Она... часто мне помогает, но иногда слишком уж активно... и, бывает, возникают проблемы. Как-то раз она увидела перед моей дверью ящики с материалами и сразу же занесла их внутрь, но дело в том... что я сама их только что вынесла.",
+        "en": "She's... a very willing helper, I can't deny that. It's just... she makes me a little anxious is all. One time, she saw three boxes of materials stacked just outside my laboratory door, and proceeded to move them inside for me. A nice gesture, but the thing is... I'd only just finished putting them outside...",
+        "zh": "她…经常会主动帮我的忙，但有时候太热情了，反而…让我有点苦恼。有一次，她看到我实验室门前堆了三箱器材，就很麻利地帮我搬了进来，但其实…那些都是我刚刚搬出去的。"
+      },
+      "source_id": 31030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Кли...",
+        "en": "About Klee",
+        "zh": "关于可莉…"
+      },
+      "text": {
+        "ru": "Джинн её уже много раз запирала в камере, но она, как только выпустят, - так сразу за старое. Эх, не знаю, осознаёт ли она вообще. А... Я же ей обещала сделать, чтобы и прыг, и скок, но при этом безопасный Прыг-скок. Но в проекте пока ещё много вопросов...",
+        "en": "Jean has put her into solitary confinement so many times, but every time she's let out it's not long before she's back in trouble. *sigh* Something tells me she hasn't done much introspection. I told her I'd make her a bouncing, dancing Jumpy Dumpty that is also safe — but to date there's still a lot of problems with the design.",
+        "zh": "她已经被琴团长关过好多次禁闭了，但只要被放出来，不久就又会闯祸，唉，不知道有没有真的反省过。啊…我答应她，要帮她做一个会蹦会跳，又很安全的蹦蹦，只不过现在，设计上还有不少问题…"
+      },
+      "source_id": 31031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Джинн...",
+        "en": "About Jean",
+        "zh": "关于琴…"
+      },
+      "text": {
+        "ru": "Я даже не осмеливаюсь разговаривать с магистром Джинн из-за того, что она такая серьёзная... Я знаю, что она очень хорошая... я знаю, но... боюсь. Я стараюсь её лишний раз не беспокоить, но если без неё никак... я прошу господина Альбедо сходить за меня.",
+        "en": "I don't dare talk to Master Jean that much, because she's so strict. I know she's a good person and all — I know that, I do — but... I still find her scary. I don't tend to bother her, and even when I have to... I ask Albedo to go on my behalf.",
+        "zh": "我有点不敢和琴团长说话，因为她太严肃了…我知道她是个很好的人，但、但知道归知道，害怕…还是会害怕。我一般都不会去打扰她，实在有不得不找她的事，我…我也会拜托阿贝多先生。"
+      },
+      "source_id": 31032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Похоже, что она очень много знает. Очевидно, что она никогда не читала моих исследований, но она не раз давала мне самые уместные и ценные советы. Откуда она знает? Через наблюдение? Или всё же умозаключение?",
+        "en": "She really seems to know a great deal. She's obviously never seen my research, and yet on so many occasions she's given me advice on that which is most core to my studies. Just how does she know? Is it observation, or is it ratiocination?",
+        "zh": "我觉得她，好像懂的特别多。她明明没有看过我的研究，但有好几次，都给了我最关键的建议。她到底是怎么知道的呢？是…观察？还是推理呢？"
+      },
+      "source_id": 31033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Кэйе...",
+        "en": "About Kaeya",
+        "zh": "关于凯亚…"
+      },
+      "text": {
+        "ru": "Ох... Я знаю, что он просто любит шутить, а не специально издевается надо мной. Но я, честно говоря... не понимаю, когда он серьёзно, а когда шутит. Поэтому как-то неловко получается, а то так и опозориться можно...",
+        "en": "Oh... I know he likes to joke, and isn't trying to make fun of me, but I often struggle to work out which parts of what he says are the truth and which parts are jokes. So whenever he talks to me, the outcome is usually one of two things: morbid embarrassment or unbearable awkwardness.",
+        "zh": "唔…我知道他喜欢开玩笑，也没有存心捉弄我的意思。可是，我实在是…分不清他的哪句话是真话，哪句话又是玩笑，所以最后要不然就变得很尴尬，要不然，就是我出洋相…"
+      },
+      "source_id": 31034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Об Альбедо: Искусство",
+        "en": "About Albedo: Artistry",
+        "zh": "关于阿贝多·艺术"
+      },
+      "text": {
+        "ru": "Как его ассистент, я каждый день многому учусь. Главное даже не знания, а гениальный образ мышления. Любую сложнейшую задачу он кропотливо раскладывает по полочкам, а потом раз - и решил. Именно здесь алхимия встречается с искусством.",
+        "en": "As his assistant I learn so much each and every day. What's key is not his existing knowledge, but his talented way of thinking. No matter how complex the task at hand, his way of thinking ensures he gets to the bottom of it, and is able to explain it thoroughly. His methodologies are amazing... to me, it's where alchemy meets art.",
+        "zh": "当他的助手，每天都能学到很多。重点不是知识，而是「天才」的思考方法，无论是多么复杂的问题，他总能抽丝剥茧，再一一解决。在我看来，那就是艺术…"
+      },
+      "source_id": 31035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Об Альбедо: Таланты",
+        "en": "About Albedo: Talent",
+        "zh": "关于阿贝多·天赋"
+      },
+      "text": {
+        "ru": "Таланты? Хм... Представим, что мы с ним занялись одинаковой областью, мне бы его ни в жизнь не догнать. Но я занялась биоалхимией не для того, чтобы от него дистанцироваться. Просто... просто у нас разные интересы и мечты. Вот и всё.",
+        "en": "Talent? Let's hypothesize that he and I were to perform the same research — I'd still spend my whole life playing catch up. But, my studying bio-alchemy has nothing to do with evading his line of research, we just happen to have different interests and dreams — nothing more.",
+        "zh": "你说天赋？嗯…假如和他做同样的研究，可能确实一辈子都没法超过他。但，我研究「生物炼金」并没有故意要躲开他的意思，只是…嗯，我和他恰好有不同的爱好，还有梦想，仅此而已吧。"
+      },
+      "source_id": 31036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Об Эмбер...",
+        "en": "About Amber",
+        "zh": "关于安柏…"
+      },
+      "text": {
+        "ru": "Очень интересно, почему её куклу зовут Барон Зайчик? На зайчика совсем не похоже. А... Платочек похож на заячьи ушки?.. Разумно. Вообще говоря, это просто стереотип, у многих зайчиков уши вниз висят.",
+        "en": "I'm curious as to why her doll is called \"Baron Bunny,\" it clearly has nothing to do with a rabbit at all. Oh, the headband makes it look like it has rabbit ears you say? Hmm... That's heavily reliant on the rabbit stereotype, is it not? Many rabbits' ears are floppy.",
+        "zh": "我很好奇，为什么她做的布偶，名字叫「兔兔伯爵」呢？和兔子没什么关系吧。唔…你说，头上的发带，很像兔耳朵？…有道理，但其实这是刻板印象，也有很多兔子耳朵是垂下来的。"
+      },
+      "source_id": 31037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Фишль...",
+        "en": "About Fischl",
+        "zh": "关于菲谢尔…"
+      },
+      "text": {
+        "ru": "Ты о «Цветах для принцессы Фишль»? Да, созданный автором мир очень интересен. Мне бы хотелось самой там побывать... А? Ты про эту Фишль? Она... Мне кажется, она меня туда перенести не может.",
+        "en": "I take it you're referring to the book series, Flowers for Princess Fischl? Indeed, the world the author came up with is very creative. If only I could go see it with my own eyes. Oh, you're referring to Fischl herself? I am... doubtful that she could really take me there.",
+        "zh": "你是说《菲谢尔皇女夜谭》？我知道，作者创造出的世界很有意思，要是能亲眼去看一看就好了…欸？你在说那个「菲谢尔」啊？她啊…嗯，她…应该是没办法带我去的。"
+      },
+      "source_id": 31038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Об Эоле...",
+        "en": "About Eula",
+        "zh": "关于优菈…"
+      },
+      "text": {
+        "ru": "Работа рыцаря разведки опасна, а действия госпожи Эолы необычайно дерзкие. Поэтому я сделала устройство, чтобы ей не пришлось проникать в лагерь противника. Но она была настолько пугающей, что когда я сказала ей как пользоваться устройством, то случайно пропустила несколько мер предосторожности, и произошёл несчастный случай...\nЯ так надеюсь, что она не держит на меня зла...",
+        "en": "The role of a scout is a hazardous one, and Ms. Eula throws herself into danger all too easily. So, I made a reconnaissance device for her, so that she wouldn't have to infiltrate enemy camps herself. But Ms. Eula has such an imposing manner, she really puts me on edge, and... I was so nervous that I accidentally left out a few important details while explaining how to use it... As a result, there was an accident...\nAh, what should I do... I hope she won't hold a grudge against me...",
+        "zh": "游击骑士的工作很危险，优菈小姐的行动又格外大胆，所以我给她制作了一个侦察装置，这样她就不用潜入敌人的营地了。但优菈小姐的气势太吓人，我有点怕她，告诉她使用方法的时候，不小心漏掉了几条注意事项，结果真的发生了意外…\n怎么办？我会不会被她记仇了…"
+      },
+      "source_id": 31039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Сахарозе I",
+        "en": "More About Sucrose: I",
+        "zh": "想要了解砂糖·其一"
+      },
+      "text": {
+        "ru": "Узнать обо мне? Ты... интересуешься биоалхимией? Я постараюсь точно ответить на любой твой вопрос. А? Не алхимия, а я сама? Эм... ну это я даже не знаю...",
+        "en": "You... want to know more about me? You... must have an interest in bio-alchemy, then? Whatever you ask, I will be sure to give you the most precise answer possible. Oh, it really is me specifically that you are interested in? I'm... ahh... oh. I'm at a loss for words.",
+        "zh": "了解我？你…是对「生物炼金」感兴趣吗？你有疑问的话，我会尽量给你准确答案的。嗯？不是炼金，而是「我」？唔，这个，我也不知道该说什么…"
+      },
+      "source_id": 31040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше о Сахарозе II",
+        "en": "More About Sucrose: II",
+        "zh": "想要了解砂糖·其二"
+      },
+      "text": {
+        "ru": "Суть исследования в самом процессе поиска ответа. Иногда этот процесс очень запутанный и утомительный, но когда я вижу, как постепенно проявляется результат, то сразу... Да, мне просто нравится этим заниматься.",
+        "en": "The essence of research is the process of finding the answer. Sometimes, working through that process can be tedious, but every time I see the cumulative result of my efforts... I know that I'm doing what I love.",
+        "zh": "研究的本质，是寻找答案的过程。这个过程有时候很繁琐，也很累，但每次只要看看积累起来的成果，就会觉得…嗯，我是真的很喜欢做这样的事。"
+      },
+      "source_id": 31041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Сахарозе III",
+        "en": "More About Sucrose: III",
+        "zh": "想要了解砂糖·其三"
+      },
+      "text": {
+        "ru": "В детстве у меня было двое лучших друзей, и мы друг от друга ничего не скрывали, и я думала, что всё про них знаю. Но потом кое-что случилось, и вдруг... они стали как будто чужие. Где они, чем занимаются, помнят ли обо мне... этого я не знаю. Даже с лучшими друзьями иногда так происходит.",
+        "en": "When I was little, I had two good friends — we kept nothing from each other. I thought I knew everything about them, but then... stuff happened, and we grew distant. As for where they are now, what they're doing, whether or not they remember me... I have no idea. Even though we were best friends, things still turned out this way.",
+        "zh": "小时候，我有两个好朋友，我们无话不说。本来我以为，我对她们了解得一清二楚，但后来发生了一些事，我突然就…看不透她们了。她们现在在哪儿，在做什么，还记不记得我，这些…我都不知道。就算再好的朋友，也会变成这样呢。"
+      },
+      "source_id": 31042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Сахарозе IV",
+        "en": "More About Sucrose: IV",
+        "zh": "想要了解砂糖·其四"
+      },
+      "text": {
+        "ru": "Я открою тебе маленькую тайну, я ещё никому не рассказывала. Конечная цель биоалхимии - создать Страну чудес... Ага, ту самую из сказок, где царит счастье и радость. Хе-хе, очень по-детски, да? Но я всё ещё верю в сказки.",
+        "en": "Let me tell you a little secret, something I've never told anyone. The purpose behind my research is to create my own wonderland. Yes... just like the ones in fairy tales. The kind where all your dreams come true and you live happily ever after. Hehe, it's childish, isn't it? But, I still believe in fairy tales.",
+        "zh": "告诉你一个小秘密，我对谁都没有讲过。「生物炼金」的最终目标，是创造出「仙境」…对，就是童话里的那个，能找到永远的快乐与幸福的「仙境」。嘿嘿，有点幼稚对吧？但，我现在都还相信那个故事。"
+      },
+      "source_id": 31043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше о Сахарозе V",
+        "en": "More About Sucrose: V",
+        "zh": "想要了解砂糖·其五"
+      },
+      "text": {
+        "ru": "Если ты занят, то не буду отвлекать. Не занят? Если занят, то ничего страшного, я давно привыкла в одиночку опыты ставить. А... Правда не занят? Ну... тогда можешь мне помочь? Ну или... просто поговорим... о чём-нибудь. / Если ты занята, то не буду отвлекать. Не занята? Если занята, то ничего страшного, я давно привыкла в одиночку опыты ставить. А... Правда не занята? Ну... тогда можешь мне помочь? Ну или... просто поговорим... о чём-нибудь.",
+        "en": "If you're busy, please don't let me stand in the way of progress. ...You're not busy? Really? It's fine, I—I get that you have stuff to do. I'm already quite used to working alone. ...You're truly not busy? I—In that case, I don't suppose you could help me with a few things? Or, you know, we could sit and chat about... stuff.",
+        "zh": "嗯…如果你忙的话，就去忙吧，我不想给你添麻烦。不忙？真的不忙吗？没事的，就算忙也没关系，一个人做实验我早就习惯了。啊…真、真的不忙？那…那可不可以，帮帮我的忙？或者…只是陪我说说话，什么的…"
+      },
+      "source_id": 31044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Хобби Сахарозы...",
+        "en": "Sucrose's Hobbies",
+        "zh": "砂糖的爱好…"
+      },
+      "text": {
+        "ru": "Мне нравится, когда вещи упорядочены. Вот смотри: все журналы наблюдений на полке одной толщины, а все зелья на столе отсортированы по действию и оттенку... Что?.. Это что такое?! Почему фиолетовое зелье стоит здесь?! Мне надо всё переставить!",
+        "en": "I like things that look orderly. See? All of my research notes are compiled in notebooks of the exact same thickness. All my potions are lined up according to effect and hue— Wha—What!? What is this purple potion doing here!? Sorry, I—I need to reassess the order of these potions!",
+        "zh": "我喜欢看起来很规则的东西，你看，书架上每一本实验记录，厚度都是一样的，实验台上的几百瓶药水，都是按功效与颜色分别排好…欸？…欸欸？！为什么这瓶紫色的药水会出现在这里！我、我要全部整理一遍！"
+      },
+      "source_id": 31045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Беспокойство Сахарозы...",
+        "en": "Sucrose's Troubles",
+        "zh": "砂糖的烦恼…"
+      },
+      "text": {
+        "ru": "Мне интересно, что ты делаешь во время отдыха? Я никогда не знаю, чем занять себя в выходной. Сижу в стену смотрю... Когда я ставлю опыты, время так быстро летит, а когда ничего не делаю - один день, как год.",
+        "en": "I wonder... What is it that you do in your free time? Every time I get a break, I can never find anything to do. I just find myself staring off into space. Time goes by so quickly when I'm experimenting, so how is it that when I'm not doing anything, the days all feel like years...",
+        "zh": "我想知道，你平时休息的时候，会干些什么呢？每到休息日，我就找不到事情做，只能发呆…明明做实验的时候时间过得很快，休息的时候，怎么就有种度日如年的感觉…"
+      },
+      "source_id": 31046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я использую нектар цветка-сахарка и делаю из него сахар. Если голова не соображает, то съешь кусочек - и сразу внимание возвращается. Уровень сахара очень важен для проведения исследований.",
+        "en": "I extract the nectar from Sweet Flowers to make candy. When I get stuck in a rut, I just pop one in my mouth and my focus returns. Retaining optimal blood sugar levels during research is essential.",
+        "zh": "我会提炼出甜甜花的花蜜，做成糖块。脑袋转不动的时候吃一块，就又可以集中精神了。做研究，糖分的补充是很重要的。"
+      },
+      "source_id": 31047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Когда я стала изучать биоалхимию, я перестала есть грибы... Ты, наверное, знаешь? Грибы растут на мёртвом, а это напоминает мне о разных других подобных вещах, и аппетит мой сразу... фу-у...",
+        "en": "Once I came to understand more about bio-alchemy, I stopped eating mushrooms. You're no doubt aware? Mushrooms grow on that which has died, which in turn makes me think of other such things, and my appetite just disappears... Blergh...",
+        "zh": "知道了很多「生物炼金」的知识之后，我就不怎么吃蘑菇了…你应该知道吧？蘑菇，是长在死掉的生物上的，联想到同类的其他东西，我、我的胃口就…呃…"
+      },
+      "source_id": 31048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения! Я несколько месяцев экспериментировала и, наконец, могу подарить тебе это зелье. Оно освежит в памяти самые приятные моменты прошедшего года. Оно называется «Биозелье №3916». Нет... Не №3196, а №3916!",
+        "en": "Happy birthday! I've been running experiments for months, and finally I can give you this potion. It will allow you to relive your most beautiful memories of the past year. I call it \"Bio-Potion No. 3916.\" Huh? No, no, not 3196, it's 3916!",
+        "zh": "生日快乐！我做了好几个月的实验，终于，可以把这个药水送给你了。它能唤醒你这一年来最美好的回忆，名字叫做「生物秘药叁玖壹陆号」…唔，不是「叁壹玖陆号」，是「叁玖壹陆号」啦！"
+      },
+      "source_id": 31049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Наконец-то прорыв в исследовании биоалхимии.",
+        "en": "Finally! A breakthrough in my bio-alchemy research.",
+        "zh": "「生物炼金」的研究，终于有突破了。"
+      },
+      "source_id": 31050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "В этом путешествии я собрала много материалов для исследования. Спасибо, они мне очень пригодятся.",
+        "en": "This trip has allowed me to gather a good number of materials. Thank you, I'll be sure to put them to good use.",
+        "zh": "这次旅行，我又收集到了很多研究材料，谢谢你，我会好好利用的。"
+      },
+      "source_id": 31051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Последнее время при проведении опытов я часто замечаю, что думаю о том, когда же мы с тобой снова отправимся в путешествие. Хм... Интересно почему? Надо бы изучить.",
+        "en": "Recently during my experiments, I've found myself suddenly wondering when I'll next get to go on an adventure with you. So strange... Why do you think that is? I need to do some scientific investigation to find out.",
+        "zh": "最近我在做实验的时候，经常会莫名地期待起来，什么时候又可以和你一起去冒险。唔…好奇怪，这是为什么呢？我要研究看看。"
+      },
+      "source_id": 31052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "У меня уже так много материалов для исследования! Не стоит больше тратить на меня время! Хотя бы... Позволь мне отблагодарить тебя с помощью моей биоалхимии!",
+        "en": "I have such an abundant array of research materials now! To spend any more time on me would... would really be a waste of your time! At least... let me use my bio-alchemy to make you up some kind of gift!",
+        "zh": "我收集到的研究材料，已经很足够了！花更多时间在我的身上，会…会很浪费的！至少…也让我用「生物炼金」，做点什么回礼给你！"
+      },
+      "source_id": 31053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Проверка адсорбции.",
+        "en": "Adsorption test.",
+        "zh": "吸附力测试。"
+      },
+      "source_id": 31054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Проверка Анемо 6308!",
+        "en": "Anemo Test 6308!",
+        "zh": "陆叁零捌式风单元！"
+      },
+      "source_id": 31055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Поберегись!",
+        "en": "Stand clear!",
+        "zh": "确认…安全距离！"
+      },
+      "source_id": 31056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Супервихрь II!",
+        "en": "Swirl, Mark II!",
+        "zh": "超扩散态！"
+      },
+      "source_id": 31057
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Улучшенный модуль Анемо 75!",
+        "en": "Enhanced Anemo Module 75!",
+        "zh": "柒伍式超级风模块！"
+      },
+      "source_id": 31058
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Эмуляция Анемо гипостазис!",
+        "en": "Anemo Hypostasis Emulation!",
+        "zh": "无相之风…拟造！"
+      },
+      "source_id": 31059
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Сундуки, появляющиеся из ниоткуда... Нужно исследовать.",
+        "en": "Chests appearing out of thin air... This needs research.",
+        "zh": "宝箱的出现成因…也值得研究。"
+      },
+      "source_id": 31060
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Эх, если бы я только находила лабораторные принадлежности так же часто.",
+        "en": "*sigh* If only I stumbled upon lab supplies as often.",
+        "zh": "真希望实验材料也能成箱出现啊。"
+      },
+      "source_id": 31061
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Ух ты! Сколько материалов!",
+        "en": "Wow! So many raw materials!",
+        "zh": "太好了，有这么多素材！"
+      },
+      "source_id": 31062
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Небольшая ошибка...",
+        "en": "A minor error...",
+        "zh": "这种误差，还能接受…"
+      },
+      "source_id": 31063
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Неожиданный итог...",
+        "en": "Unexpected outcome...",
+        "zh": "有点，超出预想…"
+      },
+      "source_id": 31064
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Совсем не больно, совсем не больно...",
+        "en": "Doesn't hurt, doesn't hurt...",
+        "zh": "不痛不痛，不痛的…"
+      },
+      "source_id": 31065
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Подойди, у меня есть лекарства!",
+        "en": "Come here, I have meds!",
+        "zh": "快回来，我这里有药水！"
+      },
+      "source_id": 31066
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Осторожно! Сначала думай, потом действуй!",
+        "en": "Careful — think, then step!",
+        "zh": "小心点，看准了再上！"
+      },
+      "source_id": 31067
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Мое исследование... провалилось.",
+        "en": "My research... has failed.",
+        "zh": "研究…又失败了。"
+      },
+      "source_id": 31068
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Нужно... внести исправления.",
+        "en": "Need to make... adjustments.",
+        "zh": "还需要…调整。"
+      },
+      "source_id": 31069
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Пожалуй... сначала вздремну немного.",
+        "en": "I should... sleep on it.",
+        "zh": "该…睡一会儿了。"
+      },
+      "source_id": 31070
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Эй!",
+        "en": "That's not right...",
+        "zh": "不应该啊…"
+      },
+      "source_id": 31071
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Не разбей мои очки!",
+        "en": "Don't break my glasses!",
+        "zh": "眼镜会碎掉的！"
+      },
+      "source_id": 31072
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Позвольте помочь.",
+        "en": "I want to help.",
+        "zh": "希望能帮上忙…"
+      },
+      "source_id": 31073
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "У меня... у меня получится!",
+        "en": "I... I can do it!",
+        "zh": "我、我会努力的！"
+      },
+      "source_id": 31074
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Мой эксперимент... увенчается успехом.",
+        "en": "My experiment... will succeed.",
+        "zh": "实验…一定要成功。"
+      },
+      "source_id": 31075
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Восхитительно! Чувствую себя как никогда лучше. Пора закончить мои исследования!",
+        "en": "So delectable! Time to finish my research now that I feel at my best!",
+        "zh": "好吃！啊…趁着现在状态最好，赶紧把研究做完…"
+      },
+      "source_id": 31076
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Должна признать, это гораздо вкуснее моих сбалансированных блюд. Пора пересмотреть питание.",
+        "en": "I must admit, this tastes a lot better than my healthy meals. Time for me to make some modifications to my diet.",
+        "zh": "比我做的营养餐好吃了不少。嗯，我也算改善伙食了。"
+      },
+      "source_id": 31077
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Прости, но вкус у этого блюда...",
+        "en": "Sorry, I have some... reservations about this dish.",
+        "zh": "对不起。我对这道菜，还是有点…"
+      },
+      "source_id": 31078
+    }
+  ],
+  "replica_count": 70
 }

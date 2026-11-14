@@ -19,6 +19,7 @@ on:
       - 'tools/test_pwa.cjs'
       - 'tools/check_source.py'
       - 'tools/test_source.py'
+      - 'tools/test_voiceovers.py'
       - 'index.html'
       - 'README.md'
       - 'tools/build_archive.py'
@@ -110,7 +111,7 @@ jobs:
 
       - name: Check browser script and client regressions
         run: |
-          python -m unittest discover -s tools -p 'test_source.py'
+          python -m unittest discover -s tools -p 'test_*.py'
           node --check assets/js/archive.js
           node --check sw.js
           node --test tools/test_client.cjs tools/test_pwa.cjs

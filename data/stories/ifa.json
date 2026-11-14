@@ -144,5 +144,974 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Ифа: Привет. Я Ифа, ветеринар из клана Цветочного Пера. Ты, наверное, уже обо мне что-то слышал, но это ничего. Неважно, какое впечатление у тебя обо мне сложилось, предлагаю нам начать знакомство с чистого листа.\nИфа: А, да, ещё есть вот этот... это Какуку, мой помощник. Он завриан и тоже ветеринар в каком-то смысле. Надеюсь, вы поладите.\nКакуку: Рад знакомству, кент! / Ифа: Привет. Я Ифа, ветеринар из клана Цветочного Пера. Ты, наверное, уже обо мне что-то слышала, но это ничего. Неважно, какое впечатление у тебя обо мне сложилось, предлагаю нам начать знакомство с чистого листа.\nИфа: А, да, ещё есть вот этот... это Какуку, мой помощник. Он завриан и тоже ветеринар в каком-то смысле. Надеюсь, вы поладите.\nКакуку: Рад знакомству, кент!",
+        "en": "Ifa: Hey there. I'm Ifa, a sauro-vet from the Flower-Feather Clan. You've probably heard some things about me already, but it's all good. Whatever impression you have of me, I say let's wipe the slate clean and just get to know each other.\nIfa: Oh yeah, then there's this little dude... that's Cacucu, my assistant. A... \"sauro-vet\" in a different sense of the word, I guess. I hope the two of you will get along.\nCacucu: Nice to meet you, bro!",
+        "zh": "伊法：你好，我是来自「花羽会」的兽医，名叫伊法。你可能已经从其他人那里听说过我了，不过没关系，无论印象如何，我们都可以从零开始做朋友嘛。\n伊法：对了，还有这位…这位是咔库库助理，是龙，也是医生，希望你们相处愉快。\n咔库库：幸会啊，哥们！"
+      },
+      "source_id": 113000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Отдых",
+        "en": "Chat: Rest",
+        "zh": "闲聊·休息"
+      },
+      "text": {
+        "ru": "Эх, мало в мире дел, которые сделал раз - и гуляй. Как отдохнёшь, давай выдвигаться.",
+        "en": "*sigh* Most things in life aren't one and done. Soon as you're rested up, let's make a move.",
+        "zh": "哎，世界上哪有那么多一劳永逸的好事。休息够了就动起来吧。"
+      },
+      "source_id": 113001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Закуски",
+        "en": "Chat: Snacks",
+        "zh": "闲聊·零食"
+      },
+      "text": {
+        "ru": "Когда у меня перерыв, всегда хочется перекусить... У меня есть конфеты, фрукты и вяленое мясо. Хочешь?",
+        "en": "Whenever I get to take a break, I always want a snack... Hmm, I got some candy, fruit, and jerky. You want some?",
+        "zh": "一闲下来总想吃点什么…我有糖、水果和肉干，要来点吗？"
+      },
+      "source_id": 113002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Крик",
+        "en": "Chat: Calls",
+        "zh": "闲聊·叫声"
+      },
+      "text": {
+        "ru": "Слышал? Как будто животное кричит. ...Хм, а может, просто показалось. / Слышала? Как будто животное кричит. ...Хм, а может, просто показалось.",
+        "en": "Did you hear that? Sounded like an animal call. ...Hmm, or maybe I'm just hearing things.",
+        "zh": "你有听到动物的叫声吗？…唔，难道是我听错了…"
+      },
+      "source_id": 113003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Осторожно, Какуку начнёт отряхиваться и тебя забрызгает... Хотя ты, наверное, и так уже промок насквозь. Разницы нет. / Осторожно, Какуку начнёт отряхиваться и тебя забрызгает... Хотя ты, наверное, и так уже промокла насквозь. Разницы нет.",
+        "en": "Watch out for when Cacucu shakes off his feathers, or you'll get drenched... Although, actually, you're probably soaked through already. Yeah, never mind.",
+        "zh": "小心，咔库库可能会甩你一身水…不过转念一想，反正都在淋雨了，躲不躲也没什么差别。"
+      },
+      "source_id": 113004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "А ты знаешь, что многие заврианы боятся грома? Каждый раз приходится их подолгу успокаивать, хе-хе. Такие они забавные иногда.",
+        "en": "Did you know that a lot of saurians are actually scared of thunder? It always takes so long to calm them down, hehe. They're so funny sometimes.",
+        "zh": "你知道吗，有不少龙害怕打雷呢。每次都要解释好久才能安抚它们，怪好玩的。"
+      },
+      "source_id": 113005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Ветер до того холодный, что даже глаза не открываются... В такую погоду лучше не летать.",
+        "en": "Whew, I can barely open my eyes in this wind, it's so cold... No flying for me in this weather.",
+        "zh": "呜哇，冷风吹得睁不开眼…还是先别飞了。"
+      },
+      "source_id": 113006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Либо остаться без шляпы, либо склонить голову. Придётся выбирать.",
+        "en": "Looks like I can either lose my hat or lose my breath... The wind demands a sacrifice.",
+        "zh": "在帽子被吹走和脖子被勒住之间只能二选其一呢。"
+      },
+      "source_id": 113007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро. Я, вообще, не люблю рано вставать. Но нужно идти в клинику, чтобы покормить животных, а то они такой шум подымут.",
+        "en": "Good morning. Don't be fooled, I'm not a morning person. But I have to get to the clinic to feed the critters, or they'll start making a real racket.",
+        "zh": "早上好。不是我想起这么早的，只是再不起床，留在诊所里的病患们会饿得大叫。"
+      },
+      "source_id": 113008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "О, а я как раз собирался прерваться на обед. Не хочешь со мной?",
+        "en": "Oh hey, I was just about to break for lunch too. Wanna come with?",
+        "zh": "巧啊，我正准备去吃午饭，要一起吗？"
+      },
+      "source_id": 113009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "По ночам я обычно остаюсь дома. Так, в случае необходимости, и люди, и заврианы знают, где меня искать. А если ночь выдаётся спокойной, то я могу просто расслабиться и отдохнуть.",
+        "en": "I tend to stay home at night. That way, people — and saurians — know where to find me in an emergency. Or if it's a quiet night, then I can just chill out and rest.",
+        "zh": "晚上我一般习惯待在家里，如果有紧急病患，会比较容易找到我。没有意外发生的话，那就好好休息。"
+      },
+      "source_id": 113010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Спокойной ночи. Никогда не знаешь, что жизнь подкинет нам завтра, так что надо стараться хорошо отдыхать.",
+        "en": "G'night. There's no predicting what life's gonna throw at you tomorrow, all you can do is make sure you're well-rested by the time it rolls around.",
+        "zh": "晚安。明天肯定有想不到的新事情要忙，早些休息吧。"
+      },
+      "source_id": 113011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Об Ифе: Друзья",
+        "en": "About Ifa: Friends",
+        "zh": "关于伊法自己·朋友"
+      },
+      "text": {
+        "ru": "Можно сказать, что у меня довольно много друзей. Некоторые доставляют мне проблемы, другие помогают их решать, а есть и те, кто балансирует между этими двумя крайностями. И это замечательно, все они действительно хорошие друзья.",
+        "en": "I'd say I've got quite a big circle of friends. Some cause me headaches, some relieve my headaches, and some of them kinda alternate between the two, depending on the day. It's a nice mix, though. They're all great people.",
+        "zh": "我朋友还算挺多的吧，有一些会让我头疼，有一些能缓解我的头疼，还有一些在这两者之间摇摆。挺好的，他们都是很不错的朋友。"
+      },
+      "source_id": 113012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Об Ифе: Удовлетворение",
+        "en": "About Ifa: Fulfillment",
+        "zh": "关于伊法自己·满足"
+      },
+      "text": {
+        "ru": "Не знаю, у всех ли так, но лично мне нравится чувствовать себя нужным. Это приносит мне удовлетворение. Возможно, секрет полноценной жизни в том, чтобы наполнять её моментами, которые дают это чувство. Но каждый должен сам понять, что его привлекает.",
+        "en": "I dunno if everyone's this way, but me personally, I like feeling needed. I find it fulfilling. Maybe the key to a fulfilling life is just having plenty of moments that make me feel that way. But everyone needs to figure out for themselves what makes them tick.",
+        "zh": "不知道其他人是否如此，反正我在被需要时是会产生满足感的。人的一生可能就是这样被一点点填满的吧，要是大家都能找到让自己感到充实的事物就好了。"
+      },
+      "source_id": 113013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Напоминание",
+        "en": "About Us: Reminder",
+        "zh": "关于我们·提醒"
+      },
+      "text": {
+        "ru": "Ифа: Всё готово к следующему путешествию? Знаешь, куда направляешься, чувствуешь себя хорошо, ничего не забыл?\nИфа: Да, по-моему, выглядишь ты хорошо, Паймон накормлена, всё готово... Думаю, пора в путь. Хотя погоди, дай-ка мне ещё раз всё проверить...\nКакуку: Ну нет, кент! / Ифа: Всё готово к следующему путешествию? Знаешь, куда направляешься, чувствуешь себя хорошо, ничего не забыла?\nИфа: Да, по-моему, выглядишь ты хорошо, Паймон накормлена, всё готово... Думаю, пора в путь. Хотя погоди, дай-ка мне ещё раз всё проверить...\nКакуку: Ну нет, кент!",
+        "en": "Ifa: All set for your next trip? You know where you're going, feeling okay, got everything you need?\nIfa: Cool, well, you're looking good to me, and Paimon's fed, so I think you're good to go... Actually, wait — there's just one last thing I wanna check first...\nCacucu: No way, bro!",
+        "zh": "伊法：接下来的行程都安排好了？身体状态如何？东西带齐了没？\n伊法：嗯，你看起来精神不错，派蒙也吃饱了，好像确实准备妥当…不过稍等，还是让我再确认一下…\n咔库库：不会吧哥们！"
+      },
+      "source_id": 113014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Перепроверка",
+        "en": "About Us: Making Sure",
+        "zh": "关于我们·确认"
+      },
+      "text": {
+        "ru": "Мы уже давно знакомы, так что скажи честно: тебе не кажется, что я слишком нудный или тревожный? ...Нет? В самый раз? Фуф... Это радует. У меня есть склонность всё перепроверять по три раза. Наверное, это из-за того, что я так много общаюсь с животными, а они не могут мне ничего сказать. Ладно, я просто хотел убедиться, что не причиняю беспокойства.",
+        "en": "You've known me for a while now, so be honest — do you ever feel like I get naggy or overprotective? ...No? Fine just the way I am? Phew... That's a relief 'cause I have a tendency to double- and triple-check everything, probably because I deal with animals so much, and they can't talk to me. Anyway, just wanted to make sure that I'm not being a bother.",
+        "zh": "你和我认识这么久，会觉得我有时太啰嗦，或者关怀过度了吗？不会吗？这样正好？呼…那就好。可能因为我总是跟不会说话的动物打交道，所以无论什么都得多次确认才放心。你不会觉得烦就行。"
+      },
+      "source_id": 113015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Очень полезная штука на самом деле. Иногда, если завриан устал лететь, я посылаю небольшой порыв Анемо, чтобы поддержать его на некоторое время. Правда, стараюсь сделать это так, чтобы он не заметил.",
+        "en": "This thing is actually pretty useful. Sometimes, if a saurian gets tired from flying, I send a little gust of Anemo to prop them up for a little while. Discreetly, though, so they don't notice I'm doing it.",
+        "zh": "这玩意儿还挺好用的呢。有时候龙飞累了，我会让风托住它们一会儿。悄悄地，不要被发现。"
+      },
+      "source_id": 113016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Подкупать животных едой довольно эффективно, но если делать это слишком часто, они начнут требовать больше лакомств за то же поведение или даже клянчить вознаграждение за просто так. Поэтому я всегда стараюсь научить их тому, как устроен мир: если попадёшься в ловушку, то получишь травму, а если съешь что-то не то, то заболеешь - и всё в таком духе.\nНа это уходит больше усилий, но я думаю, оно того стоит. Тем более что иногда животные действительно бывают умнее людей.",
+        "en": "Bribing animals with food is pretty effective, bro. But if you do it too much, they start wanting more treats for the same behavior, or even demanding the reward without working for it. So, whenever I can, I prefer to try and teach them how the world works instead: If you get caught in a trap, you'll get injured, and if you eat the wrong thing, you'll get sick — that sort of thing.\nIt takes more effort that way, but I think it's worth it. Especially since, in some cases, animals can actually be smarter than humans.",
+        "zh": "用食物「哄骗」小动物这招确实很好用，但用多了之后它们就会得寸进尺，甚至养成坐享其成的坏习惯。所以能讲道理时，我还是愿意尽量让它们明白事物的原理，比如掉进陷阱就会摔伤、乱吃东西容易中毒。\n虽然需要额外费些功夫，但我觉得是值得去做的事情。更何况，有时动物其实比人更聪明呢。"
+      },
+      "source_id": 113017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Если внимательно наблюдать за окружающим миром, то видно, что он полон удивительного. Было бы у меня время, я мог бы провести целый день, любуясь природой. Но, к сожалению, работа всегда сама меня находит.",
+        "en": "If you really pay attention to the world around you, you'll notice it's full of fascinating things. I could spend the whole day just nature-watching if I had the time. But unfortunately, work always finds its way to my doorstep.",
+        "zh": "只要愿意用心观察，就会发现世界上有趣的东西多着呢。要是时间允许，我可以盯着大自然看一整天。可惜啊，工作总是会自己找上门来。"
+      },
+      "source_id": 113018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Качине...",
+        "en": "About Kachina",
+        "zh": "关于卡齐娜…"
+      },
+      "text": {
+        "ru": "Я вижу, что Качина очень любит заврианов. Если она сосредоточится на учёбе, то, уверен, из неё получится отличный ветеринар. Но она уже зарекомендовала себя как выдающийся воин, так что лучше ей сосредоточиться на этом, а не пытаться изучать медицину вместе со мной.",
+        "en": "I can tell that Kachina has a real soft spot for saurians. If she put in the work, I'm sure she'd make an excellent vet. But since she's already proven herself as a warrior, she's probably better off focusing on that than trying to study medicine with me on the side.",
+        "zh": "能看出卡齐娜非常喜欢龙。她如果潜心学习，应该可以成为一名不错的龙医生。不过她已经是位了不起的战士了，就不必分心来做我的学生了。"
+      },
+      "source_id": 113019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Шилонен...",
+        "en": "About Xilonen",
+        "zh": "关于希诺宁…"
+      },
+      "text": {
+        "ru": "Я люблю поболтать с Шилонен. У неё всегда полно всяких невероятных идей. Иногда её настойчивое стремление к функциональности приводит к тому, что устройства выглядят немного... пугающе. Но, опять же, «немного пугающе» - это тоже своего рода функция.",
+        "en": "I love chatting with Xilonen. She's always brimming with all sorts of fantastic creative ideas. Sometimes, her insistence on raw functionality can result in contraptions that look a little... intimidating, but then again, intimidation is kind of a function in its own right.",
+        "zh": "我可喜欢和希诺宁聊天了，她总有很多了不起的好点子。虽然有时她会因为更重视功能造出看起来很震撼的工具，但我觉得，「看起来震撼」也是功能的一种。"
+      },
+      "source_id": 113020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Киниче...",
+        "en": "About Kinich",
+        "zh": "关于基尼奇…"
+      },
+      "text": {
+        "ru": "Серьёзный вопрос: с формальной точки зрения Ахава можно считать живым существом?\nКогда он пришёл ко мне на лечение, я провёл тщательный осмотр, но не смог найти никаких проблем. Поэтому я сказал Киничу: «Просто стукни его пару раз по голове - должен заработать».\nИ как только Ахав это услышал, он вдруг сразу выздоровел. Странное совпадение, да?",
+        "en": "Serious question: Does Ajaw technically count as a living being?\nWhen he came to see me for treatment, I gave him a very thorough checkup but couldn't find anything wrong with him. So I told Kinich, \"Just bash him on the head a few times until he starts working again.\"\nAnd the moment Ajaw heard that, bro, he was suddenly fine again. Strange coincidence, huh?",
+        "zh": "严肃讨论，阿乔算是生物吗？\n反正之前它来看病，我研究了好一阵也没看出哪有问题，就跟基尼奇说：「照着它脑门多拍拍，拍到正常运转就行了。」\n阿乔听完这话马上就没事了，你说巧不巧。"
+      },
+      "source_id": 113021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Часке...",
+        "en": "About Chasca",
+        "zh": "关于恰斯卡…"
+      },
+      "text": {
+        "ru": "Ее работа миротворцем чрезвычайно важна. Она лечит множество болезней, которые мне вылечить не под силу.",
+        "en": "Her work as a peacemaker is extremely important. She cures a lot of ills that are beyond my reach.",
+        "zh": "调停人的工作很重要，她能治我治不好的「病」。"
+      },
+      "source_id": 113022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "Об Оророне: Не пытайся понять",
+        "en": "About Ororon: Try Not to Overthink",
+        "zh": "关于欧洛伦·别想太多"
+      },
+      "text": {
+        "ru": "У него очень своеобразное мышление. Старайся не вдумываться, когда с ним разговариваешь, всё равно ничего не поймёшь.\nОн не плохой человек, и выражает заботу о друзьях по-своему. Ты поймёшь, о чем я, когда узнаешь его получше.",
+        "en": "That guy has a very peculiar way of thinking. You just gotta go with the flow around him. I wouldn't bother trying to figure him out, because honestly he never makes all that much sense.\nAnyway, he's not a bad person or anything, and he has his own unique ways of showing that he cares. You'll know what I mean once you've gotten to know him.",
+        "zh": "他这人想法很怪的。和他交往不用思考太多，反正也想不明白。\n总之他心思不坏，会用特别的方式关心身边的朋友，认识久了你就知道了。"
+      },
+      "source_id": 113023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Об Оророне: Хочется узнать",
+        "en": "About Ororon: But I Can't Help It",
+        "zh": "关于欧洛伦·很想知道"
+      },
+      "text": {
+        "ru": "...Хотя я уже привык к нему, всё равно иногда мне хочется залезть к нему в голову, чтобы посмотреть, что там на самом деле происходит!",
+        "en": "...Okay, even though I'm used to him by now, there are still days when I wish I could get inside his head, just to see what is actually going on in there!",
+        "zh": "…虽然已经习惯了，但有时还是很想钻进他的脑袋里，看看他每天到底都在想些什么！"
+      },
+      "source_id": 113024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Ситлали...",
+        "en": "About Citlali",
+        "zh": "关于茜特菈莉…"
+      },
+      "text": {
+        "ru": "Бабушка... Да, она крутая. И пижам разных цветов у неё много, ха-ха-ха...\nМне дополнительные проблемы не нужны, поэтому, когда она передаёт через меня сообщение для Оророна, я просто повторяю всё слово в слово, без лишних вопросов. Если хочешь держаться подальше от её линии огня, то чем меньше знаешь, тем лучше.",
+        "en": "Granny's... Yeah, she's a tough cookie. With a colorful pajama collection, hahaha...\nI try not to get dragged into her and Ororon's drama, so whenever she gives me a message for him, I just pass it right on, word-for-word, no questions asked. I figure if I wanna stay out of her line of fire, the less I know, the better.",
+        "zh": "奶奶…奶奶很厉害的，睡衣的花样也多，哈哈…\n为了不卷入额外的麻烦，一般黑曜石奶奶叫我跟欧洛伦转达什么，我就转达什么，一字不多一字不少。有些事情，知道的越少越好，不然要和她孙子一起吃脑瓜崩。"
+      },
+      "source_id": 113025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Мавуике...",
+        "en": "About Mavuika",
+        "zh": "关于玛薇卡…"
+      },
+      "text": {
+        "ru": "Однажды Пиро Архонт подвезла меня, когда мне нужно было попасть на срочный вызов. Кент, это было просто безумие. Мы приехали, голова у меня все ещё крутится с бешеной скоростью, и я каким-то образом должен залатать этого раненого завриана... К своему собственному удивлению, я справился. Думаю, иногда мы не знаем своего потенциала, пока не выйдем из зоны комфорта.",
+        "en": "The Pyro Archon gave me a ride once when I had to get to an emergency visit. Bro, it was so crazy. We get there, my head's still spinning at a million miles an hour, and somehow, I have to patch up this injured saurian... I pulled it off, much to my own surprise. I guess sometimes we don't know our own potential until we're pushed out of our comfort zone.",
+        "zh": "有次遭遇紧急出诊，火神大人提出可以载我一程。真的很疯狂，哥们，要在头晕目眩的状态下给龙清理伤口…在那之前我都不知道自己可以做到这种程度，人的潜能就是这样被开发的。"
+      },
+      "source_id": 113026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Нёвиллете...",
+        "en": "About Neuvillette",
+        "zh": "关于那维莱特…"
+      },
+      "text": {
+        "ru": "Что? Хочешь, чтобы я позаботился о нём, если он вдруг заболеет? Ты же знаешь, что я ветеринар, а не врач?\nХм... Ну, Какуку считает его своим новым кентом... Ладно, хорошо. Я постараюсь.",
+        "en": "...What's that? You want me to take care of him if he ever gets sick? Um... you know I'm a vet and not a doctor, right?\nHmm... Well, Cacucu's certainly taken a shine to him... Alright, fine, bro. I'll do my best.",
+        "zh": "你是说万一这位先生生病了，希望我能多关照下？欸，这归我管吗？\n嗯…但既然是咔库库的新哥们…那好吧，我试试看咯。"
+      },
+      "source_id": 113027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше об Ифе I",
+        "en": "More About Ifa: I",
+        "zh": "想要了解伊法·其一"
+      },
+      "text": {
+        "ru": "Ифа: Рисунок на доске возле моей клиники - это не моя работа, честное слово.\nКакуку: Ха-ха!",
+        "en": "Ifa: That painting on the board outside my clinic — wasn't me, I swear.\nCacucu: Hahahaha!",
+        "zh": "伊法：诊所门口的板子不是我自己画的。真的，你相信我。\n咔库库：哈哈！"
+      },
+      "source_id": 113028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше об Ифе II",
+        "en": "More About Ifa: II",
+        "zh": "想要了解伊法·其二"
+      },
+      "text": {
+        "ru": "Честно говоря, не помню, какое слово Какуку научился говорить первым. Помню только, что как-то в пять утра меня разбудил вопль: «Проснись и пой, кент!» Потрясающе хороший способ проснуться, скажу я вам.",
+        "en": "I can't actually remember what Cacucu's first word was. What I do remember is being startled awake one morning at five o'clock to the screeching sound of \"Rise and shine, bro!\" ...Heck of a way to be woken up, lemme tell you.",
+        "zh": "其实我也不确定咔库库究竟是什么时候学会说第一句人话的。只记得某天凌晨听到它大叫「太阳晒屁股了，哥们！」…早上五点就这样醒来，真的很令人震惊。"
+      },
+      "source_id": 113029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше об Ифе III",
+        "en": "More About Ifa: III",
+        "zh": "想要了解伊法·其三"
+      },
+      "text": {
+        "ru": "Я давно уже прошёл лётные испытания, так что теоретически могу позвать на помощь любого кукузавра. Но появился Какуку, и, похоже, ему не нравится видеть меня рядом с другими кукузаврами. Но это ничего. Пока ему ещё рановато, но когда он почувствует, что справится с задачей, я с радостью ему доверюсь.",
+        "en": "I passed the flying trials a long time ago now, so theoretically I could call on any qucusaur for help. But ever since Cacucu came along, he's been a little possessive of me — doesn't like seeing me with another qucusaur, I guess. It's all good though. He's a little young for it, sure, but since he feels up to the task, I'm happy to trust him with it.",
+        "zh": "飞行试炼我早就通过了，理论上可以叫任何一只绒翼龙来帮我，不过自从咔库库来了，它就不太愿意让我再去找别的龙。也行吧，虽然咔库库还小，但既然它觉得自己能行，那我就愿意信任它。"
+      },
+      "source_id": 113030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше об Ифе IV",
+        "en": "More About Ifa: IV",
+        "zh": "想要了解伊法·其四"
+      },
+      "text": {
+        "ru": "Я хочу быть таким человеком, рядом с которым все чувствуют себя в безопасности. Доверие других людей заслужить нелегко, и не каждый способен на это.",
+        "en": "I want to be the kind of guy who makes everyone feel safe when I'm around. It's a rare privilege to be trusted by other people — not everyone's up to it.",
+        "zh": "如果可以，我希望自己是能给大家带来安全感的人。能被人信赖很难得，可不是谁都能做到的。"
+      },
+      "source_id": 113031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Узнать больше об Ифе V",
+        "en": "More About Ifa: V",
+        "zh": "想要了解伊法·其五"
+      },
+      "text": {
+        "ru": "Быть ветеринаром очень круто. Иногда приходится прощаться, но я никогда не жалел о своём выборе. Животные во многом похожи на детей - они маленькие непоседы, и с ними бывает трудно найти общий язык. Но они - будущее, и я всегда буду их защищать.",
+        "en": "Being a vet's pretty cool. There's always gonna be those moments where you have to say goodbye, but nothing's ever made me regret my choice. Animals are a lot like kids — they're rowdy little rascals, and they can be hard to get through to. But when all's said and done, they're the future, and I'll always protect them.",
+        "zh": "做兽医挺好的。虽然总有别离，但我从不后悔自己的职业选择。小动物就跟小孩子一样，有时难以沟通又很爱惹麻烦，但对我来说，他们都是值得守护的未来。"
+      },
+      "source_id": 113032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Хобби Ифы...",
+        "en": "Ifa's Hobbies",
+        "zh": "伊法的爱好…"
+      },
+      "text": {
+        "ru": "Пение - довольно популярное хобби в клане Цветочного Пера. Мне тоже нравится иногда что-нибудь сыграть или сочинить песню. Это хорошая эмоциональная разрядка.",
+        "en": "Singing's a pretty popular hobby in the Flower-Feather Clan. I like to strum a tune and write a song once in a while, too. It could be a good emotional release.",
+        "zh": "花羽会里喜欢唱歌的人还挺多的，我偶尔也写写歌词弹弹琴，是个调节心情的好办法。"
+      },
+      "source_id": 113033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Беспокойство Ифы...",
+        "en": "Ifa's Troubles",
+        "zh": "伊法的烦恼…"
+      },
+      "text": {
+        "ru": "Ифа: Мне кажется, у меня всё довольно хорошо, если честно. ...Но было бы неплохо, если бы Какуку выучил какие-нибудь более полезные фразы.\nКакуку: Что за чушь?",
+        "en": "Ifa: I think I have it pretty good, to be honest. Nothing keeping me up at night. ...Oh, but it would be nice if Cacucu learned some more useful phrases.\nCacucu: The heck are you on about?",
+        "zh": "伊法：好像没有什么严重到非解决不可的烦恼…哦，希望咔库库以后能学点更有用的话。\n咔库库：你在胡说什么？"
+      },
+      "source_id": 113034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Свежие фрукты лучше всего. Они утоляют сразу и голод, и жажду. К тому же можно дать несколько кусочков Какуку.",
+        "en": "Fresh fruit's the best, bro — staves off hunger and quenches your thirst in one go. Plus, I can give a few little chunks to Cacucu.",
+        "zh": "新鲜水果是最好的，既能充饥又能解渴，切下来的小块正好喂给咔库库。"
+      },
+      "source_id": 113035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Свежие фрукты - это здорово, но когда их добавляют в блюда, я сразу... А нельзя их просто съесть?",
+        "en": "Fresh fruit is great, but when people add it to a dish, I'm like dude... why can't I just eat it as-is?",
+        "zh": "新鲜水果是很好的，但放在菜里就有点…就不能直接吃吗？"
+      },
+      "source_id": 113036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Какуку: Дай сюда, кент!\nИфа: Ты и это урвать хочешь? Ладно, ладно, бери половину.",
+        "en": "Cacucu: Hit me up, bro!\nIfa: Where'd you learn how to call dibs, huh? Alright, alright, you can have half.",
+        "zh": "咔库库：交给我吧，哥们！\n伊法：你这小东西倒是抢上了。好吧好吧，分你一半。"
+      },
+      "source_id": 113037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Очень вкусно. Я возьму немного фруктового сока, чтобы запить. Тебе какой взять?",
+        "en": "Mm, really good. I'm gonna grab some fruit juice to wash it down, what flavor do you want?",
+        "zh": "很好吃，我去拿点果汁，你想喝哪种？"
+      },
+      "source_id": 113038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Какуку: Кент, ты серьёзно? Кент, посмотри, что ты натворил...\nИфа: Нет, нет! Какуку... По-моему, вполне съедобно. Спасибо, кент.",
+        "en": "Cacucu: For real, now? Bro, look at the mess you made...\nIfa: No, no! Cacucu... It looks perfectly edible to me. Thanks, bro.",
+        "zh": "咔库库：真的假的？哥们，瞧瞧你做的…\n伊法：不不，能吃就很好了。谢谢你，哥们。"
+      },
+      "source_id": 113039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения! Желаю крепкого здоровья и вечной молодости.\nКонечно, остановить неумолимый марш времени невозможно, но ты всегда можешь оставаться молодым душой. К тому же плохое настроение не идёт на пользу здоровью. Так что давай хотя бы на сегодня отбросим все заботы и повеселимся!\nКстати, тебе какая музыка нравится? Я сыграю что-нибудь. / С днём рождения! Желаю крепкого здоровья и вечной молодости.\nКонечно, остановить неумолимый марш времени невозможно, но ты всегда можешь оставаться молодой душой. К тому же плохое настроение не идёт на пользу здоровью. Так что давай хотя бы на сегодня отбросим все заботы и повеселимся!\nКстати, тебе какая музыка нравится? Я сыграю что-нибудь.",
+        "en": "Happy birthday! Wishing you good health and eternal youth.\nSure, you can't stop the relentless march of time, but you can always stay young at heart — and besides, dude, a bad mood doesn't do your health any good. So come on, just for today, cast your worries aside and let's have some fun!\nOh yeah, also, what kind of music are you into? I'll play a song.",
+        "zh": "生日快乐！祝你身体健康，永远年轻。\n虽然时间的洪流不可阻挡，但可以保持心态上的年轻嘛，更何况心情不好也是会影响健康的。来，今天就忘记烦恼，找些轻松愉快的事情做吧。\n对了，有什么喜欢的音乐吗？我弹给你听。"
+      },
+      "source_id": 113040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Это разминка?",
+        "en": "Is this, like, a warm-up or something?",
+        "zh": "是热身运动吗？"
+      },
+      "source_id": 113041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Чтобы заботиться о других, надо сначала позаботиться о себе, верно?",
+        "en": "You gotta take care of yourself before you can take care of other people, right?",
+        "zh": "自己身体健康才有精力照顾别人，对吧？"
+      },
+      "source_id": 113042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "За оружием, которое реже всего пускают в ход, нужно лучше всего ухаживать... А, кент, что я говорю - я же медик, а не воин. Я только в самом крайнем случае достаю пистолет.",
+        "en": "The gun least drawn is the one you'd better keep in good working order... Oh, dude, what am I saying — I'm a medic, not a warrior. I leave my guns holstered unless I absolutely need them.",
+        "zh": "越是不常用的枪械越要重视保养。哎呀，瞧我在说什么呢，哥们。我是医生，非必要情况是不会动枪的。"
+      },
+      "source_id": 113043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Ифа: Спасибо, кент! Если тебе когда-нибудь понадобится помощь, не стесняйся - зови в любое время!\nКакуку: В любое время, кент!",
+        "en": "Ifa: Thanks, bro! If you ever need a hand with anything, don't be shy — hit me up anytime!\nCacucu: Hit me up, bro!",
+        "zh": "伊法：谢啦，哥们！不必客套，有事随时叫我！\n咔库库：随时叫我，哥们！"
+      },
+      "source_id": 113044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Пошли!",
+        "en": "Let's go!",
+        "zh": "走吧！"
+      },
+      "source_id": 113045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Следи за ветром!",
+        "en": "Mind the wind!",
+        "zh": "注意风向！"
+      },
+      "source_id": 113046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Какуку: Полетели!",
+        "en": "Cacucu: Up and away!",
+        "zh": "咔库库：飞啦！"
+      },
+      "source_id": 113047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Какуку: Ой-ой!\nИфа: Давай, приятель!",
+        "en": "Cacucu: Oh dear! Oh dear!\nIfa: Come on, buddy!",
+        "zh": "咔库库：哎呀！哎呀！\n伊法：加油！"
+      },
+      "source_id": 113048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Осторожно!",
+        "en": "Mind your step!",
+        "zh": "小心为妙！"
+      },
+      "source_id": 113049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Ничего личного.",
+        "en": "Nothing personal.",
+        "zh": "好聚好散！"
+      },
+      "source_id": 113050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Бежишь? Бесполезно!",
+        "en": "C'mere, you little rascal!",
+        "zh": "想跑？没门！"
+      },
+      "source_id": 113051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Круто! У тебя талант их находить.",
+        "en": "Nice one! You got a knack for tracking these down.",
+        "zh": "厉害，亏你能找到这个。"
+      },
+      "source_id": 113052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Сегодня везёт!",
+        "en": "Guess today's my lucky day!",
+        "zh": "今天是幸运日啊。"
+      },
+      "source_id": 113053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Если нужно помочь донести, попрошу Какуку.",
+        "en": "If you need help with carrying this stuff, I'll get Cacucu on it.",
+        "zh": "拿不下的话我叫咔库库帮你。"
+      },
+      "source_id": 113054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Тяжело дышать...",
+        "en": "I can barely breathe...",
+        "zh": "呼吸不畅…"
+      },
+      "source_id": 113055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Последняя попытка...",
+        "en": "One last try, c'mon...",
+        "zh": "我再坚持下…"
+      },
+      "source_id": 113056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Какуку: Ифа? Ифа!\nИфа: Я знаю, знаю...",
+        "en": "Cacucu: Ifa? Ifa!\nIfa: I know, I know...",
+        "zh": "咔库库：伊法，伊法！\n伊法：知道了知道了…"
+      },
+      "source_id": 113057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Я здесь.",
+        "en": "I'm right here.",
+        "zh": "来了。"
+      },
+      "source_id": 113058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Нужно обработать.",
+        "en": "You should get that looked at.",
+        "zh": "快做紧急处理。"
+      },
+      "source_id": 113059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Я думал, война закончилась...",
+        "en": "I thought the war was over...",
+        "zh": "战争还没结束吗…"
+      },
+      "source_id": 113060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Прости, я старался...",
+        "en": "Sorry, I tried...",
+        "zh": "抱歉，没帮上忙…"
+      },
+      "source_id": 113061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Я мог спасти больше...",
+        "en": "I could've saved more...",
+        "zh": "医者的遗憾…"
+      },
+      "source_id": 113062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Хватит...",
+        "en": "Quit it...",
+        "zh": "别吧…"
+      },
+      "source_id": 113063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ну нет, кент!",
+        "en": "No way, bro!",
+        "zh": "不会吧哥们！"
+      },
+      "source_id": 113064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Ах... Нельзя полегче?",
+        "en": "*grimace*... Why can't you play nice?",
+        "zh": "嘶…就不能对我温柔点？"
+      },
+      "source_id": 113065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Далеко идём?",
+        "en": "Long trip ahead?",
+        "zh": "要出远门？"
+      },
+      "source_id": 113066
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Аптечка готова.",
+        "en": "First aid kit at the ready.",
+        "zh": "急救用品都准备好了。"
+      },
+      "source_id": 113067
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Безопасной дороги нам.",
+        "en": "Here's to a safe journey.",
+        "zh": "预祝我们一路顺风。"
+      },
+      "source_id": 113068
+    }
+  ],
+  "replica_count": 69
 }

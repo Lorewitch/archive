@@ -1,0 +1,41 @@
+{
+  "id": "item_200129",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/item_200129.webp",
+  "title": {
+    "ru": "Кисточка с ароматом чая",
+    "en": "Tea-Scented Tassel",
+    "zh": "青翦垂缨"
+  },
+  "region": "Снежная",
+  "rarity": 4,
+  "game_version": "7.1",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Материал пробуждения для Серебряного света.\nКисточка, хранящая аромат свежесобранных чайных листьев и таящая в себе духовную силу Повелителя Ветра. Стоит слегка провести ею по клинку, и кажется, будто он вновь обретает былую остроту.",
+    "en": "Refinement material for \"Silver Light.\"\nA tassel carrying the fragrance of freshly picked tea leaves, with the spiritual power of the Wind Reader held deep within. When lightly brushed across the mithril blade, it seems to restore its keen edge.",
+    "zh": "「银釭」的精炼材料。\n有着初采新茶香气的缨络，深蕴着「万象风角灵官」的灵力。轻拂秘银的剑身时，似能令其再焕锋锐。"
+  },
+  "description": {
+    "ru": "Материал пробуждения для Серебряного света.\nКисточка, хранящая аромат свежесобранных чайных листьев и таящая в себе духовную силу Повелителя Ветра. Стоит слегка провести ею по клинку, и кажется, будто он вновь обретает былую остроту.",
+    "en": "Refinement material for \"Silver Light.\"\nA tassel carrying the fragrance of freshly picked tea leaves, with the spiritual power of the Wind Reader held deep within. When lightly brushed across the mithril blade, it seems to restore its keen edge.",
+    "zh": "「银釭」的精炼材料。\n有着初采新茶香气的缨络，深蕴着「万象风角灵官」的灵力。轻拂秘银的剑身时，似能令其再焕锋锐。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "item",
+  "material_type": "weapon_ascension",
+  "material_type_title": {
+    "ru": "Возвышение оружия",
+    "en": "Weapon Ascension",
+    "zh": "武器突破"
+  }
+}

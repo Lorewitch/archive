@@ -13,12 +13,14 @@
 # chapter_num_en:
 # chapter_num_zh:
 # part_source_ids: 76115
-# previous_quests: quest_wq_76114
+# previous_quests: 
 # next_quests: 
-# related_quests:
+# related_quests: 
 # quest_chain: quest_wq_76115
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 76115
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -70,11 +72,17 @@
 
 **Паймон:** Путешественник, такого опасного типа нельзя оставлять без внимания.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Дай мне шанс покончить с ним.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Хоть будет награда, хоть нет, его надо наказать.
 
-**Нефер:** Раз уж Путешественник сам вызвался / сама вызвалась, пусть Ягода отдохнёт в этот раз.
+##### Общее продолжение
+
+**Нефер:** Раз уж Путешественник сам вызвался, пусть Ягода отдохнёт в этот раз. / Раз уж Путешественник сама вызвалась, пусть Ягода отдохнёт в этот раз.
 
 **Ягода:** Я ведь тоже немало помогала в расследовании! Пусть будет маленький отпуск.
 
@@ -82,27 +90,29 @@
 
 #### Отправляйтесь в хижину отшельника
 
-**Дервент:** ...Я вас не трогал.
+**Дервент?:** ...Я вас не трогал.
 
 **Нефер:** Значит, ты понимаешь, зачем мы здесь.
 
-**Дервент:** ...Это было давно. Теперь я хочу лишь спокойно жить.
+**Дервент?:** ...Это было давно. Теперь я хочу лишь спокойно жить.
 
 **Нефер:** Отбирая чужую жизнь? Сначала с Юхани ничего не вышло, а потом Дервент.
 
 **Нефер:** Но всё тайное становится явным. Больше никто не пострадает.
 
-**Дервент:** ...Юхани? Я хотел стать им?
+**Дервент?:** ...Юхани? Я хотел стать им?
 
-**Дервент:** Он был никем... Имел что-то? Только потому, что он милее выглядит и умеет льстить.
+**Дервент?:** Он был никем... Имел что-то? Только потому, что он милее выглядит и умеет льстить.
 
-**Дервент:** Мы с ним одинаковые! Всё, что он брал, всегда принадлежало мне!
+**Дервент?:** Мы с ним одинаковые! Всё, что он брал, всегда принадлежало мне!
 
 **Ягода:** А господин Дервент и торговец? Что они сделали тебе?
 
-**Дервент:** ...Они? Они задавали вопросы, которых задавать не стоило. Как и вы.
+**Дервент?:** ...Они? Они задавали вопросы, которых задавать не стоило. Как и вы.
 
-**Дервент:** Умрите!
+**Дервент?:** Умрите!
+
+#### Одолейте Харка Рваную Пасть
 
 #### Поговорите с Нефер
 
@@ -110,9 +120,15 @@
 
 **Паймон:** Столько лет он держался, не делал зла, но в итоге всё равно сорвался... Или он всегда был злодеем? Раз плохой, значит, уже не изменится?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Делать добро куда труднее.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Он просто снова сделал неправильный выбор.
+
+##### Общее продолжение
 
 **Нефер:** Даже сейчас он мог признать свою вину и раскаяться. Но опять пошёл по кривой дорожке.
 
@@ -176,9 +192,15 @@ Jahoda tells you all about the bounty target, Hark the "Crackjaw," as well as al
 
 **Paimon:** Hey, Traveler. We can't allow someone as dangerous as that to keep walking around doing bad stuff!
 
+##### Response branch 1
+
 - **Traveler:** Let me deal with this dangerous criminal!
 
+##### Response branch 2
+
 - **Traveler:** Bounty or no, let me deal with this!
+
+##### Shared continuation
 
 **Nefer:** Since Traveler is so eager, you should get some rest, Jahoda.
 
@@ -188,27 +210,29 @@ Jahoda tells you all about the bounty target, Hark the "Crackjaw," as well as al
 
 #### Head to the hermit's hut
 
-**Derwent:** ...I've not done anything to any of you.
+**Derwent?:** ...I've not done anything to any of you.
 
 **Nefer:** It sounds like you already know why we're here.
 
-**Derwent:** ...All of that stuff's in the past. I just want to live a peaceful life.
+**Derwent?:** ...All of that stuff's in the past. I just want to live a peaceful life.
 
 **Nefer:** A life made from stealing someone else's place? First Juhani, but that didn't work, so now Derwent.
 
 **Nefer:** Poor performances never fool the audience for long. There won't be any more victims.
 
-**Derwent:** ...Juhani? You're saying I took *his* place?
+**Derwent?:** ...Juhani? You're saying I took *his* place?
 
-**Derwent:** It was never his to take! Everything he had, he got by looking nicer, talking nicer.
+**Derwent?:** It was never his to take! Everything he had, he got by looking nicer, talking nicer.
 
-**Derwent:** We were the same! Everything he took — it belonged to me!
+**Derwent?:** We were the same! Everything he took — it belonged to me!
 
 **Jahoda:** And what about Mr. Derwent and the merchant? What did they do to you?
 
-**Derwent:** They... They asked questions they shouldn't have asked. Just like you...
+**Derwent?:** They... They asked questions they shouldn't have asked. Just like you...
 
-**Derwent:** So die!
+**Derwent?:** So die!
+
+#### Defeat Hark the Crackjaw
 
 #### Talk to Nefer
 
@@ -216,9 +240,15 @@ Jahoda tells you all about the bounty target, Hark the "Crackjaw," as well as al
 
 **Paimon:** He stopped himself from doing wrong for so many years, but in the end... Does this mean bad people can't mend their ways?
 
+##### Response branch 1
+
 - **Traveler:** It's harder to keep doing good.
 
+##### Response branch 2
+
 - **Traveler:** He made some poor decisions.
+
+##### Shared continuation
 
 **Nefer:** Every decision was his to make. Even just now, he could have chosen to admit his mistakes. But he chose violence instead.
 
@@ -282,9 +312,15 @@ Jahoda tells you all about the bounty target, Hark the "Crackjaw," as well as al
 
 **派蒙:** 旅行者，这么危险的家伙，我们也不能放着不管吧？
 
+##### 对话分支 1
+
 - **旅行者:** 给我一个除害的机会。
 
+##### 对话分支 2
+
 - **旅行者:** 就算是为了赏金，交给我吧。
+
+##### 共同后续
 
 **奈芙尔:** 既然旅行者主动请缨，那就让雅珂达休息一个回合吧。
 
@@ -294,27 +330,29 @@ Jahoda tells you all about the bounty target, Hark the "Crackjaw," as well as al
 
 #### 前往隐者小屋
 
-**德文特:** …我没招惹过你们。
+**德文特？:** …我没招惹过你们。
 
 **奈芙尔:** 看来你很清楚我们为什么来。
 
-**德文特:** …那都是过去的事，现在我只想过平静的生活。
+**德文特？:** …那都是过去的事，现在我只想过平静的生活。
 
 **奈芙尔:** 靠夺取他人的身份吗？先是朱亚尼，但没有成功，之后又是德文特。
 
 **奈芙尔:** 不过拙劣的扮演迟早被揭穿，不会再有下一个受害者了。
 
-**德文特:** …朱亚尼？我想要夺取他的身份？
+**德文特？:** …朱亚尼？我想要夺取他的身份？
 
-**德文特:** 那不是他的…那凭什么是他的？就因为他长得更讨人喜欢，说话更会奉承吗？
+**德文特？:** 那不是他的…那凭什么是他的？就因为他长得更讨人喜欢，说话更会奉承吗？
 
-**德文特:** 我们明明是一样的！…被他拿走的东西，本来就是属于我的！
+**德文特？:** 我们明明是一样的！…被他拿走的东西，本来就是属于我的！
 
 **雅珂达:** 那德文特先生和游商呢？他们又对你做了什么？
 
-**德文特:** …他们？他们问了不该问的问题，就像你们一样。
+**德文特？:** …他们？他们问了不该问的问题，就像你们一样。
 
-**德文特:** 受死吧！
+**德文特？:** 受死吧！
+
+#### 击败「裂颚」哈尔克
 
 #### 与奈芙尔对话
 
@@ -322,9 +360,15 @@ Jahoda tells you all about the bounty target, Hark the "Crackjaw," as well as al
 
 **派蒙:** 他明明都坚持不做坏事那么久了，最后却还是…还是说，他天生就是坏人，坏人是不会变好的？
 
+##### 对话分支 1
+
 - **旅行者:** 坚持做好事显然更难。
 
+##### 对话分支 2
+
 - **旅行者:** 是他做了错误的决定。
+
+##### 共同后续
 
 **奈芙尔:** 选择的权利始终都在，哪怕是刚才，他也可以选择认错忏悔。只是他又一次选错了。
 

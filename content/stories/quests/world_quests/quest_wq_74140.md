@@ -14,15 +14,21 @@
 # chapter_num_zh:
 # part_source_ids: 74140
 # previous_quests: 
-# next_quests: quest_wq_74141
+# next_quests: 
 # related_quests: 
 # quest_chain: quest_wq_74140
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 74140
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
 ### Сквозь тайное зеркало
+
+#### Войдите в тайное зеркало
+
+#### Направляйтесь к указанному месту
 
 #### Поговорите с Канотилой
 
@@ -36,17 +42,17 @@
 
 **Паймон:** Мда... а говорит она всё так же странно.
 
-Гав!
+**«Собачка»:** Гав!
 
 **Канотила:** А? Но ведь...
 
-У-у-у! Гав!
+**«Собачка»:** У-у-у! Гав!
 
 **Канотила:** Ладно, ладно, я поняла.
 
 **Паймон:** (Хм... о чём она говорит со щенком? Может быть, все мелюзины понимают язык животных?)
 
-(Это невероятно.)
+- **Путешественник:** (Это невероятно.)
 
 **Канотила:** Ничего не поделать. Встретимся в следующий раз. Пф, и несмотря на все твои слова я всё равно вернусь, чтобы с тобой поиграть.
 
@@ -62,17 +68,25 @@
 
 **Канотила:** Вам не кажется, что реальный мир ужасно скучен? Что в книгах всё как-то прекраснее?
 
-- **Путешественник:** Да, согласен / на.
+##### Вариант ответа 1
 
-- **Путешественник:** Я так не думаю.
-
-- **Путешественник:** Мне мир и там, и там нравится.
+- **Путешественник:** Да, согласен. / Да, согласна.
 
 **Паймон:** Ты и правда так думаешь?
 
+##### Вариант ответа 2
+
+- **Путешественник:** Я так не думаю.
+
 **Канотила:** Вот как... наверное, это правильно. Мои же мысли несколько странные для остальных.
 
-**Канотила:** Похоже, ты очень тв(ерда)(ёрд) в своих идеях.
+##### Вариант ответа 3
+
+- **Путешественник:** Мне мир и там, и там нравится.
+
+**Канотила:** Похоже, ты очень твёрд в своих идеях. / Похоже, ты очень тверда в своих идеях.
+
+##### Общее продолжение
 
 **Канотила:** Мне вот кажется, что самый прекрасный мир именно в Книге Откровения. Кругом увенчанные росой лепестки, и я наконец-то подружилась с собачкой.
 
@@ -86,13 +100,17 @@
 
 **Канотила:** Эх, но разве могу я расстаться с прекрасными подсолнухами, распускающимися на лугу?
 
-...
+- **Путешественник:** ...
 
 **Паймон:** Д-да уж... Ну, береги себя, Канотила! Нам надо спешить!
 
 ## EN
 
 ### Through the Looking Glass
+
+#### Enter the Looking Glass
+
+#### Head to the designated location
 
 #### Talk to Canotila
 
@@ -106,21 +124,21 @@
 
 **Paimon:** Hmm... Talking to Canotila is as confusing as ever.
 
-Woof!
+**Puppy:** Woof!
 
 **Canotila:** Hmm? But...
 
-Woof, woof!
+**Puppy:** Woof, woof!
 
 **Canotila:** Okay, okay! I hear you.
 
 **Paimon:** (Hmm...? She's talking to the puppy? Could it be that Melusine can generally communicate with dogs?)
 
-(How incredible.)
+- **Traveler:** (How incredible.)
 
 **Canotila:** Well, I guess that's that. I'll see you next time. Hmph! Even if you said that, I'm still coming back to play with you.
 
-**Canotila:** Let's go, Mr. / Ms. Traveler, Paimon!
+**Canotila:** Let's go, Mr. Traveler, Paimon! / Let's go, Ms. Traveler, Paimon!
 
 #### Talk to Canotila
 
@@ -132,17 +150,25 @@ Woof, woof!
 
 **Canotila:** Don't you feel the real world is so frighteningly dull? Don't you think the world in the Book is far more beautiful?
 
+##### Response branch 1
+
 - **Traveler:** I think so, too.
-
-- **Traveler:** I don't think so.
-
-- **Traveler:** There's no difference to me.
 
 **Paimon:** Really? You think so too, huh?
 
+##### Response branch 2
+
+- **Traveler:** I don't think so.
+
 **Canotila:** Is that so...? Maybe that's right. I'm not normal.
 
-**Canotila:** Looks like Mr. / Ms. Traveler is the toughest of all.
+##### Response branch 3
+
+- **Traveler:** There's no difference to me.
+
+**Canotila:** Looks like Mr. Traveler is the toughest of all. / Looks like Ms. Traveler is the toughest of all.
+
+##### Shared continuation
 
 **Canotila:** I still feel the world in the Book of Revealing is much more appealing. There are dew-covered petals everywhere, and I've finally made friends with the puppy.
 
@@ -156,13 +182,17 @@ Woof, woof!
 
 **Canotila:** But... I still want to see the sunflowers bloom...
 
-...
+- **Traveler:** ...
 
 **Paimon:** I—Is that so... Take care, Canotila! We'll be going!
 
 ## ZH
 
 ### 穿过谜镜
+
+#### 进入「谜镜」
+
+#### 前往指定地点
 
 #### 与夏诺蒂拉对话
 
@@ -176,21 +206,21 @@ Woof, woof!
 
 **派蒙:** 唔…夏诺蒂拉说话的风格还是这么令人摸不着头脑呢。
 
-汪！
+**「小狗」:** 汪！
 
 **夏诺蒂拉:** 嗯？不过…
 
-呜汪！
+**「小狗」:** 呜汪！
 
 **夏诺蒂拉:** 好啦好啦，我知道啦。
 
 **派蒙:** （唔…她和小狗在说什么呀？难道说，美露莘一般都会狗语吗？）
 
-（真不可思议。）
+- **旅行者:** （真不可思议。）
 
 **夏诺蒂拉:** 真没办法，那下次再见喽。哼，就算你这么说了，我也还是会回来找你玩的。
 
-**夏诺蒂拉:** 那我们走吧，旅行者哥哥 / 姐姐、派蒙。
+**夏诺蒂拉:** 那我们走吧，旅行者哥哥、派蒙。 / 那我们走吧，旅行者姐姐、派蒙。
 
 #### 与夏诺蒂拉对话
 
@@ -202,17 +232,25 @@ Woof, woof!
 
 **夏诺蒂拉:** 不觉得现实世界无趣得可怕吗？不觉得书里的世界更美丽吗？
 
+##### 对话分支 1
+
 - **旅行者:** 我也觉得。
-
-- **旅行者:** 我不这么觉得。
-
-- **旅行者:** 对我来说没有区别。
 
 **派蒙:** 欸？你居然这么觉得吗…
 
+##### 对话分支 2
+
+- **旅行者:** 我不这么觉得。
+
 **夏诺蒂拉:** 是喔…可能这样才是对的，我这样是不正常的。
 
-**夏诺蒂拉:** 看来旅行者哥哥 / 姐姐是最坚强的人呢。
+##### 对话分支 3
+
+- **旅行者:** 对我来说没有区别。
+
+**夏诺蒂拉:** 看来旅行者哥哥是最坚强的人呢。 / 看来旅行者姐姐是最坚强的人呢。
+
+##### 共同后续
 
 **夏诺蒂拉:** 我觉得，还是「揭示之书」里的世界更美丽。到处都是沾着露水的花瓣，而且好不容易才跟小狗交上了朋友。
 
@@ -226,6 +264,6 @@ Woof, woof!
 
 **夏诺蒂拉:** 唉，我还是想看到向日葵盛开的景象…
 
-……
+- **旅行者:** ……
 
 **派蒙:** 是、是喔…夏诺蒂拉要多保重喔！那我们先走啦！

@@ -144,5 +144,1030 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Дилюк, из Мондштадта. Я не люблю пустые разговоры. Дай знать, если понадобится помощь.",
+        "en": "Diluc, of Mondstadt. Not interested in idle chit-chat. If you have things you want to get done, let me know.",
+        "zh": "蒙德城的迪卢克，应约而来。闲聊恕不奉陪，如果你是想做一番大事，我倒有点兴致。"
+      },
+      "source_id": 8100
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Отдых",
+        "en": "Chat: Relax",
+        "zh": "闲聊·放松"
+      },
+      "text": {
+        "ru": "Здесь можно передохнуть.",
+        "en": "Guess we can rest a bit.",
+        "zh": "偶尔悠闲一下，也不错。"
+      },
+      "source_id": 8101
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Ордо Фавониус",
+        "en": "Chat: Knights of Favonius",
+        "zh": "闲聊·骑士团"
+      },
+      "text": {
+        "ru": "В следующий раз тебе бы следовало взять с собой рыцарей Ордо Фавониус.",
+        "en": "You should really bring the Knights of Favonius with you next time.",
+        "zh": "应该换骑士团的那些家伙来陪你。"
+      },
+      "source_id": 8102
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Гильдия",
+        "en": "Chat: Wine Guild",
+        "zh": "闲聊·行会"
+      },
+      "text": {
+        "ru": "У меня ещё много дел в гильдии. Отдохни, пока я буду с ними разбираться.",
+        "en": "I still have a lot to do at the Guild. How about you take a rest while I go back?",
+        "zh": "行会里还有很多事，你要么在这休息，我回去看看。"
+      },
+      "source_id": 8103
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь: Зонт",
+        "en": "When It Rains: Umbrella",
+        "zh": "下雨的时候·伞"
+      },
+      "text": {
+        "ru": "Мне не нужен зонт. Если нужен тебе - не стесняйся.",
+        "en": "I don't need an umbrella, but you can use one if you need.",
+        "zh": "我不用伞，你随意。"
+      },
+      "source_id": 8104
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда идёт дождь: Очищение",
+        "en": "When It Rains: Cleansing",
+        "zh": "下雨的时候·清洗"
+      },
+      "text": {
+        "ru": "Дождь... Если бы он только мог очистить порочные души этого мира.",
+        "en": "Rain... If only it could cleanse the corrupt souls of this world.",
+        "zh": "雨吗，可惜洗刷不了那些污秽的心。"
+      },
+      "source_id": 8105
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Неважно, какова погода. Главное - придерживаться своей дороги.",
+        "en": "Listen, as long as you stick to your own path, it doesn't matter what Mother Nature throws at you.",
+        "zh": "只要坚信自己的道路，就无所谓天气是晴是雨。"
+      },
+      "source_id": 8106
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "За воем ветра можно скрыть звуки совершающегося преступления.",
+        "en": "Some use the wind's whistling to drown out the sound of their crimes.",
+        "zh": "呼啸的风声，会被用来遮掩犯罪的痕迹。"
+      },
+      "source_id": 8107
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Нет нужды в болтовне. Важно только то, что ночь прошла спокойно.",
+        "en": "No need for small talk. All that matters is that you were safe last night.",
+        "zh": "寒暄就免了。昨夜一切平安就好。"
+      },
+      "source_id": 8108
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Хочешь попробовать что-нибудь из нашего тайного меню?",
+        "en": "Would you like to try the secret menu?",
+        "zh": "想试试隐藏菜单吗？"
+      },
+      "source_id": 8109
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Стемнело.",
+        "en": "Night has fallen.",
+        "zh": "夜晚到了。"
+      },
+      "source_id": 8110
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "До встречи. Я прослежу, чтобы по дороге домой с тобой ничего не случилось.",
+        "en": "Alright, see you next time. I'll make sure you leave safely.",
+        "zh": "嗯，下次见。我会目送你安全离开的。"
+      },
+      "source_id": 8111
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克自己…"
+      },
+      "text": {
+        "ru": "Легенда о «Полуночном герое»? Интересно...",
+        "en": "The legend of the \"Darknight Hero\"? An interesting rumor.",
+        "zh": "「暗夜英雄」的传说吗？有趣的传言。"
+      },
+      "source_id": 8112
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О нас: Потребности",
+        "en": "About Us: Needs",
+        "zh": "关于我们·需要"
+      },
+      "text": {
+        "ru": "Дай знать, если тебе нужна помощь. За выплатами обращайся к Эльзеру.",
+        "en": "Just say the word if you need anything. For reimbursements, ask Elzer.",
+        "zh": "需要什么就直说。报销问题找埃泽。"
+      },
+      "source_id": 8113
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О нас: Доказательства",
+        "en": "About Us: Proof",
+        "zh": "关于我们·证明"
+      },
+      "text": {
+        "ru": "Ты доказал свою решимость. Теперь настала моя очередь. / Ты доказала свою решимость. Теперь настала моя очередь.",
+        "en": "You have already proven your determination. Well then, it is now time for you to witness my resolve.",
+        "zh": "你已经证明了你的决心。那么，也让你见证一下我的意志吧。"
+      },
+      "source_id": 8114
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Глаз Бога - это свет в море тьмы, окружающей заблудшие души. Но для тех, кто имеет веру, Глаз Бога всего лишь символ признания.",
+        "en": "Visions are a light in the sea of darkness that surrounds those who have lost their way. But for those who have faith, they are little more than badges of conviction.",
+        "zh": "对于无法看清眼前道路的人来说，「神之眼」或许是神的一盏明灯。但对于有信念的人来说，只是一个可有可无的奖章罢了。"
+      },
+      "source_id": 8115
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Иногда я остаюсь поработать в «Доле ангелов». Именно в таверну стекаются все слухи Мондштадта.",
+        "en": "Occasionally I'll work the bar at Angel's Share. The tavern is known for being the center of information in Mondstadt.",
+        "zh": "我偶尔会去「天使的馈赠」亲自调酒，因为酒馆是情报集中流通的地方。"
+      },
+      "source_id": 8116
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Что? А почему ты спрашиваешь? ...Это сова, тихо наблюдающая за своей добычей из темноты, выжидающая идеального момента для удара... Безупречно.",
+        "en": "What? Why do you ask? ...It's an owl, quietly watching its prey from the darkness, waiting for the perfect moment to strike... Flawless.",
+        "zh": "…是夜枭。在黑暗中守望、观察的猛禽，只在最合适的时机出手，没有任何破绽。"
+      },
+      "source_id": 8117
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О Кэйе...",
+        "en": "About Kaeya",
+        "zh": "关于凯亚…"
+      },
+      "text": {
+        "ru": "Кэйа? Ты можешь доверять ему только наполовину... И то в лучшем случае.",
+        "en": "Kaeya? You can only trust half of what he says... at best.",
+        "zh": "凯亚吗…那个男人说的话，只能信一半。"
+      },
+      "source_id": 8118
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Я верю, что Лиза может стать самым надёжным рыцарем Ордо Фавониус... Если она сама этого захочет.",
+        "en": "I believe Lisa has the potential to become the most reliable of the knights. If she's willing.",
+        "zh": "丽莎，能成为骑士团内最值得仰赖的人之一。如果她愿意的话。"
+      },
+      "source_id": 8119
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Джинн: Враги",
+        "en": "About Jean: Enemies",
+        "zh": "关于琴·敌人"
+      },
+      "text": {
+        "ru": "Бессмысленные поручения могут стать злейшим врагом Джинн.",
+        "en": "Trifling matters can become Jean's greatest enemy.",
+        "zh": "无意义的琐事，是琴最大的敌人。"
+      },
+      "source_id": 8120
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О Джинн: Обязанности",
+        "en": "About Jean: Responsibilities",
+        "zh": "关于琴·职责"
+      },
+      "text": {
+        "ru": "Её несравненное чувство ответственности - единственная причина, по которой она до сих пор не нашла своего истинного призвания.",
+        "en": "Her unparalleled sense of responsibility is the sole reason why she still hasn't found her true calling.",
+        "zh": "琴那无人能及的责任心，终究让她没能看清自己真正的职责啊。"
+      },
+      "source_id": 8121
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Моне...",
+        "en": "About Mona",
+        "zh": "关于莫娜…"
+      },
+      "text": {
+        "ru": "По велению Анемо Архонта земля Мондштадта очень плодотворна. Я не вижу надобности в предсказаниях о хорошем урожае.",
+        "en": "The land of Mondstadt, by the Anemo Archon's grace, is bountiful. I see no need for the harvest forecasts of astrologers.",
+        "zh": "蒙德的土地浸润着风神的恩泽，就不需要赞助占星术士来预测收成了吧。"
+      },
+      "source_id": 8122
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Дионе...",
+        "en": "About Diona",
+        "zh": "关于迪奥娜…"
+      },
+      "text": {
+        "ru": "Отношение Дионы ко мне такое... Как бы это сказать? Довольно непреклонное. Я ещё не нашёл возможности поговорить с ней должным образом. Не уверен, не нравится ли ей моё семейное древо или... Что? Она просто презирает алкоголь? Ха... Никогда не думал, что встречу в Мондштадте другого бармена, похожего на меня.",
+        "en": "Diona's attitude towards me is... how should I put it? Rather rigid. I've yet to find the opportunity to speak with her properly. I'm not sure if it's an issue with my family line or— Oh? It's not? She simply despises alcohol? Huh... I never thought I'd come across another bartender like myself in Mondstadt.",
+        "zh": "迪奥娜对我的态度很是生硬，我也一直没找到合适的机会交流。如果是涉及到家族恩怨的话…嗯？不是？只是单纯地讨厌酒？没想到在这蒙德，也会有讨厌酒的酒保啊。"
+      },
+      "source_id": 8123
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Варке...",
+        "en": "About Varka",
+        "zh": "关于法尔伽…"
+      },
+      "text": {
+        "ru": "Магистр Варка... Я понимаю его позицию, но его действия я одобрить не могу... Я сказал слишком много... Я уже давно покинул орден. Забудь, что я сказал.",
+        "en": "Grand Master Varka... While I understand his disposition, I can make no sense of his actions. ...I—I've said too much already. I've long since left the Knights of Favonius. Forget I said anything.",
+        "zh": "大团长法尔伽，我能理解他的立场，却无法认同他的做派。呵…是我多言了。我早已不是西风骑士，忘了我说的话吧。"
+      },
+      "source_id": 8124
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "Об Эоле...",
+        "en": "About Eula",
+        "zh": "关于优菈…"
+      },
+      "text": {
+        "ru": "Я слышал о ней, и у неё есть свои убеждения. Желание вырваться из оков её клана также заслуживает похвалы. И все же она... Присоединилась к рыцарям Ордо Фавониус.",
+        "en": "Ah, yes... I've heard about her. She has her own convictions. Her determination to liberate herself from the shackles of her clan is praiseworthy. But, she's... joined the Knights of Favonius.",
+        "zh": "我听说过她，她有自己的理念。努力挣脱家族束缚的气势也值得称道。但她…却加入了西风骑士团。"
+      },
+      "source_id": 8125
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "Узнать больше о Дилюке I",
+        "en": "More About Diluc: I",
+        "zh": "想要了解迪卢克·其一"
+      },
+      "text": {
+        "ru": "Чем могу служить?",
+        "en": "You have business to attend to?",
+        "zh": "有何贵干？"
+      },
+      "source_id": 8126
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Дилюке II",
+        "en": "More About Diluc: II",
+        "zh": "想要了解迪卢克·其二"
+      },
+      "text": {
+        "ru": "Что? Ордо Фавониус? Хм... Мне нечего сказать. У нас с ними просто разные взгляды и всё.",
+        "en": "Huh? Knights of Favonius? ...I have nothing to say about them. We have different views is all.",
+        "zh": "嗯，你问骑士团？哼…没什么可多谈的，道路不同罢了。"
+      },
+      "source_id": 8127
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Дилюке III",
+        "en": "More About Diluc: III",
+        "zh": "想要了解迪卢克·其三"
+      },
+      "text": {
+        "ru": "Я давно не играл ни с кем в шахматы, кроме моего дворецкого. Как раз сейчас у меня выдалась свободная минутка. Хочешь сыграть со мной?",
+        "en": "It's been a long while since I played chess with anyone but my butler. I just so happen to have a moment. Care to play a round?",
+        "zh": "很久不和管家之外的人对弈了。难得有这份闲暇，跟我下局棋吧。"
+      },
+      "source_id": 8128
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Дилюке IV",
+        "en": "More About Diluc: IV",
+        "zh": "想要了解迪卢克·其四"
+      },
+      "text": {
+        "ru": "Шах и мат! Давненько у меня не было такой интересной игры.",
+        "en": "Checkmate! ...Still, it's been a while since someone tested me this much.",
+        "zh": "将军。哼，但能把我逼到这个地步，还真是不简单啊。"
+      },
+      "source_id": 8129
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Дилюке V",
+        "en": "More About Diluc: V",
+        "zh": "想要了解迪卢克·其五"
+      },
+      "text": {
+        "ru": "Неплохо. Ты постоянно удивляешь меня, будь то битва или шахматы. Хм... Работа с тобой пробуждает во мне чувство новизны, поэтому... Я бы хотел и дальше сопровождать тебя, партнёр.",
+        "en": "Not bad. Be it chess or combat, you always seem to surprise me. Hm, working with you is quite the novelty. So... I look forward to continuing to work with you, partner.",
+        "zh": "你还不赖。无论是对弈还是战斗，都不乏让人眼前一亮的表现。不…这样的合作，对我来说也算新奇…那么，今后也同行吧，「吾友」。"
+      },
+      "source_id": 8130
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Хобби Дилюка...",
+        "en": "Diluc's Hobbies",
+        "zh": "迪卢克的爱好…"
+      },
+      "text": {
+        "ru": "Произведение искусства в поместье? Оно не моё. Это из коллекции моего покойного отца.",
+        "en": "The artwork in the manor? It's not mine. It's a collection that belonged to my late father.",
+        "zh": "庄园里的那些艺术品？那不是我的。是先父有收集的爱好。"
+      },
+      "source_id": 8131
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Беспокойство Дилюка...",
+        "en": "Diluc's Troubles",
+        "zh": "迪卢克的烦恼…"
+      },
+      "text": {
+        "ru": "Победа над демонами, населяющими зловещую тьму, потребует чего-то большего, чем взмахи мечом.",
+        "en": "The darkness that seethes with evil, full of demons that must be vanquished, will take more than a blade to be torn asunder.",
+        "zh": "真正应当消灭的敌人，孕育罪恶的「黑暗」本身，需要用刀剑以外的方法去斩断…"
+      },
+      "source_id": 8132
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Хочешь знать, что в моём бокале? Это виноградный сок, мой любимый напиток.",
+        "en": "You want to know what's in my glass? It's... grape juice. My drink of choice.",
+        "zh": "你问我杯子里的是什么酒？葡萄汁而已，我一般喝这个。"
+      },
+      "source_id": 8133
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Мне не нравится алкоголь... Просто не нравится ощущать его вкус.",
+        "en": "I don't like alcohol. It's just... I don't like how it feels in my mouth...",
+        "zh": "我不喜欢酒。没什么…我不喜欢酒的口感。"
+      },
+      "source_id": 8134
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С днём рождения. Это очень важный день для тебя. Расскажи мне, чего ты желаешь? Если в моих силах даровать тебе это, то я обязательно над этим подумаю.",
+        "en": "Happy birthday. This is an important day for you. So tell me, what is it you wish for? If it is within my power to bestow it upon you, I will give it my consideration.",
+        "zh": "生日快乐，这是属于你的重要日子。说吧，你的心愿。如果在我能力范围之内，我会考虑的。"
+      },
+      "source_id": 8135
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Мы должны быть сильными, чтобы достичь поставленной цели.",
+        "en": "Power is necessary if we are to meet our objectives.",
+        "zh": "为了达成目标，力量是必须的。"
+      },
+      "source_id": 8136
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Что ожидает нас впереди? Я редко задумываюсь над этим. Неважно, что встаёт у меня на пути, я должен идти вперёд.",
+        "en": "What lies in wait for us? I rarely stop to think about it.\nNo matter what dares to stand in my way, I must press forward.",
+        "zh": "前方会有什么？我很少会思考这种问题。\n我必须前进，不论有谁阻挡在我面前。"
+      },
+      "source_id": 8137
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Я стал сильнее... Но этого всё равно недостаточно. Чтобы столкнуться лицом к лицу с ужасами бездны и принести рассвет, кто-то должен пролить свет на кромешную тьму.",
+        "en": "I've become stronger... Though it is still not enough, I will always face the darkness.\nFor dawn to come, there must be those who dare to pierce the darkness with their light.",
+        "zh": "力量增强了…虽然还不够，但终归是在向前方探索。\n在「黎明」到来之前，必须有人稍微照亮「黑暗」…"
+      },
+      "source_id": 8138
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Раньше я был уверен, что для того, чтобы искоренить зло, мне придётся погрузиться во тьму одному. Но путешествуя с тобой, я понимаю, что ошибался. Друг... Прими мою благодарность.",
+        "en": "I used to believe... if I was to stamp out evil, I would have to walk alone in darkness. However, seeing your perseverance, I know I was wrong. Friend... I owe you my thanks.",
+        "zh": "我原以为——要扫荡罪恶的话，我必须独自行走在长夜之中。\n但你的坚持让我意识到，我又一次错了。「同伴」，我向你致以感谢。"
+      },
+      "source_id": 8139
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Ух!",
+        "en": "Hmph.",
+        "zh": "呵。"
+      },
+      "source_id": 8140
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Хэх!",
+        "en": "Hah!",
+        "zh": "哈。"
+      },
+      "source_id": 8141
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Ха-а!",
+        "en": "Haah!——",
+        "zh": "哈！——"
+      },
+      "source_id": 8142
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Настал час суда!",
+        "en": "Your verdict is...!",
+        "zh": "在此——宣判！"
+      },
+      "source_id": 8143
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Да поднимется пламя!",
+        "en": "Burn!",
+        "zh": "火焰——烧尽。"
+      },
+      "source_id": 8144
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Пылающая кара!",
+        "en": "Time for — retribution!",
+        "zh": "审判——喝啊！"
+      },
+      "source_id": 8145
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Лучше, чем ничего.",
+        "en": "Hmph, better than nothing.",
+        "zh": "哼，就当是聚沙成塔。"
+      },
+      "source_id": 8146
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Недурно.",
+        "en": "I suppose this will do.",
+        "zh": "还不赖。"
+      },
+      "source_id": 8147
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Нам нужно больше.",
+        "en": "We'll need more where that came from.",
+        "zh": "一点一滴地积累吧。"
+      },
+      "source_id": 8148
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Это всё, что ты можешь?",
+        "en": "Is that all you've got?",
+        "zh": "这点程度…"
+      },
+      "source_id": 8149
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Чтоб тебя!",
+        "en": "Darn you!",
+        "zh": "可恶…"
+      },
+      "source_id": 8150
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Ты за это заплатишь!",
+        "en": "You will pay for that!",
+        "zh": "你会付出代价。"
+      },
+      "source_id": 8151
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Осторожно!",
+        "en": "Careful!",
+        "zh": "…当心点。"
+      },
+      "source_id": 8152
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Не изнуряй себя! Отойди!",
+        "en": "Don't burn yourself out! Retreat!",
+        "zh": "状态不好就去休息。"
+      },
+      "source_id": 8153
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "В чём была моя ошибка...",
+        "en": "Where did I go wrong...",
+        "zh": "计划…出错了吗…"
+      },
+      "source_id": 8154
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Нельзя оправдать... поражение...",
+        "en": "There can be no excuse... for defeat...",
+        "zh": "败者…没有借口…"
+      },
+      "source_id": 8155
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Мое пламя... потушено...",
+        "en": "My flame... has been... extinguished...",
+        "zh": "要熄灭了吗…"
+      },
+      "source_id": 8156
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Ох!",
+        "en": "Urgh!",
+        "zh": "可恶。"
+      },
+      "source_id": 8157
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Вперёд.",
+        "en": "Let's go.",
+        "zh": "走吧。"
+      },
+      "source_id": 8158
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Какова наша цель?",
+        "en": "What's our objective?",
+        "zh": "任务的目标是…"
+      },
+      "source_id": 8159
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Покончим с этим как можно скорее.",
+        "en": "Let's finish this, swiftly.",
+        "zh": "利落地解决吧。"
+      },
+      "source_id": 8160
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Поболтаем: Подготовка",
+        "en": "Chat: Preparation",
+        "zh": "闲聊·准备"
+      },
+      "text": {
+        "ru": "Подготовься заранее и нанеси упреждающий удар по врагу.",
+        "en": "We should prepare while we can, then make a preemptive strike against the enemy.",
+        "zh": "提前做好准备，先于对方进攻吧。"
+      },
+      "source_id": 8161
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Поболтаем: Планирование",
+        "en": "Chat: Planning",
+        "zh": "闲聊·计划"
+      },
+      "text": {
+        "ru": "Давай передохнём и спланируем наш следующий шаг.",
+        "en": "Let's take a moment to rest and plan our next move.",
+        "zh": "休息时，也可以思考接下来的计划。"
+      },
+      "source_id": 8162
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Поболтаем: Предупреждение",
+        "en": "Chat: Warning",
+        "zh": "闲聊·提醒"
+      },
+      "text": {
+        "ru": "У каждого действия есть свои риски. Нельзя забывать об осторожности.",
+        "en": "Every course of action has its risks. Be careful.",
+        "zh": "任何行动难免都有风险，你要多加小心。"
+      },
+      "source_id": 8163
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Ух!",
+        "en": "Huh!",
+        "zh": "呵。"
+      },
+      "source_id": 8164
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Ха.",
+        "en": "Hyah!",
+        "zh": "哈。"
+      },
+      "source_id": 8165
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Ха!",
+        "en": "Haah!—",
+        "zh": "哈！——"
+      },
+      "source_id": 8166
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Пламя, очисти!",
+        "en": "Flames, purge!",
+        "zh": "在此——清算！"
+      },
+      "source_id": 8167
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Уничтожить нечестивых!",
+        "en": "Lay waste to the wicked!",
+        "zh": "烈焰——燃毁！"
+      },
+      "source_id": 8168
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Рассвет, прорвись!",
+        "en": "Dawn, break forth!",
+        "zh": "破晓——将至！"
+      },
+      "source_id": 8169
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Изысканно. Незабываемый аромат.",
+        "en": "Exquisite. Unforgettable flavors.",
+        "zh": "很精致。风味令人难忘。"
+      },
+      "source_id": 8170
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Вижу, что шеф-повар вложил всю душу. Прекрасное блюдо.",
+        "en": "I can see the chef put their heart into this one. A fine dish.",
+        "zh": "能品尝出厨师的专注。不错的菜肴。"
+      },
+      "source_id": 8171
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "...Спасибо.",
+        "en": "...Umm, thanks.",
+        "zh": "…谢谢。"
+      },
+      "source_id": 8172
+    }
+  ],
+  "replica_count": 73
 }

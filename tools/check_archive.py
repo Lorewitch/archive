@@ -28,16 +28,13 @@ KNOWN_REGIONS = {
 }
 KNOWN_ITEM_GROUPS = {
     "weekly_bosses", "world_bosses", "common_enemies", "development_materials",
-    "teyvat_resources", "serenitea_pot", "useful_items", "misc",
+    "teyvat_resources",
 }
 KNOWN_DEVELOPMENT_MATERIAL_TYPES = {
     "talents", "character_ascension", "weapon_ascension",
 }
 KNOWN_ITEM_TYPES = {
     "teyvat_resources": {"ore", "local_specialty", "plant", "animal", "craft", "ingredient"},
-    "serenitea_pot": {"wood", "blueprint", "seed", "misc"},
-    "useful_items": {"tool", "seelie", "equipment"},
-    "misc": {"misc"},
 }
 KNOWN_WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 KNOWN_BOOK_TYPES = {"book_series", "notes"}
@@ -592,6 +589,9 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
                     fail(f"{owner}#part-{number}: probable truncated localization {dialogue_counts}")
 
         quest_collections = quest.get("quest_collections", [])
+        series_order = quest.get("quest_series_order", 0)
+        if type(series_order) is not int or series_order < 0:
+            fail(f"{owner}: quest_series_order must be a nonnegative integer")
         if not isinstance(quest_collections, list):
             fail(f"{owner}: quest_collections must be a list")
         else:
@@ -618,6 +618,21 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
             fail(f"{owner}: quest_chain does not contain itself")
         if related != [value for value in chain if value != item_id]:
             fail(f"{owner}: related_quests differs from quest_chain without itself")
+
+    world_series: dict[str, list[dict[str, Any]]] = {}
+    for quest in quests.values():
+        keys = quest.get("quest_series", [])
+        if quest.get("story_group") == "world_quests" and keys:
+            world_series.setdefault(str(keys[0]), []).append(quest)
+    for key, members in world_series.items():
+        if len(members) < 2:
+            continue
+        titles = {str(q.get("quest_series_ru") or "").strip() for q in members}
+        orders = [q.get("quest_series_order", 0) for q in members]
+        if len(titles) != 1 or "" in titles:
+            fail(f"world series {key}: inconsistent or missing Russian series title")
+        if any(type(order) is not int or order <= 0 for order in orders) or len(orders) != len(set(orders)):
+            fail(f"world series {key}: missing or duplicate member order")
 
     for item_id, quest in quests.items():
         owner = f"data/stories/{item_id}.json"
@@ -755,32 +770,6 @@ def check_content_structure() -> None:
             fail(f"{rel(path)}: служебные блоки NOTES/INTERNAL должны быть удалены из md")
 
     # Пустая коллекция допустима; в новых шаблонах дополнительные фильтры необязательны.
-
-    content_items = content_root / "items"
-    teapot_dir = content_items / "serenitea_pot"
-    teyvat_dir = content_items / "teyvat_resources"
-
-    # Пустые категории — штатное состояние. Git не хранит пустые папки;
-    # валидируем содержимое только если оно есть, без .gitkeep и запретов на рост архива.
-
-    if teyvat_dir.exists():
-        for path in sorted(teyvat_dir.glob("*.md")):
-            text = path.read_text(encoding="utf-8")
-            if "# item_group: serenitea_pot" in text or "# item_type: teapot" in text:
-                fail(f"{rel(path)}: контент Чайника не должен лежать в Ресурсах Тейвата")
-
-    if teapot_dir.exists():
-        teapot_types: set[str] = set()
-        for path in sorted(teapot_dir.glob("*.md")):
-            text = path.read_text(encoding="utf-8")
-            if "# item_group: serenitea_pot" not in text:
-                fail(f"{rel(path)}: файл в папке Чайника должен иметь item_group: serenitea_pot")
-            match = re.search(r"^#\s*item_type\s*:\s*(.+?)\s*$", text, re.MULTILINE)
-            if match:
-                teapot_types.add(match.group(1).strip())
-        unwanted = teapot_types - {"blueprint"}
-        if unwanted:
-            fail(f"content/items/serenitea_pot: после лорной очистки допускаются только чертежи: {', '.join(sorted(unwanted))}")
 
 
 def check_infrastructure_files() -> None:

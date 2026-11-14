@@ -319,3 +319,902 @@ In times like these, his Vision proved very handy indeed.
 这种东西是讨论不出答案的，或许老天只是觉得他体温太高了需要用风吹一吹也说不定。伊法摇摇头，神之眼这件事就算翻篇了。
 他平时的确不怎么用得到神之眼，至少在咔库库出现之前是这样。咔库库来了之后，无论如何都非要带着他飞，边飞还要边大叫：「再高一点，哥们！」
 这种时候，神之眼总能派上大用场。
+
+# voice_source_ids: 113000,113001,113002,113003,113004,113005,113006,113007,113008,113009,113010,113011,113012,113013,113014,113015,113016,113017,113018,113019,113020,113021,113022,113023,113024,113025,113026,113027,113028,113029,113030,113031,113032,113033,113034,113035,113036,113037,113038,113039,113040,113041,113042,113043,113044,113045,113046,113047,113048,113049,113050,113051,113052,113053,113054,113055,113056,113057,113058,113059,113060,113061,113062,113063,113064,113065,113066,113067,113068
+
+## REPLICAS_RU
+
+### Привет...
+
+Ифа: Привет. Я Ифа, ветеринар из клана Цветочного Пера. Ты, наверное, уже обо мне что-то слышал, но это ничего. Неважно, какое впечатление у тебя обо мне сложилось, предлагаю нам начать знакомство с чистого листа.
+Ифа: А, да, ещё есть вот этот... это Какуку, мой помощник. Он завриан и тоже ветеринар в каком-то смысле. Надеюсь, вы поладите.
+Какуку: Рад знакомству, кент! / Ифа: Привет. Я Ифа, ветеринар из клана Цветочного Пера. Ты, наверное, уже обо мне что-то слышала, но это ничего. Неважно, какое впечатление у тебя обо мне сложилось, предлагаю нам начать знакомство с чистого листа.
+Ифа: А, да, ещё есть вот этот... это Какуку, мой помощник. Он завриан и тоже ветеринар в каком-то смысле. Надеюсь, вы поладите.
+Какуку: Рад знакомству, кент!
+
+### Поболтаем: Отдых
+
+Эх, мало в мире дел, которые сделал раз - и гуляй. Как отдохнёшь, давай выдвигаться.
+
+### Поболтаем: Закуски
+
+Когда у меня перерыв, всегда хочется перекусить... У меня есть конфеты, фрукты и вяленое мясо. Хочешь?
+
+### Поболтаем: Крик
+
+Слышал? Как будто животное кричит. ...Хм, а может, просто показалось. / Слышала? Как будто животное кричит. ...Хм, а может, просто показалось.
+
+### Когда идёт дождь...
+
+Осторожно, Какуку начнёт отряхиваться и тебя забрызгает... Хотя ты, наверное, и так уже промок насквозь. Разницы нет. / Осторожно, Какуку начнёт отряхиваться и тебя забрызгает... Хотя ты, наверное, и так уже промокла насквозь. Разницы нет.
+
+### Когда гремит гром...
+
+А ты знаешь, что многие заврианы боятся грома? Каждый раз приходится их подолгу успокаивать, хе-хе. Такие они забавные иногда.
+
+### Когда идёт снег...
+
+Ветер до того холодный, что даже глаза не открываются... В такую погоду лучше не летать.
+
+### Когда дует сильный ветер...
+
+Либо остаться без шляпы, либо склонить голову. Придётся выбирать.
+
+### Доброе утро...
+
+Доброе утро. Я, вообще, не люблю рано вставать. Но нужно идти в клинику, чтобы покормить животных, а то они такой шум подымут.
+
+### Добрый день...
+
+О, а я как раз собирался прерваться на обед. Не хочешь со мной?
+
+### Добрый вечер...
+
+По ночам я обычно остаюсь дома. Так, в случае необходимости, и люди, и заврианы знают, где меня искать. А если ночь выдаётся спокойной, то я могу просто расслабиться и отдохнуть.
+
+### Спокойной ночи...
+
+Спокойной ночи. Никогда не знаешь, что жизнь подкинет нам завтра, так что надо стараться хорошо отдыхать.
+
+### Об Ифе: Друзья
+
+Можно сказать, что у меня довольно много друзей. Некоторые доставляют мне проблемы, другие помогают их решать, а есть и те, кто балансирует между этими двумя крайностями. И это замечательно, все они действительно хорошие друзья.
+
+### Об Ифе: Удовлетворение
+
+Не знаю, у всех ли так, но лично мне нравится чувствовать себя нужным. Это приносит мне удовлетворение. Возможно, секрет полноценной жизни в том, чтобы наполнять её моментами, которые дают это чувство. Но каждый должен сам понять, что его привлекает.
+
+### О нас: Напоминание
+
+Ифа: Всё готово к следующему путешествию? Знаешь, куда направляешься, чувствуешь себя хорошо, ничего не забыл?
+Ифа: Да, по-моему, выглядишь ты хорошо, Паймон накормлена, всё готово... Думаю, пора в путь. Хотя погоди, дай-ка мне ещё раз всё проверить...
+Какуку: Ну нет, кент! / Ифа: Всё готово к следующему путешествию? Знаешь, куда направляешься, чувствуешь себя хорошо, ничего не забыла?
+Ифа: Да, по-моему, выглядишь ты хорошо, Паймон накормлена, всё готово... Думаю, пора в путь. Хотя погоди, дай-ка мне ещё раз всё проверить...
+Какуку: Ну нет, кент!
+
+### О нас: Перепроверка
+
+Мы уже давно знакомы, так что скажи честно: тебе не кажется, что я слишком нудный или тревожный? ...Нет? В самый раз? Фуф... Это радует. У меня есть склонность всё перепроверять по три раза. Наверное, это из-за того, что я так много общаюсь с животными, а они не могут мне ничего сказать. Ладно, я просто хотел убедиться, что не причиняю беспокойства.
+
+### Глаз Бога...
+
+Очень полезная штука на самом деле. Иногда, если завриан устал лететь, я посылаю небольшой порыв Анемо, чтобы поддержать его на некоторое время. Правда, стараюсь сделать это так, чтобы он не заметил.
+
+### Давай поделимся...
+
+Подкупать животных едой довольно эффективно, но если делать это слишком часто, они начнут требовать больше лакомств за то же поведение или даже клянчить вознаграждение за просто так. Поэтому я всегда стараюсь научить их тому, как устроен мир: если попадёшься в ловушку, то получишь травму, а если съешь что-то не то, то заболеешь - и всё в таком духе.
+На это уходит больше усилий, но я думаю, оно того стоит. Тем более что иногда животные действительно бывают умнее людей.
+
+### Интересные вещи...
+
+Если внимательно наблюдать за окружающим миром, то видно, что он полон удивительного. Было бы у меня время, я мог бы провести целый день, любуясь природой. Но, к сожалению, работа всегда сама меня находит.
+
+### О Качине...
+
+Я вижу, что Качина очень любит заврианов. Если она сосредоточится на учёбе, то, уверен, из неё получится отличный ветеринар. Но она уже зарекомендовала себя как выдающийся воин, так что лучше ей сосредоточиться на этом, а не пытаться изучать медицину вместе со мной.
+
+### О Шилонен...
+
+Я люблю поболтать с Шилонен. У неё всегда полно всяких невероятных идей. Иногда её настойчивое стремление к функциональности приводит к тому, что устройства выглядят немного... пугающе. Но, опять же, «немного пугающе» - это тоже своего рода функция.
+
+### О Киниче...
+
+Серьёзный вопрос: с формальной точки зрения Ахава можно считать живым существом?
+Когда он пришёл ко мне на лечение, я провёл тщательный осмотр, но не смог найти никаких проблем. Поэтому я сказал Киничу: «Просто стукни его пару раз по голове - должен заработать».
+И как только Ахав это услышал, он вдруг сразу выздоровел. Странное совпадение, да?
+
+### О Часке...
+
+Ее работа миротворцем чрезвычайно важна. Она лечит множество болезней, которые мне вылечить не под силу.
+
+### Об Оророне: Не пытайся понять
+
+У него очень своеобразное мышление. Старайся не вдумываться, когда с ним разговариваешь, всё равно ничего не поймёшь.
+Он не плохой человек, и выражает заботу о друзьях по-своему. Ты поймёшь, о чем я, когда узнаешь его получше.
+
+### Об Оророне: Хочется узнать
+
+...Хотя я уже привык к нему, всё равно иногда мне хочется залезть к нему в голову, чтобы посмотреть, что там на самом деле происходит!
+
+### О Ситлали...
+
+Бабушка... Да, она крутая. И пижам разных цветов у неё много, ха-ха-ха...
+Мне дополнительные проблемы не нужны, поэтому, когда она передаёт через меня сообщение для Оророна, я просто повторяю всё слово в слово, без лишних вопросов. Если хочешь держаться подальше от её линии огня, то чем меньше знаешь, тем лучше.
+
+### О Мавуике...
+
+Однажды Пиро Архонт подвезла меня, когда мне нужно было попасть на срочный вызов. Кент, это было просто безумие. Мы приехали, голова у меня все ещё крутится с бешеной скоростью, и я каким-то образом должен залатать этого раненого завриана... К своему собственному удивлению, я справился. Думаю, иногда мы не знаем своего потенциала, пока не выйдем из зоны комфорта.
+
+### О Нёвиллете...
+
+Что? Хочешь, чтобы я позаботился о нём, если он вдруг заболеет? Ты же знаешь, что я ветеринар, а не врач?
+Хм... Ну, Какуку считает его своим новым кентом... Ладно, хорошо. Я постараюсь.
+
+### Узнать больше об Ифе I
+
+Ифа: Рисунок на доске возле моей клиники - это не моя работа, честное слово.
+Какуку: Ха-ха!
+
+### Узнать больше об Ифе II
+
+Честно говоря, не помню, какое слово Какуку научился говорить первым. Помню только, что как-то в пять утра меня разбудил вопль: «Проснись и пой, кент!» Потрясающе хороший способ проснуться, скажу я вам.
+
+### Узнать больше об Ифе III
+
+Я давно уже прошёл лётные испытания, так что теоретически могу позвать на помощь любого кукузавра. Но появился Какуку, и, похоже, ему не нравится видеть меня рядом с другими кукузаврами. Но это ничего. Пока ему ещё рановато, но когда он почувствует, что справится с задачей, я с радостью ему доверюсь.
+
+### Узнать больше об Ифе IV
+
+Я хочу быть таким человеком, рядом с которым все чувствуют себя в безопасности. Доверие других людей заслужить нелегко, и не каждый способен на это.
+
+### Узнать больше об Ифе V
+
+Быть ветеринаром очень круто. Иногда приходится прощаться, но я никогда не жалел о своём выборе. Животные во многом похожи на детей - они маленькие непоседы, и с ними бывает трудно найти общий язык. Но они - будущее, и я всегда буду их защищать.
+
+### Хобби Ифы...
+
+Пение - довольно популярное хобби в клане Цветочного Пера. Мне тоже нравится иногда что-нибудь сыграть или сочинить песню. Это хорошая эмоциональная разрядка.
+
+### Беспокойство Ифы...
+
+Ифа: Мне кажется, у меня всё довольно хорошо, если честно. ...Но было бы неплохо, если бы Какуку выучил какие-нибудь более полезные фразы.
+Какуку: Что за чушь?
+
+### Любимая еда...
+
+Свежие фрукты лучше всего. Они утоляют сразу и голод, и жажду. К тому же можно дать несколько кусочков Какуку.
+
+### Нелюбимая еда...
+
+Свежие фрукты - это здорово, но когда их добавляют в блюда, я сразу... А нельзя их просто съесть?
+
+### Подарок I
+
+Какуку: Дай сюда, кент!
+Ифа: Ты и это урвать хочешь? Ладно, ладно, бери половину.
+
+### Подарок II
+
+Очень вкусно. Я возьму немного фруктового сока, чтобы запить. Тебе какой взять?
+
+### Подарок III
+
+Какуку: Кент, ты серьёзно? Кент, посмотри, что ты натворил...
+Ифа: Нет, нет! Какуку... По-моему, вполне съедобно. Спасибо, кент.
+
+### День рождения...
+
+С днём рождения! Желаю крепкого здоровья и вечной молодости.
+Конечно, остановить неумолимый марш времени невозможно, но ты всегда можешь оставаться молодым душой. К тому же плохое настроение не идёт на пользу здоровью. Так что давай хотя бы на сегодня отбросим все заботы и повеселимся!
+Кстати, тебе какая музыка нравится? Я сыграю что-нибудь. / С днём рождения! Желаю крепкого здоровья и вечной молодости.
+Конечно, остановить неумолимый марш времени невозможно, но ты всегда можешь оставаться молодой душой. К тому же плохое настроение не идёт на пользу здоровью. Так что давай хотя бы на сегодня отбросим все заботы и повеселимся!
+Кстати, тебе какая музыка нравится? Я сыграю что-нибудь.
+
+### Чувство возвышения: Начало
+
+Это разминка?
+
+### Чувство возвышения: Нарастание
+
+Чтобы заботиться о других, надо сначала позаботиться о себе, верно?
+
+### Чувство возвышения: Кульминация
+
+За оружием, которое реже всего пускают в ход, нужно лучше всего ухаживать... А, кент, что я говорю - я же медик, а не воин. Я только в самом крайнем случае достаю пистолет.
+
+### Чувство возвышения: Окончание
+
+Ифа: Спасибо, кент! Если тебе когда-нибудь понадобится помощь, не стесняйся - зови в любое время!
+Какуку: В любое время, кент!
+
+### Элементальный навык I
+
+Пошли!
+
+### Элементальный навык II
+
+Следи за ветром!
+
+### Элементальный навык III
+
+Какуку: Полетели!
+
+### Элементальный навык IV
+
+Какуку: Ой-ой!
+Ифа: Давай, приятель!
+
+### Взрыв стихии I
+
+Осторожно!
+
+### Взрыв стихии II
+
+Ничего личного.
+
+### Взрыв стихии III
+
+Бежишь? Бесполезно!
+
+### Открытие сундука I
+
+Круто! У тебя талант их находить.
+
+### Открытие сундука II
+
+Сегодня везёт!
+
+### Открытие сундука III
+
+Если нужно помочь донести, попрошу Какуку.
+
+### Низкий уровень HP I
+
+Тяжело дышать...
+
+### Низкий уровень HP II
+
+Последняя попытка...
+
+### Низкий уровень HP III
+
+Какуку: Ифа? Ифа!
+Ифа: Я знаю, знаю...
+
+### Низкий уровень HP компаньона I
+
+Я здесь.
+
+### Низкий уровень HP компаньона II
+
+Нужно обработать.
+
+### Без сознания I
+
+Я думал, война закончилась...
+
+### Без сознания II
+
+Прости, я старался...
+
+### Без сознания III
+
+Я мог спасти больше...
+
+### Получен лёгкий удар I
+
+Хватит...
+
+### Получен тяжёлый удар I
+
+Ну нет, кент!
+
+### Получен тяжёлый удар II
+
+Ах... Нельзя полегче?
+
+### Присоединяется к группе I
+
+Далеко идём?
+
+### Присоединяется к группе II
+
+Аптечка готова.
+
+### Присоединяется к группе III
+
+Безопасной дороги нам.
+
+## REPLICAS_EN
+
+### Hello
+
+Ifa: Hey there. I'm Ifa, a sauro-vet from the Flower-Feather Clan. You've probably heard some things about me already, but it's all good. Whatever impression you have of me, I say let's wipe the slate clean and just get to know each other.
+Ifa: Oh yeah, then there's this little dude... that's Cacucu, my assistant. A... "sauro-vet" in a different sense of the word, I guess. I hope the two of you will get along.
+Cacucu: Nice to meet you, bro!
+
+### Chat: Rest
+
+*sigh* Most things in life aren't one and done. Soon as you're rested up, let's make a move.
+
+### Chat: Snacks
+
+Whenever I get to take a break, I always want a snack... Hmm, I got some candy, fruit, and jerky. You want some?
+
+### Chat: Calls
+
+Did you hear that? Sounded like an animal call. ...Hmm, or maybe I'm just hearing things.
+
+### When It Rains
+
+Watch out for when Cacucu shakes off his feathers, or you'll get drenched... Although, actually, you're probably soaked through already. Yeah, never mind.
+
+### When Thunder Strikes
+
+Did you know that a lot of saurians are actually scared of thunder? It always takes so long to calm them down, hehe. They're so funny sometimes.
+
+### When It Snows
+
+Whew, I can barely open my eyes in this wind, it's so cold... No flying for me in this weather.
+
+### When the Wind Is Blowing
+
+Looks like I can either lose my hat or lose my breath... The wind demands a sacrifice.
+
+### Good Morning
+
+Good morning. Don't be fooled, I'm not a morning person. But I have to get to the clinic to feed the critters, or they'll start making a real racket.
+
+### Good Afternoon
+
+Oh hey, I was just about to break for lunch too. Wanna come with?
+
+### Good Evening
+
+I tend to stay home at night. That way, people — and saurians — know where to find me in an emergency. Or if it's a quiet night, then I can just chill out and rest.
+
+### Good Night
+
+G'night. There's no predicting what life's gonna throw at you tomorrow, all you can do is make sure you're well-rested by the time it rolls around.
+
+### About Ifa: Friends
+
+I'd say I've got quite a big circle of friends. Some cause me headaches, some relieve my headaches, and some of them kinda alternate between the two, depending on the day. It's a nice mix, though. They're all great people.
+
+### About Ifa: Fulfillment
+
+I dunno if everyone's this way, but me personally, I like feeling needed. I find it fulfilling. Maybe the key to a fulfilling life is just having plenty of moments that make me feel that way. But everyone needs to figure out for themselves what makes them tick.
+
+### About Us: Reminder
+
+Ifa: All set for your next trip? You know where you're going, feeling okay, got everything you need?
+Ifa: Cool, well, you're looking good to me, and Paimon's fed, so I think you're good to go... Actually, wait — there's just one last thing I wanna check first...
+Cacucu: No way, bro!
+
+### About Us: Making Sure
+
+You've known me for a while now, so be honest — do you ever feel like I get naggy or overprotective? ...No? Fine just the way I am? Phew... That's a relief 'cause I have a tendency to double- and triple-check everything, probably because I deal with animals so much, and they can't talk to me. Anyway, just wanted to make sure that I'm not being a bother.
+
+### About the Vision
+
+This thing is actually pretty useful. Sometimes, if a saurian gets tired from flying, I send a little gust of Anemo to prop them up for a little while. Discreetly, though, so they don't notice I'm doing it.
+
+### Something to Share
+
+Bribing animals with food is pretty effective, bro. But if you do it too much, they start wanting more treats for the same behavior, or even demanding the reward without working for it. So, whenever I can, I prefer to try and teach them how the world works instead: If you get caught in a trap, you'll get injured, and if you eat the wrong thing, you'll get sick — that sort of thing.
+It takes more effort that way, but I think it's worth it. Especially since, in some cases, animals can actually be smarter than humans.
+
+### Interesting Things
+
+If you really pay attention to the world around you, you'll notice it's full of fascinating things. I could spend the whole day just nature-watching if I had the time. But unfortunately, work always finds its way to my doorstep.
+
+### About Kachina
+
+I can tell that Kachina has a real soft spot for saurians. If she put in the work, I'm sure she'd make an excellent vet. But since she's already proven herself as a warrior, she's probably better off focusing on that than trying to study medicine with me on the side.
+
+### About Xilonen
+
+I love chatting with Xilonen. She's always brimming with all sorts of fantastic creative ideas. Sometimes, her insistence on raw functionality can result in contraptions that look a little... intimidating, but then again, intimidation is kind of a function in its own right.
+
+### About Kinich
+
+Serious question: Does Ajaw technically count as a living being?
+When he came to see me for treatment, I gave him a very thorough checkup but couldn't find anything wrong with him. So I told Kinich, "Just bash him on the head a few times until he starts working again."
+And the moment Ajaw heard that, bro, he was suddenly fine again. Strange coincidence, huh?
+
+### About Chasca
+
+Her work as a peacemaker is extremely important. She cures a lot of ills that are beyond my reach.
+
+### About Ororon: Try Not to Overthink
+
+That guy has a very peculiar way of thinking. You just gotta go with the flow around him. I wouldn't bother trying to figure him out, because honestly he never makes all that much sense.
+Anyway, he's not a bad person or anything, and he has his own unique ways of showing that he cares. You'll know what I mean once you've gotten to know him.
+
+### About Ororon: But I Can't Help It
+
+...Okay, even though I'm used to him by now, there are still days when I wish I could get inside his head, just to see what is actually going on in there!
+
+### About Citlali
+
+Granny's... Yeah, she's a tough cookie. With a colorful pajama collection, hahaha...
+I try not to get dragged into her and Ororon's drama, so whenever she gives me a message for him, I just pass it right on, word-for-word, no questions asked. I figure if I wanna stay out of her line of fire, the less I know, the better.
+
+### About Mavuika
+
+The Pyro Archon gave me a ride once when I had to get to an emergency visit. Bro, it was so crazy. We get there, my head's still spinning at a million miles an hour, and somehow, I have to patch up this injured saurian... I pulled it off, much to my own surprise. I guess sometimes we don't know our own potential until we're pushed out of our comfort zone.
+
+### About Neuvillette
+
+...What's that? You want me to take care of him if he ever gets sick? Um... you know I'm a vet and not a doctor, right?
+Hmm... Well, Cacucu's certainly taken a shine to him... Alright, fine, bro. I'll do my best.
+
+### More About Ifa: I
+
+Ifa: That painting on the board outside my clinic — wasn't me, I swear.
+Cacucu: Hahahaha!
+
+### More About Ifa: II
+
+I can't actually remember what Cacucu's first word was. What I do remember is being startled awake one morning at five o'clock to the screeching sound of "Rise and shine, bro!" ...Heck of a way to be woken up, lemme tell you.
+
+### More About Ifa: III
+
+I passed the flying trials a long time ago now, so theoretically I could call on any qucusaur for help. But ever since Cacucu came along, he's been a little possessive of me — doesn't like seeing me with another qucusaur, I guess. It's all good though. He's a little young for it, sure, but since he feels up to the task, I'm happy to trust him with it.
+
+### More About Ifa: IV
+
+I want to be the kind of guy who makes everyone feel safe when I'm around. It's a rare privilege to be trusted by other people — not everyone's up to it.
+
+### More About Ifa: V
+
+Being a vet's pretty cool. There's always gonna be those moments where you have to say goodbye, but nothing's ever made me regret my choice. Animals are a lot like kids — they're rowdy little rascals, and they can be hard to get through to. But when all's said and done, they're the future, and I'll always protect them.
+
+### Ifa's Hobbies
+
+Singing's a pretty popular hobby in the Flower-Feather Clan. I like to strum a tune and write a song once in a while, too. It could be a good emotional release.
+
+### Ifa's Troubles
+
+Ifa: I think I have it pretty good, to be honest. Nothing keeping me up at night. ...Oh, but it would be nice if Cacucu learned some more useful phrases.
+Cacucu: The heck are you on about?
+
+### Favorite Food
+
+Fresh fruit's the best, bro — staves off hunger and quenches your thirst in one go. Plus, I can give a few little chunks to Cacucu.
+
+### Least Favorite Food
+
+Fresh fruit is great, but when people add it to a dish, I'm like dude... why can't I just eat it as-is?
+
+### Receiving a Gift: I
+
+Cacucu: Hit me up, bro!
+Ifa: Where'd you learn how to call dibs, huh? Alright, alright, you can have half.
+
+### Receiving a Gift: II
+
+Mm, really good. I'm gonna grab some fruit juice to wash it down, what flavor do you want?
+
+### Receiving a Gift: III
+
+Cacucu: For real, now? Bro, look at the mess you made...
+Ifa: No, no! Cacucu... It looks perfectly edible to me. Thanks, bro.
+
+### Birthday
+
+Happy birthday! Wishing you good health and eternal youth.
+Sure, you can't stop the relentless march of time, but you can always stay young at heart — and besides, dude, a bad mood doesn't do your health any good. So come on, just for today, cast your worries aside and let's have some fun!
+Oh yeah, also, what kind of music are you into? I'll play a song.
+
+### Feelings About Ascension: Intro
+
+Is this, like, a warm-up or something?
+
+### Feelings About Ascension: Building Up
+
+You gotta take care of yourself before you can take care of other people, right?
+
+### Feelings About Ascension: Climax
+
+The gun least drawn is the one you'd better keep in good working order... Oh, dude, what am I saying — I'm a medic, not a warrior. I leave my guns holstered unless I absolutely need them.
+
+### Feelings About Ascension: Conclusion
+
+Ifa: Thanks, bro! If you ever need a hand with anything, don't be shy — hit me up anytime!
+Cacucu: Hit me up, bro!
+
+### Elemental Skill: I
+
+Let's go!
+
+### Elemental Skill: II
+
+Mind the wind!
+
+### Elemental Skill: III
+
+Cacucu: Up and away!
+
+### Elemental Skill: IV
+
+Cacucu: Oh dear! Oh dear!
+Ifa: Come on, buddy!
+
+### Elemental Burst: I
+
+Mind your step!
+
+### Elemental Burst: II
+
+Nothing personal.
+
+### Elemental Burst: III
+
+C'mere, you little rascal!
+
+### Opening Treasure Chest: I
+
+Nice one! You got a knack for tracking these down.
+
+### Opening Treasure Chest: II
+
+Guess today's my lucky day!
+
+### Opening Treasure Chest: III
+
+If you need help with carrying this stuff, I'll get Cacucu on it.
+
+### Low HP: I
+
+I can barely breathe...
+
+### Low HP: II
+
+One last try, c'mon...
+
+### Low HP: III
+
+Cacucu: Ifa? Ifa!
+Ifa: I know, I know...
+
+### Ally at Low HP: I
+
+I'm right here.
+
+### Ally at Low HP: II
+
+You should get that looked at.
+
+### Fallen: I
+
+I thought the war was over...
+
+### Fallen: II
+
+Sorry, I tried...
+
+### Fallen: III
+
+I could've saved more...
+
+### Light Hit Taken: I
+
+Quit it...
+
+### Heavy Hit Taken: I
+
+No way, bro!
+
+### Heavy Hit Taken: II
+
+*grimace*... Why can't you play nice?
+
+### Joining Party: I
+
+Long trip ahead?
+
+### Joining Party: II
+
+First aid kit at the ready.
+
+### Joining Party: III
+
+Here's to a safe journey.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+伊法：你好，我是来自「花羽会」的兽医，名叫伊法。你可能已经从其他人那里听说过我了，不过没关系，无论印象如何，我们都可以从零开始做朋友嘛。
+伊法：对了，还有这位…这位是咔库库助理，是龙，也是医生，希望你们相处愉快。
+咔库库：幸会啊，哥们！
+
+### 闲聊·休息
+
+哎，世界上哪有那么多一劳永逸的好事。休息够了就动起来吧。
+
+### 闲聊·零食
+
+一闲下来总想吃点什么…我有糖、水果和肉干，要来点吗？
+
+### 闲聊·叫声
+
+你有听到动物的叫声吗？…唔，难道是我听错了…
+
+### 下雨的时候…
+
+小心，咔库库可能会甩你一身水…不过转念一想，反正都在淋雨了，躲不躲也没什么差别。
+
+### 打雷的时候…
+
+你知道吗，有不少龙害怕打雷呢。每次都要解释好久才能安抚它们，怪好玩的。
+
+### 下雪的时候…
+
+呜哇，冷风吹得睁不开眼…还是先别飞了。
+
+### 刮大风了…
+
+在帽子被吹走和脖子被勒住之间只能二选其一呢。
+
+### 早上好…
+
+早上好。不是我想起这么早的，只是再不起床，留在诊所里的病患们会饿得大叫。
+
+### 中午好…
+
+巧啊，我正准备去吃午饭，要一起吗？
+
+### 晚上好…
+
+晚上我一般习惯待在家里，如果有紧急病患，会比较容易找到我。没有意外发生的话，那就好好休息。
+
+### 晚安…
+
+晚安。明天肯定有想不到的新事情要忙，早些休息吧。
+
+### 关于伊法自己·朋友
+
+我朋友还算挺多的吧，有一些会让我头疼，有一些能缓解我的头疼，还有一些在这两者之间摇摆。挺好的，他们都是很不错的朋友。
+
+### 关于伊法自己·满足
+
+不知道其他人是否如此，反正我在被需要时是会产生满足感的。人的一生可能就是这样被一点点填满的吧，要是大家都能找到让自己感到充实的事物就好了。
+
+### 关于我们·提醒
+
+伊法：接下来的行程都安排好了？身体状态如何？东西带齐了没？
+伊法：嗯，你看起来精神不错，派蒙也吃饱了，好像确实准备妥当…不过稍等，还是让我再确认一下…
+咔库库：不会吧哥们！
+
+### 关于我们·确认
+
+你和我认识这么久，会觉得我有时太啰嗦，或者关怀过度了吗？不会吗？这样正好？呼…那就好。可能因为我总是跟不会说话的动物打交道，所以无论什么都得多次确认才放心。你不会觉得烦就行。
+
+### 关于「神之眼」…
+
+这玩意儿还挺好用的呢。有时候龙飞累了，我会让风托住它们一会儿。悄悄地，不要被发现。
+
+### 有什么想要分享…
+
+用食物「哄骗」小动物这招确实很好用，但用多了之后它们就会得寸进尺，甚至养成坐享其成的坏习惯。所以能讲道理时，我还是愿意尽量让它们明白事物的原理，比如掉进陷阱就会摔伤、乱吃东西容易中毒。
+虽然需要额外费些功夫，但我觉得是值得去做的事情。更何况，有时动物其实比人更聪明呢。
+
+### 感兴趣的见闻…
+
+只要愿意用心观察，就会发现世界上有趣的东西多着呢。要是时间允许，我可以盯着大自然看一整天。可惜啊，工作总是会自己找上门来。
+
+### 关于卡齐娜…
+
+能看出卡齐娜非常喜欢龙。她如果潜心学习，应该可以成为一名不错的龙医生。不过她已经是位了不起的战士了，就不必分心来做我的学生了。
+
+### 关于希诺宁…
+
+我可喜欢和希诺宁聊天了，她总有很多了不起的好点子。虽然有时她会因为更重视功能造出看起来很震撼的工具，但我觉得，「看起来震撼」也是功能的一种。
+
+### 关于基尼奇…
+
+严肃讨论，阿乔算是生物吗？
+反正之前它来看病，我研究了好一阵也没看出哪有问题，就跟基尼奇说：「照着它脑门多拍拍，拍到正常运转就行了。」
+阿乔听完这话马上就没事了，你说巧不巧。
+
+### 关于恰斯卡…
+
+调停人的工作很重要，她能治我治不好的「病」。
+
+### 关于欧洛伦·别想太多
+
+他这人想法很怪的。和他交往不用思考太多，反正也想不明白。
+总之他心思不坏，会用特别的方式关心身边的朋友，认识久了你就知道了。
+
+### 关于欧洛伦·很想知道
+
+…虽然已经习惯了，但有时还是很想钻进他的脑袋里，看看他每天到底都在想些什么！
+
+### 关于茜特菈莉…
+
+奶奶…奶奶很厉害的，睡衣的花样也多，哈哈…
+为了不卷入额外的麻烦，一般黑曜石奶奶叫我跟欧洛伦转达什么，我就转达什么，一字不多一字不少。有些事情，知道的越少越好，不然要和她孙子一起吃脑瓜崩。
+
+### 关于玛薇卡…
+
+有次遭遇紧急出诊，火神大人提出可以载我一程。真的很疯狂，哥们，要在头晕目眩的状态下给龙清理伤口…在那之前我都不知道自己可以做到这种程度，人的潜能就是这样被开发的。
+
+### 关于那维莱特…
+
+你是说万一这位先生生病了，希望我能多关照下？欸，这归我管吗？
+嗯…但既然是咔库库的新哥们…那好吧，我试试看咯。
+
+### 想要了解伊法·其一
+
+伊法：诊所门口的板子不是我自己画的。真的，你相信我。
+咔库库：哈哈！
+
+### 想要了解伊法·其二
+
+其实我也不确定咔库库究竟是什么时候学会说第一句人话的。只记得某天凌晨听到它大叫「太阳晒屁股了，哥们！」…早上五点就这样醒来，真的很令人震惊。
+
+### 想要了解伊法·其三
+
+飞行试炼我早就通过了，理论上可以叫任何一只绒翼龙来帮我，不过自从咔库库来了，它就不太愿意让我再去找别的龙。也行吧，虽然咔库库还小，但既然它觉得自己能行，那我就愿意信任它。
+
+### 想要了解伊法·其四
+
+如果可以，我希望自己是能给大家带来安全感的人。能被人信赖很难得，可不是谁都能做到的。
+
+### 想要了解伊法·其五
+
+做兽医挺好的。虽然总有别离，但我从不后悔自己的职业选择。小动物就跟小孩子一样，有时难以沟通又很爱惹麻烦，但对我来说，他们都是值得守护的未来。
+
+### 伊法的爱好…
+
+花羽会里喜欢唱歌的人还挺多的，我偶尔也写写歌词弹弹琴，是个调节心情的好办法。
+
+### 伊法的烦恼…
+
+伊法：好像没有什么严重到非解决不可的烦恼…哦，希望咔库库以后能学点更有用的话。
+咔库库：你在胡说什么？
+
+### 喜欢的食物…
+
+新鲜水果是最好的，既能充饥又能解渴，切下来的小块正好喂给咔库库。
+
+### 讨厌的食物…
+
+新鲜水果是很好的，但放在菜里就有点…就不能直接吃吗？
+
+### 收到赠礼·其一
+
+咔库库：交给我吧，哥们！
+伊法：你这小东西倒是抢上了。好吧好吧，分你一半。
+
+### 收到赠礼·其二
+
+很好吃，我去拿点果汁，你想喝哪种？
+
+### 收到赠礼·其三
+
+咔库库：真的假的？哥们，瞧瞧你做的…
+伊法：不不，能吃就很好了。谢谢你，哥们。
+
+### 生日…
+
+生日快乐！祝你身体健康，永远年轻。
+虽然时间的洪流不可阻挡，但可以保持心态上的年轻嘛，更何况心情不好也是会影响健康的。来，今天就忘记烦恼，找些轻松愉快的事情做吧。
+对了，有什么喜欢的音乐吗？我弹给你听。
+
+### 突破的感受·起
+
+是热身运动吗？
+
+### 突破的感受·承
+
+自己身体健康才有精力照顾别人，对吧？
+
+### 突破的感受·转
+
+越是不常用的枪械越要重视保养。哎呀，瞧我在说什么呢，哥们。我是医生，非必要情况是不会动枪的。
+
+### 突破的感受·合
+
+伊法：谢啦，哥们！不必客套，有事随时叫我！
+咔库库：随时叫我，哥们！
+
+### 元素战技·其一
+
+走吧！
+
+### 元素战技·其二
+
+注意风向！
+
+### 元素战技·其三
+
+咔库库：飞啦！
+
+### 元素战技·其四
+
+咔库库：哎呀！哎呀！
+伊法：加油！
+
+### 元素爆发·其一
+
+小心为妙！
+
+### 元素爆发·其二
+
+好聚好散！
+
+### 元素爆发·其三
+
+想跑？没门！
+
+### 打开宝箱·其一
+
+厉害，亏你能找到这个。
+
+### 打开宝箱·其二
+
+今天是幸运日啊。
+
+### 打开宝箱·其三
+
+拿不下的话我叫咔库库帮你。
+
+### 生命值低·其一
+
+呼吸不畅…
+
+### 生命值低·其二
+
+我再坚持下…
+
+### 生命值低·其三
+
+咔库库：伊法，伊法！
+伊法：知道了知道了…
+
+### 同伴生命值低·其一
+
+来了。
+
+### 同伴生命值低·其二
+
+快做紧急处理。
+
+### 倒下·其一
+
+战争还没结束吗…
+
+### 倒下·其二
+
+抱歉，没帮上忙…
+
+### 倒下·其三
+
+医者的遗憾…
+
+### 普通受击·其一
+
+别吧…
+
+### 重受击·其一
+
+不会吧哥们！
+
+### 重受击·其二
+
+嘶…就不能对我温柔点？
+
+### 加入队伍·其一
+
+要出远门？
+
+### 加入队伍·其二
+
+急救用品都准备好了。
+
+### 加入队伍·其三
+
+预祝我们一路顺风。

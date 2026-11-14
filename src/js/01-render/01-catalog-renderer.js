@@ -392,14 +392,13 @@ function worldQuestSeriesKey(item) {
 }
 
 function worldQuestSeriesOrder(a, b) {
-  const aLinks = Array.isArray(a.quest_chain) ? a.quest_chain : [];
-  const bLinks = Array.isArray(b.quest_chain) ? b.quest_chain : [];
-  const aOrder = aLinks.indexOf(a.id);
-  const bOrder = aLinks.indexOf(b.id);
-  if (aOrder >= 0 && bOrder >= 0) return aOrder - bOrder;
-  const bOrderFromB = bLinks.indexOf(b.id);
-  const aOrderFromB = bLinks.indexOf(a.id);
-  if (aOrderFromB >= 0 && bOrderFromB >= 0) return aOrderFromB - bOrderFromB;
+  const aOrder = Number(a.quest_series_order || 0);
+  const bOrder = Number(b.quest_series_order || 0);
+  if (aOrder > 0 && bOrder > 0 && aOrder !== bOrder) return aOrder - bOrder;
+  const sharedChain = [a.quest_chain, b.quest_chain].find(chain =>
+    Array.isArray(chain) && chain.includes(a.id) && chain.includes(b.id)
+  );
+  if (sharedChain) return sharedChain.indexOf(a.id) - sharedChain.indexOf(b.id);
   return entrySortVersion(a) - entrySortVersion(b) || compareByTitle(a, b);
 }
 

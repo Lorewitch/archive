@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 71050
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_71050
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 71050
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,14 +28,13 @@
 
 Необычные природные и геологические условия Разлома породили странные образования и растения, среди которых особенно выделяются светящиеся грибы. Помогите Хедиву, учёному из Сумеру, исследовать их.
 
-
-Расскажи мне о грибах...
+- **Путешественник:** Расскажи мне о грибах...
 
 **Хедив:** Сразу видно опытного искателя приключений: уже есть первые находки.
 
-**Хедив:** Ты точно (нашла)(нашёл) этот гриб здесь? Странно...
+**Хедив:** Ты точно нашёл этот гриб здесь? Странно... / Ты точно нашла этот гриб здесь? Странно...
 
-Грибы не могут расти под землёй?
+- **Путешественник:** Грибы не могут расти под землёй?
 
 **Хедив:** Дело не в этом.
 
@@ -41,25 +42,27 @@
 
 **Хедив:** Но одного вида грибов недостаточно... Выводы можно будет делать только при наличии достаточно большой выборки.
 
-**Хедив:** Это хороший образец... Раз ты (принесла)(принёс) этот, ты (должна)(должен) знать, где взять ещё. Почему бы тебе не принести несколько для меня?
+**Хедив:** Это хороший образец... Раз ты принёс этот, ты должен знать, где взять ещё. Почему бы тебе не принести несколько для меня? / Это хороший образец... Раз ты принесла этот, ты должна знать, где взять ещё. Почему бы тебе не принести несколько для меня?
 
 **Хедив:** Если ты принесёшь мне нужное количество грибов, то получишь достаточно большое вознаграждение.
 
-Сколько грибов тебе нужно?
+- **Путешественник:** Сколько грибов тебе нужно?
 
 **Хедив:** Дай подумать... Для начала восьми будет достаточно.
 
 **Хедив:** Принеси их мне, и награда не заставит себя ждать!
 
+#### Соберите 8 светящихся грибов
+
 #### Отдайте собранные светящиеся грибы Хедиву для анализа
 
-Вот твои грибы.
+- **Путешественник:** Вот твои грибы.
 
 **Хедив:** Премного благодарен!
 
 **Хедив:** С твоей помощью моё исследование продвигается... «гладко, словно парящий на крыльях тигр», как говорят в Ли Юэ.
 
-Как тигр с крыльями?
+- **Путешественник:** Как тигр с крыльями?
 
 **Хедив:** Можно и так сказать.
 
@@ -69,23 +72,35 @@
 
 **Хедив:** Если флуоресцентные элементы могут эволюционировать, то почему в самих грибах нет никаких изменений?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ничего не понятно...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Что-то не так?
+
+##### Общее продолжение
 
 **Хедив:** Проще говоря, грибы эволюционируют, приспосабливаясь к окружающей среде, но этот вид гриба явно более приспособлен к произрастанию в лесной среде.
 
 **Хедив:** Поэтому нет сомнений, что он первоначально рос в Сумеру.
 
-А люминесценция?
+- **Путешественник:** А люминесценция?
 
 **Хедив:** Тот факт, что этот гриб не является здешним видом, позволяет предположить, что люминесценция - не продукт эволюции, а скорее результат аномальных экологических воздействий...
 
 **Хедив:** Возможно, гриб поглотил энергию осколков, упавших с неба...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Осколков?
 
+##### Вариант ответа 2
+
 - **Путешественник:** Каких осколков?
+
+##### Общее продолжение
 
 **Хедив:** Кхе-кхе... Я сказал осколков? Я имел в виду, что когда кусочки грибов падают сверху...
 
@@ -93,7 +108,7 @@
 
 **Хедив:** Так и есть!
 
-**Хедив:** Большое спасибо за собранные грибы! Ты мне очень помог(ла). Ты хорошо (потрудилась)(потрудился), тебе надо отдохнуть!
+**Хедив:** Большое спасибо за собранные грибы! Ты мне очень помог. Ты хорошо потрудился, тебе надо отдохнуть! / Большое спасибо за собранные грибы! Ты мне очень помогла. Ты хорошо потрудилась, тебе надо отдохнуть!
 
 **Хедив:** Мне нужно провести ещё несколько исследований. Не хочу, чтобы меня отвлекали.
 
@@ -103,14 +118,13 @@
 
 The Chasm has a complex ecological and geological system. One of the most curious things here is the glowing mushrooms. Help the Sumeru scholar Khedive to investigate the mushrooms that grow in The Chasm...
 
-
-So, about these mushrooms...
+- **Traveler:** So, about these mushrooms...
 
 **Khedive:** No wonder they say you're an experienced adventurer — You came back with new findings so soon.
 
 **Khedive:** Huh? Are you sure you found them here? How strange...
 
-Is it strange for mushrooms to grow underground?
+- **Traveler:** Is it strange for mushrooms to grow underground?
 
 **Khedive:** That's not what I mean.
 
@@ -122,21 +136,23 @@ Is it strange for mushrooms to grow underground?
 
 **Khedive:** Bring me enough mushrooms and I'll pay you handsomely.
 
-So, how many is enough?
+- **Traveler:** So, how many is enough?
 
 **Khedive:** Mmm... Lemme think. Please bring me eight for starters.
 
 **Khedive:** Don't worry. So long as you bring them to me, I'll make sure to repay you in full!
 
+#### Collect 8 shining mushrooms
+
 #### Bring the shining mushrooms back to Khedive for appraisal
 
-Here're the mushrooms you asked for.
+- **Traveler:** Here're the mushrooms you asked for.
 
 **Khedive:** You have my thanks.
 
 **Khedive:** With your help, my research is — what do they call it in Liyue? — "as smooth as a cat soaring in the air."
 
-Like a winged tiger?
+- **Traveler:** Like a winged tiger?
 
 **Khedive:** Yes, like a winged tiger!
 
@@ -146,23 +162,35 @@ Like a winged tiger?
 
 **Khedive:** But why does their look remain the same after the evolution?
 
+##### Response branch 1
+
 - **Traveler:** You've lost me...
 
+##### Response branch 2
+
 - **Traveler:** Is anything not adding up?
+
+##### Shared continuation
 
 **Khedive:** Hmm... Simply put, fungi evolve to adapt to their surrounding environment, but by the looks of it, this type of fungi is more suited to living in forest environments.
 
 **Khedive:** That's why I'm so certain of their Sumeru origin.
 
-So, why do they glow?
+- **Traveler:** So, why do they glow?
 
 **Khedive:** Since they aren't an indigenous species of The Chasm, they didn't evolve to glow. Rather, the glowing is a result of some abnormal ecological phenomenon...
 
 **Khedive:** It's probably because of the fragment that fell from the sky. After absorbing its energy...
 
+##### Response branch 1
+
 - **Traveler:** The fragment?
 
+##### Response branch 2
+
 - **Traveler:** What is it?
+
+##### Shared continuation
 
 **Khedive:** Ahem... Huh? What did you say? Something about a "fragment"? Um, I mean, when the fragments of fungi fell from the sky, they must've...
 
@@ -180,14 +208,13 @@ So, why do they glow?
 
 层岩巨渊有许多奇异的生态环境和地质环境，其中尤为特殊的就是生长在层岩的荧光蘑菇，帮助须弥学者海迪夫调查一下此处的蘑菇吧…
 
-
-关于这种蘑菇…
+- **旅行者:** 关于这种蘑菇…
 
 **海迪夫:** 该说真不愧是经验丰富的冒险家吗，这么快就有所发现了。
 
 **海迪夫:** 嗯？这确定是在这里采摘的菌类吗，这可有点奇怪啊…
 
-地下不能长蘑菇吗？
+- **旅行者:** 地下不能长蘑菇吗？
 
 **海迪夫:** 也不是不能长的问题。
 
@@ -199,21 +226,23 @@ So, why do they glow?
 
 **海迪夫:** 你帮我采足够多的蘑菇，我给你足够多的钱作为报酬。
 
-足够多是多少蘑菇？
+- **旅行者:** 足够多是多少蘑菇？
 
 **海迪夫:** 嗯…我想想，那就先采8个吧。
 
 **海迪夫:** 没关系，只要你带过来，钱不会少你的！
 
+#### 收集8只发光的蘑菇
+
 #### 将采摘到的发光蘑菇交给海迪夫进行鉴定
 
-蘑菇采回来了。
+- **旅行者:** 蘑菇采回来了。
 
 **海迪夫:** 嗯嗯，多谢多谢。
 
 **海迪夫:** 有了你的帮助，我的调查就像是…有句璃月话是怎么说的来着，「就像猛虎插上了翅膀一样顺利」。
 
-如虎添翼？
+- **旅行者:** 如虎添翼？
 
 **海迪夫:** 对，简直就是如虎添翼。
 
@@ -223,23 +252,35 @@ So, why do they glow?
 
 **海迪夫:** 但是既然已经进化出荧光素，为什么菌类的本体什么变化都没有？
 
+##### 对话分支 1
+
 - **旅行者:** 完全听不懂…
 
+##### 对话分支 2
+
 - **旅行者:** 有什么问题吗？
+
+##### 共同后续
 
 **海迪夫:** 嗯…简单来说，菌类会适应环境进化，但是这种真菌的本体，显然是更适合生长在森林环境的品种。
 
 **海迪夫:** 所以，这种真菌本来是生长在须弥的，这点毋庸置疑。
 
-那发光是…
+- **旅行者:** 那发光是…
 
 **海迪夫:** 真菌不是层岩巨渊的原生种，就说明发光不是进化产物，而是非正常生态影响导致的…
 
 **海迪夫:** 大概因为那个天上掉下来的碎块吧，吸收了它的能量…
 
+##### 对话分支 1
+
 - **旅行者:** 碎块？
 
+##### 对话分支 2
+
 - **旅行者:** 什么碎块？
+
+##### 共同后续
 
 **海迪夫:** 咳咳…嗯？你刚才说什么，碎块？啊，我是说，肯定是因为真菌的碎块从天上飘下来的时候产生了…
 

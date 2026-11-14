@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 10007
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_2080
 # quest_series: Witch's Homework
 # version_source: verified_override
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 10007
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 60
 
 ## RU
 
@@ -36,21 +39,33 @@
 
 **Венти:** ...Будем считать, что вы согласны.
 
-Венти?
+- **Путешественник:** Венти?
 
-**Венти:** Ах! Путешественник, наконец-то ты (пришла)(пришёл). У тебя для меня сообщение?
+**Венти:** Ах! Путешественник, наконец-то ты пришёл. У тебя для меня сообщение? / Ах! Путешественник, наконец-то ты пришла. У тебя для меня сообщение?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Сообщение?
 
+##### Вариант ответа 2
+
 - **Путешественник:** На самом деле...
 
-**Венти:** «На самом деле я не видел(а) никаких предсказаний о тебе в том словаре».
+##### Общее продолжение
 
-**Венти:** Ты это хотел(а) сказать?
+**Венти:** «На самом деле я не видел никаких предсказаний о тебе в том словаре». / «На самом деле я не видела никаких предсказаний о тебе в том словаре».
+
+**Венти:** Ты это хотел сказать? / Ты это хотела сказать?
+
+##### Вариант ответа 1
 
 - **Путешественник:** Да.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Но ведьмы всё равно велели мне найти тебя...
+
+##### Общее продолжение
 
 **Венти:** Ой? Подожди минутку.
 
@@ -62,7 +77,7 @@
 
 **Венти:** Если вам действительно интересна эта легенда, позвольте мне переложить её в стихи. Я обязательно поделюсь ими с вами, дамы, на нашем следующем чаепитии.
 
-Барбелот? Она...
+- **Путешественник:** Барбелот? Она...
 
 **Венти:** Ха-ха-ха, госпожа Барбелот всегда была разумной. Думаю, она услышала мою просьбу.
 
@@ -78,25 +93,43 @@
 
 **Паймон:** Опять эти твои секретики. В словаре ведьмы мы не нашли ничего, что было бы связано с тобой.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Она просто попросила меня...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...прийти сюда и подождать.
+
+##### Общее продолжение
 
 **Венти:** Этого достаточно. Должен сказать, что «предсказание» госпожи Барбелот относительно меня, хоть и не было полным, но и «ошибочным» его назвать нельзя.
 
 **Венти:** Мне нужно кое-что сделать, и мне очень пригодилась бы твоя помощь.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Говори, что нужно.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Я всё сделаю!
+
+##### Общее продолжение
 
 **Венти:** Хе-хе, на тебя можно положиться. В таком случае...
 
 **Венти:** Путешественник, не могли бы мы позже исполнить вместе одну мелодию?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Э? Да, конечно...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Это единственное, что от меня требуется?
+
+##### Общее продолжение
 
 **Венти:** Да, это всё.
 
@@ -104,39 +137,21 @@
 
 **Венти:** В последний раз, когда я исполнял эту мелодию, моим единственным слушателем был воющий ветер, который унёс звуки с собой, оставив лишь отголоски концовки.
 
-**Венти:** Но теперь, когда рядом со мной ты, (дорогая подруга)(дорогой друг), зачем ветру быть слушателем?
+**Венти:** Но теперь, когда рядом со мной ты, дорогой друг, зачем ветру быть слушателем? / Но теперь, когда рядом со мной ты, дорогая подруга, зачем ветру быть слушателем?
 
 **Венти:** К тому же, когда рядом ты, моё исполнение становится более уверенным.
 
-Я буду стараться.
+- **Путешественник:** Я буду стараться.
 
 **Венти:** Хорошо, тогда пойдём на сцену. Следуя за ветром, мы быстро доберёмся туда.
 
 #### Следуйте за ветром вместе с Венти
 
-Этот остров...
-
-...Что в нём особенного?
-
-**Венти:** Сам по себе остров ничем не примечателен. Как и большинство других островов, он представлял собой лишь скопление обычного песка и камней.
-
-**Венти:** Пока ветер не принёс семена истории, и время не позволило им прорасти на этом острове.
-
-**Венти:** А затем ветер принёс новые истории, и время превратило их в легенды за пределами острова.
-
-**Венти:** Путешественник, добро пожаловать на этот маленький остров, поистине благословлённый временем.
-
-**Венти:** В далёком прошлом здесь встретились время и ветер.
-
-**Паймон:** Эй, эй, эй... Ты вдруг стал таким серьёзным, бродяжка. Паймон не уверена, что понимает, о чём идёт речь...
-
-**Венти:** Хе-хе, не торопись, дорогая Паймон. Лучшие истории всегда начинаются с небольшой интриги и напряжения.
-
 #### Следуйте за ветром вместе с Венти
 
-**Паймон:** А? Этот остров кажется знакомым...
-
 #### Выступите дуэтом с Венти
+
+**Паймон:** А? Этот остров кажется знакомым...
 
 **Паймон:** Паймон думала, что нам придётся лететь куда-то далеко, а он рядом с Мондштадтом...
 
@@ -144,9 +159,15 @@
 
 **Венти:** После того как я разрешил несколько кризисных ситуаций в Мондштадте, я сделал ветер более мягким, чтобы он был достаточно сильным и мог вдохновлять жителей Мондштадта на храбрость, но не настолько, чтобы сбивать их с ног.
 
+##### Вариант ответа 1
+
 - **Путешественник:** А в этот раз...
 
+##### Вариант ответа 2
+
 - **Путешественник:** ...что ты хочешь сделать?
+
+##### Общее продолжение
 
 **Венти:** ...
 
@@ -186,17 +207,17 @@
 
 **Венти:** Если просишь о помощи, нужно приготовить подарок в знак благодарности, поэтому я и позвал тебя. Путешественник, давай сыграем дуэтом и посвятим мелодию времени.
 
-**Венти:** Путешественник, скажи, когда будешь готов(а). Если у тебя нет инструмента, я могу одолжить.
+**Венти:** Путешественник, скажи, когда будешь готов. Если у тебя нет инструмента, я могу одолжить. / Путешественник, скажи, когда будешь готова. Если у тебя нет инструмента, я могу одолжить.
 
 #### Выступите дуэтом с Венти
 
-**Венти:** Однажды я пробудил первый ветер свободы в Мондштадте. С помощью этого ветра все, кто заслуживал свободы, обрели её вновь.
-
 #### Выступите дуэтом с Венти
 
-Я готов(а).
+- **Путешественник:** Я готов. / Я готова.
 
 **Венти:** Тогда начнём наш концерт.
+
+**Венти:** Путешественник, скажи, когда будешь готов. Если у тебя нет инструмента, я могу одолжить. / Путешественник, скажи, когда будешь готова. Если у тебя нет инструмента, я могу одолжить.
 
 #### Поговорите с Венти
 
@@ -204,17 +225,19 @@
 
 **Венти:** Это не по правилам, давайте вместе выпроводим их.
 
+#### Победите появившихся монстров
+
+#### Победите появившихся монстров
+
+#### Победите появившихся монстров
+
 #### Поговорите с Венти
-
-**Венти:** Я об этом уже рассказывал, помнишь? О том, как я встретил «время» в храме Тысячи ветров и заручился помощью.
-
-**Венти:** Именно благодаря помощи времени тот первый ветер свободы смог стать таким сильным.
 
 #### Поговорите с Венти
 
 **Венти:** На этом всё. Это было прекрасное выступление. Спасибо тебе, Путешественник.
 
-Сила, которую ты только что использовал...
+- **Путешественник:** Сила, которую ты только что использовал...
 
 **Венти:** Не беспокойся. Эта сила моя и только моя. Не было никакой посторонней помощи.
 
@@ -228,6 +251,42 @@
 
 **Венти:** Ха-ха-ха, сегодня наверняка будет сильный ветер. Давайте поскорее вернёмся в Мондштадт и предупредим всех, чтобы они придерживали шляпы покрепче.
 
+- **Путешественник:** Этот остров...
+
+- **Путешественник:** ...Что в нём особенного?
+
+**Венти:** Сам по себе остров ничем не примечателен. Как и большинство других островов, он представлял собой лишь скопление обычного песка и камней.
+
+**Венти:** Пока ветер не принёс семена истории, и время не позволило им прорасти на этом острове.
+
+**Венти:** А затем ветер принёс новые истории, и время превратило их в легенды за пределами острова.
+
+**Венти:** Путешественник, добро пожаловать на этот маленький остров, поистине благословлённый временем.
+
+**Венти:** В далёком прошлом здесь встретились время и ветер.
+
+**Паймон:** Эй, эй, эй... Ты вдруг стал таким серьёзным, бродяжка. Паймон не уверена, что понимает, о чём идёт речь...
+
+**Венти:** Хе-хе, не торопись, дорогая Паймон. Лучшие истории всегда начинаются с небольшой интриги и напряжения.
+
+**Венти:** Однажды я пробудил первый ветер свободы в Мондштадте. С помощью этого ветра все, кто заслуживал свободы, обрели её вновь.
+
+**Венти:** Я об этом уже рассказывал, помнишь? О том, как я встретил «время» в храме Тысячи ветров и заручился помощью.
+
+**Венти:** Именно благодаря помощи времени тот первый ветер свободы смог стать таким сильным.
+
+- **Путешественник:** У меня есть дела...
+
+**Венти:** Ничего страшного, дай знать, когда будешь готов. / Ничего страшного, дай знать, когда будешь готова.
+
+- **Путешественник:** Я готов. / Я готова.
+
+**Венти:** Тогда начнём наш концерт.
+
+- **Путешественник:** У меня есть дела...
+
+**Венти:** Ничего страшного, дай знать, когда будешь готов. / Ничего страшного, дай знать, когда будешь готова.
+
 ## EN
 
 ### Tales of Time and Wind
@@ -238,21 +297,33 @@ The witch's dictionary doesn't mention any specific task related to Venti, but y
 
 **Venti:** ...I'll take that as a yes, then.
 
-Venti?
+- **Traveler:** Venti?
 
 **Venti:** Ah, finally! You're here, Traveler! Do you have a message for me from someone, by any chance?
 
+##### Response branch 1
+
 - **Traveler:** A message?
 
+##### Response branch 2
+
 - **Traveler:** Actually, um...
+
+##### Shared continuation
 
 **Venti:** There's not a single prophecy about you in that dictionary.
 
 **Venti:** That's what you were about to say, right?
 
+##### Response branch 1
+
 - **Traveler:** Yeah.
 
+##### Response branch 2
+
 - **Traveler:** The mages wanted me to come see you anyway, though.
+
+##### Shared continuation
 
 **Venti:** Oh? Just a moment, Traveler.
 
@@ -264,7 +335,7 @@ Venti?
 
 **Venti:** If you're truly interested in this legend, allow me to fashion it into a poem. I'll be sure to share it with you ladies at our next tea party.
 
-Barbeloth? She...
+- **Traveler:** Barbeloth? She...
 
 **Venti:** Hahaha, Barbeloth has always been a reasonable person, and I believe she heard my request.
 
@@ -280,25 +351,43 @@ Barbeloth? She...
 
 **Paimon:** There you go, being all secretive again. Well, anyway, there wasn't a single thing about you in that dictionary.
 
+##### Response branch 1
+
 - **Traveler:** Yeah, she just...
 
+##### Response branch 2
+
 - **Traveler:** Told me to come here and wait.
+
+##### Shared continuation
 
 **Venti:** You being here is enough. Barbeloth's "prophecy" concerning me may be "incomplete," but it's not "incorrect."
 
 **Venti:** There's something I need to do, and I could indeed use your help.
 
+##### Response branch 1
+
 - **Traveler:** What is it?
 
+##### Response branch 2
+
 - **Traveler:** You can count on me.
+
+##### Shared continuation
 
 **Venti:** Hehe, trusty as always. In that case...
 
 **Venti:** Could you play a song with me later, Traveler?
 
+##### Response branch 1
+
 - **Traveler:** Huh? I mean, sure...
 
+##### Response branch 2
+
 - **Traveler:** But is that all you need me to do?
+
+##### Shared continuation
 
 **Venti:** Yep. That's all.
 
@@ -310,35 +399,17 @@ Barbeloth? She...
 
 **Venti:** Besides, I think my hands will be just that much steadier, playing alongside a trusty friend like you.
 
-I'll play the best I can.
+- **Traveler:** I'll play the best I can.
 
 **Venti:** That's all I ask. Now, let's head to the performance venue. If we follow the breeze, we'll be there in no time.
 
 #### Follow the wind with Venti
 
-This island...
-
-Is it special?
-
-**Venti:** Not always. It was once an isle like any other — an ordinary, unassuming aggregation of sand and gravel.
-
-**Venti:** That is, until seeds of stories were brought here by the wind, and cultivated by time.
-
-**Venti:** And in due course, the wind brought forth new tales, and time caused them to grow into legends.
-
-**Venti:** So, with that... Allow me to welcome you in "truth" to this island favored by Time, Traveler.
-
-**Venti:** This is the place where Time and Wind met in the distant past.
-
-**Paimon:** Whoa, whoa, whoa... You suddenly sound so serious, Tone-Deaf Bard. Paimon's not sure she's following this conversation anymore, either...
-
-**Venti:** Hehe, fret not, dear Paimon! The best stories always start with a bit of suspense and intrigue.
-
 #### Follow the wind with Venti
 
-**Paimon:** Huh, this island looks kinda familiar...
-
 #### Perform together with Venti
+
+**Paimon:** Huh, this island looks kinda familiar...
 
 **Paimon:** Paimon thought we'd have to fly super far, but it looks like we're just outside the city...
 
@@ -346,9 +417,15 @@ Is it special?
 
 **Venti:** So, after a few crises in Mondstadt were resolved, I made the winds gentler — just strong enough to bolster the people in times of need without knocking them off their feet.
 
+##### Response branch 1
+
 - **Traveler:** So, we're here now...
 
+##### Response branch 2
+
 - **Traveler:** To do what exactly...?
+
+##### Shared continuation
 
 **Venti:** ...
 
@@ -392,13 +469,13 @@ Is it special?
 
 #### Perform together with Venti
 
-**Venti:** Once upon a time, I summoned the first winds of freedom on behalf of Mondstadt's people. With the aid of those winds, liberty was returned to all who were owed it.
-
 #### Perform together with Venti
 
-I'm ready.
+- **Traveler:** I'm ready.
 
 **Venti:** Great. Let's get started.
+
+**Venti:** Just let me know when you're ready, Traveler. Oh, and I can lend you an instrument if you need one.
 
 #### Talk to Venti
 
@@ -406,17 +483,19 @@ I'm ready.
 
 **Venti:** But that's against concert rules, so let's usher them out.
 
+#### Defeat the attacking monsters
+
+#### Defeat the attacking monsters
+
+#### Defeat the attacking monsters
+
 #### Talk to Venti
-
-**Venti:** I told you about this before, remember? About how I encountered "Time" at the Thousand Winds Temple and received some help.
-
-**Venti:** Well, it was because of Time's help that the those first winds of freedom were able to blow so strongly.
 
 #### Talk to Venti
 
 **Venti:** Alright, that should do it. This was an exquisite performance, Traveler. Thank you.
 
-That power you unleashed just now...
+- **Traveler:** That power you unleashed just now...
 
 **Venti:** Ah, don't worry. That power was mine and mine alone. No external help was involved.
 
@@ -430,6 +509,42 @@ That power you unleashed just now...
 
 **Venti:** Hahaha, I have a feeling the wind is gonna be pretty strong today. We should head back to Mondstadt and tell people to hold onto their hats.
 
+- **Traveler:** This island...
+
+- **Traveler:** Is it special?
+
+**Venti:** Not always. It was once an isle like any other — an ordinary, unassuming aggregation of sand and gravel.
+
+**Venti:** That is, until seeds of stories were brought here by the wind, and cultivated by time.
+
+**Venti:** And in due course, the wind brought forth new tales, and time caused them to grow into legends.
+
+**Venti:** So, with that... Allow me to welcome you in "truth" to this island favored by Time, Traveler.
+
+**Venti:** This is the place where Time and Wind met in the distant past.
+
+**Paimon:** Whoa, whoa, whoa... You suddenly sound so serious, Tone-Deaf Bard. Paimon's not sure she's following this conversation anymore, either...
+
+**Venti:** Hehe, fret not, dear Paimon! The best stories always start with a bit of suspense and intrigue.
+
+**Venti:** Once upon a time, I summoned the first winds of freedom on behalf of Mondstadt's people. With the aid of those winds, liberty was returned to all who were owed it.
+
+**Venti:** I told you about this before, remember? About how I encountered "Time" at the Thousand Winds Temple and received some help.
+
+**Venti:** Well, it was because of Time's help that the those first winds of freedom were able to blow so strongly.
+
+- **Traveler:** There's something I need to do first...
+
+**Venti:** No worries. Just come find me when you're ready.
+
+- **Traveler:** I'm ready.
+
+**Venti:** Great. Let's get started.
+
+- **Traveler:** There's something I need to do first...
+
+**Venti:** No worries. Just come find me when you're ready.
+
 ## ZH
 
 ### 时与风的故事
@@ -440,21 +555,33 @@ That power you unleashed just now...
 
 **温迪:** …那么我就当做您默认了。
 
-温迪？
+- **旅行者:** 温迪？
 
 **温迪:** 哎呀，旅行者，你终于来了，是有人捎给我口信么？
 
+##### 对话分支 1
+
 - **旅行者:** 口信？
 
+##### 对话分支 2
+
 - **旅行者:** 但我其实…
+
+##### 共同后续
 
 **温迪:** 「并没有从那本辞典里看见任何有关于你的预言。」
 
 **温迪:** 对么？
 
+##### 对话分支 1
+
 - **旅行者:** 是的。
 
+##### 对话分支 2
+
 - **旅行者:** 但魔女依然要我来找你…
+
+##### 共同后续
 
 **温迪:** 哎呀？旅行者，稍等一下。
 
@@ -466,7 +593,7 @@ That power you unleashed just now...
 
 **温迪:** 如果您真的对这一则神话感兴趣，那容我对这篇诗文做些润色，待到下次茶会时，再为各位女士吟诵。
 
-芭比洛斯？她…
+- **旅行者:** 芭比洛斯？她…
 
 **温迪:** 哈哈哈，芭比洛斯女士向来通情达理，看来她已经听到了我的请求。
 
@@ -482,25 +609,43 @@ That power you unleashed just now...
 
 **派蒙:** 又是这副神神秘秘的样子。先说好喔，我们在魔女的那本辞典里，根本没发现和你有关的事。
 
+##### 对话分支 1
+
 - **旅行者:** 她只是…
 
+##### 对话分支 2
+
 - **旅行者:** 让我来这里等待。
+
+##### 共同后续
 
 **温迪:** 这就足够了。不得不说，芭比洛斯女士对我的「预言」虽然并不完整，但也谈不上「错误」。
 
 **温迪:** 我所要做的那件事，确实需要旅行者的协助。
 
+##### 对话分支 1
+
 - **旅行者:** 有什么事尽管说。
 
+##### 对话分支 2
+
 - **旅行者:** 包在我身上。
+
+##### 共同后续
 
 **温迪:** 喔，真是可靠，那么…
 
 **温迪:** 旅行者，稍后可以和我一起弹奏一首曲子么？
 
+##### 对话分支 1
+
 - **旅行者:** 欸？可以是可以…
 
+##### 对话分支 2
+
 - **旅行者:** 但你只需要我做这件事么？
+
+##### 共同后续
 
 **温迪:** 是的，仅此而已。
 
@@ -512,35 +657,17 @@ That power you unleashed just now...
 
 **温迪:** 再说了，有你这位朋友在身边，我弹奏乐器的手，或许会更平稳一些。
 
-我会认真弹的。
+- **旅行者:** 我会认真弹的。
 
 **温迪:** 好，那么我们先去演奏场吧。我们跟着风走，马上就能到。
 
 #### 与温迪一同循风前进
 
-这座岛…
-
-有什么特别的吗？
-
-**温迪:** 这座岛屿本身并无特殊之处，它和大部分岛屿一样，都只是普通砂石的聚合。
-
-**温迪:** 直到，风带来了故事的种子，时间使它在这座岛上生根发芽。
-
-**温迪:** 尔后，风带来了新的故事，时间使它在这座岛外成为神话。
-
-**温迪:** 旅行者，欢迎你「真正」登上这座被「时间」所青睐的小岛。
-
-**温迪:** 在久远的过去，时与风曾在此交汇。
-
-**派蒙:** 等一下等一下，卖唱的…你突然好严肃，说的话也好难懂喔…
-
-**温迪:** 哎呀，别急嘛小派蒙，一篇好故事的开头总是要起点高调，留点悬念。
-
 #### 与温迪一同循风前进
 
-**派蒙:** 欸？这座岛怎么看着有点眼熟…
-
 #### 与温迪合奏
+
+**派蒙:** 欸？这座岛怎么看着有点眼熟…
 
 **派蒙:** 我还以为要飞很远，原来就在蒙德城旁边啊…
 
@@ -548,9 +675,15 @@ That power you unleashed just now...
 
 **温迪:** 在为蒙德城处理了几场危机后，我就把风变得温和了一些，让它既足以为蒙德人鼓起勇气，又不至于让他们在风中踉跄。
 
+##### 对话分支 1
+
 - **旅行者:** 那你这次来…
 
+##### 对话分支 2
+
 - **旅行者:** 是想要重新让风…
+
+##### 共同后续
 
 **温迪:** ……
 
@@ -594,13 +727,13 @@ That power you unleashed just now...
 
 #### 与温迪合奏
 
-**温迪:** 在之前，我曾为蒙德鼓起了最初的自由之风。在那股风的协力下，所有应得自由之人，都重获自由。
-
 #### 与温迪合奏
 
-准备好了。
+- **旅行者:** 准备好了。
 
 **温迪:** 嗯。那我们就开始合奏吧。
+
+**温迪:** 旅行者，准备好合奏了就告诉我，没有乐器的话，我也可以借你一把。
 
 #### 与温迪对话
 
@@ -608,17 +741,19 @@ That power you unleashed just now...
 
 **温迪:** 这可不太符合规矩，我们一起将它们请出去吧。
 
+#### 击败出现的魔物
+
+#### 击败出现的魔物
+
+#### 击败出现的魔物
+
 #### 与温迪对话
-
-**温迪:** 之前我不是说过，我曾在「千风神殿」偶遇了「时间」，并且得到了助力么？
-
-**温迪:** 正是因为有了「时间」的协力，最初的那股自由之风，才能鼓动得如此强劲。
 
 #### 与温迪对话
 
 **温迪:** 好了，到此为止。真是一场优美的合奏，多谢啦，旅行者。
 
-你刚才使出的力量…
+- **旅行者:** 你刚才使出的力量…
 
 **温迪:** 不用担心，刚才你所看见的力量，纯粹出自我自身，并非来自外人，也没有借助任何外物。
 
@@ -631,3 +766,39 @@ That power you unleashed just now...
 **派蒙:** 卖！唱！的！
 
 **温迪:** 哈哈哈哈哈，今天的风也许会很大，我们还是赶紧回蒙德城，提醒大家收收衣服吧。
+
+- **旅行者:** 这座岛…
+
+- **旅行者:** 有什么特别的吗？
+
+**温迪:** 这座岛屿本身并无特殊之处，它和大部分岛屿一样，都只是普通砂石的聚合。
+
+**温迪:** 直到，风带来了故事的种子，时间使它在这座岛上生根发芽。
+
+**温迪:** 尔后，风带来了新的故事，时间使它在这座岛外成为神话。
+
+**温迪:** 旅行者，欢迎你「真正」登上这座被「时间」所青睐的小岛。
+
+**温迪:** 在久远的过去，时与风曾在此交汇。
+
+**派蒙:** 等一下等一下，卖唱的…你突然好严肃，说的话也好难懂喔…
+
+**温迪:** 哎呀，别急嘛小派蒙，一篇好故事的开头总是要起点高调，留点悬念。
+
+**温迪:** 在之前，我曾为蒙德鼓起了最初的自由之风。在那股风的协力下，所有应得自由之人，都重获自由。
+
+**温迪:** 之前我不是说过，我曾在「千风神殿」偶遇了「时间」，并且得到了助力么？
+
+**温迪:** 正是因为有了「时间」的协力，最初的那股自由之风，才能鼓动得如此强劲。
+
+- **旅行者:** 还有事要处理…
+
+**温迪:** 没关系，等你准备好之后，就来告诉我。
+
+- **旅行者:** 准备好了。
+
+**温迪:** 嗯。那我们就开始合奏吧。
+
+- **旅行者:** 还有事要处理…
+
+**温迪:** 没关系，等你准备好之后，就来告诉我。

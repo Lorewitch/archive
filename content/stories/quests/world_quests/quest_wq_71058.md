@@ -21,6 +21,9 @@
 # version_source: wiki_release_category
 
 # quest_series_ru: Пропавшая на чужбине
+# game_source_ids: 71058
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 10
 
 ## RU
 
@@ -30,15 +33,15 @@
 
 #### Поверженный маг Фатуи хочет вам что-то сказать
 
-**Катарина:** Кхе-кхе... Стой! Ты кто? Что ты здесь делаешь?
+**???:** Кхе-кхе... Стой! Ты кто? Что ты здесь делаешь?
 
-**Катарина:** И... почему нападаешь на меня?
+**???:** И... почему нападаешь на меня?
 
 **Паймон:** Это мы должны спросить! Что ты тут вынюхиваешь?
 
-Ты злодейка, тебе и объясняться.
+- **Путешественник:** Ты злодейка, тебе и объясняться.
 
-**Катарина:** Катарина... Катарина Снежневна.
+**???:** Катарина... Катарина Снежневна.
 
 **Катарина:** Моё имя - наименее секретная информация, и я могу выдать только её. Извините.
 
@@ -46,11 +49,11 @@
 
 **Катарина:** Прошу прощения, но это всё, что я могу сказать.
 
-Что тут делают Фатуи?
+- **Путешественник:** Что тут делают Фатуи?
 
 **Катарина:** Это засекречено.
 
-...
+- **Путешественник:** ...
 
 **Паймон:** М-да, а злодеи любят посекретничать!
 
@@ -58,21 +61,31 @@
 
 **Катарина:** Так, анкетирование окончено... У нас тут наметились проблемы.
 
+#### Победите плесенников
+
 #### Продолжите прерванный разговор с магом Фатуи
 
 **Катарина:** Спасибо... что не воткнули нож мне в спину.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Прими мою благодарность в ответ.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Фатуи настолько мнительны?
 
+##### Общее продолжение
+
 **Катарина:** Уж не знаю, что у тебя в голове, но тут не лучшее место, чтобы за мной приударить... Хочешь побеседовать - приходи в моё убежище.
+
+Катарина уходит.
 
 **Паймон:** Что? Она же Фатуи! И мы так просто её отпустим и не передадим Миллелитам?
 
 **Паймон:** Эм... Ну ладно. Она не причинила нам вреда, давай и мы её пощадим!
 
-*Катарина уходит.*
+#### Отправляйтесь в скрытый лагерь мага Фатуи
 
 #### Поговорите с магом Фатуи
 
@@ -86,19 +99,15 @@
 
 **Катарина:** Да, а что такого?
 
-- **Путешественник:** Эм... Я всё-таки откажусь.
+##### Вариант ответа 1
 
-- **Путешественник:** Мы пришли не чаи гонять...
+- **Путешественник:** Эм... Я всё-таки откажусь.
 
 **Катарина:** А чего? Хе-хе, тут никто на тебя косо не посмотрит. Давай же, не стесняйся!
 
-- **Путешественник:** Что ты делаешь?
+##### Вариант ответа 1
 
-- **Путешественник:** Ты опять что-то замышляешь?
-
-**Катарина:** Я знаю, знаю... не накручивай себе.
-
-- **Путешественник:** Что ты делаешь?
+##### Вариант ответа 2
 
 - **Путешественник:** Ты опять что-то замышляешь?
 
@@ -106,7 +115,7 @@
 
 **Катарина:** Так говорится в нашем руководстве.
 
-А где информация?
+- **Путешественник:** А где информация?
 
 **Катарина:** А? Ну вот же только что была.
 
@@ -122,13 +131,13 @@
 
 **Паймон:** Ну... учитывая все ваши злодеяния, Паймон трудно поверить, что у Фатуи добрые намерения...
 
-Что ты задумала?
+- **Путешественник:** Что ты задумала?
 
 **Катарина:** Меня не удивляет, что посторонние не могут понять философию Фатуи. Но когда мы не говорим об идеях и точках зрения, мы просто обычные люди.
 
 **Катарина:** И кроме того, какова бы ни была наша цель, мы только и делаем, что готовимся к решающему бою.
 
-Решающему бою?..
+- **Путешественник:** Решающему бою?..
 
 **Катарина:** Да, в конце концов все мы столкнёмся с общим врагом и долгой ночью, от которой не скрыться... В Снежной все об этом знают.
 
@@ -136,23 +145,35 @@
 
 **Катарина:** Так выпьем? Нет? Хм, что ж, я тогда сама...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Вот так ты оправдываешь ваши злые поступки?
 
-- **Путешественник:** Хм. Весьма высокопарно...
-
 **Катарина:** Может быть... не знаю, мне всё равно. Вы хотели объяснений, я вам их дала... Вероятно, вам они не по душе. Вот так вот.
+
+##### Вариант ответа 2
+
+- **Путешественник:** Хм. Весьма высокопарно...
 
 **Катарина:** Ха!.. Вам точно нужно попробовать огненную воду из Снежной и повидло.
 
 **Катарина:** Ну зачем столько серьёзности... ты слишком много думаешь. Просто верь в то, во что хочешь верить. Вот она «вера».
 
+##### Общее продолжение
+
 **Паймон:** Уф... Паймон не понимает, почему мы вдруг заговорили о таких серьёзных вещах...
 
 **Катарина:** Кстати, я уже представилась, но я ещё не знаю ваших имён.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Путешественник.
 
+##### Вариант ответа 2
+
 - **Путешественник:** Возможно, ты обо мне слышала. Я Путешественник.
+
+##### Общее продолжение
 
 **Паймон:** Паймон - это Паймон. Ты точно слышала обо мне!
 
@@ -168,7 +189,7 @@
 
 **Паймон:** То есть...
 
-Ваша линия снабжения давно прервалась?
+- **Путешественник:** Ваша линия снабжения давно прервалась?
 
 **Катарина:** ...
 
@@ -180,9 +201,15 @@
 
 **Паймон:** Да потому что эту штуку людям нельзя давать пить!
 
+##### Вариант ответа 1
+
 - **Путешественник:** Ладно, Паймон...
 
+##### Вариант ответа 2
+
 - **Путешественник:** У людей разные вкусы, понимаешь...
+
+##### Общее продолжение
 
 **Паймон:** Хм!
 
@@ -192,6 +219,18 @@
 
 **Катарина:** Заходи ещё как-нибудь... если тебя не затруднит.
 
+##### Вариант ответа 2
+
+- **Путешественник:** Мы пришли не чаи гонять...
+
+**Катарина:** Я знаю, знаю... не накручивай себе.
+
+##### Вариант ответа 1
+
+##### Общее продолжение
+
+- **Путешественник:** Что ты делаешь?
+
 ## EN
 
 ### Lost in a Foreign Land
@@ -200,15 +239,15 @@ You run into a less-hostile Fatui mage in The Chasm. What is she doing here?
 
 #### The defeated Fatui Mage seems to have something to tell you.
 
-**Katarina:** *cough*... W—Wait! Stop! Who are you? Why are you here...?
+**???:** *cough*... W—Wait! Stop! Who are you? Why are you here...?
 
-**Katarina:** And... why are you attacking me?
+**???:** And... why are you attacking me?
 
 **Paimon:** You are one to talk! We saw you sneaking around!
 
-Since you're the bad guy here, why don't you explain yourself first?
+- **Traveler:** Since you're the bad guy here, why don't you explain yourself first?
 
-**Katarina:** ...Katarina. My name is Katarina Snezhevna.
+**???:** ...Katarina. My name is Katarina Snezhevna.
 
 **Katarina:** My name is the most I can divulge. My apologies.
 
@@ -216,11 +255,11 @@ Since you're the bad guy here, why don't you explain yourself first?
 
 **Katarina:** S—Sorry. That really is all I can disclose.
 
-What are the Fatui doing here?
+- **Traveler:** What are the Fatui doing here?
 
 **Katarina:** That's classified.
 
-...
+- **Traveler:** ...
 
 **Paimon:** Come on, bad guys do have a thing for being secretive!
 
@@ -228,21 +267,31 @@ What are the Fatui doing here?
 
 **Katarina:** Alright, time's up for the question-and-answer session.. We've got company!
 
+#### Defeat the Floating Fungi that emerged
+
 #### Continue talking to the Fatui Mage
 
 **Katarina:** Thank you... for not stabbing me in the back.
 
+##### Response branch 1
+
 - **Traveler:** The feeling's mutual.
+
+##### Response branch 2
 
 - **Traveler:** So, the Fatui all have trust issues, huh?
 
+##### Shared continuation
+
 **Katarina:** Pfft... Although I don't know where you got that impression, this isn't a romantic place to try hitting on me... Come to my hideout if you wish to talk.
+
+Katarina leaves.
 
 **Paimon:** Eh? Isn't she a Fatuus? Is it really OK to just let her go instead of sending her to the Millelith?
 
 **Paimon:** Hmph... Alright, Paimon gets it. Forget it. She didn't hurt us, after all. Let's let her off the hook this time, shall we?
 
-*Katarina leaves.*
+#### Go to the Fatui Mage's hidden encampment
 
 #### Talk to the Fatui Mage
 
@@ -256,19 +305,15 @@ What are the Fatui doing here?
 
 **Katarina:** Yep, what's the problem with it?
 
-- **Traveler:** Uh... I'll pass.
+##### Response branch 1
 
-- **Traveler:** We are not here for your tea party...
+- **Traveler:** Uh... I'll pass.
 
 **Katarina:** What? Hehe, no one's gonna call you out on drinking here. Just suit yourself!
 
-- **Traveler:** What are you doing?
+##### Response branch 1
 
-- **Traveler:** What are you up to?
-
-**Katarina:** I know. I know... Don't get so serious.
-
-- **Traveler:** What are you doing?
+##### Response branch 2
 
 - **Traveler:** What are you up to?
 
@@ -276,7 +321,7 @@ What are the Fatui doing here?
 
 **Katarina:** ...that's what our handbook says.
 
-Well, where's the intel?
+- **Traveler:** Well, where's the intel?
 
 **Katarina:** Uh? I just shared it.
 
@@ -292,13 +337,13 @@ Well, where's the intel?
 
 **Paimon:** Uh... with what you people have done, Paimon finds it hard to believe in your "kind gesture"...
 
-What are you up to, really?
+- **Traveler:** What are you up to, really?
 
 **Katarina:** It's no surprise that outsiders fail to understand the cause of the Fatui. But when we aren't talking about what we pursue or which side we are on, we are just a bunch of ordinary people.
 
 **Katarina:** ...Besides, all our agendas and deeds are just preparatory work for the final battle.
 
-The final battle...?
+- **Traveler:** The final battle...?
 
 **Katarina:** Yes, in the end, all of us shall face a common enemy and the inescapable long night... Everyone in Snezhnaya has been thusly warned.
 
@@ -306,23 +351,35 @@ The final battle...?
 
 **Katarina:** Let's have a toast! No? Hmph, I'll just suit myself...
 
+##### Response branch 1
+
 - **Traveler:** Is this how you justify the evil you've done?
 
-- **Traveler:** That's quite a lofty-sounding explanation...
-
 **Katarina:** Maybe you're right... I don't know, nor do I care to know. You wanted an explanation, and I gave you one. You're free to not find it to your liking. That's all.
+
+##### Response branch 2
+
+- **Traveler:** That's quite a lofty-sounding explanation...
 
 **Katarina:** Ha...! You know what? You should try the liquor and jam from Snezhnaya.
 
 **Katarina:** Don't take it all too seriously, and don't think too much about it. Just trust what you want to trust. That's what we call "belief."
 
+##### Shared continuation
+
 **Paimon:** Ugh... Where did all that deep stuff suddenly come from...
 
 **Katarina:** By the way, I've introduced myself, but I don't know your name yet.
 
+##### Response branch 1
+
 - **Traveler:** Traveler.
 
+##### Response branch 2
+
 - **Traveler:** You might've heard about me. I'm Traveler.
+
+##### Shared continuation
 
 **Paimon:** And Paimon's Paimon!
 
@@ -338,7 +395,7 @@ The final battle...?
 
 **Paimon:** Eh... Doesn't that mean...
 
-That your supply line's long been cut off?
+- **Traveler:** That your supply line's long been cut off?
 
 **Katarina:** ...
 
@@ -350,9 +407,15 @@ That your supply line's long been cut off?
 
 **Paimon:** That's because Paimon didn't think it was drinkable at all!
 
+##### Response branch 1
+
 - **Traveler:** Alright, Paimon...
 
+##### Response branch 2
+
 - **Traveler:** People have different food preferences, y'know...
+
+##### Shared continuation
 
 **Paimon:** Hmph!
 
@@ -362,6 +425,18 @@ That your supply line's long been cut off?
 
 **Katarina:** Please come back another day... if you don't find it too troublesome.
 
+##### Response branch 2
+
+- **Traveler:** We are not here for your tea party...
+
+**Katarina:** I know. I know... Don't get so serious.
+
+##### Response branch 1
+
+##### Shared continuation
+
+- **Traveler:** What are you doing?
+
 ## ZH
 
 ### 他乡迷失客
@@ -370,15 +445,15 @@ That your supply line's long been cut off?
 
 #### 被击败的愚人众术士似乎有话要说
 
-**卡塔琳娜:** 咳咳…呼…等等，请先停手…！你是谁？为什么会在这里…？
+**？？？:** 咳咳…呼…等等，请先停手…！你是谁？为什么会在这里…？
 
-**卡塔琳娜:** 以及…为什么要攻击我？
+**？？？:** 以及…为什么要攻击我？
 
 **派蒙:** 我们还想问你咧！谁让你在这里鬼鬼祟祟的！
 
-你是坏人，你先说。
+- **旅行者:** 你是坏人，你先说。
 
-**卡塔琳娜:** …卡塔琳娜，卡塔琳娜·雪奈茨芙娜。
+**？？？:** …卡塔琳娜，卡塔琳娜·雪奈茨芙娜。
 
 **卡塔琳娜:** 名字是我们最不值得保守的情报，我只能透露这些，抱歉啦。
 
@@ -386,11 +461,11 @@ That your supply line's long been cut off?
 
 **卡塔琳娜:** 抱歉、抱歉，这是我能透露的全部情报了。
 
-为什么愚人众会在这里活动？
+- **旅行者:** 为什么愚人众会在这里活动？
 
 **卡塔琳娜:** 机密。
 
-……
+- **旅行者:** ……
 
 **派蒙:** 什么啦！你们这些神神秘秘的坏家伙！
 
@@ -398,21 +473,31 @@ That your supply line's long been cut off?
 
 **卡塔琳娜:** 好了，好奇宝宝时间结束…我们有麻烦了。
 
+#### 击败出现的蕈兽
+
 #### 与愚人众术士继续被打断的对话
 
 **卡塔琳娜:** 谢谢…不论如何，我很开心你没有趁机在我背后捅刀。
 
+##### 对话分支 1
+
 - **旅行者:** 这是我要说的话才对。
+
+##### 对话分支 2
 
 - **旅行者:** 愚人众对别人都是如此疑心病吗？
 
+##### 共同后续
+
 **卡塔琳娜:** 噗…虽然不知道你对愚人众有何成见，但在这种地方搭话可一点也不浪漫…有什么话就请来我的藏身点一叙吧。
+
+卡塔琳娜离开了。
 
 **派蒙:** 欸？她可是愚人众呀，我们就这样把她放走了吗？不把她交给千岩军吗？
 
 **派蒙:** 哼…我知道啦，算啦，反正她也没有伤到我们，就当是饶她一命好啦！
 
-*卡塔琳娜离开了。*
+#### 前往愚人众术士藏身的营地
 
 #### 与愚人众术士对话
 
@@ -426,19 +511,15 @@ That your supply line's long been cut off?
 
 **卡塔琳娜:** 对啊，很奇怪吗？
 
-- **旅行者:** 唔…还是不了。
+##### 对话分支 1
 
-- **旅行者:** 我们不是来开茶会的…
+- **旅行者:** 唔…还是不了。
 
 **卡塔琳娜:** 怎么？嘿嘿，在这里是没有人管你喝酒的。不要拘谨啦！
 
-- **旅行者:** 你这是在做什么？
+##### 对话分支 1
 
-- **旅行者:** 你又在搞什么鬼？
-
-**卡塔琳娜:** 我知道，我知道…别想那么多啦。
-
-- **旅行者:** 你这是在做什么？
+##### 对话分支 2
 
 - **旅行者:** 你又在搞什么鬼？
 
@@ -446,7 +527,7 @@ That your supply line's long been cut off?
 
 **卡塔琳娜:** …我们的手册是这么说的。
 
-可是情报呢？
+- **旅行者:** 可是情报呢？
 
 **卡塔琳娜:** 嗯？刚刚那就是呀。
 
@@ -462,13 +543,13 @@ That your supply line's long been cut off?
 
 **派蒙:** 唔…鉴于你们之前做的那些坏事，还真不好相信愚人众会有好意呢…
 
-你有什么图谋？
+- **旅行者:** 你有什么图谋？
 
 **卡塔琳娜:** 外人无法理解愚人众的理念，并不出我意料。不过在不聊什么理念呀、立场呀之类问题的时候，我们也是些普通人嘛。
 
 **卡塔琳娜:** …况且，我们的一切行为，不论目的如何，都不过是在为最终的决战做准备而已。
 
-最终的决战…？
+- **旅行者:** 最终的决战…？
 
 **卡塔琳娜:** 嗯，我们最终要面对的是共同的大敌，和无可逃脱的长夜…至冬国的国民都接受了这样的警告。
 
@@ -476,23 +557,35 @@ That your supply line's long been cut off?
 
 **卡塔琳娜:** 干杯？哼，好吧，好吧，我自便…
 
+##### 对话分支 1
+
 - **旅行者:** 你是在为恶行找借口吗？
 
-- **旅行者:** 这理由太宏大了…
-
 **卡塔琳娜:** 或许吧…不知道，不在乎。你想要解释，我给你理由…只不过是我的版本，可能不对你胃口。就这么简单。
+
+##### 对话分支 2
+
+- **旅行者:** 这理由太宏大了…
 
 **卡塔琳娜:** 哈…！至冬国的酒和果酱，你真应该试试。
 
 **卡塔琳娜:** 是你太严肃啦…不要想那么多，相信自己愿意相信的东西就好。这就是所谓的「信仰」嘛。
 
+##### 共同后续
+
 **派蒙:** 唔…你们怎么突然正经聊起天来啦…
 
 **卡塔琳娜:** 顺便，我已经自我介绍过了，但还不知道你们的名字呢？
 
+##### 对话分支 1
+
 - **旅行者:** 旅行者。
 
+##### 对话分支 2
+
 - **旅行者:** 你可能听说过，我是旅行者。
+
+##### 共同后续
 
 **派蒙:** 我是派蒙！你一定听说过！
 
@@ -508,7 +601,7 @@ That your supply line's long been cut off?
 
 **派蒙:** 欸…！那不就是说…
 
-你们的补给线断了很久？
+- **旅行者:** 你们的补给线断了很久？
 
 **卡塔琳娜:** ……
 
@@ -520,9 +613,15 @@ That your supply line's long been cut off?
 
 **派蒙:** 那种东西本来也不是人能喝的吧！
 
+##### 对话分支 1
+
 - **旅行者:** 好啦，派蒙…
 
+##### 对话分支 2
+
 - **旅行者:** 不要以你自己的标准度人嘛…
+
+##### 共同后续
 
 **派蒙:** 哼！
 
@@ -531,3 +630,15 @@ That your supply line's long been cut off?
 **卡塔琳娜:** 唔…没什么，只是…如果是你的话…
 
 **卡塔琳娜:** 改天请来找我…如果你方便的话。
+
+##### 对话分支 2
+
+- **旅行者:** 我们不是来开茶会的…
+
+**卡塔琳娜:** 我知道，我知道…别想那么多啦。
+
+##### 对话分支 1
+
+##### 共同后续
+
+- **旅行者:** 你这是在做什么？

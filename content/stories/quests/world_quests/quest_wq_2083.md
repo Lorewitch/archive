@@ -14,8 +14,8 @@
 # chapter_num_zh:
 # part_source_ids: 10010
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_2083
 # quest_series: Witch's Homework
 # version_source: verified_override
@@ -25,6 +25,9 @@
 # quest_collections: witch_homework
 
 # quest_series_ru: Уроки ведьм
+# game_source_ids: 10010
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
+# quest_series_order: 90
 
 ## RU
 
@@ -38,7 +41,7 @@
 
 **Паймон:** Привет, Кли!
 
-**Кли:** Господин / Госпожа почётный рыцарь! Паймон!
+**Кли:** Господин почётный рыцарь! Паймон! / Госпожа почётный рыцарь! Паймон!
 
 **Кли:** Додоко нужна помощь! Мама сказала, что вы придёте, но я не знала, что так скоро!
 
@@ -50,15 +53,19 @@
 
 **Паймон:** Паймон знает. Паймон спрашивает о задании. Ты знаешь, что это такое? Это...
 
-- **Путешественник:** Задание.
+##### Вариант ответа 1
 
-- **Путешественник:** Это то, что нужно сделать.
+- **Путешественник:** Задание.
 
 **Кли:** ?
 
 **Паймон:** ...Спасибо, рыцарь Очевидность.
 
 **Паймон:** Это... это сложно объяснить. В общем, задание - это то, что Кли нужно сделать, чтобы помочь Додоко!
+
+##### Вариант ответа 2
+
+- **Путешественник:** Это то, что нужно сделать.
 
 **Паймон:** Да, это то, что нужно сделать.
 
@@ -69,6 +76,8 @@
 **Кли:** Я запуталась...
 
 **Паймон:** Эх, это как... Когда мама просит тебя что-то сделать, это и есть «задание»!
+
+##### Общее продолжение
 
 **Кли:** О! Спасибо, Паймон, Кли хоть и не совсем, но, кажется, немного поняла.
 
@@ -128,9 +137,13 @@
 
 **Кли:** Хм... Мама всегда говорила, что если сталкиваешься с трудностями, нужно их преодолевать!
 
-Тогда избавимся от всех препон.
+- **Путешественник:** Тогда избавимся от всех препон.
 
 **Кли:** Да!
+
+#### Отправляйтесь в Шепчущий лес
+
+#### Уберите препоны
 
 #### Поговорите с Кли
 
@@ -176,17 +189,21 @@
 
 **Паймон:** Внутри него наверняка и спрятано сокровище...
 
-Кли, окажи нам честь...
+- **Путешественник:** Кли, окажи нам честь...
 
 **Кли:** Будет сделано! Мы с Додоко откроем его, без проблем!
 
 **Паймон:** Ой, что происходит? Монстры атакуют!
 
-Всё не так просто...
+- **Путешественник:** Всё не так просто...
 
 **Кли:** Хм, они хотят украсть сокровище Додоко, я точно знаю!
 
 **Кли:** Давайте сначала прогоним их, а потом откроем сундук!
+
+#### Отправляйтесь к озеру Звездопадов
+
+#### Защитите сокровище Додоко
 
 #### Поговорите с Кли
 
@@ -218,7 +235,7 @@
 
 **Джинн:** Рыцари говорят, что в лесу за городом снова слышны сильные взрывы...
 
-**Кли:** Господин / Госпожа почётный рыцарь! Паймон... помогите Кли...
+**Кли:** Господин почётный рыцарь! Паймон... помогите Кли... / Госпожа почётный рыцарь! Паймон... помогите Кли...
 
 **Паймон:** Паймон может подтвердить, что мы вместе с Кли уничтожили группу хиличурлов и слаймов, и мы пришли сюда, только чтобы выполнить задание.
 
@@ -236,11 +253,17 @@
 
 **Джинн:** Я правильно понимаю, что других разрушений нет, Путешественник?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Все остальные разрушения дело рук Паймон.
+
+**Паймон:** ...Да. Ты же знаешь, Паймон уничтожает монстров одним ударом! Паймон потрясающая.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Никаких других разрушений.
 
-**Паймон:** ...Да. Ты же знаешь, Паймон уничтожает монстров одним ударом! Паймон потрясающая.
+##### Общее продолжение
 
 **Джинн:** Кли.
 
@@ -274,7 +297,7 @@ The witch's dictionary also includes an assignment that Alice left for Klee. Why
 
 **Paimon:** Hey there, Klee!
 
-**Klee:** Mr. / Miss Honorary Knight! Paimon!
+**Klee:** Mr. Honorary Knight! Paimon! / Miss Honorary Knight! Paimon!
 
 **Klee:** Dodoco needs help! Mom said you were coming, but I didn't know it'd be so soon!
 
@@ -286,15 +309,19 @@ The witch's dictionary also includes an assignment that Alice left for Klee. Why
 
 **Paimon:** No, Paimon knows that. She was asking about the task. You know what that is, right? It's like a...
 
-- **Traveler:** A task.
+##### Response branch 1
 
-- **Traveler:** It's something that needs doing.
+- **Traveler:** A task.
 
 **Klee:** ?
 
 **Paimon:** ...Thank you, Honorary Knight of Fav-Obvious.
 
 **Paimon:** Anyway, um... A task is... Gah, why is it so hard to describe!? It's like... helping Dodoco! Yeah! That's a task!
+
+##### Response branch 2
+
+- **Traveler:** It's something that needs doing.
 
 **Paimon:** Yeah, something that needs doing!
 
@@ -305,6 +332,8 @@ The witch's dictionary also includes an assignment that Alice left for Klee. Why
 **Klee:** I'm confused...
 
 **Paimon:** *sigh* It's like... When your mom tells you to do something! That's a "task"!
+
+##### Shared continuation
 
 **Klee:** Oh! Thanks, Paimon. That kinda makes more sense, although not really.
 
@@ -364,9 +393,13 @@ The witch's dictionary also includes an assignment that Alice left for Klee. Why
 
 **Klee:** Hmm... Mom says the best thing to do when you run into a problem is to try and fix it!
 
-Then let us be rid of these hurdles.
+- **Traveler:** Then let us be rid of these hurdles.
 
 **Klee:** Yeah!
+
+#### Go to the Whispering Woods
+
+#### Clear the "turtles"
 
 #### Talk to Klee
 
@@ -412,17 +445,21 @@ Then let us be rid of these hurdles.
 
 **Paimon:** The final treasure must be inside this thing...
 
-Klee, would you do honors...
+- **Traveler:** Klee, would you do honors...
 
 **Klee:** You got it! Me and Dodoco will get it open, no problem!
 
 **Paimon:** Whoa, wait a second... Monsters incoming!
 
-Guess it's not going to be that simple, after all...
+- **Traveler:** Guess it's not going to be that simple, after all...
 
 **Klee:** Hmph, they wanna steal Dodoco's treasure, I just know it!
 
 **Klee:** Let's kick 'em out. Then, we can open the box!
+
+#### Go to the Starfell Lake
+
+#### Protect Dodoco's treasure
 
 #### Talk to Klee
 
@@ -454,7 +491,7 @@ Guess it's not going to be that simple, after all...
 
 **Jean:** The Knights have informed me about explosions being heard from the forest outside the city...
 
-**Klee:** Um, Mr. / Miss Honorary Knight, Paimon... A little help please...
+**Klee:** Um, Mr. Honorary Knight, Paimon... A little help please... / Um, Miss Honorary Knight, Paimon... A little help please...
 
 **Paimon:** Ah, that's because we cleared out a Hilichurl camp over there, and a bunch of Slimes too. Plus, we were working on Klee's task.
 
@@ -472,11 +509,17 @@ Guess it's not going to be that simple, after all...
 
 **Jean:** Am I correct in assuming that's all the damage, Traveler?
 
+##### Response branch 1
+
 - **Traveler:** The rest was Paimon's doing.
+
+**Paimon:** ...Yeah. You know Paimon, clearing out monsters with a single punch! She's just awesome like that.
+
+##### Response branch 2
 
 - **Traveler:** That's all the damage.
 
-**Paimon:** ...Yeah. You know Paimon, clearing out monsters with a single punch! She's just awesome like that.
+##### Shared continuation
 
 **Jean:** Klee.
 
@@ -494,8 +537,8 @@ Guess it's not going to be that simple, after all...
 
 **Paimon:** Haha, awesome! Paimon's been craving some Sweet Madame!
 
-Jean treats you, Paimon, and Klee to a meal at the Good Hunter...
-Ah, along with Dodoco, the newly crowned "Dodo-Sorcerer" of course.
+Jean treats you, Paimon, and Klee to a meal at the Good Hunter... 
+Ah, along with Dodoco, the newly crowned "Dodo-Sorcerer" of course. 
 With that, the trial comes to a successful close.
 
 ## ZH
@@ -510,9 +553,9 @@ With that, the trial comes to a successful close.
 
 **派蒙:** 哎呀，可莉！
 
-**可莉:** 荣誉骑士哥哥 / 姐姐！小派蒙！
+**可莉:** 荣誉骑士哥哥！小派蒙！ / 荣誉骑士姐姐！小派蒙！
 
-**可莉:** 妈妈说，荣誉骑士哥哥 / 姐姐和小派蒙，会和可莉一起帮助嘟嘟可，没想到这么快就来了！
+**可莉:** 妈妈说，荣誉骑士哥哥和小派蒙，会和可莉一起帮助嘟嘟可，没想到这么快就来了！ / 妈妈说，荣誉骑士姐姐和小派蒙，会和可莉一起帮助嘟嘟可，没想到这么快就来了！
 
 **派蒙:** 帮助嘟嘟可？
 
@@ -522,15 +565,19 @@ With that, the trial comes to a successful close.
 
 **派蒙:** 啊，我没有念错可莉的名字啦，可莉是可莉，课题是…
 
-- **旅行者:** 课题是课题。
+##### 对话分支 1
 
-- **旅行者:** 是要去做的事。
+- **旅行者:** 课题是课题。
 
 **可莉:** ？
 
 **派蒙:** …唉，谢谢你没什么用的说明啦。
 
 **派蒙:** 嗯…课题就是，唔，好难直接解释哦。总之，课题就是，可莉想要做的，要帮助嘟嘟可完成的事！
+
+##### 对话分支 2
+
+- **旅行者:** 是要去做的事。
 
 **派蒙:** 对，就是要完成的事。
 
@@ -541,6 +588,8 @@ With that, the trial comes to a successful close.
 **可莉:** 可莉有点弄不明白了…
 
 **派蒙:** 唔，总之就是艾莉丝说的，要让可莉完成的事，就是「课题」！
+
+##### 共同后续
 
 **可莉:** 哦！谢谢小派蒙，可莉虽然不明白，但好像又有点明白了。
 
@@ -562,7 +611,7 @@ With that, the trial comes to a successful close.
 
 **可莉:** 可莉不知道。
 
-**可莉:** 但是妈妈说，荣誉骑士哥哥 / 姐姐和小派蒙会告诉可莉。
+**可莉:** 但是妈妈说，荣誉骑士哥哥和小派蒙会告诉可莉。 / 但是妈妈说，荣誉骑士姐姐和小派蒙会告诉可莉。
 
 **派蒙:** 对、对哦，可莉，看看这本书…
 
@@ -576,7 +625,7 @@ With that, the trial comes to a successful close.
 
 **可莉:** 啊，可莉知道在哪里了，一定是在可莉经常炸…经常与嘟嘟可玩耍的森林里！
 
-**可莉:** 可莉，嘟嘟可，荣誉骑士哥哥 / 姐姐，小派蒙，出发！
+**可莉:** 可莉，嘟嘟可，荣誉骑士哥哥，小派蒙，出发！ / 可莉，嘟嘟可，荣誉骑士姐姐，小派蒙，出发！
 
 **派蒙:** 好哦！出发！
 
@@ -600,9 +649,13 @@ With that, the trial comes to a successful close.
 
 **可莉:** 嗯…妈妈曾经说过，遇到困难就要解决困难！
 
-那就让「重重障碍」消失吧。
+- **旅行者:** 那就让「重重障碍」消失吧。
 
 **可莉:** 嗯！
+
+#### 前往低语森林
+
+#### 清理掉「丛丛障碍」
 
 #### 与可莉对话
 
@@ -648,17 +701,21 @@ With that, the trial comes to a successful close.
 
 **派蒙:** 看来最终的宝藏就藏在这个了不起的箱子里…
 
-可莉，打开箱子吧…
+- **旅行者:** 可莉，打开箱子吧…
 
 **可莉:** 嗯嗯，可莉就和嘟嘟可一起…
 
 **派蒙:** 咦，等等，周围怎么突然聚集了一堆怪物。
 
-看来并没有那么简单呢…
+- **旅行者:** 看来并没有那么简单呢…
 
 **可莉:** 哼哼，肯定是看到嘟嘟可找到了通过试炼得到的宝藏，那些坏家伙要来抢！
 
 **可莉:** 那我们就先把那些坏家伙赶跑，再打开箱子吧！
+
+#### 前往星落湖
+
+#### 守护嘟嘟可的宝藏
 
 #### 与可莉对话
 
@@ -690,7 +747,7 @@ With that, the trial comes to a successful close.
 
 **琴:** 骑士团的人说，城外的森林里又传来了特别大的爆炸声…
 
-**可莉:** 荣誉骑士哥哥 / 姐姐，小派蒙，现在是可莉需要帮助…
+**可莉:** 荣誉骑士哥哥，小派蒙，现在是可莉需要帮助… / 荣誉骑士姐姐，小派蒙，现在是可莉需要帮助…
 
 **派蒙:** 啊，我可以作证，我们和可莉一起清除了聚集的丘丘人，还有史莱姆，而且我们是为了完成「课题」才来的。
 
@@ -708,11 +765,17 @@ With that, the trial comes to a successful close.
 
 **琴:** 没有造成其他的破坏吧，旅行者？
 
+##### 对话分支 1
+
 - **旅行者:** 其他的破坏都是派蒙造成的。
+
+**派蒙:** …对对，都是我一口气吹出来的，我了不起。
+
+##### 对话分支 2
 
 - **旅行者:** 没有其他的破坏。
 
-**派蒙:** …对对，都是我一口气吹出来的，我了不起。
+##### 共同后续
 
 **琴:** 可莉。
 

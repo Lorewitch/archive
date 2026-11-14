@@ -319,3 +319,905 @@ Sara believed that this was neither her duty nor a result of her foster father's
 一眼的注视，赐予她一生的力量。她所享有的一切，都可说是将军大人的垂怜。
 如果是为将军而战…
 裟罗认为，那不是命令，不是养父的计谋，而是她真心所向。
+
+# voice_source_ids: 56001,56002,56003,56004,56005,56006,56007,56008,56009,56010,56011,56012,56013,56014,56015,56016,56017,56018,56019,56020,56021,56022,56023,56024,56025,56026,56027,56028,56029,56030,56031,56032,56033,56034,56035,56036,56037,56038,56039,56040,56041,56042,56043,56044,56045,56046,56047,56048,56049,56050,56051,56052,56053,56054,56055,56056,56057,56058,56059,56060,56061,56062,56063,56064,56065,56066,56067,56068,56069,56070,56071,56072,56073,56074
+
+## REPLICAS_RU
+
+### Привет...
+
+Я Кудзё Сара. Ты можешь забыть моё имя, но тебе следует знать одно: пока я жива, Инадзума всегда будет защищена, а воля сёгуна - исполнена. Я уничтожу любого врага - пусть даже им будет божество или демон! Тебе не о чем переживать, я согласилась сражаться на твоей стороне, и я выполню это обязательство. Меня не волнует ничего, кроме долга.
+
+### Поболтаем: Цель
+
+Только сохраняя триединство сердца, лука и стрелы, можно поразить цель.
+
+### Поболтаем: Вечность
+
+Добиться «вечности» для сёгуна - вот моё «желание».
+
+### Поболтаем: Миссия
+
+Нет никакой разницы между долгом тэнгу защищать лес и горы и миссией клана Кудзё защищать Инадзуму.
+
+### Когда идёт дождь...
+
+Капли дождя могут заглушить звук шагов, будь внимательнее.
+
+### Когда гремит гром...
+
+Слышал? Гром - это воля сёгуна. / Слышала? Гром - это воля сёгуна.
+
+### Когда идёт снег...
+
+Мне бы хотелось удержать снежинку, но она так быстро тает в руке.
+
+### Когда светит солнце...
+
+Ясная погода идеально подходит для Военной игры.
+
+### Доброе утро...
+
+Доброе утро? Для меня это не утро. Обычно, когда я открываю глаза, ещё не рассвело.
+
+### Добрый день...
+
+Я не сплю после обеда, но если ты устал, то я могу подождать тебя. / Я не сплю после обеда, но если ты устала, то я могу подождать тебя.
+
+### Добрый вечер...
+
+Добрый вечер. Кстати, ночное цветение сакуры в Ханамидзаке - редкое зрелище.
+
+### Спокойной ночи...
+
+Отдыхай, я присмотрю за всем здесь.
+
+### О Саре: Комиссия Тэнрё
+
+Я в долгу перед главой клана, и комиссия Тэнрё - единственное, на что я могу положиться. Я сделаю всё, чтобы защитить честь клана. Хм? Хочешь узнать о принципах работы комиссии Тэнрё? Я предана сёгуну Райдэн. Это единственный жизненный принцип Кудзё Сары.
+
+### О Саре: Подготовка к бою
+
+«Готова?» Если у тебя есть привычка задавать этот вопрос перед тем, как отправиться в бой, боюсь, что только один раз из десяти ты услышишь мой ответ. Остальные девять раз я вихрем врывалась на передовую и сражалась не оглядываясь назад. Это не безрассудная храбрость или нечестность, просто поле боя никогда не оставляет времени на передышку.
+
+### Сара: Желание
+
+Моё желание? Я думала, ты знаешь, что моё желание - помочь сёгуну в достижении «вечности». Хм? Чего я желаю для себя? Об этом я не думала...
+
+### О нас: Наблюдения
+
+Хотя ты являешься «нестабильным» фактором для «вечности» сёгуна, «нестабильный» необязательно означает «угрожающий». Я не буду враждовать с тобой, но я не спущу с тебя глаз.
+
+### О нас: Впечатление
+
+Когда я конфисковывала Глаза Бога, я игнорировала желания людей. Теперь, когда охота закончилась, мой долг - загладить свою вину. Я слышала, что около статуи всевидящего божества можно услышать желания этих Глаз Бога. Пожалуйста, расскажи мне об этом. И... расскажи мне о своём желании тоже, я хочу его знать.
+
+### Глаз Бога...
+
+Глаз Бога можно получить, только если привлечь внимание божества. Поскольку мой Глаз Бога был дан мне сёгуном, я верну его сёгуну без жалоб и сожалений.
+
+### Давай поделимся: Юла
+
+Во время моего последнего задания торговец в Ханамизаке подарил мне гироскоп под названием Ханамидзака, игрушку, с которой «можно играть одному». Я нашла её интересной и оставила у себя. Ты хочешь... поиграть вместе? Это противоречит принципу одиночной игры, поэтому, пожалуйста, позвольте мне отказаться.
+
+### Давай поделимся: диковинки
+
+Ты знаешь, какие диковинки есть в Инадзуме? Нет, не ножи. Это лаковые фигурки её превосходительства Наруками Огосё, изготовленные руками опытных мастеров. Почти в каждом доме Инадзумы есть такие. Есть ли у меня фигурки? Пять штук.
+
+### Интересные вещи...
+
+Когда передо мной стоит сложная задача, я встаю под Священной сакурой и закрываю глаза, а когда открываю их, опадающие лепестки указывают мне направление.
+
+### О Томе...
+
+Резиденция комиссии Тэнрё очень большая, и было бы хорошо иметь такого хорошего управляющего, как Тома, который мог бы содержать дом в порядке. Если однажды он перестанет служить клану Камисато, я очень надеюсь, что он будет работать с нами. Возможно, этот день никогда не наступит.
+
+### О Камисато Аяке...
+
+Обычно в клане Кудзё слышны только звуки тренировок воинов в додзё, а вот когда я прохожу мимо клана Камисато, то слышу танцы, игры и смех. Я жду подходящего момента, чтобы посетить клан Камисато, говорят, что их старшая дочь отлично играет в го. Но я беспокоюсь, что... такой серьёзный человек, как я, не впишется в атмосферу.
+
+### О Ёимии...
+
+Пока она не устраивает беспорядочные фейерверки в моём лагере, я не буду ей мешать. Не считая всего остального, фейерверки, которые она устраивает, действительно выше всякой похвалы. Просто фейерверки непостоянны, и когда мгновенное сияние заканчивается, на ночном небе остаётся лишь темнота. Поэтому я часто напоминаю себе, что если я хочу выполнить свою миссию по защите Инадзумы, я не должна погружаться в эти иллюзорные огни.
+
+### О Сиканоине Хэйдзо...
+
+Сиканоин... Хотя он мой товарищ по службе, у меня плохое предчувствие на его счёт. Я чувствую, что у него много собственных планов, и он не ставит дела организации на первое место. Если бы не его детективная деятельность, он был бы более дисциплинирован.
+Ох, от него сплошная головная боль.
+
+### О сёгуне Райдэн: Доверие
+
+Ты наверняка много слышал об этом, верно? Её превосходительство стремится к вечности, в которой нет мыслей и привязанностей, нет навязчивых идей и которая никогда не изменится. Я не понимаю каждого действия и решения её превосходительства, но я беспрекословно ей доверяю. / Ты наверняка много слышала об этом, верно? Её превосходительство стремится к вечности, в которой нет мыслей и привязанностей, нет навязчивых идей и которая никогда не изменится. Я не понимаю каждого действия и решения её превосходительства, но я беспрекословно ей доверяю.
+
+### О сёгуне Райдэн: Следование
+
+Отмена «Охоты на Глаза Бога»... что ж, похоже, что ты прав. Но это не значит, что сёгун не права. Просто путь к «вечности» скоро изменится. Я не знаю, может ли её превосходительство сёгун, охранявший Инадзуму на протяжении тысяч лет, чувствовать себя спокойно. Я знаю только одно: сколько бы препятствий ни было на пути, я всегда буду следовать за ней. / Отмена «Охоты на Глаза Бога»... что ж, похоже, что ты права. Но это не значит, что сёгун не права. Просто путь к «вечности» скоро изменится. Я не знаю, может ли её превосходительство сёгун, охранявший Инадзуму на протяжении тысяч лет, чувствовать себя спокойно. Я знаю только одно: сколько бы препятствий ни было на пути, я всегда буду следовать за ней.
+
+### О Яэ Мико...
+
+Я не всегда правильно понимаю действия Гудзи Яэ... но поскольку она - верховная жрица Великого храма Наруками, нетрудно заметить доверие и молчаливое одобрение, которое её превосходительство сёгун питает к ней, и я, естественно, буду уважать её. Но если однажды она сделает что-то против воли сёгуна, то простите меня, если я поступлю с ней грубо.
+
+### О Сангономии Кокоми...
+
+Она более талантлива как военачальник, чем как жрица. До неё никто не воевал указаниями. Это неслыханно! Следует ли мне также научиться использовать этот метод, чтобы давать указания армии сёгуна? Хм... Боюсь, что это может оказаться тем случаем, когда обе стороны выкладывают комплекты на стол и играют ими друг против друга, как картами... Не думаю, что этот метод верен.
+
+### О Горо...
+
+Горо для Сангономии Кокоми - это как я для сёгуна Райдэн. Его преданность не знает границ, и я очень уважаю его за это. Жаль, что мы находимся по разные стороны фронта, поэтому нам никогда не удастся поработать вместе... Тем не менее я рада, что у меня есть достойный восхищения противник. Кроме того... Горо - хорошее имя.
+
+### Об Аратаки Итто...
+
+...Я не могу держать себя в руках, когда всплывает его имя. Он поднял большой шум, когда я конфисковала его Глаз Бога. Он показал, что достаточно мужественен, чтобы признать поражение, но его обещание отомстить... По сей день я не хочу об этом говорить. Если ты действительно хочешь знать, то спроси его.
+
+### О Куки Синобу...
+
+С её талантом и знаниями очень жаль, что она решила присоединиться к банде Аратаки. Но, стоит признать, что она эффективно мешает бездельникам создавать проблемы и беспокоить общественность, что здорово уменьшает нагрузку на комиссию Тэнрё.
+
+### Узнать больше о Саре I
+
+Хочешь узнать обо мне больше? Что именно? Я не могу обсуждать дела комиссии Тэнрё, это строго конфиденциально. И уж точно не могу разглашать ничего, связанного с её превосходительством. Чего именно ты пытаешься добиться? Хочешь узнать лично обо мне? Полагаю, это не исключено, просто... беспрецедентно.
+
+### Узнать больше о Саре II
+
+У меня довольно простой образ жизни. Когда не надо вести армию в бой, я встаю в 5:05. Затем я иду во двор, где делаю пять глубоких вдохов, прежде чем пройти пять кругов вокруг него. На завтрак я обычно съедаю пять кусочков еды... Пять - моё счастливое число, поэтому я все делаю по пять. У тебя есть какие-то возражения по этому поводу?
+
+### Узнать больше о Саре III
+
+Больше всего проблем при исполнении указа об Охоте на Глаза Бога мне доставляли те офицеры армии сёгуна, которые злоупотребляли своими полномочиями, применяя грубую силу к тем, кого мы задерживали. Воля всемогущего сёгуна должна быть исполнена, но я не потворствую насилию над невинными людьми! Я неоднократно прямо запрещала подобное поведение, но, судя по результатам, это трудно искоренить. Если у тебя есть идеи, как с этим бороться, пожалуйста, поделись ими со мной.
+
+### Узнать больше о Саре IV
+
+Хотя меня удочерил клан Кудзё, я знаю, что Такаюки смотрит на меня по-другому. Возможно, иногда я бываю немного упрямой, но даже мне бывает одиноко... особенно когда я вижу, как один из моих подчинённых проявляет близость при встрече с семьёй.
+Прости, я не испытываю ничего, кроме благодарности к Такаюки. Как я могу быть такой неблагодарной...
+
+### Узнать больше о Саре V
+
+Когда я думаю об этом, мы с тобой являемся хорошим примером достижения согласия через конфликт. Мы были на противоположных сторонах - можно сказать, диаметрально противоположных. Я и представить себе не могла, что окажусь рядом с тобой в бою или у нас состоится долгая беседа... Судьба была ко мне благосклонна... прости, не обращайте внимания.
+
+### Хобби Сары...
+
+И поныне ни один день не обходится без упражнений с луком и тренировок с мишенью. От принятия стойки до прицеливания и звона тетивы - для меня это не скучная рутина, а выход за пределы себя вчерашней! Я бы назвала это не столько хобби, сколько дисциплиной длиною в жизнь.
+
+### Беспокойство Сары...
+
+Существование крыльев у воина тэнгу - объективный факт, как и то, что они занимают определённое пространство. Поэтому, когда ты говоришь подойти ближе, я не понимаю, как именно я должна это сделать.
+
+### Любимая еда...
+
+Я всегда предпочитала лёгкие в транспортировке продукты, которые быстро и в достаточном количестве обеспечивают пропитание, такие как онигири. Лучший выбор для восполнения выносливости в разгар битвы! Но это всего лишь мои личные предпочтения. Я не указываю своим подчинённым, что им есть.
+
+### Нелюбимая еда...
+
+Не то чтобы я их ненавижу, но обычно я избегаю сладких продуктов. Почему? Сладкое приводит ум и тело в состояние покоя, поэтому после него так легко... Кхм, по сути, я не должна расслабляться, и на этом всё. Вопрос закрыт!
+
+### День рождения...
+
+Ты вовремя. Я обойдусь без формальностей и сразу перейду к делу - есть ли у тебя заветное желание в день рождения? Если оно не противоречит великой цели её превосходительства, я приложу все усилия, чтобы оно исполнилось. Чтобы показать всю серьёзность намерения, я позволю тебе загадать не одно, а пять желаний в день рождения.
+
+### Чувство возвышения: Начало
+
+Мой лук в отличной форме. Один выстрел - это всё, что мне нужно.
+
+### Чувство возвышения: Нарастание
+
+Сила вошла в меня и готова повиноваться.
+
+### Чувство возвышения: Кульминация
+
+Я - армия сёгуна!
+
+### Чувство возвышения: Окончание
+
+Моим долгом было совершенствоваться и оттачивать боевые искусства, но ты помог мне от чистого сердца... Я не потерплю поражения и буду использовать эту силу для высшего блага! Любовь тэнгу с тобой! / Моим долгом было совершенствоваться и оттачивать боевые искусства, но ты помогла мне от чистого сердца... Я не потерплю поражения и буду использовать эту силу для высшего блага! Любовь тэнгу с тобой!
+
+### Элементальный навык I
+
+Движение перьев!
+
+### Элементальный навык II
+
+Удар!
+
+### Элементальный навык III
+
+Вспышка!
+
+### Взрыв стихии I
+
+Слава сёгуну, да будет она править вечно!
+
+### Взрыв стихии II
+
+Удар молнии... без сожалений!
+
+### Взрыв стихии III
+
+Тысячи молний!
+
+### Открытие сундука I
+
+Превосходно! Это сокровище поднимет боевой дух.
+
+### Открытие сундука II
+
+Отлично. Здесь не осталось ничего ценного.
+
+### Открытие сундука III
+
+Пополните запасы и продолжайте наступление!
+
+### Низкий уровень HP I
+
+Я пойду до конца...
+
+### Низкий уровень HP II
+
+Надо найти точку прорыва!
+
+### Низкий уровень HP III
+
+Почти на пределе...
+
+### Низкий уровень HP компаньона I
+
+Перегруппироваться!
+
+### Низкий уровень HP компаньона II
+
+Назад!
+
+### Без сознания I
+
+Жизнь не вечна.
+
+### Без сознания II
+
+Никаких сожалений...
+
+### Без сознания III
+
+Я побеждена.
+
+### Получен лёгкий удар I
+
+Ещё раз!
+
+### Получен лёгкий удар II
+
+Достойный противник...
+
+### Получен тяжёлый удар I
+
+Невозможно!
+
+### Получен тяжёлый удар II
+
+Противник берёт верх...
+
+### Присоединяется к группе I
+
+Я приведу тебя к победе.
+
+### Присоединяется к группе II
+
+Подходи.
+
+### Присоединяется к группе III
+
+Рядом с тобой!
+
+### Подарок I
+
+Что? Оказывается, существует блюдо вкуснее, чем онигири? Нужно обязательно запомнить его название.
+
+### Подарок II
+
+Я наелась. Спасибо за гостеприимство.
+
+### Подарок III
+
+Десерт не нужен...
+
+### О Кираре...
+
+В последнее время я часто чувствую, что кто-то втайне за мной наблюдает. Но стоит мне обернуться - и рядом никого нет. Что за нелепая шутка... Хм, нэкомата, говоришь? Она могла бы просто подойти ко мне, если ей что-то нужно.
+
+## REPLICAS_EN
+
+### Hello
+
+I am Kujou Sara. You may forget my name, but this you must know: On my watch, Inazuma will always be defended, and the will of the Shogun will always be done. Deity or demon, if you make an enemy of me you will be struck down! Oh, ahem... Don't be so nervous. I have agreed to fight by your side, and I will honor that commitment. I may be uncompromising on matters of great importance, but on most other things, you will find me quite easygoing.
+
+### Chat: Target
+
+To strike your foe takes unity between mind, arrow, and bow.
+
+### Chat: Eternity
+
+To manifest Eternity per the Almighty Shogun's will — that is what I aspire to.
+
+### Chat: Duty
+
+The duty of a tengu warrior is to watch over the mountains and forests, while that of the Kujou Clan is to guard Inazuma. These two are of the same ilk.
+
+### When It Rains
+
+The sound of rain masks the enemy's footsteps. Stay alert.
+
+### When Thunder Strikes
+
+Listen. Thunder speaks the will of the Almighty Shogun.
+
+### When It Snows
+
+I would like to catch a snowflake, but once you have them in the palm of your hand, they melt away all the more quickly.
+
+### When the Sun Is Out
+
+The skies are clear and the sun is bright. Fine weather for a showdown.
+
+### Good Morning
+
+Good morning...? You mean you only just got out of bed? This is already quite late by my standards. I typically rise well before daybreak.
+
+### Good Afternoon
+
+I am not in the habit of resting at noon. But if you wish to do so, I will wait for you.
+
+### Good Evening
+
+Good evening. You know, in Hanamizaka, the sight of the Sakura by night is quite splendid. I never tire of it.
+
+### Good Night
+
+Go and rest. I will stay here and keep watch.
+
+### About Kujou Sara: Tenryou Commission
+
+I am grateful to Takayuki. The Tenryou Commission is all I've ever had to rely on, and I will do everything within my power to defend my family's honor. Hmm? You want to know about the Tenryou Commission's code of conduct? Loyalty to the Raiden Shogun, of course! That is also my life's creed.
+
+### About Kujou Sara: Preparing for War
+
+Am I ready to depart? Let me put it to you like this. If you were to make a habit of asking me this question every time before you move out, you would find that you only receive an answer from me one time out of 10. The other nine times, I would already be fighting fiercely on the front line. Not because I am foolhardy, nor because I lack courtesy, but because the battle never waits till you are ready.
+
+### About Kujou Sara: Aspiration
+
+My aspirations? I thought you already knew: To assist the Almighty Shogun in manifesting Eternity. That is what I aspire to. Hmm? Personal aspirations? It's not something I have ever thought about before...
+
+### About Us: Observation
+
+Though you present an unstable factor in the Almighty Shogun's Eternity, unstable does not have to mean a threat. So I am not your enemy — but I will be watching you at all times.
+
+### About Us: Experiences
+
+When I confiscated people's Visions, I trampled on their ambitions. Now that the Vision Hunt Decree has been repealed, I must atone for my actions. I am led to believe that you can hear those ambitions...The ones echoing within the Visions embedded on the Statue of the Omnipresent God? I'd like you to tell me more about them. Also... your own ambitions, I would like to hear about those as well.
+
+### About the Vision
+
+Only if the gods cast their gaze upon you will you receive a Vision. Since my own Vision was granted by the Almighty Shogun, I shall return it to her in the end, without hesitation and with no regrets.
+
+### Something to Share: Spinning Top
+
+During a previous assignment, a vendor in Hanamizaka gifted me a kind of spinning top called the "Solo." It's a toy that you can play with when you're by yourself. I was quite taken with it, so I kept it. ...You want to play with it together? But that would defy the principle on which the Solo is based... Respectfully, I must decline.
+
+### Something to Share: Local Specialty
+
+Do you know what the most distinctively Inazuman item of all is? No, it is not a blade of any sort. It is a lacquerware carving of the Statue of Her Excellency, the Almighty Narukami Ogosho, God of Thunder. They are hand-made by old and skilled lacquerware craftspeople, and nearly every single home in the city has one. My house, you ask? I have five.
+
+### Interesting Things
+
+Whenever something is bothering me inside, I stand beneath the Sacred Sakura, close my eyes, and try to calm my mind. When I open my eyes again, the falling blossoms will guide my path.
+
+### About Thoma
+
+The Tenryou Commission's estate is very large. It would serve us well to have a fine housekeeper like Thoma who could keep all the numerous and disparate household affairs in order. If he ever tires of working for the Kamisato Clan, I would very much like for him to come to us... though I doubt that day will ever come.
+
+### About Kamisato Ayaka
+
+In the Kujou household, normally the only sound to be heard is that of soldiers training in the dojo. But in the Kamisato household, there is the sound of music, dance, bickering, and laughter... I have heard that Miss Kamisato is skilled in the game of Go, and have always hoped for an occasion to pay her a visit, but... I also worry that someone of a serious demeanor like myself may not quite fit in there.
+
+### About Yoimiya
+
+As long as she is not setting off fireworks in my camp, I will cause her no trouble. Heh, yes, I know — all else aside, her fireworks are spectacular and brilliant, and she deserves all the praise she gets. The issue for me is that fireworks are fleeting in nature. After one brief moment of dazzling light, all that remains is the pitch-black night sky, the same as before. So I often have to caution myself not to become too captivated by this illusory spectacle. It is transient, but Inazuma is eternal, and my mission is to protect Inazuma.
+
+### About Shikanoin Heizou
+
+Shikanoin and I may be colleagues, but I have few positive words to say about him. He seems preoccupied with his personal schemes while official duties take second place. The only reason I have not sought to bring him into line so far is that his investigations deliver results... 
+*sigh* He is such a headache.
+
+### About the Raiden Shogun: Trust
+
+As I'm sure you've heard many times before, the Almighty Shogun seeks Eternity — an existence beyond the dominion of thought and longing. "Abandon mortal ties, strive for an unchanging Eternity"... The Almighty Shogun's manner is always resolute, and I do not always fully grasp the meaning of her words. But this is her decision, and I trust her.
+
+### About the Raiden Shogun: Service
+
+So, the Vision Hunt Decree was repealed... Yes, it seems that you were right. ...Ahem, but this is not to say that the Almighty Shogun made a mistake. She has simply chosen to pursue eternity by a different route. I do not know whether the Shogun has finally found inner peace after protecting Inazuma over all these millennia. All I know is that however perilous the road ahead may become, I will follow her as I have always done.
+
+### About Yae Miko
+
+Guuji Yae's actions often leave me with many questions... Nevertheless, the fact that she is the head shrine maiden of the Grand Narukami Shrine clearly shows the level of trust and approval that the Shogun places in her, and for this reason I also greatly respect her. But... if there ever comes a day when she disobeys the Shogun's will, then please accept my apologies in advance.
+
+### About Sangonomiya Kokomi
+
+She is more proficient as a military strategist than a priestess. The way she uses directives to wage war is almost unheard of. I wonder if I should adopt this technique for commanding the Shogun's Army? Hmm... but this could lead us to a situation whereby war is waged at the negotiation table, each side with their pack of strategy cards, playing them one by one until a victor emerges... Then again, perhaps not.
+
+### About Gorou
+
+Gorou is to Sangonomiya Kokomi as I am to the Raiden Shogun. He is fiercely loyal, and I have great respect for this. It's a shame we're on opposing sides, so we'll never get to work together... Still, I am glad to have an admirable foe. Also... I hear he's a fifth-born son. That just makes it even better.
+
+### About Arataki Itto
+
+Tsk... I can't help but get a little irate when his name comes up. He kicked up a big fuss when I confiscated his Vision, by far the noisiest person... no, the noisiest oni I've ever encountered. He showed he was enough of a man to admit defeat, but the rematch he insisted upon... Tsk... To this day, I still don't want to talk about it. If you really must know, you can go and ask him yourself.
+
+### About Kuki Shinobu
+
+With her talent and qualifications, it's a shame she decided to join the Arataki gang. I must concede, however, that at the very least, her presence has effectively prevented idlers from stirring up trouble and disturbing the public, reducing the burden on the Tenryou Commission.
+
+### More About Kujou Sara: I
+
+You want to know more about me? ...Know what, exactly? I can't discuss Tenryou Commission business with you, that's strictly confidential, and I certainly can't divulge anything relating to the Almighty Shogun. What exactly are you trying to achieve? Hmm? Me on a personal level...? I suppose that's not out of the question, just... unprecedented.
+
+### More About Kujou Sara: II
+
+I lead a relatively simple life when I'm not leading an army into battle. I always get out of bed at 5:05 on the dot. Then I go to the courtyard where I take five deep breaths before walking five laps around it. For breakfast, I typically eat five mouthfuls... Five is my lucky number, so I do things in fives. Do you have some objection to that?
+
+### More About Kujou Sara: III
+
+The thing that gave me the most trouble when enforcing the Vision Hunt Decree was those officers of the Shogun's Army who would abuse their authority to be heavy-handed with those we detained. The will of the Almighty Shogun must be executed, but I do not condone violence against innocent people! I have expressly forbidden such behavior on countless occasions but judging by the outcome, it seems difficult to root out. If you have any ideas on how to tackle it, please share them with me.
+
+### More About Kujou Sara: IV
+
+Although I was fully adopted by the Kujou Clan, I know that Takayuki does not look at me the same way he looks at Kamaji. I might be a little stone-faced sometimes, but even I get lonely... especially when I catch sight of one of my subordinates sharing an intimate moment with their family. ...
+I'm sorry, I have nothing but gratitude for Takayuki. How could I be so disrespectful...
+
+### More About Kujou Sara: V
+
+Now that I think about it, you and I are a good example of achieving concord through conflict. We were on opposite sides — diametrically opposed, you could say. I never imagined I would end up alongside you, either in battle or in long conversation... Fate has been kind to me, no, sorry, ignore that.
+
+### Kujou Sara's Hobbies
+
+To this day, not a day goes by without bow exercises and target practice. From adopting the stance, to aiming, to hearing the twang of the bowstring, none of this is dry and repetitive for me — it is about transcending the me of yesterday! I wouldn't call it a hobby so much as a lifelong discipline.
+
+### Kujou Sara's Troubles
+
+The existence of a tengu warrior's wings is an objective fact, as is the reality that they will take up a certain amount of space when standing side-by-side. So when you say "come closer," I fail to see how exactly I am supposed to achieve that.
+
+### Favorite Food
+
+I have always had a preference for easy-to-carry foods that provide quick and ample sustenance, such as Onigiri. The top choice for replenishing your stamina in the middle of a battle! But that's just a personal preference. I don't dictate what my subordinates have to eat.
+
+### Least Favorite Food
+
+I generally avoid sweet foods, not that I have a strong aversion to them. Why? Well, sweet things put your mind and body at rest, so if I ever eat sweet things it's easy to... Ahem, essentially, I mustn't slack off and that's the end of it. No further questions on this topic!
+
+### Birthday
+
+Excellent timing. I will dispense with the formalities and get straight to the point — do you have a birthday wish? Providing that it does not conflict with the Almighty Shogun's grand cause, I will make every effort to see it come to fruition. To show that I am being completely serious, I will allow you to make not one, but five birthday wishes.
+
+### Feelings About Ascension: Intro
+
+My bow sounds in peak condition. One shot is all I need.
+
+### Feelings About Ascension: Building Up
+
+Power duly assimilated. Ready to receive instruction.
+
+### Feelings About Ascension: Climax
+
+The Shogun's Army might as well just be me!
+
+### Feelings About Ascension: Conclusion
+
+The responsibility for honing my strength and advancing my martial abilities lies with me, and yet you have so diligently and willingly helped me... I will become worthy of this power by harnessing it for a higher cause! Also... the favor of the tengu will always be with you!
+
+### Elemental Skill: I
+
+Quiver!
+
+### Elemental Skill: II
+
+Strike!
+
+### Elemental Skill: III
+
+Flash!
+
+### Elemental Burst: I
+
+Glory to the Shogun!
+
+### Elemental Burst: II
+
+No turning back!
+
+### Elemental Burst: III
+
+Storm the front!
+
+### Opening Treasure Chest: I
+
+Excellent. These spoils will boost morale.
+
+### Opening Treasure Chest: II
+
+Good. Leave nothing of value behind.
+
+### Opening Treasure Chest: III
+
+Restock and press onward!
+
+### Low HP: I
+
+To the bitter end!
+
+### Low HP: II
+
+I will overcome!
+
+### Low HP: III
+
+I'm at my limit...
+
+### Ally at Low HP: I
+
+Regroup!
+
+### Ally at Low HP: II
+
+Retreat!
+
+### Fallen: I
+
+Life is not eternal.
+
+### Fallen: II
+
+I willingly yield...
+
+### Fallen: III
+
+Huh, I am defeated.
+
+### Light Hit Taken: I
+
+Again!
+
+### Light Hit Taken: II
+
+A worthy adversary...
+
+### Heavy Hit Taken: I
+
+Impossible!
+
+### Heavy Hit Taken: II
+
+They're gaining the upper hand...
+
+### Joining Party: I
+
+I will lead us to victory.
+
+### Joining Party: II
+
+Hm. Let's do this.
+
+### Joining Party: III
+
+With you all the way!
+
+### Receiving a Gift: I
+
+So, there is a dish that tastes even better than Onigiri? Then I shall be sure to remember its name.
+
+### Receiving a Gift: II
+
+I have eaten my fill. Thank you for your hospitality.
+
+### Receiving a Gift: III
+
+No need for dessert...
+
+### About Kirara
+
+Recently, I often feel a mysterious gaze from the shadows that disappears as soon as I turn to look. What an absurd prank... Huh? A nekomata, you say? Huh... She should've just come right up to me if she needed something.
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+我的名字是九条裟罗，你记不住也无妨，只需知道：我将永远护卫稻妻、践行鸣神的意志，不论神鬼，遇敌必除！呼…别紧张，既然答应与你并肩，我自当尽心尽职。大义外的事情，我不会计较的。
+
+### 闲聊·正鹄
+
+只有保持心、弓、箭三位一体，才能命中正鹄。
+
+### 闲聊·永恒
+
+为将军大人实现「永恒」，这就是我的「愿望」。
+
+### 闲聊·使命
+
+天狗的职责是护佑山林，九条家的使命是守卫稻妻，两者并无二致。
+
+### 下雨的时候…
+
+雨滴的声音会掩盖脚步声，多加注意吧。
+
+### 打雷的时候…
+
+听见了吗？鸣雷正是将军大人的意志。
+
+### 下雪的时候…
+
+想要留住雪花。但在手心里，它只会融化得更快。
+
+### 阳光很好…
+
+天清气朗，适合演武。
+
+### 早上好…
+
+早上吗？对于我而言，这已经不早了。通常我睁开眼时，天还没亮。
+
+### 中午好…
+
+我没有午休的习惯，但如果你想，我可以等你。
+
+### 晚上好…
+
+晚上好。随口一提，花见坂的夜樱，是不可多得的景致。
+
+### 晚安…
+
+去休息吧，这里有我看着就行。
+
+### 关于裟罗自己·天领奉行
+
+家主于我有恩，「天领奉行」是我唯一的依靠，我会倾尽一切来捍卫家族的荣誉。嗯？你问「天领奉行」的行事准则？那自然是忠于雷电将军大人，这也是我九条裟罗此生唯一的信条。
+
+### 关于裟罗自己·备战
+
+「准备好了吗？」如果在出发前，你有这样确认的习惯。十次中，恐怕只有一次，你能听到我的答复。其余九次，我已经化身利刃，身处前线。这并非蛮勇或不忠，而是战场从来不会留给人喘息的时间。
+
+### 关于裟罗自己·愿望
+
+我的愿望？我原以为你早已知道，辅佐将军大人实现「永恒」就是我的愿望。嗯？为自己所想的愿望？这种东西，我没有想过…
+
+### 关于我们·观察
+
+虽然你对于将军大人的「永恒」而言是个「不安定」的因素，但「不安定」也未必代表「阻碍」。我不会与你为敌，但，我会一直盯着你。
+
+### 关于我们·体会
+
+收缴神之眼时，我漠视了人们的愿望。在眼狩令已然结束的当下，我有责任作出弥补。听说你能听见千手百眼神像上那些神之眼蕴含的愿望？请跟我好好讲讲吧。还有…也跟我说说你的愿望吧，我想知道。
+
+### 关于「神之眼」…
+
+得到神明的注视，才能获得「神之眼」。既然我的「神之眼」是由将军大人所赐，最后，我也会将它还给将军大人，不怨不悔。
+
+### 有什么想要分享·陀螺
+
+上次执行任务时，花见坂的商户送给我一个名为「独乐」的陀螺，那是种「一个人也能玩」的玩具，我觉得挺有意思，就留在了身边。你说…一起玩？那岂不是违背了「独乐」的原则，请容我拒绝。
+
+### 有什么想要分享·特产
+
+知道稻妻最具代表性的特产是什么吗？不对，并非刀具。是「御建鸣神主尊大御所大人像」造型的漆器，由老练的漆器师傅手工打造，城内几乎每家每户都供奉着一座。我的屋里？有五座。
+
+### 感兴趣的见闻…
+
+当我心中有难解之事时，我会伫立在神樱树下闭目养神，再次睁开眼时，飘落的花瓣就会为我指引方向。
+
+### 关于托马…
+
+「天领奉行」的宅邸很大，如果有像托马一样优秀的家政官就好了，一定能将家中纷繁事务打理妥当。要是什么时候，他不再想侍奉神里家了，我很希望他能过来帮忙。不过大概不会有这一天吧。
+
+### 关于神里绫华…
+
+平时在九条家，只有士兵们在道场训练的声响，而每次路过神里家，总会听见舞乐声、打闹声和笑声。听闻神里家的大小姐棋技了得，我一直等候时机，想要登门拜访，却又担心…像我这般严肃的人，是否会与那般氛围格格不入呢。
+
+### 关于宵宫…
+
+只要她不在我的军营里乱放烟花，我是不会找她麻烦的。哼，我知道，抛开别的不谈，她做的烟花的确流光溢彩，值得称赞。只不过烟花易逝，刹那光辉结束后，夜空上留下的依旧是黑暗。所以我时常提醒自己，想要贯彻护佑稻妻的使命，就不能沉沦在这些虚幻的光景中。
+
+### 关于鹿野院平藏…
+
+鹿野院…虽说这位是我的同僚，但我对他没什么好感。总感觉他有很多自己的盘算，没有把组织的事放在第一位。要不是看在他探案有功的份上，早该对他多加管束。
+唉，真是头疼。
+
+### 关于雷电将军·相信
+
+你肯定从不少地方听说过吧？将军大人追求的是无念无执的永恒，舍弃尘世的执念，执着不变的永恒。将军大人的言行决断，我并非每一处都能参透。但既然这是她的决定，我便相信她。
+
+### 关于雷电将军·追随
+
+「眼狩令」废除…嗯，看来你才是对的。咳…但这并不说明将军大人是错的。只是追求「永恒」之路的方式将要改变罢了。不知那位千百年来守护着稻妻的将军大人，如今心中是否平静呢。我只知道，不管道路上有多少险阻，我都会一如既往追随她。
+
+### 关于八重神子…
+
+八重宫司大人的所作所为，经常会让我产生误会…但她既然贵为鸣神大社的大巫女，不难得见将军大人对她的信任与默许，我自然也会敬重她。不过，如果哪天她做了忤逆将军意志的事情，那就恕我冒犯了。
+
+### 关于珊瑚宫心海…
+
+比起「巫女」，她作为「军师」的才能更高。用锦囊打仗，此前实属闻所未闻。我是否也该学习着用这种方法来指挥幕府军呢？嗯…但这样恐怕会演变成双方把锦囊摆上台面，像卡牌一样逐张对战…想想还是不妥。
+
+### 关于五郎…
+
+他之于珊瑚宫心海，正如我之于将军大人。同为坚守忠义之人，我很欣赏他。只可惜立场不同，注定没办法同行。但有这样值得敬佩的对手，还不赖。而且，「五郎」…可是个好名字。
+
+### 关于荒泷一斗…
+
+…说起这位，难免有些头疼。收缴他的神之眼时闹了不少动静，是我见过最聒噪的人…不，最聒噪的鬼。能堂堂正正认输算是有点男子气概，只不过他的复仇之约实在是…到此为止，我不想说了。你如果实在想知道，还是自己去问他吧。
+
+### 关于久岐忍…
+
+以她的才华和资质，留在那个名为「荒泷派」的组织实在有点可惜。但不得不说，有她在，至少有效地阻止了闲散人士滋事扰民，减轻了天领奉行的负担。
+
+### 想要了解裟罗·其一
+
+了解我…请问是指什么？天领奉行的各项事务均为机密，将军大人的事情更是无可奉告，我不明白你有什么意图。嗯？了解我本身？倒也并非不可，只是…从未遇过这种情况。
+
+### 想要了解裟罗·其二
+
+我的生活还算简单，不用领队战斗时，我会准时在凌晨五点零五分起床，在庭院做五组深呼吸后走五圈，早饭习惯吃五口米饭…「五」是能为我带来幸运与胜利的数字，所以我会一直坚持「五」，请问你有什么异议吗？
+
+### 想要了解裟罗·其三
+
+执行眼狩令的过程中，最令我感到棘手的，是那些顶着幕府军头衔动用私刑的官兵。将军大人的任务固然要坚定执行，但我决不允许他们滥伤无辜！我已经三申五令禁止这种行为，就结果而言…依然难以杜绝。你若是有什么好办法，还望赐教。
+
+### 想要了解裟罗·其四
+
+虽然名义上是九条家的养子，但孝行大人看我的眼神，与看镰治时的不同。即使木讷如我，也会偶感寂寞，尤其…在看到部下与亲人相见的温暖场面后。
+抱歉，家主于我有恩，原是不该说这种大不敬的话的…
+
+### 想要了解裟罗·其五
+
+现在回想起来，你我也算「不打不相识」。我们一度处于对立面，说势不两立也不为过，真没想到现在竟然能这样并肩而行，促膝长谈。这样想来，我还真是得到了命运的眷顾…不，没什么。
+
+### 裟罗的爱好…
+
+即使到了现在，素引练习和草靶练习依然是我每天必不可少的训练项目。从身法到瞄准再到听弦，绝不是枯燥的重复，而是对昨日的突破。与其说是爱好，不如说是一生的修行。
+
+### 裟罗的烦恼…
+
+天狗的翅膀是固有的客观存在，并排站的话肯定会占据一定的空间，我不明白你说的「拉近距离」究竟要怎么实现。
+
+### 喜欢的食物…
+
+长久以来，我已经习惯吃饭团之类方便携带、能够迅速饱腹的食物了，这也是战场上恢复体力的首选。不过，这只是个人习惯，我不会要求部下跟我一样。
+
+### 讨厌的食物…
+
+没有厌恶一说，只是我平日会避免吃甜食。问我原因吗？甜食会使人身心放松，一旦吃了就容易…呃，总之，我不能懈怠，话题到此结束，不要再追问了！
+
+### 生日…
+
+来得正好，那我就免去礼节，直接问了。有什么生日愿望吗？只要不与将军大人的大义相悖，我都会竭尽全力帮你完成。为表诚意，今天你可以许五个生日愿望。
+
+### 突破的感受·起
+
+满意的弦音，看我一击即中。
+
+### 突破的感受·承
+
+力量已经融入我体内，随时听命。
+
+### 突破的感受·转
+
+我一个人，就是一支幕府军！
+
+### 突破的感受·合
+
+磨炼自身，突破武艺，本是我的职责所在，但你却倾尽心力相助…我不会辜负这份力量，定将其用于大义！还有，天狗的情谊，与你同在！
+
+### 元素战技·其一
+
+羽移！
+
+### 元素战技·其二
+
+散！
+
+### 元素战技·其三
+
+雷闪！
+
+### 元素爆发·其一
+
+常道恢弘，鸣神永恒！
+
+### 元素爆发·其二
+
+落雷…不悔！
+
+### 元素爆发·其三
+
+雷光千道！
+
+### 打开宝箱·其一
+
+不错的宝物，能够提振士气！
+
+### 打开宝箱·其二
+
+很好，没有放过任何角落。
+
+### 打开宝箱·其三
+
+补充完就上路吧！
+
+### 生命值低·其一
+
+我会坚持到底…
+
+### 生命值低·其二
+
+必须寻找突破点！
+
+### 生命值低·其三
+
+快到极限了…
+
+### 同伴生命值低·其一
+
+不要勉强！
+
+### 同伴生命值低·其二
+
+退下！
+
+### 倒下·其一
+
+生命终非永恒。
+
+### 倒下·其二
+
+我绝无怨言…
+
+### 倒下·其三
+
+哼，是我败了。
+
+### 普通受击·其一
+
+再来！
+
+### 普通受击·其二
+
+不错的对手…
+
+### 重受击·其一
+
+怎么会！
+
+### 重受击·其二
+
+战况不顺…
+
+### 加入队伍·其一
+
+我会带领你获得胜利。
+
+### 加入队伍·其二
+
+哼，来吧。
+
+### 加入队伍·其三
+
+与你并肩！
+
+### 收到赠礼·其一
+
+比饭团更美味的食物…值得记下它的名字。
+
+### 收到赠礼·其二
+
+我吃饱了。多谢款待。
+
+### 收到赠礼·其三
+
+甜点还是不必了…
+
+### 关于绮良良…
+
+近来总觉得暗处有奇怪的视线，待我确认时又消失无踪。真是不明所以的恶作剧。你说…是只猫又？嗯…既然有事找我，堂堂正正报上名来就行。

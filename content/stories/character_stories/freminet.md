@@ -530,3 +530,875 @@ He never told a soul what really happened that day. After all, true heroes aren'
 这时他才发现，一颗如寒晶般明澈的「神之眼」挂在了他的潜水服上。
 
 这件事后来他从没有对其他人讲起，正如英雄不是为了被铭记而成为英雄。
+
+# voice_source_ids: 85000,85001,85002,85003,85004,85005,85006,85007,85008,85009,85010,85011,85012,85013,85014,85015,85016,85017,85018,85019,85020,85021,85022,85023,85024,85025,85026,85027,85028,85029,85030,85031,85032,85033,85034,85035,85036,85037,85038,85039,85040,85041,85042,85043,85044,85045,85046,85047,85048,85049,85050,85051,85052,85053,85054,85055,85056,85057,85058,85059,85060,85061,85062,85063,85064,85065,85066,85067,85068,85069,85070,85071
+
+## REPLICAS_RU
+
+### Привет...
+
+Привет, меня зовут Фремине, я ныряльщик. О, рукопожатия ни к чему. В смысле, давай обойдёмся без церемоний. Кхм, если тебе нужна помощь в исследовании подводных руин или сборе материалов, я могу быть полезным. А в остальном... я, скорее всего, тебя разочарую.
+
+### Поболтаем: Морские глубины
+
+Мне хочется побыть какое-то время на дне моря... В мире, покое и тишине.
+
+### Поболтаем: Принципы
+
+Механизм легко починить, достаточно знать, как он устроен и для чего предназначен. С людьми... всё куда сложнее.
+
+### Поболтаем: Дом
+
+Куда бы ни занесли меня течения, пока горит очаг, всегда будет дом, куда я могу вернуться...
+
+### Когда идёт дождь...
+
+Я всегда становлюсь мрачным во время дождя...
+
+### После дождя...
+
+Дождь кончился? Отлично.
+
+### Когда гремит гром...
+
+Не бойся, Пер. Я не дам тебя в обиду.
+
+### Когда идёт снег...
+
+Может, мне стоит надеть свой водолазный шлем?.. Бр-р. Он хоть немного удержит тепло...
+
+### Когда дует сильный ветер...
+
+Я хочу погрузиться в море.
+
+### Доброе утро...
+
+Доброе утро. У тебя есть для меня задачи на сегодня? Если нет, то я пойду.
+
+### Добрый день...
+
+(Про себя) Все компоненты выглядят целыми. Может, просто пружина износилась? Если так, это легко исправить... (Замечает вас) О, прости, я... Ты что-то сказал? / (Про себя) Все компоненты выглядят целыми. Может, просто пружина износилась? Если так, это легко исправить... (Замечает вас) О, прости, я... Ты что-то сказала?
+
+### Добрый вечер...
+
+Хочешь суп из морепродуктов? Из свежих креветок и моллюсков, только сегодня их набрал. Я не повар, но все ингредиенты свежие, так что вкус должен быть неплохим.
+
+### Спокойной ночи...
+
+Ты иди, а я пока посижу и почитаю. Хм? Что я читаю? Это... это о подводном плавании. Есть куча навыков, которые мне ещё нужно освоить... В общем, спокойной ночи! (Убегает и запирает за собой дверь.)
+
+### О Фремине: Подводное плавание
+
+Как ты знаешь, подводное плавание - одна из немногих вещей, в которых я хорошо разбираюсь. Я провожу больше времени среди тидалий, чем среди людей. Водоросли не задают вопросов и не разочаровываются в тебе, они просто развеваются себе тихонько рядом... Под водой всё куда проще, чем на суше.
+
+### О Фремине: Заводной пингвин
+
+Если ночью мне бывает одиноко, Пер всегда рядом. Я подумал, что и другим детям могут пригодиться игрушки-компаньоны. Поэтому сделал кучу заводных пингвинов и отнёс их в Мастерскую заводных механизмов Лешо, чтобы выставить на продажу... Покупатели хорошо отзывались о моих пингвинах, но продать удалось не так уж много. И большинство покупателей были взрослыми...
+
+### О нас: Приказы
+
+Приказы словно пружина, двигающая меня вперёд. Без них я и не знаю, чем заняться. Так что если я тебе для чего-то нужен, не стесняйся.
+
+### О нас: Товарищество
+
+Расскажи мне побольше о себе. Какие у тебя увлечения, любимая еда, любимый цвет, какое животное тебе хотелось бы завести... Раз уж мы компаньоны, значит, связаны друг с другом теснее, чем шестерёнки в механизме.
+
+### Глаз Бога...
+
+С Глазом Бога я получил возможность нырять без шлема. Но... я без него не могу. Он отгораживает меня от шума внешнего мира и даёт ощущение безопасности. Мой Глаз Бога, Пер и шлем... В них я черпаю силы с каждым вдохом.
+
+### Давай поделимся...
+
+Если смотреть на небо из морской глубины, то даже солнце не так режет глаза. Вот почему мне нравится там, внизу.
+
+### Интересные вещи: Берилловые ракушки
+
+На глубине я видел множество берилловых ракушек. Порой я теряю счёт времени, разглядывая их замысловатые завитки. Эти окаменелости - всё, что осталось от прекрасных древних существ. Интересно, как скоро весь мир станет частью этого подводного музея?
+
+### Интересные вещи: Темнозвёздники
+
+Темнозвёздники прилепляются к разным объектам - рифам, докам... Но чаще всего к большим подводным сооружениям. Может, люди влекут их, как цицинов манит свет?
+
+### Об «Отце»: Слёзы
+
+«Отец» не любит, когда дети плачут. «Отец» говорит, что слёзы появляются от эмоций и слабости. Поэтому, когда «Отец» меня ругает, я сдерживаюсь, пока не окажусь под водой, где никто не услышит мой плач. По крайней мере, там мне могут составить компанию цветы ромарина.
+
+### Об «Отце»: Обучение
+
+Когда я был маленьким, меня учили, что мы должны быть готовы отдать жизнь за семью. Но когда власть перешла в руки «Отца», подход изменился. По его словам, каждый из нас важен, мы должны ценить собственную жизнь и развивать свои способности, чтобы занять прочное место в этом мире... Вообще-то всё это гораздо труднее, чем просто выполнять приказы.
+
+### О Лини: Магические шоу
+
+Дома Лини постоянно показывает мне фокусы. Всякий раз, когда я улыбаюсь, он радостно ухмыляется и говорит, что этот трюк точно придётся зрителям по нраву... Я правда так редко улыбаюсь?
+
+### О Лини: Маска
+
+Лини - лидер нашей команды и ведёт себя как старший брат... Но иногда я вижу, что он храбрится через силу. Как-то я попытался заговорить с ним об этом - сказал, что ему ни к чему всё время носить маску. Но он всё отрицал, и в итоге мы поссорились... С тех пор я больше не поднимаю с ним эту тему.
+
+### О Линетт...
+
+Лини и Линетт отлично выполняют задания, с которыми я бы ни за что не справился. Линетт часто утешает меня и говорит, что у каждого свои сильные стороны, а ещё напоминает, как все полагаются на меня, когда нужно починить что-то сломанное дома... Если бы только я был хоть вполовину так же хорош в чём-нибудь ещё...
+
+### О Нёвиллете...
+
+Однажды, когда я поднялся на поверхность после погружения, то увидел на берегу верховного судью. Не знаю, было ли у него что-то на уме или он просто наслаждался видом... Разумеется, я не стал спрашивать. Я лишь на долю секунды задержал на нём взгляд, прежде чем снова исчезнуть под водой. Кажется, я не слишком хорошо тогда поступил... Эх.
+
+### О Фурине: Уход от ответа
+
+Хм... Не думаю, что могу высказать развёрнутое мнение о Гидро Архонте, тут я пас. Я хочу сказать - я видел её всего пару раз, наверняка мои представления о ней необъективны.
+
+### О Фурине: Вердикт
+
+...Ладно, пусть будет так. Я видел, как ведёт себя Гидро Архонт в зале. Мне кажется, она харизматичный оратор, но больше всего меня интригует её молчание. Её глаза... Они как тьма на дне океана - таят множество секретов и боятся приближения людей... Ох! Прости, я... Я дал волю воображению.
+
+### О Навии...
+
+Лини всё мне рассказал. Я так благодарен вам с Навией за сердечность и великодушие. Передай ей мою благодарность, когда вы в следующий раз встретитесь... А? Самому передать? Я... Ой, у меня что-то живот прихватило, прости, мне нужно спешить.
+
+### О Шарлотте...
+
+Шарлота почему-то не верит мне в том, что я всего лишь обычный ныряльщик. Она убеждена, что в моём прошлом полно сенсаций, которые только и ждут, чтобы она их раскопала... Неужели я действительно такой плохой лжец?
+
+### О Клоринде...
+
+Я обязан Клоринде жизнью, но она говорит, что ничего не хочет от меня взамен... Это не слишком приятное чувство - причинить кому-то столько хлопот и ничем не отблагодарить, кроме пустых слов...
+
+### О Шеврёз
+
+Я слышал, что госпожа Шеврёз - постоянная клиентка мастерской «Бомонт». Она всегда покупает там самые дорогие и современные компоненты для оружия. Если когда-нибудь я заработаю достаточно моры, может, тоже смогу себе позволить купить новые детали для Пера.
+
+### Узнать больше о Фремине I
+
+Извини, я не могу придумать ни одной хорошей истории... Те, которые я знаю, только испортят тебе настроение.
+
+### Узнать больше о Фремине II
+
+Моё прошлое... Если ты пообещаешь не смотреть на меня или позволишь мне надеть водолазный шлем... Может быть, тогда я смогу попытаться что-нибудь рассказать. Дело не в психологии... Просто я так долго избегал своего прошлого, что теперь мне бывает непросто о нём говорить...
+
+### Узнать больше о Фремине III
+
+В одной книге я читал, что когда люди умирают, они превращаются в звёзды и смотрят на нас с небес... Я ненавижу своего настоящего отца. Он бросил нас с мамой, так что мне нет до него дела. Но вот мама... Если она посмотрит с небес и увидит, что после стольких лет в новом доме ребёнок, которого она защищала ценой собственной жизни, всё ещё не может постоять за себя... Она... разочаруется во мне?
+
+### Узнать больше о Фремине IV
+
+Я не люблю вспоминать о своём пребывании в Доме очага при прошлом директоре. Скажу только... Именно тогда возникла моя привычка прятаться в морских глубинах. «Отец» изменил не только меня, но и мой взгляд на нашу семью. Потом к нам присоединились Лини и Линетт... и впервые в жизни я обрёл настоящих товарищей.
+
+### Узнать больше о Фремине V
+
+Когда-то я дал клятву, что сделаю всё возможное, чтобы защитить семью. Теперь я придерживаюсь этой клятвы не потому, что это приказ прошлого директора, не потому, что этого ждёт от меня «Отец», а потому, что таково моё собственное желание. Пожалуйста, не выдавай секреты нашей семьи... и моё желание.
+
+### Хобби Фремине
+
+Кроме подводного плавания, мне нравится в свободное время заниматься разбором и усовершенствованием разных механизмов. Ещё я собираю детали и иногда делаю из них новые заводные игрушки. Пер? Нет, Пер для меня скорее член семьи, мы с ним вместе выросли... Нет, серьёзно. Я всегда возился с ним, добавляя функциональности... От души надеюсь, что однажды Пер сможет свободно парить в небесах.
+
+### Беспокойство Фремине...
+
+...Сложный вопрос. У меня нет никаких критических проблем, требующих решения, но в то же время есть длинный список мелких неурядиц, которые всё время дают о себе знать. Если бы я был заводной игрушкой на полке, я бы даже не знал, с чего начать починку... Но в конце концов, я думаю, всё сводится к одному... Я просто слишком слаб.
+
+### Любимая еда...
+
+Морепродукты. Больше рыба и креветки, но крабы тоже ничего. Я очень рад, что Лини и Линетт разделяют мои вкусы, потому что так мы можем есть вместе... Мне не важно, как приготовлены ингредиенты. Я оставляю это на их усмотрение.
+
+### Нелюбимая еда...
+
+Не переношу кофе. Стоит выпить полчашки, и вскоре у меня начинает бешено колотиться сердце и я не могу успокоить дыхание. Все говорят, что кофе повышает уровень энергии, но для меня это пытка...
+
+### Подарок I
+
+Это вкусно. Так вкусно, что я не хочу съесть все за раз.
+
+### Подарок II
+
+Готовка - твоё хобби? Это видно. Чувствуется, как много заботы ты вкладываешь в эти вкусные блюда.
+
+### Подарок III
+
+Прости... На мгновение мне хотелось убежать и спрятаться. Но это было бы нечестно по отношению к тебе.
+
+### День рождения...
+
+Хочешь отправиться куда-нибудь вместе со мной? Я знаю одно местечко, там потрясающий вид. Мне кажется, даже волшебнее, чем места, которые описывают в книгах. У меня там тайное убежище, где я держу несколько светящихся морских существ в качестве домашних питомцев... Мне просто хочется подарить тебе такой день рождения, какого у тебя ещё никогда не было, а потом уже произнести поздравления... Дашь ли ты мне шанс это сделать?
+
+### Чувство возвышения: Начало
+
+Ты уверен? / Ты уверена?
+
+### Чувство возвышения: Нарастание
+
+Тебе не нужно этого делать, ты же знаешь. Я в любом случае буду тебе подчиняться.
+
+### Чувство возвышения: Кульминация
+
+Твои время и энергия - крайне ценный ресурс. Не лучше ли тебе потратить их на кого-то ещё?
+
+### Чувство возвышения: Окончание
+
+Смогу ли я когда-нибудь тебе за это отплатить? Даже не знаю, что сказать, я... Я в таких делах мало что смыслю, так что боюсь сказать что-то глупое, расстроить тебя и заставить обо всём этом пожалеть... Прости, можно я... не буду ничего говорить, просто недолго побуду здесь с тобой?
+
+### Элементальный навык I
+
+Пер!
+
+### Элементальный навык II
+
+Пора включаться.
+
+### Элементальный навык III
+
+Наступает стужа.
+
+### Взрыв стихии I
+
+Начинаю погружение.
+
+### Взрыв стихии II
+
+Запуск ликвидации.
+
+### Взрыв стихии III
+
+Идёт счисление пути.
+
+### Открытие сундука I
+
+Если тут есть железки и детали, которые тебе не нужны, я заберу.
+
+### Открытие сундука II
+
+Здесь полно сокровищ.
+
+### Открытие сундука III
+
+Нужно отсортировать предметы по типу и сохранить для дальнейшего использования.
+
+### Низкий уровень HP I
+
+Бывало и хуже.
+
+### Низкий уровень HP II
+
+С этим я справлюсь...
+
+### Низкий уровень HP III
+
+Главное - не сбиваться с дыхания.
+
+### Низкий уровень HP компаньона I
+
+Тебя ранили...
+
+### Низкий уровень HP компаньона II
+
+Может быть... тебе стоит...
+
+### Без сознания I
+
+Некуда возвращаться...
+
+### Без сознания II
+
+Я тону?..
+
+### Без сознания III
+
+«Отец»...
+
+### Получен тяжёлый удар I
+
+О нет...
+
+### Получен тяжёлый удар II
+
+Не надо...
+
+### Присоединяется к группе I
+
+Да, возьми меня с собой.
+
+### Присоединяется к группе II
+
+В твоём распоряжении.
+
+### Присоединяется к группе III
+
+Мне всё равно некуда идти...
+
+## REPLICAS_EN
+
+### Hello
+
+Hello, my name's Freminet, I'm a diver... Oh, no need to shake hands. I mean, no need to be so formal. Ahem, if you need help surveying underwater ruins or salvaging materials, I can be of some use to you. But for anything else... You might find me a disappointment.
+
+### Chat: Ocean Depths
+
+I want to spend some time at the bottom of the sea... In peace and total silence.
+
+### Chat: Principles
+
+It's easy to fix a machine when you know how it's built and how it works. But people... they're much more difficult.
+
+### Chat: Home
+
+Wherever the tide takes me, so long as the light of the hearth still shines, I'll always have a home to return to...
+
+### When It Rains
+
+I always get so gloomy when it rains...
+
+### After the Rain
+
+The rain's stopped? Okay, that's good.
+
+### When Thunder Strikes
+
+Don't be scared, Pers. I'll keep you safe.
+
+### When It Snows
+
+Maybe I should put on my diving helmet to... keep me warm...
+
+### When the Wind Is Blowing
+
+I'd rather be diving in the sea.
+
+### Good Morning
+
+Morning. Do you have an assignment for me today? If not, I'll head out.
+
+### Good Afternoon
+
+All the components look intact. Maybe it's just a worn-out spring? If so, that's an easy fix... Oh, sorry, I was... Did you say something?
+
+### Good Evening
+
+Want a bowl of seafood soup? It's made with shrimp and shellfish caught earlier today. I'm no cook, but the ingredients are fresh, so... it shouldn't taste too bad.
+
+### Good Night
+
+You go ahead, I'm gonna stay up and read for a while. Hmm? What am I reading? It's, um... it's about diving. There's a bunch of skills that I still need to... Anyway, night!
+
+### About Freminet: Diving
+
+As you know, diving is one of the few things I'm any good at. I spend more time among the Tidalga than I do talking to people. They don't ask you questions or act disappointed, they just float there quietly with you... The underwater world is much simpler than the world of dry land.
+
+### About Freminet: Clockwork Penguin
+
+Whenever I feel lonely at night, Pers is the one who's always there for me. I thought that maybe some other kids might want a toy for company too, so I made a bunch of clockwork penguins and took them to Leschots's workshop to put on sale... Apparently, the customer feedback was good, but they didn't sell too many of them. And most of the buyers were adults...
+
+### About Us: Orders
+
+Orders to me are like a clockwork spring driving me forward, and I don't know what to do with myself without them. So if there's anything you need me for, please don't hesitate to ask.
+
+### About Us: Companionship
+
+Tell me a bit more about yourself. Your hobbies, favorite food, favorite color, what animal you'd like to have as a pet... If you and I are companions, it means we're connected, more closely than gears in a machine.
+
+### About the Vision
+
+After I got my Vision, I didn't need my helmet to go diving anymore. But... I can't bear to be without it. It cuts me off from the noise of the outside world, and makes me feel safe. My Vision, Pers, and my helmet... I draw my strength from them every time I take a breath.
+
+### Something to Share
+
+If you look up at the sky from far enough underwater, even the sun is soft on the eyes. That's why I like it down there.
+
+### Interesting Things: Beryl Conches
+
+I've seen lots of Beryl Conches down in the depths. The patterns are so intricate, I often lose track of the time just staring at them. These fossils are all that's left of these beautiful creatures... I wonder how long before the rest of the world becomes part of this underwater museum, too?
+
+### Interesting Things: Lumitoile
+
+Lumitoile attach themselves to many things. Sometimes on the reefs or docks, but most commonly on large underwater buildings. Do you think they're drawn to humans like Cicins are drawn to the light?
+
+### About "Father": Tears
+
+"Father" doesn't like it when children cry. "Father" says tears are the product of emotion and weakness. So when "Father" scolds me, I hold it in until I'm underwater, where no one can hear me cry. At least I have the Romaritime Flowers to keep me company.
+
+### About "Father": Teaching
+
+When I was little, I was taught that we should be ready to give our lives for our family. But when "Father" took control, this philosophy changed. "Father" said that every one of us is important, and we have to value our own lives, be our strongest selves, and stand on our own two feet in this world... But actually, all of that's much harder than just following orders.
+
+### About Lyney: Magic Shows
+
+At home, Lyney's always showing me his magic tricks. Whenever I smile, he grins excitedly and says the audience is definitely going to love this one... Do I really smile so rarely?
+
+### About Lyney: Mask
+
+Lyney is our team leader, and acts like everyone's older brother... But I can tell that he puts on a brave face sometimes. I tried to talk to him about it once — told him that he doesn't need to wear a mask all the time. But he denied it, and we ended up having an argument... Since then, I've never brought it up with him again.
+
+### About Lynette
+
+If you assigned Lyney and Lynette with the same mission, they'd both do an outstanding job. But not me. Lynette is always comforting me, saying that everyone has their strengths, and how everyone relies on me to fix things around the house when they break down... If only I was half as good at anything else.
+
+### About Neuvillette
+
+One day when I surfaced after a dive, the Chief Justice was just standing there alone on the beach. I don't know whether he had something on his mind, or was just enjoying the view... Obviously, I didn't ask. I only locked eyes with him for a split-second before disappearing back underwater. Thinking back, I must have looked so guilty... *sigh*
+
+### About Furina: Avoiding the Question
+
+Uh... I'm in no position to give a well-rounded opinion on the Hydro Archon, so... I'll pass. I mean, I've only seen her a few times... so I'm sure I have a somewhat skewed view of her.
+
+### About Furina: Verdict
+
+...Okay fine. I've seen what the Hydro Archon's like when she's sitting in the audience. In my view, she's a very charismatic speaker, but it's her silences that intrigue me more. Her eyes... they're like the darkness at the bottom of the ocean. Hiding a deep secret, afraid of anyone ever getting close to her... Ah! Sorry, I... I let my imagination get the better of me.
+
+### About Navia
+
+Lyney told me everything. I'm so grateful to you and Navia for your warmth and generosity. Please pass on my thanks when you see her... Huh? Tell her myself? ...Uh, I, uh... Ooh, I've suddenly got stomach cramps — sorry, gotta dash.
+
+### About Charlotte
+
+For some reason, Charlotte never believes me when I say I'm just an ordinary diver. She's convinced that my past is full of news stories waiting for her to dig up... Am I really that bad of a liar?
+
+### About Clorinde
+
+I owe Clorinde my life, but she says she doesn't want anything from me in return... It's not a nice feeling, having put someone out so much, and only being able to offer empty thank-yous in return.
+
+### About Chevreuse
+
+I hear that Chevreuse is a regular customer of Beaumont Workshop. She always purchases the most expensive and advanced components for her musket. If I make enough Mora, maybe one day I can afford to upgrade Pers's components.
+
+### More About Freminet: I
+
+I'm sorry, I can't really think of any good stories to share... the ones I do know will just bring down your mood.
+
+### More About Freminet: II
+
+My past... If you promise not to look at me, or you'll let me wear my diving helmet... Maybe then I could try to tell you a little more. Personality's one part of it, but... the bigger reason is that I've been avoiding my past for so long now, it might be hard to talk about...
+
+### More About Freminet: III
+
+I read in a book that when people die, they turn into stars and watch over us from the sky... I hate my real father. He abandoned my mother and me, so I don't care about him. But... if my mother looks down from the sky and sees that, after all this time in his new home, the child she protected with her life is still so timid that he can't fend for himself... Will she be... disappointed in me?
+
+### More About Freminet: IV
+
+I don't like thinking about my time in the House of the Hearth under the previous director. All I'll say is... My habit of retreating into the sea started back then. "Father" changed not only me, but my view of our family, too. Then Lyney and Lynette joined the family... and for the first time ever, I gained some genuine companions.
+
+### More About Freminet: V
+
+I once swore an oath that I would do whatever it takes to protect this family, and never look back. Now, I stay true to this oath not because it's the previous director's orders, or because it's what "Father" expects of me, but because it's my own desire. Please keep our family's secret safe... so that I can keep my promise.
+
+### Freminet's Hobbies
+
+Apart from diving, my main hobby is dismantling mechanical things and modifying them. I also collect spare parts, and sometimes I build new clockwork toys out of them. ...Pers? No, Pers is more like family to me. We grew up together... No, I'm serious. I'm always tinkering with it to add more functionality... I truly hope that a day will come when Pers can fly free into the sky.
+
+### Freminet's Troubles
+
+...That's a tough question. I don't have any critical issues that need addressing, but at the same time, there's a long laundry list of minor things which all take their toll. If I was a clockwork toy on the shelf, I wouldn't even know where to start trying to fix me up... But at the end of the day, I guess it all comes down to one thing... I'm just too weak.
+
+### Favorite Food
+
+Seafood. Mainly fish and shrimp, crab's okay too. I'm really glad that Lyney and Lynette share my tastes, because it means we can eat meals together... I don't mind how the ingredients are cooked, though. I leave that decision up to them.
+
+### Least Favorite Food
+
+I can't handle coffee. More than half a cup and before long, my heart starts racing and I can't calm my breathing down. Everyone says that coffee can boost your energy levels, but to me, it's torture...
+
+### Receiving a Gift: I
+
+It's good. So good, I don't want to eat all of it in one go.
+
+### Receiving a Gift: II
+
+Is cooking one of your hobbies? It shows. I can taste how much care you put into these delicious meals.
+
+### Receiving a Gift: III
+
+Sorry... For a moment there I had the urge to run for my life. But that wouldn't be fair to you.
+
+### Birthday
+
+Would you be willing to come with me somewhere? There's this place I know where the scenery is spectacular. I think it's even more magical than a fantasy novel. I have a secret hideout there, and I keep some glowing sea creatures as pets... I just want to give you a birthday experience like you've never had before, and then give you my birthday wishes... Will you give me the chance to do that?
+
+### Feelings About Ascension: Intro
+
+Are... Are you sure?
+
+### Feelings About Ascension: Building Up
+
+You didn't have to do this for me, you know. I'd obey you regardless.
+
+### Feelings About Ascension: Climax
+
+Your time and energy is a precious resource. Shouldn't you... spend it on someone else?
+
+### Feelings About Ascension: Conclusion
+
+How can I ever repay you for this? I don't know what to say, I... I don't have much practice at this, and right now I'm terrified of saying something stupid and upsetting you... and making you regret this whole thing... I'm sorry, is it okay if I just... say nothing, and just stay here with you for a while?
+
+### Elemental Skill: I
+
+Pers!
+
+### Elemental Skill: II
+
+Get in gear.
+
+### Elemental Skill: III
+
+Frost is coming.
+
+### Elemental Burst: I
+
+Going under.
+
+### Elemental Burst: II
+
+Commencing cleanup.
+
+### Elemental Burst: III
+
+Dead reckoning.
+
+### Opening Treasure Chest: I
+
+If there's any scrap metal or parts you don't want, I'll take them.
+
+### Opening Treasure Chest: II
+
+There's a lot of treasure here.
+
+### Opening Treasure Chest: III
+
+Sort the items by type and store them for future use.
+
+### Low HP: I
+
+I've had worse.
+
+### Low HP: II
+
+I can take it...
+
+### Low HP: III
+
+Just keep breathing...
+
+### Ally at Low HP: I
+
+You're wounded...
+
+### Ally at Low HP: II
+
+Um, maybe... You should...
+
+### Fallen: I
+
+No home... to return to...
+
+### Fallen: II
+
+Sinking... feeling...
+
+### Fallen: III
+
+"Father"...
+
+### Heavy Hit Taken: I
+
+Oh no...
+
+### Heavy Hit Taken: II
+
+Please, no...
+
+### Joining Party: I
+
+Yes, take me with you.
+
+### Joining Party: II
+
+At your command.
+
+### Joining Party: III
+
+Well, I've got nowhere to go...
+
+## REPLICAS_ZH
+
+### 初次见面…
+
+你好，我叫菲米尼，是一名潜水员…啊，握手的话就不必了…我是说，不用那么客气。咳、如果你需要勘测水下遗迹或者打捞素材的话，我能为你所用…但其他方面的指派，我可能会让你失望…
+
+### 闲聊·海底
+
+想去无人的海底，一个人安静地待着…
+
+### 闲聊·原理
+
+熟悉机械装置的构造与原理，就能够排查故障…但要熟悉一个人却难得多。
+
+### 闲聊·家
+
+无论我在何处漂流，只要那盏炉火亮着，我就有家可归…
+
+### 下雨的时候…
+
+每到雨天，心情都会沉重不少…
+
+### 雨过天晴…
+
+雨停了吗？那就好。
+
+### 打雷的时候…
+
+佩伊，我会保护你的。不要怕。
+
+### 下雪的时候…
+
+我是不是应该把潜水头盔戴上…保暖…
+
+### 刮大风了…
+
+想钻进海里。
+
+### 早上好…
+
+早。请问，有需要我执行的任务吗？没有的话，我准备出门了。
+
+### 中午好…
+
+机械内部没有故障，是发条老化了吗？那修起来简单…抱歉，我…呃…你刚才和我说了什么吗？
+
+### 晚上好…
+
+要来一碗海鲜汤吗？是用今天现捕的虾和贝类做的。我不怎么会做饭，但食材新鲜，味道…应该不会太差。
+
+### 晚安…
+
+你休息吧。我还想看一会儿书再睡。欸？什么书？这个…唔，是有关潜、潜水的书，有很多技术要点要学…总之，先道晚安了！
+
+### 关于菲米尼自己·潜水
+
+如你所知，我为数不多的强项是潜水，我和汐藻打交道的时间比和人说话的时间还多。它们不会责问，不会流露失望，只安静地陪你一同漂流…水下的世界要比陆上简单许多。
+
+### 关于菲米尼自己·发条企鹅
+
+在我感到孤独的夜晚，是佩伊给了我最珍贵的陪伴。我想，或许有其他孩子像我一样，需要一位陪在身边的玩具伙伴。于是，我做了一批发条企鹅，拿去莱舒的发条工坊寄售…听说口碑不错，但销量一般，来购买的反倒是成年人居多…唉。
+
+### 关于我们·命令
+
+「命令」就像是背在我身后的发条，离开它反而令我不习惯。如果有任何对我的安排，请你一定不要顾虑。
+
+### 关于我们·同伴
+
+让我多了解一点你的事吧。你的爱好、口味，喜欢的颜色，想养的动物…既然你是我的「同伴」，那我们之间的联结，就比齿轮与机关更紧密了。
+
+### 关于「神之眼」…
+
+自从有了「神之眼」，我潜水已经不再需要使用头盔。但我却离不开它。它将我与外界的嘈杂隔绝，让我感到安全。「神之眼」、头盔…还有佩伊，我的呼吸，一直在借助它们的力量。
+
+### 有什么想要分享…
+
+透过海水望天，阳光也不会那么刺眼。所以，我才总是愿意待在水里。
+
+### 感兴趣的见闻·苍晶螺
+
+我曾在水下见到过许多苍晶螺，盯着那些精致细巧的纹路，不知不觉就忘记了时间。这么美丽的生物已经变成了化石，那我们周围的景色，是不是早晚也会沉入深海之下呢？
+
+### 感兴趣的见闻·幽光星星
+
+幽光星星总是会依附在其他东西之上，有时是礁石，有时是码头，更多时候则是庞大的水下建筑群。你说，它们是不是就像飞萤靠近光源那样，对人类心存向往呢？
+
+### 关于「父亲」·眼泪
+
+「父亲」不喜欢孩子们哭，说眼泪是感性和软弱的混合物。被「父亲」训斥过后，我总要忍到水下才敢哭出来。还好海露花会陪着我。
+
+### 关于「父亲」·教导
+
+小时候，我受到的教育是：为了家，我们应该献出自己的生命。自从「父亲」掌权后，这一理念产生了变化。「父亲」说我们每一个人都很重要，必须得重视自己的生命，发挥所有力量，在这个世界上站稳脚跟…说实话，这比单纯服从命令难多了。
+
+### 关于林尼·表演
+
+在家里，林尼时常会向我表演一些小魔术。一旦我笑了的话，他就会特别开心，说那个魔术肯定会让观众都满意…我平时真的笑那么少吗？
+
+### 关于林尼·面具
+
+林尼是我们小队中的领袖，总是以哥哥的身份自居…我能看出他硬撑的时候，也尝试过劝他不要一直戴着面具…但他不肯承认，我们还起过争执…从那之后，我就不再触碰这个话题了。
+
+### 关于琳妮特…
+
+同样的任务，如果交给林尼或者琳妮特，他们就能完成得很出色，而我却办不好。琳妮特总宽慰我说大家各有所长，家里那些突然出故障的器械都在靠我维修…哈，我在其他方面也能这么得心应手就好了。
+
+### 关于那维莱特…
+
+有次我浮出海面时，正巧见到最高审判官大人独自站在海边。他或许在想心事，或许在看风景…我当然没问。我只和他匆匆对了一眼就潜回海里了。事后想想像是做了亏心事一样…唉。
+
+### 关于芙宁娜·回避
+
+我…我没法客观地评价水神大人，还是…不说了吧。况且我和她接触得也不多…看法肯定会有偏颇。
+
+### 关于芙宁娜·判断
+
+好吧，我见过水神大人坐在观众席上的样子。在我看来，她说话的时候非常引人瞩目，沉默的时候反倒更耐人寻味…她的眼睛，就像不透光的海底那样，藏着深深的秘密，害怕他人的碰触…我、我乱说的…对不起。
+
+### 关于娜维娅…
+
+我听林尼聊了事情经过，很感谢你和娜维娅小姐的慷慨与热心，也请代我向她转达…欸？当面道谢？我、我有点…唔，肚子突然疼起来了，抱歉先走一步。
+
+### 关于夏洛蒂…
+
+不知道为什么，夏洛蒂小姐始终不愿相信我是一名普通的潜水员，反倒觉得我的身世藏有值得报道的「新闻」…是我说谎的时候不够自然吗？
+
+### 关于克洛琳德…
+
+克洛琳德小姐对我有救命之恩，却说不需要我做任何「报答」。给别人添了麻烦，到头来只能空洞地道谢…这种感觉，真不好受啊。
+
+### 关于夏沃蕾…
+
+听说夏沃蕾小姐常去博蒙特工坊，为火枪购置最昂贵精细的零件。我要是能挣到很多钱的话，说不定也能给佩伊换上性能更好的零件了吧。
+
+### 想要了解菲米尼·其一
+
+请原谅。我讲不出什么有趣的故事…说了也会扫你兴致…
+
+### 想要了解菲米尼·其二
+
+要是你答应不看着我，或者允许我戴上头盔的话…我可以试着说下去。心理素质是一方面…但更主要的原因，恐怕是我习惯了逃避自己的过去…
+
+### 想要了解菲米尼·其三
+
+书上说，人死后会化作天上的星辰，遥望人世…我讨厌自己的亲生父亲，他抛下了我和母亲，我不在乎他…但如果母亲在天上看见她用生命保护下来的孩子如此怯弱，躲在另一个屋檐下那么久，也没有成长为独当一面的样子，她会不会…对我感到失望呢？
+
+### 想要了解菲米尼·其四
+
+我不太想回忆前任院长管理时期的「家」。只能说…躲进海里的习惯，就是那时候养成的…但「父亲」不仅改变了我，也改变了我对「家」的看法…后来林尼和琳妮特也成为了我们的「家人」…那是我第一次遇到能交心的伙伴。
+
+### 想要了解菲米尼·其五
+
+我曾发誓，我会不惜一切地守护现在这个家，一丝一毫都不退让。它不再是前任院长的命令，或者「父亲」的期待…而是我自己的愿望。请你保守「家」的秘密…还有我的愿望。
+
+### 菲米尼的爱好…
+
+除了潜水之外，我还喜欢拆解和改造机械，有时也会把收集来的材料制作成新的发条玩具。佩伊？它更像是我的家人，和我一起长大…是真的。我一直在为它增添更多功能…真希望未来有一天，它能够自由地飞上高空。
+
+### 菲米尼的烦恼…
+
+…真难回答啊。既可以说我没有亟待解决的问题，又可以说我身上麻烦重重。即使将我自己看作一台橱窗里的发条玩偶，我也想不出要从哪里开始维修…症结可能还是会落回…我太弱小了吧。
+
+### 喜欢的食物…
+
+鱼、虾之类的海鲜…螃蟹也可以。我很高兴自己和林尼、琳妮特他们口味相近，大家能吃到一起去…在烹饪形式的选择上，我会尊重他们的意见。
+
+### 讨厌的食物…
+
+我不太能喝咖啡。一旦超过半杯，没过多久，心脏就会跳得很快，呼吸也没法恢复平稳。人们常说咖啡有提神的效用，但对我来说，它更像是一种折磨…
+
+### 收到赠礼·其一
+
+好吃。好吃到让人舍不得吃完。
+
+### 收到赠礼·其二
+
+烹饪是你的爱好吗？所以你才会不断投入心血，做出这些美味的菜肴。
+
+### 收到赠礼·其三
+
+对不起，刚才我有一瞬间想要逃走。明明是你辛苦做出来的东西…
+
+### 生日…
+
+你愿意跟我去个地方吗？我知道一片水域，景色特别漂亮，甚至比书里描绘的世界更加梦幻。我在那里有个秘密基地，还养了一些会发光的海洋生物…我想陪你度过一个不一样的生日，最后再说出那句祝福…能给我这个机会吗？
+
+### 突破的感受·起
+
+真的…可以吗？
+
+### 突破的感受·承
+
+即使不为我做这些，我也会服从你的。
+
+### 突破的感受·转
+
+你的时间和精力非常宝贵，拿去陪别人会更好…吧。
+
+### 突破的感受·合
+
+我不知道如何才能报答你，要怎样表达才足够传递自己的想法…我…我平时练习太少，现在非常害怕会说错话…让你不开心，让你觉得后悔…对不起，我可以什么都不说，就在你身边待一会儿吗？
+
+### 元素战技·其一
+
+佩伊！
+
+### 元素战技·其二
+
+运转吧。
+
+### 元素战技·其三
+
+寒潮将至。
+
+### 元素爆发·其一
+
+下潜…就绪。
+
+### 元素爆发·其二
+
+清剿…开始。
+
+### 元素爆发·其三
+
+该道别了。
+
+### 打开宝箱·其一
+
+如果有你不需要的金属碎片或者零件，可以丢给我。
+
+### 打开宝箱·其二
+
+好多宝藏。
+
+### 打开宝箱·其三
+
+分类存放吧。
+
+### 生命值低·其一
+
+区区疼痛而已。
+
+### 生命值低·其二
+
+我还能承受…
+
+### 生命值低·其三
+
+要恢复…呼吸节奏。
+
+### 同伴生命值低·其一
+
+你的伤口…
+
+### 同伴生命值低·其二
+
+你…要不要…
+
+### 倒下·其一
+
+我还是…无处可归…
+
+### 倒下·其二
+
+要沉入海底了吗？…
+
+### 倒下·其三
+
+「父亲」…
+
+### 重受击·其一
+
+不好…
+
+### 重受击·其二
+
+不要…
+
+### 加入队伍·其一
+
+带我走吧。
+
+### 加入队伍·其二
+
+命令我吧。
+
+### 加入队伍·其三
+
+我还能去哪里呢…

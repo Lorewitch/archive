@@ -144,5 +144,1128 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Диона, знаменитый бармен из «Кошкиного хвоста». Я дорого беру за участие в мероприятиях... А? Ты здесь не ради выпивки? Хм. Тогда я, возможно, приму твоё приглашение...",
+        "en": "Diona, bartender of the Cat's Tail! I charge a hefty fee for private events. Huh? You didn't come here for a drink? Hmm... Then I accept your invitation... I suppose...",
+        "zh": "「猫尾酒馆」的招牌调酒师，迪奥娜，我的出场费可是很贵的。唔？你居然…不是为了酒才来的？哼，那你的邀请…我就勉为其难地接受了。"
+      },
+      "source_id": 34009
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: Отдых",
+        "en": "Chat: Relax",
+        "zh": "闲聊·放松"
+      },
+      "text": {
+        "ru": "Ах... Приятно хорошо потянуться.",
+        "en": "Ahhh... that stretch feels good.",
+        "zh": "哈~~好舒服，身体都变得更柔软了。"
+      },
+      "source_id": 34010
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Размышления",
+        "en": "Chat: Thinking",
+        "zh": "闲聊·思考"
+      },
+      "text": {
+        "ru": "Хвост ящерицы, перец, звёздная ракушка... Что ещё нужно, чтобы сделать «супер мерзкий коктейль»?",
+        "en": "Hmm. Lizard Tail, Pepper, Starconch, hmm... what else do I need to create the most dreadfully disgusting cocktail?",
+        "zh": "蜥蜴尾巴、胡椒、星螺…还差点什么才能调出「难喝到头脑炸裂的酒」呢？呜…"
+      },
+      "source_id": 34011
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Ожидание",
+        "en": "Chat: Waiting",
+        "zh": "闲聊·等待"
+      },
+      "text": {
+        "ru": "Я... Я вовсе тебя не ждала. Я просто отдыхала, вот и всё!",
+        "en": "I—I wasn't waiting for you. I just happened to be resting!",
+        "zh": "才，才没有在等你。我只是，正好在休息而已！"
+      },
+      "source_id": 34012
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Ох уж этот мерзкий дождь... Пойдём внутрь. Нет, я не боюсь воды! Я просто не люблю сушить одежду!",
+        "en": "Rain! I hate rain! ...Let's go inside... I—I'm not scared of water, I just... hate it when my clothes get wet.",
+        "zh": "呜呜…讨厌下雨…去屋子里吧。唔，只是因为弄干衣服很麻烦！才不是什么怕水呢！"
+      },
+      "source_id": 34013
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "А?! Я не дрожу, я не... Гр-р...",
+        "en": "Ahh!!! Uhh, um... I'm not shaking, I'm not... Ohhhh...",
+        "zh": "欸？！…我没有在发抖！没有！…呜…"
+      },
+      "source_id": 34014
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег: Игры",
+        "en": "When It Snows: Playtime",
+        "zh": "下雪的时候·玩雪"
+      },
+      "text": {
+        "ru": "Ой, какой холодный... Хм, забавно!",
+        "en": "Ooh, it's so cold to touch. Wow, it's so much fun!",
+        "zh": "这个凉飕飕的触感，哇…好棒，好有趣。"
+      },
+      "source_id": 34015
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда идёт снег: Любование",
+        "en": "When It Snows: Viewing",
+        "zh": "下雪的时候·观雪"
+      },
+      "text": {
+        "ru": "Смотри, как эти белые снежинки танцуют на ветру, красота! Садись со мной, полюбуйся.",
+        "en": "Ooooh, look at the little white snowflakes dancing in the wind, to and fro, and... whew, isn't it... beautiful! C'mon, c'mon c'mon, sit with me... Watch...",
+        "zh": "白茫茫的雪在风里跳舞，真好看呢。嗯…我旁边的座位还空着，没人坐哦。"
+      },
+      "source_id": 34016
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Пойдём, погреемся на солнце... Ну, если ты не хочешь, я пойду сама... Эй последний шанс! Идёшь или нет?!",
+        "en": "Come on, let's go bask in the sun a bit~ ...If you aren't coming, I'll just go by myself~ ...Last chance! Are you coming or not!?",
+        "zh": "走喽，晒太阳…你不去我可就自己去了哦…唔，最后一次机会！走不走！"
+      },
+      "source_id": 34017
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро. Передай мне, пожалуйста, банку с солёной рыбой, она вон там, в буфете... Ладно, пора разрушить винную индустрию Мондштадта!",
+        "en": "Morning~ Can you hand me that can of salted loach from the cabinet? Time to destroy the wine industry!",
+        "zh": "早，把橱柜里那罐腌泥鳅递给我一下——好咧，我要开始摧毁蒙德酒业啦。"
+      },
+      "source_id": 34018
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день: Странные звуки",
+        "en": "Good Afternoon: Strange Noises",
+        "zh": "中午好·异响"
+      },
+      "text": {
+        "ru": "Мя... А? Нет! Ты ничего не слышал! / Мя... А? Нет! Ты ничего не слышала!",
+        "en": "Wha— Ugh, no! You heard nothing!",
+        "zh": "咕噜噜…嗯？没有！你什么都没有听到！"
+      },
+      "source_id": 34019
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый день: Консервы",
+        "en": "Good Afternoon: Canned Food",
+        "zh": "中午好·罐头"
+      },
+      "text": {
+        "ru": "Я с большим трудом сберегла эти рыбные консервы, поэтому не смотри на меня так! Ну... Ну ладно, можешь попробовать кусочек.",
+        "en": "Uh, I was saving this can of fish for when I was really hungry. Stop looking at it like that! ...Mmm, okay, I'll let you have a little taste, but nothing more!",
+        "zh": "这个鱼肉罐头是我好不容易省下来的，别，别看啦！最多…最多只能给你尝一口。"
+      },
+      "source_id": 34020
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Провал... Опять провал... Гр-р, все любят мои напитки... Не утешай меня, я в этом не нуждаюсь...",
+        "en": "Aw, I failed... Ugh, again... Everyone loved my drinks! Gah... Don't try to comfort me. I—I don't need comforting!",
+        "zh": "失败了…又失败了…大家都喝得好开心，呜…别安慰我，我才不需要安慰…"
+      },
+      "source_id": 34021
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Ты не заблудишься ночью без кошачьего зрения? Если хочешь, я могу тебя проводить... Что? Там горят фонари?.. Нет, никто тебя провожать не собирался, тебе послышалось. Иди уже, иди!",
+        "en": "Without cat vision, will you be okay walking home in the dark? If you need me to escort you... What? Th—There's lights? Pff, well who said anything about escorting you? Go on now.",
+        "zh": "你没有猫的夜视能力，走夜路不要紧吧？要我护送你的话…欸，有灯啊？…谁，谁要护送你啦，快点走快点走。"
+      },
+      "source_id": 34022
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Дионе...",
+        "en": "About Diona",
+        "zh": "关于迪奥娜自己…"
+      },
+      "text": {
+        "ru": "Уши и хвост - это не украшение, они настоящие. Это проявление крови кецлайнов. Они кажутся тебе странными, только потому что ты раньше такого не видел. Ты... Ты зачем это руки ко мне тянешь? Эм... Ну ладно, уши потрогать можно, но не хвост! Хвост нельзя! / Уши и хвост - это не украшение, они настоящие. Это проявление крови кецлайнов. Они кажутся тебе странными, только потому что ты раньше такого не видела. Ты... Ты зачем это руки ко мне тянешь? Эм... Ну ладно, уши потрогать можно, но не хвост! Хвост нельзя!",
+        "en": "My ears and tail are no prop, they're real. Proof of my Kätzlein bloodline. It's only weird to you cause you've never seen it before. Wh—Why are you looking at me like that? Fine. You can touch my ears for a second, but the tail is off limits!",
+        "zh": "耳朵和尾巴才不是什么装饰，是「凯茨莱茵家族」血统的象征，真是少见多怪。呃…你、你把手伸过来干什么？这个…唔…好吧，耳朵的话可以让你摸一下…但是尾巴、尾巴绝对不可以！"
+      },
+      "source_id": 34023
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Напитки",
+        "en": "About Us: Drinks",
+        "zh": "关于我们·饮料"
+      },
+      "text": {
+        "ru": "Хочешь безалкогольный напиток? Нет, это не сложно, но бессмысленно! Это никак не поможет мне сокрушить винную индустрию Мондштадта, поэтому я не буду тратить на это время!",
+        "en": "You want a non-alcoholic drink? No, that's not difficult, but it's meaningless! It doesn't have anything to do with my grand plan of destroying the wine industry of Mondstadt. I won't waste my time on such a drink, hmph!",
+        "zh": "想喝无酒精饮料？难倒是不难，但是没有意义！无论成功还是失败，都和摧毁蒙德酒业的目标没有关联。我才不会做呢。"
+      },
+      "source_id": 34024
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: ВИП каналы",
+        "en": "About Us: VIP Channels",
+        "zh": "关于我们·贵宾渠道"
+      },
+      "text": {
+        "ru": "Это Необыкновенный Коралловый Чай Летних Грёз с пузырьками. Я сделала его, потому что мне было скучно. Что? Популярный напиток? Люди выстраиваются за ним в очереди? Не понимаю, о чём ты.",
+        "en": "Here! I call this Fantastic Summer-Serendipity Coral Sparkling Tea, I just made it one day when I was bored... Huh, you say it's popular? People are lining up to buy it? Don't be ridiculous.",
+        "zh": "喏，这个是「了不起的夏日梦幻忧郁珊瑚气泡茶」，只是因为最近无聊才做的。热门产品？排队抢购？你在说什么呢，我可没听见。"
+      },
+      "source_id": 34025
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "О нас: Жажда разговора",
+        "en": "About Us: The Need to Chat",
+        "zh": "关于我们·聊天需要"
+      },
+      "text": {
+        "ru": "Эм... Если... Если тебе одиноко, мы можем поболтать. Я знаю много интересного! Я... Как его... Я интересный собеседник, вот! Мы можем поговорить... О чём угодно... Да?",
+        "en": "Well, if you ever feel lonely, you can chat with me. I know lots of cool things~ I'm a good... what's that called... chatting partner! Yeah! A good chatting partner, come chat with me... lots... ...okay?",
+        "zh": "唔…要是，要是你感觉孤单了，我可以随便陪你聊聊天。我还是知道很多事情的哦！也是很好的…那个叫什么，说话对象哦。没错没错！来跟我，多说说话吧…"
+      },
+      "source_id": 34026
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "О нас: Любопытство",
+        "en": "About Us: Curiosity",
+        "zh": "关于我们·好奇心"
+      },
+      "text": {
+        "ru": "Что это, что это? Что это у тебя в руках? Скорее, дай посмотреть! Этим точно можно испортить коктейль... Что? Это всего лишь странно выглядящий гриб? Какое разочарование...",
+        "en": "What's that!? What's that!? Let me see! Maybe I can add it to my next cocktail to give it a dreadful taste... Huh? It's just a strange-looking mushroom, how boring...",
+        "zh": "是什么是什么？你拿着的是什么？快给我看看！说不定丢到酒里能做出相当难喝的…啊，什么嘛，原来只是长得奇怪了点的蘑菇而已呀，真无趣。"
+      },
+      "source_id": 34027
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "О Глазе Бога: Наследство",
+        "en": "About the Vision: Heirloom",
+        "zh": "关于「神之眼」·遗传"
+      },
+      "text": {
+        "ru": "Как я получила Глаз Бога? Хм... Ну... Все в роду кецлайнов получают Глаз Бога! А? Почему у Драффа нет Глаза Бога? Ой, кот вылез из мешка!",
+        "en": "How did I get my Vision? Simple — everyone in the Kätzlein lineage gets one. ...Huh? Then why doesn't Draff have a Vision? Uhh... Oh no, the cat's out of the bag! Eek!",
+        "zh": "问我的「神之眼」是怎么来的？哼，是、呃…是凯茨莱茵的家族遗传！唔？杜拉夫先生根本没有神之眼？欸——露馅了。"
+      },
+      "source_id": 34028
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "О Глазе Бога: Происхождение",
+        "en": "About the Vision: Origin",
+        "zh": "关于「神之眼」·来历"
+      },
+      "text": {
+        "ru": "Почему я должна тебе это рассказывать? Пфф... Ладно, раз ты так настойчиво спрашиваешь... Раз мы друзья, я скажу: как-то раз мой папа пошёл на охоту и пропал. Шёл сильный дождь, но я могла думать только о том, чтобы спасти его... Вот и всё! Надеюсь, теперь ты от меня отстанешь?",
+        "en": "Why should I tell you!? Hmph! ...*sigh* Since you won't stop asking... and since we are friends, I'll tell you: One time, my daddy went missing on a hunt in a big storm. All I could think of was finding him, saving him... That's it, are you happy now?",
+        "zh": "为什么非得告诉你啦，哼！算了，看在你一直追问的份上，看在…看在我们是朋友的份上。那次我爸爸外出打猎，差点出大事，在大雨中，我脑袋里想的全部事情就是要找到他，救出他…好了啦，满意了吧！"
+      },
+      "source_id": 34029
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "Давай поделимся...",
+        "en": "Something to Share",
+        "zh": "有什么想要分享…"
+      },
+      "text": {
+        "ru": "Как думаешь, на Драконьем хребте можно найти редкие травы? Какие-нибудь смертельно горькие или заставляющие язык неметь? Мне нужно очень много! А потом... Ха-ха... Муа-ха-ха-ха!",
+        "en": "Hey, do you think there are any exotic plants on Dragonspine? Maybe something with a deadly bitterness, or something that numbs your mouth upon contact? I'm going to pick a lot! And then... hehehe-hee-hee...",
+        "zh": "龙脊雪山上，会不会长着奇珍异草呢。「拥有致命的苦味」或者「沾到一点就嘴巴发麻」这样？要拔好多下来！然后…嘿嘿嘿…嚯嚯。"
+      },
+      "source_id": 34030
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "Я лучше всех бью... В смысле, ловлю бабочек. Эй, не смешно! Я ловлю бабочек, чтобы добавить моим коктейлям мерзкий привкус. Я вовсе не кошка! Мяу!",
+        "en": "When it comes to butterflies, I'm the best at pouncing on— err, catching them. Hey, not in a fun way! I catch butterflies to add a nasty taste to my cocktails. I'm not a cat! Meow! *hiss*",
+        "zh": "我扑…捕捉蝴蝶的技巧可是一流的。喂，不是啦！抓蝴蝶是为了加进酒里做出难吃的味道，不要把我当成猫啦！喵！"
+      },
+      "source_id": 34031
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Дилюке...",
+        "en": "About Diluc",
+        "zh": "关于迪卢克…"
+      },
+      "text": {
+        "ru": "Этот... Дилюк! Терпеть его не могу! Если бы не было Дилюка, не было бы и винной индустрии в Мондштадте, а если бы не было виноделия, папа бы не пил, а если бы папа не пил... Тогда бы мы проводили время вместе. Эх...",
+        "en": "Diluc... I can't stand him! If there was no Diluc, there would be no Mondstadt wine industry; if there was no Mondstadt wine industry, Daddy wouldn't drink; and if Daddy didn't drink... he would keep me company. Ohhhh...",
+        "zh": "那个…迪卢克，是我最讨厌的人！没有迪卢克就不会有蒙德酒业，没有蒙德酒业爸爸就不会喝酒，爸爸不喝酒就…就会陪我了，哼。"
+      },
+      "source_id": 34032
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "О Кэйе...",
+        "en": "About Kaeya",
+        "zh": "关于凯亚…"
+      },
+      "text": {
+        "ru": "Да почему даже капитан - мерзкий пьяница?! Этот тип, который вечно улыбается, когда говорит! Он пьёт бокал за бокалом, фу!",
+        "en": "How is it that even a captain is a disgusting boozehound! You know, that guy who's got that laugh! He downs drink after drink. Ugh!",
+        "zh": "为什么连我的「护卫队长」也是个令人讨厌的酒鬼啦！就是那个，说起话来总是笑盈盈的家伙！喝起酒来一杯接一杯的，没完没了。呼！"
+      },
+      "source_id": 34033
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Венти...",
+        "en": "About Venti",
+        "zh": "关于温迪…"
+      },
+      "text": {
+        "ru": "Венти? Я мало с ним знакома. Он бард? Значит, он из тех типов, которые подбадривают пьяниц песнями, а значит, он мне уже не нравится! Нет-нет-нет, совсем не нравится.",
+        "en": "Venti? I'm not familiar with him... He's a bard? Oh, he must be that guy who sings tunes to entertain the drunkards. Well, then I don't like him, no no no...",
+        "zh": "温迪？不太熟的样子。但说到吟游诗人，就是那伙会给酒鬼们唱歌助兴的人吧。那就不喜欢！不喜欢不喜欢。"
+      },
+      "source_id": 34034
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Барбаре...",
+        "en": "About Barbara",
+        "zh": "关于芭芭拉…"
+      },
+      "text": {
+        "ru": "Почему это все фанаты Барбары - молодые люди, а мои фанаты - только пьяные мужчины старшего возраста? Гр-р, отвратительно!.. Забудь.",
+        "en": "How come all my fans are drunk middle-aged men, while Barbara's are all young people...? Hmph! So stupid. Forget it!",
+        "zh": "芭芭拉小姐的粉丝们，都是大哥哥大姐姐…好羡慕，为什么我的粉丝都是一群大叔呢。呜…可恶，哼，不想了。"
+      },
+      "source_id": 34035
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "О Джинн...",
+        "en": "About Jean",
+        "zh": "关于琴…"
+      },
+      "text": {
+        "ru": "Джинн, действующий магистр ордена... Редкий взрослый человек, не употребляющий алкоголь... Но она слишком серьёзная. Мне кажется, или рыцари из Ордо Фавониус слишком опекают меня?",
+        "en": "Acting Grand Master of the Knights of Favonius... A rare, mature adult who doesn't drink... But perhaps a little too earnest, cause is it just me, or are the Knights overdoing it a bit on protecting me?",
+        "zh": "琴啊，骑士团的代理团长，嗯…难得一个不喝酒的成熟大人…但总感觉认真过了头，骑士团的大家对我有些过度保护了吧？"
+      },
+      "source_id": 34036
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Об Альбедо...",
+        "en": "About Albedo",
+        "zh": "关于阿贝多…"
+      },
+      "text": {
+        "ru": "Гений алхимик? Хм... Интересно, сможет ли он мне помочь сделать напиток, который никому не понравится?",
+        "en": "Alchemy genius? Hmm... I wonder if he knows of a way to finally help me make a drink that people don't like?",
+        "zh": "首席炼金术士大人？唔…我这种一直调出好酒的体质，他会知道破解的方法么？"
+      },
+      "source_id": 34037
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "О Лизе...",
+        "en": "About Lisa",
+        "zh": "关于丽莎…"
+      },
+      "text": {
+        "ru": "Лиза такая дружелюбная и милая! Но как такой человек может пить вино?! Хны-ы, ну почему-у так?.. Мондштадт безнадёжен...",
+        "en": "Lisa is so nice and gentle! But... how can such a gentle person also be a regular drinker!? Ohhhh... Why!? ...There's really no hope for Mondstadt, is there?",
+        "zh": "丽莎姐姐，很和善对吧，很温柔对吧？但是，这样的姐姐也经常喝酒！呜呜呜…这是为什么啦…蒙德城已经没救了吧…"
+      },
+      "source_id": 34038
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "О Сян Лин...",
+        "en": "About Xiangling",
+        "zh": "关于香菱…"
+      },
+      "text": {
+        "ru": "Я попросила Сян Лин поделиться со мной рецептом самой отвратительной смеси ингредиентов из тех, что у неё получались... И ничего. «Налей ещё!» - вот и всё, что слышат мои кошачьи ушки... Эх...",
+        "en": "Xiangling once gave me a \"so-awful-it-goes-with-nothing\" food combination she came up with, saying how it tasted absolutely terrible, blah blah blah... It didn't work, no use at all. All my little cat ears heard that night was \"One more cup of that good stuff!\" *sigh*",
+        "zh": "我向香菱讨过一份「口感搭配特别糟糕的食物组合」，据说是她亲自实践下来的，绝对难吃什么的…没用，完全没用。「续杯」两个字已经听到猫耳朵都生茧了！呜…"
+      },
+      "source_id": 34039
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "О Кли...",
+        "en": "About Klee",
+        "zh": "关于可莉…"
+      },
+      "text": {
+        "ru": "Каждый раз, когда Кли хочет поиграть со мной, мне приходится уводить её подальше от таверны. Вино и взрывчатка... Это очень опасно! Конечно, я хочу разрушить винную индустрию в Мондштадте, но не таким же способом!",
+        "en": "Every time Klee wants to play with me, I take her somewhere far from the tavern. Alcohol and explosives... yeah, that's a dangerous combination! I mean, do I want to destroy the wine industry of Mondstadt? Yes, but not in that sense!",
+        "zh": "可莉每次来找我玩的时候，我都只好把她带去离酒馆远一点的地方。酒和炸弹…实在是太危险了！就算我想摧毁蒙德酒业，也得用堂堂正正的方式。"
+      },
+      "source_id": 34040
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Об отце...",
+        "en": "About Her Father",
+        "zh": "关于父亲…"
+      },
+      "text": {
+        "ru": "Папа - лучший! Я люблю его больше всех! Но... Папа, выпивший вина, он... Гр-р, я должна расправиться с виноделием в Мондштадте как можно скорее! У меня нет времени на болтовню!",
+        "en": "I adore my daddy more than anyone else! He's the greatest! But... Daddy after he drinks, ugh... Argh! I must bring an end to the wine industry of Mondstadt, and soon! No time for chit-chat!",
+        "zh": "爸爸是我最尊敬的人！爸爸是最厉害的人！但是…喝了酒的爸爸，唔——果然还是要早点终结蒙德的酒业！没时间闲聊啦！"
+      },
+      "source_id": 34041
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Узнать больше о Дионе I",
+        "en": "More About Diona: I",
+        "zh": "想要了解迪奥娜·其一"
+      },
+      "text": {
+        "ru": "Бармен всегда занят! Когда я не работаю в таверне, я подбираю рецепты. Поэтому... Поэтому, если у тебя нет ничего срочного, не мешай мне.",
+        "en": "Life as a mixologist is very busy! When I'm not at the tavern, I'm out collecting ingredients for new recipes. So... So unless something is urgent, don't bother me.",
+        "zh": "「调酒师」可是很忙的！即使不在酒馆工作，也要抽出时间来收集配方。所以，所以没有要紧事情的话，就不要来打搅我。"
+      },
+      "source_id": 34042
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Узнать больше о Дионе II",
+        "en": "More About Diona: II",
+        "zh": "想要了解迪奥娜·其二"
+      },
+      "text": {
+        "ru": "Ты... Ты же не будешь просить меня мяукать, как эти мерзкие пьяницы? Я не буду это делать, ни за что! Я вам не домашний питомец, который шевелит ушками и потягивается! Я... Я... Я Диона, Конец винной индустрии!",
+        "en": "You wouldn't ask me to meow like a cat, like those boozehounds at the tavern do, would you? I wouldn't do it, no way! I'm not some little house pet that just shakes my ears real cute and stretches my back! I'm... I'm Diona, Destroyer of the Wine Industry!",
+        "zh": "你不会…也像那些讨厌的酒鬼一样要我学猫咪叫吧？不会的，绝对不会的！我才不是什么抖抖耳朵伸伸懒腰的宠物！我可是…可是…「酒业杀手」！"
+      },
+      "source_id": 34043
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Узнать больше о Дионе III",
+        "en": "More About Diona: III",
+        "zh": "想要了解迪奥娜·其三"
+      },
+      "text": {
+        "ru": "Ты спрашиваешь, как Конец винной индустрии превратилась в символ «Кошкиного хвоста»?.. Ты... Ты нарочно спрашиваешь, чтобы посмеяться, да?! Ах ты, негодяй! Не буду больше делать для тебя напитки, даже воды не дам! Пф-ф! / Ты спрашиваешь, как Конец винной индустрии превратилась в символ «Кошкиного хвоста»?.. Ты... Ты нарочно спрашиваешь, чтобы посмеяться, да?! Ах ты, негодяйка! Не буду больше делать для тебя напитки, даже воды не дам! Пф-ф!",
+        "en": "\"How did the Destroyer of the Wine Industry become the Cat's Tail's mascot...?\" Y—You're asking this just to make fun of me! Ohhh, you're awful! I won't be giving YOU any more drinks, not even water.",
+        "zh": "你问我…为什么「酒业杀手」变成了「猫尾酒馆」的招牌…？你，你是故意这样问的吧！就是想看我的笑话。呜，坏人！再也不给你调喝的了，水也不给！"
+      },
+      "source_id": 34044
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "Узнать больше о Дионе IV",
+        "en": "More About Diona: IV",
+        "zh": "想要了解迪奥娜·其四"
+      },
+      "text": {
+        "ru": "Не зли меня. Я добрая, но не вздумай провоцировать меня! Предупреждаю, когда я злюсь, я кусаюсь! Мяу! ...Но, может быть, тебя я кусать не буду.",
+        "en": "Don't, don't make me angry. I'm pretty tolerant, but don't even try to mess with me. I'm warning you, I bite when I get angry! Meow!!! ...But maybe I'd let you off easy, no bites...",
+        "zh": "别再惹我了啊，我宽容大度，但也不好欺负！我警告你，我生起气来可是会咬人的！喵！虽然不一定舍得咬你…"
+      },
+      "source_id": 34045
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Узнать больше о Дионе V",
+        "en": "More About Diona: V",
+        "zh": "想要了解迪奥娜·其五"
+      },
+      "text": {
+        "ru": "Мы с тобой стали хорошими друзьями. Я смутно помню... Кажется, в детстве у меня был такой друг, но я не уверена, была ли это грёза или правда... Дай мне свою руку. Тёплая... Это хорошо. Не покидай меня, не превращайся в далёкий сон...",
+        "en": "You and me... we're good friends now, right? I kind of remember having a friend like this before, but maybe it was a dream... Here, give me your hand. Ahh... Hmm, nice and warm... Very nice... please don't leave me, and become another dream.",
+        "zh": "我和你…已经成为好朋友了，对吧。我隐约记得…我以前也有过这样一个朋友，但我不确定那是不是梦…\n把你的手给我。啊呜，唔…暖和的。这样就好，不要变成梦走了…"
+      },
+      "source_id": 34046
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Хобби Дионы...",
+        "en": "Diona's Hobbies",
+        "zh": "迪奥娜的爱好…"
+      },
+      "text": {
+        "ru": "Я люблю охотиться. Я отлично выслеживаю дичь! Но папа говорит, что в лесу может быть опасно, и туда следует ходить только с надёжным взрослым... Ты сойдёшь за надёжного взрослого?",
+        "en": "I enjoy hunting. I'm especially good at tracking down prey! But Daddy says that the wild is dangerous. One should only go deep into the forest with a reliable adult. ...You're a reliable adult, right?",
+        "zh": "我喜欢打猎，追捕猎物可是我的强项！但爸爸说野外情况瞬息万变，只有跟着可靠的大人一起，才能深入森林。你…算是可靠的大人吧？"
+      },
+      "source_id": 34047
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Беспокойство Дионы...",
+        "en": "Diona's Troubles",
+        "zh": "迪奥娜的烦恼…"
+      },
+      "text": {
+        "ru": "Ну... Как же мне испортить напиток? Мой кошмарный коктейль «специальный купаж из соевого соуса, молока, заоблачного перчика и семян одуванчика», на который я возлагала все надежды, назвали «шедевром маленькой Дионы»! Гр-р... Я не сдамся...",
+        "en": "How, oh how can I make awful-tasting drinks...? I had high hopes for the soy sauce, milk, Jueyun Chili, and Dandelion Seed cocktail — my most nightmarish combination to date! But even that was met with praise at the tavern. \"This is Little Diona's best drink yet...\" Grr! But I won't give up...",
+        "zh": "嗯…到底怎样才能调出难喝的酒呢…连我给予厚望的噩梦搭配——「酱油牛奶绝云椒椒配蒲公英籽特调」都被说成是「小迪奥娜又有进步了」，呜…我不会认输的…"
+      },
+      "source_id": 34048
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Я обожаю рыбу! Папа лучше всех готовит рыбу! Но... Делать из рыбы закуску к алкоголю - это святотатство!",
+        "en": "I like, no, LOVE to eat fish! The fish Daddy cooks is the best, a purrfect main course! ...But eating fish as drunk food, that's absolute blasphemy!",
+        "zh": "我喜欢吃鱼！作为主食的鱼…爸爸做的鱼！但是…不要作为下酒菜，那是对鱼的亵渎！"
+      },
+      "source_id": 34049
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "Морковь, картофель, лук, помидоры... Это всё я не люблю. Я... Я вообще овощи не ем!",
+        "en": "Carrots, potatoes, onions, tomatoes... I don't like the taste of any of those vegetables. ...In fact, I don't eat vegetables at all!",
+        "zh": "胡萝卜、土豆、洋葱、番茄…这些味道都不太喜欢。我，我可不是吃素的啊！"
+      },
+      "source_id": 34050
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "Это тебе! Жареная рыба с моим особым соусом! \nНичего необычного в составе! Я действительно хорошо готовлю, когда хочу, поэтому хватит болтать, пробуй уже! \nДа, вот так... Это... С днём рождения тебя.",
+        "en": "Here you go — fried fish with my special sauce! ...Relax, I didn't add anything strange! My cooking is actually really good when I want it to be — stop talking and try it already! Hmph... that's better... Oh, and uh, happy birthday.",
+        "zh": "炸鱼，配上这个我特别调制的酱料，给你。\n…没有加奇怪的东西！我认真调味的手艺才不会差呢，先尝过才可以说话。\n哼…这才对嘛…唔，那个，生日快乐。"
+      },
+      "source_id": 34051
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Кошачьи глаза видят дичь даже в непроглядной тьме!",
+        "en": "A cat's eyes can see even the most elusive prey in the dark.",
+        "zh": "猫的眼睛，看得见黑暗中的一切猎物！"
+      },
+      "source_id": 34052
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "Кошачьи уши слышат даже самые тихие шаги.",
+        "en": "A cat's ears can hear even the softest footsteps on the ground.",
+        "zh": "猫的耳朵，听得见地上最细微的脚步声。"
+      },
+      "source_id": 34053
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Кошачьи лапы могут забраться даже на самое высокое дерево в Тейвате.",
+        "en": "A cat's legs can climb even the tallest tree in all of Teyvat.",
+        "zh": "猫的四肢，爬得上全提瓦特最高的树。"
+      },
+      "source_id": 34054
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Кошачий нос чует знакомых людей и тех, кто ему нравится... Что?! Тебе послышалось! Как я могла такое сказать вслух... Ой...",
+        "en": "A cat's nose can smell those people they are familiar with and like... Ahh!? You're mistaken, how could I say something like that... Ohh...",
+        "zh": "猫的鼻子，闻得出熟悉的、喜欢的人的…唔？！是你听错了！我怎么可能说出那种话…呜…"
+      },
+      "source_id": 34055
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Киии-я!",
+        "en": "Hey-yah!",
+        "zh": "嘿…呀！"
+      },
+      "source_id": 34056
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Пиу-пиу!",
+        "en": "Pew-Pew~!",
+        "zh": "咻咻——"
+      },
+      "source_id": 34057
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Пора выпустить когти!",
+        "en": "On the rocks!",
+        "zh": "目标确认。"
+      },
+      "source_id": 34058
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Элементальный навык IV",
+        "en": "Elemental Skill: IV",
+        "zh": "元素战技·其四"
+      },
+      "text": {
+        "ru": "Взболтать и смешивать!",
+        "en": "Shaken and stirred!",
+        "zh": "攻守兼备。"
+      },
+      "source_id": 34059
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Элементальный навык V",
+        "en": "Elemental Skill: V",
+        "zh": "元素战技·其五"
+      },
+      "text": {
+        "ru": "Поймала!",
+        "en": "Scratched ya!",
+        "zh": "抓到你了！"
+      },
+      "source_id": 34060
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Элементальный навык VI",
+        "en": "Elemental Skill: VI",
+        "zh": "元素战技·其六"
+      },
+      "text": {
+        "ru": "Не на того напали!",
+        "en": "Think you can bully me?!",
+        "zh": "我可不好欺负！"
+      },
+      "source_id": 34061
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Авторский коктейль Дионы!",
+        "en": "Diona Special!",
+        "zh": "迪奥娜特调！"
+      },
+      "source_id": 34062
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Что, не умеешь пить? Гм!",
+        "en": "Can't handle your drink? Hmph!",
+        "zh": "贪杯的下场…哼！"
+      },
+      "source_id": 34063
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "Погляди на себя, выпивоха!",
+        "en": "Look at you, boozehound!",
+        "zh": "反省吧，酒鬼！"
+      },
+      "source_id": 34064
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Начало спринта I",
+        "en": "Sprint Start: I",
+        "zh": "冲刺开始·其一"
+      },
+      "text": {
+        "ru": "Я здесь.",
+        "en": "Ha, I'm here.",
+        "zh": "唔，来了。"
+      },
+      "source_id": 34065
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Начало спринта II",
+        "en": "Sprint Start: II",
+        "zh": "冲刺开始·其二"
+      },
+      "text": {
+        "ru": "Вперёд, вперёд!",
+        "en": "Let's go, let's go!",
+        "zh": "出发，出发！"
+      },
+      "source_id": 34066
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Конец спринта I",
+        "en": "Sprint End: I",
+        "zh": "冲刺结束·其一"
+      },
+      "text": {
+        "ru": "Фуух.",
+        "en": "Phew.",
+        "zh": "呼。"
+      },
+      "source_id": 34067
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Конец спринта II",
+        "en": "Sprint End: II",
+        "zh": "冲刺结束·其二"
+      },
+      "text": {
+        "ru": "Ух... *выдыхает*",
+        "en": "Phew, hoo.",
+        "zh": "哈唔…"
+      },
+      "source_id": 34068
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Запуск планера I",
+        "en": "Deploying Wind Glider: I",
+        "zh": "打开风之翼·其一"
+      },
+      "text": {
+        "ru": "Я лечу!",
+        "en": "I'm flying!",
+        "zh": "飞起来喽。"
+      },
+      "source_id": 34069
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Если этим не испортить напиток, то это не сокровища!",
+        "en": "If it doesn't ruin a drink, it isn't treasure!",
+        "zh": "让酒变难喝的材料啊，出现吧！"
+      },
+      "source_id": 34070
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Как блестит... Нужно... держать... себя... в руках...",
+        "en": "So glittery... Must... control... urge to pounce...",
+        "zh": "亮晶晶的…想要…扑过去！"
+      },
+      "source_id": 34071
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Сокровища... Эх, ладно, любопытство, ты снова победило!",
+        "en": "Potential treasure... *sigh* Alright curiosity, you win again!",
+        "zh": "宝箱里有些什么，我很好奇！"
+      },
+      "source_id": 34072
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Я не приму поражения!",
+        "en": "I won't accept defeat!",
+        "zh": "我不会认输…！"
+      },
+      "source_id": 34073
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Мяу!..",
+        "en": "Meow...!",
+        "zh": "喵…喵…！"
+      },
+      "source_id": 34074
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Это ещё не конец!",
+        "en": "It's not over yet!",
+        "zh": "胜负还没分呢！"
+      },
+      "source_id": 34075
+    },
+    {
+      "number": 68,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Будь осторожней!",
+        "en": "Be more careful!",
+        "zh": "太乱来啦！"
+      },
+      "source_id": 34076
+    },
+    {
+      "number": 69,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Отдохни!",
+        "en": "Take a breather!",
+        "zh": "去休息去休息！"
+      },
+      "source_id": 34077
+    },
+    {
+      "number": 70,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Фу... разит вином...",
+        "en": "Bleugh... I smell wine.",
+        "zh": "酒的味道…好臭…"
+      },
+      "source_id": 34078
+    },
+    {
+      "number": 71,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Родниковая фея... не оставляй меня...",
+        "en": "Spring fairy... ugh... Don't leave me...",
+        "zh": "泉水精灵…不要走…"
+      },
+      "source_id": 34079
+    },
+    {
+      "number": 72,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Мои глаза... сами смыкаются...",
+        "en": "Can't keep my eyes... open...",
+        "zh": "眼睛…睁不开了…"
+      },
+      "source_id": 34080
+    },
+    {
+      "number": 73,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "В этот раз тебе повезло...",
+        "en": "Got me that time...",
+        "zh": "没躲开…"
+      },
+      "source_id": 34081
+    },
+    {
+      "number": 74,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "А это откуда прилетело?!",
+        "en": "Where'd that come from!?",
+        "zh": "从哪里来的？"
+      },
+      "source_id": 34082
+    },
+    {
+      "number": 75,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Да начнётся охота!",
+        "en": "The hunt begins!",
+        "zh": "狩猎开始！"
+      },
+      "source_id": 34083
+    },
+    {
+      "number": 76,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Как обычно нужна моя помощь?",
+        "en": "Huh, need my help as usual?",
+        "zh": "果然需要我出手嘛！"
+      },
+      "source_id": 34084
+    },
+    {
+      "number": 77,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Хе-хе, предоставьте это мне!",
+        "en": "Hehe, leave it to me!",
+        "zh": "哼，就包在我身上。"
+      },
+      "source_id": 34085
+    },
+    {
+      "number": 78,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Как вкусно! Я... я хотела спросить... А ты потом принесёшь ещё немного?",
+        "en": "Mmm! I just wanna ask you this... Will you bring more of it next time?",
+        "zh": "好吃…我，我就随便问一下哦，下次还有吗？"
+      },
+      "source_id": 34086
+    },
+    {
+      "number": 79,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Признаю, было довольно вкусно... Но не жди от меня дифирамбов.",
+        "en": "I'll admit, that was pretty sweet... but that doesn't mean I haven't had sweeter.",
+        "zh": "你可别指望我尝了点甜头，就会来蹭你…"
+      },
+      "source_id": 34087
+    },
+    {
+      "number": 80,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Эй... Ты за кого меня держишь, за уличную кошку?!",
+        "en": "Hey... What do you take me for, some sort of stray cat!?",
+        "zh": "喂…你是把我当成路边的野猫了吗！"
+      },
+      "source_id": 34088
+    }
+  ],
+  "replica_count": 80
 }

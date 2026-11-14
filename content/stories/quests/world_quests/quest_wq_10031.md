@@ -14,15 +14,19 @@
 # chapter_num_zh:
 # part_source_ids: 72145,72146,72147,72148,72149
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_10031
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 72145,72146,72147,72148,72149
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
 ### «Око Ватацуми»
+
+#### Отправляйтесь к месту расположения «Ока»
 
 #### Прочитайте надписи на каменной табличке «Ока»
 
@@ -36,7 +40,13 @@
 
 **Паймон:** Похоже, что поблизости нет никаких зацепок... Давай попробуем использовать чувство стихий?
 
+#### Сломайте печати святилища
+
+#### Возьмите жемчужину духа
+
 ### «Клык Ватацуми»
+
+#### Отправляйтесь к месту расположения «Клыка»
 
 #### Прочитайте надписи на каменной табличке «Клыка»
 
@@ -44,7 +54,13 @@
 
 **Паймон:** Ох... Тут почти ничего не расшифровать. Паймон кажется, что, наверно, надо будет драться, что-то защищать... тогда получим жемчужину духа...
 
+#### Защитите монолит артерий земли
+
+#### Возьмите жемчужину духа
+
 ### «Плавник Ватацуми»
+
+#### Отправляйтесь к месту расположения «Плавника»
 
 #### Прочитайте надписи на каменной табличке «Плавника»
 
@@ -56,7 +72,13 @@
 
 **Паймон:** Что-то рыбки захотелось...
 
+#### Сломайте печать «Плавника»
+
+#### Возьмите жемчужину духа
+
 ### «Хвост Ватацуми»
+
+#### Отправляйтесь к месту расположения «Хвоста»
 
 #### Прочитайте надписи на каменной табличке «Хвоста»
 
@@ -66,15 +88,19 @@
 
 **Паймон:** Но как они наше почтение оценят?
 
+#### Сломайте печать «Хвоста»
+
+#### Победите внезапно появившихся Фатуи
+
+#### Возьмите жемчужину духа
+
 ### «Сердце Ватацуми»
 
 #### Вернитесь в Сангономию и поговорите с Цуюко
 
-**Цуюко:** (Госпожа Цуюко, кажется, о чём-то задумалась. Пожалуй, не стоит её пока беспокоить.)
-
 **Цуюко:** Добро пожаловать, Путешественник. Я чем-то могу помочь?
 
-О твоём поручении...
+- **Путешественник:** О твоём поручении...
 
 **Паймон:** У нас есть четыре жемчужины духа!
 
@@ -84,21 +110,35 @@
 
 **Паймон:** Раз уж мы здесь, то пару шагов пройтись нам несложно! Да ведь, Путешественник?
 
+##### Вариант ответа 1
+
 - **Путешественник:** Хорошо.
+
+##### Вариант ответа 2
 
 - **Путешественник:** Я не против.
 
+##### Общее продолжение
+
 **Цуюко:** Тогда не будем терять время. Отправляемся!
+
+#### Откройте врата «Сердца Ватацуми»
+
+**Печать «Сердце»:** Странная светящаяся печать, на которой нарисована рыба.
+
+#### Войдите во врата «Сердца»
 
 #### Сломайте последнюю печать
 
-**Печать «Сердце»:** Странная светящаяся печать, на которой нарисована рыба.
+**Цуюко:** (Госпожа Цуюко, кажется, о чём-то задумалась. Пожалуй, не стоит её пока беспокоить.)
+
+#### Получите Ключ бездны
 
 #### Поговорите с Цуюко
 
 **Цуюко:** Хм...
 
-Госпожа Цуюко?..
+- **Путешественник:** Госпожа Цуюко?..
 
 **Цуюко:** А, простите, я слишком задумалась.
 
@@ -114,7 +154,7 @@
 
 **Паймон:** А...
 
-Всё чудесатее и чудесатее...
+- **Путешественник:** Всё чудесатее и чудесатее...
 
 **Цуюко:** Никаких чудес и тайн, совсем наоборот...
 
@@ -138,17 +178,25 @@
 
 **Цуюко:** Ну что ж, когда настанет время спуститься в Энканомию...
 
+##### Вариант ответа 1
+
 - **Путешественник:** Мы ещё встретимся?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Ты опять погадаешь?
 
 **Цуюко:** Хе-хе, мне всегда везёт в гаданиях. Мы обязательно ещё встретимся.
+
+##### Общее продолжение
 
 **Цуюко:** Ну тогда... До встречи.
 
 ## EN
 
 ### "Eye of Watatsumi"
+
+#### Go to the "Eye"
 
 #### Read the stone tablet at the "Eye"
 
@@ -162,7 +210,13 @@
 
 **Paimon:** It doesn't look like there are any clues around here either, so why don't we try using Elemental Sight?
 
+#### Break the seal over the shrine
+
+#### Obtain the Spirit Pearl
+
 ### "Fang of Watatsumi"
+
+#### Go to the "Fang"
 
 #### Read the stone tablet at the "Fang"
 
@@ -170,7 +224,13 @@
 
 **Paimon:** Ugh... There's barely anything legible here. Paimon guesses we'll need to fight and protect something... so we can get the Spirit Pearls... or something.
 
+#### Protect the Ley Line Monolith
+
+#### Obtain the Spirit Pearl
+
 ### "Fin of Watatsumi"
+
+#### Go to the "Fin"
 
 #### Read the stone tablet at the "Fin"
 
@@ -182,7 +242,13 @@
 
 **Paimon:** Ooh, now Paimon's hungry for fish...
 
+#### Break the "Fin" Seal
+
+#### Obtain the Spirit Pearl
+
 ### "Tail of Watatsumi"
+
+#### Go to the "Tail"
 
 #### Read the stone tablet at the "Tail"
 
@@ -192,15 +258,19 @@
 
 **Paimon:** How are they gonna measure our respect, though?
 
+#### Break the "Tail" Seal
+
+#### Defeat the Fatui ambushers
+
+#### Obtain the Spirit Pearl
+
 ### "Heart of Watatsumi"
 
 #### Return to Sangonomiya Shrine and talk to Tsuyuko
 
-**Tsuyuko:** (Miss Tsuyuko seems to be thinking about something, so perhaps this is not the time to disturb her.)
-
 **Tsuyuko:** Welcome back, Traveler. Is there something I can do for you?
 
-So, about your commission...
+- **Traveler:** So, about your commission...
 
 **Paimon:** We got the four Spirit Pearls!
 
@@ -210,21 +280,35 @@ So, about your commission...
 
 **Paimon:** Since we're already here, a little more's no biggie! Right, Traveler?
 
+##### Response branch 1
+
 - **Traveler:** Alright.
+
+##### Response branch 2
 
 - **Traveler:** I'm fine with it.
 
+##### Shared continuation
+
 **Tsuyuko:** There's no time to lose. Let's head off!
+
+#### Open the gate to the "Heart of Watatsumi"
+
+**Seal of the "Heart":** A strange, phosphorescent seal, upon which the symbol of a fish has been graven...
+
+#### Go to the "Heart"
 
 #### Break the final seal
 
-**Seal of the "Heart":** A strange, phosphorescent seal, upon which the symbol of a fish has been graven...
+**Tsuyuko:** (Miss Tsuyuko seems to be thinking about something, so perhaps this is not the time to disturb her.)
+
+#### Obtain the Key of the Deep
 
 #### Talk to Tsuyuko
 
 **Tsuyuko:** Hmm...
 
-Miss Tsuyuko...?
+- **Traveler:** Miss Tsuyuko...?
 
 **Tsuyuko:** Oh— Sorry, I was quite lost in thought just then.
 
@@ -240,7 +324,7 @@ Miss Tsuyuko...?
 
 **Paimon:** Oh...
 
-Curiouser and curiouser...
+- **Traveler:** Curiouser and curiouser...
 
 **Tsuyuko:** Haha! It isn't mysterious at all! In fact, it's just the opposite.
 
@@ -264,17 +348,25 @@ Curiouser and curiouser...
 
 **Tsuyuko:** Well then, when the time comes to go down to Enkanomiya...
 
+##### Response branch 1
+
 - **Traveler:** We'll meet again then, huh?
+
+##### Response branch 2
 
 - **Traveler:** You'll draw another fortune slip?
 
 **Tsuyuko:** Hehe, my fortune slip luck is pretty good. I'm certain that we'll meet again.
+
+##### Shared continuation
 
 **Tsuyuko:** Well then, see you.
 
 ## ZH
 
 ### 「海祇之眼」
+
+#### 前往「眼」之所在
 
 #### 阅读「眼」处的石碑
 
@@ -288,7 +380,13 @@ Curiouser and curiouser...
 
 **派蒙:** 附近看起来也没有线索…不如用「元素视野」试试看吧？
 
+#### 解除神龛的封印
+
+#### 取得「御灵珠」
+
 ### 「海祇之牙」
+
+#### 前往「牙」之所在
 
 #### 阅读「牙」处的石碑
 
@@ -296,7 +394,13 @@ Curiouser and curiouser...
 
 **派蒙:** 唔…碑文上能解读的部分几乎没有呢。似乎是要打架、还要守护什么东西…才能拿到「御灵珠」的样子…
 
+#### 保护地脉镇石
+
+#### 取得「御灵珠」
+
 ### 「海祇之鳍」
+
+#### 前往「鳍」之所在
 
 #### 阅读「鳍」处的石碑
 
@@ -308,7 +412,13 @@ Curiouser and curiouser...
 
 **派蒙:** 突然好想吃鱼…
 
+#### 解除「鳍」的封印
+
+#### 取得「御灵珠」
+
 ### 「海祇之尾」
+
+#### 前往「尾」之所在
 
 #### 阅读「尾」处的石碑
 
@@ -318,15 +428,19 @@ Curiouser and curiouser...
 
 **派蒙:** 不过，虔敬之心要怎么衡量呢…
 
+#### 解除「尾」处的封印
+
+#### 击退唐突登场的愚人众
+
+#### 取得「御灵珠」
+
 ### 「海祇之心」
 
 #### 返回珊瑚宫与露子对话
 
-**露子:** （露子小姐似乎在思考着什么，或许这时不应该打扰她。）
-
 **露子:** 欢迎回来，旅行者。请问有什么事吗？
 
-关于你的委托…
+- **旅行者:** 关于你的委托…
 
 **派蒙:** 我们已经取得四颗「御灵珠」啦！
 
@@ -336,21 +450,35 @@ Curiouser and curiouser...
 
 **派蒙:** 既然都到这里了，我们也不在乎多走两步路啦！对吧，旅行者？
 
+##### 对话分支 1
+
 - **旅行者:** 好吧。
+
+##### 对话分支 2
 
 - **旅行者:** 我没什么所谓。
 
+##### 共同后续
+
 **露子:** 那么事不宜迟，我们现在就出发吧！
+
+#### 打开「海祇之心」的大门
+
+**「心」之封印:** 散发着磷光的奇妙封印，上面的图案是一条鱼…
+
+#### 进入「心」之所在
 
 #### 解除最后的封印
 
-**「心」之封印:** 散发着磷光的奇妙封印，上面的图案是一条鱼…
+**露子:** （露子小姐似乎在思考着什么，或许这时不应该打扰她。）
+
+#### 获取「渊之钥」
 
 #### 与露子对话
 
 **露子:** 嗯…
 
-露子小姐…？
+- **旅行者:** 露子小姐…？
 
 **露子:** 啊，抱歉，刚刚太入神了。
 
@@ -366,7 +494,7 @@ Curiouser and curiouser...
 
 **派蒙:** 哦…
 
-玄之又玄呢…
+- **旅行者:** 玄之又玄呢…
 
 **露子:** 一点也不玄啦，恰恰相反…
 
@@ -390,10 +518,16 @@ Curiouser and curiouser...
 
 **露子:** 那么，待下渊下宫之刻到来…
 
+##### 对话分支 1
+
 - **旅行者:** 我们后会有期。
+
+##### 对话分支 2
 
 - **旅行者:** 你会再求一次签？
 
 **露子:** 呵呵，我签运很好的。我们一定还会再见面。
+
+##### 共同后续
 
 **露子:** 那么，再见啦。

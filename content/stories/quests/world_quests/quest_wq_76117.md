@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 76117
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_76117
 # quest_series:
 # version_source: wiki_release_category
+# game_source_ids: 76117
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -48,19 +50,31 @@
 
 **Катерина:** Ха-ха... Хорошо. Подождите минутку.
 
+##### Вариант ответа 1
+
 - **Путешественник:** Опять берёшь поручения?
 
+##### Вариант ответа 2
+
 - **Путешественник:** И всё-то ты в трудах...
+
+##### Общее продолжение
 
 **Ягода:** Мне нечем заняться. Не могу же я всё время сидеть в четырёх стенах и гладить Ашру, иначе Неф... то есть босс меня выгонит.
 
 **Ягода:** Хм, раз уж вы здесь... Путешественник и Паймон, вы очень талантливые. Хотите объединить усилия? А награду поделим.
 
-**Паймон:** Поручение? Лучше спроси его / её - он / она ведь эксперт в этом деле!
+**Паймон:** Поручение? Лучше спроси его - он ведь эксперт в этом деле! / Поручение? Лучше спроси её - она ведь эксперт в этом деле!
+
+##### Вариант ответа 1
 
 - **Путешественник:** Паймон...
 
+##### Вариант ответа 2
+
 - **Путешественник:** Ладно, давай посмотрим, что за поручение.
+
+##### Общее продолжение
 
 **Ягода:** Наверняка ничего серьёзного. Поверь, Иханти слишком труслив для чего-то серьёзного...
 
@@ -74,11 +88,17 @@
 
 **Ягода:** Как сказать... Не ожидала, что человек, который не способен даже муху обидеть, разместит поручение, касающееся вопроса жизни и смерти...
 
+##### Вариант ответа 1
+
 - **Путешественник:** У-убийство?
+
+##### Вариант ответа 2
 
 - **Путешественник:** Сразу скажу, я законопослушный человек.
 
-**Ягода:** Ты? Ха-ха-ха, сразу видно, (какая ты законопослушная)(какой ты законопослушный).
+##### Общее продолжение
+
+**Ягода:** Ты? Ха-ха-ха, сразу видно, какой ты законопослушный. / Ты? Ха-ха-ха, сразу видно, какая ты законопослушная.
 
 **Ягода:** Расслабься, я же пошутила. Там говорится только о том, что надо забрать что-то у бандитов.
 
@@ -88,7 +108,7 @@
 
 #### Выполните поручение вместе с Ягодой
 
-**Калев:** Пфф, неудачник. У парня нет ни моры за душой, даже украсть нечего.
+**???:** Пфф, неудачник. У парня нет ни моры за душой, даже украсть нечего.
 
 **Ягода:** Эй, Калев.
 
@@ -119,6 +139,8 @@
 **Ягода:** Путешественник, давай вместе разберёмся с ними.
 
 **Калев:** Смотришь на нас свысока? Братья, вперёд! Пора поставить эту малявку на место. Взять их!
+
+#### Победите Похитителей сокровищ
 
 #### Поговорите с Калевом
 
@@ -264,6 +286,8 @@
 
 **Иханти:** Спасибо.
 
+**Калев:** ...Ягода, ты нечто. Иногда пугаешь своей проницательностью, а иногда поражаешь своей глупостью.
+
 #### Вернитесь в Гильдию искателей приключений
 
 **Катерина:** Отлично, поручение выполнено. Подождите, пожалуйста, я принесу вознаграждение.
@@ -274,13 +298,13 @@
 
 **Катерина:** Пожалуйста, подождите минутку, я принесу вознаграждение.
 
-Ягода! Ты в порядке?
+- **Путешественник:** Ягода! Ты в порядке?
 
 **Паймон:** Мы обещали не обращаться к врачу... но господину Иханти очень плохо. Может...
 
 **Ягода:** Нет. Раз я сказала, что буду соблюдать правила, значит, буду их соблюдать.
 
-Итак... вы хорошие знакомые?
+- **Путешественник:** Итак... вы хорошие знакомые?
 
 **Ягода:** Он был моим «коллегой».
 
@@ -290,7 +314,7 @@
 
 **Ягода:** Когда мы «работали» вместе, Иханти учил меня разным приёмам общения и водил меня по разным вкусным местам.
 
-Он твой друг?
+- **Путешественник:** Он твой друг?
 
 **Ягода:** Друг? Ха, конечно нет. В этом проклятом месте только глупец заводит друзей. Мы были «знакомыми», не более того.
 
@@ -312,11 +336,9 @@
 
 #### Дождитесь следующего дня (10:00 - 00:00)
 
-**Калев:** ...Ягода, ты нечто. Иногда пугаешь своей проницательностью, а иногда поражаешь своей глупостью.
+**Иханти:** Вы были правы, босс... Злодеям нет спасения.
 
 #### Снова навестите Иханти
-
-**Иханти:** Вы были правы, босс... Злодеям нет спасения.
 
 **Ягода:** Иханти! Иханти! Иха-а-анти...
 
@@ -358,19 +380,31 @@ Jahoda has received a new commission from the Adventurers' Guild. However, for J
 
 **Katheryne:** Haha... Very well then. Please wait a moment.
 
+##### Response branch 1
+
 - **Traveler:** Taking commissions again?
 
+##### Response branch 2
+
 - **Traveler:** Busy as ever, I see...
+
+##### Shared continuation
 
 **Jahoda:** I mean, it's not like I've got much else to do right now. Can't just sit around playing with Ashru all day, can I? Nef— I mean Boss Nef'd boot me out in no time.
 
 **Jahoda:** Hmm, now that you're here... Traveler, Paimon, you two are pretty handy. Wanna join forces on this one? We could split the reward.
 
-**Paimon:** A commission, huh? You'd better ask him / her — he's / she's the expert, after all!
+**Paimon:** A commission, huh? You'd better ask him — he's the expert, after all! / A commission, huh? You'd better ask her — she's the expert, after all!
+
+##### Response branch 1
 
 - **Traveler:** Seriously Paimon, you're making me blush...
 
+##### Response branch 2
+
 - **Traveler:** Alright then, why not. What kinda commission we talking?
+
+##### Shared continuation
 
 **Jahoda:** Bet you it's nothing major. Trust me, Ihanti's way too much of a scaredy-cat for it to be about anything serious...
 
@@ -384,9 +418,15 @@ Jahoda has received a new commission from the Adventurers' Guild. However, for J
 
 **Jahoda:** Nah, nothing like that. Just didn't expect a guy who couldn't even bring himself to hurt a fly to go posting life-or-death commissions like this...
 
+##### Response branch 1
+
 - **Traveler:** L—Life or death?
 
+##### Response branch 2
+
 - **Traveler:** I'm a law-abiding person, just so you know...
+
+##### Shared continuation
 
 **Jahoda:** You? Hahaha, sure... Couldn't be more by-the-book if you tried, huh?
 
@@ -398,7 +438,7 @@ Jahoda has received a new commission from the Adventurers' Guild. However, for J
 
 #### Complete the commission with Jahoda
 
-**Kaleva:** Pfft, what a loser. Guy's so broke, he doesn't have a single thing worth taking.
+**???:** Pfft, what a loser. Guy's so broke, he doesn't have a single thing worth taking.
 
 **Jahoda:** Yo, Kaleva.
 
@@ -429,6 +469,8 @@ Jahoda has received a new commission from the Adventurers' Guild. However, for J
 **Jahoda:** C'mon, Traveler, let's drop these punks together.
 
 **Kaleva:** Looking down on us, huh? C'mon boys, time to put this little squirt back in her place. Get 'em!
+
+#### Defeat the Treasure Hoarders
 
 #### Talk to Kaleva
 
@@ -574,6 +616,8 @@ Jahoda has received a new commission from the Adventurers' Guild. However, for J
 
 **Ihanti:** Thank you.
 
+**Kaleva:** Hmph, you're a real piece of work, Jahoda, you know that? Scary smart one moment, unbelievably naive the next...
+
 #### Return to the Adventurers' Guild
 
 **Katheryne:** Excellent, looks like you've completed the commission. Please bear with me while I fetch your payment.
@@ -584,13 +628,13 @@ Jahoda has received a new commission from the Adventurers' Guild. However, for J
 
 **Katheryne:** Very well then. One moment, I'll be back with your payment right away.
 
-Are you really okay, Jahoda?
+- **Traveler:** Are you really okay, Jahoda?
 
 **Paimon:** Paimon knows we promised not to call a doctor, but... Ihanti really did look awful back there. Maybe we should—
 
 **Jahoda:** No. I said I'd stick to the code, so that's what I'll do.
 
-So... you two know each other well?
+- **Traveler:** So... you two know each other well?
 
 **Jahoda:** We used to be "colleagues."
 
@@ -600,7 +644,7 @@ So... you two know each other well?
 
 **Jahoda:** He had a real knack for talking people into things. Back when we were "working" together, he shared a lot of his skills with me... he was always taking me out for great meals, too.
 
-Do you consider him a friend?
+- **Traveler:** Do you consider him a friend?
 
 **Jahoda:** A friend? Hah, 'course not. You'd have to be crazy to try making friends in that hellhole. At best, we... knew each other.
 
@@ -622,11 +666,9 @@ Do you consider him a friend?
 
 #### Wait until the next day (10:00 – 00:00)
 
-**Kaleva:** Hmph, you're a real piece of work, Jahoda, you know that? Scary smart one moment, unbelievably naive the next...
+**Ihanti:** You were right, boss... Looks like there's no escape for the wicked, after all.
 
 #### Visit Ihanti again
-
-**Ihanti:** You were right, boss... Looks like there's no escape for the wicked, after all.
 
 **Jahoda:** Ihanti! Ihanti! Ihaaan—
 
@@ -668,19 +710,31 @@ Do you consider him a friend?
 
 **凯瑟琳:** 哈哈…哈…好的，请您稍等一下…
 
+##### 对话分支 1
+
 - **旅行者:** 又在接委托？
 
+##### 对话分支 2
+
 - **旅行者:** 真是够忙的…
+
+##### 共同后续
 
 **雅珂达:** 反正我平时也没别的事，总不能老是呆在屋里摸阿舍鲁吧，那样的话奈姐…呃，老板不得把我赶出来？
 
 **雅珂达:** 旅行者，派蒙，既然你们身手这么好，不然帮我来做委托？到时候钱平分。
 
-**派蒙:** 委、委托啊…你问旅行者，他 / 她对这个最在行了！
+**派蒙:** 委、委托啊…你问旅行者，他对这个最在行了！ / 委、委托啊…你问旅行者，她对这个最在行了！
+
+##### 对话分支 1
 
 - **旅行者:** 派蒙…
 
+##### 对话分支 2
+
 - **旅行者:** 行吧，看看是什么委托？
+
+##### 共同后续
 
 **雅珂达:** 肯定不是什么大事，我可是很了解伊赫安提那家伙的，他胆子小得很，委托不了什么大事。
 
@@ -694,9 +748,15 @@ Do you consider him a friend?
 
 **雅珂达:** 没有。就是没想到，之前连杀鸡都不敢亲自下手的伊赫安提，居然也能发布要人命的委托了。
 
+##### 对话分支 1
+
 - **旅行者:** 要、要人命？
 
+##### 对话分支 2
+
 - **旅行者:** 先说好，我很守法的啊。
+
+##### 共同后续
 
 **雅珂达:** 你？哈哈哈哈哈，看得出来，守法得很啊。
 
@@ -708,7 +768,7 @@ Do you consider him a friend?
 
 #### 和雅珂达一起执行委托
 
-**卡列瓦:** …嘁，真是个穷光蛋，怎么什么东西都没有。
+**？？？:** …嘁，真是个穷光蛋，怎么什么东西都没有。
 
 **雅珂达:** 喂，卡列瓦。
 
@@ -739,6 +799,8 @@ Do you consider him a friend?
 **雅珂达:** 旅行者，来，我们一起放倒他们。
 
 **卡列瓦:** 看不起谁呢，兄弟们一起上！新仇旧恨，今天我们一起报了！
+
+#### 击败盗宝团
 
 #### 与卡列瓦对话
 
@@ -884,6 +946,8 @@ Do you consider him a friend?
 
 **伊赫安提:** 谢谢你。
 
+**卡列瓦:** …雅珂达，你真是个怪人。有时候精明得叫人害怕，有时候又傻得出奇。
+
 #### 回到冒险家协会
 
 **凯瑟琳:** 嗯，委托已经完成了，稍等，我把协会的酬金拿来…
@@ -894,13 +958,13 @@ Do you consider him a friend?
 
 **凯瑟琳:** 那请您稍等，我这就去拿酬金过来。
 
-雅珂达，你没事吧？
+- **旅行者:** 雅珂达，你没事吧？
 
 **派蒙:** 虽然说是不给他找医生…但伊赫安提先生看起来很难受，不然…
 
 **雅珂达:** 不用了。既然我说了会守规矩，就要守规矩。
 
-他是你之前的…
+- **旅行者:** 他是你之前的…
 
 **雅珂达:** 他是我之前的「同事」。
 
@@ -910,7 +974,7 @@ Do you consider him a friend?
 
 **雅珂达:** 我在和伊赫安提做「同事」的时候，他也经常会教我各种话术，还带着我到处吃好吃的。
 
-他是你的朋友么？
+- **旅行者:** 他是你的朋友么？
 
 **雅珂达:** 朋友？哈，当然不是，在那个鬼地方，没有傻瓜会和其他人交朋友，我们顶多算是「认识的人」而已。
 
@@ -932,11 +996,9 @@ Do you consider him a friend?
 
 #### 等待至第二天（10点-24点）
 
-**卡列瓦:** …雅珂达，你真是个怪人。有时候精明得叫人害怕，有时候又傻得出奇。
+**伊赫安提:** 老大，看来咱们都逃不掉了…
 
 #### 再次探望伊赫安提
-
-**伊赫安提:** 老大，看来咱们都逃不掉了…
 
 **雅珂达:** 伊赫安提！伊赫安提，伊——
 

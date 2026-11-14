@@ -14,11 +14,13 @@
 # chapter_num_zh:
 # part_source_ids: 76076
 # previous_quests: 
-# next_quests:
-# related_quests:
+# next_quests: 
+# related_quests: 
 # quest_chain: quest_wq_76076
 # quest_series:
 # version_source: verified_override
+# game_source_ids: 76076
+# source_revision: a311cd77d7dafbd2bedc7d3cac4e986c6125b586
 
 ## RU
 
@@ -26,11 +28,29 @@
 
 Клятва, которую приносил каждый, желавший войти в ряды Светоносцев.
 
+#### Соберите клятвы светоносцев
+
+#### Соберите клятвы светоносцев
+
+#### Соберите клятвы светоносцев
+
+#### Соберите клятвы светоносцев
+
+#### Соберите клятвы светоносцев
+
+#### Соберите клятвы светоносцев
+
+#### Соберите клятвы светоносцев
+
+#### Соберите клятвы светоносцев
+
+#### Найдите человека, которому известна клятва Светоносцев
+
 #### Поговорите с Флинсом
 
 **Флинс:** Здравствуй, дорогой друг. Рад снова встретиться с тобой на кладбище.
 
-*Вы описываете Флинсу «Фонарь клятвы» и непонятные слова, которые были на нём начертаны.*
+Вы описываете Флинсу «Фонарь клятвы» и непонятные слова, которые были на нём начертаны.
 
 **Флинс:** «Ветры пробуждаются, кружатся листья...» Это слова из клятвы, которую приносят Светоносцы.
 
@@ -50,11 +70,29 @@
 
 This is the pledge all must take when they become Lightkeepers.
 
+#### Collect Lightkeepers' Oaths
+
+#### Collect Lightkeepers' Oaths
+
+#### Collect Lightkeepers' Oaths
+
+#### Collect Lightkeepers' Oaths
+
+#### Collect Lightkeepers' Oaths
+
+#### Collect Lightkeepers' Oaths
+
+#### Collect Lightkeepers' Oaths
+
+#### Collect Lightkeepers' Oaths
+
+#### Find someone who understands the Lightkeepers' Oath
+
 #### Talk to Flins
 
 **Flins:** Hello there, friend. A pleasure to meet you again amidst the graves.
 
-*You describe the "Oath Lantern" you saw and the incomprehensible words inscribed upon it.*
+You describe the "Oath Lantern" you saw and the incomprehensible words inscribed upon it.
 
 **Flins:** "The winds awaken, the leaves whirl round"... This is the oath those who join the Lightkeepers swear.
 
@@ -74,11 +112,29 @@ This is the pledge all must take when they become Lightkeepers.
 
 这是成为执灯人之时，每个人的许诺。
 
+#### 收集执灯人誓言
+
+#### 收集执灯人誓言
+
+#### 收集执灯人誓言
+
+#### 收集执灯人誓言
+
+#### 收集执灯人誓言
+
+#### 收集执灯人誓言
+
+#### 收集执灯人誓言
+
+#### 收集执灯人誓言
+
+#### 寻找了解执灯人誓言的人
+
 #### 与菲林斯对话
 
 **菲林斯:** 你好，我的朋友，很高兴与你墓里再会。
 
-*向菲林斯描述了你所见到的「誓言之灯」与灯上不明意义的话语。*
+向菲林斯描述了你所见到的「誓言之灯」与灯上不明意义的话语。
 
 **菲林斯:** 「风已醒来，落叶飞旋」…这是人们在加入执灯人时立下的誓言。
 

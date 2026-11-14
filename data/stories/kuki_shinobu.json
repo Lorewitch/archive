@@ -144,5 +144,946 @@
       }
     }
   ],
-  "part_count": 8
+  "part_count": 8,
+  "replicas": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Привет...",
+        "en": "Hello",
+        "zh": "初次见面…"
+      },
+      "text": {
+        "ru": "Привет! Я Куки Синобу, помощница главаря банды Аратаки. Мы предлагаем широкий спектр услуг, в том числе транспортировку и логистику, охрану, ремонтные работы и музыкальные представления. Пожалуйста, не стесняйся обращаться ко мне, если что-нибудь понадобится. Вот моя визитка.",
+        "en": "Oh... Hey there! I'm Kuki Shinobu, deputy leader of the Arataki Gang. We offer a wide range of services, including but not limited to transport and logistics, security, home repair, and musical performances. Please feel free to contact me if you need anything. Here's my card.",
+        "zh": "你好，我是荒泷派的二把手久岐忍。我们承包多种业务，货运物流、安保维持、房屋补漏、表演驻唱等等。需要我们请随时联系，这是我的名片，还请收下。"
+      },
+      "source_id": 65000
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Поболтаем: В крайнем случае",
+        "en": "Chat: In a Pinch",
+        "zh": "闲聊·麻烦事"
+      },
+      "text": {
+        "ru": "Если окажешься в затруднительном положении, просто дай мне знать. Я помогу тебе.",
+        "en": "Just let me know if you ever find yourself in a pinch. I can help you out.",
+        "zh": "有麻烦事要处理的话，直接告诉我就好，我来摆平。"
+      },
+      "source_id": 65001
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Поболтаем: Сертификаты",
+        "en": "Chat: Certificates",
+        "zh": "闲聊·证书"
+      },
+      "text": {
+        "ru": "Критерии для сдачи экзамена на получение сертификата на осуществление деятельности достаточно просты, всё сводится к тому, готов ли ты потратить на это время. Если усердно заниматься, то это не так уж и сложно. / Критерии для сдачи экзамена на получение сертификата на осуществление деятельности достаточно просты, всё сводится к тому, готова ли ты потратить на это время. Если усердно заниматься, то это не так уж и сложно.",
+        "en": "The criteria for certificate exams are straightforward enough, what it really comes down to is whether you are willing to put in the time. If you study and practice, then it's really not all that difficult.",
+        "zh": "执业证书考试都有固定评判标准，肯学肯练就能考过，没什么难的。"
+      },
+      "source_id": 65002
+    },
+    {
+      "number": 4,
+      "title": {
+        "ru": "Поболтаем: Банда Аратаки",
+        "en": "Chat: The Arataki Gang",
+        "zh": "闲聊·荒泷派"
+      },
+      "text": {
+        "ru": "Если банда Аратаки устроит какие-либо неприятности, я заставлю каждого из них извиниться лично.",
+        "en": "If the Arataki Gang stirs up any trouble, I'll drag every last one of them back to apologize.",
+        "zh": "要是荒泷派犯了事，我会揪他们去认错的。"
+      },
+      "source_id": 65003
+    },
+    {
+      "number": 5,
+      "title": {
+        "ru": "Когда идёт дождь...",
+        "en": "When It Rains",
+        "zh": "下雨的时候…"
+      },
+      "text": {
+        "ru": "Зонтик не нужен, просто пойдём быстрее.",
+        "en": "We don't need an umbrella, just pick up the pace.",
+        "zh": "不用打伞了，腿脚快点就行。"
+      },
+      "source_id": 65004
+    },
+    {
+      "number": 6,
+      "title": {
+        "ru": "Когда гремит гром...",
+        "en": "When Thunder Strikes",
+        "zh": "打雷的时候…"
+      },
+      "text": {
+        "ru": "Осторожнее. Никто не хочет быть поражённым молнией.",
+        "en": "Be careful. No one wants to get struck by lightning.",
+        "zh": "当心点。这种天，应该没人会想引雷上身吧？"
+      },
+      "source_id": 65005
+    },
+    {
+      "number": 7,
+      "title": {
+        "ru": "Когда идёт снег...",
+        "en": "When It Snows",
+        "zh": "下雪的时候…"
+      },
+      "text": {
+        "ru": "Давай закончим работу и пойдём. Не нужно терять времени.",
+        "en": "Let's just finish the job and leave. There's no need to waste time.",
+        "zh": "快点把事情办完就撤吧，别浪费时间。"
+      },
+      "source_id": 65006
+    },
+    {
+      "number": 8,
+      "title": {
+        "ru": "Когда светит солнце...",
+        "en": "When the Sun Is Out",
+        "zh": "阳光很好…"
+      },
+      "text": {
+        "ru": "Сегодня хороший день, но я не могу избавиться от этого странного чувства... Хм, надеюсь, это просто моё воображение.",
+        "en": "It's a nice day, but I can't seem to shake this strange feeling... Huh, let's just hope it's my imagination.",
+        "zh": "嗯，天气真好，但总有种不祥的预感…希望是我多虑了吧。"
+      },
+      "source_id": 65007
+    },
+    {
+      "number": 9,
+      "title": {
+        "ru": "Когда дует сильный ветер...",
+        "en": "When the Wind Is Blowing",
+        "zh": "刮大风了…"
+      },
+      "text": {
+        "ru": "Хм... Какой приятный ветерок.",
+        "en": "Hmm... what a pleasant breeze.",
+        "zh": "唔…这风还算不错。"
+      },
+      "source_id": 65008
+    },
+    {
+      "number": 10,
+      "title": {
+        "ru": "Доброе утро...",
+        "en": "Good Morning",
+        "zh": "早上好…"
+      },
+      "text": {
+        "ru": "Доброе утро. Идёшь тренироваться? Я и не знала, что ты настолько прилежный. / Доброе утро. Идёшь тренироваться? Я и не знала, что ты настолько прилежная.",
+        "en": "Morning. Going out to train? Huh, I didn't know you were so diligent.",
+        "zh": "早啊，看你的样子是准备去锻炼了？没想到你还挺勤快的。"
+      },
+      "source_id": 65009
+    },
+    {
+      "number": 11,
+      "title": {
+        "ru": "Добрый день...",
+        "en": "Good Afternoon",
+        "zh": "中午好…"
+      },
+      "text": {
+        "ru": "Что хочешь поесть? Я скопила немного денег, так что обед за мой счёт.",
+        "en": "Hey, what would you like to eat? I've been saving up lately, so lunch is on me.",
+        "zh": "想吃什么？最近攒了不少钱，午饭我请你。"
+      },
+      "source_id": 65010
+    },
+    {
+      "number": 12,
+      "title": {
+        "ru": "Добрый вечер...",
+        "en": "Good Evening",
+        "zh": "晚上好…"
+      },
+      "text": {
+        "ru": "Некоторые поручения лучше выполнять ночью. Однако я не могу доверить банде такие задания, поэтому обычно выполняю их сама.",
+        "en": "Some commissions are better done by night. I can't trust the gang with such tasks though, so I usually do them myself.",
+        "zh": "有些委托，在夜晚才好办。我不放心交给他们，都是我亲自上。"
+      },
+      "source_id": 65011
+    },
+    {
+      "number": 13,
+      "title": {
+        "ru": "Спокойной ночи...",
+        "en": "Good Night",
+        "zh": "晚安…"
+      },
+      "text": {
+        "ru": "Иди вперёд и отдохни, если нужно. Не волнуйся обо мне.",
+        "en": "Go ahead and take a rest if you need. Don't worry about me.",
+        "zh": "该休息的时候就去休息吧，不用管我。"
+      },
+      "source_id": 65012
+    },
+    {
+      "number": 14,
+      "title": {
+        "ru": "О Куки Синобу: Помощница главаря банды",
+        "en": "About Kuki Shinobu: Gang's Deputy Leader",
+        "zh": "关于久岐忍自己·二把手"
+      },
+      "text": {
+        "ru": "Мои основные обязанности заключаются в том, чтобы вести бизнес и поддерживать стабильность... э-э, а также вытаскивать банду из полицейского участка, возвращать детям сладости и игрушки и ловить тех, кто отлынивает во время работы... Можно сказать, что вся эта дополнительная работа возникает из-за того, что это банда Аратаки. Полагаю, что главарям других банд не приходится заниматься подобными вещами. Но опять же, никто другой не смог бы выполнить эту работу так, как я.",
+        "en": "My primary responsibilities are to bring in business and maintain a stable team... uh, as well as bailing out the gang from the Police Station, returning snacks and toys to kids, and catching anyone secretly slacking off during a job... I guess you could say all this extra work comes with being part of the Arataki Gang. I suppose that leaders of other groups wouldn't have to put up with that kind of stuff. But then again, no one else could do the job like me.",
+        "zh": "招揽业务、维系成员安定是我的职责，除此之外还有——去奉行所捞人，归还零食和玩具，抓捕接了活却在暗处偷懒的成员…不过，这些额外工作属于荒泷派特色，其他任何组织的二把手，理论上都不需要做这些。当然，也做不到像我这样。"
+      },
+      "source_id": 65013
+    },
+    {
+      "number": 15,
+      "title": {
+        "ru": "О Куки Синобу: Запасной план",
+        "en": "About Kuki Shinobu: Backup Plan",
+        "zh": "关于久岐忍自己·退路"
+      },
+      "text": {
+        "ru": "Что произойдёт, если банда распадётся? Во-первых, это никогда не случится. Во-вторых, даже если это случится, мне не о чем беспокоиться. У меня всегда есть способ свести концы с концами.",
+        "en": "Hmm? What would happen if the gang ever disbanded? First of all, that would never happen. Secondly, even if that did happen, I've got nothing to worry about. I've always got a way to make ends meet.",
+        "zh": "你说帮派解散？首先，那种事应该不会发生。其次，就算发生了，我有什么好担心的呢。饿肚子的人不可能是我。"
+      },
+      "source_id": 65014
+    },
+    {
+      "number": 16,
+      "title": {
+        "ru": "О нас: Записи",
+        "en": "About Us: Notes",
+        "zh": "关于我们·笔记"
+      },
+      "text": {
+        "ru": "Если захочешь получить какой-нибудь сертификат, найди меня. Я одолжу тебе свои записи для экзамена. Поверь, они настолько подробные, что кто угодно сможет сдать.",
+        "en": "Come find me if you ever suddenly want to become certified in anything. I'll lend you all my notes for the exam. Believe me, my notes are detailed enough to help anybody pass.",
+        "zh": "要是你心血来潮想考什么证，不如直接找我吧，我把笔记借你。备注和要点很详细，不愁你学不会。"
+      },
+      "source_id": 65015
+    },
+    {
+      "number": 17,
+      "title": {
+        "ru": "О нас: Порядок",
+        "en": "About Us: Cleaning Up the Mess",
+        "zh": "关于我们·善后"
+      },
+      "text": {
+        "ru": "Неважно, входишь ли ты в банду Аратаки, я никогда не стану относиться к тебе, как к чужаку. Просто предоставь мне всю логистику и планирование. Поверь, в этом я эксперт. Я справлюсь с чем угодно, насколько бы сложным это ни казалось. А? Беспокоишься о моей безопасности? Хе-хе, не волнуйся, я не напрасно набиралась опыта все эти годы.",
+        "en": "Whether you are in the Arataki Gang or not, I'll never treat you as an outsider. Just go ahead and leave the logistics and planning to me. Trust me, I'm an expert. I can handle anything, no matter how complicated it might seem. Huh? You're concerned about my safety? Hehe, don't worry, all these years of experience aren't just for show.",
+        "zh": "不管你是不是荒泷派的人，我都不会把你当外人。你就往前走吧，幕后的工作交给我。放心，这方面我是专业的，多复杂的事都能办妥。嗯？担心我的安危？呵，这方面你也放心吧，这些年的摸爬滚打，不是白经历的。"
+      },
+      "source_id": 65016
+    },
+    {
+      "number": 18,
+      "title": {
+        "ru": "Глаз Бога...",
+        "en": "About the Vision",
+        "zh": "关于「神之眼」…"
+      },
+      "text": {
+        "ru": "Как и сертификат, Глаз Бога - убедительное доказательство моих способностей. Единственная разница в том, что я не уверена в критериях оценки Глаза Бога.",
+        "en": "Just like a certificate, this Vision is solid proof of my capabilities. The only difference is that I'm still not certain about a Vision's assessment criteria.",
+        "zh": "和证书一样，这是对我能力的肯定和证明。但不同的是，我至今不知道它的考核标准。"
+      },
+      "source_id": 65017
+    },
+    {
+      "number": 19,
+      "title": {
+        "ru": "Давай поделимся: Маска",
+        "en": "Something to Share: Face Mask",
+        "zh": "有什么想要分享·面铠"
+      },
+      "text": {
+        "ru": "Я ношу маску, потому что не хочу, чтобы меня кто-нибудь узнал, когда я работаю с бандой Аратаки. Если кто-то из моих знакомых увидит меня, то поднимется большой шум... От одной мысли об этом у меня начинает болеть голова. Я никогда не позволю этому случиться снова! Кхм... Не обращай внимания.",
+        "en": "I wear a mask because I don't want to be recognized by anybody, especially when I'm working with the Arataki Gang. If someone I know manages to recognize me, they're sure to make a big fuss about it... It gives me a headache just thinking about it. I won't ever let it happen again! Ahem, never mind...",
+        "zh": "戴上面铠是不想被熟人认出来。尤其和荒泷派一起出任务时，要是熟人看见了，指指点点，那群家伙肯定会趁机起哄。啧，光是想想，就很烦。不能再有下次了…咳，没什么。"
+      },
+      "source_id": 65018
+    },
+    {
+      "number": 20,
+      "title": {
+        "ru": "Давай поделимся: Правила банды",
+        "en": "Something to Share: Gang Bylaws",
+        "zh": "有什么想要分享·派中法度"
+      },
+      "text": {
+        "ru": "Я придумала Правила банды, чтобы у всех были принципы, которым нужно следовать. А? Почему они готовы следовать моим правилам? Потому что и мои слова, и мои кулаки весьма убедительны.",
+        "en": "I came up with the Gang Bylaws so everyone would have a set of guidelines to follow. Huh? Why are they willing to follow my rules? Because both my words and my fists are very persuasive.",
+        "zh": "我制定了荒泷派的「派中法度」，他们就应该谨遵法度行事。嗯？你问他们为什么愿意听话？因为我比他们更有说服力。我的语言和拳头，姑且还算是有点分量。"
+      },
+      "source_id": 65019
+    },
+    {
+      "number": 21,
+      "title": {
+        "ru": "Интересные вещи...",
+        "en": "Interesting Things",
+        "zh": "感兴趣的见闻…"
+      },
+      "text": {
+        "ru": "В храме говорят, что если связать траву наку в кольцо и обернуть вокруг пояса, то она отгонит несчастья и принесёт удачу. Ты веришь в это? Лично я нахожу парализующий эффект куда более практичным.",
+        "en": "There is a saying circulating among the shrines claiming that if you weave Naku Weed into a ring and wrap it around your body, it can dispel disaster and bring good fortune. So, do you believe that? I, however, personally find the plant's paralyzing effect a little more practical.",
+        "zh": "神社中流传着一种说法，将鸣草织成一个圈缠在身上，就能祛灾祈福，你信吗？我倒觉得，鸣草，还是麻痹效果更实用。"
+      },
+      "source_id": 65020
+    },
+    {
+      "number": 22,
+      "title": {
+        "ru": "О сёгуне Райдэн...",
+        "en": "About the Raiden Shogun",
+        "zh": "关于雷电将军…"
+      },
+      "text": {
+        "ru": "После отмены указа Сакоку сёгун Райдэн издала множество других указов, направленных на поддержку и развитие различных отраслей. Все те сертификаты, которые я получила во времена действия указа Сакоку, сейчас очень пригодились, и дела банды наконец-то пошли в гору... Пути судьбы неисповедимы. Кто мог бы подумать, что я буду её благодарить?",
+        "en": "After the Sakoku Decree was lifted, the Raiden Shogun issued many decrees aimed at supporting the development of various industries. All those certificates I received during the Sakoku Decree are coming in real handy now, and the gang is finally out of the red... Fate really does have its ways. Who would've thought after all that, I'd still have her to thank?",
+        "zh": "解除锁国后，雷电将军陆续颁布了不少法令支持各行各业的发展。我在锁国期间考的证书全都派上了用场，荒泷派也不那么拮据了。祸福相依，没想到到头来还得感谢她。"
+      },
+      "source_id": 65021
+    },
+    {
+      "number": 23,
+      "title": {
+        "ru": "О Кудзё Саре...",
+        "en": "About Kujou Sara",
+        "zh": "关于九条裟罗…"
+      },
+      "text": {
+        "ru": "Госпожа Кудзё? Да, мы дружим. Гм? Удивляешься, что я её знаю? О, ты неправильно понял, мы познакомились ещё до моего вступления в банду Аратаки. Хех, на самом деле, сложно сказать, кто вышел бы победителем из нашего сражения. / Госпожа Кудзё? Да, мы дружим. Гм? Удивляешься, что я её знаю? О, ты неправильно поняла, мы познакомились ещё до моего вступления в банду Аратаки. Хех, на самом деле, сложно сказать, кто вышел бы победителем из нашего сражения.",
+        "en": "Madam Kujou? Yes, she's a friend of mine. Hmm? You're surprised that I know her? Oh, you must've misunderstood, I knew her from before I joined the Arataki Gang. Heh, in fact, it's hard to tell who's the winner whenever we spar.",
+        "zh": "九条小姐啊，她是我的朋友。嗯？我认识她让你觉得很意外吗？噢，你可能误会了，我加入荒泷派之前就跟她有交情。我们俩的切磋，还难分胜负呢。"
+      },
+      "source_id": 65022
+    },
+    {
+      "number": 24,
+      "title": {
+        "ru": "О Яэ Мико...",
+        "en": "About Yae Miko",
+        "zh": "关于八重神子…"
+      },
+      "text": {
+        "ru": "Ты не представляешь, как скучно быть жрицей. Даже госпожа Гудзи из Великого храма Наруками занимается издательским делом ради развлечения. Я никогда больше не стану жрицей. Никогда.",
+        "en": "You can't imagine how boring it is to be a shrine maiden. Even Lady Guuji from the Grand Narukami Shrine has her publishing gig to break up the monotony. I will never go back to being a shrine maiden. Never.",
+        "zh": "就连堂堂鸣神大社的宫司大人，都要靠副业来解闷，可见当巫女是有多无聊。我是绝对不会回去当巫女的。"
+      },
+      "source_id": 65023
+    },
+    {
+      "number": 25,
+      "title": {
+        "ru": "Об Аратаки Итто...",
+        "en": "About Arataki Itto",
+        "zh": "关于荒泷一斗…"
+      },
+      "text": {
+        "ru": "У главаря тяжёлое прошлое, но ему всё равно удаётся оставаться жизнерадостным. Такая устойчивость встречается довольно редко. Он добр к нам, и его характер хорошо влияет на всех в банде. Конечно же, это не может служить оправданием его проступкам. Дай знать, если он доставит неприятности, и я заставлю его пожалеть, что он был груб с тобой.",
+        "en": "The boss has a lot of unpleasant memories from his past, but he still manages to stay positive. I'd say that kind of resilience is pretty rare. He treats us well and his character has a good effect on everyone in the gang. Of course, it's never an excuse for him to run amok with no consideration for others. Just let me know if he ever causes you any trouble and I'll be sure to make him regret ever being rude to you.",
+        "zh": "老大有很多不算愉快的过去，却还能保持快乐阳光，挺难得的。他对我们很不错，他的纯粹也感染着荒泷派的大家。当然，这不能成为他横冲直撞影响别人的借口。如果他找你麻烦，尽管告诉我。我会好好收拾他，让他后悔对你无礼。"
+      },
+      "source_id": 65024
+    },
+    {
+      "number": 26,
+      "title": {
+        "ru": "О Янь Фэй...",
+        "en": "About Yanfei",
+        "zh": "关于烟绯…"
+      },
+      "text": {
+        "ru": "В то время я поссорилась со своей семьёй и хотела убежать как можно дальше. Так что я отправилась в Ли Юэ изучать юриспруденцию, и благодаря этому мне посчастливилось познакомиться с наставницей Янь Фэй. Она буквально ходячая энциклопедия права. А? Я? У меня есть сертификат, но здесь слишком много ограничений... Не самая удачная сфера занятости.",
+        "en": "Back then I had an argument with my family and I only wanted to run away as far as I could. So, I went to study law in Liyue, but thanks to this experience, I got to meet Yanfei. She's like a walking law encyclopedia. Huh? Me? I have a certificate but there are a lot of restrictions for practicing law... It's not really the right field for me.",
+        "zh": "那时候跟家里闹翻了，只想着有多远逃多远，就跑去璃月学律法了。得亏这样，有幸认识了烟绯师姐。在律法咨询这块，她简直就是活字典。我？执业证书倒是有的，不过这个职业的约束也不少，并不是最适合我的。"
+      },
+      "source_id": 65025
+    },
+    {
+      "number": 27,
+      "title": {
+        "ru": "О Сиканоин Хэйдзо...",
+        "en": "About Shikanoin Heizou",
+        "zh": "关于鹿野院平藏…"
+      },
+      "text": {
+        "ru": "Он отличается от других досинов комиссии Тэнрё. Я никогда не видела его в патруле, или чтобы он арестовывал кого-то. Иногда он приходит ко мне за информацией. В обмен я прошу его замолвить за меня словечко всякий раз, когда мне приходится доставать кого-то из полицейского участка. Он с радостью соглашается. Можно сказать, сделка довольно выгодная. В конце концов, заставить ребят быть внимательными на улицах достаточно просто.",
+        "en": "He's different from the other Doushin of the Tenryou Commission. I have yet to see him on patrol or apprehend anyone, and he occasionally comes to me to buy intelligence. In exchange, I asked him to put in a good word for me whenever I'm bailing people out of the Police Station. He gladly agreed. I'd say that's a pretty good deal... After all, getting the boys to keep their eyes and ears open on the streets is easy enough.",
+        "zh": "他和普通天领奉行同心不一样，从未见他做什么巡逻、抓捕的活。他偶尔会找我买线索，作为交换，我希望他能在我去奉行所捞人时帮我美言几句，他也爽快答应了。这笔交易还算值，毕竟让弟兄们收集点市井见闻是很简单的事。"
+      },
+      "source_id": 65026
+    },
+    {
+      "number": 28,
+      "title": {
+        "ru": "Узнать больше о Куки Синобу I",
+        "en": "More About Kuki Shinobu: I",
+        "zh": "想要了解久岐忍·其一"
+      },
+      "text": {
+        "ru": "Я работала на многих разных работах и обладаю множеством сертификатов. Что касается управления, я возглавляла небольшую команду и отвечала за делегирование задач и распределение ресурсов в соответствии с... Э-э, извини, не обращай внимания... Я слишком привыкла к собеседованиям.",
+        "en": "I've worked many different jobs and I'm certified in a variety of fields. In terms of management, I've led a small team and have been responsible for delegating tasks and allocating resources according to... Uh, sorry, don't mind me... Sometimes I still slip into interview mode.",
+        "zh": "我做过很多不同的工作，相关的执业证书也有不少。管理方面，带过小型团队，负责人员统筹和资源调配…呃，抱歉，面试多了就说习惯了，别介意。"
+      },
+      "source_id": 65027
+    },
+    {
+      "number": 29,
+      "title": {
+        "ru": "Узнать больше о Куки Синобу II",
+        "en": "More About Kuki Shinobu: II",
+        "zh": "想要了解久岐忍·其二"
+      },
+      "text": {
+        "ru": "Я происхожу из семьи жриц, но совсем не гожусь для этой работы. Когда я убежала из дома, то сразу решила, что должна научиться как можно большему, чтобы прокормить себя. Я изучала всё подряд - кулинарию, пошив одежды, борьбу, юриспруденцию, издательское дело, редактуру... Только когда я по-настоящему освоилась в обществе, я поняла, что научилась всему необходимому.",
+        "en": "I come from a family of shrine maidens but I'm not cut out for that kind of work at all. When I ran away from home, I immediately thought I should learn as much as possible to support myself. I studied everything from cooking, tailoring, and fighting, to legal consulting, publishing, and editing... It wasn't until I really settled into society that I realized I've learned everything I need.",
+        "zh": "我家是巫女世家，但我不适合当巫女。刚逃出来那会儿，我觉得要多积累，以免没有傍身之技。什么厨师、裁缝、格斗、律法咨询、出版编辑…我都学了。没想到真正进了社会才发现，学的已经完全够用了。"
+      },
+      "source_id": 65028
+    },
+    {
+      "number": 30,
+      "title": {
+        "ru": "Узнать больше о Куки Синобу III",
+        "en": "More About Kuki Shinobu: III",
+        "zh": "想要了解久岐忍·其三"
+      },
+      "text": {
+        "ru": "Думаешь, у меня хорошие навыки общения? Что ж, я многое повидала в этом мире. Я научилась читать людей по выражению лиц и языку тела. Кроме того, в девяти случаях из десяти банда неизменно попадает в беду. Я не против состроить гримасу, чтобы вывести нас из затруднительного положения, но всё равно предпочитаю не улыбаться.",
+        "en": "Hmm? You think I've got good social skills? Well, you could say I've seen a lot of the world by now. I've learned how to read people based on their expressions and body language. Besides, nine times out of ten, it's the gang getting in trouble. I don't mind putting on a face to get us out of a sticky predicament, but I still prefer not to smile.",
+        "zh": "你说我社交场合很厉害？呵，毕竟在外流浪了那么久，总得学会察言观色。更何况在多数时候，理亏的那一方都是我们。我不讨厌摆出那些表情，但可以的话，我还是选择不笑的好。"
+      },
+      "source_id": 65029
+    },
+    {
+      "number": 31,
+      "title": {
+        "ru": "Узнать больше о Куки Синобу IV",
+        "en": "More About Kuki Shinobu: IV",
+        "zh": "想要了解久岐忍·其四"
+      },
+      "text": {
+        "ru": "Когда я только вступила в банду Аратаки, главарь сказал мне научить остальных драться. Так что я избила их всех, одного за другим. Я была удивлена, что даже будучи избитыми, они уважительно звали меня Синобу и просили вести их. Тогда-то я и поняла, что это просто кучка идиотов. Но ничего, даже они не смогут меня удержать. Я со всем справлюсь.",
+        "en": "When I first joined the Arataki Gang, the boss told me to teach the others how to fight. So the first thing I did was beat them up, one by one. I was a little surprised that even in their bruised and swollen state they still respectfully called me Shinobu and asked me to lead them. Hmph, at that moment, I knew they really were a big bunch of idiots... But that's fine, even a group like this won't slow me down, I'll just take care of everything myself.",
+        "zh": "刚进荒泷派的时候，老大要我教小弟们怎么打架。所以我上来第一件事，就变成了把他们挨个揍趴下。没想到，一个个鼻青眼肿的，却睁大眼睛，张嘴就叫我「忍姐」，还要我好好带领他们。哼，那时候我就知道这是一群笨蛋。但没关系，笨蛋不会拖我后腿，我会解决一切问题。"
+      },
+      "source_id": 65030
+    },
+    {
+      "number": 32,
+      "title": {
+        "ru": "Узнать больше о Куки Синобу V",
+        "en": "More About Kuki Shinobu: V",
+        "zh": "想要了解久岐忍·其五"
+      },
+      "text": {
+        "ru": "Я сама решила остаться в банде Аратаки. Решать их проблемы бывает довольно раздражающе, но взамен они относятся ко мне с незаменимой искренностью. Они всегда приберегают для меня всё самое лучшее и никогда не оставляют меня в унынии. Когда я объявила о своём решении остаться в банде, все очень обрадовались. Знаю, что другие не очень высокого мнения о банде Аратаки, а самим членам банды на самом деле всё равно, что о них думают. Но я всё ещё хочу изменить впечатление, которое мы оставляем. Я могу время от времени жаловаться на них как на свою семью, но я никогда никому не позволю ругать их.",
+        "en": "It's my own decision to stay in the Arataki Gang. It can be pretty annoying having to clean up their mess all the time, but in return, they treat me with a sincerity that is irreplaceable... They always save the best things for me and never leave me feeling down. When I announced my decision to stay in the gang, they all cheered for me. I know outsiders don't think very highly of the Arataki Gang, and the members themselves don't really care what others think. But, I still want to strive to change the impression we leave. I might complain about them from time to time as my family, but I'll never let anyone badmouth them.",
+        "zh": "留在荒泷派是我自己的选择。收拾烂摊子难免令人火大，但他们也给了我无可替代的真诚。最好的东西都先留给我、从不泼我冷水、在我宣布决定后闹哄哄地鼓掌吹口哨…我知道外面对荒泷派的评价不太好，他们自己也不在乎，但我还是想努努力，改变别人对我们的印象。因为，对待「家人」，自己可以偶尔抱怨，但就是不想其他人说他们的不好。"
+      },
+      "source_id": 65031
+    },
+    {
+      "number": 33,
+      "title": {
+        "ru": "Хобби Куки Синобу...",
+        "en": "Kuki Shinobu's Hobbies",
+        "zh": "久岐忍的爱好…"
+      },
+      "text": {
+        "ru": "Быть в банде - значит иметь много свободного времени. Порой я сама не замечаю, как заканчиваю читать целую книгу или сдаю экзамен на сертификат. Здорово, да? Когда моя семья связывается со мной, я, по крайней мере, могу сказать им, что не трачу время впустую и обладаю высокой квалификацией. В обществе с такой высокой конкуренцией мои сертификаты никогда не позволят мне остаться голодной.",
+        "en": "Being in the gang means having lots of free time. I often finish reading a whole book or even pass a certificate exam before I even realize it. Kinda nice, wouldn't you agree? When my family asks about me, at least I can tell them I don't waste my time, and when I go job hunting, I have lots of qualifications to rely on. In this ultra-competitive society, a misfit like myself with all these certificates will never go hungry.",
+        "zh": "平时混帮派，闲着也是闲着，经常不小心读完一本书，不小心就把证考了。不也挺好吗？家里问起来，我也没虚度时光，出去谈工作，也算得上有资本。在这个凡事讲究实力的社会里，我这种有证书的混子，到哪里都能吃得饱饭。"
+      },
+      "source_id": 65032
+    },
+    {
+      "number": 34,
+      "title": {
+        "ru": "Беспокойство Куки Синобу...",
+        "en": "Kuki Shinobu's Troubles",
+        "zh": "久岐忍的烦恼…"
+      },
+      "text": {
+        "ru": "Я хотела любой ценой избежать возвращения в храм, поэтому пришлось найти способ встать на ноги. Думаю, я неплохо справляюсь.",
+        "en": "Back then, I wanted to avoid getting dragged back to the shrine at all cost, so I had to find a way to stand on my own two feet. So far, I think I'm doing alright.",
+        "zh": "以前不想被抓回去当巫女，就决心只靠自己站稳脚跟。至少目前看来，我干得还不错。"
+      },
+      "source_id": 65033
+    },
+    {
+      "number": 35,
+      "title": {
+        "ru": "Любимая еда...",
+        "en": "Favorite Food",
+        "zh": "喜欢的食物…"
+      },
+      "text": {
+        "ru": "Даже если съем что-то сытное, вроде рамэна или гёдза, то всё равно хочу закончить трапезу плошкой риса. Рис очень вкусный, вот и всё. Какие-то проблемы?",
+        "en": "Even after eating something really filling like ramen or gyoza, I still always want to finish my meal with a small bowl of rice. Rice is just delicious, that's all. Is there a problem with that?",
+        "zh": "就算刚吃过拉面或者饺子之类很管饱的食物，最后还是想以一小碗米饭结束。米饭好吃，没什么其他原因，有问题吗？"
+      },
+      "source_id": 65034
+    },
+    {
+      "number": 36,
+      "title": {
+        "ru": "Нелюбимая еда...",
+        "en": "Least Favorite Food",
+        "zh": "讨厌的食物…"
+      },
+      "text": {
+        "ru": "В Ли Юэ есть выражение: «Нет плохой еды, есть плохие повара». Получив лицензию шеф-повара, я ещё больше убедилась в том, что это абсолютно верно.",
+        "en": "There's a saying I heard in Liyue: \"There is no bad food, only bad cooks.\" After getting my license as a chef, I became even more convinced that this is absolutely true.",
+        "zh": "厨师证到手后，我就更加坚定那个从璃月听来的说法：没有难吃的食物，只有不合格的厨师。"
+      },
+      "source_id": 65035
+    },
+    {
+      "number": 37,
+      "title": {
+        "ru": "День рождения...",
+        "en": "Birthday",
+        "zh": "生日…"
+      },
+      "text": {
+        "ru": "С Днём рождения! Вот, это дротик из травы наку специально для тебя. Осторожно, да, держи именно так... Убедись, что рассчитал траекторию перед броском. Хе-хе, я рада, что тебе нравится. О, только не обращайся с ним, как с игрушкой, это довольно опасно. Если хочешь ещё попрактиковаться, то могу тебя научить. / С Днём рождения! Вот, это дротик из травы наку специально для тебя. Осторожно, да, держи именно так... Убедись, что рассчитала траекторию перед броском. Хе-хе, я рада, что тебе нравится. О, только не обращайся с ним, как с игрушкой, это довольно опасно. Если хочешь ещё попрактиковаться, то могу тебя научить.",
+        "en": "Happy birthday! Here, take this special dart made from Naku Weed. Be careful, yep, that's the way to hold it... Make sure you predict the trajectory before you throw it... Hehe, I'm happy that you like it. Oh, don't treat it like a toy, it's still quite dangerous. If you want to practice a little more, I can teach you.",
+        "zh": "生日快乐，来，这个鸣草特制飞镖送给你。小心点，嗯，对，要像这样拿…投掷前记得计算弧度。呵呵，看你喜欢我就放心了。哦，别把它当玩具，还是有一定危险性的。想多训练一下的话，我来教你。"
+      },
+      "source_id": 65036
+    },
+    {
+      "number": 38,
+      "title": {
+        "ru": "Чувство возвышения: Начало",
+        "en": "Feelings About Ascension: Intro",
+        "zh": "突破的感受·起"
+      },
+      "text": {
+        "ru": "Если базовых навыков не хватает, то и говорить не о чем. В этом и заключается смысл сертификата базового уровня - показать, что ты действительно что-то знаешь.",
+        "en": "If you haven't mastered the basics, then there's no point in even trying to discuss it. That's the purpose of a basic-level certificate, to show you actually know something.",
+        "zh": "基本功不过关，就什么都不用谈了。这就是初级证书的意义。"
+      },
+      "source_id": 65037
+    },
+    {
+      "number": 39,
+      "title": {
+        "ru": "Чувство возвышения: Нарастание",
+        "en": "Feelings About Ascension: Building Up",
+        "zh": "突破的感受·承"
+      },
+      "text": {
+        "ru": "У меня есть сертификат среднего уровня, что означает, что я квалифицирована для решения большинства проблем. Могу ли я тебе чем-нибудь помочь?",
+        "en": "I have an intermediate certificate, which means that I'm qualified to handle most problems. Is there anything I can help you with?",
+        "zh": "中级证书到手，已经可以处理大多数麻烦了。有什么麻烦事需要我帮你解决？"
+      },
+      "source_id": 65038
+    },
+    {
+      "number": 40,
+      "title": {
+        "ru": "Чувство возвышения: Кульминация",
+        "en": "Feelings About Ascension: Climax",
+        "zh": "突破的感受·转"
+      },
+      "text": {
+        "ru": "Получить сертификат высшего уровня непросто, для этого требуется как талант, так и реальный боевой опыт.",
+        "en": "Earning an advanced certificate is not easy, it requires both talent and actual combat experience.",
+        "zh": "高级证书绝不是轻易就能得到的，天赋和实战的累积缺一不可。"
+      },
+      "source_id": 65039
+    },
+    {
+      "number": 41,
+      "title": {
+        "ru": "Чувство возвышения: Окончание",
+        "en": "Feelings About Ascension: Conclusion",
+        "zh": "突破的感受·合"
+      },
+      "text": {
+        "ru": "Сертификаты полезны для оценки профессиональных навыков, но они не в состоянии измерить объём затраченных усилий или эмоциональных вложений. Наша дружба вышла за рамки того, что можно выразить простыми словами благодарности. Позволь мне выразить свои чувства, стараясь изо всех сил.",
+        "en": "Certificates are useful for judging professional skills but they fail to measure the amount of effort or emotional investment involved. Our friendship has gone beyond something that can be expressed with a simple \"thank you.\" Let me express my feelings by always giving the very best of my abilities.",
+        "zh": "证书只能用来评判技能的专业程度，无法对付出或情感的投入进行量化。你我的交情也不能只用一句感谢来表达，还是用我最擅长的行动来说明一切吧。"
+      },
+      "source_id": 65040
+    },
+    {
+      "number": 42,
+      "title": {
+        "ru": "Элементальный навык I",
+        "en": "Elemental Skill: I",
+        "zh": "元素战技·其一"
+      },
+      "text": {
+        "ru": "Наша связь крепка!",
+        "en": "Our bond is strong!",
+        "zh": "鸣草结环！"
+      },
+      "source_id": 65041
+    },
+    {
+      "number": 43,
+      "title": {
+        "ru": "Элементальный навык II",
+        "en": "Elemental Skill: II",
+        "zh": "元素战技·其二"
+      },
+      "text": {
+        "ru": "Рассеивание!",
+        "en": "Dissipate!",
+        "zh": "解厄！"
+      },
+      "source_id": 65042
+    },
+    {
+      "number": 44,
+      "title": {
+        "ru": "Элементальный навык III",
+        "en": "Elemental Skill: III",
+        "zh": "元素战技·其三"
+      },
+      "text": {
+        "ru": "Встань рядом со мной.",
+        "en": "Stand with me.",
+        "zh": "好好站稳了。"
+      },
+      "source_id": 65043
+    },
+    {
+      "number": 45,
+      "title": {
+        "ru": "Взрыв стихии I",
+        "en": "Elemental Burst: I",
+        "zh": "元素爆发·其一"
+      },
+      "text": {
+        "ru": "Я всё улажу!",
+        "en": "I'll settle this!",
+        "zh": "给我…安分点！"
+      },
+      "source_id": 65044
+    },
+    {
+      "number": 46,
+      "title": {
+        "ru": "Взрыв стихии II",
+        "en": "Elemental Burst: II",
+        "zh": "元素爆发·其二"
+      },
+      "text": {
+        "ru": "Молния... очищает!",
+        "en": "Lightning... purifies!",
+        "zh": "祈雷…祓除！"
+      },
+      "source_id": 65045
+    },
+    {
+      "number": 47,
+      "title": {
+        "ru": "Взрыв стихии III",
+        "en": "Elemental Burst: III",
+        "zh": "元素爆发·其三"
+      },
+      "text": {
+        "ru": "С дороги.",
+        "en": "Out of my way.",
+        "zh": "别来碍事。"
+      },
+      "source_id": 65046
+    },
+    {
+      "number": 48,
+      "title": {
+        "ru": "Открытие сундука I",
+        "en": "Opening Treasure Chest: I",
+        "zh": "打开宝箱·其一"
+      },
+      "text": {
+        "ru": "Каждая мелочь имеет значение.",
+        "en": "Every little bit counts.",
+        "zh": "嗯，积少成多。"
+      },
+      "source_id": 65047
+    },
+    {
+      "number": 49,
+      "title": {
+        "ru": "Открытие сундука II",
+        "en": "Opening Treasure Chest: II",
+        "zh": "打开宝箱·其二"
+      },
+      "text": {
+        "ru": "Ладно, этого хватит.",
+        "en": "Alright, this'll do.",
+        "zh": "这票也稳了。"
+      },
+      "source_id": 65048
+    },
+    {
+      "number": 50,
+      "title": {
+        "ru": "Открытие сундука III",
+        "en": "Opening Treasure Chest: III",
+        "zh": "打开宝箱·其三"
+      },
+      "text": {
+        "ru": "Всё твоё.",
+        "en": "It's all yours.",
+        "zh": "你的了。"
+      },
+      "source_id": 65049
+    },
+    {
+      "number": 51,
+      "title": {
+        "ru": "Низкий уровень HP I",
+        "en": "Low HP: I",
+        "zh": "生命值低·其一"
+      },
+      "text": {
+        "ru": "Сейчас. Же. Остановись.",
+        "en": "Stop right there.",
+        "zh": "给、我、站、住…"
+      },
+      "source_id": 65050
+    },
+    {
+      "number": 52,
+      "title": {
+        "ru": "Низкий уровень HP II",
+        "en": "Low HP: II",
+        "zh": "生命值低·其二"
+      },
+      "text": {
+        "ru": "Теперь я разозлилась...",
+        "en": "Now I'm mad...",
+        "zh": "算是惹怒我了…"
+      },
+      "source_id": 65051
+    },
+    {
+      "number": 53,
+      "title": {
+        "ru": "Низкий уровень HP III",
+        "en": "Low HP: III",
+        "zh": "生命值低·其三"
+      },
+      "text": {
+        "ru": "Что ж, настал мой черёд...",
+        "en": "Alright, it's my turn...",
+        "zh": "哼，该我了吧…"
+      },
+      "source_id": 65052
+    },
+    {
+      "number": 54,
+      "title": {
+        "ru": "Низкий уровень HP компаньона I",
+        "en": "Ally at Low HP: I",
+        "zh": "同伴生命值低·其一"
+      },
+      "text": {
+        "ru": "Я обо всём позабочусь.",
+        "en": "I'll clean this up.",
+        "zh": "我来善后。"
+      },
+      "source_id": 65053
+    },
+    {
+      "number": 55,
+      "title": {
+        "ru": "Низкий уровень HP компаньона II",
+        "en": "Ally at Low HP: II",
+        "zh": "同伴生命值低·其二"
+      },
+      "text": {
+        "ru": "Отдохни, а я тут со всем разберусь.",
+        "en": "I'm qualified to handle this.",
+        "zh": "行了交给我，别硬撑。"
+      },
+      "source_id": 65054
+    },
+    {
+      "number": 56,
+      "title": {
+        "ru": "Без сознания I",
+        "en": "Fallen: I",
+        "zh": "倒下·其一"
+      },
+      "text": {
+        "ru": "Извини... за беспокойство...",
+        "en": "Sorry... for the trouble...",
+        "zh": "这次…是给人添麻烦了啊…"
+      },
+      "source_id": 65055
+    },
+    {
+      "number": 57,
+      "title": {
+        "ru": "Без сознания II",
+        "en": "Fallen: II",
+        "zh": "倒下·其二"
+      },
+      "text": {
+        "ru": "Позаботься о банде...",
+        "en": "Take care of... the gang...",
+        "zh": "荒泷派就拜托你了…"
+      },
+      "source_id": 65056
+    },
+    {
+      "number": 58,
+      "title": {
+        "ru": "Без сознания III",
+        "en": "Fallen: III",
+        "zh": "倒下·其三"
+      },
+      "text": {
+        "ru": "Какое унижение...",
+        "en": "What a humiliation...",
+        "zh": "这是对我的…侮辱…"
+      },
+      "source_id": 65057
+    },
+    {
+      "number": 59,
+      "title": {
+        "ru": "Получен лёгкий удар I",
+        "en": "Light Hit Taken: I",
+        "zh": "普通受击·其一"
+      },
+      "text": {
+        "ru": "Ещё раз.",
+        "en": "Again.",
+        "zh": "再来。"
+      },
+      "source_id": 65058
+    },
+    {
+      "number": 60,
+      "title": {
+        "ru": "Получен тяжёлый удар I",
+        "en": "Heavy Hit Taken: I",
+        "zh": "重受击·其一"
+      },
+      "text": {
+        "ru": "Сейчас дождёшься!",
+        "en": "Just you wait!",
+        "zh": "等着！"
+      },
+      "source_id": 65059
+    },
+    {
+      "number": 61,
+      "title": {
+        "ru": "Получен тяжёлый удар II",
+        "en": "Heavy Hit Taken: II",
+        "zh": "重受击·其二"
+      },
+      "text": {
+        "ru": "Нарываешься на драку?",
+        "en": "Looking for a fight?",
+        "zh": "找打是吧！"
+      },
+      "source_id": 65060
+    },
+    {
+      "number": 62,
+      "title": {
+        "ru": "Присоединяется к группе I",
+        "en": "Joining Party: I",
+        "zh": "加入队伍·其一"
+      },
+      "text": {
+        "ru": "Дождись моего сигнала.",
+        "en": "Wait for my signal.",
+        "zh": "看我眼色行动。"
+      },
+      "source_id": 65061
+    },
+    {
+      "number": 63,
+      "title": {
+        "ru": "Присоединяется к группе II",
+        "en": "Joining Party: II",
+        "zh": "加入队伍·其二"
+      },
+      "text": {
+        "ru": "Что они сделали на этот раз?",
+        "en": "What'd they do this time?",
+        "zh": "这次是什么麻烦？"
+      },
+      "source_id": 65062
+    },
+    {
+      "number": 64,
+      "title": {
+        "ru": "Присоединяется к группе III",
+        "en": "Joining Party: III",
+        "zh": "加入队伍·其三"
+      },
+      "text": {
+        "ru": "Только не говори, что они сделали это снова...",
+        "en": "Don't tell me they did it again...",
+        "zh": "希望不是烂摊子。"
+      },
+      "source_id": 65063
+    },
+    {
+      "number": 65,
+      "title": {
+        "ru": "Подарок I",
+        "en": "Receiving a Gift: I",
+        "zh": "收到赠礼·其一"
+      },
+      "text": {
+        "ru": "Поистине исключительно. Я попробую ещё чуть-чуть.",
+        "en": "This is truly exceptional. Ehem... I'll just have another bite.",
+        "zh": "真不简单。咳…我就再多吃一口。"
+      },
+      "source_id": 65064
+    },
+    {
+      "number": 66,
+      "title": {
+        "ru": "Подарок II",
+        "en": "Receiving a Gift: II",
+        "zh": "收到赠礼·其二"
+      },
+      "text": {
+        "ru": "Ты сам готовил? Тебе можно смело становиться поваром. / Ты сама готовила? Тебе можно смело становиться поваром.",
+        "en": "Did you make this? Hmm... you're more than qualified to be a chef.",
+        "zh": "你做的？嗯…这种水平去考个厨师证应该绰绰有余。"
+      },
+      "source_id": 65065
+    },
+    {
+      "number": 67,
+      "title": {
+        "ru": "Подарок III",
+        "en": "Receiving a Gift: III",
+        "zh": "收到赠礼·其三"
+      },
+      "text": {
+        "ru": "Прямо скажу, ты не те приправы положил, что ли? / Прямо скажу, ты не те приправы положила, что ли?",
+        "en": "Honestly, did you use the wrong seasonings?",
+        "zh": "我直说吧，你是不是放错调料了？"
+      },
+      "source_id": 65066
+    }
+  ],
+  "replica_count": 67
 }
