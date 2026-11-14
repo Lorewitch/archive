@@ -1,13 +1,13 @@
 /* Source for sw.js. Run tools/build_pwa.py after changing public files. */
 "use strict";
 
-const BUILD_ID = "84e1244801a69f9b";
+const BUILD_ID = "32ca9c9323bc223a";
 const APP_SHELL = [
-  "assets/css/archive.css?v=797",
-  "assets/icons/apple-touch-icon.png?v=797",
-  "assets/icons/favicon.ico?v=797",
-  "assets/icons/favicon.svg?v=797",
-  "assets/icons/logo_menu_symbol.webp?v=797",
+  "assets/css/archive.css?v=798",
+  "assets/icons/apple-touch-icon.png?v=798",
+  "assets/icons/favicon.ico?v=798",
+  "assets/icons/favicon.svg?v=798",
+  "assets/icons/logo_menu_symbol.webp?v=798",
   "assets/icons/pwa-192.png",
   "assets/icons/pwa-512.png",
   "assets/icons/pwa-maskable-512.png",
@@ -34,10 +34,10 @@ const APP_SHELL = [
   "assets/icons/ui/sword.webp",
   "assets/icons/ui/weapons.webp",
   "assets/icons/ui/witchcraft.webp",
-  "assets/js/archive.js?v=797",
+  "assets/js/archive.js?v=798",
   "data/archive_summary.json",
   "index.html",
-  "manifest.webmanifest?v=797"
+  "manifest.webmanifest?v=798"
 ];
 const EMPTY_CATALOGS = new Set([]);
 const BASE_URL = new URL(self.registration.scope);
