@@ -33,8 +33,6 @@ def shell_paths() -> list[str]:
     parser.feed(html)
     paths = {"index.html", "manifest.webmanifest", "data/archive_summary.json", *parser.urls}
     paths.update(path.relative_to(ROOT).as_posix() for path in (ROOT / "assets/icons/ui").glob("*.webp"))
-    paths.update(path.relative_to(ROOT).as_posix() for path in (ROOT / "data").glob("*_index.json") if not path.name.startswith("bot_"))
-    paths.update(path.relative_to(ROOT).as_posix() for path in (ROOT / "data/indexes").rglob("*.json"))
     manifest = json.loads((ROOT / "manifest.webmanifest").read_text(encoding="utf-8"))
     paths.update(icon["src"] for icon in manifest["icons"])
     for value in paths:

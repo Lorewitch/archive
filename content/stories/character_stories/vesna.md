@@ -17,10 +17,6 @@
 
 ### О персонаже
 
-Командующая Дружиной, клинок Царицы.
-
-### О персонаже
-
 В Снежной фамилия Стривожа обладает немалым весом.
 Этот древний клан вил появился на заснеженных землях ещё до наступления смутных времён. Выстояв во время долгих бурь и метелей, он увенчал себя многочисленными почестями.
 И Весна вполне достойна своей фамилии. Она ослепительно красива, изящна, грациозна, полна достоинства... ну, большую часть времени.
@@ -254,10 +250,6 @@
 
 ### Character Details
 
-Commander of the Druzhna and the Tsaritsa's keen blade.
-
-### Character Details
-
 In Snezhnaya, the clan name "Strivozha" is one of certain importance.
 This ancient Vila bloodline, which was already in existence long before Snezhnaya's turbulent early days, has weathered countless storms and earned countless honors over the years.
 Vesna is evidently worthy of the name. Radiant and graceful, she exudes effortless refinement and quiet poise... well, at least most of the time.
@@ -488,10 +480,6 @@ The dream scattered like mist, and Vesna, still half lost in it, looked to the f
 As though all the centuries it had endured had at last borne a single fruit, one that would never perish.
 
 ## ZH
-
-### 角色详细
-
-「冬契军」司令官、女皇的锋刃。
 
 ### 角色详细
 

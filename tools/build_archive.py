@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import shutil
 from collections import Counter
 import re
 import sys
@@ -1530,6 +1531,63 @@ def build_items(enemies: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return items
 
 
+def archon_reader_collection(item: dict[str, Any]) -> str:
+    manual = str(item.get("archon_collection") or "").strip()
+    if manual:
+        return manual
+    chapter = str(item.get("chapter_num", {}).get("ru") or "")
+    region = str(item.get("region") or "").strip()
+    if chapter.startswith("Промежуточный том"):
+        return {"Мондштадт": "mondstadt", "Ли Юэ": "liyue", "Сумеру": "sumeru"}.get(region, "other")
+    if chapter.startswith("Песня полой луны"):
+        return {"Сумеру": "sumeru", "Снежная": "snezhnaya"}.get(region, "nod-krai")
+    if re.match(r"^Том (?:VI|VII)\.", chapter) or chapter.startswith("Снежная"):
+        return "snezhnaya"
+    for prefix, key in [("Пролог.", "mondstadt"), ("Том I.", "liyue"), ("Том II.", "inazuma"),
+                        ("Том III.", "sumeru"), ("Том IV.", "fontaine"), ("Том V.", "natlan")]:
+        if chapter.startswith(prefix):
+            return key
+    return "other"
+
+
+def build_story_readers(stories: list[dict[str, Any]]) -> None:
+    # Full legacy detail JSON remains available to Alter's build-time text scan.
+    # The browser reads a small manifest plus only its active content tab/language.
+    root = DATA_DIR / "readers" / "stories"
+    if root.exists():
+        shutil.rmtree(root)
+    root.mkdir(parents=True)
+    by_id = {item["id"]: item for item in stories}
+    for story in stories:
+        item_id = story["id"]
+        reader = {key: value for key, value in story.items()
+                  if key not in {"text", "description", "parts", "replicas", "notes"}}
+        reader["reader_chunks"] = {}
+        for kind, field in [("stories", "parts"), ("replicas", "replicas")]:
+            parts = story.get(field) or []
+            if not parts:
+                continue
+            reader[field] = [{key: value for key, value in part.items() if key != "text"} for part in parts]
+            reader["reader_chunks"][kind] = {}
+            for lang in LANGS:
+                relative = f"data/readers/stories/{item_id}/{kind}.{lang}.json"
+                payload = {"id": item_id, "kind": kind, "language": lang,
+                           "parts": [{"number": part["number"], "text": part.get("text", {}).get(lang, "")} for part in parts]}
+                write_json(ROOT / relative, payload, compact=True)
+                reader["reader_chunks"][kind][lang] = relative
+        if story.get("story_group") == "archon_quests":
+            collection = archon_reader_collection(story)
+            linked = [item for item in stories if item.get("story_group") == "archon_quests"
+                      and archon_reader_collection(item) == collection]
+        else:
+            linked = [by_id[item] for item in story.get("quest_chain", []) if item in by_id]
+        reader["quest_reference_rows"] = [
+            {key: item[key] for key in ["id", "title", "story_group", "game_version", "region", "chapter_num", "archon_collection"] if key in item}
+            for item in linked
+        ]
+        write_json(root / f"{item_id}.json", reader, compact=True)
+
+
 def build() -> None:
     require_content_sources()
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -1537,6 +1595,7 @@ def build() -> None:
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
     weapons = build_collection("weapons", lambda path: build_generic(path, "weapons"), index_weapon)
     stories = build_collection("stories", lambda path: build_generic(path, "stories"), index_story)
+    build_story_readers(stories)
     (DATA_DIR / "stories_search.json").unlink(missing_ok=True)
     enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
     enemies = [build_enemy(md_file) for md_file in markdown_files(enemy_source_dir)]

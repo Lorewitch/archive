@@ -1,0 +1,5001 @@
+{
+  "removed_annotation_cards": 6,
+  "removed_annotation_language_blocks": 18,
+  "annotations": [
+    {
+      "id": "vesna",
+      "blocks": [
+        {
+          "language": "RU",
+          "removed_heading": "О персонаже",
+          "removed_chars": 55,
+          "removed_sha256": "d5968e00f2e615cae7fe5c5b9eb736f416b443119c752e66ed8c5aa6b6d5b467"
+        },
+        {
+          "language": "EN",
+          "removed_heading": "Character Details",
+          "removed_chars": 80,
+          "removed_sha256": "e69fbd250b89dbfcf60d5e15bf27503d7e958535bc4a56bcce191ab9fd9b2d71"
+        },
+        {
+          "language": "ZH",
+          "removed_heading": "角色详细",
+          "removed_chars": 27,
+          "removed_sha256": "22fd931912d8091b32f095e28e9900593b8010619a6a71c083bbafbdd3d024b3"
+        }
+      ],
+      "before_sha256": "d02a465ba1838e829d480a07f279fd162fac09b959c65f0510647573cba13339",
+      "after_sha256": "95f972f810f0f715f067200b5a65f1515665ef2ab77a022b8c1f41a9308226fe"
+    },
+    {
+      "id": "alyosha",
+      "blocks": [
+        {
+          "language": "RU",
+          "removed_heading": "О персонаже",
+          "removed_chars": 142,
+          "removed_sha256": "8c45c4cc0f7f829a54b21f14277bdb94efe3ef8b6eef33366cef72c06028404f"
+        },
+        {
+          "language": "EN",
+          "removed_heading": "Character Details",
+          "removed_chars": 152,
+          "removed_sha256": "0d6c31381f277c9a01994be5283aac06a302e48ce8c4a879b7816cd42e5e32f7"
+        },
+        {
+          "language": "ZH",
+          "removed_heading": "角色详细",
+          "removed_chars": 50,
+          "removed_sha256": "29c35022e954b4b2369e0e33f4e04988ac36bbbfd450b728cdb5ad9eb5423bdc"
+        }
+      ],
+      "before_sha256": "75c302130fa077c2f824515e4172cf469d82710964b6452e6915f64c958236c8",
+      "after_sha256": "f9ef1305fd6f84c6903fb8c5560503d2480b1d877c7bb792126e35bf76bf7e76"
+    },
+    {
+      "id": "mitya",
+      "blocks": [
+        {
+          "language": "RU",
+          "removed_heading": "О персонаже",
+          "removed_chars": 106,
+          "removed_sha256": "69a2884ca56bb63fc9e0aab839d67c09de43b2c815099fe5722321349cf1d3bd"
+        },
+        {
+          "language": "EN",
+          "removed_heading": "Character Details",
+          "removed_chars": 121,
+          "removed_sha256": "e29cdc2a97b6a36707cce02fe2305f5f905179a76958dc92809eeaf6f138c30e"
+        },
+        {
+          "language": "ZH",
+          "removed_heading": "角色详细",
+          "removed_chars": 36,
+          "removed_sha256": "f335b8174bf2a38942042ded3d253f8b4d7b23a46a07afec0b763e99d5d5af6b"
+        }
+      ],
+      "before_sha256": "8aad327f282bc50cce63dfbfc4820652bd522fe7a254b8f000d133d81ff1d680",
+      "after_sha256": "1a67e620c35ec6b10b3293324d29275c027ea9e76c9c63f729343bfb229adc06"
+    },
+    {
+      "id": "vodyanitsa",
+      "blocks": [
+        {
+          "language": "RU",
+          "removed_heading": "О персонаже",
+          "removed_chars": 67,
+          "removed_sha256": "eb518c831ce220545edcda842845bd0fe2a0d5a41e47ab05f1c0b29b830113f8"
+        },
+        {
+          "language": "EN",
+          "removed_heading": "Character Details",
+          "removed_chars": 107,
+          "removed_sha256": "3a267972ae6ce3034f22201323dde06d4086f8d14e9dc06a6a6c469063e30509"
+        },
+        {
+          "language": "ZH",
+          "removed_heading": "角色详细",
+          "removed_chars": 33,
+          "removed_sha256": "1dc5d8eab0ab080c07072000b24bba1623a9a36266a6e6c99de5a4f663d57f56"
+        }
+      ],
+      "before_sha256": "f88d4fdb7d045fce63d016bf3fb2814057dda9c4ba5a834daec43f344e697a09",
+      "after_sha256": "02493159953a80e7723e98cc6fe23428f60e3d94f08c354aa973fd2467d0ea2c"
+    },
+    {
+      "id": "valeriy",
+      "blocks": [
+        {
+          "language": "RU",
+          "removed_heading": "О персонаже",
+          "removed_chars": 137,
+          "removed_sha256": "55bab54a00d756736f48101cf99f312536efe29b7ce94c3007d3dcfa4330bfab"
+        },
+        {
+          "language": "EN",
+          "removed_heading": "Character Details",
+          "removed_chars": 151,
+          "removed_sha256": "6e9fac7154a88093fdc4c41606b146286b8615382453c028da666b86ef037872"
+        },
+        {
+          "language": "ZH",
+          "removed_heading": "角色详细",
+          "removed_chars": 37,
+          "removed_sha256": "6b84d4b51cb5d1daaa1d98ced8373b31f577e0a9d163b09c7f13d7d16ae2e2ae"
+        }
+      ],
+      "before_sha256": "f4786f288f5a0040547197478e2ec634a479228056fa8834f27b805d1fd85a87",
+      "after_sha256": "7ae8c81d8d99b59b79eddc0f1158aef2728118707b05478b2534692aaf5d3e9d"
+    },
+    {
+      "id": "odette",
+      "blocks": [
+        {
+          "language": "RU",
+          "removed_heading": "О персонаже",
+          "removed_chars": 103,
+          "removed_sha256": "c9c30d5b4c5a4a3eb21b6f9ede322a7e13314a826c03e4acdb8fbdb2818775b6"
+        },
+        {
+          "language": "EN",
+          "removed_heading": "Character Details",
+          "removed_chars": 128,
+          "removed_sha256": "68d25c02faddfed7566bff9fb4fe6ae9c9edf980a056e93e8bd987fc189c33f0"
+        },
+        {
+          "language": "ZH",
+          "removed_heading": "角色详细",
+          "removed_chars": 33,
+          "removed_sha256": "979f32b1f67a4d8f457d4d1a0da848d7402ba7b2b1115639cd9e1f574cdd9e5d"
+        }
+      ],
+      "before_sha256": "369b7b4cda2d0d2fe842a8368ba994352411f5a3a4c91830f9f6b2a9a8f55629",
+      "after_sha256": "13d4aff5595a5bac5a669f29f47be62f2f082d8f826e3b55d5cd4f527a27ec32"
+    }
+  ],
+  "resources_reviewed": 118,
+  "resources_expanded": 66,
+  "codex_source_available": 74,
+  "resources": [
+    {
+      "id": "viparyas",
+      "material_id": 101228,
+      "has_codex": true,
+      "title_ru": "Випариас",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 4092038001,
+          "old_chars": 55,
+          "new_chars": 252,
+          "status": "expanded_from_codex",
+          "text_sha256": "11fac0e56969729d8b94b090dfe48d6d5b5b6be8f4beb3ab93c79d4e105c0f26",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 4092038001,
+          "old_chars": 74,
+          "new_chars": 297,
+          "status": "expanded_from_codex",
+          "text_sha256": "b8f76e3df4b2ee13f965cf0032b66ce5d1a99f4dc929c03c6fa99936a1fa7b46",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 4092038001,
+          "old_chars": 26,
+          "new_chars": 83,
+          "status": "expanded_from_codex",
+          "text_sha256": "f8370c2d84b6bf2269793e008193e1fe6836cec0ea8f6e44897dbbb6215c83a4",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "ef53f4d2dcfc601e8866671145835ff5e2c8d2549c4afa26f142572b94c6b045",
+      "after_sha256": "bb5eee2dd73210fe3e986762dc16789d9ba170f4ef523ed62afd50263d4f90cd"
+    },
+    {
+      "id": "amakumo_fruit",
+      "material_id": 101208,
+      "has_codex": true,
+      "title_ru": "Плод облачной травы",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1433725513,
+          "old_chars": 121,
+          "new_chars": 472,
+          "status": "expanded_from_codex",
+          "text_sha256": "0fb379580f3592af62b9385d5a4f2a4900f29237953f36ca56845c8b980470b6",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1433725513,
+          "old_chars": 138,
+          "new_chars": 540,
+          "status": "expanded_from_codex",
+          "text_sha256": "223fc6fdfcd9cad6ec53c9c267a05f67bde8013a9e1cb38659c5770c7b0a127a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1433725513,
+          "old_chars": 30,
+          "new_chars": 148,
+          "status": "expanded_from_codex",
+          "text_sha256": "f645f01f3d949bb523b69cdf2effe004906107ff774b1fa0c618f6ec0551cb80",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "ac781a60dce8ea98ae61763a504ad98c2137f5f3ec39bd1ca2e83aeea20910bf",
+      "after_sha256": "dd01dd511e354bf8ee476a62c720369bcd173bc0ca5fa286bbb1db9dd2a12276"
+    },
+    {
+      "id": "midlander_bow_billet",
+      "material_id": 101112,
+      "has_codex": false,
+      "title_ru": "Заготовка лука центральных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 779764165,
+          "old_chars": 224,
+          "new_chars": 224,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d1de19999d62f2554664c3f8b724d0e30b0d62d64e7689274d7e5080c2b957f7",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 779764165,
+          "old_chars": 213,
+          "new_chars": 213,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "3f72e187f6b817759dc765c82a1f8f04bcba7e03e3568a61590fdf09bcb515d1",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 779764165,
+          "old_chars": 68,
+          "new_chars": 68,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f612ae259420156c7db90f356e3739e43f8f36e7aed15770cf34e9571f74caf7",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "dbca98e6f134ec148bafde5245d004b094294605fae01facb728c1adf28a7959",
+      "after_sha256": "dbca98e6f134ec148bafde5245d004b094294605fae01facb728c1adf28a7959"
+    },
+    {
+      "id": "crystal_core",
+      "material_id": 100085,
+      "has_codex": true,
+      "title_ru": "Кристальное ядро",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3818928621,
+          "old_chars": 69,
+          "new_chars": 69,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "1343774d15f2fbd4c3c24389830e35ca0c9464b9f72178a167dd0980bed0f7b5",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3818928621,
+          "old_chars": 98,
+          "new_chars": 98,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "3a96024db44e051729158eedd551d73f14ef371d8ed5ecae2b96da060bca8113",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3818928621,
+          "old_chars": 32,
+          "new_chars": 32,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "a0ebfedc4cbbe10c18dffb695178b3c2b5d3b0508b06f9118927b9fdc88a36cf",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "ccc5167228c90451444f1680aa1e4220d20d94b7d93a1f41af75b292274e2449",
+      "after_sha256": "ccc5167228c90451444f1680aa1e4220d20d94b7d93a1f41af75b292274e2449"
+    },
+    {
+      "id": "item_101281",
+      "material_id": 101281,
+      "has_codex": true,
+      "title_ru": "Смородина",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2730133153,
+          "old_chars": 59,
+          "new_chars": 391,
+          "status": "expanded_from_codex",
+          "text_sha256": "015dc68ff0766bdd9ef1d021373e7c41568f0b0ff1af7626dc0d3f19cb97b672",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2730133153,
+          "old_chars": 68,
+          "new_chars": 407,
+          "status": "expanded_from_codex",
+          "text_sha256": "32bf75cbf7d5c4450b7114e8e200d8ec39564bd47b756faa2e9a5436fcae8305",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2730133153,
+          "old_chars": 22,
+          "new_chars": 138,
+          "status": "expanded_from_codex",
+          "text_sha256": "a6b9bbe3164ab8b3a14fe29603e0586d8388db86de7b8894b81ade1685ee1652",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "8c1b06b14422850cd88ecd323086933bbd76f53ac2cb7dbd55baf6e9b80b257b",
+      "after_sha256": "d5ccc040ab86282cec4f53ea7bd5addcfcbeb28ee2b3f59e7125a7402adb1632"
+    },
+    {
+      "id": "borderland_claymore_billet",
+      "material_id": 101118,
+      "has_codex": false,
+      "title_ru": "Заготовка двуручного меча приграничных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 634942965,
+          "old_chars": 264,
+          "new_chars": 264,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "b5b7be878f3b667fb44de0a7fdb252de8baf0e0d63c8d9ef13d606d232c6faeb",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 634942965,
+          "old_chars": 299,
+          "new_chars": 299,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "ecda56f4629476486c9825e711c73f13b65550172b03d3f7aebbae6be1ecc332",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 634942965,
+          "old_chars": 93,
+          "new_chars": 93,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f57ea27fd56acac7329dc9e665e10d8183d0f917ac66df21fac322c3a2678a92",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "2f7748e152846346c11b69fd1db53b08dd1ab35970c2a2d51c85216c12375c29",
+      "after_sha256": "2f7748e152846346c11b69fd1db53b08dd1ab35970c2a2d51c85216c12375c29"
+    },
+    {
+      "id": "fluorescent_fungus",
+      "material_id": 101209,
+      "has_codex": true,
+      "title_ru": "Светящийся гриб",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1762455417,
+          "old_chars": 157,
+          "new_chars": 157,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "71e9e0f93cd7b5a668cfc17a18ed0971df60bac20e528d6c62c293986761ef22",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1762455417,
+          "old_chars": 179,
+          "new_chars": 179,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "4f7f24ed86157a8651228b88fa485d689d2521d6877c4fc26a326980549fb205",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1762455417,
+          "old_chars": 52,
+          "new_chars": 52,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d4f9fcea5d7215f46db9dac2a6a85950f90d9dbd649c10354e94fa914e441559",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "ed9e9f322ee2ad68111a22f4d9bc338c184af0c0aec24f7d058d6b4132d34d5b",
+      "after_sha256": "ed9e9f322ee2ad68111a22f4d9bc338c184af0c0aec24f7d058d6b4132d34d5b"
+    },
+    {
+      "id": "electro_crystal",
+      "material_id": 100054,
+      "has_codex": true,
+      "title_ru": "Электро кристалл",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1561650785,
+          "old_chars": 144,
+          "new_chars": 221,
+          "status": "expanded_from_codex",
+          "text_sha256": "8e34e4ee51009fdeb63336a8c94ab71801f7d47de4c218f65fa8164298e1fcb1",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1561650785,
+          "old_chars": 109,
+          "new_chars": 203,
+          "status": "expanded_from_codex",
+          "text_sha256": "8e186eeecb9f41c8013d25ed034e2988c56e2514ec2141cbdbeeb2a277ba3a6f",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1561650785,
+          "old_chars": 36,
+          "new_chars": 68,
+          "status": "expanded_from_codex",
+          "text_sha256": "395b402557b88155280679e3655fe89d50d7b7a2e5adf62d3c9092a794560bda",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "6cb3fd1636421266ae62fde70efa351b4664b516fff9d8249be72e3612f093c5",
+      "after_sha256": "0accb1b260f2f23c45c4d930528e768795b6d7080a498a74edf4304fdd3585b1"
+    },
+    {
+      "id": "wolfhook",
+      "material_id": 100021,
+      "has_codex": true,
+      "title_ru": "Волчий крюк",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 38137737,
+          "old_chars": 286,
+          "new_chars": 286,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "e5aa285a55c7f28ae2caa796c5241e3cc0681318fc5adbd9ad6c4da840531b9b",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 38137737,
+          "old_chars": 298,
+          "new_chars": 298,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "615912f16f7e6684bd058f7884aa776598e130f813265a86113db78b94975968",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 38137737,
+          "old_chars": 77,
+          "new_chars": 77,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "0dcba4db0e8554ebd8295eacd85a0e52c9d563af6b5ef200c70520568a0ea868",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "63e2678a3e2f17f753c79ed04d06e46fb6c28087dc6fbfb6eeb4131bb0da23fb",
+      "after_sha256": "63e2678a3e2f17f753c79ed04d06e46fb6c28087dc6fbfb6eeb4131bb0da23fb"
+    },
+    {
+      "id": "skysplit_gembloom",
+      "material_id": 101254,
+      "has_codex": true,
+      "title_ru": "Заоблачный камнелист",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 364836681,
+          "old_chars": 140,
+          "new_chars": 551,
+          "status": "expanded_from_codex",
+          "text_sha256": "0a90a67b7d088067b1900ebeb2081b562336a0d9abc17c4b379ca14cd7750264",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 364836681,
+          "old_chars": 119,
+          "new_chars": 552,
+          "status": "expanded_from_codex",
+          "text_sha256": "4df87fd2441f620b223f43307fa099e450bee03e3cc93bed1e4ffd0a96002c3b",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 364836681,
+          "old_chars": 30,
+          "new_chars": 135,
+          "status": "expanded_from_codex",
+          "text_sha256": "30aec16dab29462309ce060c53adbdc9fb432ee041577678d4763a63d2dac9d8",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "91ebe3abeb2bf094e53ab8ba489fb7bfaf91dc4ca6273af656ec6d71973761c3",
+      "after_sha256": "d41f8096728d1ee44e9544036e3434f741f235a5fd127559fd72d25061ca9195"
+    },
+    {
+      "id": "borderland_bow_billet",
+      "material_id": 101117,
+      "has_codex": false,
+      "title_ru": "Заготовка лука приграничных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1042390461,
+          "old_chars": 265,
+          "new_chars": 265,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "195072198dbc234fee0be1b01af90d7e2fb200e3cc768ed4b1ea65cb28f3b883",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1042390461,
+          "old_chars": 294,
+          "new_chars": 294,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "e9a905acdbc0b3aeb7a33de9ebc711a7441b1d5188ba80f1017272c9029b60d7",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1042390461,
+          "old_chars": 91,
+          "new_chars": 91,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "67b99a316a8b83090f76c1c31d3b473591e4d22dc6d44dff9bf60f474ec22686",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "f481b3a51a7c7b55a00df92208e47e1a793f500a2368d5bbda67bb38e425c5b9",
+      "after_sha256": "f481b3a51a7c7b55a00df92208e47e1a793f500a2368d5bbda67bb38e425c5b9"
+    },
+    {
+      "id": "northlander_catalyst_billet",
+      "material_id": 101104,
+      "has_codex": false,
+      "title_ru": "Заготовка катализатора северянина",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3807959229,
+          "old_chars": 209,
+          "new_chars": 209,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "fb3c43ea58eeae82e7f5af03270a328607649d8f11e1e9a499831ce0249dd2a1",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3807959229,
+          "old_chars": 221,
+          "new_chars": 222,
+          "status": "expanded_from_inventory",
+          "text_sha256": "cb7ad1b3a75f2bb18fec258de427a343d27538215ab09aeb45130ee6634d98dd",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3807959229,
+          "old_chars": 69,
+          "new_chars": 69,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "6853ff8eb72a8a223accb3aea9030d64205d1ff9f176f2cfcf02d986ff3a00a0",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "f4481249e29a5e51ec2644a695e15dbd4a5ea95f72f15ca9185aeb34888cce77",
+      "after_sha256": "275a32f5685ba06518d11b2e4fe69c6e7f4fcc3478db80e224d0495c5efc39d4"
+    },
+    {
+      "id": "valberry",
+      "material_id": 100022,
+      "has_codex": true,
+      "title_ru": "Валяшка",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1671208045,
+          "old_chars": 146,
+          "new_chars": 146,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "e550ab79cc73d3c32b0511a909271b1e3c23768944cdf7c3e6aac2f3cecf26d3",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1671208045,
+          "old_chars": 194,
+          "new_chars": 194,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7235604809c69e9505027fb526f7aeb14509f313bea538815e31fd33c76ac02e",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1671208045,
+          "old_chars": 54,
+          "new_chars": 54,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "97c497f0b0d26b48dabd019fb7fba35f8fec4abc07125df1bfa616381b273c57",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "8304928ae08bd1489ccdd3efac2d3291fa93ed7af4e53414f4df6694148498f0",
+      "after_sha256": "8304928ae08bd1489ccdd3efac2d3291fa93ed7af4e53414f4df6694148498f0"
+    },
+    {
+      "id": "item_101277",
+      "material_id": 101277,
+      "has_codex": true,
+      "title_ru": "Золотой папоротник",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2163399553,
+          "old_chars": 141,
+          "new_chars": 635,
+          "status": "expanded_from_codex",
+          "text_sha256": "19ea457ecef6d2d044622a4775f3854f474d2f0ec3beccf0a0cc1775f5798de5",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2163399553,
+          "old_chars": 112,
+          "new_chars": 576,
+          "status": "expanded_from_codex",
+          "text_sha256": "cd32499b5563c0ff218cf61a07a48f4d21aa601f55bd5b0086b583b8b0aeb67f",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2163399553,
+          "old_chars": 32,
+          "new_chars": 143,
+          "status": "expanded_from_codex",
+          "text_sha256": "717005ec34ea35074f1fbad67653647401a57a14f5d35ddf6e425ce3c51995b5",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "4092ef19ebe123a45c2ab44558a794ce795c01ca7d9110b7543b3709161d7f3f",
+      "after_sha256": "cb413bc1031afd82f8dd0dcabac246669921b0a4ca91cc552b5bf0558fb20adb"
+    },
+    {
+      "id": "small_lamp_grass",
+      "material_id": 100055,
+      "has_codex": true,
+      "title_ru": "Трава-светяшка",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3644092057,
+          "old_chars": 235,
+          "new_chars": 235,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "6dbcd2c8bf936d6aa74165b5d5299d4256722983050bcb813b62d6eeada626e6",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3644092057,
+          "old_chars": 250,
+          "new_chars": 250,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f4fd48094b5060e050d0c665bc9f1a4d838d0aa544b56a15bec08148ca8952a0",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3644092057,
+          "old_chars": 74,
+          "new_chars": 74,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "63aa2080f27c92666a463de15bb5c2654b7dfebf5aeb737f3aec1799baaa5e57",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "b648f62aa729e0a8e8ddcae648679f79bf297c75c443d0f06d4d5ab339ceae0c",
+      "after_sha256": "b648f62aa729e0a8e8ddcae648679f79bf297c75c443d0f06d4d5ab339ceae0c"
+    },
+    {
+      "id": "item_101273",
+      "material_id": 101273,
+      "has_codex": true,
+      "title_ru": "Полынь альвов",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3776113321,
+          "old_chars": 180,
+          "new_chars": 595,
+          "status": "expanded_from_codex",
+          "text_sha256": "f5ce22db1b4bc80ba30fd86c159e618b6cbec329341e5a1bbd4f96f44728b68c",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3776113321,
+          "old_chars": 185,
+          "new_chars": 623,
+          "status": "expanded_from_codex",
+          "text_sha256": "8cff4873c6175093ae444b75674e619ce3244c020efd2531af8acf614890aa61",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3776113321,
+          "old_chars": 46,
+          "new_chars": 161,
+          "status": "expanded_from_codex",
+          "text_sha256": "5b7b6c13d173fddc3d39fecbeea743b0ac158cd8f44ccb7fe8089e33dd1fdc30",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "f553a43a00ad2b26ef58053108511a3b8a2ca6851492d609cdbbc4ef8aa344bd",
+      "after_sha256": "cfccc4cb051540aee0843b48bd6803919621826b71fd91359ff7131b97d5837a"
+    },
+    {
+      "id": "item_131057",
+      "material_id": 131057,
+      "has_codex": false,
+      "title_ru": "Свекольная звездоснежка",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 776833349,
+          "old_chars": 565,
+          "new_chars": 565,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "40939e074041ac1c06c0554cf46fb9ba1dd2da796ff161fd17f89ec488453fdd",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 776833349,
+          "old_chars": 586,
+          "new_chars": 586,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f8139dcf25512ebc822d2d57d01de76fe71fd16d46a5d0655cdffb4426431b26",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 776833349,
+          "old_chars": 156,
+          "new_chars": 156,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "27d1bea940aa17895148d6a431fd87248a69b8390f74920d233c52fdf867aad7",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "885432483f1bde503b7a915223e9c3d671d1e114c6b9ddbbffe4945b27339bf0",
+      "after_sha256": "885432483f1bde503b7a915223e9c3d671d1e114c6b9ddbbffe4945b27339bf0"
+    },
+    {
+      "id": "embercore_flower",
+      "material_id": 101251,
+      "has_codex": true,
+      "title_ru": "Пепельник",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2843598337,
+          "old_chars": 97,
+          "new_chars": 669,
+          "status": "expanded_from_codex",
+          "text_sha256": "3c6820956848d8c94333fffa4abf9eb18e6050e942512f0390bdb6abb40822b6",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2843598337,
+          "old_chars": 109,
+          "new_chars": 728,
+          "status": "expanded_from_codex",
+          "text_sha256": "8bf040d8e3e832a0e21c5ef979e4ae14791b1bbc648da7632d5d697dcbc0c61a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2843598337,
+          "old_chars": 32,
+          "new_chars": 171,
+          "status": "expanded_from_codex",
+          "text_sha256": "0e614b8a75fb056d43ca53b2eea9f9ec774804f719a168d1884e33d5bb8ae26a",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "1859e5be8bd142a0e7bc93ee7bddd17b50ebd9a90c12e865279781b499876be3",
+      "after_sha256": "502f6a2567d48882047977c3a498bfa99708a5d4f62dd5a9f6c3f73744096adc"
+    },
+    {
+      "id": "magical_crystal_chunk",
+      "material_id": 101004,
+      "has_codex": true,
+      "title_ru": "Магический кристальный обломок",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2541533137,
+          "old_chars": 200,
+          "new_chars": 200,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "09fe4205d333e3acdf3e7f5f8fb9dc2b420edbd476dcaf00af476250d42ac56e",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2541533137,
+          "old_chars": 193,
+          "new_chars": 193,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "aaa112a7b16c8e7e6ccfb43caaedf15a16cdfcb0d967aad4920647cc255f0f02",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2541533137,
+          "old_chars": 51,
+          "new_chars": 51,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "889e789b16e817ff83ef1f9a99eff65b64ded066c6e7e604bb8b7a5808a1abe5",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "483b6a656caf09cf0e3deef863abf64ade77b402352ae78d243b98433b39c9e2",
+      "after_sha256": "483b6a656caf09cf0e3deef863abf64ade77b402352ae78d243b98433b39c9e2"
+    },
+    {
+      "id": "noctilucous_jade",
+      "material_id": 100028,
+      "has_codex": true,
+      "title_ru": "Полуночный нефрит",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 4076851253,
+          "old_chars": 139,
+          "new_chars": 139,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "980de8a70ad05b68569594854307d3e1d1256f53c1b496e9e51b157b00db516e",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 4076851253,
+          "old_chars": 130,
+          "new_chars": 130,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "229e548b02a5bbac0e2023ba025cefa458ab666bf21f69ad94a86f10d7543749",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 4076851253,
+          "old_chars": 47,
+          "new_chars": 47,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "5da0e04b42fabccaea477e58acd36b5595f154c67d15b33e047afa84ac72fa57",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "8ddac794177ef610050a152921bd3b5ebbbcb531f7c38d2ed30e2d3804d8cf97",
+      "after_sha256": "8ddac794177ef610050a152921bd3b5ebbbcb531f7c38d2ed30e2d3804d8cf97"
+    },
+    {
+      "id": "sango_pearl",
+      "material_id": 101207,
+      "has_codex": true,
+      "title_ru": "Жемчужина Санго",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 708882969,
+          "old_chars": 74,
+          "new_chars": 579,
+          "status": "expanded_from_codex",
+          "text_sha256": "5781efebb593948a3223a3bba28af17f39c4efc5687a37f172c8016c038cac07",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 708882969,
+          "old_chars": 105,
+          "new_chars": 709,
+          "status": "expanded_from_codex",
+          "text_sha256": "97cc4a88d20c4e2410755a6e63fc5458112111d788090e777719db8a0fdfb915",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 708882969,
+          "old_chars": 26,
+          "new_chars": 187,
+          "status": "expanded_from_codex",
+          "text_sha256": "ee2c919d37aa9b1afc07a3e1743ec94693342552ab2dcde7bf85e84d09e59a05",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "e9da2e061e56921e61212a961c61ccb8cea187033422183df7a7910a659d9598",
+      "after_sha256": "657747c842d34f7c436821c59971594e3789935823bb374552423f7899cb99a6"
+    },
+    {
+      "id": "butterfly_wings",
+      "material_id": 100072,
+      "has_codex": true,
+      "title_ru": "Крылья бабочки",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1043195117,
+          "old_chars": 102,
+          "new_chars": 102,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "ed45c39dc094f4eaa8cbf2f20b085c6cc198fd505801cc0e2841176d928c30c7",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1043195117,
+          "old_chars": 115,
+          "new_chars": 115,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7c2270fe09f24eff1cd2a1f0eb525b6b569b1cca00857ca1fbbf5ba24f03b456",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1043195117,
+          "old_chars": 36,
+          "new_chars": 36,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f98c771acba5951edcc01339541ffa9469aec67a79b529fcd2fd3963eff9e5cc",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "f16687b1cd2256ef62918d2e3e17cef4562bd204ec40e029e1c1d50abf739371",
+      "after_sha256": "f16687b1cd2256ef62918d2e3e17cef4562bd204ec40e029e1c1d50abf739371"
+    },
+    {
+      "id": "northlander_bow_billet",
+      "material_id": 101102,
+      "has_codex": false,
+      "title_ru": "Заготовка лука северянина",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3543539093,
+          "old_chars": 215,
+          "new_chars": 215,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7b42d7419d7984dbc7483cc1b01ffa034ccbef71d8a3e34f1c9394d4d0c7c47e",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3543539093,
+          "old_chars": 216,
+          "new_chars": 217,
+          "status": "expanded_from_inventory",
+          "text_sha256": "91d7540842f7b5bcf8e72e8e76744294d48f220483e095a96aa40c3619e39997",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3543539093,
+          "old_chars": 68,
+          "new_chars": 68,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "fdeb15c223ef199b31eb8fe7736f0eafa89f0aa3000341c80a720a77587982fd",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "44ae2cd75f9404426f619b8d9f774351cdcb35c043b834d0cae5d4a945829611",
+      "after_sha256": "44311ebcf00481e4612ea90f09f3ed4e569201a69902c92011211e3f39f1480c"
+    },
+    {
+      "id": "item_101285",
+      "material_id": 101285,
+      "has_codex": true,
+      "title_ru": "Фонарная ягода",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1406676697,
+          "old_chars": 134,
+          "new_chars": 417,
+          "status": "expanded_from_codex",
+          "text_sha256": "cbdb7a198ee6ae2f593ab6ec920d96c2d49f2676cf2e4aae3dbcd5df1c7757a1",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1406676697,
+          "old_chars": 128,
+          "new_chars": 468,
+          "status": "expanded_from_codex",
+          "text_sha256": "b69b1a0729092994579e45802ad3869463a138a12ac5b97c53bdadd5c8134a19",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1406676697,
+          "old_chars": 39,
+          "new_chars": 117,
+          "status": "expanded_from_codex",
+          "text_sha256": "0a3fff42b797e35c5a7f85c47beffd635d07773d830d66c5fb1bcd7dd01f0d13",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "498d5755dd5f3e67569baf7a31b1fe999132ed40a1770a8ee841e53938fb2de2",
+      "after_sha256": "ca99276d8cc814634cca4cd8c0aa7c26ccd79b55c5729e50b1a2c8fc69e4cd84"
+    },
+    {
+      "id": "scarab",
+      "material_id": 101225,
+      "has_codex": true,
+      "title_ru": "Скарабей",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1439105657,
+          "old_chars": 152,
+          "new_chars": 521,
+          "status": "expanded_from_codex",
+          "text_sha256": "e4669486bacd60c741668eab89d50476b358f3daed4cd9061668f346f268ea45",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1439105657,
+          "old_chars": 205,
+          "new_chars": 670,
+          "status": "expanded_from_codex",
+          "text_sha256": "9f7b4591846c95c5b83a92d97639889ae65de19956b942305faa57540304dca8",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1439105657,
+          "old_chars": 49,
+          "new_chars": 165,
+          "status": "expanded_from_codex",
+          "text_sha256": "85a157c15cbed35d7fbce627d31ff79a11f85bfb0882c096c92884b0f31b614e",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "1802a63b02826074d3ed6feb07afd2676b961031709cc1c5d8058479d31761f8",
+      "after_sha256": "5ba396cd84959858b04d07deb8582abca43cb21a9a37e44e6e346f5a3a4229f3"
+    },
+    {
+      "id": "cacahuatl",
+      "material_id": 101246,
+      "has_codex": true,
+      "title_ru": "Какауатль",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 51718049,
+          "old_chars": 147,
+          "new_chars": 310,
+          "status": "expanded_from_codex",
+          "text_sha256": "7d29cb0d77e36a58215d7c9062fe07f83068db2b2a6812ba324a051fbc423d1e",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 51718049,
+          "old_chars": 157,
+          "new_chars": 359,
+          "status": "expanded_from_codex",
+          "text_sha256": "0f43c09ecd717c534ac44423d6fd78cf114daefebfad41758ddaa6bd8869fdd3",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 51718049,
+          "old_chars": 43,
+          "new_chars": 85,
+          "status": "expanded_from_codex",
+          "text_sha256": "082c3b50fbed164f79613d63ee2aea438112fc68b72ee90b122b910ae66dd1c1",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "b15a4c7567cac3346e7a12e7976e486c2aa585b0c08e18ae2395d314c55feb7f",
+      "after_sha256": "ec7358e0693e37941e2eee01775c0aacb1b4ab9aa503ad1a33a8ed9e49ab7539"
+    },
+    {
+      "id": "crystal_chunk",
+      "material_id": 101003,
+      "has_codex": true,
+      "title_ru": "Обломок кристалла",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3255464889,
+          "old_chars": 98,
+          "new_chars": 209,
+          "status": "expanded_from_codex",
+          "text_sha256": "e652f00492ff47854bb72208edd3b720e54b9562b5ab5cbe5c872c3d5281d731",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3255464889,
+          "old_chars": 79,
+          "new_chars": 196,
+          "status": "expanded_from_codex",
+          "text_sha256": "55a6aad72f080a2c30ec06d9c0b10dfbedf0b5748f04a0fd8671d5e28d776533",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3255464889,
+          "old_chars": 26,
+          "new_chars": 62,
+          "status": "expanded_from_codex",
+          "text_sha256": "abfb5a73bd40018d664d3dff8f76d7cd70d26df71fde818dc83951f870250e09",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "ef603d7ebd4f42310abcd7a87f84abd6a72e0e422fc7801418b3868227ce0808",
+      "after_sha256": "87864b4e5ae114c8efed553c546c7c5aa164838de5b4c6fc781a21d36cebd507"
+    },
+    {
+      "id": "silk_flower",
+      "material_id": 100029,
+      "has_codex": true,
+      "title_ru": "Шелковица",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 538673737,
+          "old_chars": 346,
+          "new_chars": 346,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7deabe366cce4caefd5bb1b3907e7a37502d46d24db3e696fb10d763c97a740d",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 538673737,
+          "old_chars": 338,
+          "new_chars": 338,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "8a491ee5f56ceea82a1da1e5049d55a97c1516af10d168c525dab41545768086",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 538673737,
+          "old_chars": 84,
+          "new_chars": 92,
+          "status": "expanded_from_codex",
+          "text_sha256": "ae6bb41a123a2ea1cf5165d5a457ea68e82808dc1de3dd9ca17e14f964f2fc4f",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "c964acbb0f135b91f952adc1727e6b8df7fe1bc9cc0d2aa4c3a187f6f94474d2",
+      "after_sha256": "44d4256193e5fa49869fab8faad4a400879f28e9df8db4092c2e945da073cc4a"
+    },
+    {
+      "id": "glowing_hornshroom",
+      "material_id": 101252,
+      "has_codex": true,
+      "title_ru": "Мерцающий рогатый гриб",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3262906329,
+          "old_chars": 89,
+          "new_chars": 537,
+          "status": "expanded_from_codex",
+          "text_sha256": "da9363dd677880ad7cd0743da3e7f082dd684b5f33dfae091ff5af233f83c7ca",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3262906329,
+          "old_chars": 129,
+          "new_chars": 539,
+          "status": "expanded_from_codex",
+          "text_sha256": "2bdce44078cab9d86c7749fb11a7fb7d0b6962e1049ef1471c1afa4699b4b097",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3262906329,
+          "old_chars": 31,
+          "new_chars": 140,
+          "status": "expanded_from_codex",
+          "text_sha256": "0682c229711c6f71cdd7f246f86961ed06b3582902062f07b22c84a9f465a08e",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "2b01b7be8cd529a72ea5320ca2b78d4a537e83dae5a85872139dfb86d600d78a",
+      "after_sha256": "ec9b41fbc73959ebda30a02c031514d26fea49c7ce575af73f75dc5e89cd5a23"
+    },
+    {
+      "id": "qingxin",
+      "material_id": 100031,
+      "has_codex": true,
+      "title_ru": "Цветок цинсинь",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2358110701,
+          "old_chars": 179,
+          "new_chars": 179,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7cb74c6f50761b339bbde08e2d4ab9298f948e7788d6d3bfec9764985a3a1275",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2358110701,
+          "old_chars": 168,
+          "new_chars": 168,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "0e7e795d544b875f55fb02b132650a15971a260221dda028799ceae21ee31882",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2358110701,
+          "old_chars": 41,
+          "new_chars": 41,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "8501fda6376f7a16d6f26f95e0b1ca864a109082999966c90e5872ea0374c8b4",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "3ce2dadcfde9882db29c528353e6dc3a51174a7cc3ff1b12b5cacc8413662eab",
+      "after_sha256": "3ce2dadcfde9882db29c528353e6dc3a51174a7cc3ff1b12b5cacc8413662eab"
+    },
+    {
+      "id": "item_110017",
+      "material_id": 110017,
+      "has_codex": true,
+      "title_ru": "Мёд",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3465608261,
+          "old_chars": 189,
+          "new_chars": 189,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "615b3d2155548ad8621f1906fe42b310936d3a7b050b3c106136fb5e0aad1a7e",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3465608261,
+          "old_chars": 162,
+          "new_chars": 162,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d306b894ee9d5cdb3d808b9dec2a886b85f5560cfb602074aae0132fe3d39eb3",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3465608261,
+          "old_chars": 46,
+          "new_chars": 46,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "5755519b5d5e9509424199111cd41ed3258483fb212c8dcde2514b651f72d63c",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "8a87bb7e5a6f2d753545f878d7734add2331577fce4ff48b60d2c79a3ab15929",
+      "after_sha256": "8a87bb7e5a6f2d753545f878d7734add2331577fce4ff48b60d2c79a3ab15929"
+    },
+    {
+      "id": "rukkhashava_mushrooms",
+      "material_id": 101213,
+      "has_codex": true,
+      "title_ru": "Грибы руккхашава",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 345691073,
+          "old_chars": 403,
+          "new_chars": 557,
+          "status": "expanded_from_codex",
+          "text_sha256": "f21dcd80681cee97ae101df0f9e725bb57ebcd0cd5be168b57d1c6f2252af688",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 345691073,
+          "old_chars": 502,
+          "new_chars": 606,
+          "status": "expanded_from_codex",
+          "text_sha256": "01a8f9b5408bd5b6ecb682db78c3fa6d240fe01832583a15c28ed612127f08f2",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 345691073,
+          "old_chars": 118,
+          "new_chars": 149,
+          "status": "expanded_from_codex",
+          "text_sha256": "428511b95050d6fae6dfc7affb3b95ff89268e149c138cd298ac76e6868a6d03",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "2bd4ab6987c3938a09c57b689d76738bdbd24ca7b2eeac3c0116ef6f6f5bdba9",
+      "after_sha256": "521e097381c0063da59d1046ad18d07d7d81a2a52f6e1ada814a0d8d145a77f2"
+    },
+    {
+      "id": "midlander_polearm_billet",
+      "material_id": 101115,
+      "has_codex": false,
+      "title_ru": "Заготовка копья центральных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1021101189,
+          "old_chars": 223,
+          "new_chars": 223,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "ea72da16e8f425a4f7e7642fd1d1669ba0d02d72051ed033e72c943c86812858",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1021101189,
+          "old_chars": 217,
+          "new_chars": 217,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7bda55b443609ed7b02bde72b893799a35b15dca5bfdfbfa076bd098482087e1",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1021101189,
+          "old_chars": 71,
+          "new_chars": 71,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "c7c3ca6033c45b1426c6e338d38cb18b0557235e00ab46c3a01e7b83a89c25f3",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "e0bbea5c97370101aed3c532d3f5a76a90373f6c141ce015420d90277c3bea88",
+      "after_sha256": "e0bbea5c97370101aed3c532d3f5a76a90373f6c141ce015420d90277c3bea88"
+    },
+    {
+      "id": "midlander_claymore_billet",
+      "material_id": 101113,
+      "has_codex": false,
+      "title_ru": "Заготовка двуручного меча центральных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2397796837,
+          "old_chars": 223,
+          "new_chars": 223,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "261d92cadef71f9b5ab972cdf9de87b88e77ff18232ade4d23906b83bbf924ac",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2397796837,
+          "old_chars": 218,
+          "new_chars": 218,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "821d58a25deab6e6cebda78ab5b8484c14148bffda99f3b7b62c3d8df3d0f142",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2397796837,
+          "old_chars": 70,
+          "new_chars": 70,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "1dbe56886257c7f126cc0660e3cd44f9c3aba12d57026cfc4ed37824f9a940e9",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "02a77862031473cd9446d2c309702e56a377f9157ff74bfc95b3db6f3609839a",
+      "after_sha256": "02a77862031473cd9446d2c309702e56a377f9157ff74bfc95b3db6f3609839a"
+    },
+    {
+      "id": "subdetection_unit",
+      "material_id": 101239,
+      "has_codex": true,
+      "title_ru": "Миниатюрный детектор",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 245342137,
+          "old_chars": 168,
+          "new_chars": 560,
+          "status": "expanded_from_codex",
+          "text_sha256": "094bfd17bc751683a2280df7b3962fbbb1330e60c950a2a770be7219d1b9eeaf",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 245342137,
+          "old_chars": 166,
+          "new_chars": 694,
+          "status": "expanded_from_codex",
+          "text_sha256": "a1ea2446a6c889b80f2766f58b5ae0a29b46c76f90e0a31dc21e952a1dda879a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 245342137,
+          "old_chars": 36,
+          "new_chars": 127,
+          "status": "expanded_from_codex",
+          "text_sha256": "ff71a8fe30adb722f746b0d49ba89a0291148a4d43d8f1224c3919ff881b7451",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "a234eee4886299970080d7bfe1eefe5f36df49a2863a9dce018ea6f33cb89bbe",
+      "after_sha256": "b45651d466f5ea69597bcfbe49786c2e800ba1d8db710489686abb639f650ccc"
+    },
+    {
+      "id": "horsetail",
+      "material_id": 100032,
+      "has_codex": true,
+      "title_ru": "Конский хвост",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1612917813,
+          "old_chars": 146,
+          "new_chars": 146,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "022d7f72bfc9f910cabae4851551360f2ebe3c900013fdf7d5dd0ba58f887613",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1612917813,
+          "old_chars": 136,
+          "new_chars": 136,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "81b17bf8dd8fc1dedec933d0992311c4d2b56557e62a3885077d32c752664fe7",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1612917813,
+          "old_chars": 35,
+          "new_chars": 35,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "494308b3e4787d694ba9ba848228b5f2ce68a251be346fd024f1b35d0cd7c57d",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "65a70498ef2fad25be88f6a7206dd4576fe769110826b673cde2fbd4697eebab",
+      "after_sha256": "65a70498ef2fad25be88f6a7206dd4576fe769110826b673cde2fbd4697eebab"
+    },
+    {
+      "id": "midlander_catalyst_billet",
+      "material_id": 101114,
+      "has_codex": false,
+      "title_ru": "Заготовка катализатора центральных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 271725989,
+          "old_chars": 218,
+          "new_chars": 218,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "540b394d65a7e4ffc5bfcb0d97fe454a08cc343186a9f47ebb8147704787e9f7",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 271725989,
+          "old_chars": 218,
+          "new_chars": 218,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "a03bb9632bd15b278fc4310c49051d986efb8437c55fc572f4768b83070a5f72",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 271725989,
+          "old_chars": 69,
+          "new_chars": 69,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "fe0e8ef48e0b8c77f8f0107e53b2b24cdcfd86341335cb3a1fff0a9e56262378",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "0951e4f8b3e8c56c34e81a9b5aeea00a66dcd32458da6d38a3b89b51a7021e61",
+      "after_sha256": "0951e4f8b3e8c56c34e81a9b5aeea00a66dcd32458da6d38a3b89b51a7021e61"
+    },
+    {
+      "id": "rainbow_rose",
+      "material_id": 101236,
+      "has_codex": true,
+      "title_ru": "Радужная роза",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3834436297,
+          "old_chars": 444,
+          "new_chars": 444,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "ba55187d7e5f5196f6ff0fba6879d0d5e1f2d0f82c6fe164c5d532e054409d30",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3834436297,
+          "old_chars": 468,
+          "new_chars": 468,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "bee7b3bd9c1be1394025a2c59627398fd2f68f6c3e26fa86d046c0bde7f63b49",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3834436297,
+          "old_chars": 131,
+          "new_chars": 131,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "949ad5ae0f2a0dd57d9627ffe3357b977c187572b73808e766545cd3829c2faf",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "46fde251338ca74ae121fddfa65af98c3388734e65d98a4a887ad3ea3f7f10ba",
+      "after_sha256": "46fde251338ca74ae121fddfa65af98c3388734e65d98a4a887ad3ea3f7f10ba"
+    },
+    {
+      "id": "onikabuto",
+      "material_id": 101201,
+      "has_codex": true,
+      "title_ru": "Оникабуто",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2572505865,
+          "old_chars": 153,
+          "new_chars": 681,
+          "status": "expanded_from_codex",
+          "text_sha256": "3c168392043dbfc60f8868a434f89748f51d9f3d2c276418d1c439a8f7bde61b",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2572505865,
+          "old_chars": 191,
+          "new_chars": 620,
+          "status": "expanded_from_codex",
+          "text_sha256": "45faf4eb316b5156ac12008b39d43fce33b48bd37f89bf91d51840dbbeb6811a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2572505865,
+          "old_chars": 47,
+          "new_chars": 161,
+          "status": "expanded_from_codex",
+          "text_sha256": "cb7e519065c0c3de789b87d53c9ad835093af13628ce909d5ef69c4e582b4727",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "3d8c20c77acc25b49b1f713a4bd8f42264ae6b83ee0fdc5d8d319e4548c8c320",
+      "after_sha256": "a82e7a7c5a942ed76d66fd20d239d8156cb2cc0d23adab4572adf8f59f55c23a"
+    },
+    {
+      "id": "philanemo_mushroom",
+      "material_id": 100025,
+      "has_codex": true,
+      "title_ru": "Гриб филанемо",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3486342309,
+          "old_chars": 73,
+          "new_chars": 73,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "70e32604e473877d66f8e75f95057d75c0c8c1e15924ba10a7b7d7a265d28c01",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3486342309,
+          "old_chars": 102,
+          "new_chars": 102,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "c8a6c423ae13b46cfb7a0b95b2f56ed3fb0d1dadfd58a7a985092bdc801b6ff1",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3486342309,
+          "old_chars": 28,
+          "new_chars": 28,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "ed19108f897e163dc11271b4dbbb2b361a3f68fb09150bd59e7257c9798df56a",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "d6d07d459cab5ccab90f888cc46e6b2cdd9236c742a83ef450ad55e9c3b8d103",
+      "after_sha256": "d6d07d459cab5ccab90f888cc46e6b2cdd9236c742a83ef450ad55e9c3b8d103"
+    },
+    {
+      "id": "sand_grease_pupa",
+      "material_id": 101222,
+      "has_codex": true,
+      "title_ru": "Личинка песчаного жировика",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2860652097,
+          "old_chars": 207,
+          "new_chars": 472,
+          "status": "expanded_from_codex",
+          "text_sha256": "4881fad9bbb6bb556bf29a9819fd54fe8886f8ece5d50694e4470bcc06994a9f",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2860652097,
+          "old_chars": 218,
+          "new_chars": 508,
+          "status": "expanded_from_codex",
+          "text_sha256": "e929811080cd9c1f6aeba504e340dc775358430af3644c864dcfba39db0a3a60",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2860652097,
+          "old_chars": 63,
+          "new_chars": 123,
+          "status": "expanded_from_codex",
+          "text_sha256": "5a2b632407b53a265c8a06ccdc7fb14ee3376f3922e203a31ef2d5fd8cf8fb09",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "c42b05cc6d0d774b1f9ba891bbf7a5bcd6a74c8418eb78e8cbdcb0a1b7f55d0e",
+      "after_sha256": "fa3534eae375932fe596d7b13e215afa9e9b13453233df4e1f56119abfc81f54"
+    },
+    {
+      "id": "lakelight_lily",
+      "material_id": 101238,
+      "has_codex": true,
+      "title_ru": "Лилия озёрного света",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2026289833,
+          "old_chars": 126,
+          "new_chars": 610,
+          "status": "expanded_from_codex",
+          "text_sha256": "f82913c3eb7bae329f45e5b66eb39b73acc29e6ebeced9f29de4ecb0324aff2f",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2026289833,
+          "old_chars": 156,
+          "new_chars": 614,
+          "status": "expanded_from_codex",
+          "text_sha256": "fa37a68dc6968fdbb1ccc561626dcd5f560102b22852500a883d46521ecaafd4",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2026289833,
+          "old_chars": 33,
+          "new_chars": 159,
+          "status": "expanded_from_codex",
+          "text_sha256": "90ed2b892b1dfd51f9d0152255a6797b378c8a736c2534219ee016de58782a79",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "9b09dc2866d28b3727cc373e09ce83dcb65d6025ebd55f5a5aa76042175ac693",
+      "after_sha256": "63a53641ae7e4b37a593b31e89ae744f2f4c75e030a5064f9b299826ae7b0b7f"
+    },
+    {
+      "id": "calla_lily",
+      "material_id": 100056,
+      "has_codex": true,
+      "title_ru": "Лилия калла",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1184736817,
+          "old_chars": 245,
+          "new_chars": 250,
+          "status": "expanded_from_codex",
+          "text_sha256": "85fd71ece6a825600dc5c7f86af36c8c6a02ea8c8389ae64cdaa78091cfad34a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1184736817,
+          "old_chars": 238,
+          "new_chars": 238,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "226de3dfa30a4cdce269d768bbce35d53f2e2945f141f0a8b8a300629a28281f",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1184736817,
+          "old_chars": 59,
+          "new_chars": 59,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "0ab9acbf07f31bcf94ef4494fb6c6f729e6d6a8fcb1df234db61a16af8e6c0fb",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "919a48dd335ce278ec0f4a59486a136199c0970e4506430a009c9068a9b186b9",
+      "after_sha256": "6b7339cee7c45d0a2a3fcb4f16bcc088c6fad3e6a296fc7ed9ff329886968c58"
+    },
+    {
+      "id": "flaming_flower_stamen",
+      "material_id": 100053,
+      "has_codex": true,
+      "title_ru": "Пылающий цветок (тычинка)",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2177147449,
+          "old_chars": 93,
+          "new_chars": 196,
+          "status": "expanded_from_codex",
+          "text_sha256": "68aa36607bab06a8b275a1384bdc58d939379dceec5d2cf4305c33e99e597656",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2177147449,
+          "old_chars": 92,
+          "new_chars": 205,
+          "status": "expanded_from_codex",
+          "text_sha256": "dc49818068513711bdfa3e46b735b1317919442b2cc1ad2162aa532e60c46cce",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2177147449,
+          "old_chars": 34,
+          "new_chars": 66,
+          "status": "expanded_from_codex",
+          "text_sha256": "b2e5c1abe8b56f1c1ccfe4cb7fae6e43813d95428231089e2fc1aef7f7526046",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "f54daf1ca1475653815b7056526f977308fa8d371aa783edab9cb830214112d4",
+      "after_sha256": "2813c37cfc326e23c2c96ce506e0c2103050dd34560fb430b041d5e6d68a84db"
+    },
+    {
+      "id": "lizard_tail",
+      "material_id": 100083,
+      "has_codex": true,
+      "title_ru": "Хвост ящерицы",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1851731101,
+          "old_chars": 85,
+          "new_chars": 85,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "19f467a55f0b23b12cff0fc670db0934f69b44c04956ec8313232b8b1b301265",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1851731101,
+          "old_chars": 100,
+          "new_chars": 100,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "6bfceff40b7125bc4a925ce00dba86bef97ef507d2163a6cb1b817086bd53479",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1851731101,
+          "old_chars": 38,
+          "new_chars": 38,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "23ad49551579a78b4d470c180d37c799e1889791b5433005c05ff7283ecad7fc",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "e6733e202e7a17d3642302f656e4433a5644f22e2430c151d703892e39470a5c",
+      "after_sha256": "e6733e202e7a17d3642302f656e4433a5644f22e2430c151d703892e39470a5c"
+    },
+    {
+      "id": "henna_berry",
+      "material_id": 101220,
+      "has_codex": true,
+      "title_ru": "Красноплодник",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1756058241,
+          "old_chars": 141,
+          "new_chars": 568,
+          "status": "expanded_from_codex",
+          "text_sha256": "5a4ee111e050f762150db400fcedcdf943f13fcae679700dd18b71b78fc546a5",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1756058241,
+          "old_chars": 155,
+          "new_chars": 558,
+          "status": "expanded_from_codex",
+          "text_sha256": "e4a10004447b404945743cbfc25d5ef572aa5206c90b4ed050730921fef607ba",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1756058241,
+          "old_chars": 40,
+          "new_chars": 151,
+          "status": "expanded_from_codex",
+          "text_sha256": "7ed632672f2cf5711d883761ccb40162667192f5f0fdc31e001f5ca23d900bd7",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "96678346f97a102210c4653f12a5b55ba6673b10e6ee4d190bb0670462db701e",
+      "after_sha256": "f61e07c1ba2a3f1f26614aa75e71c8285d0c9951fe255822cb99885127d315f5"
+    },
+    {
+      "id": "item_131054",
+      "material_id": 131054,
+      "has_codex": false,
+      "title_ru": "Пепельный снежный пинагор",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3935910045,
+          "old_chars": 726,
+          "new_chars": 726,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "44305276bd97bf780194d18f236856baf327e23eb450bce3202991f4bebe7bc1",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3935910045,
+          "old_chars": 688,
+          "new_chars": 688,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "b0fb8ce472f6bc0268872832bb8cf05c2419f0dfba9e7ae904368ffd86c8996d",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3935910045,
+          "old_chars": 167,
+          "new_chars": 167,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d4d7738683ad0752f9d40dd2418a94c82cfe1a8c5724473f32b1b85e56599f6e",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "1c3ac492790872f90443f06634783007a73279c054842cc5d47937d3b88ed71f",
+      "after_sha256": "1c3ac492790872f90443f06634783007a73279c054842cc5d47937d3b88ed71f"
+    },
+    {
+      "id": "starconch",
+      "material_id": 100033,
+      "has_codex": true,
+      "title_ru": "Звёздная ракушка",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2199597157,
+          "old_chars": 109,
+          "new_chars": 109,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "a2e9d256451ba00dcf19cfe5830c7308f986b9d4a2211f85a800719ad552294d",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2199597157,
+          "old_chars": 110,
+          "new_chars": 111,
+          "status": "expanded_from_inventory",
+          "text_sha256": "114f5dbc8dac67cf8d1f0a74e64bbde5b40ec3922ee58827fc541d8e6eada9dc",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2199597157,
+          "old_chars": 33,
+          "new_chars": 33,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "4867100ac93371a26693e34c459cbdf7049246ad1dcc46f74bd7ae85c7064892",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "8f262f72fbb960db1be713ead00d711c2de470624124f95e4b7db26706f55547",
+      "after_sha256": "f182bc73662de7b807143884d2002564fa52cf14e9d5e9001fb6b988a136b163"
+    },
+    {
+      "id": "mist_flower_corolla",
+      "material_id": 100052,
+      "has_codex": true,
+      "title_ru": "Туманный цветок (венчик)",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 881376025,
+          "old_chars": 84,
+          "new_chars": 224,
+          "status": "expanded_from_codex",
+          "text_sha256": "7ac87d128463519eb00d1d2d206c99eda3257d7b498074a72ebed21504ac0435",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 881376025,
+          "old_chars": 94,
+          "new_chars": 295,
+          "status": "expanded_from_codex",
+          "text_sha256": "22385603935b80cab52d2c4688ba876d8376ea2b1b2ecef6c59424636335ce4a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 881376025,
+          "old_chars": 33,
+          "new_chars": 79,
+          "status": "expanded_from_codex",
+          "text_sha256": "d1060467c605aef4e1dead3a56b9837fa1338591fd8418887d1f358dd3945700",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "829b38d9754cdcff83c084873e747598407206558dca6a2c812eefad7c52ceba",
+      "after_sha256": "0b30342749f2ef7e737e6543e6840a848952a93e67f0680a9495f9d3315b691a"
+    },
+    {
+      "id": "winter_icelea",
+      "material_id": 101268,
+      "has_codex": true,
+      "title_ru": "Шпороцветник",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1996974793,
+          "old_chars": 119,
+          "new_chars": 484,
+          "status": "expanded_from_codex",
+          "text_sha256": "61cf6040dc93070b83580dbe1896970b4dcc14027aaaba18965e1cf4d75a8df8",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1996974793,
+          "old_chars": 113,
+          "new_chars": 503,
+          "status": "expanded_from_codex",
+          "text_sha256": "b6edc284e2237a35b67eb45ac7830882080b60210bbe6122eedc386f68c1d4a7",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1996974793,
+          "old_chars": 34,
+          "new_chars": 135,
+          "status": "expanded_from_codex",
+          "text_sha256": "2166155cb91d34849e1f0602383ec3018fb83a701d6190f7632b6ccc687d1d04",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "d54f8d9d57b44f60a2769a77ad125db23050360b0d10ccee01cb4d29e193f97e",
+      "after_sha256": "d81cb323fa01d3ce94bbef43d60898a561f9e288d49d63c36cc40afd2ce81f32"
+    },
+    {
+      "id": "item_101334",
+      "material_id": 101334,
+      "has_codex": false,
+      "title_ru": "Древесина лиственницы",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3258768533,
+          "old_chars": 150,
+          "new_chars": 150,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "4030b00e6e7a6ae8b9c6b4610bb908da9218a6c0ca4810b4d878b7503e3853c3",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3258768533,
+          "old_chars": 139,
+          "new_chars": 139,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "bba561ca2f77eac407c74cd61d5fa53aba247f95c0f0c2948184da23564619d1",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3258768533,
+          "old_chars": 41,
+          "new_chars": 41,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "c1485ea13602aaa0870e4b22da87762c10447b7f3092d7fa70e95c3808bf339f",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "48b7264d1103af00d6a2b5a70982d484fd504cd92b366175245b9da153038e4f",
+      "after_sha256": "48b7264d1103af00d6a2b5a70982d484fd504cd92b366175245b9da153038e4f"
+    },
+    {
+      "id": "spring_of_the_first_dewdrop",
+      "material_id": 101240,
+      "has_codex": true,
+      "title_ru": "Источник первой росы",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1376357305,
+          "old_chars": 155,
+          "new_chars": 519,
+          "status": "expanded_from_codex",
+          "text_sha256": "9464eee73d6d4f50ffbf4df23bd12c400881d7c0b7376483ad1cb80e4cd7a0dc",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1376357305,
+          "old_chars": 194,
+          "new_chars": 549,
+          "status": "expanded_from_codex",
+          "text_sha256": "ccf1fd281c012afba6784c3615e51af0364bee17344bbec8afa95911b786df3a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1376357305,
+          "old_chars": 46,
+          "new_chars": 153,
+          "status": "expanded_from_codex",
+          "text_sha256": "3efeae836dd9c2eceb6ab318484db65977fde96a593853795ea7f4ad9a45dff7",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "ec2391fa94b4c6aacbe04c31e1a3787518fd4bca1a5e34a3bf87f41f997d29cb",
+      "after_sha256": "9f9f89fcfc6d27022d3a2ec7c1d99932d5934c0b08c4052ea3856efdeefbf5f2"
+    },
+    {
+      "id": "item_101278",
+      "material_id": 101278,
+      "has_codex": true,
+      "title_ru": "Свёкла",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3144132505,
+          "old_chars": 143,
+          "new_chars": 497,
+          "status": "expanded_from_codex",
+          "text_sha256": "2543758012da3ad94eb9b3be035f34833ccc226d833f9ad5ab6db40607686a0b",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3144132505,
+          "old_chars": 146,
+          "new_chars": 483,
+          "status": "expanded_from_codex",
+          "text_sha256": "bf59ecae0079b6ff76d3bba7530e7a1817a53251bd9a0fe99efa345070b2092d",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3144132505,
+          "old_chars": 40,
+          "new_chars": 151,
+          "status": "expanded_from_codex",
+          "text_sha256": "3b39c5fb9904ffe5e0411529f7e495474064c4b1ec20a2871290176d6fdd1b3d",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "ab526065d2806d060209a521cba840ff2c6537cdfa1c7ca00cfd7d87c438112e",
+      "after_sha256": "6dc7e4121007ed7673f3984977810a653b50dd48bd4be7b0a461012bde0cfbcb"
+    },
+    {
+      "id": "item_131059",
+      "material_id": 131059,
+      "has_codex": false,
+      "title_ru": "Радужно-кристальная звездоснежка",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3939381253,
+          "old_chars": 738,
+          "new_chars": 738,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "e6693008111b55b195e6b0cf87be2762d929678600e0a618cafde2e2d1811f7c",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3939381253,
+          "old_chars": 644,
+          "new_chars": 644,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "cc86aedb8ec216f7ce9f073e92c283e570c7e3418ab53d8cc7c3e7940e92e7e9",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3939381253,
+          "old_chars": 174,
+          "new_chars": 174,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "33719230e0b36a7af1b9e4f5d890651f5cf0966d4362bbc1db8fbdc61f5252c9",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "9239177888e4f6fd8bcd9c3f4f38b1bbb27aa39818c3e278ecc66d51c73ad25b",
+      "after_sha256": "9239177888e4f6fd8bcd9c3f4f38b1bbb27aa39818c3e278ecc66d51c73ad25b"
+    },
+    {
+      "id": "padisarah",
+      "material_id": 101214,
+      "has_codex": true,
+      "title_ru": "Падисара",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3627550297,
+          "old_chars": 93,
+          "new_chars": 541,
+          "status": "expanded_from_codex",
+          "text_sha256": "925e0708af327232c3411c849b3c55c421eca66cd1889a4c1b9e311468639092",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3627550297,
+          "old_chars": 146,
+          "new_chars": 622,
+          "status": "expanded_from_codex",
+          "text_sha256": "6f910c51ce7125d8f52350bbeeab0652c0ad154ebcc206f175c2498b7de61cf7",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3627550297,
+          "old_chars": 40,
+          "new_chars": 148,
+          "status": "expanded_from_codex",
+          "text_sha256": "220ef02e90d124039c24b7294cd70706d1c645489cc8a1176c57417d933750da",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "41fb9df7a56e9b2211a3d5cbbb53e5c0af627368d463c0670d1a09f9497deb1a",
+      "after_sha256": "0d34d8b495324f37be105ebbb4ec0047ad2c29cb073cebc0d2331c8d87b8538b"
+    },
+    {
+      "id": "mourning_flower",
+      "material_id": 101223,
+      "has_codex": true,
+      "title_ru": "Цветы скорби",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1023281049,
+          "old_chars": 159,
+          "new_chars": 542,
+          "status": "expanded_from_codex",
+          "text_sha256": "cd498e5fe71bd078e70ae6d3239006e56ad265884907d7b740bcb3229a1e7b56",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1023281049,
+          "old_chars": 168,
+          "new_chars": 639,
+          "status": "expanded_from_codex",
+          "text_sha256": "9213bfded9419be40501e483c9f274fd932b4b1c469e5fa4d339a04de062e0e4",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1023281049,
+          "old_chars": 48,
+          "new_chars": 180,
+          "status": "expanded_from_codex",
+          "text_sha256": "b09b66e35b7774bc7686791e2de669c35deff85c71ae617b4b30d2fec81ec19d",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "2ca22f554d2a6d0aeb0a7a980cb48c1acc253b4a427bfcc72a70344b1694235d",
+      "after_sha256": "3c8ff445541ce23f33151d08c5832b597b5f54213199799a93eb944edb907b26"
+    },
+    {
+      "id": "starsilver",
+      "material_id": 101006,
+      "has_codex": true,
+      "title_ru": "Руда звёздного серебра",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1630125309,
+          "old_chars": 112,
+          "new_chars": 112,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "b3823cae43ab9aa77cd55941e2d08911648e20320954661f738ed79998943483",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1630125309,
+          "old_chars": 98,
+          "new_chars": 98,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "8d641f18614ca16e3ef4a19523ed59270a6518bf11e0c9e84f1b4dd1e355e2fe",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1630125309,
+          "old_chars": 26,
+          "new_chars": 26,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "4efb8e978914f629dc7abddc5ce013d5d8bf6add690de2eec6c5d07d371c4d9a",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "998546833b0c45a08d7eca9e923885522f38e646bc85d2a20b2729fe97bf7017",
+      "after_sha256": "998546833b0c45a08d7eca9e923885522f38e646bc85d2a20b2729fe97bf7017"
+    },
+    {
+      "id": "dandelion_seed",
+      "material_id": 100057,
+      "has_codex": true,
+      "title_ru": "Семена одуванчика",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 4152281937,
+          "old_chars": 382,
+          "new_chars": 382,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "1d169dcf4a7ba046dd8972f0cb3a3e36fb2d6fd4295890b5c71c46a7fb3919bc",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 4152281937,
+          "old_chars": 409,
+          "new_chars": 409,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "85f1be34c6b9f9c21bff3d012d34f68d444e9fc3ec83f02f3329e961be3f00af",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 4152281937,
+          "old_chars": 104,
+          "new_chars": 109,
+          "status": "expanded_from_codex",
+          "text_sha256": "dc9feebb2cd92e33e412bb02ddc9f3f886f6eaeda5e27fa8a3a82f4b260212e8",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "84c88e71dde550b374269064ab2445243e168fabe34747d7afcd2a523ee43a62",
+      "after_sha256": "c2bfdf11789b811b5f00e3ded9b24234b9c1462183bd8ea87820ad73f38cba41"
+    },
+    {
+      "id": "violetgrass",
+      "material_id": 100034,
+      "has_codex": true,
+      "title_ru": "Стеклянные колокольчики",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 460335149,
+          "old_chars": 108,
+          "new_chars": 108,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "5ce69486bc6cafe9df5299c22c72e47e231292ca898479d7cac19be3948564b7",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 460335149,
+          "old_chars": 119,
+          "new_chars": 119,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "4f8c54b60986cf657316ab42833fe02f04def15a3840d242b81050031f0675d3",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 460335149,
+          "old_chars": 30,
+          "new_chars": 30,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "a7f3b9b287a920e44c2db2bf060af5f393c0265a761ad46fe24863a5d18dbbf6",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "2bea998b3a11f71a383bb9709cd5e549b31711e6ee654ff1ca641c29828a2a9c",
+      "after_sha256": "2bea998b3a11f71a383bb9709cd5e549b31711e6ee654ff1ca641c29828a2a9c"
+    },
+    {
+      "id": "naku_weed",
+      "material_id": 101205,
+      "has_codex": true,
+      "title_ru": "Трава наку",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1986957993,
+          "old_chars": 165,
+          "new_chars": 602,
+          "status": "expanded_from_codex",
+          "text_sha256": "64e40c33db0049702e2567fe7c263dd80a49074ef6d628a728cb9180e4fd1b75",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1986957993,
+          "old_chars": 192,
+          "new_chars": 608,
+          "status": "expanded_from_codex",
+          "text_sha256": "9287a9f044e8de967e242a783fed4a15a721b50c2251592fed020efe295e45ec",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1986957993,
+          "old_chars": 54,
+          "new_chars": 187,
+          "status": "expanded_from_codex",
+          "text_sha256": "057d9ba06e3df71381fd50b18ddf796d18c779ab9e872c964222d9cdab065399",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "27c58bc87775c820596bd8a171697f9417daf719c115a926fcd5ee40d43c38cc",
+      "after_sha256": "ae0c315b379d8b618350cfd16a841c323a1dd9ed1c480b63697bb179563ea05b"
+    },
+    {
+      "id": "dracolite",
+      "material_id": 101255,
+      "has_codex": true,
+      "title_ru": "Драколит",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 565304209,
+          "old_chars": 398,
+          "new_chars": 398,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "493f0cb29dced76ead057384842c411431a3c5d58c464ba30394dd65bf20056b",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 565304209,
+          "old_chars": 413,
+          "new_chars": 414,
+          "status": "expanded_from_codex",
+          "text_sha256": "ac4f3ba7460a902e61f7fb7b3360bbef152ff4bcd908fd9977d400cf352707a5",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 565304209,
+          "old_chars": 113,
+          "new_chars": 122,
+          "status": "expanded_from_codex",
+          "text_sha256": "2543770bfc669fd992cf68f6eb82ee8e1f9cabf1846d6e35dc964506b7f4e807",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "3696bb82a7497ea01af41ffb5e3f1e249d9656d17bec37feac0f2fc47a7d95f4",
+      "after_sha256": "acd355edb5e16f4140e940c11d916e893fc2e44f536d6301259b20e2e024a68e"
+    },
+    {
+      "id": "amethyst_lump",
+      "material_id": 101008,
+      "has_codex": true,
+      "title_ru": "Кусок аметиста",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2153918701,
+          "old_chars": 137,
+          "new_chars": 137,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "38a4de34dc4d975ac49cd217bbeb9fc4d215f368a9329bbd20663f942c89b466",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2153918701,
+          "old_chars": 114,
+          "new_chars": 114,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "502870bf3f275e35803cdfd8b6d07ca95046f7801c7303fad747e708e22316ca",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2153918701,
+          "old_chars": 39,
+          "new_chars": 39,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "04af6f90d91c96d40327e40b8b0e90fe4911901789005c6aed0fa16b3efe5e8b",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "f6ea3f5379e5de25cce1010f3e673412a2cf680005f5aeb4942da1e5567fc0e0",
+      "after_sha256": "f6ea3f5379e5de25cce1010f3e673412a2cf680005f5aeb4942da1e5567fc0e0"
+    },
+    {
+      "id": "lumidouce_bell",
+      "material_id": 101235,
+      "has_codex": true,
+      "title_ru": "Ламповый колокольчик",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2268943313,
+          "old_chars": 588,
+          "new_chars": 589,
+          "status": "expanded_from_codex",
+          "text_sha256": "ad20c9e3fe987ceb1a71ab8c568e2b7d761ab820cec45d7c2e49140f0493ebf1",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2268943313,
+          "old_chars": 559,
+          "new_chars": 561,
+          "status": "expanded_from_codex",
+          "text_sha256": "85a74046eb25f73627dc1ca23ebc346dc18822eae30cec45295b13ab2dac2d2a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2268943313,
+          "old_chars": 167,
+          "new_chars": 174,
+          "status": "expanded_from_codex",
+          "text_sha256": "ea2d48aa3ccfc17ba5f4ae785a6722a8c2898d87ed205182e99b7cebffff7dbe",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "01541598dfd883c4e5f9755312273f3b056d53672261ec71ded0fb6b3b474f5a",
+      "after_sha256": "89f624584630f62a361651e2bdd0689aec4d95d67988982362fee24b6003fa6d"
+    },
+    {
+      "id": "loach_pearl",
+      "material_id": 100090,
+      "has_codex": true,
+      "title_ru": "Жемчужина аксолотля",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3689622201,
+          "old_chars": 285,
+          "new_chars": 285,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "21f7c8c22711432841a126ca9c62222785bf3068ff46d0068c1e226e6b9cfa18",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3689622201,
+          "old_chars": 259,
+          "new_chars": 259,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "90865b715c8f986cacdd75aa26bd82b525bf5b20123ec003aea412621d5a91ec",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3689622201,
+          "old_chars": 74,
+          "new_chars": 74,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "5578ff3a0fb0fa9acd717304a777b44ef876efd5c5650924812201c09fd2b12d",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "edb79d284fca7864bca4ae9e77cac1b9c8f11cacf66d43bae547664b43ee61c2",
+      "after_sha256": "edb79d284fca7864bca4ae9e77cac1b9c8f11cacf66d43bae547664b43ee61c2"
+    },
+    {
+      "id": "portable_bearing",
+      "material_id": 101257,
+      "has_codex": true,
+      "title_ru": "Переносной подшипник",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3266857481,
+          "old_chars": 409,
+          "new_chars": 409,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "9980cb32f45a6aeaedc3f0970c8d41e5c46b8e5ba8de9e70e511d6e66034ff2f",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3266857481,
+          "old_chars": 472,
+          "new_chars": 472,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7713b37da6ec432ce65c99b4164c93f2194c3aad8fe93900ec101f5f3ce30d53",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3266857481,
+          "old_chars": 150,
+          "new_chars": 150,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "cfbdd6f1772190a6201ce3ead72f2f0621cffe89c602b7d4a7eeabc2b9e7fb63",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "55f792ff4b65ab26d515f148621c03a401d3df404e28a0d8c3bdaa0200b96e7d",
+      "after_sha256": "55f792ff4b65ab26d515f148621c03a401d3df404e28a0d8c3bdaa0200b96e7d"
+    },
+    {
+      "id": "cor_lapis",
+      "material_id": 100058,
+      "has_codex": true,
+      "title_ru": "Кор ляпис",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1580467341,
+          "old_chars": 111,
+          "new_chars": 111,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "833402a5cc7f8532894a8ec38d2b46df4564b95cbde2e63bfbef685e0d4eda13",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1580467341,
+          "old_chars": 134,
+          "new_chars": 134,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "8dda403deb11fbbe36e6d027a02e8e9dd68e7bb1ed4c0c4545db57c9377859f0",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1580467341,
+          "old_chars": 34,
+          "new_chars": 34,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "475b46ed6fd5809b3f7ab8655f5338a3e7f7aa1839c7e73ad2387f78a8281c69",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "98b296f16a1c370a1fb27e14cc09fca873cccba316e3891be2ec17fed7555280",
+      "after_sha256": "98b296f16a1c370a1fb27e14cc09fca873cccba316e3891be2ec17fed7555280"
+    },
+    {
+      "id": "saurian_claw_succulent",
+      "material_id": 101250,
+      "has_codex": true,
+      "title_ru": "Лапа завриана",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1268230689,
+          "old_chars": 363,
+          "new_chars": 409,
+          "status": "expanded_from_codex",
+          "text_sha256": "7317880db75c1195412e4eab5b535a9b439a5b74dafa5557daded6f123350707",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1268230689,
+          "old_chars": 436,
+          "new_chars": 436,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "c15af9b0db6051e14b249f675c5412ab7e1d2a22878cfe7d217586e43b46f588",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1268230689,
+          "old_chars": 118,
+          "new_chars": 118,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "939ae8a30977bad7275dd9f6fe6ddd25d8e04d748d59bd05f5a93f450b575433",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "85e32d2848da4ff62d54b947bd450f6cb33304ad50a7681fe69f8ad343e9f1b9",
+      "after_sha256": "77321fb25353062137504427bb8b4cb5852190cf36fdd9cdd714ed907421ac45"
+    },
+    {
+      "id": "borderland_sword_billet",
+      "material_id": 101116,
+      "has_codex": false,
+      "title_ru": "Заготовка одноручного меча приграничных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2748335229,
+          "old_chars": 265,
+          "new_chars": 265,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "1e0f3a3422b140bbe976256eb871ee842ea3ebef08b552eb2b97d7791919a08e",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2748335229,
+          "old_chars": 296,
+          "new_chars": 296,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d5bcacc5d61f3244443f3cd1c4c1db03a7a8c2c9011363d267fd861f6a10db95",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2748335229,
+          "old_chars": 93,
+          "new_chars": 93,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "1ec33550bdea3fd16f2e28684eac3f72bcb4bb0a79a85ef4f08cae005257bfe8",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "03e59a5c9a44b2a1e24d5260da89d39e3b0f965935f589809de436eea68d38d1",
+      "after_sha256": "03e59a5c9a44b2a1e24d5260da89d39e3b0f965935f589809de436eea68d38d1"
+    },
+    {
+      "id": "sprayfeather_gill",
+      "material_id": 101247,
+      "has_codex": true,
+      "title_ru": "Морское перо",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 4007459705,
+          "old_chars": 141,
+          "new_chars": 203,
+          "status": "expanded_from_codex",
+          "text_sha256": "6e909159f5549ff1f834805c2326a83ac1cf7c46aedf992605f698acf2ea79d5",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 4007459705,
+          "old_chars": 166,
+          "new_chars": 243,
+          "status": "expanded_from_codex",
+          "text_sha256": "3ec440557bb87225dbbc981057b57dcd5ca16b31a6c2027bf21cfe87f66877fe",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 4007459705,
+          "old_chars": 40,
+          "new_chars": 61,
+          "status": "expanded_from_codex",
+          "text_sha256": "7bf7202e81b884f22c50e74e7fc4064ca612310a2a8367c1ee4d462744c282fe",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "1aacc2d9c433dab685ef5dbb359756436fa78418eac08f1b6584ca8bfad37528",
+      "after_sha256": "e65151e9b64ab28158df5968d587ebb45c53471d079a9b253b14b64a82b3fec5"
+    },
+    {
+      "id": "romaritime_flower",
+      "material_id": 101233,
+      "has_codex": true,
+      "title_ru": "Ромарин",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3962530673,
+          "old_chars": 158,
+          "new_chars": 502,
+          "status": "expanded_from_codex",
+          "text_sha256": "8505b148c322e6aeb521823e9c6aa37942cf733b38cb293aacf0aa4b0a68a580",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3962530673,
+          "old_chars": 151,
+          "new_chars": 541,
+          "status": "expanded_from_codex",
+          "text_sha256": "b373ff172f478c637d03955ded771e74c8a7f3d04ec888260a960cc7d1e935c0",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3962530673,
+          "old_chars": 40,
+          "new_chars": 135,
+          "status": "expanded_from_codex",
+          "text_sha256": "a1bc75a1859f0363029cc4dc3da33db90edba1fc94ddeb967f2c5876a07c8da0",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "1711eabd76c004757b3c19cbdbaec0d5d49d0ab8b907ca8020ca3d74849569f5",
+      "after_sha256": "c5327b62005eb311d31cde76ae4d4df52bea22dc6bb77dd7db52965d6795ee99"
+    },
+    {
+      "id": "item_131058",
+      "material_id": 131058,
+      "has_codex": false,
+      "title_ru": "Лазурная звездоснежка",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2285704285,
+          "old_chars": 570,
+          "new_chars": 570,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "c018eba23096408bb0924fabdc80dd3f75efc98554fa475049eb03230b102559",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2285704285,
+          "old_chars": 575,
+          "new_chars": 575,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "aabbfb9e656db227280fbc58575e7c5c4f2f4c43d28cca25aedee2a8a45b3275",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2285704285,
+          "old_chars": 135,
+          "new_chars": 135,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "5e7fd3b2c244892ec013b0efd56104cce1e53929b6e289f509af96e2a75ced45",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "415e3b6a6cee762650b0560ad2339baddff8a241fc9524dbb713422223d8901f",
+      "after_sha256": "415e3b6a6cee762650b0560ad2339baddff8a241fc9524dbb713422223d8901f"
+    },
+    {
+      "id": "item_101280",
+      "material_id": 101280,
+      "has_codex": true,
+      "title_ru": "Снежноцвет",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1358882729,
+          "old_chars": 97,
+          "new_chars": 481,
+          "status": "expanded_from_codex",
+          "text_sha256": "b0b6909c25756d03d934bf3b2a7fe83b52e95517d7279f454df2ffa484cb8bc9",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1358882729,
+          "old_chars": 130,
+          "new_chars": 601,
+          "status": "expanded_from_codex",
+          "text_sha256": "9578ba57ee6ace65f5059c85fa60caa906210c1d57dc3bd9b60850e9ca34232a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1358882729,
+          "old_chars": 32,
+          "new_chars": 145,
+          "status": "expanded_from_codex",
+          "text_sha256": "1e723eb02b35bb8c7ed0453aa8d821aa89e8e640fd7539005a2de23a2d96f8b9",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "c1dc20d4cd5a09b8e6926576f07530ba10e4d62b2bceafbf0fbca9512ba135cf",
+      "after_sha256": "d1295901250cbd43df5dcb34768b22747280611f80437ea92489e5ddffc12615"
+    },
+    {
+      "id": "item_101331",
+      "material_id": 101331,
+      "has_codex": false,
+      "title_ru": "Древесина снежного тополя",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2804417949,
+          "old_chars": 155,
+          "new_chars": 155,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "81a05a119b89e83e92fc8dacb426d14160a0a5b27cfc3a7f1104d1a8ba0caf7e",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2804417949,
+          "old_chars": 142,
+          "new_chars": 142,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "00eb424c03c03ce5897901c3b23a06da576513fca0f4676d252cfaa49c02148e",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2804417949,
+          "old_chars": 44,
+          "new_chars": 44,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "476a9c1ad1c27343e3ec3fe5fffe82b873e2a290cbbb4beafb8c209efa77a0d7",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "0a48f0553277ddb99aaf4d79f5d0716a65d44f00229c3414d6999c425b165ab3",
+      "after_sha256": "0a48f0553277ddb99aaf4d79f5d0716a65d44f00229c3414d6999c425b165ab3"
+    },
+    {
+      "id": "item_101270",
+      "material_id": 101270,
+      "has_codex": true,
+      "title_ru": "Слеза застывшей луны",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2080539505,
+          "old_chars": 158,
+          "new_chars": 871,
+          "status": "expanded_from_codex",
+          "text_sha256": "fb4921a8849c35f19b3ed080852fbf236475e3123b86e46a8e86e5580ec17d4c",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2080539505,
+          "old_chars": 154,
+          "new_chars": 868,
+          "status": "expanded_from_codex",
+          "text_sha256": "3fa7bf1efbbcd86edc0fed45c2c3fa9e530d4e15cefa0191b3de4322d06fab35",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2080539505,
+          "old_chars": 39,
+          "new_chars": 219,
+          "status": "expanded_from_codex",
+          "text_sha256": "5c24438a00b58e718cedbddbb2438fdecca95a1d5186b1d878ae076c62ee9e3b",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "2b729f2c970f2fd7ae2dec200f0f7afb1258054fc03f4a76405cbaf5adccf7f5",
+      "after_sha256": "911b639ce6872da3451a758d064687ee7ce4a4905933e5372bd127532b5adb15"
+    },
+    {
+      "id": "midlander_sword_billet",
+      "material_id": 101111,
+      "has_codex": false,
+      "title_ru": "Заготовка одноручного меча центральных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 4016435669,
+          "old_chars": 224,
+          "new_chars": 224,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "e24de7555918a939178ad58850fcde6138b02462247a53d7741c4bf97c6f3dc6",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 4016435669,
+          "old_chars": 215,
+          "new_chars": 215,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "28038a3a91cfe2d1bfebc0ddb768182402a92bcdb213bfb173fbc4d86121d01f",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 4016435669,
+          "old_chars": 70,
+          "new_chars": 70,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7e7791677c656009dc35db27633c18285f20665cfcaf11f3c71a2e30401ac5f4",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "d5b5d7acce5667d9fbf9ba32b74a65badf832891aa12f4549f3727fa9a4668b3",
+      "after_sha256": "d5b5d7acce5667d9fbf9ba32b74a65badf832891aa12f4549f3727fa9a4668b3"
+    },
+    {
+      "id": "windwheel_aster",
+      "material_id": 100024,
+      "has_codex": true,
+      "title_ru": "Ветряная астра",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1319275901,
+          "old_chars": 129,
+          "new_chars": 129,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "eb740ae9e58cc044021b16f673b30dc2c481aef85b4f94b6b71ff240c357faa0",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1319275901,
+          "old_chars": 140,
+          "new_chars": 140,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "38b445f344358b1d5892b97ddbc4881bf549c9aaa230e4545c8630bb3b09d6a3",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1319275901,
+          "old_chars": 45,
+          "new_chars": 45,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "36a4ccf0fb3e56e7cb515256e230d5a5b0e064cc2e4fbfdffc64d6d432b45dd2",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "f73c9db8da7c12f59bc91ea783bff06cb1544208af4085f964e79363c86ee412",
+      "after_sha256": "f73c9db8da7c12f59bc91ea783bff06cb1544208af4085f964e79363c86ee412"
+    },
+    {
+      "id": "dendrobium",
+      "material_id": 101204,
+      "has_codex": true,
+      "title_ru": "Кровоцвет",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1268059953,
+          "old_chars": 221,
+          "new_chars": 781,
+          "status": "expanded_from_codex",
+          "text_sha256": "71938cbf9074fb5b32d64991f95b6544de1eac703e64bc532880923ae655551b",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1268059953,
+          "old_chars": 244,
+          "new_chars": 828,
+          "status": "expanded_from_codex",
+          "text_sha256": "5c2e4631de6dc5d6736f82eb1fe70aa7edb04c5b2a13fcee864091386829cd78",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1268059953,
+          "old_chars": 59,
+          "new_chars": 206,
+          "status": "expanded_from_codex",
+          "text_sha256": "83bfa03fbb9ddf04dad033eeb50e0eb77b612107f996566c41658fc5e7320bd3",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "3e3b3b8b7d3159550f399f3928b94ab11c0a68d43d5df038e4c9e59e181c6444",
+      "after_sha256": "91bdd91783d3d782dd5105c195203a5a0f40410d620e8cb5320f281a0ffdb203"
+    },
+    {
+      "id": "sakura_bloom",
+      "material_id": 101202,
+      "has_codex": true,
+      "title_ru": "Цвет сакуры",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3701391305,
+          "old_chars": 529,
+          "new_chars": 529,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "376b5c340e1f936594d20268492536842d58d1868889b0f8efff88a8dcd71a93",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3701391305,
+          "old_chars": 529,
+          "new_chars": 529,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "438f41d3d7b83a459bfbd147fe7331589a2ff8f882294401818e15239032e562",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3701391305,
+          "old_chars": 140,
+          "new_chars": 140,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "2eeff9c7be86b4d64db5ab7bb9ae33ea86a718ba8ef68edb4721ee6bb3d7b3d7",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "7845c117d8b334cda93564adffa4d00af4e5f53c820d6f9f3f994ea963138688",
+      "after_sha256": "7845c117d8b334cda93564adffa4d00af4e5f53c820d6f9f3f994ea963138688"
+    },
+    {
+      "id": "trishiraite",
+      "material_id": 101224,
+      "has_codex": true,
+      "title_ru": "Тришираит",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1916460889,
+          "old_chars": 129,
+          "new_chars": 498,
+          "status": "expanded_from_codex",
+          "text_sha256": "c130b75f86b38fcf488e0dbdd10dcbd667001f517eb39de351452d9eddb401b5",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1916460889,
+          "old_chars": 124,
+          "new_chars": 567,
+          "status": "expanded_from_codex",
+          "text_sha256": "d4c0746ebfb58ea5df032f048b570997178174d76809cfece4151c289c9f4313",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1916460889,
+          "old_chars": 39,
+          "new_chars": 146,
+          "status": "expanded_from_codex",
+          "text_sha256": "84fc7ca3c79ac1b4537ddf2853c5906dc04f4017ad14f89f74a21f94785823d4",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "ff636f0bfd5144221cc64450f1984ef7d8ffe02ae31a8c8112454722ad81c8ac",
+      "after_sha256": "bd9a4970a3f22d40308d4ae3930126d658a9a8780ce76c5264209d968e5c9dcf"
+    },
+    {
+      "id": "quenepa_berry",
+      "material_id": 101249,
+      "has_codex": true,
+      "title_ru": "Ягода квенепа",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3084868537,
+          "old_chars": 576,
+          "new_chars": 576,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "4b1d4b8939065d9e232648b60fb5ba79bfc3f405ce71bfc033748fbe08ddb969",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3084868537,
+          "old_chars": 635,
+          "new_chars": 635,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d030bd294c271eb3702b4d090bf669ceb1ba268aed1ad14cd4a6f61a88df83b0",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3084868537,
+          "old_chars": 168,
+          "new_chars": 185,
+          "status": "expanded_from_codex",
+          "text_sha256": "a88b506ae4e27fff4d20e7d408364f06c683f7d8f49c267efa1fe68aaa835065",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "cd325bbbb79f7240eab9062269438fc18616b1a6e880469973a9a9dace857531",
+      "after_sha256": "da0c1dfe244087ea2d9cbc1a9d1fb7d278b5ebf9eeb670850101000866aa45c9"
+    },
+    {
+      "id": "item_101276",
+      "material_id": 101276,
+      "has_codex": true,
+      "title_ru": "Флоковая трава",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1038462865,
+          "old_chars": 184,
+          "new_chars": 773,
+          "status": "expanded_from_codex",
+          "text_sha256": "33c73900134478dd7ca7a29939702521d4155476eff181ea43e4cf282052c5eb",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1038462865,
+          "old_chars": 175,
+          "new_chars": 675,
+          "status": "expanded_from_codex",
+          "text_sha256": "f1c0c4deda4b3286565c4e8a943961acd56c95c52485f2386da54ea67a7cc7c3",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1038462865,
+          "old_chars": 46,
+          "new_chars": 204,
+          "status": "expanded_from_codex",
+          "text_sha256": "a7bb22441f9a066ad97fa13d6aeaea374c092bb1afce95731257f8c388648e15",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "2f8a0c4383112ad1060ed54305104cb649d2bbd27499990a3ef5cdd1ed875f00",
+      "after_sha256": "0620e4ebf8a8ed79f6fb6e8890d85cf96d045bdc720bb4140ae4a326153fa773"
+    },
+    {
+      "id": "borderland_catalyst_billet",
+      "material_id": 101119,
+      "has_codex": false,
+      "title_ru": "Заготовка катализатора приграничных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2400153629,
+          "old_chars": 259,
+          "new_chars": 259,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "ab986cf90ec8cd040bd5f695bb5d6f16ec9a7d23207c60026e553086552821a9",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2400153629,
+          "old_chars": 299,
+          "new_chars": 299,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "55602bb9a2b4b51cc199837a3eabffe1b9ae64a57eb015af8d88500163e4e43b",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2400153629,
+          "old_chars": 92,
+          "new_chars": 92,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "00d33fc551c95d80e3b234f309eacbe4bfd6ef9981350d1e866ef693eba1e16a",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "0fb074ad5f6cd3ce6a082c52af1d68bb7bff0cddb3e5425a79694b990a85a02e",
+      "after_sha256": "0fb074ad5f6cd3ce6a082c52af1d68bb7bff0cddb3e5425a79694b990a85a02e"
+    },
+    {
+      "id": "withering_purpurbloom",
+      "material_id": 101253,
+      "has_codex": true,
+      "title_ru": "Сухой пурпурник",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 656748305,
+          "old_chars": 124,
+          "new_chars": 413,
+          "status": "expanded_from_codex",
+          "text_sha256": "9414c0aa8d5a5eabb1736e119b657ef908041e23f86e18552c2af48c64ef8275",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 656748305,
+          "old_chars": 120,
+          "new_chars": 609,
+          "status": "expanded_from_codex",
+          "text_sha256": "fef989a29d3044e628f1f3baf296afc04cd09d3b2ee23faa4aad579d207d6c86",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 656748305,
+          "old_chars": 29,
+          "new_chars": 157,
+          "status": "expanded_from_codex",
+          "text_sha256": "84b035a369fb5f5a003feb89f5de3b4b809378ea677691c944b3772d285052c7",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "b49bc3d7404e8ce1bb4acd2ce36156b0d13b2aa66e13c0deded90632149df9cc",
+      "after_sha256": "c3deebf78531c112572218fd5ef75998a96dfe0672fcdd8b2a7a2de1c66a067e"
+    },
+    {
+      "id": "sea_ganoderma",
+      "material_id": 101206,
+      "has_codex": true,
+      "title_ru": "Морской гриб",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3703047769,
+          "old_chars": 212,
+          "new_chars": 516,
+          "status": "expanded_from_codex",
+          "text_sha256": "846434be6f91abcfe4805df1402e8b37c4d9cf10d87d650bb40ad331cfa16fee",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3703047769,
+          "old_chars": 198,
+          "new_chars": 569,
+          "status": "expanded_from_codex",
+          "text_sha256": "edc4ab50b79ba9ec88160156b51b82aa1e639d4c12fbaf70e9fbcf784bef6a85",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3703047769,
+          "old_chars": 52,
+          "new_chars": 152,
+          "status": "expanded_from_codex",
+          "text_sha256": "d82fe3cfdcf89e5dd71ad6e0bc602b8d7bfd92596be91d75d0b3eedb95dc94f1",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "4609fd07ceb6fb5b38f2f71a780aa1aeb5f58bdcc4752c67e12a364d784ca67a",
+      "after_sha256": "208b421001966345d0ac04f1a2ada0e321353531e9e5ab43c4c9d2e62821179b"
+    },
+    {
+      "id": "item_131055",
+      "material_id": 131055,
+      "has_codex": false,
+      "title_ru": "Сливочный снежный пинагор",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 102834405,
+          "old_chars": 907,
+          "new_chars": 907,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "10947be7fbdae37369a3e842c47dd54acd3f0b9f184a68d4930cf56a868a5a47",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 102834405,
+          "old_chars": 839,
+          "new_chars": 839,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "8baa3e84c305919cc6caede58dd444d5c6330da8ece9b810e53704a09c79f0f8",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 102834405,
+          "old_chars": 202,
+          "new_chars": 202,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "b723fb7677eb9728e7fb7131aeefe243acd0ce7e94149e524036b3dbf6276a10",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "ffa7753eedaaedb768916b84a9301997732f938f31f9f789e992963f70aa8572",
+      "after_sha256": "ffa7753eedaaedb768916b84a9301997732f938f31f9f789e992963f70aa8572"
+    },
+    {
+      "id": "frostlamp_flower",
+      "material_id": 101261,
+      "has_codex": true,
+      "title_ru": "Инеевый цветок",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 799424457,
+          "old_chars": 527,
+          "new_chars": 527,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "9d7dff9863cb1f71174fa2fe6e03dcc4da9926c96a078c9c17541729f6352f37",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 799424457,
+          "old_chars": 596,
+          "new_chars": 596,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "62850ea7bf7f9822bb569b3191e247721c7da6da76fa208d54e4ebc0af695ef5",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 799424457,
+          "old_chars": 165,
+          "new_chars": 165,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "10c61041781c328086ac202baea0737f90a756a98839feac445e48c95449479d",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "a5b8480b6f378b751553c9f88c54d84dc6c8a3b88ce7b1659fccaf601da58579",
+      "after_sha256": "a5b8480b6f378b751553c9f88c54d84dc6c8a3b88ce7b1659fccaf601da58579"
+    },
+    {
+      "id": "kalpalata_lotus",
+      "material_id": 101217,
+      "has_codex": true,
+      "title_ru": "Лотос кальпалата",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3278403233,
+          "old_chars": 161,
+          "new_chars": 542,
+          "status": "expanded_from_codex",
+          "text_sha256": "5fda26cb237425088449021711354ba3379802356bf4ba47b900f87dd8b258b5",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3278403233,
+          "old_chars": 182,
+          "new_chars": 639,
+          "status": "expanded_from_codex",
+          "text_sha256": "2c1e3683478688b41e558b40157be111f5ccbcb139efb3995b97cfebe592c7bc",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3278403233,
+          "old_chars": 47,
+          "new_chars": 168,
+          "status": "expanded_from_codex",
+          "text_sha256": "9f368302a4504cdbfb1abd1641b4e0378a4fe6585b5a698455cc587d98e5aad0",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "247d7aa0867d95670534b6441c27053534a32066c44bab09dba14e9c77882247",
+      "after_sha256": "1991ca479824907cefb443b9e619432b6f80228c79b684d81162789d74cf201a"
+    },
+    {
+      "id": "beryl_conch",
+      "material_id": 101232,
+      "has_codex": true,
+      "title_ru": "Берилловая ракушка",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 78937057,
+          "old_chars": 157,
+          "new_chars": 359,
+          "status": "expanded_from_codex",
+          "text_sha256": "ba65ca0a260dd922fb9bd288ed22b34b95f8bc0dcfbd682c6fa12a6214b9f141",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 78937057,
+          "old_chars": 139,
+          "new_chars": 364,
+          "status": "expanded_from_codex",
+          "text_sha256": "778c62d3789107de592a78d848c48b3dff21cc684e2446846ff329ca2ca5d161",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 78937057,
+          "old_chars": 40,
+          "new_chars": 95,
+          "status": "expanded_from_codex",
+          "text_sha256": "c09e44d2d88e73b3f987ac158b3ec81952bd4ec57b6da7e10a77b35d1125fb8f",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "616c5b8b56b14d7968ffe2b3d2e4fecf52321f8a290c5c7cf81e177a556451dd",
+      "after_sha256": "328a60a2c1942405690560457b346e0a50997a1b800a495583140a28a5257900"
+    },
+    {
+      "id": "pine_amber",
+      "material_id": 101269,
+      "has_codex": true,
+      "title_ru": "Сосновый янтарь",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 835978809,
+          "old_chars": 217,
+          "new_chars": 648,
+          "status": "expanded_from_codex",
+          "text_sha256": "c1d7cca992dd0e38e4f71da4e3129ee64035506fd6bed9425aaef3ab6c315544",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 835978809,
+          "old_chars": 179,
+          "new_chars": 654,
+          "status": "expanded_from_codex",
+          "text_sha256": "beaf5c6feaf4cd3f16191bd53caa97dc5ef8ce4404abcd98f16fb5aeec1df8a6",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 835978809,
+          "old_chars": 37,
+          "new_chars": 138,
+          "status": "expanded_from_codex",
+          "text_sha256": "d91c0128f8cf59655c6e0748747f6edafd9a3d2c5542cb9879865e5e4420afe1",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "b1510fc33ce7b5e1033bc3ff22a64b483b9855108fb484bba1b7aa6060c66ad4",
+      "after_sha256": "ac650b644bd96a2c6c279841172a1b5a2a25093fc0e4d37edda1dafb79600e34"
+    },
+    {
+      "id": "strange_tooth",
+      "material_id": 100618,
+      "has_codex": true,
+      "title_ru": "Необычный клык",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 3666851301,
+          "old_chars": 94,
+          "new_chars": 94,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f092598a079f491c6f9e7ea9bf0f05ed17f7a584938dd75e7b34d6ac440bc912",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 3666851301,
+          "old_chars": 97,
+          "new_chars": 97,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d8c564d819add513d93f5aae72dc80e8eb4c264af2ffae96f45954b6714d27c4",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 3666851301,
+          "old_chars": 29,
+          "new_chars": 29,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "8f80d865d0777ad928fefae111b57454fea8a4d9020848f987c7d77db317615c",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "ccd2acb8461a8fde10c5b2934417fdc0f118ec131277b78cc21868e139c03b94",
+      "after_sha256": "ccd2acb8461a8fde10c5b2934417fdc0f118ec131277b78cc21868e139c03b94"
+    },
+    {
+      "id": "item_101274",
+      "material_id": 101274,
+      "has_codex": true,
+      "title_ru": "Кристаллический гриб-зонтик",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1486789401,
+          "old_chars": 159,
+          "new_chars": 523,
+          "status": "expanded_from_codex",
+          "text_sha256": "e080572ea87c72509e79510d20169eb375a4fe322e9c753d808542465ffa0fdc",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1486789401,
+          "old_chars": 152,
+          "new_chars": 471,
+          "status": "expanded_from_codex",
+          "text_sha256": "ae646aaae870e8e32e091b3ee3bafe73b1d52e974124e65bfd844334ceef387e",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1486789401,
+          "old_chars": 41,
+          "new_chars": 136,
+          "status": "expanded_from_codex",
+          "text_sha256": "19ca50677de2c14a3ffa81378045d79fb05a6ec2296fef3bed5ad564e2f4dc10",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "87a077b4fc125345bc16a0ac28027a071c9f9469b859f7055b156ce2ae139111",
+      "after_sha256": "887ee9bffc092e87a4697ab4dfe9789e5566a3a7ce93fcf3747624cf765e8ef5"
+    },
+    {
+      "id": "condessence_crystal",
+      "material_id": 101009,
+      "has_codex": true,
+      "title_ru": "Конденсирующиеся кристаллы",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 4149186233,
+          "old_chars": 63,
+          "new_chars": 453,
+          "status": "expanded_from_codex",
+          "text_sha256": "2446f4226f0167d058393541dbcfaf44430d84a6a4c5efa4cda225957d595148",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 4149186233,
+          "old_chars": 72,
+          "new_chars": 473,
+          "status": "expanded_from_codex",
+          "text_sha256": "900af0ee7e9c3de63d18f75e466e511915ccabbe8c17c91c7a41f892bf3042df",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 4149186233,
+          "old_chars": 21,
+          "new_chars": 122,
+          "status": "expanded_from_codex",
+          "text_sha256": "5b68439d69de7b82fb9a98aadd8f59f1947f2c86d02edb2df72f4febcbb958d6",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "324253274248c1bfd05b77e35187f8a25fea9f946053460d8d2f50eb9f7f4c1d",
+      "after_sha256": "a16f7b1ff83c0e73077b0d3552b52c43e2773c83819d9b311eeb7c6bd2c285e0"
+    },
+    {
+      "id": "nilotpala_lotus",
+      "material_id": 101215,
+      "has_codex": true,
+      "title_ru": "Лотос нилотпала",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2106204801,
+          "old_chars": 578,
+          "new_chars": 600,
+          "status": "expanded_from_codex",
+          "text_sha256": "872086aba5fccf0cb8a9770ad41e0f51d4270f1fec9f69ecff440f24249695ff",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2106204801,
+          "old_chars": 645,
+          "new_chars": 645,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "54c45f108d6fed475445b01f38c606d77fcf53ee4b8a07251f49cac3cbe5ccaa",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2106204801,
+          "old_chars": 165,
+          "new_chars": 165,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "ba61eed56d37fb0872f4eebe2c09848d0f2eac118a175582f7fd167ad7bb265b",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "c573f5e9262422ec04ba57a925fc1945dc869fc65c9337a3bb6034de968b5ee0",
+      "after_sha256": "4074442123298d8b604819c3b8a9d0070836ac6b5c0d6be355b1be5dda0d6974"
+    },
+    {
+      "id": "item_101332",
+      "material_id": 101332,
+      "has_codex": false,
+      "title_ru": "Древесина белой берёзы",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2878218493,
+          "old_chars": 154,
+          "new_chars": 154,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "1e953a3d0bd80c153eb90b36da681990c2ec60e47329331141e0947e7e48a8c3",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2878218493,
+          "old_chars": 139,
+          "new_chars": 139,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "4d94c21a478de598b4eaf60042e3058024caba3f51f8065ce933ab90e311b9ee",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2878218493,
+          "old_chars": 35,
+          "new_chars": 35,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f33367f3c3898a6bb5d40d49fd927cf11e12f6e5ff694d7a039be08fc960e607",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "cffd45cbe0621d1a108abbe69b151f4fa9dcdeab1a75eb47423a91743f74a549",
+      "after_sha256": "cffd45cbe0621d1a108abbe69b151f4fa9dcdeab1a75eb47423a91743f74a549"
+    },
+    {
+      "id": "white_iron_chunk",
+      "material_id": 101002,
+      "has_codex": true,
+      "title_ru": "Обломок белого железа",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 721206985,
+          "old_chars": 55,
+          "new_chars": 174,
+          "status": "expanded_from_codex",
+          "text_sha256": "33a49a09ecb5ab69186c07e39dc28cbe97c1e016e08821c4da8fb85f36560c57",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 721206985,
+          "old_chars": 53,
+          "new_chars": 221,
+          "status": "expanded_from_codex",
+          "text_sha256": "3d7a44229adc938ad890d722f1ae520c4dcd6e0fcd76e836e4b5a76ad6f0a159",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 721206985,
+          "old_chars": 25,
+          "new_chars": 62,
+          "status": "expanded_from_codex",
+          "text_sha256": "8df7d71320495e345e6ddf5dd335a28b0ad42cbdee7bf2de091d20afdcf05dca",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "ceeb52e93f2ce4c42467e06dc6ccf916e76035dd712f5a11425578743b09ec40",
+      "after_sha256": "5154e5ae8d6060ad0cf0dd1afedc03036d61a793fb1bcb167c5a2fc3fb71e132"
+    },
+    {
+      "id": "iron_chunk",
+      "material_id": 101001,
+      "has_codex": true,
+      "title_ru": "Обломок железа",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 832274041,
+          "old_chars": 107,
+          "new_chars": 162,
+          "status": "expanded_from_codex",
+          "text_sha256": "7c3e87937ad61572901ca206a82b8ec6918cd03b0d1dc1abdc8923c3863326d1",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 832274041,
+          "old_chars": 98,
+          "new_chars": 183,
+          "status": "expanded_from_codex",
+          "text_sha256": "096dd9906f54cd33ad1aa02b0011e505815a000a73497deeb135b4c52d0f1887",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 832274041,
+          "old_chars": 24,
+          "new_chars": 49,
+          "status": "expanded_from_codex",
+          "text_sha256": "1fa69d4eb4807b208c125ac84a948e06457dfefc213c7c71c50317c794362ca1",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "029b5b469a8b9a9bed4f447bf61478a52465943d0c625bc0344f17bfebae2aab",
+      "after_sha256": "09afc3807f491750e1df1883c93da26db00b18b45985b0bb657cca370e0a1c3a"
+    },
+    {
+      "id": "item_101279",
+      "material_id": 101279,
+      "has_codex": true,
+      "title_ru": "Криозвёздник",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 439358193,
+          "old_chars": 172,
+          "new_chars": 445,
+          "status": "expanded_from_codex",
+          "text_sha256": "a5a1875bfad85e55b785566342ae04917e83c4875601ed08bb94f7c3fb14acca",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 439358193,
+          "old_chars": 186,
+          "new_chars": 446,
+          "status": "expanded_from_codex",
+          "text_sha256": "fc91f43daf4f4ba9f7be20af30500bc30e22ceeff576c646e58b8c43b4d88a95",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 439358193,
+          "old_chars": 42,
+          "new_chars": 132,
+          "status": "expanded_from_codex",
+          "text_sha256": "bb91666f7daf7680b787d4672d4a116897c75c26af275b33a7bf5bddfaa9e702",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "9569689a0a95a9f2becef01d2e3f34a878481174e7cf687d57ca6b76d677372f",
+      "after_sha256": "6bea563d5796b3d89e5eea8ede70d011d13816622b1e1c451cbf4823623141d4"
+    },
+    {
+      "id": "item_101275",
+      "material_id": 101275,
+      "has_codex": true,
+      "title_ru": "Морозник",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1894729633,
+          "old_chars": 150,
+          "new_chars": 522,
+          "status": "expanded_from_codex",
+          "text_sha256": "ba87627c5a938f7926ea4fbc75b4781e5a8f027e7cf5709b30a105f3f4b28aa9",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1894729633,
+          "old_chars": 152,
+          "new_chars": 465,
+          "status": "expanded_from_codex",
+          "text_sha256": "59a28d670a3cd617f4b4c09b55336f11eca79fb52c6d333e8f3814bf66297418",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1894729633,
+          "old_chars": 34,
+          "new_chars": 126,
+          "status": "expanded_from_codex",
+          "text_sha256": "7391861a109eafdb8a590449ea40091335f0f089ffb112d75117d51f988b9f7c",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "11a3b6465ffc49cd101f2b64e29e6dcb9e711a61ea724c1f6d4f6adb6e7c5045",
+      "after_sha256": "0faaf67ec2a778e8bb31cf5941e556241d7d42193652c05fbe8dc6d189c7969d"
+    },
+    {
+      "id": "cecilia",
+      "material_id": 100023,
+      "has_codex": true,
+      "title_ru": "Сесилия",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 4158848333,
+          "old_chars": 96,
+          "new_chars": 96,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d276d35d3a658194584022ca0f93d14b0902b8524650a43e98e7ce1c9f41ff14",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 4158848333,
+          "old_chars": 159,
+          "new_chars": 159,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "39b837f029c97421236b81e229427db390ce27862b6d0c6c282a61b5db1d6d3e",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 4158848333,
+          "old_chars": 39,
+          "new_chars": 39,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "6866f711ca0b21f09fea08d4be0712ebbacc1e473a01a3aff1838251c8522930",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "c32a904586dd4c032d1bcb028c3e0a44ca328c5ec497815c5f103690eb0cf341",
+      "after_sha256": "c32a904586dd4c032d1bcb028c3e0a44ca328c5ec497815c5f103690eb0cf341"
+    },
+    {
+      "id": "northlander_polearm_billet",
+      "material_id": 101105,
+      "has_codex": false,
+      "title_ru": "Заготовка копья северянина",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 4204811613,
+          "old_chars": 214,
+          "new_chars": 214,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "b70491bb43de03235216ecba6df5182d9fef3906ecc5cda35227bbb6e101b7e2",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 4204811613,
+          "old_chars": 220,
+          "new_chars": 221,
+          "status": "expanded_from_inventory",
+          "text_sha256": "ce722e1557bfbcfa0b5db4d58cf83df7ef9784a59261662e2522ecf1a8011868",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 4204811613,
+          "old_chars": 71,
+          "new_chars": 71,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "9e28d2ebd80aafe610559cfbc2865fecbfd89c386fe041d5865bfb138f7c2753",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "7804e33d64050c90c0d28314c8a893b15b01825aeea1494fb71d0ab84e670dfe",
+      "after_sha256": "246d3f344d079e7b21493bd76462b1812040ba5539551445d323953a3f6fa941"
+    },
+    {
+      "id": "borderland_polearm_billet",
+      "material_id": 101120,
+      "has_codex": false,
+      "title_ru": "Заготовка копья приграничных земель",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 380863605,
+          "old_chars": 264,
+          "new_chars": 264,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "c60781a4b60b421e4708b8ca5d417443ef30530ebcc0dc463e1149dba0902a23",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 380863605,
+          "old_chars": 298,
+          "new_chars": 298,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "5b8d0299ade8afce6e543f9f605ed28cd926e493c37de3d010d55c9390127745",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 380863605,
+          "old_chars": 94,
+          "new_chars": 94,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "858addef82e5f4b5d738a89b401d5305dfdd9d41810fa942a8b6ff89bc5f4be9",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "dc9dc8a76e70e66d58c618acafa7d691552f254affc6f80ae33b3f8e5c6296a2",
+      "after_sha256": "dc9dc8a76e70e66d58c618acafa7d691552f254affc6f80ae33b3f8e5c6296a2"
+    },
+    {
+      "id": "etherwing_moth",
+      "material_id": 101272,
+      "has_codex": true,
+      "title_ru": "Эфирокрылый мотылёк",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3495388737,
+          "old_chars": 368,
+          "new_chars": 368,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "d4840eb5bcfcf3e12bd63a494b8b5209226cef25e3d98dc1a7d2394ddad9f5e0",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3495388737,
+          "old_chars": 499,
+          "new_chars": 499,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "9ea54d01f0b40af055dac5d0727450b5f65f0ddf3bdc5432b2ccd8374cd6da04",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3495388737,
+          "old_chars": 128,
+          "new_chars": 128,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "5ea9c86ba6922d0e5fbacbb65c5b20e21a6c230521bc59f73dfe888d414c9f5c",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "1aa45d5f3cc27c8bc79dac755feb5fc7bbc3cc5095db3f2f39d784454f433ab2",
+      "after_sha256": "1aa45d5f3cc27c8bc79dac755feb5fc7bbc3cc5095db3f2f39d784454f433ab2"
+    },
+    {
+      "id": "clearwater_jade",
+      "material_id": 101241,
+      "has_codex": true,
+      "title_ru": "Нефрит чистой воды",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 637736929,
+          "old_chars": 584,
+          "new_chars": 584,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "a37c29f8f9d10abfdddb458e14bd82170cc7bd19281995da5880e11b532e8576",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 637736929,
+          "old_chars": 585,
+          "new_chars": 585,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "9f16470915a00c703e0b0c89f4ba807817547777978853b39da381696828e39e",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 637736929,
+          "old_chars": 165,
+          "new_chars": 165,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "0570fbc42fef0ed2de9a492950a33c2c9a13411a7167d05b0e0ec87d79eb59b6",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "b87ecb13e4f57cf5677a59bbea26b9c57a532f50c71467cd8094583d879777e6",
+      "after_sha256": "b87ecb13e4f57cf5677a59bbea26b9c57a532f50c71467cd8094583d879777e6"
+    },
+    {
+      "id": "crystal_marrow",
+      "material_id": 101203,
+      "has_codex": true,
+      "title_ru": "Кристальный костный мозг",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 30927761,
+          "old_chars": 138,
+          "new_chars": 624,
+          "status": "expanded_from_codex",
+          "text_sha256": "68f5536213b996bbf1b7d3b4833fcb4107f85101a745192a02113053f5832031",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 30927761,
+          "old_chars": 150,
+          "new_chars": 599,
+          "status": "expanded_from_codex",
+          "text_sha256": "dc15a262cb54c16287e04b9cd6c63c24e401c83b2c5f413a2ebe80e35bab1ee1",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 30927761,
+          "old_chars": 43,
+          "new_chars": 175,
+          "status": "expanded_from_codex",
+          "text_sha256": "c79584f9a5826a742f17b98c033a28125b9666f9a5282dcb350d4051f93942d4",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "b1d15451d0b1b3ed29987f8dfdb6b79323185e80785dba4ff0bd0fc958d8ff79",
+      "after_sha256": "cc75fe5ab1fbeb6fe0292f335ad23699757c15338e81161da80cc62510508a18"
+    },
+    {
+      "id": "brilliant_chrysanthemum",
+      "material_id": 101248,
+      "has_codex": true,
+      "title_ru": "Сверкающая хризантема",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1125504865,
+          "old_chars": 66,
+          "new_chars": 520,
+          "status": "expanded_from_codex",
+          "text_sha256": "74c10a955f0fdbb5895dacb1b0e4a365168069eeb3c7c7f6fcf18fab5a1eba85",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1125504865,
+          "old_chars": 134,
+          "new_chars": 541,
+          "status": "expanded_from_codex",
+          "text_sha256": "55352d7861d1907733ebd19bdaeee895291fb4766bcd4f08941a44a97aefbeb3",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1125504865,
+          "old_chars": 22,
+          "new_chars": 115,
+          "status": "expanded_from_codex",
+          "text_sha256": "fa86eabf9b16ed40ca03ddcd15c7c7e843717f93fdae7c0447f196096bf1c441",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "22b35c190c51c8293eaecd278541a639e25af2f78147212c1092b20175f24a26",
+      "after_sha256": "c1893caa8fea6ce4335b7c776a511756f3d13a128c7a6636d716548e2275e71d"
+    },
+    {
+      "id": "lumitoile",
+      "material_id": 101237,
+      "has_codex": true,
+      "title_ru": "Темнозвёздник",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1998626385,
+          "old_chars": 108,
+          "new_chars": 569,
+          "status": "expanded_from_codex",
+          "text_sha256": "d0b47e7f8b57bce63210b8b30a6e1dbbc13a09e3b497c89739aa1b895ec1d234",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1998626385,
+          "old_chars": 121,
+          "new_chars": 550,
+          "status": "expanded_from_codex",
+          "text_sha256": "3a6277d0e256f78cc979185d392f6115b1300a05f14de7c9bbdaf72bc17682c1",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1998626385,
+          "old_chars": 35,
+          "new_chars": 151,
+          "status": "expanded_from_codex",
+          "text_sha256": "8f69315558f0b7f4aa4cb4147d1a072652107a417f62fab3ba1f9ccd3a4e6a95",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "6cfd67d420911490a2f109d4b61217d54f0d7fc178ca07379d3c39abface158e",
+      "after_sha256": "aaa34d4b96494e3933078c82cbef71ee11c12cfe4f24bc024493dd4743269e71"
+    },
+    {
+      "id": "luminescent_spine",
+      "material_id": 100082,
+      "has_codex": true,
+      "title_ru": "Светящееся брюшко",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 794410021,
+          "old_chars": 104,
+          "new_chars": 104,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "86250c7300eb7415601466738eb1bc92fba899ee091d7b06f96379b6d9a51a42",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 794410021,
+          "old_chars": 99,
+          "new_chars": 99,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "9b2951c27cca568dbf9d5fc09466cd6011c4d61643125e4e3906d4983d567d7a",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 794410021,
+          "old_chars": 36,
+          "new_chars": 36,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "722c2b6ade41d3e1a5afe99b399eff10b9b68970a400b6b9673fbc1f9d4662fb",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "62e4a6ad94e327e04a1e44e359f2ff0573f5cf23a03b1ddb939a81d78db9ee94",
+      "after_sha256": "62e4a6ad94e327e04a1e44e359f2ff0573f5cf23a03b1ddb939a81d78db9ee94"
+    },
+    {
+      "id": "northlander_sword_billet",
+      "material_id": 101101,
+      "has_codex": false,
+      "title_ru": "Заготовка одноручного меча северянина",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1008992693,
+          "old_chars": 215,
+          "new_chars": 215,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "46b9cffd3445765227bb9a01caca50e365b72ecd3f4f16d25d952ee2a00b0809",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1008992693,
+          "old_chars": 218,
+          "new_chars": 219,
+          "status": "expanded_from_inventory",
+          "text_sha256": "3aab17fa8eb000b73bdfdbb3836755e6ced71fb085593e7640190aac2ecbe3c0",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1008992693,
+          "old_chars": 70,
+          "new_chars": 70,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "7f92fabf8bd5cdbf3da7b81ed9cebeb77a02749d8a81a0a57f06873a48b66c68",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "deaca4bae95645ad450d1a45bee62c896e9a9a3a5c0fe02e496120e5ab0a927f",
+      "after_sha256": "eec269abbebe9c17c6dbd51eae6559af6de4fb65b33ea83cd76e08afeecdb701"
+    },
+    {
+      "id": "item_131056",
+      "material_id": 131056,
+      "has_codex": false,
+      "title_ru": "Лунный снежный пинагор",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 695996749,
+          "old_chars": 954,
+          "new_chars": 954,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "3051504cda2fca60e5e4549d0be2296339301fe6f8bebc73f00b52d85bd42c3d",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 695996749,
+          "old_chars": 909,
+          "new_chars": 909,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "3ba8f451ec5a57894123bf1d7b203020cfc63e388247ebdd0fd21c18d1b5580b",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 695996749,
+          "old_chars": 230,
+          "new_chars": 230,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f6e7e7357b9179ecc3f134f2eaa76edcf8f6001c5bb693f5e5375a9979f2794b",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "600013225f248a25a248f831290782593dcf1a53a79ab90bd301e527c2678186",
+      "after_sha256": "600013225f248a25a248f831290782593dcf1a53a79ab90bd301e527c2678186"
+    },
+    {
+      "id": "frog",
+      "material_id": 100081,
+      "has_codex": true,
+      "title_ru": "Лягушка",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 1581894045,
+          "old_chars": 104,
+          "new_chars": 104,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "15b2af2186fcd2c8ff8c46b46415c51c9892cd791e5150291da7ba06023d98c4",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 1581894045,
+          "old_chars": 118,
+          "new_chars": 118,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "b2a65402b01d8ada4c5b3decd2001a9f5882444b5111d87b6ae6322906c95849",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 1581894045,
+          "old_chars": 40,
+          "new_chars": 40,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "6abd32f927119359cb1483d6b6119a2fd5d6c92f884b82fb9e065fd7a284a1e1",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "444f2b2b2918e766f26149d3317dd3278d0acb940de6618f0e384a6a4791f38d",
+      "after_sha256": "444f2b2b2918e766f26149d3317dd3278d0acb940de6618f0e384a6a4791f38d"
+    },
+    {
+      "id": "empowered_dragontooth",
+      "material_id": 100619,
+      "has_codex": true,
+      "title_ru": "Напитанный силой драконий клык",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 4111228457,
+          "old_chars": 75,
+          "new_chars": 303,
+          "status": "expanded_from_codex",
+          "text_sha256": "fb215d9f978057944abbccc9547cf252036fa2474493bd3a3fbec1e4aa0f293e",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 4111228457,
+          "old_chars": 100,
+          "new_chars": 329,
+          "status": "expanded_from_codex",
+          "text_sha256": "a2c55189d2d03ba99b8ebe3deeea24b0a65948a39351d500d6a1bb2c94d32aca",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 4111228457,
+          "old_chars": 29,
+          "new_chars": 96,
+          "status": "expanded_from_codex",
+          "text_sha256": "10bbf218588ad2bb5207181a2282f12a507656bb73380aecd53abf8736c794fb",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "a159b72432c2526116ad7e357cfafb01b65f960b03c2b491cfcdd1e51a6e201b",
+      "after_sha256": "9e7786250a7c5c9ddb8fa44be37db7df5f3a7964877248db6cfa0fc1d1dce15e"
+    },
+    {
+      "id": "pluie_lotus",
+      "material_id": 101229,
+      "has_codex": true,
+      "title_ru": "Дожделотос",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 4228123529,
+          "old_chars": 162,
+          "new_chars": 464,
+          "status": "expanded_from_codex",
+          "text_sha256": "1bb86677a44d8bffd362c7ba521a50f441d3e0b0df55ac4e9896cf0c4cc0b46a",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 4228123529,
+          "old_chars": 215,
+          "new_chars": 513,
+          "status": "expanded_from_codex",
+          "text_sha256": "3adae98c64f6cf86d291f57607ff15e7dac10104fe457d730e0d4daa20fb6540",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 4228123529,
+          "old_chars": 38,
+          "new_chars": 132,
+          "status": "expanded_from_codex",
+          "text_sha256": "d5cc169d5048642fb52ddb8d899b7007c13fe4611635fb67ede2d9f6f7221a56",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "de2d1315d37f9db24e79df744db0ab9c34ec64692b55b476fe8dc1d980fd8783",
+      "after_sha256": "14cfc44cd3ced9aba8311e91a783ec4fb690ed9d5cbd5aaa7e38b749b4aa42d6"
+    },
+    {
+      "id": "moonfall_silver",
+      "material_id": 101263,
+      "has_codex": true,
+      "title_ru": "Серебро захода луны",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 2257721281,
+          "old_chars": 693,
+          "new_chars": 693,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "8f5bc8c7d9e4f338182920b13d59cc3493297582bb36285077ee05ef433819e4",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 2257721281,
+          "old_chars": 688,
+          "new_chars": 688,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "844c60418d0c5a7d94a926431be86e71e8ce19a5c51bf93c8247f795e8026baa",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 2257721281,
+          "old_chars": 184,
+          "new_chars": 184,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "56964010090f8db5350c02548d1665b47326c4cfc713fb6e0ce7b52e4ebd4bb3",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "9b257e2d4090240f6206eb1d963da51dc2b40f78f8704ece7c8fdcf23dc8028f",
+      "after_sha256": "9b257e2d4090240f6206eb1d963da51dc2b40f78f8704ece7c8fdcf23dc8028f"
+    },
+    {
+      "id": "northlander_claymore_billet",
+      "material_id": 101103,
+      "has_codex": false,
+      "title_ru": "Заготовка двуручного меча северянина",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 2244637837,
+          "old_chars": 214,
+          "new_chars": 214,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "f60ae7cb38e8cb51a0947b9fa3a9df9ba72899a748e0134d2e03dcb5816258eb",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 2244637837,
+          "old_chars": 221,
+          "new_chars": 222,
+          "status": "expanded_from_inventory",
+          "text_sha256": "098101020688ab931108aca448d3453c77f534d6d9523b6847855b28110b7535",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 2244637837,
+          "old_chars": 70,
+          "new_chars": 70,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "aaecb529450dc0976cd53b1a8640328d48aa8a52921c4d83168e7fddd3336491",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "67098f2f16ec8bd1f65a6b2f5276ddb590c4f13a06b9b355d51a00c087d8fcf9",
+      "after_sha256": "47a5e49a3694e3ceb93661e31bd870216becb3dc4cc3776674dbd9f813c4d519"
+    },
+    {
+      "id": "glaze_lily",
+      "material_id": 100030,
+      "has_codex": true,
+      "title_ru": "Глазурная лилия",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 3446614569,
+          "old_chars": 383,
+          "new_chars": 383,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "0f386eed16849143b55fce06a33c75ccb3d63451932ca7d4fac9bdb76f6fb736",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 3446614569,
+          "old_chars": 396,
+          "new_chars": 396,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "9b425f76773f5ee52108f3a36c28266e4e9ffbb650f9da1d157ee5f14d2e9a81",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 3446614569,
+          "old_chars": 94,
+          "new_chars": 94,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "effa401320128e30ca6fcf964c5ad382960ad2cf8d8f9ba58c4a5ad2f9556e97",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "c47d4ad89fc392a7e8fa0dade4a930cf02cbbedafaba1bbdba6c8b26ff953995",
+      "after_sha256": "c47d4ad89fc392a7e8fa0dade4a930cf02cbbedafaba1bbdba6c8b26ff953995"
+    },
+    {
+      "id": "item_101333",
+      "material_id": 101333,
+      "has_codex": false,
+      "title_ru": "Древесина синего бука",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "inventory",
+          "source_hash": 113198117,
+          "old_chars": 217,
+          "new_chars": 217,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "bf288a651fb3699ea4c0a82a992b7435e281ba5597ba1307d87e5b8d674afc09",
+          "codex_localization_available": false
+        },
+        {
+          "language": "en",
+          "source": "inventory",
+          "source_hash": 113198117,
+          "old_chars": 232,
+          "new_chars": 232,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "e6dd439aeb53af70c9bc2df51d857f259e2fe11d6581e8f7cea833afe93a8760",
+          "codex_localization_available": false
+        },
+        {
+          "language": "zh",
+          "source": "inventory",
+          "source_hash": 113198117,
+          "old_chars": 54,
+          "new_chars": 54,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "596f6109fdd38579ff0becd7f5a650e9549858b6925a7bf0e7ea0b9b8d4992b6",
+          "codex_localization_available": false
+        }
+      ],
+      "before_sha256": "7cf10d1bea2e3df1000cb5034ee950d61b5613affd33318c6fba17db3d5c10cc",
+      "after_sha256": "7cf10d1bea2e3df1000cb5034ee950d61b5613affd33318c6fba17db3d5c10cc"
+    },
+    {
+      "id": "jueyun_chili",
+      "material_id": 100027,
+      "has_codex": true,
+      "title_ru": "Заоблачный перчик",
+      "changed": false,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 1852295897,
+          "old_chars": 333,
+          "new_chars": 333,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "2b1924d0e63df27469b17842cf15e101f3d0d6d5d456e465b188d1d63c046d4b",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 1852295897,
+          "old_chars": 310,
+          "new_chars": 310,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "08ee03045facb82e189a631504fa16b093b4d15d99981c569448fc33c9bc4aba",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 1852295897,
+          "old_chars": 101,
+          "new_chars": 101,
+          "status": "already_full_or_no_longer_source",
+          "text_sha256": "c57d6885de023d3c326a4dc8926ccc839c10fb6b0ae5d7449b574337304bb409",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "a8131f36dee979a6b8a6fcbcda8afaeebc8a57b985c93d0ade122f79511349c0",
+      "after_sha256": "a8131f36dee979a6b8a6fcbcda8afaeebc8a57b985c93d0ade122f79511349c0"
+    },
+    {
+      "id": "item_101282",
+      "material_id": 101282,
+      "has_codex": true,
+      "title_ru": "Светящийся флюорит",
+      "changed": true,
+      "languages": [
+        {
+          "language": "ru",
+          "source": "codex",
+          "source_hash": 353442489,
+          "old_chars": 69,
+          "new_chars": 414,
+          "status": "expanded_from_codex",
+          "text_sha256": "2375c22119d1ae80f3295ca52a8bd76acc3a427e6e00fe5bd7ddedbc1e45c1fa",
+          "codex_localization_available": true
+        },
+        {
+          "language": "en",
+          "source": "codex",
+          "source_hash": 353442489,
+          "old_chars": 80,
+          "new_chars": 380,
+          "status": "expanded_from_codex",
+          "text_sha256": "f6175b8173122be6ed511c2721e090dea93e30464a1f6a35c972a0b6e4c8a57f",
+          "codex_localization_available": true
+        },
+        {
+          "language": "zh",
+          "source": "codex",
+          "source_hash": 353442489,
+          "old_chars": 17,
+          "new_chars": 124,
+          "status": "expanded_from_codex",
+          "text_sha256": "a84a25ce01dd5cec7377ecf05736313d26483e42ca24b226e3c9b369dad0f30f",
+          "codex_localization_available": true
+        }
+      ],
+      "before_sha256": "39acd6fab3634570f3921b06ab2ad425eb1eef45ba2cbd5efd0d120e55f5997d",
+      "after_sha256": "7aa659b5940ee590399b357f285af37849f62874c733b349990b619139235209"
+    }
+  ],
+  "source_revision": "a311cd77d7dafbd2bedc7d3cac4e986c6125b586",
+  "fallback": "Supplied checkpoint 6.6 maps used only for hashes absent from current supplied maps. No invented summaries or translations."
+}

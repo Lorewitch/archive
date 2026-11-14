@@ -195,5 +195,6 @@
   },
   "existing_source_gaps": "QUEST_AUDIT_7_2.md",
   "browser_visual_check": "Attempted but unavailable: local Chromium failed to start because socket() is prohibited in the execution environment. No visual pass is claimed. Client catalog, routing, filters, cache and PWA are covered by automated tests.",
-  "archive_package_check": "reports/update_7_2/package_audit.json"
+  "archive_package_check": "reports/update_7_2/package_audit.json",
+  "verification_scope": "Historical audit before removing six character annotations and expanding 66 resource descriptions; current audit: optimization_audit.json"
 }

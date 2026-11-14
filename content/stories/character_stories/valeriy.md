@@ -17,10 +17,6 @@
 
 ### О персонаже
 
-Командир батальона специального назначения. Опытный военный, умеющий защищать важных персон и воплощать планы в жизнь.
-
-### О персонаже
-
 Фатуи - символ силы Снежной, могучая армия, защищающая её жителей...
 Профессионализм, эффективность, хладнокровие, решительность... Какими только похвалами её не осыпают.
 Всякий раз, когда бойцы и сухопутные крейсеры проходят строем по площади, их встречают громом приветствий и добрых пожеланий.
@@ -257,10 +253,6 @@
 
 ### Character Details
 
-Commander of the Special Assignments Battalion. A soldier skilled at protecting key personnel and keeping operations on track.
-
-### Character Details
-
 The Fatui, a symbol of Snezhnaya's might, a formidable army that protects its citizens...
 Professional, efficient, calm, decisive... So many words have been used to praise them.
 Whenever the soldiers and Landcruisers parade through the square, they are greeted with thunderous cheers and blessings.
@@ -494,10 +486,6 @@ To Valeriy, the Vision that had quietly appeared after his first battle was once
 Now, as the project within the Armory Palace continues to advance, it too has begun to blaze with a light far more dazzling than its original brilliance.
 
 ## ZH
-
-### 角色详细
-
-「特殊任务营」领队，善于保护要员和推进计划的军人。
 
 ### 角色详细
 

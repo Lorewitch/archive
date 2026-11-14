@@ -22,12 +22,13 @@
 
 ## RU
 
-Заряженный электричеством кристалл, который продолжает тянуть электричество из окружающего воздуха. Если взять его в руку, то она начнёт неметь.
+Заряженный электричеством кристалл, который продолжает тянуть энергию из окружающего воздуха. Если взять его в руку, то она начнёт неметь. Может быть, с подходящими инструментами возможно получить из него энергию Электро?
 
 ## EN
 
-A power-rich crystal that draws electricity from the air around it. Holding it makes your hand a little numb.
+A power-rich crystal that draws electricity from the air around it. Holding it makes your hand a little numb. With the right equipment, maybe it's possible to harness the Electro energy contained within?
 
 ## ZH
 
-富含电力的晶石，由逸散在大气与大地中的电气积聚而成。 摸起来酥酥麻麻的。
+富含电力的晶石，由逸散在大气与大地中的电气积聚而成。摸起来酥酥麻麻的。如果有对应的设施，或许可以通过这里面蕴含的雷元素做些什么事情吧…？
+

@@ -12,8 +12,8 @@ const modules = [
   '02-routing/00-navigation-and-router.js', '01-render/01-catalog-renderer.js',
   '01-render/02-detail-renderers.js',
 ];
-function fixture(fetch = async () => { throw new Error('unexpected request'); }) {
-  const node = () => ({innerHTML: '', setAttribute(){}, contains(){return false;}, querySelector(){return null;}});
+function fixture(fetch = async () => { throw new Error('unexpected request'); }, controller = false) {
+  const node = () => ({innerHTML: '', setAttribute(){}, contains(){return false;}, querySelector(){return null;},querySelectorAll(){return [];},addEventListener(){}});
   const app=node(), sidebar=node(), stage=node(), toTop=node();
   const document = {
     currentScript:null, activeElement:null,
@@ -21,9 +21,16 @@ function fixture(fetch = async () => { throw new Error('unexpected request'); })
     querySelector:selector=>selector==='.stage' ? stage : null,
     body:{classList:{contains:()=>false,remove(){}}}, documentElement:{classList:{remove(){}}},
   };
-  const window = {location:{href:'https://lorewitch.github.io/archive/',hash:''},matchMedia:()=>({matches:false,addEventListener(){}}),requestAnimationFrame(){}};
-  const context=vm.createContext({document,window,fetch,URL,Intl,console});
-  vm.runInContext(modules.map(p=>fs.readFileSync(path.join(root,'src/js',p),'utf8')).join('\n') + `\nthis.api={state,parseHash,loadDetail,loadCatalogData,DETAILS,DETAIL_LOADS,renderBookDetail,itemMatchesFilter,getSectionConfig,escapeHtml,markdownToHtml,groupEntryCount,renderCatalogCard,fetchJson,fetchOptionalJson,worldCatalogUnits,worldQuestSeriesOrder, get items(){return ITEMS;},setSummary(value){ARCHIVE_SUMMARY=value;}};`,context);
+  const window = {location:{href:'https://lorewitch.github.io/archive/',hash:''},matchMedia:()=>({matches:false,addEventListener(){}}),requestAnimationFrame(){},addEventListener(){}};
+  const context=vm.createContext({document,window,fetch,URL,Intl,console,requestAnimationFrame(){}});
+  const loaded = controller ? [...modules,'03-app/00-event-handlers.js','03-app/01-render-controller.js'] : modules;
+  vm.runInContext(loaded.map(p=>fs.readFileSync(path.join(root,'src/js',p),'utf8')).join('\n') + `\nthis.api={state,parseHash,loadDetail,loadCatalogData,DETAILS,DETAIL_LOADS,renderBookDetail,itemMatchesFilter,getSectionConfig,escapeHtml,markdownToHtml,groupEntryCount,renderCatalogCard,fetchJson,fetchOptionalJson,worldCatalogUnits,worldQuestSeriesOrder, loadStoryReaderChunk,storyReaderChunkLoaded,renderQuestRelations,archonCollectionFor,get items(){return ITEMS;},setSummary(value){ARCHIVE_SUMMARY=value;}};`,context);
+  if(controller)vm.runInContext(`
+    renderNav=()=>{};markRouteRendered=()=>{};syncCustomScrollbarsSoon=()=>{};
+    preserveScrollRender=fn=>fn();
+    renderStoryDetail=(story)=>{activeDetail={type:'story',data:story,configId:'stories'};app.innerHTML=story.parts[0].text[state.lang]||'';};
+    Object.assign(api,{render,rerenderActiveDetailPreservingScroll,getActiveDetail:()=>activeDetail});
+  `,context);
   return {api:context.api,app,window};
 }
 const json = p => JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
@@ -44,7 +51,7 @@ test('opening a different book with fewer volumes displays its first volume',()=
   api.renderBookDetail({id:'short',title:{ru:'Книга'},volumes:[{number:1,title:{ru:'Первый том'},text:{ru:'Текст первого тома'}},{number:2,title:{ru:'Второй том'},text:{ru:'Текст второго тома'}}]});
   assert.equal(api.state.volume,1);assert.ok(app.innerHTML.includes('Текст первого тома'));
 });
-test('hover and click share one request; failed requests can be retried',async()=>{
+test('duplicate detail requests share one request; failed requests can be retried',async()=>{
   let requests=0, fail=true;
   const {api}=fixture(async()=>{requests++;if(fail)throw new Error('offline');return {ok:true,json:async()=>({id:'a'})};});
   await assert.rejects(api.loadDetail('books','a'),/offline/);
@@ -121,4 +128,79 @@ test('independent quest links do not override explicit series order or hide a si
  assert.deepEqual(Array.from(grouped[0].entries,q=>q.id),['first','second']);
  const filtered=api.worldCatalogUnits([second],config);
  assert.equal(filtered.length,1);assert.equal(filtered[0].kind,'entry');assert.equal(filtered[0].item.id,'second');
+});
+
+
+test('opening a catalog requests only its lightweight rows and no hidden detail bodies',async()=>{
+  const requested=[];
+  const {api}=fixture(async url=>{requested.push(url);return {ok:true,json:async()=>json(url)}});
+  api.state.section='stories';api.state.subsection='character_stories';
+  const rows=await api.loadCatalogData(api.getSectionConfig('stories'));
+  assert.deepEqual(requested,['data/indexes/stories/character_stories.json']);
+  assert.ok(rows.every(row=>!row.parts && !row.replicas && !row.text && !row.description));
+});
+
+test('a story deep link loads only its manifest and active language; replicas wait for their tab',async()=>{
+  const requested=[];
+  const {api}=fixture(async url=>{requested.push(url);return {ok:true,json:async()=>json(url)}});
+  const story=await api.loadDetail('stories','alyosha');
+  assert.deepEqual(requested,['data/readers/stories/alyosha.json']);
+  assert.ok(story.parts.every(part=>!part.text));assert.ok(story.replicas.every(part=>!part.text));
+  await Promise.all([api.loadStoryReaderChunk(story,'stories','ru'),api.loadStoryReaderChunk(story,'stories','ru')]);
+  assert.deepEqual(requested,['data/readers/stories/alyosha.json','data/readers/stories/alyosha/stories.ru.json']);
+  assert.ok(story.parts[0].text.ru.includes('В Снежной имя'));
+  assert.equal(story.parts[0].text.en,undefined);assert.ok(story.replicas.every(part=>!part.text));
+  await api.loadStoryReaderChunk(story,'replicas','en');
+  assert.equal(requested.at(-1),'data/readers/stories/alyosha/replicas.en.json');
+  assert.ok(story.replicas.every(part=>typeof part.text.en==='string'));
+  await api.loadStoryReaderChunk(story,'stories','ru');assert.equal(requested.length,3);
+});
+
+test('a failed story language request can be retried without poisoning the saved text',async()=>{
+  let fail=true,requests=0;
+  const {api}=fixture(async url=>{requests++;if(fail)throw Error('offline');return {ok:true,json:async()=>json(url)}});
+  const story=json('data/readers/stories/alyosha.json');
+  await assert.rejects(api.loadStoryReaderChunk(story,'stories','ru'),/offline/);
+  assert.ok(story.parts.every(part=>!part.text));
+  fail=false;await api.loadStoryReaderChunk(story,'stories','ru');assert.equal(requests,2);
+});
+
+test('direct quest navigation has all related titles without fetching another catalog',()=>{
+  const {api}=fixture();
+  const all=json('data/stories_index.json');
+  for(const row of all.filter(row=>row.story_group==='archon_quests')){
+    const story=json(`data/readers/stories/${row.id}.json`);
+    const expected=all.filter(item=>item.story_group==='archon_quests' && api.archonCollectionFor(item)===api.archonCollectionFor(row)).map(x=>x.id).sort();
+    assert.deepEqual(story.quest_reference_rows.map(x=>x.id).sort(),expected,row.id);
+  }
+  const story=json('data/readers/stories/quest_wq_77664.json');
+  const html=api.renderQuestRelations(story);
+  assert.equal((html.match(/class="quest-chain-link/g)||[]).length,12);
+  assert.ok(html.includes('quest_wq_77686'));
+});
+
+
+test('the route controller opens a direct story link without loading any catalog',async()=>{
+ const requested=[];
+ const f=fixture(async url=>{requested.push(url);return {ok:true,json:async()=>json(url)}},true);
+ f.window.location.hash='#/stories/character_stories/alyosha';
+ await f.api.render();
+ assert.deepEqual(requested,['data/readers/stories/alyosha.json','data/readers/stories/alyosha/stories.ru.json']);
+ assert.ok(f.app.innerHTML.includes('В Снежной имя'));
+});
+
+test('a delayed story language cannot replace a later language selection',async()=>{
+ const pending={};
+ const f=fixture(async url=>{
+   if(url.endsWith('/stories.en.json')||url.endsWith('/stories.zh.json'))await new Promise(resolve=>pending[url]=resolve);
+   return {ok:true,json:async()=>json(url)};
+ },true);
+ f.window.location.hash='#/stories/character_stories/alyosha';await f.api.render();
+ f.api.state.lang='en';const english=f.api.rerenderActiveDetailPreservingScroll();
+ f.api.state.lang='zh';const chinese=f.api.rerenderActiveDetailPreservingScroll();
+ pending['data/readers/stories/alyosha/stories.zh.json']();await chinese;
+ const latest=f.app.innerHTML;
+ pending['data/readers/stories/alyosha/stories.en.json']();await english;
+ assert.equal(f.app.innerHTML,latest);
+ assert.ok(latest.includes(json('data/stories/alyosha.json').parts[0].text.zh.slice(0,30)));
 });

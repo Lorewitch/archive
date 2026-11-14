@@ -17,10 +17,6 @@
 
 ### О персонаже
 
-Прославленная балерина из Снежной. Холодный цветок, расцветающий среди льда и снега.
-
-### О персонаже
-
 В других странах слово «танцовщица» часто ассоциируется с человеком тёплым и близким, с нежным образом, дарящим утешение на долгом жизненном пути.
 В Снежной, однако, этот образ гораздо холоднее. Большинство людей в первую очередь вспоминают Одетту Спессиву, приму-балерину Королевской труппы.
 Её изображение с неизменно сдержанным выражением лица присутствует на каждом рекламном плакате. Её взгляд спокоен и отстранён, губы слегка сжаты - словно статуя, скованная льдом.
@@ -199,10 +195,6 @@
 
 ### Character Details
 
-A famed Snezhnayan ballerina who blossoms against the frozen landscape with a beauty as sharp as frost.
-
-### Character Details
-
 In other lands, the word "dancer" often brings to mind someone warm and familiar, a gentle presence that offers comfort along life's long road.
 When one mentions the same in Snezhnaya, however, the image conjured is a touch frostier.
 Odette Spessiva, prima ballerina of the Korolevskiy Troupe, appears on promotional posters wearing the same composed expression. Her gaze is calm and distant, her lips lightly pressed together, her face as still as a statue touched by frost.
@@ -378,10 +370,6 @@ From that moment on, neither pain nor cold would hold her back. Pain would not m
 Odette lifted her gaze to the sky beyond the window. Snow settled upon cheeks she had long believed cold — and melted there in warmth.
 
 ## ZH
-
-### 角色详细
-
-至冬知名芭蕾舞者，于冰雪中绽放的凛冽之花。
 
 ### 角色详细
 

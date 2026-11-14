@@ -17,10 +17,6 @@
 
 ### О персонаже
 
-Первоклассный специалист по энергетике и изобретательный мастер «побега от расписания».
-
-### О персонаже
-
 Любой житель Снежной, который часто бывает в театре, знает:
 Кроме всем известных «украшений» сцены, в зрительном зале неизменно встречается один весьма приметный посетитель.
 Его причёска отличается неповторимым стилем, в руках он держит блокнот, на плечах у него устроился подвижный Шарф, а за спиной то и дело возникает высокий офицер с суровым лицом, от которого ему приходится постоянно убегать.
@@ -265,10 +261,6 @@
 
 ### Character Details
 
-An exceptionally ingenious energy specialist and a master of the fine art of "schedule-dodging."
-
-### Character Details
-
 Regular theatergoers across Snezhnaya know the scene well.
 Beyond the familiar stars gracing the stage, there is always an eye-catching spectator in the audience.
 Sporting an unmistakable hairstyle, a lively scarf draped over his shoulders, and a notebook clutched in hand, he can also sometimes be found fleeing the scene, a towering, stern-faced officer hot on his heels.
@@ -510,10 +502,6 @@ Mitya found a fresh, blank page and fluidly penned the title:
 Optimization of Layout and Routing for High-Efficiency Energy Pipelines
 
 ## ZH
-
-### 角色详细
-
-极富水平的能源专家，独具匠心的「日程逃脱」大师。
 
 ### 角色详细
 

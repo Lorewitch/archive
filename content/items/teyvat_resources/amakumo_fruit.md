@@ -22,12 +22,19 @@
 
 ## RU
 
-Плод облачной травы, которая растёт на острове Сэйрай. Если поднести его к уху, можно услышать слабое потрескивание тока.
+Если поднести к уху плоды облачной травы, растущей на Сэйрае, то можно услышать слабое потрескивание электрического тока. 
+Облачная трава появилась тысячи лет назад после битвы, разразившейся на Сэйрае, когда грозовые тучи навсегда накрыли эти земли. Не поддаваясь стихии, облачная трава приносит плоды даже под вечными раскатами грома. 
+Таким же духом будут преисполнены и люди, живущие на Сэйрае, пока деревня не будет покинута окончательно, а боги не оставят святилище.
 
 ## EN
 
 The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it crackling with a tiny current if you hold it up to your ear.
+The Amakumo Grass was born when the terrible slaughter that tore through Seirai Island, causing it to ever be under a stormy shroud, ended. As if showing its defiance, it will bear fruit while facing the peals of thunder from the sky.
+This bold spirit also accompanied those who emigrated to Seirai Island, until Koseki Village was at last ruined and no clergy-person was left to man the Asase Shrine.
 
 ## ZH
 
 生长在清籁岛的天云草结成的果实，贴在耳畔能听见微弱的电流声。
+天云草是在数千年前撕裂清籁岛、让雷的阴霾从此永远笼罩这片土地的厮杀结束后，诞生的。如同不屈于雷暴，天云草会向传来雷声的天空结出果实。
+这种精神也将在未来的许多年中，陪伴着移居清籁岛的人们，直到越石村最终荒废、浅濑神社也不再有神人驻守。
+

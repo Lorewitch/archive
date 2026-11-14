@@ -26,7 +26,8 @@
 
 ## EN
 
-Weapon forging material. Can be used to forge 4-star claymores. Philosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater.
+Weapon forging material. Can be used to forge 4-star claymores. 
+Philosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater.
 
 ## ZH
 

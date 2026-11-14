@@ -20,6 +20,7 @@ on:
       - 'tools/check_source.py'
       - 'tools/test_source.py'
       - 'tools/test_voiceovers.py'
+      - 'tools/test_readers.py'
       - 'index.html'
       - 'README.md'
       - 'tools/build_archive.py'

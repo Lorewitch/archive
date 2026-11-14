@@ -16,23 +16,6 @@
   let ITEMS = [];
   let STORIES = [];
   let ENEMIES = [];
-  // Cross-category quest links resolve through one compact shared index, fetched lazily.
-  let STORY_REFERENCE_ROWS = null;
-  let STORY_REFERENCE_LOAD = null;
-
-  async function loadStoryReferences() {
-    if (STORY_REFERENCE_ROWS) return STORY_REFERENCE_ROWS;
-    if (!STORY_REFERENCE_LOAD) {
-      STORY_REFERENCE_LOAD = fetchJson("data/stories_index.json")
-        .then(data => {
-          STORY_REFERENCE_ROWS = normalizeList(data, "stories");
-          return STORY_REFERENCE_ROWS;
-        })
-        .finally(() => { STORY_REFERENCE_LOAD = null; });
-    }
-    return STORY_REFERENCE_LOAD;
-  }
-
   const DETAILS = new Map();
   const DETAIL_LOADS = new Map();
   const DETAIL_CACHE_LIMIT = 24;
@@ -184,7 +167,9 @@
     }
     if (!DETAIL_LOADS.has(cacheKey)) {
       const directory = sectionId === "bestiary" ? "enemies" : sectionId;
-      const pending = fetchJson(`data/${directory}/${encodeURIComponent(id)}.json`)
+      const pending = fetchJson(sectionId === "stories"
+        ? `data/readers/stories/${encodeURIComponent(id)}.json`
+        : `data/${directory}/${encodeURIComponent(id)}.json`)
         .then(detail => {
           if (!detail?.id) throw new Error("Запись не найдена.");
           DETAILS.set(cacheKey, detail);
@@ -216,6 +201,39 @@
         .finally(() => { ARCHIVE_SUMMARY_LOAD = null; });
     }
     return ARCHIVE_SUMMARY_LOAD;
+  }
+
+  // Bodies are fetched only after opening a story and choosing its content/language.
+  const STORY_CHUNK_LOADS = new Map();
+
+  function storyReaderChunkPath(story, contentType = activeStoryContentType(story), lang = state.lang) {
+    return story?.reader_chunks?.[contentType]?.[lang] || "";
+  }
+
+  function storyReaderChunkLoaded(story, contentType = activeStoryContentType(story), lang = state.lang) {
+    if (!storyReaderChunkPath(story, contentType, lang)) return true;
+    const parts = contentType === "replicas" ? story.replicas : story.parts;
+    return Array.isArray(parts) && parts.every(part => Object.prototype.hasOwnProperty.call(part.text || {}, lang));
+  }
+
+
+  async function loadStoryReaderChunk(story, contentType = activeStoryContentType(story), lang = state.lang) {
+    const path = storyReaderChunkPath(story, contentType, lang);
+    if (!path || storyReaderChunkLoaded(story, contentType, lang)) return story;
+    if (!STORY_CHUNK_LOADS.has(path)) {
+      STORY_CHUNK_LOADS.set(path, fetchJson(path).finally(() => STORY_CHUNK_LOADS.delete(path)));
+    }
+    const payload = await STORY_CHUNK_LOADS.get(path);
+    const parts = contentType === "replicas" ? story.replicas : story.parts;
+    if (payload?.id !== story.id || payload.kind !== contentType || payload.language !== lang || !Array.isArray(payload.parts)
+        || payload.parts.length !== parts.length) throw new Error("Не удалось загрузить текст выбранного раздела.");
+    const texts = new Map(payload.parts.map(part => [Number(part.number), part.text]));
+    if (parts.some(part => typeof texts.get(Number(part.number)) !== "string")) throw new Error("Неполный текст выбранного раздела.");
+    for (const part of parts) {
+      if (!part.text) part.text = {};
+      part.text[lang] = texts.get(Number(part.number));
+    }
+    return story;
   }
 
   // src/js/00-core/01-taxonomies-and-filters.js
@@ -2705,6 +2723,7 @@
     if (!source) return [];
 
     if (Array.isArray(source)) {
+      if (item.reader_chunks) return source;
       return source.map(normalizeStoryReplicaPart).filter(Boolean);
     }
 
@@ -2805,9 +2824,10 @@
   }
 
   function renderQuestRelations(story) {
+    const referenceRows = story?.quest_reference_rows || STORIES;
     const isArchon = story?.story_group === "archon_quests";
     const albumId = isArchon ? archonCollectionFor(story) : "";
-    const albumEntries = isArchon ? STORIES
+    const albumEntries = isArchon ? referenceRows
       .filter(item => item.story_group === "archon_quests" && archonCollectionFor(item) === albumId)
       .sort((a, b) => archonChapterOrder(a) - archonChapterOrder(b)
         || entrySortVersion(a) - entrySortVersion(b) || compareByTitle(a, b)) : [];
@@ -2822,7 +2842,7 @@
       zh: { title: "相关任务链", item: "个任务", current: "当前" },
     };
     const label = labels[state.lang] || labels.ru;
-    const storyById = new Map([...(STORY_REFERENCE_ROWS || []), ...STORIES].map(item => [String(item.id), item]));
+    const storyById = new Map([...referenceRows, ...STORIES].map(item => [String(item.id), item]));
     const items = chainIds.map((id, index) => {
       const linked = storyById.get(String(id));
       if (!linked) return "";
@@ -3011,7 +3031,25 @@
     if (activeDetail.type === "generic") renderGenericDetail(activeDetail.data, config);
   }
 
-  function rerenderActiveDetailPreservingScroll() {
+  let readerSelectionSequence = 0;
+
+  async function rerenderActiveDetailPreservingScroll() {
+    const sequence = ++readerSelectionSequence;
+    const current = activeDetail;
+    if (current?.type === "story" && !storyReaderChunkLoaded(current.data)) {
+      const area = document.getElementById("reader-text-area");
+      if (area) area.innerHTML = '<article class="text-card"><div class="prose" role="status">Загружаю выбранный текст…</div></article>';
+      try {
+        await loadStoryReaderChunk(current.data);
+      } catch (error) {
+        if (sequence === readerSelectionSequence && activeDetail === current && area) {
+          area.innerHTML = `<article class="text-card"><div class="prose archive-load-error"><p>${escapeHtml(error.message)}</p><button type="button" data-retry-reader>Повторить загрузку</button></div></article>`;
+        }
+        return;
+      }
+      // Ignore a delayed response after another tab, language or route was selected.
+      if (sequence !== readerSelectionSequence || activeDetail !== current || state.entryId !== current.data.id) return;
+    }
     preserveScrollRender(renderActiveDetail);
   }
 
@@ -3043,6 +3081,10 @@
   }
 
   function handleAppClick(event) {
+    if (event.target.closest("[data-retry-reader]")) {
+      rerenderActiveDetailPreservingScroll();
+      return;
+    }
     if (event.target.closest("[data-retry-load]")) {
       render();
       return;
@@ -3267,18 +3309,6 @@
   // src/js/03-app/01-render-controller.js
   // Основной контроллер рендера, ленивые загрузки и запуск приложения.
 
-  function prefetchDetail(sectionId, entryId) {
-    if (!entryId) return;
-    const loader = sectionId === "books" ? getBookById(entryId) : getGenericDetail(sectionId, entryId);
-    loader.catch(() => {});
-  }
-
-  function handleAppPrefetch(event) {
-    const row = event.target.closest("[data-entry-id]");
-    if (!row || row.contains(event.relatedTarget)) return;
-    prefetchDetail(row.dataset.sectionId || currentCatalogConfig().id, row.dataset.entryId);
-  }
-
   function renderHome() {
     activeDetail = null;
     app.innerHTML = `
@@ -3400,14 +3430,12 @@
     if (state.entryId) {
       renderLoading("Открываю запись…");
       try {
-        if (config.id === "stories") {
-          // Keep both the active catalog and cross-category quest chains available.
-          const sourceGroup = state.subsection;
-          await Promise.all([loadCatalogData(config, sourceGroup), loadStoryReferences()]);
-          if (sequence !== renderSequence) return;
-        }
         const item = await getGenericDetail(config.id, state.entryId);
         if (sequence !== renderSequence) return;
+        if (config.id === "stories") {
+          await loadStoryReaderChunk(item);
+          if (sequence !== renderSequence) return;
+        }
         if (config.id === "items" && isEnemyDropEntry(item)) {
           renderEnemyDropsDetail(item, config);
         } else if (config.id === "stories") {
@@ -3448,8 +3476,6 @@
   app.addEventListener("keydown", handleAppKeydown);
   app.addEventListener("input", handleAppInput);
   app.addEventListener("change", handleAppChange);
-  app.addEventListener("mouseover", handleAppPrefetch);
-  app.addEventListener("focusin", handleAppPrefetch);
   document.getElementById("open-menu")?.addEventListener("click", toggleMenu);
   window.addEventListener("hashchange", render);
   window.addEventListener("keydown", event => {
@@ -3852,7 +3878,7 @@
       });
     });
     await navigator.serviceWorker.ready;
-    pwaOfflineMessage = "Каталог доступен без сети. Открытые материалы сохраняются для чтения.";
+    pwaOfflineMessage = "Открытые разделы и материалы сохраняются для чтения без сети.";
     syncPwaControls();
     warmFirstVisit();
     // Include resources that were already loading while the first worker installed.

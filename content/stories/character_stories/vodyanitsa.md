@@ -17,10 +17,6 @@
 
 ### О персонаже
 
-Одинокая русалка, примадонна Королевской труппы.
-
-### О персонаже
-
 В давние времена в Снежной весь город был населён водяными и русалками: одни выступали на сцене с прекрасными гимнами, другие распевали весёлые куплеты на улицах и в переулках, третьи же любили спрятаться под водой и своими чарующими песнями заманивать любопытных прохожих к самому берегу, чтобы вдруг вынырнуть и окатить их водой с ног до головы, а потом, под возмущённые крики и хохот зевак, снова нырнуть под воду, плеснуть хвостом и исчезнуть.
 ...Но с течением времени сцены и переулки Снежной незаметно теряли своих певцов. Мелодии, что жили под водой, вместе с тёмными течениями беззвучно утекали в безмолвную даль. Люди с тревогой гадали: быть может, таинственные подводные песни покинули их навсегда...
 Но однажды утром стало известно, что Водяница по-прежнему выступает на сцене Королевского театра - словно старые времена никуда не ушли, словно прежние радости до сих пор живы.
@@ -158,10 +154,6 @@
 
 ### Character Details
 
-Prima Donna of the Korolevskiy Troupe and a Water Imp who has parted from her kin.
-
-### Character Details
-
 A long, long time ago in Snezhnaya, Water Imps dwelled all over the city. Some sang glorious melodies on the stage, while others cheerfully hummed lighthearted tunes through the streets and alleyways. Then there were the others who preferred to slip into the water, where they would lure curious passersby to the water's edge with their haunting, dreamlike songs, only to then suddenly leap up and splash the unsuspecting onlookers full in the face before vanishing, giggling, back beneath the surface with a flick of their tails, leaving their victims floundering between anger and laughter...
 But, as time passed, the stages and alleyways of Snezhnaya quietly lost their singers, and the melodies beneath the waters, carried by unseen currents, began flowing soundlessly toward a distant silence. People began to whisper uneasily among themselves, wondering if those haunting songs from the deep might drift away from them forever...
 Then, one morning, people learned that Vodyanitsa was still performing on the stage of Korolevskiy Theater, as though the days of old had never faded and the joy of bygone times had remained just as it always had been.
@@ -296,10 +288,6 @@ Every eye in the theater followed the movement, drawn to Vodyanitsa and the wate
 "Maybe there is a chance I can keep singing until no one out there has the strength left to applaud."
 
 ## ZH
-
-### 角色详细
-
-科洛列夫茨基剧团的首席女高音，离群的水妖。
 
 ### 角色详细
 

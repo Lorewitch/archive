@@ -26,7 +26,7 @@
 
 ## EN
 
-Empty seashells brought ashore by the tides. Hold it close to your ear, and hear the longing calls of the sea.
+Empty seashells brought ashore by the tides. Hold one close to your ear, and hear the longing calls of the sea.
 
 ## ZH
 

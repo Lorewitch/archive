@@ -22,12 +22,13 @@
 
 ## RU
 
-В руках опытного ремесленника эти обломки железной руды могут быть превращены в кучу разных полезных вещей.
+Опытный ремесленник может сделать из этих обломков железной руды кучу разных полезных вещей. Обычно наличие руды на поверхности говорит о богатой жиле под землёй.
 
 ## EN
 
-This iron chunk can be turned into a multitude of handy items in the hands of a skilled craftsman.
+This iron ore can be turned into a multitude of handy items in the hands of a skilled craftsman. Mineral ores' presence on the surface usually indicates abundant ore veins underneath.
 
 ## ZH
 
-铁的矿石，在拥有相应技能的工匠手中能绽放光采吧。
+铁的矿石原石，在拥有相应技能的工匠手中能绽放光采。通常来说，地表上的矿石昭示着此地深处丰富的矿脉。
+

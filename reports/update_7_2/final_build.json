@@ -2,36 +2,31 @@
   {
     "command": "python3 tools/build_archive.py",
     "exit_code": 0,
-    "result": "books111 artifacts63 weapons253 items291 stories443 enemies280"
+    "result": "1441 cards; 443 lightweight story reader manifests and 1698 separate language/tab payloads."
   },
   {
     "command": "python3 tools/build_bot_mentions_index.py",
     "exit_code": 0,
-    "entries": 1161,
-    "phrases": 35078,
-    "broken_entries": 0,
-    "version": "bot_mentions:fef213d9e6fc"
+    "result": "1161 entries, 35078 mention phrases, 0 broken entries; bot_mentions:51b9c34202a5."
   },
   {
     "command": "python3 tools/build_bot_runtime_index.py",
     "exit_code": 0,
-    "entries": 1161,
-    "phrases": 35078
+    "result": "1161 entries, 35078 mention phrases."
   },
   {
     "command": "python3 tools/build_js.py",
     "exit_code": 0,
-    "modules": 13
+    "result": "13 modules."
   },
   {
     "command": "python3 tools/bump_cache_version.py",
     "exit_code": 0,
-    "cache_version": 796
+    "result": "797."
   },
   {
     "command": "python3 tools/build_pwa.py",
     "exit_code": 0,
-    "release": "7826e45294601abf",
-    "offline_assets": 57
+    "result": "35 interface/count assets; no catalog/detail prefetch."
   }
 ]

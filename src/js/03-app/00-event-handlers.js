@@ -62,7 +62,25 @@ function renderActiveDetail() {
   if (activeDetail.type === "generic") renderGenericDetail(activeDetail.data, config);
 }
 
-function rerenderActiveDetailPreservingScroll() {
+let readerSelectionSequence = 0;
+
+async function rerenderActiveDetailPreservingScroll() {
+  const sequence = ++readerSelectionSequence;
+  const current = activeDetail;
+  if (current?.type === "story" && !storyReaderChunkLoaded(current.data)) {
+    const area = document.getElementById("reader-text-area");
+    if (area) area.innerHTML = '<article class="text-card"><div class="prose" role="status">Загружаю выбранный текст…</div></article>';
+    try {
+      await loadStoryReaderChunk(current.data);
+    } catch (error) {
+      if (sequence === readerSelectionSequence && activeDetail === current && area) {
+        area.innerHTML = `<article class="text-card"><div class="prose archive-load-error"><p>${escapeHtml(error.message)}</p><button type="button" data-retry-reader>Повторить загрузку</button></div></article>`;
+      }
+      return;
+    }
+    // Ignore a delayed response after another tab, language or route was selected.
+    if (sequence !== readerSelectionSequence || activeDetail !== current || state.entryId !== current.data.id) return;
+  }
   preserveScrollRender(renderActiveDetail);
 }
 
@@ -94,6 +112,10 @@ function handleNavClick(event) {
 }
 
 function handleAppClick(event) {
+  if (event.target.closest("[data-retry-reader]")) {
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
   if (event.target.closest("[data-retry-load]")) {
     render();
     return;

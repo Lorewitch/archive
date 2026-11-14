@@ -1,17 +1,5 @@
 // Основной контроллер рендера, ленивые загрузки и запуск приложения.
 
-function prefetchDetail(sectionId, entryId) {
-  if (!entryId) return;
-  const loader = sectionId === "books" ? getBookById(entryId) : getGenericDetail(sectionId, entryId);
-  loader.catch(() => {});
-}
-
-function handleAppPrefetch(event) {
-  const row = event.target.closest("[data-entry-id]");
-  if (!row || row.contains(event.relatedTarget)) return;
-  prefetchDetail(row.dataset.sectionId || currentCatalogConfig().id, row.dataset.entryId);
-}
-
 function renderHome() {
   activeDetail = null;
   app.innerHTML = `
@@ -133,14 +121,12 @@ async function render() {
   if (state.entryId) {
     renderLoading("Открываю запись…");
     try {
-      if (config.id === "stories") {
-        // Keep both the active catalog and cross-category quest chains available.
-        const sourceGroup = state.subsection;
-        await Promise.all([loadCatalogData(config, sourceGroup), loadStoryReferences()]);
-        if (sequence !== renderSequence) return;
-      }
       const item = await getGenericDetail(config.id, state.entryId);
       if (sequence !== renderSequence) return;
+      if (config.id === "stories") {
+        await loadStoryReaderChunk(item);
+        if (sequence !== renderSequence) return;
+      }
       if (config.id === "items" && isEnemyDropEntry(item)) {
         renderEnemyDropsDetail(item, config);
       } else if (config.id === "stories") {
@@ -181,8 +167,6 @@ app.addEventListener("toggle", event => {
 app.addEventListener("keydown", handleAppKeydown);
 app.addEventListener("input", handleAppInput);
 app.addEventListener("change", handleAppChange);
-app.addEventListener("mouseover", handleAppPrefetch);
-app.addEventListener("focusin", handleAppPrefetch);
 document.getElementById("open-menu")?.addEventListener("click", toggleMenu);
 window.addEventListener("hashchange", render);
 window.addEventListener("keydown", event => {

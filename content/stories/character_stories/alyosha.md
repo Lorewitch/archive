@@ -17,10 +17,6 @@
 
 ### О персонаже
 
-Профессиональный охотник, странствующий по морозным равнинам Снежной. За хладнокровной внешностью скрываются пылкие идеалы.
-
-### О персонаже
-
 В Снежной имя «Алёша» пользуется особой популярностью.
 И это не потому, что подвиги молодого охотника принесли ему всеобщую известность, а потому, что прекрасный смысл, заложенный в самом имени, пленяет сердца многих родителей.
 Бесстрашие, чистота и доброта...
@@ -268,10 +264,6 @@
 
 ### Character Details
 
-A "professional hunter" and master of the Snezhnayan snowfields. A fierce, distinct "idealism" burns beneath his calm demeanor.
-
-### Character Details
-
 In Snezhnaya, the name "Alyosha" is exceptionally favored among the people.
 This is not because some young hunter's monumental deeds made it a household name, but because the name itself carries a beautiful promise that countless parents yearned for.
 Fearless, innocent and kind-hearted...
@@ -516,10 +508,6 @@ Holding the thin application form, Alyosha sought out the mysterious stranger on
 And so, a streak of swift lightning wove its way in amidst the howling winds...
 
 ## ZH
-
-### 角色详细
-
-纵横于至冬雪原的「职业猎手」。其冷静的外表下，似乎隐藏着别样炙热的「理想」。
 
 ### 角色详细
 

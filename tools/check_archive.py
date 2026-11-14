@@ -837,8 +837,8 @@ def check_pwa() -> None:
         if not worker.exists() or worker.read_text(encoding="utf-8") != compiled_worker():
             fail("sw.js: файл устарел; выполните python tools/build_pwa.py после остальных сборок")
         paths = shell_paths()
-        if any(re.match(r"data/(?:books|artifacts|weapons|items|stories|enemies)/", path) or "bot_" in path for path in paths):
-            fail("sw.js: начальное офлайн-сохранение не должно скачивать весь корпус текстов или индексы бота")
+        if any((path.startswith("data/") and path != "data/archive_summary.json") or "bot_" in path for path in paths):
+            fail("sw.js: начальное офлайн-сохранение не должно скачивать каталоги, тексты или индексы бота")
     except (OSError, ValueError, RuntimeError) as error:
         fail(f"PWA: {error}")
     html = (ROOT / "index.html").read_text(encoding="utf-8")

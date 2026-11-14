@@ -1,13 +1,13 @@
 /* Source for sw.js. Run tools/build_pwa.py after changing public files. */
 "use strict";
 
-const BUILD_ID = "7826e45294601abf";
+const BUILD_ID = "84e1244801a69f9b";
 const APP_SHELL = [
-  "assets/css/archive.css?v=796",
-  "assets/icons/apple-touch-icon.png?v=796",
-  "assets/icons/favicon.ico?v=796",
-  "assets/icons/favicon.svg?v=796",
-  "assets/icons/logo_menu_symbol.webp?v=796",
+  "assets/css/archive.css?v=797",
+  "assets/icons/apple-touch-icon.png?v=797",
+  "assets/icons/favicon.ico?v=797",
+  "assets/icons/favicon.svg?v=797",
+  "assets/icons/logo_menu_symbol.webp?v=797",
   "assets/icons/pwa-192.png",
   "assets/icons/pwa-512.png",
   "assets/icons/pwa-maskable-512.png",
@@ -34,32 +34,10 @@ const APP_SHELL = [
   "assets/icons/ui/sword.webp",
   "assets/icons/ui/weapons.webp",
   "assets/icons/ui/witchcraft.webp",
-  "assets/js/archive.js?v=796",
+  "assets/js/archive.js?v=797",
   "data/archive_summary.json",
-  "data/artifacts_index.json",
-  "data/books_index.json",
-  "data/enemies_index.json",
-  "data/indexes/bestiary/abyss.json",
-  "data/indexes/bestiary/automatons.json",
-  "data/indexes/bestiary/elementals.json",
-  "data/indexes/bestiary/fatui.json",
-  "data/indexes/bestiary/hilichurls.json",
-  "data/indexes/bestiary/human_factions.json",
-  "data/indexes/bestiary/mystical_beasts.json",
-  "data/indexes/items/common_enemies.json",
-  "data/indexes/items/development_materials.json",
-  "data/indexes/items/teyvat_resources.json",
-  "data/indexes/items/weekly_bosses.json",
-  "data/indexes/items/world_bosses.json",
-  "data/indexes/stories/archon_quests.json",
-  "data/indexes/stories/character_stories.json",
-  "data/indexes/stories/legend_quests.json",
-  "data/indexes/stories/world_quests.json",
-  "data/items_index.json",
-  "data/stories_index.json",
-  "data/weapons_index.json",
   "index.html",
-  "manifest.webmanifest?v=796"
+  "manifest.webmanifest?v=797"
 ];
 const EMPTY_CATALOGS = new Set([]);
 const BASE_URL = new URL(self.registration.scope);
@@ -138,14 +116,32 @@ async function fetchFresh(input) {
   }
 }
 
-async function saveJsonResponse(key, response) {
+function contentVersion(input) {
+  const url = new URL(typeof input === "string" ? input : input.url, BASE_URL);
+  const version = url.searchParams.get("v");
+  return version ? `${BUILD_ID}:${version}` : "";
+}
+
+function releaseResponse(response, version) {
+  if (!version) return response;
+  const headers = new Headers(response.headers);
+  headers.set("X-Archive-Content-Version", version);
+  return new Response(response.body, {status: response.status, statusText: response.statusText, headers});
+}
+
+function isCurrentContent(response, request) {
+  const version = contentVersion(request);
+  return Boolean(version && response?.headers.get("X-Archive-Content-Version") === version);
+}
+
+async function saveJsonResponse(key, response, version = "") {
   try {
     const value = await response.clone().json();
     if (!value || typeof value !== "object") return;
   } catch (_) {
     return; // Keep the previous valid copy if a server returned malformed JSON.
   }
-  return saveResponse(DATA_CACHE, key, response, DATA_LIMIT);
+  return saveResponse(DATA_CACHE, key, releaseResponse(response, version), DATA_LIMIT);
 }
 
 function offlineCopy(response) {
@@ -163,10 +159,13 @@ function offlineMiss() {
 
 async function networkFirstData(request, event) {
   const key = cacheKey(request.url);
+  // A validated response from this exact application release needs no round trip.
+  const current = await cachedResponse(key);
+  if (isCurrentContent(current, request)) return current;
   try {
     const response = await fetchFresh(request);
     if (response.ok) {
-      event.waitUntil(saveJsonResponse(key, response.clone()));
+      event.waitUntil(saveJsonResponse(key, response.clone(), contentVersion(request)));
       return response;
     }
     // An online deletion is authoritative; never resurrect it from the cache.
@@ -212,8 +211,9 @@ async function imageResponse(request, event) {
   const key = cacheKey(request.url);
   if (SHELL_KEYS.has(key)) return shellResponse(request);
   const saved = await cachedResponse(key);
+  if (isCurrentContent(saved, request)) return saved;
   const fresh = fetchFresh(request).then(response => {
-    if (response.ok) return saveResponse(IMAGE_CACHE, key, response.clone(), IMAGE_LIMIT).then(() => response);
+    if (response.ok) return saveResponse(IMAGE_CACHE, key, releaseResponse(response.clone(), contentVersion(request)), IMAGE_LIMIT).then(() => response);
     return response;
   });
   if (saved) {
@@ -241,8 +241,8 @@ async function cacheVisitedUrl(input) {
     if (await cachedResponse(key)) return;
     const response = await fetchFresh(new URL(input, BASE_URL).href);
     if (!response.ok) return;
-    if (isArchiveData(path)) await saveJsonResponse(key, response);
-    else await saveResponse(IMAGE_CACHE, key, response, IMAGE_LIMIT);
+    if (isArchiveData(path)) await saveJsonResponse(key, response, contentVersion(input));
+    else await saveResponse(IMAGE_CACHE, key, releaseResponse(response, contentVersion(input)), IMAGE_LIMIT);
   })().catch(() => {}).finally(() => pendingCopies.delete(key));
   pendingCopies.set(key, task);
   return task;
@@ -276,8 +276,8 @@ self.addEventListener("activate", event => {
     for (const name of await caches.keys()) {
       if (name.startsWith(`${CACHE_PREFIX}shell:`) && name !== SHELL_CACHE) await caches.delete(name);
     }
-    // Current catalogs were fetched atomically with this release's shell.
-    // Retain saved texts while dropping older catalog copies that could mask them.
+    // Catalogs are fetched on demand. Drop outdated catalog metadata on release change;
+    // retain saved texts for offline fallback until each one is visited online.
     const data = await caches.open(DATA_CACHE);
     for (const key of await data.keys()) {
       const path = localPath(key.url);

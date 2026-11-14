@@ -17,14 +17,14 @@
     "zh"
   ],
   "text": {
-    "ru": "Необычный гриб, растущий рядом с жилами Кресниковых кристаллов. Своё название он получил благодаря шляпке, по форме напоминающей складчатый хрустальный зонтик.",
-    "en": "A peculiar mushroom that grows along the veins of the Kresnik Kristall, named for its ridged cap, which resembles a pleated parasol carved from crystal.",
-    "zh": "在克什尼克晶矿的矿脉旁生长出来的奇特蘑菇，因其伞盖的形状犹如带有褶皱的晶伞而得名。"
+    "ru": "Необычный гриб, растущий рядом с жилами Кресниковых кристаллов. Своё название он получил благодаря шляпке, по форме напоминающей складчатый хрустальный зонтик.\nНекогда учёные, изучавшие грибы, полагали, что кристаллический гриб-зонтик формируется благодаря тому, что его мицелий образует уникальные симбиотические связи с Кресниковыми кристаллами. Однако позже, когда учёные по-настоящему разобрали кристаллический гриб-зонтик, они наконец осознали: для этого вида грибов мицелий и есть кристалл, а кристалл и есть мицелий.",
+    "en": "A peculiar mushroom that grows along the veins of the Kresnik Kristall, named for its ridged cap, which resembles a pleated parasol carved from crystal.\nScholars who studied fungi once believed that Kristallfolds developed through an unusual symbiotic relationship between their mycelia and the surrounding Kresnik Kristall. Only after carefully dissecting a specimen did they discover the truth. In this strange fungus, the crystal and the mycelium are one and the same.",
+    "zh": "在克什尼克晶矿的矿脉旁生长出来的奇特蘑菇，因其伞盖的形状犹如带有褶皱的晶伞而得名。\n曾有研究蕈类的学者认为，析晶褶伞的形成是由于其菌丝形成了非常独特的和克什尼克晶矿的共生关系。但后来某日，学者们真正拆解析晶褶伞时才真正意识到，对于这种蕈类来说，菌丝就是晶矿，晶矿就是菌丝。"
   },
   "description": {
-    "ru": "Необычный гриб, растущий рядом с жилами Кресниковых кристаллов. Своё название он получил благодаря шляпке, по форме напоминающей складчатый хрустальный зонтик.",
-    "en": "A peculiar mushroom that grows along the veins of the Kresnik Kristall, named for its ridged cap, which resembles a pleated parasol carved from crystal.",
-    "zh": "在克什尼克晶矿的矿脉旁生长出来的奇特蘑菇，因其伞盖的形状犹如带有褶皱的晶伞而得名。"
+    "ru": "Необычный гриб, растущий рядом с жилами Кресниковых кристаллов. Своё название он получил благодаря шляпке, по форме напоминающей складчатый хрустальный зонтик.\nНекогда учёные, изучавшие грибы, полагали, что кристаллический гриб-зонтик формируется благодаря тому, что его мицелий образует уникальные симбиотические связи с Кресниковыми кристаллами. Однако позже, когда учёные по-настоящему разобрали кристаллический гриб-зонтик, они наконец осознали: для этого вида грибов мицелий и есть кристалл, а кристалл и есть мицелий.",
+    "en": "A peculiar mushroom that grows along the veins of the Kresnik Kristall, named for its ridged cap, which resembles a pleated parasol carved from crystal.\nScholars who studied fungi once believed that Kristallfolds developed through an unusual symbiotic relationship between their mycelia and the surrounding Kresnik Kristall. Only after carefully dissecting a specimen did they discover the truth. In this strange fungus, the crystal and the mycelium are one and the same.",
+    "zh": "在克什尼克晶矿的矿脉旁生长出来的奇特蘑菇，因其伞盖的形状犹如带有褶皱的晶伞而得名。\n曾有研究蕈类的学者认为，析晶褶伞的形成是由于其菌丝形成了非常独特的和克什尼克晶矿的共生关系。但后来某日，学者们真正拆解析晶褶伞时才真正意识到，对于这种蕈类来说，菌丝就是晶矿，晶矿就是菌丝。"
   },
   "notes": {
     "general": "",

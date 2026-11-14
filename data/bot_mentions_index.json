@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "version": "bot_mentions:fef213d9e6fc",
+  "version": "bot_mentions:51b9c34202a5",
   "generated_by": "tools/build_bot_mentions_index.py",
   "description": "Compact search/mention index for Alter Lunna Telegram bot. Contains display data, contextual passive phrases, active-search relations and small prebuilt lookups; no full archive texts.",
   "public_sections": [
@@ -13218,12 +13218,14 @@
       "tags": [
         "Crystal Marrow",
         "Кристальный костный мозг",
-        "晶化骨髓"
+        "晶化骨髓",
+        "Лини"
       ],
       "related_terms": [
         "Crystal Marrow",
         "Кристальный костный мозг",
-        "晶化骨髓"
+        "晶化骨髓",
+        "Лини"
       ],
       "signature_owners": [],
       "signature_aliases": [],
@@ -23650,12 +23652,14 @@
       "tags": [
         "Winter Icelea",
         "Шпороцветник",
-        "冬凌草"
+        "冬凌草",
+        "Весна"
       ],
       "related_terms": [
         "Winter Icelea",
         "Шпороцветник",
-        "冬凌草"
+        "冬凌草",
+        "Весна"
       ],
       "signature_owners": [],
       "signature_aliases": [],
@@ -120801,6 +120805,7 @@
       "books:book_suit_1074",
       "books:humor_from_tianheng",
       "items:10_magatsu_mitake_narukami_no_mikoto",
+      "items:winter_icelea",
       "stories:kamisato_ayaka",
       "stories:quest_wq_71115",
       "stories:quest_aq_1700",
@@ -120849,6 +120854,7 @@
       "books:book_suit_1074",
       "books:humor_from_tianheng",
       "items:10_magatsu_mitake_narukami_no_mikoto",
+      "items:winter_icelea",
       "stories:kamisato_ayaka",
       "stories:quest_wq_71115",
       "stories:quest_aq_1700",
@@ -124431,6 +124437,7 @@
       "books:the_byakuyakoku_collection",
       "books:onibudou",
       "books:time_trekker",
+      "items:crystal_marrow",
       "items:material_set_112152",
       "items:oprichniki_line_trooper_warrants",
       "items:close_combat_storm_landcruiser_drive_shafts",
@@ -420699,7 +420706,7 @@
     },
     "signature_entries": 71,
     "signature_aliases": 6355,
-    "related_terms": 13334,
+    "related_terms": 13336,
     "related_lookup_terms": 5615,
     "signature_lookup_terms": 114,
     "mention_phrases": 35078,

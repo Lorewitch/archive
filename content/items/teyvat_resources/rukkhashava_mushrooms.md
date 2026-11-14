@@ -22,12 +22,16 @@
 
 ## RU
 
-До завершения задания Архонтов «Где находится корабль сознания»: Растут слоями, напоминая гряду облаков. Чаще всего паразитируют на деревьях в тропических лесах. Поэтому жители Сумеру считают их священным кристаллом наследия Руккхадеваты. После завершения задания Архонтов «Где находится корабль сознания»: Растут слоями, напоминая гряду облаков. Чаще всего паразитируют на деревьях в тропических лесах.
+Гриб, который растёт слоями и напоминает море облаков. Большинство этих удивительных грибов растёт на стволах деревьев в самых глубоких частях тропического леса. По этой причине жители Сумеру считают их священным воплощением наследия самой Руккхадеваты.
+В Сумеру у жителей тропического леса существует традиция приносить грибы руккхашава в жертву Академии, хотя никто не знает об их предназначении. По слухам, Академия проводит тайный ежегодный ритуал в Храме Сурастаны, во время которого мудрецы поедают эти грибы в память о самопожертвовании Руккхадеваты.
 
 ## EN
 
-Before completing the Archon Quest "Where the Boat of Consciousness Lies": A fungus that grows in layers upon layers, like a sea of clouds, and which mostly grows on trees deep in the rainforest. Therefore, they are considered by the people of Sumeru to be the holy crystallization of Rukkhadevata's legacy. After completing the Archon Quest "Where the Boat of Consciousness Lies": A fungus that grows in layers upon layers, like a sea of clouds, and which mostly grows on trees deep in the rainforest.
+A fungus that grows in layers upon layers, like a sea of clouds, and which mostly grows on trees deep in the rainforest. Therefore, they are considered by the people of Sumeru to be the holy crystallization of Rukkhadevata's legacy.
+In Sumeru, those who dwell in the forest have a tradition of offering Rukkhashava Mushrooms to the Akademiya, but no one knows what these offerings are meant to be used for. Word has it that the Akademiya always performs a secret annual ritual at the Sanctuary of Surasthana, during which the sages will consume these mushrooms to commemorate Lord Rukkhadevata's sacrifice.
 
 ## ZH
 
-完成魔神任务「意识之舟所至之处」前： 如云海般层层叠叠生长的菌类，大多寄生于雨林深处的乔木之上，因此被须弥人视为 树王遗德熏结而出的圣体。 完成魔神任务「意识之舟所至之处」后： 如云海般层层叠叠生长的菌类，大多寄生于雨林深处的乔木之上。
+如云海般层层叠叠生长的菌类，大多寄生于雨林深处的乔木之上，因此被须弥人视为树王遗德熏结而出的圣体。
+在须弥，森林中的居民有着向教令院贡奉树王圣体菇的传统，但这些贡品的用途却不为世人所知。据某些逸话中说，教令院每年会在净善宫进行秘密的仪式。在仪式上，贤者们会通过食用树王圣体菇的方式来纪念树王的牺牲。
+

@@ -68,12 +68,13 @@ test('the manifest is portable under /archive/, with both regular and maskable i
  for(const icon of manifest.icons)assert.ok(fs.existsSync(path.join(root,icon.src)));
 });
 
-test('installation saves the shell and catalogs, without downloading every text or Alter indexes',async()=>{
+test('installation saves only the interface and counts; catalogs and all texts wait for visits',async()=>{
  const f=fixture();await f.lifecycle('install');
  assert.equal(f.skips,0);
  const keys=await (await f.caches.open(f.api.SHELL_CACHE)).keys();
  assert.ok(keys.some(key=>key.url===scope+'index.html'));
- assert.ok(keys.some(key=>key.url===scope+'data/books_index.json'));
+ assert.ok(keys.some(key=>key.url===scope+'data/archive_summary.json'));
+ assert.ok(keys.every(key=>!key.url.includes('/data/') || key.url===scope+'data/archive_summary.json'));
  assert.ok(keys.every(key=>!key.url.includes('/bot_')));
  assert.ok(keys.every(key=>!key.url.includes('/data/books/')));
  const html=await f.request('./?from=shortcut',{navigate:true});assert.ok((await html.text()).includes('Архив Лороведьмы'));
@@ -242,7 +243,7 @@ test('returning to About restores native installation, update and offline status
  assert.equal(f.nodes['pwa-install'].textContent,'Установить Архив');
  assert.equal(f.nodes['pwa-update'].hidden,false);
  assert.equal(f.nodes['pwa-network-status'].textContent,'Чтение сохранённой копии');
- assert.ok(f.nodes['pwa-offline-hint'].textContent.includes('Каталог доступен'));
+ assert.ok(f.nodes['pwa-offline-hint'].textContent.includes('Открытые разделы'));
  await f.nodes['pwa-install'].listeners.click();
 });
 
@@ -255,4 +256,27 @@ test('conflicted online HTML cannot replace a usable offline release',async()=>{
  });
  await assert.rejects(f.lifecycle('install'),/unresolved Git conflict/);
  assert.ok((await f.caches.keys()).includes(old));
+});
+
+
+test('same-release versioned data is served from cache; a new version fetches fresh text',async()=>{
+ const requests=[];let text='first';
+ const f=fixture(async input=>{requests.push(typeof input==='string'?input:input.url);return jsonResponse({id:'a',text});});
+ assert.equal((await (await f.request('data/readers/stories/a/stories.ru.json?v=800')).json()).text,'first');
+ text='next';
+ assert.equal((await (await f.request('data/readers/stories/a/stories.ru.json?v=800')).json()).text,'first');
+ assert.equal(requests.length,1);
+ assert.equal((await (await f.request('data/readers/stories/a/stories.ru.json?v=801')).json()).text,'next');
+ assert.equal(requests.length,2);
+ f.setNetwork(offline);
+ const old=await f.request('data/readers/stories/a/stories.ru.json?v=802');
+ assert.equal(old.headers.get('X-Archive-Saved-Copy'),'1');assert.equal((await old.json()).text,'next');
+});
+
+test('revisiting a same-release card image performs no background download',async()=>{
+ let requests=0;
+ const f=fixture(async()=>{requests++;return new Response('image',{headers:{'content-type':'image/webp'}});});
+ await f.request('assets/icons/books/a.webp?v=800');
+ await f.request('assets/icons/books/a.webp?v=800');
+ assert.equal(requests,1);
 });

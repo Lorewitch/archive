@@ -6,23 +6,6 @@ let WEAPONS = [];
 let ITEMS = [];
 let STORIES = [];
 let ENEMIES = [];
-// Cross-category quest links resolve through one compact shared index, fetched lazily.
-let STORY_REFERENCE_ROWS = null;
-let STORY_REFERENCE_LOAD = null;
-
-async function loadStoryReferences() {
-  if (STORY_REFERENCE_ROWS) return STORY_REFERENCE_ROWS;
-  if (!STORY_REFERENCE_LOAD) {
-    STORY_REFERENCE_LOAD = fetchJson("data/stories_index.json")
-      .then(data => {
-        STORY_REFERENCE_ROWS = normalizeList(data, "stories");
-        return STORY_REFERENCE_ROWS;
-      })
-      .finally(() => { STORY_REFERENCE_LOAD = null; });
-  }
-  return STORY_REFERENCE_LOAD;
-}
-
 const DETAILS = new Map();
 const DETAIL_LOADS = new Map();
 const DETAIL_CACHE_LIMIT = 24;
@@ -174,7 +157,9 @@ async function loadDetail(sectionId, id) {
   }
   if (!DETAIL_LOADS.has(cacheKey)) {
     const directory = sectionId === "bestiary" ? "enemies" : sectionId;
-    const pending = fetchJson(`data/${directory}/${encodeURIComponent(id)}.json`)
+    const pending = fetchJson(sectionId === "stories"
+      ? `data/readers/stories/${encodeURIComponent(id)}.json`
+      : `data/${directory}/${encodeURIComponent(id)}.json`)
       .then(detail => {
         if (!detail?.id) throw new Error("Запись не найдена.");
         DETAILS.set(cacheKey, detail);
@@ -206,4 +191,37 @@ async function loadArchiveSummary() {
       .finally(() => { ARCHIVE_SUMMARY_LOAD = null; });
   }
   return ARCHIVE_SUMMARY_LOAD;
+}
+
+// Bodies are fetched only after opening a story and choosing its content/language.
+const STORY_CHUNK_LOADS = new Map();
+
+function storyReaderChunkPath(story, contentType = activeStoryContentType(story), lang = state.lang) {
+  return story?.reader_chunks?.[contentType]?.[lang] || "";
+}
+
+function storyReaderChunkLoaded(story, contentType = activeStoryContentType(story), lang = state.lang) {
+  if (!storyReaderChunkPath(story, contentType, lang)) return true;
+  const parts = contentType === "replicas" ? story.replicas : story.parts;
+  return Array.isArray(parts) && parts.every(part => Object.prototype.hasOwnProperty.call(part.text || {}, lang));
+}
+
+
+async function loadStoryReaderChunk(story, contentType = activeStoryContentType(story), lang = state.lang) {
+  const path = storyReaderChunkPath(story, contentType, lang);
+  if (!path || storyReaderChunkLoaded(story, contentType, lang)) return story;
+  if (!STORY_CHUNK_LOADS.has(path)) {
+    STORY_CHUNK_LOADS.set(path, fetchJson(path).finally(() => STORY_CHUNK_LOADS.delete(path)));
+  }
+  const payload = await STORY_CHUNK_LOADS.get(path);
+  const parts = contentType === "replicas" ? story.replicas : story.parts;
+  if (payload?.id !== story.id || payload.kind !== contentType || payload.language !== lang || !Array.isArray(payload.parts)
+      || payload.parts.length !== parts.length) throw new Error("Не удалось загрузить текст выбранного раздела.");
+  const texts = new Map(payload.parts.map(part => [Number(part.number), part.text]));
+  if (parts.some(part => typeof texts.get(Number(part.number)) !== "string")) throw new Error("Неполный текст выбранного раздела.");
+  for (const part of parts) {
+    if (!part.text) part.text = {};
+    part.text[lang] = texts.get(Number(part.number));
+  }
+  return story;
 }

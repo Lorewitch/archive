@@ -185,7 +185,7 @@ async function initArchivePwa() {
     });
   });
   await navigator.serviceWorker.ready;
-  pwaOfflineMessage = "Каталог доступен без сети. Открытые материалы сохраняются для чтения.";
+  pwaOfflineMessage = "Открытые разделы и материалы сохраняются для чтения без сети.";
   syncPwaControls();
   warmFirstVisit();
   // Include resources that were already loading while the first worker installed.

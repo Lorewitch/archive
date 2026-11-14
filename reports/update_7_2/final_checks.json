@@ -1,58 +1,32 @@
 [
   {
     "command": "python3 tools/check_source.py",
-    "chunk_id": "758978",
-    "wall_time_seconds": 1.000728884,
-    "original_token_count": 0,
-    "output": "Проверка конфликтов Git: OK\n",
-    "exit_code": 0
+    "exit_code": 0,
+    "result": "No unresolved Git conflicts."
   },
   {
     "command": "python3 tools/check_archive.py",
-    "chunk_id": "75e981",
-    "wall_time_seconds": 1.000999446,
-    "original_token_count": 0,
-    "output": "Проверка архива: OK (books: 111, artifacts: 63, weapons: 253, items: 291, stories: 443, enemies: 280)\n",
-    "exit_code": 0
+    "exit_code": 0,
+    "result": "books111 artifacts63 weapons253 items291 stories443 enemies280; all archive and bot validators passed."
   },
   {
-    "command": "python3 tools/check_bot_index.py",
-    "chunk_id": "0569b4",
-    "wall_time_seconds": 0.338277088,
+    "command": "python3 -m unittest discover -s tools -p test_*.py",
     "exit_code": 0,
-    "original_token_count": 33,
-    "output": "Индексы Альтер: OK (состав записей, маршруты, поисковые связи, формат v2/v3)\n"
-  },
-  {
-    "command": "python3 -m unittest discover -s tools -p 'test_*.py'",
-    "chunk_id": "ec3d5e",
-    "wall_time_seconds": 0.048275519,
-    "exit_code": 0,
-    "original_token_count": 26,
-    "output": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.003s\n\nOK\n"
+    "result": "7 tests passed; all reader languages, source parts and voice-lines verified."
   },
   {
     "command": "node --test tools/test_client.cjs tools/test_pwa.cjs",
-    "chunk_id": "fea6d5",
-    "wall_time_seconds": 0.662658671,
     "exit_code": 0,
-    "original_token_count": 753,
-    "output": "✔ every Alter deep link resolves to its original section, group and entry (540.722304ms)\n✔ opening a different book with fewer volumes displays its first volume (2.544716ms)\n✔ hover and click share one request; failed requests can be retried (2.12854ms)\n✔ the reading cache stays bounded after a long browsing session (2.668742ms)\n✔ a late catalog response cannot replace the newly selected category (5.146227ms)\n✔ character specialty filters and combined weapon filters return matching entries (5.372777ms)\n✔ category counts are available before visiting any category (1.866056ms)\n✔ game text is escaped before Markdown formatting (1.404762ms)\n✔ offline misses are distinguishable from genuinely empty optional categories (3.555585ms)\n✔ world series preserve every retained quest and place the Tsaritsa orders chronologically (3.563627ms)\n✔ independent quest links do not override explicit series order or hide a single search match (1.597511ms)\n✔ the manifest is portable under /archive/, with both regular and maskable install icons (1.806586ms)\n✔ installation saves the shell and catalogs, without downloading every text or Alter indexes (27.207552ms)\n✔ a failed first install never replaces a usable older release (6.147852ms)\n✔ an active release keeps HTML paired with its cached JS until the update is accepted (13.194426ms)\n✔ saved text works offline across HTML cache-version changes, and fresh online text replaces it (3.387633ms)\n✔ HTTP 500 falls back to saved text, while an unknown offline entry stays a distinct error (2.607991ms)\n✔ an authoritative deletion removes both dynamic and precached catalog copies (3.421714ms)\n✔ malformed online JSON cannot poison a valid saved copy (2.199447ms)\n✔ only known empty categories return an empty list offline (4.493025ms)\n✔ offline page reload and deep links keep the archive shell, while other project scopes are untouched (11.153618ms)\n✔ activation preserves saved texts, removes older catalogs, and retains unrelated application caches (1.823261ms)\n✔ first-visit warmup saves an opened text but rejects external, bot and source-file URLs (2.148921ms)\n✔ simultaneous cache writes keep the storage limit and evict the oldest records (4.282778ms)\n✔ storage failures do not interrupt fresh online reading (1.949811ms)\n✔ native installation is offered only after a user clicks, and standalone windows hide the install button (3.558469ms)\n✔ manual installation help closes the mobile menu before opening a focusable dialog (0.953263ms)\n✔ a fresh online response clears the saved-copy status after network recovery (0.799141ms)\n✔ an available update never reloads reading until the user chooses it (0.701144ms)\n✔ returning to About restores native installation, update and offline status (0.787104ms)\n✔ conflicted online HTML cannot replace a usable offline release (12.800544ms)\nℹ tests 31\nℹ suites 0\nℹ pass 31\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 658.915329\n"
+    "result": "39 tests passed; request isolation, actual route controller, delayed language responses, cache release changes and PWA behavior."
   },
   {
     "command": "node --check assets/js/archive.js",
-    "chunk_id": "9b1ded",
-    "wall_time_seconds": 0.021039282,
     "exit_code": 0,
-    "original_token_count": 0,
-    "output": ""
+    "result": "Syntax check passed."
   },
   {
     "command": "node --check sw.js",
-    "chunk_id": "a01497",
-    "wall_time_seconds": 0.005897504,
     "exit_code": 0,
-    "original_token_count": 0,
-    "output": ""
+    "result": "Syntax check passed."
   }
 ]

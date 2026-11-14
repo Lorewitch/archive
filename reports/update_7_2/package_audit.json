@@ -1,13 +1,11 @@
 {
-  "status": "passed",
+  "status": "source_and_test_checks_passed",
+  "file_count": 6704,
   "total_markdown_cards": 1441,
-  "removed_note_sources_absent": 58,
-  "removed_note_data_absent": 58,
+  "world_quest_cards": 209,
+  "story_reader_json_files": 2141,
+  "automated_tests_passed": 46,
   "unwanted_git_history_absent": true,
   "interpreter_caches_absent": true,
-  "file_count": 4559,
-  "zip_crc_check": "passed",
-  "duplicate_entries": 0,
-  "every_packaged_file_matches_working_copy": true,
-  "all_36_automated_tests_passed": true
+  "expected_library_previous_version": 7
 }

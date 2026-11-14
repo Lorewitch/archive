@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "baseline_version": 7,
+  "original_card_set_preserved": 1441,
+  "changed_source_files": 72,
+  "unchanged_source_files": 1369,
+  "removed_annotation_cards": 6,
+  "removed_annotation_language_blocks": 18,
+  "expanded_resource_cards": 66,
+  "reviewed_resources": 118,
+  "all_other_character_story_parts_unchanged": true,
+  "all_9330_voiceovers_byte_equivalent": true,
+  "all_320_quest_parts_unchanged": true,
+  "all_existing_assets_except_compiled_js_unchanged": true,
+  "css_unchanged": true,
+  "world_quests": 209,
+  "world_series": 29,
+  "mandatory_source_parts": 34,
+  "source_named_functions": 239,
+  "unreferenced_named_function_candidates": [],
+  "offline_shell_requests_before": 57,
+  "offline_shell_requests_after": 35,
+  "unvisited_catalog_bytes_preloaded_before": 3435116,
+  "unvisited_catalog_bytes_preloaded_after": 0,
+  "first_open_examples": [
+    {
+      "id": "traveler",
+      "legacy_json_bytes": 1652350,
+      "reader_manifest_bytes": 101715,
+      "russian_stories_bytes": 6763,
+      "first_open_json_bytes": 108478,
+      "reduction_percent": 93.43
+    },
+    {
+      "id": "alyosha",
+      "legacy_json_bytes": 383850,
+      "reader_manifest_bytes": 11564,
+      "russian_stories_bytes": 51224,
+      "first_open_json_bytes": 62788,
+      "reduction_percent": 83.64
+    },
+    {
+      "id": "quest_aq_1204",
+      "legacy_json_bytes": 932711,
+      "reader_manifest_bytes": 3972,
+      "russian_stories_bytes": 427946,
+      "first_open_json_bytes": 431918,
+      "reduction_percent": 53.69
+    },
+    {
+      "id": "quest_wq_10277",
+      "legacy_json_bytes": 402387,
+      "reader_manifest_bytes": 5387,
+      "russian_stories_bytes": 178379,
+      "first_open_json_bytes": 183766,
+      "reduction_percent": 54.33
+    }
+  ],
+  "measurement_scope": "Uncompressed JSON byte sizes, not elapsed network time; the old catalog/reference overhead is excluded from the legacy per-card examples.",
+  "tests": {
+    "python": 7,
+    "node": 39,
+    "failed": 0
+  },
+  "visual_browser_check": "Not performed in this turn; direct route and asynchronous language selection tested in VM with actual controller code."
+}

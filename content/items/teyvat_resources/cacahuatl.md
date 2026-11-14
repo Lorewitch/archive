@@ -22,12 +22,16 @@
 
 ## RU
 
-Растение с богатым вкусом. Плод обладает уникальной горечью, а его семена после ферментации и выпекания могут стать основой для других деликатесов.
+Растение с богатым вкусом. Сам фрукт обладает уникальной горечью, а из его семян после ферментации и запекания можно приготовить разные деликатесы.
+В Натлане есть пословица, которая гласит: «Кто сеет семена горечи, тот в ответ пожнёт горькие семена». По сути, это означает, что не стоит навлекать на себя беду.
 
 ## EN
 
 A crop rich in flavor. The fleshy part itself features a unique bitterness and its seeds, after being fermented and baked, can be made into other delicacies.
+In Natlan, there is a proverb that goes: "Those that sow caca shall reap cacahuatl." In essence, it means that those who sow bitterness shall reap bitter fruit, and you shouldn't go asking for trouble.
 
 ## ZH
 
-风味浓郁的作物。 果肉本身会有独特的苦涩味，其种子在发酵及烘焙后，可以制成其他的美食。
+风味浓郁的作物。果肉本身会有独特的苦涩味，其种子在发酵及烘焙后，可以制成其他的美食。
+在纳塔，有一句俗语是这样的，「种下苦种，得到苦种」，大致的意思是，做人不要自寻苦吃。
+

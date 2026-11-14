@@ -22,12 +22,16 @@
 
 ## RU
 
-Цветок с листьями и лепестками, которые выглядят обожжёнными и увядшими. Его часто можно встретить в местах, где много золы.
+Цветок, листья и лепестки которого увяли. Его можно найти в местах, где много золы.
+Пурпурник изначально имел более насыщенный и яркий цвет, но когда сожжённый город был разрушен, этот цветок, некогда любимый жителями, не смог избежать судьбы. Он был запятнан тёмной тенью и погиб в огне божественного гнева. Даже сегодня, глядя на его опавшие листья, можно легко представить, как некогда весь город пылал в огне.
 
 ## EN
 
 A flower, the leaves and petals of which look scorched and withered, that can often be seen in places where ash abounds.
+From the name Purpurbloom, you would assume that their colors would be deeper and more vibrant. Yet even these flowers, once so cherished by the people of Cinder City, could not escape being tainted by the cankering shadow that enveloped their entire city. In the end, they too were consumed by the god's raging inferno. Even today, simply by observing their charred, desiccated leaves, one gets a vague sense of the all-engulfing power of that raging fire that once melted a city entire.
 
 ## ZH
 
 叶片与花瓣呈现枯焦之态的花朵，常常能在流灰弥漫之处看到它。
+名为紫英的植株原本应该拥有更为深邃亮丽的色彩，只不过，这种曾一度受到烬城居民喜爱的花朵，在整座烬城都被侵蚀时，也难以逃离被幽影沾染、以至于最后被神的怒焰焚毁的结局。直至今日，都可以从其生长出的焦枯残叶般的姿态之中，隐约感受到曾将整座城市熔毁的烈焰的伟力。
+
